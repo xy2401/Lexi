@@ -54,7 +54,7 @@ if (!extracted) {
     const require = createRequire(import.meta.url);
     const seven = require('7zip-min');
     await new Promise((resolve, reject) => {
-      seven.cmd('x', ARCHIVE, `-o${OUT_DIR}`, '-y', (err) => err ? reject(err) : resolve());
+      seven.unpack(ARCHIVE, OUT_DIR, (err) => err ? reject(err) : resolve());
     });
     extracted = true;
   } catch (e) {
