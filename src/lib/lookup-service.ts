@@ -9,11 +9,11 @@
  */
 import { lookupLocal, cacheWords, type WordEntry } from './db'
 import { restoreBase } from './morphology'
-import { queryEcdict, queryStardict, type EcdictResult, type StardictResult } from './remote-db'
+import { queryHot, queryEcdict, queryStardict, type EcdictResult, type StardictResult } from './remote-db'
 
 export interface LookupResult {
   word: string
-  source: 'local' | 'remote-ecdict' | 'not-found'
+  source: 'local' | 'remote-hot' | 'remote-ecdict' | 'not-found'
   entry: WordEntry | null
 }
 
@@ -44,7 +44,22 @@ export async function lookupWord(word: string): Promise<LookupResult> {
     }
   }
 
-  // 3. 远端 ECDICT 查询
+  // 3. 远端热词分片查询（单字分片，体积小加载快）
+  const hotResult = await queryHot(lower)
+  if (hotResult) {
+    const entry: WordEntry = {
+      word: hotResult.word,
+      phonetic: hotResult.phonetic,
+      frequency: hotResult.frequency,
+      tags: hotResult.tags,
+      exchange: hotResult.exchange,
+      translation: hotResult.translation,
+    }
+    cacheWords([entry]).catch(() => {})
+    return { word: lower, source: 'remote-hot', entry }
+  }
+
+  // 4. 远端 ECDICT 全量分片查询
   const remoteResult = await queryEcdict(lower)
   if (remoteResult) {
     const entry: WordEntry = {
@@ -64,6 +79,21 @@ export async function lookupWord(word: string): Promise<LookupResult> {
 
   // 如果原词未命中，尝试用原型查远端
   if (base !== lower) {
+    // 先查热词分片
+    const hotBase = await queryHot(base)
+    if (hotBase) {
+      const entry: WordEntry = {
+        word: hotBase.word,
+        phonetic: hotBase.phonetic,
+        frequency: hotBase.frequency,
+        tags: hotBase.tags,
+        exchange: hotBase.exchange,
+        translation: hotBase.translation,
+      }
+      cacheWords([entry]).catch(() => {})
+      return { word: lower, source: 'remote-hot', entry }
+    }
+    // 再查全量分片
     const remoteBase = await queryEcdict(base)
     if (remoteBase) {
       const entry: WordEntry = {

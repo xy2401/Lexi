@@ -21,6 +21,13 @@ export function getDbName(word: string): string {
   return `${first}_.db`
 }
 
+// ========== 单字归仓算法（热词分片） ==========
+export function getHotDbName(word: string): string {
+  const first = word[0]?.toLowerCase()
+  if (first && /^[a-z]$/.test(first)) return `${first}.db`
+  return '_.db'
+}
+
 // ========== sql.js 初始化 ==========
 let sqlPromise: Promise<any> | null = null
 
@@ -59,7 +66,7 @@ export interface StardictResult {
 /**
  * 加载分片数据库（用完即关，不缓存）
  */
-async function getShardDb(track: 'ecdict' | 'stardict', dbName: string): Promise<SqlJsDatabase> {
+async function getShardDb(track: 'ecdict' | 'stardict' | 'hot', dbName: string): Promise<SqlJsDatabase> {
   const url = `/dicts/${track}/${dbName}`
   const response = await fetch(url)
   if (!response.ok) {
@@ -69,6 +76,38 @@ async function getShardDb(track: 'ecdict' | 'stardict', dbName: string): Promise
   const buffer = await response.arrayBuffer()
   const SQL = await getSqlJs()
   return new SQL.Database(new Uint8Array(buffer))
+}
+
+/**
+ * 查询远端热词分片（单字分片，体积小、加载快）
+ */
+export async function queryHot(word: string): Promise<EcdictResult | null> {
+  const dbName = getHotDbName(word)
+  try {
+    const db = await getShardDb('hot', dbName)
+    const stmt = db.prepare('SELECT * FROM words WHERE word = ?')
+    stmt.bind([word.toLowerCase()])
+
+    if (stmt.step()) {
+      const row = stmt.getAsObject() as any
+      stmt.free()
+      db.close()
+      return {
+        word: row.word,
+        frequency: row.frequency || 0,
+        tags: row.tags || '',
+        exchange: row.exchange || '',
+        phonetic: row.phonetic || '',
+        translation: row.translation || '',
+      }
+    }
+    stmt.free()
+    db.close()
+    return null
+  } catch (e) {
+    console.warn(`[remote-db] queryHot failed for "${word}":`, e)
+    return null
+  }
 }
 
 /**
@@ -135,7 +174,7 @@ export async function queryStardict(word: string): Promise<StardictResult | null
  * 获取分片内所有词条（Explorer 浏览用）
  */
 export async function listShardWords(
-  track: 'ecdict' | 'stardict',
+  track: 'ecdict' | 'stardict' | 'hot',
   dbName: string,
   limit = -1,
   offset = 0

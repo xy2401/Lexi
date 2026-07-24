@@ -116,7 +116,7 @@ function selectWord(word: string) {
           >
             <span class="word-text">{{ item.word }}</span>
             <span class="word-phonetic" v-if="item.phonetic">{{ item.phonetic }}</span>
-            <span class="word-trans">{{ (item.translation || '').split('\n')[0]?.slice(0, 30) }}</span>
+            <span class="word-trans">{{ (item.translation || '').split(/\\n|\n/)[0]?.slice(0, 30) }}</span>
           </div>
         </div>
       </div>

@@ -131,6 +131,10 @@ function closeDrawer() {
 }
 
 // ========== Explorer 事件 ==========
+function fmtTranslation(text: string): string {
+  return text.replace(/\\r\\n|\\n/g, '\n')
+}
+
 async function handleExplorerSelectWord(word: string) {
   explorerWord.value = word
   const localData = dictStore.lookup(word)
@@ -282,7 +286,7 @@ async function speakReference() {
           <div class="word-detail" v-if="explorerEntry">
             <h4>{{ explorerEntry.word }}</h4>
             <p class="phonetic" v-if="explorerEntry.phonetic">/{{ explorerEntry.phonetic }}/</p>
-            <p class="translation">{{ explorerEntry.translation }}</p>
+            <p class="translation">{{ fmtTranslation(explorerEntry.translation) }}</p>
             <button class="speak-btn" @click="speak(explorerEntry!.word)">🔊 朗读</button>
             <button class="detail-btn" @click="openDrawer(explorerEntry!.word)">📋 详细释义</button>
           </div>

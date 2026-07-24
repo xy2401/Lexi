@@ -88,7 +88,8 @@ export async function getLocalWordsByShard(dbName: string): Promise<WordEntry[]>
 }
 
 /**
- * 从 hot-words.json 加载热数据到 IndexedDB
+ * 从 hot 分片加载热数据到 IndexedDB
+ * 并行 fetch 27 个单字分片 (a.db ~ z.db + _.db)
  * @param onProgress 进度回调 (0-100)
  */
 export async function loadHotData(onProgress?: (percent: number) => void): Promise<number> {
@@ -98,16 +99,54 @@ export async function loadHotData(onProgress?: (percent: number) => void): Promi
     return count
   }
 
-  const response = await fetch('/hot-words.json')
-  const data: WordEntry[] = await response.json()
+  // 动态导入 sql.js
+  const sqlModule: any = await import('sql.js')
+  const initFn = sqlModule.default?.default || sqlModule.default || sqlModule.initSqlJs || sqlModule
+  const SQL = await initFn({ locateFile: (file: string) => `/wasm/${file}` })
 
-  // 分批写入，每批 5000 条，避免阻塞 UI
-  const BATCH = 5000
-  for (let i = 0; i < data.length; i += BATCH) {
-    const batch = data.slice(i, i + BATCH)
-    await db.words.bulkPut(batch)
-    onProgress?.(Math.round(((i + BATCH) / data.length) * 100))
+  // 生成所有分片名: a.db ~ z.db + _.db
+  const shardNames: string[] = []
+  for (let i = 97; i <= 122; i++) shardNames.push(`${String.fromCharCode(i)}.db`)
+  shardNames.push('_.db')
+
+  let loaded = 0
+  const total = shardNames.length
+
+  // 并行加载所有分片
+  const results = await Promise.allSettled(
+    shardNames.map(async (name) => {
+      const resp = await fetch(`/dicts/hot/${name}`)
+      if (!resp.ok) return []
+      const buf = await resp.arrayBuffer()
+      const shardDb = new SQL.Database(new Uint8Array(buf))
+      const stmt = shardDb.prepare('SELECT * FROM words')
+      const words: WordEntry[] = []
+      while (stmt.step()) {
+        const row = stmt.getAsObject() as any
+        words.push({
+          word: row.word,
+          phonetic: row.phonetic || '',
+          frequency: row.frequency || 0,
+          tags: row.tags || '',
+          exchange: row.exchange || '',
+          translation: row.translation || '',
+        })
+      }
+      stmt.free()
+      shardDb.close()
+      return words
+    })
+  )
+
+  // 写入 IndexedDB
+  for (const result of results) {
+    if (result.status === 'fulfilled' && result.value.length > 0) {
+      await db.words.bulkPut(result.value)
+      loaded += result.value.length
+    }
+    onProgress?.(Math.round((++loaded / total) * 100))
   }
 
-  return data.length
+  onProgress?.(100)
+  return db.words.count()
 }
