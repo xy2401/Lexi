@@ -3,6 +3,5 @@ dist/
 package-lock.json
 public/dicts/ecdict/*.db
 public/dicts/stardict/*.db
-public/dicts/hot/*.db
 data/stardict-raw/
 *.png
