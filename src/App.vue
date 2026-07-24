@@ -276,12 +276,9 @@ async function speakReference() {
           <h3>A-Z 词典树</h3>
           <ExplorerTree @select-word="handleExplorerSelectWord" />
         </div>
-        <div class="explorer-center">
+        <div class="explorer-right">
           <h3>标签过滤</h3>
           <TagFilter @select-word="handleExplorerSelectWord" />
-        </div>
-        <div class="explorer-right">
-          <MorphNebula :entry="explorerEntry" @select-word="handleExplorerSelectWord" />
           <div class="word-detail" v-if="explorerEntry">
             <h4>{{ explorerEntry.word }}</h4>
             <p class="phonetic" v-if="explorerEntry.phonetic">/{{ explorerEntry.phonetic }}/</p>
@@ -289,6 +286,12 @@ async function speakReference() {
             <button class="speak-btn" @click="speak(explorerEntry!.word)">🔊 朗读</button>
             <button class="detail-btn" @click="openDrawer(explorerEntry!.word)">📋 详细释义</button>
           </div>
+          <WordDrawer
+            :word="drawerWord"
+            :visible="showDrawer"
+            @close="closeDrawer"
+          />
+          <MorphNebula :entry="explorerEntry" @select-word="handleExplorerSelectWord" />
         </div>
       </div>
     </div>
@@ -400,12 +403,6 @@ async function speakReference() {
       @close="closeTooltip"
       @open-drawer="openDrawer"
     />
-
-    <WordDrawer
-      :word="drawerWord"
-      :visible="showDrawer"
-      @close="closeDrawer"
-    />
   </div>
 </template>
 
@@ -515,12 +512,13 @@ async function speakReference() {
 /* Explorer 布局 */
 .explorer-layout {
   display: grid;
-  grid-template-columns: 1fr 1fr 300px;
+  grid-template-columns: 1fr 1fr;
   gap: 1.5rem;
+  align-items: start;
 }
 
 .explorer-left h3,
-.explorer-center h3 {
+.explorer-right h3 {
   margin: 0 0 0.75rem;
   font-size: 1rem;
   color: #555;

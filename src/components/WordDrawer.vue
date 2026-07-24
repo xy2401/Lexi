@@ -125,40 +125,26 @@ function renderShadow() {
 
 <template>
   <Transition name="drawer">
-    <div v-if="visible" class="drawer-overlay" @click.self="emit('close')">
-      <aside class="drawer-panel">
-        <header class="drawer-header">
-          <h3>{{ word }}</h3>
-          <button class="close-btn" @click="emit('close')">&times;</button>
-        </header>
+    <div v-if="visible" class="drawer-inline">
+      <header class="drawer-header">
+        <h3>📋 {{ word }}</h3>
+        <button class="close-btn" @click="emit('close')">&times;</button>
+      </header>
 
-        <div class="drawer-body">
-          <div v-if="loading" class="loading">加载详细释义...</div>
-          <div ref="shadowHost" class="shadow-host"></div>
-        </div>
-      </aside>
+      <div class="drawer-body">
+        <div v-if="loading" class="loading">加载详细释义...</div>
+        <div ref="shadowHost" class="shadow-host"></div>
+      </div>
     </div>
   </Transition>
 </template>
 
 <style scoped>
-.drawer-overlay {
-  position: fixed;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.3);
-  z-index: 2000;
-  display: flex;
-  justify-content: flex-end;
-}
-
-.drawer-panel {
-  width: 420px;
-  max-width: 90vw;
-  height: 100%;
+.drawer-inline {
+  margin-top: 1rem;
+  border: 1px solid #eee;
+  border-radius: 8px;
   background: #fff;
-  box-shadow: -4px 0 20px rgba(0, 0, 0, 0.1);
-  display: flex;
-  flex-direction: column;
   overflow: hidden;
 }
 
@@ -166,13 +152,14 @@ function renderShadow() {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 1rem 1.25rem;
+  padding: 0.75rem 1.25rem;
   border-bottom: 1px solid #eee;
+  background: #fafafa;
 }
 
 .drawer-header h3 {
   margin: 0;
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   color: #2c3e50;
 }
 
@@ -190,13 +177,13 @@ function renderShadow() {
 }
 
 .drawer-body {
-  flex: 1;
+  max-height: 500px;
   overflow-y: auto;
-  padding: 0;
+  scrollbar-gutter: stable;
 }
 
 .shadow-host {
-  min-height: 200px;
+  min-height: 100px;
 }
 
 .loading {
@@ -208,21 +195,12 @@ function renderShadow() {
 /* 过渡动画 */
 .drawer-enter-active,
 .drawer-leave-active {
-  transition: opacity 0.25s;
-}
-
-.drawer-enter-active .drawer-panel,
-.drawer-leave-active .drawer-panel {
-  transition: transform 0.25s;
+  transition: opacity 0.2s, transform 0.2s;
 }
 
 .drawer-enter-from,
 .drawer-leave-to {
   opacity: 0;
-}
-
-.drawer-enter-from .drawer-panel,
-.drawer-leave-to .drawer-panel {
-  transform: translateX(100%);
+  transform: translateY(-8px);
 }
 </style>
