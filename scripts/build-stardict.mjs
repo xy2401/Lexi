@@ -77,6 +77,11 @@ function escapeHtml(str) {
 }
 
 async function main() {
+  if (!existsSync(CSV_PATH)) {
+    log(`源文件不存在，跳过: ${CSV_PATH}`);
+    return;
+  }
+
   log('初始化 sql.js ...');
   const SQL = await initSqlJs();
 
