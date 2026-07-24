@@ -47,14 +47,14 @@ for (const cmd of ['7z', '7za', 'p7zip']) {
   }
 }
 
-// fallback: 7zip-min (bundled binaries)
+// fallback: 7zip-min (bundled binaries via 7zip-bin)
 if (!extracted) {
   try {
     const { createRequire } = await import('module');
     const require = createRequire(import.meta.url);
     const seven = require('7zip-min');
     await new Promise((resolve, reject) => {
-      seven.extractFull(ARCHIVE, OUT_DIR, (err) => err ? reject(err) : resolve());
+      seven.cmd('x', ARCHIVE, `-o${OUT_DIR}`, '-y', (err) => err ? reject(err) : resolve());
     });
     extracted = true;
   } catch (e) {
