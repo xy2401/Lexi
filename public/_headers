@@ -1,0 +1,16 @@
+# Cloudflare Pages 自定义响应头
+
+# SQLite 分片文件：支持 Range Requests + CORS
+/dicts/*
+  Access-Control-Allow-Origin: *
+  Accept-Ranges: bytes
+  Cache-Control: public, max-age=86400
+
+# 带 hash 的静态资源：长期缓存
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# 热数据 JSON：中等缓存
+/hot-words.json
+  Cache-Control: public, max-age=604800
+  Access-Control-Allow-Origin: *

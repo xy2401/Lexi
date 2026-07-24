@@ -1,0 +1,7 @@
+node_modules/
+dist/
+public/dicts/ecdict/*.db
+public/dicts/stardict/*.db
+public/hot-words.json
+data/stardict-raw/
+*.png

@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scrollbar-gutter: stable;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  background: #f8f9fa;
+  color: #2c3e50;
+  line-height: 1.6;
+}
+
+ruby {
+  ruby-align: center;
+}
+
+ruby rt {
+  font-size: 0.65em;
+  color: #e74c3c;
+  font-weight: 500;
+}
