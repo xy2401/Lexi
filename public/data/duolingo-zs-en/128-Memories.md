@@ -6,7 +6,7 @@
 
 bug, card, caught, childhood, come over, dirt, do, frog, frying pan, hide, joke, kicked, knee, neighborhood, never used to, now, pie, shy, spinach, stay, strict, trumpet, up, used to
 
-## 讲解
+## Tips
 
 "Childhood"（童年）作为一个被珍视的人生阶段，其实是近代才有的概念。在中世纪欧洲，儿童被视为"缩小版的成人"，七八岁就要下地干活或进作坊当学徒。直到17世纪，法国教育家卢梭在《爱弥儿》中提出"儿童有儿童的世界"，童年才被视为需要保护的珍贵时光。英语"childhood"中的"-hood"后缀来自古英语"hād"（状态、身份），与"neighborhood"（邻里）、"brotherhood"（兄弟情谊）共享这一古老后缀。
 
@@ -17,8 +17,6 @@ bug, card, caught, childhood, come over, dirt, do, frog, frying pan, hide, joke,
 "Neighborhood"（邻里）来自古英语"nēah"（近的）+"gebūr"（居住者），字面意思是"住在附近的人"。在工业革命前的欧洲，neighborhood不仅是地理概念，更是社会纽带——邻居之间互相照看孩子、分享食物、共同劳作。"Strict"（严格的）来自拉丁语"strictus"（拉紧的），与"string"（绳子）同源。严格的父母就像拉紧的绳子，给孩子设定边界。"Pie"（派）可能来自拉丁语"pica"（喜鹊），因为喜鹊收集各种杂物筑巢，而派也是把各种馅料"收集"在面皮里。
 
 "Used to"（过去常常）是英语中最独特的语法结构之一，表达"曾经如此但如今不再"的怀旧感。这个短语中的"used"不是"使用"，而是来自古英语"wesan"（存在）的过去习惯体。当一个人说"I used to catch frogs in the creek"（我过去常在溪里抓青蛙），语言本身就携带着时间的重量——那个在泥巴里追青蛙的孩子，已经永远留在了过去。
-
-## Tips
 
 - "Bug"（虫子）在17世纪英语中原本指"幽灵、妖怪"（与"bogeyman"同源），后来才变成昆虫的通称。
 - "Caught"是"catch"的过去式，"catch"来自古法语"cachier"（追赶），与拉丁语"captare"（捕捉）同源。

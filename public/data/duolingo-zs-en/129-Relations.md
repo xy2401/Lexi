@@ -6,7 +6,7 @@
 
 annoying, author, barber, blind, british, date, divorced, dream, firefighter, gay, haircut, honest, huge, lawyer, lesbian, marriage, nephew, niece, relationship, respect, retire, spouse, successful, trust, where
 
-## 讲解
+## Tips
 
 "Marriage"（婚姻）来自古法语"mariage"，词根是拉丁语"maritare"（嫁娶），而"maritare"又来自"mas/maris"（男性）。这个以男性为中心的词源反映了古代婚姻的父权本质。在古罗马，婚姻最初是一种财产交易——"manus"（手）仪式中，新娘从父亲的"手"中转移到丈夫的"手"中。"Spouse"（配偶）则来自拉丁语"sponsus/sponsa"（被承诺的人），与"sponsor"（担保人）同源——婚姻在词源上就是一份"承诺"和"担保"。
 
@@ -17,8 +17,6 @@ annoying, author, barber, blind, british, date, divorced, dream, firefighter, ga
 "Trust"（信任）来自古诺尔斯语"traust"（信心、保护），维京人用这个词形容战友之间生死相托的纽带。在维京社会中，"traust"是维系部落的核心价值——没有信任，长船上的划手就不会把后背交给同伴。"Respect"（尊重）来自拉丁语"respicere"（回头看），由"re-"（回）+"specere"（看）构成。尊重就是"回头看"——认真对待一个人的存在，而不是视而不见。
 
 "Dream"（梦想）来自古英语"drēam"，但有趣的是，古英语中"drēam"的意思不是"梦"，而是"欢乐、音乐"！古英语中"梦"用"swefn"表示。直到维京入侵后，古诺尔斯语的"draumr"（梦）逐渐取代了"swefn"，而原来的"drēam"（欢乐）则消失了。一个词的含义被彻底替换，这是语言史上罕见的现象。
-
-## Tips
 
 - "Author"（作者）来自拉丁语"auctor"（创造者、发起人），与"authority"（权威）同源——在古代，作者就是文本的"权威"。
 - "Honest"（诚实的）来自拉丁语"honestus"（可敬的），与"honor"（荣誉）同源。在古罗马，诚实是获得社会荣誉的前提。

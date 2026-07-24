@@ -6,7 +6,7 @@
 
 board, book, cruise, currency exchange, depart, direct, explore, ferry, get, go backpacking, hitchhike, hostel, if, layover, luxury, next day, one-way, ride, round-trip, say that again, wherever, will, won't
 
-## 讲解
+## Tips
 
 "Tourism"（旅游）来自法语"tour"（转一圈），与"tournament"（锦标赛，骑士在场上"转圈"）和"turn"（转动）同源。十八世纪英国贵族的"Grand Tour"（大旅行）是现代旅游业的雏形：年轻绅士花数月时间游历法国、意大利，参观古典遗迹，学习艺术和语言。"Tourist"一词在1800年前后出现，最初带有贬义——指那些走马观花、不懂当地文化的旅行者。
 
@@ -15,8 +15,6 @@ board, book, cruise, currency exchange, depart, direct, explore, ferry, get, go 
 "Hitchhike"（搭便车）是二十世纪公路文化的产物。"Hitch"意为"钩住、搭上"，"hike"意为"步行"——搭便车就是"用钩子把自己搭上别人的车，省去步行"。1960-70年代，hitchhiking在西方世界是一种近乎浪漫的旅行方式，代表着自由、信任和对陌生人的善意。"Backpacking"（背包旅行）则承载着另一种精神：轻装上路，拒绝舒适，用双脚和好奇心丈量世界。
 
 "Layover"（中转停留）和"round-trip"（往返票）是航空时代的词汇。"Layover"字面意思是"躺过来"——在旅途中"躺下休息"一段时间再继续。"One-way"（单程）与"round-trip"的对立，隐喻了两种旅行哲学：单程票意味着不确定性和冒险，往返票意味着安全和回归。"Depart"（出发）来自拉丁语"departire"（分开），由"de-"（离开）和"pars"（部分）组成——出发就是"将自己从所在地分离出去"。
-
-## Tips
 
 - "Book"作动词表示"预订"，源自"book"（账簿）——在账簿上记下你的名字，就是预订。
 - "Currency exchange"（货币兑换）中的"currency"来自拉丁语"currere"（奔跑）——货币是"奔跑流通"的东西。

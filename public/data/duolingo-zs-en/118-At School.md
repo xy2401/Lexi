@@ -6,7 +6,7 @@
 
 attend, campus, certificate, chapter, confusing, description, dining hall, dorm, essay, hurry up, incorrect, intermediate, laboratory, lecture, meaning, pick, research, result, review, row, similar, translate, underline, whose, written
 
-## 讲解
+## Tips
 
 "Campus"（校园）一词直接来自拉丁语"campus"，原意是"开阔的平地、田野"。古罗马的"Campus Martius"（战神广场）是罗马青年接受军事训练的地方。18世纪，美国普林斯顿大学首次用"campus"来指代大学周围的绿地和建筑群，此后这个词便成了全球高等教育的代名词。从战场训练场到学术殿堂，campus的演变折射了人类文明从武力到智识的转向。
 
@@ -17,8 +17,6 @@ attend, campus, certificate, chapter, confusing, description, dining hall, dorm,
 "Certificate"（证书）来自拉丁语"certificare"，由"certus"（确定的）和"facere"（做）组成，字面意思是"使之确定"。在中世纪，大学颁发的证书是用手写在羊皮纸上的，加盖火漆印章，证明持有人确实完成了学业。"Diploma"（文凭）则来自希腊语"diploun"（折叠），因为古希腊的官方文件是折叠保存的。
 
 "Translate"（翻译）来自拉丁语"translatus"，意为"搬运过去"。古罗马人将希腊文献译为拉丁文时，视自己为知识的"搬运工"。"Chapter"（章节）来自拉丁语"capitulum"（小头），因为每一章的开头被视为一个新的"头"。英语中"capital"（首都、大写的）也源自同一词根"caput"（头）。
-
-## Tips
 
 - "Dorm"是"dormitory"的缩写，来自拉丁语"dormire"（睡觉），与法语"dormir"同源。宿舍的本质就是"睡觉的地方"。
 - "Research"由"re-"（再次）+"search"（寻找）构成，字面意思是"反复寻找"，体现了学术研究的本质——不断追问。

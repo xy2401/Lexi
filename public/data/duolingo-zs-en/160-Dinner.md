@@ -6,7 +6,7 @@
 
 allergy, any, casual, disgusting, eat out, for here or to go, get, give, groceries, herb, here is, my treat, offer, olive, peanut, send, send back, server, spicy, split, starving, take, taste, well done, yuck
 
-## 讲解
+## Tips
 
 "Restaurant"（餐厅）的概念虽未直接出现在本单元，但"eat out"（外出就餐）承载着丰富的饮食文化史。"Restaurant"一词来自法语"restaurer"（恢复），最初指十八世纪巴黎街头出售的"恢复体力的肉汤"。1765年，巴黎人布朗热开设了第一家现代意义上的餐厅，提供多种菜品供顾客选择——在此之前，外出吃饭只能去小酒馆或寄宿处，没有"点菜"的概念。
 
@@ -15,8 +15,6 @@ allergy, any, casual, disgusting, eat out, for here or to go, get, give, groceri
 "My treat"（我请客）中的"treat"来自古法语"traitier"（处理、对待），与"treatise"（论文）同源。请客的本质是"以特殊方式对待他人"——通过承担费用来表达善意。"Split"（分摊）则来自荷兰语"splitten"（劈开），如同将账单"劈成两半"。这两种结账方式反映了不同的社交文化：美式文化中"split the bill"极为常见，而在许多亚洲和中东文化中，抢着"treat"才是礼貌。
 
 "Spicy"（辛辣的）来自"spice"（香料），后者来自拉丁语"species"（种类、外观）。中世纪欧洲的香料贸易改变了世界历史——胡椒、肉桂、丁香从东方运来，价格堪比黄金。哥伦布出海的目的之一就是寻找香料的新航路。"Peanut"（花生）则是新大陆的馈赠，原产南美洲，十六世纪由葡萄牙人带到非洲和亚洲。
-
-## Tips
 
 - "For here or to go?"是美国快餐店的经典问句，意为"堂食还是外带？"英国对应说法是"For here or take away?"
 - "Send back"（退回菜品）在英语餐厅文化中是可以接受的——如果食物有问题，礼貌地请server退回厨房并不粗鲁。

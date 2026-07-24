@@ -6,7 +6,7 @@
 
 bra, button, collar, damaged, diamond, exchange, label, money back, off, pattern, replace, return, silk, stain, still, store credit, stripe, thick, would, wouldn't
 
-## 讲解
+## Tips
 
 "Store"（商店）来自古法语"estor"（储备），最终源自拉丁语"instaurare"（更新、补充）。在百货公司出现之前，购物是在各种专业小店中完成的：布店、五金店、杂货店。1852年，巴黎的"Le Bon Marché"成为世界上第一家现代百货公司，彻底改变了人类的购物方式。"Return"（退货）和"exchange"（换货）是消费者权益的核心——在美国，大多数商店提供30天无理由退货政策。
 
@@ -15,8 +15,6 @@ bra, button, collar, damaged, diamond, exchange, label, money back, off, pattern
 "Collar"（衣领）来自拉丁语"collare"（项链），由"collum"（脖子）派生。在中世纪，衣领的样式是社会地位的标志——伊丽莎白时代的巨大褶皱领（ruff）需要大量淀粉和铁丝来支撑。"Stain"（污渍）来自古英语"stænan"（用石头砸），后来演变为"弄脏"。"Stripe"（条纹）来自古法语"estripe"，在时尚史中，条纹曾是囚犯和妓女的标记，直到19世纪水手条纹衫（Breton stripe）的出现才扭转了这种负面联想。
 
 "Label"（标签）来自古法语"lambel"（布条），原意是"挂在衣服上的一小片布"。"Store credit"（商店积分/代金券）是退货时商家常用的替代方案——不直接退钱，而是给你一张只能在店内使用的凭证。"Money back"（退款）则是消费者最希望得到的结果。
-
-## Tips
 
 - "Return"（退货退款）和"exchange"（换货）是不同的操作，购物时要区分清楚。
 - "Store credit"不是现金退款，只能在同一家店使用，接受前要考虑清楚。

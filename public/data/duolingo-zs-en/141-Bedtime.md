@@ -6,7 +6,7 @@
 
 alarm clock, ambulance, angel, cough, fan, flu, fluffy, hole, lightning, lullaby, mattress, mind, next-door, nightmare, scary, silently, sleeping bag, smooth, step, surprisingly, tent, the dark, touch, unpleasant, wing
 
-## 讲解
+## Tips
 
 "Lullaby"（摇篮曲）的词源温柔而古老。"Lull"来自中古英语"lullen"（使安静），可能是模仿母亲哄孩子时发出的"lu-lu"声；"by"是古英语"bȳ"（在旁边），意为"在身旁安抚"。世界上最古老的摇篮曲可追溯到四千年前的美索不达米亚——一块巴比伦泥板上刻着一位母亲对婴儿的低语："不要吵醒屋里的神，否则神会把你吃掉。"从巴比伦到勃拉姆斯，摇篮曲始终是人类最温柔的声音。
 
@@ -17,8 +17,6 @@ alarm clock, ambulance, angel, cough, fan, flu, fluffy, hole, lightning, lullaby
 "Lightning"（闪电）来自古英语"lēoht"（光），与"light"（光）同源。古人对闪电的解释充满了神话色彩：北欧人认为是雷神托尔在挥舞锤子，希腊人认为是宙斯投掷雷霆，中国民间则认为是雷公电母在天上作业。本杰明·富兰克林1752年的风筝实验证明了闪电就是电，从此闪电从神话走进了物理学。"Flu"（流感）是"influenza"的缩写，来自意大利语"influenza"（影响），因为中世纪意大利人相信流感是由星象的"影响"引起的。
 
 "Tent"（帐篷）来自拉丁语"tendere"（伸展），与"extend"（延伸）同源——帐篷就是"伸展"在地面上的遮蔽物。人类最早的住所就是帐篷：旧石器时代的猎人用猛犸象的骨骼和兽皮搭建帐篷。"Wing"（翅膀）来自古诺尔斯语"vængr"，维京人用这个词形容鸟的翅膀和船的侧翼。在梦境中，翅膀象征自由——能飞的梦几乎在所有文化中都被视为吉兆。
-
-## Tips
 
 - "Alarm clock"（闹钟）中"alarm"来自意大利语"all'arme"（拿起武器！），原是军事警报——闹钟每天早晨把你从睡梦中"惊醒"，确实像一场小型战斗。
 - "Fluffy"（蓬松的）来自"fluff"（绒毛），19世纪才出现的词，可能与"flue"（烟囱灰）有关——轻飘飘的绒毛像烟囱里飘出的灰。

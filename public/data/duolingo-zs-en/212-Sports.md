@@ -6,7 +6,7 @@
 
 captain, come on, cyclist, defense, diving, equipment, expect to, final, gymnastics, helmet, high, hope to, hunt, offense, perfectly, race, record, ski, snowboard, swimmer, there can't be, there may not be, there might be, there might not be, there should not be, there shouldn't be, track
 
-## 讲解
+## Tips
 
 "Gymnastics"来自希腊语"gymnos"（裸露的）。古希腊运动员在训练和比赛时赤身裸体，以展示人体的完美比例。"gymnasium"最初就是"裸体训练的场所"。古希腊人认为身体之美与心灵之美同等重要，柏拉图本人就是一名摔跤手（"Plato"这个名字可能来自"platos"，意为"宽阔的肩膀"）。现代体操在19世纪由德国教育家弗里德里希·雅恩系统化，他被称为"体操之父"。
 
@@ -15,8 +15,6 @@ captain, come on, cyclist, defense, diving, equipment, expect to, final, gymnast
 "Helmet"来自古法语"heaume"（头盔），与日耳曼语"hjalmr"同源。古罗马角斗士的青铜头盔重达数公斤，中世纪骑士的全封闭头盔让骑士几乎看不见东西。现代运动头盔的设计灵感来自二战时期的军用钢盔，而自行车头盔直到1970年代才从"可选配件"变成"必备装备"——在此之前，环法自行车赛的选手都是裸头骑行。
 
 "Record"来自拉丁语"recordari"（回忆），由"re-"（再次）和"cor"（心）构成——把某事重新"记在心里"。体育纪录就是值得被永远铭记的成绩。1936年柏林奥运会上，杰西·欧文斯在纳粹德国的注视下连夺四枚金牌，他的纪录不仅是体育成就，更是对种族偏见的有力回击。"Track"来自古英语"træc"（足迹、小路），田径运动就是"沿着足迹奔跑"的运动。
-
-## Tips
 
 - "come on"在体育比赛中是最常见的加油用语，类似中文的"加油！"
 - "ski"来自挪威语"skíð"（木条），挪威人使用滑雪板的历史超过5000年

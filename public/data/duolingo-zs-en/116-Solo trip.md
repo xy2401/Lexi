@@ -6,7 +6,7 @@
 
 arrival, continent, extra, fare, farther, farthest, for the first time, homesick, land, laundry, let, like best, much, nearby, on the other hand, over there, passport control, patio, public transportation, reserve, shuttle, solo, traveler, unpack
 
-## 讲解
+## Tips
 
 "solo"（独自的）来自意大利语"solo"（单独的），源自拉丁语"solus"（唯一的）。"solo travel"（独自旅行）作为一种文化现象在21世纪爆发式增长——从背包客到数字游民，越来越多人选择独自上路。"traveler"（旅行者）来自古法语"travailler"（劳作），而"travailler"可能来自拉丁语"tripalium"（三根木桩组成的刑具）——"旅行"的词源竟与"折磨"有关，反映了古代旅途的艰辛。
 
@@ -17,8 +17,6 @@ arrival, continent, extra, fare, farther, farthest, for the first time, homesick
 "laundry"（洗衣）来自拉丁语"lavare"（洗），与"lava"（熔岩，即"被水冲刷的"）同源。在旅途中找"laundry"是背包客的日常挑战。"unpack"（ unpack）由"un-"（反向）+"pack"（打包）组成，是旅行结束时的仪式性动作。"reserve"（预订）来自拉丁语"reservare"（保留），由"re-"（回）+"servare"（保存）组成——预订就是"为你保留"。
 
 "public transportation"（公共交通）和"fare"（票价）是城市旅行的基本词汇。"farther"（更远的）和"farthest"（最远的）是"far"的比较级和最高级。"for the first time"（第一次）是旅行叙事中最动人的短语——每一次"第一次"都是生命版图的扩展。"on the other hand"（另一方面）则提醒我们，旅行总是充满对比和选择。
-
-## Tips
 
 - "arrival"（到达）来自古法语"ariver"（靠岸），由"ad-"（朝向）+"ripa"（河岸）组成——"到达"的原始意象是"船靠岸"。
 - "patio"（露台）来自西班牙语，源自拉丁语"patere"（敞开）——露台就是"敞开的空间"。西班牙和拉丁美洲的建筑中，patio是核心社交空间。

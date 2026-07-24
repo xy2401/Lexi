@@ -6,7 +6,7 @@
 
 allowed, among, ancient, ant, beauty, because, butterfly, close, direction, dusty, gentle, get, mosquito, natural, nowhere, outdoor, peak, pile, shape, silent, somewhere else, stick, underneath, valley
 
-## 讲解
+## Tips
 
 "Hiking"（徒步旅行）这个词的历史比这项活动本身年轻得多。"Hike"可能来自19世纪初的英国方言"hyke"（用力走），但徒步作为一种休闲活动，要到19世纪浪漫主义运动兴起后才流行。华兹华斯、柯勒律治等湖畔诗人穿着粗布衣服在英格兰湖区跋涉，把"在自然中行走"提升为一种精神修行。在此之前，步行是穷人的交通方式，富人骑马或坐马车——浪漫主义者颠覆了这一观念。
 
@@ -17,8 +17,6 @@ allowed, among, ancient, ant, beauty, because, butterfly, close, direction, dust
 "Direction"（方向）来自拉丁语"dirigere"（排成直线），由"dis-"（分开）+"regere"（引导、统治）构成。古罗马人用"direction"来描述军团的列阵——把士兵"排成直线"。"Regere"也是"rex"（国王）和"right"（正确的）的词根——在古罗马人看来，"正确的方向"就是"国王指引的方向"。"Underneath"（在……下面）由"under"（下面）+"neath"（低处）构成，"neath"来自古英语"neoþan"（在下方），是一个已经消失的古词的残留。
 
 "Silent"（寂静的）来自拉丁语"silere"（安静）。在徒步旅行中，silence不是空洞的无声，而是充满了自然的声音——风穿过树叶、溪水撞击石头、远处鸟鸣。"Beauty"（美）来自古法语"beauté"，最终源自拉丁语"bellus"（漂亮的），与"bonus"（好的）同源——在古人的观念中，"美"和"善"是同一件事。"Natural"（自然的）来自拉丁语"natura"（出生、天性），词根是"nasci"（出生）——自然就是"与生俱来的"，不是人造的。
-
-## Tips
 
 - "Ant"（蚂蚁）来自古英语"ǣmete"，与德语"Ameise"同源。蚂蚁是社会性昆虫的典范，一个蚁群可以被视为一个"超个体"。
 - "Among"（在……之间）来自古英语"on gemang"（在群体中），用于三个或以上事物之间；"between"用于两者之间。

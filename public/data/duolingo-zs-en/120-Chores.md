@@ -6,7 +6,7 @@
 
 by hand, clean up, continue, dishwasher, dislike, dust, freezer, garbage, have to, heater, housework, in trouble, lock, made, make, messy, mop, neat, pot, responsible for, rug, spill, take care of, vacuum
 
-## 讲解
+## Tips
 
 "Chore"（家务杂事）一词来自古英语"cierr"，原意是"一次转动、一轮"，暗示家务是周而复始、永无止境的工作。在18世纪的美国殖民地，"chores"特指农场上的日常琐事——喂鸡、挤奶、劈柴。本杰明·富兰克林在《穷理查年鉴》中写道："A place for everything, and everything in its place"，这句话后来成了美国家庭主妇的座右铭，也奠定了美国人对"neat"（整洁）的执念。
 
@@ -17,8 +17,6 @@ by hand, clean up, continue, dishwasher, dislike, dust, freezer, garbage, have t
 "Garbage"（垃圾）的词源颇为不雅。它可能来自古法语"garbe"（捆束），最初指屠宰后丢弃的动物内脏和废料。在中世纪伦敦，屠夫把不要的下水直接扔在街上，这些"garbage"成为城市恶臭的主要来源。直到19世纪维多利亚时代，现代垃圾收集系统才在伦敦建立起来。"Freezer"（冷冻柜）的历史则与19世纪的"冰贸易"有关——在电冰箱发明前，人们从新英格兰的湖泊中切割天然冰块，用船运往全球各地。
 
 "Spill"（溢出、打翻）来自古英语"spillan"，最初的含义竟然是"杀死、毁灭"！在古英语史诗《贝奥武夫》中，"spillan"用于描述战场上的杀戮。后来词义逐渐弱化，从"毁灭生命"变成了"打翻液体"——语言的演变本身就是一部微型文明史。
-
-## Tips
 
 - "Dust"作动词时意思相反：dust the furniture是"擦去灰尘"，但dust a cake是"撒上糖粉"。一词两义，方向相反。
 - "Heater"（加热器）来自古英语"hǣtan"（使热），与"heat"同源。古罗马人发明了"hypocaust"地暖系统，堪称古代heater。

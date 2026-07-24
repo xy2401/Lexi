@@ -6,7 +6,7 @@
 
 bride, celebrate, ceremony, cheek, colorful, deliver, engaged, exchange, greet, groom, instead of, kiss, last, musician, over, relative, rose, stood, surprise, thank, till, traditional, until, vase, wedding
 
-## 讲解
+## Tips
 
 "Wedding"（婚礼）来自古英语"wedd"，原意是"誓言、承诺"，与德语"Wette"（赌注）同源。在日耳曼部落时代，婚礼的核心不是浪漫，而是一份契约——新郎向新娘家族支付"bride price"（聘礼），"wedd"就是这份交易的担保。"Bride"（新娘）来自古英语"brȳd"，可能与"brew"（酿造）有关，因为古代新娘在婚礼上需要为宾客酿造麦酒。"Groom"（新郎）则来自古英语"guma"（男人），后来与"groom"（马夫）合并，暗含"服务"之意。
 
@@ -17,8 +17,6 @@ bride, celebrate, ceremony, cheek, colorful, deliver, engaged, exchange, greet, 
 "Traditional"（传统的）来自拉丁语"traditio"，由"trans-"（跨越）+"dare"（给予）构成，字面意思是"代代传递"。婚礼中的"something old, something new, something borrowed, something blue"（旧物、新物、借来之物、蓝色之物）是维多利亚时代英国的传统，每一样都象征不同的祝福：旧物代表传承，新物代表未来，借来之物代表社区的支持，蓝色代表忠贞。
 
 "Musician"（音乐家）在婚礼中的角色源远流长。中世纪欧洲的婚礼上，吟游诗人（troubadour）弹奏琉特琴，歌唱骑士与贵妇的爱情故事。"Musician"来自希腊语"mousa"（缪斯），希腊神话中九位缪斯女神分别掌管不同的艺术。"Vase"（花瓶）来自拉丁语"vas"（容器），在婚礼中盛放鲜花，象征生命的绽放和繁衍。
-
-## Tips
 
 - "Bride"和"groom"在古英语中分别是"brȳd"和"brydguma"（新娘的男人），"guma"（男人）后来消失，只剩下"groom"。
 - "Kiss"（亲吻）可能来自古英语"cyssan"，与拉丁语"basium"无关——英语的"吻"是纯正的日耳曼血统。

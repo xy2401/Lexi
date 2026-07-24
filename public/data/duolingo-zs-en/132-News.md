@@ -6,7 +6,7 @@
 
 billion, bomb, border, cause, common, court, crash, crime, enemy, expect, false, front page, government, gun, headline, in court, in exchange for, in jail, jail, leader, rob, spy, their, they, though
 
-## 讲解
+## Tips
 
 "Headline"（头条）的历史与印刷术密不可分。19世纪中叶，美国报纸开始用大字号标题吸引读者。1865年林肯遇刺时，《纽约先驱报》用前所未有的巨大字号印出"LINCOLN ASSASSINATED"，据说整条街都能听到报童的喊声。"Headline"由"head"（头）+"line"（行）构成——报纸最顶端的那一行字，就是"头行"。而"front page"（头版）则是报纸的"脸面"，编辑们为哪条新闻上头版，每天展开激烈的争论。
 
@@ -17,8 +17,6 @@ billion, bomb, border, cause, common, court, crash, crime, enemy, expect, false,
 "Jail"（监狱）来自古法语"jaiole"（鸟笼），最终源自拉丁语"cavea"（笼子）。把监狱比作"笼子"，这个隐喻直白而残酷。古罗马的监狱不是惩罚场所，而是审判前的临时关押地——真正的惩罚是流放、罚款或角斗场。中世纪欧洲的地牢（dungeon）才是现代监狱的雏形。"Crime"（犯罪）来自拉丁语"crimen"（判决、指控），与"discriminate"（区分）同源——犯罪的本质是"越过了那条线"。
 
 "Bomb"（炸弹）来自希腊语"bombos"（嗡嗡声），最初形容爆炸时的轰鸣。15世纪，欧洲军队开始使用铸铁炸弹，士兵们根据爆炸声将其命名为"bomb"。"Border"（边界）来自古法语"bordure"（边缘），与"board"（板）同源——最早的边界就是用木板或石头标出的"边缘线"。从罗马帝国的"limes"（边境防线）到现代国家的铁丝网，border始终是人类政治最敏感的神经。
-
-## Tips
 
 - "Billion"（十亿）在美式英语中是10^9，但在传统英式英语中曾是10^12（万亿）——一个词在两个英语国家代表不同的数字。
 - "Enemy"（敌人）来自拉丁语"inimicus"（不友好的），由"in-"（不）+"amicus"（朋友）构成——敌人就是"不是朋友的人"。

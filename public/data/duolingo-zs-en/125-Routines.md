@@ -6,7 +6,7 @@
 
 asleep, awake, bored, change, comb, down, dress, exercise, fall asleep, fallen asleep, help, hug, kiss, lots of, rang, relax, ring, rung, scared, series, shave, smile, stressed, toothpaste, uncomfortable
 
-## 讲解
+## Tips
 
 "Toothpaste"（牙膏）的历史可以追溯到五千年前的古埃及。法老的药剂师用磨碎的牛蹄、蛋壳、浮石和没药混合，制成世界上最早的"牙膏粉"。古罗马人则用骨灰和蜂蜜调制洁牙膏，有时甚至加入人尿——因为尿中的氨确实有美白效果。直到1873年，高露洁公司才推出了第一管商业化牙膏，而铝制软管包装的灵感来自画家用的颜料管。
 
@@ -17,8 +17,6 @@ asleep, awake, bored, change, comb, down, dress, exercise, fall asleep, fallen a
 "Shave"（刮胡子）在人类文明史中意义重大。古埃及祭司必须每天刮净全身毛发，以示宗教纯洁。亚历山大大帝命令士兵刮掉胡须，理由是战场上敌人可以抓住胡子把士兵拖倒。"Shave"来自古英语"sceafan"，与拉丁语"scabere"（刮擦）同源。而"smile"（微笑）来自古英语"smilian"，是日耳曼语族独有的词汇——拉丁语用"ridere"（笑），法语用"sourire"，但英语选择了自己温柔的方式。
 
 "Asleep"（睡着的）中的"a-"是古英语前缀，表示"进入某种状态"，与"awake"（醒着的）形成对比。在中世纪欧洲，人们相信睡眠时灵魂会暂时离开身体，因此"fall asleep"（入睡）字面上就是"坠入"另一个世界。"Nightmare"（噩梦）中的"mare"不是"母马"，而是古英语"mære"——一种压在沉睡者胸口的恶灵，让你无法呼吸。这个恐怖的形象在日耳曼民间传说中流传了上千年。
-
-## Tips
 
 - "Ring-rang-rung"是英语中最古老的不规则动词变化之一，来自古英语"ringan"，保留了日耳曼语的"元音交替"（ablaut）传统。
 - "Stressed"（有压力的）和"dessert"（甜点）是字母完全颠倒的一对词——压力大时就想吃甜点，这或许是语言开的玩笑。

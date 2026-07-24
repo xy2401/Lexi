@@ -6,7 +6,7 @@
 
 after, attachment, blog, by accident, communicate, completely, delete, effect, exit, hear, heard, in general, issue, link, none, post, private, reply, search, social media, surprising, technology, topic, type
 
-## 讲解
+## Tips
 
 "Blog"（博客）是"weblog"的缩写，诞生于1997年。当时美国程序员Jorn Barger将自己的网站命名为"web log"（网络日志），1999年另一位程序员Peter Merholz开玩笑地把它拆成"we blog"，从此"blog"作为一个独立动词和名词流行开来。博客的兴起让普通人第一次拥有了公共发声的平台，打破了传统媒体对信息发布的垄断。从某种意义上说，博客是互联网民主化的第一步。
 
@@ -17,8 +17,6 @@ after, attachment, blog, by accident, communicate, completely, delete, effect, e
 "Technology"（技术）来自希腊语"techne"（技艺）+"logos"（学问）。古希腊人把"techne"视为一种创造性的智慧，不仅包括手工艺，还包括修辞术和医学。亚里士多德在《尼各马可伦理学》中专门讨论了"techne"与"episteme"（理论知识）的区别。"Social media"（社交媒体）虽然只有几十年历史，但其本质——人类通过媒介进行社交——可以追溯到古罗马广场上的公告板和文艺复兴时期佛罗伦萨的咖啡馆。
 
 "Private"（私密的）来自拉丁语"privatus"，意为"被剥夺公职的、属于个人的"。在古罗马，"privatus"是"publicus"（公共的）的反义词，指那些不担任公职的普通公民。"Privacy"（隐私）作为一种权利概念，直到1890年才由美国法学家Louis Brandeis在《哈佛法律评论》上正式提出，他称之为"独处的权利"（the right to be left alone）。
-
-## Tips
 
 - "Post"（发帖）原意是"张贴"，来自拉丁语"ponere"（放置）。在电报时代，"post"指把信件投入邮筒；在网络时代，变成了把文字"放置"在公共空间。
 - "Search"（搜索）来自古法语"cerchier"，与拉丁语"circare"（绕圈走）同源——搜索就是"四处转悠寻找"。

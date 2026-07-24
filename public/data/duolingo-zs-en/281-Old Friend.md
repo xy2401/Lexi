@@ -6,7 +6,7 @@
 
 all grown up, any, back in town, can't complain, catch you up on, compliment, design, expecting, forties, get, get used to, going, how long has it been, how's, it's been, kindergarten, liking, loving, on the whole, overall, overseas, promise to, run into, so far, things
 
-## 讲解
+## Tips
 
 "Run into"（偶遇）是英语中最生动的社交短语之一——你"跑进"了一个人，就像在街角突然撞见老朋友。这个短语完美捕捉了偶遇的突然性和身体感。在社交媒体时代之前，"run into"是重逢的唯一方式——没有定位、没有预约，只有命运的安排。"How long has it been?"（多久没见了？）是偶遇后脱口而出的第一句话，这个问句承载着惊讶、喜悦和一丝愧疚。
 
@@ -15,8 +15,6 @@ all grown up, any, back in town, can't complain, catch you up on, compliment, de
 "Overseas"（海外）来自"over"（越过）+"seas"（海洋），在航空旅行普及之前，"overseas"意味着真正的分离——一封信需要数周才能到达。如今虽然通讯即时，但"overseas"仍然保留着距离的重量。"Catch you up on"（跟你聊聊近况）中的"catch up"原意是"追赶"——你需要"追上"对方在你缺席期间经历的一切。
 
 "Can't complain"（没什么好抱怨的）是英语中最典型的低调回应。当老朋友问"How's it going?"，回答"can't complain"既不是"很好"也不是"不好"，而是一种英式的含蓄——"日子还过得去，我不打算抱怨"。"On the whole"（总的来说）和"overall"（总体上）是总结人生近况时常用的框架词，暗示"细节有起有落，但大方向还行"。"All grown up"（长大了）是看到老朋友孩子时的标准感叹，带着时光飞逝的感慨。
-
-## Tips
 
 - "Back in town"（回来了）中的"town"不一定指小镇，在口语中泛指"你所在的城市"——"I'm back in town"就是"我回来了"。
 - "Forties"（四十多岁）用复数形式表示一个十年的区间，同理"twenties"（二十多岁）、"thirties"（三十多岁）。

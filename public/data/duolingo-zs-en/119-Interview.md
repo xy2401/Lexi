@@ -6,7 +6,7 @@
 
 accept, airline, apply, away, begun, benefits, career, contact, decision, done, education, engineering, feeling, full-time, interview, part-time, quit, responsible, résumé, sign, since, skill, sound like, understood
 
-## 讲解
+## Tips
 
 "Résumé"（简历）是法语词，意为"摘要、概述"，来自拉丁语"resumere"（重新拿起）。19世纪末，法国求职者开始用一页纸总结自己的经历，称之为"résumé"。这个词进入英语后保留了法语的尖音符拼写，成为少数在日常英语中仍带变音符号的外来词之一。有趣的是，英式英语更常用"CV"（Curriculum Vitae，拉丁语"生命的过程"），而美式英语偏爱"résumé"——两种说法背后是两种不同的文化审美。
 
@@ -17,8 +17,6 @@ accept, airline, apply, away, begun, benefits, career, contact, decision, done, 
 "Benefits"（福利）来自拉丁语"bene"（好）+"facere"（做），字面意思是"做好事"。在工业革命时期，工厂工人没有任何保障，直到19世纪末德国首相俾斯麦首创了社会保险制度，"employee benefits"的概念才逐渐成型。"Quit"（辞职）来自古法语"quiter"，意为"释放、免除"，与"quiet"（安静）同源——辞职就是让自己从工作中"安静下来"，获得自由。
 
 "Apply"（申请）来自拉丁语"applicare"，由"ad-"（朝向）+"plicare"（折叠）构成，原意是"把某物贴附到另一物上"。求职时"apply for a job"，字面上就是把自己"贴"到那个职位上去。"Decision"（决定）来自拉丁语"decidere"，由"de-"（离开）+"caedere"（切割）构成——做决定就是"切断"其他选项，只留一条路。
-
-## Tips
 
 - "Full-time"和"part-time"中的"time"指的是工作时间单位。美国1938年《公平劳动标准法》首次将每周40小时定义为"full-time"。
 - "Sign"（签名）来自拉丁语"signum"（标记），古罗马人用戒指在蜡封上压印作为签名，这是"signature"的起源。

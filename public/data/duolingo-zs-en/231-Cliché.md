@@ -6,7 +6,7 @@
 
 American dream, after all, american, assume, cheerleader, cliché, competitive, conclusion, cowboy, diverse, first impression, it might seem that, it seems that, love at first sight, might have, might not have, myth, necessarily, not sure that, old-fashioned, reputation, shake, unrealistic, welcoming, what on earth
 
-## 讲解
+## Tips
 
 "Cliché"本身就是一个来自法语的词，原意是印刷术中的"铅版"——将排好的字版浇铸成整块金属板，可以反复印刷同样的内容。19世纪的法国印刷工人用"cliquer"（发出咔嗒声）来形容浇铸铅版时的声音。当一个表达被"反复印刷"太多次，它就失去了新鲜感，变成了cliché。讽刺的是，"It's a cliché"这句话本身也快变成cliché了。
 
@@ -15,8 +15,6 @@ American dream, after all, american, assume, cheerleader, cliché, competitive, 
 "Cowboy"（牛仔）是美国西部神话的核心符号。真实的牛仔大多是1865-1890年间赶牛群的年轻劳工，其中约四分之一是非裔美国人或墨西哥人——远非好莱坞塑造的白人英雄形象。"Cheerleader"（啦啦队长）诞生于1898年的明尼苏达大学，最初是男性活动。这两个符号共同构成了外界对美国的"cliché"式印象：牛仔代表个人主义，啦啦队长代表集体热情。
 
 "Shake"（握手）作为问候方式的历史可追溯到古希腊——伸出右手表示"我没有携带武器"。在中世纪欧洲，骑士们握手时会上下摇晃，以抖落对方袖中可能藏着的匕首。"First impression"（第一印象）在心理学中有"七秒定律"之说——人们在见面的前七秒内就形成了对对方的基本判断。而"love at first sight"（一见钟情）从特洛伊的海伦到莎士比亚的罗密欧与朱丽叶，一直是文学中最古老也最cliché的主题之一。
-
-## Tips
 
 - "what on earth"表示惊讶或困惑，语气比"what"强烈得多：What on earth is that?（那到底是什么？）
 - "not necessarily"是英语中委婉反驳的利器：That's not necessarily true（那不一定对）

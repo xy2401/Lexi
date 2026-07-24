@@ -6,7 +6,7 @@
 
 avoid, break up, calm, careless, clever, date, definitely, helpful, how, in a hurry, kid, make, nightclub, nightlife, over, patient, pay attention, quiet, romantic, social, what, where, who, why
 
-## 讲解
+## Tips
 
 "Romantic"（浪漫的）一词的历史远比我们想象的丰富。它来自中世纪法语"romanz"，最初指用罗曼语（而非拉丁语）写成的骑士冒险故事——那些关于骑士、贵妇、巨龙和城堡的传奇。18世纪末，"Romanticism"（浪漫主义）运动席卷欧洲，华兹华斯、拜伦、雪莱等诗人用"romantic"来形容对自然、情感和个体自由的崇尚。从骑士传奇到湖畔诗人，"romantic"始终与"超越日常"的渴望相连。
 
@@ -17,8 +17,6 @@ avoid, break up, calm, careless, clever, date, definitely, helpful, how, in a hu
 "Patient"（耐心的）来自拉丁语"pati"（忍受），与"passion"（激情）共享词根。这个看似矛盾的联系揭示了爱情的真相：真正的激情需要忍耐。古罗马神话中，丘比特的箭有两种——金箭点燃爱情，铅箭制造冷漠。被金箭射中的人无法自拔，被铅箭射中的人无动于衷——爱情从来不是对等的。"Calm"（平静的）来自拉丁语"cauma"（正午的炎热），原意是"炎热中休息的时段"——地中海农民在正午最热时停工休息，那段宁静的时光就是"calm"。
 
 "Break up"（分手）是英语中最直白也最心碎的表达之一。"Break"来自古英语"brecan"（打碎），与拉丁语"frangere"（破碎）同源——分手就是把曾经完整的东西"打碎"。而"avoid"（避免）来自拉丁语"exvitare"，由"ex-"（出）+"vitare"（躲避）构成，与"vital"（生命的）有远亲关系——避开危险就是"保全生命"。在爱情的语境中，avoid和break up构成了人类情感最脆弱的两面。
-
-## Tips
 
 - "Clever"（聪明的）来自古英语"clifer"（灵巧的），最初形容手工技艺的精湛，后来才扩展到智力层面。
 - "Social"（社交的）来自拉丁语"socius"（同伴），与"society"（社会）同源——社交的本质就是"寻找同伴"。

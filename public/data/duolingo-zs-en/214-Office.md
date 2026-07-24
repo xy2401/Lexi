@@ -6,7 +6,7 @@
 
 actually, as well as, basically, challenging, contract, did you say, financial, i hope i, i mean, just a minute, let me see, make sense, manage, mean, mostly, person who, postpone, product, reason why, report, shortly, some type of, the one, thing that, tip, urgent, when, where, you know
 
-## 讲解
+## Tips
 
 "Office"来自拉丁语"officium"（义务、服务），由"opus"（工作）和"facere"（做）合成。古罗马的"officium"不仅指物理空间，更指一种社会职责——公民对城邦的义务。中世纪时，"office"指教会或政府中的职位，到了19世纪工业革命后，它才逐渐变成我们今天理解的"办公室"。世界上第一座专门设计的办公楼是1906年纽约的联合碳化物大厦，它开创了开放式办公空间的先河。
 
@@ -15,8 +15,6 @@ actually, as well as, basically, challenging, contract, did you say, financial, 
 "Manage"来自意大利语"maneggiare"（用手操控），最初特指训练马匹——用手缰控制马的动作。莎士比亚时代，"manage"最常见的语境是马术。后来这个词扩展到管理事务、管理人、管理企业。"Product"来自拉丁语"productus"（向前引出），即"生产出来的东西"。工业革命后，"product"从农产品扩展到工业制品，再到今天的数字产品。
 
 "Urgent"来自拉丁语"urgere"（推、压），那种被事情"推着走"的紧迫感跨越了两千年依然生动。而"postpone"来自拉丁语"postponere"（放在后面），由"post"（之后）和"ponere"（放置）构成——把事情"放到后面"去做。在办公室文化中，"postpone a meeting"（推迟会议）和"cancel a meeting"（取消会议）有本质区别：前者意味着还会再开，后者则彻底取消。
-
-## Tips
 
 - "actually"在口语中常用来礼貌地纠正对方或引入意外信息，不是"实际上"的生硬翻译
 - "make sense"是职场高频表达：Does that make sense?（我说清楚了吗？）比"Do you understand?"更礼貌

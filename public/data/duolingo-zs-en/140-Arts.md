@@ -6,7 +6,7 @@
 
 act, action, celebrity, cinema, comedy, commercial, create, culture, download, experience, fiction, fight, film, fought, loudly, novel, orchestra, perform, performance, performer, publish, review, sculpture, title
 
-## 讲解
+## Tips
 
 "Cinema"（电影）来自希腊语"kinema"（运动），与"kinetic"（动力的）同源。1895年，法国卢米埃尔兄弟在巴黎大咖啡馆的地下室放映了世界上第一部电影——《火车进站》。据说观众看到银幕上的火车迎面驶来，惊恐地四散奔逃。"Cinema"这个名字完美地捕捉了电影的本质：运动的影像。而"film"（胶片/电影）来自古英语"filmen"（薄膜），因为早期电影确实记录在一层薄薄的赛璐珞胶片上。
 
@@ -17,8 +17,6 @@ act, action, celebrity, cinema, comedy, commercial, create, culture, download, e
 "Sculpture"（雕塑）来自拉丁语"sculpere"（雕刻），与"scalpel"（手术刀）同源——都是用尖锐工具在材料上"刻"出形状。古希腊雕塑追求理想化的人体美，米开朗基罗说他只是"把大理石中已经存在的形象释放出来"。"Publish"（出版）来自拉丁语"publicare"（使公开），与"public"（公共的）同源——出版就是"把私人的文字变成公共的财产"。1450年前后古腾堡发明活字印刷术，让publish从手抄变为机械复制，彻底改变了知识传播的方式。
 
 "Celebrity"（名人）来自拉丁语"celebritas"（热闹、拥挤），词根是"celeber"（人多的）。在古代，celebrity不是指"有名的人"，而是指"热闹的场所"。直到19世纪，随着报纸和摄影术的普及，"celebrity"才转变为"被众人围观的知名人物"。安迪·沃霍尔在1968年预言"每个人都能成名十五分钟"——在社交媒体时代，这个预言似乎已经实现。
-
-## Tips
 
 - "Create"（创造）来自拉丁语"creare"（生产、孕育），与"grow"（生长）有远亲关系——创造就像"孕育"新生命。
 - "Culture"（文化）来自拉丁语"cultura"（耕作），与"cultivate"（培养）同源——文化就是"心灵的耕作"。西塞罗最早用"cultura animi"（心灵的耕耘）来比喻哲学修养。

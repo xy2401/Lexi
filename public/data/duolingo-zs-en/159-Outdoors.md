@@ -6,7 +6,7 @@
 
 blew, blow, camel, climate, coast, destination, fallen, forecast, grew, have got to, held, mild, northeast, northwest, overnight, range, region, southeast, southwest, sunshine, wave, whale, what is, wildlife
 
-## 讲解
+## Tips
 
 "Climate"（气候）来自希腊语"klima"，原意是"倾斜"，指地球表面相对于太阳的倾斜角度。古希腊地理学家将世界划分为七个"klimata"（气候带），从赤道到极地，每个带的日照角度不同。这个概念体现了希腊人惊人的科学直觉：他们早在两千多年前就理解了纬度与气候的关系。"Forecast"（预报）由"fore-"（之前）和"cast"（投掷）组成——预报是"向未来投掷"一个判断。十九世纪英国海军军官罗伯特·菲茨罗伊是第一位发布天气预报的人，他因预报不准而饱受嘲讽，最终在绝望中自杀。
 
@@ -15,8 +15,6 @@ blew, blow, camel, climate, coast, destination, fallen, forecast, grew, have got
 "Camel"（骆驼）来自阿拉伯语"jamal"，经由拉丁语和法语进入英语。骆驼是沙漠文明的基石——没有骆驼，丝绸之路的贸易几乎不可能存在。阿拉伯语中有超过一百个描述骆驼不同状态的词汇，反映了游牧民族对这种动物的深度依赖。"Mild"（温和的）来自古英语"milde"，最初描述人的性格"温柔、仁慈"，后来才用于天气。
 
 "Wildlife"（野生动物）是"wild"（野的）和"life"（生命）的复合词。"Wild"来自古英语"wilde"，与德语"wild"同源，描述一切"不受人类控制"的事物。在英语文化中，"wild"既令人恐惧（荒野是危险的）又令人向往（荒野是自由的）。十九世纪美国自然主义者约翰·缪尔将"wilderness"提升为神圣概念："In wildness is the preservation of the world."（荒野之中保存着世界。）
-
-## Tips
 
 - "Forecast"中的"cast"有"投掷"之意，与"broadcast"（广播，即"广泛投掷"信息）共享同一词根。
 - 方位词northeast/northwest/southeast/southwest是英语中少数将两个方向直接拼接的复合词，简洁而精确。

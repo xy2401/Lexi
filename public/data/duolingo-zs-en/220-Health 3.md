@@ -6,7 +6,7 @@
 
 apparently, at risk, bad for you, could, enough, enough to, have trouble, heal, hip, impression, infection, lung, muscle, side effect, supposedly, swollen, they say, under the weather, vaccine, vitamin, wrist, yawn
 
-## 讲解
+## Tips
 
 "Vaccine"（疫苗）来自拉丁语"vacca"（母牛）。1796年，英国乡村医生爱德华·詹纳注意到挤奶女工很少得天花，因为她们感染过牛痘（cowpox）——一种从牛身上传来的温和疾病。他大胆地将牛痘脓液接种到一个八岁男孩身上，男孩随后对天花产生了免疫力。这个实验在当时被视为疯狂，詹纳被漫画家画成接种者头上长出牛角的怪物。但疫苗最终拯救了数亿人的生命，1980年世界卫生组织宣布天花被彻底消灭。
 
@@ -15,8 +15,6 @@ apparently, at risk, bad for you, could, enough, enough to, have trouble, heal, 
 "Under the weather"（身体不适）这个表达来自航海时代。当水手感到晕船或生病时，会被送到甲板下方、远离恶劣天气的地方休息——字面意思就是"在天气之下"。另一种说法是，生病的水手被安排站在船的下风处（under the weather bow），那里颠簸较小。无论哪种解释，这个短语都带着海风的咸味。
 
 "Heal"来自古英语"haelan"（使完整），与"whole"（完整的）和"holy"（神圣的）同源。在古人的观念中，治愈就是"恢复完整"，而完整本身就带有神圣性。"Muscle"来自拉丁语"musculus"（小老鼠），因为古人觉得屈起的二头肌像皮肤下跑动的小老鼠。这个可爱的比喻从两千年前的罗马一直流传到今天。
-
-## Tips
 
 - "side effect"（副作用）中的"side"表示"附带的、次要的"，类似中文的"附带效应"
 - "supposedly"和"apparently"都表示"据说"，但supposedly暗含怀疑，apparently更中性

@@ -6,7 +6,7 @@
 
 but, by, convince, could, doubt that, lamb, option, point, politely, progress, recommend, resort, rude, say, so, souvenir, take, vegetarian, waterfall, we would, we'd, would you, you'd
 
-## 讲解
+## Tips
 
 "Recommend"来自拉丁语"re-"（再次）加"commendare"（托付、赞扬），字面意思是"再次向人推荐、托付"。在中世纪，一封"letter of recommendation"（推荐信）是旅行者最重要的文件——没有它，你甚至无法在陌生城镇找到住处。今天，从餐厅推荐到求职推荐信，"recommend"依然是人际信任的传递方式。"Convince"来自拉丁语"convincere"（彻底说服），其中"con-"表示"完全"，"vincere"表示"征服"——说服一个人，就是在思想上"征服"他。
 
@@ -15,8 +15,6 @@ but, by, convince, could, doubt that, lamb, option, point, politely, progress, r
 "Souvenir"直接借自法语，原意是"记忆"（来自拉丁语"subvenire"，意为"来到脑海中"）。在18世纪的欧洲"壮游"（Grand Tour）传统中，年轻贵族从意大利、希腊带回各种纪念品，这些物品被称为"souvenir"。"Resort"来自拉丁语"resurgere"（再次升起），原意是"退隐之地"，后来演变为"度假胜地"。
 
 "Politely"和"rude"是英语社交的两极。英式英语中，"Would you...?"和"Could you...?"是礼貌请求的标配，而直接说"I want..."则被视为rude。"Point"在口语中意为"意义、目的"（What's the point?），来自拉丁语"punctum"（刺、点），一个小小的"点"引申为"关键所在"。
-
-## Tips
 
 - "Recommend"后面接动名词或that从句：I recommend trying the lamb. / I recommend that you try the lamb.
 - "We'd"可以是"we would"或"we had"的缩写，需根据后接动词判断。

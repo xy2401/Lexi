@@ -6,7 +6,7 @@
 
 anxious, attack, bee, calm down, cliff, creepy, earthquake, enjoy, fear, get used to, hate, hate to, keep, nightmare, scared of, shark, spider, stress out, swum, terrified, thank goodness, used to, yikes
 
-## 讲解
+## Tips
 
 "Fear"（恐惧）来自古英语"fǣr"，意为"突然的危险、伏击"。在盎格鲁-撒克逊时代，这个词描述的不是内心的感受，而是外部的威胁——森林中突然出现的野兽、暗夜中来袭的敌人。直到中世纪后期，"fear"才从"外部危险"转向"内心感受"。这个语义转变本身就很耐人寻味：当人类社会变得足够安全，人们才开始关注恐惧作为一种"情绪"而非"事件"。
 
@@ -15,8 +15,6 @@ anxious, attack, bee, calm down, cliff, creepy, earthquake, enjoy, fear, get use
 "Anxious"来自拉丁语"anxius"，与"angere"（扼住、使窒息）同源。"Anger"（愤怒）、"anguish"（痛苦）、"anxiety"（焦虑）都来自同一个词根——在古人的身体经验中，这些强烈情绪都伴随着"喉咙被扼住"的窒息感。"Terrified"来自拉丁语"terrere"（使恐惧），与"terror"同源。古罗马有"terror"之神，是战神马尔斯的随从，在战场上散布恐慌。
 
 "Spider"（蜘蛛）来自古英语"spīþra"，与"spinnan"（纺丝）同源——蜘蛛是自然界最古老的"纺织工"。在希腊神话中，阿拉克涅因纺织技艺超越雅典娜而被变为蜘蛛，永远纺织却永远不被欣赏。"Shark"（鲨鱼）的词源不确定，可能来自德语"Schurke"（恶棍），十六世纪英国水手将这种海洋巨兽视为"海中恶棍"。
-
-## Tips
 
 - "Scared of"中的"scare"可能来自古诺尔斯语"skirra"（使受惊），维京人把这个词带入了英语。
 - "Used to"（过去常常）和"get used to"（逐渐习惯）的区别：前者描述已结束的过去习惯，后者描述正在进行的适应过程。

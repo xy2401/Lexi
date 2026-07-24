@@ -6,7 +6,7 @@
 
 afterward, away, cash register, change, checkout, cotton, cute, didn't, doesn't, don't, high, low, percent, pretty, quality, selfie, sleeve, stuff, sweatshirt, thrown, tiny, ugly, underwear, wasn't, weren't
 
-## 讲解
+## Tips
 
 "Cotton"（棉花）一词的旅行路线本身就是一部贸易史。它来自阿拉伯语"quṭn"，经中世纪西班牙的摩尔商人传入欧洲，变成古法语"coton"，再进入英语。棉花原产印度，印度河流域文明在五千年前就开始种植棉花、纺织棉布。亚历山大大帝东征时，希腊士兵第一次见到棉布，惊叹其为"长在树上的羊毛"。18世纪，棉花成为工业革命的引擎——曼彻斯特的棉纺厂改变了整个世界。
 
@@ -17,8 +17,6 @@ afterward, away, cash register, change, checkout, cotton, cute, didn't, doesn't,
 "Quality"（质量）来自拉丁语"qualis"（什么样的），与"qualify"（使合格）同源。中世纪行会制度下，每件商品都要经过"quality"检验——铁匠的刀剑、织工的布匹、面包师的面包，不合格者会被公开销毁。"Cash register"（收银机）的发明者是1879年的美国酒馆老板James Ritty，他受够了员工偷钱，看到轮船上的螺旋桨计数器后灵光一闪，发明了"Ritty's Incorruptible Cashier"（里蒂的不可腐蚀收银员）。
 
 "Selfie"（自拍）在2013年被牛津词典选为年度词汇，但这个词最早出现在2002年一个澳大利亚网络论坛上。一位醉酒的年轻人在论坛上发了一张自己嘴唇缝针的照片，配文"sorry about the focus, it was a selfie"。从2002年的醉酒帖子到全球数十亿张自拍，"selfie"见证了智能手机时代人类自我表达方式的革命。
-
-## Tips
 
 - "Pretty"（漂亮的）来自古英语"prættig"（狡猾的、机灵的），与"pratt"（诡计）同源。从"狡猾"到"漂亮"，词义的演变耐人寻味。
 - "Ugly"（丑陋的）来自古诺尔斯语"uggligr"（可怕的），与"agg"（恐惧）同源——维京人觉得丑就是"令人害怕"。

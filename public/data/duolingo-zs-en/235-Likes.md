@@ -6,7 +6,7 @@
 
 appealing, appropriately, by, can't get enough of, can't wait, catch up, don't, entertaining, homemade, housewarming, how, impressive, in style, isn't, lovely, miss out, obsessed with, play it by ear, show up, sounds, too hard on, unique, up to, virtual reality, won't
 
-## 讲解
+## Tips
 
 "Housewarming"（乔迁派对）是一个充满温度的词。在中世纪欧洲，搬入新居时宾客们会真的带来木柴和炭火，帮助主人"温暖"这座冰冷的石头房子。这不仅是实用之举，更象征着社区对新邻居的接纳和祝福。在法国，乔迁派对叫"pendaison de crémaillère"（挂壁炉钩），因为壁炉钩是最后安装的家庭物件，挂上它意味着家终于完整了。
 
@@ -15,8 +15,6 @@ appealing, appropriately, by, can't get enough of, can't wait, catch up, don't, 
 "Obsessed with"（沉迷于）中的"obsess"来自拉丁语"obsidere"，意为"围困、包围"——就像军队围城一样，某种事物完全占据了你的心灵。在古罗马，obsessio是一种军事战术；到了中世纪，它变成了神学术语，指恶魔对灵魂的纠缠；而在现代口语中，"I'm obsessed with this show"不过是在说"我追剧追得停不下来"。
 
 "Play it by ear"（随机应变）这个短语来自音乐领域。在16世纪的英国，如果一位乐手不看乐谱而凭听觉即兴演奏，就被称为"play by ear"。后来这个表达扩展到生活的方方面面，意思是"不做详细计划，走一步看一步"。这与"homemade"（自制的）形成有趣的对照——homemade强调亲手制作的温度和独特性，而play it by ear则强调随性和自然。
-
-## Tips
 
 - "In style"（有格调地）中的"style"源自拉丁语"stilus"，最初指古罗马人用来在蜡板上写字的尖笔，后来演变为"风格"。
 - "Can't get enough of"是英语中表达极度喜爱的地道说法，比"I like it very much"生动得多，暗示"怎么都不嫌多"。

@@ -6,7 +6,7 @@
 
 ahead, argue, at all, chosen, completed, disagree, enemy, extremely, increase, make up, media, mind, necessary, opinion, opposite, paid, prison, right, serious, solve, solved, suggestion, thought, trouble
 
-## 讲解
+## Tips
 
 "Debate"（辩论）来自古法语"debatre"，由"de-"（向下）+"batre"（打击）构成，字面意思是"互相击打"。辩论的本质就是语言的搏斗。古希腊雅典是西方辩论传统的摇篮——在公民大会（Ekklesia）上，任何公民都可以上台发言，用修辞术说服众人。苏格拉底发明了"产婆术"（maieutics），通过不断提问让对手自己发现逻辑漏洞，这被视为西方辩证法的起源。
 
@@ -17,8 +17,6 @@ ahead, argue, at all, chosen, completed, disagree, enemy, extremely, increase, m
 "Prison"（监狱）来自古法语"prison"，最终源自拉丁语"prehensio"（抓住），与"apprehend"（逮捕）同源。古罗马的监狱（carcer）位于罗马广场旁，阴暗潮湿，主要关押等待审判或处决的犯人。中世纪欧洲的监狱更加恶劣——伦敦的"Newgate监狱"关押了无数债务人、小偷和政治犯，直到1902年才被拆除。"Necessary"（必要的）来自拉丁语"necesse"，可能由"ne-"（不）+"cedere"（退让）构成——必要的事就是"不能退让的事"。
 
 "Trouble"（麻烦）来自古法语"troubler"（搅浑），最终源自拉丁语"turbulare"（使混乱），与"turbulent"（动荡的）同源。麻烦就是"把清水搅浑"——原本清晰的局面变得混沌不清。"Suggestion"（建议）来自拉丁语"suggerere"，由"sub-"（从下面）+"gerere"（带来）构成，字面意思是"从下面递上来"——建议不是命令，而是"从下方轻轻递上"的想法，供对方选择是否接受。
-
-## Tips
 
 - "Disagree"（不同意）由"dis-"（分开）+"agree"（同意）构成，而"agree"来自拉丁语"ad gratum"（令人愉快的）——不同意就是"不再觉得愉快"。
 - "Opposite"（相反的）来自拉丁语"opponere"（放在对面），由"ob-"（对着）+"ponere"（放置）构成——相反就是"面对面放着"。

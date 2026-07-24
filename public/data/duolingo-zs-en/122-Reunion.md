@@ -6,7 +6,7 @@
 
 a shame, annual, bald, cheers, curly, dj, except that, get together, give up, given up, gotten together, graduation, hang out, honey, hug, hung out, in contact, introduce, it's time, of mine, outgoing, vegetarian, visit, what's up
 
-## 讲解
+## Tips
 
 "Reunion"（重聚）来自法语"réunion"，由"ré-"（再次）+"union"（联合）构成。这个词在17世纪进入英语，最初用于政治语境——指被分裂的领土重新统一。到了19世纪，美国高中和大学开始举办"reunion"活动，让毕业多年的校友重返校园。最著名的是哈佛大学的"25周年重聚"传统，校友们穿着统一颜色的T恤回到哈佛园，按毕业年份列队游行，场面既怀旧又壮观。
 
@@ -17,8 +17,6 @@ a shame, annual, bald, cheers, curly, dj, except that, get together, give up, gi
 "Hug"（拥抱）的词源不确定，可能来自古诺尔斯语"hugga"（安慰）。在维京文化中，拥抱是战士之间表达信任和兄弟情谊的方式。而"honey"（亲爱的）作为爱称，反映了蜂蜜在古代的珍贵地位——在中世纪欧洲，蜂蜜是唯一的甜味来源，称爱人为"honey"就是说"你像蜜一样甜"。"DJ"是"Disc Jockey"的缩写，"jockey"原意是"骑手"，1935年美国广播评论员Walter Winchell首次用这个词来形容操控唱片的广播员。
 
 "Outgoing"（外向的）由"out"（向外）+"going"（走）构成，字面意思是"向外走的人"。这个概念在心理学中对应荣格提出的"extraversion"（外倾），来自拉丁语"extra"（外面）+"vertere"（转）——外向者的注意力总是"转向外面"。与之相对，"shy"（害羞的）来自古英语"scēoh"，与"shoo"（驱赶）同源，害羞的人就像受惊的马，随时准备被"赶走"。
-
-## Tips
 
 - "Annual"（每年的）来自拉丁语"annus"（年），与"anniversary"（周年纪念日）共享词根。古罗马的"annus"最初指"一个完整的循环"。
 - "Bald"（秃头的）可能来自中古英语"balled"，与"ball"（球）有关——光亮的头顶像一个球。

@@ -6,7 +6,7 @@
 
 although, cabbage, chili, day off, imagine, in my opinion, increase, lift, look like, pay, pea, perform, plus, response, roll, seem like, shown, shrimp, sound like, too bad, whether, which, while
 
-## 讲解
+## Tips
 
 "Party"（派对）来自拉丁语"partire"（分割），与"part"（部分）同源。最初"party"指的是一群人中的一部分——一个"派系"或"一伙人"。18世纪，"party"开始指社交聚会，因为聚会就是"从人群中分出来的一小群人"。维多利亚时代的英国有严格的派对礼仪：晚宴座位按社会等级排列，女主人坐在桌子一端，男主人坐在另一端，客人按"precedence"（优先顺序）入座。
 
@@ -17,8 +17,6 @@ although, cabbage, chili, day off, imagine, in my opinion, increase, lift, look 
 "Perform"（表演）来自古法语"parfornir"（完成），由"par-"（完全）+"fornir"（提供）构成。中世纪的"performer"不是演员，而是"完成承诺的人"——履行契约、执行任务。到了文艺复兴时期，perform才获得了"在舞台上表演"的含义。"Imagine"（想象）来自拉丁语"imaginari"，词根是"imago"（影像）。古罗马人认为"imago"是祖先的蜡制面具，保存在家族神龛中——想象就是在脑海中"看见"那些不存在但可能存在的影像。
 
 "Roll"（卷、滚动）来自古法语"roller"，最终源自拉丁语"rotulare"（使成轮形），与"rotate"（旋转）同源。派对上的"roll"可以是面包卷、可以是舞池中的旋转、也可以是骰子的滚动。"Lift"（举起）来自古诺尔斯语"lypta"，维京人在宴会上"举起"酒杯祝酒——这个动作跨越千年，变成了今天派对上举杯的"cheers"。
-
-## Tips
 
 - "Although"（虽然）由"all"（全部）+"though"（即使）构成，字面意思是"即使全部如此"——让步语气比"though"更强。
 - "Plus"（加）直接来自拉丁语"plus"（更多），古罗马人在计算中用"plus"表示"还有更多"。

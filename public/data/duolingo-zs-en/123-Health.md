@@ -6,7 +6,7 @@
 
 aspirin, badly, bleed, clinic, cough, degree, do, does, doesn't, don't, elbow, exhausted, fever, follow, fortunately, has got, have got, hurt, pharmacy, prescription, rest, sore, temperature, throat, tissue
 
-## 讲解
+## Tips
 
 "Aspirin"（阿司匹林）是医药史上最著名的品牌名之一。1899年，德国拜耳公司将乙酰水杨酸注册为"Aspirin"，名字来自"A"（乙酰基）+"Spir"（绣线菊属植物，其提取物含水杨酸）+"in"（化学后缀）。但阿司匹林的故事远早于此——古希腊医圣希波克拉底在公元前400年就记录了用柳树皮止痛退热的方法。柳树皮中正是含有水杨酸。从古希腊的柳树皮到拜耳的白色药片，人类用了两千四百年。
 
@@ -17,8 +17,6 @@ aspirin, badly, bleed, clinic, cough, degree, do, does, doesn't, don't, elbow, e
 "Fever"（发烧）来自拉丁语"febris"，古罗马人甚至为发烧设立了一位女神——Dea Febris（热病女神），在罗马城有三座供奉她的神庙。人们向热病女神祈祷，希望她"带走"高烧。"Throat"（喉咙）来自古英语"þrote"，与德语"Drossel"（画眉鸟）同源——画眉鸟以其洪亮的鸣叫著称，而喉咙正是声音的通道。"Elbow"（肘部）是"ell"（前臂）+"bow"（弯曲）的组合，字面意思就是"手臂弯曲的地方"。
 
 "Tissue"（纸巾）的词源出人意料地优雅。它来自古法语"tissu"，意为"编织物"，词根是拉丁语"texere"（编织）。最初tissue指的是精细的织物，后来才引申为生物组织（因为细胞像织物一样"编织"在一起），最终在20世纪成为"面巾纸"的代名词——1924年金佰利公司推出Kleenex时，用的广告语就是"不要把手帕放进你的口袋，用tissue"。
-
-## Tips
 
 - "Cough"（咳嗽）是英语中拼写最不规则的词之一，"ough"的发音与"through""though""thought"都不同，反映了英语拼写的历史混乱。
 - "Sore"（疼痛的）来自古英语"sār"，与德语"sehr"（非常）同源——在古日耳曼语中，"非常"和"痛苦"是同一个概念。

@@ -6,7 +6,7 @@
 
 ahead, beside, bright, dirt, dolphin, earth, giraffe, go back, humid, jungle, just, leaf, loudly, parrot, penguin, quietly, ridden, smell, stone, the environment, tiger, who, why, zebra
 
-## 讲解
+## Tips
 
 "Giraffe"（长颈鹿）的词源是一段跨越大陆的语言旅程。它来自阿拉伯语"zarāfa"（快走者），阿拉伯商人通过撒哈拉贸易路线将这种非洲动物介绍给地中海世界。古罗马人第一次见到长颈鹿时，认为它是骆驼和豹子的杂交种，因此称其为"camelopard"（骆驼豹）。这个名称在科学分类中保留至今——长颈鹿的学名仍是"Giraffa camelopardalis"。
 
@@ -17,8 +17,6 @@ ahead, beside, bright, dirt, dolphin, earth, giraffe, go back, humid, jungle, ju
 "Zebra"（斑马）的词源可能来自刚果语"nzara"（驴）或葡萄牙语"zevro"（野驴）。15世纪葡萄牙探险家在非洲西海岸首次见到斑马时，称其为"野驴"。斑马的黑白条纹至今仍是进化生物学的热门话题——最新研究表明，条纹的主要功能是驱赶采采蝇，而非伪装或调节体温。"Parrot"（鹦鹉）来自古法语"perrot"，可能是"Pierre"（彼得）的昵称——中世纪欧洲人把宠物鹦鹉当作"小彼得"来宠爱。
 
 "Environment"（环境）来自古法语"environner"（环绕），由"environ"（周围）构成。这个词直到19世纪才获得"自然环境"的含义——在此之前，它只是"周围的事物"。1962年，Rachel Carson的《寂静的春天》出版，"environment"从此成为政治和公共话语的核心词汇。"Earth"（地球）来自古英语"eorþe"，是日耳曼语族中最古老的词之一，与德语"Erde"、荷兰语"aarde"同源——在人类仰望星空之前，脚下的泥土就是一切。
-
-## Tips
 
 - "Leaf"（叶子）的复数是"leaves"，保留了古英语的"f→v"变化规则，与"wife→wives""knife→knives"同属一类。
 - "Humid"（潮湿的）来自拉丁语"humidus"，与"humus"（腐殖土）同源——潮湿的泥土就是humus，也是"human"（人）的远亲（人由泥土所造）。

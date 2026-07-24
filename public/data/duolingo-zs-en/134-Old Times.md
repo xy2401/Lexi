@@ -6,7 +6,7 @@
 
 accountant, assignment, corn, court, cover, did, didn't use to, favorite, fewer, fly, however, inch, indoors, know how to, never used to, outdoors, religion, rock, stream, sunrise, sweep, swept, tax, use to, web
 
-## 讲解
+## Tips
 
 "Accountant"（会计师）来自古法语"aconter"（计算），最终源自拉丁语"computare"（计算）。人类最早的"会计"记录可以追溯到五千年前的美索不达米亚——苏美尔商人在泥板上刻下谷物和牲畜的数量。中世纪意大利数学家卢卡·帕乔利在1494年出版了《算术、几何、比与比例概要》，系统阐述了复式记账法，被誉为"会计学之父"。没有会计师，就没有现代资本主义。
 
@@ -17,8 +17,6 @@ accountant, assignment, corn, court, cover, did, didn't use to, favorite, fewer,
 "Stream"（溪流）来自古英语"strēam"，与德语"Strom"（大河）同源。在工业革命前，溪流是村庄的生命线——提供饮水、驱动水磨、灌溉田地。"Sunrise"（日出）是纯粹的日耳曼复合词，古英语写作"sunnan upgang"（太阳的升起）。在电灯发明前，日出是每天最重要的时刻——它意味着劳动的开始、黑暗的结束。"Web"（网）来自古英语"webb"（编织物），与"weave"（编织）同源。1989年Tim Berners-Lee选择"World Wide Web"（万维网）这个名字，正是因为它像蜘蛛网一样把全世界的信息"编织"在一起。
 
 "Sweep"（打扫）和"swept"（打扫的过去式）保留了古英语的元音交替。在维多利亚时代的英国，"chimney sweep"（烟囱清扫工）是一个令人心酸的职业——年幼的孤儿被塞进狭窄的烟囱中清扫煤灰，许多孩子因此丧命。狄更斯在《雾都孤儿》中描写了这一残酷现实，最终推动了英国童工法的改革。
-
-## Tips
 
 - "Inch"（英寸）来自拉丁语"uncia"（十二分之一），与"ounce"（盎司）同源——一英寸最初是"一英尺的十二分之一"。
 - "Assignment"（作业/任务）来自拉丁语"assignare"（标记、分配），由"ad-"（朝向）+"signare"（标记）构成——作业就是"分配给你的标记"。
