@@ -1,247 +1,133 @@
-抱歉抱歉，刚刚在精简“异构双轨制”的表结构时，不小心把大框架里的**核心功能模块设计**（也就是 Reader、Explorer 和 Audio Lab 的详细交互和逻辑）给漏掉了！
+# Lexi
 
-这是 Lexi 最核心的灵魂，不能丢。我立刻为你补上**最完整的 3.0 终极版项目说明书**，把所有功能模块、技术细节、数据架构以及刚刚聊到的“异构双轨”全部融合进去：
+渐进式、沉浸式英语阅读与听说训练沙盒。纯前端 Heavy Client 架构，0 后端、0 流量费，托管于 Cloudflare Pages。
 
----
+## 核心能力
 
-# Lexi 项目产品与技术白皮书 (PRD & Architecture) —— 3.0 终极全量版
+- **智能阅读 (Reader)**：导入文本 → 自动分词 → `<ruby>` 双行注音渲染 → 难度 Tag 过滤 → 形态还原（running→run）
+- **词典浏览 (Explorer)**：A-Z 级联分片浏览 + 标签多维过滤 + 词族星云图
+- **听说沙盒 (Audio Lab)**：Web Speech TTS 朗读高亮 + MediaRecorder 录音 + 双通道声谱图对比纠音
+- **多邻国词库 (Duolingo)**：按单元/标签浏览词汇，支持发音与筛选
 
-## 一、 项目定位与核心价值
+## 技术栈
 
-**Lexi** 是一款基于纯前端技术（Heavy Client Architecture）构建的**渐进式、沉浸式英语阅读与听说训练沙盒**。
+| 层 | 选型 |
+|---|---|
+| 框架 | Vue 3 + Pinia + TypeScript |
+| 构建 | Vite 8 |
+| 本地存储 | Dexie.js (IndexedDB) |
+| 远端查询 | sql.js (WASM SQLite) 按需 fetch 分片 |
+| 文本解析 | marked + 自研 tokenizer |
+| 音频 | Web Speech API + Web Audio API + wavesurfer.js |
+| 部署 | Cloudflare Pages (静态托管) |
 
-它颠覆了传统词典被动的“查词”模式，转而为用户提供一个主动的“语言解构工作台”。用户通过导入个人文本（Markdown/HTML/Text），利用 Lexi 强大的前端计算、异构双轨词典驱动、音频频谱视觉对齐等技术，实现低认知负载的降维阅读、词典泛读浏览以及多维度的听说纠音训练。
-
-### 核心用户痛点
-
-1. **阅读断层**：复杂的单词形态变形（时态、复数等）和生僻词频繁中断阅读流畅度。
-2. **查词枯燥**：传统词典只能查单个词，无法直观总览某一体系（如雅思、四六级）的词汇全貌。
-3. **口语盲区**：听不出自己发音与标准发音的细微区别（即“盲听”状态）。
-4. **隐私与成本**：高度依赖后端 AI 接口，存在数据泄露风险且通常需要高昂的动态服务器运维费。
-
-### Lexi 的核心承诺
-
-* **0 服务器依赖与 0 流量费**：100% 离线可用，托管于 Cloudflare Pages 静态节点，无任何后端计算与下行流量成本。
-* **无缝降维阅读**：利用 `<ruby>` 标签实现动态词汇难度过滤与双行渲染。
-* **最大化数据特长**：不对数据源进行一刀切的格式裁剪，完美释放 ECDICT（多维词法与形态学）与 Stardict（精美富文本与原生例句）各自的特长。
-* **视觉纠音闭环**：基于 Web Audio API 提取音频指纹，通过声谱图实时对比实现直观纠音。
-
----
-
-## 二、 核心功能模块设计
+## 数据架构：三轨 SQLite 分片
 
 ```
-                    ┌───────────────────────────────────────┐
-                    │          用户输入文本 (MD/HTML)        │
-                    └───────────────────┬───────────────────┘
-                                        ▼
-                    ┌───────────────────────────────────────┐
-                    │      单词切分与本地 IndexedDB 检索       │
-                    └───────────────────┬───────────────────┘
-                                        ▼
-             ┌──────────────────────────┴──────────────────────────┐
-             ▼ (命中常用词)                                         ▼ (生僻词长尾)
-┌──────────────────────────┐                             ┌──────────────────────────┐
-│  本地内置高频库直接渲染    │                             │   远端分布式 SQLite 矩阵  │
-└────────────┬─────────────┘                             └────────────┬─────────────┘
-             │                                          (并行切分读取 ecdict/stardict)
-             └──────────────────────────┬─────────────────────────────┘
-                                        ▼
-                    ┌───────────────────────────────────────┐
-                    │    渲染核心：双行 <ruby> 文本交互树      │
-                    └───────────────────┬───────────────────┘
-                                        ▼
-             ┌──────────────────────────┼──────────────────────────┐
-             ▼                          ▼                          ▼
-┌──────────────────────────┐┌──────────────────────────┐┌──────────────────────────┐
-│ Web Speech TTS 动态朗读  ││ MediaRecorder 本地录音   ││ Web Audio 实时频谱对比    │
-└──────────────────────────┘└──────────────────────────┘└──────────────────────────┘
-
+public/dicts/
+├── ecdict/          # 全量词法数据 (76万词, 676个两字分片)
+│   ├── aa.db ~ zz.db
+│   └── _.db         # 非字母开头
+├── stardict/        # 富文本语境 (12万词, 676个两字分片)
+│   ├── aa.db ~ zz.db
+│   └── _.db
+└── hot/             # 高频热词 (5.8万词, 27个单字分片)
+    ├── a.db ~ z.db
+    └── _.db
 ```
 
-### 1. 智能阅读与动态降维中心 (Lexi Reader)
-
-* **文本解析引擎**：支持原生 Text、Markdown、HTML 输入，解析为单词树，且不破坏原始排版与复制粘贴特性。
-* **`<ruby>` 智能注音双行渲染**：
-* 将匹配到的单词包裹在 HTML5 标准的 `<ruby>` 标签内。
-* 将中文简明释义或词性放置于 `<rt>` 标签中，渲染在单词正上方。
-
-
-* **难度过滤器面板（Tag Switcher）**：
-* 提供多档位切换：`CET-4`、`CET-6`、`IELTS`、`TOEFL`、`GRE`、`核心高频`。
-* **动态过滤算法**：若用户选择“显示雅思词汇”，系统将屏蔽低于该难度的基础词汇注音，仅对雅思及以上难度的词汇进行双行标注，降低阅读视觉疲劳。
-
-
-* **智能形态还原（Morphological Restoration）**：
-* 依托 ECDICT 的形态学数据，当用户在文章中遇到 `running`、`went`、`happiest` 等变形词时，前端无需复杂的 NLP 后端，即可秒级识别其原型 `run`、`go`、`happy` 并展示“变形释义”，彻底解决因时态复数导致的查词失败。
-
-
-* **双级异步交互弹窗**：
-* **轻量悬浮层（Tooltip）**：点击单词上方的 `<rt>`（中文释义）或单词本身，优先触发极速轻量 Tooltip，展示音标、简明时态变形及来自 ECDICT 的核心翻译。
-* **重型大侧栏（Drawer）**：用户若需深挖用法，可展开 Drawer 抽屉，此时前端才异步触发加载 Stardict 的完整 HTML 富文本（包含例句、近义词、用法说明）。
-
-
-
-### 2. 交互式词典全景浏览系统 (Lexi Explorer)
-
-* **动态 A-Z 词典树**：
-* 左侧提供 A-Z 级联字母树（如 `S` $\rightarrow$ `Sa`, `Sb`, `Sc`...），点击某一节点时，前端利用 `wa-sqlite` 实时连接对应的分片数据库，像翻阅实体书一样流式倾倒出对应的词条列表。
-* 结合虚拟滚动（Virtual Scroll）技术，确保数十万词条在前端滚动时依然保持 60Hz 极致丝滑。
-
-
-* **标签过滤器阵列**：
-* 用户可多选过滤条件（如：`雅思` + `名词` + `高难词频`），前端基于本地 IndexedDB 进行微秒级检索，瞬间在网页上刷出一堵专属于该用户的“词汇闪卡墙”，并支持一键流式自动点读。
-
-
-* **词族星云图（Morphology Nebula）**：
-* 提取 ECDICT 中的 `exchange` 派生数据，以当前选中的单词为核心，在网页上用纯 CSS 或 Canvas 绘制一棵“词族进化树”（如以 `do` 为核心，像水母触角般延展出 `does`, `did`, `done`, `doing`），点击任意触角可联动切换释义与发音。
-
-
-
-### 3. 多媒体听说实验沙盒 (Lexi Audio Lab)
-
-* **流式语音合成 (TTS) 与高亮跟读**：
-* 调用 Web Speech API 中的 `SpeechSynthesis`，允许用户自由挑选系统级的高清自然人声。
-* 监听 `onboundary` 事件，实现“歌词同步级”的单词朗读实时高亮。
-
-
-* **例句点读与跟读系统**：
-* 利用 **Shadow DOM** 技术为 Stardict 的富文本 HTML 构建一个**样式隔离沙箱**，完美在浏览器里还原原版实体词典经典的“红蓝黑”排版且不污染主网页 UI。
-* 动态捕获沙箱内所有原生例句（如 `<li>` 或 `<p>` 标签），将其转化为“可点击交互媒体”。用户点击任意例句，浏览器即刻朗读整句；用户可按下麦克风进行跟读录音。
-
-
-* **视觉音频解构（频谱对比）**：
-* 基于 `AudioContext` 建立两条音频分析链，利用 `AnalyserNode` 提取 **标准 TTS 发音** 与 **用户录音** 的时域与频域数据。
-* 在两个平行的 `<canvas>` 上实时绘制**声谱图 (Spectrogram)**，帮助用户通过视觉音频指纹，直观纠正连读断开、爆破音缺失、长短音不准等口语细节。
-
-
-
----
-
-## 三、 数据存储与转换规范（异构双轨制）
-
-为最大化释放两本词典各自的原材料特长，全量数据在 Node.js 预处理阶段进行**物理隔离**，切分为两套独立的、各司其职的 `.db` 文件矩阵。
-
-### 1. 离线热数据：前端 IndexedDB (`Dexie.js`)
-
-* **数据来源**：从 ECDICT 中筛选出的各学科/考试常用核心词汇（约 30,000 词）。
-* **数据结构**：仅包含单词原型、音标、词频、简明纯文本翻译以及形态变形 JSON。
-* **体积与机制**：整体压缩后大小约 **4MB**。用户首次访问 PWA 网页时静默下载并写入 IndexedDB，支撑首屏秒级双行渲染与智能形态还原。
-
-### 2. 远端长尾数据：两字前缀双轨 SQLite 矩阵
-
-两本词典的数据在部署目录中彻底解耦，互不干扰，极大地方便后续单本词典的独立升级。
-
-#### 文件目录结构布局
-
-```text
-public/
-  └── dicts/
-        ├── ecdict/            <-- 轨道 A：聚焦词法形态、多维标签、变形分析
-        │     ├── a_.db        <-- 存放 a, a lot, a-level, a1 等特殊短语符号
-        │     ├── aa.db        <-- 存放 aardvark 等纯字母词条
-        │     ├── ab.db        <-- 存放 abandon, ability 等
-        │     └── ... [共 702 个文件]
-        └── stardict/          <-- 轨道 B：聚焦沉浸式排版、海量原生语境例句
-              ├── a_.db        
-              ├── aa.db        
-              └── ... [共 702 个文件]
+### 查词优先级
 
 ```
+IndexedDB (本地缓存) → hot/{x}.db (单字, ~230KB) → ecdict/{xx}.db (两字, ~1MB)
+```
 
-#### 两套独立的表结构设计
+### 归仓算法
 
-##### ① 轨道 A：`dicts/ecdict/{prefix}.db` (形态数据引擎)
+- **两字分片** (ecdict/stardict)：取前两字母，非字母用 `_` 替代 → `ab.db`, `a_.db`, `__.db`
+- **单字分片** (hot)：取首字母 → `v.db`, `_.db`
+
+### 表结构
 
 ```sql
-CREATE TABLE words (
-    word TEXT PRIMARY KEY,
-    frequency INTEGER,
-    tags TEXT,
-    exchange TEXT,      -- 完整保留 ECDICT 原始的变形映射字符串/JSON
-    phonetic TEXT,
-    translation TEXT    -- 简明纯文本释义，专供前端做列表联想与双行 <rt> 标注
-);
-CREATE INDEX idx_word ON words(word);
+-- ecdict / hot
+CREATE TABLE words (word TEXT PRIMARY KEY, phonetic TEXT, frequency INTEGER, tags TEXT, exchange TEXT, translation TEXT);
 
+-- stardict
+CREATE TABLE words (word TEXT PRIMARY KEY, html_content TEXT);
 ```
 
-##### ② 轨道 B：`dicts/stardict/{prefix}.db` (富文本语境仓库)
+## 构建
 
-```sql
-CREATE TABLE words (
-    word TEXT PRIMARY KEY,
-    html_content TEXT   -- 完整保留 Stardict 原始、精美的完整 HTML 字符串
-);
-CREATE INDEX idx_word ON words(word);
+### 前置条件
 
+- Node.js ≥ 18
+- 数据源通过 git submodule 引入：`data/ECDICT`（含 ecdict.csv + stardict.7z）
+
+### 脚本
+
+```bash
+npm run build:data    # 一键生成全部三套分片
+# 等价于:
+#   node scripts/build-ecdict.mjs      → public/dicts/ecdict/
+#   node scripts/extract-stardict.mjs  → data/stardict-raw/stardict.csv (从 stardict.7z 解压)
+#   node scripts/build-stardict.mjs    → public/dicts/stardict/
+#   node scripts/build-hot-data.mjs    → public/dicts/hot/
+
+npm run dev           # 本地开发
+npm run build         # 生产构建 (vite build → dist/)
 ```
 
-#### 两字前缀归仓命名算法 (Isomorphic JS 实现)
+### Cloudflare Pages 部署
 
-```javascript
-function getDbName(word) {
-    const cleanWord = word.toLowerCase().trim();
-    if (cleanWord.length < 2) return `${cleanWord}_.db`;
-    
-    const first = cleanWord[0];
-    const second = cleanWord[1];
-    const isLetter = (ch) => /^[a-z]$/.test(ch);
-
-    if (!isLetter(first)) return 'other_.db';           // 脏数据、纯数字符号归仓
-    if (isLetter(second)) return `${first}${second}.db`; // 正常纯字母分片如 "ap.db"
-    return `${first}_.db`;                               // 第二位带空格、符号的短语归仓如 "a_.db"
-}
-
+Build command:
+```bash
+git submodule update --init --recursive && npm run build:data && npm run build
 ```
 
-#### 运行机制与渐进式离线
+构建产物（`public/dicts/**/*.db`）由 `build:data` 在 CI 中生成，不提交到 git。
 
-当用户在阅读中点击一个生僻词（本地 IndexedDB 未命中）时：
+## 项目结构
 
-1. 前端计算 `getDbName(word)`，利用 `wa-sqlite` 发起 **HTTP Range Requests** 优先调取远端 `ecdict/{prefix}.db`，仅下载该单词所在的数 KB 字节，完成秒级悬浮窗渲染。
-2. 当用户进一步点击“查看大词典例句”时，前端再去按需切片读取远端 `stardict/{prefix}.db` 的数据，填充 Drawer 富文本大抽屉。
-3. **渐进式本地化**：任何一次从远端拉取成功的生僻词完整数据（含 ECDICT 字段与 Stardict HTML），都会在前端展示的同时被顺手写入本地 IndexedDB 中。随着用户的使用，本地离线库会愈加庞大。
+```
+src/
+├── App.vue                  # 主布局 (顶栏 + 视图切换)
+├── components/
+│   ├── ReaderView.vue       # 阅读器：文本导入 + ruby 渲染
+│   ├── ExplorerTree.vue     # A-Z 分片浏览树
+│   ├── TagFilter.vue        # 标签多维过滤
+│   ├── TagSwitcher.vue      # 难度档位切换
+│   ├── MorphNebula.vue      # 词族星云图
+│   ├── WordTooltip.vue      # 轻量悬浮释义
+│   ├── WordDrawer.vue       # 重型详情抽屉 (stardict 富文本)
+│   ├── DuolingoView.vue     # 多邻国词汇浏览
+│   └── SpectrogramCompare.vue # 声谱对比
+├── composables/
+│   ├── useTTS.ts            # Web Speech 朗读 + 高亮
+│   └── useRecorder.ts       # MediaRecorder 录音
+├── lib/
+│   ├── db.ts                # Dexie IndexedDB 操作
+│   ├── lookup-service.ts    # 查词调度 (local→hot→ecdict)
+│   ├── remote-db.ts         # sql.js 远端分片查询
+│   ├── morphology.ts        # 形态还原 (exchange 解析)
+│   └── tokenizer.ts         # 文本分词
+└── stores/
+    └── dict.ts              # Pinia 全局状态
 
----
+scripts/
+├── build-ecdict.mjs         # ECDICT CSV → 676 个两字 SQLite 分片
+├── build-stardict.mjs       # stardict.csv → 676 个两字分片
+├── build-hot-data.mjs       # 热词筛选 → 27 个单字分片
+├── extract-stardict.mjs     # stardict.7z → CSV (7zip-min)
+├── fetch-duolingo.mjs       # 多邻国 API → 本地 JSON
+└── utils.mjs                # 共享工具 (日志/事务/分片名)
 
-## 四、 前端技术栈核心选型
+data/
+└── ECDICT/                  # git submodule (ecdict.csv + stardict.7z)
+```
 
-| 模块 | 选型技术/库 | 选型核心理由 |
-| --- | --- | --- |
-| **应用外壳** | HTML5 / CSS3 / Vanilla JS (或 Vue3 / Svelte) | 保持应用轻量化，拒绝框架臃肿，提升首屏响应速度。 |
-| **离线支撑** | Service Worker + PWA 规范 | 确保无网络环境下（飞行模式）依然能够秒开网页并加载基本 UI。 |
-| **本地存储** | `Dexie.js` (基于 IndexedDB 封装) | 异步高性能浏览器数据库，提供高效的索引查询与批量写入。 |
-| **远端长尾** | `wa-sqlite` (WebAssembly) | 将 C 语言的 SQLite 引擎搬到前端，配合 HTTP Range 实现分布式静态数据库按需字节级读取。 |
-| **文本解析** | `marked.js` + 自研词法分词 Regex | 将 Markdown/HTML 高效转换为富文本树，同时完成 `<ruby>` 标签无损包裹。 |
-| **多媒体音频** | Web Speech API + Web Audio API | 原生系统级人声合成与边界高亮监听；提供专业的音频分析采样节点实时绘制 Canvas 动态声谱图。 |
+## 渐进式离线
 
----
-
-## 五、 云端部署与技术限制规避
-
-### 1. 托管平台与成本
-
-应用整体托管于 **Cloudflare Pages**。1404 个分布式静态 `.db` 文件作为静态资源随网页一同打包部署。借助 `wa-sqlite` 的 WebAssembly 虚拟文件系统，前端查词时通过 **HTTP Range Requests** 精准切片调取远端对应 `.db` 文件的特定字节。
-
-* **运维及带宽成本：0 元**（Cloudflare Pages 静态托管提供 100% 免费的无限下行流量与无限请求次数）。
-
-### 2. 限制规避指标对齐
-
-* **指标 A：单文件大小上限 25MB**
-* *规避结果*：经过两字前缀细分拆片后，76万词被均匀稀释到 702 个文件里。ECDICT 矩阵分片通常仅几百 KB，Stardict 矩阵分片普遍在 1MB - 3MB 之间，**完美且永远不可能触及 25MB 上限**。
-
-
-* **指标 B：单次部署文件总数上限 20,000 个**
-* *规避结果*：Lexi 构建后的全量文件总数包含：基础网页资源 + 1个离线高频数据包 + 两套数据库分片（$702 \times 2 = 1404$ 个），**总数约为 1410 个，远低于 20,000 的免费额度限制**。
-
-
-
----
-
-## 六、 项目实施路线图 (Milestones)
-
-1. **Milestone 1 (Node.js 异构数据切片工程)**：编写两套独立的 Node.js 流式转换脚本。脚本 A 解析 ECDICT CSV 并激活内存同步事务，喷射出 `dicts/ecdict/` 矩阵；脚本 B 解析 Stardict 二进制 `.idx`/`.dict` 文件，提取原始 HTML 喷射出 `dicts/stardict/` 矩阵。
-2. **Milestone 2 (离线基础架构与  引擎)**：配置 PWA 和 Service Worker 离线拦截。引入 `Dexie.js` 初始化本地 3 万核心高频库。攻克前端文本分词正则，实现动态 Tag 难度过滤与双行 `<ruby>` 渲染。
-3. **Milestone 3 (Wasm 异步双轨切片调度)**：集成 `wa-sqlite`。编写前端异步按需调度逻辑：本地未命中时，优先精准切片 `ecdict/{prefix}.db` 渲染轻量 Tooltip；展开大侧栏时，按需切片 `stardict/{prefix}.db` 并利用 Shadow DOM 隔离渲染富文本。
-4. **Milestone 4 (全景浏览与音频沙盒)**：开发 A-Z 级联虚拟滚动词典树与词族衍生图。接入 Web Speech API 朗读高亮和例句点读系统；调通 Web Audio API 双通道声谱图动态 Canvas 绘制，完成项目最终闭环。
+1. 首次访问：hot 分片 (27个, 共 ~6MB) 批量加载写入 IndexedDB
+2. 阅读中查词：本地未命中 → 远端分片按需 fetch → 结果写回 IndexedDB
+3. 随使用积累，本地缓存越来越全，离线能力逐步增强
