@@ -1,6 +1,6 @@
 # Unit 290: Graduation
 
-> Graduation: Congratulate someone's success
+> Graduation: Congratulate someone’s success
 
 ## 单词
 

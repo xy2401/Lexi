@@ -4,7 +4,7 @@
 
 ## 单词
 
-absent, aloud, apply, correct, correction, credit, elementary school, final exam, handwriting, literature, midterm, paragraph, participate, participation, preparation, prepare, pronounce, pronunciation, reapply, report card, reread, rewrite, school, smart
+absent, aloud, apply, correct, correction, credit, elementary school, final exam, handwriting, literature, material, midterm, paragraph, participate, participation, preparation, prepare, pronounce, pronunciation, reapply, report card, reread, rewrite, school, smart
 
 ## 单元讲解
 

@@ -4,7 +4,7 @@
 
 ## 单词
 
-ache, act, as if, as though, bite, bruise, cautious, have, honey, itch, pass out, recovery, severe, suffer, sweat, the chills, unconscious, upset, vision, waiting room, weak, weakness, wear off, wound, wrap
+ache, act, as if, as though, bite, bruise, cautious, have, honey, itch, pass out, recovery, severe, suffer, sweat, the chills, unconscious, upset, vision, waiting room, weakness, wear off, wound, wrap
 
 ## 单元讲解
 

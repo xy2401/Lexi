@@ -4,7 +4,7 @@
 
 ## 单词
 
-Buddhist, Christian, Hindu, Jewish, Muslim, atheist, become, believe in, bible, catholic, cross, death, doubt, ghost, goddess, god, happiness, had, lives, prayer, priest, religious, respect, return, take
+Buddhist, Christian, Hindu, Jewish, Muslim, atheist, become, believe in, bible, catholic, cross, death, doubt, ghost, god, goddess, had, happiness, lives, prayer, priest, religious, respect, return, take, temple
 
 ## 单元讲解
 
