@@ -73,6 +73,12 @@ async function getShardDb(track: 'ecdict' | 'stardict' | 'hot', dbName: string):
     throw new Error(`Failed to fetch shard: ${url} (${response.status})`)
   }
 
+  // 检测 SPA fallback 返回 HTML 的情况（分片文件缺失时 Vite 会返回 index.html）
+  const contentType = response.headers.get('content-type') || ''
+  if (contentType.includes('text/html')) {
+    throw new Error(`Shard not found (got HTML fallback): ${url}`)
+  }
+
   const buffer = await response.arrayBuffer()
   const SQL = await getSqlJs()
   return new SQL.Database(new Uint8Array(buffer))
