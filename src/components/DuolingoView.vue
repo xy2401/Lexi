@@ -6,6 +6,7 @@
 import { ref, computed, onMounted } from 'vue'
 import { marked } from 'marked'
 import { db, type WordEntry } from '../lib/db'
+import PracticePanel from './PracticePanel.vue'
 
 interface DuoUnit {
   id: number
@@ -25,7 +26,7 @@ const unitEntries = ref<WordEntry[]>([])
 const searchQuery = ref('')
 
 // 面板 tab 切换
-const panelTab = ref<'words' | 'guide'>('words')
+const panelTab = ref<'words' | 'guide' | 'practice'>('words')
 const guideHtml = ref('')
 const guideLoading = ref(false)
 
@@ -73,7 +74,7 @@ async function selectUnit(unit: DuoUnit) {
   unitEntries.value = unit.words.map(w => map.get(w) || { word: w, phonetic: '', frequency: 0, tags: '', exchange: '', translation: '' })
 }
 
-async function switchTab(tab: 'words' | 'guide') {
+async function switchTab(tab: 'words' | 'guide' | 'practice') {
   panelTab.value = tab
   if (tab === 'guide' && selectedUnit.value && !guideHtml.value) {
     await loadGuide(selectedUnit.value)
@@ -142,6 +143,7 @@ function selectWord(word: string) {
         <div class="panel-tabs">
           <button :class="['tab-btn', { active: panelTab === 'words' }]" @click="switchTab('words')">词汇</button>
           <button :class="['tab-btn', { active: panelTab === 'guide' }]" @click="switchTab('guide')">单元讲解</button>
+          <button :class="['tab-btn', { active: panelTab === 'practice' }]" @click="switchTab('practice')">练习</button>
         </div>
 
         <!-- 词汇列表 -->
@@ -162,6 +164,11 @@ function selectWord(word: string) {
         <div class="guide-content" v-show="panelTab === 'guide'">
           <div v-if="guideLoading" class="guide-loading">加载讲解中...</div>
           <div v-else class="guide-body" v-html="guideHtml"></div>
+        </div>
+
+        <!-- 练习 -->
+        <div class="practice-content" v-show="panelTab === 'practice'">
+          <PracticePanel :words="selectedUnit.words" :entries="unitEntries" />
         </div>
       </div>
     </div>
