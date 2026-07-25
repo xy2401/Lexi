@@ -6,17 +6,28 @@
 
 any, anything, beaten, been, choose to, freeze, froze, frozen, hear that, in common, interest, never been, others, sports, start to, stop by, typically, well, will
 
+## 单元讲解
+
+本单元让你谈论运动经历，核心是现在完成时的经验表达：Have you ever been beaten in a game? I've never been skiing, but I'd like to start to learn.（你在比赛中输过吗？我从没滑过雪，但想开始学。）Do you have anything in common with the others?（你跟其他人有什么共同点吗？）
+
+词表围绕运动和经历展开。beaten 是 beat（打败）的过去分词，been 是 be 的过去分词，两者在完成时中高频出现。freeze / froze / frozen 展示了不规则动词的三态变化，虽然和运动不直接相关，但可能用来描述户外运动中的天气：It froze last night, so the lake is frozen.（昨晚结冰了，所以湖面冻住了。）
+
+in common 是谈论共同爱好的核心搭配：We have sports in common. typically 表示"通常"，比 usually 更强调典型性。choose to 和 start to 表达意愿和开始：I choose to play sports because it's interesting. hear that 是口语中回应消息的常用语：I heard that you won! Well done!
+
 ## Tips
 
-"Experience"（经历）虽未直接出现在词表中，但本单元的核心——用"Have you ever...?"谈论人生经历——正是英语中现在完成时最经典的用法。这种时态将过去与现在连接：你的经历"存在于"你的当下身份中。"Have you ever been skiing?"不仅询问过去的事实，更在问"你的生命中是否包含这段体验"。语言学家称之为"existential perfect"（存在性完成时）——它确认的是经验的存在，而非时间。
+- **beaten / been** — beaten 是 beat 的过去分词（beat / beat / beaten）：I've never been beaten. been 是 be 的过去分词。在完成时中，have been + 地点 = 去过：Have you been to the gym? 注意区分 have been to（去过已回）和 have gone to（去了未回）。
 
-"Freeze"（冻结）来自古英语"frēosan"，是日耳曼语族最古老的词汇之一。freeze-froze-frozen的元音变化（ee-o-o）是典型的日耳曼强动词模式，与"speak-spoke-spoken"属于同一类型。在体育语境中，"freeze"描述极端寒冷条件下的运动体验：冰球在"frozen"（冰冻的）湖面上进行，冬泳者在"frozen"的河流中破冰而入。"Beaten"（被击败的）来自古英语"bēatan"（打击），在体育中意为"被对手打败"：Our team has never been beaten at home.（我们队在主场从未被击败过。）
+- **freeze / froze / frozen** — 不规则动词三态：freeze（现在）/ froze（过去）/ frozen（过去分词）。The river froze in winter. / The ground is frozen. 也可比喻"愣住"：I froze when I saw the bear.
 
-"Sports"（运动）来自古法语"desport"（消遣、娱乐），由"des-"（离开）和"port"（携带）组成——字面意思是"带走（烦恼）"。运动最初不是竞技，而是"让人从日常劳作中解脱出来的消遣"。中世纪贵族的"sport"是狩猎和鹰猎；直到十九世纪，现代意义上的有组织竞技运动才在英国公学中成型。"In common"（共同的）来自拉丁语"communis"（共有的），与"community"（社区）和"communication"（交流）同源——有共同兴趣的人天然形成一个"共同体"。
+- **in common / others** — have something in common = 有共同点。搭配：We have a lot in common. / What do you have in common? others = 其他人/事物，是 other 的复数代词形式，不需要再加名词。
 
-"Typically"（通常）来自希腊语"typos"（印记、模型），与"type"（类型）同源。"Typically"描述的是"符合某种类型/模式"的行为——当你说"I typically go running on weekends"，你是在说这符合你的"行为模式"。"Choose to"（选择做某事）来自古英语"cēosan"，与德语"kiesen"（选择）同源，暗示在多个可能性中"挑选一个"。
+- **typically / well** — typically 比 usually 更强调"典型地、有代表性地"：He typically arrives late. well 既可作副词（play well）也可作感叹词（Well, let me think.）或形容词（I'm well = 我身体好）。
 
-- "Have you ever...?"是询问人生经历的标准句式，回答用"Yes, I have"或"No, I haven't"，不需要重复具体动词。
-- "Freeze-froze-frozen"和"beaten"都是不规则形式，需要单独记忆。类似的还有"speak-spoke-spoken"。
-- "Start to"和"start doing"在大多数情况下可以互换：I started to run. = I started running.
-- "Hear that"（听说了吗）是口语中引入新话题的方式：Did you hear that they're building a new stadium?（你听说他们要建新体育场了吗？）
+- **choose to / start to / interest** — choose to 强调主动选择（比 decide to 更突出意愿）。start to = begin to。interest 在此可能是名词：I have an interest in sports. 也可作动词：Sports interest me.
+
+- **never been / any / anything** — never been 是"从没去过/做过"：I've never been surfing. any 和 anything 常用于否定句和疑问句：Do you have any experience? / I haven't done anything like that.
+
+- **stop by / hear that / will** — stop by = 顺便来：Stop by the game sometime! hear that 常用于转述消息：Did you hear that she won? will 在此可表意愿或将来：I will try a new sport.
+
+- **sports** — sport 的复数。美式英语中 sports 更常用（sports fan, sports car），英式英语中单数 sport 也可以：I like sport. 注意 sports 作形容词时不加 s：a sports event（不是 a sport event）。

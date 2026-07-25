@@ -6,17 +6,28 @@
 
 ahead of time, as, bed and breakfast, carry-on, central, check, come out, fasten, flight attendant, for, had, hadn't, help yourself to, how did, immigrant, out of order, permanent resident, reliable, room, select, self-service, separate, to, travels, with
 
+## 单元讲解
+
+本单元围绕"提前预订座位"展开，场景涵盖飞行、住宿和入境。词表里有飞行相关（carry-on, fasten, flight attendant, select）、住宿（bed and breakfast, room, central）和入境身份（immigrant, permanent resident）词汇。
+
+你可以练习旅行对话：I'd like to select a seat ahead of time. / How did you check in—self-service or with the flight attendant? / Fasten your seatbelt. / The bed and breakfast is in a central location. / Had you traveled before you became a permanent resident? / The machine is out of order—help yourself to a carry-on tag. / This airline is reliable.
+
+had / hadn't 提示过去完成时（Had you reserved...? / I hadn't known...）。come out 可指"出来、出版"。separate = 分开的。
+
 ## Tips
 
-"Travel"可能来自古法语"travail"（辛苦、劳作），而"travail"又来自拉丁语"tripalium"——一种三根木桩组成的刑具。旅行的词源竟然与"折磨"有关，这在中世纪并非夸张：道路泥泞、盗匪横行、客栈跳蚤成灾，出门远行确实是一种苦役。直到19世纪铁路出现，旅行才从"受难"变成"享受"。托马斯·库克在1841年组织了世界上第一次团体火车旅行，570人从莱斯特到拉夫堡，票价一先令。
+- **ahead of time / carry-on / select** — ahead of time = 提前（= in advance：Book ahead of time.）。carry-on = 随身行李（carry-on luggage / a carry-on bag），对比 checked bag（托运行李）。select = 选择（select a seat / select a room），比 choose 更正式。
 
-"Immigrant"来自拉丁语"immigrare"（迁入），由"in-"（进入）和"migrare"（迁移）构成。美国作为"移民国家"的历史从1620年"五月花号"开始，但真正的大规模移民潮在1892-1954年间——超过1200万人通过纽约港的埃利斯岛入境。"Permanent resident"（永久居民）持有的绿卡（Green Card）之所以叫"绿卡"，是因为1946年首次发行时确实是绿色的，虽然后来换过其他颜色，但名字保留了下来。
+- **bed and breakfast / central / room** — bed and breakfast = 民宿（缩写 B&B，提供住宿和早餐的小型旅馆）。central = 市中心的（a central location, central London）。room = 房间（book a room, a single/double room）。
 
-"Flight attendant"（空乘）这个职业诞生于1930年。波音航空运输公司雇佣了护士艾伦·丘奇，让她在航班上照顾乘客——当时坐飞机是极其颠簸和危险的体验。早期空乘必须是注册护士、体重不超过52公斤、年龄不超过25岁。如今"flight attendant"取代了带有性别偏见的"stewardess"，体现了职业称谓的性别中立化趋势。
+- **flight attendant / fasten / check** — flight attendant = 空乘人员（旧称 stewardess，现在统一用 flight attendant）。fasten = 系好（fasten your seatbelt）。check = 办理（check in 值机, check out 退房）。
 
-"Bed and breakfast"（民宿）是英国乡村文化的缩影。二战后，许多英国乡绅的大宅维护费用高昂，主人便开放几间客房给旅客，提供一夜住宿和一顿英式早餐。这种模式后来传遍全球。"Carry-on"（随身行李）则是航空时代的产物——在火车旅行时代，人们带着巨大的皮箱和帽盒出行，而飞机的行李舱空间限制催生了"随身行李"的概念。
+- **immigrant / permanent resident** — immigrant = 移民（从外国移入的人）。permanent resident = 永久居民（持有绿卡的人，缩写 PR）。搭配：apply for permanent resident status, an immigrant community。注意 immigrant（移入）和 emigrant（移出）视角不同。
 
-- "fasten your seatbelt"是飞机上的固定用语，"fasten"比"buckle"更正式
-- "out of order"指设备故障，源自"order"（秩序）——设备脱离了正常秩序
-- "help yourself to"是邀请别人自取的礼貌表达：Help yourself to some coffee（请自便，喝点咖啡）
-- "ahead of time"和"in advance"同义，但ahead of time更口语化
+- **had / hadn't / how did** — had 用于过去完成时（Had you traveled before? = 你之前旅行过吗？）。hadn't = had not（I hadn't reserved a seat.）。how did = 怎么……的（How did you get here? / How did you check in?）。
+
+- **out of order / reliable / self-service** — out of order = 故障的、坏了的（The machine is out of order.）。reliable = 可靠的（a reliable airline, a reliable service）。self-service = 自助的（a self-service check-in kiosk）。
+
+- **help yourself to / come out / separate / travels** — help yourself to = 请自便、随便用（Help yourself to some coffee.）。come out = 出来、出版（The results came out. / The sun came out.）。separate = 分开的（separate rooms, keep them separate）。travels = 旅行经历（复数，较文学化：Tell me about your travels.）。
+
+- **as / for / to / with** — 功能介词。as = 作为（work as a flight attendant）。for = 为了（a room for two nights）。to = 到（fly to Paris）。with = 和、用（travel with friends / check in with an attendant）。

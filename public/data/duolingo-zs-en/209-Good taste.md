@@ -6,17 +6,26 @@
 
 circus, comic, decide, direct, dislike, display, divorce, drama, entertainment, folk, generally, get used to, hadn't, if, if you had, if you'd, marvelous, public, rare, real, realistic, trend, would have, would've
 
+## 单元讲解
+
+本单元围绕"分享对电影的看法"展开，话题是影视娱乐和审美品味。词表里有影视类型和评价词汇（comic, drama, entertainment, direct, realistic, marvelous, folk, circus）和表达观点的结构（generally, trend, public, rare, real, dislike, decide）。
+
+你可以练习影评对话：If you had seen this movie, you would have loved it. / I generally dislike comic films, but this one is marvelous. / The director made a realistic drama about a divorce. / It's a rare trend in public entertainment. / If you'd gone to the circus, you'd know what I mean. / I hadn't expected to get used to folk music in a movie.
+
+if you had / if you'd + would have 是第三类条件句（对过去的虚拟），用来谈论"如果当时……就会……"。would've 是 would have 的口语缩写。
+
 ## Tips
 
-"Cinema"（电影）来自希腊语"kinema"（运动），因为电影的本质就是"运动的图像"。1895年，卢米埃尔兄弟在巴黎一家咖啡馆的地下室放映了《火车进站》，据说观众看到银幕上的火车驶来时惊恐地四散奔逃——他们以为真火车要冲出来。而"direct"（导演）来自拉丁语"dirigere"（引导、校正），导演就是那个"引导"整部影片方向的人。
+- **if you had / if you'd / would have / would've** — 第三类条件句：If you had + 过去分词, ... would have + 过去分词。if you'd = if you had。would've = would have（口语缩写 /ˈwʊdəv/）。例句：If you had watched it, you would have cried. 表示对过去未发生事情的假设。
 
-"Drama"来自希腊语"dran"（做、行动），亚里士多德在《诗学》中将其定义为"对行动的模仿"。古希腊戏剧诞生于酒神狄俄尼索斯的祭祀仪式，演员戴着巨大的面具，在露天剧场中表演，观众多达一万五千人。"Comic"（喜剧的）来自"komos"（狂欢游行），而"tragedy"（悲剧）可能来自"tragos"（山羊）——因为悲剧竞赛的奖品是一只山羊，或者因为演员穿着山羊皮扮演萨提尔。
+- **comic / drama / entertainment / folk** — comic = 喜剧的（a comic film, comic relief）。drama = 剧情片、戏剧。entertainment = 娱乐（the entertainment industry）。folk = 民间的（folk music 民谣, folk art 民间艺术）。
 
-"Circus"来自拉丁语"circus"（圆形），古罗马的大竞技场（Circus Maximus）可容纳25万观众，是当时世界上最大的娱乐场所。现代马戏团的鼻祖是1768年英国的菲利普·阿斯特利，他发现马匹在圆形场地中奔跑时，骑手更容易保持平衡做杂技动作，于是确立了圆形马戏场的传统。"Marvelous"来自拉丁语"mirabilis"（令人惊叹的），与"miracle"（奇迹）同源。
+- **realistic / real / marvelous / rare** — realistic = 逼真的、写实的（a realistic portrayal）。real = 真实的。marvelous = 精彩的、绝妙的（= wonderful，更夸张）。rare = 稀有的（a rare film, a rare talent）。搭配：a realistic drama, a marvelous performance。
 
-"Folk"来自古英语"folc"（人民），在电影语境中指"民间的、大众的"。20世纪60年代的美国民谣运动（folk music）催生了鲍勃·迪伦这样的文化偶像，2016年他获得诺贝尔文学奖——这是诺贝尔奖首次颁给一位"歌手"，引发了"歌词算不算文学"的激烈争论。"Trend"来自古英语"trendan"（滚动、转动），一个潮流就像轮子一样转过来又转过去。
+- **direct / director / display / decide** — direct 作动词"导演"（She directed the film.），作形容词"直接的"。display = 展示（a display of talent）。decide = 决定（decide to watch / decide that...）。注意 direct 的名词是 direction（方向/指导）。
 
-- "would've"是"would have"的口语缩合，发音类似"would of"，但书写时绝不能用"would of"
-- "realistic"和"real"的区别：一部纪录片是"real"（真实的），一部拍得像纪录片的剧情片是"realistic"（逼真的）
-- "if you'd"可以等于"if you had"或"if you would"，需要根据后文判断
-- 英语中评价电影常用"marvelous, brilliant, stunning"等夸张形容词，这是英语影评文化的特色
+- **generally / trend / public / dislike** — generally = 一般来说（I generally prefer dramas.）。trend = 趋势（a new trend in film）。public = 公众的（public opinion, the general public）。dislike = 不喜欢（比 don't like 更正式：I dislike horror movies.）。
+
+- **circus / divorce / hadn't** — circus = 马戏团（go to the circus）。divorce = 离婚（get a divorce, a divorce drama）。hadn't = had not（I hadn't seen it before.），用于过去完成时否定。
+
+- **get used to** — get used to = 逐渐习惯（+ 名词/-ing）。例句：I got used to the slow pace. / You'll get used to folk music. 注意和 used to（过去常常）区分：get used to 强调适应的过程。

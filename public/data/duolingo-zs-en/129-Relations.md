@@ -6,20 +6,37 @@
 
 annoying, author, barber, blind, british, date, divorced, dream, firefighter, gay, haircut, honest, huge, lawyer, lesbian, marriage, nephew, niece, relationship, respect, retire, spouse, successful, trust, where
 
+## 单元讲解
+
+本单元围绕"描述你身边的关系"展开。核心是人际关系表达：My nephew is a successful lawyer.（我侄子是个成功的律师。）、She's getting a haircut at the barber's.（她在理发店剪头发。）、They trust and respect each other in their relationship.（他们在关系中互相信任和尊重。）、My niece's dream is to be a firefighter.（我侄女的梦想是当消防员。）。
+
+词表里有亲属词汇（nephew, niece, spouse）和职业词汇（lawyer, firefighter, barber, author）。你可以练习：They got divorced last year. / He's an honest and successful author. / Where does your niece work? / She's blind but very independent.
+
+nephew（侄子/外甥）和 niece（侄女/外甥女）区分性别。spouse 是"配偶"（不分性别）。
+
 ## Tips
 
-"Marriage"（婚姻）来自古法语"mariage"，词根是拉丁语"maritare"（嫁娶），而"maritare"又来自"mas/maris"（男性）。这个以男性为中心的词源反映了古代婚姻的父权本质。在古罗马，婚姻最初是一种财产交易——"manus"（手）仪式中，新娘从父亲的"手"中转移到丈夫的"手"中。"Spouse"（配偶）则来自拉丁语"sponsus/sponsa"（被承诺的人），与"sponsor"（担保人）同源——婚姻在词源上就是一份"承诺"和"担保"。
+- **nephew / niece / spouse** — 侄子 / 侄女 / 配偶。搭配：my nephew, my niece, my spouse。例句：My nephew is a lawyer. / My niece is getting married. / My spouse works at a hospital. 注意 spouse 不分性别（比 husband/wife 更中性）。
 
-"Lawyer"（律师）来自古法语"loier"，最终源自拉丁语"lex/legis"（法律）。古罗马的律师称为"advocatus"（被召唤来帮助的人），这就是"advocate"（倡导者）的来源。中世纪英格兰，律师分为"barrister"（出庭律师，站在"bar"栏杆后面辩护）和"solicitor"（事务律师）。"Barber"（理发师）来自拉丁语"barba"（胡须），中世纪的理发师不仅剪发剃须，还兼任外科医生——他们拔牙、放血、做小手术。理发店门口旋转的红白蓝柱子，红色代表血液，白色代表绷带，蓝色代表静脉。
+- **relationship / trust / respect** — 关系 / 信任 / 尊重。搭配：a good relationship, trust each other, respect each other。例句：They have a great relationship. / I trust her completely. / Respect is important. 注意 relationship 比 relation 更常用（指人际关系）。
 
-"Nephew"（侄子）和"niece"（侄女）都来自拉丁语"nepos"（孙子、后代），与梵语"napat"（孙子）同源，可追溯到原始印欧语。在古罗马继承法中，nepos有特殊的法律地位——如果没有直系后代，财产由nepos继承。"Divorced"（离婚的）来自拉丁语"divortium"，由"dis-"（分开）+"vertere"（转）构成，字面意思是"转向不同的方向"——离婚就是两个人从此各走各路。
+- **divorced / marriage / date** — 离婚 / 婚姻 / 约会。搭配：get divorced, a happy marriage, go on a date。例句：They got divorced last year. / Their marriage is strong. / She's on a date tonight. 注意 divorced 是形容词状态。
 
-"Trust"（信任）来自古诺尔斯语"traust"（信心、保护），维京人用这个词形容战友之间生死相托的纽带。在维京社会中，"traust"是维系部落的核心价值——没有信任，长船上的划手就不会把后背交给同伴。"Respect"（尊重）来自拉丁语"respicere"（回头看），由"re-"（回）+"specere"（看）构成。尊重就是"回头看"——认真对待一个人的存在，而不是视而不见。
+- **lawyer / firefighter / barber** — 律师 / 消防员 / 理发师。搭配：a successful lawyer, a brave firefighter, at the barber's。例句：My nephew is a lawyer. / She wants to be a firefighter. / I'm going to the barber's. 注意 barber 通常指男性理发师。
 
-"Dream"（梦想）来自古英语"drēam"，但有趣的是，古英语中"drēam"的意思不是"梦"，而是"欢乐、音乐"！古英语中"梦"用"swefn"表示。直到维京入侵后，古诺尔斯语的"draumr"（梦）逐渐取代了"swefn"，而原来的"drēam"（欢乐）则消失了。一个词的含义被彻底替换，这是语言史上罕见的现象。
+- **author / successful / dream** — 作家 / 成功的 / 梦想。搭配：a famous author, a successful career, my dream is to...。例句：She's a successful author. / His dream is to write a novel. 注意 author 比 writer 更正式（通常指出版过书的）。
 
-- "Author"（作者）来自拉丁语"auctor"（创造者、发起人），与"authority"（权威）同源——在古代，作者就是文本的"权威"。
-- "Honest"（诚实的）来自拉丁语"honestus"（可敬的），与"honor"（荣誉）同源。在古罗马，诚实是获得社会荣誉的前提。
-- "Gay"原意是"快乐的、明亮的"（来自古法语"gai"），20世纪中期开始用于指代同性恋群体，词义经历了巨大转变。
-- "Retire"（退休）来自古法语"retirer"（撤回），由"re-"（回）+"tirer"（拉）构成——退休就是从工作中"把自己拉回来"。
-- "British"（英国的）来自拉丁语"Britannia"，而"Britannia"来自希腊语"Prettanike"，可能是凯尔特语"prydain"（纹身的人）的音译——古希腊人看到不列颠人身上的纹身，印象深刻。
+- **honest / annoying / huge** — 诚实的 / 烦人的 / 巨大的。搭配：an honest person, so annoying, a huge problem。例句：He's very honest. / My neighbor is annoying. / There's a huge difference. 注意 honest 的 h 不发音（用 an）。
+
+- **blind / gay / lesbian** — 失明的 / 男同性恋 / 女同性恋。搭配：blind people, a gay couple, a lesbian couple。例句：She's blind but lives independently. / They're a gay couple. 注意这些词描述身份，使用时注意尊重。
+
+- **retire / haircut / british** — 退休 / 理发 / 英国的。搭配：retire from work, get a haircut, British English。例句：My uncle is going to retire. / I need a haircut. / She's British. 注意 retire = 退休（不再工作）。
+
+- **where / trust / respect** — 哪里 / 信任 / 尊重。搭配：Where does he work? / trust sb, respect sb。例句：Where does your nephew work? / I trust my spouse. / We respect each other. 注意 where 引导地点疑问。
+
+- **marriage / divorced / spouse** — 婚姻 / 离婚 / 配偶。搭配：a long marriage, get divorced, my spouse。例句：Their marriage lasted twenty years. / They're divorced now. / My spouse is a teacher. 注意 marriage 是名词，marry 是动词。
+
+- **nephew / niece / firefighter** — 侄子 / 侄女 / 消防员。搭配：my nephew, my niece, a firefighter。例句：My nephew wants to be a firefighter. / My niece is studying law. 注意 nephew 是男性，niece 是女性。
+
+- **author / honest / successful** — 作家 / 诚实 / 成功。搭配：a famous author, honest and kind, very successful。例句：She's an honest and successful author. / He's a successful lawyer. 注意 successful 搭配 in（successful in business）。
+

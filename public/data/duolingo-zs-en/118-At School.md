@@ -6,20 +6,37 @@
 
 attend, campus, certificate, chapter, confusing, description, dining hall, dorm, essay, hurry up, incorrect, intermediate, laboratory, lecture, meaning, pick, research, result, review, row, similar, translate, underline, whose, written
 
+## 单元讲解
+
+本单元围绕"请人帮忙做作业"展开。核心是学校学习表达：This chapter is so confusing—can you explain the meaning?（这一章太令人困惑了——你能解释一下意思吗？）、I need to review my essay before the lecture.（我需要在课前复习我的论文。）、Whose notes are these?（这是谁的笔记？）、The result of the research was incorrect.（研究结果是错误的。）。
+
+词表里有学术词汇（essay, lecture, research, laboratory, certificate）和学校场所（campus, dorm, dining hall）。你可以练习：I attend an intermediate class. / Hurry up—we'll be late for the lecture! / Translate this paragraph. / Underline the similar words.
+
+confusing 描述事物（令人困惑），confused 描述人（感到困惑）。
+
 ## Tips
 
-"Campus"（校园）一词直接来自拉丁语"campus"，原意是"开阔的平地、田野"。古罗马的"Campus Martius"（战神广场）是罗马青年接受军事训练的地方。18世纪，美国普林斯顿大学首次用"campus"来指代大学周围的绿地和建筑群，此后这个词便成了全球高等教育的代名词。从战场训练场到学术殿堂，campus的演变折射了人类文明从武力到智识的转向。
+- **essay / chapter / review** — 论文 / 章节 / 复习。搭配：write an essay, this chapter, review for the exam。例句：I'm writing an essay. / Read chapter five. / I need to review before the test. 注意 essay 指较长的学术文章。
 
-"Lecture"（讲座/授课）来自拉丁语"lectura"，词根是"legere"（阅读）。在中世纪欧洲大学，书籍极为稀缺，教授必须将整本书逐字朗读给学生听——这就是"lecture"的原始形态。学生们的"note"（笔记）也因此得名：他们必须把教授读出的内容快速记录下来。"Essay"（论文）则来自法语"essai"，意为"尝试"，由16世纪法国思想家蒙田首创，他把自己的短文称为"essais"——思想的尝试和探索。
+- **confusing / incorrect** — 令人困惑的 / 错误的。搭配：a confusing question, an incorrect answer。例句：The instructions are confusing. / My answer was incorrect. 注意 confusing 修饰事物，confused 修饰人。
 
-"Laboratory"（实验室）的词源颇为有趣。它来自中世纪拉丁语"laboratorium"，词根是"labor"（劳动）。但更深层的联系在于，早期炼金术士称他们的工作为"opus"（作品），而炼金术的拉丁名"alchemia"来自阿拉伯语"al-kīmiyā"。从炼金术士的密室到现代大学明亮的实验室，laboratory见证了人类从神秘主义走向实证科学的漫长旅程。
+- **lecture / attend / laboratory** — 讲座 / 出席 / 实验室。搭配：attend a lecture, attend class, in the laboratory。例句：I attend lectures every day. / The experiment is in the laboratory. 注意 attend 比 go to 更正式。
 
-"Certificate"（证书）来自拉丁语"certificare"，由"certus"（确定的）和"facere"（做）组成，字面意思是"使之确定"。在中世纪，大学颁发的证书是用手写在羊皮纸上的，加盖火漆印章，证明持有人确实完成了学业。"Diploma"（文凭）则来自希腊语"diploun"（折叠），因为古希腊的官方文件是折叠保存的。
+- **research / result** — 研究 / 结果。搭配：do research, research results, the result shows。例句：I'm doing research on history. / The results were surprising. 注意 research 不可数（不说 ✗ a research）。
 
-"Translate"（翻译）来自拉丁语"translatus"，意为"搬运过去"。古罗马人将希腊文献译为拉丁文时，视自己为知识的"搬运工"。"Chapter"（章节）来自拉丁语"capitulum"（小头），因为每一章的开头被视为一个新的"头"。英语中"capital"（首都、大写的）也源自同一词根"caput"（头）。
+- **translate / meaning / underline** — 翻译 / 意思 / 画下划线。搭配：translate this sentence, the meaning of, underline the word。例句：Can you translate this paragraph? / What's the meaning of this word? / Underline the key words.
 
-- "Dorm"是"dormitory"的缩写，来自拉丁语"dormire"（睡觉），与法语"dormir"同源。宿舍的本质就是"睡觉的地方"。
-- "Research"由"re-"（再次）+"search"（寻找）构成，字面意思是"反复寻找"，体现了学术研究的本质——不断追问。
-- "Underline"就是"under"（下面）+"line"（线），在印刷术发明前，学者用红笔在重要文字下画线标注，这一传统延续至今。
-- "Similar"来自拉丁语"similis"（像），与"simulate"（模拟）同源——模拟就是"使之相似"。
-- "Intermediate"（中级的）中"inter-"表示"在……之间"，"medi"表示"中间"，与"medium"（媒介）共享词根。
+- **whose / similar** — 谁的 / 相似的。搭配：Whose book is this? / similar to, similar words。例句：Whose notes are these? / This word is similar to that one. 注意 similar to（不是 ✗ with）。
+
+- **campus / dorm / dining hall** — 校园 / 宿舍 / 食堂。搭配：on campus, in the dorm, in the dining hall。例句：I live on campus. / The dorm is old. / We eat in the dining hall. 注意 on campus 不加 the。
+
+- **certificate / intermediate** — 证书 / 中级的。搭配：a certificate, get a certificate, an intermediate level。例句：I got a certificate in English. / I'm at an intermediate level. 注意 intermediate 介于 beginner 和 advanced 之间。
+
+- **hurry up / pick / row** — 快点 / 选 / 排。搭配：Hurry up! / pick a topic, in a row。例句：Hurry up—the lecture starts in five minutes! / Pick a chapter to review. / Sit in the front row.
+
+- **description / written** — 描述 / 书面的。搭配：a description of, written work, written exam。例句：Write a description of the experiment. / Is it a written or oral exam? 注意 written 是 write 的过去分词作形容词。
+
+- **meaning / pick / review** — 意思 / 挑选 / 复习。搭配：the meaning of, pick one, review notes。例句：What's the meaning of this word? / Pick the correct answer. / Review your notes before class.
+
+- **dorm / campus / attend** — 宿舍 / 校园 / 参加。搭配：in the dorm, on campus, attend class。例句：I'm in the dorm studying. / The library is on campus. / I attend all my classes.
+

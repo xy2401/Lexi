@@ -6,18 +6,36 @@
 
 after being, after having, arrangement, as for, bouquet, depending on, do without, formal, host, in honor of, inquire, interact, last-minute, photograph, place, reception, rsvp, shower, tablecloth, task, to begin with, up to, when in doubt, whether or not
 
+## 单元讲解
+
+本单元围绕"回应邀请"展开，场景涉及正式活动和社交礼仪。词表里有活动与礼仪词汇（reception, shower, bouquet, tablecloth, formal, host, in honor of, rsvp），有安排与条件表达（arrangement, depending on, last-minute, up to, whether or not, when in doubt），也有"经历后"的语法结构（after being, after having）。你可以用这些词讨论活动安排：After being invited, I inquired about the arrangement. / The reception is in honor of the couple—after having planned it, the host can relax. / As for the bouquet, it's up to you. / When in doubt, do without. / Whether or not you bring a photograph, just RSVP. / Depending on the task, it might be formal or last-minute.
+
+这里值得注意 after being 和 after having 这两个"介词 + 完成/被动"结构。after being invited = 被邀请之后（被动），after having planned = 计划完之后（完成）。它们让句子更紧凑，避免重复主语。另外，when in doubt 是一个非常实用的建议句式——"拿不准的时候……"。
+
+学完本单元，你可以用英语得体地回应邀请、讨论活动安排，并在不确定时表达礼貌的询问。
+
 ## Tips
 
-"RSVP"是法语"Répondez s'il vous plaît"（请回复）的缩写，这个法语短语能统治英语世界的邀请函，要归功于18-19世纪法国文化在欧洲上流社会的绝对主导地位。当时，从圣彼得堡到伦敦，贵族们以说法语为荣，法语是外交、艺术和社交的通用语言。即使两次世界大战后法国影响力下降，RSVP依然牢牢占据着每一张正式请柬的角落，成为那个优雅时代的化石印记。
+- **rsvp** — 请回复（来自法语 Répondez s'il vous plaît）。搭配：RSVP by Friday, Please RSVP。Did you RSVP to the wedding? 注意在英语中 RSVP 通常大写，可作动词：I RSVP'd yes. 这是邀请函上几乎必有的词。
 
-"Shower"（送礼派对）作为社交活动，起源于19世纪末的美国。据说一位荷兰裔美国女孩爱上了一个磨坊主的儿子，父亲反对这门婚事并拒绝提供嫁妆。她的朋友们便聚在一起，每人带一份家居用品"像阵雨一样"（shower）倾泻给她，帮助她建立新家。这个温暖的社区互助传统延续至今，演变为baby shower（迎婴派对）和bridal shower（新娘送礼会）。
+- **reception / shower** — reception 是招待会（婚礼后的宴会），shower 是送礼派对（如 baby shower, bridal shower）。搭配：a wedding reception, a bridal shower。The reception is after the ceremony. / She's hosting a baby shower. 注意 shower 在这里不是"淋浴"，而是"礼物像雨一样落下"的派对。
 
-"Bouquet"（花束）来自古法语"bosc"，意为"树林"，最初指一小片灌木丛。在中世纪，人们相信浓烈的花香可以驱除瘟疫和恶灵，所以参加宴会时携带花束既是装饰也是护身符。维多利亚时代发展出了精密的"花语"（floriography）系统：红玫瑰代表爱情，百合代表纯洁，而黄色康乃馨则意味着拒绝。送错花束可能引发一场社交灾难。
+- **in honor of** — 为纪念/庆祝……、向……致敬。搭配：in honor of the couple, in honor of her retirement。The reception is in honor of the newlyweds. 注意 in honor of 用于正式场合，比 for 更庄重。
 
-"Reception"（招待会）来自拉丁语"receptio"，意为"接收、接纳"。在中世纪欧洲，领主在城堡大厅中"接收"来访的骑士和使节，这就是reception的原型。"Tablecloth"（桌布）的历史同样悠久——在中世纪，桌布的长度和材质直接标示主人的社会地位。贵族使用拖地的亚麻桌布，而平民只能用短粗布。"In honor of"（为纪念/致敬）则承载着人类最古老的待客之道：为某人举办宴会，是对其存在本身的肯定和尊重。
+- **after being / after having** — after being + 过去分词 = 被……之后（被动），after having + 过去分词 = ……之后（完成）。搭配：after being invited, after having planned everything。After being told the dress code, I felt better. / After having organized the event, the host rested. 注意这两个结构让句子更简洁。
 
-- "Formal"（正式的）来自拉丁语"forma"（形式），暗示正式场合的核心是"遵循既定形式"。
-- "Host"（主人）与"hostile"（敌对的）竟然同源！都来自拉丁语"hostis"，原意是"陌生人"，后来分化为"接待陌生人的人"和"对陌生人怀有敌意"。
-- "When in doubt"（拿不准的时候）是英语礼仪建议的经典开头，完整谚语是"When in doubt, leave it out"。
-- "Do without"（没有...也行）体现了英式礼仪中的克制美学——不抱怨缺失，优雅地接受。
-- "Photograph"（照片）来自希腊语"photo"（光）+"graph"（写），字面意思是"用光书写"，由天文学家赫歇尔在1839年命名。
+- **when in doubt** — 拿不准的时候、有疑问时。搭配：When in doubt, ...。When in doubt, ask the host. / When in doubt, do without. 这是一个非常实用的建议句式，后面通常接简短的建议。
+
+- **whether or not / depending on** — whether or not = 无论是否，depending on = 取决于。搭配：whether or not you go, depending on the occasion。Whether or not you bring a gift, just show up. / The dress code depends on the event. 注意 depending on 后接名词或从句。
+
+- **do without / last-minute** — do without = 没有也行、将就，last-minute = 最后一刻的/临时的。搭配：do without a gift, a last-minute change。If you can't find a bouquet, do without. / There was a last-minute change to the arrangement. 注意 last-minute 作形容词加连字符。
+
+- **formal / host / arrangement** — formal 是正式的，host 是主人/主办，arrangement 是安排。搭配：a formal reception, the host of the party, make arrangements。It's a formal event—dress up. / The host made all the arrangements. 注意 arrangement 常用复数 arrangements（各项安排）。
+
+- **bouquet / tablecloth / photograph** — bouquet 是花束，tablecloth 是桌布，photograph 是照片。搭配：a bouquet of flowers, set the tablecloth, take a photograph。She carried a beautiful bouquet. / The tablecloth matches the decorations. 注意 bouquet 发音 /buːˈkeɪ/，来自法语。
+
+- **inquire / interact** — inquire 是询问（正式），interact 是互动。搭配：inquire about the details, interact with guests。I inquired about the dress code. / Guests interacted at the reception. 注意 inquire 比 ask 更正式，常用于书面或礼貌场合。
+
+- **as for / to begin with / up to** — as for = 至于（转换话题），to begin with = 首先/一开始，up to = 由……决定。搭配：As for the food, ... / To begin with, ... / It's up to the host.。As for the bouquet, it's up to you. / To begin with, we need to RSVP. 注意 as for 用于引入新话题。
+
+- **task / place** — task 是任务，place 是地方/放置。搭配：a task to do, set the place, take your place。Setting the table is my task. / Please take your place at the reception. 注意 place 在宴会语境中可指"座位"：save a place for me。

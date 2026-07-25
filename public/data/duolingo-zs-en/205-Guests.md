@@ -6,17 +6,24 @@
 
 be friends with, copy, cover, going to, intermission, it's good to, oh my gosh, on the, poem, poet, refreshments, scene, specially, supposed to, translation, work, would
 
+## 单元讲解
+
+本单元围绕"谈论参观博物馆"展开，场景是文化活动——看展览、读诗、看演出。词表里有文艺词汇（poem, poet, translation, scene, work, copy, cover）和活动体验表达（intermission, refreshments, be friends with, oh my gosh）。
+
+你可以练习文化场景对话：We're going to the museum—there's a specially arranged exhibition. / This poem has a beautiful translation. / Oh my gosh, the poet is supposed to be here! / It's good to see the original work, not just a copy. / There will be refreshments during the intermission. / Would you like to cover the scene on the left?
+
+supposed to = 应该、据说（The show is supposed to start at 7.）。going to 表计划。it's good to 用来表达评价。
+
 ## Tips
 
-"Museum"一词源自希腊语"Mouseion"，即"缪斯的神殿"。在古希腊神话中，九位缪斯女神分别掌管诗歌、音乐、舞蹈、历史等艺术。亚历山大图书馆旁的Mouseion是世界上最早的"博物馆"，学者们在那里研究、辩论、创作。今天的博物馆虽不再供奉神灵，却仍是人类文明记忆的圣殿。
+- **poem / poet / translation** — poem = 诗（一首诗：a poem）。poet = 诗人（写诗的人）。translation = 翻译、译文（a translation of the poem）。搭配：write a poem, a famous poet, read a translation。注意 poem 和 poetry 的区别：poem 是一首具体的诗，poetry 是诗歌的总称。
 
-"Poet"来自希腊语"poietes"，意为"创造者"。在古希腊人看来，诗人不是简单地"写"出文字，而是像工匠一样"制造"出作品。荷马在吟诵《伊利亚特》时，开篇便呼唤缪斯："歌唱吧，女神！"——诗人只是缪斯的传声筒。"Poem"则是诗人"制造"出的成品。有趣的是，在印刷术发明之前，诗歌必须依靠韵律和节奏才能被记住，这就是为什么古老的史诗都带有强烈的音乐性。
+- **supposed to / going to / it's good to** — supposed to = 应该、被期望（You're supposed to be quiet in a museum. / It's supposed to rain.）。going to = 打算、将要（We're going to visit the gallery.）。it's good to = ……是好的（It's good to learn about art.）。
 
-"Intermission"来自拉丁语"intermissio"（中断、暂停），由"inter"（之间）和"mittere"（发送、放出）构成。在戏剧传统中，幕间休息不仅是让观众喘息，更是让演员换装、换景的必要时间。莎士比亚时代的环球剧场没有幕间休息——观众站着看戏，演出一气呵成。而"refreshments"（茶点）中的"refresh"原意是"重新振作"，中世纪的贵族在戏剧幕间享用葡萄酒和点心，这一传统延续至今。
+- **intermission / refreshments / scene** — intermission = 中场休息（演出中的暂停，美式；英式常用 interval）。refreshments = 茶点、饮料（正式场合的轻食：Refreshments will be served.）。scene = 场景、场面（a beautiful scene, the opening scene of a play）。
 
-"Translation"来自拉丁语"translatio"，字面意思是"搬运到对面"。古罗马人将希腊文献"搬运"到拉丁语中，这是西方历史上第一次大规模翻译运动。圣杰罗姆在公元4世纪将《圣经》从希伯来文和希腊文翻译成拉丁文（即"武加大译本"），据说他每翻译一句都要祈祷一次。翻译家们常说自己"在两种语言之间走钢丝"，而意大利人更有一句名言："Traduttore, traditore"（翻译者即背叛者）。
+- **copy / cover / work** — copy = 复制品（This is a copy, not the original.）。cover 可指"封面"（the cover of a book）或"覆盖"。work = 作品（a work of art），也可指"工作"。注意 work 做"作品"时可数（works of art）。
 
-- "oh my gosh"是"oh my God"的委婉说法，英语中为避免直呼神名而创造了大量替代表达：gosh, golly, gee, goodness
-- "supposed to"暗含"按理应该但未必做到"的微妙语气，比如"You're supposed to be quiet in a museum"（博物馆里应该安静——但总有人做不到）
-- "scene"来自希腊语"skene"，原指剧场后方演员换装的棚子，后来才指舞台上的"场景"
-- "work"作名词指"作品"时常用复数"works"，如"the complete works of Shakespeare"（莎士比亚全集）
+- **oh my gosh / be friends with / specially** — oh my gosh = 天哪！（口语感叹，比 oh my God 更委婉）。be friends with = 和……是朋友（I'm friends with the poet.）。specially = 专门地（specially arranged, specially made），注意和 especially（尤其）的区别。
+
+- **would / on the** — would 在这里用于礼貌邀请或假设（Would you like some refreshments? / I would love to see the poem.）。on the 是常见介词短语（on the wall, on the cover, on the left）。

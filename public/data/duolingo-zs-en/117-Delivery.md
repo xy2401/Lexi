@@ -6,20 +6,37 @@
 
 allergic, beverage, coconut, container, delivery, few, flavor, hungry, ingredient, jar, little, location, look, make, payment method, pineapple, smell, sour, strawberry, taste, thirsty, total, tuna, utensils, way
 
+## 单元讲解
+
+本单元围绕"建议点外卖"展开。核心是外卖点餐表达：I'm hungry—let's order delivery.（我饿了——我们叫外卖吧。）、Are you allergic to any ingredients?（你对什么食材过敏吗？）、The total is twenty dollars, including the delivery fee.（总共二十美元，包括配送费。）、What flavor do you want—strawberry or coconut?（你要什么口味——草莓还是椰子？）。
+
+词表里有食物词汇（tuna, pineapple, strawberry, coconut）和外卖词汇（delivery, container, utensils, payment method）。你可以练习：I'm thirsty—can I get a beverage? / The tuna smells fresh. / It tastes a little sour. / What's the payment method?
+
+allergic to 表示"对……过敏"。taste / smell 可作系动词（尝起来/闻起来）。
+
 ## Tips
 
-"Delivery"（外卖/配送）这个词源自拉丁语"deliverare"，意为"释放、交付"。在中世纪欧洲，食物配送是贵族和富人的特权——仆人将厨房的菜肴端到主人的餐桌上。而现代外卖文化的真正爆发，要追溯到19世纪末的意大利那不勒斯。1889年，一位名叫Raffaele Esposito的披萨师傅为玛格丽特王后制作了披萨并送到王宫，这被认为是历史上第一次有记录的"披萨外卖"。从此，delivery从宫廷走向了千家万户。
+- **delivery / order** — 外卖 / 点餐。搭配：order delivery, a delivery fee, food delivery。例句：Let's order delivery tonight. / The delivery was fast. 注意 delivery 指"配送/外卖"。
 
-"Coconut"（椰子）一词来自葡萄牙语"coco"，意为"鬼脸"或"骷髅"，因为椰子壳上的三个孔洞看起来像一张人脸。16世纪葡萄牙探险家在热带海岸首次见到椰子时，被这张"脸"吓了一跳。而"pineapple"（菠萝）最初在英语中其实是指松果（pine cone），因为菠萝的外形酷似松果。后来松果改用了"pine cone"这个名字，"pineapple"才专属于这种热带水果。
+- **allergic / ingredient** — 过敏 / 食材。搭配：allergic to peanuts, allergic to seafood, fresh ingredients。例句：I'm allergic to tuna. / What are the ingredients? 注意 allergic to + 名词（不是 ✗ of）。
 
-"Strawberry"（草莓）的词源至今仍有争议。一种说法是古英语"streawberige"中的"streaw"意为"稻草"，因为早期农民用稻草覆盖草莓植株来保护它们过冬。另一种说法认为"straw"指的是草莓的匍匐茎像稻草一样在地面蔓延。无论哪种解释，草莓与欧洲农业文明的深厚联系都由此可见。
+- **flavor / taste / smell** — 口味 / 尝起来 / 闻起来。搭配：What flavor? / taste sour, smell fresh。例句：What flavor do you want? / It tastes a little sour. / The fish smells fresh. 注意 taste/smell 作系动词后接形容词。
 
-"Tuna"（金枪鱼）来自拉丁语"thunnus"，而拉丁语又借自希腊语"thynnos"，意为"冲撞者"，形容金枪鱼在海中高速冲刺的习性。古希腊人视金枪鱼为海神波塞冬的圣物，在地中海沿岸留下了大量关于金枪鱼捕捞的壁画和诗歌。"Beverage"（饮料）则来自古法语"bevrage"，词根是拉丁语"bibere"（喝），与英语"imbibe"（饮用）同源。
+- **sour / strawberry / coconut** — 酸的 / 草莓 / 椰子。搭配：sour taste, strawberry flavor, coconut water。例句：The sauce is too sour. / I want strawberry flavor. / Coconut water is refreshing. 注意 sour = 酸（不是 spicy 辣）。
 
-"Flavor"（风味）源自拉丁语"flatus"，本意是"吹气"，与"flatulence"（胀气）竟有共同词根！古人认为食物的味道是通过气味"吹"入鼻腔来感知的。这其实暗合了现代科学——我们感知到的"味道"有80%来自嗅觉。而"sour"（酸的）来自古英语"sūr"，与德语"sauer"（如Sauerkraut酸菜）同源，反映了日耳曼民族对发酵食品的古老记忆。
+- **beverage / thirsty / hungry** — 饮料 / 渴 / 饿。搭配：a beverage, I'm thirsty, I'm hungry。例句：Would you like a beverage? / I'm so thirsty! / I'm hungry—let's eat. 注意 beverage 比 drink 更正式。
 
-- "Utensils"（餐具）来自拉丁语"uti"（使用），字面意思就是"用来使用的东西"。记住：所有"用"的工具都是utensils。
-- "Jar"（罐子）来自阿拉伯语"jarra"，反映了中世纪阿拉伯贸易对欧洲日常器皿词汇的影响。
-- "Thirsty"和"thirst"在古英语中写作"þurst"，与德语"Durst"同源，都是日耳曼语族的古老词汇。
-- "Payment"来自拉丁语"pacare"（使平静），最初的含义是"用金钱平息债务带来的不安"——付钱就是"买安心"。
-- "Ingredient"（成分）来自拉丁语"ingredi"（进入），即"进入混合物中的东西"，与"egress"（出口）共享词根"grad"（走）。
+- **container / utensils / jar** — 容器 / 餐具 / 罐子。搭配：a food container, utensils, a jar of jam。例句：The food comes in a container. / Do they include utensils? / A jar of coconut jam. 注意 utensils 包括刀叉勺等。
+
+- **payment method / total** — 支付方式 / 总计。搭配：payment method, the total is, What's the total? 例句：What's the payment method—card or cash? / The total is fifteen dollars. 注意 total 可作名词或形容词。
+
+- **tuna / pineapple** — 金枪鱼 / 菠萝。搭配：tuna salad, a tuna sandwich, pineapple juice。例句：I'll have the tuna sandwich. / Do you want pineapple on your pizza? 注意 tuna 不可数。
+
+- **few / little / a little** — 几个 / 一点。搭配：a few items, a little sour, few choices。例句：I'll add a few ingredients. / It's a little sour. 注意 a few / a little = 一些（肯定），few / little = 几乎没有（否定）。
+
+- **location / way / make** — 位置 / 路 / 制作。搭配：my location, on the way, make food。例句：What's your delivery location? / The driver is on the way. / They make fresh food. 注意 location 比 place 更正式。
+
+- **look / hungry / smell** — 看起来 / 饿 / 闻。搭配：look delicious, look hungry, smell good。例句：The food looks delicious! / You look hungry. / It smells amazing. 注意 look 作系动词表示"看起来"。
+
+- **strawberry / coconut / sour** — 草莓 / 椰子 / 酸。搭配：strawberry flavor, coconut milk, sour cream。例句：I'll have a strawberry beverage. / Coconut milk is delicious. / Add some sour cream.
+

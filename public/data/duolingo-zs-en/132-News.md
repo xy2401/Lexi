@@ -6,20 +6,37 @@
 
 billion, bomb, border, cause, common, court, crash, crime, enemy, expect, false, front page, government, gun, headline, in court, in exchange for, in jail, jail, leader, rob, spy, their, they, though
 
+## 单元讲解
+
+本单元围绕"分享对领导人的看法"展开。核心是新闻表达：The headline says the leader was in court today.（头条说领导人今天出庭了。）、The government expects the crime rate to go down.（政府期望犯罪率下降。）、It's on the front page—billions of dollars were stolen!（在头版——数十亿美元被偷了！）、They say the spy crossed the border.（他们说间谍越过了边境。）。
+
+词表里有新闻词汇（headline, front page, government, court）和犯罪词汇（crime, rob, spy, jail）。你可以练习：The bomb caused a crash. / It's a common crime. / The enemy was caught and put in jail. / Though the news is false, they reported it.
+
+though 表示"虽然"（放句末更口语）。in jail 表示"在监狱里"。
+
 ## Tips
 
-"Headline"（头条）的历史与印刷术密不可分。19世纪中叶，美国报纸开始用大字号标题吸引读者。1865年林肯遇刺时，《纽约先驱报》用前所未有的巨大字号印出"LINCOLN ASSASSINATED"，据说整条街都能听到报童的喊声。"Headline"由"head"（头）+"line"（行）构成——报纸最顶端的那一行字，就是"头行"。而"front page"（头版）则是报纸的"脸面"，编辑们为哪条新闻上头版，每天展开激烈的争论。
+- **headline / front page** — 标题 / 头版。搭配：the headline says, on the front page, a shocking headline。例句：The headline shocked everyone. / It's on the front page. 注意 headline 是新闻大标题。
 
-"Government"（政府）来自拉丁语"gubernare"（掌舵），而"gubernare"又借自希腊语"kybernan"（驾驶船只）。柏拉图在《理想国》中用"舵手"比喻统治者——治理国家就像驾驶一艘大船，需要智慧和方向感。有趣的是，"cybernetics"（控制论）也来自同一个希腊词根"kybernan"。从古希腊的三列桨战船到现代国家的治理，"掌舵"这个隐喻跨越了两千五百年。
+- **government / leader / court** — 政府 / 领导人 / 法院。搭配：the government said, a world leader, in court。例句：The government made a statement. / The leader was in court. 注意 government 前加 the。
 
-"Spy"（间谍）来自古法语"espier"（观察），与日耳曼语"spähen"（窥视）同源。间谍活动是人类最古老的"职业"之一——《圣经·民数记》记载摩西派十二个探子侦察迦南地。中国春秋时期的孙武在《孙子兵法》中专设"用间篇"，称"三军之事，莫亲于间"。冷战时期，"spy"成为流行文化的核心意象——詹姆斯·邦德系列小说让间谍从阴暗的角落走上了银幕。
+- **crime / rob / jail** — 犯罪 / 抢劫 / 监狱。搭配：commit a crime, rob a bank, in jail, go to jail。例句：Crime is a common problem. / They robbed the bank. / He's in jail. 注意 in jail = 在坐牢（不加 the）。
 
-"Jail"（监狱）来自古法语"jaiole"（鸟笼），最终源自拉丁语"cavea"（笼子）。把监狱比作"笼子"，这个隐喻直白而残酷。古罗马的监狱不是惩罚场所，而是审判前的临时关押地——真正的惩罚是流放、罚款或角斗场。中世纪欧洲的地牢（dungeon）才是现代监狱的雏形。"Crime"（犯罪）来自拉丁语"crimen"（判决、指控），与"discriminate"（区分）同源——犯罪的本质是"越过了那条线"。
+- **billion / expect / common** — 十亿 / 期望 / 常见的。搭配：billions of dollars, expect results, a common problem。例句：The project cost billions. / We expect changes. / It's a common crime. 注意 billion = 10亿。
 
-"Bomb"（炸弹）来自希腊语"bombos"（嗡嗡声），最初形容爆炸时的轰鸣。15世纪，欧洲军队开始使用铸铁炸弹，士兵们根据爆炸声将其命名为"bomb"。"Border"（边界）来自古法语"bordure"（边缘），与"board"（板）同源——最早的边界就是用木板或石头标出的"边缘线"。从罗马帝国的"limes"（边境防线）到现代国家的铁丝网，border始终是人类政治最敏感的神经。
+- **bomb / crash / cause** — 炸弹 / 坠毁 / 原因（导致）。搭配：a bomb exploded, a car crash, cause damage。例句：A bomb caused the crash. / What caused the accident? 注意 cause 既是名词（原因）也是动词（导致）。
 
-- "Billion"（十亿）在美式英语中是10^9，但在传统英式英语中曾是10^12（万亿）——一个词在两个英语国家代表不同的数字。
-- "Enemy"（敌人）来自拉丁语"inimicus"（不友好的），由"in-"（不）+"amicus"（朋友）构成——敌人就是"不是朋友的人"。
-- "Rob"（抢劫）来自古法语"rober"，与日耳曼语"raub"（掠夺）同源。英语"robe"（长袍）也来自同一词根——中世纪掠夺者最值钱的战利品之一就是衣物。
-- "Court"（法庭）来自拉丁语"cohors"（围场），原意是"围起来的院子"——古罗马的审判就在围场中公开进行。
-- "Though"（虽然）来自古英语"þēah"，是英语中最常用的让步连词，放在句末时语气轻松随意，相当于中文的"不过啦"。
+- **spy / enemy / border** — 间谍 / 敌人 / 边境。搭配：a spy, the enemy, cross the border。例句：The spy crossed the border. / The enemy was caught. 注意 spy 可作名词（间谍）也可作动词（窥探）。
+
+- **in court / in jail / in exchange for** — 出庭 / 坐牢 / 作为交换。搭配：appear in court, put in jail, in exchange for money。例句：He appeared in court. / She's in jail. / He gave information in exchange for freedom. 注意这些是固定搭配。
+
+- **false / though / their** — 虚假的 / 虽然 / 他们的。搭配：false information, though, their leader。例句：The report was false. / It's bad, though. / Their government is new. 注意 though 放句末 = however（口语）。
+
+- **gun / crash / rob** — 枪 / 碰撞 / 抢劫。搭配：a gun, a plane crash, rob a store。例句：The police found a gun. / There was a car crash. / Someone robbed the store. 注意 rob + 地点/人，steal + 物品。
+
+- **they / their / expect** — 他们 / 他们的 / 期望。搭配：they said, their plan, expect to。例句：They reported the news. / Their leader spoke today. / We expect peace. 注意 their 是形容词性物主代词。
+
+- **government / billion / headline** — 政府 / 十亿 / 标题。搭配：the government, billions of, the headline。例句：The government responded. / Billions were lost. / The headline was shocking. 注意 government 通常用单数。
+
+- **court / jail / border** — 法院 / 监狱 / 边境。搭配：in court, in jail, at the border。例句：He's in court today. / She was sent to jail. / They crossed the border illegally. 注意 in court 不加 the（指出庭）。
+

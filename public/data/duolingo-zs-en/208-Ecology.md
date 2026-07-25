@@ -6,17 +6,26 @@
 
 adapt, are being, are not being, being, cause, endangered, global warming, green, habitat, have to be, is being, must be, need to be, planet, plant, pollute, should be, species, steep, surround, turtle, universe, what is being done, will be
 
+## 单元讲解
+
+本单元围绕"谈论环境问题"展开。词表里有生态词汇（endangered, habitat, species, global warming, pollute, planet, universe, turtle）和大量被动语态结构（is being, are being, are not being, what is being done, will be, must be, should be, need to be, have to be）。
+
+你可以练习讨论环境话题：The turtle's habitat is being destroyed. / What is being done to protect endangered species? / The planet must be protected. / Global warming is causing steep changes. / Green areas are being surrounded by cities. / We need to adapt.
+
+被动语态的进行时（is/are being + 过去分词）是本单元的核心语法——强调"正在被……"。搭配情态动词的被动（must be done, should be done）表达必要性和建议。
+
 ## Tips
 
-"Ecology"由德国生物学家恩斯特·海克尔于1866年创造，来自希腊语"oikos"（家）和"logos"（学问），即"研究我们共同家园的学问"。这个"家"不是某栋房子，而是整个地球。海克尔本人是达尔文的狂热追随者，他提出"个体发育重演系统发育"的著名假说，虽然该假说后来被修正，但他创造的"ecology"一词却永久改变了人类看待自然的方式。
+- **is being / are being / are not being** — 被动语态进行时：is/are being + 过去分词，表示"正在被……"。例句：The forest is being cut down. / Animals are being killed. / Rules are not being followed. 强调动作正在进行中。
 
-"Endangered"（濒危的）这个词背后是无数令人心碎的故事。渡渡鸟（dodo）在1681年彻底灭绝——从被欧洲水手发现到消失，仅仅经历了不到一个世纪。"dodo"可能来自葡萄牙语"doudo"（愚蠢的），因为这种不会飞的鸟面对人类毫无恐惧。如今"as dead as a dodo"成了英语中的固定表达。而"species"来自拉丁语"specere"（看），原意是"外观、种类"——林奈在18世纪用这个概念建立了生物分类系统。
+- **what is being done / will be / must be / should be** — what is being done = 正在做什么（What is being done about pollution?）。will be + 过去分词 = 将被（The park will be protected.）。must be = 必须被。should be = 应该被。need to be / have to be = 需要被。
 
-"Pollute"来自拉丁语"polluere"（弄脏、亵渎），其中"por-"表示"向前"，"luere"表示"涂抹"。古罗马人用这个词描述对神庙的亵渎，而今天它被用来描述对自然的亵渎——某种意义上，人类确实把地球当作了一座被玷污的神殿。1962年，蕾切尔·卡森出版《寂静的春天》，揭露DDT农药对生态的破坏，这本书直接催生了美国环保署（EPA）的成立和现代环保运动。
+- **endangered / species / habitat** — endangered = 濒危的（endangered species 濒危物种）。species = 物种（单复数同形：one species, many species）。habitat = 栖息地（natural habitat, lose their habitat）。搭配：protect endangered species, destroy a habitat。
 
-"Turtle"（海龟）在地球上已生存了超过两亿年，比恐龙还古老。然而如今，六种海龟被列为濒危物种。"Habitat"来自拉丁语"habitare"（居住），与"habit"（习惯）同源——一个物种的栖息地就是它"习惯居住"的地方。而"planet"来自希腊语"planetes"（流浪者），因为古人观察到这些星体在夜空中"游荡"，不像恒星那样固定不动。
+- **global warming / pollute / planet** — global warming = 全球变暖。pollute = 污染（动词），pollution = 污染（名词）。搭配：pollute the river, air pollution。planet = 星球（the planet = 地球，环保语境中常用）。
 
-- "global warming"（全球变暖）和"climate change"（气候变化）不完全相同：前者特指温度上升，后者涵盖更广泛的气候异常
-- "green"作为环保形容词始于1970年代，绿色和平组织（Greenpeace）1971年在加拿大成立，其标志性的彩虹旗和充气艇成为环保运动的象征
-- "universe"来自拉丁语"universus"（合为一体的），由"uni"（一）和"versus"（转向）构成——万物转向同一个整体
-- 英语中被动语态在环保话题中极为常见："Forests are being destroyed"比"People destroy forests"更强调问题的紧迫性
+- **green / adapt / steep / surround** — green = 绿色的、环保的（green energy, go green）。adapt = 适应（adapt to climate change）。steep = 陡峭的（a steep hill），也可形容价格/变化"急剧的"（a steep increase）。surround = 环绕（The city is surrounded by mountains.）。
+
+- **turtle / plant / universe / cause** — turtle = 海龟/龟（sea turtle 海龟）。plant 作名词"植物"，作动词"种植"。universe = 宇宙（the universe）。cause = 导致、原因（cause damage / the cause of the problem）。
+
+- **being / have to be** — being 是 be 的现在分词/动名词，在被动进行时中做助动词（is being done）。have to be = 必须是/不得不（We have to be careful. / It has to be done.），比 must 更口语化。

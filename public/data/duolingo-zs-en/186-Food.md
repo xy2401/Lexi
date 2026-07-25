@@ -6,18 +6,26 @@
 
 alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit, peach, rather, recommend, scrambled eggs, she would, she'd, silverware, squash, takeout, they'd, weight, would, wouldn't
 
+## 单元讲解
+
+本单元让你谈论食物偏好。你可以表达喜欢什么、想吃什么、推荐什么：I'd rather have scrambled eggs with bacon than squash. She'd recommend the peach dessert—it's a little bit bitter, but with lime it's great.（我宁愿要炒蛋配培根也不要南瓜。她会推荐桃子甜点——有一点苦，但加了青柠就很棒。）He wouldn't eat takeout; he'd cook with flour and make his own bread.（他不吃外卖；他会用面粉自己做面包。）
+
+词表里有具体食物：bacon, peach, lime, squash, scrambled eggs, flour。也有饮食相关概念：diet, weight, alcoholic, bitter, choice, takeout, silverware。would / wouldn't / he'd / she'd / they'd / he would / she would 构成了"意愿和偏好"的语法框架。rather 搭配 would rather = 宁愿。recommend 是推荐。little bit = 一点点。
+
 ## Tips
 
-"Bacon"（培根）来自古法语"bacun"，可能源自日耳曼语"bak"（背部），因为培根最初取自猪的背部。在中世纪欧洲，培根是平民最重要的蛋白质来源。英语中有个古老的表达"bring home the bacon"（养家糊口），源自中世纪英格兰的一个传统：如果一对夫妻在婚后一年内没有争吵，教堂会奖励他们一条培根。"Flour"（面粉）与"flower"（花）同源，都来自拉丁语"flos"——因为面粉是谷物最精细、最"精华"的部分，如同花朵是植物的精华。
+- **would rather / rather** — would rather + 动词原形 = 宁愿做：I'd rather cook than order takeout. 注意 would rather 后不接 to：I'd rather go（不是 I'd rather to go）。比较：would rather A than B。
 
-"Bitter"（苦的）是人类五种基本味觉之一。在进化史上，苦味是一种警告信号——许多有毒植物都是苦的。但人类却学会了享受苦味：咖啡、黑巧克力、啤酒、苦瓜。"Peach"（桃子）来自拉丁语"persicum"（波斯的），因为罗马人认为桃子原产波斯（今伊朗），称其为"波斯苹果"（malum persicum）。实际上桃子原产中国，经由丝绸之路传入波斯，再传入罗马。
+- **he'd / she'd / they'd / he would / she would** — 'd 缩写在此代表 would（后接动词原形）：He'd prefer bacon. / She'd like some lime. 如果是 had，后面应接过去分词。wouldn't = would not：He wouldn't eat squash.
 
-"Silverware"（银器、餐具）中的"silver"反映了欧洲餐桌文化的历史。在中世纪，贵族使用银质餐具，而平民使用木质或锡质餐具。今天虽然大多数"silverware"已是不锈钢制成，但名字保留了下来。"Squash"（南瓜/西葫芦）来自北美原住民纳拉甘西特语"asquutasquash"，是少数从美洲原住民语言进入英语的食物词汇之一。
+- **scrambled eggs / bacon / squash** — scrambled eggs = 炒蛋（scramble = 搅乱，把蛋搅散炒）。bacon = 培根/熏肉。squash = 南瓜（也可指壁球运动）。注意 egg 的常见做法：scrambled（炒）、fried（煎）、boiled（煮）、poached（水波）。
 
-"Diet"来自希腊语"diaita"（生活方式），原意远比今天的"节食"宽泛——它指的是一整套生活方式，包括饮食、运动、作息。"Takeout"（外卖）是美式英语，英式英语用"takeaway"。"Scrambled eggs"（炒蛋）中的"scramble"原意是"争抢、混战"，形象地描述了鸡蛋在锅中被搅散的状态。
+- **bitter / lime / peach** — bitter = 苦的（五味之一：sweet, sour, bitter, salty, umami）。lime = 青柠/酸橙（lemon 是黄柠檬）。peach = 桃子。搭配：a bitter taste / a slice of lime。
 
-- "Would rather"表示"宁愿"：I'd rather have tea than coffee. 注意"rather"后接动词原形。
-- "He'd / she'd / they'd"可以是"would"或"had"的缩写，后接原形是would，后接过去分词是had。
-- "Little bit"是口语中"一点"的表达，比"a little"更随意：Just a little bit of salt.
-- "Alcoholic"作形容词修饰饮料时意为"含酒精的"：alcoholic drinks，区别于"non-alcoholic"。
-- "Lime"（青柠）和"lemon"（柠檬）在英语中是两种不同的水果，不要混淆。
+- **flour / diet / weight** — flour = 面粉（注意和 flower 花 发音相同但拼写不同）。diet = 饮食/节食：go on a diet. weight = 体重/重量：lose weight / gain weight. 注意 weight 的拼写（ei 组合）。
+
+- **takeout / silverware / choice** — takeout = 外卖（美式，英式：takeaway）。silverware = 银器/餐具（刀叉勺的总称，美式用法）。choice = 选择：a good choice / make a choice.
+
+- **alcoholic / little bit / recommend** — alcoholic 形容饮品时表示"含酒精的"：alcoholic drinks. little bit = 一点点（= a little）：a little bit bitter. recommend 后接名词或动名词：I recommend the peach. / I recommend trying it.
+
+- **would / wouldn't** — would 在此表意愿或假设偏好：I would like some tea. wouldn't = 不愿意：She wouldn't eat that. 注意 would 也用于礼貌请求：Would you pass the silverware?

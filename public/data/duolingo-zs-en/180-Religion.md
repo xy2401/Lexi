@@ -6,18 +6,28 @@
 
 Buddhist, Christian, Hindu, Jewish, Muslim, atheist, become, believe in, bible, catholic, cross, death, doubt, ghost, god, goddess, had, happiness, lives, prayer, priest, religious, respect, return, take, temple
 
+## 单元讲解
+
+本单元的话题是"讨论文化传统"，具体涉及宗教和信仰。你可以描述不同信仰和态度：She's Buddhist, he's Christian, and their neighbor is Muslim. They all believe in different things, but they respect each other.（她是佛教徒，他是基督徒，邻居是穆斯林。他们信仰不同，但彼此尊重。）I'm not very religious—I have my doubts about ghosts and life after death, but I respect those who believe.（我不太信教——我对鬼魂和死后生命持怀疑态度，但我尊重信教的人。）
+
+词表里有主要宗教和信仰者的名称：Buddhist, Christian, Hindu, Jewish, Muslim, catholic, atheist。也有宗教相关概念：god, goddess, prayer, priest, temple, bible, cross, believe in。had 是过去完成时的助动词，用来讲述过去的信仰变化：She had become more religious after the experience.（那次经历后她变得更虔诚了。）
+
+抽象概念词包括 death, happiness, doubt, respect, lives。lives 是 life 的复数。return 可以指"回归"信仰或"来世"的概念。take 可能搭配 take part in（参加宗教活动）。
+
 ## Tips
 
-"Religion"一词的词源至今仍有争议。一种说法认为它来自拉丁语"religare"（重新连接），意味着宗教是人与神之间断裂纽带的重新联结；另一种说法认为来自"relegere"（重新阅读、反复思考），强调宗教是对神圣文本的反复研读。无论哪种解释，宗教都是人类文明最深层的精神根基。本单元涵盖了世界主要宗教：Buddhist（佛教徒）、Christian（基督徒）、Hindu（印度教徒）、Jewish（犹太教徒）、Muslim（穆斯林），以及atheist（无神论者）。
+- **Buddhist / Christian / Hindu / Jewish / Muslim** — 五大宗教/信仰的形容词/名词形式。注意：Buddhist（佛教徒/佛教的）、Christian（基督徒/基督教的）、Hindu（印度教徒/印度教的）、Jewish（犹太教的，人是 Jew）、Muslim（穆斯林/伊斯兰教的）。这些词首字母必须大写。
 
-"Temple"来自拉丁语"templum"，原意是"被切割出来的一片天空"——古罗马祭司会在天空中划出一片区域来观察飞鸟的征兆，这片被划定的神圣空间就是"templum"。"Priest"来自希腊语"presbyteros"（长老），经由拉丁语和古法语进入英语。有趣的是，英语中"priest"（祭司/神父）和"presbyterian"（长老会的）来自同一个希腊词根。
+- **atheist / religious / believe in** — atheist = 无神论者（a- 表否定 + theist 有神论者）。religious = 信教的、虔诚的。believe in = 信仰、相信……的存在：I believe in God. / I don't believe in ghosts. 注意 believe in 和 believe 的区别：believe someone = 相信某人说的话，believe in = 信仰其存在。
 
-"Ghost"源自古英语"gāst"，与德语"Geist"同源。在日耳曼文化中，幽灵是死者的灵魂未能安息的表现。莎士比亚的《哈姆雷特》中，父王的鬼魂是整个悲剧的起点。"Goddess"（女神）在各大宗教中都有重要地位：印度教的杜尔迦、希腊的雅典娜、佛教的观音。"Cross"（十字架）在基督教之前就已经是古老的宗教符号——古埃及的"安卡"（ankh）就是十字形的生命符号。
+- **god / goddess / ghost** — god 是神（泛指或基督教上帝，大写 God 特指上帝）。goddess = 女神（god + -dess）。ghost = 鬼魂。注意 God（大写，无冠词）指基督教的上帝；a god 指一个神。
 
-"Prayer"来自拉丁语"precari"（恳求），与"precarious"（危险的、不确定的）同源——因为祈祷本质上是一种不确定的恳求，你无法确定是否会被回应。"Doubt"来自拉丁语"dubitare"，与"duo"（二）同源，字面意思是"在两者之间摇摆"，即不确定。信仰与怀疑，是人类精神生活中永恒的两极。
+- **prayer / priest / temple** — prayer 是祈祷（pray + -er）。priest 是神父/祭司。temple 是寺庙/神殿（佛教、印度教、犹太教都用 temple；基督教通常用 church）。
 
-- 宗教名称的首字母必须大写：Buddhist, Christian, Hindu, Jewish, Muslim，这是英语的硬性规则。
-- "Atheist"中的"a-"是希腊语否定前缀（如同"amoral"），"theos"是"神"，合起来就是"无神论者"。
-- "Believe in"和"believe"不同：believe in God（信仰上帝）vs. believe the news（相信这条新闻）。
-- "Catholic"首字母大写时指"天主教的"，小写"catholic"意为"广泛的、包容的"（catholic taste = 广泛的品味）。
-- "Lives"是"life"的复数形式，注意发音变化：life /laɪf/ → lives /laɪvz/。
+- **bible / cross / catholic** — bible 是圣经（通常大写 Bible）。cross 是十字架。catholic 意为"天主教的"（大写 Catholic 指罗马天主教）。注意 catholic 小写时有"广泛的"含义。
+
+- **doubt / respect / death** — doubt 可作名词或动词：I doubt it. / I have my doubts. respect 可作动词或名词：respect others' beliefs / show respect. death 是名词（动词是 die，形容词是 dead/deadly）。
+
+- **had / become / return / lives** — had 在此构成过去完成时：She had become a Buddhist before I met her. become = 变成。return 可指"回归"：return to her faith. lives 是 life 的复数（注意发音变化：/laɪvz/）。
+
+- **happiness / take** — happiness = 幸福（happy → happiness，变 y 为 i 加 -ness）。take 在宗教语境中可能搭配 take part in（参加）或 take a prayer（做一次祈祷）。

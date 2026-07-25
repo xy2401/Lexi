@@ -6,18 +6,28 @@
 
 any, anyway, as much as, at the moment, cab, change the subject, either, even, fight, hand, hasn't, haven't, how to, i insist, insist, knock, miss, say goodbye to, say hi, so, wanted, watch out for, when's
 
+## 单元讲解
+
+本单元围绕"分享过去的回忆"展开，场景是朋友间的闲聊。词表里有社交互动表达（say hi, say goodbye to, knock, miss, fight）、口语连接词和语气词（anyway, either, even, so, i insist）以及现在完成时的否定（hasn't, haven't）。
+
+你可以练习回忆和闲聊：I haven't seen you in ages! / She hasn't changed at all. / I miss the old days—say hi to everyone for me. / Anyway, let's change the subject. / Watch out for that cab! / I insist—you take the last piece.
+
+现在完成时 hasn't/haven't + 过去分词用来谈"到现在为止还没……"。as much as 表比较，at the moment = 现在。整体语气轻松、口语化，适合练习自然的朋友对话。
+
 ## Tips
 
-"Chat"来自古法语"chatter"（喋喋不休），可能与猫（cat）的呼噜声有关——一种轻松的、无目的的交谈。在数字时代之前，"chat"是邻里之间、朋友之间最自然的社交方式：在街角偶遇，聊几句近况，然后各奔东西。"Cab"（出租车）是"cabriolet"的缩写，原意是"一种轻型双轮马车"，来自法语"cabrioler"（像山羊一样跳跃），因为这种马车在颠簸路面上会像山羊一样蹦跳。
+- **hasn't / haven't / wanted** — hasn't = has not，haven't = have not，用于现在完成时否定（I haven't seen her. / He hasn't called.）。wanted 是 want 的过去式，在口语中用 I wanted to ask... 比 I want to ask... 更委婉客气。
 
-"Knock"（敲门）是人类最古老的社交礼仪之一。在古罗马，敲门（pulsare）有严格的规矩——用指关节轻叩表示访客的身份和意图。英语中"knock on wood"（敲木头求好运）的习俗可能源自凯尔特人对树木精灵的信仰——敲击树干可以唤醒树灵来保护你。"Miss"（想念）来自古英语"missan"（未命中、失去），与"mistake"（错误）同源——想念一个人，就是"失去了"他的陪伴。
+- **say hi / say goodbye to / miss** — say hi (to someone) = 打招呼（Say hi to your mom for me.）。say goodbye to = 告别。miss = 想念（I miss you.）也可指"错过"（miss the bus）。注意 miss 做"想念"时是持续性状态。
 
-"Insist"来自拉丁语"insistere"（站在上面），由"in-"（在...上）和"sistere"（站立）组成，字面意思是"坚定地站在那里不退让"。"I insist"在英语社交中是一种热情的坚持——比如坚持要请客、坚持要帮忙。"Change the subject"（换话题）是英语对话中的重要社交技能——当谈话触及敏感领域时，一句"Let's change the subject"可以优雅地化解尴尬。
+- **anyway / either / even / so** — anyway = 反正、不管怎样（用来转换话题或总结）。either 用于否定句"也"（I don't like it either.），对比肯定句用 too。even = 甚至（Even he cried.）。so = 所以、那么。
 
-"Say hi"和"say goodbye to"是英语中最基本的社交动作。"Hi"可能是英语中最短的问候语，而"goodbye"是"God be with ye"（上帝与你同在）的缩略——从宗教祝福到日常告别，这个词经历了数百年的世俗化。"Watch out for"（留意、小心）是朋友间关心的表达，暗含"我在乎你的安全"。
+- **i insist / insist** — I insist = 我坚持（用于客气地坚持让对方接受，比如抢着买单）。insist 搭配：insist on doing something, insist that...。例句：I insist on paying. / She insisted that he stay.
 
-- "Anyway"（无论如何、反正）是口语中转换话题或结束对话的万能词。
-- "Either"在否定句中表示"也（不）"：I haven't been there either.（我也没去过那里。）
-- "As much as"表示"和...一样多"或"尽管"：I miss you as much as you miss me.
-- "At the moment"比"now"更正式，意为"此刻、目前"：I'm busy at the moment.
-- "When's"是"when is"的缩写，口语中极常见：When's the party? / When's he coming?
+- **change the subject / watch out for** — change the subject = 换话题（Let's change the subject.）。watch out for = 当心、留意（Watch out for cars!）。两者都是口语中极常用的固定表达。
+
+- **knock / fight / cab** — knock = 敲门（knock on the door）。fight 作名词"打架、争吵"，作动词"打架"（They fought yesterday.），过去式 fought。cab = 出租车（taxi 的口语说法，来自 cabriolet）。
+
+- **as much as / at the moment / how to** — as much as = 和……一样多（I love you as much as before.）。at the moment = 此刻、现在（= right now）。how to = 如何（I don't know how to say it.）。
+
+- **hand / when's / any** — hand 在这里可能指"递"（Hand me that.）或"手"。when's = when is（When's the party?）。any 用于疑问和否定（Do you have any questions? / I don't have any.）。

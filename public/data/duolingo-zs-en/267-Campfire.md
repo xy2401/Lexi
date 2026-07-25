@@ -6,18 +6,38 @@
 
 Bigfoot, burst into, campfire, cliffhanger, darkness, dead, dying to, edge of my seat, excited for, go to sleep, goosebumps, grizzly bear, hanging, killer, marshmallow, no sooner had, owl, racing, s'mores, scary story, silently, spooky, squirrel, werewolf
 
+## 单元讲解
+
+本单元的场景是露营时的篝火之夜——大家围坐在 campfire 旁，烤 marshmallow、做 s'mores，然后有人开始讲 scary story。词表里既有露营和夜间森林的意象（darkness, owl, squirrel, grizzly bear），也有讲恐怖故事时的情绪表达（goosebumps, spooky, edge of my seat, racing）。你可以练习描述那种既害怕又兴奋的感觉：I'm dying to hear the rest! / My heart was racing—I was on the edge of my seat! / No sooner had I closed my eyes than I heard something outside.
+
+从结构上看，词表里有几组值得注意的表达。dying to 和 excited for 都表示强烈的期待；no sooner had 是一个倒装结构，用来强调"刚……就……"；cliffhanger 指故事在最紧张处戛然而止。burst into 可以接 laughter、tears 等名词，表示突然爆发。这些表达放在一起，正好构成一个完整的"篝火故事"叙述链：从兴奋期待，到故事展开，到悬念收尾，再到夜里睡不着。
+
 ## Tips
 
-篝火故事（campfire story）是人类最古老的叙事传统之一。在电灯发明之前的数十万年里，人类围坐在火堆旁讲述故事，火光在黑暗中创造出天然的"剧场"。"Campfire"由"camp"（扎营）和"fire"（火）组成，而"camp"来自拉丁语"campus"（田野），最初是军事用语，指军队扎营的平地。
+- **s'mores** — 美国露营经典甜点：烤棉花糖夹在两块 graham cracker 中间，再加一块巧克力。名字来自 "some more"（再来一个），因为吃了总想要更多。拼写上故意省略了字母，是口语化的写法。
 
-"S'mores"（烤棉花糖夹巧克力饼干）是美国露营文化的标志性食物，名字是"some more"（再来一些）的缩写，因为吃了第一口就忍不住说"some more"。这个食谱最早出现在1927年美国女童军的手册中。"Marshmallow"（棉花糖）的名字则来自一种真实存在的植物——沼泽锦葵（marsh mallow），古埃及人用这种植物的根制作甜食，现代棉花糖只是借用了这个名字。
+- **no sooner had** — 倒装结构，表示"刚……就……"。完整形式：No sooner had I fallen asleep than the owl started hooting. 注意 no sooner 后接 had + 过去分词，than 引导后半句。比 as soon as 更文学化，常见于叙事。
 
-"Werewolf"（狼人）的传说横跨几乎所有欧洲文化。"Were"来自古英语"wer"（男人），所以werewolf字面意思就是"人-狼"。这个传说可能源于中世纪对狂犬病或先天性多毛症的误解。"Bigfoot"（大脚怪）则是北美洲版本的"野人"传说，1958年加州伐木工人声称发现巨大脚印后，这个名字才流行起来。"Grizzly bear"（灰熊）的"grizzly"来自"grizzle"（灰白色），但灰熊实际上通常是棕色的——早期探险家可能看到的是毛尖发白的个体。
+- **dying to / excited for** — 都表示非常想做某事。dying to 语气更强烈、更口语化：I'm dying to know what happens next! excited for 稍正式：I'm so excited for the camping trip. 注意 dying to 后接动词原形，excited for 后接名词或动名词。
 
-"Goosebumps"（鸡皮疙瘩）是恐惧最直接的生理反应，英语用"鹅的凸起"来形容皮肤上竖起的小疙瘩。"Cliffhanger"（悬念）来自早期电影连续剧——每集结尾，主角总是"悬挂在悬崖边"，观众必须等下周才能知道结局。"Edge of my seat"（坐在椅子边缘）则描绘了紧张时身体不自觉前倾的姿态。"Spooky"（阴森的）来自荷兰语"spook"（幽灵），与德语"Spuk"同源。
+- **edge of my seat** — 固定搭配 on the edge of my seat，形容紧张到身体前倾、坐在椅子边缘。常用来形容悬疑电影、恐怖故事：The cliffhanger had me on the edge of my seat.
 
-- "Dying to"（极其想要）是夸张修辞，"I'm dying to know"（我急死了想知道）并非真的在"死"，而是表达强烈渴望。
-- "No sooner had...than..."是英语中最经典的倒装结构之一，表示"刚...就..."，常用于叙事中制造紧凑感。
-- "Burst into"（突然爆发）中的"burst"来自古英语"berstan"，与"break"同源，暗示一种不可遏制的突然性。
-- "Owl"（猫头鹰）在西方文化中是智慧的象征（雅典娜的圣鸟），但在许多亚洲文化中却与死亡和不祥相关。
-- "Racing"用于描述心跳时（my heart was racing），是恐惧叙事中的经典表达，比"beating fast"更具文学感。
+- **cliffhanger** — 字面意思是"挂在悬崖上的人"，引申为故事/剧集在最紧张的时刻突然结束，让受众悬着心。美剧每季结尾常用这个技巧。词表里的 hanging 可以联想这个画面。
+
+- **burst into** — 突然进入某种状态，后接名词：burst into laughter / burst into tears / burst into flames。注意不说 burst into laughing（那是 burst out laughing）。
+
+- **goosebumps** — 鸡皮疙瘩。goose（鹅）+ bumps（凸起），因为鹅拔毛后皮肤上的小疙瘩像人起鸡皮疙瘩。搭配：give me goosebumps / get goosebumps。
+
+- **grizzly bear** — 灰熊，北美最大的食肉动物之一。grizzly 来自 grizzle（灰白），指毛色。注意和 grizzly（可怕的）拼写相同但词源不同——形容词 grizzly 意为"令人毛骨悚然的"，恰好和灰熊的恐怖形象重合。
+
+- **spooky** — 阴森森的、诡异的。比 scary 语气轻，带点趣味感，常用于万圣节语境：a spooky old house / a spooky noise。名词是 spook（幽灵），但日常更常用 ghost。
+
+- **werewolf / Bigfoot** — werewolf 是狼人（were- 是古英语"人"的意思，不是 wear）；Bigfoot 是北美传说中的大脚怪，因据称留下巨大脚印而得名。两者都是 campfire story 的经典主角。
+
+- **marshmallow** — 棉花糖。原指一种叫 marsh mallow（沼泽锦葵）的植物，其根部黏液曾被用来做糖果，后来配方改为明胶和糖，但名字保留了下来。露营时烤到外焦里软是标准吃法。
+
+- **racing** — 这里指心跳加速：My heart was racing. 不是"赛车"。racing heart 是紧张、恐惧或兴奋时的常见身体反应。搭配：pulse racing / heart racing。
+
+- **silently** — 安静地、无声地。副词，修饰动作：The owl flew silently through the darkness. 注意 silent 是形容词，silently 是副词，silence 是名词。
+
+- **killer** — 这里不是"杀手"，而是口语中的形容词用法，意为"极好的、厉害的"：That story was killer! 也可以做名词指恐怖故事里的凶手。一词两义，看语境判断。

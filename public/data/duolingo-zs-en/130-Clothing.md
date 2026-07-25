@@ -6,20 +6,37 @@
 
 afterward, away, cash register, change, checkout, cotton, cute, didn't, doesn't, don't, high, low, percent, pretty, quality, selfie, sleeve, stuff, sweatshirt, thrown, tiny, ugly, underwear, wasn't, weren't
 
+## 单元讲解
+
+本单元围绕"对衣服发表看法"展开。核心是购物评价表达：I don't think this sweatshirt is ugly—I think it's cute!（我不觉得这件卫衣丑——我觉得很可爱！）、The quality is high but the price isn't low.（质量高但价格不低。）、It's 50 percent off at the checkout.（在收银台打五折。）、She didn't like the sleeve length, so she threw it away.（她不喜欢袖子长度，就扔了。）。
+
+词表里有服装词汇（sweatshirt, sleeve, cotton, underwear）和购物词汇（cash register, checkout, percent, quality）。你可以练习：This stuff is pretty cheap. / The selfie she took was cute. / It wasn't expensive afterward. / These tiny socks don't fit.
+
+didn't / doesn't / don't 是否定助动词。wasn't / weren't 是 be 动词的否定过去式。
+
 ## Tips
 
-"Cotton"（棉花）一词的旅行路线本身就是一部贸易史。它来自阿拉伯语"quṭn"，经中世纪西班牙的摩尔商人传入欧洲，变成古法语"coton"，再进入英语。棉花原产印度，印度河流域文明在五千年前就开始种植棉花、纺织棉布。亚历山大大帝东征时，希腊士兵第一次见到棉布，惊叹其为"长在树上的羊毛"。18世纪，棉花成为工业革命的引擎——曼彻斯特的棉纺厂改变了整个世界。
+- **sweatshirt / sleeve / cotton** — 卫衣 / 袖子 / 棉。搭配：a cotton sweatshirt, long sleeves, made of cotton。例句：I love this sweatshirt. / The sleeves are too long. / It's 100% cotton. 注意 sweatshirt = 运动卫衣（有长袖）。
 
-"Sleeve"（袖子）来自古英语"slēfe"，与"slip"（滑）同源——袖子就是手臂"滑入"的通道。中世纪欧洲的袖子是身份的象征：贵族的袖子宽大飘逸，用丝绸和貂皮装饰；农民的袖子紧身窄小，方便劳作。"Sweatshirt"（卫衣）的诞生极为实用——1920年代，美国阿拉巴马州的橄榄球教练Benjamin Russell Jr.厌倦了训练时羊毛衫的刺痒，和父亲一起设计了第一件纯棉运动衫。"Sweat"（汗水）+ "shirt"（衬衫），名字直白得不能再直白。
+- **quality / high / low** — 质量 / 高 / 低。搭配：high quality, low quality, the quality is good。例句：The quality is high. / The price is low but the quality is good. 注意 quality 可数也可不可数。
 
-"Underwear"（内衣）的历史充满了文化禁忌。古罗马人穿"subligaculum"（一种缠腰布），中世纪欧洲人穿"chemise"（衬裙）。直到19世纪，"underwear"这个词才出现——维多利亚时代的人连谈论内衣都觉得不雅，商店里称之为"unmentionables"（不可提及之物）。"Cute"（可爱的）是"acute"（敏锐的）的缩写，18世纪时意为"聪明的、机灵的"，到20世纪才变成"可爱"——从"聪明"到"可爱"，审美标准悄然转变。
+- **percent / checkout / cash register** — 百分比 / 收银台 / 收银机。搭配：50 percent off, at the checkout, the cash register。例句：It's 30 percent off. / Pay at the checkout. / The cash register is over there. 注意 percent off = 打折（50% off = 五折）。
 
-"Quality"（质量）来自拉丁语"qualis"（什么样的），与"qualify"（使合格）同源。中世纪行会制度下，每件商品都要经过"quality"检验——铁匠的刀剑、织工的布匹、面包师的面包，不合格者会被公开销毁。"Cash register"（收银机）的发明者是1879年的美国酒馆老板James Ritty，他受够了员工偷钱，看到轮船上的螺旋桨计数器后灵光一闪，发明了"Ritty's Incorruptible Cashier"（里蒂的不可腐蚀收银员）。
+- **cute / ugly / pretty** — 可爱 / 丑 / 漂亮。搭配：so cute, really ugly, pretty nice。例句：That dress is cute! / I think it's ugly. / It's pretty good quality. 注意 pretty 可作形容词（漂亮）也可作副词（相当）。
 
-"Selfie"（自拍）在2013年被牛津词典选为年度词汇，但这个词最早出现在2002年一个澳大利亚网络论坛上。一位醉酒的年轻人在论坛上发了一张自己嘴唇缝针的照片，配文"sorry about the focus, it was a selfie"。从2002年的醉酒帖子到全球数十亿张自拍，"selfie"见证了智能手机时代人类自我表达方式的革命。
+- **didn't / doesn't / don't** — 没有 / 不（三单）/ 不。搭配：didn't like, doesn't fit, don't think。例句：I didn't buy it. / It doesn't fit. / I don't like the color. 注意 didn't + 动词原形。
 
-- "Pretty"（漂亮的）来自古英语"prættig"（狡猾的、机灵的），与"pratt"（诡计）同源。从"狡猾"到"漂亮"，词义的演变耐人寻味。
-- "Ugly"（丑陋的）来自古诺尔斯语"uggligr"（可怕的），与"agg"（恐惧）同源——维京人觉得丑就是"令人害怕"。
-- "Percent"（百分比）来自拉丁语"per centum"（每百），古罗马拍卖师用"per centum"来计算佣金比例。
-- "Checkout"（结账）中"check"来自波斯语"shāh"（国王），因为中世纪欧洲用棋盘格布来核算账目，"check"原意是"棋盘格"。
-- "Stuff"（东西）来自古法语"estoffe"（布料），最初专指纺织品，后来泛化为"各种东西"——从布匹到万物，词义不断膨胀。
+- **wasn't / weren't** — 不是 / 不是（复数）。搭配：it wasn't, they weren't。例句：The price wasn't high. / The shoes weren't cheap. 注意 wasn't = was not（单数），weren't = were not（复数）。
+
+- **underwear / stuff / tiny** — 内衣 / 东西 / 极小的。搭配：underwear, all this stuff, tiny socks。例句：I need new underwear. / What's all this stuff? / These socks are tiny! 注意 underwear 不可数（不说 ✗ an underwear）。
+
+- **selfie / thrown / away** — 自拍 / 扔了 / 离开。搭配：take a selfie, thrown away, throw away。例句：She took a selfie in the mirror. / I thrown it away. / Throw it away! 注意 throw → threw → thrown。
+
+- **change / afterward** — 换 / 之后。搭配：change clothes, afterward, right afterward。例句：I need to change my clothes. / Afterward, we went shopping. 注意 afterward = afterwards（之后）。
+
+- **cotton / quality / percent** — 棉 / 质量 / 百分比。搭配：100% cotton, good quality, 20 percent off。例句：This is pure cotton. / The quality is excellent. / Everything is 20 percent off. 注意 cotton 不可数。
+
+- **checkout / cash register / change** — 收银台 / 收银机 / 找零。搭配：at the checkout, the cash register, keep the change。例句：Meet me at the checkout. / The cash register is broken. / Here's your change. 注意 change 也可指"找零"。
+
+- **don't / cute / ugly** — 不 / 可爱 / 丑。搭配：I don't think, so cute, really ugly。例句：I don't think it's ugly. / The baby is so cute! / That hat is ugly. 注意 I don't think + 否定转移。
+

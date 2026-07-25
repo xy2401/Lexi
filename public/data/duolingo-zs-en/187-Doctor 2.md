@@ -6,18 +6,28 @@
 
 ache, ankle, be, bled, cover, ear, earache, have to be, health insurance, injure, need to be, patient, pregnant, request, reschedule, save, skin, surgery, symptom, thumb, treatment, want to be, weak, wheelchair, will be
 
+## 单元讲解
+
+本单元让你描述症状和就医经历。你可以告诉医生哪里不舒服：I have an earache, and my ankle has been weak since I injured it. My thumb bled yesterday, and I need to be careful with the skin around it.（我耳朵疼，自从脚踝受伤后一直无力。我拇指昨天出血了，需要小心周围的皮肤。）The patient will be in for surgery—do you have health insurance? I'd like to reschedule my appointment.（病人要来做手术——你有医疗保险吗？我想改约时间。）
+
+词表里有身体部位：ankle, ear, thumb, skin。症状和医疗词汇：ache, earache, symptom, weak, bled, injure, surgery, treatment。就医流程词：patient, health insurance, request, reschedule, wheelchair。
+
+have to be / need to be / want to be / will be 这组结构表达了义务、需要、意愿和将来：You have to be patient. The treatment will be quick. I need to be seen today.（你要有耐心。治疗会很快。我今天需要被看诊。）cover 和 save 在医疗语境中分别指"保险覆盖"和"节省/挽救"。
+
 ## Tips
 
-"Doctor"来自拉丁语"docere"（教导），最初指任何"教导者"——中世纪大学里的神学博士、法学博士都叫"doctor"。直到近代，"doctor"才逐渐成为医生的专属称呼。"Patient"（病人）来自拉丁语"pati"（忍受），字面意思是"正在忍受（痛苦）的人"。这个古老的词源提醒我们：在医学尚不发达的年代，生病首先意味着"忍耐"。
+- **ache / earache / symptom** — ache = 疼痛（持续的钝痛），可作名词或动词：My head aches. / a backache. earache = 耳朵痛（ear + ache）。类似构词：headache, toothache, stomachache, backache. symptom = 症状：What are your symptoms?
 
-"Symptom"来自希腊语"symptōma"（偶然发生的事），由"syn-"（一起）和"piptein"（落下）组成，字面意思是"一起落下的（现象）"——即伴随疾病一起出现的征兆。"Surgery"来自希腊语"cheirourgia"，由"cheir"（手）和"ergon"（工作）组成，字面意思是"手工操作"。在中世纪，外科医生和理发师是同一个职业——"barber-surgeon"既理发又放血，这就是理发店门口红白蓝旋转柱的由来（红色代表血，白色代表绷带）。
+- **bled / injure / weak** — bled 是 bleed（出血）的过去式和过去分词：My thumb bled a lot. injure = 受伤（比 hurt 更正式）：I injured my ankle. weak = 虚弱的：My leg feels weak. 注意 injure 的名词是 injury。
 
-"Ache"（疼痛）是古英语中幸存下来的最古老词汇之一，源自古英语"acan"。英语中把"ache"加在身体部位后面构成复合词：headache, earache, toothache, stomachache——这种构词法简洁而直观。"Thumb"（拇指）来自古英语"thūma"，与拉丁语"tumere"（肿胀）有关，可能因为拇指是手指中最"粗壮"的一个。
+- **ankle / thumb / ear / skin** — ankle = 脚踝。thumb = 拇指（注意 th 发音 /θ/）。ear = 耳朵。skin = 皮肤。这些是身体部位的基础词汇，搭配 hurt/injure/pain 使用。
 
-"Health insurance"（医疗保险）是现代医疗体系的基石。德国在1883年建立了世界上第一个国家医疗保险制度，由俾斯麦推动。"Wheelchair"（轮椅）由"wheel"（轮子）和"chair"（椅子）组成，最早的轮椅记录出现在16世纪的欧洲。"Pregnant"来自拉丁语"praegnans"，可能与"prae"（之前）加"gignere"（生育）有关，字面意思是"即将生育的"。
+- **have to be / need to be / want to be / will be** — have to be = 必须是/不得不：You have to be careful. need to be = 需要被：The wound needs to be covered. want to be = 想要：I want to be healthy. will be = 将会：It will be fine.
 
-- "Ache"作名词时读/eɪk/，作动词时读/ɑːk/（英式）或/eɪk/（美式），注意区分。
-- "Bled"是"bleed"（流血）的过去式和过去分词，不规则变化：bleed-bled-bled。
-- "Have to be / need to be / want to be"表达不同程度的必要性：必须 > 需要 > 想要。
-- "Reschedule"中的"re-"表示"重新"，"schedule"是"日程"，合起来就是"改期"。
-- "Injure"（受伤）通常指外伤，"hurt"更通用，"wound"特指战争或暴力造成的伤。
+- **patient / surgery / treatment** — patient 既是"病人"也是"耐心的"（一词两义）。surgery = 手术（英式英语中 surgery 也可指"诊所"）。treatment = 治疗：receive treatment / a course of treatment.
+
+- **health insurance / reschedule / request** — health insurance = 医疗保险。reschedule = 改期（re- + schedule）：I need to reschedule my appointment. request = 请求（比 ask 更正式）：make a request.
+
+- **pregnant / wheelchair / cover / save** — pregnant = 怀孕的：She's pregnant. wheelchair = 轮椅（wheel + chair）。cover 在保险语境中 = 覆盖/报销：Does your insurance cover surgery? save = 挽救/节省：save a life / save money.
+
+- **be** — be 动词在此可能用于被动语态：The patient will be seen soon. 或用于状态描述：You need to be patient. 注意 be 的各种形式：am/is/are/was/were/been/being。

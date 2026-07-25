@@ -6,18 +6,26 @@
 
 a bit of, basket, boil, burn, cucumber, dozen, dressing, fry, grill, half-, noodle, organic, pour, raw, shake, smell, sparkling water, spice, sticky, stir, taste, yum
 
+## 单元讲解
+
+本单元围绕"谈论食谱和烹饪"展开。词表里有大量烹饪动词（boil, fry, grill, stir, pour, shake, burn）和食材/调料（cucumber, noodle, spice, dressing, organic）。你可以描述做菜过程：Boil the noodles. / Fry the cucumber with a bit of spice. / Pour the dressing and stir. / Don't burn it—smell that? It's sticky!
+
+感官动词 smell 和 taste 在这里很关键——Smell the spice. / Taste the dressing. / Yum! 这些词既可以作及物动词（Taste this.），也可以作系动词（It tastes good. / It smells nice.）。
+
+half- 是前缀，构成 half-cooked（半熟的）之类的表达。dozen = 一打（12 个），a dozen eggs。sparkling water = 气泡水。整体来看，这个单元帮你用英语完成从备料到出锅的完整厨房对话。
+
 ## Tips
 
-"Kitchen"来自古英语"cycene"，与拉丁语"coquina"（烹饪的地方）同源，最终追溯到"coquere"（煮）。在古罗马，厨房（culina）是奴隶的领地；在中世纪欧洲，城堡的厨房是整个庄园的心脏——巨大的壁炉可以同时烤整头牛。"Spice"（香料）来自拉丁语"species"（种类），在中世纪，香料比黄金还贵——胡椒粒曾被用作货币，一小袋肉豆蔻可以买下一栋房子。哥伦布和达伽马的航海探险，本质上就是为了寻找通往"香料群岛"的新航线。
+- **boil / fry / grill / stir** — 四种基本烹饪方式。boil = 水煮（Boil the water. / boiled eggs）。fry = 油煎/炸（fry an egg, fried rice）。grill = 烧烤（grill the meat, a grilled sandwich）。stir = 搅拌（stir the soup, stir-fry = 翻炒）。
 
-"Noodle"（面条）可能来自德语"Nudel"，而德语这个词可能与拉丁语"nodus"（结）有关。面条的历史远比马可·波罗的传说古老——中国青海出土的4000年前的面条证明，面条的发明权属于中国。"Cucumber"（黄瓜）来自拉丁语"cucumis"，古罗马皇帝提比略对黄瓜的痴迷到了荒谬的程度——他要求园丁用轮式推车每天把黄瓜搬到阳光下，晚上再推回温室。
+- **pour / shake / burn** — pour = 倒（液体）（Pour the dressing. / pour a glass of water）。shake = 摇（Shake the bottle. / Shake well before use.）。burn = 烧焦（Don't burn the noodles! / I burnt the toast.），过去式 burnt 或 burned。
 
-"Grill"（烧烤）来自古法语"griller"，与"craticula"（小格子）有关——烤架上的格子图案就是这个词的视觉来源。"Organic"（有机的）来自希腊语"organon"（工具、器官），原意是"有器官的、有生命的"。在食品语境中，"organic"指不使用化学农药和化肥的种植方式，这个概念在20世纪60年代的环保运动中兴起。
+- **smell / taste / yum** — smell 和 taste 既可作动作（Smell this. / Taste it.），也可作系动词后接形容词（It smells good. / It tastes salty.），注意系动词用法不用进行时。yum = 好吃！（口语感叹词，也可说 yummy）。
 
-"Dozen"（一打，十二个）来自古法语"dozaine"，与拉丁语"duodecim"（十二）同源。十二进制在人类文明中根深蒂固——一年十二个月、时钟十二小时、一打鸡蛋。"Sparkling water"（气泡水）中的"sparkle"来自古英语"spearca"（火花），气泡在水中升起的样子确实像微小的火花。
+- **cucumber / noodle / spice / dressing** — cucumber = 黄瓜。noodle 常用复数 noodles。spice = 香料（不可数或可数），spicy = 辣的。dressing = 调味汁（salad dressing 沙拉酱）。
 
-- "Boil"（煮沸）、"fry"（煎炸）、"grill"（烧烤）、"stir"（搅拌）是烹饪的四个核心动词。
-- "Raw"（生的）的反义词是"cooked"（熟的）：You shouldn't eat raw chicken.
-- "A bit of"是口语中"一点"的表达，比"a little"更随意：Add a bit of salt.
-- "Yum"是感叹词，表达"好吃！"，完整的形容词形式是"yummy"。
-- "Pour"（倒）和"stir"（搅拌）经常一起出现在食谱中：Pour the dressing and stir well.
+- **organic / raw / sticky** — organic = 有机的（organic vegetables）。raw = 生的、未煮的（raw fish, raw meat）。sticky = 黏的（sticky rice 糯米, The sauce is sticky.）。
+
+- **a bit of / dozen / half-** — a bit of = 一点（a bit of spice, a bit of salt），比 a little 更口语。dozen = 一打 = 12 个（a dozen eggs, two dozen roses）。half- 是前缀"半"（half-cooked, half-full）。
+
+- **sparkling water / basket** — sparkling water = 气泡水（sparkling = 冒泡的），对比 still water = 静止水/普通水。basket = 篮子（a basket of vegetables, a shopping basket）。

@@ -6,18 +6,28 @@
 
 agency, atmosphere, been, cave, crew, departure, get into, go on, go through, golf course, hot tub, how far, in case, kangaroo, keep an eye on, life jacket, massage, port, scenery, spa, spectacular, stay behind, there's been, tourism, welcome, work out
 
+## 单元讲解
+
+本单元围绕"旅行中看管好随身物品"展开，同时涉及丰富的旅游活动和场景。词表里有旅行设施和服务（spa, hot tub, massage, golf course, agency）、自然景观（cave, scenery, port）和安全相关表达（life jacket, keep an eye on, in case, stay behind）。
+
+你可以练习描述旅行体验：There's been a change in the departure time. / How far is the cave from the port? / Keep an eye on your bags in case someone gets into them. / The scenery is spectacular—welcome to Australia, home of the kangaroo!
+
+been 和 there's been 提示现在完成时的使用。go on, go through, get into 这组短语动词让表达更生动。crew 指机组或船员，work out 可以指"解决问题"或"锻炼"。
+
 ## Tips
 
-"Tourism"来自法语"tour"（转、旅行），与"tournament"（锦标赛，原意是骑士的"巡回比武"）同源。现代旅游业诞生于1841年——英国人托马斯·库克（Thomas Cook）组织了第一次团体火车旅行，从莱斯特到拉夫堡，全程仅12英里。此后，"tourism"从贵族的"壮游"（Grand Tour）变成了大众的消费活动。"Agency"（旅行社）来自拉丁语"agere"（做、行动），原意是"做事的地方"。
+- **keep an eye on / in case / stay behind** — keep an eye on = 留意、看管（Keep an eye on my bag.）。in case = 以防万一（Take an umbrella in case it rains.）。stay behind = 留下来、留在后面（Don't stay behind—come with us!）。
 
-"Kangaroo"（袋鼠）是英语中从澳大利亚原住民语言借入的最著名词汇。据传说，库克船长1770年到达澳大利亚时，指着袋鼠问当地原住民那是什么，原住民回答"gangurru"（意为"我不知道"或"你指什么"），库克误以为那就是动物的名字。虽然这个传说可能是虚构的，但"kangaroo"确实来自古古·伊米提尔语（Guugu Yimithirr）。
+- **get into / go on / go through** — get into 可指"进入"（get into the car）或"陷入"（get into trouble）。go on = 继续、发生（What's going on?）。go through = 经历、穿过（go through customs 过海关）。这三个短语动词在旅行场景中高频出现。
 
-"Spa"（水疗）来自比利时小镇Spa，该镇以天然温泉闻名，自16世纪起就是欧洲贵族的疗养胜地。"Massage"（按摩）可能来自阿拉伯语"massa"（触摸）或葡萄牙语"amassar"（揉捏）。"Cave"（洞穴）来自拉丁语"cavus"（空的、凹的），人类最早的居所就是cave——从法国拉斯科洞穴的史前壁画到中国敦煌莫高窟，cave始终是人类文明的摇篮。
+- **scenery / spectacular / atmosphere** — scenery = 风景（不可数名词，不说 a scenery，用 a piece of scenery 或直接 the scenery）。spectacular = 壮观的（a spectacular view）。atmosphere = 氛围、气氛，也可指大气层。
 
-"Spectacular"来自拉丁语"spectare"（观看），与"spectator"（观众）、"spectrum"（光谱）同源，字面意思是"值得观看的"。"Departure"来自古法语"departir"（分开），原意是"与（某地）分离"。"Keep an eye on"（留意、看管）是英语中最生动的习语之一——用"把一只眼睛放在上面"来表达"注意看管"。
+- **spa / hot tub / massage / golf course** — spa = 水疗中心。hot tub = 热水浴缸（也叫 Jacuzzi，但 Jacuzzi 是品牌名）。massage = 按摩（注意重音在第二个音节 /məˈsɑːʒ/）。golf course = 高尔夫球场。
 
-- "Keep an eye on"是固定习语，意为"留意、看管"：Keep an eye on your bag at the airport.
-- "In case"表示"以防万一"，后接句子：Take a life jacket in case the boat tips over.
-- "How far"询问距离：How far is the port from here? 回答用距离单位。
-- "There's been"是"there has been"的缩写，用于报告最近发生的事：There's been a change in the departure time.
-- "Go through"在旅行语境中可指"经历、通过"：go through customs（过海关）、go through security（过安检）。
+- **cave / port / kangaroo** — cave = 洞穴。port = 港口（注意和 airport 区分）。kangaroo = 袋鼠，澳大利亚的标志性动物。搭配：explore a cave, arrive at the port, see kangaroos in the wild。
+
+- **departure / crew / agency** — departure = 出发、起飞（departure time, departure gate）。crew = 全体机组人员/船员（the cabin crew 空乘人员）。agency = 代理机构（a travel agency 旅行社）。
+
+- **life jacket / work out / there's been** — life jacket = 救生衣。work out 含义丰富：锻炼（I work out every day.）、解决（Things will work out.）、算出（work out the cost）。there's been = there has been，现在完成时，表示"已经发生了……"。
+
+- **welcome / how far / been** — welcome 可作感叹词（Welcome to Sydney!）、形容词（You're welcome.）和动词（We welcome you.）。how far 询问距离（How far is it?）。been 是 be 的过去分词，I've been to... = 我去过……。

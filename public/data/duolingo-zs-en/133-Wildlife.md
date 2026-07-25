@@ -6,20 +6,37 @@
 
 ahead, beside, bright, dirt, dolphin, earth, giraffe, go back, humid, jungle, just, leaf, loudly, parrot, penguin, quietly, ridden, smell, stone, the environment, tiger, who, why, zebra
 
+## 单元讲解
+
+本单元围绕"询问丛林动物"展开。核心是动物和自然表达：Have you ever ridden a horse through the jungle?（你骑过马穿过丛林吗？）、The parrot was sitting beside the tiger, singing loudly.（鹦鹉坐在老虎旁边，大声唱歌。）、Why is the environment so humid here?（为什么这里的环境这么潮湿？）、The dolphin and the penguin are my favorite animals.（海豚和企鹅是我最喜欢的动物。）。
+
+词表里有动物词汇（tiger, giraffe, zebra, parrot, dolphin, penguin）和自然词汇（jungle, humid, earth, leaf）。你可以练习：Go ahead—don't go back! / The stone was covered in dirt. / The flowers smell bright and fresh. / Who saw the giraffe?
+
+ridden 是 ride 的过去分词。the environment 表示"环境"。
+
 ## Tips
 
-"Giraffe"（长颈鹿）的词源是一段跨越大陆的语言旅程。它来自阿拉伯语"zarāfa"（快走者），阿拉伯商人通过撒哈拉贸易路线将这种非洲动物介绍给地中海世界。古罗马人第一次见到长颈鹿时，认为它是骆驼和豹子的杂交种，因此称其为"camelopard"（骆驼豹）。这个名称在科学分类中保留至今——长颈鹿的学名仍是"Giraffa camelopardalis"。
+- **jungle / humid / the environment** — 丛林 / 潮湿的 / 环境。搭配：in the jungle, humid weather, protect the environment。例句：The jungle is hot and humid. / We need to protect the environment. 注意 humid 表示"潮湿"（天气），damp 表示"潮湿"（物体）。
 
-"Dolphin"（海豚）来自希腊语"delphis"，与"delphys"（子宫）同源——古希腊人敏锐地观察到海豚是胎生哺乳动物，而非鱼类。希腊神话中，海豚是海神波塞冬的使者，也是水手的守护神。克里特岛的米诺斯文明留下了大量海豚壁画，其中最著名的是克诺索斯宫"海豚厅"的蓝色海豚 fresco。"Penguin"（企鹅）的词源则充满争议，最被接受的说法是它来自威尔士语"pen gwyn"（白头），指北大西洋已灭绝的大海雀——后来探险家在南半球见到相似的鸟，便沿用了这个名字。
+- **tiger / giraffe / zebra** — 老虎 / 长颈鹿 / 斑马。搭配：a wild tiger, a tall giraffe, a zebra。例句：The tiger is dangerous. / Giraffes are the tallest animals. / Zebras have black and white stripes. 注意动物名词通常可数。
 
-"Jungle"（丛林）来自梵语"jangala"（干旱的荒地），最初指印度次大陆上干燥稀疏的林地，而非茂密的热带雨林。英国殖民者到达印度后，用"jungle"泛指一切荒野和密林。吉卜林的《丛林之书》（The Jungle Book）让这个词永远与老虎、熊和蟒蛇联系在一起。"Tiger"（老虎）来自波斯语"tigr"，而波斯语又借自希腊语"tigris"——"Tigris"同时也是底格里斯河的名字，因为河水奔腾如猛虎。
+- **parrot / dolphin / penguin** — 鹦鹉 / 海豚 / 企鹅。搭配：a colorful parrot, a dolphin, a penguin。例句：The parrot can talk! / Dolphins are very smart. / Penguins can't fly. 注意 dolphin 的发音：/ˈdɑːlfɪn/。
 
-"Zebra"（斑马）的词源可能来自刚果语"nzara"（驴）或葡萄牙语"zevro"（野驴）。15世纪葡萄牙探险家在非洲西海岸首次见到斑马时，称其为"野驴"。斑马的黑白条纹至今仍是进化生物学的热门话题——最新研究表明，条纹的主要功能是驱赶采采蝇，而非伪装或调节体温。"Parrot"（鹦鹉）来自古法语"perrot"，可能是"Pierre"（彼得）的昵称——中世纪欧洲人把宠物鹦鹉当作"小彼得"来宠爱。
+- **ridden / ride** — 骑过。ride → rode → ridden。搭配：ridden a horse, have you ever ridden...? 例句：Have you ever ridden a camel? / I've ridden a horse through the jungle. 注意 ridden 是过去分词（用于完成时）。
 
-"Environment"（环境）来自古法语"environner"（环绕），由"environ"（周围）构成。这个词直到19世纪才获得"自然环境"的含义——在此之前，它只是"周围的事物"。1962年，Rachel Carson的《寂静的春天》出版，"environment"从此成为政治和公共话语的核心词汇。"Earth"（地球）来自古英语"eorþe"，是日耳曼语族中最古老的词之一，与德语"Erde"、荷兰语"aarde"同源——在人类仰望星空之前，脚下的泥土就是一切。
+- **loudly / quietly / just** — 大声地 / 安静地 / 只是。搭配：sing loudly, walk quietly, just now。例句：The parrot sang loudly. / Walk quietly in the jungle. / I just saw a tiger! 注意 loudly 和 quietly 是反义词。
 
-- "Leaf"（叶子）的复数是"leaves"，保留了古英语的"f→v"变化规则，与"wife→wives""knife→knives"同属一类。
-- "Humid"（潮湿的）来自拉丁语"humidus"，与"humus"（腐殖土）同源——潮湿的泥土就是humus，也是"human"（人）的远亲（人由泥土所造）。
-- "Bright"（明亮的）来自古英语"beorht"，与古英语人名"Beorht"（如Beowulf中的"beorht"）同源，意为"闪耀的"。
-- "Stone"（石头）来自古英语"stān"，与德语"Stein"同源。"Milestone"（里程碑）就是"英里石"——古罗马道路上每隔一英里立一块石头。
-- "Ahead"（在前方）由"a-"（在）+"head"（头）构成，字面意思是"在头部方向"——向前看就是"朝头的方向"。
+- **beside / ahead / go back** — 旁边 / 前面 / 回去。搭配：beside the river, go ahead, go back home。例句：The tiger was beside the tree. / Go ahead—I'll follow. / Let's go back. 注意 beside = next to（旁边），besides = 除了。
+
+- **leaf / stone / dirt** — 叶子 / 石头 / 泥土。搭配：a green leaf, a big stone, in the dirt。例句：The leaf fell from the tree. / There's a stone on the path. / The ground is covered in dirt. 注意 leaf 的复数是 leaves。
+
+- **smell / bright / earth** — 闻起来 / 明亮的 / 地球。搭配：smell nice, bright colors, the earth。例句：The flowers smell amazing. / The parrot has bright feathers. / We need to protect the earth. 注意 smell 作系动词后接形容词。
+
+- **who / why / just** — 谁 / 为什么 / 只是。搭配：Who saw it? / Why is it...? / just now。例句：Who saw the giraffe? / Why is the jungle so humid? / I just heard a tiger! 注意 who 和 why 引导特殊疑问句。
+
+- **dolphin / penguin / parrot** — 海豚 / 企鹅 / 鹦鹉。搭配：a dolphin, a penguin, a parrot。例句：Dolphins live in the ocean. / Penguins live in cold places. / The parrot is colorful. 注意这些动物来自不同环境。
+
+- **go back / ahead / beside** — 回去 / 前进 / 旁边。搭配：go back, go ahead, beside me。例句：Don't go back—keep going! / Go ahead, I'll follow. / The zebra is beside the giraffe. 注意 go ahead 可表示"请便/继续"。
+
+- **tiger / jungle / environment** — 老虎 / 丛林 / 环境。搭配：a wild tiger, in the jungle, the environment。例句：Tigers live in the jungle. / The jungle environment is humid. / Protect the environment! 注意 environment 前加 the。
+

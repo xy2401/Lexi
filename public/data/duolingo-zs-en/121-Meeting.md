@@ -6,20 +6,37 @@
 
 agenda, aren't, charger, cool, couple, figure, first, from home, hard, headphones, hid, hidden, hide, hopefully, icy, isn't, isn't it, on mute, outfit, rainy, season, speed, sunset, thunder, too
 
+## 单元讲解
+
+本单元围绕"帮助解决技术问题"展开。核心是会议和技术表达：You're on mute—can you hear us?（你静音了——你能听到我们吗？）、Let me figure out the problem with your headphones.（让我看看你耳机的问题。）、Isn't it hard to work from home?（在家工作不容易吧？）、The agenda for today's meeting is on the screen.（今天会议的议程在屏幕上。）。
+
+词表里有科技词汇（charger, headphones, on mute）和天气词汇（icy, rainy, thunder, sunset）。你可以练习：I hid the charger—oops! / It's hidden behind the desk. / Hopefully the speed will improve. / A couple of people are working from home.
+
+on mute 表示"静音状态"。figure out 表示"弄清楚、解决"。
+
 ## Tips
 
-"Agenda"（议程）是拉丁语"agendum"的复数形式，字面意思是"待办之事、需要被做的事"。这个词来自拉丁语动词"agere"（做、驱动）。有趣的是，agenda在拉丁语中本身就是复数，单数形式"agendum"反而极少使用。20世纪中期，agenda从政治和宗教会议用语扩展到了商业领域，成为每次会议必不可少的文件。如今我们说"hidden agenda"（隐藏的议程），暗指表面议题背后真正的目的。
+- **on mute / headphones** — 静音 / 耳机。搭配：You're on mute, put on mute, wear headphones。例句：You're on mute! / Please put your mic on mute. / I can't hear you—check your headphones. 注意 on mute 是会议常用语。
 
-"Thunder"（雷）是英语中最古老的词汇之一，来自古英语"þunor"，与北欧神话中的雷神Thor（托尔）直接相关。"Thursday"（星期四）就是"Thor's day"——托尔之日。在日耳曼民族的神话中，托尔驾驶战车穿越天空，车轮滚过云层便发出雷鸣。英语中"thunder"、德语中"Donner"、拉丁语中"tonare"都源自同一个原始印欧语词根"ten-"（延伸、轰鸣），反映了远古人类对雷声的共同敬畏。
+- **figure / figure out** — 弄清楚。搭配：figure out the problem, figure it out。例句：Let me figure out what's wrong. / I can't figure out this app. 注意 figure out = solve / understand。
 
-"Headphones"（耳机）的历史可以追溯到1910年，犹他州发明家Nathaniel Baldwin在自家厨房里手工制造了第一副现代耳机，并卖给了美国海军。有趣的是，他拒绝了海军预付货款的提议，坚持"一手交钱一手交货"。而"charger"（充电器）中的"charge"来自拉丁语"carricare"（装载马车），原意是"往车上装货"。给手机充电，字面上就是"往电池这辆小车上装能量"。
+- **charger / speed** — 充电器 / 速度。搭配：a phone charger, plug in the charger, internet speed。例句：Where's my charger? / The internet speed is slow. 注意 charger 是"充电器"，charge 是"充电"。
 
-"Season"（季节）来自拉丁语"satio"（播种），最初专指"播种的时节"。古罗马农民的生活完全围绕播种和收获展开，"season"因此成为时间流转的标志。英语中"season"后来扩展为任何一段特定时期——"football season"（足球赛季）、"holiday season"（假日季）。"Sunset"（日落）则是纯粹的日耳曼复合词："sun"（太阳）+"set"（落下），古英语写作"sunnan setgang"，意为"太阳的沉落之路"。
+- **isn't it / aren't** — 不是吗 / 不是（复数）。搭配：Isn't it...? / Aren't you...?（反问句）。例句：Isn't it hard to work from home? / Aren't you on mute? 注意反问句用于确认或表示惊讶。
 
-"On mute"（静音）是现代科技会议的标志性表达。"Mute"来自拉丁语"mutus"（哑的），在古罗马戏剧中，"mutus"指那些没有台词的哑剧演员。2020年全球疫情让"you're on mute"成为无数视频会议中的经典台词，这句拉丁语后裔就这样意外地成为了21世纪最常被说出的短语之一。
+- **from home / agenda** — 在家 / 议程。搭配：work from home, the meeting agenda, on the agenda。例句：I work from home on Fridays. / What's on the agenda today? 注意 work from home 常缩写为 WFH。
 
-- "Figure"（弄清楚）作动词时来自拉丁语"figura"（形状），"figure out"就是"把模糊的事物勾勒出形状来"。
-- "Hopefully"（希望如此）在语法上长期存在争议——传统派认为它只能修饰动词，不能修饰整个句子，但日常用法早已突破这一限制。
-- "Icy"（结冰的）来自古英语"īs"（冰），与德语"Eis"同源。"Iceberg"（冰山）则是英语"ice"+荷兰语"berg"（山）的混合词。
-- "Outfit"（全套服装）中"out"表示"完全"，"fit"表示"装备"——原意是"完全装备好"，最初用于军事远征的全套装备。
-- "Cool"（酷的）从温度词变成赞美词，始于1940年代美国爵士乐手，他们用"cool"形容即兴演奏中那种从容不迫的风格。
+- **hid / hidden / hide** — 藏了 / 隐藏的 / 藏。搭配：hid the charger, hidden files, hide something。例句：I hid the charger by accident. / The file is hidden. / Don't hide the problem! 注意 hide → hid → hidden。
+
+- **hopefully / cool / couple** — 希望 / 酷 / 几个。搭配：Hopefully it works, That's cool, a couple of。例句：Hopefully the meeting goes well. / That's a cool outfit. / A couple of people are late. 注意 a couple of = 两三个。
+
+- **icy / rainy / thunder** — 结冰的 / 多雨的 / 雷。搭配：icy roads, a rainy day, thunder and lightning。例句：The roads are icy today. / It's a rainy season. / I heard thunder. 注意这些是天气相关词汇。
+
+- **sunset / season** — 日落 / 季节。搭配：at sunset, the rainy season, my favorite season。例句：The sunset was beautiful. / It's the rainy season. 注意 sunset 前加 the。
+
+- **outfit / too / first** — 穿搭 / 也 / 首先。搭配：a nice outfit, me too, first of all。例句：I like your outfit! / I'm working from home too. / First, let's check the agenda. 注意 outfit = 一套衣服/穿搭。
+
+- **hard / cool / too** — 困难 / 酷 / 太。搭配：too hard, too slow, really cool。例句：The internet is too slow. / This problem is hard. / Your headphones are cool. 注意 too 可表示"也"或"太"。
+
+- **meeting / season / speed** — 会议 / 季节 / 速度。搭配：a team meeting, this season, high speed。例句：The meeting starts in five minutes. / Winter is my favorite season. / The speed is too slow.
+

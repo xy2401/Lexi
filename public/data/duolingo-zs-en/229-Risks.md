@@ -6,17 +6,38 @@
 
 careful, consequence, don't you dare, edge, embarrass, fire, from now on, get, get away with, get in trouble, get yourself, glass, grounded, kill, lesson, no offense, none of your business, out of nowhere, risk, sharp, stand back, stubborn, to make matters worse, trust, turn around
 
+## 单元讲解
+
+本单元围绕"劝告不要做危险的事"展开，语气偏向警告和责备。词表里有危险与后果词汇（risk, consequence, edge, sharp, fire, glass, kill），有"惹麻烦"的表达（get in trouble, get away with, get yourself, grounded），也有口语中的警告和态度表达（don't you dare, stand back, no offense, none of your business, from now on, to make matters worse）。你可以用这些词发出警告：Don't you dare stand on the edge! / Be careful—that glass is sharp. / If you get in trouble, you're grounded from now on. / To make matters worse, the fire started out of nowhere. / Trust me, the consequences aren't worth the risk.
+
+这里值得注意 don't you dare 的强烈语气——它不是普通的"别"，而是"你敢试试！"，带有威胁和愤怒。get away with 表示"做了坏事却没受惩罚"：You won't get away with this. grounded 是家长对孩子的惩罚——"禁足"。
+
+学完本单元，你可以用英语发出强烈警告、描述危险后果、表达责备，并使用地道的口语态度表达。
+
 ## Tips
 
-"Risk"可能来自阿拉伯语"rizq"（命运给予的份额），经由意大利语"risico"进入英语。中世纪意大利商人用"risico"描述海上贸易的不确定性——一艘装满香料的商船可能遭遇风暴、海盗或疾病，血本无归。另一种说法是它来自希腊语"rhiza"（悬崖），暗示"站在悬崖边"的危险感。无论哪种词源，risk都指向同一个核心：面对未知的勇气与代价。
+- **don't you dare** — "你敢！"——非常强烈的警告/禁止。搭配：Don't you dare + 动词原形。Don't you dare touch that! 比 Don't 强烈得多，带有愤怒和威胁。注意语气：这不是礼貌的请求，是命令。
 
-"Consequence"来自拉丁语"consequentia"（跟随其后），由"con-"（一起）和"sequi"（跟随）构成。后果就是"紧跟在行为之后"的东西。这个概念在哲学中至关重要——功利主义伦理学（边沁、密尔）认为，判断一个行为对错的标准就是看它的consequences。而在日常英语中，"face the consequences"（面对后果）是父母对孩子、老师对学生最常用的警告之一。
+- **get away with** — 做了（坏事）却没受惩罚、逃脱处罚。搭配：get away with sth, get away with doing。You think you can get away with breaking the glass? 注意 get away with 后接名词或 doing。
 
-"Grounded"（被禁足的）来自航空术语。飞行员因天气或机械故障被"grounded"（停飞），脚必须留在"ground"（地面）上。20世纪中叶，美国父母借用了这个词来描述对孩子的惩罚——"You're grounded!"意味着你被"停飞"了，不能出门、不能见朋友。这个比喻非常生动：孩子就像一架被禁止起飞的飞机，只能老老实实待在地面上。
+- **get in trouble / grounded** — get in trouble = 惹上麻烦，grounded = 被禁足（家长惩罚）。搭配：get in trouble with, be grounded for a week。If you get in trouble, you're grounded. grounded 来自 ground（地面）→ 不许出门，只能待在地上/家里。
 
-"Stubborn"来自古英语"stybborn"，可能与"stybb"（树桩）有关——像树桩一样扎在土里，怎么拉都拉不动。英语文化中对stubborn的态度是矛盾的：一方面，它是缺点（不听劝告）；另一方面，它也是美德（坚持不懈）。丘吉尔在二战中的"stubborn"被视为拯救了英国，而日常生活中的stubborn则往往导致"to make matters worse"（使事情更糟）。
+- **to make matters worse** — 更糟糕的是、雪上加霜。搭配：to make matters worse, ...。I lost my phone, and to make matters worse, it started raining. 用于在已经不好的情况上叠加更坏的事。
 
-- "don't you dare"是非常强烈的警告/禁止语气，通常用于父母对孩子或亲密关系中
-- "get away with"意为"做了坏事却没被惩罚"：He got away with cheating on the exam
-- "none of your business"语气很冲，礼貌的替代说法是"I'd rather not discuss it"
-- "out of nowhere"意为"突然、毫无预兆"，常用于描述意外事件
+- **out of nowhere** — 突然、毫无征兆地。搭配：out of nowhere, come out of nowhere。The car appeared out of nowhere. 比 suddenly 更有画面感，强调"完全没预料到"。
+
+- **no offense / none of your business** — no offense = 无意冒犯（但接下来要说的话可能冒犯），none of your business = 不关你的事。搭配：No offense, but... / It's none of your business. 注意 no offense 后面通常跟一句可能得罪人的话。
+
+- **stand back / turn around** — stand back = 退后、站远点，turn around = 转身。搭配：Stand back! / Turn around slowly. Stand back from the edge! 这两个都是紧急指令中常用的短语。
+
+- **consequence / lesson** — consequence 是后果（通常负面的），lesson 是教训。搭配：face the consequences, learn a lesson, teach sb a lesson。Every risk has consequences. / Let this be a lesson to you. 注意 consequence 比 result 更强调负面后果。
+
+- **stubborn** — 固执的、倔强的。搭配：be stubborn, stubborn as a mule。Don't be so stubborn—listen to the warning! 注意 stubborn 是贬义偏多，但有时也含"坚持"的正面意味。
+
+- **sharp / edge / glass** — sharp 是锋利的，edge 是边缘，glass 是玻璃。搭配：a sharp edge, broken glass, the edge of a cliff。Be careful—the broken glass is sharp. / Don't stand on the edge. 注意 edge 既可指物理边缘也可比喻"极限"：on the edge。
+
+- **trust** — 相信、信任。搭配：trust me, trust sb to do, trust that。Trust me, you don't want to take that risk. 注意 trust 和 believe 的区别：trust 强调对人的信赖，believe 强调相信某事为真。
+
+- **from now on** — 从今以后。搭配：from now on, ...。From now on, no more risks. 比 from today 更正式、更有"下定决心"的意味。类似：from this day forward。
+
+- **embarrass / kill** — embarrass 是使尴尬，kill 是杀死。搭配：embarrass yourself, kill time。You'll embarrass yourself! / The risk could kill you. 注意 kill 在口语中也可夸张使用：This homework is killing me.

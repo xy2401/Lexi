@@ -6,18 +6,28 @@
 
 back seat, been, brake, car wash, flat tire, front seat, gas station, has, have been, have not been, haven't been, headlight, insurance, oil change, rental car, repair, roll down, roll up, sidewalk, tank, trunk, turn signal, windshield
 
+## 单元讲解
+
+本单元的场景是"在加油站寻求帮助"。你可以描述车辆问题和需求：I've been driving all day and I haven't been to a gas station yet. I need an oil change, and I think I have a flat tire. Can you repair it?（我开了一整天车，还没去过加油站。我需要换机油，而且我觉得有个轮胎瘪了。能修一下吗？）The windshield is dirty—could you roll down the window so I can clean it? Also, where's the car wash?（挡风玻璃脏了——能把车窗摇下来让我擦一下吗？另外，洗车房在哪？）
+
+词表里有大量汽车部件词汇：brake, headlight, windshield, trunk, tank, turn signal, flat tire。也有服务类：gas station, car wash, oil change, repair, insurance, rental car。位置词：front seat, back seat, sidewalk。
+
+have been / have not been / haven't been / has / been 构成现在完成时，描述"去过/没去过"的经历：I haven't been to this gas station before. Has the car been repaired? roll down / roll up 是摇下/摇上车窗的固定搭配。
+
 ## Tips
 
-"Automobile"本身就是一个跨语言的混血词：希腊语前缀"auto-"（自己）加上拉丁语"mobilis"（可移动的），字面意思是"自己会动的（车）"。19世纪末汽车刚出现时，人们还叫它"horseless carriage"（无马马车）。"Gas station"（加油站）是美国公路文化的标志——在66号公路的黄金年代，每隔几英里就有一个加油站，它们不仅是加油的地方，更是旅人歇脚、问路的社交节点。
+- **flat tire / brake / headlight / windshield** — flat tire = 爆胎/瘪胎（flat = 平的，轮胎没气了）。brake = 刹车（名词/动词）：hit the brakes! headlight = 前灯（head + light）。windshield = 挡风玻璃（wind + shield，shield = 盾牌）。
 
-"Trunk"（后备箱）这个词的来源颇为有趣。在汽车出现之前，人们旅行时把行李放在马车后面绑着的"trunk"（大箱子）里。当汽车取代了马车，那个储物空间就沿用了"trunk"这个名字。英式英语中则用"boot"，来自马车夫坐的那个"boot"（靴子形座位）。"Windshield"（挡风玻璃）由"wind"（风）和"shield"（盾牌）组成——它确实就是一面抵御风的盾牌。
+- **trunk / tank / turn signal** — trunk = 后备箱（英式英语用 boot）。tank = 油箱（gas tank / fuel tank）。turn signal = 转向灯（也叫 blinker，口语中更常用）。
 
-"Insurance"（保险）来自拉丁语"securus"（安全的），经由古法语"asseurer"（使确信）演变而来。世界上第一份汽车保险出现在1897年的英国，由一家名为"Law Accident Insurance Society"的公司签发。"Flat tire"（爆胎、瘪胎）中的"flat"形象地描述了轮胎漏气后"变平"的状态。
+- **roll down / roll up** — roll down = 摇下（车窗）：Roll down the window. roll up = 摇上：Roll up the window. 这里 roll 表示"滚动"，因为老式车窗是摇把驱动的，虽然现代车是电动的，表达不变。
 
-"Roll down"和"roll up"描述车窗的升降——这个表达来自早期汽车中手动摇窗的曲柄（crank），你需要"roll"（转动）把手来升降玻璃。虽然今天的车窗都是电动的，但"roll down the window"这个说法保留了下来，成为语言化石。"Headlight"（前灯）由"head"（头部）和"light"（光）组成，因为灯装在车的"头部"。
+- **gas station / car wash / oil change** — gas station = 加油站（英式：petrol station）。car wash = 洗车（服务或场所）。oil change = 换机油。这些都是汽车保养的高频搭配。
 
-- "Have been to"表示"去过（已回来）"，"have gone to"表示"去了（还没回来）"，这是经典易混点。
-- "Tank"原意是"水箱、容器"，在加油站语境中指"油箱"：Fill up the tank, please.
-- "Turn signal"（转向灯）在英式英语中叫"indicator"，美式英语也叫"blinker"。
-- "Rental car"在英式英语中是"hire car"，"rent"和"hire"在英美之间有微妙差异。
-- "Brake"（刹车）和"break"（打破）发音完全相同，注意拼写区分。
+- **have been / haven't been / has** — have been to = 去过（已完成）：I've been to that station. haven't been = have not been（缩写形式）。has 用于第三人称单数：Has the car been fixed? 注意 have been to（去过已回）vs have gone to（去了未回）。
+
+- **rental car / insurance / repair** — rental car = 租车（= hire car 英式）。insurance = 保险：car insurance. repair = 修理（比 fix 更正式）：The repair took two hours.
+
+- **front seat / back seat / sidewalk** — front seat = 前排座位。back seat = 后排座位。sidewalk = 人行道（英式：pavement）。注意 shotgun! 是口语中抢坐前排的说法。
+
+- **been** — be 的过去分词。在完成时中：I've been driving.（一直在开车。）也可表经历：Have you been to a car wash? 注意 been 的发音：/bɪn/（弱读）或 /biːn/（强读）。

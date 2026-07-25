@@ -6,20 +6,37 @@
 
 allowed, among, ancient, ant, beauty, because, butterfly, close, direction, dusty, gentle, get, mosquito, natural, nowhere, outdoor, peak, pile, shape, silent, somewhere else, stick, underneath, valley
 
+## 单元讲解
+
+本单元围绕"询问正确的方向"展开，以徒步旅行为场景。核心是方向和自然描述：Which direction should we go? We need to get to the peak before dark.（我们该往哪个方向走？天黑前得到山顶。）、The valley underneath is full of natural beauty.（下面的山谷充满了自然之美。）、We're not allowed to go anywhere else because of the mosquitoes.（因为蚊子，我们不允许去别的地方。）、Among the ancient trees, I saw a butterfly and a tiny ant.（在古树之间，我看到了一只蝴蝶和一只小蚂蚁。）。
+
+词表里有自然词汇（peak, valley, butterfly, mosquito）和方位词（underneath, among, direction, nowhere）。你可以练习：The path is dusty. / The wind is gentle. / Walk silently. / There's a pile of sticks.
+
+because 引导原因状语从句。among 表示"在…之间（三者以上）"。
+
 ## Tips
 
-"Hiking"（徒步旅行）这个词的历史比这项活动本身年轻得多。"Hike"可能来自19世纪初的英国方言"hyke"（用力走），但徒步作为一种休闲活动，要到19世纪浪漫主义运动兴起后才流行。华兹华斯、柯勒律治等湖畔诗人穿着粗布衣服在英格兰湖区跋涉，把"在自然中行走"提升为一种精神修行。在此之前，步行是穷人的交通方式，富人骑马或坐马车——浪漫主义者颠覆了这一观念。
+- **direction / peak / valley** — 方向 / 山顶 / 山谷。搭配：the right direction, reach the peak, a deep valley。例句：Which direction is the peak? / We reached the peak at noon. / The valley is beautiful. 注意 direction 常与 in/which 搭配。
 
-"Butterfly"（蝴蝶）的词源是英语中最迷人的谜团之一。古英语写作"buttorflēoge"（黄油飞虫），最流行的解释是：一种常见的黄粉蝶（brimstone butterfly）翅膀呈淡黄色，像黄油的颜色；另一种说法是古英语农民认为蝴蝶会偷牛奶中的黄油。"Mosquito"（蚊子）则来自西班牙语"mosca"（苍蝇）的指小词"-ito"，字面意思是"小苍蝇"。16世纪西班牙殖民者在热带美洲被蚊虫叮咬得苦不堪言，给这种小虫起了这个带着无奈的名字。
+- **among / underneath / somewhere else** — 在…之间 / 在下面 / 别处。搭配：among the trees, underneath the rock, go somewhere else。例句：The path is among the pines. / Look underneath the log. / Let's go somewhere else. 注意 among 用于三者或以上之间。
 
-"Valley"（山谷）来自古法语"valée"，最终源自拉丁语"vallis"（谷地）。人类文明几乎都诞生在山谷中——美索不达米亚的两河流域、埃及的尼罗河谷、中国的黄河河谷。山谷提供水源、 shelter（庇护）和肥沃的土壤。"Peak"（山峰）来自古英语"pēac"（尖顶），与"pike"（长矛）同源——山峰就是大地刺向天空的"长矛尖"。"Ancient"（古老的）来自拉丁语"ante"（在……之前），古老就是"在我们之前"的存在。
+- **ancient / natural / beauty** — 古老的 / 自然的 / 美。搭配：ancient ruins, natural beauty, the beauty of nature。例句：These are ancient trees. / The natural scenery is stunning. / What beauty! 注意 ancient 比 old 更古老。
 
-"Direction"（方向）来自拉丁语"dirigere"（排成直线），由"dis-"（分开）+"regere"（引导、统治）构成。古罗马人用"direction"来描述军团的列阵——把士兵"排成直线"。"Regere"也是"rex"（国王）和"right"（正确的）的词根——在古罗马人看来，"正确的方向"就是"国王指引的方向"。"Underneath"（在……下面）由"under"（下面）+"neath"（低处）构成，"neath"来自古英语"neoþan"（在下方），是一个已经消失的古词的残留。
+- **butterfly / ant / mosquito** — 蝴蝶 / 蚂蚁 / 蚊子。搭配：a butterfly, an ant colony, mosquito bites。例句：A butterfly landed on my hand. / Ants are everywhere. / The mosquitoes are terrible! 注意 mosquito 复数是 mosquitoes。
 
-"Silent"（寂静的）来自拉丁语"silere"（安静）。在徒步旅行中，silence不是空洞的无声，而是充满了自然的声音——风穿过树叶、溪水撞击石头、远处鸟鸣。"Beauty"（美）来自古法语"beauté"，最终源自拉丁语"bellus"（漂亮的），与"bonus"（好的）同源——在古人的观念中，"美"和"善"是同一件事。"Natural"（自然的）来自拉丁语"natura"（出生、天性），词根是"nasci"（出生）——自然就是"与生俱来的"，不是人造的。
+- **allowed / because / nowhere** — 被允许 / 因为 / 无处。搭配：be allowed to, because of, nowhere to go。例句：We're not allowed to camp here. / Because of rain, we stayed. / There's nowhere to rest. 注意 be allowed to do = 被允许做。
 
-- "Ant"（蚂蚁）来自古英语"ǣmete"，与德语"Ameise"同源。蚂蚁是社会性昆虫的典范，一个蚁群可以被视为一个"超个体"。
-- "Among"（在……之间）来自古英语"on gemang"（在群体中），用于三个或以上事物之间；"between"用于两者之间。
-- "Dusty"（多尘的）中"dust"来自古英语"dūst"，与荷兰语"duist"（面粉灰尘）同源——徒步路上扬起的尘土，是大地最朴素的馈赠。
-- "Stick"（树枝/棍子）来自古英语"sticca"（小木桩），与"stitch"（缝针）同源——都是"尖尖的细长物"。徒步者的手杖（walking stick）是最古老的户外装备之一。
-- "Because"（因为）由"by"（通过）+"cause"（原因）构成，字面意思是"通过某个原因"——解释方向时，because是你给出理由的桥梁。
+- **dusty / gentle / silent** — 灰尘多的 / 轻柔的 / 安静的。搭配：a dusty trail, a gentle breeze, keep silent。例句：The road is dusty. / A gentle wind blew. / Please be silent. 注意 silent = quiet（更正式）。
+
+- **get / close / stick** — 到达 / 靠近 / 棍子。搭配：get to the top, close to, a walking stick。例句：How do we get to the peak? / Stay close to me. / Use a stick for support. 注意 get to = arrive at。
+
+- **outdoor / shape / pile** — 户外的 / 形状 / 一堆。搭配：outdoor activities, in the shape of, a pile of rocks。例句：I love outdoor sports. / The lake is in the shape of a heart. / There's a pile of leaves. 注意 outdoor 是形容词（outdoors 是副词）。
+
+- **nowhere / somewhere else / direction** — 无处 / 别处 / 方向。搭配：nowhere to be found, go somewhere else, in the right direction。例句：The map is nowhere to be found. / Let's try somewhere else. / We're going in the wrong direction. 注意 nowhere = not anywhere。
+
+- **natural / ancient / beauty** — 自然 / 古老 / 美。搭配：a natural park, ancient history, natural beauty。例句：This is a natural reserve. / The temple is ancient. / The beauty took my breath away. 注意 natural 的反义是 artificial。
+
+- **underneath / among / close** — 下面 / 之间 / 靠近。搭配：underneath the bridge, among friends, close by。例句：The river runs underneath the bridge. / I felt at home among friends. / The campsite is close by. 注意 underneath 比 under 更强调"正下方"。
+
+- **mosquito / butterfly / ant** — 蚊子 / 蝴蝶 / 蚂蚁。搭配：mosquito repellent, a colorful butterfly, an ant hill。例句：Bring mosquito repellent. / The butterfly was orange. / Don't step on the ants. 注意这些是户外常见昆虫。
+

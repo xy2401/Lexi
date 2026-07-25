@@ -6,20 +6,37 @@
 
 arrival, continent, extra, fare, farther, farthest, for the first time, homesick, land, laundry, let, like best, much, nearby, on the other hand, over there, passport control, patio, public transportation, reserve, shuttle, solo, traveler, unpack
 
+## 单元讲解
+
+本单元围绕"比较旅行经历"展开。核心是独自旅行表达：I traveled solo for the first time.（我第一次独自旅行。）、On the other hand, I felt homesick.（但另一方面，我想家了。）、I had to go through passport control and reserve a shuttle.（我得过海关然后预约接驳车。）、Which continent did you like best?（你最喜欢哪个大洲？）。
+
+词表里有旅行词汇（solo, traveler, fare, shuttle, reserve）和机场词汇（passport control, arrival, land）。你可以练习：The hotel is nearby—just over there. / I need to do laundry. / The fare was much more than I expected. / Let me unpack first.
+
+on the other hand 表示"另一方面"（用于对比）。farther / farthest 是 far 的比较级/最高级。
+
 ## Tips
 
-"solo"（独自的）来自意大利语"solo"（单独的），源自拉丁语"solus"（唯一的）。"solo travel"（独自旅行）作为一种文化现象在21世纪爆发式增长——从背包客到数字游民，越来越多人选择独自上路。"traveler"（旅行者）来自古法语"travailler"（劳作），而"travailler"可能来自拉丁语"tripalium"（三根木桩组成的刑具）——"旅行"的词源竟与"折磨"有关，反映了古代旅途的艰辛。
+- **solo / traveler** — 独自 / 旅行者。搭配：travel solo, a solo trip, a solo traveler。例句：I traveled solo for the first time. / She's a solo traveler. 注意 solo 可作形容词或副词。
 
-"passport control"（护照检查）是现代民族国家体系的产物。"passport"来自法语"passe-port"（通过港口），原指允许通过港口或城门的通行证。中世纪的"passport"是国王签发的安全通行证，持有者可在王国境内自由通行。一战前，欧洲人跨国旅行基本不需要护照；一战期间各国才普遍引入护照制度，这一"临时措施"延续至今。
+- **on the other hand** — 另一方面。搭配：On the one hand... On the other hand...。例句：On the one hand, I loved the freedom. On the other hand, I felt lonely. 注意用于对比两个不同方面。
 
-"continent"（大洲）来自拉丁语"continens"（连续的），原意是"连续的土地"——大洲就是"一片连续的大陆"。"homesick"（想家的）由"home"（家）和"sick"（生病的）组成，这个词在18世纪才出现，反映了远离故土的情感痛苦。"shuttle"（穿梭巴士）来自古英语"scytel"（飞镖），原指织布机上的"梭子"——来回穿梭的动作被引申为"往返交通"。
+- **passport control / arrival** — 海关 / 到达。搭配：go through passport control, at passport control, arrival time。例句：We waited an hour at passport control. / What's the arrival time? 注意 passport control = immigration。
 
-"laundry"（洗衣）来自拉丁语"lavare"（洗），与"lava"（熔岩，即"被水冲刷的"）同源。在旅途中找"laundry"是背包客的日常挑战。"unpack"（ unpack）由"un-"（反向）+"pack"（打包）组成，是旅行结束时的仪式性动作。"reserve"（预订）来自拉丁语"reservare"（保留），由"re-"（回）+"servare"（保存）组成——预订就是"为你保留"。
+- **reserve / shuttle / fare** — 预订 / 接驳车 / 费用。搭配：reserve a room, take the shuttle, the bus fare。例句：I reserved a shuttle to the hotel. / The fare was expensive. 注意 reserve = book（预订）。
 
-"public transportation"（公共交通）和"fare"（票价）是城市旅行的基本词汇。"farther"（更远的）和"farthest"（最远的）是"far"的比较级和最高级。"for the first time"（第一次）是旅行叙事中最动人的短语——每一次"第一次"都是生命版图的扩展。"on the other hand"（另一方面）则提醒我们，旅行总是充满对比和选择。
+- **farther / farthest** — 更远 / 最远。搭配：farther than, the farthest, go farther。例句：This city is farther than I thought. / It's the farthest I've ever traveled. 注意 farther 指物理距离，further 还可指"进一步"。
 
-- "arrival"（到达）来自古法语"ariver"（靠岸），由"ad-"（朝向）+"ripa"（河岸）组成——"到达"的原始意象是"船靠岸"。
-- "patio"（露台）来自西班牙语，源自拉丁语"patere"（敞开）——露台就是"敞开的空间"。西班牙和拉丁美洲的建筑中，patio是核心社交空间。
-- "nearby"（附近的）由"near"（近的）+"by"（在旁边）组成。在旅行中，"Is there a laundry nearby?"是最实用的问句之一。
-- "let"（让）来自古英语"lǣtan"（允许、留下），与"late"（迟的）有远古联系——"let"原意是"使...慢下来/停留"。
-- "much"（很多）来自古英语"mycel"（大的），与"mickle"（大量的，古语）同源。"much"在旅行中常用于问路："How much is the fare?"（票价多少？）
+- **homesick / for the first time** — 想家 / 第一次。搭配：feel homesick, get homesick, for the first time。例句：I felt homesick on my solo trip. / I flew solo for the first time. 注意 homesick = 想家的。
+
+- **public transportation / nearby** — 公共交通 / 附近。搭配：take public transportation, nearby, a nearby station。例句：I used public transportation. / The station is nearby. 注意 public transportation 是美式（英式 public transport）。
+
+- **unpack / laundry / let** — 拆行李 / 洗衣 / 让。搭配：unpack my bag, do laundry, Let me unpack。例句：Let me unpack first. / I need to do laundry. / Let me help you. 注意 do laundry = 洗衣服。
+
+- **continent / land** — 大洲 / 着陆（陆地）。搭配：a new continent, the plane landed, on land。例句：I've visited three continents. / The plane landed at noon. 注意 land 既是名词（陆地）也是动词（着陆）。
+
+- **like best / much** — 最喜欢 / 很多。搭配：Which do you like best? / much more, too much。例句：Which continent did you like best? / It was much better than I expected. 注意 like best = 最喜欢。
+
+- **over there / patio** — 在那边 / 露台。搭配：over there, a patio, on the patio。例句：The hotel is over there. / Let's sit on the patio. 注意 over there 表示"在那边"（较远的地方）。
+
+- **extra / let / traveler** — 额外的 / 让 / 旅客。搭配：extra money, extra time, Let me...。例句：I paid extra for the room. / Let me check my bag. / Every traveler needs a plan.
+

@@ -6,17 +6,37 @@
 
 arrest, attack, bomb, call the police, certain, commit, emergency, file, glad, innocent, luckily, mask, nine-one-one, police report, protect, robbery, search for, take place, thief, thieves, truck, unknown, worn
 
+## 单元讲解
+
+本单元围绕"描述一次抢劫"展开。核心是犯罪和报警表达：A robbery took place at the bank—a thief wearing a mask stole money and escaped in a truck.（银行发生了一起抢劫——一个戴面具的小偷偷了钱，坐卡车逃跑了。）、Call the police! Dial nine-one-one! It's an emergency!（报警！打911！这是紧急情况！）、Luckily, the police arrested the thieves and filed a report.（幸运的是，警察逮捕了那些小偷并立了案。）、I'm glad the innocent people were protected—the attacker was wearing a mask.（我很高兴无辜的人受到了保护——袭击者戴着面具。）。
+
+词表里有犯罪词汇（robbery, thief, arrest, commit）和报警词汇（emergency, nine-one-one, police report）。你可以练习：The bomb was found. / Search for the suspect. / He committed a crime. / The thief wore a mask.
+
+thief → thieves（复数变化）。take place = happen。
+
 ## Tips
 
-"Crime"（犯罪）来自拉丁语"crimen"，最初含义是"指控"而非"罪行"本身。在古罗马法庭中，"crimen"是原告对被告的正式控诉——一个人只有在被公开指控后才成为"criminal"。这个语义起点揭示了法律文明的核心原则：没有指控，就没有犯罪。"Innocent"（无辜的）来自拉丁语"innocens"，由"in-"（不）和"nocere"（伤害）组成——无辜者就是"未曾伤害他人的人"。"Nocent"（有害的）在英语中已消亡，但它的否定形式"innocent"存活了下来。
+- **robbery / thief / thieves** — 抢劫 / 小偷 / 小偷们。搭配：a bank robbery, a thief, a group of thieves。例句：There was a robbery last night. / The thief ran away. / The thieves were caught. 注意 thief → thieves（f → ves）。
 
-"Robbery"（抢劫）来自古法语"roberie"，而"rober"（抢劫）来自日耳曼语"raub"（掠夺）。在封建时代，"robbery"特指以暴力夺取他人财物的行为，与"theft"（盗窃，秘密进行）有严格区分。"Thief"（小偷）来自古英语"þēof"，是英语中最古老的日耳曼词汇之一。有趣的是，"thief"的复数"thieves"经历了"th"到"v"的语音变化，这是中古英语时期元音变音（i-mutation）的遗迹。
+- **arrest / commit / protect** — 逮捕 / 犯（罪）/ 保护。搭配：arrest a suspect, commit a crime, protect the public。例句：Police arrested the man. / He committed robbery. / We must protect citizens. 注意 commit a crime = 犯罪。
 
-"Arrest"（逮捕）来自古法语"arester"（使停止），由拉丁语"ad-"（向）和"restare"（停留）组成。逮捕的字面意义是"使某人停下来"——剥夺其移动的自由。中世纪的"arrest"不仅用于人，也用于货物：海关可以"arrest"一批可疑的货物。"Mask"（面具）来自意大利语"maschera"，可能源自阿拉伯语"maskhara"（小丑）。在狂欢节传统中，面具让人暂时摆脱社会身份；在犯罪中，面具则让人逃避法律身份。
+- **call the police / nine-one-one / emergency** — 报警 / 911 / 紧急情况。搭配：call the police, dial 911, an emergency。例句：Call the police immediately! / Dial nine-one-one. / This is an emergency! 注意 911 是美国报警电话。
 
-"Nine-one-one"（911）是美国紧急电话号码，1968年首次启用。选择这三个数字是因为它们在当时尚未被用作区号，且容易在旋转拨号盘上快速拨出。"Emergency"（紧急情况）来自拉丁语"emergere"（浮出水面），由"e-"（向外）和"mergere"（沉入）组成——紧急情况是"从平静水面下突然浮出"的事件。
+- **mask / worn / unknown** — 面具 / 戴着 / 未知的。搭配：wear a mask, worn a disguise, an unknown person。例句：The robber wore a mask. / He'd worn gloves. / The suspect is unknown. 注意 wear → wore → worn。
 
-- "Commit a crime"中的"commit"来自拉丁语"committere"（委托、交付），暗示犯罪是"将自己交付给一个行为"——一种不可撤回的承诺。
-- "Take place"（发生）字面意思是"占据一个位置"——事件在时间和空间中"找到了自己的位置"。
-- "Worn"是"wear"的过去分词，描述面具"被戴着"的状态：a mask worn by the thief（小偷戴着的面具）。
-- "File a police report"中的"file"来自拉丁语"filum"（线），古代文件用线串在一起——"file"就是把报告"串入"官方记录。
+- **innocent / glad / luckily** — 无辜的 / 高兴 / 幸运地。搭配：an innocent person, I'm glad, luckily。例句：The innocent man was freed. / I'm glad everyone is safe. / Luckily, no one was hurt. 注意 innocent 的反义是 guilty。
+
+- **police report / file / search for** — 报警记录 / 立案 / 搜索。搭配：file a police report, file a complaint, search for evidence。例句：I filed a police report. / They filed the case. / Police searched for the thief. 注意 file a report = 报案。
+
+- **attack / bomb / take place** — 袭击 / 炸弹 / 发生。搭配：an attack, plant a bomb, take place。例句：There was an attack downtown. / They found a bomb. / The robbery took place at noon. 注意 take place = happen（更正式）。
+
+- **truck / certain / protect** — 卡车 / 确定的 / 保护。搭配：a getaway truck, a certain person, protect from。例句：They escaped in a truck. / I'm certain it was him. / Protect yourself. 注意 certain = sure。
+
+- **thief / thieves / robbery** — 小偷 / 小偷们 / 抢劫。搭配：a cat thief, a gang of thieves, an armed robbery。例句：The thief stole my wallet. / The thieves divided the money. / It was an armed robbery. 注意 armed robbery = 持械抢劫。
+
+- **emergency / call the police / arrest** — 紧急 / 报警 / 逮捕。搭配：in an emergency, call 911, under arrest。例句：In an emergency, call 911. / Someone called the police. / You're under arrest! 注意 under arrest = 被逮捕。
+
+- **mask / unknown / worn** — 面具 / 不明 / 穿过。搭配：a ski mask, an unknown caller, well-worn。例句：He hid behind a mask. / The caller was unknown. / His shoes were well-worn. 注意 worn 可形容"磨损的"。
+
+- **innocent / luckily / glad** — 无辜 / 幸好 / 高兴。搭配：prove innocent, luckily enough, glad to hear。例句：He was proven innocent. / Luckily, the police arrived fast. / I'm glad it's over. 注意 luckily 用于表达庆幸。
+

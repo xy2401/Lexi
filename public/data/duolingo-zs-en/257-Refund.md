@@ -6,18 +6,53 @@
 
 carefully, defective, everybody, full refund, guarantee, in need of, must i, must we, no good, nothing wrong with, policy, process, proof of purchase, refund, satisfaction, service, speak politely to, state, sticker, supervisor, their, unavailable, useless, waterproof
 
+## 单元讲解
+
+本单元的场景是"解释产品问题并寻求退款"——一场消费者和客服之间的对话。词表里有大量购物和投诉词汇：defective, refund, guarantee, proof of purchase, policy。你可以这样投诉：This product is defective—it's supposed to be waterproof, but it's no good. I'd like a full refund. I have the proof of purchase right here.（这个产品有缺陷—— supposedly 防水，但根本不行。我想要全额退款。购买凭证就在这里。）
+
+must I / must we 表达不情愿或质疑："我非得……吗？"speak politely to（礼貌对待）、supervisor（主管）、service（服务）是投诉场景的关键角色和态度词。nothing wrong with（没毛病）可能是客服的反驳。sticker（标签）和 state（说明/状态）涉及产品描述。
+
+学完本单元，你能用英语清晰描述产品缺陷，坚持自己的退款诉求，同时保持礼貌。
+
 ## Tips
 
-"Refund"（退款）来自拉丁语"refundere"，"re-"（回）+"fundere"（倾倒），字面意思是"倒回去"——把钱倒回你的口袋。"Fundere"也是"fund"（基金）和"foundry"（铸造厂）的词源——在铸造厂中，熔化的金属被"倒入"模具。退款就是把已经"浇出去"的钱重新"倒回来"。在古罗马商业法中，如果商品存在隐蔽缺陷（vitium occultum），买方有权要求解除交易——这是现代消费者保护法的远古源头。
+- **defective** — "有缺陷的、有毛病的"。a defective product / a defective part。比 broken 更精确，指"出厂就有问题"。名词 defect（缺陷）。注意 -tive 结尾。在投诉中比 faulty 更正式。
 
-"Guarantee"（保证）来自古法语"garantir"，与"warden"（守护者）和"guard"（守卫）同源，最终来自日耳曼语"warjan"（保护）。中世纪时，guarantee是一种法律担保——担保人（guarantor）用自己的财产为他人的承诺背书。如果承诺落空，担保人必须赔偿。19世纪末，美国邮购目录公司Sears Roebuck率先提出"不满意就退款"（satisfaction guaranteed or your money back），将guarantee从法律术语变成了营销口号，彻底改变了消费者与商家之间的权力关系。
+- **full refund** — "全额退款"。I want a full refund. / They offered a full refund. 比 refund 更明确，强调"一分不少"。partial refund = 部分退款。注意 refund 可作名词也可作动词。
 
-"Waterproof"（防水的）由"water"和"proof"（经得起考验的）组成。"Proof"来自拉丁语"probare"（测试），与"prove"（证明）同源。一个waterproof的物品就是"经得起水的考验"的物品。1823年，苏格兰化学家查尔斯·麦金托什发明了用橡胶溶液处理织物的方法，制造出第一件实用的防水雨衣——"mackintosh"（麦金托什雨衣）至今仍是英式英语中雨衣的代名词。"Defective"（有缺陷的）来自拉丁语"defectus"，"de-"（离开）+"facere"（做），字面意思是"没有做好"——产品偏离了它"应该成为"的样子。
+- **proof of purchase** — "购买凭证"，包括收据、发票等。搭配：show proof of purchase / keep your proof of purchase。比 receipt 更广义，receipt 只是其中一种。投诉必备短语。
 
-"Policy"（政策/规定）来自希腊语"politeia"（公民制度），经由古法语"police"进入英语。最初，policy和police是同一个词，都指"公共治理"。18世纪后两者分化：police专指执法机构，policy则指规则和方针。在商业语境中，"store policy"（商店规定）是商家与消费者之间的"社会契约"——它规定了什么可以退、什么不能退、需要什么proof of purchase（购买凭证）。"Supervisor"（主管）来自拉丁语"supervidere"，"super"（在上面）+"videre"（看），字面意思是"从上面看"——一个俯瞰全局的人。当顾客要求"see the supervisor"时，他们实际上是在呼唤一个"看得更高、权力更大"的裁决者。
+- **guarantee** — "保证、保修"。搭配：a money-back guarantee / under guarantee / guarantee satisfaction。动词：I guarantee it works. 比 warranty 更广义，warranty 常指书面保修单。
 
-- "Proof of purchase"（购买凭证）中的"proof"保留了古英语中"证据"的含义，收据就是"证明你买了"的证据。
-- "Full refund"（全额退款）中的"full"强调"完整的、不打折扣的"，是消费者维权时的核心诉求。
-- "Must I"和"must we"用反问语气表达不情愿，暗示"我真的非得这样做吗？"
-- "Sticker"（标签/贴纸）来自"stick"（粘贴），产品上的价格标签和保修贴纸都是sticker。
-- "Speak politely to"（礼貌地对...说话）提醒我们，即使在投诉和维权时，礼貌仍然是最有效的策略。
+- **policy** — "政策、规定"。搭配：store policy / return policy / company policy。在投诉中常听到：It's our policy. = 这是我们的规定。比 rule 更正式，指成文的制度。
+
+- **supervisor** — "主管、上司"。搭配：ask for a supervisor / speak to a supervisor。比 manager 层级略低或相近。在客服场景中，"叫你们主管来"是经典升级投诉话术。注意 -visor 结尾。
+
+- **speak politely to** — "礼貌对待"。Please speak politely to our staff. 比 be polite to 更具体，强调"说话方式"。在投诉场景中，客服常用来提醒顾客保持冷静。
+
+- **nothing wrong with** — "没毛病、没问题"。There's nothing wrong with the product. 客服常用句式，暗示"不是我们的问题"。比 It's fine 更正式。wrong 前不加 the。
+
+- **no good** — "不行、没用、质量差"。This phone is no good. / It's no good complaining. 比 bad 更口语，带有"达不到标准"的意味。注意 no good 是固定搭配，不说 not good（意思不同）。
+
+- **waterproof** — "防水的"。a waterproof jacket / a waterproof watch。-proof 后缀表示"防……的"：fireproof（防火）、bulletproof（防弹）。构词非常规律。
+
+- **useless** — "没用的、无用的"。This product is useless. / a useless guarantee。比 not useful 语气强得多，带有"完全没用、浪费钱"的不满。反义词 useful。注意 -less 后缀。
+
+- **process** — "流程、处理"。the refund process / process your return。作名词：a long process。作动词：We'll process it in 3 days. 注意名词重音在前 /ˈprɑːses/，动词重音在后 /prəˈses/。
+
+- **satisfaction** — "满意、满足"。搭配：customer satisfaction / satisfaction guaranteed。动词 satisfy。在投诉中：I'm not satisfied with the service. 注意 -tion 结尾。
+
+- **service** — "服务"。搭配：customer service / poor service / a service charge。在投诉中：Your service is terrible. 注意 service 不可数，不说 a service（除非指具体一项服务）。
+
+- **sticker** — "贴纸、标签"。a price sticker / a sticker on the box。来自动词 stick（粘贴）。在购物语境中，sticker 常指价格标签或促销贴。注意 -er 后缀表物。
+
+- **state** — 本单元中 likely 指"说明、陈述"。The label states it's waterproof. 比 say 更正式，常用于书面或官方描述。也可以指"状态"：in a bad state。一词多义，看语境。
+
+- **in need of** — "需要"。The product is in need of improvement. 比 need 更正式、更书面。搭配：be in need of + 名词。类似：in want of（更古老）。口语中直接说 need 更自然。
+
+- **must I / must we** — "我非得……吗"，表达不情愿或质疑。Must I wait here? / Must we go through this process? 比 Do I have to 更正式、更英式。带有"这有必要吗"的潜台词。
+
+- **unavailable** — "不可用的、没空的"。The manager is unavailable. / The item is unavailable。反义词 available。在客服场景中：Sorry, that product is unavailable. 注意 -able 结尾。
+
+- **carefully** — "仔细地、小心地"。Read the instructions carefully. / Handle carefully. 比 with care 更常用。形容词 careful。注意 -fully 结尾（careful + ly，l 不双写）。
+

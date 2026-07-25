@@ -6,18 +6,26 @@
 
 air conditioner, bucket, cupboard, dig, electrical, faucet, feet wide, fit, frame, gas, i would have, inches wide, light bulb, long, metal, pipe, tall, water, would have, would she have, would you have, would've
 
+## 单元讲解
+
+本单元围绕"建议某人该做什么"展开，场景是家居维修和房屋描述。词表里有家居设施（air conditioner, faucet, light bulb, cupboard, pipe, frame）和材料/尺寸词汇（metal, electrical, gas, water, feet wide, inches wide, long, tall）。
+
+你可以练习家居对话：The faucet doesn't work—would you have a bucket? / I would have called a plumber. / The pipe is two feet wide and three feet long. / Would she have a new light bulb? / Dig a hole for the frame.
+
+would have / would've 是"would + have + 过去分词"的缩写形式，可以表示对过去的假设（I would have helped.）或将来完成（By then, I would have finished.）。i would have, would she have, would you have 展示了不同主语的形式。
+
 ## Tips
 
-"Home"在英语文化中不仅是物理空间，更是情感归属的象征。英语谚语"Home is where the heart is"（心之所向即为家）道出了这种情感。"Cupboard"（橱柜）字面意思是"cup board"（放杯子的板），最初就是墙上的一块搁板，用来放杯子和碗碟。在莎士比亚时代，"cupboard"还指一种展示银器的家具——"cupboard love"（有所图的爱）这个习语就来自猫为了得到橱柜里的食物而假装亲热。
+- **would have / would've / i would have** — would have + 过去分词表"本来会……"（对过去的虚拟：I would have called, but I forgot.）。would've 是口语缩写 /ˈwʊdəv/。注意不要写成 would of（常见错误）。
 
-"Faucet"（水龙头）来自古法语"fausset"（塞子），原意是"桶上的出酒塞"。在自来水普及之前，人们从公共水井或河流取水；19世纪中叶，室内管道系统的普及让"faucet"成为每个家庭的标配。"Pipe"（管道）来自希腊语"pipa"（笛子），因为最早的管道是空心的芦苇或竹子，形状像笛子。"Light bulb"（灯泡）是爱迪生1879年的发明（实际上他改进了前人的设计），它彻底改变了人类的作息——从此，夜晚不再属于黑暗。
+- **faucet / pipe / air conditioner** — faucet = 水龙头（美式，英式用 tap）。pipe = 管道（a water pipe, a gas pipe）。air conditioner = 空调（缩写 AC 或 A/C）。搭配：turn on the faucet, fix a pipe, install an air conditioner。
 
-"Air conditioner"（空调）的发明者是威利斯·开利（Willis Carrier），1902年他为一家印刷厂设计了第一台空调，最初目的不是给人降温，而是控制纸张的湿度。"Bucket"（桶）来自古法语"buquet"，与"buck"（公羊）可能有关——最早的桶是用公羊皮制成的。"Dig"（挖掘）来自古英语"dic"（沟渠），与"ditch"（沟）同源。
+- **cupboard / light bulb / frame** — cupboard = 橱柜（注意发音 /ˈkʌbərd/，p 不发音）。light bulb = 灯泡（change a light bulb）。frame = 框架（a door frame, a picture frame）。
 
-"Metal"（金属）来自希腊语"metallon"（矿井），古希腊人从地下开采铜、铁、金、银。"Frame"（框架）来自古法语"fram"（有用的），在房屋语境中指门窗的框架结构。"Would have"（本会）是英语中表达"过去未实现的假设"的核心结构，暗含一种"如果当时情况不同"的遗憾或推测。
+- **metal / electrical / gas / water** — 四种常见家居材料/能源。metal = 金属（a metal pipe）。electrical = 电的（electrical work, an electrical problem）。gas = 燃气（a gas stove）。water = 水（water damage）。
 
-- "Would've"是"would have"的口语缩写，注意不能写成"would of"——这是常见的拼写错误。
-- "Feet wide / inches wide"用于描述尺寸：The window is three feet wide.（窗户三英尺宽。）
-- "Fit"表示"合适、装得下"：Will this sofa fit through the door?
-- "Electrical"（电的）修饰设备：electrical system；"electric"修饰具体电器：electric car。
-- "Cupboard"在英式英语中泛指任何储物柜，美式英语更常用"cabinet"或"closet"。
+- **feet wide / inches wide / long / tall** — 描述尺寸的表达。feet wide = 英尺宽（It's three feet wide.）。inches wide = 英寸宽。long = 长，tall = 高（形容人用 tall，形容物体可用 long 或 tall）。注意 foot → feet（不规则复数）。
+
+- **bucket / dig / fit** — bucket = 水桶（a bucket of water）。dig = 挖（dig a hole），过去式 dug。fit = 合适、装得下（Does it fit? / It doesn't fit in the cupboard.）。
+
+- **would she have / would you have** — 疑问形式的虚拟/推测。Would you have done it differently?（你会用不同方式做吗？）Would she have known?（她会知道吗？）结构：Would + 主语 + have + 过去分词。

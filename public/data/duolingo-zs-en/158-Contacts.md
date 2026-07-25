@@ -6,17 +6,37 @@
 
 annoyed, annoying, assistant, designer, employee, employer, get to know, go, hear from, if you like, let me introduce you to, look forward to, ma'am, need, opportunity, professional, professor, rude, sir, tiring, want, whenever, would like, would you mind if
 
+## 单元讲解
+
+本单元围绕"把某人介绍给别人"展开。核心是社交和职场介绍：Let me introduce you to my colleague—she's a professional designer.（让我把你介绍给我的同事——她是一位专业设计师。）、I'd like to get to know you better. Would you mind if we met for coffee?（我想更了解你。你介意我们喝杯咖啡吗？）、I look forward to hearing from you whenever you have an opportunity.（我期待你有机会时随时联系我。）、The employee found the employer's assistant a bit annoying, but not rude.（员工觉得雇主的助手有点烦人，但不算无礼。）。
+
+词表里有职场词汇（employer, employee, assistant, professor）和社交表达（let me introduce you to, look forward to, get to know）。你可以练习：Sir, may I help you? / I need a professional. / She's a professor. / If you like, we can go now.
+
+would you mind if + 从句 是礼貌请求。look forward to + doing。
+
 ## Tips
 
-"Introduce"（介绍）来自拉丁语"introducere"，由"intro-"（向内）和"ducere"（引导）组成——介绍就是把一个人"引入"另一个人的世界。在维多利亚时代的英国，社交介绍有极其严格的礼仪：地位低的人被介绍给地位高的人，年轻者被介绍给年长者，男士被介绍给女士。一句"Let me introduce you to..."背后，是一整套关于社会等级和人际边界的古老编码。
+- **let me introduce you to / get to know / look forward to** — 让我介绍 / 了解 / 期待。搭配：let me introduce you to, get to know sb, look forward to doing。例句：Let me introduce you to my boss. / I'd like to get to know you. / I look forward to meeting you. 注意 look forward to + doing（to 是介词）。
 
-"Professor"（教授）来自拉丁语"profiteri"（公开宣称），由"pro-"（向前）和"fateri"（承认）组成。在古罗马，"professor"是公开宣称自己精通某门学问的人——修辞学家、哲学家、医生都可以称为"professor"。中世纪大学将这个词专门用于最高级别的学者。"Assistant"（助理）则来自拉丁语"assistere"（站在旁边），暗示其角色是"站在主要人物身旁"提供支持。
+- **employer / employee / assistant** — 雇主 / 员工 / 助手。搭配：the employer, a new employee, a personal assistant。例句：The employer hired 10 people. / She's a new employee. / His assistant schedules meetings. 注意 employer = 老板，employee = 雇员。
 
-"Employee"和"employer"的区别体现了英语中"-ee"和"-er"后缀的语法逻辑："-er"是动作的发出者，"-ee"是动作的接受者。"Employ"来自古法语"emploiier"（使用），最终源自拉丁语"implicare"（卷入、缠绕）。所以"employee"字面意思是"被卷入工作的人"，而"employer"是"将他人卷入工作的人"。这种词源关系微妙地揭示了雇佣关系的权力结构。
+- **would you mind if / would like / if you like** — 你介意吗 / 想要 / 如果你愿意。搭配：Would you mind if I sit here? / I'd like a coffee, if you like。例句：Would you mind if I joined? / I'd like to introduce her. / We can leave now, if you like. 注意 Would you mind if + 过去式（虚拟语气）。
 
-"Sir"和"Ma'am"是英语中最基本的尊称。"Sir"来自古法语"sire"，最终源自拉丁语"senior"（年长者）——尊重最初与年龄相关。"Ma'am"是"Madam"的缩略，而"Madam"来自法语"ma dame"（我的女士），是骑士对贵妇的称呼。今天这两个词在美式英语中仍然活跃，尤其在服务业和军队中，而在英式英语中则更多见于正式场合。
+- **professional / professor / designer** — 专业的 / 教授 / 设计师。搭配：a professional, a university professor, a graphic designer。例句：She's very professional. / He's a history professor. / I hired a designer. 注意 professional 可作名词和形容词。
 
-- "Would you mind if..."是英语中最礼貌的请求句式之一，字面意思是"你介意吗"——通过询问对方的感受来表达请求。
-- "Look forward to"中的"to"是介词，后面接动名词（-ing形式）：I look forward to meeting you.（不是meet you。）
-- "Get to know"（逐渐了解）暗示一个过程：从陌生到熟悉，不是一瞬间的事。
-- "Rude"来自拉丁语"rudis"（粗糙的、未加工的），原指未经打磨的石头——粗鲁的人如同"未加工的原材料"，缺乏文明的打磨。
+- **annoyed / annoying / rude** — 恼怒的 / 烦人的 / 无礼的。搭配：feel annoyed, an annoying habit, don't be rude。例句：I'm annoyed by the noise. / His habit is annoying. / That was rude of him. 注意 annoyed（人感到）vs annoying（事令人）。
+
+- **hear from / whenever / opportunity** — 收到消息 / 无论何时 / 机会。搭配：hear from sb, whenever you can, a great opportunity。例句：I hope to hear from you soon. / Call me whenever. / This is a great opportunity. 注意 hear from = 收到某人的消息。
+
+- **sir / ma'am / need** — 先生 / 女士 / 需要。搭配：Yes, sir. / Excuse me, ma'am, need help。例句：May I help you, sir? / Thank you, ma'am. / I need some assistance. 注意 sir/ma'am 是礼貌称呼。
+
+- **want / would like / go** — 想 / 想要 / 去。搭配：want to do, would like to do, go ahead。例句：I want to meet her. / I'd like to introduce him. / Go ahead—introduce yourself. 注意 would like 比 want 更礼貌。
+
+- **tiring / opportunity / professional** — 累人的 / 机会 / 专业。搭配：a tiring day, a job opportunity, a professional attitude。例句：Networking is tiring. / Don't miss this opportunity. / Maintain a professional attitude. 注意 tiring 形容事物令人疲惫。
+
+- **get to know / hear from / whenever** — 了解 / 收到来信 / 随时。搭配：get to know each other, hear from you, whenever possible。例句：Let's get to know each other. / I haven't heard from her. / Contact me whenever possible. 注意 get to know 强调"逐渐了解"。
+
+- **annoying / rude / annoyed** — 烦人 / 无礼 / 恼怒。搭配：how annoying! / a rude comment, get annoyed。例句：How annoying! / That's a rude question. / Don't get annoyed. 注意 rude 的反义是 polite。
+
+- **introduce / look forward to / would you mind if** — 介绍 / 期待 / 你介意吗。搭配：introduce sb to sb, look forward to it, would you mind if I...? 例句：I'd like to introduce my friend. / I look forward to working together. / Would you mind if I brought a colleague? 注意 introduce A to B。
+

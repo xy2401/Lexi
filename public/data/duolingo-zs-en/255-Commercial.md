@@ -6,18 +6,55 @@
 
 artificial, biggest, boost, both, confidence, did, energy, fortune, functional, get in shape, impress, magic, neither, no, nor, not only, not only do, not only is, now, otherwise, purchase, smelly, snore, thermometer, toenail, wealthy
 
+## 单元讲解
+
+本单元的场景是"分享产品的好处"——就像电视购物广告或朋友之间的安利。词表里有大量推销和评价用语：boost, impress, confidence, functional, purchase。你可以这样"卖货"：Not only does it boost your energy, but it also helps you get in shape. Neither artificial flavors nor magic pills—just a functional product that works. Purchase now, otherwise you'll miss the biggest deal of the year!（它不仅提升你的精力，还帮你塑形。没有人工香精，也没有神奇药丸——只是一款真正有效的产品。现在就买，否则你会错过今年最大的优惠！）
+
+not only... but also... / neither... nor... / both... and... 是三组并列连词，本单元集中练习"如何列举产品优势"。smelly, snore, toenail 这些"不体面"的词暗示广告可能涉及健康或个护产品。fortune（财富）和 wealthy（富有的）给产品加了"成功人士必备"的光环。
+
+学完本单元，你能用英语有条理地介绍产品优点，使用并列结构增强说服力。
+
 ## Tips
 
-"Commercial"（商业广告）来自拉丁语"commercium"，由"com-"（共同）和"merx"（商品）组成，字面意思是"共同交换商品"。人类最古老的广告形式可以追溯到古埃及——考古学家在底比斯遗址发现了一块公元前3000年的莎草纸，上面写着"寻找逃跑的奴隶，赏金一枚金币"。庞贝古城的墙壁上保存着大量古罗马广告：角斗表演预告、酒馆推荐、房产出租。从莎草纸到庞贝墙壁，从报纸到电视再到社交媒体，广告的载体在变，但核心从未改变：说服你purchase（购买）。
+- **not only... but also...** — "不仅……而且……"。Not only is it cheap, but it also works well. 注意 not only 放句首时，主句要倒装：Not only does it boost energy... 这是本单元的重点结构。
 
-"Thermometer"（温度计）来自希腊语"therme"（热）和"metron"（测量）。1593年，伽利略发明了第一支温度计的原型——一根倒插在水中的玻璃管，利用空气热胀冷缩来指示温度变化。但直到1714年，德国物理学家华伦海特发明了水银温度计并建立了华氏温标，温度测量才真正精确化。在广告中，thermometer常被用作"科学验证"的道具——"经实验室测试证明有效"是商业话术的经典套路。
+- **neither... nor...** — "既不……也不……"。Neither artificial nor expensive. 注意动词就近原则：Neither he nor I am... 比 not... and not... 更简洁有力。反义词组：both... and...
 
-"Fortune"（财富/命运）来自拉丁语"fortuna"，是罗马命运女神的名字。Fortuna手持丰饶之角（cornucopia），站在一个旋转的球体上，象征命运的无常——今天赐予你财富，明天就可能将其收回。有趣的是，"fortune"同时包含"财富"和"命运"两层含义，暗示在古罗马人看来，财富本身就是一种命运的馈赠，而非纯粹的个人努力。"Wealthy"（富有的）来自古英语"wēal"（幸福、繁荣），与"well"（好）同源——在盎格鲁-撒克逊人的观念中，富有就是"过得好"。
+- **both... and...** — "两者都……"。It's both functional and affordable. 注意 both 后接的两个成分要平行：both A and B，A 和 B 词性一致。比 and 更强调"两者兼具"。
 
-"Artificial"（人工的）来自拉丁语"ars"（技艺）和"facere"（做），字面意思是"用技艺制造的"。在古罗马，artificium是褒义词，指精湛的工艺。直到19世纪，随着工业化生产的普及，artificial才逐渐带上"不自然的、虚假的"贬义色彩——"artificial flavoring"（人工香料）暗示不如天然的好。"Boost"（提升）来自19世纪的美国俚语，原意是"从下面推一把"。在广告语言中，boost是最常用的动词之一："Boost your energy! Boost your confidence!"——它承诺一种轻松的、外力推动式的改善。
+- **boost** — "提升、增强"。boost your energy / boost confidence / boost sales。比 increase 更有"推一把"的力度感。名词和动词同形。在广告语中极高频。
 
-- "Not only... but also..."是广告文案中的经典递进结构，先给一个好处再追加一个，制造"超值"感。
-- "Get in shape"（塑形/健身）中"shape"来自古英语"sceap"（创造），暗示健身是"重新塑造自己"。
-- "Snore"（打鼾）来自古英语，与"snort"（喷鼻息）同源，在广告中常作为"需要解决的问题"出现。
-- "Magic"（魔法）来自希腊语"magos"，广告中用magic暗示产品效果神奇到"像变魔术一样"。
-- "Purchase"（购买）比"buy"更正式，来自古法语"pourchacier"（努力获取），暗示购买是一个"追求"的过程。
+- **get in shape** — "塑形、恢复好身材"。I want to get in shape before summer. 比 lose weight 更全面，包括肌肉和体能。反义：get out of shape（身材走样）。shape = 体型。
+
+- **functional** — "功能性的、实用的"。a functional design / a functional product。比 useful 更强调"设计上有特定功能"。名词 function。反义词 decorative（装饰性的）。
+
+- **purchase** — "购买"，比 buy 更正式。Purchase now and save! / a purchase of $50。名词和动词同形。在广告和商务语境中比 buy 更常见。注意 -chase 结尾。
+
+- **otherwise** — "否则、要不然"。Buy now; otherwise, the price will go up. 比 or 更正式，常用于警告或建议。也可以表"在其他方面"：The product is good; otherwise, I wouldn't recommend it.
+
+- **artificial** — "人工的、人造的"。artificial flavors / artificial intelligence (AI)。反义词 natural。比 fake 更中性，fake 带贬义，artificial 只是描述"非天然"。注意 -ficial 结尾。
+
+- **confidence** — "信心、自信"。搭配：have confidence in / boost your confidence / a confidence boost。形容词 confident。注意 -ence 结尾。比 self-esteem 更偏向"对能力的信心"。
+
+- **fortune** — "财富；运气"。make a fortune = 发大财。a small fortune = 一大笔钱（口语夸张）。形容词 fortunate（幸运的）。注意一词两义：财富和运气。
+
+- **wealthy** — "富有的"，比 rich 更正式、更体面。a wealthy businessman / a wealthy neighborhood。名词 wealth。比 rich 更有"殷实、有底蕴"的感觉，不那么直白。
+
+- **impress** — "给……留下印象、打动"。impress your friends / I'm impressed! 名词 impression，形容词 impressive。注意双 s。在广告中：This product will impress everyone.
+
+- **magic** — "魔法、神奇的"。a magic pill / magic results。作形容词时 = 神奇的：a magic solution。比 miraculous 更口语。在广告中常带引号或讽刺：There's no magic fix.
+
+- **energy** — "精力、能量"。搭配：boost your energy / full of energy / energy drink。形容词 energetic。注意 -gy 结尾。在健康产品广告中是核心卖点词。
+
+- **snore** — "打鼾"。He snores loudly. / a snoring problem。比 breathe noisily 更具体。名词和动词同形。在健康产品语境中，snore 常是需要"解决"的问题。
+
+- **toenail** — "脚趾甲"。由 toe（脚趾）+ nail（指甲）组成。搭配：cut your toenails / a toenail fungus。在个护产品广告中常见。注意 finger nail = fingernail（手指甲）。
+
+- **thermometer** — "温度计"。由 thermo-（热）+ meter（测量）组成。搭配：take your temperature with a thermometer。注意拼写：两个 m，-meter 结尾。
+
+- **smelly** — "臭的、有异味的"。smelly shoes / a smelly fridge。比 stinky 更温和，比 odorous 更口语。名词 smell。注意 -y 后缀：smell → smelly。
+
+- **biggest** — "最大的"，big 的最高级。注意双写 g：big → bigger → biggest。搭配：the biggest sale / the biggest benefit。在广告中用来制造"最优惠"的紧迫感。
+
+- **now** — 本单元中 likely 出现在 Purchase now!（现在就买！）这类广告号召语中。now 在广告中 = 立刻、马上，制造紧迫感。比 immediately 更口语、更有冲击力。
+

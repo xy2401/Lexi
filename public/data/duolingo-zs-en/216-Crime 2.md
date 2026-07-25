@@ -6,17 +6,26 @@
 
 agree, corruption, defend, demand, fine, get, gotten, human being, inform, jury, known, likely, maximum, meanwhile, minimum, official, partly, prisoner, proof, prove, punish, secretly, support for, which
 
+## 单元讲解
+
+本单元围绕"解释处罚"展开，话题是法律、犯罪和司法系统。词表里有法律词汇（jury, prisoner, fine, punish, defend, proof, prove, corruption, official）和描述程度与判断的表达（maximum, minimum, likely, partly, known, gotten）。
+
+你可以练习法律话题：The jury found the prisoner guilty. / The maximum fine is $10,000; the minimum is $500. / He was punished for corruption. / The official secretly demanded money. / Which proof can prove his guilt? / It's likely that he'll defend himself. / Meanwhile, the human being behind the crime got caught. / I agree—there's support for stricter penalties.
+
+get → gotten 是美式英语的过去分词形式（He has gotten away with it.）。meanwhile = 与此同时。support for = 对……的支持。
+
 ## Tips
 
-"Jury"来自古法语"juree"（宣誓），源自拉丁语"jurare"（发誓）。陪审团制度可追溯到1215年的英格兰——那一年，教皇英诺森三世禁止神职人员参与"神明裁判"（让嫌疑人手握烧红的铁块，看伤口是否愈合来判断有罪无罪）。失去了"神的裁决"，英格兰人不得不发明一种新的审判方式：召集12个了解案情的邻居来作证。这就是陪审团的雏形。如今美国宪法第六和第七修正案保障了陪审团审判的权利。
+- **jury / prisoner / fine / punish** — jury = 陪审团（a jury of 12 people, the jury decided）。prisoner = 囚犯（a political prisoner）。fine = 罚款（pay a fine, a $200 fine）。punish = 惩罚（punish the criminal, be punished for...）。搭配：the jury found him guilty, impose a fine。
 
-"Corruption"来自拉丁语"corrumpere"（彻底打碎），由"com-"（完全）和"rumpere"（打破）构成。腐败就是"彻底打碎"了公共信任。古罗马共和国晚期，贿选和贪污泛滥成灾，西塞罗在演说中痛斥腐败官员，最终却因此被政敌杀害。"Punish"来自拉丁语"punire"，与"poena"（惩罚、痛苦）同源，而"poena"又来自希腊语"poine"——在希腊神话中，Poine是复仇女神的别名。
+- **proof / prove / defend** — proof = 证据（名词，不可数或可数：enough proof, a piece of proof）。prove = 证明（动词：prove his innocence）。defend = 辩护、防御（defend the accused, defend yourself）。注意 proof 和 evidence 的区别：evidence 更常用于法律语境。
 
-"Proof"和"prove"都来自拉丁语"probare"（检验、测试），与"probable"（可能的）同源。在法律英语中，"beyond a reasonable doubt"（排除合理怀疑）是刑事案件的证明标准——这个标准在18世纪英格兰确立，目的是宁可放过有罪之人，也不冤枉无辜。"Fine"（罚款）来自拉丁语"finis"（结束），原意是"了结"——交了罚款，事情就"了结"了。
+- **corruption / official / secretly** — corruption = 腐败、贪污（political corruption, fight corruption）。official = 官员（名词）/ 官方的（形容词）。secretly = 秘密地（secretly accept bribes）。搭配：a corrupt official, government corruption。
 
-"Prisoner"来自古法语"prison"（监狱），而"prison"来自拉丁语"prehensio"（逮捕、抓住）。伦敦塔（Tower of London）是英国最著名的监狱之一，从1100年到1952年关押过无数政治犯。安妮·博林王后在被处决前被关在伦敦塔中，据说她的鬼魂至今仍在塔内游荡。"Maximum"和"minimum"来自拉丁语"maximus"（最大的）和"minimus"（最小的），在法律中指最高和最低刑期。
+- **maximum / minimum / likely / partly** — maximum = 最大值（the maximum sentence / penalty）。minimum = 最小值（the minimum fine）。likely = 可能的（It's likely that... / He's likely to be punished.）。partly = 部分地（partly responsible, partly true）。
 
-- "get"的过去分词在美式英语中是"gotten"，英式英语中是"got"——这是美英英语最显著的区别之一
-- "meanwhile"（与此同时）常用于叙述中切换视角，类似电影中的"平行剪辑"
-- "human being"比"human"更强调"作为人的存在"，在法律和哲学文本中更常见
-- "defend"既可指"辩护"（律师为被告辩护），也可指"防御"（军事语境）
+- **get / gotten / known** — get → got → gotten（美式过去分词）。gotten 在美式英语中使用（He has gotten away with it.），英式英语通常用 got。known = 已知的（a known criminal, it is known that...）。搭配：get caught, get punished。
+
+- **demand / inform / agree / meanwhile** — demand = 要求、索要（demand money / demand an apology），语气比 ask 强硬。inform = 通知（inform the police, inform someone of something）。agree = 同意（I agree. / agree with someone / agree to a deal）。meanwhile = 与此同时（Meanwhile, the prisoner escaped.）。
+
+- **human being / support for / which** — human being = 人类（强调"人"这个物种/个体：Every human being has rights.）。support for = 对……的支持（public support for stricter laws）。which = 哪个/引导定语从句（the law which was passed / Which penalty is fair?）。

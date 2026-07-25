@@ -6,18 +6,26 @@
 
 advantage, babysit, baker, change, dream job, employment, face to face, had, hairdresser, hourly wage, if, if I, interview, make, one day, role, talent, tech, vet, wouldn't
 
+## 单元讲解
+
+本单元围绕"谈论找工作"展开。词表里有各种职业名称（baker, hairdresser, vet）和求职相关词汇（interview, employment, hourly wage, role, dream job）。你可以描述求职场景：I had an interview at a tech company. / She wants to be a baker one day. / What's the hourly wage for this role?
+
+if I 和 wouldn't 的出现提示这里可以练习条件句——If I had more talent, I wouldn't babysit forever. / If I got the job, I'd make a change. had 在这里既可以是实义动词"有"的过去式，也可以是条件句中的虚拟形式。
+
+face to face 描述面试方式，advantage 用来分析利弊。整体来看，这个单元帮你用英语讨论职业规划和求职经历。
+
 ## Tips
 
-"Interview"来自法语"entrevue"，由"entre-"（之间）和"voir"（看）组成，字面意思是"互相看见"。在19世纪之前，求职主要靠推荐信和熟人介绍；"interview"作为一种正式的选拔方式，是工业革命后大规模雇佣的产物。"Face to face"（面对面）强调了这种"互相看见"的本质——在视频面试普及之前，面对面的目光接触是建立信任的关键。
+- **interview / employment / hourly wage** — interview 既是名词也是动词（I have an interview. / They interviewed me.）。employment = 就业（反义词 unemployment）。hourly wage = 时薪，搭配 earn an hourly wage of $15。注意 wage 通常指按小时/天计的报酬，salary 指年薪/月薪。
 
-"Talent"（才能）的词源极为有趣。它最初是古希腊的重量和货币单位"talanton"。《圣经·马太福音》中"才干的比喻"（Parable of the Talents）讲述了一个主人按"才干"分配银子的故事，从此"talent"从"一笔钱"演变为"天赋才能"。"Employment"来自古法语"emploi"（使用），最终源自拉丁语"implicare"（卷入、参与），字面意思是"被卷入（工作中）"。
+- **baker / hairdresser / vet** — baker = 面包师（bake + -er）。hairdresser = 美发师（hair + dress + -er）。vet = 兽医（veterinarian 的缩写，口语常用）。这类"动词/名词 + -er/-or"构成职业名词是英语的常见构词法。
 
-"Baker"（面包师）是英语中最古老的职业名称之一，源自古英语"bacan"（烘焙）。在中世纪英格兰，面包师是社区中不可或缺的角色——因为大多数家庭没有自己的烤炉，必须把面团送到公共烤炉去烤。"Vet"（兽医）是"veterinarian"的缩写，来自拉丁语"veterina"（驮畜），原意是"治疗驮畜的医生"。"Hairdresser"（美发师）中的"dress"原意是"整理、打理"，而非"穿衣"。
+- **dream job / role / talent** — dream job = 理想工作（dream 做定语）。role = 职位、角色，搭配 take on a role, a key role。talent = 天赋，搭配 have a talent for, a natural talent。
 
-"Hourly wage"（时薪）是劳动经济学的基本概念。"Wage"来自古法语"wage"（报酬），与"pledge"（承诺）同源——工资本质上是雇主对劳动者的一种"承诺"。"Dream job"（梦想的工作）是当代职场文化中的核心叙事——从"做你热爱的事"到"找到你的使命"，这种观念在21世纪被极度放大。
+- **babysit / make / change** — babysit = 临时照看小孩（baby + sit），过去式 babysat。make 搭配很多：make money, make a living, make a change。change 可作名词也可作动词，a change of career = 转行。
 
-- "If I..."引导条件句，与"would"搭配构成虚拟语气：If I had more talent, I would become a baker.
-- "Tech"是"technology"的口语缩写，在求职语境中特指"科技行业"：a job in tech。
-- "Role"比"job"更强调"角色"和"职责"，在正式求职中更常用：What role are you applying for?
-- "One day"表示"总有一天"，带有对未来的憧憬，比"someday"更有画面感。
-- "Make"在职业语境中可表示"成为"：She wants to make a good vet.（她想成为一名好兽医。）
+- **if I / wouldn't / had** — 这组词提示条件句。If I had a talent for tech, I wouldn't be a hairdresser. 结构：If + 过去式, would/wouldn't + 动词原形（第二类条件句，表与现在事实相反或不太可能的假设）。
+
+- **face to face / one day / advantage** — face to face = 面对面（可作副语：meet face to face；也可加连字符做定语：a face-to-face interview）。one day = 总有一天（指将来）。advantage = 优势，搭配 have an advantage, take advantage of。
+
+- **tech** — technology 的口语缩写，指科技行业。搭配：a tech company, work in tech, the tech industry。类似缩写还有 info (information), ad (advertisement)。

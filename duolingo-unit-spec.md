@@ -17,7 +17,7 @@
 
 ## 输出文件
 
-`duolingo-zs-en-4/{NNN}-{name}.md`
+`duolingo-zs-en/{NNN}-{name}.md`
 
 ## 文档结构
 

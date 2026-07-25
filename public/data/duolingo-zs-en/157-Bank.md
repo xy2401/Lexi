@@ -6,17 +6,37 @@
 
 afford, balance, bank teller, budget, business, checking account, consider, deposit, id, lent, limit, mobile, not, not to, paperwork, password, payment, right away, spent, temporary, thanks for, thanks for not, transaction, transfer, up-to-date
 
+## 单元讲解
+
+本单元围绕"办理银行业务"展开。核心是银行交易表达：I'd like to make a deposit into my checking account.（我想往我的活期账户存钱。）、Can you transfer the payment right away? I can't afford to be late.（你能马上转账吗？我迟付不起。）、The bank teller asked for my ID and password to complete the transaction.（银行柜员要求我出示身份证和密码来完成交易。）、I need to check my balance—I've spent too much and gone over my limit.（我得查下余额——我花太多，超限了。）。
+
+词表里有银行词汇（balance, deposit, transfer, checking account, transaction）和财务词汇（budget, afford, limit, payment）。你可以练习：I lent him money. / Consider your budget. / The paperwork is done. / Thanks for not charging a fee.
+
+afford = 负担得起。lent 是 lend 的过去式。
+
 ## Tips
 
-"Bank"（银行）来自意大利语"banca"，意为"长凳"。中世纪意大利的货币兑换商坐在市场广场的长凳上做生意——如果兑换商破产，愤怒的储户会砸烂他的长凳（"banca rotta"），这就是"bankrupt"（破产）一词的由来。从一条木凳到全球金融帝国，"bank"这个词记录了资本主义最朴素的起源。
+- **deposit / transfer / transaction** — 存款 / 转账 / 交易。搭配：make a deposit, transfer money, complete a transaction。例句：I'd like to make a deposit. / Transfer $100 to savings. / The transaction is complete. 注意 deposit 可作名词和动词。
 
-"Budget"（预算）来自古法语"bougette"，是"bouge"（皮包）的缩小形式，字面意思是"小皮包"。十八世纪英国财政大臣每年向议会提交财政报告时，会打开一只黑色皮包（budget）取出文件。久而久之，"打开预算包"这个动作就成了"提出预算"的代名词。今天英国财政大臣的红色公文箱（Budget Box）仍然是这一传统的实物见证。
+- **balance / checking account / limit** — 余额 / 活期账户 / 限额。搭配：check the balance, a checking account, over the limit。例句：What's my balance? / I opened a checking account. / You've exceeded your limit. 注意 checking account 是美式（英式 current account）。
 
-"Transaction"来自拉丁语"transigere"（完成、了结），由"trans-"（跨越）和"agere"（驱动）组成。每一笔交易都是"将事情从一端推到另一端"——金钱从你的账户"跨越"到对方。"Transfer"同样有"trans-"前缀，字面意思是"携带过去"。"Deposit"（存款）来自拉丁语"deponere"（放下），你把钱"放下"在银行里；而"payment"（付款）来自拉丁语"pacare"（使平静），最初的含义是"通过付钱来平息债务带来的不安"。
+- **afford / budget / spent** — 负担得起 / 预算 / 花了。搭配：can't afford, stick to a budget, have spent。例句：I can't afford a new car. / Make a budget. / I've spent all my money. 注意 afford 常与 can/can't 搭配。
 
-"Balance"（余额、平衡）来自拉丁语"bilanx"，意为"有两个托盘的天平"。在复式记账法发明之前，商人用天平称量金银来确认交易公平。"Balance"从物理的平衡引申为财务的平衡——你的账户"平衡"意味着收支相抵。意大利数学家卢卡·帕乔利在1494年系统化了复式记账法，这本《算术、几何、比与比例概要》被视为现代会计学的起点。
+- **bank teller / id / password** — 银行柜员 / 身份证 / 密码。搭配：ask the bank teller, show your ID, enter your password。例句：The bank teller helped me. / Please show your ID. / Enter your password. 注意 ID = identification。
 
-- "Bank teller"中的"teller"不是"讲述者"，而是来自古英语"tellan"（计算）——teller最初是"数钱的人"。
-- "Afford"来自古英语"geforðian"（推进、完成），现代含义"负担得起"是后来发展的——你能"推进"购买，就是买得起。
-- "Checking account"（支票账户）是美国说法，英国称为"current account"。"Checking"指的是可以用支票（check）支付。
-- "Right away"（立刻）中的"away"保留了古英语"on weg"（在路上）的意象——事情已经"上路了"，即刻就会到达。
+- **payment / right away / mobile** — 付款 / 立刻 / 手机。搭配：make a payment, right away, mobile banking。例句：I need to make a payment. / Do it right away. / I use mobile banking. 注意 right away = immediately。
+
+- **lent / consider / paperwork** — 借出 / 考虑 / 文件。搭配：lent money to, consider the options, fill out paperwork。例句：I lent her $50. / Consider your options carefully. / There's a lot of paperwork. 注意 lend → lent → lent（借出）。
+
+- **business / temporary / up-to-date** — 商业 / 临时的 / 最新的。搭配：a business account, a temporary card, up-to-date records。例句：I opened a business account. / Here's a temporary password. / Keep your info up-to-date. 注意 up-to-date 是复合形容词。
+
+- **not / not to / thanks for** — 不 / 不要 / 感谢。搭配：do not, told me not to, thanks for helping。例句：I do not want a loan. / She told me not to worry. / Thanks for your help. 注意 thanks for + doing。
+
+- **afford / spent / limit** — 负担 / 花了 / 限额。搭配：can't afford it, spent too much, credit limit。例句：We can't afford that house. / I spent $200 today. / My credit limit is $5,000. 注意 afford 不单独使用，需加 can/could。
+
+- **transfer / deposit / balance** — 转账 / 存款 / 余额。搭配：transfer funds, deposit a check, low balance。例句：Transfer the money today. / I deposited a check. / My balance is low. 注意 deposit a check = 存支票。
+
+- **bank teller / transaction / payment** — 柜员 / 交易 / 付款。搭配：talk to the teller, a bank transaction, a monthly payment。例句：The teller processed my request. / The transaction took 5 minutes. / I made the payment online. 注意 teller 专指银行柜员。
+
+- **budget / consider / thanks for not** — 预算 / 考虑 / 感谢没有。搭配：on a budget, consider carefully, thanks for not charging。例句：I'm on a tight budget. / Consider all the fees. / Thanks for not charging extra. 注意 on a budget = 预算有限。
+

@@ -6,20 +6,37 @@
 
 about, application, avoid, baker, blank, branch, by, farming, hairstylist, knowledge, monthly, of, ordinary, pay, photocopy, response, right, salary, shake hands, shaken, shook, signature, sincerely, succeed, success
 
+## 单元讲解
+
+本单元围绕"询问工作机会"展开。核心是职场表达：I'd like to apply for the position at the new branch.（我想申请新分部的职位。）、What's the monthly salary?（月薪是多少？）、She shook hands with the manager and signed the contract.（她和经理握了手，签了合同。）、With hard work and knowledge, you'll succeed.（凭借努力和知识，你会成功的。）。
+
+词表里有职业词汇（baker, hairstylist, farming）和求职词汇（application, salary, signature, branch）。你可以练习：I sent my application but got no response. / The pay is ordinary. / Avoid making blank photocopies. / Sincerely, I hope to get the job.
+
+shake → shook → shaken（握手）。succeed 是动词，success 是名词。
+
 ## Tips
 
-"Salary"（薪水）的词源是英语中最有趣的故事之一。它来自拉丁语"salarium"，与"sal"（盐）直接相关。古罗马士兵的报酬中有一部分是盐——盐在古代是珍贵的防腐剂和调味品，价值堪比黄金。"Salarium"最初是"买盐的钱"，后来演变为一切固定报酬的通称。英语中"worth one's salt"（称职的）这个表达，就是这段历史的活化石。"Pay"（支付）则来自拉丁语"pacare"（使平静），付钱就是"平息"债务带来的不安。
+- **application / salary / branch** — 申请 / 薪水 / 分部。搭配：submit an application, monthly salary, a new branch。例句：I submitted my application. / What's the monthly salary? / They opened a new branch. 注意 application = 申请表/申请。
 
-"Promotion"（晋升）来自拉丁语"promovere"，由"pro-"（向前）+"movere"（移动）构成，字面意思是"向前移动"。在中世纪欧洲的行会制度中，一个学徒（apprentice）经过多年学习成为帮工（journeyman），再经过考核才能成为师傅（master）——每一次身份的转变都是一次"promotion"。"Succeed"（成功）来自拉丁语"succedere"，由"sub-"（在下面）+"cedere"（走）构成，原意是"跟在后面走上来"——成功就是"接上来"，接替前任的位置。
+- **shake hands / shook / shaken** — 握手。搭配：shake hands with, shook hands, have shaken hands。例句：She shook hands with the boss. / They've shaken hands on the deal. 注意 shake → shook → shaken。
 
-"Signature"（签名）来自拉丁语"signare"（标记），与"sign"（标志）同源。在中世纪，大多数人不识字，签名就是画一个"X"或按一个手印。1677年英国《欺诈法》首次要求合同必须有书面签名才具有法律效力，从此签名成为个人身份的法律象征。"Sincerely"（真诚地）来自拉丁语"sincerus"（纯净的），有一种说法认为它由"sin-"（没有）+"cera"（蜡）构成——古罗马雕塑家用蜡填补瑕疵，"sincerus"就是"没有蜡的"，即"没有伪装的、真实的"。
+- **succeed / success / knowledge** — 成功（动词）/ 成功（名词）/ 知识。搭配：succeed in, achieve success, gain knowledge。例句：You'll succeed if you work hard. / Success takes time. / Knowledge is power. 注意 succeed 是动词，success 是名词。
 
-"Baker"（面包师）来自古英语"bacan"（烘烤），是英语中最古老的职业名称之一。中世纪欧洲，面包是绝对的主食，面包师的社会地位极高——但同时也受到严格监管。1266年英国颁布《面包和麦酒法》，面包师如果短斤少两，会被处以严厉惩罚。"Hairstylist"（发型师）则是现代职业，但理发行业的历史极为悠久——古埃及的理发师用燧石刀片剃头，古罗马的"tonsor"（理发师）是社交中心，人们去理发店不仅为了剪发，更为了交换新闻和八卦。
+- **signature / sincerely / response** — 签名 / 真诚地 / 回复。搭配：your signature, Sincerely yours, get a response。例句：Put your signature here. / Sincerely, John. / I haven't gotten a response yet. 注意 Sincerely 用于正式信件结尾。
 
-"Knowledge"（知识）来自古英语"cnawan"（知道）+"-læcan"（状态后缀），与"can"（能够）同源——在古英语中，"知道"和"能够"是同一个概念。"Photocopy"（复印）是"photo-"（光）+"copy"（复制）的组合。1938年，美国律师Chester Carlson在厨房水槽旁用锌板和硫磺粉末完成了世界上第一张复印件，他花了十年才找到愿意投资的公司——施乐（Xerox）由此诞生。
+- **baker / hairstylist / farming** — 面包师 / 发型师 / 农业。搭配：a baker, a hairstylist, do farming。例句：She's a baker at the bakery. / My hairstylist is great. / He does farming in the countryside. 注意 -er/-ist 表示"做……的人"。
 
-- "Application"（申请）来自拉丁语"applicare"（贴附），求职申请就是把自己"贴"到职位上。与"apply"共享词根"plic"（折叠）。
-- "Branch"（分支/分行）来自古法语"branche"（树枝），银行的"分行"就像大树的"枝杈"，从主干延伸出去。
-- "Ordinary"（普通的）来自拉丁语"ordinarius"（按顺序的），普通就是"按常规顺序来的"，没有意外。
-- "Shake hands"（握手）的起源众说纷纭——一种说法是古希腊人伸出空手表示"我没有武器"，另一种说法是中世纪骑士握手是为了抖落袖中暗藏的匕首。
-- "Monthly"（每月的）中"month"来自古英语"mōnaþ"，与"moon"（月亮）同源——月份最初就是"月亮的一个盈亏周期"。
+- **monthly / pay / ordinary** — 每月的 / 薪水 / 普通的。搭配：monthly pay, the pay is good, an ordinary job。例句：The monthly pay is three thousand. / The pay is ordinary. / It's an ordinary day. 注意 monthly = every month。
+
+- **avoid / blank / photocopy** — 避免 / 空白的 / 复印。搭配：avoid mistakes, a blank page, make a photocopy。例句：Avoid being late. / The form is blank. / I need to photocopy this. 注意 photocopy 既是名词也是动词。
+
+- **right / by / of** — 正确的 / 通过 / 的。搭配：that's right, by email, a branch of。例句：That's the right decision. / Send it by email. / It's a branch of the company. 注意 by 可表示方式（by email = 通过邮件）。
+
+- **salary / pay / monthly** — 薪水 / 报酬 / 每月。搭配：a good salary, the pay, monthly salary。例句：The salary is competitive. / The pay is fair. / What's the monthly salary? 注意 salary 是固定月薪，pay 更通用。
+
+- **application / response / sincerely** — 申请 / 回复 / 真诚。搭配：job application, no response, Sincerely。例句：I filled out the application. / Still no response. / Sincerely, I appreciate the opportunity. 注意 application form = 申请表。
+
+- **succeed / succeed / success** — 成功。搭配：succeed in business, a great success。例句：She succeeded in getting the job. / The project was a success. / I want to succeed. 注意 succeed in + 动名词。
+
+- **shake / signature / branch** — 握手 / 签名 / 分部。搭配：shake hands, a signature, a new branch。例句：Shake hands on it. / I need your signature. / The new branch opens next month. 注意 shake hands = 握手（达成协议）。
+

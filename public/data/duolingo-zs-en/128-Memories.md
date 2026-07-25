@@ -6,20 +6,37 @@
 
 bug, card, caught, childhood, come over, dirt, do, frog, frying pan, hide, joke, kicked, knee, neighborhood, never used to, now, pie, shy, spinach, stay, strict, trumpet, up, used to
 
+## 单元讲解
+
+本单元围绕"分享童年故事"展开。核心是回忆表达：I used to catch frogs and bugs in the neighborhood.（我过去常在社区里抓青蛙和虫子。）、She never used to eat spinach, but now she loves it.（她以前从来不吃菠菜，但现在很爱吃。）、We used to come over and play cards.（我们过去常来玩牌。）、My parents were very strict.（我父母很严格。）。
+
+词表里有童年词汇（childhood, neighborhood, bug, frog）和 used to 结构。你可以练习：I used to be so shy. / He kicked the ball and hurt his knee. / She hid behind the door as a joke. / I used to play the trumpet.
+
+used to + 动词原形表示"过去常常"（现在不做了）。never used to 表示"过去从不"。
+
 ## Tips
 
-"Childhood"（童年）作为一个被珍视的人生阶段，其实是近代才有的概念。在中世纪欧洲，儿童被视为"缩小版的成人"，七八岁就要下地干活或进作坊当学徒。直到17世纪，法国教育家卢梭在《爱弥儿》中提出"儿童有儿童的世界"，童年才被视为需要保护的珍贵时光。英语"childhood"中的"-hood"后缀来自古英语"hād"（状态、身份），与"neighborhood"（邻里）、"brotherhood"（兄弟情谊）共享这一古老后缀。
+- **used to / never used to** — 过去常常 / 过去从不。搭配：used to do, never used to do, used to be。例句：I used to play outside every day. / She never used to eat vegetables. 注意 used to 表示过去的习惯（现在已改变）。
 
-"Spinach"（菠菜）的词源是一段跨越千年的语言旅行。它原产波斯（今伊朗），波斯语中叫"aspanākh"。阿拉伯人征服波斯后将其带入地中海世界，阿拉伯语称为"asfānākh"。中世纪时经西班牙传入欧洲，变成古法语"espinache"，最终成为英语"spinach"。1929年，漫画《大力水手》让菠菜成为美国儿童最"痛恨"又最熟悉的蔬菜——波派吃一罐菠菜就力大无穷的设定，据说源于一个科学错误：早期研究者把菠菜的铁含量小数点点错了一位。
+- **childhood / neighborhood** — 童年 / 社区。搭配：in my childhood, a nice neighborhood, childhood memories。例句：In my childhood, I played in the neighborhood. / I have great childhood memories. 注意 childhood 不可数。
 
-"Trumpet"（小号）来自古法语"trompette"，是"trompe"（号角）的指小词。最早的trumpet不是乐器，而是战场上的号令工具——古埃及法老图坦卡蒙的墓中出土了两支金属小号，一支金制、一支银制，用于军事指挥。到了巴洛克时代，小号成为宫廷音乐的灵魂，亨德尔的《水上音乐》中小号的辉煌音色至今令人振奋。"Frying pan"（煎锅）中的"fry"来自古法语"frire"，而"pan"来自古英语"panne"，与拉丁语"patina"（浅盘）同源。
+- **catch / caught / bug / frog** — 抓 / 抓了 / 虫子 / 青蛙。搭配：catch bugs, caught a frog。例句：I used to catch bugs in the garden. / He caught a frog! 注意 catch → caught → caught。
 
-"Neighborhood"（邻里）来自古英语"nēah"（近的）+"gebūr"（居住者），字面意思是"住在附近的人"。在工业革命前的欧洲，neighborhood不仅是地理概念，更是社会纽带——邻居之间互相照看孩子、分享食物、共同劳作。"Strict"（严格的）来自拉丁语"strictus"（拉紧的），与"string"（绳子）同源。严格的父母就像拉紧的绳子，给孩子设定边界。"Pie"（派）可能来自拉丁语"pica"（喜鹊），因为喜鹊收集各种杂物筑巢，而派也是把各种馅料"收集"在面皮里。
+- **come over / stay / hide** — 来（我家）/ 待 / 藏。搭配：come over to my house, stay over, hide behind。例句：My friends used to come over after school. / She hid behind the door. 注意 come over = 来某人家里。
 
-"Used to"（过去常常）是英语中最独特的语法结构之一，表达"曾经如此但如今不再"的怀旧感。这个短语中的"used"不是"使用"，而是来自古英语"wesan"（存在）的过去习惯体。当一个人说"I used to catch frogs in the creek"（我过去常在溪里抓青蛙），语言本身就携带着时间的重量——那个在泥巴里追青蛙的孩子，已经永远留在了过去。
+- **strict / shy / now** — 严格的 / 害羞的 / 现在。搭配：strict parents, very shy, but now。例句：My dad was very strict. / I used to be shy, but now I'm not. 注意 strict 搭配 with（strict with kids）。
 
-- "Bug"（虫子）在17世纪英语中原本指"幽灵、妖怪"（与"bogeyman"同源），后来才变成昆虫的通称。
-- "Caught"是"catch"的过去式，"catch"来自古法语"cachier"（追赶），与拉丁语"captare"（捕捉）同源。
-- "Shy"（害羞的）来自古英语"scēoh"，与"shoo"（嘘，赶走）同源——害羞的人像受惊的动物，随时想逃。
-- "Joke"（笑话）来自拉丁语"iocus"（游戏、玩笑），与"jocular"（诙谐的）同源。古罗马人把讲笑话视为一种"语言游戏"。
-- "Knee"（膝盖）来自古英语"cnēo"，与拉丁语"genu"（膝）同源——英语"kneel"（跪下）就是"用膝盖"的动作。
+- **kicked / knee / dirt** — 踢了 / 膝盖 / 泥土。搭配：kicked the ball, hurt my knee, in the dirt。例句：He kicked the ball too hard. / I fell and hurt my knee. / We played in the dirt. 注意 kick → kicked（规则变化）。
+
+- **spinach / pie / frying pan** — 菠菜 / 派 / 煎锅。搭配：eat spinach, a pie, a frying pan。例句：I never used to eat spinach. / Grandma made a pie. / She cooked in a frying pan. 注意 spinach 不可数。
+
+- **joke / card / trumpet** — 笑话 / 牌 / 小号。搭配：tell a joke, play cards, play the trumpet。例句：He told a joke and we laughed. / We used to play cards. / I used to play the trumpet. 注意乐器前加 the。
+
+- **do / up / now** — 做 / 起来 / 现在。搭配：used to do, get up, but now。例句：What did you use to do? / Get up! It's morning. / I used to hate it, but now I like it. 注意 used to 的疑问句：Did you use to...?
+
+- **come over / childhood / neighborhood** — 来玩 / 童年 / 社区。搭配：come over after school, in my childhood, around the neighborhood。例句：Friends used to come over. / In my childhood, the neighborhood was quiet. 注意这些词常一起出现在童年回忆中。
+
+- **hide / caught / shy** — 藏 / 抓 / 害羞。搭配：hide and seek, got caught, feel shy。例句：We used to play hide and seek. / I got caught! / I was too shy to talk. 注意 hide → hid → hidden。
+
+- **strict / used to / never** — 严格 / 过去常 / 从不。搭配：strict rules, used to be, never used to。例句：My mom was strict about bedtime. / I used to be scared of bugs. / I never used to like spinach.
+

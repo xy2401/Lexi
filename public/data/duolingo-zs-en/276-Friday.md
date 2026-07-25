@@ -6,18 +6,38 @@
 
 bite to eat, dominoes, fond of, french fries, game night, go bowling, go for, however, if we went, in mind, it's your choice, place, rather, record, salty, skip, specific, stay in, stay over, wants to, whenever, whichever, whoever, whose turn, you don't
 
+## 单元讲解
+
+本单元的场景是周五晚上的休闲安排，交际任务是"表达你的偏好"。词表里有具体的活动选项（go bowling, game night, dominoes, stay in, stay over）和食物（bite to eat, french fries, salty），也有大量表达选择和偏好的功能词（rather, go for, fond of, it's your choice, whichever, whoever, whenever）。你可以练习这样的对话：I'd rather stay in than go out. / I'm fond of game night—whenever you want to play, I'm in. / It's your choice—whichever place you go for, I'll follow. / However salty the french fries are, I still want a bite to eat.
+
+词表里有一组 -ever 词值得注意：whenever / whichever / whoever 都表示"无论……"，用来表达开放、随和的态度。whose turn 是"轮到谁了"，在 game night 语境中特别实用。rather 和 go for 都是表达偏好的核心词：I'd rather skip bowling. / Let's go for something salty.
+
 ## Tips
 
-"Friday"（星期五）这个名字来自北欧神话中的弗丽嘉（Frigg）或弗蕾亚（Freya）——爱与美的女神。日耳曼民族将罗马的"Veneris dies"（维纳斯之日）翻译为自己的女神之名，于是有了"Frīgedæg"（弗丽嘉之日）。在基督教文化中，星期五又是耶稣受难日，因此有了"Friday the 13th"（黑色星期五）的迷信。但对于现代打工人来说，Friday只有一个含义：自由。
+- **rather** — 宁愿、更想。最常见搭配是 would rather：I'd rather stay in tonight. / I'd rather not go out. 注意 would rather 后接动词原形（不加 to）。比较：I'd rather stay in than go bowling. 比 prefer 更口语化。
 
-"Dominoes"（多米诺骨牌）的名字来自拉丁语"dominus"（主人），因为早期骨牌上的黑点让人联想到天主教修士的黑色兜帽（domino）。多米诺骨牌起源于12世纪的中国，18世纪传入欧洲。"Game night"（游戏之夜）是北美社交文化的重要传统——朋友们聚在一起玩桌游、纸牌或多米诺，这个传统在电视和智能手机出现之前是主要的室内社交方式。
+- **go for** — 选择、想要。口语中极常用：Let's go for pizza. / I'll go for the salty one. / Go for it!（放手去做！）比 choose 更随意、更有行动力。注意 go for 也可以表示"喜欢、追求"：She really goes for tall guys.
 
-"French fries"（薯条）的归属权是美食史上最大的争议之一。比利时人坚称薯条是他们的发明——17世纪默兹河畔的村民在冬天河流结冰无法捕鱼时，把土豆切成鱼形油炸。法国人则声称是1789年巴黎桥上的小贩首创。英语世界称之为"french fries"，而英国人叫"chips"，法国人自己叫"frites"——三方各执一词。"Salty"（咸的）是薯条最核心的味觉特征，这个词来自拉丁语"sal"（盐），与"salary"（薪水）同源——古罗马士兵的报酬中包括盐。
+- **fond of** — 喜欢、喜爱。搭配：be fond of + 名词/动名词。I'm fond of game night. / She's fond of bowling. 比 like 更温暖、更有感情色彩，暗示长期的、温柔的喜爱。注意 fond 不能单独做谓语，必须和 be 搭配。
 
-"Stay in"（待在家里）和"stay over"（过夜）的区别微妙而重要。"Stay in"是与"go out"（出门）对立的选择——周五晚上，你是选择"stay in"看Netflix，还是"go bowling"（打保龄球）？"Go bowling"中的"bowl"来自拉丁语"bulla"（球），保龄球运动可追溯到古埃及——考古学家在公元前3200年的墓葬中发现了类似保龄球的器具。
+- **bite to eat** — 一点吃的、随便吃点。搭配：grab a bite to eat / get a bite / a quick bite。例句：Let's grab a bite to eat before the movie. 非常口语化，不指正式大餐，而是随便吃点东西。
 
-- "Fond of"（喜欢）比"like"更温柔、更持久，暗示一种深层的、习惯性的喜爱，常用于描述长期爱好。
-- "Rather"（宁愿）是英语中表达偏好的核心词："I'd rather stay in"（我宁愿待在家），比"I prefer"更口语化。
-- "Whose turn"（轮到谁）是游戏之夜的灵魂问题，"turn"来自拉丁语"tornare"（旋转），原指"轮盘的一转"。
-- "Bite to eat"（吃点东西）中的"bite"（咬一口）把进食缩小为最小单位，暗示"随便吃点，不用太正式"。
-- "Skip"（跳过）在周五计划中意味着"省略某个环节"——"Let's skip dinner and go straight to bowling"（跳过晚饭直接去打保龄球）。
+- **game night** — 游戏之夜。朋友们聚在一起玩桌游、纸牌、dominoes 等的社交活动。搭配：have a game night / host a game night / Friday game night。美国社交文化中很常见的固定聚会形式。
+
+- **dominoes** — 多米诺骨牌。一种经典桌游，把骨牌排成线然后推倒，或者按点数配对出牌。注意拼写以 -oes 结尾（类似 tomatoes, potatoes）。搭配：play dominoes / a game of dominoes。
+
+- **whenever / whichever / whoever** — 三个"无论"词。whenever = 无论何时：Come whenever you want. whichever = 无论哪个：Whichever place you pick is fine. whoever = 无论谁：Whoever wants to come is welcome. 它们比 when / which / who 多一层"无所谓、都可以"的开放感。
+
+- **whose turn** — 轮到谁了。搭配：Whose turn is it? / It's your turn. / whose turn to play。game night 中的高频句：Whose turn is it to roll the dice? 注意 whose 是所有格"谁的"，不是 who's（who is）。
+
+- **stay in / stay over** — stay in 是"待在家里（不出门）"：Let's stay in tonight. stay over 是"在别人家过夜"：You can stay over at my place. 注意区分：stay in 的反义是 go out；stay over 强调的是过夜，不只是待着。
+
+- **skip** — 跳过、不去。搭配：skip a meal / skip class / skip bowling tonight。例句：I'm tired—let's skip the movie and just stay in. 比 not go to 更简洁有力。口语中极常用。
+
+- **salty** — 咸的。形容词，名词是 salt。搭配：salty french fries / too salty / salty snacks。注意 salty 在口语中还有比喻义"不爽的、生气的"：He's still salty about losing the game. 但本单元中是字面意思。
+
+- **french fries** — 薯条（美式）。英式叫 chips。搭配：a side of french fries / curly french fries / loaded french fries。注意 french 在这里不大写（已经通用化），但正式写作中有时仍写 French fries。
+
+- **it's your choice / in mind** — it's your choice = 你来决定、你说了算。比 you decide 更强调尊重对方意愿。in mind = 心里想的、心目中的：Do you have a specific place in mind? / I have something in mind. 搭配：bear in mind（记住）、keep in mind（留意）。
+
+- **however** — 这里不是"然而"，而是"无论多么"：However salty the fries are, I'll eat them. 等于 no matter how。注意和表转折的 however 区分：I like bowling; however, I'm not good at it.（然而）。

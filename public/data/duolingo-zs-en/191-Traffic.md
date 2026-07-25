@@ -6,18 +6,26 @@
 
 allow, allowed to, buckle, car accident, concentrate, cycle, driving test, for, had better, had better not, illegal, miss, next, parking garage, pedestrian, seatbelt, speed, stoplight, supposed to, ticket, tunnel, zone
 
+## 单元讲解
+
+本单元让你给出驾驶建议。核心结构是 had better / had better not 和 supposed to / allowed to：You'd better buckle your seatbelt and concentrate on the road. You're not supposed to speed in this zone—it's illegal, and you'll get a ticket.（你最好系好安全带、专心开车。你不应该在这个区域超速——这是违法的，你会被开罚单。）Pedestrians are allowed to cross at the next stoplight. The parking garage is near the tunnel.（行人可以在下一个红绿灯过马路。停车场在隧道附近。）
+
+词表里有交通规则词汇：speed, stoplight, pedestrian, seatbelt, ticket, illegal, zone, car accident。也有驾驶动作：buckle, concentrate, cycle, miss, allow。driving test 是驾照考试。parking garage 是停车楼。tunnel 是隧道。
+
+had better 比 should 语气更强，暗示"不这样做会有不好的后果"。supposed to 表示"按规定应该"。allowed to 表示"被允许"。for 在此可能表示原因或对象：a ticket for speeding。
+
 ## Tips
 
-"Traffic"来自古法语"trafique"，可能源自意大利语"traffico"，最终可能与阿拉伯语有关——因为中世纪地中海贸易主要由阿拉伯商人主导。"Pedestrian"（行人）来自拉丁语"pedester"（步行的），由"pes, pedis"（脚）派生，与"pedal"（踏板）、"pediatrician"（儿科医生，原意是"治小孩脚的"）同源。
+- **had better / had better not** — had better + 动词原形 = 最好做（语气比 should 强，暗示后果）：You'd better slow down. 否定：You'd better not speed. 注意 had better 中的 had 不能省略（口语中缩写为 'd better），也没有 had better to 的形式。
 
-"Seatbelt"（安全带）的普及是一部用鲜血写成的历史。1959年，沃尔沃工程师尼尔斯·博林发明了三点式安全带，沃尔沃随后无偿开放了这项专利，让所有汽车制造商都能使用。据估计，这一决定至今已拯救了超过一百万条生命。"Buckle"（扣上）来自古法语"boucle"（环扣），与"buccula"（小颊甲）有关——古罗马头盔上系在下巴下面的小扣环。
+- **supposed to / allowed to** — be supposed to = 按规定应该（= should，但强调规则/期望）：You're supposed to stop at a red light. be allowed to = 被允许（= can，但强调许可）：You're not allowed to park here. 注意两者都用 be 动词。
 
-"Ticket"（罚单）在交通语境中是"罚单"的意思，但它最初的含义是"小标签"，来自古法语"estiquet"（贴上去的标签）。在18世纪的英国，"ticket"是进入剧院或乘坐马车的凭证，后来引申为任何"官方凭证"——包括交通罚单。"Tunnel"来自古法语"tonnel"（桶），因为最早的隧道形状像横放的木桶。英吉利海峡隧道（Channel Tunnel）于1994年通车，是工程史上的里程碑。
+- **buckle / seatbelt / stoplight** — buckle = 扣上（buckle up = 系好安全带）。seatbelt = 安全带（seat + belt）。stoplight = 红绿灯（= traffic light）。搭配：buckle your seatbelt / run a stoplight（闯红灯）。
 
-"Had better"是英语中表达"最好做某事"的强烈建议，语气比"should"更紧迫，暗含"否则会有不良后果"。"Supposed to"表示"应该、被期望"，来自"suppose"（假设）——社会"假设"你会遵守规则。"Illegal"来自拉丁语"illegalis"，由"in-"（不）加"legalis"（法律的）构成。
+- **speed / ticket / illegal / zone** — speed 作动词 = 超速：He was speeding. ticket 在此 = 罚单：get a ticket for speeding. illegal = 违法的（反义词 legal）。zone = 区域：a school zone / a no-parking zone.
 
-- "Had better"后接动词原形，否定形式是"had better not"（不是"hadn't better"）。
-- "Allowed to"表示"被允许"，"supposed to"表示"应该"，两者语气不同。
-- "Speed"作动词意为"超速"：He was speeding on the highway.
-- "Parking garage"是美式英语（停车楼），英式英语用"car park"或"multi-storey car park"。
-- "Zone"在交通中常指限速区域：school zone（学校区域，限速）、no-parking zone（禁停区）。
+- **pedestrian / car accident / concentrate** — pedestrian = 行人（正式用语，日常也可说 person walking）。car accident = 车祸。concentrate = 集中注意力：concentrate on the road. 搭配 concentrate on + 名词/动名词。
+
+- **parking garage / tunnel / next / for** — parking garage = 停车楼（多层停车场，英式：car park）。tunnel = 隧道。next = 下一个：the next stoplight. for 在此表原因：a ticket for speeding / fined for illegal parking.
+
+- **allow / cycle / miss / driving test** — allow = 允许：Parking is not allowed here. cycle = 骑自行车（也可作名词"自行车"，英式更常用）。miss = 错过：miss the turn（错过转弯）。driving test = 驾照考试（= driving exam）。

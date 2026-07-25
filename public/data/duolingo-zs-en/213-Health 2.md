@@ -6,17 +6,28 @@
 
 ask, blood pressure, cancer, check-up, cure, fitness, give up, good for you, healthcare, heart disease, into, liquid, not, prepare, procedure, provide, seem, sick day, tell, tongue, wait, weigh, workout, x-ray
 
+## 单元讲解
+
+本单元围绕"给出健康相关的建议"展开。词表里有医疗词汇（blood pressure, cancer, heart disease, check-up, procedure, x-ray, cure, healthcare）和健康生活表达（fitness, workout, give up, good for you, sick day, weigh）。
+
+你可以练习健康建议：You should get a check-up—your blood pressure seems high. / Give up smoking; it's good for you. / The doctor will provide a procedure. / Wait—let me ask about the x-ray. / A workout is good for your heart disease risk. / Prepare to weigh your tongue... just kidding! / I need a sick day.
+
+seem 用来表达"看起来、似乎"（You seem tired. / It seems serious.）。tell 和 ask 涉及医患沟通。not 用于否定建议（Do not skip your check-up.）。
+
 ## Tips
 
-"X-ray"中的"X"代表"未知"。1895年，德国物理学家威廉·伦琴在实验室中偶然发现了一种能穿透人体的神秘射线，因为不知道它是什么，便用数学中表示未知数的"X"来命名。他拍摄的第一张X光片是他妻子的手——骨骼清晰可见，戒指投下暗影。据说他妻子看到照片后惊呼："我看到了自己的死亡！"伦琴因此获得1901年首届诺贝尔物理学奖，但他拒绝为X射线申请专利，认为科学发现应属于全人类。
+- **blood pressure / heart disease / cancer** — blood pressure = 血压（high/low blood pressure, 缩写 BP）。heart disease = 心脏病。cancer = 癌症。搭配：check your blood pressure, reduce the risk of heart disease, fight cancer。这些是健康话题的核心词汇。
 
-"Cancer"来自拉丁语"cancer"（螃蟹）。古希腊医学之父希波克拉底观察到某些肿瘤向外延伸的血管像螃蟹的腿，便用"karkinos"（螃蟹）来命名。这个比喻延续了两千多年。而"blood pressure"（血压）的测量始于1733年，英国牧师斯蒂芬·黑尔斯将一根玻璃管插入马的颈动脉，观察到血液在管中上升了数英尺——这个粗暴的实验开创了血压测量的历史。
+- **check-up / procedure / x-ray** — check-up = 体检（get a check-up, a regular check-up）。procedure = 医疗程序/手术（a medical procedure）。x-ray = X 光（get an x-ray, take an x-ray）。搭配：schedule a check-up, a surgical procedure。
 
-"Fitness"来自古法语"fiz"（合适的），与"fit"同源。现代健身文化的兴起与19世纪末的"体力文化运动"密切相关。尤金·山道（Eugen Sandow）被称为"现代健美之父"，他在维多利亚时代的音乐厅中展示肌肉，观众为之疯狂。而"workout"作为名词直到1950年代才流行起来，伴随着美国郊区健身房文化的兴起。
+- **fitness / workout / give up** — fitness = 健康、体能（physical fitness, a fitness center）。workout = 锻炼（do a workout, a daily workout）。give up = 放弃（give up smoking / give up sugar）。搭配：improve your fitness, give up bad habits。
 
-"Tongue"来自古英语"tunge"，与拉丁语"lingua"（语言）对应——英语中"language"和"tongue"都指"语言"，因为古人认为舌头就是语言本身。医生让病人伸出舌头说"ah"的传统可追溯到古希腊，希波克拉底认为舌头的颜色和状态能反映全身健康。"Sick day"（病假）则是现代劳动权益的产物——直到20世纪初，工人生病不上班就会被解雇，带薪病假是工人运动争取来的权利。
+- **cure / healthcare / sick day** — cure = 治愈（名词：find a cure for cancer；动词：cure the disease）。healthcare = 医疗保健（the healthcare system, healthcare costs）。sick day = 病假（take a sick day, call in sick）。
 
-- "give up"意为"戒除、放弃"，如"give up smoking"（戒烟），是健康建议中的高频短语
-- "check-up"是名词（体检），"check up on"是动词短语（检查、核实），注意区分
-- "good for you"既是真心夸奖（"对你有好处"），也可以是讽刺（"那可真了不起啊"），取决于语气
-- "weigh"（称重）和"weight"（重量）发音相同但词性不同，是常见的拼写陷阱
+- **weigh / tongue / liquid** — weigh = 称重（weigh yourself / The doctor weighed me.）。注意 weigh（称重）和 weight（重量，名词）的区分。tongue = 舌头（Stick out your tongue.）。liquid = 液体（Drink more liquids. / a liquid diet）。
+
+- **seem / provide / prepare** — seem = 似乎（You seem sick. / It seems fine. / He seems to have a fever.）。provide = 提供（provide information / provide care）。prepare = 准备（prepare for the procedure / prepare the medicine）。
+
+- **good for you / ask / tell / wait / not** — good for you = 对你有好处（Exercise is good for you.），口语中也可表"真棒！"。ask = 询问（ask the doctor）。tell = 告诉（Tell me what hurts.）。wait = 等待（Wait here.）。not 用于否定（Do not eat before the x-ray.）。
+
+- **into** — into 在这里可能搭配 look into（调查、研究：The doctor will look into it.）或 get into（进入：get into the habit of working out）。具体含义取决于搭配。

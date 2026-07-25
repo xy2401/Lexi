@@ -6,18 +6,36 @@
 
 availability, call in sick, cooperate, cut, decline, in the long run, itself, let go, move on, on top of, once, partner, performance, retirement, shift, spreadsheet, strategy, take, that reminds me, the point is that, the reason that, the thing is that, unacceptable, unreliable, what if
 
+## 单元讲解
+
+本单元围绕"分享决定的理由"展开，场景是职场沟通。词表里有职场核心词汇（performance, strategy, spreadsheet, shift, partner, retirement, availability），有人事变动表达（let go, call in sick, cut, decline, move on），也有解释理由的句式（the reason that, the point is that, the thing is that, that reminds me, what if, in the long run）。你可以用这些词讨论职场决定：The reason that we had to let him go is that his performance was unacceptable. / The point is that, in the long run, this strategy will help. / The thing is that she's been unreliable—on top of that, she called in sick again. / That reminds me, we need to cut the budget. / What if we move on to a new partner?
+
+这里值得注意 the reason that / the point is that / the thing is that 这组"解释性"句式——它们都用于引出理由或重点，但语气不同：the reason that 最正式（给出原因），the point is that 强调核心（重点是），the thing is that 最口语（事情是这样的）。
+
+学完本单元，你可以用英语在职场中解释决定的原因、讨论人事变动，并用不同句式表达理由。
+
 ## Tips
 
-"Strategy"（策略）一词源自古希腊语"strategos"，意为"将军"。在古希腊城邦中，strategos是最高军事指挥官，负责制定作战计划。伯里克利时代的雅典每年选举十位strategos来统领军队。这个词从战场走入办公室，反映了现代商业竞争与古代战争的深层类比——商场如战场，这一隐喻在东西方文化中都不约而同地存在。
+- **the reason that / the point is that / the thing is that** — 都用于解释，语气递减。the reason that = 原因是（正式），the point is that = 重点是（强调核心），the thing is that = 事情是（口语铺垫）。The reason that we cut the budget is clear. / The point is that we need a new strategy. / The thing is that he's unreliable.
 
-"Spreadsheet"（电子表格）的历史比大多数人想象的要早。在计算机诞生之前，会计师们使用真正的"spread sheet"——一张铺满整张大桌子的巨大纸张，上面画满格子来记录数据。1979年，Dan Bricklin在哈佛商学院上课时，看到教授在黑板上擦擦写写地更新财务模型，突然想到：如果这些格子能自动计算该多好？于是他发明了VisiCalc——世界上第一个电子表格软件，直接催生了后来的Lotus 1-2-3和Microsoft Excel。
+- **let go / call in sick** — let go = 解雇（委婉说法），call in sick = 打电话请病假。搭配：let sb go, get let go, call in sick。We had to let him go. / She called in sick again. 注意 let go 比 fire 更委婉，比 lay off（裁员）更针对个人。
 
-"Retirement"（退休）作为一个普遍的社会制度，历史并不悠久。1889年，德国宰相俾斯麦建立了世界上第一个国家养老金制度，当时设定的退休年龄是70岁——而那时德国人的平均寿命才45岁左右，所以几乎没人能真正"退休"。美国直到1935年罗斯福新政时期才建立社会保障体系。在此之前，人们工作到死，或者依靠子女赡养。"Let go"（解雇）这个委婉说法则反映了20世纪美国企业文化中对直接说"fire"的忌讳。
+- **performance / strategy / spreadsheet** — performance 是表现/绩效，strategy 是策略，spreadsheet 是电子表格。搭配：job performance, a new strategy, update the spreadsheet。His performance was unacceptable. / We need a better strategy. / The numbers are in the spreadsheet.
 
-"Performance"（绩效/表现）来自古法语"parformance"，意为"完成、执行"。在中世纪，这个词主要用于法律和戏剧领域——完成一项法律义务，或完成一场戏剧演出。到了20世纪，随着泰勒科学管理理论的兴起，performance被引入工厂和办公室，成为衡量工人效率的核心指标。从舞台到车间再到格子间，performance的含义演变本身就是一部劳动史。
+- **unacceptable / unreliable** — unacceptable 是不可接受的，unreliable 是不可靠的。搭配：unacceptable behavior, an unreliable partner。His attitude is unacceptable. / She's unreliable—always calling in sick. 构词：un- + acceptable / reliable。注意 un- 是否定前缀。
 
-- "Call in sick"（打电话请病假）反映了电话时代的办公文化，如今虽然可以发邮件或发消息，但这个短语依然保留。
-- "In the long run"（从长远来看）中的"run"不是"跑步"，而是"进程、趋势"，类似中文的"长远来看"。
-- "The thing is that..."是英语口语中引出关键信息的经典句式，比直接陈述更委婉，给听者心理准备。
-- "Shift"既指"轮班"也指"转变"，在办公室语境中两者都常见，体现了英语一词多义的特点。
-- "Partner"（合伙人/搭档）在商业语境中源自中世纪行会制度，行会成员之间互称partner，共担风险、共享利润。
+- **in the long run** — 从长远来看。搭配：in the long run, ...。In the long run, this decision will help. 反义：in the short run（短期来看）。注意 run 在这里不是"跑"，而是"一段时间"。
+
+- **on top of / on top of that** — on top of = 除……之外（还有），on top of that = 更有甚者。搭配：on top of his mistakes, on top of that...。On top of being late, he missed the deadline. / On top of that, he declined to cooperate. 表示"雪上加霜"的递进。
+
+- **move on / decline / cut** — move on = 继续前进/翻篇，decline = 拒绝（正式），cut = 削减。搭配：move on to the next thing, decline an offer, cut the budget。Let's move on. / She declined the partnership. / We need to cut costs. 注意 decline 比 refuse 更礼貌、更正式。
+
+- **shift / availability / retirement** — shift 是轮班/转变，availability 是可用时间/是否有空，retirement 是退休。搭配：work a shift, check your availability, plan for retirement。What's your availability this week? / He's planning his retirement. 注意 shift 可指"班次"也可指"转变"。
+
+- **that reminds me** — 那提醒我了、对了（想起另一件事）。搭配：That reminds me, ...。That reminds me—we need to update the spreadsheet. 用于对话中突然想起相关的事，非常口语化。
+
+- **what if** — 如果……怎么办/要是……呢。搭配：What if + 从句。What if we try a new strategy? / What if he declines? 用于提出假设或担忧。注意 what if 后可接现在时（真实可能）或过去时（虚拟）。
+
+- **cooperate / partner** — cooperate 是合作（动词），partner 是合作伙伴（名词）。搭配：cooperate with, a business partner。We need to cooperate better. / Our partner is unreliable. 注意 cooperate 搭配 with：cooperate with the team。
+
+- **itself / once / take** — itself 是反身代词（它自己），once 是"一旦/曾经"，take 含义丰富。搭配：the problem itself, once we decide, take a shift。The strategy itself is fine. / Once we move on, things will improve. / I'll take the morning shift. 注意 once 作连词 = 一旦：Once you start, you can't stop.

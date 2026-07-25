@@ -6,18 +6,26 @@
 
 against, crash, damage, decrease, explode, flood, happen, has there been, have there been, improvement, increase, involve, most of, murder, protest, recent, shoot, shot, there has been, there hasn't been, there have been, there haven't been, unemployment, warning
 
+## 单元讲解
+
+本单元让你像新闻记者一样报道近期事件。核心结构是 there has been / there have been 及其否定和疑问形式：There has been a flood in the south. There haven't been any improvements in unemployment. Has there been a crash on the highway?（南方发生了洪水。失业率没有任何改善。高速公路上发生了车祸吗？）
+
+词表里有大量新闻事件词汇：crash, flood, explode, murder, protest, shoot / shot, damage, warning。也有趋势类词汇：increase, decrease, improvement, unemployment。这些词构成了"报道发生了什么、趋势如何"的基本语料。
+
+against, involve, most of, recent, happen 提供叙事框架：The protest was against the new law. Most of the damage happened recently. The crash involved three cars.（抗议是针对新法律的。大部分损失是最近发生的。车祸涉及三辆车。）there has been / there have been 是 there be 句型的现在完成时，用来报道"已经发生了某事"。
+
 ## Tips
 
-"Newspaper"的历史可以追溯到1605年，德国斯特拉斯堡出版了世界上第一份周报。英语中"news"据说是"north, east, west, south"四个方向首字母的组合（这是民间词源，实际来自"new"的复数形式）。"Journalism"来自法语"journal"（每日的），而"journal"又来自拉丁语"diurnalis"（每天的）。新闻的本质就是"记录每一天发生的事"。
+- **there has been / there have been / there hasn't been / there haven't been** — there be 的现在完成时。has been 接单数/不可数：There has been an accident. have been 接复数：There have been protests. 否定：There hasn't been any improvement. 疑问：Has there been a flood?
 
-"Protest"来自拉丁语"protestari"（公开声明），由"pro-"（向前）和"testari"（作证）组成，原意是"公开作证、表明立场"。从马丁·路德在维滕贝格教堂门上张贴《九十五条论纲》（他因此被称为"Protestant"——抗议者），到20世纪的民权运动，"protest"始终是英语世界中公民表达异议的核心词汇。
+- **has there been / have there been** — 疑问形式，将 has/have 提前：Has there been a crash? / Have there been any warnings? 注意 there 仍然保留在句中。
 
-"Explode"来自拉丁语"explodere"，由"ex-"（出）和"plaudere"（鼓掌）组成——最初的意思竟然是"把演员嘘下台"！古罗马观众如果不喜欢一个演员，就会发出巨大的噪音把他"轰出去"。后来这个词才演变为"爆炸"。"Crash"是一个拟声词，模仿金属碰撞的巨响，在新闻中既指车祸也指经济崩盘。
+- **crash / flood / explode / murder** — crash = 车祸/碰撞（也可指飞机坠毁）。flood = 洪水/洪灾。explode = 爆炸。murder = 谋杀（名词/动词）。这些是新闻高频词。搭配：a car crash / a flash flood / a bomb exploded。
 
-"Unemployment"（失业）是新闻中最常见的经济术语之一。"Flood"（洪水）来自古英语"flōd"，与德语"Flut"同源。"Warning"（警告）来自古英语"warnian"（警惕），在新闻中常以"storm warning""flood warning"的形式出现。"There has been / there have been"是新闻报道的经典开头句式，用于宣布最近发生的事件。
+- **shoot / shot / protest / warning** — shoot = 射击（动词），shot 是过去式/过去分词，也可作名词"一枪"。protest = 抗议（名词/动词）：stage a protest. warning = 警告：issue a warning.
 
-- "There has been"接单数或不可数名词，"there have been"接复数名词：There has been an accident. / There have been protests.
-- "Shot"是"shoot"的过去式和过去分词，也是名词（一枪）：shoot-shot-shot。
-- "Most of"后面接限定词+名词：most of the people（不能说most of people）。
-- "Against"在新闻中常表示"反对"或"靠着"：protest against the policy / lean against the wall。
-- "Recent"（最近的）比"latest"（最新的）时间范围更宽泛，可以指过去几周内的事。
+- **increase / decrease / improvement / unemployment** — increase = 增加（名词/动词）。decrease = 减少。improvement = 改善（improve + -ment）。unemployment = 失业（un- + employ + -ment）。搭配：an increase in crime / a decrease in unemployment。
+
+- **against / involve / most of** — against = 反对/对着：protest against the law. involve = 涉及：The crash involved two trucks. most of = 大部分：most of the damage. 注意 most of 后接限定词（the/these/my 等）。
+
+- **recent / happen / damage** — recent = 近期的：a recent event. happen = 发生（不及物，无被动）：It happened yesterday.（不能说 It was happened.）damage = 损害（不可数名词）：serious damage.

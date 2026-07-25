@@ -6,17 +6,38 @@
 
 aware, cheat on, childish, concerned, could, could have, could've, couldn't have, criticize, emotional, entire, get the feeling, have no clue, ignore, keep, leave, let's not, liar, misunderstanding, offend, should, should have, should've, shouldn't have, temper, total
 
+## 单元讲解
+
+本单元围绕"分享对某件事的感受"展开，场景偏向人际关系中的矛盾与情绪。词表里有情感与态度词（emotional, concerned, aware, childish, temper），有对过去行为的反思（could have, should have, shouldn't have, regret 的意味），也有人际冲突词汇（cheat on, liar, offend, criticize, misunderstanding）。你可以用这些词表达对一段关系的感受：I get the feeling that he's been a total liar. / I should have been more aware. / I couldn't have known he would cheat on me. / Let's not criticize each other—this is just a misunderstanding.
+
+这里值得注意 could have / should have / shouldn't have 这组"事后反思"结构。should have done = 本应该做（但没做），shouldn't have done = 本不该做（但做了），could have done = 本可以做（但没做），couldn't have done = 不可能做了（表推断）。口语中常缩写为 should've / could've。
+
+学完本单元，你可以用英语表达对人际冲突的感受，反思过去的决定，并给出或接受建议。
+
 ## Tips
 
-"Emotional"来自拉丁语"emovere"（移出、搅动），由"e-"（出）和"movere"（移动）构成。情绪就是"被搅动起来"的内心状态。古希腊斯多葛学派认为情绪是理性的敌人，应该被彻底压制；而亚里士多德在《修辞学》中详细分析了愤怒、恐惧、怜悯等情绪，认为它们是说服术的核心工具。到了19世纪，达尔文在《人类和动物的情感表达》中论证情绪是进化的产物——恐惧让人逃跑，愤怒让人战斗，每种情绪都有生存价值。
+- **should have / shouldn't have** — "本应该/本不应该"，用于事后反思。I should have listened to you.（我没听）/ I shouldn't have said that.（我说了）口语缩写 should've / shouldn't have。注意 × should of 是常见拼写错误，正确是 should have。
 
-"Temper"来自拉丁语"temperare"（混合、调节），原指将不同金属按正确比例混合。古英语中"temper"指事物的"正确比例"或"平衡状态"。一个人"lose one's temper"（发脾气）就是失去了内心的"平衡"。有趣的是，"temper"在冶金学中仍保留着"回火"的意思——将钢铁加热后缓慢冷却，使其获得恰当的硬度。人的脾气也需要"回火"：太硬则脆，太软则弱。
+- **could have / couldn't have** — could have done = 本可以做（但没做）：I could have left earlier. couldn't have done 有两种含义：1）本不可能做（推断）：He couldn't have known. 2）即使想也做不到：I couldn't have done it without you.
 
-"Criticize"来自希腊语"kritikos"（能够判断的），与"crisis"（危机）同源。在古希腊，"kritikos"是文学评论家——能够"判断"作品优劣的人。苏格拉底自称是雅典的"牛虻"，用不断的质疑和批评来刺激城邦思考。然而"criticize"在现代英语中往往带有负面含义，这与英语文化中"不要直接批评他人"的社交准则有关。英国人更倾向于用"Perhaps you might consider..."这样迂回的方式表达不满。
+- **cheat on** — 在感情中出轨、对伴侣不忠。搭配：cheat on sb, cheat on a test（考试作弊）。He cheated on his girlfriend. 注意 cheat on sb（对人）vs cheat in/on a test（对考试）。
 
-"Misunderstanding"由"mis-"（错误）和"understanding"（理解）构成。"Mis-"这个前缀来自古英语，表示"错误、不当"，在英语中极为多产：mistake, mislead, misjudge, misbehave。莎士比亚的许多悲剧都源于misunderstanding——《奥赛罗》中，一块手帕的误解导致了谋杀；《罗密欧与朱丽叶》中，一封未送达的信导致了双双殉情。
+- **get the feeling** — 有某种感觉、觉得。搭配：get the feeling that..., I'm getting the feeling。I get the feeling that something is wrong. 比 I think 更强调直觉和感受，而非理性判断。
 
-- "should've"和"could've"是口语缩合，书写正式文本时应写全"should have / could have"
-- "have no clue"比"don't know"语气更强，表示"完全不知道、毫无头绪"
-- "cheat on"特指在感情中出轨，而"cheat"单独使用可以指考试作弊等
-- "let's not"是"let us not"的缩合，用于建议不要做某事：Let's not argue about this（我们别为这个吵了）
+- **have no clue** — 完全不知道、毫无头绪。搭配：have no clue about, I have no clue。I have no clue what happened. 比 I don't know 语气更强，强调"一点都不知道"。口语中常说 I haven't got a clue。
+
+- **temper** — 脾气。搭配：lose your temper, have a temper, a bad temper。Don't lose your temper! 注意 lose your temper = 发脾气（固定搭配），× lose your angry 是错误的。
+
+- **misunderstanding** — 误会、误解。搭配：a misunderstanding, clear up a misunderstanding。It was just a misunderstanding. 构词：mis-（错误）+ understanding（理解）。动词是 misunderstand。
+
+- **offend / criticize** — offend 是冒犯（让人不舒服），criticize 是批评（指出缺点）。搭配：offend sb, criticize sb for sth。I didn't mean to offend you. / She criticized his childish behavior. 注意 offend 不一定是故意的，criticize 通常是有意的。
+
+- **childish / emotional** — childish 是幼稚的（贬义），emotional 是情绪化的。搭配：childish behavior, get emotional。Stop being so childish! / She got emotional and started to cry. 注意 childish（贬义）vs childlike（褒义，天真烂漫）。
+
+- **let's not** — 咱们别……。搭配：let's not + 动词原形。Let's not argue about this. 是 let's 的否定形式，比 don't let's 更常用。语气是建议性的，不是命令。
+
+- **total / entire** — 都表"完全的"，但用法略有不同。total 常修饰抽象名词：a total liar, a total misunderstanding。entire 强调整体、全部：the entire day, my entire life。a total mess / the entire story。
+
+- **aware / concerned** — aware 是意识到的，concerned 是担心的。搭配：be aware of, be concerned about。I'm aware of the problem. / I'm concerned about his temper. 注意 aware 偏"知道"，concerned 偏"担心"。
+
+- **liar** — 说谎者。搭配：a total liar, call sb a liar。构词：lie（说谎）+ -ar（人）。注意拼写：liar 不是 × lier。动词 lie 的过去式是 lied（说谎），不要和 lay（躺下）混淆。

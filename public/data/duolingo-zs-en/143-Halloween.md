@@ -6,20 +6,37 @@
 
 Halloween, bat, costume, did, didn't, do, does, doesn't, don't, fashionable, fit, loose, match, shop, so that, tear, tie, tight, tore, torn, tying, witch
 
+## 单元讲解
+
+本单元围绕"询问某人的偏好"展开，以万圣节为场景。核心是服装描述和偏好询问：Do you like this costume? It fits perfectly!（你喜欢这套服装吗？很合身！）、She dressed up as a witch for Halloween.（她万圣节扮成了女巫。）、The shirt is too tight—I prefer something loose.（这件衬衫太紧了——我喜欢宽松一点的。）、I tore my costume while tying the bat wings.（我系蝙蝠翅膀的时候把服装撕破了。）。
+
+词表里有服装描述词（tight, loose, fit, fashionable）和动词变化（tear → tore → torn, tie → tying）。你可以练习：The costume doesn't fit. / Does this match? / She's tying the ribbon. / The bat flew away.
+
+so that 表示"以便/为了"。tear → tore → torn 是不规则变化。
+
 ## Tips
 
-"Halloween"（万圣节前夕）是"All Hallows' Evening"的缩写，"hallow"是古英语"hālig"（神圣的），即"圣"。11月1日是天主教的"诸圣节"（All Saints' Day），纪念所有圣徒。而10月31日的夜晚，在更古老的凯尔特传统中，是"Samhain"（夏末节）——凯尔特人相信这一夜，生者与死者的世界之间的帷幕最薄，亡灵可以重返人间。人们点燃篝火、戴上可怕的面具，不是为了庆祝，而是为了吓走游荡的鬼魂。
+- **costume / fit / tight / loose** — 服装 / 合身 / 紧的 / 松的。搭配：wear a costume, fit well, too tight, a loose fit。例句：I bought a Halloween costume. / It fits perfectly. / It's too tight. / I like loose clothes. 注意 fit 可作动词也可作形容词。
 
-"Witch"（女巫）来自古英语"wicce"（女性智者），与"wise"（智慧的）有远亲关系。最初"witch"不是贬义词，而是指懂得草药医术和自然知识的乡村女性。中世纪晚期到近代早期（约1450-1750年），欧洲爆发了疯狂的"猎巫运动"，数万人（绝大多数是女性）被指控为女巫并处死。1692年美国塞勒姆审巫案是这段黑暗历史的尾声。"Witch"这个词承载了太多恐惧、偏见和悲剧。
+- **Halloween / witch / bat** — 万圣节 / 女巫 / 蝙蝠。搭配：on Halloween, dress as a witch, a bat。例句：What are you for Halloween? / She dressed as a witch. / A bat flew out of the cave. 注意 Halloween = October 31st。
 
-"Costume"（服装/戏服）来自意大利语"costume"（习俗），最终源自拉丁语"consuetudo"（习惯）。在Halloween语境中，costume特指"变装服"——穿上另一个身份的外壳。古凯尔特人在Samhain之夜穿上动物皮毛，伪装成鬼魂，让真正的恶灵以为你是同类而不去骚扰你。"Bat"（蝙蝠）在万圣节意象中的核心地位来自爱尔兰传说——吸血鬼德古拉伯爵的故事让蝙蝠与黑暗、恐惧永远绑定在一起。
+- **tear / tore / torn** — 撕裂 / 撕了 / 被撕破。搭配：tear the paper, tore my shirt, a torn page。例句：Don't tear the costume! / I tore it by accident. / The flag is torn. 注意 tear → tore → torn（不规则动词）。
 
-"Tear"（撕裂）和"tie"（系）是万圣节服装制作中最常遇到的两个动作。"Tear"来自古英语"teran"（撕碎），与希腊语"derma"（皮肤）有远亲关系——撕裂就是"剥皮"般的暴力。"Tie"来自古英语"tēag"（绳子、纽带），与"team"（团队）同源——系就是把东西"绑成一组"。"Torn"（被撕裂的）是tear的过去分词，保留了古英语的元音交替传统。
+- **tie / tying / match** — 系 / 正在系 / 搭配。搭配：tie a knot, tying a ribbon, match the colors。例句：Tie your shoes. / She's tying the bow. / The shoes match the dress. 注意 tie → tying（去 e 加 ing）。
 
-"Fashionable"（时尚的）来自古法语"façon"（方式、形状），最终源自拉丁语"factio"（制作）。"Fashion"最初指"制作的方式"，15世纪后专指"穿衣的方式"。有趣的是，中世纪欧洲的"sumptuary laws"（奢侈法）严格规定了不同社会等级能穿什么面料和颜色——紫色只属于王室，平民穿紫色是违法的。"Fit"（合身的）来自古英语"fitt"（冲突、遭遇），后来演变为"适合"——一件衣服"fit"你，就是它与你"相遇"得恰到好处。
+- **fashionable / shop / do / does** — 时尚的 / 购物 / 做。搭配：fashionable clothes, go shopping, Do you like...? / Does she like...? 例句：That's very fashionable. / Let's shop for costumes. / Do you like this one? 注意 Does 用于第三人称单数。
 
-- "Halloween"中的"een"是"evening"的古英语缩写"ēfen"，与苏格兰语"e'en"同源——Halloween就是"圣徒之夜"。
-- "Loose"（宽松的）和"lose"（丢失）拼写相近但发音不同：loose读/luːs/，lose读/luːz/。记住：loose有两个o，像宽松的衣服有多余的布料。
-- "Match"（搭配）来自古法语"meche"（灯芯），原意是"配对"——灯芯和火焰必须"匹配"才能燃烧。
-- "Tight"（紧的）来自古英语"þēon"（压缩），与"thigh"（大腿）有远亲关系——紧绷的大腿肌肉就是"tight"的原始画面。
-- "Shop"（商店）来自古英语"scoppa"（摊位），中世纪的shop就是市集上的一个木板摊位，而非今天的固定店铺。
+- **so that / don't / didn't** — 以便 / 不要 / 没有。搭配：so that + 从句, don't + 动词原形, didn't + 动词原形。例句：I bought it so that we'd match. / Don't wear that! / I didn't buy it. 注意 so that 表目的。
+
+- **doesn't / didn't / do** — 不（三单）/ 没有 / 做。搭配：doesn't fit, didn't tear, Do you mind? 例句：It doesn't fit me. / She didn't go shopping. / Do you prefer this? 注意 doesn't 后接动词原形。
+
+- **tight / loose / fit** — 紧 / 松 / 合身。搭配：too tight, too loose, a good fit。例句：These jeans are too tight. / The shirt is loose. / It's a perfect fit. 注意 tight 和 loose 是反义词。
+
+- **match / fashionable / costume** — 搭配 / 时尚 / 服装。搭配：match with, fashionable style, a fancy costume。例句：The hat matches the costume. / She's very fashionable. / What a cool costume! 注意 match 可作动词（搭配）。
+
+- **witch / bat / Halloween** — 女巫 / 蝙蝠 / 万圣节。搭配：a scary witch, a bat costume, Halloween night。例句：The witch had a black hat. / I'm going as a bat. / Halloween is fun! 注意这些是万圣节经典元素。
+
+- **tear / torn / tie** — 撕 / 破的 / 系。搭配：tear apart, a torn sleeve, tie up。例句：Be careful not to tear it. / The costume is torn. / Tie the strings together. 注意 torn 是 tear 的过去分词。
+
+- **shop / so that / fashionable** — 购物 / 以便 / 时尚。搭配：shop for clothes, so that + 目的, look fashionable。例句：I need to shop for a costume. / I sewed it so that it would fit. / I want to look fashionable. 注意 shop 可作动词。
+

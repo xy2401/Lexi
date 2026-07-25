@@ -6,17 +6,38 @@
 
 afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if only, lottery, marry, oh well, regret, satisfied, silly, step, take advantage, unlikely, wish
 
+## 单元讲解
+
+本单元围绕"表达对生活的愿望"展开。词表里有愿望与期望的核心表达（wish, hope, hopeful, if only, come true），也有面对现实的态度词（afraid, regret, satisfied, unlikely, oh well, silly）。你可以用这些词谈论梦想与遗憾：I wish I could win the lottery. / If only I had taken that chance. / I hope my dream will come true. / Oh well, it's unlikely, but I'm still hopeful.
+
+这里值得注意 wish 和 hope 的区别：hope 用于可能实现的事（I hope it rains tomorrow），wish 常用于不太可能或与事实相反的愿望（I wish I were rich）。if only 语气更强烈，带有遗憾：If only I hadn't been so silly.
+
+学完本单元，你可以用英语表达愿望、遗憾和对未来的期望，也能用 oh well 和 unlikely 来调侃现实。
+
 ## Tips
 
-"Lottery"来自意大利语"lotteria"，而"lotto"意为"命运、份额"。世界上最早的彩票可追溯到公元前200年的中国汉朝——"白鸽票"的 수익被用来资助长城的修建。在欧洲，15世纪的意大利城邦用抽签方式分配公共职位，"lottery"由此得名。1569年，英格兰女王伊丽莎白一世发行了第一张国家彩票，为的是筹集资金修缮港口。如今美国"Powerball"彩票的累积奖金可超过十亿美元，但中头奖的概率约为2.9亿分之一——比被闪电击中的概率还低得多。
+- **wish / hope** — 两者都表"希望"，但用法不同。hope 后接可能实现的事：I hope you feel better. wish 用于虚拟或与事实相反：I wish I had more time.（实际没有）wish 后接过去式表现在的遗憾，接 had done 表过去的遗憾。
 
-"Wish"来自古英语"wyscan"，与德语"wünschen"同源。在日耳曼神话中，奥丁的"许愿戒指"（Draupnir）每九天就能复制出八个同样的金环。"If only"是英语中最富感情的虚拟语气表达之一，它承载着对不可改变之事的深深遗憾。莎士比亚在《理查三世》中让垂死的国王叹息："If only I could recall those hours..."（要是我能唤回那些时光……）——这种对过去的无力感，是人类共通的情感体验。
+- **if only** — "要是……就好了"，语气比 wish 更强烈、更感性。If only I had married her. / If only I weren't so afraid. 常用于感叹句，表达深深的遗憾或渴望。
 
-"Regret"来自古法语"regreter"（哀悼、思念），可能源自古诺尔斯语"grata"（哭泣）。后悔是一种独特的时间体验——我们站在现在，为过去的选择感到痛苦。法国哲学家萨特说："人是被判定为自由的。"正因为我们有选择的自由，才会有后悔。"Come true"（实现）字面意思是"变成真的"，这个表达暗示愿望在被实现之前只是"虚幻"的——许愿的本质就是希望虚幻变为现实。
+- **come true** — （梦想、愿望）实现。搭配：a dream comes true, make a wish come true。注意主语是 dream/wish，不是人：My dream came true.（× I came true my dream）。
 
-"Habit"来自拉丁语"habitus"（状态、条件），由"habere"（拥有）派生。亚里士多德说："我们反复做的事情造就了我们。因此，卓越不是一种行为，而是一种习惯。"而"encourage"来自古法语"encoragier"，由"en-"（使）和"corage"（心）构成——鼓励就是"使某人有心"，给予他们勇气。有趣的是，"courage"（勇气）本身就来自"cor"（心），古人认为勇气 reside 在心脏而非头脑中。
+- **regret** — 后悔、遗憾。搭配：regret doing sth（后悔做过）, regret to say（遗憾地说）。I regret not taking that step. / I regret to tell you the news. 注意 regret doing = 后悔已做的事，regret to do = 遗憾将要做的事。
 
-- "if only"比"I wish"语气更强烈，带有更深的遗憾感：If only I had studied harder!（要是我当时更努力就好了！）
-- "oh well"是英语中表示无奈接受的口头禅，类似中文的"算了""好吧好吧"
-- "take advantage of"可以是正面的（利用机会）也可以是负面的（占便宜），需看语境
-- "unlikely"比"probably not"更正式，在书面语和学术语境中更常见
+- **take advantage** — 利用（机会）。完整搭配：take advantage of a chance / opportunity。注意这个短语有双重含义：中性"把握机会"或贬义"占便宜、利用别人"，要看语境。
+
+- **unlikely** — 不太可能的。搭配：It's unlikely that..., be unlikely to do。It's unlikely I'll win the lottery. 反义词是 likely。注意 × It's not likely 虽然口语能听到，但正式写作更推荐 unlikely。
+
+- **encourage** — 鼓励。搭配：encourage sb to do sth。She encouraged me to take the chance. 构词：en-（使）+ courage（勇气）→ 给予勇气。名词是 encouragement。
+
+- **habit / step** — habit 是习惯（反复做的事），step 是步骤、一步。搭配：break a habit, take a step。I have a habit of counting my steps. / Take the first step—don't be afraid.
+
+- **satisfied / hopeful** — satisfied 是"满足的"（对已得到的），hopeful 是"充满希望的"（对未来的）。搭配：be satisfied with, feel hopeful about。I'm satisfied with what I have, and hopeful about what's next.
+
+- **lottery** — 彩票、抽奖。搭配：win the lottery, play the lottery。注意搭配用 win the lottery（不是 × get the lottery）。比喻义：life's a lottery（人生如抽奖，充满不确定性）。
+
+- **oh well** — 口语感叹词，表"算了、没办法"，带一点释然或自嘲。Oh well, I guess it wasn't meant to be. 语气比 never mind 更轻松、更接受现实。
+
+- **as many** — 同样多的（数量）。搭配：as many as, as many ... as。I don't have as many chances as you. 注意 as many 修饰可数名词，as much 修饰不可数名词。
+
+- **count** — 数、计算；也有"重要"的意思。搭配：count to ten, every step counts。Every day counts.（每一天都重要。）这个"重要"义很常用：Your opinion counts.

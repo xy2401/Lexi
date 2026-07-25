@@ -6,17 +6,28 @@
 
 a, any, architect, can't wait for, culture, familiar, hang on, hardly, interrupt, introduce, journalist, love to, nice, some, sometime, speaking of, stress, twin, worth it
 
+## 单元讲解
+
+本单元的场景是社交场合中的"介绍与寒暄"。你需要把一个人介绍给另一个人，并展开简短的闲聊：Hang on—let me introduce you. This is my twin, a journalist. She's familiar with the local culture.（等一下——让我介绍你认识。这是我的双胞胎，一位记者。她对当地文化很熟悉。）Nice to meet you! I'd love to hear more sometime.（很高兴认识你！改天很想多听听。）
+
+词表里有社交功能词：introduce, nice, love to, can't wait for, sometime。也有职业名词 architect 和 journalist，以及描述关系和特质的词：twin, familiar, culture。speaking of 是闲聊中转换话题的自然过渡："Speaking of culture, have you been to any good events?" hang on 是口语中的"等一下"。
+
+hardly 和 interrupt 给场景加了一点礼貌维度：Sorry to interrupt, but I hardly know anyone here.（抱歉打断，但我在这儿几乎谁都不认识。）worth it 用来评价某事值得：The stress was worth it.（那些压力是值得的。）
+
 ## Tips
 
-"Small talk"（闲聊）这个概念本身就是一个文化现象。在英语世界，尤其是英国和美国，small talk是社交的润滑剂——谈论天气、交通、周末计划，内容不重要，重要的是建立连接。人类学家布朗尼斯瓦夫·马林诺夫斯基在1923年创造了"phatic communion"（寒暄性交流）这个术语来描述small talk：它的功能不是传递信息，而是确认"我们之间的关系是友好的"。英国人对天气的执念正是small talk的完美载体——天气永远在变，却永远不会引起真正的争论。
+- **introduce / familiar** — introduce 搭配 introduce A to B 或 introduce oneself。familiar 有两种结构：I'm familiar with it（我熟悉它）/ It's familiar to me（它对我来说很熟悉）。注意主语不同，介词不同。
 
-"Architect"（建筑师）来自希腊语"arkhitekton"，由"arkhi-"（首席）和"tekton"（木匠、建造者）组成。在古希腊，architect是"首席工匠"——不仅设计，还亲手建造。文艺复兴时期，建筑师如布鲁内莱斯基和米开朗基罗将这一职业提升为艺术：佛罗伦萨大教堂的穹顶至今仍是建筑史上的奇迹。"Journalist"（记者）来自法语"journal"（日报），而"journal"来自拉丁语"diurnalis"（每日的）——记者就是"记录每日之事的人"。
+- **speaking of / hang on** — speaking of 是口语中极常用的话题转换词："Speaking of architects, my neighbor is one." hang on = wait a moment，比 wait 更口语、更随意。
 
-"Twin"（双胞胎）来自古英语"twinn"（成双的），与"two"（二）和"twice"（两次）同源。在许多文化中，双胞胎被赋予特殊的象征意义：罗马建城神话中，罗慕路斯和雷穆斯是被母狼哺育的双胞胎兄弟；希腊神话中，卡斯托尔和波吕克斯是宙斯的双生子，化为天上的双子座。"Familiar"（熟悉的）来自拉丁语"familiaris"（属于家庭的），与"family"（家庭）同源——"熟悉的"最初就是"像家人一样的"。
+- **hardly / interrupt** — hardly 表示"几乎不"，是否定含义的副词：I hardly know him. 注意 hardly 本身已含否定，不需要再加 not。interrupt 是打断，礼貌用法：Sorry to interrupt, but...
 
-"Interrupt"（打断）来自拉丁语"interruptere"，由"inter-"（之间）和"rumpere"（打破）组成——打断就是"在话语之间打破"连续性。在small talk中，interrupt通常被视为不礼貌，但"hang on"（等一下）和"speaking of"（说到这个）是礼貌地转换话题或插入的方式。"Speaking of"字面意思是"说到……"，它像一座桥，将当前话题自然地引向新方向。
+- **can't wait for / love to** — can't wait for 表示迫不及待：I can't wait for the weekend! love to 比 like to 更热情：I'd love to join you. 注意 I'd love to 是 I would love to 的缩写，常用于接受邀请。
 
-- "Can't wait for"（迫不及待）表达强烈的期待：I can't wait for the weekend!（我迫不及待想周末到来！）
-- "Hardly"（几乎不）是否定副词：I hardly know him.（我几乎不认识他。）注意它不是"hard"（努力地）的副词形式。
-- "Worth it"（值得）中的"it"指代付出的代价：The hike was exhausting, but the view was worth it.（徒步很累，但风景值得。）
-- "Sometime"（某个时候）表示不确定的未来：Let's get coffee sometime.（我们找个时间喝杯咖啡吧。）注意与"sometimes"（有时）区分。
+- **architect / journalist / twin** — architect 是建筑师（注意 ch 发 /k/ 音）。journalist 是记者，来自 journal（刊物）。twin 是双胞胎之一：my twin sister / identical twins（同卵双胞胎）。
+
+- **culture / stress / worth it** — culture 可指文化、修养。stress 在此可能是名词"压力"。worth it 是口语高频表达，表示"值得"：It was stressful, but it was worth it. 注意 worth 后面接名词或动名词：worth reading / worth the effort。
+
+- **sometime / some / any** — sometime（某个时候）≠ sometimes（有时）≠ some time（一段时间）。Let's meet sometime. some 用于肯定句，any 用于否定/疑问：Do you have any questions? I have some ideas.
+
+- **nice / a** — nice 是社交万能形容词：Nice to meet you. / That's nice. 注意 nice 比较泛，正式场合可用 pleasant, delightful 替代。a 是不定冠词，介绍职业时必用：She's an architect.（不能说 She's architect.）

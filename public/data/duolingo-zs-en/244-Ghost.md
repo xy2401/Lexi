@@ -6,18 +6,55 @@
 
 abandon, by, chimney, crawl, fall apart, flashlight, footstep, get away, had, had been, haunted, it was no use, know better, make for, off, panic, peculiar, sensation, skeleton, spirit, think through, tight, winding
 
+## 单元讲解
+
+本单元的场景是"解释你为什么感到不安"——一个闹鬼的老房子、一条蜿蜒的走廊、一闪而过的手电筒光。词表充满了恐怖故事的氛围词：haunted, skeleton, spirit, chimney, winding, peculiar。你可以这样讲述经历：I had been in that abandoned house for an hour when I heard footsteps. I knew better than to go in, but my legs made for the door anyway.（我在那栋废弃的房子里待了一个小时，突然听到脚步声。我明知不该进去，腿却不由自主地朝门口走去。）
+
+had been 是过去完成进行时，用来讲"在那之前一直在做什么"，是恐怖故事叙述的利器。it was no use（没用）、know better（明知不该）、fall apart（崩塌）这些表达让恐惧感层层递进。crawl through a tight space, the flashlight went off, a peculiar sensation——每个短语都在营造画面。
+
+学完本单元，你能用英语讲一个让人后背发凉的小故事，描述不安的感觉和逃离的冲动。
+
 ## Tips
 
-"Haunted"（闹鬼的）来自古英语"gān"（去）的过去分词形式，原意是"经常出没的"。在盎格鲁-撒克逊时代，haunt并不恐怖——它只是描述一个人经常去某个地方，就像狐狸haunt一片树林。直到中世纪，人们开始用haunted来形容那些被亡灵"频繁造访"的地方。英国据说有超过十万座闹鬼建筑，从伦敦塔到约克郡的修道院废墟，每一座都层层叠叠地积累着数百年的鬼故事。
+- **haunted** — "闹鬼的"，来自动词 haunt（萦绕、出没）。a haunted house = 鬼屋。也可以比喻"被困扰的"：a haunted look in his eyes（他眼中挥之不去的阴郁）。万圣节 haunted house 是美国经典活动。
 
-"Spirit"（灵魂/幽灵）来自拉丁语"spiritus"，原意是"呼吸"。古人观察到，人活着时有呼吸，死后呼吸停止，因此推断生命本质就是一口气。拉丁语"spiritus"、希腊语"pneuma"、希伯来语"ruach"、梵语"prana"——几乎所有古老文明都把灵魂等同于呼吸。"Skeleton"（骷髅）则来自希腊语"skeleton soma"，意为"干枯的身体"。古希腊医生盖伦用这个词指代解剖后剩下的骨架。在哥特文学传统中，骷髅是死亡最直接的象征，也是鬼故事中最经典的视觉元素。
+- **had been** — 过去完成进行时（had been doing），表示"在过去某个时间点之前一直在做某事"。I had been walking for hours when I saw the house. 恐怖故事常用它来铺垫背景。
 
-"Chimney"（烟囱）来自拉丁语"caminus"，意为"熔炉"。在鬼故事中，烟囱是超自然力量进入房屋的通道——圣诞老人从烟囱下来是温馨版本，而恶灵从烟囱渗入则是恐怖版本。维多利亚时代的鬼故事特别偏爱烟囱意象，因为那时的大宅有复杂的烟道系统，夜晚风声在烟囱中呜咽，像极了哭泣或低语。"Winding"（蜿蜒的）楼梯和走廊是哥特建筑的核心元素——它们制造视觉盲区，让恐惧在未知中发酵。
+- **it was no use** — "没用、白费力气"，后接 -ing：It was no use running. / It was no use calling for help. 类似表达：It's no good doing... 注意 use 前没有 a。
 
-"Panic"（恐慌）来自希腊神话中的牧神潘（Pan）。潘是半人半羊的森林之神，他喜欢躲在阿卡迪亚的山林中，突然发出恐怖的吼声吓唬路人。希腊人把这种无缘无故的、突然袭来的恐惧称为"panikon"——潘的恶作剧。据说马拉松战役前，潘帮助雅典人用恐慌击溃了波斯军队，雅典人因此在卫城脚下为他建了一座神庙。"Peculiar"（奇怪的）来自拉丁语"peculiaris"，原意是"属于私人财产的"（pecus=牲畜），后来演变为"独特的、古怪的"——属于你自己的东西，在别人看来总是peculiar。
+- **know better** — "明知不该、有常识不至于"。You should know better than to go in alone. = 你该知道不该一个人进去。暗含"本该更聪明"的责备或自嘲。
 
-- "It was no use"（没有用）是鬼故事中表达绝望的经典句式，暗示超自然力量面前人类努力的徒劳。
-- "Know better"（明知不该）字面意思是"知道更好的"，表达理性与恐惧的冲突——你明知没有鬼，但还是害怕。
-- "Crawl"（爬行）来自古英语，与"creep"（蹑手蹑脚）近义，但crawl更强调贴地、缓慢、令人不安的移动。
-- "Sensation"（感觉）来自拉丁语"sensus"，在鬼故事中常指那种"说不清但确实存在"的第六感。
-- "Abandon"（废弃的）来自古法语"à bandon"（置于管辖之外），被abandon的建筑脱离了人类秩序的管辖，成为鬼魂的领地。
+- **make for** — "朝……走去、冲向"。He made for the exit. / I made for the door. 比 go to 更有紧迫感，暗示快步或急切地前往。也可表"有助于"：Good communication makes for a better team.
+
+- **peculiar** — "奇怪的、古怪的"，比 strange 更正式，带有"不寻常且令人不安"的意味。a peculiar smell / a peculiar feeling。副词 peculiarly。和 odd 近义，但 peculiar 更强调"独特到怪异"。
+
+- **sensation** — "感觉、感知"，比 feeling 更正式，常指身体上的具体感受。a burning sensation / a strange sensation。也可以指"轰动"：The news caused a sensation. 一词两义，看语境。
+
+- **winding** — "蜿蜒的、弯曲的"，来自动词 wind（/waɪnd/，弯曲）。a winding road / a winding staircase。注意 wind 作"风"时读 /wɪnd/，作"弯曲"时读 /waɪnd/，拼写相同读音不同。
+
+- **crawl** — "爬行、缓慢移动"。crawl through a tight space = 从狭窄空间爬过去。也可以形容交通极慢：Traffic was crawling. 比 climb 更强调贴着地面或缓慢前行。
+
+- **fall apart** — "崩塌、散架"，既指物理结构也指情绪。The old house was falling apart. / She fell apart after the news. 非常形象的短语动词，画面感强。
+
+- **flashlight** — "手电筒"，美式说法。英式说 torch。由 flash（闪光）+ light（光）组成，很直观。搭配：turn on the flashlight / The flashlight went off.（手电筒灭了。）
+
+- **footstep** — "脚步声"。搭配：hear footsteps / follow in someone's footsteps（效仿某人）。注意 step 可数：I heard a single footstep. 复数 footsteps 更常见。
+
+- **get away** — "逃离、脱身"。get away from the house / I couldn't get away. 名词 getaway = 逃跑（尤指犯罪后）：a getaway car。和 escape 近义，但 get away 更口语。
+
+- **panic** — "恐慌"，作动词和名词都可以。I panicked. / in a panic。注意过去式 panicked（双写 k 加 ed），不是 paniced。搭配：Don't panic! / a panic attack（恐慌发作）。
+
+- **spirit** — "灵魂、幽灵"，比 ghost 更正式、更有超自然感。也可以指"精神"：team spirit / in high spirits（情绪高涨）。一词多义，恐怖语境下 = 鬼魂。
+
+- **skeleton** — "骨架、骷髅"。a skeleton in the closet = 不可告人的秘密（习语）。形容词 skeletal（骨瘦如柴的）。万圣节装饰常见 skeleton。
+
+- **abandon** — "抛弃、废弃"。an abandoned house = 废弃的房子。动词：They abandoned the plan. 比 leave 更强烈，暗示"彻底丢弃、不再回来"。名词 abandonment。
+
+- **chimney** — "烟囱"。搭配：Santa comes down the chimney.（圣诞老人从烟囱下来。）/ a chimney sweep（扫烟囱的人）。在恐怖故事里，烟囱常是奇怪声音的来源。
+
+- **tight** — "紧的、狭窄的"。a tight space = 狭窄空间。也可以形容"紧张的"：a tight schedule。和 narrow 近义，但 tight 更强调"挤、压迫感"。
+
+- **think through** — "仔细想清楚"。Think it through before you act. = 行动前想清楚。比 think about 更强调"想透彻、想完整"。through 暗示从头想到尾。
+
+- **off** — 本单元中 likely 出现在 the flashlight went off（手电筒灭了）。go off 可以指"熄灭""响起""爆炸"，含义丰富。off 本身表"离开、关闭"，是英语中最灵活的小词之一。
+

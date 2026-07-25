@@ -6,18 +6,26 @@
 
 accent, bunch, can, can't, charming, clean up, come in, could, couldn't, doing, gorgeous, like, lyrics, mustache, right, set up, should, shouldn't, well-dressed, whose, will, won't
 
+## 单元讲解
+
+本单元让你和朋友一起策划派对。你可以分配任务、讨论安排：We should clean up the living room and set up the music. Who's doing the decorations? I can't wait—this is going to be gorgeous!（我们应该打扫客厅、布置音乐。谁负责装饰？我等不及了——一定会很棒的！）He couldn't come in because he was helping a charming guy with a mustache. Whose idea was that, right?（他进不来，因为在帮一个留胡子的迷人家伙。那是谁的主意来着？）
+
+词表里有派对准备的动作：clean up, set up, come in。情态动词很密集：can, can't, could, couldn't, should, shouldn't, will, won't——用来讨论"能做什么、该做什么、会怎样"。描述人的形容词：charming, gorgeous, well-dressed。还有一些有趣的细节词：accent（口音）、lyrics（歌词）、mustache（胡子）、bunch（一群/一束）。
+
+whose 用来问归属：Whose playlist is this? like 和 right 是口语中的填充词和确认词：That's like, really cool, right? doing 在此可能是"谁负责做……"：Who's doing the food?
+
 ## Tips
 
-"Party"来自拉丁语"partire"（分开），最初指"一群人"（一个"部分"），后来特指"聚会"。在18世纪的英格兰，"party"还指政治派别（至今"the Labour Party"仍保留此义）。"Gorgeous"来自古法语"gorgias"（优雅的），可能与"gorge"（喉咙）有关——最初形容领口装饰华丽的服饰。今天"gorgeous"是英语中最热情的赞美词之一，可以形容人、景色、甚至天气。
+- **can / can't / could / couldn't** — can 表能力或许可：I can help. can't = 不能。could 是 can 的过去式，也用于更礼貌的请求：Could you set up the chairs? couldn't = 过去不能/不可能：He couldn't come.
 
-"Charming"来自古法语"charmer"，最终追溯到拉丁语"carmen"（歌曲、咒语）。在古罗马，"carmen"不仅是诗歌，也是魔法咒语——因此"charming"暗含一种"如施了魔法般令人着迷"的意味。"Lyrics"（歌词）来自希腊语"lyrikos"，与"lyre"（里拉琴）同源。古希腊诗人用里拉琴伴奏吟唱，这些配乐的诗歌就是"lyrics"的起源。
+- **should / shouldn't / will / won't** — should 表建议：We should clean up first. shouldn't = 不应该：You shouldn't forget the music. will 表将来/意愿：I'll bring the drinks. won't = 不会/不愿：He won't come.
 
-"Mustache"（胡子）来自希腊语"mystax"（上唇），经由法语"moustache"进入英语。在维多利亚时代的英国，胡子是男性气概的象征，甚至有专门的"胡子蜡"和"胡子杯"（一种带有护须装置的瓷杯）。"Accent"（口音）来自拉丁语"accentus"，由"ad-"（朝向）和"cantus"（歌唱）组成，字面意思是"歌唱的方式"——每个人的口音都是他故乡的歌声。
+- **clean up / set up / come in** — clean up = 打扫干净（强调"收拾整齐"）。set up = 布置、搭建：set up the speakers / set up decorations. come in = 进来：Come in! The door's open.
 
-"Set up"（布置、搭建）是派对准备的核心动词短语。"Clean up"（打扫干净）则是派对结束后的必修课。"Well-dressed"（穿着得体的）中的"well"是副词修饰过去分词，构成复合形容词。"Whose"（谁的）是英语中唯一表示所属关系的疑问词，来自古英语"hwæs"。
+- **charming / gorgeous / well-dressed** — charming = 迷人的（侧重性格魅力）。gorgeous = 极美的（比 beautiful 程度更强）。well-dressed = 穿着考究的（well + dressed 复合形容词）。
 
-- "Can / could / should / will"是英语中最核心的情态动词，表达能力和意愿的不同层次。
-- "A bunch of"是口语中"一群、一些"的表达：a bunch of friends, a bunch of balloons。
-- "Come in"是邀请人进门的礼貌用语，比"enter"更亲切自然。
-- "Won't"是"will not"的缩写，注意拼写不是"willn't"——这是英语中不规则的缩写形式。
-- "Like"在口语中除了"喜欢"，还可以表示"像"或作为填充词（类似中文的"就是"）。
+- **whose / mustache / accent** — whose = 谁的（疑问代词/关系代词）：Whose coat is this? mustache = 上唇胡子（注意拼写，也可写作 moustache 英式）。accent = 口音：She has a charming accent.
+
+- **lyrics / bunch / doing** — lyrics = 歌词（通常用复数）：I love the lyrics of this song. bunch = 一群/一束：a bunch of friends / a bunch of flowers. doing 在此表"负责做"：Who's doing the food?
+
+- **like / right** — like 在口语中可作填充词（类似中文的"就是"）：It's like, really fun. right 用于句末寻求认同：That's a great idea, right? 注意这种用法很口语化，正式写作中避免。

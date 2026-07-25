@@ -6,20 +6,37 @@
 
 aspirin, badly, bleed, clinic, cough, degree, do, does, doesn't, don't, elbow, exhausted, fever, follow, fortunately, has got, have got, hurt, pharmacy, prescription, rest, sore, temperature, throat, tissue
 
+## 单元讲解
+
+本单元围绕"询问症状寻求帮助"展开。核心是看病表达：I've got a fever and a sore throat.（我发烧了，喉咙也疼。）、Does your elbow hurt badly?（你的肘部疼得厉害吗？）、You should rest and take some aspirin.（你应该休息，吃点阿司匹林。）、Fortunately, it's not serious—just a cough.（幸好不严重——只是咳嗽。）。
+
+词表里有症状词汇（fever, cough, sore throat, bleed）和医疗词汇（clinic, pharmacy, prescription, aspirin）。你可以练习：I've got a temperature of 39 degrees. / Go to the pharmacy and get the prescription. / My throat hurts—do I need medicine? / He doesn't feel well.
+
+have got 表示"有"（口语）。has got / have got 的区别在于主语单复数。
+
 ## Tips
 
-"Aspirin"（阿司匹林）是医药史上最著名的品牌名之一。1899年，德国拜耳公司将乙酰水杨酸注册为"Aspirin"，名字来自"A"（乙酰基）+"Spir"（绣线菊属植物，其提取物含水杨酸）+"in"（化学后缀）。但阿司匹林的故事远早于此——古希腊医圣希波克拉底在公元前400年就记录了用柳树皮止痛退热的方法。柳树皮中正是含有水杨酸。从古希腊的柳树皮到拜耳的白色药片，人类用了两千四百年。
+- **have got / has got** — 有（口语）。搭配：I've got a fever, She's got a cough。例句：I've got a sore throat. / She's got a temperature. 注意 have got = have（更口语），缩写 've got / 's got。
 
-"Pharmacy"（药房）来自希腊语"pharmakon"，这个词含义极为复杂——它同时意味着"药物"和"毒药"。在古希腊神话中，女巫美狄亚就是一位"pharmakeia"（药剂师），她既能用草药治病，也能用毒药杀人。这种"药毒同源"的观念深深植根于西方医学传统中，至今药房的标志仍是希腊神话中的蛇杖——阿斯克勒庇俄斯之杖，象征治愈与重生。
+- **fever / temperature / degree** — 发烧 / 体温 / 度。搭配：have a fever, take your temperature, 39 degrees。例句：I've got a fever. / Your temperature is 39 degrees. 注意 have a fever = have a temperature。
 
-"Prescription"（处方）来自拉丁语"praescribere"，由"prae-"（预先）+"scribere"（写）构成，字面意思是"预先写好"。在中世纪，医生开处方时必须用拉丁文书写，这不仅是为了保密，更是因为拉丁文被视为神圣的学术语言。处方笺顶部的"Rx"符号是拉丁语"recipe"（取用）的缩写，这个传统从15世纪延续至今。"Clinic"（诊所）则来自希腊语"kline"（床），因为最早的诊所就是"在病床边"进行诊疗的地方。
+- **sore / throat / cough** — 疼痛的 / 喉咙 / 咳嗽。搭配：a sore throat, a bad cough, cough a lot。例句：I've got a sore throat. / She has a bad cough. 注意 sore 表示"酸痛的"（sore throat, sore back）。
 
-"Fever"（发烧）来自拉丁语"febris"，古罗马人甚至为发烧设立了一位女神——Dea Febris（热病女神），在罗马城有三座供奉她的神庙。人们向热病女神祈祷，希望她"带走"高烧。"Throat"（喉咙）来自古英语"þrote"，与德语"Drossel"（画眉鸟）同源——画眉鸟以其洪亮的鸣叫著称，而喉咙正是声音的通道。"Elbow"（肘部）是"ell"（前臂）+"bow"（弯曲）的组合，字面意思就是"手臂弯曲的地方"。
+- **clinic / pharmacy / prescription** — 诊所 / 药房 / 处方。搭配：go to the clinic, at the pharmacy, a prescription for。例句：Go to the clinic first. / You can get it at the pharmacy. / The doctor wrote a prescription. 注意 pharmacy 是"药房"（美式也叫 drugstore）。
 
-"Tissue"（纸巾）的词源出人意料地优雅。它来自古法语"tissu"，意为"编织物"，词根是拉丁语"texere"（编织）。最初tissue指的是精细的织物，后来才引申为生物组织（因为细胞像织物一样"编织"在一起），最终在20世纪成为"面巾纸"的代名词——1924年金佰利公司推出Kleenex时，用的广告语就是"不要把手帕放进你的口袋，用tissue"。
+- **aspirin / rest / follow** — 阿司匹林 / 休息 / 遵循。搭配：take aspirin, get some rest, follow the instructions。例句：Take two aspirin and rest. / Follow the doctor's advice. 注意 aspirin 不可数（some aspirin）。
 
-- "Cough"（咳嗽）是英语中拼写最不规则的词之一，"ough"的发音与"through""though""thought"都不同，反映了英语拼写的历史混乱。
-- "Sore"（疼痛的）来自古英语"sār"，与德语"sehr"（非常）同源——在古日耳曼语中，"非常"和"痛苦"是同一个概念。
-- "Exhausted"（精疲力竭的）来自拉丁语"exhaurire"（抽干），字面意思是"被完全抽空了"，像一口枯井。
-- "Degree"（度数）来自拉丁语"degradus"（一级台阶），测量体温的"度"就像温度计上的一级级台阶。
-- "Fortunately"（幸运地）来自拉丁语"fortuna"（命运女神），罗马人相信命运之轮（Rota Fortunae）随机转动，决定人的祸福。
+- **hurt / bleed / elbow** — 疼 / 流血 / 肘部。搭配：my elbow hurts, bleeding, hurt badly。例句：My elbow hurts badly. / The cut is bleeding. / Where does it hurt? 注意 hurt 的过去式还是 hurt。
+
+- **exhausted / badly** — 精疲力竭 / 严重地。搭配：feel exhausted, hurt badly, badly injured。例句：I'm completely exhausted. / My throat hurts badly. 注意 exhausted 比 very tired 程度更强。
+
+- **fortunately / doesn't / don't** — 幸好 / 不（三单）/ 不。搭配：Fortunately, ..., He doesn't feel well, I don't...。例句：Fortunately, it's not serious. / He doesn't have a fever. / I don't feel well. 注意 doesn't 用于三单。
+
+- **tissue / throat / rest** — 纸巾 / 喉咙 / 休息。搭配：a tissue, blow your nose, get some rest。例句：Do you have a tissue? / My throat is sore. / You need to rest. 注意 tissue = 纸巾（面巾纸）。
+
+- **do / does / degree** — 做 / 做（三单）/ 度。搭配：Do you feel...? / Does it hurt? / 38 degrees。例句：Do you have a fever? / Does your throat hurt? / Your temperature is 38 degrees.
+
+- **clinic / pharmacy / aspirin** — 诊所 / 药房 / 阿司匹林。搭配：visit the clinic, go to the pharmacy, take aspirin。例句：I went to the clinic. / The pharmacy is nearby. / Take some aspirin. 注意这些是看病流程中的关键词。
+
+- **prescription / follow / fortunately** — 处方 / 遵循 / 幸好。搭配：fill a prescription, follow the doctor, fortunately。例句：I need to fill this prescription. / Follow the doctor's advice. / Fortunately, I feel better now.
+

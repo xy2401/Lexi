@@ -6,17 +6,37 @@
 
 air conditioning, alarm, backyard, bathtub, break down, control, convenient, decorate, get rid of, grill, lock, mail, make, move, power, recycling, save, sheet, smoke alarm, stressed, switch, tired, valuable, worried
 
+## 单元讲解
+
+本单元围绕"谈论处理旧物"展开，以搬家为场景。核心是搬家和家居表达：We need to get rid of the old grill before we move.（搬家前我们得把旧烤架处理掉。）、The new place has air conditioning and a smoke alarm—it's very convenient.（新地方有空调和烟雾报警器——很方便。）、I'm stressed and tired from decorating, but the backyard is worth it.（装修让我又累又有压力，但后院很值得。）、Don't forget to lock the door and switch off the power.（别忘了锁门、关掉电源。）。
+
+词表里有家居词汇（bathtub, grill, backyard, air conditioning）和搬家动作（get rid of, move, decorate, save）。你可以练习：The alarm went off. / Save the valuable items. / The washing machine broke down. / Put a sheet on the bed.
+
+get rid of = 处理掉/扔掉。break down = 出故障。
+
 ## Tips
 
-"Move"（搬家）在英语中不仅是物理位移，更是一种文化仪式。美国人的平均一生中要搬家约十一次，"moving"几乎是成年生活的代名词。十九世纪的西进运动中，数百万家庭驾着篷车横穿大陆，"moving west"成为美国梦的核心叙事。今天，"moving day"仍然是许多家庭最焦虑也最充满希望的日子——旧生活的结束与新生活的开始交织在一起。
+- **get rid of / move / valuable** — 处理掉 / 搬家 / 贵重的。搭配：get rid of old stuff, move to a new place, valuable items。例句：I want to get rid of these boxes. / We're moving next week. / Keep the valuable things safe. 注意 get rid of = 摆脱/扔掉。
 
-"Get rid of"（处理掉）中的"rid"来自古诺尔斯语"ryðja"（清理、腾空），是维京人留给英语的遗产。这个短语带着一种决绝感：不是"give away"（赠送）或"sell"（出售），而是彻底"摆脱"。在搬家文化中，"getting rid of things"是一种心理仪式——通过丢弃旧物来切断与过去的联系。日本的"断舍离"哲学在英语世界引起了巨大共鸣，正是因为"get rid of"触及了人类对"拥有"与"放下"的永恒焦虑。
+- **air conditioning / smoke alarm / alarm** — 空调 / 烟雾报警器 / 警报。搭配：turn on the air conditioning, a smoke alarm, set the alarm。例句：The air conditioning is broken. / Install a smoke alarm. / The alarm went off at 6. 注意 smoke alarm 是安全设备。
 
-"Lock"（锁）的历史可以追溯到四千年前的古埃及，最早的锁是木制的销栓装置。英语"lock"来自古英语"loc"，与"locc"（一绺头发）同源——两者都暗示"被固定住、无法分离"的东西。中世纪欧洲的锁匠是受人尊敬的工匠，因为锁不仅保护财产，更象征着信任与边界。"Alarm"来自意大利语"all'arme"（拿起武器！），最初是军事哨兵的呼喊，后来演变为任何警示装置。
+- **stressed / tired / worried** — 有压力 / 累 / 担心。搭配：feel stressed, get tired, be worried about。例句：I'm so stressed about moving. / I'm tired from packing. / She's worried about the cost. 注意 stressed 和 stressful 的区别。
 
-"Recycling"（回收）作为环保概念兴起于二十世纪七十年代，但"recycle"的词根"cycle"（循环）来自希腊语"kyklos"（圆），暗示万物循环往复的古老哲学。"Valuable"来自拉丁语"valere"（强壮、有价值），与"valor"（勇气）同源——在古人的观念中，价值与力量密不可分。
+- **decorate / backyard / grill** — 装修 / 后院 / 烤架。搭配：decorate the room, in the backyard, a barbecue grill。例句：We decorated the living room. / The kids play in the backyard. / Let's use the grill tonight. 注意 decorate = 装饰/装修。
 
-- "Break down"既可指机器故障（The car broke down），也可指情绪崩溃（She broke down crying），核心意象都是"结构瓦解"。
-- "Air conditioning"缩写为"A/C"，是二十世纪改变人类居住模式的发明——没有它，美国南部和西南部的大规模城市化几乎不可能。
-- "Smoke alarm"（烟雾报警器）自1970年代在美国普及后，住宅火灾死亡率下降了约50%，是公共卫生史上最成功的干预之一。
-- "Backyard"（后院）是美国郊区文化的标志空间——烧烤、孩子玩耍、邻里聚会都在这里发生，它不仅是物理空间，更是社区生活的舞台。
+- **lock / switch / power** — 锁 / 开关 / 电源。搭配：lock the door, switch off, turn off the power。例句：Lock the front door. / Switch off the lights. / The power is out. 注意 switch off = turn off。
+
+- **break down / control / convenient** — 出故障 / 控制 / 方便。搭配：break down, under control, very convenient。例句：The heater broke down. / Keep everything under control. / The location is convenient. 注意 break down 指机器故障。
+
+- **save / recycling / sheet** — 节省 / 回收 / 床单。搭配：save money, recycling bin, a clean sheet。例句：We can save on electricity. / Put it in the recycling. / Change the sheets weekly. 注意 save 可指"节省"也可指"保存"。
+
+- **bathtub / mail / make** — 浴缸 / 邮件 / 制作。搭配：a bathtub, check the mail, make a plan。例句：The bathtub is huge. / Is there any mail? / Let's make a moving plan. 注意 mail 在美式指"邮件"（英式 post）。
+
+- **convenient / stressed / tired** — 方便 / 压力 / 疲惫。搭配：very convenient, stressed out, dead tired。例句：Living near work is convenient. / I'm stressed out. / I'm dead tired from moving. 注意 stressed out = 压力很大。
+
+- **get rid of / valuable / save** — 扔掉 / 贵重 / 节省。搭配：get rid of junk, valuable possessions, save space。例句：Get rid of what you don't need. / These are valuable antiques. / Folding saves space. 注意 get rid of 比 throw away 更广泛。
+
+- **alarm / lock / switch** — 警报 / 锁 / 开关。搭配：set the alarm, lock up, switch on/off。例句：Set the alarm for 7 AM. / Did you lock up? / Switch off the power before you leave. 注意 lock up = 锁好（全部）。
+
+- **backyard / grill / air conditioning** — 后院 / 烤架 / 空调。搭配：in the backyard, fire up the grill, central air conditioning。例句：There's a big backyard. / He's grilling in the backyard. / The air conditioning keeps us cool. 注意这些是美式家居常见词汇。
+

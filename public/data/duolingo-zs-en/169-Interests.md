@@ -6,17 +6,30 @@
 
 architecture, been, collection, cycling, ever since, go for a run, has been, have been, honestly, how long, jog, league, leisure, less often, more often, plus, poetry, regularly, scuba dive, that sort of thing, very long, yoga
 
+## 单元讲解
+
+本单元让你谈论自己的运动和兴趣习惯，重点是"做了多久"。核心结构是现在完成进行时：I've been cycling regularly ever since I joined a league.（自从我加入了一个联赛，我就一直在规律骑车。）How long have you been doing yoga?（你做瑜伽多久了？）
+
+词表里运动词汇很丰富：cycling, jog, go for a run, scuba dive, yoga。频率副词和比较也值得注意：regularly, more often, less often。ever since 和 how long 是完成时态的标志性搭配，用来询问和说明起始时间。has been / have been 是现在完成时的助动词形式。
+
+除了运动，词表还包含文化兴趣：architecture, poetry, collection, leisure。这让话题不局限于健身，而是扩展到"你闲暇时间做什么"：Honestly, I've been into poetry and architecture—that sort of thing.（说实话，我最近迷上了诗歌和建筑——那类东西。）plus 在口语中常用来追加信息，相当于"而且"。
+
 ## Tips
 
-"Yoga"（瑜伽）来自梵语"yuj"（联结、驾驭），原意是"将牛轭套在牛身上"——将散乱的心念"套住"、"驾驭"。瑜伽有超过五千年的历史，最初并非体式练习，而是一种冥想和精神修炼的方法。十九世纪末，印度哲学家斯瓦米·维韦卡南达将瑜伽介绍到西方；二十世纪中叶，体式（asana）练习在欧美流行开来。今天全球约有三十亿人练习瑜伽，这个词从梵语村庄的冥想传统变成了全球健身产业的支柱。
+- **have been / has been** — 现在完成时的助动词。have been + doing 构成现在完成进行时，强调从过去持续到现在：I have been jogging every morning. has been 用于第三人称单数：She has been doing yoga for years. 缩写：I've been, she's been。
 
-"Leisure"（休闲）来自拉丁语"licere"（被允许），与"license"（许可证）同源。在古希腊，"schole"（休闲）是"school"（学校）的词源——亚里士多德认为，只有在休闲中，人才能进行真正的学习和思考。古罗马的"otium"（闲暇）是贵族和哲学家追求的最高状态，而"negotium"（忙碌，即"非闲暇"）反而是低等的。今天"leisure"已完全民主化，但词源提醒我们：休闲曾经是最奢侈的特权。
+- **ever since / how long** — ever since 表示"自从……以来"，后面接时间点或从句：ever since 2020 / ever since I moved here. how long 用来提问持续时间：How long have you been cycling? 回答通常用 for + 时段或 since + 起点。
 
-"Scuba dive"（水肺潜水）中的"SCUBA"是"Self-Contained Underwater Breathing Apparatus"（自持式水下呼吸装置）的首字母缩写。1943年，法国海军军官雅克-伊夫·库斯托和工程师埃米尔·加尼昂发明了现代水肺装置，让人类第一次能在水下自由呼吸和移动。库斯托后来成为世界上最著名的海洋探险家，他的纪录片让无数人爱上了海底世界。"Cycling"（骑行）来自希腊语"kyklos"（圆），指车轮的圆形——骑行就是"借助圆形运动前进"。
+- **cycling / jog / go for a run** — 三者都是跑步/骑行类运动。cycling 是骑车（名词/动名词）。jog 是慢跑（比 run 慢、更休闲）。go for a run 是"去跑一跑"，强调一次具体活动。搭配：go cycling / go for a jog 也可以。
 
-"Poetry"（诗歌）来自希腊语"poiesis"（制作、创造），与"poet"（诗人）同源。在古希腊人看来，写诗是一种"制作"——如同木匠制作家具，诗人用语言"制作"意义。"Architecture"（建筑）来自希腊语"arkhitekton"（首席建造者），由"arkhi-"（首要的）和"tekton"（建造者）组成。建筑师是"建造者中的首席"——不仅建造，更设计和统领。"Jog"（慢跑）的词源不确定，可能是拟声词，模仿慢跑时脚步的"jog-jog"节奏。
+- **regularly / more often / less often** — regularly = 有规律地。more often / less often 是 often 的比较级形式：I exercise more often than before. 注意 often 的比较级也可以是 more often 或 oftener，但 more often 更常见。
 
-- "Ever since"（自从）强调从过去某一点持续到现在：I've been cycling ever since I was ten.（我从十岁起就一直骑车。）
-- "How long"与现在完成时搭配，询问持续时间：How long have you been doing yoga?（你练瑜伽多久了？）
-- "League"（联赛）来自拉丁语"ligare"（绑），与"ligament"（韧带）同源——联赛就是把各支球队"绑在一起"的组织。
-- "That sort of thing"（那类事情）是口语中的模糊表达，用于不想逐一列举时，相当于中文的"之类的"。
+- **scuba dive / yoga / league** — scuba dive 是水肺潜水（scuba 是 self-contained underwater breathing apparatus 的缩写）。yoga 来自梵语，意为"联合、连接"。league 是联赛、联盟：join a cycling league。
+
+- **leisure / collection / architecture** — leisure 是闲暇，leisure time = 空闲时间。collection 是收藏，来自 collect + -ion。architecture 是建筑学/建筑风格，architect（建筑师）+ -ure。
+
+- **poetry / that sort of thing** — poetry 是诗歌总称（一首诗是 a poem）。that sort of thing 是口语中的"那类东西、诸如此类"，用来模糊概括：I like poetry, architecture, that sort of thing.
+
+- **honestly / plus / very long** — honestly 在口语中常用来强调真实性：Honestly, I've never tried it. plus 口语中 = 而且、另外：It's fun, plus it's good exercise. very long 常与 how long 搭配：Have you been waiting very long?
+
+- **been** — be 的过去分词。在完成时中表"去过"：Have you ever been to Paris? 注意 been（去了回来了）和 gone（去了还没回来）的区别。

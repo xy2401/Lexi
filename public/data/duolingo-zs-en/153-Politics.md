@@ -6,17 +6,37 @@
 
 article, as, can't stand, currency, democracy, economy, election, environmental, former, had to, immigration, local, mean, meant, mention, not, politician, politics, shocking, speech, state, there could be, there might be, truth, vote
 
+## 单元讲解
+
+本单元围绕"分享对政府的看法"展开。核心是政治和观点表达：I can't stand that politician—his speech was shocking.（我受不了那个政客——他的演讲令人震惊。）、In a democracy, everyone should vote in the election.（在民主国家，每个人都应该在选举中投票。）、The article mentioned the environmental issue and the economy.（文章提到了环境问题和经济。）、There could be changes to immigration policy—there might be a new law.（移民政策可能会有变化——可能会有新法律。）。
+
+词表里有政治词汇（democracy, election, politician, vote）和观点表达（can't stand, shocking, truth）。你可以练习：The former president gave a speech. / I meant what I said. / The currency is the dollar. / The state held an election.
+
+there could/might be 表推测。mean → meant（意思是）。
+
 ## Tips
 
-"Democracy"（民主）来自希腊语"demos"（人民）和"kratos"（权力、统治）。公元前508年，雅典政治家克利斯提尼建立了世界上第一个民主政体，让普通公民直接参与城邦决策。但雅典的"人民"仅限于成年男性自由民——妇女、奴隶和外邦人被排除在外。"Democracy"这个词本身就是一部浓缩的政治史：两千五百年来，"demos"（人民）的范围不断扩大，每一次扩大都伴随着激烈的斗争。
+- **vote / election / democracy** — 投票 / 选举 / 民主。搭配：vote for, in the election, a democracy。例句：I voted for the new mayor. / The election is next month. / We live in a democracy. 注意 vote for sb = 投某人的票。
 
-"Politics"来自希腊语"politika"，意为"与城邦（polis）相关的事务"。"Polis"是古希腊的城市国家，是公民生活的全部舞台。亚里士多德说"人是政治的动物"（zoon politikon），意思是人天生属于城邦、属于公共生活。"Politician"（政客）在英语中却带有微妙的贬义——与"statesman"（政治家）不同，"politician"暗示权术和算计。这种语义分裂反映了英语世界对政治的深刻矛盾心理。
+- **politician / speech / shocking** — 政客 / 演讲 / 令人震惊的。搭配：a politician, give a speech, a shocking revelation。例句：The politician made a promise. / Her speech was powerful. / The news is shocking. 注意 shocking 比 surprising 程度更强。
 
-"Vote"（投票）来自拉丁语"votum"（誓言、愿望），与"vow"（发誓）同源。在古罗马，"votum"是对神灵的庄严承诺；在中世纪，它演变为对候选人的"许愿"——你投票给某人，就是"许愿"让他代表你。"Election"来自拉丁语"eligere"（选出），与"elite"（精英）同源——选举的本质是"从众人中挑选出少数"。
+- **can't stand / truth / mention** — 受不了 / 真相 / 提到。搭配：can't stand sb, tell the truth, mention that。例句：I can't stand his lies. / Tell me the truth. / He mentioned the economy. 注意 can't stand = 非常讨厌。
 
-"Currency"（货币）来自拉丁语"currere"（奔跑），字面意思是"流通之物"。货币的价值在于它不停地"奔跑"——从一只手到另一只手，从一个国家到另一个国家。一旦停止流通，货币就失去了意义。"Economy"来自希腊语"oikonomia"（家政管理），"oikos"是"家"，"nomos"是"法则"——经济学最初就是"管理家庭的学问"，后来才扩展到国家乃至全球。
+- **economy / currency / environmental** — 经济 / 货币 / 环境的。搭配：the economy, the local currency, environmental issues。例句：The economy is growing. / What's the currency here? / Environmental protection is important. 注意 economy 的形容词是 economic。
 
-- "Can't stand"（无法忍受）字面意思是"站不住"，暗示某事让你"无法站立"——一种强烈的生理性厌恶表达。
-- "Speech"（演讲）与"speed"（速度）在古英语中同源，都来自"spēd"（成功、前进）——好的演讲让思想"快速前进"。
-- "There could be"和"there might be"都表示可能性，但"could"偏向理论上的可能，"might"偏向实际的不确定。
-- "Former"（前任的）来自拉丁语"forma"（形状），暗示"曾经具有某种形态"——前总统是"曾经以总统形态存在"的人。
+- **immigration / state / local** — 移民 / 州 / 当地的。搭配：immigration policy, the state government, local news。例句：Immigration is a hot topic. / Each state has its own laws. / I read the local newspaper. 注意 state 在美国指"州"。
+
+- **former / had to / as** — 前任 / 不得不 / 作为。搭配：the former president, had to leave, as a citizen。例句：The former leader retired. / They had to change the law. / As a voter, I care about this. 注意 former = 前任的（反义 current）。
+
+- **there could be / there might be / not** — 可能有 / 也许有 / 不。搭配：there could be problems, there might be changes, not true。例句：There could be a new election. / There might be reforms. / That's not the truth. 注意 could/might 表不确定的推测。
+
+- **mean / meant / mention** — 意思是 / 意思是（过去）/ 提到。搭配：I mean, I meant to say, mention briefly。例句：What do you mean? / I meant no harm. / She mentioned the article. 注意 mean → meant → meant。
+
+- **article / politics / truth** — 文章 / 政治 / 真相。搭配：a news article, politics, the truth about。例句：I read an interesting article. / I'm not into politics. / The truth will come out. 注意 politics 是单数形式但表示整体概念。
+
+- **shocking / can't stand / speech** — 震惊 / 受不了 / 演讲。搭配：absolutely shocking, can't stand it, a long speech。例句：The scandal is shocking. / I can't stand the corruption. / He gave a 2-hour speech. 注意 shocking 常与新闻/丑闻搭配。
+
+- **democracy / vote / election** — 民主 / 投票 / 选举。搭配：a true democracy, the right to vote, win an election。例句：Democracy requires participation. / Everyone has the right to vote. / She won the election. 注意这些是政治核心词汇。
+
+- **environmental / economy / immigration** — 环境 / 经济 / 移民。搭配：environmental policy, boost the economy, immigration reform。例句：Environmental issues affect us all. / The economy needs help. / Immigration reform is needed. 注意这些是政治讨论中的热门话题。
+

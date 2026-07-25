@@ -6,20 +6,37 @@
 
 accept, airline, apply, away, begun, benefits, career, contact, decision, done, education, engineering, feeling, full-time, interview, part-time, quit, responsible, résumé, sign, since, skill, sound like, understood
 
+## 单元讲解
+
+本单元围绕"谈论求职申请"展开。核心是面试相关表达：I've applied for a full-time position at an airline.（我申请了一家航空公司的全职职位。）、The interview has begun—I'm a little nervous.（面试开始了——我有点紧张。）、I'm responsible for engineering projects.（我负责工程项目。）、Have you made a decision about my résumé?（你对我的简历有决定了吗？）。
+
+词表里有求职词汇（apply, interview, résumé, career, benefits）和工作类型（full-time, part-time）。你可以练习：I quit my old job. / I have a skill in engineering. / It sounds like a great career. / I've been waiting since Monday.
+
+apply for 表示"申请"。since 搭配现在完成时。
+
 ## Tips
 
-"Résumé"（简历）是法语词，意为"摘要、概述"，来自拉丁语"resumere"（重新拿起）。19世纪末，法国求职者开始用一页纸总结自己的经历，称之为"résumé"。这个词进入英语后保留了法语的尖音符拼写，成为少数在日常英语中仍带变音符号的外来词之一。有趣的是，英式英语更常用"CV"（Curriculum Vitae，拉丁语"生命的过程"），而美式英语偏爱"résumé"——两种说法背后是两种不同的文化审美。
+- **apply / interview / résumé** — 申请 / 面试 / 简历。搭配：apply for a job, have an interview, send a résumé。例句：I applied for the position. / The interview went well. / I sent my résumé yesterday. 注意 apply for + 职位。
 
-"Career"（职业）来自拉丁语"carraria"，原意是"马车跑道"。在古罗马，career指的是战车在竞技场中飞驰的赛道。到了16世纪，这个词被引申为"人生的跑道"，暗含一种速度感和方向感——你的职业生涯就像一辆奔驰的战车，需要选择正确的赛道。"Interview"（面试）来自法语"entrevue"，由"entre"（之间）+"voir"（看）构成，字面意思是"互相看见"。最早的面试记录可追溯到19世纪的美国报社——编辑通过面谈来判断应聘者是否适合记者工作。
+- **full-time / part-time** — 全职 / 兼职。搭配：a full-time job, work part-time。例句：I want a full-time position. / She works part-time at an airline. 注意 full-time 和 part-time 有连字符。
 
-"Engineering"（工程学）来自拉丁语"ingenium"，意为"天赋、聪明才智"。古罗马人用"ingenium"来形容那些设计攻城器械和水利设施的巧思。中世纪的"engineer"最初是军事工程师，负责建造投石机和攻城塔。从战场到工厂，engineering的含义经历了从"战争机器"到"民用建设"的巨大转变。
+- **career / benefits** — 职业（生涯）/ 福利。搭配：a career in engineering, job benefits, career growth。例句：I want a career in engineering. / The benefits are good—health insurance and more. 注意 career 比 job 更长远。
 
-"Benefits"（福利）来自拉丁语"bene"（好）+"facere"（做），字面意思是"做好事"。在工业革命时期，工厂工人没有任何保障，直到19世纪末德国首相俾斯麦首创了社会保险制度，"employee benefits"的概念才逐渐成型。"Quit"（辞职）来自古法语"quiter"，意为"释放、免除"，与"quiet"（安静）同源——辞职就是让自己从工作中"安静下来"，获得自由。
+- **responsible / skill** — 负责的 / 技能。搭配：responsible for, be responsible for, a skill in。例句：I'm responsible for the team. / I have strong engineering skills. 注意 responsible for + 名词/动名词。
 
-"Apply"（申请）来自拉丁语"applicare"，由"ad-"（朝向）+"plicare"（折叠）构成，原意是"把某物贴附到另一物上"。求职时"apply for a job"，字面上就是把自己"贴"到那个职位上去。"Decision"（决定）来自拉丁语"decidere"，由"de-"（离开）+"caedere"（切割）构成——做决定就是"切断"其他选项，只留一条路。
+- **quit / begun / done** — 辞职 / 开始 / 完成。搭配：quit my job, has begun, well done。例句：I quit my old job last month. / The interview has begun. / I've done my research. 注意 quit → quit → quit（不变）。
 
-- "Full-time"和"part-time"中的"time"指的是工作时间单位。美国1938年《公平劳动标准法》首次将每周40小时定义为"full-time"。
-- "Sign"（签名）来自拉丁语"signum"（标记），古罗马人用戒指在蜡封上压印作为签名，这是"signature"的起源。
-- "Skill"来自古诺尔斯语"skil"（区别、判断），与"shall"（应该）同源——有技能意味着能"分辨"对错。
-- "Responsible"来自拉丁语"respondere"（回应），负责任的人就是"能够回应"自己行为后果的人。
-- "Contact"由"con-"（一起）+"tact"（触碰）构成，与"tactile"（触觉的）同源——联系就是"触碰"彼此。
+- **since / decision** — 自从 / 决定。搭配：since Monday, since 2020, make a decision。例句：I've been waiting since Monday. / Have you made a decision? 注意 since + 时间点，搭配现在完成时。
+
+- **airline / engineering / education** — 航空公司 / 工程 / 教育。搭配：an airline company, an engineering degree, education background。例句：I work for an airline. / I studied engineering. / What's your education? 注意 airline 指航空公司。
+
+- **accept / sign / contact** — 接受 / 签字 / 联系。搭配：accept the offer, sign the contract, contact me。例句：I accepted the job offer. / Sign here, please. / You can contact me by email. 注意 accept = 接受（主观愿意），receive = 收到。
+
+- **sound like / feeling** — 听起来像 / 感觉。搭配：That sounds like..., a good feeling。例句：That sounds like a great opportunity! / I have a good feeling about this. 注意 sound like + 名词，sound + 形容词。
+
+- **understood / away** — 明白了 / 离开。搭配：I understood, far away, go away。例句：I understood the question. / The office is far away. 注意 understand → understood → understood。
+
+- **benefits / career / quit** — 福利 / 职业 / 辞职。搭配：good benefits, a long career, quit working。例句：The benefits include health insurance. / I want a long career here. / I quit because of the hours.
+
+- **interview / apply / since** — 面试 / 申请 / 自从。搭配：job interview, apply online, since last week。例句：The interview is tomorrow. / I applied online. / I've been nervous since I applied.
+

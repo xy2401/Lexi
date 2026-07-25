@@ -6,17 +6,26 @@
 
 appearance, barbershop, cut, do, dye, expert, forehead, get, hairstyle, lip, makeup done, nail, nail polish, nails done, pierced, piercing, powder, remove, salon, stylish, tattoo
 
+## 单元讲解
+
+本单元围绕"询问美发沙龙"展开，话题是美容、美发和个人形象。词表里有美发相关（barbershop, salon, hairstyle, cut, dye, stylish）、美甲和化妆（nail, nail polish, nails done, makeup done, powder）以及身体修饰（pierced, piercing, tattoo）。
+
+你可以练习美容场景对话：I'd like to get my hair cut and dyed. / What hairstyle would suit me? / She's an expert at the salon. / I want to get my nails done—what color nail polish? / Do you have a piercing? / I want to remove this tattoo. / The makeup is done with powder.
+
+get + 过去分词（get my hair cut, get my nails done）是"使役/被动"结构，表示"让别人帮我做某事"。appearance = 外表，forehead = 额头，lip = 嘴唇——这些是描述面部的基础词汇。
+
 ## Tips
 
-"Salon"来自意大利语"salone"（大厅），最初指法国贵族宅邸中接待客人的大客厅。17-18世纪的巴黎沙龙是文人、哲学家、艺术家聚会的场所，伏尔泰、卢梭都在沙龙中发表过惊世骇俗的言论。到了19世纪，"salon"的含义缩小为"美容美发店"——从思想交锋的殿堂变成了修剪头发的地方，这个语义演变本身就是一段有趣的文化史。
+- **salon / barbershop / hairstyle** — salon = 美发沙龙（通常指女性去的美发/美容店）。barbershop = 理发店（传统上指男性理发店）。hairstyle = 发型（a new hairstyle）。搭配：go to a salon, get a haircut at the barbershop。
 
-"Tattoo"（纹身）来自波利尼西亚语"tatau"。1769年，库克船长在塔希提岛见到当地人用骨针刺入皮肤、涂以植物染料来装饰身体，他将这个词带回了欧洲。然而纹身并非太平洋岛民的专利——1991年在阿尔卑斯山发现的5300年前的"冰人奥茨"身上就有61个纹身，可能是某种原始针灸疗法。在维多利亚时代的英国，纹身是贵族和水手的共同爱好，英王乔治五世年轻时就在手臂上纹了十字架。
+- **cut / dye / do** — cut = 剪（get a cut / cut my hair）。dye = 染（dye my hair red / hair dye 染发剂）。do 在这里指"做（头发/指甲）"（do my hair, do my nails）。搭配：get my hair cut and dyed, have my hair done。
 
-"Barbershop"中的"barber"来自拉丁语"barba"（胡须）。在中世纪欧洲，理发师不仅剪头发，还兼任外科医生——他们拔牙、放血、处理伤口。理发店门口旋转的红白蓝三色柱就源于这段历史：红色代表血液，白色代表绷带，蓝色代表静脉。1745年，英国才正式将理发师和外科医生分成两个行业，但直到今天，伦敦的外科医生学院仍保留着与理发师行会的历史渊源。
+- **nail / nail polish / nails done** — nail = 指甲。nail polish = 指甲油（也叫 nail color / nail lacquer）。nails done = 做美甲（I want to get my nails done.）。搭配：paint my nails, a nail salon。
 
-"Piercing"（穿孔）的历史比纹身更古老。古埃及法老图坦卡蒙的耳朵上有穿孔的痕迹，罗马百夫长在乳头上佩戴金环以显示勇气，印度女性穿鼻环的传统可追溯到16世纪。"Dye"（染色）来自古英语"deag"，古埃及人用指甲花（henna）染红头发和指甲，而罗马贵妇则用从日耳曼奴隶那里获得的金色头发做成假发——对美的追求跨越了所有文明边界。
+- **makeup done / powder / lip / forehead** — makeup done = 化好妆（get my makeup done）。powder = 粉（face powder 散粉/蜜粉）。lip = 嘴唇（lipstick 口红）。forehead = 额头（注意发音 /ˈfɔːrhɛd/ 或 /ˈfɔːrɪd/）。
 
-- "get your hair done / nails done / makeup done"是固定搭配，"done"表示"被专业打理过"
-- "nail polish"中的"polish"与"Poland"（波兰）无关，它来自拉丁语"polire"（磨光）
-- "stylish"和"fashionable"近义，但stylish更强调个人品味，fashionable更强调跟随潮流
-- 英语中"forehead"的"fore-"前缀表示"前面的"，类似forearm（前臂）、forecast（预报）
+- **pierced / piercing / tattoo** — pierced = 穿孔的（Are your ears pierced? / get my ears pierced）。piercing = 穿孔饰品/穿孔行为（a nose piercing）。tattoo = 纹身（get a tattoo / remove a tattoo）。注意 pierce 是动词，piercing 是名词/形容词。
+
+- **remove / expert / stylish / appearance** — remove = 去除（remove a tattoo / remove makeup）。expert = 专家（She's an expert at coloring.）。stylish = 时髦的（a stylish haircut）。appearance = 外表、外貌（care about your appearance）。
+
+- **get / do** — get 在本单元大量出现于"get + 名词 + 过去分词"结构：get my hair cut, get my nails done, get my ears pierced。这表示"请别人做"而非自己做。do 类似：do my hair, do my makeup。

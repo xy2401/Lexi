@@ -6,17 +6,37 @@
 
 back, busy, close by, come with, crosswalk, drive, driven, drop, drop off, exit, get around, get stuck, lane, on the way to, pick up, rush hour, slow down, slowed, sped up, speed limit, speed up, stop sign, traffic jam, traffic light, watch out
 
+## 单元讲解
+
+本单元围绕"请求搭车"展开，以交通出行为场景。核心是交通和驾驶表达：Can you pick me up on the way to work?（你能在上班路上接我吗？）、I got stuck in a traffic jam during rush hour.（高峰时段我堵在路上了。）、Slow down! The speed limit here is 30.（减速！这里限速30。）、Watch out for the crosswalk—there's a stop sign ahead.（注意人行横道——前面有停车标志。）。
+
+词表里有交通词汇（traffic jam, rush hour, speed limit, crosswalk）和驾驶动作（speed up, slow down, drop off, pick up）。你可以练习：The traffic light turned red. / Take the next exit. / He sped up on the highway. / The lane is busy.
+
+pick up（接人）vs drop off（送人）。get stuck = 被困住。
+
 ## Tips
 
-"Traffic"（交通）一词来自古法语"trafique"，可能源自意大利语"trafficare"（贸易），最初指的是货物的流通而非车辆的移动。直到汽车时代来临，"traffic"才获得了今天"道路上车辆流动"的含义。"Rush hour"（高峰时段）是二十世纪的产物——当城市白领的上班时间趋同，道路便在特定时刻"涌动"如潮。这个短语中的"rush"保留了十九世纪淘金热"gold rush"的意象：人群如潮水般涌向同一方向。
+- **pick up / drop off / come with** — 接人 / 送人 / 一起来。搭配：pick sb up, drop sb off, come with me。例句：Can you pick me up at 8? / Drop me off at the station. / Come with us! 注意 pick up / drop off 的宾语可放中间。
 
-"Traffic light"（交通信号灯）的历史始于1868年的伦敦，当时议会大厦外安装了世界上第一盏交通灯——由煤气驱动，有红绿两色。它在运行不到一个月后爆炸，炸伤了操作它的警察。此后近五十年，交通灯销声匿迹，直到1914年电气化的交通灯在克利夫兰重新出现。"Stop sign"（停车标志）则是1915年在底特律首次使用的，最初是黑字白底，直到1954年才统一为今天标志性的红底白字。
+- **traffic jam / rush hour / get stuck** — 堵车 / 高峰期 / 被困。搭配：stuck in a traffic jam, during rush hour, get stuck in traffic。例句：There's a huge traffic jam. / I hate rush hour. / We got stuck for an hour. 注意 rush hour = 上下班高峰。
 
-"Crosswalk"（人行横道）的概念可追溯到古罗马庞贝城——考古学家在庞贝街道上发现了凸起的"踏脚石"，让行人不必踩入满是污水和粪便的街道。这是已知最早的人行过街设施。现代"zebra crossing"（斑马线）于1951年在英国首次涂刷，因其黑白条纹酷似斑马而得名。"Lane"（车道）来自古英语"lanu"，原指乡间小路，今天则被精确地画在高速公路上。
+- **speed limit / speed up / slow down** — 限速 / 加速 / 减速。搭配：the speed limit is, speed up, slow down。例句：The speed limit is 60. / He sped up on the highway. / Slow down near schools. 注意 speed up 的反义是 slow down。
 
-"Pick up"和"drop off"是美式英语中"接送"的标准说法，带有公路文化的随意感。美国是一个建立在汽车轮子上的国家——没有车，在大多数城市几乎寸步难行。"Get around"（出行、四处走动）这个短语完美概括了美国人对移动自由的执念。
+- **crosswalk / stop sign / traffic light** — 人行横道 / 停车标志 / 红绿灯。搭配：at the crosswalk, a stop sign, a red traffic light。例句：Use the crosswalk to cross. / Stop at the stop sign. / The traffic light turned green. 注意这些是道路安全设施。
 
-- "Speed limit"（限速）中的"limit"来自拉丁语"limes"（边界），古罗马的"limes"是帝国边境的防线——限速就是速度的"边境"。
-- "Traffic jam"中的"jam"原意是"挤压"（如jam果酱是把水果挤压在一起），形象地描绘了车辆被"挤"在一起无法动弹的场景。
-- "Watch out"是紧急警告用语，比"be careful"更急迫。在美国驾驶文化中，乘客喊"Watch out!"通常意味着 imminent danger。
-- "On the way to"中的"way"来自古英语"weg"，与"wave"（波浪）同源——道路如波浪般延伸起伏。
+- **exit / lane / get around** — 出口 / 车道 / 出行。搭配：take the exit, the left lane, get around the city。例句：Take the next exit. / Stay in the right lane. / It's easy to get around by bus. 注意 get around = 四处走动/出行。
+
+- **on the way to / close by / back** — 在…路上 / 附近 / 回来。搭配：on the way to work, close by, on the way back。例句：I'll call you on the way to the office. / Is there a gas station close by? / On the way back, stop at the store. 注意 on the way to + 地点。
+
+- **drive / driven / drop** — 开车 / 开过 / 放下。搭配：drive to work, have driven, drop by。例句：I drive to work every day. / She's driven 500 miles. / Drop by anytime. 注意 drive → drove → driven。
+
+- **watch out / slowed / sped up** — 小心 / 减速了 / 加速了。搭配：watch out for, slowed down, sped up。例句：Watch out for pedestrians! / The car slowed down. / He sped up suddenly. 注意 watch out for = 当心…。
+
+- **busy / lane / exit** — 繁忙 / 车道 / 出口。搭配：a busy road, change lanes, take the exit。例句：This road is very busy. / Change to the left lane. / The exit is coming up. 注意 busy 形容道路 = 车多。
+
+- **speed limit / traffic light / crosswalk** — 限速 / 红绿灯 / 人行横道。搭配：obey the speed limit, run a traffic light, cross at the crosswalk。例句：Don't exceed the speed limit. / He ran a red traffic light. / Always use the crosswalk. 注意 run a red light = 闯红灯。
+
+- **get stuck / rush hour / traffic jam** — 被困 / 高峰 / 堵车。搭配：get stuck in traffic, avoid rush hour, stuck in a jam。例句：I always get stuck on Monday. / Leave before rush hour. / We sat in a traffic jam for hours. 注意 get stuck 是被动含义。
+
+- **drop off / pick up / on the way to** — 送达 / 接人 / 在路上。搭配：drop off at, pick up from, on the way to。例句：Drop me off at the corner. / Pick me up from school. / It's on the way to my house. 注意这三个是搭车场景核心短语。
+

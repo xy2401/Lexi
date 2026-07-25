@@ -6,20 +6,37 @@
 
 bride, celebrate, ceremony, cheek, colorful, deliver, engaged, exchange, greet, groom, instead of, kiss, last, musician, over, relative, rose, stood, surprise, thank, till, traditional, until, vase, wedding
 
+## 单元讲解
+
+本单元围绕"谈论婚礼计划"展开。核心是婚礼表达：The bride and groom exchanged rings at the ceremony.（新郎新娘在仪式上交换了戒指。）、We're going to celebrate with a traditional wedding.（我们要办一场传统婚礼来庆祝。）、The musician played until the last dance.（乐手演奏到最后一支舞。）、Instead of roses, she carried colorful flowers.（她没有拿玫瑰，而是拿了五颜六色的花。）。
+
+词表里有婚礼词汇（bride, groom, ceremony, wedding, engaged）和动作词汇（exchange, greet, celebrate, deliver）。你可以练习：They got engaged last month. / The bride kissed the groom. / Thank you for coming! / A relative delivered the roses in a vase.
+
+instead of 表示"而不是"。until / till 表示"直到"。
+
 ## Tips
 
-"Wedding"（婚礼）来自古英语"wedd"，原意是"誓言、承诺"，与德语"Wette"（赌注）同源。在日耳曼部落时代，婚礼的核心不是浪漫，而是一份契约——新郎向新娘家族支付"bride price"（聘礼），"wedd"就是这份交易的担保。"Bride"（新娘）来自古英语"brȳd"，可能与"brew"（酿造）有关，因为古代新娘在婚礼上需要为宾客酿造麦酒。"Groom"（新郎）则来自古英语"guma"（男人），后来与"groom"（马夫）合并，暗含"服务"之意。
+- **bride / groom / wedding** — 新娘 / 新郎 / 婚礼。搭配：the bride and groom, at the wedding, a beautiful bride。例句：The bride looked stunning. / The groom was nervous. / It was a beautiful wedding. 注意 bride 是女方，groom 是男方。
 
-"Ceremony"（仪式）的词源至今仍有争议，最被接受的说法是它来自拉丁语"caerimonia"，可能与意大利小镇Caere有关——公元前390年高卢人入侵罗马时，罗马的圣物和祭司逃到Caere避难，在那里继续举行宗教仪式。因此"caerimonia"就成了"神圣仪式"的代名词。"Exchange"（交换）在婚礼中指交换戒指，这一传统可追溯到古埃及——埃及人相信左手无名指有一条"vena amoris"（爱之静脉）直通心脏。
+- **ceremony / traditional / celebrate** — 仪式 / 传统的 / 庆祝。搭配：the wedding ceremony, a traditional ceremony, celebrate the wedding。例句：The ceremony was traditional. / Let's celebrate! 注意 ceremony 的发音：/ˈserɪmoʊni/。
 
-"Rose"（玫瑰）在西方婚礼中的核心地位源于希腊神话。传说玫瑰是爱神阿芙罗狄蒂的眼泪与情人阿多尼斯的鲜血混合而成。古罗马婚礼上，新娘头戴玫瑰花冠，婚宴桌上铺满玫瑰花瓣。中世纪欧洲，"sub rosa"（玫瑰之下）意味着"保密"——会议室天花板画一朵玫瑰，表示室内谈话不可外传。"Engaged"（订婚的）来自古法语"engagier"（质押），订婚在古代就是一种"质押"——双方家族以信物为担保，承诺未来的联姻。
+- **engaged / exchange / kiss** — 订婚 / 交换 / 亲吻。搭配：get engaged, exchange rings, kiss the bride。例句：They got engaged in December. / They exchanged rings. / The groom kissed the bride. 注意 engaged to sb。
 
-"Traditional"（传统的）来自拉丁语"traditio"，由"trans-"（跨越）+"dare"（给予）构成，字面意思是"代代传递"。婚礼中的"something old, something new, something borrowed, something blue"（旧物、新物、借来之物、蓝色之物）是维多利亚时代英国的传统，每一样都象征不同的祝福：旧物代表传承，新物代表未来，借来之物代表社区的支持，蓝色代表忠贞。
+- **instead of / until / till** — 而不是 / 直到。搭配：instead of roses, until midnight, till the end。例句：Instead of a big wedding, they had a small one. / We danced until midnight. / Wait till tomorrow. 注意 until 和 till 意思相同（till 更口语）。
 
-"Musician"（音乐家）在婚礼中的角色源远流长。中世纪欧洲的婚礼上，吟游诗人（troubadour）弹奏琉特琴，歌唱骑士与贵妇的爱情故事。"Musician"来自希腊语"mousa"（缪斯），希腊神话中九位缪斯女神分别掌管不同的艺术。"Vase"（花瓶）来自拉丁语"vas"（容器），在婚礼中盛放鲜花，象征生命的绽放和繁衍。
+- **musician / rose / vase** — 音乐家 / 玫瑰 / 花瓶。搭配：a musician, a bunch of roses, in a vase。例句：The musician played beautifully. / She carried red roses. / The roses are in a vase. 注意 musician 指演奏者/音乐人。
 
-- "Bride"和"groom"在古英语中分别是"brȳd"和"brydguma"（新娘的男人），"guma"（男人）后来消失，只剩下"groom"。
-- "Kiss"（亲吻）可能来自古英语"cyssan"，与拉丁语"basium"无关——英语的"吻"是纯正的日耳曼血统。
-- "Relative"（亲戚）来自拉丁语"relatus"（被带回来的），亲戚就是"与你有关联、被命运带回到你生命中的人"。
-- "Until"和"till"意思相同，但"till"比"until"更古老——它来自古诺尔斯语"til"，维京人带来的词比诺曼法语的"until"早了两百年。
-- "Cheek"（脸颊）来自古英语"cēace"，与"chew"（咀嚼）可能同源——脸颊就是"咀嚼时动的地方"。
+- **greet / relative / deliver** — 问候 / 亲戚 / 送。搭配：greet the guests, a close relative, deliver flowers。例句：The bride greeted every guest. / All the relatives came. / They delivered the flowers. 注意 greet 比 say hello to 更正式。
+
+- **colorful / surprise / thank** — 五颜六色的 / 惊喜 / 感谢。搭配：colorful decorations, a big surprise, thank you for。例句：The decorations were colorful. / What a surprise! / Thank you for coming! 注意 colorful = full of colors。
+
+- **stood / last / over** — 站了 / 最后的 / 结束。搭配：stood up, the last dance, it's over。例句：The groom stood at the altar. / This is the last song. / The ceremony is over. 注意 stand → stood → stood。
+
+- **cheek / kiss / bride** — 脸颊 / 亲吻 / 新娘。搭配：kiss on the cheek, a kiss, the bride。例句：She kissed him on the cheek. / The bride gave a speech. 注意 kiss on the cheek = 亲脸颊（比 kiss 更轻）。
+
+- **relative / traditional / ceremony** — 亲戚 / 传统 / 仪式。搭配：a relative of mine, traditional wedding, the ceremony。例句：All our relatives came to the wedding. / It was a traditional ceremony. 注意 relative = 亲戚/亲属。
+
+- **wedding / engaged / celebrate** — 婚礼 / 订婚 / 庆祝。搭配：a wedding dress, get engaged, celebrate together。例句：The wedding was in June. / They're engaged! / Let's celebrate their wedding!
+
+- **deliver / vase / until** — 送 / 花瓶 / 直到。搭配：deliver the flowers, in a vase, until the end。例句：The flowers were delivered this morning. / Put the roses in the vase. / We celebrated until late.
+

@@ -6,18 +6,34 @@
 
 approach, arrow, beyond, bury, collect, deep, evil, fate, get out of, instantly, journey, just as, legend, magical, more and more, mysterious, nevertheless, no longer, one by one, strength, sword, tale, the least of, treasure, up ahead, worry
 
+## 单元讲解
+
+本单元围绕"谈论一段漫长的旅程"展开，带有童话和传奇色彩。词表里有冒险与旅途词汇（journey, approach, beyond, deep, up ahead, get out of），有奇幻与命运元素（magical, mysterious, evil, fate, legend, tale, treasure, sword, arrow），也有叙事连接词（nevertheless, no longer, more and more, one by one, instantly, just as, the least of）。你可以用这些词讲一个故事：The journey was long and mysterious. / One by one, the travelers approached the magical forest beyond the mountains. / Nevertheless, they collected their strength and pressed on. / Just as evil seemed to win, a legend came to life—a hero with a sword and an arrow. / The treasure was buried deep, but fate had more in store. / No longer afraid, they faced what lay up ahead. / Worry was the least of their problems.
+
+这里值得注意 nevertheless 和 no longer 这类"叙事转折"词汇——它们让故事有了起伏。more and more 表渐进变化，one by one 表逐个发生，instantly 表瞬间。这些词让叙事有了节奏感。the least of 是一个有趣的表达："……是最不重要的"：Worry was the least of their concerns.
+
+学完本单元，你可以用英语讲述一段奇幻旅程，使用叙事连接词让故事有节奏，并描述命运、勇气和冒险。
+
 ## Tips
 
-"Fate"（命运）来自拉丁语"fatum"，原意是"已经被说出的话"——由"for"（说）的过去分词构成。在古罗马神话中，命运三女神（Parcae）在每个人出生时就"说出"了他的一生：Clotho纺出生命之线，Lachesis丈量其长度，Atropos则用剪刀将其剪断。这种"命运即语言"的观念深刻影响了西方文学——从俄狄浦斯无法逃脱神谕，到莎士比亚笔下麦克白被女巫的预言吞噬，"fate"始终是悲剧的核心引擎。
+- **journey / tale / legend** — journey 是旅程（强调过程），tale 是故事（常指虚构/古老的），legend 是传说（有历史基础的）。搭配：a long journey, tell a tale, an ancient legend。The journey took years. / Let me tell you a tale. / The legend says a treasure is buried here. 注意 journey 强调"路途"，trip 强调"出行"，voyage 强调"航海"。
 
-"Sword"（剑）在人类文明中不仅是武器，更是权力和誓言的象征。亚瑟王传说中的石中剑（Excalibur）代表着王权的天命所归；日本武士的刀被视为"武士之魂"；中世纪骑士在剑柄上刻十字架，对着剑身起誓。"Sword"来自古英语"sweord"，与德语"Schwert"同源，是日耳曼语系中最古老的武器词汇。在童话中，剑往往是英雄身份的证明——拔出剑的人就是被命运选中的人。
+- **nevertheless / no longer** — nevertheless = 然而/尽管如此（正式转折），no longer = 不再。搭配：nevertheless, ... / no longer + 动词。It was dangerous. Nevertheless, they continued. / They were no longer afraid. 注意 nevertheless 比 but 更正式、更有文学感。no longer 放在动词前或 be 后。
 
-"Journey"（旅程）来自古法语"jornee"，原意是"一天的行程"（来自拉丁语"diurnum"，即"一日"）。在中世纪，人们用"一天能走多远"来丈量距离，一次journey最初就是一天的步行。童话中的旅程从来不只是物理位移——它是英雄从无知到觉醒的内在蜕变。约瑟夫·坎贝尔在《千面英雄》中总结了"英雄之旅"的普遍模式：启程、启蒙、归来。从《奥德赛》到《指环王》，从格林童话到宫崎骏动画，这个模式跨越了所有文化。
+- **magical / mysterious / evil** — magical 是有魔力的，mysterious 是神秘的，evil 是邪恶的。搭配：a magical forest, a mysterious stranger, an evil king。The magical sword glowed. / A mysterious figure appeared. / The evil sorcerer waited. 注意 evil 比 bad 强烈得多，常用于童话/奇幻语境。
 
-"Legend"（传说）来自拉丁语"legenda"，原意是"应该被阅读的东西"。中世纪修道院中，修士们在用餐时由一位弟兄朗读圣徒传记（legenda），这些故事因此被称为"legend"。与"fairy tale"（童话）不同，legend声称基于真实事件，而tale则坦然承认自己是虚构。"Treasure"（宝藏）来自希腊语"thesauros"，原意是"储藏室"。在童话中，宝藏往往被埋藏在旅途的终点，象征着经历磨难后获得的精神财富——它可能不是金银，而是智慧、勇气或自我认知。
+- **fate / treasure / bury** — fate 是命运，treasure 是宝藏，bury 是埋葬/埋藏。搭配：fate had other plans, buried treasure, bury the sword。Fate brought them together. / The treasure was buried deep. / They buried the evil sword. 注意 bury 的过去式是 buried（双写 r 加 ed）。
 
-- "Tale"（故事）与"tail"（尾巴）同音，来自古英语"talu"（叙述），与德语"Zahl"（数字）同源——最初"讲故事"和"数数"是同一件事。
-- "Nevertheless"（然而）是英语中最优雅的转折词之一，字面意思是"尽管如此仍然"，在童话叙述中营造戏剧性转折。
-- "One by one"（一个接一个）是童话中经典的节奏模式：三兄弟逐一尝试，前两个失败，最小的成功。
-- "Evil"（邪恶的）来自古英语"yfel"，与德语"Übel"同源，是日耳曼语系中对"恶"最原始的表达。
-- "Magical"（魔法的）来自希腊语"magos"，原指波斯拜火教的祭司，希腊人认为他们掌握神秘力量。
+- **sword / arrow / strength** — sword 是剑，arrow 是箭，strength 是力量。搭配：draw a sword, shoot an arrow, gather strength。He drew his sword. / She shot an arrow. / They collected their strength. 注意 sword 的 w 不发音：/sɔːrd/。strength 来自 strong → strength（名词）。
+
+- **more and more / one by one / instantly** — more and more = 越来越，one by one = 一个接一个，instantly = 立刻。搭配：more and more dangerous, one by one they fell, instantly disappeared。The path grew more and more mysterious. / One by one, the stars appeared. / The dragon vanished instantly. 注意 more and more + 形容词 = 越来越……。
+
+- **just as / the least of** — just as = 正当……的时候，the least of = 最不重要的。搭配：just as they arrived, the least of their worries。Just as they gave up hope, help arrived. / Worry was the least of their problems. 注意 just as 强调"恰好在那个时刻"，比 when 更有戏剧性。
+
+- **beyond / up ahead / deep** — beyond = 在……那边/超越，up ahead = 前方，deep = 深处。搭配：beyond the mountains, up ahead, deep in the forest。Beyond the river lay the magical land. / The castle is up ahead. / The treasure was buried deep. 注意 beyond 既有空间义（那边）也有抽象义（超越理解）：beyond belief。
+
+- **approach / get out of / collect** — approach = 接近/靠近，get out of = 逃出/离开，collect = 收集/聚集。搭配：approach the castle, get out of the forest, collect strength。They approached the mysterious tower. / We need to get out of here! / They collected their courage. 注意 collect 在这里可指"聚集（力量/勇气）"。
+
+- **no longer / nevertheless** — 两者都用于叙事转折。no longer 表状态改变（不再），nevertheless 表让步转折（尽管如此）。搭配：no longer safe, nevertheless they tried。The path was no longer safe. / Nevertheless, they walked on. 注意 no longer 比 not anymore 更正式、更有文学感。
+
+- **worry / instantly** — worry 是担忧，instantly 是立刻。搭配：don't worry, instantly recognized。Don't worry—the journey will end. / She instantly knew the legend was true. 注意 instantly 比 immediately 更有"一瞬间"的画面感，常用于叙事。

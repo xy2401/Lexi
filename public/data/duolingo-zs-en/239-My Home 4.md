@@ -6,18 +6,34 @@
 
 a hand, admittedly, all over again, brick, by far, can't get over, can't take, clogged, collapse, concerning, construction, crack, damp, extend, fixer-upper, investment, leak, maintenance, measure, not so bad, oh man, on top of that, plumbing, relieved, stress out
 
+## 单元讲解
+
+本单元围绕"解释房屋问题"展开，场景是讨论房子的各种毛病和维修烦恼。词表里有房屋问题词汇（leak, crack, clogged, damp, collapse, plumbing, maintenance, construction），有程度与情绪表达（by far, can't get over, can't take, stress out, relieved, oh man, not so bad, admittedly），也有评价与决策词汇（fixer-upper, investment, extend, measure, concerning）。你可以用这些词吐槽房子：Oh man, the plumbing is clogged and there's a leak in the ceiling. / On top of that, there's a crack in the brick wall and the basement is damp. / Admittedly, it's not so bad—I'm relieved it didn't collapse. / It's a fixer-upper, but by far the best investment I could make. / I can't take the maintenance stress, but I can't get over how much I love the place. / I need to extend the kitchen and measure everything—all over again.
+
+这里值得注意 fixer-upper 这个有趣的词——它指"需要翻修的便宜房子"，字面意思是"修一修就能住的东西"。另外，can't take 和 can't get over 都表达强烈情绪，但方向不同：can't take = 受不了（负面），can't get over = 无法释怀/惊叹（可正可负）。
+
+学完本单元，你可以用英语描述房屋问题、表达维修的烦恼，并在抱怨中找到积极面。
+
 ## Tips
 
-"Plumbing"（管道系统）这个词来自拉丁语"plumbum"，意为"铅"。古罗马人是管道工程的先驱，他们用铅管将泉水引入城市的公共浴场和私人住宅。罗马城曾拥有超过400公里长的铅质输水管道，这是古代世界最壮观的基础设施工程。然而，有历史学家认为，铅管中的铅溶入饮用水，可能是导致罗马帝国衰落的因素之一——慢性铅中毒影响了统治阶层的判断力。"Plumber"（水管工）因此永远带着"铅"的印记。
+- **fixer-upper** — 需要翻修的房子（通常便宜买入后自己修）。搭配：buy a fixer-upper, a fixer-upper project。It's a fixer-upper, but it's a good investment. 构词：fixer（修的东西）+ upper（向上提升）。这是北美房产市场的常见概念。
 
-"Brick"（砖）是人类最古老的建筑材料之一。美索不达米亚平原上缺乏石材和木材，苏美尔人早在公元前7000年就开始用河泥混合稻草，在阳光下晒干制成泥砖。《圣经·创世记》中巴别塔的故事提到"他们拿砖当石头"，正是对两河流域建筑传统的真实写照。中国的砖文化同样悠久，秦砖汉瓦至今仍是建筑美学的象征。从泥砖到烧制砖再到现代空心砖，brick见证了人类定居文明的每一步。
+- **plumbing / clogged / leak** — plumbing 是水管系统，clogged 是堵塞的，leak 是漏水。搭配：plumbing problems, a clogged drain, a leak in the roof。The plumbing is old and the drain is clogged. / There's a leak upstairs. 注意 plumbing 是不可数名词，指整个管道系统。
 
-"Fixer-upper"（待修房屋）是20世纪美国房地产市场的独特产物。二战后，美国郊区大规模开发，大量房屋在几十年后老化，催生了"买旧房、翻新、转卖"的文化。这个词在2000年代随着HGTV家居改造节目的爆发而家喻户晓。"Investment"（投资）来自拉丁语"investire"，原意是"穿上衣服"——中世纪商人把资金投入贸易时，就像给钱"穿上衣服"让它出门工作。买房既是居住需求，也是投资行为，这种双重性让"fixer-upper"充满了冒险与希望。
+- **crack / damp / collapse** — crack 是裂缝，damp 是潮湿的，collapse 是坍塌。搭配：a crack in the wall, damp basement, the roof could collapse。There's a crack in the brick. / The walls are damp. / I'm relieved it didn't collapse. 注意 crack 可作名词也可作动词：The wall cracked.
 
-"Maintenance"（维护）来自古法语"maintenir"，意为"用手持有"（main=手，tenir=持有）。一座房子需要持续的"手持"才能不崩塌——屋顶要防leak（泄漏），墙壁要防crack（裂缝），管道要防clog（堵塞）。"Collapse"（坍塌）来自拉丁语"collabi"，"col-"（一起）+"labi"（滑落），描绘的是建筑构件一起滑落的恐怖画面。从古罗马万神殿屹立两千年不倒，到现代豆腐渣工程的瞬间崩塌，建筑的质量始终是人类文明的试金石。
+- **by far / admittedly / not so bad** — by far = 到目前为止/显然（加强最高级），admittedly =  admittedly（让步），not so bad = 没那么糟。搭配：by far the best, admittedly it's old, it's not so bad。By far the worst house I've seen. / Admittedly, the plumbing is concerning. / But it's not so bad overall. 注意 by far 常修饰最高级：by far the cheapest。
 
-- "Clogged"（堵塞的）与"clog"（木底鞋）同源——木底鞋笨重难行，就像堵塞的管道让水流"寸步难行"。
-- "Damp"（潮湿的）在中古英语中与"steam"（蒸汽）相关，暗示水汽渗透墙壁的过程。
-- "On top of that"（除此之外）是口语中叠加坏消息的经典连接词，仿佛问题像砖块一样一块块堆上来。
-- "Relieved"（如释重负的）来自拉丁语"relevare"（举起、减轻），字面意思是"重新被托起来"。
-- "Stress out"（压力过大）中的"stress"原本是物理学和工程学术语，指材料承受的应力，20世纪才被引入心理学。
+- **can't take / can't get over / stress out** — can't take = 受不了，can't get over = 无法释怀/惊叹，stress out = 压力很大。搭配：I can't take the noise, I can't get over the view, stress out about repairs。I can't take this maintenance! / I can't get over how charming it is. / Don't stress out—it's fixable.
+
+- **on top of that / oh man** — on top of that = 更有甚者/除此之外（递进坏消息），oh man = 天哪（口语感叹）。搭配：on top of that, ... / Oh man, ...。On top of that, the heating is broken. / Oh man, not another leak! 注意 on top of that 通常叠加负面信息。
+
+- **investment / maintenance / construction** — investment 是投资，maintenance 是维护/保养，construction 是建造/施工。搭配：a good investment, maintenance costs, under construction。The house is an investment. / Maintenance is expensive. / There's construction next door. 注意 maintenance 的发音：/ˈmeɪntənəns/。
+
+- **brick / extend / measure** — brick 是砖，extend 是扩展/延伸，measure 是测量。搭配：a brick wall, extend the kitchen, measure the room。The brick is cracking. / We want to extend the house. / I need to measure everything. 注意 extend 和 expand 的区别：extend 强调"延长/延伸"，expand 强调"扩大面积"。
+
+- **relieved / concerning** — relieved 是如释重负的，concerning 是令人担忧的。搭配：feel relieved, a concerning crack。I'm relieved the roof didn't collapse. / The damp patch is concerning. 注意 concerning 在这里是形容词（= worrying），不是动词 concern 的进行时。
+
+- **a hand / all over again** — a hand = 帮忙（give/lend a hand），all over again = 从头再来。搭配：give me a hand, do it all over again。Can you give me a hand with the plumbing? / I have to measure everything all over again. 注意 all over again 强调"重复、再来一次"的无奈。
+
+- **damp / leak / clogged** — 三者都是房屋常见问题。damp = 潮湿（墙壁/地下室），leak = 漏水（屋顶/管道），clogged = 堵塞（下水道）。搭配：damp walls, a leaking pipe, a clogged toilet。These problems often go together: a leak causes damp, and clogged pipes make it worse.

@@ -6,17 +6,37 @@
 
 accidentally, attach, back, back up, button, connect, cost, dot com, follow, look, look up, notice, plug, plug in, set, set up, sign, sign up, smartphone, sort of, update, upgrade, username, voicemail, volume
 
+## 单元讲解
+
+本单元围绕"在网上查找信息"展开。核心是科技操作表达：I accidentally deleted the file—I need to back it up next time.（我不小心删了文件——下次得备份。）、Just look up the word online and sign up for the website.（直接在网上查这个词，然后注册网站。）、Plug in the charger and press the button to connect.（插上充电器，按按钮连接。）、I need to update my smartphone and upgrade the volume.（我需要更新手机，把音量调大。）。
+
+词表里有科技操作词（plug in, set up, sign up, back up, look up）和设备词汇（smartphone, button, volume）。你可以练习：Attach the file. / What's your username? / Check your voicemail. / It costs $99.
+
+phrasal verbs（短语动词）是本单元重点：plug in, set up, sign up, back up, look up。
+
 ## Tips
 
-"Technology"来自希腊语"techne"（技艺、手艺）和"logos"（学问、话语）。在古希腊，"techne"不仅指技术，更指任何需要专门知识的"制作"——从造船到修辞学都是"techne"。亚里士多德将"techne"与"episteme"（纯粹知识）区分：前者关乎"如何制作"，后者关乎"为何如此"。今天"technology"一词同时承载了这两层含义，而数字时代让"制作"与"知识"的边界日益模糊。
+- **look up / sign up / set up** — 查找 / 注册 / 设置。搭配：look up a word, sign up for a course, set up an account。例句：Look it up online. / I signed up for the app. / Let me set up my phone. 注意这些是可分离短语动词。
 
-"Dot com"（点com）是互联网时代的标志性词汇。1990年代末的"dot-com bubble"（互联网泡沫）中，任何公司只要在名字后面加上".com"就能获得疯狂的投资。"Dot"本身来自古英语"dott"（小点），最初指皮肤上的小斑点。而"com"是"commercial"（商业）的缩写——互联网最初是军事和学术网络，".com"后缀的出现标志着它向商业世界的全面开放。"Username"（用户名）则是数字身份的起点：在匿名化的网络空间中，一个名字就是你存在的全部证明。
+- **plug in / back up / attach** — 插入 / 备份 / 附件。搭配：plug in the charger, back up your files, attach a document。例句：Plug in the USB drive. / Back up your data regularly. / I attached the photo. 注意 plug in 可分开（plug it in）。
 
-"Plug in"（插入、接入）的意象来自电气时代——将插头插入插座，电流便接通了。这个物理动作被完美地隐喻化：今天我们"plug in"设备、"connect"网络、"sign up"服务，每一步都是将个体接入更大的系统。"Back up"（备份）则反映了数字时代特有的焦虑：数据是脆弱的，一个"accidentally"（意外地）的点击就可能让一切消失。"Back up"字面意思是"向后支撑"，如同在身后建一道防线。
+- **update / upgrade / connect** — 更新 / 升级 / 连接。搭配：update the app, upgrade to a new version, connect to WiFi。例句：Update your software. / I upgraded my phone. / Connect to the network. 注意 update = 更新内容，upgrade = 升级到更高级。
 
-"Smartphone"（智能手机）这个词在2007年iPhone发布后彻底改变了含义。在此之前，"smart phone"只是指能发邮件的手机；在此之后，它成为人类感官的延伸——相机、地图、图书馆、音乐厅全部浓缩在一块玻璃之下。"Volume"（音量）来自拉丁语"volumen"（卷轴），最初指书卷的"体积"，后来才引申为声音的"大小"。
+- **smartphone / button / volume** — 智能手机 / 按钮 / 音量。搭配：a smartphone, press the button, turn up the volume。例句：I got a new smartphone. / Press the power button. / Turn down the volume. 注意 volume 指音量大小。
 
-- "Look up"（查找）保留了"向上看"的意象——在纸质词典时代，你确实需要"抬头"在书页上方寻找词条。
-- "Sign up"（注册）中的"sign"来自拉丁语"signum"（标记），古罗马士兵在入伍时要在文件上"做标记"——这就是"sign up"的军事起源。
-- "Update"和"upgrade"的区别：update是"更新到最新状态"（如同刷新），upgrade是"升级到更高层次"（如同攀登）。
-- "Voicemail"（语音信箱）是"voice"+"mail"的组合，反映了电话与邮政系统的隐喻融合——留言如同寄出一封信，等待对方"收取"。
+- **username / voicemail / dot com** — 用户名 / 语音信箱 / 点com。搭配：enter your username, check voicemail, a dot com address。例句：What's your username? / I have three voicemails. / Visit example dot com. 注意 dot com 读作 /dɑːt kɑːm/。
+
+- **accidentally / notice / sort of** — 不小心 / 注意到 / 有点。搭配：accidentally delete, notice a problem, sort of。例句：I accidentally sent it to the wrong person. / Did you notice the error? / It's sort of complicated. 注意 accidentally = by mistake。
+
+- **cost / follow / look** — 花费 / 关注 / 看。搭配：cost $50, follow a page, look at。例句：The app costs $5. / Follow us on social media. / Look at the screen. 注意 cost 的过去式还是 cost。
+
+- **sign / set / back** — 签名 / 设置 / 回来。搭配：sign in, set the alarm, go back。例句：Sign in with your username. / Set up your profile. / Go back to the homepage. 注意 sign in = 登录，sign up = 注册。
+
+- **plug / connect / update** — 插头 / 连接 / 更新。搭配：a plug, connect the device, an update。例句：Where's the plug? / Connect the printer. / There's a new update available. 注意 plug 可作名词（插头）。
+
+- **back up / look up / sign up** — 备份 / 查找 / 注册。搭配：back up files, look up information, sign up online。例句：Always back up your work. / I looked up the answer. / Sign up on the website. 注意这些短语动词的宾语可放中间。
+
+- **volume / voicemail / smartphone** — 音量 / 语音信箱 / 手机。搭配：adjust the volume, leave a voicemail, on my smartphone。例句：The volume is too loud. / She left a voicemail. / I'll check on my smartphone. 注意 leave a voicemail = 留语音消息。
+
+- **accidentally / sort of / notice** — 意外地 / 有点 / 注意。搭配：do sth accidentally, sort of like, notice a change。例句：I accidentally broke the screen. / It's sort of expensive. / I noticed a new button. 注意 sort of 是口语中的"有点"。
+

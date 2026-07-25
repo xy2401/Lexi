@@ -6,20 +6,37 @@
 
 asleep, awake, bored, change, comb, down, dress, exercise, fall asleep, fallen asleep, help, hug, kiss, lots of, rang, relax, ring, rung, scared, series, shave, smile, stressed, toothpaste, uncomfortable
 
+## 单元讲解
+
+本单元围绕"帮助他人完成日常事务"展开。核心是日常表达：Have you fallen asleep already?（你已经睡着了吗？）、The phone rang and rang, but nobody answered.（电话一直响，但没人接。）、Help me get dressed—I'm so stressed!（帮我穿衣服——我压力好大！）、She smiled and gave me a hug and a kiss.（她微笑着给了我一个拥抱和亲吻。）。
+
+词表里有日常动作（comb, shave, dress, exercise）和感受词汇（bored, scared, stressed, uncomfortable）。你可以练习：I'm awake but still tired. / Put toothpaste on the brush. / I fell asleep during the series. / Ring the bell!
+
+fall asleep（入睡）→ fallen asleep（已入睡）。ring → rang → rung（响铃）。
+
 ## Tips
 
-"Toothpaste"（牙膏）的历史可以追溯到五千年前的古埃及。法老的药剂师用磨碎的牛蹄、蛋壳、浮石和没药混合，制成世界上最早的"牙膏粉"。古罗马人则用骨灰和蜂蜜调制洁牙膏，有时甚至加入人尿——因为尿中的氨确实有美白效果。直到1873年，高露洁公司才推出了第一管商业化牙膏，而铝制软管包装的灵感来自画家用的颜料管。
+- **fall asleep / fallen asleep / asleep** — 入睡 / 已入睡 / 睡着的。搭配：fall asleep, have fallen asleep, be asleep。例句：I fell asleep on the sofa. / Has she fallen asleep? / The baby is asleep. 注意 asleep 只能作表语（不说 ✗ an asleep baby）。
 
-"Comb"（梳子）是人类最古老的工具之一。考古学家在苏格兰发现了距今约五千年的骨制梳子。在古埃及，梳子不仅是日用品，更是宗教仪式用品——法老下葬时必须随葬象牙梳。古罗马女性用精美的黄杨木梳梳理复杂的发髻，梳背上雕刻着神话场景。"Comb"来自古英语"camb"，与德语"Kamm"同源，是日耳曼语族中最稳定的词汇之一。
+- **awake / bored / stressed** — 醒着的 / 无聊的 / 有压力的。搭配：stay awake, feel bored, feel stressed。例句：I'm awake but tired. / I'm bored—let's do something. / I'm so stressed about work. 注意 bored 修饰人，boring 修饰事物。
 
-"Exercise"（锻炼）来自拉丁语"exercitium"，词根是"ex-"（出）+"arcere"（关住），字面意思是"从被关住的状态中释放出来"。古罗马人认为身体和心灵都需要"exercise"——西塞罗把哲学思考称为"animi exercitatio"（心灵的锻炼）。"Relax"（放松）来自拉丁语"relaxare"，由"re-"（回）+"laxare"（松开）构成，与"lax"（松弛的）同源。古罗马人在公共浴场（thermae）中泡热水、做按摩，这就是他们版本的"relax"。
+- **ring / rang / rung** — 响铃。搭配：the phone rang, ring the bell, has rung。例句：The phone rang three times. / Ring the doorbell! / The bell has rung. 注意 ring → rang → rung（不规则）。
 
-"Shave"（刮胡子）在人类文明史中意义重大。古埃及祭司必须每天刮净全身毛发，以示宗教纯洁。亚历山大大帝命令士兵刮掉胡须，理由是战场上敌人可以抓住胡子把士兵拖倒。"Shave"来自古英语"sceafan"，与拉丁语"scabere"（刮擦）同源。而"smile"（微笑）来自古英语"smilian"，是日耳曼语族独有的词汇——拉丁语用"ridere"（笑），法语用"sourire"，但英语选择了自己温柔的方式。
+- **comb / shave / dress** — 梳（头）/ 刮（胡子）/ 穿衣。搭配：comb your hair, shave, get dressed。例句：Comb your hair before school. / He shaves every morning. / Get dressed quickly! 注意这些是日常洗漱动词。
 
-"Asleep"（睡着的）中的"a-"是古英语前缀，表示"进入某种状态"，与"awake"（醒着的）形成对比。在中世纪欧洲，人们相信睡眠时灵魂会暂时离开身体，因此"fall asleep"（入睡）字面上就是"坠入"另一个世界。"Nightmare"（噩梦）中的"mare"不是"母马"，而是古英语"mære"——一种压在沉睡者胸口的恶灵，让你无法呼吸。这个恐怖的形象在日耳曼民间传说中流传了上千年。
+- **hug / kiss / smile** — 拥抱 / 亲吻 / 微笑。搭配：give a hug, give a kiss, smile at。例句：She gave me a hug. / He kissed her goodbye. / She smiled at me. 注意这些既可作名词也可作动词。
 
-- "Ring-rang-rung"是英语中最古老的不规则动词变化之一，来自古英语"ringan"，保留了日耳曼语的"元音交替"（ablaut）传统。
-- "Stressed"（有压力的）和"dessert"（甜点）是字母完全颠倒的一对词——压力大时就想吃甜点，这或许是语言开的玩笑。
-- "Scared"（害怕的）来自古诺尔斯语"skirra"（使受惊），维京入侵给英语留下了这个充满恐惧的词。
-- "Series"（系列）来自拉丁语"serere"（编织），一系列事物就像编织在一起的线，环环相扣。
-- "Uncomfortable"（不舒服的）中"comfort"来自拉丁语"confortare"（加强），字面意思是"给予力量"——comfort food就是"给你力量的食物"。
+- **toothpaste / exercise / relax** — 牙膏 / 锻炼 / 放松。搭配：put toothpaste on, do exercise, relax and rest。例句：Put some toothpaste on your brush. / Exercise helps you relax. / Just relax! 注意 toothpaste 不可数。
+
+- **scared / uncomfortable** — 害怕的 / 不舒服的。搭配：feel scared, scared of, uncomfortable。例句：The child is scared of the dark. / This chair is uncomfortable. 注意 scared = afraid（更口语）。
+
+- **help / change / series** — 帮助 / 换 / 连续剧。搭配：help me, change clothes, a TV series。例句：Help me get dressed. / I need to change my clothes. / I watched a whole series last night. 注意 series 单复数同形。
+
+- **lots of / down / help** — 很多 / 向下 / 帮助。搭配：lots of things, sit down, Can you help me? 例句：I have lots of things to do. / Sit down and relax. / Can you help me get dressed? 注意 lots of = a lot of。
+
+- **rang / rung / ring** — 响了 / 响过 / 响。搭配：the alarm rang, has rung, ring the alarm。例句：The alarm rang at six. / The bell has already rung. / Ring me later. 注意区分 rang（过去式）和 rung（过去分词）。
+
+- **asleep / awake / bored** — 睡着 / 醒着 / 无聊。搭配：fall asleep, wide awake, feel bored。例句：The baby fell asleep. / I'm wide awake at 3 AM. / I'm bored—nothing to do. 注意 wide awake = 完全清醒。
+
+- **stressed / scared / uncomfortable** — 压力 / 害怕 / 不适。搭配：feel stressed, scared of, uncomfortable。例句：I'm stressed about the exam. / She's scared of spiders. / These shoes are uncomfortable.
+

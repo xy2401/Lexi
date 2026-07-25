@@ -6,17 +6,26 @@
 
 captain, come on, cyclist, defense, diving, equipment, expect to, final, gymnastics, helmet, high, hope to, hunt, offense, perfectly, race, record, ski, snowboard, swimmer, there can't be, there may not be, there might be, there might not be, there should not be, there shouldn't be, track
 
+## 单元讲解
+
+本单元围绕"描述一场体育赛事"展开。词表里有运动项目（diving, gymnastics, ski, snowboard, race, track, hunt）、运动角色和装备（captain, cyclist, swimmer, helmet, equipment）以及比赛用语（final, record, defense, offense, come on）。
+
+你可以练习赛事描述：Come on! The cyclist is in the final! / The swimmer hopes to break the record. / There might be a new record in gymnastics. / The captain expects to win. / Put on your helmet before you ski. / There shouldn't be any problems on the track.
+
+there might be / there can't be / there should not be 这组结构用来表达对赛事的推测和判断。perfectly 修饰动作完成度（She landed perfectly.）。
+
 ## Tips
 
-"Gymnastics"来自希腊语"gymnos"（裸露的）。古希腊运动员在训练和比赛时赤身裸体，以展示人体的完美比例。"gymnasium"最初就是"裸体训练的场所"。古希腊人认为身体之美与心灵之美同等重要，柏拉图本人就是一名摔跤手（"Plato"这个名字可能来自"platos"，意为"宽阔的肩膀"）。现代体操在19世纪由德国教育家弗里德里希·雅恩系统化，他被称为"体操之父"。
+- **captain / cyclist / swimmer** — captain = 队长（the team captain）。cyclist = 自行车手（cycle + -ist）。swimmer = 游泳者（swim + -mer，注意双写 m）。构词规律：动词 + -er/-or/-ist 表示"做某事的人"。
 
-"Captain"来自拉丁语"caput"（头），即"领头的人"。在体育中，队长是场上的灵魂人物。足球史上，1966年英格兰世界杯决赛，博比·摩尔作为队长举起奖杯的画面成为英国体育的永恒记忆。"Defense"和"offense"来自拉丁语"defendere"（挡开）和"offendere"（撞击），这两个词最初都是军事术语，后来被美国橄榄球运动借用，形成了攻防两组的独特体制。
+- **defense / offense / final / record** — defense = 防守（on defense, play defense）。offense = 进攻（on offense）。final = 决赛（the final / the finals）。record = 纪录（break a record, set a record）。注意 record 做名词重音在前 /ˈrɛkərd/，做动词重音在后 /rɪˈkɔːrd/。
 
-"Helmet"来自古法语"heaume"（头盔），与日耳曼语"hjalmr"同源。古罗马角斗士的青铜头盔重达数公斤，中世纪骑士的全封闭头盔让骑士几乎看不见东西。现代运动头盔的设计灵感来自二战时期的军用钢盔，而自行车头盔直到1970年代才从"可选配件"变成"必备装备"——在此之前，环法自行车赛的选手都是裸头骑行。
+- **there might be / there can't be / there should not be** — 表推测的 there be 结构。there might be = 可能有。there can't be = 不可能有（否定推测，语气强）。there should not be = 不应该有（期望）。there may not be = 可能没有。注意 can't 表"不可能"比 may not 语气更强。
 
-"Record"来自拉丁语"recordari"（回忆），由"re-"（再次）和"cor"（心）构成——把某事重新"记在心里"。体育纪录就是值得被永远铭记的成绩。1936年柏林奥运会上，杰西·欧文斯在纳粹德国的注视下连夺四枚金牌，他的纪录不仅是体育成就，更是对种族偏见的有力回击。"Track"来自古英语"træc"（足迹、小路），田径运动就是"沿着足迹奔跑"的运动。
+- **ski / snowboard / diving / gymnastics** — ski = 滑雪（go skiing）。snowboard = 单板滑雪（go snowboarding）。diving = 跳水/潜水（Olympic diving）。gymnastics = 体操（注意复数形式做单数用：Gymnastics is difficult.）。
 
-- "come on"在体育比赛中是最常见的加油用语，类似中文的"加油！"
-- "ski"来自挪威语"skíð"（木条），挪威人使用滑雪板的历史超过5000年
-- "snowboard"是1960年代美国人谢尔曼·波彭发明的，他最初把两块滑雪板绑在一起给女儿玩，称之为"snurfer"（snow+surfer）
-- 英语中"there might be / there can't be"等表达用于推测，在描述比赛不确定性时非常常用
+- **helmet / equipment / track / race** — helmet = 头盔（wear a helmet）。equipment = 装备（不可数：sports equipment, a piece of equipment）。track = 跑道/赛道（on the track, track and field 田径）。race = 比赛/赛跑（a 100-meter race）。
+
+- **come on / perfectly / expect to / hope to** — come on = 加油！（口语中为运动员打气）。perfectly = 完美地（She performed perfectly.）。expect to = 预计会（I expect to win.），比 hope to 更有把握。hope to = 希望能（I hope to break the record.）。
+
+- **hunt / high** — hunt = 打猎（go hunting, hunt for...）。在运动语境中可能指"追逐"（hunt for a medal）。high = 高的（jump high, a high score）。搭配：set the bar high。

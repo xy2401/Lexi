@@ -6,20 +6,37 @@
 
 avoid, break up, calm, careless, clever, date, definitely, helpful, how, in a hurry, kid, make, nightclub, nightlife, over, patient, pay attention, quiet, romantic, social, what, where, who, why
 
+## 单元讲解
+
+本单元围绕"分享约会细节"展开。核心是恋爱表达：We went on a date to a quiet, romantic restaurant.（我们去了一家安静浪漫的餐厅约会。）、They broke up because he was careless.（他们分手了，因为他太粗心。）、She's clever, patient, and definitely social.（她聪明、有耐心，而且绝对很社交。）、Why don't you pay attention to your date?（你为什么不注意你的约会对象呢？）。
+
+词表里有性格词汇（calm, clever, patient, careless, social）和恋爱词汇（date, break up, romantic）。你可以练习：I'm in a hurry—I have a date! / The nightlife here is great. / Avoid the noisy nightclub. / Who's your date? / How was the date?
+
+break up 表示"分手"。pay attention to 表示"注意"。
+
 ## Tips
 
-"Romantic"（浪漫的）一词的历史远比我们想象的丰富。它来自中世纪法语"romanz"，最初指用罗曼语（而非拉丁语）写成的骑士冒险故事——那些关于骑士、贵妇、巨龙和城堡的传奇。18世纪末，"Romanticism"（浪漫主义）运动席卷欧洲，华兹华斯、拜伦、雪莱等诗人用"romantic"来形容对自然、情感和个体自由的崇尚。从骑士传奇到湖畔诗人，"romantic"始终与"超越日常"的渴望相连。
+- **date / romantic / break up** — 约会 / 浪漫的 / 分手。搭配：go on a date, a romantic dinner, break up with。例句：We went on a date last night. / It was very romantic. / They broke up last week. 注意 break up with sb = 和某人分手。
 
-"Date"（约会）作为"浪漫会面"的含义，诞生于19世纪末的美国。在此之前，求爱（courtship）必须在女方家中、在家人注视下进行。工业革命让年轻女性走出家庭进入工厂，也给了她们在公共空间与异性见面的自由。1896年，《芝加哥论坛报》首次用"date"来描述一对年轻人的外出约会——这个词原意只是日历上的"日期"，从此被赋予了心跳加速的新含义。
+- **calm / patient / clever** — 冷静的 / 有耐心的 / 聪明的。搭配：stay calm, be patient, a clever person。例句：She's very calm and patient. / He's clever—he solved it quickly. 注意 patient 既是形容词（有耐心）也是名词（病人）。
 
-"Nightclub"（夜总会）的历史与爵士乐和禁酒令密不可分。1920年代美国禁酒令期间，地下酒吧（speakeasy）成为爵士乐和舞蹈的温床。"Club"来自古法语"clubbe"（棍棒），最初指中世纪伦敦的"棍棒兄弟会"——一群用棍棒互相保护的市民联盟。"Nightlife"（夜生活）则反映了城市文明的另一面：当太阳落下，城市的另一张面孔苏醒——霓虹灯、音乐、舞蹈和无尽的对话。
+- **careless / social / quiet** — 粗心的 / 社交的 / 安静的。搭配：careless mistakes, a social person, a quiet place。例句：He's careless with money. / She's very social. / Let's find a quiet place. 注意 careless 的反义是 careful。
 
-"Patient"（耐心的）来自拉丁语"pati"（忍受），与"passion"（激情）共享词根。这个看似矛盾的联系揭示了爱情的真相：真正的激情需要忍耐。古罗马神话中，丘比特的箭有两种——金箭点燃爱情，铅箭制造冷漠。被金箭射中的人无法自拔，被铅箭射中的人无动于衷——爱情从来不是对等的。"Calm"（平静的）来自拉丁语"cauma"（正午的炎热），原意是"炎热中休息的时段"——地中海农民在正午最热时停工休息，那段宁静的时光就是"calm"。
+- **pay attention / avoid / in a hurry** — 注意 / 避免 / 匆忙。搭配：pay attention to, avoid doing, in a hurry。例句：Pay attention to what she says. / Avoid being late. / I'm in a hurry! 注意 pay attention to + 名词/动名词。
 
-"Break up"（分手）是英语中最直白也最心碎的表达之一。"Break"来自古英语"brecan"（打碎），与拉丁语"frangere"（破碎）同源——分手就是把曾经完整的东西"打碎"。而"avoid"（避免）来自拉丁语"exvitare"，由"ex-"（出）+"vitare"（躲避）构成，与"vital"（生命的）有远亲关系——避开危险就是"保全生命"。在爱情的语境中，avoid和break up构成了人类情感最脆弱的两面。
+- **nightclub / nightlife / over** — 夜店 / 夜生活 / 结束。搭配：go to a nightclub, the nightlife, it's over。例句：The nightclub was too loud. / I love the nightlife here. / The relationship is over. 注意 nightlife 不可数。
 
-- "Clever"（聪明的）来自古英语"clifer"（灵巧的），最初形容手工技艺的精湛，后来才扩展到智力层面。
-- "Social"（社交的）来自拉丁语"socius"（同伴），与"society"（社会）同源——社交的本质就是"寻找同伴"。
-- "Definitely"（肯定地）来自拉丁语"definire"（划定边界），肯定就是"把界限划清楚"，不留模糊空间。
-- "Quiet"（安静的）来自拉丁语"quietus"（休息的），与"quit"（退出）同源——安静就是"从喧嚣中退出"。
-- "Careless"（粗心的）中"care"来自古英语"caru"（忧虑），careless就是"没有忧虑"——但用在人身上，"无忧无虑"变成了"漫不经心"。
+- **definitely / helpful / make** — 肯定 / 有帮助的 / 使。搭配：definitely, a helpful friend, make someone happy。例句：She's definitely the one. / He's very helpful. / You make me happy. 注意 definitely = 100% sure。
+
+- **how / what / where / who / why** — 如何 / 什么 / 哪里 / 谁 / 为什么。搭配：How was...? / What happened? / Where did you go? / Who is...? / Why...? 例句：How was your date? / What did you do? / Where did you meet? / Who's your date? / Why did you break up?
+
+- **kid / make / calm** — 小孩 / 使 / 冷静。搭配：a kid, make a plan, stay calm。例句：I met her when we were kids. / Make a plan for the date. / Stay calm—it'll be fine. 注意 kid 比 child 更口语。
+
+- **avoid / careless / over** — 避免 / 粗心 / 结束。搭配：avoid mistakes, careless behavior, it's over。例句：Avoid being careless. / His careless words hurt her. / Their relationship is over. 注意 avoid + 动名词。
+
+- **romantic / quiet / date** — 浪漫 / 安静 / 约会。搭配：a romantic evening, a quiet restaurant, a blind date。例句：It was a romantic evening. / The restaurant was quiet and nice. / I have a date tonight. 注意 blind date = 相亲。
+
+- **social / helpful / patient** — 社交 / 有帮助 / 耐心。搭配：a social person, very helpful, be patient。例句：She's very social—she knows everyone. / He's always helpful. / Be patient with your date. 注意 social 的反义是 shy / quiet。
+
+- **break up / nightlife / definitely** — 分手 / 夜生活 / 肯定。搭配：break up, enjoy the nightlife, definitely。例句：They broke up after two years. / The nightlife is amazing here. / I definitely want to see her again.
+

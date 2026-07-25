@@ -6,18 +6,26 @@
 
 act, argument, be able to, common sense, control, disappoint, drawn, drunk, guilty, had, hadn't, if, loud, lucky, mistaken, promise, selfish, stupid, warn, would, would have had, wouldn't have
 
+## 单元讲解
+
+本单元围绕"为某个决定表达后悔"展开。核心语法是第三类条件句（对过去的虚拟）：If I hadn't been so stupid, I wouldn't have disappointed everyone. / If she had listened, she would have had a better result. 词表里 had, hadn't, would, would have had, wouldn't have 正是这个结构的骨架。
+
+词表还有描述错误和情绪的词汇（mistaken, guilty, selfish, stupid, drunk, loud, disappoint）和应对表达（warn, promise, control, common sense, argument）。你可以练习：I should have listened—I was drunk and loud. / He warned me, but I didn't act on it. / I feel guilty; I was selfish. / I promise I'll be able to do better.
+
+drawn 是 draw 的过去分词，在这里可能指"被吸引"（drawn to）或"被画"。be able to 是 can 的替代形式，用于 can 无法出现的时态中。
+
 ## Tips
 
-"Mistake"来自古诺尔斯语"mistaka"，由"mis-"（错误地）和"taka"（拿）组成，字面意思是"拿错了"。这个朴素的词源揭示了错误的本质——我们只是"拿错了"方向。在英语文学中，后悔是最强大的情感驱动力之一：麦克白夫人的"Out, damned spot!"（去吧，该死的污点！）是对无法挽回之事的绝望呐喊。"Guilty"（有罪的）来自古英语"gylt"（罪行、债务），与"gold"可能有遥远的亲缘关系——因为古代的"罪"往往用金钱来偿还。
+- **wouldn't have / would have had / hadn't** — 第三类条件句的核心。结构：If + had/hadn't + 过去分词, would/wouldn't have + 过去分词。例句：If I hadn't been drunk, I wouldn't have said that. / If she had warned me, I would have had time. 表示对已发生事情的后悔或假设。
 
-"Common sense"（常识）来自拉丁语"sensus communis"，亚里士多德用它指"统合五种感官的第六感"。在中世纪哲学中，"common sense"是大脑中一个实际的器官，负责整合视觉、听觉等信息。今天它指"人人都应该知道的基本判断力"。"Selfish"（自私的）中的"-ish"后缀表示"具有...特性的"，"self"（自我）加"-ish"就是"只关注自我的"。
+- **guilty / selfish / stupid / mistaken** — guilty = 内疚的（feel guilty about...）。selfish = 自私的（self + -ish）。stupid = 愚蠢的（口语中常见，注意语气较重）。mistaken = 弄错的（I was mistaken. = 我搞错了。），比 wrong 更委婉。
 
-"Drunk"（喝醉的）来自古英语"druncen"，是"drink"的过去分词演变而来的形容词。在英语文化中，"drunk"不仅是生理状态，也是道德判断——"drunk driving"（酒驾）是最严重的交通犯罪之一。"Warn"（警告）来自古英语"warnian"（警惕、拒绝），与"ward"（守卫）同源。在日耳曼神话中，守卫彩虹桥的海姆达尔（Heimdall）就是终极的"warner"——他的号角声是对诸神黄昏的最后警告。
+- **disappoint / warn / promise** — disappoint = 使失望（I don't want to disappoint you.），形容词 disappointing（令人失望的）/ disappointed（感到失望的）。warn = 警告（warn someone about/of something）。promise = 承诺（I promise I won't do it again.）。
 
-"Wouldn't have"（本不会）是英语虚拟语气中表达后悔的核心结构："I wouldn't have done that if I had known better."（如果我当时更明智，我就不会那样做了。）"Promise"（承诺）来自拉丁语"promittere"（向前送出），由"pro-"（向前）和"mittere"（送）组成——承诺就是把话语"送出去"，让它成为对未来的约束。
+- **drunk / loud / drawn** — drunk = 喝醉的（He was drunk.），drink → drank → drunk。loud = 大声的（Don't be so loud!）。drawn 是 draw 的过去分词，搭配 be drawn to = 被吸引（I was drawn to the noise.）。
 
-- "Would have had"是"would + have + 过去分词"的完成形式，表达对过去未发生之事的假设。
-- "Mistaken"是形容词（错误的），"mistake"是名词（错误）：You are mistaken. / You made a mistake.
-- "Be able to"比"can"更正式，且有时态变化：I will be able to help you tomorrow.
-- "Control"来自拉丁语"contra"（反对）加"rotulus"（名册），原意是"核对名册"，即"掌控"。
-- "Argument"可以指"争论"也可以指"论点"，在"mistakes"语境中通常指"争吵"。
+- **common sense / control / argument** — common sense = 常识（Use your common sense!）。control = 控制（lose control, under control）。argument = 争论（have an argument with someone），也可指"论点"。
+
+- **be able to / act / lucky** — be able to = 能够（= can，但能用于更多时态：I will be able to... / I have been able to...）。act = 行动（act now!）也可指"行为"。lucky = 幸运的（You're lucky! / a lucky escape）。
+
+- **if / had / would** — 这三个功能词构成条件句框架。if 引导条件从句，had 做助动词构成过去完成，would 构成主句的虚拟结果。注意 if 从句中不用 would（不说 If I would have...，而说 If I had...）。

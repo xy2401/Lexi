@@ -6,18 +6,26 @@
 
 across, antique, basement, coffee table, compare, damage, did, do, does, don't, ground floor, lease, main, move into, move out, moving truck, neither do i, own, owner, porch, real estate agent, so do i, system, total, utilities
 
+## 单元讲解
+
+本单元围绕"搬家和对住所的偏好"展开。你可以描述找房、搬家和评价房子：I'm looking for a place with a porch and a basement. The real estate agent showed me one across the street—the main room has an antique coffee table, and the total cost includes utilities.（我在找一个有门廊和地下室的房子。房产中介给我看了街对面的一套——主房间有一张古董咖啡桌，总费用包含水电。）So do I! I'd love to move into a place like that. Neither do I want to deal with damage from the previous owner.（我也是！我很想搬进那样的地方。我也不想处理前房东留下的损坏。）
+
+词表里有房屋结构词汇：basement, ground floor, porch, main。搬家相关：move into, move out, moving truck, lease, real estate agent。do / does / did / don't 是助动词，so do i 和 neither do i 是表达"我也（不）……"的简短回应。own / owner 涉及房屋产权。compare, damage, system, total, utilities 用来比较和评价不同房源。
+
 ## Tips
 
-"Lease"（租约）来自古法语"laissier"（释放、留下），与拉丁语"laxare"（松开）同源。在中世纪英格兰，土地租赁是封建制度的核心——领主将土地"释放"给佃农耕种，佃农则缴纳租金。今天，"lease"是租房者最重要的法律文件。"Real estate"中的"real"来自拉丁语"res"（事物），在法律英语中特指"不动产"——与"personal property"（动产）相对。"Real estate agent"（房产经纪人）是英美社会中不可或缺的角色，他们帮助人们完成一生中最大的交易之一。
+- **so do i / neither do i** — 表达"我也一样"和"我也不"。So do I = 我也是（用于肯定）：I like this house. — So do I. Neither do I = 我也不是（用于否定）：I don't want a basement. — Neither do I. 注意 so/neither 后面要倒装。
 
-"Porch"（门廊）来自拉丁语"porticus"（柱廊），古罗马建筑中，门廊是公共与私人空间的过渡地带。在美国南方，坐在porch上喝柠檬水、看邻居经过，是一种经典的生活场景。"Basement"来自"base"（底部），是房屋最底层的空间。在美国文化中，basement既是储物间，也是青少年的秘密领地，更是恐怖片中令人不安的存在。
+- **move into / move out / moving truck** — move into = 搬入。move out = 搬出。moving truck = 搬家卡车。注意 move 单独使用时可泛指"搬家"：We're moving next month. 但 move into/out 强调方向。
 
-"Antique"来自拉丁语"antiquus"（古老的），在英语中通常指超过100年的物品。古董市场是欧洲城市文化的重要组成部分——伦敦的Portobello Road、巴黎的跳蚤市场（marché aux puces）都是淘宝者的天堂。"Utilities"（水电煤气等公用事业费用）来自拉丁语"utilis"（有用的），在租房语境中特指那些"有用的"基础设施服务。
+- **lease / own / owner / real estate agent** — lease 是租约（名词/动词）：sign a lease / lease an apartment. own 是拥有（动词）：She owns the house. owner 是所有者。real estate agent = 房产中介（英式：estate agent）。
 
-"Move into"和"move out"是搬家的两个核心动作。在美国，搬家是家常便饭——美国人平均一生搬11次家。"Moving truck"（搬家卡车）是这种流动文化的象征。"Neither do I"和"So do I"是英语中表示"我也是"的简洁方式，体现了英语对话中的共鸣与认同。
+- **basement / ground floor / porch** — basement = 地下室。ground floor = 一楼（英式英语中 ground floor = 一楼，first floor = 二楼；美式英语中 first floor = 一楼）。porch = 门廊（房屋入口处的有顶空间）。
 
-- "Ground floor"在英式英语中是一楼（地面层），"first floor"才是二楼；美式英语中"first floor"就是一楼。
-- "Own"作动词意为"拥有"，"owner"是"所有者"，"own"作形容词意为"自己的"：my own house。
-- "Utilities"通常包括water, electricity, gas, internet，租房时要问清楚是否包含在租金中。
-- "Compare"来自拉丁语"comparare"（放在一起），字面意思是"把两样东西放在一起看"。
-- "Neither do I"用于否定句的附和，"So do I"用于肯定句的附和，不能混用。
+- **antique / coffee table / main** — antique = 古董的/古董：an antique desk. coffee table = 茶几/咖啡桌（客厅沙发前的矮桌）。main = 主要的：the main bedroom / the main entrance.
+
+- **utilities / total / system** — utilities = 水电煤气等公用事业费用：Utilities are included in the rent. total = 总计的/总额：the total cost. system 在此可能指供暖/空调系统：a heating system。
+
+- **compare / damage / across** — compare 搭配 compare A to/with B：Compare this apartment to that one. damage = 损坏（不可数名词）：There's some damage to the wall. across = 在……对面/穿过：across the street。
+
+- **did / do / does / don't** — 助动词，用于构成疑问句和否定句。do/does 用于现在时（does 第三人称单数），did 用于过去时。在简短回答中：Do you like it? — I do. / Does she own it? — She does.

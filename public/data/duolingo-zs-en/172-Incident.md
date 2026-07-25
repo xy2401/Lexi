@@ -6,17 +6,28 @@
 
 already, always, amazingly, before, briefly, brochure, cabin, comment, complain, complaint, contest, customs, discussion, distance, ever, intend, internationally, just, never, once before, safely, stay, support, when, yet
 
+## 单元讲解
+
+本单元让你讲述过去的旅行经历，特别是旅途中遇到的"小插曲"。时间副词和完成时是重点：I've already been through customs, but I've never lost my luggage before.（我已经过了海关，但以前从没丢过行李。）Have you ever traveled internationally? I just arrived, and I haven't seen my bag yet.（你出过国吗？我刚到，还没看到我的包。）
+
+词表中有大量时间/频率副词：already, always, before, ever, just, never, yet, once before。这些词是现在完成时的典型标志。amazingly 和 briefly 是方式副词，safely 也是：Amazingly, we arrived safely after a long distance.（令人惊叹的是，长途跋涉后我们安全到达了。）
+
+旅行场景词汇包括 customs（海关）、cabin（机舱/小屋）、brochure（宣传册）、internationally（国际性地）。complain / complaint 和 comment / discussion 则用来描述旅途中的互动：I intend to complain about the cabin.（我打算投诉那个小屋。）The distance was amazing—I'd never traveled so far once before.（距离令人惊叹——我以前从没走这么远过。）
+
 ## Tips
 
-"Incident"（事件、事故）来自拉丁语"incidere"，由"in-"（进入）和"cadere"（落下）组成——事件是"落入"你生活中的东西，未经邀请，不期而至。在旅行语境中，incident通常指意外的小麻烦：航班延误、行李丢失、护照问题。这些"落入"旅途的小石子，往往比顺利的部分更令人记忆深刻。"Customs"（海关）来自拉丁语"consuetudo"（习惯），与"custom"（习俗）同源——海关检查最初是"按照惯例"对入境货物征收税费，后来"惯例"本身成了制度。
+- **already / yet / just** — 三者都是现在完成时的标志副词。already 用于肯定句，常放在 have 和过去分词之间：I've already finished. yet 用于否定/疑问句末尾：Have you arrived yet? / I haven't left yet. just 表示"刚刚"：I've just landed.
 
-"Brochure"（宣传册）来自法语"brocher"（缝合），原指"用小线缝合的几页纸"。在数字时代之前，brochure是旅行规划的核心工具——旅行社的架子上摆满了花花绿绿的小册子，描绘着远方的海滩、山脉和城市。翻开一本brochure，就是在想象中"预演"一次旅行。"Cabin"（机舱、小屋）来自古法语"cabane"，最终可能源自希伯来语"sukkah"（棚屋）——犹太教住棚节中搭建的临时住所。从圣经中的临时棚屋到波音747的机舱，"cabin"始终指"围合的、临时的栖身之所"。
+- **ever / never / before / once before** — ever 用于疑问句：Have you ever been abroad? never 用于肯定句表否定：I've never flown first class. before 可单独使用：I've seen this before. once before = 以前有一次：I've traveled internationally once before.
 
-"Complain"（抱怨）来自拉丁语"complangere"，由"com-"（加强）和"plangere"（捶打、哀悼）组成。"Plangere"描绘的是古人悲痛时捶胸顿足的动作——抱怨的词源是一种身体性的痛苦表达。"Complaint"（投诉）是名词形式，在服务业中是正式表达不满的方式。有趣的是，英语文化中"complaining"有其社交功能：英国人抱怨天气不是为了改变天气，而是为了建立共识和亲密感。
+- **customs / internationally / distance** — customs 是海关（注意复数形式，因为海关涉及多项检查）。internationally 来自 international + -ly。distance 是距离，搭配 cover a distance / in the distance（在远处）。
 
-"Internationally"（在国际上）来自拉丁语"inter"（之间）和"natio"（民族、国家）——international就是"在民族与民族之间"。"Nation"本身来自"nasci"（出生），最初指"出生在同一地方的人群"。"Distance"（距离）来自拉丁语"distare"（站在远处），由"dis-"（分开）和"stare"（站立）组成——距离就是"两个事物分开站立"的空间。
+- **complain / complaint / comment** — complain 是动词，complaint 是名词。搭配：complain about something / file a complaint. comment 可作名词也可作动词：make a comment / comment on something. 注意 complain 的介词是 about，不是 for。
 
-- "Already"和"yet"都与完成时搭配，但位置不同：already用于肯定句（I've already eaten），yet用于否定句和疑问句（Have you eaten yet?）。
-- "Once before"（以前有过一次）是"once"和"before"的叠加，强调"仅有一次"的经历。
-- "Briefly"（简短地）来自"brief"（简短的），后者来自拉丁语"brevis"（短的）——与"brevity"（简洁）同源。
-- "Safely"（安全地）来自"safe"，后者来自拉丁语"salvus"（未受伤的），与"salvation"（拯救）同源——安全就是"未受伤害的状态"。
+- **cabin / brochure / contest** — cabin 可指飞机客舱、小木屋或船舱。brochure 是宣传小册子（旅游信息常用）。contest 是比赛/竞赛，比 competition 更强调有规则的角逐。
+
+- **amazingly / briefly / safely** — 三个 -ly 副词。amazingly = 令人惊叹地。briefly = 简短地、短暂地：We stopped briefly. safely = 安全地：We arrived safely. 注意 safe → safely 的变化（去 e 加 ly）。
+
+- **intend / support / stay** — intend to do = 打算做：I intend to complain. support 可作动词（支持）或名词。stay 在旅行中常指"住宿"：Where did you stay? / a three-night stay.
+
+- **always / when** — always 在完成时中可表达"一直"：I've always wanted to travel. when 引导时间从句：When I arrived, the cabin was empty. 注意 when 从句中通常不用将来时。

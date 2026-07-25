@@ -6,18 +6,38 @@
 
 almost a, almost all, audition, chances are, critic, full house, highly, impressed, line, may be, might not be, opening night, pretty sure, production, quite a, rehearsal, role, script, set, spotlight, stage fright, there's no question
 
+## 单元讲解
+
+本单元围绕戏剧和试镜展开，交际任务是"分享对试镜的感受"。词表覆盖了从排练到首演的完整戏剧流程：audition（试镜）→ rehearsal（排练）→ script（剧本）→ set（布景）→ spotlight（聚光灯）→ opening night（首演之夜）→ full house（满座）。你可以练习表达期待和紧张：Chances are she'll get the role—there's no question she's talented. / I'm pretty sure I forgot a line during the audition. / The critic was highly impressed by the production.
+
+词表里有几组表达"可能性"的短语值得注意：chances are（很可能）、may be（也许是）、might not be（也许不是）、pretty sure（相当确定）、there's no question（毫无疑问）。它们从不确定到确定排列，是表达判断和预测的实用工具。almost a 和 almost all 中的 almost 表示"几乎"，quite a 表示"相当一个……"，都是口语中高频的程度修饰。
+
 ## Tips
 
-"Audition"（试镜/试演）来自拉丁语"audire"（听），因为最早的演员选拔确实是"听"——导演听你念台词、听你唱歌。这个词与"audio"（音频）和"audience"（观众）同源，形成了一个美妙的循环：演员在audition中被"听"，最终面对的是audience（听众）。在莎士比亚时代的环球剧院，没有正式的audition流程，演员直接加入剧团，在排练中证明自己的价值。
+- **audition** — 试镜、试演。演员为争取角色而进行的表演考核。搭配：have an audition / go to an audition / pass the audition / a successful audition。动词用法：She auditioned for the lead role. 注意拼写：au-di-tion。
 
-"Stage fright"（怯场）是表演艺术中最普遍的心理现象。马克·吐温曾说："世界上只有两种演讲者：紧张的和撒谎的。"这个词组中的"fright"来自古英语"fyrhto"（恐惧），与德语"Furcht"同源。有趣的是，研究表明适度紧张实际上能提升表现——肾上腺素让感官更敏锐、反应更迅速。许多伟大演员承认，如果完全不紧张，反而说明他们不在乎。
+- **stage fright** — 怯场。stage（舞台）+ fright（惊吓），字面意思就是"被舞台吓到"。搭配：have stage fright / get stage fright / overcome stage fright。不只用于演戏，演讲、演奏前的紧张都可以说 stage fright。
 
-"Spotlight"（聚光灯）的历史与剧院技术革命紧密相连。19世纪初，剧院使用"limelight"（石灰光）——将石灰块加热到白炽状态产生强光。1879年爱迪生发明实用电灯后，"spotlight"取代了limelight，但"being in the limelight"（成为焦点）这个表达保留了下来。"Full house"（满座）中的"house"指剧院本身，这个用法可追溯到伊丽莎白时代，当时剧院被称为"the house"。
+- **full house** — 满座、全场爆满。house 在戏剧界指"观众席"，不指房子。搭配：play to a full house / a full house on opening night。类似表达：sold out / packed house。
 
-"Script"（剧本）来自拉丁语"scriptum"（被写下的东西），与"describe"（描述）和"inscription"（铭文）同源。在排练（rehearsal）中，演员反复"hearse"（练习）——这个词来自古法语"rehercier"（再次梳理），就像用耙子一遍遍梳理土地。"Opening night"（首演之夜）是剧院文化中最重要的时刻，百老汇传统中，首演后演员会收到"break a leg"（祝你好运）的祝福——据说直接说"good luck"会带来厄运。
+- **opening night** — 首演之夜。一部剧正式对公众开放的第一场演出。搭配：on opening night / opening night jitters（首演紧张）。比 premiere 更侧重戏剧，premiere 更常用于电影。
 
-- "Critic"（评论家）来自希腊语"kritikos"（能够判断的），与"crisis"（危机）同源——评论家的判断对一部剧来说确实可能是"危机"。
-- "Role"（角色）来自法语"rôle"，原指演员手中卷起的"纸卷"（roll），上面写着台词。
-- "Production"（制作/演出）在剧院语境中不指"生产"，而指整个舞台呈现——从布景到灯光到表演。
-- "Chances are"（很可能）是口语中表达高概率的常用短语，比"probably"更随意自然。
-- "There's no question"（毫无疑问）是英语中表达绝对确定的最强口语形式之一，常用于强调对某事的确信。
+- **chances are** — 很可能、大概率是。口语中极常用的推测表达：Chances are he'll be late. / Chances are she got the part. 等于 It's likely that... 注意 chances 用复数。
+
+- **rehearsal** — 排练、彩排。动词是 rehearse。搭配：have a rehearsal / dress rehearsal（带妆彩排）/ go to rehearsal。注意拼写：rehears-al，不要和 rehearsal 的动词形式 rehearse 混淆。
+
+- **script / line** — script 是完整剧本，line 是台词（一句或几句）。搭配：read the script / memorize your lines / forget a line / learn your lines。注意 line 在戏剧语境中特指台词，不是"线条"。
+
+- **critic** — 评论家、批评家。戏剧/电影/音乐评论人。搭配：a theater critic / a film critic / the critics loved it。注意和 critical（批评的、关键的）和 criticism（批评）的词族关系。
+
+- **impressed / highly** — impressed 表示"印象深刻"，highly 是程度副词"高度地"。搭配：highly impressed / deeply impressed / impressed by her performance。注意 impressed 后接 by 或 with：I'm impressed by his talent.
+
+- **spotlight** — 聚光灯。spot（点）+ light（光），舞台上聚焦在演员身上的那束光。搭配：in the spotlight / under the spotlight / steal the spotlight。比喻义：成为焦点、受到关注。
+
+- **production** — 这里指"制作、剧目"，即一部戏剧的整体呈现。搭配：a new production / a Broadway production / the school's production of Hamlet。比 show 更正式，强调制作过程和艺术水准。
+
+- **quite a / almost a** — quite a 表示"相当一个"，带有赞叹或强调：She's quite a performer! almost a 表示"几乎是一个"：It was almost a full house. 注意 quite 和 quiet 拼写相近但意思完全不同。
+
+- **set** — 这里指舞台布景。搭配：the set design / build the set / on the set。在戏剧中指舞台上的背景装置；在电影中指拍摄现场（on set）。一词多义，看语境。
+
+- **there's no question** — 毫无疑问。比 no doubt 语气更强：There's no question she's the best actress in the school. 类似表达：without question / unquestionably。注意 question 这里是"疑问"而非"问题"。

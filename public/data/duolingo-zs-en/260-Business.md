@@ -6,18 +6,55 @@
 
 accessible, amount, between, by the end of, carefully, data, decline, drop, entrepreneur, gradually, investor, level off, move in, over time, profit, propose, quickly, quietly, rise, slightly, steady, stock market, the right time, up and running, vacuum cleaner, vegan
 
+## 单元讲解
+
+本单元的场景是"提出一个新的商业点子"——一场创业路演或团队头脑风暴。词表里有大量商业和数据词汇：entrepreneur, investor, profit, stock market, data, rise, decline。你可以这样提案：By the end of the year, the amount of vegan products will rise significantly. If we move in at the right time, profits will level off and then grow. I propose we get the business up and running quietly, then approach investors.（到今年年底，纯素产品的数量将大幅上升。如果我们在合适的时机切入，利润会先企稳再增长。我建议我们先悄悄把业务运转起来，然后再接触投资人。）
+
+rise / decline / level off / drop 是描述趋势的四组核心动词。gradually, slightly, quickly, quietly 是修饰趋势的副词。over time（随着时间推移）和 by the end of（到……末）是时间框架表达。vacuum cleaner（吸尘器）和 vegan（纯素）暗示具体的产品方向。
+
+学完本单元，你能用英语描述市场趋势、提出商业计划，并使用数据化语言增强说服力。
+
 ## Tips
 
-"Entrepreneur"（企业家）来自法语"entreprendre"，意为"承担、着手做"，由"entre"（在...之间）和"prendre"（拿取）组成。18世纪法国经济学家理查德·坎蒂隆首次将这个词引入经济学，指那些以固定价格买入、以不确定价格卖出的冒险者——他们"承担"了市场的不确定性。在法国大革命前的巴黎，entrepreneur是那些承包公共工程的承包商；到了19世纪，它变成了所有白手起家的商业冒险者的统称。硅谷文化将entrepreneur浪漫化为"改变世界的梦想家"，但这个词的骨子里始终刻着"风险"二字。
+- **entrepreneur** — "企业家、创业者"。搭配：a successful entrepreneur / an entrepreneurial spirit。注意发音：/ˌɑːntrəprəˈnɜːr/，法语借词，拼写和发音都不规则。比 businessman 更强调"创新和冒险"。
 
-"Stock market"（股票市场）的"stock"原意是"树干、木桩"。17世纪的伦敦，商人们在乔纳森咖啡馆（Jonathan's Coffee House）里交易股份，交易记录被钉在一根木桩（stock）上公示。1773年，这群商人搬入新大楼，正式命名为"Stock Exchange"（证券交易所）。"Profit"（利润）来自拉丁语"profectus"，意为"进步、前进"——在古罗马人看来，利润不是贪婪的产物，而是事业"向前推进"的标志。
+- **investor** — "投资者"。搭配：attract investors / an angel investor（天使投资人）。动词 invest，名词 investment。注意 -or 结尾。在创业语境中，investor 是提供资金的人。
 
-"Vacuum cleaner"（吸尘器）的发明史是一段商业传奇。1901年，英国土木工程师休伯特·布斯在伦敦莱斯特广场看到一台"吹尘器"的演示——它用压缩空气把灰尘吹走，结果灰尘漫天飞舞。布斯想：为什么不反过来"吸"呢？他用手帕捂住嘴趴在地毯上吸了一口气，手帕上沾满了灰尘。回家后他制造了第一台电动吸尘器"咆哮的比利"（Puffing Billy），大如马车，需要用马车拉到客户家门口。"Vegan"（纯素食者）则是1944年由英国人唐纳德·沃森创造的词，取自"vegetarian"的首尾字母——暗示纯素主义是素食主义的"起点和终点"。
+- **profit** — "利润、盈利"。搭配：make a profit / profit margin / net profit。动词：profit from something。比 income（收入）更精确，指"收入减去成本后的剩余"。注意 -fit 结尾。
 
-"Data"（数据）是拉丁语"datum"（被给予的东西）的复数形式。在17世纪的欧洲学术界，data指"给定的前提"——数学证明中那些不需要证明的出发点。到了20世纪，data变成了商业决策的基石。"Level off"（趋于平稳）和"gradually"（逐渐地）是描述商业趋势的核心词汇——没有哪条增长曲线是永远上升的，所有rise（上升）最终都会level off或decline（下降）。理解这种周期律，是每一个entrepreneur的必修课。
+- **stock market** — "股票市场、股市"。搭配：invest in the stock market / a stock market crash。stock = 股票，market = 市场。比 stock exchange（证券交易所）更广义，指整个交易市场。
 
-- "Up and running"（运转起来）字面意思是"站起来跑起来"，形容企业从筹备到正式运营的瞬间。
-- "Investor"（投资者）来自拉丁语"investire"（穿衣），与unit 239中提到的"investment"同源——投资是给钱"穿上衣服"让它出门工作。
-- "The right time"（正确的时机）是商业哲学的核心——太早是冒险，太晚是错失，timing（时机）决定成败。
-- "Slightly"（轻微地）来自古英语"sliht"（平滑的），描述数据变化时暗示"幅度很小、不必惊慌"。
-- "Move in"（入驻）用搬家的意象描述企业进入新市场——像搬进一栋新房子一样开始经营。
+- **level off** — "趋于平稳、企稳"。Sales leveled off after the initial rush. 比 stabilize 更口语、更有画面感。画面：曲线上升后变平。类似：flatten out。
+
+- **up and running** — "运转起来、正常运营"。The business is up and running. / Get the website up and running. 非常地道的口语表达，比 operating 更生动。暗示"从筹备到正式运作"。
+
+- **move in** — "迁入、进入（市场）"。move in at the right time / move into a new market。在商业语境中 = 切入、进入。比 enter 更口语，带有"抓住时机"的意味。
+
+- **the right time** — "合适的时机"。搭配：at the right time / wait for the right time。比 the correct time 更自然。在商业中，timing（时机）常被视为成功关键。
+
+- **gradually** — "逐渐地"。gradually increase / gradually expand。比 slowly 更强调"一步步、有阶段"。形容词 gradual。注意 -ually 结尾。在描述趋势时极高频。
+
+- **slightly** — "轻微地、略微"。slightly increase / slightly higher。比 a little 更正式。形容词 slight。在数据描述中：a slight drop / slightly below。注意 -ly 结尾。
+
+- **decline** — "下降、衰退"。Sales declined by 10%. / a decline in profits。比 decrease 更正式，常暗示"持续走低"。名词和动词同形。注意 -cline 结尾。反义词 incline。
+
+- **rise** — "上升、增长"。Prices rose sharply. / a rise in demand。不规则动词：rise - rose - risen。比 increase 更常用于图表描述。注意和 raise（及物动词）区分。
+
+- **drop** — "下降、下跌"。The stock dropped 5%. / a sudden drop。比 fall 更口语、更有"突然"的感觉。名词和动词同形。在商业新闻中极高频。
+
+- **over time** — "随着时间推移、久而久之"。Over time, the market will grow. 比 gradually 更强调"长时间跨度"。注意 over 不是 during：over time = 经过一段时间。
+
+- **by the end of** — "到……末为止"。By the end of the year, we'll have 100 customers. 用将来完成时搭配。比 at the end of 更强调"截止到那个时间点"。注意 by 表"不晚于"。
+
+- **propose** — "提议、建议"。propose a plan / I propose that we wait。比 suggest 更正式，常用于会议和商务。名词 proposal。注意 -ose 结尾。后接 that 从句时可用 should 或虚拟语气。
+
+- **accessible** — "可获得的、易接近的"。accessible products / make it accessible to everyone。动词 access。比 available 更强调"容易获取/使用"。注意 -ible 结尾。
+
+- **data** — "数据"。搭配：collect data / analyze data / data shows that...。严格来说 data 是 datum 的复数，但现在常作不可数名词：The data is... 注意发音：/ˈdeɪtə/ 或 /ˈdætə/。
+
+- **steady** — "稳定的、平稳的"。steady growth / a steady income。比 stable 更强调"持续、不波动"。动词 steady = 使稳定。注意 -dy 结尾。副词 steadily。
+
+- **vacuum cleaner** — "吸尘器"。由 vacuum（真空）+ cleaner（清洁器）组成。搭配：a robot vacuum cleaner。注意 vacuum 的拼写：两个 u，-uum 结尾。口语中常简称 vacuum。
+
+- **vegan** — "纯素的、纯素者"。a vegan diet / a vegan restaurant。比 vegetarian（素食者）更严格，排除所有动物制品。注意发音：/ˈviːɡən/，不是 /ˈveɪɡən/。
+

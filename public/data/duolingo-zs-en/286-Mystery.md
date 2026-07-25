@@ -6,18 +6,38 @@
 
 alien, archeologist, classified, coincidence, conclusion, convinced, couldn't, for the sake of argument, galaxy, have been, if so, if we assume, improbable, let's say, pyramids, ruins, skeptical, solar system, spaceship, suppose, theory, ufo, wonder, wouldn't
 
+## 单元讲解
+
+本单元围绕"辩论关于金字塔的理论"展开，场景是讨论未解之谜。词表里有神秘现象相关的词汇（alien, ufo, spaceship, galaxy, solar system, pyramids, ruins），有表达推理和假设的结构（theory, conclusion, suppose, if we assume, let's say, for the sake of argument, if so），也有描述态度和信念的词（convinced, skeptical, improbable, wonder）。你可以练习这样的辩论：Let's say, for the sake of argument, that aliens visited Earth. If we assume they had the technology, could they have built the pyramids? / I'm skeptical—I'm convinced that archeologists have a more probable explanation. / If so, then the ruins we see are not the work of a spaceship, but of human determination.
+
+词表里有几组表达"假设和推理"的短语值得注意：for the sake of argument（为了讨论方便，姑且假设）、if we assume（如果我们假设）、let's say（比方说）、suppose（假设）。这些都是辩论和讨论中提出假设前提的常用表达。have been 和 couldn't / wouldn't 用于对过去事件的推测和否定。
+
 ## Tips
 
-"Pyramids"（金字塔）的词源来自希腊语"pyramis"（小麦蛋糕），因为希腊人觉得金字塔的形状像他们吃的尖顶蛋糕。吉萨大金字塔建于约公元前2560年，由约230万块石灰岩砌成，每块重约2.5吨。在埃菲尔铁塔建成之前的3800年里，它一直是世界上最高的人造建筑。"Archeologist"（考古学家）来自希腊语"archaios"（古老的）+"logos"（学问），是"研究古老事物的学问"。
+- **for the sake of argument** — 为了讨论方便、姑且不论。搭配：just for the sake of argument / let's say, for the sake of argument, that...。例句：For the sake of argument, let's suppose aliens did visit Earth. 这个短语用来暂时接受一个你不一定相信的前提，以便继续讨论。非常实用的辩论策略。
 
-"Alien"（外星人）来自拉丁语"alienus"（属于他人的），由"alius"（另一个）派生。这个词原本只是"外来的、异己的"意思，直到20世纪中叶UFO文化兴起，才专指"外星生物"。1947年罗斯威尔事件后，"alien"和"UFO"（Unidentified Flying Object，不明飞行物）成为美国流行文化的核心词汇。"Galaxy"（银河系）来自希腊语"galaxias"（奶白色的），因为银河在夜空中看起来像一条白色的奶河——希腊神话说是天后赫拉喷洒的乳汁。
+- **skeptical / convinced** — 一对反义词。skeptical = 怀疑的：I'm skeptical about that theory. convinced = 确信的：I'm convinced it was built by humans. 搭配：remain skeptical / deeply convinced / convince someone。例句：I'm skeptical of alien theories, but I'm convinced the pyramids still hold secrets.
 
-"Solar system"（太阳系）中的"solar"来自拉丁语"sol"（太阳），与"solstice"（至日）和"solarium"（日光浴室）同源。"Spaceship"（宇宙飞船）是"space"（太空）+"ship"（船）的复合词，把太空想象为一片"海洋"，飞船就是在其中航行的"船"。这个隐喻从19世纪科幻文学延续至今——"starship"（星舰）、"spaceship"、"vessel"（ vessel也是船）。
+- **archeologist** — 考古学家。也拼作 archaeologist（英式更常见）。搭配：a famous archeologist / archeologists believe / according to archeologists。例句：Archeologists have studied the pyramids for centuries. 注意 archeology（考古学）和 archeologist 的拼写：-eo- 不要漏掉。
 
-"Skeptical"（怀疑的）来自希腊语"skeptikos"（善于探究的），由"skeptesthai"（观察、审视）派生。在金字塔外星人理论（ancient astronaut theory）的辩论中，skeptical是科学态度的核心——"extraordinary claims require extraordinary evidence"（非凡的主张需要非凡的证据）。"Coincidence"（巧合）来自拉丁语"coincidere"（一起落下），由"co-"（一起）+"incidere"（落入）构成——两件事"同时落入"你的视野，但未必有因果关系。
+- **theory / conclusion** — theory = 理论、假说：a scientific theory / a conspiracy theory / test a theory。conclusion = 结论：draw a conclusion / reach a conclusion / jump to conclusions。例句：Based on the evidence, the conclusion is that humans built the pyramids—not aliens. 注意 theory 在科学中比假说（hypothesis）更成熟，但日常口语中常指"猜测"。
 
-- "For the sake of argument"（为了讨论方便）是辩论中的经典让步短语，意思是"我暂时接受你的前提，但..."
-- "Theory"（理论）在科学中不是"猜测"，而是经过验证的解释框架；在日常用语中却常被误用为"猜想"。
-- "Classified"（机密的）来自"classis"（等级），原意是"按等级分类"，在政府语境中指"被归入保密等级"。
-- "Ruins"（废墟）来自拉丁语"ruina"（倒塌），与"rupture"（破裂）同源——废墟就是"倒塌了的建筑"。
-- "Improbable"（不太可能的）比"impossible"（不可能的）留有余地——科学精神是承认"不太可能"但不说"绝对不可能"。
+- **improbable / couldn't / wouldn't** — improbable = 不太可能的：It's improbable that aliens built the pyramids. couldn't = 不可能（对过去的推测）：They couldn't have had that technology. wouldn't = 不会（虚拟）：They wouldn't have needed spaceships. 三者都用于否定某种可能性，语气从客观到主观。
+
+- **coincidence** — 巧合。搭配：a strange coincidence / by coincidence / what a coincidence! 例句：Is it a coincidence that pyramids appear in different cultures, or is there a deeper explanation? 注意拼写：co-in-ci-dence。形容词是 coincidental。
+
+- **galaxy / solar system / ufo / spaceship** — 四个太空词汇。galaxy = 星系（银河系是 the Milky Way Galaxy）。solar system = 太阳系（solar 来自拉丁语 sol，太阳）。ufo = unidentified flying object（不明飞行物）的缩写。spaceship = 宇宙飞船。例句：If a ufo from another galaxy entered our solar system, would we even notice?
+
+- **pyramids / ruins** — pyramids = 金字塔（复数）：the Egyptian pyramids / the Mayan pyramids / build a pyramid。ruins = 遗迹、废墟（常用复数）：ancient ruins / explore the ruins / the ruins of a temple。例句：The ruins suggest that the pyramids were part of a larger complex. 注意 ruin 做动词是"毁坏"，做名词（复数）是"遗迹"。
+
+- **suppose / let's say / if we assume** — 三个假设表达。suppose = 假设（较正式）：Suppose aliens had the technology. let's say = 比方说（口语化）：Let's say they arrived a thousand years ago. if we assume = 如果我们假设（学术化）：If we assume advanced technology, the theory becomes less improbable. 语气从随意到正式。
+
+- **classified** — 机密的、保密的。搭配：classified information / a classified document / top secret and classified。例句：Some people believe the government has classified information about ufos. 注意 classify 是"分类"，classified 在军事和政府语境中特指"机密级别"。
+
+- **wonder** — 想知道、好奇。搭配：I wonder if... / wonder about / can't help wondering。例句：I wonder if we'll ever know the truth about the pyramids. 注意 wonder 做名词是"奇迹、惊叹"：the Seven Wonders of the World。动词和名词意思相关但用法不同。
+
+- **have been** — 现在完成时，用于对过去事件的推测。搭配：could have been / might have been / must have been。例句：The pyramids could have been built using simple tools. / The ruins have been studied for centuries. 注意 have been + 过去分词构成被动语态的完成时。
+
+- **if so** — 如果是这样的话。搭配：If so, then... / If so, what does that mean? 例句：Could aliens have built the pyramids? If so, where is the evidence? 非常简洁的回指表达，代替重复前面整个条件句。反义：if not（如果不是这样的话）。
+
+- **alien** — 外星人；外国的。搭配：an alien civilization / alien life / illegal alien（非法移民，美式）。例句：Do you think alien beings visited ancient Egypt? 注意 alien 做形容词时意为"外星的、外国的"，做名词时指"外星人"或"外国人"。在科幻语境中几乎总是指外星人。

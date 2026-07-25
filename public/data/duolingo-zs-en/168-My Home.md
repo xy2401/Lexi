@@ -6,17 +6,32 @@
 
 adopt, couple, didn't, easygoing, guest room, kettle, ladder, lady, lay, lie, make, next door, normally, occasion, personality, property, sense of humor, set, stop by, stranger, swept, upstairs, use to, vehicle, wake up, woken up
 
+## 单元讲解
+
+本单元围绕"谈论居住情况"展开。你可以描述自己的家、邻居和日常生活：The couple next door has an easygoing personality and a great sense of humor.（隔壁那对夫妇性格随和，很有幽默感。）I normally wake up early, but on occasion I sleep in.（我通常早起，但偶尔也睡懒觉。）
+
+词表里有房屋相关词汇（guest room, upstairs, property, kettle）和邻里人物（couple, lady, stranger, next door）。lay 和 lie 这组易混词也出现在这里——lay 是"放置"（及物），lie 是"躺"（不及物），它们的过去式分别是 laid 和 lay，过去分词分别是 laid 和 lain。swept 是 sweep 的过去式，woken up 是 wake up 的过去分词。
+
+used to（词表中写作 use to，在否定和疑问中体现为 didn't use to）表示"过去常常"，描述以前的居住习惯：I didn't use to have a guest room, but now I do. stop by 是"顺便拜访"，很适合邻里场景：The lady next door stopped by to say hello.
+
 ## Tips
 
-"Home"（家）在英语中是一个极其特殊的词。与"house"（房屋，物理建筑）不同，"home"承载着情感、归属和身份。古英语"hām"既指住所也指村庄、庄园——一个人的"hām"就是他所属的整个社群。英语谚语"Home is where the heart is"（心之所安即为家）完美表达了这种情感维度。"Property"（房产）来自拉丁语"proprius"（属于自己的），与"proper"（适当的）同源——拥有"属于自己的"东西，在古人的观念中就是"适当的"状态。
+- **lay / lie** — 英语中最经典的易混对。lay（放置）是及物动词，需要宾语：Lay the book on the table. 过去式 laid。lie（躺）是不及物动词：I lie down at 10. 过去式 lay，过去分词 lain。记忆口诀：lay 需要对象（你 lay 某物），lie 自己就行（你自己 lie down）。
 
-"Adopt"（收养）来自拉丁语"adoptare"，由"ad-"（向）和"optare"（选择）组成——收养就是"选择"一个孩子成为自己的家人。在古罗马，adoption是一种重要的政治工具：皇帝经常收养有才能的年轻人作为继承人，而非依赖血缘。著名的"五贤帝"时代（96-180年），连续四位皇帝都是通过收养继位的。"Couple"（夫妻、一对）来自拉丁语"copula"（连接），与"couple"（联结）和"copulate"（交配）同源——一对夫妻就是"被连接在一起的两个人"。
+- **use to / didn't** — used to + 动词原形表示"过去常常（现在不了）"。否定形式是 didn't use to（注意 use 没有 d）。疑问：Did you use to live here? 不要和 be used to doing（习惯于）混淆。
 
-"Kettle"（水壶）来自古英语"cetil"，借自拉丁语"catillus"（小碗）。在英式英语中，kettle是家庭生活的核心象征——"put the kettle on"（烧壶水）意味着"让我们坐下来聊聊"。英国人在危机时刻的第一反应往往是"烧壶水泡茶"，这个小小的仪式承载着安慰、正常化和人际连接。"Ladder"（梯子）来自古英语"hlǣdder"，是日耳曼语族最古老的词汇之一，与"lean"（倚靠）有词源联系——梯子就是"倚靠在墙上的工具"。
+- **swept / woken up** — swept 是 sweep（扫）的过去式和过去分词：She swept the floor. woken up 是 wake up 的过去分词：I was woken up by noise. 注意 wake 的三种形式：wake / woke / woken。
 
-"Stranger"（陌生人）来自古法语"estrangier"，最终源自拉丁语"extraneus"（外部的），与"extra"（外面）和"strange"（奇怪的）同源。在英语中，"stranger"和"strange"共享一个认知逻辑：来自外部的人是"奇怪的"、不可预测的。"Next door"（隔壁）则代表了"stranger"的反面——隔壁邻居是最熟悉的"非家人"，是社群生活的最小单元。
+- **easygoing / personality / sense of humor** — easygoing 形容人随和、好相处。personality 是性格。sense of humor 是幽默感。描述人的高频搭配：She has a great personality and a good sense of humor.
 
-- "Lie"（躺）和"lay"（放置）是英语中最常混淆的动词对：lie是不及物的（I lie down），lay是及物的（I lay the book down）。过去式更混乱：lie的过去式是lay，lay的过去式是laid。
-- "Stop by"（顺路拜访）中的"by"表示"经过"——stop by就是"在经过时停下来"，暗示随意、非正式的访问。
-- "Easygoing"（随和的）是典型的英语复合形容词：easy（轻松的）+going（行走的）——"走起来很轻松的人"就是好相处的人。
-- "Wake up"和"woken up"：wake-woke-woken是不规则变化，"woken up"是过去分词形式：I was woken up by the alarm.（我被闹钟吵醒了。）
+- **stop by / next door** — stop by 是"顺路拜访"，比 visit 更随意：Stop by anytime! next door 是"隔壁"，可作副词或形容词：the couple next door / my next-door neighbor。
+
+- **guest room / upstairs / property** — guest room 是客房。upstairs 可作副词（go upstairs）或形容词（the upstairs bathroom）。property 指房产、不动产，比 house 更正式，常用于买卖语境。
+
+- **couple / lady / stranger** — couple 指一对（常指夫妻或情侣）。lady 是女士，比 woman 更礼貌。stranger 是陌生人，来自 strange（奇怪的）——陌生人就是"对你来说奇怪/不熟悉的人"。
+
+- **kettle / ladder / vehicle** — kettle 是水壶（烧水用），英式英语中极常见。ladder 是梯子。vehicle 是车辆的正式总称，涵盖 car, truck, bus 等。
+
+- **adopt / occasion / normally** — adopt 有"收养"和"采纳"两义：adopt a child / adopt a new approach。occasion 是场合，on occasion = 偶尔。normally = 通常，比 usually 稍正式。
+
+- **set / make** — set 含义极多，这里可能是 set the table（摆桌子）或 set up（布置）。make 搭配 make the bed（整理床铺）。两者在家居场景中都很高频。

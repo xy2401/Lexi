@@ -6,18 +6,30 @@
 
 apology, besides, blame, disappointed, disappointing, end up, end up in, fault, hang, hang up, hang up on, negative, out-of-date, put, put away, put up with, refund, refuse, run out, run out of, take, take back, that sounds like, turn, turn up, unfair, what a, would it be possible
 
+## 单元讲解
+
+本单元的场景是"投诉与要求调整"。你需要表达不满、指出问题、提出诉求：What a negative experience! The product is out-of-date, and I'd like a refund. Would it be possible to take it back?（多么糟糕的体验！产品过期了，我想要退款。有可能退回去吗？）I'm disappointed—besides the fault, the service was disappointing. They hung up on me!（我很失望——除了产品问题，服务也令人失望。他们居然挂了我电话！）
+
+词表中有大量"动词+小品词"构成的短语动词：hang up / hang up on, put away / put up with, run out / run out of, take back, turn up, end up / end up in。这些短语动词是英语口语的核心，也是本单元的学习重点。
+
+情感与评价词汇包括 disappointed / disappointing（人感到失望 / 事令人失望）、blame / fault（责怪/过错）、unfair、negative。apology 是道歉的名词。refuse 和 refund 是投诉场景的关键动作。would it be possible 是礼貌提出请求的高级表达。that sounds like 用来回应和确认对方的描述。
+
 ## Tips
 
-"Complaint"（投诉、抱怨）在英语文化中有着独特的地位。英美社会将"投诉"视为消费者的正当权利，而非"找麻烦"。"Would it be possible...?"是英语投诉文化的精髓——即便你怒火中烧，也要用最礼貌的句式表达不满。这种"礼貌的愤怒"是英式社交的核心技能。"Apology"来自希腊语"apologia"，原意是"为自己辩护的演说"，苏格拉底在法庭上的自我辩护就被称为"Apology"。后来这个词逐渐演变为"道歉"，从"为自己说话"变成了"承认自己错了"。
+- **disappointed / disappointing** — 经典的 -ed / -ing 形容词对。disappointed 描述人的感受：I'm disappointed. disappointing 描述事物给人的感觉：The result was disappointing. 规律：-ed 用于"感到……的"（人），-ing 用于"令人……的"（事/物）。
 
-"Blame"源自古法语"blasmer"，最终追溯到拉丁语"blasphemare"（亵渎）。在古英语法律中，"blame"是一个严肃的法律术语，意味着正式指控某人有过错。"Fault"来自拉丁语"fallita"（失败、缺陷），与"fail"同源。"Unfair"中的"fair"源自古英语"fæger"（美丽的、公正的），在古英语中"fair"首先意味着"符合规则的"，如"fair play"（公平竞争）。
+- **hang up / hang up on** — hang up = 挂电话。hang up on someone = 挂某人电话（带有不礼貌的意味）：She hung up on me! 注意 hang 本身含义很多（悬挂、绞刑），但 hang up 在电话语境中是固定搭配。
 
-英语中有大量"动词+介词/副词"构成的短语动词，本单元就是集中展示："hang up"（挂断电话）、"put up with"（忍受）、"run out of"（用完）、"take back"（退回）、"turn up"（出现、调大音量）。"Put up with"据说是本杰明·富兰克林创造的——他曾开玩笑说这个短语毫无逻辑，但人们就是用它来表达"忍受"。"End up"意为"最终到达（某种状态）"，暗含一种"并非本意"的无奈感。
+- **put away / put up with** — put away = 收起来、放好：Put away your clothes. put up with = 忍受（= tolerate）：I can't put up with this noise! 注意 put up with 是三个词构成的短语动词，不能拆开。
 
-"Refund"来自拉丁语"re-"（回）加"fundere"（倒），字面意思是"倒回去"，即把钱退还给你。这个词与"fund"（基金）同源——都是"倾倒"的意象。"Out-of-date"中的"date"来自拉丁语"data"（给出的），最初指信件末尾"给出的日期"，后来泛指任何时间节点。
+- **run out / run out of** — run out = 用完（不及物）：The milk ran out. run out of = 用完了某物（及物）：We've run out of milk. 注意主语不同：Time ran out. / I ran out of time.
 
-- "Disappointed"（感到失望的）修饰人，"disappointing"（令人失望的）修饰事物：I'm disappointed. The movie was disappointing.
-- "Hang up on someone"特指"故意挂断某人的电话"，带有不礼貌的意味。
-- "Put up with"是"tolerate"的口语替代，语气更随意但意思完全相同。
-- "What a..."是感叹句的开头：What a mess! What a shame! 表达强烈的不满或惊讶。
-- "Would it be possible to...?"是英语中最礼貌的请求句式之一，比"Can you...?"正式得多，适合投诉场景。
+- **take back / turn up / end up** — take back = 退回（商品）/ 收回（话）：I want to take this back. turn up = 出现/调大音量：He turned up late. / Turn up the music. end up = 最终处于：We ended up in a bad restaurant.
+
+- **blame / fault / unfair** — blame 是动词"责怪"：Don't blame me! fault 是名词"过错"：It's my fault. unfair = 不公平的。搭配：That's unfair! / It's not my fault.
+
+- **refund / refuse / apology** — refund 是退款（名词/动词）：I'd like a refund. refuse 是拒绝（注意重音在第二音节：/rɪˈfjuːz/）。apology 是道歉名词，动词是 apologize：I owe you an apology.
+
+- **would it be possible / what a / that sounds like** — would it be possible to + 动词原形，是极礼貌的请求：Would it be possible to get a refund? what a + 名词 = 多么……：What a mess! that sounds like = 听起来像是：That sounds like a good idea.
+
+- **besides / out-of-date / negative** — besides = 除了……还有（包含关系，区别于 except 排除）。out-of-date = 过时的、过期的（= outdated）。negative 形容体验时表示"负面的、差的"。

@@ -6,17 +6,37 @@
 
 according to, appear, at first, been, break into, by, by the time, criminal, destroy, grab, has been, have been, in secret, lie, notice, past, realize, scream, secret, shadow, she's, suddenly
 
+## 单元讲解
+
+本单元围绕"对有人说谎做出反应"展开。核心是秘密和犯罪表达：According to the police, a criminal broke into the house by midnight.（据警方说，一个罪犯在午夜前闯入了房子。）、At first, I didn't notice the shadow, but then I realized someone had been there.（起初我没注意到那个影子，但后来我意识到有人来过。）、She's been lying in secret—she screamed when I found out.（她一直在秘密地撒谎——我发现时她尖叫了。）、By the time I grabbed my phone, the criminal had disappeared.（等我抓到手机时，罪犯已经消失了。）。
+
+词表里有犯罪词汇（criminal, break into, destroy）和时间表达（at first, by the time, suddenly）。你可以练习：The secret has been revealed. / I noticed something strange. / She appeared from the shadows. / The past is past.
+
+has been / have been 是现在完成进行时。by the time 引导时间状语从句。
+
 ## Tips
 
-"Secret"一词源自古法语"secret"，最终追溯到拉丁语"secretum"，意为"被分离出来的东西"。词根"se-"表示"分开"，"cernere"表示"筛选、辨别"。在中世纪欧洲，秘密往往与权力紧密相连——宫廷中的"secretary"（秘书）最初就是替君主保守秘密的人。他们掌管机密文件，是权力核心中最受信任的角色。英语中"in secret"这个短语保留了古老的介词用法，暗示秘密如同一个封闭的空间，人"在其中"行事。
+- **secret / lie / in secret** — 秘密 / 谎言 / 秘密地。搭配：keep a secret, tell a lie, do sth in secret。例句：Can you keep a secret? / He told a lie. / They met in secret. 注意 in secret = secretly。
 
-"Lie"（谎言）在日耳曼语族中有着极为古老的根源，与古英语"leogan"同源。有趣的是，在许多文化中，"说谎"与"躺下"共享同一个词根——古英语中"licgan"（躺）和"leogan"（说谎）发音相近。语言学家认为这并非巧合：说谎者如同"躺平"在真相之上，用虚假覆盖真实。莎士比亚在《奥赛罗》中让角色反复使用"lie"的双关，既指谎言也指卧榻，暗示欺骗与亲密关系的纠缠。
+- **criminal / break into / destroy** — 罪犯 / 闯入 / 摧毁。搭配：a criminal, break into a house, destroy evidence。例句：The criminal was caught. / Someone broke into the office. / They destroyed the files. 注意 break into = 强行进入。
 
-"Criminal"来自拉丁语"criminalis"，与"crimen"（指控、罪行）相关。在古罗马法中，"crimen"最初并非指犯罪行为本身，而是指"对他人的正式指控"。这意味着在罗马人的观念中，罪的本质是社会性的——它需要被公开指认、被社群审判。"Shadow"（影子）则来自古英语"sceadu"，在文学传统中，影子常与秘密和跟踪相关联。维多利亚时代的侦探小说大量使用"shadow"作为动词，意为"尾随监视"，影子成为秘密世界的隐喻。
+- **at first / suddenly / by the time** — 起初 / 突然 / 到…时候。搭配：at first... then, suddenly, by the time + 从句。例句：At first I was calm, then I screamed. / Suddenly, the lights went out. / By the time I arrived, she'd left. 注意 by the time 常与完成时搭配。
 
-"Scream"（尖叫）是一个拟声词，其发音本身模仿了人类恐惧时发出的声音。在语言学中，这类词被称为"声音象征词"——元音和辅音的组合直接唤起感官体验。"Suddenly"来自拉丁语"subitaneus"，意为"突然到来的"，词根"subire"表示"从下方靠近"。这个意象极为生动：突发事件如同从脚下涌上来的暗流，在你毫无防备时将你吞没。
+- **notice / realize / appear** — 注意到 / 意识到 / 出现。搭配：notice something, realize the truth, appear from nowhere。例句：I noticed a shadow. / I realized she was lying. / He appeared suddenly. 注意 notice 强调"看到"，realize 强调"理解"。
 
-- "According to"在新闻和学术中极为常见，表示"据……所说"，但口语中也可带讽刺意味："According to you, I'm always wrong."（按你的说法，我永远都是错的。）
-- "Break into"除了"闯入"，还可表示"突然开始"：break into laughter（突然大笑）、break into song（突然唱起来）。
-- "By the time"引导时间状语从句，暗示"到某个时间点为止"，常与完成时搭配，营造"为时已晚"的叙事感。
-- 在英语悬疑文学中，"shadow"和"secret"是最常出现的意象对——影子是秘密的外在投射，秘密是影子的内在本质。
+- **has been / have been / been** — 一直是 / 一直是 / been。搭配：has been lying, have been waiting, has been destroyed。例句：She has been lying to me. / We have been worried. / The evidence has been destroyed. 注意 has been 用于三单。
+
+- **scream / grab / shadow** — 尖叫 / 抓住 / 影子。搭配：scream loudly, grab hold of, a dark shadow。例句：She screamed when she saw him. / I grabbed my bag. / A shadow moved past the window. 注意 scream 可作名词和动词。
+
+- **according to / past / she's** — 根据 / 过去 / 她是。搭配：according to the news, in the past, she's been。例句：According to the report, he's guilty. / That's in the past. / She's been acting strange. 注意 according to + 信息来源。
+
+- **by / by the time / suddenly** — 在…之前 / 到…时 / 突然。搭配：by midnight, by the time + 句子, all of a sudden。例句：Finish it by Friday. / By the time I called, he'd gone. / Suddenly, everything changed. 注意 by = before（截止）。
+
+- **lie / realize / notice** — 撒谎 / 意识到 / 注意到。搭配：tell a lie, realize the truth, notice a change。例句：Don't lie to me! / I finally realized the truth. / Did you notice anything? 注意 lie（撒谎）→ lied; lie（躺）→ lay → lain。
+
+- **criminal / destroy / grab** — 罪犯 / 销毁 / 抓取。搭配：a violent criminal, destroy proof, grab quickly。例句：The criminal ran away. / He tried to destroy the evidence. / She grabbed the keys. 注意 grab 比 take 更急促。
+
+- **in secret / secret / appear** — 秘密地 / 秘密 / 出现。搭配：meet in secret, a top secret, appear to be。例句：They communicated in secret. / It's a secret. / She appears to be nervous. 注意 appear to do = 似乎。
+
+- **shadow / scream / at first** — 影子 / 尖叫 / 起初。搭配：a shadow on the wall, let out a scream, at first glance。例句：I saw a shadow outside. / She let out a scream. / At first, everything seemed fine. 注意 at first 暗示后来情况变了。
+

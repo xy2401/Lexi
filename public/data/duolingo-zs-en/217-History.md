@@ -6,17 +6,36 @@
 
 agree to, civilization, conquer, defeat, despite, develop, disappear, even though, exist, flag, go to war, human, immigrate, lack, now that, pirate, settle, since, soldier, technique, tool, trade, use, victory, while, yet
 
+## 单元讲解
+
+本单元围绕"询问古代工具"展开，话题涉及人类文明的发展与兴衰。词表里有文明与战争的核心词汇（civilization, conquer, defeat, go to war, soldier, victory），也有描述社会演变的动词（develop, settle, immigrate, trade, disappear, exist）。你可以用这些词讲述一个文明如何兴起、如何消亡：Humans developed new tools and techniques. / They settled near the sea and traded with others. / A civilization can disappear even though it once seemed strong.
+
+连接词和让步结构是本单元值得注意的语言现象。despite、even though、while、yet 都表达转折或让步，now that 和 since 则引出原因。These words let you build complex sentences: Despite their lack of tools, they managed to develop new techniques. / Now that we know their history, we can understand their victory.
+
+学完本单元，你可以用英语简要描述一个古代文明的兴衰，表达对历史事件的因果判断。
+
 ## Tips
 
-"Civilization"来自拉丁语"civilis"（公民的），而"civilis"来自"civis"（公民）和"civitas"（城邦）。文明的本质就是"人们学会像公民一样共同生活"。世界上最早的文明诞生在两河流域（今伊拉克），约公元前3500年，苏美尔人发明了楔形文字、灌溉系统和城市。"Mesopotamia"在希腊语中意为"两河之间的土地"——底格里斯河和幼发拉底河孕育了人类文明的第一道曙光。
+- **civilization** — 文明、文明社会。搭配：ancient civilization, the rise/fall of a civilization。注意 civilize（使文明）→ civilization（名词）→ civilized（形容词）的构词链。中文"文明"和英文 civilization 都源自"城市生活"的概念——拉丁语 civilis 与 civis（公民）相关。
 
-"Pirate"来自希腊语"peirates"（尝试者、冒险者），由"peiran"（尝试）演变而来。海盗的黄金时代是1650-1730年的加勒比海。黑胡子（Edward Teach）在胡子中编入燃烧的导火索，让自己看起来像从地狱走出的恶魔。然而真实的海盗生活远没有电影中浪漫——他们实行民主制度，船长由投票选出，战利品按约定分配，受伤者获得额外补偿。这种"海盗法典"比许多国家的民主制度还早。
+- **conquer / defeat** — 都有"打败"的意思，但侧重不同。conquer 强调征服、占领（conquer a country），defeat 强调在战斗或比赛中击败对手（defeat the enemy）。你可以 conquer a place，但通常 defeat a person or team。
 
-"Conquer"来自拉丁语"conquirere"（搜寻、获取），由"con-"（完全）和"quaerere"（寻找）构成。征服就是"彻底获取"。亚历山大大帝20岁继承王位，用十年时间征服了从埃及到印度的广大地区，却在32岁英年早逝。据说他临终前被问到帝国留给谁，他回答："给最强者。"这句话引发了继业者之间长达四十年的战争。"Victory"来自拉丁语"victoria"，罗马人为胜利女神维多利亚建造了无数神庙。
+- **despite / even though** — 都表让步"尽管"，但语法结构不同。despite 后接名词或动名词：Despite the rain, they went to war. even though 后接完整从句：Even though they lacked tools, they fought. 常见错误：× Despite they were tired（despite 不能接从句）。
 
-"Tool"来自古英语"tol"，与"tawian"（制造）同源。人类使用工具的历史超过250万年——在坦桑尼亚奥杜威峡谷发现的石器比最古老的人类化石还古老。"Technique"来自希腊语"techne"（技艺），亚里士多德将techne定义为"带有理性原则的创造能力"。从打制石器到3D打印，人类的"techne"不断进化，但核心从未改变：用智慧改造世界。
+- **settle** — 定居、安顿。搭配：settle in a new land, settle down。移民（immigrate）到一个地方后 settle down，这是历史叙述中的常见搭配。settle 还有"解决（争端）"的意思：settle a disagreement。
 
-- "settle"既有"定居"也有"解决"的意思：settle a dispute（解决争端）/ settle in a new land（在新土地定居）
-- "despite"和"even though"都表示"尽管"，但despite后接名词/动名词，even though后接完整句子
-- "flag"来自古诺尔斯语"flaga"（飘动的布片），海盗旗（Jolly Roger）上的骷髅标志据说源自十字军东征时期的圣殿骑士团
-- "go to war"不用冠词，类似"go to school / go to bed"，表示进入某种状态
+- **immigrate** — 移入（某国）。注意方向：immigrate = 移入，emigrate = 移出。immigrate to America / emigrate from Ireland。名词是 immigration（移民现象/入境管理）。
+
+- **lack** — 缺乏，可作动词也可作名词。动词：They lacked food. 名词：a lack of resources。注意作动词时不加 of（× They lacked of food），作名词时才用 a lack of。
+
+- **now that / since** — 都表"既然"，引出已知原因。now that 强调"现在情况已经如此"：Now that the war is over, we can trade again. since 更中性，也可表时间"自从"：Since they settled here, life has improved.
+
+- **pirate** — 海盗。搭配：pirate ship, pirate flag。历史上 pirate 也指侵犯版权者（pirated software）。注意 pirate 和 privateer 不同——privateer 是政府授权的"私掠船"。
+
+- **technique / tool** — technique 是方法、技巧（抽象），tool 是工具（具体）。搭配：a new technique, develop a tool。a technique for making pottery / a tool for cutting wood。
+
+- **trade** — 贸易、交易，也可作动词。搭配：trade with other civilizations, trade routes。注意 trade 还有"行业"的意思：the building trade（建筑业）。
+
+- **victory / go to war** — victory 是胜利（名词），go to war 是开战。搭配：win a victory, go to war against。注意 victory 的反义词是 defeat（名词），而 win 的反义词是 lose。
+
+- **yet / while** — yet 作副词表"还（未）"或连词表"然而"：They have not yet disappeared. / The empire was small, yet powerful. while 可表"当……时"或"然而"：While they traded peacefully, others went to war.

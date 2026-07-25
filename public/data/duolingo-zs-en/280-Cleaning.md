@@ -6,18 +6,40 @@
 
 all in all, away, blinds, company, draw attention, dust, get, goes without saying, good enough, good thinking, have to be, household, impression, in time, need to be, pack, paper towels, professionally, scrub, think it over, throw out, tidy up, to-do list, toilet paper, without
 
+## 单元讲解
+
+本单元的场景是"有客人要来，赶紧打扫"，交际任务是"为迎接访客做准备"。词表里有清洁动作（tidy up, scrub, dust, throw out, pack），有清洁用品（paper towels, toilet paper, blinds），也有描述标准和评价的表达（good enough, professionally, impression, goes without saying）。你可以练习这样的叙述：We have company coming over, so we need to tidy up—scrub the bathroom, dust the shelves, and throw out the junk. / It goes without saying that the toilet paper and paper towels need to be stocked. / All in all, it doesn't have to be perfect, just good enough to make a good impression.
+
+词表里有几组表达"必要性"的结构：have to be / need to be 都是被动语态的必要性表达（The bathroom needs to be scrubbed.）。goes without saying 是"不言而喻"，用来强调某事理所当然。good thinking 是口语中的赞同表达，相当于"好主意、想得周到"。
+
 ## Tips
 
-"Company"（客人）这个词在" expecting company"（有客人要来）的语境中，来自古法语"compagnie"，由"com"（一起）+"panis"（面包）构成——"company"的字面意思是"一起分享面包的人"。这个古老的词源揭示了待客之道的本质：邀请某人进入你的家，就是邀请他分享你的面包。当"company"要来，整个household（家庭）进入紧急状态。
+- **tidy up** — 整理、收拾。搭配：tidy up the living room / tidy up before guests arrive / a quick tidy-up。比 clean 更侧重"把东西归位、让空间看起来整齐"，而不是深度清洁。例句：Let's tidy up—company is coming in an hour!
 
-"Blinds"（百叶窗）来自"blind"（盲的），因为百叶窗的功能就是让窗户"失明"——阻挡外面的视线。18世纪威尼斯商人将这种窗饰从波斯引入欧洲，因此百叶窗也叫"Venetian blinds"（威尼斯百叶窗）。在迎接客人之前，调整blinds的角度是营造氛围的关键——既要有光线，又要有隐私。
+- **scrub** — 用力擦洗。搭配：scrub the floor / scrub the bathroom / scrub a stain。比 wash 和 clean 更强调"用力、费劲地擦"，通常用于顽固污渍或需要使劲的表面。例句：I had to scrub the kitchen for an hour.
 
-"Scrub"（擦洗）来自中古英语"scrobben"，与荷兰语"schrubben"同源，是一个拟声词——模仿刷子用力摩擦表面的声音。"Dust"（灰尘/除尘）是一个有趣的"反义动词"：作为名词，dust是你想去除的东西；作为动词，"to dust"可以是去除灰尘（dust the shelf），也可以是撒上粉末（dust with sugar）。"Tidy up"（收拾整齐）中的"tidy"来自古英语"tid"（时间），原意是"及时的、适时的"，后来演变为"整洁的"。
+- **dust** — 除尘、擦灰。做动词：dust the shelves / dust the furniture。做名词：a layer of dust / full of dust。注意 dust 做动词时意思是"擦掉灰尘"，不是"撒上灰尘"（那是 dust with sugar 之类的用法）。
 
-"To-do list"（待办清单）是现代时间管理的核心工具，但"to-do"这个表达本身很古老——16世纪莎士比亚就使用过"ado"（忙乱）。"Goes without saying"（不言而喻）是英语中表达"显而易见"的经典短语，字面意思是"不用说也能明白"。在迎接客人的准备中，"toilet paper够不够"和"paper towels有没有"属于"goes without saying"的基本检查项目。"Impression"（印象）来自拉丁语"impressio"（压入），客人的第一印象就像印章"压入"蜡中——一旦形成，难以改变。
+- **throw out** — 扔掉、丢弃。搭配：throw out the trash / throw out old stuff / throw out the junk。等于 throw away。例句：We need to throw out all these old magazines before the guests arrive. 注意和 throw up（呕吐）区分。
 
-- "Throw out"（扔掉）比"throw away"更口语化，"out"暗示从室内扔到室外的动作方向。
-- "Professionally"（专业地）在清洁语境中常用于自嘲："I should have this done professionally"（我应该请专业人来打扫）。
-- "In time"（及时）与"on time"（准时）不同：in time是"还来得及"，on time是"不早不晚正好"。
-- "Good thinking"（好主意）是英语口语中对他人建议的即时肯定，比"good idea"更强调"思考过程"的价值。
-- "Household"（家庭/家务）由"house"（房子）+"hold"（持有）构成，原指"持有一个家"所需的一切事务。
+- **goes without saying** — 不言而喻、不用说也知道。搭配：It goes without saying that... / As goes without saying...。例句：It goes without saying that the bathroom needs to be clean. 用来强调某事太明显了，不需要特别提。
+
+- **company** — 这里指"客人、访客"，不是"公司"。搭配：have company / expect company / company is coming。例句：We're having company tonight, so let's clean up. 注意这个义项中 company 不可数，不说 a company（那是"一家公司"）。
+
+- **impression** — 印象。搭配：make a good impression / first impression / leave an impression。例句：A clean house makes a great first impression. 注意 make an impression on someone（给某人留下印象）。动词是 impress。
+
+- **blinds** — 百叶窗。通常用复数。搭配：close the blinds / open the blinds / window blinds。例句：The blinds are dusty—let's wipe them down. 注意和 curtains（窗帘，布艺的）区分：blinds 是硬质的（塑料、金属、木质），curtains 是软布。
+
+- **good enough / professionally** — good enough = 足够好、过得去：It doesn't have to be perfect, just good enough. professionally = 专业地、像专业人士一样：She cleans professionally. / The house was professionally cleaned. 两者在语境中形成对比：自己打扫到 good enough 就行，不必 professionally。
+
+- **to-do list** — 待办事项清单。搭配：make a to-do list / check off the to-do list / a long to-do list。例句：My to-do list: scrub the bathroom, dust the shelves, pack away the clutter. 注意有连字符，口语中常说 to-do list。
+
+- **paper towels / toilet paper** — 厨房纸巾和卫生纸。paper towels 是擦手、擦台面用的厚纸巾；toilet paper 是卫生间用的卷纸。搭配：a roll of paper towels / a roll of toilet paper / stock up on paper towels。注意两者不可互换。
+
+- **all in all** — 总的来说、总而言之。搭配：All in all, it was a good day. / All in all, the house looks decent. 用于总结性评价。例句：All in all, the place is good enough for a quick visit. 类似表达：overall / on the whole / all things considered。
+
+- **think it over** — 仔细考虑、想一想。搭配：think it over / take your time and think it over / I'll think it over。例句：Do we need to clean the garage too? Let me think it over. 比 think about 更强调"花时间认真考虑"。
+
+- **draw attention** — 引起注意。搭配：draw attention to something / draw attention away from。例句：A messy entryway draws attention—let's tidy it up first. 反义：avoid drawing attention（避免引人注目）。注意 draw 这里是"吸引"，不是"画画"。
+
+- **household** — 家庭的、家用的。搭配：household chores / household items / a household name。例句：We need more household supplies—paper towels, toilet paper, and cleaning products. 做名词时指"一家人、住户"：a household of four。

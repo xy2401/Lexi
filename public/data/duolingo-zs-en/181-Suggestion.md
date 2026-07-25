@@ -6,18 +6,28 @@
 
 but, by, convince, could, doubt that, lamb, option, point, politely, progress, recommend, resort, rude, say, so, souvenir, take, vegetarian, waterfall, we would, we'd, would you, you'd
 
+## 单元讲解
+
+本单元的场景是"推荐一道菜或一杯饮品"。你可以礼貌地给出建议：I'd recommend the lamb—it's amazing. Would you like to try it? If you're vegetarian, there are other options.（我推荐羊肉——非常棒。你想试试吗？如果你是素食者，还有其他选择。）We'd love to take you to that resort by the waterfall. You'd enjoy it, I'm sure.（我们很想带你去瀑布旁那个度假村。你一定会喜欢的。）
+
+词表里有建议类核心词汇：recommend, could, would you, we'd, you'd, we would。这些构成了礼貌建议和邀请的语法骨架。convince 是"说服"，politely 和 rude 涉及建议时的礼貌维度：I politely suggested the lamb, but he was rude about it.（我礼貌地推荐了羊肉，但他对此很无礼。）
+
+食物和旅行词汇穿插其中：lamb, vegetarian, souvenir, resort, waterfall。doubt that 表达怀疑：I doubt that he'd like lamb. option 是选择，point 可以表示"要点"或"意义"：What's the point? so 和 but 是连接词，让建议的表达更流畅。
+
 ## Tips
 
-"Recommend"来自拉丁语"re-"（再次）加"commendare"（托付、赞扬），字面意思是"再次向人推荐、托付"。在中世纪，一封"letter of recommendation"（推荐信）是旅行者最重要的文件——没有它，你甚至无法在陌生城镇找到住处。今天，从餐厅推荐到求职推荐信，"recommend"依然是人际信任的传递方式。"Convince"来自拉丁语"convincere"（彻底说服），其中"con-"表示"完全"，"vincere"表示"征服"——说服一个人，就是在思想上"征服"他。
+- **recommend / could / would you** — recommend 后接名词或动名词：I recommend the lamb. / I recommend trying it.（不接 to do。）could 用于礼貌建议：You could try the vegetarian option. would you 用于礼貌邀请：Would you like some tea?
 
-"Lamb"（羊肉）在英语文化中有特殊的象征意义。在基督教传统中，"Lamb of God"（上帝的羔羊）指耶稣基督，象征纯洁与牺牲。复活节吃烤羊肉是欧洲延续千年的传统。"Vegetarian"（素食者）这个词直到1847年才在英国被创造出来，由"vegetable"加上拉丁语后缀"-arian"（...的人）构成。在此之前，素食者被称为"Pythagorean"（毕达哥拉斯学派），因为古希腊哲学家毕达哥拉斯是西方最早的素食倡导者。
+- **we'd / you'd / we would** — we'd = we would（或 we had，视后接词判断）。在建议语境中通常是 would：We'd love to help. you'd = you would：You'd enjoy the waterfall. 缩写 'd 后接动词原形 = would，后接过去分词 = had。
 
-"Souvenir"直接借自法语，原意是"记忆"（来自拉丁语"subvenire"，意为"来到脑海中"）。在18世纪的欧洲"壮游"（Grand Tour）传统中，年轻贵族从意大利、希腊带回各种纪念品，这些物品被称为"souvenir"。"Resort"来自拉丁语"resurgere"（再次升起），原意是"退隐之地"，后来演变为"度假胜地"。
+- **lamb / vegetarian / option** — lamb 是羊肉（活羊是 sheep，羊肉是 lamb 或 mutton）。vegetarian 是素食者（vegan 是纯素者，不吃任何动物制品）。option = 选择（比 choice 更强调"可选项"）。
 
-"Politely"和"rude"是英语社交的两极。英式英语中，"Would you...?"和"Could you...?"是礼貌请求的标配，而直接说"I want..."则被视为rude。"Point"在口语中意为"意义、目的"（What's the point?），来自拉丁语"punctum"（刺、点），一个小小的"点"引申为"关键所在"。
+- **convince / doubt that / point** — convince = 说服：I convinced her to try it. 搭配 convince someone to do / convince someone that... doubt that = 怀疑：I doubt that he'll come. point 可表示"意义"：What's the point? 或"要点"：That's a good point.
 
-- "Recommend"后面接动名词或that从句：I recommend trying the lamb. / I recommend that you try the lamb.
-- "We'd"可以是"we would"或"we had"的缩写，需根据后接动词判断。
-- "Doubt that"表示"怀疑（某事不真实）"：I doubt that he's a vegetarian.（我怀疑他不是素食者。）
-- "By"在推荐语境中可表示方式：You can get there by taxi.（你可以坐出租车去那里。）
-- "Option"来自拉丁语"optare"（选择），与"opt"（选择）同源，强调"可选项"。
+- **politely / rude / say** — politely = 礼貌地（polite + -ly）。rude = 粗鲁的，搭配 be rude to someone. say 在此可能是"比如说"：Say, would you like some lamb?（口语中引起注意）。
+
+- **resort / waterfall / souvenir** — resort 是度假胜地/度假村：a beach resort. waterfall 是瀑布（water + fall）。souvenir 是纪念品（来自法语，注意发音：/ˌsuːvəˈnɪr/）。
+
+- **by / so / but / take** — by 在此可能表示"在……旁边"：the resort by the waterfall. so 表结果或"那么"：So, what would you recommend? but 表转折。take 可搭配 take a souvenir / take someone to a place。
+
+- **progress / resort** — progress 是不可数名词：make progress. resort 除"度假村"外还有"诉诸"义：as a last resort（作为最后手段）。注意不要混淆两个含义。

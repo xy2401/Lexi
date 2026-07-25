@@ -6,18 +6,26 @@
 
 about, act, autograph, award, biography, director, does, extraordinary, gossip, laugh at, must, mystery, of all time, over, perfect for, recording, rock star, shocked, star in, the most, think, thinking
 
+## 单元讲解
+
+本单元围绕"分享对演员的看法"展开，话题是名人与娱乐圈。词表里有娱乐行业词汇（act, director, star in, rock star, recording, award, autograph）和评价表达（extraordinary, the most, of all time, perfect for, shocked）。
+
+你可以练习发表观点：Who's the most extraordinary actor of all time? / She must star in that movie—she's perfect for the role. / I was shocked by the gossip about the rock star. / Does the director think the biography is a mystery?
+
+must 在这里表推测（"一定、肯定"），the most 构成最高级。laugh at 和 think/thinking 涉及表达态度和看法。over 可以表示"关于"（a movie over something）或"结束"。
+
 ## Tips
 
-"Fame"来自拉丁语"fama"（名声、传闻），与"fari"（说话）同源。在罗马神话中，Fama是一位长着无数眼睛、耳朵和舌头的女神，她飞越大地，传播一切消息——无论真假。"Celebrity"（名人）来自拉丁语"celebritas"（热闹、拥挤），原意是"被众人围绕的状态"。从古希腊的奥林匹克冠军到今天的rock star，人类对名人的迷恋从未改变。
+- **star in / act / director** — star in = 主演（She starred in three films.），star 作动词。act = 表演（He acts well.），也可指"行为"。director = 导演（film director）或总监（managing director）。搭配：star in a movie, direct a film。
 
-"Autograph"来自希腊语"autos"（自己）加"graphein"（写），字面意思是"自己写的"。在印刷术发明之前，所有文件都是"autograph"；今天它特指名人的亲笔签名。"Biography"来自希腊语"bios"（生命）加"graphein"（写），即"书写一个人的生命"。古希腊传记家普鲁塔克的《名人传》是西方传记文学的奠基之作。
+- **of all time / the most / extraordinary** — of all time = 有史以来（the best actor of all time）。the most + 形容词构成最高级（the most extraordinary）。extraordinary = 非凡的（extra + ordinary，"超出平常的"）。
 
-"Director"（导演）来自拉丁语"dirigere"（引导、对准），由"dis-"（分开）和"regere"（引导）组成。电影导演的职责确实是"引导"一切——演员、摄影、灯光、音乐。"Award"（奖项）来自古法语"eswarder"（审视、裁决），原意是"经过审视后做出的决定"。奥斯卡金像奖（Academy Award）自1929年起颁发，小金人的官方名字是"Academy Award of Merit"。
+- **autograph / award / biography** — autograph = 亲笔签名（get an autograph）。award = 奖项（win an award, the Academy Awards）。biography = 传记（bio- 生命 + -graphy 书写），自传是 autobiography。
 
-"Gossip"（八卦）来自古英语"godsibb"（教父母），原意是"在洗礼仪式上站在一起的人"。后来这个词演变为"闲聊的朋友"，再变为"闲言碎语"本身。"Extraordinary"来自拉丁语"extraordinarius"，由"extra"（之外）和"ordo"（秩序）组成，字面意思是"超出常规的"。"Rock star"（摇滚明星）是20世纪50年代猫王崛起后诞生的文化符号，代表了反叛、自由与青春。
+- **gossip / laugh at / shocked** — gossip = 八卦、闲话（不可数或可数：a piece of gossip）。laugh at = 嘲笑（Don't laugh at me.），注意 laugh at 和 laugh with 的区别。shocked = 震惊的（I'm shocked by the news.），比 surprised 程度更强。
 
-- "Star in"表示"主演（某部作品）"：She starred in three blockbuster films.
-- "Of all time"是最高级的经典搭配：the greatest actor of all time（有史以来最伟大的演员）。
-- "Laugh at"可以表示"嘲笑"（贬义）或"因...而笑"（中性），需根据语境判断。
-- "Must"在推测语境中表示"一定"：He must be shocked by the gossip.（他一定被那些八卦震惊了。）
-- "Recording"（录音）来自"record"（记录），音乐产业中"recording artist"就是"录音艺术家"，即歌手。
+- **must / mystery / does** — must 表推测"一定"（He must be famous.），表义务"必须"（You must go.）。mystery = 谜、悬疑（a mystery novel）。does 是 do 的第三人称单数，用于疑问和强调（Does she act well? / She does act well!）。
+
+- **rock star / recording / perfect for** — rock star = 摇滚明星。recording = 录音、唱片（a recording studio 录音棚）。perfect for = 非常适合（She's perfect for the part.）。搭配：cut/make a recording。
+
+- **over / about / think / thinking** — over 可表"关于"（a debate over money）或"结束"（The show is over.）。about 也表"关于"，但更泛。think 表观点（I think he's great.），thinking 强调正在思考的过程（I'm thinking about it.）。

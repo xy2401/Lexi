@@ -6,20 +6,37 @@
 
 act, action, celebrity, cinema, comedy, commercial, create, culture, download, experience, fiction, fight, film, fought, loudly, novel, orchestra, perform, performance, performer, publish, review, sculpture, title
 
+## 单元讲解
+
+本单元围绕"谈论最喜欢的书"展开。核心是文艺表达：I just downloaded a fiction novel—have you read any good books lately?（我刚下载了一本小说——你最近读过什么好书吗？）、The performer gave an amazing performance at the cinema.（表演者在电影院做了一场精彩的演出。）、The novel was published last year and got great reviews.（这本小说去年出版，评价很好。）、I love action films with fight scenes.（我喜欢有打斗场面的动作片。）。
+
+词表里有文艺词汇（novel, fiction, sculpture, orchestra, cinema）和表演词汇（perform, performer, performance）。你可以练习：The celebrity wrote a comedy. / They fought loudly in the film. / I want to create a sculpture. / The title of the book is...
+
+perform → performance（表演 → 演出）。publish 表示"出版"。
+
 ## Tips
 
-"Cinema"（电影）来自希腊语"kinema"（运动），与"kinetic"（动力的）同源。1895年，法国卢米埃尔兄弟在巴黎大咖啡馆的地下室放映了世界上第一部电影——《火车进站》。据说观众看到银幕上的火车迎面驶来，惊恐地四散奔逃。"Cinema"这个名字完美地捕捉了电影的本质：运动的影像。而"film"（胶片/电影）来自古英语"filmen"（薄膜），因为早期电影确实记录在一层薄薄的赛璐珞胶片上。
+- **novel / fiction / title** — 小说 / 虚构的 / 标题。搭配：a fiction novel, the title of the book, a best-selling novel。例句：I'm reading a great novel. / It's fiction, not real. / What's the title? 注意 novel 是长篇小说（比 story 长）。
 
-"Novel"（小说）来自意大利语"novella"（新故事），词根是拉丁语"novus"（新的）。14世纪，薄伽丘的《十日谈》（Decameron）用一百个"novelle"（短篇新故事）奠定了欧洲小说的传统。到了18世纪，"novel"专指长篇虚构叙事——塞万提斯的《堂吉诃德》被视为第一部现代小说。"Fiction"（虚构）来自拉丁语"fingere"（塑造、捏造），与"figure"（形象）同源——虚构就是"用语言塑造出形象"。
+- **perform / performance / performer** — 表演 / 演出 / 表演者。搭配：perform on stage, a great performance, a talented performer。例句：She performed beautifully. / The performance was amazing. / The performer took a bow. 注意 perform → performance（动词 → 名词）。
 
-"Orchestra"（管弦乐队）来自希腊语"orcheisthai"（跳舞）。在古希腊剧场中，"orchestra"是舞台前方半圆形的平地，合唱队在那里边唱边舞。后来这个空间被乐手占据，"orchestra"便从"跳舞的地方"变成了"演奏的团体"。"Comedy"（喜剧）来自希腊语"komoidia"，由"komos"（狂欢游行）+"oide"（歌）构成——喜剧起源于古希腊酒神节上的狂欢歌舞，人们戴着面具、唱着粗俗的歌曲游行。
+- **cinema / film / comedy** — 电影院 / 电影 / 喜剧。搭配：go to the cinema, watch a film, a comedy film。例句：Let's go to the cinema. / The film was great. / I love comedies. 注意 cinema 是英式（美式 movie theater）。
 
-"Sculpture"（雕塑）来自拉丁语"sculpere"（雕刻），与"scalpel"（手术刀）同源——都是用尖锐工具在材料上"刻"出形状。古希腊雕塑追求理想化的人体美，米开朗基罗说他只是"把大理石中已经存在的形象释放出来"。"Publish"（出版）来自拉丁语"publicare"（使公开），与"public"（公共的）同源——出版就是"把私人的文字变成公共的财产"。1450年前后古腾堡发明活字印刷术，让publish从手抄变为机械复制，彻底改变了知识传播的方式。
+- **review / publish / download** — 评论 / 出版 / 下载。搭配：write a review, published last year, download a book。例句：The reviews were excellent. / The book was published in 2020. / I downloaded the novel. 注意 review 可指书评/影评。
 
-"Celebrity"（名人）来自拉丁语"celebritas"（热闹、拥挤），词根是"celeber"（人多的）。在古代，celebrity不是指"有名的人"，而是指"热闹的场所"。直到19世纪，随着报纸和摄影术的普及，"celebrity"才转变为"被众人围观的知名人物"。安迪·沃霍尔在1968年预言"每个人都能成名十五分钟"——在社交媒体时代，这个预言似乎已经实现。
+- **sculpture / orchestra / culture** — 雕塑 / 管弦乐团 / 文化。搭配：a sculpture, an orchestra, local culture。例句：The sculpture is beautiful. / The orchestra played perfectly. / I love learning about culture. 注意 orchestra 的发音：/ˈɔːrkɪstrə/。
 
-- "Create"（创造）来自拉丁语"creare"（生产、孕育），与"grow"（生长）有远亲关系——创造就像"孕育"新生命。
-- "Culture"（文化）来自拉丁语"cultura"（耕作），与"cultivate"（培养）同源——文化就是"心灵的耕作"。西塞罗最早用"cultura animi"（心灵的耕耘）来比喻哲学修养。
-- "Title"（标题）来自拉丁语"titulus"（铭文、标签），古罗马人在建筑上刻"titulus"标明建造者——标题就是作品的"铭文"。
-- "Review"（评论）由"re-"（再）+"view"（看）构成——评论就是"再看一遍"，带着批判的眼光重新审视。
-- "Download"（下载）是"down"（向下）+"load"（装载）的组合，隐喻数据从云端"向下装载"到本地——这个方向感来自早期计算机中主机在上、终端在下的物理布局。
+- **act / action / fight / fought** — 表演 / 动作 / 打架 / 打了。搭配：act in a film, an action movie, a fight scene, fought bravely。例句：She acts in comedy films. / I love action movies. / They fought in the film. 注意 fight → fought → fought。
+
+- **celebrity / commercial / create** — 名人 / 商业的 / 创造。搭配：a celebrity, a commercial break, create art。例句：A celebrity wrote this novel. / I hate commercial breaks. / She creates beautiful art. 注意 commercial 可指"广告"（名词）。
+
+- **loudly / experience / fiction** — 大声地 / 经历 / 虚构。搭配：read loudly, a great experience, fiction and non-fiction。例句：He read the poem loudly. / It was an amazing experience. / I prefer fiction. 注意 fiction 的反义是 non-fiction。
+
+- **perform / cinema / review** — 表演 / 电影院 / 评论。搭配：perform live, at the cinema, a good review。例句：The band performed live. / We saw it at the cinema. / The film got good reviews. 注意 perform live = 现场表演。
+
+- **novel / publish / title** — 小说 / 出版 / 标题。搭配：write a novel, published by, the title is。例句：She's writing a novel. / It was published by a famous company. / The title is "The Fight". 注意 publish 是"出版"（出版社做的事）。
+
+- **orchestra / sculpture / culture** — 乐团 / 雕塑 / 文化。搭配：a symphony orchestra, a modern sculpture, art and culture。例句：The orchestra performed at the cinema. / The sculpture is on display. / Art is part of culture. 注意这些是艺术类核心词汇。
+
+- **comedy / action / celebrity** — 喜剧 / 动作 / 名人。搭配：a comedy show, an action film, a celebrity。例句：I prefer comedies to action films. / The action scenes were intense. / A celebrity reviewed the book. 注意 comedy 的反义是 tragedy（悲剧）。
+

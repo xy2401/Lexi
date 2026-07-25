@@ -6,18 +6,28 @@
 
 achieve, achievement, admire, as soon as, background, benefit, challenge, conference, current, effort, engineering, gain, graduate, greatest, industry, out of work, position, promotion, raise, scientist, training, work on
 
+## 单元讲解
+
+本单元让你分享职业抱负。你可以谈论目标、努力和成就：As soon as I graduate, I want to achieve something great in engineering. My greatest goal is to gain a promotion and a raise.（一毕业我就想在工程领域有所成就。我最大的目标是获得晋升和加薪。）I admire scientists who work on challenges in the industry. With effort and training, I'll get there.（我敬佩那些在行业中攻克挑战的科学家。通过努力和培训，我会做到的。）
+
+词表里有职业发展词汇：position, promotion, raise, graduate, conference, industry, engineering, scientist。也有"努力与成就"类：achieve, achievement, effort, gain, challenge, greatest。background 和 current 描述现状：My current position is in engineering. I have a background in science.（我目前的职位在工程领域。我有科学背景。）
+
+as soon as 是时间连接词，表示"一……就……"。out of work = 失业。benefit 是好处/福利。work on = 从事、致力于。admire = 敬佩。
+
 ## Tips
 
-"Ambition"来自拉丁语"ambitio"，原意是"四处走动拉选票"——古罗马候选人穿着白色托加袍（toga candida，"candid"一词即源于此）在广场上四处游说，这种行为就叫"ambitio"。从"拉票"到"雄心壮志"，这个词经历了从贬义到褒义的转变。今天，"ambition"是职场中最被推崇的品质之一。
+- **achieve / achievement / gain** — achieve = 实现（目标）：achieve your goals. achievement = 成就（名词）。gain = 获得（强调通过努力得到）：gain experience / gain a promotion. 注意 achieve 侧重"达成"，gain 侧重"获取"。
 
-"Engineer"来自拉丁语"ingenium"（天赋、聪明才智），与"genius"（天才）同源。中世纪的"engineer"最初是设计攻城器械（engine of war）的军事专家，后来才扩展到所有技术领域。"Scientist"这个词直到1834年才被英国学者William Whewell创造出来——在此之前，从事科学研究的人被称为"natural philosopher"（自然哲学家）。牛顿的巨著就叫《自然哲学的数学原理》。
+- **promotion / raise / position** — promotion = 晋升：get a promotion. raise = 加薪（美式，英式用 rise）：ask for a raise. position = 职位（比 job 更正式）：apply for a position.
 
-"Promotion"来自拉丁语"promovere"（向前推进），在职场中意味着"晋升"。"Raise"在美式英语中特指"加薪"（英式英语用"rise"）。"Conference"来自拉丁语"conferre"（带到一起），原意是把人和想法"汇聚到一处"。从古代的学术沙龙到今天的TED大会，conference始终是人类交流思想的重要形式。
+- **graduate / engineering / scientist** — graduate 可作动词（毕业）或名词（毕业生）：I graduated in 2020. / a recent graduate. engineering = 工程学。scientist = 科学家（science + -ist）。
 
-"Graduate"来自拉丁语"gradus"（台阶、等级），毕业典礼就是"登上新的台阶"。中世纪大学的毕业典礼上，学生会戴上"学位帽"（mortarboard），据说其方形设计象征着书本。"Out of work"（失业）是英语中比"unemployed"更委婉的说法，暗示这只是暂时的状态而非永久身份。
+- **as soon as / current / out of work** — as soon as + 从句 = 一……就：As soon as I graduate, I'll start working. current = 目前的：my current job. out of work = 失业（= unemployed）：He's been out of work for months.
 
-- "Achieve"强调通过努力达成目标，"gain"强调获得（经验、知识等），两者侧重点不同。
-- "Position"在职场中等于"job"，但更正式：I'm applying for a position at Google.
-- "As soon as"引导时间状语从句，表示"一...就..."：As soon as I graduate, I'll start working.
-- "Industry"不仅指"工业"，也泛指任何"行业"：the tech industry, the entertainment industry。
-- "Work on"表示"从事于、致力于"某个项目：I'm working on a new research paper.
+- **effort / challenge / greatest** — effort = 努力（make an effort / put effort into）。challenge = 挑战。greatest = 最大的（great 的最高级）：my greatest achievement. 注意 effort 可数也可不可数。
+
+- **admire / background / benefit** — admire = 敬佩、赞赏：I admire her dedication. background = 背景（教育/工作经历）：a background in engineering. benefit = 好处/员工福利：job benefits（五险一金等）。
+
+- **conference / industry / training** — conference = 会议（比 meeting 更正式、规模更大）。industry = 行业：the tech industry. training = 培训（不可数名词）：receive training / a training program.
+
+- **work on** — 短语动词，表示"从事、致力于"：I work on engineering projects. 也可以表示"对……起作用"：This plan might work on him. 注意 work on 后接名词或动名词。

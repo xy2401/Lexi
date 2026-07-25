@@ -6,17 +6,37 @@
 
 attention, average, circle, complicated, difficulty, drama, essential, hand, hand in, hand out, important for, instructor, internship, it, lab, necessary to, plenty of, possible to, register, require, unit, used, wrong
 
+## 单元讲解
+
+本单元围绕"解释什么是必要的"展开，以学习为场景。核心是学业要求和必要性表达：It's essential to hand in your assignment on time.（按时交作业是必须的。）、It's necessary to register for the lab before the internship.（在实习前必须注册实验课。）、The instructor handed out the materials—pay attention, it's complicated.（老师发了材料——注意听，很复杂。）、It's important for your average grade to have plenty of practice.（对平均分来说，大量练习很重要。）。
+
+词表里有学术词汇（instructor, internship, lab, register）和必要性表达（essential, necessary to, important for, require）。你可以练习：Hand in your homework. / Circle the wrong answers. / There's plenty of time. / The drama unit is fun.
+
+It is + adj + to do 是形式主语句型。hand in（上交）vs hand out（分发）。
+
 ## Tips
 
-"University"（大学）的概念虽未直接出现在本单元，但"Studies"一词承载着西方高等教育的深厚传统。"Essential"来自拉丁语"essentialis"，与"esse"（存在）同源——本质上是说，某物是"存在所必需的"。中世纪经院哲学家用"essentia"讨论事物的根本属性，而今天学生用"essential"描述必修课程，语义从形而上学降落到日常，却保留了"不可或缺"的核心力量。
+- **essential / necessary to / important for** — 必要的 / 必须 / 对…重要。搭配：it's essential to, necessary to do, important for sb。例句：It's essential to study hard. / It's necessary to register early. / It's important for students to practice. 注意这三个表达必要性/重要性。
 
-"Register"（注册）源自拉丁语"regesta"，意为"记录在册的事物"，与"rex"（国王）有间接联系——最早的"register"是王室用来记录土地和税收的官方簿册。中世纪大学沿用了这一行政传统：学生必须"注册"才能被承认为大学共同体的一员。"Instructor"来自拉丁语"instruere"，意为"建造、装备"，暗示教师的角色是"在学生心中建造知识的大厦"。
+- **hand in / hand out / hand** — 上交 / 分发 / 手。搭配：hand in homework, hand out papers, raise your hand。例句：Hand in your essays by Friday. / The teacher handed out worksheets. / Raise your hand to answer. 注意 hand in = 交上去，hand out = 发下去。
 
-"Lab"是"laboratory"的缩写，后者来自拉丁语"laborare"（劳动）。最早的实验室并非科学场所，而是炼金术士的工坊——在那里，"劳动"意味着将贱金属转化为黄金的艰辛尝试。十七世纪科学革命后，"laboratory"才逐渐获得现代含义。"Internship"（实习）则是十九世纪末的产物，来自"intern"（实习生），最初用于医学领域：年轻医生在医院"内部"（intern-）接受训练。
+- **instructor / lab / register** — 讲师 / 实验室 / 注册。搭配：the instructor said, in the lab, register for a course。例句：The instructor explained the unit. / We work in the lab on Tuesdays. / You need to register online. 注意 register for = 注册选课。
 
-"Drama"来自希腊语"drama"（行动、情节），与"dran"（做、行动）同源。古希腊戏剧是城邦教育的核心——公民通过观看悲剧和喜剧来理解道德困境。今天大学中的"drama"既指戏剧艺术，也指"戏剧性的事件"，后者保留了古希腊人对"行动"的强调。"Complicated"来自拉丁语"complicare"（折叠在一起），一个复杂的问题就像被反复折叠的纸张，需要一层层展开才能看清全貌。
+- **attention / complicated / difficulty** — 注意力 / 复杂 / 困难。搭配：pay attention, a complicated problem, have difficulty。例句：Pay attention in class! / The grammar is complicated. / I have difficulty with math. 注意 pay attention to + 名词。
 
-- "Hand in"（上交）和"hand out"（分发）方向相反：学生hand in作业给老师，老师hand out材料给学生。"Hand"在这里是"传递"的隐喻。
-- "Plenty of"来自古法语"plenté"，最终源自拉丁语"plenus"（满的），与"plenary"（全体的）、"plenty"（丰富）同源。
-- "Require"中的"re-"（反复）+"quire"（寻求）暗示"反复要求"，比单纯的"ask"更强调必要性和强制性。
-- 英语中"unit"既指教学单元也指军事单位，都来自拉丁语"unus"（一）——一个不可再分的基本整体。
+- **plenty of / average / require** — 大量的 / 平均 / 要求。搭配：plenty of time, an average score, require effort。例句：There's plenty of time to study. / My average is 85. / The course requires hard work. 注意 plenty of = a lot of（更口语）。
+
+- **internship / drama / unit** — 实习 / 戏剧 / 单元。搭配：do an internship, a drama class, Unit 5。例句：She's doing an internship at a hospital. / I love drama class. / Open your books to Unit 3. 注意 internship 是"实习期"。
+
+- **circle / wrong / used** — 圈出 / 错误的 / 用过的。搭配：circle the answer, a wrong answer, used books。例句：Circle the correct answer. / Your answer is wrong. / I bought a used textbook. 注意 circle 可作动词（画圈）。
+
+- **possible to / require / register** — 可能 / 要求 / 注册。搭配：it's possible to, require sb to, register online。例句：It's possible to finish in one day. / The job requires experience. / Register before Monday. 注意 It's possible to do = 有可能做。
+
+- **it / essential / necessary to** — 它 / 必要 / 必须。搭配：it is essential, it is necessary to, find it hard。例句：It is essential to attend class. / It is necessary to study daily. / I find it hard to focus. 注意 it 作形式主语。
+
+- **complicated / difficulty / attention** — 复杂 / 困难 / 注意。搭配：too complicated, with difficulty, pay close attention。例句：The instructions are complicated. / She finished with difficulty. / Pay close attention to details. 注意 complicated 比 difficult 更强调"复杂"。
+
+- **hand in / hand out / instructor** — 上交 / 分发 / 老师。搭配：hand in on time, hand out materials, ask the instructor。例句：Hand in your report today. / She handed out the tests. / Ask the instructor for help. 注意 instructor 多用于大学。
+
+- **average / plenty of / drama** — 平均 / 大量 / 戏剧。搭配：on average, plenty of practice, a drama performance。例句：On average, I study two hours a day. / There's plenty of material. / The drama was excellent. 注意 on average = 平均来说。
+

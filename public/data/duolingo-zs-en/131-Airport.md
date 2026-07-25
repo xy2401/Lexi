@@ -6,20 +6,37 @@
 
 abroad, baggage, can't, cancel, canceled, check in, citizen, confused, couldn't, embassy, fee, front door, get in, pass, reservations, security, seem, shouldn't, spare, tell, translate, transportation, visa, won't, you
 
+## 单元讲解
+
+本单元围绕"预订航班"展开。核心是机场表达：I need to check in and go through security.（我需要办理登机然后过安检。）、My flight was canceled—I can't believe it!（我的航班被取消了——真不敢相信！）、You shouldn't forget your visa when traveling abroad.（出国旅行不应该忘记签证。）、I couldn't get in without a passport.（没有护照我进不去。）。
+
+词表里有机场词汇（check in, security, baggage, reservations）和旅行证件（visa, passport, embassy）。你可以练习：I have a reservation under my name. / The fee for extra baggage is high. / I'm confused—can you translate? / I need to go to the embassy.
+
+can't / couldn't / won't 是情态动词的否定。canceled 表示"被取消"。
+
 ## Tips
 
-"Visa"（签证）来自拉丁语"charta visa"，意为"已被查看的文件"。中世纪欧洲，旅行者每到一个城镇，都需要向当地领主出示通行证，领主查看后在文件上盖章——这个"被查看"的动作就是visa的起源。现代护照制度始于第一次世界大战，各国为了防范间谍和逃兵，开始严格要求出入境文件。在此之前，19世纪的欧洲旅行几乎不需要任何证件——你可以从巴黎一路走到莫斯科，无人过问。
+- **check in / security / baggage** — 办理登机 / 安检 / 行李。搭配：check in at the counter, go through security, check your baggage。例句：Check in two hours before the flight. / Security took forever. / My baggage is overweight. 注意 check in 是"办理登机手续"。
 
-"Embassy"（大使馆）来自古法语"ambassade"，最终源自拉丁语"ambactus"（仆人、使者）。在古罗马，"ambactus"是被派去传达消息的仆人。中世纪时，各国开始互派常驻使节，"ambassador"（大使）成为正式外交官衔。1648年《威斯特伐利亚和约》确立了现代外交体系，大使馆成为国家主权的延伸——踏入一国大使馆，法律上就等于踏上了那个国家的领土。
+- **canceled / cancel / can't** — 取消 / 取消 / 不能。搭配：The flight was canceled, cancel my reservation, I can't go。例句：My flight was canceled! / I need to cancel my reservation. / I can't find my passport! 注意美式 canceled（一个 l），英式 cancelled（两个 l）。
 
-"Baggage"（行李）来自古法语"bagage"，词根是"bague"（包裹）。中世纪军队的"baggage train"（辎重队）是行军中最脆弱的部分——攻击敌方辎重是常见的战术。"Baggage"因此带上了"负担"的隐喻义，英语中"emotional baggage"（情感包袱）就是由此而来。"Security"（安检）来自拉丁语"securus"，由"se-"（没有）+"cura"（忧虑）构成，字面意思是"没有忧虑"。机场安检的终极目标，就是让每位旅客"无忧无虑"地飞行。
+- **visa / embassy / abroad** — 签证 / 大使馆 / 国外。搭配：get a visa, at the embassy, travel abroad。例句：You need a visa to travel abroad. / I went to the embassy. / She lives abroad. 注意 visa 是"签证"，passport 是"护照"。
 
-"Abroad"（在国外）由"a-"（在……上）+"broad"（宽阔的）构成，字面意思是"在广阔的地方"——出了国门，世界变得辽阔而陌生。"Transportation"（交通）来自拉丁语"trans-"（跨越）+"portare"（搬运），与"port"（港口）、"passport"（护照）共享词根"port"。古罗马的"portare"最初指用船跨越海洋运送货物，后来扩展到一切运输方式。
+- **couldn't / won't / shouldn't** — 不能（过去）/ 不会 / 不应该。搭配：couldn't get in, won't be late, shouldn't forget。例句：I couldn't find my ticket. / The plane won't leave on time. / You shouldn't forget your visa. 注意这些是情态动词的否定形式。
 
-"Citizen"（公民）来自古法语"citeien"，词根是拉丁语"civitas"（城市国家）。在古希腊雅典，"公民"意味着有权在广场上发言和投票的自由男性。"Passport"（护照）字面意思是"通过港口"——中世纪旅行者需要一份文件才能"通过"各个港口和关卡。"Cancel"（取消）来自拉丁语"cancellare"（画格子），原意是用交叉线把文字划掉——在文件上画一个"X"，就是最古老的"取消"。
+- **fee / reservations / spare** — 费用 / 预订 / 备用的。搭配：a service fee, make a reservation, a spare passport。例句：There's a fee for extra baggage. / I have a reservation. / Bring a spare ticket. 注意 fee 是"费用/手续费"。
 
-- "Fee"（费用）来自古英语"fēoh"（牲畜、财产），与德语"Vieh"（牲畜）同源——在古代，牲畜就是货币。
-- "Spare"（备用的）来自古英语"spær"（节俭的），与"sparrow"（麻雀）可能有远亲关系——麻雀总是"节省"地觅食。
-- "Reservations"（预订）来自拉丁语"reservare"（保留），字面意思是"为某人保留"——预订就是让航空公司为你"保留"一个座位。
-- "Confused"（困惑的）来自拉丁语"confundere"（混在一起），困惑就是各种信息"混成一团"，理不清头绪。
-- "Seem"（似乎）来自古诺尔斯语"sœma"（合适的），维京人用这个词表达"看起来合适/像样"，后来演变为"似乎"。
+- **confused / seem / tell** — 困惑 / 似乎 / 告诉。搭配：I'm confused, it seems like, tell me。例句：I'm confused about the gate number. / It seems like the flight is delayed. / Can you tell me where to go? 注意 confused 修饰人。
+
+- **citizen / transportation / pass** — 公民 / 交通 / 通过。搭配：a citizen of, public transportation, pass through。例句：I'm a citizen of China. / What transportation is available? / Show your pass. 注意 citizen = 公民/市民。
+
+- **get in / front door / translate** — 进入 / 前门 / 翻译。搭配：get in the building, the front door, translate this。例句：I couldn't get in without ID. / The front door is locked. / Can you translate this sign? 注意 get in = enter。
+
+- **security / baggage / check in** — 安检 / 行李 / 登机。搭配：at security, carry-on baggage, check in online。例句：Remove your shoes at security. / I have two pieces of baggage. / I checked in online. 注意 baggage 不可数（美式），英式 luggage。
+
+- **visa / abroad / embassy** — 签证 / 国外 / 大使馆。搭配：apply for a visa, go abroad, visit the embassy。例句：I applied for a visa. / She's studying abroad. / The embassy is downtown. 注意 abroad 前不加 to（go abroad 不是 ✗ go to abroad）。
+
+- **can't / won't / shouldn't** — 不能 / 不会 / 不应该。搭配：can't find, won't cancel, shouldn't worry。例句：I can't find my reservation. / The flight won't be canceled. / You shouldn't worry. 注意 won't = will not。
+
+- **fee / spare / confused** — 费用 / 备用 / 困惑。搭配：a booking fee, a spare ticket, feel confused。例句：The booking fee is ten dollars. / Do you have a spare pen? / I'm confused about the gate.
+
