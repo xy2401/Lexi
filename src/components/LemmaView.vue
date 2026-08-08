@@ -7,6 +7,7 @@ import { ref, computed, watch, onMounted } from 'vue'
 import { parseExchange, EXCHANGE_LABELS } from '../lib/morphology'
 import { lookupLocal, type WordEntry } from '../lib/db'
 import DictionaryTags from './DictionaryTags.vue'
+import PaginationBar from './PaginationBar.vue'
 
 export interface LemmaVariant {
   word: string
@@ -243,6 +244,16 @@ watch(paginatedEntries, async (items) => {
       </div>
     </div>
 
+    <!-- 顶部分页控制 -->
+    <PaginationBar
+      v-if="!loading && !error && filteredEntries.length > 0"
+      v-model:currentPage="currentPage"
+      v-model:pageSize="pageSize"
+      :totalPages="totalPages"
+      :totalItems="filteredEntries.length"
+      :top="true"
+    />
+
     <!-- 状态指示 -->
     <div v-if="loading" class="status-box">加载词族演变库中...</div>
     <div v-else-if="error" class="status-box error">{{ error }}</div>
@@ -295,13 +306,13 @@ watch(paginatedEntries, async (items) => {
     </div>
 
     <!-- 底部分页控制 -->
-    <div class="pagination-bar" v-if="filteredEntries.length > 0">
-      <span class="page-info">共 {{ filteredEntries.length }} 词族 | 第 {{ currentPage }} / {{ totalPages }} 页</span>
-      <div class="pagination-btns">
-        <button :disabled="currentPage === 1" @click="currentPage--" class="page-btn">上一页</button>
-        <button :disabled="currentPage >= totalPages" @click="currentPage++" class="page-btn">下一页</button>
-      </div>
-    </div>
+    <PaginationBar
+      v-if="!loading && !error && filteredEntries.length > 0"
+      v-model:currentPage="currentPage"
+      v-model:pageSize="pageSize"
+      :totalPages="totalPages"
+      :totalItems="filteredEntries.length"
+    />
   </div>
 </template>
 
@@ -581,46 +592,5 @@ watch(paginatedEntries, async (items) => {
 
 .speaker-btn:hover {
   opacity: 1;
-}
-
-.pagination-bar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background: #fff;
-  padding: 0.75rem 1rem;
-  border-radius: 8px;
-  border: 1px solid #e2e8f0;
-}
-
-.page-info {
-  font-size: 0.82rem;
-  color: #64748b;
-}
-
-.pagination-btns {
-  display: flex;
-  gap: 0.5rem;
-}
-
-.page-btn {
-  padding: 0.3rem 0.75rem;
-  border: 1px solid #cbd5e1;
-  background: #fff;
-  border-radius: 5px;
-  font-size: 0.8rem;
-  cursor: pointer;
-  transition: all 0.15s;
-}
-
-.page-btn:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
-}
-
-.page-btn:not(:disabled):hover {
-  background: #2c3e50;
-  border-color: #2c3e50;
-  color: #fff;
 }
 </style>

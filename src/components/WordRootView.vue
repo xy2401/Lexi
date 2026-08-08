@@ -4,6 +4,7 @@
  * 支持按词根、词义、例词检索与前后缀/词源筛选，包含全量分页
  */
 import { ref, computed, onMounted } from 'vue'
+import PaginationBar from './PaginationBar.vue'
 
 export interface WordRootItem {
   key: string
@@ -230,6 +231,16 @@ function speak(word: string, e: Event) {
       </div>
     </div>
 
+    <!-- 顶部分页组件 -->
+    <PaginationBar
+      v-if="!loading && !error && filteredItems.length > 0"
+      v-model:currentPage="currentPage"
+      v-model:pageSize="pageSize"
+      :totalPages="totalPages"
+      :totalItems="filteredItems.length"
+      :top="true"
+    />
+
     <!-- 加载与错误状态 -->
     <div v-if="loading" class="status-box">加载词根词缀库中...</div>
     <div v-else-if="error" class="status-box error">{{ error }}</div>
@@ -303,14 +314,14 @@ function speak(word: string, e: Event) {
       </div>
     </div>
 
-    <!-- 底部分页控制 -->
-    <div class="pagination-bar" v-if="filteredItems.length > 0">
-      <span class="page-info">共 {{ filteredItems.length }} 条记录 | 第 {{ currentPage }} / {{ totalPages }} 页</span>
-      <div class="pagination-btns">
-        <button :disabled="currentPage === 1" @click="currentPage--" class="page-btn">上一页</button>
-        <button :disabled="currentPage >= totalPages" @click="currentPage++" class="page-btn">下一页</button>
-      </div>
-    </div>
+    <!-- 底部分页组件 -->
+    <PaginationBar
+      v-if="!loading && !error && filteredItems.length > 0"
+      v-model:currentPage="currentPage"
+      v-model:pageSize="pageSize"
+      :totalPages="totalPages"
+      :totalItems="filteredItems.length"
+    />
   </div>
 </template>
 
@@ -608,46 +619,5 @@ function speak(word: string, e: Event) {
 
 .speaker-btn:hover {
   opacity: 1;
-}
-
-.pagination-bar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background: #fff;
-  padding: 0.75rem 1rem;
-  border-radius: 8px;
-  border: 1px solid #e2e8f0;
-}
-
-.page-info {
-  font-size: 0.82rem;
-  color: #64748b;
-}
-
-.pagination-btns {
-  display: flex;
-  gap: 0.5rem;
-}
-
-.page-btn {
-  padding: 0.3rem 0.75rem;
-  border: 1px solid #cbd5e1;
-  background: #fff;
-  border-radius: 5px;
-  font-size: 0.8rem;
-  cursor: pointer;
-  transition: all 0.15s;
-}
-
-.page-btn:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
-}
-
-.page-btn:not(:disabled):hover {
-  background: #2c3e50;
-  border-color: #2c3e50;
-  color: #fff;
 }
 </style>
