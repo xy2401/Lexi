@@ -46,6 +46,65 @@ onMounted(async () => {
   }
 })
 
+// 词源双语对照表 (用于顶部筛选栏：统一 中文 + 英文 风格)
+const ORIGIN_FILTER_MAP: Record<string, string> = {
+  'latin': '拉丁语 Latin',
+  'greek': '希腊语 Greek',
+  'old english': '古英语 Old English',
+  'middle english': '中古英语 Middle English',
+  'french': '法语 French',
+  'latin and greek': '拉丁/希腊语 Latin & Greek',
+  'german': '德语 German',
+  'italian': '意大利语 Italian',
+}
+
+function getOriginFilterLabel(orig?: string): string {
+  if (!orig) return ''
+  const lower = orig.toLowerCase().trim()
+  return ORIGIN_FILTER_MAP[lower] || `${orig}`
+}
+
+// 动态计算数据集中所有出现的词源
+const availableOrigins = computed(() => {
+  const set = new Set<string>()
+  for (const item of items.value) {
+    if (item.origin) set.add(item.origin)
+  }
+  return Array.from(set).sort()
+})
+
+// 类型双语对照表 (用于顶部筛选栏：统一 中文 + 英文 风格)
+const CLASS_FILTER_MAP: Record<string, string> = {
+  'all': '全部 All',
+  'root': '词根 Root',
+  'prefix': '前缀 Prefix',
+  'suffix': '后缀 Suffix',
+  'adjective-forming suffix': '形容词后缀 Adjective-Forming Suffix',
+  'noun-forming suffix': '名词后缀 Noun-Forming Suffix',
+  'verb-forming suffix': '动词后缀 Verb-Forming Suffix',
+  'adverb-forming suffix': '副词后缀 Adverb-Forming Suffix',
+  'adjective- and noun-forming suffix': '形/名双重后缀 Adj & Noun Suffix',
+}
+
+function getClassFilterLabel(cls: string): string {
+  if (!cls) return ''
+  const lower = cls.toLowerCase().trim()
+  return CLASS_FILTER_MAP[lower] || cls
+}
+
+// 预定义细化类型选项 (覆盖数据集包含的全部精准类型)
+const classOptions = [
+  { key: 'all', label: '全部 All' },
+  { key: 'root', label: '词根 Root' },
+  { key: 'prefix', label: '前缀 Prefix' },
+  { key: 'suffix', label: '后缀 Suffix' },
+  { key: 'adjective-forming suffix', label: '形容词后缀 Adjective-Forming Suffix' },
+  { key: 'noun-forming suffix', label: '名词后缀 Noun-Forming Suffix' },
+  { key: 'verb-forming suffix', label: '动词后缀 Verb-Forming Suffix' },
+  { key: 'adverb-forming suffix', label: '副词后缀 Adverb-Forming Suffix' },
+  { key: 'adjective- and noun-forming suffix', label: '形/名双重后缀 Adj & Noun Suffix' },
+]
+
 // 过滤后的数据列表
 const filteredItems = computed(() => {
   const q = searchQuery.value.trim().toLowerCase()
@@ -59,9 +118,12 @@ const filteredItems = computed(() => {
       if (cls === 'root' && !c.includes('root')) return false
       if (cls === 'prefix' && !c.includes('prefix')) return false
       if (cls === 'suffix' && !c.includes('suffix')) return false
+      if (cls !== 'root' && cls !== 'prefix' && cls !== 'suffix') {
+        if (c !== cls.toLowerCase()) return false
+      }
     }
 
-    // 词源筛选
+    // 词源筛选 (支持精准匹配或包含匹配)
     if (orig !== 'all') {
       if (!item.origin.toLowerCase().includes(orig.toLowerCase())) return false
     }
@@ -91,6 +153,27 @@ function resetPagination() {
   currentPage.value = 1
 }
 
+interface MeaningToken {
+  text: string
+  isWord: boolean
+}
+
+function parseMeaning(text?: string): MeaningToken[] {
+  if (!text) return []
+  const tokens: MeaningToken[] = []
+  const regex = /([a-zA-Z]+(?:[''-][a-zA-Z]+)*)|([^a-zA-Z]+)/g
+  let match: RegExpExecArray | null
+
+  while ((match = regex.exec(text)) !== null) {
+    if (match[1]) {
+      tokens.push({ text: match[1], isWord: true })
+    } else if (match[2]) {
+      tokens.push({ text: match[2], isWord: false })
+    }
+  }
+  return tokens
+}
+
 function selectWord(word: string) {
   emit('select-word', word)
 }
@@ -117,46 +200,32 @@ function speak(word: string, e: Event) {
         <button v-if="searchQuery" class="clear-btn" @click="searchQuery = ''; resetPagination()">&times;</button>
       </div>
 
-      <!-- 筛选组 -->
+      <!-- 筛选组 (统一：中文 + 英文 格式) -->
       <div class="filter-group">
+        <!-- 类型细化筛选 -->
         <div class="filter-row">
           <span class="filter-label">类型:</span>
           <button
-            :class="['filter-btn', { active: selectedClass === 'all' }]"
-            @click="selectedClass = 'all'; resetPagination()"
-          >全部</button>
-          <button
-            :class="['filter-btn', { active: selectedClass === 'root' }]"
-            @click="selectedClass = 'root'; resetPagination()"
-          >词根 Root</button>
-          <button
-            :class="['filter-btn', { active: selectedClass === 'prefix' }]"
-            @click="selectedClass = 'prefix'; resetPagination()"
-          >前缀 Prefix</button>
-          <button
-            :class="['filter-btn', { active: selectedClass === 'suffix' }]"
-            @click="selectedClass = 'suffix'; resetPagination()"
-          >后缀 Suffix</button>
+            v-for="opt in classOptions"
+            :key="opt.key"
+            :class="['filter-btn', { active: selectedClass === opt.key }]"
+            @click="selectedClass = opt.key; resetPagination()"
+          >{{ opt.label }}</button>
         </div>
 
-        <div class="filter-row">
+        <!-- 词源全量动态筛选 -->
+        <div class="filter-row" v-if="availableOrigins.length">
           <span class="filter-label">词源:</span>
           <button
             :class="['filter-btn', { active: selectedOrigin === 'all' }]"
             @click="selectedOrigin = 'all'; resetPagination()"
-          >全部</button>
+          >全部 All</button>
           <button
-            :class="['filter-btn', { active: selectedOrigin === 'latin' }]"
-            @click="selectedOrigin = 'latin'; resetPagination()"
-          >Latin (拉丁语)</button>
-          <button
-            :class="['filter-btn', { active: selectedOrigin === 'greek' }]"
-            @click="selectedOrigin = 'greek'; resetPagination()"
-          >Greek (希腊语)</button>
-          <button
-            :class="['filter-btn', { active: selectedOrigin === 'french' }]"
-            @click="selectedOrigin = 'french'; resetPagination()"
-          >French (法语)</button>
+            v-for="orig in availableOrigins"
+            :key="orig"
+            :class="['filter-btn', { active: selectedOrigin === orig }]"
+            @click="selectedOrigin = orig; resetPagination()"
+          >{{ getOriginFilterLabel(orig) }}</button>
         </div>
       </div>
     </div>
@@ -166,29 +235,59 @@ function speak(word: string, e: Event) {
     <div v-else-if="error" class="status-box error">{{ error }}</div>
     <div v-else-if="filteredItems.length === 0" class="status-box">未找到匹配的词根词缀</div>
 
-    <!-- 数据列表 -->
-    <div v-else class="cards-grid">
+    <!-- 数据列表 (自上而下自然流排版，左侧设纵向蓝条) -->
+    <div v-else class="cards-list">
       <div v-for="item in paginatedItems" :key="item.key" class="root-card">
+        <!-- 卡片标头：同一行展示（左侧：词根名 + 释义 + 同/反义词；右侧居右：原版英文类型 + 词源） -->
         <div class="card-header">
-          <div class="root-title">
+          <div class="header-left">
             <span class="root-text">{{ item.root }}</span>
+
+            <!-- 释义 (其中包含的英文单词均可交互点击查词) -->
+            <div class="meaning-box">
+              <span class="meaning-label">释义:</span>
+              <span class="meaning-tokens">
+                <template v-for="(t, idx) in parseMeaning(item.meaning)" :key="idx">
+                  <span
+                    v-if="t.isWord"
+                    class="meaning-word-link"
+                    @click="selectWord(t.text)"
+                    title="点击即时发音并弹窗查词"
+                  >{{ t.text }}</span>
+                  <span v-else class="plain-token">{{ t.text }}</span>
+                </template>
+              </span>
+            </div>
+
+            <!-- 同/反义词 (其中英文单词亦可点击查词) -->
+            <div class="syn-ant-inline" v-if="item.synonyms || item.antonyms">
+              <span v-if="item.synonyms" class="meta-tag syn">
+                同:
+                <template v-for="(t, idx) in parseMeaning(item.synonyms)" :key="idx">
+                  <span v-if="t.isWord" class="meaning-word-link" @click="selectWord(t.text)">{{ t.text }}</span>
+                  <span v-else>{{ t.text }}</span>
+                </template>
+              </span>
+              <span v-if="item.antonyms" class="meta-tag ant">
+                反:
+                <template v-for="(t, idx) in parseMeaning(item.antonyms)" :key="idx">
+                  <span v-if="t.isWord" class="meaning-word-link" @click="selectWord(t.text)">{{ t.text }}</span>
+                  <span v-else>{{ t.text }}</span>
+                </template>
+              </span>
+            </div>
+          </div>
+
+          <!-- 右侧：保留原版英文 Tag 展现 -->
+          <div class="header-right">
             <span class="badge class-badge">{{ item.class }}</span>
             <span class="badge origin-badge" v-if="item.origin">{{ item.origin }}</span>
           </div>
         </div>
 
-        <div class="card-body">
-          <p class="meaning-text">
-            <strong>释义:</strong> {{ item.meaning }}
-          </p>
-
-          <div class="syn-ant-row" v-if="item.synonyms || item.antonyms">
-            <span v-if="item.synonyms" class="meta-tag syn">同义: {{ item.synonyms }}</span>
-            <span v-if="item.antonyms" class="meta-tag ant">反义: {{ item.antonyms }}</span>
-          </div>
-
-          <div class="examples-section" v-if="item.examples && item.examples.length">
-            <span class="section-title">衍生例词 (点击朗读 / 查词):</span>
+        <!-- 卡片主体：衍生例词气泡流 -->
+        <div class="card-body" v-if="item.examples && item.examples.length">
+          <div class="examples-section">
             <div class="example-chips">
               <div
                 v-for="ex in item.examples"
@@ -325,43 +424,98 @@ function speak(word: string, e: Event) {
   color: #e74c3c;
 }
 
-.cards-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-  gap: 1rem;
+.cards-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
 }
 
 .root-card {
   background: #fff;
   border: 1px solid #e2e8f0;
+  border-left: 4px solid #3498db;
   border-radius: 8px;
-  padding: 1rem;
+  padding: 0.9rem 1.25rem;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
+  gap: 0.55rem;
 }
 
 .card-header {
-  border-bottom: 1px solid #f1f5f9;
-  padding-bottom: 0.5rem;
-}
-
-.root-title {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  border-bottom: 1px dashed #f1f5f9;
+  padding-bottom: 0.55rem;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  flex: 1;
+  min-width: 0;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-left: auto;
+  flex-shrink: 0;
 }
 
 .root-text {
-  font-size: 1.25rem;
+  font-size: 1.3rem;
   font-weight: 700;
   color: #2c3e50;
   font-family: monospace;
 }
 
+.meaning-box {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.35rem;
+  font-size: 0.92rem;
+}
+
+.meaning-label {
+  font-weight: 600;
+  color: #64748b;
+}
+
+.meaning-text {
+  color: #334155;
+}
+
+.meaning-word-link {
+  color: #2563eb;
+  cursor: pointer;
+  border-bottom: 1px dashed #93c5fd;
+  transition: all 0.15s;
+  padding: 0 0.1rem;
+}
+
+.meaning-word-link:hover {
+  color: #1d4ed8;
+  background: #eff6ff;
+  border-bottom-style: solid;
+  border-radius: 2px;
+}
+
+.syn-ant-inline {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.75rem;
+}
+
 .badge {
-  font-size: 0.7rem;
+  font-size: 0.72rem;
   padding: 0.15rem 0.45rem;
   border-radius: 4px;
   text-transform: lowercase;
@@ -370,17 +524,19 @@ function speak(word: string, e: Event) {
 .class-badge {
   background: #e0f2fe;
   color: #0369a1;
+  border: 1px solid #bae6fd;
 }
 
 .origin-badge {
   background: #f1f5f9;
   color: #475569;
+  border: 1px solid #e2e8f0;
 }
 
-.meaning-text {
-  margin: 0;
-  font-size: 0.9rem;
-  color: #334155;
+.card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
 }
 
 .syn-ant-row {
@@ -405,21 +561,24 @@ function speak(word: string, e: Event) {
 }
 
 .examples-section {
-  margin-top: 0.4rem;
   display: flex;
-  flex-direction: column;
-  gap: 0.35rem;
+  align-items: baseline;
+  gap: 0.6rem;
+  flex-wrap: wrap;
 }
 
-.section-title {
-  font-size: 0.75rem;
+.examples-label {
+  font-size: 0.78rem;
   color: #64748b;
+  font-weight: 600;
+  min-width: 60px;
 }
 
 .example-chips {
   display: flex;
   flex-wrap: wrap;
   gap: 0.35rem;
+  flex: 1;
 }
 
 .example-chip {
