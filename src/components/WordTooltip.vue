@@ -71,8 +71,8 @@ const tooltipStyle = computed(() => ({
           <button class="close-btn" aria-label="关闭词条" @click.stop="emit('close')">&times;</button>
         </div>
 
-        <!-- 加载中 -->
-        <div class="tooltip-body" v-if="loading">
+        <!-- 加载中 (无任何基础数据) -->
+        <div class="tooltip-body" v-if="loading && !data">
           <p class="loading-text">查询中...</p>
         </div>
 
@@ -91,6 +91,11 @@ const tooltipStyle = computed(() => ({
           </div>
 
           <p class="section pos" v-if="data.pos">{{ data.pos }}</p>
+
+          <!-- 静默补全中提示 -->
+          <div class="enriching-hint" v-if="loading && data.cacheLevel === 'hot'">
+            <span class="pulse-dot"></span> 完整释义加载中...
+          </div>
 
           <!-- 时态变形 -->
           <div class="section forms" v-if="forms.length">
@@ -254,6 +259,31 @@ const tooltipStyle = computed(() => ({
 .not-found, .loading-text {
   font-size: 0.85rem;
   color: #999;
+}
+
+.enriching-hint {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.75rem;
+  color: #3498db;
+  margin: 0.4rem 0;
+  padding: 0.25rem 0.5rem;
+  background: #f0f7fc;
+  border-radius: 4px;
+}
+
+.pulse-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: #3498db;
+  animation: pulse 1.2s infinite ease-in-out;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.3; transform: scale(0.8); }
+  50% { opacity: 1; transform: scale(1.2); }
 }
 
 </style>

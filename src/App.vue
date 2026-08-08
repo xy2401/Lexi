@@ -96,9 +96,11 @@ async function handleWordClick(payload: { word: string; x: number; y: number }) 
   tooltipPos.value = { x: payload.x, y: payload.y }
   showTooltip.value = true
   tooltipLoading.value = true
-
   tooltipData.value = null
-  const result = await lookupWord(payload.word)
+
+  const result = await lookupWord(payload.word, (hotEntry) => {
+    tooltipData.value = hotEntry
+  })
   tooltipData.value = result.entry
   tooltipLoading.value = false
 }
@@ -130,10 +132,14 @@ async function handleExplorerSelectWord(word: string) {
   dictionaryRecording.value = false
   explorerWord.value = word
   explorerEntry.value = null
-  const result = await lookupWord(word)
-  explorerEntry.value = result.entry
-  // 朗读
+
+  // 立即朗读发音（不等待词典网络请求）
   speak(word)
+
+  const result = await lookupWord(word, (hotEntry) => {
+    explorerEntry.value = hotEntry
+  })
+  explorerEntry.value = result.entry
 }
 
 function speakExplorerWord() {

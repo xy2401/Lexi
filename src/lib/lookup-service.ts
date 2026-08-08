@@ -18,7 +18,10 @@ function candidatesFor(word: string): string[] {
   return [...new Set([lower, restoreBase(lower)])]
 }
 
-export async function lookupWord(word: string): Promise<LookupResult> {
+export async function lookupWord(
+  word: string,
+  onHotFound?: (entry: WordEntry) => void,
+): Promise<LookupResult> {
   const lower = word.toLowerCase()
   const candidates = candidatesFor(lower)
   let hotFallback: WordEntry | null = null
@@ -35,7 +38,12 @@ export async function lookupWord(word: string): Promise<LookupResult> {
     if (local && !hotFallback) hotFallback = local
   }
 
-  // Hot 只负责首屏标注；用户点击时从同一主词典补齐完整行。
+  // 若存在本地 Hot 词条，第一时间回调 UI 渲染（实现 0ms 响应）
+  if (hotFallback && onHotFound) {
+    onHotFound(hotFallback)
+  }
+
+  // Hot 负责首屏及即时响应；后台异步从主词典补齐完整行。
   for (const candidate of candidates) {
     try {
       const remote = await queryDictionaryWord(candidate)
