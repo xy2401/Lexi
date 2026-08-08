@@ -2,6 +2,7 @@
 /**
  * PaginationBar Component
  * 通用标准分页组件：包含条数统计、[首页][上一页][下拉跳页][下一页][尾页]导航以及居右[每页条数选择]
+ * 当在底部分页点击切页/改条数时，自动平滑滚动锚点至顶部分页控制栏
  */
 import { computed } from 'vue'
 
@@ -46,9 +47,34 @@ const pageSelectOptions = computed(() => {
   return Array.from(opts).sort((a, b) => a - b)
 })
 
+// 底部分页触发展示区平滑锚点回顶 (精确对齐顶部分页控制栏)
+function scrollToTopAnchor() {
+  if (props.top) return // 顶部分页本身就在顶部，无需重复锚点滚动
+
+  const target = document.querySelector('.top-pagination') ||
+                 document.querySelector('.control-panel') ||
+                 document.querySelector('.wordroot-container') ||
+                 document.querySelector('.resemble-container') ||
+                 document.querySelector('.lemma-container')
+
+  if (target) {
+    const rect = target.getBoundingClientRect()
+    const scrollTop = window.pageYOffset || document.documentElement.scrollTop
+    const targetY = rect.top + scrollTop - 12 // 减去 12px 留出舒适边距
+
+    window.scrollTo({
+      top: Math.max(0, targetY),
+      behavior: 'smooth'
+    })
+  } else {
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+  }
+}
+
 function setPage(page: number) {
   if (page < 1 || page > props.totalPages || page === props.currentPage) return
   emit('update:currentPage', page)
+  scrollToTopAnchor()
 }
 
 function onPageSelect(e: Event) {
@@ -61,6 +87,7 @@ function onPageSizeSelect(e: Event) {
   if (!isNaN(size)) {
     emit('update:pageSize', size)
     emit('update:currentPage', 1)
+    scrollToTopAnchor()
   }
 }
 </script>
