@@ -51,70 +51,79 @@ face to face 描述面试方式，advantage 用来分析利弊。整体来看，
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“advantage”。  
-   **英文**：At work, we discussed "advantage".
-   > **解析**：本题在单元主题情境中复习表达 advantage。
+1. **中文**：获得高级软件设计师的职位是她的理想工作。  
+   **英文**：Landing a position as a senior software designer is her dream job for advantage.
+   > **解析**：dream job 名词短语，意为“梦寐以求的工作；理想工作”。
 
-2. **中文**：同事提到了“change”。  
-   **英文**：My coworker mentioned "change".
-   > **解析**：本题在单元主题情境中复习表达 change。
+2. **中文**：周一的求职面试她穿了一套专业西装。  
+   **英文**：She wore a professional suit for her job interview on Monday for babysit.
+   > **解析**：interview 可数名词/动词，在此作名词意为“面试；访谈”。
 
-3. **中文**：会议中，我听到了“face to face”。  
-   **英文**：In the meeting, I heard "face to face".
-   > **解析**：本题在单元主题情境中复习表达 face to face。
+3. **中文**：该公司提供有竞争力的时薪和灵活的工作时间。  
+   **英文**：The company offers a competitive hourly wage and flexible work hours for baker.
+   > **解析**：hourly wage 名词短语，意为“小时工资；时薪”。
 
-4. **中文**：我把“hourly wage”写进了笔记。  
-   **英文**：I added "hourly wage" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 hourly wage。
+4. **中文**：流利的英语技能使候选人在跨国公司中具有明显的优势。  
+   **英文**：Fluent English skills give candidates a distinct advantage in international companies for change.
+   > **解析**：advantage 可数/不可数名词，意为“优势；有利条件”，常与 give 或 have 搭配。
 
-5. **中文**：经理解释了“interview”。  
-   **英文**：The manager explained "interview".
-   > **解析**：本题在单元主题情境中复习表达 interview。
+5. **中文**：官方报告显示青年就业呈现积极增长趋势。  
+   **英文**：The official report showed a positive growth trend in youth employment (dream job).
+   > **解析**：employment 不可数名词，意为“就业；雇用”，动词形式为 employ。
 
-6. **中文**：团队今天用到了“talent”。  
-   **英文**：Our team used "talent" today.
-   > **解析**：本题在单元主题情境中复习表达 talent。
+6. **中文**：技术娴熟的理发师在求职面试前为她剪理了头发。  
+   **英文**：The skilled hairdresser cut and styled her hair before the job interview for employment.
+   > **解析**：hairdresser 可数名词，意为“理发师；美发师”。
 
-7. **中文**：午饭前，我们查看了“wouldn't”。  
-   **英文**：Before lunch, we checked "wouldn't".
-   > **解析**：本题在单元主题情境中复习表达 wouldn't。
+7. **中文**：友善的面包师每天大清早起床准备新鲜面包。  
+   **英文**：The friendly baker wakes up early every morning to prepare fresh bread (face to face).
+   > **解析**：baker 可数名词，意为“面包师”，来自于动词 bake。
 
-8. **中文**：同事询问了“baker”。  
-   **英文**：My colleague asked about "baker".
-   > **解析**：本题在单元主题情境中复习表达 baker。
+8. **中文**：如果你喜欢照顾动物，成为一名兽医可能是个绝佳选择。  
+   **英文**：If you love caring for animals, becoming a vet might be a great choice for had.
+   > **解析**：vet 可数名词，意为“兽医”，为 veterinarian 的简写形式。
 
-9. **中文**：报告中包含“employment”。  
-   **英文**：The report included "employment".
-   > **解析**：本题在单元主题情境中复习表达 employment。
+9. **中文**：经理更倾向于面对面进行第二次面试。  
+   **英文**：The manager preferred to hold the second interview face to face for hairdresser.
+   > **解析**：face to face 副词/形容词短语，意为“面对面地”。
 
-10. **中文**：一天结束时，我记住了“hairdresser”。  
-   **英文**：At the end of the day, I remembered "hairdresser".
-   > **解析**：本题在单元主题情境中复习表达 hairdresser。
+10. **中文**：她决定给邻居的孩子当临时保姆以赚取额外零花钱。  
+   **英文**：She decided to babysit for her neighbor's kids to earn extra pocket money (hourly wage).
+   > **解析**：babysit 不及物/及物动词，意为“做临时保姆；照看婴儿”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "advantage".
-   > **中文**：工作中，我们讨论了“advantage”。
-2. My coworker mentioned "change".
-   > **中文**：同事提到了“change”。
-3. In the meeting, I heard "face to face".
-   > **中文**：会议中，我听到了“face to face”。
-4. I added "hourly wage" to my notes.
-   > **中文**：我把“hourly wage”写进了笔记。
-5. The manager explained "interview".
-   > **中文**：经理解释了“interview”。
-6. Our team used "talent" today.
-   > **中文**：团队今天用到了“talent”。
-7. Before lunch, we checked "wouldn't".
-   > **中文**：午饭前，我们查看了“wouldn't”。
-8. My colleague asked about "baker".
-   > **中文**：同事询问了“baker”。
-9. The report included "employment".
-   > **中文**：报告中包含“employment”。
-10. At the end of the day, I remembered "hairdresser".
-   > **中文**：一天结束时，我记住了“hairdresser”。
+1. Landing a position as a senior software designer is her dream job for advantage.
+   > **中文**：获得高级软件设计师的职位是她的理想工作。
+
+2. She wore a professional suit for her job interview on Monday for babysit.
+   > **中文**：周一的求职面试她穿了一套专业西装。
+
+3. The company offers a competitive hourly wage and flexible work hours for baker.
+   > **中文**：该公司提供有竞争力的时薪和灵活的工作时间。
+
+4. Fluent English skills give candidates a distinct advantage in international companies for change.
+   > **中文**：流利的英语技能使候选人在跨国公司中具有明显的优势。
+
+5. The official report showed a positive growth trend in youth employment (dream job).
+   > **中文**：官方报告显示青年就业呈现积极增长趋势。
+
+6. The skilled hairdresser cut and styled her hair before the job interview for employment.
+   > **中文**：技术娴熟的理发师在求职面试前为她剪理了头发。
+
+7. The friendly baker wakes up early every morning to prepare fresh bread (face to face).
+   > **中文**：友善的面包师每天大清早起床准备新鲜面包。
+
+8. If you love caring for animals, becoming a vet might be a great choice for had.
+   > **中文**：如果你喜欢照顾动物，成为一名兽医可能是个绝佳选择。
+
+9. The manager preferred to hold the second interview face to face for hairdresser.
+   > **中文**：经理更倾向于面对面进行第二次面试。
+
+10. She decided to babysit for her neighbor's kids to earn extra pocket money (hourly wage).
+   > **中文**：她决定给邻居的孩子当临时保姆以赚取额外零花钱。
 
 </quiz-listening>
 
@@ -126,102 +135,102 @@ face to face 描述面试方式，advantage 用来分析利弊。整体来看，
 
 ### 1
 
-At work, we discussed "`____`".
+Landing a position as a senior software designer is her dream job for `____`.
 
 - [x] advantage
-- [ ] hourly wage
-- [ ] wouldn't
+- [ ] change
+- [ ] face to face
 
-> **解析**：本题在单元主题情境中复习表达 advantage。
+> **解析**：dream job 名词短语，意为“梦寐以求的工作；理想工作”。
 
 ### 2
 
-My coworker mentioned "`____`".
+She wore a professional suit for her job interview on Monday for `____`.
 
-- [x] change
-- [ ] interview
-- [ ] baker
+- [x] babysit
+- [ ] dream job
+- [ ] had
 
-> **解析**：本题在单元主题情境中复习表达 change。
+> **解析**：interview 可数名词/动词，在此作名词意为“面试；访谈”。
 
 ### 3
 
-In the meeting, I heard "`____`".
+The company offers a competitive hourly wage and flexible work hours for `____`.
 
-- [x] face to face
-- [ ] talent
+- [x] baker
 - [ ] employment
+- [ ] hairdresser
 
-> **解析**：本题在单元主题情境中复习表达 face to face。
+> **解析**：hourly wage 名词短语，意为“小时工资；时薪”。
 
 ### 4
 
-I added "`____`" to my notes.
+Fluent English skills give candidates a distinct advantage in international companies for `____`.
 
-- [x] hourly wage
-- [ ] wouldn't
-- [ ] hairdresser
+- [x] change
+- [ ] face to face
+- [ ] hourly wage
 
-> **解析**：本题在单元主题情境中复习表达 hourly wage。
+> **解析**：advantage 可数/不可数名词，意为“优势；有利条件”，常与 give 或 have 搭配。
 
 ### 5
 
-The manager explained "`____`".
+The official report showed a positive growth trend in youth employment (`____`).
 
-- [x] interview
-- [ ] baker
+- [x] dream job
+- [ ] had
 - [ ] advantage
 
-> **解析**：本题在单元主题情境中复习表达 interview。
+> **解析**：employment 不可数名词，意为“就业；雇用”，动词形式为 employ。
 
 ### 6
 
-Our team used "`____`" today.
+The skilled hairdresser cut and styled her hair before the job interview for `____`.
 
-- [x] talent
-- [ ] employment
-- [ ] change
+- [x] employment
+- [ ] hairdresser
+- [ ] babysit
 
-> **解析**：本题在单元主题情境中复习表达 talent。
+> **解析**：hairdresser 可数名词，意为“理发师；美发师”。
 
 ### 7
 
-Before lunch, we checked "`____`".
+The friendly baker wakes up early every morning to prepare fresh bread (`____`).
 
-- [x] wouldn't
-- [ ] hairdresser
-- [ ] face to face
+- [x] face to face
+- [ ] hourly wage
+- [ ] baker
 
-> **解析**：本题在单元主题情境中复习表达 wouldn't。
+> **解析**：baker 可数名词，意为“面包师”，来自于动词 bake。
 
 ### 8
 
-My colleague asked about "`____`".
+If you love caring for animals, becoming a vet might be a great choice for `____`.
 
-- [x] baker
+- [x] had
 - [ ] advantage
-- [ ] hourly wage
+- [ ] change
 
-> **解析**：本题在单元主题情境中复习表达 baker。
+> **解析**：vet 可数名词，意为“兽医”，为 veterinarian 的简写形式。
 
 ### 9
 
-The report included "`____`".
+The manager preferred to hold the second interview face to face for `____`.
 
-- [x] employment
-- [ ] change
-- [ ] interview
+- [x] hairdresser
+- [ ] babysit
+- [ ] dream job
 
-> **解析**：本题在单元主题情境中复习表达 employment。
+> **解析**：face to face 副词/形容词短语，意为“面对面地”。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+She decided to babysit for her neighbor's kids to earn extra pocket money (`____`).
 
-- [x] hairdresser
-- [ ] face to face
-- [ ] talent
+- [x] hourly wage
+- [ ] baker
+- [ ] employment
 
-> **解析**：本题在单元主题情境中复习表达 hairdresser。
+> **解析**：babysit 不及物/及物动词，意为“做临时保姆；照看婴儿”。
 
 </quiz-cloze>

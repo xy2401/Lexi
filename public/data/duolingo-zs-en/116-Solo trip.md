@@ -61,70 +61,79 @@ on the other hand 表示"另一方面"（用于对比）。farther / farthest �
 
 <quiz-sentence-builder>
 
-1. **中文**：我第一次独自旅行。  
-   **英文**：I traveled solo for the first time.
-   > **解析**：本题在单元主题情境中复习表达 solo。
+1. **中文**：独自旅行让你能够完全自由地规划每日行程。  
+   **英文**：Traveling solo gives you complete freedom to plan your daily schedule for arrival.
+   > **解析**：solo 作形容词/副词，意为“单独的，独自的”。travel solo 表示“独自旅行”。
 
-2. **中文**：到达后我感到想家。  
-   **英文**：I felt homesick after my arrival.
-   > **解析**：本题在单元主题情境中复习表达 homesick。
+2. **中文**：经验丰富的旅行者总是轻装简行并妥善保管证件。  
+   **英文**：An experienced traveler always packs light and keeps documents safe for continent.
+   > **解析**：traveler 作可数名词，意为“旅行者，游客”。在句中作主语。
 
-3. **中文**：我通过护照检查并预订了接驳车。  
-   **英文**：I went through passport control and reserved a shuttle.
-   > **解析**：本题在单元主题情境中复习表达 passport control。
+3. **中文**：跟团游很有条理；另一方面，独自旅行更加灵活。  
+   **英文**：Group tours are organized; on the other hand, solo trips are more flexible for extra.
+   > **解析**：on the other hand 为固定短语，作连接副词意为“另一方面”，用于对比。
 
-4. **中文**：酒店就在附近，就在那边。  
-   **英文**：The hotel was nearby, just over there.
-   > **解析**：本题在单元主题情境中复习表达 nearby。
+4. **中文**：航班降落后，我们在护照检查处接受了签证检查。  
+   **英文**：We had our visas checked at passport control after our flight landed for fare.
+   > **解析**：passport control 为名词短语，意为“护照检查处，边检”。
 
-5. **中文**：我打开行李并洗了衣服。  
-   **英文**：I unpacked my bag and did the laundry.
-   > **解析**：本题在单元主题情境中复习表达 laundry。
+5. **中文**：请查看机场航站楼的到达告示牌获取登机口信息。  
+   **英文**：Please check the arrival board at the airport terminal for gate information for farther.
+   > **解析**：arrival 作名词，意为“到达，到达区”。arrival board 指“到达航班告示牌”。
 
-6. **中文**：费用比我预想的高得多。  
-   **英文**：The fare was much higher than I expected.
-   > **解析**：本题在单元主题情境中复习表达 fare。
+6. **中文**：在旅游旺季提前预订酒店房间是明智之举。  
+   **英文**：It is wise to reserve your hotel room in advance during peak season for farthest.
+   > **解析**：reserve 作及物动词，意为“预订，保留”。reserve a room 意为“订房间”。
 
-7. **中文**：独自旅行者需要公共交通。  
-   **英文**：A solo traveler needs public transportation.
-   > **解析**：本题在单元主题情境中复习表达 public transportation。
+7. **中文**：我们乘坐免费的酒店接驳车直接从机场到达房间。  
+   **英文**：We took the complimentary hotel shuttle from the airport directly to our room (for the first time).
+   > **解析**：shuttle (shuttle bus) 作名词，意为“接驳车，班车”。
 
-8. **中文**：你最喜欢哪个大洲？  
-   **英文**：Which continent did you like best?
-   > **解析**：本题在单元主题情境中复习表达 continent。
+8. **中文**：我们决定沿着海滩走得更远一些，寻找一块安宁的地方。  
+   **英文**：We decided to walk farther down the beach to find a peaceful spot for homesick.
+   > **解析**：farther 作 far 的比较级副词，意为“更远地（物理距离）”。
 
-9. **中文**：我在接驳车上预订了一个额外座位。  
-   **英文**：I reserved an extra seat on the shuttle.
-   > **解析**：本题在单元主题情境中复习表达 extra。
+9. **中文**：在出国留学的第一个星期里，她感觉有点想家。  
+   **英文**：She felt a little homesick during her first week studying abroad for land.
+   > **解析**：homesick 作形容词，意为“想家的，思乡的”。feel homesick 意为“想家”。
 
-10. **中文**：机场比我想象的更远。  
-   **英文**：The airport was farther away than I thought.
-   > **解析**：本题在单元主题情境中复习表达 farther。
+10. **中文**：乘坐公共交通是在城市各处游览的一种划算方式。  
+   **英文**：Taking public transportation is an affordable way to travel around the city for laundry.
+   > **解析**：public transportation 为不可数名词短语，意为“公共交通”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I traveled solo for the first time.
-   > **中文**：我第一次独自旅行。
-2. I felt homesick after my arrival.
-   > **中文**：到达后我感到想家。
-3. I went through passport control and reserved a shuttle.
-   > **中文**：我通过护照检查并预订了接驳车。
-4. The hotel was nearby, just over there.
-   > **中文**：酒店就在附近，就在那边。
-5. I unpacked my bag and did the laundry.
-   > **中文**：我打开行李并洗了衣服。
-6. The fare was much higher than I expected.
-   > **中文**：费用比我预想的高得多。
-7. A solo traveler needs public transportation.
-   > **中文**：独自旅行者需要公共交通。
-8. Which continent did you like best?
-   > **中文**：你最喜欢哪个大洲？
-9. I reserved an extra seat on the shuttle.
-   > **中文**：我在接驳车上预订了一个额外座位。
-10. The airport was farther away than I thought.
-   > **中文**：机场比我想象的更远。
+1. Traveling solo gives you complete freedom to plan your daily schedule for arrival.
+   > **中文**：独自旅行让你能够完全自由地规划每日行程。
+
+2. An experienced traveler always packs light and keeps documents safe for continent.
+   > **中文**：经验丰富的旅行者总是轻装简行并妥善保管证件。
+
+3. Group tours are organized; on the other hand, solo trips are more flexible for extra.
+   > **中文**：跟团游很有条理；另一方面，独自旅行更加灵活。
+
+4. We had our visas checked at passport control after our flight landed for fare.
+   > **中文**：航班降落后，我们在护照检查处接受了签证检查。
+
+5. Please check the arrival board at the airport terminal for gate information for farther.
+   > **中文**：请查看机场航站楼的到达告示牌获取登机口信息。
+
+6. It is wise to reserve your hotel room in advance during peak season for farthest.
+   > **中文**：在旅游旺季提前预订酒店房间是明智之举。
+
+7. We took the complimentary hotel shuttle from the airport directly to our room (for the first time).
+   > **中文**：我们乘坐免费的酒店接驳车直接从机场到达房间。
+
+8. We decided to walk farther down the beach to find a peaceful spot for homesick.
+   > **中文**：我们决定沿着海滩走得更远一些，寻找一块安宁的地方。
+
+9. She felt a little homesick during her first week studying abroad for land.
+   > **中文**：在出国留学的第一个星期里，她感觉有点想家。
+
+10. Taking public transportation is an affordable way to travel around the city for laundry.
+   > **中文**：乘坐公共交通是在城市各处游览的一种划算方式。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ on the other hand 表示"另一方面"（用于对比）。farther / farthest �
 
 ### 1
 
-I traveled `____` for the first time.
+Traveling solo gives you complete freedom to plan your daily schedule for `____`.
 
-- [x] solo
-- [ ] nearby
-- [ ] public transportation
+- [x] arrival
+- [ ] fare
+- [ ] for the first time
 
-> **解析**：本题在单元主题情境中复习表达 solo。
+> **解析**：solo 作形容词/副词，意为“单独的，独自的”。travel solo 表示“独自旅行”。
 
 ### 2
 
-I felt `____` after my arrival.
+An experienced traveler always packs light and keeps documents safe for `____`.
 
-- [x] homesick
-- [ ] laundry
-- [ ] continent
+- [x] continent
+- [ ] farther
+- [ ] homesick
 
-> **解析**：本题在单元主题情境中复习表达 homesick。
+> **解析**：traveler 作可数名词，意为“旅行者，游客”。在句中作主语。
 
 ### 3
 
-I went through `____` and reserved a shuttle.
+Group tours are organized; on the other hand, solo trips are more flexible for `____`.
 
-- [x] passport control
-- [ ] fare
-- [ ] extra
+- [x] extra
+- [ ] farthest
+- [ ] land
 
-> **解析**：本题在单元主题情境中复习表达 passport control。
+> **解析**：on the other hand 为固定短语，作连接副词意为“另一方面”，用于对比。
 
 ### 4
 
-The hotel was `____`, just over there.
+We had our visas checked at passport control after our flight landed for `____`.
 
-- [x] nearby
-- [ ] public transportation
-- [ ] farther
+- [x] fare
+- [ ] for the first time
+- [ ] laundry
 
-> **解析**：本题在单元主题情境中复习表达 nearby。
+> **解析**：passport control 为名词短语，意为“护照检查处，边检”。
 
 ### 5
 
-I unpacked my bag and did the `____`.
+Please check the arrival board at the airport terminal for gate information for `____`.
 
-- [x] laundry
-- [ ] continent
-- [ ] solo
+- [x] farther
+- [ ] homesick
+- [ ] arrival
 
-> **解析**：本题在单元主题情境中复习表达 laundry。
+> **解析**：arrival 作名词，意为“到达，到达区”。arrival board 指“到达航班告示牌”。
 
 ### 6
 
-The `____` was much higher than I expected.
+It is wise to reserve your hotel room in advance during peak season for `____`.
 
-- [x] fare
-- [ ] extra
-- [ ] homesick
+- [x] farthest
+- [ ] land
+- [ ] continent
 
-> **解析**：本题在单元主题情境中复习表达 fare。
+> **解析**：reserve 作及物动词，意为“预订，保留”。reserve a room 意为“订房间”。
 
 ### 7
 
-A solo traveler needs `____`.
+We took the complimentary hotel shuttle from the airport directly to our room (`____`).
 
-- [x] public transportation
-- [ ] farther
-- [ ] passport control
+- [x] for the first time
+- [ ] laundry
+- [ ] extra
 
-> **解析**：本题在单元主题情境中复习表达 public transportation。
+> **解析**：shuttle (shuttle bus) 作名词，意为“接驳车，班车”。
 
 ### 8
 
-Which `____` did you like best?
+We decided to walk farther down the beach to find a peaceful spot for `____`.
 
-- [x] continent
-- [ ] solo
-- [ ] nearby
+- [x] homesick
+- [ ] arrival
+- [ ] fare
 
-> **解析**：本题在单元主题情境中复习表达 continent。
+> **解析**：farther 作 far 的比较级副词，意为“更远地（物理距离）”。
 
 ### 9
 
-I reserved an `____` seat on the shuttle.
+She felt a little homesick during her first week studying abroad for `____`.
 
-- [x] extra
-- [ ] homesick
-- [ ] laundry
+- [x] land
+- [ ] continent
+- [ ] farther
 
-> **解析**：本题在单元主题情境中复习表达 extra。
+> **解析**：homesick 作形容词，意为“想家的，思乡的”。feel homesick 意为“想家”。
 
 ### 10
 
-The airport was `____` away than I thought.
+Taking public transportation is an affordable way to travel around the city for `____`.
 
-- [x] farther
-- [ ] passport control
-- [ ] fare
+- [x] laundry
+- [ ] extra
+- [ ] farthest
 
-> **解析**：本题在单元主题情境中复习表达 farther。
+> **解析**：public transportation 为不可数名词短语，意为“公共交通”。
 
 </quiz-cloze>

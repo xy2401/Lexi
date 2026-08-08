@@ -55,70 +55,79 @@ architecture, been, collection, cycling, ever since, go for a run, has been, hav
 
 <quiz-sentence-builder>
 
-1. **中文**：谈论喜好时，我听到了“architecture”。  
-   **英文**：When we talked about favorites, I heard "architecture".
-   > **解析**：本题在单元主题情境中复习表达 architecture。
+1. **中文**：除了锻炼之外，她对研究传统欧洲建筑有着浓厚的兴趣。  
+   **英文**：Besides exercising, she has a keen interest in studying traditional European architecture.
+   > **解析**：architecture 为不可数名词，意为“建筑、建筑学/建筑风格”。
 
-2. **中文**：朋友说“cycling”很重要。  
-   **英文**：My friend said "cycling" was important.
-   > **解析**：本题在单元主题情境中复习表达 cycling。
+2. **中文**：室内骑行已成为我今年冬天最喜欢的有氧健身运动之一。  
+   **英文**：Indoor cycling has become one of my favorite cardio workouts this winter for been.
+   > **解析**：cycling 为动名词/名词，意为“骑自行车运动”。indoor cycling 即室内骑行。
 
-3. **中文**：我问他们喜欢哪一个：“have been”。  
-   **英文**：I asked which one they liked: "have been".
-   > **解析**：本题在单元主题情境中复习表达 have been。
+3. **中文**：我为了这场马拉松比赛已经训练了六多月。  
+   **英文**：I have been training for the marathon for more than six months for collection.
+   > **解析**：have been training 为现在完成进行时（have been + V-ing），强调从过去持续至今的健身锻炼动作。
 
-4. **中文**：聊天时，我们比较了“jog”。  
-   **英文**：In our chat, we compared "jog".
-   > **解析**：本题在单元主题情境中复习表达 jog。
+4. **中文**：我通常每天早上绕着社区跑道慢跑三十分钟。  
+   **英文**：I usually jog for thirty minutes around the neighborhood track every morning for cycling.
+   > **解析**：jog 为不及物动词，意为“慢跑”。jog for 30 minutes 表达慢跑时长。
 
-5. **中文**：同伴先选择了“less often”。  
-   **英文**：My partner chose "less often" first.
-   > **解析**：本题在单元主题情境中复习表达 less often。
+5. **中文**：自从换了工作，他去健身房的频率比以前低了。  
+   **英文**：Since changing jobs, he goes to the fitness gym less often than before (ever since).
+   > **解析**：less often 为频率比较级短语，意为“较少地、不那么频繁”。
 
-6. **中文**：我们用“regularly”描述喜好。  
-   **英文**：We used "regularly" to describe a favorite.
-   > **解析**：本题在单元主题情境中复习表达 regularly。
+6. **中文**：定期规律地锻炼对于维持身心健康至关重要。  
+   **英文**：Exercising regularly is essential for maintaining physical and mental health (go for a run).
+   > **解析**：regularly 为副词，意为“定期地、规律地”，在此处修饰动名词短语 Exercising。
 
-7. **中文**：答案中包含“very long”。  
-   **英文**：The answer included "very long".
-   > **解析**：本题在单元主题情境中复习表达 very long。
+7. **中文**：因为高温酷热，我在桑拿房里待不了太长时间。  
+   **英文**：I cannot stay in the sauna for very long because of the intense heat (has been).
+   > **解析**：very long 为时间副词短语，意为“很长时间”，在否定句中修饰时间持续。
 
-8. **中文**：我从对话中记住了“been”。  
-   **英文**：I remembered "been" from the conversation.
-   > **解析**：本题在单元主题情境中复习表达 been。
+8. **中文**：你去过公园附近那个新的体育综合馆吗？  
+   **英文**：Have you ever been to the new sports complex near the park? (have been).
+   > **解析**：been 是 be 的过去分词。Have you been to... 意为“你曾去过某地吗”。
 
-9. **中文**：朋友微笑着重复了“go for a run”。  
-   **英文**：My friend repeated "go for a run" with a smile.
-   > **解析**：本题在单元主题情境中复习表达 go for a run。
+9. **中文**：天气晴朗时，我喜欢去河滨公园跑步。  
+   **英文**：When the weather is clear, I like to go for a run in the riverside park for honestly.
+   > **解析**：go for a run 为固定动词短语，意为“去跑步”，相当于 go running。
 
-10. **中文**：那场关于喜好的聊天以“honestly”收尾。  
-   **英文**：That chat about favorites ended with "honestly".
-   > **解析**：本题在单元主题情境中复习表达 honestly。
+10. **中文**：说实话，我觉得要坚持晨练作息相当有挑战性。  
+   **英文**：Honestly, I find it quite challenging to stick to a morning workout routine (how long).
+   > **解析**：honestly 为句首评注性副词，意为“坦白说、说实话”，引出对运动习惯的真实感想。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. When we talked about favorites, I heard "architecture".
-   > **中文**：谈论喜好时，我听到了“architecture”。
-2. My friend said "cycling" was important.
-   > **中文**：朋友说“cycling”很重要。
-3. I asked which one they liked: "have been".
-   > **中文**：我问他们喜欢哪一个：“have been”。
-4. In our chat, we compared "jog".
-   > **中文**：聊天时，我们比较了“jog”。
-5. My partner chose "less often" first.
-   > **中文**：同伴先选择了“less often”。
-6. We used "regularly" to describe a favorite.
-   > **中文**：我们用“regularly”描述喜好。
-7. The answer included "very long".
-   > **中文**：答案中包含“very long”。
-8. I remembered "been" from the conversation.
-   > **中文**：我从对话中记住了“been”。
-9. My friend repeated "go for a run" with a smile.
-   > **中文**：朋友微笑着重复了“go for a run”。
-10. That chat about favorites ended with "honestly".
-   > **中文**：那场关于喜好的聊天以“honestly”收尾。
+1. Besides exercising, she has a keen interest in studying traditional European architecture.
+   > **中文**：除了锻炼之外，她对研究传统欧洲建筑有着浓厚的兴趣。
+
+2. Indoor cycling has become one of my favorite cardio workouts this winter for been.
+   > **中文**：室内骑行已成为我今年冬天最喜欢的有氧健身运动之一。
+
+3. I have been training for the marathon for more than six months for collection.
+   > **中文**：我为了这场马拉松比赛已经训练了六多月。
+
+4. I usually jog for thirty minutes around the neighborhood track every morning for cycling.
+   > **中文**：我通常每天早上绕着社区跑道慢跑三十分钟。
+
+5. Since changing jobs, he goes to the fitness gym less often than before (ever since).
+   > **中文**：自从换了工作，他去健身房的频率比以前低了。
+
+6. Exercising regularly is essential for maintaining physical and mental health (go for a run).
+   > **中文**：定期规律地锻炼对于维持身心健康至关重要。
+
+7. I cannot stay in the sauna for very long because of the intense heat (has been).
+   > **中文**：因为高温酷热，我在桑拿房里待不了太长时间。
+
+8. Have you ever been to the new sports complex near the park? (have been).
+   > **中文**：你去过公园附近那个新的体育综合馆吗？
+
+9. When the weather is clear, I like to go for a run in the riverside park for honestly.
+   > **中文**：天气晴朗时，我喜欢去河滨公园跑步。
+
+10. Honestly, I find it quite challenging to stick to a morning workout routine (how long).
+   > **中文**：说实话，我觉得要坚持晨练作息相当有挑战性。
 
 </quiz-listening>
 
@@ -130,102 +139,102 @@ architecture, been, collection, cycling, ever since, go for a run, has been, hav
 
 ### 1
 
-When we talked about favorites, I heard "`____`".
+Besides exercising, she has a keen interest in studying traditional European `____`.
 
 - [x] architecture
-- [ ] jog
-- [ ] very long
+- [ ] cycling
+- [ ] has been
 
-> **解析**：本题在单元主题情境中复习表达 architecture。
+> **解析**：architecture 为不可数名词，意为“建筑、建筑学/建筑风格”。
 
 ### 2
 
-My friend said "`____`" was important.
+Indoor cycling has become one of my favorite cardio workouts this winter for `____`.
 
-- [x] cycling
-- [ ] less often
-- [ ] been
+- [x] been
+- [ ] ever since
+- [ ] have been
 
-> **解析**：本题在单元主题情境中复习表达 cycling。
+> **解析**：cycling 为动名词/名词，意为“骑自行车运动”。indoor cycling 即室内骑行。
 
 ### 3
 
-I asked which one they liked: "`____`".
+I have been training for the marathon for more than six months for `____`.
 
-- [x] have been
-- [ ] regularly
+- [x] collection
 - [ ] go for a run
+- [ ] honestly
 
-> **解析**：本题在单元主题情境中复习表达 have been。
+> **解析**：have been training 为现在完成进行时（have been + V-ing），强调从过去持续至今的健身锻炼动作。
 
 ### 4
 
-In our chat, we compared "`____`".
+I usually jog for thirty minutes around the neighborhood track every morning for `____`.
 
-- [x] jog
-- [ ] very long
-- [ ] honestly
+- [x] cycling
+- [ ] has been
+- [ ] how long
 
-> **解析**：本题在单元主题情境中复习表达 jog。
+> **解析**：jog 为不及物动词，意为“慢跑”。jog for 30 minutes 表达慢跑时长。
 
 ### 5
 
-My partner chose "`____`" first.
+Since changing jobs, he goes to the fitness gym less often than before (`____`).
 
-- [x] less often
-- [ ] been
+- [x] ever since
+- [ ] have been
 - [ ] architecture
 
-> **解析**：本题在单元主题情境中复习表达 less often。
+> **解析**：less often 为频率比较级短语，意为“较少地、不那么频繁”。
 
 ### 6
 
-We used "`____`" to describe a favorite.
+Exercising regularly is essential for maintaining physical and mental health (`____`).
 
-- [x] regularly
-- [ ] go for a run
-- [ ] cycling
+- [x] go for a run
+- [ ] honestly
+- [ ] been
 
-> **解析**：本题在单元主题情境中复习表达 regularly。
+> **解析**：regularly 为副词，意为“定期地、规律地”，在此处修饰动名词短语 Exercising。
 
 ### 7
 
-The answer included "`____`".
+I cannot stay in the sauna for very long because of the intense heat (`____`).
 
-- [x] very long
-- [ ] honestly
-- [ ] have been
+- [x] has been
+- [ ] how long
+- [ ] collection
 
-> **解析**：本题在单元主题情境中复习表达 very long。
+> **解析**：very long 为时间副词短语，意为“很长时间”，在否定句中修饰时间持续。
 
 ### 8
 
-I remembered "`____`" from the conversation.
+Have you ever been to the new sports complex near the park? (`____`).
 
-- [x] been
+- [x] have been
 - [ ] architecture
-- [ ] jog
+- [ ] cycling
 
-> **解析**：本题在单元主题情境中复习表达 been。
+> **解析**：been 是 be 的过去分词。Have you been to... 意为“你曾去过某地吗”。
 
 ### 9
 
-My friend repeated "`____`" with a smile.
+When the weather is clear, I like to go for a run in the riverside park for `____`.
 
-- [x] go for a run
-- [ ] cycling
-- [ ] less often
+- [x] honestly
+- [ ] been
+- [ ] ever since
 
-> **解析**：本题在单元主题情境中复习表达 go for a run。
+> **解析**：go for a run 为固定动词短语，意为“去跑步”，相当于 go running。
 
 ### 10
 
-That chat about favorites ended with "`____`".
+Honestly, I find it quite challenging to stick to a morning workout routine (`____`).
 
-- [x] honestly
-- [ ] have been
-- [ ] regularly
+- [x] how long
+- [ ] collection
+- [ ] go for a run
 
-> **解析**：本题在单元主题情境中复习表达 honestly。
+> **解析**：honestly 为句首评注性副词，意为“坦白说、说实话”，引出对运动习惯的真实感想。
 
 </quiz-cloze>

@@ -63,70 +63,79 @@ ambitious, disagreement, embarrassment, feeling, get, had, hadn't, if only, it t
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“ambitious”。  
-   **英文**：In this situation, I heard "ambitious".
-   > **解析**：本题在单元主题情境中复习表达 ambitious。
+1. **中文**：一次性承担三个重大项目是一个过于雄心勃勃（缺乏现实考量）的决定。  
+   **英文**：Taking on three major projects at once was an overly ambitious decision.
+   > **解析**：`ambitious` 形容词，意为“有雄心的；抱负不凡的”。修饰 `decision`。
 
-2. **中文**：同伴解释了“feeling”。  
-   **英文**：My partner explained "feeling".
-   > **解析**：本题在单元主题情境中复习表达 feeling。
+2. **中文**：我有一种糟糕的直觉，觉得我没锁前门。  
+   **英文**：I had a bad feeling that I had left the front door unlocked for disagreement.
+   > **解析**：`feeling` 名词，意为“感觉；直觉”。搭配 `have a bad feeling that...`。
 
-3. **中文**：我们一起谈到了“if only”。  
-   **英文**：We talked about "if only" together.
-   > **解析**：本题在单元主题情境中复习表达 if only。
+3. **中文**：要是我在寄出机密包裹之前核对过两次地址就好了！  
+   **英文**：If only I had double-checked the address before sending the confidential package for embarrassment.
+   > **解析**：`if only` 引导虚拟语气从句，表达对过去错误的深刻遗憾。
 
-4. **中文**：我记下了“judging by”。  
-   **英文**：I wrote down "judging by".
-   > **解析**：本题在单元主题情境中复习表达 judging by。
+4. **中文**：从他安静的反应来看，他显然对反馈感到不满。  
+   **英文**：Judging by his quiet reaction, he was clearly unhappy with the feedback for feeling.
+   > **解析**：`judging by / from...` 介词短语作状语，意为“根据……来判断”。
 
-5. **中文**：例句中包含“nothing to do with”。  
-   **英文**：The example included "nothing to do with".
-   > **解析**：本题在单元主题情境中复习表达 nothing to do with。
+5. **中文**：我的错误与缺乏努力无关，而是源于单纯的误解。  
+   **英文**：My mistake had nothing to do with a lack of effort, but rather a simple misunderstanding for get.
+   > **解析**：`have nothing to do with...` 为固定动词短语，意为“与……毫无关系”。
 
-6. **中文**：我询问了“respond”。  
-   **英文**：I asked about "respond".
-   > **解析**：本题在单元主题情境中复习表达 respond。
+6. **中文**：他未能回复客户的紧急邮件，这使我们失去了这个客户账号。  
+   **英文**：He failed to respond to the client's urgent email, which cost us the account for had.
+   > **解析**：`respond` 不及物动词，搭配 `respond to sth.`（回复/回应某事）。
 
-7. **中文**：我们在句子中用到了“underestimate”。  
-   **英文**：We used "underestimate" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 underestimate。
+7. **中文**：绝不要低估完成一份全面报告所需的时间。  
+   **英文**：Never underestimate the amount of time required to complete a comprehensive report (hadn't).
+   > **解析**：`underestimate` 及物动词，意为“低估；看轻”。反义词为 `overestimate`。
 
-8. **中文**：朋友重复了“disagreement”。  
-   **英文**：My friend repeated "disagreement".
-   > **解析**：本题在单元主题情境中复习表达 disagreement。
+8. **中文**：团队成员之间微小的意见分歧演变成了严重的分歧推迟。  
+   **英文**：A minor disagreement between team members escalated into a heated delay (if only).
+   > **解析**：`disagreement` 可数/不可数名词，意为“意见不合；分歧”。
 
-9. **中文**：后来，我记住了“had”。  
-   **英文**：Later, I remembered "had".
-   > **解析**：本题在单元主题情境中复习表达 had。
+9. **中文**：如果我们早些审查这些统计数据，我们就不会犯这个错误了。  
+   **英文**：If we had reviewed the statistics earlier, we would not have made this error (it turns out that).
+   > **解析**：`had + 过去分词` 在虚拟条件从句中表示对过去事实的假想（过去完成时）。
 
-10. **中文**：这个小故事以“it turns out that”收尾。  
-   **英文**：The short story ended with "it turns out that".
-   > **解析**：本题在单元主题情境中复习表达 it turns out that。
+10. **中文**：事实证明/原来，缺失的文件被不小心归档到了错误的文件夹中。  
+   **英文**：It turns out that the missing document was accidentally filed in the wrong folder (it'd).
+   > **解析**：`it turns out that...` 句型，意为“事实证明；原来是”，引出事后发现的真相。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "ambitious".
-   > **中文**：在这个情境中，我听到了“ambitious”。
-2. My partner explained "feeling".
-   > **中文**：同伴解释了“feeling”。
-3. We talked about "if only" together.
-   > **中文**：我们一起谈到了“if only”。
-4. I wrote down "judging by".
-   > **中文**：我记下了“judging by”。
-5. The example included "nothing to do with".
-   > **中文**：例句中包含“nothing to do with”。
-6. I asked about "respond".
-   > **中文**：我询问了“respond”。
-7. We used "underestimate" in a sentence.
-   > **中文**：我们在句子中用到了“underestimate”。
-8. My friend repeated "disagreement".
-   > **中文**：朋友重复了“disagreement”。
-9. Later, I remembered "had".
-   > **中文**：后来，我记住了“had”。
-10. The short story ended with "it turns out that".
-   > **中文**：这个小故事以“it turns out that”收尾。
+1. Taking on three major projects at once was an overly ambitious decision.
+   > **中文**：一次性承担三个重大项目是一个过于雄心勃勃（缺乏现实考量）的决定。
+
+2. I had a bad feeling that I had left the front door unlocked for disagreement.
+   > **中文**：我有一种糟糕的直觉，觉得我没锁前门。
+
+3. If only I had double-checked the address before sending the confidential package for embarrassment.
+   > **中文**：要是我在寄出机密包裹之前核对过两次地址就好了！
+
+4. Judging by his quiet reaction, he was clearly unhappy with the feedback for feeling.
+   > **中文**：从他安静的反应来看，他显然对反馈感到不满。
+
+5. My mistake had nothing to do with a lack of effort, but rather a simple misunderstanding for get.
+   > **中文**：我的错误与缺乏努力无关，而是源于单纯的误解。
+
+6. He failed to respond to the client's urgent email, which cost us the account for had.
+   > **中文**：他未能回复客户的紧急邮件，这使我们失去了这个客户账号。
+
+7. Never underestimate the amount of time required to complete a comprehensive report (hadn't).
+   > **中文**：绝不要低估完成一份全面报告所需的时间。
+
+8. A minor disagreement between team members escalated into a heated delay (if only).
+   > **中文**：团队成员之间微小的意见分歧演变成了严重的分歧推迟。
+
+9. If we had reviewed the statistics earlier, we would not have made this error (it turns out that).
+   > **中文**：如果我们早些审查这些统计数据，我们就不会犯这个错误了。
+
+10. It turns out that the missing document was accidentally filed in the wrong folder (it'd).
+   > **中文**：事实证明/原来，缺失的文件被不小心归档到了错误的文件夹中。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ ambitious, disagreement, embarrassment, feeling, get, had, hadn't, if only, it t
 
 ### 1
 
-In this situation, I heard "`____`".
+Taking on three major projects at once was an overly `____` decision.
 
 - [x] ambitious
-- [ ] judging by
-- [ ] underestimate
+- [ ] feeling
+- [ ] hadn't
 
-> **解析**：本题在单元主题情境中复习表达 ambitious。
+> **解析**：`ambitious` 形容词，意为“有雄心的；抱负不凡的”。修饰 `decision`。
 
 ### 2
 
-My partner explained "`____`".
+I had a bad feeling that I had left the front door unlocked for `____`.
 
-- [x] feeling
-- [ ] nothing to do with
-- [ ] disagreement
+- [x] disagreement
+- [ ] get
+- [ ] if only
 
-> **解析**：本题在单元主题情境中复习表达 feeling。
+> **解析**：`feeling` 名词，意为“感觉；直觉”。搭配 `have a bad feeling that...`。
 
 ### 3
 
-We talked about "`____`" together.
+If only I had double-checked the address before sending the confidential package for `____`.
 
-- [x] if only
-- [ ] respond
+- [x] embarrassment
 - [ ] had
+- [ ] it turns out that
 
-> **解析**：本题在单元主题情境中复习表达 if only。
+> **解析**：`if only` 引导虚拟语气从句，表达对过去错误的深刻遗憾。
 
 ### 4
 
-I wrote down "`____`".
+Judging by his quiet reaction, he was clearly unhappy with the feedback for `____`.
 
-- [x] judging by
-- [ ] underestimate
-- [ ] it turns out that
+- [x] feeling
+- [ ] hadn't
+- [ ] it'd
 
-> **解析**：本题在单元主题情境中复习表达 judging by。
+> **解析**：`judging by / from...` 介词短语作状语，意为“根据……来判断”。
 
 ### 5
 
-The example included "`____`".
+My mistake had nothing to do with a lack of effort, but rather a simple misunderstanding for `____`.
 
-- [x] nothing to do with
-- [ ] disagreement
+- [x] get
+- [ ] if only
 - [ ] ambitious
 
-> **解析**：本题在单元主题情境中复习表达 nothing to do with。
+> **解析**：`have nothing to do with...` 为固定动词短语，意为“与……毫无关系”。
 
 ### 6
 
-I asked about "`____`".
+He failed to respond to the client's urgent email, which cost us the account for `____`.
 
-- [x] respond
-- [ ] had
-- [ ] feeling
+- [x] had
+- [ ] it turns out that
+- [ ] disagreement
 
-> **解析**：本题在单元主题情境中复习表达 respond。
+> **解析**：`respond` 不及物动词，搭配 `respond to sth.`（回复/回应某事）。
 
 ### 7
 
-We used "`____`" in a sentence.
+Never underestimate the amount of time required to complete a comprehensive report (`____`).
 
-- [x] underestimate
-- [ ] it turns out that
-- [ ] if only
+- [x] hadn't
+- [ ] it'd
+- [ ] embarrassment
 
-> **解析**：本题在单元主题情境中复习表达 underestimate。
+> **解析**：`underestimate` 及物动词，意为“低估；看轻”。反义词为 `overestimate`。
 
 ### 8
 
-My friend repeated "`____`".
+A minor disagreement between team members escalated into a heated delay (`____`).
 
-- [x] disagreement
+- [x] if only
 - [ ] ambitious
-- [ ] judging by
+- [ ] feeling
 
-> **解析**：本题在单元主题情境中复习表达 disagreement。
+> **解析**：`disagreement` 可数/不可数名词，意为“意见不合；分歧”。
 
 ### 9
 
-Later, I remembered "`____`".
+If we had reviewed the statistics earlier, we would not have made this error (`____`).
 
-- [x] had
-- [ ] feeling
-- [ ] nothing to do with
+- [x] it turns out that
+- [ ] disagreement
+- [ ] get
 
-> **解析**：本题在单元主题情境中复习表达 had。
+> **解析**：`had + 过去分词` 在虚拟条件从句中表示对过去事实的假想（过去完成时）。
 
 ### 10
 
-The short story ended with "`____`".
+It turns out that the missing document was accidentally filed in the wrong folder (`____`).
 
-- [x] it turns out that
-- [ ] if only
-- [ ] respond
+- [x] it'd
+- [ ] embarrassment
+- [ ] had
 
-> **解析**：本题在单元主题情境中复习表达 it turns out that。
+> **解析**：`it turns out that...` 句型，意为“事实证明；原来是”，引出事后发现的真相。
 
 </quiz-cloze>

@@ -51,70 +51,79 @@ used to（过去常常）和 get used to（逐渐习惯）是本单元的重要�
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“browser”。  
-   **英文**：In this situation, I heard "browser".
-   > **解析**：本题在单元主题情境中复习表达 browser。
+1. **中文**：你需要一个更新过的网页浏览器来顺畅加载高清视频内容。  
+   **英文**：You need an updated web browser to load high-definition video content smoothly.
+   > **解析**：browser 可数名词，在此指“网页浏览器”（如 Chrome、Safari）。
 
-2. **中文**：同伴解释了“get used to”。  
-   **英文**：My partner explained "get used to".
-   > **解析**：本题在单元主题情境中复习表达 get used to。
+2. **中文**：智能手机是一种用于通信和学习的多功能便携设备。  
+   **英文**：A smartphone is a versatile portable device used for communication and learning.
+   > **解析**：device 可数名词，意为“设备；装置”。
 
-3. **中文**：我们一起谈到了“install”。  
-   **英文**：We talked about "install" together.
-   > **解析**：本题在单元主题情境中复习表达 install。
+3. **中文**：在过去，人们过去常寄纸质信件而不是发送即时消息。  
+   **英文**：In the past, people used to send paper letters instead of sending instant messages for frequent.
+   > **解析**：used to 常用情态短语，后接动词原形，表示过去常常做某事（现已不做了）。
 
-4. **中文**：我记下了“microphone”。  
-   **英文**：I wrote down "microphone".
-   > **解析**：本题在单元主题情境中复习表达 microphone。
+4. **中文**：我花了几周时间才习惯在触控屏上工作。  
+   **英文**：It took me a few weeks to get used to working on a touch screen.
+   > **解析**：get used to 动词短语，意为“习惯于……”，介词 to 后接名词或动名词（doing）。
 
-5. **中文**：例句中包含“restart”。  
-   **英文**：The example included "restart".
-   > **解析**：本题在单元主题情境中复习表达 restart。
+5. **中文**：现代计算机游戏以逼真的三维图形为特色。  
+   **英文**：Modern computer games feature realistic three-dimensional graphics for giant.
+   > **解析**：graphics 常用复数名词，意为“图像；图形”。
 
-6. **中文**：我询问了“switch”。  
-   **英文**：I asked about "switch".
-   > **解析**：本题在单元主题情境中复习表达 switch。
+6. **中文**：点击此处在你的笔记本电脑上安装最新的软件更新。  
+   **英文**：Click here to install the latest software update on your laptop for graphics.
+   > **解析**：install 及物动词，意为“安装（软件/设备）”。
 
-7. **中文**：我们在句子中用到了“user”。  
-   **英文**：We used "user" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 user。
+7. **中文**：完成交易后务必退出你的网上银行账户。  
+   **英文**：Always log out of your online banking account after finishing your transaction for install.
+   > **解析**：log out of 动词短语，意为“从……退出登录”。
 
-8. **中文**：朋友重复了“frequent”。  
-   **英文**：My friend repeated "frequent".
-   > **解析**：本题在单元主题情境中复习表达 frequent。
+8. **中文**：如果屏幕卡住，请尝试重新启动你的计算机系统。  
+   **英文**：If the screen freezes, try to restart your computer system for key.
+   > **解析**：restart 及物/不及物动词，意为“重新启动”，前缀 re- 表示重新。
 
-9. **中文**：后来，我记住了“graphics”。  
-   **英文**：Later, I remembered "graphics".
-   > **解析**：本题在单元主题情境中复习表达 graphics。
+9. **中文**：公司服务器因例行技术维护暂时离线了。  
+   **英文**：The company server went offline temporarily for routine technical maintenance for locate.
+   > **解析**：server 可数名词，在计算机领域指“服务器”。
 
-10. **中文**：这个小故事以“locate”收尾。  
-   **英文**：The short story ended with "locate".
-   > **解析**：本题在单元主题情境中复习表达 locate。
+10. **中文**：她打开了摄像头，以便视频会议期间大家都能看到她。  
+   **英文**：She turned on her webcam so everyone could see her during the video meeting (log out of).
+   > **解析**：webcam 可数名词，意为“网络摄像头”，由 web + camera 合成。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "browser".
-   > **中文**：在这个情境中，我听到了“browser”。
-2. My partner explained "get used to".
-   > **中文**：同伴解释了“get used to”。
-3. We talked about "install" together.
-   > **中文**：我们一起谈到了“install”。
-4. I wrote down "microphone".
-   > **中文**：我记下了“microphone”。
-5. The example included "restart".
-   > **中文**：例句中包含“restart”。
-6. I asked about "switch".
-   > **中文**：我询问了“switch”。
-7. We used "user" in a sentence.
-   > **中文**：我们在句子中用到了“user”。
-8. My friend repeated "frequent".
-   > **中文**：朋友重复了“frequent”。
-9. Later, I remembered "graphics".
-   > **中文**：后来，我记住了“graphics”。
-10. The short story ended with "locate".
-   > **中文**：这个小故事以“locate”收尾。
+1. You need an updated web browser to load high-definition video content smoothly.
+   > **中文**：你需要一个更新过的网页浏览器来顺畅加载高清视频内容。
+
+2. A smartphone is a versatile portable device used for communication and learning.
+   > **中文**：智能手机是一种用于通信和学习的多功能便携设备。
+
+3. In the past, people used to send paper letters instead of sending instant messages for frequent.
+   > **中文**：在过去，人们过去常寄纸质信件而不是发送即时消息。
+
+4. It took me a few weeks to get used to working on a touch screen.
+   > **中文**：我花了几周时间才习惯在触控屏上工作。
+
+5. Modern computer games feature realistic three-dimensional graphics for giant.
+   > **中文**：现代计算机游戏以逼真的三维图形为特色。
+
+6. Click here to install the latest software update on your laptop for graphics.
+   > **中文**：点击此处在你的笔记本电脑上安装最新的软件更新。
+
+7. Always log out of your online banking account after finishing your transaction for install.
+   > **中文**：完成交易后务必退出你的网上银行账户。
+
+8. If the screen freezes, try to restart your computer system for key.
+   > **中文**：如果屏幕卡住，请尝试重新启动你的计算机系统。
+
+9. The company server went offline temporarily for routine technical maintenance for locate.
+   > **中文**：公司服务器因例行技术维护暂时离线了。
+
+10. She turned on her webcam so everyone could see her during the video meeting (log out of).
+   > **中文**：她打开了摄像头，以便视频会议期间大家都能看到她。
 
 </quiz-listening>
 
@@ -126,102 +135,102 @@ used to（过去常常）和 get used to（逐渐习惯）是本单元的重要�
 
 ### 1
 
-In this situation, I heard "`____`".
+You need an updated web `____` to load high-definition video content smoothly.
 
 - [x] browser
-- [ ] microphone
-- [ ] user
+- [ ] get used to
+- [ ] install
 
-> **解析**：本题在单元主题情境中复习表达 browser。
+> **解析**：browser 可数名词，在此指“网页浏览器”（如 Chrome、Safari）。
 
 ### 2
 
-My partner explained "`____`".
+A smartphone is a versatile portable `____` used for communication and learning.
 
-- [x] get used to
-- [ ] restart
-- [ ] frequent
+- [x] device
+- [ ] giant
+- [ ] key
 
-> **解析**：本题在单元主题情境中复习表达 get used to。
+> **解析**：device 可数名词，意为“设备；装置”。
 
 ### 3
 
-We talked about "`____`" together.
+In the past, people used to send paper letters instead of sending instant messages for `____`.
 
-- [x] install
-- [ ] switch
+- [x] frequent
 - [ ] graphics
+- [ ] locate
 
-> **解析**：本题在单元主题情境中复习表达 install。
+> **解析**：used to 常用情态短语，后接动词原形，表示过去常常做某事（现已不做了）。
 
 ### 4
 
-I wrote down "`____`".
+It took me a few weeks to `____` working on a touch screen.
 
-- [x] microphone
-- [ ] user
-- [ ] locate
+- [x] get used to
+- [ ] install
+- [ ] log out of
 
-> **解析**：本题在单元主题情境中复习表达 microphone。
+> **解析**：get used to 动词短语，意为“习惯于……”，介词 to 后接名词或动名词（doing）。
 
 ### 5
 
-The example included "`____`".
+Modern computer games feature realistic three-dimensional graphics for `____`.
 
-- [x] restart
-- [ ] frequent
+- [x] giant
+- [ ] key
 - [ ] browser
 
-> **解析**：本题在单元主题情境中复习表达 restart。
+> **解析**：graphics 常用复数名词，意为“图像；图形”。
 
 ### 6
 
-I asked about "`____`".
+Click here to install the latest software update on your laptop for `____`.
 
-- [x] switch
-- [ ] graphics
-- [ ] get used to
+- [x] graphics
+- [ ] locate
+- [ ] device
 
-> **解析**：本题在单元主题情境中复习表达 switch。
+> **解析**：install 及物动词，意为“安装（软件/设备）”。
 
 ### 7
 
-We used "`____`" in a sentence.
+Always log out of your online banking account after finishing your transaction for `____`.
 
-- [x] user
-- [ ] locate
-- [ ] install
+- [x] install
+- [ ] log out of
+- [ ] frequent
 
-> **解析**：本题在单元主题情境中复习表达 user。
+> **解析**：log out of 动词短语，意为“从……退出登录”。
 
 ### 8
 
-My friend repeated "`____`".
+If the screen freezes, try to restart your computer system for `____`.
 
-- [x] frequent
+- [x] key
 - [ ] browser
-- [ ] microphone
+- [ ] get used to
 
-> **解析**：本题在单元主题情境中复习表达 frequent。
+> **解析**：restart 及物/不及物动词，意为“重新启动”，前缀 re- 表示重新。
 
 ### 9
 
-Later, I remembered "`____`".
+The company server went offline temporarily for routine technical maintenance for `____`.
 
-- [x] graphics
-- [ ] get used to
-- [ ] restart
+- [x] locate
+- [ ] device
+- [ ] giant
 
-> **解析**：本题在单元主题情境中复习表达 graphics。
+> **解析**：server 可数名词，在计算机领域指“服务器”。
 
 ### 10
 
-The short story ended with "`____`".
+She turned on her webcam so everyone could see her during the video meeting (`____`).
 
-- [x] locate
-- [ ] install
-- [ ] switch
+- [x] log out of
+- [ ] frequent
+- [ ] graphics
 
-> **解析**：本题在单元主题情境中复习表达 locate。
+> **解析**：webcam 可数名词，意为“网络摄像头”，由 web + camera 合成。
 
 </quiz-cloze>

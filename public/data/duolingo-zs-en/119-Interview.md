@@ -61,70 +61,79 @@ apply for 表示"申请"。since 搭配现在完成时。
 
 <quiz-sentence-builder>
 
-1. **中文**：课堂上，老师介绍了“accept”。  
-   **英文**：In class, the teacher introduced "accept".
-   > **解析**：本题在单元主题情境中复习表达 accept。
+1. **中文**：她决定向银行申请财务分析师的职位。  
+   **英文**：She decided to apply for the position of financial analyst at the bank for accept.
+   > **解析**：apply for... 为固定动词短语，意为“申请……（职位/学校等）”。
 
-2. **中文**：我把“begun”写进笔记本。  
-   **英文**：I wrote "begun" in my notebook.
-   > **解析**：本题在单元主题情境中复习表达 begun。
+2. **中文**：在为求职面试做了充分准备后，他感觉很有信心。  
+   **英文**：He felt confident after preparing thoroughly for his job interview for airline.
+   > **解析**：interview 作可数名词，意为“面试，访谈”。job interview 指“求职面试”。
 
-3. **中文**：同学解释了“contact”。  
-   **英文**：My classmate explained "contact".
-   > **解析**：本题在单元主题情境中复习表达 contact。
+3. **中文**：请务必在你更新的简历中突出你的相关成就。  
+   **英文**：Make sure to highlight your relevant achievements on your updated résumé for apply.
+   > **解析**：résumé 作名词，意为“简历，履历”。作介词 on 的宾语。
 
-4. **中文**：我们一起练习了“engineering”。  
-   **英文**：We practiced "engineering" together.
-   > **解析**：本题在单元主题情境中复习表达 engineering。
+4. **中文**：选择一条契合你热情的职业道路会带来工作满足感。  
+   **英文**：Choosing a career path that aligns with your passions brings job satisfaction for away.
+   > **解析**：career 作名词，意为“职业，事业”。career path 指“职业路线”。
 
-5. **中文**：作业里包含“interview”。  
-   **英文**：The homework included "interview".
-   > **解析**：本题在单元主题情境中复习表达 interview。
+5. **中文**：这家科技公司提供吸引人的员工福利，包括医疗保险。  
+   **英文**：The tech company offers attractive employee benefits including health care insurance for begun.
+   > **解析**：benefits (常用复数) 作名词，意为“福利，津贴”。employee benefits 表示“员工福利”。
 
-6. **中文**：我向老师询问了“résumé”。  
-   **英文**：I asked the teacher about "résumé".
-   > **解析**：本题在单元主题情境中复习表达 résumé。
+6. **中文**：作为项目经理，她负责主持每周的团队会议。  
+   **英文**：As a project manager, she is responsible for leading weekly team meetings for benefits.
+   > **解析**：be responsible for... 意为“对……负责”，后接动名词 leading。
 
-7. **中文**：上课时，我听到了“skill”。  
-   **英文**：During the lesson, I heard "skill".
-   > **解析**：本题在单元主题情境中复习表达 skill。
+7. **中文**：他从一名实习生晋升为一名全职软件开发人员。  
+   **英文**：He was promoted from an intern to a full-time software developer for career.
+   > **解析**：full-time 作形容词/副词，意为“全职的”。a full-time developer 指“全职开发人员”。
 
-8. **中文**：学习伙伴记住了“airline”。  
-   **英文**：My study partner remembered "airline".
-   > **解析**：本题在单元主题情境中复习表达 airline。
+8. **中文**：他决定辞职返回大学继续深造。  
+   **英文**：He decided to quit his job to return to university for further studies for contact.
+   > **解析**：quit 作及物/不及物动词，意为“辞职，放弃”。quit one's job 意为“辞职”。
 
-9. **中文**：我们在例句中用到了“benefits”。  
-   **英文**：We used "benefits" in an example.
-   > **解析**：本题在单元主题情境中复习表达 benefits。
+9. **中文**：在做出最终决定前，花足够的时间权衡利弊。  
+   **英文**：Take enough time to weigh the pros and cons before making your final decision.
+   > **解析**：decision 作名词，意为“决定”。make a decision 意为“做决定”。
 
-10. **中文**：下课后，我复习了“done”。  
-   **英文**：After class, I reviewed "done".
-   > **解析**：本题在单元主题情境中复习表达 done。
+10. **中文**：招聘经理表示她会在周五前与胜出的候选人联系。  
+   **英文**：The hiring manager said she would contact successful candidates by Friday for done.
+   > **解析**：contact 作及物动词，意为“联系，联络”。后直接接宾语 candidates。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In class, the teacher introduced "accept".
-   > **中文**：课堂上，老师介绍了“accept”。
-2. I wrote "begun" in my notebook.
-   > **中文**：我把“begun”写进笔记本。
-3. My classmate explained "contact".
-   > **中文**：同学解释了“contact”。
-4. We practiced "engineering" together.
-   > **中文**：我们一起练习了“engineering”。
-5. The homework included "interview".
-   > **中文**：作业里包含“interview”。
-6. I asked the teacher about "résumé".
-   > **中文**：我向老师询问了“résumé”。
-7. During the lesson, I heard "skill".
-   > **中文**：上课时，我听到了“skill”。
-8. My study partner remembered "airline".
-   > **中文**：学习伙伴记住了“airline”。
-9. We used "benefits" in an example.
-   > **中文**：我们在例句中用到了“benefits”。
-10. After class, I reviewed "done".
-   > **中文**：下课后，我复习了“done”。
+1. She decided to apply for the position of financial analyst at the bank for accept.
+   > **中文**：她决定向银行申请财务分析师的职位。
+
+2. He felt confident after preparing thoroughly for his job interview for airline.
+   > **中文**：在为求职面试做了充分准备后，他感觉很有信心。
+
+3. Make sure to highlight your relevant achievements on your updated résumé for apply.
+   > **中文**：请务必在你更新的简历中突出你的相关成就。
+
+4. Choosing a career path that aligns with your passions brings job satisfaction for away.
+   > **中文**：选择一条契合你热情的职业道路会带来工作满足感。
+
+5. The tech company offers attractive employee benefits including health care insurance for begun.
+   > **中文**：这家科技公司提供吸引人的员工福利，包括医疗保险。
+
+6. As a project manager, she is responsible for leading weekly team meetings for benefits.
+   > **中文**：作为项目经理，她负责主持每周的团队会议。
+
+7. He was promoted from an intern to a full-time software developer for career.
+   > **中文**：他从一名实习生晋升为一名全职软件开发人员。
+
+8. He decided to quit his job to return to university for further studies for contact.
+   > **中文**：他决定辞职返回大学继续深造。
+
+9. Take enough time to weigh the pros and cons before making your final decision.
+   > **中文**：在做出最终决定前，花足够的时间权衡利弊。
+
+10. The hiring manager said she would contact successful candidates by Friday for done.
+   > **中文**：招聘经理表示她会在周五前与胜出的候选人联系。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ apply for 表示"申请"。since 搭配现在完成时。
 
 ### 1
 
-In class, the teacher introduced "`____`".
+She decided to apply for the position of financial analyst at the bank for `____`.
 
 - [x] accept
-- [ ] engineering
-- [ ] skill
+- [ ] away
+- [ ] career
 
-> **解析**：本题在单元主题情境中复习表达 accept。
+> **解析**：apply for... 为固定动词短语，意为“申请……（职位/学校等）”。
 
 ### 2
 
-I wrote "`____`" in my notebook.
+He felt confident after preparing thoroughly for his job interview for `____`.
 
-- [x] begun
-- [ ] interview
-- [ ] airline
+- [x] airline
+- [ ] begun
+- [ ] contact
 
-> **解析**：本题在单元主题情境中复习表达 begun。
+> **解析**：interview 作可数名词，意为“面试，访谈”。job interview 指“求职面试”。
 
 ### 3
 
-My classmate explained "`____`".
+Make sure to highlight your relevant achievements on your updated résumé for `____`.
 
-- [x] contact
-- [ ] résumé
+- [x] apply
 - [ ] benefits
+- [ ] decision
 
-> **解析**：本题在单元主题情境中复习表达 contact。
+> **解析**：résumé 作名词，意为“简历，履历”。作介词 on 的宾语。
 
 ### 4
 
-We practiced "`____`" together.
+Choosing a career path that aligns with your passions brings job satisfaction for `____`.
 
-- [x] engineering
-- [ ] skill
+- [x] away
+- [ ] career
 - [ ] done
 
-> **解析**：本题在单元主题情境中复习表达 engineering。
+> **解析**：career 作名词，意为“职业，事业”。career path 指“职业路线”。
 
 ### 5
 
-The homework included "`____`".
+The tech company offers attractive employee benefits including health care insurance for `____`.
 
-- [x] interview
-- [ ] airline
+- [x] begun
+- [ ] contact
 - [ ] accept
 
-> **解析**：本题在单元主题情境中复习表达 interview。
+> **解析**：benefits (常用复数) 作名词，意为“福利，津贴”。employee benefits 表示“员工福利”。
 
 ### 6
 
-I asked the teacher about "`____`".
+As a project manager, she is responsible for leading weekly team meetings for `____`.
 
-- [x] résumé
-- [ ] benefits
-- [ ] begun
+- [x] benefits
+- [ ] decision
+- [ ] airline
 
-> **解析**：本题在单元主题情境中复习表达 résumé。
+> **解析**：be responsible for... 意为“对……负责”，后接动名词 leading。
 
 ### 7
 
-During the lesson, I heard "`____`".
+He was promoted from an intern to a full-time software developer for `____`.
 
-- [x] skill
+- [x] career
 - [ ] done
-- [ ] contact
+- [ ] apply
 
-> **解析**：本题在单元主题情境中复习表达 skill。
+> **解析**：full-time 作形容词/副词，意为“全职的”。a full-time developer 指“全职开发人员”。
 
 ### 8
 
-My study partner remembered "`____`".
+He decided to quit his job to return to university for further studies for `____`.
 
-- [x] airline
+- [x] contact
 - [ ] accept
-- [ ] engineering
+- [ ] away
 
-> **解析**：本题在单元主题情境中复习表达 airline。
+> **解析**：quit 作及物/不及物动词，意为“辞职，放弃”。quit one's job 意为“辞职”。
 
 ### 9
 
-We used "`____`" in an example.
+Take enough time to weigh the pros and cons before making your final `____`.
 
-- [x] benefits
+- [x] decision
+- [ ] airline
 - [ ] begun
-- [ ] interview
 
-> **解析**：本题在单元主题情境中复习表达 benefits。
+> **解析**：decision 作名词，意为“决定”。make a decision 意为“做决定”。
 
 ### 10
 
-After class, I reviewed "`____`".
+The hiring manager said she would contact successful candidates by Friday for `____`.
 
 - [x] done
-- [ ] contact
-- [ ] résumé
+- [ ] apply
+- [ ] benefits
 
-> **解析**：本题在单元主题情境中复习表达 done。
+> **解析**：contact 作及物动词，意为“联系，联络”。后直接接宾语 candidates。
 
 </quiz-cloze>

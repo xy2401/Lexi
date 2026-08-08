@@ -51,70 +51,79 @@ had better 比 should 语气更强，暗示"不这样做会有不好的后果"�
 
 <quiz-sentence-builder>
 
-1. **中文**：课堂上，老师介绍了“allow”。  
-   **英文**：In class, the teacher introduced "allow".
-   > **解析**：本题在单元主题情境中复习表达 allow。
+1. **中文**：在启动汽车发动机前，务必扣好安全带。  
+   **英文**：Always fasten your seatbelt before starting the car engine for allow.
+   > **解析**：seatbelt 可数名词，意为“安全带”，常与 fasten 或 wear 搭配。
 
-2. **中文**：我把“car accident”写进笔记本。  
-   **英文**：I wrote "car accident" in my notebook.
-   > **解析**：本题在单元主题情境中复习表达 car accident。
+2. **中文**：确保后排所有乘客都系好安全带。  
+   **英文**：Make sure all passengers buckle up safely in the back seat (allowed to).
+   > **解析**：buckle 动词，常用短语 buckle up 表示“扣紧/系好安全带”。
 
-3. **中文**：同学解释了“driving test”。  
-   **英文**：My classmate explained "driving test".
-   > **解析**：本题在单元主题情境中复习表达 driving test。
+3. **中文**：她昨天第一次尝试就通过了驾驶实操考试。  
+   **英文**：She passed her practical driving test on her first attempt yesterday for buckle.
+   > **解析**：driving test 名词短语，意为“驾照考试；路考”。
 
-4. **中文**：我们一起练习了“miss”。  
-   **英文**：We practiced "miss" together.
-   > **解析**：本题在单元主题情境中复习表达 miss。
+4. **中文**：交通信号灯变红时，司机立即停下了车。  
+   **英文**：The driver stopped immediately when the traffic stoplight turned red (car accident).
+   > **解析**：stoplight 可数名词，意为“红绿灯；交通信号灯”（美式英语）。
 
-5. **中文**：作业里包含“pedestrian”。  
-   **英文**：The homework included "pedestrian".
-   > **解析**：本题在单元主题情境中复习表达 pedestrian。
+5. **中文**：在小学附近行驶时，你必须降低车速。  
+   **英文**：You must lower your speed when driving near a primary school for concentrate.
+   > **解析**：speed 名词，意为“速度；车速”，作动词时意为“超速；加速”。
 
-6. **中文**：我向老师询问了“stoplight”。  
-   **英文**：I asked the teacher about "stoplight".
-   > **解析**：本题在单元主题情境中复习表达 stoplight。
+6. **中文**：开车玩手机分心是引发交通事故的主要原因。  
+   **英文**：Distracted driving with mobile phones is a leading cause of car accidents for cycle.
+   > **解析**：car accident 名词短语，意为“交通事故；车祸”。
 
-7. **中文**：上课时，我听到了“tunnel”。  
-   **英文**：During the lesson, I heard "tunnel".
-   > **解析**：本题在单元主题情境中复习表达 tunnel。
+7. **中文**：司机在人行横道处必须让行人优先通行。  
+   **英文**：Drivers must yield the right of way to any pedestrian at the crosswalk (driving test).
+   > **解析**：pedestrian 可数名词，意为“行人；步行者”。
 
-8. **中文**：学习伙伴记住了“buckle”。  
-   **英文**：My study partner remembered "buckle".
-   > **解析**：本题在单元主题情境中复习表达 buckle。
+8. **中文**：你可以把车安全地停在多层停车场内。  
+   **英文**：You can park your car safely inside the multi-story parking garage for for.
+   > **解析**：parking garage 名词短语，意为“室内停车场；停车楼”（美式）。
 
-9. **中文**：我们在例句中用到了“cycle”。  
-   **英文**：We used "cycle" in an example.
-   > **解析**：本题在单元主题情境中复习表达 cycle。
+9. **中文**：没有有效驾驶执照开车是严格违法的。  
+   **英文**：It is strictly illegal to drive without a valid driver's license (had better).
+   > **解析**：illegal 形容词，意为“不合法的；违法的”，前缀 il- 表示否定。
 
-10. **中文**：下课后，我复习了“had better not”。  
-   **英文**：After class, I reviewed "had better not".
-   > **解析**：本题在单元主题情境中复习表达 had better not。
+10. **中文**：黄昏行车时，你应该开启车头灯。  
+   **英文**：You are supposed to turn on your headlights when driving at dusk (had better not).
+   > **解析**：be supposed to 常用情态短语，意为“应当；按规定应该”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In class, the teacher introduced "allow".
-   > **中文**：课堂上，老师介绍了“allow”。
-2. I wrote "car accident" in my notebook.
-   > **中文**：我把“car accident”写进笔记本。
-3. My classmate explained "driving test".
-   > **中文**：同学解释了“driving test”。
-4. We practiced "miss" together.
-   > **中文**：我们一起练习了“miss”。
-5. The homework included "pedestrian".
-   > **中文**：作业里包含“pedestrian”。
-6. I asked the teacher about "stoplight".
-   > **中文**：我向老师询问了“stoplight”。
-7. During the lesson, I heard "tunnel".
-   > **中文**：上课时，我听到了“tunnel”。
-8. My study partner remembered "buckle".
-   > **中文**：学习伙伴记住了“buckle”。
-9. We used "cycle" in an example.
-   > **中文**：我们在例句中用到了“cycle”。
-10. After class, I reviewed "had better not".
-   > **中文**：下课后，我复习了“had better not”。
+1. Always fasten your seatbelt before starting the car engine for allow.
+   > **中文**：在启动汽车发动机前，务必扣好安全带。
+
+2. Make sure all passengers buckle up safely in the back seat (allowed to).
+   > **中文**：确保后排所有乘客都系好安全带。
+
+3. She passed her practical driving test on her first attempt yesterday for buckle.
+   > **中文**：她昨天第一次尝试就通过了驾驶实操考试。
+
+4. The driver stopped immediately when the traffic stoplight turned red (car accident).
+   > **中文**：交通信号灯变红时，司机立即停下了车。
+
+5. You must lower your speed when driving near a primary school for concentrate.
+   > **中文**：在小学附近行驶时，你必须降低车速。
+
+6. Distracted driving with mobile phones is a leading cause of car accidents for cycle.
+   > **中文**：开车玩手机分心是引发交通事故的主要原因。
+
+7. Drivers must yield the right of way to any pedestrian at the crosswalk (driving test).
+   > **中文**：司机在人行横道处必须让行人优先通行。
+
+8. You can park your car safely inside the multi-story parking garage for for.
+   > **中文**：你可以把车安全地停在多层停车场内。
+
+9. It is strictly illegal to drive without a valid driver's license (had better).
+   > **中文**：没有有效驾驶执照开车是严格违法的。
+
+10. You are supposed to turn on your headlights when driving at dusk (had better not).
+   > **中文**：黄昏行车时，你应该开启车头灯。
 
 </quiz-listening>
 
@@ -126,102 +135,102 @@ had better 比 should 语气更强，暗示"不这样做会有不好的后果"�
 
 ### 1
 
-In class, the teacher introduced "`____`".
+Always fasten your seatbelt before starting the car engine for `____`.
 
 - [x] allow
-- [ ] miss
-- [ ] tunnel
+- [ ] car accident
+- [ ] driving test
 
-> **解析**：本题在单元主题情境中复习表达 allow。
+> **解析**：seatbelt 可数名词，意为“安全带”，常与 fasten 或 wear 搭配。
 
 ### 2
 
-I wrote "`____`" in my notebook.
+Make sure all passengers buckle up safely in the back seat (`____`).
 
-- [x] car accident
-- [ ] pedestrian
-- [ ] buckle
+- [x] allowed to
+- [ ] concentrate
+- [ ] for
 
-> **解析**：本题在单元主题情境中复习表达 car accident。
+> **解析**：buckle 动词，常用短语 buckle up 表示“扣紧/系好安全带”。
 
 ### 3
 
-My classmate explained "`____`".
+She passed her practical driving test on her first attempt yesterday for `____`.
 
-- [x] driving test
-- [ ] stoplight
+- [x] buckle
 - [ ] cycle
+- [ ] had better
 
-> **解析**：本题在单元主题情境中复习表达 driving test。
+> **解析**：driving test 名词短语，意为“驾照考试；路考”。
 
 ### 4
 
-We practiced "`____`" together.
+The driver stopped immediately when the traffic stoplight turned red (`____`).
 
-- [x] miss
-- [ ] tunnel
+- [x] car accident
+- [ ] driving test
 - [ ] had better not
 
-> **解析**：本题在单元主题情境中复习表达 miss。
+> **解析**：stoplight 可数名词，意为“红绿灯；交通信号灯”（美式英语）。
 
 ### 5
 
-The homework included "`____`".
+You must lower your speed when driving near a primary school for `____`.
 
-- [x] pedestrian
-- [ ] buckle
+- [x] concentrate
+- [ ] for
 - [ ] allow
 
-> **解析**：本题在单元主题情境中复习表达 pedestrian。
+> **解析**：speed 名词，意为“速度；车速”，作动词时意为“超速；加速”。
 
 ### 6
 
-I asked the teacher about "`____`".
+Distracted driving with mobile phones is a leading cause of car accidents for `____`.
 
-- [x] stoplight
-- [ ] cycle
-- [ ] car accident
+- [x] cycle
+- [ ] had better
+- [ ] allowed to
 
-> **解析**：本题在单元主题情境中复习表达 stoplight。
+> **解析**：car accident 名词短语，意为“交通事故；车祸”。
 
 ### 7
 
-During the lesson, I heard "`____`".
+Drivers must yield the right of way to any pedestrian at the crosswalk (`____`).
 
-- [x] tunnel
+- [x] driving test
 - [ ] had better not
-- [ ] driving test
+- [ ] buckle
 
-> **解析**：本题在单元主题情境中复习表达 tunnel。
+> **解析**：pedestrian 可数名词，意为“行人；步行者”。
 
 ### 8
 
-My study partner remembered "`____`".
+You can park your car safely inside the multi-story parking garage `____` for.
 
-- [x] buckle
+- [x] for
 - [ ] allow
-- [ ] miss
+- [ ] car accident
 
-> **解析**：本题在单元主题情境中复习表达 buckle。
+> **解析**：parking garage 名词短语，意为“室内停车场；停车楼”（美式）。
 
 ### 9
 
-We used "`____`" in an example.
+It is strictly illegal to drive without a valid driver's license (`____`).
 
-- [x] cycle
-- [ ] car accident
-- [ ] pedestrian
+- [x] had better
+- [ ] allowed to
+- [ ] concentrate
 
-> **解析**：本题在单元主题情境中复习表达 cycle。
+> **解析**：illegal 形容词，意为“不合法的；违法的”，前缀 il- 表示否定。
 
 ### 10
 
-After class, I reviewed "`____`".
+You are supposed to turn on your headlights when driving at dusk (`____`).
 
 - [x] had better not
-- [ ] driving test
-- [ ] stoplight
+- [ ] buckle
+- [ ] cycle
 
-> **解析**：本题在单元主题情境中复习表达 had better not。
+> **解析**：be supposed to 常用情态短语，意为“应当；按规定应该”。
 
 </quiz-cloze>

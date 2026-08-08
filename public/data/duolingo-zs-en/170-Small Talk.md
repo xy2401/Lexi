@@ -53,70 +53,79 @@ hardly 和 interrupt 给场景加了一点礼貌维度：Sorry to interrupt, but
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“any”。  
-   **英文**：At work, we discussed "any".
-   > **解析**：本题在单元主题情境中复习表达 any。
+1. **中文**：你对附近好的咖啡馆有什么推荐吗？  
+   **英文**：Do you have any recommendations for good coffee shops nearby?
+   > **解析**：any 在疑问句中作限定词，修饰复数名词 recommendations，意为“任何、一些”。
 
-2. **中文**：同事提到了“culture”。  
-   **英文**：My coworker mentioned "culture".
-   > **解析**：本题在单元主题情境中复习表达 culture。
+2. **中文**：了解当地文化能让与国际同事闲聊变得容易得多。  
+   **英文**：Learning about local culture makes small talk with international colleagues much easier for any.
+   > **解析**：culture 为名词，意为“文化”。local culture 指当地文化。
 
-3. **中文**：会议中，我听到了“hardly”。  
-   **英文**：In the meeting, I heard "hardly".
-   > **解析**：本题在单元主题情境中复习表达 hardly。
+3. **中文**：我几乎没认出他来，因为他彻底改换了发型。  
+   **英文**：I hardly recognized him because he changed his hairstyle completely for architect.
+   > **解析**：hardly 为半否定副词，意为“几乎不、几乎没有”，修饰动词 recognized。
 
-4. **中文**：我把“journalist”写进了笔记。  
-   **英文**：I added "journalist" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 journalist。
+4. **中文**：认识一下我的朋友莎拉吧，她在一家全国性报社担任资深记者。  
+   **英文**：Meet my friend Sarah, who works as a senior journalist for a national newspaper (can't wait for).
+   > **解析**：journalist 为可数名词，意为“新闻记者”。work as a journalist 意为“从事记者工作”。
 
-5. **中文**：经理解释了“some”。  
-   **英文**：The manager explained "some".
-   > **解析**：本题在单元主题情境中复习表达 some。
+5. **中文**：让我把你介绍给我们设计部的几位同事认识一下。  
+   **英文**：Let me introduce you to some colleagues from our design department for culture.
+   > **解析**：some 为限定词，在肯定句中修饰复数名词 colleagues，意为“一些、若干”。
 
-6. **中文**：团队今天用到了“speaking of”。  
-   **英文**：Our team used "speaking of" today.
-   > **解析**：本题在单元主题情境中复习表达 speaking of。
+6. **中文**：说到周末计划，你听说过即将举行的艺术展吗？  
+   **英文**：Speaking of weekend plans, have you heard about the upcoming art exhibition? for familiar.
+   > **解析**：speaking of 为常用闲聊介词短语，意为“说到……、谈及……”，用于转换或接续话题。
 
-7. **中文**：午饭前，我们查看了“worth it”。  
-   **英文**：Before lunch, we checked "worth it".
-   > **解析**：本题在单元主题情境中复习表达 worth it。
+7. **中文**：参加这次社交活动绝对是值得的，因为我结识了许多行业专家。  
+   **英文**：Attending the networking event was definitely worth it because I met many industry experts (hang on).
+   > **解析**：worth it 为固定口语形容词短语，意为“值得的、有价值的”，作表语（was worth it）。
 
-8. **中文**：同事询问了“can't wait for”。  
-   **英文**：My colleague asked about "can't wait for".
-   > **解析**：本题在单元主题情境中复习表达 can't wait for。
+8. **中文**：我迫不及待地期待年度公司年会，以便与老朋友们聚聚了。  
+   **英文**：I can't wait for the annual company conference to catch up with old friends for hardly.
+   > **解析**：can't wait for 为固定短语，意为“迫不及待等待……”，后接名词或代词。
 
-9. **中文**：报告中包含“hang on”。  
-   **英文**：The report included "hang on".
-   > **解析**：本题在单元主题情境中复习表达 hang on。
+9. **中文**：稍等片刻，我从大衣口袋里拿一下我的名片。  
+   **英文**：Hang on a second while I fetch my business card from my coat pocket for interrupt.
+   > **解析**：hang on 为常用口语短语，意为“稍等、等等”，常用于社交交流中中断片刻时的提示。
 
-10. **中文**：一天结束时，我记住了“introduce”。  
-   **英文**：At the end of the day, I remembered "introduce".
-   > **解析**：本题在单元主题情境中复习表达 introduce。
+10. **中文**：请允许我向今天在场的各位介绍我以前的同学马克。  
+   **英文**：Allow me to introduce my former classmate, Mark, to everyone present today.
+   > **解析**：introduce 为及物动词，意为“介绍”。常用结构 introduce A to B（把A介绍给B）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "any".
-   > **中文**：工作中，我们讨论了“any”。
-2. My coworker mentioned "culture".
-   > **中文**：同事提到了“culture”。
-3. In the meeting, I heard "hardly".
-   > **中文**：会议中，我听到了“hardly”。
-4. I added "journalist" to my notes.
-   > **中文**：我把“journalist”写进了笔记。
-5. The manager explained "some".
-   > **中文**：经理解释了“some”。
-6. Our team used "speaking of" today.
-   > **中文**：团队今天用到了“speaking of”。
-7. Before lunch, we checked "worth it".
-   > **中文**：午饭前，我们查看了“worth it”。
-8. My colleague asked about "can't wait for".
-   > **中文**：同事询问了“can't wait for”。
-9. The report included "hang on".
-   > **中文**：报告中包含“hang on”。
-10. At the end of the day, I remembered "introduce".
-   > **中文**：一天结束时，我记住了“introduce”。
+1. Do you have any recommendations for good coffee shops nearby?
+   > **中文**：你对附近好的咖啡馆有什么推荐吗？
+
+2. Learning about local culture makes small talk with international colleagues much easier for any.
+   > **中文**：了解当地文化能让与国际同事闲聊变得容易得多。
+
+3. I hardly recognized him because he changed his hairstyle completely for architect.
+   > **中文**：我几乎没认出他来，因为他彻底改换了发型。
+
+4. Meet my friend Sarah, who works as a senior journalist for a national newspaper (can't wait for).
+   > **中文**：认识一下我的朋友莎拉吧，她在一家全国性报社担任资深记者。
+
+5. Let me introduce you to some colleagues from our design department for culture.
+   > **中文**：让我把你介绍给我们设计部的几位同事认识一下。
+
+6. Speaking of weekend plans, have you heard about the upcoming art exhibition? for familiar.
+   > **中文**：说到周末计划，你听说过即将举行的艺术展吗？
+
+7. Attending the networking event was definitely worth it because I met many industry experts (hang on).
+   > **中文**：参加这次社交活动绝对是值得的，因为我结识了许多行业专家。
+
+8. I can't wait for the annual company conference to catch up with old friends for hardly.
+   > **中文**：我迫不及待地期待年度公司年会，以便与老朋友们聚聚了。
+
+9. Hang on a second while I fetch my business card from my coat pocket for interrupt.
+   > **中文**：稍等片刻，我从大衣口袋里拿一下我的名片。
+
+10. Allow me to introduce my former classmate, Mark, to everyone present today.
+   > **中文**：请允许我向今天在场的各位介绍我以前的同学马克。
 
 </quiz-listening>
 
@@ -128,102 +137,102 @@ hardly 和 interrupt 给场景加了一点礼貌维度：Sorry to interrupt, but
 
 ### 1
 
-At work, we discussed "`____`".
+Do you h`____`ve any recommendations for good coffee shops nearby?
 
-- [x] any
-- [ ] journalist
-- [ ] worth it
+- [x] a
+- [ ] can't wait for
+- [ ] hang on
 
-> **解析**：本题在单元主题情境中复习表达 any。
+> **解析**：any 在疑问句中作限定词，修饰复数名词 recommendations，意为“任何、一些”。
 
 ### 2
 
-My coworker mentioned "`____`".
+Learning about local culture makes small talk with international colleagues much easier for `____`.
 
-- [x] culture
-- [ ] some
-- [ ] can't wait for
+- [x] any
+- [ ] culture
+- [ ] hardly
 
-> **解析**：本题在单元主题情境中复习表达 culture。
+> **解析**：culture 为名词，意为“文化”。local culture 指当地文化。
 
 ### 3
 
-In the meeting, I heard "`____`".
+I hardly recognized him because he changed his hairstyle completely for `____`.
 
-- [x] hardly
-- [ ] speaking of
-- [ ] hang on
+- [x] architect
+- [ ] familiar
+- [ ] interrupt
 
-> **解析**：本题在单元主题情境中复习表达 hardly。
+> **解析**：hardly 为半否定副词，意为“几乎不、几乎没有”，修饰动词 recognized。
 
 ### 4
 
-I added "`____`" to my notes.
+Meet my friend Sarah, who works as a senior journalist for a national newspaper (`____`).
 
-- [x] journalist
-- [ ] worth it
+- [x] can't wait for
+- [ ] hang on
 - [ ] introduce
 
-> **解析**：本题在单元主题情境中复习表达 journalist。
+> **解析**：journalist 为可数名词，意为“新闻记者”。work as a journalist 意为“从事记者工作”。
 
 ### 5
 
-The manager explained "`____`".
+Let me introduce you to some colleagues from our design department for `____`.
 
-- [x] some
-- [ ] can't wait for
-- [ ] any
+- [x] culture
+- [ ] hardly
+- [ ] a
 
-> **解析**：本题在单元主题情境中复习表达 some。
+> **解析**：some 为限定词，在肯定句中修饰复数名词 colleagues，意为“一些、若干”。
 
 ### 6
 
-Our team used "`____`" today.
+Speaking of weekend plans, have you heard about the upcoming art exhibition? for `____`.
 
-- [x] speaking of
-- [ ] hang on
-- [ ] culture
+- [x] familiar
+- [ ] interrupt
+- [ ] any
 
-> **解析**：本题在单元主题情境中复习表达 speaking of。
+> **解析**：speaking of 为常用闲聊介词短语，意为“说到……、谈及……”，用于转换或接续话题。
 
 ### 7
 
-Before lunch, we checked "`____`".
+Attending the networking event was definitely worth it because I met many industry experts (`____`).
 
-- [x] worth it
+- [x] hang on
 - [ ] introduce
-- [ ] hardly
+- [ ] architect
 
-> **解析**：本题在单元主题情境中复习表达 worth it。
+> **解析**：worth it 为固定口语形容词短语，意为“值得的、有价值的”，作表语（was worth it）。
 
 ### 8
 
-My colleague asked about "`____`".
+I can't wait for the annual company conference to catch up with old friends for `____`.
 
-- [x] can't wait for
-- [ ] any
-- [ ] journalist
+- [x] hardly
+- [ ] a
+- [ ] can't wait for
 
-> **解析**：本题在单元主题情境中复习表达 can't wait for。
+> **解析**：can't wait for 为固定短语，意为“迫不及待等待……”，后接名词或代词。
 
 ### 9
 
-The report included "`____`".
+Hang on a second while I fetch my business card from my coat pocket for `____`.
 
-- [x] hang on
+- [x] interrupt
+- [ ] any
 - [ ] culture
-- [ ] some
 
-> **解析**：本题在单元主题情境中复习表达 hang on。
+> **解析**：hang on 为常用口语短语，意为“稍等、等等”，常用于社交交流中中断片刻时的提示。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+Allow me to `____` my former classmate, Mark, to everyone present today.
 
 - [x] introduce
-- [ ] hardly
-- [ ] speaking of
+- [ ] architect
+- [ ] familiar
 
-> **解析**：本题在单元主题情境中复习表达 introduce。
+> **解析**：introduce 为及物动词，意为“介绍”。常用结构 introduce A to B（把A介绍给B）。
 
 </quiz-cloze>

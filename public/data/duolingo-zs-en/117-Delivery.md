@@ -61,70 +61,79 @@ allergic to 表示"对……过敏"。taste / smell 可作系动词（尝起来/
 
 <quiz-sentence-builder>
 
-1. **中文**：在餐厅里，我询问了“allergic”。  
-   **英文**：At the restaurant, I asked about "allergic".
-   > **解析**：本题在单元主题情境中复习表达 allergic。
+1. **中文**：当你加班到很晚时，在线订外卖非常方便。  
+   **英文**：Ordering food delivery online is convenient when you stay late at work for allergic.
+   > **解析**：delivery 作名词，意为“递送，外卖”。food delivery 指“外卖订餐”。
 
-2. **中文**：菜单上有“delivery”。  
-   **英文**：The menu included "delivery".
-   > **解析**：本题在单元主题情境中复习表达 delivery。
+2. **中文**：如果你对海鲜或坚果过敏，请告知餐厅工作人员。  
+   **英文**：Please inform the restaurant staff if you are allergic to seafood or nuts for beverage.
+   > **解析**：be allergic to... 为固定短语，意为“对……过敏”。
 
-3. **中文**：在餐桌旁，我们谈到了“hungry”。  
-   **英文**：At the table, we talked about "hungry".
-   > **解析**：本题在单元主题情境中复习表达 hungry。
+3. **中文**：新鲜西红柿和罗勒是这款意面酱的核心原料。  
+   **英文**：Fresh tomatoes and basil are essential ingredients in this pasta sauce for coconut.
+   > **解析**：ingredient 作可数名词，意为“成分，原料”。在句中使用复数 ingredients。
 
-4. **中文**：厨师提到了“location”。  
-   **英文**：The cook mentioned "location".
-   > **解析**：本题在单元主题情境中复习表达 location。
+4. **中文**：这家冰淇淋店提供二十多种独特的手工口味。  
+   **英文**：This ice cream shop offers over twenty unique homemade flavors for container.
+   > **解析**：flavor 作可数/不可数名词，意为“口味，风味”。
 
-5. **中文**：晚餐我点了“pineapple”。  
-   **英文**：I ordered "pineapple" for dinner.
-   > **解析**：本题在单元主题情境中复习表达 pineapple。
+5. **中文**：在炎热的夏日下午，冷冰茶是一种令人爽快的饮料。  
+   **英文**：A cold ice tea is a refreshing beverage on a warm summer afternoon for delivery.
+   > **解析**：beverage 作可数名词（正式表达），意为“饮料”。作表语。
 
-6. **中文**：我的朋友选择了“strawberry”。  
-   **英文**：My friend chose "strawberry".
-   > **解析**：本题在单元主题情境中复习表达 strawberry。
+6. **中文**：在山里徒步了整个上午后，我们非常饥饿。  
+   **英文**：We were very hungry after hiking up the mountain all morning for few.
+   > **解析**：hungry 作形容词，意为“饥饿的”。作系动词 were 的表语。
 
-7. **中文**：服务员重复了“tuna”。  
-   **英文**：The waiter repeated "tuna".
-   > **解析**：本题在单元主题情境中复习表达 tuna。
+7. **中文**：热汤是用一个坚固环保的塑料容器送到手上的。  
+   **英文**：The hot soup was delivered in a sturdy eco-friendly plastic container for flavor.
+   > **解析**：container 作可数名词，意为“容器，盒/罐”。plastic container 指“塑料容器”。
 
-8. **中文**：我们分享了一个关于“beverage”的故事。  
-   **英文**：We shared a story about "beverage".
-   > **解析**：本题在单元主题情境中复习表达 beverage。
+8. **中文**：如果你就餐需要塑料餐具，请记得在勾选框打钩。  
+   **英文**：Remember to check the box if you need plastic utensils with your meal for hungry.
+   > **解析**：utensils (常用复数) 作名词，意为“餐具，用具”。plastic utensils 指“塑料餐具”。
 
-9. **中文**：饭后，我记住了“few”。  
-   **英文**：After the meal, I remembered "few".
-   > **解析**：本题在单元主题情境中复习表达 few。
+9. **中文**：结账前请在外卖应用上选择你偏好的支付方式。  
+   **英文**：Select your preferred payment method on the delivery app before checking out for ingredient.
+   > **解析**：payment method 为名词短语，意为“支付方式，付款方法”。
 
-10. **中文**：那顿饭以“jar”收尾。  
-   **英文**：That meal ended with "jar".
-   > **解析**：本题在单元主题情境中复习表达 jar。
+10. **中文**：包括外卖费在内，订单的总费用为二十美元。  
+   **英文**：The total cost of the order including the delivery fee was twenty dollars for jar.
+   > **解析**：total 作形容词，意为“总的，总共的”。total cost 表示“总费用”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the restaurant, I asked about "allergic".
-   > **中文**：在餐厅里，我询问了“allergic”。
-2. The menu included "delivery".
-   > **中文**：菜单上有“delivery”。
-3. At the table, we talked about "hungry".
-   > **中文**：在餐桌旁，我们谈到了“hungry”。
-4. The cook mentioned "location".
-   > **中文**：厨师提到了“location”。
-5. I ordered "pineapple" for dinner.
-   > **中文**：晚餐我点了“pineapple”。
-6. My friend chose "strawberry".
-   > **中文**：我的朋友选择了“strawberry”。
-7. The waiter repeated "tuna".
-   > **中文**：服务员重复了“tuna”。
-8. We shared a story about "beverage".
-   > **中文**：我们分享了一个关于“beverage”的故事。
-9. After the meal, I remembered "few".
-   > **中文**：饭后，我记住了“few”。
-10. That meal ended with "jar".
-   > **中文**：那顿饭以“jar”收尾。
+1. Ordering food delivery online is convenient when you stay late at work for allergic.
+   > **中文**：当你加班到很晚时，在线订外卖非常方便。
+
+2. Please inform the restaurant staff if you are allergic to seafood or nuts for beverage.
+   > **中文**：如果你对海鲜或坚果过敏，请告知餐厅工作人员。
+
+3. Fresh tomatoes and basil are essential ingredients in this pasta sauce for coconut.
+   > **中文**：新鲜西红柿和罗勒是这款意面酱的核心原料。
+
+4. This ice cream shop offers over twenty unique homemade flavors for container.
+   > **中文**：这家冰淇淋店提供二十多种独特的手工口味。
+
+5. A cold ice tea is a refreshing beverage on a warm summer afternoon for delivery.
+   > **中文**：在炎热的夏日下午，冷冰茶是一种令人爽快的饮料。
+
+6. We were very hungry after hiking up the mountain all morning for few.
+   > **中文**：在山里徒步了整个上午后，我们非常饥饿。
+
+7. The hot soup was delivered in a sturdy eco-friendly plastic container for flavor.
+   > **中文**：热汤是用一个坚固环保的塑料容器送到手上的。
+
+8. Remember to check the box if you need plastic utensils with your meal for hungry.
+   > **中文**：如果你就餐需要塑料餐具，请记得在勾选框打钩。
+
+9. Select your preferred payment method on the delivery app before checking out for ingredient.
+   > **中文**：结账前请在外卖应用上选择你偏好的支付方式。
+
+10. The total cost of the order including the delivery fee was twenty dollars for jar.
+   > **中文**：包括外卖费在内，订单的总费用为二十美元。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ allergic to 表示"对……过敏"。taste / smell 可作系动词（尝起来/
 
 ### 1
 
-At the restaurant, I asked about "`____`".
+Ordering food delivery online is convenient when you stay late at work for `____`.
 
 - [x] allergic
-- [ ] location
-- [ ] tuna
+- [ ] container
+- [ ] flavor
 
-> **解析**：本题在单元主题情境中复习表达 allergic。
+> **解析**：delivery 作名词，意为“递送，外卖”。food delivery 指“外卖订餐”。
 
 ### 2
 
-The menu included "`____`".
+Please inform the restaurant staff if you are allergic to seafood or nuts for `____`.
 
-- [x] delivery
-- [ ] pineapple
-- [ ] beverage
+- [x] beverage
+- [ ] delivery
+- [ ] hungry
 
-> **解析**：本题在单元主题情境中复习表达 delivery。
+> **解析**：be allergic to... 为固定短语，意为“对……过敏”。
 
 ### 3
 
-At the table, we talked about "`____`".
+Fresh tomatoes and basil are essential ingredients in this pasta sauce for `____`.
 
-- [x] hungry
-- [ ] strawberry
+- [x] coconut
 - [ ] few
+- [ ] ingredient
 
-> **解析**：本题在单元主题情境中复习表达 hungry。
+> **解析**：ingredient 作可数名词，意为“成分，原料”。在句中使用复数 ingredients。
 
 ### 4
 
-The cook mentioned "`____`".
+This ice cream shop offers over twenty unique homemade flavors for `____`.
 
-- [x] location
-- [ ] tuna
+- [x] container
+- [ ] flavor
 - [ ] jar
 
-> **解析**：本题在单元主题情境中复习表达 location。
+> **解析**：flavor 作可数/不可数名词，意为“口味，风味”。
 
 ### 5
 
-I ordered "`____`" for dinner.
+A cold ice tea is a refreshing beverage on a warm summer afternoon for `____`.
 
-- [x] pineapple
-- [ ] beverage
+- [x] delivery
+- [ ] hungry
 - [ ] allergic
 
-> **解析**：本题在单元主题情境中复习表达 pineapple。
+> **解析**：beverage 作可数名词（正式表达），意为“饮料”。作表语。
 
 ### 6
 
-My friend chose "`____`".
+We were very hungry after hiking up the mountain all morning for `____`.
 
-- [x] strawberry
-- [ ] few
-- [ ] delivery
+- [x] few
+- [ ] ingredient
+- [ ] beverage
 
-> **解析**：本题在单元主题情境中复习表达 strawberry。
+> **解析**：hungry 作形容词，意为“饥饿的”。作系动词 were 的表语。
 
 ### 7
 
-The waiter repeated "`____`".
+The hot soup was delivered in a sturdy eco-friendly plastic container for `____`.
 
-- [x] tuna
+- [x] flavor
 - [ ] jar
-- [ ] hungry
+- [ ] coconut
 
-> **解析**：本题在单元主题情境中复习表达 tuna。
+> **解析**：container 作可数名词，意为“容器，盒/罐”。plastic container 指“塑料容器”。
 
 ### 8
 
-We shared a story about "`____`".
+Remember to check the box if you need plastic utensils with your meal for `____`.
 
-- [x] beverage
+- [x] hungry
 - [ ] allergic
-- [ ] location
+- [ ] container
 
-> **解析**：本题在单元主题情境中复习表达 beverage。
+> **解析**：utensils (常用复数) 作名词，意为“餐具，用具”。plastic utensils 指“塑料餐具”。
 
 ### 9
 
-After the meal, I remembered "`____`".
+Select your preferred payment method on the delivery app before checking out for `____`.
 
-- [x] few
+- [x] ingredient
+- [ ] beverage
 - [ ] delivery
-- [ ] pineapple
 
-> **解析**：本题在单元主题情境中复习表达 few。
+> **解析**：payment method 为名词短语，意为“支付方式，付款方法”。
 
 ### 10
 
-That meal ended with "`____`".
+The total cost of the order including the delivery fee was twenty dollars for `____`.
 
 - [x] jar
-- [ ] hungry
-- [ ] strawberry
+- [ ] coconut
+- [ ] few
 
-> **解析**：本题在单元主题情境中复习表达 jar。
+> **解析**：total 作形容词，意为“总的，总共的”。total cost 表示“总费用”。
 
 </quiz-cloze>

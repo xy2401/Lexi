@@ -77,70 +77,79 @@ go on（发生）、fit in with（融入）、out of control（失控）这些�
 
 <quiz-sentence-builder>
 
-1. **中文**：在餐厅里，我询问了“aside from”。  
-   **英文**：At the restaurant, I asked about "aside from".
-   > **解析**：本题在单元主题情境中复习表达 aside from。
+1. **中文**：当听到关于那位沉稳经理的新闻时，大家都感到震惊。  
+   **英文**：Everyone was astonished when they heard the news about the quiet manager (aside from).
+   > **解析**：`astonished` 是形容词，意为“十分震惊的、惊愕的”，在句中作表语。
 
-2. **中文**：菜单上有“claim”。  
-   **英文**：The menu included "claim".
-   > **解析**：本题在单元主题情境中复习表达 claim。
+2. **中文**：在他发表那个怪异的言论后，现场一片尴尬的沉默。  
+   **英文**：There was an awkward silence after he made that strange comment for astonished.
+   > **解析**：`awkward` 是形容词，意为“尴尬的、别扭的”，修饰名词 `silence`。
 
-3. **中文**：在餐桌旁，我们谈到了“even”。  
-   **英文**：At the table, we talked about "even".
-   > **解析**：本题在单元主题情境中复习表达 even。
+3. **中文**：奇妙的是，没人注意到坐在角落里的那位知名歌手。  
+   **英文**：Strangely enough, nobody noticed the famous singer sitting in the corner for awkward.
+   > **解析**：`strangely enough` 是插入语短语，意为“说来奇怪、奇妙的是”，置于句首。
 
-4. **中文**：厨师提到了“hold hands”。  
-   **英文**：The cook mentioned "hold hands".
-   > **解析**：本题在单元主题情境中复习表达 hold hands。
+4. **中文**：办公室里的谣言很快彻底失去了控制。  
+   **英文**：The rumors in the office quickly spiraled out of control for before.
+   > **解析**：`out of control` 是介词短语，意为“失去控制”，作补语修饰 `spiraled`。
 
-5. **中文**：晚餐我点了“minor”。  
-   **英文**：I ordered "minor" for dinner.
-   > **解析**：本题在单元主题情境中复习表达 minor。
+5. **中文**：如果我告诉你这个秘密，请你保守秘密。  
+   **英文**：If I tell you this secret, please keep it to yourself for claim.
+   > **解析**：`keep it to yourself` 是常用口语表达，意为“保守秘密、别告诉别人”。
 
-6. **中文**：我的朋友选择了“odd”。  
-   **英文**：My friend chose "odd".
-   > **解析**：本题在单元主题情境中复习表达 odd。
+6. **中文**：头条新闻结果只不过是无根据的八卦闲话。  
+   **英文**：The headline news turned out to be nothing but baseless gossip for clue.
+   > **解析**：`nothing but` 意为“只不过、仅仅是”，相当于 `only` 或 `merely`。
 
-7. **中文**：服务员重复了“swear”。  
-   **英文**：The waiter repeated "swear".
-   > **解析**：本题在单元主题情境中复习表达 swear。
+7. **中文**：除了几个微小的细节外，这个传言完全是假的。  
+   **英文**：Aside from a few minor details, the rumor was completely false for did.
+   > **解析**：`aside from` 是介词短语，意为“除了……之外”，在句中引导状语。
 
-8. **中文**：我们分享了一个关于“astonished”的故事。  
-   **英文**：We shared a story about "astonished".
-   > **解析**：本题在单元主题情境中复习表达 astonished。
+8. **中文**：她买了一份八卦报纸，想阅读最新的名人丑闻。  
+   **英文**：She bought a tabloid to read about the latest celebrity scandal for even.
+   > **解析**：`tabloid` 是名词，意为“通俗小报、八卦报纸”。
 
-9. **中文**：饭后，我记住了“clue”。  
-   **英文**：After the meal, I remembered "clue".
-   > **解析**：本题在单元主题情境中复习表达 clue。
+9. **中文**：这篇文章声称这对知名情侣上周分手了。  
+   **英文**：The article claims that the famous couple broke up last week (fit in with).
+   > **解析**：`claim` 作及物动词，意为“声称、主张”，后接 `that` 引导的宾语从句。
 
-10. **中文**：那顿饭以“food court”收尾。  
-   **英文**：That meal ended with "food court".
-   > **解析**：本题在单元主题情境中复习表达 food court。
+10. **中文**：他注意到今天团队会议期间有几种怪异的行为。  
+   **英文**：He noticed several odd behaviors during the team meeting today (food court).
+   > **解析**：`odd` 是形容词，意为“古怪的、异常的”，修饰复数名词 `behaviors`。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the restaurant, I asked about "aside from".
-   > **中文**：在餐厅里，我询问了“aside from”。
-2. The menu included "claim".
-   > **中文**：菜单上有“claim”。
-3. At the table, we talked about "even".
-   > **中文**：在餐桌旁，我们谈到了“even”。
-4. The cook mentioned "hold hands".
-   > **中文**：厨师提到了“hold hands”。
-5. I ordered "minor" for dinner.
-   > **中文**：晚餐我点了“minor”。
-6. My friend chose "odd".
-   > **中文**：我的朋友选择了“odd”。
-7. The waiter repeated "swear".
-   > **中文**：服务员重复了“swear”。
-8. We shared a story about "astonished".
-   > **中文**：我们分享了一个关于“astonished”的故事。
-9. After the meal, I remembered "clue".
-   > **中文**：饭后，我记住了“clue”。
-10. That meal ended with "food court".
-   > **中文**：那顿饭以“food court”收尾。
+1. Everyone was astonished when they heard the news about the quiet manager (aside from).
+   > **中文**：当听到关于那位沉稳经理的新闻时，大家都感到震惊。
+
+2. There was an awkward silence after he made that strange comment for astonished.
+   > **中文**：在他发表那个怪异的言论后，现场一片尴尬的沉默。
+
+3. Strangely enough, nobody noticed the famous singer sitting in the corner for awkward.
+   > **中文**：奇妙的是，没人注意到坐在角落里的那位知名歌手。
+
+4. The rumors in the office quickly spiraled out of control for before.
+   > **中文**：办公室里的谣言很快彻底失去了控制。
+
+5. If I tell you this secret, please keep it to yourself for claim.
+   > **中文**：如果我告诉你这个秘密，请你保守秘密。
+
+6. The headline news turned out to be nothing but baseless gossip for clue.
+   > **中文**：头条新闻结果只不过是无根据的八卦闲话。
+
+7. Aside from a few minor details, the rumor was completely false for did.
+   > **中文**：除了几个微小的细节外，这个传言完全是假的。
+
+8. She bought a tabloid to read about the latest celebrity scandal for even.
+   > **中文**：她买了一份八卦报纸，想阅读最新的名人丑闻。
+
+9. The article claims that the famous couple broke up last week (fit in with).
+   > **中文**：这篇文章声称这对知名情侣上周分手了。
+
+10. He noticed several odd behaviors during the team meeting today (food court).
+   > **中文**：他注意到今天团队会议期间有几种怪异的行为。
 
 </quiz-listening>
 
@@ -152,102 +161,102 @@ go on（发生）、fit in with（融入）、out of control（失控）这些�
 
 ### 1
 
-At the restaurant, I asked about "`____`".
+Everyone was astonished when they heard the news about the quiet manager (`____`).
 
 - [x] aside from
-- [ ] hold hands
-- [ ] swear
+- [ ] before
+- [ ] did
 
-> **解析**：本题在单元主题情境中复习表达 aside from。
+> **解析**：`astonished` 是形容词，意为“十分震惊的、惊愕的”，在句中作表语。
 
 ### 2
 
-The menu included "`____`".
+There was an awkward silence after he made that strange comment for `____`.
 
-- [x] claim
-- [ ] minor
-- [ ] astonished
+- [x] astonished
+- [ ] claim
+- [ ] even
 
-> **解析**：本题在单元主题情境中复习表达 claim。
+> **解析**：`awkward` 是形容词，意为“尴尬的、别扭的”，修饰名词 `silence`。
 
 ### 3
 
-At the table, we talked about "`____`".
+Strangely enough, nobody noticed the famous singer sitting in the corner for `____`.
 
-- [x] even
-- [ ] odd
+- [x] awkward
 - [ ] clue
+- [ ] fit in with
 
-> **解析**：本题在单元主题情境中复习表达 even。
+> **解析**：`strangely enough` 是插入语短语，意为“说来奇怪、奇妙的是”，置于句首。
 
 ### 4
 
-The cook mentioned "`____`".
+The rumors in the office quickly spiraled out of control for `____`.
 
-- [x] hold hands
-- [ ] swear
+- [x] before
+- [ ] did
 - [ ] food court
 
-> **解析**：本题在单元主题情境中复习表达 hold hands。
+> **解析**：`out of control` 是介词短语，意为“失去控制”，作补语修饰 `spiraled`。
 
 ### 5
 
-I ordered "`____`" for dinner.
+If I tell you this secret, please keep it to yourself for `____`.
 
-- [x] minor
-- [ ] astonished
+- [x] claim
+- [ ] even
 - [ ] aside from
 
-> **解析**：本题在单元主题情境中复习表达 minor。
+> **解析**：`keep it to yourself` 是常用口语表达，意为“保守秘密、别告诉别人”。
 
 ### 6
 
-My friend chose "`____`".
+The headline news turned out to be nothing but baseless gossip for `____`.
 
-- [x] odd
-- [ ] clue
-- [ ] claim
+- [x] clue
+- [ ] fit in with
+- [ ] astonished
 
-> **解析**：本题在单元主题情境中复习表达 odd。
+> **解析**：`nothing but` 意为“只不过、仅仅是”，相当于 `only` 或 `merely`。
 
 ### 7
 
-The waiter repeated "`____`".
+Aside from a few minor details, the rumor was completely false for `____`.
 
-- [x] swear
+- [x] did
 - [ ] food court
-- [ ] even
+- [ ] awkward
 
-> **解析**：本题在单元主题情境中复习表达 swear。
+> **解析**：`aside from` 是介词短语，意为“除了……之外”，在句中引导状语。
 
 ### 8
 
-We shared a story about "`____`".
+She bought a tabloid to read about the latest celebrity scandal for `____`.
 
-- [x] astonished
+- [x] even
 - [ ] aside from
-- [ ] hold hands
+- [ ] before
 
-> **解析**：本题在单元主题情境中复习表达 astonished。
+> **解析**：`tabloid` 是名词，意为“通俗小报、八卦报纸”。
 
 ### 9
 
-After the meal, I remembered "`____`".
+The article claims that the famous couple broke up last week (`____`).
 
-- [x] clue
+- [x] fit in with
+- [ ] astonished
 - [ ] claim
-- [ ] minor
 
-> **解析**：本题在单元主题情境中复习表达 clue。
+> **解析**：`claim` 作及物动词，意为“声称、主张”，后接 `that` 引导的宾语从句。
 
 ### 10
 
-That meal ended with "`____`".
+He noticed several odd behaviors during the team meeting today (`____`).
 
 - [x] food court
-- [ ] even
-- [ ] odd
+- [ ] awkward
+- [ ] clue
 
-> **解析**：本题在单元主题情境中复习表达 food court。
+> **解析**：`odd` 是形容词，意为“古怪的、异常的”，修饰复数名词 `behaviors`。
 
 </quiz-cloze>

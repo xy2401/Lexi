@@ -65,70 +65,79 @@ appliance, attic, brand new, commute, compromise, dream, fence, fireplace, go wi
 
 <quiz-sentence-builder>
 
-1. **中文**：在家里，我们谈到了“appliance”。  
-   **英文**：At home, we talked about "appliance".
-   > **解析**：本题在单元主题情境中复习表达 appliance。
+1. **中文**：节能型家用电器型号可以显著降低你每月的电费支出。  
+   **英文**：Energy-efficient household appliance models can significantly reduce your monthly electricity bills.
+   > **解析**：`appliance` 可数名词，意为“器具；家用电器”。`household appliance` 指“家用电器”。
 
-2. **中文**：家人提到了“compromise”。  
-   **英文**：My family mentioned "compromise".
-   > **解析**：本题在单元主题情境中复习表达 compromise。
+2. **中文**：在选择新公寓时，我们不得不选择在预算和地理位置之间做出妥协。  
+   **英文**：When choosing a new apartment, we had to compromise between budget and location for attic.
+   > **解析**：`compromise` 不及物动词，意为“妥协；让步”。常与介词 `between` 或 `on` 搭配。
 
-3. **中文**：在房间里，我注意到了“fireplace”。  
-   **英文**：In the room, I noticed "fireplace".
-   > **解析**：本题在单元主题情境中复习表达 fireplace。
+3. **中文**：端着一杯热巧克力坐在温暖的壁炉旁是我冬天最喜欢的日常。  
+   **英文**：Sitting by the warm fireplace with a cup of hot chocolate is my favorite winter routine (brand new).
+   > **解析**：`fireplace` 可数名词，意为“壁炉”。在住宅房屋描述中十分常见。
 
-4. **中文**：我们在家里用到了“landlord”。  
-   **英文**：We used "landlord" at home.
-   > **解析**：本题在单元主题情境中复习表达 landlord。
+4. **中文**：我们的房东同意明天早晨修理浴室渗水的水管。  
+   **英文**：Our landlord agreed to repair the leaking water pipe in the bathroom tomorrow morning for commute.
+   > **解析**：`landlord` 可数名词，意为“房东；地主”。对应女性房东名词为 `landlady`。
 
-5. **中文**：邻居询问了“overwhelmed”。  
-   **英文**：My neighbor asked about "overwhelmed".
-   > **解析**：本题在单元主题情境中复习表达 overwhelmed。
+5. **中文**：面对整栋房子翻新的这项巨任务，她感到彻底不堪重负。  
+   **英文**：She felt completely overwhelmed by the daunting task of renovating the entire house for compromise.
+   > **解析**：`overwhelmed` 形容词，意为“感到不堪重负的；受打击的”。常用结构 `be / feel overwhelmed by sth.`。
 
-6. **中文**：我在门边写下了“story”。  
-   **英文**：I wrote down "story" by the door.
-   > **解析**：本题在单元主题情境中复习表达 story。
+6. **中文**：他们购买了一栋位于安静郊区社区、富有魅力的两层房屋。  
+   **英文**：They purchased a charming two-story house located in a quiet suburban neighborhood for dream.
+   > **解析**：`story`（美式拼写，英式为 `storey`）名词，在此处意为“楼层；层”。在复合形容词中（如 `two-story`）作楼层单位。
 
-7. **中文**：晚饭后，我们重复了“way too”。  
-   **英文**：After dinner, we repeated "way too".
-   > **解析**：本题在单元主题情境中复习表达 way too。
+7. **中文**：这间市中心单身公寓的月租金对学生来说太高了。  
+   **英文**：The monthly rent for this downtown studio apartment is way too high for students for fence.
+   > **解析**：`way too` 为口语强调程度副词短语，意为“太……；过于……”，修饰形容词 `high`。
 
-8. **中文**：家庭故事里包含“attic”。  
-   **英文**：The family story included "attic".
-   > **解析**：本题在单元主题情境中复习表达 attic。
+8. **中文**：我们把所有的旧相册和节日装饰品都存在了阁楼里。  
+   **英文**：We stored all our old photo albums and holiday decorations up in the attic for fireplace.
+   > **解析**：`attic` 可数名词，意为“阁楼；顶楼房间”。介词短语 `in the attic`（在阁楼里）。
 
-9. **中文**：睡前，我记住了“dream”。  
-   **英文**：Before bed, I remembered "dream".
-   > **解析**：本题在单元主题情境中复习表达 dream。
+9. **中文**：亲自设计一个宽敞的厨房十多年来一直是她的梦想。  
+   **英文**：Designing her own spacious kitchen has been her dream for over ten years (go with).
+   > **解析**：`dream` 名词，意为“梦想；愿望”。在住宅情境中常指“理想中的房子/设施”。
 
-10. **中文**：那个夜晚以“keep”收尾。  
-   **英文**：That evening ended with "keep".
-   > **解析**：本题在单元主题情境中复习表达 keep。
+10. **中文**：你应该保持你的生活空间干净整洁，以维持健康的家庭环境。  
+   **英文**：You should keep your living space clean and tidy to maintain a healthy home environment.
+   > **解析**：`keep` 动词，后接“宾语 + 形容词作宾语补足语”（如 `keep your living space clean`），意为“使……保持某种状态”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At home, we talked about "appliance".
-   > **中文**：在家里，我们谈到了“appliance”。
-2. My family mentioned "compromise".
-   > **中文**：家人提到了“compromise”。
-3. In the room, I noticed "fireplace".
-   > **中文**：在房间里，我注意到了“fireplace”。
-4. We used "landlord" at home.
-   > **中文**：我们在家里用到了“landlord”。
-5. My neighbor asked about "overwhelmed".
-   > **中文**：邻居询问了“overwhelmed”。
-6. I wrote down "story" by the door.
-   > **中文**：我在门边写下了“story”。
-7. After dinner, we repeated "way too".
-   > **中文**：晚饭后，我们重复了“way too”。
-8. The family story included "attic".
-   > **中文**：家庭故事里包含“attic”。
-9. Before bed, I remembered "dream".
-   > **中文**：睡前，我记住了“dream”。
-10. That evening ended with "keep".
-   > **中文**：那个夜晚以“keep”收尾。
+1. Energy-efficient household appliance models can significantly reduce your monthly electricity bills.
+   > **中文**：节能型家用电器型号可以显著降低你每月的电费支出。
+
+2. When choosing a new apartment, we had to compromise between budget and location for attic.
+   > **中文**：在选择新公寓时，我们不得不选择在预算和地理位置之间做出妥协。
+
+3. Sitting by the warm fireplace with a cup of hot chocolate is my favorite winter routine (brand new).
+   > **中文**：端着一杯热巧克力坐在温暖的壁炉旁是我冬天最喜欢的日常。
+
+4. Our landlord agreed to repair the leaking water pipe in the bathroom tomorrow morning for commute.
+   > **中文**：我们的房东同意明天早晨修理浴室渗水的水管。
+
+5. She felt completely overwhelmed by the daunting task of renovating the entire house for compromise.
+   > **中文**：面对整栋房子翻新的这项巨任务，她感到彻底不堪重负。
+
+6. They purchased a charming two-story house located in a quiet suburban neighborhood for dream.
+   > **中文**：他们购买了一栋位于安静郊区社区、富有魅力的两层房屋。
+
+7. The monthly rent for this downtown studio apartment is way too high for students for fence.
+   > **中文**：这间市中心单身公寓的月租金对学生来说太高了。
+
+8. We stored all our old photo albums and holiday decorations up in the attic for fireplace.
+   > **中文**：我们把所有的旧相册和节日装饰品都存在了阁楼里。
+
+9. Designing her own spacious kitchen has been her dream for over ten years (go with).
+   > **中文**：亲自设计一个宽敞的厨房十多年来一直是她的梦想。
+
+10. You should keep your living space clean and tidy to maintain a healthy home environment.
+   > **中文**：你应该保持你的生活空间干净整洁，以维持健康的家庭环境。
 
 </quiz-listening>
 
@@ -140,102 +149,102 @@ appliance, attic, brand new, commute, compromise, dream, fence, fireplace, go wi
 
 ### 1
 
-At home, we talked about "`____`".
+Energy-efficient household `____` models can significantly reduce your monthly electricity bills.
 
 - [x] appliance
-- [ ] landlord
-- [ ] way too
+- [ ] commute
+- [ ] fence
 
-> **解析**：本题在单元主题情境中复习表达 appliance。
+> **解析**：`appliance` 可数名词，意为“器具；家用电器”。`household appliance` 指“家用电器”。
 
 ### 2
 
-My family mentioned "`____`".
+When choosing a new apartment, we had to compromise between budget and location for `____`.
 
-- [x] compromise
-- [ ] overwhelmed
-- [ ] attic
+- [x] attic
+- [ ] compromise
+- [ ] fireplace
 
-> **解析**：本题在单元主题情境中复习表达 compromise。
+> **解析**：`compromise` 不及物动词，意为“妥协；让步”。常与介词 `between` 或 `on` 搭配。
 
 ### 3
 
-In the room, I noticed "`____`".
+Sitting by the warm fireplace with a cup of hot chocolate is my favorite winter routine (`____`).
 
-- [x] fireplace
-- [ ] story
+- [x] brand new
 - [ ] dream
+- [ ] go with
 
-> **解析**：本题在单元主题情境中复习表达 fireplace。
+> **解析**：`fireplace` 可数名词，意为“壁炉”。在住宅房屋描述中十分常见。
 
 ### 4
 
-We used "`____`" at home.
+Our landlord agreed to repair the leaking water pipe in the bathroom tomorrow morning for `____`.
 
-- [x] landlord
-- [ ] way too
+- [x] commute
+- [ ] fence
 - [ ] keep
 
-> **解析**：本题在单元主题情境中复习表达 landlord。
+> **解析**：`landlord` 可数名词，意为“房东；地主”。对应女性房东名词为 `landlady`。
 
 ### 5
 
-My neighbor asked about "`____`".
+She felt completely overwhelmed by the daunting task of renovating the entire house for `____`.
 
-- [x] overwhelmed
-- [ ] attic
+- [x] compromise
+- [ ] fireplace
 - [ ] appliance
 
-> **解析**：本题在单元主题情境中复习表达 overwhelmed。
+> **解析**：`overwhelmed` 形容词，意为“感到不堪重负的；受打击的”。常用结构 `be / feel overwhelmed by sth.`。
 
 ### 6
 
-I wrote down "`____`" by the door.
+They purchased a charming two-story house located in a quiet suburban neighborhood for `____`.
 
-- [x] story
-- [ ] dream
-- [ ] compromise
+- [x] dream
+- [ ] go with
+- [ ] attic
 
-> **解析**：本题在单元主题情境中复习表达 story。
+> **解析**：`story`（美式拼写，英式为 `storey`）名词，在此处意为“楼层；层”。在复合形容词中（如 `two-story`）作楼层单位。
 
 ### 7
 
-After dinner, we repeated "`____`".
+The monthly rent for this downtown studio apartment is way too high for students for `____`.
 
-- [x] way too
+- [x] fence
 - [ ] keep
-- [ ] fireplace
+- [ ] brand new
 
-> **解析**：本题在单元主题情境中复习表达 way too。
+> **解析**：`way too` 为口语强调程度副词短语，意为“太……；过于……”，修饰形容词 `high`。
 
 ### 8
 
-The family story included "`____`".
+We stored all our old photo albums and holiday decorations up in the attic for `____`.
 
-- [x] attic
+- [x] fireplace
 - [ ] appliance
-- [ ] landlord
+- [ ] commute
 
-> **解析**：本题在单元主题情境中复习表达 attic。
+> **解析**：`attic` 可数名词，意为“阁楼；顶楼房间”。介词短语 `in the attic`（在阁楼里）。
 
 ### 9
 
-Before bed, I remembered "`____`".
+Designing her own spacious kitchen has been her dream for over ten years (`____`).
 
-- [x] dream
+- [x] go with
+- [ ] attic
 - [ ] compromise
-- [ ] overwhelmed
 
-> **解析**：本题在单元主题情境中复习表达 dream。
+> **解析**：`dream` 名词，意为“梦想；愿望”。在住宅情境中常指“理想中的房子/设施”。
 
 ### 10
 
-That evening ended with "`____`".
+You should `____` your living space clean and tidy to maintain a healthy home environment.
 
 - [x] keep
-- [ ] fireplace
-- [ ] story
+- [ ] brand new
+- [ ] dream
 
-> **解析**：本题在单元主题情境中复习表达 keep。
+> **解析**：`keep` 动词，后接“宾语 + 形容词作宾语补足语”（如 `keep your living space clean`），意为“使……保持某种状态”。
 
 </quiz-cloze>

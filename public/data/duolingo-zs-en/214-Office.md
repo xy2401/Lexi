@@ -51,70 +51,79 @@ person who / thing that / reason why / the one 是定语从句和名词短语的
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“actually”。  
-   **英文**：At work, we discussed "actually".
-   > **解析**：本题在单元主题情境中复习表达 actually。
+1. **中文**：实际上我在数字营销领域拥有三年的相关经验。  
+   **英文**：I actually have three years of relevant experience in digital marketing.
+   > **解析**：`actually` 副词，意为“实际上；事实上”。在面试或商务沟通中常用于修正、补充或强调真实的状况。
 
-2. **中文**：同事提到了“contract”。  
-   **英文**：My coworker mentioned "contract".
-   > **解析**：本题在单元主题情境中复习表达 contract。
+2. **中文**：在签署雇佣合同之前，请务必仔细审查所有条款。  
+   **英文**：Before signing the employment contract, make sure to review all the clauses carefully (as well as).
+   > **解析**：`contract` 可数名词，在此处读作 /ˈkɑːntrækt/，意为“合同；契约”。搭配 `sign a contract`（签合同）。
 
-3. **中文**：会议中，我听到了“i mean”。  
-   **英文**：In the meeting, I heard "i mean".
-   > **解析**：本题在单元主题情境中复习表达 i mean。
+3. **中文**：我喜欢与团队合作；我的意思是，合作总能激发最好的创意。  
+   **英文**：I love working with teams; I mean, collaboration always brings out the best ideas for basically.
+   > **解析**：`i mean` 为插入语/口语话语标记，用于进一步阐释、补充说明或澄清刚才所说的意思（意为“我的意思是”）。
 
-4. **中文**：我把“manage”写进了笔记。  
-   **英文**：I added "manage" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 manage。
+4. **中文**：你能在在这个新项目上管理一个由五名软件工程师组成的团队吗？  
+   **英文**：Can you manage a team of five software engineers on this new project? for challenging.
+   > **解析**：`manage` 及物动词，意为“管理；领导；应对”。作动词时后接名词宾语 `a team`，表达管理职责。
 
-5. **中文**：经理解释了“postpone”。  
-   **英文**：The manager explained "postpone".
-   > **解析**：本题在单元主题情境中复习表达 postpone。
+5. **中文**：由于日程冲突，我们需要将面试推迟到周五。  
+   **英文**：Due to a scheduling conflict, we need to postpone the interview until Friday for contract.
+   > **解析**：`postpone` 及物动词，意为“推迟；延期”。常与介词 `until` 或 `to` 搭配（如 `postpone sth. until...`），同义短语为 `put off`。
 
-6. **中文**：团队今天用到了“some type of”。  
-   **英文**：Our team used "some type of" today.
-   > **解析**：本题在单元主题情境中复习表达 some type of。
+6. **中文**：招聘经理说他们正在寻找具有某种管理背景的人。  
+   **英文**：The hiring manager said they are looking for someone with some type of management background (did you say).
+   > **解析**：`some type of` 为数量/限定短语，意为“某种类型的；某种”。后接单数或不可数名词（如 `management background`）。
 
-7. **中文**：午饭前，我们查看了“urgent”。  
-   **英文**：Before lunch, we checked "urgent".
-   > **解析**：本题在单元主题情境中复习表达 urgent。
+7. **中文**：我们收到客户的紧急信息，需要立即回复。  
+   **英文**：We received an urgent message from the client requiring an immediate response for financial.
+   > **解析**：`urgent` 形容词，意为“紧急的；急迫的”。常修饰 `message`, `matter`, `task` 等，在句中做前置定语。
 
-8. **中文**：同事询问了“as well as”。  
-   **英文**：My colleague asked about "as well as".
-   > **解析**：本题在单元主题情境中复习表达 as well as。
+8. **中文**：她精通英语和德语，这对我们的团队来说是一笔巨大的财富。  
+   **英文**：She is fluent in English as well as German, which is a great asset for our team (i hope i).
+   > **解析**：`as well as` 为并列连词短语，意为“以及；还有”。连接两个并列的语言能力名词 `English` 与 `German`。
 
-9. **中文**：报告中包含“did you say”。  
-   **英文**：The report included "did you say".
-   > **解析**：本题在单元主题情境中复习表达 did you say。
+9. **中文**：你是说会议改到了今天下午两点吗？  
+   **英文**：Did you say that the meeting was rescheduled for two o'clock this afternoon? (i mean).
+   > **解析**：`did you say` 为问句固定结构，用于向说话人重新确认听到的信息，后接宾语从句。
 
-10. **中文**：一天结束时，我记住了“just a minute”。  
-   **英文**：At the end of the day, I remembered "just a minute".
-   > **解析**：本题在单元主题情境中复习表达 just a minute。
+10. **中文**：请稍等一下，让我复核一下季度报告中的数据。  
+   **英文**：Just a minute, let me double check the figures in the quarterly report.
+   > **解析**：`just a minute` 为常用口语短语，意为“稍等片刻；等一下”。在办公对话中用于打断或暂停当前话题以查阅资料。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "actually".
-   > **中文**：工作中，我们讨论了“actually”。
-2. My coworker mentioned "contract".
-   > **中文**：同事提到了“contract”。
-3. In the meeting, I heard "i mean".
-   > **中文**：会议中，我听到了“i mean”。
-4. I added "manage" to my notes.
-   > **中文**：我把“manage”写进了笔记。
-5. The manager explained "postpone".
-   > **中文**：经理解释了“postpone”。
-6. Our team used "some type of" today.
-   > **中文**：团队今天用到了“some type of”。
-7. Before lunch, we checked "urgent".
-   > **中文**：午饭前，我们查看了“urgent”。
-8. My colleague asked about "as well as".
-   > **中文**：同事询问了“as well as”。
-9. The report included "did you say".
-   > **中文**：报告中包含“did you say”。
-10. At the end of the day, I remembered "just a minute".
-   > **中文**：一天结束时，我记住了“just a minute”。
+1. I actually have three years of relevant experience in digital marketing.
+   > **中文**：实际上我在数字营销领域拥有三年的相关经验。
+
+2. Before signing the employment contract, make sure to review all the clauses carefully (as well as).
+   > **中文**：在签署雇佣合同之前，请务必仔细审查所有条款。
+
+3. I love working with teams; I mean, collaboration always brings out the best ideas for basically.
+   > **中文**：我喜欢与团队合作；我的意思是，合作总能激发最好的创意。
+
+4. Can you manage a team of five software engineers on this new project? for challenging.
+   > **中文**：你能在在这个新项目上管理一个由五名软件工程师组成的团队吗？
+
+5. Due to a scheduling conflict, we need to postpone the interview until Friday for contract.
+   > **中文**：由于日程冲突，我们需要将面试推迟到周五。
+
+6. The hiring manager said they are looking for someone with some type of management background (did you say).
+   > **中文**：招聘经理说他们正在寻找具有某种管理背景的人。
+
+7. We received an urgent message from the client requiring an immediate response for financial.
+   > **中文**：我们收到客户的紧急信息，需要立即回复。
+
+8. She is fluent in English as well as German, which is a great asset for our team (i hope i).
+   > **中文**：她精通英语和德语，这对我们的团队来说是一笔巨大的财富。
+
+9. Did you say that the meeting was rescheduled for two o'clock this afternoon? (i mean).
+   > **中文**：你是说会议改到了今天下午两点吗？
+
+10. Just a minute, let me double check the figures in the quarterly report.
+   > **中文**：请稍等一下，让我复核一下季度报告中的数据。
 
 </quiz-listening>
 
@@ -126,102 +135,102 @@ person who / thing that / reason why / the one 是定语从句和名词短语的
 
 ### 1
 
-At work, we discussed "`____`".
+I `____` have three years of relevant experience in digital marketing.
 
 - [x] actually
-- [ ] manage
-- [ ] urgent
+- [ ] challenging
+- [ ] financial
 
-> **解析**：本题在单元主题情境中复习表达 actually。
+> **解析**：`actually` 副词，意为“实际上；事实上”。在面试或商务沟通中常用于修正、补充或强调真实的状况。
 
 ### 2
 
-My coworker mentioned "`____`".
+Before signing the employment contract, make sure to review all the clauses carefully (`____`).
 
-- [x] contract
-- [ ] postpone
-- [ ] as well as
+- [x] as well as
+- [ ] contract
+- [ ] i hope i
 
-> **解析**：本题在单元主题情境中复习表达 contract。
+> **解析**：`contract` 可数名词，在此处读作 /ˈkɑːntrækt/，意为“合同；契约”。搭配 `sign a contract`（签合同）。
 
 ### 3
 
-In the meeting, I heard "`____`".
+I love working with teams; I mean, collaboration always brings out the best ideas for `____`.
 
-- [x] i mean
-- [ ] some type of
+- [x] basically
 - [ ] did you say
+- [ ] i mean
 
-> **解析**：本题在单元主题情境中复习表达 i mean。
+> **解析**：`i mean` 为插入语/口语话语标记，用于进一步阐释、补充说明或澄清刚才所说的意思（意为“我的意思是”）。
 
 ### 4
 
-I added "`____`" to my notes.
+Can you manage a team of five software engineers on this new project? for `____`.
 
-- [x] manage
-- [ ] urgent
+- [x] challenging
+- [ ] financial
 - [ ] just a minute
 
-> **解析**：本题在单元主题情境中复习表达 manage。
+> **解析**：`manage` 及物动词，意为“管理；领导；应对”。作动词时后接名词宾语 `a team`，表达管理职责。
 
 ### 5
 
-The manager explained "`____`".
+Due to a scheduling conflict, we need to postpone the interview until Friday for `____`.
 
-- [x] postpone
-- [ ] as well as
+- [x] contract
+- [ ] i hope i
 - [ ] actually
 
-> **解析**：本题在单元主题情境中复习表达 postpone。
+> **解析**：`postpone` 及物动词，意为“推迟；延期”。常与介词 `until` 或 `to` 搭配（如 `postpone sth. until...`），同义短语为 `put off`。
 
 ### 6
 
-Our team used "`____`" today.
+The hiring manager said they are looking for someone with some type of management background (`____`).
 
-- [x] some type of
-- [ ] did you say
-- [ ] contract
+- [x] did you say
+- [ ] i mean
+- [ ] as well as
 
-> **解析**：本题在单元主题情境中复习表达 some type of。
+> **解析**：`some type of` 为数量/限定短语，意为“某种类型的；某种”。后接单数或不可数名词（如 `management background`）。
 
 ### 7
 
-Before lunch, we checked "`____`".
+We received an urgent message from the client requiring an immediate response for `____`.
 
-- [x] urgent
+- [x] financial
 - [ ] just a minute
-- [ ] i mean
+- [ ] basically
 
-> **解析**：本题在单元主题情境中复习表达 urgent。
+> **解析**：`urgent` 形容词，意为“紧急的；急迫的”。常修饰 `message`, `matter`, `task` 等，在句中做前置定语。
 
 ### 8
 
-My colleague asked about "`____`".
+She is fluent in English as well as German, which is a great asset for our team (`____`).
 
-- [x] as well as
+- [x] i hope i
 - [ ] actually
-- [ ] manage
+- [ ] challenging
 
-> **解析**：本题在单元主题情境中复习表达 as well as。
+> **解析**：`as well as` 为并列连词短语，意为“以及；还有”。连接两个并列的语言能力名词 `English` 与 `German`。
 
 ### 9
 
-The report included "`____`".
+Did you say that the meeting was rescheduled for two o'clock this afternoon? (`____`).
 
-- [x] did you say
+- [x] i mean
+- [ ] as well as
 - [ ] contract
-- [ ] postpone
 
-> **解析**：本题在单元主题情境中复习表达 did you say。
+> **解析**：`did you say` 为问句固定结构，用于向说话人重新确认听到的信息，后接宾语从句。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+`____`, let me double check the figures in the quarterly report.
 
 - [x] just a minute
-- [ ] i mean
-- [ ] some type of
+- [ ] basically
+- [ ] did you say
 
-> **解析**：本题在单元主题情境中复习表达 just a minute。
+> **解析**：`just a minute` 为常用口语短语，意为“稍等片刻；等一下”。在办公对话中用于打断或暂停当前话题以查阅资料。
 
 </quiz-cloze>

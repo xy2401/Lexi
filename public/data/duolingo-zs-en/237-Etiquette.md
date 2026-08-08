@@ -61,70 +61,79 @@ after being, after having, arrangement, as for, bouquet, depending on, do withou
 
 <quiz-sentence-builder>
 
-1. **中文**：聚会上，我听到了“after being”。  
-   **英文**：At the gathering, I heard "after being".
-   > **解析**：本题在单元主题情境中复习表达 after being。
+1. **中文**：在被邀请参加慈善晚会后，她立即确认了出席。  
+   **英文**：After being invited to the charity gala, she promptly confirmed her attendance.
+   > **解析**：`after being + 过去分词` 为“介词 + 动名词被动语态”结构，表示主语在“被……之后”。
 
-2. **中文**：朋友说了“bouquet”。  
-   **英文**：My friend said "bouquet".
-   > **解析**：本题在单元主题情境中复习表达 bouquet。
+2. **中文**：客人带来了一束绚丽的新鲜玫瑰花束作为送给主人的礼物。  
+   **英文**：The guest brought a gorgeous bouquet of fresh roses as a gift for the host (after having).
+   > **解析**：`bouquet` 可数名词，在此读作 /buːˈkeɪ/，意为“花束”。`bouquet of flowers`（花束）。
 
-3. **中文**：我们一起谈到了“formal”。  
-   **英文**：We talked about "formal" together.
-   > **解析**：本题在单元主题情境中复习表达 formal。
+3. **中文**：请柬上明确说明男士应穿西装打领带等正式服装。  
+   **英文**：The invitation specifies that gentlemen should wear formal attire such as a suit and tie for arrangement.
+   > **解析**：`formal` 形容词，意为“正式的；合乎礼仪的”。修饰名词 `attire / dress`。
 
-4. **中文**：有人向我解释了“interact”。  
-   **英文**：Someone explained "interact" to me.
-   > **解析**：本题在单元主题情境中复习表达 interact。
+4. **中文**：派对为同事们在工作之余互相交流/互动提供了一个绝佳的机会。  
+   **英文**：The party provided a wonderful opportunity for colleagues to interact outside of work (as for).
+   > **解析**：`interact` 不及物动词，意为“交流；互动”。搭配 `interact with sb.`。
 
-5. **中文**：我用“place”作了回应。  
-   **英文**：I replied with "place".
-   > **解析**：本题在单元主题情境中复习表达 place。
+5. **中文**：每个晚餐座位上都摆放了一张个性化的席位卡，以引导客人就座。  
+   **英文**：A personalized place card was set at each dinner seat to guide guests for bouquet.
+   > **解析**：`place` 在此处用作名词修饰语，短语 `place card`（席位卡/名卡）。
 
-6. **中文**：对话中包含“tablecloth”。  
-   **英文**：The conversation included "tablecloth".
-   > **解析**：本题在单元主题情境中复习表达 tablecloth。
+6. **中文**：在摆放餐具前，她在餐桌上铺了一块平整洁白的桌布。  
+   **英文**：She spread a crisp white tablecloth over the dining table before setting the dishes (depending on).
+   > **解析**：`tablecloth` 可数/不可数名词，意为“桌布；台布”。
 
-7. **中文**：同伴重复了“up to”。  
-   **英文**：My partner repeated "up to".
-   > **解析**：本题在单元主题情境中复习表达 up to。
+7. **中文**：是否携带男伴/女伴参加晚间婚礼招待会取决于你。  
+   **英文**：It is up to you whether to bring a guest to the evening wedding reception (do without).
+   > **解析**：`be up to sb.` 为固定短语，意为“取决于某人；由某人决定”。
 
-8. **中文**：我们聊到“after having”时笑了。  
-   **英文**：We laughed about "after having".
-   > **解析**：本题在单元主题情境中复习表达 after having。
+8. **中文**：在收到正式请柬后，我们立即发出了回复。  
+   **英文**：After having received the formal invitation, we immediately sent our RSVP.
+   > **解析**：`after having + 过去分词` 为“介词 + 动名词完成时”结构，强调动作发生在主句之前。
 
-9. **中文**：离开前，我记住了“depending on”。  
-   **英文**：Before leaving, I remembered "depending on".
-   > **解析**：本题在单元主题情境中复习表达 depending on。
+9. **中文**：着装要求可能会有所不同，这取决于活动是在室内还是室外举办。  
+   **英文**：Dress code expectations may vary depending on whether the event is held indoors or outdoors for host.
+   > **解析**：`depending on` 介词短语，意为“取决于；根据”，在句中作状语。
 
-10. **中文**：那段对话以“in honor of”收尾。  
-   **英文**：That conversation ended with "in honor of".
-   > **解析**：本题在单元主题情境中复习表达 in honor of。
+10. **中文**：主人举办了一场盛大的晚宴，以向来访的大使表示敬意/为来访的大使祝贺。  
+   **英文**：The host organized a grand dinner party in honor of the visiting ambassador.
+   > **解析**：`in honor of` 介词短语，意为“为了向……表示敬意；为纪念/祝贺……”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the gathering, I heard "after being".
-   > **中文**：聚会上，我听到了“after being”。
-2. My friend said "bouquet".
-   > **中文**：朋友说了“bouquet”。
-3. We talked about "formal" together.
-   > **中文**：我们一起谈到了“formal”。
-4. Someone explained "interact" to me.
-   > **中文**：有人向我解释了“interact”。
-5. I replied with "place".
-   > **中文**：我用“place”作了回应。
-6. The conversation included "tablecloth".
-   > **中文**：对话中包含“tablecloth”。
-7. My partner repeated "up to".
-   > **中文**：同伴重复了“up to”。
-8. We laughed about "after having".
-   > **中文**：我们聊到“after having”时笑了。
-9. Before leaving, I remembered "depending on".
-   > **中文**：离开前，我记住了“depending on”。
-10. That conversation ended with "in honor of".
-   > **中文**：那段对话以“in honor of”收尾。
+1. After being invited to the charity gala, she promptly confirmed her attendance.
+   > **中文**：在被邀请参加慈善晚会后，她立即确认了出席。
+
+2. The guest brought a gorgeous bouquet of fresh roses as a gift for the host (after having).
+   > **中文**：客人带来了一束绚丽的新鲜玫瑰花束作为送给主人的礼物。
+
+3. The invitation specifies that gentlemen should wear formal attire such as a suit and tie for arrangement.
+   > **中文**：请柬上明确说明男士应穿西装打领带等正式服装。
+
+4. The party provided a wonderful opportunity for colleagues to interact outside of work (as for).
+   > **中文**：派对为同事们在工作之余互相交流/互动提供了一个绝佳的机会。
+
+5. A personalized place card was set at each dinner seat to guide guests for bouquet.
+   > **中文**：每个晚餐座位上都摆放了一张个性化的席位卡，以引导客人就座。
+
+6. She spread a crisp white tablecloth over the dining table before setting the dishes (depending on).
+   > **中文**：在摆放餐具前，她在餐桌上铺了一块平整洁白的桌布。
+
+7. It is up to you whether to bring a guest to the evening wedding reception (do without).
+   > **中文**：是否携带男伴/女伴参加晚间婚礼招待会取决于你。
+
+8. After having received the formal invitation, we immediately sent our RSVP.
+   > **中文**：在收到正式请柬后，我们立即发出了回复。
+
+9. Dress code expectations may vary depending on whether the event is held indoors or outdoors for host.
+   > **中文**：着装要求可能会有所不同，这取决于活动是在室内还是室外举办。
+
+10. The host organized a grand dinner party in honor of the visiting ambassador.
+   > **中文**：主人举办了一场盛大的晚宴，以向来访的大使表示敬意/为来访的大使祝贺。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ after being, after having, arrangement, as for, bouquet, depending on, do withou
 
 ### 1
 
-At the gathering, I heard "`____`".
+`____` invited to the charity gala, she promptly confirmed her attendance.
 
 - [x] after being
-- [ ] interact
-- [ ] up to
+- [ ] as for
+- [ ] do without
 
-> **解析**：本题在单元主题情境中复习表达 after being。
+> **解析**：`after being + 过去分词` 为“介词 + 动名词被动语态”结构，表示主语在“被……之后”。
 
 ### 2
 
-My friend said "`____`".
+The guest brought a gorgeous bouquet of fresh roses as a gift for the host (`____`).
 
-- [x] bouquet
-- [ ] place
-- [ ] after having
+- [x] after having
+- [ ] bouquet
+- [ ] formal
 
-> **解析**：本题在单元主题情境中复习表达 bouquet。
+> **解析**：`bouquet` 可数名词，在此读作 /buːˈkeɪ/，意为“花束”。`bouquet of flowers`（花束）。
 
 ### 3
 
-We talked about "`____`" together.
+The invitation specifies that gentlemen should wear formal attire such as a suit and tie for `____`.
 
-- [x] formal
-- [ ] tablecloth
+- [x] arrangement
 - [ ] depending on
+- [ ] host
 
-> **解析**：本题在单元主题情境中复习表达 formal。
+> **解析**：`formal` 形容词，意为“正式的；合乎礼仪的”。修饰名词 `attire / dress`。
 
 ### 4
 
-Someone explained "`____`" to me.
+The party provided a wonderful opportunity for colleagues to interact outside of work (`____`).
 
-- [x] interact
-- [ ] up to
+- [x] as for
+- [ ] do without
 - [ ] in honor of
 
-> **解析**：本题在单元主题情境中复习表达 interact。
+> **解析**：`interact` 不及物动词，意为“交流；互动”。搭配 `interact with sb.`。
 
 ### 5
 
-I replied with "`____`".
+A personalized place card was set at each dinner seat to guide guests for `____`.
 
-- [x] place
-- [ ] after having
+- [x] bouquet
+- [ ] formal
 - [ ] after being
 
-> **解析**：本题在单元主题情境中复习表达 place。
+> **解析**：`place` 在此处用作名词修饰语，短语 `place card`（席位卡/名卡）。
 
 ### 6
 
-The conversation included "`____`".
+She spread a crisp white tablecloth over the dining table before setting the dishes (`____`).
 
-- [x] tablecloth
-- [ ] depending on
-- [ ] bouquet
+- [x] depending on
+- [ ] host
+- [ ] after having
 
-> **解析**：本题在单元主题情境中复习表达 tablecloth。
+> **解析**：`tablecloth` 可数/不可数名词，意为“桌布；台布”。
 
 ### 7
 
-My partner repeated "`____`".
+It is up to you whether to bring a guest to the evening wedding reception (`____`).
 
-- [x] up to
+- [x] do without
 - [ ] in honor of
-- [ ] formal
+- [ ] arrangement
 
-> **解析**：本题在单元主题情境中复习表达 up to。
+> **解析**：`be up to sb.` 为固定短语，意为“取决于某人；由某人决定”。
 
 ### 8
 
-We laughed about "`____`".
+After having received the `____` invitation, we immediately sent our RSVP.
 
-- [x] after having
+- [x] formal
 - [ ] after being
-- [ ] interact
+- [ ] as for
 
-> **解析**：本题在单元主题情境中复习表达 after having。
+> **解析**：`after having + 过去分词` 为“介词 + 动名词完成时”结构，强调动作发生在主句之前。
 
 ### 9
 
-Before leaving, I remembered "`____`".
+Dress code expectations may vary depending on whether the event is held indoors or outdoors for `____`.
 
-- [x] depending on
+- [x] host
+- [ ] after having
 - [ ] bouquet
-- [ ] place
 
-> **解析**：本题在单元主题情境中复习表达 depending on。
+> **解析**：`depending on` 介词短语，意为“取决于；根据”，在句中作状语。
 
 ### 10
 
-That conversation ended with "`____`".
+The host organized a grand dinner party `____` the visiting ambassador.
 
 - [x] in honor of
-- [ ] formal
-- [ ] tablecloth
+- [ ] arrangement
+- [ ] depending on
 
-> **解析**：本题在单元主题情境中复习表达 in honor of。
+> **解析**：`in honor of` 介词短语，意为“为了向……表示敬意；为纪念/祝贺……”。
 
 </quiz-cloze>

@@ -65,70 +65,79 @@ anticipated, australian, brazilian, break, bronze, close, determination, expecte
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“anticipated”。  
-   **英文**：In this situation, I heard "anticipated".
-   > **解析**：本题在单元主题情境中复习表达 anticipated。
+1. **中文**：这名游泳运动员在刷新国家速度纪录后赢得了金牌。  
+   **英文**：The swimmer won a gold medal after setting a new national speed record for anticipated.
+   > **解析**：`gold medal` 是名词短语，意为“金牌”。常用搭配 `win a gold medal`。
 
-2. **中文**：同伴解释了“bronze”。  
-   **英文**：My partner explained "bronze".
-   > **解析**：本题在单元主题情境中复习表达 bronze。
+2. **中文**：每位职业运动员都花数年时间为奥运会艰苦训练。  
+   **英文**：Every professional athlete spends years training hard for the Olympic Games for australian.
+   > **解析**：`athlete` 是可数名词，意为“运动员”，形容词形式为 `athletic`。
 
-3. **中文**：我们一起谈到了“following”。  
-   **英文**：We talked about "following" together.
-   > **解析**：本题在单元主题情境中复习表达 following。
+3. **中文**：她在两小时内跑完了马拉松，打破了世界纪录。  
+   **英文**：She broke the world record by finishing the marathon in under two hours for brazilian.
+   > **解析**：`world record` 是名词短语，意为“世界纪录”，搭配 `break a world record`。
 
-4. **中文**：我记下了“inspiring”。  
-   **英文**：I wrote down "inspiring".
-   > **解析**：本题在单元主题情境中复习表达 inspiring。
+4. **中文**：站在领奖台的最高一级是他职业生涯中最自豪的时刻。  
+   **英文**：Standing on the top step of the podium was the proudest moment of his career for break.
+   > **解析**：`podium` 指颁奖或演讲用的“领奖台、讲台”，作介词 `of` 的宾语。
 
-5. **中文**：例句中包含“now that”。  
-   **英文**：The example included "now that".
-   > **解析**：本题在单元主题情境中复习表达 now that。
+5. **中文**：赢得冠军需要多年的高度投入与不懈坚持。  
+   **英文**：Winning the championship required years of intense dedication and perseverance for bronze.
+   > **解析**：`perseverance` 是不可数名词，意为“坚持不懈、坚韧不拔”，由动词 `persevere` 派生。
 
-6. **中文**：我询问了“place”。  
-   **英文**：I asked about "place".
-   > **解析**：本题在单元主题情境中复习表达 place。
+6. **中文**：代表自己的国家参加全球运动会对她来说是极大的荣幸。  
+   **英文**：It is a great honor for her to represent her country at the global games for close.
+   > **解析**：`represent` 是动词，意为“代表（国家/团队）”，后接国家或机构作宾语。
 
-7. **中文**：我们在句子中用到了“track and field”。  
-   **英文**：We used "track and field" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 track and field。
+7. **中文**：这名跑者通过帮助受伤的对手跨过终点线展现出了令人难以置信的体育精神。  
+   **英文**：The runner showed incredible sportsmanship by helping his injured competitor cross the finish line for determination.
+   > **解析**：`sportsmanship` 是不可数名词，意为“体育精神、运动员风范”。
 
-8. **中文**：朋友重复了“australian”。  
-   **英文**：My friend repeated "australian".
-   > **解析**：本题在单元主题情境中复习表达 australian。
+8. **中文**：她一整个赛季都在不知疲倦地拼搏，以取得奥运决赛的资格。  
+   **英文**：She worked tirelessly all season to qualify for the Olympic final event (expected to).
+   > **解析**：`qualify (for sth.)` 是动词，意为“取得资格、符合条件”。
 
-9. **中文**：后来，我记住了“close”。  
-   **英文**：Later, I remembered "close".
-   > **解析**：本题在单元主题情境中复习表达 close。
+9. **中文**：数以千计激动的观众挤满了体育场观看开幕式。  
+   **英文**：Thousands of excited spectators filled the stadium to watch the opening ceremony for following.
+   > **解析**：`spectator` 是名词，特指比赛或表演的“现场观众”，作主语 `spectators`。
 
-10. **中文**：这个小故事以“gather”收尾。  
-   **英文**：The short story ended with "gather".
-   > **解析**：本题在单元主题情境中复习表达 gather。
+10. **中文**：他们出乎意料的胜利被欢庆为该团队历史性的伟大胜利。  
+   **英文**：Their unexpected victory was celebrated as a historic triumph for the team for gather.
+   > **解析**：`triumph` 作名词，意为“巨大胜利、辉煌成就”，比一般的 `victory` 语气更盛大。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "anticipated".
-   > **中文**：在这个情境中，我听到了“anticipated”。
-2. My partner explained "bronze".
-   > **中文**：同伴解释了“bronze”。
-3. We talked about "following" together.
-   > **中文**：我们一起谈到了“following”。
-4. I wrote down "inspiring".
-   > **中文**：我记下了“inspiring”。
-5. The example included "now that".
-   > **中文**：例句中包含“now that”。
-6. I asked about "place".
-   > **中文**：我询问了“place”。
-7. We used "track and field" in a sentence.
-   > **中文**：我们在句子中用到了“track and field”。
-8. My friend repeated "australian".
-   > **中文**：朋友重复了“australian”。
-9. Later, I remembered "close".
-   > **中文**：后来，我记住了“close”。
-10. The short story ended with "gather".
-   > **中文**：这个小故事以“gather”收尾。
+1. The swimmer won a gold medal after setting a new national speed record for anticipated.
+   > **中文**：这名游泳运动员在刷新国家速度纪录后赢得了金牌。
+
+2. Every professional athlete spends years training hard for the Olympic Games for australian.
+   > **中文**：每位职业运动员都花数年时间为奥运会艰苦训练。
+
+3. She broke the world record by finishing the marathon in under two hours for brazilian.
+   > **中文**：她在两小时内跑完了马拉松，打破了世界纪录。
+
+4. Standing on the top step of the podium was the proudest moment of his career for break.
+   > **中文**：站在领奖台的最高一级是他职业生涯中最自豪的时刻。
+
+5. Winning the championship required years of intense dedication and perseverance for bronze.
+   > **中文**：赢得冠军需要多年的高度投入与不懈坚持。
+
+6. It is a great honor for her to represent her country at the global games for close.
+   > **中文**：代表自己的国家参加全球运动会对她来说是极大的荣幸。
+
+7. The runner showed incredible sportsmanship by helping his injured competitor cross the finish line for determination.
+   > **中文**：这名跑者通过帮助受伤的对手跨过终点线展现出了令人难以置信的体育精神。
+
+8. She worked tirelessly all season to qualify for the Olympic final event (expected to).
+   > **中文**：她一整个赛季都在不知疲倦地拼搏，以取得奥运决赛的资格。
+
+9. Thousands of excited spectators filled the stadium to watch the opening ceremony for following.
+   > **中文**：数以千计激动的观众挤满了体育场观看开幕式。
+
+10. Their unexpected victory was celebrated as a historic triumph for the team for gather.
+   > **中文**：他们出乎意料的胜利被欢庆为该团队历史性的伟大胜利。
 
 </quiz-listening>
 
@@ -140,102 +149,102 @@ anticipated, australian, brazilian, break, bronze, close, determination, expecte
 
 ### 1
 
-In this situation, I heard "`____`".
+The swimmer won a gold medal after setting a new national speed record for `____`.
 
 - [x] anticipated
-- [ ] inspiring
-- [ ] track and field
+- [ ] break
+- [ ] determination
 
-> **解析**：本题在单元主题情境中复习表达 anticipated。
+> **解析**：`gold medal` 是名词短语，意为“金牌”。常用搭配 `win a gold medal`。
 
 ### 2
 
-My partner explained "`____`".
+Every professional athlete spends years training hard for the Olympic Games for `____`.
 
-- [x] bronze
-- [ ] now that
-- [ ] australian
+- [x] australian
+- [ ] bronze
+- [ ] expected to
 
-> **解析**：本题在单元主题情境中复习表达 bronze。
+> **解析**：`athlete` 是可数名词，意为“运动员”，形容词形式为 `athletic`。
 
 ### 3
 
-We talked about "`____`" together.
+She broke the world record by finishing the marathon in under two hours for `____`.
 
-- [x] following
-- [ ] place
+- [x] brazilian
 - [ ] close
+- [ ] following
 
-> **解析**：本题在单元主题情境中复习表达 following。
+> **解析**：`world record` 是名词短语，意为“世界纪录”，搭配 `break a world record`。
 
 ### 4
 
-I wrote down "`____`".
+Standing on the top step of the podium was the proudest moment of his career for `____`.
 
-- [x] inspiring
-- [ ] track and field
+- [x] break
+- [ ] determination
 - [ ] gather
 
-> **解析**：本题在单元主题情境中复习表达 inspiring。
+> **解析**：`podium` 指颁奖或演讲用的“领奖台、讲台”，作介词 `of` 的宾语。
 
 ### 5
 
-The example included "`____`".
+Winning the championship required years of intense dedication and perseverance for `____`.
 
-- [x] now that
-- [ ] australian
+- [x] bronze
+- [ ] expected to
 - [ ] anticipated
 
-> **解析**：本题在单元主题情境中复习表达 now that。
+> **解析**：`perseverance` 是不可数名词，意为“坚持不懈、坚韧不拔”，由动词 `persevere` 派生。
 
 ### 6
 
-I asked about "`____`".
+It is a great honor for her to represent her country at the global games for `____`.
 
-- [x] place
-- [ ] close
-- [ ] bronze
+- [x] close
+- [ ] following
+- [ ] australian
 
-> **解析**：本题在单元主题情境中复习表达 place。
+> **解析**：`represent` 是动词，意为“代表（国家/团队）”，后接国家或机构作宾语。
 
 ### 7
 
-We used "`____`" in a sentence.
+The runner showed incredible sportsmanship by helping his injured competitor cross the finish line for `____`.
 
-- [x] track and field
+- [x] determination
 - [ ] gather
-- [ ] following
+- [ ] brazilian
 
-> **解析**：本题在单元主题情境中复习表达 track and field。
+> **解析**：`sportsmanship` 是不可数名词，意为“体育精神、运动员风范”。
 
 ### 8
 
-My friend repeated "`____`".
+She worked tirelessly all season to qualify for the Olympic final event (`____`).
 
-- [x] australian
+- [x] expected to
 - [ ] anticipated
-- [ ] inspiring
+- [ ] break
 
-> **解析**：本题在单元主题情境中复习表达 australian。
+> **解析**：`qualify (for sth.)` 是动词，意为“取得资格、符合条件”。
 
 ### 9
 
-Later, I remembered "`____`".
+Thousands of excited spectators filled the stadium to watch the opening ceremony for `____`.
 
-- [x] close
+- [x] following
+- [ ] australian
 - [ ] bronze
-- [ ] now that
 
-> **解析**：本题在单元主题情境中复习表达 close。
+> **解析**：`spectator` 是名词，特指比赛或表演的“现场观众”，作主语 `spectators`。
 
 ### 10
 
-The short story ended with "`____`".
+Their unexpected victory was celebrated as a historic triumph for the team for `____`.
 
 - [x] gather
-- [ ] following
-- [ ] place
+- [ ] brazilian
+- [ ] close
 
-> **解析**：本题在单元主题情境中复习表达 gather。
+> **解析**：`triumph` 作名词，意为“巨大胜利、辉煌成就”，比一般的 `victory` 语气更盛大。
 
 </quiz-cloze>

@@ -51,70 +51,79 @@ would have / would've 是"would + have + 过去分词"的缩写形式，可以�
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“air conditioner”。  
-   **英文**：At work, we discussed "air conditioner".
-   > **解析**：本题在单元主题情境中复习表达 air conditioner。
+1. **中文**：离开卧室之前，你应当关掉空调。  
+   **英文**：You should turn off the air conditioner before leaving the bedroom.
+   > **解析**：air conditioner 可数名词短语，意为“空调设备”。
 
-2. **中文**：同事提到了“dig”。  
-   **英文**：My coworker mentioned "dig".
-   > **解析**：本题在单元主题情境中复习表达 dig。
+2. **中文**：如果厨房水龙头在滴水，你应该更换橡胶垫圈。  
+   **英文**：If the kitchen faucet is dripping, you ought to replace the rubber washer for bucket.
+   > **解析**：faucet 可数名词，意为“水龙头”（美式），英式为 tap。
 
-3. **中文**：会议中，我听到了“fit”。  
-   **英文**：In the meeting, I heard "fit".
-   > **解析**：本题在单元主题情境中复习表达 fit。
+3. **中文**：我们需要在走廊灯上安装一颗新 LED 电灯泡。  
+   **英文**：We need to install a new LED light bulb in the hallway lamp for cupboard.
+   > **解析**：light bulb 可数名词短语，意为“电灯泡”。
 
-4. **中文**：我把“i would have”写进了笔记。  
-   **英文**：I added "i would have" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 i would have。
+4. **中文**：把干净的陶瓷碗碟收进厨房的上碗柜里。  
+   **英文**：Put the clean ceramic dishes away in the upper kitchen cupboard for dig.
+   > **解析**：cupboard 可数名词，意为“橱柜；碗柜”，发音为 /ˈkʌbərd/。
 
-5. **中文**：经理解释了“long”。  
-   **英文**：The manager explained "long".
-   > **解析**：本题在单元主题情境中复习表达 long。
+5. **中文**：往塑料水桶里倒满温水来拖厨房地板。  
+   **英文**：Fill the plastic bucket with warm water to mop the kitchen floor for electrical.
+   > **解析**：bucket 可数名词，意为“水桶；提桶”。
 
-6. **中文**：团队今天用到了“water”。  
-   **英文**：Our team used "water" today.
-   > **解析**：本题在单元主题情境中复习表达 water。
+6. **中文**：对于家中严重的电路维修，务必请有资质的专业人士。  
+   **英文**：Always call a certified professional for serious electrical repairs at home for faucet.
+   > **解析**：electrical 形容词，意为“电力的；电气的”，修饰名词 repairs。
 
-7. **中文**：午饭前，我们查看了“would you have”。  
-   **英文**：Before lunch, we checked "would you have".
-   > **解析**：本题在单元主题情境中复习表达 would you have。
+7. **中文**：他用坚固的木质相框把全家福挂在墙上。  
+   **英文**：He used a sturdy wooden frame to hang the family picture on the wall (feet wide).
+   > **解析**：frame 可数名词，意为“框架；相框”。
 
-8. **中文**：同事询问了“bucket”。  
-   **英文**：My colleague asked about "bucket".
-   > **解析**：本题在单元主题情境中复习表达 bucket。
+8. **中文**：水槽下方漏水的水管造成了厨房轻微积水。  
+   **英文**：A leaking water pipe under the sink caused minor flooding in the kitchen for fit.
+   > **解析**：pipe 可数名词，在此指“水管；管道”。
 
-9. **中文**：报告中包含“faucet”。  
-   **英文**：The report included "faucet".
-   > **解析**：本题在单元主题情境中复习表达 faucet。
+9. **中文**：如果我有合适的工具，我早就会把损坏的书架修好了。  
+   **英文**：I would have repaired the broken shelf earlier if I had the right tools for frame.
+   > **解析**：would have 用于虚拟语气，结构为 would have done，表示与过去事实相反的假想。
 
-10. **中文**：一天结束时，我记住了“frame”。  
-   **英文**：At the end of the day, I remembered "frame".
-   > **解析**：本题在单元主题情境中复习表达 frame。
+10. **中文**：你可以在后院花园里挖一个小坑来栽种花球茎。  
+   **英文**：You can dig a small hole in the backyard garden to plant the flower bulbs for gas.
+   > **解析**：dig 及物/不及物动词，意为“挖；掘”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "air conditioner".
-   > **中文**：工作中，我们讨论了“air conditioner”。
-2. My coworker mentioned "dig".
-   > **中文**：同事提到了“dig”。
-3. In the meeting, I heard "fit".
-   > **中文**：会议中，我听到了“fit”。
-4. I added "i would have" to my notes.
-   > **中文**：我把“i would have”写进了笔记。
-5. The manager explained "long".
-   > **中文**：经理解释了“long”。
-6. Our team used "water" today.
-   > **中文**：团队今天用到了“water”。
-7. Before lunch, we checked "would you have".
-   > **中文**：午饭前，我们查看了“would you have”。
-8. My colleague asked about "bucket".
-   > **中文**：同事询问了“bucket”。
-9. The report included "faucet".
-   > **中文**：报告中包含“faucet”。
-10. At the end of the day, I remembered "frame".
-   > **中文**：一天结束时，我记住了“frame”。
+1. You should turn off the air conditioner before leaving the bedroom.
+   > **中文**：离开卧室之前，你应当关掉空调。
+
+2. If the kitchen faucet is dripping, you ought to replace the rubber washer for bucket.
+   > **中文**：如果厨房水龙头在滴水，你应该更换橡胶垫圈。
+
+3. We need to install a new LED light bulb in the hallway lamp for cupboard.
+   > **中文**：我们需要在走廊灯上安装一颗新 LED 电灯泡。
+
+4. Put the clean ceramic dishes away in the upper kitchen cupboard for dig.
+   > **中文**：把干净的陶瓷碗碟收进厨房的上碗柜里。
+
+5. Fill the plastic bucket with warm water to mop the kitchen floor for electrical.
+   > **中文**：往塑料水桶里倒满温水来拖厨房地板。
+
+6. Always call a certified professional for serious electrical repairs at home for faucet.
+   > **中文**：对于家中严重的电路维修，务必请有资质的专业人士。
+
+7. He used a sturdy wooden frame to hang the family picture on the wall (feet wide).
+   > **中文**：他用坚固的木质相框把全家福挂在墙上。
+
+8. A leaking water pipe under the sink caused minor flooding in the kitchen for fit.
+   > **中文**：水槽下方漏水的水管造成了厨房轻微积水。
+
+9. I would have repaired the broken shelf earlier if I had the right tools for frame.
+   > **中文**：如果我有合适的工具，我早就会把损坏的书架修好了。
+
+10. You can dig a small hole in the backyard garden to plant the flower bulbs for gas.
+   > **中文**：你可以在后院花园里挖一个小坑来栽种花球茎。
 
 </quiz-listening>
 
@@ -126,102 +135,102 @@ would have / would've 是"would + have + 过去分词"的缩写形式，可以�
 
 ### 1
 
-At work, we discussed "`____`".
+You should turn off the `____` before leaving the bedroom.
 
 - [x] air conditioner
-- [ ] i would have
-- [ ] would you have
+- [ ] dig
+- [ ] feet wide
 
-> **解析**：本题在单元主题情境中复习表达 air conditioner。
+> **解析**：air conditioner 可数名词短语，意为“空调设备”。
 
 ### 2
 
-My coworker mentioned "`____`".
+If the kitchen faucet is dripping, you ought to replace the rubber washer for `____`.
 
-- [x] dig
-- [ ] long
-- [ ] bucket
+- [x] bucket
+- [ ] electrical
+- [ ] fit
 
-> **解析**：本题在单元主题情境中复习表达 dig。
+> **解析**：faucet 可数名词，意为“水龙头”（美式），英式为 tap。
 
 ### 3
 
-In the meeting, I heard "`____`".
+We need to install a new LED light bulb in the hallway lamp for `____`.
 
-- [x] fit
-- [ ] water
+- [x] cupboard
 - [ ] faucet
+- [ ] frame
 
-> **解析**：本题在单元主题情境中复习表达 fit。
+> **解析**：light bulb 可数名词短语，意为“电灯泡”。
 
 ### 4
 
-I added "`____`" to my notes.
+Put the clean ceramic dishes away in the upper kitchen cupboard for `____`.
 
-- [x] i would have
-- [ ] would you have
-- [ ] frame
+- [x] dig
+- [ ] feet wide
+- [ ] gas
 
-> **解析**：本题在单元主题情境中复习表达 i would have。
+> **解析**：cupboard 可数名词，意为“橱柜；碗柜”，发音为 /ˈkʌbərd/。
 
 ### 5
 
-The manager explained "`____`".
+Fill the plastic bucket with warm water to mop the kitchen floor for `____`.
 
-- [x] long
-- [ ] bucket
+- [x] electrical
+- [ ] fit
 - [ ] air conditioner
 
-> **解析**：本题在单元主题情境中复习表达 long。
+> **解析**：bucket 可数名词，意为“水桶；提桶”。
 
 ### 6
 
-Our team used "`____`" today.
+Always call a certified professional for serious electrical repairs at home for `____`.
 
-- [x] water
-- [ ] faucet
-- [ ] dig
+- [x] faucet
+- [ ] frame
+- [ ] bucket
 
-> **解析**：本题在单元主题情境中复习表达 water。
+> **解析**：electrical 形容词，意为“电力的；电气的”，修饰名词 repairs。
 
 ### 7
 
-Before lunch, we checked "`____`".
+He used a sturdy wooden frame to hang the family picture on the wall (`____`).
 
-- [x] would you have
-- [ ] frame
-- [ ] fit
+- [x] feet wide
+- [ ] gas
+- [ ] cupboard
 
-> **解析**：本题在单元主题情境中复习表达 would you have。
+> **解析**：frame 可数名词，意为“框架；相框”。
 
 ### 8
 
-My colleague asked about "`____`".
+A leaking water pipe under the sink caused minor flooding in the kitchen for `____`.
 
-- [x] bucket
+- [x] fit
 - [ ] air conditioner
-- [ ] i would have
+- [ ] dig
 
-> **解析**：本题在单元主题情境中复习表达 bucket。
+> **解析**：pipe 可数名词，在此指“水管；管道”。
 
 ### 9
 
-The report included "`____`".
+I would have repaired the broken shelf earlier if I had the right tools for `____`.
 
-- [x] faucet
-- [ ] dig
-- [ ] long
+- [x] frame
+- [ ] bucket
+- [ ] electrical
 
-> **解析**：本题在单元主题情境中复习表达 faucet。
+> **解析**：would have 用于虚拟语气，结构为 would have done，表示与过去事实相反的假想。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+You can dig a small hole in the backyard garden to plant the flower bulbs for `____`.
 
-- [x] frame
-- [ ] fit
-- [ ] water
+- [x] gas
+- [ ] cupboard
+- [ ] faucet
 
-> **解析**：本题在单元主题情境中复习表达 frame。
+> **解析**：dig 及物/不及物动词，意为“挖；掘”。
 
 </quiz-cloze>

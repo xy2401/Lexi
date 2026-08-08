@@ -65,70 +65,79 @@ assuming that, attempt, attempt to, be able to, canyon, conditions, daylight, de
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“assuming that”。  
-   **英文**：In this situation, I heard "assuming that".
-   > **解析**：本题在单元主题情境中复习表达 assuming that。
+1. **中文**：我们决定沿着这条风景优美的山路徒步旅行一天。  
+   **英文**：We decided to take a day hike along the scenic mountain trail (assuming that).
+   > **解析**：`hike` 在此作名词（也可作动词），意为“徒步旅行、远足”。短语 `day hike` 指“一日徒步”。
 
-2. **中文**：同伴解释了“canyon”。  
-   **英文**：My partner explained "canyon".
-   > **解析**：本题在单元主题情境中复习表达 canyon。
+2. **中文**：他们在河边找了一块平地搭起了帐篷。  
+   **英文**：They found a flat piece of land near the river to pitch a tent for attempt.
+   > **解析**：`pitch a tent` 是固定动词短语，意为“搭帐篷”，其中 `pitch` 意为“搭建/立起”。
 
-3. **中文**：我们一起谈到了“dehydrated”。  
-   **英文**：We talked about "dehydrated" together.
-   > **解析**：本题在单元主题情境中复习表达 dehydrated。
+3. **中文**：到达崖顶可以俯瞰山谷令人屏息的优美景色。  
+   **英文**：Reaching the top of the cliff offered a breathtaking scenic view of the valley (attempt to).
+   > **解析**：`scenic view` 是名词短语，意为“优美风光、景观视角”，作句中的宾语。
 
-4. **中文**：我记下了“leopard”。  
-   **英文**：I wrote down "leopard".
-   > **解析**：本题在单元主题情境中复习表达 leopard。
+4. **中文**：这座国家公园是许多受保护野生动植物的家园。  
+   **英文**：The national park is home to a wide variety of protected wildlife (be able to).
+   > **解析**：`wildlife` 是不可数名词，意为“野生动植物”，由 `wild` + `life` 复合而成。
 
-5. **中文**：例句中包含“provided”。  
-   **英文**：The example included "provided".
-   > **解析**：本题在单元主题情境中复习表达 provided。
+5. **中文**：围坐在温暖的篝火旁，他们在星空下唱起了歌。  
+   **英文**：Sitting around the warm campfire, they sang songs under the starry sky for canyon.
+   > **解析**：`campfire` 是名词，意为“篝火、营火”，由 `camp` + `fire` 构成。
 
-6. **中文**：我询问了“so long as”。  
-   **英文**：I asked about "so long as".
-   > **解析**：本题在单元主题情境中复习表达 so long as。
+6. **中文**：租一艘皮划艇可以让你探索沿湖隐藏的宁静溶洞。  
+   **英文**：Renting a kayak allows you to explore the peaceful hidden caves along the lake for conditions.
+   > **解析**：`kayak` 在此作名词，意为“皮划艇/独木舟”；亦可作动词表示“划皮划艇”。
 
-7. **中文**：我们在句子中用到了“trekking”。  
-   **英文**：We used "trekking" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 trekking。
+7. **中文**：经过六个小时的持续攀登，登山者们终于到达了山顶。  
+   **英文**：After six hours of steady climbing, the hikers finally reached the mountain summit for daylight.
+   > **解析**：`summit` 是名词，意为“山顶、顶峰”，也可引申为政治上的“峰会”。
 
-8. **中文**：朋友重复了“attempt”。  
-   **英文**：My friend repeated "attempt".
-   > **解析**：本题在单元主题情境中复习表达 attempt。
+8. **中文**：穿越未经开发的荒野徒步背包旅行需要妥善的安全装备与准备。  
+   **英文**：Backpacking through the untouched wilderness requires proper safety gear and preparation for dehydrated.
+   > **解析**：`wilderness` 是名词，意为“荒野、原野”，指天然未破坏的野外环境。
 
-9. **中文**：后来，我记住了“conditions”。  
-   **英文**：Later, I remembered "conditions".
-   > **解析**：本题在单元主题情境中复习表达 conditions。
+9. **中文**：下班后去外面散散步是享受新鲜空气的好方法。  
+   **英文**：Taking a walk outside is a great way to enjoy some fresh air after work (enough to).
+   > **解析**：`fresh air` 是名词短语，意为“新鲜空气”，作动词 `enjoy` 的宾语。
 
-10. **中文**：这个小故事以“gear”收尾。  
-   **英文**：The short story ended with "gear".
-   > **解析**：本题在单元主题情境中复习表达 gear。
+10. **中文**：仔细沿着标记好的小路走，这样你才不会在森林里迷路。  
+   **英文**：Follow the marked trail carefully so that you do not get lost in the forest for gear.
+   > **解析**：`trail` 是名词，意为“小径、山路”，常用搭配 `marked trail`（带标记的小路）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "assuming that".
-   > **中文**：在这个情境中，我听到了“assuming that”。
-2. My partner explained "canyon".
-   > **中文**：同伴解释了“canyon”。
-3. We talked about "dehydrated" together.
-   > **中文**：我们一起谈到了“dehydrated”。
-4. I wrote down "leopard".
-   > **中文**：我记下了“leopard”。
-5. The example included "provided".
-   > **中文**：例句中包含“provided”。
-6. I asked about "so long as".
-   > **中文**：我询问了“so long as”。
-7. We used "trekking" in a sentence.
-   > **中文**：我们在句子中用到了“trekking”。
-8. My friend repeated "attempt".
-   > **中文**：朋友重复了“attempt”。
-9. Later, I remembered "conditions".
-   > **中文**：后来，我记住了“conditions”。
-10. The short story ended with "gear".
-   > **中文**：这个小故事以“gear”收尾。
+1. We decided to take a day hike along the scenic mountain trail (assuming that).
+   > **中文**：我们决定沿着这条风景优美的山路徒步旅行一天。
+
+2. They found a flat piece of land near the river to pitch a tent for attempt.
+   > **中文**：他们在河边找了一块平地搭起了帐篷。
+
+3. Reaching the top of the cliff offered a breathtaking scenic view of the valley (attempt to).
+   > **中文**：到达崖顶可以俯瞰山谷令人屏息的优美景色。
+
+4. The national park is home to a wide variety of protected wildlife (be able to).
+   > **中文**：这座国家公园是许多受保护野生动植物的家园。
+
+5. Sitting around the warm campfire, they sang songs under the starry sky for canyon.
+   > **中文**：围坐在温暖的篝火旁，他们在星空下唱起了歌。
+
+6. Renting a kayak allows you to explore the peaceful hidden caves along the lake for conditions.
+   > **中文**：租一艘皮划艇可以让你探索沿湖隐藏的宁静溶洞。
+
+7. After six hours of steady climbing, the hikers finally reached the mountain summit for daylight.
+   > **中文**：经过六个小时的持续攀登，登山者们终于到达了山顶。
+
+8. Backpacking through the untouched wilderness requires proper safety gear and preparation for dehydrated.
+   > **中文**：穿越未经开发的荒野徒步背包旅行需要妥善的安全装备与准备。
+
+9. Taking a walk outside is a great way to enjoy some fresh air after work (enough to).
+   > **中文**：下班后去外面散散步是享受新鲜空气的好方法。
+
+10. Follow the marked trail carefully so that you do not get lost in the forest for gear.
+   > **中文**：仔细沿着标记好的小路走，这样你才不会在森林里迷路。
 
 </quiz-listening>
 
@@ -140,102 +149,102 @@ assuming that, attempt, attempt to, be able to, canyon, conditions, daylight, de
 
 ### 1
 
-In this situation, I heard "`____`".
+We decided to take a day hike along the scenic mountain trail (`____`).
 
 - [x] assuming that
-- [ ] leopard
-- [ ] trekking
+- [ ] be able to
+- [ ] daylight
 
-> **解析**：本题在单元主题情境中复习表达 assuming that。
+> **解析**：`hike` 在此作名词（也可作动词），意为“徒步旅行、远足”。短语 `day hike` 指“一日徒步”。
 
 ### 2
 
-My partner explained "`____`".
+They found a flat piece of land near the river to pitch a tent for `____`.
 
-- [x] canyon
-- [ ] provided
-- [ ] attempt
+- [x] attempt
+- [ ] canyon
+- [ ] dehydrated
 
-> **解析**：本题在单元主题情境中复习表达 canyon。
+> **解析**：`pitch a tent` 是固定动词短语，意为“搭帐篷”，其中 `pitch` 意为“搭建/立起”。
 
 ### 3
 
-We talked about "`____`" together.
+Reaching the top of the cliff offered a breathtaking scenic view of the valley (`____`).
 
-- [x] dehydrated
-- [ ] so long as
+- [x] attempt to
 - [ ] conditions
+- [ ] enough to
 
-> **解析**：本题在单元主题情境中复习表达 dehydrated。
+> **解析**：`scenic view` 是名词短语，意为“优美风光、景观视角”，作句中的宾语。
 
 ### 4
 
-I wrote down "`____`".
+The national park is home to a wide variety of protected wildlife (`____`).
 
-- [x] leopard
-- [ ] trekking
+- [x] be able to
+- [ ] daylight
 - [ ] gear
 
-> **解析**：本题在单元主题情境中复习表达 leopard。
+> **解析**：`wildlife` 是不可数名词，意为“野生动植物”，由 `wild` + `life` 复合而成。
 
 ### 5
 
-The example included "`____`".
+Sitting around the warm campfire, they sang songs under the starry sky for `____`.
 
-- [x] provided
-- [ ] attempt
+- [x] canyon
+- [ ] dehydrated
 - [ ] assuming that
 
-> **解析**：本题在单元主题情境中复习表达 provided。
+> **解析**：`campfire` 是名词，意为“篝火、营火”，由 `camp` + `fire` 构成。
 
 ### 6
 
-I asked about "`____`".
+Renting a kayak allows you to explore the peaceful hidden caves along the lake for `____`.
 
-- [x] so long as
-- [ ] conditions
-- [ ] canyon
+- [x] conditions
+- [ ] enough to
+- [ ] attempt
 
-> **解析**：本题在单元主题情境中复习表达 so long as。
+> **解析**：`kayak` 在此作名词，意为“皮划艇/独木舟”；亦可作动词表示“划皮划艇”。
 
 ### 7
 
-We used "`____`" in a sentence.
+After six hours of steady climbing, the hikers finally reached the mountain summit for `____`.
 
-- [x] trekking
+- [x] daylight
 - [ ] gear
-- [ ] dehydrated
+- [ ] attempt to
 
-> **解析**：本题在单元主题情境中复习表达 trekking。
+> **解析**：`summit` 是名词，意为“山顶、顶峰”，也可引申为政治上的“峰会”。
 
 ### 8
 
-My friend repeated "`____`".
+Backpacking through the untouched wilderness requires proper safety gear and preparation for `____`.
 
-- [x] attempt
+- [x] dehydrated
 - [ ] assuming that
-- [ ] leopard
+- [ ] be able to
 
-> **解析**：本题在单元主题情境中复习表达 attempt。
+> **解析**：`wilderness` 是名词，意为“荒野、原野”，指天然未破坏的野外环境。
 
 ### 9
 
-Later, I remembered "`____`".
+Taking a walk outside is a great way to enjoy some fresh air after work (`____`).
 
-- [x] conditions
+- [x] enough to
+- [ ] attempt
 - [ ] canyon
-- [ ] provided
 
-> **解析**：本题在单元主题情境中复习表达 conditions。
+> **解析**：`fresh air` 是名词短语，意为“新鲜空气”，作动词 `enjoy` 的宾语。
 
 ### 10
 
-The short story ended with "`____`".
+Follow the marked trail carefully so that you do not get lost in the forest for `____`.
 
 - [x] gear
-- [ ] dehydrated
-- [ ] so long as
+- [ ] attempt to
+- [ ] conditions
 
-> **解析**：本题在单元主题情境中复习表达 gear。
+> **解析**：`trail` 是名词，意为“小径、山路”，常用搭配 `marked trail`（带标记的小路）。
 
 </quiz-cloze>

@@ -59,70 +59,79 @@ a whole lot, agreement, an open mind, envy, eventually, frustration, gossip, in 
 
 <quiz-sentence-builder>
 
-1. **中文**：聚会上，我听到了“a whole lot”。  
-   **英文**：At the gathering, I heard "a whole lot".
-   > **解析**：本题在单元主题情境中复习表达 a whole lot。
+1. **中文**：在我们开始坦诚交流后，我们之间的沟通改善了许多（一大截）。  
+   **英文**：Communication between us has improved a whole lot after we started talking openly.
+   > **解析**：`a whole lot` 为口语强调副词短语，意为“许多；非常”，修饰动词 `improved`。
 
-2. **中文**：朋友说了“eventually”。  
-   **英文**：My friend said "eventually".
-   > **解析**：本题在单元主题情境中复习表达 eventually。
+2. **中文**：通过耐心与理解，他们最终化解了长久以来的冲突。  
+   **英文**：Through patience and understanding, they eventually resolved their long-standing conflicts for agreement.
+   > **解析**：`eventually` 副词，意为“最终；终于”，强调经过努力或漫长过程后的结果。
 
-3. **中文**：我们一起谈到了“in that case”。  
-   **英文**：We talked about "in that case" together.
-   > **解析**：本题在单元主题情境中复习表达 in that case。
+3. **中文**：如果你今天感到精疲力竭，既然那样，我们可以留在家中点外卖。  
+   **英文**：If you feel exhausted today, in that case, we can stay home and order takeout (an open mind).
+   > **解析**：`in that case` 为条件插入表达，意为“既然那样；如果是那种情况的话”。
 
-4. **中文**：有人向我解释了“offensive”。  
-   **英文**：Someone explained "offensive" to me.
-   > **解析**：本题在单元主题情境中复习表达 offensive。
+4. **中文**：他为昨天激烈争吵中做出的冒犯性言论真诚道歉。  
+   **英文**：He apologized sincerely for his offensive remark during yesterday's heated argument for envy.
+   > **解析**：`offensive` 形容词，意为“冒犯的；无礼的；令人不快的”。修饰 `remark`。
 
-5. **中文**：我用“should”作了回应。  
-   **英文**：I replied with "should".
-   > **解析**：本题在单元主题情境中复习表达 should。
+5. **中文**：夫妻/伴侣之间应当带着同理心倾听对方，而不是接连打断。  
+   **英文**：Couples should listen to each other with empathy rather than interrupting constantly for eventually.
+   > **解析**：`should` 情态动词，用于给出关于相处与关系的建设性建议（意为“应当；应该”）。
 
-6. **中文**：对话中包含“therapist”。  
-   **英文**：The conversation included "therapist".
-   > **解析**：本题在单元主题情境中复习表达 therapist。
+6. **中文**：他们决定咨询专业的婚姻治疗师以化解他们的分歧。  
+   **英文**：They decided to consult a professional marriage therapist to work through their differences for frustration.
+   > **解析**：`therapist` 可数名词，意为“治疗师；心理咨询师”。`marriage therapist`（婚姻治疗师）。
 
-7. **中文**：同伴重复了“used to”。  
-   **英文**：My partner repeated "used to".
-   > **解析**：本题在单元主题情境中复习表达 used to。
+7. **中文**：我们过去常常为微小的家务争吵，但现在我们平均分担责任。  
+   **英文**：We used to argue over small household chores, but now we split responsibilities evenly for gossip.
+   > **解析**：`used to do sth.` 结构，表示过去经常做某事或过去习惯的状态（现在已不再如此）。
 
-8. **中文**：我们聊到“agreement”时笑了。  
-   **英文**：We laughed about "agreement".
-   > **解析**：本题在单元主题情境中复习表达 agreement。
+8. **中文**：这对夫妇达成了一致协议，每个周末都陪伴对方度过优质时光。  
+   **英文**：The couple reached a mutual agreement to spend quality time together every weekend (in that case).
+   > **解析**：`agreement` 可数/不可数名词，意为“协议；一致”。搭配 `reach an agreement`（达成协议）。
 
-9. **中文**：离开前，我记住了“frustration”。  
-   **英文**：Before leaving, I remembered "frustration".
-   > **解析**：本题在单元主题情境中复习表达 frustration。
+9. **中文**：平静地表达你的挫败感/沮丧有助于防止微小的误解演变成大问题。  
+   **英文**：Expressing your frustration calmly helps prevent small misunderstandings from blowing up (look down on).
+   > **解析**：`frustration` 不可数/可数名词，意为“挫败感；沮丧；烦恼”。
 
-10. **中文**：那段对话以“might as well”收尾。  
-   **英文**：That conversation ended with "might as well".
-   > **解析**：本题在单元主题情境中复习表达 might as well。
+10. **中文**：既然我们今晚都有空，我们不妨出去吃一顿浪漫的晚餐。  
+   **英文**：Since we are both free tonight, we might as well go out for a romantic dinner.
+   > **解析**：`might as well do sth.` 为固定结构，意为“不妨做某事；还不如去做某事”，表示提出一种自然顺理成章的合理提议。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the gathering, I heard "a whole lot".
-   > **中文**：聚会上，我听到了“a whole lot”。
-2. My friend said "eventually".
-   > **中文**：朋友说了“eventually”。
-3. We talked about "in that case" together.
-   > **中文**：我们一起谈到了“in that case”。
-4. Someone explained "offensive" to me.
-   > **中文**：有人向我解释了“offensive”。
-5. I replied with "should".
-   > **中文**：我用“should”作了回应。
-6. The conversation included "therapist".
-   > **中文**：对话中包含“therapist”。
-7. My partner repeated "used to".
-   > **中文**：同伴重复了“used to”。
-8. We laughed about "agreement".
-   > **中文**：我们聊到“agreement”时笑了。
-9. Before leaving, I remembered "frustration".
-   > **中文**：离开前，我记住了“frustration”。
-10. That conversation ended with "might as well".
-   > **中文**：那段对话以“might as well”收尾。
+1. Communication between us has improved a whole lot after we started talking openly.
+   > **中文**：在我们开始坦诚交流后，我们之间的沟通改善了许多（一大截）。
+
+2. Through patience and understanding, they eventually resolved their long-standing conflicts for agreement.
+   > **中文**：通过耐心与理解，他们最终化解了长久以来的冲突。
+
+3. If you feel exhausted today, in that case, we can stay home and order takeout (an open mind).
+   > **中文**：如果你今天感到精疲力竭，既然那样，我们可以留在家中点外卖。
+
+4. He apologized sincerely for his offensive remark during yesterday's heated argument for envy.
+   > **中文**：他为昨天激烈争吵中做出的冒犯性言论真诚道歉。
+
+5. Couples should listen to each other with empathy rather than interrupting constantly for eventually.
+   > **中文**：夫妻/伴侣之间应当带着同理心倾听对方，而不是接连打断。
+
+6. They decided to consult a professional marriage therapist to work through their differences for frustration.
+   > **中文**：他们决定咨询专业的婚姻治疗师以化解他们的分歧。
+
+7. We used to argue over small household chores, but now we split responsibilities evenly for gossip.
+   > **中文**：我们过去常常为微小的家务争吵，但现在我们平均分担责任。
+
+8. The couple reached a mutual agreement to spend quality time together every weekend (in that case).
+   > **中文**：这对夫妇达成了一致协议，每个周末都陪伴对方度过优质时光。
+
+9. Expressing your frustration calmly helps prevent small misunderstandings from blowing up (look down on).
+   > **中文**：平静地表达你的挫败感/沮丧有助于防止微小的误解演变成大问题。
+
+10. Since we are both free tonight, we might as well go out for a romantic dinner.
+   > **中文**：既然我们今晚都有空，我们不妨出去吃一顿浪漫的晚餐。
 
 </quiz-listening>
 
@@ -134,102 +143,102 @@ a whole lot, agreement, an open mind, envy, eventually, frustration, gossip, in 
 
 ### 1
 
-At the gathering, I heard "`____`".
+Communication between us has improved `____` after we started talking openly.
 
 - [x] a whole lot
-- [ ] offensive
-- [ ] used to
+- [ ] envy
+- [ ] gossip
 
-> **解析**：本题在单元主题情境中复习表达 a whole lot。
+> **解析**：`a whole lot` 为口语强调副词短语，意为“许多；非常”，修饰动词 `improved`。
 
 ### 2
 
-My friend said "`____`".
+Through patience and understanding, they eventually resolved their long-standing conflicts for `____`.
 
-- [x] eventually
-- [ ] should
-- [ ] agreement
+- [x] agreement
+- [ ] eventually
+- [ ] in that case
 
-> **解析**：本题在单元主题情境中复习表达 eventually。
+> **解析**：`eventually` 副词，意为“最终；终于”，强调经过努力或漫长过程后的结果。
 
 ### 3
 
-We talked about "`____`" together.
+If you feel exhausted today, in that case, we can stay home and order takeout (`____`).
 
-- [x] in that case
-- [ ] therapist
+- [x] an open mind
 - [ ] frustration
+- [ ] look down on
 
-> **解析**：本题在单元主题情境中复习表达 in that case。
+> **解析**：`in that case` 为条件插入表达，意为“既然那样；如果是那种情况的话”。
 
 ### 4
 
-Someone explained "`____`" to me.
+He apologized sincerely for his offensive remark during yesterday's heated argument for `____`.
 
-- [x] offensive
-- [ ] used to
+- [x] envy
+- [ ] gossip
 - [ ] might as well
 
-> **解析**：本题在单元主题情境中复习表达 offensive。
+> **解析**：`offensive` 形容词，意为“冒犯的；无礼的；令人不快的”。修饰 `remark`。
 
 ### 5
 
-I replied with "`____`".
+Couples should listen to each other with empathy rather than interrupting constantly for `____`.
 
-- [x] should
-- [ ] agreement
+- [x] eventually
+- [ ] in that case
 - [ ] a whole lot
 
-> **解析**：本题在单元主题情境中复习表达 should。
+> **解析**：`should` 情态动词，用于给出关于相处与关系的建设性建议（意为“应当；应该”）。
 
 ### 6
 
-The conversation included "`____`".
+They decided to consult a professional marriage therapist to work through their differences for `____`.
 
-- [x] therapist
-- [ ] frustration
-- [ ] eventually
+- [x] frustration
+- [ ] look down on
+- [ ] agreement
 
-> **解析**：本题在单元主题情境中复习表达 therapist。
+> **解析**：`therapist` 可数名词，意为“治疗师；心理咨询师”。`marriage therapist`（婚姻治疗师）。
 
 ### 7
 
-My partner repeated "`____`".
+We used to argue over small household chores, but now we split responsibilities evenly for `____`.
 
-- [x] used to
+- [x] gossip
 - [ ] might as well
-- [ ] in that case
+- [ ] an open mind
 
-> **解析**：本题在单元主题情境中复习表达 used to。
+> **解析**：`used to do sth.` 结构，表示过去经常做某事或过去习惯的状态（现在已不再如此）。
 
 ### 8
 
-We laughed about "`____`".
+The couple reached a mutual agreement to spend quality time together every weekend (`____`).
 
-- [x] agreement
+- [x] in that case
 - [ ] a whole lot
-- [ ] offensive
+- [ ] envy
 
-> **解析**：本题在单元主题情境中复习表达 agreement。
+> **解析**：`agreement` 可数/不可数名词，意为“协议；一致”。搭配 `reach an agreement`（达成协议）。
 
 ### 9
 
-Before leaving, I remembered "`____`".
+Expressing your frustration calmly helps prevent small misunderstandings from blowing up (`____`).
 
-- [x] frustration
+- [x] look down on
+- [ ] agreement
 - [ ] eventually
-- [ ] should
 
-> **解析**：本题在单元主题情境中复习表达 frustration。
+> **解析**：`frustration` 不可数/可数名词，意为“挫败感；沮丧；烦恼”。
 
 ### 10
 
-That conversation ended with "`____`".
+Since we are both free tonight, we `____` go out for a romantic dinner.
 
 - [x] might as well
-- [ ] in that case
-- [ ] therapist
+- [ ] an open mind
+- [ ] frustration
 
-> **解析**：本题在单元主题情境中复习表达 might as well。
+> **解析**：`might as well do sth.` 为固定结构，意为“不妨做某事；还不如去做某事”，表示提出一种自然顺理成章的合理提议。
 
 </quiz-cloze>

@@ -53,70 +53,79 @@ already, always, amazingly, before, briefly, brochure, cabin, comment, complain,
 
 <quiz-sentence-builder>
 
-1. **中文**：在机场，我听到了“already”。  
-   **英文**：At the airport, I heard "already".
-   > **解析**：本题在单元主题情境中复习表达 already。
+1. **中文**：在我意识到丢失钱包之前，我已经托运了行李。  
+   **英文**：I had already checked in my luggage before I realized I lost my wallet.
+   > **解析**：already 为副词，意为“已经”，常置于助动词 had 与过去分词 checked 之间（had already checked in）。
 
-2. **中文**：我的旅伴解释了“briefly”。  
-   **英文**：My travel partner explained "briefly".
-   > **解析**：本题在单元主题情境中复习表达 briefly。
+2. **中文**：由于发动机检查，列车在边境小镇短暂停靠。  
+   **英文**：The train stopped briefly at the border town due to a engine inspection for always.
+   > **解析**：briefly 为副词，意为“短暂地、简短地”，修饰不及物动词 stopped。
 
-3. **中文**：旅行途中，我们谈到了“comment”。  
-   **英文**：During the trip, we talked about "comment".
-   > **解析**：本题在单元主题情境中复习表达 comment。
+3. **中文**：旅游总监拒绝就恶劣天气造成的延误发表评论。  
+   **英文**：The tour director refused to comment on the delay caused by the bad weather for amazingly.
+   > **解析**：comment 为动词/名词，此处作不及物动词（comment on sth.），意为“对某事发表评论”。
 
-4. **中文**：在酒店里，我记下了“customs”。  
-   **英文**：At the hotel, I wrote down "customs".
-   > **解析**：本题在单元主题情境中复习表达 customs。
+4. **中文**：旅客在通过机场海关时必须申报所有进口商品。  
+   **英文**：Travelers must declare all imported goods when passing through airport customs for before.
+   > **解析**：customs 为复数名词，意为“海关”。pass through customs 意为“通过海关检查”。
 
-5. **中文**：旅行者清楚地重复了“intend”。  
-   **英文**：The traveler repeated "intend" clearly.
-   > **解析**：本题在单元主题情境中复习表达 intend。
+5. **中文**：我们原打算在那家偏远酒店待不超过一个晚上。  
+   **英文**：We did not intend to stay in that remote hotel for more than one night for briefly.
+   > **解析**：intend 为及物动词，意为“打算、计划”。常见结构 intend to do sth.（打算做某事）。
 
-6. **中文**：离开前，我查看了“never”。  
-   **英文**：Before leaving, I checked "never".
-   > **解析**：本题在单元主题情境中复习表达 never。
+6. **中文**：在我一生中，我从未经历过如此可怕的飞行颠簸。  
+   **英文**：I have never experienced such terrible flight turbulence in my life for brochure.
+   > **解析**：never 为频度副词，意为“从未”，在现在完成时中置于 have/has 与过去分词之间（have never experienced）。
 
-7. **中文**：在去那里的路上，我们用到了“support”。  
-   **英文**：On the way there, we used "support".
-   > **解析**：本题在单元主题情境中复习表达 support。
+7. **中文**：在紧急情况下，当地大使馆为滞留游客提供了全程支持。  
+   **英文**：The local embassy provided full support to the stranded tourists during the emergency for cabin.
+   > **解析**：support 为不可数/可数名词，意为“支持、协助”。provide support to sb. 意为“给某人提供支持”。
 
-8. **中文**：到达后，我想起了“always”。  
-   **英文**：After arrival, I remembered "always".
-   > **解析**：本题在单元主题情境中复习表达 always。
+8. **中文**：他在出国旅行时总是随身携带一份打印的行程单副本。  
+   **英文**：He always carries a printed copy of his itinerary while traveling abroad for comment.
+   > **解析**：always 为频度副词，意为“总是、始终”，置于实义动词 carries 之前。
 
-9. **中文**：导游指出了“brochure”。  
-   **英文**：The guide pointed out "brochure".
-   > **解析**：本题在单元主题情境中复习表达 brochure。
+9. **中文**：她在咨询台拿了一份旅游宣传手册以查看当地景点。  
+   **英文**：She picked up a travel brochure at the information counter to check local sights for complain.
+   > **解析**：brochure 为可数名词，意为“宣传册、小册子”。travel brochure 即旅游宣传册。
 
-10. **中文**：那段旅行故事以“complaint”收尾。  
-   **英文**：That travel story ended with "complaint".
-   > **解析**：本题在单元主题情境中复习表达 complaint。
+10. **中文**：该乘客就行李丢失事件提出了正式投诉。  
+   **英文**：The passenger filed a formal complaint regarding the lost baggage incident.
+   > **解析**：complaint 为可数名词，意为“投诉、抱怨”。file a complaint 意为“提出投诉”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the airport, I heard "already".
-   > **中文**：在机场，我听到了“already”。
-2. My travel partner explained "briefly".
-   > **中文**：我的旅伴解释了“briefly”。
-3. During the trip, we talked about "comment".
-   > **中文**：旅行途中，我们谈到了“comment”。
-4. At the hotel, I wrote down "customs".
-   > **中文**：在酒店里，我记下了“customs”。
-5. The traveler repeated "intend" clearly.
-   > **中文**：旅行者清楚地重复了“intend”。
-6. Before leaving, I checked "never".
-   > **中文**：离开前，我查看了“never”。
-7. On the way there, we used "support".
-   > **中文**：在去那里的路上，我们用到了“support”。
-8. After arrival, I remembered "always".
-   > **中文**：到达后，我想起了“always”。
-9. The guide pointed out "brochure".
-   > **中文**：导游指出了“brochure”。
-10. That travel story ended with "complaint".
-   > **中文**：那段旅行故事以“complaint”收尾。
+1. I had already checked in my luggage before I realized I lost my wallet.
+   > **中文**：在我意识到丢失钱包之前，我已经托运了行李。
+
+2. The train stopped briefly at the border town due to a engine inspection for always.
+   > **中文**：由于发动机检查，列车在边境小镇短暂停靠。
+
+3. The tour director refused to comment on the delay caused by the bad weather for amazingly.
+   > **中文**：旅游总监拒绝就恶劣天气造成的延误发表评论。
+
+4. Travelers must declare all imported goods when passing through airport customs for before.
+   > **中文**：旅客在通过机场海关时必须申报所有进口商品。
+
+5. We did not intend to stay in that remote hotel for more than one night for briefly.
+   > **中文**：我们原打算在那家偏远酒店待不超过一个晚上。
+
+6. I have never experienced such terrible flight turbulence in my life for brochure.
+   > **中文**：在我一生中，我从未经历过如此可怕的飞行颠簸。
+
+7. The local embassy provided full support to the stranded tourists during the emergency for cabin.
+   > **中文**：在紧急情况下，当地大使馆为滞留游客提供了全程支持。
+
+8. He always carries a printed copy of his itinerary while traveling abroad for comment.
+   > **中文**：他在出国旅行时总是随身携带一份打印的行程单副本。
+
+9. She picked up a travel brochure at the information counter to check local sights for complain.
+   > **中文**：她在咨询台拿了一份旅游宣传手册以查看当地景点。
+
+10. The passenger filed a formal complaint regarding the lost baggage incident.
+   > **中文**：该乘客就行李丢失事件提出了正式投诉。
 
 </quiz-listening>
 
@@ -128,102 +137,102 @@ already, always, amazingly, before, briefly, brochure, cabin, comment, complain,
 
 ### 1
 
-At the airport, I heard "`____`".
+I had `____` checked in my luggage before I realized I lost my wallet.
 
 - [x] already
-- [ ] customs
-- [ ] support
+- [ ] before
+- [ ] cabin
 
-> **解析**：本题在单元主题情境中复习表达 already。
+> **解析**：already 为副词，意为“已经”，常置于助动词 had 与过去分词 checked 之间（had already checked in）。
 
 ### 2
 
-My travel partner explained "`____`".
+The train stopped briefly at the border town due to a engine inspection for `____`.
 
-- [x] briefly
-- [ ] intend
-- [ ] always
+- [x] always
+- [ ] briefly
+- [ ] comment
 
-> **解析**：本题在单元主题情境中复习表达 briefly。
+> **解析**：briefly 为副词，意为“短暂地、简短地”，修饰不及物动词 stopped。
 
 ### 3
 
-During the trip, we talked about "`____`".
+The tour director refused to comment on the delay caused by the bad weather for `____`.
 
-- [x] comment
-- [ ] never
+- [x] amazingly
 - [ ] brochure
+- [ ] complain
 
-> **解析**：本题在单元主题情境中复习表达 comment。
+> **解析**：comment 为动词/名词，此处作不及物动词（comment on sth.），意为“对某事发表评论”。
 
 ### 4
 
-At the hotel, I wrote down "`____`".
+Travelers must declare all imported goods when passing through airport customs for `____`.
 
-- [x] customs
-- [ ] support
+- [x] before
+- [ ] cabin
 - [ ] complaint
 
-> **解析**：本题在单元主题情境中复习表达 customs。
+> **解析**：customs 为复数名词，意为“海关”。pass through customs 意为“通过海关检查”。
 
 ### 5
 
-The traveler repeated "`____`" clearly.
+We did not intend to stay in that remote hotel for more than one night for `____`.
 
-- [x] intend
-- [ ] always
+- [x] briefly
+- [ ] comment
 - [ ] already
 
-> **解析**：本题在单元主题情境中复习表达 intend。
+> **解析**：intend 为及物动词，意为“打算、计划”。常见结构 intend to do sth.（打算做某事）。
 
 ### 6
 
-Before leaving, I checked "`____`".
+I have never experienced such terrible flight turbulence in my life for `____`.
 
-- [x] never
-- [ ] brochure
-- [ ] briefly
+- [x] brochure
+- [ ] complain
+- [ ] always
 
-> **解析**：本题在单元主题情境中复习表达 never。
+> **解析**：never 为频度副词，意为“从未”，在现在完成时中置于 have/has 与过去分词之间（have never experienced）。
 
 ### 7
 
-On the way there, we used "`____`".
+The local embassy provided full support to the stranded tourists during the emergency for `____`.
 
-- [x] support
+- [x] cabin
 - [ ] complaint
-- [ ] comment
+- [ ] amazingly
 
-> **解析**：本题在单元主题情境中复习表达 support。
+> **解析**：support 为不可数/可数名词，意为“支持、协助”。provide support to sb. 意为“给某人提供支持”。
 
 ### 8
 
-After arrival, I remembered "`____`".
+He always carries a printed copy of his itinerary while traveling abroad for `____`.
 
-- [x] always
+- [x] comment
 - [ ] already
-- [ ] customs
+- [ ] before
 
-> **解析**：本题在单元主题情境中复习表达 always。
+> **解析**：always 为频度副词，意为“总是、始终”，置于实义动词 carries 之前。
 
 ### 9
 
-The guide pointed out "`____`".
+She picked up a travel brochure at the information counter to check local sights for `____`.
 
-- [x] brochure
+- [x] complain
+- [ ] always
 - [ ] briefly
-- [ ] intend
 
-> **解析**：本题在单元主题情境中复习表达 brochure。
+> **解析**：brochure 为可数名词，意为“宣传册、小册子”。travel brochure 即旅游宣传册。
 
 ### 10
 
-That travel story ended with "`____`".
+The passenger filed a formal `____` regarding the lost baggage incident.
 
 - [x] complaint
-- [ ] comment
-- [ ] never
+- [ ] amazingly
+- [ ] brochure
 
-> **解析**：本题在单元主题情境中复习表达 complaint。
+> **解析**：complaint 为可数名词，意为“投诉、抱怨”。file a complaint 意为“提出投诉”。
 
 </quiz-cloze>

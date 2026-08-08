@@ -61,70 +61,79 @@ thief → thieves（复数变化）。take place = happen。
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“arrest”。  
-   **英文**：In this situation, I heard "arrest".
-   > **解析**：本题在单元主题情境中复习表达 arrest。
+1. **中文**：警察迅速赶到犯罪现场逮捕了嫌疑人。  
+   **英文**：The police arrived quickly at the crime scene to arrest the suspect.
+   > **解析**：arrest 为及物动词，意为“逮捕、拘留”。常用结构 arrest the suspect（逮捕嫌疑人）。
 
-2. **中文**：同伴解释了“call the police”。  
-   **英文**：My partner explained "call the police".
-   > **解析**：本题在单元主题情境中复习表达 call the police。
+2. **中文**：如果你目击了抢劫案，应该立即报警。  
+   **英文**：If you witness a robbery, you should immediately call the police for attack.
+   > **解析**：call the police 为固定短语，意为“打电话给警察/报警”。
 
-3. **中文**：我们一起谈到了“file”。  
-   **英文**：We talked about "file" together.
-   > **解析**：本题在单元主题情境中复习表达 file。
+3. **中文**：受害者前往当地警察局提交了正式的警情报告。  
+   **英文**：The victim went to the local station to file an official police report for bomb.
+   > **解析**：file 为及物动词，意为“提交、备案”。file a report 意为“提交报告/立案”。
 
-4. **中文**：我记下了“luckily”。  
-   **英文**：I wrote down "luckily".
-   > **解析**：本题在单元主题情境中复习表达 luckily。
+4. **中文**：幸运的是，在今天早上的银行抢劫案中没有人受伤。  
+   **英文**：Luckily, nobody was injured during the bank robbery this morning (call the police).
+   > **解析**：luckily 为句首副词，意为“幸运地是”，用作评注性状语修饰整个句子。
 
-5. **中文**：例句中包含“protect”。  
-   **英文**：The example included "protect".
-   > **解析**：本题在单元主题情境中复习表达 protect。
+5. **中文**：商店外面安装了监控摄像头以保护财产。  
+   **英文**：Security cameras were installed outside the store to protect the property for certain.
+   > **解析**：protect 为及物动词，意为“保护、防护”。to protect the property 作目的状语。
 
-6. **中文**：我询问了“take place”。  
-   **英文**：I asked about "take place".
-   > **解析**：本题在单元主题情境中复习表达 take place。
+6. **中文**：商店抢劫案发生在全体员工离开后的深夜。  
+   **英文**：The store robbery took place late at night after all staff had left for commit.
+   > **解析**：take place 为不及物动词短语，意为“发生”，不可用于被动语态，相当于 happen。
 
-7. **中文**：我们在句子中用到了“unknown”。  
-   **英文**：We used "unknown" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 unknown。
+7. **中文**：蒙面小偷的被盗身份对调查人员来说仍是一个谜。  
+   **英文**：The stolen identity of the masked thief remains unknown to investigators for emergency.
+   > **解析**：unknown 为形容词，意为“未知的、不明的”，在此处作表语（remains unknown）。
 
-8. **中文**：朋友重复了“attack”。  
-   **英文**：My friend repeated "attack".
-   > **解析**：本题在单元主题情境中复习表达 attack。
+8. **中文**：劫匪试图用武器袭击保安。  
+   **英文**：The robber tried to attack the security guard with a weapon for file.
+   > **解析**：attack 为及物动词，意为“袭击、攻击”，后接被攻击的对象（attack the security guard）。
 
-9. **中文**：后来，我记住了“commit”。  
-   **英文**：Later, I remembered "commit".
-   > **解析**：本题在单元主题情境中复习表达 commit。
+9. **中文**：在任何国家犯持械抢劫罪都是严重的犯罪行为。  
+   **英文**：It is a serious crime to commit armed robbery in any country for glad.
+   > **解析**：commit 为及物动词，意为“犯（罪/错）”。常用搭配 commit a crime / commit robbery。
 
-10. **中文**：这个小故事以“glad”收尾。  
-   **英文**：The short story ended with "glad".
-   > **解析**：本题在单元主题情境中复习表达 glad。
+10. **中文**：我们很高兴失窃的物品被安全归还给了原主。  
+   **英文**：We are glad that the lost stolen items were returned safely to their owner for innocent.
+   > **解析**：glad 为形容词，意为“高兴的、欣慰的”，常用结构 receive be glad that + 从句。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "arrest".
-   > **中文**：在这个情境中，我听到了“arrest”。
-2. My partner explained "call the police".
-   > **中文**：同伴解释了“call the police”。
-3. We talked about "file" together.
-   > **中文**：我们一起谈到了“file”。
-4. I wrote down "luckily".
-   > **中文**：我记下了“luckily”。
-5. The example included "protect".
-   > **中文**：例句中包含“protect”。
-6. I asked about "take place".
-   > **中文**：我询问了“take place”。
-7. We used "unknown" in a sentence.
-   > **中文**：我们在句子中用到了“unknown”。
-8. My friend repeated "attack".
-   > **中文**：朋友重复了“attack”。
-9. Later, I remembered "commit".
-   > **中文**：后来，我记住了“commit”。
-10. The short story ended with "glad".
-   > **中文**：这个小故事以“glad”收尾。
+1. The police arrived quickly at the crime scene to arrest the suspect.
+   > **中文**：警察迅速赶到犯罪现场逮捕了嫌疑人。
+
+2. If you witness a robbery, you should immediately call the police for attack.
+   > **中文**：如果你目击了抢劫案，应该立即报警。
+
+3. The victim went to the local station to file an official police report for bomb.
+   > **中文**：受害者前往当地警察局提交了正式的警情报告。
+
+4. Luckily, nobody was injured during the bank robbery this morning (call the police).
+   > **中文**：幸运的是，在今天早上的银行抢劫案中没有人受伤。
+
+5. Security cameras were installed outside the store to protect the property for certain.
+   > **中文**：商店外面安装了监控摄像头以保护财产。
+
+6. The store robbery took place late at night after all staff had left for commit.
+   > **中文**：商店抢劫案发生在全体员工离开后的深夜。
+
+7. The stolen identity of the masked thief remains unknown to investigators for emergency.
+   > **中文**：蒙面小偷的被盗身份对调查人员来说仍是一个谜。
+
+8. The robber tried to attack the security guard with a weapon for file.
+   > **中文**：劫匪试图用武器袭击保安。
+
+9. It is a serious crime to commit armed robbery in any country for glad.
+   > **中文**：在任何国家犯持械抢劫罪都是严重的犯罪行为。
+
+10. We are glad that the lost stolen items were returned safely to their owner for innocent.
+   > **中文**：我们很高兴失窃的物品被安全归还给了原主。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ thief → thieves（复数变化）。take place = happen。
 
 ### 1
 
-In this situation, I heard "`____`".
+The police arrived quickly at the crime scene to `____` the suspect.
 
 - [x] arrest
-- [ ] luckily
-- [ ] unknown
+- [ ] call the police
+- [ ] emergency
 
-> **解析**：本题在单元主题情境中复习表达 arrest。
+> **解析**：arrest 为及物动词，意为“逮捕、拘留”。常用结构 arrest the suspect（逮捕嫌疑人）。
 
 ### 2
 
-My partner explained "`____`".
+If you witness a robbery, you should immediately call the police for `____`.
 
-- [x] call the police
-- [ ] protect
-- [ ] attack
+- [x] attack
+- [ ] certain
+- [ ] file
 
-> **解析**：本题在单元主题情境中复习表达 call the police。
+> **解析**：call the police 为固定短语，意为“打电话给警察/报警”。
 
 ### 3
 
-We talked about "`____`" together.
+The victim went to the local station to file an official police report for `____`.
 
-- [x] file
-- [ ] take place
+- [x] bomb
 - [ ] commit
+- [ ] glad
 
-> **解析**：本题在单元主题情境中复习表达 file。
+> **解析**：file 为及物动词，意为“提交、备案”。file a report 意为“提交报告/立案”。
 
 ### 4
 
-I wrote down "`____`".
+Luckily, nobody was injured during the bank robbery this morning (`____`).
 
-- [x] luckily
-- [ ] unknown
-- [ ] glad
+- [x] call the police
+- [ ] emergency
+- [ ] innocent
 
-> **解析**：本题在单元主题情境中复习表达 luckily。
+> **解析**：luckily 为句首副词，意为“幸运地是”，用作评注性状语修饰整个句子。
 
 ### 5
 
-The example included "`____`".
+Security cameras were installed outside the store to protect the property for `____`.
 
-- [x] protect
-- [ ] attack
+- [x] certain
+- [ ] file
 - [ ] arrest
 
-> **解析**：本题在单元主题情境中复习表达 protect。
+> **解析**：protect 为及物动词，意为“保护、防护”。to protect the property 作目的状语。
 
 ### 6
 
-I asked about "`____`".
+The store robbery took place late at night after all staff had left for `____`.
 
-- [x] take place
-- [ ] commit
-- [ ] call the police
+- [x] commit
+- [ ] glad
+- [ ] attack
 
-> **解析**：本题在单元主题情境中复习表达 take place。
+> **解析**：take place 为不及物动词短语，意为“发生”，不可用于被动语态，相当于 happen。
 
 ### 7
 
-We used "`____`" in a sentence.
+The stolen identity of the masked thief remains unknown to investigators for `____`.
 
-- [x] unknown
-- [ ] glad
-- [ ] file
+- [x] emergency
+- [ ] innocent
+- [ ] bomb
 
-> **解析**：本题在单元主题情境中复习表达 unknown。
+> **解析**：unknown 为形容词，意为“未知的、不明的”，在此处作表语（remains unknown）。
 
 ### 8
 
-My friend repeated "`____`".
+The robber tried to attack the security guard with a weapon for `____`.
 
-- [x] attack
+- [x] file
 - [ ] arrest
-- [ ] luckily
+- [ ] call the police
 
-> **解析**：本题在单元主题情境中复习表达 attack。
+> **解析**：attack 为及物动词，意为“袭击、攻击”，后接被攻击的对象（attack the security guard）。
 
 ### 9
 
-Later, I remembered "`____`".
+It is a serious crime to commit armed robbery in any country for `____`.
 
-- [x] commit
-- [ ] call the police
-- [ ] protect
+- [x] glad
+- [ ] attack
+- [ ] certain
 
-> **解析**：本题在单元主题情境中复习表达 commit。
+> **解析**：commit 为及物动词，意为“犯（罪/错）”。常用搭配 commit a crime / commit robbery。
 
 ### 10
 
-The short story ended with "`____`".
+We are glad that the lost stolen items were returned safely to their owner for `____`.
 
-- [x] glad
-- [ ] file
-- [ ] take place
+- [x] innocent
+- [ ] bomb
+- [ ] commit
 
-> **解析**：本题在单元主题情境中复习表达 glad。
+> **解析**：glad 为形容词，意为“高兴的、欣慰的”，常用结构 receive be glad that + 从句。
 
 </quiz-cloze>

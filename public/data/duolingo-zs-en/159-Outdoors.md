@@ -61,70 +61,79 @@ have got to = must（必须）。blow → blew → blown。
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“blew”。  
-   **英文**：In this situation, I heard "blew".
-   > **解析**：本题在单元主题情境中复习表达 blew。
+1. **中文**：整晚强风吹掠过海岸。  
+   **英文**：A strong wind blew across the coast all night long.
+   > **解析**：blew 是动词 blow 的过去式，意为“吹、刮”，在此处修饰主语 A strong wind。
 
-2. **中文**：同伴解释了“coast”。  
-   **英文**：My partner explained "coast".
-   > **解析**：本题在单元主题情境中复习表达 coast。
+2. **中文**：根据天气预报，明天大雾将笼罩北部海岸。  
+   **英文**：According to the weather report, fog will cover the northern coast tomorrow for blow.
+   > **解析**：coast 为名词，意为“海岸、海滨”。常见搭配 on the coast, northern coast。
 
-3. **中文**：我们一起谈到了“forecast”。  
-   **英文**：We talked about "forecast" together.
-   > **解析**：本题在单元主题情境中复习表达 forecast。
+3. **中文**：天气预报预测下午将有大雨和雷暴。  
+   **英文**：The weather forecast predicts heavy rainfall and thunder in the afternoon for camel.
+   > **解析**：forecast 在此处作名词，意为“预报”。weather forecast 即天气预报。
 
-4. **中文**：我记下了“mild”。  
-   **英文**：I wrote down "mild".
-   > **解析**：本题在单元主题情境中复习表达 mild。
+4. **中文**：我们享受了一个阳光怡人、气候温和的秋日下午。  
+   **英文**：We enjoyed a mild autumn afternoon with pleasant sunshine for climate.
+   > **解析**：mild 为形容词，形容天气时意为“温和的、不寒冷的”，修饰 autumn afternoon。
 
-5. **中文**：例句中包含“overnight”。  
-   **英文**：The example included "overnight".
-   > **解析**：本题在单元主题情境中复习表达 overnight。
+5. **中文**：预计气温将在夜间降至零度以下。  
+   **英文**：Temperatures are expected to drop below zero overnight for coast.
+   > **解析**：overnight 在此处用作副词，意为“在整夜、过夜期间”，修饰动词 drop。
 
-6. **中文**：我询问了“southwest”。  
-   **英文**：I asked about "southwest".
-   > **解析**：本题在单元主题情境中复习表达 southwest。
+6. **中文**：一股暖风正从西南方吹向内陆地区。  
+   **英文**：A warm wind is blowing from the southwest towards the inland region for destination.
+   > **解析**：southwest 为名词/副词，意为“西南、西南方”。from the southwest 意为“从西南方向”。
 
-7. **中文**：我们在句子中用到了“whale”。  
-   **英文**：We used "whale" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 whale。
+7. **中文**：游客们乘船出海，希望能看到海岸附近的大翅鲸。  
+   **英文**：Tourists went on a boat tour hoping to see a humpback whale off the coast for fallen.
+   > **解析**：whale 为可数名词，意为“鲸鱼”。在户外及海洋自然话题中出现。
 
-8. **中文**：朋友重复了“blow”。  
-   **英文**：My friend repeated "blow".
-   > **解析**：本题在单元主题情境中复习表达 blow。
+8. **中文**：整个周末强风将继续从海洋吹来。  
+   **英文**：Strong winds will blow from the ocean throughout the weekend for forecast.
+   > **解析**：blow 为动词原形，意为“吹、刮”。助动词 will 后接动词原形 blow。
 
-9. **中文**：后来，我记住了“destination”。  
-   **英文**：Later, I remembered "destination".
-   > **解析**：本题在单元主题情境中复习表达 destination。
+9. **中文**：前往你的度假目的地前，请先查看当地的天气预报。  
+   **英文**：Check the local forecast before heading to your holiday destination for grew.
+   > **解析**：destination 为可数名词，意为“目的地、终点”。holiday destination 指度假胜地。
 
-10. **中文**：这个小故事以“have got to”收尾。  
-   **英文**：The short story ended with "have got to".
-   > **解析**：本题在单元主题情境中复习表达 have got to。
+10. **中文**：你必须带一把伞，因为预报过一会儿有雨。  
+   **英文**：You have got to bring an umbrella because rain is forecasted later.
+   > **解析**：have got to 是口语动词短语，意为“必须、不得不”，等同于 have to，后接动词原形 bring。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "blew".
-   > **中文**：在这个情境中，我听到了“blew”。
-2. My partner explained "coast".
-   > **中文**：同伴解释了“coast”。
-3. We talked about "forecast" together.
-   > **中文**：我们一起谈到了“forecast”。
-4. I wrote down "mild".
-   > **中文**：我记下了“mild”。
-5. The example included "overnight".
-   > **中文**：例句中包含“overnight”。
-6. I asked about "southwest".
-   > **中文**：我询问了“southwest”。
-7. We used "whale" in a sentence.
-   > **中文**：我们在句子中用到了“whale”。
-8. My friend repeated "blow".
-   > **中文**：朋友重复了“blow”。
-9. Later, I remembered "destination".
-   > **中文**：后来，我记住了“destination”。
-10. The short story ended with "have got to".
-   > **中文**：这个小故事以“have got to”收尾。
+1. A strong wind blew across the coast all night long.
+   > **中文**：整晚强风吹掠过海岸。
+
+2. According to the weather report, fog will cover the northern coast tomorrow for blow.
+   > **中文**：根据天气预报，明天大雾将笼罩北部海岸。
+
+3. The weather forecast predicts heavy rainfall and thunder in the afternoon for camel.
+   > **中文**：天气预报预测下午将有大雨和雷暴。
+
+4. We enjoyed a mild autumn afternoon with pleasant sunshine for climate.
+   > **中文**：我们享受了一个阳光怡人、气候温和的秋日下午。
+
+5. Temperatures are expected to drop below zero overnight for coast.
+   > **中文**：预计气温将在夜间降至零度以下。
+
+6. A warm wind is blowing from the southwest towards the inland region for destination.
+   > **中文**：一股暖风正从西南方吹向内陆地区。
+
+7. Tourists went on a boat tour hoping to see a humpback whale off the coast for fallen.
+   > **中文**：游客们乘船出海，希望能看到海岸附近的大翅鲸。
+
+8. Strong winds will blow from the ocean throughout the weekend for forecast.
+   > **中文**：整个周末强风将继续从海洋吹来。
+
+9. Check the local forecast before heading to your holiday destination for grew.
+   > **中文**：前往你的度假目的地前，请先查看当地的天气预报。
+
+10. You have got to bring an umbrella because rain is forecasted later.
+   > **中文**：你必须带一把伞，因为预报过一会儿有雨。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ have got to = must（必须）。blow → blew → blown。
 
 ### 1
 
-In this situation, I heard "`____`".
+A strong wind `____` across the coast all night long.
 
 - [x] blew
-- [ ] mild
-- [ ] whale
+- [ ] climate
+- [ ] fallen
 
-> **解析**：本题在单元主题情境中复习表达 blew。
+> **解析**：blew 是动词 blow 的过去式，意为“吹、刮”，在此处修饰主语 A strong wind。
 
 ### 2
 
-My partner explained "`____`".
+According to the weather report, fog will cover the northern coast tomorrow for `____`.
 
-- [x] coast
-- [ ] overnight
-- [ ] blow
+- [x] blow
+- [ ] coast
+- [ ] forecast
 
-> **解析**：本题在单元主题情境中复习表达 coast。
+> **解析**：coast 为名词，意为“海岸、海滨”。常见搭配 on the coast, northern coast。
 
 ### 3
 
-We talked about "`____`" together.
+The weather forecast predicts heavy rainfall and thunder in the afternoon for `____`.
 
-- [x] forecast
-- [ ] southwest
+- [x] camel
 - [ ] destination
+- [ ] grew
 
-> **解析**：本题在单元主题情境中复习表达 forecast。
+> **解析**：forecast 在此处作名词，意为“预报”。weather forecast 即天气预报。
 
 ### 4
 
-I wrote down "`____`".
+We enjoyed a mild autumn afternoon with pleasant sunshine for `____`.
 
-- [x] mild
-- [ ] whale
+- [x] climate
+- [ ] fallen
 - [ ] have got to
 
-> **解析**：本题在单元主题情境中复习表达 mild。
+> **解析**：mild 为形容词，形容天气时意为“温和的、不寒冷的”，修饰 autumn afternoon。
 
 ### 5
 
-The example included "`____`".
+Temperatures are expected to drop below zero overnight for `____`.
 
-- [x] overnight
-- [ ] blow
+- [x] coast
+- [ ] forecast
 - [ ] blew
 
-> **解析**：本题在单元主题情境中复习表达 overnight。
+> **解析**：overnight 在此处用作副词，意为“在整夜、过夜期间”，修饰动词 drop。
 
 ### 6
 
-I asked about "`____`".
+A warm wind is blowing from the southwest towards the inland region for `____`.
 
-- [x] southwest
-- [ ] destination
-- [ ] coast
+- [x] destination
+- [ ] grew
+- [ ] blow
 
-> **解析**：本题在单元主题情境中复习表达 southwest。
+> **解析**：southwest 为名词/副词，意为“西南、西南方”。from the southwest 意为“从西南方向”。
 
 ### 7
 
-We used "`____`" in a sentence.
+Tourists went on a boat tour hoping to see a humpback whale off the coast for `____`.
 
-- [x] whale
+- [x] fallen
 - [ ] have got to
-- [ ] forecast
+- [ ] camel
 
-> **解析**：本题在单元主题情境中复习表达 whale。
+> **解析**：whale 为可数名词，意为“鲸鱼”。在户外及海洋自然话题中出现。
 
 ### 8
 
-My friend repeated "`____`".
+Strong winds will blow from the ocean throughout the weekend for `____`.
 
-- [x] blow
+- [x] forecast
 - [ ] blew
-- [ ] mild
+- [ ] climate
 
-> **解析**：本题在单元主题情境中复习表达 blow。
+> **解析**：blow 为动词原形，意为“吹、刮”。助动词 will 后接动词原形 blow。
 
 ### 9
 
-Later, I remembered "`____`".
+Check the local forecast before heading to your holiday destination for `____`.
 
-- [x] destination
+- [x] grew
+- [ ] blow
 - [ ] coast
-- [ ] overnight
 
-> **解析**：本题在单元主题情境中复习表达 destination。
+> **解析**：destination 为可数名词，意为“目的地、终点”。holiday destination 指度假胜地。
 
 ### 10
 
-The short story ended with "`____`".
+You `____` bring an umbrella because rain is forecasted later.
 
 - [x] have got to
-- [ ] forecast
-- [ ] southwest
+- [ ] camel
+- [ ] destination
 
-> **解析**：本题在单元主题情境中复习表达 have got to。
+> **解析**：have got to 是口语动词短语，意为“必须、不得不”，等同于 have to，后接动词原形 bring。
 
 </quiz-cloze>

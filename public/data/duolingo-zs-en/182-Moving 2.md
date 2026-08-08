@@ -51,70 +51,79 @@ across, antique, basement, coffee table, compare, damage, did, do, does, don't, 
 
 <quiz-sentence-builder>
 
-1. **中文**：谈论喜好时，我听到了“across”。  
-   **英文**：When we talked about favorites, I heard "across".
-   > **解析**：本题在单元主题情境中复习表达 across。
+1. **中文**：我们决定签一份公园附近公寓的两年租约。  
+   **英文**：We decided to sign a two-year lease for the apartment near the park for across.
+   > **解析**：lease 可作名词或动词，在此作名词意为“租约；租赁合同”，常与 sign、renew 等动词搭配。
 
-2. **中文**：朋友说“compare”很重要。  
-   **英文**：My friend said "compare" was important.
-   > **解析**：本题在单元主题情境中复习表达 compare。
+2. **中文**：新房子有一个宽敞的地下室，可以用作家庭健身房。  
+   **英文**：The new house has a spacious basement that can be used as a home gym for antique.
+   > **解析**：basement 可数名词，意为“地下室”，通常位于建筑物的地下一层。
 
-3. **中文**：我问他们喜欢哪一个：“does”。  
-   **英文**：I asked which one they liked: "does".
-   > **解析**：本题在单元主题情境中复习表达 does。
+3. **中文**：我的祖父母更喜欢住在地面层（一楼），以避免爬楼梯。  
+   **英文**：My grandparents prefer living on the ground floor to avoid taking stairs for basement.
+   > **解析**：ground floor 名词短语，指“建筑物的第一层/地面层”，介词用 on（on the ground floor）。
 
-4. **中文**：聊天时，我们比较了“main”。  
-   **英文**：In our chat, we compared "main".
-   > **解析**：本题在单元主题情境中复习表达 main。
+4. **中文**：搬家卡车大清早抵达，卸下我们的家具。  
+   **英文**：The moving truck arrived early in the morning to unload our furniture (coffee table).
+   > **解析**：moving truck 名词短语，意为“搬家卡车/货车”，moving 为动名词作定语修饰 truck。
 
-5. **中文**：同伴先选择了“moving truck”。  
-   **英文**：My partner chose "moving truck" first.
-   > **解析**：本题在单元主题情境中复习表达 moving truck。
+5. **中文**：我们的房产中介带我们看了安静社区里的三栋宽敞房子。  
+   **英文**：Our real estate agent showed us three spacious houses in a quiet area for compare.
+   > **解析**：real estate agent 名词短语，表示“房产经纪人/中介”，real estate 意为“房地产”。
 
-6. **中文**：我们用“porch”描述喜好。  
-   **英文**：We used "porch" to describe a favorite.
-   > **解析**：本题在单元主题情境中复习表达 porch。
+6. **中文**：我们买了一张漂亮的木质茶几摆在沙发前面。  
+   **英文**：We bought a lovely wooden coffee table to place in front of the sofa for damage.
+   > **解析**：coffee table 组合名词，意为“茶几；咖啡桌”，指放在客厅沙发前的矮桌。
 
-7. **中文**：答案中包含“system”。  
-   **英文**：The answer included "system".
-   > **解析**：本题在单元主题情境中复习表达 system。
+7. **中文**：我们喜欢在温暖的夏夜坐在前门廊上。  
+   **英文**：We love sitting on the front porch during warm summer evenings for did.
+   > **解析**：porch 可数名词，意为“门廊；阳台”，常搭配介词 on（on the porch）。
 
-8. **中文**：我从对话中记住了“antique”。  
-   **英文**：I remembered "antique" from the conversation.
-   > **解析**：本题在单元主题情境中复习表达 antique。
+8. **中文**：她用家族传下来的古董家具装饰客厅。  
+   **英文**：She decorates her living room with antique furniture passed down from her family.
+   > **解析**：antique 可作形容词“古董的；古老的”或名词“古董”，在此作形容词修饰 furniture。
 
-9. **中文**：朋友微笑着重复了“damage”。  
-   **英文**：My friend repeated "damage" with a smile.
-   > **解析**：本题在单元主题情境中复习表达 damage。
+9. **中文**：我们很高兴下个周末搬进新公寓。  
+   **英文**：We are excited to move into our new apartment next weekend for does.
+   > **解析**：move into 短语动词，意为“搬入/迁入（新居）”，后接表示地点的名词。
 
-10. **中文**：那场关于喜好的聊天以“ground floor”收尾。  
-   **英文**：That chat about favorites ended with "ground floor".
-   > **解析**：本题在单元主题情境中复习表达 ground floor。
+10. **中文**：搬运重箱子时要小心，不要损坏木地板。  
+   **英文**：Be careful not to damage the wooden floor when moving heavy boxes (don't).
+   > **解析**：damage 动词/名词，在此作动词表示“损坏；破坏”，后接宾语 the wooden floor。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. When we talked about favorites, I heard "across".
-   > **中文**：谈论喜好时，我听到了“across”。
-2. My friend said "compare" was important.
-   > **中文**：朋友说“compare”很重要。
-3. I asked which one they liked: "does".
-   > **中文**：我问他们喜欢哪一个：“does”。
-4. In our chat, we compared "main".
-   > **中文**：聊天时，我们比较了“main”。
-5. My partner chose "moving truck" first.
-   > **中文**：同伴先选择了“moving truck”。
-6. We used "porch" to describe a favorite.
-   > **中文**：我们用“porch”描述喜好。
-7. The answer included "system".
-   > **中文**：答案中包含“system”。
-8. I remembered "antique" from the conversation.
-   > **中文**：我从对话中记住了“antique”。
-9. My friend repeated "damage" with a smile.
-   > **中文**：朋友微笑着重复了“damage”。
-10. That chat about favorites ended with "ground floor".
-   > **中文**：那场关于喜好的聊天以“ground floor”收尾。
+1. We decided to sign a two-year lease for the apartment near the park for across.
+   > **中文**：我们决定签一份公园附近公寓的两年租约。
+
+2. The new house has a spacious basement that can be used as a home gym for antique.
+   > **中文**：新房子有一个宽敞的地下室，可以用作家庭健身房。
+
+3. My grandparents prefer living on the ground floor to avoid taking stairs for basement.
+   > **中文**：我的祖父母更喜欢住在地面层（一楼），以避免爬楼梯。
+
+4. The moving truck arrived early in the morning to unload our furniture (coffee table).
+   > **中文**：搬家卡车大清早抵达，卸下我们的家具。
+
+5. Our real estate agent showed us three spacious houses in a quiet area for compare.
+   > **中文**：我们的房产中介带我们看了安静社区里的三栋宽敞房子。
+
+6. We bought a lovely wooden coffee table to place in front of the sofa for damage.
+   > **中文**：我们买了一张漂亮的木质茶几摆在沙发前面。
+
+7. We love sitting on the front porch during warm summer evenings for did.
+   > **中文**：我们喜欢在温暖的夏夜坐在前门廊上。
+
+8. She decorates her living room with antique furniture passed down from her family.
+   > **中文**：她用家族传下来的古董家具装饰客厅。
+
+9. We are excited to move into our new apartment next weekend for does.
+   > **中文**：我们很高兴下个周末搬进新公寓。
+
+10. Be careful not to damage the wooden floor when moving heavy boxes (don't).
+   > **中文**：搬运重箱子时要小心，不要损坏木地板。
 
 </quiz-listening>
 
@@ -126,102 +135,102 @@ across, antique, basement, coffee table, compare, damage, did, do, does, don't, 
 
 ### 1
 
-When we talked about favorites, I heard "`____`".
+We decided to sign a two-year lease for the apartment near the park for `____`.
 
 - [x] across
-- [ ] main
-- [ ] system
+- [ ] coffee table
+- [ ] did
 
-> **解析**：本题在单元主题情境中复习表达 across。
+> **解析**：lease 可作名词或动词，在此作名词意为“租约；租赁合同”，常与 sign、renew 等动词搭配。
 
 ### 2
 
-My friend said "`____`" was important.
+The new house has a spacious basement that can be used as a home gym for `____`.
 
-- [x] compare
-- [ ] moving truck
-- [ ] antique
+- [x] antique
+- [ ] compare
+- [ ] do
 
-> **解析**：本题在单元主题情境中复习表达 compare。
+> **解析**：basement 可数名词，意为“地下室”，通常位于建筑物的地下一层。
 
 ### 3
 
-I asked which one they liked: "`____`".
+My grandparents prefer living on the ground floor to avoid taking stairs for `____`.
 
-- [x] does
-- [ ] porch
+- [x] basement
 - [ ] damage
+- [ ] does
 
-> **解析**：本题在单元主题情境中复习表达 does。
+> **解析**：ground floor 名词短语，指“建筑物的第一层/地面层”，介词用 on（on the ground floor）。
 
 ### 4
 
-In our chat, we compared "`____`".
+The moving truck arrived early in the morning to unload our furniture (`____`).
 
-- [x] main
-- [ ] system
-- [ ] ground floor
+- [x] coffee table
+- [ ] did
+- [ ] don't
 
-> **解析**：本题在单元主题情境中复习表达 main。
+> **解析**：moving truck 名词短语，意为“搬家卡车/货车”，moving 为动名词作定语修饰 truck。
 
 ### 5
 
-My partner chose "`____`" first.
+Our real estate agent showed us three spacious houses in a quiet area for `____`.
 
-- [x] moving truck
-- [ ] antique
+- [x] compare
+- [ ] do
 - [ ] across
 
-> **解析**：本题在单元主题情境中复习表达 moving truck。
+> **解析**：real estate agent 名词短语，表示“房产经纪人/中介”，real estate 意为“房地产”。
 
 ### 6
 
-We used "`____`" to describe a favorite.
+We bought a lovely wooden coffee table to place in front of the sofa for `____`.
 
-- [x] porch
-- [ ] damage
-- [ ] compare
+- [x] damage
+- [ ] does
+- [ ] antique
 
-> **解析**：本题在单元主题情境中复习表达 porch。
+> **解析**：coffee table 组合名词，意为“茶几；咖啡桌”，指放在客厅沙发前的矮桌。
 
 ### 7
 
-The answer included "`____`".
+We love sitting on the front porch during warm summer evenings for `____`.
 
-- [x] system
-- [ ] ground floor
-- [ ] does
+- [x] did
+- [ ] don't
+- [ ] basement
 
-> **解析**：本题在单元主题情境中复习表达 system。
+> **解析**：porch 可数名词，意为“门廊；阳台”，常搭配介词 on（on the porch）。
 
 ### 8
 
-I remembered "`____`" from the conversation.
+She decorates her living room with antique furniture passed `____`wn from her family.
 
-- [x] antique
+- [x] do
 - [ ] across
-- [ ] main
+- [ ] coffee table
 
-> **解析**：本题在单元主题情境中复习表达 antique。
+> **解析**：antique 可作形容词“古董的；古老的”或名词“古董”，在此作形容词修饰 furniture。
 
 ### 9
 
-My friend repeated "`____`" with a smile.
+We are excited to move into our new apartment next weekend for `____`.
 
-- [x] damage
+- [x] does
+- [ ] antique
 - [ ] compare
-- [ ] moving truck
 
-> **解析**：本题在单元主题情境中复习表达 damage。
+> **解析**：move into 短语动词，意为“搬入/迁入（新居）”，后接表示地点的名词。
 
 ### 10
 
-That chat about favorites ended with "`____`".
+Be careful not to damage the wooden floor when moving heavy boxes (`____`).
 
-- [x] ground floor
-- [ ] does
-- [ ] porch
+- [x] don't
+- [ ] basement
+- [ ] damage
 
-> **解析**：本题在单元主题情境中复习表达 ground floor。
+> **解析**：damage 动词/名词，在此作动词表示“损坏；破坏”，后接宾语 the wooden floor。
 
 </quiz-cloze>

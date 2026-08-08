@@ -63,70 +63,79 @@ a certain, absolutely, as far as I'm concerned, be able to, can, come up with, c
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“a certain”。  
-   **英文**：At work, we discussed "a certain".
-   > **解析**：本题在单元主题情境中复习表达 a certain。
+1. **中文**：这个职位要求应聘者具备一定水平的技术专业知识。  
+   **英文**：This position requires candidates to possess a certain level of technical expertise.
+   > **解析**：`a certain` 为限定短语，意为“某种；一定程度的”，修饰单数名词或抽象名词。
 
-2. **中文**：同事提到了“can”。  
-   **英文**：My coworker mentioned "can".
-   > **解析**：本题在单元主题情境中复习表达 can。
+2. **中文**：展现出主动性的员工能够承担更复杂的管理任务。  
+   **英文**：Employees who demonstrate initiative can take on more complex managerial tasks for absolutely.
+   > **解析**：`can` 情态动词，表示能力或可能性（意为“能够；可以”），后接动词原形。
 
-3. **中文**：会议中，我听到了“deadline”。  
-   **英文**：In the meeting, I heard "deadline".
-   > **解析**：本题在单元主题情境中复习表达 deadline。
+3. **中文**：项目团队加班赶工，以在严格的截止日期前完成设计。  
+   **英文**：The project team worked overtime to complete the design before the strict deadline (as far as I'm concerned).
+   > **解析**：`deadline` 可数名词，意为“截止日期”。短语 `meet a deadline`（赶上截止日期）/ `miss a deadline`（错过截止日期）。
 
-4. **中文**：我把“feel free”写进了笔记。  
-   **英文**：I added "feel free" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 feel free。
+4. **中文**：如果您对报告有任何疑问，请随时给我发电子邮件。  
+   **英文**：If you have any questions regarding the report, please feel free to email me (be able to).
+   > **解析**：`feel free to do sth.` 为商务及日常沟通中礼貌邀请的固定表达（意为“请随意做某事；随时做某事”）。
 
-5. **中文**：经理解释了“likely to”。  
-   **英文**：The manager explained "likely to".
-   > **解析**：本题在单元主题情境中复习表达 likely to。
+5. **中文**：表现优异的员工更有可能获得年度奖金和晋升。  
+   **英文**：High-performing staff members are more likely to receive annual bonuses and promotions for can.
+   > **解析**：`be likely to do sth.` 固定搭配，意为“很有可能做某事”。
 
-6. **中文**：团队今天用到了“next step”。  
-   **英文**：Our team used "next step" today.
-   > **解析**：本题在单元主题情境中复习表达 next step。
+6. **中文**：提交职位申请后，下一步是与人力资源部门进行电话面试。  
+   **英文**：After submitting your job application, the next step is a phone interview with HR (come up with).
+   > **解析**：`next step` 名词短语，意为“下一步骤；下一阶段工作”。
 
-7. **中文**：午饭前，我们查看了“timing”。  
-   **英文**：Before lunch, we checked "timing".
-   > **解析**：本题在单元主题情境中复习表达 timing。
+7. **中文**：在竞争激烈的市场中推出新产品时，完美的时机至关重要。  
+   **英文**：Perfect timing is crucial when launching a new product in a competitive market for could.
+   > **解析**：`timing` 不可数名词，意为“时机选择；时间安排”。
 
-8. **中文**：同事询问了“absolutely”。  
-   **英文**：My colleague asked about "absolutely".
-   > **解析**：本题在单元主题情境中复习表达 absolutely。
+8. **中文**：清晰的沟通对于远程团队成员高效工作来说绝对是必不可少的。  
+   **英文**：Clear communication is absolutely essential for remote team members to work efficiently for deadline.
+   > **解析**：`absolutely` 副词，意为“绝对地；完全地”，用以增强形容词 `essential` 的修饰语气。
 
-9. **中文**：报告中包含“come up with”。  
-   **英文**：The report included "come up with".
-   > **解析**：本题在单元主题情境中复习表达 come up with。
+9. **中文**：这位创意设计师成功提出了三个不同的品牌概念。  
+   **英文**：The creative designer managed to come up with three distinct branding concepts for deserve.
+   > **解析**：`come up with` 为固定及物动词短语，意为“想出；提出（主意、方案等）”。
 
-10. **中文**：一天结束时，我记住了“excited to”。  
-   **英文**：At the end of the day, I remembered "excited to".
-   > **解析**：本题在单元主题情境中复习表达 excited to。
+10. **中文**：我们的团队对于宣布软件升级的正式发布感到非常激动。  
+   **英文**：Our team is extremely excited to announce the official release of the software upgrade.
+   > **解析**：`be excited to do sth.` 形容词搭配，意为“对做某事感到极其兴奋/激动”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "a certain".
-   > **中文**：工作中，我们讨论了“a certain”。
-2. My coworker mentioned "can".
-   > **中文**：同事提到了“can”。
-3. In the meeting, I heard "deadline".
-   > **中文**：会议中，我听到了“deadline”。
-4. I added "feel free" to my notes.
-   > **中文**：我把“feel free”写进了笔记。
-5. The manager explained "likely to".
-   > **中文**：经理解释了“likely to”。
-6. Our team used "next step" today.
-   > **中文**：团队今天用到了“next step”。
-7. Before lunch, we checked "timing".
-   > **中文**：午饭前，我们查看了“timing”。
-8. My colleague asked about "absolutely".
-   > **中文**：同事询问了“absolutely”。
-9. The report included "come up with".
-   > **中文**：报告中包含“come up with”。
-10. At the end of the day, I remembered "excited to".
-   > **中文**：一天结束时，我记住了“excited to”。
+1. This position requires candidates to possess a certain level of technical expertise.
+   > **中文**：这个职位要求应聘者具备一定水平的技术专业知识。
+
+2. Employees who demonstrate initiative can take on more complex managerial tasks for absolutely.
+   > **中文**：展现出主动性的员工能够承担更复杂的管理任务。
+
+3. The project team worked overtime to complete the design before the strict deadline (as far as I'm concerned).
+   > **中文**：项目团队加班赶工，以在严格的截止日期前完成设计。
+
+4. If you have any questions regarding the report, please feel free to email me (be able to).
+   > **中文**：如果您对报告有任何疑问，请随时给我发电子邮件。
+
+5. High-performing staff members are more likely to receive annual bonuses and promotions for can.
+   > **中文**：表现优异的员工更有可能获得年度奖金和晋升。
+
+6. After submitting your job application, the next step is a phone interview with HR (come up with).
+   > **中文**：提交职位申请后，下一步是与人力资源部门进行电话面试。
+
+7. Perfect timing is crucial when launching a new product in a competitive market for could.
+   > **中文**：在竞争激烈的市场中推出新产品时，完美的时机至关重要。
+
+8. Clear communication is absolutely essential for remote team members to work efficiently for deadline.
+   > **中文**：清晰的沟通对于远程团队成员高效工作来说绝对是必不可少的。
+
+9. The creative designer managed to come up with three distinct branding concepts for deserve.
+   > **中文**：这位创意设计师成功提出了三个不同的品牌概念。
+
+10. Our team is extremely excited to announce the official release of the software upgrade.
+   > **中文**：我们的团队对于宣布软件升级的正式发布感到非常激动。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ a certain, absolutely, as far as I'm concerned, be able to, can, come up with, c
 
 ### 1
 
-At work, we discussed "`____`".
+This position requires candidates to possess `____` level of technical expertise.
 
 - [x] a certain
-- [ ] feel free
-- [ ] timing
+- [ ] be able to
+- [ ] could
 
-> **解析**：本题在单元主题情境中复习表达 a certain。
+> **解析**：`a certain` 为限定短语，意为“某种；一定程度的”，修饰单数名词或抽象名词。
 
 ### 2
 
-My coworker mentioned "`____`".
+Employees who demonstrate initiative can take on more complex managerial tasks for `____`.
 
-- [x] can
-- [ ] likely to
-- [ ] absolutely
+- [x] absolutely
+- [ ] can
+- [ ] deadline
 
-> **解析**：本题在单元主题情境中复习表达 can。
+> **解析**：`can` 情态动词，表示能力或可能性（意为“能够；可以”），后接动词原形。
 
 ### 3
 
-In the meeting, I heard "`____`".
+The project team worked overtime to complete the design before the strict deadline (`____`).
 
-- [x] deadline
-- [ ] next step
+- [x] as far as I'm concerned
 - [ ] come up with
+- [ ] deserve
 
-> **解析**：本题在单元主题情境中复习表达 deadline。
+> **解析**：`deadline` 可数名词，意为“截止日期”。短语 `meet a deadline`（赶上截止日期）/ `miss a deadline`（错过截止日期）。
 
 ### 4
 
-I added "`____`" to my notes.
+If you have any questions regarding the report, please feel free to email me (`____`).
 
-- [x] feel free
-- [ ] timing
+- [x] be able to
+- [ ] could
 - [ ] excited to
 
-> **解析**：本题在单元主题情境中复习表达 feel free。
+> **解析**：`feel free to do sth.` 为商务及日常沟通中礼貌邀请的固定表达（意为“请随意做某事；随时做某事”）。
 
 ### 5
 
-The manager explained "`____`".
+High-performing staff members are more likely to receive annual bonuses and promotions for `____`.
 
-- [x] likely to
-- [ ] absolutely
+- [x] can
+- [ ] deadline
 - [ ] a certain
 
-> **解析**：本题在单元主题情境中复习表达 likely to。
+> **解析**：`be likely to do sth.` 固定搭配，意为“很有可能做某事”。
 
 ### 6
 
-Our team used "`____`" today.
+After submitting your job application, the next step is a phone interview with HR (`____`).
 
-- [x] next step
-- [ ] come up with
-- [ ] can
+- [x] come up with
+- [ ] deserve
+- [ ] absolutely
 
-> **解析**：本题在单元主题情境中复习表达 next step。
+> **解析**：`next step` 名词短语，意为“下一步骤；下一阶段工作”。
 
 ### 7
 
-Before lunch, we checked "`____`".
+Perfect timing is crucial when launching a new product in a competitive market for `____`.
 
-- [x] timing
+- [x] could
 - [ ] excited to
-- [ ] deadline
+- [ ] as far as I'm concerned
 
-> **解析**：本题在单元主题情境中复习表达 timing。
+> **解析**：`timing` 不可数名词，意为“时机选择；时间安排”。
 
 ### 8
 
-My colleague asked about "`____`".
+Clear communication is absolutely essential for remote team members to work efficiently for `____`.
 
-- [x] absolutely
+- [x] deadline
 - [ ] a certain
-- [ ] feel free
+- [ ] be able to
 
-> **解析**：本题在单元主题情境中复习表达 absolutely。
+> **解析**：`absolutely` 副词，意为“绝对地；完全地”，用以增强形容词 `essential` 的修饰语气。
 
 ### 9
 
-The report included "`____`".
+The creative designer managed to come up with three distinct branding concepts for `____`.
 
-- [x] come up with
+- [x] deserve
+- [ ] absolutely
 - [ ] can
-- [ ] likely to
 
-> **解析**：本题在单元主题情境中复习表达 come up with。
+> **解析**：`come up with` 为固定及物动词短语，意为“想出；提出（主意、方案等）”。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+Our team is extremely `____` announce the official release of the software upgrade.
 
 - [x] excited to
-- [ ] deadline
-- [ ] next step
+- [ ] as far as I'm concerned
+- [ ] come up with
 
-> **解析**：本题在单元主题情境中复习表达 excited to。
+> **解析**：`be excited to do sth.` 形容词搭配，意为“对做某事感到极其兴奋/激动”。
 
 </quiz-cloze>

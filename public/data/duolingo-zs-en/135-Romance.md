@@ -61,70 +61,79 @@ break up 表示"分手"。pay attention to 表示"注意"。
 
 <quiz-sentence-builder>
 
-1. **中文**：在餐厅里，我询问了“avoid”。  
-   **英文**：At the restaurant, I asked about "avoid".
-   > **解析**：本题在单元主题情境中复习表达 avoid。
+1. **中文**：他在烛光闪烁的海边安排了一顿浪漫的晚餐来庆祝他们的结婚纪念日。  
+   **英文**：He arranged a romantic dinner by the candlelit seaside for their wedding anniversary for avoid.
+   > **解析**：romantic 为形容词，意为“浪漫的”。修饰名词 dinner。candlelit 意为“烛光照明的”。
 
-2. **中文**：菜单上有“clever”。  
-   **英文**：The menu included "clever".
-   > **解析**：本题在单元主题情境中复习表达 clever。
+2. **中文**：他们非常享受第一次约会，以至于在咖啡馆里聊了好几个小时。  
+   **英文**：They enjoyed their first date so much that they talked for hours at the cafe (break up).
+   > **解析**：date 在句中作可数名词，意为“约会”。first date 指“第一次约会”。so... that... 引导结果状语从句。
 
-3. **中文**：在餐桌旁，我们谈到了“helpful”。  
-   **英文**：At the table, we talked about "helpful".
-   > **解析**：本题在单元主题情境中复习表达 helpful。
+3. **中文**：在经历异地挑战后，他们决定和平分手是最好的选择。  
+   **英文**：After long-distance challenges, they decided it was best to break up peacefully for calm.
+   > **解析**：break up 为动词短语，意为“分手、结束恋爱关系”。peacefully 为副词修饰 break up。
 
-4. **中文**：厨师提到了“make”。  
-   **英文**：The cook mentioned "make".
-   > **解析**：本题在单元主题情境中复习表达 make。
+4. **中文**：这对情侣在一家受欢迎的夜总会里跟着欢快的音乐跳舞直到午夜。  
+   **英文**：The couple danced to lively music at a popular nightclub until midnight for careless.
+   > **解析**：nightclub 为名词，意为“夜总会、酒吧俱乐部”。until midnight 表示“直到午夜”。
 
-5. **中文**：晚餐我点了“over”。  
-   **英文**：I ordered "over" for dinner.
-   > **解析**：本题在单元主题情境中复习表达 over。
+5. **中文**：在浪漫的约会中，专注倾听倾诉伴侣的话至关重要。  
+   **英文**：During a romantic date, it is vital to pay attention to what your partner says for clever.
+   > **解析**：pay attention 为动词短语，意为“注意、专心”。搭配 pay attention to sth./sb.。
 
-6. **中文**：我的朋友选择了“romantic”。  
-   **英文**：My friend chose "romantic".
-   > **解析**：本题在单元主题情境中复习表达 romantic。
+6. **中文**：有耐心的倾听者能在交谈中让伴侣感到被重视和理解。  
+   **英文**：A patient listener makes their partner feel valued and understood during conversations for date.
+   > **解析**：patient 为形容词，意为“有耐心的”。修饰名词 listener。make sb. feel... 表示“使某人感到...”。
 
-7. **中文**：服务员重复了“where”。  
-   **英文**：The waiter repeated "where".
-   > **解析**：本题在单元主题情境中复习表达 where。
+7. **中文**：在意见不合时保持冷静的语气有助于情侣轻松解决冲突。  
+   **英文**：Keeping a calm tone during disagreement helps couples resolve conflicts easily for definitely.
+   > **解析**：calm 为形容词，意为“冷静的、镇静的”。修饰名词 tone（语气）。keep a calm tone 表示“保持冷静语气”。
 
-8. **中文**：我们分享了一个关于“break up”的故事。  
-   **英文**：We shared a story about "break up".
-   > **解析**：本题在单元主题情境中复习表达 break up。
+8. **中文**：他匆忙离开了餐厅，因为他把车钥匙忘在里面了。  
+   **英文**：He left the restaurant in a hurry because he forgot his car key inside for helpful.
+   > **解析**：in a hurry 为固定介词短语，作状语修饰 left，意为“匆忙地、急急忙忙地”。
 
-9. **中文**：饭后，我记住了“date”。  
-   **英文**：After the meal, I remembered "date".
-   > **解析**：本题在单元主题情境中复习表达 date。
+9. **中文**：当你在浪漫约会时，尽量避免提起令人压抑的工作话题。  
+   **英文**：Try to avoid bringing up stressful work topics when you are on a romantic date for how.
+   > **解析**：avoid 为动词，意为“避免”。后接动名词形式（avoid bringing up...）。bring up 意为“提起/谈及”。
 
-10. **中文**：那顿饭以“in a hurry”收尾。  
-   **英文**：That meal ended with "in a hurry".
-   > **解析**：本题在单元主题情境中复习表达 in a hurry。
+10. **中文**：她想出了一个聪明的计划，在他生日时给男友一个惊喜。  
+   **英文**：She came up with a clever plan to surprise her boyfriend on his birthday (in a hurry).
+   > **解析**：clever 为形容词，意为“聪明的、巧妙的”。come up with 意为“想出”。surprise 在此处作动词意为“给...惊喜”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the restaurant, I asked about "avoid".
-   > **中文**：在餐厅里，我询问了“avoid”。
-2. The menu included "clever".
-   > **中文**：菜单上有“clever”。
-3. At the table, we talked about "helpful".
-   > **中文**：在餐桌旁，我们谈到了“helpful”。
-4. The cook mentioned "make".
-   > **中文**：厨师提到了“make”。
-5. I ordered "over" for dinner.
-   > **中文**：晚餐我点了“over”。
-6. My friend chose "romantic".
-   > **中文**：我的朋友选择了“romantic”。
-7. The waiter repeated "where".
-   > **中文**：服务员重复了“where”。
-8. We shared a story about "break up".
-   > **中文**：我们分享了一个关于“break up”的故事。
-9. After the meal, I remembered "date".
-   > **中文**：饭后，我记住了“date”。
-10. That meal ended with "in a hurry".
-   > **中文**：那顿饭以“in a hurry”收尾。
+1. He arranged a romantic dinner by the candlelit seaside for their wedding anniversary for avoid.
+   > **中文**：他在烛光闪烁的海边安排了一顿浪漫的晚餐来庆祝他们的结婚纪念日。
+
+2. They enjoyed their first date so much that they talked for hours at the cafe (break up).
+   > **中文**：他们非常享受第一次约会，以至于在咖啡馆里聊了好几个小时。
+
+3. After long-distance challenges, they decided it was best to break up peacefully for calm.
+   > **中文**：在经历异地挑战后，他们决定和平分手是最好的选择。
+
+4. The couple danced to lively music at a popular nightclub until midnight for careless.
+   > **中文**：这对情侣在一家受欢迎的夜总会里跟着欢快的音乐跳舞直到午夜。
+
+5. During a romantic date, it is vital to pay attention to what your partner says for clever.
+   > **中文**：在浪漫的约会中，专注倾听倾诉伴侣的话至关重要。
+
+6. A patient listener makes their partner feel valued and understood during conversations for date.
+   > **中文**：有耐心的倾听者能在交谈中让伴侣感到被重视和理解。
+
+7. Keeping a calm tone during disagreement helps couples resolve conflicts easily for definitely.
+   > **中文**：在意见不合时保持冷静的语气有助于情侣轻松解决冲突。
+
+8. He left the restaurant in a hurry because he forgot his car key inside for helpful.
+   > **中文**：他匆忙离开了餐厅，因为他把车钥匙忘在里面了。
+
+9. Try to avoid bringing up stressful work topics when you are on a romantic date for how.
+   > **中文**：当你在浪漫约会时，尽量避免提起令人压抑的工作话题。
+
+10. She came up with a clever plan to surprise her boyfriend on his birthday (in a hurry).
+   > **中文**：她想出了一个聪明的计划，在他生日时给男友一个惊喜。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ break up 表示"分手"。pay attention to 表示"注意"。
 
 ### 1
 
-At the restaurant, I asked about "`____`".
+He arranged a romantic dinner by the candlelit seaside for their wedding anniversary for `____`.
 
 - [x] avoid
-- [ ] make
-- [ ] where
+- [ ] careless
+- [ ] definitely
 
-> **解析**：本题在单元主题情境中复习表达 avoid。
+> **解析**：romantic 为形容词，意为“浪漫的”。修饰名词 dinner。candlelit 意为“烛光照明的”。
 
 ### 2
 
-The menu included "`____`".
+They enjoyed their first date so much that they talked for hours at the cafe (`____`).
 
-- [x] clever
-- [ ] over
-- [ ] break up
+- [x] break up
+- [ ] clever
+- [ ] helpful
 
-> **解析**：本题在单元主题情境中复习表达 clever。
+> **解析**：date 在句中作可数名词，意为“约会”。first date 指“第一次约会”。so... that... 引导结果状语从句。
 
 ### 3
 
-At the table, we talked about "`____`".
+After long-distance challenges, they decided it was best to break up peacefully for `____`.
 
-- [x] helpful
-- [ ] romantic
+- [x] calm
 - [ ] date
+- [ ] how
 
-> **解析**：本题在单元主题情境中复习表达 helpful。
+> **解析**：break up 为动词短语，意为“分手、结束恋爱关系”。peacefully 为副词修饰 break up。
 
 ### 4
 
-The cook mentioned "`____`".
+The couple danced to lively music at a popular nightclub until midnight for `____`.
 
-- [x] make
-- [ ] where
+- [x] careless
+- [ ] definitely
 - [ ] in a hurry
 
-> **解析**：本题在单元主题情境中复习表达 make。
+> **解析**：nightclub 为名词，意为“夜总会、酒吧俱乐部”。until midnight 表示“直到午夜”。
 
 ### 5
 
-I ordered "`____`" for dinner.
+During a romantic date, it is vital to pay attention to what your partner says for `____`.
 
-- [x] over
-- [ ] break up
+- [x] clever
+- [ ] helpful
 - [ ] avoid
 
-> **解析**：本题在单元主题情境中复习表达 over。
+> **解析**：pay attention 为动词短语，意为“注意、专心”。搭配 pay attention to sth./sb.。
 
 ### 6
 
-My friend chose "`____`".
+A patient listener makes their partner feel valued and understood during conversations for `____`.
 
-- [x] romantic
-- [ ] date
-- [ ] clever
+- [x] date
+- [ ] how
+- [ ] break up
 
-> **解析**：本题在单元主题情境中复习表达 romantic。
+> **解析**：patient 为形容词，意为“有耐心的”。修饰名词 listener。make sb. feel... 表示“使某人感到...”。
 
 ### 7
 
-The waiter repeated "`____`".
+Keeping a calm tone during disagreement helps couples resolve conflicts easily for `____`.
 
-- [x] where
+- [x] definitely
 - [ ] in a hurry
-- [ ] helpful
+- [ ] calm
 
-> **解析**：本题在单元主题情境中复习表达 where。
+> **解析**：calm 为形容词，意为“冷静的、镇静的”。修饰名词 tone（语气）。keep a calm tone 表示“保持冷静语气”。
 
 ### 8
 
-We shared a story about "`____`".
+He left the restaurant in a hurry because he forgot his car key inside for `____`.
 
-- [x] break up
+- [x] helpful
 - [ ] avoid
-- [ ] make
+- [ ] careless
 
-> **解析**：本题在单元主题情境中复习表达 break up。
+> **解析**：in a hurry 为固定介词短语，作状语修饰 left，意为“匆忙地、急急忙忙地”。
 
 ### 9
 
-After the meal, I remembered "`____`".
+Try to avoid bringing up stressful work topics when you are on a romantic date for `____`.
 
-- [x] date
+- [x] how
+- [ ] break up
 - [ ] clever
-- [ ] over
 
-> **解析**：本题在单元主题情境中复习表达 date。
+> **解析**：avoid 为动词，意为“避免”。后接动名词形式（avoid bringing up...）。bring up 意为“提起/谈及”。
 
 ### 10
 
-That meal ended with "`____`".
+She came up with a clever plan to surprise her boyfriend on his birthday (`____`).
 
 - [x] in a hurry
-- [ ] helpful
-- [ ] romantic
+- [ ] calm
+- [ ] date
 
-> **解析**：本题在单元主题情境中复习表达 in a hurry。
+> **解析**：clever 为形容词，意为“聪明的、巧妙的”。come up with 意为“想出”。surprise 在此处作动词意为“给...惊喜”。
 
 </quiz-cloze>

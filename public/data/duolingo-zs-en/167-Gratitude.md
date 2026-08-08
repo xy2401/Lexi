@@ -55,70 +55,79 @@ handle 和 somehow 给场景加了一点叙事感——事情本来不好处理�
 
 <quiz-sentence-builder>
 
-1. **中文**：聚会上，我听到了“appreciate”。  
-   **英文**：At the gathering, I heard "appreciate".
-   > **解析**：本题在单元主题情境中复习表达 appreciate。
+1. **中文**：我真心感谢你昨天对我修车的及时帮助。  
+   **英文**：I truly appreciate your timely help with repairing my car yesterday.
+   > **解析**：appreciate 为及物动词，意为“感激、感谢”。后接名词或动名词（appreciate your help/doing sth.）。
 
-2. **中文**：朋友说了“delighted”。  
-   **英文**：My friend said "delighted".
-   > **解析**：本题在单元主题情境中复习表达 delighted。
+2. **中文**：收到您参加庆祝活动的热心邀请，我们感到非常高兴。  
+   **英文**：We were delighted to receive your warm invitation to the celebration for attitude.
+   > **解析**：delighted 为形容词，意为“非常高兴的、欣喜的”。常用结构 satisfy be delighted to do sth.。
 
-3. **中文**：我们一起谈到了“future”。  
-   **英文**：We talked about "future" together.
-   > **解析**：本题在单元主题情境中复习表达 future。
+3. **中文**：感谢您对我职业发展的支持，希望我们将来能够合作。  
+   **英文**：Thank you for supporting my career development, and I hope we can collaborate in the future for awesome.
+   > **解析**：future 为名词，意为“未来、将来”。in the future 为固定介词短语，意为“在将来”。
 
-4. **中文**：有人向我解释了“handle”。  
-   **英文**：Someone explained "handle" to me.
-   > **解析**：本题在单元主题情境中复习表达 handle。
+4. **中文**：我对于你处理那个棘手局面的高效态度表示深切感激。  
+   **英文**：I am deeply grateful for how efficiently you handled that difficult situation for delighted.
+   > **解析**：handle 为及物动词，意为“处理、应对”。接问题或局面作宾语（handle a situation）。
 
-5. **中文**：我用“make”作了回应。  
-   **英文**：I replied with "make".
-   > **解析**：本题在单元主题情境中复习表达 make。
+5. **中文**：你贴心的鼓励真的让我一天的心情变得格外美好。  
+   **英文**：Your thoughtful encouragement really helped make my day so much brighter for elderly.
+   > **解析**：make 短语 make one's day 意为“让某人一天无比开心/美好”。
 
-6. **中文**：对话中包含“puppy”。  
-   **英文**：The conversation included "puppy".
-   > **解析**：本题在单元主题情境中复习表达 puppy。
+6. **中文**：谢谢你我不在的时候帮我照看我顽皮的小狗。  
+   **英文**：Thank you for helping me look after my playful puppy while I was away for expect.
+   > **解析**：puppy 为可数名词，意为“幼犬、小狗”。在表达日常感激的情境中出现。
 
-7. **中文**：同伴重复了“unexpected”。  
-   **英文**：My partner repeated "unexpected".
-   > **解析**：本题在单元主题情境中复习表达 unexpected。
+7. **中文**：你那意想不到的礼物让她流下了感激的眼泪。  
+   **英文**：Your unexpected gift brought tears of gratitude to her eyes for friendship.
+   > **解析**：unexpected 为形容词，意为“出乎意料的、意外的”，在此处作定语修饰 gift。
 
-8. **中文**：我们聊到“attitude”时笑了。  
-   **英文**：We laughed about "attitude".
-   > **解析**：本题在单元主题情境中复习表达 attitude。
+8. **中文**：她对待解决问题的积极态度赢得了队友们的尊重。  
+   **英文**：Her positive attitude toward resolving problems earned the respect of her teammates for future.
+   > **解析**：attitude 为名词，意为“态度、看法”。常用搭配 attitude toward/to sth.（对某事的态度）。
 
-9. **中文**：离开前，我记住了“expect”。  
-   **英文**：Before leaving, I remembered "expect".
-   > **解析**：本题在单元主题情境中复习表达 expect。
+9. **中文**：我没想到一个刚认识的人会给予我如此慷慨的帮助。  
+   **英文**：I did not expect such a generous favor from someone I had just met.
+   > **解析**：expect 为及物动词，意为“期待、预料”。did not expect 意为“没有预料到”。
 
-10. **中文**：那段对话以“generous”收尾。  
-   **英文**：That conversation ended with "generous".
-   > **解析**：本题在单元主题情境中复习表达 generous。
+10. **中文**：我们想对您慷慨的资金捐赠表达由衷的谢意。  
+   **英文**：We would like to express our appreciation for your generous financial donation for grateful.
+   > **解析**：generous 为形容词，意为“慷慨的、大方的”，常修饰 gift, donation, help。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the gathering, I heard "appreciate".
-   > **中文**：聚会上，我听到了“appreciate”。
-2. My friend said "delighted".
-   > **中文**：朋友说了“delighted”。
-3. We talked about "future" together.
-   > **中文**：我们一起谈到了“future”。
-4. Someone explained "handle" to me.
-   > **中文**：有人向我解释了“handle”。
-5. I replied with "make".
-   > **中文**：我用“make”作了回应。
-6. The conversation included "puppy".
-   > **中文**：对话中包含“puppy”。
-7. My partner repeated "unexpected".
-   > **中文**：同伴重复了“unexpected”。
-8. We laughed about "attitude".
-   > **中文**：我们聊到“attitude”时笑了。
-9. Before leaving, I remembered "expect".
-   > **中文**：离开前，我记住了“expect”。
-10. That conversation ended with "generous".
-   > **中文**：那段对话以“generous”收尾。
+1. I truly appreciate your timely help with repairing my car yesterday.
+   > **中文**：我真心感谢你昨天对我修车的及时帮助。
+
+2. We were delighted to receive your warm invitation to the celebration for attitude.
+   > **中文**：收到您参加庆祝活动的热心邀请，我们感到非常高兴。
+
+3. Thank you for supporting my career development, and I hope we can collaborate in the future for awesome.
+   > **中文**：感谢您对我职业发展的支持，希望我们将来能够合作。
+
+4. I am deeply grateful for how efficiently you handled that difficult situation for delighted.
+   > **中文**：我对于你处理那个棘手局面的高效态度表示深切感激。
+
+5. Your thoughtful encouragement really helped make my day so much brighter for elderly.
+   > **中文**：你贴心的鼓励真的让我一天的心情变得格外美好。
+
+6. Thank you for helping me look after my playful puppy while I was away for expect.
+   > **中文**：谢谢你我不在的时候帮我照看我顽皮的小狗。
+
+7. Your unexpected gift brought tears of gratitude to her eyes for friendship.
+   > **中文**：你那意想不到的礼物让她流下了感激的眼泪。
+
+8. Her positive attitude toward resolving problems earned the respect of her teammates for future.
+   > **中文**：她对待解决问题的积极态度赢得了队友们的尊重。
+
+9. I did not expect such a generous favor from someone I had just met.
+   > **中文**：我没想到一个刚认识的人会给予我如此慷慨的帮助。
+
+10. We would like to express our appreciation for your generous financial donation for grateful.
+   > **中文**：我们想对您慷慨的资金捐赠表达由衷的谢意。
 
 </quiz-listening>
 
@@ -130,102 +139,102 @@ handle 和 somehow 给场景加了一点叙事感——事情本来不好处理�
 
 ### 1
 
-At the gathering, I heard "`____`".
+I truly `____` your timely help with repairing my car yesterday.
 
 - [x] appreciate
-- [ ] handle
-- [ ] unexpected
+- [ ] delighted
+- [ ] friendship
 
-> **解析**：本题在单元主题情境中复习表达 appreciate。
+> **解析**：appreciate 为及物动词，意为“感激、感谢”。后接名词或动名词（appreciate your help/doing sth.）。
 
 ### 2
 
-My friend said "`____`".
+We were delighted to receive your warm invitation to the celebration for `____`.
 
-- [x] delighted
-- [ ] make
-- [ ] attitude
+- [x] attitude
+- [ ] elderly
+- [ ] future
 
-> **解析**：本题在单元主题情境中复习表达 delighted。
+> **解析**：delighted 为形容词，意为“非常高兴的、欣喜的”。常用结构 satisfy be delighted to do sth.。
 
 ### 3
 
-We talked about "`____`" together.
+Thank you for supporting my career development, and I hope we can collaborate in the future for `____`.
 
-- [x] future
-- [ ] puppy
+- [x] awesome
 - [ ] expect
+- [ ] generous
 
-> **解析**：本题在单元主题情境中复习表达 future。
+> **解析**：future 为名词，意为“未来、将来”。in the future 为固定介词短语，意为“在将来”。
 
 ### 4
 
-Someone explained "`____`" to me.
+I am deeply grateful for how efficiently you handled that difficult situation for `____`.
 
-- [x] handle
-- [ ] unexpected
-- [ ] generous
+- [x] delighted
+- [ ] friendship
+- [ ] grateful
 
-> **解析**：本题在单元主题情境中复习表达 handle。
+> **解析**：handle 为及物动词，意为“处理、应对”。接问题或局面作宾语（handle a situation）。
 
 ### 5
 
-I replied with "`____`".
+Your thoughtful encouragement really helped make my day so much brighter for `____`.
 
-- [x] make
-- [ ] attitude
+- [x] elderly
+- [ ] future
 - [ ] appreciate
 
-> **解析**：本题在单元主题情境中复习表达 make。
+> **解析**：make 短语 make one's day 意为“让某人一天无比开心/美好”。
 
 ### 6
 
-The conversation included "`____`".
+Thank you for helping me look after my playful puppy while I was away for `____`.
 
-- [x] puppy
-- [ ] expect
-- [ ] delighted
+- [x] expect
+- [ ] generous
+- [ ] attitude
 
-> **解析**：本题在单元主题情境中复习表达 puppy。
+> **解析**：puppy 为可数名词，意为“幼犬、小狗”。在表达日常感激的情境中出现。
 
 ### 7
 
-My partner repeated "`____`".
+Your unexpected gift brought tears of gratitude to her eyes for `____`.
 
-- [x] unexpected
-- [ ] generous
-- [ ] future
+- [x] friendship
+- [ ] grateful
+- [ ] awesome
 
-> **解析**：本题在单元主题情境中复习表达 unexpected。
+> **解析**：unexpected 为形容词，意为“出乎意料的、意外的”，在此处作定语修饰 gift。
 
 ### 8
 
-We laughed about "`____`".
+Her positive attitude toward resolving problems earned the respect of her teammates for `____`.
 
-- [x] attitude
+- [x] future
 - [ ] appreciate
-- [ ] handle
+- [ ] delighted
 
-> **解析**：本题在单元主题情境中复习表达 attitude。
+> **解析**：attitude 为名词，意为“态度、看法”。常用搭配 attitude toward/to sth.（对某事的态度）。
 
 ### 9
 
-Before leaving, I remembered "`____`".
+I did not expect such a `____` favor from someone I had just met.
 
-- [x] expect
-- [ ] delighted
-- [ ] make
+- [x] generous
+- [ ] attitude
+- [ ] elderly
 
-> **解析**：本题在单元主题情境中复习表达 expect。
+> **解析**：expect 为及物动词，意为“期待、预料”。did not expect 意为“没有预料到”。
 
 ### 10
 
-That conversation ended with "`____`".
+We would like to express our appreciation for your generous financial donation for `____`.
 
-- [x] generous
-- [ ] future
-- [ ] puppy
+- [x] grateful
+- [ ] awesome
+- [ ] expect
 
-> **解析**：本题在单元主题情境中复习表达 generous。
+> **解析**：generous 为形容词，意为“慷慨的、大方的”，常修饰 gift, donation, help。
 
 </quiz-cloze>

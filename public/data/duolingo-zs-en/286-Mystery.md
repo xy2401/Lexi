@@ -63,70 +63,79 @@ alien, archeologist, classified, coincidence, conclusion, convinced, couldn't, f
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“alien”。  
-   **英文**：In this situation, I heard "alien".
-   > **解析**：本题在单元主题情境中复习表达 alien。
+1. **中文**：科学家们提出了一种新理论来解释古金字塔是如何建造的。  
+   **英文**：Scientists have proposed a new theory to explain how the ancient pyramids were built for alien.
+   > **解析**：`theory` 是名词，意为“理论、学说”，常用搭配 `propose a theory`（提出理论）。
 
-2. **中文**：同伴解释了“conclusion”。  
-   **英文**：My partner explained "conclusion".
-   > **解析**：本题在单元主题情境中复习表达 conclusion。
+2. **中文**：首席考古学家在沙漠废墟深处发现了一座隐藏的坟墓。  
+   **英文**：The lead archeologist discovered a hidden tomb deep inside the desert ruins.
+   > **解析**：`archeologist`（亦可拼作 `archaeologist`）是名词，意为“考古学家”。
 
-3. **中文**：我们一起谈到了“for the sake of argument”。  
-   **英文**：We talked about "for the sake of argument" together.
-   > **解析**：本题在单元主题情境中复习表达 for the sake of argument。
+3. **中文**：许多历史学家对外星人参与的说法依然持怀疑态度。  
+   **英文**：Many historians remain skeptical about the claims of alien involvement for classified.
+   > **解析**：`skeptical` 是形容词，意为“怀疑的、不轻信的”，常用搭配 `be skeptical about...`。
 
-4. **中文**：我记下了“if we assume”。  
-   **英文**：I wrote down "if we assume".
-   > **解析**：本题在单元主题情境中复习表达 if we assume。
+4. **中文**：在审查了证据之后，她完全确信这份文件是真的。  
+   **英文**：After reviewing the evidence, she was fully convinced that the document was real for coincidence.
+   > **解析**：`convinced` 是形容词，意为“确信的、信服的”，常用搭配 `be convinced that...`。
 
-5. **中文**：例句中包含“pyramids”。  
-   **英文**：The example included "pyramids".
-   > **解析**：本题在单元主题情境中复习表达 pyramids。
+5. **中文**：在不同国家找到两件相似的手工艺品是一个非同寻常的巧合。  
+   **英文**：Finding two similar artifacts in different countries was an extraordinary coincidence for conclusion.
+   > **解析**：`coincidence` 是名词，意为“巧合”，由 `co-` + `incidence` 构成。
 
-6. **中文**：我询问了“spaceship”。  
-   **英文**：I asked about "spaceship".
-   > **解析**：本题在单元主题情境中复习表达 spaceship。
+6. **中文**：有关这一谜团的政府文件被保密了几十年。  
+   **英文**：The government documents regarding the mystery were kept classified for decades for convinced.
+   > **解析**：`classified` 是形容词，在此意为“保密的、机密的”，原意为“分类的”。
 
-7. **中文**：我们在句子中用到了“ufo”。  
-   **英文**：We used "ufo" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 ufo。
+7. **中文**：为了讨论起见，我们假设这张古地图是真的。  
+   **英文**：Let's assume, for the sake of argument, that the ancient map is authentic (couldn't).
+   > **解析**：`for the sake of argument` 是固定短语，意为“为了讨论/争论起见（假设某种前提）”。
 
-8. **中文**：朋友重复了“archeologist”。  
-   **英文**：My friend repeated "archeologist".
-   > **解析**：本题在单元主题情境中复习表达 archeologist。
+8. **中文**：尽管可能性极低，一些研究人员仍在这项稀奇的假说中进行探索。  
+   **英文**：Although it is highly improbable, some researchers still explore the strange hypothesis (for the sake of argument).
+   > **解析**：`improbable` 是形容词，前缀 `im-` + `probable`，意为“不太可能的、不大可能发生的”。
 
-9. **中文**：后来，我记住了“convinced”。  
-   **英文**：Later, I remembered "convinced".
-   > **解析**：本题在单元主题情境中复习表达 convinced。
+9. **中文**：埃及雄伟的金字塔继续惊艳着来自世界各地的游客。  
+   **英文**：The majestic pyramids of Egypt continue to amaze visitors from around the world for galaxy.
+   > **解析**：`pyramids` 是复数名词，特指“金字塔”，作句中的主语。
 
-10. **中文**：这个小故事以“have been”收尾。  
-   **英文**：The short story ended with "have been".
-   > **解析**：本题在单元主题情境中复习表达 have been。
+10. **中文**：我常常纳闷为建造这座纪念碑的工人当年的生活是什么样的。  
+   **英文**：I often wonder what life was like for the workers who constructed the monument (have been).
+   > **解析**：`wonder` 在此作动词，意为“感到好奇、想知道”，后接宾语从句。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "alien".
-   > **中文**：在这个情境中，我听到了“alien”。
-2. My partner explained "conclusion".
-   > **中文**：同伴解释了“conclusion”。
-3. We talked about "for the sake of argument" together.
-   > **中文**：我们一起谈到了“for the sake of argument”。
-4. I wrote down "if we assume".
-   > **中文**：我记下了“if we assume”。
-5. The example included "pyramids".
-   > **中文**：例句中包含“pyramids”。
-6. I asked about "spaceship".
-   > **中文**：我询问了“spaceship”。
-7. We used "ufo" in a sentence.
-   > **中文**：我们在句子中用到了“ufo”。
-8. My friend repeated "archeologist".
-   > **中文**：朋友重复了“archeologist”。
-9. Later, I remembered "convinced".
-   > **中文**：后来，我记住了“convinced”。
-10. The short story ended with "have been".
-   > **中文**：这个小故事以“have been”收尾。
+1. Scientists have proposed a new theory to explain how the ancient pyramids were built for alien.
+   > **中文**：科学家们提出了一种新理论来解释古金字塔是如何建造的。
+
+2. The lead archeologist discovered a hidden tomb deep inside the desert ruins.
+   > **中文**：首席考古学家在沙漠废墟深处发现了一座隐藏的坟墓。
+
+3. Many historians remain skeptical about the claims of alien involvement for classified.
+   > **中文**：许多历史学家对外星人参与的说法依然持怀疑态度。
+
+4. After reviewing the evidence, she was fully convinced that the document was real for coincidence.
+   > **中文**：在审查了证据之后，她完全确信这份文件是真的。
+
+5. Finding two similar artifacts in different countries was an extraordinary coincidence for conclusion.
+   > **中文**：在不同国家找到两件相似的手工艺品是一个非同寻常的巧合。
+
+6. The government documents regarding the mystery were kept classified for decades for convinced.
+   > **中文**：有关这一谜团的政府文件被保密了几十年。
+
+7. Let's assume, for the sake of argument, that the ancient map is authentic (couldn't).
+   > **中文**：为了讨论起见，我们假设这张古地图是真的。
+
+8. Although it is highly improbable, some researchers still explore the strange hypothesis (for the sake of argument).
+   > **中文**：尽管可能性极低，一些研究人员仍在这项稀奇的假说中进行探索。
+
+9. The majestic pyramids of Egypt continue to amaze visitors from around the world for galaxy.
+   > **中文**：埃及雄伟的金字塔继续惊艳着来自世界各地的游客。
+
+10. I often wonder what life was like for the workers who constructed the monument (have been).
+   > **中文**：我常常纳闷为建造这座纪念碑的工人当年的生活是什么样的。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ alien, archeologist, classified, coincidence, conclusion, convinced, couldn't, f
 
 ### 1
 
-In this situation, I heard "`____`".
+Scientists have proposed a new theory to explain how the ancient pyramids were built for `____`.
 
 - [x] alien
-- [ ] if we assume
-- [ ] ufo
+- [ ] coincidence
+- [ ] couldn't
 
-> **解析**：本题在单元主题情境中复习表达 alien。
+> **解析**：`theory` 是名词，意为“理论、学说”，常用搭配 `propose a theory`（提出理论）。
 
 ### 2
 
-My partner explained "`____`".
+The lead `____` discovered a hidden tomb deep inside the desert ruins.
 
-- [x] conclusion
-- [ ] pyramids
-- [ ] archeologist
+- [x] archeologist
+- [ ] conclusion
+- [ ] for the sake of argument
 
-> **解析**：本题在单元主题情境中复习表达 conclusion。
+> **解析**：`archeologist`（亦可拼作 `archaeologist`）是名词，意为“考古学家”。
 
 ### 3
 
-We talked about "`____`" together.
+Many historians remain skeptical about the claims of alien involvement for `____`.
 
-- [x] for the sake of argument
-- [ ] spaceship
+- [x] classified
 - [ ] convinced
+- [ ] galaxy
 
-> **解析**：本题在单元主题情境中复习表达 for the sake of argument。
+> **解析**：`skeptical` 是形容词，意为“怀疑的、不轻信的”，常用搭配 `be skeptical about...`。
 
 ### 4
 
-I wrote down "`____`".
+After reviewing the evidence, she was fully convinced that the document was real for `____`.
 
-- [x] if we assume
-- [ ] ufo
+- [x] coincidence
+- [ ] couldn't
 - [ ] have been
 
-> **解析**：本题在单元主题情境中复习表达 if we assume。
+> **解析**：`convinced` 是形容词，意为“确信的、信服的”，常用搭配 `be convinced that...`。
 
 ### 5
 
-The example included "`____`".
+Finding two similar artifacts in different countries was an extraordinary coincidence for `____`.
 
-- [x] pyramids
-- [ ] archeologist
+- [x] conclusion
+- [ ] for the sake of argument
 - [ ] alien
 
-> **解析**：本题在单元主题情境中复习表达 pyramids。
+> **解析**：`coincidence` 是名词，意为“巧合”，由 `co-` + `incidence` 构成。
 
 ### 6
 
-I asked about "`____`".
+The government documents regarding the mystery were kept classified for decades for `____`.
 
-- [x] spaceship
-- [ ] convinced
-- [ ] conclusion
+- [x] convinced
+- [ ] galaxy
+- [ ] archeologist
 
-> **解析**：本题在单元主题情境中复习表达 spaceship。
+> **解析**：`classified` 是形容词，在此意为“保密的、机密的”，原意为“分类的”。
 
 ### 7
 
-We used "`____`" in a sentence.
+Let's assume, for the sake of argument, that the ancient map is authentic (`____`).
 
-- [x] ufo
+- [x] couldn't
 - [ ] have been
-- [ ] for the sake of argument
+- [ ] classified
 
-> **解析**：本题在单元主题情境中复习表达 ufo。
+> **解析**：`for the sake of argument` 是固定短语，意为“为了讨论/争论起见（假设某种前提）”。
 
 ### 8
 
-My friend repeated "`____`".
+Although it is highly improbable, some researchers still explore the strange hypothesis (`____`).
 
-- [x] archeologist
+- [x] for the sake of argument
 - [ ] alien
-- [ ] if we assume
+- [ ] coincidence
 
-> **解析**：本题在单元主题情境中复习表达 archeologist。
+> **解析**：`improbable` 是形容词，前缀 `im-` + `probable`，意为“不太可能的、不大可能发生的”。
 
 ### 9
 
-Later, I remembered "`____`".
+The majestic pyramids of Egypt continue to amaze visitors from around the world for `____`.
 
-- [x] convinced
+- [x] galaxy
+- [ ] archeologist
 - [ ] conclusion
-- [ ] pyramids
 
-> **解析**：本题在单元主题情境中复习表达 convinced。
+> **解析**：`pyramids` 是复数名词，特指“金字塔”，作句中的主语。
 
 ### 10
 
-The short story ended with "`____`".
+I often wonder what life was like for the workers who constructed the monument (`____`).
 
 - [x] have been
-- [ ] for the sake of argument
-- [ ] spaceship
+- [ ] classified
+- [ ] convinced
 
-> **解析**：本题在单元主题情境中复习表达 have been。
+> **解析**：`wonder` 在此作动词，意为“感到好奇、想知道”，后接宾语从句。
 
 </quiz-cloze>

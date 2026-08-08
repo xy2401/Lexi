@@ -63,70 +63,79 @@ all over the place, allowance, any chance, arrange, bedtime, cardboard, clear th
 
 <quiz-sentence-builder>
 
-1. **中文**：在家里，我们谈到了“all over the place”。  
-   **英文**：At home, we talked about "all over the place".
-   > **解析**：本题在单元主题情境中复习表达 all over the place。
+1. **中文**：请整理一下你的卧室；你的衣服到处都是/散得满地都是。  
+   **英文**：Please tidy up your bedroom; your clothes are scattered all over the place.
+   > **解析**：`all over the place` 为副词短语，意为“到处；到处乱七八糟地”。
 
-2. **中文**：家人提到了“arrange”。  
-   **英文**：My family mentioned "arrange".
-   > **解析**：本题在单元主题情境中复习表达 arrange。
+2. **中文**：你能帮我把这些文件按时间顺序排列好吗？  
+   **英文**：Can you help me arrange these files in chronological order? for allowance.
+   > **解析**：`arrange` 及物动词，意为“安排；排列”。搭配 `arrange sth. in order`（按顺序排列某物）。
 
-3. **中文**：在房间里，我注意到了“company”。  
-   **英文**：In the room, I noticed "company".
-   > **解析**：本题在单元主题情境中复习表达 company。
+3. **中文**：我们需要赶快打扫客厅，因为今天晚上我们家里有客人来。  
+   **英文**：We need to clean the living room quickly because we are having company over tonight (any chance).
+   > **解析**：`company` 在此处为不可数名词，意为“客人；陪伴”。短语 `have company over`（有客人来访）。
 
-4. **中文**：我们在家里用到了“folks”。  
-   **英文**：We used "folks" at home.
-   > **解析**：本题在单元主题情境中复习表达 folks。
+4. **中文**：我家里的老人们/双亲这周末要来拜访我们，帮我们搭建新的花园棚子。  
+   **英文**：My folks are visiting us this weekend to help set up the new garden shed for arrange.
+   > **解析**：`folks` 复数名词，口语中意为“家人；亲人；大伙儿”。
 
-5. **中文**：邻居询问了“is to”。  
-   **英文**：My neighbor asked about "is to".
-   > **解析**：本题在单元主题情境中复习表达 is to。
+5. **中文**：你今天早晨的主要职责是复核所有进货包裹。  
+   **英文**：Your main duty for this morning is to double check all incoming packages for bedtime.
+   > **解析**：`be + to do` 结构，表示预定、职责或指令（意为“职责是做某事”）。
 
-6. **中文**：我在门边写下了“oops”。  
-   **英文**：I wrote down "oops" by the door.
-   > **解析**：本题在单元主题情境中复习表达 oops。
+6. **中文**：哎呀！我我不小心把几滴咖啡溅到了干净的桌布上。  
+   **英文**：Oops! I accidentally spilled a few drops of coffee on the fresh tablecloth for cardboard.
+   > **解析**：`oops` 感叹词，意为“哎呀！糟糕！”，用于对小意外或无心之失表示惊叹。
 
-7. **中文**：晚饭后，我们重复了“should be”。  
-   **英文**：After dinner, we repeated "should be".
-   > **解析**：本题在单元主题情境中复习表达 should be。
+7. **中文**：所有洗净的餐具都应该被放回厨房最上层的柜子里。  
+   **英文**：All the cleaned dishes should be placed back into the top kitchen cabinet (clear the table).
+   > **解析**：`should be + 过去分词` 表示被动语态指令或推测（意为“应当被……”）。
 
-8. **中文**：家庭故事里包含“allowance”。  
-   **英文**：The family story included "allowance".
-   > **解析**：本题在单元主题情境中复习表达 allowance。
+8. **中文**：孩子们通过完成日常家务劳动来赚取每周的零花钱。  
+   **英文**：The children earn a weekly allowance by completing their daily household chores for company.
+   > **解析**：`allowance` 可数名词，意为“津贴；零花钱”。短语 `weekly allowance`（每周零用钱）。
 
-9. **中文**：睡前，我记住了“cardboard”。  
-   **英文**：Before bed, I remembered "cardboard".
-   > **解析**：本题在单元主题情境中复习表达 cardboard。
+9. **中文**：在把所有空纸板箱扔进回收桶之前，先把它们压平。  
+   **英文**：Flatten all the empty cardboard boxes before dropping them into the recycling bin (depend on).
+   > **解析**：`cardboard` 不可数名词/形容词修饰语，意为“纸板；硬纸板”。`cardboard box`（纸箱）。
 
-10. **中文**：那个夜晚以“depend on”收尾。  
-   **英文**：That evening ended with "depend on".
-   > **解析**：本题在单元主题情境中复习表达 depend on。
+10. **中文**：这项家务要花多长时间取决于有多少人帮忙。  
+   **英文**：How long the chore takes will depend on how many people help out for errand.
+   > **解析**：`depend on` 固定动词短语，意为“取决于；依赖”。后接名词或从句。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At home, we talked about "all over the place".
-   > **中文**：在家里，我们谈到了“all over the place”。
-2. My family mentioned "arrange".
-   > **中文**：家人提到了“arrange”。
-3. In the room, I noticed "company".
-   > **中文**：在房间里，我注意到了“company”。
-4. We used "folks" at home.
-   > **中文**：我们在家里用到了“folks”。
-5. My neighbor asked about "is to".
-   > **中文**：邻居询问了“is to”。
-6. I wrote down "oops" by the door.
-   > **中文**：我在门边写下了“oops”。
-7. After dinner, we repeated "should be".
-   > **中文**：晚饭后，我们重复了“should be”。
-8. The family story included "allowance".
-   > **中文**：家庭故事里包含“allowance”。
-9. Before bed, I remembered "cardboard".
-   > **中文**：睡前，我记住了“cardboard”。
-10. That evening ended with "depend on".
-   > **中文**：那个夜晚以“depend on”收尾。
+1. Please tidy up your bedroom; your clothes are scattered all over the place.
+   > **中文**：请整理一下你的卧室；你的衣服到处都是/散得满地都是。
+
+2. Can you help me arrange these files in chronological order? for allowance.
+   > **中文**：你能帮我把这些文件按时间顺序排列好吗？
+
+3. We need to clean the living room quickly because we are having company over tonight (any chance).
+   > **中文**：我们需要赶快打扫客厅，因为今天晚上我们家里有客人来。
+
+4. My folks are visiting us this weekend to help set up the new garden shed for arrange.
+   > **中文**：我家里的老人们/双亲这周末要来拜访我们，帮我们搭建新的花园棚子。
+
+5. Your main duty for this morning is to double check all incoming packages for bedtime.
+   > **中文**：你今天早晨的主要职责是复核所有进货包裹。
+
+6. Oops! I accidentally spilled a few drops of coffee on the fresh tablecloth for cardboard.
+   > **中文**：哎呀！我我不小心把几滴咖啡溅到了干净的桌布上。
+
+7. All the cleaned dishes should be placed back into the top kitchen cabinet (clear the table).
+   > **中文**：所有洗净的餐具都应该被放回厨房最上层的柜子里。
+
+8. The children earn a weekly allowance by completing their daily household chores for company.
+   > **中文**：孩子们通过完成日常家务劳动来赚取每周的零花钱。
+
+9. Flatten all the empty cardboard boxes before dropping them into the recycling bin (depend on).
+   > **中文**：在把所有空纸板箱扔进回收桶之前，先把它们压平。
+
+10. How long the chore takes will depend on how many people help out for errand.
+   > **中文**：这项家务要花多长时间取决于有多少人帮忙。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ all over the place, allowance, any chance, arrange, bedtime, cardboard, clear th
 
 ### 1
 
-At home, we talked about "`____`".
+Please tidy up your bedroom; your clothes are scattered `____`.
 
 - [x] all over the place
-- [ ] folks
-- [ ] should be
+- [ ] arrange
+- [ ] clear the table
 
-> **解析**：本题在单元主题情境中复习表达 all over the place。
+> **解析**：`all over the place` 为副词短语，意为“到处；到处乱七八糟地”。
 
 ### 2
 
-My family mentioned "`____`".
+Can you help me arrange these files in chronological order? for `____`.
 
-- [x] arrange
-- [ ] is to
-- [ ] allowance
+- [x] allowance
+- [ ] bedtime
+- [ ] company
 
-> **解析**：本题在单元主题情境中复习表达 arrange。
+> **解析**：`arrange` 及物动词，意为“安排；排列”。搭配 `arrange sth. in order`（按顺序排列某物）。
 
 ### 3
 
-In the room, I noticed "`____`".
+We need to clean the living room quickly because we are having company over tonight (`____`).
 
-- [x] company
-- [ ] oops
+- [x] any chance
 - [ ] cardboard
+- [ ] depend on
 
-> **解析**：本题在单元主题情境中复习表达 company。
+> **解析**：`company` 在此处为不可数名词，意为“客人；陪伴”。短语 `have company over`（有客人来访）。
 
 ### 4
 
-We used "`____`" at home.
+My folks are visiting us this weekend to help set up the new garden shed for `____`.
 
-- [x] folks
-- [ ] should be
-- [ ] depend on
+- [x] arrange
+- [ ] clear the table
+- [ ] errand
 
-> **解析**：本题在单元主题情境中复习表达 folks。
+> **解析**：`folks` 复数名词，口语中意为“家人；亲人；大伙儿”。
 
 ### 5
 
-My neighbor asked about "`____`".
+Your main duty for this morning is to double check all incoming packages for `____`.
 
-- [x] is to
-- [ ] allowance
+- [x] bedtime
+- [ ] company
 - [ ] all over the place
 
-> **解析**：本题在单元主题情境中复习表达 is to。
+> **解析**：`be + to do` 结构，表示预定、职责或指令（意为“职责是做某事”）。
 
 ### 6
 
-I wrote down "`____`" by the door.
+Oops! I accidentally spilled a few drops of coffee on the fresh tablecloth for `____`.
 
-- [x] oops
-- [ ] cardboard
-- [ ] arrange
+- [x] cardboard
+- [ ] depend on
+- [ ] allowance
 
-> **解析**：本题在单元主题情境中复习表达 oops。
+> **解析**：`oops` 感叹词，意为“哎呀！糟糕！”，用于对小意外或无心之失表示惊叹。
 
 ### 7
 
-After dinner, we repeated "`____`".
+All the cleaned dishes should be placed back into the top kitchen cabinet (`____`).
 
-- [x] should be
-- [ ] depend on
-- [ ] company
+- [x] clear the table
+- [ ] errand
+- [ ] any chance
 
-> **解析**：本题在单元主题情境中复习表达 should be。
+> **解析**：`should be + 过去分词` 表示被动语态指令或推测（意为“应当被……”）。
 
 ### 8
 
-The family story included "`____`".
+The children earn a weekly allowance by completing their daily household chores for `____`.
 
-- [x] allowance
+- [x] company
 - [ ] all over the place
-- [ ] folks
+- [ ] arrange
 
-> **解析**：本题在单元主题情境中复习表达 allowance。
+> **解析**：`allowance` 可数名词，意为“津贴；零花钱”。短语 `weekly allowance`（每周零用钱）。
 
 ### 9
 
-Before bed, I remembered "`____`".
+Flatten all the empty cardboard boxes before dropping them into the recycling bin (`____`).
 
-- [x] cardboard
-- [ ] arrange
-- [ ] is to
+- [x] depend on
+- [ ] allowance
+- [ ] bedtime
 
-> **解析**：本题在单元主题情境中复习表达 cardboard。
+> **解析**：`cardboard` 不可数名词/形容词修饰语，意为“纸板；硬纸板”。`cardboard box`（纸箱）。
 
 ### 10
 
-That evening ended with "`____`".
+How long the chore takes will depend on how many people help out for `____`.
 
-- [x] depend on
-- [ ] company
-- [ ] oops
+- [x] errand
+- [ ] any chance
+- [ ] cardboard
 
-> **解析**：本题在单元主题情境中复习表达 depend on。
+> **解析**：`depend on` 固定动词短语，意为“取决于；依赖”。后接名词或从句。
 
 </quiz-cloze>

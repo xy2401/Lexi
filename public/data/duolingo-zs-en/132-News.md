@@ -61,70 +61,79 @@ though 表示"虽然"（放句末更口语）。in jail 表示"在监狱里"。
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“billion”。  
-   **英文**：In this situation, I heard "billion".
-   > **解析**：本题在单元主题情境中复习表达 billion。
+1. **中文**：当地政府在新闻发布会上宣布了一项新的环保政策。  
+   **英文**：The local government announced a new environmental policy during the press conference for billion.
+   > **解析**：government 为名词，意为“政府”。local government 表示“地方政府”。press conference 指“新闻发布会”。
 
-2. **中文**：同伴解释了“cause”。  
-   **英文**：My partner explained "cause".
-   > **解析**：本题在单元主题情境中复习表达 cause。
+2. **中文**：世界各国领导人会聚一堂，讨论应对全球经济挑战的解决方案。  
+   **英文**：World leaders met to discuss solutions for global economic challenges for bomb.
+   > **解析**：leader 为名词，意为“领导人、领袖”。world leaders 指“世界领袖”。solution for 表示“……的解决方案”。
 
-3. **中文**：我们一起谈到了“crime”。  
-   **英文**：We talked about "crime" together.
-   > **解析**：本题在单元主题情境中复习表达 crime。
+3. **中文**：这条突发新闻成了所有主流报纸的头条新闻标题。  
+   **英文**：The breaking news story made the front page headline in all major newspapers for border.
+   > **解析**：headline 为名词，意为“（报纸/新闻的）大字标题、头条”。make the headline 表示“登上头条”。
 
-4. **中文**：我记下了“false”。  
-   **英文**：I wrote down "false".
-   > **解析**：本题在单元主题情境中复习表达 false。
+4. **中文**：边境检查人员在允许车辆过境之前检查了所有护照。  
+   **英文**：Border control officers inspected all passports before allowing vehicles to cross for cause.
+   > **解析**：border 为名词，意为“国界、边境”。border control 表示“边境检查”。cross early in the sentence 指“跨越/过境”。
 
-5. **中文**：例句中包含“headline”。  
-   **英文**：The example included "headline".
-   > **解析**：本题在单元主题情境中复习表达 headline。
+5. **中文**：一项难以置信的发现刊登在晨报的头版上。  
+   **英文**：An incredible discovery was featured on the front page of the morning daily for common.
+   > **解析**：front page 为名词短语，意为“头版”。on the front page 表示“在头版上”。
 
-6. **中文**：我询问了“in jail”。  
-   **英文**：I asked about "in jail".
-   > **解析**：本题在单元主题情境中复习表达 in jail。
+6. **中文**：市议会通过了更严格的法律以降低暴力犯罪率。  
+   **英文**：The city council passed stricter laws to reduce violent crime rate for court.
+   > **解析**：crime 为名词，意为“犯罪、罪行”。violent crime rate 表示“暴力犯罪率”。pass laws 意为“通过法律”。
 
-7. **中文**：我们在句子中用到了“spy”。  
-   **英文**：We used "spy" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 spy。
+7. **中文**：两位律师在瞩目的审判中于法庭上出示了有力证据。  
+   **英文**：Both lawyers presented strong evidence in court during the high-profile trial for crash.
+   > **解析**：in court 为介词短语，意为“在法庭上”。court 前不加冠词。trial 意为“审判/庭审”。
 
-8. **中文**：朋友重复了“bomb”。  
-   **英文**：My friend repeated "bomb".
-   > **解析**：本题在单元主题情境中复习表达 bomb。
+8. **中文**：嫌疑人提供了有价值的信息以换取较轻的判罚。  
+   **英文**：The suspects gave valuable information in exchange for a lighter sentence for crime.
+   > **解析**：in exchange for 为复合介词短语，意为“作为对……的交换/以换取”。后面接名词或名词短语。
 
-9. **中文**：后来，我记住了“court”。  
-   **英文**：Later, I remembered "court".
-   > **解析**：本题在单元主题情境中复习表达 court。
+9. **中文**：该国在冲突期间拒绝与其敌人进行谈判。  
+   **英文**：The country refused to negotiate with its enemy during the conflict.
+   > **解析**：enemy 为名词，意为“敌人”。
 
-10. **中文**：这个小故事以“enemy”收尾。  
-   **英文**：The short story ended with "enemy".
-   > **解析**：本题在单元主题情境中复习表达 enemy。
+10. **中文**：记者们预计首相将在今晚前做出官方回应。  
+   **英文**：Reporters expect the prime minister to give an official response by evening.
+   > **解析**：expect 为动词，意为“预料、期待”。句型 expect sb. to do sth. 表示“预计某人做某事”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "billion".
-   > **中文**：在这个情境中，我听到了“billion”。
-2. My partner explained "cause".
-   > **中文**：同伴解释了“cause”。
-3. We talked about "crime" together.
-   > **中文**：我们一起谈到了“crime”。
-4. I wrote down "false".
-   > **中文**：我记下了“false”。
-5. The example included "headline".
-   > **中文**：例句中包含“headline”。
-6. I asked about "in jail".
-   > **中文**：我询问了“in jail”。
-7. We used "spy" in a sentence.
-   > **中文**：我们在句子中用到了“spy”。
-8. My friend repeated "bomb".
-   > **中文**：朋友重复了“bomb”。
-9. Later, I remembered "court".
-   > **中文**：后来，我记住了“court”。
-10. The short story ended with "enemy".
-   > **中文**：这个小故事以“enemy”收尾。
+1. The local government announced a new environmental policy during the press conference for billion.
+   > **中文**：当地政府在新闻发布会上宣布了一项新的环保政策。
+
+2. World leaders met to discuss solutions for global economic challenges for bomb.
+   > **中文**：世界各国领导人会聚一堂，讨论应对全球经济挑战的解决方案。
+
+3. The breaking news story made the front page headline in all major newspapers for border.
+   > **中文**：这条突发新闻成了所有主流报纸的头条新闻标题。
+
+4. Border control officers inspected all passports before allowing vehicles to cross for cause.
+   > **中文**：边境检查人员在允许车辆过境之前检查了所有护照。
+
+5. An incredible discovery was featured on the front page of the morning daily for common.
+   > **中文**：一项难以置信的发现刊登在晨报的头版上。
+
+6. The city council passed stricter laws to reduce violent crime rate for court.
+   > **中文**：市议会通过了更严格的法律以降低暴力犯罪率。
+
+7. Both lawyers presented strong evidence in court during the high-profile trial for crash.
+   > **中文**：两位律师在瞩目的审判中于法庭上出示了有力证据。
+
+8. The suspects gave valuable information in exchange for a lighter sentence for crime.
+   > **中文**：嫌疑人提供了有价值的信息以换取较轻的判罚。
+
+9. The country refused to negotiate with its enemy during the conflict.
+   > **中文**：该国在冲突期间拒绝与其敌人进行谈判。
+
+10. Reporters expect the prime minister to give an official response by evening.
+   > **中文**：记者们预计首相将在今晚前做出官方回应。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ though 表示"虽然"（放句末更口语）。in jail 表示"在监狱里"。
 
 ### 1
 
-In this situation, I heard "`____`".
+The local government announced a new environmental policy during the press conference for `____`.
 
 - [x] billion
-- [ ] false
-- [ ] spy
+- [ ] cause
+- [ ] crash
 
-> **解析**：本题在单元主题情境中复习表达 billion。
+> **解析**：government 为名词，意为“政府”。local government 表示“地方政府”。press conference 指“新闻发布会”。
 
 ### 2
 
-My partner explained "`____`".
+World leaders met to discuss solutions for global economic challenges for `____`.
 
-- [x] cause
-- [ ] headline
-- [ ] bomb
+- [x] bomb
+- [ ] common
+- [ ] crime
 
-> **解析**：本题在单元主题情境中复习表达 cause。
+> **解析**：leader 为名词，意为“领导人、领袖”。world leaders 指“世界领袖”。solution for 表示“……的解决方案”。
 
 ### 3
 
-We talked about "`____`" together.
+The breaking news story made the front page headline in all major newspapers for `____`.
 
-- [x] crime
-- [ ] in jail
+- [x] border
 - [ ] court
+- [ ] enemy
 
-> **解析**：本题在单元主题情境中复习表达 crime。
+> **解析**：headline 为名词，意为“（报纸/新闻的）大字标题、头条”。make the headline 表示“登上头条”。
 
 ### 4
 
-I wrote down "`____`".
+Border control officers inspected all passports before allowing vehicles to cross for `____`.
 
-- [x] false
-- [ ] spy
-- [ ] enemy
+- [x] cause
+- [ ] crash
+- [ ] expect
 
-> **解析**：本题在单元主题情境中复习表达 false。
+> **解析**：border 为名词，意为“国界、边境”。border control 表示“边境检查”。cross early in the sentence 指“跨越/过境”。
 
 ### 5
 
-The example included "`____`".
+An incredible discovery was featured on the front page of the morning daily for `____`.
 
-- [x] headline
-- [ ] bomb
+- [x] common
+- [ ] crime
 - [ ] billion
 
-> **解析**：本题在单元主题情境中复习表达 headline。
+> **解析**：front page 为名词短语，意为“头版”。on the front page 表示“在头版上”。
 
 ### 6
 
-I asked about "`____`".
+The city council passed stricter laws to reduce violent crime rate for `____`.
 
-- [x] in jail
-- [ ] court
-- [ ] cause
+- [x] court
+- [ ] enemy
+- [ ] bomb
 
-> **解析**：本题在单元主题情境中复习表达 in jail。
+> **解析**：crime 为名词，意为“犯罪、罪行”。violent crime rate 表示“暴力犯罪率”。pass laws 意为“通过法律”。
 
 ### 7
 
-We used "`____`" in a sentence.
+Both lawyers presented strong evidence in court during the high-profile trial for `____`.
 
-- [x] spy
-- [ ] enemy
-- [ ] crime
+- [x] crash
+- [ ] expect
+- [ ] border
 
-> **解析**：本题在单元主题情境中复习表达 spy。
+> **解析**：in court 为介词短语，意为“在法庭上”。court 前不加冠词。trial 意为“审判/庭审”。
 
 ### 8
 
-My friend repeated "`____`".
+The suspects gave valuable information in exchange for a lighter sentence for `____`.
 
-- [x] bomb
+- [x] crime
 - [ ] billion
-- [ ] false
+- [ ] cause
 
-> **解析**：本题在单元主题情境中复习表达 bomb。
+> **解析**：in exchange for 为复合介词短语，意为“作为对……的交换/以换取”。后面接名词或名词短语。
 
 ### 9
 
-Later, I remembered "`____`".
+The country refused to negotiate with its `____` during the conflict.
 
-- [x] court
-- [ ] cause
-- [ ] headline
+- [x] enemy
+- [ ] bomb
+- [ ] common
 
-> **解析**：本题在单元主题情境中复习表达 court。
+> **解析**：enemy 为名词，意为“敌人”。
 
 ### 10
 
-The short story ended with "`____`".
+Reporters `____` the prime minister to give an official response by evening.
 
-- [x] enemy
-- [ ] crime
-- [ ] in jail
+- [x] expect
+- [ ] border
+- [ ] court
 
-> **解析**：本题在单元主题情境中复习表达 enemy。
+> **解析**：expect 为动词，意为“预料、期待”。句型 expect sb. to do sth. 表示“预计某人做某事”。
 
 </quiz-cloze>

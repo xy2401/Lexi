@@ -81,70 +81,79 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“appear”。  
-   **英文**：At work, we discussed "appear".
-   > **解析**：本题在单元主题情境中复习表达 appear。
+1. **中文**：大学毕业后，他决定搬回老家以节省开支。  
+   **英文**：After graduating from university, he decided to move back home to save money for appear.
+   > **解析**：`move back home` 动词短语，意为“搬回老家/搬回父母家”，`home` 作副词不用介词。
 
-2. **中文**：同事提到了“consequently”。  
-   **英文**：My coworker mentioned "consequently".
-   > **解析**：本题在单元主题情境中复习表达 consequently。
+2. **中文**：在城里找新工作期间，她花光了自己所有的积蓄。  
+   **英文**：She used up all her savings while looking for a new job in the city (as a result of).
+   > **解析**：`savings` 常用复数形式，意为“存款、积蓄”。
 
-3. **中文**：会议中，我听到了“determined”。  
-   **英文**：In the meeting, I heard "determined".
-   > **解析**：本题在单元主题情境中复习表达 determined。
+3. **中文**：在内心深处，我知道离开大城市对我来说是正确的选择。  
+   **英文**：Deep down, I knew that leaving the big city was the right choice for me for bartender.
+   > **解析**：`deep down` 是副词短语，意为“在内心深处”，置于句首作状语。
 
-4. **中文**：我把“irritated”写进了笔记。  
-   **英文**：I added "irritated" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 irritated。
+4. **中文**：大都市的高昂租金迫使许多年轻打工人陷入债务。  
+   **英文**：High rent in the metropolis forced many young workers into debt (before long).
+   > **解析**：`into debt` 是介词短语，意为“陷入债务”，与 `force` 搭配。
 
-5. **中文**：经理解释了“move back home”。  
-   **英文**：The manager explained "move back home".
-   > **解析**：本题在单元主题情境中复习表达 move back home。
+5. **中文**：在找到稳定职位之前，我不得不依靠我的父母。  
+   **英文**：I had to rely on my parents until I secured a stable position for consequently.
+   > **解析**：`rely on` 是不及物短语动词，意为“依赖、依靠”，后接人或物。
 
-6. **中文**：团队今天用到了“rely on”。  
-   **英文**：Our team used "rely on" today.
-   > **解析**：本题在单元主题情境中复习表达 rely on。
+6. **中文**：由于经济下滑，许多公司缩减了招聘预算。  
+   **英文**：As a result of the economic downturn, many companies cut their hiring budget for courage.
+   > **解析**：`as a result of` 是复合介词，意为“由于、因为”，后接名词短语。
 
-7. **中文**：午饭前，我们查看了“trap”。  
-   **英文**：Before lunch, we checked "trap".
-   > **解析**：本题在单元主题情境中复习表达 trap。
+7. **中文**：她仍然决心一步一步重建自己的事业。  
+   **英文**：She remains determined to rebuild her career step by step for debt.
+   > **解析**：`determined` 是形容词，搭配 `be/remain determined to do sth`（下定决心做某事）。
 
-8. **中文**：同事询问了“as a result of”。  
-   **英文**：My colleague asked about "as a result of".
-   > **解析**：本题在单元主题情境中复习表达 as a result of。
+8. **中文**：我们不应该把与家人同住的舒适视为理所当然。  
+   **英文**：We shouldn't take the comfort of living with family for granted (deep down).
+   > **解析**：`take sth for granted` 是固定短语，意为“把……视为理所当然”。
 
-9. **中文**：报告中包含“courage”。  
-   **英文**：The report included "courage".
-   > **解析**：本题在单元主题情境中复习表达 courage。
+9. **中文**：搬回老家住让他有时间反思自己的职业选择。  
+   **英文**：Living back home gave him time to reflect on his career choices for determined.
+   > **解析**：`reflect` 不及物动词，搭配介词 `on`（`reflect on sth`）表示“反思/思考某事”。
 
-10. **中文**：一天结束时，我记住了“for granted”。  
-   **英文**：At the end of the day, I remembered "for granted".
-   > **解析**：本题在单元主题情境中复习表达 for granted。
+10. **中文**：只要你保持专注并努力工作，一切都会顺利解决的。  
+   **英文**：Everything will work out as long as you stay focused and work hard (for granted).
+   > **解析**：`work out` 是不及物短语动词，在此处意为“顺利解决、结果变好”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "appear".
-   > **中文**：工作中，我们讨论了“appear”。
-2. My coworker mentioned "consequently".
-   > **中文**：同事提到了“consequently”。
-3. In the meeting, I heard "determined".
-   > **中文**：会议中，我听到了“determined”。
-4. I added "irritated" to my notes.
-   > **中文**：我把“irritated”写进了笔记。
-5. The manager explained "move back home".
-   > **中文**：经理解释了“move back home”。
-6. Our team used "rely on" today.
-   > **中文**：团队今天用到了“rely on”。
-7. Before lunch, we checked "trap".
-   > **中文**：午饭前，我们查看了“trap”。
-8. My colleague asked about "as a result of".
-   > **中文**：同事询问了“as a result of”。
-9. The report included "courage".
-   > **中文**：报告中包含“courage”。
-10. At the end of the day, I remembered "for granted".
-   > **中文**：一天结束时，我记住了“for granted”。
+1. After graduating from university, he decided to move back home to save money for appear.
+   > **中文**：大学毕业后，他决定搬回老家以节省开支。
+
+2. She used up all her savings while looking for a new job in the city (as a result of).
+   > **中文**：在城里找新工作期间，她花光了自己所有的积蓄。
+
+3. Deep down, I knew that leaving the big city was the right choice for me for bartender.
+   > **中文**：在内心深处，我知道离开大城市对我来说是正确的选择。
+
+4. High rent in the metropolis forced many young workers into debt (before long).
+   > **中文**：大都市的高昂租金迫使许多年轻打工人陷入债务。
+
+5. I had to rely on my parents until I secured a stable position for consequently.
+   > **中文**：在找到稳定职位之前，我不得不依靠我的父母。
+
+6. As a result of the economic downturn, many companies cut their hiring budget for courage.
+   > **中文**：由于经济下滑，许多公司缩减了招聘预算。
+
+7. She remains determined to rebuild her career step by step for debt.
+   > **中文**：她仍然决心一步一步重建自己的事业。
+
+8. We shouldn't take the comfort of living with family for granted (deep down).
+   > **中文**：我们不应该把与家人同住的舒适视为理所当然。
+
+9. Living back home gave him time to reflect on his career choices for determined.
+   > **中文**：搬回老家住让他有时间反思自己的职业选择。
+
+10. Everything will work out as long as you stay focused and work hard (for granted).
+   > **中文**：只要你保持专注并努力工作，一切都会顺利解决的。
 
 </quiz-listening>
 
@@ -156,102 +165,102 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
 
 ### 1
 
-At work, we discussed "`____`".
+After graduating from university, he decided to move back home to save money for `____`.
 
 - [x] appear
-- [ ] irritated
-- [ ] trap
+- [ ] before long
+- [ ] debt
 
-> **解析**：本题在单元主题情境中复习表达 appear。
+> **解析**：`move back home` 动词短语，意为“搬回老家/搬回父母家”，`home` 作副词不用介词。
 
 ### 2
 
-My coworker mentioned "`____`".
+She used up all her savings while looking for a new job in the city (`____`).
 
-- [x] consequently
-- [ ] move back home
-- [ ] as a result of
+- [x] as a result of
+- [ ] consequently
+- [ ] deep down
 
-> **解析**：本题在单元主题情境中复习表达 consequently。
+> **解析**：`savings` 常用复数形式，意为“存款、积蓄”。
 
 ### 3
 
-In the meeting, I heard "`____`".
+Deep down, I knew that leaving the big city was the right choice for me for `____`.
 
-- [x] determined
-- [ ] rely on
+- [x] bartender
 - [ ] courage
+- [ ] determined
 
-> **解析**：本题在单元主题情境中复习表达 determined。
+> **解析**：`deep down` 是副词短语，意为“在内心深处”，置于句首作状语。
 
 ### 4
 
-I added "`____`" to my notes.
+High rent in the metropolis forced many young workers into debt (`____`).
 
-- [x] irritated
-- [ ] trap
+- [x] before long
+- [ ] debt
 - [ ] for granted
 
-> **解析**：本题在单元主题情境中复习表达 irritated。
+> **解析**：`into debt` 是介词短语，意为“陷入债务”，与 `force` 搭配。
 
 ### 5
 
-The manager explained "`____`".
+I had to rely on my parents until I secured a stable position for `____`.
 
-- [x] move back home
-- [ ] as a result of
+- [x] consequently
+- [ ] deep down
 - [ ] appear
 
-> **解析**：本题在单元主题情境中复习表达 move back home。
+> **解析**：`rely on` 是不及物短语动词，意为“依赖、依靠”，后接人或物。
 
 ### 6
 
-Our team used "`____`" today.
+As a result of the economic downturn, many companies cut their hiring budget for `____`.
 
-- [x] rely on
-- [ ] courage
-- [ ] consequently
+- [x] courage
+- [ ] determined
+- [ ] as a result of
 
-> **解析**：本题在单元主题情境中复习表达 rely on。
+> **解析**：`as a result of` 是复合介词，意为“由于、因为”，后接名词短语。
 
 ### 7
 
-Before lunch, we checked "`____`".
+She remains determined to rebuild her career step by step for `____`.
 
-- [x] trap
+- [x] debt
 - [ ] for granted
-- [ ] determined
+- [ ] bartender
 
-> **解析**：本题在单元主题情境中复习表达 trap。
+> **解析**：`determined` 是形容词，搭配 `be/remain determined to do sth`（下定决心做某事）。
 
 ### 8
 
-My colleague asked about "`____`".
+We shouldn't take the comfort of living with family for granted (`____`).
 
-- [x] as a result of
+- [x] deep down
 - [ ] appear
-- [ ] irritated
+- [ ] before long
 
-> **解析**：本题在单元主题情境中复习表达 as a result of。
+> **解析**：`take sth for granted` 是固定短语，意为“把……视为理所当然”。
 
 ### 9
 
-The report included "`____`".
+Living back home gave him time to reflect on his career choices for `____`.
 
-- [x] courage
+- [x] determined
+- [ ] as a result of
 - [ ] consequently
-- [ ] move back home
 
-> **解析**：本题在单元主题情境中复习表达 courage。
+> **解析**：`reflect` 不及物动词，搭配介词 `on`（`reflect on sth`）表示“反思/思考某事”。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+Everything will work out as long as you stay focused and work hard (`____`).
 
 - [x] for granted
-- [ ] determined
-- [ ] rely on
+- [ ] bartender
+- [ ] courage
 
-> **解析**：本题在单元主题情境中复习表达 for granted。
+> **解析**：`work out` 是不及物短语动词，在此处意为“顺利解决、结果变好”。
 
 </quiz-cloze>

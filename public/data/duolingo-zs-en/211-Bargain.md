@@ -49,70 +49,79 @@ what to / which / whatever / that 这组疑问词和关系词帮你表达选择�
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“afford to”。  
-   **英文**：In this situation, I heard "afford to".
-   > **解析**：本题在单元主题情境中复习表达 afford to。
+1. **中文**：我非常喜欢这件设计师款夹克，但我负担不起按原价购买。  
+   **英文**：I really like this designer jacket, but I cannot afford to buy it at full price.
+   > **解析**：`afford to` 为固定动词短语，后接动词原形（如 `afford to buy`），常与 `can / can't` 或 `could / couldn't` 连用，表示在经济条件或能力上“负担得起做某事”。
 
-2. **中文**：同伴解释了“code”。  
-   **英文**：My partner explained "code".
-   > **解析**：本题在单元主题情境中复习表达 code。
+2. **中文**：结账时别忘了输入优惠代码以获得折扣。  
+   **英文**：Don't forget to enter the promotional code at checkout to get a discount for aisle.
+   > **解析**：`code` 在此处用作可数名词，意为“代码；优惠码”。在购物场景中常与 `promotional` 或 `coupon` 搭配（如 `promo code / coupon code`）。
 
-3. **中文**：我们一起谈到了“knit”。  
-   **英文**：We talked about "knit" together.
-   > **解析**：本题在单元主题情境中复习表达 knit。
+3. **中文**：她穿了一件舒适的复古针织毛衣，在凉爽的秋天里保暖。  
+   **英文**：She wore a cozy vintage knit sweater to keep warm in the cool autumn weather for brand.
+   > **解析**：`knit` 在此处用作前置定语（形容词/名词修饰语），意为“针织的”。`knit sweater` 指“针织毛衣”，亦可作动词表示“编织”。
 
-4. **中文**：我记下了“medium”。  
-   **英文**：I wrote down "medium".
-   > **解析**：本题在单元主题情境中复习表达 medium。
+4. **中文**：我先试了一件大码外套，但中号对我来说更合适。  
+   **英文**：I tried on a large coat first, but the medium size fits me much better for code.
+   > **解析**：`medium` 在此处用作形容词修饰 `size`，表示“中号的；中等的”。在服装号型中常与 `small`（小号）和 `large`（大号）对应。
 
-5. **中文**：例句中包含“sale”。  
-   **英文**：The example included "sale".
-   > **解析**：本题在单元主题情境中复习表达 sale。
+5. **中文**：所有冬季鞋款目前都在促销打折，最高享有五折优惠。  
+   **英文**：All winter shoes are currently on sale with up to fifty percent off for coupon.
+   > **解析**：`sale` 意为“特卖；促销”。短语 `on sale` 表示“正在打折/促销”，注意与 `for sale`（待售；出售）在含义上的区别。
 
-6. **中文**：我询问了“vintage”。  
-   **英文**：I asked about "vintage".
-   > **解析**：本题在单元主题情境中复习表达 vintage。
+6. **中文**：这家二手精品店销售来自20世纪80年代的正宗复古服饰。  
+   **英文**：This secondhand boutique sells authentic vintage clothes from the 1980s for fold.
+   > **解析**：`vintage` 在此处用作形容词，表示“复古的；经典的；有年代价值的”，通常指经过岁月沉淀且品质优良的服装或物品。
 
-7. **中文**：我们在句子中用到了“whatever”。  
-   **英文**：We used "whatever" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 whatever。
+7. **中文**：只要有折扣，你可以挑选任何你喜欢的衬衫。  
+   **英文**：You can pick whatever shirt you prefer as long as it is on discount (good deal).
+   > **解析**：`whatever` 为关系代词/限定词，表示“无论什么；任何……”。在此处修饰 `shirt` 引导宾语从句，表达毫无限制的选择。
 
-8. **中文**：朋友重复了“aisle”。  
-   **英文**：My friend repeated "aisle".
-   > **解析**：本题在单元主题情境中复习表达 aisle。
+8. **中文**：你可以在面包区旁边的四号货架通道找到有机食品。  
+   **英文**：You can find organic food products in aisle four next to the bakery section for knit.
+   > **解析**：`aisle` 名词，意为“货架通道；过道”（注意发音中字母 s 不发音 /aɪl/）。在超市、客机或剧院中常用来标示区域号。
 
-9. **中文**：后来，我记住了“fold”。  
-   **英文**：Later, I remembered "fold".
-   > **解析**：本题在单元主题情境中复习表达 fold。
+9. **中文**：请在把洗干净的衣服放入衣柜前整齐地叠好。  
+   **英文**：Please fold your clean laundry neatly before putting it into the wardrobe for limited.
+   > **解析**：`fold` 在此处用作及物动词，意为“折叠；叠好”。常与副词 `neatly`（整齐地）连用，作祈使句谓语。
 
-10. **中文**：这个小故事以“limited”收尾。  
-   **英文**：The short story ended with "limited".
-   > **解析**：本题在单元主题情境中复习表达 limited。
+10. **中文**：这家商店今天对所有真皮手提包提供限时特惠。  
+   **英文**：The store is offering a limited time offer on all leather handbags today for logo.
+   > **解析**：`limited` 为过去分词转化为形容词，意为“有限的；限量的”。短语 `limited time offer` 意为“限时特惠”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "afford to".
-   > **中文**：在这个情境中，我听到了“afford to”。
-2. My partner explained "code".
-   > **中文**：同伴解释了“code”。
-3. We talked about "knit" together.
-   > **中文**：我们一起谈到了“knit”。
-4. I wrote down "medium".
-   > **中文**：我记下了“medium”。
-5. The example included "sale".
-   > **中文**：例句中包含“sale”。
-6. I asked about "vintage".
-   > **中文**：我询问了“vintage”。
-7. We used "whatever" in a sentence.
-   > **中文**：我们在句子中用到了“whatever”。
-8. My friend repeated "aisle".
-   > **中文**：朋友重复了“aisle”。
-9. Later, I remembered "fold".
-   > **中文**：后来，我记住了“fold”。
-10. The short story ended with "limited".
-   > **中文**：这个小故事以“limited”收尾。
+1. I really like this designer jacket, but I cannot afford to buy it at full price.
+   > **中文**：我非常喜欢这件设计师款夹克，但我负担不起按原价购买。
+
+2. Don't forget to enter the promotional code at checkout to get a discount for aisle.
+   > **中文**：结账时别忘了输入优惠代码以获得折扣。
+
+3. She wore a cozy vintage knit sweater to keep warm in the cool autumn weather for brand.
+   > **中文**：她穿了一件舒适的复古针织毛衣，在凉爽的秋天里保暖。
+
+4. I tried on a large coat first, but the medium size fits me much better for code.
+   > **中文**：我先试了一件大码外套，但中号对我来说更合适。
+
+5. All winter shoes are currently on sale with up to fifty percent off for coupon.
+   > **中文**：所有冬季鞋款目前都在促销打折，最高享有五折优惠。
+
+6. This secondhand boutique sells authentic vintage clothes from the 1980s for fold.
+   > **中文**：这家二手精品店销售来自20世纪80年代的正宗复古服饰。
+
+7. You can pick whatever shirt you prefer as long as it is on discount (good deal).
+   > **中文**：只要有折扣，你可以挑选任何你喜欢的衬衫。
+
+8. You can find organic food products in aisle four next to the bakery section for knit.
+   > **中文**：你可以在面包区旁边的四号货架通道找到有机食品。
+
+9. Please fold your clean laundry neatly before putting it into the wardrobe for limited.
+   > **中文**：请在把洗干净的衣服放入衣柜前整齐地叠好。
+
+10. The store is offering a limited time offer on all leather handbags today for logo.
+   > **中文**：这家商店今天对所有真皮手提包提供限时特惠。
 
 </quiz-listening>
 
@@ -124,102 +133,102 @@ what to / which / whatever / that 这组疑问词和关系词帮你表达选择�
 
 ### 1
 
-In this situation, I heard "`____`".
+I really like this designer jacket, but I cannot `____` buy it at full price.
 
 - [x] afford to
-- [ ] medium
-- [ ] whatever
+- [ ] code
+- [ ] good deal
 
-> **解析**：本题在单元主题情境中复习表达 afford to。
+> **解析**：`afford to` 为固定动词短语，后接动词原形（如 `afford to buy`），常与 `can / can't` 或 `could / couldn't` 连用，表示在经济条件或能力上“负担得起做某事”。
 
 ### 2
 
-My partner explained "`____`".
+Don't forget to enter the promotional code at checkout to get a discount for `____`.
 
-- [x] code
-- [ ] sale
-- [ ] aisle
+- [x] aisle
+- [ ] coupon
+- [ ] knit
 
-> **解析**：本题在单元主题情境中复习表达 code。
+> **解析**：`code` 在此处用作可数名词，意为“代码；优惠码”。在购物场景中常与 `promotional` 或 `coupon` 搭配（如 `promo code / coupon code`）。
 
 ### 3
 
-We talked about "`____`" together.
+She wore a cozy vintage knit sweater to keep warm in the cool autumn weather for `____`.
 
-- [x] knit
-- [ ] vintage
+- [x] brand
 - [ ] fold
+- [ ] limited
 
-> **解析**：本题在单元主题情境中复习表达 knit。
+> **解析**：`knit` 在此处用作前置定语（形容词/名词修饰语），意为“针织的”。`knit sweater` 指“针织毛衣”，亦可作动词表示“编织”。
 
 ### 4
 
-I wrote down "`____`".
+I tried on a large coat first, but the medium size fits me much better for `____`.
 
-- [x] medium
-- [ ] whatever
-- [ ] limited
+- [x] code
+- [ ] good deal
+- [ ] logo
 
-> **解析**：本题在单元主题情境中复习表达 medium。
+> **解析**：`medium` 在此处用作形容词修饰 `size`，表示“中号的；中等的”。在服装号型中常与 `small`（小号）和 `large`（大号）对应。
 
 ### 5
 
-The example included "`____`".
+All winter shoes are currently on sale with up to fifty percent off for `____`.
 
-- [x] sale
-- [ ] aisle
+- [x] coupon
+- [ ] knit
 - [ ] afford to
 
-> **解析**：本题在单元主题情境中复习表达 sale。
+> **解析**：`sale` 意为“特卖；促销”。短语 `on sale` 表示“正在打折/促销”，注意与 `for sale`（待售；出售）在含义上的区别。
 
 ### 6
 
-I asked about "`____`".
+This secondhand boutique sells authentic vintage clothes from the 1980s for `____`.
 
-- [x] vintage
-- [ ] fold
-- [ ] code
+- [x] fold
+- [ ] limited
+- [ ] aisle
 
-> **解析**：本题在单元主题情境中复习表达 vintage。
+> **解析**：`vintage` 在此处用作形容词，表示“复古的；经典的；有年代价值的”，通常指经过岁月沉淀且品质优良的服装或物品。
 
 ### 7
 
-We used "`____`" in a sentence.
+You can pick whatever shirt you prefer as long as it is on discount (`____`).
 
-- [x] whatever
-- [ ] limited
-- [ ] knit
+- [x] good deal
+- [ ] logo
+- [ ] brand
 
-> **解析**：本题在单元主题情境中复习表达 whatever。
+> **解析**：`whatever` 为关系代词/限定词，表示“无论什么；任何……”。在此处修饰 `shirt` 引导宾语从句，表达毫无限制的选择。
 
 ### 8
 
-My friend repeated "`____`".
+You can find organic food products in aisle four next to the bakery section for `____`.
 
-- [x] aisle
+- [x] knit
 - [ ] afford to
-- [ ] medium
+- [ ] code
 
-> **解析**：本题在单元主题情境中复习表达 aisle。
+> **解析**：`aisle` 名词，意为“货架通道；过道”（注意发音中字母 s 不发音 /aɪl/）。在超市、客机或剧院中常用来标示区域号。
 
 ### 9
 
-Later, I remembered "`____`".
+Please fold your clean laundry neatly before putting it into the wardrobe for `____`.
 
-- [x] fold
-- [ ] code
-- [ ] sale
+- [x] limited
+- [ ] aisle
+- [ ] coupon
 
-> **解析**：本题在单元主题情境中复习表达 fold。
+> **解析**：`fold` 在此处用作及物动词，意为“折叠；叠好”。常与副词 `neatly`（整齐地）连用，作祈使句谓语。
 
 ### 10
 
-The short story ended with "`____`".
+The store is offering a limited time offer on all leather handbags today for `____`.
 
-- [x] limited
-- [ ] knit
-- [ ] vintage
+- [x] logo
+- [ ] brand
+- [ ] fold
 
-> **解析**：本题在单元主题情境中复习表达 limited。
+> **解析**：`limited` 为过去分词转化为形容词，意为“有限的；限量的”。短语 `limited time offer` 意为“限时特惠”。
 
 </quiz-cloze>

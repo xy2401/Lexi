@@ -61,70 +61,79 @@ nightmare 表示"噩梦"。the dark 表示"黑暗"（特指）。
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“alarm clock”。  
-   **英文**：In this situation, I heard "alarm clock".
-   > **解析**：本题在单元主题情境中复习表达 alarm clock。
+1. **中文**：在做一个关于被追赶的恐怖噩梦后，她出着汗醒了过来。  
+   **英文**：She woke up sweating after having a scary nightmare about being chased (alarm clock).
+   > **解析**：nightmare 为名词，意为“噩梦”。have a nightmare 表示“做噩梦”。wake up sweating 表示“出汗醒来”。
 
-2. **中文**：同伴解释了“fan”。  
-   **英文**：My partner explained "fan".
-   > **解析**：本题在单元主题情境中复习表达 fan。
+2. **中文**：我把闹钟定在早上六点，这样我就不会睡过头了。  
+   **英文**：I set my alarm clock for six in the morning so I would not oversleep for ambulance.
+   > **解析**：alarm clock 为名词短语，意为“闹钟”。set the alarm clock 表示“设闹钟”。oversleep 意为“睡过头”。
 
-3. **中文**：我们一起谈到了“hole”。  
-   **英文**：We talked about "hole" together.
-   > **解析**：本题在单元主题情境中复习表达 hole。
+3. **中文**：母亲唱了一首甜美的摇篮曲，帮助她的新生婴儿轻柔入睡。  
+   **英文**：The mother sang a sweet lullaby to help her newborn baby fall asleep gently for angel.
+   > **解析**：lullaby 为名词，意为“摇篮曲、催眠曲”。sing a lullaby 表示“唱摇篮曲”。
 
-4. **中文**：我记下了“mind”。  
-   **英文**：I wrote down "mind".
-   > **解析**：本题在单元主题情境中复习表达 mind。
+4. **中文**：购买一张舒适的记忆棉床垫显著改善了他的睡眠质量。  
+   **英文**：Buying a comfortable memory foam mattress improved his sleep quality significantly for cough.
+   > **解析**：mattress 为名词，意为“床垫”。memory foam mattress 指“记忆棉床垫”。improve sleep quality 表示“改善睡眠质量”。
 
-5. **中文**：例句中包含“silently”。  
-   **英文**：The example included "silently".
-   > **解析**：本题在单元主题情境中复习表达 silently。
+5. **中文**：卧室墙上的暗影在半夜看起来非常吓人。  
+   **英文**：The dark shadow on the bedroom wall looked very scary in the middle of the night for fan.
+   > **解析**：scary 为形容词，意为“吓人的、恐怖的”。修饰事物（shadow）。修饰人的感觉用 scared。
 
-6. **中文**：我询问了“step”。  
-   **英文**：I asked about "step".
-   > **解析**：本题在单元主题情境中复习表达 step。
+6. **中文**：猫咪静静地走过卧室地毯，没有发出任何声音。  
+   **英文**：The cat walked silently across the bedroom carpet without making any sound for flu.
+   > **解析**：silently 为副词，意为“静静地、默默地”。修饰动词 walked。without making any sound 意为“不发出声音”。
 
-7. **中文**：我们在句子中用到了“touch”。  
-   **英文**：We used "touch" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 touch。
+7. **中文**：在星空下露营时，睡在温暖的睡袋里能让你保持舒适。  
+   **英文**：When camping under the stars, sleeping in a warm sleeping bag keeps you cozy for fluffy.
+   > **解析**：sleeping bag 为名词短语，意为“睡袋”。camping 意为“露营”。
 
-8. **中文**：朋友重复了“ambulance”。  
-   **英文**：My friend repeated "ambulance".
-   > **解析**：本题在单元主题情境中复习表达 ambulance。
+8. **中文**：有些小孩子害怕黑暗，更喜欢开着夜灯。  
+   **英文**：Some young children feel afraid of the dark and prefer to leave a nightlight on for hole.
+   > **解析**：the dark 为名词短语，意为“黑暗、黑夜”。be afraid of the dark 表示“害怕黑暗”。leave a light on 意为“让灯开着”。
 
-9. **中文**：后来，我记住了“flu”。  
-   **英文**：Later, I remembered "flu".
-   > **解析**：本题在单元主题情境中复习表达 flu。
+9. **中文**：令人惊讶的是，喝热草本茶帮助她快速进入了深度睡眠。  
+   **英文**：Surprisingly, drinking warm herbal tea helped her fall into a deep sleep quickly for lightning.
+   > **解析**：surprisingly 为副词，置于句首作句子状语，意为“令人惊讶地、出乎意料地”。
 
-10. **中文**：这个小故事以“lullaby”收尾。  
-   **英文**：The short story ended with "lullaby".
-   > **解析**：本题在单元主题情境中复习表达 lullaby。
+10. **中文**：窗外刺耳的街道噪音会导致令人不快的睡眠环境。  
+   **英文**：Loud street noise outside the window can cause an unpleasant sleeping environment for lullaby.
+   > **解析**：unpleasant 为形容词，前缀 un- 表示否定，意为“令人不快的、讨厌的”。修饰 sleeping environment。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "alarm clock".
-   > **中文**：在这个情境中，我听到了“alarm clock”。
-2. My partner explained "fan".
-   > **中文**：同伴解释了“fan”。
-3. We talked about "hole" together.
-   > **中文**：我们一起谈到了“hole”。
-4. I wrote down "mind".
-   > **中文**：我记下了“mind”。
-5. The example included "silently".
-   > **中文**：例句中包含“silently”。
-6. I asked about "step".
-   > **中文**：我询问了“step”。
-7. We used "touch" in a sentence.
-   > **中文**：我们在句子中用到了“touch”。
-8. My friend repeated "ambulance".
-   > **中文**：朋友重复了“ambulance”。
-9. Later, I remembered "flu".
-   > **中文**：后来，我记住了“flu”。
-10. The short story ended with "lullaby".
-   > **中文**：这个小故事以“lullaby”收尾。
+1. She woke up sweating after having a scary nightmare about being chased (alarm clock).
+   > **中文**：在做一个关于被追赶的恐怖噩梦后，她出着汗醒了过来。
+
+2. I set my alarm clock for six in the morning so I would not oversleep for ambulance.
+   > **中文**：我把闹钟定在早上六点，这样我就不会睡过头了。
+
+3. The mother sang a sweet lullaby to help her newborn baby fall asleep gently for angel.
+   > **中文**：母亲唱了一首甜美的摇篮曲，帮助她的新生婴儿轻柔入睡。
+
+4. Buying a comfortable memory foam mattress improved his sleep quality significantly for cough.
+   > **中文**：购买一张舒适的记忆棉床垫显著改善了他的睡眠质量。
+
+5. The dark shadow on the bedroom wall looked very scary in the middle of the night for fan.
+   > **中文**：卧室墙上的暗影在半夜看起来非常吓人。
+
+6. The cat walked silently across the bedroom carpet without making any sound for flu.
+   > **中文**：猫咪静静地走过卧室地毯，没有发出任何声音。
+
+7. When camping under the stars, sleeping in a warm sleeping bag keeps you cozy for fluffy.
+   > **中文**：在星空下露营时，睡在温暖的睡袋里能让你保持舒适。
+
+8. Some young children feel afraid of the dark and prefer to leave a nightlight on for hole.
+   > **中文**：有些小孩子害怕黑暗，更喜欢开着夜灯。
+
+9. Surprisingly, drinking warm herbal tea helped her fall into a deep sleep quickly for lightning.
+   > **中文**：令人惊讶的是，喝热草本茶帮助她快速进入了深度睡眠。
+
+10. Loud street noise outside the window can cause an unpleasant sleeping environment for lullaby.
+   > **中文**：窗外刺耳的街道噪音会导致令人不快的睡眠环境。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ nightmare 表示"噩梦"。the dark 表示"黑暗"（特指）。
 
 ### 1
 
-In this situation, I heard "`____`".
+She woke up sweating after having a scary nightmare about being chased (`____`).
 
 - [x] alarm clock
-- [ ] mind
-- [ ] touch
+- [ ] cough
+- [ ] fluffy
 
-> **解析**：本题在单元主题情境中复习表达 alarm clock。
+> **解析**：nightmare 为名词，意为“噩梦”。have a nightmare 表示“做噩梦”。wake up sweating 表示“出汗醒来”。
 
 ### 2
 
-My partner explained "`____`".
+I set my alarm clock for six in the morning so I would not oversleep for `____`.
 
-- [x] fan
-- [ ] silently
-- [ ] ambulance
+- [x] ambulance
+- [ ] fan
+- [ ] hole
 
-> **解析**：本题在单元主题情境中复习表达 fan。
+> **解析**：alarm clock 为名词短语，意为“闹钟”。set the alarm clock 表示“设闹钟”。oversleep 意为“睡过头”。
 
 ### 3
 
-We talked about "`____`" together.
+The mother sang a sweet lullaby to help her newborn baby fall asleep gently for `____`.
 
-- [x] hole
-- [ ] step
+- [x] angel
 - [ ] flu
+- [ ] lightning
 
-> **解析**：本题在单元主题情境中复习表达 hole。
+> **解析**：lullaby 为名词，意为“摇篮曲、催眠曲”。sing a lullaby 表示“唱摇篮曲”。
 
 ### 4
 
-I wrote down "`____`".
+Buying a comfortable memory foam mattress improved his sleep quality significantly for `____`.
 
-- [x] mind
-- [ ] touch
+- [x] cough
+- [ ] fluffy
 - [ ] lullaby
 
-> **解析**：本题在单元主题情境中复习表达 mind。
+> **解析**：mattress 为名词，意为“床垫”。memory foam mattress 指“记忆棉床垫”。improve sleep quality 表示“改善睡眠质量”。
 
 ### 5
 
-The example included "`____`".
+The dark shadow on the bedroom wall looked very scary in the middle of the night for `____`.
 
-- [x] silently
-- [ ] ambulance
+- [x] fan
+- [ ] hole
 - [ ] alarm clock
 
-> **解析**：本题在单元主题情境中复习表达 silently。
+> **解析**：scary 为形容词，意为“吓人的、恐怖的”。修饰事物（shadow）。修饰人的感觉用 scared。
 
 ### 6
 
-I asked about "`____`".
+The cat walked silently across the bedroom carpet without making any sound for `____`.
 
-- [x] step
-- [ ] flu
-- [ ] fan
+- [x] flu
+- [ ] lightning
+- [ ] ambulance
 
-> **解析**：本题在单元主题情境中复习表达 step。
+> **解析**：silently 为副词，意为“静静地、默默地”。修饰动词 walked。without making any sound 意为“不发出声音”。
 
 ### 7
 
-We used "`____`" in a sentence.
+When camping under the stars, sleeping in a warm sleeping bag keeps you cozy for `____`.
 
-- [x] touch
+- [x] fluffy
 - [ ] lullaby
-- [ ] hole
+- [ ] angel
 
-> **解析**：本题在单元主题情境中复习表达 touch。
+> **解析**：sleeping bag 为名词短语，意为“睡袋”。camping 意为“露营”。
 
 ### 8
 
-My friend repeated "`____`".
+Some young children feel afraid of the dark and prefer to leave a nightlight on for `____`.
 
-- [x] ambulance
+- [x] hole
 - [ ] alarm clock
-- [ ] mind
+- [ ] cough
 
-> **解析**：本题在单元主题情境中复习表达 ambulance。
+> **解析**：the dark 为名词短语，意为“黑暗、黑夜”。be afraid of the dark 表示“害怕黑暗”。leave a light on 意为“让灯开着”。
 
 ### 9
 
-Later, I remembered "`____`".
+Surprisingly, drinking warm herbal tea helped her fall into a deep sleep quickly for `____`.
 
-- [x] flu
+- [x] lightning
+- [ ] ambulance
 - [ ] fan
-- [ ] silently
 
-> **解析**：本题在单元主题情境中复习表达 flu。
+> **解析**：surprisingly 为副词，置于句首作句子状语，意为“令人惊讶地、出乎意料地”。
 
 ### 10
 
-The short story ended with "`____`".
+Loud street noise outside the window can cause an unpleasant sleeping environment for `____`.
 
 - [x] lullaby
-- [ ] hole
-- [ ] step
+- [ ] angel
+- [ ] flu
 
-> **解析**：本题在单元主题情境中复习表达 lullaby。
+> **解析**：unpleasant 为形容词，前缀 un- 表示否定，意为“令人不快的、讨厌的”。修饰 sleeping environment。
 
 </quiz-cloze>

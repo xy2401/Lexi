@@ -61,70 +61,79 @@ nephew（侄子/外甥）和 niece（侄女/外甥女）区分性别。spouse �
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“annoying”。  
-   **英文**：At work, we discussed "annoying".
-   > **解析**：本题在单元主题情境中复习表达 annoying。
+1. **中文**：相互信任和良好的沟通对于维持健康的关系至关重要。  
+   **英文**：Mutual trust and good communication are essential for maintaining a healthy relationship for annoying.
+   > **解析**：relationship 为名词，意为“关系、情感联系”。maintain a relationship 表示“维持一段关系”。
 
-2. **中文**：同事提到了“british”。  
-   **英文**：My coworker mentioned "british".
-   > **解析**：本题在单元主题情境中复习表达 british。
+2. **中文**：欢迎员工携带配偶和子女参加公司一年一度的野餐活动。  
+   **英文**：Employees are welcome to bring their spouse and children to the annual company picnic for author.
+   > **解析**：spouse 为名词，意为“配偶（丈夫或妻子）”。属于正式的书面及法律用语。
 
-3. **中文**：会议中，我听到了“dream”。  
-   **英文**：In the meeting, I heard "dream".
-   > **解析**：本题在单元主题情境中复习表达 dream。
+3. **中文**：在意识到彼此的人生目标不同后，他们和平离婚了。  
+   **英文**：They got divorced amicably after realizing they had different life goals for barber.
+   > **解析**：divorced 为形容词，意为“已离婚的”。get divorced 表示“离婚”。amicably 为副词，意为“和平地”。
 
-4. **中文**：我把“honest”写进了笔记。  
-   **英文**：I added "honest" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 honest。
+4. **中文**：真正的朋友即使意见不合，也会尊重彼此的看法。  
+   **英文**：True friends respect each other's opinions even when they disagree for blind.
+   > **解析**：respect 在此处用作动词，意为“尊重、敬重”。respect each other 表示“互相尊重”。也可作名词。
 
-5. **中文**：经理解释了“marriage”。  
-   **英文**：The manager explained "marriage".
-   > **解析**：本题在单元主题情境中复习表达 marriage。
+5. **中文**：建立信任需要很长时间，但失去信任只需一秒钟。  
+   **英文**：It takes a long time to build trust, but only a second to lose it for british.
+   > **解析**：trust 在此处用作不可数名词，意为“信任、信赖”。build trust 意为“建立信任”。也可以作动词（trust sb.）。
 
-6. **中文**：团队今天用到了“relationship”。  
-   **英文**：Our team used "relationship" today.
-   > **解析**：本题在单元主题情境中复习表达 relationship。
+6. **中文**：我侄子（外甥）正在大学攻读计算机科学，希望能成为一名软件开发者。  
+   **英文**：My nephew is studying computer science at university and hopes to be a software developer for date.
+   > **解析**：nephew 为名词，指“侄子、外甥”（兄弟或姐妹的儿子）。
 
-7. **中文**：午饭前，我们查看了“successful”。  
-   **英文**：Before lunch, we checked "successful".
-   > **解析**：本题在单元主题情境中复习表达 successful。
+7. **中文**：我给我侄女（外甥女）的七岁生日买了一套彩色故事书。  
+   **英文**：I bought a set of colorful storybooks for my niece's seventh birthday for divorced.
+   > **解析**：niece 为名词，指“侄女、外甥女”（兄弟或姐妹的女儿）。
 
-8. **中文**：同事询问了“author”。  
-   **英文**：My colleague asked about "author".
-   > **解析**：本题在单元主题情境中复习表达 author。
+8. **中文**：对你的伴侣保持诚实是建立长期信任最重要的钥匙。  
+   **英文**：Being honest with your partner is the most important key to long-term trust for dream.
+   > **解析**：honest 为形容词，意为“诚实的”。be honest with sb. 表示“对某人坦诚/诚实”。h 不发音，前面接不定冠词用 an（an honest man）。
 
-9. **中文**：报告中包含“date”。  
-   **英文**：The report included "date".
-   > **解析**：本题在单元主题情境中复习表达 date。
+9. **中文**：工作了四十多年后，我叔叔决定下个月退休。  
+   **英文**：After working for over forty years, my uncle decided to retire next month for firefighter.
+   > **解析**：retire 为动词，意为“退休”。名词形式为 retirement（退休/退休生活）。
 
-10. **中文**：一天结束时，我记住了“gay”。  
-   **英文**：At the end of the day, I remembered "gay".
-   > **解析**：本题在单元主题情境中复习表达 gay。
+10. **中文**：通过努力工作和坚定决心，她在商业领域树立了成功的职业生涯。  
+   **英文**：She built a successful career in business through hard work and determination for gay.
+   > **解析**：successful 为形容词，意为“成功的”。修饰名词 career。派生自名词 success 和动词 succeed。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "annoying".
-   > **中文**：工作中，我们讨论了“annoying”。
-2. My coworker mentioned "british".
-   > **中文**：同事提到了“british”。
-3. In the meeting, I heard "dream".
-   > **中文**：会议中，我听到了“dream”。
-4. I added "honest" to my notes.
-   > **中文**：我把“honest”写进了笔记。
-5. The manager explained "marriage".
-   > **中文**：经理解释了“marriage”。
-6. Our team used "relationship" today.
-   > **中文**：团队今天用到了“relationship”。
-7. Before lunch, we checked "successful".
-   > **中文**：午饭前，我们查看了“successful”。
-8. My colleague asked about "author".
-   > **中文**：同事询问了“author”。
-9. The report included "date".
-   > **中文**：报告中包含“date”。
-10. At the end of the day, I remembered "gay".
-   > **中文**：一天结束时，我记住了“gay”。
+1. Mutual trust and good communication are essential for maintaining a healthy relationship for annoying.
+   > **中文**：相互信任和良好的沟通对于维持健康的关系至关重要。
+
+2. Employees are welcome to bring their spouse and children to the annual company picnic for author.
+   > **中文**：欢迎员工携带配偶和子女参加公司一年一度的野餐活动。
+
+3. They got divorced amicably after realizing they had different life goals for barber.
+   > **中文**：在意识到彼此的人生目标不同后，他们和平离婚了。
+
+4. True friends respect each other's opinions even when they disagree for blind.
+   > **中文**：真正的朋友即使意见不合，也会尊重彼此的看法。
+
+5. It takes a long time to build trust, but only a second to lose it for british.
+   > **中文**：建立信任需要很长时间，但失去信任只需一秒钟。
+
+6. My nephew is studying computer science at university and hopes to be a software developer for date.
+   > **中文**：我侄子（外甥）正在大学攻读计算机科学，希望能成为一名软件开发者。
+
+7. I bought a set of colorful storybooks for my niece's seventh birthday for divorced.
+   > **中文**：我给我侄女（外甥女）的七岁生日买了一套彩色故事书。
+
+8. Being honest with your partner is the most important key to long-term trust for dream.
+   > **中文**：对你的伴侣保持诚实是建立长期信任最重要的钥匙。
+
+9. After working for over forty years, my uncle decided to retire next month for firefighter.
+   > **中文**：工作了四十多年后，我叔叔决定下个月退休。
+
+10. She built a successful career in business through hard work and determination for gay.
+   > **中文**：通过努力工作和坚定决心，她在商业领域树立了成功的职业生涯。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ nephew（侄子/外甥）和 niece（侄女/外甥女）区分性别。spouse �
 
 ### 1
 
-At work, we discussed "`____`".
+Mutual trust and good communication are essential for maintaining a healthy relationship for `____`.
 
 - [x] annoying
-- [ ] honest
-- [ ] successful
+- [ ] blind
+- [ ] divorced
 
-> **解析**：本题在单元主题情境中复习表达 annoying。
+> **解析**：relationship 为名词，意为“关系、情感联系”。maintain a relationship 表示“维持一段关系”。
 
 ### 2
 
-My coworker mentioned "`____`".
+Employees are welcome to bring their spouse and children to the annual company picnic for `____`.
 
-- [x] british
-- [ ] marriage
-- [ ] author
+- [x] author
+- [ ] british
+- [ ] dream
 
-> **解析**：本题在单元主题情境中复习表达 british。
+> **解析**：spouse 为名词，意为“配偶（丈夫或妻子）”。属于正式的书面及法律用语。
 
 ### 3
 
-In the meeting, I heard "`____`".
+They got divorced amicably after realizing they had different life goals for `____`.
 
-- [x] dream
-- [ ] relationship
+- [x] barber
 - [ ] date
+- [ ] firefighter
 
-> **解析**：本题在单元主题情境中复习表达 dream。
+> **解析**：divorced 为形容词，意为“已离婚的”。get divorced 表示“离婚”。amicably 为副词，意为“和平地”。
 
 ### 4
 
-I added "`____`" to my notes.
+True friends respect each other's opinions even when they disagree for `____`.
 
-- [x] honest
-- [ ] successful
+- [x] blind
+- [ ] divorced
 - [ ] gay
 
-> **解析**：本题在单元主题情境中复习表达 honest。
+> **解析**：respect 在此处用作动词，意为“尊重、敬重”。respect each other 表示“互相尊重”。也可作名词。
 
 ### 5
 
-The manager explained "`____`".
+It takes a long time to build trust, but only a second to lose it for `____`.
 
-- [x] marriage
-- [ ] author
+- [x] british
+- [ ] dream
 - [ ] annoying
 
-> **解析**：本题在单元主题情境中复习表达 marriage。
+> **解析**：trust 在此处用作不可数名词，意为“信任、信赖”。build trust 意为“建立信任”。也可以作动词（trust sb.）。
 
 ### 6
 
-Our team used "`____`" today.
+My nephew is studying computer science at university and hopes to be a software developer for `____`.
 
-- [x] relationship
-- [ ] date
-- [ ] british
+- [x] date
+- [ ] firefighter
+- [ ] author
 
-> **解析**：本题在单元主题情境中复习表达 relationship。
+> **解析**：nephew 为名词，指“侄子、外甥”（兄弟或姐妹的儿子）。
 
 ### 7
 
-Before lunch, we checked "`____`".
+I bought a set of colorful storybooks for my niece's seventh birthday for `____`.
 
-- [x] successful
+- [x] divorced
 - [ ] gay
-- [ ] dream
+- [ ] barber
 
-> **解析**：本题在单元主题情境中复习表达 successful。
+> **解析**：niece 为名词，指“侄女、外甥女”（兄弟或姐妹的女儿）。
 
 ### 8
 
-My colleague asked about "`____`".
+Being honest with your partner is the most important key to long-term trust for `____`.
 
-- [x] author
+- [x] dream
 - [ ] annoying
-- [ ] honest
+- [ ] blind
 
-> **解析**：本题在单元主题情境中复习表达 author。
+> **解析**：honest 为形容词，意为“诚实的”。be honest with sb. 表示“对某人坦诚/诚实”。h 不发音，前面接不定冠词用 an（an honest man）。
 
 ### 9
 
-The report included "`____`".
+After working for over forty years, my uncle decided to retire next month for `____`.
 
-- [x] date
+- [x] firefighter
+- [ ] author
 - [ ] british
-- [ ] marriage
 
-> **解析**：本题在单元主题情境中复习表达 date。
+> **解析**：retire 为动词，意为“退休”。名词形式为 retirement（退休/退休生活）。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+She built a successful career in business through hard work and determination for `____`.
 
 - [x] gay
-- [ ] dream
-- [ ] relationship
+- [ ] barber
+- [ ] date
 
-> **解析**：本题在单元主题情境中复习表达 gay。
+> **解析**：successful 为形容词，意为“成功的”。修饰名词 career。派生自名词 success 和动词 succeed。
 
 </quiz-cloze>

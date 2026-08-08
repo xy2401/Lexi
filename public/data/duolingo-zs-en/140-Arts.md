@@ -61,70 +61,79 @@ perform → performance（表演 → 演出）。publish 表示"出版"。
 
 <quiz-sentence-builder>
 
-1. **中文**：谈论喜好时，我听到了“act”。  
-   **英文**：When we talked about favorites, I heard "act".
-   > **解析**：本题在单元主题情境中复习表达 act。
+1. **中文**：她最新的历史小说在出版一周内就成了畅销书。  
+   **英文**：Her latest historical novel became a bestseller within a week of its release for act.
+   > **解析**：novel 为名词，意为“长篇小说”。historical novel 指“历史小说”。bestseller 意为“畅销书”。
 
-2. **中文**：朋友说“comedy”很重要。  
-   **英文**：My friend said "comedy" was important.
-   > **解析**：本题在单元主题情境中复习表达 comedy。
+2. **中文**：他喜欢读科幻小说，因为它探索了富有想象力的未来世界。  
+   **英文**：He enjoys reading science fiction because it explores imaginative futuristic worlds for action.
+   > **解析**：fiction 为不可数名词，意为“虚构文学、小说”。science fiction 意为“科幻小说”。非虚构文学为 non-fiction。
 
-3. **中文**：我问他们喜欢哪一个：“culture”。  
-   **英文**：I asked which one they liked: "culture".
-   > **解析**：本题在单元主题情境中复习表达 culture。
+3. **中文**：这位作者希望在今年年底前出版她的新诗集。  
+   **英文**：The author hopes to publish her new book of poetry by the end of this year for celebrity.
+   > **解析**：publish 为动词，意为“出版、发表”。publish a book 表示“出版一本书”。名词为 publication/publisher。
 
-4. **中文**：聊天时，我们比较了“fight”。  
-   **英文**：In our chat, we compared "fight".
-   > **解析**：本题在单元主题情境中复习表达 fight。
+4. **中文**：这位演员因在剧中的杰出表演获得了全场起立鼓掌。  
+   **英文**：The actor received a standing ovation for his outstanding performance in the play for cinema.
+   > **解析**：performance 为名词，意为“表演、演出”。standing ovation 意为“起立鼓掌”。动词形式为 perform。
 
-5. **中文**：同伴先选择了“loudly”。  
-   **英文**：My partner chose "loudly" first.
-   > **解析**：本题在单元主题情境中复习表达 loudly。
+5. **中文**：交响乐团演奏了由莫扎特和贝多芬创作的古典乐曲。  
+   **英文**：The symphony orchestra played classical pieces composed by Mozart and Beethoven for comedy.
+   > **解析**：orchestra 为名词，意为“管弦乐队、交响乐团”。symphony orchestra 指“交响乐团”。
 
-6. **中文**：我们用“performance”描述喜好。  
-   **英文**：We used "performance" to describe a favorite.
-   > **解析**：本题在单元主题情境中复习表达 performance。
+6. **中文**：参观者们赞叹展示在艺术馆中央的汉白玉雕塑。  
+   **英文**：Visitors admired the marble sculpture displayed in the center of the art gallery for commercial.
+   > **解析**：sculpture 为名词，意为“雕塑、雕刻品”。marble sculpture 指“大理石雕塑”。
 
-7. **中文**：答案中包含“review”。  
-   **英文**：The answer included "review".
-   > **解析**：本题在单元主题情境中复习表达 review。
+7. **中文**：我们决定在一周长途劳顿后看一部浪漫喜剧来放松一下。  
+   **英文**：We decided to watch a romantic comedy to unwind after a long busy week for create.
+   > **解析**：comedy 为名词，意为“喜剧”。romantic comedy 指“浪漫喜剧”。反义词为 tragedy（悲剧）。
 
-8. **中文**：我从对话中记住了“action”。  
-   **英文**：I remembered "action" from the conversation.
-   > **解析**：本题在单元主题情境中复习表达 action。
+8. **中文**：阅读经典文学是了解一个国家深厚文化的好途径。  
+   **英文**：Reading classic literature is a great way to understand a country's deep culture.
+   > **解析**：culture 为名词，意为“文化”。classic literature 意为“经典文学”。
 
-9. **中文**：朋友微笑着重复了“commercial”。  
-   **英文**：My friend repeated "commercial" with a smile.
-   > **解析**：本题在单元主题情境中复习表达 commercial。
+9. **中文**：这位知名名人今晚在电影首映式上惊喜亮相。  
+   **英文**：The famous celebrity made a surprise appearance at the movie premiere tonight for download.
+   > **解析**：celebrity 为名词，意为“名人、明星”。movie premiere 意为“电影首映式”。
 
-10. **中文**：那场关于喜好的聊天以“experience”收尾。  
-   **英文**：That chat about favorites ended with "experience".
-   > **解析**：本题在单元主题情境中复习表达 experience。
+10. **中文**：艺术家们使用不同的媒介来创作令人产生灵感的富有表现力的艺术品。  
+   **英文**：Artists use different mediums to create expressive artworks that inspire viewers for experience.
+   > **解析**：create 为动词，意为“创作、创造”。create artworks 意为“创作艺术品”。名词形式为 creation/creativity。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. When we talked about favorites, I heard "act".
-   > **中文**：谈论喜好时，我听到了“act”。
-2. My friend said "comedy" was important.
-   > **中文**：朋友说“comedy”很重要。
-3. I asked which one they liked: "culture".
-   > **中文**：我问他们喜欢哪一个：“culture”。
-4. In our chat, we compared "fight".
-   > **中文**：聊天时，我们比较了“fight”。
-5. My partner chose "loudly" first.
-   > **中文**：同伴先选择了“loudly”。
-6. We used "performance" to describe a favorite.
-   > **中文**：我们用“performance”描述喜好。
-7. The answer included "review".
-   > **中文**：答案中包含“review”。
-8. I remembered "action" from the conversation.
-   > **中文**：我从对话中记住了“action”。
-9. My friend repeated "commercial" with a smile.
-   > **中文**：朋友微笑着重复了“commercial”。
-10. That chat about favorites ended with "experience".
-   > **中文**：那场关于喜好的聊天以“experience”收尾。
+1. Her latest historical novel became a bestseller within a week of its release for act.
+   > **中文**：她最新的历史小说在出版一周内就成了畅销书。
+
+2. He enjoys reading science fiction because it explores imaginative futuristic worlds for action.
+   > **中文**：他喜欢读科幻小说，因为它探索了富有想象力的未来世界。
+
+3. The author hopes to publish her new book of poetry by the end of this year for celebrity.
+   > **中文**：这位作者希望在今年年底前出版她的新诗集。
+
+4. The actor received a standing ovation for his outstanding performance in the play for cinema.
+   > **中文**：这位演员因在剧中的杰出表演获得了全场起立鼓掌。
+
+5. The symphony orchestra played classical pieces composed by Mozart and Beethoven for comedy.
+   > **中文**：交响乐团演奏了由莫扎特和贝多芬创作的古典乐曲。
+
+6. Visitors admired the marble sculpture displayed in the center of the art gallery for commercial.
+   > **中文**：参观者们赞叹展示在艺术馆中央的汉白玉雕塑。
+
+7. We decided to watch a romantic comedy to unwind after a long busy week for create.
+   > **中文**：我们决定在一周长途劳顿后看一部浪漫喜剧来放松一下。
+
+8. Reading classic literature is a great way to understand a country's deep culture.
+   > **中文**：阅读经典文学是了解一个国家深厚文化的好途径。
+
+9. The famous celebrity made a surprise appearance at the movie premiere tonight for download.
+   > **中文**：这位知名名人今晚在电影首映式上惊喜亮相。
+
+10. Artists use different mediums to create expressive artworks that inspire viewers for experience.
+   > **中文**：艺术家们使用不同的媒介来创作令人产生灵感的富有表现力的艺术品。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ perform → performance（表演 → 演出）。publish 表示"出版"。
 
 ### 1
 
-When we talked about favorites, I heard "`____`".
+Her latest historical novel became a bestseller within a week of its release for `____`.
 
 - [x] act
-- [ ] fight
-- [ ] review
+- [ ] cinema
+- [ ] create
 
-> **解析**：本题在单元主题情境中复习表达 act。
+> **解析**：novel 为名词，意为“长篇小说”。historical novel 指“历史小说”。bestseller 意为“畅销书”。
 
 ### 2
 
-My friend said "`____`" was important.
+He enjoys reading science fiction because it explores imaginative futuristic worlds for `____`.
 
-- [x] comedy
-- [ ] loudly
-- [ ] action
+- [x] action
+- [ ] comedy
+- [ ] culture
 
-> **解析**：本题在单元主题情境中复习表达 comedy。
+> **解析**：fiction 为不可数名词，意为“虚构文学、小说”。science fiction 意为“科幻小说”。非虚构文学为 non-fiction。
 
 ### 3
 
-I asked which one they liked: "`____`".
+The author hopes to publish her new book of poetry by the end of this year for `____`.
 
-- [x] culture
-- [ ] performance
+- [x] celebrity
 - [ ] commercial
+- [ ] download
 
-> **解析**：本题在单元主题情境中复习表达 culture。
+> **解析**：publish 为动词，意为“出版、发表”。publish a book 表示“出版一本书”。名词为 publication/publisher。
 
 ### 4
 
-In our chat, we compared "`____`".
+The actor received a standing ovation for his outstanding performance in the play for `____`.
 
-- [x] fight
-- [ ] review
+- [x] cinema
+- [ ] create
 - [ ] experience
 
-> **解析**：本题在单元主题情境中复习表达 fight。
+> **解析**：performance 为名词，意为“表演、演出”。standing ovation 意为“起立鼓掌”。动词形式为 perform。
 
 ### 5
 
-My partner chose "`____`" first.
+The symphony orchestra played classical pieces composed by Mozart and Beethoven for `____`.
 
-- [x] loudly
-- [ ] action
+- [x] comedy
+- [ ] culture
 - [ ] act
 
-> **解析**：本题在单元主题情境中复习表达 loudly。
+> **解析**：orchestra 为名词，意为“管弦乐队、交响乐团”。symphony orchestra 指“交响乐团”。
 
 ### 6
 
-We used "`____`" to describe a favorite.
+Visitors admired the marble sculpture displayed in the center of the art gallery for `____`.
 
-- [x] performance
-- [ ] commercial
-- [ ] comedy
+- [x] commercial
+- [ ] download
+- [ ] action
 
-> **解析**：本题在单元主题情境中复习表达 performance。
+> **解析**：sculpture 为名词，意为“雕塑、雕刻品”。marble sculpture 指“大理石雕塑”。
 
 ### 7
 
-The answer included "`____`".
+We decided to watch a romantic comedy to unwind after a long busy week for `____`.
 
-- [x] review
+- [x] create
 - [ ] experience
-- [ ] culture
+- [ ] celebrity
 
-> **解析**：本题在单元主题情境中复习表达 review。
+> **解析**：comedy 为名词，意为“喜剧”。romantic comedy 指“浪漫喜剧”。反义词为 tragedy（悲剧）。
 
 ### 8
 
-I remembered "`____`" from the conversation.
+Reading classic literature is a great way to understand a country's deep `____`.
 
-- [x] action
+- [x] culture
 - [ ] act
-- [ ] fight
+- [ ] cinema
 
-> **解析**：本题在单元主题情境中复习表达 action。
+> **解析**：culture 为名词，意为“文化”。classic literature 意为“经典文学”。
 
 ### 9
 
-My friend repeated "`____`" with a smile.
+The famous celebrity made a surprise appearance at the movie premiere tonight for `____`.
 
-- [x] commercial
+- [x] download
+- [ ] action
 - [ ] comedy
-- [ ] loudly
 
-> **解析**：本题在单元主题情境中复习表达 commercial。
+> **解析**：celebrity 为名词，意为“名人、明星”。movie premiere 意为“电影首映式”。
 
 ### 10
 
-That chat about favorites ended with "`____`".
+Artists use different mediums to create expressive artworks that inspire viewers for `____`.
 
 - [x] experience
-- [ ] culture
-- [ ] performance
+- [ ] celebrity
+- [ ] commercial
 
-> **解析**：本题在单元主题情境中复习表达 experience。
+> **解析**：create 为动词，意为“创作、创造”。create artworks 意为“创作艺术品”。名词形式为 creation/creativity。
 
 </quiz-cloze>

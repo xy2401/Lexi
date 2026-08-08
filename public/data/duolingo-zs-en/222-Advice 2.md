@@ -63,70 +63,79 @@ aware, cheat on, childish, concerned, could, could have, could've, couldn't have
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“aware”。  
-   **英文**：In this situation, I heard "aware".
-   > **解析**：本题在单元主题情境中复习表达 aware。
+1. **中文**：在做出如此重大的生活决定之前，你应该充分意识到后果。  
+   **英文**：You should be fully aware of the consequences before making such a major life decision.
+   > **解析**：`aware` 形容词，意为“意识到的；知道的”。固定搭配 `be aware of sth.`（意识到某事）。
 
-2. **中文**：同伴解释了“could”。  
-   **英文**：My partner explained "could".
-   > **解析**：本题在单元主题情境中复习表达 could。
+2. **中文**：如果你对项目需要建议，你可以和你的职业咨询师讨论一下。  
+   **英文**：If you need advice on your project, you could discuss it with your career counselor (cheat on).
+   > **解析**：`could` 情态动词，在此处表示提出温和或委婉的建议。
 
-3. **中文**：我们一起谈到了“criticize”。  
-   **英文**：We talked about "criticize" together.
-   > **解析**：本题在单元主题情境中复习表达 criticize。
+3. **中文**：批评某人而不提供建设性的解决方案是没有帮助的。  
+   **英文**：It is not helpful to criticize someone without offering constructive solutions for childish.
+   > **解析**：`criticize` 及物动词，意为“批评；指责”。常用结构 `criticize sb. for sth.`。
 
-4. **中文**：我记下了“get the feeling”。  
-   **英文**：I wrote down "get the feeling".
-   > **解析**：本题在单元主题情境中复习表达 get the feeling。
+4. **中文**：我感觉他似乎在犹豫是否要告诉我们事实的全貌。  
+   **英文**：I get the feeling that he is hesitating to tell us the complete truth for concerned.
+   > **解析**：`get the feeling that...` 为固定短语，意为“产生某种感觉/直觉”，后接同位语从句说明内容。
 
-5. **中文**：例句中包含“leave”。  
-   **英文**：The example included "leave".
-   > **解析**：本题在单元主题情境中复习表达 leave。
+5. **中文**：有时候，在糟糕的对话中最好的解决办法就是转身离开。  
+   **英文**：Sometimes the best solution in a toxic conversation is to just turn around and leave for could.
+   > **解析**：`leave` 不及物动词，意为“离开；走开”。
 
-6. **中文**：我询问了“offend”。  
-   **英文**：I asked about "offend".
-   > **解析**：本题在单元主题情境中复习表达 offend。
+6. **中文**：请注意你的语气，以免无意中得罪或冒犯任何人。  
+   **英文**：Please be careful with your tone so that you don't unintentionally offend anyone (could have).
+   > **解析**：`offend` 及物动词，意为“冒犯；得罪”。衍生形容词 `offensive`（冒犯性的）。
 
-7. **中文**：我们在句子中用到了“shouldn't have”。  
-   **英文**：We used "shouldn't have" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 shouldn't have。
+7. **中文**：我昨天在与朋友的讨论中本不该发脾气的。  
+   **英文**：I shouldn't have lost my temper during yesterday's discussion with my friend (could've).
+   > **解析**：`shouldn't have + 过去分词` 为虚拟语气短语，表达对过去行为的后悔与自责（意为“本不应该做某事”）。
 
-8. **中文**：朋友重复了“cheat on”。  
-   **英文**：My friend repeated "cheat on".
-   > **解析**：本题在单元主题情境中复习表达 cheat on。
+8. **中文**：诚实对任何关系都至关重要，你绝不应该背叛你的伴侣。  
+   **英文**：Honesty is vital in any relationship, and you should never cheat on your partner (couldn't have).
+   > **解析**：`cheat on` 为固定动词短语，意为“对……不忠；在感情/考试中作弊欺骗某人”。
 
-9. **中文**：后来，我记住了“could have”。  
-   **英文**：Later, I remembered "could have".
-   > **解析**：本题在单元主题情境中复习表达 could have。
+9. **中文**：你本可以寻求我的帮助，而不是独自与这项任务挣扎。  
+   **英文**：You could have asked me for assistance instead of struggling with the task alone for criticize.
+   > **解析**：`could have + 过去分词` 表达对过去本具备能力或可能性但实际上未发生的某种行为的假设（意为“本可以……”）。
 
-10. **中文**：这个小故事以“emotional”收尾。  
-   **英文**：The short story ended with "emotional".
-   > **解析**：本题在单元主题情境中复习表达 emotional。
+10. **中文**：她发表了一篇充满感情的演讲，让每个人都流下了喜悦的泪水。  
+   **英文**：She delivered an emotional speech that brought tears of joy to everyone's eyes.
+   > **解析**：`emotional` 形容词，意为“情绪化的；充满感情的”。修饰名词 `speech`。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "aware".
-   > **中文**：在这个情境中，我听到了“aware”。
-2. My partner explained "could".
-   > **中文**：同伴解释了“could”。
-3. We talked about "criticize" together.
-   > **中文**：我们一起谈到了“criticize”。
-4. I wrote down "get the feeling".
-   > **中文**：我记下了“get the feeling”。
-5. The example included "leave".
-   > **中文**：例句中包含“leave”。
-6. I asked about "offend".
-   > **中文**：我询问了“offend”。
-7. We used "shouldn't have" in a sentence.
-   > **中文**：我们在句子中用到了“shouldn't have”。
-8. My friend repeated "cheat on".
-   > **中文**：朋友重复了“cheat on”。
-9. Later, I remembered "could have".
-   > **中文**：后来，我记住了“could have”。
-10. The short story ended with "emotional".
-   > **中文**：这个小故事以“emotional”收尾。
+1. You should be fully aware of the consequences before making such a major life decision.
+   > **中文**：在做出如此重大的生活决定之前，你应该充分意识到后果。
+
+2. If you need advice on your project, you could discuss it with your career counselor (cheat on).
+   > **中文**：如果你对项目需要建议，你可以和你的职业咨询师讨论一下。
+
+3. It is not helpful to criticize someone without offering constructive solutions for childish.
+   > **中文**：批评某人而不提供建设性的解决方案是没有帮助的。
+
+4. I get the feeling that he is hesitating to tell us the complete truth for concerned.
+   > **中文**：我感觉他似乎在犹豫是否要告诉我们事实的全貌。
+
+5. Sometimes the best solution in a toxic conversation is to just turn around and leave for could.
+   > **中文**：有时候，在糟糕的对话中最好的解决办法就是转身离开。
+
+6. Please be careful with your tone so that you don't unintentionally offend anyone (could have).
+   > **中文**：请注意你的语气，以免无意中得罪或冒犯任何人。
+
+7. I shouldn't have lost my temper during yesterday's discussion with my friend (could've).
+   > **中文**：我昨天在与朋友的讨论中本不该发脾气的。
+
+8. Honesty is vital in any relationship, and you should never cheat on your partner (couldn't have).
+   > **中文**：诚实对任何关系都至关重要，你绝不应该背叛你的伴侣。
+
+9. You could have asked me for assistance instead of struggling with the task alone for criticize.
+   > **中文**：你本可以寻求我的帮助，而不是独自与这项任务挣扎。
+
+10. She delivered an emotional speech that brought tears of joy to everyone's eyes.
+   > **中文**：她发表了一篇充满感情的演讲，让每个人都流下了喜悦的泪水。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ aware, cheat on, childish, concerned, could, could have, could've, couldn't have
 
 ### 1
 
-In this situation, I heard "`____`".
+You should be fully `____` of the consequences before making such a major life decision.
 
 - [x] aware
-- [ ] get the feeling
-- [ ] shouldn't have
+- [ ] concerned
+- [ ] could've
 
-> **解析**：本题在单元主题情境中复习表达 aware。
+> **解析**：`aware` 形容词，意为“意识到的；知道的”。固定搭配 `be aware of sth.`（意识到某事）。
 
 ### 2
 
-My partner explained "`____`".
+If you need advice on your project, you could discuss it with your career counselor (`____`).
 
-- [x] could
-- [ ] leave
-- [ ] cheat on
+- [x] cheat on
+- [ ] could
+- [ ] couldn't have
 
-> **解析**：本题在单元主题情境中复习表达 could。
+> **解析**：`could` 情态动词，在此处表示提出温和或委婉的建议。
 
 ### 3
 
-We talked about "`____`" together.
+It is not helpful to criticize someone without offering constructive solutions for `____`.
 
-- [x] criticize
-- [ ] offend
+- [x] childish
 - [ ] could have
+- [ ] criticize
 
-> **解析**：本题在单元主题情境中复习表达 criticize。
+> **解析**：`criticize` 及物动词，意为“批评；指责”。常用结构 `criticize sb. for sth.`。
 
 ### 4
 
-I wrote down "`____`".
+I get the feeling that he is hesitating to tell us the complete truth for `____`.
 
-- [x] get the feeling
-- [ ] shouldn't have
+- [x] concerned
+- [ ] could've
 - [ ] emotional
 
-> **解析**：本题在单元主题情境中复习表达 get the feeling。
+> **解析**：`get the feeling that...` 为固定短语，意为“产生某种感觉/直觉”，后接同位语从句说明内容。
 
 ### 5
 
-The example included "`____`".
+Sometimes the best solution in a toxic conversation is to just turn around and leave for `____`.
 
-- [x] leave
-- [ ] cheat on
+- [x] could
+- [ ] couldn't have
 - [ ] aware
 
-> **解析**：本题在单元主题情境中复习表达 leave。
+> **解析**：`leave` 不及物动词，意为“离开；走开”。
 
 ### 6
 
-I asked about "`____`".
+Please be careful with your tone so that you don't unintentionally offend anyone (`____`).
 
-- [x] offend
-- [ ] could have
-- [ ] could
+- [x] could have
+- [ ] criticize
+- [ ] cheat on
 
-> **解析**：本题在单元主题情境中复习表达 offend。
+> **解析**：`offend` 及物动词，意为“冒犯；得罪”。衍生形容词 `offensive`（冒犯性的）。
 
 ### 7
 
-We used "`____`" in a sentence.
+I shouldn't have lost my temper during yesterday's discussion with my friend (`____`).
 
-- [x] shouldn't have
+- [x] could've
 - [ ] emotional
-- [ ] criticize
+- [ ] childish
 
-> **解析**：本题在单元主题情境中复习表达 shouldn't have。
+> **解析**：`shouldn't have + 过去分词` 为虚拟语气短语，表达对过去行为的后悔与自责（意为“本不应该做某事”）。
 
 ### 8
 
-My friend repeated "`____`".
+Honesty is vital in any relationship, and you should never cheat on your partner (`____`).
 
-- [x] cheat on
+- [x] couldn't have
 - [ ] aware
-- [ ] get the feeling
+- [ ] concerned
 
-> **解析**：本题在单元主题情境中复习表达 cheat on。
+> **解析**：`cheat on` 为固定动词短语，意为“对……不忠；在感情/考试中作弊欺骗某人”。
 
 ### 9
 
-Later, I remembered "`____`".
+You could have asked me for assistance instead of struggling with the task alone for `____`.
 
-- [x] could have
+- [x] criticize
+- [ ] cheat on
 - [ ] could
-- [ ] leave
 
-> **解析**：本题在单元主题情境中复习表达 could have。
+> **解析**：`could have + 过去分词` 表达对过去本具备能力或可能性但实际上未发生的某种行为的假设（意为“本可以……”）。
 
 ### 10
 
-The short story ended with "`____`".
+She delivered an `____` speech that brought tears of joy to everyone's eyes.
 
 - [x] emotional
-- [ ] criticize
-- [ ] offend
+- [ ] childish
+- [ ] could have
 
-> **解析**：本题在单元主题情境中复习表达 emotional。
+> **解析**：`emotional` 形容词，意为“情绪化的；充满感情的”。修饰名词 `speech`。
 
 </quiz-cloze>

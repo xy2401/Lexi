@@ -61,70 +61,79 @@ for here or to go 是美式点餐用语。send back = 退回（食物）。
 
 <quiz-sentence-builder>
 
-1. **中文**：在餐厅里，我询问了“allergy”。  
-   **英文**：At the restaurant, I asked about "allergy".
-   > **解析**：本题在单元主题情境中复习表达 allergy。
+1. **中文**：点餐前如果您对花生过敏，请通知服务员。  
+   **英文**：Please inform the waiter if you have a peanut allergy before ordering.
+   > **解析**：allergy 为可数/不可数名词，意为“过敏”。常用搭配 have an allergy to sth. / peanut allergy（花生过敏）。
 
-2. **中文**：菜单上有“eat out”。  
-   **英文**：The menu included "eat out".
-   > **解析**：本题在单元主题情境中复习表达 eat out。
+2. **中文**：周五晚上我们通常在我们最喜欢的意大利餐馆外出就餐。  
+   **英文**：We usually eat out at our favorite Italian restaurant on Friday evenings for any.
+   > **解析**：eat out 为不及物动词短语，意为“在外面餐馆吃饭”。
 
-3. **中文**：在餐桌旁，我们谈到了“give”。  
-   **英文**：At the table, we talked about "give".
-   > **解析**：本题在单元主题情境中复习表达 give。
+3. **中文**：清理完桌子后，你能把甜点菜单给我吗？  
+   **英文**：Could you give me the dessert menu after we clear the table? for casual.
+   > **解析**：give 为及物动词，意为“给、递给”。常用结构 give sb. sth. 或 give sth. to sb.。
 
-4. **中文**：厨师提到了“my treat”。  
-   **英文**：The cook mentioned "my treat".
-   > **解析**：本题在单元主题情境中复习表达 my treat。
+4. **中文**：把钱包收起来；今晚的晚饭我请客！  
+   **英文**：Put your wallet away; tonight's dinner is my treat for disgusting.
+   > **解析**：my treat 为固定口语表达，意为“我请客/由我买单”，常用于餐馆结账场合。
 
-5. **中文**：晚餐我点了“send”。  
-   **英文**：I ordered "send" for dinner.
-   > **解析**：本题在单元主题情境中复习表达 send。
+5. **中文**：你能把这碗汤退回厨房吗，因为汤完全凉了。  
+   **英文**：Could you send this soup back to the kitchen, as it is completely cold? (eat out).
+   > **解析**：send 为动词，意为“发送、送回”。send sth. back 意为“退回/送回”。
 
-6. **中文**：我的朋友选择了“spicy”。  
-   **英文**：My friend chose "spicy".
-   > **解析**：本题在单元主题情境中复习表达 spicy。
+6. **中文**：我更喜欢清淡的菜肴，因为我吃不了太辣的食物。  
+   **英文**：I prefer mild dishes because I cannot eat very spicy food (for here or to go).
+   > **解析**：spicy 为形容词，意为“辛辣的、加调味品的”，常修饰 food, curry, dish。
 
-7. **中文**：服务员重复了“taste”。  
-   **英文**：The waiter repeated "taste".
-   > **解析**：本题在单元主题情境中复习表达 taste。
+7. **中文**：大厨添加了新鲜香草，使汤尝起来浓郁美味。  
+   **英文**：The chef added fresh herbs to make the soup taste rich and delicious for get.
+   > **解析**：taste 在此处作系动词，意为“尝起来”，后接形容词（rich and delicious）作表语。
 
-8. **中文**：我们分享了一个关于“any”的故事。  
-   **英文**：We shared a story about "any".
-   > **解析**：本题在单元主题情境中复习表达 any。
+8. **中文**：你们的晚餐菜单上有素食选择吗？  
+   **英文**：Do you have any vegetarian options available on your dinner menu? for give.
+   > **解析**：any 为限定词/代词，在疑问句中修饰复数可数名词 options，意为“任何、一些”。
 
-9. **中文**：饭后，我记住了“for here or to go”。  
-   **英文**：After the meal, I remembered "for here or to go".
-   > **解析**：本题在单元主题情境中复习表达 for here or to go。
+9. **中文**：收银员问我的餐点是在这儿吃还是打包带走。  
+   **英文**：The cashier asked whether my order was for here or to go for groceries.
+   > **解析**：for here or to go 为餐饮常用习惯表达，意为“堂食还是外带”，用于询问就餐方式。
 
-10. **中文**：那顿饭以“herb”收尾。  
-   **英文**：That meal ended with "herb".
-   > **解析**：本题在单元主题情境中复习表达 herb。
+10. **中文**：这道烤鸡用大蒜和新鲜绿香草调味。  
+   **英文**：This roasted chicken is seasoned with garlic and fresh green herbs.
+   > **解析**：herb 为可数名词，意为“草本植物、香草”，常用复数形式 herbs 用于烹饪调味。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the restaurant, I asked about "allergy".
-   > **中文**：在餐厅里，我询问了“allergy”。
-2. The menu included "eat out".
-   > **中文**：菜单上有“eat out”。
-3. At the table, we talked about "give".
-   > **中文**：在餐桌旁，我们谈到了“give”。
-4. The cook mentioned "my treat".
-   > **中文**：厨师提到了“my treat”。
-5. I ordered "send" for dinner.
-   > **中文**：晚餐我点了“send”。
-6. My friend chose "spicy".
-   > **中文**：我的朋友选择了“spicy”。
-7. The waiter repeated "taste".
-   > **中文**：服务员重复了“taste”。
-8. We shared a story about "any".
-   > **中文**：我们分享了一个关于“any”的故事。
-9. After the meal, I remembered "for here or to go".
-   > **中文**：饭后，我记住了“for here or to go”。
-10. That meal ended with "herb".
-   > **中文**：那顿饭以“herb”收尾。
+1. Please inform the waiter if you have a peanut allergy before ordering.
+   > **中文**：点餐前如果您对花生过敏，请通知服务员。
+
+2. We usually eat out at our favorite Italian restaurant on Friday evenings for any.
+   > **中文**：周五晚上我们通常在我们最喜欢的意大利餐馆外出就餐。
+
+3. Could you give me the dessert menu after we clear the table? for casual.
+   > **中文**：清理完桌子后，你能把甜点菜单给我吗？
+
+4. Put your wallet away; tonight's dinner is my treat for disgusting.
+   > **中文**：把钱包收起来；今晚的晚饭我请客！
+
+5. Could you send this soup back to the kitchen, as it is completely cold? (eat out).
+   > **中文**：你能把这碗汤退回厨房吗，因为汤完全凉了。
+
+6. I prefer mild dishes because I cannot eat very spicy food (for here or to go).
+   > **中文**：我更喜欢清淡的菜肴，因为我吃不了太辣的食物。
+
+7. The chef added fresh herbs to make the soup taste rich and delicious for get.
+   > **中文**：大厨添加了新鲜香草，使汤尝起来浓郁美味。
+
+8. Do you have any vegetarian options available on your dinner menu? for give.
+   > **中文**：你们的晚餐菜单上有素食选择吗？
+
+9. The cashier asked whether my order was for here or to go for groceries.
+   > **中文**：收银员问我的餐点是在这儿吃还是打包带走。
+
+10. This roasted chicken is seasoned with garlic and fresh green herbs.
+   > **中文**：这道烤鸡用大蒜和新鲜绿香草调味。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ for here or to go 是美式点餐用语。send back = 退回（食物）。
 
 ### 1
 
-At the restaurant, I asked about "`____`".
+Please inform the waiter if you have a peanut `____` before ordering.
 
 - [x] allergy
-- [ ] my treat
-- [ ] taste
+- [ ] disgusting
+- [ ] get
 
-> **解析**：本题在单元主题情境中复习表达 allergy。
+> **解析**：allergy 为可数/不可数名词，意为“过敏”。常用搭配 have an allergy to sth. / peanut allergy（花生过敏）。
 
 ### 2
 
-The menu included "`____`".
+We usually eat out at our favorite Italian restaurant on Friday evenings for `____`.
 
-- [x] eat out
-- [ ] send
-- [ ] any
+- [x] any
+- [ ] eat out
+- [ ] give
 
-> **解析**：本题在单元主题情境中复习表达 eat out。
+> **解析**：eat out 为不及物动词短语，意为“在外面餐馆吃饭”。
 
 ### 3
 
-At the table, we talked about "`____`".
+Could you give me the dessert menu after we clear the table? for `____`.
 
-- [x] give
-- [ ] spicy
+- [x] casual
 - [ ] for here or to go
+- [ ] groceries
 
-> **解析**：本题在单元主题情境中复习表达 give。
+> **解析**：give 为及物动词，意为“给、递给”。常用结构 give sb. sth. 或 give sth. to sb.。
 
 ### 4
 
-The cook mentioned "`____`".
+Put your wallet away; tonight's dinner is my treat for `____`.
 
-- [x] my treat
-- [ ] taste
+- [x] disgusting
+- [ ] get
 - [ ] herb
 
-> **解析**：本题在单元主题情境中复习表达 my treat。
+> **解析**：my treat 为固定口语表达，意为“我请客/由我买单”，常用于餐馆结账场合。
 
 ### 5
 
-I ordered "`____`" for dinner.
+Could you send this soup back to the kitchen, as it is completely cold? (`____`).
 
-- [x] send
-- [ ] any
+- [x] eat out
+- [ ] give
 - [ ] allergy
 
-> **解析**：本题在单元主题情境中复习表达 send。
+> **解析**：send 为动词，意为“发送、送回”。send sth. back 意为“退回/送回”。
 
 ### 6
 
-My friend chose "`____`".
+I prefer mild dishes because I cannot eat very spicy food (`____`).
 
-- [x] spicy
-- [ ] for here or to go
-- [ ] eat out
+- [x] for here or to go
+- [ ] groceries
+- [ ] any
 
-> **解析**：本题在单元主题情境中复习表达 spicy。
+> **解析**：spicy 为形容词，意为“辛辣的、加调味品的”，常修饰 food, curry, dish。
 
 ### 7
 
-The waiter repeated "`____`".
+The chef added fresh herbs to make the soup taste rich and delicious for `____`.
 
-- [x] taste
+- [x] get
 - [ ] herb
-- [ ] give
+- [ ] casual
 
-> **解析**：本题在单元主题情境中复习表达 taste。
+> **解析**：taste 在此处作系动词，意为“尝起来”，后接形容词（rich and delicious）作表语。
 
 ### 8
 
-We shared a story about "`____`".
+Do you have any vegetarian options available on your dinner menu? for `____`.
 
-- [x] any
+- [x] give
 - [ ] allergy
-- [ ] my treat
+- [ ] disgusting
 
-> **解析**：本题在单元主题情境中复习表达 any。
+> **解析**：any 为限定词/代词，在疑问句中修饰复数可数名词 options，意为“任何、一些”。
 
 ### 9
 
-After the meal, I remembered "`____`".
+The cashier asked whether my order was for here or to go for `____`.
 
-- [x] for here or to go
+- [x] groceries
+- [ ] any
 - [ ] eat out
-- [ ] send
 
-> **解析**：本题在单元主题情境中复习表达 for here or to go。
+> **解析**：for here or to go 为餐饮常用习惯表达，意为“堂食还是外带”，用于询问就餐方式。
 
 ### 10
 
-That meal ended with "`____`".
+This roasted chicken is seasoned with garlic and fresh green `____`s.
 
 - [x] herb
-- [ ] give
-- [ ] spicy
+- [ ] casual
+- [ ] for here or to go
 
-> **解析**：本题在单元主题情境中复习表达 herb。
+> **解析**：herb 为可数名词，意为“草本植物、香草”，常用复数形式 herbs 用于烹饪调味。
 
 </quiz-cloze>

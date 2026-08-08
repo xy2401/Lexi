@@ -81,70 +81,79 @@ in theory 和 no longer 构成一种"理想与现实"的对比：In theory, it's
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“a number of”。  
-   **英文**：At work, we discussed "a number of".
-   > **解析**：本题在单元主题情境中复习表达 a number of。
+1. **中文**：最初，她与恐惧作斗争，但她从未放弃。  
+   **英文**：Initially, she struggled with fear, but she never gave up (a number of).
+   > **解析**：`initially` 是副词，意为“最初、起初”，置于句首作句首状语，引出初始状态。
 
-2. **中文**：同事提到了“find”。  
-   **英文**：My coworker mentioned "find".
-   > **解析**：本题在单元主题情境中复习表达 find。
+2. **中文**：许多人难以平衡日常生活与抱负。  
+   **英文**：Many people struggle to balance their daily life and ambition for action.
+   > **解析**：`struggle` 在此处作动词，搭配 `struggle to do sth` 表示“艰难地做某事”。
 
-3. **中文**：会议中，我听到了“initially”。  
-   **英文**：In the meeting, I heard "initially".
-   > **解析**：本题在单元主题情境中复习表达 initially。
+3. **中文**：在困难时期，你需要保持积极的态度。  
+   **英文**：You need to maintain a positive attitude during difficult times for affect.
+   > **解析**：`maintain` 作及物动词，意为“保持、维持”，宾语为 `a positive attitude`。
 
-4. **中文**：我把“maintain”写进了笔记。  
-   **英文**：I added "maintain" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 maintain。
+4. **中文**：战胜这一障碍对他来说是一个重大的里程碑。  
+   **英文**：Overcoming this obstacle was a significant milestone for him for find.
+   > **解析**：`significant` 是形容词，意为“重大的、有意义的”，作前置定语修饰 `milestone`。
 
-5. **中文**：经理解释了“reach”。  
-   **英文**：The manager explained "reach".
-   > **解析**：本题在单元主题情境中复习表达 reach。
+5. **中文**：理论上，这个计划听起来简单，但执行需要艰苦努力。  
+   **英文**：In theory, the plan sounds simple, but execution requires hard work for forward.
+   > **解析**：`in theory` 是介词短语，意为“理论上”，作句首状语，与实际对比。
 
-6. **中文**：团队今天用到了“single”。  
-   **英文**：Our team used "single" today.
-   > **解析**：本题在单元主题情境中复习表达 single。
+6. **中文**：立即采取行动是战胜拖延症的关键。  
+   **英文**：Taking immediate action is the key to overcoming procrastination for free.
+   > **解析**：`action` 是名词，搭配 `take action`（采取行动），动名词短语作主语。
 
-7. **中文**：午饭前，我们查看了“truly”。  
-   **英文**：Before lunch, we checked "truly".
-   > **解析**：本题在单元主题情境中复习表达 truly。
+7. **中文**：她被导师的话真正地鼓舞到了。  
+   **英文**：She was truly inspired by her mentor's words (in theory).
+   > **解析**：`truly` 是副词，意为“真正地、真诚地”，修饰过去分词 `inspired`。
 
-8. **中文**：同事询问了“action”。  
-   **英文**：My colleague asked about "action".
-   > **解析**：本题在单元主题情境中复习表达 action。
+8. **中文**：如果你每天致力于磨练技能，你一定会取得进步。  
+   **英文**：If you work at your skills every day, you will surely improve for initially.
+   > **解析**：`work at` 是短语动词，意为“致力于、努力改善（某事）”，后接名词 `your skills`。
 
-9. **中文**：报告中包含“free”。  
-   **英文**：The report included "free".
-   > **解析**：本题在单元主题情境中复习表达 free。
+9. **中文**：你练习得越多，就会变得越自信。  
+   **英文**：The more you practice, the more confident you will become for intelligent.
+   > **解析**：`the more..., the more...` 结构表示“越……，就越……”，是英语比较级双重句型。
 
-10. **中文**：一天结束时，我记住了“intelligent”。  
-   **英文**：At the end of the day, I remembered "intelligent".
-   > **解析**：本题在单元主题情境中复习表达 intelligent。
+10. **中文**：他努力工作，以实现今年的职业目标。  
+   **英文**：He worked hard to reach his professional goals this year for internal.
+   > **解析**：`reach` 作及物动词，意为“达到、实现”，搭配 `reach one's goals`（达成目标）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "a number of".
-   > **中文**：工作中，我们讨论了“a number of”。
-2. My coworker mentioned "find".
-   > **中文**：同事提到了“find”。
-3. In the meeting, I heard "initially".
-   > **中文**：会议中，我听到了“initially”。
-4. I added "maintain" to my notes.
-   > **中文**：我把“maintain”写进了笔记。
-5. The manager explained "reach".
-   > **中文**：经理解释了“reach”。
-6. Our team used "single" today.
-   > **中文**：团队今天用到了“single”。
-7. Before lunch, we checked "truly".
-   > **中文**：午饭前，我们查看了“truly”。
-8. My colleague asked about "action".
-   > **中文**：同事询问了“action”。
-9. The report included "free".
-   > **中文**：报告中包含“free”。
-10. At the end of the day, I remembered "intelligent".
-   > **中文**：一天结束时，我记住了“intelligent”。
+1. Initially, she struggled with fear, but she never gave up (a number of).
+   > **中文**：最初，她与恐惧作斗争，但她从未放弃。
+
+2. Many people struggle to balance their daily life and ambition for action.
+   > **中文**：许多人难以平衡日常生活与抱负。
+
+3. You need to maintain a positive attitude during difficult times for affect.
+   > **中文**：在困难时期，你需要保持积极的态度。
+
+4. Overcoming this obstacle was a significant milestone for him for find.
+   > **中文**：战胜这一障碍对他来说是一个重大的里程碑。
+
+5. In theory, the plan sounds simple, but execution requires hard work for forward.
+   > **中文**：理论上，这个计划听起来简单，但执行需要艰苦努力。
+
+6. Taking immediate action is the key to overcoming procrastination for free.
+   > **中文**：立即采取行动是战胜拖延症的关键。
+
+7. She was truly inspired by her mentor's words (in theory).
+   > **中文**：她被导师的话真正地鼓舞到了。
+
+8. If you work at your skills every day, you will surely improve for initially.
+   > **中文**：如果你每天致力于磨练技能，你一定会取得进步。
+
+9. The more you practice, the more confident you will become for intelligent.
+   > **中文**：你练习得越多，就会变得越自信。
+
+10. He worked hard to reach his professional goals this year for internal.
+   > **中文**：他努力工作，以实现今年的职业目标。
 
 </quiz-listening>
 
@@ -156,102 +165,102 @@ in theory 和 no longer 构成一种"理想与现实"的对比：In theory, it's
 
 ### 1
 
-At work, we discussed "`____`".
+Initially, she struggled with fear, but she never gave up (`____`).
 
 - [x] a number of
-- [ ] maintain
-- [ ] truly
+- [ ] find
+- [ ] in theory
 
-> **解析**：本题在单元主题情境中复习表达 a number of。
+> **解析**：`initially` 是副词，意为“最初、起初”，置于句首作句首状语，引出初始状态。
 
 ### 2
 
-My coworker mentioned "`____`".
+Many people struggle to balance their daily life and ambition for `____`.
 
-- [x] find
-- [ ] reach
-- [ ] action
+- [x] action
+- [ ] forward
+- [ ] initially
 
-> **解析**：本题在单元主题情境中复习表达 find。
+> **解析**：`struggle` 在此处作动词，搭配 `struggle to do sth` 表示“艰难地做某事”。
 
 ### 3
 
-In the meeting, I heard "`____`".
+You need to maintain a positive attitude during difficult times for `____`.
 
-- [x] initially
-- [ ] single
+- [x] affect
 - [ ] free
+- [ ] intelligent
 
-> **解析**：本题在单元主题情境中复习表达 initially。
+> **解析**：`maintain` 作及物动词，意为“保持、维持”，宾语为 `a positive attitude`。
 
 ### 4
 
-I added "`____`" to my notes.
+Overcoming this obstacle was a significant milestone for him for `____`.
 
-- [x] maintain
-- [ ] truly
-- [ ] intelligent
+- [x] find
+- [ ] in theory
+- [ ] internal
 
-> **解析**：本题在单元主题情境中复习表达 maintain。
+> **解析**：`significant` 是形容词，意为“重大的、有意义的”，作前置定语修饰 `milestone`。
 
 ### 5
 
-The manager explained "`____`".
+In theory, the plan sounds simple, but execution requires hard work for `____`.
 
-- [x] reach
-- [ ] action
+- [x] forward
+- [ ] initially
 - [ ] a number of
 
-> **解析**：本题在单元主题情境中复习表达 reach。
+> **解析**：`in theory` 是介词短语，意为“理论上”，作句首状语，与实际对比。
 
 ### 6
 
-Our team used "`____`" today.
+Taking immediate action is the key to overcoming procrastination for `____`.
 
-- [x] single
-- [ ] free
-- [ ] find
+- [x] free
+- [ ] intelligent
+- [ ] action
 
-> **解析**：本题在单元主题情境中复习表达 single。
+> **解析**：`action` 是名词，搭配 `take action`（采取行动），动名词短语作主语。
 
 ### 7
 
-Before lunch, we checked "`____`".
+She was truly inspired by her mentor's words (`____`).
 
-- [x] truly
-- [ ] intelligent
-- [ ] initially
+- [x] in theory
+- [ ] internal
+- [ ] affect
 
-> **解析**：本题在单元主题情境中复习表达 truly。
+> **解析**：`truly` 是副词，意为“真正地、真诚地”，修饰过去分词 `inspired`。
 
 ### 8
 
-My colleague asked about "`____`".
+If you work at your skills every day, you will surely improve for `____`.
 
-- [x] action
+- [x] initially
 - [ ] a number of
-- [ ] maintain
+- [ ] find
 
-> **解析**：本题在单元主题情境中复习表达 action。
+> **解析**：`work at` 是短语动词，意为“致力于、努力改善（某事）”，后接名词 `your skills`。
 
 ### 9
 
-The report included "`____`".
+The more you practice, the more confident you will become for `____`.
 
-- [x] free
-- [ ] find
-- [ ] reach
+- [x] intelligent
+- [ ] action
+- [ ] forward
 
-> **解析**：本题在单元主题情境中复习表达 free。
+> **解析**：`the more..., the more...` 结构表示“越……，就越……”，是英语比较级双重句型。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+He worked hard to reach his professional goals this year for `____`.
 
-- [x] intelligent
-- [ ] initially
-- [ ] single
+- [x] internal
+- [ ] affect
+- [ ] free
 
-> **解析**：本题在单元主题情境中复习表达 intelligent。
+> **解析**：`reach` 作及物动词，意为“达到、实现”，搭配 `reach one's goals`（达成目标）。
 
 </quiz-cloze>

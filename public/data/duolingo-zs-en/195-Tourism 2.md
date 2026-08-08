@@ -53,70 +53,79 @@ been 和 there's been 提示现在完成时的使用。go on, go through, get in
 
 <quiz-sentence-builder>
 
-1. **中文**：在家里，我们谈到了“agency”。  
-   **英文**：At home, we talked about "agency".
-   > **解析**：本题在单元主题情境中复习表达 agency。
+1. **中文**：在繁忙的休息室等待时，请照看好你的行李。  
+   **英文**：Please keep an eye on your luggage while waiting in the busy lounge for agency.
+   > **解析**：keep an eye on 常用动词短语，意为“照看；留意；密切注意”。
 
-2. **中文**：家人提到了“crew”。  
-   **英文**：My family mentioned "crew".
-   > **解析**：本题在单元主题情境中复习表达 crew。
+2. **中文**：提醒乘客在下车前带齐所有个人物品。  
+   **英文**：Passengers are reminded to take all personal belongings before getting off the bus for atmosphere.
+   > **解析**：belongings 复数名词，意为“随身物品；财产”，始终用复数。
 
-3. **中文**：在房间里，我注意到了“go through”。  
-   **英文**：In the room, I noticed "go through".
-   > **解析**：本题在单元主题情境中复习表达 go through。
+3. **中文**：我们必须在预定起飞前三十分钟到达登机口。  
+   **英文**：We must reach the boarding gate thirty minutes prior to scheduled departure for been.
+   > **解析**：departure 可数/不可数名词，意为“离开；出发；起飞”，来自动词 depart。
 
-4. **中文**：我们在家里用到了“how far”。  
-   **英文**：We used "how far" at home.
-   > **解析**：本题在单元主题情境中复习表达 how far。
+4. **中文**：从山顶上，游客们欣赏到了整个山谷壮观的景色。  
+   **英文**：From the mountain peak, tourists enjoyed a spectacular view of the entire valley for cave.
+   > **解析**：spectacular 形容词，意为“壮观的；引人入胜的”。
 
-5. **中文**：邻居询问了“life jacket”。  
-   **英文**：My neighbor asked about "life jacket".
-   > **解析**：本题在单元主题情境中复习表达 life jacket。
+5. **中文**：沿海火车之旅因其令人惊叹的自然风光而闻名。  
+   **英文**：The coastal train ride is famous for its stunning natural scenery for crew.
+   > **解析**：scenery 不可数名词，意为“风景；景色”，注意不可加 -s。
 
-6. **中文**：我在门边写下了“spa”。  
-   **英文**：I wrote down "spa" by the door.
-   > **解析**：本题在单元主题情境中复习表达 spa。
+6. **中文**：导游带领我们小组进入了一个古老的石灰岩溶洞。  
+   **英文**：The tour guide led our group into an ancient limestone cave for departure.
+   > **解析**：cave 可数名词，意为“山洞；溶洞”。
 
-7. **中文**：晚饭后，我们重复了“tourism”。  
-   **英文**：After dinner, we repeated "tourism".
-   > **解析**：本题在单元主题情境中复习表达 tourism。
+7. **中文**：这座宁静的海滨度假村有着令人放松且热情的氛围。  
+   **英文**：The quiet seaside resort has a relaxing and welcoming atmosphere (get into).
+   > **解析**：atmosphere 可数/不可数名词，意为“气氛；氛围；大气层”。
 
-8. **中文**：家庭故事里包含“atmosphere”。  
-   **英文**：The family story included "atmosphere".
-   > **解析**：本题在单元主题情境中复习表达 atmosphere。
+8. **中文**：登船之前，每位游客都必须穿上安全的救生衣。  
+   **英文**：Before boarding the boat, every tourist must put on a secure life jacket (go on).
+   > **解析**：life jacket 可数名词短语，意为“救生衣”。
 
-9. **中文**：睡前，我记住了“departure”。  
-   **英文**：Before bed, I remembered "departure".
-   > **解析**：本题在单元主题情境中复习表达 departure。
+9. **中文**：一些游客选择留在酒店，在泳池边休息。  
+   **英文**：Some tourists chose to stay behind at the hotel to rest by the pool (go through).
+   > **解析**：stay behind 短语动词，意为“留下来；不离开”。
 
-10. **中文**：那个夜晚以“golf course”收尾。  
-   **英文**：That evening ended with "golf course".
-   > **解析**：本题在单元主题情境中复习表达 golf course。
+10. **中文**：在我们开航前，友善船员小组给出了清晰的安全指示。  
+   **英文**：The friendly boat crew gave clear safety instructions before we set sail (golf course).
+   > **解析**：crew 集合名词，意为“全体船员/机组人员”，可作单数或复数。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At home, we talked about "agency".
-   > **中文**：在家里，我们谈到了“agency”。
-2. My family mentioned "crew".
-   > **中文**：家人提到了“crew”。
-3. In the room, I noticed "go through".
-   > **中文**：在房间里，我注意到了“go through”。
-4. We used "how far" at home.
-   > **中文**：我们在家里用到了“how far”。
-5. My neighbor asked about "life jacket".
-   > **中文**：邻居询问了“life jacket”。
-6. I wrote down "spa" by the door.
-   > **中文**：我在门边写下了“spa”。
-7. After dinner, we repeated "tourism".
-   > **中文**：晚饭后，我们重复了“tourism”。
-8. The family story included "atmosphere".
-   > **中文**：家庭故事里包含“atmosphere”。
-9. Before bed, I remembered "departure".
-   > **中文**：睡前，我记住了“departure”。
-10. That evening ended with "golf course".
-   > **中文**：那个夜晚以“golf course”收尾。
+1. Please keep an eye on your luggage while waiting in the busy lounge for agency.
+   > **中文**：在繁忙的休息室等待时，请照看好你的行李。
+
+2. Passengers are reminded to take all personal belongings before getting off the bus for atmosphere.
+   > **中文**：提醒乘客在下车前带齐所有个人物品。
+
+3. We must reach the boarding gate thirty minutes prior to scheduled departure for been.
+   > **中文**：我们必须在预定起飞前三十分钟到达登机口。
+
+4. From the mountain peak, tourists enjoyed a spectacular view of the entire valley for cave.
+   > **中文**：从山顶上，游客们欣赏到了整个山谷壮观的景色。
+
+5. The coastal train ride is famous for its stunning natural scenery for crew.
+   > **中文**：沿海火车之旅因其令人惊叹的自然风光而闻名。
+
+6. The tour guide led our group into an ancient limestone cave for departure.
+   > **中文**：导游带领我们小组进入了一个古老的石灰岩溶洞。
+
+7. The quiet seaside resort has a relaxing and welcoming atmosphere (get into).
+   > **中文**：这座宁静的海滨度假村有着令人放松且热情的氛围。
+
+8. Before boarding the boat, every tourist must put on a secure life jacket (go on).
+   > **中文**：登船之前，每位游客都必须穿上安全的救生衣。
+
+9. Some tourists chose to stay behind at the hotel to rest by the pool (go through).
+   > **中文**：一些游客选择留在酒店，在泳池边休息。
+
+10. The friendly boat crew gave clear safety instructions before we set sail (golf course).
+   > **中文**：在我们开航前，友善船员小组给出了清晰的安全指示。
 
 </quiz-listening>
 
@@ -128,102 +137,102 @@ been 和 there's been 提示现在完成时的使用。go on, go through, get in
 
 ### 1
 
-At home, we talked about "`____`".
+Please keep an eye on your luggage while waiting in the busy lounge for `____`.
 
 - [x] agency
-- [ ] how far
-- [ ] tourism
+- [ ] cave
+- [ ] get into
 
-> **解析**：本题在单元主题情境中复习表达 agency。
+> **解析**：keep an eye on 常用动词短语，意为“照看；留意；密切注意”。
 
 ### 2
 
-My family mentioned "`____`".
+Passengers are reminded to take all personal belongings before getting off the bus for `____`.
 
-- [x] crew
-- [ ] life jacket
-- [ ] atmosphere
+- [x] atmosphere
+- [ ] crew
+- [ ] go on
 
-> **解析**：本题在单元主题情境中复习表达 crew。
+> **解析**：belongings 复数名词，意为“随身物品；财产”，始终用复数。
 
 ### 3
 
-In the room, I noticed "`____`".
+We must reach the boarding gate thirty minutes prior to scheduled departure for `____`.
 
-- [x] go through
-- [ ] spa
+- [x] been
 - [ ] departure
+- [ ] go through
 
-> **解析**：本题在单元主题情境中复习表达 go through。
+> **解析**：departure 可数/不可数名词，意为“离开；出发；起飞”，来自动词 depart。
 
 ### 4
 
-We used "`____`" at home.
+From the mountain peak, tourists enjoyed a spectacular view of the entire valley for `____`.
 
-- [x] how far
-- [ ] tourism
+- [x] cave
+- [ ] get into
 - [ ] golf course
 
-> **解析**：本题在单元主题情境中复习表达 how far。
+> **解析**：spectacular 形容词，意为“壮观的；引人入胜的”。
 
 ### 5
 
-My neighbor asked about "`____`".
+The coastal train ride is famous for its stunning natural scenery for `____`.
 
-- [x] life jacket
-- [ ] atmosphere
+- [x] crew
+- [ ] go on
 - [ ] agency
 
-> **解析**：本题在单元主题情境中复习表达 life jacket。
+> **解析**：scenery 不可数名词，意为“风景；景色”，注意不可加 -s。
 
 ### 6
 
-I wrote down "`____`" by the door.
+The tour guide led our group into an ancient limestone cave for `____`.
 
-- [x] spa
-- [ ] departure
-- [ ] crew
+- [x] departure
+- [ ] go through
+- [ ] atmosphere
 
-> **解析**：本题在单元主题情境中复习表达 spa。
+> **解析**：cave 可数名词，意为“山洞；溶洞”。
 
 ### 7
 
-After dinner, we repeated "`____`".
+The quiet seaside resort has a relaxing and welcoming atmosphere (`____`).
 
-- [x] tourism
+- [x] get into
 - [ ] golf course
-- [ ] go through
+- [ ] been
 
-> **解析**：本题在单元主题情境中复习表达 tourism。
+> **解析**：atmosphere 可数/不可数名词，意为“气氛；氛围；大气层”。
 
 ### 8
 
-The family story included "`____`".
+Before boarding the boat, every tourist must put on a secure life jacket (`____`).
 
-- [x] atmosphere
+- [x] go on
 - [ ] agency
-- [ ] how far
+- [ ] cave
 
-> **解析**：本题在单元主题情境中复习表达 atmosphere。
+> **解析**：life jacket 可数名词短语，意为“救生衣”。
 
 ### 9
 
-Before bed, I remembered "`____`".
+Some tourists chose to stay behind at the hotel to rest by the pool (`____`).
 
-- [x] departure
+- [x] go through
+- [ ] atmosphere
 - [ ] crew
-- [ ] life jacket
 
-> **解析**：本题在单元主题情境中复习表达 departure。
+> **解析**：stay behind 短语动词，意为“留下来；不离开”。
 
 ### 10
 
-That evening ended with "`____`".
+The friendly boat crew gave clear safety instructions before we set sail (`____`).
 
 - [x] golf course
-- [ ] go through
-- [ ] spa
+- [ ] been
+- [ ] departure
 
-> **解析**：本题在单元主题情境中复习表达 golf course。
+> **解析**：crew 集合名词，意为“全体船员/机组人员”，可作单数或复数。
 
 </quiz-cloze>

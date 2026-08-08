@@ -79,70 +79,79 @@ should have（本该）表达后悔和责备。fall for（上当）、speak up�
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“asking”。  
-   **英文**：In this situation, I heard "asking".
-   > **解析**：本题在单元主题情境中复习表达 asking。
+1. **中文**：要小心提议快速发财的可疑邮件，因为它们通常是诈骗。  
+   **英文**：Be careful with suspicious emails offering quick money, as they are usually a scam for asking.
+   > **解析**：`scam` 是名词，意为“骗局、诈骗”，在句中作表语。
 
-2. **中文**：同伴解释了“criminal”。  
-   **英文**：My partner explained "criminal".
-   > **解析**：本题在单元主题情境中复习表达 criminal。
+2. **中文**：不要轻信承诺离谱高回报的在线投资陷阱。  
+   **英文**：Do not fall for online investment tricks that promise absurdly high returns for ban.
+   > **解析**：`fall for sth` 是短语动词，意为“上……的当、轻信……”。
 
-3. **中文**：我们一起谈到了“enough”。  
-   **英文**：We talked about "enough" together.
-   > **解析**：本题在单元主题情境中复习表达 enough。
+3. **中文**：该促销信息包含关于费用的误导性信息。  
+   **英文**：The promotional message contained misleading information about the fees for bitter.
+   > **解析**：`misleading` 是形容词，意为“误导性的、引入歧途的”，修饰 `information`。
 
-4. **中文**：我记下了“gullible”。  
-   **英文**：I wrote down "gullible".
-   > **解析**：本题在单元主题情境中复习表达 gullible。
+4. **中文**：诈骗犯经常创建模仿合法银行门户网站的假冒网站。  
+   **英文**：Scammers often create fake websites that copy legitimate banking portals for considerable.
+   > **解析**：`fake` 是形容词，意为“假冒的、伪造的”，修饰 `websites`。
 
-5. **中文**：例句中包含“misleading”。  
-   **英文**：The example included "misleading".
-   > **解析**：本题在单元主题情境中复习表达 misleading。
+5. **中文**：老年人常被诈骗分子针对，因为他们可能容易受骗。  
+   **英文**：Elderly people are often targeted by scammers because they can be gullible for criminal.
+   > **解析**：`gullible` 是形容词，意为“轻信的、易受骗的”，在系动词后作表语。
 
-6. **中文**：我询问了“so-called”。  
-   **英文**：I asked about "so-called".
-   > **解析**：本题在单元主题情境中复习表达 so-called。
+6. **中文**：你在转账前本应该核实发件人的电子邮件地址的。  
+   **英文**：You should have verified the sender's email address before transferring money for desperate.
+   > **解析**：`should have + 过去分词` 表示对过去事情的指责或遗憾（本应该做）。
 
-7. **中文**：我们在句子中用到了“unhelpful”。  
-   **英文**：We used "unhelpful" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 unhelpful。
+7. **中文**：安全专家发布了关于新型网络钓鱼诈骗的紧急警告。  
+   **英文**：Security experts issued an urgent warning about the new phishing scam for dishonest.
+   > **解析**：`warning` 是名词，意为“警告、警示”，搭配 `issue a warning`。
 
-8. **中文**：朋友重复了“ban”。  
-   **英文**：My friend repeated "ban".
-   > **解析**：本题在单元主题情境中复习表达 ban。
+8. **中文**：应对不诚实的来电者需要保持警惕与谨慎。  
+   **英文**：Dealing with dishonest callers requires staying vigilant and cautious for enough.
+   > **解析**：`dishonest` 是形容词，意为“不诚实的、不正直的”。
 
-9. **中文**：后来，我记住了“desperate”。  
-   **英文**：Later, I remembered "desperate".
-   > **解析**：本题在单元主题情境中复习表达 desperate。
+9. **中文**：受害者在意识到自己失去了所有积蓄后陷入了震惊。  
+   **英文**：The victim was in shock after realizing she had lost all her savings for fake.
+   > **解析**：`be in shock` 意为“处于震惊状态中”。
 
-10. **中文**：这个小故事以“fall for”收尾。  
-   **英文**：The short story ended with "fall for".
-   > **解析**：本题在单元主题情境中复习表达 fall for。
+10. **中文**：如果你注意到可疑活动，你应该大胆说出来并通知警方。  
+   **英文**：If you notice suspicious activity, you should speak up and inform the police (fall for).
+   > **解析**：`speak up` 是短语动词，意为“大胆说出、发言”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "asking".
-   > **中文**：在这个情境中，我听到了“asking”。
-2. My partner explained "criminal".
-   > **中文**：同伴解释了“criminal”。
-3. We talked about "enough" together.
-   > **中文**：我们一起谈到了“enough”。
-4. I wrote down "gullible".
-   > **中文**：我记下了“gullible”。
-5. The example included "misleading".
-   > **中文**：例句中包含“misleading”。
-6. I asked about "so-called".
-   > **中文**：我询问了“so-called”。
-7. We used "unhelpful" in a sentence.
-   > **中文**：我们在句子中用到了“unhelpful”。
-8. My friend repeated "ban".
-   > **中文**：朋友重复了“ban”。
-9. Later, I remembered "desperate".
-   > **中文**：后来，我记住了“desperate”。
-10. The short story ended with "fall for".
-   > **中文**：这个小故事以“fall for”收尾。
+1. Be careful with suspicious emails offering quick money, as they are usually a scam for asking.
+   > **中文**：要小心提议快速发财的可疑邮件，因为它们通常是诈骗。
+
+2. Do not fall for online investment tricks that promise absurdly high returns for ban.
+   > **中文**：不要轻信承诺离谱高回报的在线投资陷阱。
+
+3. The promotional message contained misleading information about the fees for bitter.
+   > **中文**：该促销信息包含关于费用的误导性信息。
+
+4. Scammers often create fake websites that copy legitimate banking portals for considerable.
+   > **中文**：诈骗犯经常创建模仿合法银行门户网站的假冒网站。
+
+5. Elderly people are often targeted by scammers because they can be gullible for criminal.
+   > **中文**：老年人常被诈骗分子针对，因为他们可能容易受骗。
+
+6. You should have verified the sender's email address before transferring money for desperate.
+   > **中文**：你在转账前本应该核实发件人的电子邮件地址的。
+
+7. Security experts issued an urgent warning about the new phishing scam for dishonest.
+   > **中文**：安全专家发布了关于新型网络钓鱼诈骗的紧急警告。
+
+8. Dealing with dishonest callers requires staying vigilant and cautious for enough.
+   > **中文**：应对不诚实的来电者需要保持警惕与谨慎。
+
+9. The victim was in shock after realizing she had lost all her savings for fake.
+   > **中文**：受害者在意识到自己失去了所有积蓄后陷入了震惊。
+
+10. If you notice suspicious activity, you should speak up and inform the police (fall for).
+   > **中文**：如果你注意到可疑活动，你应该大胆说出来并通知警方。
 
 </quiz-listening>
 
@@ -154,102 +163,102 @@ should have（本该）表达后悔和责备。fall for（上当）、speak up�
 
 ### 1
 
-In this situation, I heard "`____`".
+Be careful with suspicious emails offering quick money, as they are usually a scam for `____`.
 
 - [x] asking
-- [ ] gullible
-- [ ] unhelpful
+- [ ] considerable
+- [ ] dishonest
 
-> **解析**：本题在单元主题情境中复习表达 asking。
+> **解析**：`scam` 是名词，意为“骗局、诈骗”，在句中作表语。
 
 ### 2
 
-My partner explained "`____`".
+Do not fall for online investment tricks that promise absurdly high returns for `____`.
 
-- [x] criminal
-- [ ] misleading
-- [ ] ban
+- [x] ban
+- [ ] criminal
+- [ ] enough
 
-> **解析**：本题在单元主题情境中复习表达 criminal。
+> **解析**：`fall for sth` 是短语动词，意为“上……的当、轻信……”。
 
 ### 3
 
-We talked about "`____`" together.
+The promotional message contained misleading information about the fees for `____`.
 
-- [x] enough
-- [ ] so-called
+- [x] bitter
 - [ ] desperate
+- [ ] fake
 
-> **解析**：本题在单元主题情境中复习表达 enough。
+> **解析**：`misleading` 是形容词，意为“误导性的、引入歧途的”，修饰 `information`。
 
 ### 4
 
-I wrote down "`____`".
+Scammers often create fake websites that copy legitimate banking portals for `____`.
 
-- [x] gullible
-- [ ] unhelpful
+- [x] considerable
+- [ ] dishonest
 - [ ] fall for
 
-> **解析**：本题在单元主题情境中复习表达 gullible。
+> **解析**：`fake` 是形容词，意为“假冒的、伪造的”，修饰 `websites`。
 
 ### 5
 
-The example included "`____`".
+Elderly people are often targeted by scammers because they can be gullible for `____`.
 
-- [x] misleading
-- [ ] ban
+- [x] criminal
+- [ ] enough
 - [ ] asking
 
-> **解析**：本题在单元主题情境中复习表达 misleading。
+> **解析**：`gullible` 是形容词，意为“轻信的、易受骗的”，在系动词后作表语。
 
 ### 6
 
-I asked about "`____`".
+You should have verified the sender's email address before transferring money for `____`.
 
-- [x] so-called
-- [ ] desperate
-- [ ] criminal
+- [x] desperate
+- [ ] fake
+- [ ] ban
 
-> **解析**：本题在单元主题情境中复习表达 so-called。
+> **解析**：`should have + 过去分词` 表示对过去事情的指责或遗憾（本应该做）。
 
 ### 7
 
-We used "`____`" in a sentence.
+Security experts issued an urgent warning about the new phishing scam for `____`.
 
-- [x] unhelpful
+- [x] dishonest
 - [ ] fall for
-- [ ] enough
+- [ ] bitter
 
-> **解析**：本题在单元主题情境中复习表达 unhelpful。
+> **解析**：`warning` 是名词，意为“警告、警示”，搭配 `issue a warning`。
 
 ### 8
 
-My friend repeated "`____`".
+Dealing with dishonest callers requires staying vigilant and cautious for `____`.
 
-- [x] ban
+- [x] enough
 - [ ] asking
-- [ ] gullible
+- [ ] considerable
 
-> **解析**：本题在单元主题情境中复习表达 ban。
+> **解析**：`dishonest` 是形容词，意为“不诚实的、不正直的”。
 
 ### 9
 
-Later, I remembered "`____`".
+The victim was in shock after realizing she had lost all her savings for `____`.
 
-- [x] desperate
+- [x] fake
+- [ ] ban
 - [ ] criminal
-- [ ] misleading
 
-> **解析**：本题在单元主题情境中复习表达 desperate。
+> **解析**：`be in shock` 意为“处于震惊状态中”。
 
 ### 10
 
-The short story ended with "`____`".
+If you notice suspicious activity, you should speak up and inform the police (`____`).
 
 - [x] fall for
-- [ ] enough
-- [ ] so-called
+- [ ] bitter
+- [ ] desperate
 
-> **解析**：本题在单元主题情境中复习表达 fall for。
+> **解析**：`speak up` 是短语动词，意为“大胆说出、发言”。
 
 </quiz-cloze>

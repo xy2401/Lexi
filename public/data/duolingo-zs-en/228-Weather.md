@@ -63,70 +63,79 @@ clear up, compared to, ever, find it, flood, freezing, frost, get cold, humidity
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“clear up”。  
-   **英文**：In this situation, I heard "clear up".
-   > **解析**：本题在单元主题情境中复习表达 clear up。
+1. **中文**：根据天气预报，强降雨应该会在中午前后放晴。  
+   **英文**：According to the weather forecast, the heavy rain should clear up by midday.
+   > **解析**：`clear up` 不及物动词短语，意为“（天气）放晴；转晴”。
 
-2. **中文**：同伴解释了“flood”。  
-   **英文**：My partner explained "flood".
-   > **解析**：本题在单元主题情境中复习表达 flood。
+2. **中文**：持续的倾盆大雨导致附近的河流泛滥并淹没了街道。  
+   **英文**：Continuous torrential rainfall caused the nearby river to overflow and flood the streets (compared to).
+   > **解析**：`flood` 动词，意为“淹没；泛滥”；亦可作可数/不可数名词（洪水）。
 
-3. **中文**：我们一起谈到了“get cold”。  
-   **英文**：We talked about "get cold" together.
-   > **解析**：本题在单元主题情境中复习表达 get cold。
+3. **中文**：务必带上一件厚外套，因为太阳落山后天气会变冷。  
+   **英文**：Make sure to bring a thick coat because it will get cold after the sun sets for ever.
+   > **解析**：`get cold` 为“连系动词 `get` + 形容词 `cold`”，意为“变冷；天气转凉”。
 
-4. **中文**：我记下了“it's”。  
-   **英文**：I wrote down "it's".
-   > **解析**：本题在单元主题情境中复习表达 it's。
+4. **中文**：看看窗外；山上正下着大雪。  
+   **英文**：Look outside the window; it's snowing heavily on the mountains (find it).
+   > **解析**：`it's` 为 `it is` 或 `it has` 的缩写。在天气表达中作无人称主语 `it`。
 
-5. **中文**：例句中包含“seasonal”。  
-   **英文**：The example included "seasonal".
-   > **解析**：本题在单元主题情境中复习表达 seasonal。
+5. **中文**：这家餐厅定期更新菜单，以主打新鲜的季节性食材。  
+   **英文**：The restaurant updates its menu regularly to feature fresh seasonal ingredients for flood.
+   > **解析**：`seasonal` 形容词，意为“季节性的；随季节变化的”。`seasonal ingredients`（季节性食材）。
 
-6. **中文**：我询问了“snow day”。  
-   **英文**：I asked about "snow day".
-   > **解析**：本题在单元主题情境中复习表达 snow day。
+6. **中文**：今天学校停课了，所以所有的孩子都为意外的雪假感到激动。  
+   **英文**：School was cancelled today, so all the children were excited for an unexpected snow day for freezing.
+   > **解析**：`snow day` 可数名词短语，意为“因大雪停课/停工的假”。
 
-7. **中文**：我们在句子中用到了“turn”。  
-   **英文**：We used "turn" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 turn。
+7. **中文**：晚秋期间，枫树上的叶子变成了鲜红色。  
+   **英文**：During late autumn, the leaves on the maple trees turn bright red for frost.
+   > **解析**：`turn` 连系动词，意为“变成；转变为”，后接颜色形容词 `bright red`。
 
-8. **中文**：朋友重复了“compared to”。  
-   **英文**：My friend repeated "compared to".
-   > **解析**：本题在单元主题情境中复习表达 compared to。
+8. **中文**：与结冰的北方相比，南方城市的冬天相对温和。  
+   **英文**：Winters in southern cities are relatively mild compared to the frozen north (get cold).
+   > **解析**：`compared to` 为介词短语，意为“与……相比”，在句中作状语。
 
-9. **中文**：后来，我记住了“freezing”。  
-   **英文**：Later, I remembered "freezing".
-   > **解析**：本题在单元主题情境中复习表达 freezing。
+9. **中文**：今天早晨吹过湖面来的风简直冻死人了/极度寒冷。  
+   **英文**：The wind blowing off the lake was absolutely freezing this morning for humidity.
+   > **解析**：`freezing` 形容词，意为“极冷的；严寒的”。常被 `absolutely / completely` 修饰。
 
-10. **中文**：这个小故事以“issue”收尾。  
-   **英文**：The short story ended with "issue".
-   > **解析**：本题在单元主题情境中复习表达 issue。
+10. **中文**：气候变化是一个关键的全球性议题，需要所有国家的立即关注。  
+   **英文**：Climate change is a critical global issue that requires immediate attention from all countries.
+   > **解析**：`issue` 可数名词，意为“议题；问题；焦点”。`global issue`（全球性问题）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "clear up".
-   > **中文**：在这个情境中，我听到了“clear up”。
-2. My partner explained "flood".
-   > **中文**：同伴解释了“flood”。
-3. We talked about "get cold" together.
-   > **中文**：我们一起谈到了“get cold”。
-4. I wrote down "it's".
-   > **中文**：我记下了“it's”。
-5. The example included "seasonal".
-   > **中文**：例句中包含“seasonal”。
-6. I asked about "snow day".
-   > **中文**：我询问了“snow day”。
-7. We used "turn" in a sentence.
-   > **中文**：我们在句子中用到了“turn”。
-8. My friend repeated "compared to".
-   > **中文**：朋友重复了“compared to”。
-9. Later, I remembered "freezing".
-   > **中文**：后来，我记住了“freezing”。
-10. The short story ended with "issue".
-   > **中文**：这个小故事以“issue”收尾。
+1. According to the weather forecast, the heavy rain should clear up by midday.
+   > **中文**：根据天气预报，强降雨应该会在中午前后放晴。
+
+2. Continuous torrential rainfall caused the nearby river to overflow and flood the streets (compared to).
+   > **中文**：持续的倾盆大雨导致附近的河流泛滥并淹没了街道。
+
+3. Make sure to bring a thick coat because it will get cold after the sun sets for ever.
+   > **中文**：务必带上一件厚外套，因为太阳落山后天气会变冷。
+
+4. Look outside the window; it's snowing heavily on the mountains (find it).
+   > **中文**：看看窗外；山上正下着大雪。
+
+5. The restaurant updates its menu regularly to feature fresh seasonal ingredients for flood.
+   > **中文**：这家餐厅定期更新菜单，以主打新鲜的季节性食材。
+
+6. School was cancelled today, so all the children were excited for an unexpected snow day for freezing.
+   > **中文**：今天学校停课了，所以所有的孩子都为意外的雪假感到激动。
+
+7. During late autumn, the leaves on the maple trees turn bright red for frost.
+   > **中文**：晚秋期间，枫树上的叶子变成了鲜红色。
+
+8. Winters in southern cities are relatively mild compared to the frozen north (get cold).
+   > **中文**：与结冰的北方相比，南方城市的冬天相对温和。
+
+9. The wind blowing off the lake was absolutely freezing this morning for humidity.
+   > **中文**：今天早晨吹过湖面来的风简直冻死人了/极度寒冷。
+
+10. Climate change is a critical global issue that requires immediate attention from all countries.
+   > **中文**：气候变化是一个关键的全球性议题，需要所有国家的立即关注。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ clear up, compared to, ever, find it, flood, freezing, frost, get cold, humidity
 
 ### 1
 
-In this situation, I heard "`____`".
+According to the weather forecast, the heavy rain should `____` by midday.
 
 - [x] clear up
-- [ ] it's
-- [ ] turn
+- [ ] find it
+- [ ] frost
 
-> **解析**：本题在单元主题情境中复习表达 clear up。
+> **解析**：`clear up` 不及物动词短语，意为“（天气）放晴；转晴”。
 
 ### 2
 
-My partner explained "`____`".
+Continuous torrential rainfall caused the nearby river to overflow and flood the streets (`____`).
 
-- [x] flood
-- [ ] seasonal
-- [ ] compared to
+- [x] compared to
+- [ ] flood
+- [ ] get cold
 
-> **解析**：本题在单元主题情境中复习表达 flood。
+> **解析**：`flood` 动词，意为“淹没；泛滥”；亦可作可数/不可数名词（洪水）。
 
 ### 3
 
-We talked about "`____`" together.
+Make sure to bring a thick coat because it will get cold after the sun sets for `____`.
 
-- [x] get cold
-- [ ] snow day
+- [x] ever
 - [ ] freezing
+- [ ] humidity
 
-> **解析**：本题在单元主题情境中复习表达 get cold。
+> **解析**：`get cold` 为“连系动词 `get` + 形容词 `cold`”，意为“变冷；天气转凉”。
 
 ### 4
 
-I wrote down "`____`".
+Look outside the window; it's snowing heavily on the mountains (`____`).
 
-- [x] it's
-- [ ] turn
+- [x] find it
+- [ ] frost
 - [ ] issue
 
-> **解析**：本题在单元主题情境中复习表达 it's。
+> **解析**：`it's` 为 `it is` 或 `it has` 的缩写。在天气表达中作无人称主语 `it`。
 
 ### 5
 
-The example included "`____`".
+The restaurant updates its menu regularly to feature fresh seasonal ingredients for `____`.
 
-- [x] seasonal
-- [ ] compared to
+- [x] flood
+- [ ] get cold
 - [ ] clear up
 
-> **解析**：本题在单元主题情境中复习表达 seasonal。
+> **解析**：`seasonal` 形容词，意为“季节性的；随季节变化的”。`seasonal ingredients`（季节性食材）。
 
 ### 6
 
-I asked about "`____`".
+School was cancelled today, so all the children were excited for an unexpected snow day for `____`.
 
-- [x] snow day
-- [ ] freezing
-- [ ] flood
+- [x] freezing
+- [ ] humidity
+- [ ] compared to
 
-> **解析**：本题在单元主题情境中复习表达 snow day。
+> **解析**：`snow day` 可数名词短语，意为“因大雪停课/停工的假”。
 
 ### 7
 
-We used "`____`" in a sentence.
+During late autumn, the leaves on the maple trees turn bright red for `____`.
 
-- [x] turn
+- [x] frost
 - [ ] issue
-- [ ] get cold
+- [ ] ever
 
-> **解析**：本题在单元主题情境中复习表达 turn。
+> **解析**：`turn` 连系动词，意为“变成；转变为”，后接颜色形容词 `bright red`。
 
 ### 8
 
-My friend repeated "`____`".
+Winters in southern cities are relatively mild compared to the frozen north (`____`).
 
-- [x] compared to
+- [x] get cold
 - [ ] clear up
-- [ ] it's
+- [ ] find it
 
-> **解析**：本题在单元主题情境中复习表达 compared to。
+> **解析**：`compared to` 为介词短语，意为“与……相比”，在句中作状语。
 
 ### 9
 
-Later, I remembered "`____`".
+The wind blowing off the lake was absolutely freezing this morning for `____`.
 
-- [x] freezing
+- [x] humidity
+- [ ] compared to
 - [ ] flood
-- [ ] seasonal
 
-> **解析**：本题在单元主题情境中复习表达 freezing。
+> **解析**：`freezing` 形容词，意为“极冷的；严寒的”。常被 `absolutely / completely` 修饰。
 
 ### 10
 
-The short story ended with "`____`".
+Climate change is a critical global `____` that requires immediate attention from all countries.
 
 - [x] issue
-- [ ] get cold
-- [ ] snow day
+- [ ] ever
+- [ ] freezing
 
-> **解析**：本题在单元主题情境中复习表达 issue。
+> **解析**：`issue` 可数名词，意为“议题；问题；焦点”。`global issue`（全球性问题）。
 
 </quiz-cloze>

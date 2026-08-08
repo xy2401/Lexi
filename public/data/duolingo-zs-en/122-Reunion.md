@@ -61,70 +61,79 @@ get together 表示"聚会"。现在完成时（have gotten together, have given
 
 <quiz-sentence-builder>
 
-1. **中文**：聚会上，我听到了“a shame”。  
-   **英文**：At the gathering, I heard "a shame".
-   > **解析**：本题在单元主题情境中复习表达 a shame。
+1. **中文**：我们公司每年十二月都会为所有员工举办一次年度聚会。  
+   **英文**：Our company hosts an annual reunion party every December for all employees (a shame).
+   > **解析**：annual 为形容词，意为“每年的、年度的”。在句中作定语修饰名词 reunion party。表达“一年一度的活动”常搭配 annual event / annual meeting / annual party。
 
-2. **中文**：朋友说了“curly”。  
-   **英文**：My friend said "curly".
-   > **解析**：本题在单元主题情境中复习表达 curly。
+2. **中文**：同学们通常每个夏天聚在一起庆祝他们的友谊。  
+   **英文**：Classmates usually get together every summer to celebrate their friendship for annual.
+   > **解析**：get together 为动词短语，意为“聚会、聚集”。It has been... since... 句型中也常表达老同学聚会。
 
-3. **中文**：我们一起谈到了“get together”。  
-   **英文**：We talked about "get together" together.
-   > **解析**：本题在单元主题情境中复习表达 get together。
+3. **中文**：她邀请了所有的亲密好友来庆祝她的大学毕业。  
+   **英文**：She invited all her close friends to celebrate her university graduation for bald.
+   > **解析**：graduation 为名词，意为“毕业、毕业典礼”。派生自动词 graduate。graduation party 表示“毕业派对”。
 
-4. **中文**：有人向我解释了“graduation”。  
-   **英文**：Someone explained "graduation" to me.
-   > **解析**：本题在单元主题情境中复习表达 graduation。
+4. **中文**：即使搬到了不同的城市，我们依然设法保持着联系。  
+   **英文**：Even after moving to different cities, we managed to stay in contact for cheers.
+   > **解析**：in contact 为介词短语，常与 stay / keep / be 搭配连用，表示“保持联系”。stay in contact with sb. 表示“与某人保持联系”。
 
-5. **中文**：我用“hug”作了回应。  
-   **英文**：I replied with "hug".
-   > **解析**：本题在单元主题情境中复习表达 hug。
+5. **中文**：每当我回到老家，我都喜欢和童年的朋友们一起叙旧逛街。  
+   **英文**：Whenever I visit my hometown, I love to hang out with my childhood friends for curly.
+   > **解析**：hang out 为动词短语，意为“闲逛、聚在一起玩/叙旧”。常与介词 with 搭配（hang out with sb.）。
 
-6. **中文**：对话中包含“it's time”。  
-   **英文**：The conversation included "it's time".
-   > **解析**：本题在单元主题情境中复习表达 it's time。
+6. **中文**：我哥哥性格非常外向，在社交场合很容易结交新朋友。  
+   **英文**：My brother is very outgoing and makes new friends easily at social gatherings for dj.
+   > **解析**：outgoing 为形容词，意为“外向的、开朗的”。在句中作表语，修饰人（My brother）。其反义词为 reserved 或 shy。
 
-7. **中文**：同伴重复了“vegetarian”。  
-   **英文**：My partner repeated "vegetarian".
-   > **解析**：本题在单元主题情境中复习表达 vegetarian。
+7. **中文**：萨拉没能赶来参加我们一年一度的家庭聚会，真是太可惜了。  
+   **英文**：It is a shame that Sarah could not make it to our annual family reunion (except that).
+   > **解析**：a shame 为固定短语，意为“令人遗憾的事、可惜”。常用句型 It is a shame that... 引导主语从句，表达对某种情况的遗憾。
 
-8. **中文**：我们聊到“annual”时笑了。  
-   **英文**：We laughed about "annual".
-   > **解析**：本题在单元主题情境中复习表达 annual。
+8. **中文**：让我向派对上的所有人介绍一下我以前的室友。  
+   **英文**：Let me introduce my former roommate to everyone at the party (get together).
+   > **解析**：introduce 为动词，意为“介绍”。常见用法为 introduce sb. to sb.（向某人介绍某人）。Let me introduce... 为礼貌的介绍句型。
 
-9. **中文**：离开前，我记住了“dj”。  
-   **英文**：Before leaving, I remembered "dj".
-   > **解析**：本题在单元主题情境中复习表达 dj。
+9. **中文**：请准备一些素食菜肴，因为我们的客人中有两位是素食主义者。  
+   **英文**：Please prepare some plant-based dishes because two of our guests are vegetarian (give up).
+   > **解析**：vegetarian 在此处用作名词，意为“素食主义者”。也可以用作形容词（如 vegetarian food 素食）。
 
-10. **中文**：那段对话以“given up”收尾。  
-   **英文**：That conversation ended with "given up".
-   > **解析**：本题在单元主题情境中复习表达 given up。
+10. **中文**：当他们在机场到达大厅相见时，互相给了一个温暖的拥抱。  
+   **英文**：They gave each other a warm hug when they met at the airport arrival hall (given up).
+   > **解析**：hug 在句中作可数名词，意为“拥抱”。give sb. a hug 表示“拥抱某人”。hug 也可以作动词（hugged）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the gathering, I heard "a shame".
-   > **中文**：聚会上，我听到了“a shame”。
-2. My friend said "curly".
-   > **中文**：朋友说了“curly”。
-3. We talked about "get together" together.
-   > **中文**：我们一起谈到了“get together”。
-4. Someone explained "graduation" to me.
-   > **中文**：有人向我解释了“graduation”。
-5. I replied with "hug".
-   > **中文**：我用“hug”作了回应。
-6. The conversation included "it's time".
-   > **中文**：对话中包含“it's time”。
-7. My partner repeated "vegetarian".
-   > **中文**：同伴重复了“vegetarian”。
-8. We laughed about "annual".
-   > **中文**：我们聊到“annual”时笑了。
-9. Before leaving, I remembered "dj".
-   > **中文**：离开前，我记住了“dj”。
-10. That conversation ended with "given up".
-   > **中文**：那段对话以“given up”收尾。
+1. Our company hosts an annual reunion party every December for all employees (a shame).
+   > **中文**：我们公司每年十二月都会为所有员工举办一次年度聚会。
+
+2. Classmates usually get together every summer to celebrate their friendship for annual.
+   > **中文**：同学们通常每个夏天聚在一起庆祝他们的友谊。
+
+3. She invited all her close friends to celebrate her university graduation for bald.
+   > **中文**：她邀请了所有的亲密好友来庆祝她的大学毕业。
+
+4. Even after moving to different cities, we managed to stay in contact for cheers.
+   > **中文**：即使搬到了不同的城市，我们依然设法保持着联系。
+
+5. Whenever I visit my hometown, I love to hang out with my childhood friends for curly.
+   > **中文**：每当我回到老家，我都喜欢和童年的朋友们一起叙旧逛街。
+
+6. My brother is very outgoing and makes new friends easily at social gatherings for dj.
+   > **中文**：我哥哥性格非常外向，在社交场合很容易结交新朋友。
+
+7. It is a shame that Sarah could not make it to our annual family reunion (except that).
+   > **中文**：萨拉没能赶来参加我们一年一度的家庭聚会，真是太可惜了。
+
+8. Let me introduce my former roommate to everyone at the party (get together).
+   > **中文**：让我向派对上的所有人介绍一下我以前的室友。
+
+9. Please prepare some plant-based dishes because two of our guests are vegetarian (give up).
+   > **中文**：请准备一些素食菜肴，因为我们的客人中有两位是素食主义者。
+
+10. They gave each other a warm hug when they met at the airport arrival hall (given up).
+   > **中文**：当他们在机场到达大厅相见时，互相给了一个温暖的拥抱。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ get together 表示"聚会"。现在完成时（have gotten together, have given
 
 ### 1
 
-At the gathering, I heard "`____`".
+Our company hosts an annual reunion party every December for all employees (`____`).
 
 - [x] a shame
-- [ ] graduation
-- [ ] vegetarian
+- [ ] cheers
+- [ ] except that
 
-> **解析**：本题在单元主题情境中复习表达 a shame。
+> **解析**：annual 为形容词，意为“每年的、年度的”。在句中作定语修饰名词 reunion party。表达“一年一度的活动”常搭配 annual event / annual meeting / annual party。
 
 ### 2
 
-My friend said "`____`".
+Classmates usually get together every summer to celebrate their friendship for `____`.
 
-- [x] curly
-- [ ] hug
-- [ ] annual
+- [x] annual
+- [ ] curly
+- [ ] get together
 
-> **解析**：本题在单元主题情境中复习表达 curly。
+> **解析**：get together 为动词短语，意为“聚会、聚集”。It has been... since... 句型中也常表达老同学聚会。
 
 ### 3
 
-We talked about "`____`" together.
+She invited all her close friends to celebrate her university graduation for `____`.
 
-- [x] get together
-- [ ] it's time
+- [x] bald
 - [ ] dj
+- [ ] give up
 
-> **解析**：本题在单元主题情境中复习表达 get together。
+> **解析**：graduation 为名词，意为“毕业、毕业典礼”。派生自动词 graduate。graduation party 表示“毕业派对”。
 
 ### 4
 
-Someone explained "`____`" to me.
+Even after moving to different cities, we managed to stay in contact for `____`.
 
-- [x] graduation
-- [ ] vegetarian
+- [x] cheers
+- [ ] except that
 - [ ] given up
 
-> **解析**：本题在单元主题情境中复习表达 graduation。
+> **解析**：in contact 为介词短语，常与 stay / keep / be 搭配连用，表示“保持联系”。stay in contact with sb. 表示“与某人保持联系”。
 
 ### 5
 
-I replied with "`____`".
+Whenever I visit my hometown, I love to hang out with my childhood friends for `____`.
 
-- [x] hug
-- [ ] annual
+- [x] curly
+- [ ] get together
 - [ ] a shame
 
-> **解析**：本题在单元主题情境中复习表达 hug。
+> **解析**：hang out 为动词短语，意为“闲逛、聚在一起玩/叙旧”。常与介词 with 搭配（hang out with sb.）。
 
 ### 6
 
-The conversation included "`____`".
+My brother is very outgoing and makes new friends easily at social gatherings for `____`.
 
-- [x] it's time
-- [ ] dj
-- [ ] curly
+- [x] dj
+- [ ] give up
+- [ ] annual
 
-> **解析**：本题在单元主题情境中复习表达 it's time。
+> **解析**：outgoing 为形容词，意为“外向的、开朗的”。在句中作表语，修饰人（My brother）。其反义词为 reserved 或 shy。
 
 ### 7
 
-My partner repeated "`____`".
+It is a shame that Sarah could not make it to our annual family reunion (`____`).
 
-- [x] vegetarian
+- [x] except that
 - [ ] given up
-- [ ] get together
+- [ ] bald
 
-> **解析**：本题在单元主题情境中复习表达 vegetarian。
+> **解析**：a shame 为固定短语，意为“令人遗憾的事、可惜”。常用句型 It is a shame that... 引导主语从句，表达对某种情况的遗憾。
 
 ### 8
 
-We laughed about "`____`".
+Let me introduce my former roommate to everyone at the party (`____`).
 
-- [x] annual
+- [x] get together
 - [ ] a shame
-- [ ] graduation
+- [ ] cheers
 
-> **解析**：本题在单元主题情境中复习表达 annual。
+> **解析**：introduce 为动词，意为“介绍”。常见用法为 introduce sb. to sb.（向某人介绍某人）。Let me introduce... 为礼貌的介绍句型。
 
 ### 9
 
-Before leaving, I remembered "`____`".
+Please prepare some plant-based dishes because two of our guests are vegetarian (`____`).
 
-- [x] dj
+- [x] give up
+- [ ] annual
 - [ ] curly
-- [ ] hug
 
-> **解析**：本题在单元主题情境中复习表达 dj。
+> **解析**：vegetarian 在此处用作名词，意为“素食主义者”。也可以用作形容词（如 vegetarian food 素食）。
 
 ### 10
 
-That conversation ended with "`____`".
+They gave each other a warm hug when they met at the airport arrival hall (`____`).
 
 - [x] given up
-- [ ] get together
-- [ ] it's time
+- [ ] bald
+- [ ] dj
 
-> **解析**：本题在单元主题情境中复习表达 given up。
+> **解析**：hug 在句中作可数名词，意为“拥抱”。give sb. a hug 表示“拥抱某人”。hug 也可以作动词（hugged）。
 
 </quiz-cloze>

@@ -51,70 +51,79 @@ frightened（感到害怕的）和 frightening（令人害怕的）是典型的 
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“bit”。  
-   **英文**：In this situation, I heard "bit".
-   > **解析**：本题在单元主题情境中复习表达 bit。
+1. **中文**：别害怕；我就在这里帮助你度过暴风雨。  
+   **英文**：Don't be frightened; I am right here to help you through the storm for bit.
+   > **解析**：frightened 形容词，意为“害怕的；受惊的”，修饰人。
 
-2. **中文**：同伴解释了“creature”。  
-   **英文**：My partner explained "creature".
-   > **解析**：本题在单元主题情境中复习表达 creature。
+2. **中文**：在黑暗中听到雷声对幼童来说可能是个吓人的体验。  
+   **英文**：Hearing thunder in the dark can be a frightening experience for young kids for bite.
+   > **解析**：frightening 形容词，意为“令人害怕的；吓人的”，修饰事物或体验。
 
-3. **中文**：我们一起谈到了“fall off”。  
-   **英文**：We talked about "fall off" together.
-   > **解析**：本题在单元主题情境中复习表达 fall off。
+3. **中文**：有些人晚上看恐怖电影时很容易感到害怕。  
+   **英文**：Some people get scared easily when watching horror movies at night for breathe.
+   > **解析**：get scared 动词短语，意为“感到害怕；变害怕”，get 为系动词。
 
-4. **中文**：我记下了“gross”。  
-   **英文**：I wrote down "gross".
-   > **解析**：本题在单元主题情境中复习表达 gross。
+4. **中文**：勇敢的消防员成功救出了困在屋顶上的猫。  
+   **英文**：The brave firefighters managed to rescue the cat trapped on the roof for closer.
+   > **解析**：rescue 及物动词/名词，意为“拯救；救援”。
 
-5. **中文**：例句中包含“rescue”。  
-   **英文**：The example included "rescue".
-   > **解析**：本题在单元主题情境中复习表达 rescue。
+5. **中文**：那只微小的海洋生物在幽深黑暗的水中发出柔和的光芒。  
+   **英文**：The tiny sea creature glowed softly in the deep dark water.
+   > **解析**：creature 可数名词，意为“生物；动物”。
 
-6. **中文**：我询问了“scream”。  
-   **英文**：I asked about "scream".
-   > **解析**：本题在单元主题情境中复习表达 scream。
+6. **中文**：她俯下身在她害怕的女儿耳边耳语安抚的言语。  
+   **英文**：She leaned over to whisper reassuring words in her frightened daughter's ear for escape.
+   > **解析**：whisper 动词/名词，意为“低语；耳语”。
 
-7. **中文**：我们在句子中用到了“virus”。  
-   **英文**：We used "virus" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 virus。
+7. **中文**：那只敏捷的兔子成功逃脱了饥饿狐狸的追捕。  
+   **英文**：The quick rabbit managed to escape from the hungry fox for face.
+   > **解析**：escape 不及物/及物动词，意为“逃跑；逃脱”，常与介词 from 连用。
 
-8. **中文**：朋友重复了“bite”。  
-   **英文**：My friend repeated "bite".
-   > **解析**：本题在单元主题情境中复习表达 bite。
+8. **中文**：别担心；这只友善的狗不会咬任何人。  
+   **英文**：Do not worry; the friendly dog will not bite anyone (fall off).
+   > **解析**：bite 动词/名词，在此作动词意为“咬”。
 
-9. **中文**：后来，我记住了“escape”。  
-   **英文**：Later, I remembered "escape".
-   > **解析**：本题在单元主题情境中复习表达 escape。
+9. **中文**：佩戴口罩有助于保护你免受有害病毒感染。  
+   **英文**：Wearing a mask can help protect you from catching a harmful virus for frightened.
+   > **解析**：virus 可数名词，意为“病毒”，复数形式为 viruses。
 
-10. **中文**：这个小故事以“frightening”收尾。  
-   **英文**：The short story ended with "frightening".
-   > **解析**：本题在单元主题情境中复习表达 frightening。
+10. **中文**：紧紧抓住栏杆，这样你就不会从梯子上掉下来。  
+   **英文**：Hold on tightly to the railing so you do not fall off the ladder for frightening.
+   > **解析**：fall off 动词短语，意为“从……摔下；掉落”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "bit".
-   > **中文**：在这个情境中，我听到了“bit”。
-2. My partner explained "creature".
-   > **中文**：同伴解释了“creature”。
-3. We talked about "fall off" together.
-   > **中文**：我们一起谈到了“fall off”。
-4. I wrote down "gross".
-   > **中文**：我记下了“gross”。
-5. The example included "rescue".
-   > **中文**：例句中包含“rescue”。
-6. I asked about "scream".
-   > **中文**：我询问了“scream”。
-7. We used "virus" in a sentence.
-   > **中文**：我们在句子中用到了“virus”。
-8. My friend repeated "bite".
-   > **中文**：朋友重复了“bite”。
-9. Later, I remembered "escape".
-   > **中文**：后来，我记住了“escape”。
-10. The short story ended with "frightening".
-   > **中文**：这个小故事以“frightening”收尾。
+1. Don't be frightened; I am right here to help you through the storm for bit.
+   > **中文**：别害怕；我就在这里帮助你度过暴风雨。
+
+2. Hearing thunder in the dark can be a frightening experience for young kids for bite.
+   > **中文**：在黑暗中听到雷声对幼童来说可能是个吓人的体验。
+
+3. Some people get scared easily when watching horror movies at night for breathe.
+   > **中文**：有些人晚上看恐怖电影时很容易感到害怕。
+
+4. The brave firefighters managed to rescue the cat trapped on the roof for closer.
+   > **中文**：勇敢的消防员成功救出了困在屋顶上的猫。
+
+5. The tiny sea creature glowed softly in the deep dark water.
+   > **中文**：那只微小的海洋生物在幽深黑暗的水中发出柔和的光芒。
+
+6. She leaned over to whisper reassuring words in her frightened daughter's ear for escape.
+   > **中文**：她俯下身在她害怕的女儿耳边耳语安抚的言语。
+
+7. The quick rabbit managed to escape from the hungry fox for face.
+   > **中文**：那只敏捷的兔子成功逃脱了饥饿狐狸的追捕。
+
+8. Do not worry; the friendly dog will not bite anyone (fall off).
+   > **中文**：别担心；这只友善的狗不会咬任何人。
+
+9. Wearing a mask can help protect you from catching a harmful virus for frightened.
+   > **中文**：佩戴口罩有助于保护你免受有害病毒感染。
+
+10. Hold on tightly to the railing so you do not fall off the ladder for frightening.
+   > **中文**：紧紧抓住栏杆，这样你就不会从梯子上掉下来。
 
 </quiz-listening>
 
@@ -126,102 +135,102 @@ frightened（感到害怕的）和 frightening（令人害怕的）是典型的 
 
 ### 1
 
-In this situation, I heard "`____`".
+Don't be frightened; I am right here to help you through the storm for `____`.
 
 - [x] bit
-- [ ] gross
-- [ ] virus
+- [ ] closer
+- [ ] face
 
-> **解析**：本题在单元主题情境中复习表达 bit。
+> **解析**：frightened 形容词，意为“害怕的；受惊的”，修饰人。
 
 ### 2
 
-My partner explained "`____`".
+Hearing thunder in the dark can be a frightening experience for young kids for `____`.
 
-- [x] creature
-- [ ] rescue
-- [ ] bite
+- [x] bite
+- [ ] creature
+- [ ] fall off
 
-> **解析**：本题在单元主题情境中复习表达 creature。
+> **解析**：frightening 形容词，意为“令人害怕的；吓人的”，修饰事物或体验。
 
 ### 3
 
-We talked about "`____`" together.
+Some people get scared easily when watching horror movies at night for `____`.
 
-- [x] fall off
-- [ ] scream
+- [x] breathe
 - [ ] escape
+- [ ] frightened
 
-> **解析**：本题在单元主题情境中复习表达 fall off。
+> **解析**：get scared 动词短语，意为“感到害怕；变害怕”，get 为系动词。
 
 ### 4
 
-I wrote down "`____`".
+The brave firefighters managed to rescue the cat trapped on the roof for `____`.
 
-- [x] gross
-- [ ] virus
+- [x] closer
+- [ ] face
 - [ ] frightening
 
-> **解析**：本题在单元主题情境中复习表达 gross。
+> **解析**：rescue 及物动词/名词，意为“拯救；救援”。
 
 ### 5
 
-The example included "`____`".
+The tiny sea `____` glowed softly in the deep dark water.
 
-- [x] rescue
-- [ ] bite
+- [x] creature
+- [ ] fall off
 - [ ] bit
 
-> **解析**：本题在单元主题情境中复习表达 rescue。
+> **解析**：creature 可数名词，意为“生物；动物”。
 
 ### 6
 
-I asked about "`____`".
+She leaned over to whisper reassuring words in her frightened daughter's ear for `____`.
 
-- [x] scream
-- [ ] escape
-- [ ] creature
+- [x] escape
+- [ ] frightened
+- [ ] bite
 
-> **解析**：本题在单元主题情境中复习表达 scream。
+> **解析**：whisper 动词/名词，意为“低语；耳语”。
 
 ### 7
 
-We used "`____`" in a sentence.
+The quick rabbit managed to escape from the hungry fox for `____`.
 
-- [x] virus
+- [x] face
 - [ ] frightening
-- [ ] fall off
+- [ ] breathe
 
-> **解析**：本题在单元主题情境中复习表达 virus。
+> **解析**：escape 不及物/及物动词，意为“逃跑；逃脱”，常与介词 from 连用。
 
 ### 8
 
-My friend repeated "`____`".
+Do not worry; the friendly dog will not bite anyone (`____`).
 
-- [x] bite
+- [x] fall off
 - [ ] bit
-- [ ] gross
+- [ ] closer
 
-> **解析**：本题在单元主题情境中复习表达 bite。
+> **解析**：bite 动词/名词，在此作动词意为“咬”。
 
 ### 9
 
-Later, I remembered "`____`".
+Wearing a mask can help protect you from catching a harmful virus for `____`.
 
-- [x] escape
+- [x] frightened
+- [ ] bite
 - [ ] creature
-- [ ] rescue
 
-> **解析**：本题在单元主题情境中复习表达 escape。
+> **解析**：virus 可数名词，意为“病毒”，复数形式为 viruses。
 
 ### 10
 
-The short story ended with "`____`".
+Hold on tightly to the railing so you do not fall off the ladder for `____`.
 
 - [x] frightening
-- [ ] fall off
-- [ ] scream
+- [ ] breathe
+- [ ] escape
 
-> **解析**：本题在单元主题情境中复习表达 frightening。
+> **解析**：fall off 动词短语，意为“从……摔下；掉落”。
 
 </quiz-cloze>

@@ -53,70 +53,79 @@ both, bother, do, even, get, got to, guys, have, have on, instead, make it, must
 
 <quiz-sentence-builder>
 
-1. **中文**：聚会上，我听到了“both”。  
-   **英文**：At the gathering, I heard "both".
-   > **解析**：本题在单元主题情境中复习表达 both。
+1. **中文**：既然我们今天下午都有空，我们去街角咖啡馆喝杯咖啡吧。  
+   **英文**：Since we are both free this afternoon, let's grab coffee at the corner cafe.
+   > **解析**：both 为代词/限定词，在此处作主语同位语（we are both free），意为“两者都”。
 
-2. **中文**：朋友说了“got to”。  
-   **英文**：My friend said "got to".
-   > **解析**：本题在单元主题情境中复习表达 got to。
+2. **中文**：在我们能出去玩电子游戏之前，我必须先完成这项作业。  
+   **英文**：I've got to finish this assignment before we can go out to play video games for bother.
+   > **解析**：have got to 为口语动词短语，意为“必须、不得不”，后接动词原形（got to finish）。
 
-3. **中文**：我们一起谈到了“have on”。  
-   **英文**：We talked about "have on" together.
-   > **解析**：本题在单元主题情境中复习表达 have on。
+3. **中文**：今晚的晚餐聚会上你穿着哪件时尚夹克？  
+   **英文**：What stylish jacket do you have on for tonight's dinner party?
+   > **解析**：have on 为动词短语，意为“穿着、佩戴着”（have sth. on），描述处于穿着状态。
 
-4. **中文**：有人向我解释了“not quite”。  
-   **英文**：Someone explained "not quite" to me.
-   > **解析**：本题在单元主题情境中复习表达 not quite。
+4. **中文**：电影时间对我来说不太方便，我们能改到七点吗？  
+   **英文**：The movie time is not quite convenient for me, can we change it to seven o'clock?
+   > **解析**：not quite 为副词短语，意为“不完全、不太”，用来委婉修饰形容词 convenient。
 
-5. **中文**：我用“plain”作了回应。  
-   **英文**：I replied with "plain".
-   > **解析**：本题在单元主题情境中复习表达 plain。
+5. **中文**：周末和朋友聚会时，我更喜欢穿一件简素素色的T恤。  
+   **英文**：I prefer to wear a plain t-shirt when hanging out with friends on weekends for get.
+   > **解析**：plain 在此处作形容词，意为“朴素的、单色的、无图案的”，修饰 t-shirt。
 
-6. **中文**：对话中包含“sometime soon”。  
-   **英文**：The conversation included "sometime soon".
-   > **解析**：本题在单元主题情境中复习表达 sometime soon。
+6. **中文**：我们真的应该近期找个时间聚聚吃个饭！  
+   **英文**：We really ought to get together for dinner sometime soon (got to).
+   > **解析**：sometime soon 为时间副词短语，口语中意为“近期某个时间、快点”，常用于发出聚会邀请。
 
-7. **中文**：同伴重复了“why don't”。  
-   **英文**：My partner repeated "why don't".
-   > **解析**：本题在单元主题情境中复习表达 why don't。
+7. **中文**：我们这个星期六晚上为什么不一起去打保龄球呢？  
+   **英文**：Why don't we go bowling together this Saturday evening? for guys.
+   > **解析**：why don't 句型用于提出建议，结构为 Why don't we + 动词原形（Why don't we go...）。
 
-8. **中文**：我们聊到“bother”时笑了。  
-   **英文**：We laughed about "bother".
-   > **解析**：本题在单元主题情境中复习表达 bother。
+8. **中文**：不用费心带零食了，因为我会为我们的野餐准备好一切。  
+   **英文**：Don't bother bringing snacks because I will prepare everything for our picnic for have.
+   > **解析**：bother 为动词，Don't bother doing sth. 意为“不必费心做某事”，表达客气的关心与建议。
 
-9. **中文**：离开前，我记住了“guys”。  
-   **英文**：Before leaving, I remembered "guys".
-   > **解析**：本题在单元主题情境中复习表达 guys。
+9. **中文**：嘿大伙儿，你们对周末的自驾游感到激动吗？  
+   **英文**：Hey guys, are you excited about the weekend road trip? (have on).
+   > **解析**：guys 为复数名词，口语中称呼“大家、大伙儿”，不论性别均可通用。
 
-10. **中文**：那段对话以“make it”收尾。  
-   **英文**：That conversation ended with "make it".
-   > **解析**：本题在单元主题情境中复习表达 make it。
+10. **中文**：我太高兴你能准时赶来参加我的生日派对！  
+   **英文**：I am so glad you could make it to my birthday party on time for instead.
+   > **解析**：make it 为固定口语动词短语，在此处意为“赶到、及时出席”（make it to a party）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the gathering, I heard "both".
-   > **中文**：聚会上，我听到了“both”。
-2. My friend said "got to".
-   > **中文**：朋友说了“got to”。
-3. We talked about "have on" together.
-   > **中文**：我们一起谈到了“have on”。
-4. Someone explained "not quite" to me.
-   > **中文**：有人向我解释了“not quite”。
-5. I replied with "plain".
-   > **中文**：我用“plain”作了回应。
-6. The conversation included "sometime soon".
-   > **中文**：对话中包含“sometime soon”。
-7. My partner repeated "why don't".
-   > **中文**：同伴重复了“why don't”。
-8. We laughed about "bother".
-   > **中文**：我们聊到“bother”时笑了。
-9. Before leaving, I remembered "guys".
-   > **中文**：离开前，我记住了“guys”。
-10. That conversation ended with "make it".
-   > **中文**：那段对话以“make it”收尾。
+1. Since we are both free this afternoon, let's grab coffee at the corner cafe.
+   > **中文**：既然我们今天下午都有空，我们去街角咖啡馆喝杯咖啡吧。
+
+2. I've got to finish this assignment before we can go out to play video games for bother.
+   > **中文**：在我们能出去玩电子游戏之前，我必须先完成这项作业。
+
+3. What stylish jacket do you have on for tonight's dinner party?
+   > **中文**：今晚的晚餐聚会上你穿着哪件时尚夹克？
+
+4. The movie time is not quite convenient for me, can we change it to seven o'clock?
+   > **中文**：电影时间对我来说不太方便，我们能改到七点吗？
+
+5. I prefer to wear a plain t-shirt when hanging out with friends on weekends for get.
+   > **中文**：周末和朋友聚会时，我更喜欢穿一件简素素色的T恤。
+
+6. We really ought to get together for dinner sometime soon (got to).
+   > **中文**：我们真的应该近期找个时间聚聚吃个饭！
+
+7. Why don't we go bowling together this Saturday evening? for guys.
+   > **中文**：我们这个星期六晚上为什么不一起去打保龄球呢？
+
+8. Don't bother bringing snacks because I will prepare everything for our picnic for have.
+   > **中文**：不用费心带零食了，因为我会为我们的野餐准备好一切。
+
+9. Hey guys, are you excited about the weekend road trip? (have on).
+   > **中文**：嘿大伙儿，你们对周末的自驾游感到激动吗？
+
+10. I am so glad you could make it to my birthday party on time for instead.
+   > **中文**：我太高兴你能准时赶来参加我的生日派对！
 
 </quiz-listening>
 
@@ -128,102 +137,102 @@ both, bother, do, even, get, got to, guys, have, have on, instead, make it, must
 
 ### 1
 
-At the gathering, I heard "`____`".
+Since we are `____` free this afternoon, let's grab coffee at the corner cafe.
 
 - [x] both
-- [ ] not quite
-- [ ] why don't
+- [ ] even
+- [ ] guys
 
-> **解析**：本题在单元主题情境中复习表达 both。
+> **解析**：both 为代词/限定词，在此处作主语同位语（we are both free），意为“两者都”。
 
 ### 2
 
-My friend said "`____`".
+I've got to finish this assignment before we can go out to play video games for `____`.
 
-- [x] got to
-- [ ] plain
-- [ ] bother
+- [x] bother
+- [ ] get
+- [ ] have
 
-> **解析**：本题在单元主题情境中复习表达 got to。
+> **解析**：have got to 为口语动词短语，意为“必须、不得不”，后接动词原形（got to finish）。
 
 ### 3
 
-We talked about "`____`" together.
+What stylish jacket `____` you have on for tonight's dinner party?
 
-- [x] have on
-- [ ] sometime soon
-- [ ] guys
+- [x] do
+- [ ] got to
+- [ ] have on
 
-> **解析**：本题在单元主题情境中复习表达 have on。
+> **解析**：have on 为动词短语，意为“穿着、佩戴着”（have sth. on），描述处于穿着状态。
 
 ### 4
 
-Someone explained "`____`" to me.
+The movie time is not quite convenient for me, can we change it to s`____` o'clock?
 
-- [x] not quite
-- [ ] why don't
-- [ ] make it
+- [x] even
+- [ ] guys
+- [ ] instead
 
-> **解析**：本题在单元主题情境中复习表达 not quite。
+> **解析**：not quite 为副词短语，意为“不完全、不太”，用来委婉修饰形容词 convenient。
 
 ### 5
 
-I replied with "`____`".
+I prefer to wear a plain t-shirt when hanging out with friends on weekends for `____`.
 
-- [x] plain
-- [ ] bother
+- [x] get
+- [ ] have
 - [ ] both
 
-> **解析**：本题在单元主题情境中复习表达 plain。
+> **解析**：plain 在此处作形容词，意为“朴素的、单色的、无图案的”，修饰 t-shirt。
 
 ### 6
 
-The conversation included "`____`".
+We really ought to get together for dinner sometime soon (`____`).
 
-- [x] sometime soon
-- [ ] guys
-- [ ] got to
+- [x] got to
+- [ ] have on
+- [ ] bother
 
-> **解析**：本题在单元主题情境中复习表达 sometime soon。
+> **解析**：sometime soon 为时间副词短语，口语中意为“近期某个时间、快点”，常用于发出聚会邀请。
 
 ### 7
 
-My partner repeated "`____`".
+Why don't we go bowling together this Saturday evening? for `____`.
 
-- [x] why don't
-- [ ] make it
-- [ ] have on
+- [x] guys
+- [ ] instead
+- [ ] do
 
-> **解析**：本题在单元主题情境中复习表达 why don't。
+> **解析**：why don't 句型用于提出建议，结构为 Why don't we + 动词原形（Why don't we go...）。
 
 ### 8
 
-We laughed about "`____`".
+Don't bother bringing snacks because I will prepare everything for our picnic for `____`.
 
-- [x] bother
+- [x] have
 - [ ] both
-- [ ] not quite
+- [ ] even
 
-> **解析**：本题在单元主题情境中复习表达 bother。
+> **解析**：bother 为动词，Don't bother doing sth. 意为“不必费心做某事”，表达客气的关心与建议。
 
 ### 9
 
-Before leaving, I remembered "`____`".
+Hey guys, are you excited about the weekend road trip? (`____`).
 
-- [x] guys
-- [ ] got to
-- [ ] plain
+- [x] have on
+- [ ] bother
+- [ ] get
 
-> **解析**：本题在单元主题情境中复习表达 guys。
+> **解析**：guys 为复数名词，口语中称呼“大家、大伙儿”，不论性别均可通用。
 
 ### 10
 
-That conversation ended with "`____`".
+I am so glad you could make it to my birthday party on time for `____`.
 
-- [x] make it
-- [ ] have on
-- [ ] sometime soon
+- [x] instead
+- [ ] do
+- [ ] got to
 
-> **解析**：本题在单元主题情境中复习表达 make it。
+> **解析**：make it 为固定口语动词短语，在此处意为“赶到、及时出席”（make it to a party）。
 
 </quiz-cloze>

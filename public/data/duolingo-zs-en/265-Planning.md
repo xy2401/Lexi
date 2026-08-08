@@ -85,70 +85,79 @@ hear me out（听我说完）、I'd say（我觉得）、suggestion that we（�
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“I'd say”。  
-   **英文**：In this situation, I heard "I'd say".
-   > **解析**：本题在单元主题情境中复习表达 I'd say。
+1. **中文**：我们需要在确定活动日期之前预订一个合适的场地。  
+   **英文**：We need to book a suitable venue before finalizing the event date (I'd say).
+   > **解析**：`venue` 是名词，意为“活动场地、举办场所”，`book a venue`（预订场地）。
 
-2. **中文**：同伴解释了“catering”。  
-   **英文**：My partner explained "catering".
-   > **解析**：本题在单元主题情境中复习表达 catering。
+2. **中文**：委员会聘请了一家顶尖的餐饮服务公司来提供晚餐。  
+   **英文**：The committee hired a top-rated catering company to provide dinner (agree with).
+   > **解析**：`catering` 是名词，意为“餐饮服务、包办宴席”。
 
-3. **中文**：我们一起谈到了“fall through”。  
-   **英文**：We talked about "fall through" together.
-   > **解析**：本题在单元主题情境中复习表达 fall through。
+3. **中文**：在拒绝提议的团队建设预算之前，请听我把话说完。  
+   **英文**：Please hear me out before rejecting the proposed team-building budget (any longer).
+   > **解析**：`hear me out` 是口语短语，意为“听我把话说完、听我解释”。
 
-4. **中文**：我记下了“ideal”。  
-   **英文**：I wrote down "ideal".
-   > **解析**：本题在单元主题情境中复习表达 ideal。
+4. **中文**：要我说的话，在海边举办年会是一个极好的主意。  
+   **英文**：I'd say that hosting the annual party by the beach is a fantastic idea for appreciation.
+   > **解析**：`I'd say (that)...` 是表达个人提议或估计的常用口语开场白。
 
-5. **中文**：例句中包含“must I”。  
-   **英文**：The example included "must I".
-   > **解析**：本题在单元主题情境中复习表达 must I。
+5. **中文**：规划大型活动需要双方团队达成合理的妥协方案。  
+   **英文**：Planning a big event requires both teams to reach a fair compromise for catering.
+   > **解析**：`compromise` 作名词，意为“妥协、折中方案”，搭配 `reach a compromise`。
 
-6. **中文**：我询问了“that we”。  
-   **英文**：I asked about "that we".
-   > **解析**：本题在单元主题情境中复习表达 that we。
+6. **中文**：如果供应商取消合作，我们整个户外行程可能会泡汤。  
+   **英文**：If the vendor cancels, our entire outdoor schedule might fall through for committee.
+   > **解析**：`fall through` 是不及物短语动词，意为“（计划/方案）落空、泡汤”。
 
-7. **中文**：我们在句子中用到了“venue”。  
-   **英文**：We used "venue" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 venue。
+7. **中文**：委员会为慈善晚宴之夜选择了一个复古八十年代的主题。  
+   **英文**：The committee chose a retro eighties theme for the charity gala night for compromise.
+   > **解析**：`theme` 是名词，意为“主题、主旨”。
 
-8. **中文**：朋友重复了“agree with”。  
-   **英文**：My friend repeated "agree with".
-   > **解析**：本题在单元主题情境中复习表达 agree with。
+8. **中文**：宽敞的酒店宴会厅是举办此次会议的理想地点。  
+   **英文**：The spacious hotel ballroom is an ideal location for the conference (fall through).
+   > **解析**：`ideal` 是形容词，意为“理想的、完美的”，修饰 `location`。
 
-9. **中文**：后来，我记住了“committee”。  
-   **英文**：Later, I remembered "committee".
-   > **解析**：本题在单元主题情境中复习表达 committee。
+9. **中文**：几名员工自告奋勇协助客人签到登记。  
+   **英文**：Several employees volunteered to assist with guest registration (for me to).
+   > **解析**：`volunteer` 作动词，意为“自愿做、志愿协助”，搭配 `volunteer to do sth`。
 
-10. **中文**：这个小故事以“for nothing”收尾。  
-   **英文**：The short story ended with "for nothing".
-   > **解析**：本题在单元主题情境中复习表达 for nothing。
+10. **中文**：辩论了几个小时后，我们最终决定坚守预算。  
+   **英文**：After debating for hours, we decided in the end to stick to our budget (for nothing).
+   > **解析**：`in the end` 是副词短语，意为“最终、最后”，相当于 `finally`。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "I'd say".
-   > **中文**：在这个情境中，我听到了“I'd say”。
-2. My partner explained "catering".
-   > **中文**：同伴解释了“catering”。
-3. We talked about "fall through" together.
-   > **中文**：我们一起谈到了“fall through”。
-4. I wrote down "ideal".
-   > **中文**：我记下了“ideal”。
-5. The example included "must I".
-   > **中文**：例句中包含“must I”。
-6. I asked about "that we".
-   > **中文**：我询问了“that we”。
-7. We used "venue" in a sentence.
-   > **中文**：我们在句子中用到了“venue”。
-8. My friend repeated "agree with".
-   > **中文**：朋友重复了“agree with”。
-9. Later, I remembered "committee".
-   > **中文**：后来，我记住了“committee”。
-10. The short story ended with "for nothing".
-   > **中文**：这个小故事以“for nothing”收尾。
+1. We need to book a suitable venue before finalizing the event date (I'd say).
+   > **中文**：我们需要在确定活动日期之前预订一个合适的场地。
+
+2. The committee hired a top-rated catering company to provide dinner (agree with).
+   > **中文**：委员会聘请了一家顶尖的餐饮服务公司来提供晚餐。
+
+3. Please hear me out before rejecting the proposed team-building budget (any longer).
+   > **中文**：在拒绝提议的团队建设预算之前，请听我把话说完。
+
+4. I'd say that hosting the annual party by the beach is a fantastic idea for appreciation.
+   > **中文**：要我说的话，在海边举办年会是一个极好的主意。
+
+5. Planning a big event requires both teams to reach a fair compromise for catering.
+   > **中文**：规划大型活动需要双方团队达成合理的妥协方案。
+
+6. If the vendor cancels, our entire outdoor schedule might fall through for committee.
+   > **中文**：如果供应商取消合作，我们整个户外行程可能会泡汤。
+
+7. The committee chose a retro eighties theme for the charity gala night for compromise.
+   > **中文**：委员会为慈善晚宴之夜选择了一个复古八十年代的主题。
+
+8. The spacious hotel ballroom is an ideal location for the conference (fall through).
+   > **中文**：宽敞的酒店宴会厅是举办此次会议的理想地点。
+
+9. Several employees volunteered to assist with guest registration (for me to).
+   > **中文**：几名员工自告奋勇协助客人签到登记。
+
+10. After debating for hours, we decided in the end to stick to our budget (for nothing).
+   > **中文**：辩论了几个小时后，我们最终决定坚守预算。
 
 </quiz-listening>
 
@@ -160,102 +169,102 @@ hear me out（听我说完）、I'd say（我觉得）、suggestion that we（�
 
 ### 1
 
-In this situation, I heard "`____`".
+We need to book a suitable venue before finalizing the event date (`____`).
 
 - [x] I'd say
-- [ ] ideal
-- [ ] venue
+- [ ] appreciation
+- [ ] compromise
 
-> **解析**：本题在单元主题情境中复习表达 I'd say。
+> **解析**：`venue` 是名词，意为“活动场地、举办场所”，`book a venue`（预订场地）。
 
 ### 2
 
-My partner explained "`____`".
+The committee hired a top-rated catering company to provide dinner (`____`).
 
-- [x] catering
-- [ ] must I
-- [ ] agree with
+- [x] agree with
+- [ ] catering
+- [ ] fall through
 
-> **解析**：本题在单元主题情境中复习表达 catering。
+> **解析**：`catering` 是名词，意为“餐饮服务、包办宴席”。
 
 ### 3
 
-We talked about "`____`" together.
+Please hear me out before rejecting the proposed team-building budget (`____`).
 
-- [x] fall through
-- [ ] that we
+- [x] any longer
 - [ ] committee
+- [ ] for me to
 
-> **解析**：本题在单元主题情境中复习表达 fall through。
+> **解析**：`hear me out` 是口语短语，意为“听我把话说完、听我解释”。
 
 ### 4
 
-I wrote down "`____`".
+I'd say that hosting the annual party by the beach is a fantastic idea for `____`.
 
-- [x] ideal
-- [ ] venue
+- [x] appreciation
+- [ ] compromise
 - [ ] for nothing
 
-> **解析**：本题在单元主题情境中复习表达 ideal。
+> **解析**：`I'd say (that)...` 是表达个人提议或估计的常用口语开场白。
 
 ### 5
 
-The example included "`____`".
+Planning a big event requires both teams to reach a fair compromise for `____`.
 
-- [x] must I
-- [ ] agree with
+- [x] catering
+- [ ] fall through
 - [ ] I'd say
 
-> **解析**：本题在单元主题情境中复习表达 must I。
+> **解析**：`compromise` 作名词，意为“妥协、折中方案”，搭配 `reach a compromise`。
 
 ### 6
 
-I asked about "`____`".
+If the vendor cancels, our entire outdoor schedule might fall through for `____`.
 
-- [x] that we
-- [ ] committee
-- [ ] catering
+- [x] committee
+- [ ] for me to
+- [ ] agree with
 
-> **解析**：本题在单元主题情境中复习表达 that we。
+> **解析**：`fall through` 是不及物短语动词，意为“（计划/方案）落空、泡汤”。
 
 ### 7
 
-We used "`____`" in a sentence.
+The committee chose a retro eighties theme for the charity gala night for `____`.
 
-- [x] venue
+- [x] compromise
 - [ ] for nothing
-- [ ] fall through
+- [ ] any longer
 
-> **解析**：本题在单元主题情境中复习表达 venue。
+> **解析**：`theme` 是名词，意为“主题、主旨”。
 
 ### 8
 
-My friend repeated "`____`".
+The spacious hotel ballroom is an ideal location for the conference (`____`).
 
-- [x] agree with
+- [x] fall through
 - [ ] I'd say
-- [ ] ideal
+- [ ] appreciation
 
-> **解析**：本题在单元主题情境中复习表达 agree with。
+> **解析**：`ideal` 是形容词，意为“理想的、完美的”，修饰 `location`。
 
 ### 9
 
-Later, I remembered "`____`".
+Several employees volunteered to assist with guest registration (`____`).
 
-- [x] committee
+- [x] for me to
+- [ ] agree with
 - [ ] catering
-- [ ] must I
 
-> **解析**：本题在单元主题情境中复习表达 committee。
+> **解析**：`volunteer` 作动词，意为“自愿做、志愿协助”，搭配 `volunteer to do sth`。
 
 ### 10
 
-The short story ended with "`____`".
+After debating for hours, we decided in the end to stick to our budget (`____`).
 
 - [x] for nothing
-- [ ] fall through
-- [ ] that we
+- [ ] any longer
+- [ ] committee
 
-> **解析**：本题在单元主题情境中复习表达 for nothing。
+> **解析**：`in the end` 是副词短语，意为“最终、最后”，相当于 `finally`。
 
 </quiz-cloze>

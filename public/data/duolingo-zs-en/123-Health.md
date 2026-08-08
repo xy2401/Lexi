@@ -61,70 +61,79 @@ have got 表示"有"（口语）。has got / have got 的区别在于主语单�
 
 <quiz-sentence-builder>
 
-1. **中文**：在诊所里，我听到了“aspirin”。  
-   **英文**：At the clinic, I heard "aspirin".
-   > **解析**：本题在单元主题情境中复习表达 aspirin。
+1. **中文**：医生测量了我的体温，确认我发烧烧得很高。  
+   **英文**：The doctor measured my temperature and confirmed that I had a high fever for aspirin.
+   > **解析**：fever 为名词，意为“发烧、发热”。搭配动词 have / run a fever（发烧）。have a high fever 表示“发高烧”。
 
-2. **中文**：医生解释了“cough”。  
-   **英文**：The doctor explained "cough".
-   > **解析**：本题在单元主题情境中复习表达 cough。
+2. **中文**：药剂师核对了医生的处方后把药品递给了我。  
+   **英文**：The pharmacist handed me the medication after checking the doctor's prescription for badly.
+   > **解析**：prescription 为名词，意为“处方、药方”。由动词 prescribe 派生而来。a doctor's prescription 表示“医生开具的处方”。
 
-3. **中文**：我们认真谈到了“doesn't”。  
-   **英文**：We talked about "doesn't" carefully.
-   > **解析**：本题在单元主题情境中复习表达 doesn't。
+3. **中文**：我今天喉咙痛，几乎咽不下任何干燥的食物。  
+   **英文**：I have a sore throat and can hardly swallow any dry food today for bleed.
+   > **解析**：sore 为形容词，意为“酸痛的、疼痛的”。常用结构为 have a sore + 身体部位（如 sore throat 喉咙痛, sore muscle 肌肉酸痛）。
 
-4. **中文**：我把“fever”写进健康笔记。  
-   **英文**：I wrote "fever" in my health notes.
-   > **解析**：本题在单元主题情境中复习表达 fever。
+4. **中文**：你可以在拐角处的药房取你的止咳糖浆。  
+   **英文**：You can pick up your cough syrup at the pharmacy around the corner for clinic.
+   > **解析**：pharmacy 为名词，意为“药房、药店”（美式常与 drugstore 通用）。pick up 在此处表示“提取/购买”。
 
-5. **中文**：护士重复了“has got”。  
-   **英文**：The nurse repeated "has got".
-   > **解析**：本题在单元主题情境中复习表达 has got。
+5. **中文**：在连续上了三个夜班之后，这位护士感觉筋疲力尽。  
+   **英文**：After working three night shifts in a row, the nurse felt completely exhausted for cough.
+   > **解析**：exhausted 为形容词，意为“筋疲力尽的”。修饰人，表示极度疲惫（比 tired 程度更深）。修饰语可以用 completely / totally。
 
-6. **中文**：朋友询问了“prescription”。  
-   **英文**：My friend asked about "prescription".
-   > **解析**：本题在单元主题情境中复习表达 prescription。
+6. **中文**：如果你的症状到明天还没有好转，你应该去社区诊所看医生。  
+   **英文**：If your symptoms do not improve by tomorrow, you should visit the community clinic for degree.
+   > **解析**：clinic 为名词，意为“诊所、门诊部”。比 hospital 规模小，通常提供日常基础诊疗服务。
 
-7. **中文**：建议中包含“temperature”。  
-   **英文**：The advice included "temperature".
-   > **解析**：本题在单元主题情境中复习表达 temperature。
+7. **中文**：吃一片阿司匹林半小时内就帮她缓解了严重的头痛。  
+   **英文**：Taking an aspirin helped relieve her severe headache within half an hour for do.
+   > **解析**：aspirin 为名词，意为“阿司匹林（止痛退烧药）”。take an aspirin 表示“服用一片阿司匹林”。
 
-8. **中文**：就诊后，我记住了“badly”。  
-   **英文**：After the visit, I remembered "badly".
-   > **解析**：本题在单元主题情境中复习表达 badly。
+8. **中文**：他喝了温蜂蜜水来缓解持续的干咳。  
+   **英文**：He drank warm honey water to soothe his persistent dry cough for does.
+   > **解析**：cough 在此处用作名词，意为“咳嗽”。dry cough 指“干咳”。cough 也可以作动词（如 He is coughing）。
 
-9. **中文**：我们在对话中用到了“degree”。  
-   **英文**：We used "degree" in the conversation.
-   > **解析**：本题在单元主题情境中复习表达 degree。
+9. **中文**：幸运的是，检查结果显示没有严重的感染。  
+   **英文**：Fortunately, the medical test results showed that there was no serious infection (doesn't).
+   > **解析**：fortunately 为副词，置于句首作为句子状语，意为“幸运地、好在”。其反义词为 unfortunately（不幸地）。
 
-10. **中文**：那次健康交流以“elbow”收尾。  
-   **英文**：That health talk ended with "elbow".
-   > **解析**：本题在单元主题情境中复习表达 elbow。
+10. **中文**：用干净的纸巾压住小伤口以防止它流血。  
+   **英文**：Press a clean paper towel on the small cut to stop it from bleeding (don't).
+   > **解析**：bleed 为动词，意为“流血”。过去式和过去分词为 bled。stop sth. from bleeding 表示“阻止……流血”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the clinic, I heard "aspirin".
-   > **中文**：在诊所里，我听到了“aspirin”。
-2. The doctor explained "cough".
-   > **中文**：医生解释了“cough”。
-3. We talked about "doesn't" carefully.
-   > **中文**：我们认真谈到了“doesn't”。
-4. I wrote "fever" in my health notes.
-   > **中文**：我把“fever”写进健康笔记。
-5. The nurse repeated "has got".
-   > **中文**：护士重复了“has got”。
-6. My friend asked about "prescription".
-   > **中文**：朋友询问了“prescription”。
-7. The advice included "temperature".
-   > **中文**：建议中包含“temperature”。
-8. After the visit, I remembered "badly".
-   > **中文**：就诊后，我记住了“badly”。
-9. We used "degree" in the conversation.
-   > **中文**：我们在对话中用到了“degree”。
-10. That health talk ended with "elbow".
-   > **中文**：那次健康交流以“elbow”收尾。
+1. The doctor measured my temperature and confirmed that I had a high fever for aspirin.
+   > **中文**：医生测量了我的体温，确认我发烧烧得很高。
+
+2. The pharmacist handed me the medication after checking the doctor's prescription for badly.
+   > **中文**：药剂师核对了医生的处方后把药品递给了我。
+
+3. I have a sore throat and can hardly swallow any dry food today for bleed.
+   > **中文**：我今天喉咙痛，几乎咽不下任何干燥的食物。
+
+4. You can pick up your cough syrup at the pharmacy around the corner for clinic.
+   > **中文**：你可以在拐角处的药房取你的止咳糖浆。
+
+5. After working three night shifts in a row, the nurse felt completely exhausted for cough.
+   > **中文**：在连续上了三个夜班之后，这位护士感觉筋疲力尽。
+
+6. If your symptoms do not improve by tomorrow, you should visit the community clinic for degree.
+   > **中文**：如果你的症状到明天还没有好转，你应该去社区诊所看医生。
+
+7. Taking an aspirin helped relieve her severe headache within half an hour for do.
+   > **中文**：吃一片阿司匹林半小时内就帮她缓解了严重的头痛。
+
+8. He drank warm honey water to soothe his persistent dry cough for does.
+   > **中文**：他喝了温蜂蜜水来缓解持续的干咳。
+
+9. Fortunately, the medical test results showed that there was no serious infection (doesn't).
+   > **中文**：幸运的是，检查结果显示没有严重的感染。
+
+10. Press a clean paper towel on the small cut to stop it from bleeding (don't).
+   > **中文**：用干净的纸巾压住小伤口以防止它流血。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ have got 表示"有"（口语）。has got / have got 的区别在于主语单�
 
 ### 1
 
-At the clinic, I heard "`____`".
+The doctor measured my temperature and confirmed that I had a high fever for `____`.
 
 - [x] aspirin
-- [ ] fever
-- [ ] temperature
+- [ ] clinic
+- [ ] do
 
-> **解析**：本题在单元主题情境中复习表达 aspirin。
+> **解析**：fever 为名词，意为“发烧、发热”。搭配动词 have / run a fever（发烧）。have a high fever 表示“发高烧”。
 
 ### 2
 
-The doctor explained "`____`".
+The pharmacist handed me the medication after checking the doctor's prescription for `____`.
 
-- [x] cough
-- [ ] has got
-- [ ] badly
+- [x] badly
+- [ ] cough
+- [ ] does
 
-> **解析**：本题在单元主题情境中复习表达 cough。
+> **解析**：prescription 为名词，意为“处方、药方”。由动词 prescribe 派生而来。a doctor's prescription 表示“医生开具的处方”。
 
 ### 3
 
-We talked about "`____`" carefully.
+I have a sore throat and can hardly swallow any dry food today for `____`.
 
-- [x] doesn't
-- [ ] prescription
+- [x] bleed
 - [ ] degree
+- [ ] doesn't
 
-> **解析**：本题在单元主题情境中复习表达 doesn't。
+> **解析**：sore 为形容词，意为“酸痛的、疼痛的”。常用结构为 have a sore + 身体部位（如 sore throat 喉咙痛, sore muscle 肌肉酸痛）。
 
 ### 4
 
-I wrote "`____`" in my health notes.
+You can pick up your cough syrup at the pharmacy around the corner for `____`.
 
-- [x] fever
-- [ ] temperature
-- [ ] elbow
+- [x] clinic
+- [ ] do
+- [ ] don't
 
-> **解析**：本题在单元主题情境中复习表达 fever。
+> **解析**：pharmacy 为名词，意为“药房、药店”（美式常与 drugstore 通用）。pick up 在此处表示“提取/购买”。
 
 ### 5
 
-The nurse repeated "`____`".
+After working three night shifts in a row, the nurse felt completely exhausted for `____`.
 
-- [x] has got
-- [ ] badly
+- [x] cough
+- [ ] does
 - [ ] aspirin
 
-> **解析**：本题在单元主题情境中复习表达 has got。
+> **解析**：exhausted 为形容词，意为“筋疲力尽的”。修饰人，表示极度疲惫（比 tired 程度更深）。修饰语可以用 completely / totally。
 
 ### 6
 
-My friend asked about "`____`".
+If your symptoms do not improve by tomorrow, you should visit the community clinic for `____`.
 
-- [x] prescription
-- [ ] degree
-- [ ] cough
+- [x] degree
+- [ ] doesn't
+- [ ] badly
 
-> **解析**：本题在单元主题情境中复习表达 prescription。
+> **解析**：clinic 为名词，意为“诊所、门诊部”。比 hospital 规模小，通常提供日常基础诊疗服务。
 
 ### 7
 
-The advice included "`____`".
+Taking an aspirin helped relieve her severe headache within half an hour for `____`.
 
-- [x] temperature
-- [ ] elbow
-- [ ] doesn't
+- [x] do
+- [ ] don't
+- [ ] bleed
 
-> **解析**：本题在单元主题情境中复习表达 temperature。
+> **解析**：aspirin 为名词，意为“阿司匹林（止痛退烧药）”。take an aspirin 表示“服用一片阿司匹林”。
 
 ### 8
 
-After the visit, I remembered "`____`".
+He drank warm honey water to soothe his persistent dry cough for `____`.
 
-- [x] badly
+- [x] does
 - [ ] aspirin
-- [ ] fever
+- [ ] clinic
 
-> **解析**：本题在单元主题情境中复习表达 badly。
+> **解析**：cough 在此处用作名词，意为“咳嗽”。dry cough 指“干咳”。cough 也可以作动词（如 He is coughing）。
 
 ### 9
 
-We used "`____`" in the conversation.
+Fortunately, the medical test results showed that there was no serious infection (`____`).
 
-- [x] degree
+- [x] doesn't
+- [ ] badly
 - [ ] cough
-- [ ] has got
 
-> **解析**：本题在单元主题情境中复习表达 degree。
+> **解析**：fortunately 为副词，置于句首作为句子状语，意为“幸运地、好在”。其反义词为 unfortunately（不幸地）。
 
 ### 10
 
-That health talk ended with "`____`".
+Press a clean paper towel on the small cut to stop it from bleeding (`____`).
 
-- [x] elbow
-- [ ] doesn't
-- [ ] prescription
+- [x] don't
+- [ ] bleed
+- [ ] degree
 
-> **解析**：本题在单元主题情境中复习表达 elbow。
+> **解析**：bleed 为动词，意为“流血”。过去式和过去分词为 bled。stop sth. from bleeding 表示“阻止……流血”。
 
 </quiz-cloze>

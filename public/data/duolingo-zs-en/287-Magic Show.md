@@ -63,70 +63,79 @@ a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“a round of applause”。  
-   **英文**：In this situation, I heard "a round of applause".
-   > **解析**：本题在单元主题情境中复习表达 a round of applause。
+1. **中文**：话不多说，让我们欢迎我们的魔术大师上台。  
+   **英文**：Without further ado, let us welcome our master magician to the stage (a round of applause).
+   > **解析**：`without further ado` 是习惯口语短语，意为“闲话少说、言归正传”，在主持中极高频。
 
-2. **中文**：同伴解释了“handcuffs”。  
-   **英文**：My partner explained "handcuffs".
-   > **解析**：本题在单元主题情境中复习表达 handcuffs。
+2. **中文**：请为我们来自观众席的勇敢志愿者送上热烈的掌声。  
+   **英文**：Please give a warm round of applause to our brave volunteer from the audience for blindfolded.
+   > **解析**：`a round of applause` 是固定名词短语，意为“一轮掌声”，作动词 `give` 的直接宾语。
 
-3. **中文**：我们一起谈到了“incredibly”。  
-   **英文**：We talked about "incredibly" together.
-   > **解析**：本题在单元主题情境中复习表达 incredibly。
+3. **中文**：这位有才华的魔术师凭空变走了大硬币，让所有人惊叹不已。  
+   **英文**：The talented magician amazed everyone by making a large coin disappear into thin air (brave volunteer).
+   > **解析**：`magician` 是名词，意为“魔术师”，派生自 `magic` + `-ian`。
 
-4. **中文**：我记下了“magician”。  
-   **英文**：I wrote down "magician".
-   > **解析**：本题在单元主题情境中复习表达 magician。
+4. **中文**：镜子道具在舞台上制造了令人信服的光学错觉。  
+   **英文**：The mirror trick created a convincing optical illusion on stage for gasp.
+   > **解析**：`illusion` 是名词，意为“错觉、幻象”，常用搭配 `optical illusion`（光学错觉）。
 
-5. **中文**：例句中包含“precisely”。  
-   **英文**：The example included "precisely".
-   > **解析**：本题在单元主题情境中复习表达 precisely。
+5. **中文**：魔术师在猜观众写的数字时是被蒙上双眼的。  
+   **英文**：The magician was blindfolded while guessing the numbers written by audience members for handcuffs.
+   > **解析**：`blindfolded` 是形容词/副词，意为“被蒙住眼睛的”，由 `blind` + `fold` + `-ed` 构成。
 
-6. **中文**：我询问了“untie”。  
-   **英文**：I asked about "untie".
-   > **解析**：本题在单元主题情境中复习表达 untie。
+6. **中文**：当助手从箱子里消失时，观众发出了响亮的惊呼声。  
+   **英文**：The audience let out a loud gasp when the assistant vanished from the box for handkerchief.
+   > **解析**：`gasp` 作名词，意为“倒吸一口凉气、惊呼”，短语 `let out a gasp`（发出惊呼）。
 
-7. **中文**：我们在句子中用到了“without further ado”。  
-   **英文**：We used "without further ado" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 without further ado。
+7. **中文**：他向任何人发起挑战，看能否在十秒内解开缠在他手上的紧结。  
+   **英文**：He challenged anyone to untie the tight knots around his hands in under ten seconds for illusion.
+   > **解析**：`untie` 是动词，前缀 `un-` + `tie`，意为“解开（绳结）”。
 
-8. **中文**：朋友重复了“blindfolded”。  
-   **英文**：My friend repeated "blindfolded".
-   > **解析**：本题在单元主题情境中复习表达 blindfolded。
+8. **中文**：这场令人惊心动魄的表演完全达到了观众的高预期。  
+   **英文**：The thrilling show completely lived up to the high expectations of the audience for incredibly.
+   > **解析**：`live up to` 是动词短语，意为“符合、达到（预期/标准）”，接 `expectations`。
 
-9. **中文**：后来，我记住了“handkerchief”。  
-   **英文**：Later, I remembered "handkerchief".
-   > **解析**：本题在单元主题情境中复习表达 handkerchief。
+9. **中文**：一位勇敢的志愿者从前排走上前去协助表演绳索魔术。  
+   **英文**：A brave volunteer stepped forward from the front row to assist with the rope trick for knot.
+   > **解析**：`brave volunteer` 是形容词+名词结构，意为“勇敢的志愿者”，常用于舞台互动语境。
 
-10. **中文**：这个小故事以“live up to”收尾。  
-   **英文**：The short story ended with "live up to".
-   > **解析**：本题在单元主题情境中复习表达 live up to。
+10. **中文**：戏剧性的背景音乐在高潮到来前营造出高度悬疑紧张的气氛。  
+   **英文**：The dramatic background music created a highly suspenseful atmosphere before the climax (live up to).
+   > **解析**：`suspenseful` 是形容词，由 `suspense`（悬念）+ `-ful` 构成，意为“悬念重重的、充满悬疑的”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "a round of applause".
-   > **中文**：在这个情境中，我听到了“a round of applause”。
-2. My partner explained "handcuffs".
-   > **中文**：同伴解释了“handcuffs”。
-3. We talked about "incredibly" together.
-   > **中文**：我们一起谈到了“incredibly”。
-4. I wrote down "magician".
-   > **中文**：我记下了“magician”。
-5. The example included "precisely".
-   > **中文**：例句中包含“precisely”。
-6. I asked about "untie".
-   > **中文**：我询问了“untie”。
-7. We used "without further ado" in a sentence.
-   > **中文**：我们在句子中用到了“without further ado”。
-8. My friend repeated "blindfolded".
-   > **中文**：朋友重复了“blindfolded”。
-9. Later, I remembered "handkerchief".
-   > **中文**：后来，我记住了“handkerchief”。
-10. The short story ended with "live up to".
-   > **中文**：这个小故事以“live up to”收尾。
+1. Without further ado, let us welcome our master magician to the stage (a round of applause).
+   > **中文**：话不多说，让我们欢迎我们的魔术大师上台。
+
+2. Please give a warm round of applause to our brave volunteer from the audience for blindfolded.
+   > **中文**：请为我们来自观众席的勇敢志愿者送上热烈的掌声。
+
+3. The talented magician amazed everyone by making a large coin disappear into thin air (brave volunteer).
+   > **中文**：这位有才华的魔术师凭空变走了大硬币，让所有人惊叹不已。
+
+4. The mirror trick created a convincing optical illusion on stage for gasp.
+   > **中文**：镜子道具在舞台上制造了令人信服的光学错觉。
+
+5. The magician was blindfolded while guessing the numbers written by audience members for handcuffs.
+   > **中文**：魔术师在猜观众写的数字时是被蒙上双眼的。
+
+6. The audience let out a loud gasp when the assistant vanished from the box for handkerchief.
+   > **中文**：当助手从箱子里消失时，观众发出了响亮的惊呼声。
+
+7. He challenged anyone to untie the tight knots around his hands in under ten seconds for illusion.
+   > **中文**：他向任何人发起挑战，看能否在十秒内解开缠在他手上的紧结。
+
+8. The thrilling show completely lived up to the high expectations of the audience for incredibly.
+   > **中文**：这场令人惊心动魄的表演完全达到了观众的高预期。
+
+9. A brave volunteer stepped forward from the front row to assist with the rope trick for knot.
+   > **中文**：一位勇敢的志愿者从前排走上前去协助表演绳索魔术。
+
+10. The dramatic background music created a highly suspenseful atmosphere before the climax (live up to).
+   > **中文**：戏剧性的背景音乐在高潮到来前营造出高度悬疑紧张的气氛。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief
 
 ### 1
 
-In this situation, I heard "`____`".
+Without further ado, let us welcome our master magician to the stage (`____`).
 
 - [x] a round of applause
-- [ ] magician
-- [ ] without further ado
+- [ ] gasp
+- [ ] illusion
 
-> **解析**：本题在单元主题情境中复习表达 a round of applause。
+> **解析**：`without further ado` 是习惯口语短语，意为“闲话少说、言归正传”，在主持中极高频。
 
 ### 2
 
-My partner explained "`____`".
+Please give a warm round of applause to our brave volunteer from the audience for `____`.
 
-- [x] handcuffs
-- [ ] precisely
-- [ ] blindfolded
+- [x] blindfolded
+- [ ] handcuffs
+- [ ] incredibly
 
-> **解析**：本题在单元主题情境中复习表达 handcuffs。
+> **解析**：`a round of applause` 是固定名词短语，意为“一轮掌声”，作动词 `give` 的直接宾语。
 
 ### 3
 
-We talked about "`____`" together.
+The talented magician amazed everyone by making a large coin disappear into thin air (`____`).
 
-- [x] incredibly
-- [ ] untie
+- [x] brave volunteer
 - [ ] handkerchief
+- [ ] knot
 
-> **解析**：本题在单元主题情境中复习表达 incredibly。
+> **解析**：`magician` 是名词，意为“魔术师”，派生自 `magic` + `-ian`。
 
 ### 4
 
-I wrote down "`____`".
+The mirror trick created a convincing optical illusion on stage for `____`.
 
-- [x] magician
-- [ ] without further ado
+- [x] gasp
+- [ ] illusion
 - [ ] live up to
 
-> **解析**：本题在单元主题情境中复习表达 magician。
+> **解析**：`illusion` 是名词，意为“错觉、幻象”，常用搭配 `optical illusion`（光学错觉）。
 
 ### 5
 
-The example included "`____`".
+The magician was blindfolded while guessing the numbers written by audience members for `____`.
 
-- [x] precisely
-- [ ] blindfolded
+- [x] handcuffs
+- [ ] incredibly
 - [ ] a round of applause
 
-> **解析**：本题在单元主题情境中复习表达 precisely。
+> **解析**：`blindfolded` 是形容词/副词，意为“被蒙住眼睛的”，由 `blind` + `fold` + `-ed` 构成。
 
 ### 6
 
-I asked about "`____`".
+The audience let out a loud gasp when the assistant vanished from the box for `____`.
 
-- [x] untie
-- [ ] handkerchief
-- [ ] handcuffs
+- [x] handkerchief
+- [ ] knot
+- [ ] blindfolded
 
-> **解析**：本题在单元主题情境中复习表达 untie。
+> **解析**：`gasp` 作名词，意为“倒吸一口凉气、惊呼”，短语 `let out a gasp`（发出惊呼）。
 
 ### 7
 
-We used "`____`" in a sentence.
+He challenged anyone to untie the tight knots around his hands in under ten seconds for `____`.
 
-- [x] without further ado
+- [x] illusion
 - [ ] live up to
-- [ ] incredibly
+- [ ] brave volunteer
 
-> **解析**：本题在单元主题情境中复习表达 without further ado。
+> **解析**：`untie` 是动词，前缀 `un-` + `tie`，意为“解开（绳结）”。
 
 ### 8
 
-My friend repeated "`____`".
+The thrilling show completely lived up to the high expectations of the audience for `____`.
 
-- [x] blindfolded
+- [x] incredibly
 - [ ] a round of applause
-- [ ] magician
+- [ ] gasp
 
-> **解析**：本题在单元主题情境中复习表达 blindfolded。
+> **解析**：`live up to` 是动词短语，意为“符合、达到（预期/标准）”，接 `expectations`。
 
 ### 9
 
-Later, I remembered "`____`".
+A brave volunteer stepped forward from the front row to assist with the rope trick for `____`.
 
-- [x] handkerchief
+- [x] knot
+- [ ] blindfolded
 - [ ] handcuffs
-- [ ] precisely
 
-> **解析**：本题在单元主题情境中复习表达 handkerchief。
+> **解析**：`brave volunteer` 是形容词+名词结构，意为“勇敢的志愿者”，常用于舞台互动语境。
 
 ### 10
 
-The short story ended with "`____`".
+The dramatic background music created a highly suspenseful atmosphere before the climax (`____`).
 
 - [x] live up to
-- [ ] incredibly
-- [ ] untie
+- [ ] brave volunteer
+- [ ] handkerchief
 
-> **解析**：本题在单元主题情境中复习表达 live up to。
+> **解析**：`suspenseful` 是形容词，由 `suspense`（悬念）+ `-ful` 构成，意为“悬念重重的、充满悬疑的”。
 
 </quiz-cloze>

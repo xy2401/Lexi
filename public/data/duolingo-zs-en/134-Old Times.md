@@ -61,70 +61,79 @@ didn't use to 表示"过去不"。sweep → swept（扫）。
 
 <quiz-sentence-builder>
 
-1. **中文**：谈论喜好时，我听到了“accountant”。  
-   **英文**：When we talked about favorites, I heard "accountant".
-   > **解析**：本题在单元主题情境中复习表达 accountant。
+1. **中文**：我祖父母年轻的时候过去常常没有空调。  
+   **英文**：My grandparents didn't use to have air conditioning when they were young for accountant.
+   > **解析**：didn't use to 为 used to 的否定表达，后接动词原形（have），表示“过去习惯不……/以前不曾……”。
 
-2. **中文**：朋友说“cover”很重要。  
-   **英文**：My friend said "cover" was important.
-   > **解析**：本题在单元主题情境中复习表达 cover。
+2. **中文**：几十年前的孩子们周末下午大部分时间都在室外玩耍。  
+   **英文**：Children decades ago spent most of their weekend afternoon playing outdoors for assignment.
+   > **解析**：outdoors 为副词，意为“在室外、在户外的自然环境中”。修饰动词 playing。反义词为 indoors。
 
-3. **中文**：我问他们喜欢哪一个：“favorite”。  
-   **英文**：I asked which one they liked: "favorite".
-   > **解析**：本题在单元主题情境中复习表达 favorite。
+3. **中文**：在下雨天，我们不得不待在室内一起打扑克牌。  
+   **英文**：On rainy days, we had to stay indoors and play card games together for corn.
+   > **解析**：indoors 为副词，意为“在室内、在屋里”。stay indoors 表示“待在室内”。
 
-4. **中文**：聊天时，我们比较了“inch”。  
-   **英文**：In our chat, we compared "inch".
-   > **解析**：本题在单元主题情境中复习表达 inch。
+4. **中文**：我们过去常在我们村子后面的清澈淡水小溪里抓小鱼。  
+   **英文**：We used to catch small fish in the clear freshwater stream behind our village for court.
+   > **解析**：stream 为名词，意为“小溪、溪流”。freshwater stream 表示“淡水溪流”。
 
-5. **中文**：同伴先选择了“outdoors”。  
-   **英文**：My partner chose "outdoors" first.
-   > **解析**：本题在单元主题情境中复习表达 outdoors。
+5. **中文**：清晨，我爷爷很早醒来观看日出。  
+   **英文**：Early in the morning, my grandfather woke up early to watch the sunrise for cover.
+   > **解析**：sunrise 为名词，意为“日出”。watch the sunrise 意为“看日出”。反义词为 sunset（日落）。
 
-6. **中文**：我们用“stream”描述喜好。  
-   **英文**：We used "stream" to describe a favorite.
-   > **解析**：本题在单元主题情境中复习表达 stream。
+6. **中文**：过去的年轻人确实知道如何修理自己的自行车。  
+   **英文**：Young people in the past did know how to repair their own bicycles.
+   > **解析**：know how to do sth. 为固定表达，意为“知道如何做某事、掌握某种技能”。
 
-7. **中文**：答案中包含“tax”。  
-   **英文**：The answer included "tax".
-   > **解析**：本题在单元主题情境中复习表达 tax。
+7. **中文**：与今天相比，五十年前道路上的汽车要少得多。  
+   **英文**：There were fewer cars on the roads fifty years ago compared to today (didn't use to).
+   > **解析**：fewer 为 few 的比较级，后接可数名词复数（cars），意为“更少的”。比较级句式常与 compared to 或 than 连用。
 
-8. **中文**：我从对话中记住了“assignment”。  
-   **英文**：I remembered "assignment" from the conversation.
-   > **解析**：本题在单元主题情境中复习表达 assignment。
+8. **中文**：过去学生们必须用墨水笔手写完成每天的家庭作业任务。  
+   **英文**：Students had to write their daily homework assignments by hand using ink pens for favorite.
+   > **解析**：assignment 为名词，意为“作业、分配的任务”。by hand 表示“手写”。
 
-9. **中文**：朋友微笑着重复了“did”。  
-   **英文**：My friend repeated "did" with a smile.
-   > **解析**：本题在单元主题情境中复习表达 did。
+9. **中文**：在电子计算机出现之前，我父亲担任首席会计师。  
+   **英文**：Before electronic computers existed, my father worked as a chief accountant for fewer.
+   > **解析**：accountant 为名词，意为“会计、会计师”。work as an accountant 意为“担任会计工作”。
 
-10. **中文**：那场关于喜好的聊天以“fly”收尾。  
-   **英文**：That chat about favorites ended with "fly".
-   > **解析**：本题在单元主题情境中复习表达 fly。
+10. **中文**：几十年前的生活很简单；然而，医疗条件要局限得多。  
+   **英文**：Life was simple decades ago; however, medical conditions were much limited for fly.
+   > **解析**：however 为副词/连接副词，表示转折关系“然而、不过”。置于句中通常前后用分号或逗号隔开。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. When we talked about favorites, I heard "accountant".
-   > **中文**：谈论喜好时，我听到了“accountant”。
-2. My friend said "cover" was important.
-   > **中文**：朋友说“cover”很重要。
-3. I asked which one they liked: "favorite".
-   > **中文**：我问他们喜欢哪一个：“favorite”。
-4. In our chat, we compared "inch".
-   > **中文**：聊天时，我们比较了“inch”。
-5. My partner chose "outdoors" first.
-   > **中文**：同伴先选择了“outdoors”。
-6. We used "stream" to describe a favorite.
-   > **中文**：我们用“stream”描述喜好。
-7. The answer included "tax".
-   > **中文**：答案中包含“tax”。
-8. I remembered "assignment" from the conversation.
-   > **中文**：我从对话中记住了“assignment”。
-9. My friend repeated "did" with a smile.
-   > **中文**：朋友微笑着重复了“did”。
-10. That chat about favorites ended with "fly".
-   > **中文**：那场关于喜好的聊天以“fly”收尾。
+1. My grandparents didn't use to have air conditioning when they were young for accountant.
+   > **中文**：我祖父母年轻的时候过去常常没有空调。
+
+2. Children decades ago spent most of their weekend afternoon playing outdoors for assignment.
+   > **中文**：几十年前的孩子们周末下午大部分时间都在室外玩耍。
+
+3. On rainy days, we had to stay indoors and play card games together for corn.
+   > **中文**：在下雨天，我们不得不待在室内一起打扑克牌。
+
+4. We used to catch small fish in the clear freshwater stream behind our village for court.
+   > **中文**：我们过去常在我们村子后面的清澈淡水小溪里抓小鱼。
+
+5. Early in the morning, my grandfather woke up early to watch the sunrise for cover.
+   > **中文**：清晨，我爷爷很早醒来观看日出。
+
+6. Young people in the past did know how to repair their own bicycles.
+   > **中文**：过去的年轻人确实知道如何修理自己的自行车。
+
+7. There were fewer cars on the roads fifty years ago compared to today (didn't use to).
+   > **中文**：与今天相比，五十年前道路上的汽车要少得多。
+
+8. Students had to write their daily homework assignments by hand using ink pens for favorite.
+   > **中文**：过去学生们必须用墨水笔手写完成每天的家庭作业任务。
+
+9. Before electronic computers existed, my father worked as a chief accountant for fewer.
+   > **中文**：在电子计算机出现之前，我父亲担任首席会计师。
+
+10. Life was simple decades ago; however, medical conditions were much limited for fly.
+   > **中文**：几十年前的生活很简单；然而，医疗条件要局限得多。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ didn't use to 表示"过去不"。sweep → swept（扫）。
 
 ### 1
 
-When we talked about favorites, I heard "`____`".
+My grandparents didn't use to have air conditioning when they were young for `____`.
 
 - [x] accountant
-- [ ] inch
-- [ ] tax
+- [ ] court
+- [ ] didn't use to
 
-> **解析**：本题在单元主题情境中复习表达 accountant。
+> **解析**：didn't use to 为 used to 的否定表达，后接动词原形（have），表示“过去习惯不……/以前不曾……”。
 
 ### 2
 
-My friend said "`____`" was important.
+Children decades ago spent most of their weekend afternoon playing outdoors for `____`.
 
-- [x] cover
-- [ ] outdoors
-- [ ] assignment
+- [x] assignment
+- [ ] cover
+- [ ] favorite
 
-> **解析**：本题在单元主题情境中复习表达 cover。
+> **解析**：outdoors 为副词，意为“在室外、在户外的自然环境中”。修饰动词 playing。反义词为 indoors。
 
 ### 3
 
-I asked which one they liked: "`____`".
+On rainy days, we had to stay indoors and play card games together for `____`.
 
-- [x] favorite
-- [ ] stream
+- [x] corn
 - [ ] did
+- [ ] fewer
 
-> **解析**：本题在单元主题情境中复习表达 favorite。
+> **解析**：indoors 为副词，意为“在室内、在屋里”。stay indoors 表示“待在室内”。
 
 ### 4
 
-In our chat, we compared "`____`".
+We used to catch small fish in the clear freshwater stream behind our village for `____`.
 
-- [x] inch
-- [ ] tax
+- [x] court
+- [ ] didn't use to
 - [ ] fly
 
-> **解析**：本题在单元主题情境中复习表达 inch。
+> **解析**：stream 为名词，意为“小溪、溪流”。freshwater stream 表示“淡水溪流”。
 
 ### 5
 
-My partner chose "`____`" first.
+Early in the morning, my grandfather woke up early to watch the sunrise for `____`.
 
-- [x] outdoors
-- [ ] assignment
+- [x] cover
+- [ ] favorite
 - [ ] accountant
 
-> **解析**：本题在单元主题情境中复习表达 outdoors。
+> **解析**：sunrise 为名词，意为“日出”。watch the sunrise 意为“看日出”。反义词为 sunset（日落）。
 
 ### 6
 
-We used "`____`" to describe a favorite.
+Young people in the past `____` know how to repair their own bicycles.
 
-- [x] stream
-- [ ] did
-- [ ] cover
+- [x] did
+- [ ] fewer
+- [ ] assignment
 
-> **解析**：本题在单元主题情境中复习表达 stream。
+> **解析**：know how to do sth. 为固定表达，意为“知道如何做某事、掌握某种技能”。
 
 ### 7
 
-The answer included "`____`".
+There were fewer cars on the roads fifty years ago compared to today (`____`).
 
-- [x] tax
+- [x] didn't use to
 - [ ] fly
-- [ ] favorite
+- [ ] corn
 
-> **解析**：本题在单元主题情境中复习表达 tax。
+> **解析**：fewer 为 few 的比较级，后接可数名词复数（cars），意为“更少的”。比较级句式常与 compared to 或 than 连用。
 
 ### 8
 
-I remembered "`____`" from the conversation.
+Students had to write their daily homework assignments by hand using ink pens for `____`.
 
-- [x] assignment
+- [x] favorite
 - [ ] accountant
-- [ ] inch
+- [ ] court
 
-> **解析**：本题在单元主题情境中复习表达 assignment。
+> **解析**：assignment 为名词，意为“作业、分配的任务”。by hand 表示“手写”。
 
 ### 9
 
-My friend repeated "`____`" with a smile.
+Before electronic computers existed, my father worked as a chief accountant for `____`.
 
-- [x] did
+- [x] fewer
+- [ ] assignment
 - [ ] cover
-- [ ] outdoors
 
-> **解析**：本题在单元主题情境中复习表达 did。
+> **解析**：accountant 为名词，意为“会计、会计师”。work as an accountant 意为“担任会计工作”。
 
 ### 10
 
-That chat about favorites ended with "`____`".
+Life was simple decades ago; however, medical conditions were much limited for `____`.
 
 - [x] fly
-- [ ] favorite
-- [ ] stream
+- [ ] corn
+- [ ] did
 
-> **解析**：本题在单元主题情境中复习表达 fly。
+> **解析**：however 为副词/连接副词，表示转折关系“然而、不过”。置于句中通常前后用分号或逗号隔开。
 
 </quiz-cloze>

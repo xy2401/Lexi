@@ -51,70 +51,79 @@ get → gotten 是美式英语的过去分词形式（He has gotten away with it
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“agree”。  
-   **英文**：In this situation, I heard "agree".
-   > **解析**：本题在单元主题情境中复习表达 agree。
+1. **中文**：两支法律团队终于就一项公平的和解方案达成了一致。  
+   **英文**：The two legal teams finally managed to agree on a fair settlement.
+   > **解析**：`agree` 不及物动词，搭配 `agree on sth.` 表示“就某事达成协议/一致意见”。
 
-2. **中文**：同伴解释了“fine”。  
-   **英文**：My partner explained "fine".
-   > **解析**：本题在单元主题情境中复习表达 fine。
+2. **中文**：司机因在学校区域超速行驶而必须支付高额罚款。  
+   **英文**：The driver had to pay a heavy fine for exceeding the speed limit in the school zone for corruption.
+   > **解析**：`fine` 在此处作可数名词，意为“罚款”。搭配 `pay a fine`（缴纳罚款）。
 
-3. **中文**：我们一起谈到了“human being”。  
-   **英文**：We talked about "human being" together.
-   > **解析**：本题在单元主题情境中复习表达 human being。
+3. **中文**：每个人类都拥有必须受法律保护的基本权利。  
+   **英文**：Every human being has fundamental rights that must be protected by law for defend.
+   > **解析**：`human being` 为名词短语，意为“人类；人”，相较于 `human` 强调人的个体生命属性与尊严。
 
-4. **中文**：我记下了“likely”。  
-   **英文**：I wrote down "likely".
-   > **解析**：本题在单元主题情境中复习表达 likely。
+4. **中文**：在警方收集到足够证据后，嫌疑人很可能会面临刑事指控。  
+   **英文**：The suspect is likely to face criminal charges after the police gather enough evidence for demand.
+   > **解析**：`likely` 形容词，意为“可能的”。固定搭配 `be likely to do sth.`（很有可能做某事）。
 
-5. **中文**：例句中包含“minimum”。  
-   **英文**：The example included "minimum".
-   > **解析**：本题在单元主题情境中复习表达 minimum。
+5. **中文**：法律对这种性质的严重违法行为规定了至少五年的最低刑期。  
+   **英文**：The law sets a minimum sentence of five years for serious offences of this nature for fine.
+   > **解析**：`minimum` 在此处作形容词修饰 `sentence`，意为“最低的；最小限度的”。
 
-6. **中文**：我询问了“proof”。  
-   **英文**：I asked about "proof".
-   > **解析**：本题在单元主题情境中复习表达 proof。
+6. **中文**：检察官出示了将被告与犯罪现场直接联系起来的确凿证据。  
+   **英文**：The prosecutor presented solid proof that connected the defendant directly to the crime scene for get.
+   > **解析**：`proof` 名词，意为“证明；证据”（常作不可数或可数名词）。动词形式为 `prove`（证明）。
 
-7. **中文**：我们在句子中用到了“secretly”。  
-   **英文**：We used "secretly" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 secretly。
+7. **中文**：侦探秘密监听了嫌疑人的电话以揭露阴谋。  
+   **英文**：The detective secretly monitored the suspect's phone calls to uncover the conspiracy for gotten.
+   > **解析**：`secretly` 副词，意为“秘密地；暗中”，修饰动词 `monitored`。
 
-8. **中文**：朋友重复了“corruption”。  
-   **英文**：My friend repeated "corruption".
-   > **解析**：本题在单元主题情境中复习表达 corruption。
+8. **中文**：新法规旨在消除公共服务中的受贿与官方腐败现象。  
+   **英文**：The new regulations aim to eradicate bribery and official corruption in public services (human being).
+   > **解析**：`corruption` 不可数名词，意为“腐败；贪污；堕落”。
 
-9. **中文**：后来，我记住了“get”。  
-   **英文**：Later, I remembered "get".
-   > **解析**：本题在单元主题情境中复习表达 get。
+9. **中文**：如果你屡次违反交通规则，你将会卷入严重的法律麻烦。  
+   **英文**：If you break traffic rules repeatedly, you will get into serious legal trouble for inform.
+   > **解析**：`get` 在此处用作连系/动作动词，短语 `get into trouble` 表示“陷入麻烦/困境”。
 
-10. **中文**：这个小故事以“jury”收尾。  
-   **英文**：The short story ended with "jury".
-   > **解析**：本题在单元主题情境中复习表达 jury。
+10. **中文**：陪审团审议了数小时，随后作出了有罪的判定。  
+   **英文**：The jury deliberated for several hours before delivering a unanimous verdict of guilty.
+   > **解析**：`jury` 名词，意为“陪审团”。在法庭裁决中作为整体时谓语动词可作单数处理。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "agree".
-   > **中文**：在这个情境中，我听到了“agree”。
-2. My partner explained "fine".
-   > **中文**：同伴解释了“fine”。
-3. We talked about "human being" together.
-   > **中文**：我们一起谈到了“human being”。
-4. I wrote down "likely".
-   > **中文**：我记下了“likely”。
-5. The example included "minimum".
-   > **中文**：例句中包含“minimum”。
-6. I asked about "proof".
-   > **中文**：我询问了“proof”。
-7. We used "secretly" in a sentence.
-   > **中文**：我们在句子中用到了“secretly”。
-8. My friend repeated "corruption".
-   > **中文**：朋友重复了“corruption”。
-9. Later, I remembered "get".
-   > **中文**：后来，我记住了“get”。
-10. The short story ended with "jury".
-   > **中文**：这个小故事以“jury”收尾。
+1. The two legal teams finally managed to agree on a fair settlement.
+   > **中文**：两支法律团队终于就一项公平的和解方案达成了一致。
+
+2. The driver had to pay a heavy fine for exceeding the speed limit in the school zone for corruption.
+   > **中文**：司机因在学校区域超速行驶而必须支付高额罚款。
+
+3. Every human being has fundamental rights that must be protected by law for defend.
+   > **中文**：每个人类都拥有必须受法律保护的基本权利。
+
+4. The suspect is likely to face criminal charges after the police gather enough evidence for demand.
+   > **中文**：在警方收集到足够证据后，嫌疑人很可能会面临刑事指控。
+
+5. The law sets a minimum sentence of five years for serious offences of this nature for fine.
+   > **中文**：法律对这种性质的严重违法行为规定了至少五年的最低刑期。
+
+6. The prosecutor presented solid proof that connected the defendant directly to the crime scene for get.
+   > **中文**：检察官出示了将被告与犯罪现场直接联系起来的确凿证据。
+
+7. The detective secretly monitored the suspect's phone calls to uncover the conspiracy for gotten.
+   > **中文**：侦探秘密监听了嫌疑人的电话以揭露阴谋。
+
+8. The new regulations aim to eradicate bribery and official corruption in public services (human being).
+   > **中文**：新法规旨在消除公共服务中的受贿与官方腐败现象。
+
+9. If you break traffic rules repeatedly, you will get into serious legal trouble for inform.
+   > **中文**：如果你屡次违反交通规则，你将会卷入严重的法律麻烦。
+
+10. The jury deliberated for several hours before delivering a unanimous verdict of guilty.
+   > **中文**：陪审团审议了数小时，随后作出了有罪的判定。
 
 </quiz-listening>
 
@@ -126,102 +135,102 @@ get → gotten 是美式英语的过去分词形式（He has gotten away with it
 
 ### 1
 
-In this situation, I heard "`____`".
+The two legal teams finally managed to `____` on a fair settlement.
 
 - [x] agree
-- [ ] likely
-- [ ] secretly
+- [ ] demand
+- [ ] gotten
 
-> **解析**：本题在单元主题情境中复习表达 agree。
+> **解析**：`agree` 不及物动词，搭配 `agree on sth.` 表示“就某事达成协议/一致意见”。
 
 ### 2
 
-My partner explained "`____`".
+The driver had to pay a heavy fine for exceeding the speed limit in the school zone for `____`.
 
-- [x] fine
-- [ ] minimum
-- [ ] corruption
+- [x] corruption
+- [ ] fine
+- [ ] human being
 
-> **解析**：本题在单元主题情境中复习表达 fine。
+> **解析**：`fine` 在此处作可数名词，意为“罚款”。搭配 `pay a fine`（缴纳罚款）。
 
 ### 3
 
-We talked about "`____`" together.
+Every human being has fundamental rights that must be protected by law for `____`.
 
-- [x] human being
-- [ ] proof
+- [x] defend
 - [ ] get
+- [ ] inform
 
-> **解析**：本题在单元主题情境中复习表达 human being。
+> **解析**：`human being` 为名词短语，意为“人类；人”，相较于 `human` 强调人的个体生命属性与尊严。
 
 ### 4
 
-I wrote down "`____`".
+The suspect is likely to face criminal charges after the police gather enough evidence for `____`.
 
-- [x] likely
-- [ ] secretly
+- [x] demand
+- [ ] gotten
 - [ ] jury
 
-> **解析**：本题在单元主题情境中复习表达 likely。
+> **解析**：`likely` 形容词，意为“可能的”。固定搭配 `be likely to do sth.`（很有可能做某事）。
 
 ### 5
 
-The example included "`____`".
+The law sets a minimum sentence of five years for serious offences of this nature for `____`.
 
-- [x] minimum
-- [ ] corruption
+- [x] fine
+- [ ] human being
 - [ ] agree
 
-> **解析**：本题在单元主题情境中复习表达 minimum。
+> **解析**：`minimum` 在此处作形容词修饰 `sentence`，意为“最低的；最小限度的”。
 
 ### 6
 
-I asked about "`____`".
+The prosecutor presented solid proof that connected the defendant directly to the crime scene for `____`.
 
-- [x] proof
-- [ ] get
-- [ ] fine
+- [x] get
+- [ ] inform
+- [ ] corruption
 
-> **解析**：本题在单元主题情境中复习表达 proof。
+> **解析**：`proof` 名词，意为“证明；证据”（常作不可数或可数名词）。动词形式为 `prove`（证明）。
 
 ### 7
 
-We used "`____`" in a sentence.
+The detective secretly monitored the suspect's phone calls to uncover the conspiracy for `____`.
 
-- [x] secretly
+- [x] gotten
 - [ ] jury
-- [ ] human being
+- [ ] defend
 
-> **解析**：本题在单元主题情境中复习表达 secretly。
+> **解析**：`secretly` 副词，意为“秘密地；暗中”，修饰动词 `monitored`。
 
 ### 8
 
-My friend repeated "`____`".
+The new regulations aim to eradicate bribery and official corruption in public services (`____`).
 
-- [x] corruption
+- [x] human being
 - [ ] agree
-- [ ] likely
+- [ ] demand
 
-> **解析**：本题在单元主题情境中复习表达 corruption。
+> **解析**：`corruption` 不可数名词，意为“腐败；贪污；堕落”。
 
 ### 9
 
-Later, I remembered "`____`".
+If you break traffic rules repeatedly, you will get into serious legal trouble for `____`.
 
-- [x] get
+- [x] inform
+- [ ] corruption
 - [ ] fine
-- [ ] minimum
 
-> **解析**：本题在单元主题情境中复习表达 get。
+> **解析**：`get` 在此处用作连系/动作动词，短语 `get into trouble` 表示“陷入麻烦/困境”。
 
 ### 10
 
-The short story ended with "`____`".
+The `____` deliberated for several hours before delivering a unanimous verdict of guilty.
 
 - [x] jury
-- [ ] human being
-- [ ] proof
+- [ ] defend
+- [ ] get
 
-> **解析**：本题在单元主题情境中复习表达 jury。
+> **解析**：`jury` 名词，意为“陪审团”。在法庭裁决中作为整体时谓语动词可作单数处理。
 
 </quiz-cloze>

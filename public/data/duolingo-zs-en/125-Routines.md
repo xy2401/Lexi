@@ -61,70 +61,79 @@ fall asleep（入睡）→ fallen asleep（已入睡）。ring → rang → rung
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“asleep”。  
-   **英文**：In this situation, I heard "asleep".
-   > **解析**：本题在单元主题情境中复习表达 asleep。
+1. **中文**：睡前喝热牛奶有助于孩子们更快入睡。  
+   **英文**：Drinking warm milk before bed helps children fall asleep faster.
+   > **解析**：fall asleep 为固定动词短语，意为“入睡、睡着”。asleep 为表语形容词。过去式为 fell asleep。
 
-2. **中文**：同伴解释了“comb”。  
-   **英文**：My partner explained "comb".
-   > **解析**：本题在单元主题情境中复习表达 comb。
+2. **中文**：施工现场的噪音让所有人整晚都无法入睡。  
+   **英文**：Noise from the construction site kept everyone awake all night.
+   > **解析**：awake 为形容词，作宾语补足语（keep sb. awake 使某人保持清醒/醒着）。与 asleep（睡着的）互为反义词。
 
-3. **中文**：我们一起谈到了“exercise”。  
-   **英文**：We talked about "exercise" together.
-   > **解析**：本题在单元主题情境中复习表达 exercise。
+3. **中文**：每天两次挤少许牙膏到牙刷上。  
+   **英文**：Squeeze a small amount of toothpaste onto your toothbrush twice a day for bored.
+   > **解析**：toothpaste 为不可数合成名词（tooth + paste），意为“牙膏”。a tube of toothpaste 表示“一管牙膏”。
 
-4. **中文**：我记下了“hug”。  
-   **英文**：I wrote down "hug".
-   > **解析**：本题在单元主题情境中复习表达 hug。
+4. **中文**：下班后听轻柔的音乐有助于我放松心情。  
+   **英文**：Listening to soft music after work helps me relax my mind for change.
+   > **解析**：relax 为动词，意为“放松、休整”。做不及物动词时指“休息放松”，做及物动词时如 relax one's mind（放松心情）。
 
-5. **中文**：例句中包含“relax”。  
-   **英文**：The example included "relax".
-   > **解析**：本题在单元主题情境中复习表达 relax。
+5. **中文**：每天早晨进行规律的体育锻炼能增强体质。  
+   **英文**：Doing regular exercise every morning builds up physical health for comb.
+   > **解析**：exercise 在此处用作不可数名词，意为“体育锻炼/运动”。do exercise 意为“做运动”。
 
-6. **中文**：我询问了“scared”。  
-   **英文**：I asked about "scared".
-   > **解析**：本题在单元主题情境中复习表达 scared。
+6. **中文**：他喜欢每天早晨去办公室之前刮胡子。  
+   **英文**：He likes to shave his beard before going to the office each morning for down.
+   > **解析**：shave 为动词，意为“刮（胡子/毛发）”。shave his beard 表示“刮胡子”。名词形式亦为 shave（have a shave）。
 
-7. **中文**：我们在句子中用到了“stressed”。  
-   **英文**：We used "stressed" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 stressed。
+7. **中文**：用一把宽齿梳轻轻梳开你湿漉漉的头发。  
+   **英文**：Use a wide-tooth comb to gently untangle your wet hair for dress.
+   > **解析**：comb 在此处用作名词，意为“梳子”。comb 也可以作动词（comb hair 梳头）。
 
-8. **中文**：朋友重复了“awake”。  
-   **英文**：My friend repeated "awake".
-   > **解析**：本题在单元主题情境中复习表达 awake。
+8. **中文**：因为演示文稿的截止时间很紧，她感到压力很大。  
+   **英文**：She feels very stressed because of the tight deadline for her presentation for exercise.
+   > **解析**：stressed 为形容词，意为“感到有压力的”，用于修饰人（She feels stressed）。形容事物令人紧张用 stressful（a stressful task）。
 
-9. **中文**：后来，我记住了“down”。  
-   **英文**：Later, I remembered "down".
-   > **解析**：本题在单元主题情境中复习表达 down。
+9. **中文**：一整天坐在不合身形的椅子上会让你的下背部感到不舒服。  
+   **英文**：Sitting in an ill-fitting chair all day makes your lower back uncomfortable (fall asleep).
+   > **解析**：uncomfortable 为形容词，前缀 un- 表示否定，意为“不舒服的、不自在的”。在句中作宾语补足语。
 
-10. **中文**：这个小故事以“fallen asleep”收尾。  
-   **英文**：The short story ended with "fallen asleep".
-   > **解析**：本题在单元主题情境中复习表达 fallen asleep。
+10. **中文**：在帮忙做脏累的花园家务之前，你应当换一身衣服。  
+   **英文**：You should change your clothes before helping with the dirty garden chores (fallen asleep).
+   > **解析**：change 为动词，意为“更换、改变”。change your clothes 表达“换衣服”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "asleep".
-   > **中文**：在这个情境中，我听到了“asleep”。
-2. My partner explained "comb".
-   > **中文**：同伴解释了“comb”。
-3. We talked about "exercise" together.
-   > **中文**：我们一起谈到了“exercise”。
-4. I wrote down "hug".
-   > **中文**：我记下了“hug”。
-5. The example included "relax".
-   > **中文**：例句中包含“relax”。
-6. I asked about "scared".
-   > **中文**：我询问了“scared”。
-7. We used "stressed" in a sentence.
-   > **中文**：我们在句子中用到了“stressed”。
-8. My friend repeated "awake".
-   > **中文**：朋友重复了“awake”。
-9. Later, I remembered "down".
-   > **中文**：后来，我记住了“down”。
-10. The short story ended with "fallen asleep".
-   > **中文**：这个小故事以“fallen asleep”收尾。
+1. Drinking warm milk before bed helps children fall asleep faster.
+   > **中文**：睡前喝热牛奶有助于孩子们更快入睡。
+
+2. Noise from the construction site kept everyone awake all night.
+   > **中文**：施工现场的噪音让所有人整晚都无法入睡。
+
+3. Squeeze a small amount of toothpaste onto your toothbrush twice a day for bored.
+   > **中文**：每天两次挤少许牙膏到牙刷上。
+
+4. Listening to soft music after work helps me relax my mind for change.
+   > **中文**：下班后听轻柔的音乐有助于我放松心情。
+
+5. Doing regular exercise every morning builds up physical health for comb.
+   > **中文**：每天早晨进行规律的体育锻炼能增强体质。
+
+6. He likes to shave his beard before going to the office each morning for down.
+   > **中文**：他喜欢每天早晨去办公室之前刮胡子。
+
+7. Use a wide-tooth comb to gently untangle your wet hair for dress.
+   > **中文**：用一把宽齿梳轻轻梳开你湿漉漉的头发。
+
+8. She feels very stressed because of the tight deadline for her presentation for exercise.
+   > **中文**：因为演示文稿的截止时间很紧，她感到压力很大。
+
+9. Sitting in an ill-fitting chair all day makes your lower back uncomfortable (fall asleep).
+   > **中文**：一整天坐在不合身形的椅子上会让你的下背部感到不舒服。
+
+10. You should change your clothes before helping with the dirty garden chores (fallen asleep).
+   > **中文**：在帮忙做脏累的花园家务之前，你应当换一身衣服。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ fall asleep（入睡）→ fallen asleep（已入睡）。ring → rang → rung
 
 ### 1
 
-In this situation, I heard "`____`".
+Drinking warm milk before bed helps children fall `____` faster.
 
 - [x] asleep
-- [ ] hug
-- [ ] stressed
+- [ ] change
+- [ ] dress
 
-> **解析**：本题在单元主题情境中复习表达 asleep。
+> **解析**：fall asleep 为固定动词短语，意为“入睡、睡着”。asleep 为表语形容词。过去式为 fell asleep。
 
 ### 2
 
-My partner explained "`____`".
+Noise from the construction site kept everyone `____` all night.
 
-- [x] comb
-- [ ] relax
-- [ ] awake
+- [x] awake
+- [ ] comb
+- [ ] exercise
 
-> **解析**：本题在单元主题情境中复习表达 comb。
+> **解析**：awake 为形容词，作宾语补足语（keep sb. awake 使某人保持清醒/醒着）。与 asleep（睡着的）互为反义词。
 
 ### 3
 
-We talked about "`____`" together.
+Squeeze a small amount of toothpaste onto your toothbrush twice a day for `____`.
 
-- [x] exercise
-- [ ] scared
+- [x] bored
 - [ ] down
+- [ ] fall asleep
 
-> **解析**：本题在单元主题情境中复习表达 exercise。
+> **解析**：toothpaste 为不可数合成名词（tooth + paste），意为“牙膏”。a tube of toothpaste 表示“一管牙膏”。
 
 ### 4
 
-I wrote down "`____`".
+Listening to soft music after work helps me relax my mind for `____`.
 
-- [x] hug
-- [ ] stressed
+- [x] change
+- [ ] dress
 - [ ] fallen asleep
 
-> **解析**：本题在单元主题情境中复习表达 hug。
+> **解析**：relax 为动词，意为“放松、休整”。做不及物动词时指“休息放松”，做及物动词时如 relax one's mind（放松心情）。
 
 ### 5
 
-The example included "`____`".
+Doing regular exercise every morning builds up physical health for `____`.
 
-- [x] relax
-- [ ] awake
+- [x] comb
+- [ ] exercise
 - [ ] asleep
 
-> **解析**：本题在单元主题情境中复习表达 relax。
+> **解析**：exercise 在此处用作不可数名词，意为“体育锻炼/运动”。do exercise 意为“做运动”。
 
 ### 6
 
-I asked about "`____`".
+He likes to shave his beard before going to the office each morning for `____`.
 
-- [x] scared
-- [ ] down
-- [ ] comb
+- [x] down
+- [ ] fall asleep
+- [ ] awake
 
-> **解析**：本题在单元主题情境中复习表达 scared。
+> **解析**：shave 为动词，意为“刮（胡子/毛发）”。shave his beard 表示“刮胡子”。名词形式亦为 shave（have a shave）。
 
 ### 7
 
-We used "`____`" in a sentence.
+Use a wide-tooth comb to gently untangle your wet hair for `____`.
 
-- [x] stressed
+- [x] dress
 - [ ] fallen asleep
-- [ ] exercise
+- [ ] bored
 
-> **解析**：本题在单元主题情境中复习表达 stressed。
+> **解析**：comb 在此处用作名词，意为“梳子”。comb 也可以作动词（comb hair 梳头）。
 
 ### 8
 
-My friend repeated "`____`".
+She feels very stressed because of the tight deadline for her presentation for `____`.
 
-- [x] awake
+- [x] exercise
 - [ ] asleep
-- [ ] hug
+- [ ] change
 
-> **解析**：本题在单元主题情境中复习表达 awake。
+> **解析**：stressed 为形容词，意为“感到有压力的”，用于修饰人（She feels stressed）。形容事物令人紧张用 stressful（a stressful task）。
 
 ### 9
 
-Later, I remembered "`____`".
+Sitting in an ill-fitting chair all day makes your lower back uncomfortable (`____`).
 
-- [x] down
+- [x] fall asleep
+- [ ] awake
 - [ ] comb
-- [ ] relax
 
-> **解析**：本题在单元主题情境中复习表达 down。
+> **解析**：uncomfortable 为形容词，前缀 un- 表示否定，意为“不舒服的、不自在的”。在句中作宾语补足语。
 
 ### 10
 
-The short story ended with "`____`".
+You should change your clothes before helping with the dirty garden chores (`____`).
 
 - [x] fallen asleep
-- [ ] exercise
-- [ ] scared
+- [ ] bored
+- [ ] down
 
-> **解析**：本题在单元主题情境中复习表达 fallen asleep。
+> **解析**：change 为动词，意为“更换、改变”。change your clothes 表达“换衣服”。
 
 </quiz-cloze>

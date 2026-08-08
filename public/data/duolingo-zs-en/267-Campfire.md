@@ -63,70 +63,79 @@ Bigfoot, burst into, campfire, cliffhanger, darkness, dead, dying to, edge of my
 
 <quiz-sentence-builder>
 
-1. **中文**：在家里，我们谈到了“Bigfoot”。  
-   **英文**：At home, we talked about "Bigfoot".
-   > **解析**：本题在单元主题情境中复习表达 Bigfoot。
+1. **中文**：聚在温暖的营火旁分享故事是露营中最棒的部分。  
+   **英文**：Gathering around the warm campfire to share stories is the best part of camping for Bigfoot.
+   > **解析**：`campfire` 是名词，意为“营火、篝火”。
 
-2. **中文**：家人提到了“darkness”。  
-   **英文**：My family mentioned "darkness".
-   > **解析**：本题在单元主题情境中复习表达 darkness。
+2. **中文**：他讲了一个如此吓人的恐怖故事，以至于大家都害怕离开帐篷。  
+   **英文**：He told such a scary story that everyone was afraid to leave the tent (burst into).
+   > **解析**：`scary story` 意为“恐怖故事、鬼故事”，搭配 `tell a scary story`。
 
-3. **中文**：在房间里，我注意到了“edge of my seat”。  
-   **英文**：In the room, I noticed "edge of my seat".
-   > **解析**：本题在单元主题情境中复习表达 edge of my seat。
+3. **中文**：树林里幽深可怖的声音让我浑身起鸡皮疙瘩。  
+   **英文**：The spooky sound in the woods gave me goosebumps all over for campfire.
+   > **解析**：`goosebumps` 是复数名词，意为“鸡皮疙瘩”，短语 `give sb goosebumps`。
 
-4. **中文**：我们在家里用到了“grizzly bear”。  
-   **英文**：We used "grizzly bear" at home.
-   > **解析**：本题在单元主题情境中复习表达 grizzly bear。
+4. **中文**：他戏剧性的讲述让我整晚都全神贯注/紧扣心弦。  
+   **英文**：His dramatic storytelling kept me on the edge of my seat the whole night for cliffhanger.
+   > **解析**：`on the edge of one's seat` 是成语短语，意为“全神贯注、坐立不安”。
 
-5. **中文**：邻居询问了“marshmallow”。  
-   **英文**：My neighbor asked about "marshmallow".
-   > **解析**：本题在单元主题情境中复习表达 marshmallow。
+5. **中文**：我们迫不及待地想去参加即将在国家公园举行的周末露营之旅。  
+   **英文**：We are dying to go on our upcoming weekend camping trip in the national park for darkness.
+   > **解析**：`be dying to do sth` 是口语极度渴望表达，意为“迫不及待做某事”。
 
-6. **中文**：我在门边写下了“s'mores”。  
-   **英文**：I wrote down "s'mores" by the door.
-   > **解析**：本题在单元主题情境中复习表达 s'mores。
+6. **中文**：在昏暗的月光下，静谧的森林显得极其阴森可怖。  
+   **英文**：The quiet forest felt extremely spooky under the dim moonlight for dead.
+   > **解析**：`spooky` 是形容词，意为“阴森可怖的、怪异的”。
 
-7. **中文**：晚饭后，我们重复了“spooky”。  
-   **英文**：After dinner, we repeated "spooky".
-   > **解析**：本题在单元主题情境中复习表达 spooky。
+7. **中文**：在明火上烤棉花糖是一道传统的户外美食。  
+   **英文**：Roasting marshmallows over the open fire is a traditional outdoor treat (dying to).
+   > **解析**：`marshmallow` 是名词，意为“棉花糖”，`roast marshmallows`。
 
-8. **中文**：家庭故事里包含“burst into”。  
-   **英文**：The family story included "burst into".
-   > **解析**：本题在单元主题情境中复习表达 burst into。
+8. **中文**：有趣笑话刚讲完，营火旁的每个人都爆发出一阵大笑。  
+   **英文**：As soon as the funny joke ended, everyone burst into laughter around the fire (edge of my seat).
+   > **解析**：`burst into + 名词`（如 `laughter`）意为“突然爆发/化作……”。
 
-9. **中文**：睡前，我记住了“dead”。  
-   **英文**：Before bed, I remembered "dead".
-   > **解析**：本题在单元主题情境中复习表达 dead。
+9. **中文**：我们刚搭好帐篷，天空就下起了倾盆大雨。  
+   **英文**：No sooner had we pitched the tent than it started to pour rain (excited for).
+   > **解析**：`No sooner had... than...` 是固定倒装句型，意为“刚一……就……”。
 
-10. **中文**：那个夜晚以“go to sleep”收尾。  
-   **英文**：That evening ended with "go to sleep".
-   > **解析**：本题在单元主题情境中复习表达 go to sleep。
+10. **中文**：所有的孩子都对明天的徒步冒险超级兴奋。  
+   **英文**：All the kids are super excited for tomorrow's hiking adventure (go to sleep).
+   > **解析**：`be excited for sth` 意为“对……感到兴奋/期待”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At home, we talked about "Bigfoot".
-   > **中文**：在家里，我们谈到了“Bigfoot”。
-2. My family mentioned "darkness".
-   > **中文**：家人提到了“darkness”。
-3. In the room, I noticed "edge of my seat".
-   > **中文**：在房间里，我注意到了“edge of my seat”。
-4. We used "grizzly bear" at home.
-   > **中文**：我们在家里用到了“grizzly bear”。
-5. My neighbor asked about "marshmallow".
-   > **中文**：邻居询问了“marshmallow”。
-6. I wrote down "s'mores" by the door.
-   > **中文**：我在门边写下了“s'mores”。
-7. After dinner, we repeated "spooky".
-   > **中文**：晚饭后，我们重复了“spooky”。
-8. The family story included "burst into".
-   > **中文**：家庭故事里包含“burst into”。
-9. Before bed, I remembered "dead".
-   > **中文**：睡前，我记住了“dead”。
-10. That evening ended with "go to sleep".
-   > **中文**：那个夜晚以“go to sleep”收尾。
+1. Gathering around the warm campfire to share stories is the best part of camping for Bigfoot.
+   > **中文**：聚在温暖的营火旁分享故事是露营中最棒的部分。
+
+2. He told such a scary story that everyone was afraid to leave the tent (burst into).
+   > **中文**：他讲了一个如此吓人的恐怖故事，以至于大家都害怕离开帐篷。
+
+3. The spooky sound in the woods gave me goosebumps all over for campfire.
+   > **中文**：树林里幽深可怖的声音让我浑身起鸡皮疙瘩。
+
+4. His dramatic storytelling kept me on the edge of my seat the whole night for cliffhanger.
+   > **中文**：他戏剧性的讲述让我整晚都全神贯注/紧扣心弦。
+
+5. We are dying to go on our upcoming weekend camping trip in the national park for darkness.
+   > **中文**：我们迫不及待地想去参加即将在国家公园举行的周末露营之旅。
+
+6. The quiet forest felt extremely spooky under the dim moonlight for dead.
+   > **中文**：在昏暗的月光下，静谧的森林显得极其阴森可怖。
+
+7. Roasting marshmallows over the open fire is a traditional outdoor treat (dying to).
+   > **中文**：在明火上烤棉花糖是一道传统的户外美食。
+
+8. As soon as the funny joke ended, everyone burst into laughter around the fire (edge of my seat).
+   > **中文**：有趣笑话刚讲完，营火旁的每个人都爆发出一阵大笑。
+
+9. No sooner had we pitched the tent than it started to pour rain (excited for).
+   > **中文**：我们刚搭好帐篷，天空就下起了倾盆大雨。
+
+10. All the kids are super excited for tomorrow's hiking adventure (go to sleep).
+   > **中文**：所有的孩子都对明天的徒步冒险超级兴奋。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ Bigfoot, burst into, campfire, cliffhanger, darkness, dead, dying to, edge of my
 
 ### 1
 
-At home, we talked about "`____`".
+Gathering around the warm campfire to share stories is the best part of camping for `____`.
 
 - [x] Bigfoot
-- [ ] grizzly bear
-- [ ] spooky
+- [ ] cliffhanger
+- [ ] dying to
 
-> **解析**：本题在单元主题情境中复习表达 Bigfoot。
+> **解析**：`campfire` 是名词，意为“营火、篝火”。
 
 ### 2
 
-My family mentioned "`____`".
+He told such a scary story that everyone was afraid to leave the tent (`____`).
 
-- [x] darkness
-- [ ] marshmallow
-- [ ] burst into
+- [x] burst into
+- [ ] darkness
+- [ ] edge of my seat
 
-> **解析**：本题在单元主题情境中复习表达 darkness。
+> **解析**：`scary story` 意为“恐怖故事、鬼故事”，搭配 `tell a scary story`。
 
 ### 3
 
-In the room, I noticed "`____`".
+The spooky sound in the woods gave me goosebumps all over for `____`.
 
-- [x] edge of my seat
-- [ ] s'mores
+- [x] campfire
 - [ ] dead
+- [ ] excited for
 
-> **解析**：本题在单元主题情境中复习表达 edge of my seat。
+> **解析**：`goosebumps` 是复数名词，意为“鸡皮疙瘩”，短语 `give sb goosebumps`。
 
 ### 4
 
-We used "`____`" at home.
+His dramatic storytelling kept me on the edge of my seat the whole night for `____`.
 
-- [x] grizzly bear
-- [ ] spooky
+- [x] cliffhanger
+- [ ] dying to
 - [ ] go to sleep
 
-> **解析**：本题在单元主题情境中复习表达 grizzly bear。
+> **解析**：`on the edge of one's seat` 是成语短语，意为“全神贯注、坐立不安”。
 
 ### 5
 
-My neighbor asked about "`____`".
+We are dying to go on our upcoming weekend camping trip in the national park for `____`.
 
-- [x] marshmallow
-- [ ] burst into
+- [x] darkness
+- [ ] edge of my seat
 - [ ] Bigfoot
 
-> **解析**：本题在单元主题情境中复习表达 marshmallow。
+> **解析**：`be dying to do sth` 是口语极度渴望表达，意为“迫不及待做某事”。
 
 ### 6
 
-I wrote down "`____`" by the door.
+The quiet forest felt extremely spooky under the dim moonlight for `____`.
 
-- [x] s'mores
-- [ ] dead
-- [ ] darkness
+- [x] dead
+- [ ] excited for
+- [ ] burst into
 
-> **解析**：本题在单元主题情境中复习表达 s'mores。
+> **解析**：`spooky` 是形容词，意为“阴森可怖的、怪异的”。
 
 ### 7
 
-After dinner, we repeated "`____`".
+Roasting marshmallows over the open fire is a traditional outdoor treat (`____`).
 
-- [x] spooky
+- [x] dying to
 - [ ] go to sleep
-- [ ] edge of my seat
+- [ ] campfire
 
-> **解析**：本题在单元主题情境中复习表达 spooky。
+> **解析**：`marshmallow` 是名词，意为“棉花糖”，`roast marshmallows`。
 
 ### 8
 
-The family story included "`____`".
+As soon as the funny joke ended, everyone burst into laughter around the fire (`____`).
 
-- [x] burst into
+- [x] edge of my seat
 - [ ] Bigfoot
-- [ ] grizzly bear
+- [ ] cliffhanger
 
-> **解析**：本题在单元主题情境中复习表达 burst into。
+> **解析**：`burst into + 名词`（如 `laughter`）意为“突然爆发/化作……”。
 
 ### 9
 
-Before bed, I remembered "`____`".
+No sooner had we pitched the tent than it started to pour rain (`____`).
 
-- [x] dead
+- [x] excited for
+- [ ] burst into
 - [ ] darkness
-- [ ] marshmallow
 
-> **解析**：本题在单元主题情境中复习表达 dead。
+> **解析**：`No sooner had... than...` 是固定倒装句型，意为“刚一……就……”。
 
 ### 10
 
-That evening ended with "`____`".
+All the kids are super excited for tomorrow's hiking adventure (`____`).
 
 - [x] go to sleep
-- [ ] edge of my seat
-- [ ] s'mores
+- [ ] campfire
+- [ ] dead
 
-> **解析**：本题在单元主题情境中复习表达 go to sleep。
+> **解析**：`be excited for sth` 意为“对……感到兴奋/期待”。
 
 </quiz-cloze>

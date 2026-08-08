@@ -63,70 +63,79 @@ ages, back then, bond, campus, find out, fluent, get, get over, happy hour, infl
 
 <quiz-sentence-builder>
 
-1. **中文**：聚会上，我听到了“ages”。  
-   **英文**：At the gathering, I heard "ages".
-   > **解析**：本题在单元主题情境中复习表达 ages。
+1. **中文**：我有好长时间（几年）没见到大学室友了，所以对聚会感到非常激动。  
+   **英文**：I haven't seen my college roommate for ages, so I'm thrilled about the reunion.
+   > **解析**：`for ages` 为固定时间习惯表达，意为“长久地；好几年；很久”。相当于 `for a very long time`。
 
-2. **中文**：朋友说了“campus”。  
-   **英文**：My friend said "campus".
-   > **解析**：本题在单元主题情境中复习表达 campus。
+2. **中文**：我们决定在中央图书馆附近的老大学校园见面。  
+   **英文**：We decided to meet at the old university campus near the central library (back then).
+   > **解析**：`campus` 可数名词，意为“校园；校区”。短语 `university campus`（大学校园）。
 
-3. **中文**：我们一起谈到了“get”。  
-   **英文**：We talked about "get" together.
-   > **解析**：本题在单元主题情境中复习表达 get。
+3. **中文**：太棒了，我们所有的昔日同班同学在十年后能够聚在一起。  
+   **英文**：It's wonderful that all our former classmates could get together after ten years for bond.
+   > **解析**：`get` 不及物/连系动词，短语 `get together` 表示“聚会；聚集”。
 
-4. **中文**：有人向我解释了“look back on”。  
-   **英文**：Someone explained "look back on" to me.
-   > **解析**：本题在单元主题情境中复习表达 look back on。
+4. **中文**：当我们回顾高中时代时，我们总是会对那些傻乎乎的回忆发笑。  
+   **英文**：When we look back on our high school days, we always laugh at those silly memories for campus.
+   > **解析**：`look back on` 为固定动词短语，意为“回顾；回想（过去的事）”。
 
-5. **中文**：我用“related”作了回应。  
-   **英文**：I replied with "related".
-   > **解析**：本题在单元主题情境中复习表达 related。
+5. **中文**：令人惊讶的是，我们发现我们的两位前任老师实际上是有姻亲关系的。  
+   **英文**：Surprisingly, we discovered that two of our former teachers are actually related by marriage (find out).
+   > **解析**：`related` 形容词，意为“有亲戚关系的；相关的”。短语 `be related to / by...`。
 
-6. **中文**：对话中包含“taste”。  
-   **英文**：The conversation included "taste".
-   > **解析**：本题在单元主题情境中复习表达 taste。
+6. **中文**：自从我们的青少年时代以来，每个人的音乐品味都发生了相当大的变化。  
+   **英文**：Everyone's music taste has changed quite a lot since our teenage years for fluent.
+   > **解析**：`taste` 名词，在此处意为“品味；鉴赏力；喜好”。短语 `music taste`（音乐品味）。
 
-7. **中文**：同伴重复了“whoever”。  
-   **英文**：My partner repeated "whoever".
-   > **解析**：本题在单元主题情境中复习表达 whoever。
+7. **中文**：无论是谁组织了这次盛大的重聚派对，都做了一项极其出色工作。  
+   **英文**：Whoever organized this grand reunion party did a truly remarkable job for get.
+   > **解析**：`whoever` 关系代词，意为“无论是谁；任何人”。在主语从句中充当主语。
 
-8. **中文**：我们聊到“bond”时笑了。  
-   **英文**：We laughed about "bond".
-   > **解析**：本题在单元主题情境中复习表达 bond。
+8. **中文**：分享童年故事帮助老朋友们迅速建立了深厚的感情纽带。  
+   **英文**：Sharing childhood stories helped the old friends quickly form a strong emotional bond (get over).
+   > **解析**：`bond` 可数名词，意为“纽带；联系；关系”。短语 `emotional bond`（情感纽带）。
 
-9. **中文**：离开前，我记住了“fluent”。  
-   **英文**：Before leaving, I remembered "fluent".
-   > **解析**：本题在单元主题情境中复习表达 fluent。
+9. **中文**：在东京生活了五年之后，她的日语变得非常流利。  
+   **英文**：After living in Tokyo for five years, she became completely fluent in Japanese (happy hour).
+   > **解析**：`fluent` 形容词，意为“流利的；流畅的”。固定搭配 `be fluent in + 语言`。
 
-10. **中文**：那段对话以“happy hour”收尾。  
-   **英文**：That conversation ended with "happy hour".
-   > **解析**：本题在单元主题情境中复习表达 happy hour。
+10. **中文**：楼下的餐厅在五点到七点提供开胃菜的欢乐时光特别优惠。  
+   **英文**：The restaurant downstairs offers a special happy hour discount on appetizers from five to seven for influence.
+   > **解析**：`happy hour` 名词短语，意为“（酒吧/餐厅的）优惠时段；欢乐时光”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the gathering, I heard "ages".
-   > **中文**：聚会上，我听到了“ages”。
-2. My friend said "campus".
-   > **中文**：朋友说了“campus”。
-3. We talked about "get" together.
-   > **中文**：我们一起谈到了“get”。
-4. Someone explained "look back on" to me.
-   > **中文**：有人向我解释了“look back on”。
-5. I replied with "related".
-   > **中文**：我用“related”作了回应。
-6. The conversation included "taste".
-   > **中文**：对话中包含“taste”。
-7. My partner repeated "whoever".
-   > **中文**：同伴重复了“whoever”。
-8. We laughed about "bond".
-   > **中文**：我们聊到“bond”时笑了。
-9. Before leaving, I remembered "fluent".
-   > **中文**：离开前，我记住了“fluent”。
-10. That conversation ended with "happy hour".
-   > **中文**：那段对话以“happy hour”收尾。
+1. I haven't seen my college roommate for ages, so I'm thrilled about the reunion.
+   > **中文**：我有好长时间（几年）没见到大学室友了，所以对聚会感到非常激动。
+
+2. We decided to meet at the old university campus near the central library (back then).
+   > **中文**：我们决定在中央图书馆附近的老大学校园见面。
+
+3. It's wonderful that all our former classmates could get together after ten years for bond.
+   > **中文**：太棒了，我们所有的昔日同班同学在十年后能够聚在一起。
+
+4. When we look back on our high school days, we always laugh at those silly memories for campus.
+   > **中文**：当我们回顾高中时代时，我们总是会对那些傻乎乎的回忆发笑。
+
+5. Surprisingly, we discovered that two of our former teachers are actually related by marriage (find out).
+   > **中文**：令人惊讶的是，我们发现我们的两位前任老师实际上是有姻亲关系的。
+
+6. Everyone's music taste has changed quite a lot since our teenage years for fluent.
+   > **中文**：自从我们的青少年时代以来，每个人的音乐品味都发生了相当大的变化。
+
+7. Whoever organized this grand reunion party did a truly remarkable job for get.
+   > **中文**：无论是谁组织了这次盛大的重聚派对，都做了一项极其出色工作。
+
+8. Sharing childhood stories helped the old friends quickly form a strong emotional bond (get over).
+   > **中文**：分享童年故事帮助老朋友们迅速建立了深厚的感情纽带。
+
+9. After living in Tokyo for five years, she became completely fluent in Japanese (happy hour).
+   > **中文**：在东京生活了五年之后，她的日语变得非常流利。
+
+10. The restaurant downstairs offers a special happy hour discount on appetizers from five to seven for influence.
+   > **中文**：楼下的餐厅在五点到七点提供开胃菜的欢乐时光特别优惠。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ ages, back then, bond, campus, find out, fluent, get, get over, happy hour, infl
 
 ### 1
 
-At the gathering, I heard "`____`".
+I haven't seen my college roommate for `____`, so I'm thrilled about the reunion.
 
 - [x] ages
-- [ ] look back on
-- [ ] whoever
+- [ ] campus
+- [ ] get
 
-> **解析**：本题在单元主题情境中复习表达 ages。
+> **解析**：`for ages` 为固定时间习惯表达，意为“长久地；好几年；很久”。相当于 `for a very long time`。
 
 ### 2
 
-My friend said "`____`".
+We decided to meet at the old university campus near the central library (`____`).
 
-- [x] campus
-- [ ] related
-- [ ] bond
+- [x] back then
+- [ ] find out
+- [ ] get over
 
-> **解析**：本题在单元主题情境中复习表达 campus。
+> **解析**：`campus` 可数名词，意为“校园；校区”。短语 `university campus`（大学校园）。
 
 ### 3
 
-We talked about "`____`" together.
+It's wonderful that all our former classmates could get together after ten years for `____`.
 
-- [x] get
-- [ ] taste
+- [x] bond
 - [ ] fluent
+- [ ] happy hour
 
-> **解析**：本题在单元主题情境中复习表达 get。
+> **解析**：`get` 不及物/连系动词，短语 `get together` 表示“聚会；聚集”。
 
 ### 4
 
-Someone explained "`____`" to me.
+When we look back on our high school days, we always laugh at those silly memories for `____`.
 
-- [x] look back on
-- [ ] whoever
-- [ ] happy hour
+- [x] campus
+- [ ] get
+- [ ] influence
 
-> **解析**：本题在单元主题情境中复习表达 look back on。
+> **解析**：`look back on` 为固定动词短语，意为“回顾；回想（过去的事）”。
 
 ### 5
 
-I replied with "`____`".
+Surprisingly, we discovered that two of our former teachers are actually related by marriage (`____`).
 
-- [x] related
-- [ ] bond
+- [x] find out
+- [ ] get over
 - [ ] ages
 
-> **解析**：本题在单元主题情境中复习表达 related。
+> **解析**：`related` 形容词，意为“有亲戚关系的；相关的”。短语 `be related to / by...`。
 
 ### 6
 
-The conversation included "`____`".
+Everyone's music taste has changed quite a lot since our teenage years for `____`.
 
-- [x] taste
-- [ ] fluent
-- [ ] campus
+- [x] fluent
+- [ ] happy hour
+- [ ] back then
 
-> **解析**：本题在单元主题情境中复习表达 taste。
+> **解析**：`taste` 名词，在此处意为“品味；鉴赏力；喜好”。短语 `music taste`（音乐品味）。
 
 ### 7
 
-My partner repeated "`____`".
+Whoever organized this grand reunion party did a truly remarkable job for `____`.
 
-- [x] whoever
-- [ ] happy hour
-- [ ] get
+- [x] get
+- [ ] influence
+- [ ] bond
 
-> **解析**：本题在单元主题情境中复习表达 whoever。
+> **解析**：`whoever` 关系代词，意为“无论是谁；任何人”。在主语从句中充当主语。
 
 ### 8
 
-We laughed about "`____`".
+Sharing childhood stories helped the old friends quickly form a strong emotional bond (`____`).
 
-- [x] bond
+- [x] get over
 - [ ] ages
-- [ ] look back on
+- [ ] campus
 
-> **解析**：本题在单元主题情境中复习表达 bond。
+> **解析**：`bond` 可数名词，意为“纽带；联系；关系”。短语 `emotional bond`（情感纽带）。
 
 ### 9
 
-Before leaving, I remembered "`____`".
+After living in Tokyo for five years, she became completely fluent in Japanese (`____`).
 
-- [x] fluent
-- [ ] campus
-- [ ] related
+- [x] happy hour
+- [ ] back then
+- [ ] find out
 
-> **解析**：本题在单元主题情境中复习表达 fluent。
+> **解析**：`fluent` 形容词，意为“流利的；流畅的”。固定搭配 `be fluent in + 语言`。
 
 ### 10
 
-That conversation ended with "`____`".
+The restaurant downstairs offers a special happy hour discount on appetizers from five to seven for `____`.
 
-- [x] happy hour
-- [ ] get
-- [ ] taste
+- [x] influence
+- [ ] bond
+- [ ] fluent
 
-> **解析**：本题在单元主题情境中复习表达 happy hour。
+> **解析**：`happy hour` 名词短语，意为“（酒吧/餐厅的）优惠时段；欢乐时光”。
 
 </quiz-cloze>

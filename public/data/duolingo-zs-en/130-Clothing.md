@@ -61,70 +61,79 @@ didn't / doesn't / don't 是否定助动词。wasn't / weren't 是 be 动词的�
 
 <quiz-sentence-builder>
 
-1. **中文**：谈论喜好时，我听到了“afterward”。  
-   **英文**：When we talked about favorites, I heard "afterward".
-   > **解析**：本题在单元主题情境中复习表达 afterward。
+1. **中文**：虽然这件夹克很贵，但它的面料质量特别好。  
+   **英文**：Although this jacket is expensive, its material is of exceptionally high quality for afterward.
+   > **解析**：quality 为名词，意为“质量、品质”。be of high quality 表示“具备高品质”。high/low quality 分别指高质量和低质量。
 
-2. **中文**：朋友说“checkout”很重要。  
-   **英文**：My friend said "checkout" was important.
-   > **解析**：本题在单元主题情境中复习表达 checkout。
+2. **中文**：纯棉制成的衬衫在炎热天气里感觉既舒适又透气。  
+   **英文**：Shirts made of pure cotton feel comfortable and breathable in hot weather for away.
+   > **解析**：cotton 为名词，意为“棉花、纯棉”。made of pure cotton 为过去分词短语作后置定语修饰 shirts。
 
-3. **中文**：我问他们喜欢哪一个：“didn't”。  
-   **英文**：I asked which one they liked: "didn't".
-   > **解析**：本题在单元主题情境中复习表达 didn't。
+3. **中文**：在出去进行傍晚慢跑前，他穿上了一件温暖的连帽卫衣。  
+   **英文**：He put on a warm hooded sweatshirt before going out for his evening jog (cash register).
+   > **解析**：sweatshirt 为名词，指“无领长袖运动衫、卫衣”。hooded sweatshirt 表示“连帽卫衣”。
 
-4. **中文**：聊天时，我们比较了“low”。  
-   **英文**：In our chat, we compared "low".
-   > **解析**：本题在单元主题情境中复习表达 low。
+4. **中文**：顾客可以在结账柜台使用移动支付购买商品。  
+   **英文**：Customers can pay for their items using mobile pay at the checkout counter for change.
+   > **解析**：checkout 在句中作定语修饰 counter，checkout counter 表示“结账柜台”。checkout 亦可作名词指“结账”。
 
-5. **中文**：同伴先选择了“selfie”。  
-   **英文**：My partner chose "selfie" first.
-   > **解析**：本题在单元主题情境中复习表达 selfie。
+5. **中文**：店长打开收银机给买家找零钱。  
+   **英文**：The store manager opened the cash register to give the buyer her change for checkout.
+   > **解析**：cash register 为名词短语，意为“收银机”。change 在此处作名词表示“零钱”。
 
-6. **中文**：我们用“sweatshirt”描述喜好。  
-   **英文**：We used "sweatshirt" to describe a favorite.
-   > **解析**：本题在单元主题情境中复习表达 sweatshirt。
+6. **中文**：卷起你的袖子，这样你在画画时就不会把它们弄脏了。  
+   **英文**：Roll up your sleeves so you do not get them dirty while painting for cotton.
+   > **解析**：sleeve 为名词，意为“袖子”。roll up one's sleeves 表示“卷起袖子”，也是准备干活的常用俗语。
 
-7. **中文**：答案中包含“underwear”。  
-   **英文**：The answer included "underwear".
-   > **解析**：本题在单元主题情境中复习表达 underwear。
+7. **中文**：大家都觉得那个小女孩穿上她的新粉色连衣裙看起来极其可爱。  
+   **英文**：Everyone thought the little girl looked extremely cute in her new pink dress.
+   > **解析**：cute 为形容词，意为“可爱的、讨人喜欢的”。在句中作系动词 looked 的表语。
 
-8. **中文**：我从对话中记住了“away”。  
-   **英文**：I remembered "away" from the conversation.
-   > **解析**：本题在单元主题情境中复习表达 away。
+8. **中文**：这家商店今天对所有冬衣提供百分之二十的折扣。  
+   **英文**：This store is offering a twenty percent discount on all winter coats today (didn't).
+   > **解析**：percent 为名词/副词，意为“百分之...”。twenty percent 表示“百分之二十”。discount 意为“折扣”。
 
-9. **中文**：朋友微笑着重复了“cotton”。  
-   **英文**：My friend repeated "cotton" with a smile.
-   > **解析**：本题在单元主题情境中复习表达 cotton。
+9. **中文**：我们在商场买了一些新衣服，之后去看了一场电影。  
+   **英文**：We bought some new clothes at the mall and went to a movie afterward (doesn't).
+   > **解析**：afterward(s) 为副词，意为“后来、随后、之后”。在句中作时间状语，修饰动词 went。
 
-10. **中文**：那场关于喜好的聊天以“don't”收尾。  
-   **英文**：That chat about favorites ended with "don't".
-   > **解析**：本题在单元主题情境中复习表达 don't。
+10. **中文**：请在前往机场之前把你的个人物品装进行李箱。  
+   **英文**：Please pack your personal stuff into the suitcase before we head to the airport (don't).
+   > **解析**：stuff 为不可数名词，意为“东西、物品”（口语常用）。pack stuff into... 表示“把物品打包进...”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. When we talked about favorites, I heard "afterward".
-   > **中文**：谈论喜好时，我听到了“afterward”。
-2. My friend said "checkout" was important.
-   > **中文**：朋友说“checkout”很重要。
-3. I asked which one they liked: "didn't".
-   > **中文**：我问他们喜欢哪一个：“didn't”。
-4. In our chat, we compared "low".
-   > **中文**：聊天时，我们比较了“low”。
-5. My partner chose "selfie" first.
-   > **中文**：同伴先选择了“selfie”。
-6. We used "sweatshirt" to describe a favorite.
-   > **中文**：我们用“sweatshirt”描述喜好。
-7. The answer included "underwear".
-   > **中文**：答案中包含“underwear”。
-8. I remembered "away" from the conversation.
-   > **中文**：我从对话中记住了“away”。
-9. My friend repeated "cotton" with a smile.
-   > **中文**：朋友微笑着重复了“cotton”。
-10. That chat about favorites ended with "don't".
-   > **中文**：那场关于喜好的聊天以“don't”收尾。
+1. Although this jacket is expensive, its material is of exceptionally high quality for afterward.
+   > **中文**：虽然这件夹克很贵，但它的面料质量特别好。
+
+2. Shirts made of pure cotton feel comfortable and breathable in hot weather for away.
+   > **中文**：纯棉制成的衬衫在炎热天气里感觉既舒适又透气。
+
+3. He put on a warm hooded sweatshirt before going out for his evening jog (cash register).
+   > **中文**：在出去进行傍晚慢跑前，他穿上了一件温暖的连帽卫衣。
+
+4. Customers can pay for their items using mobile pay at the checkout counter for change.
+   > **中文**：顾客可以在结账柜台使用移动支付购买商品。
+
+5. The store manager opened the cash register to give the buyer her change for checkout.
+   > **中文**：店长打开收银机给买家找零钱。
+
+6. Roll up your sleeves so you do not get them dirty while painting for cotton.
+   > **中文**：卷起你的袖子，这样你在画画时就不会把它们弄脏了。
+
+7. Everyone thought the little girl looked extremely cute in her new pink dress.
+   > **中文**：大家都觉得那个小女孩穿上她的新粉色连衣裙看起来极其可爱。
+
+8. This store is offering a twenty percent discount on all winter coats today (didn't).
+   > **中文**：这家商店今天对所有冬衣提供百分之二十的折扣。
+
+9. We bought some new clothes at the mall and went to a movie afterward (doesn't).
+   > **中文**：我们在商场买了一些新衣服，之后去看了一场电影。
+
+10. Please pack your personal stuff into the suitcase before we head to the airport (don't).
+   > **中文**：请在前往机场之前把你的个人物品装进行李箱。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ didn't / doesn't / don't 是否定助动词。wasn't / weren't 是 be 动词的�
 
 ### 1
 
-When we talked about favorites, I heard "`____`".
+Although this jacket is expensive, its material is of exceptionally high quality for `____`.
 
 - [x] afterward
-- [ ] low
-- [ ] underwear
+- [ ] change
+- [ ] cute
 
-> **解析**：本题在单元主题情境中复习表达 afterward。
+> **解析**：quality 为名词，意为“质量、品质”。be of high quality 表示“具备高品质”。high/low quality 分别指高质量和低质量。
 
 ### 2
 
-My friend said "`____`" was important.
+Shirts made of pure cotton feel comfortable and breathable in hot weather for `____`.
 
-- [x] checkout
-- [ ] selfie
-- [ ] away
+- [x] away
+- [ ] checkout
+- [ ] didn't
 
-> **解析**：本题在单元主题情境中复习表达 checkout。
+> **解析**：cotton 为名词，意为“棉花、纯棉”。made of pure cotton 为过去分词短语作后置定语修饰 shirts。
 
 ### 3
 
-I asked which one they liked: "`____`".
+He put on a warm hooded sweatshirt before going out for his evening jog (`____`).
 
-- [x] didn't
-- [ ] sweatshirt
+- [x] cash register
 - [ ] cotton
+- [ ] doesn't
 
-> **解析**：本题在单元主题情境中复习表达 didn't。
+> **解析**：sweatshirt 为名词，指“无领长袖运动衫、卫衣”。hooded sweatshirt 表示“连帽卫衣”。
 
 ### 4
 
-In our chat, we compared "`____`".
+Customers can pay for their items using mobile pay at the checkout counter for `____`.
 
-- [x] low
-- [ ] underwear
+- [x] change
+- [ ] cute
 - [ ] don't
 
-> **解析**：本题在单元主题情境中复习表达 low。
+> **解析**：checkout 在句中作定语修饰 counter，checkout counter 表示“结账柜台”。checkout 亦可作名词指“结账”。
 
 ### 5
 
-My partner chose "`____`" first.
+The store manager opened the cash register to give the buyer her change for `____`.
 
-- [x] selfie
-- [ ] away
+- [x] checkout
+- [ ] didn't
 - [ ] afterward
 
-> **解析**：本题在单元主题情境中复习表达 selfie。
+> **解析**：cash register 为名词短语，意为“收银机”。change 在此处作名词表示“零钱”。
 
 ### 6
 
-We used "`____`" to describe a favorite.
+Roll up your sleeves so you do not get them dirty while painting for `____`.
 
-- [x] sweatshirt
-- [ ] cotton
-- [ ] checkout
+- [x] cotton
+- [ ] doesn't
+- [ ] away
 
-> **解析**：本题在单元主题情境中复习表达 sweatshirt。
+> **解析**：sleeve 为名词，意为“袖子”。roll up one's sleeves 表示“卷起袖子”，也是准备干活的常用俗语。
 
 ### 7
 
-The answer included "`____`".
+Everyone thought the little girl looked extremely `____` in her new pink dress.
 
-- [x] underwear
+- [x] cute
 - [ ] don't
-- [ ] didn't
+- [ ] cash register
 
-> **解析**：本题在单元主题情境中复习表达 underwear。
+> **解析**：cute 为形容词，意为“可爱的、讨人喜欢的”。在句中作系动词 looked 的表语。
 
 ### 8
 
-I remembered "`____`" from the conversation.
+This store is offering a twenty percent discount on all winter coats today (`____`).
 
-- [x] away
+- [x] didn't
 - [ ] afterward
-- [ ] low
+- [ ] change
 
-> **解析**：本题在单元主题情境中复习表达 away。
+> **解析**：percent 为名词/副词，意为“百分之...”。twenty percent 表示“百分之二十”。discount 意为“折扣”。
 
 ### 9
 
-My friend repeated "`____`" with a smile.
+We bought some new clothes at the mall and went to a movie afterward (`____`).
 
-- [x] cotton
+- [x] doesn't
+- [ ] away
 - [ ] checkout
-- [ ] selfie
 
-> **解析**：本题在单元主题情境中复习表达 cotton。
+> **解析**：afterward(s) 为副词，意为“后来、随后、之后”。在句中作时间状语，修饰动词 went。
 
 ### 10
 
-That chat about favorites ended with "`____`".
+Please pack your personal stuff into the suitcase before we head to the airport (`____`).
 
 - [x] don't
-- [ ] didn't
-- [ ] sweatshirt
+- [ ] cash register
+- [ ] cotton
 
-> **解析**：本题在单元主题情境中复习表达 don't。
+> **解析**：stuff 为不可数名词，意为“东西、物品”（口语常用）。pack stuff into... 表示“把物品打包进...”。
 
 </quiz-cloze>

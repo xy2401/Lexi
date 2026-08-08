@@ -61,70 +61,79 @@ pick up（接人）vs drop off（送人）。get stuck = 被困住。
 
 <quiz-sentence-builder>
 
-1. **中文**：在机场，我听到了“back”。  
-   **英文**：At the airport, I heard "back".
-   > **解析**：本题在单元主题情境中复习表达 back。
+1. **中文**：今天下班后你能去火车站接我弟弟吗？  
+   **英文**：Could you pick up my brother from the train station after work today? for back.
+   > **解析**：pick up 在此处为动词短语，意为“接人、搭人”。
 
-2. **中文**：我的旅伴解释了“crosswalk”。  
-   **英文**：My travel partner explained "crosswalk".
-   > **解析**：本题在单元主题情境中复习表达 crosswalk。
+2. **中文**：请在超市门前送客人下车。  
+   **英文**：Please drop off the guests in front of the supermarket entrance for busy.
+   > **解析**：drop off 为动词短语，意为“送下车、放下”。
 
-3. **中文**：旅行途中，我们谈到了“drop”。  
-   **英文**：During the trip, we talked about "drop".
-   > **解析**：本题在单元主题情境中复习表达 drop。
+3. **中文**：傍晚高峰期的交通瘫痪使我们的行程延误了将近一个小时。  
+   **英文**：Traffic gridlock during evening rush hour delayed our journey by nearly an hour (close by).
+   > **解析**：rush hour 为名词短语，意为“（上下班）高峰期”。evening rush hour 指“晚高峰”。
 
-4. **中文**：在酒店里，我记下了“get stuck”。  
-   **英文**：At the hotel, I wrote down "get stuck".
-   > **解析**：本题在单元主题情境中复习表达 get stuck。
+4. **中文**：由于道路施工，我们被困在了高速公路上的严重交通堵塞中。  
+   **英文**：We got stuck in a heavy traffic jam on the highway due to road construction (come with).
+   > **解析**：traffic jam 为名词短语，意为“交通堵塞/堵车”。get stuck in a traffic jam 意为“被困于堵车中”。
 
-5. **中文**：旅行者清楚地重复了“rush hour”。  
-   **英文**：The traveler repeated "rush hour" clearly.
-   > **解析**：本题在单元主题情境中复习表达 rush hour。
+5. **中文**：驾驶员在穿过住宅区时必须严格遵守限速规定。  
+   **英文**：Drivers must strictly follow the speed limit when passing through residential zones for crosswalk.
+   > **解析**：speed limit 为名词短语，意为“限速、速度限制”。follow the speed limit 意为“遵守限速规定”。
 
-6. **中文**：离开前，我查看了“sped up”。  
-   **英文**：Before leaving, I checked "sped up".
-   > **解析**：本题在单元主题情境中复习表达 sped up。
+6. **中文**：行人应当总是等待绿灯并使用人行横道安全过马路。  
+   **英文**：Pedestrians should always wait for the green light and use the crosswalk to cross safely for drive.
+   > **解析**：crosswalk 为名词，意为“人行横道、斑马线”（美式英语）。cross safely 表示“安全穿过”。
 
-7. **中文**：在去那里的路上，我们用到了“traffic jam”。  
-   **英文**：On the way there, we used "traffic jam".
-   > **解析**：本题在单元主题情境中复习表达 traffic jam。
+7. **中文**：在湿滑道路上接近急转弯时，你应当减速。  
+   **英文**：You should slow down when approaching a sharp turn on a slippery road for driven.
+   > **解析**：slow down 为动词短语，意为“减速、放慢速度”。slippery road 指“湿滑道路”。
 
-8. **中文**：到达后，我想起了“busy”。  
-   **英文**：After arrival, I remembered "busy".
-   > **解析**：本题在单元主题情境中复习表达 busy。
+8. **中文**：我可以顺路捎你一程，因为你的办公室正好在去我目的地的路上。  
+   **英文**：I can give you a ride since your office is on the way to my destination for drop.
+   > **解析**：on the way to 为固定介词短语，意为“在去...的路上”。give sb. a ride 意为“顺路搭乘某人”。
 
-9. **中文**：导游指出了“drive”。  
-   **英文**：The guide pointed out "drive".
-   > **解析**：本题在单元主题情境中复习表达 drive。
+9. **中文**：当心！从你的右后视镜里有一辆自行车正在快速靠近！  
+   **英文**：Watch out! There is a bicycle approaching fast from your right side mirror (drop off).
+   > **解析**：watch out 为动词短语，用作感叹句，意为“当心、注意”。与 look out 同义。
 
-10. **中文**：那段旅行故事以“exit”收尾。  
-   **英文**：That travel story ended with "exit".
-   > **解析**：本题在单元主题情境中复习表达 exit。
+10. **中文**：不用担心开车；公交车站就在附近，步行五分钟即可到达。  
+   **英文**：Don't worry about driving; the bus stop is close by within five minutes' walk for exit.
+   > **解析**：close by 为副词短语/介词短语，意为“在附近、近在咫尺”。作表语或状语修饰位置。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the airport, I heard "back".
-   > **中文**：在机场，我听到了“back”。
-2. My travel partner explained "crosswalk".
-   > **中文**：我的旅伴解释了“crosswalk”。
-3. During the trip, we talked about "drop".
-   > **中文**：旅行途中，我们谈到了“drop”。
-4. At the hotel, I wrote down "get stuck".
-   > **中文**：在酒店里，我记下了“get stuck”。
-5. The traveler repeated "rush hour" clearly.
-   > **中文**：旅行者清楚地重复了“rush hour”。
-6. Before leaving, I checked "sped up".
-   > **中文**：离开前，我查看了“sped up”。
-7. On the way there, we used "traffic jam".
-   > **中文**：在去那里的路上，我们用到了“traffic jam”。
-8. After arrival, I remembered "busy".
-   > **中文**：到达后，我想起了“busy”。
-9. The guide pointed out "drive".
-   > **中文**：导游指出了“drive”。
-10. That travel story ended with "exit".
-   > **中文**：那段旅行故事以“exit”收尾。
+1. Could you pick up my brother from the train station after work today? for back.
+   > **中文**：今天下班后你能去火车站接我弟弟吗？
+
+2. Please drop off the guests in front of the supermarket entrance for busy.
+   > **中文**：请在超市门前送客人下车。
+
+3. Traffic gridlock during evening rush hour delayed our journey by nearly an hour (close by).
+   > **中文**：傍晚高峰期的交通瘫痪使我们的行程延误了将近一个小时。
+
+4. We got stuck in a heavy traffic jam on the highway due to road construction (come with).
+   > **中文**：由于道路施工，我们被困在了高速公路上的严重交通堵塞中。
+
+5. Drivers must strictly follow the speed limit when passing through residential zones for crosswalk.
+   > **中文**：驾驶员在穿过住宅区时必须严格遵守限速规定。
+
+6. Pedestrians should always wait for the green light and use the crosswalk to cross safely for drive.
+   > **中文**：行人应当总是等待绿灯并使用人行横道安全过马路。
+
+7. You should slow down when approaching a sharp turn on a slippery road for driven.
+   > **中文**：在湿滑道路上接近急转弯时，你应当减速。
+
+8. I can give you a ride since your office is on the way to my destination for drop.
+   > **中文**：我可以顺路捎你一程，因为你的办公室正好在去我目的地的路上。
+
+9. Watch out! There is a bicycle approaching fast from your right side mirror (drop off).
+   > **中文**：当心！从你的右后视镜里有一辆自行车正在快速靠近！
+
+10. Don't worry about driving; the bus stop is close by within five minutes' walk for exit.
+   > **中文**：不用担心开车；公交车站就在附近，步行五分钟即可到达。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ pick up（接人）vs drop off（送人）。get stuck = 被困住。
 
 ### 1
 
-At the airport, I heard "`____`".
+Could you pick up my brother from the train station after work today? for `____`.
 
 - [x] back
-- [ ] get stuck
-- [ ] traffic jam
+- [ ] come with
+- [ ] driven
 
-> **解析**：本题在单元主题情境中复习表达 back。
+> **解析**：pick up 在此处为动词短语，意为“接人、搭人”。
 
 ### 2
 
-My travel partner explained "`____`".
+Please drop off the guests in front of the supermarket entrance for `____`.
 
-- [x] crosswalk
-- [ ] rush hour
-- [ ] busy
+- [x] busy
+- [ ] crosswalk
+- [ ] drop
 
-> **解析**：本题在单元主题情境中复习表达 crosswalk。
+> **解析**：drop off 为动词短语，意为“送下车、放下”。
 
 ### 3
 
-During the trip, we talked about "`____`".
+Traffic gridlock during evening rush hour delayed our journey by nearly an hour (`____`).
 
-- [x] drop
-- [ ] sped up
+- [x] close by
 - [ ] drive
+- [ ] drop off
 
-> **解析**：本题在单元主题情境中复习表达 drop。
+> **解析**：rush hour 为名词短语，意为“（上下班）高峰期”。evening rush hour 指“晚高峰”。
 
 ### 4
 
-At the hotel, I wrote down "`____`".
+We got stuck in a heavy traffic jam on the highway due to road construction (`____`).
 
-- [x] get stuck
-- [ ] traffic jam
+- [x] come with
+- [ ] driven
 - [ ] exit
 
-> **解析**：本题在单元主题情境中复习表达 get stuck。
+> **解析**：traffic jam 为名词短语，意为“交通堵塞/堵车”。get stuck in a traffic jam 意为“被困于堵车中”。
 
 ### 5
 
-The traveler repeated "`____`" clearly.
+Drivers must strictly follow the speed limit when passing through residential zones for `____`.
 
-- [x] rush hour
-- [ ] busy
+- [x] crosswalk
+- [ ] drop
 - [ ] back
 
-> **解析**：本题在单元主题情境中复习表达 rush hour。
+> **解析**：speed limit 为名词短语，意为“限速、速度限制”。follow the speed limit 意为“遵守限速规定”。
 
 ### 6
 
-Before leaving, I checked "`____`".
+Pedestrians should always wait for the green light and use the crosswalk to cross safely for `____`.
 
-- [x] sped up
-- [ ] drive
-- [ ] crosswalk
+- [x] drive
+- [ ] drop off
+- [ ] busy
 
-> **解析**：本题在单元主题情境中复习表达 sped up。
+> **解析**：crosswalk 为名词，意为“人行横道、斑马线”（美式英语）。cross safely 表示“安全穿过”。
 
 ### 7
 
-On the way there, we used "`____`".
+You should slow down when approaching a sharp turn on a slippery road for `____`.
 
-- [x] traffic jam
+- [x] driven
 - [ ] exit
-- [ ] drop
+- [ ] close by
 
-> **解析**：本题在单元主题情境中复习表达 traffic jam。
+> **解析**：slow down 为动词短语，意为“减速、放慢速度”。slippery road 指“湿滑道路”。
 
 ### 8
 
-After arrival, I remembered "`____`".
+I can give you a ride since your office is on the way to my destination for `____`.
 
-- [x] busy
+- [x] drop
 - [ ] back
-- [ ] get stuck
+- [ ] come with
 
-> **解析**：本题在单元主题情境中复习表达 busy。
+> **解析**：on the way to 为固定介词短语，意为“在去...的路上”。give sb. a ride 意为“顺路搭乘某人”。
 
 ### 9
 
-The guide pointed out "`____`".
+Watch out! There is a bicycle approaching fast from your right side mirror (`____`).
 
-- [x] drive
+- [x] drop off
+- [ ] busy
 - [ ] crosswalk
-- [ ] rush hour
 
-> **解析**：本题在单元主题情境中复习表达 drive。
+> **解析**：watch out 为动词短语，用作感叹句，意为“当心、注意”。与 look out 同义。
 
 ### 10
 
-That travel story ended with "`____`".
+Don't worry about driving; the bus stop is close by within five minutes' walk for `____`.
 
 - [x] exit
-- [ ] drop
-- [ ] sped up
+- [ ] close by
+- [ ] drive
 
-> **解析**：本题在单元主题情境中复习表达 exit。
+> **解析**：close by 为副词短语/介词短语，意为“在附近、近在咫尺”。作表语或状语修饰位置。
 
 </quiz-cloze>

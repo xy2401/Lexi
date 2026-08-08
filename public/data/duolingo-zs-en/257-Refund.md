@@ -77,70 +77,79 @@ must I / must we 表达不情愿或质疑："我非得……吗？"speak politel
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“carefully”。  
-   **英文**：In this situation, I heard "carefully".
-   > **解析**：本题在单元主题情境中复习表达 carefully。
+1. **中文**：既然这个家电停止工作了，我想申请全额退款。  
+   **英文**：Since the appliance stopped working, I would like to request a full refund for carefully.
+   > **解析**：`full refund` 意为“全额退款”，`request a full refund` 为常用维权搭配。
 
-2. **中文**：同伴解释了“full refund”。  
-   **英文**：My partner explained "full refund".
-   > **解析**：本题在单元主题情境中复习表达 full refund。
+2. **中文**：顾客昨天把有缺陷的相机退回给了商店。  
+   **英文**：The customer returned the defective camera to the store yesterday.
+   > **解析**：`defective` 是形容词，意为“有缺陷的、有故障的”，修饰 `camera`。
 
-3. **中文**：我们一起谈到了“must we”。  
-   **英文**：We talked about "must we" together.
-   > **解析**：本题在单元主题情境中复习表达 must we。
+3. **中文**：您需要出示收据作为购买凭证才能退货。  
+   **英文**：You need to present your receipt as proof of purchase for a return for everybody.
+   > **解析**：`proof of purchase` 是商业术语，意为“购买凭证”。
 
-4. **中文**：我记下了“policy”。  
-   **英文**：I wrote down "policy".
-   > **解析**：本题在单元主题情境中复习表达 policy。
+4. **中文**：根据公司政策，商品可以在30天内退换。  
+   **英文**：According to company policy, items can be returned within 30 days (full refund).
+   > **解析**：`policy` 是名词，意为“政策、规定”，搭配 `according to company policy`。
 
-5. **中文**：例句中包含“satisfaction”。  
-   **英文**：The example included "satisfaction".
-   > **解析**：本题在单元主题情境中复习表达 satisfaction。
+5. **中文**：这款电子产品附带两年的性能质量保证。  
+   **英文**：The electronic product comes with a two-year performance guarantee.
+   > **解析**：`guarantee` 作名词，意为“保证、保修单”。
 
-6. **中文**：我询问了“state”。  
-   **英文**：I asked about "state".
-   > **解析**：本题在单元主题情境中复习表达 state。
+6. **中文**：工作人员将在三个工作日内处理您的退款申请。  
+   **英文**：The staff will process your refund request within three working days (in need of).
+   > **解析**：`process` 作及物动词，意为“处理、办理”，宾语为 `your refund request`。
 
-7. **中文**：我们在句子中用到了“useless”。  
-   **英文**：We used "useless" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 useless。
+7. **中文**：没有电源线，这款数字平板电脑完全毫无用处。  
+   **英文**：Without the power cable, this digital tablet is completely useless (must i).
+   > **解析**：`useless` 是形容词，意为“无用的、毫无价值的”，作表语。
 
-8. **中文**：朋友重复了“defective”。  
-   **英文**：My friend repeated "defective".
-   > **解析**：本题在单元主题情境中复习表达 defective。
+8. **中文**：这款手表在广告中声称防水，但水分立刻渗进了内部。  
+   **英文**：The watch was advertised as waterproof, but water got inside immediately (must we).
+   > **解析**：`waterproof` 是形容词，意为“防水的”。
 
-9. **中文**：后来，我记住了“in need of”。  
-   **英文**：Later, I remembered "in need of".
-   > **解析**：本题在单元主题情境中复习表达 in need of。
+9. **中文**：经理检查了笔记本电脑，说它没有任何问题。  
+   **英文**：The manager checked the laptop and said there was nothing wrong with it (no good).
+   > **解析**：`there is nothing wrong with sth` 意为“某物没有任何毛病/问题”。
 
-10. **中文**：这个小故事以“no good”收尾。  
-   **英文**：The short story ended with "no good".
-   > **解析**：本题在单元主题情境中复习表达 no good。
+10. **中文**：如果您不满意的话，我可以为您叫来本店主管。  
+   **英文**：If you are not satisfied, I can call the store supervisor for you (nothing wrong with).
+   > **解析**：`supervisor` 是名词，意为“主管、督导”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "carefully".
-   > **中文**：在这个情境中，我听到了“carefully”。
-2. My partner explained "full refund".
-   > **中文**：同伴解释了“full refund”。
-3. We talked about "must we" together.
-   > **中文**：我们一起谈到了“must we”。
-4. I wrote down "policy".
-   > **中文**：我记下了“policy”。
-5. The example included "satisfaction".
-   > **中文**：例句中包含“satisfaction”。
-6. I asked about "state".
-   > **中文**：我询问了“state”。
-7. We used "useless" in a sentence.
-   > **中文**：我们在句子中用到了“useless”。
-8. My friend repeated "defective".
-   > **中文**：朋友重复了“defective”。
-9. Later, I remembered "in need of".
-   > **中文**：后来，我记住了“in need of”。
-10. The short story ended with "no good".
-   > **中文**：这个小故事以“no good”收尾。
+1. Since the appliance stopped working, I would like to request a full refund for carefully.
+   > **中文**：既然这个家电停止工作了，我想申请全额退款。
+
+2. The customer returned the defective camera to the store yesterday.
+   > **中文**：顾客昨天把有缺陷的相机退回给了商店。
+
+3. You need to present your receipt as proof of purchase for a return for everybody.
+   > **中文**：您需要出示收据作为购买凭证才能退货。
+
+4. According to company policy, items can be returned within 30 days (full refund).
+   > **中文**：根据公司政策，商品可以在30天内退换。
+
+5. The electronic product comes with a two-year performance guarantee.
+   > **中文**：这款电子产品附带两年的性能质量保证。
+
+6. The staff will process your refund request within three working days (in need of).
+   > **中文**：工作人员将在三个工作日内处理您的退款申请。
+
+7. Without the power cable, this digital tablet is completely useless (must i).
+   > **中文**：没有电源线，这款数字平板电脑完全毫无用处。
+
+8. The watch was advertised as waterproof, but water got inside immediately (must we).
+   > **中文**：这款手表在广告中声称防水，但水分立刻渗进了内部。
+
+9. The manager checked the laptop and said there was nothing wrong with it (no good).
+   > **中文**：经理检查了笔记本电脑，说它没有任何问题。
+
+10. If you are not satisfied, I can call the store supervisor for you (nothing wrong with).
+   > **中文**：如果您不满意的话，我可以为您叫来本店主管。
 
 </quiz-listening>
 
@@ -152,102 +161,102 @@ must I / must we 表达不情愿或质疑："我非得……吗？"speak politel
 
 ### 1
 
-In this situation, I heard "`____`".
+Since the appliance stopped working, I would like to request a full refund for `____`.
 
 - [x] carefully
-- [ ] policy
-- [ ] useless
+- [ ] full refund
+- [ ] must i
 
-> **解析**：本题在单元主题情境中复习表达 carefully。
+> **解析**：`full refund` 意为“全额退款”，`request a full refund` 为常用维权搭配。
 
 ### 2
 
-My partner explained "`____`".
+The customer returned the `____` camera to the store yesterday.
 
-- [x] full refund
-- [ ] satisfaction
-- [ ] defective
+- [x] defective
+- [ ] guarantee
+- [ ] must we
 
-> **解析**：本题在单元主题情境中复习表达 full refund。
+> **解析**：`defective` 是形容词，意为“有缺陷的、有故障的”，修饰 `camera`。
 
 ### 3
 
-We talked about "`____`" together.
+You need to present your receipt as proof of purchase for a return for `____`.
 
-- [x] must we
-- [ ] state
+- [x] everybody
 - [ ] in need of
+- [ ] no good
 
-> **解析**：本题在单元主题情境中复习表达 must we。
+> **解析**：`proof of purchase` 是商业术语，意为“购买凭证”。
 
 ### 4
 
-I wrote down "`____`".
+According to company policy, items can be returned within 30 days (`____`).
 
-- [x] policy
-- [ ] useless
-- [ ] no good
+- [x] full refund
+- [ ] must i
+- [ ] nothing wrong with
 
-> **解析**：本题在单元主题情境中复习表达 policy。
+> **解析**：`policy` 是名词，意为“政策、规定”，搭配 `according to company policy`。
 
 ### 5
 
-The example included "`____`".
+The electronic product comes with a two-year performance `____`.
 
-- [x] satisfaction
-- [ ] defective
+- [x] guarantee
+- [ ] must we
 - [ ] carefully
 
-> **解析**：本题在单元主题情境中复习表达 satisfaction。
+> **解析**：`guarantee` 作名词，意为“保证、保修单”。
 
 ### 6
 
-I asked about "`____`".
+The staff will process your refund request within three working days (`____`).
 
-- [x] state
-- [ ] in need of
-- [ ] full refund
+- [x] in need of
+- [ ] no good
+- [ ] defective
 
-> **解析**：本题在单元主题情境中复习表达 state。
+> **解析**：`process` 作及物动词，意为“处理、办理”，宾语为 `your refund request`。
 
 ### 7
 
-We used "`____`" in a sentence.
+Without the power cable, this digital tablet is completely useless (`____`).
 
-- [x] useless
-- [ ] no good
-- [ ] must we
+- [x] must i
+- [ ] nothing wrong with
+- [ ] everybody
 
-> **解析**：本题在单元主题情境中复习表达 useless。
+> **解析**：`useless` 是形容词，意为“无用的、毫无价值的”，作表语。
 
 ### 8
 
-My friend repeated "`____`".
+The watch was advertised as waterproof, but water got inside immediately (`____`).
 
-- [x] defective
+- [x] must we
 - [ ] carefully
-- [ ] policy
+- [ ] full refund
 
-> **解析**：本题在单元主题情境中复习表达 defective。
+> **解析**：`waterproof` 是形容词，意为“防水的”。
 
 ### 9
 
-Later, I remembered "`____`".
+The manager checked the laptop and said there was nothing wrong with it (`____`).
 
-- [x] in need of
-- [ ] full refund
-- [ ] satisfaction
+- [x] no good
+- [ ] defective
+- [ ] guarantee
 
-> **解析**：本题在单元主题情境中复习表达 in need of。
+> **解析**：`there is nothing wrong with sth` 意为“某物没有任何毛病/问题”。
 
 ### 10
 
-The short story ended with "`____`".
+If you are not satisfied, I can call the store supervisor for you (`____`).
 
-- [x] no good
-- [ ] must we
-- [ ] state
+- [x] nothing wrong with
+- [ ] everybody
+- [ ] in need of
 
-> **解析**：本题在单元主题情境中复习表达 no good。
+> **解析**：`supervisor` 是名词，意为“主管、督导”。
 
 </quiz-cloze>

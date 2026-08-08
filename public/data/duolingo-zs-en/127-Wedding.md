@@ -61,70 +61,79 @@ instead of 表示"而不是"。until / till 表示"直到"。
 
 <quiz-sentence-builder>
 
-1. **中文**：在家里，我们谈到了“bride”。  
-   **英文**：At home, we talked about "bride".
-   > **解析**：本题在单元主题情境中复习表达 bride。
+1. **中文**：新娘穿着定制的白色婚纱，看起来美得令人屏息。  
+   **英文**：The bride looked breathtaking in her custom white wedding gown.
+   > **解析**：bride 为名词，意为“新娘”。新郎为 groom。bride and groom 合称“新婚夫妇”。
 
-2. **中文**：家人提到了“colorful”。  
-   **英文**：My family mentioned "colorful".
-   > **解析**：本题在单元主题情境中复习表达 colorful。
+2. **中文**：新郎在圣坛前紧张地等待着他的新娘走向红毯。  
+   **英文**：The groom waited nervously at the altar for his bride to walk down the aisle for celebrate.
+   > **解析**：groom 为名词，意为“新郎”。walk down the aisle 意为“走上结婚红毯/步入婚姻殿堂”。
 
-3. **中文**：在房间里，我注意到了“exchange”。  
-   **英文**：In the room, I noticed "exchange".
-   > **解析**：本题在单元主题情境中复习表达 exchange。
+3. **中文**：婚礼仪式在湖边一个优雅的户外花园里举行。  
+   **英文**：The wedding ceremony took place in an elegant outdoor garden near the lake.
+   > **解析**：ceremony 为名词，意为“仪式、典礼”。take place 意为“举行”。wedding ceremony 表示“婚礼仪式”。
 
-4. **中文**：我们在家里用到了“kiss”。  
-   **英文**：We used "kiss" at home.
-   > **解析**：本题在单元主题情境中复习表达 kiss。
+4. **中文**：在约会三年之后，这对幸福的情侣终于在昨晚订婚了。  
+   **英文**：After dating for three years, the happy couple finally got engaged last night for cheek.
+   > **解析**：engaged 为形容词，意为“已订婚的”。get engaged 表示“订婚”。get engaged to sb. 表示“与某人订婚”。
 
-5. **中文**：邻居询问了“relative”。  
-   **英文**：My neighbor asked about "relative".
-   > **解析**：本题在单元主题情境中复习表达 relative。
+5. **中文**：新人在许下誓言时交换结婚戒指是一项甜蜜的传统。  
+   **英文**：It is a sweet tradition for the couple to exchange wedding rings during the vows for colorful.
+   > **解析**：exchange 为动词，意为“交换”。exchange rings 表示“交换戒指”。tradition 用作名词意为“传统”。
 
-6. **中文**：我在门边写下了“surprise”。  
-   **英文**：I wrote down "surprise" by the door.
-   > **解析**：本题在单元主题情境中复习表达 surprise。
+6. **中文**：他们选择穿着代表其文化遗产的传统服饰。  
+   **英文**：They chose to wear traditional garments that represent their cultural heritage for deliver.
+   > **解析**：traditional 为形容词，意为“传统的”。修饰名词 garments（服装）。名词形式为 tradition。
 
-7. **中文**：晚饭后，我们重复了“until”。  
-   **英文**：After dinner, we repeated "until".
-   > **解析**：本题在单元主题情境中复习表达 until。
+7. **中文**：来自全国各地的亲戚聚在一起参加宴会。  
+   **英文**：Relatives from all over the country gathered together to attend the banquet for engaged.
+   > **解析**：relative 为名词，意为“亲戚、亲属”。gather together 意为“聚集”。attend the banquet 意为“出席宴会”。
 
-8. **中文**：家庭故事里包含“celebrate”。  
-   **英文**：The family story included "celebrate".
-   > **解析**：本题在单元主题情境中复习表达 celebrate。
+8. **中文**：一群有才华的音乐家整个晚上都在演奏浪漫的爵士乐曲。  
+   **英文**：A group of talented musicians played romantic jazz songs throughout the evening for exchange.
+   > **解析**：musician 为名词，意为“音乐家、乐手”。由 music + -ian 构成。throughout 用作介词，意为“贯穿/整整”。
 
-9. **中文**：睡前，我记住了“deliver”。  
-   **英文**：Before bed, I remembered "deliver".
-   > **解析**：本题在单元主题情境中复习表达 deliver。
+9. **中文**：朋友和家人举杯庆祝这对新人的特别日子。  
+   **英文**：Friends and family raised their glasses to celebrate the couple's special day for greet.
+   > **解析**：celebrate 为动词，意为“庆祝”。raise glasses 表示“举杯”。to celebrate 引导目的状语从句。
 
-10. **中文**：那个夜晚以“groom”收尾。  
-   **英文**：That evening ended with "groom".
-   > **解析**：本题在单元主题情境中复习表达 groom。
+10. **中文**：这对新人请求以慈善捐款代替传统的婚礼礼物。  
+   **英文**：The couple asked for charity donations instead of traditional wedding gifts for groom.
+   > **解析**：instead of 为复合介词，意为“代替、而不是”。后面接名词、代词或动名词（charity donations）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At home, we talked about "bride".
-   > **中文**：在家里，我们谈到了“bride”。
-2. My family mentioned "colorful".
-   > **中文**：家人提到了“colorful”。
-3. In the room, I noticed "exchange".
-   > **中文**：在房间里，我注意到了“exchange”。
-4. We used "kiss" at home.
-   > **中文**：我们在家里用到了“kiss”。
-5. My neighbor asked about "relative".
-   > **中文**：邻居询问了“relative”。
-6. I wrote down "surprise" by the door.
-   > **中文**：我在门边写下了“surprise”。
-7. After dinner, we repeated "until".
-   > **中文**：晚饭后，我们重复了“until”。
-8. The family story included "celebrate".
-   > **中文**：家庭故事里包含“celebrate”。
-9. Before bed, I remembered "deliver".
-   > **中文**：睡前，我记住了“deliver”。
-10. That evening ended with "groom".
-   > **中文**：那个夜晚以“groom”收尾。
+1. The bride looked breathtaking in her custom white wedding gown.
+   > **中文**：新娘穿着定制的白色婚纱，看起来美得令人屏息。
+
+2. The groom waited nervously at the altar for his bride to walk down the aisle for celebrate.
+   > **中文**：新郎在圣坛前紧张地等待着他的新娘走向红毯。
+
+3. The wedding ceremony took place in an elegant outdoor garden near the lake.
+   > **中文**：婚礼仪式在湖边一个优雅的户外花园里举行。
+
+4. After dating for three years, the happy couple finally got engaged last night for cheek.
+   > **中文**：在约会三年之后，这对幸福的情侣终于在昨晚订婚了。
+
+5. It is a sweet tradition for the couple to exchange wedding rings during the vows for colorful.
+   > **中文**：新人在许下誓言时交换结婚戒指是一项甜蜜的传统。
+
+6. They chose to wear traditional garments that represent their cultural heritage for deliver.
+   > **中文**：他们选择穿着代表其文化遗产的传统服饰。
+
+7. Relatives from all over the country gathered together to attend the banquet for engaged.
+   > **中文**：来自全国各地的亲戚聚在一起参加宴会。
+
+8. A group of talented musicians played romantic jazz songs throughout the evening for exchange.
+   > **中文**：一群有才华的音乐家整个晚上都在演奏浪漫的爵士乐曲。
+
+9. Friends and family raised their glasses to celebrate the couple's special day for greet.
+   > **中文**：朋友和家人举杯庆祝这对新人的特别日子。
+
+10. The couple asked for charity donations instead of traditional wedding gifts for groom.
+   > **中文**：这对新人请求以慈善捐款代替传统的婚礼礼物。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ instead of 表示"而不是"。until / till 表示"直到"。
 
 ### 1
 
-At home, we talked about "`____`".
+The `____` looked breathtaking in her custom white wedding gown.
 
 - [x] bride
-- [ ] kiss
-- [ ] until
+- [ ] cheek
+- [ ] engaged
 
-> **解析**：本题在单元主题情境中复习表达 bride。
+> **解析**：bride 为名词，意为“新娘”。新郎为 groom。bride and groom 合称“新婚夫妇”。
 
 ### 2
 
-My family mentioned "`____`".
+The groom waited nervously at the altar for his bride to walk down the aisle for `____`.
 
-- [x] colorful
-- [ ] relative
-- [ ] celebrate
+- [x] celebrate
+- [ ] colorful
+- [ ] exchange
 
-> **解析**：本题在单元主题情境中复习表达 colorful。
+> **解析**：groom 为名词，意为“新郎”。walk down the aisle 意为“走上结婚红毯/步入婚姻殿堂”。
 
 ### 3
 
-In the room, I noticed "`____`".
+The wedding `____` took place in an elegant outdoor garden near the lake.
 
-- [x] exchange
-- [ ] surprise
+- [x] ceremony
 - [ ] deliver
+- [ ] greet
 
-> **解析**：本题在单元主题情境中复习表达 exchange。
+> **解析**：ceremony 为名词，意为“仪式、典礼”。take place 意为“举行”。wedding ceremony 表示“婚礼仪式”。
 
 ### 4
 
-We used "`____`" at home.
+After dating for three years, the happy couple finally got engaged last night for `____`.
 
-- [x] kiss
-- [ ] until
+- [x] cheek
+- [ ] engaged
 - [ ] groom
 
-> **解析**：本题在单元主题情境中复习表达 kiss。
+> **解析**：engaged 为形容词，意为“已订婚的”。get engaged 表示“订婚”。get engaged to sb. 表示“与某人订婚”。
 
 ### 5
 
-My neighbor asked about "`____`".
+It is a sweet tradition for the couple to exchange wedding rings during the vows for `____`.
 
-- [x] relative
-- [ ] celebrate
+- [x] colorful
+- [ ] exchange
 - [ ] bride
 
-> **解析**：本题在单元主题情境中复习表达 relative。
+> **解析**：exchange 为动词，意为“交换”。exchange rings 表示“交换戒指”。tradition 用作名词意为“传统”。
 
 ### 6
 
-I wrote down "`____`" by the door.
+They chose to wear traditional garments that represent their cultural heritage for `____`.
 
-- [x] surprise
-- [ ] deliver
-- [ ] colorful
+- [x] deliver
+- [ ] greet
+- [ ] celebrate
 
-> **解析**：本题在单元主题情境中复习表达 surprise。
+> **解析**：traditional 为形容词，意为“传统的”。修饰名词 garments（服装）。名词形式为 tradition。
 
 ### 7
 
-After dinner, we repeated "`____`".
+Relatives from all over the country gathered together to attend the banquet for `____`.
 
-- [x] until
+- [x] engaged
 - [ ] groom
-- [ ] exchange
+- [ ] ceremony
 
-> **解析**：本题在单元主题情境中复习表达 until。
+> **解析**：relative 为名词，意为“亲戚、亲属”。gather together 意为“聚集”。attend the banquet 意为“出席宴会”。
 
 ### 8
 
-The family story included "`____`".
+A group of talented musicians played romantic jazz songs throughout the evening for `____`.
 
-- [x] celebrate
+- [x] exchange
 - [ ] bride
-- [ ] kiss
+- [ ] cheek
 
-> **解析**：本题在单元主题情境中复习表达 celebrate。
+> **解析**：musician 为名词，意为“音乐家、乐手”。由 music + -ian 构成。throughout 用作介词，意为“贯穿/整整”。
 
 ### 9
 
-Before bed, I remembered "`____`".
+Friends and family raised their glasses to celebrate the couple's special day for `____`.
 
-- [x] deliver
+- [x] greet
+- [ ] celebrate
 - [ ] colorful
-- [ ] relative
 
-> **解析**：本题在单元主题情境中复习表达 deliver。
+> **解析**：celebrate 为动词，意为“庆祝”。raise glasses 表示“举杯”。to celebrate 引导目的状语从句。
 
 ### 10
 
-That evening ended with "`____`".
+The couple asked for charity donations instead of traditional wedding gifts for `____`.
 
 - [x] groom
-- [ ] exchange
-- [ ] surprise
+- [ ] ceremony
+- [ ] deliver
 
-> **解析**：本题在单元主题情境中复习表达 groom。
+> **解析**：instead of 为复合介词，意为“代替、而不是”。后面接名词、代词或动名词（charity donations）。
 
 </quiz-cloze>

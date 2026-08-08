@@ -53,70 +53,79 @@ as soon as 是时间连接词，表示"一……就……"。out of work = 失�
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“achieve”。  
-   **英文**：At work, we discussed "achieve".
-   > **解析**：本题在单元主题情境中复习表达 achieve。
+1. **中文**：如果你努力工作并保持专注，你就能实现你所有的职业目标。  
+   **英文**：If you work hard and stay focused, you can achieve all your career goals.
+   > **解析**：achieve 及物动词，意为“实现；达到”，宾语常为 goal、dream、success 等。
 
-2. **中文**：同事提到了“as soon as”。  
-   **英文**：My coworker mentioned "as soon as".
-   > **解析**：本题在单元主题情境中复习表达 as soon as。
+2. **中文**：获得年度最佳员工奖对她来说是一项重大成就。  
+   **英文**：Winning the employee of the year award was a major achievement for her.
+   > **解析**：achievement 名词，意为“成就；功绩”，由动词 achieve 加后缀 -ment 构成。
 
-3. **中文**：会议中，我听到了“conference”。  
-   **英文**：In the meeting, I heard "conference".
-   > **解析**：本题在单元主题情境中复习表达 conference。
+3. **中文**：经过三年的勤奋工作，她获得了晋升为高级经理的机会。  
+   **英文**：After three years of diligent work, she earned a promotion to senior manager for admire.
+   > **解析**：promotion 可数/不可数名词，意为“升职；晋升”，动词形式为 promote。
 
-4. **中文**：我把“engineering”写进了笔记。  
-   **英文**：I added "engineering" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 engineering。
+4. **中文**：在完成这个大项目后，他向经理提出了加薪要求。  
+   **英文**：He asked his manager for a salary raise after completing the big project (as soon as).
+   > **解析**：raise 可数名词，在此意为“加薪”（美式英语），英式英语常用 pay rise。
 
-5. **中文**：经理解释了“greatest”。  
-   **英文**：The manager explained "greatest".
-   > **解析**：本题在单元主题情境中复习表达 greatest。
+5. **中文**：担任领导职务是一项巨大的挑战，但它能帮助你成长。  
+   **英文**：Taking on a leadership role is a great challenge, but it helps you grow for background.
+   > **解析**：challenge 可数名词，意为“挑战”，作动词时意为“向……挑战”。
 
-6. **中文**：团队今天用到了“promotion”。  
-   **英文**：Our team used "promotion" today.
-   > **解析**：本题在单元主题情境中复习表达 promotion。
+6. **中文**：她计划从大学毕业并获得计算机科学学位。  
+   **英文**：She plans to graduate from university with a degree in computer science for benefit.
+   > **解析**：graduate 动词，意为“毕业”，短语 graduate from 表示“从……毕业”。
 
-7. **中文**：午饭前，我们查看了“training”。  
-   **英文**：Before lunch, we checked "training".
-   > **解析**：本题在单元主题情境中复习表达 training。
+7. **中文**：科技行业为年轻人提供了许多令人兴奋的职业机会。  
+   **英文**：The tech industry offers many exciting career opportunities for young people for challenge.
+   > **解析**：industry 可数/不可数名词，意为“行业；工业”，如 tech industry（科技业）。
 
-8. **中文**：同事询问了“achievement”。  
-   **英文**：My colleague asked about "achievement".
-   > **解析**：本题在单元主题情境中复习表达 achievement。
+8. **中文**：工厂倒闭后，许多工人失业了。  
+   **英文**：After the factory closed down, many workers were left out of work for conference.
+   > **解析**：out of work 形容词短语，意为“失业的；没有工作的”，等同于 unemployed。
 
-9. **中文**：报告中包含“benefit”。  
-   **英文**：The report included "benefit".
-   > **解析**：本题在单元主题情境中复习表达 benefit。
+9. **中文**：他对工程学有着浓厚的兴趣，想设计太阳能汽车。  
+   **英文**：He has a passionate interest in engineering and wants to design solar cars for current.
+   > **解析**：engineering 不可数名词，意为“工程学；工程领域”，衍生自 engineer。
 
-10. **中文**：一天结束时，我记住了“current”。  
-   **英文**：At the end of the day, I remembered "current".
-   > **解析**：本题在单元主题情境中复习表达 current。
+10. **中文**：她在市场营销方面的雄厚背景使她非常适合这个职位。  
+   **英文**：Her strong background in marketing makes her ideal for the position for effort.
+   > **解析**：background 可数名词，在此意为“学历背景；工作经历”，常搭配介词 in。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "achieve".
-   > **中文**：工作中，我们讨论了“achieve”。
-2. My coworker mentioned "as soon as".
-   > **中文**：同事提到了“as soon as”。
-3. In the meeting, I heard "conference".
-   > **中文**：会议中，我听到了“conference”。
-4. I added "engineering" to my notes.
-   > **中文**：我把“engineering”写进了笔记。
-5. The manager explained "greatest".
-   > **中文**：经理解释了“greatest”。
-6. Our team used "promotion" today.
-   > **中文**：团队今天用到了“promotion”。
-7. Before lunch, we checked "training".
-   > **中文**：午饭前，我们查看了“training”。
-8. My colleague asked about "achievement".
-   > **中文**：同事询问了“achievement”。
-9. The report included "benefit".
-   > **中文**：报告中包含“benefit”。
-10. At the end of the day, I remembered "current".
-   > **中文**：一天结束时，我记住了“current”。
+1. If you work hard and stay focused, you can achieve all your career goals.
+   > **中文**：如果你努力工作并保持专注，你就能实现你所有的职业目标。
+
+2. Winning the employee of the year award was a major achievement for her.
+   > **中文**：获得年度最佳员工奖对她来说是一项重大成就。
+
+3. After three years of diligent work, she earned a promotion to senior manager for admire.
+   > **中文**：经过三年的勤奋工作，她获得了晋升为高级经理的机会。
+
+4. He asked his manager for a salary raise after completing the big project (as soon as).
+   > **中文**：在完成这个大项目后，他向经理提出了加薪要求。
+
+5. Taking on a leadership role is a great challenge, but it helps you grow for background.
+   > **中文**：担任领导职务是一项巨大的挑战，但它能帮助你成长。
+
+6. She plans to graduate from university with a degree in computer science for benefit.
+   > **中文**：她计划从大学毕业并获得计算机科学学位。
+
+7. The tech industry offers many exciting career opportunities for young people for challenge.
+   > **中文**：科技行业为年轻人提供了许多令人兴奋的职业机会。
+
+8. After the factory closed down, many workers were left out of work for conference.
+   > **中文**：工厂倒闭后，许多工人失业了。
+
+9. He has a passionate interest in engineering and wants to design solar cars for current.
+   > **中文**：他对工程学有着浓厚的兴趣，想设计太阳能汽车。
+
+10. Her strong background in marketing makes her ideal for the position for effort.
+   > **中文**：她在市场营销方面的雄厚背景使她非常适合这个职位。
 
 </quiz-listening>
 
@@ -128,102 +137,102 @@ as soon as 是时间连接词，表示"一……就……"。out of work = 失�
 
 ### 1
 
-At work, we discussed "`____`".
+If you work hard and stay focused, you can `____` all your career goals.
 
 - [x] achieve
-- [ ] engineering
-- [ ] training
+- [ ] as soon as
+- [ ] challenge
 
-> **解析**：本题在单元主题情境中复习表达 achieve。
+> **解析**：achieve 及物动词，意为“实现；达到”，宾语常为 goal、dream、success 等。
 
 ### 2
 
-My coworker mentioned "`____`".
+Winning the employee of the year award was a major `____` for her.
 
-- [x] as soon as
-- [ ] greatest
-- [ ] achievement
+- [x] achievement
+- [ ] background
+- [ ] conference
 
-> **解析**：本题在单元主题情境中复习表达 as soon as。
+> **解析**：achievement 名词，意为“成就；功绩”，由动词 achieve 加后缀 -ment 构成。
 
 ### 3
 
-In the meeting, I heard "`____`".
+After three years of diligent work, she earned a promotion to senior manager for `____`.
 
-- [x] conference
-- [ ] promotion
+- [x] admire
 - [ ] benefit
+- [ ] current
 
-> **解析**：本题在单元主题情境中复习表达 conference。
+> **解析**：promotion 可数/不可数名词，意为“升职；晋升”，动词形式为 promote。
 
 ### 4
 
-I added "`____`" to my notes.
+He asked his manager for a salary raise after completing the big project (`____`).
 
-- [x] engineering
-- [ ] training
-- [ ] current
+- [x] as soon as
+- [ ] challenge
+- [ ] effort
 
-> **解析**：本题在单元主题情境中复习表达 engineering。
+> **解析**：raise 可数名词，在此意为“加薪”（美式英语），英式英语常用 pay rise。
 
 ### 5
 
-The manager explained "`____`".
+Taking on a leadership role is a great challenge, but it helps you grow for `____`.
 
-- [x] greatest
-- [ ] achievement
+- [x] background
+- [ ] conference
 - [ ] achieve
 
-> **解析**：本题在单元主题情境中复习表达 greatest。
+> **解析**：challenge 可数名词，意为“挑战”，作动词时意为“向……挑战”。
 
 ### 6
 
-Our team used "`____`" today.
+She plans to graduate from university with a degree in computer science for `____`.
 
-- [x] promotion
-- [ ] benefit
-- [ ] as soon as
+- [x] benefit
+- [ ] current
+- [ ] achievement
 
-> **解析**：本题在单元主题情境中复习表达 promotion。
+> **解析**：graduate 动词，意为“毕业”，短语 graduate from 表示“从……毕业”。
 
 ### 7
 
-Before lunch, we checked "`____`".
+The tech industry offers many exciting career opportunities for young people for `____`.
 
-- [x] training
-- [ ] current
-- [ ] conference
+- [x] challenge
+- [ ] effort
+- [ ] admire
 
-> **解析**：本题在单元主题情境中复习表达 training。
+> **解析**：industry 可数/不可数名词，意为“行业；工业”，如 tech industry（科技业）。
 
 ### 8
 
-My colleague asked about "`____`".
+After the factory closed down, many workers were left out of work for `____`.
 
-- [x] achievement
+- [x] conference
 - [ ] achieve
-- [ ] engineering
+- [ ] as soon as
 
-> **解析**：本题在单元主题情境中复习表达 achievement。
+> **解析**：out of work 形容词短语，意为“失业的；没有工作的”，等同于 unemployed。
 
 ### 9
 
-The report included "`____`".
+He has a passionate interest in engineering and wants to design solar cars for `____`.
 
-- [x] benefit
-- [ ] as soon as
-- [ ] greatest
+- [x] current
+- [ ] achievement
+- [ ] background
 
-> **解析**：本题在单元主题情境中复习表达 benefit。
+> **解析**：engineering 不可数名词，意为“工程学；工程领域”，衍生自 engineer。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+Her strong background in marketing makes her ideal for the position for `____`.
 
-- [x] current
-- [ ] conference
-- [ ] promotion
+- [x] effort
+- [ ] admire
+- [ ] benefit
 
-> **解析**：本题在单元主题情境中复习表达 current。
+> **解析**：background 可数名词，在此意为“学历背景；工作经历”，常搭配介词 in。
 
 </quiz-cloze>

@@ -61,70 +61,79 @@ has been / have been 是现在完成进行时。by the time 引导时间状语�
 
 <quiz-sentence-builder>
 
-1. **中文**：在家里，我们谈到了“according to”。  
-   **英文**：At home, we talked about "according to".
-   > **解析**：本题在单元主题情境中复习表达 according to。
+1. **中文**：我信任他并把我的私密秘密告诉了他，但他却透露给了所有人。  
+   **英文**：I trusted him with my private secret, but he revealed it to everyone (according to).
+   > **解析**：secret 在句中作名词，意为“秘密”。trust sb. with sth. 意为“用某事信任某人/把某事托付给某人”。reveal 意为“透露”。
 
-2. **中文**：家人提到了“been”。  
-   **英文**：My family mentioned "been".
-   > **解析**：本题在单元主题情境中复习表达 been。
+2. **中文**：很明显，当他声称对遗失的钥匙一无所知时，他说了谎。  
+   **英文**：It is clear that he told a lie when he claimed he knew nothing about the lost keys for appear.
+   > **解析**：lie 在句中作名词，意为“谎言”。tell a lie 表示“撒谎”。claim 意为“声称”。
 
-3. **中文**：在房间里，我注意到了“criminal”。  
-   **英文**：In the room, I noticed "criminal".
-   > **解析**：本题在单元主题情境中复习表达 criminal。
+3. **中文**：她突然意识到她的朋友一直以来都在对她撒谎。  
+   **英文**：She suddenly realized that her friend had been lying to her all along (at first).
+   > **解析**：realize 为动词，意为“意识到、发觉”。that 引导宾语从句。had been lying 为过去完成进行时。
 
-4. **中文**：我们在家里用到了“have been”。  
-   **英文**：We used "have been" at home.
-   > **解析**：本题在单元主题情境中复习表达 have been。
+4. **中文**：当我们问起失踪的文件时，你注意到他的举止有多紧张了吗？  
+   **英文**：Did you notice how nervous he acted when we asked about the missing file? for been.
+   > **解析**：notice 为动词，意为“注意到、察觉到”。how 引导宾语从句。act 意为“举止/表现”。
 
-5. **中文**：邻居询问了“notice”。  
-   **英文**：My neighbor asked about "notice".
-   > **解析**：本题在单元主题情境中复习表达 notice。
+5. **中文**：竞争对手们秘密会面，以规划他们下一步的商业举措。  
+   **英文**：The competitors met in secret to plan their next business move (break into).
+   > **解析**：in secret 为固定介词短语，作状语修饰 met，意为“秘密地、私下”。与 secretly 同义。
 
-6. **中文**：我在门边写下了“scream”。  
-   **英文**：I wrote down "scream" by the door.
-   > **解析**：本题在单元主题情境中复习表达 scream。
+6. **中文**：突然，灯熄灭了，有人悄悄推开了房间门。  
+   **英文**：Suddenly, the lights turned off and someone opened the room door quietly for by.
+   > **解析**：suddenly 为副词，置于句首作状语，意为“突然、忽然”。表示意外发生的动作。
 
-7. **中文**：晚饭后，我们重复了“she's”。  
-   **英文**：After dinner, we repeated "she's".
-   > **解析**：本题在单元主题情境中复习表达 she's。
+7. **中文**：根据这份报告，嫌疑人在午夜前不久离开了大楼。  
+   **英文**：According to the report, the suspect left the building shortly before midnight (by the time).
+   > **解析**：according to 为复合介词，意为“根据、依据”。后接名词或名词短语（the report）。
 
-8. **中文**：家庭故事里包含“at first”。  
-   **英文**：The family story included "at first".
-   > **解析**：本题在单元主题情境中复习表达 at first。
+8. **中文**：窃贼试图在周末大家回家后强行闯入办公室。  
+   **英文**：Thieves tried to break into the office after everyone went home for the weekend for criminal.
+   > **解析**：break into 为动词短语，意为“强行闯入、盗窃”。break into the office 意为“闯入办公室”。
 
-9. **中文**：睡前，我记住了“by the time”。  
-   **英文**：Before bed, I remembered "by the time".
-   > **解析**：本题在单元主题情境中复习表达 by the time。
+9. **中文**：当陌生人走过时，一道神秘的影子投射在墙壁上。  
+   **英文**：A mysterious shadow stretched across the wall as the stranger walked past for destroy.
+   > **解析**：shadow 为名词，意为“阴影、影子”。stretch across 意为“延伸/投射横跨”。
 
-10. **中文**：那个夜晚以“grab”收尾。  
-   **英文**：That evening ended with "grab".
-   > **解析**：本题在单元主题情境中复习表达 grab。
+10. **中文**：警方在跟踪追踪到该危险罪犯的位置后逮捕了他。  
+   **英文**：The police arrested the dangerous criminal after tracing his location for grab.
+   > **解析**：criminal 为名词，意为“罪犯、刑事犯”。arrest 意为“逮捕”。trace location 意为“追踪位置”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At home, we talked about "according to".
-   > **中文**：在家里，我们谈到了“according to”。
-2. My family mentioned "been".
-   > **中文**：家人提到了“been”。
-3. In the room, I noticed "criminal".
-   > **中文**：在房间里，我注意到了“criminal”。
-4. We used "have been" at home.
-   > **中文**：我们在家里用到了“have been”。
-5. My neighbor asked about "notice".
-   > **中文**：邻居询问了“notice”。
-6. I wrote down "scream" by the door.
-   > **中文**：我在门边写下了“scream”。
-7. After dinner, we repeated "she's".
-   > **中文**：晚饭后，我们重复了“she's”。
-8. The family story included "at first".
-   > **中文**：家庭故事里包含“at first”。
-9. Before bed, I remembered "by the time".
-   > **中文**：睡前，我记住了“by the time”。
-10. That evening ended with "grab".
-   > **中文**：那个夜晚以“grab”收尾。
+1. I trusted him with my private secret, but he revealed it to everyone (according to).
+   > **中文**：我信任他并把我的私密秘密告诉了他，但他却透露给了所有人。
+
+2. It is clear that he told a lie when he claimed he knew nothing about the lost keys for appear.
+   > **中文**：很明显，当他声称对遗失的钥匙一无所知时，他说了谎。
+
+3. She suddenly realized that her friend had been lying to her all along (at first).
+   > **中文**：她突然意识到她的朋友一直以来都在对她撒谎。
+
+4. Did you notice how nervous he acted when we asked about the missing file? for been.
+   > **中文**：当我们问起失踪的文件时，你注意到他的举止有多紧张了吗？
+
+5. The competitors met in secret to plan their next business move (break into).
+   > **中文**：竞争对手们秘密会面，以规划他们下一步的商业举措。
+
+6. Suddenly, the lights turned off and someone opened the room door quietly for by.
+   > **中文**：突然，灯熄灭了，有人悄悄推开了房间门。
+
+7. According to the report, the suspect left the building shortly before midnight (by the time).
+   > **中文**：根据这份报告，嫌疑人在午夜前不久离开了大楼。
+
+8. Thieves tried to break into the office after everyone went home for the weekend for criminal.
+   > **中文**：窃贼试图在周末大家回家后强行闯入办公室。
+
+9. A mysterious shadow stretched across the wall as the stranger walked past for destroy.
+   > **中文**：当陌生人走过时，一道神秘的影子投射在墙壁上。
+
+10. The police arrested the dangerous criminal after tracing his location for grab.
+   > **中文**：警方在跟踪追踪到该危险罪犯的位置后逮捕了他。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ has been / have been 是现在完成进行时。by the time 引导时间状语�
 
 ### 1
 
-At home, we talked about "`____`".
+I trusted him with my private secret, but he revealed it to everyone (`____`).
 
 - [x] according to
-- [ ] have been
-- [ ] she's
+- [ ] been
+- [ ] by the time
 
-> **解析**：本题在单元主题情境中复习表达 according to。
+> **解析**：secret 在句中作名词，意为“秘密”。trust sb. with sth. 意为“用某事信任某人/把某事托付给某人”。reveal 意为“透露”。
 
 ### 2
 
-My family mentioned "`____`".
+It is clear that he told a lie when he claimed he knew nothing about the lost keys for `____`.
 
-- [x] been
-- [ ] notice
-- [ ] at first
+- [x] appear
+- [ ] break into
+- [ ] criminal
 
-> **解析**：本题在单元主题情境中复习表达 been。
+> **解析**：lie 在句中作名词，意为“谎言”。tell a lie 表示“撒谎”。claim 意为“声称”。
 
 ### 3
 
-In the room, I noticed "`____`".
+She suddenly realized that her friend had been lying to her all along (`____`).
 
-- [x] criminal
-- [ ] scream
-- [ ] by the time
+- [x] at first
+- [ ] by
+- [ ] destroy
 
-> **解析**：本题在单元主题情境中复习表达 criminal。
+> **解析**：realize 为动词，意为“意识到、发觉”。that 引导宾语从句。had been lying 为过去完成进行时。
 
 ### 4
 
-We used "`____`" at home.
+Did you notice how nervous he acted when we asked about the missing file? for `____`.
 
-- [x] have been
-- [ ] she's
+- [x] been
+- [ ] by the time
 - [ ] grab
 
-> **解析**：本题在单元主题情境中复习表达 have been。
+> **解析**：notice 为动词，意为“注意到、察觉到”。how 引导宾语从句。act 意为“举止/表现”。
 
 ### 5
 
-My neighbor asked about "`____`".
+The competitors met in secret to plan their next business move (`____`).
 
-- [x] notice
-- [ ] at first
+- [x] break into
+- [ ] criminal
 - [ ] according to
 
-> **解析**：本题在单元主题情境中复习表达 notice。
+> **解析**：in secret 为固定介词短语，作状语修饰 met，意为“秘密地、私下”。与 secretly 同义。
 
 ### 6
 
-I wrote down "`____`" by the door.
+Suddenly, the lights turned off and someone opened the room door quietly for `____`.
 
-- [x] scream
-- [ ] by the time
-- [ ] been
+- [x] by
+- [ ] destroy
+- [ ] appear
 
-> **解析**：本题在单元主题情境中复习表达 scream。
+> **解析**：suddenly 为副词，置于句首作状语，意为“突然、忽然”。表示意外发生的动作。
 
 ### 7
 
-After dinner, we repeated "`____`".
+According to the report, the suspect left the building shortly before midnight (`____`).
 
-- [x] she's
+- [x] by the time
 - [ ] grab
-- [ ] criminal
+- [ ] at first
 
-> **解析**：本题在单元主题情境中复习表达 she's。
+> **解析**：according to 为复合介词，意为“根据、依据”。后接名词或名词短语（the report）。
 
 ### 8
 
-The family story included "`____`".
+Thieves tried to break into the office after everyone went home for the weekend for `____`.
 
-- [x] at first
+- [x] criminal
 - [ ] according to
-- [ ] have been
+- [ ] been
 
-> **解析**：本题在单元主题情境中复习表达 at first。
+> **解析**：break into 为动词短语，意为“强行闯入、盗窃”。break into the office 意为“闯入办公室”。
 
 ### 9
 
-Before bed, I remembered "`____`".
+A mysterious shadow stretched across the wall as the stranger walked past for `____`.
 
-- [x] by the time
-- [ ] been
-- [ ] notice
+- [x] destroy
+- [ ] appear
+- [ ] break into
 
-> **解析**：本题在单元主题情境中复习表达 by the time。
+> **解析**：shadow 为名词，意为“阴影、影子”。stretch across 意为“延伸/投射横跨”。
 
 ### 10
 
-That evening ended with "`____`".
+The police arrested the dangerous criminal after tracing his location for `____`.
 
 - [x] grab
-- [ ] criminal
-- [ ] scream
+- [ ] at first
+- [ ] by
 
-> **解析**：本题在单元主题情境中复习表达 grab。
+> **解析**：criminal 为名词，意为“罪犯、刑事犯”。arrest 意为“逮捕”。trace location 意为“追踪位置”。
 
 </quiz-cloze>

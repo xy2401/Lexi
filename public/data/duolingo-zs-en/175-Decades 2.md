@@ -49,70 +49,79 @@
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“1984”。  
-   **英文**：At work, we discussed "1984".
-   > **解析**：本题在单元主题情境中复习表达 1984。
+1. **中文**：这家科技公司于 1984 年推出了其革命性的个人计算机。  
+   **英文**：The technological company launched its revolutionary personal computer in 1984.
+   > **解析**：1984 为年份，读作 nineteen eighty-four。
 
-2. **中文**：同事提到了“at last”。  
-   **英文**：My coworker mentioned "at last".
-   > **解析**：本题在单元主题情境中复习表达 at last。
+2. **中文**：经过几十年的艰苦努力，这位科学家终于实现了他的梦想研究突破。  
+   **英文**：After decades of hard work, the scientist achieved his dream research breakthrough at last for 2005.
+   > **解析**：at last 为介词短语，意为“终于、最终”，相当于 finally。
 
-3. **中文**：会议中，我听到了“had”。  
-   **英文**：In the meeting, I heard "had".
-   > **解析**：本题在单元主题情境中复习表达 had。
+3. **中文**：在目标截止日期到来之前，他们已经完成了空间站项目。  
+   **英文**：They had completed the space station project before the target deadline arrived for 2020.
+   > **解析**：had 在此处作助动词，与过去分词 completed 构成过去完成时（had completed）。
 
-4. **中文**：我把“hero”写进了笔记。  
-   **英文**：I added "hero" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 hero。
+4. **中文**：这位勇敢的消防员因在灾难中拯救生命而被尊为国家英雄。  
+   **英文**：The brave firefighter was honored as a national hero for saving lives during the disaster (at last).
+   > **解析**：hero 为可数名词，意为“英雄”，复数形式为 heroes。
 
-5. **中文**：经理解释了“recognize”。  
-   **英文**：The manager explained "recognize".
-   > **解析**：本题在单元主题情境中复习表达 recognize。
+5. **中文**：科学界花了许多年的时间才认可她的重大成就。  
+   **英文**：It took many years for the scientific community to recognize her major achievement (by the time).
+   > **解析**：recognize 为及物动词，意为“认可、承认、认出”。接名词作宾语（recognize her achievement）。
 
-6. **中文**：团队今天用到了“situation”。  
-   **英文**：Our team used "situation" today.
-   > **解析**：本题在单元主题情境中复习表达 situation。
+6. **中文**：该国的经济状况在这十年间得到了显着改善。  
+   **英文**：The economic situation in the country improved significantly over the decade for eighteenth.
+   > **解析**：situation 为可数名词，意为“局势、状况、情势”。economic situation 指经济状况。
 
-7. **中文**：午饭前，我们查看了“we'd”。  
-   **英文**：Before lunch, we checked "we'd".
-   > **解析**：本题在单元主题情境中复习表达 we'd。
+7. **中文**：我们从未想象过我们的小初创公司会成长为跨国企业。  
+   **英文**：We'd never imagined that our small startup company would grow into a global enterprise for experience.
+   > **解析**：we'd 是 we had 或 we would 的缩写，在此处代表 we had（We had never imagined...）。
 
-8. **中文**：同事询问了“2005”。  
-   **英文**：My colleague asked about "2005".
-   > **解析**：本题在单元主题情境中复习表达 2005。
+8. **中文**：新建的交通公路系统于 2005 年正式向公众开放。  
+   **英文**：The new transit highway system was officially opened to the public in 2005 for had.
+   > **解析**：2005 为年份数字，英文读作 two thousand and five 或 twenty oh five。
 
-9. **中文**：报告中包含“eighteenth”。  
-   **英文**：The report included "eighteenth".
-   > **解析**：本题在单元主题情境中复习表达 eighteenth。
+9. **中文**：该大学上个月庆祝了建校十八周年。  
+   **英文**：The university celebrated its eighteenth anniversary of foundation last month (hadn't).
+   > **解析**：eighteenth 为序数词，意为“第十八的”。eighteenth anniversary 指十八周年纪念。
 
-10. **中文**：一天结束时，我记住了“hadn't”。  
-   **英文**：At the end of the day, I remembered "hadn't".
-   > **解析**：本题在单元主题情境中复习表达 hadn't。
+10. **中文**：当她提交参评作品时，她没想到自己会赢得一等奖。  
+   **英文**：She hadn't expected to win the first prize when she submitted her entry (he'd).
+   > **解析**：hadn't 是 had not 的缩写，在此处构成过去完成时的否定式（hadn't expected）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "1984".
-   > **中文**：工作中，我们讨论了“1984”。
-2. My coworker mentioned "at last".
-   > **中文**：同事提到了“at last”。
-3. In the meeting, I heard "had".
-   > **中文**：会议中，我听到了“had”。
-4. I added "hero" to my notes.
-   > **中文**：我把“hero”写进了笔记。
-5. The manager explained "recognize".
-   > **中文**：经理解释了“recognize”。
-6. Our team used "situation" today.
-   > **中文**：团队今天用到了“situation”。
-7. Before lunch, we checked "we'd".
-   > **中文**：午饭前，我们查看了“we'd”。
-8. My colleague asked about "2005".
-   > **中文**：同事询问了“2005”。
-9. The report included "eighteenth".
-   > **中文**：报告中包含“eighteenth”。
-10. At the end of the day, I remembered "hadn't".
-   > **中文**：一天结束时，我记住了“hadn't”。
+1. The technological company launched its revolutionary personal computer in 1984.
+   > **中文**：这家科技公司于 1984 年推出了其革命性的个人计算机。
+
+2. After decades of hard work, the scientist achieved his dream research breakthrough at last for 2005.
+   > **中文**：经过几十年的艰苦努力，这位科学家终于实现了他的梦想研究突破。
+
+3. They had completed the space station project before the target deadline arrived for 2020.
+   > **中文**：在目标截止日期到来之前，他们已经完成了空间站项目。
+
+4. The brave firefighter was honored as a national hero for saving lives during the disaster (at last).
+   > **中文**：这位勇敢的消防员因在灾难中拯救生命而被尊为国家英雄。
+
+5. It took many years for the scientific community to recognize her major achievement (by the time).
+   > **中文**：科学界花了许多年的时间才认可她的重大成就。
+
+6. The economic situation in the country improved significantly over the decade for eighteenth.
+   > **中文**：该国的经济状况在这十年间得到了显着改善。
+
+7. We'd never imagined that our small startup company would grow into a global enterprise for experience.
+   > **中文**：我们从未想象过我们的小初创公司会成长为跨国企业。
+
+8. The new transit highway system was officially opened to the public in 2005 for had.
+   > **中文**：新建的交通公路系统于 2005 年正式向公众开放。
+
+9. The university celebrated its eighteenth anniversary of foundation last month (hadn't).
+   > **中文**：该大学上个月庆祝了建校十八周年。
+
+10. She hadn't expected to win the first prize when she submitted her entry (he'd).
+   > **中文**：当她提交参评作品时，她没想到自己会赢得一等奖。
 
 </quiz-listening>
 
@@ -124,102 +133,102 @@
 
 ### 1
 
-At work, we discussed "`____`".
+The technological company launched its revolutionary personal computer in `____`.
 
 - [x] 1984
-- [ ] hero
-- [ ] we'd
+- [ ] at last
+- [ ] experience
 
-> **解析**：本题在单元主题情境中复习表达 1984。
+> **解析**：1984 为年份，读作 nineteen eighty-four。
 
 ### 2
 
-My coworker mentioned "`____`".
+After decades of hard work, the scientist achieved his dream research breakthrough at last for `____`.
 
-- [x] at last
-- [ ] recognize
-- [ ] 2005
+- [x] 2005
+- [ ] by the time
+- [ ] had
 
-> **解析**：本题在单元主题情境中复习表达 at last。
+> **解析**：at last 为介词短语，意为“终于、最终”，相当于 finally。
 
 ### 3
 
-In the meeting, I heard "`____`".
+They had completed the space station project before the target deadline arrived for `____`.
 
-- [x] had
-- [ ] situation
+- [x] 2020
 - [ ] eighteenth
+- [ ] hadn't
 
-> **解析**：本题在单元主题情境中复习表达 had。
+> **解析**：had 在此处作助动词，与过去分词 completed 构成过去完成时（had completed）。
 
 ### 4
 
-I added "`____`" to my notes.
+The brave firefighter was honored as a national hero for saving lives during the disaster (`____`).
 
-- [x] hero
-- [ ] we'd
-- [ ] hadn't
+- [x] at last
+- [ ] experience
+- [ ] he'd
 
-> **解析**：本题在单元主题情境中复习表达 hero。
+> **解析**：hero 为可数名词，意为“英雄”，复数形式为 heroes。
 
 ### 5
 
-The manager explained "`____`".
+It took many years for the scientific community to recognize her major achievement (`____`).
 
-- [x] recognize
-- [ ] 2005
+- [x] by the time
+- [ ] had
 - [ ] 1984
 
-> **解析**：本题在单元主题情境中复习表达 recognize。
+> **解析**：recognize 为及物动词，意为“认可、承认、认出”。接名词作宾语（recognize her achievement）。
 
 ### 6
 
-Our team used "`____`" today.
+The economic situation in the country improved significantly over the decade for `____`.
 
-- [x] situation
-- [ ] eighteenth
-- [ ] at last
+- [x] eighteenth
+- [ ] hadn't
+- [ ] 2005
 
-> **解析**：本题在单元主题情境中复习表达 situation。
+> **解析**：situation 为可数名词，意为“局势、状况、情势”。economic situation 指经济状况。
 
 ### 7
 
-Before lunch, we checked "`____`".
+We'd never imagined that our small startup company would grow into a global enterprise for `____`.
 
-- [x] we'd
-- [ ] hadn't
-- [ ] had
+- [x] experience
+- [ ] he'd
+- [ ] 2020
 
-> **解析**：本题在单元主题情境中复习表达 we'd。
+> **解析**：we'd 是 we had 或 we would 的缩写，在此处代表 we had（We had never imagined...）。
 
 ### 8
 
-My colleague asked about "`____`".
+The new transit highway system was officially opened to the public in 2005 for `____`.
 
-- [x] 2005
+- [x] had
 - [ ] 1984
-- [ ] hero
+- [ ] at last
 
-> **解析**：本题在单元主题情境中复习表达 2005。
+> **解析**：2005 为年份数字，英文读作 two thousand and five 或 twenty oh five。
 
 ### 9
 
-The report included "`____`".
+The university celebrated its eighteenth anniversary of foundation last month (`____`).
 
-- [x] eighteenth
-- [ ] at last
-- [ ] recognize
+- [x] hadn't
+- [ ] 2005
+- [ ] by the time
 
-> **解析**：本题在单元主题情境中复习表达 eighteenth。
+> **解析**：eighteenth 为序数词，意为“第十八的”。eighteenth anniversary 指十八周年纪念。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+She hadn't expected to win the first prize when she submitted her entry (`____`).
 
-- [x] hadn't
-- [ ] had
-- [ ] situation
+- [x] he'd
+- [ ] 2020
+- [ ] eighteenth
 
-> **解析**：本题在单元主题情境中复习表达 hadn't。
+> **解析**：hadn't 是 had not 的缩写，在此处构成过去完成时的否定式（hadn't expected）。
 
 </quiz-cloze>

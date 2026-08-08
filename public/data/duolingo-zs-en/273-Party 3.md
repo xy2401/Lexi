@@ -61,70 +61,79 @@ all the way, any time, can always call, express, going-away party, guest of hono
 
 <quiz-sentence-builder>
 
-1. **中文**：在家里，我们谈到了“all the way”。  
-   **英文**：At home, we talked about "all the way".
-   > **解析**：本题在单元主题情境中复习表达 all the way。
+1. **中文**：我们为即将在海外定居的同事举办了一场温馨的告别派对。  
+   **英文**：We hosted a warm farewell party for our colleague who is moving overseas (all the way).
+   > **解析**：`farewell` 作形容词或名词，意为“告别的、欢送的”。短语 `farewell party` 特指“欢送会、告别派对”。
 
-2. **中文**：家人提到了“express”。  
-   **英文**：My family mentioned "express".
-   > **解析**：本题在单元主题情境中复习表达 express。
+2. **中文**：团队组织了一顿惊喜晚餐，以表达对她十年服务的敬意。  
+   **英文**：The team organized a surprise dinner in honor of her ten years of service (any time).
+   > **解析**：`in honor of` 是介词短语，意为“为了向……表示敬意、为了纪念/庆祝……”，在句中作状语。
 
-3. **中文**：在房间里，我注意到了“move”。  
-   **英文**：In the room, I noticed "move".
-   > **解析**：本题在单元主题情境中复习表达 move。
+3. **中文**：请检查一下客人名单，确保每个人都接到了邀请。  
+   **英文**：Please check the guest list to make sure everyone was invited (can always call).
+   > **解析**：`guest list` 是复合名词，意为“宾客名单”，在句中作动词 `check` 的宾语。
 
-4. **中文**：我们在家里用到了“passion”。  
-   **英文**：We used "passion" at home.
-   > **解析**：本题在单元主题情境中复习表达 passion。
+4. **中文**：大家都同意每人凑十美元，买一份贴心的退休礼物。  
+   **英文**：Everyone agreed to pitch in ten dollars to buy a thoughtful retirement gift for express.
+   > **解析**：`pitch in` 是口语动词短语，意为“共同凑钱、协力分摊”，常用于筹集资金或共同完成某任务。
 
-5. **中文**：邻居询问了“regards”。  
-   **英文**：My neighbor asked about "regards".
-   > **解析**：本题在单元主题情境中复习表达 regards。
+5. **中文**：因为这是一次百家宴晚餐，每位客人都带了一道家常菜来分享。  
+   **英文**：Since it was a potluck dinner, every guest brought a homemade dish to share (going-away party).
+   > **解析**：`potluck`（或 `potluck dinner`）指“各自带菜的聚餐/百家宴”，作名词修饰语或独立名词。
 
-6. **中文**：我在门边写下了“time difference”。  
-   **英文**：I wrote down "time difference" by the door.
-   > **解析**：本题在单元主题情境中复习表达 time difference。
+6. **中文**：我们决定雇用当地的一家餐饮公司为当晚的活动提供餐饮服务。  
+   **英文**：We decided to hire a local company to cater the evening event (guest of honor).
+   > **解析**：`cater` 是动词，意为“提供餐饮/包办宴席”。动词搭配 `cater an event` 表示“为活动提供餐饮”。
 
-7. **中文**：晚饭后，我们重复了“wish you were”。  
-   **英文**：After dinner, we repeated "wish you were".
-   > **解析**：本题在单元主题情境中复习表达 wish you were。
+7. **中文**：事实证明，屋顶花园是这次夏日派对的绝佳场地。  
+   **英文**：The rooftop garden proved to be the perfect venue for the summer party (leave town).
+   > **解析**：`venue` 指活动、会议或派对的“举办地点、场地”，作句中的表语。
 
-8. **中文**：家庭故事里包含“any time”。  
-   **英文**：The family story included "any time".
-   > **解析**：本题在单元主题情境中复习表达 any time。
+8. **中文**：经理提议干杯，庆祝他成功的职业转型。  
+   **英文**：The manager proposed a toast to celebrate his successful career transition for move.
+   > **解析**：`toast` 在此作名词，意为“祝酒、干杯”。固定短语 `propose a toast to...` 表示“向……提议干杯”。
 
-9. **中文**：睡前，我记住了“guest of honor”。  
-   **英文**：Before bed, I remembered "guest of honor".
-   > **解析**：本题在单元主题情境中复习表达 guest of honor。
+9. **中文**：我收到一条消息，说她今晚赶不及来参加派对了。  
+   **英文**：I received a message saying she can't make it to the party tonight (move away).
+   > **解析**：`can't make it` 是习惯口语表达，意为“无法出席、赶不上”，`make it` 表示“按时到达/成功做到”。
 
-10. **中文**：那个夜晚以“move away”收尾。  
-   **英文**：That evening ended with "move away".
-   > **解析**：本题在单元主题情境中复习表达 move away。
+10. **中文**：他是一位极好的队友，大家一定会深深怀念他。  
+   **英文**：He was such a wonderful teammate, and he will truly be missed by everyone for occasionally.
+   > **解析**：`will be missed` 是被动语态，意为“将会被怀念/想念”，表达依依不舍之情。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At home, we talked about "all the way".
-   > **中文**：在家里，我们谈到了“all the way”。
-2. My family mentioned "express".
-   > **中文**：家人提到了“express”。
-3. In the room, I noticed "move".
-   > **中文**：在房间里，我注意到了“move”。
-4. We used "passion" at home.
-   > **中文**：我们在家里用到了“passion”。
-5. My neighbor asked about "regards".
-   > **中文**：邻居询问了“regards”。
-6. I wrote down "time difference" by the door.
-   > **中文**：我在门边写下了“time difference”。
-7. After dinner, we repeated "wish you were".
-   > **中文**：晚饭后，我们重复了“wish you were”。
-8. The family story included "any time".
-   > **中文**：家庭故事里包含“any time”。
-9. Before bed, I remembered "guest of honor".
-   > **中文**：睡前，我记住了“guest of honor”。
-10. That evening ended with "move away".
-   > **中文**：那个夜晚以“move away”收尾。
+1. We hosted a warm farewell party for our colleague who is moving overseas (all the way).
+   > **中文**：我们为即将在海外定居的同事举办了一场温馨的告别派对。
+
+2. The team organized a surprise dinner in honor of her ten years of service (any time).
+   > **中文**：团队组织了一顿惊喜晚餐，以表达对她十年服务的敬意。
+
+3. Please check the guest list to make sure everyone was invited (can always call).
+   > **中文**：请检查一下客人名单，确保每个人都接到了邀请。
+
+4. Everyone agreed to pitch in ten dollars to buy a thoughtful retirement gift for express.
+   > **中文**：大家都同意每人凑十美元，买一份贴心的退休礼物。
+
+5. Since it was a potluck dinner, every guest brought a homemade dish to share (going-away party).
+   > **中文**：因为这是一次百家宴晚餐，每位客人都带了一道家常菜来分享。
+
+6. We decided to hire a local company to cater the evening event (guest of honor).
+   > **中文**：我们决定雇用当地的一家餐饮公司为当晚的活动提供餐饮服务。
+
+7. The rooftop garden proved to be the perfect venue for the summer party (leave town).
+   > **中文**：事实证明，屋顶花园是这次夏日派对的绝佳场地。
+
+8. The manager proposed a toast to celebrate his successful career transition for move.
+   > **中文**：经理提议干杯，庆祝他成功的职业转型。
+
+9. I received a message saying she can't make it to the party tonight (move away).
+   > **中文**：我收到一条消息，说她今晚赶不及来参加派对了。
+
+10. He was such a wonderful teammate, and he will truly be missed by everyone for occasionally.
+   > **中文**：他是一位极好的队友，大家一定会深深怀念他。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ all the way, any time, can always call, express, going-away party, guest of hono
 
 ### 1
 
-At home, we talked about "`____`".
+We hosted a warm farewell party for our colleague who is moving overseas (`____`).
 
 - [x] all the way
-- [ ] passion
-- [ ] wish you were
+- [ ] express
+- [ ] leave town
 
-> **解析**：本题在单元主题情境中复习表达 all the way。
+> **解析**：`farewell` 作形容词或名词，意为“告别的、欢送的”。短语 `farewell party` 特指“欢送会、告别派对”。
 
 ### 2
 
-My family mentioned "`____`".
+The team organized a surprise dinner in honor of her ten years of service (`____`).
 
-- [x] express
-- [ ] regards
-- [ ] any time
+- [x] any time
+- [ ] going-away party
+- [ ] move
 
-> **解析**：本题在单元主题情境中复习表达 express。
+> **解析**：`in honor of` 是介词短语，意为“为了向……表示敬意、为了纪念/庆祝……”，在句中作状语。
 
 ### 3
 
-In the room, I noticed "`____`".
+Please check the guest list to make sure everyone was invited (`____`).
 
-- [x] move
-- [ ] time difference
+- [x] can always call
 - [ ] guest of honor
+- [ ] move away
 
-> **解析**：本题在单元主题情境中复习表达 move。
+> **解析**：`guest list` 是复合名词，意为“宾客名单”，在句中作动词 `check` 的宾语。
 
 ### 4
 
-We used "`____`" at home.
+Everyone agreed to pitch in ten dollars to buy a thoughtful retirement gift for `____`.
 
-- [x] passion
-- [ ] wish you were
-- [ ] move away
+- [x] express
+- [ ] leave town
+- [ ] occasionally
 
-> **解析**：本题在单元主题情境中复习表达 passion。
+> **解析**：`pitch in` 是口语动词短语，意为“共同凑钱、协力分摊”，常用于筹集资金或共同完成某任务。
 
 ### 5
 
-My neighbor asked about "`____`".
+Since it was a potluck dinner, every guest brought a homemade dish to share (`____`).
 
-- [x] regards
-- [ ] any time
+- [x] going-away party
+- [ ] move
 - [ ] all the way
 
-> **解析**：本题在单元主题情境中复习表达 regards。
+> **解析**：`potluck`（或 `potluck dinner`）指“各自带菜的聚餐/百家宴”，作名词修饰语或独立名词。
 
 ### 6
 
-I wrote down "`____`" by the door.
+We decided to hire a local company to cater the evening event (`____`).
 
-- [x] time difference
-- [ ] guest of honor
-- [ ] express
+- [x] guest of honor
+- [ ] move away
+- [ ] any time
 
-> **解析**：本题在单元主题情境中复习表达 time difference。
+> **解析**：`cater` 是动词，意为“提供餐饮/包办宴席”。动词搭配 `cater an event` 表示“为活动提供餐饮”。
 
 ### 7
 
-After dinner, we repeated "`____`".
+The rooftop garden proved to be the perfect venue for the summer party (`____`).
 
-- [x] wish you were
-- [ ] move away
-- [ ] move
+- [x] leave town
+- [ ] occasionally
+- [ ] can always call
 
-> **解析**：本题在单元主题情境中复习表达 wish you were。
+> **解析**：`venue` 指活动、会议或派对的“举办地点、场地”，作句中的表语。
 
 ### 8
 
-The family story included "`____`".
+The manager proposed a toast to celebrate his successful career transition for `____`.
 
-- [x] any time
+- [x] move
 - [ ] all the way
-- [ ] passion
+- [ ] express
 
-> **解析**：本题在单元主题情境中复习表达 any time。
+> **解析**：`toast` 在此作名词，意为“祝酒、干杯”。固定短语 `propose a toast to...` 表示“向……提议干杯”。
 
 ### 9
 
-Before bed, I remembered "`____`".
+I received a message saying she can't make it to the party tonight (`____`).
 
-- [x] guest of honor
-- [ ] express
-- [ ] regards
+- [x] move away
+- [ ] any time
+- [ ] going-away party
 
-> **解析**：本题在单元主题情境中复习表达 guest of honor。
+> **解析**：`can't make it` 是习惯口语表达，意为“无法出席、赶不上”，`make it` 表示“按时到达/成功做到”。
 
 ### 10
 
-That evening ended with "`____`".
+He was such a wonderful teammate, and he will truly be missed by everyone for `____`.
 
-- [x] move away
-- [ ] move
-- [ ] time difference
+- [x] occasionally
+- [ ] can always call
+- [ ] guest of honor
 
-> **解析**：本题在单元主题情境中复习表达 move away。
+> **解析**：`will be missed` 是被动语态，意为“将会被怀念/想念”，表达依依不舍之情。
 
 </quiz-cloze>

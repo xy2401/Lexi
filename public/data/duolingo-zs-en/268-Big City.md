@@ -61,70 +61,79 @@ Hollywood, adjust, agriculture, artistic, best way to learn, best way to meet, b
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“Hollywood”。  
-   **英文**：At work, we discussed "Hollywood".
-   > **解析**：本题在单元主题情境中复习表达 Hollywood。
+1. **中文**：搬到大城市为她提供了全新的职业路线和文化体验。  
+   **英文**：Moving to the big city offered her new career paths and cultural experiences for Hollywood.
+   > **解析**：`the big city` 意为“大都市、大城市”，作介词 `to` 的宾语。
 
-2. **中文**：同事提到了“best way to learn”。  
-   **英文**：My coworker mentioned "best way to learn".
-   > **解析**：本题在单元主题情境中复习表达 best way to learn。
+2. **中文**：适应大快节奏的大都市生活需要时间。  
+   **英文**：It takes time to adjust to the fast pace of living in a metropolis.
+   > **解析**：`adjust` 不及物动词，搭配介词 `to`（`adjust to sth`）意为“适应某事”。
 
-3. **中文**：会议中，我听到了“conventional”。  
-   **英文**：In the meeting, I heard "conventional".
-   > **解析**：本题在单元主题情境中复习表达 conventional。
+3. **中文**：生活在芝加哥对于年轻艺术家来说充满了独特的机遇。  
+   **英文**：Living in Chicago is full of unique opportunities for creative young artists for agriculture.
+   > **解析**：`be full of unique opportunities` 意为“充满了独特的机遇”。
 
-4. **中文**：我把“give it a chance”写进了笔记。  
-   **英文**：I added "give it a chance" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 give it a chance。
+4. **中文**：不要立刻拒绝城市生活；你首先应该给它一个机会试试。  
+   **英文**：Don't reject city life right away; you should give it a chance first for artistic.
+   > **解析**：`give sth/it a chance` 是常用表达，意为“给……一个机会”。
 
-5. **中文**：经理解释了“make it”。  
-   **英文**：The manager explained "make it".
-   > **解析**：本题在单元主题情境中复习表达 make it。
+5. **中文**：离开安静的老家去演艺界追梦是一个巨大的风险。  
+   **英文**：Leaving your quiet hometown to pursue a dream in showbiz is a big risk (best way to learn).
+   > **解析**：`take a risk` 意为“冒风险、承担风险”。
 
-6. **中文**：团队今天用到了“small but beautiful”。  
-   **英文**：Our team used "small but beautiful" today.
-   > **解析**：本题在单元主题情境中复习表达 small but beautiful。
+6. **中文**：我家乡的人们以友好和勤劳而闻名。  
+   **英文**：People in my hometown are known for being friendly and hardworking (best way to meet).
+   > **解析**：`hardworking` 是形容词，意为“勤劳的、努力工作的”。
 
-7. **中文**：午饭前，我们查看了“uncertain”。  
-   **英文**：Before lunch, we checked "uncertain".
-   > **解析**：本题在单元主题情境中复习表达 uncertain。
+7. **中文**：你应当充分利用这座城市丰富的文化资源。  
+   **英文**：You should make the most of the rich cultural resources in the city (broadway musical).
+   > **解析**：`make the most of sth` 是固定短语，意为“充分利用/善用某物”。
 
-8. **中文**：同事询问了“adjust”。  
-   **英文**：My colleague asked about "adjust".
-   > **解析**：本题在单元主题情境中复习表达 adjust。
+8. **中文**：她喜欢回到家乡，欣赏安详宁静的周围环境。  
+   **英文**：She enjoys returning home to admire the peaceful green surroundings for conventional.
+   > **解析**：`surroundings` 常用复数，意为“环境、周围事物”。
 
-9. **中文**：报告中包含“best way to meet”。  
-   **英文**：The report included "best way to meet".
-   > **解析**：本题在单元主题情境中复习表达 best way to meet。
+9. **中文**：我的家乡虽小但风景如画，拥有令人惊叹的山景。  
+   **英文**：My hometown is small but beautiful with breathtaking mountain scenery for deli.
+   > **解析**：`small but beautiful` 意为“小巧而美丽、精致秀丽”。
 
-10. **中文**：一天结束时，我记住了“far from her home”。  
-   **英文**：At the end of the day, I remembered "far from her home".
-   > **解析**：本题在单元主题情境中复习表达 far from her home。
+10. **中文**：市中心的住房质量可能达不到你的标准。  
+   **英文**：The housing quality in the city center may not be up to your standards (far from her home).
+   > **解析**：`up to one's standards` 意为“达到某人的标准”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "Hollywood".
-   > **中文**：工作中，我们讨论了“Hollywood”。
-2. My coworker mentioned "best way to learn".
-   > **中文**：同事提到了“best way to learn”。
-3. In the meeting, I heard "conventional".
-   > **中文**：会议中，我听到了“conventional”。
-4. I added "give it a chance" to my notes.
-   > **中文**：我把“give it a chance”写进了笔记。
-5. The manager explained "make it".
-   > **中文**：经理解释了“make it”。
-6. Our team used "small but beautiful" today.
-   > **中文**：团队今天用到了“small but beautiful”。
-7. Before lunch, we checked "uncertain".
-   > **中文**：午饭前，我们查看了“uncertain”。
-8. My colleague asked about "adjust".
-   > **中文**：同事询问了“adjust”。
-9. The report included "best way to meet".
-   > **中文**：报告中包含“best way to meet”。
-10. At the end of the day, I remembered "far from her home".
-   > **中文**：一天结束时，我记住了“far from her home”。
+1. Moving to the big city offered her new career paths and cultural experiences for Hollywood.
+   > **中文**：搬到大城市为她提供了全新的职业路线和文化体验。
+
+2. It takes time to adjust to the fast pace of living in a metropolis.
+   > **中文**：适应大快节奏的大都市生活需要时间。
+
+3. Living in Chicago is full of unique opportunities for creative young artists for agriculture.
+   > **中文**：生活在芝加哥对于年轻艺术家来说充满了独特的机遇。
+
+4. Don't reject city life right away; you should give it a chance first for artistic.
+   > **中文**：不要立刻拒绝城市生活；你首先应该给它一个机会试试。
+
+5. Leaving your quiet hometown to pursue a dream in showbiz is a big risk (best way to learn).
+   > **中文**：离开安静的老家去演艺界追梦是一个巨大的风险。
+
+6. People in my hometown are known for being friendly and hardworking (best way to meet).
+   > **中文**：我家乡的人们以友好和勤劳而闻名。
+
+7. You should make the most of the rich cultural resources in the city (broadway musical).
+   > **中文**：你应当充分利用这座城市丰富的文化资源。
+
+8. She enjoys returning home to admire the peaceful green surroundings for conventional.
+   > **中文**：她喜欢回到家乡，欣赏安详宁静的周围环境。
+
+9. My hometown is small but beautiful with breathtaking mountain scenery for deli.
+   > **中文**：我的家乡虽小但风景如画，拥有令人惊叹的山景。
+
+10. The housing quality in the city center may not be up to your standards (far from her home).
+   > **中文**：市中心的住房质量可能达不到你的标准。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ Hollywood, adjust, agriculture, artistic, best way to learn, best way to meet, b
 
 ### 1
 
-At work, we discussed "`____`".
+Moving to the big city offered her new career paths and cultural experiences for `____`.
 
 - [x] Hollywood
-- [ ] give it a chance
-- [ ] uncertain
+- [ ] artistic
+- [ ] broadway musical
 
-> **解析**：本题在单元主题情境中复习表达 Hollywood。
+> **解析**：`the big city` 意为“大都市、大城市”，作介词 `to` 的宾语。
 
 ### 2
 
-My coworker mentioned "`____`".
+It takes time to `____` to the fast pace of living in a metropolis.
 
-- [x] best way to learn
-- [ ] make it
-- [ ] adjust
+- [x] adjust
+- [ ] best way to learn
+- [ ] conventional
 
-> **解析**：本题在单元主题情境中复习表达 best way to learn。
+> **解析**：`adjust` 不及物动词，搭配介词 `to`（`adjust to sth`）意为“适应某事”。
 
 ### 3
 
-In the meeting, I heard "`____`".
+Living in Chicago is full of unique opportunities for creative young artists for `____`.
 
-- [x] conventional
-- [ ] small but beautiful
+- [x] agriculture
 - [ ] best way to meet
+- [ ] deli
 
-> **解析**：本题在单元主题情境中复习表达 conventional。
+> **解析**：`be full of unique opportunities` 意为“充满了独特的机遇”。
 
 ### 4
 
-I added "`____`" to my notes.
+Don't reject city life right away; you should give it a chance first for `____`.
 
-- [x] give it a chance
-- [ ] uncertain
+- [x] artistic
+- [ ] broadway musical
 - [ ] far from her home
 
-> **解析**：本题在单元主题情境中复习表达 give it a chance。
+> **解析**：`give sth/it a chance` 是常用表达，意为“给……一个机会”。
 
 ### 5
 
-The manager explained "`____`".
+Leaving your quiet hometown to pursue a dream in showbiz is a big risk (`____`).
 
-- [x] make it
-- [ ] adjust
+- [x] best way to learn
+- [ ] conventional
 - [ ] Hollywood
 
-> **解析**：本题在单元主题情境中复习表达 make it。
+> **解析**：`take a risk` 意为“冒风险、承担风险”。
 
 ### 6
 
-Our team used "`____`" today.
+People in my hometown are known for being friendly and hardworking (`____`).
 
-- [x] small but beautiful
-- [ ] best way to meet
-- [ ] best way to learn
+- [x] best way to meet
+- [ ] deli
+- [ ] adjust
 
-> **解析**：本题在单元主题情境中复习表达 small but beautiful。
+> **解析**：`hardworking` 是形容词，意为“勤劳的、努力工作的”。
 
 ### 7
 
-Before lunch, we checked "`____`".
+You should make the most of the rich cultural resources in the city (`____`).
 
-- [x] uncertain
+- [x] broadway musical
 - [ ] far from her home
-- [ ] conventional
+- [ ] agriculture
 
-> **解析**：本题在单元主题情境中复习表达 uncertain。
+> **解析**：`make the most of sth` 是固定短语，意为“充分利用/善用某物”。
 
 ### 8
 
-My colleague asked about "`____`".
+She enjoys returning home to admire the peaceful green surroundings for `____`.
 
-- [x] adjust
+- [x] conventional
 - [ ] Hollywood
-- [ ] give it a chance
+- [ ] artistic
 
-> **解析**：本题在单元主题情境中复习表达 adjust。
+> **解析**：`surroundings` 常用复数，意为“环境、周围事物”。
 
 ### 9
 
-The report included "`____`".
+My hometown is small but beautiful with breathtaking mountain scenery for `____`.
 
-- [x] best way to meet
+- [x] deli
+- [ ] adjust
 - [ ] best way to learn
-- [ ] make it
 
-> **解析**：本题在单元主题情境中复习表达 best way to meet。
+> **解析**：`small but beautiful` 意为“小巧而美丽、精致秀丽”。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+The housing quality in the city center may not be up to your standards (`____`).
 
 - [x] far from her home
-- [ ] conventional
-- [ ] small but beautiful
+- [ ] agriculture
+- [ ] best way to meet
 
-> **解析**：本题在单元主题情境中复习表达 far from her home。
+> **解析**：`up to one's standards` 意为“达到某人的标准”。
 
 </quiz-cloze>

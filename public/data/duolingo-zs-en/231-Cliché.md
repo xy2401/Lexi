@@ -65,70 +65,79 @@ American dream, after all, american, assume, cheerleader, cliché, competitive, 
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“American dream”。  
-   **英文**：In this situation, I heard "American dream".
-   > **解析**：本题在单元主题情境中复习表达 American dream。
+1. **中文**：许多移民不知疲倦地工作，追寻关于自由与繁荣的美国梦。  
+   **英文**：Many immigrants worked tirelessly to pursue the American dream of freedom and prosperity.
+   > **解析**：`American dream` 名词短语，指“美国梦”（即通过努力工作获得成功与幸福的社会理想）。
 
-2. **中文**：同伴解释了“cheerleader”。  
-   **英文**：My partner explained "cheerleader".
-   > **解析**：本题在单元主题情境中复习表达 cheerleader。
+2. **中文**：在大学学习法律之前，她曾是高中里受欢迎的拉拉队员。  
+   **英文**：She was a popular cheerleader in high school before studying law at university (after all).
+   > **解析**：`cheerleader` 可数名词，意为“拉拉队员；支持者/鼓吹者”。
 
-3. **中文**：我们一起谈到了“conclusion”。  
-   **英文**：We talked about "conclusion" together.
-   > **解析**：本题在单元主题情境中复习表达 conclusion。
+3. **中文**：阅读报告后，我们得出了第一印象可能具有误导性的结论。  
+   **英文**：After reading the report, we came to the conclusion that first impressions can be misleading for american.
+   > **解析**：`conclusion` 可数名词，意为“结论；推论”。固定搭配 `come to the conclusion that...`（得出……的结论）。
 
-4. **中文**：我记下了“it might seem that”。  
-   **英文**：I wrote down "it might seem that".
-   > **解析**：本题在单元主题情境中复习表达 it might seem that。
+4. **中文**：看起来他似乎很安静，但他实际上非常喜欢参与热烈的辩论。  
+   **英文**：It might seem that he is quiet, but he actually loves engaging in lively debates for assume.
+   > **解析**：`it might seem that...` 为推测句型，意为“看起来似乎……”，表达基于初步印象的不确定推断。
 
-5. **中文**：例句中包含“might not have”。  
-   **英文**：The example included "might not have".
-   > **解析**：本题在单元主题情境中复习表达 might not have。
+5. **中文**：他可能没有意识到自己的言语对团队士气产生了多大的影响。  
+   **英文**：He might not have realized how much his words influenced the team's morale for cheerleader.
+   > **解析**：`might not have + 过去分词` 表达对过去发生事情的不确定否定推测（意为“可能没有做过某事”）。
 
-6. **中文**：我询问了“not sure that”。  
-   **英文**：I asked about "not sure that".
-   > **解析**：本题在单元主题情境中复习表达 not sure that。
+6. **中文**：我不敢确定仅仅依赖刻板印象是否是一种明智的做法。  
+   **英文**：I am not sure that relying solely on stereotypes is a wise approach for cliché.
+   > **解析**：`not sure that...` 表达质疑或不确定性，后接从句。
 
-7. **中文**：我们在句子中用到了“unrealistic”。  
-   **英文**：We used "unrealistic" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 unrealistic。
+7. **中文**：期望每个人都赞同你的第一印象是完全不切实际的。  
+   **英文**：Expecting everyone to agree with your initial impression is completely unrealistic for competitive.
+   > **解析**：`unrealistic` 形容词，意为“不切实际的；不现实的”，由前缀 `un-` + `realistic` 构成。
 
-8. **中文**：朋友重复了“after all”。  
-   **英文**：My friend repeated "after all".
-   > **解析**：本题在单元主题情境中复习表达 after all。
+8. **中文**：别对他太苛刻；毕竟，这是他第一次做演讲。  
+   **英文**：Don't be too hard on him; after all, it was his very first time giving a presentation for conclusion.
+   > **解析**：`after all` 插入语短语，意为“毕竟；终究”，用于引出解释或理由。
 
-9. **中文**：后来，我记住了“cliché”。  
-   **英文**：Later, I remembered "cliché".
-   > **解析**：本题在单元主题情境中复习表达 cliché。
+9. **中文**：说“一见钟情”已经成为浪漫电影中常见的陈词滥调。  
+   **英文**：Saying 'love at first sight' has become a common cliché in romantic movies for cowboy.
+   > **解析**：`cliché` 可数名词，在此读作 /kliːˈʃeɪ/，意为“陈词滥调；老套的说法”。
 
-10. **中文**：这个小故事以“diverse”收尾。  
-   **英文**：The short story ended with "diverse".
-   > **解析**：本题在单元主题情境中复习表达 diverse。
+10. **中文**：这所大学以拥有文化多元的学生群体而自豪。  
+   **英文**：The university prides itself on having a culturally diverse student body.
+   > **解析**：`diverse` 形容词，意为“多元的；多样化的”。修饰名词 `student body`。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "American dream".
-   > **中文**：在这个情境中，我听到了“American dream”。
-2. My partner explained "cheerleader".
-   > **中文**：同伴解释了“cheerleader”。
-3. We talked about "conclusion" together.
-   > **中文**：我们一起谈到了“conclusion”。
-4. I wrote down "it might seem that".
-   > **中文**：我记下了“it might seem that”。
-5. The example included "might not have".
-   > **中文**：例句中包含“might not have”。
-6. I asked about "not sure that".
-   > **中文**：我询问了“not sure that”。
-7. We used "unrealistic" in a sentence.
-   > **中文**：我们在句子中用到了“unrealistic”。
-8. My friend repeated "after all".
-   > **中文**：朋友重复了“after all”。
-9. Later, I remembered "cliché".
-   > **中文**：后来，我记住了“cliché”。
-10. The short story ended with "diverse".
-   > **中文**：这个小故事以“diverse”收尾。
+1. Many immigrants worked tirelessly to pursue the American dream of freedom and prosperity.
+   > **中文**：许多移民不知疲倦地工作，追寻关于自由与繁荣的美国梦。
+
+2. She was a popular cheerleader in high school before studying law at university (after all).
+   > **中文**：在大学学习法律之前，她曾是高中里受欢迎的拉拉队员。
+
+3. After reading the report, we came to the conclusion that first impressions can be misleading for american.
+   > **中文**：阅读报告后，我们得出了第一印象可能具有误导性的结论。
+
+4. It might seem that he is quiet, but he actually loves engaging in lively debates for assume.
+   > **中文**：看起来他似乎很安静，但他实际上非常喜欢参与热烈的辩论。
+
+5. He might not have realized how much his words influenced the team's morale for cheerleader.
+   > **中文**：他可能没有意识到自己的言语对团队士气产生了多大的影响。
+
+6. I am not sure that relying solely on stereotypes is a wise approach for cliché.
+   > **中文**：我不敢确定仅仅依赖刻板印象是否是一种明智的做法。
+
+7. Expecting everyone to agree with your initial impression is completely unrealistic for competitive.
+   > **中文**：期望每个人都赞同你的第一印象是完全不切实际的。
+
+8. Don't be too hard on him; after all, it was his very first time giving a presentation for conclusion.
+   > **中文**：别对他太苛刻；毕竟，这是他第一次做演讲。
+
+9. Saying 'love at first sight' has become a common cliché in romantic movies for cowboy.
+   > **中文**：说“一见钟情”已经成为浪漫电影中常见的陈词滥调。
+
+10. The university prides itself on having a culturally diverse student body.
+   > **中文**：这所大学以拥有文化多元的学生群体而自豪。
 
 </quiz-listening>
 
@@ -140,102 +149,102 @@ American dream, after all, american, assume, cheerleader, cliché, competitive, 
 
 ### 1
 
-In this situation, I heard "`____`".
+Many immigrants worked tirelessly to pursue the `____` of freedom and prosperity.
 
 - [x] American dream
-- [ ] it might seem that
-- [ ] unrealistic
+- [ ] assume
+- [ ] competitive
 
-> **解析**：本题在单元主题情境中复习表达 American dream。
+> **解析**：`American dream` 名词短语，指“美国梦”（即通过努力工作获得成功与幸福的社会理想）。
 
 ### 2
 
-My partner explained "`____`".
+She was a popular cheerleader in high school before studying law at university (`____`).
 
-- [x] cheerleader
-- [ ] might not have
-- [ ] after all
+- [x] after all
+- [ ] cheerleader
+- [ ] conclusion
 
-> **解析**：本题在单元主题情境中复习表达 cheerleader。
+> **解析**：`cheerleader` 可数名词，意为“拉拉队员；支持者/鼓吹者”。
 
 ### 3
 
-We talked about "`____`" together.
+After reading the report, we came to the conclusion that first impressions can be misleading for `____`.
 
-- [x] conclusion
-- [ ] not sure that
+- [x] american
 - [ ] cliché
+- [ ] cowboy
 
-> **解析**：本题在单元主题情境中复习表达 conclusion。
+> **解析**：`conclusion` 可数名词，意为“结论；推论”。固定搭配 `come to the conclusion that...`（得出……的结论）。
 
 ### 4
 
-I wrote down "`____`".
+It might seem that he is quiet, but he actually loves engaging in lively debates for `____`.
 
-- [x] it might seem that
-- [ ] unrealistic
+- [x] assume
+- [ ] competitive
 - [ ] diverse
 
-> **解析**：本题在单元主题情境中复习表达 it might seem that。
+> **解析**：`it might seem that...` 为推测句型，意为“看起来似乎……”，表达基于初步印象的不确定推断。
 
 ### 5
 
-The example included "`____`".
+He might not have realized how much his words influenced the team's morale for `____`.
 
-- [x] might not have
-- [ ] after all
+- [x] cheerleader
+- [ ] conclusion
 - [ ] American dream
 
-> **解析**：本题在单元主题情境中复习表达 might not have。
+> **解析**：`might not have + 过去分词` 表达对过去发生事情的不确定否定推测（意为“可能没有做过某事”）。
 
 ### 6
 
-I asked about "`____`".
+I am not sure that relying solely on stereotypes is a wise approach for `____`.
 
-- [x] not sure that
-- [ ] cliché
-- [ ] cheerleader
+- [x] cliché
+- [ ] cowboy
+- [ ] after all
 
-> **解析**：本题在单元主题情境中复习表达 not sure that。
+> **解析**：`not sure that...` 表达质疑或不确定性，后接从句。
 
 ### 7
 
-We used "`____`" in a sentence.
+Expecting everyone to agree with your initial impression is completely unrealistic for `____`.
 
-- [x] unrealistic
+- [x] competitive
 - [ ] diverse
-- [ ] conclusion
+- [ ] american
 
-> **解析**：本题在单元主题情境中复习表达 unrealistic。
+> **解析**：`unrealistic` 形容词，意为“不切实际的；不现实的”，由前缀 `un-` + `realistic` 构成。
 
 ### 8
 
-My friend repeated "`____`".
+Don't be too hard on him; after all, it was his very first time giving a presentation for `____`.
 
-- [x] after all
+- [x] conclusion
 - [ ] American dream
-- [ ] it might seem that
+- [ ] assume
 
-> **解析**：本题在单元主题情境中复习表达 after all。
+> **解析**：`after all` 插入语短语，意为“毕竟；终究”，用于引出解释或理由。
 
 ### 9
 
-Later, I remembered "`____`".
+Saying 'love at first sight' has become a common cliché in romantic movies for `____`.
 
-- [x] cliché
+- [x] cowboy
+- [ ] after all
 - [ ] cheerleader
-- [ ] might not have
 
-> **解析**：本题在单元主题情境中复习表达 cliché。
+> **解析**：`cliché` 可数名词，在此读作 /kliːˈʃeɪ/，意为“陈词滥调；老套的说法”。
 
 ### 10
 
-The short story ended with "`____`".
+The university prides itself on having a culturally `____` student body.
 
 - [x] diverse
-- [ ] conclusion
-- [ ] not sure that
+- [ ] american
+- [ ] cliché
 
-> **解析**：本题在单元主题情境中复习表达 diverse。
+> **解析**：`diverse` 形容词，意为“多元的；多样化的”。修饰名词 `student body`。
 
 </quiz-cloze>

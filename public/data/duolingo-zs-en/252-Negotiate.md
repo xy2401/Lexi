@@ -79,70 +79,79 @@ could you let me know / do you happen to / if I may ask 是三种不同程度的
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“at this point”。  
-   **英文**：At work, we discussed "at this point".
-   > **解析**：本题在单元主题情境中复习表达 at this point。
+1. **中文**：求职者希望在签订合同前协商更高的起薪。  
+   **英文**：The candidate wants to negotiate a higher starting salary before signing the contract (at this point).
+   > **解析**：`negotiate` 作动词，意为“谈判、协商”，后接宾语 `a higher starting salary`。
 
-2. **中文**：同事提到了“contribute”。  
-   **英文**：My coworker mentioned "contribute".
-   > **解析**：本题在单元主题情境中复习表达 contribute。
+2. **中文**：加班的员工将获得额外的报酬。  
+   **英文**：Employees who work overtime will receive additional compensation for brief.
+   > **解析**：`overtime` 作副词或名词，`work overtime` 意为“加班”。
 
-3. **中文**：会议中，我听到了“do you have any idea”。  
-   **英文**：In the meeting, I heard "do you have any idea".
-   > **解析**：本题在单元主题情境中复习表达 do you have any idea。
+3. **中文**：她迫切希望能为新的开发团队贡献自己的技术技能。  
+   **英文**：She is eager to contribute her technical skills to the new development team for capacity.
+   > **解析**：`contribute` 作及物动词，搭配 `contribute A to B`（将A贡献给B）。
 
-4. **中文**：我把“if I may ask”写进了笔记。  
-   **英文**：I added "if I may ask" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 if I may ask。
+4. **中文**：在目前阶段，我们无法对晋升做出任何承诺。  
+   **英文**：At this point, we cannot make any promises about promotions for certified.
+   > **解析**：`at this point` 是时间短语，意为“在此时刻、在目前阶段”。
 
-5. **中文**：经理解释了“neither of”。  
-   **英文**：The manager explained "neither of".
-   > **解析**：本题在单元主题情境中复习表达 neither of。
+5. **中文**：您能否告知我您下周参加面试的方便时间？  
+   **英文**：Could you let me know your availability for an interview next week? for contribute.
+   > **解析**：`could you let me know...` 是极具礼貌性的职场询问句型。
 
-6. **中文**：团队今天用到了“overtime”。  
-   **英文**：Our team used "overtime" today.
-   > **解析**：本题在单元主题情境中复习表达 overtime。
+6. **中文**：如果您不介意我问的话，您目前的薪资范围是多少？  
+   **英文**：If you don't mind me asking, what is your current salary range? (could you let me know).
+   > **解析**：`if you don't mind me asking` 是极有礼貌的插入短语，用于提出私密问题前。
 
-7. **中文**：午饭前，我们查看了“shall we”。  
-   **英文**：Before lunch, we checked "shall we".
-   > **解析**：本题在单元主题情境中复习表达 shall we。
+7. **中文**：我们正在探讨该岗位远程办公的可能性。  
+   **英文**：We are exploring the possibility of remote work for this position (do you happen to).
+   > **解析**：`possibility` 是名词，意为“可能性”，搭配 `the possibility of sth`。
 
-8. **中文**：同事询问了“brief”。  
-   **英文**：My colleague asked about "brief".
-   > **解析**：本题在单元主题情境中复习表达 brief。
+8. **中文**：努力与坚持最终会在你的职业生涯中得到回报。  
+   **英文**：Hard work and persistence will eventually pay off in your career (do you have any idea).
+   > **解析**：`pay off` 是不及物短语动词，意为“得到回报、取得成功”。
 
-9. **中文**：报告中包含“could you let me know”。  
-   **英文**：The report included "could you let me know".
-   > **解析**：本题在单元主题情境中复习表达 could you let me know。
+9. **中文**：两位应聘者都不具备该岗位所需的准确经验。  
+   **英文**：Neither of the applicants had the exact experience required for the job for duty.
+   > **解析**：`neither of + 复数名词` 意为“两者都不”，表双重否定。
 
-10. **中文**：一天结束时，我记住了“either of”。  
-   **英文**：At the end of the day, I remembered "either of".
-   > **解析**：本题在单元主题情境中复习表达 either of。
+10. **中文**：请在周五下午5点前提交您更新后的简历。  
+   **英文**：Please submit your updated resume before 5 PM on Friday (either of).
+   > **解析**：`submit` 是及物动词，意为“提交、呈递”，宾语为 `your updated resume`。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "at this point".
-   > **中文**：工作中，我们讨论了“at this point”。
-2. My coworker mentioned "contribute".
-   > **中文**：同事提到了“contribute”。
-3. In the meeting, I heard "do you have any idea".
-   > **中文**：会议中，我听到了“do you have any idea”。
-4. I added "if I may ask" to my notes.
-   > **中文**：我把“if I may ask”写进了笔记。
-5. The manager explained "neither of".
-   > **中文**：经理解释了“neither of”。
-6. Our team used "overtime" today.
-   > **中文**：团队今天用到了“overtime”。
-7. Before lunch, we checked "shall we".
-   > **中文**：午饭前，我们查看了“shall we”。
-8. My colleague asked about "brief".
-   > **中文**：同事询问了“brief”。
-9. The report included "could you let me know".
-   > **中文**：报告中包含“could you let me know”。
-10. At the end of the day, I remembered "either of".
-   > **中文**：一天结束时，我记住了“either of”。
+1. The candidate wants to negotiate a higher starting salary before signing the contract (at this point).
+   > **中文**：求职者希望在签订合同前协商更高的起薪。
+
+2. Employees who work overtime will receive additional compensation for brief.
+   > **中文**：加班的员工将获得额外的报酬。
+
+3. She is eager to contribute her technical skills to the new development team for capacity.
+   > **中文**：她迫切希望能为新的开发团队贡献自己的技术技能。
+
+4. At this point, we cannot make any promises about promotions for certified.
+   > **中文**：在目前阶段，我们无法对晋升做出任何承诺。
+
+5. Could you let me know your availability for an interview next week? for contribute.
+   > **中文**：您能否告知我您下周参加面试的方便时间？
+
+6. If you don't mind me asking, what is your current salary range? (could you let me know).
+   > **中文**：如果您不介意我问的话，您目前的薪资范围是多少？
+
+7. We are exploring the possibility of remote work for this position (do you happen to).
+   > **中文**：我们正在探讨该岗位远程办公的可能性。
+
+8. Hard work and persistence will eventually pay off in your career (do you have any idea).
+   > **中文**：努力与坚持最终会在你的职业生涯中得到回报。
+
+9. Neither of the applicants had the exact experience required for the job for duty.
+   > **中文**：两位应聘者都不具备该岗位所需的准确经验。
+
+10. Please submit your updated resume before 5 PM on Friday (either of).
+   > **中文**：请在周五下午5点前提交您更新后的简历。
 
 </quiz-listening>
 
@@ -154,102 +163,102 @@ could you let me know / do you happen to / if I may ask 是三种不同程度的
 
 ### 1
 
-At work, we discussed "`____`".
+The candidate wants to negotiate a higher starting salary before signing the contract (`____`).
 
 - [x] at this point
-- [ ] if I may ask
-- [ ] shall we
+- [ ] certified
+- [ ] do you happen to
 
-> **解析**：本题在单元主题情境中复习表达 at this point。
+> **解析**：`negotiate` 作动词，意为“谈判、协商”，后接宾语 `a higher starting salary`。
 
 ### 2
 
-My coworker mentioned "`____`".
+Employees who work overtime will receive additional compensation for `____`.
 
-- [x] contribute
-- [ ] neither of
-- [ ] brief
+- [x] brief
+- [ ] contribute
+- [ ] do you have any idea
 
-> **解析**：本题在单元主题情境中复习表达 contribute。
+> **解析**：`overtime` 作副词或名词，`work overtime` 意为“加班”。
 
 ### 3
 
-In the meeting, I heard "`____`".
+She is eager to contribute her technical skills to the new development team for `____`.
 
-- [x] do you have any idea
-- [ ] overtime
+- [x] capacity
 - [ ] could you let me know
+- [ ] duty
 
-> **解析**：本题在单元主题情境中复习表达 do you have any idea。
+> **解析**：`contribute` 作及物动词，搭配 `contribute A to B`（将A贡献给B）。
 
 ### 4
 
-I added "`____`" to my notes.
+At this point, we cannot make any promises about promotions for `____`.
 
-- [x] if I may ask
-- [ ] shall we
+- [x] certified
+- [ ] do you happen to
 - [ ] either of
 
-> **解析**：本题在单元主题情境中复习表达 if I may ask。
+> **解析**：`at this point` 是时间短语，意为“在此时刻、在目前阶段”。
 
 ### 5
 
-The manager explained "`____`".
+Could you let me know your availability for an interview next week? for `____`.
 
-- [x] neither of
-- [ ] brief
+- [x] contribute
+- [ ] do you have any idea
 - [ ] at this point
 
-> **解析**：本题在单元主题情境中复习表达 neither of。
+> **解析**：`could you let me know...` 是极具礼貌性的职场询问句型。
 
 ### 6
 
-Our team used "`____`" today.
+If you don't mind me asking, what is your current salary range? (`____`).
 
-- [x] overtime
-- [ ] could you let me know
-- [ ] contribute
+- [x] could you let me know
+- [ ] duty
+- [ ] brief
 
-> **解析**：本题在单元主题情境中复习表达 overtime。
+> **解析**：`if you don't mind me asking` 是极有礼貌的插入短语，用于提出私密问题前。
 
 ### 7
 
-Before lunch, we checked "`____`".
+We are exploring the possibility of remote work for this position (`____`).
 
-- [x] shall we
+- [x] do you happen to
 - [ ] either of
-- [ ] do you have any idea
+- [ ] capacity
 
-> **解析**：本题在单元主题情境中复习表达 shall we。
+> **解析**：`possibility` 是名词，意为“可能性”，搭配 `the possibility of sth`。
 
 ### 8
 
-My colleague asked about "`____`".
+Hard work and persistence will eventually pay off in your career (`____`).
 
-- [x] brief
+- [x] do you have any idea
 - [ ] at this point
-- [ ] if I may ask
+- [ ] certified
 
-> **解析**：本题在单元主题情境中复习表达 brief。
+> **解析**：`pay off` 是不及物短语动词，意为“得到回报、取得成功”。
 
 ### 9
 
-The report included "`____`".
+Neither of the applicants had the exact experience required for the job for `____`.
 
-- [x] could you let me know
+- [x] duty
+- [ ] brief
 - [ ] contribute
-- [ ] neither of
 
-> **解析**：本题在单元主题情境中复习表达 could you let me know。
+> **解析**：`neither of + 复数名词` 意为“两者都不”，表双重否定。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+Please submit your updated resume before 5 PM on Friday (`____`).
 
 - [x] either of
-- [ ] do you have any idea
-- [ ] overtime
+- [ ] capacity
+- [ ] could you let me know
 
-> **解析**：本题在单元主题情境中复习表达 either of。
+> **解析**：`submit` 是及物动词，意为“提交、呈递”，宾语为 `your updated resume`。
 
 </quiz-cloze>

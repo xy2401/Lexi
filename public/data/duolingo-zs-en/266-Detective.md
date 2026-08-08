@@ -81,70 +81,79 @@ must have / could have / may have 是对过去事件的三种推测，确定性�
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“based on”。  
-   **英文**：In this situation, I heard "based on".
-   > **解析**：本题在单元主题情境中复习表达 based on。
+1. **中文**：侦探仔细检查了房间，以寻找任何隐蔽的线索。  
+   **英文**：The detective examined the room carefully to find any hidden clues for as.
+   > **解析**：`clue` 是可数名词，意为“线索、提示”，常用搭配 `find a clue`。
 
-2. **中文**：同伴解释了“considering”。  
-   **英文**：My partner explained "considering".
-   > **解析**：本题在单元主题情境中复习表达 considering。
+2. **中文**：法医专家从未锁的玻璃门上收集了指纹。  
+   **英文**：Forensic experts gathered fingerprints from the unlocked glass door (based on).
+   > **解析**：`fingerprint` 是名词，意为“指纹”，常用复数 `fingerprints`。
 
-3. **中文**：我们一起谈到了“disguise”。  
-   **英文**：We talked about "disguise" together.
-   > **解析**：本题在单元主题情境中复习表达 disguise。
+3. **中文**：警方今天下午带回了主要犯罪嫌疑人进行审问。  
+   **英文**：Police brought the prime suspect in for questioning this afternoon for bullet.
+   > **解析**：`suspect` 作名词时意为“犯罪嫌疑人”，作宾语。
 
-4. **中文**：我记下了“gang”。  
-   **英文**：I wrote down "gang".
-   > **解析**：本题在单元主题情境中复习表达 gang。
+4. **中文**：看着强行破坏入侵的痕迹，那一定是一个经验丰富的强盗。  
+   **英文**：Looking at the forced entry, it must have been an experienced robber for case.
+   > **解析**：`it must have been...` 表示对过去事实的推测：“那一定曾经是……”。
 
-5. **中文**：例句中包含“it must have been”。  
-   **英文**：The example included "it must have been".
-   > **解析**：本题在单元主题情境中复习表达 it must have been。
+5. **中文**：调查人员正在寻找这次突然盗窃案背后的明确动机。  
+   **英文**：Investigators are searching for a clear motive behind the sudden theft for clue.
+   > **解析**：`motive` 是名词，意为“动机、目的”，短语 `motive behind sth`。
 
-6. **中文**：我询问了“motive”。  
-   **英文**：I asked about "motive".
-   > **解析**：本题在单元主题情境中复习表达 motive。
+6. **中文**：找到丢失的证据对破解这桩疑案至关重要。  
+   **英文**：Finding the missing evidence is crucial to solving the mystery case for considering.
+   > **解析**：`crucial` 是形容词，意为“至关重要的、决定性的”，作表语。
 
-7. **中文**：我们在句子中用到了“suspect”。  
-   **英文**：We used "suspect" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 suspect。
+7. **中文**：入侵者穿戴了伪装，以避免在摄像头中被认出。  
+   **英文**：The intruder wore a disguise to avoid being recognized on camera (could have).
+   > **解析**：`disguise` 是名词，意为“伪装、假扮”，搭配 `wear a disguise`。
 
-8. **中文**：朋友重复了“bullet”。  
-   **英文**：My friend repeated "bullet".
-   > **解析**：本题在单元主题情境中复习表达 bullet。
+8. **中文**：根据初步调查结果，盗窃案发生在午夜过后的某个时间。  
+   **英文**：Based on initial findings, the robbery occurred sometime after midnight for crucial.
+   > **解析**：`based on...` 是介词短语，意为“根据……、基于……”，引导状语。
 
-9. **中文**：后来，我记住了“could have”。  
-   **英文**：Later, I remembered "could have".
-   > **解析**：本题在单元主题情境中复习表达 could have。
+9. **中文**：侦探证实犯罪现场没有发现任何武器。  
+   **英文**：The detective confirmed that no weapon was found at the crime scene for disguise.
+   > **解析**：`weapon` 是名词，意为“武器、凶器”。
 
-10. **中文**：这个小故事以“fingerprint”收尾。  
-   **英文**：The short story ended with "fingerprint".
-   > **解析**：本题在单元主题情境中复习表达 fingerprint。
+10. **中文**：作案者本来有可能通过地下室窗户逃脱了。  
+   **英文**：The perpetrator could have escaped through the basement window for distract.
+   > **解析**：`could have + 过去分词` 表示对过去可能性的推测（本来可能）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "based on".
-   > **中文**：在这个情境中，我听到了“based on”。
-2. My partner explained "considering".
-   > **中文**：同伴解释了“considering”。
-3. We talked about "disguise" together.
-   > **中文**：我们一起谈到了“disguise”。
-4. I wrote down "gang".
-   > **中文**：我记下了“gang”。
-5. The example included "it must have been".
-   > **中文**：例句中包含“it must have been”。
-6. I asked about "motive".
-   > **中文**：我询问了“motive”。
-7. We used "suspect" in a sentence.
-   > **中文**：我们在句子中用到了“suspect”。
-8. My friend repeated "bullet".
-   > **中文**：朋友重复了“bullet”。
-9. Later, I remembered "could have".
-   > **中文**：后来，我记住了“could have”。
-10. The short story ended with "fingerprint".
-   > **中文**：这个小故事以“fingerprint”收尾。
+1. The detective examined the room carefully to find any hidden clues for as.
+   > **中文**：侦探仔细检查了房间，以寻找任何隐蔽的线索。
+
+2. Forensic experts gathered fingerprints from the unlocked glass door (based on).
+   > **中文**：法医专家从未锁的玻璃门上收集了指纹。
+
+3. Police brought the prime suspect in for questioning this afternoon for bullet.
+   > **中文**：警方今天下午带回了主要犯罪嫌疑人进行审问。
+
+4. Looking at the forced entry, it must have been an experienced robber for case.
+   > **中文**：看着强行破坏入侵的痕迹，那一定是一个经验丰富的强盗。
+
+5. Investigators are searching for a clear motive behind the sudden theft for clue.
+   > **中文**：调查人员正在寻找这次突然盗窃案背后的明确动机。
+
+6. Finding the missing evidence is crucial to solving the mystery case for considering.
+   > **中文**：找到丢失的证据对破解这桩疑案至关重要。
+
+7. The intruder wore a disguise to avoid being recognized on camera (could have).
+   > **中文**：入侵者穿戴了伪装，以避免在摄像头中被认出。
+
+8. Based on initial findings, the robbery occurred sometime after midnight for crucial.
+   > **中文**：根据初步调查结果，盗窃案发生在午夜过后的某个时间。
+
+9. The detective confirmed that no weapon was found at the crime scene for disguise.
+   > **中文**：侦探证实犯罪现场没有发现任何武器。
+
+10. The perpetrator could have escaped through the basement window for distract.
+   > **中文**：作案者本来有可能通过地下室窗户逃脱了。
 
 </quiz-listening>
 
@@ -156,102 +165,102 @@ must have / could have / may have 是对过去事件的三种推测，确定性�
 
 ### 1
 
-In this situation, I heard "`____`".
+The detective examined the room carefully to find any hidden clues for `____`.
 
-- [x] based on
-- [ ] gang
-- [ ] suspect
+- [x] as
+- [ ] case
+- [ ] could have
 
-> **解析**：本题在单元主题情境中复习表达 based on。
+> **解析**：`clue` 是可数名词，意为“线索、提示”，常用搭配 `find a clue`。
 
 ### 2
 
-My partner explained "`____`".
+Forensic experts gathered fingerprints from the unlocked glass door (`____`).
 
-- [x] considering
-- [ ] it must have been
-- [ ] bullet
+- [x] based on
+- [ ] clue
+- [ ] crucial
 
-> **解析**：本题在单元主题情境中复习表达 considering。
+> **解析**：`fingerprint` 是名词，意为“指纹”，常用复数 `fingerprints`。
 
 ### 3
 
-We talked about "`____`" together.
+Police brought the prime suspect in for questioning this afternoon for `____`.
 
-- [x] disguise
-- [ ] motive
-- [ ] could have
+- [x] bullet
+- [ ] considering
+- [ ] disguise
 
-> **解析**：本题在单元主题情境中复习表达 disguise。
+> **解析**：`suspect` 作名词时意为“犯罪嫌疑人”，作宾语。
 
 ### 4
 
-I wrote down "`____`".
+Looking at the forced entry, it must have been an experienced robber for `____`.
 
-- [x] gang
-- [ ] suspect
-- [ ] fingerprint
+- [x] case
+- [ ] could have
+- [ ] distract
 
-> **解析**：本题在单元主题情境中复习表达 gang。
+> **解析**：`it must have been...` 表示对过去事实的推测：“那一定曾经是……”。
 
 ### 5
 
-The example included "`____`".
+Investigators are searching for a clear motive behind the sudden theft for `____`.
 
-- [x] it must have been
-- [ ] bullet
-- [ ] based on
+- [x] clue
+- [ ] crucial
+- [ ] as
 
-> **解析**：本题在单元主题情境中复习表达 it must have been。
+> **解析**：`motive` 是名词，意为“动机、目的”，短语 `motive behind sth`。
 
 ### 6
 
-I asked about "`____`".
+Finding the missing evidence is crucial to solving the mystery case for `____`.
 
-- [x] motive
-- [ ] could have
-- [ ] considering
+- [x] considering
+- [ ] disguise
+- [ ] based on
 
-> **解析**：本题在单元主题情境中复习表达 motive。
+> **解析**：`crucial` 是形容词，意为“至关重要的、决定性的”，作表语。
 
 ### 7
 
-We used "`____`" in a sentence.
+The intruder wore a disguise to avoid being recognized on camera (`____`).
 
-- [x] suspect
-- [ ] fingerprint
-- [ ] disguise
+- [x] could have
+- [ ] distract
+- [ ] bullet
 
-> **解析**：本题在单元主题情境中复习表达 suspect。
+> **解析**：`disguise` 是名词，意为“伪装、假扮”，搭配 `wear a disguise`。
 
 ### 8
 
-My friend repeated "`____`".
+Based on initial findings, the robbery occurred sometime after midnight for `____`.
 
-- [x] bullet
-- [ ] based on
-- [ ] gang
+- [x] crucial
+- [ ] as
+- [ ] case
 
-> **解析**：本题在单元主题情境中复习表达 bullet。
+> **解析**：`based on...` 是介词短语，意为“根据……、基于……”，引导状语。
 
 ### 9
 
-Later, I remembered "`____`".
+The detective confirmed that no weapon was found at the crime scene for `____`.
 
-- [x] could have
-- [ ] considering
-- [ ] it must have been
+- [x] disguise
+- [ ] based on
+- [ ] clue
 
-> **解析**：本题在单元主题情境中复习表达 could have。
+> **解析**：`weapon` 是名词，意为“武器、凶器”。
 
 ### 10
 
-The short story ended with "`____`".
+The perpetrator could have escaped through the basement window for `____`.
 
-- [x] fingerprint
-- [ ] disguise
-- [ ] motive
+- [x] distract
+- [ ] bullet
+- [ ] considering
 
-> **解析**：本题在单元主题情境中复习表达 fingerprint。
+> **解析**：`could have + 过去分词` 表示对过去可能性的推测（本来可能）。
 
 </quiz-cloze>

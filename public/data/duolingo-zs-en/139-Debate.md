@@ -61,70 +61,79 @@ disagree with 表示"不同意"。at all 用于加强否定语气。
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“ahead”。  
-   **英文**：In this situation, I heard "ahead".
-   > **解析**：本题在单元主题情境中复习表达 ahead。
+1. **中文**：会议上的每个人都被邀请分享他们对该问题的个人观点。  
+   **英文**：Everyone in the meeting was invited to share their personal opinion on the issue for ahead.
+   > **解析**：opinion 为名词，意为“观点、意见”。opinion on/about sth. 表示“关于某事的观点”。
 
-2. **中文**：同伴解释了“completed”。  
-   **英文**：My partner explained "completed".
-   > **解析**：本题在单元主题情境中复习表达 completed。
+2. **中文**：团队成员在辩论中持有不同意见是完全正常的。  
+   **英文**：It is completely normal for team members to disagree during a debate for argue.
+   > **解析**：disagree 为动词，前缀 dis- 表示否定，意为“不同意、持异议”。disagree with sb. 表示“不同意某人”。
 
-3. **中文**：我们一起谈到了“extremely”。  
-   **英文**：We talked about "extremely" together.
-   > **解析**：本题在单元主题情境中复习表达 extremely。
+3. **中文**：我们必须共同努力来解决我们城市所面临的环境挑战。  
+   **英文**：We must work together to solve the environmental challenges facing our city (at all).
+   > **解析**：solve 为动词，意为“解决、解答”。solve a problem/challenge 表示“解决问题/挑战”。名词形式为 solution。
 
-4. **中文**：我记下了“mind”。  
-   **英文**：I wrote down "mind".
-   > **解析**：本题在单元主题情境中复习表达 mind。
+4. **中文**：经理欢迎任何用以提高工作效率的建设性建议。  
+   **英文**：The manager welcomed any constructive suggestion to improve workplace efficiency for chosen.
+   > **解析**：suggestion 为可数名词，意为“建议、提议”。constructive suggestion 表示“建设性建议”。动词形式为 suggest。
 
-5. **中文**：例句中包含“opposite”。  
-   **英文**：The example included "opposite".
-   > **解析**：本题在单元主题情境中复习表达 opposite。
+5. **中文**：水污染已经成为一个需要立即采取行动的严重问题。  
+   **英文**：Water pollution has become a serious problem that requires immediate action for completed.
+   > **解析**：serious 为形容词，意为“严重的、严肃的”。修饰名词 problem。serious problem 意为“严重问题”。
 
-6. **中文**：我询问了“serious”。  
-   **英文**：I asked about "serious".
-   > **解析**：本题在单元主题情境中复习表达 serious。
+6. **中文**：专家们继续就该政策的长期经济影响展开争论。  
+   **英文**：Experts continue to argue about the long-term economic impact of the policy for disagree.
+   > **解析**：argue 为动词，意为“争论、辩论”。argue about/over sth. 表示“就某事展开争论”。名词形式为 argument。
 
-7. **中文**：我们在句子中用到了“suggestion”。  
-   **英文**：We used "suggestion" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 suggestion。
+7. **中文**：提议的解决方案在减少公司不必要成本方面极其有效。  
+   **英文**：The proposed solution is extremely effective in reducing unnecessary company costs for enemy.
+   > **解析**：extremely 为副词，意为“极其、非常”。修饰形容词 effective，起到加强语气的程度副词作用。
 
-8. **中文**：朋友重复了“argue”。  
-   **英文**：My friend repeated "argue".
-   > **解析**：本题在单元主题情境中复习表达 argue。
+8. **中文**：关于项目应当如何管理，我的同事持截然相反的看法。  
+   **英文**：My colleague held the opposite view regarding how the project should be managed for extremely.
+   > **解析**：opposite 为形容词，意为“相反的、对立的”。opposite view 意为“相反的观点”。
 
-9. **中文**：后来，我记住了“disagree”。  
-   **英文**：Later, I remembered "disagree".
-   > **解析**：本题在单元主题情境中复习表达 disagree。
+9. **中文**：在做出最终决定之前，收集所有相关数据是很有必要的。  
+   **英文**：It is necessary to gather all relevant data before making a final decision for increase.
+   > **解析**：necessary 为形容词，意为“必要的、必须的”。常用形式主语结构 It is necessary to do sth.。
 
-10. **中文**：这个小故事以“make up”收尾。  
-   **英文**：The short story ended with "make up".
-   > **解析**：本题在单元主题情境中复习表达 make up。
+10. **中文**：在一场激烈的辩论之后，两位对手决定和好并合作。  
+   **英文**：After a heated debate, the two opponents decided to make up and work together.
+   > **解析**：make up 在此处为动词短语，意为“和解、和好”。make up 亦可表示“捏造、组成”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "ahead".
-   > **中文**：在这个情境中，我听到了“ahead”。
-2. My partner explained "completed".
-   > **中文**：同伴解释了“completed”。
-3. We talked about "extremely" together.
-   > **中文**：我们一起谈到了“extremely”。
-4. I wrote down "mind".
-   > **中文**：我记下了“mind”。
-5. The example included "opposite".
-   > **中文**：例句中包含“opposite”。
-6. I asked about "serious".
-   > **中文**：我询问了“serious”。
-7. We used "suggestion" in a sentence.
-   > **中文**：我们在句子中用到了“suggestion”。
-8. My friend repeated "argue".
-   > **中文**：朋友重复了“argue”。
-9. Later, I remembered "disagree".
-   > **中文**：后来，我记住了“disagree”。
-10. The short story ended with "make up".
-   > **中文**：这个小故事以“make up”收尾。
+1. Everyone in the meeting was invited to share their personal opinion on the issue for ahead.
+   > **中文**：会议上的每个人都被邀请分享他们对该问题的个人观点。
+
+2. It is completely normal for team members to disagree during a debate for argue.
+   > **中文**：团队成员在辩论中持有不同意见是完全正常的。
+
+3. We must work together to solve the environmental challenges facing our city (at all).
+   > **中文**：我们必须共同努力来解决我们城市所面临的环境挑战。
+
+4. The manager welcomed any constructive suggestion to improve workplace efficiency for chosen.
+   > **中文**：经理欢迎任何用以提高工作效率的建设性建议。
+
+5. Water pollution has become a serious problem that requires immediate action for completed.
+   > **中文**：水污染已经成为一个需要立即采取行动的严重问题。
+
+6. Experts continue to argue about the long-term economic impact of the policy for disagree.
+   > **中文**：专家们继续就该政策的长期经济影响展开争论。
+
+7. The proposed solution is extremely effective in reducing unnecessary company costs for enemy.
+   > **中文**：提议的解决方案在减少公司不必要成本方面极其有效。
+
+8. My colleague held the opposite view regarding how the project should be managed for extremely.
+   > **中文**：关于项目应当如何管理，我的同事持截然相反的看法。
+
+9. It is necessary to gather all relevant data before making a final decision for increase.
+   > **中文**：在做出最终决定之前，收集所有相关数据是很有必要的。
+
+10. After a heated debate, the two opponents decided to make up and work together.
+   > **中文**：在一场激烈的辩论之后，两位对手决定和好并合作。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ disagree with 表示"不同意"。at all 用于加强否定语气。
 
 ### 1
 
-In this situation, I heard "`____`".
+Everyone in the meeting was invited to share their personal opinion on the issue for `____`.
 
 - [x] ahead
-- [ ] mind
-- [ ] suggestion
+- [ ] chosen
+- [ ] enemy
 
-> **解析**：本题在单元主题情境中复习表达 ahead。
+> **解析**：opinion 为名词，意为“观点、意见”。opinion on/about sth. 表示“关于某事的观点”。
 
 ### 2
 
-My partner explained "`____`".
+It is completely normal for team members to disagree during a debate for `____`.
 
-- [x] completed
-- [ ] opposite
-- [ ] argue
+- [x] argue
+- [ ] completed
+- [ ] extremely
 
-> **解析**：本题在单元主题情境中复习表达 completed。
+> **解析**：disagree 为动词，前缀 dis- 表示否定，意为“不同意、持异议”。disagree with sb. 表示“不同意某人”。
 
 ### 3
 
-We talked about "`____`" together.
+We must work together to solve the environmental challenges facing our city (`____`).
 
-- [x] extremely
-- [ ] serious
+- [x] at all
 - [ ] disagree
+- [ ] increase
 
-> **解析**：本题在单元主题情境中复习表达 extremely。
+> **解析**：solve 为动词，意为“解决、解答”。solve a problem/challenge 表示“解决问题/挑战”。名词形式为 solution。
 
 ### 4
 
-I wrote down "`____`".
+The manager welcomed any constructive suggestion to improve workplace efficiency for `____`.
 
-- [x] mind
-- [ ] suggestion
+- [x] chosen
+- [ ] enemy
 - [ ] make up
 
-> **解析**：本题在单元主题情境中复习表达 mind。
+> **解析**：suggestion 为可数名词，意为“建议、提议”。constructive suggestion 表示“建设性建议”。动词形式为 suggest。
 
 ### 5
 
-The example included "`____`".
+Water pollution has become a serious problem that requires immediate action for `____`.
 
-- [x] opposite
-- [ ] argue
+- [x] completed
+- [ ] extremely
 - [ ] ahead
 
-> **解析**：本题在单元主题情境中复习表达 opposite。
+> **解析**：serious 为形容词，意为“严重的、严肃的”。修饰名词 problem。serious problem 意为“严重问题”。
 
 ### 6
 
-I asked about "`____`".
+Experts continue to argue about the long-term economic impact of the policy for `____`.
 
-- [x] serious
-- [ ] disagree
-- [ ] completed
+- [x] disagree
+- [ ] increase
+- [ ] argue
 
-> **解析**：本题在单元主题情境中复习表达 serious。
+> **解析**：argue 为动词，意为“争论、辩论”。argue about/over sth. 表示“就某事展开争论”。名词形式为 argument。
 
 ### 7
 
-We used "`____`" in a sentence.
+The proposed solution is extremely effective in reducing unnecessary company costs for `____`.
 
-- [x] suggestion
+- [x] enemy
 - [ ] make up
-- [ ] extremely
+- [ ] at all
 
-> **解析**：本题在单元主题情境中复习表达 suggestion。
+> **解析**：extremely 为副词，意为“极其、非常”。修饰形容词 effective，起到加强语气的程度副词作用。
 
 ### 8
 
-My friend repeated "`____`".
+My colleague held the opposite view regarding how the project should be managed for `____`.
 
-- [x] argue
+- [x] extremely
 - [ ] ahead
-- [ ] mind
+- [ ] chosen
 
-> **解析**：本题在单元主题情境中复习表达 argue。
+> **解析**：opposite 为形容词，意为“相反的、对立的”。opposite view 意为“相反的观点”。
 
 ### 9
 
-Later, I remembered "`____`".
+It is necessary to gather all relevant data before making a final decision for `____`.
 
-- [x] disagree
+- [x] increase
+- [ ] argue
 - [ ] completed
-- [ ] opposite
 
-> **解析**：本题在单元主题情境中复习表达 disagree。
+> **解析**：necessary 为形容词，意为“必要的、必须的”。常用形式主语结构 It is necessary to do sth.。
 
 ### 10
 
-The short story ended with "`____`".
+After a heated debate, the two opponents decided to `____` and work together.
 
 - [x] make up
-- [ ] extremely
-- [ ] serious
+- [ ] at all
+- [ ] disagree
 
-> **解析**：本题在单元主题情境中复习表达 make up。
+> **解析**：make up 在此处为动词短语，意为“和解、和好”。make up 亦可表示“捏造、组成”。
 
 </quiz-cloze>

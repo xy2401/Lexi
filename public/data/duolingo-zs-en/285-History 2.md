@@ -63,70 +63,79 @@ age, capture, charm, designed, draw your attention to, exhibit, formerly, herita
 
 <quiz-sentence-builder>
 
-1. **中文**：在机场，我听到了“age”。  
-   **英文**：At the airport, I heard "age".
-   > **解析**：本题在单元主题情境中复习表达 age。
+1. **中文**：政府努力保护这座城市丰富的文化遗产。  
+   **英文**：The government works hard to protect the city's rich cultural heritage.
+   > **解析**：`heritage` 是不可数名词，意为“遗产、传统”，常用短语 `cultural heritage`（文化遗产）。
 
-2. **中文**：我的旅伴解释了“designed”。  
-   **英文**：My travel partner explained "designed".
-   > **解析**：本题在单元主题情境中复习表达 designed。
+2. **中文**：游客们聚集在这座历史纪念碑周围阅读雕刻的铭文。  
+   **英文**：Visitors gathered around the historical monument to read the carved inscription for capture.
+   > **解析**：`monument` 指“纪念碑、历史遗迹”，作句中的宾语。
 
-3. **中文**：旅行途中，我们谈到了“heritage”。  
-   **英文**：During the trip, we talked about "heritage".
-   > **解析**：本题在单元主题情境中复习表达 heritage。
+3. **中文**：这幅名画被广泛认为是文艺复兴时期艺术的一件杰作。  
+   **英文**：The famous painting is widely considered a masterpiece of Renaissance art for charm.
+   > **解析**：`masterpiece` 是名词，由 `master` + `piece` 构成，意为“杰作、名作”。
 
-4. **中文**：在酒店里，我记下了“masterpiece”。  
-   **英文**：At the hotel, I wrote down "masterpiece".
-   > **解析**：本题在单元主题情境中复习表达 masterpiece。
+4. **中文**：博物馆开幕了一个展出古罗马硬币和工具的新展览。  
+   **英文**：The museum opened a new exhibit featuring ancient Roman coins and tools for designed.
+   > **解析**：`exhibit` 作名词意为“展览、展品”；作动词意为“展出”。
 
-5. **中文**：旅行者清楚地重复了“on display”。  
-   **英文**：The traveler repeated "on display" clearly.
-   > **解析**：本题在单元主题情境中复习表达 on display。
+5. **中文**：我想请大家注意大教堂墙壁上精美的雕刻。  
+   **英文**：I would like to draw your attention to the intricate carvings on the cathedral wall.
+   > **解析**：`draw one's attention to sth.` 是固定短语，意为“吸引某人注意某物、请某人关注”。
 
-6. **中文**：离开前，我查看了“site”。  
-   **英文**：Before leaving, I checked "site".
-   > **解析**：本题在单元主题情境中复习表达 site。
+6. **中文**：这个历史悠久的地区以其城堡而闻名，尤其是其中一座古老的塔楼。  
+   **英文**：This historic region is known for its castle and one ancient tower in particular for exhibit.
+   > **解析**：`in particular` 是介词短语，意为“尤其、特别”，起强调说明作用。
 
-7. **中文**：在去那里的路上，我们用到了“tour”。  
-   **英文**：On the way there, we used "tour".
-   > **解析**：本题在单元主题情境中复习表达 tour。
+7. **中文**：对于任何访问该岛的人来说，古老的遗迹都是必看的景点。  
+   **英文**：The ancient ruins are a must-see attraction for anyone visiting the island for formerly.
+   > **解析**：`must-see` 作复合形容词或名词，意为“必看的、不可错过的”。
 
-8. **中文**：到达后，我想起了“capture”。  
-   **英文**：After arrival, I remembered "capture".
-   > **解析**：本题在单元主题情境中复习表达 capture。
+8. **中文**：这座历史建筑在十八世纪曾被用作皇家府邸。  
+   **英文**：The historic building was formerly used as a royal residence in the eighteenth century for heritage.
+   > **解析**：`formerly` 是副词，意为“以前、从前”，在句中作状语修饰谓语。
 
-9. **中文**：导游指出了“exhibit”。  
-   **英文**：The guide pointed out "exhibit".
-   > **解析**：本题在单元主题情境中复习表达 exhibit。
+9. **中文**：博物馆导游强调了古陶器的几个值得注意的特征。  
+   **英文**：The museum guide highlighted several noteworthy features of the ancient pottery.
+   > **解析**：`noteworthy` 是形容词，由 `note` + `worthy` 复合而成，意为“值得注意的、显著的”。
 
-10. **中文**：那段旅行故事以“highlight”收尾。  
-   **英文**：That travel story ended with "highlight".
-   > **解析**：本题在单元主题情境中复习表达 highlight。
+10. **中文**：这座堡垒是由一位著名建筑师设计的，用于保卫港口。  
+   **英文**：The fortress was designed by a famous architect to defend the harbor (in particular).
+   > **解析**：`designed` 是过去分词，在句中构成被动语态 `was designed by`，意为“被……设计”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the airport, I heard "age".
-   > **中文**：在机场，我听到了“age”。
-2. My travel partner explained "designed".
-   > **中文**：我的旅伴解释了“designed”。
-3. During the trip, we talked about "heritage".
-   > **中文**：旅行途中，我们谈到了“heritage”。
-4. At the hotel, I wrote down "masterpiece".
-   > **中文**：在酒店里，我记下了“masterpiece”。
-5. The traveler repeated "on display" clearly.
-   > **中文**：旅行者清楚地重复了“on display”。
-6. Before leaving, I checked "site".
-   > **中文**：离开前，我查看了“site”。
-7. On the way there, we used "tour".
-   > **中文**：在去那里的路上，我们用到了“tour”。
-8. After arrival, I remembered "capture".
-   > **中文**：到达后，我想起了“capture”。
-9. The guide pointed out "exhibit".
-   > **中文**：导游指出了“exhibit”。
-10. That travel story ended with "highlight".
-   > **中文**：那段旅行故事以“highlight”收尾。
+1. The government works hard to protect the city's rich cultural heritage.
+   > **中文**：政府努力保护这座城市丰富的文化遗产。
+
+2. Visitors gathered around the historical monument to read the carved inscription for capture.
+   > **中文**：游客们聚集在这座历史纪念碑周围阅读雕刻的铭文。
+
+3. The famous painting is widely considered a masterpiece of Renaissance art for charm.
+   > **中文**：这幅名画被广泛认为是文艺复兴时期艺术的一件杰作。
+
+4. The museum opened a new exhibit featuring ancient Roman coins and tools for designed.
+   > **中文**：博物馆开幕了一个展出古罗马硬币和工具的新展览。
+
+5. I would like to draw your attention to the intricate carvings on the cathedral wall.
+   > **中文**：我想请大家注意大教堂墙壁上精美的雕刻。
+
+6. This historic region is known for its castle and one ancient tower in particular for exhibit.
+   > **中文**：这个历史悠久的地区以其城堡而闻名，尤其是其中一座古老的塔楼。
+
+7. The ancient ruins are a must-see attraction for anyone visiting the island for formerly.
+   > **中文**：对于任何访问该岛的人来说，古老的遗迹都是必看的景点。
+
+8. The historic building was formerly used as a royal residence in the eighteenth century for heritage.
+   > **中文**：这座历史建筑在十八世纪曾被用作皇家府邸。
+
+9. The museum guide highlighted several noteworthy features of the ancient pottery.
+   > **中文**：博物馆导游强调了古陶器的几个值得注意的特征。
+
+10. The fortress was designed by a famous architect to defend the harbor (in particular).
+   > **中文**：这座堡垒是由一位著名建筑师设计的，用于保卫港口。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ age, capture, charm, designed, draw your attention to, exhibit, formerly, herita
 
 ### 1
 
-At the airport, I heard "`____`".
+The government works hard to protect the city's rich cultural herit`____`.
 
 - [x] age
-- [ ] masterpiece
-- [ ] tour
+- [ ] designed
+- [ ] formerly
 
-> **解析**：本题在单元主题情境中复习表达 age。
+> **解析**：`heritage` 是不可数名词，意为“遗产、传统”，常用短语 `cultural heritage`（文化遗产）。
 
 ### 2
 
-My travel partner explained "`____`".
+Visitors gathered around the historical monument to read the carved inscription for `____`.
 
-- [x] designed
-- [ ] on display
-- [ ] capture
+- [x] capture
+- [ ] draw your attention to
+- [ ] heritage
 
-> **解析**：本题在单元主题情境中复习表达 designed。
+> **解析**：`monument` 指“纪念碑、历史遗迹”，作句中的宾语。
 
 ### 3
 
-During the trip, we talked about "`____`".
+The famous painting is widely considered a masterpiece of Renaissance art for `____`.
 
-- [x] heritage
-- [ ] site
+- [x] charm
 - [ ] exhibit
+- [ ] highlight
 
-> **解析**：本题在单元主题情境中复习表达 heritage。
+> **解析**：`masterpiece` 是名词，由 `master` + `piece` 构成，意为“杰作、名作”。
 
 ### 4
 
-At the hotel, I wrote down "`____`".
+The museum opened a new exhibit featuring ancient Roman coins and tools for `____`.
 
-- [x] masterpiece
-- [ ] tour
-- [ ] highlight
+- [x] designed
+- [ ] formerly
+- [ ] in particular
 
-> **解析**：本题在单元主题情境中复习表达 masterpiece。
+> **解析**：`exhibit` 作名词意为“展览、展品”；作动词意为“展出”。
 
 ### 5
 
-The traveler repeated "`____`" clearly.
+I would like to `____` the intricate carvings on the cathedral wall.
 
-- [x] on display
-- [ ] capture
+- [x] draw your attention to
+- [ ] heritage
 - [ ] age
 
-> **解析**：本题在单元主题情境中复习表达 on display。
+> **解析**：`draw one's attention to sth.` 是固定短语，意为“吸引某人注意某物、请某人关注”。
 
 ### 6
 
-Before leaving, I checked "`____`".
+This historic region is known for its castle and one ancient tower in particular for `____`.
 
-- [x] site
-- [ ] exhibit
-- [ ] designed
+- [x] exhibit
+- [ ] highlight
+- [ ] capture
 
-> **解析**：本题在单元主题情境中复习表达 site。
+> **解析**：`in particular` 是介词短语，意为“尤其、特别”，起强调说明作用。
 
 ### 7
 
-On the way there, we used "`____`".
+The ancient ruins are a must-see attraction for anyone visiting the island for `____`.
 
-- [x] tour
-- [ ] highlight
-- [ ] heritage
+- [x] formerly
+- [ ] in particular
+- [ ] charm
 
-> **解析**：本题在单元主题情境中复习表达 tour。
+> **解析**：`must-see` 作复合形容词或名词，意为“必看的、不可错过的”。
 
 ### 8
 
-After arrival, I remembered "`____`".
+The historic building was formerly used as a royal residence in the eighteenth century for `____`.
 
-- [x] capture
+- [x] heritage
 - [ ] age
-- [ ] masterpiece
+- [ ] designed
 
-> **解析**：本题在单元主题情境中复习表达 capture。
+> **解析**：`formerly` 是副词，意为“以前、从前”，在句中作状语修饰谓语。
 
 ### 9
 
-The guide pointed out "`____`".
+The museum guide `____`ed several noteworthy features of the ancient pottery.
 
-- [x] exhibit
-- [ ] designed
-- [ ] on display
+- [x] highlight
+- [ ] capture
+- [ ] draw your attention to
 
-> **解析**：本题在单元主题情境中复习表达 exhibit。
+> **解析**：`noteworthy` 是形容词，由 `note` + `worthy` 复合而成，意为“值得注意的、显著的”。
 
 ### 10
 
-That travel story ended with "`____`".
+The fortress was designed by a famous architect to defend the harbor (`____`).
 
-- [x] highlight
-- [ ] heritage
-- [ ] site
+- [x] in particular
+- [ ] charm
+- [ ] exhibit
 
-> **解析**：本题在单元主题情境中复习表达 highlight。
+> **解析**：`designed` 是过去分词，在句中构成被动语态 `was designed by`，意为“被……设计”。
 
 </quiz-cloze>

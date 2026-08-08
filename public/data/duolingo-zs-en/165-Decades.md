@@ -61,70 +61,79 @@ the + 年代（the eighties = 80年代）。could / couldn't 表过去能力。
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“1802”。  
-   **英文**：In this situation, I heard "1802".
-   > **解析**：本题在单元主题情境中复习表达 1802。
+1. **中文**：这座历史悠久的镇图书馆最初建于 1802 年。  
+   **英文**：The historic town library was originally constructed in the year 1802.
+   > **解析**：1802 为年份表达，读作 eighteen hundred and two 或 eighteen oh two。
 
-2. **中文**：同伴解释了“born”。  
-   **英文**：My partner explained "born".
-   > **解析**：本题在单元主题情境中复习表达 born。
+2. **中文**：我奶奶于 20 世纪 30 年代出生在一个沿海小村庄。  
+   **英文**：My grandmother was born in a small coastal village in the nineteen thirties for 1992.
+   > **解析**：born 为动词 bear 的过去分词，常与 be 动词连用构成 be born（出生于……）。
 
-3. **中文**：我们一起谈到了“eighties”。  
-   **英文**：We talked about "eighties" together.
-   > **解析**：本题在单元主题情境中复习表达 eighties。
+3. **中文**：迪斯科音乐和色彩斑斓的复古服装在 80 年代非常流行。  
+   **英文**：Disco music and colorful retro clothes were very popular in the eighties for 2016.
+   > **解析**：eighties 指“八十年代”（the 1980s），前面需加定冠词 the（in the eighties）。
 
-4. **中文**：我记下了“generation”。  
-   **英文**：I wrote down "generation".
-   > **解析**：本题在单元主题情境中复习表达 generation。
+4. **中文**：每一代人都有其独特的文化身份和时代记忆。  
+   **英文**：Each generation has its own unique cultural identity and memories for 2017.
+   > **解析**：generation 为可数名词，意为“一代人、世代”。Each generation 后接单数动词 has。
 
-5. **中文**：例句中包含“nineteen nineties”。  
-   **英文**：The example included "nineteen nineties".
-   > **解析**：本题在单元主题情境中复习表达 nineteen nineties。
+5. **中文**：互联网在 20 世纪 90 年代开始迅速改变人们的日常生活。  
+   **英文**：The internet began to change daily life rapidly in the nineteen nineties for born.
+   > **解析**：nineteen nineties 指“九十年代”（the 1990s），用于表示特定年代背景。
 
-6. **中文**：我询问了“population”。  
-   **英文**：I asked about "population".
-   > **解析**：本题在单元主题情境中复习表达 population。
+6. **中文**：在过去三十年里，该城市的人口显着增长。  
+   **英文**：The city's population grew significantly over the past three decades for could.
+   > **解析**：population 为集合名词，意为“人口”。常与动词 grow, increase 搭配。
 
-7. **中文**：我们在句子中用到了“twentieth”。  
-   **英文**：We used "twentieth" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 twentieth。
+7. **中文**：伟大的科学突破发生在 20 世纪。  
+   **英文**：Great scientific breakthroughs occurred during the twentieth century (couldn't).
+   > **解析**：twentieth 为序数词，意为“第二十的”。the twentieth century 指“20 世纪”。
 
-8. **中文**：朋友重复了“1992”。  
-   **英文**：My friend repeated "1992".
-   > **解析**：本题在单元主题情境中复习表达 1992。
+8. **中文**：我父母早在 1992 年夏天在大学里第一次相遇。  
+   **英文**：My parents first met at university back in the summer of 1992 for discovery.
+   > **解析**：1992 为年份数字，英文读作 nineteen ninety-two。
 
-9. **中文**：后来，我记住了“could”。  
-   **英文**：Later, I remembered "could".
-   > **解析**：本题在单元主题情境中复习表达 could。
+9. **中文**：在那个年代，人们只能通过写纸质信件来沟通。  
+   **英文**：In those days, people could only communicate by writing paper letters for eighties.
+   > **解析**：could 为情态动词 can 的过去式，表示过去拥有的能力或许可（could only communicate）。
 
-10. **中文**：这个小故事以“either”收尾。  
-   **英文**：The short story ended with "either".
-   > **解析**：本题在单元主题情境中复习表达 either。
+10. **中文**：当年在高中你可以选择学习法语或德语中的任何一种。  
+   **英文**：You could choose to study either French or German back in high school.
+   > **解析**：either 在此处与 or 搭配构成 either A or B 结构，意为“要么A要么B/两者择一”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "1802".
-   > **中文**：在这个情境中，我听到了“1802”。
-2. My partner explained "born".
-   > **中文**：同伴解释了“born”。
-3. We talked about "eighties" together.
-   > **中文**：我们一起谈到了“eighties”。
-4. I wrote down "generation".
-   > **中文**：我记下了“generation”。
-5. The example included "nineteen nineties".
-   > **中文**：例句中包含“nineteen nineties”。
-6. I asked about "population".
-   > **中文**：我询问了“population”。
-7. We used "twentieth" in a sentence.
-   > **中文**：我们在句子中用到了“twentieth”。
-8. My friend repeated "1992".
-   > **中文**：朋友重复了“1992”。
-9. Later, I remembered "could".
-   > **中文**：后来，我记住了“could”。
-10. The short story ended with "either".
-   > **中文**：这个小故事以“either”收尾。
+1. The historic town library was originally constructed in the year 1802.
+   > **中文**：这座历史悠久的镇图书馆最初建于 1802 年。
+
+2. My grandmother was born in a small coastal village in the nineteen thirties for 1992.
+   > **中文**：我奶奶于 20 世纪 30 年代出生在一个沿海小村庄。
+
+3. Disco music and colorful retro clothes were very popular in the eighties for 2016.
+   > **中文**：迪斯科音乐和色彩斑斓的复古服装在 80 年代非常流行。
+
+4. Each generation has its own unique cultural identity and memories for 2017.
+   > **中文**：每一代人都有其独特的文化身份和时代记忆。
+
+5. The internet began to change daily life rapidly in the nineteen nineties for born.
+   > **中文**：互联网在 20 世纪 90 年代开始迅速改变人们的日常生活。
+
+6. The city's population grew significantly over the past three decades for could.
+   > **中文**：在过去三十年里，该城市的人口显着增长。
+
+7. Great scientific breakthroughs occurred during the twentieth century (couldn't).
+   > **中文**：伟大的科学突破发生在 20 世纪。
+
+8. My parents first met at university back in the summer of 1992 for discovery.
+   > **中文**：我父母早在 1992 年夏天在大学里第一次相遇。
+
+9. In those days, people could only communicate by writing paper letters for eighties.
+   > **中文**：在那个年代，人们只能通过写纸质信件来沟通。
+
+10. You could choose to study either French or German back in high school.
+   > **中文**：当年在高中你可以选择学习法语或德语中的任何一种。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ the + 年代（the eighties = 80年代）。could / couldn't 表过去能力。
 
 ### 1
 
-In this situation, I heard "`____`".
+The historic town library was originally constructed in the year `____`.
 
 - [x] 1802
-- [ ] generation
-- [ ] twentieth
+- [ ] 2017
+- [ ] couldn't
 
-> **解析**：本题在单元主题情境中复习表达 1802。
+> **解析**：1802 为年份表达，读作 eighteen hundred and two 或 eighteen oh two。
 
 ### 2
 
-My partner explained "`____`".
+My grandmother was born in a small coastal village in the nineteen thirties for `____`.
 
-- [x] born
-- [ ] nineteen nineties
-- [ ] 1992
+- [x] 1992
+- [ ] born
+- [ ] discovery
 
-> **解析**：本题在单元主题情境中复习表达 born。
+> **解析**：born 为动词 bear 的过去分词，常与 be 动词连用构成 be born（出生于……）。
 
 ### 3
 
-We talked about "`____`" together.
+Disco music and colorful retro clothes were very popular in the eighties for `____`.
 
-- [x] eighties
-- [ ] population
+- [x] 2016
 - [ ] could
+- [ ] eighties
 
-> **解析**：本题在单元主题情境中复习表达 eighties。
+> **解析**：eighties 指“八十年代”（the 1980s），前面需加定冠词 the（in the eighties）。
 
 ### 4
 
-I wrote down "`____`".
+Each generation has its own unique cultural identity and memories for `____`.
 
-- [x] generation
-- [ ] twentieth
+- [x] 2017
+- [ ] couldn't
 - [ ] either
 
-> **解析**：本题在单元主题情境中复习表达 generation。
+> **解析**：generation 为可数名词，意为“一代人、世代”。Each generation 后接单数动词 has。
 
 ### 5
 
-The example included "`____`".
+The internet began to change daily life rapidly in the nineteen nineties for `____`.
 
-- [x] nineteen nineties
-- [ ] 1992
+- [x] born
+- [ ] discovery
 - [ ] 1802
 
-> **解析**：本题在单元主题情境中复习表达 nineteen nineties。
+> **解析**：nineteen nineties 指“九十年代”（the 1990s），用于表示特定年代背景。
 
 ### 6
 
-I asked about "`____`".
+The city's population grew significantly over the past three decades for `____`.
 
-- [x] population
-- [ ] could
-- [ ] born
+- [x] could
+- [ ] eighties
+- [ ] 1992
 
-> **解析**：本题在单元主题情境中复习表达 population。
+> **解析**：population 为集合名词，意为“人口”。常与动词 grow, increase 搭配。
 
 ### 7
 
-We used "`____`" in a sentence.
+Great scientific breakthroughs occurred during the twentieth century (`____`).
 
-- [x] twentieth
+- [x] couldn't
 - [ ] either
-- [ ] eighties
+- [ ] 2016
 
-> **解析**：本题在单元主题情境中复习表达 twentieth。
+> **解析**：twentieth 为序数词，意为“第二十的”。the twentieth century 指“20 世纪”。
 
 ### 8
 
-My friend repeated "`____`".
+My parents first met at university back in the summer of 1992 for `____`.
 
-- [x] 1992
+- [x] discovery
 - [ ] 1802
-- [ ] generation
+- [ ] 2017
 
-> **解析**：本题在单元主题情境中复习表达 1992。
+> **解析**：1992 为年份数字，英文读作 nineteen ninety-two。
 
 ### 9
 
-Later, I remembered "`____`".
+In those days, people could only communicate by writing paper letters for `____`.
 
-- [x] could
+- [x] eighties
+- [ ] 1992
 - [ ] born
-- [ ] nineteen nineties
 
-> **解析**：本题在单元主题情境中复习表达 could。
+> **解析**：could 为情态动词 can 的过去式，表示过去拥有的能力或许可（could only communicate）。
 
 ### 10
 
-The short story ended with "`____`".
+You could choose to study `____` French or German back in high school.
 
 - [x] either
-- [ ] eighties
-- [ ] population
+- [ ] 2016
+- [ ] could
 
-> **解析**：本题在单元主题情境中复习表达 either。
+> **解析**：either 在此处与 or 搭配构成 either A or B 结构，意为“要么A要么B/两者择一”。
 
 </quiz-cloze>

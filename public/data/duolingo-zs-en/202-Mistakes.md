@@ -51,70 +51,79 @@ drawn 是 draw 的过去分词，在这里可能指"被吸引"（drawn to）或"
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“act”。  
-   **英文**：In this situation, I heard "act".
-   > **解析**：本题在单元主题情境中复习表达 act。
+1. **中文**：我非常后悔昨天和我哥哥发生激烈的争吵。  
+   **英文**：I deeply regret getting into a heated argument with my brother yesterday for act.
+   > **解析**：argument 可数名词，意为“争吵；争论”，动词为 argue。
 
-2. **中文**：同伴解释了“common sense”。  
-   **英文**：My partner explained "common sense".
-   > **解析**：本题在单元主题情境中复习表达 common sense。
+2. **中文**：她因驾驶考试不及格而对自己感到无比失望。  
+   **英文**：She felt extremely disappointed with herself for failing the driving exam for argument.
+   > **解析**：disappointed 形容词，意为“感到失望的”，修饰人，常搭配 with 或 at。
 
-3. **中文**：我们一起谈到了“drunk”。  
-   **英文**：We talked about "drunk" together.
-   > **解析**：本题在单元主题情境中复习表达 drunk。
+3. **中文**：他因忘记母亲的生日晚餐而感到内疚。  
+   **英文**：He felt guilty about forgetting his mother's birthday dinner (be able to).
+   > **解析**：guilty 形容词，意为“内疚的；有罪的”，常用 feel guilty about doing something。
 
-4. **中文**：我记下了“hadn't”。  
-   **英文**：I wrote down "hadn't".
-   > **解析**：本题在单元主题情境中复习表达 hadn't。
+4. **中文**：凭常识本可以避免这个愚蠢的错误。  
+   **英文**：Using common sense would have prevented this silly mistake.
+   > **解析**：common sense 不可数名词短语，意为“常识”。
 
-5. **中文**：例句中包含“lucky”。  
-   **英文**：The example included "lucky".
-   > **解析**：本题在单元主题情境中复习表达 lucky。
+5. **中文**：如果我早知道商店关门了，我就不会一路走过去了。  
+   **英文**：If I had known the store was closed, I wouldn't have walked all the way there for control.
+   > **解析**：wouldn't have + 过去分词，用于虚拟语气表示“（过去）本不会做某事”。
 
-6. **中文**：我询问了“stupid”。  
-   **英文**：I asked about "stupid".
-   > **解析**：本题在单元主题情境中复习表达 stupid。
+6. **中文**：如果我们早点出发，我们本会有充足的时间赶上火车。  
+   **英文**：If we had left earlier, we would have had enough time to catch the train for disappoint.
+   > **解析**：would have had 是 would have + have 的过去分词 had，意为“本会有……”。
 
-7. **中文**：我们在句子中用到了“would have had”。  
-   **英文**：We used "would have had" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 would have had。
+7. **中文**：我的同事曾试图警告我注意即将到来的截止日期，但我忽略了。  
+   **英文**：My coworker tried to warn me about the upcoming deadline, but I ignored it for drawn.
+   > **解析**：warn 及物动词，意为“警告；提醒”，常用 warn somebody about/against something。
 
-8. **中文**：朋友重复了“argument”。  
-   **英文**：My friend repeated "argument".
-   > **解析**：本题在单元主题情境中复习表达 argument。
+8. **中文**：酒后驾车是能毁掉生命的危险决定。  
+   **英文**：Driving while drunk is a dangerous decision that can destroy lives.
+   > **解析**：drunk 形容词，意为“酒醉的”，作表语；drive drunk 意为酒后驾车。
 
-9. **中文**：后来，我记住了“disappoint”。  
-   **英文**：Later, I remembered "disappoint".
-   > **解析**：本题在单元主题情境中复习表达 disappoint。
+9. **中文**：意识到自己的决定很自私后，她向整个团队道歉。  
+   **英文**：Realizing her decision was selfish, she apologized to her entire team for guilty.
+   > **解析**：selfish 形容词，意为“自私的”，反义词为 unselfish / generous。
 
-10. **中文**：这个小故事以“guilty”收尾。  
-   **英文**：The short story ended with "guilty".
-   > **解析**：本题在单元主题情境中复习表达 guilty。
+10. **中文**：他在会议期间失去了对情绪的控制并大声喊叫。  
+   **英文**：He lost control of his emotions and shouted during the meeting for had.
+   > **解析**：control 不可数/可数名词，意为“控制；克制”，短语 lose control of ... 意为对……失去控制。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "act".
-   > **中文**：在这个情境中，我听到了“act”。
-2. My partner explained "common sense".
-   > **中文**：同伴解释了“common sense”。
-3. We talked about "drunk" together.
-   > **中文**：我们一起谈到了“drunk”。
-4. I wrote down "hadn't".
-   > **中文**：我记下了“hadn't”。
-5. The example included "lucky".
-   > **中文**：例句中包含“lucky”。
-6. I asked about "stupid".
-   > **中文**：我询问了“stupid”。
-7. We used "would have had" in a sentence.
-   > **中文**：我们在句子中用到了“would have had”。
-8. My friend repeated "argument".
-   > **中文**：朋友重复了“argument”。
-9. Later, I remembered "disappoint".
-   > **中文**：后来，我记住了“disappoint”。
-10. The short story ended with "guilty".
-   > **中文**：这个小故事以“guilty”收尾。
+1. I deeply regret getting into a heated argument with my brother yesterday for act.
+   > **中文**：我非常后悔昨天和我哥哥发生激烈的争吵。
+
+2. She felt extremely disappointed with herself for failing the driving exam for argument.
+   > **中文**：她因驾驶考试不及格而对自己感到无比失望。
+
+3. He felt guilty about forgetting his mother's birthday dinner (be able to).
+   > **中文**：他因忘记母亲的生日晚餐而感到内疚。
+
+4. Using common sense would have prevented this silly mistake.
+   > **中文**：凭常识本可以避免这个愚蠢的错误。
+
+5. If I had known the store was closed, I wouldn't have walked all the way there for control.
+   > **中文**：如果我早知道商店关门了，我就不会一路走过去了。
+
+6. If we had left earlier, we would have had enough time to catch the train for disappoint.
+   > **中文**：如果我们早点出发，我们本会有充足的时间赶上火车。
+
+7. My coworker tried to warn me about the upcoming deadline, but I ignored it for drawn.
+   > **中文**：我的同事曾试图警告我注意即将到来的截止日期，但我忽略了。
+
+8. Driving while drunk is a dangerous decision that can destroy lives.
+   > **中文**：酒后驾车是能毁掉生命的危险决定。
+
+9. Realizing her decision was selfish, she apologized to her entire team for guilty.
+   > **中文**：意识到自己的决定很自私后，她向整个团队道歉。
+
+10. He lost control of his emotions and shouted during the meeting for had.
+   > **中文**：他在会议期间失去了对情绪的控制并大声喊叫。
 
 </quiz-listening>
 
@@ -126,102 +135,102 @@ drawn 是 draw 的过去分词，在这里可能指"被吸引"（drawn to）或"
 
 ### 1
 
-In this situation, I heard "`____`".
+I deeply regret getting into a heated argument with my brother yesterday for `____`.
 
 - [x] act
-- [ ] hadn't
-- [ ] would have had
+- [ ] common sense
+- [ ] drawn
 
-> **解析**：本题在单元主题情境中复习表达 act。
+> **解析**：argument 可数名词，意为“争吵；争论”，动词为 argue。
 
 ### 2
 
-My partner explained "`____`".
+She felt extremely disappointed with herself for failing the driving exam for `____`.
 
-- [x] common sense
-- [ ] lucky
-- [ ] argument
+- [x] argument
+- [ ] control
+- [ ] drunk
 
-> **解析**：本题在单元主题情境中复习表达 common sense。
+> **解析**：disappointed 形容词，意为“感到失望的”，修饰人，常搭配 with 或 at。
 
 ### 3
 
-We talked about "`____`" together.
+He felt guilty about forgetting his mother's birthday dinner (`____`).
 
-- [x] drunk
-- [ ] stupid
+- [x] be able to
 - [ ] disappoint
+- [ ] guilty
 
-> **解析**：本题在单元主题情境中复习表达 drunk。
+> **解析**：guilty 形容词，意为“内疚的；有罪的”，常用 feel guilty about doing something。
 
 ### 4
 
-I wrote down "`____`".
+Using `____` would have prevented this silly mistake.
 
-- [x] hadn't
-- [ ] would have had
-- [ ] guilty
+- [x] common sense
+- [ ] drawn
+- [ ] had
 
-> **解析**：本题在单元主题情境中复习表达 hadn't。
+> **解析**：common sense 不可数名词短语，意为“常识”。
 
 ### 5
 
-The example included "`____`".
+If I had known the store was closed, I wouldn't have walked all the way there for `____`.
 
-- [x] lucky
-- [ ] argument
+- [x] control
+- [ ] drunk
 - [ ] act
 
-> **解析**：本题在单元主题情境中复习表达 lucky。
+> **解析**：wouldn't have + 过去分词，用于虚拟语气表示“（过去）本不会做某事”。
 
 ### 6
 
-I asked about "`____`".
+If we had left earlier, we would have had enough time to catch the train for `____`.
 
-- [x] stupid
-- [ ] disappoint
-- [ ] common sense
+- [x] disappoint
+- [ ] guilty
+- [ ] argument
 
-> **解析**：本题在单元主题情境中复习表达 stupid。
+> **解析**：would have had 是 would have + have 的过去分词 had，意为“本会有……”。
 
 ### 7
 
-We used "`____`" in a sentence.
+My coworker tried to warn me about the upcoming deadline, but I ignored it for `____`.
 
-- [x] would have had
-- [ ] guilty
-- [ ] drunk
+- [x] drawn
+- [ ] had
+- [ ] be able to
 
-> **解析**：本题在单元主题情境中复习表达 would have had。
+> **解析**：warn 及物动词，意为“警告；提醒”，常用 warn somebody about/against something。
 
 ### 8
 
-My friend repeated "`____`".
+Driving while `____` is a dangerous decision that can destroy lives.
 
-- [x] argument
+- [x] drunk
 - [ ] act
-- [ ] hadn't
+- [ ] common sense
 
-> **解析**：本题在单元主题情境中复习表达 argument。
+> **解析**：drunk 形容词，意为“酒醉的”，作表语；drive drunk 意为酒后驾车。
 
 ### 9
 
-Later, I remembered "`____`".
+Realizing her decision was selfish, she apologized to her entire team for `____`.
 
-- [x] disappoint
-- [ ] common sense
-- [ ] lucky
+- [x] guilty
+- [ ] argument
+- [ ] control
 
-> **解析**：本题在单元主题情境中复习表达 disappoint。
+> **解析**：selfish 形容词，意为“自私的”，反义词为 unselfish / generous。
 
 ### 10
 
-The short story ended with "`____`".
+He lost control of his emotions and shouted during the meeting for `____`.
 
-- [x] guilty
-- [ ] drunk
-- [ ] stupid
+- [x] had
+- [ ] be able to
+- [ ] disappoint
 
-> **解析**：本题在单元主题情境中复习表达 guilty。
+> **解析**：control 不可数/可数名词，意为“控制；克制”，短语 lose control of ... 意为对……失去控制。
 
 </quiz-cloze>

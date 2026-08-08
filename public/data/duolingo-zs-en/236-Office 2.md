@@ -61,70 +61,79 @@ availability, call in sick, cooperate, cut, decline, in the long run, itself, le
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“availability”。  
-   **英文**：At work, we discussed "availability".
-   > **解析**：本题在单元主题情境中复习表达 availability。
+1. **中文**：在安排会议之前，请查看团队日历确认每个人的时间空闲/可配合程度。  
+   **英文**：Please check the team calendar for everyone's availability before scheduling the meeting.
+   > **解析**：`availability` 不可数名词，意为“可获得性；可配合的时间/空闲”。在办公和日程安排中常指“空闲时间”。
 
-2. **中文**：同事提到了“decline”。  
-   **英文**：My coworker mentioned "decline".
-   > **解析**：本题在单元主题情境中复习表达 decline。
+2. **中文**：管理层决定谢绝/拒绝该提议，因为其超出了部门预算。  
+   **英文**：Management decided to decline the proposal because it exceeded the department budget (call in sick).
+   > **解析**：`decline` 及物动词，在此处意为“礼貌地拒绝；谢绝”。对比 `reject`，`decline` 语气更为体面正式。
 
-3. **中文**：会议中，我听到了“let go”。  
-   **英文**：In the meeting, I heard "let go".
-   > **解析**：本题在单元主题情境中复习表达 let go。
+3. **中文**：由于公司重组，该公司不得不解雇/裁减几名初级员工。  
+   **英文**：Due to company restructuring, the firm had to let go of several junior employees for cooperate.
+   > **解析**：`let go of` 为动词短语，在职场场景中指“解雇；裁员（与 `lay off` 类似）”。
 
-4. **中文**：我把“partner”写进了笔记。  
-   **英文**：I added "partner" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 partner。
+4. **中文**：我们公司同意与一家当地技术公司合作开发该应用程序。  
+   **英文**：Our company agreed to partner with a local technology firm to develop the application for cut.
+   > **解析**：`partner` 动词，意为“合伙；合作”。固定搭配 `partner with sb. / a company`。
 
-5. **中文**：经理解释了“spreadsheet”。  
-   **英文**：The manager explained "spreadsheet".
-   > **解析**：本题在单元主题情境中复习表达 spreadsheet。
+5. **中文**：会计将所有财务数据整齐地组织存放在 Excel 电子表格中。  
+   **英文**：The accountant organized all financial data neatly into an Excel spreadsheet for decline.
+   > **解析**：`spreadsheet` 可数名词，意为“电子表格”。
 
-6. **中文**：团队今天用到了“that reminds me”。  
-   **英文**：Our team used "that reminds me" today.
-   > **解析**：本题在单元主题情境中复习表达 that reminds me。
+6. **中文**：这提醒了我，我们仍然需要在五点前提交我们每月的费用报告。  
+   **英文**：That reminds me, we still need to submit our monthly expense reports by five o'clock (in the long run).
+   > **解析**：`that reminds me` 为口语过渡短语，意为“这提醒了我；想起了一件事”，用于由当前话题联想到另一件需要处理的事项。
 
-7. **中文**：午饭前，我们查看了“unacceptable”。  
-   **英文**：Before lunch, we checked "unacceptable".
-   > **解析**：本题在单元主题情境中复习表达 unacceptable。
+7. **中文**：在本公司，未提前通知而错过项目截止日期是完全不可接受的。  
+   **英文**：Missing project deadlines without advance notice is completely unacceptable in this firm for itself.
+   > **解析**：`unacceptable` 形容词，意为“无法接受的；不容许的”，由前缀 `un-` + `acceptable` 构成。
 
-8. **中文**：同事询问了“call in sick”。  
-   **英文**：My colleague asked about "call in sick".
-   > **解析**：本题在单元主题情境中复习表达 call in sick。
+8. **中文**：如果你发烧醒来，你应该打电话请病假并留在家中休息。  
+   **英文**：If you wake up with a fever, you should call in sick and rest at home (let go).
+   > **解析**：`call in sick` 动词短语，意为“打电话请病假”。
 
-9. **中文**：报告中包含“in the long run”。  
-   **英文**：The report included "in the long run".
-   > **解析**：本题在单元主题情境中复习表达 in the long run。
+9. **中文**：从长远来看，投资高质量的办公设备将会节省资金。  
+   **英文**：Investing in high-quality office equipment will save money in the long run (move on).
+   > **解析**：`in the long run` 介词短语作状语，意为“从长远来看；终究”。
 
-10. **中文**：一天结束时，我记住了“on top of”。  
-   **英文**：At the end of the day, I remembered "on top of".
-   > **解析**：本题在单元主题情境中复习表达 on top of。
+10. **中文**：除了管理预算之外，她还负责培训新员工。  
+   **英文**：On top of managing the budget, she is also responsible for training new staff members.
+   > **解析**：`on top of` 介词短语，意为“除了……之外；加上”，后接动名词 `managing`。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "availability".
-   > **中文**：工作中，我们讨论了“availability”。
-2. My coworker mentioned "decline".
-   > **中文**：同事提到了“decline”。
-3. In the meeting, I heard "let go".
-   > **中文**：会议中，我听到了“let go”。
-4. I added "partner" to my notes.
-   > **中文**：我把“partner”写进了笔记。
-5. The manager explained "spreadsheet".
-   > **中文**：经理解释了“spreadsheet”。
-6. Our team used "that reminds me" today.
-   > **中文**：团队今天用到了“that reminds me”。
-7. Before lunch, we checked "unacceptable".
-   > **中文**：午饭前，我们查看了“unacceptable”。
-8. My colleague asked about "call in sick".
-   > **中文**：同事询问了“call in sick”。
-9. The report included "in the long run".
-   > **中文**：报告中包含“in the long run”。
-10. At the end of the day, I remembered "on top of".
-   > **中文**：一天结束时，我记住了“on top of”。
+1. Please check the team calendar for everyone's availability before scheduling the meeting.
+   > **中文**：在安排会议之前，请查看团队日历确认每个人的时间空闲/可配合程度。
+
+2. Management decided to decline the proposal because it exceeded the department budget (call in sick).
+   > **中文**：管理层决定谢绝/拒绝该提议，因为其超出了部门预算。
+
+3. Due to company restructuring, the firm had to let go of several junior employees for cooperate.
+   > **中文**：由于公司重组，该公司不得不解雇/裁减几名初级员工。
+
+4. Our company agreed to partner with a local technology firm to develop the application for cut.
+   > **中文**：我们公司同意与一家当地技术公司合作开发该应用程序。
+
+5. The accountant organized all financial data neatly into an Excel spreadsheet for decline.
+   > **中文**：会计将所有财务数据整齐地组织存放在 Excel 电子表格中。
+
+6. That reminds me, we still need to submit our monthly expense reports by five o'clock (in the long run).
+   > **中文**：这提醒了我，我们仍然需要在五点前提交我们每月的费用报告。
+
+7. Missing project deadlines without advance notice is completely unacceptable in this firm for itself.
+   > **中文**：在本公司，未提前通知而错过项目截止日期是完全不可接受的。
+
+8. If you wake up with a fever, you should call in sick and rest at home (let go).
+   > **中文**：如果你发烧醒来，你应该打电话请病假并留在家中休息。
+
+9. Investing in high-quality office equipment will save money in the long run (move on).
+   > **中文**：从长远来看，投资高质量的办公设备将会节省资金。
+
+10. On top of managing the budget, she is also responsible for training new staff members.
+   > **中文**：除了管理预算之外，她还负责培训新员工。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ availability, call in sick, cooperate, cut, decline, in the long run, itself, le
 
 ### 1
 
-At work, we discussed "`____`".
+Please check the team calendar for everyone's `____` before scheduling the meeting.
 
 - [x] availability
-- [ ] partner
-- [ ] unacceptable
+- [ ] cut
+- [ ] itself
 
-> **解析**：本题在单元主题情境中复习表达 availability。
+> **解析**：`availability` 不可数名词，意为“可获得性；可配合的时间/空闲”。在办公和日程安排中常指“空闲时间”。
 
 ### 2
 
-My coworker mentioned "`____`".
+Management decided to decline the proposal because it exceeded the department budget (`____`).
 
-- [x] decline
-- [ ] spreadsheet
-- [ ] call in sick
+- [x] call in sick
+- [ ] decline
+- [ ] let go
 
-> **解析**：本题在单元主题情境中复习表达 decline。
+> **解析**：`decline` 及物动词，在此处意为“礼貌地拒绝；谢绝”。对比 `reject`，`decline` 语气更为体面正式。
 
 ### 3
 
-In the meeting, I heard "`____`".
+Due to company restructuring, the firm had to let go of several junior employees for `____`.
 
-- [x] let go
-- [ ] that reminds me
+- [x] cooperate
 - [ ] in the long run
+- [ ] move on
 
-> **解析**：本题在单元主题情境中复习表达 let go。
+> **解析**：`let go of` 为动词短语，在职场场景中指“解雇；裁员（与 `lay off` 类似）”。
 
 ### 4
 
-I added "`____`" to my notes.
+Our company agreed to partner with a local technology firm to develop the application for `____`.
 
-- [x] partner
-- [ ] unacceptable
+- [x] cut
+- [ ] itself
 - [ ] on top of
 
-> **解析**：本题在单元主题情境中复习表达 partner。
+> **解析**：`partner` 动词，意为“合伙；合作”。固定搭配 `partner with sb. / a company`。
 
 ### 5
 
-The manager explained "`____`".
+The accountant organized all financial data neatly into an Excel spreadsheet for `____`.
 
-- [x] spreadsheet
-- [ ] call in sick
+- [x] decline
+- [ ] let go
 - [ ] availability
 
-> **解析**：本题在单元主题情境中复习表达 spreadsheet。
+> **解析**：`spreadsheet` 可数名词，意为“电子表格”。
 
 ### 6
 
-Our team used "`____`" today.
+That reminds me, we still need to submit our monthly expense reports by five o'clock (`____`).
 
-- [x] that reminds me
-- [ ] in the long run
-- [ ] decline
+- [x] in the long run
+- [ ] move on
+- [ ] call in sick
 
-> **解析**：本题在单元主题情境中复习表达 that reminds me。
+> **解析**：`that reminds me` 为口语过渡短语，意为“这提醒了我；想起了一件事”，用于由当前话题联想到另一件需要处理的事项。
 
 ### 7
 
-Before lunch, we checked "`____`".
+Missing project deadlines without advance notice is completely unacceptable in this firm for `____`.
 
-- [x] unacceptable
+- [x] itself
 - [ ] on top of
-- [ ] let go
+- [ ] cooperate
 
-> **解析**：本题在单元主题情境中复习表达 unacceptable。
+> **解析**：`unacceptable` 形容词，意为“无法接受的；不容许的”，由前缀 `un-` + `acceptable` 构成。
 
 ### 8
 
-My colleague asked about "`____`".
+If you wake up with a fever, you should call in sick and rest at home (`____`).
 
-- [x] call in sick
+- [x] let go
 - [ ] availability
-- [ ] partner
+- [ ] cut
 
-> **解析**：本题在单元主题情境中复习表达 call in sick。
+> **解析**：`call in sick` 动词短语，意为“打电话请病假”。
 
 ### 9
 
-The report included "`____`".
+Investing in high-quality office equipment will save money in the long run (`____`).
 
-- [x] in the long run
+- [x] move on
+- [ ] call in sick
 - [ ] decline
-- [ ] spreadsheet
 
-> **解析**：本题在单元主题情境中复习表达 in the long run。
+> **解析**：`in the long run` 介词短语作状语，意为“从长远来看；终究”。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+`____` managing the budget, she is also responsible for training new staff members.
 
 - [x] on top of
-- [ ] let go
-- [ ] that reminds me
+- [ ] cooperate
+- [ ] in the long run
 
-> **解析**：本题在单元主题情境中复习表达 on top of。
+> **解析**：`on top of` 介词短语，意为“除了……之外；加上”，后接动名词 `managing`。
 
 </quiz-cloze>

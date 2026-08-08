@@ -61,70 +61,79 @@ bring up 是本单元的核心动词短语，意为"提出（话题）"。搭配
 
 <quiz-sentence-builder>
 
-1. **中文**：在家里，我们谈到了“agree on”。  
-   **英文**：At home, we talked about "agree on".
-   > **解析**：本题在单元主题情境中复习表达 agree on。
+1. **中文**：我不想提及钱的事，但我们需要缴纳各自那份电费了。  
+   **英文**：I hate to bring up money matters, but we need to pay our share of the electricity bill (agree on).
+   > **解析**：`bring up` 是短语动词，在此处意为“提出（话题）、提起”。
 
-2. **中文**：家人提到了“belongings”。  
-   **英文**：My family mentioned "belongings".
-   > **解析**：本题在单元主题情境中复习表达 belongings。
+2. **中文**：我们制作了一张每周表格，以便大家公平分担家务。  
+   **英文**：We created a weekly chart so everyone shares household chores fairly for ask.
+   > **解析**：`chore` 是可数名词，常用复数 `chores` 表示日常家务。
 
-3. **中文**：在房间里，我注意到了“chore”。  
-   **英文**：In the room, I noticed "chore".
-   > **解析**：本题在单元主题情境中复习表达 chore。
+3. **中文**：室友们每个月应该平分共同的生活费用。  
+   **英文**：Roommates should divide shared living expenses equally every month for behavior.
+   > **解析**：`divide` 作及物动词，搭配 `divide sth equally`（平等地分摊/划分）。
 
-4. **中文**：我们在家里用到了“equally”。  
-   **英文**：We used "equally" at home.
-   > **解析**：本题在单元主题情境中复习表达 equally。
+4. **中文**：请确保把你的个人物品留在你自己的房间里。  
+   **英文**：Please make sure to keep your personal belongings in your own room.
+   > **解析**：`belongings` 复数名词，意为“个人物品、财产”。
 
-5. **中文**：邻居询问了“it would be”。  
-   **英文**：My neighbor asked about "it would be".
-   > **解析**：本题在单元主题情境中复习表达 it would be。
+5. **中文**：如果我们能每隔一段时间对公共厨房进行一次深度清洁，那就太好了。  
+   **英文**：It would be nice if we could clean the shared kitchen deep every once in a while (bird cage).
+   > **解析**：`every once in a while` 是时间副词短语，意为“偶或、每隔一段时间”。
 
-6. **中文**：我在门边写下了“please also stop”。  
-   **英文**：I wrote down "please also stop" by the door.
-   > **解析**：本题在单元主题情境中复习表达 please also stop。
+6. **中文**：如果您能在晚上10点后降低噪音，那就太棒了。  
+   **英文**：It would be great if you could keep the noise down after 10 PM (bother to).
+   > **解析**：`It would be + 形容词 + if...` 是非常具有委婉礼貌色彩的提出希望句型。
 
-7. **中文**：晚饭后，我们重复了“remind me not to”。  
-   **英文**：After dinner, we repeated "remind me not to".
-   > **解析**：本题在单元主题情境中复习表达 remind me not to。
+7. **中文**：他休假离开前甚至都没费心去倒垃圾。  
+   **英文**：He didn't even bother to take out the trash before leaving for vacation (bring up).
+   > **解析**：`bother to do sth` 意为“费心去做某事”，常用否定句。
 
-8. **中文**：家庭故事里包含“ask”。  
-   **英文**：The family story included "ask".
-   > **解析**：本题在单元主题情境中复习表达 ask。
+8. **中文**：我们需要坐下来，就一套基本室友守则达成一致。  
+   **英文**：We need to sit down and agree on a set of basic house rules for chore.
+   > **解析**：`agree on sth` 是短语动词，意为“就……达成一致意见”。
 
-9. **中文**：睡前，我记住了“bother to”。  
-   **英文**：Before bed, I remembered "bother to".
-   > **解析**：本题在单元主题情境中复习表达 bother to。
+9. **中文**：你能保证在没有事先询问的情况下不使用我的厨房用具吗？  
+   **英文**：Could you promise not to use my kitchen appliances without asking first? for clear.
+   > **解析**：`promise not to do sth` 意为“承诺不做某事”。
 
-10. **中文**：那个夜晚以“clear”收尾。  
-   **英文**：That evening ended with "clear".
-   > **解析**：本题在单元主题情境中复习表达 clear。
+10. **中文**：他邋遢的习惯和吵闹的行为开始打扰到其他室友了。  
+   **英文**：His messy habits and noisy behavior are starting to bother the other roommates for divide.
+   > **解析**：`behavior` 是不可数名词，意为“行为、举止”，作主语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At home, we talked about "agree on".
-   > **中文**：在家里，我们谈到了“agree on”。
-2. My family mentioned "belongings".
-   > **中文**：家人提到了“belongings”。
-3. In the room, I noticed "chore".
-   > **中文**：在房间里，我注意到了“chore”。
-4. We used "equally" at home.
-   > **中文**：我们在家里用到了“equally”。
-5. My neighbor asked about "it would be".
-   > **中文**：邻居询问了“it would be”。
-6. I wrote down "please also stop" by the door.
-   > **中文**：我在门边写下了“please also stop”。
-7. After dinner, we repeated "remind me not to".
-   > **中文**：晚饭后，我们重复了“remind me not to”。
-8. The family story included "ask".
-   > **中文**：家庭故事里包含“ask”。
-9. Before bed, I remembered "bother to".
-   > **中文**：睡前，我记住了“bother to”。
-10. That evening ended with "clear".
-   > **中文**：那个夜晚以“clear”收尾。
+1. I hate to bring up money matters, but we need to pay our share of the electricity bill (agree on).
+   > **中文**：我不想提及钱的事，但我们需要缴纳各自那份电费了。
+
+2. We created a weekly chart so everyone shares household chores fairly for ask.
+   > **中文**：我们制作了一张每周表格，以便大家公平分担家务。
+
+3. Roommates should divide shared living expenses equally every month for behavior.
+   > **中文**：室友们每个月应该平分共同的生活费用。
+
+4. Please make sure to keep your personal belongings in your own room.
+   > **中文**：请确保把你的个人物品留在你自己的房间里。
+
+5. It would be nice if we could clean the shared kitchen deep every once in a while (bird cage).
+   > **中文**：如果我们能每隔一段时间对公共厨房进行一次深度清洁，那就太好了。
+
+6. It would be great if you could keep the noise down after 10 PM (bother to).
+   > **中文**：如果您能在晚上10点后降低噪音，那就太棒了。
+
+7. He didn't even bother to take out the trash before leaving for vacation (bring up).
+   > **中文**：他休假离开前甚至都没费心去倒垃圾。
+
+8. We need to sit down and agree on a set of basic house rules for chore.
+   > **中文**：我们需要坐下来，就一套基本室友守则达成一致。
+
+9. Could you promise not to use my kitchen appliances without asking first? for clear.
+   > **中文**：你能保证在没有事先询问的情况下不使用我的厨房用具吗？
+
+10. His messy habits and noisy behavior are starting to bother the other roommates for divide.
+   > **中文**：他邋遢的习惯和吵闹的行为开始打扰到其他室友了。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ bring up 是本单元的核心动词短语，意为"提出（话题）"。搭配
 
 ### 1
 
-At home, we talked about "`____`".
+I hate to bring up money matters, but we need to pay our share of the electricity bill (`____`).
 
 - [x] agree on
-- [ ] equally
-- [ ] remind me not to
+- [ ] belongings
+- [ ] bring up
 
-> **解析**：本题在单元主题情境中复习表达 agree on。
+> **解析**：`bring up` 是短语动词，在此处意为“提出（话题）、提起”。
 
 ### 2
 
-My family mentioned "`____`".
+We created a weekly chart so everyone shares household chores fairly for `____`.
 
-- [x] belongings
-- [ ] it would be
-- [ ] ask
+- [x] ask
+- [ ] bird cage
+- [ ] chore
 
-> **解析**：本题在单元主题情境中复习表达 belongings。
+> **解析**：`chore` 是可数名词，常用复数 `chores` 表示日常家务。
 
 ### 3
 
-In the room, I noticed "`____`".
+Roommates should divide shared living expenses equally every month for `____`.
 
-- [x] chore
-- [ ] please also stop
+- [x] behavior
 - [ ] bother to
+- [ ] clear
 
-> **解析**：本题在单元主题情境中复习表达 chore。
+> **解析**：`divide` 作及物动词，搭配 `divide sth equally`（平等地分摊/划分）。
 
 ### 4
 
-We used "`____`" at home.
+Please make sure to keep your personal `____` in your own room.
 
-- [x] equally
-- [ ] remind me not to
-- [ ] clear
+- [x] belongings
+- [ ] bring up
+- [ ] divide
 
-> **解析**：本题在单元主题情境中复习表达 equally。
+> **解析**：`belongings` 复数名词，意为“个人物品、财产”。
 
 ### 5
 
-My neighbor asked about "`____`".
+It would be nice if we could clean the shared kitchen deep every once in a while (`____`).
 
-- [x] it would be
-- [ ] ask
+- [x] bird cage
+- [ ] chore
 - [ ] agree on
 
-> **解析**：本题在单元主题情境中复习表达 it would be。
+> **解析**：`every once in a while` 是时间副词短语，意为“偶或、每隔一段时间”。
 
 ### 6
 
-I wrote down "`____`" by the door.
+It would be great if you could keep the noise down after 10 PM (`____`).
 
-- [x] please also stop
-- [ ] bother to
-- [ ] belongings
+- [x] bother to
+- [ ] clear
+- [ ] ask
 
-> **解析**：本题在单元主题情境中复习表达 please also stop。
+> **解析**：`It would be + 形容词 + if...` 是非常具有委婉礼貌色彩的提出希望句型。
 
 ### 7
 
-After dinner, we repeated "`____`".
+He didn't even bother to take out the trash before leaving for vacation (`____`).
 
-- [x] remind me not to
-- [ ] clear
-- [ ] chore
+- [x] bring up
+- [ ] divide
+- [ ] behavior
 
-> **解析**：本题在单元主题情境中复习表达 remind me not to。
+> **解析**：`bother to do sth` 意为“费心去做某事”，常用否定句。
 
 ### 8
 
-The family story included "`____`".
+We need to sit down and agree on a set of basic house rules for `____`.
 
-- [x] ask
+- [x] chore
 - [ ] agree on
-- [ ] equally
+- [ ] belongings
 
-> **解析**：本题在单元主题情境中复习表达 ask。
+> **解析**：`agree on sth` 是短语动词，意为“就……达成一致意见”。
 
 ### 9
 
-Before bed, I remembered "`____`".
+Could you promise not to use my kitchen appliances without asking first? for `____`.
 
-- [x] bother to
-- [ ] belongings
-- [ ] it would be
+- [x] clear
+- [ ] ask
+- [ ] bird cage
 
-> **解析**：本题在单元主题情境中复习表达 bother to。
+> **解析**：`promise not to do sth` 意为“承诺不做某事”。
 
 ### 10
 
-That evening ended with "`____`".
+His messy habits and noisy behavior are starting to bother the other roommates for `____`.
 
-- [x] clear
-- [ ] chore
-- [ ] please also stop
+- [x] divide
+- [ ] behavior
+- [ ] bother to
 
-> **解析**：本题在单元主题情境中复习表达 clear。
+> **解析**：`behavior` 是不可数名词，意为“行为、举止”，作主语。
 
 </quiz-cloze>

@@ -53,70 +53,79 @@ but, by, convince, could, doubt that, lamb, option, point, politely, progress, r
 
 <quiz-sentence-builder>
 
-1. **中文**：谈论喜好时，我听到了“convince”。  
-   **英文**：When we talked about favorites, I heard "convince".
-   > **解析**：本题在单元主题情境中复习表达 convince。
+1. **中文**：我推荐点烤羊肉，因为这是这里的招牌菜。  
+   **英文**：I would recommend ordering the grilled lamb because it is the specialty here for but.
+   > **解析**：recommend 动词，意为“推荐”，后可接名词、代词或动名词（doing），常用于提出餐饮建议；句中 would 增加委婉客气的礼貌语气。
 
-2. **中文**：朋友说“lamb”很重要。  
-   **英文**：My friend said "lamb" was important.
-   > **解析**：本题在单元主题情境中复习表达 lamb。
+2. **中文**：如果你喜欢嫩肉，香草烤羊肉是个极佳的选择。  
+   **英文**：If you enjoy tender meat, the roast lamb with herbs is an excellent choice for by.
+   > **解析**：lamb 名词，指“羊肉”（不可数）或“小羊”（可数），在餐饮语境中常用作主菜说明。
 
-3. **中文**：我问他们喜欢哪一个：“politely”。  
-   **英文**：I asked which one they liked: "politely".
-   > **解析**：本题在单元主题情境中复习表达 politely。
+3. **中文**：我们的菜单为纯素食者提供几种美味的素食选择。  
+   **英文**：Our menu features several delicious vegetarian options for plant-based diets for convince.
+   > **解析**：vegetarian 可作形容词“素食的”或名词“素食主义者”，在此作形容词修饰名词 options。
 
-4. **中文**：聊天时，我们比较了“resort”。  
-   **英文**：In our chat, we compared "resort".
-   > **解析**：本题在单元主题情境中复习表达 resort。
+4. **中文**：如果你喜欢更清淡的餐食，新鲜的花园沙拉是另一个健康的选择。  
+   **英文**：If you prefer a lighter meal, a fresh garden salad is another healthy option for could.
+   > **解析**：option 可数名词，表示“选择；可选项”，比 choice 更强调供挑选的具体项目。
 
-5. **中文**：同伴先选择了“souvenir”。  
-   **英文**：My partner chose "souvenir" first.
-   > **解析**：本题在单元主题情境中复习表达 souvenir。
+5. **中文**：服务员成功说服我们尝尝他们的招牌甜点。  
+   **英文**：The server managed to convince us to try their signature dessert (doubt that).
+   > **解析**：convince 动词，意为“说服”，常用结构为 convince somebody to do something（说服某人做某事）。
 
-6. **中文**：我们用“we would”描述喜好。  
-   **英文**：We used "we would" to describe a favorite.
-   > **解析**：本题在单元主题情境中复习表达 we would。
+6. **中文**：我怀疑如果没有提前预订，他们是否还会有空桌。  
+   **英文**：I doubt that they will have any open tables without a prior reservation for lamb.
+   > **解析**：doubt that 为常用宾语从句句型，意为“怀疑……；认为……未必”，表达对某种可能性的怀疑。
 
-7. **中文**：答案中包含“you'd”。  
-   **英文**：The answer included "you'd".
-   > **解析**：本题在单元主题情境中复习表达 you'd。
+7. **中文**：这座海滨度假村以新鲜的海鲜和浪漫的风景而闻名。  
+   **英文**：This seaside resort is famous for its fresh seafood and romantic views for option.
+   > **解析**：resort 名词，意为“度假胜地；度假村”，常与 seaside、beach 等连用说明类型。
 
-8. **中文**：我从对话中记住了“doubt that”。  
-   **英文**：I remembered "doubt that" from the conversation.
-   > **解析**：本题在单元主题情境中复习表达 doubt that。
+8. **中文**：女服务员礼貌地推荐了主厨今日特例汤品。  
+   **英文**：The waitress politely recommended the chef's special soup of the day for point.
+   > **解析**：politely 副词，意为“礼貌地”，由形容词 polite 加后缀 -ly 构成，修饰动词 recommended。
 
-9. **中文**：朋友微笑着重复了“point”。  
-   **英文**：My friend repeated "point" with a smile.
-   > **解析**：本题在单元主题情境中复习表达 point。
+9. **中文**：在离开山庄度假村之前，我们买了一件漂亮的手工纪念品。  
+   **英文**：Before leaving the mountain resort, we bought a beautiful handmade souvenir for politely.
+   > **解析**：souvenir 可数名词，意为“纪念品”，来源于法语，指留作纪念的物品。
 
-10. **中文**：那场关于喜好的聊天以“recommend”收尾。  
-   **英文**：That chat about favorites ended with "recommend".
-   > **解析**：本题在单元主题情境中复习表达 recommend。
+10. **中文**：她提出了很有道理的一点，即我们应该先查看饮品价格。  
+   **英文**：She made a valid point that we should check the drink prices first for progress.
+   > **解析**：point 名词，在此意为“观点；要点”，短语 make a point 表示“提出观点/看法”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. When we talked about favorites, I heard "convince".
-   > **中文**：谈论喜好时，我听到了“convince”。
-2. My friend said "lamb" was important.
-   > **中文**：朋友说“lamb”很重要。
-3. I asked which one they liked: "politely".
-   > **中文**：我问他们喜欢哪一个：“politely”。
-4. In our chat, we compared "resort".
-   > **中文**：聊天时，我们比较了“resort”。
-5. My partner chose "souvenir" first.
-   > **中文**：同伴先选择了“souvenir”。
-6. We used "we would" to describe a favorite.
-   > **中文**：我们用“we would”描述喜好。
-7. The answer included "you'd".
-   > **中文**：答案中包含“you'd”。
-8. I remembered "doubt that" from the conversation.
-   > **中文**：我从对话中记住了“doubt that”。
-9. My friend repeated "point" with a smile.
-   > **中文**：朋友微笑着重复了“point”。
-10. That chat about favorites ended with "recommend".
-   > **中文**：那场关于喜好的聊天以“recommend”收尾。
+1. I would recommend ordering the grilled lamb because it is the specialty here for but.
+   > **中文**：我推荐点烤羊肉，因为这是这里的招牌菜。
+
+2. If you enjoy tender meat, the roast lamb with herbs is an excellent choice for by.
+   > **中文**：如果你喜欢嫩肉，香草烤羊肉是个极佳的选择。
+
+3. Our menu features several delicious vegetarian options for plant-based diets for convince.
+   > **中文**：我们的菜单为纯素食者提供几种美味的素食选择。
+
+4. If you prefer a lighter meal, a fresh garden salad is another healthy option for could.
+   > **中文**：如果你喜欢更清淡的餐食，新鲜的花园沙拉是另一个健康的选择。
+
+5. The server managed to convince us to try their signature dessert (doubt that).
+   > **中文**：服务员成功说服我们尝尝他们的招牌甜点。
+
+6. I doubt that they will have any open tables without a prior reservation for lamb.
+   > **中文**：我怀疑如果没有提前预订，他们是否还会有空桌。
+
+7. This seaside resort is famous for its fresh seafood and romantic views for option.
+   > **中文**：这座海滨度假村以新鲜的海鲜和浪漫的风景而闻名。
+
+8. The waitress politely recommended the chef's special soup of the day for point.
+   > **中文**：女服务员礼貌地推荐了主厨今日特例汤品。
+
+9. Before leaving the mountain resort, we bought a beautiful handmade souvenir for politely.
+   > **中文**：在离开山庄度假村之前，我们买了一件漂亮的手工纪念品。
+
+10. She made a valid point that we should check the drink prices first for progress.
+   > **中文**：她提出了很有道理的一点，即我们应该先查看饮品价格。
 
 </quiz-listening>
 
@@ -128,102 +137,102 @@ but, by, convince, could, doubt that, lamb, option, point, politely, progress, r
 
 ### 1
 
-When we talked about favorites, I heard "`____`".
+I would recommend ordering the grilled lamb because it is the specialty here for `____`.
 
-- [x] convince
-- [ ] resort
-- [ ] you'd
+- [x] but
+- [ ] could
+- [ ] option
 
-> **解析**：本题在单元主题情境中复习表达 convince。
+> **解析**：recommend 动词，意为“推荐”，后可接名词、代词或动名词（doing），常用于提出餐饮建议；句中 would 增加委婉客气的礼貌语气。
 
 ### 2
 
-My friend said "`____`" was important.
+If you enjoy tender meat, the roast lamb with herbs is an excellent choice for `____`.
 
-- [x] lamb
-- [ ] souvenir
+- [x] by
 - [ ] doubt that
+- [ ] point
 
-> **解析**：本题在单元主题情境中复习表达 lamb。
+> **解析**：lamb 名词，指“羊肉”（不可数）或“小羊”（可数），在餐饮语境中常用作主菜说明。
 
 ### 3
 
-I asked which one they liked: "`____`".
+Our menu features several delicious vegetarian options for plant-based diets for `____`.
 
-- [x] politely
-- [ ] we would
-- [ ] point
+- [x] convince
+- [ ] lamb
+- [ ] politely
 
-> **解析**：本题在单元主题情境中复习表达 politely。
+> **解析**：vegetarian 可作形容词“素食的”或名词“素食主义者”，在此作形容词修饰名词 options。
 
 ### 4
 
-In our chat, we compared "`____`".
+If you prefer a lighter meal, a fresh garden salad is another healthy option for `____`.
 
-- [x] resort
-- [ ] you'd
-- [ ] recommend
+- [x] could
+- [ ] option
+- [ ] progress
 
-> **解析**：本题在单元主题情境中复习表达 resort。
+> **解析**：option 可数名词，表示“选择；可选项”，比 choice 更强调供挑选的具体项目。
 
 ### 5
 
-My partner chose "`____`" first.
+The server managed to convince us to try their signature dessert (`____`).
 
-- [x] souvenir
-- [ ] doubt that
-- [ ] convince
+- [x] doubt that
+- [ ] point
+- [ ] but
 
-> **解析**：本题在单元主题情境中复习表达 souvenir。
+> **解析**：convince 动词，意为“说服”，常用结构为 convince somebody to do something（说服某人做某事）。
 
 ### 6
 
-We used "`____`" to describe a favorite.
+I doubt that they will have any open tables without a prior reservation for `____`.
 
-- [x] we would
-- [ ] point
-- [ ] lamb
+- [x] lamb
+- [ ] politely
+- [ ] by
 
-> **解析**：本题在单元主题情境中复习表达 we would。
+> **解析**：doubt that 为常用宾语从句句型，意为“怀疑……；认为……未必”，表达对某种可能性的怀疑。
 
 ### 7
 
-The answer included "`____`".
+This seaside resort is famous for its fresh seafood and romantic views for `____`.
 
-- [x] you'd
-- [ ] recommend
-- [ ] politely
+- [x] option
+- [ ] progress
+- [ ] convince
 
-> **解析**：本题在单元主题情境中复习表达 you'd。
+> **解析**：resort 名词，意为“度假胜地；度假村”，常与 seaside、beach 等连用说明类型。
 
 ### 8
 
-I remembered "`____`" from the conversation.
+The waitress politely recommended the chef's special soup of the day for `____`.
 
-- [x] doubt that
-- [ ] convince
-- [ ] resort
+- [x] point
+- [ ] but
+- [ ] could
 
-> **解析**：本题在单元主题情境中复习表达 doubt that。
+> **解析**：politely 副词，意为“礼貌地”，由形容词 polite 加后缀 -ly 构成，修饰动词 recommended。
 
 ### 9
 
-My friend repeated "`____`" with a smile.
+Before leaving the mountain resort, we bought a beautiful handmade souvenir for `____`.
 
-- [x] point
-- [ ] lamb
-- [ ] souvenir
+- [x] politely
+- [ ] by
+- [ ] doubt that
 
-> **解析**：本题在单元主题情境中复习表达 point。
+> **解析**：souvenir 可数名词，意为“纪念品”，来源于法语，指留作纪念的物品。
 
 ### 10
 
-That chat about favorites ended with "`____`".
+She made a valid point that we should check the drink prices first for `____`.
 
-- [x] recommend
-- [ ] politely
-- [ ] we would
+- [x] progress
+- [ ] convince
+- [ ] lamb
 
-> **解析**：本题在单元主题情境中复习表达 recommend。
+> **解析**：point 名词，在此意为“观点；要点”，短语 make a point 表示“提出观点/看法”。
 
 </quiz-cloze>

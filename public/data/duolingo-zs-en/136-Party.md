@@ -61,70 +61,79 @@ in my opinion 表示"在我看来"。sound like / seem like / look like 表示"�
 
 <quiz-sentence-builder>
 
-1. **中文**：在餐厅里，我询问了“although”。  
-   **英文**：At the restaurant, I asked about "although".
-   > **解析**：本题在单元主题情境中复习表达 although。
+1. **中文**：既然周五是我的休息日，我可以一整天帮忙布置派对装饰。  
+   **英文**：Since Friday is my day off, I can help organize the party decorations all day for although.
+   > **解析**：day off 为名词短语，意为“休息日、休假”。on one's day off 表示“在某人的休息日”。
 
-2. **中文**：菜单上有“day off”。  
-   **英文**：The menu included "day off".
-   > **解析**：本题在单元主题情境中复习表达 day off。
+2. **中文**：在我看来，请一个现场乐队会让生日派对更加热闹。  
+   **英文**：In my opinion, hiring a live band will make the birthday party more lively for cabbage.
+   > **解析**：in my opinion 为固定介词短语，置于句首作插入语/状语，意为“在我看来、依我之见”。表达个人观点。
 
-3. **中文**：在餐桌旁，我们谈到了“lift”。  
-   **英文**：At the table, we talked about "lift".
-   > **解析**：本题在单元主题情境中复习表达 lift。
+3. **中文**：夏威夷海滩主题听起来是个绝妙的派对主意！  
+   **英文**：Hawaiian beach themes sound like a fantastic idea for the party for chili.
+   > **解析**：sound like 为动词短语，意为“听起来像”。后接名词或名词短语（a fantastic idea）。
 
-4. **中文**：厨师提到了“pea”。  
-   **英文**：The cook mentioned "pea".
-   > **解析**：本题在单元主题情境中复习表达 pea。
+4. **中文**：我们应当为派对菜单订购新鲜的烤虾和点心。  
+   **英文**：We should order fresh grilled shrimp and snacks for the party menu (day off).
+   > **解析**：shrimp 为名词，意为“虾、大虾”。grilled shrimp 表示“烤虾”。单复数形式同形或加 -s。
 
-5. **中文**：晚餐我点了“roll”。  
-   **英文**：I ordered "roll" for dinner.
-   > **解析**：本题在单元主题情境中复习表达 roll。
+5. **中文**：大卫因为出差不能来参加派对，真是太可惜了。  
+   **英文**：It is too bad that David cannot come to the party because of a business trip for imagine.
+   > **解析**：too bad 为固定表达，意为“太遗憾了、太可惜了”。It is too bad that... 引导从句，表达遗憾之情。
 
-6. **中文**：我的朋友选择了“shrimp”。  
-   **英文**：My friend chose "shrimp".
-   > **解析**：本题在单元主题情境中复习表达 shrimp。
+6. **中文**：我们邀请的几乎每个人都给予了积极的回应。  
+   **英文**：We received a positive response from almost everyone we invited to the event (in my opinion).
+   > **解析**：response 为名词，意为“回应、回复”。receive a positive response 表示“收到积极回应”。与介词 to 搭配（response to the invitation）。
 
-7. **中文**：服务员重复了“which”。  
-   **英文**：The waiter repeated "which".
-   > **解析**：本题在单元主题情境中复习表达 which。
+7. **中文**：我们需要弄清楚场地是否允许外部餐饮服务。  
+   **英文**：We need to find out whether the venue allows outside catering services for increase.
+   > **解析**：whether 为连词，引导宾语从句，意为“是否”。与 or not 连用（whether or not...）。
 
-8. **中文**：我们分享了一个关于“cabbage”的故事。  
-   **英文**：We shared a story about "cabbage".
-   > **解析**：本题在单元主题情境中复习表达 cabbage。
+8. **中文**：虽然预算紧缺，我们仍然可以举办一次令人难忘的欢送派对。  
+   **英文**：Although the budget is tight, we can still host a memorable farewell party for lift.
+   > **解析**：although 为从属连词，引导让步状语从句，意为“虽然、尽管”。注意不能与 but 在同一个句子中连用。
 
-9. **中文**：饭后，我记住了“in my opinion”。  
-   **英文**：After the meal, I remembered "in my opinion".
-   > **解析**：本题在单元主题情境中复习表达 in my opinion。
+9. **中文**：有了五彩斑斓的气球，场地看起来可以像一座童话宫殿。  
+   **英文**：With colorful balloons, the venue can look like a fairy palace.
+   > **解析**：look like 为动词短语，意为“看起来像”。后接名词短语（a fairy palace）。
 
-10. **中文**：那顿饭以“look like”收尾。  
-   **英文**：That meal ended with "look like".
-   > **解析**：本题在单元主题情境中复习表达 look like。
+10. **中文**：我无法想象当她看到这个惊喜派对时会有多激动！  
+   **英文**：I cannot imagine how excited she will be when she sees the surprise party for pay.
+   > **解析**：imagine 为动词，意为“想象”。后接感叹句/疑问词引导的宾语从句（how excited she will be）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the restaurant, I asked about "although".
-   > **中文**：在餐厅里，我询问了“although”。
-2. The menu included "day off".
-   > **中文**：菜单上有“day off”。
-3. At the table, we talked about "lift".
-   > **中文**：在餐桌旁，我们谈到了“lift”。
-4. The cook mentioned "pea".
-   > **中文**：厨师提到了“pea”。
-5. I ordered "roll" for dinner.
-   > **中文**：晚餐我点了“roll”。
-6. My friend chose "shrimp".
-   > **中文**：我的朋友选择了“shrimp”。
-7. The waiter repeated "which".
-   > **中文**：服务员重复了“which”。
-8. We shared a story about "cabbage".
-   > **中文**：我们分享了一个关于“cabbage”的故事。
-9. After the meal, I remembered "in my opinion".
-   > **中文**：饭后，我记住了“in my opinion”。
-10. That meal ended with "look like".
-   > **中文**：那顿饭以“look like”收尾。
+1. Since Friday is my day off, I can help organize the party decorations all day for although.
+   > **中文**：既然周五是我的休息日，我可以一整天帮忙布置派对装饰。
+
+2. In my opinion, hiring a live band will make the birthday party more lively for cabbage.
+   > **中文**：在我看来，请一个现场乐队会让生日派对更加热闹。
+
+3. Hawaiian beach themes sound like a fantastic idea for the party for chili.
+   > **中文**：夏威夷海滩主题听起来是个绝妙的派对主意！
+
+4. We should order fresh grilled shrimp and snacks for the party menu (day off).
+   > **中文**：我们应当为派对菜单订购新鲜的烤虾和点心。
+
+5. It is too bad that David cannot come to the party because of a business trip for imagine.
+   > **中文**：大卫因为出差不能来参加派对，真是太可惜了。
+
+6. We received a positive response from almost everyone we invited to the event (in my opinion).
+   > **中文**：我们邀请的几乎每个人都给予了积极的回应。
+
+7. We need to find out whether the venue allows outside catering services for increase.
+   > **中文**：我们需要弄清楚场地是否允许外部餐饮服务。
+
+8. Although the budget is tight, we can still host a memorable farewell party for lift.
+   > **中文**：虽然预算紧缺，我们仍然可以举办一次令人难忘的欢送派对。
+
+9. With colorful balloons, the venue can look like a fairy palace.
+   > **中文**：有了五彩斑斓的气球，场地看起来可以像一座童话宫殿。
+
+10. I cannot imagine how excited she will be when she sees the surprise party for pay.
+   > **中文**：我无法想象当她看到这个惊喜派对时会有多激动！
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ in my opinion 表示"在我看来"。sound like / seem like / look like 表示"�
 
 ### 1
 
-At the restaurant, I asked about "`____`".
+Since Friday is my day off, I can help organize the party decorations all day for `____`.
 
 - [x] although
-- [ ] pea
-- [ ] which
+- [ ] day off
+- [ ] increase
 
-> **解析**：本题在单元主题情境中复习表达 although。
+> **解析**：day off 为名词短语，意为“休息日、休假”。on one's day off 表示“在某人的休息日”。
 
 ### 2
 
-The menu included "`____`".
+In my opinion, hiring a live band will make the birthday party more lively for `____`.
 
-- [x] day off
-- [ ] roll
-- [ ] cabbage
+- [x] cabbage
+- [ ] imagine
+- [ ] lift
 
-> **解析**：本题在单元主题情境中复习表达 day off。
+> **解析**：in my opinion 为固定介词短语，置于句首作插入语/状语，意为“在我看来、依我之见”。表达个人观点。
 
 ### 3
 
-At the table, we talked about "`____`".
+Hawaiian beach themes sound like a fantastic idea for the party for `____`.
 
-- [x] lift
-- [ ] shrimp
+- [x] chili
 - [ ] in my opinion
+- [ ] look like
 
-> **解析**：本题在单元主题情境中复习表达 lift。
+> **解析**：sound like 为动词短语，意为“听起来像”。后接名词或名词短语（a fantastic idea）。
 
 ### 4
 
-The cook mentioned "`____`".
+We should order fresh grilled shrimp and snacks for the party menu (`____`).
 
-- [x] pea
-- [ ] which
-- [ ] look like
+- [x] day off
+- [ ] increase
+- [ ] pay
 
-> **解析**：本题在单元主题情境中复习表达 pea。
+> **解析**：shrimp 为名词，意为“虾、大虾”。grilled shrimp 表示“烤虾”。单复数形式同形或加 -s。
 
 ### 5
 
-I ordered "`____`" for dinner.
+It is too bad that David cannot come to the party because of a business trip for `____`.
 
-- [x] roll
-- [ ] cabbage
+- [x] imagine
+- [ ] lift
 - [ ] although
 
-> **解析**：本题在单元主题情境中复习表达 roll。
+> **解析**：too bad 为固定表达，意为“太遗憾了、太可惜了”。It is too bad that... 引导从句，表达遗憾之情。
 
 ### 6
 
-My friend chose "`____`".
+We received a positive response from almost everyone we invited to the event (`____`).
 
-- [x] shrimp
-- [ ] in my opinion
-- [ ] day off
+- [x] in my opinion
+- [ ] look like
+- [ ] cabbage
 
-> **解析**：本题在单元主题情境中复习表达 shrimp。
+> **解析**：response 为名词，意为“回应、回复”。receive a positive response 表示“收到积极回应”。与介词 to 搭配（response to the invitation）。
 
 ### 7
 
-The waiter repeated "`____`".
+We need to find out whether the venue allows outside catering services for `____`.
 
-- [x] which
-- [ ] look like
-- [ ] lift
+- [x] increase
+- [ ] pay
+- [ ] chili
 
-> **解析**：本题在单元主题情境中复习表达 which。
+> **解析**：whether 为连词，引导宾语从句，意为“是否”。与 or not 连用（whether or not...）。
 
 ### 8
 
-We shared a story about "`____`".
+Although the budget is tight, we can still host a memorable farewell party for `____`.
 
-- [x] cabbage
+- [x] lift
 - [ ] although
-- [ ] pea
+- [ ] day off
 
-> **解析**：本题在单元主题情境中复习表达 cabbage。
+> **解析**：although 为从属连词，引导让步状语从句，意为“虽然、尽管”。注意不能与 but 在同一个句子中连用。
 
 ### 9
 
-After the meal, I remembered "`____`".
+With colorful balloons, the venue can `____` a fairy palace.
 
-- [x] in my opinion
-- [ ] day off
-- [ ] roll
+- [x] look like
+- [ ] cabbage
+- [ ] imagine
 
-> **解析**：本题在单元主题情境中复习表达 in my opinion。
+> **解析**：look like 为动词短语，意为“看起来像”。后接名词短语（a fairy palace）。
 
 ### 10
 
-That meal ended with "`____`".
+I cannot imagine how excited she will be when she sees the surprise party for `____`.
 
-- [x] look like
-- [ ] lift
-- [ ] shrimp
+- [x] pay
+- [ ] chili
+- [ ] in my opinion
 
-> **解析**：本题在单元主题情境中复习表达 look like。
+> **解析**：imagine 为动词，意为“想象”。后接感叹句/疑问词引导的宾语从句（how excited she will be）。
 
 </quiz-cloze>

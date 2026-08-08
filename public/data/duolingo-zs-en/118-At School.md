@@ -61,70 +61,79 @@ confusing 描述事物（令人困惑），confused 描述人（感到困惑）�
 
 <quiz-sentence-builder>
 
-1. **中文**：课堂上，老师介绍了“attend”。  
-   **英文**：In class, the teacher introduced "attend".
-   > **解析**：本题在单元主题情境中复习表达 attend。
+1. **中文**：我需要为生物课写一篇三页的关于环境保护的论文。  
+   **英文**：I need to write a three-page essay on environmental protection for biology class for attend.
+   > **解析**：essay 作可数名词，意为“论文，短文”。在句中作 write 的宾语。
 
-2. **中文**：我把“confusing”写进笔记本。  
-   **英文**：I wrote "confusing" in my notebook.
-   > **解析**：本题在单元主题情境中复习表达 confusing。
+2. **中文**：请在参加明天的课程之前阅读教科书的第五章。  
+   **英文**：Please read chapter five of the textbook before attending tomorrow's class for campus.
+   > **解析**：chapter 作可数名词，意为“章节，篇章”。chapter five 表示“第五章”。
 
-3. **中文**：同学解释了“dorm”。  
-   **英文**：My classmate explained "dorm".
-   > **解析**：本题在单元主题情境中复习表达 dorm。
+3. **中文**：这个数学公式有点令人困惑，所以我向老师寻求帮助。  
+   **英文**：The math formula was a bit confusing, so I asked the teacher for help for certificate.
+   > **解析**：confusing 作形容词，意为“令人困惑的，难懂的”。作表语。
 
-4. **中文**：我们一起练习了“intermediate”。  
-   **英文**：We practiced "intermediate" together.
-   > **解析**：本题在单元主题情境中复习表达 intermediate。
+4. **中文**：教授指出了我作业里的错误答案。  
+   **英文**：The professor pointed out the incorrect answer in my assignment for chapter.
+   > **解析**：incorrect 作形容词，意为“不正确的，错误的”。修饰 answer。
 
-5. **中文**：作业里包含“pick”。  
-   **英文**：The homework included "pick".
-   > **解析**：本题在单元主题情境中复习表达 pick。
+5. **中文**：米勒博士做了一场关于欧洲现代史的精彩讲座。  
+   **英文**：Dr. Miller delivered an engaging lecture on modern European history for confusing.
+   > **解析**：lecture 作可数名词，意为“讲座，演讲”。deliver a lecture 意为“做讲座”。
 
-6. **中文**：我向老师询问了“review”。  
-   **英文**：I asked the teacher about "review".
-   > **解析**：本题在单元主题情境中复习表达 review。
+6. **中文**：理科生在大学实验室里做化学实验。  
+   **英文**：Science students conduct chemistry experiments in the university laboratory for description.
+   > **解析**：laboratory (简称 lab) 作名词，意为“实验室”。
 
-7. **中文**：上课时，我听到了“underline”。  
-   **英文**：During the lesson, I heard "underline".
-   > **解析**：本题在单元主题情境中复习表达 underline。
+7. **中文**：我和室友在我们的宿舍房间里复习期中考试。  
+   **英文**：My roommate and I studied for the mid-term exam in our dorm room (dining hall).
+   > **解析**：dorm 作名词，意为“宿舍”。dorm room 表示“宿舍房间”。
 
-8. **中文**：学习伙伴记住了“campus”。  
-   **英文**：My study partner remembered "campus".
-   > **解析**：本题在单元主题情境中复习表达 campus。
+8. **中文**：快点，否则我们听历史讲座就要迟到了！  
+   **英文**：Hurry up or we will be late for the history lecture for dorm.
+   > **解析**：hurry up 为常用短语祈使句，意为“抓紧，快点”。
 
-9. **中文**：我们在例句中用到了“description”。  
-   **英文**：We used "description" in an example.
-   > **解析**：本题在单元主题情境中复习表达 description。
+9. **中文**：你能帮我把这个句子翻译成地道的英语吗？  
+   **英文**：Could you help me translate this sentence into natural English? for essay.
+   > **解析**：translate 作及物动词，意为“翻译”。translate A into B 意为“把A翻译成B”。
 
-10. **中文**：下课后，我复习了“hurry up”。  
-   **英文**：After class, I reviewed "hurry up".
-   > **解析**：本题在单元主题情境中复习表达 hurry up。
+10. **中文**：在字典里查找生词的意思以丰富知识。  
+   **英文**：Look up the meaning of unfamiliar words in a dictionary to expand your knowledge (hurry up).
+   > **解析**：meaning 作名词，意为“意思，含义”。meaning of words 表示“单词的意思”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In class, the teacher introduced "attend".
-   > **中文**：课堂上，老师介绍了“attend”。
-2. I wrote "confusing" in my notebook.
-   > **中文**：我把“confusing”写进笔记本。
-3. My classmate explained "dorm".
-   > **中文**：同学解释了“dorm”。
-4. We practiced "intermediate" together.
-   > **中文**：我们一起练习了“intermediate”。
-5. The homework included "pick".
-   > **中文**：作业里包含“pick”。
-6. I asked the teacher about "review".
-   > **中文**：我向老师询问了“review”。
-7. During the lesson, I heard "underline".
-   > **中文**：上课时，我听到了“underline”。
-8. My study partner remembered "campus".
-   > **中文**：学习伙伴记住了“campus”。
-9. We used "description" in an example.
-   > **中文**：我们在例句中用到了“description”。
-10. After class, I reviewed "hurry up".
-   > **中文**：下课后，我复习了“hurry up”。
+1. I need to write a three-page essay on environmental protection for biology class for attend.
+   > **中文**：我需要为生物课写一篇三页的关于环境保护的论文。
+
+2. Please read chapter five of the textbook before attending tomorrow's class for campus.
+   > **中文**：请在参加明天的课程之前阅读教科书的第五章。
+
+3. The math formula was a bit confusing, so I asked the teacher for help for certificate.
+   > **中文**：这个数学公式有点令人困惑，所以我向老师寻求帮助。
+
+4. The professor pointed out the incorrect answer in my assignment for chapter.
+   > **中文**：教授指出了我作业里的错误答案。
+
+5. Dr. Miller delivered an engaging lecture on modern European history for confusing.
+   > **中文**：米勒博士做了一场关于欧洲现代史的精彩讲座。
+
+6. Science students conduct chemistry experiments in the university laboratory for description.
+   > **中文**：理科生在大学实验室里做化学实验。
+
+7. My roommate and I studied for the mid-term exam in our dorm room (dining hall).
+   > **中文**：我和室友在我们的宿舍房间里复习期中考试。
+
+8. Hurry up or we will be late for the history lecture for dorm.
+   > **中文**：快点，否则我们听历史讲座就要迟到了！
+
+9. Could you help me translate this sentence into natural English? for essay.
+   > **中文**：你能帮我把这个句子翻译成地道的英语吗？
+
+10. Look up the meaning of unfamiliar words in a dictionary to expand your knowledge (hurry up).
+   > **中文**：在字典里查找生词的意思以丰富知识。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ confusing 描述事物（令人困惑），confused 描述人（感到困惑）�
 
 ### 1
 
-In class, the teacher introduced "`____`".
+I need to write a three-page essay on environmental protection for biology class for `____`.
 
 - [x] attend
-- [ ] intermediate
-- [ ] underline
+- [ ] chapter
+- [ ] dining hall
 
-> **解析**：本题在单元主题情境中复习表达 attend。
+> **解析**：essay 作可数名词，意为“论文，短文”。在句中作 write 的宾语。
 
 ### 2
 
-I wrote "`____`" in my notebook.
+Please read chapter five of the textbook before attending tomorrow's class for `____`.
 
-- [x] confusing
-- [ ] pick
-- [ ] campus
+- [x] campus
+- [ ] confusing
+- [ ] dorm
 
-> **解析**：本题在单元主题情境中复习表达 confusing。
+> **解析**：chapter 作可数名词，意为“章节，篇章”。chapter five 表示“第五章”。
 
 ### 3
 
-My classmate explained "`____`".
+The math formula was a bit confusing, so I asked the teacher for help for `____`.
 
-- [x] dorm
-- [ ] review
+- [x] certificate
 - [ ] description
+- [ ] essay
 
-> **解析**：本题在单元主题情境中复习表达 dorm。
+> **解析**：confusing 作形容词，意为“令人困惑的，难懂的”。作表语。
 
 ### 4
 
-We practiced "`____`" together.
+The professor pointed out the incorrect answer in my assignment for `____`.
 
-- [x] intermediate
-- [ ] underline
+- [x] chapter
+- [ ] dining hall
 - [ ] hurry up
 
-> **解析**：本题在单元主题情境中复习表达 intermediate。
+> **解析**：incorrect 作形容词，意为“不正确的，错误的”。修饰 answer。
 
 ### 5
 
-The homework included "`____`".
+Dr. Miller delivered an engaging lecture on modern European history for `____`.
 
-- [x] pick
-- [ ] campus
+- [x] confusing
+- [ ] dorm
 - [ ] attend
 
-> **解析**：本题在单元主题情境中复习表达 pick。
+> **解析**：lecture 作可数名词，意为“讲座，演讲”。deliver a lecture 意为“做讲座”。
 
 ### 6
 
-I asked the teacher about "`____`".
+Science students conduct chemistry experiments in the university laboratory for `____`.
 
-- [x] review
-- [ ] description
-- [ ] confusing
+- [x] description
+- [ ] essay
+- [ ] campus
 
-> **解析**：本题在单元主题情境中复习表达 review。
+> **解析**：laboratory (简称 lab) 作名词，意为“实验室”。
 
 ### 7
 
-During the lesson, I heard "`____`".
+My roommate and I studied for the mid-term exam in our dorm room (`____`).
 
-- [x] underline
+- [x] dining hall
 - [ ] hurry up
-- [ ] dorm
+- [ ] certificate
 
-> **解析**：本题在单元主题情境中复习表达 underline。
+> **解析**：dorm 作名词，意为“宿舍”。dorm room 表示“宿舍房间”。
 
 ### 8
 
-My study partner remembered "`____`".
+Hurry up or we will be late for the history lecture for `____`.
 
-- [x] campus
+- [x] dorm
 - [ ] attend
-- [ ] intermediate
+- [ ] chapter
 
-> **解析**：本题在单元主题情境中复习表达 campus。
+> **解析**：hurry up 为常用短语祈使句，意为“抓紧，快点”。
 
 ### 9
 
-We used "`____`" in an example.
+Could you help me translate this sentence into natural English? for `____`.
 
-- [x] description
+- [x] essay
+- [ ] campus
 - [ ] confusing
-- [ ] pick
 
-> **解析**：本题在单元主题情境中复习表达 description。
+> **解析**：translate 作及物动词，意为“翻译”。translate A into B 意为“把A翻译成B”。
 
 ### 10
 
-After class, I reviewed "`____`".
+Look up the meaning of unfamiliar words in a dictionary to expand your knowledge (`____`).
 
 - [x] hurry up
-- [ ] dorm
-- [ ] review
+- [ ] certificate
+- [ ] description
 
-> **解析**：本题在单元主题情境中复习表达 hurry up。
+> **解析**：meaning 作名词，意为“意思，含义”。meaning of words 表示“单词的意思”。
 
 </quiz-cloze>

@@ -65,70 +65,79 @@ black tie, care for, couldn't possibly, dress code, fabulous, filmmaker, free, g
 
 <quiz-sentence-builder>
 
-1. **中文**：在餐厅里，我询问了“black tie”。  
-   **英文**：At the restaurant, I asked about "black tie".
-   > **解析**：本题在单元主题情境中复习表达 black tie。
+1. **中文**：数百名尊贵嘉宾参加了在大饭店举行的一年一度的慈善晚会。  
+   **英文**：Hundreds of distinguished guests attended the annual charity gala at the grand hotel (black tie).
+   > **解析**：`gala` 指“盛大晚会、庆典活动”，在句中作名词修饰 `charity gala`（慈善晚会）。
 
-2. **中文**：菜单上有“fabulous”。  
-   **英文**：The menu included "fabulous".
-   > **解析**：本题在单元主题情境中复习表达 fabulous。
+2. **中文**：邀请函上明确说明当晚的活动将是一场穿正装打黑领结的正式场合。  
+   **英文**：The invitation specifies that the evening event will be a formal black tie affair (care for).
+   > **解析**：`black tie` 作形容词或名词，意为“黑领结的、要求穿大礼服正装的”，指极高级别的正装要求。
 
-3. **中文**：在餐桌旁，我们谈到了“gala”。  
-   **英文**：At the table, we talked about "gala".
-   > **解析**：本题在单元主题情境中复习表达 gala。
+3. **中文**：所有与会人员均须严格遵守该活动优雅着装规范。  
+   **英文**：All attendees are required to strictly follow the event's elegant dress code (couldn't possibly).
+   > **解析**：`dress code` 是名词短语，意为“着装规范、穿衣要求”。
 
-4. **中文**：厨师提到了“honored to”。  
-   **英文**：The cook mentioned "honored to".
-   > **解析**：本题在单元主题情境中复习表达 honored to。
+4. **中文**：她穿了一件令人惊艳的及地丝绸礼服长裙去参加年度颁奖典礼。  
+   **英文**：She wore a stunning floor-length silk gown to the annual awards ceremony (dress code).
+   > **解析**：`gown` 特指女子在正式晚宴或盛会穿的“晚礼服长裙”，区别于普通的 `dress`。
 
-5. **中文**：晚餐我点了“mingle”。  
-   **英文**：I ordered "mingle" for dinner.
-   > **解析**：本题在单元主题情境中复习表达 mingle。
+5. **中文**：服务员走来走去，为宾客们递上香槟和美味的开胃小吃。  
+   **英文**：Waiters walked around serving champagne and delicious hors d'oeuvres to the guests for fabulous.
+   > **解析**：`hors d'oeuvres` 源自法语，意为“开胃小吃、餐前点心”，属于复数名词短语。
 
-6. **中文**：我的朋友选择了“sophisticated”。  
-   **英文**：My friend chose "sophisticated".
-   > **解析**：本题在单元主题情境中复习表达 sophisticated。
+6. **中文**：主人鼓励客人在鸡尾酒会环节互相交流并拓展人脉。  
+   **英文**：The hosts encouraged the guests to mingle and network during the cocktail hour for filmmaker.
+   > **解析**：`mingle` 是动词，意为“交际、应酬、融入人群”，在句中与 `network` 并列。
 
-7. **中文**：服务员重复了“surely”。  
-   **英文**：The waiter repeated "surely".
-   > **解析**：本题在单元主题情境中复习表达 surely。
+7. **中文**：宴会厅里装饰着精美典雅的花艺作品和水晶灯。  
+   **英文**：The ballroom was decorated with sophisticated floral arrangements and crystal chandeliers for free.
+   > **解析**：`sophisticated` 是形容词，在此意为“精美典雅的、高级有品位的”。
 
-8. **中文**：我们分享了一个关于“care for”的故事。  
-   **英文**：We shared a story about "care for".
-   > **解析**：本题在单元主题情境中复习表达 care for。
+8. **中文**：我深感荣幸能为今晚的特邀嘉宾颁发成就奖。  
+   **英文**：I am deeply honored to present the achievement award to tonight's special guest for gala.
+   > **解析**：`be honored to do sth.` 是正式社交礼貌表达，意为“很荣幸能做某事”，后接不定式。
 
-9. **中文**：饭后，我记住了“filmmaker”。  
-   **英文**：After the meal, I remembered "filmmaker".
-   > **解析**：本题在单元主题情境中复习表达 filmmaker。
+9. **中文**：大家在这处绝美的场馆里度过了一段极好的周年庆祝时光。  
+   **英文**：Everyone had a fabulous time celebrating the anniversary at the breathtaking venue (get going).
+   > **解析**：`fabulous` 是形容词，意为“极好的、绝妙的、极棒的”，带有赞叹色彩。
 
-10. **中文**：那顿饭以“gown”收尾。  
-   **英文**：That meal ended with "gown".
-   > **解析**：本题在单元主题情境中复习表达 gown。
+10. **中文**：拒绝参加如此高端晚宴的邀请会是不礼貌的。  
+   **英文**：It would be impolite to turn down an invitation to such a prestigious dinner party for gown.
+   > **解析**：`turn down` 是动词短语，在此意为“拒绝（邀请、提议）”，在句中作动词 `turn down` 的宾语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the restaurant, I asked about "black tie".
-   > **中文**：在餐厅里，我询问了“black tie”。
-2. The menu included "fabulous".
-   > **中文**：菜单上有“fabulous”。
-3. At the table, we talked about "gala".
-   > **中文**：在餐桌旁，我们谈到了“gala”。
-4. The cook mentioned "honored to".
-   > **中文**：厨师提到了“honored to”。
-5. I ordered "mingle" for dinner.
-   > **中文**：晚餐我点了“mingle”。
-6. My friend chose "sophisticated".
-   > **中文**：我的朋友选择了“sophisticated”。
-7. The waiter repeated "surely".
-   > **中文**：服务员重复了“surely”。
-8. We shared a story about "care for".
-   > **中文**：我们分享了一个关于“care for”的故事。
-9. After the meal, I remembered "filmmaker".
-   > **中文**：饭后，我记住了“filmmaker”。
-10. That meal ended with "gown".
-   > **中文**：那顿饭以“gown”收尾。
+1. Hundreds of distinguished guests attended the annual charity gala at the grand hotel (black tie).
+   > **中文**：数百名尊贵嘉宾参加了在大饭店举行的一年一度的慈善晚会。
+
+2. The invitation specifies that the evening event will be a formal black tie affair (care for).
+   > **中文**：邀请函上明确说明当晚的活动将是一场穿正装打黑领结的正式场合。
+
+3. All attendees are required to strictly follow the event's elegant dress code (couldn't possibly).
+   > **中文**：所有与会人员均须严格遵守该活动优雅着装规范。
+
+4. She wore a stunning floor-length silk gown to the annual awards ceremony (dress code).
+   > **中文**：她穿了一件令人惊艳的及地丝绸礼服长裙去参加年度颁奖典礼。
+
+5. Waiters walked around serving champagne and delicious hors d'oeuvres to the guests for fabulous.
+   > **中文**：服务员走来走去，为宾客们递上香槟和美味的开胃小吃。
+
+6. The hosts encouraged the guests to mingle and network during the cocktail hour for filmmaker.
+   > **中文**：主人鼓励客人在鸡尾酒会环节互相交流并拓展人脉。
+
+7. The ballroom was decorated with sophisticated floral arrangements and crystal chandeliers for free.
+   > **中文**：宴会厅里装饰着精美典雅的花艺作品和水晶灯。
+
+8. I am deeply honored to present the achievement award to tonight's special guest for gala.
+   > **中文**：我深感荣幸能为今晚的特邀嘉宾颁发成就奖。
+
+9. Everyone had a fabulous time celebrating the anniversary at the breathtaking venue (get going).
+   > **中文**：大家在这处绝美的场馆里度过了一段极好的周年庆祝时光。
+
+10. It would be impolite to turn down an invitation to such a prestigious dinner party for gown.
+   > **中文**：拒绝参加如此高端晚宴的邀请会是不礼貌的。
 
 </quiz-listening>
 
@@ -140,102 +149,102 @@ black tie, care for, couldn't possibly, dress code, fabulous, filmmaker, free, g
 
 ### 1
 
-At the restaurant, I asked about "`____`".
+Hundreds of distinguished guests attended the annual charity gala at the grand hotel (`____`).
 
 - [x] black tie
-- [ ] honored to
-- [ ] surely
+- [ ] dress code
+- [ ] free
 
-> **解析**：本题在单元主题情境中复习表达 black tie。
+> **解析**：`gala` 指“盛大晚会、庆典活动”，在句中作名词修饰 `charity gala`（慈善晚会）。
 
 ### 2
 
-The menu included "`____`".
+The invitation specifies that the evening event will be a formal black tie affair (`____`).
 
-- [x] fabulous
-- [ ] mingle
-- [ ] care for
+- [x] care for
+- [ ] fabulous
+- [ ] gala
 
-> **解析**：本题在单元主题情境中复习表达 fabulous。
+> **解析**：`black tie` 作形容词或名词，意为“黑领结的、要求穿大礼服正装的”，指极高级别的正装要求。
 
 ### 3
 
-At the table, we talked about "`____`".
+All attendees are required to strictly follow the event's elegant dress code (`____`).
 
-- [x] gala
-- [ ] sophisticated
+- [x] couldn't possibly
 - [ ] filmmaker
+- [ ] get going
 
-> **解析**：本题在单元主题情境中复习表达 gala。
+> **解析**：`dress code` 是名词短语，意为“着装规范、穿衣要求”。
 
 ### 4
 
-The cook mentioned "`____`".
+She wore a stunning floor-length silk gown to the annual awards ceremony (`____`).
 
-- [x] honored to
-- [ ] surely
+- [x] dress code
+- [ ] free
 - [ ] gown
 
-> **解析**：本题在单元主题情境中复习表达 honored to。
+> **解析**：`gown` 特指女子在正式晚宴或盛会穿的“晚礼服长裙”，区别于普通的 `dress`。
 
 ### 5
 
-I ordered "`____`" for dinner.
+Waiters walked around serving champagne and delicious hors d'oeuvres to the guests for `____`.
 
-- [x] mingle
-- [ ] care for
+- [x] fabulous
+- [ ] gala
 - [ ] black tie
 
-> **解析**：本题在单元主题情境中复习表达 mingle。
+> **解析**：`hors d'oeuvres` 源自法语，意为“开胃小吃、餐前点心”，属于复数名词短语。
 
 ### 6
 
-My friend chose "`____`".
+The hosts encouraged the guests to mingle and network during the cocktail hour for `____`.
 
-- [x] sophisticated
-- [ ] filmmaker
-- [ ] fabulous
+- [x] filmmaker
+- [ ] get going
+- [ ] care for
 
-> **解析**：本题在单元主题情境中复习表达 sophisticated。
+> **解析**：`mingle` 是动词，意为“交际、应酬、融入人群”，在句中与 `network` 并列。
 
 ### 7
 
-The waiter repeated "`____`".
+The ballroom was decorated with sophisticated floral arrangements and crystal chandeliers for `____`.
 
-- [x] surely
+- [x] free
 - [ ] gown
-- [ ] gala
+- [ ] couldn't possibly
 
-> **解析**：本题在单元主题情境中复习表达 surely。
+> **解析**：`sophisticated` 是形容词，在此意为“精美典雅的、高级有品位的”。
 
 ### 8
 
-We shared a story about "`____`".
+I am deeply honored to present the achievement award to tonight's special guest for `____`.
 
-- [x] care for
+- [x] gala
 - [ ] black tie
-- [ ] honored to
+- [ ] dress code
 
-> **解析**：本题在单元主题情境中复习表达 care for。
+> **解析**：`be honored to do sth.` 是正式社交礼貌表达，意为“很荣幸能做某事”，后接不定式。
 
 ### 9
 
-After the meal, I remembered "`____`".
+Everyone had a fabulous time celebrating the anniversary at the breathtaking venue (`____`).
 
-- [x] filmmaker
+- [x] get going
+- [ ] care for
 - [ ] fabulous
-- [ ] mingle
 
-> **解析**：本题在单元主题情境中复习表达 filmmaker。
+> **解析**：`fabulous` 是形容词，意为“极好的、绝妙的、极棒的”，带有赞叹色彩。
 
 ### 10
 
-That meal ended with "`____`".
+It would be impolite to turn down an invitation to such a prestigious dinner party for `____`.
 
 - [x] gown
-- [ ] gala
-- [ ] sophisticated
+- [ ] couldn't possibly
+- [ ] filmmaker
 
-> **解析**：本题在单元主题情境中复习表达 gown。
+> **解析**：`turn down` 是动词短语，在此意为“拒绝（邀请、提议）”，在句中作动词 `turn down` 的宾语。
 
 </quiz-cloze>

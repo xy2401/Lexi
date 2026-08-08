@@ -81,70 +81,79 @@ object（反对）、on the contrary（恰恰相反）、as a matter of fact（�
 
 <quiz-sentence-builder>
 
-1. **中文**：在家里，我们谈到了“accusation”。  
-   **英文**：At home, we talked about "accusation".
-   > **解析**：本题在单元主题情境中复习表达 accusation。
+1. **中文**：检方出示了确凿的物证来证实嫌疑人的罪行。  
+   **英文**：The prosecutor presented solid physical evidence to prove the suspect's guilt for accusation.
+   > **解析**：`evidence` 是不可数名词，意为“证据、证言”，搭配 `present evidence`。
 
-2. **中文**：家人提到了“behind bars”。  
-   **英文**：My family mentioned "behind bars".
-   > **解析**：本题在单元主题情境中复习表达 behind bars。
+2. **中文**：嫌疑人提供了经过核实的不在场证明，证实案发时他在外地。  
+   **英文**：The suspect provided a verified alibi confirming he was out of town during the robbery.
+   > **解析**：`alibi` 是名词，意为“不在场证明/不在场犯罪证据”。
 
-3. **中文**：在房间里，我注意到了“community service”。  
-   **英文**：In the room, I noticed "community service".
-   > **解析**：本题在单元主题情境中复习表达 community service。
+3. **中文**：律师花了数小时为被告准备接受交叉询问。  
+   **英文**：The attorney spent hours preparing the defendant for cross-examination for argue.
+   > **解析**：`defendant` 是法律名词，意为“被告”。
 
-4. **中文**：我们在家里用到了“had her car stolen”。  
-   **英文**：We used "had her car stolen" at home.
-   > **解析**：本题在单元主题情境中复习表达 had her car stolen。
+4. **中文**：一名目击证人站出来就现场发生的事进行作证。  
+   **英文**：An eyewitness stepped forward to testify about what happened at the scene (as a matter of fact).
+   > **解析**：`eyewitness` 或 `witness` 意为“证人、目击者”。
 
-5. **中文**：邻居询问了“it was”。  
-   **英文**：My neighbor asked about "it was".
-   > **解析**：本题在单元主题情境中复习表达 it was。
+5. **中文**：这名危险的罪犯在经过审判后终于被关进了铁窗之后。  
+   **英文**：The dangerous criminal was finally put behind bars after a trial.
+   > **解析**：`behind bars` 是介词短语，意为“在狱中、在铁窗后”。
 
-6. **中文**：我在门边写下了“object”。  
-   **英文**：I wrote down "object" by the door.
-   > **解析**：本题在单元主题情境中复习表达 object。
+6. **中文**：事实上，监控摄像头清晰地记录下了整个纠纷过程。  
+   **英文**：As a matter of fact, security cameras recorded the entire dispute clearly (break the law).
+   > **解析**：`as a matter of fact` 是插入短语，意为“事实上、其实”，用于进一步澄清客观事实。
 
-7. **中文**：晚饭后，我们重复了“sentence”。  
-   **英文**：After dinner, we repeated "sentence".
-   > **解析**：本题在单元主题情境中复习表达 sentence。
+7. **中文**：法官没有判处监禁，而是判处这名年轻犯人缓刑。  
+   **英文**：Rather than prison time, the judge sentenced the young offender to probation for client.
+   > **解析**：`probation` 是法律术语，意为“缓刑、观察期”。
 
-8. **中文**：家庭故事里包含“alibi”。  
-   **英文**：The family story included "alibi".
-   > **解析**：本题在单元主题情境中复习表达 alibi。
+8. **中文**：律师反驳了对方提出的毫无根据的控告。  
+   **英文**：The lawyer refuted the baseless accusation made by the opposing side (community service).
+   > **解析**：`accusation` 是可数名词，意为“指控、控告”。
 
-9. **中文**：睡前，我记住了“break the law”。  
-   **英文**：Before bed, I remembered "break the law".
-   > **解析**：本题在单元主题情境中复习表达 break the law。
+9. **中文**：他没有违法；恰恰相反，他试图制止打斗。  
+   **英文**：He did not break the law; on the contrary, he tried to stop the fight for defendant.
+   > **解析**：`on the contrary` 是插入连词短语，意为“恰恰相反”，引出相反事实。
 
-10. **中文**：那个夜晚以“evidence”收尾。  
-   **英文**：That evening ended with "evidence".
-   > **解析**：本题在单元主题情境中复习表达 evidence。
+10. **中文**：当公民被召集履行陪审员义务时，他们会收到正式通知。  
+   **英文**：Citizens receive a formal notice when they are called for jury duty for evidence.
+   > **解析**：`jury duty` 意为“陪审员义务/陪审团职责”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At home, we talked about "accusation".
-   > **中文**：在家里，我们谈到了“accusation”。
-2. My family mentioned "behind bars".
-   > **中文**：家人提到了“behind bars”。
-3. In the room, I noticed "community service".
-   > **中文**：在房间里，我注意到了“community service”。
-4. We used "had her car stolen" at home.
-   > **中文**：我们在家里用到了“had her car stolen”。
-5. My neighbor asked about "it was".
-   > **中文**：邻居询问了“it was”。
-6. I wrote down "object" by the door.
-   > **中文**：我在门边写下了“object”。
-7. After dinner, we repeated "sentence".
-   > **中文**：晚饭后，我们重复了“sentence”。
-8. The family story included "alibi".
-   > **中文**：家庭故事里包含“alibi”。
-9. Before bed, I remembered "break the law".
-   > **中文**：睡前，我记住了“break the law”。
-10. That evening ended with "evidence".
-   > **中文**：那个夜晚以“evidence”收尾。
+1. The prosecutor presented solid physical evidence to prove the suspect's guilt for accusation.
+   > **中文**：检方出示了确凿的物证来证实嫌疑人的罪行。
+
+2. The suspect provided a verified alibi confirming he was out of town during the robbery.
+   > **中文**：嫌疑人提供了经过核实的不在场证明，证实案发时他在外地。
+
+3. The attorney spent hours preparing the defendant for cross-examination for argue.
+   > **中文**：律师花了数小时为被告准备接受交叉询问。
+
+4. An eyewitness stepped forward to testify about what happened at the scene (as a matter of fact).
+   > **中文**：一名目击证人站出来就现场发生的事进行作证。
+
+5. The dangerous criminal was finally put behind bars after a trial.
+   > **中文**：这名危险的罪犯在经过审判后终于被关进了铁窗之后。
+
+6. As a matter of fact, security cameras recorded the entire dispute clearly (break the law).
+   > **中文**：事实上，监控摄像头清晰地记录下了整个纠纷过程。
+
+7. Rather than prison time, the judge sentenced the young offender to probation for client.
+   > **中文**：法官没有判处监禁，而是判处这名年轻犯人缓刑。
+
+8. The lawyer refuted the baseless accusation made by the opposing side (community service).
+   > **中文**：律师反驳了对方提出的毫无根据的控告。
+
+9. He did not break the law; on the contrary, he tried to stop the fight for defendant.
+   > **中文**：他没有违法；恰恰相反，他试图制止打斗。
+
+10. Citizens receive a formal notice when they are called for jury duty for evidence.
+   > **中文**：当公民被召集履行陪审员义务时，他们会收到正式通知。
 
 </quiz-listening>
 
@@ -156,102 +165,102 @@ object（反对）、on the contrary（恰恰相反）、as a matter of fact（�
 
 ### 1
 
-At home, we talked about "`____`".
+The prosecutor presented solid physical evidence to prove the suspect's guilt for `____`.
 
 - [x] accusation
-- [ ] had her car stolen
-- [ ] sentence
+- [ ] as a matter of fact
+- [ ] client
 
-> **解析**：本题在单元主题情境中复习表达 accusation。
+> **解析**：`evidence` 是不可数名词，意为“证据、证言”，搭配 `present evidence`。
 
 ### 2
 
-My family mentioned "`____`".
+The suspect provided a verified `____` confirming he was out of town during the robbery.
 
-- [x] behind bars
-- [ ] it was
-- [ ] alibi
+- [x] alibi
+- [ ] behind bars
+- [ ] community service
 
-> **解析**：本题在单元主题情境中复习表达 behind bars。
+> **解析**：`alibi` 是名词，意为“不在场证明/不在场犯罪证据”。
 
 ### 3
 
-In the room, I noticed "`____`".
+The attorney spent hours preparing the defendant for cross-examination for `____`.
 
-- [x] community service
-- [ ] object
+- [x] argue
 - [ ] break the law
+- [ ] defendant
 
-> **解析**：本题在单元主题情境中复习表达 community service。
+> **解析**：`defendant` 是法律名词，意为“被告”。
 
 ### 4
 
-We used "`____`" at home.
+An eyewitness stepped forward to testify about what happened at the scene (`____`).
 
-- [x] had her car stolen
-- [ ] sentence
+- [x] as a matter of fact
+- [ ] client
 - [ ] evidence
 
-> **解析**：本题在单元主题情境中复习表达 had her car stolen。
+> **解析**：`eyewitness` 或 `witness` 意为“证人、目击者”。
 
 ### 5
 
-My neighbor asked about "`____`".
+The dangerous criminal was finally put `____` after a trial.
 
-- [x] it was
-- [ ] alibi
+- [x] behind bars
+- [ ] community service
 - [ ] accusation
 
-> **解析**：本题在单元主题情境中复习表达 it was。
+> **解析**：`behind bars` 是介词短语，意为“在狱中、在铁窗后”。
 
 ### 6
 
-I wrote down "`____`" by the door.
+As a matter of fact, security cameras recorded the entire dispute clearly (`____`).
 
-- [x] object
-- [ ] break the law
-- [ ] behind bars
+- [x] break the law
+- [ ] defendant
+- [ ] alibi
 
-> **解析**：本题在单元主题情境中复习表达 object。
+> **解析**：`as a matter of fact` 是插入短语，意为“事实上、其实”，用于进一步澄清客观事实。
 
 ### 7
 
-After dinner, we repeated "`____`".
+Rather than prison time, the judge sentenced the young offender to probation for `____`.
 
-- [x] sentence
+- [x] client
 - [ ] evidence
-- [ ] community service
+- [ ] argue
 
-> **解析**：本题在单元主题情境中复习表达 sentence。
+> **解析**：`probation` 是法律术语，意为“缓刑、观察期”。
 
 ### 8
 
-The family story included "`____`".
+The lawyer refuted the baseless accusation made by the opposing side (`____`).
 
-- [x] alibi
+- [x] community service
 - [ ] accusation
-- [ ] had her car stolen
+- [ ] as a matter of fact
 
-> **解析**：本题在单元主题情境中复习表达 alibi。
+> **解析**：`accusation` 是可数名词，意为“指控、控告”。
 
 ### 9
 
-Before bed, I remembered "`____`".
+He did not break the law; on the contrary, he tried to stop the fight for `____`.
 
-- [x] break the law
+- [x] defendant
+- [ ] alibi
 - [ ] behind bars
-- [ ] it was
 
-> **解析**：本题在单元主题情境中复习表达 break the law。
+> **解析**：`on the contrary` 是插入连词短语，意为“恰恰相反”，引出相反事实。
 
 ### 10
 
-That evening ended with "`____`".
+Citizens receive a formal notice when they are called for jury duty for `____`.
 
 - [x] evidence
-- [ ] community service
-- [ ] object
+- [ ] argue
+- [ ] break the law
 
-> **解析**：本题在单元主题情境中复习表达 evidence。
+> **解析**：`jury duty` 意为“陪审员义务/陪审团职责”。
 
 </quiz-cloze>

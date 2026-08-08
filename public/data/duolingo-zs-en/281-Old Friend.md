@@ -65,70 +65,79 @@ all grown up, any, back in town, can't complain, catch you up on, compliment, de
 
 <quiz-sentence-builder>
 
-1. **中文**：聚会上，我听到了“all grown up”。  
-   **英文**：At the gathering, I heard "all grown up".
-   > **解析**：本题在单元主题情境中复习表达 all grown up。
+1. **中文**：许多年后，我们坐在一家安静的咖啡馆里交流彼此的近况。  
+   **英文**：We sat at a quiet coffee shop to catch up on each other's lives after many years (all grown up).
+   > **解析**：`catch up (on sth.)` 是动词短语，意为“叙旧、了解近况”，是旧友重逢时的核心表达。
 
-2. **中文**：朋友说了“catch you up on”。  
-   **英文**：My friend said "catch you up on".
-   > **解析**：本题在单元主题情境中复习表达 catch you up on。
+2. **中文**：好久不见，我的朋友！自高中以来你一点都没变。  
+   **英文**：Long time no see, my friend! You haven't changed a bit since high school for any.
+   > **解析**：`Long time no see!` 是高频口语打招呼惯用语，意为“好久不见！”，在句中作感叹句开头。
 
-3. **中文**：我们一起谈到了“expecting”。  
-   **英文**：We talked about "expecting" together.
-   > **解析**：本题在单元主题情境中复习表达 expecting。
+3. **中文**：我们高中班级在周末举办了一场难忘的十年同学聚会。  
+   **英文**：Our high school class held a memorable ten-year reunion over the weekend (back in town).
+   > **解析**：`reunion` 是名词，意为“重聚、聚会”，短语 `class reunion` 特指“同学会”。
 
-4. **中文**：有人向我解释了“going”。  
-   **英文**：Someone explained "going" to me.
-   > **解析**：本题在单元主题情境中复习表达 going。
+4. **中文**：尽管我们搬到了不同的城市，但我们承诺一定会一直保持联系。  
+   **英文**：Even though we moved to different cities, we promised to always keep in touch (can't complain).
+   > **解析**：`keep in touch` 是固定动词短语，意为“保持联系”，在句中作不定式 `to keep in touch` 的核心。
 
-5. **中文**：我用“kindergarten”作了回应。  
-   **英文**：I replied with "kindergarten".
-   > **解析**：本题在单元主题情境中复习表达 kindergarten。
+5. **中文**：翻阅这本旧相册唤起了许多美好的回忆。  
+   **英文**：Looking through this old photo album brings back so many sweet memories (catch you up on).
+   > **解析**：`bring back memories` 是动词短语，意为“勾起回忆、勾起往事”，主语为 `Looking...` 动名词短语。
 
-6. **中文**：对话中包含“on the whole”。  
-   **英文**：The conversation included "on the whole".
-   > **解析**：本题在单元主题情境中复习表达 on the whole。
+6. **中文**：这些年来，我和童年好友追忆往事时完全忘记了时间。  
+   **英文**：Over the years, I lost track of time while reminiscing with my childhood friend for compliment.
+   > **解析**：`lose track of (someone/time)` 意为“与……失去联系/忘记时间”，在句中指与朋友叙旧忘了时间。
 
-7. **中文**：同伴重复了“run into”。  
-   **英文**：My partner repeated "run into".
-   > **解析**：本题在单元主题情境中复习表达 run into。
+7. **中文**：老朋友们喜欢坐在一起追忆他们的学生时代。  
+   **英文**：Old friends love to sit together and reminisce about their school days for design.
+   > **解析**：`reminisce` 是动词，意为“追忆、回忆往事”，固定搭配 `reminisce about...`。
 
-8. **中文**：我们聊到“any”时笑了。  
-   **英文**：We laughed about "any".
-   > **解析**：本题在单元主题情境中复习表达 any。
+8. **中文**：无论你何时来这个小镇，随时欢迎顺道来我的公寓坐坐。  
+   **英文**：Feel free to drop by my apartment whenever you are visiting this town for expecting.
+   > **解析**：`drop by` 是动词短语，意为“顺道拜访、串门”，侧重于非正式的简短拜访。
 
-9. **中文**：离开前，我记住了“compliment”。  
-   **英文**：Before leaving, I remembered "compliment".
-   > **解析**：本题在单元主题情境中复习表达 compliment。
+9. **中文**：聊起我们的老街区是一次美妙的回忆之旅。  
+   **英文**：Talking about our old neighborhood was a wonderful trip down memory lane for forties.
+   > **解析**：`trip down memory lane` 是习惯表达，意为“重温旧梦、勾起回忆的旅程”，`memory lane` 指“记忆的小径/回忆”。
 
-10. **中文**：那段对话以“get”收尾。  
-   **英文**：That conversation ended with "get".
-   > **解析**：本题在单元主题情境中复习表达 get。
+10. **中文**：下周找个时间我们一定要聚一聚吃顿午饭。  
+   **英文**：We should definitely get together for lunch sometime next week.
+   > **解析**：`get together` 是动词短语，意为“聚会、聚在一起”，在句中作情态动词 `should` 的谓语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the gathering, I heard "all grown up".
-   > **中文**：聚会上，我听到了“all grown up”。
-2. My friend said "catch you up on".
-   > **中文**：朋友说了“catch you up on”。
-3. We talked about "expecting" together.
-   > **中文**：我们一起谈到了“expecting”。
-4. Someone explained "going" to me.
-   > **中文**：有人向我解释了“going”。
-5. I replied with "kindergarten".
-   > **中文**：我用“kindergarten”作了回应。
-6. The conversation included "on the whole".
-   > **中文**：对话中包含“on the whole”。
-7. My partner repeated "run into".
-   > **中文**：同伴重复了“run into”。
-8. We laughed about "any".
-   > **中文**：我们聊到“any”时笑了。
-9. Before leaving, I remembered "compliment".
-   > **中文**：离开前，我记住了“compliment”。
-10. That conversation ended with "get".
-   > **中文**：那段对话以“get”收尾。
+1. We sat at a quiet coffee shop to catch up on each other's lives after many years (all grown up).
+   > **中文**：许多年后，我们坐在一家安静的咖啡馆里交流彼此的近况。
+
+2. Long time no see, my friend! You haven't changed a bit since high school for any.
+   > **中文**：好久不见，我的朋友！自高中以来你一点都没变。
+
+3. Our high school class held a memorable ten-year reunion over the weekend (back in town).
+   > **中文**：我们高中班级在周末举办了一场难忘的十年同学聚会。
+
+4. Even though we moved to different cities, we promised to always keep in touch (can't complain).
+   > **中文**：尽管我们搬到了不同的城市，但我们承诺一定会一直保持联系。
+
+5. Looking through this old photo album brings back so many sweet memories (catch you up on).
+   > **中文**：翻阅这本旧相册唤起了许多美好的回忆。
+
+6. Over the years, I lost track of time while reminiscing with my childhood friend for compliment.
+   > **中文**：这些年来，我和童年好友追忆往事时完全忘记了时间。
+
+7. Old friends love to sit together and reminisce about their school days for design.
+   > **中文**：老朋友们喜欢坐在一起追忆他们的学生时代。
+
+8. Feel free to drop by my apartment whenever you are visiting this town for expecting.
+   > **中文**：无论你何时来这个小镇，随时欢迎顺道来我的公寓坐坐。
+
+9. Talking about our old neighborhood was a wonderful trip down memory lane for forties.
+   > **中文**：聊起我们的老街区是一次美妙的回忆之旅。
+
+10. We should definitely get together for lunch sometime next week.
+   > **中文**：下周找个时间我们一定要聚一聚吃顿午饭。
 
 </quiz-listening>
 
@@ -140,102 +149,102 @@ all grown up, any, back in town, can't complain, catch you up on, compliment, de
 
 ### 1
 
-At the gathering, I heard "`____`".
+We sat at a quiet coffee shop to catch up on each other's lives after many years (`____`).
 
 - [x] all grown up
-- [ ] going
-- [ ] run into
+- [ ] can't complain
+- [ ] design
 
-> **解析**：本题在单元主题情境中复习表达 all grown up。
+> **解析**：`catch up (on sth.)` 是动词短语，意为“叙旧、了解近况”，是旧友重逢时的核心表达。
 
 ### 2
 
-My friend said "`____`".
+Long time no see, my friend! You haven't changed a bit since high school for `____`.
 
-- [x] catch you up on
-- [ ] kindergarten
-- [ ] any
+- [x] any
+- [ ] catch you up on
+- [ ] expecting
 
-> **解析**：本题在单元主题情境中复习表达 catch you up on。
+> **解析**：`Long time no see!` 是高频口语打招呼惯用语，意为“好久不见！”，在句中作感叹句开头。
 
 ### 3
 
-We talked about "`____`" together.
+Our high school class held a memorable ten-year reunion over the weekend (`____`).
 
-- [x] expecting
-- [ ] on the whole
+- [x] back in town
 - [ ] compliment
+- [ ] forties
 
-> **解析**：本题在单元主题情境中复习表达 expecting。
+> **解析**：`reunion` 是名词，意为“重聚、聚会”，短语 `class reunion` 特指“同学会”。
 
 ### 4
 
-Someone explained "`____`" to me.
+Even though we moved to different cities, we promised to always keep in touch (`____`).
 
-- [x] going
-- [ ] run into
+- [x] can't complain
+- [ ] design
 - [ ] get
 
-> **解析**：本题在单元主题情境中复习表达 going。
+> **解析**：`keep in touch` 是固定动词短语，意为“保持联系”，在句中作不定式 `to keep in touch` 的核心。
 
 ### 5
 
-I replied with "`____`".
+Looking through this old photo album brings back so many sweet memories (`____`).
 
-- [x] kindergarten
-- [ ] any
+- [x] catch you up on
+- [ ] expecting
 - [ ] all grown up
 
-> **解析**：本题在单元主题情境中复习表达 kindergarten。
+> **解析**：`bring back memories` 是动词短语，意为“勾起回忆、勾起往事”，主语为 `Looking...` 动名词短语。
 
 ### 6
 
-The conversation included "`____`".
+Over the years, I lost track of time while reminiscing with my childhood friend for `____`.
 
-- [x] on the whole
-- [ ] compliment
-- [ ] catch you up on
+- [x] compliment
+- [ ] forties
+- [ ] any
 
-> **解析**：本题在单元主题情境中复习表达 on the whole。
+> **解析**：`lose track of (someone/time)` 意为“与……失去联系/忘记时间”，在句中指与朋友叙旧忘了时间。
 
 ### 7
 
-My partner repeated "`____`".
+Old friends love to sit together and reminisce about their school days for `____`.
 
-- [x] run into
+- [x] design
 - [ ] get
-- [ ] expecting
+- [ ] back in town
 
-> **解析**：本题在单元主题情境中复习表达 run into。
+> **解析**：`reminisce` 是动词，意为“追忆、回忆往事”，固定搭配 `reminisce about...`。
 
 ### 8
 
-We laughed about "`____`".
+Feel free to drop by my apartment whenever you are visiting this town for `____`.
 
-- [x] any
+- [x] expecting
 - [ ] all grown up
-- [ ] going
+- [ ] can't complain
 
-> **解析**：本题在单元主题情境中复习表达 any。
+> **解析**：`drop by` 是动词短语，意为“顺道拜访、串门”，侧重于非正式的简短拜访。
 
 ### 9
 
-Before leaving, I remembered "`____`".
+Talking about our old neighborhood was a wonderful trip down memory lane for `____`.
 
-- [x] compliment
+- [x] forties
+- [ ] any
 - [ ] catch you up on
-- [ ] kindergarten
 
-> **解析**：本题在单元主题情境中复习表达 compliment。
+> **解析**：`trip down memory lane` 是习惯表达，意为“重温旧梦、勾起回忆的旅程”，`memory lane` 指“记忆的小径/回忆”。
 
 ### 10
 
-That conversation ended with "`____`".
+We should definitely `____` together for lunch sometime next week.
 
 - [x] get
-- [ ] expecting
-- [ ] on the whole
+- [ ] back in town
+- [ ] compliment
 
-> **解析**：本题在单元主题情境中复习表达 get。
+> **解析**：`get together` 是动词短语，意为“聚会、聚在一起”，在句中作情态动词 `should` 的谓语。
 
 </quiz-cloze>

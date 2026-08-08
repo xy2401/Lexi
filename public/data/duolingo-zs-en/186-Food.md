@@ -51,70 +51,79 @@ alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit,
 
 <quiz-sentence-builder>
 
-1. **中文**：谈论喜好时，我听到了“alcoholic”。  
-   **英文**：When we talked about favorites, I heard "alcoholic".
-   > **解析**：本题在单元主题情境中复习表达 alcoholic。
+1. **中文**：星期天较轻的早餐我通常点炒鸡蛋和吐司。  
+   **英文**：I usually order scrambled eggs and toast for a light Sunday breakfast for alcoholic.
+   > **解析**：scrambled eggs 名词短语，意为“美式炒蛋”，scrambled 是动词 scramble 的过去分词作定语。
 
-2. **中文**：朋友说“choice”很重要。  
-   **英文**：My friend said "choice" was important.
-   > **解析**：本题在单元主题情境中复习表达 choice。
+2. **中文**：服务员送上了香脆的培根肉和新鲜的热煎饼。  
+   **英文**：The waiter served crispy bacon along with fresh hot pancakes.
+   > **解析**：bacon 不可数名词，意为“培根；腌猪肉”，经常作为早餐食品。
 
-3. **中文**：我问他们喜欢哪一个：“he'd”。  
-   **英文**：I asked which one they liked: "he'd".
-   > **解析**：本题在单元主题情境中复习表达 he'd。
+3. **中文**：她喜欢吃多汁成熟的桃子作为清爽的夏天零食。  
+   **英文**：She loves eating a juicy ripe peach as a refreshing summer snack for bitter.
+   > **解析**：peach 可数名词，意为“桃子”，复数形式为 peaches。
 
-4. **中文**：聊天时，我们比较了“peach”。  
-   **英文**：In our chat, we compared "peach".
-   > **解析**：本题在单元主题情境中复习表达 peach。
+4. **中文**：把新鲜青柠挤在海鲜上以提升其天然风味。  
+   **英文**：Squeeze a fresh lime over the seafood to enhance its natural flavor for choice.
+   > **解析**：lime 可数/不可数名词，意为“酸橙；青柠”，常用于调味或饮料。
 
-5. **中文**：同伴先选择了“she would”。  
-   **英文**：My partner chose "she would" first.
-   > **解析**：本题在单元主题情境中复习表达 she would。
+5. **中文**：烘焙这面包你需要两杯小麦面粉。  
+   **英文**：You will need two cups of wheat flour to bake this loaf of bread for diet.
+   > **解析**：flour 不可数名词，意为“面粉”，注意发音与 flower 相同（/flaʊər/）。
 
-6. **中文**：我们用“squash”描述喜好。  
-   **英文**：We used "squash" to describe a favorite.
-   > **解析**：本题在单元主题情境中复习表达 squash。
+6. **中文**：保持包含大量蔬菜的均衡饮食对健康有益。  
+   **英文**：Maintaining a balanced diet with lots of vegetables is good for health for flour.
+   > **解析**：diet 名词，意为“日常饮食”，短语 a balanced diet 意为“均衡饮食”。
 
-7. **中文**：答案中包含“would”。  
-   **英文**：The answer included "would".
-   > **解析**：本题在单元主题情境中复习表达 would。
+7. **中文**：服务员用闪利的餐具把餐桌摆得干干净净。  
+   **英文**：The server set the table neatly with shiny cutlery and silverware (he would).
+   > **解析**：silverware 不可数名词，意为“银餐具；餐具”（美式），含刀叉匙等。
 
-8. **中文**：我从对话中记住了“bacon”。  
-   **英文**：I remembered "bacon" from the conversation.
-   > **解析**：本题在单元主题情境中复习表达 bacon。
+8. **中文**：我们累得不想做饭，所以晚餐点了中国外卖。  
+   **英文**：We were too tired to cook, so we ordered Chinese takeout for dinner (he'd).
+   > **解析**：takeout 名词/形容词，在此作名词意为“外卖食物”（美式），英式为 takeaway。
 
-9. **中文**：朋友微笑着重复了“flour”。  
-   **英文**：My friend repeated "flour" with a smile.
-   > **解析**：本题在单元主题情境中复习表达 flour。
+9. **中文**：这家餐厅提供丰富的新鲜沙拉和甜点选择。  
+   **英文**：The restaurant offers a wide choice of fresh salads and desserts for lime.
+   > **解析**：choice 名词，意为“选择；挑选”，a wide choice of ... 表示“丰富多样选择的……”。
 
-10. **中文**：那场关于喜好的聊天以“lime”收尾。  
-   **英文**：That chat about favorites ended with "lime".
-   > **解析**：本题在单元主题情境中复习表达 lime。
+10. **中文**：这款果汁宾治是不含酒精的，所以孩子们可以随意饮用。  
+   **英文**：This fruit punch is non-alcoholic, so kids can enjoy it freely (little bit).
+   > **解析**：alcoholic 形容词，意为“含酒精的”，前缀 non- 构成 non-alcoholic（不含酒精的）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. When we talked about favorites, I heard "alcoholic".
-   > **中文**：谈论喜好时，我听到了“alcoholic”。
-2. My friend said "choice" was important.
-   > **中文**：朋友说“choice”很重要。
-3. I asked which one they liked: "he'd".
-   > **中文**：我问他们喜欢哪一个：“he'd”。
-4. In our chat, we compared "peach".
-   > **中文**：聊天时，我们比较了“peach”。
-5. My partner chose "she would" first.
-   > **中文**：同伴先选择了“she would”。
-6. We used "squash" to describe a favorite.
-   > **中文**：我们用“squash”描述喜好。
-7. The answer included "would".
-   > **中文**：答案中包含“would”。
-8. I remembered "bacon" from the conversation.
-   > **中文**：我从对话中记住了“bacon”。
-9. My friend repeated "flour" with a smile.
-   > **中文**：朋友微笑着重复了“flour”。
-10. That chat about favorites ended with "lime".
-   > **中文**：那场关于喜好的聊天以“lime”收尾。
+1. I usually order scrambled eggs and toast for a light Sunday breakfast for alcoholic.
+   > **中文**：星期天较轻的早餐我通常点炒鸡蛋和吐司。
+
+2. The waiter served crispy bacon along with fresh hot pancakes.
+   > **中文**：服务员送上了香脆的培根肉和新鲜的热煎饼。
+
+3. She loves eating a juicy ripe peach as a refreshing summer snack for bitter.
+   > **中文**：她喜欢吃多汁成熟的桃子作为清爽的夏天零食。
+
+4. Squeeze a fresh lime over the seafood to enhance its natural flavor for choice.
+   > **中文**：把新鲜青柠挤在海鲜上以提升其天然风味。
+
+5. You will need two cups of wheat flour to bake this loaf of bread for diet.
+   > **中文**：烘焙这面包你需要两杯小麦面粉。
+
+6. Maintaining a balanced diet with lots of vegetables is good for health for flour.
+   > **中文**：保持包含大量蔬菜的均衡饮食对健康有益。
+
+7. The server set the table neatly with shiny cutlery and silverware (he would).
+   > **中文**：服务员用闪利的餐具把餐桌摆得干干净净。
+
+8. We were too tired to cook, so we ordered Chinese takeout for dinner (he'd).
+   > **中文**：我们累得不想做饭，所以晚餐点了中国外卖。
+
+9. The restaurant offers a wide choice of fresh salads and desserts for lime.
+   > **中文**：这家餐厅提供丰富的新鲜沙拉和甜点选择。
+
+10. This fruit punch is non-alcoholic, so kids can enjoy it freely (little bit).
+   > **中文**：这款果汁宾治是不含酒精的，所以孩子们可以随意饮用。
 
 </quiz-listening>
 
@@ -126,102 +135,102 @@ alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit,
 
 ### 1
 
-When we talked about favorites, I heard "`____`".
+I usually order scrambled eggs and toast for a light Sunday breakfast for `____`.
 
 - [x] alcoholic
-- [ ] peach
-- [ ] would
+- [ ] choice
+- [ ] he would
 
-> **解析**：本题在单元主题情境中复习表达 alcoholic。
+> **解析**：scrambled eggs 名词短语，意为“美式炒蛋”，scrambled 是动词 scramble 的过去分词作定语。
 
 ### 2
 
-My friend said "`____`" was important.
+The waiter served crispy `____` along with fresh hot pancakes.
 
-- [x] choice
-- [ ] she would
-- [ ] bacon
+- [x] bacon
+- [ ] diet
+- [ ] he'd
 
-> **解析**：本题在单元主题情境中复习表达 choice。
+> **解析**：bacon 不可数名词，意为“培根；腌猪肉”，经常作为早餐食品。
 
 ### 3
 
-I asked which one they liked: "`____`".
+She loves eating a juicy ripe peach as a refreshing summer snack for `____`.
 
-- [x] he'd
-- [ ] squash
+- [x] bitter
 - [ ] flour
+- [ ] lime
 
-> **解析**：本题在单元主题情境中复习表达 he'd。
+> **解析**：peach 可数名词，意为“桃子”，复数形式为 peaches。
 
 ### 4
 
-In our chat, we compared "`____`".
+Squeeze a fresh lime over the seafood to enhance its natural flavor for `____`.
 
-- [x] peach
-- [ ] would
-- [ ] lime
+- [x] choice
+- [ ] he would
+- [ ] little bit
 
-> **解析**：本题在单元主题情境中复习表达 peach。
+> **解析**：lime 可数/不可数名词，意为“酸橙；青柠”，常用于调味或饮料。
 
 ### 5
 
-My partner chose "`____`" first.
+You will need two cups of wheat flour to bake this loaf of bread for `____`.
 
-- [x] she would
-- [ ] bacon
+- [x] diet
+- [ ] he'd
 - [ ] alcoholic
 
-> **解析**：本题在单元主题情境中复习表达 she would。
+> **解析**：flour 不可数名词，意为“面粉”，注意发音与 flower 相同（/flaʊər/）。
 
 ### 6
 
-We used "`____`" to describe a favorite.
+Maintaining a balanced diet with lots of vegetables is good for health for `____`.
 
-- [x] squash
-- [ ] flour
-- [ ] choice
+- [x] flour
+- [ ] lime
+- [ ] bacon
 
-> **解析**：本题在单元主题情境中复习表达 squash。
+> **解析**：diet 名词，意为“日常饮食”，短语 a balanced diet 意为“均衡饮食”。
 
 ### 7
 
-The answer included "`____`".
+The server set the table neatly with shiny cutlery and silverware (`____`).
 
-- [x] would
-- [ ] lime
-- [ ] he'd
+- [x] he would
+- [ ] little bit
+- [ ] bitter
 
-> **解析**：本题在单元主题情境中复习表达 would。
+> **解析**：silverware 不可数名词，意为“银餐具；餐具”（美式），含刀叉匙等。
 
 ### 8
 
-I remembered "`____`" from the conversation.
+We were too tired to cook, so we ordered Chinese takeout for dinner (`____`).
 
-- [x] bacon
+- [x] he'd
 - [ ] alcoholic
-- [ ] peach
+- [ ] choice
 
-> **解析**：本题在单元主题情境中复习表达 bacon。
+> **解析**：takeout 名词/形容词，在此作名词意为“外卖食物”（美式），英式为 takeaway。
 
 ### 9
 
-My friend repeated "`____`" with a smile.
+The restaurant offers a wide choice of fresh salads and desserts for `____`.
 
-- [x] flour
-- [ ] choice
-- [ ] she would
+- [x] lime
+- [ ] bacon
+- [ ] diet
 
-> **解析**：本题在单元主题情境中复习表达 flour。
+> **解析**：choice 名词，意为“选择；挑选”，a wide choice of ... 表示“丰富多样选择的……”。
 
 ### 10
 
-That chat about favorites ended with "`____`".
+This fruit punch is non-alcoholic, so kids can enjoy it freely (`____`).
 
-- [x] lime
-- [ ] he'd
-- [ ] squash
+- [x] little bit
+- [ ] bitter
+- [ ] flour
 
-> **解析**：本题在单元主题情境中复习表达 lime。
+> **解析**：alcoholic 形容词，意为“含酒精的”，前缀 non- 构成 non-alcoholic（不含酒精的）。
 
 </quiz-cloze>

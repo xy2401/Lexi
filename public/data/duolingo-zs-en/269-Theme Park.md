@@ -63,70 +63,79 @@ after next, all of a sudden, amusement park, cotton candy, ferris wheel, giganti
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“after next”。  
-   **英文**：In this situation, I heard "after next".
-   > **解析**：本题在单元主题情境中复习表达 after next。
+1. **中文**：搭乘刺激的高速过山车是我们这次行程的亮点。  
+   **英文**：Riding the thrilling high-speed roller coaster was the highlight of our trip (after next).
+   > **解析**：`roller coaster` 是名词短语，意为“过山车”。
 
-2. **中文**：同伴解释了“ferris wheel”。  
-   **英文**：My partner explained "ferris wheel".
-   > **解析**：本题在单元主题情境中复习表达 ferris wheel。
+2. **中文**：新建的游乐园拥有灵感源自热门电影的游乐设施。  
+   **英文**：The new amusement park features rides inspired by popular movies (all of a sudden).
+   > **解析**：`amusement park` 意为“游乐园、主题公园”。
 
-3. **中文**：我们一起谈到了“hail”。  
-   **英文**：We talked about "hail" together.
-   > **解析**：本题在单元主题情境中复习表达 hail。
+3. **中文**：为了体验巨型摩天轮，我们不得不排队等候了一个多小时。  
+   **英文**：We had to wait in line for over an hour to try the giant Ferris wheel (amusement park).
+   > **解析**：`wait in line` 是固定动词短语，意为“排队等候”。
 
-4. **中文**：我记下了“requirement”。  
-   **英文**：I wrote down "requirement".
-   > **解析**：本题在单元主题情境中复习表达 requirement。
+4. **中文**：从巨型摩天轮的顶部你可以鸟瞰全城的景色。  
+   **英文**：You can see the whole city view from the top of the giant ferris wheel (cotton candy).
+   > **解析**：`ferris wheel` 是专有名词短语，意为“摩天轮”。
 
-5. **中文**：例句中包含“season pass”。  
-   **英文**：The example included "season pass".
-   > **解析**：本题在单元主题情境中复习表达 season pass。
+5. **中文**：主题公园在周六下午挤满了游客。  
+   **英文**：The theme park was completely packed with visitors on Saturday afternoon (ferris wheel).
+   > **解析**：`packed` 是形容词，意为“拥挤的、塞满的”，搭配 `be packed with...`。
 
-6. **中文**：我询问了“wait in line”。  
-   **英文**：I asked about "wait in line".
-   > **解析**：本题在单元主题情境中复习表达 wait in line。
+6. **中文**：购买一张年度季票可以为你节省大量的门票费用。  
+   **英文**：Buying an annual season pass saves you a lot of ticket money for gigantic.
+   > **解析**：`season pass` 意为“季票、年票”。
 
-7. **中文**：我们在句子中用到了“were supposed to”。  
-   **英文**：We used "were supposed to" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 were supposed to。
+7. **中文**：突然之间，由于雷暴天气，户外水上游乐项目停止运行了。  
+   **英文**：All of a sudden, the outdoor water ride stopped due to a thunderstorm (go on).
+   > **解析**：`all of a sudden` 是副词短语，意为“突然之间”，相当于 `suddenly`。
 
-8. **中文**：朋友重复了“all of a sudden”。  
-   **英文**：My friend repeated "all of a sudden".
-   > **解析**：本题在单元主题情境中复习表达 all of a sudden。
+8. **中文**：我刚才在想我们可以早点去主题公园，以避开人群。  
+   **英文**：I was thinking we could head to the theme park early to avoid crowds for hail.
+   > **解析**：`I was thinking (that)...` 是委婉提出建议的常用口语表达。
 
-9. **中文**：后来，我记住了“gigantic”。  
-   **英文**：Later, I remembered "gigantic".
-   > **解析**：本题在单元主题情境中复习表达 gigantic。
+9. **中文**：孩子们喜欢在园区散步时吃蓬松的粉色棉花糖。  
+   **英文**：Kids love eating fluffy pink cotton candy while walking around the park for head.
+   > **解析**：`cotton candy` 是名词短语，意为“棉花糖”。
 
-10. **中文**：这个小故事以“hot dog”收尾。  
-   **英文**：The short story ended with "hot dog".
-   > **解析**：本题在单元主题情境中复习表达 hot dog。
+10. **中文**：安保人员在允许我们进入游乐设施前扫描了我们的手环。  
+   **英文**：Security officers scanned our wristbands before letting us enter the ride (hot dog).
+   > **解析**：`wristband` 是名词，意为“手环、腕带”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "after next".
-   > **中文**：在这个情境中，我听到了“after next”。
-2. My partner explained "ferris wheel".
-   > **中文**：同伴解释了“ferris wheel”。
-3. We talked about "hail" together.
-   > **中文**：我们一起谈到了“hail”。
-4. I wrote down "requirement".
-   > **中文**：我记下了“requirement”。
-5. The example included "season pass".
-   > **中文**：例句中包含“season pass”。
-6. I asked about "wait in line".
-   > **中文**：我询问了“wait in line”。
-7. We used "were supposed to" in a sentence.
-   > **中文**：我们在句子中用到了“were supposed to”。
-8. My friend repeated "all of a sudden".
-   > **中文**：朋友重复了“all of a sudden”。
-9. Later, I remembered "gigantic".
-   > **中文**：后来，我记住了“gigantic”。
-10. The short story ended with "hot dog".
-   > **中文**：这个小故事以“hot dog”收尾。
+1. Riding the thrilling high-speed roller coaster was the highlight of our trip (after next).
+   > **中文**：搭乘刺激的高速过山车是我们这次行程的亮点。
+
+2. The new amusement park features rides inspired by popular movies (all of a sudden).
+   > **中文**：新建的游乐园拥有灵感源自热门电影的游乐设施。
+
+3. We had to wait in line for over an hour to try the giant Ferris wheel (amusement park).
+   > **中文**：为了体验巨型摩天轮，我们不得不排队等候了一个多小时。
+
+4. You can see the whole city view from the top of the giant ferris wheel (cotton candy).
+   > **中文**：从巨型摩天轮的顶部你可以鸟瞰全城的景色。
+
+5. The theme park was completely packed with visitors on Saturday afternoon (ferris wheel).
+   > **中文**：主题公园在周六下午挤满了游客。
+
+6. Buying an annual season pass saves you a lot of ticket money for gigantic.
+   > **中文**：购买一张年度季票可以为你节省大量的门票费用。
+
+7. All of a sudden, the outdoor water ride stopped due to a thunderstorm (go on).
+   > **中文**：突然之间，由于雷暴天气，户外水上游乐项目停止运行了。
+
+8. I was thinking we could head to the theme park early to avoid crowds for hail.
+   > **中文**：我刚才在想我们可以早点去主题公园，以避开人群。
+
+9. Kids love eating fluffy pink cotton candy while walking around the park for head.
+   > **中文**：孩子们喜欢在园区散步时吃蓬松的粉色棉花糖。
+
+10. Security officers scanned our wristbands before letting us enter the ride (hot dog).
+   > **中文**：安保人员在允许我们进入游乐设施前扫描了我们的手环。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ after next, all of a sudden, amusement park, cotton candy, ferris wheel, giganti
 
 ### 1
 
-In this situation, I heard "`____`".
+Riding the thrilling high-speed roller coaster was the highlight of our trip (`____`).
 
 - [x] after next
-- [ ] requirement
-- [ ] were supposed to
+- [ ] cotton candy
+- [ ] go on
 
-> **解析**：本题在单元主题情境中复习表达 after next。
+> **解析**：`roller coaster` 是名词短语，意为“过山车”。
 
 ### 2
 
-My partner explained "`____`".
+The new amusement park features rides inspired by popular movies (`____`).
 
-- [x] ferris wheel
-- [ ] season pass
-- [ ] all of a sudden
+- [x] all of a sudden
+- [ ] ferris wheel
+- [ ] hail
 
-> **解析**：本题在单元主题情境中复习表达 ferris wheel。
+> **解析**：`amusement park` 意为“游乐园、主题公园”。
 
 ### 3
 
-We talked about "`____`" together.
+We had to wait in line for over an hour to try the giant Ferris wheel (`____`).
 
-- [x] hail
-- [ ] wait in line
+- [x] amusement park
 - [ ] gigantic
+- [ ] head
 
-> **解析**：本题在单元主题情境中复习表达 hail。
+> **解析**：`wait in line` 是固定动词短语，意为“排队等候”。
 
 ### 4
 
-I wrote down "`____`".
+You can see the whole city view from the top of the giant ferris wheel (`____`).
 
-- [x] requirement
-- [ ] were supposed to
+- [x] cotton candy
+- [ ] go on
 - [ ] hot dog
 
-> **解析**：本题在单元主题情境中复习表达 requirement。
+> **解析**：`ferris wheel` 是专有名词短语，意为“摩天轮”。
 
 ### 5
 
-The example included "`____`".
+The theme park was completely packed with visitors on Saturday afternoon (`____`).
 
-- [x] season pass
-- [ ] all of a sudden
+- [x] ferris wheel
+- [ ] hail
 - [ ] after next
 
-> **解析**：本题在单元主题情境中复习表达 season pass。
+> **解析**：`packed` 是形容词，意为“拥挤的、塞满的”，搭配 `be packed with...`。
 
 ### 6
 
-I asked about "`____`".
+Buying an annual season pass saves you a lot of ticket money for `____`.
 
-- [x] wait in line
-- [ ] gigantic
-- [ ] ferris wheel
+- [x] gigantic
+- [ ] head
+- [ ] all of a sudden
 
-> **解析**：本题在单元主题情境中复习表达 wait in line。
+> **解析**：`season pass` 意为“季票、年票”。
 
 ### 7
 
-We used "`____`" in a sentence.
+All of a sudden, the outdoor water ride stopped due to a thunderstorm (`____`).
 
-- [x] were supposed to
+- [x] go on
 - [ ] hot dog
-- [ ] hail
+- [ ] amusement park
 
-> **解析**：本题在单元主题情境中复习表达 were supposed to。
+> **解析**：`all of a sudden` 是副词短语，意为“突然之间”，相当于 `suddenly`。
 
 ### 8
 
-My friend repeated "`____`".
+I was thinking we could head to the theme park early to avoid crowds for `____`.
 
-- [x] all of a sudden
+- [x] hail
 - [ ] after next
-- [ ] requirement
+- [ ] cotton candy
 
-> **解析**：本题在单元主题情境中复习表达 all of a sudden。
+> **解析**：`I was thinking (that)...` 是委婉提出建议的常用口语表达。
 
 ### 9
 
-Later, I remembered "`____`".
+Kids love eating fluffy pink cotton candy while walking around the park for `____`.
 
-- [x] gigantic
+- [x] head
+- [ ] all of a sudden
 - [ ] ferris wheel
-- [ ] season pass
 
-> **解析**：本题在单元主题情境中复习表达 gigantic。
+> **解析**：`cotton candy` 是名词短语，意为“棉花糖”。
 
 ### 10
 
-The short story ended with "`____`".
+Security officers scanned our wristbands before letting us enter the ride (`____`).
 
 - [x] hot dog
-- [ ] hail
-- [ ] wait in line
+- [ ] amusement park
+- [ ] gigantic
 
-> **解析**：本题在单元主题情境中复习表达 hot dog。
+> **解析**：`wristband` 是名词，意为“手环、腕带”。
 
 </quiz-cloze>

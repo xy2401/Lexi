@@ -53,70 +53,79 @@ have been / have not been / haven't been / has / been 构成现在完成时，�
 
 <quiz-sentence-builder>
 
-1. **中文**：在家里，我们谈到了“back seat”。  
-   **英文**：At home, we talked about "back seat".
-   > **解析**：本题在单元主题情境中复习表达 back seat。
+1. **中文**：我们需要在下一个加油站停靠加满油箱。  
+   **英文**：We need to stop at the next gas station to fill up the tank (back seat).
+   > **解析**：gas station 名词短语，意为“加油站”（美式英语），英式英语多用 petrol station。
 
-2. **中文**：家人提到了“car wash”。  
-   **英文**：My family mentioned "car wash".
-   > **解析**：本题在单元主题情境中复习表达 car wash。
+2. **中文**：司机注意到轮胎爆胎了，便把车停在了路边。  
+   **英文**：The driver noticed a flat tire and pulled over to the side of the road for been.
+   > **解析**：flat tire 名词短语，意为“漏气的轮胎；爆胎”，flat 意为“瘪的”。
 
-3. **中文**：在房间里，我注意到了“has”。  
-   **英文**：In the room, I noticed "has".
-   > **解析**：本题在单元主题情境中复习表达 has。
+3. **中文**：请把你所有的沉重行李放进汽车后备箱。  
+   **英文**：Please put all your heavy luggage into the trunk of the car for brake.
+   > **解析**：trunk 可数名词，在此意为“汽车后备箱”（美式），英式为 boot。
 
-4. **中文**：我们在家里用到了“haven't been”。  
-   **英文**：We used "haven't been" at home.
-   > **解析**：本题在单元主题情境中复习表达 haven't been。
+4. **中文**：接近红灯时，请轻踩煞车踏板。  
+   **英文**：Press the brake pedal gently when you approach the red traffic light (car wash).
+   > **解析**：brake 可作名词或动词，在此作名词意为“刹车；制动器”。
 
-5. **中文**：邻居询问了“rental car”。  
-   **英文**：My neighbor asked about "rental car".
-   > **解析**：本题在单元主题情境中复习表达 rental car。
+5. **中文**：他用雨刷清理前挡风玻璃上的雨水。  
+   **英文**：He used the wipers to clear the rain off the front windshield (flat tire).
+   > **解析**：windshield 可数名词，意为“（汽车的前）挡风玻璃”（美式），英式为 windscreen。
 
-6. **中文**：我在门边写下了“roll up”。  
-   **英文**：I wrote down "roll up" by the door.
-   > **解析**：本题在单元主题情境中复习表达 roll up。
+6. **中文**：在左转之前，记得使用你的转向灯。  
+   **英文**：Remember to use your turn signal before making a left turn (front seat).
+   > **解析**：turn signal 名词短语，意为“转向灯；指示灯”（美式），英式常用 indicator。
 
-7. **中文**：晚饭后，我们重复了“turn signal”。  
-   **英文**：After dinner, we repeated "turn signal".
-   > **解析**：本题在单元主题情境中复习表达 turn signal。
+7. **中文**：穿过黑暗隧道时，你应该打开车前大灯。  
+   **英文**：You should turn on your headlights when driving through the dark tunnel (gas station).
+   > **解析**：headlight 可数名词，常用复数 headlights，意为“（汽车）前大灯”。
 
-8. **中文**：家庭故事里包含“been”。  
-   **英文**：The family story included "been".
-   > **解析**：本题在单元主题情境中复习表达 been。
+8. **中文**：我们在机场服务柜台领取了租来的汽车。  
+   **英文**：We picked up our rental car at the airport service counter for has.
+   > **解析**：rental car 名词短语，意为“租赁汽车；出租车”，rental 作定语修饰 car。
 
-9. **中文**：睡前，我记住了“front seat”。  
-   **英文**：Before bed, I remembered "front seat".
-   > **解析**：本题在单元主题情境中复习表达 front seat。
+9. **中文**：机修工建议每五千英里做一次定期机油更换。  
+   **英文**：The mechanic recommended a regular oil change every five thousand miles (have been).
+   > **解析**：oil change 名词短语，意为“更换机油”，oil 意为机油，change 表示更换。
 
-10. **中文**：那个夜晚以“have been”收尾。  
-   **英文**：That evening ended with "have been".
-   > **解析**：本题在单元主题情境中复习表达 have been。
+10. **中文**：在长途公路旅行后，我们把脏车开到了洗车场。  
+   **英文**：After the long road trip, we took our dirty vehicle to the car wash (have not been).
+   > **解析**：car wash 组合名词，意为“洗车场；洗车服务”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At home, we talked about "back seat".
-   > **中文**：在家里，我们谈到了“back seat”。
-2. My family mentioned "car wash".
-   > **中文**：家人提到了“car wash”。
-3. In the room, I noticed "has".
-   > **中文**：在房间里，我注意到了“has”。
-4. We used "haven't been" at home.
-   > **中文**：我们在家里用到了“haven't been”。
-5. My neighbor asked about "rental car".
-   > **中文**：邻居询问了“rental car”。
-6. I wrote down "roll up" by the door.
-   > **中文**：我在门边写下了“roll up”。
-7. After dinner, we repeated "turn signal".
-   > **中文**：晚饭后，我们重复了“turn signal”。
-8. The family story included "been".
-   > **中文**：家庭故事里包含“been”。
-9. Before bed, I remembered "front seat".
-   > **中文**：睡前，我记住了“front seat”。
-10. That evening ended with "have been".
-   > **中文**：那个夜晚以“have been”收尾。
+1. We need to stop at the next gas station to fill up the tank (back seat).
+   > **中文**：我们需要在下一个加油站停靠加满油箱。
+
+2. The driver noticed a flat tire and pulled over to the side of the road for been.
+   > **中文**：司机注意到轮胎爆胎了，便把车停在了路边。
+
+3. Please put all your heavy luggage into the trunk of the car for brake.
+   > **中文**：请把你所有的沉重行李放进汽车后备箱。
+
+4. Press the brake pedal gently when you approach the red traffic light (car wash).
+   > **中文**：接近红灯时，请轻踩煞车踏板。
+
+5. He used the wipers to clear the rain off the front windshield (flat tire).
+   > **中文**：他用雨刷清理前挡风玻璃上的雨水。
+
+6. Remember to use your turn signal before making a left turn (front seat).
+   > **中文**：在左转之前，记得使用你的转向灯。
+
+7. You should turn on your headlights when driving through the dark tunnel (gas station).
+   > **中文**：穿过黑暗隧道时，你应该打开车前大灯。
+
+8. We picked up our rental car at the airport service counter for has.
+   > **中文**：我们在机场服务柜台领取了租来的汽车。
+
+9. The mechanic recommended a regular oil change every five thousand miles (have been).
+   > **中文**：机修工建议每五千英里做一次定期机油更换。
+
+10. After the long road trip, we took our dirty vehicle to the car wash (have not been).
+   > **中文**：在长途公路旅行后，我们把脏车开到了洗车场。
 
 </quiz-listening>
 
@@ -128,102 +137,102 @@ have been / have not been / haven't been / has / been 构成现在完成时，�
 
 ### 1
 
-At home, we talked about "`____`".
+We need to stop at the next gas station to fill up the tank (`____`).
 
 - [x] back seat
-- [ ] haven't been
-- [ ] turn signal
+- [ ] car wash
+- [ ] gas station
 
-> **解析**：本题在单元主题情境中复习表达 back seat。
+> **解析**：gas station 名词短语，意为“加油站”（美式英语），英式英语多用 petrol station。
 
 ### 2
 
-My family mentioned "`____`".
+The driver noticed a flat tire and pulled over to the side of the road for `____`.
 
-- [x] car wash
-- [ ] rental car
-- [ ] been
+- [x] been
+- [ ] flat tire
+- [ ] has
 
-> **解析**：本题在单元主题情境中复习表达 car wash。
+> **解析**：flat tire 名词短语，意为“漏气的轮胎；爆胎”，flat 意为“瘪的”。
 
 ### 3
 
-In the room, I noticed "`____`".
+Please put all your heavy luggage into the trunk of the car for `____`.
 
-- [x] has
-- [ ] roll up
+- [x] brake
 - [ ] front seat
+- [ ] have been
 
-> **解析**：本题在单元主题情境中复习表达 has。
+> **解析**：trunk 可数名词，在此意为“汽车后备箱”（美式），英式为 boot。
 
 ### 4
 
-We used "`____`" at home.
+Press the brake pedal gently when you approach the red traffic light (`____`).
 
-- [x] haven't been
-- [ ] turn signal
-- [ ] have been
+- [x] car wash
+- [ ] gas station
+- [ ] have not been
 
-> **解析**：本题在单元主题情境中复习表达 haven't been。
+> **解析**：brake 可作名词或动词，在此作名词意为“刹车；制动器”。
 
 ### 5
 
-My neighbor asked about "`____`".
+He used the wipers to clear the rain off the front windshield (`____`).
 
-- [x] rental car
-- [ ] been
+- [x] flat tire
+- [ ] has
 - [ ] back seat
 
-> **解析**：本题在单元主题情境中复习表达 rental car。
+> **解析**：windshield 可数名词，意为“（汽车的前）挡风玻璃”（美式），英式为 windscreen。
 
 ### 6
 
-I wrote down "`____`" by the door.
+Remember to use your turn signal before making a left turn (`____`).
 
-- [x] roll up
-- [ ] front seat
-- [ ] car wash
+- [x] front seat
+- [ ] have been
+- [ ] been
 
-> **解析**：本题在单元主题情境中复习表达 roll up。
+> **解析**：turn signal 名词短语，意为“转向灯；指示灯”（美式），英式常用 indicator。
 
 ### 7
 
-After dinner, we repeated "`____`".
+You should turn on your headlights when driving through the dark tunnel (`____`).
 
-- [x] turn signal
-- [ ] have been
-- [ ] has
+- [x] gas station
+- [ ] have not been
+- [ ] brake
 
-> **解析**：本题在单元主题情境中复习表达 turn signal。
+> **解析**：headlight 可数名词，常用复数 headlights，意为“（汽车）前大灯”。
 
 ### 8
 
-The family story included "`____`".
+We picked up our rental car at the airport service counter for `____`.
 
-- [x] been
+- [x] has
 - [ ] back seat
-- [ ] haven't been
+- [ ] car wash
 
-> **解析**：本题在单元主题情境中复习表达 been。
+> **解析**：rental car 名词短语，意为“租赁汽车；出租车”，rental 作定语修饰 car。
 
 ### 9
 
-Before bed, I remembered "`____`".
+The mechanic recommended a regular oil change every five thousand miles (`____`).
 
-- [x] front seat
-- [ ] car wash
-- [ ] rental car
+- [x] have been
+- [ ] been
+- [ ] flat tire
 
-> **解析**：本题在单元主题情境中复习表达 front seat。
+> **解析**：oil change 名词短语，意为“更换机油”，oil 意为机油，change 表示更换。
 
 ### 10
 
-That evening ended with "`____`".
+After the long road trip, we took our dirty vehicle to the car wash (`____`).
 
-- [x] have been
-- [ ] has
-- [ ] roll up
+- [x] have not been
+- [ ] brake
+- [ ] front seat
 
-> **解析**：本题在单元主题情境中复习表达 have been。
+> **解析**：car wash 组合名词，意为“洗车场；洗车服务”。
 
 </quiz-cloze>

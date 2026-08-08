@@ -61,70 +61,79 @@ used to + 动词原形表示"过去常常"（现在不做了）。never used to 
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“bug”。  
-   **英文**：In this situation, I heard "bug".
-   > **解析**：本题在单元主题情境中复习表达 bug。
+1. **中文**：翻阅旧照片勾起了我童年的美好回忆。  
+   **英文**：Looking through old photos brought back wonderful memories of my childhood for bug.
+   > **解析**：childhood 为名词，意为“童年时期”。由 child + -hood 构成。bring back memories 表示“勾起回忆”。
 
-2. **中文**：同伴解释了“childhood”。  
-   **英文**：My partner explained "childhood".
-   > **解析**：本题在单元主题情境中复习表达 childhood。
+2. **中文**：在漫长的暑假里，我们过去常常在后院盖树屋。  
+   **英文**：We used to build treehouses in the backyard during long summer vacations for card.
+   > **解析**：used to 为情态动词结构，后接动词原形（build），意为“过去常常做某事（现在已不再做）”。
 
-3. **中文**：我们一起谈到了“frying pan”。  
-   **英文**：We talked about "frying pan" together.
-   > **解析**：本题在单元主题情境中复习表达 frying pan。
+3. **中文**：我们街区的小孩放学后总是一起玩捉迷藏。  
+   **英文**：Children in our neighborhood always played hide-and-seek together after school for caught.
+   > **解析**：neighborhood 为名词，意为“街区、邻里”。play hide-and-seek 意为“玩捉迷藏”。
 
-4. **中文**：我记下了“kicked”。  
-   **英文**：I wrote down "kicked".
-   > **解析**：本题在单元主题情境中复习表达 kicked。
+4. **中文**：我父母在看电视之前必须完成作业这一点上非常严格。  
+   **英文**：My parents were quite strict about finishing homework before watching television for childhood.
+   > **解析**：strict 为形容词，意为“严格的”。常见搭配 be strict about sth.（对某事严格）或 be strict with sb.（对某人严格）。
 
-5. **中文**：例句中包含“now”。  
-   **英文**：The example included "now".
-   > **解析**：本题在单元主题情境中复习表达 now。
+5. **中文**：虽然她小时候非常害害羞，但长大后却成了一位自信的演讲者。  
+   **英文**：Although she was very shy as a child, she grew up to be a confident speaker (come over).
+   > **解析**：shy 为形容词，意为“害羞的、怯生的”。grow up to be 表示“长大后成为...”。
 
-6. **中文**：我询问了“spinach”。  
-   **英文**：I asked about "spinach".
-   > **解析**：本题在单元主题情境中复习表达 spinach。
+6. **中文**：我邻居过去常在周末串门到我家玩桌游。  
+   **英文**：My neighbor used to come over to my house to play board games on weekends for dirt.
+   > **解析**：come over 为动词短语，意为“过来串门/拜访”。come over to one's house 指“去某人家里”。
 
-7. **中文**：我们在句子中用到了“up”。  
-   **英文**：We used "up" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 up。
+7. **中文**：在炎热的夏夜，我们在玻璃罐里抓萤火虫。  
+   **英文**：We caught fireflies in glass jars during warm summer evenings for do.
+   > **解析**：caught 为动词 catch 的过去式和过去分词，意为“抓住、捕捉”。catch fireflies 意为“抓萤火虫”。
 
-8. **中文**：朋友重复了“card”。  
-   **英文**：My friend repeated "card".
-   > **解析**：本题在单元主题情境中复习表达 card。
+8. **中文**：我哥哥有一次在泥泞的池塘边找到了一只绿色小青蛙。  
+   **英文**：My brother once found a small green frog near the muddy pond.
+   > **解析**：frog 为名词，意为“青蛙”。pond 意为“池塘”。
 
-9. **中文**：后来，我记住了“dirt”。  
-   **英文**：Later, I remembered "dirt".
-   > **解析**：本题在单元主题情境中复习表达 dirt。
+9. **中文**：孩子们在游戏时试图躲在大橡树后面。  
+   **英文**：The kids tried to hide behind the large oak tree during their game (frying pan).
+   > **解析**：hide 为动词，意为“躲藏、隐藏”。过去式为 hid，过去分词为 hidden。hide behind 表示“躲在...后面”。
 
-10. **中文**：这个小故事以“hide”收尾。  
-   **英文**：The short story ended with "hide".
-   > **解析**：本题在单元主题情境中复习表达 hide。
+10. **中文**：我过去从不喜欢吃蔬菜，但现在我却很喜欢新鲜沙拉。  
+   **英文**：I never used to like eating vegetables, but now I enjoy fresh salads for hide.
+   > **解析**：never used to 为 used to 的否定表达之一，意为“过去从不/以前不曾”。后接动词原形（like）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "bug".
-   > **中文**：在这个情境中，我听到了“bug”。
-2. My partner explained "childhood".
-   > **中文**：同伴解释了“childhood”。
-3. We talked about "frying pan" together.
-   > **中文**：我们一起谈到了“frying pan”。
-4. I wrote down "kicked".
-   > **中文**：我记下了“kicked”。
-5. The example included "now".
-   > **中文**：例句中包含“now”。
-6. I asked about "spinach".
-   > **中文**：我询问了“spinach”。
-7. We used "up" in a sentence.
-   > **中文**：我们在句子中用到了“up”。
-8. My friend repeated "card".
-   > **中文**：朋友重复了“card”。
-9. Later, I remembered "dirt".
-   > **中文**：后来，我记住了“dirt”。
-10. The short story ended with "hide".
-   > **中文**：这个小故事以“hide”收尾。
+1. Looking through old photos brought back wonderful memories of my childhood for bug.
+   > **中文**：翻阅旧照片勾起了我童年的美好回忆。
+
+2. We used to build treehouses in the backyard during long summer vacations for card.
+   > **中文**：在漫长的暑假里，我们过去常常在后院盖树屋。
+
+3. Children in our neighborhood always played hide-and-seek together after school for caught.
+   > **中文**：我们街区的小孩放学后总是一起玩捉迷藏。
+
+4. My parents were quite strict about finishing homework before watching television for childhood.
+   > **中文**：我父母在看电视之前必须完成作业这一点上非常严格。
+
+5. Although she was very shy as a child, she grew up to be a confident speaker (come over).
+   > **中文**：虽然她小时候非常害害羞，但长大后却成了一位自信的演讲者。
+
+6. My neighbor used to come over to my house to play board games on weekends for dirt.
+   > **中文**：我邻居过去常在周末串门到我家玩桌游。
+
+7. We caught fireflies in glass jars during warm summer evenings for do.
+   > **中文**：在炎热的夏夜，我们在玻璃罐里抓萤火虫。
+
+8. My brother once found a small green frog near the muddy pond.
+   > **中文**：我哥哥有一次在泥泞的池塘边找到了一只绿色小青蛙。
+
+9. The kids tried to hide behind the large oak tree during their game (frying pan).
+   > **中文**：孩子们在游戏时试图躲在大橡树后面。
+
+10. I never used to like eating vegetables, but now I enjoy fresh salads for hide.
+   > **中文**：我过去从不喜欢吃蔬菜，但现在我却很喜欢新鲜沙拉。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ used to + 动词原形表示"过去常常"（现在不做了）。never used to 
 
 ### 1
 
-In this situation, I heard "`____`".
+Looking through old photos brought back wonderful memories of my childhood for `____`.
 
 - [x] bug
-- [ ] kicked
-- [ ] up
+- [ ] childhood
+- [ ] do
 
-> **解析**：本题在单元主题情境中复习表达 bug。
+> **解析**：childhood 为名词，意为“童年时期”。由 child + -hood 构成。bring back memories 表示“勾起回忆”。
 
 ### 2
 
-My partner explained "`____`".
+We used to build treehouses in the backyard during long summer vacations for `____`.
 
-- [x] childhood
-- [ ] now
-- [ ] card
+- [x] card
+- [ ] come over
+- [ ] frog
 
-> **解析**：本题在单元主题情境中复习表达 childhood。
+> **解析**：used to 为情态动词结构，后接动词原形（build），意为“过去常常做某事（现在已不再做）”。
 
 ### 3
 
-We talked about "`____`" together.
+Children in our neighborhood always played hide-and-seek together after school for `____`.
 
-- [x] frying pan
-- [ ] spinach
+- [x] caught
 - [ ] dirt
+- [ ] frying pan
 
-> **解析**：本题在单元主题情境中复习表达 frying pan。
+> **解析**：neighborhood 为名词，意为“街区、邻里”。play hide-and-seek 意为“玩捉迷藏”。
 
 ### 4
 
-I wrote down "`____`".
+My parents were quite strict about finishing homework before watching television for `____`.
 
-- [x] kicked
-- [ ] up
+- [x] childhood
+- [ ] do
 - [ ] hide
 
-> **解析**：本题在单元主题情境中复习表达 kicked。
+> **解析**：strict 为形容词，意为“严格的”。常见搭配 be strict about sth.（对某事严格）或 be strict with sb.（对某人严格）。
 
 ### 5
 
-The example included "`____`".
+Although she was very shy as a child, she grew up to be a confident speaker (`____`).
 
-- [x] now
-- [ ] card
+- [x] come over
+- [ ] frog
 - [ ] bug
 
-> **解析**：本题在单元主题情境中复习表达 now。
+> **解析**：shy 为形容词，意为“害羞的、怯生的”。grow up to be 表示“长大后成为...”。
 
 ### 6
 
-I asked about "`____`".
+My neighbor used to come over to my house to play board games on weekends for `____`.
 
-- [x] spinach
-- [ ] dirt
-- [ ] childhood
+- [x] dirt
+- [ ] frying pan
+- [ ] card
 
-> **解析**：本题在单元主题情境中复习表达 spinach。
+> **解析**：come over 为动词短语，意为“过来串门/拜访”。come over to one's house 指“去某人家里”。
 
 ### 7
 
-We used "`____`" in a sentence.
+We caught fireflies in glass jars during warm summer evenings for `____`.
 
-- [x] up
+- [x] do
 - [ ] hide
-- [ ] frying pan
+- [ ] caught
 
-> **解析**：本题在单元主题情境中复习表达 up。
+> **解析**：caught 为动词 catch 的过去式和过去分词，意为“抓住、捕捉”。catch fireflies 意为“抓萤火虫”。
 
 ### 8
 
-My friend repeated "`____`".
+My brother once found a small green `____` near the muddy pond.
 
-- [x] card
+- [x] frog
 - [ ] bug
-- [ ] kicked
+- [ ] childhood
 
-> **解析**：本题在单元主题情境中复习表达 card。
+> **解析**：frog 为名词，意为“青蛙”。pond 意为“池塘”。
 
 ### 9
 
-Later, I remembered "`____`".
+The kids tried to hide behind the large oak tree during their game (`____`).
 
-- [x] dirt
-- [ ] childhood
-- [ ] now
+- [x] frying pan
+- [ ] card
+- [ ] come over
 
-> **解析**：本题在单元主题情境中复习表达 dirt。
+> **解析**：hide 为动词，意为“躲藏、隐藏”。过去式为 hid，过去分词为 hidden。hide behind 表示“躲在...后面”。
 
 ### 10
 
-The short story ended with "`____`".
+I never used to like eating vegetables, but now I enjoy fresh salads for `____`.
 
 - [x] hide
-- [ ] frying pan
-- [ ] spinach
+- [ ] caught
+- [ ] dirt
 
-> **解析**：本题在单元主题情境中复习表达 hide。
+> **解析**：never used to 为 used to 的否定表达之一，意为“过去从不/以前不曾”。后接动词原形（like）。
 
 </quiz-cloze>

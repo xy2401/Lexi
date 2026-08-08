@@ -61,70 +61,79 @@ worth = 值得。can / can't 表能力/可能。
 
 <quiz-sentence-builder>
 
-1. **中文**：谈论喜好时，我听到了“amount”。  
-   **英文**：When we talked about favorites, I heard "amount".
-   > **解析**：本题在单元主题情境中复习表达 amount。
+1. **中文**：在换季大促期间，她在衣服上花了大笔资金。  
+   **英文**：She spent a considerable amount of money on clothing during the seasonal sale.
+   > **解析**：amount 为名词，意为“数量、金额”。常用搭配 a considerable amount of + 不可数名词（money）。
 
-2. **中文**：朋友说“can't”很重要。  
-   **英文**：My friend said "can't" was important.
-   > **解析**：本题在单元主题情境中复习表达 can't。
+2. **中文**：我无法决定这两件夹克中哪一件我穿起来更好看。  
+   **英文**：I can't decide which of these two jackets looks better on me for bargain.
+   > **解析**：can't 为情态动词 can 的否定缩写，表示“不能、无法”，后接动词原形 decide。
 
-3. **中文**：我问他们喜欢哪一个：“fit”。  
-   **英文**：I asked which one they liked: "fit".
-   > **解析**：本题在单元主题情境中复习表达 fit。
+3. **中文**：这双皮鞋非常合脚，所以我要买了。  
+   **英文**：These leather shoes fit perfectly, so I will take them for bill.
+   > **解析**：fit 在此处作不及物动词，意为“合身、合适”。修饰词为副词 perfectly。
 
-4. **中文**：聊天时，我们比较了“item”。  
-   **英文**：In our chat, we compared "item".
-   > **解析**：本题在单元主题情境中复习表达 item。
+4. **中文**：店内每件折扣商品均附带两年保修期。  
+   **英文**：Every discounted item in the store comes with a two-year warranty for can.
+   > **解析**：item 为可数名词，指“单件商品、物品”。discounted item 指折扣商品。
 
-5. **中文**：同伴先选择了“left”。  
-   **英文**：My partner chose "left" first.
-   > **解析**：本题在单元主题情境中复习表达 left。
+5. **中文**：抓紧时间，因为适合你尺码的黑色大衣只剩下两件了！  
+   **英文**：Hurry up because there are only two black coats left in your size (can't).
+   > **解析**：left 是 leave 的过去分词，在此处用作后置定语，意为“剩下的”（there are only two left）。
 
-6. **中文**：我们用“much”描述喜好。  
-   **英文**：We used "much" to describe a favorite.
-   > **解析**：本题在单元主题情境中复习表达 much。
+6. **中文**：这张手工木桌要多少钱？  
+   **英文**：How much does this handcrafted wooden table cost? for cart.
+   > **解析**：much 在此处用于疑问短语 how much，用于询问不可数概念的价格或数量。
 
-7. **中文**：答案中包含“shouldn't”。  
-   **英文**：The answer included "shouldn't".
-   > **解析**：本题在单元主题情境中复习表达 shouldn't。
+7. **中文**：你不应该把所有积蓄都花在奢侈设计师商品上。  
+   **英文**：You shouldn't spend all your savings on luxury designer goods for check.
+   > **解析**：shouldn't 为情态动词 should not 的缩写，表示“不应该”，用于提出购物建议。
 
-8. **中文**：我从对话中记住了“bargain”。  
-   **英文**：I remembered "bargain" from the conversation.
-   > **解析**：本题在单元主题情境中复习表达 bargain。
+8. **中文**：以半价买到这部全新手机真是太划算了！  
+   **英文**：Getting this brand-new phone at half price was a real bargain for fit.
+   > **解析**：bargain 在此处作可数名词，意为“便宜货、划算的买卖”。a real bargain 意为“真划算”。
 
-9. **中文**：朋友微笑着重复了“cart”。  
-   **英文**：My friend repeated "cart" with a smile.
-   > **解析**：本题在单元主题情境中复习表达 cart。
+9. **中文**：请将您喜欢的商品添加到您的在线购物车中。  
+   **英文**：Please add the items you like to your online shopping cart (fitting room).
+   > **解析**：cart 为可数名词，意为“手推车、购物车”。shopping cart 即购物车。
 
-10. **中文**：那场关于喜好的聊天以“high quality”收尾。  
-   **英文**：That chat about favorites ended with "high quality".
-   > **解析**：本题在单元主题情境中复习表达 high quality。
+10. **中文**：我更喜欢买能穿很多年的高品质衣服。  
+   **英文**：I prefer to buy high quality clothes that last for years.
+   > **解析**：high quality 为复合形容词/名词短语，意为“高质量的/优质的”，作前置定语修饰 clothes。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. When we talked about favorites, I heard "amount".
-   > **中文**：谈论喜好时，我听到了“amount”。
-2. My friend said "can't" was important.
-   > **中文**：朋友说“can't”很重要。
-3. I asked which one they liked: "fit".
-   > **中文**：我问他们喜欢哪一个：“fit”。
-4. In our chat, we compared "item".
-   > **中文**：聊天时，我们比较了“item”。
-5. My partner chose "left" first.
-   > **中文**：同伴先选择了“left”。
-6. We used "much" to describe a favorite.
-   > **中文**：我们用“much”描述喜好。
-7. The answer included "shouldn't".
-   > **中文**：答案中包含“shouldn't”。
-8. I remembered "bargain" from the conversation.
-   > **中文**：我从对话中记住了“bargain”。
-9. My friend repeated "cart" with a smile.
-   > **中文**：朋友微笑着重复了“cart”。
-10. That chat about favorites ended with "high quality".
-   > **中文**：那场关于喜好的聊天以“high quality”收尾。
+1. She spent a considerable amount of money on clothing during the seasonal sale.
+   > **中文**：在换季大促期间，她在衣服上花了大笔资金。
+
+2. I can't decide which of these two jackets looks better on me for bargain.
+   > **中文**：我无法决定这两件夹克中哪一件我穿起来更好看。
+
+3. These leather shoes fit perfectly, so I will take them for bill.
+   > **中文**：这双皮鞋非常合脚，所以我要买了。
+
+4. Every discounted item in the store comes with a two-year warranty for can.
+   > **中文**：店内每件折扣商品均附带两年保修期。
+
+5. Hurry up because there are only two black coats left in your size (can't).
+   > **中文**：抓紧时间，因为适合你尺码的黑色大衣只剩下两件了！
+
+6. How much does this handcrafted wooden table cost? for cart.
+   > **中文**：这张手工木桌要多少钱？
+
+7. You shouldn't spend all your savings on luxury designer goods for check.
+   > **中文**：你不应该把所有积蓄都花在奢侈设计师商品上。
+
+8. Getting this brand-new phone at half price was a real bargain for fit.
+   > **中文**：以半价买到这部全新手机真是太划算了！
+
+9. Please add the items you like to your online shopping cart (fitting room).
+   > **中文**：请将您喜欢的商品添加到您的在线购物车中。
+
+10. I prefer to buy high quality clothes that last for years.
+   > **中文**：我更喜欢买能穿很多年的高品质衣服。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ worth = 值得。can / can't 表能力/可能。
 
 ### 1
 
-When we talked about favorites, I heard "`____`".
+She spent a considerable `____` of money on clothing during the seasonal sale.
 
 - [x] amount
-- [ ] item
-- [ ] shouldn't
+- [ ] can
+- [ ] check
 
-> **解析**：本题在单元主题情境中复习表达 amount。
+> **解析**：amount 为名词，意为“数量、金额”。常用搭配 a considerable amount of + 不可数名词（money）。
 
 ### 2
 
-My friend said "`____`" was important.
+I can't decide which of these two jackets looks better on me for `____`.
 
-- [x] can't
-- [ ] left
-- [ ] bargain
+- [x] bargain
+- [ ] can't
+- [ ] fit
 
-> **解析**：本题在单元主题情境中复习表达 can't。
+> **解析**：can't 为情态动词 can 的否定缩写，表示“不能、无法”，后接动词原形 decide。
 
 ### 3
 
-I asked which one they liked: "`____`".
+These leather shoes fit perfectly, so I will take them for `____`.
 
-- [x] fit
-- [ ] much
+- [x] bill
 - [ ] cart
+- [ ] fitting room
 
-> **解析**：本题在单元主题情境中复习表达 fit。
+> **解析**：fit 在此处作不及物动词，意为“合身、合适”。修饰词为副词 perfectly。
 
 ### 4
 
-In our chat, we compared "`____`".
+Every discounted item in the store comes with a two-year warranty for `____`.
 
-- [x] item
-- [ ] shouldn't
+- [x] can
+- [ ] check
 - [ ] high quality
 
-> **解析**：本题在单元主题情境中复习表达 item。
+> **解析**：item 为可数名词，指“单件商品、物品”。discounted item 指折扣商品。
 
 ### 5
 
-My partner chose "`____`" first.
+Hurry up because there are only two black coats left in your size (`____`).
 
-- [x] left
-- [ ] bargain
+- [x] can't
+- [ ] fit
 - [ ] amount
 
-> **解析**：本题在单元主题情境中复习表达 left。
+> **解析**：left 是 leave 的过去分词，在此处用作后置定语，意为“剩下的”（there are only two left）。
 
 ### 6
 
-We used "`____`" to describe a favorite.
+How much does this handcrafted wooden table cost? for `____`.
 
-- [x] much
-- [ ] cart
-- [ ] can't
+- [x] cart
+- [ ] fitting room
+- [ ] bargain
 
-> **解析**：本题在单元主题情境中复习表达 much。
+> **解析**：much 在此处用于疑问短语 how much，用于询问不可数概念的价格或数量。
 
 ### 7
 
-The answer included "`____`".
+You shouldn't spend all your savings on luxury designer goods for `____`.
 
-- [x] shouldn't
+- [x] check
 - [ ] high quality
-- [ ] fit
+- [ ] bill
 
-> **解析**：本题在单元主题情境中复习表达 shouldn't。
+> **解析**：shouldn't 为情态动词 should not 的缩写，表示“不应该”，用于提出购物建议。
 
 ### 8
 
-I remembered "`____`" from the conversation.
+Getting this brand-new phone at half price was a real bargain for `____`.
 
-- [x] bargain
+- [x] fit
 - [ ] amount
-- [ ] item
+- [ ] can
 
-> **解析**：本题在单元主题情境中复习表达 bargain。
+> **解析**：bargain 在此处作可数名词，意为“便宜货、划算的买卖”。a real bargain 意为“真划算”。
 
 ### 9
 
-My friend repeated "`____`" with a smile.
+Please add the items you like to your online shopping cart (`____`).
 
-- [x] cart
+- [x] fitting room
+- [ ] bargain
 - [ ] can't
-- [ ] left
 
-> **解析**：本题在单元主题情境中复习表达 cart。
+> **解析**：cart 为可数名词，意为“手推车、购物车”。shopping cart 即购物车。
 
 ### 10
 
-That chat about favorites ended with "`____`".
+I prefer to buy `____` clothes that last for years.
 
 - [x] high quality
-- [ ] fit
-- [ ] much
+- [ ] bill
+- [ ] cart
 
-> **解析**：本题在单元主题情境中复习表达 high quality。
+> **解析**：high quality 为复合形容词/名词短语，意为“高质量的/优质的”，作前置定语修饰 clothes。
 
 </quiz-cloze>

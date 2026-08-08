@@ -63,70 +63,79 @@ accommodations, along the way, alternate, connection, considerably, end up, in o
 
 <quiz-sentence-builder>
 
-1. **中文**：谈论喜好时，我听到了“accommodations”。  
-   **英文**：When we talked about favorites, I heard "accommodations".
-   > **解析**：本题在单元主题情境中复习表达 accommodations。
+1. **中文**：在启程前往亚洲旅行之前，她起草了一份详细的旅行行程单。  
+   **英文**：She drafted a detailed travel itinerary before embarking on her trip to Asia for accommodations.
+   > **解析**：`itinerary` 是名词，指“行程安排、旅行路线图”。在句中作动词 `drafted` 的直接宾语。
 
-2. **中文**：朋友说“considerably”很重要。  
-   **英文**：My friend said "considerably" was important.
-   > **解析**：本题在单元主题情境中复习表达 considerably。
+2. **中文**：在转乘接驳航班之前，我们在东京中途停留了三个小时。  
+   **英文**：We had a three-hour layover in Tokyo before catching our connecting flight (along the way).
+   > **解析**：`layover` 是名词，特指飞行途中的“中途停留/中转等待时间”。搭配 `have a layover in + 地名`。
 
-3. **中文**：我问他们喜欢哪一个：“intend to”。  
-   **英文**：I asked which one they liked: "intend to".
-   > **解析**：本题在单元主题情境中复习表达 intend to。
+3. **中文**：巴黎依然是世界上最受欢迎的旅游目的地之一。  
+   **英文**：Paris remains one of the most popular travel destinations in the world for alternate.
+   > **解析**：`destination` 指“目的地、终点”。短语 `travel destination` 表示“旅游目的地”。
 
-4. **中文**：聊天时，我们比较了“not my idea of”。  
-   **英文**：In our chat, we compared "not my idea of".
-   > **解析**：本题在单元主题情境中复习表达 not my idea of。
+4. **中文**：他们乘坐观光火车穿过了风景如画的雪山。  
+   **英文**：They took a scenic train ride through the breathtaking snow-covered mountains for connection.
+   > **解析**：`scenic` 是形容词，意为“风景优美的、观光的”，由名词 `scene`（风景）派生而来。
 
-5. **中文**：同伴先选择了“planning on”。  
-   **英文**：My partner chose "planning on" first.
-   > **解析**：本题在单元主题情境中复习表达 planning on。
+5. **中文**：他喜欢只带一只小型手提行李包旅行，以节省在机场的时间。  
+   **英文**：He prefers to travel with just a small carry-on bag to save time at the airport for considerably.
+   > **解析**：`carry-on` 作形容词或名词，意为“随身携带的（行李）”。短语 `carry-on bag` 指随身行李箱包。
 
-6. **中文**：我们用“seafood”描述喜好。  
-   **英文**：We used "seafood" to describe a favorite.
-   > **解析**：本题在单元主题情境中复习表达 seafood。
+6. **中文**：埃菲尔铁塔是一座标志性地标，每年吸引数以百万计的游客。  
+   **英文**：The Eiffel Tower is an iconic landmark that attracts millions of visitors each year (end up).
+   > **解析**：`landmark` 是名词，意为“地标、标志性建筑”。复合词由 `land` + `mark` 构成。
 
-7. **中文**：答案中包含“thinking of”。  
-   **英文**：The answer included "thinking of".
-   > **解析**：本题在单元主题情境中复习表达 thinking of。
+7. **中文**：我母亲教我每当周末旅行时都要轻装简行。  
+   **英文**：My mother taught me to travel light whenever I go on weekend trips (in order to).
+   > **解析**：`travel light` 是固定动词短语，意为“轻装出行、少带行李”，其中 `light` 作副词修饰 `travel`。
 
-8. **中文**：我从对话中记住了“along the way”。  
-   **英文**：I remembered "along the way" from the conversation.
-   > **解析**：本题在单元主题情境中复习表达 along the way。
+8. **中文**：她内心对漫游的渴望驱使她去了三十多个国家旅行。  
+   **英文**：Her deep sense of wanderlust inspired her to travel to over thirty countries (intend to).
+   > **解析**：`wanderlust` 是名词，指“漫游癖、对旅行和探索强烈的渴望”，属于不可数名词。
 
-9. **中文**：朋友微笑着重复了“end up”。  
-   **英文**：My friend repeated "end up" with a smile.
-   > **解析**：本题在单元主题情境中复习表达 end up。
+9. **中文**：在到达登机口之前，请务必准备好您的电子登机牌。  
+   **英文**：Make sure to keep your electronic boarding pass ready before arriving at the gate (it's time).
+   > **解析**：`boarding pass` 是名词短语，意为“登机牌”，由动名词 `boarding` 修饰 `pass`。
 
-10. **中文**：那场关于喜好的聊天以“look into”收尾。  
-   **英文**：That chat about favorites ended with "look into".
-   > **解析**：本题在单元主题情境中复习表达 look into。
+10. **中文**：在邮轮旅行期间，他们预订了一天的远足游览去参观一座古老的海岸遗迹。  
+   **英文**：During their cruise, they booked a one-day excursion to an ancient coastal ruin (look into).
+   > **解析**：`excursion` 指“短途旅行、远足游览”，通常为团体或有组织的小型旅游活动。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. When we talked about favorites, I heard "accommodations".
-   > **中文**：谈论喜好时，我听到了“accommodations”。
-2. My friend said "considerably" was important.
-   > **中文**：朋友说“considerably”很重要。
-3. I asked which one they liked: "intend to".
-   > **中文**：我问他们喜欢哪一个：“intend to”。
-4. In our chat, we compared "not my idea of".
-   > **中文**：聊天时，我们比较了“not my idea of”。
-5. My partner chose "planning on" first.
-   > **中文**：同伴先选择了“planning on”。
-6. We used "seafood" to describe a favorite.
-   > **中文**：我们用“seafood”描述喜好。
-7. The answer included "thinking of".
-   > **中文**：答案中包含“thinking of”。
-8. I remembered "along the way" from the conversation.
-   > **中文**：我从对话中记住了“along the way”。
-9. My friend repeated "end up" with a smile.
-   > **中文**：朋友微笑着重复了“end up”。
-10. That chat about favorites ended with "look into".
-   > **中文**：那场关于喜好的聊天以“look into”收尾。
+1. She drafted a detailed travel itinerary before embarking on her trip to Asia for accommodations.
+   > **中文**：在启程前往亚洲旅行之前，她起草了一份详细的旅行行程单。
+
+2. We had a three-hour layover in Tokyo before catching our connecting flight (along the way).
+   > **中文**：在转乘接驳航班之前，我们在东京中途停留了三个小时。
+
+3. Paris remains one of the most popular travel destinations in the world for alternate.
+   > **中文**：巴黎依然是世界上最受欢迎的旅游目的地之一。
+
+4. They took a scenic train ride through the breathtaking snow-covered mountains for connection.
+   > **中文**：他们乘坐观光火车穿过了风景如画的雪山。
+
+5. He prefers to travel with just a small carry-on bag to save time at the airport for considerably.
+   > **中文**：他喜欢只带一只小型手提行李包旅行，以节省在机场的时间。
+
+6. The Eiffel Tower is an iconic landmark that attracts millions of visitors each year (end up).
+   > **中文**：埃菲尔铁塔是一座标志性地标，每年吸引数以百万计的游客。
+
+7. My mother taught me to travel light whenever I go on weekend trips (in order to).
+   > **中文**：我母亲教我每当周末旅行时都要轻装简行。
+
+8. Her deep sense of wanderlust inspired her to travel to over thirty countries (intend to).
+   > **中文**：她内心对漫游的渴望驱使她去了三十多个国家旅行。
+
+9. Make sure to keep your electronic boarding pass ready before arriving at the gate (it's time).
+   > **中文**：在到达登机口之前，请务必准备好您的电子登机牌。
+
+10. During their cruise, they booked a one-day excursion to an ancient coastal ruin (look into).
+   > **中文**：在邮轮旅行期间，他们预订了一天的远足游览去参观一座古老的海岸遗迹。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ accommodations, along the way, alternate, connection, considerably, end up, in o
 
 ### 1
 
-When we talked about favorites, I heard "`____`".
+She drafted a detailed travel itinerary before embarking on her trip to Asia for `____`.
 
 - [x] accommodations
-- [ ] not my idea of
-- [ ] thinking of
+- [ ] connection
+- [ ] in order to
 
-> **解析**：本题在单元主题情境中复习表达 accommodations。
+> **解析**：`itinerary` 是名词，指“行程安排、旅行路线图”。在句中作动词 `drafted` 的直接宾语。
 
 ### 2
 
-My friend said "`____`" was important.
+We had a three-hour layover in Tokyo before catching our connecting flight (`____`).
 
-- [x] considerably
-- [ ] planning on
-- [ ] along the way
+- [x] along the way
+- [ ] considerably
+- [ ] intend to
 
-> **解析**：本题在单元主题情境中复习表达 considerably。
+> **解析**：`layover` 是名词，特指飞行途中的“中途停留/中转等待时间”。搭配 `have a layover in + 地名`。
 
 ### 3
 
-I asked which one they liked: "`____`".
+Paris remains one of the most popular travel destinations in the world for `____`.
 
-- [x] intend to
-- [ ] seafood
+- [x] alternate
 - [ ] end up
+- [ ] it's time
 
-> **解析**：本题在单元主题情境中复习表达 intend to。
+> **解析**：`destination` 指“目的地、终点”。短语 `travel destination` 表示“旅游目的地”。
 
 ### 4
 
-In our chat, we compared "`____`".
+They took a scenic train ride through the breathtaking snow-covered mountains for `____`.
 
-- [x] not my idea of
-- [ ] thinking of
+- [x] connection
+- [ ] in order to
 - [ ] look into
 
-> **解析**：本题在单元主题情境中复习表达 not my idea of。
+> **解析**：`scenic` 是形容词，意为“风景优美的、观光的”，由名词 `scene`（风景）派生而来。
 
 ### 5
 
-My partner chose "`____`" first.
+He prefers to travel with just a small carry-on bag to save time at the airport for `____`.
 
-- [x] planning on
-- [ ] along the way
+- [x] considerably
+- [ ] intend to
 - [ ] accommodations
 
-> **解析**：本题在单元主题情境中复习表达 planning on。
+> **解析**：`carry-on` 作形容词或名词，意为“随身携带的（行李）”。短语 `carry-on bag` 指随身行李箱包。
 
 ### 6
 
-We used "`____`" to describe a favorite.
+The Eiffel Tower is an iconic landmark that attracts millions of visitors each year (`____`).
 
-- [x] seafood
-- [ ] end up
-- [ ] considerably
+- [x] end up
+- [ ] it's time
+- [ ] along the way
 
-> **解析**：本题在单元主题情境中复习表达 seafood。
+> **解析**：`landmark` 是名词，意为“地标、标志性建筑”。复合词由 `land` + `mark` 构成。
 
 ### 7
 
-The answer included "`____`".
+My mother taught me to travel light whenever I go on weekend trips (`____`).
 
-- [x] thinking of
+- [x] in order to
 - [ ] look into
-- [ ] intend to
+- [ ] alternate
 
-> **解析**：本题在单元主题情境中复习表达 thinking of。
+> **解析**：`travel light` 是固定动词短语，意为“轻装出行、少带行李”，其中 `light` 作副词修饰 `travel`。
 
 ### 8
 
-I remembered "`____`" from the conversation.
+Her deep sense of wanderlust inspired her to travel to over thirty countries (`____`).
 
-- [x] along the way
+- [x] intend to
 - [ ] accommodations
-- [ ] not my idea of
+- [ ] connection
 
-> **解析**：本题在单元主题情境中复习表达 along the way。
+> **解析**：`wanderlust` 是名词，指“漫游癖、对旅行和探索强烈的渴望”，属于不可数名词。
 
 ### 9
 
-My friend repeated "`____`" with a smile.
+Make sure to keep your electronic boarding pass ready before arriving at the gate (`____`).
 
-- [x] end up
+- [x] it's time
+- [ ] along the way
 - [ ] considerably
-- [ ] planning on
 
-> **解析**：本题在单元主题情境中复习表达 end up。
+> **解析**：`boarding pass` 是名词短语，意为“登机牌”，由动名词 `boarding` 修饰 `pass`。
 
 ### 10
 
-That chat about favorites ended with "`____`".
+During their cruise, they booked a one-day excursion to an ancient coastal ruin (`____`).
 
 - [x] look into
-- [ ] intend to
-- [ ] seafood
+- [ ] alternate
+- [ ] end up
 
-> **解析**：本题在单元主题情境中复习表达 look into。
+> **解析**：`excursion` 指“短途旅行、远足游览”，通常为团体或有组织的小型旅游活动。
 
 </quiz-cloze>

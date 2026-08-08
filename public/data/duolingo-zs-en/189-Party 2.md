@@ -51,70 +51,79 @@ whose 用来问归属：Whose playlist is this? like 和 right 是口语中的�
 
 <quiz-sentence-builder>
 
-1. **中文**：在家里，我们谈到了“accent”。  
-   **英文**：At home, we talked about "accent".
-   > **解析**：本题在单元主题情境中复习表达 accent。
+1. **中文**：派对结束后我们留到很晚，一起打扫客厅。  
+   **英文**：We stayed late after the party to clean up the living room together for accent.
+   > **解析**：clean up 短语动词，意为“打扫；清理”，做及物动词时宾语可置于中间或后面。
 
-2. **中文**：家人提到了“can't”。  
-   **英文**：My family mentioned "can't".
-   > **解析**：本题在单元主题情境中复习表达 can't。
+2. **中文**：他们提前两小时到达，布置音响系统和装饰品。  
+   **英文**：They arrived two hours early to set up the sound system and decorations for bunch.
+   > **解析**：set up 短语动词，意为“布置；搭建；安装”。
 
-3. **中文**：在房间里，我注意到了“could”。  
-   **英文**：In the room, I noticed "could".
-   > **解析**：本题在单元主题情境中复习表达 could。
+3. **中文**：派对期间大家都在合唱，因为他们知道所有的歌词。  
+   **英文**：Everyone sang along during the party because they knew all the song lyrics for can.
+   > **解析**：lyrics 复数名词，意为“歌词”，通常用复数形式。
 
-4. **中文**：我们在家里用到了“gorgeous”。  
-   **英文**：We used "gorgeous" at home.
-   > **解析**：本题在单元主题情境中复习表达 gorgeous。
+4. **中文**：她带着一束五彩缤纷的鲜花来到生日派对。  
+   **英文**：She brought a colorful bunch of fresh flowers to the birthday party (can't).
+   > **解析**：bunch 可数名词，意为“一束；一串”，常用于 a bunch of flowers/grapes。
 
-5. **中文**：邻居询问了“mustache”。  
-   **英文**：My neighbor asked about "mustache".
-   > **解析**：本题在单元主题情境中复习表达 mustache。
+5. **中文**：用鲜浆果装饰的生日蛋糕看起来绝对华丽漂亮。  
+   **英文**：The birthday cake decorated with fresh berries looked absolutely gorgeous for charming.
+   > **解析**：gorgeous 形容词，意为“极美的；华丽的”，语气极强。
 
-6. **中文**：我在门边写下了“shouldn't”。  
-   **英文**：I wrote down "shouldn't" by the door.
-   > **解析**：本题在单元主题情境中复习表达 shouldn't。
+6. **中文**：主人以温暖的微笑和迷人的个性欢迎每一位客人。  
+   **英文**：The host welcomed every guest with a warm smile and a charming personality (clean up).
+   > **解析**：charming 形容词，意为“迷人的；有魅力的”，衍生自 charm。
 
-7. **中文**：晚饭后，我们重复了“will”。  
-   **英文**：After dinner, we repeated "will".
-   > **解析**：本题在单元主题情境中复习表达 will。
+7. **中文**：正规晚宴派对上的所有客人都穿着非常得体考究。  
+   **英文**：All the guests at the formal dinner party were extremely well-dressed (come in).
+   > **解析**：well-dressed 复合形容词，意为“穿着得体的；衣着考究的”。
 
-8. **中文**：家庭故事里包含“bunch”。  
-   **英文**：The family story included "bunch".
-   > **解析**：本题在单元主题情境中复习表达 bunch。
+8. **中文**：派对上的魔术师上唇上方留着一撮有趣的小胡子。  
+   **英文**：The magician at the party had a small funny mustache above his lip for could.
+   > **解析**：mustache 可数名词，意为“八字胡；胡须”（美式拼写），英式为 moustache。
 
-9. **中文**：睡前，我记住了“clean up”。  
-   **英文**：Before bed, I remembered "clean up".
-   > **解析**：本题在单元主题情境中复习表达 clean up。
+9. **中文**：他说话带着友好的英国口音，吸引了所有人的注意。  
+   **英文**：He spoke with a friendly British accent that caught everyone's attention (couldn't).
+   > **解析**：accent 可数名词，意为“口音；腔调”，如 British accent。
 
-10. **中文**：那个夜晚以“couldn't”收尾。  
-   **英文**：That evening ended with "couldn't".
-   > **解析**：本题在单元主题情境中复习表达 couldn't。
+10. **中文**：请进，把你的大衣放在前门大厅门附近。  
+   **英文**：Please come in and leave your coat near the front hallway door for doing.
+   > **解析**：come in 短语动词，常用作礼貌邀请开场白，意为“进来；请进”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At home, we talked about "accent".
-   > **中文**：在家里，我们谈到了“accent”。
-2. My family mentioned "can't".
-   > **中文**：家人提到了“can't”。
-3. In the room, I noticed "could".
-   > **中文**：在房间里，我注意到了“could”。
-4. We used "gorgeous" at home.
-   > **中文**：我们在家里用到了“gorgeous”。
-5. My neighbor asked about "mustache".
-   > **中文**：邻居询问了“mustache”。
-6. I wrote down "shouldn't" by the door.
-   > **中文**：我在门边写下了“shouldn't”。
-7. After dinner, we repeated "will".
-   > **中文**：晚饭后，我们重复了“will”。
-8. The family story included "bunch".
-   > **中文**：家庭故事里包含“bunch”。
-9. Before bed, I remembered "clean up".
-   > **中文**：睡前，我记住了“clean up”。
-10. That evening ended with "couldn't".
-   > **中文**：那个夜晚以“couldn't”收尾。
+1. We stayed late after the party to clean up the living room together for accent.
+   > **中文**：派对结束后我们留到很晚，一起打扫客厅。
+
+2. They arrived two hours early to set up the sound system and decorations for bunch.
+   > **中文**：他们提前两小时到达，布置音响系统和装饰品。
+
+3. Everyone sang along during the party because they knew all the song lyrics for can.
+   > **中文**：派对期间大家都在合唱，因为他们知道所有的歌词。
+
+4. She brought a colorful bunch of fresh flowers to the birthday party (can't).
+   > **中文**：她带着一束五彩缤纷的鲜花来到生日派对。
+
+5. The birthday cake decorated with fresh berries looked absolutely gorgeous for charming.
+   > **中文**：用鲜浆果装饰的生日蛋糕看起来绝对华丽漂亮。
+
+6. The host welcomed every guest with a warm smile and a charming personality (clean up).
+   > **中文**：主人以温暖的微笑和迷人的个性欢迎每一位客人。
+
+7. All the guests at the formal dinner party were extremely well-dressed (come in).
+   > **中文**：正规晚宴派对上的所有客人都穿着非常得体考究。
+
+8. The magician at the party had a small funny mustache above his lip for could.
+   > **中文**：派对上的魔术师上唇上方留着一撮有趣的小胡子。
+
+9. He spoke with a friendly British accent that caught everyone's attention (couldn't).
+   > **中文**：他说话带着友好的英国口音，吸引了所有人的注意。
+
+10. Please come in and leave your coat near the front hallway door for doing.
+   > **中文**：请进，把你的大衣放在前门大厅门附近。
 
 </quiz-listening>
 
@@ -126,102 +135,102 @@ whose 用来问归属：Whose playlist is this? like 和 right 是口语中的�
 
 ### 1
 
-At home, we talked about "`____`".
+We stayed late after the party to clean up the living room together for `____`.
 
 - [x] accent
-- [ ] gorgeous
-- [ ] will
+- [ ] can't
+- [ ] come in
 
-> **解析**：本题在单元主题情境中复习表达 accent。
+> **解析**：clean up 短语动词，意为“打扫；清理”，做及物动词时宾语可置于中间或后面。
 
 ### 2
 
-My family mentioned "`____`".
+They arrived two hours early to set up the sound system and decorations for `____`.
 
-- [x] can't
-- [ ] mustache
-- [ ] bunch
+- [x] bunch
+- [ ] charming
+- [ ] could
 
-> **解析**：本题在单元主题情境中复习表达 can't。
+> **解析**：set up 短语动词，意为“布置；搭建；安装”。
 
 ### 3
 
-In the room, I noticed "`____`".
+Everyone sang along during the party because they knew all the song lyrics for `____`.
 
-- [x] could
-- [ ] shouldn't
+- [x] can
 - [ ] clean up
+- [ ] couldn't
 
-> **解析**：本题在单元主题情境中复习表达 could。
+> **解析**：lyrics 复数名词，意为“歌词”，通常用复数形式。
 
 ### 4
 
-We used "`____`" at home.
+She brought a colorful bunch of fresh flowers to the birthday party (`____`).
 
-- [x] gorgeous
-- [ ] will
-- [ ] couldn't
+- [x] can't
+- [ ] come in
+- [ ] doing
 
-> **解析**：本题在单元主题情境中复习表达 gorgeous。
+> **解析**：bunch 可数名词，意为“一束；一串”，常用于 a bunch of flowers/grapes。
 
 ### 5
 
-My neighbor asked about "`____`".
+The birthday cake decorated with fresh berries looked absolutely gorgeous for `____`.
 
-- [x] mustache
-- [ ] bunch
+- [x] charming
+- [ ] could
 - [ ] accent
 
-> **解析**：本题在单元主题情境中复习表达 mustache。
+> **解析**：gorgeous 形容词，意为“极美的；华丽的”，语气极强。
 
 ### 6
 
-I wrote down "`____`" by the door.
+The host welcomed every guest with a warm smile and a charming personality (`____`).
 
-- [x] shouldn't
-- [ ] clean up
-- [ ] can't
+- [x] clean up
+- [ ] couldn't
+- [ ] bunch
 
-> **解析**：本题在单元主题情境中复习表达 shouldn't。
+> **解析**：charming 形容词，意为“迷人的；有魅力的”，衍生自 charm。
 
 ### 7
 
-After dinner, we repeated "`____`".
+All the guests at the formal dinner party were extremely well-dressed (`____`).
 
-- [x] will
-- [ ] couldn't
-- [ ] could
+- [x] come in
+- [ ] doing
+- [ ] can
 
-> **解析**：本题在单元主题情境中复习表达 will。
+> **解析**：well-dressed 复合形容词，意为“穿着得体的；衣着考究的”。
 
 ### 8
 
-The family story included "`____`".
+The magician at the party had a small funny mustache above his lip for `____`.
 
-- [x] bunch
+- [x] could
 - [ ] accent
-- [ ] gorgeous
+- [ ] can't
 
-> **解析**：本题在单元主题情境中复习表达 bunch。
+> **解析**：mustache 可数名词，意为“八字胡；胡须”（美式拼写），英式为 moustache。
 
 ### 9
 
-Before bed, I remembered "`____`".
+He spoke with a friendly British accent that caught everyone's attention (`____`).
 
-- [x] clean up
-- [ ] can't
-- [ ] mustache
+- [x] couldn't
+- [ ] bunch
+- [ ] charming
 
-> **解析**：本题在单元主题情境中复习表达 clean up。
+> **解析**：accent 可数名词，意为“口音；腔调”，如 British accent。
 
 ### 10
 
-That evening ended with "`____`".
+Please come in and leave your coat near the front hallway door for `____`.
 
-- [x] couldn't
-- [ ] could
-- [ ] shouldn't
+- [x] doing
+- [ ] can
+- [ ] clean up
 
-> **解析**：本题在单元主题情境中复习表达 couldn't。
+> **解析**：come in 短语动词，常用作礼貌邀请开场白，意为“进来；请进”。
 
 </quiz-cloze>

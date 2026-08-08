@@ -49,70 +49,79 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“be friends with”。  
-   **英文**：At work, we discussed "be friends with".
-   > **解析**：本题在单元主题情境中复习表达 be friends with。
+1. **中文**：博物馆展览展出了一首由著名作者手写的诗歌。  
+   **英文**：The museum exhibition featured a handwritten poem by a famous author (be friends with).
+   > **解析**：poem 可数名词，意为“诗；诗歌”。
 
-2. **中文**：同事提到了“going to”。  
-   **英文**：My coworker mentioned "going to".
-   > **解析**：本题在单元主题情境中复习表达 going to。
+2. **中文**：博物馆导游朗诵了一位著名国家诗人创作的诗句。  
+   **英文**：The museum guide recited lines composed by a celebrated national poet for copy.
+   > **解析**：poet 可数名词，意为“诗人”。
 
-3. **中文**：会议中，我听到了“oh my gosh”。  
-   **英文**：In the meeting, I heard "oh my gosh".
-   > **解析**：本题在单元主题情境中复习表达 oh my gosh。
+3. **中文**：在戏剧的中场休息期间，博物馆嘉宾在画廊里散步。  
+   **英文**：During the intermission of the play, museum guests walked around the gallery for cover.
+   > **解析**：intermission 可数名词，意为“中场休息；幕间休息”。
 
-4. **中文**：我把“poem”写进了笔记。  
-   **英文**：I added "poem" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 poem。
+4. **中文**：休息室里供应茶水和饼干等简便茶点。  
+   **英文**：Light refreshments such as tea and biscuits were served in the lounge (going to).
+   > **解析**：refreshments 常用复数名词，意为“茶点；点心饮料”。
 
-5. **中文**：经理解释了“scene”。  
-   **英文**：The manager explained "scene".
-   > **解析**：本题在单元主题情境中复习表达 scene。
+5. **中文**：这幅油画描绘了春天宁静的乡村景象。  
+   **英文**：This oil painting depicts a peaceful countryside scene in spring for intermission.
+   > **解析**：scene 可数名词，在此意为“景象；风景；场景”。
 
-6. **中文**：团队今天用到了“translation”。  
-   **英文**：Our team used "translation" today.
-   > **解析**：本题在单元主题情境中复习表达 translation。
+6. **中文**：古文本旁边紧挨着展示着一份英文翻译。  
+   **英文**：An English translation was displayed right next to the ancient text (it's good to).
+   > **解析**：translation 可数/不可数名词，意为“翻译；译本”，动词为 translate。
 
-7. **中文**：午饭前，我们查看了“copy”。  
-   **英文**：Before lunch, we checked "copy".
-   > **解析**：本题在单元主题情境中复习表达 copy。
+7. **中文**：参观者不应当触摸展出的历史文物。  
+   **英文**：Visitors are not supposed to touch the historical artifacts on display (oh my gosh).
+   > **解析**：be supposed to 常用短语，在此否定形式 be not supposed to 表示“不应当；被禁止”。
 
-8. **中文**：同事询问了“intermission”。  
-   **英文**：My colleague asked about "intermission".
-   > **解析**：本题在单元主题情境中复习表达 intermission。
+8. **中文**：玻璃罩旨在覆盖并保护这件珍贵的文物。  
+   **英文**：The glass case was designed to cover and protect the rare artifact (on the).
+   > **解析**：cover 及物动词，在此意为“覆盖；遮盖”。
 
-9. **中文**：报告中包含“on the”。  
-   **英文**：The report included "on the".
-   > **解析**：本题在单元主题情境中复习表达 on the。
+9. **中文**：礼品店出售这尊著名古代雕塑的精美复制品。  
+   **英文**：The gift shop sells an exact replica copy of the famous ancient sculpture for poem.
+   > **解析**：copy 可数名词，意为“复制品；副本”。
 
-10. **中文**：一天结束时，我记住了“refreshments”。  
-   **英文**：At the end of the day, I remembered "refreshments".
-   > **解析**：本题在单元主题情境中复习表达 refreshments。
+10. **中文**：这个房间是专门为保存珍贵的历史文献而设计的。  
+   **英文**：This room was specially designed to preserve delicate historical documents for poet.
+   > **解析**：specially 副词，意为“专门地；特地”，修饰动词 designed。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "be friends with".
-   > **中文**：工作中，我们讨论了“be friends with”。
-2. My coworker mentioned "going to".
-   > **中文**：同事提到了“going to”。
-3. In the meeting, I heard "oh my gosh".
-   > **中文**：会议中，我听到了“oh my gosh”。
-4. I added "poem" to my notes.
-   > **中文**：我把“poem”写进了笔记。
-5. The manager explained "scene".
-   > **中文**：经理解释了“scene”。
-6. Our team used "translation" today.
-   > **中文**：团队今天用到了“translation”。
-7. Before lunch, we checked "copy".
-   > **中文**：午饭前，我们查看了“copy”。
-8. My colleague asked about "intermission".
-   > **中文**：同事询问了“intermission”。
-9. The report included "on the".
-   > **中文**：报告中包含“on the”。
-10. At the end of the day, I remembered "refreshments".
-   > **中文**：一天结束时，我记住了“refreshments”。
+1. The museum exhibition featured a handwritten poem by a famous author (be friends with).
+   > **中文**：博物馆展览展出了一首由著名作者手写的诗歌。
+
+2. The museum guide recited lines composed by a celebrated national poet for copy.
+   > **中文**：博物馆导游朗诵了一位著名国家诗人创作的诗句。
+
+3. During the intermission of the play, museum guests walked around the gallery for cover.
+   > **中文**：在戏剧的中场休息期间，博物馆嘉宾在画廊里散步。
+
+4. Light refreshments such as tea and biscuits were served in the lounge (going to).
+   > **中文**：休息室里供应茶水和饼干等简便茶点。
+
+5. This oil painting depicts a peaceful countryside scene in spring for intermission.
+   > **中文**：这幅油画描绘了春天宁静的乡村景象。
+
+6. An English translation was displayed right next to the ancient text (it's good to).
+   > **中文**：古文本旁边紧挨着展示着一份英文翻译。
+
+7. Visitors are not supposed to touch the historical artifacts on display (oh my gosh).
+   > **中文**：参观者不应当触摸展出的历史文物。
+
+8. The glass case was designed to cover and protect the rare artifact (on the).
+   > **中文**：玻璃罩旨在覆盖并保护这件珍贵的文物。
+
+9. The gift shop sells an exact replica copy of the famous ancient sculpture for poem.
+   > **中文**：礼品店出售这尊著名古代雕塑的精美复制品。
+
+10. This room was specially designed to preserve delicate historical documents for poet.
+   > **中文**：这个房间是专门为保存珍贵的历史文献而设计的。
 
 </quiz-listening>
 
@@ -124,102 +133,102 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
 
 ### 1
 
-At work, we discussed "`____`".
+The museum exhibition featured a handwritten poem by a famous author (`____`).
 
 - [x] be friends with
-- [ ] poem
-- [ ] copy
+- [ ] going to
+- [ ] oh my gosh
 
-> **解析**：本题在单元主题情境中复习表达 be friends with。
+> **解析**：poem 可数名词，意为“诗；诗歌”。
 
 ### 2
 
-My coworker mentioned "`____`".
+The museum guide recited lines composed by a celebrated national poet for `____`.
 
-- [x] going to
-- [ ] scene
+- [x] copy
 - [ ] intermission
+- [ ] on the
 
-> **解析**：本题在单元主题情境中复习表达 going to。
+> **解析**：poet 可数名词，意为“诗人”。
 
 ### 3
 
-In the meeting, I heard "`____`".
+During the intermission of the play, museum guests walked around the gallery for `____`.
 
-- [x] oh my gosh
-- [ ] translation
-- [ ] on the
+- [x] cover
+- [ ] it's good to
+- [ ] poem
 
-> **解析**：本题在单元主题情境中复习表达 oh my gosh。
+> **解析**：intermission 可数名词，意为“中场休息；幕间休息”。
 
 ### 4
 
-I added "`____`" to my notes.
+Light refreshments such as tea and biscuits were served in the lounge (`____`).
 
-- [x] poem
-- [ ] copy
-- [ ] refreshments
+- [x] going to
+- [ ] oh my gosh
+- [ ] poet
 
-> **解析**：本题在单元主题情境中复习表达 poem。
+> **解析**：refreshments 常用复数名词，意为“茶点；点心饮料”。
 
 ### 5
 
-The manager explained "`____`".
+This oil painting depicts a peaceful countryside scene in spring for `____`.
 
-- [x] scene
-- [ ] intermission
+- [x] intermission
+- [ ] on the
 - [ ] be friends with
 
-> **解析**：本题在单元主题情境中复习表达 scene。
+> **解析**：scene 可数名词，在此意为“景象；风景；场景”。
 
 ### 6
 
-Our team used "`____`" today.
+An English translation was displayed right next to the ancient text (`____`).
 
-- [x] translation
-- [ ] on the
-- [ ] going to
+- [x] it's good to
+- [ ] poem
+- [ ] copy
 
-> **解析**：本题在单元主题情境中复习表达 translation。
+> **解析**：translation 可数/不可数名词，意为“翻译；译本”，动词为 translate。
 
 ### 7
 
-Before lunch, we checked "`____`".
+Visitors are not supposed to touch the historical artifacts on display (`____`).
 
-- [x] copy
-- [ ] refreshments
-- [ ] oh my gosh
+- [x] oh my gosh
+- [ ] poet
+- [ ] cover
 
-> **解析**：本题在单元主题情境中复习表达 copy。
+> **解析**：be supposed to 常用短语，在此否定形式 be not supposed to 表示“不应当；被禁止”。
 
 ### 8
 
-My colleague asked about "`____`".
+The glass case was designed to cover and protect the rare artifact (`____`).
 
-- [x] intermission
+- [x] on the
 - [ ] be friends with
-- [ ] poem
+- [ ] going to
 
-> **解析**：本题在单元主题情境中复习表达 intermission。
+> **解析**：cover 及物动词，在此意为“覆盖；遮盖”。
 
 ### 9
 
-The report included "`____`".
+The gift shop sells an exact replica copy of the famous ancient sculpture for `____`.
 
-- [x] on the
-- [ ] going to
-- [ ] scene
+- [x] poem
+- [ ] copy
+- [ ] intermission
 
-> **解析**：本题在单元主题情境中复习表达 on the。
+> **解析**：copy 可数名词，意为“复制品；副本”。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+This room was specially designed to preserve delicate historical documents for `____`.
 
-- [x] refreshments
-- [ ] oh my gosh
-- [ ] translation
+- [x] poet
+- [ ] cover
+- [ ] it's good to
 
-> **解析**：本题在单元主题情境中复习表达 refreshments。
+> **解析**：specially 副词，意为“专门地；特地”，修饰动词 designed。
 
 </quiz-cloze>

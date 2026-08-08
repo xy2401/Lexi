@@ -53,70 +53,79 @@ athletic, clap, curriculum, dangerously, fancy, foreigner, goalkeeper, if he wer
 
 <quiz-sentence-builder>
 
-1. **中文**：课堂上，老师介绍了“athletic”。  
-   **英文**：In class, the teacher introduced "athletic".
-   > **解析**：本题在单元主题情境中复习表达 athletic。
+1. **中文**：如果我是校长，我会减少所有学生的日常作业。  
+   **英文**：If I were the principal, I would reduce daily homework for all students for athletic.
+   > **解析**：if I were 是虚拟语气结构，表示与现在事实相反的假想，be 动词统一用 were。
 
-2. **中文**：我把“dangerously”写进笔记本。  
-   **英文**：I wrote "dangerously" in my notebook.
-   > **解析**：本题在单元主题情境中复习表达 dangerously。
+2. **中文**：如果你负责这家公司，你会做出什么改变？  
+   **英文**：What changes would you make if you were in charge of this company? for clap.
+   > **解析**：if you were 在虚拟条件句中表示对“你”身份的假设，主句使用 would + 动词原形。
 
-3. **中文**：同学解释了“if he were”。  
-   **英文**：My classmate explained "if he were".
-   > **解析**：本题在单元主题情境中复习表达 if he were。
+3. **中文**：学校引入了现代科学课程体系以激发学生的兴趣。  
+   **英文**：The school introduced a modern science curriculum to spark student interest.
+   > **解析**：curriculum 可数名词，意为“课程体系；全部课程”，复数形式可为 curricula 或 curriculums。
 
-4. **中文**：我们一起练习了“if we were”。  
-   **英文**：We practiced "if we were" together.
-   > **解析**：本题在单元主题情境中复习表达 if we were。
+4. **中文**：在证明了自己卓越的能力后，她接受了高管职位。  
+   **英文**：She accepted the executive position after proving her outstanding skills for dangerously.
+   > **解析**：position 可数名词，在此意为“职位；岗位”。
 
-5. **中文**：作业里包含“mean”。  
-   **英文**：The homework included "mean".
-   > **解析**：本题在单元主题情境中复习表达 mean。
+5. **中文**：在修改官方文件之前，你必须获得书面许可。  
+   **英文**：You must ask for written permission before editing the official documents for fancy.
+   > **解析**：permission 不可数名词，意为“允许；许可”，来自动词 permit。
 
-6. **中文**：我向老师询问了“position”。  
-   **英文**：I asked the teacher about "position".
-   > **解析**：本题在单元主题情境中复习表达 position。
+6. **中文**：市议会不允许建筑物高度超过五层。  
+   **英文**：The city council will not permit building height to exceed five stories for foreigner.
+   > **解析**：permit 在此作动词，意为“允许；准许”，常用结构 permit doing 或 permit somebody to do。
 
-7. **中文**：上课时，我听到了“style”。  
-   **英文**：During the lesson, I heard "style".
-   > **解析**：本题在单元主题情境中复习表达 style。
+7. **中文**：司机为小城研学设计了一条沿海风景优美的路线。  
+   **英文**：The driver planned a scenic route along the coast for the field trip for goalkeeper.
+   > **解析**：route 可数名词，意为“路线；航线”，读作 /ruːt/ 或 /raʊt/。
 
-8. **中文**：学习伙伴记住了“clap”。  
-   **英文**：My study partner remembered "clap".
-   > **解析**：本题在单元主题情境中复习表达 clap。
+8. **中文**：作为新城市的外籍人士，他向当地居民询问路线。  
+   **英文**：As a foreigner in the new city, he asked local residents for directions (if he were).
+   > **解析**：foreigner 可数名词，意为“外国客人；外国人”，来自形容词 foreign。
 
-9. **中文**：我们在例句中用到了“foreigner”。  
-   **英文**：We used "foreigner" in an example.
-   > **解析**：本题在单元主题情境中复习表达 foreigner。
+9. **中文**：由于非常有运动天赋，她加入了足球队和田径队。  
+   **英文**：Being very athletic, she joined both the soccer and track teams (if she were).
+   > **解析**：athletic 形容词，意为“有运动天赋的；健壮的”，来自 athlete。
 
-10. **中文**：下课后，我复习了“if she were”。  
-   **英文**：After class, I reviewed "if she were".
-   > **解析**：本题在单元主题情境中复习表达 if she were。
+10. **中文**：警觉的门将在决赛中扑出了三个难度极高的射门。  
+   **英文**：The alert goalkeeper saved three difficult shots during the final match (if they were).
+   > **解析**：goalkeeper 可数名词，意为“守门员；门将”（足球/冰球等）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In class, the teacher introduced "athletic".
-   > **中文**：课堂上，老师介绍了“athletic”。
-2. I wrote "dangerously" in my notebook.
-   > **中文**：我把“dangerously”写进笔记本。
-3. My classmate explained "if he were".
-   > **中文**：同学解释了“if he were”。
-4. We practiced "if we were" together.
-   > **中文**：我们一起练习了“if we were”。
-5. The homework included "mean".
-   > **中文**：作业里包含“mean”。
-6. I asked the teacher about "position".
-   > **中文**：我向老师询问了“position”。
-7. During the lesson, I heard "style".
-   > **中文**：上课时，我听到了“style”。
-8. My study partner remembered "clap".
-   > **中文**：学习伙伴记住了“clap”。
-9. We used "foreigner" in an example.
-   > **中文**：我们在例句中用到了“foreigner”。
-10. After class, I reviewed "if she were".
-   > **中文**：下课后，我复习了“if she were”。
+1. If I were the principal, I would reduce daily homework for all students for athletic.
+   > **中文**：如果我是校长，我会减少所有学生的日常作业。
+
+2. What changes would you make if you were in charge of this company? for clap.
+   > **中文**：如果你负责这家公司，你会做出什么改变？
+
+3. The school introduced a modern science curriculum to spark student interest.
+   > **中文**：学校引入了现代科学课程体系以激发学生的兴趣。
+
+4. She accepted the executive position after proving her outstanding skills for dangerously.
+   > **中文**：在证明了自己卓越的能力后，她接受了高管职位。
+
+5. You must ask for written permission before editing the official documents for fancy.
+   > **中文**：在修改官方文件之前，你必须获得书面许可。
+
+6. The city council will not permit building height to exceed five stories for foreigner.
+   > **中文**：市议会不允许建筑物高度超过五层。
+
+7. The driver planned a scenic route along the coast for the field trip for goalkeeper.
+   > **中文**：司机为小城研学设计了一条沿海风景优美的路线。
+
+8. As a foreigner in the new city, he asked local residents for directions (if he were).
+   > **中文**：作为新城市的外籍人士，他向当地居民询问路线。
+
+9. Being very athletic, she joined both the soccer and track teams (if she were).
+   > **中文**：由于非常有运动天赋，她加入了足球队和田径队。
+
+10. The alert goalkeeper saved three difficult shots during the final match (if they were).
+   > **中文**：警觉的门将在决赛中扑出了三个难度极高的射门。
 
 </quiz-listening>
 
@@ -128,102 +137,102 @@ athletic, clap, curriculum, dangerously, fancy, foreigner, goalkeeper, if he wer
 
 ### 1
 
-In class, the teacher introduced "`____`".
+If I were the principal, I would reduce daily homework for all students for `____`.
 
 - [x] athletic
-- [ ] if we were
-- [ ] style
+- [ ] dangerously
+- [ ] goalkeeper
 
-> **解析**：本题在单元主题情境中复习表达 athletic。
+> **解析**：if I were 是虚拟语气结构，表示与现在事实相反的假想，be 动词统一用 were。
 
 ### 2
 
-I wrote "`____`" in my notebook.
+What changes would you make if you were in charge of this company? for `____`.
 
-- [x] dangerously
-- [ ] mean
-- [ ] clap
+- [x] clap
+- [ ] fancy
+- [ ] if he were
 
-> **解析**：本题在单元主题情境中复习表达 dangerously。
+> **解析**：if you were 在虚拟条件句中表示对“你”身份的假设，主句使用 would + 动词原形。
 
 ### 3
 
-My classmate explained "`____`".
+The school introduced a modern science `____` to spark student interest.
 
-- [x] if he were
-- [ ] position
+- [x] curriculum
 - [ ] foreigner
+- [ ] if she were
 
-> **解析**：本题在单元主题情境中复习表达 if he were。
+> **解析**：curriculum 可数名词，意为“课程体系；全部课程”，复数形式可为 curricula 或 curriculums。
 
 ### 4
 
-We practiced "`____`" together.
+She accepted the executive position after proving her outstanding skills for `____`.
 
-- [x] if we were
-- [ ] style
-- [ ] if she were
+- [x] dangerously
+- [ ] goalkeeper
+- [ ] if they were
 
-> **解析**：本题在单元主题情境中复习表达 if we were。
+> **解析**：position 可数名词，在此意为“职位；岗位”。
 
 ### 5
 
-The homework included "`____`".
+You must ask for written permission before editing the official documents for `____`.
 
-- [x] mean
-- [ ] clap
+- [x] fancy
+- [ ] if he were
 - [ ] athletic
 
-> **解析**：本题在单元主题情境中复习表达 mean。
+> **解析**：permission 不可数名词，意为“允许；许可”，来自动词 permit。
 
 ### 6
 
-I asked the teacher about "`____`".
+The city council will not permit building height to exceed five stories for `____`.
 
-- [x] position
-- [ ] foreigner
-- [ ] dangerously
+- [x] foreigner
+- [ ] if she were
+- [ ] clap
 
-> **解析**：本题在单元主题情境中复习表达 position。
+> **解析**：permit 在此作动词，意为“允许；准许”，常用结构 permit doing 或 permit somebody to do。
 
 ### 7
 
-During the lesson, I heard "`____`".
+The driver planned a scenic route along the coast for the field trip for `____`.
 
-- [x] style
-- [ ] if she were
-- [ ] if he were
+- [x] goalkeeper
+- [ ] if they were
+- [ ] curriculum
 
-> **解析**：本题在单元主题情境中复习表达 style。
+> **解析**：route 可数名词，意为“路线；航线”，读作 /ruːt/ 或 /raʊt/。
 
 ### 8
 
-My study partner remembered "`____`".
+As a foreigner in the new city, he asked local residents for directions (`____`).
 
-- [x] clap
+- [x] if he were
 - [ ] athletic
-- [ ] if we were
+- [ ] dangerously
 
-> **解析**：本题在单元主题情境中复习表达 clap。
+> **解析**：foreigner 可数名词，意为“外国客人；外国人”，来自形容词 foreign。
 
 ### 9
 
-We used "`____`" in an example.
+Being very athletic, she joined both the soccer and track teams (`____`).
 
-- [x] foreigner
-- [ ] dangerously
-- [ ] mean
+- [x] if she were
+- [ ] clap
+- [ ] fancy
 
-> **解析**：本题在单元主题情境中复习表达 foreigner。
+> **解析**：athletic 形容词，意为“有运动天赋的；健壮的”，来自 athlete。
 
 ### 10
 
-After class, I reviewed "`____`".
+The alert goalkeeper saved three difficult shots during the final match (`____`).
 
-- [x] if she were
-- [ ] if he were
-- [ ] position
+- [x] if they were
+- [ ] curriculum
+- [ ] foreigner
 
-> **解析**：本题在单元主题情境中复习表达 if she were。
+> **解析**：goalkeeper 可数名词，意为“守门员；门将”（足球/冰球等）。
 
 </quiz-cloze>

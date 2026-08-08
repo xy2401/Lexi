@@ -57,70 +57,79 @@ used to（词表中写作 use to，在否定和疑问中体现为 didn't use to�
 
 <quiz-sentence-builder>
 
-1. **中文**：在家里，我们谈到了“adopt”。  
-   **英文**：At home, we talked about "adopt".
-   > **解析**：本题在单元主题情境中复习表达 adopt。
+1. **中文**：我们家决定从当地动物收容所领养一只收容猫。  
+   **英文**：Our family decided to adopt a rescue cat from the local animal shelter.
+   > **解析**：adopt 为及物动词，意为“领养、收养”。adopt a cat/pet 指领养宠物。
 
-2. **中文**：家人提到了“guest room”。  
-   **英文**：My family mentioned "guest room".
-   > **解析**：本题在单元主题情境中复习表达 guest room。
+2. **中文**：我们为到访的亲戚准备了楼上的客房。  
+   **英文**：We prepared the upstairs guest room for our visiting relatives for couple.
+   > **解析**：guest room 为名词短语，指“客房、备用客卧”。
 
-3. **中文**：在房间里，我注意到了“lay”。  
-   **英文**：In the room, I noticed "lay".
-   > **解析**：本题在单元主题情境中复习表达 lay。
+3. **中文**：晚饭前请把干净的桌布铺在餐桌上。  
+   **英文**：Please lay the clean tablecloth on the dining table before dinner (didn't).
+   > **解析**：lay 为及物动词，意为“铺放、平放”，后面须接宾语（the clean tablecloth）。
 
-4. **中文**：我们在家里用到了“next door”。  
-   **英文**：We used "next door" at home.
-   > **解析**：本题在单元主题情境中复习表达 next door。
+4. **中文**：住在隔壁的友好邻居邀请我们过去喝下午茶。  
+   **英文**：The friendly neighbors living next door invited us over for afternoon tea for easygoing.
+   > **解析**：next door 为副词性短语，意为“在隔壁、隔壁地”，作后置定语修饰 neighbors。
 
-5. **中文**：邻居询问了“property”。  
-   **英文**：My neighbor asked about "property".
-   > **解析**：本题在单元主题情境中复习表达 property。
+5. **中文**：房地产中介向我们展示了一处靠近湖边的美丽住宅房产。  
+   **英文**：The real estate agent showed us a beautiful residential property near the lake (guest room).
+   > **解析**：property 为名词，意为“房产、地产、资产”。residential property 即住宅房产。
 
-6. **中文**：我在门边写下了“stranger”。  
-   **英文**：I wrote down "stranger" by the door.
-   > **解析**：本题在单元主题情境中复习表达 stranger。
+6. **中文**：当你独自在家时，不应该给陌生人开门。  
+   **英文**：You shouldn't open the front door to a total stranger when you are home alone for kettle.
+   > **解析**：stranger 为可数名词，意为“陌生人”。a total stranger 指完全陌生的人。
 
-7. **中文**：晚饭后，我们重复了“vehicle”。  
-   **英文**：After dinner, we repeated "vehicle".
-   > **解析**：本题在单元主题情境中复习表达 vehicle。
+7. **中文**：居民被要求将机动车辆停放在指定车库内。  
+   **英文**：Residents are requested to park their motor vehicle inside the designated garage for ladder.
+   > **解析**：vehicle 为可数名词，意为“车辆、交通工具”。motor vehicle 指机动车。
 
-8. **中文**：家庭故事里包含“couple”。  
-   **英文**：The family story included "couple".
-   > **解析**：本题在单元主题情境中复习表达 couple。
+8. **中文**：一对新婚年轻夫妇搬进了走廊对面的公寓。  
+   **英文**：A young newlywed couple moved into the apartment across the hallway for lady.
+   > **解析**：couple 为可数名词，意为“夫妻、情侣、一对”。a couple 指一对夫妇。
 
-9. **中文**：睡前，我记住了“kettle”。  
-   **英文**：Before bed, I remembered "kettle".
-   > **解析**：本题在单元主题情境中复习表达 kettle。
+9. **中文**：我用电水壶烧水泡了一壶热茶。  
+   **英文**：I boiled water in the electric kettle to make a pot of hot tea for lay.
+   > **解析**：kettle 为可数名词，指“水壶、烧水壶”。electric kettle 即电水壶。
 
-10. **中文**：那个夜晚以“lie”收尾。  
-   **英文**：That evening ended with "lie".
-   > **解析**：本题在单元主题情境中复习表达 lie。
+10. **中文**：在一整天的房屋打扫之后，我只想躺在舒适的沙发上。  
+   **英文**：After a long day of house cleaning, I just want to lie down on the comfortable sofa.
+   > **解析**：lie 为不及物动词，意为“躺、平卧”。lie down 意为“躺下พัก息”，过去式为 lay。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At home, we talked about "adopt".
-   > **中文**：在家里，我们谈到了“adopt”。
-2. My family mentioned "guest room".
-   > **中文**：家人提到了“guest room”。
-3. In the room, I noticed "lay".
-   > **中文**：在房间里，我注意到了“lay”。
-4. We used "next door" at home.
-   > **中文**：我们在家里用到了“next door”。
-5. My neighbor asked about "property".
-   > **中文**：邻居询问了“property”。
-6. I wrote down "stranger" by the door.
-   > **中文**：我在门边写下了“stranger”。
-7. After dinner, we repeated "vehicle".
-   > **中文**：晚饭后，我们重复了“vehicle”。
-8. The family story included "couple".
-   > **中文**：家庭故事里包含“couple”。
-9. Before bed, I remembered "kettle".
-   > **中文**：睡前，我记住了“kettle”。
-10. That evening ended with "lie".
-   > **中文**：那个夜晚以“lie”收尾。
+1. Our family decided to adopt a rescue cat from the local animal shelter.
+   > **中文**：我们家决定从当地动物收容所领养一只收容猫。
+
+2. We prepared the upstairs guest room for our visiting relatives for couple.
+   > **中文**：我们为到访的亲戚准备了楼上的客房。
+
+3. Please lay the clean tablecloth on the dining table before dinner (didn't).
+   > **中文**：晚饭前请把干净的桌布铺在餐桌上。
+
+4. The friendly neighbors living next door invited us over for afternoon tea for easygoing.
+   > **中文**：住在隔壁的友好邻居邀请我们过去喝下午茶。
+
+5. The real estate agent showed us a beautiful residential property near the lake (guest room).
+   > **中文**：房地产中介向我们展示了一处靠近湖边的美丽住宅房产。
+
+6. You shouldn't open the front door to a total stranger when you are home alone for kettle.
+   > **中文**：当你独自在家时，不应该给陌生人开门。
+
+7. Residents are requested to park their motor vehicle inside the designated garage for ladder.
+   > **中文**：居民被要求将机动车辆停放在指定车库内。
+
+8. A young newlywed couple moved into the apartment across the hallway for lady.
+   > **中文**：一对新婚年轻夫妇搬进了走廊对面的公寓。
+
+9. I boiled water in the electric kettle to make a pot of hot tea for lay.
+   > **中文**：我用电水壶烧水泡了一壶热茶。
+
+10. After a long day of house cleaning, I just want to lie down on the comfortable sofa.
+   > **中文**：在一整天的房屋打扫之后，我只想躺在舒适的沙发上。
 
 </quiz-listening>
 
@@ -132,102 +141,102 @@ used to（词表中写作 use to，在否定和疑问中体现为 didn't use to�
 
 ### 1
 
-At home, we talked about "`____`".
+Our family decided to `____` a rescue cat from the local animal shelter.
 
 - [x] adopt
-- [ ] next door
-- [ ] vehicle
+- [ ] easygoing
+- [ ] ladder
 
-> **解析**：本题在单元主题情境中复习表达 adopt。
+> **解析**：adopt 为及物动词，意为“领养、收养”。adopt a cat/pet 指领养宠物。
 
 ### 2
 
-My family mentioned "`____`".
+We prepared the upstairs guest room for our visiting relatives for `____`.
 
-- [x] guest room
-- [ ] property
-- [ ] couple
+- [x] couple
+- [ ] guest room
+- [ ] lady
 
-> **解析**：本题在单元主题情境中复习表达 guest room。
+> **解析**：guest room 为名词短语，指“客房、备用客卧”。
 
 ### 3
 
-In the room, I noticed "`____`".
+Please lay the clean tablecloth on the dining table before dinner (`____`).
 
-- [x] lay
-- [ ] stranger
+- [x] didn't
 - [ ] kettle
+- [ ] lay
 
-> **解析**：本题在单元主题情境中复习表达 lay。
+> **解析**：lay 为及物动词，意为“铺放、平放”，后面须接宾语（the clean tablecloth）。
 
 ### 4
 
-We used "`____`" at home.
+The friendly neighbors living next door invited us over for afternoon tea for `____`.
 
-- [x] next door
-- [ ] vehicle
+- [x] easygoing
+- [ ] ladder
 - [ ] lie
 
-> **解析**：本题在单元主题情境中复习表达 next door。
+> **解析**：next door 为副词性短语，意为“在隔壁、隔壁地”，作后置定语修饰 neighbors。
 
 ### 5
 
-My neighbor asked about "`____`".
+The real estate agent showed us a beautiful residential property near the lake (`____`).
 
-- [x] property
-- [ ] couple
+- [x] guest room
+- [ ] lady
 - [ ] adopt
 
-> **解析**：本题在单元主题情境中复习表达 property。
+> **解析**：property 为名词，意为“房产、地产、资产”。residential property 即住宅房产。
 
 ### 6
 
-I wrote down "`____`" by the door.
+You shouldn't open the front door to a total stranger when you are home alone for `____`.
 
-- [x] stranger
-- [ ] kettle
-- [ ] guest room
+- [x] kettle
+- [ ] lay
+- [ ] couple
 
-> **解析**：本题在单元主题情境中复习表达 stranger。
+> **解析**：stranger 为可数名词，意为“陌生人”。a total stranger 指完全陌生的人。
 
 ### 7
 
-After dinner, we repeated "`____`".
+Residents are requested to park their motor vehicle inside the designated garage for `____`.
 
-- [x] vehicle
+- [x] ladder
 - [ ] lie
-- [ ] lay
+- [ ] didn't
 
-> **解析**：本题在单元主题情境中复习表达 vehicle。
+> **解析**：vehicle 为可数名词，意为“车辆、交通工具”。motor vehicle 指机动车。
 
 ### 8
 
-The family story included "`____`".
+A young newlywed couple moved into the apartment across the hallway for `____`.
 
-- [x] couple
+- [x] lady
 - [ ] adopt
-- [ ] next door
+- [ ] easygoing
 
-> **解析**：本题在单元主题情境中复习表达 couple。
+> **解析**：couple 为可数名词，意为“夫妻、情侣、一对”。a couple 指一对夫妇。
 
 ### 9
 
-Before bed, I remembered "`____`".
+I boiled water in the electric kettle to make a pot of hot tea for `____`.
 
-- [x] kettle
+- [x] lay
+- [ ] couple
 - [ ] guest room
-- [ ] property
 
-> **解析**：本题在单元主题情境中复习表达 kettle。
+> **解析**：kettle 为可数名词，指“水壶、烧水壶”。electric kettle 即电水壶。
 
 ### 10
 
-That evening ended with "`____`".
+After a long day of house cleaning, I just want to `____` down on the comfortable sofa.
 
 - [x] lie
-- [ ] lay
-- [ ] stranger
+- [ ] didn't
+- [ ] kettle
 
-> **解析**：本题在单元主题情境中复习表达 lie。
+> **解析**：lie 为不及物动词，意为“躺、平卧”。lie down 意为“躺下พัก息”，过去式为 lay。
 
 </quiz-cloze>

@@ -61,70 +61,79 @@ get sick / get worse 用 get 表示变化。advise sb to do 是"建议某人做"
 
 <quiz-sentence-builder>
 
-1. **中文**：在诊所里，我听到了“advise”。  
-   **英文**：At the clinic, I heard "advise".
-   > **解析**：本题在单元主题情境中复习表达 advise。
+1. **中文**：医生们建议患者在感冒时多喝水并注意休息。  
+   **英文**：Doctors advise patients to drink plenty of water and rest when they have a cold.
+   > **解析**：advise 为动词，意为“建议、劝告”。固定句型 advise sb. to do sth.（建议某人做某事）。名词为 advice（不可数）。
 
-2. **中文**：医生解释了“cut”。  
-   **英文**：The doctor explained "cut".
-   > **解析**：本题在单元主题情境中复习表达 cut。
+2. **中文**：定期体检有助于在健康问题变得严重之前检测出它们。  
+   **英文**：Regular medical checkups can help detect health issues before they become serious (bless you).
+   > **解析**：medical 为形容词，意为“医疗的、医学的”。medical checkup 意为“体检”。detect 意为“检测/发现”。
 
-3. **中文**：我们认真谈到了“drugstore”。  
-   **英文**：We talked about "drugstore" carefully.
-   > **解析**：本题在单元主题情境中复习表达 drugstore。
+3. **中文**：根据处方，每日两次饭后服用两片药。  
+   **英文**：Take two pills after meals twice daily according to the prescription for bone.
+   > **解析**：pill 为可数名词，意为“药片、丸药”。take pills 意为“吃药”。twice daily 意为“一日两次”。
 
-4. **中文**：我把“healthier”写进健康笔记。  
-   **英文**：I wrote "healthier" in my health notes.
-   > **解析**：本题在单元主题情境中复习表达 healthier。
+4. **中文**：你可以在附近的任何一家药店购买非处方药。  
+   **英文**：You can purchase over-the-counter medicine at any drugstore nearby for catch.
+   > **解析**：drugstore 为名词，意为“药房、药店”（美式英语）。over-the-counter medicine 意为“非处方药”。
 
-5. **中文**：护士重复了“painful”。  
-   **英文**：The nurse repeated "painful".
-   > **解析**：本题在单元主题情境中复习表达 painful。
+5. **中文**：饮食健康的人在冬天很少生病。  
+   **英文**：People who eat healthily rarely get sick during winter for cut.
+   > **解析**：get sick 为动词短语，意为“生病”。
 
-6. **中文**：朋友询问了“sleep”。  
-   **英文**：My friend asked about "sleep".
-   > **解析**：本题在单元主题情境中复习表达 sleep。
+6. **中文**：在打篮球拧了脚踝之后，走路对他来说变得非常痛苦/疼痛。  
+   **英文**：Walking became very painful for him after he twisted his ankle during basketball for disease.
+   > **解析**：painful 为形容词，由 pain + -ful 构成，意为“痛苦的、疼痛的”。作表语修饰 Walking。
 
-7. **中文**：建议中包含“test”。  
-   **英文**：The advice included "test".
-   > **解析**：本题在单元主题情境中复习表达 test。
+7. **中文**：医生强烈建议他戒烟以保护他的肺部。  
+   **英文**：The doctor strongly advised him to quit smoking to protect his lungs for drug.
+   > **解析**：quit 为动词，意为“戒除、停止”。后接动名词形式（quit smoking 戒烟）。过去式同为 quit。
 
-8. **中文**：就诊后，我记住了“bless you”。  
-   **英文**：After the visit, I remembered "bless you".
-   > **解析**：本题在单元主题情境中复习表达 bless you。
+8. **中文**：均衡饮食能增强你的免疫系统，以击退季节性疾病。  
+   **英文**：Eating a balanced diet boosts your immune system to fight off seasonal illness for drugstore.
+   > **解析**：illness 为名词，意为“疾病、恙病”。boost immune system 意为“增强免疫系统”。fight off 意为“击退”。
 
-9. **中文**：我们在对话中用到了“disease”。  
-   **英文**：We used "disease" in the conversation.
-   > **解析**：本题在单元主题情境中复习表达 disease。
+9. **中文**：当你咳嗽或打喷嚏时，用纸巾盖住口鼻。  
+   **英文**：Cover your mouth and nose with a tissue when you cough or sneeze for get.
+   > **解析**：sneeze 为动词，意为“打喷嚏”。cover your mouth 意为“盖住口鼻”。tissue 意为“纸巾”。
 
-10. **中文**：那次健康交流以“get sick”收尾。  
-   **英文**：That health talk ended with "get sick".
-   > **解析**：本题在单元主题情境中复习表达 get sick。
+10. **中文**：用清水替代含糖汽水会让你的生活方式健康得多。  
+   **英文**：Replacing sugary sodas with fresh water will make your lifestyle much healthier (get sick).
+   > **解析**：healthier 为 healthy 的比较级，意为“更健康的”。make your lifestyle healthier 表示“使你的生活方式更健康”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the clinic, I heard "advise".
-   > **中文**：在诊所里，我听到了“advise”。
-2. The doctor explained "cut".
-   > **中文**：医生解释了“cut”。
-3. We talked about "drugstore" carefully.
-   > **中文**：我们认真谈到了“drugstore”。
-4. I wrote "healthier" in my health notes.
-   > **中文**：我把“healthier”写进健康笔记。
-5. The nurse repeated "painful".
-   > **中文**：护士重复了“painful”。
-6. My friend asked about "sleep".
-   > **中文**：朋友询问了“sleep”。
-7. The advice included "test".
-   > **中文**：建议中包含“test”。
-8. After the visit, I remembered "bless you".
-   > **中文**：就诊后，我记住了“bless you”。
-9. We used "disease" in the conversation.
-   > **中文**：我们在对话中用到了“disease”。
-10. That health talk ended with "get sick".
-   > **中文**：那次健康交流以“get sick”收尾。
+1. Doctors advise patients to drink plenty of water and rest when they have a cold.
+   > **中文**：医生们建议患者在感冒时多喝水并注意休息。
+
+2. Regular medical checkups can help detect health issues before they become serious (bless you).
+   > **中文**：定期体检有助于在健康问题变得严重之前检测出它们。
+
+3. Take two pills after meals twice daily according to the prescription for bone.
+   > **中文**：根据处方，每日两次饭后服用两片药。
+
+4. You can purchase over-the-counter medicine at any drugstore nearby for catch.
+   > **中文**：你可以在附近的任何一家药店购买非处方药。
+
+5. People who eat healthily rarely get sick during winter for cut.
+   > **中文**：饮食健康的人在冬天很少生病。
+
+6. Walking became very painful for him after he twisted his ankle during basketball for disease.
+   > **中文**：在打篮球拧了脚踝之后，走路对他来说变得非常痛苦/疼痛。
+
+7. The doctor strongly advised him to quit smoking to protect his lungs for drug.
+   > **中文**：医生强烈建议他戒烟以保护他的肺部。
+
+8. Eating a balanced diet boosts your immune system to fight off seasonal illness for drugstore.
+   > **中文**：均衡饮食能增强你的免疫系统，以击退季节性疾病。
+
+9. Cover your mouth and nose with a tissue when you cough or sneeze for get.
+   > **中文**：当你咳嗽或打喷嚏时，用纸巾盖住口鼻。
+
+10. Replacing sugary sodas with fresh water will make your lifestyle much healthier (get sick).
+   > **中文**：用清水替代含糖汽水会让你的生活方式健康得多。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ get sick / get worse 用 get 表示变化。advise sb to do 是"建议某人做"
 
 ### 1
 
-At the clinic, I heard "`____`".
+Doctors `____` patients to drink plenty of water and rest when they have a cold.
 
 - [x] advise
-- [ ] healthier
-- [ ] test
+- [ ] catch
+- [ ] drug
 
-> **解析**：本题在单元主题情境中复习表达 advise。
+> **解析**：advise 为动词，意为“建议、劝告”。固定句型 advise sb. to do sth.（建议某人做某事）。名词为 advice（不可数）。
 
 ### 2
 
-The doctor explained "`____`".
+Regular medical checkups can help detect health issues before they become serious (`____`).
 
-- [x] cut
-- [ ] painful
-- [ ] bless you
+- [x] bless you
+- [ ] cut
+- [ ] drugstore
 
-> **解析**：本题在单元主题情境中复习表达 cut。
+> **解析**：medical 为形容词，意为“医疗的、医学的”。medical checkup 意为“体检”。detect 意为“检测/发现”。
 
 ### 3
 
-We talked about "`____`" carefully.
+Take two pills after meals twice daily according to the prescription for `____`.
 
-- [x] drugstore
-- [ ] sleep
+- [x] bone
 - [ ] disease
+- [ ] get
 
-> **解析**：本题在单元主题情境中复习表达 drugstore。
+> **解析**：pill 为可数名词，意为“药片、丸药”。take pills 意为“吃药”。twice daily 意为“一日两次”。
 
 ### 4
 
-I wrote "`____`" in my health notes.
+You can purchase over-the-counter medicine at any drugstore nearby for `____`.
 
-- [x] healthier
-- [ ] test
+- [x] catch
+- [ ] drug
 - [ ] get sick
 
-> **解析**：本题在单元主题情境中复习表达 healthier。
+> **解析**：drugstore 为名词，意为“药房、药店”（美式英语）。over-the-counter medicine 意为“非处方药”。
 
 ### 5
 
-The nurse repeated "`____`".
+People who eat healthily rarely get sick during winter for `____`.
 
-- [x] painful
-- [ ] bless you
+- [x] cut
+- [ ] drugstore
 - [ ] advise
 
-> **解析**：本题在单元主题情境中复习表达 painful。
+> **解析**：get sick 为动词短语，意为“生病”。
 
 ### 6
 
-My friend asked about "`____`".
+Walking became very painful for him after he twisted his ankle during basketball for `____`.
 
-- [x] sleep
-- [ ] disease
-- [ ] cut
+- [x] disease
+- [ ] get
+- [ ] bless you
 
-> **解析**：本题在单元主题情境中复习表达 sleep。
+> **解析**：painful 为形容词，由 pain + -ful 构成，意为“痛苦的、疼痛的”。作表语修饰 Walking。
 
 ### 7
 
-The advice included "`____`".
+The doctor strongly advised him to quit smoking to protect his lungs for `____`.
 
-- [x] test
+- [x] drug
 - [ ] get sick
-- [ ] drugstore
+- [ ] bone
 
-> **解析**：本题在单元主题情境中复习表达 test。
+> **解析**：quit 为动词，意为“戒除、停止”。后接动名词形式（quit smoking 戒烟）。过去式同为 quit。
 
 ### 8
 
-After the visit, I remembered "`____`".
+Eating a balanced diet boosts your immune system to fight off seasonal illness for `____`.
 
-- [x] bless you
+- [x] drugstore
 - [ ] advise
-- [ ] healthier
+- [ ] catch
 
-> **解析**：本题在单元主题情境中复习表达 bless you。
+> **解析**：illness 为名词，意为“疾病、恙病”。boost immune system 意为“增强免疫系统”。fight off 意为“击退”。
 
 ### 9
 
-We used "`____`" in the conversation.
+Cover your mouth and nose with a tissue when you cough or sneeze for `____`.
 
-- [x] disease
+- [x] get
+- [ ] bless you
 - [ ] cut
-- [ ] painful
 
-> **解析**：本题在单元主题情境中复习表达 disease。
+> **解析**：sneeze 为动词，意为“打喷嚏”。cover your mouth 意为“盖住口鼻”。tissue 意为“纸巾”。
 
 ### 10
 
-That health talk ended with "`____`".
+Replacing sugary sodas with fresh water will make your lifestyle much healthier (`____`).
 
 - [x] get sick
-- [ ] drugstore
-- [ ] sleep
+- [ ] bone
+- [ ] disease
 
-> **解析**：本题在单元主题情境中复习表达 get sick。
+> **解析**：healthier 为 healthy 的比较级，意为“更健康的”。make your lifestyle healthier 表示“使你的生活方式更健康”。
 
 </quiz-cloze>

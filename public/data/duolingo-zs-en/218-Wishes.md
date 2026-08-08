@@ -63,70 +63,79 @@ afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if o
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“afraid”。  
-   **英文**：In this situation, I heard "afraid".
-   > **解析**：本题在单元主题情境中复习表达 afraid。
+1. **中文**：我恐怕我们今天没有足够的时间去参观博物馆了。  
+   **英文**：I am afraid that we will not have enough time to visit the museum today.
+   > **解析**：`be afraid that...` 为固定句型，用于礼貌地表达担心、遗憾或不便。
 
-2. **中文**：同伴解释了“come true”。  
-   **英文**：My partner explained "come true".
-   > **解析**：本题在单元主题情境中复习表达 come true。
+2. **中文**：如果你努力工作，你出国留学的梦想一定会实现。  
+   **英文**：If you work hard, your dream of studying abroad will surely come true (as many).
+   > **解析**：`come true` 为固定动词短语，意为“（梦想、预言等）实现；成为现实”。主语通常为 `dream`, `wish`, `hope` 等。
 
-3. **中文**：我们一起谈到了“habit”。  
-   **英文**：We talked about "habit" together.
-   > **解析**：本题在单元主题情境中复习表达 habit。
+3. **中文**：睡前阅读半小时是一个值得培养的好习惯。  
+   **英文**：Reading for thirty minutes before bedtime is a great habit to cultivate for chance.
+   > **解析**：`habit` 可数名词，意为“习惯”。搭配 `cultivate a habit / form a habit`（养成习惯）。
 
-4. **中文**：我记下了“if only”。  
-   **英文**：I wrote down "if only".
-   > **解析**：本题在单元主题情境中复习表达 if only。
+4. **中文**：要是当时给我那个机会时我抓住了该有多好啊！  
+   **英文**：If only I had taken that opportunity when it was offered to me (come true).
+   > **解析**：`if only` 为固定连词短语，引导虚拟语气感叹句，表达对过去事的强烈的遗憾与愿望（意为“要是……就好了”）。
 
-5. **中文**：例句中包含“oh well”。  
-   **英文**：The example included "oh well".
-   > **解析**：本题在单元主题情境中复习表达 oh well。
+5. **中文**：唉，算了，我们今天输掉了比赛，但下周我们可以再试一次。  
+   **英文**：Oh well, we lost the match today, but we can try again next week for count.
+   > **解析**：`oh well` 为常用口语感叹短语，用于表示无奈接受既成事实或安慰自己（意为“唉，算了；好吧”）。
 
-6. **中文**：我询问了“step”。  
-   **英文**：I asked about "step".
-   > **解析**：本题在单元主题情境中复习表达 step。
+6. **中文**：每天采取微小的行动是迈向实现长期目标的重要一步。  
+   **英文**：Taking small daily action is an important step toward achieving long-term goals for encourage.
+   > **解析**：`step` 名词，意为“步骤；脚印；阶梯”。搭配 `a step toward(s)...`（迈向……的一步）。
 
-7. **中文**：我们在句子中用到了“wish”。  
-   **英文**：We used "wish" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 wish。
+7. **中文**：我希望我能穿越回过去去体验古代罗马文化。  
+   **英文**：I wish I could travel back in time to experience ancient Roman culture for habit.
+   > **解析**：`wish` 及物动词，引导宾语从句时从句需用虚拟语气（如 `could travel`），表达难以实现或与事实相反的愿望。
 
-8. **中文**：朋友重复了“chance”。  
-   **英文**：My friend repeated "chance".
-   > **解析**：本题在单元主题情境中复习表达 chance。
+8. **中文**：不要错过这个申请大学奖学金的难得机会。  
+   **英文**：Don't miss this rare chance to apply for a university scholarship for hope.
+   > **解析**：`chance` 可数名词，意为“机会；概率”。搭配 `miss a chance`（错过机会）或 `a chance to do sth.`。
 
-9. **中文**：后来，我记住了“encourage”。  
-   **英文**：Later, I remembered "encourage".
-   > **解析**：本题在单元主题情境中复习表达 encourage。
+9. **中文**：老师应该始终鼓励学生在课堂上自由表达想法。  
+   **英文**：Teachers should always encourage students to express their ideas freely in class for hopeful.
+   > **解析**：`encourage` 及物动词，搭配 `encourage sb. to do sth.`（鼓励某人做某事）。
 
-10. **中文**：这个小故事以“hopeful”收尾。  
-   **英文**：The short story ended with "hopeful".
-   > **解析**：本题在单元主题情境中复习表达 hopeful。
+10. **中文**：尽管有暂时的挫折，我们对项目的最终结果仍抱有希望。  
+   **英文**：Despite the temporary setback, we remain hopeful about our project's outcome (if only).
+   > **解析**：`hopeful` 形容词，意为“充满希望的；乐观的”。常与系动词 `remain / feel / be` 连用，搭配 `be hopeful about sth.`。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "afraid".
-   > **中文**：在这个情境中，我听到了“afraid”。
-2. My partner explained "come true".
-   > **中文**：同伴解释了“come true”。
-3. We talked about "habit" together.
-   > **中文**：我们一起谈到了“habit”。
-4. I wrote down "if only".
-   > **中文**：我记下了“if only”。
-5. The example included "oh well".
-   > **中文**：例句中包含“oh well”。
-6. I asked about "step".
-   > **中文**：我询问了“step”。
-7. We used "wish" in a sentence.
-   > **中文**：我们在句子中用到了“wish”。
-8. My friend repeated "chance".
-   > **中文**：朋友重复了“chance”。
-9. Later, I remembered "encourage".
-   > **中文**：后来，我记住了“encourage”。
-10. The short story ended with "hopeful".
-   > **中文**：这个小故事以“hopeful”收尾。
+1. I am afraid that we will not have enough time to visit the museum today.
+   > **中文**：我恐怕我们今天没有足够的时间去参观博物馆了。
+
+2. If you work hard, your dream of studying abroad will surely come true (as many).
+   > **中文**：如果你努力工作，你出国留学的梦想一定会实现。
+
+3. Reading for thirty minutes before bedtime is a great habit to cultivate for chance.
+   > **中文**：睡前阅读半小时是一个值得培养的好习惯。
+
+4. If only I had taken that opportunity when it was offered to me (come true).
+   > **中文**：要是当时给我那个机会时我抓住了该有多好啊！
+
+5. Oh well, we lost the match today, but we can try again next week for count.
+   > **中文**：唉，算了，我们今天输掉了比赛，但下周我们可以再试一次。
+
+6. Taking small daily action is an important step toward achieving long-term goals for encourage.
+   > **中文**：每天采取微小的行动是迈向实现长期目标的重要一步。
+
+7. I wish I could travel back in time to experience ancient Roman culture for habit.
+   > **中文**：我希望我能穿越回过去去体验古代罗马文化。
+
+8. Don't miss this rare chance to apply for a university scholarship for hope.
+   > **中文**：不要错过这个申请大学奖学金的难得机会。
+
+9. Teachers should always encourage students to express their ideas freely in class for hopeful.
+   > **中文**：老师应该始终鼓励学生在课堂上自由表达想法。
+
+10. Despite the temporary setback, we remain hopeful about our project's outcome (if only).
+   > **中文**：尽管有暂时的挫折，我们对项目的最终结果仍抱有希望。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if o
 
 ### 1
 
-In this situation, I heard "`____`".
+I am `____` that we will not have enough time to visit the museum today.
 
 - [x] afraid
-- [ ] if only
-- [ ] wish
+- [ ] come true
+- [ ] habit
 
-> **解析**：本题在单元主题情境中复习表达 afraid。
+> **解析**：`be afraid that...` 为固定句型，用于礼貌地表达担心、遗憾或不便。
 
 ### 2
 
-My partner explained "`____`".
+If you work hard, your dream of studying abroad will surely come true (`____`).
 
-- [x] come true
-- [ ] oh well
-- [ ] chance
+- [x] as many
+- [ ] count
+- [ ] hope
 
-> **解析**：本题在单元主题情境中复习表达 come true。
+> **解析**：`come true` 为固定动词短语，意为“（梦想、预言等）实现；成为现实”。主语通常为 `dream`, `wish`, `hope` 等。
 
 ### 3
 
-We talked about "`____`" together.
+Reading for thirty minutes before bedtime is a great habit to cultivate for `____`.
 
-- [x] habit
-- [ ] step
+- [x] chance
 - [ ] encourage
+- [ ] hopeful
 
-> **解析**：本题在单元主题情境中复习表达 habit。
+> **解析**：`habit` 可数名词，意为“习惯”。搭配 `cultivate a habit / form a habit`（养成习惯）。
 
 ### 4
 
-I wrote down "`____`".
+If only I had taken that opportunity when it was offered to me (`____`).
 
-- [x] if only
-- [ ] wish
-- [ ] hopeful
+- [x] come true
+- [ ] habit
+- [ ] if only
 
-> **解析**：本题在单元主题情境中复习表达 if only。
+> **解析**：`if only` 为固定连词短语，引导虚拟语气感叹句，表达对过去事的强烈的遗憾与愿望（意为“要是……就好了”）。
 
 ### 5
 
-The example included "`____`".
+Oh well, we lost the match today, but we can try again next week for `____`.
 
-- [x] oh well
-- [ ] chance
+- [x] count
+- [ ] hope
 - [ ] afraid
 
-> **解析**：本题在单元主题情境中复习表达 oh well。
+> **解析**：`oh well` 为常用口语感叹短语，用于表示无奈接受既成事实或安慰自己（意为“唉，算了；好吧”）。
 
 ### 6
 
-I asked about "`____`".
+Taking small daily action is an important step toward achieving long-term goals for `____`.
 
-- [x] step
-- [ ] encourage
-- [ ] come true
+- [x] encourage
+- [ ] hopeful
+- [ ] as many
 
-> **解析**：本题在单元主题情境中复习表达 step。
+> **解析**：`step` 名词，意为“步骤；脚印；阶梯”。搭配 `a step toward(s)...`（迈向……的一步）。
 
 ### 7
 
-We used "`____`" in a sentence.
+I wish I could travel back in time to experience ancient Roman culture for `____`.
 
-- [x] wish
-- [ ] hopeful
-- [ ] habit
+- [x] habit
+- [ ] if only
+- [ ] chance
 
-> **解析**：本题在单元主题情境中复习表达 wish。
+> **解析**：`wish` 及物动词，引导宾语从句时从句需用虚拟语气（如 `could travel`），表达难以实现或与事实相反的愿望。
 
 ### 8
 
-My friend repeated "`____`".
+Don't miss this rare chance to apply for a university scholarship for `____`.
 
-- [x] chance
+- [x] hope
 - [ ] afraid
-- [ ] if only
+- [ ] come true
 
-> **解析**：本题在单元主题情境中复习表达 chance。
+> **解析**：`chance` 可数名词，意为“机会；概率”。搭配 `miss a chance`（错过机会）或 `a chance to do sth.`。
 
 ### 9
 
-Later, I remembered "`____`".
+Teachers should always encourage students to express their ideas freely in class for `____`.
 
-- [x] encourage
-- [ ] come true
-- [ ] oh well
+- [x] hopeful
+- [ ] as many
+- [ ] count
 
-> **解析**：本题在单元主题情境中复习表达 encourage。
+> **解析**：`encourage` 及物动词，搭配 `encourage sb. to do sth.`（鼓励某人做某事）。
 
 ### 10
 
-The short story ended with "`____`".
+Despite the temporary setback, we remain hopeful about our project's outcome (`____`).
 
-- [x] hopeful
-- [ ] habit
-- [ ] step
+- [x] if only
+- [ ] chance
+- [ ] encourage
 
-> **解析**：本题在单元主题情境中复习表达 hopeful。
+> **解析**：`hopeful` 形容词，意为“充满希望的；乐观的”。常与系动词 `remain / feel / be` 连用，搭配 `be hopeful about sth.`。
 
 </quiz-cloze>

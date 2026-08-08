@@ -77,70 +77,79 @@ date back（追溯到）、in those days（在那个年代）、lifetime（一�
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“alternative”。  
-   **英文**：In this situation, I heard "alternative".
-   > **解析**：本题在单元主题情境中复习表达 alternative。
+1. **中文**：古典钢琴音乐启发了他创作属于自己的歌曲。  
+   **英文**：Classical piano music inspired him to write his own songs for alternative.
+   > **解析**：`inspire` 作及物动词，意为“启发、鼓舞”，常用结构 `inspire sb to do sth`。
 
-2. **中文**：同伴解释了“electronic”。  
-   **英文**：My partner explained "electronic".
-   > **解析**：本题在单元主题情境中复习表达 electronic。
+2. **中文**：这种传统民族乐器可以追溯到十七世纪。  
+   **英文**：This traditional folk instrument dates back to the seventeenth century (and had).
+   > **解析**：`date back to...` 是固定动词短语，意为“追溯到（某时期）”。
 
-3. **中文**：我们一起谈到了“in those days”。  
-   **英文**：We talked about "in those days" together.
-   > **解析**：本题在单元主题情境中复习表达 in those days。
+3. **中文**：这部电影的原声带在全世界范围内大受欢迎。  
+   **英文**：The movie's soundtrack became immensely popular around the world (date back).
+   > **解析**：`soundtrack` 是名词，意为“（电影/电视）原声音乐带”。
 
-4. **中文**：我记下了“it all”。  
-   **英文**：I wrote down "it all".
-   > **解析**：本题在单元主题情境中复习表达 it all。
+4. **中文**：那支传奇摇滚乐队在流行文化中极其富有影响力。  
+   **英文**：That legendary rock band was extremely influential in pop culture for electronic.
+   > **解析**：`influential` 是形容词，意为“有影响力的”，修饰词为 `extremely`。
 
-5. **中文**：例句中包含“pop culture”。  
-   **英文**：The example included "pop culture".
-   > **解析**：本题在单元主题情境中复习表达 pop culture。
+5. **中文**：这位独立音乐创作人计划下个月发行她的新专辑。  
+   **英文**：The independent songwriter plans to release her new album next month for hippie.
+   > **解析**：`release` 作动词，意为“发行、发布（唱片/图书等）”。
 
-6. **中文**：我询问了“rock and roll”。  
-   **英文**：I asked about "rock and roll".
-   > **解析**：本题在单元主题情境中复习表达 rock and roll。
+6. **中文**：舞曲通常依赖于快速且稳定的节奏。  
+   **英文**：Dance music usually relies on a fast and steady rhythm (in my eyes).
+   > **解析**：`rhythm` 是名词，意为“节奏、韵律”，注意拼写 `rhythm`。
 
-7. **中文**：我们在句子中用到了“what”。  
-   **英文**：We used "what" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 what。
+7. **中文**：嘻哈音乐已成为现代流行文化的主要组成部分。  
+   **英文**：Hip-hop music has become a major part of modern pop culture (in those days).
+   > **解析**：`pop culture` 是专有名词短语，意为“流行文化”。
 
-8. **中文**：朋友重复了“date back”。  
-   **英文**：My friend repeated "date back".
-   > **解析**：本题在单元主题情境中复习表达 date back。
+8. **中文**：在我看来，现场演唱会演出比录制的单曲好得多。  
+   **英文**：In my eyes, live concert performances are much better than recorded tracks for influence.
+   > **解析**：`in my eyes` 是观点表达短语，意为“在我看来/在我的眼里”。
 
-9. **中文**：后来，我记住了“in my eyes”。  
-   **英文**：Later, I remembered "in my eyes".
-   > **解析**：本题在单元主题情境中复习表达 in my eyes。
+9. **中文**：这位知名歌手在推出首支单曲后赢得了世界范围的名声。  
+   **英文**：The famous singer achieved worldwide fame after her debut single for influential.
+   > **解析**：`worldwide` 作形容词或副词，意为“全世界的、全球范围的”。
 
-10. **中文**：这个小故事以“influential”收尾。  
-   **英文**：The short story ended with "influential".
-   > **解析**：本题在单元主题情境中复习表达 influential。
+10. **中文**：比起主流流行音乐，他们更喜欢听另类摇滚。  
+   **英文**：They prefer listening to alternative rock rather than mainstream pop music for inspire.
+   > **解析**：`alternative` 作形容词，意为“非传统的、另类的”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "alternative".
-   > **中文**：在这个情境中，我听到了“alternative”。
-2. My partner explained "electronic".
-   > **中文**：同伴解释了“electronic”。
-3. We talked about "in those days" together.
-   > **中文**：我们一起谈到了“in those days”。
-4. I wrote down "it all".
-   > **中文**：我记下了“it all”。
-5. The example included "pop culture".
-   > **中文**：例句中包含“pop culture”。
-6. I asked about "rock and roll".
-   > **中文**：我询问了“rock and roll”。
-7. We used "what" in a sentence.
-   > **中文**：我们在句子中用到了“what”。
-8. My friend repeated "date back".
-   > **中文**：朋友重复了“date back”。
-9. Later, I remembered "in my eyes".
-   > **中文**：后来，我记住了“in my eyes”。
-10. The short story ended with "influential".
-   > **中文**：这个小故事以“influential”收尾。
+1. Classical piano music inspired him to write his own songs for alternative.
+   > **中文**：古典钢琴音乐启发了他创作属于自己的歌曲。
+
+2. This traditional folk instrument dates back to the seventeenth century (and had).
+   > **中文**：这种传统民族乐器可以追溯到十七世纪。
+
+3. The movie's soundtrack became immensely popular around the world (date back).
+   > **中文**：这部电影的原声带在全世界范围内大受欢迎。
+
+4. That legendary rock band was extremely influential in pop culture for electronic.
+   > **中文**：那支传奇摇滚乐队在流行文化中极其富有影响力。
+
+5. The independent songwriter plans to release her new album next month for hippie.
+   > **中文**：这位独立音乐创作人计划下个月发行她的新专辑。
+
+6. Dance music usually relies on a fast and steady rhythm (in my eyes).
+   > **中文**：舞曲通常依赖于快速且稳定的节奏。
+
+7. Hip-hop music has become a major part of modern pop culture (in those days).
+   > **中文**：嘻哈音乐已成为现代流行文化的主要组成部分。
+
+8. In my eyes, live concert performances are much better than recorded tracks for influence.
+   > **中文**：在我看来，现场演唱会演出比录制的单曲好得多。
+
+9. The famous singer achieved worldwide fame after her debut single for influential.
+   > **中文**：这位知名歌手在推出首支单曲后赢得了世界范围的名声。
+
+10. They prefer listening to alternative rock rather than mainstream pop music for inspire.
+   > **中文**：比起主流流行音乐，他们更喜欢听另类摇滚。
 
 </quiz-listening>
 
@@ -152,102 +161,102 @@ date back（追溯到）、in those days（在那个年代）、lifetime（一�
 
 ### 1
 
-In this situation, I heard "`____`".
+Classical piano music inspired him to write his own songs for `____`.
 
 - [x] alternative
-- [ ] it all
-- [ ] what
+- [ ] electronic
+- [ ] in those days
 
-> **解析**：本题在单元主题情境中复习表达 alternative。
+> **解析**：`inspire` 作及物动词，意为“启发、鼓舞”，常用结构 `inspire sb to do sth`。
 
 ### 2
 
-My partner explained "`____`".
+This traditional folk instrument dates back to the seventeenth century (`____`).
 
-- [x] electronic
-- [ ] pop culture
-- [ ] date back
+- [x] and had
+- [ ] hippie
+- [ ] influence
 
-> **解析**：本题在单元主题情境中复习表达 electronic。
+> **解析**：`date back to...` 是固定动词短语，意为“追溯到（某时期）”。
 
 ### 3
 
-We talked about "`____`" together.
+The movie's soundtrack became immensely popular around the world (`____`).
 
-- [x] in those days
-- [ ] rock and roll
+- [x] date back
 - [ ] in my eyes
+- [ ] influential
 
-> **解析**：本题在单元主题情境中复习表达 in those days。
+> **解析**：`soundtrack` 是名词，意为“（电影/电视）原声音乐带”。
 
 ### 4
 
-I wrote down "`____`".
+That legendary rock band was extremely influential in pop culture for `____`.
 
-- [x] it all
-- [ ] what
-- [ ] influential
+- [x] electronic
+- [ ] in those days
+- [ ] inspire
 
-> **解析**：本题在单元主题情境中复习表达 it all。
+> **解析**：`influential` 是形容词，意为“有影响力的”，修饰词为 `extremely`。
 
 ### 5
 
-The example included "`____`".
+The independent songwriter plans to release her new album next month for `____`.
 
-- [x] pop culture
-- [ ] date back
+- [x] hippie
+- [ ] influence
 - [ ] alternative
 
-> **解析**：本题在单元主题情境中复习表达 pop culture。
+> **解析**：`release` 作动词，意为“发行、发布（唱片/图书等）”。
 
 ### 6
 
-I asked about "`____`".
+Dance music usually relies on a fast and steady rhythm (`____`).
 
-- [x] rock and roll
-- [ ] in my eyes
-- [ ] electronic
+- [x] in my eyes
+- [ ] influential
+- [ ] and had
 
-> **解析**：本题在单元主题情境中复习表达 rock and roll。
+> **解析**：`rhythm` 是名词，意为“节奏、韵律”，注意拼写 `rhythm`。
 
 ### 7
 
-We used "`____`" in a sentence.
+Hip-hop music has become a major part of modern pop culture (`____`).
 
-- [x] what
-- [ ] influential
-- [ ] in those days
+- [x] in those days
+- [ ] inspire
+- [ ] date back
 
-> **解析**：本题在单元主题情境中复习表达 what。
+> **解析**：`pop culture` 是专有名词短语，意为“流行文化”。
 
 ### 8
 
-My friend repeated "`____`".
+In my eyes, live concert performances are much better than recorded tracks for `____`.
 
-- [x] date back
+- [x] influence
 - [ ] alternative
-- [ ] it all
+- [ ] electronic
 
-> **解析**：本题在单元主题情境中复习表达 date back。
+> **解析**：`in my eyes` 是观点表达短语，意为“在我看来/在我的眼里”。
 
 ### 9
 
-Later, I remembered "`____`".
+The famous singer achieved worldwide fame after her debut single for `____`.
 
-- [x] in my eyes
-- [ ] electronic
-- [ ] pop culture
+- [x] influential
+- [ ] and had
+- [ ] hippie
 
-> **解析**：本题在单元主题情境中复习表达 in my eyes。
+> **解析**：`worldwide` 作形容词或副词，意为“全世界的、全球范围的”。
 
 ### 10
 
-The short story ended with "`____`".
+They prefer listening to alternative rock rather than mainstream pop music for `____`.
 
-- [x] influential
-- [ ] in those days
-- [ ] rock and roll
+- [x] inspire
+- [ ] date back
+- [ ] in my eyes
 
-> **解析**：本题在单元主题情境中复习表达 influential。
+> **解析**：`alternative` 作形容词，意为“非传统的、另类的”。
 
 </quiz-cloze>

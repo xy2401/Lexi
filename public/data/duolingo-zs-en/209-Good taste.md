@@ -51,70 +51,79 @@ if you had / if you'd + would have 是第三类条件句（对过去的虚拟）
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“circus”。  
-   **英文**：In this situation, I heard "circus".
-   > **解析**：本题在单元主题情境中复习表达 circus。
+1. **中文**：最新上映的历史戏剧/剧集获得了全球影评人的赞誉。  
+   **英文**：The newly released historical drama won praise from critics worldwide for circus.
+   > **解析**：drama 可数/不可数名词，意为“戏剧；剧情片”。
 
-2. **中文**：同伴解释了“dislike”。  
-   **英文**：My partner explained "dislike".
-   > **解析**：本题在单元主题情境中复习表达 dislike。
+2. **中文**：这部电影因其对日常生活挣扎的真实刻画而受到好评。  
+   **英文**：The movie was praised for its realistic portrayal of everyday struggles for comic.
+   > **解析**：realistic 形容词，意为“逼真的；写实的；现实的”。
 
-3. **中文**：我们一起谈到了“drama”。  
-   **英文**：We talked about "drama" together.
-   > **解析**：本题在单元主题情境中复习表达 drama。
+3. **中文**：她计划明年执导她的第一部独立故事片。  
+   **英文**：She aims to direct her first independent feature film next year for decide.
+   > **解析**：direct 动词，在此意为“执导；导演（电影等）”。
 
-4. **中文**：我记下了“get used to”。  
-   **英文**：I wrote down "get used to".
-   > **解析**：本题在单元主题情境中复习表达 get used to。
+4. **中文**：虽然许多人喜欢这部电影，但我讨厌它可预测的结局。  
+   **英文**：Although many people loved the film, I dislike its predictable ending for direct.
+   > **解析**：dislike 及物动词，意为“不喜欢；厌恶”。
 
-5. **中文**：例句中包含“if you had”。  
-   **英文**：The example included "if you had".
-   > **解析**：本题在单元主题情境中复习表达 if you had。
+5. **中文**：这部科幻电影中的特别视觉效果真的很绝妙。  
+   **英文**：The special visual effects in the sci-fi movie were truly marvelous for dislike.
+   > **解析**：marvelous 形容词，意为“极好的；绝妙的”（美式拼写），英式为 marvellous。
 
-6. **中文**：我询问了“rare”。  
-   **英文**：I asked about "rare".
-   > **解析**：本题在单元主题情境中复习表达 rare。
+6. **中文**：制作超级英雄电影已成为电影业的一大流行趋势。  
+   **英文**：Making superhero movies has become a popular trend in cinema for display.
+   > **解析**：trend 可数名词，意为“趋势；风尚”。
 
-7. **中文**：我们在句子中用到了“trend”。  
-   **英文**：We used "trend" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 trend。
+7. **中文**：电影节为影迷们提供了高质量的娱乐活动。  
+   **英文**：The film festival provided high-quality entertainment for movie lovers for divorce.
+   > **解析**：entertainment 不可数/可数名词，意为“娱乐；娱乐节目”。
 
-8. **中文**：朋友重复了“comic”。  
-   **英文**：My friend repeated "comic".
-   > **解析**：本题在单元主题情境中复习表达 comic。
+8. **中文**：情感故事线围绕主角之间痛苦的离婚展开。  
+   **英文**：The emotional storyline revolves around a painful divorce between the leads for drama.
+   > **解析**：divorce 可数/不可数名词，意为“离婚”；也可作动词。
 
-9. **中文**：后来，我记住了“display”。  
-   **英文**：Later, I remembered "display".
-   > **解析**：本题在单元主题情境中复习表达 display。
+9. **中文**：动作片获得顶级影评赞誉是罕见的。  
+   **英文**：It is rare for an action movie to receive top critical acclaim for entertainment.
+   > **解析**：rare 形容词，意为“罕见的；稀有的”。
 
-10. **中文**：这个小故事以“folk”收尾。  
-   **英文**：The short story ended with "folk".
-   > **解析**：本题在单元主题情境中复习表达 folk。
+10. **中文**：这位喜剧演员让全场观众在整个演出过程中笑声不断。  
+   **英文**：The comic actor had the audience laughing throughout the entire show for folk.
+   > **解析**：comic 形容词/名词，在此作形容词意为“喜剧的；滑稽的”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "circus".
-   > **中文**：在这个情境中，我听到了“circus”。
-2. My partner explained "dislike".
-   > **中文**：同伴解释了“dislike”。
-3. We talked about "drama" together.
-   > **中文**：我们一起谈到了“drama”。
-4. I wrote down "get used to".
-   > **中文**：我记下了“get used to”。
-5. The example included "if you had".
-   > **中文**：例句中包含“if you had”。
-6. I asked about "rare".
-   > **中文**：我询问了“rare”。
-7. We used "trend" in a sentence.
-   > **中文**：我们在句子中用到了“trend”。
-8. My friend repeated "comic".
-   > **中文**：朋友重复了“comic”。
-9. Later, I remembered "display".
-   > **中文**：后来，我记住了“display”。
-10. The short story ended with "folk".
-   > **中文**：这个小故事以“folk”收尾。
+1. The newly released historical drama won praise from critics worldwide for circus.
+   > **中文**：最新上映的历史戏剧/剧集获得了全球影评人的赞誉。
+
+2. The movie was praised for its realistic portrayal of everyday struggles for comic.
+   > **中文**：这部电影因其对日常生活挣扎的真实刻画而受到好评。
+
+3. She aims to direct her first independent feature film next year for decide.
+   > **中文**：她计划明年执导她的第一部独立故事片。
+
+4. Although many people loved the film, I dislike its predictable ending for direct.
+   > **中文**：虽然许多人喜欢这部电影，但我讨厌它可预测的结局。
+
+5. The special visual effects in the sci-fi movie were truly marvelous for dislike.
+   > **中文**：这部科幻电影中的特别视觉效果真的很绝妙。
+
+6. Making superhero movies has become a popular trend in cinema for display.
+   > **中文**：制作超级英雄电影已成为电影业的一大流行趋势。
+
+7. The film festival provided high-quality entertainment for movie lovers for divorce.
+   > **中文**：电影节为影迷们提供了高质量的娱乐活动。
+
+8. The emotional storyline revolves around a painful divorce between the leads for drama.
+   > **中文**：情感故事线围绕主角之间痛苦的离婚展开。
+
+9. It is rare for an action movie to receive top critical acclaim for entertainment.
+   > **中文**：动作片获得顶级影评赞誉是罕见的。
+
+10. The comic actor had the audience laughing throughout the entire show for folk.
+   > **中文**：这位喜剧演员让全场观众在整个演出过程中笑声不断。
 
 </quiz-listening>
 
@@ -126,102 +135,102 @@ if you had / if you'd + would have 是第三类条件句（对过去的虚拟）
 
 ### 1
 
-In this situation, I heard "`____`".
+The newly released historical drama won praise from critics worldwide for `____`.
 
 - [x] circus
-- [ ] get used to
-- [ ] trend
+- [ ] direct
+- [ ] divorce
 
-> **解析**：本题在单元主题情境中复习表达 circus。
+> **解析**：drama 可数/不可数名词，意为“戏剧；剧情片”。
 
 ### 2
 
-My partner explained "`____`".
+The movie was praised for its realistic portrayal of everyday struggles for `____`.
 
-- [x] dislike
-- [ ] if you had
-- [ ] comic
+- [x] comic
+- [ ] dislike
+- [ ] drama
 
-> **解析**：本题在单元主题情境中复习表达 dislike。
+> **解析**：realistic 形容词，意为“逼真的；写实的；现实的”。
 
 ### 3
 
-We talked about "`____`" together.
+She aims to direct her first independent feature film next year for `____`.
 
-- [x] drama
-- [ ] rare
+- [x] decide
 - [ ] display
+- [ ] entertainment
 
-> **解析**：本题在单元主题情境中复习表达 drama。
+> **解析**：direct 动词，在此意为“执导；导演（电影等）”。
 
 ### 4
 
-I wrote down "`____`".
+Although many people loved the film, I dislike its predictable ending for `____`.
 
-- [x] get used to
-- [ ] trend
+- [x] direct
+- [ ] divorce
 - [ ] folk
 
-> **解析**：本题在单元主题情境中复习表达 get used to。
+> **解析**：dislike 及物动词，意为“不喜欢；厌恶”。
 
 ### 5
 
-The example included "`____`".
+The special visual effects in the sci-fi movie were truly marvelous for `____`.
 
-- [x] if you had
-- [ ] comic
+- [x] dislike
+- [ ] drama
 - [ ] circus
 
-> **解析**：本题在单元主题情境中复习表达 if you had。
+> **解析**：marvelous 形容词，意为“极好的；绝妙的”（美式拼写），英式为 marvellous。
 
 ### 6
 
-I asked about "`____`".
+Making superhero movies has become a popular trend in cinema for `____`.
 
-- [x] rare
-- [ ] display
-- [ ] dislike
+- [x] display
+- [ ] entertainment
+- [ ] comic
 
-> **解析**：本题在单元主题情境中复习表达 rare。
+> **解析**：trend 可数名词，意为“趋势；风尚”。
 
 ### 7
 
-We used "`____`" in a sentence.
+The film festival provided high-quality entertainment for movie lovers for `____`.
 
-- [x] trend
+- [x] divorce
 - [ ] folk
-- [ ] drama
+- [ ] decide
 
-> **解析**：本题在单元主题情境中复习表达 trend。
+> **解析**：entertainment 不可数/可数名词，意为“娱乐；娱乐节目”。
 
 ### 8
 
-My friend repeated "`____`".
+The emotional storyline revolves around a painful divorce between the leads for `____`.
 
-- [x] comic
+- [x] drama
 - [ ] circus
-- [ ] get used to
+- [ ] direct
 
-> **解析**：本题在单元主题情境中复习表达 comic。
+> **解析**：divorce 可数/不可数名词，意为“离婚”；也可作动词。
 
 ### 9
 
-Later, I remembered "`____`".
+It is rare for an action movie to receive top critical acclaim for `____`.
 
-- [x] display
+- [x] entertainment
+- [ ] comic
 - [ ] dislike
-- [ ] if you had
 
-> **解析**：本题在单元主题情境中复习表达 display。
+> **解析**：rare 形容词，意为“罕见的；稀有的”。
 
 ### 10
 
-The short story ended with "`____`".
+The comic actor had the audience laughing throughout the entire show for `____`.
 
 - [x] folk
-- [ ] drama
-- [ ] rare
+- [ ] decide
+- [ ] display
 
-> **解析**：本题在单元主题情境中复习表达 folk。
+> **解析**：comic 形容词/名词，在此作形容词意为“喜剧的；滑稽的”。
 
 </quiz-cloze>

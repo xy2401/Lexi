@@ -63,70 +63,79 @@ apparently, at risk, bad for you, could, enough, enough to, have trouble, heal, 
 
 <quiz-sentence-builder>
 
-1. **中文**：在诊所里，我听到了“apparently”。  
-   **英文**：At the clinic, I heard "apparently".
-   > **解析**：本题在单元主题情境中复习表达 apparently。
+1. **中文**：显而易见/据了解，这种药物需要随餐服用才能正常发挥疗效。  
+   **英文**：Apparently, the medication needs to be taken with meals to work properly.
+   > **解析**：`apparently` 副词，意为“显然；据了解；似乎”，用于说明所获取的信息或根据迹象作出的推断。
 
-2. **中文**：医生解释了“could”。  
-   **英文**：The doctor explained "could".
-   > **解析**：本题在单元主题情境中复习表达 could。
+2. **中文**：你可以尝试让眼睛休息二十分钟来缓解头痛。  
+   **英文**：You could try resting your eyes for twenty minutes to relieve the headache (at risk).
+   > **解析**：`could` 为情态动词，在此处表示委婉的建议或可能性（意为“可以；不妨”）。
 
-3. **中文**：我们认真谈到了“heal”。  
-   **英文**：We talked about "heal" carefully.
-   > **解析**：本题在单元主题情境中复习表达 heal。
+3. **中文**：轻微的割伤和划伤通常会在几天内自然愈合。  
+   **英文**：Minor cuts and scratches usually heal naturally within a few days (bad for you).
+   > **解析**：`heal` 动词，意为“（伤口、疾病）愈合；治愈”。
 
-4. **中文**：我把“infection”写进健康笔记。  
-   **英文**：I wrote "infection" in my health notes.
-   > **解析**：本题在单元主题情境中复习表达 infection。
+4. **中文**：医生开具了抗生素来治疗他耳部的细菌感染。  
+   **英文**：The doctor prescribed antibiotics to treat the bacterial infection in his ear for could.
+   > **解析**：`infection` 可数/不可数名词，意为“感染；传染病”。常用搭配 `bacterial infection`（细菌感染）。
 
-5. **中文**：护士重复了“side effect”。  
-   **英文**：The nurse repeated "side effect".
-   > **解析**：本题在单元主题情境中复习表达 side effect。
+5. **中文**：嗜睡是服用这种抗组胺药物的常见副作用。  
+   **英文**：Drowsiness is a common side effect of taking this antihistamine medication for enough.
+   > **解析**：`side effect` 名词短语，意为“副作用”。在药物和医疗说明中极其常用。
 
-6. **中文**：朋友询问了“under the weather”。  
-   **英文**：My friend asked about "under the weather".
-   > **解析**：本题在单元主题情境中复习表达 under the weather。
+6. **中文**：我今天感觉身体有些不适/有点不舒服，所以我决定留在家中休息。  
+   **英文**：I feel a bit under the weather today, so I decided to stay home and rest (enough to).
+   > **解析**：`under the weather` 为常用习惯用语，意为“身体不适；有点小病”，常在句中作表语（如 `feel under the weather`）。
 
-7. **中文**：建议中包含“wrist”。  
-   **英文**：The advice included "wrist".
-   > **解析**：本题在单元主题情境中复习表达 wrist。
+7. **中文**：她在网球练习中弄伤手腕后戴上了防护护腕。  
+   **英文**：She wore a supportive brace after injuring her wrist during tennis practice (have trouble).
+   > **解析**：`wrist` 可数名词，意为“手腕；腕关节”。解剖身体部位词汇。
 
-8. **中文**：就诊后，我记住了“at risk”。  
-   **英文**：After the visit, I remembered "at risk".
-   > **解析**：本题在单元主题情境中复习表达 at risk。
+8. **中文**：老年人和幼儿在极端热浪期间面临更大的风险。  
+   **英文**：Elderly people and young children are more at risk during extreme heatwaves for heal.
+   > **解析**：`at risk` 为介词短语作表语，意为“处于危险之中；面临风险”。搭配 `be at risk of sth.`。
 
-9. **中文**：我们在对话中用到了“enough to”。  
-   **英文**：We used "enough to" in the conversation.
-   > **解析**：本题在单元主题情境中复习表达 enough to。
+9. **中文**：手术康复后，他的体力足够支撑他在公园里散步。  
+   **英文**：He is strong enough to walk around the park after recovering from surgery for hip.
+   > **解析**：`enough to` 为结构“形容词/副词 + `enough to do sth.`”，意为“足够……以至于能做某事”。
 
-10. **中文**：那次健康交流以“hip”收尾。  
-   **英文**：That health talk ended with "hip".
-   > **解析**：本题在单元主题情境中复习表达 hip。
+10. **中文**：这位老患者接受了成功的手术以置换他骨折的髋关节。  
+   **英文**：The elderly patient had a successful surgery to replace his fractured hip joint for impression.
+   > **解析**：`hip` 名词，意为“臀部；髋部”。`hip joint` 指“髋关节”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the clinic, I heard "apparently".
-   > **中文**：在诊所里，我听到了“apparently”。
-2. The doctor explained "could".
-   > **中文**：医生解释了“could”。
-3. We talked about "heal" carefully.
-   > **中文**：我们认真谈到了“heal”。
-4. I wrote "infection" in my health notes.
-   > **中文**：我把“infection”写进健康笔记。
-5. The nurse repeated "side effect".
-   > **中文**：护士重复了“side effect”。
-6. My friend asked about "under the weather".
-   > **中文**：朋友询问了“under the weather”。
-7. The advice included "wrist".
-   > **中文**：建议中包含“wrist”。
-8. After the visit, I remembered "at risk".
-   > **中文**：就诊后，我记住了“at risk”。
-9. We used "enough to" in the conversation.
-   > **中文**：我们在对话中用到了“enough to”。
-10. That health talk ended with "hip".
-   > **中文**：那次健康交流以“hip”收尾。
+1. Apparently, the medication needs to be taken with meals to work properly.
+   > **中文**：显而易见/据了解，这种药物需要随餐服用才能正常发挥疗效。
+
+2. You could try resting your eyes for twenty minutes to relieve the headache (at risk).
+   > **中文**：你可以尝试让眼睛休息二十分钟来缓解头痛。
+
+3. Minor cuts and scratches usually heal naturally within a few days (bad for you).
+   > **中文**：轻微的割伤和划伤通常会在几天内自然愈合。
+
+4. The doctor prescribed antibiotics to treat the bacterial infection in his ear for could.
+   > **中文**：医生开具了抗生素来治疗他耳部的细菌感染。
+
+5. Drowsiness is a common side effect of taking this antihistamine medication for enough.
+   > **中文**：嗜睡是服用这种抗组胺药物的常见副作用。
+
+6. I feel a bit under the weather today, so I decided to stay home and rest (enough to).
+   > **中文**：我今天感觉身体有些不适/有点不舒服，所以我决定留在家中休息。
+
+7. She wore a supportive brace after injuring her wrist during tennis practice (have trouble).
+   > **中文**：她在网球练习中弄伤手腕后戴上了防护护腕。
+
+8. Elderly people and young children are more at risk during extreme heatwaves for heal.
+   > **中文**：老年人和幼儿在极端热浪期间面临更大的风险。
+
+9. He is strong enough to walk around the park after recovering from surgery for hip.
+   > **中文**：手术康复后，他的体力足够支撑他在公园里散步。
+
+10. The elderly patient had a successful surgery to replace his fractured hip joint for impression.
+   > **中文**：这位老患者接受了成功的手术以置换他骨折的髋关节。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ apparently, at risk, bad for you, could, enough, enough to, have trouble, heal, 
 
 ### 1
 
-At the clinic, I heard "`____`".
+`____`, the medication needs to be taken with meals to work properly.
 
 - [x] apparently
-- [ ] infection
-- [ ] wrist
+- [ ] could
+- [ ] have trouble
 
-> **解析**：本题在单元主题情境中复习表达 apparently。
+> **解析**：`apparently` 副词，意为“显然；据了解；似乎”，用于说明所获取的信息或根据迹象作出的推断。
 
 ### 2
 
-The doctor explained "`____`".
+You could try resting your eyes for twenty minutes to relieve the headache (`____`).
 
-- [x] could
-- [ ] side effect
-- [ ] at risk
+- [x] at risk
+- [ ] enough
+- [ ] heal
 
-> **解析**：本题在单元主题情境中复习表达 could。
+> **解析**：`could` 为情态动词，在此处表示委婉的建议或可能性（意为“可以；不妨”）。
 
 ### 3
 
-We talked about "`____`" carefully.
+Minor cuts and scratches usually heal naturally within a few days (`____`).
 
-- [x] heal
-- [ ] under the weather
+- [x] bad for you
 - [ ] enough to
+- [ ] hip
 
-> **解析**：本题在单元主题情境中复习表达 heal。
+> **解析**：`heal` 动词，意为“（伤口、疾病）愈合；治愈”。
 
 ### 4
 
-I wrote "`____`" in my health notes.
+The doctor prescribed antibiotics to treat the bacterial infection in his ear for `____`.
 
-- [x] infection
-- [ ] wrist
-- [ ] hip
+- [x] could
+- [ ] have trouble
+- [ ] impression
 
-> **解析**：本题在单元主题情境中复习表达 infection。
+> **解析**：`infection` 可数/不可数名词，意为“感染；传染病”。常用搭配 `bacterial infection`（细菌感染）。
 
 ### 5
 
-The nurse repeated "`____`".
+Drowsiness is a common side effect of taking this antihistamine medication for `____`.
 
-- [x] side effect
-- [ ] at risk
+- [x] enough
+- [ ] heal
 - [ ] apparently
 
-> **解析**：本题在单元主题情境中复习表达 side effect。
+> **解析**：`side effect` 名词短语，意为“副作用”。在药物和医疗说明中极其常用。
 
 ### 6
 
-My friend asked about "`____`".
+I feel a bit under the weather today, so I decided to stay home and rest (`____`).
 
-- [x] under the weather
-- [ ] enough to
-- [ ] could
+- [x] enough to
+- [ ] hip
+- [ ] at risk
 
-> **解析**：本题在单元主题情境中复习表达 under the weather。
+> **解析**：`under the weather` 为常用习惯用语，意为“身体不适；有点小病”，常在句中作表语（如 `feel under the weather`）。
 
 ### 7
 
-The advice included "`____`".
+She wore a supportive brace after injuring her wrist during tennis practice (`____`).
 
-- [x] wrist
-- [ ] hip
-- [ ] heal
+- [x] have trouble
+- [ ] impression
+- [ ] bad for you
 
-> **解析**：本题在单元主题情境中复习表达 wrist。
+> **解析**：`wrist` 可数名词，意为“手腕；腕关节”。解剖身体部位词汇。
 
 ### 8
 
-After the visit, I remembered "`____`".
+Elderly people and young children are more at risk during extreme heatwaves for `____`.
 
-- [x] at risk
+- [x] heal
 - [ ] apparently
-- [ ] infection
+- [ ] could
 
-> **解析**：本题在单元主题情境中复习表达 at risk。
+> **解析**：`at risk` 为介词短语作表语，意为“处于危险之中；面临风险”。搭配 `be at risk of sth.`。
 
 ### 9
 
-We used "`____`" in the conversation.
+He is strong enough to walk around the park after recovering from surgery for `____`.
 
-- [x] enough to
-- [ ] could
-- [ ] side effect
+- [x] hip
+- [ ] at risk
+- [ ] enough
 
-> **解析**：本题在单元主题情境中复习表达 enough to。
+> **解析**：`enough to` 为结构“形容词/副词 + `enough to do sth.`”，意为“足够……以至于能做某事”。
 
 ### 10
 
-That health talk ended with "`____`".
+The elderly patient had a successful surgery to replace his fractured hip joint for `____`.
 
-- [x] hip
-- [ ] heal
-- [ ] under the weather
+- [x] impression
+- [ ] bad for you
+- [ ] enough to
 
-> **解析**：本题在单元主题情境中复习表达 hip。
+> **解析**：`hip` 名词，意为“臀部；髋部”。`hip joint` 指“髋关节”。
 
 </quiz-cloze>

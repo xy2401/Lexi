@@ -65,70 +65,79 @@ background information, corporation, credit, efficient, failure to, follow up, g
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“background information”。  
-   **英文**：At work, we discussed "background information".
-   > **解析**：本题在单元主题情境中复习表达 background information。
+1. **中文**：非常抱歉我忘了你的生日，我彻底把这事给忘了。  
+   **英文**：I am so sorry I forgot your birthday; it completely slipped my mind (background information).
+   > **解析**：`slip one's mind` 是习惯用语，意为“（某事）被某人遗忘”，主语通常为被遗忘的事物。
 
-2. **中文**：同事提到了“failure to”。  
-   **英文**：My coworker mentioned "failure to".
-   > **解析**：本题在单元主题情境中复习表达 failure to。
+2. **中文**：把你的名字漏在邀请名单之外是一个令人遗憾的疏忽。  
+   **英文**：Leaving your name off the invitation list was an unfortunate oversight for corporation.
+   > **解析**：`oversight` 是名词，意为“疏忽、失误”，由 `over-` + `sight` 构成。
 
-3. **中文**：会议中，我听到了“guidelines”。  
-   **英文**：In the meeting, I heard "guidelines".
-   > **解析**：本题在单元主题情境中复习表达 guidelines。
+3. **中文**：由于一场突如其来的会议，我们不得不重新安排下午的预约。  
+   **英文**：Due to an unexpected meeting, we had to reschedule our afternoon appointment for credit.
+   > **解析**：`reschedule` 是动词，由前缀 `re-` + `schedule` 构成，意为“改期、重新安排日程”。
 
-4. **中文**：我把“hadn't it”写进了笔记。  
-   **英文**：I added "hadn't it" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 hadn't it。
+4. **中文**：我今晚不能陪你吃晚饭了，但我改天再聚可以吗？  
+   **英文**：I cannot join you for dinner tonight, but can I take a rain check? for efficient.
+   > **解析**：`take a rain check` 是口语习惯表达，意为“改期、改天再约（婉拒当次邀请）”。
 
-5. **中文**：经理解释了“observation”。  
-   **英文**：The manager explained "observation".
-   > **解析**：本题在单元主题情境中复习表达 observation。
+5. **中文**：我把预约时间给弄混了，结果早到了一小时。  
+   **英文**：I got the appointment times mixed up and arrived an hour early (failure to).
+   > **解析**：`get sth. mixed up` 是动词短语，意为“搞混、记错”。
 
-6. **中文**：团队今天用到了“prior”。  
-   **英文**：Our team used "prior" today.
-   > **解析**：本题在单元主题情境中复习表达 prior。
+6. **中文**：延误是由两部门之间一次简单的沟通误解造成的。  
+   **英文**：The delay was caused by a simple miscommunication between the two departments (follow up).
+   > **解析**：`miscommunication` 是名词，由前缀 `mis-`（错误）+ `communication` 构成，意为“沟通不畅、误会”。
 
-7. **中文**：午饭前，我们查看了“target”。  
-   **英文**：Before lunch, we checked "target".
-   > **解析**：本题在单元主题情境中复习表达 target。
+7. **中文**：抱歉刚才没接到你的电话，我当时正抽不开身在开一个紧急会议。  
+   **英文**：Sorry I missed your call earlier; I was caught up in an urgent meeting (given that).
+   > **解析**：`be caught up in...` 意为“被……缠住、忙于……而抽不开身”。
 
-8. **中文**：同事询问了“corporation”。  
-   **英文**：My colleague asked about "corporation".
-   > **解析**：本题在单元主题情境中复习表达 corporation。
+8. **中文**：他没法聊太久，因为他的时间非常紧迫。  
+   **英文**：He couldn't chat for long because he was severely pressed for time for guidelines.
+   > **解析**：`pressed for time` 是习惯短语，意为“时间紧迫、缺乏时间”，在句中作表语。
 
-9. **中文**：报告中包含“follow up”。  
-   **英文**：The report included "follow up".
-   > **解析**：本题在单元主题情境中复习表达 follow up。
+9. **中文**：由于日程冲突，她无法出席该会议。  
+   **英文**：She could not attend the conference because of a schedule conflict (had been).
+   > **解析**：`conflict` 在此作名词，意为“（时间/日程）冲突”，短语 `schedule conflict` 表示“日程冲突”。
 
-10. **中文**：一天结束时，我记住了“had it been”。  
-   **英文**：At the end of the day, I remembered "had it been".
-   > **解析**：本题在单元主题情境中复习表达 had it been。
+10. **中文**：对于这次延误可能造成的任何不便，请接受我诚挚的道歉。  
+   **英文**：Please accept my sincere apology for any inconvenience this delay may have caused (had it been).
+   > **解析**：`apology` 是可数名词，意为“道歉、歉意”，常用搭配 `sincere apology`（诚挚的道歉）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "background information".
-   > **中文**：工作中，我们讨论了“background information”。
-2. My coworker mentioned "failure to".
-   > **中文**：同事提到了“failure to”。
-3. In the meeting, I heard "guidelines".
-   > **中文**：会议中，我听到了“guidelines”。
-4. I added "hadn't it" to my notes.
-   > **中文**：我把“hadn't it”写进了笔记。
-5. The manager explained "observation".
-   > **中文**：经理解释了“observation”。
-6. Our team used "prior" today.
-   > **中文**：团队今天用到了“prior”。
-7. Before lunch, we checked "target".
-   > **中文**：午饭前，我们查看了“target”。
-8. My colleague asked about "corporation".
-   > **中文**：同事询问了“corporation”。
-9. The report included "follow up".
-   > **中文**：报告中包含“follow up”。
-10. At the end of the day, I remembered "had it been".
-   > **中文**：一天结束时，我记住了“had it been”。
+1. I am so sorry I forgot your birthday; it completely slipped my mind (background information).
+   > **中文**：非常抱歉我忘了你的生日，我彻底把这事给忘了。
+
+2. Leaving your name off the invitation list was an unfortunate oversight for corporation.
+   > **中文**：把你的名字漏在邀请名单之外是一个令人遗憾的疏忽。
+
+3. Due to an unexpected meeting, we had to reschedule our afternoon appointment for credit.
+   > **中文**：由于一场突如其来的会议，我们不得不重新安排下午的预约。
+
+4. I cannot join you for dinner tonight, but can I take a rain check? for efficient.
+   > **中文**：我今晚不能陪你吃晚饭了，但我改天再聚可以吗？
+
+5. I got the appointment times mixed up and arrived an hour early (failure to).
+   > **中文**：我把预约时间给弄混了，结果早到了一小时。
+
+6. The delay was caused by a simple miscommunication between the two departments (follow up).
+   > **中文**：延误是由两部门之间一次简单的沟通误解造成的。
+
+7. Sorry I missed your call earlier; I was caught up in an urgent meeting (given that).
+   > **中文**：抱歉刚才没接到你的电话，我当时正抽不开身在开一个紧急会议。
+
+8. He couldn't chat for long because he was severely pressed for time for guidelines.
+   > **中文**：他没法聊太久，因为他的时间非常紧迫。
+
+9. She could not attend the conference because of a schedule conflict (had been).
+   > **中文**：由于日程冲突，她无法出席该会议。
+
+10. Please accept my sincere apology for any inconvenience this delay may have caused (had it been).
+   > **中文**：对于这次延误可能造成的任何不便，请接受我诚挚的道歉。
 
 </quiz-listening>
 
@@ -140,102 +149,102 @@ background information, corporation, credit, efficient, failure to, follow up, g
 
 ### 1
 
-At work, we discussed "`____`".
+I am so sorry I forgot your birthday; it completely slipped my mind (`____`).
 
 - [x] background information
-- [ ] hadn't it
-- [ ] target
+- [ ] efficient
+- [ ] given that
 
-> **解析**：本题在单元主题情境中复习表达 background information。
+> **解析**：`slip one's mind` 是习惯用语，意为“（某事）被某人遗忘”，主语通常为被遗忘的事物。
 
 ### 2
 
-My coworker mentioned "`____`".
+Leaving your name off the invitation list was an unfortunate oversight for `____`.
 
-- [x] failure to
-- [ ] observation
-- [ ] corporation
+- [x] corporation
+- [ ] failure to
+- [ ] guidelines
 
-> **解析**：本题在单元主题情境中复习表达 failure to。
+> **解析**：`oversight` 是名词，意为“疏忽、失误”，由 `over-` + `sight` 构成。
 
 ### 3
 
-In the meeting, I heard "`____`".
+Due to an unexpected meeting, we had to reschedule our afternoon appointment for `____`.
 
-- [x] guidelines
-- [ ] prior
+- [x] credit
 - [ ] follow up
+- [ ] had been
 
-> **解析**：本题在单元主题情境中复习表达 guidelines。
+> **解析**：`reschedule` 是动词，由前缀 `re-` + `schedule` 构成，意为“改期、重新安排日程”。
 
 ### 4
 
-I added "`____`" to my notes.
+I cannot join you for dinner tonight, but can I take a rain check? for `____`.
 
-- [x] hadn't it
-- [ ] target
+- [x] efficient
+- [ ] given that
 - [ ] had it been
 
-> **解析**：本题在单元主题情境中复习表达 hadn't it。
+> **解析**：`take a rain check` 是口语习惯表达，意为“改期、改天再约（婉拒当次邀请）”。
 
 ### 5
 
-The manager explained "`____`".
+I got the appointment times mixed up and arrived an hour early (`____`).
 
-- [x] observation
-- [ ] corporation
+- [x] failure to
+- [ ] guidelines
 - [ ] background information
 
-> **解析**：本题在单元主题情境中复习表达 observation。
+> **解析**：`get sth. mixed up` 是动词短语，意为“搞混、记错”。
 
 ### 6
 
-Our team used "`____`" today.
+The delay was caused by a simple miscommunication between the two departments (`____`).
 
-- [x] prior
-- [ ] follow up
-- [ ] failure to
+- [x] follow up
+- [ ] had been
+- [ ] corporation
 
-> **解析**：本题在单元主题情境中复习表达 prior。
+> **解析**：`miscommunication` 是名词，由前缀 `mis-`（错误）+ `communication` 构成，意为“沟通不畅、误会”。
 
 ### 7
 
-Before lunch, we checked "`____`".
+Sorry I missed your call earlier; I was caught up in an urgent meeting (`____`).
 
-- [x] target
+- [x] given that
 - [ ] had it been
-- [ ] guidelines
+- [ ] credit
 
-> **解析**：本题在单元主题情境中复习表达 target。
+> **解析**：`be caught up in...` 意为“被……缠住、忙于……而抽不开身”。
 
 ### 8
 
-My colleague asked about "`____`".
+He couldn't chat for long because he was severely pressed for time for `____`.
 
-- [x] corporation
+- [x] guidelines
 - [ ] background information
-- [ ] hadn't it
+- [ ] efficient
 
-> **解析**：本题在单元主题情境中复习表达 corporation。
+> **解析**：`pressed for time` 是习惯短语，意为“时间紧迫、缺乏时间”，在句中作表语。
 
 ### 9
 
-The report included "`____`".
+She could not attend the conference because of a schedule conflict (`____`).
 
-- [x] follow up
+- [x] had been
+- [ ] corporation
 - [ ] failure to
-- [ ] observation
 
-> **解析**：本题在单元主题情境中复习表达 follow up。
+> **解析**：`conflict` 在此作名词，意为“（时间/日程）冲突”，短语 `schedule conflict` 表示“日程冲突”。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+Please accept my sincere apology for any inconvenience this delay may have caused (`____`).
 
 - [x] had it been
-- [ ] guidelines
-- [ ] prior
+- [ ] credit
+- [ ] follow up
 
-> **解析**：本题在单元主题情境中复习表达 had it been。
+> **解析**：`apology` 是可数名词，意为“道歉、歉意”，常用搭配 `sincere apology`（诚挚的道歉）。
 
 </quiz-cloze>

@@ -61,70 +61,79 @@ academic, accomplish, accomplishment, admirable, all worth it, benefit, can't wa
 
 <quiz-sentence-builder>
 
-1. **中文**：好样的，你获得了硕士学位！  
-   **英文**：Way to go; you earned your master's degree!
-   > **解析**：本题在单元主题情境中复习表达 way to go。
+1. **中文**：干得漂亮！你为这个学位付出了巨大的努力，你受之无愧。  
+   **英文**：Way to go! You worked so hard for this degree and you earned it for academic.
+   > **解析**：`Way to go!` 是高频口语赞美与祝贺惯用语，意为“干得好！太棒了！”，用于祝贺对方成功。
 
-2. **中文**：你的投入和意志力令人钦佩。  
-   **英文**：Your dedication and willpower are admirable.
-   > **解析**：本题在单元主题情境中复习表达 dedication。
+2. **中文**：以优异成绩从大学毕业是一项了不起的个人成就。  
+   **英文**：Graduating with honors from university is a magnificent personal accomplishment.
+   > **解析**：`accomplishment` 是名词，意为“成就、完成”，动词形式为 `accomplish`。
 
-3. **中文**：你感到气馁时仍保持专注。  
-   **英文**：You stay focused when you feel discouraged.
-   > **解析**：本题在单元主题情境中复习表达 stay focused。
+3. **中文**：经过两年的学习，她正式获得了经济学硕士学位。  
+   **英文**：After two years of study, she officially earned her master's degree in economics for accomplishment.
+   > **解析**：`master's degree` 是名词短语，意为“硕士学位”，注意 `master's` 带有属格所有格撇号 `'s`。
 
-4. **中文**：毕业后，一切都是值得的。  
-   **英文**：After graduation, it was all worth it.
-   > **解析**：本题在单元主题情境中复习表达 all worth it。
+4. **中文**：看到父母的微笑，让所有熬夜学习的时光都变得完全值得了。  
+   **英文**：Seeing her parents smile made all the late-night studying feel all worth it for admirable.
+   > **解析**：`all worth it` 是习惯形容词短语，意为“一切都是值得的”，在句中作表语。
 
-5. **中文**：祝你成为终身学习者并不断成功。  
-   **英文**：Wishing you success as a lifelong learner.
-   > **解析**：本题在单元主题情境中复习表达 lifelong。
+5. **中文**：他是一名专注投入的学生，每个周末都在校园图书馆度过。  
+   **英文**：He was a dedicated student who spent every weekend in the campus library (all worth it).
+   > **解析**：`dedicated` 是形容词，意为“一心一意的、专注敬业的”，常用短语 `be dedicated to...`。
 
-6. **中文**：你的学术成就令人印象深刻。  
-   **英文**：Your academic accomplishment is impressive.
-   > **解析**：本题在单元主题情境中复习表达 academic。
+6. **中文**：接过毕业证书激励着他保持好奇心，做一名终身学习者。  
+   **英文**：Receiving his diploma inspired him to stay curious and remain a lifelong learner for benefit.
+   > **解析**：`lifelong learner` 是复合名词短语，意为“终身学习者”，由 `lifelong`（终身的）+ `learner` 构成。
 
-7. **中文**：你在高等教育中努力学习。  
-   **英文**：You worked hard at your higher education.
-   > **解析**：本题在单元主题情境中复习表达 higher education。
+7. **中文**：在四年的大学时光中，她取得了卓越的学业成绩。  
+   **英文**：She achieved outstanding academic results throughout her four years of college (can't wait).
+   > **解析**：`academic` 是形容词，意为“学业的、学术的”，常用短语 `academic results / achievement`。
 
-8. **中文**：我迫不及待想和你一起庆祝。  
-   **英文**：I can't wait to celebrate with you.
-   > **解析**：本题在单元主题情境中复习表达 can't wait。
+8. **中文**：边兼职工作边完成论文的撰写需要巨大的意志力。  
+   **英文**：It took immense willpower to finish writing his thesis while working part-time for dedicated.
+   > **解析**：`willpower` 是不可数名词，意为“意志力、毅力”，由 `will` + `power` 复合而成。
 
-9. **中文**：看看当你充满动力时能完成多少事。  
-   **英文**：Look how much you accomplish when you are driven.
-   > **解析**：本题在单元主题情境中复习表达 accomplish。
+9. **中文**：上交最终研究项目给学生们带来了巨大的如释重负之感。  
+   **英文**：Handing in the final research project brought a huge sense of relief to the students for dedication.
+   > **解析**：`relief` 是不可数名词，意为“宽慰、轻松、如释重负”，常用短语 `a sense of relief`。
 
-10. **中文**：我从未见过如此投入的学习者。  
-   **英文**：Never have I seen such a dedicated learner.
-   > **解析**：本题在单元主题情境中复习表达 dedicated。
+10. **中文**：追求高等教育为年轻人开启了许多职业发展机会。  
+   **英文**：Pursuing higher education opens up many career opportunities for young adults for discouraged.
+   > **解析**：`higher education` 是名词短语，意为“高等教育”，指大学及以上阶段的教育。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Way to go; you earned your master's degree!
-   > **中文**：好样的，你获得了硕士学位！
-2. Your dedication and willpower are admirable.
-   > **中文**：你的投入和意志力令人钦佩。
-3. You stay focused when you feel discouraged.
-   > **中文**：你感到气馁时仍保持专注。
-4. After graduation, it was all worth it.
-   > **中文**：毕业后，一切都是值得的。
-5. Wishing you success as a lifelong learner.
-   > **中文**：祝你成为终身学习者并不断成功。
-6. Your academic accomplishment is impressive.
-   > **中文**：你的学术成就令人印象深刻。
-7. You worked hard at your higher education.
-   > **中文**：你在高等教育中努力学习。
-8. I can't wait to celebrate with you.
-   > **中文**：我迫不及待想和你一起庆祝。
-9. Look how much you accomplish when you are driven.
-   > **中文**：看看当你充满动力时能完成多少事。
-10. Never have I seen such a dedicated learner.
-   > **中文**：我从未见过如此投入的学习者。
+1. Way to go! You worked so hard for this degree and you earned it for academic.
+   > **中文**：干得漂亮！你为这个学位付出了巨大的努力，你受之无愧。
+
+2. Graduating with honors from university is a magnificent personal accomplishment.
+   > **中文**：以优异成绩从大学毕业是一项了不起的个人成就。
+
+3. After two years of study, she officially earned her master's degree in economics for accomplishment.
+   > **中文**：经过两年的学习，她正式获得了经济学硕士学位。
+
+4. Seeing her parents smile made all the late-night studying feel all worth it for admirable.
+   > **中文**：看到父母的微笑，让所有熬夜学习的时光都变得完全值得了。
+
+5. He was a dedicated student who spent every weekend in the campus library (all worth it).
+   > **中文**：他是一名专注投入的学生，每个周末都在校园图书馆度过。
+
+6. Receiving his diploma inspired him to stay curious and remain a lifelong learner for benefit.
+   > **中文**：接过毕业证书激励着他保持好奇心，做一名终身学习者。
+
+7. She achieved outstanding academic results throughout her four years of college (can't wait).
+   > **中文**：在四年的大学时光中，她取得了卓越的学业成绩。
+
+8. It took immense willpower to finish writing his thesis while working part-time for dedicated.
+   > **中文**：边兼职工作边完成论文的撰写需要巨大的意志力。
+
+9. Handing in the final research project brought a huge sense of relief to the students for dedication.
+   > **中文**：上交最终研究项目给学生们带来了巨大的如释重负之感。
+
+10. Pursuing higher education opens up many career opportunities for young adults for discouraged.
+   > **中文**：追求高等教育为年轻人开启了许多职业发展机会。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ academic, accomplish, accomplishment, admirable, all worth it, benefit, can't wa
 
 ### 1
 
-`____`; you earned your master's degree!
+Way to go! You worked so hard for this degree and you earned it for `____`.
 
-- [x] way to go
-- [ ] all worth it
-- [ ] higher education
+- [x] academic
+- [ ] admirable
+- [ ] can't wait
 
-> **解析**：本题在单元主题情境中复习表达 way to go。
+> **解析**：`Way to go!` 是高频口语赞美与祝贺惯用语，意为“干得好！太棒了！”，用于祝贺对方成功。
 
 ### 2
 
-Your `____` and willpower are admirable.
+Graduating with honors from university is a magnificent personal `____`ment.
 
-- [x] dedication
-- [ ] lifelong
-- [ ] can't wait
+- [x] accomplish
+- [ ] all worth it
+- [ ] dedicated
 
-> **解析**：本题在单元主题情境中复习表达 dedication。
+> **解析**：`accomplishment` 是名词，意为“成就、完成”，动词形式为 `accomplish`。
 
 ### 3
 
-You `____` when you feel discouraged.
+After two years of study, she officially earned her master's degree in economics for `____`.
 
-- [x] stay focused
-- [ ] academic
-- [ ] accomplish
+- [x] accomplishment
+- [ ] benefit
+- [ ] dedication
 
-> **解析**：本题在单元主题情境中复习表达 stay focused。
+> **解析**：`master's degree` 是名词短语，意为“硕士学位”，注意 `master's` 带有属格所有格撇号 `'s`。
 
 ### 4
 
-After graduation, it was `____`.
+Seeing her parents smile made all the late-night studying feel all worth it for `____`.
 
-- [x] all worth it
-- [ ] higher education
-- [ ] dedicated
+- [x] admirable
+- [ ] can't wait
+- [ ] discouraged
 
-> **解析**：本题在单元主题情境中复习表达 all worth it。
+> **解析**：`all worth it` 是习惯形容词短语，意为“一切都是值得的”，在句中作表语。
 
 ### 5
 
-Wishing you success as a `____` learner.
+He was a dedicated student who spent every weekend in the campus library (`____`).
 
-- [x] lifelong
-- [ ] can't wait
-- [ ] way to go
+- [x] all worth it
+- [ ] dedicated
+- [ ] academic
 
-> **解析**：本题在单元主题情境中复习表达 lifelong。
+> **解析**：`dedicated` 是形容词，意为“一心一意的、专注敬业的”，常用短语 `be dedicated to...`。
 
 ### 6
 
-Your `____` accomplishment is impressive.
+Receiving his diploma inspired him to stay curious and remain a lifelong learner for `____`.
 
-- [x] academic
-- [ ] accomplish
+- [x] benefit
 - [ ] dedication
+- [ ] accomplish
 
-> **解析**：本题在单元主题情境中复习表达 academic。
+> **解析**：`lifelong learner` 是复合名词短语，意为“终身学习者”，由 `lifelong`（终身的）+ `learner` 构成。
 
 ### 7
 
-You worked hard at your `____`.
+She achieved outstanding academic results throughout her four years of college (`____`).
 
-- [x] higher education
-- [ ] dedicated
-- [ ] stay focused
+- [x] can't wait
+- [ ] discouraged
+- [ ] accomplishment
 
-> **解析**：本题在单元主题情境中复习表达 higher education。
+> **解析**：`academic` 是形容词，意为“学业的、学术的”，常用短语 `academic results / achievement`。
 
 ### 8
 
-I `____` to celebrate with you.
+It took immense willpower to finish writing his thesis while working part-time for `____`.
 
-- [x] can't wait
-- [ ] way to go
-- [ ] all worth it
+- [x] dedicated
+- [ ] academic
+- [ ] admirable
 
-> **解析**：本题在单元主题情境中复习表达 can't wait。
+> **解析**：`willpower` 是不可数名词，意为“意志力、毅力”，由 `will` + `power` 复合而成。
 
 ### 9
 
-Look how much you `____` when you are driven.
+Handing in the final research project brought a huge sense of relief to the students for `____`.
 
-- [x] accomplish
-- [ ] dedication
-- [ ] lifelong
+- [x] dedication
+- [ ] accomplish
+- [ ] all worth it
 
-> **解析**：本题在单元主题情境中复习表达 accomplish。
+> **解析**：`relief` 是不可数名词，意为“宽慰、轻松、如释重负”，常用短语 `a sense of relief`。
 
 ### 10
 
-Never have I seen such a `____` learner.
+Pursuing higher education opens up many career opportunities for young adults for `____`.
 
-- [x] dedicated
-- [ ] stay focused
-- [ ] academic
+- [x] discouraged
+- [ ] accomplishment
+- [ ] benefit
 
-> **解析**：本题在单元主题情境中复习表达 dedicated。
+> **解析**：`higher education` 是名词短语，意为“高等教育”，指大学及以上阶段的教育。
 
 </quiz-cloze>

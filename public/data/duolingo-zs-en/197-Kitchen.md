@@ -51,70 +51,79 @@ half- 是前缀，构成 half-cooked（半熟的）之类的表达。dozen = 一
 
 <quiz-sentence-builder>
 
-1. **中文**：在餐厅里，我询问了“a bit of”。  
-   **英文**：At the restaurant, I asked about "a bit of".
-   > **解析**：本题在单元主题情境中复习表达 a bit of。
+1. **中文**：首先，在放入面条之前把一大锅水煮沸。  
+   **英文**：First, bring a large pot of water to a boil before adding the noodles (a bit of).
+   > **解析**：boil 动词/名词，在此作动词表示“煮沸；烧开”，接名词短语 water。
 
-2. **中文**：菜单上有“burn”。  
-   **英文**：The menu included "burn".
-   > **解析**：本题在单元主题情境中复习表达 burn。
+2. **中文**：在平底锅里加热橄榄油，将切块的蔬菜煎炒至金黄色。  
+   **英文**：Heat olive oil in the pan and fry the diced vegetables until golden brown for basket.
+   > **解析**：fry 及物/不及物动词，意为“油炸；煎；炒”。
 
-3. **中文**：在餐桌旁，我们谈到了“fry”。  
-   **英文**：At the table, we talked about "fry".
-   > **解析**：本题在单元主题情境中复习表达 fry。
+3. **中文**：我们决定在户外烧烤架上烤新鲜鸡胸肉。  
+   **英文**：We decided to grill fresh chicken breasts on the outdoor barbecue for boil.
+   > **解析**：grill 及物/不及物动词，意为“烧烤；烤制”。
 
-4. **中文**：厨师提到了“noodle”。  
-   **英文**：The cook mentioned "noodle".
-   > **解析**：本题在单元主题情境中复习表达 noodle。
+4. **中文**：小心地把浓郁的蘑菇酱淋在热面条上。  
+   **英文**：Carefully pour the rich mushroom sauce over the warm pasta for burn.
+   > **解析**：pour 及物动词，意为“倒；倾倒；淋上”，常搭配介词 over 或 into。
 
-5. **中文**：晚餐我点了“raw”。  
-   **英文**：I ordered "raw" for dinner.
-   > **解析**：本题在单元主题情境中复习表达 raw。
+5. **中文**：把新鲜黄瓜切成薄片做成爽口的绿色沙拉。  
+   **英文**：Slice a fresh cucumber thinly to make a crisp green salad.
+   > **解析**：cucumber 可数名词，意为“黄瓜”。
 
-6. **中文**：我的朋友选择了“spice”。  
-   **英文**：My friend chose "spice".
-   > **解析**：本题在单元主题情境中复习表达 spice。
+6. **中文**：使用有机食材能提升家常菜的安全性与口感。  
+   **英文**：Using organic ingredients improves both the safety and flavor of home-cooked meals for dozen.
+   > **解析**：organic 形容词，意为“有机的”，指不使用化学农药培养的。
 
-7. **中文**：服务员重复了“taste”。  
-   **英文**：The waiter repeated "taste".
-   > **解析**：本题在单元主题情境中复习表达 taste。
+7. **中文**：在混合蔬菜上淋少许意式沙拉酱以增加风味。  
+   **英文**：Pour a little Italian dressing over the mixed greens for extra flavor.
+   > **解析**：dressing 不可数/可数名词，意为“（沙拉等）调味酱；调料”。
 
-8. **中文**：我们分享了一个关于“basket”的故事。  
-   **英文**：We shared a story about "basket".
-   > **解析**：本题在单元主题情境中复习表达 basket。
+8. **中文**：加入一小撮香料可以完全改变这道菜的美味。  
+   **英文**：Adding a pinch of aromatic spice can completely transform the dish for fry.
+   > **解析**：spice 可数/不可数名词，意为“香料；调味品”。
 
-9. **中文**：饭后，我记住了“dozen”。  
-   **英文**：After the meal, I remembered "dozen".
-   > **解析**：本题在单元主题情境中复习表达 dozen。
+9. **中文**：确保烹饪过程中在接触生肉后洗手。  
+   **英文**：Make sure you wash your hands after handling raw meat during cooking for grill.
+   > **解析**：raw 形容词，意为“生的；未煮熟的”。
 
-10. **中文**：那顿饭以“grill”收尾。  
-   **英文**：That meal ended with "grill".
-   > **解析**：本题在单元主题情境中复习表达 grill。
+10. **中文**：在汤炖煮时用木勺持续搅拌。  
+   **英文**：Use a wooden spoon to stir the soup continuously while it simmers for half-.
+   > **解析**：stir 及物动词，意为“搅拌；摇动”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the restaurant, I asked about "a bit of".
-   > **中文**：在餐厅里，我询问了“a bit of”。
-2. The menu included "burn".
-   > **中文**：菜单上有“burn”。
-3. At the table, we talked about "fry".
-   > **中文**：在餐桌旁，我们谈到了“fry”。
-4. The cook mentioned "noodle".
-   > **中文**：厨师提到了“noodle”。
-5. I ordered "raw" for dinner.
-   > **中文**：晚餐我点了“raw”。
-6. My friend chose "spice".
-   > **中文**：我的朋友选择了“spice”。
-7. The waiter repeated "taste".
-   > **中文**：服务员重复了“taste”。
-8. We shared a story about "basket".
-   > **中文**：我们分享了一个关于“basket”的故事。
-9. After the meal, I remembered "dozen".
-   > **中文**：饭后，我记住了“dozen”。
-10. That meal ended with "grill".
-   > **中文**：那顿饭以“grill”收尾。
+1. First, bring a large pot of water to a boil before adding the noodles (a bit of).
+   > **中文**：首先，在放入面条之前把一大锅水煮沸。
+
+2. Heat olive oil in the pan and fry the diced vegetables until golden brown for basket.
+   > **中文**：在平底锅里加热橄榄油，将切块的蔬菜煎炒至金黄色。
+
+3. We decided to grill fresh chicken breasts on the outdoor barbecue for boil.
+   > **中文**：我们决定在户外烧烤架上烤新鲜鸡胸肉。
+
+4. Carefully pour the rich mushroom sauce over the warm pasta for burn.
+   > **中文**：小心地把浓郁的蘑菇酱淋在热面条上。
+
+5. Slice a fresh cucumber thinly to make a crisp green salad.
+   > **中文**：把新鲜黄瓜切成薄片做成爽口的绿色沙拉。
+
+6. Using organic ingredients improves both the safety and flavor of home-cooked meals for dozen.
+   > **中文**：使用有机食材能提升家常菜的安全性与口感。
+
+7. Pour a little Italian dressing over the mixed greens for extra flavor.
+   > **中文**：在混合蔬菜上淋少许意式沙拉酱以增加风味。
+
+8. Adding a pinch of aromatic spice can completely transform the dish for fry.
+   > **中文**：加入一小撮香料可以完全改变这道菜的美味。
+
+9. Make sure you wash your hands after handling raw meat during cooking for grill.
+   > **中文**：确保烹饪过程中在接触生肉后洗手。
+
+10. Use a wooden spoon to stir the soup continuously while it simmers for half-.
+   > **中文**：在汤炖煮时用木勺持续搅拌。
 
 </quiz-listening>
 
@@ -126,102 +135,102 @@ half- 是前缀，构成 half-cooked（半熟的）之类的表达。dozen = 一
 
 ### 1
 
-At the restaurant, I asked about "`____`".
+First, bring a large pot of water to a boil before adding the noodles (`____`).
 
 - [x] a bit of
-- [ ] noodle
-- [ ] taste
+- [ ] burn
+- [ ] dressing
 
-> **解析**：本题在单元主题情境中复习表达 a bit of。
+> **解析**：boil 动词/名词，在此作动词表示“煮沸；烧开”，接名词短语 water。
 
 ### 2
 
-The menu included "`____`".
+Heat olive oil in the pan and fry the diced vegetables until golden brown for `____`.
 
-- [x] burn
-- [ ] raw
-- [ ] basket
+- [x] basket
+- [ ] cucumber
+- [ ] fry
 
-> **解析**：本题在单元主题情境中复习表达 burn。
+> **解析**：fry 及物/不及物动词，意为“油炸；煎；炒”。
 
 ### 3
 
-At the table, we talked about "`____`".
+We decided to grill fresh chicken breasts on the outdoor barbecue for `____`.
 
-- [x] fry
-- [ ] spice
+- [x] boil
 - [ ] dozen
+- [ ] grill
 
-> **解析**：本题在单元主题情境中复习表达 fry。
+> **解析**：grill 及物/不及物动词，意为“烧烤；烤制”。
 
 ### 4
 
-The cook mentioned "`____`".
+Carefully pour the rich mushroom sauce over the warm pasta for `____`.
 
-- [x] noodle
-- [ ] taste
-- [ ] grill
+- [x] burn
+- [ ] dressing
+- [ ] half-
 
-> **解析**：本题在单元主题情境中复习表达 noodle。
+> **解析**：pour 及物动词，意为“倒；倾倒；淋上”，常搭配介词 over 或 into。
 
 ### 5
 
-I ordered "`____`" for dinner.
+Slice a fresh `____` thinly to make a crisp green salad.
 
-- [x] raw
-- [ ] basket
+- [x] cucumber
+- [ ] fry
 - [ ] a bit of
 
-> **解析**：本题在单元主题情境中复习表达 raw。
+> **解析**：cucumber 可数名词，意为“黄瓜”。
 
 ### 6
 
-My friend chose "`____`".
+Using organic ingredients improves both the safety and flavor of home-cooked meals for `____`.
 
-- [x] spice
-- [ ] dozen
-- [ ] burn
+- [x] dozen
+- [ ] grill
+- [ ] basket
 
-> **解析**：本题在单元主题情境中复习表达 spice。
+> **解析**：organic 形容词，意为“有机的”，指不使用化学农药培养的。
 
 ### 7
 
-The waiter repeated "`____`".
+Pour a little Italian `____` over the mixed greens for extra flavor.
 
-- [x] taste
-- [ ] grill
-- [ ] fry
+- [x] dressing
+- [ ] half-
+- [ ] boil
 
-> **解析**：本题在单元主题情境中复习表达 taste。
+> **解析**：dressing 不可数/可数名词，意为“（沙拉等）调味酱；调料”。
 
 ### 8
 
-We shared a story about "`____`".
+Adding a pinch of aromatic spice can completely transform the dish for `____`.
 
-- [x] basket
+- [x] fry
 - [ ] a bit of
-- [ ] noodle
+- [ ] burn
 
-> **解析**：本题在单元主题情境中复习表达 basket。
+> **解析**：spice 可数/不可数名词，意为“香料；调味品”。
 
 ### 9
 
-After the meal, I remembered "`____`".
+Make sure you wash your hands after handling raw meat during cooking for `____`.
 
-- [x] dozen
-- [ ] burn
-- [ ] raw
+- [x] grill
+- [ ] basket
+- [ ] cucumber
 
-> **解析**：本题在单元主题情境中复习表达 dozen。
+> **解析**：raw 形容词，意为“生的；未煮熟的”。
 
 ### 10
 
-That meal ended with "`____`".
+Use a wooden spoon to stir the soup continuously while it simmers for `____`.
 
-- [x] grill
-- [ ] fry
-- [ ] spice
+- [x] half-
+- [ ] boil
+- [ ] dozen
 
-> **解析**：本题在单元主题情境中复习表达 grill。
+> **解析**：stir 及物动词，意为“搅拌；摇动”。
 
 </quiz-cloze>

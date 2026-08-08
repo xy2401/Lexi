@@ -51,70 +51,79 @@ get + 过去分词（get my hair cut, get my nails done）是"使役/被动"结�
 
 <quiz-sentence-builder>
 
-1. **中文**：在家里，我们谈到了“appearance”。  
-   **英文**：At home, we talked about "appearance".
-   > **解析**：本题在单元主题情境中复习表达 appearance。
+1. **中文**：她在市中心的新发廊预约了服务。  
+   **英文**：She booked an appointment at the new hair salon downtown for appearance.
+   > **解析**：salon 可数名词，在此指“美容院；发廊”（beauty salon / hair salon）。
 
-2. **中文**：家人提到了“dye”。  
-   **英文**：My family mentioned "dye".
-   > **解析**：本题在单元主题情境中复习表达 dye。
+2. **中文**：造型师推荐了一款适合她脸型的现代短发发型。  
+   **英文**：The stylist recommended a modern short hairstyle that suits her face for barbershop.
+   > **解析**：hairstyle 可数名词，意为“发型”。
 
-3. **中文**：在房间里，我注意到了“get”。  
-   **英文**：In the room, I noticed "get".
-   > **解析**：本题在单元主题情境中复习表达 get。
+3. **中文**：我哥哥每两周去当地的理发店剪一次头发。  
+   **英文**：My brother goes to the local barbershop every two weeks for a haircut.
+   > **解析**：barbershop 可数名词，特指“男士理发店”。
 
-4. **中文**：我们在家里用到了“makeup done”。  
-   **英文**：We used "makeup done" at home.
-   > **解析**：本题在单元主题情境中复习表达 makeup done。
+4. **中文**：她决定在假期里把暗色头发染成深红色。  
+   **英文**：She decided to dye her dark hair bright red for the holiday for do.
+   > **解析**：dye 及物/不及物动词/名词，在此作动词意为“染色；染发”。
 
-5. **中文**：邻居询问了“nails done”。  
-   **英文**：My neighbor asked about "nails done".
-   > **解析**：本题在单元主题情境中复习表达 nails done。
+5. **中文**：这家沙龙老板是公认的皮肤护理专家。  
+   **英文**：The salon owner is a recognized expert in skincare treatments for dye.
+   > **解析**：expert 可数名词，意为“专家；能手”，常搭配介词 in 或 on。
 
-6. **中文**：我在门边写下了“remove”。  
-   **英文**：I wrote down "remove" by the door.
-   > **解析**：本题在单元主题情境中复习表达 remove。
+6. **中文**：干净的发型能让你的专业外表产生很大改变。  
+   **英文**：A clean haircut can make a big difference in your professional appearance for expert.
+   > **解析**：appearance 可数/不可数名词，在此指“外表；外观”。
 
-7. **中文**：晚饭后，我们重复了“tattoo”。  
-   **英文**：After dinner, we repeated "tattoo".
-   > **解析**：本题在单元主题情境中复习表达 tattoo。
+7. **中文**：她去美容院为婚礼化了妆。  
+   **英文**：She went to the beauty parlor to get her makeup done for the wedding for forehead.
+   > **解析**：get one's makeup done 动词短语，意为“（请别人）做化妆/化妆”。
 
-8. **中文**：家庭故事里包含“cut”。  
-   **英文**：The family story included "cut".
-   > **解析**：本题在单元主题情境中复习表达 cut。
+8. **中文**：在去度假之前，我们决定在水疗中心做美甲。  
+   **英文**：We decided to get our nails done at the spa before our vacation.
+   > **解析**：get one's nails done 动词短语，意为“做美甲”。
 
-9. **中文**：睡前，我记住了“forehead”。  
-   **英文**：Before bed, I remembered "forehead".
-   > **解析**：本题在单元主题情境中复习表达 forehead。
+9. **中文**：她在一家有资质的珠宝店打了耳洞。  
+   **英文**：She got an ear piercing at a certified jewelry shop for hairstyle.
+   > **解析**：piercing 可数名词，意为“穿孔；穿耳洞”。
 
-10. **中文**：那个夜晚以“lip”收尾。  
-   **英文**：That evening ended with "lip".
-   > **解析**：本题在单元主题情境中复习表达 lip。
+10. **中文**：他设计了一个小艺术纹身来纪念他的旅行。  
+   **英文**：He designed a small artistic tattoo to remember his trip for lip.
+   > **解析**：tattoo 可数名词/动词，在此作名词意为“纹身”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At home, we talked about "appearance".
-   > **中文**：在家里，我们谈到了“appearance”。
-2. My family mentioned "dye".
-   > **中文**：家人提到了“dye”。
-3. In the room, I noticed "get".
-   > **中文**：在房间里，我注意到了“get”。
-4. We used "makeup done" at home.
-   > **中文**：我们在家里用到了“makeup done”。
-5. My neighbor asked about "nails done".
-   > **中文**：邻居询问了“nails done”。
-6. I wrote down "remove" by the door.
-   > **中文**：我在门边写下了“remove”。
-7. After dinner, we repeated "tattoo".
-   > **中文**：晚饭后，我们重复了“tattoo”。
-8. The family story included "cut".
-   > **中文**：家庭故事里包含“cut”。
-9. Before bed, I remembered "forehead".
-   > **中文**：睡前，我记住了“forehead”。
-10. That evening ended with "lip".
-   > **中文**：那个夜晚以“lip”收尾。
+1. She booked an appointment at the new hair salon downtown for appearance.
+   > **中文**：她在市中心的新发廊预约了服务。
+
+2. The stylist recommended a modern short hairstyle that suits her face for barbershop.
+   > **中文**：造型师推荐了一款适合她脸型的现代短发发型。
+
+3. My brother goes to the local barbershop every two weeks for a haircut.
+   > **中文**：我哥哥每两周去当地的理发店剪一次头发。
+
+4. She decided to dye her dark hair bright red for the holiday for do.
+   > **中文**：她决定在假期里把暗色头发染成深红色。
+
+5. The salon owner is a recognized expert in skincare treatments for dye.
+   > **中文**：这家沙龙老板是公认的皮肤护理专家。
+
+6. A clean haircut can make a big difference in your professional appearance for expert.
+   > **中文**：干净的发型能让你的专业外表产生很大改变。
+
+7. She went to the beauty parlor to get her makeup done for the wedding for forehead.
+   > **中文**：她去美容院为婚礼化了妆。
+
+8. We decided to get our nails done at the spa before our vacation.
+   > **中文**：在去度假之前，我们决定在水疗中心做美甲。
+
+9. She got an ear piercing at a certified jewelry shop for hairstyle.
+   > **中文**：她在一家有资质的珠宝店打了耳洞。
+
+10. He designed a small artistic tattoo to remember his trip for lip.
+   > **中文**：他设计了一个小艺术纹身来纪念他的旅行。
 
 </quiz-listening>
 
@@ -126,102 +135,102 @@ get + 过去分词（get my hair cut, get my nails done）是"使役/被动"结�
 
 ### 1
 
-At home, we talked about "`____`".
+She booked an appointment at the new hair salon downtown for `____`.
 
 - [x] appearance
-- [ ] makeup done
-- [ ] tattoo
+- [ ] do
+- [ ] forehead
 
-> **解析**：本题在单元主题情境中复习表达 appearance。
+> **解析**：salon 可数名词，在此指“美容院；发廊”（beauty salon / hair salon）。
 
 ### 2
 
-My family mentioned "`____`".
+The stylist recommended a modern short hairstyle that suits her face for `____`.
 
-- [x] dye
-- [ ] nails done
-- [ ] cut
+- [x] barbershop
+- [ ] dye
+- [ ] get
 
-> **解析**：本题在单元主题情境中复习表达 dye。
+> **解析**：hairstyle 可数名词，意为“发型”。
 
 ### 3
 
-In the room, I noticed "`____`".
+My brother goes to the local barbershop every two weeks for a hair`____`.
 
-- [x] get
-- [ ] remove
-- [ ] forehead
+- [x] cut
+- [ ] expert
+- [ ] hairstyle
 
-> **解析**：本题在单元主题情境中复习表达 get。
+> **解析**：barbershop 可数名词，特指“男士理发店”。
 
 ### 4
 
-We used "`____`" at home.
+She decided to dye her dark hair bright red for the holiday for `____`.
 
-- [x] makeup done
-- [ ] tattoo
+- [x] do
+- [ ] forehead
 - [ ] lip
 
-> **解析**：本题在单元主题情境中复习表达 makeup done。
+> **解析**：dye 及物/不及物动词/名词，在此作动词意为“染色；染发”。
 
 ### 5
 
-My neighbor asked about "`____`".
+The salon owner is a recognized expert in skincare treatments for `____`.
 
-- [x] nails done
-- [ ] cut
+- [x] dye
+- [ ] get
 - [ ] appearance
 
-> **解析**：本题在单元主题情境中复习表达 nails done。
+> **解析**：expert 可数名词，意为“专家；能手”，常搭配介词 in 或 on。
 
 ### 6
 
-I wrote down "`____`" by the door.
+A clean haircut can make a big difference in your professional appearance for `____`.
 
-- [x] remove
-- [ ] forehead
-- [ ] dye
+- [x] expert
+- [ ] hairstyle
+- [ ] barbershop
 
-> **解析**：本题在单元主题情境中复习表达 remove。
+> **解析**：appearance 可数/不可数名词，在此指“外表；外观”。
 
 ### 7
 
-After dinner, we repeated "`____`".
+She went to the beauty parlor to get her makeup done for the wedding for `____`.
 
-- [x] tattoo
+- [x] forehead
 - [ ] lip
-- [ ] get
+- [ ] cut
 
-> **解析**：本题在单元主题情境中复习表达 tattoo。
+> **解析**：get one's makeup done 动词短语，意为“（请别人）做化妆/化妆”。
 
 ### 8
 
-The family story included "`____`".
+We decided to `____` our nails done at the spa before our vacation.
 
-- [x] cut
+- [x] get
 - [ ] appearance
-- [ ] makeup done
+- [ ] do
 
-> **解析**：本题在单元主题情境中复习表达 cut。
+> **解析**：get one's nails done 动词短语，意为“做美甲”。
 
 ### 9
 
-Before bed, I remembered "`____`".
+She got an ear piercing at a certified jewelry shop for `____`.
 
-- [x] forehead
+- [x] hairstyle
+- [ ] barbershop
 - [ ] dye
-- [ ] nails done
 
-> **解析**：本题在单元主题情境中复习表达 forehead。
+> **解析**：piercing 可数名词，意为“穿孔；穿耳洞”。
 
 ### 10
 
-That evening ended with "`____`".
+He designed a small artistic tattoo to remember his trip for `____`.
 
 - [x] lip
-- [ ] get
-- [ ] remove
+- [ ] cut
+- [ ] expert
 
-> **解析**：本题在单元主题情境中复习表达 lip。
+> **解析**：tattoo 可数名词/动词，在此作名词意为“纹身”。
 
 </quiz-cloze>

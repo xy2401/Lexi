@@ -53,70 +53,79 @@ lead → led 是不规则动词变化。approximate / approximately, kind / unki
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“announce”。  
-   **英文**：In this situation, I heard "announce".
-   > **解析**：本题在单元主题情境中复习表达 announce。
+1. **中文**：校长就即将举行的毕业典礼作了一项重要公告。  
+   **英文**：The principal made an important announcement about upcoming graduation ceremonies.
+   > **解析**：announcement 可数名词，意为“公告；通知”，来自动词 announce。
 
-2. **中文**：同伴解释了“attention”。  
-   **英文**：My partner explained "attention".
-   > **解析**：本题在单元主题情境中复习表达 attention。
+2. **中文**：公司主管打算明天宣布正式结果。  
+   **英文**：The company director is going to announce the official results tomorrow for announcement.
+   > **解析**：announce 及物动词，意为“宣布；宣告”。
 
-3. **中文**：我们一起谈到了“kind”。  
-   **英文**：We talked about "kind" together.
-   > **解析**：本题在单元主题情境中复习表达 kind。
+3. **中文**：女士们，先生们，欢迎来到我们的年度慈善演讲活动。  
+   **英文**：Ladies and gentlemen, welcome to our annual charity speech event for approximate.
+   > **解析**：ladies and gentlemen 常用演讲开场致辞，意为“女士们，先生们”。
 
-4. **中文**：我记下了“look forward to”。  
-   **英文**：I wrote down "look forward to".
-   > **解析**：本题在单元主题情境中复习表达 look forward to。
+4. **中文**：能请大家注意一下，听一听简短的开场致词吗？  
+   **英文**：May I have your attention for a brief introductory remark, please? for approximately.
+   > **解析**：attention 不可数名词，意为“注意力”，短语 have one's attention 意为“吸引某人注意”。
 
-5. **中文**：例句中包含“previous”。  
-   **英文**：The example included "previous".
-   > **解析**：本题在单元主题情境中复习表达 previous。
+5. **中文**：他在演讲中履行了指导青年学生的承诺。  
+   **英文**：He kept his promise to mentor young students during his speech for attention.
+   > **解析**：promise 可数名词/动词，在此作名词意为“承诺；诺言”。
 
-6. **中文**：我询问了“speaker”。  
-   **英文**：I asked about "speaker".
-   > **解析**：本题在单元主题情境中复习表达 speaker。
+6. **中文**：主旨演讲人分享了克服逆境的感人故事。  
+   **英文**：The keynote speaker shared inspiring stories about overcoming adversity (by the time).
+   > **解析**：speaker 可数名词，意为“演讲者；发言人”。
 
-7. **中文**：我们在句子中用到了“volunteer”。  
-   **英文**：We used "volunteer" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 volunteer。
+7. **中文**：我们期待在专题讨论环节听取您的真知灼见。  
+   **英文**：We look forward to hearing your insights during the panel discussion (in fact).
+   > **解析**：look forward to 动词短语，意为“期待；盼望”，介词 to 后接名词或动名词（doing）。
 
-8. **中文**：朋友重复了“announcement”。  
-   **英文**：My friend repeated "announcement".
-   > **解析**：本题在单元主题情境中复习表达 announcement。
+8. **中文**：到演讲结束时，观众们都起立鼓掌。  
+   **英文**：By the time the speech ended, the audience was standing and clapping for kind.
+   > **解析**：by the time 连词短语，引导时间状语从句，意为“到……的时候为止”。
 
-9. **中文**：后来，我记住了“by the time”。  
-   **英文**：Later, I remembered "by the time".
-   > **解析**：本题在单元主题情境中复习表达 by the time。
+9. **中文**：事实上，这次经历彻底改变了我对成功的看法。  
+   **英文**：In fact, this experience completely transformed my perspective on success (ladies and gentlemen).
+   > **解析**：in fact 插入语/副词短语，意为“事实上；实际上”。
 
-10. **中文**：这个小故事以“lead”收尾。  
-   **英文**：The short story ended with "lead".
-   > **解析**：本题在单元主题情境中复习表达 lead。
+10. **中文**：能与如此热情的观众分享我的经历是莫大的荣幸。  
+   **英文**：It was a great pleasure to share my experience with such an enthusiastic audience for lead.
+   > **解析**：pleasure 不可数/可数名词，意为“荣幸；愉快”，常用 It's a pleasure to do ...
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "announce".
-   > **中文**：在这个情境中，我听到了“announce”。
-2. My partner explained "attention".
-   > **中文**：同伴解释了“attention”。
-3. We talked about "kind" together.
-   > **中文**：我们一起谈到了“kind”。
-4. I wrote down "look forward to".
-   > **中文**：我记下了“look forward to”。
-5. The example included "previous".
-   > **中文**：例句中包含“previous”。
-6. I asked about "speaker".
-   > **中文**：我询问了“speaker”。
-7. We used "volunteer" in a sentence.
-   > **中文**：我们在句子中用到了“volunteer”。
-8. My friend repeated "announcement".
-   > **中文**：朋友重复了“announcement”。
-9. Later, I remembered "by the time".
-   > **中文**：后来，我记住了“by the time”。
-10. The short story ended with "lead".
-   > **中文**：这个小故事以“lead”收尾。
+1. The principal made an important announcement about upcoming graduation ceremonies.
+   > **中文**：校长就即将举行的毕业典礼作了一项重要公告。
+
+2. The company director is going to announce the official results tomorrow for announcement.
+   > **中文**：公司主管打算明天宣布正式结果。
+
+3. Ladies and gentlemen, welcome to our annual charity speech event for approximate.
+   > **中文**：女士们，先生们，欢迎来到我们的年度慈善演讲活动。
+
+4. May I have your attention for a brief introductory remark, please? for approximately.
+   > **中文**：能请大家注意一下，听一听简短的开场致词吗？
+
+5. He kept his promise to mentor young students during his speech for attention.
+   > **中文**：他在演讲中履行了指导青年学生的承诺。
+
+6. The keynote speaker shared inspiring stories about overcoming adversity (by the time).
+   > **中文**：主旨演讲人分享了克服逆境的感人故事。
+
+7. We look forward to hearing your insights during the panel discussion (in fact).
+   > **中文**：我们期待在专题讨论环节听取您的真知灼见。
+
+8. By the time the speech ended, the audience was standing and clapping for kind.
+   > **中文**：到演讲结束时，观众们都起立鼓掌。
+
+9. In fact, this experience completely transformed my perspective on success (ladies and gentlemen).
+   > **中文**：事实上，这次经历彻底改变了我对成功的看法。
+
+10. It was a great pleasure to share my experience with such an enthusiastic audience for lead.
+   > **中文**：能与如此热情的观众分享我的经历是莫大的荣幸。
 
 </quiz-listening>
 
@@ -128,102 +137,102 @@ lead → led 是不规则动词变化。approximate / approximately, kind / unki
 
 ### 1
 
-In this situation, I heard "`____`".
+The principal made an important `____`ment about upcoming graduation ceremonies.
 
 - [x] announce
-- [ ] look forward to
-- [ ] volunteer
+- [ ] approximately
+- [ ] in fact
 
-> **解析**：本题在单元主题情境中复习表达 announce。
+> **解析**：announcement 可数名词，意为“公告；通知”，来自动词 announce。
 
 ### 2
 
-My partner explained "`____`".
+The company director is going to announce the official results tomorrow for `____`.
 
-- [x] attention
-- [ ] previous
-- [ ] announcement
+- [x] announcement
+- [ ] attention
+- [ ] kind
 
-> **解析**：本题在单元主题情境中复习表达 attention。
+> **解析**：announce 及物动词，意为“宣布；宣告”。
 
 ### 3
 
-We talked about "`____`" together.
+Ladies and gentlemen, welcome to our annual charity speech event for `____`.
 
-- [x] kind
-- [ ] speaker
+- [x] approximate
 - [ ] by the time
+- [ ] ladies and gentlemen
 
-> **解析**：本题在单元主题情境中复习表达 kind。
+> **解析**：ladies and gentlemen 常用演讲开场致辞，意为“女士们，先生们”。
 
 ### 4
 
-I wrote down "`____`".
+May I have your attention for a brief introductory remark, please? for `____`.
 
-- [x] look forward to
-- [ ] volunteer
+- [x] approximately
+- [ ] in fact
 - [ ] lead
 
-> **解析**：本题在单元主题情境中复习表达 look forward to。
+> **解析**：attention 不可数名词，意为“注意力”，短语 have one's attention 意为“吸引某人注意”。
 
 ### 5
 
-The example included "`____`".
+He kept his promise to mentor young students during his speech for `____`.
 
-- [x] previous
-- [ ] announcement
+- [x] attention
+- [ ] kind
 - [ ] announce
 
-> **解析**：本题在单元主题情境中复习表达 previous。
+> **解析**：promise 可数名词/动词，在此作名词意为“承诺；诺言”。
 
 ### 6
 
-I asked about "`____`".
+The keynote speaker shared inspiring stories about overcoming adversity (`____`).
 
-- [x] speaker
-- [ ] by the time
-- [ ] attention
+- [x] by the time
+- [ ] ladies and gentlemen
+- [ ] announcement
 
-> **解析**：本题在单元主题情境中复习表达 speaker。
+> **解析**：speaker 可数名词，意为“演讲者；发言人”。
 
 ### 7
 
-We used "`____`" in a sentence.
+We look forward to hearing your insights during the panel discussion (`____`).
 
-- [x] volunteer
+- [x] in fact
 - [ ] lead
-- [ ] kind
+- [ ] approximate
 
-> **解析**：本题在单元主题情境中复习表达 volunteer。
+> **解析**：look forward to 动词短语，意为“期待；盼望”，介词 to 后接名词或动名词（doing）。
 
 ### 8
 
-My friend repeated "`____`".
+By the time the speech ended, the audience was standing and clapping for `____`.
 
-- [x] announcement
+- [x] kind
 - [ ] announce
-- [ ] look forward to
+- [ ] approximately
 
-> **解析**：本题在单元主题情境中复习表达 announcement。
+> **解析**：by the time 连词短语，引导时间状语从句，意为“到……的时候为止”。
 
 ### 9
 
-Later, I remembered "`____`".
+In fact, this experience completely transformed my perspective on success (`____`).
 
-- [x] by the time
+- [x] ladies and gentlemen
+- [ ] announcement
 - [ ] attention
-- [ ] previous
 
-> **解析**：本题在单元主题情境中复习表达 by the time。
+> **解析**：in fact 插入语/副词短语，意为“事实上；实际上”。
 
 ### 10
 
-The short story ended with "`____`".
+It was a great pleasure to share my experience with such an enthusiastic audience for `____`.
 
 - [x] lead
-- [ ] kind
-- [ ] speaker
+- [ ] approximate
+- [ ] by the time
 
-> **解析**：本题在单元主题情境中复习表达 lead。
+> **解析**：pleasure 不可数/可数名词，意为“荣幸；愉快”，常用 It's a pleasure to do ...
 
 </quiz-cloze>

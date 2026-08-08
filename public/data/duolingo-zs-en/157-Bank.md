@@ -61,70 +61,79 @@ afford = 负担得起。lent 是 lend 的过去式。
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“afford”。  
-   **英文**：At work, we discussed "afford".
-   > **解析**：本题在单元主题情境中复习表达 afford。
+1. **中文**：如果不向银行贷款，我买不起那辆昂贵的汽车。  
+   **英文**：I can't afford to buy that expensive car without taking out a bank loan.
+   > **解析**：afford 为及物动词，意为“买得起、负担得起”，常与 can / can't 连用，后接不定式（afford to do sth.）。
 
-2. **中文**：同事提到了“business”。  
-   **英文**：My coworker mentioned "business".
-   > **解析**：本题在单元主题情境中复习表达 business。
+2. **中文**：她开设了一个新的商业账户来管理公司的日常财务。  
+   **英文**：She opened a new business account to manage her company's daily finances for balance.
+   > **解析**：business 在此处作定语，修饰 account（business account 商业账户/企业账户）。
 
-3. **中文**：会议中，我听到了“deposit”。  
-   **英文**：In the meeting, I heard "deposit".
-   > **解析**：本题在单元主题情境中复习表达 deposit。
+3. **中文**：我们需要去当地分行把这张支票存入我的账户。  
+   **英文**：I need to visit the local branch to deposit this check into my account (bank teller).
+   > **解析**：deposit 为动词，意为“存入（资金）”。常用搭配 deposit money/check into an account。
 
-4. **中文**：我把“mobile”写进了笔记。  
-   **英文**：I added "mobile" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 mobile。
+4. **中文**：你可以使用银行的移动应用程序进行即时转账。  
+   **英文**：You can transfer money instantly using the bank's mobile application for budget.
+   > **解析**：mobile 为形容词，意为“移动的、手机的”。mobile application/banking 指移动应用/移动银行。
 
-5. **中文**：经理解释了“password”。  
-   **英文**：The manager explained "password".
-   > **解析**：本题在单元主题情境中复习表达 password。
+5. **中文**：切勿将您的手机银行密码透漏给任何人，以保护您的资金。  
+   **英文**：Never share your mobile banking password with anyone to protect your funds for business.
+   > **解析**：password 为可数名词，意为“密码”。在银行安全语境中，指登录或验证身份的口令。
 
-6. **中文**：团队今天用到了“spent”。  
-   **英文**：Our team used "spent" today.
-   > **解析**：本题在单元主题情境中复习表达 spent。
+6. **中文**：他查看了银行账单，注意到自己在外出就餐上花得太多了。  
+   **英文**：He checked his bank statement and noticed he had spent too much on dining out (checking account).
+   > **解析**：spent 是动词 spend 的过去式/过去分词，常用搭配 spend money on sth.（在某物上花钱）。
 
-7. **中文**：午饭前，我们查看了“transaction”。  
-   **英文**：Before lunch, we checked "transaction".
-   > **解析**：本题在单元主题情境中复习表达 transaction。
+7. **中文**：银行发送了一条短信通知，以确认在线交易成功。  
+   **英文**：The bank sent an SMS notification to confirm the successful online transaction for consider.
+   > **解析**：transaction 为可数名词，意为“交易、业务办理”。online transaction 指网络交易。
 
-8. **中文**：同事询问了“balance”。  
-   **英文**：My colleague asked about "balance".
-   > **解析**：本题在单元主题情境中复习表达 balance。
+8. **中文**：登录银行应用程序以查询您当前的账户余额。  
+   **英文**：Log in to the banking app to check your current account balance for deposit.
+   > **解析**：balance 为名词，意为“余额、结余”。account balance 指账户余额。
 
-9. **中文**：报告中包含“checking account”。  
-   **英文**：The report included "checking account".
-   > **解析**：本题在单元主题情境中复习表达 checking account。
+9. **中文**：我想开一个活期存款账户（支票账户）用于日常开销。  
+   **英文**：I would like to open a checking account for my daily expenses for id.
+   > **解析**：checking account 为名词短语，指“活期存款账户/支票账户”，常用于日常存取与支付。
 
-10. **中文**：一天结束时，我记住了“lent”。  
-   **英文**：At the end of the day, I remembered "lent".
-   > **解析**：本题在单元主题情境中复习表达 lent。
+10. **中文**：银行贷款给他必要的资金来购买他的第一套房子。  
+   **英文**：The bank lent him the necessary funds to purchase his first home.
+   > **解析**：lent 是 lend 的过去式，意为“借出、贷款给”。常用结构 lend sb. sth. 或 lend sth. to sb.。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "afford".
-   > **中文**：工作中，我们讨论了“afford”。
-2. My coworker mentioned "business".
-   > **中文**：同事提到了“business”。
-3. In the meeting, I heard "deposit".
-   > **中文**：会议中，我听到了“deposit”。
-4. I added "mobile" to my notes.
-   > **中文**：我把“mobile”写进了笔记。
-5. The manager explained "password".
-   > **中文**：经理解释了“password”。
-6. Our team used "spent" today.
-   > **中文**：团队今天用到了“spent”。
-7. Before lunch, we checked "transaction".
-   > **中文**：午饭前，我们查看了“transaction”。
-8. My colleague asked about "balance".
-   > **中文**：同事询问了“balance”。
-9. The report included "checking account".
-   > **中文**：报告中包含“checking account”。
-10. At the end of the day, I remembered "lent".
-   > **中文**：一天结束时，我记住了“lent”。
+1. I can't afford to buy that expensive car without taking out a bank loan.
+   > **中文**：如果不向银行贷款，我买不起那辆昂贵的汽车。
+
+2. She opened a new business account to manage her company's daily finances for balance.
+   > **中文**：她开设了一个新的商业账户来管理公司的日常财务。
+
+3. I need to visit the local branch to deposit this check into my account (bank teller).
+   > **中文**：我们需要去当地分行把这张支票存入我的账户。
+
+4. You can transfer money instantly using the bank's mobile application for budget.
+   > **中文**：你可以使用银行的移动应用程序进行即时转账。
+
+5. Never share your mobile banking password with anyone to protect your funds for business.
+   > **中文**：切勿将您的手机银行密码透漏给任何人，以保护您的资金。
+
+6. He checked his bank statement and noticed he had spent too much on dining out (checking account).
+   > **中文**：他查看了银行账单，注意到自己在外出就餐上花得太多了。
+
+7. The bank sent an SMS notification to confirm the successful online transaction for consider.
+   > **中文**：银行发送了一条短信通知，以确认在线交易成功。
+
+8. Log in to the banking app to check your current account balance for deposit.
+   > **中文**：登录银行应用程序以查询您当前的账户余额。
+
+9. I would like to open a checking account for my daily expenses for id.
+   > **中文**：我想开一个活期存款账户（支票账户）用于日常开销。
+
+10. The bank lent him the necessary funds to purchase his first home.
+   > **中文**：银行贷款给他必要的资金来购买他的第一套房子。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ afford = 负担得起。lent 是 lend 的过去式。
 
 ### 1
 
-At work, we discussed "`____`".
+I can't `____` to buy that expensive car without taking out a bank loan.
 
 - [x] afford
-- [ ] mobile
-- [ ] transaction
+- [ ] budget
+- [ ] consider
 
-> **解析**：本题在单元主题情境中复习表达 afford。
+> **解析**：afford 为及物动词，意为“买得起、负担得起”，常与 can / can't 连用，后接不定式（afford to do sth.）。
 
 ### 2
 
-My coworker mentioned "`____`".
+She opened a new business account to manage her company's daily finances for `____`.
 
-- [x] business
-- [ ] password
-- [ ] balance
+- [x] balance
+- [ ] business
+- [ ] deposit
 
-> **解析**：本题在单元主题情境中复习表达 business。
+> **解析**：business 在此处作定语，修饰 account（business account 商业账户/企业账户）。
 
 ### 3
 
-In the meeting, I heard "`____`".
+I need to visit the local branch to deposit this check into my account (`____`).
 
-- [x] deposit
-- [ ] spent
+- [x] bank teller
 - [ ] checking account
+- [ ] id
 
-> **解析**：本题在单元主题情境中复习表达 deposit。
+> **解析**：deposit 为动词，意为“存入（资金）”。常用搭配 deposit money/check into an account。
 
 ### 4
 
-I added "`____`" to my notes.
+You can transfer money instantly using the bank's mobile application for `____`.
 
-- [x] mobile
-- [ ] transaction
+- [x] budget
+- [ ] consider
 - [ ] lent
 
-> **解析**：本题在单元主题情境中复习表达 mobile。
+> **解析**：mobile 为形容词，意为“移动的、手机的”。mobile application/banking 指移动应用/移动银行。
 
 ### 5
 
-The manager explained "`____`".
+Never share your mobile banking password with anyone to protect your funds for `____`.
 
-- [x] password
-- [ ] balance
+- [x] business
+- [ ] deposit
 - [ ] afford
 
-> **解析**：本题在单元主题情境中复习表达 password。
+> **解析**：password 为可数名词，意为“密码”。在银行安全语境中，指登录或验证身份的口令。
 
 ### 6
 
-Our team used "`____`" today.
+He checked his bank statement and noticed he had spent too much on dining out (`____`).
 
-- [x] spent
-- [ ] checking account
-- [ ] business
+- [x] checking account
+- [ ] id
+- [ ] balance
 
-> **解析**：本题在单元主题情境中复习表达 spent。
+> **解析**：spent 是动词 spend 的过去式/过去分词，常用搭配 spend money on sth.（在某物上花钱）。
 
 ### 7
 
-Before lunch, we checked "`____`".
+The bank sent an SMS notification to confirm the successful online transaction for `____`.
 
-- [x] transaction
+- [x] consider
 - [ ] lent
-- [ ] deposit
+- [ ] bank teller
 
-> **解析**：本题在单元主题情境中复习表达 transaction。
+> **解析**：transaction 为可数名词，意为“交易、业务办理”。online transaction 指网络交易。
 
 ### 8
 
-My colleague asked about "`____`".
+Log in to the banking app to check your current account balance for `____`.
 
-- [x] balance
+- [x] deposit
 - [ ] afford
-- [ ] mobile
+- [ ] budget
 
-> **解析**：本题在单元主题情境中复习表达 balance。
+> **解析**：balance 为名词，意为“余额、结余”。account balance 指账户余额。
 
 ### 9
 
-The report included "`____`".
+I would like to open a checking account for my daily expenses for `____`.
 
-- [x] checking account
+- [x] id
+- [ ] balance
 - [ ] business
-- [ ] password
 
-> **解析**：本题在单元主题情境中复习表达 checking account。
+> **解析**：checking account 为名词短语，指“活期存款账户/支票账户”，常用于日常存取与支付。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+The bank `____` him the necessary funds to purchase his first home.
 
 - [x] lent
-- [ ] deposit
-- [ ] spent
+- [ ] bank teller
+- [ ] checking account
 
-> **解析**：本题在单元主题情境中复习表达 lent。
+> **解析**：lent 是 lend 的过去式，意为“借出、贷款给”。常用结构 lend sb. sth. 或 lend sth. to sb.。
 
 </quiz-cloze>

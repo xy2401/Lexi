@@ -61,70 +61,79 @@ shake → shook → shaken（握手）。succeed 是动词，success 是名词�
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“about”。  
-   **英文**：At work, we discussed "about".
-   > **解析**：本题在单元主题情境中复习表达 about。
+1. **中文**：她今天早上提交了高级经理岗位的申请表。  
+   **英文**：She submitted her application form for the senior manager position this morning for about.
+   > **解析**：application 为名词，意为“申请、申请表”。application form 表示“申请表”。动词形式为 apply（apply for a position）。
 
-2. **中文**：同事提到了“baker”。  
-   **英文**：My coworker mentioned "baker".
-   > **解析**：本题在单元主题情境中复习表达 baker。
+2. **中文**：这份录用通知包括丰厚的年薪和健康保险福利。  
+   **英文**：The job offer includes an attractive annual salary and health insurance benefits for application.
+   > **解析**：salary 为名词，意为“薪水、工资（通常指月薪/年薪）”。annual salary 指“年薪”。
 
-3. **中文**：会议中，我听到了“hairstylist”。  
-   **英文**：In the meeting, I heard "hairstylist".
-   > **解析**：本题在单元主题情境中复习表达 hairstylist。
+3. **中文**：他被提升去管理位于市中心的新分公司。  
+   **英文**：He was promoted to manage the new branch office located downtown for avoid.
+   > **解析**：branch 在句中作定语修饰 office，branch office 意为“分公司/分支机构”。be promoted to 表示“被晋升为...”。
 
-4. **中文**：我把“ordinary”写进了笔记。  
-   **英文**：I added "ordinary" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 ordinary。
+4. **中文**：请在合同签名线上写下您的签名以确认您的同意。  
+   **英文**：Please put your signature on the contract line to confirm your agreement for baker.
+   > **解析**：signature 为名词，意为“签名、签署”。
 
-5. **中文**：经理解释了“right”。  
-   **英文**：The manager explained "right".
-   > **解析**：本题在单元主题情境中复习表达 right。
+5. **中文**：如果你勤奋工作且快速适应，你就会在新岗位上获得成功。  
+   **英文**：If you work diligently and adapt quickly, you will succeed in your new role for blank.
+   > **解析**：succeed 为动词，意为“成功”。搭配 succeed in sth. / doing sth.（在某方面取得成功）。名词形式为 success。
 
-6. **中文**：团队今天用到了“shaken”。  
-   **英文**：Our team used "shaken" today.
-   > **解析**：本题在单元主题情境中复习表达 shaken。
+6. **中文**：在工作面试结束时与你的面试官握手是一种礼貌惯例。  
+   **英文**：It is customary to shake hands with your interviewer at the end of a job interview for branch.
+   > **解析**：shake hands 为固定短语，意为“握手”。与某人握手表达为 shake hands with sb.。
 
-7. **中文**：午饭前，我们查看了“succeed”。  
-   **英文**：Before lunch, we checked "succeed".
-   > **解析**：本题在单元主题情境中复习表达 succeed。
+7. **中文**：所有项目经理必须向总监提交他们的月度进度报告。  
+   **英文**：All project managers must present their monthly progress reports to the director for by.
+   > **解析**：monthly 在句中用作形容词，意为“每月的、月度的”。修饰 progress reports。也可用作副词（paid monthly 按月支付）。
 
-8. **中文**：同事询问了“application”。  
-   **英文**：My colleague asked about "application".
-   > **解析**：本题在单元主题情境中复习表达 application。
+8. **中文**：拥有丰富的专业知识会增加你获得晋升的机会。  
+   **英文**：Having extensive professional knowledge increases your chances of getting promoted for farming.
+   > **解析**：knowledge 为不可数名词，意为“知识、学识”。professional knowledge 意为“专业知识”。
 
-9. **中文**：报告中包含“branch”。  
-   **英文**：The report included "branch".
-   > **解析**：本题在单元主题情境中复习表达 branch。
+9. **中文**：我由衷感谢您在我实习期间提供的领导指导。  
+   **英文**：I sincerely appreciate the leadership guidance you provided during my internship for hairstylist.
+   > **解析**：sincerely 为副词，意为“真诚地、由衷地”。修饰动词 appreciate。常用于信件结尾 Yours sincerely（您真诚的）。
 
-10. **中文**：一天结束时，我记住了“knowledge”。  
-   **英文**：At the end of the day, I remembered "knowledge".
-   > **解析**：本题在单元主题情境中复习表达 knowledge。
+10. **中文**：在部门会议之前，请复印一份财务报告。  
+   **英文**：Before the department meeting, please make a photocopy of the financial report for knowledge.
+   > **解析**：photocopy 在此处用作名词，意为“复印件”。make a photocopy 指“复印一份”。也可以作动词（photocopy the document）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "about".
-   > **中文**：工作中，我们讨论了“about”。
-2. My coworker mentioned "baker".
-   > **中文**：同事提到了“baker”。
-3. In the meeting, I heard "hairstylist".
-   > **中文**：会议中，我听到了“hairstylist”。
-4. I added "ordinary" to my notes.
-   > **中文**：我把“ordinary”写进了笔记。
-5. The manager explained "right".
-   > **中文**：经理解释了“right”。
-6. Our team used "shaken" today.
-   > **中文**：团队今天用到了“shaken”。
-7. Before lunch, we checked "succeed".
-   > **中文**：午饭前，我们查看了“succeed”。
-8. My colleague asked about "application".
-   > **中文**：同事询问了“application”。
-9. The report included "branch".
-   > **中文**：报告中包含“branch”。
-10. At the end of the day, I remembered "knowledge".
-   > **中文**：一天结束时，我记住了“knowledge”。
+1. She submitted her application form for the senior manager position this morning for about.
+   > **中文**：她今天早上提交了高级经理岗位的申请表。
+
+2. The job offer includes an attractive annual salary and health insurance benefits for application.
+   > **中文**：这份录用通知包括丰厚的年薪和健康保险福利。
+
+3. He was promoted to manage the new branch office located downtown for avoid.
+   > **中文**：他被提升去管理位于市中心的新分公司。
+
+4. Please put your signature on the contract line to confirm your agreement for baker.
+   > **中文**：请在合同签名线上写下您的签名以确认您的同意。
+
+5. If you work diligently and adapt quickly, you will succeed in your new role for blank.
+   > **中文**：如果你勤奋工作且快速适应，你就会在新岗位上获得成功。
+
+6. It is customary to shake hands with your interviewer at the end of a job interview for branch.
+   > **中文**：在工作面试结束时与你的面试官握手是一种礼貌惯例。
+
+7. All project managers must present their monthly progress reports to the director for by.
+   > **中文**：所有项目经理必须向总监提交他们的月度进度报告。
+
+8. Having extensive professional knowledge increases your chances of getting promoted for farming.
+   > **中文**：拥有丰富的专业知识会增加你获得晋升的机会。
+
+9. I sincerely appreciate the leadership guidance you provided during my internship for hairstylist.
+   > **中文**：我由衷感谢您在我实习期间提供的领导指导。
+
+10. Before the department meeting, please make a photocopy of the financial report for knowledge.
+   > **中文**：在部门会议之前，请复印一份财务报告。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ shake → shook → shaken（握手）。succeed 是动词，success 是名词�
 
 ### 1
 
-At work, we discussed "`____`".
+She submitted her application form for the senior manager position this morning for `____`.
 
 - [x] about
-- [ ] ordinary
-- [ ] succeed
+- [ ] baker
+- [ ] by
 
-> **解析**：本题在单元主题情境中复习表达 about。
+> **解析**：application 为名词，意为“申请、申请表”。application form 表示“申请表”。动词形式为 apply（apply for a position）。
 
 ### 2
 
-My coworker mentioned "`____`".
+The job offer includes an attractive annual salary and health insurance benefits for `____`.
 
-- [x] baker
-- [ ] right
-- [ ] application
+- [x] application
+- [ ] blank
+- [ ] farming
 
-> **解析**：本题在单元主题情境中复习表达 baker。
+> **解析**：salary 为名词，意为“薪水、工资（通常指月薪/年薪）”。annual salary 指“年薪”。
 
 ### 3
 
-In the meeting, I heard "`____`".
+He was promoted to manage the new branch office located downtown for `____`.
 
-- [x] hairstylist
-- [ ] shaken
+- [x] avoid
 - [ ] branch
+- [ ] hairstylist
 
-> **解析**：本题在单元主题情境中复习表达 hairstylist。
+> **解析**：branch 在句中作定语修饰 office，branch office 意为“分公司/分支机构”。be promoted to 表示“被晋升为...”。
 
 ### 4
 
-I added "`____`" to my notes.
+Please put your signature on the contract line to confirm your agreement for `____`.
 
-- [x] ordinary
-- [ ] succeed
+- [x] baker
+- [ ] by
 - [ ] knowledge
 
-> **解析**：本题在单元主题情境中复习表达 ordinary。
+> **解析**：signature 为名词，意为“签名、签署”。
 
 ### 5
 
-The manager explained "`____`".
+If you work diligently and adapt quickly, you will succeed in your new role for `____`.
 
-- [x] right
-- [ ] application
+- [x] blank
+- [ ] farming
 - [ ] about
 
-> **解析**：本题在单元主题情境中复习表达 right。
+> **解析**：succeed 为动词，意为“成功”。搭配 succeed in sth. / doing sth.（在某方面取得成功）。名词形式为 success。
 
 ### 6
 
-Our team used "`____`" today.
+It is customary to shake hands with your interviewer at the end of a job interview for `____`.
 
-- [x] shaken
-- [ ] branch
-- [ ] baker
+- [x] branch
+- [ ] hairstylist
+- [ ] application
 
-> **解析**：本题在单元主题情境中复习表达 shaken。
+> **解析**：shake hands 为固定短语，意为“握手”。与某人握手表达为 shake hands with sb.。
 
 ### 7
 
-Before lunch, we checked "`____`".
+All project managers must present their monthly progress reports to the director for `____`.
 
-- [x] succeed
+- [x] by
 - [ ] knowledge
-- [ ] hairstylist
+- [ ] avoid
 
-> **解析**：本题在单元主题情境中复习表达 succeed。
+> **解析**：monthly 在句中用作形容词，意为“每月的、月度的”。修饰 progress reports。也可用作副词（paid monthly 按月支付）。
 
 ### 8
 
-My colleague asked about "`____`".
+Having extensive professional knowledge increases your chances of getting promoted for `____`.
 
-- [x] application
+- [x] farming
 - [ ] about
-- [ ] ordinary
+- [ ] baker
 
-> **解析**：本题在单元主题情境中复习表达 application。
+> **解析**：knowledge 为不可数名词，意为“知识、学识”。professional knowledge 意为“专业知识”。
 
 ### 9
 
-The report included "`____`".
+I sincerely appreciate the leadership guidance you provided during my internship for `____`.
 
-- [x] branch
-- [ ] baker
-- [ ] right
+- [x] hairstylist
+- [ ] application
+- [ ] blank
 
-> **解析**：本题在单元主题情境中复习表达 branch。
+> **解析**：sincerely 为副词，意为“真诚地、由衷地”。修饰动词 appreciate。常用于信件结尾 Yours sincerely（您真诚的）。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+Before the department meeting, please make a photocopy of the financial report for `____`.
 
 - [x] knowledge
-- [ ] hairstylist
-- [ ] shaken
+- [ ] avoid
+- [ ] branch
 
-> **解析**：本题在单元主题情境中复习表达 knowledge。
+> **解析**：photocopy 在此处用作名词，意为“复印件”。make a photocopy 指“复印一份”。也可以作动词（photocopy the document）。
 
 </quiz-cloze>

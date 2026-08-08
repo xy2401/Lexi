@@ -61,70 +61,79 @@ agree to, civilization, conquer, defeat, despite, develop, disappear, even thoug
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“agree to”。  
-   **英文**：In this situation, I heard "agree to".
-   > **解析**：本题在单元主题情境中复习表达 agree to。
+1. **中文**：两国同意签署一项具有历史意义的和平条约，以结束数十年的冲突。  
+   **英文**：The two nations agreed to sign a historic peace treaty ending the decades of conflict (agree to).
+   > **解析**：`agree to do sth.` 为固定搭配，意为“同意做某事”，后接动词原形。
 
-2. **中文**：同伴解释了“despite”。  
-   **英文**：My partner explained "despite".
-   > **解析**：本题在单元主题情境中复习表达 despite。
+2. **中文**：尽管冬天气候恶劣，古老的军队仍然跨越山脉向前进发。  
+   **英文**：Despite the harsh winter conditions, the ancient army marched forward across the mountains for civilization.
+   > **解析**：`despite` 介词，意为“尽管；虽然”，后接名词、代词或动名词短语，不能接从句（对比连词 `although`）。
 
-3. **中文**：我们一起谈到了“exist”。  
-   **英文**：We talked about "exist" together.
-   > **解析**：本题在单元主题情境中复习表达 exist。
+3. **中文**：历史学家发现了证据，表明在这个山谷中曾经存在过一个未知的部落。  
+   **英文**：Historians discovered evidence that an unknown tribe used to exist in this valley for conquer.
+   > **解析**：`exist` 不及物动词，意为“存在；生存”，常与 `used to` 或 `there` 连用（如 `there exists...`）。
 
-4. **中文**：我记下了“human”。  
-   **英文**：I wrote down "human".
-   > **解析**：本题在单元主题情境中复习表达 human。
+4. **中文**：语言是人类文明最显著的成就之一。  
+   **英文**：Language is one of the most remarkable achievements of human civilization for defeat.
+   > **解析**：`human` 在此处作形容词，意为“人类的”，修饰名词 `civilization`。
 
-5. **中文**：例句中包含“pirate”。  
-   **英文**：The example included "pirate".
-   > **解析**：本题在单元主题情境中复习表达 pirate。
+5. **中文**：那位著名的海盗船长花了多年时间在加勒比海寻找隐藏的宝藏。  
+   **英文**：The famous pirate captain spent years searching for hidden treasure in the Caribbean for despite.
+   > **解析**：`pirate` 在此处作名词修饰语或形容词，意为“海盗的”，短语 `pirate captain`（海盗船长）。
 
-6. **中文**：我询问了“technique”。  
-   **英文**：I asked about "technique".
-   > **解析**：本题在单元主题情境中复习表达 technique。
+6. **中文**：古代工匠开发出一种用于制作耐用陶器的先进技术。  
+   **英文**：Ancient artisans developed an advanced technique for crafting durable pottery.
+   > **解析**：`technique` 可数名词，意为“技巧；技术；工艺”，强调需要技能或特定方法的具体操作。
 
-7. **中文**：我们在句子中用到了“victory”。  
-   **英文**：We used "victory" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 victory。
+7. **中文**：将军在击败入侵的敌军后庆祝了一场决定性的胜利。  
+   **英文**：The general celebrated a decisive victory after defeating the invading enemy forces for disappear.
+   > **解析**：`victory` 名词，意为“胜利；战胜”。常用搭配 `celebrate a victory`（庆祝胜利）。
 
-8. **中文**：朋友重复了“civilization”。  
-   **英文**：My friend repeated "civilization".
-   > **解析**：本题在单元主题情境中复习表达 civilization。
+8. **中文**：罗马帝国在塑造西方文明方面发挥了关键作用。  
+   **英文**：The Roman Empire played a pivotal role in the shaping of Western civilization (even though).
+   > **解析**：`civilization` 名词，意为“文明；文化领域”。`Western civilization`（西方文明）。
 
-9. **中文**：后来，我记住了“develop”。  
-   **英文**：Later, I remembered "develop".
-   > **解析**：本题在单元主题情境中复习表达 develop。
+9. **中文**：早期人类开始发展农业以获取稳定的粮食供应。  
+   **英文**：Early humans began to develop agriculture to secure a stable supply of food for exist.
+   > **解析**：`develop` 及物/不及物动词，意为“发展；开发；培养”。作及物动词时接宾语 `agriculture`。
 
-10. **中文**：这个小故事以“flag”收尾。  
-   **英文**：The short story ended with "flag".
-   > **解析**：本题在单元主题情境中复习表达 flag。
+10. **中文**：士兵们在城堡塔顶高高升起了国旗。  
+   **英文**：Soldiers raised their national flag high on top of the castle tower.
+   > **解析**：`flag` 可数名词，意为“旗帜；国旗”。短语 `national flag`（国旗）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "agree to".
-   > **中文**：在这个情境中，我听到了“agree to”。
-2. My partner explained "despite".
-   > **中文**：同伴解释了“despite”。
-3. We talked about "exist" together.
-   > **中文**：我们一起谈到了“exist”。
-4. I wrote down "human".
-   > **中文**：我记下了“human”。
-5. The example included "pirate".
-   > **中文**：例句中包含“pirate”。
-6. I asked about "technique".
-   > **中文**：我询问了“technique”。
-7. We used "victory" in a sentence.
-   > **中文**：我们在句子中用到了“victory”。
-8. My friend repeated "civilization".
-   > **中文**：朋友重复了“civilization”。
-9. Later, I remembered "develop".
-   > **中文**：后来，我记住了“develop”。
-10. The short story ended with "flag".
-   > **中文**：这个小故事以“flag”收尾。
+1. The two nations agreed to sign a historic peace treaty ending the decades of conflict (agree to).
+   > **中文**：两国同意签署一项具有历史意义的和平条约，以结束数十年的冲突。
+
+2. Despite the harsh winter conditions, the ancient army marched forward across the mountains for civilization.
+   > **中文**：尽管冬天气候恶劣，古老的军队仍然跨越山脉向前进发。
+
+3. Historians discovered evidence that an unknown tribe used to exist in this valley for conquer.
+   > **中文**：历史学家发现了证据，表明在这个山谷中曾经存在过一个未知的部落。
+
+4. Language is one of the most remarkable achievements of human civilization for defeat.
+   > **中文**：语言是人类文明最显著的成就之一。
+
+5. The famous pirate captain spent years searching for hidden treasure in the Caribbean for despite.
+   > **中文**：那位著名的海盗船长花了多年时间在加勒比海寻找隐藏的宝藏。
+
+6. Ancient artisans developed an advanced technique for crafting durable pottery.
+   > **中文**：古代工匠开发出一种用于制作耐用陶器的先进技术。
+
+7. The general celebrated a decisive victory after defeating the invading enemy forces for disappear.
+   > **中文**：将军在击败入侵的敌军后庆祝了一场决定性的胜利。
+
+8. The Roman Empire played a pivotal role in the shaping of Western civilization (even though).
+   > **中文**：罗马帝国在塑造西方文明方面发挥了关键作用。
+
+9. Early humans began to develop agriculture to secure a stable supply of food for exist.
+   > **中文**：早期人类开始发展农业以获取稳定的粮食供应。
+
+10. Soldiers raised their national flag high on top of the castle tower.
+   > **中文**：士兵们在城堡塔顶高高升起了国旗。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ agree to, civilization, conquer, defeat, despite, develop, disappear, even thoug
 
 ### 1
 
-In this situation, I heard "`____`".
+The two nations agreed to sign a historic peace treaty ending the decades of conflict (`____`).
 
 - [x] agree to
-- [ ] human
-- [ ] victory
+- [ ] defeat
+- [ ] disappear
 
-> **解析**：本题在单元主题情境中复习表达 agree to。
+> **解析**：`agree to do sth.` 为固定搭配，意为“同意做某事”，后接动词原形。
 
 ### 2
 
-My partner explained "`____`".
+Despite the harsh winter conditions, the ancient army marched forward across the mountains for `____`.
 
-- [x] despite
-- [ ] pirate
-- [ ] civilization
+- [x] civilization
+- [ ] despite
+- [ ] even though
 
-> **解析**：本题在单元主题情境中复习表达 despite。
+> **解析**：`despite` 介词，意为“尽管；虽然”，后接名词、代词或动名词短语，不能接从句（对比连词 `although`）。
 
 ### 3
 
-We talked about "`____`" together.
+Historians discovered evidence that an unknown tribe used to exist in this valley for `____`.
 
-- [x] exist
-- [ ] technique
+- [x] conquer
 - [ ] develop
+- [ ] exist
 
-> **解析**：本题在单元主题情境中复习表达 exist。
+> **解析**：`exist` 不及物动词，意为“存在；生存”，常与 `used to` 或 `there` 连用（如 `there exists...`）。
 
 ### 4
 
-I wrote down "`____`".
+Language is one of the most remarkable achievements of human civilization for `____`.
 
-- [x] human
-- [ ] victory
+- [x] defeat
+- [ ] disappear
 - [ ] flag
 
-> **解析**：本题在单元主题情境中复习表达 human。
+> **解析**：`human` 在此处作形容词，意为“人类的”，修饰名词 `civilization`。
 
 ### 5
 
-The example included "`____`".
+The famous pirate captain spent years searching for hidden treasure in the Caribbean for `____`.
 
-- [x] pirate
-- [ ] civilization
+- [x] despite
+- [ ] even though
 - [ ] agree to
 
-> **解析**：本题在单元主题情境中复习表达 pirate。
+> **解析**：`pirate` 在此处作名词修饰语或形容词，意为“海盗的”，短语 `pirate captain`（海盗船长）。
 
 ### 6
 
-I asked about "`____`".
+Ancient artisans `____`ed an advanced technique for crafting durable pottery.
 
-- [x] technique
-- [ ] develop
-- [ ] despite
+- [x] develop
+- [ ] exist
+- [ ] civilization
 
-> **解析**：本题在单元主题情境中复习表达 technique。
+> **解析**：`technique` 可数名词，意为“技巧；技术；工艺”，强调需要技能或特定方法的具体操作。
 
 ### 7
 
-We used "`____`" in a sentence.
+The general celebrated a decisive victory after defeating the invading enemy forces for `____`.
 
-- [x] victory
+- [x] disappear
 - [ ] flag
-- [ ] exist
+- [ ] conquer
 
-> **解析**：本题在单元主题情境中复习表达 victory。
+> **解析**：`victory` 名词，意为“胜利；战胜”。常用搭配 `celebrate a victory`（庆祝胜利）。
 
 ### 8
 
-My friend repeated "`____`".
+The Roman Empire played a pivotal role in the shaping of Western civilization (`____`).
 
-- [x] civilization
+- [x] even though
 - [ ] agree to
-- [ ] human
+- [ ] defeat
 
-> **解析**：本题在单元主题情境中复习表达 civilization。
+> **解析**：`civilization` 名词，意为“文明；文化领域”。`Western civilization`（西方文明）。
 
 ### 9
 
-Later, I remembered "`____`".
+Early humans began to develop agriculture to secure a stable supply of food for `____`.
 
-- [x] develop
+- [x] exist
+- [ ] civilization
 - [ ] despite
-- [ ] pirate
 
-> **解析**：本题在单元主题情境中复习表达 develop。
+> **解析**：`develop` 及物/不及物动词，意为“发展；开发；培养”。作及物动词时接宾语 `agriculture`。
 
 ### 10
 
-The short story ended with "`____`".
+Soldiers raised their national `____` high on top of the castle tower.
 
 - [x] flag
-- [ ] exist
-- [ ] technique
+- [ ] conquer
+- [ ] develop
 
-> **解析**：本题在单元主题情境中复习表达 flag。
+> **解析**：`flag` 可数名词，意为“旗帜；国旗”。短语 `national flag`（国旗）。
 
 </quiz-cloze>

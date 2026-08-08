@@ -53,70 +53,79 @@ ask if / ask whether / wonder if / wonder whether 用来间接询问：I wonder 
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“apologize”。  
-   **英文**：In this situation, I heard "apologize".
-   > **解析**：本题在单元主题情境中复习表达 apologize。
+1. **中文**：我想为今天早上错过了员工会议向您道歉。  
+   **英文**：I want to apologize for missing the staff meeting this morning.
+   > **解析**：apologize 不及物动词，表示“道歉”，常用结构为 apologize to somebody for something。
 
-2. **中文**：同伴解释了“care about”。  
-   **英文**：My partner explained "care about".
-   > **解析**：本题在单元主题情境中复习表达 care about。
+2. **中文**：请接受我对您祖父去世最深切的吊唁与慰问。  
+   **英文**：Please accept my deepest condolences on the passing of your grandfather for ask.
+   > **解析**：condolences 常用复数名词，意为“吊唁；慰问”，表达哀悼常用 accept my condolences。
 
-3. **中文**：我们一起谈到了“excuse”。  
-   **英文**：We talked about "excuse" together.
-   > **解析**：本题在单元主题情境中复习表达 excuse。
+3. **中文**：许多朋友和同事参加了葬礼上的悼念仪式。  
+   **英文**：Many friends and colleagues attended the memorial service at the funeral (ask if).
+   > **解析**：funeral 可数名词，意为“葬礼；丧礼”，常用于表达悼念或告知坏消息的语境。
 
-4. **中文**：我记下了“get well soon”。  
-   **英文**：I wrote down "get well soon".
-   > **解析**：本题在单元主题情境中复习表达 get well soon。
+4. **中文**：我们都希望她能从膝盖手术中快速康复。  
+   **英文**：We all hope that she will recover quickly from her knee surgery (ask whether).
+   > **解析**：recover 不及物动词，意为“康复；恢复健康”，常与介词 from 连用（recover from）。
 
-5. **中文**：例句中包含“on purpose”。  
-   **英文**：The example included "on purpose".
-   > **解析**：本题在单元主题情境中复习表达 on purpose。
+5. **中文**：非常抱歉我今天把演示日程搞砸了。  
+   **英文**：I am really sorry that I messed up the presentation schedules today (care about).
+   > **解析**：mess up 口语短语动词，意为“搞砸；弄乱”，此处作过去时 messed up。
 
-6. **中文**：我询问了“sorry for”。  
-   **英文**：I asked about "sorry for".
-   > **解析**：本题在单元主题情境中复习表达 sorry for。
+6. **中文**：优秀的管理者真心关心地心员工的健康与福祉。  
+   **英文**：Good managers genuinely care about the health and well-being of their staff for condition.
+   > **解析**：care about 动词短语，意为“关心；在意”，后接关心的人或事物。
 
-7. **中文**：我们在句子中用到了“too bad”。  
-   **英文**：We used "too bad" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 too bad。
+7. **中文**：他发信息表示很抱歉延迟回复。  
+   **英文**：He sent a text message saying he was sorry for the delay in replying for condolences.
+   > **解析**：be sorry for ... 常用固定句型，意为“为……感到抱歉”，介词 for 后接名词或动名词。
 
-8. **中文**：朋友重复了“ask”。  
-   **英文**：My friend repeated "ask".
-   > **解析**：本题在单元主题情境中复习表达 ask。
+8. **中文**：听说你生病我很难过，但很高兴你在休息。  
+   **英文**：I was so sorry to hear about your illness, but I am glad you are resting for excuse.
+   > **解析**：be sorry to hear ... 表达同情或慰问的常用句型，意为“很遗憾/难过听说……”。
 
-9. **中文**：后来，我记住了“condition”。  
-   **英文**：Later, I remembered "condition".
-   > **解析**：本题在单元主题情境中复习表达 condition。
+9. **中文**：我们给她送去了一个漂亮的花篮，上面附着写有“早日康复”的卡片。  
+   **英文**：We sent her a lovely flower basket with a card that read "Get well soon" for forever.
+   > **解析**：get well soon 常用祝福语，意为“早日康复”，get well 表示“恢复健康”。
 
-10. **中文**：这个小故事以“funeral”收尾。  
-   **英文**：The short story ended with "funeral".
-   > **解析**：本题在单元主题情境中复习表达 funeral。
+10. **中文**：医生向我们保证病人的状况每天都在改善。  
+   **英文**：The doctor reassured us that the patient's condition is improving daily for funeral.
+   > **解析**：condition 名词，在此意为“健康状况；病情”，可用以指代人的身体健康状态。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "apologize".
-   > **中文**：在这个情境中，我听到了“apologize”。
-2. My partner explained "care about".
-   > **中文**：同伴解释了“care about”。
-3. We talked about "excuse" together.
-   > **中文**：我们一起谈到了“excuse”。
-4. I wrote down "get well soon".
-   > **中文**：我记下了“get well soon”。
-5. The example included "on purpose".
-   > **中文**：例句中包含“on purpose”。
-6. I asked about "sorry for".
-   > **中文**：我询问了“sorry for”。
-7. We used "too bad" in a sentence.
-   > **中文**：我们在句子中用到了“too bad”。
-8. My friend repeated "ask".
-   > **中文**：朋友重复了“ask”。
-9. Later, I remembered "condition".
-   > **中文**：后来，我记住了“condition”。
-10. The short story ended with "funeral".
-   > **中文**：这个小故事以“funeral”收尾。
+1. I want to apologize for missing the staff meeting this morning.
+   > **中文**：我想为今天早上错过了员工会议向您道歉。
+
+2. Please accept my deepest condolences on the passing of your grandfather for ask.
+   > **中文**：请接受我对您祖父去世最深切的吊唁与慰问。
+
+3. Many friends and colleagues attended the memorial service at the funeral (ask if).
+   > **中文**：许多朋友和同事参加了葬礼上的悼念仪式。
+
+4. We all hope that she will recover quickly from her knee surgery (ask whether).
+   > **中文**：我们都希望她能从膝盖手术中快速康复。
+
+5. I am really sorry that I messed up the presentation schedules today (care about).
+   > **中文**：非常抱歉我今天把演示日程搞砸了。
+
+6. Good managers genuinely care about the health and well-being of their staff for condition.
+   > **中文**：优秀的管理者真心关心地心员工的健康与福祉。
+
+7. He sent a text message saying he was sorry for the delay in replying for condolences.
+   > **中文**：他发信息表示很抱歉延迟回复。
+
+8. I was so sorry to hear about your illness, but I am glad you are resting for excuse.
+   > **中文**：听说你生病我很难过，但很高兴你在休息。
+
+9. We sent her a lovely flower basket with a card that read "Get well soon" for forever.
+   > **中文**：我们给她送去了一个漂亮的花篮，上面附着写有“早日康复”的卡片。
+
+10. The doctor reassured us that the patient's condition is improving daily for funeral.
+   > **中文**：医生向我们保证病人的状况每天都在改善。
 
 </quiz-listening>
 
@@ -128,102 +137,102 @@ ask if / ask whether / wonder if / wonder whether 用来间接询问：I wonder 
 
 ### 1
 
-In this situation, I heard "`____`".
+I want to `____` for missing the staff meeting this morning.
 
 - [x] apologize
-- [ ] get well soon
-- [ ] too bad
+- [ ] ask whether
+- [ ] condolences
 
-> **解析**：本题在单元主题情境中复习表达 apologize。
+> **解析**：apologize 不及物动词，表示“道歉”，常用结构为 apologize to somebody for something。
 
 ### 2
 
-My partner explained "`____`".
+Please accept my deepest condolences on the passing of your grandfather for `____`.
 
-- [x] care about
-- [ ] on purpose
-- [ ] ask
+- [x] ask
+- [ ] care about
+- [ ] excuse
 
-> **解析**：本题在单元主题情境中复习表达 care about。
+> **解析**：condolences 常用复数名词，意为“吊唁；慰问”，表达哀悼常用 accept my condolences。
 
 ### 3
 
-We talked about "`____`" together.
+Many friends and colleagues attended the memorial service at the funeral (`____`).
 
-- [x] excuse
-- [ ] sorry for
+- [x] ask if
 - [ ] condition
+- [ ] forever
 
-> **解析**：本题在单元主题情境中复习表达 excuse。
+> **解析**：funeral 可数名词，意为“葬礼；丧礼”，常用于表达悼念或告知坏消息的语境。
 
 ### 4
 
-I wrote down "`____`".
+We all hope that she will recover quickly from her knee surgery (`____`).
 
-- [x] get well soon
-- [ ] too bad
+- [x] ask whether
+- [ ] condolences
 - [ ] funeral
 
-> **解析**：本题在单元主题情境中复习表达 get well soon。
+> **解析**：recover 不及物动词，意为“康复；恢复健康”，常与介词 from 连用（recover from）。
 
 ### 5
 
-The example included "`____`".
+I am really sorry that I messed up the presentation schedules today (`____`).
 
-- [x] on purpose
-- [ ] ask
+- [x] care about
+- [ ] excuse
 - [ ] apologize
 
-> **解析**：本题在单元主题情境中复习表达 on purpose。
+> **解析**：mess up 口语短语动词，意为“搞砸；弄乱”，此处作过去时 messed up。
 
 ### 6
 
-I asked about "`____`".
+Good managers genuinely care about the health and well-being of their staff for `____`.
 
-- [x] sorry for
-- [ ] condition
-- [ ] care about
+- [x] condition
+- [ ] forever
+- [ ] ask
 
-> **解析**：本题在单元主题情境中复习表达 sorry for。
+> **解析**：care about 动词短语，意为“关心；在意”，后接关心的人或事物。
 
 ### 7
 
-We used "`____`" in a sentence.
+He sent a text message saying he was sorry for the delay in replying for `____`.
 
-- [x] too bad
+- [x] condolences
 - [ ] funeral
-- [ ] excuse
+- [ ] ask if
 
-> **解析**：本题在单元主题情境中复习表达 too bad。
+> **解析**：be sorry for ... 常用固定句型，意为“为……感到抱歉”，介词 for 后接名词或动名词。
 
 ### 8
 
-My friend repeated "`____`".
+I was so sorry to hear about your illness, but I am glad you are resting for `____`.
 
-- [x] ask
+- [x] excuse
 - [ ] apologize
-- [ ] get well soon
+- [ ] ask whether
 
-> **解析**：本题在单元主题情境中复习表达 ask。
+> **解析**：be sorry to hear ... 表达同情或慰问的常用句型，意为“很遗憾/难过听说……”。
 
 ### 9
 
-Later, I remembered "`____`".
+We sent her a lovely flower basket with a card that read "Get well soon" for `____`.
 
-- [x] condition
+- [x] forever
+- [ ] ask
 - [ ] care about
-- [ ] on purpose
 
-> **解析**：本题在单元主题情境中复习表达 condition。
+> **解析**：get well soon 常用祝福语，意为“早日康复”，get well 表示“恢复健康”。
 
 ### 10
 
-The short story ended with "`____`".
+The doctor reassured us that the patient's condition is improving daily for `____`.
 
 - [x] funeral
-- [ ] excuse
-- [ ] sorry for
+- [ ] ask if
+- [ ] condition
 
-> **解析**：本题在单元主题情境中复习表达 funeral。
+> **解析**：condition 名词，在此意为“健康状况；病情”，可用以指代人的身体健康状态。
 
 </quiz-cloze>

@@ -79,70 +79,79 @@ i don't buy it（我不信）、there's no way（不可能）、nonsense（胡�
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“bleachers”。  
-   **英文**：In this situation, I heard "bleachers".
-   > **解析**：本题在单元主题情境中复习表达 bleachers。
+1. **中文**：坐在露天看台的前排能让你拥有观赏比赛的最佳视野。  
+   **英文**：Sitting in the front row of the bleachers gives you the best view of the game.
+   > **解析**：`bleachers` 是复数名词，意为“（体育场的）露天看台、露天座位”。
 
-2. **中文**：同伴解释了“come on”。  
-   **英文**：My partner explained "come on".
-   > **解析**：本题在单元主题情境中复习表达 come on。
+2. **中文**：让我们在中场休息期间去买些零食和饮料吧。  
+   **英文**：Let's go buy some snacks and drinks during the halftime break (by now).
+   > **解析**：`halftime` 是名词，意为“（体育比赛的）中场休息”。
 
-3. **中文**：我们一起谈到了“i don't buy it”。  
-   **英文**：We talked about "i don't buy it" together.
-   > **解析**：本题在单元主题情境中复习表达 i don't buy it。
+3. **中文**：裁判吹响哨子表示技术犯规。  
+   **英文**：The referee blew his whistle to indicate a technical foul for call.
+   > **解析**：`referee` 是名词，意为“裁判员”。
 
-4. **中文**：我记下了“nonsense”。  
-   **英文**：I wrote down "nonsense".
-   > **解析**：本题在单元主题情境中复习表达 nonsense。
+4. **中文**：开球前在体育场停车场进行车尾派对是球迷的传统。  
+   **英文**：Tailgating in the stadium parking lot before kickoff is a fan tradition (come on).
+   > **解析**：`tailgating` 在体育语境中指“在车尾箱旁露天聚会喝饮品吃烧烤的球迷活动”。
 
-5. **中文**：例句中包含“playoff”。  
-   **英文**：The example included "playoff".
-   > **解析**：本题在单元主题情境中复习表达 playoff。
+5. **中文**：关键在于低区座位的视野清晰得多。  
+   **英文**：The point is that the lower section seats offer much clearer visibility for cooler.
+   > **解析**：`the point is that...` 是阐述关键论点的常用句型。
 
-6. **中文**：我询问了“the idea was that”。  
-   **英文**：I asked about "the idea was that".
-   > **解析**：本题在单元主题情境中复习表达 the idea was that。
+6. **中文**：如果我们不早点到的话，绝不可能买到好票。  
+   **英文**：There's no way we can get good tickets if we don't arrive early for foul.
+   > **解析**：`there's no way (that)...` 是强调“绝对不可能”的口语句型。
 
-7. **中文**：我们在句子中用到了“there's no way”。  
-   **英文**：We used "there's no way" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 there's no way。
+7. **中文**：那只巨大的狮子吉祥物通过在场地上跳舞来逗乐孩子们。  
+   **英文**：The giant lion mascot entertained the kids by dancing on the field for halftime.
+   > **解析**：`mascot` 是名词，意为“吉祥物”。
 
-8. **中文**：朋友重复了“by now”。  
-   **英文**：My friend repeated "by now".
-   > **解析**：本题在单元主题情境中复习表达 by now。
+8. **中文**：冠军季后赛的门票在五分钟内就被售罄了。  
+   **英文**：Tickets for the championship playoff game sold out within five minutes (i don't buy it).
+   > **解析**：`playoff` 是名词，意为“季后赛、决胜赛”。
 
-9. **中文**：后来，我记住了“foul”。  
-   **英文**：Later, I remembered "foul".
-   > **解析**：本题在单元主题情境中复习表达 foul。
+9. **中文**：他说那个座位有人坐了，但我才不信呢。  
+   **英文**：He says the seat is occupied, but I don't buy it.
+   > **解析**：`I don't buy it` 是地道口语，意为“我不相信/我才不买账呢”。
 
-10. **中文**：这个小故事以“jersey”收尾。  
-   **英文**：The short story ended with "jersey".
-   > **解析**：本题在单元主题情境中复习表达 jersey。
+10. **中文**：别忘了带上装满冷饮的冰酷箱。  
+   **英文**：Don't forget to bring the ice cooler filled with cold beverages for jersey.
+   > **解析**：`cooler` 是名词，意为“冰盒、便携冷藏箱”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "bleachers".
-   > **中文**：在这个情境中，我听到了“bleachers”。
-2. My partner explained "come on".
-   > **中文**：同伴解释了“come on”。
-3. We talked about "i don't buy it" together.
-   > **中文**：我们一起谈到了“i don't buy it”。
-4. I wrote down "nonsense".
-   > **中文**：我记下了“nonsense”。
-5. The example included "playoff".
-   > **中文**：例句中包含“playoff”。
-6. I asked about "the idea was that".
-   > **中文**：我询问了“the idea was that”。
-7. We used "there's no way" in a sentence.
-   > **中文**：我们在句子中用到了“there's no way”。
-8. My friend repeated "by now".
-   > **中文**：朋友重复了“by now”。
-9. Later, I remembered "foul".
-   > **中文**：后来，我记住了“foul”。
-10. The short story ended with "jersey".
-   > **中文**：这个小故事以“jersey”收尾。
+1. Sitting in the front row of the bleachers gives you the best view of the game.
+   > **中文**：坐在露天看台的前排能让你拥有观赏比赛的最佳视野。
+
+2. Let's go buy some snacks and drinks during the halftime break (by now).
+   > **中文**：让我们在中场休息期间去买些零食和饮料吧。
+
+3. The referee blew his whistle to indicate a technical foul for call.
+   > **中文**：裁判吹响哨子表示技术犯规。
+
+4. Tailgating in the stadium parking lot before kickoff is a fan tradition (come on).
+   > **中文**：开球前在体育场停车场进行车尾派对是球迷的传统。
+
+5. The point is that the lower section seats offer much clearer visibility for cooler.
+   > **中文**：关键在于低区座位的视野清晰得多。
+
+6. There's no way we can get good tickets if we don't arrive early for foul.
+   > **中文**：如果我们不早点到的话，绝不可能买到好票。
+
+7. The giant lion mascot entertained the kids by dancing on the field for halftime.
+   > **中文**：那只巨大的狮子吉祥物通过在场地上跳舞来逗乐孩子们。
+
+8. Tickets for the championship playoff game sold out within five minutes (i don't buy it).
+   > **中文**：冠军季后赛的门票在五分钟内就被售罄了。
+
+9. He says the seat is occupied, but I don't buy it.
+   > **中文**：他说那个座位有人坐了，但我才不信呢。
+
+10. Don't forget to bring the ice cooler filled with cold beverages for jersey.
+   > **中文**：别忘了带上装满冷饮的冰酷箱。
 
 </quiz-listening>
 
@@ -154,102 +163,102 @@ i don't buy it（我不信）、there's no way（不可能）、nonsense（胡�
 
 ### 1
 
-In this situation, I heard "`____`".
+Sitting in the front row of the `____` gives you the best view of the game.
 
 - [x] bleachers
-- [ ] nonsense
-- [ ] there's no way
+- [ ] come on
+- [ ] halftime
 
-> **解析**：本题在单元主题情境中复习表达 bleachers。
+> **解析**：`bleachers` 是复数名词，意为“（体育场的）露天看台、露天座位”。
 
 ### 2
 
-My partner explained "`____`".
+Let's go buy some snacks and drinks during the halftime break (`____`).
 
-- [x] come on
-- [ ] playoff
-- [ ] by now
+- [x] by now
+- [ ] cooler
+- [ ] i don't buy it
 
-> **解析**：本题在单元主题情境中复习表达 come on。
+> **解析**：`halftime` 是名词，意为“（体育比赛的）中场休息”。
 
 ### 3
 
-We talked about "`____`" together.
+The referee blew his whistle to indicate a technical foul for `____`.
 
-- [x] i don't buy it
-- [ ] the idea was that
+- [x] call
 - [ ] foul
+- [ ] it
 
-> **解析**：本题在单元主题情境中复习表达 i don't buy it。
+> **解析**：`referee` 是名词，意为“裁判员”。
 
 ### 4
 
-I wrote down "`____`".
+Tailgating in the stadium parking lot before kickoff is a fan tradition (`____`).
 
-- [x] nonsense
-- [ ] there's no way
+- [x] come on
+- [ ] halftime
 - [ ] jersey
 
-> **解析**：本题在单元主题情境中复习表达 nonsense。
+> **解析**：`tailgating` 在体育语境中指“在车尾箱旁露天聚会喝饮品吃烧烤的球迷活动”。
 
 ### 5
 
-The example included "`____`".
+The point is that the lower section seats offer much clearer visibility for `____`.
 
-- [x] playoff
-- [ ] by now
+- [x] cooler
+- [ ] i don't buy it
 - [ ] bleachers
 
-> **解析**：本题在单元主题情境中复习表达 playoff。
+> **解析**：`the point is that...` 是阐述关键论点的常用句型。
 
 ### 6
 
-I asked about "`____`".
+There's no way we can get good tickets if we don't arrive early for `____`.
 
-- [x] the idea was that
-- [ ] foul
-- [ ] come on
+- [x] foul
+- [ ] it
+- [ ] by now
 
-> **解析**：本题在单元主题情境中复习表达 the idea was that。
+> **解析**：`there's no way (that)...` 是强调“绝对不可能”的口语句型。
 
 ### 7
 
-We used "`____`" in a sentence.
+The giant lion mascot entertained the kids by dancing on the field for `____`.
 
-- [x] there's no way
+- [x] halftime
 - [ ] jersey
-- [ ] i don't buy it
+- [ ] call
 
-> **解析**：本题在单元主题情境中复习表达 there's no way。
+> **解析**：`mascot` 是名词，意为“吉祥物”。
 
 ### 8
 
-My friend repeated "`____`".
+Tickets for the championship playoff game sold out within five minutes (`____`).
 
-- [x] by now
+- [x] i don't buy it
 - [ ] bleachers
-- [ ] nonsense
+- [ ] come on
 
-> **解析**：本题在单元主题情境中复习表达 by now。
+> **解析**：`playoff` 是名词，意为“季后赛、决胜赛”。
 
 ### 9
 
-Later, I remembered "`____`".
+He says the seat is occupied, but I don't buy `____`.
 
-- [x] foul
-- [ ] come on
-- [ ] playoff
+- [x] it
+- [ ] by now
+- [ ] cooler
 
-> **解析**：本题在单元主题情境中复习表达 foul。
+> **解析**：`I don't buy it` 是地道口语，意为“我不相信/我才不买账呢”。
 
 ### 10
 
-The short story ended with "`____`".
+Don't forget to bring the ice cooler filled with cold beverages for `____`.
 
 - [x] jersey
-- [ ] i don't buy it
-- [ ] the idea was that
+- [ ] call
+- [ ] foul
 
-> **解析**：本题在单元主题情境中复习表达 jersey。
+> **解析**：`cooler` 是名词，意为“冰盒、便携冷藏箱”。
 
 </quiz-cloze>

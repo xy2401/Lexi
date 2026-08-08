@@ -59,70 +59,79 @@ a hand, admittedly, all over again, brick, by far, can't get over, can't take, c
 
 <quiz-sentence-builder>
 
-1. **中文**：在家里，我们谈到了“a hand”。  
-   **英文**：At home, we talked about "a hand".
-   > **解析**：本题在单元主题情境中复习表达 a hand。
+1. **中文**：你能帮我伸手搭把手，把这个沉重的暖气片抬到走廊里吗？  
+   **英文**：Could you give me a hand with lifting this heavy radiator into the hallway?
+   > **解析**：`give sb. a hand` 为常用口语短语，意为“给某人帮个忙/搭把手”。
 
-2. **中文**：家人提到了“by far”。  
-   **英文**：My family mentioned "by far".
-   > **解析**：本题在单元主题情境中复习表达 by far。
+2. **中文**：屋顶漏水是目前为止这栋老房子最严重的结构问题。  
+   **英文**：Leaking in the roof is by far the most serious structural issue with this old house for admittedly.
+   > **解析**：`by far` 强调程度副词短语，意为“迄今为止；显然”，修饰最高级 `the most serious`。
 
-3. **中文**：在房间里，我注意到了“clogged”。  
-   **英文**：In the room, I noticed "clogged".
-   > **解析**：本题在单元主题情境中复习表达 clogged。
+3. **中文**：厨房水槽被油脂和食物残渣彻底堵塞了。  
+   **英文**：The kitchen sink became completely clogged with grease and food residues (all over again).
+   > **解析**：`clogged` 形容词/过去分词，意为“堵塞的；阻塞的”。搭配 `clogged with...`。
 
-4. **中文**：我们在家里用到了“crack”。  
-   **英文**：We used "crack" at home.
-   > **解析**：本题在单元主题情境中复习表达 crack。
+4. **中文**：大雨过后，我们注意到一条细小的裂缝沿着地下室墙壁蔓延。  
+   **英文**：We noticed a thin crack spreading along the basement wall after the heavy rain for brick.
+   > **解析**：`crack` 可数名词，意为“裂缝；裂纹”。
 
-5. **中文**：邻居询问了“investment”。  
-   **英文**：My neighbor asked about "investment".
-   > **解析**：本题在单元主题情境中复习表达 investment。
+5. **中文**：修理老旧屋顶对于这处房产来说是一笔昂贵但必要的投资。  
+   **英文**：Fixing the old roof was an expensive but necessary investment for the property (by far).
+   > **解析**：`investment` 可数/不可数名词，意为“投资；投入”。
 
-6. **中文**：我在门边写下了“measure”。  
-   **英文**：I wrote down "measure" by the door.
-   > **解析**：本题在单元主题情境中复习表达 measure。
+6. **中文**：在购买新窗帘之前，一定要测量好窗户的准确尺寸。  
+   **英文**：Before buying new curtains, be sure to measure the exact window dimensions (can't get over).
+   > **解析**：`measure` 及物动词，意为“测量；度量”。
 
-7. **中文**：晚饭后，我们重复了“plumbing”。  
-   **英文**：After dinner, we repeated "plumbing".
-   > **解析**：本题在单元主题情境中复习表达 plumbing。
+7. **中文**：一位有经验的电工修理了线路，但我们仍然需要一名专家来修理水管管道系统。  
+   **英文**：An experienced electrician fixed the wiring, but we still need a specialist for the plumbing (can't take).
+   > **解析**：`plumbing` 不可数名词，意为“水管管道系统；管道工活”。
 
-8. **中文**：家庭故事里包含“admittedly”。  
-   **英文**：The family story included "admittedly".
-   > **解析**：本题在单元主题情境中复习表达 admittedly。
+8. **中文**：无可否认/诚然，修复这座维多利亚风格的别墅需要大量的时间和精力。  
+   **英文**：Admittedly, restoring this Victorian villa requires a substantial amount of time and effort for clogged.
+   > **解析**：`admittedly` 副词作句首状语，意为“无可否认地；诚然”，用于承认某种不便或不利的事实。
 
-9. **中文**：睡前，我记住了“can't get over”。  
-   **英文**：Before bed, I remembered "can't get over".
-   > **解析**：本题在单元主题情境中复习表达 can't get over。
+9. **中文**：我对我们通过自己给室内房间刷漆节省了这么多钱感到难以置信/惊喜万分。  
+   **英文**：I can't get over how much money we saved by painting the interior rooms ourselves for collapse.
+   > **解析**：`can't get over sth.` 习惯表达，意为“对某事感到难以置信；对某事极为惊讶/感叹”。
 
-10. **中文**：那个夜晚以“concerning”收尾。  
-   **英文**：That evening ended with "concerning".
-   > **解析**：本题在单元主题情境中复习表达 concerning。
+10. **中文**：工程师在房屋地基中发现了几处令人担忧的水损害迹象。  
+   **英文**：The engineer found several concerning signs of water damage in the foundation.
+   > **解析**：`concerning` 形容词，意为“令人担忧的；引起关切的”。修饰 `signs`。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At home, we talked about "a hand".
-   > **中文**：在家里，我们谈到了“a hand”。
-2. My family mentioned "by far".
-   > **中文**：家人提到了“by far”。
-3. In the room, I noticed "clogged".
-   > **中文**：在房间里，我注意到了“clogged”。
-4. We used "crack" at home.
-   > **中文**：我们在家里用到了“crack”。
-5. My neighbor asked about "investment".
-   > **中文**：邻居询问了“investment”。
-6. I wrote down "measure" by the door.
-   > **中文**：我在门边写下了“measure”。
-7. After dinner, we repeated "plumbing".
-   > **中文**：晚饭后，我们重复了“plumbing”。
-8. The family story included "admittedly".
-   > **中文**：家庭故事里包含“admittedly”。
-9. Before bed, I remembered "can't get over".
-   > **中文**：睡前，我记住了“can't get over”。
-10. That evening ended with "concerning".
-   > **中文**：那个夜晚以“concerning”收尾。
+1. Could you give me a hand with lifting this heavy radiator into the hallway?
+   > **中文**：你能帮我伸手搭把手，把这个沉重的暖气片抬到走廊里吗？
+
+2. Leaking in the roof is by far the most serious structural issue with this old house for admittedly.
+   > **中文**：屋顶漏水是目前为止这栋老房子最严重的结构问题。
+
+3. The kitchen sink became completely clogged with grease and food residues (all over again).
+   > **中文**：厨房水槽被油脂和食物残渣彻底堵塞了。
+
+4. We noticed a thin crack spreading along the basement wall after the heavy rain for brick.
+   > **中文**：大雨过后，我们注意到一条细小的裂缝沿着地下室墙壁蔓延。
+
+5. Fixing the old roof was an expensive but necessary investment for the property (by far).
+   > **中文**：修理老旧屋顶对于这处房产来说是一笔昂贵但必要的投资。
+
+6. Before buying new curtains, be sure to measure the exact window dimensions (can't get over).
+   > **中文**：在购买新窗帘之前，一定要测量好窗户的准确尺寸。
+
+7. An experienced electrician fixed the wiring, but we still need a specialist for the plumbing (can't take).
+   > **中文**：一位有经验的电工修理了线路，但我们仍然需要一名专家来修理水管管道系统。
+
+8. Admittedly, restoring this Victorian villa requires a substantial amount of time and effort for clogged.
+   > **中文**：无可否认/诚然，修复这座维多利亚风格的别墅需要大量的时间和精力。
+
+9. I can't get over how much money we saved by painting the interior rooms ourselves for collapse.
+   > **中文**：我对我们通过自己给室内房间刷漆节省了这么多钱感到难以置信/惊喜万分。
+
+10. The engineer found several concerning signs of water damage in the foundation.
+   > **中文**：工程师在房屋地基中发现了几处令人担忧的水损害迹象。
 
 </quiz-listening>
 
@@ -134,102 +143,102 @@ a hand, admittedly, all over again, brick, by far, can't get over, can't take, c
 
 ### 1
 
-At home, we talked about "`____`".
+Could you give me `____` with lifting this heavy radiator into the hallway?
 
 - [x] a hand
-- [ ] crack
-- [ ] plumbing
+- [ ] brick
+- [ ] can't take
 
-> **解析**：本题在单元主题情境中复习表达 a hand。
+> **解析**：`give sb. a hand` 为常用口语短语，意为“给某人帮个忙/搭把手”。
 
 ### 2
 
-My family mentioned "`____`".
+Leaking in the roof is by far the most serious structural issue with this old house for `____`.
 
-- [x] by far
-- [ ] investment
-- [ ] admittedly
+- [x] admittedly
+- [ ] by far
+- [ ] clogged
 
-> **解析**：本题在单元主题情境中复习表达 by far。
+> **解析**：`by far` 强调程度副词短语，意为“迄今为止；显然”，修饰最高级 `the most serious`。
 
 ### 3
 
-In the room, I noticed "`____`".
+The kitchen sink became completely clogged with grease and food residues (`____`).
 
-- [x] clogged
-- [ ] measure
+- [x] all over again
 - [ ] can't get over
+- [ ] collapse
 
-> **解析**：本题在单元主题情境中复习表达 clogged。
+> **解析**：`clogged` 形容词/过去分词，意为“堵塞的；阻塞的”。搭配 `clogged with...`。
 
 ### 4
 
-We used "`____`" at home.
+We noticed a thin crack spreading along the basement wall after the heavy rain for `____`.
 
-- [x] crack
-- [ ] plumbing
+- [x] brick
+- [ ] can't take
 - [ ] concerning
 
-> **解析**：本题在单元主题情境中复习表达 crack。
+> **解析**：`crack` 可数名词，意为“裂缝；裂纹”。
 
 ### 5
 
-My neighbor asked about "`____`".
+Fixing the old roof was an expensive but necessary investment for the property (`____`).
 
-- [x] investment
-- [ ] admittedly
+- [x] by far
+- [ ] clogged
 - [ ] a hand
 
-> **解析**：本题在单元主题情境中复习表达 investment。
+> **解析**：`investment` 可数/不可数名词，意为“投资；投入”。
 
 ### 6
 
-I wrote down "`____`" by the door.
+Before buying new curtains, be sure to measure the exact window dimensions (`____`).
 
-- [x] measure
-- [ ] can't get over
-- [ ] by far
+- [x] can't get over
+- [ ] collapse
+- [ ] admittedly
 
-> **解析**：本题在单元主题情境中复习表达 measure。
+> **解析**：`measure` 及物动词，意为“测量；度量”。
 
 ### 7
 
-After dinner, we repeated "`____`".
+An experienced electrician fixed the wiring, but we still need a specialist for the plumbing (`____`).
 
-- [x] plumbing
+- [x] can't take
 - [ ] concerning
-- [ ] clogged
+- [ ] all over again
 
-> **解析**：本题在单元主题情境中复习表达 plumbing。
+> **解析**：`plumbing` 不可数名词，意为“水管管道系统；管道工活”。
 
 ### 8
 
-The family story included "`____`".
+Admittedly, restoring this Victorian villa requires a substantial amount of time and effort for `____`.
 
-- [x] admittedly
+- [x] clogged
 - [ ] a hand
-- [ ] crack
+- [ ] brick
 
-> **解析**：本题在单元主题情境中复习表达 admittedly。
+> **解析**：`admittedly` 副词作句首状语，意为“无可否认地；诚然”，用于承认某种不便或不利的事实。
 
 ### 9
 
-Before bed, I remembered "`____`".
+I can't get over how much money we saved by painting the interior rooms ourselves for `____`.
 
-- [x] can't get over
+- [x] collapse
+- [ ] admittedly
 - [ ] by far
-- [ ] investment
 
-> **解析**：本题在单元主题情境中复习表达 can't get over。
+> **解析**：`can't get over sth.` 习惯表达，意为“对某事感到难以置信；对某事极为惊讶/感叹”。
 
 ### 10
 
-That evening ended with "`____`".
+The engineer found several `____` signs of water damage in the foundation.
 
 - [x] concerning
-- [ ] clogged
-- [ ] measure
+- [ ] all over again
+- [ ] can't get over
 
-> **解析**：本题在单元主题情境中复习表达 concerning。
+> **解析**：`concerning` 形容词，意为“令人担忧的；引起关切的”。修饰 `signs`。
 
 </quiz-cloze>

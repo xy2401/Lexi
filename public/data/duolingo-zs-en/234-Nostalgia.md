@@ -63,70 +63,79 @@ back, camp, clearly, get, hit it off, homesick, irresponsible, junk food, long-d
 
 <quiz-sentence-builder>
 
-1. **中文**：在餐厅里，我询问了“back”。  
-   **英文**：At the restaurant, I asked about "back".
-   > **解析**：本题在单元主题情境中复习表达 back。
+1. **中文**：回顾老相册总是能带回温暖的童年回忆。  
+   **英文**：Looking back at old photograph albums always brings back warm childhood memories.
+   > **解析**：`back` 副词，在短语 `look back at / bring back` 中表示“向后；勾起回忆”。
 
-2. **中文**：菜单上有“hit it off”。  
-   **英文**：The menu included "hit it off".
-   > **解析**：本题在单元主题情境中复习表达 hit it off。
+2. **中文**：当我们在夏令营第一次见面时，我们立刻一见如故/合得来，成为了最好的朋友。  
+   **英文**：When we first met at summer camp, we immediately hit it off and became best friends.
+   > **解析**：`hit it off` 习惯动词短语，意为“一见如故；投缘；合得来”。
 
-3. **中文**：在餐桌旁，我们谈到了“junk food”。  
-   **英文**：At the table, we talked about "junk food".
-   > **解析**：本题在单元主题情境中复习表达 junk food。
+3. **中文**：我们以前常常在暑假里熬夜吃垃圾食品、看电影。  
+   **英文**：We used to stay up late eating junk food and watching movies during summer breaks for clearly.
+   > **解析**：`junk food` 不可数名词短语，指“垃圾食品；无营养食品”。
 
-4. **中文**：厨师提到了“memorable”。  
-   **英文**：The cook mentioned "memorable".
-   > **解析**：本题在单元主题情境中复习表达 memorable。
+4. **中文**：我们全家的海滨小镇之旅是我年轻时最难忘的经历之一。  
+   **英文**：Our family trip to the coastal village was one of the most memorable experiences of my youth for get.
+   > **解析**：`memorable` 形容词，意为“难忘的；值得纪念的”。
 
-5. **中文**：晚餐我点了“parade”。  
-   **英文**：I ordered "parade" for dinner.
-   > **解析**：本题在单元主题情境中复习表达 parade。
+5. **中文**：每年国庆节，全镇人都聚集在主街观看游行。  
+   **英文**：Every year on National Day, the whole town gathered on Main Street to watch the parade (hit it off).
+   > **解析**：`parade` 可数名词，意为“游行；检阅”。常用搭配 `watch a parade`。
 
-6. **中文**：我的朋友选择了“sneak out”。  
-   **英文**：My friend chose "sneak out".
-   > **解析**：本题在单元主题情境中复习表达 sneak out。
+6. **中文**：十几岁时，我们过去常在半夜偷溜出房间去看星星。  
+   **英文**：As teenagers, we used to sneak out of the house to watch the stars at midnight for homesick.
+   > **解析**：`sneak out` 不及物动词短语，意为“偷偷溜出去”。搭配 `sneak out of + 场所`。
 
-7. **中文**：服务员重复了“trick”。  
-   **英文**：The waiter repeated "trick".
-   > **解析**：本题在单元主题情境中复习表达 trick。
+7. **中文**：我爷爷教过我如何用扑克牌表演一个简单的魔术技巧。  
+   **英文**：My grandfather taught me how to perform a simple magic trick with playing cards for irresponsible.
+   > **解析**：`trick` 可数名词，意为“戏法；技巧；恶作剧”。`magic trick`（魔术戏法）。
 
-8. **中文**：我们分享了一个关于“camp”的故事。  
-   **英文**：We shared a story about "camp".
-   > **解析**：本题在单元主题情境中复习表达 camp。
+8. **中文**：我对夏令营里围坐在篝火旁唱歌有着美好的回忆。  
+   **英文**：I have fond memories of sitting around the campfire at summer camp singing songs (junk food).
+   > **解析**：`camp` 可数/不可数名词，在此处指“露营地；夏令营（summer camp）”。
 
-9. **中文**：饭后，我记住了“homesick”。  
-   **英文**：After the meal, I remembered "homesick".
-   > **解析**：本题在单元主题情境中复习表达 homesick。
+9. **中文**：当我第一次去寄宿学校时，头一个月我感到非常想家。  
+   **英文**：When I first went away to boarding school, I felt extremely homesick for the first month for long-distance.
+   > **解析**：`homesick` 形容词，意为“思乡的；想家的”。常用搭配 `feel homesick`。
 
-10. **中文**：那顿饭以“lose touch”收尾。  
-   **英文**：That meal ended with "lose touch".
-   > **解析**：本题在单元主题情境中复习表达 lose touch。
+10. **中文**：毕业后，与高中的熟人逐渐失去联系是很常见的。  
+   **英文**：After graduation, it is easy to gradually lose touch with high school acquaintances.
+   > **解析**：`lose touch` 动词短语，意为“失去联系”。搭配 `lose touch with sb.`。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the restaurant, I asked about "back".
-   > **中文**：在餐厅里，我询问了“back”。
-2. The menu included "hit it off".
-   > **中文**：菜单上有“hit it off”。
-3. At the table, we talked about "junk food".
-   > **中文**：在餐桌旁，我们谈到了“junk food”。
-4. The cook mentioned "memorable".
-   > **中文**：厨师提到了“memorable”。
-5. I ordered "parade" for dinner.
-   > **中文**：晚餐我点了“parade”。
-6. My friend chose "sneak out".
-   > **中文**：我的朋友选择了“sneak out”。
-7. The waiter repeated "trick".
-   > **中文**：服务员重复了“trick”。
-8. We shared a story about "camp".
-   > **中文**：我们分享了一个关于“camp”的故事。
-9. After the meal, I remembered "homesick".
-   > **中文**：饭后，我记住了“homesick”。
-10. That meal ended with "lose touch".
-   > **中文**：那顿饭以“lose touch”收尾。
+1. Looking back at old photograph albums always brings back warm childhood memories.
+   > **中文**：回顾老相册总是能带回温暖的童年回忆。
+
+2. When we first met at summer camp, we immediately hit it off and became best friends.
+   > **中文**：当我们在夏令营第一次见面时，我们立刻一见如故/合得来，成为了最好的朋友。
+
+3. We used to stay up late eating junk food and watching movies during summer breaks for clearly.
+   > **中文**：我们以前常常在暑假里熬夜吃垃圾食品、看电影。
+
+4. Our family trip to the coastal village was one of the most memorable experiences of my youth for get.
+   > **中文**：我们全家的海滨小镇之旅是我年轻时最难忘的经历之一。
+
+5. Every year on National Day, the whole town gathered on Main Street to watch the parade (hit it off).
+   > **中文**：每年国庆节，全镇人都聚集在主街观看游行。
+
+6. As teenagers, we used to sneak out of the house to watch the stars at midnight for homesick.
+   > **中文**：十几岁时，我们过去常在半夜偷溜出房间去看星星。
+
+7. My grandfather taught me how to perform a simple magic trick with playing cards for irresponsible.
+   > **中文**：我爷爷教过我如何用扑克牌表演一个简单的魔术技巧。
+
+8. I have fond memories of sitting around the campfire at summer camp singing songs (junk food).
+   > **中文**：我对夏令营里围坐在篝火旁唱歌有着美好的回忆。
+
+9. When I first went away to boarding school, I felt extremely homesick for the first month for long-distance.
+   > **中文**：当我第一次去寄宿学校时，头一个月我感到非常想家。
+
+10. After graduation, it is easy to gradually lose touch with high school acquaintances.
+   > **中文**：毕业后，与高中的熟人逐渐失去联系是很常见的。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ back, camp, clearly, get, hit it off, homesick, irresponsible, junk food, long-d
 
 ### 1
 
-At the restaurant, I asked about "`____`".
+Looking `____` at old photograph albums always brings back warm childhood memories.
 
 - [x] back
-- [ ] memorable
-- [ ] trick
+- [ ] get
+- [ ] irresponsible
 
-> **解析**：本题在单元主题情境中复习表达 back。
+> **解析**：`back` 副词，在短语 `look back at / bring back` 中表示“向后；勾起回忆”。
 
 ### 2
 
-The menu included "`____`".
+When we first met at summer `____`, we immediately hit it off and became best friends.
 
-- [x] hit it off
-- [ ] parade
-- [ ] camp
+- [x] camp
+- [ ] hit it off
+- [ ] junk food
 
-> **解析**：本题在单元主题情境中复习表达 hit it off。
+> **解析**：`hit it off` 习惯动词短语，意为“一见如故；投缘；合得来”。
 
 ### 3
 
-At the table, we talked about "`____`".
+We used to stay up late eating junk food and watching movies during summer breaks for `____`.
 
-- [x] junk food
-- [ ] sneak out
+- [x] clearly
 - [ ] homesick
+- [ ] long-distance
 
-> **解析**：本题在单元主题情境中复习表达 junk food。
+> **解析**：`junk food` 不可数名词短语，指“垃圾食品；无营养食品”。
 
 ### 4
 
-The cook mentioned "`____`".
+Our family trip to the coastal village was one of the most memorable experiences of my youth for `____`.
 
-- [x] memorable
-- [ ] trick
+- [x] get
+- [ ] irresponsible
 - [ ] lose touch
 
-> **解析**：本题在单元主题情境中复习表达 memorable。
+> **解析**：`memorable` 形容词，意为“难忘的；值得纪念的”。
 
 ### 5
 
-I ordered "`____`" for dinner.
+Every year on National Day, the whole town gathered on Main Street to watch the parade (`____`).
 
-- [x] parade
-- [ ] camp
+- [x] hit it off
+- [ ] junk food
 - [ ] back
 
-> **解析**：本题在单元主题情境中复习表达 parade。
+> **解析**：`parade` 可数名词，意为“游行；检阅”。常用搭配 `watch a parade`。
 
 ### 6
 
-My friend chose "`____`".
+As teenagers, we used to sneak out of the house to watch the stars at midnight for `____`.
 
-- [x] sneak out
-- [ ] homesick
-- [ ] hit it off
+- [x] homesick
+- [ ] long-distance
+- [ ] camp
 
-> **解析**：本题在单元主题情境中复习表达 sneak out。
+> **解析**：`sneak out` 不及物动词短语，意为“偷偷溜出去”。搭配 `sneak out of + 场所`。
 
 ### 7
 
-The waiter repeated "`____`".
+My grandfather taught me how to perform a simple magic trick with playing cards for `____`.
 
-- [x] trick
+- [x] irresponsible
 - [ ] lose touch
-- [ ] junk food
+- [ ] clearly
 
-> **解析**：本题在单元主题情境中复习表达 trick。
+> **解析**：`trick` 可数名词，意为“戏法；技巧；恶作剧”。`magic trick`（魔术戏法）。
 
 ### 8
 
-We shared a story about "`____`".
+I have fond memories of sitting around the campfire at summer camp singing songs (`____`).
 
-- [x] camp
+- [x] junk food
 - [ ] back
-- [ ] memorable
+- [ ] get
 
-> **解析**：本题在单元主题情境中复习表达 camp。
+> **解析**：`camp` 可数/不可数名词，在此处指“露营地；夏令营（summer camp）”。
 
 ### 9
 
-After the meal, I remembered "`____`".
+When I first went away to boarding school, I felt extremely homesick for the first month for `____`.
 
-- [x] homesick
+- [x] long-distance
+- [ ] camp
 - [ ] hit it off
-- [ ] parade
 
-> **解析**：本题在单元主题情境中复习表达 homesick。
+> **解析**：`homesick` 形容词，意为“思乡的；想家的”。常用搭配 `feel homesick`。
 
 ### 10
 
-That meal ended with "`____`".
+After graduation, it is easy to gradually `____` with high school acquaintances.
 
 - [x] lose touch
-- [ ] junk food
-- [ ] sneak out
+- [ ] clearly
+- [ ] homesick
 
-> **解析**：本题在单元主题情境中复习表达 lose touch。
+> **解析**：`lose touch` 动词短语，意为“失去联系”。搭配 `lose touch with sb.`。
 
 </quiz-cloze>

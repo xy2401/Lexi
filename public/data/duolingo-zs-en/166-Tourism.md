@@ -61,70 +61,79 @@ will / won't 表将来/意愿。wherever = no matter where。
 
 <quiz-sentence-builder>
 
-1. **中文**：谈论喜好时，我听到了“board”。  
-   **英文**：When we talked about favorites, I heard "board".
-   > **解析**：本题在单元主题情境中复习表达 board。
+1. **中文**：乘客在登上游轮前应出示护照。  
+   **英文**：Passengers should present their passports before they board the cruise ship.
+   > **解析**：board 为及物动词，意为“登上（船/飞机/车）”。board the ship/plane 表示登船/登机。
 
-2. **中文**：朋友说“currency exchange”很重要。  
-   **英文**：My friend said "currency exchange" was important.
-   > **解析**：本题在单元主题情境中复习表达 currency exchange。
+2. **中文**：你可以在机场到达大厅旁边找到外币兑换处。  
+   **英文**：You can find a currency exchange office right next to the airport arrival hall for book.
+   > **解析**：currency exchange 为名词短语，指“外币兑换”。currency exchange office 指货币兑换处。
 
-3. **中文**：我问他们喜欢哪一个：“ferry”。  
-   **英文**：I asked which one they liked: "ferry".
-   > **解析**：本题在单元主题情境中复习表达 ferry。
+3. **中文**：我们乘坐了风景优美的摆渡船穿过港口前往小岛。  
+   **英文**：We took a scenic ferry ride across the harbor to reach the island for cruise.
+   > **解析**：ferry 为可数名词，意为“渡船、摆渡车”。ferry ride 指乘渡船出行。
 
-4. **中文**：聊天时，我们比较了“hitchhike”。  
-   **英文**：In our chat, we compared "hitchhike".
-   > **解析**：本题在单元主题情境中复习表达 hitchhike。
+4. **中文**：在他的大学时代，他更喜欢搭顺风车游览欧洲。  
+   **英文**：Back in his college days, he preferred to hitchhike across Europe (currency exchange).
+   > **解析**：hitchhike 为不及物动词，意为“搭顺风车旅行”。
 
-5. **中文**：同伴先选择了“luxury”。  
-   **英文**：My partner chose "luxury" first.
-   > **解析**：本题在单元主题情境中复习表达 luxury。
+5. **中文**：他们在海滩边的一家五星级奢华酒店度过了蜜月。  
+   **英文**：They spent their honeymoon staying at a five-star luxury hotel by the beach for depart.
+   > **解析**：luxury 在此处作定语，意为“奢华的、豪华的”（luxury hotel 奢华酒店）。
 
-6. **中文**：我们用“ride”描述喜好。  
-   **英文**：We used "ride" to describe a favorite.
-   > **解析**：本题在单元主题情境中复习表达 ride。
+6. **中文**：沿着海岸小径骑自行车骑行是一项极好的观光活动。  
+   **英文**：Enjoying a bike ride along the coastal path is a wonderful tourist activity for direct.
+   > **解析**：ride 在此处作名词，意为“骑行、乘坐”。bike ride 即骑自行车。
 
-7. **中文**：答案中包含“will”。  
-   **英文**：The answer included "will".
-   > **解析**：本题在单元主题情境中复习表达 will。
+7. **中文**：导游将在游览过程中讲解这座古堡的历史。  
+   **英文**：The tour guide will explain the history of the ancient castle during the tour for explore.
+   > **解析**：will 为情态动词，用于构成一般将来时（will explain），表达计划或必然发生的动作。
 
-8. **中文**：我从对话中记住了“book”。  
-   **英文**：I remembered "book" from the conversation.
-   > **解析**：本题在单元主题情境中复习表达 book。
+8. **中文**：建议在旅游旺季提前预约预订火车票。  
+   **英文**：It is advisable to book your train tickets well in advance during peak season for ferry.
+   > **解析**：book 为及物动词，意为“预订、订购”。常用搭配 book tickets / book a room。
 
-9. **中文**：朋友微笑着重复了“direct”。  
-   **英文**：My friend repeated "direct" with a smile.
-   > **解析**：本题在单元主题情境中复习表达 direct。
+9. **中文**：有从伦敦直飞东京且没有任何中途停留的直达航班吗？  
+   **英文**：Is there a direct flight from London to Tokyo without any layovers? for get.
+   > **解析**：direct 在此处作形容词，意为“直达的、不中转的”。direct flight 即直飞航班。
 
-10. **中文**：那场关于喜好的聊天以“get”收尾。  
-   **英文**：That chat about favorites ended with "get".
-   > **解析**：本题在单元主题情境中复习表达 get。
+10. **中文**：从车站到历史悠久的市中心需要花费我们多长时间？  
+   **英文**：How long will it take us to get to the historic city center from the station? (go backpacking).
+   > **解析**：get 短语 get to 意为“到达某地”，常用于询问交通抵达时间（get to a place）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. When we talked about favorites, I heard "board".
-   > **中文**：谈论喜好时，我听到了“board”。
-2. My friend said "currency exchange" was important.
-   > **中文**：朋友说“currency exchange”很重要。
-3. I asked which one they liked: "ferry".
-   > **中文**：我问他们喜欢哪一个：“ferry”。
-4. In our chat, we compared "hitchhike".
-   > **中文**：聊天时，我们比较了“hitchhike”。
-5. My partner chose "luxury" first.
-   > **中文**：同伴先选择了“luxury”。
-6. We used "ride" to describe a favorite.
-   > **中文**：我们用“ride”描述喜好。
-7. The answer included "will".
-   > **中文**：答案中包含“will”。
-8. I remembered "book" from the conversation.
-   > **中文**：我从对话中记住了“book”。
-9. My friend repeated "direct" with a smile.
-   > **中文**：朋友微笑着重复了“direct”。
-10. That chat about favorites ended with "get".
-   > **中文**：那场关于喜好的聊天以“get”收尾。
+1. Passengers should present their passports before they board the cruise ship.
+   > **中文**：乘客在登上游轮前应出示护照。
+
+2. You can find a currency exchange office right next to the airport arrival hall for book.
+   > **中文**：你可以在机场到达大厅旁边找到外币兑换处。
+
+3. We took a scenic ferry ride across the harbor to reach the island for cruise.
+   > **中文**：我们乘坐了风景优美的摆渡船穿过港口前往小岛。
+
+4. Back in his college days, he preferred to hitchhike across Europe (currency exchange).
+   > **中文**：在他的大学时代，他更喜欢搭顺风车游览欧洲。
+
+5. They spent their honeymoon staying at a five-star luxury hotel by the beach for depart.
+   > **中文**：他们在海滩边的一家五星级奢华酒店度过了蜜月。
+
+6. Enjoying a bike ride along the coastal path is a wonderful tourist activity for direct.
+   > **中文**：沿着海岸小径骑自行车骑行是一项极好的观光活动。
+
+7. The tour guide will explain the history of the ancient castle during the tour for explore.
+   > **中文**：导游将在游览过程中讲解这座古堡的历史。
+
+8. It is advisable to book your train tickets well in advance during peak season for ferry.
+   > **中文**：建议在旅游旺季提前预约预订火车票。
+
+9. Is there a direct flight from London to Tokyo without any layovers? for get.
+   > **中文**：有从伦敦直飞东京且没有任何中途停留的直达航班吗？
+
+10. How long will it take us to get to the historic city center from the station? (go backpacking).
+   > **中文**：从车站到历史悠久的市中心需要花费我们多长时间？
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ will / won't 表将来/意愿。wherever = no matter where。
 
 ### 1
 
-When we talked about favorites, I heard "`____`".
+Passengers should present their passports before they `____` the cruise ship.
 
 - [x] board
-- [ ] hitchhike
-- [ ] will
+- [ ] currency exchange
+- [ ] explore
 
-> **解析**：本题在单元主题情境中复习表达 board。
+> **解析**：board 为及物动词，意为“登上（船/飞机/车）”。board the ship/plane 表示登船/登机。
 
 ### 2
 
-My friend said "`____`" was important.
+You can find a currency exchange office right next to the airport arrival hall for `____`.
 
-- [x] currency exchange
-- [ ] luxury
-- [ ] book
+- [x] book
+- [ ] depart
+- [ ] ferry
 
-> **解析**：本题在单元主题情境中复习表达 currency exchange。
+> **解析**：currency exchange 为名词短语，指“外币兑换”。currency exchange office 指货币兑换处。
 
 ### 3
 
-I asked which one they liked: "`____`".
+We took a scenic ferry ride across the harbor to reach the island for `____`.
 
-- [x] ferry
-- [ ] ride
+- [x] cruise
 - [ ] direct
+- [ ] get
 
-> **解析**：本题在单元主题情境中复习表达 ferry。
+> **解析**：ferry 为可数名词，意为“渡船、摆渡车”。ferry ride 指乘渡船出行。
 
 ### 4
 
-In our chat, we compared "`____`".
+Back in his college days, he preferred to hitchhike across Europe (`____`).
 
-- [x] hitchhike
-- [ ] will
-- [ ] get
+- [x] currency exchange
+- [ ] explore
+- [ ] go backpacking
 
-> **解析**：本题在单元主题情境中复习表达 hitchhike。
+> **解析**：hitchhike 为不及物动词，意为“搭顺风车旅行”。
 
 ### 5
 
-My partner chose "`____`" first.
+They spent their honeymoon staying at a five-star luxury hotel by the beach for `____`.
 
-- [x] luxury
-- [ ] book
+- [x] depart
+- [ ] ferry
 - [ ] board
 
-> **解析**：本题在单元主题情境中复习表达 luxury。
+> **解析**：luxury 在此处作定语，意为“奢华的、豪华的”（luxury hotel 奢华酒店）。
 
 ### 6
 
-We used "`____`" to describe a favorite.
+Enjoying a bike ride along the coastal path is a wonderful tourist activity for `____`.
 
-- [x] ride
-- [ ] direct
-- [ ] currency exchange
+- [x] direct
+- [ ] get
+- [ ] book
 
-> **解析**：本题在单元主题情境中复习表达 ride。
+> **解析**：ride 在此处作名词，意为“骑行、乘坐”。bike ride 即骑自行车。
 
 ### 7
 
-The answer included "`____`".
+The tour guide will explain the history of the ancient castle during the tour for `____`.
 
-- [x] will
-- [ ] get
-- [ ] ferry
+- [x] explore
+- [ ] go backpacking
+- [ ] cruise
 
-> **解析**：本题在单元主题情境中复习表达 will。
+> **解析**：will 为情态动词，用于构成一般将来时（will explain），表达计划或必然发生的动作。
 
 ### 8
 
-I remembered "`____`" from the conversation.
+It is advisable to book your train tickets well in advance during peak season for `____`.
 
-- [x] book
+- [x] ferry
 - [ ] board
-- [ ] hitchhike
+- [ ] currency exchange
 
-> **解析**：本题在单元主题情境中复习表达 book。
+> **解析**：book 为及物动词，意为“预订、订购”。常用搭配 book tickets / book a room。
 
 ### 9
 
-My friend repeated "`____`" with a smile.
+Is there a direct flight from London to Tokyo without any layovers? for `____`.
 
-- [x] direct
-- [ ] currency exchange
-- [ ] luxury
+- [x] get
+- [ ] book
+- [ ] depart
 
-> **解析**：本题在单元主题情境中复习表达 direct。
+> **解析**：direct 在此处作形容词，意为“直达的、不中转的”。direct flight 即直飞航班。
 
 ### 10
 
-That chat about favorites ended with "`____`".
+How long will it take us to get to the historic city center from the station? (`____`).
 
-- [x] get
-- [ ] ferry
-- [ ] ride
+- [x] go backpacking
+- [ ] cruise
+- [ ] direct
 
-> **解析**：本题在单元主题情境中复习表达 get。
+> **解析**：get 短语 get to 意为“到达某地”，常用于询问交通抵达时间（get to a place）。
 
 </quiz-cloze>

@@ -63,70 +63,79 @@ bill, by then, campaign, candidate, elect, furthermore, going to be, opponent, p
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“bill”。  
-   **英文**：In this situation, I heard "bill".
-   > **解析**：本题在单元主题情境中复习表达 bill。
+1. **中文**：议会昨天下午投票通过了这项新的环境保护法案。  
+   **英文**：Parliament voted to pass the new environmental protection bill yesterday afternoon.
+   > **解析**：`bill` 在政治与法律情境中指“法案；议案”。搭配 `pass a bill`（通过法案）。
 
-2. **中文**：同伴解释了“candidate”。  
-   **英文**：My partner explained "candidate".
-   > **解析**：本题在单元主题情境中复习表达 candidate。
+2. **中文**：每位总统候选人都在电视辩论中阐述了自己的政策纲领。  
+   **英文**：Each presidential candidate presented their policy platform during the televised debate (by then).
+   > **解析**：`candidate` 可数名词，意为“候选人；应试者”。
 
-3. **中文**：我们一起谈到了“opponent”。  
-   **英文**：We talked about "opponent" together.
-   > **解析**：本题在单元主题情境中复习表达 opponent。
+3. **中文**：她在发表胜利演讲前与她的主要政治对手握手。  
+   **英文**：She shook hands with her main political opponent before delivering her victory speech for campaign.
+   > **解析**：`opponent` 可数名词，意为“对手；反对者”。
 
-4. **中文**：我记下了“regarding”。  
-   **英文**：I wrote down "regarding".
-   > **解析**：本题在单元主题情境中复习表达 regarding。
+4. **中文**：竞选经理回答了几个关于候选人医疗保健策略的问题。  
+   **英文**：The campaign manager answered several questions regarding the candidate's healthcare strategy.
+   > **解析**：`regarding` 介词，意为“关于；至于”，相当于 `about` 或 `concerning`。
 
-5. **中文**：例句中包含“threat”。  
-   **英文**：The example included "threat".
-   > **解析**：本题在单元主题情境中复习表达 threat。
+5. **中文**：气候变化对世界各地的沿海社区构成了严重的威胁。  
+   **英文**：Climate change poses a severe threat to coastal communities around the world for elect.
+   > **解析**：`threat` 名词，意为“威胁；恐吓”。固定搭配 `pose a threat to...`（对……构成威胁）。
 
-6. **中文**：我询问了“will be”。  
-   **英文**：I asked about "will be".
-   > **解析**：本题在单元主题情境中复习表达 will be。
+6. **中文**：到这次竞选活动结束时，我们党将准备好实施重大税收改革。  
+   **英文**：By the end of this campaign, our party will be ready to implement major tax reforms for furthermore.
+   > **解析**：`will be` 为一般将来时结构，表示将来发生的动作或状态。
 
-7. **中文**：我们在句子中用到了“won't have”。  
-   **英文**：We used "won't have" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 won't have。
+7. **中文**：没有公众支持，该候选人将没有足够的选票来确保胜利。  
+   **英文**：Without public support, the candidate won't have enough votes to secure victory (going to be).
+   > **解析**：`won't have` 为 `will not have` 的缩略形式，表将来否定的持有状态。
 
-8. **中文**：朋友重复了“by then”。  
-   **英文**：My friend repeated "by then".
-   > **解析**：本题在单元主题情境中复习表达 by then。
+8. **中文**：选举结果将于今晚公布，到那时每个人都会知道赢家是谁。  
+   **英文**：The election results will be announced tonight, and by then everyone will know the winner for opponent.
+   > **解析**：`by then` 为时间副词短语，意为“到那时”，常用于主句为将来时或完成时的语境中。
 
-9. **中文**：后来，我记住了“furthermore”。  
-   **英文**：Later, I remembered "furthermore".
-   > **解析**：本题在单元主题情境中复习表达 furthermore。
+9. **中文**：该政策将创造就业机会；此外，它还将促进小微企业投资。  
+   **英文**：The policy will create jobs; furthermore, it will boost small business investments for pass.
+   > **解析**：`furthermore` 递进副词，意为“此外；而且”，用于连接两个递进关系的并列句。
 
-10. **中文**：这个小故事以“pass”收尾。  
-   **英文**：The short story ended with "pass".
-   > **解析**：本题在单元主题情境中复习表达 pass。
+10. **中文**：市长承诺市议会将通过经济适用房立法。  
+   **英文**：The mayor promised that the city council would pass the affordable housing legislation for put.
+   > **解析**：`pass` 及物动词，在法律与选举中意为“通过（法律、议案）”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "bill".
-   > **中文**：在这个情境中，我听到了“bill”。
-2. My partner explained "candidate".
-   > **中文**：同伴解释了“candidate”。
-3. We talked about "opponent" together.
-   > **中文**：我们一起谈到了“opponent”。
-4. I wrote down "regarding".
-   > **中文**：我记下了“regarding”。
-5. The example included "threat".
-   > **中文**：例句中包含“threat”。
-6. I asked about "will be".
-   > **中文**：我询问了“will be”。
-7. We used "won't have" in a sentence.
-   > **中文**：我们在句子中用到了“won't have”。
-8. My friend repeated "by then".
-   > **中文**：朋友重复了“by then”。
-9. Later, I remembered "furthermore".
-   > **中文**：后来，我记住了“furthermore”。
-10. The short story ended with "pass".
-   > **中文**：这个小故事以“pass”收尾。
+1. Parliament voted to pass the new environmental protection bill yesterday afternoon.
+   > **中文**：议会昨天下午投票通过了这项新的环境保护法案。
+
+2. Each presidential candidate presented their policy platform during the televised debate (by then).
+   > **中文**：每位总统候选人都在电视辩论中阐述了自己的政策纲领。
+
+3. She shook hands with her main political opponent before delivering her victory speech for campaign.
+   > **中文**：她在发表胜利演讲前与她的主要政治对手握手。
+
+4. The campaign manager answered several questions regarding the candidate's healthcare strategy.
+   > **中文**：竞选经理回答了几个关于候选人医疗保健策略的问题。
+
+5. Climate change poses a severe threat to coastal communities around the world for elect.
+   > **中文**：气候变化对世界各地的沿海社区构成了严重的威胁。
+
+6. By the end of this campaign, our party will be ready to implement major tax reforms for furthermore.
+   > **中文**：到这次竞选活动结束时，我们党将准备好实施重大税收改革。
+
+7. Without public support, the candidate won't have enough votes to secure victory (going to be).
+   > **中文**：没有公众支持，该候选人将没有足够的选票来确保胜利。
+
+8. The election results will be announced tonight, and by then everyone will know the winner for opponent.
+   > **中文**：选举结果将于今晚公布，到那时每个人都会知道赢家是谁。
+
+9. The policy will create jobs; furthermore, it will boost small business investments for pass.
+   > **中文**：该政策将创造就业机会；此外，它还将促进小微企业投资。
+
+10. The mayor promised that the city council would pass the affordable housing legislation for put.
+   > **中文**：市长承诺市议会将通过经济适用房立法。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ bill, by then, campaign, candidate, elect, furthermore, going to be, opponent, p
 
 ### 1
 
-In this situation, I heard "`____`".
+Parliament voted to pass the new environmental protection `____` yesterday afternoon.
 
 - [x] bill
-- [ ] regarding
-- [ ] won't have
+- [ ] candidate
+- [ ] going to be
 
-> **解析**：本题在单元主题情境中复习表达 bill。
+> **解析**：`bill` 在政治与法律情境中指“法案；议案”。搭配 `pass a bill`（通过法案）。
 
 ### 2
 
-My partner explained "`____`".
+Each presidential candidate presented their policy platform during the televised debate (`____`).
 
-- [x] candidate
-- [ ] threat
-- [ ] by then
+- [x] by then
+- [ ] elect
+- [ ] opponent
 
-> **解析**：本题在单元主题情境中复习表达 candidate。
+> **解析**：`candidate` 可数名词，意为“候选人；应试者”。
 
 ### 3
 
-We talked about "`____`" together.
+She shook hands with her main political opponent before delivering her victory speech for `____`.
 
-- [x] opponent
-- [ ] will be
+- [x] campaign
 - [ ] furthermore
+- [ ] pass
 
-> **解析**：本题在单元主题情境中复习表达 opponent。
+> **解析**：`opponent` 可数名词，意为“对手；反对者”。
 
 ### 4
 
-I wrote down "`____`".
+The campaign manager answered several questions regarding the `____`'s healthcare strategy.
 
-- [x] regarding
-- [ ] won't have
-- [ ] pass
+- [x] candidate
+- [ ] going to be
+- [ ] put
 
-> **解析**：本题在单元主题情境中复习表达 regarding。
+> **解析**：`regarding` 介词，意为“关于；至于”，相当于 `about` 或 `concerning`。
 
 ### 5
 
-The example included "`____`".
+Climate change poses a severe threat to coastal communities around the world for `____`.
 
-- [x] threat
-- [ ] by then
+- [x] elect
+- [ ] opponent
 - [ ] bill
 
-> **解析**：本题在单元主题情境中复习表达 threat。
+> **解析**：`threat` 名词，意为“威胁；恐吓”。固定搭配 `pose a threat to...`（对……构成威胁）。
 
 ### 6
 
-I asked about "`____`".
+By the end of this campaign, our party will be ready to implement major tax reforms for `____`.
 
-- [x] will be
-- [ ] furthermore
-- [ ] candidate
+- [x] furthermore
+- [ ] pass
+- [ ] by then
 
-> **解析**：本题在单元主题情境中复习表达 will be。
+> **解析**：`will be` 为一般将来时结构，表示将来发生的动作或状态。
 
 ### 7
 
-We used "`____`" in a sentence.
+Without public support, the candidate won't have enough votes to secure victory (`____`).
 
-- [x] won't have
-- [ ] pass
-- [ ] opponent
+- [x] going to be
+- [ ] put
+- [ ] campaign
 
-> **解析**：本题在单元主题情境中复习表达 won't have。
+> **解析**：`won't have` 为 `will not have` 的缩略形式，表将来否定的持有状态。
 
 ### 8
 
-My friend repeated "`____`".
+The election results will be announced tonight, and by then everyone will know the winner for `____`.
 
-- [x] by then
+- [x] opponent
 - [ ] bill
-- [ ] regarding
+- [ ] candidate
 
-> **解析**：本题在单元主题情境中复习表达 by then。
+> **解析**：`by then` 为时间副词短语，意为“到那时”，常用于主句为将来时或完成时的语境中。
 
 ### 9
 
-Later, I remembered "`____`".
+The policy will create jobs; furthermore, it will boost small business investments for `____`.
 
-- [x] furthermore
-- [ ] candidate
-- [ ] threat
+- [x] pass
+- [ ] by then
+- [ ] elect
 
-> **解析**：本题在单元主题情境中复习表达 furthermore。
+> **解析**：`furthermore` 递进副词，意为“此外；而且”，用于连接两个递进关系的并列句。
 
 ### 10
 
-The short story ended with "`____`".
+The mayor promised that the city council would pass the affordable housing legislation for `____`.
 
-- [x] pass
-- [ ] opponent
-- [ ] will be
+- [x] put
+- [ ] campaign
+- [ ] furthermore
 
-> **解析**：本题在单元主题情境中复习表达 pass。
+> **解析**：`pass` 及物动词，在法律与选举中意为“通过（法律、议案）”。
 
 </quiz-cloze>

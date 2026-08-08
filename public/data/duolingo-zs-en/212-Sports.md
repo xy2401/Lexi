@@ -51,70 +51,79 @@ there might be / there can't be / there should not be 这组结构用来表达�
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“captain”。  
-   **英文**：In this situation, I heard "captain".
-   > **解析**：本题在单元主题情境中复习表达 captain。
+1. **中文**：作为队长，他发表了一番鼓舞人心的演讲以提高大家的信心。  
+   **英文**：As the team captain, he gave an inspiring speech to boost everyone's confidence.
+   > **解析**：`captain` 名词，意为“队长；领队”。在前置介词短语 `As the team captain` 中作身份说明。
 
-2. **中文**：同伴解释了“diving”。  
-   **英文**：My partner explained "diving".
-   > **解析**：本题在单元主题情境中复习表达 diving。
+2. **中文**：她在昨天的十米跳台跳水比赛中赢得了金牌。  
+   **英文**：She won a gold medal in the ten-meter platform diving competition yesterday (come on).
+   > **解析**：`diving` 动名词，意为“跳水运动；潜水”。在此处用作名词修饰语，说明比赛项目的类型。
 
-3. **中文**：我们一起谈到了“gymnastics”。  
-   **英文**：We talked about "gymnastics" together.
-   > **解析**：本题在单元主题情境中复习表达 gymnastics。
+3. **中文**：体操运动需要柔韧性、精准的平衡力以及非凡的力量。  
+   **英文**：Gymnastics requires flexibility, precise balance, and exceptional strength for cyclist.
+   > **解析**：`gymnastics` 名词，意为“体操；体操运动”。形式虽为复数形式（以 -s 结尾），但作为学科或运动项目名称时作不可数名词，谓语动词用单数形式 `requires`。
 
-4. **中文**：我记下了“hunt”。  
-   **英文**：I wrote down "hunt".
-   > **解析**：本题在单元主题情境中复习表达 hunt。
+4. **中文**：野生动物经常在日出前的大早晨捕猎食物。  
+   **英文**：Wild animals often hunt for food early in the morning before sunrise for defense.
+   > **解析**：`hunt` 不及物动词，意为“打猎；搜寻”。搭配 `hunt for food` 表示“寻找/捕食”。
 
-5. **中文**：例句中包含“record”。  
-   **英文**：The example included "record".
-   > **解析**：本题在单元主题情境中复习表达 record。
+5. **中文**：这名跑步运动员打破了二百米短跑项目的国家纪录。  
+   **英文**：The runner broke the national record in the two-hundred-meter dash event for diving.
+   > **解析**：`record` 名词，在此处读作 /ˈrɛkərd/，意为“纪录；记载”。动词短语 `break a record` 表示“打破纪录”。
 
-6. **中文**：我询问了“swimmer”。  
-   **英文**：I asked about "swimmer".
-   > **解析**：本题在单元主题情境中复习表达 swimmer。
+6. **中文**：那位年轻的游泳运动员每天早晨训练整整三个小时。  
+   **英文**：The young swimmer trained for three hours every single morning for equipment.
+   > **解析**：`swimmer` 可数名词，意为“游泳者；游泳运动员”，由动词 `swim` 加后缀 `-mer` 派生而来。
 
-7. **中文**：我们在句子中用到了“there might not be”。  
-   **英文**：We used "there might not be" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 there might not be。
+7. **中文**：如果雨一直下，今天可能就不会有任何户外比赛了。  
+   **英文**：If it keeps raining, there might not be any outdoor games today (expect to).
+   > **解析**：`there might not be` 为 `there be` 句型与情态动词 `might` 的否定形式连用，表达对存在情况的推测：“可能不会有……”。
 
-8. **中文**：朋友重复了“come on”。  
-   **英文**：My friend repeated "come on".
-   > **解析**：本题在单元主题情境中复习表达 come on。
+8. **中文**：加油，坚持推向终点线！  
+   **英文**：Come on, keep pushing until you reach the finish line for final.
+   > **解析**：`come on` 为常用口语短语，在此处作感叹语，意为“加油；快点”，用以鼓舞士气或催促对方。
 
-9. **中文**：后来，我记住了“equipment”。  
-   **英文**：Later, I remembered "equipment".
-   > **解析**：本题在单元主题情境中复习表达 equipment。
+9. **中文**：专业体育器材必须符合严格的安全标准。  
+   **英文**：Professional sports equipment must meet strict safety standards for gymnastics.
+   > **解析**：`equipment` 为不可数名词，意为“设备；器材；装备”。注意不能加 `-s`，也不能用 `an equipment`，若需表达一件装备需用 `a piece of equipment`。
 
-10. **中文**：这个小故事以“helmet”收尾。  
-   **英文**：The short story ended with "helmet".
-   > **解析**：本题在单元主题情境中复习表达 helmet。
+10. **中文**：骑自行车下坡时，你应该始终佩戴防护头盔。  
+   **英文**：You should always wear a protective helmet when riding a bicycle downhill.
+   > **解析**：`helmet` 可数名词，意为“头盔；安全帽”。作为及物动词 `wear` 的宾语，常与形容词 `protective`（防护的）连用。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "captain".
-   > **中文**：在这个情境中，我听到了“captain”。
-2. My partner explained "diving".
-   > **中文**：同伴解释了“diving”。
-3. We talked about "gymnastics" together.
-   > **中文**：我们一起谈到了“gymnastics”。
-4. I wrote down "hunt".
-   > **中文**：我记下了“hunt”。
-5. The example included "record".
-   > **中文**：例句中包含“record”。
-6. I asked about "swimmer".
-   > **中文**：我询问了“swimmer”。
-7. We used "there might not be" in a sentence.
-   > **中文**：我们在句子中用到了“there might not be”。
-8. My friend repeated "come on".
-   > **中文**：朋友重复了“come on”。
-9. Later, I remembered "equipment".
-   > **中文**：后来，我记住了“equipment”。
-10. The short story ended with "helmet".
-   > **中文**：这个小故事以“helmet”收尾。
+1. As the team captain, he gave an inspiring speech to boost everyone's confidence.
+   > **中文**：作为队长，他发表了一番鼓舞人心的演讲以提高大家的信心。
+
+2. She won a gold medal in the ten-meter platform diving competition yesterday (come on).
+   > **中文**：她在昨天的十米跳台跳水比赛中赢得了金牌。
+
+3. Gymnastics requires flexibility, precise balance, and exceptional strength for cyclist.
+   > **中文**：体操运动需要柔韧性、精准的平衡力以及非凡的力量。
+
+4. Wild animals often hunt for food early in the morning before sunrise for defense.
+   > **中文**：野生动物经常在日出前的大早晨捕猎食物。
+
+5. The runner broke the national record in the two-hundred-meter dash event for diving.
+   > **中文**：这名跑步运动员打破了二百米短跑项目的国家纪录。
+
+6. The young swimmer trained for three hours every single morning for equipment.
+   > **中文**：那位年轻的游泳运动员每天早晨训练整整三个小时。
+
+7. If it keeps raining, there might not be any outdoor games today (expect to).
+   > **中文**：如果雨一直下，今天可能就不会有任何户外比赛了。
+
+8. Come on, keep pushing until you reach the finish line for final.
+   > **中文**：加油，坚持推向终点线！
+
+9. Professional sports equipment must meet strict safety standards for gymnastics.
+   > **中文**：专业体育器材必须符合严格的安全标准。
+
+10. You should always wear a protective helmet when riding a bicycle downhill.
+   > **中文**：骑自行车下坡时，你应该始终佩戴防护头盔。
 
 </quiz-listening>
 
@@ -126,102 +135,102 @@ there might be / there can't be / there should not be 这组结构用来表达�
 
 ### 1
 
-In this situation, I heard "`____`".
+As the team `____`, he gave an inspiring speech to boost everyone's confidence.
 
 - [x] captain
-- [ ] hunt
-- [ ] there might not be
+- [ ] defense
+- [ ] expect to
 
-> **解析**：本题在单元主题情境中复习表达 captain。
+> **解析**：`captain` 名词，意为“队长；领队”。在前置介词短语 `As the team captain` 中作身份说明。
 
 ### 2
 
-My partner explained "`____`".
+She won a gold medal in the ten-meter platform diving competition yesterday (`____`).
 
-- [x] diving
-- [ ] record
-- [ ] come on
+- [x] come on
+- [ ] diving
+- [ ] final
 
-> **解析**：本题在单元主题情境中复习表达 diving。
+> **解析**：`diving` 动名词，意为“跳水运动；潜水”。在此处用作名词修饰语，说明比赛项目的类型。
 
 ### 3
 
-We talked about "`____`" together.
+Gymnastics requires flexibility, precise balance, and exceptional strength for `____`.
 
-- [x] gymnastics
-- [ ] swimmer
+- [x] cyclist
 - [ ] equipment
+- [ ] gymnastics
 
-> **解析**：本题在单元主题情境中复习表达 gymnastics。
+> **解析**：`gymnastics` 名词，意为“体操；体操运动”。形式虽为复数形式（以 -s 结尾），但作为学科或运动项目名称时作不可数名词，谓语动词用单数形式 `requires`。
 
 ### 4
 
-I wrote down "`____`".
+Wild animals often hunt for food early in the morning before sunrise for `____`.
 
-- [x] hunt
-- [ ] there might not be
+- [x] defense
+- [ ] expect to
 - [ ] helmet
 
-> **解析**：本题在单元主题情境中复习表达 hunt。
+> **解析**：`hunt` 不及物动词，意为“打猎；搜寻”。搭配 `hunt for food` 表示“寻找/捕食”。
 
 ### 5
 
-The example included "`____`".
+The runner broke the national record in the two-hundred-meter dash event for `____`.
 
-- [x] record
-- [ ] come on
+- [x] diving
+- [ ] final
 - [ ] captain
 
-> **解析**：本题在单元主题情境中复习表达 record。
+> **解析**：`record` 名词，在此处读作 /ˈrɛkərd/，意为“纪录；记载”。动词短语 `break a record` 表示“打破纪录”。
 
 ### 6
 
-I asked about "`____`".
+The young swimmer trained for three hours every single morning for `____`.
 
-- [x] swimmer
-- [ ] equipment
-- [ ] diving
+- [x] equipment
+- [ ] gymnastics
+- [ ] come on
 
-> **解析**：本题在单元主题情境中复习表达 swimmer。
+> **解析**：`swimmer` 可数名词，意为“游泳者；游泳运动员”，由动词 `swim` 加后缀 `-mer` 派生而来。
 
 ### 7
 
-We used "`____`" in a sentence.
+If it keeps raining, there might not be any outdoor games today (`____`).
 
-- [x] there might not be
+- [x] expect to
 - [ ] helmet
-- [ ] gymnastics
+- [ ] cyclist
 
-> **解析**：本题在单元主题情境中复习表达 there might not be。
+> **解析**：`there might not be` 为 `there be` 句型与情态动词 `might` 的否定形式连用，表达对存在情况的推测：“可能不会有……”。
 
 ### 8
 
-My friend repeated "`____`".
+Come on, keep pushing until you reach the finish line for `____`.
 
-- [x] come on
+- [x] final
 - [ ] captain
-- [ ] hunt
+- [ ] defense
 
-> **解析**：本题在单元主题情境中复习表达 come on。
+> **解析**：`come on` 为常用口语短语，在此处作感叹语，意为“加油；快点”，用以鼓舞士气或催促对方。
 
 ### 9
 
-Later, I remembered "`____`".
+Professional sports equipment must meet strict safety standards for `____`.
 
-- [x] equipment
+- [x] gymnastics
+- [ ] come on
 - [ ] diving
-- [ ] record
 
-> **解析**：本题在单元主题情境中复习表达 equipment。
+> **解析**：`equipment` 为不可数名词，意为“设备；器材；装备”。注意不能加 `-s`，也不能用 `an equipment`，若需表达一件装备需用 `a piece of equipment`。
 
 ### 10
 
-The short story ended with "`____`".
+You should always wear a protective `____` when riding a bicycle downhill.
 
 - [x] helmet
-- [ ] gymnastics
-- [ ] swimmer
+- [ ] cyclist
+- [ ] equipment
 
-> **解析**：本题在单元主题情境中复习表达 helmet。
+> **解析**：`helmet` 可数名词，意为“头盔；安全帽”。作为及物动词 `wear` 的宾语，常与形容词 `protective`（防护的）连用。
 
 </quiz-cloze>

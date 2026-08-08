@@ -53,70 +53,79 @@ in common 是谈论共同爱好的核心搭配：We have sports in common. typic
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“any”。  
-   **英文**：In this situation, I heard "any".
-   > **解析**：本题在单元主题情境中复习表达 any。
+1. **中文**：你以前曾参加过任何专业的水上运动项目吗？  
+   **英文**：Have you ever played any professional water sports before?
+   > **解析**：any 在疑问句中用作限定词，修饰复数名词 sports，意为“任何、一些”。
 
-2. **中文**：同伴解释了“been”。  
-   **英文**：My partner explained "been".
-   > **解析**：本题在单元主题情境中复习表达 been。
+2. **中文**：你冬天去过国家级的滑雪度假胜地吗？  
+   **英文**：Have you ever been to a national skiing resort in winter? for anything.
+   > **解析**：been 是 be 的过去分词，Have you ever been to... 结构用于询问过去的经历（是否去过某地）。
 
-3. **中文**：我们一起谈到了“froze”。  
-   **英文**：We talked about "froze" together.
-   > **解析**：本题在单元主题情境中复习表达 froze。
+3. **中文**：去年冬天湖面完全结冰了，人们可以安全地在上面滑冰。  
+   **英文**：The lake surface froze completely last winter, allowing people to ice skate safely for beaten.
+   > **解析**：froze 是 freeze 的一般过去式，意为“结冰、冻结”，描述过去发生的事实。
 
-4. **中文**：我记下了“in common”。  
-   **英文**：I wrote down "in common".
-   > **解析**：本题在单元主题情境中复习表达 in common。
+4. **中文**：这两位运动员有很多共同点，包括他们对篮球的热狂热投入。  
+   **英文**：Both athletes have a lot in common, including their passionate devotion to basketball for been.
+   > **解析**：in common 为固定介词短语，常用结构 have sth. in common（有共同点/共同之处）。
 
-5. **中文**：例句中包含“others”。  
-   **英文**：The example included "others".
-   > **解析**：本题在单元主题情境中复习表达 others。
+5. **中文**：一些队员喜欢游泳，而其他人则喜欢在户外打网球。  
+   **英文**：Some team members prefer swimming while others like playing tennis outdoors (choose to).
+   > **解析**：others 为代名词，常与 some 对应使用（some... others... 意为“一些人……其他人……”）。
 
-6. **中文**：我询问了“stop by”。  
-   **英文**：I asked about "stop by".
-   > **解析**：本题在单元主题情境中复习表达 stop by。
+6. **中文**：如果你想参加我们的篮球练习，稍后随时顺道来体育馆看看。  
+   **英文**：Feel free to stop by the gym later if you want to join our basketball practice for freeze.
+   > **解析**：stop by 为动词短语，口语中意为“顺路拜访、顺便去”，后接地点名词（stop by the gym）。
 
-7. **中文**：我们在句子中用到了“will”。  
-   **英文**：We used "will" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 will。
+7. **中文**：我们的网球俱乐部将于下周六上午举办一场友谊比赛。  
+   **英文**：Our tennis club will host a friendly tournament next Saturday morning for froze.
+   > **解析**：will 为情态动词，用于表示将要发生的计划或安排（will host）。
 
-8. **中文**：朋友重复了“beaten”。  
-   **英文**：My friend repeated "beaten".
-   > **解析**：本题在单元主题情境中复习表达 beaten。
+8. **中文**：你曾经在羽毛球竞技比赛中击败过冠军选手吗？  
+   **英文**：Have you ever beaten a championship player in a competitive badminton match? for frozen.
+   > **解析**：beaten 是 beat 的过去分词，与 Have 构成现在完成时（Have you ever beaten...），意为“击败/战胜”。
 
-9. **中文**：后来，我记住了“freeze”。  
-   **英文**：Later, I remembered "freeze".
-   > **解析**：本题在单元主题情境中复习表达 freeze。
+9. **中文**：当环境温度降至摄氏零度时，水就会结冰。  
+   **英文**：Water will freeze when the ambient temperature falls to zero degrees Celsius (hear that).
+   > **解析**：freeze 为动词原形，意为“结冰、凝固”，作不及物动词使用。
 
-10. **中文**：这个小故事以“hear that”收尾。  
-   **英文**：The short story ended with "hear that".
-   > **解析**：本题在单元主题情境中复习表达 hear that。
+10. **中文**：你听说我们学校的马拉松跑者打破了官方纪录吗？  
+   **英文**：Did you hear that our school marathon runner broke the official record? (in common).
+   > **解析**：hear that 意为“听说……”，that 引导宾语从句说明听说的内容（our runner broke the record）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "any".
-   > **中文**：在这个情境中，我听到了“any”。
-2. My partner explained "been".
-   > **中文**：同伴解释了“been”。
-3. We talked about "froze" together.
-   > **中文**：我们一起谈到了“froze”。
-4. I wrote down "in common".
-   > **中文**：我记下了“in common”。
-5. The example included "others".
-   > **中文**：例句中包含“others”。
-6. I asked about "stop by".
-   > **中文**：我询问了“stop by”。
-7. We used "will" in a sentence.
-   > **中文**：我们在句子中用到了“will”。
-8. My friend repeated "beaten".
-   > **中文**：朋友重复了“beaten”。
-9. Later, I remembered "freeze".
-   > **中文**：后来，我记住了“freeze”。
-10. The short story ended with "hear that".
-   > **中文**：这个小故事以“hear that”收尾。
+1. Have you ever played any professional water sports before?
+   > **中文**：你以前曾参加过任何专业的水上运动项目吗？
+
+2. Have you ever been to a national skiing resort in winter? for anything.
+   > **中文**：你冬天去过国家级的滑雪度假胜地吗？
+
+3. The lake surface froze completely last winter, allowing people to ice skate safely for beaten.
+   > **中文**：去年冬天湖面完全结冰了，人们可以安全地在上面滑冰。
+
+4. Both athletes have a lot in common, including their passionate devotion to basketball for been.
+   > **中文**：这两位运动员有很多共同点，包括他们对篮球的热狂热投入。
+
+5. Some team members prefer swimming while others like playing tennis outdoors (choose to).
+   > **中文**：一些队员喜欢游泳，而其他人则喜欢在户外打网球。
+
+6. Feel free to stop by the gym later if you want to join our basketball practice for freeze.
+   > **中文**：如果你想参加我们的篮球练习，稍后随时顺道来体育馆看看。
+
+7. Our tennis club will host a friendly tournament next Saturday morning for froze.
+   > **中文**：我们的网球俱乐部将于下周六上午举办一场友谊比赛。
+
+8. Have you ever beaten a championship player in a competitive badminton match? for frozen.
+   > **中文**：你曾经在羽毛球竞技比赛中击败过冠军选手吗？
+
+9. Water will freeze when the ambient temperature falls to zero degrees Celsius (hear that).
+   > **中文**：当环境温度降至摄氏零度时，水就会结冰。
+
+10. Did you hear that our school marathon runner broke the official record? (in common).
+   > **中文**：你听说我们学校的马拉松跑者打破了官方纪录吗？
 
 </quiz-listening>
 
@@ -128,102 +137,102 @@ in common 是谈论共同爱好的核心搭配：We have sports in common. typic
 
 ### 1
 
-In this situation, I heard "`____`".
+Have you ever played `____` professional water sports before?
 
 - [x] any
-- [ ] in common
-- [ ] will
+- [ ] been
+- [ ] froze
 
-> **解析**：本题在单元主题情境中复习表达 any。
+> **解析**：any 在疑问句中用作限定词，修饰复数名词 sports，意为“任何、一些”。
 
 ### 2
 
-My partner explained "`____`".
+Have you ever been to a national skiing resort in winter? for `____`.
 
-- [x] been
-- [ ] others
-- [ ] beaten
+- [x] anything
+- [ ] choose to
+- [ ] frozen
 
-> **解析**：本题在单元主题情境中复习表达 been。
+> **解析**：been 是 be 的过去分词，Have you ever been to... 结构用于询问过去的经历（是否去过某地）。
 
 ### 3
 
-We talked about "`____`" together.
+The lake surface froze completely last winter, allowing people to ice skate safely for `____`.
 
-- [x] froze
-- [ ] stop by
+- [x] beaten
 - [ ] freeze
+- [ ] hear that
 
-> **解析**：本题在单元主题情境中复习表达 froze。
+> **解析**：froze 是 freeze 的一般过去式，意为“结冰、冻结”，描述过去发生的事实。
 
 ### 4
 
-I wrote down "`____`".
+Both athletes have a lot in common, including their passionate devotion to basketball for `____`.
 
-- [x] in common
-- [ ] will
-- [ ] hear that
+- [x] been
+- [ ] froze
+- [ ] in common
 
-> **解析**：本题在单元主题情境中复习表达 in common。
+> **解析**：in common 为固定介词短语，常用结构 have sth. in common（有共同点/共同之处）。
 
 ### 5
 
-The example included "`____`".
+Some team members prefer swimming while others like playing tennis outdoors (`____`).
 
-- [x] others
-- [ ] beaten
+- [x] choose to
+- [ ] frozen
 - [ ] any
 
-> **解析**：本题在单元主题情境中复习表达 others。
+> **解析**：others 为代名词，常与 some 对应使用（some... others... 意为“一些人……其他人……”）。
 
 ### 6
 
-I asked about "`____`".
+Feel free to stop by the gym later if you want to join our basketball practice for `____`.
 
-- [x] stop by
-- [ ] freeze
-- [ ] been
+- [x] freeze
+- [ ] hear that
+- [ ] anything
 
-> **解析**：本题在单元主题情境中复习表达 stop by。
+> **解析**：stop by 为动词短语，口语中意为“顺路拜访、顺便去”，后接地点名词（stop by the gym）。
 
 ### 7
 
-We used "`____`" in a sentence.
+Our tennis club will host a friendly tournament next Saturday morning for `____`.
 
-- [x] will
-- [ ] hear that
-- [ ] froze
+- [x] froze
+- [ ] in common
+- [ ] beaten
 
-> **解析**：本题在单元主题情境中复习表达 will。
+> **解析**：will 为情态动词，用于表示将要发生的计划或安排（will host）。
 
 ### 8
 
-My friend repeated "`____`".
+Have you ever beaten a championship player in a competitive badminton match? for `____`.
 
-- [x] beaten
+- [x] frozen
 - [ ] any
-- [ ] in common
+- [ ] been
 
-> **解析**：本题在单元主题情境中复习表达 beaten。
+> **解析**：beaten 是 beat 的过去分词，与 Have 构成现在完成时（Have you ever beaten...），意为“击败/战胜”。
 
 ### 9
 
-Later, I remembered "`____`".
+Water will freeze when the ambient temperature falls to zero degrees Celsius (`____`).
 
-- [x] freeze
-- [ ] been
-- [ ] others
+- [x] hear that
+- [ ] anything
+- [ ] choose to
 
-> **解析**：本题在单元主题情境中复习表达 freeze。
+> **解析**：freeze 为动词原形，意为“结冰、凝固”，作不及物动词使用。
 
 ### 10
 
-The short story ended with "`____`".
+Did you hear that our school marathon runner broke the official record? (`____`).
 
-- [x] hear that
-- [ ] froze
-- [ ] stop by
+- [x] in common
+- [ ] beaten
+- [ ] freeze
 
-> **解析**：本题在单元主题情境中复习表达 hear that。
+> **解析**：hear that 意为“听说……”，that 引导宾语从句说明听说的内容（our runner broke the record）。
 
 </quiz-cloze>

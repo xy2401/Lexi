@@ -61,70 +61,79 @@ there is / there are 表存在。many 修饰可数，much 修饰不可数。
 
 <quiz-sentence-builder>
 
-1. **中文**：谈论喜好时，我听到了“animated”。  
-   **英文**：When we talked about favorites, I heard "animated".
-   > **解析**：本题在单元主题情境中复习表达 animated。
+1. **中文**：这家工作室以制作面向儿童的高质量动画电影而闻名。  
+   **英文**：This studio is famous for producing high-quality animated movies for children.
+   > **解析**：animated 为形容词，意为“动画的、卡通的”，常修饰 feature/movie/film（animated movie 动画电影）。
 
-2. **中文**：朋友说“can't stand”很重要。  
-   **英文**：My friend said "can't stand" was important.
-   > **解析**：本题在单元主题情境中复习表达 can't stand。
+2. **中文**：我妹妹喜欢卡通，但我无法忍受观看长篇动画剧集。  
+   **英文**：My sister loves cartoons, but I can't stand watching long animated series for anyone.
+   > **解析**：can't stand 为动词短语，意为“无法忍受”，后面可接动名词短语 watching animated series。
 
-3. **中文**：我问他们喜欢哪一个：“film”。  
-   **英文**：I asked which one they liked: "film".
-   > **解析**：本题在单元主题情境中复习表达 film。
+3. **中文**：这部动画短片去年获得了多个国际奖项。  
+   **英文**：The short animated film won several international awards last year for audience.
+   > **解析**：film 为名词，意为“电影、影片”。animated film 即动画影片，可与 movie 替换使用。
 
-4. **中文**：聊天时，我们比较了“independent”。  
-   **英文**：In our chat, we compared "independent".
-   > **解析**：本题在单元主题情境中复习表达 independent。
+4. **中文**：该电影节重点展示来自独立动画导演的创新作品。  
+   **英文**：The film festival highlights innovative works from independent animation directors for be.
+   > **解析**：independent 为形容词，指“独立的、非主流大制片的”，independent film/studio 指独立制作电影/工作室。
 
-5. **中文**：同伴先选择了“plot”。  
-   **英文**：My partner chose "plot" first.
-   > **解析**：本题在单元主题情境中复习表达 plot。
+5. **中文**：这部动画电影情节引人入胜，包含许多意想不到的转折。  
+   **英文**：The animated movie features an engaging plot with lots of unexpected twists (can't stand).
+   > **解析**：plot 为名词，意为“情节、剧情”。常用搭配 captivating plot（吸引人的情节）、plot twist（剧情转折）。
 
-6. **中文**：我们用“set”描述喜好。  
-   **英文**：We used "set" to describe a favorite.
-   > **解析**：本题在单元主题情境中复习表达 set。
+6. **中文**：这部卡通片的故事设定在一个神奇的海底王国。  
+   **英文**：The story of the cartoon is set in a magical underwater kingdom for character.
+   > **解析**：set 在此处作动词被动语态（be set in），意为“以……为背景/设定于……”。
 
-7. **中文**：答案中包含“there is”。  
-   **英文**：The answer included "there is".
-   > **解析**：本题在单元主题情境中复习表达 there is。
+7. **中文**：导演制作了一部关于环境保护的动画纪录片。  
+   **英文**：The director made an animated documentary about environmental conservation.
+   > **解析**：documentary 为名词，意为“纪录片”。animated documentary 是指采用动画形式呈现的纪录片。
 
-8. **中文**：我从对话中记住了“anyone”。  
-   **英文**：I remembered "anyone" from the conversation.
-   > **解析**：本题在单元主题情境中复习表达 anyone。
+8. **中文**：你家里有人不喜欢看迪士尼电影吗？  
+   **英文**：Is there anyone in your family who doesn't like watching Disney movies? for everyone.
+   > **解析**：anyone 为不定代词，意为“任何人”，常用于疑问句和否定句中，作句子的主语或宾语。
 
-9. **中文**：朋友微笑着重复了“documentary”。  
-   **英文**：My friend repeated "documentary" with a smile.
-   > **解析**：本题在单元主题情境中复习表达 documentary。
+9. **中文**：电影中那段令人动情的场景伴有一段优美的原声配乐。  
+   **英文**：There is a beautiful soundtrack accompanying the emotional scene in the movie for film.
+   > **解析**：there is 结构表示“存在/有”，引导单数可数名词（a beautiful soundtrack），引出新信息。
 
-10. **中文**：那场关于喜好的聊天以“have”收尾。  
-   **英文**：That chat about favorites ended with "have".
-   > **解析**：本题在单元主题情境中复习表达 have。
+10. **中文**：这部动画中的主角们拥有独特的魔法能力。  
+   **英文**：The main characters in the animation have unique magical powers.
+   > **解析**：have 为及物动词，意为“拥有、具有”。在描述电影角色特征时，用于说明其具备的性格或能力。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. When we talked about favorites, I heard "animated".
-   > **中文**：谈论喜好时，我听到了“animated”。
-2. My friend said "can't stand" was important.
-   > **中文**：朋友说“can't stand”很重要。
-3. I asked which one they liked: "film".
-   > **中文**：我问他们喜欢哪一个：“film”。
-4. In our chat, we compared "independent".
-   > **中文**：聊天时，我们比较了“independent”。
-5. My partner chose "plot" first.
-   > **中文**：同伴先选择了“plot”。
-6. We used "set" to describe a favorite.
-   > **中文**：我们用“set”描述喜好。
-7. The answer included "there is".
-   > **中文**：答案中包含“there is”。
-8. I remembered "anyone" from the conversation.
-   > **中文**：我从对话中记住了“anyone”。
-9. My friend repeated "documentary" with a smile.
-   > **中文**：朋友微笑着重复了“documentary”。
-10. That chat about favorites ended with "have".
-   > **中文**：那场关于喜好的聊天以“have”收尾。
+1. This studio is famous for producing high-quality animated movies for children.
+   > **中文**：这家工作室以制作面向儿童的高质量动画电影而闻名。
+
+2. My sister loves cartoons, but I can't stand watching long animated series for anyone.
+   > **中文**：我妹妹喜欢卡通，但我无法忍受观看长篇动画剧集。
+
+3. The short animated film won several international awards last year for audience.
+   > **中文**：这部动画短片去年获得了多个国际奖项。
+
+4. The film festival highlights innovative works from independent animation directors for be.
+   > **中文**：该电影节重点展示来自独立动画导演的创新作品。
+
+5. The animated movie features an engaging plot with lots of unexpected twists (can't stand).
+   > **中文**：这部动画电影情节引人入胜，包含许多意想不到的转折。
+
+6. The story of the cartoon is set in a magical underwater kingdom for character.
+   > **中文**：这部卡通片的故事设定在一个神奇的海底王国。
+
+7. The director made an animated documentary about environmental conservation.
+   > **中文**：导演制作了一部关于环境保护的动画纪录片。
+
+8. Is there anyone in your family who doesn't like watching Disney movies? for everyone.
+   > **中文**：你家里有人不喜欢看迪士尼电影吗？
+
+9. There is a beautiful soundtrack accompanying the emotional scene in the movie for film.
+   > **中文**：电影中那段令人动情的场景伴有一段优美的原声配乐。
+
+10. The main characters in the animation have unique magical powers.
+   > **中文**：这部动画中的主角们拥有独特的魔法能力。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ there is / there are 表存在。many 修饰可数，much 修饰不可数。
 
 ### 1
 
-When we talked about favorites, I heard "`____`".
+This studio is famous for producing high-quality `____` movies for children.
 
 - [x] animated
-- [ ] independent
-- [ ] there is
+- [ ] be
+- [ ] documentary
 
-> **解析**：本题在单元主题情境中复习表达 animated。
+> **解析**：animated 为形容词，意为“动画的、卡通的”，常修饰 feature/movie/film（animated movie 动画电影）。
 
 ### 2
 
-My friend said "`____`" was important.
+My sister loves cartoons, but I can't stand watching long animated series for `____`.
 
-- [x] can't stand
-- [ ] plot
-- [ ] anyone
+- [x] anyone
+- [ ] can't stand
+- [ ] everyone
 
-> **解析**：本题在单元主题情境中复习表达 can't stand。
+> **解析**：can't stand 为动词短语，意为“无法忍受”，后面可接动名词短语 watching animated series。
 
 ### 3
 
-I asked which one they liked: "`____`".
+The short animated film won several international awards last year for `____`.
 
-- [x] film
-- [ ] set
-- [ ] documentary
+- [x] audience
+- [ ] character
+- [ ] film
 
-> **解析**：本题在单元主题情境中复习表达 film。
+> **解析**：film 为名词，意为“电影、影片”。animated film 即动画影片，可与 movie 替换使用。
 
 ### 4
 
-In our chat, we compared "`____`".
+The film festival highlights innovative works from independent animation directors for `____`.
 
-- [x] independent
-- [ ] there is
+- [x] be
+- [ ] documentary
 - [ ] have
 
-> **解析**：本题在单元主题情境中复习表达 independent。
+> **解析**：independent 为形容词，指“独立的、非主流大制片的”，independent film/studio 指独立制作电影/工作室。
 
 ### 5
 
-My partner chose "`____`" first.
+The animated movie features an engaging plot with lots of unexpected twists (`____`).
 
-- [x] plot
-- [ ] anyone
+- [x] can't stand
+- [ ] everyone
 - [ ] animated
 
-> **解析**：本题在单元主题情境中复习表达 plot。
+> **解析**：plot 为名词，意为“情节、剧情”。常用搭配 captivating plot（吸引人的情节）、plot twist（剧情转折）。
 
 ### 6
 
-We used "`____`" to describe a favorite.
+The story of the cartoon is set in a magical underwater kingdom for `____`.
 
-- [x] set
-- [ ] documentary
-- [ ] can't stand
+- [x] character
+- [ ] film
+- [ ] anyone
 
-> **解析**：本题在单元主题情境中复习表达 set。
+> **解析**：set 在此处作动词被动语态（be set in），意为“以……为背景/设定于……”。
 
 ### 7
 
-The answer included "`____`".
+The director made an animated `____` about environmental conservation.
 
-- [x] there is
+- [x] documentary
 - [ ] have
-- [ ] film
+- [ ] audience
 
-> **解析**：本题在单元主题情境中复习表达 there is。
+> **解析**：documentary 为名词，意为“纪录片”。animated documentary 是指采用动画形式呈现的纪录片。
 
 ### 8
 
-I remembered "`____`" from the conversation.
+Is there anyone in your family who doesn't like watching Disney movies? for `____`.
 
-- [x] anyone
+- [x] everyone
 - [ ] animated
-- [ ] independent
+- [ ] be
 
-> **解析**：本题在单元主题情境中复习表达 anyone。
+> **解析**：anyone 为不定代词，意为“任何人”，常用于疑问句和否定句中，作句子的主语或宾语。
 
 ### 9
 
-My friend repeated "`____`" with a smile.
+There is a beautiful soundtrack accompanying the emotional scene in the movie for `____`.
 
-- [x] documentary
+- [x] film
+- [ ] anyone
 - [ ] can't stand
-- [ ] plot
 
-> **解析**：本题在单元主题情境中复习表达 documentary。
+> **解析**：there is 结构表示“存在/有”，引导单数可数名词（a beautiful soundtrack），引出新信息。
 
 ### 10
 
-That chat about favorites ended with "`____`".
+The main characters in the animation `____` unique magical powers.
 
 - [x] have
-- [ ] film
-- [ ] set
+- [ ] audience
+- [ ] character
 
-> **解析**：本题在单元主题情境中复习表达 have。
+> **解析**：have 为及物动词，意为“拥有、具有”。在描述电影角色特征时，用于说明其具备的性格或能力。
 
 </quiz-cloze>

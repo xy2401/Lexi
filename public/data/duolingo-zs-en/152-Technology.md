@@ -61,70 +61,79 @@ phrasal verbs（短语动词）是本单元重点：plug in, set up, sign up, ba
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“accidentally”。  
-   **英文**：In this situation, I heard "accidentally".
-   > **解析**：本题在单元主题情境中复习表达 accidentally。
+1. **中文**：我在网上搜索文件时，不小心删除了该文档。  
+   **英文**：I accidentally deleted the document while searching for the file online.
+   > **解析**：accidentally 是副词，意为“偶然地、意外地”，在此处修饰动词 deleted，说明动作发生的非故意性。
 
-2. **中文**：同伴解释了“button”。  
-   **英文**：My partner explained "button".
-   > **解析**：本题在单元主题情境中复习表达 button。
+2. **中文**：点击页面底部的蓝色按钮提交你的申请。  
+   **英文**：Click the blue button at the bottom of the page to submit your application for attach.
+   > **解析**：button 为可数名词，意为“按钮”。在网页或软件界面中，常见搭配 click the button（点击按钮）。
 
-3. **中文**：我们一起谈到了“dot com”。  
-   **英文**：We talked about "dot com" together.
-   > **解析**：本题在单元主题情境中复习表达 dot com。
+3. **中文**：许多科技初创公司都使用 dot com 域名注册了公司名称。  
+   **英文**：Many tech start-ups registered their company names with a dot com domain for back.
+   > **解析**：dot com（.com）在互联网语境中指商业域名后缀，常用于形容网络商业公司或网址结尾。
 
-4. **中文**：我记下了“notice”。  
-   **英文**：I wrote down "notice".
-   > **解析**：本题在单元主题情境中复习表达 notice。
+4. **中文**：当你尝试打开网页时，有注意到错误提示信息吗？  
+   **英文**：Did you notice the error message when you tried to open the web page? (back up).
+   > **解析**：notice 是及物动词，意为“注意到、察觉到”。后面直接接名词或名词短语（the error message）作宾语。
 
-5. **中文**：例句中包含“set up”。  
-   **英文**：The example included "set up".
-   > **解析**：本题在单元主题情境中复习表达 set up。
+5. **中文**：设置新的在线邮箱账户只需要五分钟。  
+   **英文**：It takes only five minutes to set up your new online email account for button.
+   > **解析**：set up 是动词短语，意为“设置、安装、创建”。在网络服务中常指进行初始设定（set up an account）。
 
-6. **中文**：我询问了“smartphone”。  
-   **英文**：I asked about "smartphone".
-   > **解析**：本题在单元主题情境中复习表达 smartphone。
+6. **中文**：你可以使用智能手机轻松查询火车时刻表。  
+   **英文**：You can easily check the train schedule using your smartphone for connect.
+   > **解析**：smartphone 为可数名词，意为“智能手机”。在技术主题中，常作介词 using 或 with 的宾语。
 
-7. **中文**：我们在句子中用到了“username”。  
-   **英文**：We used "username" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 username。
+7. **中文**：请输入您注册的用户名和密码登录网站。  
+   **英文**：Please enter your registered username and password to log in to the website for cost.
+   > **解析**：username 为可数名词，意为“用户名”，是网络登录时的凭证名称，常与 password 连用。
 
-8. **中文**：朋友重复了“attach”。  
-   **英文**：My friend repeated "attach".
-   > **解析**：本题在单元主题情境中复习表达 attach。
+8. **中文**：发邮件前别忘了附上所要求的报告文件。  
+   **英文**：Don't forget to attach the requested report to your email before sending it (dot com).
+   > **解析**：attach 为及物动词，意为“附上、附加”。在电子公文及邮件语境中，常用结构 attach A to B（把A附在B上）。
 
-9. **中文**：后来，我记住了“connect”。  
-   **英文**：Later, I remembered "connect".
-   > **解析**：本题在单元主题情境中复习表达 connect。
+9. **中文**：计算机未能连接上图书馆的无线网络。  
+   **英文**：The computer failed to connect to the Wi-Fi network in the library for follow.
+   > **解析**：connect 是动词，意为“连接”。常见结构为 connect to sth.（连接到某网络或设备）。
 
-10. **中文**：这个小故事以“look”收尾。  
-   **英文**：The short story ended with "look".
-   > **解析**：本题在单元主题情境中复习表达 look。
+10. **中文**：我会在官方网站上查找这些技术定义。  
+   **英文**：I will look up the technical definitions on the official website.
+   > **解析**：look 短语 look up 意为“在参考书或网络中查阅（信息）”，结构为 look up sth. 或 look sth. up。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "accidentally".
-   > **中文**：在这个情境中，我听到了“accidentally”。
-2. My partner explained "button".
-   > **中文**：同伴解释了“button”。
-3. We talked about "dot com" together.
-   > **中文**：我们一起谈到了“dot com”。
-4. I wrote down "notice".
-   > **中文**：我记下了“notice”。
-5. The example included "set up".
-   > **中文**：例句中包含“set up”。
-6. I asked about "smartphone".
-   > **中文**：我询问了“smartphone”。
-7. We used "username" in a sentence.
-   > **中文**：我们在句子中用到了“username”。
-8. My friend repeated "attach".
-   > **中文**：朋友重复了“attach”。
-9. Later, I remembered "connect".
-   > **中文**：后来，我记住了“connect”。
-10. The short story ended with "look".
-   > **中文**：这个小故事以“look”收尾。
+1. I accidentally deleted the document while searching for the file online.
+   > **中文**：我在网上搜索文件时，不小心删除了该文档。
+
+2. Click the blue button at the bottom of the page to submit your application for attach.
+   > **中文**：点击页面底部的蓝色按钮提交你的申请。
+
+3. Many tech start-ups registered their company names with a dot com domain for back.
+   > **中文**：许多科技初创公司都使用 dot com 域名注册了公司名称。
+
+4. Did you notice the error message when you tried to open the web page? (back up).
+   > **中文**：当你尝试打开网页时，有注意到错误提示信息吗？
+
+5. It takes only five minutes to set up your new online email account for button.
+   > **中文**：设置新的在线邮箱账户只需要五分钟。
+
+6. You can easily check the train schedule using your smartphone for connect.
+   > **中文**：你可以使用智能手机轻松查询火车时刻表。
+
+7. Please enter your registered username and password to log in to the website for cost.
+   > **中文**：请输入您注册的用户名和密码登录网站。
+
+8. Don't forget to attach the requested report to your email before sending it (dot com).
+   > **中文**：发邮件前别忘了附上所要求的报告文件。
+
+9. The computer failed to connect to the Wi-Fi network in the library for follow.
+   > **中文**：计算机未能连接上图书馆的无线网络。
+
+10. I will look up the technical definitions on the official website.
+   > **中文**：我会在官方网站上查找这些技术定义。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ phrasal verbs（短语动词）是本单元重点：plug in, set up, sign up, ba
 
 ### 1
 
-In this situation, I heard "`____`".
+I `____` deleted the document while searching for the file online.
 
 - [x] accidentally
-- [ ] notice
-- [ ] username
+- [ ] back up
+- [ ] cost
 
-> **解析**：本题在单元主题情境中复习表达 accidentally。
+> **解析**：accidentally 是副词，意为“偶然地、意外地”，在此处修饰动词 deleted，说明动作发生的非故意性。
 
 ### 2
 
-My partner explained "`____`".
+Click the blue button at the bottom of the page to submit your application for `____`.
 
-- [x] button
-- [ ] set up
-- [ ] attach
+- [x] attach
+- [ ] button
+- [ ] dot com
 
-> **解析**：本题在单元主题情境中复习表达 button。
+> **解析**：button 为可数名词，意为“按钮”。在网页或软件界面中，常见搭配 click the button（点击按钮）。
 
 ### 3
 
-We talked about "`____`" together.
+Many tech start-ups registered their company names with a dot com domain for `____`.
 
-- [x] dot com
-- [ ] smartphone
+- [x] back
 - [ ] connect
+- [ ] follow
 
-> **解析**：本题在单元主题情境中复习表达 dot com。
+> **解析**：dot com（.com）在互联网语境中指商业域名后缀，常用于形容网络商业公司或网址结尾。
 
 ### 4
 
-I wrote down "`____`".
+Did you notice the error message when you tried to open the web page? (`____`).
 
-- [x] notice
-- [ ] username
+- [x] back up
+- [ ] cost
 - [ ] look
 
-> **解析**：本题在单元主题情境中复习表达 notice。
+> **解析**：notice 是及物动词，意为“注意到、察觉到”。后面直接接名词或名词短语（the error message）作宾语。
 
 ### 5
 
-The example included "`____`".
+It takes only five minutes to set up your new online email account for `____`.
 
-- [x] set up
-- [ ] attach
+- [x] button
+- [ ] dot com
 - [ ] accidentally
 
-> **解析**：本题在单元主题情境中复习表达 set up。
+> **解析**：set up 是动词短语，意为“设置、安装、创建”。在网络服务中常指进行初始设定（set up an account）。
 
 ### 6
 
-I asked about "`____`".
+You can easily check the train schedule using your smartphone for `____`.
 
-- [x] smartphone
-- [ ] connect
-- [ ] button
+- [x] connect
+- [ ] follow
+- [ ] attach
 
-> **解析**：本题在单元主题情境中复习表达 smartphone。
+> **解析**：smartphone 为可数名词，意为“智能手机”。在技术主题中，常作介词 using 或 with 的宾语。
 
 ### 7
 
-We used "`____`" in a sentence.
+Please enter your registered username and password to log in to the website for `____`.
 
-- [x] username
+- [x] cost
 - [ ] look
-- [ ] dot com
+- [ ] back
 
-> **解析**：本题在单元主题情境中复习表达 username。
+> **解析**：username 为可数名词，意为“用户名”，是网络登录时的凭证名称，常与 password 连用。
 
 ### 8
 
-My friend repeated "`____`".
+Don't forget to attach the requested report to your email before sending it (`____`).
 
-- [x] attach
+- [x] dot com
 - [ ] accidentally
-- [ ] notice
+- [ ] back up
 
-> **解析**：本题在单元主题情境中复习表达 attach。
+> **解析**：attach 为及物动词，意为“附上、附加”。在电子公文及邮件语境中，常用结构 attach A to B（把A附在B上）。
 
 ### 9
 
-Later, I remembered "`____`".
+The computer failed to connect to the Wi-Fi network in the library for `____`.
 
-- [x] connect
+- [x] follow
+- [ ] attach
 - [ ] button
-- [ ] set up
 
-> **解析**：本题在单元主题情境中复习表达 connect。
+> **解析**：connect 是动词，意为“连接”。常见结构为 connect to sth.（连接到某网络或设备）。
 
 ### 10
 
-The short story ended with "`____`".
+I will `____` up the technical definitions on the official website.
 
 - [x] look
-- [ ] dot com
-- [ ] smartphone
+- [ ] back
+- [ ] connect
 
-> **解析**：本题在单元主题情境中复习表达 look。
+> **解析**：look 短语 look up 意为“在参考书或网络中查阅（信息）”，结构为 look up sth. 或 look sth. up。
 
 </quiz-cloze>

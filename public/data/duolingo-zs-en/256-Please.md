@@ -79,70 +79,79 @@ too much to ask（要求太过分）、inconvenient（不方便）、trouble（�
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“alternatively”。  
-   **英文**：In this situation, I heard "alternatively".
-   > **解析**：本题在单元主题情境中复习表达 alternatively。
+1. **中文**：我出差期间，您是否愿意考虑照顾一下我的猫？  
+   **英文**：Would you consider taking care of my cat while I am out of town? for alternatively.
+   > **解析**：`Would you consider doing sth` 是极其礼貌委婉的提议/请求句型。
 
-2. **中文**：同伴解释了“gardening”。  
-   **英文**：My partner explained "gardening".
-   > **解析**：本题在单元主题情境中复习表达 gardening。
+2. **中文**：我的邻居主动提出这周末帮我浇花园。  
+   **英文**：My neighbor offered to help out with watering my garden this weekend for ever.
+   > **解析**：`help out` 是短语动词，意为“帮忙、分担难题”。
 
-3. **中文**：我们一起谈到了“inconvenient”。  
-   **英文**：We talked about "inconvenient" together.
-   > **解析**：本题在单元主题情境中复习表达 inconvenient。
+3. **中文**：如果您需要任何协助，请毫不犹豫地给我打电话。  
+   **英文**：Please do not hesitate to call me if you need any assistance for favor.
+   > **解析**：`hesitate` 作不及物动词，固定搭配 `do not hesitate to do sth`。
 
-4. **中文**：我记下了“of me”。  
-   **英文**：I wrote down "of me".
-   > **解析**：本题在单元主题情境中复习表达 of me。
+4. **中文**：下次你需要帮忙搬家时，我一定会还你这个人情。  
+   **英文**：I will definitely return the favor next time you need help with moving for figure.
+   > **解析**：`return the favor` 是固定短语，意为“报答恩情、还人情”。
 
-5. **中文**：例句中包含“rearrange”。  
-   **英文**：The example included "rearrange".
-   > **解析**：本题在单元主题情境中复习表达 rearrange。
+5. **中文**：我们非常希望你能来参加晚宴，但如果你忙的话也没关系，不要有压力。  
+   **英文**：We would love to have you at the dinner party, but no pressure if you're busy for gardening.
+   > **解析**：`no pressure` 是口语贴心表达，意为“没有压力、不必勉强”。
 
-6. **中文**：我询问了“thoughtful”。  
-   **英文**：I asked about "thoughtful".
-   > **解析**：本题在单元主题情境中复习表达 thoughtful。
+6. **中文**：如果明天早上开会不方便的话，请告诉我。  
+   **英文**：Let me know if tomorrow morning is inconvenient for our meeting (help out).
+   > **解析**：`inconvenient` 是形容词，意为“不方便的、麻烦的”，作表语。
 
-7. **中文**：我们在句子中用到了“wait”。  
-   **英文**：We used "wait" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 wait。
+7. **中文**：我明天请你吃午饭，以弥补我今天迟到的过失。  
+   **英文**：I will buy you lunch tomorrow to make up for my late arrival today for hesitate.
+   > **解析**：`make up for sth` 是固定短语动词，意为“弥补、补偿”。
 
-8. **中文**：朋友重复了“ever”。  
-   **英文**：My friend repeated "ever".
-   > **解析**：本题在单元主题情境中复习表达 ever。
+8. **中文**：我想知道您是否能把梯子借给我用几个小时。  
+   **英文**：I was wondering if you could lend me your ladder for a few hours for inconvenient.
+   > **解析**：`I was wondering if...` 是非常地道和有礼貌的请求句型。
 
-9. **中文**：后来，我记住了“help out”。  
-   **英文**：Later, I remembered "help out".
-   > **解析**：本题在单元主题情境中复习表达 help out。
+9. **中文**：戴维斯先生因公出差在外地，直到下周四才回来。  
+   **英文**：Mr. Davis will be out of town on business until next Thursday (make up for).
+   > **解析**：`out of town` 是介词短语，意为“在出差/不在城里”。
 
-10. **中文**：这个小故事以“might you”收尾。  
-   **英文**：The short story ended with "might you".
-   > **解析**：本题在单元主题情境中复习表达 might you。
+10. **中文**：有没有可能把我们的预约改期到周三下午？  
+   **英文**：Is it possible to rearrange our appointment to Wednesday afternoon? (might you).
+   > **解析**：`rearrange` 作动词，意为“重新安排、改期”，宾语为 `appointment`。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "alternatively".
-   > **中文**：在这个情境中，我听到了“alternatively”。
-2. My partner explained "gardening".
-   > **中文**：同伴解释了“gardening”。
-3. We talked about "inconvenient" together.
-   > **中文**：我们一起谈到了“inconvenient”。
-4. I wrote down "of me".
-   > **中文**：我记下了“of me”。
-5. The example included "rearrange".
-   > **中文**：例句中包含“rearrange”。
-6. I asked about "thoughtful".
-   > **中文**：我询问了“thoughtful”。
-7. We used "wait" in a sentence.
-   > **中文**：我们在句子中用到了“wait”。
-8. My friend repeated "ever".
-   > **中文**：朋友重复了“ever”。
-9. Later, I remembered "help out".
-   > **中文**：后来，我记住了“help out”。
-10. The short story ended with "might you".
-   > **中文**：这个小故事以“might you”收尾。
+1. Would you consider taking care of my cat while I am out of town? for alternatively.
+   > **中文**：我出差期间，您是否愿意考虑照顾一下我的猫？
+
+2. My neighbor offered to help out with watering my garden this weekend for ever.
+   > **中文**：我的邻居主动提出这周末帮我浇花园。
+
+3. Please do not hesitate to call me if you need any assistance for favor.
+   > **中文**：如果您需要任何协助，请毫不犹豫地给我打电话。
+
+4. I will definitely return the favor next time you need help with moving for figure.
+   > **中文**：下次你需要帮忙搬家时，我一定会还你这个人情。
+
+5. We would love to have you at the dinner party, but no pressure if you're busy for gardening.
+   > **中文**：我们非常希望你能来参加晚宴，但如果你忙的话也没关系，不要有压力。
+
+6. Let me know if tomorrow morning is inconvenient for our meeting (help out).
+   > **中文**：如果明天早上开会不方便的话，请告诉我。
+
+7. I will buy you lunch tomorrow to make up for my late arrival today for hesitate.
+   > **中文**：我明天请你吃午饭，以弥补我今天迟到的过失。
+
+8. I was wondering if you could lend me your ladder for a few hours for inconvenient.
+   > **中文**：我想知道您是否能把梯子借给我用几个小时。
+
+9. Mr. Davis will be out of town on business until next Thursday (make up for).
+   > **中文**：戴维斯先生因公出差在外地，直到下周四才回来。
+
+10. Is it possible to rearrange our appointment to Wednesday afternoon? (might you).
+   > **中文**：有没有可能把我们的预约改期到周三下午？
 
 </quiz-listening>
 
@@ -154,102 +163,102 @@ too much to ask（要求太过分）、inconvenient（不方便）、trouble（�
 
 ### 1
 
-In this situation, I heard "`____`".
+Would you consider taking care of my cat while I am out of town? for `____`.
 
 - [x] alternatively
-- [ ] of me
-- [ ] wait
+- [ ] figure
+- [ ] hesitate
 
-> **解析**：本题在单元主题情境中复习表达 alternatively。
+> **解析**：`Would you consider doing sth` 是极其礼貌委婉的提议/请求句型。
 
 ### 2
 
-My partner explained "`____`".
+My neighbor offered to help out with watering my garden this weekend for `____`.
 
-- [x] gardening
-- [ ] rearrange
-- [ ] ever
+- [x] ever
+- [ ] gardening
+- [ ] inconvenient
 
-> **解析**：本题在单元主题情境中复习表达 gardening。
+> **解析**：`help out` 是短语动词，意为“帮忙、分担难题”。
 
 ### 3
 
-We talked about "`____`" together.
+Please do not hesitate to call me if you need any assistance for `____`.
 
-- [x] inconvenient
-- [ ] thoughtful
+- [x] favor
 - [ ] help out
+- [ ] make up for
 
-> **解析**：本题在单元主题情境中复习表达 inconvenient。
+> **解析**：`hesitate` 作不及物动词，固定搭配 `do not hesitate to do sth`。
 
 ### 4
 
-I wrote down "`____`".
+I will definitely return the favor next time you need help with moving for `____`.
 
-- [x] of me
-- [ ] wait
+- [x] figure
+- [ ] hesitate
 - [ ] might you
 
-> **解析**：本题在单元主题情境中复习表达 of me。
+> **解析**：`return the favor` 是固定短语，意为“报答恩情、还人情”。
 
 ### 5
 
-The example included "`____`".
+We would love to have you at the dinner party, but no pressure if you're busy for `____`.
 
-- [x] rearrange
-- [ ] ever
+- [x] gardening
+- [ ] inconvenient
 - [ ] alternatively
 
-> **解析**：本题在单元主题情境中复习表达 rearrange。
+> **解析**：`no pressure` 是口语贴心表达，意为“没有压力、不必勉强”。
 
 ### 6
 
-I asked about "`____`".
+Let me know if tomorrow morning is inconvenient for our meeting (`____`).
 
-- [x] thoughtful
-- [ ] help out
-- [ ] gardening
+- [x] help out
+- [ ] make up for
+- [ ] ever
 
-> **解析**：本题在单元主题情境中复习表达 thoughtful。
+> **解析**：`inconvenient` 是形容词，意为“不方便的、麻烦的”，作表语。
 
 ### 7
 
-We used "`____`" in a sentence.
+I will buy you lunch tomorrow to make up for my late arrival today for `____`.
 
-- [x] wait
+- [x] hesitate
 - [ ] might you
-- [ ] inconvenient
+- [ ] favor
 
-> **解析**：本题在单元主题情境中复习表达 wait。
+> **解析**：`make up for sth` 是固定短语动词，意为“弥补、补偿”。
 
 ### 8
 
-My friend repeated "`____`".
+I was wondering if you could lend me your ladder for a few hours for `____`.
 
-- [x] ever
+- [x] inconvenient
 - [ ] alternatively
-- [ ] of me
+- [ ] figure
 
-> **解析**：本题在单元主题情境中复习表达 ever。
+> **解析**：`I was wondering if...` 是非常地道和有礼貌的请求句型。
 
 ### 9
 
-Later, I remembered "`____`".
+Mr. Davis will be out of town on business until next Thursday (`____`).
 
-- [x] help out
+- [x] make up for
+- [ ] ever
 - [ ] gardening
-- [ ] rearrange
 
-> **解析**：本题在单元主题情境中复习表达 help out。
+> **解析**：`out of town` 是介词短语，意为“在出差/不在城里”。
 
 ### 10
 
-The short story ended with "`____`".
+Is it possible to rearrange our appointment to Wednesday afternoon? (`____`).
 
 - [x] might you
-- [ ] inconvenient
-- [ ] thoughtful
+- [ ] favor
+- [ ] help out
 
-> **解析**：本题在单元主题情境中复习表达 might you。
+> **解析**：`rearrange` 作动词，意为“重新安排、改期”，宾语为 `appointment`。
 
 </quiz-cloze>

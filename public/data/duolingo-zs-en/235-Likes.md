@@ -63,70 +63,79 @@ appealing, appropriately, by, can't get enough of, can't wait, catch up, don't, 
 
 <quiz-sentence-builder>
 
-1. **中文**：谈论喜好时，我听到了“appealing”。  
-   **英文**：When we talked about favorites, I heard "appealing".
-   > **解析**：本题在单元主题情境中复习表达 appealing。
+1. **中文**：温暖的灯光和木质家具使你的客厅看起来极其吸引人。  
+   **英文**：The warm lighting and wooden furniture make your living room look immensely appealing.
+   > **解析**：`appealing` 形容词，意为“有吸引力的；动人的”。在系动词 `look` 后作表语。
 
-2. **中文**：朋友说“catch up”很重要。  
-   **英文**：My friend said "catch up" was important.
-   > **解析**：本题在单元主题情境中复习表达 catch up。
+2. **中文**：请进坐下；我们有好多近况要叙旧/交流！  
+   **英文**：Please come inside and sit down; we have so much to catch up on for appropriately.
+   > **解析**：`catch up on sth.` 动词短语，意为“叙旧；跟上（近况/消息）”。
 
-3. **中文**：我问他们喜欢哪一个：“homemade”。  
-   **英文**：I asked which one they liked: "homemade".
-   > **解析**：本题在单元主题情境中复习表达 homemade。
+3. **中文**：谢谢你邀请我们；这道美味的自制苹果派太棒了！  
+   **英文**：Thank you for inviting us; this delicious homemade apple pie is fantastic for by.
+   > **解析**：`homemade` 形容词，意为“自制的；家常的”。
 
-4. **中文**：聊天时，我们比较了“in style”。  
-   **英文**：In our chat, we compared "in style".
-   > **解析**：本题在单元主题情境中复习表达 in style。
+4. **中文**：你把新公寓装饰得非常有品味/风格高雅，每面墙上都有优雅的艺术品。  
+   **英文**：You decorated your new apartment in style, with elegant art pieces on every wall (can't get enough of).
+   > **解析**：`in style` 介词短语作状语/表语，意为“有品味的；时髦地；富有风格地”。
 
-5. **中文**：同伴先选择了“miss out”。  
-   **英文**：My partner chose "miss out" first.
-   > **解析**：本题在单元主题情境中复习表达 miss out。
+5. **中文**：你不应该错过探索后院漂亮花园的机会。  
+   **英文**：You shouldn't miss out on exploring the lovely garden in the backyard (can't wait).
+   > **解析**：`miss out on sth.` 动词短语，意为“错过（好机会、乐趣等）”。
 
-6. **中文**：我们用“sounds”描述喜好。  
-   **英文**：We used "sounds" to describe a favorite.
-   > **解析**：本题在单元主题情境中复习表达 sounds。
+6. **中文**：下周日举办暖房烧烤听起来是个极好的主意！  
+   **英文**：Hosting a housewarming barbecue next Sunday sounds like a wonderful idea (catch up).
+   > **解析**：`sounds` 连系动词 `sound` 的第三人称单数，搭配 `sound like + 名词`（听起来像……）。
 
-7. **中文**：答案中包含“up to”。  
-   **英文**：The answer included "up to".
-   > **解析**：本题在单元主题情境中复习表达 up to。
+7. **中文**：自从搬进这栋宽敞的郊区房子后，你最近都在忙些什么？  
+   **英文**：What have you been up to since moving into this spacious suburban home? (don't).
+   > **解析**：`be up to sth.` 为习惯短语，意为“在忙于做某事；从事”。问句 `What have you been up to?` 为常用问候语。
 
-8. **中文**：我从对话中记住了“appropriately”。  
-   **英文**：I remembered "appropriately" from the conversation.
-   > **解析**：本题在单元主题情境中复习表达 appropriately。
+8. **中文**：所有色彩鲜艳的靠垫都摆放得恰到好处，以衬托沙发的设计。  
+   **英文**：All the colorful cushions are placed appropriately to complement the sofa design for entertaining.
+   > **解析**：`appropriately` 副词，意为“合适地；恰当地”，修饰动词 `placed`。
 
-9. **中文**：朋友微笑着重复了“don't”。  
-   **英文**：My friend repeated "don't" with a smile.
-   > **解析**：本题在单元主题情境中复习表达 don't。
+9. **中文**：如果你需要续茶，请随时开口，不必犹豫。  
+   **英文**：Don't hesitate to ask if you need a refill for your tea for homemade.
+   > **解析**：`don't` 助动词否定形式，用于否定祈使句开头（`don't hesitate`）。
 
-10. **中文**：那场关于喜好的聊天以“how”收尾。  
-   **英文**：That chat about favorites ended with "how".
-   > **解析**：本题在单元主题情境中复习表达 how。
+10. **中文**：你新翻修的厨房感觉是多么舒适和温馨啊！  
+   **英文**：How cozy and welcoming your newly renovated kitchen feels for housewarming.
+   > **解析**：`how` 引导感叹句，结构为 `How + 形容词 + 主语 + 谓语！`，用以极力夸赞和赞美。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. When we talked about favorites, I heard "appealing".
-   > **中文**：谈论喜好时，我听到了“appealing”。
-2. My friend said "catch up" was important.
-   > **中文**：朋友说“catch up”很重要。
-3. I asked which one they liked: "homemade".
-   > **中文**：我问他们喜欢哪一个：“homemade”。
-4. In our chat, we compared "in style".
-   > **中文**：聊天时，我们比较了“in style”。
-5. My partner chose "miss out" first.
-   > **中文**：同伴先选择了“miss out”。
-6. We used "sounds" to describe a favorite.
-   > **中文**：我们用“sounds”描述喜好。
-7. The answer included "up to".
-   > **中文**：答案中包含“up to”。
-8. I remembered "appropriately" from the conversation.
-   > **中文**：我从对话中记住了“appropriately”。
-9. My friend repeated "don't" with a smile.
-   > **中文**：朋友微笑着重复了“don't”。
-10. That chat about favorites ended with "how".
-   > **中文**：那场关于喜好的聊天以“how”收尾。
+1. The warm lighting and wooden furniture make your living room look immensely appealing.
+   > **中文**：温暖的灯光和木质家具使你的客厅看起来极其吸引人。
+
+2. Please come inside and sit down; we have so much to catch up on for appropriately.
+   > **中文**：请进坐下；我们有好多近况要叙旧/交流！
+
+3. Thank you for inviting us; this delicious homemade apple pie is fantastic for by.
+   > **中文**：谢谢你邀请我们；这道美味的自制苹果派太棒了！
+
+4. You decorated your new apartment in style, with elegant art pieces on every wall (can't get enough of).
+   > **中文**：你把新公寓装饰得非常有品味/风格高雅，每面墙上都有优雅的艺术品。
+
+5. You shouldn't miss out on exploring the lovely garden in the backyard (can't wait).
+   > **中文**：你不应该错过探索后院漂亮花园的机会。
+
+6. Hosting a housewarming barbecue next Sunday sounds like a wonderful idea (catch up).
+   > **中文**：下周日举办暖房烧烤听起来是个极好的主意！
+
+7. What have you been up to since moving into this spacious suburban home? (don't).
+   > **中文**：自从搬进这栋宽敞的郊区房子后，你最近都在忙些什么？
+
+8. All the colorful cushions are placed appropriately to complement the sofa design for entertaining.
+   > **中文**：所有色彩鲜艳的靠垫都摆放得恰到好处，以衬托沙发的设计。
+
+9. Don't hesitate to ask if you need a refill for your tea for homemade.
+   > **中文**：如果你需要续茶，请随时开口，不必犹豫。
+
+10. How cozy and welcoming your newly renovated kitchen feels for housewarming.
+   > **中文**：你新翻修的厨房感觉是多么舒适和温馨啊！
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ appealing, appropriately, by, can't get enough of, can't wait, catch up, don't, 
 
 ### 1
 
-When we talked about favorites, I heard "`____`".
+The warm lighting and wooden furniture make your living room look immensely `____`.
 
 - [x] appealing
-- [ ] in style
-- [ ] up to
+- [ ] can't get enough of
+- [ ] don't
 
-> **解析**：本题在单元主题情境中复习表达 appealing。
+> **解析**：`appealing` 形容词，意为“有吸引力的；动人的”。在系动词 `look` 后作表语。
 
 ### 2
 
-My friend said "`____`" was important.
+Please come inside and sit down; we have so much to catch up on for `____`.
 
-- [x] catch up
-- [ ] miss out
-- [ ] appropriately
+- [x] appropriately
+- [ ] can't wait
+- [ ] entertaining
 
-> **解析**：本题在单元主题情境中复习表达 catch up。
+> **解析**：`catch up on sth.` 动词短语，意为“叙旧；跟上（近况/消息）”。
 
 ### 3
 
-I asked which one they liked: "`____`".
+Thank you for inviting us; this delicious homemade apple pie is fantastic for `____`.
 
-- [x] homemade
-- [ ] sounds
-- [ ] don't
+- [x] by
+- [ ] catch up
+- [ ] homemade
 
-> **解析**：本题在单元主题情境中复习表达 homemade。
+> **解析**：`homemade` 形容词，意为“自制的；家常的”。
 
 ### 4
 
-In our chat, we compared "`____`".
+You decorated your new apartment in style, with elegant art pieces on every wall (`____`).
 
-- [x] in style
-- [ ] up to
-- [ ] how
+- [x] can't get enough of
+- [ ] don't
+- [ ] housewarming
 
-> **解析**：本题在单元主题情境中复习表达 in style。
+> **解析**：`in style` 介词短语作状语/表语，意为“有品味的；时髦地；富有风格地”。
 
 ### 5
 
-My partner chose "`____`" first.
+You shouldn't miss out on exploring the lovely garden in the backyard (`____`).
 
-- [x] miss out
-- [ ] appropriately
+- [x] can't wait
+- [ ] entertaining
 - [ ] appealing
 
-> **解析**：本题在单元主题情境中复习表达 miss out。
+> **解析**：`miss out on sth.` 动词短语，意为“错过（好机会、乐趣等）”。
 
 ### 6
 
-We used "`____`" to describe a favorite.
+Hosting a housewarming barbecue next Sunday sounds like a wonderful idea (`____`).
 
-- [x] sounds
-- [ ] don't
-- [ ] catch up
+- [x] catch up
+- [ ] homemade
+- [ ] appropriately
 
-> **解析**：本题在单元主题情境中复习表达 sounds。
+> **解析**：`sounds` 连系动词 `sound` 的第三人称单数，搭配 `sound like + 名词`（听起来像……）。
 
 ### 7
 
-The answer included "`____`".
+What have you been up to since moving into this spacious suburban home? (`____`).
 
-- [x] up to
-- [ ] how
-- [ ] homemade
+- [x] don't
+- [ ] housewarming
+- [ ] by
 
-> **解析**：本题在单元主题情境中复习表达 up to。
+> **解析**：`be up to sth.` 为习惯短语，意为“在忙于做某事；从事”。问句 `What have you been up to?` 为常用问候语。
 
 ### 8
 
-I remembered "`____`" from the conversation.
+All the colorful cushions are placed appropriately to complement the sofa design for `____`.
 
-- [x] appropriately
+- [x] entertaining
 - [ ] appealing
-- [ ] in style
+- [ ] can't get enough of
 
-> **解析**：本题在单元主题情境中复习表达 appropriately。
+> **解析**：`appropriately` 副词，意为“合适地；恰当地”，修饰动词 `placed`。
 
 ### 9
 
-My friend repeated "`____`" with a smile.
+Don't hesitate to ask if you need a refill for your tea for `____`.
 
-- [x] don't
-- [ ] catch up
-- [ ] miss out
+- [x] homemade
+- [ ] appropriately
+- [ ] can't wait
 
-> **解析**：本题在单元主题情境中复习表达 don't。
+> **解析**：`don't` 助动词否定形式，用于否定祈使句开头（`don't hesitate`）。
 
 ### 10
 
-That chat about favorites ended with "`____`".
+How cozy and welcoming your newly renovated kitchen feels for `____`.
 
-- [x] how
-- [ ] homemade
-- [ ] sounds
+- [x] housewarming
+- [ ] by
+- [ ] catch up
 
-> **解析**：本题在单元主题情境中复习表达 how。
+> **解析**：`how` 引导感叹句，结构为 `How + 形容词 + 主语 + 谓语！`，用以极力夸赞和赞美。
 
 </quiz-cloze>

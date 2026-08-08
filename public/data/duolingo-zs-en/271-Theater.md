@@ -63,70 +63,79 @@ almost a, almost all, audition, chances are, critic, full house, highly, impress
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“almost a”。  
-   **英文**：In this situation, I heard "almost a".
-   > **解析**：本题在单元主题情境中复习表达 almost a。
+1. **中文**：在音乐剧女主角的试镜前，她感到非常紧张。  
+   **英文**：She was nervous before her audition for the lead role in the musical (almost a).
+   > **解析**：`audition` 在此用作名词，意为“试镜、试演”。常用搭配 `audition for + 角色` 表示“参加某角色的试镜”，在句中作介词 `before` 的宾语。
 
-2. **中文**：同伴解释了“chances are”。  
-   **英文**：My partner explained "chances are".
-   > **解析**：本题在单元主题情境中复习表达 chances are。
+2. **中文**：那个年轻演员在走上舞台前成功克服了怯场情绪。  
+   **英文**：The young actor managed to overcome his stage fright before stepping onto the stage (almost all).
+   > **解析**：`stage fright` 是由名词组合成的复合名词，意为“怯场、舞台恐惧”，属于不可数名词。动词短语 `overcome stage fright` 表示“克服怯场”。
 
-3. **中文**：我们一起谈到了“impressed”。  
-   **英文**：We talked about "impressed" together.
-   > **解析**：本题在单元主题情境中复习表达 impressed。
+3. **中文**：剧院在首演之夜座无虚席，因为门票很快就售罄了。  
+   **英文**：The theater had a full house on opening night because the tickets sold out fast for audition.
+   > **解析**：`full house` 是名词短语，在戏剧语境中意为“全场爆满、座无虚席”，其中 `house` 特指“观众席”。
 
-4. **中文**：我记下了“might not be”。  
-   **英文**：I wrote down "might not be".
-   > **解析**：本题在单元主题情境中复习表达 might not be。
+4. **中文**：剧组里的每个人都对这部新剧的首演之夜感到无比兴奋。  
+   **英文**：Everyone in the cast was excited for the opening night of the new play (chances are).
+   > **解析**：`opening night` 指戏剧或表演的“首演之夜”，作介词 `for` 的宾语。固定搭配 `on opening night` 表示“在首演之夜”。
 
-5. **中文**：例句中包含“production”。  
-   **英文**：The example included "production".
-   > **解析**：本题在单元主题情境中复习表达 production。
+5. **中文**：戏剧社今年很可能会赢得地区比赛。  
+   **英文**：Chances are that the drama club will win the regional competition this year for critic.
+   > **解析**：`chances are (that)...` 是口语中高频使用的推测句式，意为“很可能……”，后接同位语从句表达可能性或推测。
 
-6. **中文**：我询问了“script”。  
-   **英文**：I asked about "script".
-   > **解析**：本题在单元主题情境中复习表达 script。
+6. **中文**：他们在彩排中花了四个小时来完善动作和台词。  
+   **英文**：They spent four hours at the dress rehearsal perfecting their movement and lines (full house).
+   > **解析**：`rehearsal` 是名词，意为“排练、彩排”，动词形式为 `rehearse`。短语 `dress rehearsal` 特指“带妆彩排”。
 
-7. **中文**：我们在句子中用到了“stage fright”。  
-   **英文**：We used "stage fright" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 stage fright。
+7. **中文**：他在最后一次排练前背熟了剧本里的每一句台词。  
+   **英文**：He memorized every single line in the script before the final rehearsal for highly.
+   > **解析**：`script` 指戏剧或电影的“剧本”，在句中作介词 `in` 的宾语。搭配 `lines in the script` 表示“剧本中的台词”。
 
-8. **中文**：朋友重复了“almost all”。  
-   **英文**：My friend repeated "almost all".
-   > **解析**：本题在单元主题情境中复习表达 almost all。
+8. **中文**：这位著名的戏剧评论家赞扬了这位年轻女演员充满情感的表演。  
+   **英文**：The famous theater critic praised the young actress for her emotional performance for impressed.
+   > **解析**：`critic` 是可数名词，意为“评论家、批评家”。注意与形容词 `critical`（批评的）及名词 `criticism`（批评）的区别。
 
-9. **中文**：后来，我记住了“full house”。  
-   **英文**：Later, I remembered "full house".
-   > **解析**：本题在单元主题情境中复习表达 full house。
+9. **中文**：导演对她在试镜期间表现出的自然自信留下了深刻印象。  
+   **英文**：The director was highly impressed by her natural confidence during the audition for line.
+   > **解析**：`impressed` 是形容词，意为“印象深刻的”。固定搭配 `be impressed by/with...` 表示“对……印象深刻”，副词 `highly` 作状语修饰形容词。
 
-10. **中文**：这个小故事以“line”收尾。  
-   **英文**：The short story ended with "line".
-   > **解析**：本题在单元主题情境中复习表达 line。
+10. **中文**：她一走出来，聚光灯就跟着她在舞台上移动。  
+   **英文**：As soon as she walked out, the spotlight followed her across the stage (may be).
+   > **解析**：`spotlight` 指舞台上的“聚光灯”，由 `spot`（地点/点）与 `light`（灯光）复合而成。引申表达 `in the spotlight` 表示“成为焦点”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "almost a".
-   > **中文**：在这个情境中，我听到了“almost a”。
-2. My partner explained "chances are".
-   > **中文**：同伴解释了“chances are”。
-3. We talked about "impressed" together.
-   > **中文**：我们一起谈到了“impressed”。
-4. I wrote down "might not be".
-   > **中文**：我记下了“might not be”。
-5. The example included "production".
-   > **中文**：例句中包含“production”。
-6. I asked about "script".
-   > **中文**：我询问了“script”。
-7. We used "stage fright" in a sentence.
-   > **中文**：我们在句子中用到了“stage fright”。
-8. My friend repeated "almost all".
-   > **中文**：朋友重复了“almost all”。
-9. Later, I remembered "full house".
-   > **中文**：后来，我记住了“full house”。
-10. The short story ended with "line".
-   > **中文**：这个小故事以“line”收尾。
+1. She was nervous before her audition for the lead role in the musical (almost a).
+   > **中文**：在音乐剧女主角的试镜前，她感到非常紧张。
+
+2. The young actor managed to overcome his stage fright before stepping onto the stage (almost all).
+   > **中文**：那个年轻演员在走上舞台前成功克服了怯场情绪。
+
+3. The theater had a full house on opening night because the tickets sold out fast for audition.
+   > **中文**：剧院在首演之夜座无虚席，因为门票很快就售罄了。
+
+4. Everyone in the cast was excited for the opening night of the new play (chances are).
+   > **中文**：剧组里的每个人都对这部新剧的首演之夜感到无比兴奋。
+
+5. Chances are that the drama club will win the regional competition this year for critic.
+   > **中文**：戏剧社今年很可能会赢得地区比赛。
+
+6. They spent four hours at the dress rehearsal perfecting their movement and lines (full house).
+   > **中文**：他们在彩排中花了四个小时来完善动作和台词。
+
+7. He memorized every single line in the script before the final rehearsal for highly.
+   > **中文**：他在最后一次排练前背熟了剧本里的每一句台词。
+
+8. The famous theater critic praised the young actress for her emotional performance for impressed.
+   > **中文**：这位著名的戏剧评论家赞扬了这位年轻女演员充满情感的表演。
+
+9. The director was highly impressed by her natural confidence during the audition for line.
+   > **中文**：导演对她在试镜期间表现出的自然自信留下了深刻印象。
+
+10. As soon as she walked out, the spotlight followed her across the stage (may be).
+   > **中文**：她一走出来，聚光灯就跟着她在舞台上移动。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ almost a, almost all, audition, chances are, critic, full house, highly, impress
 
 ### 1
 
-In this situation, I heard "`____`".
+She was nervous before her audition for the lead role in the musical (`____`).
 
 - [x] almost a
-- [ ] might not be
-- [ ] stage fright
+- [ ] chances are
+- [ ] highly
 
-> **解析**：本题在单元主题情境中复习表达 almost a。
+> **解析**：`audition` 在此用作名词，意为“试镜、试演”。常用搭配 `audition for + 角色` 表示“参加某角色的试镜”，在句中作介词 `before` 的宾语。
 
 ### 2
 
-My partner explained "`____`".
+The young actor managed to overcome his stage fright before stepping onto the stage (`____`).
 
-- [x] chances are
-- [ ] production
-- [ ] almost all
+- [x] almost all
+- [ ] critic
+- [ ] impressed
 
-> **解析**：本题在单元主题情境中复习表达 chances are。
+> **解析**：`stage fright` 是由名词组合成的复合名词，意为“怯场、舞台恐惧”，属于不可数名词。动词短语 `overcome stage fright` 表示“克服怯场”。
 
 ### 3
 
-We talked about "`____`" together.
+The theater had a full house on opening night because the tickets sold out fast for `____`.
 
-- [x] impressed
-- [ ] script
+- [x] audition
 - [ ] full house
+- [ ] line
 
-> **解析**：本题在单元主题情境中复习表达 impressed。
+> **解析**：`full house` 是名词短语，在戏剧语境中意为“全场爆满、座无虚席”，其中 `house` 特指“观众席”。
 
 ### 4
 
-I wrote down "`____`".
+Everyone in the cast was excited for the opening night of the new play (`____`).
 
-- [x] might not be
-- [ ] stage fright
-- [ ] line
+- [x] chances are
+- [ ] highly
+- [ ] may be
 
-> **解析**：本题在单元主题情境中复习表达 might not be。
+> **解析**：`opening night` 指戏剧或表演的“首演之夜”，作介词 `for` 的宾语。固定搭配 `on opening night` 表示“在首演之夜”。
 
 ### 5
 
-The example included "`____`".
+Chances are that the drama club will win the regional competition this year for `____`.
 
-- [x] production
-- [ ] almost all
+- [x] critic
+- [ ] impressed
 - [ ] almost a
 
-> **解析**：本题在单元主题情境中复习表达 production。
+> **解析**：`chances are (that)...` 是口语中高频使用的推测句式，意为“很可能……”，后接同位语从句表达可能性或推测。
 
 ### 6
 
-I asked about "`____`".
+They spent four hours at the dress rehearsal perfecting their movement and lines (`____`).
 
-- [x] script
-- [ ] full house
-- [ ] chances are
+- [x] full house
+- [ ] line
+- [ ] almost all
 
-> **解析**：本题在单元主题情境中复习表达 script。
+> **解析**：`rehearsal` 是名词，意为“排练、彩排”，动词形式为 `rehearse`。短语 `dress rehearsal` 特指“带妆彩排”。
 
 ### 7
 
-We used "`____`" in a sentence.
+He memorized every single line in the script before the final rehearsal for `____`.
 
-- [x] stage fright
-- [ ] line
-- [ ] impressed
+- [x] highly
+- [ ] may be
+- [ ] audition
 
-> **解析**：本题在单元主题情境中复习表达 stage fright。
+> **解析**：`script` 指戏剧或电影的“剧本”，在句中作介词 `in` 的宾语。搭配 `lines in the script` 表示“剧本中的台词”。
 
 ### 8
 
-My friend repeated "`____`".
+The famous theater critic praised the young actress for her emotional performance for `____`.
 
-- [x] almost all
+- [x] impressed
 - [ ] almost a
-- [ ] might not be
+- [ ] chances are
 
-> **解析**：本题在单元主题情境中复习表达 almost all。
+> **解析**：`critic` 是可数名词，意为“评论家、批评家”。注意与形容词 `critical`（批评的）及名词 `criticism`（批评）的区别。
 
 ### 9
 
-Later, I remembered "`____`".
+The director was highly impressed by her natural confidence during the audition for `____`.
 
-- [x] full house
-- [ ] chances are
-- [ ] production
+- [x] line
+- [ ] almost all
+- [ ] critic
 
-> **解析**：本题在单元主题情境中复习表达 full house。
+> **解析**：`impressed` 是形容词，意为“印象深刻的”。固定搭配 `be impressed by/with...` 表示“对……印象深刻”，副词 `highly` 作状语修饰形容词。
 
 ### 10
 
-The short story ended with "`____`".
+As soon as she walked out, the spotlight followed her across the stage (`____`).
 
-- [x] line
-- [ ] impressed
-- [ ] script
+- [x] may be
+- [ ] audition
+- [ ] full house
 
-> **解析**：本题在单元主题情境中复习表达 line。
+> **解析**：`spotlight` 指舞台上的“聚光灯”，由 `spot`（地点/点）与 `light`（灯光）复合而成。引申表达 `in the spotlight` 表示“成为焦点”。
 
 </quiz-cloze>

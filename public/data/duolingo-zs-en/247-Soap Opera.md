@@ -81,70 +81,79 @@ hooked on（上瘾）、rewatch（重看）表达观剧热情。affair（婚外�
 
 <quiz-sentence-builder>
 
-1. **中文**：在家里，我们谈到了“affair”。  
-   **英文**：At home, we talked about "affair".
-   > **解析**：本题在单元主题情境中复习表达 affair。
+1. **中文**：这部电视剧的季终集出现了一个震惊观众的戏剧性剧情转折。  
+   **英文**：The finale of the TV show featured a dramatic plot twist that shocked audience for affair.
+   > **解析**：`dramatic` 是形容词，意为“戏剧性的、引人注目的”，修饰 `plot twist`。
 
-2. **中文**：家人提到了“cemetery”。  
-   **英文**：My family mentioned "cemetery".
-   > **解析**：本题在单元主题情境中复习表达 cemetery。
+2. **中文**：在昨天的剧集中，反派向所有人透露了他的真实身份。  
+   **英文**：In yesterday's episode, the villain revealed his true identity to everyone for anyhow.
+   > **解析**：`reveal` 作及物动词，意为“揭露、透露”，宾语为 `his true identity`。
 
-3. **中文**：在房间里，我注意到了“greedy”。  
-   **英文**：In the room, I noticed "greedy".
-   > **解析**：本题在单元主题情境中复习表达 greedy。
+3. **中文**：我妈妈完全沉迷于这部新的西班牙肥皂剧。  
+   **英文**：My mother is completely hooked on this new Spanish soap opera (capable of).
+   > **解析**：`be hooked on sth` 是口语表达，意为“对……沉迷/上瘾”。
 
-4. **中文**：我们在家里用到了“on the surface”。  
-   **英文**：We used "on the surface" at home.
-   > **解析**：本题在单元主题情境中复习表达 on the surface。
+4. **中文**：主角试图欺骗她的丈夫以守护她的秘密。  
+   **英文**：The main character tried to deceive her husband to protect her secret for cast.
+   > **解析**：`deceive` 作及物动词，意为“欺骗、误导”，后接宾语 `her husband`。
 
-5. **中文**：邻居询问了“reveal”。  
-   **英文**：My neighbor asked about "reveal".
-   > **解析**：本题在单元主题情境中复习表达 reveal。
+5. **中文**：每部经典戏剧都需要一个引人入胜的反派角色来推动剧情发展。  
+   **英文**：Every classic drama needs a compelling villain to drive the storyline for cemetery.
+   > **解析**：`villain` 是名词，意为“反派角色、坏人”，与 `hero` 相对。
 
-6. **中文**：我在门边写下了“some guy”。  
-   **英文**：I wrote down "some guy" by the door.
-   > **解析**：本题在单元主题情境中复习表达 some guy。
+6. **中文**：关于他地下私情的丑闻毁掉了那位政治家的事业。  
+   **英文**：The scandal about his secret affair ruined the politician's career for deceive.
+   > **解析**：`affair` 此处指“婚外情、桃色丑闻”，作名词。
 
-7. **中文**：晚饭后，我们重复了“villain”。  
-   **英文**：After dinner, we repeated "villain".
-   > **解析**：本题在单元主题情境中复习表达 villain。
+7. **中文**：尽管遭遇了所有背叛，保镖依然忠诚于老板。  
+   **英文**：Despite all the betrayal, the bodyguard remained loyal to the boss for dramatic.
+   > **解析**：`loyal` 是形容词，意为“忠诚的”，搭配 `be/remain loyal to sb`。
 
-8. **中文**：家庭故事里包含“anyhow”。  
-   **英文**：The family story included "anyhow".
-   > **解析**：本题在单元主题情境中复习表达 anyhow。
+8. **中文**：表面上看，他们似乎是一对幸福的伴侣，但实际上他们不断争吵。  
+   **英文**：On the surface, they seem like a happy couple, but they argue constantly for greedy.
+   > **解析**：`on the surface` 是介词短语，意为“在表面上、表面看来”，引出对比。
 
-9. **中文**：睡前，我记住了“deceive”。  
-   **英文**：Before bed, I remembered "deceive".
-   > **解析**：本题在单元主题情境中复习表达 deceive。
+9. **中文**：没人相信那个文静的医生有能力犯下罪行。  
+   **英文**：Nobody believed that quiet doctor was capable of committing a crime (hooked on).
+   > **解析**：`be capable of doing sth` 是固定短语，意为“有能力做某事/干出某事”。
 
-10. **中文**：那个夜晚以“kind of like”收尾。  
-   **英文**：That evening ended with "kind of like".
-   > **解析**：本题在单元主题情境中复习表达 kind of like。
+10. **中文**：恐吓者威胁说要在网上公开保密照片。  
+   **英文**：The blackmailer threatened to release the confidential photos online (kind of like).
+   > **解析**：`threaten` 作动词，意为“威胁、恐吓”，搭配 `threaten to do sth`。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At home, we talked about "affair".
-   > **中文**：在家里，我们谈到了“affair”。
-2. My family mentioned "cemetery".
-   > **中文**：家人提到了“cemetery”。
-3. In the room, I noticed "greedy".
-   > **中文**：在房间里，我注意到了“greedy”。
-4. We used "on the surface" at home.
-   > **中文**：我们在家里用到了“on the surface”。
-5. My neighbor asked about "reveal".
-   > **中文**：邻居询问了“reveal”。
-6. I wrote down "some guy" by the door.
-   > **中文**：我在门边写下了“some guy”。
-7. After dinner, we repeated "villain".
-   > **中文**：晚饭后，我们重复了“villain”。
-8. The family story included "anyhow".
-   > **中文**：家庭故事里包含“anyhow”。
-9. Before bed, I remembered "deceive".
-   > **中文**：睡前，我记住了“deceive”。
-10. That evening ended with "kind of like".
-   > **中文**：那个夜晚以“kind of like”收尾。
+1. The finale of the TV show featured a dramatic plot twist that shocked audience for affair.
+   > **中文**：这部电视剧的季终集出现了一个震惊观众的戏剧性剧情转折。
+
+2. In yesterday's episode, the villain revealed his true identity to everyone for anyhow.
+   > **中文**：在昨天的剧集中，反派向所有人透露了他的真实身份。
+
+3. My mother is completely hooked on this new Spanish soap opera (capable of).
+   > **中文**：我妈妈完全沉迷于这部新的西班牙肥皂剧。
+
+4. The main character tried to deceive her husband to protect her secret for cast.
+   > **中文**：主角试图欺骗她的丈夫以守护她的秘密。
+
+5. Every classic drama needs a compelling villain to drive the storyline for cemetery.
+   > **中文**：每部经典戏剧都需要一个引人入胜的反派角色来推动剧情发展。
+
+6. The scandal about his secret affair ruined the politician's career for deceive.
+   > **中文**：关于他地下私情的丑闻毁掉了那位政治家的事业。
+
+7. Despite all the betrayal, the bodyguard remained loyal to the boss for dramatic.
+   > **中文**：尽管遭遇了所有背叛，保镖依然忠诚于老板。
+
+8. On the surface, they seem like a happy couple, but they argue constantly for greedy.
+   > **中文**：表面上看，他们似乎是一对幸福的伴侣，但实际上他们不断争吵。
+
+9. Nobody believed that quiet doctor was capable of committing a crime (hooked on).
+   > **中文**：没人相信那个文静的医生有能力犯下罪行。
+
+10. The blackmailer threatened to release the confidential photos online (kind of like).
+   > **中文**：恐吓者威胁说要在网上公开保密照片。
 
 </quiz-listening>
 
@@ -156,102 +165,102 @@ hooked on（上瘾）、rewatch（重看）表达观剧热情。affair（婚外�
 
 ### 1
 
-At home, we talked about "`____`".
+The finale of the TV show featured a dramatic plot twist that shocked audience for `____`.
 
 - [x] affair
-- [ ] on the surface
-- [ ] villain
+- [ ] cast
+- [ ] dramatic
 
-> **解析**：本题在单元主题情境中复习表达 affair。
+> **解析**：`dramatic` 是形容词，意为“戏剧性的、引人注目的”，修饰 `plot twist`。
 
 ### 2
 
-My family mentioned "`____`".
+In yesterday's episode, the villain revealed his true identity to everyone for `____`.
 
-- [x] cemetery
-- [ ] reveal
-- [ ] anyhow
+- [x] anyhow
+- [ ] cemetery
+- [ ] greedy
 
-> **解析**：本题在单元主题情境中复习表达 cemetery。
+> **解析**：`reveal` 作及物动词，意为“揭露、透露”，宾语为 `his true identity`。
 
 ### 3
 
-In the room, I noticed "`____`".
+My mother is completely hooked on this new Spanish soap opera (`____`).
 
-- [x] greedy
-- [ ] some guy
+- [x] capable of
 - [ ] deceive
+- [ ] hooked on
 
-> **解析**：本题在单元主题情境中复习表达 greedy。
+> **解析**：`be hooked on sth` 是口语表达，意为“对……沉迷/上瘾”。
 
 ### 4
 
-We used "`____`" at home.
+The main character tried to deceive her husband to protect her secret for `____`.
 
-- [x] on the surface
-- [ ] villain
+- [x] cast
+- [ ] dramatic
 - [ ] kind of like
 
-> **解析**：本题在单元主题情境中复习表达 on the surface。
+> **解析**：`deceive` 作及物动词，意为“欺骗、误导”，后接宾语 `her husband`。
 
 ### 5
 
-My neighbor asked about "`____`".
+Every classic drama needs a compelling villain to drive the storyline for `____`.
 
-- [x] reveal
-- [ ] anyhow
+- [x] cemetery
+- [ ] greedy
 - [ ] affair
 
-> **解析**：本题在单元主题情境中复习表达 reveal。
+> **解析**：`villain` 是名词，意为“反派角色、坏人”，与 `hero` 相对。
 
 ### 6
 
-I wrote down "`____`" by the door.
+The scandal about his secret affair ruined the politician's career for `____`.
 
-- [x] some guy
-- [ ] deceive
-- [ ] cemetery
+- [x] deceive
+- [ ] hooked on
+- [ ] anyhow
 
-> **解析**：本题在单元主题情境中复习表达 some guy。
+> **解析**：`affair` 此处指“婚外情、桃色丑闻”，作名词。
 
 ### 7
 
-After dinner, we repeated "`____`".
+Despite all the betrayal, the bodyguard remained loyal to the boss for `____`.
 
-- [x] villain
+- [x] dramatic
 - [ ] kind of like
-- [ ] greedy
+- [ ] capable of
 
-> **解析**：本题在单元主题情境中复习表达 villain。
+> **解析**：`loyal` 是形容词，意为“忠诚的”，搭配 `be/remain loyal to sb`。
 
 ### 8
 
-The family story included "`____`".
+On the surface, they seem like a happy couple, but they argue constantly for `____`.
 
-- [x] anyhow
+- [x] greedy
 - [ ] affair
-- [ ] on the surface
+- [ ] cast
 
-> **解析**：本题在单元主题情境中复习表达 anyhow。
+> **解析**：`on the surface` 是介词短语，意为“在表面上、表面看来”，引出对比。
 
 ### 9
 
-Before bed, I remembered "`____`".
+Nobody believed that quiet doctor was capable of committing a crime (`____`).
 
-- [x] deceive
+- [x] hooked on
+- [ ] anyhow
 - [ ] cemetery
-- [ ] reveal
 
-> **解析**：本题在单元主题情境中复习表达 deceive。
+> **解析**：`be capable of doing sth` 是固定短语，意为“有能力做某事/干出某事”。
 
 ### 10
 
-That evening ended with "`____`".
+The blackmailer threatened to release the confidential photos online (`____`).
 
 - [x] kind of like
-- [ ] greedy
-- [ ] some guy
+- [ ] capable of
+- [ ] deceive
 
-> **解析**：本题在单元主题情境中复习表达 kind of like。
+> **解析**：`threaten` 作动词，意为“威胁、恐吓”，搭配 `threaten to do sth`。
 
 </quiz-cloze>

@@ -51,70 +51,79 @@ have been 是现在完成时（Have you been here before? / I have been to this 
 
 <quiz-sentence-builder>
 
-1. **中文**：在餐厅里，我询问了“a side of”。  
-   **英文**：At the restaurant, I asked about "a side of".
-   > **解析**：本题在单元主题情境中复习表达 a side of。
+1. **中文**：在等餐时，我们点了一盘大蒜面包作为开胃菜。  
+   **英文**：We ordered a plate of garlic bread as an appetizer while waiting for our meals (a side of).
+   > **解析**：appetizer 可数名词，意为“开胃菜；前菜”（美式），英式为 starter。
 
-2. **中文**：菜单上有“appetizer”。  
-   **英文**：The menu included "appetizer".
-   > **解析**：本题在单元主题情境中复习表达 appetizer。
+2. **中文**：主菜她选择了配芦笋的烤三文鱼。  
+   **英文**：For the main course, she chose the grilled salmon served with asparagus (angry that).
+   > **解析**：main course 名词短语，意为“主菜”。
 
-3. **中文**：在餐桌旁，我们谈到了“bit”。  
-   **英文**：At the table, we talked about "bit".
-   > **解析**：本题在单元主题情境中复习表达 bit。
+3. **中文**：我的牛排想要配一份烤土豆副菜。  
+   **英文**：I would like to order a side of roasted potatoes with my steak for any.
+   > **解析**：a side of ... 短语，意为“一份……配菜/副菜”。
 
-4. **中文**：厨师提到了“have been”。  
-   **英文**：The cook mentioned "have been".
-   > **解析**：本题在单元主题情境中复习表达 have been。
+4. **中文**：如果您对乳制品过敏，请告知服务员。  
+   **英文**：Please let the server know if you have an allergy to dairy products for appetizer.
+   > **解析**：dairy 不可数名词/形容词，意为“乳制品；牛奶的”。
 
-5. **中文**：晚餐我点了“napkin”。  
-   **英文**：I ordered "napkin" for dinner.
-   > **解析**：本题在单元主题情境中复习表达 napkin。
+5. **中文**：这家餐厅很大方，因为每道餐份量都很大。  
+   **英文**：The restaurant is generous because each meal comes with a large portion for award.
+   > **解析**：portion 可数名词，在此指“（食物的）一份；份量”。
 
-6. **中文**：我的朋友选择了“portion”。  
-   **英文**：My friend chose "portion".
-   > **解析**：本题在单元主题情境中复习表达 portion。
+6. **中文**：索要额外沙拉酱需要额外收费吗？  
+   **英文**：Is there an extra charge for requesting extra salad dressing? for be.
+   > **解析**：charge 可数/不可数名词，在此意为“费用；收费”；也可作动词。
 
-7. **中文**：服务员重复了“should”。  
-   **英文**：The waiter repeated "should".
-   > **解析**：本题在单元主题情境中复习表达 should。
+7. **中文**：开始就餐前，他把布餐巾放在了大腿上。  
+   **英文**：He placed the cloth napkin on his lap before starting his dinner for been.
+   > **解析**：napkin 可数名词，意为“餐巾；餐巾纸”。
 
-8. **中文**：我们分享了一个关于“any”的故事。  
-   **英文**：We shared a story about "any".
-   > **解析**：本题在单元主题情境中复习表达 any。
+8. **中文**：我们一到达就被礼貌地引座到窗边。  
+   **英文**：We were politely seated by the window as soon as we arrived for bit.
+   > **解析**：seated 动词 seat 的过去分词，常用 be seated 表示“入座；被引座”。
 
-9. **中文**：饭后，我记住了“been”。  
-   **英文**：After the meal, I remembered "been".
-   > **解析**：本题在单元主题情境中复习表达 been。
+9. **中文**：你有没有注意到菜单上是否包含无麸质选择？  
+   **英文**：Did you notice whether the menu includes any gluten-free options? for charge.
+   > **解析**：notice 及物动词，意为“注意到；察觉到”。
 
-10. **中文**：那顿饭以“dairy”收尾。  
-   **英文**：That meal ended with "dairy".
-   > **解析**：本题在单元主题情境中复习表达 dairy。
+10. **中文**：食客因为他的牛排全熟且放凉了而感到生气。  
+   **英文**：The diner was angry that his steak was overcooked and cold for dairy.
+   > **解析**：be angry that ... 引导从句，意为“因……感到生气”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the restaurant, I asked about "a side of".
-   > **中文**：在餐厅里，我询问了“a side of”。
-2. The menu included "appetizer".
-   > **中文**：菜单上有“appetizer”。
-3. At the table, we talked about "bit".
-   > **中文**：在餐桌旁，我们谈到了“bit”。
-4. The cook mentioned "have been".
-   > **中文**：厨师提到了“have been”。
-5. I ordered "napkin" for dinner.
-   > **中文**：晚餐我点了“napkin”。
-6. My friend chose "portion".
-   > **中文**：我的朋友选择了“portion”。
-7. The waiter repeated "should".
-   > **中文**：服务员重复了“should”。
-8. We shared a story about "any".
-   > **中文**：我们分享了一个关于“any”的故事。
-9. After the meal, I remembered "been".
-   > **中文**：饭后，我记住了“been”。
-10. That meal ended with "dairy".
-   > **中文**：那顿饭以“dairy”收尾。
+1. We ordered a plate of garlic bread as an appetizer while waiting for our meals (a side of).
+   > **中文**：在等餐时，我们点了一盘大蒜面包作为开胃菜。
+
+2. For the main course, she chose the grilled salmon served with asparagus (angry that).
+   > **中文**：主菜她选择了配芦笋的烤三文鱼。
+
+3. I would like to order a side of roasted potatoes with my steak for any.
+   > **中文**：我的牛排想要配一份烤土豆副菜。
+
+4. Please let the server know if you have an allergy to dairy products for appetizer.
+   > **中文**：如果您对乳制品过敏，请告知服务员。
+
+5. The restaurant is generous because each meal comes with a large portion for award.
+   > **中文**：这家餐厅很大方，因为每道餐份量都很大。
+
+6. Is there an extra charge for requesting extra salad dressing? for be.
+   > **中文**：索要额外沙拉酱需要额外收费吗？
+
+7. He placed the cloth napkin on his lap before starting his dinner for been.
+   > **中文**：开始就餐前，他把布餐巾放在了大腿上。
+
+8. We were politely seated by the window as soon as we arrived for bit.
+   > **中文**：我们一到达就被礼貌地引座到窗边。
+
+9. Did you notice whether the menu includes any gluten-free options? for charge.
+   > **中文**：你有没有注意到菜单上是否包含无麸质选择？
+
+10. The diner was angry that his steak was overcooked and cold for dairy.
+   > **中文**：食客因为他的牛排全熟且放凉了而感到生气。
 
 </quiz-listening>
 
@@ -126,102 +135,102 @@ have been 是现在完成时（Have you been here before? / I have been to this 
 
 ### 1
 
-At the restaurant, I asked about "`____`".
+We ordered a plate of garlic bread as an appetizer while waiting for our meals (`____`).
 
 - [x] a side of
-- [ ] have been
-- [ ] should
+- [ ] appetizer
+- [ ] been
 
-> **解析**：本题在单元主题情境中复习表达 a side of。
+> **解析**：appetizer 可数名词，意为“开胃菜；前菜”（美式），英式为 starter。
 
 ### 2
 
-The menu included "`____`".
+For the main course, she chose the grilled salmon served with asparagus (`____`).
 
-- [x] appetizer
-- [ ] napkin
-- [ ] any
+- [x] angry that
+- [ ] award
+- [ ] bit
 
-> **解析**：本题在单元主题情境中复习表达 appetizer。
+> **解析**：main course 名词短语，意为“主菜”。
 
 ### 3
 
-At the table, we talked about "`____`".
+I would like to order a side of roasted potatoes with my steak for `____`.
 
-- [x] bit
-- [ ] portion
-- [ ] been
+- [x] any
+- [ ] be
+- [ ] charge
 
-> **解析**：本题在单元主题情境中复习表达 bit。
+> **解析**：a side of ... 短语，意为“一份……配菜/副菜”。
 
 ### 4
 
-The cook mentioned "`____`".
+Please let the server know if you have an allergy to dairy products for `____`.
 
-- [x] have been
-- [ ] should
+- [x] appetizer
+- [ ] been
 - [ ] dairy
 
-> **解析**：本题在单元主题情境中复习表达 have been。
+> **解析**：dairy 不可数名词/形容词，意为“乳制品；牛奶的”。
 
 ### 5
 
-I ordered "`____`" for dinner.
+The restaurant is generous because each meal comes with a large portion for `____`.
 
-- [x] napkin
-- [ ] any
+- [x] award
+- [ ] bit
 - [ ] a side of
 
-> **解析**：本题在单元主题情境中复习表达 napkin。
+> **解析**：portion 可数名词，在此指“（食物的）一份；份量”。
 
 ### 6
 
-My friend chose "`____`".
+Is there an extra charge for requesting extra salad dressing? for `____`.
 
-- [x] portion
-- [ ] been
-- [ ] appetizer
+- [x] be
+- [ ] charge
+- [ ] angry that
 
-> **解析**：本题在单元主题情境中复习表达 portion。
+> **解析**：charge 可数/不可数名词，在此意为“费用；收费”；也可作动词。
 
 ### 7
 
-The waiter repeated "`____`".
+He placed the cloth napkin on his lap before starting his dinner for `____`.
 
-- [x] should
+- [x] been
 - [ ] dairy
-- [ ] bit
+- [ ] any
 
-> **解析**：本题在单元主题情境中复习表达 should。
+> **解析**：napkin 可数名词，意为“餐巾；餐巾纸”。
 
 ### 8
 
-We shared a story about "`____`".
+We were politely seated by the window as soon as we arrived for `____`.
 
-- [x] any
+- [x] bit
 - [ ] a side of
-- [ ] have been
+- [ ] appetizer
 
-> **解析**：本题在单元主题情境中复习表达 any。
+> **解析**：seated 动词 seat 的过去分词，常用 be seated 表示“入座；被引座”。
 
 ### 9
 
-After the meal, I remembered "`____`".
+Did you notice whether the menu includes any gluten-free options? for `____`.
 
-- [x] been
-- [ ] appetizer
-- [ ] napkin
+- [x] charge
+- [ ] angry that
+- [ ] award
 
-> **解析**：本题在单元主题情境中复习表达 been。
+> **解析**：notice 及物动词，意为“注意到；察觉到”。
 
 ### 10
 
-That meal ended with "`____`".
+The diner was angry that his steak was overcooked and cold for `____`.
 
 - [x] dairy
-- [ ] bit
-- [ ] portion
+- [ ] any
+- [ ] be
 
-> **解析**：本题在单元主题情境中复习表达 dairy。
+> **解析**：be angry that ... 引导从句，意为“因……感到生气”。
 
 </quiz-cloze>

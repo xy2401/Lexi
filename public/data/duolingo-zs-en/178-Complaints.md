@@ -55,70 +55,79 @@ apology, besides, blame, disappointed, disappointing, end up, end up in, fault, 
 
 <quiz-sentence-builder>
 
-1. **中文**：课堂上，老师介绍了“apology”。  
-   **英文**：In class, the teacher introduced "apology".
-   > **解析**：本题在单元主题情境中复习表达 apology。
+1. **中文**：店经理就其员工的不礼貌行为做出了真诚的道歉。  
+   **英文**：The store manager offered a sincere apology for the rude behavior of his staff.
+   > **解析**：apology 为可数名词，意为“道歉、致歉”。offer/make an apology 意为“做出道歉”。
 
-2. **中文**：我把“disappointing”写进笔记本。  
-   **英文**：I wrote "disappointing" in my notebook.
-   > **解析**：本题在单元主题情境中复习表达 disappointing。
+2. **中文**：客服的回应极其令人失望，未能解决我的问题。  
+   **英文**：The customer service response was extremely disappointing and failed to solve my issue for besides.
+   > **解析**：disappointing 为形容词，意为“令人失望的”，修饰事物或回复（response was disappointing）。
 
-3. **中文**：同学解释了“hang”。  
-   **英文**：My classmate explained "hang".
-   > **解析**：本题在单元主题情境中复习表达 hang。
+3. **中文**：请你挂好大衣并调小喧闹的音乐好吗？  
+   **英文**：Could you hang up your coat and turn down the loud music, please? for blame.
+   > **解析**：hang 为动词，意为“悬挂”。hang up 意为“挂起（衣物）”或“挂断（电话）”。
 
-4. **中文**：我们一起练习了“out-of-date”。  
-   **英文**：We practiced "out-of-date" together.
-   > **解析**：本题在单元主题情境中复习表达 out-of-date。
+4. **中文**：我要求更换，因为所提供的牛奶完全过期了。  
+   **英文**：I requested a replacement because the milk supplied was completely out-of-date for disappointed.
+   > **解析**：out-of-date 为复合形容词，意为“过期的、过时的”，在句中作表语（was out-of-date）。
 
-5. **中文**：作业里包含“refund”。  
-   **英文**：The homework included "refund".
-   > **解析**：本题在单元主题情境中复习表达 refund。
+5. **中文**：如果产品有缺陷，您有权要求全额退款。  
+   **英文**：If the product is defective, you are entitled to ask for a full refund for disappointing.
+   > **解析**：refund 为可数名词，意为“退款”。ask for a refund 意为“要求退款”。
 
-6. **中文**：我向老师询问了“take”。  
-   **英文**：I asked the teacher about "take".
-   > **解析**：本题在单元主题情境中复习表达 take。
+6. **中文**：服务员承诺把未煮熟的牛排带回厨房。  
+   **英文**：The waiter promised to take the uncooked steak back to the kitchen (end up).
+   > **解析**：take 为及物动词，意为“拿走、带去”。take sth. back 意为“拿回/带回”。
 
-7. **中文**：上课时，我听到了“turn up”。  
-   **英文**：During the lesson, I heard "turn up".
-   > **解析**：本题在单元主题情境中复习表达 turn up。
+7. **中文**：深夜请你不要把电视音量调得那么高好吗？  
+   **英文**：Could you please not turn up the TV volume so high late at night? (end up in).
+   > **解析**：turn up 为动词短语，意为“调大（声音/温度等）”，反义短语为 turn down。
 
-8. **中文**：学习伙伴记住了“besides”。  
-   **英文**：My study partner remembered "besides".
-   > **解析**：本题在单元主题情境中复习表达 besides。
+8. **中文**：食物端上来是凉的；此外，我们等主菜等了一个多小时。  
+   **英文**：The food was served cold; besides, we waited for over an hour for our main course for fault.
+   > **解析**：besides 为副词，意为“此外、况且”，用于补充提出额外的投诉理由。
 
-9. **中文**：我们在例句中用到了“end up”。  
-   **英文**：We used "end up" in an example.
-   > **解析**：本题在单元主题情境中复习表达 end up。
+9. **中文**：如果你不调整供暖系统，我们最终将支付巨额电费。  
+   **英文**：If you don't adjust the heating system, we will end up paying a huge electric bill for hang.
+   > **解析**：end up 为动词短语，意为“最终处于、最终落得”，后可接动名词（end up paying）。
 
-10. **中文**：下课后，我复习了“hang up”。  
-   **英文**：After class, I reviewed "hang up".
-   > **解析**：本题在单元主题情境中复习表达 hang up。
+10. **中文**：在我试图解释投诉时，请不要挂断我的电话！  
+   **英文**：Please don't hang up on me while I am trying to explain the complaint!
+   > **解析**：hang up 为动词短语，hang up on sb. 意为“挂断某人的电话”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In class, the teacher introduced "apology".
-   > **中文**：课堂上，老师介绍了“apology”。
-2. I wrote "disappointing" in my notebook.
-   > **中文**：我把“disappointing”写进笔记本。
-3. My classmate explained "hang".
-   > **中文**：同学解释了“hang”。
-4. We practiced "out-of-date" together.
-   > **中文**：我们一起练习了“out-of-date”。
-5. The homework included "refund".
-   > **中文**：作业里包含“refund”。
-6. I asked the teacher about "take".
-   > **中文**：我向老师询问了“take”。
-7. During the lesson, I heard "turn up".
-   > **中文**：上课时，我听到了“turn up”。
-8. My study partner remembered "besides".
-   > **中文**：学习伙伴记住了“besides”。
-9. We used "end up" in an example.
-   > **中文**：我们在例句中用到了“end up”。
-10. After class, I reviewed "hang up".
-   > **中文**：下课后，我复习了“hang up”。
+1. The store manager offered a sincere apology for the rude behavior of his staff.
+   > **中文**：店经理就其员工的不礼貌行为做出了真诚的道歉。
+
+2. The customer service response was extremely disappointing and failed to solve my issue for besides.
+   > **中文**：客服的回应极其令人失望，未能解决我的问题。
+
+3. Could you hang up your coat and turn down the loud music, please? for blame.
+   > **中文**：请你挂好大衣并调小喧闹的音乐好吗？
+
+4. I requested a replacement because the milk supplied was completely out-of-date for disappointed.
+   > **中文**：我要求更换，因为所提供的牛奶完全过期了。
+
+5. If the product is defective, you are entitled to ask for a full refund for disappointing.
+   > **中文**：如果产品有缺陷，您有权要求全额退款。
+
+6. The waiter promised to take the uncooked steak back to the kitchen (end up).
+   > **中文**：服务员承诺把未煮熟的牛排带回厨房。
+
+7. Could you please not turn up the TV volume so high late at night? (end up in).
+   > **中文**：深夜请你不要把电视音量调得那么高好吗？
+
+8. The food was served cold; besides, we waited for over an hour for our main course for fault.
+   > **中文**：食物端上来是凉的；此外，我们等主菜等了一个多小时。
+
+9. If you don't adjust the heating system, we will end up paying a huge electric bill for hang.
+   > **中文**：如果你不调整供暖系统，我们最终将支付巨额电费。
+
+10. Please don't hang up on me while I am trying to explain the complaint!
+   > **中文**：在我试图解释投诉时，请不要挂断我的电话！
 
 </quiz-listening>
 
@@ -130,102 +139,102 @@ apology, besides, blame, disappointed, disappointing, end up, end up in, fault, 
 
 ### 1
 
-In class, the teacher introduced "`____`".
+The store manager offered a sincere `____` for the rude behavior of his staff.
 
 - [x] apology
-- [ ] out-of-date
-- [ ] turn up
+- [ ] disappointed
+- [ ] end up in
 
-> **解析**：本题在单元主题情境中复习表达 apology。
+> **解析**：apology 为可数名词，意为“道歉、致歉”。offer/make an apology 意为“做出道歉”。
 
 ### 2
 
-I wrote "`____`" in my notebook.
+The customer service response was extremely disappointing and failed to solve my issue for `____`.
 
-- [x] disappointing
-- [ ] refund
-- [ ] besides
+- [x] besides
+- [ ] disappointing
+- [ ] fault
 
-> **解析**：本题在单元主题情境中复习表达 disappointing。
+> **解析**：disappointing 为形容词，意为“令人失望的”，修饰事物或回复（response was disappointing）。
 
 ### 3
 
-My classmate explained "`____`".
+Could you hang up your coat and turn down the loud music, please? for `____`.
 
-- [x] hang
-- [ ] take
+- [x] blame
 - [ ] end up
+- [ ] hang
 
-> **解析**：本题在单元主题情境中复习表达 hang。
+> **解析**：hang 为动词，意为“悬挂”。hang up 意为“挂起（衣物）”或“挂断（电话）”。
 
 ### 4
 
-We practiced "`____`" together.
+I requested a replacement because the milk supplied was completely out-of-date for `____`.
 
-- [x] out-of-date
-- [ ] turn up
+- [x] disappointed
+- [ ] end up in
 - [ ] hang up
 
-> **解析**：本题在单元主题情境中复习表达 out-of-date。
+> **解析**：out-of-date 为复合形容词，意为“过期的、过时的”，在句中作表语（was out-of-date）。
 
 ### 5
 
-The homework included "`____`".
+If the product is defective, you are entitled to ask for a full refund for `____`.
 
-- [x] refund
-- [ ] besides
+- [x] disappointing
+- [ ] fault
 - [ ] apology
 
-> **解析**：本题在单元主题情境中复习表达 refund。
+> **解析**：refund 为可数名词，意为“退款”。ask for a refund 意为“要求退款”。
 
 ### 6
 
-I asked the teacher about "`____`".
+The waiter promised to take the uncooked steak back to the kitchen (`____`).
 
-- [x] take
-- [ ] end up
-- [ ] disappointing
+- [x] end up
+- [ ] hang
+- [ ] besides
 
-> **解析**：本题在单元主题情境中复习表达 take。
+> **解析**：take 为及物动词，意为“拿走、带去”。take sth. back 意为“拿回/带回”。
 
 ### 7
 
-During the lesson, I heard "`____`".
+Could you please not turn up the TV volume so high late at night? (`____`).
 
-- [x] turn up
+- [x] end up in
 - [ ] hang up
-- [ ] hang
+- [ ] blame
 
-> **解析**：本题在单元主题情境中复习表达 turn up。
+> **解析**：turn up 为动词短语，意为“调大（声音/温度等）”，反义短语为 turn down。
 
 ### 8
 
-My study partner remembered "`____`".
+The food was served cold; besides, we waited for over an hour for our main course for `____`.
 
-- [x] besides
+- [x] fault
 - [ ] apology
-- [ ] out-of-date
+- [ ] disappointed
 
-> **解析**：本题在单元主题情境中复习表达 besides。
+> **解析**：besides 为副词，意为“此外、况且”，用于补充提出额外的投诉理由。
 
 ### 9
 
-We used "`____`" in an example.
+If you don't adjust the heating system, we will end up paying a huge electric bill for `____`.
 
-- [x] end up
+- [x] hang
+- [ ] besides
 - [ ] disappointing
-- [ ] refund
 
-> **解析**：本题在单元主题情境中复习表达 end up。
+> **解析**：end up 为动词短语，意为“最终处于、最终落得”，后可接动名词（end up paying）。
 
 ### 10
 
-After class, I reviewed "`____`".
+Please don't `____` on me while I am trying to explain the complaint!
 
 - [x] hang up
-- [ ] hang
-- [ ] take
+- [ ] blame
+- [ ] end up
 
-> **解析**：本题在单元主题情境中复习表达 hang up。
+> **解析**：hang up 为动词短语，hang up on sb. 意为“挂断某人的电话”。
 
 </quiz-cloze>

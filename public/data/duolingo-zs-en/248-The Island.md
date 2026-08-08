@@ -81,70 +81,79 @@ despite the fact that / in spite of / in spite of the fact that 是三个表"尽
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“aircraft”。  
-   **英文**：In this situation, I heard "aircraft".
-   > **解析**：本题在单元主题情境中复习表达 aircraft。
+1. **中文**：滞留的游客们设法在荒岛上生存了两周。  
+   **英文**：The stranded tourists managed to survive on the deserted island for two weeks for aircraft.
+   > **解析**：`survive` 作不及物动词，意为“生存、幸存”，后接地点短语。
 
-2. **中文**：同伴解释了“deadly”。  
-   **英文**：My partner explained "deadly".
-   > **解析**：本题在单元主题情境中复习表达 deadly。
+2. **中文**：他们用竹子和棕榈叶建造了一个临时庇护所。  
+   **英文**：They built a temporary shelter using bamboo and palm leaves for circumstance.
+   > **解析**：`shelter` 是名词，意为“庇护所、遮蔽处”，作宾语。
 
-3. **中文**：我们一起谈到了“faulty”。  
-   **英文**：We talked about "faulty" together.
-   > **解析**：本题在单元主题情境中复习表达 faulty。
+3. **中文**：一场具有毁灭性的飓风在海岸附近摧毁了他们的木船。  
+   **英文**：A devastating hurricane destroyed their wooden boat near the coast for concern.
+   > **解析**：`hurricane` 是名词，意为“飓风”，指强热带气旋。
 
-4. **中文**：我记下了“hurricane”。  
-   **英文**：I wrote down "hurricane".
-   > **解析**：本题在单元主题情境中复习表达 hurricane。
+4. **中文**：尽管大雨倾盆且浓雾弥漫，他们仍继续向前迈进。  
+   **英文**：They kept walking forward in spite of the pouring rain and thick fog for crab.
+   > **解析**：`in spite of` 是复合介词，意为“尽管、虽然”，后接名词短语。
 
-5. **中文**：例句中包含“injured”。  
-   **英文**：The example included "injured".
-   > **解析**：本题在单元主题情境中复习表达 injured。
+5. **中文**：他们不得不连续几天配给饮用水。  
+   **英文**：They had to ration their drinking water for days on end for deadly.
+   > **解析**：`for days on end` 是固定时间状语短语，意为“接连数天、连续几天”。
 
-6. **中文**：我询问了“rope”。  
-   **英文**：I asked about "rope".
-   > **解析**：本题在单元主题情境中复习表达 rope。
+6. **中文**：船只失事后，幸存者们游泳朝岸边靠拢。  
+   **英文**：After the shipwreck, the survivors swam to head for the shore (despite the fact that).
+   > **解析**：`head for` 是短语动词，意为“朝……前进、前往”，后接目的地名词。
 
-7. **中文**：我们在句子中用到了“smoke”。  
-   **英文**：We used "smoke" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 smoke。
+7. **中文**：这个岛屿是几种致命毒蛇的栖息地。  
+   **英文**：The island is home to several species of deadly snakes for encounter.
+   > **解析**：`deadly` 是形容词，意为“致命的、剧毒的”，修饰 `snakes`。
 
-8. **中文**：朋友重复了“circumstance”。  
-   **英文**：My friend repeated "circumstance".
-   > **解析**：本题在单元主题情境中复习表达 circumstance。
+8. **中文**：在探索丛林时，他们遇到了许多意想不到的困难。  
+   **英文**：They encountered many unforeseen difficulties while exploring the jungle for faulty.
+   > **解析**：`encounter` 作及物动词，意为“遭遇、遇到”，宾语为 `difficulties`。
 
-9. **中文**：后来，我记住了“despite the fact that”。  
-   **英文**：Later, I remembered "despite the fact that".
-   > **解析**：本题在单元主题情境中复习表达 despite the fact that。
+9. **中文**：那艘古老的失事船只遗骸被一支深海潜水团队发现。  
+   **英文**：The ancient shipwreck was discovered by a team of deep-sea divers (for days on end).
+   > **解析**：`shipwreck` 是名词，意为“海难、失事船只遗骸”。
 
-10. **中文**：这个小故事以“go through”收尾。  
-   **英文**：The short story ended with "go through".
-   > **解析**：本题在单元主题情境中复习表达 go through。
+10. **中文**：他们围绕着营火一起唱老歌来消磨时光。  
+   **英文**：They sang old songs together around the campfire to pass the time (go through).
+   > **解析**：`pass the time` 是固定短语，意为“消磨时间、打发时光”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "aircraft".
-   > **中文**：在这个情境中，我听到了“aircraft”。
-2. My partner explained "deadly".
-   > **中文**：同伴解释了“deadly”。
-3. We talked about "faulty" together.
-   > **中文**：我们一起谈到了“faulty”。
-4. I wrote down "hurricane".
-   > **中文**：我记下了“hurricane”。
-5. The example included "injured".
-   > **中文**：例句中包含“injured”。
-6. I asked about "rope".
-   > **中文**：我询问了“rope”。
-7. We used "smoke" in a sentence.
-   > **中文**：我们在句子中用到了“smoke”。
-8. My friend repeated "circumstance".
-   > **中文**：朋友重复了“circumstance”。
-9. Later, I remembered "despite the fact that".
-   > **中文**：后来，我记住了“despite the fact that”。
-10. The short story ended with "go through".
-   > **中文**：这个小故事以“go through”收尾。
+1. The stranded tourists managed to survive on the deserted island for two weeks for aircraft.
+   > **中文**：滞留的游客们设法在荒岛上生存了两周。
+
+2. They built a temporary shelter using bamboo and palm leaves for circumstance.
+   > **中文**：他们用竹子和棕榈叶建造了一个临时庇护所。
+
+3. A devastating hurricane destroyed their wooden boat near the coast for concern.
+   > **中文**：一场具有毁灭性的飓风在海岸附近摧毁了他们的木船。
+
+4. They kept walking forward in spite of the pouring rain and thick fog for crab.
+   > **中文**：尽管大雨倾盆且浓雾弥漫，他们仍继续向前迈进。
+
+5. They had to ration their drinking water for days on end for deadly.
+   > **中文**：他们不得不连续几天配给饮用水。
+
+6. After the shipwreck, the survivors swam to head for the shore (despite the fact that).
+   > **中文**：船只失事后，幸存者们游泳朝岸边靠拢。
+
+7. The island is home to several species of deadly snakes for encounter.
+   > **中文**：这个岛屿是几种致命毒蛇的栖息地。
+
+8. They encountered many unforeseen difficulties while exploring the jungle for faulty.
+   > **中文**：在探索丛林时，他们遇到了许多意想不到的困难。
+
+9. The ancient shipwreck was discovered by a team of deep-sea divers (for days on end).
+   > **中文**：那艘古老的失事船只遗骸被一支深海潜水团队发现。
+
+10. They sang old songs together around the campfire to pass the time (go through).
+   > **中文**：他们围绕着营火一起唱老歌来消磨时光。
 
 </quiz-listening>
 
@@ -156,102 +165,102 @@ despite the fact that / in spite of / in spite of the fact that 是三个表"尽
 
 ### 1
 
-In this situation, I heard "`____`".
+The stranded tourists managed to survive on the deserted island for two weeks for `____`.
 
 - [x] aircraft
-- [ ] hurricane
-- [ ] smoke
+- [ ] crab
+- [ ] encounter
 
-> **解析**：本题在单元主题情境中复习表达 aircraft。
+> **解析**：`survive` 作不及物动词，意为“生存、幸存”，后接地点短语。
 
 ### 2
 
-My partner explained "`____`".
+They built a temporary shelter using bamboo and palm leaves for `____`.
 
-- [x] deadly
-- [ ] injured
-- [ ] circumstance
+- [x] circumstance
+- [ ] deadly
+- [ ] faulty
 
-> **解析**：本题在单元主题情境中复习表达 deadly。
+> **解析**：`shelter` 是名词，意为“庇护所、遮蔽处”，作宾语。
 
 ### 3
 
-We talked about "`____`" together.
+A devastating hurricane destroyed their wooden boat near the coast for `____`.
 
-- [x] faulty
-- [ ] rope
+- [x] concern
 - [ ] despite the fact that
+- [ ] for days on end
 
-> **解析**：本题在单元主题情境中复习表达 faulty。
+> **解析**：`hurricane` 是名词，意为“飓风”，指强热带气旋。
 
 ### 4
 
-I wrote down "`____`".
+They kept walking forward in spite of the pouring rain and thick fog for `____`.
 
-- [x] hurricane
-- [ ] smoke
+- [x] crab
+- [ ] encounter
 - [ ] go through
 
-> **解析**：本题在单元主题情境中复习表达 hurricane。
+> **解析**：`in spite of` 是复合介词，意为“尽管、虽然”，后接名词短语。
 
 ### 5
 
-The example included "`____`".
+They had to ration their drinking water for days on end for `____`.
 
-- [x] injured
-- [ ] circumstance
+- [x] deadly
+- [ ] faulty
 - [ ] aircraft
 
-> **解析**：本题在单元主题情境中复习表达 injured。
+> **解析**：`for days on end` 是固定时间状语短语，意为“接连数天、连续几天”。
 
 ### 6
 
-I asked about "`____`".
+After the shipwreck, the survivors swam to head for the shore (`____`).
 
-- [x] rope
-- [ ] despite the fact that
-- [ ] deadly
+- [x] despite the fact that
+- [ ] for days on end
+- [ ] circumstance
 
-> **解析**：本题在单元主题情境中复习表达 rope。
+> **解析**：`head for` 是短语动词，意为“朝……前进、前往”，后接目的地名词。
 
 ### 7
 
-We used "`____`" in a sentence.
+The island is home to several species of deadly snakes for `____`.
 
-- [x] smoke
+- [x] encounter
 - [ ] go through
-- [ ] faulty
+- [ ] concern
 
-> **解析**：本题在单元主题情境中复习表达 smoke。
+> **解析**：`deadly` 是形容词，意为“致命的、剧毒的”，修饰 `snakes`。
 
 ### 8
 
-My friend repeated "`____`".
+They encountered many unforeseen difficulties while exploring the jungle for `____`.
 
-- [x] circumstance
+- [x] faulty
 - [ ] aircraft
-- [ ] hurricane
+- [ ] crab
 
-> **解析**：本题在单元主题情境中复习表达 circumstance。
+> **解析**：`encounter` 作及物动词，意为“遭遇、遇到”，宾语为 `difficulties`。
 
 ### 9
 
-Later, I remembered "`____`".
+The ancient shipwreck was discovered by a team of deep-sea divers (`____`).
 
-- [x] despite the fact that
+- [x] for days on end
+- [ ] circumstance
 - [ ] deadly
-- [ ] injured
 
-> **解析**：本题在单元主题情境中复习表达 despite the fact that。
+> **解析**：`shipwreck` 是名词，意为“海难、失事船只遗骸”。
 
 ### 10
 
-The short story ended with "`____`".
+They sang old songs together around the campfire to pass the time (`____`).
 
 - [x] go through
-- [ ] faulty
-- [ ] rope
+- [ ] concern
+- [ ] despite the fact that
 
-> **解析**：本题在单元主题情境中复习表达 go through。
+> **解析**：`pass the time` 是固定短语，意为“消磨时间、打发时光”。
 
 </quiz-cloze>

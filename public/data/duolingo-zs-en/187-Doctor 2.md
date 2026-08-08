@@ -53,70 +53,79 @@ have to be / need to be / want to be / will be 这组结构表达了义务、需
 
 <quiz-sentence-builder>
 
-1. **中文**：在诊所里，我听到了“ache”。  
-   **英文**：At the clinic, I heard "ache".
-   > **解析**：本题在单元主题情境中复习表达 ache。
+1. **中文**：发烧和持续咳嗽是流感感染的常见症状。  
+   **英文**：Fever and a persistent cough are common symptoms of a flu infection for ache.
+   > **解析**：symptom 可数名词，意为“（疾病的）症状”，复数形式加 -s。
 
-2. **中文**：医生解释了“ear”。  
-   **英文**：The doctor explained "ear".
-   > **解析**：本题在单元主题情境中复习表达 ear。
+2. **中文**：去诊所就诊时一定要带上你的医疗保险卡。  
+   **英文**：Make sure to bring your health insurance card when visiting the clinic for ankle.
+   > **解析**：health insurance 名词短语，意为“医疗保险”，不可数名词。
 
-3. **中文**：我们认真谈到了“health insurance”。  
-   **英文**：We talked about "health insurance" carefully.
-   > **解析**：本题在单元主题情境中复习表达 health insurance。
+3. **中文**：那个小男孩因剧烈的耳朵痛醒来，无法入睡。  
+   **英文**：The little boy woke up with a sharp earache and could not sleep for be.
+   > **解析**：earache 可数/不可数名词，意为“耳朵痛”，由 ear（耳朵）+ ache（疼痛）合成。
 
-4. **中文**：我把“pregnant”写进健康笔记。  
-   **英文**：I wrote "pregnant" in my health notes.
-   > **解析**：本题在单元主题情境中复习表达 pregnant。
+4. **中文**：她在打网球时扭伤了脚踝，需要休息。  
+   **英文**：She twisted her ankle while playing tennis and needs to rest it for bled.
+   > **解析**：ankle 可数名词，意为“脚踝；踝关节”，twist one's ankle 意为扭伤脚踝。
 
-5. **中文**：护士重复了“save”。  
-   **英文**：The nurse repeated "save".
-   > **解析**：本题在单元主题情境中复习表达 save。
+5. **中文**：外科医生为受伤的运动员成功进行了膝关节手术。  
+   **英文**：The surgeon performed a successful knee surgery on the injured athlete for cover.
+   > **解析**：surgery 不可数/可数名词，意为“外科手术”，动词搭配常用 perform 或 undergo。
 
-6. **中文**：朋友询问了“thumb”。  
-   **英文**：My friend asked about "thumb".
-   > **解析**：本题在单元主题情境中复习表达 thumb。
+6. **中文**：物理治疗是针对慢性背痛的有效治疗方法。  
+   **英文**：Physical therapy is an effective treatment for chronic back pain for ear.
+   > **解析**：treatment 可数/不可数名词，意为“治疗；疗法”，来自动词 treat。
 
-7. **中文**：建议中包含“weak”。  
-   **英文**：The advice included "weak".
-   > **解析**：本题在单元主题情境中复习表达 weak。
+7. **中文**：医生花了三十分钟仔细倾听病人的诉说。  
+   **英文**：The doctor spent thirty minutes listening carefully to the patient for earache.
+   > **解析**：patient 在此作名词，意为“病人；患者”；也可作形容词表示“有耐心的”。
 
-8. **中文**：就诊后，我记住了“ankle”。  
-   **英文**：After the visit, I remembered "ankle".
-   > **解析**：本题在单元主题情境中复习表达 ankle。
+8. **中文**：这位孕妇预约了医生进行定期健康检查。  
+   **英文**：The pregnant woman scheduled a regular health checkup with her doctor (have to be).
+   > **解析**：pregnant 形容词，意为“怀孕的”，作定语修饰 woman 或作表语。
 
-9. **中文**：我们在对话中用到了“earache”。  
-   **英文**：We used "earache" in the conversation.
-   > **解析**：本题在单元主题情境中复习表达 earache。
+9. **中文**：昨天跑完马拉松后，他的肌肉开始发酸发痛。  
+   **英文**：His muscles began to ache after running a full marathon yesterday (health insurance).
+   > **解析**：ache 动词/名词，在此作动词意为“疼痛；酸痛”，主语为身体部位或肌肉。
 
-10. **中文**：那次健康交流以“need to be”收尾。  
-   **英文**：That health talk ended with "need to be".
-   > **解析**：本题在单元主题情境中复习表达 need to be。
+10. **中文**：在冰上要小心，以免跌倒伤到背部。  
+   **英文**：Be careful on the ice so you do not fall and injure your back.
+   > **解析**：injure 及物动词，意为“伤害；使受伤”，形容词为 injured。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the clinic, I heard "ache".
-   > **中文**：在诊所里，我听到了“ache”。
-2. The doctor explained "ear".
-   > **中文**：医生解释了“ear”。
-3. We talked about "health insurance" carefully.
-   > **中文**：我们认真谈到了“health insurance”。
-4. I wrote "pregnant" in my health notes.
-   > **中文**：我把“pregnant”写进健康笔记。
-5. The nurse repeated "save".
-   > **中文**：护士重复了“save”。
-6. My friend asked about "thumb".
-   > **中文**：朋友询问了“thumb”。
-7. The advice included "weak".
-   > **中文**：建议中包含“weak”。
-8. After the visit, I remembered "ankle".
-   > **中文**：就诊后，我记住了“ankle”。
-9. We used "earache" in the conversation.
-   > **中文**：我们在对话中用到了“earache”。
-10. That health talk ended with "need to be".
-   > **中文**：那次健康交流以“need to be”收尾。
+1. Fever and a persistent cough are common symptoms of a flu infection for ache.
+   > **中文**：发烧和持续咳嗽是流感感染的常见症状。
+
+2. Make sure to bring your health insurance card when visiting the clinic for ankle.
+   > **中文**：去诊所就诊时一定要带上你的医疗保险卡。
+
+3. The little boy woke up with a sharp earache and could not sleep for be.
+   > **中文**：那个小男孩因剧烈的耳朵痛醒来，无法入睡。
+
+4. She twisted her ankle while playing tennis and needs to rest it for bled.
+   > **中文**：她在打网球时扭伤了脚踝，需要休息。
+
+5. The surgeon performed a successful knee surgery on the injured athlete for cover.
+   > **中文**：外科医生为受伤的运动员成功进行了膝关节手术。
+
+6. Physical therapy is an effective treatment for chronic back pain for ear.
+   > **中文**：物理治疗是针对慢性背痛的有效治疗方法。
+
+7. The doctor spent thirty minutes listening carefully to the patient for earache.
+   > **中文**：医生花了三十分钟仔细倾听病人的诉说。
+
+8. The pregnant woman scheduled a regular health checkup with her doctor (have to be).
+   > **中文**：这位孕妇预约了医生进行定期健康检查。
+
+9. His muscles began to ache after running a full marathon yesterday (health insurance).
+   > **中文**：昨天跑完马拉松后，他的肌肉开始发酸发痛。
+
+10. Be careful on the ice so you do not fall and injure your back.
+   > **中文**：在冰上要小心，以免跌倒伤到背部。
 
 </quiz-listening>
 
@@ -128,102 +137,102 @@ have to be / need to be / want to be / will be 这组结构表达了义务、需
 
 ### 1
 
-At the clinic, I heard "`____`".
+Fever and a persistent cough are common symptoms of a flu infection for `____`.
 
 - [x] ache
-- [ ] pregnant
-- [ ] weak
+- [ ] bled
+- [ ] earache
 
-> **解析**：本题在单元主题情境中复习表达 ache。
+> **解析**：symptom 可数名词，意为“（疾病的）症状”，复数形式加 -s。
 
 ### 2
 
-The doctor explained "`____`".
+Make sure to bring your health insurance card when visiting the clinic for `____`.
 
-- [x] ear
-- [ ] save
-- [ ] ankle
+- [x] ankle
+- [ ] cover
+- [ ] have to be
 
-> **解析**：本题在单元主题情境中复习表达 ear。
+> **解析**：health insurance 名词短语，意为“医疗保险”，不可数名词。
 
 ### 3
 
-We talked about "`____`" carefully.
+The little boy woke up with a sharp earache and could not sleep for `____`.
 
-- [x] health insurance
-- [ ] thumb
-- [ ] earache
+- [x] be
+- [ ] ear
+- [ ] health insurance
 
-> **解析**：本题在单元主题情境中复习表达 health insurance。
+> **解析**：earache 可数/不可数名词，意为“耳朵痛”，由 ear（耳朵）+ ache（疼痛）合成。
 
 ### 4
 
-I wrote "`____`" in my health notes.
+She twisted her ankle while playing tennis and needs to rest it for `____`.
 
-- [x] pregnant
-- [ ] weak
-- [ ] need to be
+- [x] bled
+- [ ] earache
+- [ ] injure
 
-> **解析**：本题在单元主题情境中复习表达 pregnant。
+> **解析**：ankle 可数名词，意为“脚踝；踝关节”，twist one's ankle 意为扭伤脚踝。
 
 ### 5
 
-The nurse repeated "`____`".
+The surgeon performed a successful knee surgery on the injured athlete for `____`.
 
-- [x] save
-- [ ] ankle
+- [x] cover
+- [ ] have to be
 - [ ] ache
 
-> **解析**：本题在单元主题情境中复习表达 save。
+> **解析**：surgery 不可数/可数名词，意为“外科手术”，动词搭配常用 perform 或 undergo。
 
 ### 6
 
-My friend asked about "`____`".
+Physical therapy is an effective treatment for chronic back pain for `____`.
 
-- [x] thumb
-- [ ] earache
-- [ ] ear
+- [x] ear
+- [ ] health insurance
+- [ ] ankle
 
-> **解析**：本题在单元主题情境中复习表达 thumb。
+> **解析**：treatment 可数/不可数名词，意为“治疗；疗法”，来自动词 treat。
 
 ### 7
 
-The advice included "`____`".
+The doctor spent thirty minutes listening carefully to the patient for `____`.
 
-- [x] weak
-- [ ] need to be
-- [ ] health insurance
+- [x] earache
+- [ ] injure
+- [ ] be
 
-> **解析**：本题在单元主题情境中复习表达 weak。
+> **解析**：patient 在此作名词，意为“病人；患者”；也可作形容词表示“有耐心的”。
 
 ### 8
 
-After the visit, I remembered "`____`".
+The pregnant woman scheduled a regular health checkup with her doctor (`____`).
 
-- [x] ankle
+- [x] have to be
 - [ ] ache
-- [ ] pregnant
+- [ ] bled
 
-> **解析**：本题在单元主题情境中复习表达 ankle。
+> **解析**：pregnant 形容词，意为“怀孕的”，作定语修饰 woman 或作表语。
 
 ### 9
 
-We used "`____`" in the conversation.
+His muscles began to ache after running a full marathon yesterday (`____`).
 
-- [x] earache
-- [ ] ear
-- [ ] save
+- [x] health insurance
+- [ ] ankle
+- [ ] cover
 
-> **解析**：本题在单元主题情境中复习表达 earache。
+> **解析**：ache 动词/名词，在此作动词意为“疼痛；酸痛”，主语为身体部位或肌肉。
 
 ### 10
 
-That health talk ended with "`____`".
+Be careful on the ice so you do not fall and `____` your back.
 
-- [x] need to be
-- [ ] health insurance
-- [ ] thumb
+- [x] injure
+- [ ] be
+- [ ] ear
 
-> **解析**：本题在单元主题情境中复习表达 need to be。
+> **解析**：injure 及物动词，意为“伤害；使受伤”，形容词为 injured。
 
 </quiz-cloze>

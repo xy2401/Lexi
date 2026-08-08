@@ -61,70 +61,79 @@ sing → sang → sung。do/does/did 构成疑问和否定。
 
 <quiz-sentence-builder>
 
-1. **中文**：谈论喜好时，我听到了“admission”。  
-   **英文**：When we talked about favorites, I heard "admission".
-   > **解析**：本题在单元主题情境中复习表达 admission。
+1. **中文**：现场摇滚音乐会的普通入场券在数分钟内售罄。  
+   **英文**：General admission tickets for the live rock concert sold out within minutes.
+   > **解析**：admission 为名词，意为“入场、门票”。general admission 指不设固定座位的普通入场票。
 
-2. **中文**：朋友说“country”很重要。  
-   **英文**：My friend said "country" was important.
-   > **解析**：本题在单元主题情境中复习表达 country。
+2. **中文**：我爷爷一直都是经典乡村音乐的大粉丝。  
+   **英文**：My grandfather has always been a big fan of classic country music (back row).
+   > **解析**：country 在此处作定语，修饰 music（country music 乡村音乐），指一种传统音乐风格。
 
-3. **中文**：我问他们喜欢哪一个：“does”。  
-   **英文**：I asked which one they liked: "does".
-   > **解析**：本题在单元主题情境中复习表达 does。
+3. **中文**：她喜欢流行歌曲，她的妹妹也一样喜欢。  
+   **英文**：She loves pop songs, and so does her younger sister for balcony.
+   > **解析**：does 为助动词，在此处引导倒装结构 so does sb.，意为“某人也一样”。
 
-4. **中文**：聊天时，我们比较了“guitarist”。  
-   **英文**：In our chat, we compared "guitarist".
-   > **解析**：本题在单元主题情境中复习表达 guitarist。
+4. **中文**：主音吉他手在最后安可演出中演奏了一段令人惊叹的独奏。  
+   **英文**：The lead guitarist played an amazing solo during the final encore performance for beautifully.
+   > **解析**：guitarist 为可数名词，意为“吉他手”。lead guitarist 即主音吉他手。
 
-5. **中文**：同伴先选择了“historic”。  
-   **英文**：My partner chose "historic" first.
-   > **解析**：本题在单元主题情境中复习表达 historic。
+5. **中文**：管弦乐队今晚在这座具有历史意义的剧院里演奏了一首著名的交响曲。  
+   **英文**：The orchestra performed a famous symphony in this historic theater tonight for country.
+   > **解析**：historic 为形容词，意为“有历史意义的、历史悠久的”，常修饰 building, venue, theater。
 
-6. **中文**：我们用“play”描述喜好。  
-   **英文**：We used "play" to describe a favorite.
-   > **解析**：本题在单元主题情境中复习表达 play。
+6. **中文**：你能一边弹原声吉他一边一起唱歌吗？  
+   **英文**：Can you play the acoustic guitar and sing along at the same time? for did.
+   > **解析**：play 在此处作及物动词，意为“演奏（乐器）”。接乐器时乐器前通常加定冠词或限定词（play the guitar）。
 
-7. **中文**：答案中包含“sung”。  
-   **英文**：The answer included "sung".
-   > **解析**：本题在单元主题情境中复习表达 sung。
+7. **中文**：那首浪漫情歌由主唱倾情优美地演唱。  
+   **英文**：That romantic ballad was beautifully sung by the lead singer (didn't).
+   > **解析**：sung 是 sing 的过去分词，在此处与 was 构成一般过去时的被动语态（was sung）。
 
-8. **中文**：我从对话中记住了“back row”。  
-   **英文**：I remembered "back row" from the conversation.
-   > **解析**：本题在单元主题情境中复习表达 back row。
+8. **中文**：即使在后排的座位上，音乐厅的声音效果依然极佳。  
+   **英文**：Even from our seats in the back row, the acoustics of the concert hall were great for do.
+   > **解析**：back row 为名词短语，意为“后排”。in the back row 意为“在后排座位”。
 
-9. **中文**：朋友微笑着重复了“did”。  
-   **英文**：My friend repeated "did" with a smile.
-   > **解析**：本题在单元主题情境中复习表达 did。
+9. **中文**：你有成功买到音乐节前排的门票吗？  
+   **英文**：Did you manage to get front row tickets for the music festival? for does.
+   > **解析**：did 为助动词，在此处构成一般过去时的疑问句句型（Did you + V.?）。
 
-10. **中文**：那场关于喜好的聊天以“don't”收尾。  
-   **英文**：That chat about favorites ended with "don't".
-   > **解析**：本题在单元主题情境中复习表达 don't。
+10. **中文**：我学习时通常听不惯重金属音乐。  
+   **英文**：I don't usually listen to heavy metal music when studying (doesn't).
+   > **解析**：don't 为助动词 do not 的缩写，在此处否定行为动词 listen to。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. When we talked about favorites, I heard "admission".
-   > **中文**：谈论喜好时，我听到了“admission”。
-2. My friend said "country" was important.
-   > **中文**：朋友说“country”很重要。
-3. I asked which one they liked: "does".
-   > **中文**：我问他们喜欢哪一个：“does”。
-4. In our chat, we compared "guitarist".
-   > **中文**：聊天时，我们比较了“guitarist”。
-5. My partner chose "historic" first.
-   > **中文**：同伴先选择了“historic”。
-6. We used "play" to describe a favorite.
-   > **中文**：我们用“play”描述喜好。
-7. The answer included "sung".
-   > **中文**：答案中包含“sung”。
-8. I remembered "back row" from the conversation.
-   > **中文**：我从对话中记住了“back row”。
-9. My friend repeated "did" with a smile.
-   > **中文**：朋友微笑着重复了“did”。
-10. That chat about favorites ended with "don't".
-   > **中文**：那场关于喜好的聊天以“don't”收尾。
+1. General admission tickets for the live rock concert sold out within minutes.
+   > **中文**：现场摇滚音乐会的普通入场券在数分钟内售罄。
+
+2. My grandfather has always been a big fan of classic country music (back row).
+   > **中文**：我爷爷一直都是经典乡村音乐的大粉丝。
+
+3. She loves pop songs, and so does her younger sister for balcony.
+   > **中文**：她喜欢流行歌曲，她的妹妹也一样喜欢。
+
+4. The lead guitarist played an amazing solo during the final encore performance for beautifully.
+   > **中文**：主音吉他手在最后安可演出中演奏了一段令人惊叹的独奏。
+
+5. The orchestra performed a famous symphony in this historic theater tonight for country.
+   > **中文**：管弦乐队今晚在这座具有历史意义的剧院里演奏了一首著名的交响曲。
+
+6. Can you play the acoustic guitar and sing along at the same time? for did.
+   > **中文**：你能一边弹原声吉他一边一起唱歌吗？
+
+7. That romantic ballad was beautifully sung by the lead singer (didn't).
+   > **中文**：那首浪漫情歌由主唱倾情优美地演唱。
+
+8. Even from our seats in the back row, the acoustics of the concert hall were great for do.
+   > **中文**：即使在后排的座位上，音乐厅的声音效果依然极佳。
+
+9. Did you manage to get front row tickets for the music festival? for does.
+   > **中文**：你有成功买到音乐节前排的门票吗？
+
+10. I don't usually listen to heavy metal music when studying (doesn't).
+   > **中文**：我学习时通常听不惯重金属音乐。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ sing → sang → sung。do/does/did 构成疑问和否定。
 
 ### 1
 
-When we talked about favorites, I heard "`____`".
+General `____` tickets for the live rock concert sold out within minutes.
 
 - [x] admission
-- [ ] guitarist
-- [ ] sung
+- [ ] beautifully
+- [ ] didn't
 
-> **解析**：本题在单元主题情境中复习表达 admission。
+> **解析**：admission 为名词，意为“入场、门票”。general admission 指不设固定座位的普通入场票。
 
 ### 2
 
-My friend said "`____`" was important.
+My grandfather has always been a big fan of classic country music (`____`).
 
-- [x] country
-- [ ] historic
-- [ ] back row
+- [x] back row
+- [ ] country
+- [ ] do
 
-> **解析**：本题在单元主题情境中复习表达 country。
+> **解析**：country 在此处作定语，修饰 music（country music 乡村音乐），指一种传统音乐风格。
 
 ### 3
 
-I asked which one they liked: "`____`".
+She loves pop songs, and so does her younger sister for `____`.
 
-- [x] does
-- [ ] play
+- [x] balcony
 - [ ] did
+- [ ] does
 
-> **解析**：本题在单元主题情境中复习表达 does。
+> **解析**：does 为助动词，在此处引导倒装结构 so does sb.，意为“某人也一样”。
 
 ### 4
 
-In our chat, we compared "`____`".
+The lead guitarist played an amazing solo during the final encore performance for `____`.
 
-- [x] guitarist
-- [ ] sung
-- [ ] don't
+- [x] beautifully
+- [ ] didn't
+- [ ] doesn't
 
-> **解析**：本题在单元主题情境中复习表达 guitarist。
+> **解析**：guitarist 为可数名词，意为“吉他手”。lead guitarist 即主音吉他手。
 
 ### 5
 
-My partner chose "`____`" first.
+The orchestra performed a famous symphony in this historic theater tonight for `____`.
 
-- [x] historic
-- [ ] back row
+- [x] country
+- [ ] do
 - [ ] admission
 
-> **解析**：本题在单元主题情境中复习表达 historic。
+> **解析**：historic 为形容词，意为“有历史意义的、历史悠久的”，常修饰 building, venue, theater。
 
 ### 6
 
-We used "`____`" to describe a favorite.
+Can you play the acoustic guitar and sing along at the same time? for `____`.
 
-- [x] play
-- [ ] did
-- [ ] country
+- [x] did
+- [ ] does
+- [ ] back row
 
-> **解析**：本题在单元主题情境中复习表达 play。
+> **解析**：play 在此处作及物动词，意为“演奏（乐器）”。接乐器时乐器前通常加定冠词或限定词（play the guitar）。
 
 ### 7
 
-The answer included "`____`".
+That romantic ballad was beautifully sung by the lead singer (`____`).
 
-- [x] sung
-- [ ] don't
-- [ ] does
+- [x] didn't
+- [ ] doesn't
+- [ ] balcony
 
-> **解析**：本题在单元主题情境中复习表达 sung。
+> **解析**：sung 是 sing 的过去分词，在此处与 was 构成一般过去时的被动语态（was sung）。
 
 ### 8
 
-I remembered "`____`" from the conversation.
+Even from our seats in the back row, the acoustics of the concert hall were great for `____`.
 
-- [x] back row
+- [x] do
 - [ ] admission
-- [ ] guitarist
+- [ ] beautifully
 
-> **解析**：本题在单元主题情境中复习表达 back row。
+> **解析**：back row 为名词短语，意为“后排”。in the back row 意为“在后排座位”。
 
 ### 9
 
-My friend repeated "`____`" with a smile.
+Did you manage to get front row tickets for the music festival? for `____`.
 
-- [x] did
+- [x] does
+- [ ] back row
 - [ ] country
-- [ ] historic
 
-> **解析**：本题在单元主题情境中复习表达 did。
+> **解析**：did 为助动词，在此处构成一般过去时的疑问句句型（Did you + V.?）。
 
 ### 10
 
-That chat about favorites ended with "`____`".
+I don't usually listen to heavy metal music when studying (`____`).
 
-- [x] don't
-- [ ] does
-- [ ] play
+- [x] doesn't
+- [ ] balcony
+- [ ] did
 
-> **解析**：本题在单元主题情境中复习表达 don't。
+> **解析**：don't 为助动词 do not 的缩写，在此处否定行为动词 listen to。
 
 </quiz-cloze>

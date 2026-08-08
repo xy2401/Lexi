@@ -61,70 +61,79 @@ would you mind + doing 是礼貌请求句型。un- 前缀表示否定。
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“ability”。  
-   **英文**：In this situation, I heard "ability".
-   > **解析**：本题在单元主题情境中复习表达 ability。
+1. **中文**：晚餐后你介意帮我通关这个困难的游戏关卡吗？  
+   **英文**：Would you mind helping me pass this difficult game level after dinner? for ability.
+   > **解析**：would you mind 为礼貌请求的固定表达，意为“你介意...吗”。后接动名词形式（helping me...）。
 
-2. **中文**：同伴解释了“brilliant”。  
-   **英文**：My partner explained "brilliant".
-   > **解析**：本题在单元主题情境中复习表达 brilliant。
+2. **中文**：熟能生巧，现在他对赢得比赛感到充满信心。  
+   **英文**：Practice makes perfect, and now he feels confident about winning the match for alike.
+   > **解析**：confident 为形容词，意为“自信的、有把握的”。feel confident about sth. 表示“对某事感到自信”。
 
-3. **中文**：我们一起谈到了“curious about”。  
-   **英文**：We talked about "curious about" together.
-   > **解析**：本题在单元主题情境中复习表达 curious about。
+3. **中文**：她想出了一个绝妙的策略，带领我们的游戏团队取得了胜利。  
+   **英文**：She came up with a brilliant strategy that led our gaming team to victory for amazed.
+   > **解析**：brilliant 为形容词，意为“绝妙的、极聪明的”。修饰 strategy（策略）。lead sb. to victory 表示“带领某人走向胜利”。
 
-4. **中文**：我记下了“how”。  
-   **英文**：I wrote down "how".
-   > **解析**：本题在单元主题情境中复习表达 how。
+4. **中文**：这位年轻玩家对高手如何解开秘密谜题感到好奇。  
+   **英文**：The young player was curious about how the expert solved the secret puzzle for brilliant.
+   > **解析**：curious about 为形容词短语，意为“对...感到好奇”。后接名词或疑问词引导的从句（how the expert solved...）。
 
-5. **中文**：例句中包含“relaxing”。  
-   **英文**：The example included "relaxing".
-   > **解析**：本题在单元主题情境中复习表达 relaxing。
+5. **中文**：下班后玩休闲电子游戏让我感觉完全放松下来。  
+   **英文**：Playing casual video games after work makes me feel completely relaxed for chin.
+   > **解析**：relaxed 为形容词，修饰人，意为“放松的、轻松的”。make me feel relaxed 表示“让我感到放松”。
 
-6. **中文**：我询问了“teenage”。  
-   **英文**：I asked about "teenage".
-   > **解析**：本题在单元主题情境中复习表达 teenage。
+6. **中文**：在沙盒游戏中构建自定义世界需要高度富有创造力的思维方式。  
+   **英文**：Building custom worlds in sandbox games requires a highly creative mindset for confident.
+   > **解析**：creative 为形容词，意为“富有创造力的”。修饰 mindset（思维/心态）。名词形式为 creativity。
 
-7. **中文**：我们在句子中用到了“unlucky”。  
-   **英文**：We used "unlucky" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 unlucky。
+7. **中文**：在最后三秒钟内扭转比赛局势简直难以置信！  
+   **英文**：Turning the match around in the final three seconds was truly unbelievable for creative.
+   > **解析**：unbelievable 为形容词，意为“难以置信的、奇迹般的”。turn around 意为“扭转”。
 
-8. **中文**：朋友重复了“alike”。  
-   **英文**：My friend repeated "alike".
-   > **解析**：本题在单元主题情境中复习表达 alike。
+8. **中文**：游戏玩家使用专门的训练软件来提高他们的快速反应能力。  
+   **英文**：Gamers use special training software to improve their fast reaction ability (curious about).
+   > **解析**：ability 为名词，意为“能力、本领”。fast reaction ability 指“快速反应能力”。
 
-9. **中文**：后来，我记住了“confident”。  
-   **英文**：Later, I remembered "confident".
-   > **解析**：本题在单元主题情境中复习表达 confident。
+9. **中文**：观众们对该玩家非凡的手速和精准度感到惊叹不已。  
+   **英文**：Spectators were amazed by the player's extraordinary hand speed and accuracy for fairly.
+   > **解析**：amazed 为形容词，修饰人，意为“感到惊讶/惊叹的”。be amazed by sth. 表示“对某事感到惊叹”。
 
-10. **中文**：这个小故事以“fairly”收尾。  
-   **英文**：The short story ended with "fairly".
-   > **解析**：本题在单元主题情境中复习表达 fairly。
+10. **中文**：在线游戏社区里的每个人都通过他酷炫的昵称认识他。  
+   **英文**：Everyone in the online gaming community knows him by his cool nickname for feeling.
+   > **解析**：nickname 为名词，意为“昵称、绰号”。know sb. by one's nickname 表示“通过昵称认识某人”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "ability".
-   > **中文**：在这个情境中，我听到了“ability”。
-2. My partner explained "brilliant".
-   > **中文**：同伴解释了“brilliant”。
-3. We talked about "curious about" together.
-   > **中文**：我们一起谈到了“curious about”。
-4. I wrote down "how".
-   > **中文**：我记下了“how”。
-5. The example included "relaxing".
-   > **中文**：例句中包含“relaxing”。
-6. I asked about "teenage".
-   > **中文**：我询问了“teenage”。
-7. We used "unlucky" in a sentence.
-   > **中文**：我们在句子中用到了“unlucky”。
-8. My friend repeated "alike".
-   > **中文**：朋友重复了“alike”。
-9. Later, I remembered "confident".
-   > **中文**：后来，我记住了“confident”。
-10. The short story ended with "fairly".
-   > **中文**：这个小故事以“fairly”收尾。
+1. Would you mind helping me pass this difficult game level after dinner? for ability.
+   > **中文**：晚餐后你介意帮我通关这个困难的游戏关卡吗？
+
+2. Practice makes perfect, and now he feels confident about winning the match for alike.
+   > **中文**：熟能生巧，现在他对赢得比赛感到充满信心。
+
+3. She came up with a brilliant strategy that led our gaming team to victory for amazed.
+   > **中文**：她想出了一个绝妙的策略，带领我们的游戏团队取得了胜利。
+
+4. The young player was curious about how the expert solved the secret puzzle for brilliant.
+   > **中文**：这位年轻玩家对高手如何解开秘密谜题感到好奇。
+
+5. Playing casual video games after work makes me feel completely relaxed for chin.
+   > **中文**：下班后玩休闲电子游戏让我感觉完全放松下来。
+
+6. Building custom worlds in sandbox games requires a highly creative mindset for confident.
+   > **中文**：在沙盒游戏中构建自定义世界需要高度富有创造力的思维方式。
+
+7. Turning the match around in the final three seconds was truly unbelievable for creative.
+   > **中文**：在最后三秒钟内扭转比赛局势简直难以置信！
+
+8. Gamers use special training software to improve their fast reaction ability (curious about).
+   > **中文**：游戏玩家使用专门的训练软件来提高他们的快速反应能力。
+
+9. Spectators were amazed by the player's extraordinary hand speed and accuracy for fairly.
+   > **中文**：观众们对该玩家非凡的手速和精准度感到惊叹不已。
+
+10. Everyone in the online gaming community knows him by his cool nickname for feeling.
+   > **中文**：在线游戏社区里的每个人都通过他酷炫的昵称认识他。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ would you mind + doing 是礼貌请求句型。un- 前缀表示否定。
 
 ### 1
 
-In this situation, I heard "`____`".
+Would you mind helping me pass this difficult game level after dinner? for `____`.
 
 - [x] ability
-- [ ] how
-- [ ] unlucky
+- [ ] brilliant
+- [ ] creative
 
-> **解析**：本题在单元主题情境中复习表达 ability。
+> **解析**：would you mind 为礼貌请求的固定表达，意为“你介意...吗”。后接动名词形式（helping me...）。
 
 ### 2
 
-My partner explained "`____`".
+Practice makes perfect, and now he feels confident about winning the match for `____`.
 
-- [x] brilliant
-- [ ] relaxing
-- [ ] alike
+- [x] alike
+- [ ] chin
+- [ ] curious about
 
-> **解析**：本题在单元主题情境中复习表达 brilliant。
+> **解析**：confident 为形容词，意为“自信的、有把握的”。feel confident about sth. 表示“对某事感到自信”。
 
 ### 3
 
-We talked about "`____`" together.
+She came up with a brilliant strategy that led our gaming team to victory for `____`.
 
-- [x] curious about
-- [ ] teenage
+- [x] amazed
 - [ ] confident
+- [ ] fairly
 
-> **解析**：本题在单元主题情境中复习表达 curious about。
+> **解析**：brilliant 为形容词，意为“绝妙的、极聪明的”。修饰 strategy（策略）。lead sb. to victory 表示“带领某人走向胜利”。
 
 ### 4
 
-I wrote down "`____`".
+The young player was curious about how the expert solved the secret puzzle for `____`.
 
-- [x] how
-- [ ] unlucky
-- [ ] fairly
+- [x] brilliant
+- [ ] creative
+- [ ] feeling
 
-> **解析**：本题在单元主题情境中复习表达 how。
+> **解析**：curious about 为形容词短语，意为“对...感到好奇”。后接名词或疑问词引导的从句（how the expert solved...）。
 
 ### 5
 
-The example included "`____`".
+Playing casual video games after work makes me feel completely relaxed for `____`.
 
-- [x] relaxing
-- [ ] alike
+- [x] chin
+- [ ] curious about
 - [ ] ability
 
-> **解析**：本题在单元主题情境中复习表达 relaxing。
+> **解析**：relaxed 为形容词，修饰人，意为“放松的、轻松的”。make me feel relaxed 表示“让我感到放松”。
 
 ### 6
 
-I asked about "`____`".
+Building custom worlds in sandbox games requires a highly creative mindset for `____`.
 
-- [x] teenage
-- [ ] confident
-- [ ] brilliant
+- [x] confident
+- [ ] fairly
+- [ ] alike
 
-> **解析**：本题在单元主题情境中复习表达 teenage。
+> **解析**：creative 为形容词，意为“富有创造力的”。修饰 mindset（思维/心态）。名词形式为 creativity。
 
 ### 7
 
-We used "`____`" in a sentence.
+Turning the match around in the final three seconds was truly unbelievable for `____`.
 
-- [x] unlucky
-- [ ] fairly
-- [ ] curious about
+- [x] creative
+- [ ] feeling
+- [ ] amazed
 
-> **解析**：本题在单元主题情境中复习表达 unlucky。
+> **解析**：unbelievable 为形容词，意为“难以置信的、奇迹般的”。turn around 意为“扭转”。
 
 ### 8
 
-My friend repeated "`____`".
+Gamers use special training software to improve their fast reaction ability (`____`).
 
-- [x] alike
+- [x] curious about
 - [ ] ability
-- [ ] how
+- [ ] brilliant
 
-> **解析**：本题在单元主题情境中复习表达 alike。
+> **解析**：ability 为名词，意为“能力、本领”。fast reaction ability 指“快速反应能力”。
 
 ### 9
 
-Later, I remembered "`____`".
+Spectators were amazed by the player's extraordinary hand speed and accuracy for `____`.
 
-- [x] confident
-- [ ] brilliant
-- [ ] relaxing
+- [x] fairly
+- [ ] alike
+- [ ] chin
 
-> **解析**：本题在单元主题情境中复习表达 confident。
+> **解析**：amazed 为形容词，修饰人，意为“感到惊讶/惊叹的”。be amazed by sth. 表示“对某事感到惊叹”。
 
 ### 10
 
-The short story ended with "`____`".
+Everyone in the online gaming community knows him by his cool nickname for `____`.
 
-- [x] fairly
-- [ ] curious about
-- [ ] teenage
+- [x] feeling
+- [ ] amazed
+- [ ] confident
 
-> **解析**：本题在单元主题情境中复习表达 fairly。
+> **解析**：nickname 为名词，意为“昵称、绰号”。know sb. by one's nickname 表示“通过昵称认识某人”。
 
 </quiz-cloze>

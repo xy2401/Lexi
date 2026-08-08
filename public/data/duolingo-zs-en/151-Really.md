@@ -61,70 +61,79 @@ forgive → forgave → forgiven 是不规则变化。must 表推测（一定）
 
 <quiz-sentence-builder>
 
-1. **中文**：聚会上，我听到了“all right”。  
-   **英文**：At the gathering, I heard "all right".
-   > **解析**：本题在单元主题情境中复习表达 all right。
+1. **中文**：好吧，跟我解释一下你为什么没通知任何人就缺席了会议。  
+   **英文**：All right, explain to me why you skipped the meeting without telling anyone.
+   > **解析**：all right 在此处用作感叹词/口语过渡词，表示“好吧、行”，用于引出追问或要求对方说明原因。
 
-2. **中文**：朋友说了“care”。  
-   **英文**：My friend said "care".
-   > **解析**：本题在单元主题情境中复习表达 care。
+2. **中文**：我不关心你的借口；我只想听听真正的真相。  
+   **英文**：I don't care about your excuses; I just want to hear the real truth for anything.
+   > **解析**：care 在此处作动词，意为“在乎、关心”。常用否定搭配 don't care about sth.（不在乎某事）。
 
-3. **中文**：我们一起谈到了“forgave”。  
-   **英文**：We talked about "forgave" together.
-   > **解析**：本题在单元主题情境中复习表达 forgave。
+3. **中文**：在他真诚道歉后，她原谅了他弄丢钥匙的事。  
+   **英文**：She forgave him for losing the keys after he sincerely apologized for be.
+   > **解析**：forgave 是动词 forgive 的过去式，意为“原谅”。常用结构 forgive sb. for sth./doing sth.。
 
-4. **中文**：有人向我解释了“go on”。  
-   **英文**：Someone explained "go on" to me.
-   > **解析**：本题在单元主题情境中复习表达 go on。
+4. **中文**：继续说，你打开那个神秘包裹之后发生什么了？  
+   **英文**：Go on, tell me what happened after you opened the mysterious package (by the way).
+   > **解析**：go on 在此处为短语动词，用作祈使句，意为“继续说下去”，常用于鼓励说话者提供更多细节。
 
-5. **中文**：我用“impossible”作了回应。  
-   **英文**：I replied with "impossible".
-   > **解析**：本题在单元主题情境中复习表达 impossible。
+5. **中文**：那完全不可能，因为我今天早上亲自把文件交给了他！  
+   **英文**：That's completely impossible, because I personally handed the documents to him this morning (can't).
+   > **解析**：impossible 为形容词，意为“不可能的”。在表强烈惊讶时常用作表语（That's impossible!）。
 
-6. **中文**：对话中包含“like this”。  
-   **英文**：The conversation included "like this".
-   > **解析**：本题在单元主题情境中复习表达 like this。
+6. **中文**：你为什么这样看着我，好像我做了什么可怕的事情一样？  
+   **英文**：Why are you looking at me like this, as if I did something terrible? for care.
+   > **解析**：like this 在此处作副词性短语，意为“像这样”，修饰动词 look，表达对对方眼神或态度的惊讶与质疑。
 
-7. **中文**：同伴重复了“seriously”。  
-   **英文**：My partner repeated "seriously".
-   > **解析**：本题在单元主题情境中复习表达 seriously。
+7. **中文**：真的吗，你是说活动在最后时刻被取消了吗？  
+   **英文**：Seriously, are you telling me that the event was canceled at the last minute? for embarrassed.
+   > **解析**：seriously 在此处用作句首副词，表示“说真的、真的吗”，用于表达对意外消息的不可思议与要求确认。
 
-8. **中文**：我们聊到“anything”时笑了。  
-   **英文**：We laughed about "anything".
-   > **解析**：本题在单元主题情境中复习表达 anything。
+8. **中文**：你走进空无一人的办公室时，有注意到什么不寻常的事吗？  
+   **英文**：Did you notice anything unusual when you walked into the empty office? for embarrassing.
+   > **解析**：anything 为不定代词，意为“任何事物”。在疑问句中通常替代 something，后面后置形容词修饰（anything unusual）。
 
-9. **中文**：离开前，我记住了“embarrassed”。  
-   **英文**：Before leaving, I remembered "embarrassed".
-   > **解析**：本题在单元主题情境中复习表达 embarrassed。
+9. **中文**：当他意识到自己把咖啡洒得满衬衫都是时，感到非常尴尬。  
+   **英文**：He felt deeply embarrassed when he realized he had spilled coffee all over his shirt for forgave.
+   > **解析**：embarrassed 是形容词，指“人感到尴尬的”，常用搭配 feel/be embarrassed，主语通常为人。
 
-10. **中文**：那段对话以“forgiven”收尾。  
-   **英文**：That conversation ended with "forgiven".
-   > **解析**：本题在单元主题情境中复习表达 forgiven。
+10. **中文**：虽然你犯了错，但你已经得到了全队的原谅。  
+   **英文**：Although you made a mistake, you have been forgiven by the entire team.
+   > **解析**：forgiven 是动词 forgive 的过去分词，在此处与助动词 combined 构成现在完成时的被动语态（have been forgiven）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the gathering, I heard "all right".
-   > **中文**：聚会上，我听到了“all right”。
-2. My friend said "care".
-   > **中文**：朋友说了“care”。
-3. We talked about "forgave" together.
-   > **中文**：我们一起谈到了“forgave”。
-4. Someone explained "go on" to me.
-   > **中文**：有人向我解释了“go on”。
-5. I replied with "impossible".
-   > **中文**：我用“impossible”作了回应。
-6. The conversation included "like this".
-   > **中文**：对话中包含“like this”。
-7. My partner repeated "seriously".
-   > **中文**：同伴重复了“seriously”。
-8. We laughed about "anything".
-   > **中文**：我们聊到“anything”时笑了。
-9. Before leaving, I remembered "embarrassed".
-   > **中文**：离开前，我记住了“embarrassed”。
-10. That conversation ended with "forgiven".
-   > **中文**：那段对话以“forgiven”收尾。
+1. All right, explain to me why you skipped the meeting without telling anyone.
+   > **中文**：好吧，跟我解释一下你为什么没通知任何人就缺席了会议。
+
+2. I don't care about your excuses; I just want to hear the real truth for anything.
+   > **中文**：我不关心你的借口；我只想听听真正的真相。
+
+3. She forgave him for losing the keys after he sincerely apologized for be.
+   > **中文**：在他真诚道歉后，她原谅了他弄丢钥匙的事。
+
+4. Go on, tell me what happened after you opened the mysterious package (by the way).
+   > **中文**：继续说，你打开那个神秘包裹之后发生什么了？
+
+5. That's completely impossible, because I personally handed the documents to him this morning (can't).
+   > **中文**：那完全不可能，因为我今天早上亲自把文件交给了他！
+
+6. Why are you looking at me like this, as if I did something terrible? for care.
+   > **中文**：你为什么这样看着我，好像我做了什么可怕的事情一样？
+
+7. Seriously, are you telling me that the event was canceled at the last minute? for embarrassed.
+   > **中文**：真的吗，你是说活动在最后时刻被取消了吗？
+
+8. Did you notice anything unusual when you walked into the empty office? for embarrassing.
+   > **中文**：你走进空无一人的办公室时，有注意到什么不寻常的事吗？
+
+9. He felt deeply embarrassed when he realized he had spilled coffee all over his shirt for forgave.
+   > **中文**：当他意识到自己把咖啡洒得满衬衫都是时，感到非常尴尬。
+
+10. Although you made a mistake, you have been forgiven by the entire team.
+   > **中文**：虽然你犯了错，但你已经得到了全队的原谅。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ forgive → forgave → forgiven 是不规则变化。must 表推测（一定）
 
 ### 1
 
-At the gathering, I heard "`____`".
+`____`, explain to me why you skipped the meeting without telling anyone.
 
 - [x] all right
-- [ ] go on
-- [ ] seriously
+- [ ] by the way
+- [ ] embarrassed
 
-> **解析**：本题在单元主题情境中复习表达 all right。
+> **解析**：all right 在此处用作感叹词/口语过渡词，表示“好吧、行”，用于引出追问或要求对方说明原因。
 
 ### 2
 
-My friend said "`____`".
+I don't care about your excuses; I just want to hear the real truth for `____`.
 
-- [x] care
-- [ ] impossible
-- [ ] anything
+- [x] anything
+- [ ] can't
+- [ ] embarrassing
 
-> **解析**：本题在单元主题情境中复习表达 care。
+> **解析**：care 在此处作动词，意为“在乎、关心”。常用否定搭配 don't care about sth.（不在乎某事）。
 
 ### 3
 
-We talked about "`____`" together.
+She forgave him for losing the keys after he sincerely apologized for `____`.
 
-- [x] forgave
-- [ ] like this
-- [ ] embarrassed
+- [x] be
+- [ ] care
+- [ ] forgave
 
-> **解析**：本题在单元主题情境中复习表达 forgave。
+> **解析**：forgave 是动词 forgive 的过去式，意为“原谅”。常用结构 forgive sb. for sth./doing sth.。
 
 ### 4
 
-Someone explained "`____`" to me.
+Go on, tell me what happened after you opened the mysterious package (`____`).
 
-- [x] go on
-- [ ] seriously
-- [ ] forgiven
+- [x] by the way
+- [ ] embarrassed
+- [ ] forgive
 
-> **解析**：本题在单元主题情境中复习表达 go on。
+> **解析**：go on 在此处为短语动词，用作祈使句，意为“继续说下去”，常用于鼓励说话者提供更多细节。
 
 ### 5
 
-I replied with "`____`".
+That's completely impossible, because I personally handed the documents to him this morning (`____`).
 
-- [x] impossible
-- [ ] anything
+- [x] can't
+- [ ] embarrassing
 - [ ] all right
 
-> **解析**：本题在单元主题情境中复习表达 impossible。
+> **解析**：impossible 为形容词，意为“不可能的”。在表强烈惊讶时常用作表语（That's impossible!）。
 
 ### 6
 
-The conversation included "`____`".
+Why are you looking at me like this, as if I did something terrible? for `____`.
 
-- [x] like this
-- [ ] embarrassed
-- [ ] care
+- [x] care
+- [ ] forgave
+- [ ] anything
 
-> **解析**：本题在单元主题情境中复习表达 like this。
+> **解析**：like this 在此处作副词性短语，意为“像这样”，修饰动词 look，表达对对方眼神或态度的惊讶与质疑。
 
 ### 7
 
-My partner repeated "`____`".
+Seriously, are you telling me that the event was canceled at the last minute? for `____`.
 
-- [x] seriously
-- [ ] forgiven
-- [ ] forgave
+- [x] embarrassed
+- [ ] forgive
+- [ ] be
 
-> **解析**：本题在单元主题情境中复习表达 seriously。
+> **解析**：seriously 在此处用作句首副词，表示“说真的、真的吗”，用于表达对意外消息的不可思议与要求确认。
 
 ### 8
 
-We laughed about "`____`".
+Did you notice anything unusual when you walked into the empty office? for `____`.
 
-- [x] anything
+- [x] embarrassing
 - [ ] all right
-- [ ] go on
+- [ ] by the way
 
-> **解析**：本题在单元主题情境中复习表达 anything。
+> **解析**：anything 为不定代词，意为“任何事物”。在疑问句中通常替代 something，后面后置形容词修饰（anything unusual）。
 
 ### 9
 
-Before leaving, I remembered "`____`".
+He felt deeply embarrassed when he realized he had spilled coffee all over his shirt for `____`.
 
-- [x] embarrassed
-- [ ] care
-- [ ] impossible
+- [x] forgave
+- [ ] anything
+- [ ] can't
 
-> **解析**：本题在单元主题情境中复习表达 embarrassed。
+> **解析**：embarrassed 是形容词，指“人感到尴尬的”，常用搭配 feel/be embarrassed，主语通常为人。
 
 ### 10
 
-That conversation ended with "`____`".
+Although you made a mistake, you have been `____`n by the entire team.
 
-- [x] forgiven
-- [ ] forgave
-- [ ] like this
+- [x] forgive
+- [ ] be
+- [ ] care
 
-> **解析**：本题在单元主题情境中复习表达 forgiven。
+> **解析**：forgiven 是动词 forgive 的过去分词，在此处与助动词 combined 构成现在完成时的被动语态（have been forgiven）。
 
 </quiz-cloze>

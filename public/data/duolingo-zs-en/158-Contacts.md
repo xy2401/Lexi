@@ -61,70 +61,79 @@ would you mind if + 从句 是礼貌请求。look forward to + doing。
 
 <quiz-sentence-builder>
 
-1. **中文**：在餐厅里，我询问了“annoyed”。  
-   **英文**：At the restaurant, I asked about "annoyed".
-   > **解析**：本题在单元主题情境中复习表达 annoyed。
+1. **中文**：她感到很烦恼，因为来电者在介绍时忘了说明自己的姓名。  
+   **英文**：She felt annoyed because her caller forgot to mention his name during the introduction.
+   > **解析**：annoyed 是形容词，意为“感到烦恼的/不悦的”，说明人的主观心理状态（feel annoyed）。
 
-2. **中文**：菜单上有“employee”。  
-   **英文**：The menu included "employee".
-   > **解析**：本题在单元主题情境中复习表达 employee。
+2. **中文**：让我介绍一下我们的新员工戴维，他刚刚加入市场部。  
+   **英文**：Let me introduce our new employee, David, who just joined the marketing department for annoying.
+   > **解析**：employee 为可数名词，意为“雇员、员工”，与雇主 employer 对应。
 
-3. **中文**：在餐桌旁，我们谈到了“go”。  
-   **英文**：At the table, we talked about "go".
-   > **解析**：本题在单元主题情境中复习表达 go。
+3. **中文**：给你，这是我们常务董事的名片。  
+   **英文**：Here you go, this is the business card of our managing director for assistant.
+   > **解析**：go 在此处与 here 构成常用交际口语 Here you go，意为“给你/拿去吧”，用于递交物品或介绍他人联络方式。
 
-4. **中文**：厨师提到了“look forward to”。  
-   **英文**：The cook mentioned "look forward to".
-   > **解析**：本题在单元主题情境中复习表达 look forward to。
+4. **中文**：我期待着在即将到来的国际项目中与您合作。  
+   **英文**：I look forward to working with you on this upcoming international project for designer.
+   > **解析**：look forward to 为固定动词短语，意为“期待、盼望”，注意其中的 to 为介词，后接名词或动名词（working）。
 
-5. **中文**：晚餐我点了“opportunity”。  
-   **英文**：I ordered "opportunity" for dinner.
-   > **解析**：本题在单元主题情境中复习表达 opportunity。
+5. **中文**：这是一个向新投资者介绍我们团队的绝佳机会。  
+   **英文**：It is a great opportunity to introduce our team to the new investors for employee.
+   > **解析**：opportunity 为可数名词，意为“机会”。常见结构 an opportunity to do sth.（做某事的机会）。
 
-6. **中文**：我的朋友选择了“sir”。  
-   **英文**：My friend chose "sir".
-   > **解析**：本题在单元主题情境中复习表达 sir。
+6. **中文**：早上好先生，请允许我介绍我们今天的特邀演讲嘉宾。  
+   **英文**：Good morning sir, please allow me to introduce our guest speaker today for employer.
+   > **解析**：sir 为尊称名词，意为“先生”，常用于正式场合向男性长辈或客户表达恭敬。
 
-7. **中文**：服务员重复了“whenever”。  
-   **英文**：The waiter repeated "whenever".
-   > **解析**：本题在单元主题情境中复习表达 whenever。
+7. **中文**：无论何时你需要额外细节，都可以随时联系我的经理。  
+   **英文**：You can reach out to my manager whenever you need additional details (get to know).
+   > **解析**：whenever 为连词，意为“每当、无论何时”，引导时间状语从句（whenever you need...）。
 
-8. **中文**：我们分享了一个关于“annoying”的故事。  
-   **英文**：We shared a story about "annoying".
-   > **解析**：本题在单元主题情境中复习表达 annoying。
+8. **中文**：在商务会议上别人打断你的介绍会让人很恼火。  
+   **英文**：It can be annoying when people interrupt your introduction during a business meeting for go.
+   > **解析**：annoying 为形容词，意为“令人烦恼的/讨厌的”，通常修饰事物或客观状况（It is annoying...）。
 
-9. **中文**：饭后，我记住了“employer”。  
-   **英文**：After the meal, I remembered "employer".
-   > **解析**：本题在单元主题情境中复习表达 employer。
+9. **中文**：他的雇主在招待会上亲自表扬了他出色的沟通能力。  
+   **英文**：His employer personally praised his excellent communication skills at the reception (hear from).
+   > **解析**：employer 为可数名词，意为“雇主、老板”，指雇用人员的公司或个人。
 
-10. **中文**：那顿饭以“if you like”收尾。  
-   **英文**：That meal ended with "if you like".
-   > **解析**：本题在单元主题情境中复习表达 if you like。
+10. **中文**：如果你愿意的话，我长可以现在就和你交换联系电话。  
+   **英文**：I can exchange contact numbers with you now, if you like.
+   > **解析**：if you like 为口语常用条件短语，意为“如果你愿意/如果你喜欢”，用于客气地提出建议或选择。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the restaurant, I asked about "annoyed".
-   > **中文**：在餐厅里，我询问了“annoyed”。
-2. The menu included "employee".
-   > **中文**：菜单上有“employee”。
-3. At the table, we talked about "go".
-   > **中文**：在餐桌旁，我们谈到了“go”。
-4. The cook mentioned "look forward to".
-   > **中文**：厨师提到了“look forward to”。
-5. I ordered "opportunity" for dinner.
-   > **中文**：晚餐我点了“opportunity”。
-6. My friend chose "sir".
-   > **中文**：我的朋友选择了“sir”。
-7. The waiter repeated "whenever".
-   > **中文**：服务员重复了“whenever”。
-8. We shared a story about "annoying".
-   > **中文**：我们分享了一个关于“annoying”的故事。
-9. After the meal, I remembered "employer".
-   > **中文**：饭后，我记住了“employer”。
-10. That meal ended with "if you like".
-   > **中文**：那顿饭以“if you like”收尾。
+1. She felt annoyed because her caller forgot to mention his name during the introduction.
+   > **中文**：她感到很烦恼，因为来电者在介绍时忘了说明自己的姓名。
+
+2. Let me introduce our new employee, David, who just joined the marketing department for annoying.
+   > **中文**：让我介绍一下我们的新员工戴维，他刚刚加入市场部。
+
+3. Here you go, this is the business card of our managing director for assistant.
+   > **中文**：给你，这是我们常务董事的名片。
+
+4. I look forward to working with you on this upcoming international project for designer.
+   > **中文**：我期待着在即将到来的国际项目中与您合作。
+
+5. It is a great opportunity to introduce our team to the new investors for employee.
+   > **中文**：这是一个向新投资者介绍我们团队的绝佳机会。
+
+6. Good morning sir, please allow me to introduce our guest speaker today for employer.
+   > **中文**：早上好先生，请允许我介绍我们今天的特邀演讲嘉宾。
+
+7. You can reach out to my manager whenever you need additional details (get to know).
+   > **中文**：无论何时你需要额外细节，都可以随时联系我的经理。
+
+8. It can be annoying when people interrupt your introduction during a business meeting for go.
+   > **中文**：在商务会议上别人打断你的介绍会让人很恼火。
+
+9. His employer personally praised his excellent communication skills at the reception (hear from).
+   > **中文**：他的雇主在招待会上亲自表扬了他出色的沟通能力。
+
+10. I can exchange contact numbers with you now, if you like.
+   > **中文**：如果你愿意的话，我长可以现在就和你交换联系电话。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ would you mind if + 从句 是礼貌请求。look forward to + doing。
 
 ### 1
 
-At the restaurant, I asked about "`____`".
+She felt `____` because her caller forgot to mention his name during the introduction.
 
 - [x] annoyed
-- [ ] look forward to
-- [ ] whenever
+- [ ] designer
+- [ ] get to know
 
-> **解析**：本题在单元主题情境中复习表达 annoyed。
+> **解析**：annoyed 是形容词，意为“感到烦恼的/不悦的”，说明人的主观心理状态（feel annoyed）。
 
 ### 2
 
-The menu included "`____`".
+Let me introduce our new employee, David, who just joined the marketing department for `____`.
 
-- [x] employee
-- [ ] opportunity
-- [ ] annoying
+- [x] annoying
+- [ ] employee
+- [ ] go
 
-> **解析**：本题在单元主题情境中复习表达 employee。
+> **解析**：employee 为可数名词，意为“雇员、员工”，与雇主 employer 对应。
 
 ### 3
 
-At the table, we talked about "`____`".
+Here you go, this is the business card of our managing director for `____`.
 
-- [x] go
-- [ ] sir
+- [x] assistant
 - [ ] employer
+- [ ] hear from
 
-> **解析**：本题在单元主题情境中复习表达 go。
+> **解析**：go 在此处与 here 构成常用交际口语 Here you go，意为“给你/拿去吧”，用于递交物品或介绍他人联络方式。
 
 ### 4
 
-The cook mentioned "`____`".
+I look forward to working with you on this upcoming international project for `____`.
 
-- [x] look forward to
-- [ ] whenever
+- [x] designer
+- [ ] get to know
 - [ ] if you like
 
-> **解析**：本题在单元主题情境中复习表达 look forward to。
+> **解析**：look forward to 为固定动词短语，意为“期待、盼望”，注意其中的 to 为介词，后接名词或动名词（working）。
 
 ### 5
 
-I ordered "`____`" for dinner.
+It is a great opportunity to introduce our team to the new investors for `____`.
 
-- [x] opportunity
-- [ ] annoying
+- [x] employee
+- [ ] go
 - [ ] annoyed
 
-> **解析**：本题在单元主题情境中复习表达 opportunity。
+> **解析**：opportunity 为可数名词，意为“机会”。常见结构 an opportunity to do sth.（做某事的机会）。
 
 ### 6
 
-My friend chose "`____`".
+Good morning sir, please allow me to introduce our guest speaker today for `____`.
 
-- [x] sir
-- [ ] employer
-- [ ] employee
+- [x] employer
+- [ ] hear from
+- [ ] annoying
 
-> **解析**：本题在单元主题情境中复习表达 sir。
+> **解析**：sir 为尊称名词，意为“先生”，常用于正式场合向男性长辈或客户表达恭敬。
 
 ### 7
 
-The waiter repeated "`____`".
+You can reach out to my manager whenever you need additional details (`____`).
 
-- [x] whenever
+- [x] get to know
 - [ ] if you like
-- [ ] go
+- [ ] assistant
 
-> **解析**：本题在单元主题情境中复习表达 whenever。
+> **解析**：whenever 为连词，意为“每当、无论何时”，引导时间状语从句（whenever you need...）。
 
 ### 8
 
-We shared a story about "`____`".
+It can be annoying when people interrupt your introduction during a business meeting for `____`.
 
-- [x] annoying
+- [x] go
 - [ ] annoyed
-- [ ] look forward to
+- [ ] designer
 
-> **解析**：本题在单元主题情境中复习表达 annoying。
+> **解析**：annoying 为形容词，意为“令人烦恼的/讨厌的”，通常修饰事物或客观状况（It is annoying...）。
 
 ### 9
 
-After the meal, I remembered "`____`".
+His employer personally praised his excellent communication skills at the reception (`____`).
 
-- [x] employer
+- [x] hear from
+- [ ] annoying
 - [ ] employee
-- [ ] opportunity
 
-> **解析**：本题在单元主题情境中复习表达 employer。
+> **解析**：employer 为可数名词，意为“雇主、老板”，指雇用人员的公司或个人。
 
 ### 10
 
-That meal ended with "`____`".
+I can exchange contact numbers with you now, `____`.
 
 - [x] if you like
-- [ ] go
-- [ ] sir
+- [ ] assistant
+- [ ] employer
 
-> **解析**：本题在单元主题情境中复习表达 if you like。
+> **解析**：if you like 为口语常用条件短语，意为“如果你愿意/如果你喜欢”，用于客气地提出建议或选择。
 
 </quiz-cloze>

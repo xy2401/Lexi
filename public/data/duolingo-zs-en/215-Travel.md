@@ -53,70 +53,79 @@ had / hadn't 提示过去完成时（Had you reserved...? / I hadn't known...）
 
 <quiz-sentence-builder>
 
-1. **中文**：在机场，我听到了“ahead of time”。  
-   **英文**：At the airport, I heard "ahead of time".
-   > **解析**：本题在单元主题情境中复习表达 ahead of time。
+1. **中文**：在假期高峰期提前预订火车票是明智的。  
+   **英文**：It is wise to reserve your train tickets ahead of time during peak holiday seasons.
+   > **解析**：`ahead of time` 为时间副词短语，意为“提前；事先”。作状语修饰动词 `reserve`，同义词为 `in advance`。
 
-2. **中文**：我的旅伴解释了“central”。  
-   **英文**：My travel partner explained "central".
-   > **解析**：本题在单元主题情境中复习表达 central。
+2. **中文**：我们的酒店地理位置优越，位于靠近火车站的中心城区。  
+   **英文**：Our hotel is conveniently located in the central district near the main station for as.
+   > **解析**：`central` 形容词，意为“中央的；中心区域的”，修饰名词 `district`。
 
-3. **中文**：旅行途中，我们谈到了“fasten”。  
-   **英文**：During the trip, we talked about "fasten".
-   > **解析**：本题在单元主题情境中复习表达 fasten。
+3. **中文**：在飞机准备起飞时，请系紧您的安全带。  
+   **英文**：Please fasten your seatbelts securely as the plane prepares for takeoff (bed and breakfast).
+   > **解析**：`fasten` 及物动词，意为“系紧；扣牢”。航空旅行场景中最常用于 `fasten your seatbelt`（系好安全带）。
 
-4. **中文**：在酒店里，我记下了“help yourself to”。  
-   **英文**：At the hotel, I wrote down "help yourself to".
-   > **解析**：本题在单元主题情境中复习表达 help yourself to。
+4. **中文**：请随意享用休息室里的免费点心和饮料。  
+   **英文**：Please help yourself to the complimentary snacks and drinks in the lounge for carry-on.
+   > **解析**：`help yourself to` 为礼貌动词短语，意为“请自便/随意享用（食物、饮料等）”。后接具体供给物品。
 
-5. **中文**：旅行者清楚地重复了“out of order”。  
-   **英文**：The traveler repeated "out of order" clearly.
-   > **解析**：本题在单元主题情境中复习表达 out of order。
+5. **中文**：大堂附近的电梯坏了，所以我们不得不走楼梯。  
+   **英文**：The elevator near the lobby is out of order, so we have to use the stairs for central.
+   > **解析**：`out of order` 为介词短语作表语，意为“发生故障；失灵”。常用于公共设施（如电梯、售票机）故障提示。
 
-6. **中文**：离开前，我查看了“room”。  
-   **英文**：Before leaving, I checked "room".
-   > **解析**：本题在单元主题情境中复习表达 room。
+6. **中文**：经济舱前排有充裕的腿部空间。  
+   **英文**：There is plenty of leg room in the front row of the economy cabin for check.
+   > **解析**：`room` 在此处用作不可数名词，意为“空间；空隙”。短语 `leg room` 特指脚部伸展空间。
 
-7. **中文**：在去那里的路上，我们用到了“separate”。  
-   **英文**：On the way there, we used "separate".
-   > **解析**：本题在单元主题情境中复习表达 separate。
+7. **中文**：他们在餐厅要求分开结账。  
+   **英文**：They requested separate checks for their meals at the restaurant (come out).
+   > **解析**：`separate` 形容词，在此处读作 /ˈsɛpərət/，意为“分开的；单独的”。`separate checks` 指“各自买单/分开付账”。
 
-8. **中文**：到达后，我想起了“carry-on”。  
-   **英文**：After arrival, I remembered "carry-on".
-   > **解析**：本题在单元主题情境中复习表达 carry-on。
+8. **中文**：乘客被允许携带一件随身行李登机。  
+   **英文**：Passengers are allowed to bring one carry-on bag aboard the flight for fasten.
+   > **解析**：`carry-on` 作前置形容词修饰 `bag`，意为“随身的；可带上飞机的”。也可单独做名词 `a carry-on`（随身行李）。
 
-9. **中文**：导游指出了“come out”。  
-   **英文**：The guide pointed out "come out".
-   > **解析**：本题在单元主题情境中复习表达 come out。
+9. **中文**：乘务员说行李很快就会在三号传送带上出来。  
+   **英文**：The flight attendant said the luggage would come out on carousel three shortly.
+   > **解析**：`come out` 不及物动词短语，意为“出来；出现”。在机场场景中常指行李从输送带传送出来。
 
-10. **中文**：那段旅行故事以“had”收尾。  
-   **英文**：That travel story ended with "had".
-   > **解析**：本题在单元主题情境中复习表达 had。
+10. **中文**：我们在探索古老城市的旧街巷时度过了一段美好的时光。  
+   **英文**：We had a wonderful time exploring the ancient streets of the old city for for.
+   > **解析**：`had` 动词 `have` 的过去式，与 `a wonderful time` 搭配表示“度过了（一段时光）”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the airport, I heard "ahead of time".
-   > **中文**：在机场，我听到了“ahead of time”。
-2. My travel partner explained "central".
-   > **中文**：我的旅伴解释了“central”。
-3. During the trip, we talked about "fasten".
-   > **中文**：旅行途中，我们谈到了“fasten”。
-4. At the hotel, I wrote down "help yourself to".
-   > **中文**：在酒店里，我记下了“help yourself to”。
-5. The traveler repeated "out of order" clearly.
-   > **中文**：旅行者清楚地重复了“out of order”。
-6. Before leaving, I checked "room".
-   > **中文**：离开前，我查看了“room”。
-7. On the way there, we used "separate".
-   > **中文**：在去那里的路上，我们用到了“separate”。
-8. After arrival, I remembered "carry-on".
-   > **中文**：到达后，我想起了“carry-on”。
-9. The guide pointed out "come out".
-   > **中文**：导游指出了“come out”。
-10. That travel story ended with "had".
-   > **中文**：那段旅行故事以“had”收尾。
+1. It is wise to reserve your train tickets ahead of time during peak holiday seasons.
+   > **中文**：在假期高峰期提前预订火车票是明智的。
+
+2. Our hotel is conveniently located in the central district near the main station for as.
+   > **中文**：我们的酒店地理位置优越，位于靠近火车站的中心城区。
+
+3. Please fasten your seatbelts securely as the plane prepares for takeoff (bed and breakfast).
+   > **中文**：在飞机准备起飞时，请系紧您的安全带。
+
+4. Please help yourself to the complimentary snacks and drinks in the lounge for carry-on.
+   > **中文**：请随意享用休息室里的免费点心和饮料。
+
+5. The elevator near the lobby is out of order, so we have to use the stairs for central.
+   > **中文**：大堂附近的电梯坏了，所以我们不得不走楼梯。
+
+6. There is plenty of leg room in the front row of the economy cabin for check.
+   > **中文**：经济舱前排有充裕的腿部空间。
+
+7. They requested separate checks for their meals at the restaurant (come out).
+   > **中文**：他们在餐厅要求分开结账。
+
+8. Passengers are allowed to bring one carry-on bag aboard the flight for fasten.
+   > **中文**：乘客被允许携带一件随身行李登机。
+
+9. The flight attendant said the luggage would come out on carousel three shortly.
+   > **中文**：乘务员说行李很快就会在三号传送带上出来。
+
+10. We had a wonderful time exploring the ancient streets of the old city for for.
+   > **中文**：我们在探索古老城市的旧街巷时度过了一段美好的时光。
 
 </quiz-listening>
 
@@ -128,102 +137,102 @@ had / hadn't 提示过去完成时（Had you reserved...? / I hadn't known...）
 
 ### 1
 
-At the airport, I heard "`____`".
+It is wise to reserve your train tickets `____` during peak holiday seasons.
 
 - [x] ahead of time
-- [ ] help yourself to
-- [ ] separate
+- [ ] carry-on
+- [ ] come out
 
-> **解析**：本题在单元主题情境中复习表达 ahead of time。
+> **解析**：`ahead of time` 为时间副词短语，意为“提前；事先”。作状语修饰动词 `reserve`，同义词为 `in advance`。
 
 ### 2
 
-My travel partner explained "`____`".
+Our hotel is conveniently located in the central district near the main station for `____`.
 
-- [x] central
-- [ ] out of order
-- [ ] carry-on
+- [x] as
+- [ ] central
+- [ ] fasten
 
-> **解析**：本题在单元主题情境中复习表达 central。
+> **解析**：`central` 形容词，意为“中央的；中心区域的”，修饰名词 `district`。
 
 ### 3
 
-During the trip, we talked about "`____`".
+Please fasten your seatbelts securely as the plane prepares for takeoff (`____`).
 
-- [x] fasten
-- [ ] room
-- [ ] come out
+- [x] bed and breakfast
+- [ ] check
+- [ ] flight attendant
 
-> **解析**：本题在单元主题情境中复习表达 fasten。
+> **解析**：`fasten` 及物动词，意为“系紧；扣牢”。航空旅行场景中最常用于 `fasten your seatbelt`（系好安全带）。
 
 ### 4
 
-At the hotel, I wrote down "`____`".
+Please help yourself to the complimentary snacks and drinks in the lounge for `____`.
 
-- [x] help yourself to
-- [ ] separate
-- [ ] had
+- [x] carry-on
+- [ ] come out
+- [ ] for
 
-> **解析**：本题在单元主题情境中复习表达 help yourself to。
+> **解析**：`help yourself to` 为礼貌动词短语，意为“请自便/随意享用（食物、饮料等）”。后接具体供给物品。
 
 ### 5
 
-The traveler repeated "`____`" clearly.
+The elevator near the lobby is out of order, so we have to use the stairs for `____`.
 
-- [x] out of order
-- [ ] carry-on
+- [x] central
+- [ ] fasten
 - [ ] ahead of time
 
-> **解析**：本题在单元主题情境中复习表达 out of order。
+> **解析**：`out of order` 为介词短语作表语，意为“发生故障；失灵”。常用于公共设施（如电梯、售票机）故障提示。
 
 ### 6
 
-Before leaving, I checked "`____`".
+There is plenty of leg room in the front row of the economy cabin for `____`.
 
-- [x] room
-- [ ] come out
-- [ ] central
+- [x] check
+- [ ] flight attendant
+- [ ] as
 
-> **解析**：本题在单元主题情境中复习表达 room。
+> **解析**：`room` 在此处用作不可数名词，意为“空间；空隙”。短语 `leg room` 特指脚部伸展空间。
 
 ### 7
 
-On the way there, we used "`____`".
+They requested separate checks for their meals at the restaurant (`____`).
 
-- [x] separate
-- [ ] had
-- [ ] fasten
+- [x] come out
+- [ ] for
+- [ ] bed and breakfast
 
-> **解析**：本题在单元主题情境中复习表达 separate。
+> **解析**：`separate` 形容词，在此处读作 /ˈsɛpərət/，意为“分开的；单独的”。`separate checks` 指“各自买单/分开付账”。
 
 ### 8
 
-After arrival, I remembered "`____`".
+Passengers are allowed to bring one carry-on bag aboard the flight for `____`.
 
-- [x] carry-on
+- [x] fasten
 - [ ] ahead of time
-- [ ] help yourself to
+- [ ] carry-on
 
-> **解析**：本题在单元主题情境中复习表达 carry-on。
+> **解析**：`carry-on` 作前置形容词修饰 `bag`，意为“随身的；可带上飞机的”。也可单独做名词 `a carry-on`（随身行李）。
 
 ### 9
 
-The guide pointed out "`____`".
+The `____` said the luggage would come out on carousel three shortly.
 
-- [x] come out
+- [x] flight attendant
+- [ ] as
 - [ ] central
-- [ ] out of order
 
-> **解析**：本题在单元主题情境中复习表达 come out。
+> **解析**：`come out` 不及物动词短语，意为“出来；出现”。在机场场景中常指行李从输送带传送出来。
 
 ### 10
 
-That travel story ended with "`____`".
+We had a wonderful time exploring the ancient streets of the old city `____` for.
 
-- [x] had
-- [ ] fasten
-- [ ] room
+- [x] for
+- [ ] bed and breakfast
+- [ ] check
 
-> **解析**：本题在单元主题情境中复习表达 had。
+> **解析**：`had` 动词 `have` 的过去式，与 `a wonderful time` 搭配表示“度过了（一段时光）”。
 
 </quiz-cloze>

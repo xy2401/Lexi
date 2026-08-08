@@ -79,70 +79,79 @@ the problem is / the issue is 是引出抱怨的经典句式。get carried away�
 
 <quiz-sentence-builder>
 
-1. **中文**：在家里，我们谈到了“a piece of”。  
-   **英文**：At home, we talked about "a piece of".
-   > **解析**：本题在单元主题情境中复习表达 a piece of。
+1. **中文**：我们的隔壁邻居有个午夜给草坪浇水的怪异习惯。  
+   **英文**：Our next-door neighbor has a bizarre habit of watering his lawn at midnight (a piece of).
+   > **解析**：`bizarre` 是形容词，意为“极其古怪的、怪诞的”，修饰 `habit`。
 
-2. **中文**：家人提到了“driveway”。  
-   **英文**：My family mentioned "driveway".
-   > **解析**：本题在单元主题情境中复习表达 driveway。
+2. **中文**：她经常在深夜播放大声的音乐。  
+   **英文**：She constantly plays loud music late into the night for bizarre.
+   > **解析**：`constantly` 是副词，意为“不断地、经常地”，修饰动词 `plays`。
 
-3. **中文**：在房间里，我注意到了“frankly”。  
-   **英文**：In the room, I noticed "frankly".
-   > **解析**：本题在单元主题情境中复习表达 frankly。
+3. **中文**：在工作日晚上制造这么大的噪音简直是令人不能容忍。  
+   **英文**：Making so much noise on a weekday evening is simply outrageous for constantly.
+   > **解析**：`outrageous` 是形容词，意为“令人不能容忍的、过分的”，作表语。
 
-4. **中文**：我们在家里用到了“keep”。  
-   **英文**：We used "keep" at home.
-   > **解析**：本题在单元主题情境中复习表达 keep。
+4. **中文**：我们安装了木栅栏以保护我们家庭的隐私。  
+   **英文**：We installed a wooden fence to protect our family's privacy (cool down).
+   > **解析**：`privacy` 是不可数名词，意为“隐私”，搭配 `protect privacy`。
 
-5. **中文**：邻居询问了“pretty much”。  
-   **英文**：My neighbor asked about "pretty much".
-   > **解析**：本题在单元主题情境中复习表达 pretty much。
+5. **中文**：坦白讲，我不明白他为什么对每个人都态度如此挑衅。  
+   **英文**：Frankly, I don't understand why he acts so aggressively towards everyone for driveway.
+   > **解析**：`frankly` 是评注性副词，意为“坦白说、老实说”，常置于句首。
 
-6. **中文**：我在门边写下了“set”。  
-   **英文**：I wrote down "set" by the door.
-   > **解析**：本题在单元主题情境中复习表达 set。
+6. **中文**：问题在于他的狗整天叫个不停。  
+   **英文**：The problem is that his dog barks all day long without stopping for endless.
+   > **解析**：`the problem is that...` 是用于指出问题所在的主从复合句型。
 
-7. **中文**：晚饭后，我们重复了“the issue is”。  
-   **英文**：After dinner, we repeated "the issue is".
-   > **解析**：本题在单元主题情境中复习表达 the issue is。
+7. **中文**：他在争吵中情绪失控，开始在车道上大喊大叫。  
+   **英文**：He got carried away during the argument and started shouting at the driveway (fire department).
+   > **解析**：`get carried away` 是固定短语，意为“情绪失控、做过头”。
 
-8. **中文**：家庭故事里包含“bizarre”。  
-   **英文**：The family story included "bizarre".
-   > **解析**：本题在单元主题情境中复习表达 bizarre。
+8. **中文**：邻居们应当为保持公共区域的清洁承担责任。  
+   **英文**：Neighbors should take responsibility for keeping the shared area clean for frankly.
+   > **解析**：`take responsibility for...` 是固定短语，意为“对……承担责任”。
 
-9. **中文**：睡前，我记住了“endless”。  
-   **英文**：Before bed, I remembered "endless".
-   > **解析**：本题在单元主题情境中复习表达 endless。
+9. **中文**：自昨天起，一辆奇怪的红色轿车就一直停在我们的车道上。  
+   **英文**：A strange red car has been parked on our driveway since yesterday (get carried away).
+   > **解析**：`driveway` 是名词，意为“私人车道”，介词用 `on`。
 
-10. **中文**：那个夜晚以“i don't think”收尾。  
-   **英文**：That evening ended with "i don't think".
-   > **解析**：本题在单元主题情境中复习表达 i don't think。
+10. **中文**：如果您能把电视音量调小一点，我将不胜感激。  
+   **英文**：I would appreciate it if you could turn down the volume of your TV (i don't think).
+   > **解析**：`would appreciate it if...` 是极具礼貌委婉色彩的常用请求句型。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At home, we talked about "a piece of".
-   > **中文**：在家里，我们谈到了“a piece of”。
-2. My family mentioned "driveway".
-   > **中文**：家人提到了“driveway”。
-3. In the room, I noticed "frankly".
-   > **中文**：在房间里，我注意到了“frankly”。
-4. We used "keep" at home.
-   > **中文**：我们在家里用到了“keep”。
-5. My neighbor asked about "pretty much".
-   > **中文**：邻居询问了“pretty much”。
-6. I wrote down "set" by the door.
-   > **中文**：我在门边写下了“set”。
-7. After dinner, we repeated "the issue is".
-   > **中文**：晚饭后，我们重复了“the issue is”。
-8. The family story included "bizarre".
-   > **中文**：家庭故事里包含“bizarre”。
-9. Before bed, I remembered "endless".
-   > **中文**：睡前，我记住了“endless”。
-10. That evening ended with "i don't think".
-   > **中文**：那个夜晚以“i don't think”收尾。
+1. Our next-door neighbor has a bizarre habit of watering his lawn at midnight (a piece of).
+   > **中文**：我们的隔壁邻居有个午夜给草坪浇水的怪异习惯。
+
+2. She constantly plays loud music late into the night for bizarre.
+   > **中文**：她经常在深夜播放大声的音乐。
+
+3. Making so much noise on a weekday evening is simply outrageous for constantly.
+   > **中文**：在工作日晚上制造这么大的噪音简直是令人不能容忍。
+
+4. We installed a wooden fence to protect our family's privacy (cool down).
+   > **中文**：我们安装了木栅栏以保护我们家庭的隐私。
+
+5. Frankly, I don't understand why he acts so aggressively towards everyone for driveway.
+   > **中文**：坦白讲，我不明白他为什么对每个人都态度如此挑衅。
+
+6. The problem is that his dog barks all day long without stopping for endless.
+   > **中文**：问题在于他的狗整天叫个不停。
+
+7. He got carried away during the argument and started shouting at the driveway (fire department).
+   > **中文**：他在争吵中情绪失控，开始在车道上大喊大叫。
+
+8. Neighbors should take responsibility for keeping the shared area clean for frankly.
+   > **中文**：邻居们应当为保持公共区域的清洁承担责任。
+
+9. A strange red car has been parked on our driveway since yesterday (get carried away).
+   > **中文**：自昨天起，一辆奇怪的红色轿车就一直停在我们的车道上。
+
+10. I would appreciate it if you could turn down the volume of your TV (i don't think).
+   > **中文**：如果您能把电视音量调小一点，我将不胜感激。
 
 </quiz-listening>
 
@@ -154,102 +163,102 @@ the problem is / the issue is 是引出抱怨的经典句式。get carried away�
 
 ### 1
 
-At home, we talked about "`____`".
+Our next-door neighbor has a bizarre habit of watering his lawn at midnight (`____`).
 
 - [x] a piece of
-- [ ] keep
-- [ ] the issue is
+- [ ] cool down
+- [ ] fire department
 
-> **解析**：本题在单元主题情境中复习表达 a piece of。
+> **解析**：`bizarre` 是形容词，意为“极其古怪的、怪诞的”，修饰 `habit`。
 
 ### 2
 
-My family mentioned "`____`".
+She constantly plays loud music late into the night for `____`.
 
-- [x] driveway
-- [ ] pretty much
-- [ ] bizarre
+- [x] bizarre
+- [ ] driveway
+- [ ] frankly
 
-> **解析**：本题在单元主题情境中复习表达 driveway。
+> **解析**：`constantly` 是副词，意为“不断地、经常地”，修饰动词 `plays`。
 
 ### 3
 
-In the room, I noticed "`____`".
+Making so much noise on a weekday evening is simply outrageous for `____`.
 
-- [x] frankly
-- [ ] set
+- [x] constantly
 - [ ] endless
+- [ ] get carried away
 
-> **解析**：本题在单元主题情境中复习表达 frankly。
+> **解析**：`outrageous` 是形容词，意为“令人不能容忍的、过分的”，作表语。
 
 ### 4
 
-We used "`____`" at home.
+We installed a wooden fence to protect our family's privacy (`____`).
 
-- [x] keep
-- [ ] the issue is
+- [x] cool down
+- [ ] fire department
 - [ ] i don't think
 
-> **解析**：本题在单元主题情境中复习表达 keep。
+> **解析**：`privacy` 是不可数名词，意为“隐私”，搭配 `protect privacy`。
 
 ### 5
 
-My neighbor asked about "`____`".
+Frankly, I don't understand why he acts so aggressively towards everyone for `____`.
 
-- [x] pretty much
-- [ ] bizarre
+- [x] driveway
+- [ ] frankly
 - [ ] a piece of
 
-> **解析**：本题在单元主题情境中复习表达 pretty much。
+> **解析**：`frankly` 是评注性副词，意为“坦白说、老实说”，常置于句首。
 
 ### 6
 
-I wrote down "`____`" by the door.
+The problem is that his dog barks all day long without stopping for `____`.
 
-- [x] set
-- [ ] endless
-- [ ] driveway
+- [x] endless
+- [ ] get carried away
+- [ ] bizarre
 
-> **解析**：本题在单元主题情境中复习表达 set。
+> **解析**：`the problem is that...` 是用于指出问题所在的主从复合句型。
 
 ### 7
 
-After dinner, we repeated "`____`".
+He got carried away during the argument and started shouting at the driveway (`____`).
 
-- [x] the issue is
+- [x] fire department
 - [ ] i don't think
-- [ ] frankly
+- [ ] constantly
 
-> **解析**：本题在单元主题情境中复习表达 the issue is。
+> **解析**：`get carried away` 是固定短语，意为“情绪失控、做过头”。
 
 ### 8
 
-The family story included "`____`".
+Neighbors should take responsibility for keeping the shared area clean for `____`.
 
-- [x] bizarre
+- [x] frankly
 - [ ] a piece of
-- [ ] keep
+- [ ] cool down
 
-> **解析**：本题在单元主题情境中复习表达 bizarre。
+> **解析**：`take responsibility for...` 是固定短语，意为“对……承担责任”。
 
 ### 9
 
-Before bed, I remembered "`____`".
+A strange red car has been parked on our driveway since yesterday (`____`).
 
-- [x] endless
+- [x] get carried away
+- [ ] bizarre
 - [ ] driveway
-- [ ] pretty much
 
-> **解析**：本题在单元主题情境中复习表达 endless。
+> **解析**：`driveway` 是名词，意为“私人车道”，介词用 `on`。
 
 ### 10
 
-That evening ended with "`____`".
+I would appreciate it if you could turn down the volume of your TV (`____`).
 
 - [x] i don't think
-- [ ] frankly
-- [ ] set
+- [ ] constantly
+- [ ] endless
 
-> **解析**：本题在单元主题情境中复习表达 i don't think。
+> **解析**：`would appreciate it if...` 是极具礼貌委婉色彩的常用请求句型。
 
 </quiz-cloze>

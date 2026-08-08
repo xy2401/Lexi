@@ -51,70 +51,79 @@ against, involve, most of, recent, happen 提供叙事框架：The protest was a
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“against”。  
-   **英文**：In this situation, I heard "against".
-   > **解析**：本题在单元主题情境中复习表达 against。
+1. **中文**：昨天的强降雨在低洼的河谷引发了严重的水灾。  
+   **英文**：Heavy rains caused a severe flood in the low-lying river valley yesterday for against.
+   > **解析**：flood 可数/不可数名词，意为“水灾；洪水”；也可作动词表示“淹没”。
 
-2. **中文**：同伴解释了“explode”。  
-   **英文**：My partner explained "explode".
-   > **解析**：本题在单元主题情境中复习表达 explode。
+2. **中文**：晨间新闻报道了一起涉及三辆汽车的高速公路交通事故。  
+   **英文**：The morning news reported a highway traffic crash involving three vehicles.
+   > **解析**：crash 可数名词，在此意为“（车辆等）碰撞；坠毁事故”。
 
-3. **中文**：我们一起谈到了“has there been”。  
-   **英文**：We talked about "has there been" together.
-   > **解析**：本题在单元主题情境中复习表达 has there been。
+3. **中文**：消防员在天然气管道可能发生爆炸前赶到了现场。  
+   **英文**：Firefighters rushed to the gas pipeline before it could explode for damage.
+   > **解析**：explode 不及物/及物动词，意为“爆炸；爆裂”，名词形式为 explosion。
 
-4. **中文**：我记下了“involve”。  
-   **英文**：I wrote down "involve".
-   > **解析**：本题在单元主题情境中复习表达 involve。
+4. **中文**：报告显示全市犯罪率显著下降。  
+   **英文**：The report showed a significant decrease in crime rates across the city.
+   > **解析**：decrease 可数/不可数名词，意为“减少；下降”，作动词时读作 /dɪˈkriːs/。
 
-5. **中文**：例句中包含“protest”。  
-   **英文**：The example included "protest".
-   > **解析**：本题在单元主题情境中复习表达 protest。
+5. **中文**：当地报纸报道了今年住房价值的迅速增长。  
+   **英文**：Local newspapers reported a rapid increase in home values this year for explode.
+   > **解析**：increase 可数/不可数名词，意为“增加；增长”，与 decrease 互为反义词。
 
-6. **中文**：我询问了“there has been”。  
-   **英文**：I asked about "there has been".
-   > **解析**：本题在单元主题情境中复习表达 there has been。
+6. **中文**：气象站针对沿海地区发布了强风暴预警。  
+   **英文**：The weather station issued a severe storm warning for coastal areas for flood.
+   > **解析**：warning 可数/不可数名词，意为“警告；预警”，由动词 warn 衍生而来。
 
-7. **中文**：我们在句子中用到了“there haven't been”。  
-   **英文**：We used "there haven't been" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 there haven't been。
+7. **中文**：政府推出了新的培训计划以应对高失业率。  
+   **英文**：The government launched new training programs to combat high unemployment for happen.
+   > **解析**：unemployment 不可数名词，意为“失业；失业率”，前缀 un- 表示否定。
 
-8. **中文**：朋友重复了“crash”。  
-   **英文**：My friend repeated "crash".
-   > **解析**：本题在单元主题情境中复习表达 crash。
+8. **中文**：数百名市民聚集在市政厅外举行和平抗议。  
+   **英文**：Hundreds of citizens gathered outside city hall to hold a peaceful protest (has there been).
+   > **解析**：protest 可数名词，意为“抗议；示威”；作动词时意为“对……提出抗议”。
 
-9. **中文**：后来，我记住了“flood”。  
-   **英文**：Later, I remembered "flood".
-   > **解析**：本题在单元主题情境中复习表达 flood。
+9. **中文**：侦探们正在调查昨晚报道的一起神秘谋杀案。  
+   **英文**：Detectives are investigating a mysterious murder case reported last night (have there been).
+   > **解析**：murder 名词/动词，在此作名词意为“谋杀；谋杀案”。
 
-10. **中文**：这个小故事以“improvement”收尾。  
-   **英文**：The short story ended with "improvement".
-   > **解析**：本题在单元主题情境中复习表达 improvement。
+10. **中文**：该镇在公共交通安全方面取得了巨大的改善。  
+   **英文**：The town has seen a dramatic improvement in public transportation safety.
+   > **解析**：improvement 可数/不可数名词，意为“改进；改善”，来自动词 improve。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "against".
-   > **中文**：在这个情境中，我听到了“against”。
-2. My partner explained "explode".
-   > **中文**：同伴解释了“explode”。
-3. We talked about "has there been" together.
-   > **中文**：我们一起谈到了“has there been”。
-4. I wrote down "involve".
-   > **中文**：我记下了“involve”。
-5. The example included "protest".
-   > **中文**：例句中包含“protest”。
-6. I asked about "there has been".
-   > **中文**：我询问了“there has been”。
-7. We used "there haven't been" in a sentence.
-   > **中文**：我们在句子中用到了“there haven't been”。
-8. My friend repeated "crash".
-   > **中文**：朋友重复了“crash”。
-9. Later, I remembered "flood".
-   > **中文**：后来，我记住了“flood”。
-10. The short story ended with "improvement".
-   > **中文**：这个小故事以“improvement”收尾。
+1. Heavy rains caused a severe flood in the low-lying river valley yesterday for against.
+   > **中文**：昨天的强降雨在低洼的河谷引发了严重的水灾。
+
+2. The morning news reported a highway traffic crash involving three vehicles.
+   > **中文**：晨间新闻报道了一起涉及三辆汽车的高速公路交通事故。
+
+3. Firefighters rushed to the gas pipeline before it could explode for damage.
+   > **中文**：消防员在天然气管道可能发生爆炸前赶到了现场。
+
+4. The report showed a significant decrease in crime rates across the city.
+   > **中文**：报告显示全市犯罪率显著下降。
+
+5. Local newspapers reported a rapid increase in home values this year for explode.
+   > **中文**：当地报纸报道了今年住房价值的迅速增长。
+
+6. The weather station issued a severe storm warning for coastal areas for flood.
+   > **中文**：气象站针对沿海地区发布了强风暴预警。
+
+7. The government launched new training programs to combat high unemployment for happen.
+   > **中文**：政府推出了新的培训计划以应对高失业率。
+
+8. Hundreds of citizens gathered outside city hall to hold a peaceful protest (has there been).
+   > **中文**：数百名市民聚集在市政厅外举行和平抗议。
+
+9. Detectives are investigating a mysterious murder case reported last night (have there been).
+   > **中文**：侦探们正在调查昨晚报道的一起神秘谋杀案。
+
+10. The town has seen a dramatic improvement in public transportation safety.
+   > **中文**：该镇在公共交通安全方面取得了巨大的改善。
 
 </quiz-listening>
 
@@ -126,102 +135,102 @@ against, involve, most of, recent, happen 提供叙事框架：The protest was a
 
 ### 1
 
-In this situation, I heard "`____`".
+Heavy rains caused a severe flood in the low-lying river valley yesterday for `____`.
 
 - [x] against
-- [ ] involve
-- [ ] there haven't been
+- [ ] decrease
+- [ ] happen
 
-> **解析**：本题在单元主题情境中复习表达 against。
+> **解析**：flood 可数/不可数名词，意为“水灾；洪水”；也可作动词表示“淹没”。
 
 ### 2
 
-My partner explained "`____`".
+The morning news reported a highway traffic `____` involving three vehicles.
 
-- [x] explode
-- [ ] protest
-- [ ] crash
+- [x] crash
+- [ ] explode
+- [ ] has there been
 
-> **解析**：本题在单元主题情境中复习表达 explode。
+> **解析**：crash 可数名词，在此意为“（车辆等）碰撞；坠毁事故”。
 
 ### 3
 
-We talked about "`____`" together.
+Firefighters rushed to the gas pipeline before it could explode for `____`.
 
-- [x] has there been
-- [ ] there has been
+- [x] damage
 - [ ] flood
+- [ ] have there been
 
-> **解析**：本题在单元主题情境中复习表达 has there been。
+> **解析**：explode 不及物/及物动词，意为“爆炸；爆裂”，名词形式为 explosion。
 
 ### 4
 
-I wrote down "`____`".
+The report showed a significant `____` in crime rates across the city.
 
-- [x] involve
-- [ ] there haven't been
+- [x] decrease
+- [ ] happen
 - [ ] improvement
 
-> **解析**：本题在单元主题情境中复习表达 involve。
+> **解析**：decrease 可数/不可数名词，意为“减少；下降”，作动词时读作 /dɪˈkriːs/。
 
 ### 5
 
-The example included "`____`".
+Local newspapers reported a rapid increase in home values this year for `____`.
 
-- [x] protest
-- [ ] crash
+- [x] explode
+- [ ] has there been
 - [ ] against
 
-> **解析**：本题在单元主题情境中复习表达 protest。
+> **解析**：increase 可数/不可数名词，意为“增加；增长”，与 decrease 互为反义词。
 
 ### 6
 
-I asked about "`____`".
+The weather station issued a severe storm warning for coastal areas for `____`.
 
-- [x] there has been
-- [ ] flood
-- [ ] explode
+- [x] flood
+- [ ] have there been
+- [ ] crash
 
-> **解析**：本题在单元主题情境中复习表达 there has been。
+> **解析**：warning 可数/不可数名词，意为“警告；预警”，由动词 warn 衍生而来。
 
 ### 7
 
-We used "`____`" in a sentence.
+The government launched new training programs to combat high unemployment for `____`.
 
-- [x] there haven't been
+- [x] happen
 - [ ] improvement
-- [ ] has there been
+- [ ] damage
 
-> **解析**：本题在单元主题情境中复习表达 there haven't been。
+> **解析**：unemployment 不可数名词，意为“失业；失业率”，前缀 un- 表示否定。
 
 ### 8
 
-My friend repeated "`____`".
+Hundreds of citizens gathered outside city hall to hold a peaceful protest (`____`).
 
-- [x] crash
+- [x] has there been
 - [ ] against
-- [ ] involve
+- [ ] decrease
 
-> **解析**：本题在单元主题情境中复习表达 crash。
+> **解析**：protest 可数名词，意为“抗议；示威”；作动词时意为“对……提出抗议”。
 
 ### 9
 
-Later, I remembered "`____`".
+Detectives are investigating a mysterious murder case reported last night (`____`).
 
-- [x] flood
+- [x] have there been
+- [ ] crash
 - [ ] explode
-- [ ] protest
 
-> **解析**：本题在单元主题情境中复习表达 flood。
+> **解析**：murder 名词/动词，在此作名词意为“谋杀；谋杀案”。
 
 ### 10
 
-The short story ended with "`____`".
+The town has seen a dramatic `____` in public transportation safety.
 
 - [x] improvement
-- [ ] has there been
-- [ ] there has been
+- [ ] damage
+- [ ] flood
 
-> **解析**：本题在单元主题情境中复习表达 improvement。
+> **解析**：improvement 可数/不可数名词，意为“改进；改善”，来自动词 improve。
 
 </quiz-cloze>

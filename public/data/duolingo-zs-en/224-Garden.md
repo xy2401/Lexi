@@ -63,70 +63,79 @@ best bet, bush, could, cut down, gardener, green thumb, ground, have to be, hire
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“best bet”。  
-   **英文**：In this situation, I heard "best bet".
-   > **解析**：本题在单元主题情境中复习表达 best bet。
+1. **中文**：购买本地植物是你打造低维护花园的最佳选择。  
+   **英文**：Buying native plants is your best bet for keeping a low-maintenance garden.
+   > **解析**：`best bet` 为常用口语短语，意为“最佳选择；最明智的做法”。
 
-2. **中文**：同伴解释了“gardener”。  
-   **英文**：My partner explained "gardener".
-   > **解析**：本题在单元主题情境中复习表达 gardener。
+2. **中文**：有经验的园丁确切地知道何时修剪果树以获得最佳产量。  
+   **英文**：An experienced gardener knows exactly when to prune fruit trees for optimal yield for bush.
+   > **解析**：`gardener` 可数名词，意为“园丁；花匠”，由 `garden` 派生而来。
 
-3. **中文**：我们一起谈到了“hire”。  
-   **英文**：We talked about "hire" together.
-   > **解析**：本题在单元主题情境中复习表达 hire。
+3. **中文**：我们决定雇佣一名专业的景观设计师来改造我们的后院草坪。  
+   **英文**：We decided to hire a professional landscaper to remodel our backyard lawn for could.
+   > **解析**：`hire` 及物动词，意为“雇佣；聘请”。搭配 `hire sb. to do sth.`。
 
-4. **中文**：我记下了“looking”。  
-   **英文**：I wrote down "looking".
-   > **解析**：本题在单元主题情境中复习表达 looking。
+4. **中文**：她整个早晨都在园艺中心寻找新鲜的有机种子。  
+   **英文**：She spent the morning looking for fresh organic seeds at the garden center (cut down).
+   > **解析**：`looking` 动名词/分词形式，搭配 `look for` 表示“寻找”。短语 `spend time doing sth.`。
 
-5. **中文**：例句中包含“myself”。  
-   **英文**：The example included "myself".
-   > **解析**：本题在单元主题情境中复习表达 myself。
+5. **中文**：我喜欢在阳光明媚的周末独自一人照顾花坛。  
+   **英文**：I enjoy spending sunny weekends taking care of the flowerbeds all by myself for gardener.
+   > **解析**：`myself` 为反身代词。短语 `all by myself` 意为“完全靠我自己；独自一人”。
 
-6. **中文**：我询问了“should”。  
-   **英文**：I asked about "should".
-   > **解析**：本题在单元主题情境中复习表达 should。
+6. **中文**：你应该在清晨给西红柿浇水，而不是在烈日灼热的时候。  
+   **英文**：You should water your tomatoes early in the morning rather than under the scorching sun (green thumb).
+   > **解析**：`should` 情态动词，用于给出园艺或日常生活的合理建议（意为“应当；应该”）。
 
-7. **中文**：我们在句子中用到了“spray”。  
-   **英文**：We used "spray" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 spray。
+7. **中文**：注意不要在可食用的蔬菜床附近喷洒有害化学农药。  
+   **英文**：Be careful not to spray harmful chemical pesticides near edible vegetable beds for ground.
+   > **解析**：`spray` 及物动词，意为“喷洒；喷涂”。搭配 `spray sth. on / near sth.`。
 
-8. **中文**：朋友重复了“bush”。  
-   **英文**：My friend repeated "bush".
-   > **解析**：本题在单元主题情境中复习表达 bush。
+8. **中文**：他沿着装饰性的花园篱笆种了一排玫瑰灌木。  
+   **英文**：He planted a row of rose bush plants along the decorative garden fence (have to be).
+   > **解析**：`bush` 可数名词，意为“灌木；矮树”，复数形式为 `bushes`。
 
-9. **中文**：后来，我记住了“green thumb”。  
-   **英文**：Later, I remembered "green thumb".
-   > **解析**：本题在单元主题情境中复习表达 green thumb。
+9. **中文**：我的祖母有精湛的园艺技能（绿手指）；她种植的一切都长得非常茂盛。  
+   **英文**：My grandmother has a green thumb; everything she plants grows abundantly for hire.
+   > **解析**：`green thumb`（美式英语习惯用语，英式常用 `green fingers`）名词短语，意为“园艺天赋；高超的种花技能”。
 
-10. **中文**：这个小故事以“it seems like”收尾。  
-   **英文**：The short story ended with "it seems like".
-   > **解析**：本题在单元主题情境中复习表达 it seems like。
+10. **中文**：看起来土壤需要更多的有机堆肥才能保持丰富的营养。  
+   **英文**：It seems like the soil needs more organic compost to stay rich in nutrients.
+   > **解析**：`it seems like...` 为口语判断短语，意为“似乎/看起来……”，引导表象推断从句。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "best bet".
-   > **中文**：在这个情境中，我听到了“best bet”。
-2. My partner explained "gardener".
-   > **中文**：同伴解释了“gardener”。
-3. We talked about "hire" together.
-   > **中文**：我们一起谈到了“hire”。
-4. I wrote down "looking".
-   > **中文**：我记下了“looking”。
-5. The example included "myself".
-   > **中文**：例句中包含“myself”。
-6. I asked about "should".
-   > **中文**：我询问了“should”。
-7. We used "spray" in a sentence.
-   > **中文**：我们在句子中用到了“spray”。
-8. My friend repeated "bush".
-   > **中文**：朋友重复了“bush”。
-9. Later, I remembered "green thumb".
-   > **中文**：后来，我记住了“green thumb”。
-10. The short story ended with "it seems like".
-   > **中文**：这个小故事以“it seems like”收尾。
+1. Buying native plants is your best bet for keeping a low-maintenance garden.
+   > **中文**：购买本地植物是你打造低维护花园的最佳选择。
+
+2. An experienced gardener knows exactly when to prune fruit trees for optimal yield for bush.
+   > **中文**：有经验的园丁确切地知道何时修剪果树以获得最佳产量。
+
+3. We decided to hire a professional landscaper to remodel our backyard lawn for could.
+   > **中文**：我们决定雇佣一名专业的景观设计师来改造我们的后院草坪。
+
+4. She spent the morning looking for fresh organic seeds at the garden center (cut down).
+   > **中文**：她整个早晨都在园艺中心寻找新鲜的有机种子。
+
+5. I enjoy spending sunny weekends taking care of the flowerbeds all by myself for gardener.
+   > **中文**：我喜欢在阳光明媚的周末独自一人照顾花坛。
+
+6. You should water your tomatoes early in the morning rather than under the scorching sun (green thumb).
+   > **中文**：你应该在清晨给西红柿浇水，而不是在烈日灼热的时候。
+
+7. Be careful not to spray harmful chemical pesticides near edible vegetable beds for ground.
+   > **中文**：注意不要在可食用的蔬菜床附近喷洒有害化学农药。
+
+8. He planted a row of rose bush plants along the decorative garden fence (have to be).
+   > **中文**：他沿着装饰性的花园篱笆种了一排玫瑰灌木。
+
+9. My grandmother has a green thumb; everything she plants grows abundantly for hire.
+   > **中文**：我的祖母有精湛的园艺技能（绿手指）；她种植的一切都长得非常茂盛。
+
+10. It seems like the soil needs more organic compost to stay rich in nutrients.
+   > **中文**：看起来土壤需要更多的有机堆肥才能保持丰富的营养。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ best bet, bush, could, cut down, gardener, green thumb, ground, have to be, hire
 
 ### 1
 
-In this situation, I heard "`____`".
+Buying native plants is your `____` for keeping a low-maintenance garden.
 
 - [x] best bet
-- [ ] looking
-- [ ] spray
+- [ ] cut down
+- [ ] ground
 
-> **解析**：本题在单元主题情境中复习表达 best bet。
+> **解析**：`best bet` 为常用口语短语，意为“最佳选择；最明智的做法”。
 
 ### 2
 
-My partner explained "`____`".
+An experienced gardener knows exactly when to prune fruit trees for optimal yield for `____`.
 
-- [x] gardener
-- [ ] myself
-- [ ] bush
+- [x] bush
+- [ ] gardener
+- [ ] have to be
 
-> **解析**：本题在单元主题情境中复习表达 gardener。
+> **解析**：`gardener` 可数名词，意为“园丁；花匠”，由 `garden` 派生而来。
 
 ### 3
 
-We talked about "`____`" together.
+We decided to hire a professional landscaper to remodel our backyard lawn for `____`.
 
-- [x] hire
-- [ ] should
+- [x] could
 - [ ] green thumb
+- [ ] hire
 
-> **解析**：本题在单元主题情境中复习表达 hire。
+> **解析**：`hire` 及物动词，意为“雇佣；聘请”。搭配 `hire sb. to do sth.`。
 
 ### 4
 
-I wrote down "`____`".
+She spent the morning looking for fresh organic seeds at the garden center (`____`).
 
-- [x] looking
-- [ ] spray
+- [x] cut down
+- [ ] ground
 - [ ] it seems like
 
-> **解析**：本题在单元主题情境中复习表达 looking。
+> **解析**：`looking` 动名词/分词形式，搭配 `look for` 表示“寻找”。短语 `spend time doing sth.`。
 
 ### 5
 
-The example included "`____`".
+I enjoy spending sunny weekends taking care of the flowerbeds all by myself for `____`.
 
-- [x] myself
-- [ ] bush
+- [x] gardener
+- [ ] have to be
 - [ ] best bet
 
-> **解析**：本题在单元主题情境中复习表达 myself。
+> **解析**：`myself` 为反身代词。短语 `all by myself` 意为“完全靠我自己；独自一人”。
 
 ### 6
 
-I asked about "`____`".
+You should water your tomatoes early in the morning rather than under the scorching sun (`____`).
 
-- [x] should
-- [ ] green thumb
-- [ ] gardener
+- [x] green thumb
+- [ ] hire
+- [ ] bush
 
-> **解析**：本题在单元主题情境中复习表达 should。
+> **解析**：`should` 情态动词，用于给出园艺或日常生活的合理建议（意为“应当；应该”）。
 
 ### 7
 
-We used "`____`" in a sentence.
+Be careful not to spray harmful chemical pesticides near edible vegetable beds for `____`.
 
-- [x] spray
+- [x] ground
 - [ ] it seems like
-- [ ] hire
+- [ ] could
 
-> **解析**：本题在单元主题情境中复习表达 spray。
+> **解析**：`spray` 及物动词，意为“喷洒；喷涂”。搭配 `spray sth. on / near sth.`。
 
 ### 8
 
-My friend repeated "`____`".
+He planted a row of rose bush plants along the decorative garden fence (`____`).
 
-- [x] bush
+- [x] have to be
 - [ ] best bet
-- [ ] looking
+- [ ] cut down
 
-> **解析**：本题在单元主题情境中复习表达 bush。
+> **解析**：`bush` 可数名词，意为“灌木；矮树”，复数形式为 `bushes`。
 
 ### 9
 
-Later, I remembered "`____`".
+My grandmother has a green thumb; everything she plants grows abundantly for `____`.
 
-- [x] green thumb
+- [x] hire
+- [ ] bush
 - [ ] gardener
-- [ ] myself
 
-> **解析**：本题在单元主题情境中复习表达 green thumb。
+> **解析**：`green thumb`（美式英语习惯用语，英式常用 `green fingers`）名词短语，意为“园艺天赋；高超的种花技能”。
 
 ### 10
 
-The short story ended with "`____`".
+`____` the soil needs more organic compost to stay rich in nutrients.
 
 - [x] it seems like
-- [ ] hire
-- [ ] should
+- [ ] could
+- [ ] green thumb
 
-> **解析**：本题在单元主题情境中复习表达 it seems like。
+> **解析**：`it seems like...` 为口语判断短语，意为“似乎/看起来……”，引导表象推断从句。
 
 </quiz-cloze>

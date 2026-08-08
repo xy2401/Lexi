@@ -63,70 +63,79 @@ careful, consequence, don't you dare, edge, embarrass, fire, from now on, get, g
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“careful”。  
-   **英文**：At work, we discussed "careful".
-   > **解析**：本题在单元主题情境中复习表达 careful。
+1. **中文**：在滑的悬崖边远足时请务必小心。  
+   **英文**：Please be careful when hiking near the slippery cliff edge.
+   > **解析**：`careful` 形容词，意为“小心的；谨慎的”。常用祈使句结构 `be careful when...`。
 
-2. **中文**：同事提到了“embarrass”。  
-   **英文**：My coworker mentioned "embarrass".
-   > **解析**：本题在单元主题情境中复习表达 embarrass。
+2. **中文**：你不应该在公共场合取笑你的朋友；那只会让他难堪。  
+   **英文**：You shouldn't make fun of your friend in public; it will only embarrass him for consequence.
+   > **解析**：`embarrass` 及物动词，意为“使窘迫；使难堪”。
 
-3. **中文**：会议中，我听到了“get”。  
-   **英文**：In the meeting, I heard "get".
-   > **解析**：本题在单元主题情境中复习表达 get。
+3. **中文**：如果你在薄冰上滑冰，你可能会受到非常严重的伤害。  
+   **英文**：If you skate on thin ice, you could get hurt very badly (don't you dare).
+   > **解析**：`get` 连系动词，用于“get + 过去分词”（如 `get hurt`），表示被动或状态的改变。
 
-4. **中文**：我把“glass”写进了笔记。  
-   **英文**：I added "glass" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 glass。
+4. **中文**：窗户碎裂后，要注意地板上的碎玻璃。  
+   **英文**：Be cautious of broken glass on the floor after the window shattered for edge.
+   > **解析**：`glass` 不可数名词，意为“玻璃”；作可数名词时指“玻璃杯”。
 
-5. **中文**：经理解释了“no offense”。  
-   **英文**：The manager explained "no offense".
-   > **解析**：本题在单元主题情境中复习表达 no offense。
+5. **中文**：无意冒犯，但我觉得你的计划还不够安全，无法执行。  
+   **英文**：No offense, but I don't think your plan is safe enough to execute for embarrass.
+   > **解析**：`no offense` 口语短语，意为“无意冒犯；别介意”，用于在发表可能引起尴尬或反感的不同意见前进行垫铺。
 
-6. **中文**：团队今天用到了“risk”。  
-   **英文**：Our team used "risk" today.
-   > **解析**：本题在单元主题情境中复习表达 risk。
+6. **中文**：为了拍一张冒风险的照片而拿自己的安全冒风险是愚蠢的。  
+   **英文**：It is foolish to risk your safety for a single adventurous photo for fire.
+   > **解析**：`risk` 动词，意为“冒……的风险”。搭配 `risk sth. for sth.`（为了某事而冒某事险）。
 
-7. **中文**：午饭前，我们查看了“to make matters worse”。  
-   **英文**：Before lunch, we checked "to make matters worse".
-   > **解析**：本题在单元主题情境中复习表达 to make matters worse。
+7. **中文**：黑暗暴风雨开始了，更糟的是，我们弄丢了手电筒。  
+   **英文**：The dark storm began, and to make matters worse, we lost our flashlights (from now on).
+   > **解析**：`to make matters worse` 插入语短语，意为“更糟糕的是；雪上加霜的是”。
 
-8. **中文**：同事询问了“consequence”。  
-   **英文**：My colleague asked about "consequence".
-   > **解析**：本题在单元主题情境中复习表达 consequence。
+8. **中文**：鲁莽驾驶可能会对所有相关人员造成悲剧性的后果。  
+   **英文**：Driving recklessly can lead to tragic consequences for everyone involved for get.
+   > **解析**：`consequence` 可数名词，意为“后果；结果”。搭配 `lead to consequences`（导致后果）。
 
-9. **中文**：报告中包含“fire”。  
-   **英文**：The report included "fire".
-   > **解析**：本题在单元主题情境中复习表达 fire。
+9. **中文**：在干草附近玩火柴可能会引发危险的野火。  
+   **英文**：Playing with matches near dry grass can spark a dangerous wild fire (get away with).
+   > **解析**：`fire` 名词，意为“火；火灾”。`wild fire`（野火；山火）。
 
-10. **中文**：一天结束时，我记住了“get in trouble”。  
-   **英文**：At the end of the day, I remembered "get in trouble".
-   > **解析**：本题在单元主题情境中复习表达 get in trouble。
+10. **中文**：如果你侵入私有财产，你将会陷入与管理当局的麻烦中。  
+   **英文**：You will get in trouble with the authorities if you trespass on private property.
+   > **解析**：`get in trouble` 为固定动词短语，意为“惹上麻烦；陷入困境”。搭配 `get in trouble with sb.`。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "careful".
-   > **中文**：工作中，我们讨论了“careful”。
-2. My coworker mentioned "embarrass".
-   > **中文**：同事提到了“embarrass”。
-3. In the meeting, I heard "get".
-   > **中文**：会议中，我听到了“get”。
-4. I added "glass" to my notes.
-   > **中文**：我把“glass”写进了笔记。
-5. The manager explained "no offense".
-   > **中文**：经理解释了“no offense”。
-6. Our team used "risk" today.
-   > **中文**：团队今天用到了“risk”。
-7. Before lunch, we checked "to make matters worse".
-   > **中文**：午饭前，我们查看了“to make matters worse”。
-8. My colleague asked about "consequence".
-   > **中文**：同事询问了“consequence”。
-9. The report included "fire".
-   > **中文**：报告中包含“fire”。
-10. At the end of the day, I remembered "get in trouble".
-   > **中文**：一天结束时，我记住了“get in trouble”。
+1. Please be careful when hiking near the slippery cliff edge.
+   > **中文**：在滑的悬崖边远足时请务必小心。
+
+2. You shouldn't make fun of your friend in public; it will only embarrass him for consequence.
+   > **中文**：你不应该在公共场合取笑你的朋友；那只会让他难堪。
+
+3. If you skate on thin ice, you could get hurt very badly (don't you dare).
+   > **中文**：如果你在薄冰上滑冰，你可能会受到非常严重的伤害。
+
+4. Be cautious of broken glass on the floor after the window shattered for edge.
+   > **中文**：窗户碎裂后，要注意地板上的碎玻璃。
+
+5. No offense, but I don't think your plan is safe enough to execute for embarrass.
+   > **中文**：无意冒犯，但我觉得你的计划还不够安全，无法执行。
+
+6. It is foolish to risk your safety for a single adventurous photo for fire.
+   > **中文**：为了拍一张冒风险的照片而拿自己的安全冒风险是愚蠢的。
+
+7. The dark storm began, and to make matters worse, we lost our flashlights (from now on).
+   > **中文**：黑暗暴风雨开始了，更糟的是，我们弄丢了手电筒。
+
+8. Driving recklessly can lead to tragic consequences for everyone involved for get.
+   > **中文**：鲁莽驾驶可能会对所有相关人员造成悲剧性的后果。
+
+9. Playing with matches near dry grass can spark a dangerous wild fire (get away with).
+   > **中文**：在干草附近玩火柴可能会引发危险的野火。
+
+10. You will get in trouble with the authorities if you trespass on private property.
+   > **中文**：如果你侵入私有财产，你将会陷入与管理当局的麻烦中。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ careful, consequence, don't you dare, edge, embarrass, fire, from now on, get, g
 
 ### 1
 
-At work, we discussed "`____`".
+Please be `____` when hiking near the slippery cliff edge.
 
 - [x] careful
-- [ ] glass
-- [ ] to make matters worse
+- [ ] edge
+- [ ] from now on
 
-> **解析**：本题在单元主题情境中复习表达 careful。
+> **解析**：`careful` 形容词，意为“小心的；谨慎的”。常用祈使句结构 `be careful when...`。
 
 ### 2
 
-My coworker mentioned "`____`".
+You shouldn't make fun of your friend in public; it will only embarrass him for `____`.
 
-- [x] embarrass
-- [ ] no offense
-- [ ] consequence
+- [x] consequence
+- [ ] embarrass
+- [ ] get
 
-> **解析**：本题在单元主题情境中复习表达 embarrass。
+> **解析**：`embarrass` 及物动词，意为“使窘迫；使难堪”。
 
 ### 3
 
-In the meeting, I heard "`____`".
+If you skate on thin ice, you could get hurt very badly (`____`).
 
-- [x] get
-- [ ] risk
+- [x] don't you dare
 - [ ] fire
+- [ ] get away with
 
-> **解析**：本题在单元主题情境中复习表达 get。
+> **解析**：`get` 连系动词，用于“get + 过去分词”（如 `get hurt`），表示被动或状态的改变。
 
 ### 4
 
-I added "`____`" to my notes.
+Be cautious of broken glass on the floor after the window shattered for `____`.
 
-- [x] glass
-- [ ] to make matters worse
+- [x] edge
+- [ ] from now on
 - [ ] get in trouble
 
-> **解析**：本题在单元主题情境中复习表达 glass。
+> **解析**：`glass` 不可数名词，意为“玻璃”；作可数名词时指“玻璃杯”。
 
 ### 5
 
-The manager explained "`____`".
+No offense, but I don't think your plan is safe enough to execute for `____`.
 
-- [x] no offense
-- [ ] consequence
+- [x] embarrass
+- [ ] get
 - [ ] careful
 
-> **解析**：本题在单元主题情境中复习表达 no offense。
+> **解析**：`no offense` 口语短语，意为“无意冒犯；别介意”，用于在发表可能引起尴尬或反感的不同意见前进行垫铺。
 
 ### 6
 
-Our team used "`____`" today.
+It is foolish to risk your safety for a single adventurous photo for `____`.
 
-- [x] risk
-- [ ] fire
-- [ ] embarrass
+- [x] fire
+- [ ] get away with
+- [ ] consequence
 
-> **解析**：本题在单元主题情境中复习表达 risk。
+> **解析**：`risk` 动词，意为“冒……的风险”。搭配 `risk sth. for sth.`（为了某事而冒某事险）。
 
 ### 7
 
-Before lunch, we checked "`____`".
+The dark storm began, and to make matters worse, we lost our flashlights (`____`).
 
-- [x] to make matters worse
+- [x] from now on
 - [ ] get in trouble
-- [ ] get
+- [ ] don't you dare
 
-> **解析**：本题在单元主题情境中复习表达 to make matters worse。
+> **解析**：`to make matters worse` 插入语短语，意为“更糟糕的是；雪上加霜的是”。
 
 ### 8
 
-My colleague asked about "`____`".
+Driving recklessly can lead to tragic consequences for everyone involved for `____`.
 
-- [x] consequence
+- [x] get
 - [ ] careful
-- [ ] glass
+- [ ] edge
 
-> **解析**：本题在单元主题情境中复习表达 consequence。
+> **解析**：`consequence` 可数名词，意为“后果；结果”。搭配 `lead to consequences`（导致后果）。
 
 ### 9
 
-The report included "`____`".
+Playing with matches near dry grass can spark a dangerous wild fire (`____`).
 
-- [x] fire
+- [x] get away with
+- [ ] consequence
 - [ ] embarrass
-- [ ] no offense
 
-> **解析**：本题在单元主题情境中复习表达 fire。
+> **解析**：`fire` 名词，意为“火；火灾”。`wild fire`（野火；山火）。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+You will `____` with the authorities if you trespass on private property.
 
 - [x] get in trouble
-- [ ] get
-- [ ] risk
+- [ ] don't you dare
+- [ ] fire
 
-> **解析**：本题在单元主题情境中复习表达 get in trouble。
+> **解析**：`get in trouble` 为固定动词短语，意为“惹上麻烦；陷入困境”。搭配 `get in trouble with sb.`。
 
 </quiz-cloze>

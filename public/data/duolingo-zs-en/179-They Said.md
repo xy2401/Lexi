@@ -55,70 +55,79 @@ admit, ask if, asked, asked if, asked whether, asking, confirm, deal with, due t
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“admit”。  
-   **英文**：In this situation, I heard "admit".
-   > **解析**：本题在单元主题情境中复习表达 admit。
+1. **中文**：他们不得不承认最初的提案过于复杂了。  
+   **英文**：They had to admit that the initial proposal was far too complicated.
+   > **解析**：admit 为及物动词，意为“承认”。后可接 that 引导的宾语从句（admit that...）。
 
-2. **中文**：同伴解释了“asked whether”。  
-   **英文**：My partner explained "asked whether".
-   > **解析**：本题在单元主题情境中复习表达 asked whether。
+2. **中文**：她询问委员会是否就新预算达成了共识。  
+   **英文**：She asked whether the committee had reached a consensus on the new budget (ask if).
+   > **解析**：asked whether 为间接引语结构，用于转述一般疑问句，whether 意为“是否”。
 
-3. **中文**：我们一起谈到了“deal with”。  
-   **英文**：We talked about "deal with" together.
-   > **解析**：本题在单元主题情境中复习表达 deal with。
+3. **中文**：他们计划如何应对关于项目延误的公众批评？  
+   **英文**：How do they plan to deal with the public criticism regarding the project delay? for asked.
+   > **解析**：deal with 为动词短语，意为“处理、应对”，后接处理的对象（deal with criticism）。
 
-4. **中文**：我记下了“it depends on”。  
-   **英文**：I wrote down "it depends on".
-   > **解析**：本题在单元主题情境中复习表达 it depends on。
+4. **中文**：当被问及上线日期时，他说这取决于测试结果。  
+   **英文**：When asked about the launch date, he said it depends on the testing results (asked if).
+   > **解析**：it depends on 为固定动词短语结构，意为“这取决于……”，后接名词或从句。
 
-5. **中文**：例句中包含“personal”。  
-   **英文**：The example included "personal".
-   > **解析**：本题在单元主题情境中复习表达 personal。
+5. **中文**：他表达了个人观点，认为团队沟通需要改进。  
+   **英文**：He expressed his personal opinion that team communication needs improvement (asked whether).
+   > **解析**：personal 为形容词，意为“个人的、私人的”。personal opinion 指个人观点。
 
-6. **中文**：我询问了“regret”。  
-   **英文**：I asked about "regret".
-   > **解析**：本题在单元主题情境中复习表达 regret。
+6. **中文**：他们对无法加入我们的咨询委员会表示遗憾。  
+   **英文**：They expressed regret that they could not join our advisory board for asking.
+   > **解析**：regret 在此处作名词/动词，意为“遗憾、悔恨”。express regret 意为“表达遗憾”。
 
-7. **中文**：我们在句子中用到了“totally”。  
-   **英文**：We used "totally" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 totally。
+7. **中文**：我完全赞同演讲者关于职场透明度的讲话。  
+   **英文**：I totally agree with what the speaker said about workplace transparency for confirm.
+   > **解析**：totally 为程度副词，意为“完全地、彻底地”，修饰动词 agree。
 
-8. **中文**：朋友重复了“ask if”。  
-   **英文**：My friend repeated "ask if".
-   > **解析**：本题在单元主题情境中复习表达 ask if。
+8. **中文**：有人问过会议室是否有视频会议设备吗？  
+   **英文**：Did anyone ask if the meeting room has video conferencing equipment? (deal with).
+   > **解析**：ask if 结构在转述疑问句中意为“询问是否……”，if 引导宾语从句。
 
-9. **中文**：后来，我记住了“asking”。  
-   **英文**：Later, I remembered "asking".
-   > **解析**：本题在单元主题情境中复习表达 asking。
+9. **中文**：他们一直在询问我们季度评估报告的进展情况。  
+   **英文**：They keep asking about our progress on the quarterly evaluation report (due to).
+   > **解析**：asking 是 ask 的现在分词，与 keep 搭配构成 keep doing sth.（持续做某事）。
 
-10. **中文**：这个小故事以“favor”收尾。  
-   **英文**：The short story ended with "favor".
-   > **解析**：本题在单元主题情境中复习表达 favor。
+10. **中文**：他请求帮忙，请我们审查他的申请草案。  
+   **英文**：He asked for a favor, requesting us to review his application draft.
+   > **解析**：favor 在此处作名词，常用搭配 ask a favor / ask for a favor（请求帮忙）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "admit".
-   > **中文**：在这个情境中，我听到了“admit”。
-2. My partner explained "asked whether".
-   > **中文**：同伴解释了“asked whether”。
-3. We talked about "deal with" together.
-   > **中文**：我们一起谈到了“deal with”。
-4. I wrote down "it depends on".
-   > **中文**：我记下了“it depends on”。
-5. The example included "personal".
-   > **中文**：例句中包含“personal”。
-6. I asked about "regret".
-   > **中文**：我询问了“regret”。
-7. We used "totally" in a sentence.
-   > **中文**：我们在句子中用到了“totally”。
-8. My friend repeated "ask if".
-   > **中文**：朋友重复了“ask if”。
-9. Later, I remembered "asking".
-   > **中文**：后来，我记住了“asking”。
-10. The short story ended with "favor".
-   > **中文**：这个小故事以“favor”收尾。
+1. They had to admit that the initial proposal was far too complicated.
+   > **中文**：他们不得不承认最初的提案过于复杂了。
+
+2. She asked whether the committee had reached a consensus on the new budget (ask if).
+   > **中文**：她询问委员会是否就新预算达成了共识。
+
+3. How do they plan to deal with the public criticism regarding the project delay? for asked.
+   > **中文**：他们计划如何应对关于项目延误的公众批评？
+
+4. When asked about the launch date, he said it depends on the testing results (asked if).
+   > **中文**：当被问及上线日期时，他说这取决于测试结果。
+
+5. He expressed his personal opinion that team communication needs improvement (asked whether).
+   > **中文**：他表达了个人观点，认为团队沟通需要改进。
+
+6. They expressed regret that they could not join our advisory board for asking.
+   > **中文**：他们对无法加入我们的咨询委员会表示遗憾。
+
+7. I totally agree with what the speaker said about workplace transparency for confirm.
+   > **中文**：我完全赞同演讲者关于职场透明度的讲话。
+
+8. Did anyone ask if the meeting room has video conferencing equipment? (deal with).
+   > **中文**：有人问过会议室是否有视频会议设备吗？
+
+9. They keep asking about our progress on the quarterly evaluation report (due to).
+   > **中文**：他们一直在询问我们季度评估报告的进展情况。
+
+10. He asked for a favor, requesting us to review his application draft.
+   > **中文**：他请求帮忙，请我们审查他的申请草案。
 
 </quiz-listening>
 
@@ -130,102 +139,102 @@ admit, ask if, asked, asked if, asked whether, asking, confirm, deal with, due t
 
 ### 1
 
-In this situation, I heard "`____`".
+They had to `____` that the initial proposal was far too complicated.
 
 - [x] admit
-- [ ] it depends on
-- [ ] totally
+- [ ] asked if
+- [ ] confirm
 
-> **解析**：本题在单元主题情境中复习表达 admit。
+> **解析**：admit 为及物动词，意为“承认”。后可接 that 引导的宾语从句（admit that...）。
 
 ### 2
 
-My partner explained "`____`".
+She asked whether the committee had reached a consensus on the new budget (`____`).
 
-- [x] asked whether
-- [ ] personal
-- [ ] ask if
+- [x] ask if
+- [ ] asked whether
+- [ ] deal with
 
-> **解析**：本题在单元主题情境中复习表达 asked whether。
+> **解析**：asked whether 为间接引语结构，用于转述一般疑问句，whether 意为“是否”。
 
 ### 3
 
-We talked about "`____`" together.
+How do they plan to deal with the public criticism regarding the project delay? for `____`.
 
-- [x] deal with
-- [ ] regret
+- [x] asked
 - [ ] asking
+- [ ] due to
 
-> **解析**：本题在单元主题情境中复习表达 deal with。
+> **解析**：deal with 为动词短语，意为“处理、应对”，后接处理的对象（deal with criticism）。
 
 ### 4
 
-I wrote down "`____`".
+When asked about the launch date, he said it depends on the testing results (`____`).
 
-- [x] it depends on
-- [ ] totally
+- [x] asked if
+- [ ] confirm
 - [ ] favor
 
-> **解析**：本题在单元主题情境中复习表达 it depends on。
+> **解析**：it depends on 为固定动词短语结构，意为“这取决于……”，后接名词或从句。
 
 ### 5
 
-The example included "`____`".
+He expressed his personal opinion that team communication needs improvement (`____`).
 
-- [x] personal
-- [ ] ask if
+- [x] asked whether
+- [ ] deal with
 - [ ] admit
 
-> **解析**：本题在单元主题情境中复习表达 personal。
+> **解析**：personal 为形容词，意为“个人的、私人的”。personal opinion 指个人观点。
 
 ### 6
 
-I asked about "`____`".
+They expressed regret that they could not join our advisory board for `____`.
 
-- [x] regret
-- [ ] asking
-- [ ] asked whether
+- [x] asking
+- [ ] due to
+- [ ] ask if
 
-> **解析**：本题在单元主题情境中复习表达 regret。
+> **解析**：regret 在此处作名词/动词，意为“遗憾、悔恨”。express regret 意为“表达遗憾”。
 
 ### 7
 
-We used "`____`" in a sentence.
+I totally agree with what the speaker said about workplace transparency for `____`.
 
-- [x] totally
+- [x] confirm
 - [ ] favor
-- [ ] deal with
+- [ ] asked
 
-> **解析**：本题在单元主题情境中复习表达 totally。
+> **解析**：totally 为程度副词，意为“完全地、彻底地”，修饰动词 agree。
 
 ### 8
 
-My friend repeated "`____`".
+Did anyone ask if the meeting room has video conferencing equipment? (`____`).
 
-- [x] ask if
+- [x] deal with
 - [ ] admit
-- [ ] it depends on
+- [ ] asked if
 
-> **解析**：本题在单元主题情境中复习表达 ask if。
+> **解析**：ask if 结构在转述疑问句中意为“询问是否……”，if 引导宾语从句。
 
 ### 9
 
-Later, I remembered "`____`".
+They keep asking about our progress on the quarterly evaluation report (`____`).
 
-- [x] asking
+- [x] due to
+- [ ] ask if
 - [ ] asked whether
-- [ ] personal
 
-> **解析**：本题在单元主题情境中复习表达 asking。
+> **解析**：asking 是 ask 的现在分词，与 keep 搭配构成 keep doing sth.（持续做某事）。
 
 ### 10
 
-The short story ended with "`____`".
+He asked for a `____`, requesting us to review his application draft.
 
 - [x] favor
-- [ ] deal with
-- [ ] regret
+- [ ] asked
+- [ ] asking
 
-> **解析**：本题在单元主题情境中复习表达 favor。
+> **解析**：favor 在此处作名词，常用搭配 ask a favor / ask for a favor（请求帮忙）。
 
 </quiz-cloze>

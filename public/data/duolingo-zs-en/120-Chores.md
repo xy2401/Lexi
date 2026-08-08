@@ -61,70 +61,79 @@ have to 表示"必须"（客观需要）。responsible for 表示"负责"。
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“by hand”。  
-   **英文**：At work, we discussed "by hand".
-   > **解析**：本题在单元主题情境中复习表达 by hand。
+1. **中文**：在我和朋友出去玩之前，我必须完成周末的家务活。  
+   **英文**：I have to finish my weekend chores before I can go out with friends (by hand).
+   > **解析**：have to 为情态动词短语，意为“不得不，必须”，后接动词原形。
 
-2. **中文**：同事提到了“dislike”。  
-   **英文**：My coworker mentioned "dislike".
-   > **解析**：本题在单元主题情境中复习表达 dislike。
+2. **中文**：平等分担家务有助于维系家庭成员之间的和谐。  
+   **英文**：Sharing housework equally helps maintain harmony among family members (clean up).
+   > **解析**：housework 作不可数名词，意为“家务，家务活”。
 
-3. **中文**：会议中，我听到了“garbage”。  
-   **英文**：In the meeting, I heard "garbage".
-   > **解析**：本题在单元主题情境中复习表达 garbage。
+3. **中文**：我每周六早晨用吸尘器清理客厅地毯以清除灰尘。  
+   **英文**：I vacuum the living room rug every Saturday morning to remove dust for continue.
+   > **解析**：vacuum 作及物/不及物动词，意为“用吸尘器清扫”。
 
-4. **中文**：我把“in trouble”写进了笔记。  
-   **英文**：I added "in trouble" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 in trouble。
+4. **中文**：她用温水和洗涤剂拖厨房的瓷砖地板。  
+   **英文**：She used warm water and detergent to mop the kitchen tile floor for dishwasher.
+   > **解析**：mop 作及物动词，意为“用拖把拖（地）”。mop the floor 表示“拖地”。
 
-5. **中文**：经理解释了“make”。  
-   **英文**：The manager explained "make".
-   > **解析**：本题在单元主题情境中复习表达 make。
+5. **中文**：把脏盘子放进洗碗机使晚餐后的清理变得轻松。  
+   **英文**：Putting dirty plates into the dishwasher makes cleaning up after dinner easy for dislike.
+   > **解析**：dishwasher 作名词，意为“洗碗机”。作介词 into 的宾语。
 
-6. **中文**：团队今天用到了“pot”。  
-   **英文**：Our team used "pot" today.
-   > **解析**：本题在单元主题情境中复习表达 pot。
+6. **中文**：精细的羊毛衫应该手洗以防止缩水。  
+   **英文**：Delicate wool sweaters should be washed by hand to prevent shrinking for dust.
+   > **解析**：by hand 为固定介词短语，意为“用手，手工”。wash by hand 意为“手洗”。
 
-7. **中文**：午饭前，我们查看了“spill”。  
-   **英文**：Before lunch, we checked "spill".
-   > **解析**：本题在单元主题情境中复习表达 spill。
+7. **中文**：咱们一起清理餐桌并洗碗吧。  
+   **英文**：Let's clean up the dining table and wash the dishes together for freezer.
+   > **解析**：clean up 为动词短语，意为“打扫，收拾整理”。
 
-8. **中文**：同事询问了“clean up”。  
-   **英文**：My colleague asked about "clean up".
-   > **解析**：本题在单元主题情境中复习表达 clean up。
+8. **中文**：睡前请记得拿走厨房的垃圾。  
+   **英文**：Remember to take out the kitchen garbage before going to bed.
+   > **解析**：garbage 作不可数名词，意为“垃圾”。take out garbage 意为“倒垃圾”。
 
-9. **中文**：报告中包含“dust”。  
-   **英文**：The report included "dust".
-   > **解析**：本题在单元主题情境中复习表达 dust。
+9. **中文**：每个室友都负责打扫自己的房间。  
+   **英文**：Each roommate is responsible for cleaning their own room (have to).
+   > **解析**：be responsible for... 意为“对……负责，承担……的责任”。
 
-10. **中文**：一天结束时，我记住了“heater”。  
-   **英文**：At the end of the day, I remembered "heater".
-   > **解析**：本题在单元主题情境中复习表达 heater。
+10. **中文**：保持书桌干净整洁有助于你专注于学习。  
+   **英文**：Keeping your desk clean and neat helps you stay focused on studying for heater.
+   > **解析**：neat 作形容词，意为“整洁的，干净利落的”。作宾语补足语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "by hand".
-   > **中文**：工作中，我们讨论了“by hand”。
-2. My coworker mentioned "dislike".
-   > **中文**：同事提到了“dislike”。
-3. In the meeting, I heard "garbage".
-   > **中文**：会议中，我听到了“garbage”。
-4. I added "in trouble" to my notes.
-   > **中文**：我把“in trouble”写进了笔记。
-5. The manager explained "make".
-   > **中文**：经理解释了“make”。
-6. Our team used "pot" today.
-   > **中文**：团队今天用到了“pot”。
-7. Before lunch, we checked "spill".
-   > **中文**：午饭前，我们查看了“spill”。
-8. My colleague asked about "clean up".
-   > **中文**：同事询问了“clean up”。
-9. The report included "dust".
-   > **中文**：报告中包含“dust”。
-10. At the end of the day, I remembered "heater".
-   > **中文**：一天结束时，我记住了“heater”。
+1. I have to finish my weekend chores before I can go out with friends (by hand).
+   > **中文**：在我和朋友出去玩之前，我必须完成周末的家务活。
+
+2. Sharing housework equally helps maintain harmony among family members (clean up).
+   > **中文**：平等分担家务有助于维系家庭成员之间的和谐。
+
+3. I vacuum the living room rug every Saturday morning to remove dust for continue.
+   > **中文**：我每周六早晨用吸尘器清理客厅地毯以清除灰尘。
+
+4. She used warm water and detergent to mop the kitchen tile floor for dishwasher.
+   > **中文**：她用温水和洗涤剂拖厨房的瓷砖地板。
+
+5. Putting dirty plates into the dishwasher makes cleaning up after dinner easy for dislike.
+   > **中文**：把脏盘子放进洗碗机使晚餐后的清理变得轻松。
+
+6. Delicate wool sweaters should be washed by hand to prevent shrinking for dust.
+   > **中文**：精细的羊毛衫应该手洗以防止缩水。
+
+7. Let's clean up the dining table and wash the dishes together for freezer.
+   > **中文**：咱们一起清理餐桌并洗碗吧。
+
+8. Remember to take out the kitchen garbage before going to bed.
+   > **中文**：睡前请记得拿走厨房的垃圾。
+
+9. Each roommate is responsible for cleaning their own room (have to).
+   > **中文**：每个室友都负责打扫自己的房间。
+
+10. Keeping your desk clean and neat helps you stay focused on studying for heater.
+   > **中文**：保持书桌干净整洁有助于你专注于学习。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ have to 表示"必须"（客观需要）。responsible for 表示"负责"。
 
 ### 1
 
-At work, we discussed "`____`".
+I have to finish my weekend chores before I can go out with friends (`____`).
 
 - [x] by hand
-- [ ] in trouble
-- [ ] spill
+- [ ] dishwasher
+- [ ] freezer
 
-> **解析**：本题在单元主题情境中复习表达 by hand。
+> **解析**：have to 为情态动词短语，意为“不得不，必须”，后接动词原形。
 
 ### 2
 
-My coworker mentioned "`____`".
+Sharing housework equally helps maintain harmony among family members (`____`).
 
-- [x] dislike
-- [ ] make
-- [ ] clean up
+- [x] clean up
+- [ ] dislike
+- [ ] garbage
 
-> **解析**：本题在单元主题情境中复习表达 dislike。
+> **解析**：housework 作不可数名词，意为“家务，家务活”。
 
 ### 3
 
-In the meeting, I heard "`____`".
+I vacuum the living room rug every Saturday morning to remove dust for `____`.
 
-- [x] garbage
-- [ ] pot
+- [x] continue
 - [ ] dust
+- [ ] have to
 
-> **解析**：本题在单元主题情境中复习表达 garbage。
+> **解析**：vacuum 作及物/不及物动词，意为“用吸尘器清扫”。
 
 ### 4
 
-I added "`____`" to my notes.
+She used warm water and detergent to mop the kitchen tile floor for `____`.
 
-- [x] in trouble
-- [ ] spill
+- [x] dishwasher
+- [ ] freezer
 - [ ] heater
 
-> **解析**：本题在单元主题情境中复习表达 in trouble。
+> **解析**：mop 作及物动词，意为“用拖把拖（地）”。mop the floor 表示“拖地”。
 
 ### 5
 
-The manager explained "`____`".
+Putting dirty plates into the dishwasher makes cleaning up after dinner easy for `____`.
 
-- [x] make
-- [ ] clean up
+- [x] dislike
+- [ ] garbage
 - [ ] by hand
 
-> **解析**：本题在单元主题情境中复习表达 make。
+> **解析**：dishwasher 作名词，意为“洗碗机”。作介词 into 的宾语。
 
 ### 6
 
-Our team used "`____`" today.
+Delicate wool sweaters should be washed by hand to prevent shrinking for `____`.
 
-- [x] pot
-- [ ] dust
-- [ ] dislike
+- [x] dust
+- [ ] have to
+- [ ] clean up
 
-> **解析**：本题在单元主题情境中复习表达 pot。
+> **解析**：by hand 为固定介词短语，意为“用手，手工”。wash by hand 意为“手洗”。
 
 ### 7
 
-Before lunch, we checked "`____`".
+Let's clean up the dining table and wash the dishes together for `____`.
 
-- [x] spill
+- [x] freezer
 - [ ] heater
-- [ ] garbage
+- [ ] continue
 
-> **解析**：本题在单元主题情境中复习表达 spill。
+> **解析**：clean up 为动词短语，意为“打扫，收拾整理”。
 
 ### 8
 
-My colleague asked about "`____`".
+Remember to take out the kitchen `____` before going to bed.
 
-- [x] clean up
+- [x] garbage
 - [ ] by hand
-- [ ] in trouble
+- [ ] dishwasher
 
-> **解析**：本题在单元主题情境中复习表达 clean up。
+> **解析**：garbage 作不可数名词，意为“垃圾”。take out garbage 意为“倒垃圾”。
 
 ### 9
 
-The report included "`____`".
+Each roommate is responsible for cleaning their own room (`____`).
 
-- [x] dust
+- [x] have to
+- [ ] clean up
 - [ ] dislike
-- [ ] make
 
-> **解析**：本题在单元主题情境中复习表达 dust。
+> **解析**：be responsible for... 意为“对……负责，承担……的责任”。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+Keeping your desk clean and neat helps you stay focused on studying for `____`.
 
 - [x] heater
-- [ ] garbage
-- [ ] pot
+- [ ] continue
+- [ ] dust
 
-> **解析**：本题在单元主题情境中复习表达 heater。
+> **解析**：neat 作形容词，意为“整洁的，干净利落的”。作宾语补足语。
 
 </quiz-cloze>

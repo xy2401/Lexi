@@ -75,70 +75,79 @@ must have / must not have 是对过去事情的推测："一定是……""一定
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“anybody”。  
-   **英文**：In this situation, I heard "anybody".
-   > **解析**：本题在单元主题情境中复习表达 anybody。
+1. **中文**：微小的会计错误可能引发巨大的财务损失。  
+   **英文**：Small accounting errors can lead to big financial losses for anybody.
+   > **解析**：`error` 是可数名词，意为“错误、失误”，作主语。
 
-2. **中文**：同伴解释了“catch up”。  
-   **英文**：My partner explained "catch up".
-   > **解析**：本题在单元主题情境中复习表达 catch up。
+2. **中文**：机器运行得很糟糕，因为它一直没有得到保养。  
+   **英文**：The machine performed badly because it had not been serviced.
+   > **解析**：`badly` 是副词，修饰不及物动词 `performed`，意为“糟糕地”。
 
-3. **中文**：我们一起谈到了“error”。  
-   **英文**：We talked about "error" together.
-   > **解析**：本题在单元主题情境中复习表达 error。
+3. **中文**：你一定是无意中把钥匙忘在办公室桌上了。  
+   **英文**：You must have left your keys on the office desk by mistake for break.
+   > **解析**：`must have + 过去分词` 表示对过去事情的肯定推测（一定做过）。
 
-4. **中文**：我记下了“how”。  
-   **英文**：I wrote down "how".
-   > **解析**：本题在单元主题情境中复习表达 how。
+4. **中文**：我们所有人偶尔都会犯些小错，所以不要泄气。  
+   **英文**：We all make minor mistakes from time to time, so don't be discouraged for calculator.
+   > **解析**：`from time to time` 是时间副词短语，意为“偶尔、有时”。
 
-5. **中文**：例句中包含“must have”。  
-   **英文**：The example included "must have".
-   > **解析**：本题在单元主题情境中复习表达 must have。
+5. **中文**：我好几年没打网球了，所以现在完全生疏了。  
+   **英文**：I haven't played tennis for years, so I am completely out of practice (catch up).
+   > **解析**：`be out of practice` 是固定短语，意为“生疏的、缺少练习的”。
 
-6. **中文**：我询问了“out of practice”。  
-   **英文**：I asked about "out of practice".
-   > **解析**：本题在单元主题情境中复习表达 out of practice。
+6. **中文**：今天早上她费了好大劲才找到丢失的报告。  
+   **英文**：She had a hard time finding the missing report this morning for cheer.
+   > **解析**：`have a hard time doing sth` 是固定搭配，意为“做某事很费劲/有困难”。
 
-7. **中文**：我们在句子中用到了“stain”。  
-   **英文**：We used "stain" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 stain。
+7. **中文**：幸好我们在服务器崩溃前备份了文件。  
+   **英文**：It's a good thing that we backed up the files before the server crashed for effort.
+   > **解析**：`it's a good thing that...` 是口语习惯表达，意为“幸亏/幸好……”。
 
-8. **中文**：朋友重复了“badly”。  
-   **英文**：My friend repeated "badly".
-   > **解析**：本题在单元主题情境中复习表达 badly。
+8. **中文**：尽管他尽了最大努力，但他没能修好那个坏掉的托盘。  
+   **英文**：Despite his best efforts, he couldn't fix the broken tray for error.
+   > **解析**：`effort` 作名词，意为“努力”，短语 `despite one's best efforts`。
 
-9. **中文**：后来，我记住了“cheer”。  
-   **英文**：Later, I remembered "cheer".
-   > **解析**：本题在单元主题情境中复习表达 cheer。
+9. **中文**：今天对客服团队来说是艰难的一天。  
+   **英文**：It has been a tough day for the customer service team for everybody.
+   > **解析**：`tough` 是形容词，意为“艰难的、棘手的”，修饰名词 `day`。
 
-10. **中文**：这个小故事以“from time to time”收尾。  
-   **英文**：The short story ended with "from time to time".
-   > **解析**：本题在单元主题情境中复习表达 from time to time。
+10. **中文**：那个可怜的小家伙整个早晨都在寒雨中发抖。  
+   **英文**：The poor thing was shivering in the cold rain all morning (from time to time).
+   > **解析**：`poor thing` 是日常口语表达，意为“可怜的人/可怜的小家伙”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "anybody".
-   > **中文**：在这个情境中，我听到了“anybody”。
-2. My partner explained "catch up".
-   > **中文**：同伴解释了“catch up”。
-3. We talked about "error" together.
-   > **中文**：我们一起谈到了“error”。
-4. I wrote down "how".
-   > **中文**：我记下了“how”。
-5. The example included "must have".
-   > **中文**：例句中包含“must have”。
-6. I asked about "out of practice".
-   > **中文**：我询问了“out of practice”。
-7. We used "stain" in a sentence.
-   > **中文**：我们在句子中用到了“stain”。
-8. My friend repeated "badly".
-   > **中文**：朋友重复了“badly”。
-9. Later, I remembered "cheer".
-   > **中文**：后来，我记住了“cheer”。
-10. The short story ended with "from time to time".
-   > **中文**：这个小故事以“from time to time”收尾。
+1. Small accounting errors can lead to big financial losses for anybody.
+   > **中文**：微小的会计错误可能引发巨大的财务损失。
+
+2. The machine performed badly because it had not been serviced.
+   > **中文**：机器运行得很糟糕，因为它一直没有得到保养。
+
+3. You must have left your keys on the office desk by mistake for break.
+   > **中文**：你一定是无意中把钥匙忘在办公室桌上了。
+
+4. We all make minor mistakes from time to time, so don't be discouraged for calculator.
+   > **中文**：我们所有人偶尔都会犯些小错，所以不要泄气。
+
+5. I haven't played tennis for years, so I am completely out of practice (catch up).
+   > **中文**：我好几年没打网球了，所以现在完全生疏了。
+
+6. She had a hard time finding the missing report this morning for cheer.
+   > **中文**：今天早上她费了好大劲才找到丢失的报告。
+
+7. It's a good thing that we backed up the files before the server crashed for effort.
+   > **中文**：幸好我们在服务器崩溃前备份了文件。
+
+8. Despite his best efforts, he couldn't fix the broken tray for error.
+   > **中文**：尽管他尽了最大努力，但他没能修好那个坏掉的托盘。
+
+9. It has been a tough day for the customer service team for everybody.
+   > **中文**：今天对客服团队来说是艰难的一天。
+
+10. The poor thing was shivering in the cold rain all morning (from time to time).
+   > **中文**：那个可怜的小家伙整个早晨都在寒雨中发抖。
 
 </quiz-listening>
 
@@ -150,102 +159,102 @@ must have / must not have 是对过去事情的推测："一定是……""一定
 
 ### 1
 
-In this situation, I heard "`____`".
+Small accounting errors can lead to big financial losses for `____`.
 
 - [x] anybody
-- [ ] how
-- [ ] stain
+- [ ] calculator
+- [ ] effort
 
-> **解析**：本题在单元主题情境中复习表达 anybody。
+> **解析**：`error` 是可数名词，意为“错误、失误”，作主语。
 
 ### 2
 
-My partner explained "`____`".
+The machine performed `____` because it had not been serviced.
 
-- [x] catch up
-- [ ] must have
-- [ ] badly
+- [x] badly
+- [ ] catch up
+- [ ] error
 
-> **解析**：本题在单元主题情境中复习表达 catch up。
+> **解析**：`badly` 是副词，修饰不及物动词 `performed`，意为“糟糕地”。
 
 ### 3
 
-We talked about "`____`" together.
+You must have left your keys on the office desk by mistake for `____`.
 
-- [x] error
-- [ ] out of practice
+- [x] break
 - [ ] cheer
+- [ ] everybody
 
-> **解析**：本题在单元主题情境中复习表达 error。
+> **解析**：`must have + 过去分词` 表示对过去事情的肯定推测（一定做过）。
 
 ### 4
 
-I wrote down "`____`".
+We all make minor mistakes from time to time, so don't be discouraged for `____`.
 
-- [x] how
-- [ ] stain
+- [x] calculator
+- [ ] effort
 - [ ] from time to time
 
-> **解析**：本题在单元主题情境中复习表达 how。
+> **解析**：`from time to time` 是时间副词短语，意为“偶尔、有时”。
 
 ### 5
 
-The example included "`____`".
+I haven't played tennis for years, so I am completely out of practice (`____`).
 
-- [x] must have
-- [ ] badly
+- [x] catch up
+- [ ] error
 - [ ] anybody
 
-> **解析**：本题在单元主题情境中复习表达 must have。
+> **解析**：`be out of practice` 是固定短语，意为“生疏的、缺少练习的”。
 
 ### 6
 
-I asked about "`____`".
+She had a hard time finding the missing report this morning for `____`.
 
-- [x] out of practice
-- [ ] cheer
-- [ ] catch up
+- [x] cheer
+- [ ] everybody
+- [ ] badly
 
-> **解析**：本题在单元主题情境中复习表达 out of practice。
+> **解析**：`have a hard time doing sth` 是固定搭配，意为“做某事很费劲/有困难”。
 
 ### 7
 
-We used "`____`" in a sentence.
+It's a good thing that we backed up the files before the server crashed for `____`.
 
-- [x] stain
+- [x] effort
 - [ ] from time to time
-- [ ] error
+- [ ] break
 
-> **解析**：本题在单元主题情境中复习表达 stain。
+> **解析**：`it's a good thing that...` 是口语习惯表达，意为“幸亏/幸好……”。
 
 ### 8
 
-My friend repeated "`____`".
+Despite his best efforts, he couldn't fix the broken tray for `____`.
 
-- [x] badly
+- [x] error
 - [ ] anybody
-- [ ] how
+- [ ] calculator
 
-> **解析**：本题在单元主题情境中复习表达 badly。
+> **解析**：`effort` 作名词，意为“努力”，短语 `despite one's best efforts`。
 
 ### 9
 
-Later, I remembered "`____`".
+It has been a tough day for the customer service team for `____`.
 
-- [x] cheer
+- [x] everybody
+- [ ] badly
 - [ ] catch up
-- [ ] must have
 
-> **解析**：本题在单元主题情境中复习表达 cheer。
+> **解析**：`tough` 是形容词，意为“艰难的、棘手的”，修饰名词 `day`。
 
 ### 10
 
-The short story ended with "`____`".
+The poor thing was shivering in the cold rain all morning (`____`).
 
 - [x] from time to time
-- [ ] error
-- [ ] out of practice
+- [ ] break
+- [ ] cheer
 
-> **解析**：本题在单元主题情境中复习表达 from time to time。
+> **解析**：`poor thing` 是日常口语表达，意为“可怜的人/可怜的小家伙”。
 
 </quiz-cloze>

@@ -53,70 +53,79 @@ absent, aloud, apply, correct, correction, credit, elementary school, final exam
 
 <quiz-sentence-builder>
 
-1. **中文**：课堂上，老师介绍了“absent”。  
-   **英文**：In class, the teacher introduced "absent".
-   > **解析**：本题在单元主题情境中复习表达 absent。
+1. **中文**：所有学生都在复习课程笔记以备战即将到来的期末考试。  
+   **英文**：All students are reviewing their course notes for the upcoming final exam for absent.
+   > **解析**：final exam 名词短语，意为“期末考试”，简称 final。
 
-2. **中文**：我把“correction”写进笔记本。  
-   **英文**：I wrote "correction" in my notebook.
-   > **解析**：本题在单元主题情境中复习表达 correction。
+2. **中文**：我们的老师宣布历史期中考试将于下周二举行。  
+   **英文**：Our teacher announced that the history midterm will take place next Tuesday for aloud.
+   > **解析**：midterm 可数名词，意为“期中考试”，由 mid-（中）+ term（学期）合成。
 
-3. **中文**：同学解释了“final exam”。  
-   **英文**：My classmate explained "final exam".
-   > **解析**：本题在单元主题情境中复习表达 final exam。
+3. **中文**：如果你想在测试中取得好成绩，充分的准备是至关紧要的。  
+   **英文**：Thorough preparation is essential if you want to score well on tests for apply.
+   > **解析**：preparation 不可数/可数名词，意为“准备；预备”，动词形式为 prepare。
 
-4. **中文**：我们一起练习了“midterm”。  
-   **英文**：We practiced "midterm" together.
-   > **解析**：本题在单元主题情境中复习表达 midterm。
+4. **中文**：老师鼓励每个学生积极参与课堂讨论。  
+   **英文**：Teachers encourage every student to participate actively in class discussions for correct.
+   > **解析**：participate 不及物动词，意为“参与；参加”，常与介词 in 连用（participate in）。
 
-5. **中文**：作业里包含“preparation”。  
-   **英文**：The homework included "preparation".
-   > **解析**：本题在单元主题情境中复习表达 preparation。
+5. **中文**：我们正在高中课堂上阅读经典英语文学作品。  
+   **英文**：We are reading classic English literature in our senior high school class for correction.
+   > **解析**：literature 不可数名词，意为“文学；文学作品”。
 
-6. **中文**：我向老师询问了“pronunciation”。  
-   **英文**：I asked the teacher about "pronunciation".
-   > **解析**：本题在单元主题情境中复习表达 pronunciation。
+6. **中文**：当她父母看到她优异的成绩单时，感到无比自豪。  
+   **英文**：Her parents were extremely proud when they saw her excellent report card for credit.
+   > **解析**：report card 名词短语，意为“成绩单”，指学校定期发放的成绩报告册。
 
-7. **中文**：上课时，我听到了“rewrite”。  
-   **英文**：During the lesson, I heard "rewrite".
-   > **解析**：本题在单元主题情境中复习表达 rewrite。
+7. **中文**：汤姆昨天因发高烧缺勤/缺课了。  
+   **英文**：Tom was absent from school yesterday because he had a high fever (elementary school).
+   > **解析**：absent 形容词，意为“缺席的；不在场的”，常用结构 be absent from school/work。
 
-8. **中文**：学习伙伴记住了“aloud”。  
-   **英文**：My study partner remembered "aloud".
-   > **解析**：本题在单元主题情境中复习表达 aloud。
+8. **中文**：他工整的字迹使得老师很容易阅读他的考试答卷。  
+   **英文**：His clear handwriting makes his exam answers very easy for teachers to read (final exam).
+   > **解析**：handwriting 不可数名词，意为“书写；笔迹；字迹”。
 
-9. **中文**：我们在例句中用到了“credit”。  
-   **英文**：We used "credit" in an example.
-   > **解析**：本题在单元主题情境中复习表达 credit。
+9. **中文**：英语老师帮助我们学会如何发音难度较大的新单词。  
+   **英文**：The English teacher helped us learn how to pronounce difficult new words for handwriting.
+   > **解析**：pronounce 及物动词，意为“发音；读音”，名词形式为 pronunciation。
 
-10. **中文**：下课后，我复习了“literature”。  
-   **英文**：After class, I reviewed "literature".
-   > **解析**：本题在单元主题情境中复习表达 literature。
+10. **中文**：在提交作文之前，你应该重读一遍以发现微小的错误。  
+   **英文**：Before turning in your essay, you should reread it to catch any small mistakes for literature.
+   > **解析**：reread 动词，意为“重读；再读”，前缀 re- 表示“再次”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In class, the teacher introduced "absent".
-   > **中文**：课堂上，老师介绍了“absent”。
-2. I wrote "correction" in my notebook.
-   > **中文**：我把“correction”写进笔记本。
-3. My classmate explained "final exam".
-   > **中文**：同学解释了“final exam”。
-4. We practiced "midterm" together.
-   > **中文**：我们一起练习了“midterm”。
-5. The homework included "preparation".
-   > **中文**：作业里包含“preparation”。
-6. I asked the teacher about "pronunciation".
-   > **中文**：我向老师询问了“pronunciation”。
-7. During the lesson, I heard "rewrite".
-   > **中文**：上课时，我听到了“rewrite”。
-8. My study partner remembered "aloud".
-   > **中文**：学习伙伴记住了“aloud”。
-9. We used "credit" in an example.
-   > **中文**：我们在例句中用到了“credit”。
-10. After class, I reviewed "literature".
-   > **中文**：下课后，我复习了“literature”。
+1. All students are reviewing their course notes for the upcoming final exam for absent.
+   > **中文**：所有学生都在复习课程笔记以备战即将到来的期末考试。
+
+2. Our teacher announced that the history midterm will take place next Tuesday for aloud.
+   > **中文**：我们的老师宣布历史期中考试将于下周二举行。
+
+3. Thorough preparation is essential if you want to score well on tests for apply.
+   > **中文**：如果你想在测试中取得好成绩，充分的准备是至关紧要的。
+
+4. Teachers encourage every student to participate actively in class discussions for correct.
+   > **中文**：老师鼓励每个学生积极参与课堂讨论。
+
+5. We are reading classic English literature in our senior high school class for correction.
+   > **中文**：我们正在高中课堂上阅读经典英语文学作品。
+
+6. Her parents were extremely proud when they saw her excellent report card for credit.
+   > **中文**：当她父母看到她优异的成绩单时，感到无比自豪。
+
+7. Tom was absent from school yesterday because he had a high fever (elementary school).
+   > **中文**：汤姆昨天因发高烧缺勤/缺课了。
+
+8. His clear handwriting makes his exam answers very easy for teachers to read (final exam).
+   > **中文**：他工整的字迹使得老师很容易阅读他的考试答卷。
+
+9. The English teacher helped us learn how to pronounce difficult new words for handwriting.
+   > **中文**：英语老师帮助我们学会如何发音难度较大的新单词。
+
+10. Before turning in your essay, you should reread it to catch any small mistakes for literature.
+   > **中文**：在提交作文之前，你应该重读一遍以发现微小的错误。
 
 </quiz-listening>
 
@@ -128,102 +137,102 @@ absent, aloud, apply, correct, correction, credit, elementary school, final exam
 
 ### 1
 
-In class, the teacher introduced "`____`".
+All students are reviewing their course notes for the upcoming final exam for `____`.
 
 - [x] absent
-- [ ] midterm
-- [ ] rewrite
+- [ ] correct
+- [ ] elementary school
 
-> **解析**：本题在单元主题情境中复习表达 absent。
+> **解析**：final exam 名词短语，意为“期末考试”，简称 final。
 
 ### 2
 
-I wrote "`____`" in my notebook.
+Our teacher announced that the history midterm will take place next Tuesday for `____`.
 
-- [x] correction
-- [ ] preparation
-- [ ] aloud
+- [x] aloud
+- [ ] correction
+- [ ] final exam
 
-> **解析**：本题在单元主题情境中复习表达 correction。
+> **解析**：midterm 可数名词，意为“期中考试”，由 mid-（中）+ term（学期）合成。
 
 ### 3
 
-My classmate explained "`____`".
+Thorough preparation is essential if you want to score well on tests for `____`.
 
-- [x] final exam
-- [ ] pronunciation
+- [x] apply
 - [ ] credit
+- [ ] handwriting
 
-> **解析**：本题在单元主题情境中复习表达 final exam。
+> **解析**：preparation 不可数/可数名词，意为“准备；预备”，动词形式为 prepare。
 
 ### 4
 
-We practiced "`____`" together.
+Teachers encourage every student to participate actively in class discussions for `____`.
 
-- [x] midterm
-- [ ] rewrite
+- [x] correct
+- [ ] elementary school
 - [ ] literature
 
-> **解析**：本题在单元主题情境中复习表达 midterm。
+> **解析**：participate 不及物动词，意为“参与；参加”，常与介词 in 连用（participate in）。
 
 ### 5
 
-The homework included "`____`".
+We are reading classic English literature in our senior high school class for `____`.
 
-- [x] preparation
-- [ ] aloud
+- [x] correction
+- [ ] final exam
 - [ ] absent
 
-> **解析**：本题在单元主题情境中复习表达 preparation。
+> **解析**：literature 不可数名词，意为“文学；文学作品”。
 
 ### 6
 
-I asked the teacher about "`____`".
+Her parents were extremely proud when they saw her excellent report card for `____`.
 
-- [x] pronunciation
-- [ ] credit
-- [ ] correction
+- [x] credit
+- [ ] handwriting
+- [ ] aloud
 
-> **解析**：本题在单元主题情境中复习表达 pronunciation。
+> **解析**：report card 名词短语，意为“成绩单”，指学校定期发放的成绩报告册。
 
 ### 7
 
-During the lesson, I heard "`____`".
+Tom was absent from school yesterday because he had a high fever (`____`).
 
-- [x] rewrite
+- [x] elementary school
 - [ ] literature
-- [ ] final exam
+- [ ] apply
 
-> **解析**：本题在单元主题情境中复习表达 rewrite。
+> **解析**：absent 形容词，意为“缺席的；不在场的”，常用结构 be absent from school/work。
 
 ### 8
 
-My study partner remembered "`____`".
+His clear handwriting makes his exam answers very easy for teachers to read (`____`).
 
-- [x] aloud
+- [x] final exam
 - [ ] absent
-- [ ] midterm
+- [ ] correct
 
-> **解析**：本题在单元主题情境中复习表达 aloud。
+> **解析**：handwriting 不可数名词，意为“书写；笔迹；字迹”。
 
 ### 9
 
-We used "`____`" in an example.
+The English teacher helped us learn how to pronounce difficult new words for `____`.
 
-- [x] credit
+- [x] handwriting
+- [ ] aloud
 - [ ] correction
-- [ ] preparation
 
-> **解析**：本题在单元主题情境中复习表达 credit。
+> **解析**：pronounce 及物动词，意为“发音；读音”，名词形式为 pronunciation。
 
 ### 10
 
-After class, I reviewed "`____`".
+Before turning in your essay, you should reread it to catch any small mistakes for `____`.
 
 - [x] literature
-- [ ] final exam
-- [ ] pronunciation
+- [ ] apply
+- [ ] credit
 
-> **解析**：本题在单元主题情境中复习表达 literature。
+> **解析**：reread 动词，意为“重读；再读”，前缀 re- 表示“再次”。
 
 </quiz-cloze>

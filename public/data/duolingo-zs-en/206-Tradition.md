@@ -53,70 +53,79 @@ light → lit 是不规则动词变化（点燃）。get dark = 天黑。stand �
 
 <quiz-sentence-builder>
 
-1. **中文**：在机场，我听到了“barbecue”。  
-   **英文**：At the airport, I heard "barbecue".
-   > **解析**：本题在单元主题情境中复习表达 barbecue。
+1. **中文**：我们聚集在后院，和邻居们一起享受传统的夏季户外烧烤。  
+   **英文**：We gathered in the backyard for a traditional summer barbecue with neighbors.
+   > **解析**：barbecue 可数/不可数名词，意为“户外烧烤；烤肉聚会”。
 
-2. **中文**：我的旅伴解释了“cleaning”。  
-   **英文**：My travel partner explained "cleaning".
-   > **解析**：本题在单元主题情境中复习表达 cleaning。
+2. **中文**：我们全家在周末搞了一次车库售卖，出售旧家具和旧书。  
+   **英文**：Our family hosted a weekend garage sale to sell old furniture and books for blow.
+   > **解析**：garage sale 可数名词短语，意为“车库旧货出售”。
 
-3. **中文**：旅行途中，我们谈到了“get dark”。  
-   **英文**：During the trip, we talked about "get dark".
-   > **解析**：本题在单元主题情境中复习表达 get dark。
+3. **中文**：在营火旁喝一马克杯热可可极受我们喜欢的傍晚活动。  
+   **英文**：Drinking a mug of hot cocoa near the campfire is our favorite evening activity for carve.
+   > **解析**：hot cocoa 名词短语，意为“热可可”。
 
-4. **中文**：在酒店里，我记下了“jack-o'-lantern”。  
-   **英文**：At the hotel, I wrote down "jack-o'-lantern".
-   > **解析**：本题在单元主题情境中复习表达 jack-o'-lantern。
+4. **中文**：经过几个月的辛勤劳作，农民们庆祝秋收。  
+   **英文**：Farmers celebrate the autumn harvest after months of hard work for cider.
+   > **解析**：harvest 名词/动词，在此作名词意为“收获；丰收”。
 
-5. **中文**：旅行者清楚地重复了“organize”。  
-   **英文**：The traveler repeated "organize" clearly.
-   > **解析**：本题在单元主题情境中复习表达 organize。
+5. **中文**：我们雕刻了一个巨大的橙色南瓜放在前门廊附近。  
+   **英文**：We carved a big orange pumpkin to place near the front porch for cleaning.
+   > **解析**：pumpkin 可数名词，意为“南瓜”。
 
-6. **中文**：离开前，我查看了“springtime”。  
-   **英文**：Before leaving, I checked "springtime".
-   > **解析**：本题在单元主题情境中复习表达 springtime。
+6. **中文**：游览完当地果园后，他们喜欢喝冰苹果汁/苹果酒。  
+   **英文**：They enjoyed drinking cold apple cider after visiting the local orchard for decorations.
+   > **解析**：cider 不可数/可数名词，意为“苹果汁；苹果酒”。
 
-7. **中文**：在去那里的路上，我们用到了“summertime”。  
-   **英文**：On the way there, we used "summertime".
-   > **解析**：本题在单元主题情境中复习表达 summertime。
+7. **中文**：沿着沿海公路进行夏季公路旅行是令人难忘的。  
+   **英文**：Driving along the coastal highway for a summer road trip was unforgettable (front yard).
+   > **解析**：road trip 可数名词短语，意为“公路自驾游”。
 
-8. **中文**：到达后，我想起了“blow”。  
-   **英文**：After arrival, I remembered "blow".
-   > **解析**：本题在单元主题情境中复习表达 blow。
+8. **中文**：吹灭生日蜡烛是一项许愿的传统。  
+   **英文**：Blowing out the birthday candles is a tradition where you make a wish (garage sale).
+   > **解析**：make a wish 常用动词短语，意为“许愿”。
 
-9. **中文**：导游指出了“decorations”。  
-   **英文**：The guide pointed out "decorations".
-   > **解析**：本题在单元主题情境中复习表达 decorations。
+9. **中文**：孩子们喜欢在前院绿油油的草地上奔跑。  
+   **英文**：Children loved running through the green grass in the front yard (get dark).
+   > **解析**：front yard 名词短语，意为“前院”。
 
-10. **中文**：那段旅行故事以“harvest”收尾。  
-   **英文**：That travel story ended with "harvest".
-   > **解析**：本题在单元主题情境中复习表达 harvest。
+10. **中文**：每个邻居都带了一道自制菜肴在夏季百家宴餐会上分享。  
+   **英文**：Every neighbor brought a homemade dish to share at the summer potluck for harvest.
+   > **解析**：potluck 可数/不可数名词，意为“百家宴；聚餐（每人自带一菜）”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the airport, I heard "barbecue".
-   > **中文**：在机场，我听到了“barbecue”。
-2. My travel partner explained "cleaning".
-   > **中文**：我的旅伴解释了“cleaning”。
-3. During the trip, we talked about "get dark".
-   > **中文**：旅行途中，我们谈到了“get dark”。
-4. At the hotel, I wrote down "jack-o'-lantern".
-   > **中文**：在酒店里，我记下了“jack-o'-lantern”。
-5. The traveler repeated "organize" clearly.
-   > **中文**：旅行者清楚地重复了“organize”。
-6. Before leaving, I checked "springtime".
-   > **中文**：离开前，我查看了“springtime”。
-7. On the way there, we used "summertime".
-   > **中文**：在去那里的路上，我们用到了“summertime”。
-8. After arrival, I remembered "blow".
-   > **中文**：到达后，我想起了“blow”。
-9. The guide pointed out "decorations".
-   > **中文**：导游指出了“decorations”。
-10. That travel story ended with "harvest".
-   > **中文**：那段旅行故事以“harvest”收尾。
+1. We gathered in the backyard for a traditional summer barbecue with neighbors.
+   > **中文**：我们聚集在后院，和邻居们一起享受传统的夏季户外烧烤。
+
+2. Our family hosted a weekend garage sale to sell old furniture and books for blow.
+   > **中文**：我们全家在周末搞了一次车库售卖，出售旧家具和旧书。
+
+3. Drinking a mug of hot cocoa near the campfire is our favorite evening activity for carve.
+   > **中文**：在营火旁喝一马克杯热可可极受我们喜欢的傍晚活动。
+
+4. Farmers celebrate the autumn harvest after months of hard work for cider.
+   > **中文**：经过几个月的辛勤劳作，农民们庆祝秋收。
+
+5. We carved a big orange pumpkin to place near the front porch for cleaning.
+   > **中文**：我们雕刻了一个巨大的橙色南瓜放在前门廊附近。
+
+6. They enjoyed drinking cold apple cider after visiting the local orchard for decorations.
+   > **中文**：游览完当地果园后，他们喜欢喝冰苹果汁/苹果酒。
+
+7. Driving along the coastal highway for a summer road trip was unforgettable (front yard).
+   > **中文**：沿着沿海公路进行夏季公路旅行是令人难忘的。
+
+8. Blowing out the birthday candles is a tradition where you make a wish (garage sale).
+   > **中文**：吹灭生日蜡烛是一项许愿的传统。
+
+9. Children loved running through the green grass in the front yard (get dark).
+   > **中文**：孩子们喜欢在前院绿油油的草地上奔跑。
+
+10. Every neighbor brought a homemade dish to share at the summer potluck for harvest.
+   > **中文**：每个邻居都带了一道自制菜肴在夏季百家宴餐会上分享。
 
 </quiz-listening>
 
@@ -128,102 +137,102 @@ light → lit 是不规则动词变化（点燃）。get dark = 天黑。stand �
 
 ### 1
 
-At the airport, I heard "`____`".
+We gathered in the backyard for a traditional summer `____` with neighbors.
 
 - [x] barbecue
-- [ ] jack-o'-lantern
-- [ ] summertime
+- [ ] cider
+- [ ] front yard
 
-> **解析**：本题在单元主题情境中复习表达 barbecue。
+> **解析**：barbecue 可数/不可数名词，意为“户外烧烤；烤肉聚会”。
 
 ### 2
 
-My travel partner explained "`____`".
+Our family hosted a weekend garage sale to sell old furniture and books for `____`.
 
-- [x] cleaning
-- [ ] organize
-- [ ] blow
+- [x] blow
+- [ ] cleaning
+- [ ] garage sale
 
-> **解析**：本题在单元主题情境中复习表达 cleaning。
+> **解析**：garage sale 可数名词短语，意为“车库旧货出售”。
 
 ### 3
 
-During the trip, we talked about "`____`".
+Drinking a mug of hot cocoa near the campfire is our favorite evening activity for `____`.
 
-- [x] get dark
-- [ ] springtime
+- [x] carve
 - [ ] decorations
+- [ ] get dark
 
-> **解析**：本题在单元主题情境中复习表达 get dark。
+> **解析**：hot cocoa 名词短语，意为“热可可”。
 
 ### 4
 
-At the hotel, I wrote down "`____`".
+Farmers celebrate the autumn harvest after months of hard work for `____`.
 
-- [x] jack-o'-lantern
-- [ ] summertime
+- [x] cider
+- [ ] front yard
 - [ ] harvest
 
-> **解析**：本题在单元主题情境中复习表达 jack-o'-lantern。
+> **解析**：harvest 名词/动词，在此作名词意为“收获；丰收”。
 
 ### 5
 
-The traveler repeated "`____`" clearly.
+We carved a big orange pumpkin to place near the front porch for `____`.
 
-- [x] organize
-- [ ] blow
+- [x] cleaning
+- [ ] garage sale
 - [ ] barbecue
 
-> **解析**：本题在单元主题情境中复习表达 organize。
+> **解析**：pumpkin 可数名词，意为“南瓜”。
 
 ### 6
 
-Before leaving, I checked "`____`".
+They enjoyed drinking cold apple cider after visiting the local orchard for `____`.
 
-- [x] springtime
-- [ ] decorations
-- [ ] cleaning
+- [x] decorations
+- [ ] get dark
+- [ ] blow
 
-> **解析**：本题在单元主题情境中复习表达 springtime。
+> **解析**：cider 不可数/可数名词，意为“苹果汁；苹果酒”。
 
 ### 7
 
-On the way there, we used "`____`".
+Driving along the coastal highway for a summer road trip was unforgettable (`____`).
 
-- [x] summertime
+- [x] front yard
 - [ ] harvest
-- [ ] get dark
+- [ ] carve
 
-> **解析**：本题在单元主题情境中复习表达 summertime。
+> **解析**：road trip 可数名词短语，意为“公路自驾游”。
 
 ### 8
 
-After arrival, I remembered "`____`".
+Blowing out the birthday candles is a tradition where you make a wish (`____`).
 
-- [x] blow
+- [x] garage sale
 - [ ] barbecue
-- [ ] jack-o'-lantern
+- [ ] cider
 
-> **解析**：本题在单元主题情境中复习表达 blow。
+> **解析**：make a wish 常用动词短语，意为“许愿”。
 
 ### 9
 
-The guide pointed out "`____`".
+Children loved running through the green grass in the front yard (`____`).
 
-- [x] decorations
+- [x] get dark
+- [ ] blow
 - [ ] cleaning
-- [ ] organize
 
-> **解析**：本题在单元主题情境中复习表达 decorations。
+> **解析**：front yard 名词短语，意为“前院”。
 
 ### 10
 
-That travel story ended with "`____`".
+Every neighbor brought a homemade dish to share at the summer potluck for `____`.
 
 - [x] harvest
-- [ ] get dark
-- [ ] springtime
+- [ ] carve
+- [ ] decorations
 
-> **解析**：本题在单元主题情境中复习表达 harvest。
+> **解析**：potluck 可数/不可数名词，意为“百家宴；聚餐（每人自带一菜）”。
 
 </quiz-cloze>

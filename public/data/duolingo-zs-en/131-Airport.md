@@ -61,70 +61,79 @@ can't / couldn't / won't 是情态动词的否定。canceled 表示"被取消"�
 
 <quiz-sentence-builder>
 
-1. **中文**：在机场，我听到了“abroad”。  
-   **英文**：At the airport, I heard "abroad".
-   > **解析**：本题在单元主题情境中复习表达 abroad。
+1. **中文**：乘客需要在航班起飞时间前至少两小时办理登机手续。  
+   **英文**：Passengers need to check in at least two hours before the flight departure time for abroad.
+   > **解析**：check in 为动词短语，在机场语境中意为“办理登机手续/报到”。departure time 意为“起飞时间”。
 
-2. **中文**：我的旅伴解释了“canceled”。  
-   **英文**：My travel partner explained "canceled".
-   > **解析**：本题在单元主题情境中复习表达 canceled。
+2. **中文**：请确保您的托运行李不超过二十公斤的重量限制。  
+   **英文**：Make sure your checked baggage does not exceed the weight limit of twenty kilograms.
+   > **解析**：baggage 为不可数名词，意为“行李”（美式，英式常用 luggage）。checked baggage 表示“托运行李”。
 
-3. **中文**：旅行途中，我们谈到了“confused”。  
-   **英文**：During the trip, we talked about "confused".
-   > **解析**：本题在单元主题情境中复习表达 confused。
+3. **中文**：在通过机场安检检票口时，你必须脱下夹克。  
+   **英文**：You must take off your jacket when passing through airport security checkpoint (can't).
+   > **解析**：security 为名词，在此处作定语修饰 checkpoint，security checkpoint 表示“安检检查站”。
 
-4. **中文**：在酒店里，我记下了“front door”。  
-   **英文**：At the hotel, I wrote down "front door".
-   > **解析**：本题在单元主题情境中复习表达 front door。
+4. **中文**：游客在预订国际航班之前需要申请旅游签证。  
+   **英文**：Travelers need to apply for a tourist visa before booking their international flights for cancel.
+   > **解析**：visa 为名词，意为“签证”。apply for a visa 表示“申请签证”。tourist visa 指“旅游签证”。
 
-5. **中文**：旅行者清楚地重复了“reservations”。  
-   **英文**：The traveler repeated "reservations" clearly.
-   > **解析**：本题在单元主题情境中复习表达 reservations。
+5. **中文**：在起飞前一天在线确认您的航班预订是明智的。  
+   **英文**：It is wise to confirm your flight reservations online the day before departure for canceled.
+   > **解析**：reservations 为名词复数，意为“预订、预约”。confirm flight reservations 表示“确认航班预订”。
 
-6. **中文**：离开前，我查看了“spare”。  
-   **英文**：Before leaving, I checked "spare".
-   > **解析**：本题在单元主题情境中复习表达 spare。
+6. **中文**：由于大雪，航空公司取消了早晨的几趟航班。  
+   **英文**：Due to heavy snow, several morning flights were canceled by the airline (check in).
+   > **解析**：canceled 为动词 cancel 的过去分词，在句中构成被动语态（were canceled），意为“被取消”。美式拼写为 canceled，英式为 cancelled。
 
-7. **中文**：在去那里的路上，我们用到了“transportation”。  
-   **英文**：On the way there, we used "transportation".
-   > **解析**：本题在单元主题情境中复习表达 transportation。
+7. **中文**：在国外留学给学生们提供了体验不同文化的绝佳机会。  
+   **英文**：Studying abroad offers students a wonderful opportunity to experience different cultures for citizen.
+   > **解析**：abroad 为副词，意为“在国外、到国外”。study abroad 表示“出国留学”。修饰动词动名词 studying。
 
-8. **中文**：到达后，我想起了“baggage”。  
-   **英文**：After arrival, I remembered "baggage".
-   > **解析**：本题在单元主题情境中复习表达 baggage。
+8. **中文**：如果你在国外遗失了护照，应当立即前往你的大使馆。  
+   **英文**：If you lose your passport in another country, you should visit your embassy immediately for confused.
+   > **解析**：embassy 为名词，意为“大使馆”。前面接物主代词 your，或冠词 an（an embassy）。
 
-9. **中文**：导游指出了“check in”。  
-   **英文**：The guide pointed out "check in".
-   > **解析**：本题在单元主题情境中复习表达 check in。
+9. **中文**：乘客可能需要为超大行李物品支付额外费用。  
+   **英文**：Passengers may have to pay an extra fee for oversized luggage items (couldn't).
+   > **解析**：fee 为可数名词，意为“费用、服务费”。an extra fee 表示“额外费用”。oversized 表示“超大号的”。
 
-10. **中文**：那段旅行故事以“embassy”收尾。  
-   **英文**：That travel story ended with "embassy".
-   > **解析**：本题在单元主题情境中复习表达 embassy。
+10. **中文**：从机场到市中心的公共交通非常快速方便。  
+   **英文**：Public transportation from the airport to the city center is fast and convenient for embassy.
+   > **解析**：transportation 为不可数名词，意为“交通工具、运输”。public transportation 表示“公共交通”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the airport, I heard "abroad".
-   > **中文**：在机场，我听到了“abroad”。
-2. My travel partner explained "canceled".
-   > **中文**：我的旅伴解释了“canceled”。
-3. During the trip, we talked about "confused".
-   > **中文**：旅行途中，我们谈到了“confused”。
-4. At the hotel, I wrote down "front door".
-   > **中文**：在酒店里，我记下了“front door”。
-5. The traveler repeated "reservations" clearly.
-   > **中文**：旅行者清楚地重复了“reservations”。
-6. Before leaving, I checked "spare".
-   > **中文**：离开前，我查看了“spare”。
-7. On the way there, we used "transportation".
-   > **中文**：在去那里的路上，我们用到了“transportation”。
-8. After arrival, I remembered "baggage".
-   > **中文**：到达后，我想起了“baggage”。
-9. The guide pointed out "check in".
-   > **中文**：导游指出了“check in”。
-10. That travel story ended with "embassy".
-   > **中文**：那段旅行故事以“embassy”收尾。
+1. Passengers need to check in at least two hours before the flight departure time for abroad.
+   > **中文**：乘客需要在航班起飞时间前至少两小时办理登机手续。
+
+2. Make sure your checked baggage does not exceed the weight limit of twenty kilograms.
+   > **中文**：请确保您的托运行李不超过二十公斤的重量限制。
+
+3. You must take off your jacket when passing through airport security checkpoint (can't).
+   > **中文**：在通过机场安检检票口时，你必须脱下夹克。
+
+4. Travelers need to apply for a tourist visa before booking their international flights for cancel.
+   > **中文**：游客在预订国际航班之前需要申请旅游签证。
+
+5. It is wise to confirm your flight reservations online the day before departure for canceled.
+   > **中文**：在起飞前一天在线确认您的航班预订是明智的。
+
+6. Due to heavy snow, several morning flights were canceled by the airline (check in).
+   > **中文**：由于大雪，航空公司取消了早晨的几趟航班。
+
+7. Studying abroad offers students a wonderful opportunity to experience different cultures for citizen.
+   > **中文**：在国外留学给学生们提供了体验不同文化的绝佳机会。
+
+8. If you lose your passport in another country, you should visit your embassy immediately for confused.
+   > **中文**：如果你在国外遗失了护照，应当立即前往你的大使馆。
+
+9. Passengers may have to pay an extra fee for oversized luggage items (couldn't).
+   > **中文**：乘客可能需要为超大行李物品支付额外费用。
+
+10. Public transportation from the airport to the city center is fast and convenient for embassy.
+   > **中文**：从机场到市中心的公共交通非常快速方便。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ can't / couldn't / won't 是情态动词的否定。canceled 表示"被取消"�
 
 ### 1
 
-At the airport, I heard "`____`".
+Passengers need to check in at least two hours before the flight departure time for `____`.
 
 - [x] abroad
-- [ ] front door
-- [ ] transportation
+- [ ] cancel
+- [ ] citizen
 
-> **解析**：本题在单元主题情境中复习表达 abroad。
+> **解析**：check in 为动词短语，在机场语境中意为“办理登机手续/报到”。departure time 意为“起飞时间”。
 
 ### 2
 
-My travel partner explained "`____`".
+Make sure your checked `____` does not exceed the weight limit of twenty kilograms.
 
-- [x] canceled
-- [ ] reservations
-- [ ] baggage
+- [x] baggage
+- [ ] canceled
+- [ ] confused
 
-> **解析**：本题在单元主题情境中复习表达 canceled。
+> **解析**：baggage 为不可数名词，意为“行李”（美式，英式常用 luggage）。checked baggage 表示“托运行李”。
 
 ### 3
 
-During the trip, we talked about "`____`".
+You must take off your jacket when passing through airport security checkpoint (`____`).
 
-- [x] confused
-- [ ] spare
+- [x] can't
 - [ ] check in
+- [ ] couldn't
 
-> **解析**：本题在单元主题情境中复习表达 confused。
+> **解析**：security 为名词，在此处作定语修饰 checkpoint，security checkpoint 表示“安检检查站”。
 
 ### 4
 
-At the hotel, I wrote down "`____`".
+Travelers need to apply for a tourist visa before booking their international flights for `____`.
 
-- [x] front door
-- [ ] transportation
+- [x] cancel
+- [ ] citizen
 - [ ] embassy
 
-> **解析**：本题在单元主题情境中复习表达 front door。
+> **解析**：visa 为名词，意为“签证”。apply for a visa 表示“申请签证”。tourist visa 指“旅游签证”。
 
 ### 5
 
-The traveler repeated "`____`" clearly.
+It is wise to confirm your flight reservations online the day before departure for `____`.
 
-- [x] reservations
-- [ ] baggage
+- [x] canceled
+- [ ] confused
 - [ ] abroad
 
-> **解析**：本题在单元主题情境中复习表达 reservations。
+> **解析**：reservations 为名词复数，意为“预订、预约”。confirm flight reservations 表示“确认航班预订”。
 
 ### 6
 
-Before leaving, I checked "`____`".
+Due to heavy snow, several morning flights were canceled by the airline (`____`).
 
-- [x] spare
-- [ ] check in
-- [ ] canceled
+- [x] check in
+- [ ] couldn't
+- [ ] baggage
 
-> **解析**：本题在单元主题情境中复习表达 spare。
+> **解析**：canceled 为动词 cancel 的过去分词，在句中构成被动语态（were canceled），意为“被取消”。美式拼写为 canceled，英式为 cancelled。
 
 ### 7
 
-On the way there, we used "`____`".
+Studying abroad offers students a wonderful opportunity to experience different cultures for `____`.
 
-- [x] transportation
+- [x] citizen
 - [ ] embassy
-- [ ] confused
+- [ ] can't
 
-> **解析**：本题在单元主题情境中复习表达 transportation。
+> **解析**：abroad 为副词，意为“在国外、到国外”。study abroad 表示“出国留学”。修饰动词动名词 studying。
 
 ### 8
 
-After arrival, I remembered "`____`".
+If you lose your passport in another country, you should visit your embassy immediately for `____`.
 
-- [x] baggage
+- [x] confused
 - [ ] abroad
-- [ ] front door
+- [ ] cancel
 
-> **解析**：本题在单元主题情境中复习表达 baggage。
+> **解析**：embassy 为名词，意为“大使馆”。前面接物主代词 your，或冠词 an（an embassy）。
 
 ### 9
 
-The guide pointed out "`____`".
+Passengers may have to pay an extra fee for oversized luggage items (`____`).
 
-- [x] check in
+- [x] couldn't
+- [ ] baggage
 - [ ] canceled
-- [ ] reservations
 
-> **解析**：本题在单元主题情境中复习表达 check in。
+> **解析**：fee 为可数名词，意为“费用、服务费”。an extra fee 表示“额外费用”。oversized 表示“超大号的”。
 
 ### 10
 
-That travel story ended with "`____`".
+Public transportation from the airport to the city center is fast and convenient for `____`.
 
 - [x] embassy
-- [ ] confused
-- [ ] spare
+- [ ] can't
+- [ ] check in
 
-> **解析**：本题在单元主题情境中复习表达 embassy。
+> **解析**：transportation 为不可数名词，意为“交通工具、运输”。public transportation 表示“公共交通”。
 
 </quiz-cloze>

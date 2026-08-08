@@ -79,70 +79,79 @@ the trouble with（……的问题在于）、point of view（观点）、play a
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“accuse”。  
-   **英文**：In this situation, I heard "accuse".
-   > **解析**：本题在单元主题情境中复习表达 accuse。
+1. **中文**：在没有提供明确证据的情况下，你不能指责他撒谎。  
+   **英文**：You cannot accuse him of lying without providing clear proof.
+   > **解析**：`accuse sb of doing sth` 是固定搭配，意为“指控/指责某人做了某事”。
 
-2. **中文**：同伴解释了“breakup”。  
-   **英文**：My partner explained "breakup".
-   > **解析**：本题在单元主题情境中复习表达 breakup。
+2. **中文**：他最终承认是他打破了窗户。  
+   **英文**：He finally confessed that he was the one who broke the window for anything.
+   > **解析**：`confess` 作动词，意为“承认、供认”，后接 `that` 引导的宾语从句。
 
-3. **中文**：我们一起谈到了“doubtful”。  
-   **英文**：We talked about "doubtful" together.
-   > **解析**：本题在单元主题情境中复习表达 doubtful。
+3. **中文**：她厌倦了他无休止的借口，决定离开。  
+   **英文**：She was fed up with his endless excuses and decided to leave for approval.
+   > **解析**：`be fed up with sth/sb` 是形容词短语，意为“对……感到厌烦/受够了”。
 
-4. **中文**：我记下了“for a while now”。  
-   **英文**：I wrote down "for a while now".
-   > **解析**：本题在单元主题情境中复习表达 for a while now。
+4. **中文**：就我所知，经理还没有做出最终决定。  
+   **英文**：As far as I know, the manager has not made a final decision yet.
+   > **解析**：`as far as I know` 是限定短语，意为“据我所知”，说明信息来源有限。
 
-5. **中文**：例句中包含“play a part”。  
-   **英文**：The example included "play a part".
-   > **解析**：本题在单元主题情境中复习表达 play a part。
+5. **中文**：在我看来，双方都提出了合理的论点。  
+   **英文**：From my point of view, both sides made reasonable arguments for breakup.
+   > **解析**：`from one's point of view` 是固定介词短语，意为“从某人的角度/观点来看”。
 
-6. **中文**：我询问了“refuse”。  
-   **英文**：I asked about "refuse".
-   > **解析**：本题在单元主题情境中复习表达 refuse。
+6. **中文**：在这样恶劣的环境中工作对你的心理健康有害。  
+   **英文**：Working in such a toxic environment is bad for your mental health for confess.
+   > **解析**：`toxic` 此处引申为“恶劣的、有毒的（环境/关系）”。
 
-7. **中文**：我们在句子中用到了“the trouble with”。  
-   **英文**：We used "the trouble with" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 the trouble with。
+7. **中文**：他拒绝回答有关那篇争议帖子的任何问题。  
+   **英文**：He refused to answer any questions regarding the controversial post for consideration.
+   > **解析**：`refuse to do sth` 是动词搭配，意为“拒绝做某事”。
 
-8. **中文**：朋友重复了“anything”。  
-   **英文**：My friend repeated "anything".
-   > **解析**：本题在单元主题情境中复习表达 anything。
+8. **中文**：她立场的突然转变引发了同事们的怀疑。  
+   **英文**：Her sudden change of opinion raised suspicion among her colleagues for doubtful.
+   > **解析**：`suspicion` 是名词，意为“怀疑、猜疑”，搭配 `raise suspicion`。
 
-9. **中文**：后来，我记住了“confess”。  
-   **英文**：Later, I remembered "confess".
-   > **解析**：本题在单元主题情境中复习表达 confess。
+9. **中文**：团队能否在截止日期前完成项目是令人怀疑的。  
+   **英文**：It is doubtful whether the team can finish the project before deadline (everything that).
+   > **解析**：`doubtful` 是形容词，句型 `It is doubtful whether...`（……令人怀疑）。
 
-10. **中文**：这个小故事以“fed up”收尾。  
-   **英文**：The short story ended with "fed up".
-   > **解析**：本题在单元主题情境中复习表达 fed up。
+10. **中文**：他的问题在于他从不承担责任。  
+   **英文**：The trouble with him is that he never takes responsibility (fed up).
+   > **解析**：`the trouble with sb is that...` 是用于指出问题所在的主从复合句型。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "accuse".
-   > **中文**：在这个情境中，我听到了“accuse”。
-2. My partner explained "breakup".
-   > **中文**：同伴解释了“breakup”。
-3. We talked about "doubtful" together.
-   > **中文**：我们一起谈到了“doubtful”。
-4. I wrote down "for a while now".
-   > **中文**：我记下了“for a while now”。
-5. The example included "play a part".
-   > **中文**：例句中包含“play a part”。
-6. I asked about "refuse".
-   > **中文**：我询问了“refuse”。
-7. We used "the trouble with" in a sentence.
-   > **中文**：我们在句子中用到了“the trouble with”。
-8. My friend repeated "anything".
-   > **中文**：朋友重复了“anything”。
-9. Later, I remembered "confess".
-   > **中文**：后来，我记住了“confess”。
-10. The short story ended with "fed up".
-   > **中文**：这个小故事以“fed up”收尾。
+1. You cannot accuse him of lying without providing clear proof.
+   > **中文**：在没有提供明确证据的情况下，你不能指责他撒谎。
+
+2. He finally confessed that he was the one who broke the window for anything.
+   > **中文**：他最终承认是他打破了窗户。
+
+3. She was fed up with his endless excuses and decided to leave for approval.
+   > **中文**：她厌倦了他无休止的借口，决定离开。
+
+4. As far as I know, the manager has not made a final decision yet.
+   > **中文**：就我所知，经理还没有做出最终决定。
+
+5. From my point of view, both sides made reasonable arguments for breakup.
+   > **中文**：在我看来，双方都提出了合理的论点。
+
+6. Working in such a toxic environment is bad for your mental health for confess.
+   > **中文**：在这样恶劣的环境中工作对你的心理健康有害。
+
+7. He refused to answer any questions regarding the controversial post for consideration.
+   > **中文**：他拒绝回答有关那篇争议帖子的任何问题。
+
+8. Her sudden change of opinion raised suspicion among her colleagues for doubtful.
+   > **中文**：她立场的突然转变引发了同事们的怀疑。
+
+9. It is doubtful whether the team can finish the project before deadline (everything that).
+   > **中文**：团队能否在截止日期前完成项目是令人怀疑的。
+
+10. The trouble with him is that he never takes responsibility (fed up).
+   > **中文**：他的问题在于他从不承担责任。
 
 </quiz-listening>
 
@@ -154,102 +163,102 @@ the trouble with（……的问题在于）、point of view（观点）、play a
 
 ### 1
 
-In this situation, I heard "`____`".
+You cannot `____` him of lying without providing clear proof.
 
 - [x] accuse
-- [ ] for a while now
-- [ ] the trouble with
+- [ ] as far as i know
+- [ ] consideration
 
-> **解析**：本题在单元主题情境中复习表达 accuse。
+> **解析**：`accuse sb of doing sth` 是固定搭配，意为“指控/指责某人做了某事”。
 
 ### 2
 
-My partner explained "`____`".
+He finally confessed that he was the one who broke the window for `____`.
 
-- [x] breakup
-- [ ] play a part
-- [ ] anything
+- [x] anything
+- [ ] breakup
+- [ ] doubtful
 
-> **解析**：本题在单元主题情境中复习表达 breakup。
+> **解析**：`confess` 作动词，意为“承认、供认”，后接 `that` 引导的宾语从句。
 
 ### 3
 
-We talked about "`____`" together.
+She was fed up with his endless excuses and decided to leave for `____`.
 
-- [x] doubtful
-- [ ] refuse
+- [x] approval
 - [ ] confess
+- [ ] everything that
 
-> **解析**：本题在单元主题情境中复习表达 doubtful。
+> **解析**：`be fed up with sth/sb` 是形容词短语，意为“对……感到厌烦/受够了”。
 
 ### 4
 
-I wrote down "`____`".
+`____`, the manager has not made a final decision yet.
 
-- [x] for a while now
-- [ ] the trouble with
+- [x] as far as i know
+- [ ] consideration
 - [ ] fed up
 
-> **解析**：本题在单元主题情境中复习表达 for a while now。
+> **解析**：`as far as I know` 是限定短语，意为“据我所知”，说明信息来源有限。
 
 ### 5
 
-The example included "`____`".
+From my point of view, both sides made reasonable arguments for `____`.
 
-- [x] play a part
-- [ ] anything
+- [x] breakup
+- [ ] doubtful
 - [ ] accuse
 
-> **解析**：本题在单元主题情境中复习表达 play a part。
+> **解析**：`from one's point of view` 是固定介词短语，意为“从某人的角度/观点来看”。
 
 ### 6
 
-I asked about "`____`".
+Working in such a toxic environment is bad for your mental health for `____`.
 
-- [x] refuse
-- [ ] confess
-- [ ] breakup
+- [x] confess
+- [ ] everything that
+- [ ] anything
 
-> **解析**：本题在单元主题情境中复习表达 refuse。
+> **解析**：`toxic` 此处引申为“恶劣的、有毒的（环境/关系）”。
 
 ### 7
 
-We used "`____`" in a sentence.
+He refused to answer any questions regarding the controversial post for `____`.
 
-- [x] the trouble with
+- [x] consideration
 - [ ] fed up
-- [ ] doubtful
+- [ ] approval
 
-> **解析**：本题在单元主题情境中复习表达 the trouble with。
+> **解析**：`refuse to do sth` 是动词搭配，意为“拒绝做某事”。
 
 ### 8
 
-My friend repeated "`____`".
+Her sudden change of opinion raised suspicion among her colleagues for `____`.
 
-- [x] anything
+- [x] doubtful
 - [ ] accuse
-- [ ] for a while now
+- [ ] as far as i know
 
-> **解析**：本题在单元主题情境中复习表达 anything。
+> **解析**：`suspicion` 是名词，意为“怀疑、猜疑”，搭配 `raise suspicion`。
 
 ### 9
 
-Later, I remembered "`____`".
+It is doubtful whether the team can finish the project before deadline (`____`).
 
-- [x] confess
+- [x] everything that
+- [ ] anything
 - [ ] breakup
-- [ ] play a part
 
-> **解析**：本题在单元主题情境中复习表达 confess。
+> **解析**：`doubtful` 是形容词，句型 `It is doubtful whether...`（……令人怀疑）。
 
 ### 10
 
-The short story ended with "`____`".
+The trouble with him is that he never takes responsibility (`____`).
 
 - [x] fed up
-- [ ] doubtful
-- [ ] refuse
+- [ ] approval
+- [ ] confess
 
-> **解析**：本题在单元主题情境中复习表达 fed up。
+> **解析**：`the trouble with sb is that...` 是用于指出问题所在的主从复合句型。
 
 </quiz-cloze>

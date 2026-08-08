@@ -61,70 +61,79 @@ It is + adj + to do 是形式主语句型。hand in（上交）vs hand out（分
 
 <quiz-sentence-builder>
 
-1. **中文**：课堂上，老师介绍了“attention”。  
-   **英文**：In class, the teacher introduced "attention".
-   > **解析**：本题在单元主题情境中复习表达 attention。
+1. **中文**：良好的时间管理技能对于在大学取得学术成功是至关重要的。  
+   **英文**：Good time management skills are essential for academic success at university for attention.
+   > **解析**：essential 为形容词，意为“必不可少的、极重要的”。be essential for sth. 表示“对某事至关重要”。
 
-2. **中文**：我把“complicated”写进笔记本。  
-   **英文**：I wrote "complicated" in my notebook.
-   > **解析**：本题在单元主题情境中复习表达 complicated。
+2. **中文**：在最终截止时间之前提交所有研究作业是必要的。  
+   **英文**：It is necessary to submit all research assignments before the final deadline for average.
+   > **解析**：necessary to 为形容词结构，常见于形式主语句型 It is necessary to do sth.（做某事是必要的）。
 
-3. **中文**：同学解释了“hand”。  
-   **英文**：My classmate explained "hand".
-   > **解析**：本题在单元主题情境中复习表达 hand。
+3. **中文**：别忘了在周五前将完成的论文上交给课程导师。  
+   **英文**：Don't forget to hand in your completed essay to the course instructor by Friday for circle.
+   > **解析**：hand in 为动词短语，意为“上交、提交（作业/文件等）”。hand in your essay 意为“上交论文”。与 submit 同义。
 
-4. **中文**：我们一起练习了“important for”。  
-   **英文**：We practiced "important for" together.
-   > **解析**：本题在单元主题情境中复习表达 important for。
+4. **中文**：完成暑期实习为学生们提供了实用的工作场所经验。  
+   **英文**：Completing a summer internship provides students with practical workplace experience for complicated.
+   > **解析**：internship 为名词，意为“实习、实习期”。summer internship 指“暑期实习”。
 
-5. **中文**：作业里包含“lab”。  
-   **英文**：The homework included "lab".
-   > **解析**：本题在单元主题情境中复习表达 lab。
+5. **中文**：实验室导师在实验开始前清楚解释了安全规程。  
+   **英文**：The lab instructor clearly explained safety procedures before the experiment began for difficulty.
+   > **解析**：instructor 为名词，意为“导师、讲师、指导员”。lab instructor 指“实验室指导教师”。
 
-6. **中文**：我向老师询问了“register”。  
-   **英文**：I asked the teacher about "register".
-   > **解析**：本题在单元主题情境中复习表达 register。
+6. **中文**：这个数学公式看起来很复杂，但分步指导使它变得简单。  
+   **英文**：This math formula looks complicated, but step-by-step guidance makes it simple for drama.
+   > **解析**：complicated 为形容词，意为“复杂的、难懂的”。作系动词 looks 的表语。
 
-7. **中文**：上课时，我听到了“used”。  
-   **英文**：During the lesson, I heard "used".
-   > **解析**：本题在单元主题情境中复习表达 used。
+7. **中文**：大多数高级学位项目要求申请人具备扎实的语言技能。  
+   **英文**：Most advanced degree programs require applicants to have strong language skills for essential.
+   > **解析**：require 为动词，意为“要求、需要”。句型 require sb. to do sth.（要求某人做某事）。
 
-8. **中文**：学习伙伴记住了“average”。  
-   **英文**：My study partner remembered "average".
-   > **解析**：本题在单元主题情境中复习表达 average。
+8. **中文**：学生们在大学图书馆里有充足的参考书可供阅读。  
+   **英文**：Students have plenty of reference books to read in the university library for hand.
+   > **解析**：plenty of 为量词短语，意为“大量的、充足的”。后接可数名词复数（books）或不可数名词。
 
-9. **中文**：我们在例句中用到了“drama”。  
-   **英文**：We used "drama" in an example.
-   > **解析**：本题在单元主题情境中复习表达 drama。
+9. **中文**：你需要在下周开课之前在线注册选修课程。  
+   **英文**：You need to register for your elective courses online before classes start next week (hand in).
+   > **解析**：register 为动词，意为“注册、登记”。register for a course 表示“注册课程”。
 
-10. **中文**：下课后，我复习了“hand in”。  
-   **英文**：After class, I reviewed "hand in".
-   > **解析**：本题在单元主题情境中复习表达 hand in。
+10. **中文**：在讲座中集中注意力听讲有助于学生更好地理解核心概念。  
+   **英文**：Paying close attention during lectures helps students understand key concepts better (hand out).
+   > **解析**：attention 为不可数名词，意为“注意力”。pay attention 指“集中注意力”。close attention 表示“密切关注/集中注意力”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In class, the teacher introduced "attention".
-   > **中文**：课堂上，老师介绍了“attention”。
-2. I wrote "complicated" in my notebook.
-   > **中文**：我把“complicated”写进笔记本。
-3. My classmate explained "hand".
-   > **中文**：同学解释了“hand”。
-4. We practiced "important for" together.
-   > **中文**：我们一起练习了“important for”。
-5. The homework included "lab".
-   > **中文**：作业里包含“lab”。
-6. I asked the teacher about "register".
-   > **中文**：我向老师询问了“register”。
-7. During the lesson, I heard "used".
-   > **中文**：上课时，我听到了“used”。
-8. My study partner remembered "average".
-   > **中文**：学习伙伴记住了“average”。
-9. We used "drama" in an example.
-   > **中文**：我们在例句中用到了“drama”。
-10. After class, I reviewed "hand in".
-   > **中文**：下课后，我复习了“hand in”。
+1. Good time management skills are essential for academic success at university for attention.
+   > **中文**：良好的时间管理技能对于在大学取得学术成功是至关重要的。
+
+2. It is necessary to submit all research assignments before the final deadline for average.
+   > **中文**：在最终截止时间之前提交所有研究作业是必要的。
+
+3. Don't forget to hand in your completed essay to the course instructor by Friday for circle.
+   > **中文**：别忘了在周五前将完成的论文上交给课程导师。
+
+4. Completing a summer internship provides students with practical workplace experience for complicated.
+   > **中文**：完成暑期实习为学生们提供了实用的工作场所经验。
+
+5. The lab instructor clearly explained safety procedures before the experiment began for difficulty.
+   > **中文**：实验室导师在实验开始前清楚解释了安全规程。
+
+6. This math formula looks complicated, but step-by-step guidance makes it simple for drama.
+   > **中文**：这个数学公式看起来很复杂，但分步指导使它变得简单。
+
+7. Most advanced degree programs require applicants to have strong language skills for essential.
+   > **中文**：大多数高级学位项目要求申请人具备扎实的语言技能。
+
+8. Students have plenty of reference books to read in the university library for hand.
+   > **中文**：学生们在大学图书馆里有充足的参考书可供阅读。
+
+9. You need to register for your elective courses online before classes start next week (hand in).
+   > **中文**：你需要在下周开课之前在线注册选修课程。
+
+10. Paying close attention during lectures helps students understand key concepts better (hand out).
+   > **中文**：在讲座中集中注意力听讲有助于学生更好地理解核心概念。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ It is + adj + to do 是形式主语句型。hand in（上交）vs hand out（分
 
 ### 1
 
-In class, the teacher introduced "`____`".
+Good time management skills are essential for academic success at university for `____`.
 
 - [x] attention
-- [ ] important for
-- [ ] used
+- [ ] complicated
+- [ ] essential
 
-> **解析**：本题在单元主题情境中复习表达 attention。
+> **解析**：essential 为形容词，意为“必不可少的、极重要的”。be essential for sth. 表示“对某事至关重要”。
 
 ### 2
 
-I wrote "`____`" in my notebook.
+It is necessary to submit all research assignments before the final deadline for `____`.
 
-- [x] complicated
-- [ ] lab
-- [ ] average
+- [x] average
+- [ ] difficulty
+- [ ] hand
 
-> **解析**：本题在单元主题情境中复习表达 complicated。
+> **解析**：necessary to 为形容词结构，常见于形式主语句型 It is necessary to do sth.（做某事是必要的）。
 
 ### 3
 
-My classmate explained "`____`".
+Don't forget to hand in your completed essay to the course instructor by Friday for `____`.
 
-- [x] hand
-- [ ] register
+- [x] circle
 - [ ] drama
+- [ ] hand in
 
-> **解析**：本题在单元主题情境中复习表达 hand。
+> **解析**：hand in 为动词短语，意为“上交、提交（作业/文件等）”。hand in your essay 意为“上交论文”。与 submit 同义。
 
 ### 4
 
-We practiced "`____`" together.
+Completing a summer internship provides students with practical workplace experience for `____`.
 
-- [x] important for
-- [ ] used
-- [ ] hand in
+- [x] complicated
+- [ ] essential
+- [ ] hand out
 
-> **解析**：本题在单元主题情境中复习表达 important for。
+> **解析**：internship 为名词，意为“实习、实习期”。summer internship 指“暑期实习”。
 
 ### 5
 
-The homework included "`____`".
+The lab instructor clearly explained safety procedures before the experiment began for `____`.
 
-- [x] lab
-- [ ] average
+- [x] difficulty
+- [ ] hand
 - [ ] attention
 
-> **解析**：本题在单元主题情境中复习表达 lab。
+> **解析**：instructor 为名词，意为“导师、讲师、指导员”。lab instructor 指“实验室指导教师”。
 
 ### 6
 
-I asked the teacher about "`____`".
+This math formula looks complicated, but step-by-step guidance makes it simple for `____`.
 
-- [x] register
-- [ ] drama
-- [ ] complicated
+- [x] drama
+- [ ] hand in
+- [ ] average
 
-> **解析**：本题在单元主题情境中复习表达 register。
+> **解析**：complicated 为形容词，意为“复杂的、难懂的”。作系动词 looks 的表语。
 
 ### 7
 
-During the lesson, I heard "`____`".
+Most advanced degree programs require applicants to have strong language skills for `____`.
 
-- [x] used
-- [ ] hand in
-- [ ] hand
+- [x] essential
+- [ ] hand out
+- [ ] circle
 
-> **解析**：本题在单元主题情境中复习表达 used。
+> **解析**：require 为动词，意为“要求、需要”。句型 require sb. to do sth.（要求某人做某事）。
 
 ### 8
 
-My study partner remembered "`____`".
+Students have plenty of reference books to read in the university library for `____`.
 
-- [x] average
+- [x] hand
 - [ ] attention
-- [ ] important for
+- [ ] complicated
 
-> **解析**：本题在单元主题情境中复习表达 average。
+> **解析**：plenty of 为量词短语，意为“大量的、充足的”。后接可数名词复数（books）或不可数名词。
 
 ### 9
 
-We used "`____`" in an example.
+You need to register for your elective courses online before classes start next week (`____`).
 
-- [x] drama
-- [ ] complicated
-- [ ] lab
+- [x] hand in
+- [ ] average
+- [ ] difficulty
 
-> **解析**：本题在单元主题情境中复习表达 drama。
+> **解析**：register 为动词，意为“注册、登记”。register for a course 表示“注册课程”。
 
 ### 10
 
-After class, I reviewed "`____`".
+Paying close attention during lectures helps students understand key concepts better (`____`).
 
-- [x] hand in
-- [ ] hand
-- [ ] register
+- [x] hand out
+- [ ] circle
+- [ ] drama
 
-> **解析**：本题在单元主题情境中复习表达 hand in。
+> **解析**：attention 为不可数名词，意为“注意力”。pay attention 指“集中注意力”。close attention 表示“密切关注/集中注意力”。
 
 </quiz-cloze>

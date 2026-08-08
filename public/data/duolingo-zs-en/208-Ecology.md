@@ -51,70 +51,79 @@ adapt, are being, are not being, being, cause, endangered, global warming, green
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“adapt”。  
-   **英文**：In this situation, I heard "adapt".
-   > **解析**：本题在单元主题情境中复习表达 adapt。
+1. **中文**：警告气候变化的科学家们强调全球变暖的威胁。  
+   **英文**：Scientists warning about climate change emphasize the threats of global warming for adapt.
+   > **解析**：global warming 不可数名词短语，意为“全球变暖”。
 
-2. **中文**：同伴解释了“cause”。  
-   **英文**：My partner explained "cause".
-   > **解析**：本题在单元主题情境中复习表达 cause。
+2. **中文**：人们正在努力保护濒危物种免于灭绝。  
+   **英文**：Efforts are being made to protect endangered species from extinction.
+   > **解析**：endangered 形容词，意为“濒危的”，修饰 species、animals 等。
 
-3. **中文**：我们一起谈到了“green”。  
-   **英文**：We talked about "green" together.
-   > **解析**：本题在单元主题情境中复习表达 green。
+3. **中文**：砍伐森林破坏了野生鸟类和动物的自然栖息地。  
+   **英文**：Deforestation destroys the natural habitat of wild birds and animals (are not being).
+   > **解析**：habitat 可数/不可数名词，意为“（动植物的）栖息地；自然环境”。
 
-4. **中文**：我记下了“must be”。  
-   **英文**：I wrote down "must be".
-   > **解析**：本题在单元主题情境中复习表达 must be。
+4. **中文**：工厂决不能用有害化学废料污染附近的河流。  
+   **英文**：Factories must not pollute nearby rivers with harmful chemical waste for being.
+   > **解析**：pollute 及物动词，意为“污染”，名词形式为 pollution。
 
-5. **中文**：例句中包含“plant”。  
-   **英文**：The example included "plant".
-   > **解析**：本题在单元主题情境中复习表达 plant。
+5. **中文**：海洋中的塑料垃圾对海龟构成了严重危险。  
+   **英文**：Plastic waste in the ocean poses a serious danger to the sea turtle for cause.
+   > **解析**：turtle 可数名词，意为“海龟；龟”。
 
-6. **中文**：我询问了“steep”。  
-   **英文**：I asked about "steep".
-   > **解析**：本题在单元主题情境中复习表达 steep。
+6. **中文**：保护我们共享的地球需要国际合作与付出。  
+   **英文**：Protecting our shared planet requires international cooperation and dedication for endangered.
+   > **解析**：planet 可数名词，在此特指“地球”。
 
-7. **中文**：我们在句子中用到了“universe”。  
-   **英文**：We used "universe" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 universe。
+7. **中文**：过度的工业排放是空气污染的主要原因。  
+   **英文**：Excessive industrial emissions are a main cause of air pollution (global warming).
+   > **解析**：cause 可数名词，意为“原因；起因”；也可作动词表示“引起”。
 
-8. **中文**：朋友重复了“are being”。  
-   **英文**：My friend repeated "are being".
-   > **解析**：本题在单元主题情境中复习表达 are being。
+8. **中文**：野生动物必须适应不断变化的气温才能生存。  
+   **英文**：Wild animals must adapt to changing temperatures to survive for green.
+   > **解析**：adapt 不及物/及物动词，意为“适应”，常用 adapt to something。
 
-9. **中文**：后来，我记住了“endangered”。  
-   **英文**：Later, I remembered "endangered".
-   > **解析**：本题在单元主题情境中复习表达 endangered。
+9. **中文**：转向绿色能源可以显著减少我们的碳足迹。  
+   **英文**：Switching to green energy sources reduces our carbon footprint significantly for habitat.
+   > **解析**：green 在此作形容词，意为“环保的；绿色生态的”。
 
-10. **中文**：这个小故事以“have to be”收尾。  
-   **英文**：The short story ended with "have to be".
-   > **解析**：本题在单元主题情境中复习表达 have to be。
+10. **中文**：全球政府必须立即采取环保行动。  
+   **英文**：Immediate environmental actions must be taken by governments worldwide (have to be).
+   > **解析**：must be + 过去分词，构成被动语态情态表达，意为“必须被……”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "adapt".
-   > **中文**：在这个情境中，我听到了“adapt”。
-2. My partner explained "cause".
-   > **中文**：同伴解释了“cause”。
-3. We talked about "green" together.
-   > **中文**：我们一起谈到了“green”。
-4. I wrote down "must be".
-   > **中文**：我记下了“must be”。
-5. The example included "plant".
-   > **中文**：例句中包含“plant”。
-6. I asked about "steep".
-   > **中文**：我询问了“steep”。
-7. We used "universe" in a sentence.
-   > **中文**：我们在句子中用到了“universe”。
-8. My friend repeated "are being".
-   > **中文**：朋友重复了“are being”。
-9. Later, I remembered "endangered".
-   > **中文**：后来，我记住了“endangered”。
-10. The short story ended with "have to be".
-   > **中文**：这个小故事以“have to be”收尾。
+1. Scientists warning about climate change emphasize the threats of global warming for adapt.
+   > **中文**：警告气候变化的科学家们强调全球变暖的威胁。
+
+2. Efforts are being made to protect endangered species from extinction.
+   > **中文**：人们正在努力保护濒危物种免于灭绝。
+
+3. Deforestation destroys the natural habitat of wild birds and animals (are not being).
+   > **中文**：砍伐森林破坏了野生鸟类和动物的自然栖息地。
+
+4. Factories must not pollute nearby rivers with harmful chemical waste for being.
+   > **中文**：工厂决不能用有害化学废料污染附近的河流。
+
+5. Plastic waste in the ocean poses a serious danger to the sea turtle for cause.
+   > **中文**：海洋中的塑料垃圾对海龟构成了严重危险。
+
+6. Protecting our shared planet requires international cooperation and dedication for endangered.
+   > **中文**：保护我们共享的地球需要国际合作与付出。
+
+7. Excessive industrial emissions are a main cause of air pollution (global warming).
+   > **中文**：过度的工业排放是空气污染的主要原因。
+
+8. Wild animals must adapt to changing temperatures to survive for green.
+   > **中文**：野生动物必须适应不断变化的气温才能生存。
+
+9. Switching to green energy sources reduces our carbon footprint significantly for habitat.
+   > **中文**：转向绿色能源可以显著减少我们的碳足迹。
+
+10. Immediate environmental actions must be taken by governments worldwide (have to be).
+   > **中文**：全球政府必须立即采取环保行动。
 
 </quiz-listening>
 
@@ -126,102 +135,102 @@ adapt, are being, are not being, being, cause, endangered, global warming, green
 
 ### 1
 
-In this situation, I heard "`____`".
+Scientists warning about climate change emphasize the threats of global warming for `____`.
 
 - [x] adapt
-- [ ] must be
-- [ ] universe
+- [ ] being
+- [ ] global warming
 
-> **解析**：本题在单元主题情境中复习表达 adapt。
+> **解析**：global warming 不可数名词短语，意为“全球变暖”。
 
 ### 2
 
-My partner explained "`____`".
+Efforts `____` made to protect endangered species from extinction.
 
-- [x] cause
-- [ ] plant
-- [ ] are being
+- [x] are being
+- [ ] cause
+- [ ] green
 
-> **解析**：本题在单元主题情境中复习表达 cause。
+> **解析**：endangered 形容词，意为“濒危的”，修饰 species、animals 等。
 
 ### 3
 
-We talked about "`____`" together.
+Deforestation destroys the natural habitat of wild birds and animals (`____`).
 
-- [x] green
-- [ ] steep
+- [x] are not being
 - [ ] endangered
+- [ ] habitat
 
-> **解析**：本题在单元主题情境中复习表达 green。
+> **解析**：habitat 可数/不可数名词，意为“（动植物的）栖息地；自然环境”。
 
 ### 4
 
-I wrote down "`____`".
+Factories must not pollute nearby rivers with harmful chemical waste for `____`.
 
-- [x] must be
-- [ ] universe
+- [x] being
+- [ ] global warming
 - [ ] have to be
 
-> **解析**：本题在单元主题情境中复习表达 must be。
+> **解析**：pollute 及物动词，意为“污染”，名词形式为 pollution。
 
 ### 5
 
-The example included "`____`".
+Plastic waste in the ocean poses a serious danger to the sea turtle for `____`.
 
-- [x] plant
-- [ ] are being
+- [x] cause
+- [ ] green
 - [ ] adapt
 
-> **解析**：本题在单元主题情境中复习表达 plant。
+> **解析**：turtle 可数名词，意为“海龟；龟”。
 
 ### 6
 
-I asked about "`____`".
+Protecting our shared planet requires international cooperation and dedication for `____`.
 
-- [x] steep
-- [ ] endangered
-- [ ] cause
+- [x] endangered
+- [ ] habitat
+- [ ] are being
 
-> **解析**：本题在单元主题情境中复习表达 steep。
+> **解析**：planet 可数名词，在此特指“地球”。
 
 ### 7
 
-We used "`____`" in a sentence.
+Excessive industrial emissions are a main cause of air pollution (`____`).
 
-- [x] universe
+- [x] global warming
 - [ ] have to be
-- [ ] green
+- [ ] are not being
 
-> **解析**：本题在单元主题情境中复习表达 universe。
+> **解析**：cause 可数名词，意为“原因；起因”；也可作动词表示“引起”。
 
 ### 8
 
-My friend repeated "`____`".
+Wild animals must adapt to changing temperatures to survive for `____`.
 
-- [x] are being
+- [x] green
 - [ ] adapt
-- [ ] must be
+- [ ] being
 
-> **解析**：本题在单元主题情境中复习表达 are being。
+> **解析**：adapt 不及物/及物动词，意为“适应”，常用 adapt to something。
 
 ### 9
 
-Later, I remembered "`____`".
+Switching to green energy sources reduces our carbon footprint significantly for `____`.
 
-- [x] endangered
+- [x] habitat
+- [ ] are being
 - [ ] cause
-- [ ] plant
 
-> **解析**：本题在单元主题情境中复习表达 endangered。
+> **解析**：green 在此作形容词，意为“环保的；绿色生态的”。
 
 ### 10
 
-The short story ended with "`____`".
+Immediate environmental actions must be taken by governments worldwide (`____`).
 
 - [x] have to be
-- [ ] green
-- [ ] steep
+- [ ] are not being
+- [ ] endangered
 
-> **解析**：本题在单元主题情境中复习表达 have to be。
+> **解析**：must be + 过去分词，构成被动语态情态表达，意为“必须被……”。
 
 </quiz-cloze>

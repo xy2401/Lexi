@@ -61,70 +61,79 @@ ache, act, as if, as though, bite, bruise, cautious, have, honey, itch, pass out
 
 <quiz-sentence-builder>
 
-1. **中文**：在诊所里，我听到了“ache”。  
-   **英文**：At the clinic, I heard "ache".
-   > **解析**：本题在单元主题情境中复习表达 ache。
+1. **中文**：背部持续的肌肉酸痛可以通过热敷来缓解。  
+   **英文**：Constant muscle ache in your back can be relieved by applying a warm compress.
+   > **解析**：`ache` 动词/可数名词，意为“酸痛；疼痛”。常用短语 `muscle ache`（肌肉酸痛）/ `headache`（头痛）。
 
-2. **中文**：医生解释了“bite”。  
-   **英文**：The doctor explained "bite".
-   > **解析**：本题在单元主题情境中复习表达 bite。
+2. **中文**：在蚊子叮咬处涂抹防腐止痒膏以消红肿。  
+   **英文**：Apply an antiseptic cream to the mosquito bite to stop the red swelling for act.
+   > **解析**：`bite` 可数名词，在此处意为“叮咬伤痕；咬伤”。`mosquito bite`（蚊虫叮咬伤）。
 
-3. **中文**：我们认真谈到了“have”。  
-   **英文**：We talked about "have" carefully.
-   > **解析**：本题在单元主题情境中复习表达 have。
+3. **中文**：如果你发高烧和咽喉痛，你应该留在家中。  
+   **英文**：You should stay home if you have a high fever and a sore throat (as if).
+   > **解析**：`have` 动词，在医疗症状描述中与疾病名词搭配（如 `have a fever / cold / headache`）。
 
-4. **中文**：我把“recovery”写进健康笔记。  
-   **英文**：I wrote "recovery" in my health notes.
-   > **解析**：本题在单元主题情境中复习表达 recovery。
+4. **中文**：充分的休息和有营养的膳食对于迅速医疗康复至关重要。  
+   **英文**：Adequate rest and nutritious meals are essential for a speedy medical recovery (as though).
+   > **解析**：`recovery` 可数/不可数名词，意为“康复；痊愈”，由动词 `recover` 派生而来。
 
-5. **中文**：护士重复了“sweat”。  
-   **英文**：The nurse repeated "sweat".
-   > **解析**：本题在单元主题情境中复习表达 sweat。
+5. **中文**：发高烧经常导致患者在夜间剧烈流汗。  
+   **英文**：A high fever often causes patients to sweat heavily during the night for bite.
+   > **解析**：`sweat` 不及物动词/名词，意为“出汗；汗水”。
 
-6. **中文**：朋友询问了“vision”。  
-   **英文**：My friend asked about "vision".
-   > **解析**：本题在单元主题情境中复习表达 vision。
+6. **中文**：突然的视力模糊需要眼科专家立即进行检查。  
+   **英文**：Sudden blurry vision requires immediate examination by an eye specialist for bruise.
+   > **解析**：`vision` 不可数名词，在此处意为“视力；视觉”。短语 `blurry vision`（视力模糊）。
 
-7. **中文**：建议中包含“wear off”。  
-   **英文**：The advice included "wear off".
-   > **解析**：本题在单元主题情境中复习表达 wear off。
+7. **中文**：局部麻醉药会在两到三小时后开始失效/消退。  
+   **英文**：The local anesthetic will begin to wear off after two or three hours for cautious.
+   > **解析**：`wear off` 不及物动词短语，意为“（药效、感觉等）逐渐消退；失效”。
 
-8. **中文**：就诊后，我记住了“act”。  
-   **英文**：After the visit, I remembered "act".
-   > **解析**：本题在单元主题情境中复习表达 act。
+8. **中文**：如果有人展现出严重过敏反应的迹象，你必须迅速采取行动。  
+   **英文**：You must act quickly if someone shows signs of a severe allergic reaction for have.
+   > **解析**：`act` 不及物动词，意为“采取行动；做行动”。
 
-9. **中文**：我们在对话中用到了“bruise”。  
-   **英文**：We used "bruise" in the conversation.
-   > **解析**：本题在单元主题情境中复习表达 bruise。
+9. **中文**：从自行车上摔下来后，他的膝盖上出现了一个深蓝色的淤青。  
+   **英文**：He developed a dark blue bruise on his knee after falling off the bicycle for honey.
+   > **解析**：`bruise` 可数名词，意为“淤青；伤痕”。
 
-10. **中文**：那次健康交流以“itch”收尾。  
-   **英文**：That health talk ended with "itch".
-   > **解析**：本题在单元主题情境中复习表达 itch。
+10. **中文**：这款舒缓乳液将有助于缓解你手臂上皮肤干燥引起的发痒。  
+   **英文**：This soothing lotion will help relieve the dry skin itch on your arms.
+   > **解析**：`itch` 动词/名词，意为“发痒；痒感”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the clinic, I heard "ache".
-   > **中文**：在诊所里，我听到了“ache”。
-2. The doctor explained "bite".
-   > **中文**：医生解释了“bite”。
-3. We talked about "have" carefully.
-   > **中文**：我们认真谈到了“have”。
-4. I wrote "recovery" in my health notes.
-   > **中文**：我把“recovery”写进健康笔记。
-5. The nurse repeated "sweat".
-   > **中文**：护士重复了“sweat”。
-6. My friend asked about "vision".
-   > **中文**：朋友询问了“vision”。
-7. The advice included "wear off".
-   > **中文**：建议中包含“wear off”。
-8. After the visit, I remembered "act".
-   > **中文**：就诊后，我记住了“act”。
-9. We used "bruise" in the conversation.
-   > **中文**：我们在对话中用到了“bruise”。
-10. That health talk ended with "itch".
-   > **中文**：那次健康交流以“itch”收尾。
+1. Constant muscle ache in your back can be relieved by applying a warm compress.
+   > **中文**：背部持续的肌肉酸痛可以通过热敷来缓解。
+
+2. Apply an antiseptic cream to the mosquito bite to stop the red swelling for act.
+   > **中文**：在蚊子叮咬处涂抹防腐止痒膏以消红肿。
+
+3. You should stay home if you have a high fever and a sore throat (as if).
+   > **中文**：如果你发高烧和咽喉痛，你应该留在家中。
+
+4. Adequate rest and nutritious meals are essential for a speedy medical recovery (as though).
+   > **中文**：充分的休息和有营养的膳食对于迅速医疗康复至关重要。
+
+5. A high fever often causes patients to sweat heavily during the night for bite.
+   > **中文**：发高烧经常导致患者在夜间剧烈流汗。
+
+6. Sudden blurry vision requires immediate examination by an eye specialist for bruise.
+   > **中文**：突然的视力模糊需要眼科专家立即进行检查。
+
+7. The local anesthetic will begin to wear off after two or three hours for cautious.
+   > **中文**：局部麻醉药会在两到三小时后开始失效/消退。
+
+8. You must act quickly if someone shows signs of a severe allergic reaction for have.
+   > **中文**：如果有人展现出严重过敏反应的迹象，你必须迅速采取行动。
+
+9. He developed a dark blue bruise on his knee after falling off the bicycle for honey.
+   > **中文**：从自行车上摔下来后，他的膝盖上出现了一个深蓝色的淤青。
+
+10. This soothing lotion will help relieve the dry skin itch on your arms.
+   > **中文**：这款舒缓乳液将有助于缓解你手臂上皮肤干燥引起的发痒。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ ache, act, as if, as though, bite, bruise, cautious, have, honey, itch, pass out
 
 ### 1
 
-At the clinic, I heard "`____`".
+Constant muscle `____` in your back can be relieved by applying a warm compress.
 
 - [x] ache
-- [ ] recovery
-- [ ] wear off
+- [ ] as though
+- [ ] cautious
 
-> **解析**：本题在单元主题情境中复习表达 ache。
+> **解析**：`ache` 动词/可数名词，意为“酸痛；疼痛”。常用短语 `muscle ache`（肌肉酸痛）/ `headache`（头痛）。
 
 ### 2
 
-The doctor explained "`____`".
+Apply an antiseptic cream to the mosquito bite to stop the red swelling for `____`.
 
-- [x] bite
-- [ ] sweat
-- [ ] act
+- [x] act
+- [ ] bite
+- [ ] have
 
-> **解析**：本题在单元主题情境中复习表达 bite。
+> **解析**：`bite` 可数名词，在此处意为“叮咬伤痕；咬伤”。`mosquito bite`（蚊虫叮咬伤）。
 
 ### 3
 
-We talked about "`____`" carefully.
+You should stay home if you have a high fever and a sore throat (`____`).
 
-- [x] have
-- [ ] vision
+- [x] as if
 - [ ] bruise
+- [ ] honey
 
-> **解析**：本题在单元主题情境中复习表达 have。
+> **解析**：`have` 动词，在医疗症状描述中与疾病名词搭配（如 `have a fever / cold / headache`）。
 
 ### 4
 
-I wrote "`____`" in my health notes.
+Adequate rest and nutritious meals are essential for a speedy medical recovery (`____`).
 
-- [x] recovery
-- [ ] wear off
+- [x] as though
+- [ ] cautious
 - [ ] itch
 
-> **解析**：本题在单元主题情境中复习表达 recovery。
+> **解析**：`recovery` 可数/不可数名词，意为“康复；痊愈”，由动词 `recover` 派生而来。
 
 ### 5
 
-The nurse repeated "`____`".
+A high fever often causes patients to sweat heavily during the night for `____`.
 
-- [x] sweat
-- [ ] act
+- [x] bite
+- [ ] have
 - [ ] ache
 
-> **解析**：本题在单元主题情境中复习表达 sweat。
+> **解析**：`sweat` 不及物动词/名词，意为“出汗；汗水”。
 
 ### 6
 
-My friend asked about "`____`".
+Sudden blurry vision requires immediate examination by an eye specialist for `____`.
 
-- [x] vision
-- [ ] bruise
-- [ ] bite
+- [x] bruise
+- [ ] honey
+- [ ] act
 
-> **解析**：本题在单元主题情境中复习表达 vision。
+> **解析**：`vision` 不可数名词，在此处意为“视力；视觉”。短语 `blurry vision`（视力模糊）。
 
 ### 7
 
-The advice included "`____`".
+The local anesthetic will begin to wear off after two or three hours for `____`.
 
-- [x] wear off
+- [x] cautious
 - [ ] itch
-- [ ] have
+- [ ] as if
 
-> **解析**：本题在单元主题情境中复习表达 wear off。
+> **解析**：`wear off` 不及物动词短语，意为“（药效、感觉等）逐渐消退；失效”。
 
 ### 8
 
-After the visit, I remembered "`____`".
+You must act quickly if someone shows signs of a severe allergic reaction for `____`.
 
-- [x] act
+- [x] have
 - [ ] ache
-- [ ] recovery
+- [ ] as though
 
-> **解析**：本题在单元主题情境中复习表达 act。
+> **解析**：`act` 不及物动词，意为“采取行动；做行动”。
 
 ### 9
 
-We used "`____`" in the conversation.
+He developed a dark blue bruise on his knee after falling off the bicycle for `____`.
 
-- [x] bruise
+- [x] honey
+- [ ] act
 - [ ] bite
-- [ ] sweat
 
-> **解析**：本题在单元主题情境中复习表达 bruise。
+> **解析**：`bruise` 可数名词，意为“淤青；伤痕”。
 
 ### 10
 
-That health talk ended with "`____`".
+This soothing lotion will help relieve the dry skin `____` on your arms.
 
 - [x] itch
-- [ ] have
-- [ ] vision
+- [ ] as if
+- [ ] bruise
 
-> **解析**：本题在单元主题情境中复习表达 itch。
+> **解析**：`itch` 动词/名词，意为“发痒；痒感”。
 
 </quiz-cloze>

@@ -55,70 +55,79 @@ blow away / blown 涉及风的描写——The wind blown across the flat land. H
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“blow away”。  
-   **英文**：In this situation, I heard "blow away".
-   > **解析**：本题在单元主题情境中复习表达 blow away。
+1. **中文**：我叔叔在蒙大拿州经营着一个拥有辽阔绿色草场的养牛农场。  
+   **英文**：My uncle runs a cattle ranch with vast green fields in Montana (blow away).
+   > **解析**：ranch 可数名词，意为“（大）农场；牧场”，特指养殖牛羊等牲畜的场所。
 
-2. **中文**：同伴解释了“calves”。  
-   **英文**：My partner explained "calves".
-   > **解析**：本题在单元主题情境中复习表达 calves。
+2. **中文**：牛仔在安静的河岸附近放牧着一群牛。  
+   **英文**：The cowboy grazed a herd of cattle near the quiet riverbank for blown.
+   > **解析**：cattle 集合名词，复数概念，意为“牛；牲畜”，谓语动词用复数。
 
-3. **中文**：我们一起谈到了“donkey”。  
-   **英文**：We talked about "donkey" together.
-   > **解析**：本题在单元主题情境中复习表达 donkey。
+3. **中文**：小牛羔紧紧依偎在木制牛棚里的妈妈身边。  
+   **英文**：The young calf stayed close to its mother in the wooden barn for bull.
+   > **解析**：calf 可数名词，意为“小牛；幼犊”，复数形式为 calves。
 
-4. **中文**：我记下了“goat”。  
-   **英文**：I wrote down "goat".
-   > **解析**：本题在单元主题情境中复习表达 goat。
+4. **中文**：那只友善的驴子驮着沉重的粮袋上了小山丘。  
+   **英文**：The friendly donkey carried heavy sacks of grain up the small hill for calf.
+   > **解析**：donkey 可数名词，意为“驴”，复数形式直接加 -s 为 donkeys。
 
-5. **中文**：例句中包含“light”。  
-   **英文**：The example included "light".
-   > **解析**：本题在单元主题情境中复习表达 light。
+5. **中文**：我们看见一只小山羊正在牧场的岩石斜坡上攀爬。  
+   **英文**：We saw a small goat climbing the rocky slope on the ranch for calves.
+   > **解析**：goat 可数名词，意为“山羊”。
 
-6. **中文**：我询问了“on top of”。  
-   **英文**：I asked about "on top of".
-   > **解析**：本题在单元主题情境中复习表达 on top of。
+6. **中文**：参观农场的游客可以在下午体验有导游带领的骑马活动。  
+   **英文**：Tourists visiting the ranch can enjoy guided horseback riding in the afternoon for cattle.
+   > **解析**：horseback riding 不可数名词短语，意为“骑马活动”。
 
-7. **中文**：我们在句子中用到了“shore”。  
-   **英文**：We used "shore" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 shore。
+7. **中文**：住在宁静的乡村带给人一种新鲜的平静感。  
+   **英文**：Living in the quiet countryside brings a fresh sense of peace.
+   > **解析**：countryside 不可数名词，意为“乡村；郊外”，通常与定冠词 the 连用。
 
-8. **中文**：朋友重复了“blown”。  
-   **英文**：My friend repeated "blown".
-   > **解析**：本题在单元主题情境中复习表达 blown。
+8. **中文**：日出时开阔的农场风景看起来令人叹为观止。  
+   **英文**：The open ranch landscape looks breathtaking at sunrise for donkey.
+   > **解析**：landscape 可数/不可数名词，意为“风景；景色；地貌”。
 
-9. **中文**：后来，我记住了“cattle”。  
-   **英文**：Later, I remembered "cattle".
-   > **解析**：本题在单元主题情境中复习表达 cattle。
+9. **中文**：农场的土地大部分平坦，很方便马匹奔跑。  
+   **英文**：The ranch land is mostly flat, making it easy for horses to run for eastern.
+   > **解析**：flat 形容词，在此意为“平坦的；平的”。
 
-10. **中文**：这个小故事以“feed”收尾。  
-   **英文**：The short story ended with "feed".
-   > **解析**：本题在单元主题情境中复习表达 feed。
+10. **中文**：农场动物在大橡树的树荫下休息。  
+   **英文**：The farm animals rested under the shade of the big oak tree for feed.
+   > **解析**：shade 不可数名词，意为“阴凉处；树荫”，介词常用 under（under the shade）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "blow away".
-   > **中文**：在这个情境中，我听到了“blow away”。
-2. My partner explained "calves".
-   > **中文**：同伴解释了“calves”。
-3. We talked about "donkey" together.
-   > **中文**：我们一起谈到了“donkey”。
-4. I wrote down "goat".
-   > **中文**：我记下了“goat”。
-5. The example included "light".
-   > **中文**：例句中包含“light”。
-6. I asked about "on top of".
-   > **中文**：我询问了“on top of”。
-7. We used "shore" in a sentence.
-   > **中文**：我们在句子中用到了“shore”。
-8. My friend repeated "blown".
-   > **中文**：朋友重复了“blown”。
-9. Later, I remembered "cattle".
-   > **中文**：后来，我记住了“cattle”。
-10. The short story ended with "feed".
-   > **中文**：这个小故事以“feed”收尾。
+1. My uncle runs a cattle ranch with vast green fields in Montana (blow away).
+   > **中文**：我叔叔在蒙大拿州经营着一个拥有辽阔绿色草场的养牛农场。
+
+2. The cowboy grazed a herd of cattle near the quiet riverbank for blown.
+   > **中文**：牛仔在安静的河岸附近放牧着一群牛。
+
+3. The young calf stayed close to its mother in the wooden barn for bull.
+   > **中文**：小牛羔紧紧依偎在木制牛棚里的妈妈身边。
+
+4. The friendly donkey carried heavy sacks of grain up the small hill for calf.
+   > **中文**：那只友善的驴子驮着沉重的粮袋上了小山丘。
+
+5. We saw a small goat climbing the rocky slope on the ranch for calves.
+   > **中文**：我们看见一只小山羊正在牧场的岩石斜坡上攀爬。
+
+6. Tourists visiting the ranch can enjoy guided horseback riding in the afternoon for cattle.
+   > **中文**：参观农场的游客可以在下午体验有导游带领的骑马活动。
+
+7. Living in the quiet countryside brings a fresh sense of peace.
+   > **中文**：住在宁静的乡村带给人一种新鲜的平静感。
+
+8. The open ranch landscape looks breathtaking at sunrise for donkey.
+   > **中文**：日出时开阔的农场风景看起来令人叹为观止。
+
+9. The ranch land is mostly flat, making it easy for horses to run for eastern.
+   > **中文**：农场的土地大部分平坦，很方便马匹奔跑。
+
+10. The farm animals rested under the shade of the big oak tree for feed.
+   > **中文**：农场动物在大橡树的树荫下休息。
 
 </quiz-listening>
 
@@ -130,102 +139,102 @@ blow away / blown 涉及风的描写——The wind blown across the flat land. H
 
 ### 1
 
-In this situation, I heard "`____`".
+My uncle runs a cattle ranch with vast green fields in Montana (`____`).
 
 - [x] blow away
-- [ ] goat
-- [ ] shore
+- [ ] calf
+- [ ] countryside
 
-> **解析**：本题在单元主题情境中复习表达 blow away。
+> **解析**：ranch 可数名词，意为“（大）农场；牧场”，特指养殖牛羊等牲畜的场所。
 
 ### 2
 
-My partner explained "`____`".
+The cowboy grazed a herd of cattle near the quiet riverbank for `____`.
 
-- [x] calves
-- [ ] light
-- [ ] blown
+- [x] blown
+- [ ] calves
+- [ ] donkey
 
-> **解析**：本题在单元主题情境中复习表达 calves。
+> **解析**：cattle 集合名词，复数概念，意为“牛；牲畜”，谓语动词用复数。
 
 ### 3
 
-We talked about "`____`" together.
+The young calf stayed close to its mother in the wooden barn for `____`.
 
-- [x] donkey
-- [ ] on top of
+- [x] bull
 - [ ] cattle
+- [ ] eastern
 
-> **解析**：本题在单元主题情境中复习表达 donkey。
+> **解析**：calf 可数名词，意为“小牛；幼犊”，复数形式为 calves。
 
 ### 4
 
-I wrote down "`____`".
+The friendly donkey carried heavy sacks of grain up the small hill for `____`.
 
-- [x] goat
-- [ ] shore
+- [x] calf
+- [ ] countryside
 - [ ] feed
 
-> **解析**：本题在单元主题情境中复习表达 goat。
+> **解析**：donkey 可数名词，意为“驴”，复数形式直接加 -s 为 donkeys。
 
 ### 5
 
-The example included "`____`".
+We saw a small goat climbing the rocky slope on the ranch for `____`.
 
-- [x] light
-- [ ] blown
+- [x] calves
+- [ ] donkey
 - [ ] blow away
 
-> **解析**：本题在单元主题情境中复习表达 light。
+> **解析**：goat 可数名词，意为“山羊”。
 
 ### 6
 
-I asked about "`____`".
+Tourists visiting the ranch can enjoy guided horseback riding in the afternoon for `____`.
 
-- [x] on top of
-- [ ] cattle
-- [ ] calves
+- [x] cattle
+- [ ] eastern
+- [ ] blown
 
-> **解析**：本题在单元主题情境中复习表达 on top of。
+> **解析**：horseback riding 不可数名词短语，意为“骑马活动”。
 
 ### 7
 
-We used "`____`" in a sentence.
+Living in the quiet `____` brings a fresh sense of peace.
 
-- [x] shore
+- [x] countryside
 - [ ] feed
-- [ ] donkey
+- [ ] bull
 
-> **解析**：本题在单元主题情境中复习表达 shore。
+> **解析**：countryside 不可数名词，意为“乡村；郊外”，通常与定冠词 the 连用。
 
 ### 8
 
-My friend repeated "`____`".
+The open ranch landscape looks breathtaking at sunrise for `____`.
 
-- [x] blown
+- [x] donkey
 - [ ] blow away
-- [ ] goat
+- [ ] calf
 
-> **解析**：本题在单元主题情境中复习表达 blown。
+> **解析**：landscape 可数/不可数名词，意为“风景；景色；地貌”。
 
 ### 9
 
-Later, I remembered "`____`".
+The ranch land is mostly flat, making it easy for horses to run for `____`.
 
-- [x] cattle
+- [x] eastern
+- [ ] blown
 - [ ] calves
-- [ ] light
 
-> **解析**：本题在单元主题情境中复习表达 cattle。
+> **解析**：flat 形容词，在此意为“平坦的；平的”。
 
 ### 10
 
-The short story ended with "`____`".
+The farm animals rested under the shade of the big oak tree for `____`.
 
 - [x] feed
-- [ ] donkey
-- [ ] on top of
+- [ ] bull
+- [ ] cattle
 
-> **解析**：本题在单元主题情境中复习表达 feed。
+> **解析**：shade 不可数名词，意为“阴凉处；树荫”，介词常用 under（under the shade）。
 
 </quiz-cloze>

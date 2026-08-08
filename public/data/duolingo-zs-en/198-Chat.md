@@ -53,70 +53,79 @@ any, anyway, as much as, at the moment, cab, change the subject, either, even, f
 
 <quiz-sentence-builder>
 
-1. **中文**：聚会上，我听到了“any”。  
-   **英文**：At the gathering, I heard "any".
-   > **解析**：本题在单元主题情境中复习表达 any。
+1. **中文**：当话题变得尴尬时，她礼貌地决定改变话题。  
+   **英文**：When the topic became uncomfortable, she politely decided to change the subject for any.
+   > **解析**：change the subject 动词短语，意为“改变话题；转换话题”。
 
-2. **中文**：朋友说了“at the moment”。  
-   **英文**：My friend said "at the moment".
-   > **解析**：本题在单元主题情境中复习表达 at the moment。
+2. **中文**：我的老朋友开始坚持要为我们合吃的晚餐买单。  
+   **英文**：My old friend began to insist on paying for our shared dinner for anyway.
+   > **解析**：insist 不及物动词，意为“坚持；坚决要求”，常与介词 on 连用（insist on doing）。
 
-3. **中文**：我们一起谈到了“even”。  
-   **英文**：We talked about "even" together.
-   > **解析**：本题在单元主题情境中复习表达 even。
+3. **中文**：在不得不向同学们道别之前，我们给彼此送上了拥抱。  
+   **英文**：We gave each other big hugs before we had to say goodbye to our classmates (as much as).
+   > **解析**：say goodbye to 动词短语，意为“向……告别/道别”。
 
-4. **中文**：有人向我解释了“hasn't”。  
-   **英文**：Someone explained "hasn't" to me.
-   > **解析**：本题在单元主题情境中复习表达 hasn't。
+4. **中文**：看着家庭老照片总会让我想念我童年的家。  
+   **英文**：Looking at old family photos always makes me miss my childhood home (at the moment).
+   > **解析**：miss 及物动词，在此意为“想念；怀念”；也可指“错过”。
 
-5. **中文**：我用“i insist”作了回应。  
-   **英文**：I replied with "i insist".
-   > **解析**：本题在单元主题情境中复习表达 i insist。
+5. **中文**：聊天聊到半夜后，我们打了一辆出租车回家。  
+   **英文**：After chatting until midnight, we called a taxi cab to get back home.
+   > **解析**：cab 可数名词，意为“出租车”，与 taxi 同义。
 
-6. **中文**：对话中包含“say goodbye to”。  
-   **英文**：The conversation included "say goodbye to".
-   > **解析**：本题在单元主题情境中复习表达 say goodbye to。
+6. **中文**：下起了大雨，但我们无论如何还是决定见个面。  
+   **英文**：It started to rain heavily, but we decided to meet up anyway (change the subject).
+   > **解析**：anyway 副词，意为“无论如何；总之”，常用于句末表示折回主题或坚持决定。
 
-7. **中文**：同伴重复了“watch out for”。  
-   **英文**：My partner repeated "watch out for".
-   > **解析**：本题在单元主题情境中复习表达 watch out for。
+7. **中文**：他们因为选哪部电影小吵了一架，但很快就和好了。  
+   **英文**：They had a minor fight about the movie choice, but soon made up for either.
+   > **解析**：fight 可数名词，在此意为“争吵；争论”；也可作动词。
 
-8. **中文**：我们聊到“anyway”时笑了。  
-   **英文**：We laughed about "anyway".
-   > **解析**：本题在单元主题情境中复习表达 anyway。
+8. **中文**：在老社区附近行走时，要当心湿滑的落叶。  
+   **英文**：When walking near the old neighborhood, watch out for slippery wet leaves for even.
+   > **解析**：watch out for 常用动词短语，意为“当心；注意”。
 
-9. **中文**：离开前，我记住了“change the subject”。  
-   **英文**：Before leaving, I remembered "change the subject".
-   > **解析**：本题在单元主题情境中复习表达 change the subject。
+9. **中文**：与朋友叙旧时，我听到前门传来突如其来的敲门声。  
+   **英文**：I heard a sudden knock at the front door while reminiscing with friends for fight.
+   > **解析**：knock 可数名词/动词，在此作名词意为“敲击声；敲门”。
 
-10. **中文**：那段对话以“fight”收尾。  
-   **英文**：That conversation ended with "fight".
-   > **解析**：本题在单元主题情境中复习表达 fight。
+10. **中文**：她此刻抽不出空说话，但她会给你回电话的。  
+   **英文**：She is not available to talk at the moment, but she will call you back for hand.
+   > **解析**：at the moment 介词短语，意为“此刻；目前”，相当于 right now。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the gathering, I heard "any".
-   > **中文**：聚会上，我听到了“any”。
-2. My friend said "at the moment".
-   > **中文**：朋友说了“at the moment”。
-3. We talked about "even" together.
-   > **中文**：我们一起谈到了“even”。
-4. Someone explained "hasn't" to me.
-   > **中文**：有人向我解释了“hasn't”。
-5. I replied with "i insist".
-   > **中文**：我用“i insist”作了回应。
-6. The conversation included "say goodbye to".
-   > **中文**：对话中包含“say goodbye to”。
-7. My partner repeated "watch out for".
-   > **中文**：同伴重复了“watch out for”。
-8. We laughed about "anyway".
-   > **中文**：我们聊到“anyway”时笑了。
-9. Before leaving, I remembered "change the subject".
-   > **中文**：离开前，我记住了“change the subject”。
-10. That conversation ended with "fight".
-   > **中文**：那段对话以“fight”收尾。
+1. When the topic became uncomfortable, she politely decided to change the subject for any.
+   > **中文**：当话题变得尴尬时，她礼貌地决定改变话题。
+
+2. My old friend began to insist on paying for our shared dinner for anyway.
+   > **中文**：我的老朋友开始坚持要为我们合吃的晚餐买单。
+
+3. We gave each other big hugs before we had to say goodbye to our classmates (as much as).
+   > **中文**：在不得不向同学们道别之前，我们给彼此送上了拥抱。
+
+4. Looking at old family photos always makes me miss my childhood home (at the moment).
+   > **中文**：看着家庭老照片总会让我想念我童年的家。
+
+5. After chatting until midnight, we called a taxi cab to get back home.
+   > **中文**：聊天聊到半夜后，我们打了一辆出租车回家。
+
+6. It started to rain heavily, but we decided to meet up anyway (change the subject).
+   > **中文**：下起了大雨，但我们无论如何还是决定见个面。
+
+7. They had a minor fight about the movie choice, but soon made up for either.
+   > **中文**：他们因为选哪部电影小吵了一架，但很快就和好了。
+
+8. When walking near the old neighborhood, watch out for slippery wet leaves for even.
+   > **中文**：在老社区附近行走时，要当心湿滑的落叶。
+
+9. I heard a sudden knock at the front door while reminiscing with friends for fight.
+   > **中文**：与朋友叙旧时，我听到前门传来突如其来的敲门声。
+
+10. She is not available to talk at the moment, but she will call you back for hand.
+   > **中文**：她此刻抽不出空说话，但她会给你回电话的。
 
 </quiz-listening>
 
@@ -128,102 +137,102 @@ any, anyway, as much as, at the moment, cab, change the subject, either, even, f
 
 ### 1
 
-At the gathering, I heard "`____`".
+When the topic became uncomfortable, she politely decided to change the subject for `____`.
 
 - [x] any
-- [ ] hasn't
-- [ ] watch out for
+- [ ] at the moment
+- [ ] either
 
-> **解析**：本题在单元主题情境中复习表达 any。
+> **解析**：change the subject 动词短语，意为“改变话题；转换话题”。
 
 ### 2
 
-My friend said "`____`".
+My old friend began to insist on paying for our shared dinner for `____`.
 
-- [x] at the moment
-- [ ] i insist
-- [ ] anyway
+- [x] anyway
+- [ ] cab
+- [ ] even
 
-> **解析**：本题在单元主题情境中复习表达 at the moment。
+> **解析**：insist 不及物动词，意为“坚持；坚决要求”，常与介词 on 连用（insist on doing）。
 
 ### 3
 
-We talked about "`____`" together.
+We gave each other big hugs before we had to say goodbye to our classmates (`____`).
 
-- [x] even
-- [ ] say goodbye to
+- [x] as much as
 - [ ] change the subject
+- [ ] fight
 
-> **解析**：本题在单元主题情境中复习表达 even。
+> **解析**：say goodbye to 动词短语，意为“向……告别/道别”。
 
 ### 4
 
-Someone explained "`____`" to me.
+Looking at old family photos always makes me miss my childhood home (`____`).
 
-- [x] hasn't
-- [ ] watch out for
-- [ ] fight
+- [x] at the moment
+- [ ] either
+- [ ] hand
 
-> **解析**：本题在单元主题情境中复习表达 hasn't。
+> **解析**：miss 及物动词，在此意为“想念；怀念”；也可指“错过”。
 
 ### 5
 
-I replied with "`____`".
+After chatting until midnight, we called a taxi `____` to get back home.
 
-- [x] i insist
-- [ ] anyway
+- [x] cab
+- [ ] even
 - [ ] any
 
-> **解析**：本题在单元主题情境中复习表达 i insist。
+> **解析**：cab 可数名词，意为“出租车”，与 taxi 同义。
 
 ### 6
 
-The conversation included "`____`".
+It started to rain heavily, but we decided to meet up anyway (`____`).
 
-- [x] say goodbye to
-- [ ] change the subject
-- [ ] at the moment
+- [x] change the subject
+- [ ] fight
+- [ ] anyway
 
-> **解析**：本题在单元主题情境中复习表达 say goodbye to。
+> **解析**：anyway 副词，意为“无论如何；总之”，常用于句末表示折回主题或坚持决定。
 
 ### 7
 
-My partner repeated "`____`".
+They had a minor fight about the movie choice, but soon made up for `____`.
 
-- [x] watch out for
-- [ ] fight
-- [ ] even
+- [x] either
+- [ ] hand
+- [ ] as much as
 
-> **解析**：本题在单元主题情境中复习表达 watch out for。
+> **解析**：fight 可数名词，在此意为“争吵；争论”；也可作动词。
 
 ### 8
 
-We laughed about "`____`".
+When walking near the old neighborhood, watch out for slippery wet leaves for `____`.
 
-- [x] anyway
+- [x] even
 - [ ] any
-- [ ] hasn't
+- [ ] at the moment
 
-> **解析**：本题在单元主题情境中复习表达 anyway。
+> **解析**：watch out for 常用动词短语，意为“当心；注意”。
 
 ### 9
 
-Before leaving, I remembered "`____`".
+I heard a sudden knock at the front door while reminiscing with friends for `____`.
 
-- [x] change the subject
-- [ ] at the moment
-- [ ] i insist
+- [x] fight
+- [ ] anyway
+- [ ] cab
 
-> **解析**：本题在单元主题情境中复习表达 change the subject。
+> **解析**：knock 可数名词/动词，在此作名词意为“敲击声；敲门”。
 
 ### 10
 
-That conversation ended with "`____`".
+She is not available to talk at the moment, but she will call you back for `____`.
 
-- [x] fight
-- [ ] even
-- [ ] say goodbye to
+- [x] hand
+- [ ] as much as
+- [ ] change the subject
 
-> **解析**：本题在单元主题情境中复习表达 fight。
+> **解析**：at the moment 介词短语，意为“此刻；目前”，相当于 right now。
 
 </quiz-cloze>

@@ -79,70 +79,79 @@ not only... but also... / neither... nor... / both... and... 是三组并列连�
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“artificial”。  
-   **英文**：At work, we discussed "artificial".
-   > **解析**：本题在单元主题情境中复习表达 artificial。
+1. **中文**：每天早上喝这种新鲜果汁会提升你一天的活力水平。  
+   **英文**：Drinking this fresh juice every morning will boost your daily energy level for artificial.
+   > **解析**：`boost` 作及物动词，意为“提升、增加、促进”，宾语为 `energy level`。
 
-2. **中文**：同事提到了“confidence”。  
-   **英文**：My coworker mentioned "confidence".
-   > **解析**：本题在单元主题情境中复习表达 confidence。
+2. **中文**：这款新的健身应用程序帮助忙碌的职场人士在家轻松塑造好身材。  
+   **英文**：This new fitness app helps busy professionals get in shape easily at home for biggest.
+   > **解析**：`get in shape` 是固定短语，意为“保持强健体魄、塑造好身材”。
 
-3. **中文**：会议中，我听到了“functional”。  
-   **英文**：In the meeting, I heard "functional".
-   > **解析**：本题在单元主题情境中复习表达 functional。
+3. **中文**：使用这款天然护肤品让她在公众场合更有自信。  
+   **英文**：Using this natural skincare product gave her more confidence in public for boost.
+   > **解析**：`confidence` 是不可数名词，意为“自信心”，与动词 `give` 搭配。
 
-4. **中文**：我把“magic”写进了笔记。  
-   **英文**：I added "magic" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 magic。
+4. **中文**：您今天可以在线购买这款多功能搅拌机，享受八折优惠。  
+   **英文**：You can purchase this multi-functional blender online with a 20% discount today for both.
+   > **解析**：`purchase` 是动词，意为“购买”，比 `buy` 更正规商业化。
 
-5. **中文**：经理解释了“not only”。  
-   **英文**：The manager explained "not only".
-   > **解析**：本题在单元主题情境中复习表达 not only。
+5. **中文**：这款吸尘器不仅吸力强劲，而且极其安静。  
+   **英文**：Not only is this vacuum cleaner powerful, but it is also extremely quiet for confidence.
+   > **解析**：`Not only is...` 句首倒装结构：当 `Not only` 置于句首时，主句系动词倒装。
 
-6. **中文**：团队今天用到了“otherwise”。  
-   **英文**：Our team used "otherwise" today.
-   > **解析**：本题在单元主题情境中复习表达 otherwise。
+6. **中文**：这款有机零食不含任何人工风味或防腐剂。  
+   **英文**：This organic snack contains no artificial flavors or preservatives for did.
+   > **解析**：`artificial` 是形容词，意为“人工的、人造的”，修饰名词 `flavors`。
 
-7. **中文**：午饭前，我们查看了“thermometer”。  
-   **英文**：Before lunch, we checked "thermometer".
-   > **解析**：本题在单元主题情境中复习表达 thermometer。
+7. **中文**：您现在就应该下单；否则，折扣优惠很快就会到期。  
+   **英文**：You should order now; otherwise, the discount offer will expire soon for energy.
+   > **解析**：`otherwise` 是副词/连词，意为“否则、要不然”，引导后果。
 
-8. **中文**：同事询问了“biggest”。  
-   **英文**：My colleague asked about "biggest".
-   > **解析**：本题在单元主题情境中复习表达 biggest。
+8. **中文**：这款家具的设计既时尚又高度实用。  
+   **英文**：The design of this furniture is both stylish and highly functional for fortune.
+   > **解析**：`functional` 是形容词，意为“实用的、功能性的”，在系动词后作表语。
 
-9. **中文**：报告中包含“did”。  
-   **英文**：The report included "did".
-   > **解析**：本题在单元主题情境中复习表达 did。
+9. **中文**：我们的产品既不使用误导性承诺，也不使用劣质材料。  
+   **英文**：Neither misleading promises nor low-quality materials are used in our products for functional.
+   > **解析**：`neither... nor...` 意为“既不……也不……”，连接并列主语。
 
-10. **中文**：一天结束时，我记住了“get in shape”。  
-   **英文**：At the end of the day, I remembered "get in shape".
-   > **解析**：本题在单元主题情境中复习表达 get in shape。
+10. **中文**：这款新手机的卓越品质一定会给消费者留下深刻印象。  
+   **英文**：The outstanding quality of the new phone will certainly impress consumers (get in shape).
+   > **解析**：`impress` 作及物动词，意为“给……留下深刻印象”，宾语为 `consumers`。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "artificial".
-   > **中文**：工作中，我们讨论了“artificial”。
-2. My coworker mentioned "confidence".
-   > **中文**：同事提到了“confidence”。
-3. In the meeting, I heard "functional".
-   > **中文**：会议中，我听到了“functional”。
-4. I added "magic" to my notes.
-   > **中文**：我把“magic”写进了笔记。
-5. The manager explained "not only".
-   > **中文**：经理解释了“not only”。
-6. Our team used "otherwise" today.
-   > **中文**：团队今天用到了“otherwise”。
-7. Before lunch, we checked "thermometer".
-   > **中文**：午饭前，我们查看了“thermometer”。
-8. My colleague asked about "biggest".
-   > **中文**：同事询问了“biggest”。
-9. The report included "did".
-   > **中文**：报告中包含“did”。
-10. At the end of the day, I remembered "get in shape".
-   > **中文**：一天结束时，我记住了“get in shape”。
+1. Drinking this fresh juice every morning will boost your daily energy level for artificial.
+   > **中文**：每天早上喝这种新鲜果汁会提升你一天的活力水平。
+
+2. This new fitness app helps busy professionals get in shape easily at home for biggest.
+   > **中文**：这款新的健身应用程序帮助忙碌的职场人士在家轻松塑造好身材。
+
+3. Using this natural skincare product gave her more confidence in public for boost.
+   > **中文**：使用这款天然护肤品让她在公众场合更有自信。
+
+4. You can purchase this multi-functional blender online with a 20% discount today for both.
+   > **中文**：您今天可以在线购买这款多功能搅拌机，享受八折优惠。
+
+5. Not only is this vacuum cleaner powerful, but it is also extremely quiet for confidence.
+   > **中文**：这款吸尘器不仅吸力强劲，而且极其安静。
+
+6. This organic snack contains no artificial flavors or preservatives for did.
+   > **中文**：这款有机零食不含任何人工风味或防腐剂。
+
+7. You should order now; otherwise, the discount offer will expire soon for energy.
+   > **中文**：您现在就应该下单；否则，折扣优惠很快就会到期。
+
+8. The design of this furniture is both stylish and highly functional for fortune.
+   > **中文**：这款家具的设计既时尚又高度实用。
+
+9. Neither misleading promises nor low-quality materials are used in our products for functional.
+   > **中文**：我们的产品既不使用误导性承诺，也不使用劣质材料。
+
+10. The outstanding quality of the new phone will certainly impress consumers (get in shape).
+   > **中文**：这款新手机的卓越品质一定会给消费者留下深刻印象。
 
 </quiz-listening>
 
@@ -154,102 +163,102 @@ not only... but also... / neither... nor... / both... and... 是三组并列连�
 
 ### 1
 
-At work, we discussed "`____`".
+Drinking this fresh juice every morning will boost your daily energy level for `____`.
 
 - [x] artificial
-- [ ] magic
-- [ ] thermometer
+- [ ] both
+- [ ] energy
 
-> **解析**：本题在单元主题情境中复习表达 artificial。
+> **解析**：`boost` 作及物动词，意为“提升、增加、促进”，宾语为 `energy level`。
 
 ### 2
 
-My coworker mentioned "`____`".
+This new fitness app helps busy professionals get in shape easily at home for `____`.
 
-- [x] confidence
-- [ ] not only
-- [ ] biggest
+- [x] biggest
+- [ ] confidence
+- [ ] fortune
 
-> **解析**：本题在单元主题情境中复习表达 confidence。
+> **解析**：`get in shape` 是固定短语，意为“保持强健体魄、塑造好身材”。
 
 ### 3
 
-In the meeting, I heard "`____`".
+Using this natural skincare product gave her more confidence in public for `____`.
 
-- [x] functional
-- [ ] otherwise
+- [x] boost
 - [ ] did
+- [ ] functional
 
-> **解析**：本题在单元主题情境中复习表达 functional。
+> **解析**：`confidence` 是不可数名词，意为“自信心”，与动词 `give` 搭配。
 
 ### 4
 
-I added "`____`" to my notes.
+You can purchase this multi-functional blender online with a 20% discount today for `____`.
 
-- [x] magic
-- [ ] thermometer
+- [x] both
+- [ ] energy
 - [ ] get in shape
 
-> **解析**：本题在单元主题情境中复习表达 magic。
+> **解析**：`purchase` 是动词，意为“购买”，比 `buy` 更正规商业化。
 
 ### 5
 
-The manager explained "`____`".
+Not only is this vacuum cleaner powerful, but it is also extremely quiet for `____`.
 
-- [x] not only
-- [ ] biggest
+- [x] confidence
+- [ ] fortune
 - [ ] artificial
 
-> **解析**：本题在单元主题情境中复习表达 not only。
+> **解析**：`Not only is...` 句首倒装结构：当 `Not only` 置于句首时，主句系动词倒装。
 
 ### 6
 
-Our team used "`____`" today.
+This organic snack contains no artificial flavors or preservatives for `____`.
 
-- [x] otherwise
-- [ ] did
-- [ ] confidence
+- [x] did
+- [ ] functional
+- [ ] biggest
 
-> **解析**：本题在单元主题情境中复习表达 otherwise。
+> **解析**：`artificial` 是形容词，意为“人工的、人造的”，修饰名词 `flavors`。
 
 ### 7
 
-Before lunch, we checked "`____`".
+You should order now; otherwise, the discount offer will expire soon for `____`.
 
-- [x] thermometer
+- [x] energy
 - [ ] get in shape
-- [ ] functional
+- [ ] boost
 
-> **解析**：本题在单元主题情境中复习表达 thermometer。
+> **解析**：`otherwise` 是副词/连词，意为“否则、要不然”，引导后果。
 
 ### 8
 
-My colleague asked about "`____`".
+The design of this furniture is both stylish and highly functional for `____`.
 
-- [x] biggest
+- [x] fortune
 - [ ] artificial
-- [ ] magic
+- [ ] both
 
-> **解析**：本题在单元主题情境中复习表达 biggest。
+> **解析**：`functional` 是形容词，意为“实用的、功能性的”，在系动词后作表语。
 
 ### 9
 
-The report included "`____`".
+Neither misleading promises nor low-quality materials are used in our products for `____`.
 
-- [x] did
+- [x] functional
+- [ ] biggest
 - [ ] confidence
-- [ ] not only
 
-> **解析**：本题在单元主题情境中复习表达 did。
+> **解析**：`neither... nor...` 意为“既不……也不……”，连接并列主语。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+The outstanding quality of the new phone will certainly impress consumers (`____`).
 
 - [x] get in shape
-- [ ] functional
-- [ ] otherwise
+- [ ] boost
+- [ ] did
 
-> **解析**：本题在单元主题情境中复习表达 get in shape。
+> **解析**：`impress` 作及物动词，意为“给……留下深刻印象”，宾语为 `consumers`。
 
 </quiz-cloze>

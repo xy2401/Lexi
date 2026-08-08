@@ -63,70 +63,79 @@ advertising, by, do a good job, early days, estimate, family, family-owned, for 
 
 <quiz-sentence-builder>
 
-1. **中文**：工作中，我们讨论了“advertising”。  
-   **英文**：At work, we discussed "advertising".
-   > **解析**：本题在单元主题情境中复习表达 advertising。
+1. **中文**：达到一百万活跃用户是这家初创公司的一个重要里程碑。  
+   **英文**：Reaching one million active users was a major milestone for the startup company for advertising.
+   > **解析**：`milestone` 意为“里程碑、重大事件”，由 `mile` + `stone` 构成，常比喻项目或发展的阶段性突破。
 
-2. **中文**：同事提到了“estimate”。  
-   **英文**：My coworker mentioned "estimate".
-   > **解析**：本题在单元主题情境中复习表达 estimate。
+2. **中文**：研究团队在可再生能源领域取得了重大的技术突破。  
+   **英文**：The research team achieved a significant technological breakthrough in renewable energy for by.
+   > **解析**：`breakthrough` 是名词，意为“重大突破”，常用搭配 `achieve a breakthrough`。
 
-3. **中文**：会议中，我听到了“from now”。  
-   **英文**：In the meeting, I heard "from now".
-   > **解析**：本题在单元主题情境中复习表达 from now。
+3. **中文**：尽管面临市场挑战，该公司仍报告其季度营业收入稳步增长。  
+   **英文**：The company reported a steady increase in quarterly revenue despite market challenges (do a good job).
+   > **解析**：`revenue` 指企业的“营业收入、财政收入”，属于不可数名词，作主语 `increase` 的定语修饰。
 
-4. **中文**：我把“i'll have been”写进了笔记。  
-   **英文**：I added "i'll have been" to my notes.
-   > **解析**：本题在单元主题情境中复习表达 i'll have been。
+4. **中文**：两家科技巨头之间拟议的合并造就了一个市场领头羊。  
+   **英文**：The proposed merger between the two tech giants created a market leader (early days).
+   > **解析**：`merger` 指商业上的“公司合并”，常与 `acquisition`（收购）组合为 `mergers and acquisitions (M&A)`。
 
-5. **中文**：经理解释了“next chapter”。  
-   **英文**：The manager explained "next chapter".
-   > **解析**：本题在单元主题情境中复习表达 next chapter。
+5. **中文**：他们计划在明年早春发布新的软件产品。  
+   **英文**：They plan to launch their new software product early next spring for estimate.
+   > **解析**：`launch` 在商业语境中作动词，意为“发布、推出（新产品）”，在句中作谓语动词。
 
-6. **中文**：团队今天用到了“run”。  
-   **英文**：Our team used "run" today.
-   > **解析**：本题在单元主题情境中复习表达 run。
+6. **中文**：建立强有力的战略合作伙伴关系帮助该公司打入了海外市场。  
+   **英文**：Building a strong strategic partnership helped the firm enter overseas markets for family.
+   > **解析**：`partnership` 指“合作伙伴关系、合伙企业”，派生自 `partner`，常用搭配 `strategic partnership`。
 
-7. **中文**：午饭前，我们查看了“will have been”。  
-   **英文**：Before lunch, we checked "will have been".
-   > **解析**：本题在单元主题情境中复习表达 will have been。
+7. **中文**：这家连锁餐厅旨在将其海外业务扩展到三个新城市。  
+   **英文**：The chain restaurant aims to expand its overseas business into three new cities for family-owned.
+   > **解析**：`expand` 作动词，意为“扩大、扩展（规模或市场）”，作不定式 `to expand` 引导的宾语。
 
-8. **中文**：同事询问了“do a good job”。  
-   **英文**：My colleague asked about "do a good job".
-   > **解析**：本题在单元主题情境中复习表达 do a good job。
+8. **中文**：高运营效率为该企业带来了更健康的利润率。  
+   **英文**：High operational efficiency resulted in a healthier profit margin for the business (for the better).
+   > **解析**：`profit margin` 是商业金融词汇，意为“利润率”，即利润占收入的百分比。
 
-9. **中文**：报告中包含“family-owned”。  
-   **英文**：The report included "family-owned".
-   > **解析**：本题在单元主题情境中复习表达 family-owned。
+9. **中文**：对竞争对手公司的战略收购使他们的市场份额一夜之间扩大了。  
+   **英文**：The strategic acquisition of the rival firm expanded their market share overnight (from now).
+   > **解析**：`acquisition` 是名词，意为“收购、获得”，动词形式为 `acquire`。
 
-10. **中文**：一天结束时，我记住了“goods”。  
-   **英文**：At the end of the day, I remembered "goods".
-   > **解析**：本题在单元主题情境中复习表达 goods。
+10. **中文**：该制造工厂需要扩大生产规模，以满足日益增长的全球需求。  
+   **英文**：The manufacturing plant needed to scale up production to meet growing global demand for goods.
+   > **解析**：`scale up` 是动词短语，意为“按比例放大、按规模扩大（生产或业务）”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At work, we discussed "advertising".
-   > **中文**：工作中，我们讨论了“advertising”。
-2. My coworker mentioned "estimate".
-   > **中文**：同事提到了“estimate”。
-3. In the meeting, I heard "from now".
-   > **中文**：会议中，我听到了“from now”。
-4. I added "i'll have been" to my notes.
-   > **中文**：我把“i'll have been”写进了笔记。
-5. The manager explained "next chapter".
-   > **中文**：经理解释了“next chapter”。
-6. Our team used "run" today.
-   > **中文**：团队今天用到了“run”。
-7. Before lunch, we checked "will have been".
-   > **中文**：午饭前，我们查看了“will have been”。
-8. My colleague asked about "do a good job".
-   > **中文**：同事询问了“do a good job”。
-9. The report included "family-owned".
-   > **中文**：报告中包含“family-owned”。
-10. At the end of the day, I remembered "goods".
-   > **中文**：一天结束时，我记住了“goods”。
+1. Reaching one million active users was a major milestone for the startup company for advertising.
+   > **中文**：达到一百万活跃用户是这家初创公司的一个重要里程碑。
+
+2. The research team achieved a significant technological breakthrough in renewable energy for by.
+   > **中文**：研究团队在可再生能源领域取得了重大的技术突破。
+
+3. The company reported a steady increase in quarterly revenue despite market challenges (do a good job).
+   > **中文**：尽管面临市场挑战，该公司仍报告其季度营业收入稳步增长。
+
+4. The proposed merger between the two tech giants created a market leader (early days).
+   > **中文**：两家科技巨头之间拟议的合并造就了一个市场领头羊。
+
+5. They plan to launch their new software product early next spring for estimate.
+   > **中文**：他们计划在明年早春发布新的软件产品。
+
+6. Building a strong strategic partnership helped the firm enter overseas markets for family.
+   > **中文**：建立强有力的战略合作伙伴关系帮助该公司打入了海外市场。
+
+7. The chain restaurant aims to expand its overseas business into three new cities for family-owned.
+   > **中文**：这家连锁餐厅旨在将其海外业务扩展到三个新城市。
+
+8. High operational efficiency resulted in a healthier profit margin for the business (for the better).
+   > **中文**：高运营效率为该企业带来了更健康的利润率。
+
+9. The strategic acquisition of the rival firm expanded their market share overnight (from now).
+   > **中文**：对竞争对手公司的战略收购使他们的市场份额一夜之间扩大了。
+
+10. The manufacturing plant needed to scale up production to meet growing global demand for goods.
+   > **中文**：该制造工厂需要扩大生产规模，以满足日益增长的全球需求。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ advertising, by, do a good job, early days, estimate, family, family-owned, for 
 
 ### 1
 
-At work, we discussed "`____`".
+Reaching one million active users was a major milestone for the startup company for `____`.
 
 - [x] advertising
-- [ ] i'll have been
-- [ ] will have been
+- [ ] early days
+- [ ] family-owned
 
-> **解析**：本题在单元主题情境中复习表达 advertising。
+> **解析**：`milestone` 意为“里程碑、重大事件”，由 `mile` + `stone` 构成，常比喻项目或发展的阶段性突破。
 
 ### 2
 
-My coworker mentioned "`____`".
+The research team achieved a significant technological breakthrough in renewable energy for `____`.
 
-- [x] estimate
-- [ ] next chapter
-- [ ] do a good job
+- [x] by
+- [ ] estimate
+- [ ] for the better
 
-> **解析**：本题在单元主题情境中复习表达 estimate。
+> **解析**：`breakthrough` 是名词，意为“重大突破”，常用搭配 `achieve a breakthrough`。
 
 ### 3
 
-In the meeting, I heard "`____`".
+The company reported a steady increase in quarterly revenue despite market challenges (`____`).
 
-- [x] from now
-- [ ] run
-- [ ] family-owned
+- [x] do a good job
+- [ ] family
+- [ ] from now
 
-> **解析**：本题在单元主题情境中复习表达 from now。
+> **解析**：`revenue` 指企业的“营业收入、财政收入”，属于不可数名词，作主语 `increase` 的定语修饰。
 
 ### 4
 
-I added "`____`" to my notes.
+The proposed merger between the two tech giants created a market leader (`____`).
 
-- [x] i'll have been
-- [ ] will have been
+- [x] early days
+- [ ] family-owned
 - [ ] goods
 
-> **解析**：本题在单元主题情境中复习表达 i'll have been。
+> **解析**：`merger` 指商业上的“公司合并”，常与 `acquisition`（收购）组合为 `mergers and acquisitions (M&A)`。
 
 ### 5
 
-The manager explained "`____`".
+They plan to launch their new software product early next spring for `____`.
 
-- [x] next chapter
-- [ ] do a good job
+- [x] estimate
+- [ ] for the better
 - [ ] advertising
 
-> **解析**：本题在单元主题情境中复习表达 next chapter。
+> **解析**：`launch` 在商业语境中作动词，意为“发布、推出（新产品）”，在句中作谓语动词。
 
 ### 6
 
-Our team used "`____`" today.
+Building a strong strategic partnership helped the firm enter overseas markets for `____`.
 
-- [x] run
-- [ ] family-owned
-- [ ] estimate
+- [x] family
+- [ ] from now
+- [ ] by
 
-> **解析**：本题在单元主题情境中复习表达 run。
+> **解析**：`partnership` 指“合作伙伴关系、合伙企业”，派生自 `partner`，常用搭配 `strategic partnership`。
 
 ### 7
 
-Before lunch, we checked "`____`".
+The chain restaurant aims to expand its overseas business into three new cities for `____`.
 
-- [x] will have been
+- [x] family-owned
 - [ ] goods
-- [ ] from now
+- [ ] do a good job
 
-> **解析**：本题在单元主题情境中复习表达 will have been。
+> **解析**：`expand` 作动词，意为“扩大、扩展（规模或市场）”，作不定式 `to expand` 引导的宾语。
 
 ### 8
 
-My colleague asked about "`____`".
+High operational efficiency resulted in a healthier profit margin for the business (`____`).
 
-- [x] do a good job
+- [x] for the better
 - [ ] advertising
-- [ ] i'll have been
+- [ ] early days
 
-> **解析**：本题在单元主题情境中复习表达 do a good job。
+> **解析**：`profit margin` 是商业金融词汇，意为“利润率”，即利润占收入的百分比。
 
 ### 9
 
-The report included "`____`".
+The strategic acquisition of the rival firm expanded their market share overnight (`____`).
 
-- [x] family-owned
+- [x] from now
+- [ ] by
 - [ ] estimate
-- [ ] next chapter
 
-> **解析**：本题在单元主题情境中复习表达 family-owned。
+> **解析**：`acquisition` 是名词，意为“收购、获得”，动词形式为 `acquire`。
 
 ### 10
 
-At the end of the day, I remembered "`____`".
+The manufacturing plant needed to scale up production to meet growing global demand for `____`.
 
 - [x] goods
-- [ ] from now
-- [ ] run
+- [ ] do a good job
+- [ ] family
 
-> **解析**：本题在单元主题情境中复习表达 goods。
+> **解析**：`scale up` 是动词短语，意为“按比例放大、按规模扩大（生产或业务）”。
 
 </quiz-cloze>

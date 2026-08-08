@@ -51,70 +51,79 @@ would / wouldn't 在这里用于礼貌请求和假设。still 表示"仍然"。o
 
 <quiz-sentence-builder>
 
-1. **中文**：在机场，我听到了“bra”。  
-   **英文**：At the airport, I heard "bra".
-   > **解析**：本题在单元主题情境中复习表达 bra。
+1. **中文**：我想退掉这件夹克，因为它穿起来不太合身。  
+   **英文**：I would like to return this jacket because it does not fit me properly for bra.
+   > **解析**：return 及物/不及物动词，在此意为“退货；归还”。
 
-2. **中文**：我的旅伴解释了“damaged”。  
-   **英文**：My travel partner explained "damaged".
-   > **解析**：本题在单元主题情境中复习表达 damaged。
+2. **中文**：我可以把这件毛衣换成更大的尺码吗？  
+   **英文**：Can I exchange this sweater for a larger size? for button.
+   > **解析**：exchange 动词，意为“调换；交换”，常用结构 exchange A for B。
 
-3. **中文**：旅行途中，我们谈到了“label”。  
-   **英文**：During the trip, we talked about "label".
-   > **解析**：本题在单元主题情境中复习表达 label。
+3. **中文**：客服代表毫不延迟地更换了受损的盒子。  
+   **英文**：The customer service representative replaced the damaged box without delay for collar.
+   > **解析**：damaged 形容词，意为“受损的；损坏的”，过去分词作定语。
 
-4. **中文**：在酒店里，我记下了“pattern”。  
-   **英文**：At the hotel, I wrote down "pattern".
-   > **解析**：本题在单元主题情境中复习表达 pattern。
+4. **中文**：如果您对购买的商品不满意，我们保证退款。  
+   **英文**：If you are not satisfied with your purchase, we guarantee your money back for damaged.
+   > **解析**：money back 名词短语，意为“退款；退还资金”，常见于全额退款承诺。
 
-5. **中文**：旅行者清楚地重复了“silk”。  
-   **英文**：The traveler repeated "silk" clearly.
-   > **解析**：本题在单元主题情境中复习表达 silk。
+5. **中文**：因为我弄丢了原始收据，店家便给我提供了商店购物额度作为替代。  
+   **英文**：Since I lost the original receipt, the shop offered me store credit instead for diamond.
+   > **解析**：store credit 名词短语，意为“商店代金券/购物额度”。
 
-6. **中文**：离开前，我查看了“stripe”。  
-   **英文**：Before leaving, I checked "stripe".
-   > **解析**：本题在单元主题情境中复习表达 stripe。
+6. **中文**：店长主动提出立即更换有缺陷的电子产品。  
+   **英文**：The store manager offered to replace the defective electronic item immediately for exchange.
+   > **解析**：replace 及物动词，意为“更换；替代”，即以新物置换旧物。
 
-7. **中文**：在去那里的路上，我们用到了“wouldn't”。  
-   **英文**：On the way there, we used "wouldn't".
-   > **解析**：本题在单元主题情境中复习表达 wouldn't。
+7. **中文**：如果您打算申请退货，请保留附带的价格标签。  
+   **英文**：Please keep the price label attached if you plan to request a return.
+   > **解析**：label 可数名词，意为“标签；吊牌”。
 
-8. **中文**：到达后，我想起了“collar”。  
-   **英文**：After arrival, I remembered "collar".
-   > **解析**：本题在单元主题情境中复习表达 collar。
+8. **中文**：打开包裹后，我注意到袖子上有一小块暗色污渍。  
+   **英文**：I noticed a small dark stain on the sleeve after opening the package (money back).
+   > **解析**：stain 可数名词，意为“污渍；污垢”。
 
-9. **中文**：导游指出了“exchange”。  
-   **英文**：The guide pointed out "exchange".
-   > **解析**：本题在单元主题情境中复习表达 exchange。
+9. **中文**：她喜欢这衬衫上的花卉图案，但想要不同的颜色。  
+   **英文**：She loved the floral pattern on the shirt but wanted a different color for off.
+   > **解析**：pattern 可数名词，意为“图案；花纹”。
 
-10. **中文**：那段旅行故事以“off”收尾。  
-   **英文**：That travel story ended with "off".
-   > **解析**：本题在单元主题情境中复习表达 off。
+10. **中文**：这件顺滑的真丝女式衬衫需要轻柔手洗。  
+   **英文**：This smooth silk blouse requires gentle hand washing for pattern.
+   > **解析**：silk 不可数名词/形容词，意为“丝绸；真丝”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the airport, I heard "bra".
-   > **中文**：在机场，我听到了“bra”。
-2. My travel partner explained "damaged".
-   > **中文**：我的旅伴解释了“damaged”。
-3. During the trip, we talked about "label".
-   > **中文**：旅行途中，我们谈到了“label”。
-4. At the hotel, I wrote down "pattern".
-   > **中文**：在酒店里，我记下了“pattern”。
-5. The traveler repeated "silk" clearly.
-   > **中文**：旅行者清楚地重复了“silk”。
-6. Before leaving, I checked "stripe".
-   > **中文**：离开前，我查看了“stripe”。
-7. On the way there, we used "wouldn't".
-   > **中文**：在去那里的路上，我们用到了“wouldn't”。
-8. After arrival, I remembered "collar".
-   > **中文**：到达后，我想起了“collar”。
-9. The guide pointed out "exchange".
-   > **中文**：导游指出了“exchange”。
-10. That travel story ended with "off".
-   > **中文**：那段旅行故事以“off”收尾。
+1. I would like to return this jacket because it does not fit me properly for bra.
+   > **中文**：我想退掉这件夹克，因为它穿起来不太合身。
+
+2. Can I exchange this sweater for a larger size? for button.
+   > **中文**：我可以把这件毛衣换成更大的尺码吗？
+
+3. The customer service representative replaced the damaged box without delay for collar.
+   > **中文**：客服代表毫不延迟地更换了受损的盒子。
+
+4. If you are not satisfied with your purchase, we guarantee your money back for damaged.
+   > **中文**：如果您对购买的商品不满意，我们保证退款。
+
+5. Since I lost the original receipt, the shop offered me store credit instead for diamond.
+   > **中文**：因为我弄丢了原始收据，店家便给我提供了商店购物额度作为替代。
+
+6. The store manager offered to replace the defective electronic item immediately for exchange.
+   > **中文**：店长主动提出立即更换有缺陷的电子产品。
+
+7. Please keep the price label attached if you plan to request a return.
+   > **中文**：如果您打算申请退货，请保留附带的价格标签。
+
+8. I noticed a small dark stain on the sleeve after opening the package (money back).
+   > **中文**：打开包裹后，我注意到袖子上有一小块暗色污渍。
+
+9. She loved the floral pattern on the shirt but wanted a different color for off.
+   > **中文**：她喜欢这衬衫上的花卉图案，但想要不同的颜色。
+
+10. This smooth silk blouse requires gentle hand washing for pattern.
+   > **中文**：这件顺滑的真丝女式衬衫需要轻柔手洗。
 
 </quiz-listening>
 
@@ -126,102 +135,102 @@ would / wouldn't 在这里用于礼貌请求和假设。still 表示"仍然"。o
 
 ### 1
 
-At the airport, I heard "`____`".
+I would like to return this jacket because it does not fit me properly for `____`.
 
 - [x] bra
-- [ ] pattern
-- [ ] wouldn't
+- [ ] damaged
+- [ ] label
 
-> **解析**：本题在单元主题情境中复习表达 bra。
+> **解析**：return 及物/不及物动词，在此意为“退货；归还”。
 
 ### 2
 
-My travel partner explained "`____`".
+Can I exchange this sweater for a larger size? for `____`.
 
-- [x] damaged
-- [ ] silk
-- [ ] collar
+- [x] button
+- [ ] diamond
+- [ ] money back
 
-> **解析**：本题在单元主题情境中复习表达 damaged。
+> **解析**：exchange 动词，意为“调换；交换”，常用结构 exchange A for B。
 
 ### 3
 
-During the trip, we talked about "`____`".
+The customer service representative replaced the damaged box without delay for `____`.
 
-- [x] label
-- [ ] stripe
+- [x] collar
 - [ ] exchange
+- [ ] off
 
-> **解析**：本题在单元主题情境中复习表达 label。
+> **解析**：damaged 形容词，意为“受损的；损坏的”，过去分词作定语。
 
 ### 4
 
-At the hotel, I wrote down "`____`".
+If you are not satisfied with your purchase, we guarantee your money back for `____`.
 
-- [x] pattern
-- [ ] wouldn't
-- [ ] off
+- [x] damaged
+- [ ] label
+- [ ] pattern
 
-> **解析**：本题在单元主题情境中复习表达 pattern。
+> **解析**：money back 名词短语，意为“退款；退还资金”，常见于全额退款承诺。
 
 ### 5
 
-The traveler repeated "`____`" clearly.
+Since I lost the original receipt, the shop offered me store credit instead for `____`.
 
-- [x] silk
-- [ ] collar
+- [x] diamond
+- [ ] money back
 - [ ] bra
 
-> **解析**：本题在单元主题情境中复习表达 silk。
+> **解析**：store credit 名词短语，意为“商店代金券/购物额度”。
 
 ### 6
 
-Before leaving, I checked "`____`".
+The store manager offered to replace the defective electronic item immediately for `____`.
 
-- [x] stripe
-- [ ] exchange
-- [ ] damaged
+- [x] exchange
+- [ ] off
+- [ ] button
 
-> **解析**：本题在单元主题情境中复习表达 stripe。
+> **解析**：replace 及物动词，意为“更换；替代”，即以新物置换旧物。
 
 ### 7
 
-On the way there, we used "`____`".
+Please keep the price `____` attached if you plan to request a return.
 
-- [x] wouldn't
-- [ ] off
-- [ ] label
+- [x] label
+- [ ] pattern
+- [ ] collar
 
-> **解析**：本题在单元主题情境中复习表达 wouldn't。
+> **解析**：label 可数名词，意为“标签；吊牌”。
 
 ### 8
 
-After arrival, I remembered "`____`".
+I noticed a small dark stain on the sleeve after opening the package (`____`).
 
-- [x] collar
+- [x] money back
 - [ ] bra
-- [ ] pattern
+- [ ] damaged
 
-> **解析**：本题在单元主题情境中复习表达 collar。
+> **解析**：stain 可数名词，意为“污渍；污垢”。
 
 ### 9
 
-The guide pointed out "`____`".
+She loved the floral pattern on the shirt but wanted a different color for `____`.
 
-- [x] exchange
-- [ ] damaged
-- [ ] silk
+- [x] off
+- [ ] button
+- [ ] diamond
 
-> **解析**：本题在单元主题情境中复习表达 exchange。
+> **解析**：pattern 可数名词，意为“图案；花纹”。
 
 ### 10
 
-That travel story ended with "`____`".
+This smooth silk blouse requires gentle hand washing for `____`.
 
-- [x] off
-- [ ] label
-- [ ] stripe
+- [x] pattern
+- [ ] collar
+- [ ] exchange
 
-> **解析**：本题在单元主题情境中复习表达 off。
+> **解析**：silk 不可数名词/形容词，意为“丝绸；真丝”。
 
 </quiz-cloze>

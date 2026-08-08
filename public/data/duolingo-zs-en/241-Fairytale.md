@@ -59,70 +59,79 @@ approach, arrow, beyond, bury, collect, deep, evil, fate, get out of, instantly,
 
 <quiz-sentence-builder>
 
-1. **中文**：在机场，我听到了“approach”。  
-   **英文**：At the airport, I heard "approach".
-   > **解析**：本题在单元主题情境中复习表达 approach。
+1. **中文**：勇敢的骑士慢慢靠近古老的城堡大门。  
+   **英文**：The brave knight slowly approached the ancient castle gate.
+   > **解析**：`approach` 在本句中作及物动词，意为“靠近、接近”，直接后接宾语 `the ancient castle gate`，无需加介词 `to`。
 
-2. **中文**：我的旅伴解释了“collect”。  
-   **英文**：My travel partner explained "collect".
-   > **解析**：本题在单元主题情境中复习表达 collect。
+2. **中文**：旅行者们在攀登高山前积聚了力量。  
+   **英文**：The travelers collected their strength before climbing the high mountain for arrow.
+   > **解析**：`collect` 在此处作动词，意为“聚集、积聚”，短语 `collect one's strength` 表示“积蓄力量/鼓起勇气”。
 
-3. **中文**：旅行途中，我们谈到了“get out of”。  
-   **英文**：During the trip, we talked about "get out of".
-   > **解析**：本题在单元主题情境中复习表达 get out of。
+3. **中文**：我们必须找到一条隐蔽的路径脱离这片黑森林。  
+   **英文**：We must find a secret path to get out of this dark forest for beyond.
+   > **解析**：`get out of` 是固定动词短语，意为“从……离开/逃离”，后接地点名词 `this dark forest`。
 
-4. **中文**：在酒店里，我记下了“just as”。  
-   **英文**：At the hotel, I wrote down "just as".
-   > **解析**：本题在单元主题情境中复习表达 just as。
+4. **中文**：正当太阳西沉之际，一条神秘的巨龙出现在空中。  
+   **英文**：Just as the sun was setting, a mysterious dragon appeared in the sky for bury.
+   > **解析**：`just as` 用作从属连词，引导时间状语从句，强调“恰好在……的时候”，画面感强。
 
-5. **中文**：旅行者清楚地重复了“mysterious”。  
-   **英文**：The traveler repeated "mysterious" clearly.
-   > **解析**：本题在单元主题情境中复习表达 mysterious。
+5. **中文**：一位神秘的陌生人递给英雄一张有魔力的地图。  
+   **英文**：A mysterious stranger gave the hero a magical map for collect.
+   > **解析**：`mysterious` 是形容词，意为“神秘的”，在句中作前置定语修饰名词 `stranger`。
 
-6. **中文**：离开前，我查看了“strength”。  
-   **英文**：Before leaving, I checked "strength".
-   > **解析**：本题在单元主题情境中复习表达 strength。
+6. **中文**：她凝聚了全身的力量从石头中拔出宝剑。  
+   **英文**：She gathered all her strength to pull the sword from the stone for deep.
+   > **解析**：`strength` 是不可数名词，意为“力量、体力”，句中作动词 `gathered` 的宾语。
 
-7. **中文**：在去那里的路上，我们用到了“treasure”。  
-   **英文**：On the way there, we used "treasure".
-   > **解析**：本题在单元主题情境中复习表达 treasure。
+7. **中文**：传说珍贵的皇家宝藏深埋地下。  
+   **英文**：The legend says that a royal treasure is buried deep underground for evil.
+   > **解析**：`treasure` 是名词，意为“宝藏”，在从句中作主语，与过去分词 `buried` 构成被动结构 `is buried`。
 
-8. **中文**：到达后，我想起了“arrow”。  
-   **英文**：After arrival, I remembered "arrow".
-   > **解析**：本题在单元主题情境中复习表达 arrow。
+8. **中文**：精灵精确定向射出一支箭命中目标。  
+   **英文**：The elf shot an arrow with precision to hit the target for fate.
+   > **解析**：`arrow` 是可数名词，意为“箭”，搭配 `shoot an arrow` 表示“射出一支箭”。
 
-9. **中文**：导游指出了“deep”。  
-   **英文**：The guide pointed out "deep".
-   > **解析**：本题在单元主题情境中复习表达 deep。
+9. **中文**：他们走入魔幻森林的深处寻找答案。  
+   **英文**：They walked deep into the magical woods searching for answers (get out of).
+   > **解析**：`deep` 此处用作副词，意为“深深地、深入地”，修饰介词短语 `into the magical woods`。
 
-10. **中文**：那段旅行故事以“instantly”收尾。  
-   **英文**：That travel story ended with "instantly".
-   > **解析**：本题在单元主题情境中复习表达 instantly。
+10. **中文**：当钟声响起时，邪恶的诅咒瞬间被破除了。  
+   **英文**：The wicked curse was instantly broken when the bell rang.
+   > **解析**：`instantly` 是副词，意为“立即、瞬间”，放在助动词 `was` 和过去分词 `broken` 之间作状语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the airport, I heard "approach".
-   > **中文**：在机场，我听到了“approach”。
-2. My travel partner explained "collect".
-   > **中文**：我的旅伴解释了“collect”。
-3. During the trip, we talked about "get out of".
-   > **中文**：旅行途中，我们谈到了“get out of”。
-4. At the hotel, I wrote down "just as".
-   > **中文**：在酒店里，我记下了“just as”。
-5. The traveler repeated "mysterious" clearly.
-   > **中文**：旅行者清楚地重复了“mysterious”。
-6. Before leaving, I checked "strength".
-   > **中文**：离开前，我查看了“strength”。
-7. On the way there, we used "treasure".
-   > **中文**：在去那里的路上，我们用到了“treasure”。
-8. After arrival, I remembered "arrow".
-   > **中文**：到达后，我想起了“arrow”。
-9. The guide pointed out "deep".
-   > **中文**：导游指出了“deep”。
-10. That travel story ended with "instantly".
-   > **中文**：那段旅行故事以“instantly”收尾。
+1. The brave knight slowly approached the ancient castle gate.
+   > **中文**：勇敢的骑士慢慢靠近古老的城堡大门。
+
+2. The travelers collected their strength before climbing the high mountain for arrow.
+   > **中文**：旅行者们在攀登高山前积聚了力量。
+
+3. We must find a secret path to get out of this dark forest for beyond.
+   > **中文**：我们必须找到一条隐蔽的路径脱离这片黑森林。
+
+4. Just as the sun was setting, a mysterious dragon appeared in the sky for bury.
+   > **中文**：正当太阳西沉之际，一条神秘的巨龙出现在空中。
+
+5. A mysterious stranger gave the hero a magical map for collect.
+   > **中文**：一位神秘的陌生人递给英雄一张有魔力的地图。
+
+6. She gathered all her strength to pull the sword from the stone for deep.
+   > **中文**：她凝聚了全身的力量从石头中拔出宝剑。
+
+7. The legend says that a royal treasure is buried deep underground for evil.
+   > **中文**：传说珍贵的皇家宝藏深埋地下。
+
+8. The elf shot an arrow with precision to hit the target for fate.
+   > **中文**：精灵精确定向射出一支箭命中目标。
+
+9. They walked deep into the magical woods searching for answers (get out of).
+   > **中文**：他们走入魔幻森林的深处寻找答案。
+
+10. The wicked curse was instantly broken when the bell rang.
+   > **中文**：当钟声响起时，邪恶的诅咒瞬间被破除了。
 
 </quiz-listening>
 
@@ -134,102 +143,102 @@ approach, arrow, beyond, bury, collect, deep, evil, fate, get out of, instantly,
 
 ### 1
 
-At the airport, I heard "`____`".
+The brave knight slowly `____`ed the ancient castle gate.
 
 - [x] approach
-- [ ] just as
-- [ ] treasure
+- [ ] bury
+- [ ] evil
 
-> **解析**：本题在单元主题情境中复习表达 approach。
+> **解析**：`approach` 在本句中作及物动词，意为“靠近、接近”，直接后接宾语 `the ancient castle gate`，无需加介词 `to`。
 
 ### 2
 
-My travel partner explained "`____`".
+The travelers collected their strength before climbing the high mountain for `____`.
 
-- [x] collect
-- [ ] mysterious
-- [ ] arrow
+- [x] arrow
+- [ ] collect
+- [ ] fate
 
-> **解析**：本题在单元主题情境中复习表达 collect。
+> **解析**：`collect` 在此处作动词，意为“聚集、积聚”，短语 `collect one's strength` 表示“积蓄力量/鼓起勇气”。
 
 ### 3
 
-During the trip, we talked about "`____`".
+We must find a secret path to get out of this dark forest for `____`.
 
-- [x] get out of
-- [ ] strength
+- [x] beyond
 - [ ] deep
+- [ ] get out of
 
-> **解析**：本题在单元主题情境中复习表达 get out of。
+> **解析**：`get out of` 是固定动词短语，意为“从……离开/逃离”，后接地点名词 `this dark forest`。
 
 ### 4
 
-At the hotel, I wrote down "`____`".
+Just as the sun was setting, a mysterious dragon appeared in the sky for `____`.
 
-- [x] just as
-- [ ] treasure
+- [x] bury
+- [ ] evil
 - [ ] instantly
 
-> **解析**：本题在单元主题情境中复习表达 just as。
+> **解析**：`just as` 用作从属连词，引导时间状语从句，强调“恰好在……的时候”，画面感强。
 
 ### 5
 
-The traveler repeated "`____`" clearly.
+A mysterious stranger gave the hero a magical map for `____`.
 
-- [x] mysterious
-- [ ] arrow
+- [x] collect
+- [ ] fate
 - [ ] approach
 
-> **解析**：本题在单元主题情境中复习表达 mysterious。
+> **解析**：`mysterious` 是形容词，意为“神秘的”，在句中作前置定语修饰名词 `stranger`。
 
 ### 6
 
-Before leaving, I checked "`____`".
+She gathered all her strength to pull the sword from the stone for `____`.
 
-- [x] strength
-- [ ] deep
-- [ ] collect
+- [x] deep
+- [ ] get out of
+- [ ] arrow
 
-> **解析**：本题在单元主题情境中复习表达 strength。
+> **解析**：`strength` 是不可数名词，意为“力量、体力”，句中作动词 `gathered` 的宾语。
 
 ### 7
 
-On the way there, we used "`____`".
+The legend says that a royal treasure is buried deep underground for `____`.
 
-- [x] treasure
+- [x] evil
 - [ ] instantly
-- [ ] get out of
+- [ ] beyond
 
-> **解析**：本题在单元主题情境中复习表达 treasure。
+> **解析**：`treasure` 是名词，意为“宝藏”，在从句中作主语，与过去分词 `buried` 构成被动结构 `is buried`。
 
 ### 8
 
-After arrival, I remembered "`____`".
+The elf shot an arrow with precision to hit the target for `____`.
 
-- [x] arrow
+- [x] fate
 - [ ] approach
-- [ ] just as
+- [ ] bury
 
-> **解析**：本题在单元主题情境中复习表达 arrow。
+> **解析**：`arrow` 是可数名词，意为“箭”，搭配 `shoot an arrow` 表示“射出一支箭”。
 
 ### 9
 
-The guide pointed out "`____`".
+They walked deep into the magical woods searching for answers (`____`).
 
-- [x] deep
+- [x] get out of
+- [ ] arrow
 - [ ] collect
-- [ ] mysterious
 
-> **解析**：本题在单元主题情境中复习表达 deep。
+> **解析**：`deep` 此处用作副词，意为“深深地、深入地”，修饰介词短语 `into the magical woods`。
 
 ### 10
 
-That travel story ended with "`____`".
+The wicked curse was `____` broken when the bell rang.
 
 - [x] instantly
-- [ ] get out of
-- [ ] strength
+- [ ] beyond
+- [ ] deep
 
-> **解析**：本题在单元主题情境中复习表达 instantly。
+> **解析**：`instantly` 是副词，意为“立即、瞬间”，放在助动词 `was` 和过去分词 `broken` 之间作状语。
 
 </quiz-cloze>

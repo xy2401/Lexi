@@ -77,70 +77,79 @@ bad guy, chase, punch, save the day 是超级英雄叙事的经典元素。marti
 
 <quiz-sentence-builder>
 
-1. **中文**：在这个情境中，我听到了“bad guy”。  
-   **英文**：In this situation, I heard "bad guy".
-   > **解析**：本题在单元主题情境中复习表达 bad guy。
+1. **中文**：如果你可以选择任何超能力，你会选择隐身还是飞行？  
+   **英文**：If you could choose any superpower, would you pick invisibility or flight? (bad guy).
+   > **解析**：`superpower` 是可数名词，意为“超能力”，前半句为虚拟语气条件句。
 
-2. **中文**：同伴解释了“if he didn't”。  
-   **英文**：My partner explained "if he didn't".
-   > **解析**：本题在单元主题情境中复习表达 if he didn't。
+2. **中文**：飞行英雄及时赶到，挽救了局势/拯救了大家。  
+   **英文**：The flying hero arrived just in time to save the day for chase.
+   > **解析**：`save the day` 是习惯用语，意为“扭转乾坤、挽救局势、拯救危局”。
 
-3. **中文**：我们一起谈到了“if she hadn't”。  
-   **英文**：We talked about "if she hadn't" together.
-   > **解析**：本题在单元主题情境中复习表达 if she hadn't。
+3. **中文**：如果你有看穿人心思的能力会怎样呢？  
+   **英文**：What if you had the ability to read people's minds? for feather.
+   > **解析**：`What if...` 常用语引导假设性疑问句，意为“要是……会怎么样呢”。
 
-4. **中文**：我记下了“over and over”。  
-   **英文**：I wrote down "over and over".
-   > **解析**：本题在单元主题情境中复习表达 over and over。
+4. **中文**：超级英雄在狭窄的小巷里追赶那个坏蛋。  
+   **英文**：The superhero chased the bad guy through the narrow alleyways (get caught).
+   > **解析**：`bad guy` 表示“反派、坏人”，在影视小说的常见名词短语。
 
-5. **中文**：例句中包含“save the day”。  
-   **英文**：The example included "save the day".
-   > **解析**：本题在单元主题情境中复习表达 save the day。
+5. **中文**：如果你是一名超级英雄，你会如何保护你的秘密身份？  
+   **英文**：If you were a superhero, how would you protect your secret identity? (if he didn't).
+   > **解析**：`If you were...` 是对现在事实的虚拟语气条件从句，主句用 `would + 动词原形`。
 
-6. **中文**：我询问了“suspicious”。  
-   **英文**：I asked about "suspicious".
-   > **解析**：本题在单元主题情境中复习表达 suspicious。
+6. **中文**：如果他以前训练更努力的话，他本可以轻易击败反派。  
+   **英文**：If he had trained harder, he would have defeated the villain easily.
+   > **解析**：`would have + 过去分词` 是对过去事实的虚拟语气主句搭配。
 
-7. **中文**：我们在句子中用到了“what if”。  
-   **英文**：We used "what if" in a sentence.
-   > **解析**：本题在单元主题情境中复习表达 what if。
+7. **中文**：她掌握了古老的武术，不用武器就能击败敌人。  
+   **英文**：She mastered ancient martial arts to defeat her enemy without weapons (if he wasn't).
+   > **解析**：`martial arts` 是复数名词短语，意为“武术、格斗术”。
 
-8. **中文**：朋友重复了“chase”。  
-   **英文**：My friend repeated "chase".
-   > **解析**：本题在单元主题情境中复习表达 chase。
+8. **中文**：警官们沿着街道追赶嫌疑人。  
+   **英文**：The police officers chased the suspect down the street (if she hadn't).
+   > **解析**：`chase` 作及物动词，意为“追赶、追捕”，宾语为 `the suspect`。
 
-9. **中文**：后来，我记住了“if he had”。  
-   **英文**：Later, I remembered "if he had".
-   > **解析**：本题在单元主题情境中复习表达 if he had。
+9. **中文**：反派身穿黑色披风，使他看起来非常可疑。  
+   **英文**：The villain wore a dark cloak, making him look very suspicious (if you could).
+   > **解析**：`suspicious` 是形容词，意为“可疑的、引起怀疑的”，作表语补语。
 
-10. **中文**：这个小故事以“if you were”收尾。  
-   **英文**：The short story ended with "if you were".
-   > **解析**：本题在单元主题情境中复习表达 if you were。
+10. **中文**：聪明的反派会极其小心，以免被当局抓获。  
+   **英文**：A smart villain will take extreme care not to get caught by the authorities (if you were).
+   > **解析**：`get caught` 是被动结构，意为“被抓住、被逮捕”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In this situation, I heard "bad guy".
-   > **中文**：在这个情境中，我听到了“bad guy”。
-2. My partner explained "if he didn't".
-   > **中文**：同伴解释了“if he didn't”。
-3. We talked about "if she hadn't" together.
-   > **中文**：我们一起谈到了“if she hadn't”。
-4. I wrote down "over and over".
-   > **中文**：我记下了“over and over”。
-5. The example included "save the day".
-   > **中文**：例句中包含“save the day”。
-6. I asked about "suspicious".
-   > **中文**：我询问了“suspicious”。
-7. We used "what if" in a sentence.
-   > **中文**：我们在句子中用到了“what if”。
-8. My friend repeated "chase".
-   > **中文**：朋友重复了“chase”。
-9. Later, I remembered "if he had".
-   > **中文**：后来，我记住了“if he had”。
-10. The short story ended with "if you were".
-   > **中文**：这个小故事以“if you were”收尾。
+1. If you could choose any superpower, would you pick invisibility or flight? (bad guy).
+   > **中文**：如果你可以选择任何超能力，你会选择隐身还是飞行？
+
+2. The flying hero arrived just in time to save the day for chase.
+   > **中文**：飞行英雄及时赶到，挽救了局势/拯救了大家。
+
+3. What if you had the ability to read people's minds? for feather.
+   > **中文**：如果你有看穿人心思的能力会怎样呢？
+
+4. The superhero chased the bad guy through the narrow alleyways (get caught).
+   > **中文**：超级英雄在狭窄的小巷里追赶那个坏蛋。
+
+5. If you were a superhero, how would you protect your secret identity? (if he didn't).
+   > **中文**：如果你是一名超级英雄，你会如何保护你的秘密身份？
+
+6. If he had trained harder, he would have defeated the villain easily.
+   > **中文**：如果他以前训练更努力的话，他本可以轻易击败反派。
+
+7. She mastered ancient martial arts to defeat her enemy without weapons (if he wasn't).
+   > **中文**：她掌握了古老的武术，不用武器就能击败敌人。
+
+8. The police officers chased the suspect down the street (if she hadn't).
+   > **中文**：警官们沿着街道追赶嫌疑人。
+
+9. The villain wore a dark cloak, making him look very suspicious (if you could).
+   > **中文**：反派身穿黑色披风，使他看起来非常可疑。
+
+10. A smart villain will take extreme care not to get caught by the authorities (if you were).
+   > **中文**：聪明的反派会极其小心，以免被当局抓获。
 
 </quiz-listening>
 
@@ -152,102 +161,102 @@ bad guy, chase, punch, save the day 是超级英雄叙事的经典元素。marti
 
 ### 1
 
-In this situation, I heard "`____`".
+If you could choose any superpower, would you pick invisibility or flight? (`____`).
 
 - [x] bad guy
-- [ ] over and over
-- [ ] what if
+- [ ] get caught
+- [ ] if he wasn't
 
-> **解析**：本题在单元主题情境中复习表达 bad guy。
+> **解析**：`superpower` 是可数名词，意为“超能力”，前半句为虚拟语气条件句。
 
 ### 2
 
-My partner explained "`____`".
+The flying hero arrived just in time to save the day for `____`.
 
-- [x] if he didn't
-- [ ] save the day
-- [ ] chase
+- [x] chase
+- [ ] if he didn't
+- [ ] if she hadn't
 
-> **解析**：本题在单元主题情境中复习表达 if he didn't。
+> **解析**：`save the day` 是习惯用语，意为“扭转乾坤、挽救局势、拯救危局”。
 
 ### 3
 
-We talked about "`____`" together.
+What if you had the ability to read people's minds? for `____`.
 
-- [x] if she hadn't
-- [ ] suspicious
+- [x] feather
 - [ ] if he had
+- [ ] if you could
 
-> **解析**：本题在单元主题情境中复习表达 if she hadn't。
+> **解析**：`What if...` 常用语引导假设性疑问句，意为“要是……会怎么样呢”。
 
 ### 4
 
-I wrote down "`____`".
+The superhero chased the bad guy through the narrow alleyways (`____`).
 
-- [x] over and over
-- [ ] what if
+- [x] get caught
+- [ ] if he wasn't
 - [ ] if you were
 
-> **解析**：本题在单元主题情境中复习表达 over and over。
+> **解析**：`bad guy` 表示“反派、坏人”，在影视小说的常见名词短语。
 
 ### 5
 
-The example included "`____`".
+If you were a superhero, how would you protect your secret identity? (`____`).
 
-- [x] save the day
-- [ ] chase
+- [x] if he didn't
+- [ ] if she hadn't
 - [ ] bad guy
 
-> **解析**：本题在单元主题情境中复习表达 save the day。
+> **解析**：`If you were...` 是对现在事实的虚拟语气条件从句，主句用 `would + 动词原形`。
 
 ### 6
 
-I asked about "`____`".
+`____` trained harder, he would have defeated the villain easily.
 
-- [x] suspicious
-- [ ] if he had
-- [ ] if he didn't
+- [x] if he had
+- [ ] if you could
+- [ ] chase
 
-> **解析**：本题在单元主题情境中复习表达 suspicious。
+> **解析**：`would have + 过去分词` 是对过去事实的虚拟语气主句搭配。
 
 ### 7
 
-We used "`____`" in a sentence.
+She mastered ancient martial arts to defeat her enemy without weapons (`____`).
 
-- [x] what if
+- [x] if he wasn't
 - [ ] if you were
-- [ ] if she hadn't
+- [ ] feather
 
-> **解析**：本题在单元主题情境中复习表达 what if。
+> **解析**：`martial arts` 是复数名词短语，意为“武术、格斗术”。
 
 ### 8
 
-My friend repeated "`____`".
+The police officers chased the suspect down the street (`____`).
 
-- [x] chase
+- [x] if she hadn't
 - [ ] bad guy
-- [ ] over and over
+- [ ] get caught
 
-> **解析**：本题在单元主题情境中复习表达 chase。
+> **解析**：`chase` 作及物动词，意为“追赶、追捕”，宾语为 `the suspect`。
 
 ### 9
 
-Later, I remembered "`____`".
+The villain wore a dark cloak, making him look very suspicious (`____`).
 
-- [x] if he had
+- [x] if you could
+- [ ] chase
 - [ ] if he didn't
-- [ ] save the day
 
-> **解析**：本题在单元主题情境中复习表达 if he had。
+> **解析**：`suspicious` 是形容词，意为“可疑的、引起怀疑的”，作表语补语。
 
 ### 10
 
-The short story ended with "`____`".
+A smart villain will take extreme care not to get caught by the authorities (`____`).
 
 - [x] if you were
-- [ ] if she hadn't
-- [ ] suspicious
+- [ ] feather
+- [ ] if he had
 
-> **解析**：本题在单元主题情境中复习表达 if you were。
+> **解析**：`get caught` 是被动结构，意为“被抓住、被逮捕”。
 
 </quiz-cloze>

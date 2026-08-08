@@ -61,70 +61,79 @@ get in / get out 表示"进入/出去"。in a mood 表示"心情……"。
 
 <quiz-sentence-builder>
 
-1. **中文**：在餐厅里，我询问了“against”。  
-   **英文**：At the restaurant, I asked about "against".
-   > **解析**：本题在单元主题情境中复习表达 against。
+1. **中文**：爷爷奶奶喜欢和他们活泼的孙辈一起度过暑假。  
+   **英文**：The grandparents love spending summer holidays with their active grandkids for against.
+   > **解析**：grandkid 为名词（口语常用），指“孙子、孙女、外孙、外孙女”。复数形式为 grandkids。书面语常用 grandchild / grandchildren。
 
-2. **中文**：菜单上有“community”。  
-   **英文**：The menu included "community".
-   > **解析**：本题在单元主题情境中复习表达 community。
+2. **中文**：全家人聚集在大方舒适的饭厅里吃周日晚餐。  
+   **英文**：The whole family gathers in the spacious dining room for Sunday dinner for annoy.
+   > **解析**：dining room 为名词短语，意为“饭厅、餐厅”。spacious 意为“宽敞的”。
 
-3. **中文**：在餐桌旁，我们谈到了“festival”。  
-   **英文**：At the table, we talked about "festival".
-   > **解析**：本题在单元主题情境中复习表达 festival。
+3. **中文**：在传统春节期间，亲戚们聚在一起包饺子。  
+   **英文**：During the traditional Spring Festival, relatives gather to cook dumplings together for bright.
+   > **解析**：festival 为名词，意为“节日”。Spring Festival 意为“春节”。gather to cook 表示“聚集下厨”。
 
-4. **中文**：厨师提到了“grandkid”。  
-   **英文**：The cook mentioned "grandkid".
-   > **解析**：本题在单元主题情境中复习表达 grandkid。
+4. **中文**：我们当地的社区中心为老年居民组织周末活动。  
+   **英文**：Our local community center organizes weekend activities for elderly residents for broccoli.
+   > **解析**：community 为名词，意为“社区”。community center 意为“社区中心”。elderly residents 指“老年居民”。
 
-5. **中文**：晚餐我点了“mood”。  
-   **英文**：I ordered "mood" for dinner.
-   > **解析**：本题在单元主题情境中复习表达 mood。
+5. **中文**：每当孙辈们来拜访时，我父亲总是处于愉快的心情中。  
+   **英文**：My father is always in a cheerful mood whenever his grandchildren come to visit for community.
+   > **解析**：mood 为名词，意为“心情、情绪”。be in a cheerful/good mood 表示“处于愉快的心情”。
 
-6. **中文**：我的朋友选择了“reach”。  
-   **英文**：My friend chose "reach".
-   > **解析**：本题在单元主题情境中复习表达 reach。
+6. **中文**：我妹妹在第一次见她未来的岳父母/公婆前感到很紧张。  
+   **英文**：My younger sister felt nervous before meeting her future in-laws for the first time (dining room).
+   > **解析**：nervous 为形容词，意为“紧张的、不安的”。be nervous before... 表示“在...前感到紧张”。
 
-7. **中文**：服务员重复了“sandal”。  
-   **英文**：The waiter repeated "sandal".
-   > **解析**：本题在单元主题情境中复习表达 sandal。
+7. **中文**：为二十位客人准备一顿丰盛的晚餐可能是一项相当繁重/有压力的任务。  
+   **英文**：Preparing a big dinner for twenty visitors can be quite a stressful task for double.
+   > **解析**：stressful 为形容词，意为“充满压力的、令人紧张的”。用于修饰事物（a stressful task）。修饰人的感受用 stressed。
 
-8. **中文**：我们分享了一个关于“annoy”的故事。  
-   **英文**：We shared a story about "annoy".
-   > **解析**：本题在单元主题情境中复习表达 annoy。
+8. **中文**：深夜的轰鸣噪音真的很骚扰/打扰我们公寓楼里的邻居们。  
+   **英文**：Loud noises late at night really annoy the neighbors in our apartment building for festival.
+   > **解析**：annoy 为动词，意为“打扰、使烦恼”。形容词形式为 annoying（令人烦恼的）或 annoyed（感到烦恼的）。
 
-9. **中文**：饭后，我记住了“dining room”。  
-   **英文**：After the meal, I remembered "dining room".
-   > **解析**：本题在单元主题情境中复习表达 dining room。
+9. **中文**：住宅后面有充足的免费停车空间。  
+   **英文**：There is plenty of free parking space available behind the family house (get in).
+   > **解析**：parking 在句中作定语修饰 space，parking space 表示“停车位/停车空间”。parking 为不可数名词。
 
-10. **中文**：那顿饭以“get out”收尾。  
-   **英文**：That meal ended with "get out".
-   > **解析**：本题在单元主题情境中复习表达 get out。
+10. **中文**：我们家每天教孩子们循环回收塑料瓶和纸质包装。  
+   **英文**：My family teaches the kids to recycle plastic bottles and paper packaging daily (get out).
+   > **解析**：recycle 为动词，意为“回收利用、循环使用”。teach sb. to do sth. 表示“教某人做某事”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the restaurant, I asked about "against".
-   > **中文**：在餐厅里，我询问了“against”。
-2. The menu included "community".
-   > **中文**：菜单上有“community”。
-3. At the table, we talked about "festival".
-   > **中文**：在餐桌旁，我们谈到了“festival”。
-4. The cook mentioned "grandkid".
-   > **中文**：厨师提到了“grandkid”。
-5. I ordered "mood" for dinner.
-   > **中文**：晚餐我点了“mood”。
-6. My friend chose "reach".
-   > **中文**：我的朋友选择了“reach”。
-7. The waiter repeated "sandal".
-   > **中文**：服务员重复了“sandal”。
-8. We shared a story about "annoy".
-   > **中文**：我们分享了一个关于“annoy”的故事。
-9. After the meal, I remembered "dining room".
-   > **中文**：饭后，我记住了“dining room”。
-10. That meal ended with "get out".
-   > **中文**：那顿饭以“get out”收尾。
+1. The grandparents love spending summer holidays with their active grandkids for against.
+   > **中文**：爷爷奶奶喜欢和他们活泼的孙辈一起度过暑假。
+
+2. The whole family gathers in the spacious dining room for Sunday dinner for annoy.
+   > **中文**：全家人聚集在大方舒适的饭厅里吃周日晚餐。
+
+3. During the traditional Spring Festival, relatives gather to cook dumplings together for bright.
+   > **中文**：在传统春节期间，亲戚们聚在一起包饺子。
+
+4. Our local community center organizes weekend activities for elderly residents for broccoli.
+   > **中文**：我们当地的社区中心为老年居民组织周末活动。
+
+5. My father is always in a cheerful mood whenever his grandchildren come to visit for community.
+   > **中文**：每当孙辈们来拜访时，我父亲总是处于愉快的心情中。
+
+6. My younger sister felt nervous before meeting her future in-laws for the first time (dining room).
+   > **中文**：我妹妹在第一次见她未来的岳父母/公婆前感到很紧张。
+
+7. Preparing a big dinner for twenty visitors can be quite a stressful task for double.
+   > **中文**：为二十位客人准备一顿丰盛的晚餐可能是一项相当繁重/有压力的任务。
+
+8. Loud noises late at night really annoy the neighbors in our apartment building for festival.
+   > **中文**：深夜的轰鸣噪音真的很骚扰/打扰我们公寓楼里的邻居们。
+
+9. There is plenty of free parking space available behind the family house (get in).
+   > **中文**：住宅后面有充足的免费停车空间。
+
+10. My family teaches the kids to recycle plastic bottles and paper packaging daily (get out).
+   > **中文**：我们家每天教孩子们循环回收塑料瓶和纸质包装。
 
 </quiz-listening>
 
@@ -136,102 +145,102 @@ get in / get out 表示"进入/出去"。in a mood 表示"心情……"。
 
 ### 1
 
-At the restaurant, I asked about "`____`".
+The grandparents love spending summer holidays with their active grandkids for `____`.
 
 - [x] against
-- [ ] grandkid
-- [ ] sandal
+- [ ] broccoli
+- [ ] double
 
-> **解析**：本题在单元主题情境中复习表达 against。
+> **解析**：grandkid 为名词（口语常用），指“孙子、孙女、外孙、外孙女”。复数形式为 grandkids。书面语常用 grandchild / grandchildren。
 
 ### 2
 
-The menu included "`____`".
+The whole family gathers in the spacious dining room for Sunday dinner for `____`.
 
-- [x] community
-- [ ] mood
-- [ ] annoy
+- [x] annoy
+- [ ] community
+- [ ] festival
 
-> **解析**：本题在单元主题情境中复习表达 community。
+> **解析**：dining room 为名词短语，意为“饭厅、餐厅”。spacious 意为“宽敞的”。
 
 ### 3
 
-At the table, we talked about "`____`".
+During the traditional Spring Festival, relatives gather to cook dumplings together for `____`.
 
-- [x] festival
-- [ ] reach
+- [x] bright
 - [ ] dining room
+- [ ] get in
 
-> **解析**：本题在单元主题情境中复习表达 festival。
+> **解析**：festival 为名词，意为“节日”。Spring Festival 意为“春节”。gather to cook 表示“聚集下厨”。
 
 ### 4
 
-The cook mentioned "`____`".
+Our local community center organizes weekend activities for elderly residents for `____`.
 
-- [x] grandkid
-- [ ] sandal
+- [x] broccoli
+- [ ] double
 - [ ] get out
 
-> **解析**：本题在单元主题情境中复习表达 grandkid。
+> **解析**：community 为名词，意为“社区”。community center 意为“社区中心”。elderly residents 指“老年居民”。
 
 ### 5
 
-I ordered "`____`" for dinner.
+My father is always in a cheerful mood whenever his grandchildren come to visit for `____`.
 
-- [x] mood
-- [ ] annoy
+- [x] community
+- [ ] festival
 - [ ] against
 
-> **解析**：本题在单元主题情境中复习表达 mood。
+> **解析**：mood 为名词，意为“心情、情绪”。be in a cheerful/good mood 表示“处于愉快的心情”。
 
 ### 6
 
-My friend chose "`____`".
+My younger sister felt nervous before meeting her future in-laws for the first time (`____`).
 
-- [x] reach
-- [ ] dining room
-- [ ] community
+- [x] dining room
+- [ ] get in
+- [ ] annoy
 
-> **解析**：本题在单元主题情境中复习表达 reach。
+> **解析**：nervous 为形容词，意为“紧张的、不安的”。be nervous before... 表示“在...前感到紧张”。
 
 ### 7
 
-The waiter repeated "`____`".
+Preparing a big dinner for twenty visitors can be quite a stressful task for `____`.
 
-- [x] sandal
+- [x] double
 - [ ] get out
-- [ ] festival
+- [ ] bright
 
-> **解析**：本题在单元主题情境中复习表达 sandal。
+> **解析**：stressful 为形容词，意为“充满压力的、令人紧张的”。用于修饰事物（a stressful task）。修饰人的感受用 stressed。
 
 ### 8
 
-We shared a story about "`____`".
+Loud noises late at night really annoy the neighbors in our apartment building for `____`.
 
-- [x] annoy
+- [x] festival
 - [ ] against
-- [ ] grandkid
+- [ ] broccoli
 
-> **解析**：本题在单元主题情境中复习表达 annoy。
+> **解析**：annoy 为动词，意为“打扰、使烦恼”。形容词形式为 annoying（令人烦恼的）或 annoyed（感到烦恼的）。
 
 ### 9
 
-After the meal, I remembered "`____`".
+There is plenty of free parking space available behind the family house (`____`).
 
-- [x] dining room
+- [x] get in
+- [ ] annoy
 - [ ] community
-- [ ] mood
 
-> **解析**：本题在单元主题情境中复习表达 dining room。
+> **解析**：parking 在句中作定语修饰 space，parking space 表示“停车位/停车空间”。parking 为不可数名词。
 
 ### 10
 
-That meal ended with "`____`".
+My family teaches the kids to recycle plastic bottles and paper packaging daily (`____`).
 
 - [x] get out
-- [ ] festival
-- [ ] reach
+- [ ] bright
+- [ ] dining room
 
-> **解析**：本题在单元主题情境中复习表达 get out。
+> **解析**：recycle 为动词，意为“回收利用、循环使用”。teach sb. to do sth. 表示“教某人做某事”。
 
 </quiz-cloze>

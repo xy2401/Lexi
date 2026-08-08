@@ -63,70 +63,79 @@ beneath, block, dashboard, frustrating, get a hold of, go wrong, in a row, keep 
 
 <quiz-sentence-builder>
 
-1. **中文**：在机场，我听到了“beneath”。  
-   **英文**：At the airport, I heard "beneath".
-   > **解析**：本题在单元主题情境中复习表达 beneath。
+1. **中文**：我要迟到了，因为早晨的交通比平时拥堵得多。  
+   **英文**：I am running late because the morning traffic was far heavier than usual for beneath.
+   > **解析**：`be running late` 是口语高频短语，意为“迟到、赶时间”，表示正在走向迟到的状态。
 
-2. **中文**：我的旅伴解释了“get a hold of”。  
-   **英文**：My travel partner explained "get a hold of".
-   > **解析**：本题在单元主题情境中复习表达 get a hold of。
+2. **中文**：长话短说，我的车坏了，我不得不坐公交车。  
+   **英文**：Long story short, my car broke down and I had to take a bus for block.
+   > **解析**：`long story short` 是习惯口语短语，意为“长话短说、长话短说总而言之”，常作为句首插入语。
 
-3. **中文**：旅行途中，我们谈到了“keep you waiting”。  
-   **英文**：During the trip, we talked about "keep you waiting".
-   > **解析**：本题在单元主题情境中复习表达 keep you waiting。
+3. **中文**：非常抱歉让你在寒风中等了我半个多小时。  
+   **英文**：I am so sorry to keep you waiting for over half an hour in the cold for dashboard.
+   > **解析**：`keep sb. waiting` 是习惯搭配，意为“让某人久等”，动词 `keep` 后接“人 + 现在分词”。
 
-4. **中文**：在酒店里，我记下了“long story short”。  
-   **英文**：At the hotel, I wrote down "long story short".
-   > **解析**：本题在单元主题情境中复习表达 long story short。
+4. **中文**：轮胎爆裂时，司机不得不把车停靠到路肩上。  
+   **英文**：The driver had to pull over onto the shoulder when the tire popped for frustrating.
+   > **解析**：`pull over` 是动词短语，意为“（驾驶车辆）靠边停车”。
 
-5. **中文**：旅行者清楚地重复了“pedal”。  
-   **英文**：The traveler repeated "pedal" clearly.
-   > **解析**：本题在单元主题情境中复习表达 pedal。
+5. **中文**：我在处理这份紧急项目报告时完全忘记了时间。  
+   **英文**：I completely lost track of time while working on the urgent project report (get a hold of).
+   > **解析**：`lose track of time` 是固定短语，意为“失去对时间的注意、忘记时间”。
 
-6. **中文**：离开前，我查看了“running late”。  
-   **英文**：Before leaving, I checked "running late".
-   > **解析**：本题在单元主题情境中复习表达 running late。
+6. **中文**：这是一个令人非常沮丧的早晨，因为所有可能出差错的事情都出错了。  
+   **英文**：It was a very frustrating morning because everything that could go wrong did go wrong.
+   > **解析**：`frustrating` 是形容词，意为“令人沮丧的、令人气馁的”，修饰事物或处境。
 
-7. **中文**：在去那里的路上，我们用到了“trip”。  
-   **英文**：On the way there, we used "trip".
-   > **解析**：本题在单元主题情境中复习表达 trip。
+7. **中文**：在主干道上撞到一个深坑导致我的自行车轮胎扁了。  
+   **英文**：Hitting a deep pothole on the main road caused a flat tire on my bicycle (in a row).
+   > **解析**：`pothole` 指路面上的“坑洼、坑洞”，由 `pot` + `hole` 构成。
 
-8. **中文**：到达后，我想起了“block”。  
-   **英文**：After arrival, I remembered "block".
-   > **解析**：本题在单元主题情境中复习表达 block。
+8. **中文**：我试图联系上你，但你的手机关机了。  
+   **英文**：I tried to get a hold of you, but your mobile phone was turned off (keep you waiting).
+   > **解析**：`get a hold of sb.` 是口语短语，意为“联系上某人、找到某人”。
 
-9. **中文**：导游指出了“go wrong”。  
-   **英文**：The guide pointed out "go wrong".
-   > **解析**：本题在单元主题情境中复习表达 go wrong。
+9. **中文**：从早晨闹钟没响的那一刻起，似乎一切事情都出差错。  
+   **英文**：Everything seemed to go wrong from the moment my morning alarm failed to ring for leak.
+   > **解析**：`go wrong` 是动词短语，意为“出差错、出故障”。
 
-10. **中文**：那段旅行故事以“long”收尾。  
-   **英文**：That travel story ended with "long".
-   > **解析**：本题在单元主题情境中复习表达 long。
+10. **中文**：别担心，我已经在路上了，应该十分钟内到达。  
+   **英文**：Don't worry, I am already on my way and should arrive in ten minutes for long.
+   > **解析**：`be on one's way` 是固定短语，意为“在路上、正赶去”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the airport, I heard "beneath".
-   > **中文**：在机场，我听到了“beneath”。
-2. My travel partner explained "get a hold of".
-   > **中文**：我的旅伴解释了“get a hold of”。
-3. During the trip, we talked about "keep you waiting".
-   > **中文**：旅行途中，我们谈到了“keep you waiting”。
-4. At the hotel, I wrote down "long story short".
-   > **中文**：在酒店里，我记下了“long story short”。
-5. The traveler repeated "pedal" clearly.
-   > **中文**：旅行者清楚地重复了“pedal”。
-6. Before leaving, I checked "running late".
-   > **中文**：离开前，我查看了“running late”。
-7. On the way there, we used "trip".
-   > **中文**：在去那里的路上，我们用到了“trip”。
-8. After arrival, I remembered "block".
-   > **中文**：到达后，我想起了“block”。
-9. The guide pointed out "go wrong".
-   > **中文**：导游指出了“go wrong”。
-10. That travel story ended with "long".
-   > **中文**：那段旅行故事以“long”收尾。
+1. I am running late because the morning traffic was far heavier than usual for beneath.
+   > **中文**：我要迟到了，因为早晨的交通比平时拥堵得多。
+
+2. Long story short, my car broke down and I had to take a bus for block.
+   > **中文**：长话短说，我的车坏了，我不得不坐公交车。
+
+3. I am so sorry to keep you waiting for over half an hour in the cold for dashboard.
+   > **中文**：非常抱歉让你在寒风中等了我半个多小时。
+
+4. The driver had to pull over onto the shoulder when the tire popped for frustrating.
+   > **中文**：轮胎爆裂时，司机不得不把车停靠到路肩上。
+
+5. I completely lost track of time while working on the urgent project report (get a hold of).
+   > **中文**：我在处理这份紧急项目报告时完全忘记了时间。
+
+6. It was a very frustrating morning because everything that could go wrong did go wrong.
+   > **中文**：这是一个令人非常沮丧的早晨，因为所有可能出差错的事情都出错了。
+
+7. Hitting a deep pothole on the main road caused a flat tire on my bicycle (in a row).
+   > **中文**：在主干道上撞到一个深坑导致我的自行车轮胎扁了。
+
+8. I tried to get a hold of you, but your mobile phone was turned off (keep you waiting).
+   > **中文**：我试图联系上你，但你的手机关机了。
+
+9. Everything seemed to go wrong from the moment my morning alarm failed to ring for leak.
+   > **中文**：从早晨闹钟没响的那一刻起，似乎一切事情都出差错。
+
+10. Don't worry, I am already on my way and should arrive in ten minutes for long.
+   > **中文**：别担心，我已经在路上了，应该十分钟内到达。
 
 </quiz-listening>
 
@@ -138,102 +147,102 @@ beneath, block, dashboard, frustrating, get a hold of, go wrong, in a row, keep 
 
 ### 1
 
-At the airport, I heard "`____`".
+I am running late because the morning traffic was far heavier than usual for `____`.
 
 - [x] beneath
-- [ ] long story short
-- [ ] trip
+- [ ] frustrating
+- [ ] in a row
 
-> **解析**：本题在单元主题情境中复习表达 beneath。
+> **解析**：`be running late` 是口语高频短语，意为“迟到、赶时间”，表示正在走向迟到的状态。
 
 ### 2
 
-My travel partner explained "`____`".
+Long story short, my car broke down and I had to take a bus for `____`.
 
-- [x] get a hold of
-- [ ] pedal
-- [ ] block
+- [x] block
+- [ ] get a hold of
+- [ ] keep you waiting
 
-> **解析**：本题在单元主题情境中复习表达 get a hold of。
+> **解析**：`long story short` 是习惯口语短语，意为“长话短说、长话短说总而言之”，常作为句首插入语。
 
 ### 3
 
-During the trip, we talked about "`____`".
+I am so sorry to keep you waiting for over half an hour in the cold for `____`.
 
-- [x] keep you waiting
-- [ ] running late
+- [x] dashboard
 - [ ] go wrong
+- [ ] leak
 
-> **解析**：本题在单元主题情境中复习表达 keep you waiting。
+> **解析**：`keep sb. waiting` 是习惯搭配，意为“让某人久等”，动词 `keep` 后接“人 + 现在分词”。
 
 ### 4
 
-At the hotel, I wrote down "`____`".
+The driver had to pull over onto the shoulder when the tire popped for `____`.
 
-- [x] long story short
-- [ ] trip
+- [x] frustrating
+- [ ] in a row
 - [ ] long
 
-> **解析**：本题在单元主题情境中复习表达 long story short。
+> **解析**：`pull over` 是动词短语，意为“（驾驶车辆）靠边停车”。
 
 ### 5
 
-The traveler repeated "`____`" clearly.
+I completely lost track of time while working on the urgent project report (`____`).
 
-- [x] pedal
-- [ ] block
+- [x] get a hold of
+- [ ] keep you waiting
 - [ ] beneath
 
-> **解析**：本题在单元主题情境中复习表达 pedal。
+> **解析**：`lose track of time` 是固定短语，意为“失去对时间的注意、忘记时间”。
 
 ### 6
 
-Before leaving, I checked "`____`".
+It was a very frustrating morning because everything that could `____` did go wrong.
 
-- [x] running late
-- [ ] go wrong
-- [ ] get a hold of
+- [x] go wrong
+- [ ] leak
+- [ ] block
 
-> **解析**：本题在单元主题情境中复习表达 running late。
+> **解析**：`frustrating` 是形容词，意为“令人沮丧的、令人气馁的”，修饰事物或处境。
 
 ### 7
 
-On the way there, we used "`____`".
+Hitting a deep pothole on the main road caused a flat tire on my bicycle (`____`).
 
-- [x] trip
+- [x] in a row
 - [ ] long
-- [ ] keep you waiting
+- [ ] dashboard
 
-> **解析**：本题在单元主题情境中复习表达 trip。
+> **解析**：`pothole` 指路面上的“坑洼、坑洞”，由 `pot` + `hole` 构成。
 
 ### 8
 
-After arrival, I remembered "`____`".
+I tried to get a hold of you, but your mobile phone was turned off (`____`).
 
-- [x] block
+- [x] keep you waiting
 - [ ] beneath
-- [ ] long story short
+- [ ] frustrating
 
-> **解析**：本题在单元主题情境中复习表达 block。
+> **解析**：`get a hold of sb.` 是口语短语，意为“联系上某人、找到某人”。
 
 ### 9
 
-The guide pointed out "`____`".
+Everything seemed to go wrong from the moment my morning alarm failed to ring for `____`.
 
-- [x] go wrong
+- [x] leak
+- [ ] block
 - [ ] get a hold of
-- [ ] pedal
 
-> **解析**：本题在单元主题情境中复习表达 go wrong。
+> **解析**：`go wrong` 是动词短语，意为“出差错、出故障”。
 
 ### 10
 
-That travel story ended with "`____`".
+Don't worry, I am already on my way and should arrive in ten minutes for `____`.
 
 - [x] long
-- [ ] keep you waiting
-- [ ] running late
+- [ ] dashboard
+- [ ] go wrong
 
-> **解析**：本题在单元主题情境中复习表达 long。
+> **解析**：`be on one's way` 是固定短语，意为“在路上、正赶去”。
 
 </quiz-cloze>

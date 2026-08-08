@@ -79,70 +79,79 @@ tell on（告状）、see through（看穿）、it wasn't me（不是我）是�
 
 <quiz-sentence-builder>
 
-1. **中文**：在家里，我们谈到了“a thing”。  
-   **英文**：At home, we talked about "a thing".
-   > **解析**：本题在单元主题情境中复习表达 a thing。
+1. **中文**：如果你把鞋留在地板上，肯定会有人被绊倒的。  
+   **英文**：If you leave your shoes on the floor, someone is bound to trip over them (a thing).
+   > **解析**：`be bound to do sth` 是固定短语，意为“必然做某事、注定会发生”。
 
-2. **中文**：家人提到了“call”。  
-   **英文**：My family mentioned "call".
-   > **解析**：本题在单元主题情境中复习表达 call。
+2. **中文**：不要把这样的小错夸大成什么大事。  
+   **英文**：Don't make a big deal out of such a minor mistake.
+   > **解析**：`make a big deal out of sth` 是常用短语，意为“把某事当作大事/夸大其词”。
 
-3. **中文**：在房间里，我注意到了“go ahead”。  
-   **英文**：In the room, I noticed "go ahead".
-   > **解析**：本题在单元主题情境中复习表达 go ahead。
+3. **中文**：我弟弟威胁说，如果我不分给他零食，他就去向父母告状。  
+   **英文**：My younger brother threatened to tell on me if I didn't share my snack (bound to).
+   > **解析**：`tell on sb` 是儿童/口语常用短语，意为“告状、打小报告”。
 
-4. **中文**：我们在家里用到了“it wasn't me”。  
-   **英文**：We used "it wasn't me" at home.
-   > **解析**：本题在单元主题情境中复习表达 it wasn't me。
+4. **中文**：我绝不会容忍你在客人面前的无礼行为。  
+   **英文**：I will not tolerate your rude behavior in front of our guests (bump into).
+   > **解析**：`tolerate` 作及物动词，意为“容忍、忍受”，后接宾语 `your rude behavior`。
 
-5. **中文**：邻居询问了“my apologies”。  
-   **英文**：My neighbor asked about "my apologies".
-   > **解析**：本题在单元主题情境中复习表达 my apologies。
+5. **中文**：我最喜欢的毛衣一夜之间从衣柜里彻底失踪了。  
+   **英文**：My favorite sweater completely vanished from the closet overnight for call.
+   > **解析**：`vanish` 是不及物动词，意为“突然消失、失踪”。
 
-6. **中文**：我在门边写下了“see through”。  
-   **英文**：I wrote down "see through" by the door.
-   > **解析**：本题在单元主题情境中复习表达 see through。
+6. **中文**：你没打招呼就借走我的车，到底是怎么想的？  
+   **英文**：What in the world were you thinking when you borrowed my car without asking? for chew.
+   > **解析**：`what in the world` 用于感叹或疑问句中加强语气，意为“到底、究竟”。
 
-7. **中文**：晚饭后，我们重复了“tons of”。  
-   **英文**：After dinner, we repeated "tons of".
-   > **解析**：本题在单元主题情境中复习表达 tons of。
+7. **中文**：既然他忘了你的生日，你不必为忘记他的生日而自责。  
+   **英文**：You shouldn't feel bad about forgetting his birthday since he forgot yours.
+   > **解析**：`feel bad about sth/doing sth` 意为“对某事感到内疚/难过”。
 
-8. **中文**：家庭故事里包含“big deal”。  
-   **英文**：The family story included "big deal".
-   > **解析**：本题在单元主题情境中复习表达 big deal。
+8. **中文**：她能轻易看穿她弟弟那拙劣的借口。  
+   **英文**：She could easily see through her brother's weak excuse (go ahead).
+   > **解析**：`see through sth/sb` 是短语动词，意为“看穿、识破（谎言/借口）”。
 
-9. **中文**：睡前，我记住了“chew”。  
-   **英文**：Before bed, I remembered "chew".
-   > **解析**：本题在单元主题情境中复习表达 chew。
+9. **中文**：露营回来后，我们有一大堆衣服要洗。  
+   **英文**：We have tons of laundry to do after coming back from the camping trip for gum.
+   > **解析**：`tons of` 是口语短语，意为“大量的、许许多多的”，修饰名词。
 
-10. **中文**：那个夜晚以“hear”收尾。  
-   **英文**：That evening ended with "hear".
-   > **解析**：本题在单元主题情境中复习表达 hear。
+10. **中文**：猜猜我今天在当地超市偶遇了谁！  
+   **英文**：Guess who I bumped into at the local supermarket today for hear.
+   > **解析**：`bump into sb` 是短语动词，意为“偶遇、无意中碰到某人”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At home, we talked about "a thing".
-   > **中文**：在家里，我们谈到了“a thing”。
-2. My family mentioned "call".
-   > **中文**：家人提到了“call”。
-3. In the room, I noticed "go ahead".
-   > **中文**：在房间里，我注意到了“go ahead”。
-4. We used "it wasn't me" at home.
-   > **中文**：我们在家里用到了“it wasn't me”。
-5. My neighbor asked about "my apologies".
-   > **中文**：邻居询问了“my apologies”。
-6. I wrote down "see through" by the door.
-   > **中文**：我在门边写下了“see through”。
-7. After dinner, we repeated "tons of".
-   > **中文**：晚饭后，我们重复了“tons of”。
-8. The family story included "big deal".
-   > **中文**：家庭故事里包含“big deal”。
-9. Before bed, I remembered "chew".
-   > **中文**：睡前，我记住了“chew”。
-10. That evening ended with "hear".
-   > **中文**：那个夜晚以“hear”收尾。
+1. If you leave your shoes on the floor, someone is bound to trip over them (a thing).
+   > **中文**：如果你把鞋留在地板上，肯定会有人被绊倒的。
+
+2. Don't make a big deal out of such a minor mistake.
+   > **中文**：不要把这样的小错夸大成什么大事。
+
+3. My younger brother threatened to tell on me if I didn't share my snack (bound to).
+   > **中文**：我弟弟威胁说，如果我不分给他零食，他就去向父母告状。
+
+4. I will not tolerate your rude behavior in front of our guests (bump into).
+   > **中文**：我绝不会容忍你在客人面前的无礼行为。
+
+5. My favorite sweater completely vanished from the closet overnight for call.
+   > **中文**：我最喜欢的毛衣一夜之间从衣柜里彻底失踪了。
+
+6. What in the world were you thinking when you borrowed my car without asking? for chew.
+   > **中文**：你没打招呼就借走我的车，到底是怎么想的？
+
+7. You shouldn't feel bad about forgetting his birthday since he forgot yours.
+   > **中文**：既然他忘了你的生日，你不必为忘记他的生日而自责。
+
+8. She could easily see through her brother's weak excuse (go ahead).
+   > **中文**：她能轻易看穿她弟弟那拙劣的借口。
+
+9. We have tons of laundry to do after coming back from the camping trip for gum.
+   > **中文**：露营回来后，我们有一大堆衣服要洗。
+
+10. Guess who I bumped into at the local supermarket today for hear.
+   > **中文**：猜猜我今天在当地超市偶遇了谁！
 
 </quiz-listening>
 
@@ -154,102 +163,102 @@ tell on（告状）、see through（看穿）、it wasn't me（不是我）是�
 
 ### 1
 
-At home, we talked about "`____`".
+If you leave your shoes on the floor, someone is bound to trip over them (`____`).
 
 - [x] a thing
-- [ ] it wasn't me
-- [ ] tons of
+- [ ] bump into
+- [ ] feel bad about
 
-> **解析**：本题在单元主题情境中复习表达 a thing。
+> **解析**：`be bound to do sth` 是固定短语，意为“必然做某事、注定会发生”。
 
 ### 2
 
-My family mentioned "`____`".
+Don't make a `____` out of such a minor mistake.
 
-- [x] call
-- [ ] my apologies
-- [ ] big deal
+- [x] big deal
+- [ ] call
+- [ ] go ahead
 
-> **解析**：本题在单元主题情境中复习表达 call。
+> **解析**：`make a big deal out of sth` 是常用短语，意为“把某事当作大事/夸大其词”。
 
 ### 3
 
-In the room, I noticed "`____`".
+My younger brother threatened to tell on me if I didn't share my snack (`____`).
 
-- [x] go ahead
-- [ ] see through
+- [x] bound to
 - [ ] chew
+- [ ] gum
 
-> **解析**：本题在单元主题情境中复习表达 go ahead。
+> **解析**：`tell on sb` 是儿童/口语常用短语，意为“告状、打小报告”。
 
 ### 4
 
-We used "`____`" at home.
+I will not tolerate your rude behavior in front of our guests (`____`).
 
-- [x] it wasn't me
-- [ ] tons of
+- [x] bump into
+- [ ] feel bad about
 - [ ] hear
 
-> **解析**：本题在单元主题情境中复习表达 it wasn't me。
+> **解析**：`tolerate` 作及物动词，意为“容忍、忍受”，后接宾语 `your rude behavior`。
 
 ### 5
 
-My neighbor asked about "`____`".
+My favorite sweater completely vanished from the closet overnight for `____`.
 
-- [x] my apologies
-- [ ] big deal
+- [x] call
+- [ ] go ahead
 - [ ] a thing
 
-> **解析**：本题在单元主题情境中复习表达 my apologies。
+> **解析**：`vanish` 是不及物动词，意为“突然消失、失踪”。
 
 ### 6
 
-I wrote down "`____`" by the door.
+What in the world were you thinking when you borrowed my car without asking? for `____`.
 
-- [x] see through
-- [ ] chew
-- [ ] call
+- [x] chew
+- [ ] gum
+- [ ] big deal
 
-> **解析**：本题在单元主题情境中复习表达 see through。
+> **解析**：`what in the world` 用于感叹或疑问句中加强语气，意为“到底、究竟”。
 
 ### 7
 
-After dinner, we repeated "`____`".
+You shouldn't `____` forgetting his birthday since he forgot yours.
 
-- [x] tons of
+- [x] feel bad about
 - [ ] hear
-- [ ] go ahead
+- [ ] bound to
 
-> **解析**：本题在单元主题情境中复习表达 tons of。
+> **解析**：`feel bad about sth/doing sth` 意为“对某事感到内疚/难过”。
 
 ### 8
 
-The family story included "`____`".
+She could easily see through her brother's weak excuse (`____`).
 
-- [x] big deal
+- [x] go ahead
 - [ ] a thing
-- [ ] it wasn't me
+- [ ] bump into
 
-> **解析**：本题在单元主题情境中复习表达 big deal。
+> **解析**：`see through sth/sb` 是短语动词，意为“看穿、识破（谎言/借口）”。
 
 ### 9
 
-Before bed, I remembered "`____`".
+We have tons of laundry to do after coming back from the camping trip for `____`.
 
-- [x] chew
+- [x] gum
+- [ ] big deal
 - [ ] call
-- [ ] my apologies
 
-> **解析**：本题在单元主题情境中复习表达 chew。
+> **解析**：`tons of` 是口语短语，意为“大量的、许许多多的”，修饰名词。
 
 ### 10
 
-That evening ended with "`____`".
+Guess who I bumped into at the local supermarket today for `____`.
 
 - [x] hear
-- [ ] go ahead
-- [ ] see through
+- [ ] bound to
+- [ ] chew
 
-> **解析**：本题在单元主题情境中复习表达 hear。
+> **解析**：`bump into sb` 是短语动词，意为“偶遇、无意中碰到某人”。
 
 </quiz-cloze>
