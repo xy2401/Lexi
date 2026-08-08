@@ -55,7 +55,7 @@ Chinese, English, book
 1. `<quiz-pronunciation-match>`：空标签，读取共享词表生成至少十道发音配对。
 2. `<quiz-pronunciation-spell>`：空标签，读取共享词表生成至少十道发音填写。
 3. `<quiz-translation-choice>`：空标签，读取共享词表与本地 ECDICT 生成至少十道中文选词。
-4. `<quiz-sentence-builder>`：十个显式中英文句对和简短解析。
+4. `<quiz-sentence-builder>`：十个带编号的中英文句对，每题配有深度语法与句法解析。
 5. `<quiz-listening>`：恰好十道同一主题微场景的听音辨句。
 6. `<quiz-matching>`：空标签时读取共享词表与 ECDICT 生成十组配对；显式表格也至少十组。
 7. `<quiz-cloze>`：十道一空三选项的填空题，每题只有一个正确项。
@@ -71,7 +71,7 @@ Chinese, English, book
 ## 4. 微场景规则
 
 - Listening 固定十句，每句都必须有自然中文翻译。
-- 五句描述同一小场景，英文不得重复，并覆盖至少五个不同的本单元词条或短语。
+- 十句英文不得重复，必须覆盖至少 10 个不同的本单元词条或短语。
 - 优先改编单元讲解和 Tips 中已有的可靠例句。
 - 允许基础功能词、合理词形变化和支持场景衔接的常用表达；避免无关高级词汇。
 - Sentence Builder 必须原样复用 Listening 中的十句，中英文均保持一致。
@@ -85,10 +85,9 @@ Chinese, English, book
 ```markdown
 <quiz-sentence-builder>
 
-**中文**：我喜欢我的书。  
-**英文**：I like my book.
-
-> **解析**：like 后直接接喜欢的对象。
+1. **中文**：我喜欢我的书。  
+   **英文**：I like my book.
+   > **解析**：**like** 是及物动词，后直接接宾语，不需要介词；my 是第一人称单数物主代词，修饰名词 book。
 
 </quiz-sentence-builder>
 ```
