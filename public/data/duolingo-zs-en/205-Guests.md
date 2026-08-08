@@ -232,7 +232,7 @@ We are going to watch a romantic ____ in the theater.
 - [ ] be friends with
 - [ ] copy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**scene** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -242,7 +242,7 @@ It's good to be friends with an old ____.
 - [ ] be friends with
 - [ ] copy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**poet** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -252,7 +252,7 @@ ____ will be served during the twenty minute intermission.
 - [ ] be friends with
 - [ ] copy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Refreshments**。
 
 ### 4
 
@@ -262,7 +262,7 @@ Oh my gosh, this is a marvelous literary ____!
 - [ ] be friends with
 - [ ] copy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**work** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -272,7 +272,7 @@ You are supposed to read the English ____ before the show.
 - [ ] be friends with
 - [ ] copy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**translation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -282,7 +282,7 @@ The actor is ____ trained to recite a famous poem.
 - [ ] be friends with
 - [ ] copy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**specially** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -292,7 +292,7 @@ Please ____ the table with a clean cloth.
 - [ ] be friends with
 - [ ] copy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cover** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 8
 
@@ -302,7 +302,7 @@ Make a ____ of the script so everyone can practice.
 - [ ] be friends with
 - [ ] cover
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**copy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -312,7 +312,7 @@ ____ you like some drinks on the balcony?
 - [ ] be friends with
 - [ ] copy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Would** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -322,7 +322,7 @@ He is going to be friends with the ____ director.
 - [ ] be friends with
 - [ ] copy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **talented**。
 
 ### 11
 
@@ -332,7 +332,7 @@ It's good to enjoy ____ after a long day of work.
 - [ ] be friends with
 - [ ] copy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **refreshments**。
 
 ### 12
 
@@ -342,7 +342,7 @@ The ____ spent years writing his final master work.
 - [ ] be friends with
 - [ ] copy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**poet** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -352,7 +352,7 @@ I am ____ to buy tickets on the official website.
 - [ ] be friends with
 - [ ] copy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **supposed**。
 
 ### 14
 
@@ -362,7 +362,7 @@ Look at the dramatic ____ on the main stage.
 - [ ] be friends with
 - [ ] copy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**scene** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -372,7 +372,7 @@ Oh my gosh, I forgot to bring the official ____!
 - [ ] be friends with
 - [ ] copy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**translation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -382,7 +382,7 @@ The seats were ____ reserved for our honored guests.
 - [ ] be friends with
 - [ ] copy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**specially** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -392,7 +392,7 @@ We can chat during the ____ in the lobby.
 - [ ] be friends with
 - [ ] copy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**intermission** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -402,7 +402,7 @@ He wrote a beautiful ____ about nature and peace.
 - [ ] be friends with
 - [ ] copy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**poem** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -412,7 +412,7 @@ ____ you please cover the computer when you finish?
 - [ ] be friends with
 - [ ] copy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Would** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -422,6 +422,6 @@ I will ____ all the files onto the USB flash drive.
 - [ ] be friends with
 - [ ] cover
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**copy** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

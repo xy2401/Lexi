@@ -244,7 +244,7 @@ In the debate, he expressed an ____ opinion.
 - [ ] ahead
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**opposite** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ I totally ____ with your opinion on media tax in prison.
 - [ ] ahead
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**disagree** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ They ____ whether it is necessary to pay to solve trouble.
 - [ ] ahead
 - [ ] at all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**argue** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ The ____ representative made up his mind to change.
 - [ ] ahead
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**chosen** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ This ____ task is extremely vital, not easy at all.
 - [ ] ahead
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **completed**。
 
 ### 6
 
@@ -294,7 +294,7 @@ After taking her helpful ____, the issue was solved.
 - [ ] ahead
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**suggestion** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ The ____ has intense discussions about who the enemy is.
 - [ ] ahead
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**media** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ Both sides ____ on how to increase the budget.
 - [ ] ahead
 - [ ] at all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**argue** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ I don't like getting into this ____ argument at all.
 - [ ] ahead
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**opinion** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ After ____ thought, he made up his mind to accept.
 - [ ] ahead
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **serious**。
 
 ### 11
 
@@ -344,7 +344,7 @@ I respect your personal ____, but I disagree.
 - [ ] ahead
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**opinion** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ Both sides held ____ views during the debate.
 - [ ] ahead
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**opposite** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ Please give a practical ____ to solve this trouble.
 - [ ] ahead
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**suggestion** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ He took this speech competition ____ seriously.
 - [ ] ahead
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**extremely** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ We have ____ all the preparation work for the event.
 - [ ] ahead
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **completed**。
 
 ### 16
 
@@ -394,7 +394,7 @@ He was ____ to be the team captain in the debate.
 - [ ] ahead
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**chosen** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ Mainstream ____ covered this social news story in detail.
 - [ ] ahead
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**media** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ When you are in ____, asking for help is smart.
 - [ ] ahead
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**trouble** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ Expressing your true ____ at the meeting is useful.
 - [ ] ahead
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**opinion** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ After the debate, they made up their ____ to take action.
 - [ ] ahead
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mind** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

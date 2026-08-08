@@ -262,7 +262,7 @@ If you don't mind me asking, what is your ____ salary?
 - [ ] at this point
 - [ ] brief
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **expected**。
 
 ### 2
 
@@ -272,7 +272,7 @@ Do you happen to know the meeting schedule for ____?
 - [ ] at this point
 - [ ] brief
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**management** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -282,7 +282,7 @@ Could you let me know the final ____ by today?
 - [ ] at this point
 - [ ] brief
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**decision** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -292,7 +292,7 @@ At this point, we are ready to ____ the contract terms.
 - [ ] at this point
 - [ ] brief
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**negotiate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -302,7 +302,7 @@ Hard work with ____ will eventually pay off.
 - [ ] at this point
 - [ ] brief
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**overtime** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -312,7 +312,7 @@ We should ____ our core duties during the project meeting.
 - [ ] at this point
 - [ ] brief
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**negotiate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -322,7 +322,7 @@ ____ of the options fits our team's current needs.
 - [ ] at this point
 - [ ] brief
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Neither** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 8
 
@@ -332,7 +332,7 @@ In my ____ as project manager, I fully support this proposal.
 - [ ] at this point
 - [ ] brief
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**capacity** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -342,7 +342,7 @@ She is a ____ accountant with years of experience.
 - [ ] at this point
 - [ ] brief
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **certified**。
 
 ### 10
 
@@ -352,7 +352,7 @@ Every employee is encouraged to ____ ideas to the project.
 - [ ] at this point
 - [ ] brief
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**contribute** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -362,7 +362,7 @@ Please ____ your expense report before Friday.
 - [ ] at this point
 - [ ] brief
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**submit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -372,7 +372,7 @@ Ensuring team safety is his primary ____.
 - [ ] at this point
 - [ ] brief
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**duty** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -382,7 +382,7 @@ ____ approved the new work schedule proposal.
 - [ ] at this point
 - [ ] brief
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Management** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -392,7 +392,7 @@ The company will ____ necessary tools for all employees.
 - [ ] at this point
 - [ ] brief
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**provide** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -402,7 +402,7 @@ After the discussion, shall we take a ____ break?
 - [ ] at this point
 - [ ] capacity
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**brief** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -412,7 +412,7 @@ Shall we start ____ the salary details?
 - [ ] at this point
 - [ ] brief
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**discussing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 17
 
@@ -422,7 +422,7 @@ No worries, we will solve this issue ____.
 - [ ] at this point
 - [ ] brief
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**together** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 18
 
@@ -432,7 +432,7 @@ There is a strong ____ of getting a salary raise.
 - [ ] at this point
 - [ ] brief
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**possibility** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -442,7 +442,7 @@ You don't need to worry about the tight ____.
 - [ ] at this point
 - [ ] brief
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**deadline** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -452,6 +452,6 @@ Either of the two ____ can handle this new role.
 - [ ] at this point
 - [ ] brief
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **candidates**。
 
 </quiz-cloze>

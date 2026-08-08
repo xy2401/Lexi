@@ -234,7 +234,7 @@ You should turn off the air ____ before leaving the bedroom.
 - [ ] air conditioner
 - [ ] bucket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**conditioner** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 2
 
@@ -244,7 +244,7 @@ Grab a plastic ____ to catch the water dripping from the ceiling.
 - [ ] air conditioner
 - [ ] cupboard
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bucket** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -254,7 +254,7 @@ Put the clean dishes away in the upper kitchen ____.
 - [ ] air conditioner
 - [ ] bucket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cupboard** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -264,7 +264,7 @@ We need to ____ a hole in the garden for the fence post.
 - [ ] air conditioner
 - [ ] bucket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dig** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -274,7 +274,7 @@ Always call a licensed electrician for complex ____ repairs.
 - [ ] air conditioner
 - [ ] bucket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**electrical** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -284,7 +284,7 @@ If the kitchen ____ is dripping, you ought to replace the rubber washer.
 - [ ] air conditioner
 - [ ] bucket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**faucet** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -294,7 +294,7 @@ The ____ hallway is about six feet wide and very spacious.
 - [ ] air conditioner
 - [ ] bucket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**entrance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -304,7 +304,7 @@ Measure the space carefully to make sure the new refrigerator will ____.
 - [ ] air conditioner
 - [ ] bucket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -314,7 +314,7 @@ He selected a sturdy wooden ____ to hang the family photo.
 - [ ] air conditioner
 - [ ] bucket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**frame** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -324,7 +324,7 @@ You must turn off the ____ supply before fixing the stove.
 - [ ] air conditioner
 - [ ] bucket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gas** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -334,7 +334,7 @@ I would have ____ the light fixture myself if I had a ladder.
 - [ ] air conditioner
 - [ ] bucket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **installed**。
 
 ### 12
 
@@ -344,7 +344,7 @@ This ____ board is only three inches wide, which is too narrow for a shelf.
 - [ ] air conditioner
 - [ ] bucket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wooden** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -354,7 +354,7 @@ We need to ____ a new light bulb in the hallway lamp.
 - [ ] air conditioner
 - [ ] bucket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**install** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -364,7 +364,7 @@ A leaking ____ pipe under the sink caused minor flooding in the kitchen.
 - [ ] air conditioner
 - [ ] bucket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**water** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -374,7 +374,7 @@ This ____ beam is long enough to support the living room roof.
 - [ ] air conditioner
 - [ ] bucket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**metal** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -384,7 +384,7 @@ How ____ is the floor lamp in the living room corner?
 - [ ] air conditioner
 - [ ] bucket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tall** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -394,7 +394,7 @@ You need to clean the ____ stains on the wall after fixing the leak.
 - [ ] air conditioner
 - [ ] bucket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**water** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -404,7 +404,7 @@ She would have shut off the main valve if she had known about the burst ____ ear
 - [ ] air conditioner
 - [ ] bucket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pipe** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -414,7 +414,7 @@ Would she have called a plumber if the ____ had been clogged?
 - [ ] air conditioner
 - [ ] bucket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pipe** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -424,6 +424,6 @@ What would you have done if you found ____ in the basement?
 - [ ] air conditioner
 - [ ] bucket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**moisture** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

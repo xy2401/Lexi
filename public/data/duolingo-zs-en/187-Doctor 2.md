@@ -236,7 +236,7 @@ He twisted his right ____ while playing basketball.
 - [ ] ache
 - [ ] be
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ankle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -246,7 +246,7 @@ The deep cut ____ for a few minutes before stopping.
 - [ ] ache
 - [ ] ankle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bled** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -256,7 +256,7 @@ The child woke up with a painful ____ last night.
 - [ ] ache
 - [ ] ankle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**earache** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -266,7 +266,7 @@ Make sure your health ____ covers emergency visits.
 - [ ] ache
 - [ ] ankle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**insurance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -276,7 +276,7 @@ He did not ____ himself during the bicycle fall.
 - [ ] ache
 - [ ] ankle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**injure** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -286,7 +286,7 @@ The kind doctor examined the ____ carefully.
 - [ ] ache
 - [ ] ankle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**patient** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -296,7 +296,7 @@ The ____ woman visited the clinic for a checkup.
 - [ ] ache
 - [ ] ankle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pregnant** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -306,7 +306,7 @@ She made a formal ____ for her medical records.
 - [ ] ache
 - [ ] ankle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**request** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -316,7 +316,7 @@ I need to ____ my doctor appointment for Friday.
 - [ ] ache
 - [ ] ankle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reschedule** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -326,7 +326,7 @@ Surgeons worked hard to ____ the patient's life.
 - [ ] ache
 - [ ] ankle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**save** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -336,7 +336,7 @@ Apply the soothing cream to dry ____ twice daily.
 - [ ] ache
 - [ ] ankle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**skin** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -346,7 +346,7 @@ The knee ____ was successful and took two hours.
 - [ ] ache
 - [ ] ankle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**surgery** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -356,7 +356,7 @@ A high fever is a common ____ of the flu.
 - [ ] ache
 - [ ] ankle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**symptom** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -366,7 +366,7 @@ He cut his ____ while chopping vegetables in kitchen.
 - [ ] ache
 - [ ] ankle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**thumb** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -376,7 +376,7 @@ The doctor prescribed effective ____ for the illness.
 - [ ] ache
 - [ ] ankle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**treatment** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -386,7 +386,7 @@ She felt very ____ after recovering from the fever.
 - [ ] ache
 - [ ] ankle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**weak** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -396,7 +396,7 @@ The ____ used a wheelchair to move around clinic.
 - [ ] ache
 - [ ] ankle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**patient** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -406,7 +406,7 @@ Patients have to ____ careful after taking this medication.
 - [ ] ache
 - [ ] ankle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**be** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -416,7 +416,7 @@ Medical tools need to ____ sterilized before surgery.
 - [ ] ache
 - [ ] ankle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**be** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -426,6 +426,6 @@ You will ____ feeling much better after a night's rest.
 - [ ] ache
 - [ ] ankle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**be** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

@@ -236,7 +236,7 @@ The ____ sat quietly in the back seat during drive.
 - [ ] back seat
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**children** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -246,7 +246,7 @@ He hit the ____ quickly to avoid the obstacle.
 - [ ] back seat
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**brake** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -256,7 +256,7 @@ We took our dusty ____ to the car wash.
 - [ ] back seat
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**vehicle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -266,7 +266,7 @@ We had a flat tire while ____ on the highway.
 - [ ] back seat
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**driving** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 5
 
@@ -276,7 +276,7 @@ She ____ to sit in the front seat next to driver.
 - [ ] back seat
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **prefers**。
 
 ### 6
 
@@ -286,7 +286,7 @@ We stopped at a gas station to fill up the ____.
 - [ ] back seat
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tank** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -296,7 +296,7 @@ Turn on your ____ when driving in the dark.
 - [ ] back seat
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**headlight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -306,7 +306,7 @@ You must show proof of car ____ to rent.
 - [ ] back seat
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**insurance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -316,7 +316,7 @@ It is time for an oil change and ____ service.
 - [ ] back seat
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**general** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -326,7 +326,7 @@ We picked up our rental car at the airport ____.
 - [ ] back seat
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**terminal** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -336,7 +336,7 @@ The mechanic will ____ the damaged engine today.
 - [ ] back seat
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**repair** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -346,7 +346,7 @@ He ____ to roll down the window for fresh air.
 - [ ] back seat
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **decided**。
 
 ### 13
 
@@ -356,7 +356,7 @@ ____ roll up your window before it rains hard.
 - [ ] back seat
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Please** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -366,7 +366,7 @@ Walk on the ____ instead of in the middle street.
 - [ ] back seat
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sidewalk** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -376,7 +376,7 @@ The gas ____ is completely full now.
 - [ ] back seat
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tank** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -386,7 +386,7 @@ Put your luggage inside the car ____ please.
 - [ ] back seat
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**trunk** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -396,7 +396,7 @@ Use your turn signal before ____ lanes on road.
 - [ ] back seat
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**changing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 18
 
@@ -406,7 +406,7 @@ The heavy rain splashed against the car ____.
 - [ ] back seat
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**windshield** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -416,7 +416,7 @@ I haven't ____ to that auto repair shop before.
 - [ ] back seat
 - [ ] brake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**been** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -426,6 +426,6 @@ They have ____ to the coast several times this year.
 - [ ] back seat
 - [ ] brake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**been** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

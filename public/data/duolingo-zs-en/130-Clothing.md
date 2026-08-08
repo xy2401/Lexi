@@ -244,7 +244,7 @@ ____, she bought a cute sweatshirt with short sleeves.
 - [ ] away
 - [ ] cash register
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Afterward** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ This ____ quality shirt made of cotton is ten percent off.
 - [ ] afterward
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**high** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ Look how short the ____ is, and its price is pretty low!
 - [ ] afterward
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sleeve** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ Please throw ____ those low quality, ugly underwear.
 - [ ] afterward
 - [ ] cash register
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**away** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ The clerk at the cash register was busy counting ____.
 - [ ] afterward
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stuff** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ Take a ____ wearing this cute sweatshirt with tiny dots.
 - [ ] afterward
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**selfie** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ She had ____ her old clothes into the laundry box.
 - [ ] afterward
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**thrown** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ The ____ in that store was sold at a pretty low price.
 - [ ] afterward
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stuff** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ This ____ is made of one hundred percent cotton.
 - [ ] afterward
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**underwear** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ After ____, we took a nice selfie at the entrance.
 - [ ] afterward
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**checkout** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ The ____ material of this sweatshirt feels very soft.
 - [ ] afterward
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cotton** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ ____, we went to the mall to buy some daily stuff.
 - [ ] away
 - [ ] cash register
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Afterward** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ The cashier at the cash register gave me my ____.
 - [ ] afterward
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**change** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ The long ____ of this shirt can be rolled up.
 - [ ] afterward
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **sleeves**。
 
 ### 15
 
@@ -384,7 +384,7 @@ ____ quality clothing lasts much longer time to wear.
 - [ ] afterward
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**High** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ This ____ coat was put on clear sale yesterday.
 - [ ] afterward
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ugly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ There is a ____ spot on the sleeve, but not clear.
 - [ ] afterward
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tiny** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ This pure ____ fabric is breathable for summer wear.
 - [ ] afterward
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cotton** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ Please go to the ____ counter to pay for items.
 - [ ] afterward
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**checkout** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ She loves taking selfies with her phone while ____.
 - [ ] afterward
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**traveling** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 </quiz-cloze>

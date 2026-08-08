@@ -244,7 +244,7 @@ At a ____ nightclub, he proposed to the clever girl.
 - [ ] avoid
 - [ ] break up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**romantic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ Keep ____ and avoid careless mistakes when in a hurry.
 - [ ] avoid
 - [ ] break up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**calm** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ During a ____, you should pay attention to your partner.
 - [ ] avoid
 - [ ] break up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**date** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ The ____ boy was very helpful in the nightlife area.
 - [ ] avoid
 - [ ] break up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**social** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ She is a ____ lady who is very patient with her kid.
 - [ ] avoid
 - [ ] break up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**quiet** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ He will ____ avoid those noisy nightclubs.
 - [ ] avoid
 - [ ] break up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**definitely** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ ____ are we in a hurry during our rich nightlife?
 - [ ] avoid
 - [ ] break up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Why** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ People dance happily in the vibrant ____.
 - [ ] avoid
 - [ ] break up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**nightclub** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ He is a very ____ and quick-minded young man.
 - [ ] avoid
 - [ ] break up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**clever** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 10
 
@@ -334,7 +334,7 @@ When facing emergencies, try your best to stay ____.
 - [ ] avoid
 - [ ] break up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**calm** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ To ____ careless mistakes, check your work carefully.
 - [ ] break up
 - [ ] calm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**avoid** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ She is a very ____ and compassionate teacher.
 - [ ] avoid
 - [ ] break up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**patient** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ Please pay ____ to the key grammar on the board.
 - [ ] avoid
 - [ ] break up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**attention** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ The ____ in this modern city is lively and rich.
 - [ ] avoid
 - [ ] break up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**nightlife** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ He is ____ the best speaker in this debate.
 - [ ] avoid
 - [ ] break up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**definitely** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ He did a very ____ thing by sending his wife roses.
 - [ ] avoid
 - [ ] break up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**romantic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ That ____ little girl has many good friends.
 - [ ] avoid
 - [ ] break up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**social** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ The neighbors are very ____ whenever we need aid.
 - [ ] avoid
 - [ ] break up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**helpful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ ____ he was in a hurry, he nearly left his keys.
 - [ ] avoid
 - [ ] break up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**because** 为从属连词，引出原因状语从句，表示“因为”。
 
 ### 20
 
@@ -434,6 +434,6 @@ That cute little ____ was playing happily in the park.
 - [ ] avoid
 - [ ] break up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**kid** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

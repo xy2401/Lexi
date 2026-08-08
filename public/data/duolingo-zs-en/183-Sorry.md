@@ -236,7 +236,7 @@ I must ____ for the unexpected delay in my reply.
 - [ ] ask
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**apologize** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -246,7 +246,7 @@ Good managers really care about their employees' ____.
 - [ ] apologize
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**well-being** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 3
 
@@ -256,7 +256,7 @@ The car is in excellent ____ after the repair.
 - [ ] apologize
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**condition** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -266,7 +266,7 @@ Please accept our deepest ____ during this hard time.
 - [ ] apologize
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **condolences**。
 
 ### 5
 
@@ -276,7 +276,7 @@ There is no valid ____ for missing such a deadline.
 - [ ] apologize
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**excuse** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -286,7 +286,7 @@ His inspiring words will stay in our hearts ____.
 - [ ] apologize
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**forever** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 7
 
@@ -296,7 +296,7 @@ Family members gathered to attend the ____ service.
 - [ ] apologize
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**funeral** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -306,7 +306,7 @@ We hope your ____ will get better soon.
 - [ ] apologize
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**grandmother** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 9
 
@@ -316,7 +316,7 @@ We ____ a gift card with a get well soon note.
 - [ ] apologize
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -326,7 +326,7 @@ The sudden ____ of his dog made him very sad.
 - [ ] apologize
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**loss** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -336,7 +336,7 @@ I am sorry that I mess up the ____ today.
 - [ ] apologize
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**schedule** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -346,7 +346,7 @@ I did not break your ____ mug on purpose.
 - [ ] apologize
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**favourite** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -356,7 +356,7 @@ It takes time to ____ fully from surgery.
 - [ ] apologize
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**recover** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 14
 
@@ -366,7 +366,7 @@ The ____ we resolve the problem, the better.
 - [ ] apologize
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sooner** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 15
 
@@ -376,7 +376,7 @@ I am so sorry for making a ____ on your order.
 - [ ] apologize
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mistake** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -386,7 +386,7 @@ I am sorry to hear about your bad ____ today.
 - [ ] apologize
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **news**。
 
 ### 17
 
@@ -396,7 +396,7 @@ It is too bad that you cannot join us ____.
 - [ ] apologize
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tonight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -406,7 +406,7 @@ I wonder if she ____ my apology message yet.
 - [ ] apologize
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **received**。
 
 ### 19
 
@@ -416,7 +416,7 @@ I wonder whether the flight will be ____.
 - [ ] apologize
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **canceled**。
 
 ### 20
 
@@ -426,6 +426,6 @@ Don't hesitate to ____ the doctor any questions.
 - [ ] apologize
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ask** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

@@ -244,7 +244,7 @@ Kids love watching ____ movies on weekend mornings.
 - [ ] anyone
 - [ ] audience
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **animated**。
 
 ### 2
 
@@ -254,7 +254,7 @@ Did ____ see where I put my theater ticket?
 - [ ] animated
 - [ ] audience
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**anyone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ The ____ clapped loudly at the end of the show.
 - [ ] animated
 - [ ] anyone
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**audience** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ The main ____ in this movie is a brave detective.
 - [ ] animated
 - [ ] anyone
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**character** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 5
 
@@ -284,7 +284,7 @@ We watched an educational ____ about nature last night.
 - [ ] animated
 - [ ] anyone
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**documentary** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ ____ in the theater enjoyed the exciting action movie.
 - [ ] animated
 - [ ] anyone
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Everyone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ This indie ____ won three major awards at the festival.
 - [ ] animated
 - [ ] anyone
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**film** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ I don't really like watching terrifying ____ movies.
 - [ ] animated
 - [ ] anyone
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**horror** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ An ____ director filmed this quiet drama on a small budget.
 - [ ] animated
 - [ ] anyone
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**independent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ No one expected the ____ to change so dramatically at the end.
 - [ ] animated
 - [ ] anyone
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**plot** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ The mystery ____ kept the audience guessing until the end.
 - [ ] animated
 - [ ] anyone
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**plot** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ Fresh ____ is the most popular movie snack in America.
 - [ ] animated
 - [ ] anyone
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**popcorn** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ They watched a sweet ____ comedy on their anniversary.
 - [ ] animated
 - [ ] anyone
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**romantic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ The sci-fi movie is ____ in a futuristic city on Mars.
 - [ ] animated
 - [ ] anyone
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**set** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ ____ left a jacket behind on seat number twelve.
 - [ ] animated
 - [ ] anyone
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Someone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ The ____ lead actor gave a remarkable performance.
 - [ ] animated
 - [ ] anyone
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **talented**。
 
 ### 17
 
@@ -404,7 +404,7 @@ This psychological ____ kept me on the edge of my seat.
 - [ ] animated
 - [ ] anyone
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**thriller** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 18
 
@@ -414,7 +414,7 @@ Can't stand ____ in the front row of the cinema.
 - [ ] animated
 - [ ] anyone
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sitting** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 19
 
@@ -424,7 +424,7 @@ There are ____ famous movie studios located in California.
 - [ ] animated
 - [ ] anyone
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**many** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ There is a new cinema opening in our ____ next month.
 - [ ] animated
 - [ ] anyone
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**neighborhood** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

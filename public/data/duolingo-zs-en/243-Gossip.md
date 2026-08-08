@@ -260,7 +260,7 @@ Everyone was ____ to hear the latest gossip about the celebrity.
 - [ ] aside from
 - [ ] awkward
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **astonished**。
 
 ### 2
 
@@ -270,7 +270,7 @@ The room felt very ____ when he bumped into his ex-girlfriend.
 - [ ] aside from
 - [ ] astonished
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**awkward** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -280,7 +280,7 @@ There was an ____ rumor circulating around the office today.
 - [ ] aside from
 - [ ] astonished
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**odd** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -290,7 +290,7 @@ It was just a ____ misunderstanding, so don't make a big deal out of it.
 - [ ] aside from
 - [ ] astonished
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**minor** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -300,7 +300,7 @@ The gossip at the party got ____ out of control by midnight.
 - [ ] aside from
 - [ ] astonished
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**completely** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -310,7 +310,7 @@ He claimed that he saw the whole ____ with his own eyes.
 - [ ] aside from
 - [ ] astonished
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**incident** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -320,7 +320,7 @@ I ____ I didn't tell a single soul about the confidential news.
 - [ ] aside from
 - [ ] astonished
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**swear** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -330,7 +330,7 @@ This ____ often publishes dramatic stories about famous people.
 - [ ] aside from
 - [ ] astonished
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tabloid** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -340,7 +340,7 @@ They were ____ holding hands in the mall's crowded food court.
 - [ ] aside from
 - [ ] astonished
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **spotted**。
 
 ### 10
 
@@ -350,7 +350,7 @@ The detective couldn't find a single ____ about who leaked the document.
 - [ ] aside from
 - [ ] astonished
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**clue** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -360,7 +360,7 @@ The whole story is nothing but ____ nonsense and wild rumors.
 - [ ] aside from
 - [ ] astonished
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**complete** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -370,7 +370,7 @@ ____ enough, nobody noticed the strange behavior yesterday.
 - [ ] aside from
 - [ ] astonished
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Strangely** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -380,7 +380,7 @@ Aside from a few rumors, we have no hard facts about the ____.
 - [ ] aside from
 - [ ] astonished
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**company** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -390,7 +390,7 @@ This is a top secret, so please keep it to ____.
 - [ ] aside from
 - [ ] astonished
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**yourself** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -400,7 +400,7 @@ He was suspended from his job while management ____ the leak.
 - [ ] aside from
 - [ ] astonished
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **investigated**。
 
 ### 16
 
@@ -410,7 +410,7 @@ He has an ____ with reading juicy stories about celebrities.
 - [ ] aside from
 - [ ] astonished
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**obsession** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -420,7 +420,7 @@ The false accusation created a total ____ in the workplace.
 - [ ] aside from
 - [ ] astonished
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mess** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -430,7 +430,7 @@ Can you ____ that he would actually say something like that?
 - [ ] aside from
 - [ ] astonished
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**imagine** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -440,7 +440,7 @@ The new ____ tried hard to fit in with the office culture.
 - [ ] aside from
 - [ ] astonished
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**employee** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -450,6 +450,6 @@ What is going on here? Why is everyone ____ in the corner?
 - [ ] aside from
 - [ ] astonished
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**whispering** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 </quiz-cloze>

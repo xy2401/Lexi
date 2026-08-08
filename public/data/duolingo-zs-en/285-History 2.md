@@ -246,7 +246,7 @@ This ancient castle is a protected cultural ____ site.
 - [ ] age
 - [ ] capture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**heritage** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -256,7 +256,7 @@ A granite ____ was built to honor the heroic soldiers.
 - [ ] age
 - [ ] capture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**monument** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -266,7 +266,7 @@ The famous painting is considered a timeless ____.
 - [ ] age
 - [ ] capture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**masterpiece** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -276,7 +276,7 @@ The museum features an interesting ____ of medieval armor.
 - [ ] age
 - [ ] capture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**exhibit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -286,7 +286,7 @@ Several ____ crowns are currently on display in the hall.
 - [ ] age
 - [ ] capture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**priceless** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -296,7 +296,7 @@ She painted a stunning ____ of the historical leader.
 - [ ] age
 - [ ] capture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**portrait** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -306,7 +306,7 @@ Archeologists discovered ancient ____ pieces near the river.
 - [ ] age
 - [ ] capture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pottery** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -316,7 +316,7 @@ This building was ____ used as a royal palace.
 - [ ] age
 - [ ] capture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**formerly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -326,7 +326,7 @@ Let me draw your ____ to the intricate carvings on the wall.
 - [ ] age
 - [ ] capture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**attention** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -336,7 +336,7 @@ The guided ____ around the old ruins took two hours.
 - [ ] age
 - [ ] capture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tour** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -346,7 +346,7 @@ The clock ____ offers a panoramic view of the entire city.
 - [ ] age
 - [ ] capture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tower** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 12
 
@@ -356,7 +356,7 @@ The ____ of the museum is the gold coin collection.
 - [ ] age
 - [ ] capture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**highlight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -366,7 +366,7 @@ This cathedral is a ____ attraction for tourists.
 - [ ] age
 - [ ] capture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**must-see** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -376,7 +376,7 @@ Her discovery of the hidden chamber is particularly ____.
 - [ ] age
 - [ ] capture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**noteworthy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -386,7 +386,7 @@ I enjoy history in general, and medieval history in ____.
 - [ ] age
 - [ ] capture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**particular** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -396,7 +396,7 @@ The old narrow streets reflect the unique ____ of the town.
 - [ ] age
 - [ ] capture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**charm** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -406,7 +406,7 @@ The photographs ____ the atmosphere of that bygone age.
 - [ ] age
 - [ ] charm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**capture** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -416,7 +416,7 @@ This bridge was ____ by a famous Italian architect.
 - [ ] age
 - [ ] capture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **designed**。
 
 ### 19
 
@@ -426,7 +426,7 @@ These ones are handmade, while those ones were ____.
 - [ ] age
 - [ ] capture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **machine-manufactured**。
 
 ### 20
 
@@ -436,6 +436,6 @@ Among all the statues, the most famous ones are in the ____.
 - [ ] age
 - [ ] capture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**courtyard** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

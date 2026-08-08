@@ -244,7 +244,7 @@ No way! You ran into our old ____ at the cafe?
 - [ ] all right
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**friend** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ ____? I can't believe you've forgotten his name!
 - [ ] all right
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Seriously** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ Hold on, let me think for a ____.
 - [ ] all right
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**second** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ Go on, tell me what ____ next!
 - [ ] all right
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **happened**。
 
 ### 5
 
@@ -284,7 +284,7 @@ Guess what! My brother just got ____.
 - [ ] all right
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **promoted**。
 
 ### 6
 
@@ -294,7 +294,7 @@ That's ____! You must be joking.
 - [ ] all right
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**impossible** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ She was so ____ when she dropped her coffee just now.
 - [ ] all right
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **embarrassed**。
 
 ### 8
 
@@ -314,7 +314,7 @@ It was an ____ mistake, but everything is all right now.
 - [ ] all right
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**embarrassing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 9
 
@@ -324,7 +324,7 @@ I don't ____ what they say about us.
 - [ ] all right
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**care** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ By the way, ____ you spoken to the manager yet?
 - [ ] all right
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**have** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ He ____ her for the mistake last week.
 - [ ] all right
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**forgave** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ Please ____ me for being so late.
 - [ ] all right
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**forgive** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ They ____ forgiven him for his past actions.
 - [ ] all right
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**have** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ ____ you forgotten where we parked the car?
 - [ ] all right
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Have** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ You ____ be exhausted after working all day.
 - [ ] all right
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**must** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ Don't ____ to me about what you did.
 - [ ] all right
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lie** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ Why are you ____ at me like this?
 - [ ] all right
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**looking** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 18
 
@@ -414,7 +414,7 @@ Did ____ strange happen in the office today?
 - [ ] all right
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**something** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 19
 
@@ -424,7 +424,7 @@ Is there ____ else you want to tell me?
 - [ ] all right
 - [ ] be
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**anything** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 20
 
@@ -434,6 +434,6 @@ ____ you spoken with your advisor about this plan?
 - [ ] all right
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Have** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

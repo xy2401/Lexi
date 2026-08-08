@@ -244,7 +244,7 @@ According to the police, the ____ tried to break into the house.
 - [ ] according to
 - [ ] appear
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**criminal** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ At first, nobody noticed the mysterious ____ in the corner.
 - [ ] according to
 - [ ] appear
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shadow** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ She screamed when she ____ realized someone followed her in secret.
 - [ ] according to
 - [ ] appear
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**suddenly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ ____ the time the criminal appeared, police had been there.
 - [ ] according to
 - [ ] appear
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**by** 为介词，表示交通方式、地点方式或“通过”。
 
 ### 5
 
@@ -284,7 +284,7 @@ The thief tried to ____ the jewelry and destroy evidence.
 - [ ] according to
 - [ ] appear
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**grab** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ She kept that ____ and did not lie to anyone about it.
 - [ ] according to
 - [ ] appear
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**secret** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ Her ____ experience made her very careful with strangers.
 - [ ] according to
 - [ ] appear
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**past** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ He ____ let out a loud scream in the quiet hall.
 - [ ] according to
 - [ ] appear
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**suddenly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ The ____ managed to break into the jewelry shop.
 - [ ] according to
 - [ ] appear
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **thieves**。
 
 ### 10
 
@@ -334,7 +334,7 @@ She ____ her handbag and ran out of the room quickly.
 - [ ] according to
 - [ ] appear
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **grabbed**。
 
 ### 11
 
@@ -344,7 +344,7 @@ ____ to news, the suspect is now in police control.
 - [ ] according to
 - [ ] appear
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**According** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 12
 
@@ -354,7 +354,7 @@ At first, everyone believed it was just a ____.
 - [ ] according to
 - [ ] appear
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**misunderstanding** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 13
 
@@ -364,7 +364,7 @@ The ____ destroyed public property and faced law.
 - [ ] according to
 - [ ] appear
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**criminal** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ They have ____ planning this surprise event in secret.
 - [ ] according to
 - [ ] appear
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**been** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ The ____ on the wall moved as the light flickered.
 - [ ] according to
 - [ ] appear
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shadow** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ She ____ when she heard the shocking news.
 - [ ] according to
 - [ ] appear
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **screamed**。
 
 ### 17
 
@@ -404,7 +404,7 @@ I ____ realized my wallet was missing just now.
 - [ ] according to
 - [ ] appear
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**suddenly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ After fog cleared, the mountain peak started to ____.
 - [ ] according to
 - [ ] at first
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**appear** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ Be honest with your friends and never ____ to them.
 - [ ] according to
 - [ ] appear
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lie** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ This is a company ____ that cannot be made public.
 - [ ] according to
 - [ ] appear
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**secret** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

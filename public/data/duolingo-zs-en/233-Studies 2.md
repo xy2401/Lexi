@@ -244,7 +244,7 @@ My ____ gave me valuable feedback on my senior thesis.
 - [ ] correct
 - [ ] do you know what i mean
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tutor** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ Let's go over the lecture ____ before the exam.
 - [ ] correct
 - [ ] do you know what i mean
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **notes**。
 
 ### 3
 
@@ -264,7 +264,7 @@ I need to ____ more references to complete the outline.
 - [ ] correct
 - [ ] do you know what i mean
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**read** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ She is a ____ majoring in philosophy.
 - [ ] correct
 - [ ] do you know what i mean
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**senior** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ The ____ member helped us conduct the science experiment.
 - [ ] correct
 - [ ] do you know what i mean
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**faculty** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ ____ takes a lot of effort to get through all the reading materials.
 - [ ] correct
 - [ ] do you know what i mean
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**it** 为第三人称单数代词，指代事物、动物或作形式主语。
 
 ### 7
 
@@ -304,7 +304,7 @@ In other words, we need to ____ our research method.
 - [ ] do you know what i mean
 - [ ] experiment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**correct** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ Is he ____ to teach this advanced course?
 - [ ] correct
 - [ ] do you know what i mean
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **qualified**。
 
 ### 9
 
@@ -324,7 +324,7 @@ ____ is difficult to follow his explanation, do you know what I mean?
 - [ ] correct
 - [ ] do you know what i mean
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**it** 为第三人称单数代词，指代事物、动物或作形式主语。
 
 ### 10
 
@@ -334,7 +334,7 @@ We will finish reading the report in one ____.
 - [ ] correct
 - [ ] do you know what i mean
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sitting** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 11
 
@@ -344,7 +344,7 @@ The professor asked us to write a detailed ____ outline.
 - [ ] correct
 - [ ] do you know what i mean
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **thesis**。
 
 ### 12
 
@@ -354,7 +354,7 @@ She spent the entire afternoon reviewing her ____ notes.
 - [ ] correct
 - [ ] do you know what i mean
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**philosophy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ I didn't get through the first chapter of the ____.
 - [ ] correct
 - [ ] do you know what i mean
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**textbook** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ You should check every ____ carefully before submitting.
 - [ ] correct
 - [ ] do you know what i mean
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reference** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ Our ____ is highly qualified and very supportive.
 - [ ] correct
 - [ ] do you know what i mean
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tutor** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ In other words, the results were not ____ significant.
 - [ ] correct
 - [ ] do you know what i mean
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**statistically** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ ____ was a challenging semester, but I managed to get through it.
 - [ ] correct
 - [ ] do you know what i mean
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**it** 为第三人称单数代词，指代事物、动物或作形式主语。
 
 ### 18
 
@@ -414,7 +414,7 @@ Do you know what I mean when I talk about ____ theories?
 - [ ] correct
 - [ ] do you know what i mean
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**abstract** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ He decided to ____ in computer science instead of philosophy.
 - [ ] correct
 - [ ] do you know what i mean
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**major** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ We must ____ the errors in our data before publishing.
 - [ ] do you know what i mean
 - [ ] experiment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**correct** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

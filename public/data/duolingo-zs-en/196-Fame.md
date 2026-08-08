@@ -234,7 +234,7 @@ She loves to ____ on stage in community theater.
 - [ ] about
 - [ ] autograph
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**act** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -244,7 +244,7 @@ The singer signed an ____ for her biggest fan.
 - [ ] about
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**autograph** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -254,7 +254,7 @@ He received a prestigious ____ for best actor.
 - [ ] about
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**award** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -264,7 +264,7 @@ She wrote a best-selling ____ of the leader.
 - [ ] about
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**biography** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -274,7 +274,7 @@ The film ____ chose historic locations for scene.
 - [ ] about
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**director** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -284,7 +284,7 @@ She possesses an ____ voice for opera.
 - [ ] about
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**extraordinary** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -294,7 +294,7 @@ Don't pay attention to celebrity ____ online.
 - [ ] about
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gossip** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -304,7 +304,7 @@ It is impolite to laugh at ____ mistake.
 - [ ] about
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **someone's**。
 
 ### 9
 
@@ -314,7 +314,7 @@ The story involves a dark murder ____ downtown.
 - [ ] about
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mystery** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -324,7 +324,7 @@ This is one of the best ____ movies of all time.
 - [ ] about
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sci-fi** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -334,7 +334,7 @@ The lead role is ____ for her acting talent.
 - [ ] about
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**perfect** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -344,7 +344,7 @@ They finished the studio ____ of their new hit.
 - [ ] about
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**recording** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 13
 
@@ -354,7 +354,7 @@ The famous rock star sang to a crowd of ____.
 - [ ] about
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **thousands**。
 
 ### 14
 
@@ -364,7 +364,7 @@ Fans were ____ to see the actor in person.
 - [ ] about
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **shocked**。
 
 ### 15
 
@@ -374,7 +374,7 @@ She was ____ to star in the new action movie.
 - [ ] about
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**chosen** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -384,7 +384,7 @@ She is the most ____ actress in the company.
 - [ ] about
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **talented**。
 
 ### 17
 
@@ -394,7 +394,7 @@ You ____ respect the privacy of public figures.
 - [ ] about
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**must** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -404,7 +404,7 @@ What do you ____ about the movie's ending?
 - [ ] about
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**think** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -414,7 +414,7 @@ This movie is ____ a famous jazz musician.
 - [ ] act
 - [ ] autograph
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**about** 为介词，表示“关于”或“大约”。
 
 ### 20
 
@@ -424,6 +424,6 @@ The ____ does incredible work on every film.
 - [ ] about
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**director** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

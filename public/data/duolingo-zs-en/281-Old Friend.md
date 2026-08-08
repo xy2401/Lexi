@@ -248,7 +248,7 @@ How long has it been ____ we last saw each other?
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**since** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -258,7 +258,7 @@ I heard you are back in town for the ____.
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**holiday** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -268,7 +268,7 @@ ____ it going with your new job?
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **How's**。
 
 ### 4
 
@@ -278,7 +278,7 @@ I can't ____ about my life right now.
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**complain** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -288,7 +288,7 @@ I ran into your sister at the ____ yesterday.
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**supermarket** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -298,7 +298,7 @@ Your ____ are all grown up now!
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**children** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -308,7 +308,7 @@ Let me catch you up on all the ____ news.
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**recent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -318,7 +318,7 @@ I am getting used to the quiet life in the ____.
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**countryside** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -328,7 +328,7 @@ She has been living ____ for five years.
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **overseas**。
 
 ### 10
 
@@ -338,7 +338,7 @@ Life in my ____ feels much more peaceful.
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **forties**。
 
 ### 11
 
@@ -348,7 +348,7 @@ Did you hear that Sarah is ____ a baby?
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**expecting** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 12
 
@@ -358,7 +358,7 @@ My youngest son just started ____ this fall.
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**kindergarten** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -368,7 +368,7 @@ I'm ____ my new role in graphic design.
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**loving** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 14
 
@@ -378,7 +378,7 @@ I'm ____ the new apartment layout so far.
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**liking** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 15
 
@@ -388,7 +388,7 @@ On the whole, the trip was a huge ____.
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**success** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -398,7 +398,7 @@ ____, things are going very well for us.
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Overall** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -408,7 +408,7 @@ So far, everything has been ____ smoothly.
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**going** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 18
 
@@ -418,7 +418,7 @@ She gave me a lovely ____ on my presentation.
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**compliment** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -428,7 +428,7 @@ How are ____ going with your family?
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **things**。
 
 ### 20
 
@@ -438,6 +438,6 @@ I ____ to visit you the next time I come back.
 - [ ] all grown up
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**promise** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

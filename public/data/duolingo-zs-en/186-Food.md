@@ -234,7 +234,7 @@ They do not serve ____ drinks to minors.
 - [ ] bacon
 - [ ] bitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**alcoholic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -244,7 +244,7 @@ He cooked crispy ____ and eggs for Sunday breakfast.
 - [ ] alcoholic
 - [ ] bitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bacon** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -254,7 +254,7 @@ The dark chocolate has a slightly ____ taste.
 - [ ] alcoholic
 - [ ] bacon
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bitter** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 4
 
@@ -264,7 +264,7 @@ Making a healthy ____ is important for your diet.
 - [ ] alcoholic
 - [ ] bacon
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**choice** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -274,7 +274,7 @@ A balanced ____ contains vegetables, fruit, and protein.
 - [ ] alcoholic
 - [ ] bacon
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**diet** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -284,7 +284,7 @@ Combine the ____ and baking powder in a large bowl.
 - [ ] alcoholic
 - [ ] bacon
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**flour** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -294,7 +294,7 @@ Add a slice of fresh ____ to your glass of iced water.
 - [ ] alcoholic
 - [ ] bacon
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lime** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -304,7 +304,7 @@ Add a little bit of sugar to ____ the sour sauce.
 - [ ] alcoholic
 - [ ] bacon
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**balance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -314,7 +314,7 @@ She picked a sweet ripe ____ from the garden tree.
 - [ ] alcoholic
 - [ ] bacon
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**peach** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -324,7 +324,7 @@ I ____ rather cook dinner at home tonight.
 - [ ] alcoholic
 - [ ] bacon
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**would** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -334,7 +334,7 @@ The waiter ____ trying the grilled seafood.
 - [ ] alcoholic
 - [ ] bacon
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**recommend** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -344,7 +344,7 @@ She ordered fluffy ____ eggs with toast.
 - [ ] alcoholic
 - [ ] bacon
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **scrambled**。
 
 ### 13
 
@@ -354,7 +354,7 @@ Please set the ____ on the dining table.
 - [ ] alcoholic
 - [ ] bacon
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**silverware** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -364,7 +364,7 @@ Roasted ____ makes a warm and healthy winter dish.
 - [ ] alcoholic
 - [ ] bacon
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**squash** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -374,7 +374,7 @@ We ordered Chinese ____ for dinner after work.
 - [ ] alcoholic
 - [ ] bacon
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**takeout** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -384,7 +384,7 @@ Regular exercise helps you control your body ____.
 - [ ] alcoholic
 - [ ] bacon
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**weight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -394,7 +394,7 @@ I ____ recommend eating spoiled food products.
 - [ ] alcoholic
 - [ ] bacon
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wouldn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -404,7 +404,7 @@ He said ____ prefer a glass of fresh orange juice.
 - [ ] alcoholic
 - [ ] bacon
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**he'd** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -414,7 +414,7 @@ She said ____ like to order a fresh garden salad.
 - [ ] alcoholic
 - [ ] bacon
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**she'd** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -424,6 +424,6 @@ They said ____ order takeout instead of cooking.
 - [ ] alcoholic
 - [ ] bacon
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**they'd** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

@@ -244,7 +244,7 @@ Hurry up! We must ____ the lecture in the laboratory.
 - [ ] campus
 - [ ] certificate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**attend** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ On ____, the dining hall and the dorm are side by side.
 - [ ] attend
 - [ ] certificate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **campus**。
 
 ### 3
 
@@ -264,7 +264,7 @@ The professor asked us to ____ Chapter 3 and write an essay.
 - [ ] attend
 - [ ] campus
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**review** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ The ____ result of this science test was confusing.
 - [ ] attend
 - [ ] campus
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**research** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ Can you ____ the meaning of the underlined sentence?
 - [ ] attend
 - [ ] campus
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**translate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ ____ out the option with an incorrect description.
 - [ ] attend
 - [ ] campus
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Pick** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ After finishing the ____ course, you get a certificate.
 - [ ] attend
 - [ ] campus
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**intermediate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ The student sitting in the front ____ wrote a nice written report.
 - [ ] attend
 - [ ] campus
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**row** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ ____ written essay and research work is this on the desk?
 - [ ] attend
 - [ ] campus
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Whose** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ These two essays about ____ life are very similar.
 - [ ] attend
 - [ ] certificate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **campus**。
 
 ### 11
 
@@ -344,7 +344,7 @@ All students are required to ____ this lecture on time.
 - [ ] campus
 - [ ] certificate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**attend** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ The environment on our school ____ is very beautiful.
 - [ ] attend
 - [ ] certificate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **campus**。
 
 ### 13
 
@@ -364,7 +364,7 @@ Students discussed the results in the chemistry ____.
 - [ ] attend
 - [ ] campus
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**laboratory** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ Read carefully and do not give an ____ answer.
 - [ ] attend
 - [ ] campus
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**incorrect** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ The teacher asked us to ____ the key words of Chapter two.
 - [ ] attend
 - [ ] campus
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**review** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ If you want to pass the ____ exam, work hard.
 - [ ] attend
 - [ ] campus
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**intermediate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ Please draw a line to ____ the key vocabulary.
 - [ ] attend
 - [ ] campus
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**underline** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ This ____ gave a clear description of the research.
 - [ ] attend
 - [ ] campus
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**essay** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ ____ up! The movie is about to start soon!
 - [ ] attend
 - [ ] campus
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Hurry** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ He earned a ____ after getting good test results.
 - [ ] attend
 - [ ] campus
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**certificate** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

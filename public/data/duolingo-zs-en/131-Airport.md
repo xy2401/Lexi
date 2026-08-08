@@ -244,7 +244,7 @@ As a foreign ____, you need a valid visa for the embassy.
 - [ ] abroad
 - [ ] baggage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**citizen** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ After ____ check in, go through security for baggage check.
 - [ ] abroad
 - [ ] baggage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**you** 为第二人称代词，在句中作主语或宾语，单复数同形。
 
 ### 3
 
@@ -264,7 +264,7 @@ I was ____ why they canceled my shuttle reservations.
 - [ ] abroad
 - [ ] baggage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **confused**。
 
 ### 4
 
@@ -274,7 +274,7 @@ When traveling ____, keep a spare key near the front door.
 - [ ] baggage
 - [ ] can't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**abroad** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ Airport ____ officers asked us to show all spare items.
 - [ ] abroad
 - [ ] baggage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**security** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ After ____ get in, you can take airport transportation.
 - [ ] abroad
 - [ ] baggage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**you** 为第二人称代词，在句中作主语或宾语，单复数同形。
 
 ### 7
 
@@ -304,7 +304,7 @@ ____ must pay an extra baggage fee at the airport desk.
 - [ ] abroad
 - [ ] baggage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**you** 为第二人称代词，在句中作主语或宾语，单复数同形。
 
 ### 8
 
@@ -314,7 +314,7 @@ It seems that we need to ____ this entry document.
 - [ ] abroad
 - [ ] baggage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**translate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ ____ me, did you get your visa from the US embassy?
 - [ ] abroad
 - [ ] baggage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Tell** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ I ____ leave the spare key at the front door.
 - [ ] abroad
 - [ ] baggage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shouldn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ Please check in at the counter before going ____.
 - [ ] baggage
 - [ ] can't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**abroad** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ As a ____, you can use public transportation services.
 - [ ] abroad
 - [ ] baggage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**citizen** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ Please take good care of your personal ____.
 - [ ] abroad
 - [ ] can't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**baggage** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ The staff at the ____ helped us patiently.
 - [ ] abroad
 - [ ] baggage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**embassy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ The airport ____ all flights due to the storm.
 - [ ] abroad
 - [ ] baggage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **canceled**。
 
 ### 16
 
@@ -394,7 +394,7 @@ Please present your flight ____ at the desk.
 - [ ] abroad
 - [ ] baggage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **reservations**。
 
 ### 17
 
@@ -404,7 +404,7 @@ The ____ key is in the drawer by the front door.
 - [ ] abroad
 - [ ] baggage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**spare** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ Can ____ help me translate these words into English?
 - [ ] abroad
 - [ ] baggage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**you** 为第二人称代词，在句中作主语或宾语，单复数同形。
 
 ### 19
 
@@ -424,7 +424,7 @@ Studying ____ is a very valuable life experience.
 - [ ] baggage
 - [ ] can't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**abroad** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ They ____ to have a little trouble at airport security.
 - [ ] abroad
 - [ ] baggage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**seem** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

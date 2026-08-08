@@ -244,7 +244,7 @@ During the visit, my ____ told jokes in the narrow dining room.
 - [ ] against
 - [ ] annoy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**grandkid** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ This dining room doubled in size, but ____ space is tight.
 - [ ] against
 - [ ] annoy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**parking** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 3
 
@@ -264,7 +264,7 @@ Wearing ____ sandals, she joined the community festival in a good mood.
 - [ ] against
 - [ ] annoy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bright** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ Don't let minor things ____ you or make life stressful.
 - [ ] against
 - [ ] bright
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**annoy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ We actively ____ waste in our local community.
 - [ ] against
 - [ ] annoy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**recycle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ Before you ____ the hall, put on your sandals.
 - [ ] against
 - [ ] annoy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reach** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ We had a plate of fresh ____ in the dining room.
 - [ ] against
 - [ ] annoy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**broccoli** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ Feeling ____ is normal; breathe to improve your mood.
 - [ ] against
 - [ ] annoy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **nervous**。
 
 ### 9
 
@@ -324,7 +324,7 @@ Get in! Everyone is waiting for the ____ to start.
 - [ ] against
 - [ ] annoy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**festival** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ Get out! Don't ____ trouble in this narrow hallway.
 - [ ] against
 - [ ] annoy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**make** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ Grandpa loves his little ____ very much.
 - [ ] against
 - [ ] annoy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**grandkid** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ The whole family ____ dinner in the dining room.
 - [ ] against
 - [ ] annoy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **enjoyed**。
 
 ### 13
 
@@ -364,7 +364,7 @@ The whole ____ participated in the summer festival.
 - [ ] against
 - [ ] annoy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**community** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ This ____ lane is wide enough for only one person.
 - [ ] against
 - [ ] annoy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**narrow** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ ____ sandals in summer feels very cool.
 - [ ] against
 - [ ] annoy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Wearing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 16
 
@@ -394,7 +394,7 @@ He is in a very good ____ today with a smile.
 - [ ] against
 - [ ] annoy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mood** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ Please ____ plastic bottles in the recycling bin.
 - [ ] against
 - [ ] annoy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**recycle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ Eating more ____ is good for your physical health.
 - [ ] against
 - [ ] annoy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**broccoli** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ The continuous noise started to ____ him.
 - [ ] against
 - [ ] bright
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**annoy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ After two hours of driving, we managed to ____ the town.
 - [ ] against
 - [ ] annoy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reach** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

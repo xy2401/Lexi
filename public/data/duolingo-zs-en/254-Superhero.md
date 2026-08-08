@@ -260,7 +260,7 @@ What if you had the power to choose any ____?
 - [ ] bad guy
 - [ ] chase
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**superpower** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 2
 
@@ -270,7 +270,7 @@ At the last minute of the movie, the ____ saved the day.
 - [ ] bad guy
 - [ ] chase
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**superhero** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -280,7 +280,7 @@ If you could have one ____, which one would you choose?
 - [ ] bad guy
 - [ ] chase
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**superpower** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 4
 
@@ -290,7 +290,7 @@ The bad guy tried to run away, but the ____ caught him.
 - [ ] bad guy
 - [ ] chase
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**superhero** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -300,7 +300,7 @@ If he had been careful, he ____ have gotten caught.
 - [ ] bad guy
 - [ ] chase
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wouldn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -310,7 +310,7 @@ The hero ____ martial arts every day since childhood.
 - [ ] bad guy
 - [ ] chase
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **practiced**。
 
 ### 7
 
@@ -320,7 +320,7 @@ He watched this exciting ____ movie over and over.
 - [ ] bad guy
 - [ ] chase
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**superhero** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -330,7 +330,7 @@ The officer noticed a ____ man walking on the street corner.
 - [ ] bad guy
 - [ ] chase
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **suspicious**。
 
 ### 9
 
@@ -340,7 +340,7 @@ ____ fight scenes in the movie are not suitable for young kids.
 - [ ] bad guy
 - [ ] chase
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Violent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -350,7 +350,7 @@ The hero had to ____ the villain through busy city streets.
 - [ ] bad guy
 - [ ] feather
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**chase** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -360,7 +360,7 @@ He knocked down the attacker with a heavy ____.
 - [ ] bad guy
 - [ ] chase
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**punch** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -370,7 +370,7 @@ The ____ to the hit movie will come out next summer.
 - [ ] bad guy
 - [ ] chase
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sequel** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -380,7 +380,7 @@ That character's power came from a mysterious ____.
 - [ ] bad guy
 - [ ] chase
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wolf** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -390,7 +390,7 @@ Her costume was as light as a ____, helping her fly.
 - [ ] bad guy
 - [ ] chase
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**feather** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 15
 
@@ -400,7 +400,7 @@ The evil villain put ____ into the water supply.
 - [ ] bad guy
 - [ ] chase
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**poison** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -410,7 +410,7 @@ If she were ____, she could overhear the secret plan.
 - [ ] bad guy
 - [ ] chase
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**invisible** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -420,7 +420,7 @@ If he had ____ to advice, he would have saved the city.
 - [ ] bad guy
 - [ ] chase
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **listened**。
 
 ### 18
 
@@ -430,7 +430,7 @@ If you were a ____, would you hide your real identity?
 - [ ] bad guy
 - [ ] chase
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**superhero** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -440,7 +440,7 @@ If she hadn't left in time, she would have been ____.
 - [ ] bad guy
 - [ ] chase
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **trapped**。
 
 ### 20
 
@@ -450,6 +450,6 @@ The creature swung its long ____ and looked around carefully.
 - [ ] bad guy
 - [ ] chase
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tail** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

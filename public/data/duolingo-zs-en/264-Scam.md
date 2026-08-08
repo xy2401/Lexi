@@ -262,7 +262,7 @@ ____ so-called investment scheme turned out to be a fake scam.
 - [ ] asking
 - [ ] ban
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**this** 为指示代词/限定词，指代单数近指事物，表示“这个”。
 
 ### 2
 
@@ -272,7 +272,7 @@ You should have spoken up before you fell for the ____ offer.
 - [ ] asking
 - [ ] ban
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**misleading** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 3
 
@@ -282,7 +282,7 @@ The ____ criminal made a considerable sum from gullible people.
 - [ ] asking
 - [ ] ban
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dishonest** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -292,7 +292,7 @@ I was in shock when I realized all my savings were gone in the ____.
 - [ ] asking
 - [ ] ban
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**scam** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -302,7 +302,7 @@ She was ____ when the unhelpful representative gave a pathetic excuse.
 - [ ] asking
 - [ ] ban
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **furious**。
 
 ### 6
 
@@ -312,7 +312,7 @@ The ____ victim had to learn a bitter lesson from the fraud.
 - [ ] asking
 - [ ] ban
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**desperate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -322,7 +322,7 @@ Police issued a ____ and decided to ban websites sending spam.
 - [ ] asking
 - [ ] ban
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**warning** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 8
 
@@ -332,7 +332,7 @@ Dealing with fraudulent ____ calls is such a terrible hassle.
 - [ ] asking
 - [ ] ban
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**spam** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -342,7 +342,7 @@ I ____ I hadn't believed that so-called expert in the first place.
 - [ ] asking
 - [ ] ban
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wish** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -352,7 +352,7 @@ Don't fall for ____ advertisements and misleading claims on the internet.
 - [ ] asking
 - [ ] ban
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fake** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -362,7 +362,7 @@ If you see suspicious ____ behavior, please speak up right away.
 - [ ] asking
 - [ ] ban
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**criminal** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -372,7 +372,7 @@ The ____ seller gave a pathetic excuse for the fake product.
 - [ ] asking
 - [ ] ban
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dishonest** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -382,7 +382,7 @@ ____ spam filter saved us from a considerable amount of hassle.
 - [ ] asking
 - [ ] ban
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**this** 为指示代词/限定词，指代单数近指事物，表示“这个”。
 
 ### 14
 
@@ -392,7 +392,7 @@ The government put a ____ on releasing misleading fake news.
 - [ ] asking
 - [ ] bitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ban** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -402,7 +402,7 @@ It was shocking to see the ____ scam money from desperate victims.
 - [ ] asking
 - [ ] ban
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**criminal** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -412,7 +412,7 @@ The ____ senior was left feeling bitter after the phone scam.
 - [ ] asking
 - [ ] ban
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gullible** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -422,7 +422,7 @@ ____ kind of asking often hides dishonest intentions behind it.
 - [ ] asking
 - [ ] ban
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**this** 为指示代词/限定词，指代单数近指事物，表示“这个”。
 
 ### 18
 
@@ -432,7 +432,7 @@ He was ____ with himself for not being careful enough about scams.
 - [ ] asking
 - [ ] ban
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **furious**。
 
 ### 19
 
@@ -442,7 +442,7 @@ I ____ all spam emails and fake scams would disappear forever.
 - [ ] asking
 - [ ] ban
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wish** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -452,6 +452,6 @@ ____ strong warning serves to prevent people from falling for scams.
 - [ ] asking
 - [ ] ban
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**this** 为指示代词/限定词，指代单数近指事物，表示“这个”。
 
 </quiz-cloze>

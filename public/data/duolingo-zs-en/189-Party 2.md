@@ -234,7 +234,7 @@ He speaks English with a distinct British ____.
 - [ ] bunch
 - [ ] can
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**accent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -244,7 +244,7 @@ A whole ____ of friends arrived at the party together.
 - [ ] accent
 - [ ] can
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bunch** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -254,7 +254,7 @@ The ____ host welcomed all guests warmly.
 - [ ] accent
 - [ ] bunch
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**charming** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 4
 
@@ -264,7 +264,7 @@ We ____ late after the party to clean up the living room.
 - [ ] accent
 - [ ] bunch
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **stayed**。
 
 ### 5
 
@@ -274,7 +274,7 @@ Please come in and join the ____ in the yard.
 - [ ] accent
 - [ ] bunch
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**celebration** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -284,7 +284,7 @@ She looked absolutely ____ in her elegant party dress.
 - [ ] accent
 - [ ] bunch
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **gorgeous**。
 
 ### 7
 
@@ -294,7 +294,7 @@ Fans love singing along to the catchy song ____.
 - [ ] accent
 - [ ] bunch
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **lyrics**。
 
 ### 8
 
@@ -304,7 +304,7 @@ The gentleman has a neat black ____.
 - [ ] accent
 - [ ] bunch
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mustache** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -314,7 +314,7 @@ They helped set up the tables and ____ for party.
 - [ ] accent
 - [ ] bunch
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **decorations**。
 
 ### 10
 
@@ -324,7 +324,7 @@ All the guests at the gala were ____.
 - [ ] accent
 - [ ] bunch
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **well-dressed**。
 
 ### 11
 
@@ -334,7 +334,7 @@ ____ jacket is this lying on the couch?
 - [ ] accent
 - [ ] bunch
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Whose** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -344,7 +344,7 @@ We ____ reach the venue on time due to traffic.
 - [ ] accent
 - [ ] bunch
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**couldn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -354,7 +354,7 @@ Guests ____ make too much noise late at night.
 - [ ] accent
 - [ ] bunch
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shouldn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -364,7 +364,7 @@ The party ____ end until midnight tonight.
 - [ ] accent
 - [ ] bunch
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**won't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -374,7 +374,7 @@ What are you ____ at the celebration tonight?
 - [ ] accent
 - [ ] bunch
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**doing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 16
 
@@ -384,7 +384,7 @@ Everyone likes the lively ____ of the party.
 - [ ] accent
 - [ ] bunch
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**atmosphere** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -394,7 +394,7 @@ Turn ____ at the corridor to find the ballroom.
 - [ ] accent
 - [ ] bunch
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**right** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -404,7 +404,7 @@ You ____ meet many interesting people at the party.
 - [ ] accent
 - [ ] bunch
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**can** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -414,7 +414,7 @@ We ____ invite more neighbors to join our party.
 - [ ] accent
 - [ ] bunch
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**could** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -424,6 +424,6 @@ You ____ bring a birthday card for the host.
 - [ ] accent
 - [ ] bunch
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**should** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

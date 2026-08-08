@@ -246,7 +246,7 @@ Without further ado, let us welcome ____ special guest.
 - [ ] a round of applause
 - [ ] blindfolded
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **tonight's**。
 
 ### 2
 
@@ -256,7 +256,7 @@ Please give a big round of applause for our ____!
 - [ ] a round of applause
 - [ ] blindfolded
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **performers**。
 
 ### 3
 
@@ -266,7 +266,7 @@ The ____ created a clever illusion using mirrors and light.
 - [ ] a round of applause
 - [ ] blindfolded
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**magician** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -276,7 +276,7 @@ He demonstrated a classic magic ____ with a deck of cards.
 - [ ] a round of applause
 - [ ] blindfolded
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**trick** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -286,7 +286,7 @@ The ____ managed to escape from metal handcuffs in ten seconds.
 - [ ] a round of applause
 - [ ] blindfolded
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**magician** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -296,7 +296,7 @@ She pulled a colorful silk ____ out of an empty hat.
 - [ ] a round of applause
 - [ ] blindfolded
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**handkerchief** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -306,7 +306,7 @@ He tied a tight ____ around the wooden box.
 - [ ] a round of applause
 - [ ] blindfolded
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**knot** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -316,7 +316,7 @@ Can you ____ this rope with only one hand?
 - [ ] a round of applause
 - [ ] blindfolded
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**untie** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -326,7 +326,7 @@ The assistant was ____ before selecting a card from the deck.
 - [ ] a round of applause
 - [ ] brave volunteer
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **blindfolded**。
 
 ### 10
 
@@ -336,7 +336,7 @@ The entire audience let out a loud ____ of astonishment.
 - [ ] a round of applause
 - [ ] blindfolded
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gasp** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -346,7 +346,7 @@ The music made the atmosphere feel tense and ____.
 - [ ] a round of applause
 - [ ] blindfolded
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**suspenseful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -356,7 +356,7 @@ We need a brave ____ from the audience to step up on stage.
 - [ ] a round of applause
 - [ ] blindfolded
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**volunteer** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 13
 
@@ -366,7 +366,7 @@ Let's give a warm welcome to the famous ____!
 - [ ] a round of applause
 - [ ] blindfolded
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**entertainer** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 14
 
@@ -376,7 +376,7 @@ May we have your complete ____ for the next act?
 - [ ] a round of applause
 - [ ] blindfolded
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**attention** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -386,7 +386,7 @@ Would you ____ take a seat in the front row?
 - [ ] a round of applause
 - [ ] blindfolded
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**kindly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -396,7 +396,7 @@ The show failed to live up to all the hype and high ____.
 - [ ] a round of applause
 - [ ] blindfolded
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **expectations**。
 
 ### 17
 
@@ -406,7 +406,7 @@ That was an ____ mind-blowing performance!
 - [ ] a round of applause
 - [ ] blindfolded
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**incredibly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -416,7 +416,7 @@ The clock struck midnight at ____ twelve o'clock.
 - [ ] a round of applause
 - [ ] blindfolded
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**precisely** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -426,7 +426,7 @@ ____ the magic lamp three times to summon the genie.
 - [ ] a round of applause
 - [ ] blindfolded
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Rub** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -436,6 +436,6 @@ That card ____ was totally amazing, wasn't it?
 - [ ] a round of applause
 - [ ] blindfolded
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**trick** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

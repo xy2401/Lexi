@@ -244,7 +244,7 @@ At the ____ reunion, old friends got together.
 - [ ] a shame
 - [ ] annual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**graduation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ What a shame! A friend of mine decided to give up the ____.
 - [ ] a shame
 - [ ] annual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**visit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ We stayed in contact and often hung out ____.
 - [ ] a shame
 - [ ] annual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**together** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 4
 
@@ -274,7 +274,7 @@ It's time to ____ each other and say cheers!
 - [ ] a shame
 - [ ] annual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hug** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ The ____ DJ brought awesome music to the annual party.
 - [ ] a shame
 - [ ] annual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**outgoing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 6
 
@@ -294,7 +294,7 @@ The lady with ____ hair who wasn't bald is a vegetarian.
 - [ ] a shame
 - [ ] annual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**curly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ Except that ____ was busy, we enjoyed the reunion.
 - [ ] a shame
 - [ ] annual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**everyone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ Hey ____, what's up? Let me introduce you to the team.
 - [ ] a shame
 - [ ] annual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**honey** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ Since ____, they have never given up on their dream.
 - [ ] a shame
 - [ ] annual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**graduation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ It is great to ____ the annual school reunion!
 - [ ] a shame
 - [ ] annual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**visit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ Everyone raised their glasses and said ____ at the party.
 - [ ] a shame
 - [ ] annual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **cheers**。
 
 ### 12
 
@@ -354,7 +354,7 @@ He has beautiful dark ____ hair and a big smile.
 - [ ] a shame
 - [ ] annual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**curly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ This ____ girl made friends with everyone easily.
 - [ ] a shame
 - [ ] annual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**outgoing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 14
 
@@ -374,7 +374,7 @@ A friend of mine sent me a nice ____ card.
 - [ ] a shame
 - [ ] annual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**graduation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ He stays in contact with old ____ after school.
 - [ ] a shame
 - [ ] annual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **classmates**。
 
 ### 16
 
@@ -394,7 +394,7 @@ It is a shame that the reunion was ____.
 - [ ] a shame
 - [ ] annual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **canceled**。
 
 ### 17
 
@@ -404,7 +404,7 @@ The friends gave each other a warm ____ when meeting.
 - [ ] a shame
 - [ ] annual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hug** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ It's time to start our ____ reunion event.
 - [ ] a shame
 - [ ] bald
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**annual** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ The ____ ordered a big bowl of green salad.
 - [ ] a shame
 - [ ] annual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**vegetarian** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ We used to hang out ____ at the coffee shop.
 - [ ] a shame
 - [ ] annual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**together** 为形容词/副词比较级，用于两者之间的对比。
 
 </quiz-cloze>

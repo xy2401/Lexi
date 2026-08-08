@@ -244,7 +244,7 @@ I feel as if I am going to pass out from this ____ ache.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**severe** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ He acted as though he had no ____ at all.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**weakness** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ The patient was ____ when brought into the emergency room.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **unconscious**。
 
 ### 4
 
@@ -274,7 +274,7 @@ She broke out in a cold ____ and had the chills all night.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sweat** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ The doctor wrapped the deep ____ on his leg carefully.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wound** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ The ____ will wear off in about four hours.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**painkiller** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 7
 
@@ -304,7 +304,7 @@ He is suffering from blurred ____ and stomach upset.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**vision** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ Drinking warm tea with ____ can help soothe a sore throat.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**honey** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ We waited in the ____ waiting room for over an hour.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **crowded**。
 
 ### 10
 
@@ -334,7 +334,7 @@ Be ____ with insect bites if your skin begins to itch.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **cautious**。
 
 ### 11
 
@@ -344,7 +344,7 @@ He had a large ____ on his arm after the fall.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bruise** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ We wish him a speedy and complete ____.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**recovery** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ She felt ____ in her legs after running the marathon.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**weakness** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ It looked like a mosquito ____ on her arm.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bite** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ The ____ stomach ache made it hard for him to focus.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**severe** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ The ____ took a while to wear off.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**medicine** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ He had a high fever and broke out in a ____.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sweat** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ She was ____ about the unexpected medical test results.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**upset** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ He felt as though he had ____ from the flu.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **recovered**。
 
 ### 20
 
@@ -434,6 +434,6 @@ Clean the ____ carefully to prevent infection.
 - [ ] ache
 - [ ] act
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wound** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

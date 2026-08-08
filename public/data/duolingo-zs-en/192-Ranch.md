@@ -238,7 +238,7 @@ A large ____ was grazing quietly in the pasture.
 - [ ] blow away
 - [ ] blown
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bull** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -248,7 +248,7 @@ The cow was nursing her young ____ in the barn.
 - [ ] blow away
 - [ ] blown
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**calf** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -258,7 +258,7 @@ Farmer raised ten small ____ on his private ranch.
 - [ ] blow away
 - [ ] blown
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **calves**。
 
 ### 4
 
@@ -268,7 +268,7 @@ The cowboys herded the ____ across the river.
 - [ ] blow away
 - [ ] blown
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cattle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -278,7 +278,7 @@ Living in the peaceful ____ is very relaxing.
 - [ ] blow away
 - [ ] blown
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**countryside** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -288,7 +288,7 @@ The little ____ carried a heavy bag of feed.
 - [ ] blow away
 - [ ] blown
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**donkey** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -298,7 +298,7 @@ Farmers ____ the animals every morning at dawn.
 - [ ] blow away
 - [ ] blown
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**feed** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -308,7 +308,7 @@ A white ____ climbed up the rocky hill easily.
 - [ ] blow away
 - [ ] blown
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**goat** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -318,7 +318,7 @@ We went ____ riding across the grassy meadow.
 - [ ] blow away
 - [ ] blown
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**horseback** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -328,7 +328,7 @@ The autumn ____ looked picturesque in sunshine.
 - [ ] blow away
 - [ ] blown
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**landscape** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -338,7 +338,7 @@ His family owns a ____ ranch in the west.
 - [ ] blow away
 - [ ] blown
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cattle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -348,7 +348,7 @@ The ____ beach stretched for miles along the coast.
 - [ ] blow away
 - [ ] blown
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sandy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -358,7 +358,7 @@ We sat in the cool ____ of the big oak tree.
 - [ ] blow away
 - [ ] blown
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shade** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -368,7 +368,7 @@ Waves washed gently against the rocky ____.
 - [ ] blow away
 - [ ] blown
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shore** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -378,7 +378,7 @@ Strong wind ____ to blow away the paper hat.
 - [ ] blow away
 - [ ] blown
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **threatened**。
 
 ### 16
 
@@ -388,7 +388,7 @@ Her hat was ____ away by the strong sea gust.
 - [ ] blow away
 - [ ] bull
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**blown** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -398,7 +398,7 @@ The ____ near the river is smooth and flat.
 - [ ] blow away
 - [ ] blown
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**land** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -408,7 +408,7 @@ They live in the ____ part of the province.
 - [ ] blow away
 - [ ] blown
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**eastern** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -418,7 +418,7 @@ Cold winds blow across the ____ border.
 - [ ] blow away
 - [ ] blown
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**northern** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -428,6 +428,6 @@ We spent vacation in a quiet ____ coastal town.
 - [ ] blow away
 - [ ] blown
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**southern** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

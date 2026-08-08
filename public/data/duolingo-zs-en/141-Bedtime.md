@@ -244,7 +244,7 @@ Hearing the ____ alarm clock, the ambulance came.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**next-door** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ In the dark, the mother sang a ____ silently.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lullaby** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ Sleeping on a ____ mattress and sleeping bag is cozy.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fluffy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ ____, that scary lightning frightened the fan.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Surprisingly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ The girl with ____ wings had an unpleasant nightmare.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**angel** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ In the camping ____, he stepped on the smooth floor.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ The mouse made a ____ in the board near the electric fan.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hole** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ Mother's gentle ____ relieved the child's cough.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**touch** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ The ____ neighbor had flu in the cold season.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**next-door** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ In the dark, any small sound can feel ____ to us.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**scary** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ The alarm clock rang on time at seven in the ____.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**morning** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 12
 
@@ -354,7 +354,7 @@ This new quilt feels very ____ and soft to touch.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fluffy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ I had a very ____ nightmare last night in bed.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**scary** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ Mom sang a ____ to help the baby fall asleep.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lullaby** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ Please turn on the ____, it is very hot in the room.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fan** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ ____, he did not join the bedtime party.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Surprisingly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ He slept in a warm sleeping bag inside the ____.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ That cute little girl drew an ____ with wings.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**angel** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ That expensive cotton ____ feels very smooth.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mattress** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ The strong wind in the dark sounded very ____.
 - [ ] alarm clock
 - [ ] ambulance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**scary** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

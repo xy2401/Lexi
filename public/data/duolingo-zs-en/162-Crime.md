@@ -244,7 +244,7 @@ Police officers came to ____ the robbery suspect last night.
 - [ ] attack
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**arrest** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ A sudden ____ happened near the city center last night.
 - [ ] arrest
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**attack** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ If you see a suspicious person nearby, call the police ____.
 - [ ] arrest
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**immediately** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ The police are not ____ which vehicle the suspect was driving.
 - [ ] arrest
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**certain** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ No one should ever ____ a crime for any reason.
 - [ ] arrest
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**commit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ Calling 911 is the fastest option during a medical ____.
 - [ ] arrest
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**emergency** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ The officer helped the victim ____ an official report.
 - [ ] arrest
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**file** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ Everyone was ____ that nobody got injured in the accident.
 - [ ] arrest
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**glad** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ The judge declared that the defendant was ____ after trial.
 - [ ] arrest
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**innocent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ ____, the police caught the offender before he could escape.
 - [ ] arrest
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Luckily** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ The robber wore a black ____ to hide his facial features.
 - [ ] arrest
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mask** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ Dial ____ immediately if you need emergency help.
 - [ ] arrest
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**nine-one-one** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ The victim went to the ____ to submit a police report.
 - [ ] arrest
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**station** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ The guard's duty is to ____ the store and its customers.
 - [ ] arrest
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**protect** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ Detectives are investigating the major ____ at the jewelry store.
 - [ ] arrest
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**robbery** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ Officers search for the missing items in the surrounding ____.
 - [ ] arrest
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**neighborhood** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ The ____ will take place near the downtown park tomorrow.
 - [ ] arrest
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**incident** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ The ____ quietly sneaked into the room and stole the handbag.
 - [ ] arrest
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**thief** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ The police caught the two ____ running away from the station.
 - [ ] arrest
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **thieves**。
 
 ### 20
 
@@ -434,6 +434,6 @@ The suspect escaped from the scene in a dark ____.
 - [ ] arrest
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**truck** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

@@ -246,7 +246,7 @@ I ____ I had more free time to travel around the world.
 - [ ] afraid
 - [ ] as many
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wish** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -256,7 +256,7 @@ If only I had accepted that job offer when I had the ____.
 - [ ] afraid
 - [ ] as many
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**chance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -266,7 +266,7 @@ If you keep ____ hard, all your dreams will come true.
 - [ ] afraid
 - [ ] as many
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**working** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 4
 
@@ -276,7 +276,7 @@ Despite the difficulties, we remain ____ about the future.
 - [ ] afraid
 - [ ] as many
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hopeful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -286,7 +286,7 @@ He deeply regrets not studying foreign ____ in college.
 - [ ] afraid
 - [ ] as many
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **languages**。
 
 ### 6
 
@@ -296,7 +296,7 @@ The client felt completely ____ with our service quality.
 - [ ] afraid
 - [ ] as many
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **satisfied**。
 
 ### 7
 
@@ -306,7 +306,7 @@ Winning the grand prize in the ____ is extremely unlikely.
 - [ ] afraid
 - [ ] as many
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lottery** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -316,7 +316,7 @@ Teachers always ____ students to pursue their goals bravely.
 - [ ] afraid
 - [ ] as many
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**encourage** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -326,7 +326,7 @@ You should take advantage of this rare study ____.
 - [ ] afraid
 - [ ] as many
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**opportunity** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -336,7 +336,7 @@ Developing good reading habits is a vital ____ toward success.
 - [ ] afraid
 - [ ] as many
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**step** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -346,7 +346,7 @@ Every small effort counts on the path to ____ your goals.
 - [ ] afraid
 - [ ] as many
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**achieving** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 12
 
@@ -356,7 +356,7 @@ They plan to ____ and hold a ceremony this coming autumn.
 - [ ] afraid
 - [ ] as many
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**marry** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -366,7 +366,7 @@ Don't feel discouraged over such a ____ mistake.
 - [ ] afraid
 - [ ] as many
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**silly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -376,7 +376,7 @@ Oh well, since it is ____, we can picnic another day.
 - [ ] afraid
 - [ ] as many
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**raining** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 15
 
@@ -386,7 +386,7 @@ I am ____ that I will regret it more if I don't try.
 - [ ] as many
 - [ ] chance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**afraid** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -396,7 +396,7 @@ Only by taking a ____ can you prove your full potential.
 - [ ] afraid
 - [ ] as many
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**chance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -406,7 +406,7 @@ He hopes to go on a beach ____ with his family this summer.
 - [ ] afraid
 - [ ] as many
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**vacation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -416,7 +416,7 @@ Taking this key ____ is essential to fulfilling your wish.
 - [ ] afraid
 - [ ] as many
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**step** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -426,7 +426,7 @@ There were as many ____ for this challenge as last time.
 - [ ] afraid
 - [ ] as many
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **applicants**。
 
 ### 20
 
@@ -436,6 +436,6 @@ It is highly ____ that the project will be cancelled now.
 - [ ] afraid
 - [ ] as many
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**unlikely** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

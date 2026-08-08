@@ -246,7 +246,7 @@ The election ____ promises to lower property taxes.
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**candidate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -256,7 +256,7 @@ Citizens will ____ a new city mayor next month.
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**elect** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -266,7 +266,7 @@ Her political ____ focused on improving public education.
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**campaign** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -276,7 +276,7 @@ The debater strongly criticized her main ____.
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**opponent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -286,7 +286,7 @@ The local ____ gave an inspiring speech yesterday.
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**representative** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -296,7 +296,7 @@ Congress voted to ____ the new healthcare bill.
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pass** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -306,7 +306,7 @@ They hope the council will ____ this environment law.
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pass** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -316,7 +316,7 @@ We need a ____ who will stand up for worker rights.
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**leader** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 9
 
@@ -326,7 +326,7 @@ Freedom of speech is a fundamental human ____.
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**right** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -336,7 +336,7 @@ I am writing to you ____ the local park proposal.
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**regarding** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 11
 
@@ -346,7 +346,7 @@ The tax plan is unfair; ____, it will harm small businesses.
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**furthermore** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -356,7 +356,7 @@ Climate change poses a severe ____ to coastal cities.
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**threat** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -366,7 +366,7 @@ The community rallied against domestic ____ in the city.
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**violence** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -376,7 +376,7 @@ Police assured the public that the ____ is under control.
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**situation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -386,7 +386,7 @@ By then, the voting results will already be ____.
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **announced**。
 
 ### 16
 
@@ -396,7 +396,7 @@ There is going to be a lively debate ____ evening.
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tomorrow** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -406,7 +406,7 @@ The new governor will be ____ next Tuesday.
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **inaugurated**。
 
 ### 18
 
@@ -416,7 +416,7 @@ By next year, the mayor will have ____ two full terms.
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **served**。
 
 ### 19
 
@@ -426,7 +426,7 @@ Will you be ____ the political rally tonight?
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**attending** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 20
 
@@ -436,6 +436,6 @@ The ____ won't have enough votes to win the primary.
 - [ ] bill
 - [ ] by then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**candidate** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

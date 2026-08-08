@@ -268,7 +268,7 @@ Hear me out! Before our planning falls through, I'd say we book the ____.
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**venue** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -278,7 +278,7 @@ My suggestion that we choose a ____ theme includes good catering.
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lobster** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 3
 
@@ -288,7 +288,7 @@ In the end, the ____ needs a compromise, or all work is for nothing.
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**committee** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -298,7 +298,7 @@ Please don't mess up the ____ plan, as it is a very tricky matter.
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**seating** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 5
 
@@ -308,7 +308,7 @@ Everyone agrees with my suggestion that we shouldn't ____ the budget.
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**waste** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -318,7 +318,7 @@ The ____ was happy to help with the event preparations for free.
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**volunteer** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 7
 
@@ -328,7 +328,7 @@ Showing our deep ____ is the ideal goal for hosting this party.
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**appreciation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -338,7 +338,7 @@ Must I attend the ____ meeting at that unpopular venue?
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**committee** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -348,7 +348,7 @@ We cannot delay any longer; we must decide on the party ____ right away.
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**theme** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -358,7 +358,7 @@ It is ____ for me to choose between the two catering suppliers.
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tricky** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -368,7 +368,7 @@ Hear me out, I'd say the ____ theme is ideal for our celebration.
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lobster** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 12
 
@@ -378,7 +378,7 @@ In the end, the ____ rejected the very unpopular seating plan.
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**committee** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -388,7 +388,7 @@ If the event falls through, ____ hard work will be for nothing.
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **everyone's**。
 
 ### 14
 
@@ -398,7 +398,7 @@ I agree with you that messing up the ____ will ruin the party.
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**catering** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 15
 
@@ -408,7 +408,7 @@ To show ____ to each volunteer, we served a lobster dinner.
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**appreciation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -418,7 +418,7 @@ Finding an ____ venue to seat all guests is quite a tricky task.
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ideal** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -428,7 +428,7 @@ Must I ____ so much time and energy on this unpopular theme?
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**waste** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -438,7 +438,7 @@ After long discussions, we reached a ____ on the final venue.
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**compromise** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -448,7 +448,7 @@ The ____ made a suggestion that we should adjust the seating layout.
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**committee** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -458,6 +458,6 @@ In the end, we did not argue any longer and ____ all planning.
 - [ ] I'd say
 - [ ] agree with
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **finished**。
 
 </quiz-cloze>

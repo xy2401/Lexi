@@ -244,7 +244,7 @@ A strong coastal wind ____ across the sandy beach all day.
 - [ ] blow
 - [ ] camel
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**blew** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ We rode a ____ across the vast desert dunes during our trip.
 - [ ] blew
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**camel** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ The Mediterranean ____ is famous for warm, dry summers.
 - [ ] blew
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**climate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ They drove along the picturesque Pacific ____ during vacation.
 - [ ] blew
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**coast** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ Hawaii is a very popular travel ____ for families.
 - [ ] blew
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**destination** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ Watch out for ____ tree branches on the hiking trail.
 - [ ] blew
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fallen** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ According to the weather ____, it will rain tomorrow afternoon.
 - [ ] blew
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**forecast** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ Wild berry bushes ____ along the edge of the forest path.
 - [ ] blew
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**grew** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ Winters in the valley are surprisingly ____ compared to the mountains.
 - [ ] blew
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mild** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ The tour bus traveled through the ____ region of the state.
 - [ ] blew
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**northeast** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ They decided to camp ____ near the edge of the lake.
 - [ ] blew
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**overnight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ The Rocky Mountain ____ offers breathtaking views for hikers.
 - [ ] blew
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**range** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ This coastal ____ is rich in natural resources and forest land.
 - [ ] blew
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**region** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ Warm ____ filled the meadow on a clear summer morning.
 - [ ] blew
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sunshine** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ A massive ____ swept onto the shore during high tide.
 - [ ] blew
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wave** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ We were lucky enough to spot an ocean ____ near the boat.
 - [ ] blew
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**whale** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ The national park protects local ____ and natural habitats.
 - [ ] blew
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wildlife** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ You have got to see the ____ from the top of the ridge.
 - [ ] blew
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sunset** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ The festival was ____ near the entrance of the nature reserve.
 - [ ] blew
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**held** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ Strong gusts of wind ____ through the narrow canyon in autumn.
 - [ ] blew
 - [ ] camel
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**blow** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

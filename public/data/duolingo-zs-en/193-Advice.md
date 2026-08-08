@@ -236,7 +236,7 @@ He is very ____ and plays basketball well.
 - [ ] clap
 - [ ] curriculum
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**athletic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -246,7 +246,7 @@ The audience began to ____ loudly after the show.
 - [ ] athletic
 - [ ] curriculum
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**clap** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -256,7 +256,7 @@ The school updated its science ____ recently.
 - [ ] athletic
 - [ ] clap
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**curriculum** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -266,7 +266,7 @@ They went to a ____ French restaurant last night.
 - [ ] athletic
 - [ ] clap
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fancy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -276,7 +276,7 @@ The friendly ____ spoke fluent Mandarin Chinese.
 - [ ] athletic
 - [ ] clap
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**foreigner** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 6
 
@@ -286,7 +286,7 @@ The ____ made a brilliant save in the match.
 - [ ] athletic
 - [ ] clap
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**goalkeeper** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 7
 
@@ -296,7 +296,7 @@ If he were you, he would ____ the job offer.
 - [ ] athletic
 - [ ] clap
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**accept** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -306,7 +306,7 @@ If she were here, she ____ help us clean.
 - [ ] athletic
 - [ ] clap
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**would** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -316,7 +316,7 @@ If they were ____, they would start the game.
 - [ ] athletic
 - [ ] clap
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ready** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -326,7 +326,7 @@ If we were rich, we would ____ the world.
 - [ ] athletic
 - [ ] clap
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**travel** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -336,7 +336,7 @@ If you were in my ____, what would you do?
 - [ ] athletic
 - [ ] clap
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**place** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -346,7 +346,7 @@ Living alone in a big city can feel ____ at times.
 - [ ] athletic
 - [ ] clap
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lonely** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -356,7 +356,7 @@ She is ____ qualified for the manager role.
 - [ ] athletic
 - [ ] clap
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**obviously** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -366,7 +366,7 @@ You need official ____ to park your car here.
 - [ ] athletic
 - [ ] clap
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**permission** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -376,7 +376,7 @@ They got a work ____ to operate in the city.
 - [ ] athletic
 - [ ] clap
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**permit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -386,7 +386,7 @@ We chose the shortest scenic ____ to the lake.
 - [ ] athletic
 - [ ] clap
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**route** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -396,7 +396,7 @@ He bought a ____ bicycle for daily commuting.
 - [ ] athletic
 - [ ] clap
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**second-hand** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -406,7 +406,7 @@ She dressed in a stylish modern fashion ____.
 - [ ] athletic
 - [ ] clap
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**style** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -416,7 +416,7 @@ Oh, that ____ me to buy fresh milk today.
 - [ ] athletic
 - [ ] clap
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **reminds**。
 
 ### 20
 
@@ -426,6 +426,6 @@ Don't be ____ to your younger brother.
 - [ ] athletic
 - [ ] clap
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mean** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

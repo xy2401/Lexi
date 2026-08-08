@@ -244,7 +244,7 @@ The movie is about to start, so ____ take your seat.
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**please** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ She ____ her local book club meeting once every month.
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **attends**。
 
 ### 3
 
@@ -264,7 +264,7 @@ Our team reached the finals and won the annual ____.
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**championship** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ It is a traditional ____ to bring gifts when visiting friends.
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**custom** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ We host a big family reunion every year during ____.
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Thanksgiving** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 6
 
@@ -294,7 +294,7 @@ What time will you get ____ work this afternoon?
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**off** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ He plans to go out with some high school friends on ____.
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Saturday** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ She is in charge of ____ the weekend camping trip.
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**organizing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 9
 
@@ -324,7 +324,7 @@ If you leave right now, you can make it to the last ____.
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**train** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ We often meet up at a coffee shop on our day ____.
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**off** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ Company managers hold a ____ progress meeting every month.
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**monthly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ Never ____ off until tomorrow what you can complete today.
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**put** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ Morning exercise is an essential part of my daily ____.
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**routine** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ The work ____ for next week looks extremely busy.
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**schedule** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ I have made many friends ____ I moved to this city.
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**since** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ He is a very ____ person who enjoys going to parties.
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sociable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ They all went to the park for a sunny ____ picnic.
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**afternoon** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ Athletes ____ hard every day for the upcoming marathon.
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**train** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ We will go to the beach tomorrow ____ it rains heavily.
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**unless** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ We all love ____ quiet weekends reading books at home.
 - [ ] about to
 - [ ] book club
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**spending** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 </quiz-cloze>

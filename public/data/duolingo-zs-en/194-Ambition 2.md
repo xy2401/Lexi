@@ -234,7 +234,7 @@ Good communication is a main ____ in business.
 - [ ] babysit
 - [ ] baker
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**advantage** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -244,7 +244,7 @@ She earns extra money when she ____ for neighbors.
 - [ ] advantage
 - [ ] baker
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**babysit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -254,7 +254,7 @@ The skilled ____ makes fresh bread every morning.
 - [ ] advantage
 - [ ] babysit
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**baker** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 4
 
@@ -264,7 +264,7 @@ ____ as a pilot has always been his dream job.
 - [ ] advantage
 - [ ] babysit
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Working** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 5
 
@@ -274,7 +274,7 @@ The agency helps graduates find steady ____.
 - [ ] advantage
 - [ ] babysit
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**employment** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -284,7 +284,7 @@ We held a face to face ____ with the client.
 - [ ] advantage
 - [ ] babysit
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**meeting** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 7
 
@@ -294,7 +294,7 @@ The talented ____ styled her hair nicely.
 - [ ] advantage
 - [ ] babysit
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hairdresser** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 8
 
@@ -304,7 +304,7 @@ The job offers a high hourly wage for ____.
 - [ ] advantage
 - [ ] babysit
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **students**。
 
 ### 9
 
@@ -314,7 +314,7 @@ He prepared thoroughly for his job ____ today.
 - [ ] advantage
 - [ ] babysit
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**interview** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -324,7 +324,7 @@ I hope to start my own ____ one day soon.
 - [ ] advantage
 - [ ] babysit
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**business** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -334,7 +334,7 @@ She played an active ____ in organizing the event.
 - [ ] advantage
 - [ ] babysit
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**role** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -344,7 +344,7 @@ She showed a natural ____ for painting at school.
 - [ ] advantage
 - [ ] babysit
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**talent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -354,7 +354,7 @@ He works in the mobile ____ sector in Shenzhen.
 - [ ] advantage
 - [ ] babysit
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tech** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -364,7 +364,7 @@ The kind ____ treated our sick dog carefully.
 - [ ] advantage
 - [ ] babysit
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**vet** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -374,7 +374,7 @@ He ____ give up his dream job for anything.
 - [ ] advantage
 - [ ] babysit
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wouldn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -384,7 +384,7 @@ ____ I had enough time, I would learn a new language.
 - [ ] advantage
 - [ ] babysit
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -394,7 +394,7 @@ A small ____ can lead to big progress.
 - [ ] advantage
 - [ ] babysit
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**change** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -404,7 +404,7 @@ Good practice will ____ you improve rapidly.
 - [ ] advantage
 - [ ] babysit
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**make** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -414,7 +414,7 @@ She ____ already completed the interview preparation.
 - [ ] advantage
 - [ ] babysit
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**had** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -424,6 +424,6 @@ ____ you need help, feel free to contact us.
 - [ ] advantage
 - [ ] babysit
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

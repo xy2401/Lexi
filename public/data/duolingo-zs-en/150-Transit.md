@@ -244,7 +244,7 @@ Watch out! Slow down during rush hour ____ jam.
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**traffic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ The driver ____ down at the crosswalk and stop sign.
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **slowed**。
 
 ### 3
 
@@ -264,7 +264,7 @@ On the way to the ____, we drove within speed limit.
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**airport** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ Watch out! The car sped up near the ____ light.
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**traffic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ On the way to school, parents pick up and ____ off kids.
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**drop** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ We got stuck in a heavy ____ jam during rush hour.
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**traffic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ It is ____ to get around in this big city.
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**convenient** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ Please slow down! There is a red ____ light ahead.
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**traffic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ He stopped before the ____ to let people pass.
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**crosswalk** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ ____ rush hour, cars move very slowly on the street.
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**During** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 11
 
@@ -344,7 +344,7 @@ Watch out! There is road work on the ____ ahead!
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lane** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ ____, we got stuck on the highway in rain.
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Unfortunately** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ I will pick you up at school at five ____.
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**o'clock** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ The driver will ____ off passengers at the airport.
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**drop** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ The heavy ____ jam caused many workers to be late.
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**traffic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ When the ____ light turned green, cars moved.
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**traffic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ On the way to the ____, he bought a hot coffee.
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**office** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ For safety, never ____ beyond the speed limit.
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**drive** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ All cars ____ when seeing the red stop sign.
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **stopped**。
 
 ### 20
 
@@ -434,6 +434,6 @@ The ____ sped up to pass the big truck ahead.
 - [ ] back
 - [ ] busy
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**driver** 为形容词/副词比较级，用于两者之间的对比。
 
 </quiz-cloze>

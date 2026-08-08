@@ -238,7 +238,7 @@ He offered a sincere ____ for his late delivery.
 - [ ] besides
 - [ ] blame
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**apology** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -248,7 +248,7 @@ ____ English, she also speaks fluent Spanish.
 - [ ] apology
 - [ ] blame
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Besides**。
 
 ### 3
 
@@ -258,7 +258,7 @@ Don't ____ others for mistakes you made yourself.
 - [ ] apology
 - [ ] besides
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**blame** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -268,7 +268,7 @@ I was very ____ with the poor customer service.
 - [ ] apology
 - [ ] besides
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **disappointed**。
 
 ### 5
 
@@ -278,7 +278,7 @@ The sudden cancellation of the show was ____ news.
 - [ ] apology
 - [ ] besides
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**disappointing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 6
 
@@ -288,7 +288,7 @@ We didn't want to end up in a ____ situation.
 - [ ] apology
 - [ ] besides
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**difficult** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -298,7 +298,7 @@ It was not your ____ that the machine stopped working.
 - [ ] apology
 - [ ] besides
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fault** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -308,7 +308,7 @@ Don't ____ up the phone before I finish speaking.
 - [ ] apology
 - [ ] besides
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hang** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -318,7 +318,7 @@ Try to avoid ____ thoughts during difficult times.
 - [ ] apology
 - [ ] besides
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**negative** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -328,7 +328,7 @@ Throw away any ____ food products in fridge.
 - [ ] apology
 - [ ] besides
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**out-of-date** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -338,7 +338,7 @@ Please ____ away your clothes after doing laundry.
 - [ ] apology
 - [ ] besides
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**put** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -348,7 +348,7 @@ I cannot ____ up with his noisy behavior any longer.
 - [ ] apology
 - [ ] besides
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**put** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -358,7 +358,7 @@ The store agreed to issue a full ____ for item.
 - [ ] apology
 - [ ] besides
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**refund** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -368,7 +368,7 @@ He had to ____ the unreasonable request from buyer.
 - [ ] apology
 - [ ] besides
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**refuse** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -378,7 +378,7 @@ We are about to run out of ____ paper in office.
 - [ ] apology
 - [ ] besides
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**printer** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 16
 
@@ -388,7 +388,7 @@ You can ____ back defective goods to the shop within a week.
 - [ ] apology
 - [ ] besides
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**take** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -398,7 +398,7 @@ That ____ like a fair deal to me.
 - [ ] apology
 - [ ] besides
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **sounds**。
 
 ### 18
 
@@ -408,7 +408,7 @@ Please ____ up the volume so everyone can hear.
 - [ ] apology
 - [ ] besides
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**turn** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -418,7 +418,7 @@ It is totally ____ to blame him for everything.
 - [ ] apology
 - [ ] besides
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**unfair** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -428,6 +428,6 @@ Would it be possible to get a ____ for this ticket?
 - [ ] apology
 - [ ] besides
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**refund** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

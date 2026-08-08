@@ -234,7 +234,7 @@ Drivers are allowed to park here ____ one hour.
 - [ ] allow
 - [ ] allowed to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**for** 为介词，表示目的、对象或持续的时间段。
 
 ### 2
 
@@ -244,7 +244,7 @@ Make sure to ____ your seatbelt before driving.
 - [ ] allow
 - [ ] allowed to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**buckle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -254,7 +254,7 @@ A sudden car accident blocked the highway ____.
 - [ ] allow
 - [ ] allowed to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**yesterday** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -264,7 +264,7 @@ Drivers must ____ on the road while driving.
 - [ ] allow
 - [ ] allowed to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**concentrate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -274,7 +274,7 @@ She passed her ____ test on her first attempt.
 - [ ] allow
 - [ ] allowed to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**driving** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 6
 
@@ -284,7 +284,7 @@ It is ____ to use a mobile phone while driving.
 - [ ] allow
 - [ ] allowed to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**illegal** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -294,7 +294,7 @@ You had ____ leave now to avoid heavy rush hour.
 - [ ] allow
 - [ ] allowed to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**better** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 8
 
@@ -304,7 +304,7 @@ You had better not drive above the ____ limit here.
 - [ ] allow
 - [ ] allowed to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **speed**。
 
 ### 9
 
@@ -314,7 +314,7 @@ We parked inside a ____ parking garage.
 - [ ] allow
 - [ ] allowed to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**multi-story** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -324,7 +324,7 @@ The car stopped to let the ____ cross safely.
 - [ ] allow
 - [ ] allowed to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pedestrian** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -334,7 +334,7 @@ All passengers inside the car must wear a ____.
 - [ ] allow
 - [ ] allowed to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**seatbelt** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -344,7 +344,7 @@ Please watch your ____ when driving near schools.
 - [ ] allow
 - [ ] allowed to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **speed**。
 
 ### 13
 
@@ -354,7 +354,7 @@ The car stopped immediately at the red ____.
 - [ ] allow
 - [ ] allowed to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stoplight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -364,7 +364,7 @@ Drivers are supposed to slow down near ____.
 - [ ] allow
 - [ ] allowed to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **crosswalks**。
 
 ### 15
 
@@ -374,7 +374,7 @@ The police officer gave him a speeding ____.
 - [ ] allow
 - [ ] allowed to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ticket** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -384,7 +384,7 @@ The highway goes through a dark mountain ____.
 - [ ] allow
 - [ ] allowed to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tunnel** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -394,7 +394,7 @@ This is a quiet residential ____ with low speed limits.
 - [ ] allow
 - [ ] allowed to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**zone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -404,7 +404,7 @@ Hurry up or you will ____ the next train stop.
 - [ ] allow
 - [ ] allowed to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**miss** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -414,7 +414,7 @@ Many people love to ____ along the river path.
 - [ ] allow
 - [ ] allowed to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cycle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -424,6 +424,6 @@ The store rules do not ____ pets inside.
 - [ ] allowed to
 - [ ] buckle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**allow** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

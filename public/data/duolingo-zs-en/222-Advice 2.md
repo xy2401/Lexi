@@ -246,7 +246,7 @@ You ____ have told me about the schedule change earlier.
 - [ ] aware
 - [ ] cheat on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**should** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -256,7 +256,7 @@ She ____ have left her keys on the dining table.
 - [ ] aware
 - [ ] cheat on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shouldn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -266,7 +266,7 @@ We ____ have avoided this terrible misunderstanding.
 - [ ] aware
 - [ ] cheat on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**could** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -276,7 +276,7 @@ I ____ have done it without your generous help.
 - [ ] aware
 - [ ] cheat on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**couldn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -286,7 +286,7 @@ He was ____ of the rules but ignored them completely.
 - [ ] cheat on
 - [ ] childish
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**aware** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -296,7 +296,7 @@ Please do not ____ my advice on this matter.
 - [ ] aware
 - [ ] cheat on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ignore** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -306,7 +306,7 @@ It was ____ to lose your temper over a small game.
 - [ ] aware
 - [ ] cheat on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**childish** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -316,7 +316,7 @@ Don't lose your ____ when talking to your partner.
 - [ ] aware
 - [ ] cheat on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**temper** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 9
 
@@ -326,7 +326,7 @@ My mother is deeply ____ about your health.
 - [ ] aware
 - [ ] cheat on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **concerned**。
 
 ### 10
 
@@ -336,7 +336,7 @@ You will ____ people if you criticize their appearance.
 - [ ] aware
 - [ ] cheat on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**offend** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -346,7 +346,7 @@ It is unfair to ____ him in front of everyone.
 - [ ] aware
 - [ ] cheat on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**criticize** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -356,7 +356,7 @@ I get the feeling that ____ went wrong yesterday.
 - [ ] aware
 - [ ] cheat on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**something** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 13
 
@@ -366,7 +366,7 @@ I have no clue how to solve this ____.
 - [ ] aware
 - [ ] cheat on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**problem** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -376,7 +376,7 @@ Let's not blame each other for this ____ disaster.
 - [ ] aware
 - [ ] cheat on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**total** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -386,7 +386,7 @@ Calling him a ____ will only make matters worse.
 - [ ] aware
 - [ ] cheat on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**liar** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -396,7 +396,7 @@ Never cheat on an exam if you want ____.
 - [ ] aware
 - [ ] cheat on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**respect** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -406,7 +406,7 @@ The ____ team worked hard to fix the mistake.
 - [ ] aware
 - [ ] cheat on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**entire** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -416,7 +416,7 @@ Try not to get ____ during the formal discussion.
 - [ ] aware
 - [ ] cheat on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**emotional** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -426,7 +426,7 @@ We ____ clear up this misunderstanding as soon as possible.
 - [ ] aware
 - [ ] cheat on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**should** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -436,6 +436,6 @@ That turned out to be a ____ failure for us.
 - [ ] aware
 - [ ] cheat on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**total** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

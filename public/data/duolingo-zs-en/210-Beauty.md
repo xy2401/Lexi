@@ -234,7 +234,7 @@ I went to the ____ to get my hair cut and dyed red.
 - [ ] appearance
 - [ ] barbershop
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**salon** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -244,7 +244,7 @@ She is going to ____ her nails done with glossy pink nail polish.
 - [ ] appearance
 - [ ] barbershop
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**get** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -254,7 +254,7 @@ The stylist is an ____ at creating a stylish hairstyle for long hair.
 - [ ] appearance
 - [ ] barbershop
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**expert** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -264,7 +264,7 @@ I need to ____ my makeup done before the evening party.
 - [ ] appearance
 - [ ] barbershop
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**get** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -274,7 +274,7 @@ He decided to ____ his ears pierced and bought a silver piercing.
 - [ ] appearance
 - [ ] barbershop
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**get** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -284,7 +284,7 @@ The doctor used a laser to ____ the old tattoo on his arm.
 - [ ] appearance
 - [ ] barbershop
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**remove** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -294,7 +294,7 @@ She applied face ____ and red lipstick to improve her appearance.
 - [ ] appearance
 - [ ] barbershop
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**powder** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 8
 
@@ -304,7 +304,7 @@ My brother usually gets his hair ____ at the local barbershop.
 - [ ] appearance
 - [ ] barbershop
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cut** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -314,7 +314,7 @@ A few drops of sweat appeared on his ____ during the workout.
 - [ ] appearance
 - [ ] barbershop
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**forehead** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -324,7 +324,7 @@ ____ you know how to do your own hair and nails at home?
 - [ ] appearance
 - [ ] barbershop
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Do** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -334,7 +334,7 @@ She has a delicate ____ of a butterfly on her shoulder.
 - [ ] appearance
 - [ ] barbershop
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tattoo** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -344,7 +344,7 @@ The ____ assistant recommended a short cut for a fresh look.
 - [ ] appearance
 - [ ] barbershop
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**salon** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -354,7 +354,7 @@ You should care about your personal ____ when going for an interview.
 - [ ] barbershop
 - [ ] cut
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**appearance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -364,7 +364,7 @@ She applied dark blue ____ polish to match her evening dress.
 - [ ] appearance
 - [ ] barbershop
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**nail** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -374,7 +374,7 @@ He went to an ____ to get his nose piercing cleaned safely.
 - [ ] appearance
 - [ ] barbershop
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**expert** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -384,7 +384,7 @@ The makeup artist put soft ____ on her forehead to reduce shine.
 - [ ] appearance
 - [ ] barbershop
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**powder** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 17
 
@@ -394,7 +394,7 @@ I would like to ____ my hair done for the wedding ceremony.
 - [ ] appearance
 - [ ] barbershop
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**get** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -404,7 +404,7 @@ It is easy to ____ makeup with warm water and cleanser.
 - [ ] appearance
 - [ ] barbershop
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**remove** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -414,7 +414,7 @@ He wears ____ clothes to match his modern hairstyle.
 - [ ] appearance
 - [ ] barbershop
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stylish** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -424,6 +424,6 @@ Her ____ color brightened up her face immediately.
 - [ ] appearance
 - [ ] barbershop
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lip** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

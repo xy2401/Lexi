@@ -262,7 +262,7 @@ What in the world happened to my ____?
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**keychain** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -272,7 +272,7 @@ I can ____ through your excuses, so don't lie to me.
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**see** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -282,7 +282,7 @@ If you ate my ____, I will tell on you to Mom.
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gum** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -292,7 +292,7 @@ It wasn't me who ripped your poster, look for ____!
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**yourself** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -302,7 +302,7 @@ Mom is bound to get angry if you leave your stuff ____.
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**around** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -312,7 +312,7 @@ The last piece of ____ on the table just vanished into thin air!
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gum** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -322,7 +322,7 @@ Using the wrong ____ setting is not a big deal.
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**microwave** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -332,7 +332,7 @@ There are tons of snacks in the ____, why take mine?
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**kitchen** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -342,7 +342,7 @@ I bumped into an old friend at the ____ today.
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**supermarket** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -352,7 +352,7 @@ Don't ____ gum while talking, it is rude.
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**chew** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -362,7 +362,7 @@ He bought a nice ____ with the name of his hometown.
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**keychain** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -372,7 +372,7 @@ Please put the food in the ____ to heat it up for two minutes.
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**microwave** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -382,7 +382,7 @@ I cannot ____ your taking my things without permission every day.
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tolerate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -392,7 +392,7 @@ Who ripped my English ____ into pieces?
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**notebook** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -402,7 +402,7 @@ Go ahead and use it, but ____ it to me when done.
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**return** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -412,7 +412,7 @@ I feel bad about ____ at you last night.
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**yelling** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 17
 
@@ -422,7 +422,7 @@ My ____ for making a mess in your bedroom.
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **apologies**。
 
 ### 18
 
@@ -432,7 +432,7 @@ We grew up in a beautiful southern ____.
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hometown** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -442,7 +442,7 @@ Please do not ____ that unpleasant topic at the dinner table.
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**raise** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -452,6 +452,6 @@ If you don't believe me, go ahead and ____ for yourself.
 - [ ] a thing
 - [ ] big deal
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**see** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

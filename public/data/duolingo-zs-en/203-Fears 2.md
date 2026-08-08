@@ -234,7 +234,7 @@ Don't get scared, let me help you through this dark ____.
 - [ ] bit
 - [ ] bite
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**corridor** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -244,7 +244,7 @@ ____ deeply and come a bit closer to me.
 - [ ] bit
 - [ ] bite
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Breathe** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -254,7 +254,7 @@ It is just a ____ creature; it won't bite you.
 - [ ] bit
 - [ ] bite
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**weird** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -264,7 +264,7 @@ That spider is the ____ thing I have ever seen.
 - [ ] bit
 - [ ] bite
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**grossest** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -274,7 +274,7 @@ The fishing boat ____, but the firefighters rescued everyone.
 - [ ] bit
 - [ ] bite
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sank** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -284,7 +284,7 @@ There was a moment of ____, and then we heard a loud scream.
 - [ ] bit
 - [ ] bite
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**silence** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -294,7 +294,7 @@ Taking that dark path alone is the ____ choice tonight.
 - [ ] bit
 - [ ] bite
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**riskiest** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -304,7 +304,7 @@ He was ____ by the frightening sound in the forest.
 - [ ] bit
 - [ ] bite
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **frightened**。
 
 ### 9
 
@@ -314,7 +314,7 @@ The criminal tried to ____ from the police in the city.
 - [ ] bit
 - [ ] bite
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**escape** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -324,7 +324,7 @@ She whispered a secret ____ my ear so nobody else could hear.
 - [ ] bit
 - [ ] bite
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**in** 为介词，后接地点、时间或范围，表示“在...里/中”。
 
 ### 11
 
@@ -334,7 +334,7 @@ You should ____ your fears instead of running away.
 - [ ] bit
 - [ ] bite
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**face** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -344,7 +344,7 @@ Be ____ not to fall off the steep cliff.
 - [ ] bit
 - [ ] bite
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**careful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -354,7 +354,7 @@ There is a dangerous ____ spread in the air.
 - [ ] bit
 - [ ] bite
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **virus**。
 
 ### 14
 
@@ -364,7 +364,7 @@ It is ____ to drive fast in such bad weather.
 - [ ] bit
 - [ ] bite
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**risky** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -374,7 +374,7 @@ A little dog ____ his leg when he walked past the yard.
 - [ ] bite
 - [ ] breathe
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -384,7 +384,7 @@ Ships will ____ if they take in too much water.
 - [ ] bit
 - [ ] bite
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sink** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -394,7 +394,7 @@ Look at the ____ trash left on the beach.
 - [ ] bit
 - [ ] bite
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gross** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -404,7 +404,7 @@ She turned a ____ pale when she heard the weird noise.
 - [ ] bite
 - [ ] breathe
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -414,7 +414,7 @@ Let me check if there is anything ____ the box.
 - [ ] bit
 - [ ] bite
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**in** 为介词，后接地点、时间或范围，表示“在...里/中”。
 
 ### 20
 
@@ -424,6 +424,6 @@ The police came to ____ the trapped passengers.
 - [ ] bit
 - [ ] bite
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rescue** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

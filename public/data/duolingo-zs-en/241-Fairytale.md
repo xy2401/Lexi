@@ -242,7 +242,7 @@ The brave knight brandished his ____ against the evil wizard.
 - [ ] approach
 - [ ] arrow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sword** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -252,7 +252,7 @@ The archer shot a glowing ____ high into the night sky.
 - [ ] approach
 - [ ] beyond
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**arrow** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -262,7 +262,7 @@ Explorers traveled through the ____ forest to find buried treasure.
 - [ ] approach
 - [ ] arrow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **mysterious**。
 
 ### 4
 
@@ -272,7 +272,7 @@ This ancient ____ tells the story of a hero who saved the kingdom.
 - [ ] approach
 - [ ] arrow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**legend** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -282,7 +282,7 @@ They believed that ____ would guide them through the long journey.
 - [ ] approach
 - [ ] arrow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -292,7 +292,7 @@ As the heroes began to ____ the castle, the gates opened.
 - [ ] arrow
 - [ ] beyond
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**approach** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -302,7 +302,7 @@ Pirates chose to ____ gold coins inside a deep mountain cave.
 - [ ] approach
 - [ ] arrow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bury** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -312,7 +312,7 @@ After drinking the potion, his ____ increased instantly.
 - [ ] approach
 - [ ] arrow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**strength** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -322,7 +322,7 @@ There was a ____ wooden bridge over the canyon up ahead.
 - [ ] approach
 - [ ] arrow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**narrow** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -332,7 +332,7 @@ The scenery inside the forest was ____ anyone's wild imagination.
 - [ ] approach
 - [ ] arrow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**beyond** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -342,7 +342,7 @@ The shadowy ____ were defeated one by one by the heroes.
 - [ ] approach
 - [ ] arrow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **monsters**。
 
 ### 12
 
@@ -352,7 +352,7 @@ The ____ dragon no longer threatened the peaceful villagers.
 - [ ] approach
 - [ ] arrow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**terrifying** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 13
 
@@ -362,7 +362,7 @@ Danger lay ahead; ____, the adventurers pushed forward bravely.
 - [ ] approach
 - [ ] arrow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**nevertheless** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -372,7 +372,7 @@ ____ the dark cave was the least of their worries now.
 - [ ] approach
 - [ ] arrow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Escaping** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 15
 
@@ -382,7 +382,7 @@ As the magic ____, the dark room grew more and more luminous.
 - [ ] approach
 - [ ] arrow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **sparkled**。
 
 ### 16
 
@@ -392,7 +392,7 @@ The hero ____ to find a way to get out of the castle.
 - [ ] approach
 - [ ] arrow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **needed**。
 
 ### 17
 
@@ -402,7 +402,7 @@ Just as the wizard chanted the spell, ____ struck the tower.
 - [ ] approach
 - [ ] arrow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lightning** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 18
 
@@ -412,7 +412,7 @@ Grandma reads an ____ fairytale to the kids every evening.
 - [ ] approach
 - [ ] arrow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**enchanting** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 19
 
@@ -422,7 +422,7 @@ The group managed to ____ magical herbs along the riverbank.
 - [ ] approach
 - [ ] arrow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**collect** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -432,6 +432,6 @@ Don't ____, the force of good will eventually conquer dark magic.
 - [ ] approach
 - [ ] arrow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**worry** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

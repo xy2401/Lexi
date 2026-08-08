@@ -234,7 +234,7 @@ He lost a plastic ____ from his winter shirt.
 - [ ] bra
 - [ ] collar
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**button** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -244,7 +244,7 @@ The white shirt ____ was neat and clean.
 - [ ] bra
 - [ ] button
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**collar** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -254,7 +254,7 @@ The store replaced the ____ electronic goods.
 - [ ] bra
 - [ ] button
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **damaged**。
 
 ### 4
 
@@ -264,7 +264,7 @@ She wore a ring with a sparkling ____.
 - [ ] bra
 - [ ] button
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**diamond** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -274,7 +274,7 @@ Can I ____ this sweater for a larger size?
 - [ ] bra
 - [ ] button
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**exchange** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -284,7 +284,7 @@ Check the care ____ on clothing before washing.
 - [ ] bra
 - [ ] button
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**label** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -294,7 +294,7 @@ The shop offers a full money back ____.
 - [ ] bra
 - [ ] button
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**guarantee** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -304,7 +304,7 @@ She likes the colorful ____ on the silk scarf.
 - [ ] bra
 - [ ] button
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pattern** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -314,7 +314,7 @@ We will ____ your broken device free of charge.
 - [ ] bra
 - [ ] button
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**replace** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -324,7 +324,7 @@ Customers can ____ unused items within a month.
 - [ ] bra
 - [ ] button
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**return** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -334,7 +334,7 @@ The elegant dress was made of smooth Italian ____.
 - [ ] bra
 - [ ] button
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**silk** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -344,7 +344,7 @@ Use detergent to remove the coffee ____ on shirt.
 - [ ] bra
 - [ ] button
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stain** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -354,7 +354,7 @@ I ____ store credit instead of cash refund.
 - [ ] bra
 - [ ] button
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **accepted**。
 
 ### 14
 
@@ -364,7 +364,7 @@ The shirt features vertical blue and white ____.
 - [ ] bra
 - [ ] button
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stripe** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -374,7 +374,7 @@ Wear a ____ coat during the cold winter months.
 - [ ] bra
 - [ ] button
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**thick** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -384,7 +384,7 @@ I ____ like to return this defective product.
 - [ ] bra
 - [ ] button
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**would** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -394,7 +394,7 @@ They ____ charge extra for exchanging items.
 - [ ] bra
 - [ ] button
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wouldn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -404,7 +404,7 @@ Get twenty percent ____ on selected items today.
 - [ ] bra
 - [ ] button
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**off** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -414,7 +414,7 @@ She ____ has the original receipt for warranty.
 - [ ] bra
 - [ ] button
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**still** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -424,6 +424,6 @@ She bought a supportive sports ____ for running.
 - [ ] button
 - [ ] collar
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bra** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

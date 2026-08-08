@@ -246,7 +246,7 @@ We need to book our ____ online well in advance.
 - [ ] along the way
 - [ ] alternate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **accommodations**。
 
 ### 2
 
@@ -256,7 +256,7 @@ We have a ____ in Denver with only forty minutes to wait.
 - [ ] accommodations
 - [ ] along the way
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**connection** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -266,7 +266,7 @@ We prepared an ____ route in case the weather turns bad.
 - [ ] accommodations
 - [ ] along the way
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**alternate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -276,7 +276,7 @@ If you plan ahead, you can save a lot on travel ____.
 - [ ] accommodations
 - [ ] along the way
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **expenses**。
 
 ### 5
 
@@ -286,7 +286,7 @@ I am ____ on staying in the coastal town for three days.
 - [ ] accommodations
 - [ ] along the way
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**planning** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 6
 
@@ -296,7 +296,7 @@ We are ____ of renting a car to drive along the coast.
 - [ ] accommodations
 - [ ] along the way
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**thinking** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 7
 
@@ -306,7 +306,7 @@ We intend to visit the famous local museum before ____.
 - [ ] accommodations
 - [ ] along the way
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**leaving** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 8
 
@@ -316,7 +316,7 @@ I was going to fly, but I ____ to take the train for the view.
 - [ ] accommodations
 - [ ] along the way
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **decided**。
 
 ### 9
 
@@ -326,7 +326,7 @@ I will look into the local hotel prices and ____ tonight.
 - [ ] accommodations
 - [ ] along the way
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **options**。
 
 ### 10
 
@@ -336,7 +336,7 @@ We took a wrong turn and ended up in a small ____ village.
 - [ ] accommodations
 - [ ] along the way
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fishing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 11
 
@@ -346,7 +346,7 @@ A four a.m. flight is not my idea of a fun ____.
 - [ ] accommodations
 - [ ] along the way
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**vacation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -356,7 +356,7 @@ Booking flights early will make the tickets ____ cheaper.
 - [ ] accommodations
 - [ ] along the way
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**considerably** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -366,7 +366,7 @@ Driving from here to the national park takes ____ three hours.
 - [ ] accommodations
 - [ ] along the way
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**roughly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -376,7 +376,7 @@ There was a ____ delay in our flight, but we didn't miss our connection.
 - [ ] accommodations
 - [ ] along the way
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**slight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -386,7 +386,7 @@ The mountain road can be ____ dangerous during heavy rain.
 - [ ] accommodations
 - [ ] along the way
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**potentially** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -396,7 +396,7 @@ Making a ____ choice within our budget is very important.
 - [ ] accommodations
 - [ ] along the way
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sensible** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -406,7 +406,7 @@ In order to save time, we ____ to take the highway.
 - [ ] accommodations
 - [ ] along the way
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **decided**。
 
 ### 18
 
@@ -416,7 +416,7 @@ Do you have a personal ____ between hotels and apartments?
 - [ ] accommodations
 - [ ] along the way
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**preference** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -426,7 +426,7 @@ We ____ we were lost and had to turn around.
 - [ ] accommodations
 - [ ] along the way
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **realized**。
 
 ### 20
 
@@ -436,6 +436,6 @@ We can stop and take ____ at pretty spots along the way.
 - [ ] accommodations
 - [ ] along the way
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **pictures**。
 
 </quiz-cloze>

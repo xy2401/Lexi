@@ -244,7 +244,7 @@ The ____ British author wrote a huge book on gay marriage.
 - [ ] annoying
 - [ ] author
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**successful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ My ____ is a brave firefighter, and my niece is a lawyer.
 - [ ] annoying
 - [ ] author
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**nephew** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ The ____ gave his lesbian spouse a cool haircut.
 - [ ] annoying
 - [ ] author
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**barber** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 4
 
@@ -274,7 +274,7 @@ Mutual ____ and respect are vital in a healthy relationship.
 - [ ] annoying
 - [ ] author
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**trust** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ The ____ blind man decided to retire next year.
 - [ ] author
 - [ ] barber
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**annoying** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 6
 
@@ -294,7 +294,7 @@ ____ speaking, their divorce did not destroy their respect.
 - [ ] annoying
 - [ ] author
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Honest** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ He dreams of finding a trustworthy ____ for a relationship.
 - [ ] annoying
 - [ ] author
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**date** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ My ____ published his first novel after he retired.
 - [ ] annoying
 - [ ] author
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**nephew** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ My ____ respects her brave uncle who works in fire station.
 - [ ] annoying
 - [ ] author
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**niece** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ This is a very ____ lawyer who won huge respect.
 - [ ] annoying
 - [ ] author
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**successful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ This famous ____ has millions of readers worldwide.
 - [ ] annoying
 - [ ] barber
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**author** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ The ____ trimmed the customer's hair in the barbershop.
 - [ ] annoying
 - [ ] author
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**barber** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 13
 
@@ -364,7 +364,7 @@ Building deep ____ between partners requires effort.
 - [ ] annoying
 - [ ] author
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**trust** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ We should learn to ____ every worker's hard work.
 - [ ] annoying
 - [ ] author
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**respect** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ His ____ is a very kind and thoughtful doctor.
 - [ ] annoying
 - [ ] author
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**spouse** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ The happy ____ of this couple lasted for forty years.
 - [ ] annoying
 - [ ] author
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**marriage** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ After years of hard work, he decided to ____.
 - [ ] annoying
 - [ ] author
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**retire** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ The brave ____ rushed in to save people.
 - [ ] annoying
 - [ ] author
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**firefighter** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 19
 
@@ -424,7 +424,7 @@ ____ do you plan to go for your dinner date tonight?
 - [ ] annoying
 - [ ] author
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Where** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ That sudden loud noise felt extremely ____ to us.
 - [ ] author
 - [ ] barber
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**annoying** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 </quiz-cloze>

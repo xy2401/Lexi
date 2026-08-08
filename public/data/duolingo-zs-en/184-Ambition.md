@@ -236,7 +236,7 @@ Hard work helped her ____ great success in business.
 - [ ] achievement
 - [ ] admire
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**achieve** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -246,7 +246,7 @@ Winning the prize was a remarkable ____ for him.
 - [ ] achieve
 - [ ] admire
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**achievement** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -256,7 +256,7 @@ I really ____ her dedication to scientific research.
 - [ ] achieve
 - [ ] achievement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**admire** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -266,7 +266,7 @@ Call me as soon as you finish your ____ session.
 - [ ] achieve
 - [ ] achievement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**training** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 5
 
@@ -276,7 +276,7 @@ She has a strong educational ____ in science.
 - [ ] achieve
 - [ ] achievement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**background** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -286,7 +286,7 @@ The new health policy will ____ all employees.
 - [ ] achieve
 - [ ] achievement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**benefit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -296,7 +296,7 @@ Leading the team was an exciting ____ for her.
 - [ ] achieve
 - [ ] achievement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**challenge** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -306,7 +306,7 @@ She gave a presentation at an international ____.
 - [ ] achieve
 - [ ] achievement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**conference** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -316,7 +316,7 @@ What is your ____ role in the company?
 - [ ] achieve
 - [ ] achievement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**current** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -326,7 +326,7 @@ It takes continuous ____ to master a new skill.
 - [ ] achieve
 - [ ] achievement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**effort** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -336,7 +336,7 @@ She studied software ____ at university.
 - [ ] achieve
 - [ ] achievement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**engineering** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 12
 
@@ -346,7 +346,7 @@ Internships help students ____ practical experience.
 - [ ] achieve
 - [ ] achievement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gain** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -356,7 +356,7 @@ He will ____ from college next summer.
 - [ ] achieve
 - [ ] achievement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**graduate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -366,7 +366,7 @@ His ____ strength is his ability to solve problems.
 - [ ] achieve
 - [ ] achievement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**greatest** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -376,7 +376,7 @@ The tech ____ is growing rapidly worldwide.
 - [ ] achieve
 - [ ] achievement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**industry** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -386,7 +386,7 @@ He was out of work for six months before ____ a job.
 - [ ] achieve
 - [ ] achievement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**finding** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 17
 
@@ -396,7 +396,7 @@ She applied for a managerial ____ in sales.
 - [ ] achieve
 - [ ] achievement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**position** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -406,7 +406,7 @@ Hard work earned him a well-deserved ____.
 - [ ] achieve
 - [ ] achievement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**promotion** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -416,7 +416,7 @@ The manager gave her a salary ____ last month.
 - [ ] achieve
 - [ ] achievement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**raise** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -426,6 +426,6 @@ A team of ____ published their discovery yesterday.
 - [ ] achieve
 - [ ] achievement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**scientist** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

@@ -248,7 +248,7 @@ ____ the weather stays clear, we can start our hike tomorrow.
 - [ ] assuming that
 - [ ] attempt
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **Provided**。
 
 ### 2
 
@@ -258,7 +258,7 @@ So long as we stick ____, we won't lose our way.
 - [ ] assuming that
 - [ ] attempt
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**together** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 3
 
@@ -268,7 +268,7 @@ Assuming that the ____ is open, we will arrive by noon.
 - [ ] assuming that
 - [ ] attempt
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**trail** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -278,7 +278,7 @@ How about we go ____ on the river this weekend?
 - [ ] assuming that
 - [ ] attempt
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rafting** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 5
 
@@ -288,7 +288,7 @@ They decided to go ____ across the mountain range.
 - [ ] assuming that
 - [ ] attempt
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**trekking** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 6
 
@@ -298,7 +298,7 @@ We saw a ____ leopard while on safari in Africa.
 - [ ] assuming that
 - [ ] attempt
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wild** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -308,7 +308,7 @@ The climbers made an ____ to reach the summit.
 - [ ] assuming that
 - [ ] attempt to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**attempt** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -318,7 +318,7 @@ The river flows through a deep and narrow ____.
 - [ ] assuming that
 - [ ] attempt
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**canyon** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -328,7 +328,7 @@ Make sure to drink water so you don't get ____.
 - [ ] assuming that
 - [ ] attempt
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **dehydrated**。
 
 ### 10
 
@@ -338,7 +338,7 @@ Take breaks ____ so that you don't overdo it.
 - [ ] assuming that
 - [ ] attempt
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**frequently** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -348,7 +348,7 @@ Be careful because some berries on this bush are ____.
 - [ ] assuming that
 - [ ] attempt
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **poisonous**。
 
 ### 12
 
@@ -358,7 +358,7 @@ Double-check your camping ____ before setting off.
 - [ ] assuming that
 - [ ] attempt
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gear** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -368,7 +368,7 @@ The mountain village offers a ____ view of the valley.
 - [ ] assuming that
 - [ ] attempt
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**picturesque** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -378,7 +378,7 @@ We need to set off early while there is still ____.
 - [ ] assuming that
 - [ ] attempt
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**daylight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -388,7 +388,7 @@ You must be strong enough to carry your own ____.
 - [ ] assuming that
 - [ ] attempt
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**backpack** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -398,7 +398,7 @@ We ____ be able to reach the camp before sunset.
 - [ ] assuming that
 - [ ] attempt
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**should** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -408,7 +408,7 @@ The sun is ____ bright to walk without sunglasses.
 - [ ] assuming that
 - [ ] attempt
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**too** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -418,7 +418,7 @@ You should never feed ____ animals on the trail.
 - [ ] assuming that
 - [ ] attempt
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wild** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -428,7 +428,7 @@ The ____ conditions were surprisingly good after the rain.
 - [ ] assuming that
 - [ ] attempt
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**trail** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -438,6 +438,6 @@ Follow the marked ____ so you stay safe in the forest.
 - [ ] assuming that
 - [ ] attempt
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**trail** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

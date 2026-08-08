@@ -244,7 +244,7 @@ The ____ required us to hand in the lab internship report.
 - [ ] attention
 - [ ] average
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**instructor** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ Paying ____ in drama class is essential for course unit.
 - [ ] average
 - [ ] circle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**attention** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ The assistant handed out this ____ worksheet in class.
 - [ ] attention
 - [ ] average
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **complicated**。
 
 ### 4
 
@@ -274,7 +274,7 @@ If you meet any ____, it is possible to ask for help.
 - [ ] attention
 - [ ] average
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**difficulty** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ You need to ____ for this required course first.
 - [ ] attention
 - [ ] average
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**register** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 6
 
@@ -294,7 +294,7 @@ We drew a ____ on paper to mark the wrong choice.
 - [ ] attention
 - [ ] average
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**circle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ There are plenty of ____ options for college seniors.
 - [ ] attention
 - [ ] average
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**internship** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ Handing in work on time is important for your ____ grade.
 - [ ] attention
 - [ ] circle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**average** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ The ____ showed us how to use lab equipment.
 - [ ] attention
 - [ ] average
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**instructor** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ Learning a new language requires plenty of ____.
 - [ ] average
 - [ ] circle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**attention** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ Please ____ in your completed final essay to the instructor.
 - [ ] attention
 - [ ] average
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hand** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ The assistant is handing out ____ to students.
 - [ ] attention
 - [ ] average
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **worksheets**。
 
 ### 13
 
@@ -364,7 +364,7 @@ The solution step for this math problem is ____.
 - [ ] attention
 - [ ] average
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **complicated**。
 
 ### 14
 
@@ -374,7 +374,7 @@ The summer ____ offers valuable work experience.
 - [ ] attention
 - [ ] average
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**internship** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ Please ____ online for next term's course units.
 - [ ] attention
 - [ ] average
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**register** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 16
 
@@ -394,7 +394,7 @@ Draw a ____ around the correct answer on the test paper.
 - [ ] attention
 - [ ] average
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**circle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ Good sleep is ____ for keeping a clear mind.
 - [ ] attention
 - [ ] average
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**essential** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ ____ is completely possible to get good grades if you try.
 - [ ] attention
 - [ ] average
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**it** 为第三人称单数代词，指代事物、动物或作形式主语。
 
 ### 19
 
@@ -424,7 +424,7 @@ There are plenty of book ____ in the library.
 - [ ] attention
 - [ ] average
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **resources**。
 
 ### 20
 
@@ -434,6 +434,6 @@ If you picked the ____ class, you can change it.
 - [ ] attention
 - [ ] average
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wrong** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

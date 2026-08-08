@@ -244,7 +244,7 @@ During the online meeting, John's ____ was on mute.
 - [ ] agenda
 - [ ] aren't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**microphone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ Please check today's meeting ____ before we start.
 - [ ] aren't
 - [ ] charger
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**agenda** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ Don't forget to bring your ____ and wear your headphones.
 - [ ] agenda
 - [ ] aren't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**charger** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 4
 
@@ -274,7 +274,7 @@ ____ from home helps us save a lot of travel time.
 - [ ] agenda
 - [ ] aren't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Working** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 5
 
@@ -284,7 +284,7 @@ ____, we can figure out this complex figure soon.
 - [ ] agenda
 - [ ] aren't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Hopefully** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ In this ____ rainy weather, the road is wet and slippery.
 - [ ] agenda
 - [ ] aren't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**icy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ The weather is really ____ today, isn't it?
 - [ ] agenda
 - [ ] aren't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cool** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ This professional ____ is very comfortable to wear.
 - [ ] agenda
 - [ ] aren't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**outfit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ They ____ the key document so it remained hidden.
 - [ ] agenda
 - [ ] aren't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hid** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ Watching a ____ by the ocean in the rainy season is nice.
 - [ ] agenda
 - [ ] aren't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sunset** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ Can you bring me the ____ for my phone?
 - [ ] agenda
 - [ ] aren't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**charger** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 12
 
@@ -354,7 +354,7 @@ Wearing ____ makes the sound very clear.
 - [ ] agenda
 - [ ] aren't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **headphones**。
 
 ### 13
 
@@ -364,7 +364,7 @@ ____, tomorrow's meeting will start on time.
 - [ ] agenda
 - [ ] aren't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Hopefully** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ You talked about your new ____ at the meeting.
 - [ ] agenda
 - [ ] aren't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**outfit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ During the ____ storm, we heard loud thunder outside.
 - [ ] agenda
 - [ ] aren't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rainy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ He ____ to work from home to take care of his puppy.
 - [ ] agenda
 - [ ] aren't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**chose** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ We managed to ____ out the main data in the report.
 - [ ] agenda
 - [ ] aren't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**figure** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ Her voice was on mute, so ____ could hear her.
 - [ ] agenda
 - [ ] aren't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**nobody** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ In this cold ____, the wind feels very icy.
 - [ ] agenda
 - [ ] aren't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**season** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ The meeting room temperature feels ____ and nice.
 - [ ] agenda
 - [ ] aren't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cool** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

@@ -238,7 +238,7 @@ He has a deep interest in ancient ____ and history.
 - [ ] been
 - [ ] collection
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**architecture** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -248,7 +248,7 @@ His private art ____ contains many rare oil paintings.
 - [ ] architecture
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**collection** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -258,7 +258,7 @@ ____ in the countryside is a great workout for weekends.
 - [ ] architecture
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Cycling** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 4
 
@@ -268,7 +268,7 @@ He has ____ collecting stamps ever since he was a kid.
 - [ ] architecture
 - [ ] collection
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**been** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -278,7 +278,7 @@ I like to go for a run in the park every ____.
 - [ ] architecture
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**morning** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 6
 
@@ -288,7 +288,7 @@ ____, I don't have much free time to watch television.
 - [ ] architecture
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Honestly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -298,7 +298,7 @@ How long have you ____ practicing yoga at home?
 - [ ] architecture
 - [ ] collection
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**been** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -308,7 +308,7 @@ Jogging three miles before ____ gives me great energy.
 - [ ] architecture
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**breakfast** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -318,7 +318,7 @@ Our local soccer team plays in the amateur ____.
 - [ ] architecture
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**league** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -328,7 +328,7 @@ Playing golf is his favorite pastime during ____ time.
 - [ ] architecture
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**leisure** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -338,7 +338,7 @@ He visits the gym less often now due to a busy ____.
 - [ ] architecture
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**schedule** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -348,7 +348,7 @@ You should ____ more often to stay fit and strong.
 - [ ] architecture
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**exercise** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -358,7 +358,7 @@ I enjoy reading history, ____ I love cooking for friends.
 - [ ] architecture
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **plus**。
 
 ### 14
 
@@ -368,7 +368,7 @@ She writes beautiful ____ and shares it online.
 - [ ] architecture
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**poetry** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -378,7 +378,7 @@ He goes to the local swimming pool ____ every week.
 - [ ] architecture
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**regularly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -388,7 +388,7 @@ They plan to scuba dive in the clear ____ ocean.
 - [ ] architecture
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tropical** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -398,7 +398,7 @@ I love ____ sports like hiking, camping, and that sort of thing.
 - [ ] architecture
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**outdoor** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -408,7 +408,7 @@ Doing ____ daily helps improve flexibility and relieve stress.
 - [ ] architecture
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**yoga** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -418,7 +418,7 @@ She has ____ a dedicated member of the choir for five years.
 - [ ] architecture
 - [ ] collection
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**been** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -428,6 +428,6 @@ We have ____ active members of this club since last year.
 - [ ] architecture
 - [ ] collection
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**been** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

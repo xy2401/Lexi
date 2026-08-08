@@ -236,7 +236,7 @@ The famous ____ designed the modern museum downtown.
 - [ ] a
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**architect** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -246,7 +246,7 @@ I can't wait for summer ____ to begin next week!
 - [ ] a
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**vacation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -256,7 +256,7 @@ Traveling is ____ great way to experience foreign culture.
 - [ ] any
 - [ ] architect
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**a** 为不定冠词，用于以辅音音素开头的可数名词单数前。
 
 ### 4
 
@@ -266,7 +266,7 @@ His face looks very ____, but I can't recall his name.
 - [ ] a
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**familiar** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -276,7 +276,7 @@ Hang on ____ second while I grab a pen to write this down.
 - [ ] any
 - [ ] architect
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**a** 为不定冠词，用于以辅音音素开头的可数名词单数前。
 
 ### 6
 
@@ -286,7 +286,7 @@ He is so busy that he ____ has time to watch television.
 - [ ] a
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hardly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -296,7 +296,7 @@ It is impolite to ____ people when they are talking.
 - [ ] a
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**interrupt** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -306,7 +306,7 @@ Allow me to ____ our new team member to everyone.
 - [ ] a
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**introduce** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -316,7 +316,7 @@ The curious ____ interviewed the eyewitness about the fire.
 - [ ] a
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**journalist** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -326,7 +326,7 @@ I would love to join you for coffee this ____.
 - [ ] a
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**afternoon** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -336,7 +336,7 @@ Let's get together for lunch ____ next week.
 - [ ] a
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sometime** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -346,7 +346,7 @@ ____ of movies, have you seen the latest sci-fi hit?
 - [ ] a
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Speaking** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 13
 
@@ -356,7 +356,7 @@ Working long hours created immense ____ for his mental health.
 - [ ] a
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stress** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -366,7 +366,7 @@ She looks almost identical to her ____ sister.
 - [ ] a
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**twin** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -376,7 +376,7 @@ ____ in line for hours was totally worth it in the end.
 - [ ] a
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Waiting** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 16
 
@@ -386,7 +386,7 @@ It is ____ nice day to go for a walk outside.
 - [ ] any
 - [ ] architect
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**a** 为不定冠词，用于以辅音音素开头的可数名词单数前。
 
 ### 17
 
@@ -396,7 +396,7 @@ There are ____ delicious apples on the kitchen table.
 - [ ] a
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**some** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -406,7 +406,7 @@ Did you encounter ____ problems during the system setup?
 - [ ] a
 - [ ] architect
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**any** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -416,7 +416,7 @@ This is ____ useful English practice book for beginners.
 - [ ] any
 - [ ] architect
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**a** 为不定冠词，用于以辅音音素开头的可数名词单数前。
 
 ### 20
 
@@ -426,6 +426,6 @@ Are you ____ with the new user interface?
 - [ ] a
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**familiar** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

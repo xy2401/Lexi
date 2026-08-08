@@ -244,7 +244,7 @@ Passengers began to ____ the plane half an hour before departure.
 - [ ] book
 - [ ] cruise
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**board** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ It is best to ____ your hotel room well in advance during peak season.
 - [ ] board
 - [ ] cruise
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**book** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ They went on a seven-day ____ Caribbean cruise last winter.
 - [ ] board
 - [ ] book
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**luxury** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ You can ____ cash at the currency exchange desk in the airport.
 - [ ] board
 - [ ] book
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**exchange** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ The flight to New York ____ depart at eight o'clock tonight.
 - [ ] board
 - [ ] book
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ This is a ____ flight with no layover stops on the way.
 - [ ] board
 - [ ] book
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**direct** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ Tourists love to ____ the old streets and historic markets.
 - [ ] board
 - [ ] book
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**explore** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ We took a morning ____ across the channel to the island.
 - [ ] board
 - [ ] book
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ferry** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ Young travelers love to go ____ through Europe in summer.
 - [ ] board
 - [ ] book
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**backpacking** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 10
 
@@ -334,7 +334,7 @@ Some travelers try to ____ along the highway to save money.
 - [ ] board
 - [ ] book
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hitchhike** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ Staying in a local ____ is a great way to meet travelers.
 - [ ] board
 - [ ] book
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hostel** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ We have a four-hour ____ in Tokyo before our next flight.
 - [ ] board
 - [ ] book
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**layover** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 13
 
@@ -364,7 +364,7 @@ The resort offers ____ rooms and private beach access.
 - [ ] board
 - [ ] book
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**luxury** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ We ____ leave the next day if we miss the evening bus.
 - [ ] board
 - [ ] book
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ I only need to buy a ____ ticket for this trip.
 - [ ] board
 - [ ] book
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**one-way** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ Would you prefer a ____ ticket or a single journey?
 - [ ] board
 - [ ] book
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**round-trip** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ Could you say that again? I ____ hear you clearly.
 - [ ] board
 - [ ] book
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**couldn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ ____ you travel, keep your passport in a safe place.
 - [ ] board
 - [ ] book
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Wherever** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 19
 
@@ -424,7 +424,7 @@ We ____ embark on a sightseeing tour next month.
 - [ ] board
 - [ ] book
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ You ____ be able to enter without a valid passport visa.
 - [ ] board
 - [ ] book
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**won't** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

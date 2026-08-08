@@ -235,7 +235,7 @@ You should log out of your account when using a public ____.
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**computer** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -245,7 +245,7 @@ Please ____ your device if the application crashes again.
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**restart** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -255,7 +255,7 @@ I need to ____ a new browser on my laptop.
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**install** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -265,7 +265,7 @@ The ____ made frequent visits to this video website.
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**user** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -275,7 +275,7 @@ You will get used to using a ____ during online meetings.
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**microphone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -285,7 +285,7 @@ ____ the red key to turn on the giant server in the room.
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Press** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -295,7 +295,7 @@ Can you take a look at the ____ on my screen?
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **graphics**。
 
 ### 8
 
@@ -305,7 +305,7 @@ I used to work with a simple ____ in the old factory.
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**robot** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -315,7 +315,7 @@ The ____ will automatically locate your face for video calls.
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**webcam** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -325,7 +325,7 @@ Please ____ to another server if the connection is slow.
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**switch** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -335,7 +335,7 @@ He bought a ____ screen for better graphics quality.
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**giant** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -345,7 +345,7 @@ I check my email once a day to stay ____.
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **updated**。
 
 ### 13
 
@@ -355,7 +355,7 @@ Do you know how to ____ this new software device?
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**install** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -365,7 +365,7 @@ She is a ____ user of social media applications.
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**frequent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -375,7 +375,7 @@ Take a look at the map to ____ the server center.
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**locate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -385,7 +385,7 @@ I haven't got used to the new ____ design yet.
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**keyboard** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -395,7 +395,7 @@ Turn off the ____ when you are not speaking.
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**microphone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -405,7 +405,7 @@ ____ any key on the keyboard to start the game.
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Press** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -415,7 +415,7 @@ He used to log out of the ____ every evening.
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**computer** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -425,6 +425,6 @@ The company will ____ to a faster giant web server.
 - [ ] browser
 - [ ] device
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**switch** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

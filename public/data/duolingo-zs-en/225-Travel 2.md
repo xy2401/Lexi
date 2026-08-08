@@ -246,7 +246,7 @@ Always prepare a backup plan when ____ abroad.
 - [ ] backup plan
 - [ ] deck
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**traveling** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 2
 
@@ -256,7 +256,7 @@ Check your daily ____ before leaving the hotel.
 - [ ] backup plan
 - [ ] deck
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**itinerary** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -266,7 +266,7 @@ We found a small quiet ____ in the middle of nowhere.
 - [ ] backup plan
 - [ ] deck
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**village** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -276,7 +276,7 @@ Bring an ____ with you just in case it rains.
 - [ ] backup plan
 - [ ] deck
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**umbrella** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -286,7 +286,7 @@ The resort is located on the ____ of the city.
 - [ ] backup plan
 - [ ] deck
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **outskirts**。
 
 ### 6
 
@@ -296,7 +296,7 @@ The small ____ lies off the coast of Italy.
 - [ ] backup plan
 - [ ] deck
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**island** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -306,7 +306,7 @@ All plane ____ for the holiday weekend are sold out.
 - [ ] backup plan
 - [ ] deck
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **tickets**。
 
 ### 8
 
@@ -316,7 +316,7 @@ We made a ____ decision to take a weekend road trip.
 - [ ] backup plan
 - [ ] deck
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **spontaneous**。
 
 ### 9
 
@@ -326,7 +326,7 @@ I ____ to get away from the city for a few days.
 - [ ] backup plan
 - [ ] deck
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**need** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -336,7 +336,7 @@ We plan to ____ up the green mountain trail tomorrow.
 - [ ] backup plan
 - [ ] deck
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hike** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -346,7 +346,7 @@ We stopped at a cozy roadside ____ for lunch.
 - [ ] backup plan
 - [ ] deck
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**diner** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 12
 
@@ -356,7 +356,7 @@ Enjoy the ocean view while relaxing on the ship ____.
 - [ ] backup plan
 - [ ] diner
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**deck** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -366,7 +366,7 @@ The flight was delayed due to ____ weather conditions.
 - [ ] backup plan
 - [ ] deck
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stormy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -376,7 +376,7 @@ ____ weather can be very warm and unpredictable.
 - [ ] backup plan
 - [ ] deck
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Tropical** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -386,7 +386,7 @@ Mountain weather is often ____ during spring.
 - [ ] backup plan
 - [ ] deck
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**unpredictable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -396,7 +396,7 @@ Put on sunscreen to avoid getting a painful ____.
 - [ ] backup plan
 - [ ] deck
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sunburn** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -406,7 +406,7 @@ The active ____ erupted and drew many tourists.
 - [ ] backup plan
 - [ ] deck
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**volcano** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -416,7 +416,7 @@ This vacation was not only affordable but also ____.
 - [ ] backup plan
 - [ ] deck
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**unforgettable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -426,7 +426,7 @@ Exploring new places is ____ exciting than staying home.
 - [ ] backup plan
 - [ ] deck
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**more** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -436,6 +436,6 @@ Let's make a short ____ at the souvenir shop.
 - [ ] backup plan
 - [ ] deck
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stop** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

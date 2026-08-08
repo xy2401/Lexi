@@ -244,7 +244,7 @@ The ____ teenager was curious about space.
 - [ ] ability
 - [ ] alike
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**creative** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ ____ confident and relaxed, the young lovers played in sand.
 - [ ] ability
 - [ ] alike
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Feeling** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 3
 
@@ -264,7 +264,7 @@ ____! This brilliant player was unemployed.
 - [ ] ability
 - [ ] alike
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Unbelievable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ ____, the game lover with a nickname lost the match.
 - [ ] ability
 - [ ] alike
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Unlucky** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ Would you mind showing us your great ____?
 - [ ] alike
 - [ ] amazed
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ability** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ The two ____ players had similar chin and smile.
 - [ ] ability
 - [ ] amazed
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**alike** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ Everyone was ____ at his brilliant and creative work.
 - [ ] ability
 - [ ] alike
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **amazed**。
 
 ### 8
 
@@ -314,7 +314,7 @@ It was a ____ uninteresting match that bored fans.
 - [ ] ability
 - [ ] alike
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fairly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ Would you mind giving me a cool ____?
 - [ ] ability
 - [ ] alike
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**nickname** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ He showed remarkable ____ and confidence in games.
 - [ ] alike
 - [ ] amazed
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ability** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ This ____ designer built many fun video games.
 - [ ] ability
 - [ ] alike
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**creative** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ ____ are always curious about new things around.
 - [ ] ability
 - [ ] alike
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Children** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ She felt very ____ about her performance on stage.
 - [ ] ability
 - [ ] alike
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**confident** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ It is ____ that we won the championship!
 - [ ] ability
 - [ ] alike
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**unbelievable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ After a hard match, he felt completely ____.
 - [ ] ability
 - [ ] alike
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **relaxed**。
 
 ### 16
 
@@ -394,7 +394,7 @@ His friends always call him by his ____.
 - [ ] ability
 - [ ] alike
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**nickname** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ The two brothers look very much ____ in face.
 - [ ] ability
 - [ ] amazed
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**alike** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ Walking on the warm ____ makes people feel relaxed.
 - [ ] ability
 - [ ] alike
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sand** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ We were ____ by his brilliant artistic works.
 - [ ] ability
 - [ ] alike
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **amazed**。
 
 ### 20
 
@@ -434,6 +434,6 @@ Would you mind ____ me pick up the ball?
 - [ ] ability
 - [ ] alike
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**helping** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 </quiz-cloze>

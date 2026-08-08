@@ -242,7 +242,7 @@ We bought a ____ house, but the plumbing is severely clogged.
 - [ ] a hand
 - [ ] admittedly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fixer-upper** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 2
 
@@ -252,7 +252,7 @@ I can't get over how much work this wall ____ requires.
 - [ ] a hand
 - [ ] admittedly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**crack** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -262,7 +262,7 @@ I can't take the ____ smell in the basement any longer.
 - [ ] a hand
 - [ ] admittedly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**damp** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -272,7 +272,7 @@ On top of that, the roof ____ could cause the ceiling to collapse.
 - [ ] a hand
 - [ ] admittedly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**leak** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -282,7 +282,7 @@ ____, buying this brick house was a risky investment.
 - [ ] a hand
 - [ ] all over again
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Admittedly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -292,7 +292,7 @@ By far, roof ____ is the most expensive part of construction.
 - [ ] a hand
 - [ ] admittedly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**maintenance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -302,7 +302,7 @@ Oh man, we might have to start the ____ work all over again!
 - [ ] a hand
 - [ ] admittedly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**foundation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -312,7 +312,7 @@ I felt ____ after the professional measured the room dimensions.
 - [ ] a hand
 - [ ] admittedly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **relieved**。
 
 ### 9
 
@@ -322,7 +322,7 @@ Don't stress out over the ____ report on house safety.
 - [ ] a hand
 - [ ] admittedly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**concerning** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 10
 
@@ -332,7 +332,7 @@ Could you give me a hand to ____ the outdoor patio?
 - [ ] a hand
 - [ ] admittedly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**extend** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -342,7 +342,7 @@ The ____ is not so bad after all.
 - [ ] a hand
 - [ ] admittedly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**situation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -352,7 +352,7 @@ We need to check the ____ walls for any hidden crack.
 - [ ] a hand
 - [ ] admittedly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**brick** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -362,7 +362,7 @@ ____ air inside the house can cause health problems.
 - [ ] a hand
 - [ ] admittedly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Damp** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -372,7 +372,7 @@ ____ problems are very common in older houses.
 - [ ] a hand
 - [ ] admittedly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Plumbing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 15
 
@@ -382,7 +382,7 @@ He was ____ to hear that the roof wouldn't collapse.
 - [ ] a hand
 - [ ] admittedly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **relieved**。
 
 ### 16
 
@@ -392,7 +392,7 @@ This house project is by far the biggest ____ of our lives.
 - [ ] a hand
 - [ ] admittedly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**investment** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -402,7 +402,7 @@ Oh man, the drain in the bathroom is ____ again!
 - [ ] a hand
 - [ ] admittedly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **clogged**。
 
 ### 18
 
@@ -412,7 +412,7 @@ We have to ____ the kitchen space before buying cabinets.
 - [ ] a hand
 - [ ] admittedly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**measure** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -422,7 +422,7 @@ Regular ____ can prevent serious roof leaks.
 - [ ] a hand
 - [ ] admittedly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**maintenance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -432,6 +432,6 @@ He needs a hand to finish the home ____ project.
 - [ ] a hand
 - [ ] admittedly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**construction** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

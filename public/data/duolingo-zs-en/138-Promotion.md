@@ -244,7 +244,7 @@ He sent an ____ to get a job with a higher salary.
 - [ ] about
 - [ ] avoid
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**application** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ After shaking hands with the ____ manager, he wrote a signature.
 - [ ] about
 - [ ] application
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**branch** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ The ____ and baker gained success with knowledge.
 - [ ] about
 - [ ] application
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hairstylist** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ This ____ business letter ended with 'Sincerely yours'.
 - [ ] about
 - [ ] application
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**monthly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ To ____ errors, make a photocopy of this blank page.
 - [ ] about
 - [ ] application
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**avoid** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ An ____ farmer gained good monthly income from farming.
 - [ ] about
 - [ ] application
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ordinary** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ We succeeded in getting a positive ____ about promotion.
 - [ ] about
 - [ ] application
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**response** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ The manager ____ hands with every new employee.
 - [ ] about
 - [ ] application
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shook** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ The ____ used his baking knowledge to make bread.
 - [ ] about
 - [ ] application
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**baker** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 10
 
@@ -334,7 +334,7 @@ Please write your ____ on the right blank side.
 - [ ] about
 - [ ] application
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**signature** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ He filled out a job ____ for the full-time position.
 - [ ] about
 - [ ] avoid
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**application** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ Employees receive a fixed ____ salary.
 - [ ] about
 - [ ] application
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**monthly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ Please put your official ____ on the line.
 - [ ] about
 - [ ] application
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**signature** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ ____ thank you for your support of our work.
 - [ ] about
 - [ ] application
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Sincerely** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ He achieved great ____ across all company branches.
 - [ ] about
 - [ ] application
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**success** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ Professional ____ is essential for career success.
 - [ ] about
 - [ ] application
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**knowledge** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ Please make two photocopies ____ this document.
 - [ ] about
 - [ ] application
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**of** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ He is an ____ farmer who works hard every day.
 - [ ] about
 - [ ] application
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ordinary** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ The ____ designed a beautiful new haircut for her.
 - [ ] about
 - [ ] application
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hairstylist** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ Both representatives ____ hands after the meeting.
 - [ ] about
 - [ ] application
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shook** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

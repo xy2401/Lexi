@@ -244,7 +244,7 @@ An ____ calculated tax indoors for his assignment.
 - [ ] assignment
 - [ ] corn
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**accountant** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ People never used to ____ corn outdoors with a broom.
 - [ ] accountant
 - [ ] assignment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sweep** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ A spider ____ and built a web between rocks near the stream.
 - [ ] accountant
 - [ ] assignment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**swept** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ ____, he preferred to fly and explore religion.
 - [ ] accountant
 - [ ] assignment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**However** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 5
 
@@ -284,7 +284,7 @@ Do you know how to ____ this book a few inches thick?
 - [ ] accountant
 - [ ] assignment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cover** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 6
 
@@ -294,7 +294,7 @@ We didn't use to ____ the yard at sunrise.
 - [ ] accountant
 - [ ] assignment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sweep** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ That ____ a few inches wide dropped in the stream.
 - [ ] accountant
 - [ ] assignment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rock** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ ____ homework assignments and more outdoors time help.
 - [ ] accountant
 - [ ] assignment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Fewer** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 9
 
@@ -324,7 +324,7 @@ His ____ activity was walking near the stream.
 - [ ] accountant
 - [ ] assignment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**favorite** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ The ____ covered the desk with a clean towel.
 - [ ] assignment
 - [ ] corn
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**accountant** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ He became a qualified ____ after graduation.
 - [ ] assignment
 - [ ] corn
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**accountant** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ The teacher gave us a new learning ____.
 - [ ] accountant
 - [ ] corn
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**assignment** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ Farmers harvested a lot of yellow ____ in autumn.
 - [ ] accountant
 - [ ] assignment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**corn** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ In cold winter, people prefer staying ____.
 - [ ] accountant
 - [ ] assignment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **indoors**。
 
 ### 15
 
@@ -384,7 +384,7 @@ Children love playing ____ on sunny summer days.
 - [ ] accountant
 - [ ] assignment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **outdoors**。
 
 ### 16
 
@@ -394,7 +394,7 @@ The ____ of this wooden box is only two inches.
 - [ ] accountant
 - [ ] assignment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**thickness** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ The water in the ____ is very clear and clean.
 - [ ] accountant
 - [ ] assignment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stream** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ To ____ the floor clean is a daily morning chore.
 - [ ] accountant
 - [ ] assignment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sweep** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ He ____ all the fallen leaves in the yard last night.
 - [ ] accountant
 - [ ] assignment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**swept** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ Respecting different cultures and ____ is important.
 - [ ] accountant
 - [ ] assignment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**religion** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

@@ -244,7 +244,7 @@ Ancient Egyptian ____ flourished along the Nile River for thousands of years.
 - [ ] agree to
 - [ ] conquer
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**civilization** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ The brave soldiers achieved a decisive ____ in the battlefield.
 - [ ] agree to
 - [ ] civilization
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**victory** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ The army managed to ____ the invading enemy and protect the city.
 - [ ] agree to
 - [ ] civilization
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**defeat** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ Historically, powerful empires attempted to ____ all of Europe.
 - [ ] agree to
 - [ ] civilization
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**conquer** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 5
 
@@ -284,7 +284,7 @@ Legend says that pirates buried ____ on a deserted island.
 - [ ] agree to
 - [ ] civilization
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**treasure** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ The two ____ countries eventually decided to go to war.
 - [ ] agree to
 - [ ] civilization
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**neighboring** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 7
 
@@ -304,7 +304,7 @@ ____ discovered stone tools used by early humans.
 - [ ] agree to
 - [ ] civilization
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Archaeologists**。
 
 ### 8
 
@@ -314,7 +314,7 @@ The Silk Road promoted ____ of goods and ideas between regions.
 - [ ] agree to
 - [ ] civilization
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**trade** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ Early settlers ____ across the ocean to build a new life.
 - [ ] agree to
 - [ ] civilization
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **immigrated**。
 
 ### 10
 
@@ -334,7 +334,7 @@ Over time, this ancient building ____ slowly disappeared.
 - [ ] agree to
 - [ ] civilization
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**technique** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ Even though they faced extreme weather, the ____ kept moving.
 - [ ] agree to
 - [ ] civilization
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **explorers**。
 
 ### 12
 
@@ -354,7 +354,7 @@ ____ a severe lack of supplies, the garrison held the fortress.
 - [ ] agree to
 - [ ] civilization
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Despite** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ Now that the conflict has ended, people are ____ their homes.
 - [ ] agree to
 - [ ] civilization
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rebuilding** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 14
 
@@ -374,7 +374,7 @@ ____ the fall of the empire, the castle has remained empty.
 - [ ] agree to
 - [ ] civilization
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Since** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ The warriors raised the national ____ high above the fortress.
 - [ ] agree to
 - [ ] civilization
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**flag** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ ____ of both nations agreed to sign a peace treaty.
 - [ ] agree to
 - [ ] civilization
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Leaders**。
 
 ### 17
 
@@ -404,7 +404,7 @@ ____ still study tribes that existed thousands of years ago.
 - [ ] agree to
 - [ ] civilization
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Historians**。
 
 ### 18
 
@@ -414,7 +414,7 @@ ____ methods are used alongside modern tools in agriculture.
 - [ ] agree to
 - [ ] civilization
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Traditional** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ The kingdom developed technology ____ preserving unique customs.
 - [ ] agree to
 - [ ] civilization
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**while** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ ____, the true reason for the collapse of the city remains mysterious.
 - [ ] agree to
 - [ ] civilization
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Yet** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

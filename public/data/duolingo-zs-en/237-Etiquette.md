@@ -244,7 +244,7 @@ Please ____ by Friday so the host can finalize the table arrangement.
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**RSVP** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ The wedding ____ was held in honor of the newlyweds.
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reception** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ After being invited to the bridal ____, she bought a lovely gift.
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shower** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 4
 
@@ -274,7 +274,7 @@ After having finished the speech, the ____ thanked all the guests.
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**host** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ When in doubt, it is best to ask the ____ directly about the dress code.
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**host** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ Whether or not you wear ____ attire depends on the venue.
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**formal** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ As for the decorations, we can do without a silk ____.
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tablecloth** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ To begin with, setting up the venue is a demanding ____.
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**task** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ It is up to you whether to bring a ____ of flowers or a gift.
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bouquet** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ She called to ____ about the last-minute seating change.
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**inquire** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ The ____ encouraged all guests to interact and take photographs.
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**host** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ Depending on the weather, the ____ might be held outdoors.
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reception** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ We had to make a ____ adjustment to the party plan.
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**last-minute** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ As for the music, the ____ hired a professional DJ.
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**host** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ When in doubt, send a ____ note after the event.
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**thank-you** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ She took a ____ of the beautiful floral arrangement.
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**photograph** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ To begin with, we need to send out all the ____ invitations.
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**formal** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ Can we do without a big ____ for the party?
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tablecloth** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ He went to the baby ____ with a box of diapers.
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shower** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 20
 
@@ -434,6 +434,6 @@ Setting each ____ on the formal dining table takes time.
 - [ ] after being
 - [ ] after having
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**place** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

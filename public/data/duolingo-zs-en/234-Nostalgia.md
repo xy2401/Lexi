@@ -246,7 +246,7 @@ Remember when we used to sneak out of ____ at night?
 - [ ] back
 - [ ] clearly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**camp** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -256,7 +256,7 @@ ____ that time we stayed up all night eating junk food?
 - [ ] back
 - [ ] camp
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Remember** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 3
 
@@ -266,7 +266,7 @@ ____ take turns telling ghost stories around the campfire.
 - [ ] back
 - [ ] camp
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**We'd** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -276,7 +276,7 @@ We hit it off right away, even though we had ____ in common at first.
 - [ ] back
 - [ ] camp
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**nothing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 5
 
@@ -286,7 +286,7 @@ It's easy to lose touch when you move to ____ city.
 - [ ] back
 - [ ] camp
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**another** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 6
 
@@ -296,7 +296,7 @@ No wonder you felt ____ during your first week at camp.
 - [ ] back
 - [ ] camp
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**homesick** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -306,7 +306,7 @@ Looking ____, we were so reckless and irresponsible.
 - [ ] camp
 - [ ] clearly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**back** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -316,7 +316,7 @@ I ____ remember watching the annual parade with my family.
 - [ ] back
 - [ ] camp
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**clearly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -326,7 +326,7 @@ We had so many ____ moments back in high school.
 - [ ] back
 - [ ] camp
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**memorable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -336,7 +336,7 @@ We used to ____ for hours on long-distance calls.
 - [ ] back
 - [ ] camp
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**talk** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -346,7 +346,7 @@ I lost track of time while playing tricks on my ____.
 - [ ] back
 - [ ] camp
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **neighbors**。
 
 ### 12
 
@@ -356,7 +356,7 @@ She always kept a ____ attitude despite the challenges.
 - [ ] back
 - [ ] camp
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**positive** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -366,7 +366,7 @@ ____ spend all summer at the lake camp.
 - [ ] back
 - [ ] camp
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**We'd** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -376,7 +376,7 @@ It is no wonder that they became best ____.
 - [ ] back
 - [ ] camp
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **friends**。
 
 ### 15
 
@@ -386,7 +386,7 @@ I felt ____ during my first month away from home.
 - [ ] back
 - [ ] camp
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**homesick** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -396,7 +396,7 @@ They ____ take turns driving on long road trips.
 - [ ] back
 - [ ] camp
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**would** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -406,7 +406,7 @@ He played a funny ____ on his roommate.
 - [ ] back
 - [ ] camp
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**trick** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -416,7 +416,7 @@ We had ____ in common when we first met.
 - [ ] back
 - [ ] camp
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**nothing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 19
 
@@ -426,7 +426,7 @@ ____ in the day, we did not have smartphones.
 - [ ] camp
 - [ ] clearly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Back** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -436,6 +436,6 @@ I ____ recall every single details of that trip.
 - [ ] back
 - [ ] camp
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**clearly** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

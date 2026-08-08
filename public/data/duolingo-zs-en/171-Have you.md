@@ -236,7 +236,7 @@ Have you ever ____ to New York City for sightseeing?
 - [ ] any
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**been** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -246,7 +246,7 @@ Our basketball team has ____ the champions in the finals.
 - [ ] any
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**beaten** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -256,7 +256,7 @@ Many ____ choose to study at the library during break.
 - [ ] any
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **students**。
 
 ### 4
 
@@ -266,7 +266,7 @@ Keep fresh meat in the freezer so it doesn't ____ quickly.
 - [ ] any
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**freeze** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -276,7 +276,7 @@ The water ____ completely when temperature dropped overnight.
 - [ ] any
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**froze** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -286,7 +286,7 @@ The grocery store sells many kinds of ____ vegetables.
 - [ ] any
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**frozen** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -296,7 +296,7 @@ I was happy to hear that you won the full ____.
 - [ ] any
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**scholarship** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -306,7 +306,7 @@ My ____ and I have a lot in common when it comes to music.
 - [ ] any
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**roommate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -316,7 +316,7 @@ He showed a great ____ in learning traditional history.
 - [ ] any
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**interest** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -326,7 +326,7 @@ I have never ____ to Europe, but I hope to visit next year.
 - [ ] any
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**been** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -336,7 +336,7 @@ Always show respect for the opinions of ____ around you.
 - [ ] any
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **others**。
 
 ### 12
 
@@ -346,7 +346,7 @@ Playing outdoor ____ is a fun way to stay healthy.
 - [ ] any
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **sports**。
 
 ### 13
 
@@ -356,7 +356,7 @@ When the music played, people start to dance ____.
 - [ ] any
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**together** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 14
 
@@ -366,7 +366,7 @@ Feel free to stop by our ____ on your way home.
 - [ ] any
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**house** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -376,7 +376,7 @@ He ____ gets up early at six o'clock every morning.
 - [ ] any
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**typically** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -386,7 +386,7 @@ She did very ____ on her English presentation today.
 - [ ] any
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**well** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -396,7 +396,7 @@ We ____ host a neighborhood festival next month.
 - [ ] any
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -406,7 +406,7 @@ Did you experience ____ difficulty during your work today?
 - [ ] anything
 - [ ] beaten
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**any** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -416,7 +416,7 @@ If there is ____ I can do, please let me know.
 - [ ] any
 - [ ] beaten
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**anything** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 20
 
@@ -426,6 +426,6 @@ He has ____ a reliable employee in this company for years.
 - [ ] any
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**been** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

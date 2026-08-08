@@ -244,7 +244,7 @@ Before moving, we need to get rid of useless old ____.
 - [ ] air conditioning
 - [ ] alarm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**furniture** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ The new house with central air conditioning is ____.
 - [ ] air conditioning
 - [ ] alarm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**convenient** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ Please check if the smoke ____ and grill in backyard work.
 - [ ] air conditioning
 - [ ] backyard
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**alarm** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ When the electric ____ breaks down, fans stop working.
 - [ ] air conditioning
 - [ ] alarm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**power** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 5
 
@@ -284,7 +284,7 @@ The owner put a ____ grill and bathtub in backyard.
 - [ ] air conditioning
 - [ ] alarm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**convenient** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ We put clean and soft bed sheets in our new ____.
 - [ ] air conditioning
 - [ ] alarm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bedroom** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ Don't be ____, all valuable mail and boxes are locked.
 - [ ] air conditioning
 - [ ] alarm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **worried**。
 
 ### 8
 
@@ -314,7 +314,7 @@ Please turn off the main ____ switch to save electricity.
 - [ ] air conditioning
 - [ ] alarm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**power** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 9
 
@@ -324,7 +324,7 @@ Sorting out old stuff makes people feel ____ and stressed.
 - [ ] air conditioning
 - [ ] alarm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **tired**。
 
 ### 10
 
@@ -334,7 +334,7 @@ They decorated their ____ with flowers and lights.
 - [ ] air conditioning
 - [ ] alarm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**backyard** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ Running the air ____ in summer is very comfortable.
 - [ ] air conditioning
 - [ ] alarm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**conditioning** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 12
 
@@ -354,7 +354,7 @@ Every bedroom must have a working smoke ____.
 - [ ] air conditioning
 - [ ] backyard
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**alarm** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ The whole family had a BBQ party in the ____.
 - [ ] air conditioning
 - [ ] alarm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**backyard** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ Please get rid of ____ garbage in your room.
 - [ ] air conditioning
 - [ ] alarm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**useless** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ Remember to press the ____ to turn off the light.
 - [ ] air conditioning
 - [ ] alarm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**switch** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ That set of furniture is their most ____ item.
 - [ ] air conditioning
 - [ ] alarm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**valuable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ After a whole day of moving work, he felt very ____.
 - [ ] air conditioning
 - [ ] alarm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **tired**。
 
 ### 18
 
@@ -414,7 +414,7 @@ Mother is always a bit ____ about her children.
 - [ ] air conditioning
 - [ ] alarm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **worried**。
 
 ### 19
 
@@ -424,7 +424,7 @@ The location of this apartment is very ____.
 - [ ] air conditioning
 - [ ] alarm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**convenient** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ We put fresh clean ____ on the new bed today.
 - [ ] air conditioning
 - [ ] alarm
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **sheets**。
 
 </quiz-cloze>

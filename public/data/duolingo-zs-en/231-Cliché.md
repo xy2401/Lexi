@@ -248,7 +248,7 @@ It seems that first ____ are not always accurate.
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **impressions**。
 
 ### 2
 
@@ -258,7 +258,7 @@ She gave a cliché ____ for being late.
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**explanation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -268,7 +268,7 @@ They might have assumed that everyone lives the ____ dream.
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**American** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -278,7 +278,7 @@ Not everyone in Texas is a ____, after all.
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cowboy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -288,7 +288,7 @@ The company has a ____ for being very competitive.
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reputation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -298,7 +298,7 @@ Do you ____ in love at first sight?
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**believe** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -308,7 +308,7 @@ It might seem that ____ ideas are no longer useful.
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **old-fashioned**。
 
 ### 8
 
@@ -318,7 +318,7 @@ We came to the ____ that the rumor was just a myth.
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**conclusion** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -328,7 +328,7 @@ The local community is very ____ and welcoming to newcomers.
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**diverse** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -338,7 +338,7 @@ What on earth made you think that ____ are not athletic?
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **cheerleaders**。
 
 ### 11
 
@@ -348,7 +348,7 @@ Hard work does not ____ guarantee success.
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**necessarily** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -358,7 +358,7 @@ I am not sure that this ____ is realistic.
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**expectation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -368,7 +368,7 @@ They might not have realized how ____ their expectations were.
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**unrealistic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -378,7 +378,7 @@ He was a ____ in high school.
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cheerleader** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 15
 
@@ -388,7 +388,7 @@ It is a common ____ that all Americans eat junk food every day.
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**myth** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -398,7 +398,7 @@ They welcomed us with a warm ____.
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**handshake** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -408,7 +408,7 @@ Don't jump to ____ before knowing all the facts.
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **conclusions**。
 
 ### 18
 
@@ -418,7 +418,7 @@ The culture in this region is remarkably ____.
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**diverse** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -428,7 +428,7 @@ He holds an ____ perspective on career paths.
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **old-fashioned**。
 
 ### 20
 
@@ -438,6 +438,6 @@ After all, people ____ a second chance.
 - [ ] American dream
 - [ ] after all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**deserve** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

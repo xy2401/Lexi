@@ -234,7 +234,7 @@ My ____ is still alive and well at ninety.
 - [ ] alive
 - [ ] babysitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**great-grandmother** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 2
 
@@ -244,7 +244,7 @@ We hired a reliable ____ for Friday night.
 - [ ] alive
 - [ ] close
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**babysitter** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 3
 
@@ -254,7 +254,7 @@ My ____ prepared a fantastic family meal.
 - [ ] alive
 - [ ] babysitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**daughter-in-law** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -264,7 +264,7 @@ Our ____ family gets together every summer.
 - [ ] alive
 - [ ] babysitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **extended**。
 
 ### 5
 
@@ -274,7 +274,7 @@ The club opened a new group for ____ members.
 - [ ] alive
 - [ ] babysitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**female** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -284,7 +284,7 @@ My ____ loves to share old stories with us.
 - [ ] alive
 - [ ] babysitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**great-grandmother** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 7
 
@@ -294,7 +294,7 @@ The grandfather is proud of his young ____.
 - [ ] alive
 - [ ] babysitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**great-grandson** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -304,7 +304,7 @@ He invited only members of his ____ family.
 - [ ] alive
 - [ ] babysitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**immediate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -314,7 +314,7 @@ We are going to visit our ____ this holiday season.
 - [ ] alive
 - [ ] babysitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **in-laws**。
 
 ### 10
 
@@ -324,7 +324,7 @@ Both ____ and female athletes joined the marathon.
 - [ ] alive
 - [ ] babysitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**male** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -334,7 +334,7 @@ A ____ man helped guide us through the park.
 - [ ] alive
 - [ ] babysitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **middle-aged**。
 
 ### 12
 
@@ -344,7 +344,7 @@ My ____ baked a delicious cake for my birthday.
 - [ ] alive
 - [ ] babysitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mother-in-law** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -354,7 +354,7 @@ Her ____ passed away peacefully last night.
 - [ ] alive
 - [ ] babysitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**grandfather** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 14
 
@@ -364,7 +364,7 @@ My ____ is an experienced interior designer.
 - [ ] alive
 - [ ] babysitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sister-in-law** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -374,7 +374,7 @@ Their ____ works as a software developer.
 - [ ] alive
 - [ ] babysitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**son-in-law** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -384,7 +384,7 @@ The couple decided to ____ up after five years.
 - [ ] alive
 - [ ] babysitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**split** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -394,7 +394,7 @@ Her ____ taught her how to drive a car.
 - [ ] alive
 - [ ] babysitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stepfather** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 18
 
@@ -404,7 +404,7 @@ His ____ cooks delicious meals for the family.
 - [ ] alive
 - [ ] babysitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stepmother** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 19
 
@@ -414,7 +414,7 @@ She is very ____ with all of her cousins.
 - [ ] alive
 - [ ] babysitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**close** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -424,6 +424,6 @@ The funny joke made everyone in the room ____ out loud.
 - [ ] alive
 - [ ] babysitter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**laugh** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

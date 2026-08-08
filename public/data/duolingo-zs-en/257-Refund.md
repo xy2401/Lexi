@@ -260,7 +260,7 @@ This machine is ____ and fails to turn on at all.
 - [ ] carefully
 - [ ] everybody
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**defective** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -270,7 +270,7 @@ Given the quality issue, I am requesting a full ____.
 - [ ] carefully
 - [ ] defective
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**refund** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -280,7 +280,7 @@ Please show your proof of purchase to ____ the return.
 - [ ] carefully
 - [ ] defective
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**process** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -290,7 +290,7 @@ This watch comes with a one-year money-back ____.
 - [ ] carefully
 - [ ] defective
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**guarantee** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -300,7 +300,7 @@ According to store ____, returns are not accepted without a receipt.
 - [ ] carefully
 - [ ] defective
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**policy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -310,7 +310,7 @@ If you are not satisfied, I can call my ____.
 - [ ] carefully
 - [ ] defective
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**supervisor** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -320,7 +320,7 @@ Please speak politely to our customer ____ staff members.
 - [ ] carefully
 - [ ] defective
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**service** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -330,7 +330,7 @@ Our ____ inspected it and found nothing wrong with the unit.
 - [ ] carefully
 - [ ] defective
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**technician** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -340,7 +340,7 @@ This ____ is no good; it died after only one day.
 - [ ] carefully
 - [ ] defective
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**battery** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -350,7 +350,7 @@ The tag states that this jacket is completely ____.
 - [ ] carefully
 - [ ] defective
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**waterproof** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -360,7 +360,7 @@ The instructions in this brochure are completely ____.
 - [ ] carefully
 - [ ] defective
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**useless** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -370,7 +370,7 @@ We will ____ your refund request within three business days.
 - [ ] carefully
 - [ ] defective
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**process** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -380,7 +380,7 @@ Customer ____ is the top priority for our company.
 - [ ] carefully
 - [ ] defective
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**satisfaction** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -390,7 +390,7 @@ I want to complain about the poor customer ____ quality.
 - [ ] carefully
 - [ ] defective
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**service** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -400,7 +400,7 @@ Please do not remove the price ____ from the package box.
 - [ ] carefully
 - [ ] defective
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sticker** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 16
 
@@ -410,7 +410,7 @@ The official terms ____ that this discount cannot be combined.
 - [ ] carefully
 - [ ] defective
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**state** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -420,7 +420,7 @@ This old device is in need of thorough ____ repair.
 - [ ] carefully
 - [ ] defective
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**technical** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -430,7 +430,7 @@ Must I visit the physical store in person to get a ____?
 - [ ] carefully
 - [ ] defective
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**refund** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -440,7 +440,7 @@ Sorry, the manager is ____ right now due to a meeting.
 - [ ] carefully
 - [ ] defective
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**unavailable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -450,6 +450,6 @@ Please read all the detailed terms ____ before signing.
 - [ ] defective
 - [ ] everybody
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**carefully** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

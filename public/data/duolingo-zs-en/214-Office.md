@@ -234,7 +234,7 @@ We need to sign this important business ____ before this afternoon.
 - [ ] actually
 - [ ] as well as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**contract** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -244,7 +244,7 @@ The manager asked the accounting team for a quarterly ____ report.
 - [ ] actually
 - [ ] as well as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**financial** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -254,7 +254,7 @@ The team is working hard to launch a brand new ____.
 - [ ] actually
 - [ ] as well as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**product** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -264,7 +264,7 @@ This is an ____ matter that requires our immediate attention.
 - [ ] actually
 - [ ] as well as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**urgent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -274,7 +274,7 @@ The leader decided to ____ the meeting until next Wednesday.
 - [ ] actually
 - [ ] as well as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**postpone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -284,7 +284,7 @@ This new task is ____, but we can learn a lot from it.
 - [ ] actually
 - [ ] as well as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**challenging** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 7
 
@@ -294,7 +294,7 @@ He ____ managed the entire project from start to finish.
 - [ ] actually
 - [ ] as well as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**successfully** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -304,7 +304,7 @@ ____, we have reached a preliminary agreement on the plan.
 - [ ] actually
 - [ ] as well as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Basically** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -314,7 +314,7 @@ ____, the suggestion made in the proposal makes a lot of sense.
 - [ ] as well as
 - [ ] basically
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Actually** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -324,7 +324,7 @@ The senior employee shared some great tips on improving work ____.
 - [ ] actually
 - [ ] as well as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**efficiency** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -334,7 +334,7 @@ The person who is in charge of this project will arrive ____.
 - [ ] actually
 - [ ] as well as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shortly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -344,7 +344,7 @@ That is the main reason why we decided to delay the ____ launch.
 - [ ] actually
 - [ ] as well as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**product** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -354,7 +354,7 @@ He handles the coding as well as testing for ____ software bugs.
 - [ ] actually
 - [ ] as well as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**potential** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -364,7 +364,7 @@ Just a minute, let me see ____ I stored that file.
 - [ ] actually
 - [ ] as well as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**where** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -374,7 +374,7 @@ Did you say the ____ deadline is on Friday?
 - [ ] actually
 - [ ] as well as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**report** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -384,7 +384,7 @@ I ____, we should re-evaluate our financial budget carefully.
 - [ ] actually
 - [ ] as well as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mean** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -394,7 +394,7 @@ Our company ____ sells electronics to overseas clients.
 - [ ] actually
 - [ ] as well as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mostly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -404,7 +404,7 @@ I hope I am not interrupting your ____ meeting right now.
 - [ ] actually
 - [ ] as well as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**urgent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -414,7 +414,7 @@ That is the thing that will improve our team ____ the most.
 - [ ] actually
 - [ ] as well as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**efficiency** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -424,6 +424,6 @@ The one in charge of ____ clients is very attentive.
 - [ ] actually
 - [ ] as well as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**receiving** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 </quiz-cloze>

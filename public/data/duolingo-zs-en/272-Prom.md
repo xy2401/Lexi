@@ -244,7 +244,7 @@ Are you planning to go to the high school ____ next weekend?
 - [ ] after-party
 - [ ] afterwards
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**prom** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ He wore a black ____ to the formal dance.
 - [ ] after-party
 - [ ] afterwards
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tuxedo** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ ____ a bow tie makes your suit look much more formal.
 - [ ] after-party
 - [ ] afterwards
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Wearing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 4
 
@@ -274,7 +274,7 @@ We rented a stretch ____ to go to the dance together.
 - [ ] after-party
 - [ ] afterwards
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**limo** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ Everyone was eagerly waiting for the announcement of the ____ queen.
 - [ ] after-party
 - [ ] afterwards
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**prom** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ The ____ queen wore a shiny crown and smiled at everyone.
 - [ ] after-party
 - [ ] afterwards
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**prom** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ When the music started, ____ ran to the dance floor.
 - [ ] after-party
 - [ ] afterwards
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**everyone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ Arriving ____ late is actually quite popular at the party.
 - [ ] after-party
 - [ ] afterwards
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fashionably** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ Several teachers served as ____ during the school dance.
 - [ ] after-party
 - [ ] afterwards
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **chaperones**。
 
 ### 10
 
@@ -334,7 +334,7 @@ She looked absolutely ____ in her elegant evening dress.
 - [ ] after-party
 - [ ] afterwards
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stunning** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 11
 
@@ -344,7 +344,7 @@ After the dance ended, we went to an ____ at a friend's house.
 - [ ] afterwards
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**after-party** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ We took photos first, and ____ we went for a late-night snack.
 - [ ] after-party
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **afterwards**。
 
 ### 13
 
@@ -364,7 +364,7 @@ Have you already asked someone to be your ____ for the dance?
 - [ ] after-party
 - [ ] afterwards
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**date** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ They posed for a ____ in front of the romantic backdrop.
 - [ ] after-party
 - [ ] afterwards
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**photograph** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ I am still waiting for ____ on our limo reservation.
 - [ ] after-party
 - [ ] afterwards
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**confirmation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ I was going to rent a ____, but I ran out of time.
 - [ ] after-party
 - [ ] afterwards
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tuxedo** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ Weren't you going to ____ her to go to the dance with you?
 - [ ] after-party
 - [ ] afterwards
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ask** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ Everyone is talking about the ____ dance that is coming up soon.
 - [ ] after-party
 - [ ] afterwards
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**graduation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ I heard you found your ____ outfit, is that right?
 - [ ] after-party
 - [ ] afterwards
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**favorite** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ This shop specializes in selling formal ____ for special occasions.
 - [ ] after-party
 - [ ] afterwards
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**clothing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 </quiz-cloze>

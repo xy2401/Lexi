@@ -246,7 +246,7 @@ I can't get enough of your delicious ____ cookies.
 - [ ] appealing
 - [ ] appropriately
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**homemade** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -256,7 +256,7 @@ She is ____ with virtual reality games these days.
 - [ ] appealing
 - [ ] appropriately
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **obsessed**。
 
 ### 3
 
@@ -266,7 +266,7 @@ Thanks for inviting me to your ____ party!
 - [ ] appealing
 - [ ] appropriately
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**housewarming** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 4
 
@@ -276,7 +276,7 @@ The living room is decorated ____ and in style.
 - [ ] appealing
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**appropriately** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -286,7 +286,7 @@ ____ impressive this unique art display is!
 - [ ] appealing
 - [ ] appropriately
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**How** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -296,7 +296,7 @@ We ____ have a rigid plan, so let's play it by ear.
 - [ ] appealing
 - [ ] appropriately
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**don't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -306,7 +306,7 @@ I can't wait to catch up with ____ tonight.
 - [ ] appealing
 - [ ] appropriately
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**everyone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -316,7 +316,7 @@ If you ____ show up early, you will miss out on the fun.
 - [ ] appealing
 - [ ] appropriately
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**don't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -326,7 +326,7 @@ ____ this modern garden design appealing to you?
 - [ ] appealing
 - [ ] appropriately
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Isn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -336,7 +336,7 @@ The performance was surprisingly ____.
 - [ ] appealing
 - [ ] appropriately
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**entertaining** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 11
 
@@ -346,7 +346,7 @@ ____ be too hard on yourself if things aren't perfect.
 - [ ] appealing
 - [ ] appropriately
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Don't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -356,7 +356,7 @@ It is up to you to ____ which color suits the room best.
 - [ ] appealing
 - [ ] appropriately
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**decide** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -366,7 +366,7 @@ That ____ like a lovely idea for the weekend.
 - [ ] appealing
 - [ ] appropriately
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **sounds**。
 
 ### 14
 
@@ -376,7 +376,7 @@ You ____ believe how beautiful the view is from the balcony.
 - [ ] appealing
 - [ ] appropriately
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**won't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -386,7 +386,7 @@ She brought a ____ homemade cake to the party.
 - [ ] appealing
 - [ ] appropriately
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lovely** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -396,7 +396,7 @@ He is obsessed with modern ____ design.
 - [ ] appealing
 - [ ] appropriately
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**furniture** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -406,7 +406,7 @@ That movie ____ super entertaining!
 - [ ] appealing
 - [ ] appropriately
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **sounds**。
 
 ### 18
 
@@ -416,7 +416,7 @@ We should catch up over coffee this ____.
 - [ ] appealing
 - [ ] appropriately
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**weekend** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -426,7 +426,7 @@ It ____ easy to find such a unique house.
 - [ ] appealing
 - [ ] appropriately
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**isn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -436,6 +436,6 @@ ____ lovely your new apartment looks!
 - [ ] appealing
 - [ ] appropriately
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**How** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

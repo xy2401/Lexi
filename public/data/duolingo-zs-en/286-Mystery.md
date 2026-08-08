@@ -246,7 +246,7 @@ For the sake of argument, let's ____ the theory is true.
 - [ ] alien
 - [ ] archeologist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**suppose** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -256,7 +256,7 @@ I am ____ about claims that aliens built the ancient structures.
 - [ ] alien
 - [ ] archeologist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**skeptical** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -266,7 +266,7 @@ The scientist is ____ that there is a logical explanation.
 - [ ] alien
 - [ ] archeologist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **convinced**。
 
 ### 4
 
@@ -276,7 +276,7 @@ The ____ unearthed a wooden artifact near the burial site.
 - [ ] alien
 - [ ] classified
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**archeologist** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -286,7 +286,7 @@ Scientists tested a new ____ regarding the origin of the moon.
 - [ ] alien
 - [ ] archeologist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**theory** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -296,7 +296,7 @@ We need more evidence before we can draw a solid ____.
 - [ ] alien
 - [ ] archeologist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**conclusion** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -306,7 +306,7 @@ It is highly ____ that humans could live on Mars without gear.
 - [ ] alien
 - [ ] archeologist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**improbable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -316,7 +316,7 @@ It is pure ____ that they arrived at the same moment.
 - [ ] alien
 - [ ] archeologist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**coincidence** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -326,7 +326,7 @@ Our solar system ____ of the sun and eight planets.
 - [ ] alien
 - [ ] archeologist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **consists**。
 
 ### 10
 
@@ -336,7 +336,7 @@ The Milky Way is just one ____ among billions in the universe.
 - [ ] alien
 - [ ] archeologist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**galaxy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -346,7 +346,7 @@ The pilot reported seeing an unknown ____ in the sky.
 - [ ] alien
 - [ ] archeologist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ufo** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -356,7 +356,7 @@ In sci-fi movies, astronauts travel across space in a futuristic ____.
 - [ ] alien
 - [ ] archeologist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**spaceship** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -366,7 +366,7 @@ The Egyptian ____ were built as tombs for ancient pharaohs.
 - [ ] alien
 - [ ] archeologist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **pyramids**。
 
 ### 14
 
@@ -376,7 +376,7 @@ Tourists love exploring the ancient ____ of the temple.
 - [ ] alien
 - [ ] archeologist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **ruins**。
 
 ### 15
 
@@ -386,7 +386,7 @@ ____ we travel back in time, what would you change?
 - [ ] alien
 - [ ] archeologist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Suppose** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -396,7 +396,7 @@ ____ say you win the prize, how would you spend it?
 - [ ] alien
 - [ ] archeologist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Let's**。
 
 ### 17
 
@@ -406,7 +406,7 @@ If we assume the math is ____, the result makes sense.
 - [ ] alien
 - [ ] archeologist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**correct** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -416,7 +416,7 @@ The file was marked as ____ and kept in a secure vault.
 - [ ] alien
 - [ ] archeologist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **classified**。
 
 ### 19
 
@@ -426,7 +426,7 @@ I ____ if we will ever solve this historical enigma.
 - [ ] alien
 - [ ] archeologist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wonder** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 20
 
@@ -436,6 +436,6 @@ If so, then we need to change our hypothesis ____.
 - [ ] alien
 - [ ] archeologist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**immediately** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

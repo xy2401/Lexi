@@ -262,7 +262,7 @@ Come on! We need to find a parking spot before the ____ fill up.
 - [ ] by now
 - [ ] call
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **bleachers**。
 
 ### 2
 
@@ -272,7 +272,7 @@ We started ____ with a cooler full of drinks before the game.
 - [ ] bleachers
 - [ ] by now
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tailgating** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 3
 
@@ -282,7 +282,7 @@ The ____ blew his whistle and called a technical foul.
 - [ ] bleachers
 - [ ] by now
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**referee** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -292,7 +292,7 @@ I don't buy ____! There's no way the referee called that foul.
 - [ ] bleachers
 - [ ] by now
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**it** 为第三人称单数代词，指代事物、动物或作形式主语。
 
 ### 5
 
@@ -302,7 +302,7 @@ The players wore special jerseys in the fourth ____.
 - [ ] bleachers
 - [ ] by now
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**quarter** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 6
 
@@ -312,7 +312,7 @@ The cute team ____ performed on the field during halftime.
 - [ ] bleachers
 - [ ] by now
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mascot** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -322,7 +322,7 @@ The point is, we need to win this ____ game to move forward.
 - [ ] bleachers
 - [ ] by now
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**playoff** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -332,7 +332,7 @@ The idea was that we would lead by ten points before the second ____.
 - [ ] bleachers
 - [ ] by now
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**quarter** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 9
 
@@ -342,7 +342,7 @@ By now, the ____ outside should be packed with cheering fans.
 - [ ] by now
 - [ ] call
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **bleachers**。
 
 ### 10
 
@@ -352,7 +352,7 @@ That's complete ____! Our team didn't commit a foul on purpose.
 - [ ] bleachers
 - [ ] by now
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**nonsense** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -362,7 +362,7 @@ ____ no way they can turn the game around in the last few seconds.
 - [ ] bleachers
 - [ ] by now
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **There's**。
 
 ### 12
 
@@ -372,7 +372,7 @@ Not exactly; this is just a regular game, not a ____ match.
 - [ ] bleachers
 - [ ] by now
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**playoff** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -382,7 +382,7 @@ The ____ dance show looks just the same as last year's.
 - [ ] bleachers
 - [ ] by now
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**halftime** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -392,7 +392,7 @@ The ____ blew the whistle again to stop the fight on the field.
 - [ ] bleachers
 - [ ] by now
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**referee** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -402,7 +402,7 @@ He found a ____ parking spot right near the stadium entrance.
 - [ ] bleachers
 - [ ] by now
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**convenient** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -412,7 +412,7 @@ Come on! Stop complaining about the referee's tough ____.
 - [ ] bleachers
 - [ ] by now
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**call** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -422,7 +422,7 @@ We carried a ____ of cold drinks up to the bleachers.
 - [ ] bleachers
 - [ ] by now
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cooler** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 18
 
@@ -432,7 +432,7 @@ The ____ wore jersey number ten and cheered on the sidelines.
 - [ ] bleachers
 - [ ] by now
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mascot** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -442,7 +442,7 @@ The ____ made several key foul calls during the third quarter.
 - [ ] bleachers
 - [ ] by now
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**referee** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -452,6 +452,6 @@ ____ before the match is a signature tradition for this sport.
 - [ ] bleachers
 - [ ] by now
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Tailgating** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 </quiz-cloze>

@@ -244,7 +244,7 @@ I ____ deleted the important document from my laptop.
 - [ ] attach
 - [ ] back
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**accidentally** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ Please ____ the report to your email before sending it.
 - [ ] accidentally
 - [ ] back
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**attach** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ Don't forget to ____ up your files to the cloud every week.
 - [ ] accidentally
 - [ ] attach
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**back** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ Press the green ____ to start the system upgrade.
 - [ ] accidentally
 - [ ] attach
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**button** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ Can you help me ____ to the office Wi-Fi network?
 - [ ] accidentally
 - [ ] attach
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**connect** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ How much does this new ____ model cost?
 - [ ] accidentally
 - [ ] attach
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**smartphone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ Our new ____ website ends in dot com.
 - [ ] accidentally
 - [ ] attach
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**company** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ You should ____ our official page for the latest updates.
 - [ ] accidentally
 - [ ] attach
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**follow** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ You can ____ up the definition of this term online.
 - [ ] accidentally
 - [ ] attach
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**look** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ Did you ____ the sudden change in screen brightness?
 - [ ] accidentally
 - [ ] attach
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**notice** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ Remember to ____ in your charger before the battery dies.
 - [ ] accidentally
 - [ ] attach
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**plug** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ It takes only five minutes to ____ up your new account.
 - [ ] accidentally
 - [ ] attach
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**set** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ You need to ____ up with a valid email address.
 - [ ] accidentally
 - [ ] attach
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sign** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ My new ____ has a fast processor and a clear camera.
 - [ ] accidentally
 - [ ] attach
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**smartphone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ The new software is sort of ____ to use at first.
 - [ ] accidentally
 - [ ] attach
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **complicated**。
 
 ### 16
 
@@ -394,7 +394,7 @@ Make sure to ____ your app to the latest version.
 - [ ] accidentally
 - [ ] attach
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**update** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ We decided to ____ our home computer system this month.
 - [ ] accidentally
 - [ ] attach
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**upgrade** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ Please enter your ____ to log into the database.
 - [ ] accidentally
 - [ ] attach
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**username** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ He left a quick ____ because I couldn't answer the phone.
 - [ ] accidentally
 - [ ] attach
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**voicemail** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ Turn down the ____ so you don't disturb others.
 - [ ] accidentally
 - [ ] attach
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**volume** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

@@ -248,7 +248,7 @@ ____ is coming in half an hour, so let's tidy up the living room.
 - [ ] all in all
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Company** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -258,7 +258,7 @@ I spent half an hour ____ the tough stains on the floor.
 - [ ] all in all
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**scrubbing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 3
 
@@ -268,7 +268,7 @@ Please use a damp cloth to ____ the shelves and table.
 - [ ] all in all
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dust** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -278,7 +278,7 @@ We must throw out these old ____ before friends arrive.
 - [ ] all in all
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **newspapers**。
 
 ### 5
 
@@ -288,7 +288,7 @@ It goes ____ saying that the bathroom needs to be clean.
 - [ ] all in all
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**without** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -298,7 +298,7 @@ We are having ____ tonight, so we must clean the house.
 - [ ] all in all
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**company** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -308,7 +308,7 @@ A clean house will make a good first ____ on visitors.
 - [ ] all in all
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**impression** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -318,7 +318,7 @@ The window ____ are dusty, so let me wipe them down.
 - [ ] all in all
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **blinds**。
 
 ### 9
 
@@ -328,7 +328,7 @@ The place ____ have to be perfect, just good enough.
 - [ ] all in all
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**doesn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -338,7 +338,7 @@ We don't need the house cleaned ____, just a quick sweep.
 - [ ] all in all
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**professionally** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -348,7 +348,7 @@ I made a ____ to-do list so we can share the tasks.
 - [ ] all in all
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cleaning** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 12
 
@@ -358,7 +358,7 @@ We need to buy a roll of paper towels to wipe the ____.
 - [ ] all in all
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**counter** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 13
 
@@ -368,7 +368,7 @@ Don't forget to check if there is enough toilet paper in the ____.
 - [ ] all in all
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bathroom** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -378,7 +378,7 @@ All in all, we ____ the house well before guests arrived.
 - [ ] all in all
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **organized**。
 
 ### 15
 
@@ -388,7 +388,7 @@ ____ me to restock paper towels was good thinking!
 - [ ] all in all
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Reminding** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 16
 
@@ -398,7 +398,7 @@ Put ____ the clutter so it doesn't draw attention.
 - [ ] all in all
 - [ ] blinds
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**away** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -408,7 +408,7 @@ We must finish cleaning the bathroom in time before ____ arrives.
 - [ ] all in all
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**company** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -418,7 +418,7 @@ You should think it over before buying ____ cleaning tools.
 - [ ] all in all
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**expensive** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -428,7 +428,7 @@ The ____ on the table need to be washed before guests arrive.
 - [ ] all in all
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **dishes**。
 
 ### 20
 
@@ -438,6 +438,6 @@ Everyone is helping with the daily ____ chores.
 - [ ] all in all
 - [ ] away
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**household** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

@@ -246,7 +246,7 @@ Your main ____ is to clear the table after dinner.
 - [ ] all over the place
 - [ ] allowance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**responsibility** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -256,7 +256,7 @@ The ____ counter should be clean before you go out.
 - [ ] all over the place
 - [ ] allowance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**kitchen** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -266,7 +266,7 @@ Children earn their weekly ____ by doing home chores.
 - [ ] all over the place
 - [ ] any chance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**allowance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -276,7 +276,7 @@ ____ clear the table and wash the large bowls.
 - [ ] all over the place
 - [ ] allowance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Please** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -286,7 +286,7 @@ Is it your ____ to walk the dog every evening?
 - [ ] all over the place
 - [ ] allowance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**responsibility** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -296,7 +296,7 @@ Help me ____ the dirty dishes into the dishwasher.
 - [ ] all over the place
 - [ ] allowance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**load** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -306,7 +306,7 @@ I need to run an ____ before the grocery store closes.
 - [ ] all over the place
 - [ ] allowance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**errand** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -316,7 +316,7 @@ Can you run to the ____ and buy some eggs?
 - [ ] all over the place
 - [ ] allowance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**supermarket** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -326,7 +326,7 @@ Read a calming story to the toddlers at ____.
 - [ ] all over the place
 - [ ] allowance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bedtime** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -336,7 +336,7 @@ Taking a short afternoon ____ will refresh your energy.
 - [ ] all over the place
 - [ ] allowance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**nap** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -346,7 +346,7 @@ Toys were scattered all over the ____ in the living room.
 - [ ] all over the place
 - [ ] allowance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**place** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -356,7 +356,7 @@ Flatten the heavy ____ boxes before recycling them.
 - [ ] all over the place
 - [ ] allowance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cardboard** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -366,7 +366,7 @@ Put every tool back in its proper ____ after use.
 - [ ] all over the place
 - [ ] allowance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**place** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -376,7 +376,7 @@ We are going to ____ a friendly neighborhood get-together.
 - [ ] all over the place
 - [ ] allowance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**host** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -386,7 +386,7 @@ Everyone enjoyed the lively weekend ____.
 - [ ] all over the place
 - [ ] allowance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**get-together** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 16
 
@@ -396,7 +396,7 @@ We have unexpected ____ coming over for dinner tonight.
 - [ ] all over the place
 - [ ] allowance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**company** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -406,7 +406,7 @@ Good evening ____, welcome to our family dinner party!
 - [ ] all over the place
 - [ ] allowance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **folks**。
 
 ### 18
 
@@ -416,7 +416,7 @@ Our weekend plans depend on the sunny weather ____.
 - [ ] all over the place
 - [ ] allowance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**condition** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -426,7 +426,7 @@ We need to ____ the chairs nicely in a circle.
 - [ ] all over the place
 - [ ] allowance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**arrange** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -436,6 +436,6 @@ Any ____ you could help me clear the table now?
 - [ ] all over the place
 - [ ] allowance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**chance** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

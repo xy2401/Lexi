@@ -246,7 +246,7 @@ We sat around the ____ to roast marshmallows and make s'mores.
 - [ ] Bigfoot
 - [ ] burst into
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**campfire** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -256,7 +256,7 @@ That ____ scary story gave me goosebumps all over my arms.
 - [ ] Bigfoot
 - [ ] burst into
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**spooky** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -266,7 +266,7 @@ I was on the edge of my seat and dying to hear what ____ next.
 - [ ] Bigfoot
 - [ ] burst into
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **happened**。
 
 ### 4
 
@@ -276,7 +276,7 @@ The tale ended on a ____, and everyone burst into screams.
 - [ ] Bigfoot
 - [ ] burst into
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cliffhanger** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 5
 
@@ -286,7 +286,7 @@ No sooner had I closed my eyes in ____ than an owl hooted.
 - [ ] Bigfoot
 - [ ] burst into
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**darkness** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -296,7 +296,7 @@ Everyone was excited for the trip and stories of ____ and Bigfoot.
 - [ ] Bigfoot
 - [ ] burst into
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**werewolf** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -306,7 +306,7 @@ A large grizzly bear walked ____ through the deep dark forest.
 - [ ] Bigfoot
 - [ ] burst into
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**silently** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -316,7 +316,7 @@ With my heart ____ from the noise, I couldn't go to sleep at all.
 - [ ] Bigfoot
 - [ ] burst into
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**racing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 9
 
@@ -326,7 +326,7 @@ The narrator told a ____ story about a forest killer and a squirrel.
 - [ ] Bigfoot
 - [ ] burst into
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**killer** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 10
 
@@ -336,7 +336,7 @@ The branch ____ in the dark looked spooky in the late night.
 - [ ] Bigfoot
 - [ ] burst into
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hanging** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 11
 
@@ -346,7 +346,7 @@ We are dying to eat roasted marshmallows by the ____.
 - [ ] Bigfoot
 - [ ] burst into
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**campfire** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -356,7 +356,7 @@ That scary story with a suspenseful ____ kept us thrilled.
 - [ ] Bigfoot
 - [ ] burst into
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cliffhanger** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 13
 
@@ -366,7 +366,7 @@ After hearing the ____ legend, everyone burst into excited talk.
 - [ ] burst into
 - [ ] campfire
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Bigfoot** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -376,7 +376,7 @@ An ____ flew silently in the darkness, giving us all goosebumps.
 - [ ] Bigfoot
 - [ ] burst into
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**owl** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -386,7 +386,7 @@ I am excited for making tasty ____ around the warm campfire tonight.
 - [ ] Bigfoot
 - [ ] burst into
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **s'mores**。
 
 ### 16
 
@@ -396,7 +396,7 @@ No sooner had I approached the woods than a ____ ran up a tree.
 - [ ] Bigfoot
 - [ ] burst into
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**squirrel** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -406,7 +406,7 @@ The ____ that appears under the full moon is a spooky character.
 - [ ] Bigfoot
 - [ ] burst into
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**werewolf** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -416,7 +416,7 @@ Hearing steps outside, my heart was ____ and I couldn't go to sleep.
 - [ ] Bigfoot
 - [ ] burst into
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**racing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 19
 
@@ -426,7 +426,7 @@ The thrilling ____ left every listener on the edge of their seat.
 - [ ] Bigfoot
 - [ ] burst into
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cliffhanger** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 20
 
@@ -436,6 +436,6 @@ Everyone agreed that the ____ story about the grizzly bear was killer.
 - [ ] Bigfoot
 - [ ] burst into
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**campfire** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

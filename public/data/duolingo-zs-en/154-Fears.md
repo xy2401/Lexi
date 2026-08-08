@@ -244,7 +244,7 @@ She feels ____ whenever she has to speak in public.
 - [ ] attack
 - [ ] bee
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **anxious**。
 
 ### 2
 
@@ -254,7 +254,7 @@ ____ calm down and take a deep breath.
 - [ ] anxious
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Please** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ Walking near the edge of the steep ____ made him dizzy.
 - [ ] anxious
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cliff** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ That old abandoned house in the forest looks really ____.
 - [ ] anxious
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**creepy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ Everyone ran outside during the sudden ____ yesterday.
 - [ ] anxious
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**earthquake** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ He tried to overcome his ____ of public speaking.
 - [ ] anxious
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fear** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ It takes time to get used to ____ in a big city.
 - [ ] anxious
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**living** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 8
 
@@ -314,7 +314,7 @@ I ____ to interrupt, but we have a real emergency.
 - [ ] anxious
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ She had a terrible ____ after watching the horror film.
 - [ ] anxious
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**nightmare** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ Are you scared of ____ and small insects?
 - [ ] anxious
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **spiders**。
 
 ### 11
 
@@ -344,7 +344,7 @@ Swimmers were warned that a ____ was spotted near the beach.
 - [ ] anxious
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shark** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ Don't let small ____ stress you out like that.
 - [ ] anxious
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **problems**。
 
 ### 13
 
@@ -364,7 +364,7 @@ Have you ever ____ across this wide river before?
 - [ ] anxious
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**swum** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ She was ____ when the lights went out suddenly.
 - [ ] anxious
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **terrified**。
 
 ### 15
 
@@ -384,7 +384,7 @@ Thank ____ everyone arrived home safely before the storm.
 - [ ] anxious
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**goodness** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ I used to be ____ of the dark when I was a child.
 - [ ] anxious
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**afraid** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ ____! That snake on the path almost bit my shoe.
 - [ ] anxious
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Yikes**。
 
 ### 18
 
@@ -414,7 +414,7 @@ A little ____ buzzed around the colorful flowers in the garden.
 - [ ] anxious
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bee** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ Sudden panics can trigger a severe asthma ____.
 - [ ] anxious
 - [ ] bee
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**attack** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ ____ walking straight and try not to look down.
 - [ ] anxious
 - [ ] attack
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Keep** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

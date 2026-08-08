@@ -246,7 +246,7 @@ I was thinking we could visit the ____ park the week after next.
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**amusement** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -256,7 +256,7 @@ I was hoping to go on the roller coaster, but it's ____ closed.
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**temporarily** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -266,7 +266,7 @@ We were supposed to ____ to the gigantic ferris wheel, but all of a sudden it st
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**head** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -276,7 +276,7 @@ The park was ____, so we had to wait in line for cotton candy and hot dogs.
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **packed**。
 
 ### 5
 
@@ -286,7 +286,7 @@ If you wear the ____ and meet the height requirement, you can ride upside down.
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wristband** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -296,7 +296,7 @@ With a season pass, you can enter anytime and win a ____ stuffed animal.
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gigantic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -306,7 +306,7 @@ We were ____ where we could buy tasty hot dogs and cotton candy.
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wondering** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 8
 
@@ -316,7 +316,7 @@ This ____ ferris wheel is the most famous landmark in the amusement park.
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gigantic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -326,7 +326,7 @@ Going upside down on a fast roller coaster feels totally wild and ____.
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**exciting** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 10
 
@@ -336,7 +336,7 @@ All of a sudden, heavy ____ fell from the sky over the amusement park.
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hail** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -346,7 +346,7 @@ The amusement park is always ____ with visitors on warm weekends.
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **packed**。
 
 ### 12
 
@@ -356,7 +356,7 @@ Due to safety requirements, young kids cannot go on this fast ____.
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ride** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -366,7 +366,7 @@ Kids ____ pink cotton candy ran happily toward the ferris wheel.
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**carrying** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 14
 
@@ -376,7 +376,7 @@ He won a super cute ____ animal at the park's game booth.
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **stuffed**。
 
 ### 15
 
@@ -386,7 +386,7 @@ We were hoping to buy a ____ season pass, but it was sold out.
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**discount** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -396,7 +396,7 @@ Staff members put a red ____ on each guest at the entrance.
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wristband** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -406,7 +406,7 @@ The popular roller coaster is ____ closed for routine inspection.
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**temporarily** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -416,7 +416,7 @@ We were ____ to meet under the big ferris wheel in the central square.
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **supposed**。
 
 ### 19
 
@@ -426,7 +426,7 @@ Having to wait in line for hours under the sun is really ____.
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**exhausting** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 20
 
@@ -436,6 +436,6 @@ The ____ hot dog is one of the most popular quick lunch foods at the park.
 - [ ] after next
 - [ ] all of a sudden
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **grilled**。
 
 </quiz-cloze>

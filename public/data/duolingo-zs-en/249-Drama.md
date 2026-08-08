@@ -262,7 +262,7 @@ You shouldn't ____ your best friend of betraying your trust without proof.
 - [ ] anything
 - [ ] approval
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**accuse** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -272,7 +272,7 @@ After hiding the secret for weeks, he decided to ____ everything.
 - [ ] accuse
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**confess** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -282,7 +282,7 @@ He decided to ____ to his girlfriend during a candlelit dinner.
 - [ ] accuse
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**propose** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -292,7 +292,7 @@ She had every right to ____ to cooperate with unreasonable demands.
 - [ ] accuse
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**refuse** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -302,7 +302,7 @@ A sudden ____ about their painful breakup spread among mutual friends.
 - [ ] accuse
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rumor** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -312,7 +312,7 @@ Walking away from a ____ relationship is essential for mental health.
 - [ ] accuse
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**toxic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -322,7 +322,7 @@ I remain deeply ____ about the explanation offered by management.
 - [ ] accuse
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**doubtful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -332,7 +332,7 @@ She was ____ fed up with his endless excuses for being late.
 - [ ] accuse
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**completely** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -342,7 +342,7 @@ You raised a very ____ point that deserves careful consideration.
 - [ ] accuse
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**valid** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -352,7 +352,7 @@ Getting their parents' ____ gave the couple great confidence.
 - [ ] accuse
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**approval** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -362,7 +362,7 @@ Constant ____ destroyed the trust between the business partners.
 - [ ] accuse
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**suspicion** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -372,7 +372,7 @@ Trying to see things from her point of view helps resolve ____.
 - [ ] accuse
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**conflict** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -382,7 +382,7 @@ ____ played a part in making the argument escalate.
 - [ ] accuse
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Miscommunication** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -392,7 +392,7 @@ The trouble with this ____ is that neither side listens.
 - [ ] accuse
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**argument** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -402,7 +402,7 @@ As far as I know, they have ____ made up after the fight.
 - [ ] accuse
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**already** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -412,7 +412,7 @@ This issue has been causing ____ for a while now.
 - [ ] accuse
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**friction** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -422,7 +422,7 @@ Is it just me, or is the ____ in this scene super dramatic?
 - [ ] accuse
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dialogue** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -432,7 +432,7 @@ Do you feel any better about the ____ after speaking with her?
 - [ ] accuse
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**decision** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -442,7 +442,7 @@ I am ready to clarify ____ that happened during the meeting.
 - [ ] accuse
 - [ ] anything
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**everything** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 20
 
@@ -452,6 +452,6 @@ We shouldn't jump to conclusions without knowing ____ solid.
 - [ ] accuse
 - [ ] approval
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**anything** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 </quiz-cloze>

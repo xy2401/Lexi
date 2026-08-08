@@ -258,7 +258,7 @@ I accidentally spilled hot coffee and left a big ____ on my shirt.
 - [ ] anybody
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stain** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -268,7 +268,7 @@ The server slipped and dropped the heavy food ____ on the floor.
 - [ ] anybody
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tray** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -278,7 +278,7 @@ My financial ____ ran out of battery during the exam.
 - [ ] anybody
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**calculator** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -288,7 +288,7 @@ A tiny calculation ____ ruined the entire accounting report.
 - [ ] anybody
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**error** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -298,7 +298,7 @@ Despite making a great ____, he still missed the last bus.
 - [ ] anybody
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**effort** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -308,7 +308,7 @@ ____ goes through a hard time at some point in life.
 - [ ] anybody
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Everybody** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -318,7 +318,7 @@ He hurt his left ankle ____ while playing basketball today.
 - [ ] anybody
 - [ ] break
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**badly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -328,7 +328,7 @@ Today was a really ____ day, but we need to stay optimistic.
 - [ ] anybody
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tough** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -338,7 +338,7 @@ Because he hadn't played for years, he was out of ____.
 - [ ] anybody
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**practice** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -348,7 +348,7 @@ Poor thing, she left her keys and ____ in the taxi.
 - [ ] anybody
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wallet** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -358,7 +358,7 @@ Don't stay sad! Have a piece of cake to ____ yourself up!
 - [ ] anybody
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cheer** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 12
 
@@ -368,7 +368,7 @@ It's a good thing I brought an ____ before the heavy rain started.
 - [ ] anybody
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**umbrella** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -378,7 +378,7 @@ Everyone ____ minor bad luck from time to time.
 - [ ] anybody
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **encounters**。
 
 ### 14
 
@@ -388,7 +388,7 @@ You ____ have been in a hurry and left the file at home.
 - [ ] anybody
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**must** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -398,7 +398,7 @@ He ____ not have received the invitation email in time.
 - [ ] anybody
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**must** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -408,7 +408,7 @@ The task is not quite ____ yet, so give us thirty minutes.
 - [ ] anybody
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **finished**。
 
 ### 17
 
@@ -418,7 +418,7 @@ There was no one in the ____ when the alarm rang.
 - [ ] anybody
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**office** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -428,7 +428,7 @@ If ____ sees my missing calculator, please let me know.
 - [ ] badly
 - [ ] break
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**anybody** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -438,7 +438,7 @@ I had to work late to catch up on missed school ____.
 - [ ] anybody
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **assignments**。
 
 ### 20
 
@@ -448,6 +448,6 @@ I ____ broke the drinking glass my friend lent me.
 - [ ] anybody
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**accidentally** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

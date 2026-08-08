@@ -244,7 +244,7 @@ ____, he got a prescription after visiting the clinic.
 - [ ] aspirin
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Fortunately** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ The patient had a high ____ and a sore throat and elbow.
 - [ ] aspirin
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fever** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 3
 
@@ -264,7 +264,7 @@ Her body ____ reached 40 degrees, requiring rest.
 - [ ] aspirin
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**temperature** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ Due to a bad ____ and bleeding, he felt exhausted.
 - [ ] aspirin
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cough** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ Please ____ doctor's advice and get aspirin at the pharmacy.
 - [ ] aspirin
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**follow** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ Please take a ____ to wipe your bleeding elbow.
 - [ ] aspirin
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tissue** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ He got a severe cold with a bad ____ and headache.
 - [ ] aspirin
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cough** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ ____, his foot was not badly hurt after examination.
 - [ ] aspirin
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Fortunately** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ He has got a pack of ____ to treat his fever.
 - [ ] badly
 - [ ] bleed
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**aspirin** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ You must ____ these health tips to protect your heart.
 - [ ] aspirin
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**follow** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ It is standard to get medicine with a ____ at a pharmacy.
 - [ ] aspirin
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**prescription** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ Coughing and a ____ throat are common symptoms of cold.
 - [ ] aspirin
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sore** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ The nurse took his ____ and found he had a fever.
 - [ ] aspirin
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**temperature** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ After a long busy day at work, he felt completely ____.
 - [ ] aspirin
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **exhausted**。
 
 ### 15
 
@@ -384,7 +384,7 @@ This small ____ serves dozens of patients daily.
 - [ ] aspirin
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**clinic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ Please hand me a ____ to blow my nose.
 - [ ] aspirin
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tissue** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ The cut was starting to ____, so the nurse bandaged it.
 - [ ] aspirin
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **bleed**。
 
 ### 18
 
@@ -414,7 +414,7 @@ My right ____ got hurt while playing badminton.
 - [ ] aspirin
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**elbow** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ The doctor advised him to ____ in bed for three days.
 - [ ] aspirin
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rest** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ Today's ____ rose by several degrees.
 - [ ] aspirin
 - [ ] badly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**temperature** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

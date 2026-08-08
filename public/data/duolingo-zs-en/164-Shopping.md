@@ -244,7 +244,7 @@ The total ____ on the invoice was higher than we expected.
 - [ ] bargain
 - [ ] bill
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**amount** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ ____ can find a real bargain at the old flea market.
 - [ ] amount
 - [ ] bargain
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**you** 为第二人称代词，在句中作主语或宾语，单复数同形。
 
 ### 3
 
@@ -264,7 +264,7 @@ The waiter brought the final ____ to our table.
 - [ ] amount
 - [ ] bargain
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bill** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ Put all your groceries inside the shopping ____.
 - [ ] amount
 - [ ] bargain
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cart** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ ____ can try on the jacket inside the fitting room first.
 - [ ] amount
 - [ ] bargain
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**you** 为第二人称代词，在句中作主语或宾语，单复数同形。
 
 ### 6
 
@@ -294,7 +294,7 @@ This shop is famous for selling high quality ____ goods.
 - [ ] amount
 - [ ] bargain
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hand-made** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ These comfortable cotton shirts are stylish yet ____.
 - [ ] amount
 - [ ] bargain
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**inexpensive** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ The last ____ in your cart is currently on sale.
 - [ ] amount
 - [ ] bargain
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**item** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ They walked into the luxury ____ store to pick out rings.
 - [ ] amount
 - [ ] bargain
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**jewelry** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ Avoid buying low ____ plastic toys because they break easily.
 - [ ] amount
 - [ ] bargain
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**quality** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ This premium shirt ____ feels extremely soft and smooth.
 - [ ] amount
 - [ ] bargain
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**material** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ I ____ my friend ten dollars after shopping together.
 - [ ] amount
 - [ ] bargain
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**owe** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ We plan to shop for winter ____ at the mall this weekend.
 - [ ] amount
 - [ ] bargain
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **clothes**。
 
 ### 14
 
@@ -374,7 +374,7 @@ ____ shouldn't spend more money than your monthly budget.
 - [ ] amount
 - [ ] bargain
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**you** 为第二人称代词，在句中作主语或宾语，单复数同形。
 
 ### 15
 
@@ -384,7 +384,7 @@ That leather bag is expensive, but it is totally ____ it.
 - [ ] amount
 - [ ] bargain
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**worth** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ The metal ____ on my winter coat got stuck yesterday.
 - [ ] amount
 - [ ] bargain
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**zipper** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 17
 
@@ -404,7 +404,7 @@ These new running shoes ____ my feet perfectly.
 - [ ] amount
 - [ ] bargain
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ Please ____ your receipt before leaving the grocery store.
 - [ ] amount
 - [ ] bargain
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**check** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ ____ can pay by credit card or cash for these items.
 - [ ] amount
 - [ ] bargain
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**you** 为第二人称代词，在句中作主语或宾语，单复数同形。
 
 ### 20
 
@@ -434,6 +434,6 @@ This high ____ product is cheap at such a low price.
 - [ ] amount
 - [ ] bargain
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**quality** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

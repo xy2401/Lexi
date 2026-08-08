@@ -244,7 +244,7 @@ On their ____, the couple went on a honeymoon.
 - [ ] did
 - [ ] event
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**anniversary** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ ____, they visit the peaceful town more often than before.
 - [ ] anniversary
 - [ ] did
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Lately** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ It was an ____ and traditional event for the town.
 - [ ] anniversary
 - [ ] did
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**incredible** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ In a ____ tradition, people wave at the passing van.
 - [ ] anniversary
 - [ ] did
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**typical** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ This new ____ is nice and smooth for long trips.
 - [ ] anniversary
 - [ ] did
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**van** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ They ____ been in a relationship for five years.
 - [ ] anniversary
 - [ ] did
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**have** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ The old couple celebrated their wedding ____.
 - [ ] did
 - [ ] event
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**anniversary** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ They chose to go to Hawaii for their ____.
 - [ ] anniversary
 - [ ] did
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**honeymoon** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ The mountain village feels very ____ and quiet.
 - [ ] anniversary
 - [ ] did
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**peaceful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ This is a ____ event showing local customs.
 - [ ] anniversary
 - [ ] did
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**typical** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ She ____ gets angry in public places with others.
 - [ ] anniversary
 - [ ] did
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rarely** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ Everyone decided to ____ at the parade procession.
 - [ ] anniversary
 - [ ] did
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wave** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ He drove a red ____ to transport the furniture.
 - [ ] anniversary
 - [ ] did
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**van** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ ____, his work performance has improved a lot.
 - [ ] anniversary
 - [ ] did
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Lately** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ Following ____ custom, people eat rice cake.
 - [ ] anniversary
 - [ ] did
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**traditional** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ That music festival was an ____ show to watch.
 - [ ] anniversary
 - [ ] did
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**incredible** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ He prefers walking outside more often ____ watching TV.
 - [ ] anniversary
 - [ ] did
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**than** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ The ____ this weekend is nice and warm for a hike.
 - [ ] anniversary
 - [ ] did
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**weather** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 19
 
@@ -424,7 +424,7 @@ He ____ goes to nightclubs for nightlife lately.
 - [ ] anniversary
 - [ ] did
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rarely** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ The family trip was a very grand ____ for everyone.
 - [ ] anniversary
 - [ ] did
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**event** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

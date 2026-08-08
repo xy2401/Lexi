@@ -236,7 +236,7 @@ The monk was a devoted ____ who lived in temple.
 - [ ] Christian
 - [ ] Hindu
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Buddhist** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -246,7 +246,7 @@ Many ____ families attend church on Christmas Eve.
 - [ ] Buddhist
 - [ ] Hindu
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Christian** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -256,7 +256,7 @@ Diwali is an important festival for ____ communities.
 - [ ] Buddhist
 - [ ] Christian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Hindu** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -266,7 +266,7 @@ Traditional ____ customs have a very rich history.
 - [ ] Buddhist
 - [ ] Christian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Jewish** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -276,7 +276,7 @@ ____ communities celebrate Eid after Ramadan.
 - [ ] Buddhist
 - [ ] Christian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Muslim** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -286,7 +286,7 @@ An ____ does not hold a belief in any deity.
 - [ ] Buddhist
 - [ ] Christian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**atheist** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -296,7 +296,7 @@ Many ____ people believe in a high power.
 - [ ] Buddhist
 - [ ] Christian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **religious**。
 
 ### 8
 
@@ -306,7 +306,7 @@ The ____ read a passage from the holy bible.
 - [ ] Buddhist
 - [ ] Christian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**priest** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -316,7 +316,7 @@ They attended a traditional ____ mass service.
 - [ ] Buddhist
 - [ ] Christian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Catholic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -326,7 +326,7 @@ A wooden ____ stood on top of the old church.
 - [ ] Buddhist
 - [ ] Christian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cross** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -336,7 +336,7 @@ They mourned the unexpected ____ of their leader.
 - [ ] Buddhist
 - [ ] Christian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**death** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -346,7 +346,7 @@ There is no ____ that peace is essential for all.
 - [ ] Buddhist
 - [ ] Christian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**doubt** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -356,7 +356,7 @@ People pray to ____ for health and protection.
 - [ ] Buddhist
 - [ ] Christian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**God** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -366,7 +366,7 @@ The ancient ____ was built to honor a goddess.
 - [ ] Buddhist
 - [ ] Christian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**temple** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -376,7 +376,7 @@ True ____ comes from love, peace, and faith.
 - [ ] Buddhist
 - [ ] Christian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**happiness** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -386,7 +386,7 @@ She said a quiet ____ before going to sleep.
 - [ ] Buddhist
 - [ ] Christian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**prayer** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 17
 
@@ -396,7 +396,7 @@ The parish ____ gave a blessing to the couple.
 - [ ] Buddhist
 - [ ] Christian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**priest** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -406,7 +406,7 @@ The mountain is considered a sacred ____ site.
 - [ ] Buddhist
 - [ ] Christian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **religious**。
 
 ### 19
 
@@ -416,7 +416,7 @@ We must ____ different beliefs and traditions.
 - [ ] Buddhist
 - [ ] Christian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**respect** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -426,6 +426,6 @@ They visited a famous ____ temple in Kyoto.
 - [ ] Christian
 - [ ] Hindu
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Buddhist** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

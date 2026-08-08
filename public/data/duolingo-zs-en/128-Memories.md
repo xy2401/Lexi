@@ -244,7 +244,7 @@ In my ____, neighbors used to come over to our house.
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**childhood** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ The ____ boy never used to catch frogs and bugs in dirt.
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ We ____ the ball in the yard, and I hurt my knee.
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **kicked**。
 
 ### 4
 
@@ -274,7 +274,7 @@ Mom cooked a ____ pie in a frying pan, funny joke!
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**spinach** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ The ____ teacher caught him playing the trumpet.
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**strict** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ He used to ____ in the woods to stay away from bugs.
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hide** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ ____, I am no longer afraid of eating spinach.
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Now** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ We played games in the ____ during our youth.
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**neighborhood** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ My best friend decided to come over ____ afternoon.
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**yesterday** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ He used to practice playing the ____ very loudly.
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**trumpet** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ ____ memories are full of laughter and joy.
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Childhood** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ A green ____ was jumping near the pond in the yard.
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**frog** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ The children played in the ____ and got dirty clothes.
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dirt** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ Eggs cooked in a frying pan taste very ____.
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **delicious**。
 
 ### 15
 
@@ -384,7 +384,7 @@ He felt very ____ and couldn't speak in front of strangers.
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ He accidentally ____ his teammate's knee in the game.
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **kicked**。
 
 ### 17
 
@@ -404,7 +404,7 @@ That was just a silly ____, so don't be mad.
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**joke** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ Eating more ____ helps keep your body healthy.
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**spinach** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ The young boy decided to ____ behind the big tree.
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hide** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ He never used to get ____ early, but now he does.
 - [ ] bug
 - [ ] card
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**up** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

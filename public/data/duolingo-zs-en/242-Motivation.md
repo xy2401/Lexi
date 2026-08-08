@@ -264,7 +264,7 @@ ____ motivation is key to keeping people committed for the long term.
 - [ ] a number of
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Internal** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -274,7 +274,7 @@ This study on human motivation made a ____ breakthrough.
 - [ ] a number of
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**significant** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -284,7 +284,7 @@ Even the most ____ people must work hard to achieve success.
 - [ ] a number of
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**intelligent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -294,7 +294,7 @@ Every ____ goal should have a clear deadline for execution.
 - [ ] a number of
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**single** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -304,7 +304,7 @@ Many students ____ to adapt to the heavy workload at first.
 - [ ] a number of
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**struggle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -314,7 +314,7 @@ Don't ____ into making major career decisions without thinking.
 - [ ] a number of
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rush** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -324,7 +324,7 @@ ____ a positive mindset helps overcome daily obstacles.
 - [ ] a number of
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Maintaining** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 8
 
@@ -334,7 +334,7 @@ After years of effort, she ____ reached the peak of her career.
 - [ ] a number of
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**finally** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -344,7 +344,7 @@ Taking concrete ____ matters much more than just having ideas.
 - [ ] a number of
 - [ ] affect
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**action** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -354,7 +354,7 @@ In theory the design works well, but ____ tests are needed.
 - [ ] a number of
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**practical** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -364,7 +364,7 @@ ____, he didn't realize how much his habit would affect him.
 - [ ] a number of
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Initially** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -374,7 +374,7 @@ We will not accept failure under any circumstances, ____!
 - [ ] a number of
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**period** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -384,7 +384,7 @@ Only by looking ____ can you overcome past disappointment.
 - [ ] a number of
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**forward** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -394,7 +394,7 @@ A number of studies have proven the power of positive ____.
 - [ ] a number of
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reinforcement** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -404,7 +404,7 @@ The more you work at this skill, the better your ____ will be.
 - [ ] a number of
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **results**。
 
 ### 16
 
@@ -414,7 +414,7 @@ Don't ____ that everything is fine when changes are needed.
 - [ ] a number of
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pretend** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -424,7 +424,7 @@ He ____ cares about the personal growth of every team member.
 - [ ] a number of
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**truly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -434,7 +434,7 @@ Learning to ____ others with respect brings lasting self-satisfaction.
 - [ ] a number of
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**treat** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -444,7 +444,7 @@ If you work at your skills daily, progress will ____ follow.
 - [ ] a number of
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**naturally** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -454,6 +454,6 @@ Having ____ time to explore passions boosts creative output.
 - [ ] a number of
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**free** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

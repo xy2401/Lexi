@@ -236,7 +236,7 @@ We booked our flight through a travel ____.
 - [ ] atmosphere
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**agency** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -246,7 +246,7 @@ The resort has a relaxing beach ____.
 - [ ] agency
 - [ ] been
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**atmosphere** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -256,7 +256,7 @@ The guide led tourists inside a deep limestone ____.
 - [ ] agency
 - [ ] atmosphere
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cave** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -266,7 +266,7 @@ The flight ____ ensured safety for all passengers.
 - [ ] agency
 - [ ] atmosphere
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**crew** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -276,7 +276,7 @@ Check the flight board for exact ____ time.
 - [ ] agency
 - [ ] atmosphere
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**departure** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -286,7 +286,7 @@ He enjoys ____ at the local golf course.
 - [ ] agency
 - [ ] atmosphere
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**playing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 7
 
@@ -296,7 +296,7 @@ ____ inside a warm hot tub feels great in winter.
 - [ ] agency
 - [ ] atmosphere
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Relaxing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 8
 
@@ -306,7 +306,7 @@ Take an umbrella in case it rains this ____.
 - [ ] agency
 - [ ] atmosphere
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**afternoon** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -316,7 +316,7 @@ We saw wild ____ jumping across the open grass.
 - [ ] agency
 - [ ] atmosphere
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**kangaroo** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -326,7 +326,7 @@ Please keep an eye on your personal ____.
 - [ ] agency
 - [ ] atmosphere
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **belongings**。
 
 ### 11
 
@@ -336,7 +336,7 @@ Wear a life ____ when going out on a boat.
 - [ ] agency
 - [ ] atmosphere
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**jacket** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -346,7 +346,7 @@ She booked a relaxing foot ____ at the spa.
 - [ ] agency
 - [ ] atmosphere
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**massage** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -356,7 +356,7 @@ The cruise ship docked at the international ____.
 - [ ] agency
 - [ ] atmosphere
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**port** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -366,7 +366,7 @@ The mountain ____ took our breath away yesterday.
 - [ ] agency
 - [ ] atmosphere
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**scenery** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -376,7 +376,7 @@ They spent the afternoon relaxing at a luxury ____.
 - [ ] agency
 - [ ] atmosphere
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**spa** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -386,7 +386,7 @@ We enjoyed a ____ view from the ridge top.
 - [ ] agency
 - [ ] atmosphere
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**spectacular** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -396,7 +396,7 @@ One guide ____ to stay behind to help hikers.
 - [ ] agency
 - [ ] atmosphere
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **decided**。
 
 ### 18
 
@@ -406,7 +406,7 @@ Sustainable ____ brings income to local towns.
 - [ ] agency
 - [ ] atmosphere
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tourism** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -416,7 +416,7 @@ The hotel staff gave us a warm ____ upon arrival.
 - [ ] agency
 - [ ] atmosphere
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**welcome** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -426,6 +426,6 @@ He likes to work out at the ____ gym daily.
 - [ ] agency
 - [ ] atmosphere
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**resort** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

@@ -244,7 +244,7 @@ The ____ on the front page reported the spy caught by government.
 - [ ] billion
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**headline** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ The criminal who used a ____ in bank crime was in court.
 - [ ] billion
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gun** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ This car ____ caused billions of dollars in damage.
 - [ ] billion
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**crash** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ The ____ leader signed a treaty in exchange for border peace.
 - [ ] billion
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**enemy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ Don't spread ____ news; everyone expects the truth.
 - [ ] billion
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**false** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ The thief who tried to ____ the store is now in jail.
 - [ ] billion
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rob** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ The ____ was cleared near the country border line.
 - [ ] billion
 - [ ] border
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bomb** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ Even ____ evidence was strong, he denied his crime in court.
 - [ ] billion
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**though** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ The ____ took action to stop common crimes.
 - [ ] billion
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**government** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ We ____ the news media to report this big court trial.
 - [ ] billion
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**expect** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ The story about the ____ took up the front page.
 - [ ] billion
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**crime** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ The robber was put in ____ for using a gun.
 - [ ] billion
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**jail** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ Strict checkpoints were set along the country ____.
 - [ ] billion
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**border** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 14
 
@@ -374,7 +374,7 @@ The police found evidence of the ____ spy in town.
 - [ ] billion
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**enemy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ This terrible car ____ caused traffic delays.
 - [ ] billion
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**crash** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ The country ____ gave a speech about prosperity.
 - [ ] billion
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**leader** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 17
 
@@ -404,7 +404,7 @@ Spreading ____ information can cause public panic.
 - [ ] billion
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**false** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ The suspect defended himself when he was in ____.
 - [ ] billion
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**court** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ ____ offered a discount in exchange for good reviews.
 - [ ] billion
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**they** 为第三人称复数主格代词，表示“他们/它们”，在句中作主语。
 
 ### 20
 
@@ -434,6 +434,6 @@ This big ____ involved assets worth over a billion.
 - [ ] billion
 - [ ] bomb
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**crime** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

@@ -236,7 +236,7 @@ The doctor advised him to measure his blood ____ every day.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pressure** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -246,7 +246,7 @@ ____ a healthy diet helps prevent heart disease.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Maintaining** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 3
 
@@ -256,7 +256,7 @@ Scientists are working hard to find a ____ for this new illness.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cure** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -266,7 +266,7 @@ Having an annual health ____ is very important for seniors.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**check-up** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -276,7 +276,7 @@ The nurse took him to radiology to get a chest ____.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**x-ray** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -286,7 +286,7 @@ The doctor explained that it was just a simple medical ____.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**procedure** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -296,7 +296,7 @@ The government is trying to improve ____ in remote areas.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**healthcare** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -306,7 +306,7 @@ He took a sick day today ____ he had a high fever.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**because** 为从属连词，引出原因状语从句，表示“因为”。
 
 ### 9
 
@@ -316,7 +316,7 @@ A thirty-minute ____ every morning can boost your fitness.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**workout** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -326,7 +326,7 @@ Drink plenty of warm ____ while you are taking the medicine.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**liquid** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -336,7 +336,7 @@ For your health, you should never give up ____.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**exercising** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 12
 
@@ -346,7 +346,7 @@ The nurse asked me to ____ myself before the exam.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**weigh** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -356,7 +356,7 @@ The doctor asked me to stick out my ____ for inspection.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tongue** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -366,7 +366,7 @@ Eating fresh fruits and ____ is really good for you.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **vegetables**。
 
 ### 15
 
@@ -376,7 +376,7 @@ The clinic will ____ free consultations for all local residents.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**provide** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -386,7 +386,7 @@ He seems to feel much better and more ____ today.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**energetic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -396,7 +396,7 @@ We need to ____ the patient thoroughly before surgery.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**prepare** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -406,7 +406,7 @@ Modern medicine has greatly improved survival rates for ____.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cancer** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 19
 
@@ -416,7 +416,7 @@ The nurse asked the patients to ____ in the lobby.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wait** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -426,6 +426,6 @@ Good physical ____ habits can benefit you for a lifetime.
 - [ ] ask
 - [ ] blood pressure
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fitness** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

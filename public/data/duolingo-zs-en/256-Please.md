@@ -262,7 +262,7 @@ Would you ____ looking after my pet this weekend?
 - [ ] alternatively
 - [ ] ever
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**consider** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 2
 
@@ -272,7 +272,7 @@ I was ____ if you had time to do me a favor this Saturday.
 - [ ] alternatively
 - [ ] ever
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wondering** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 3
 
@@ -282,7 +282,7 @@ No pressure, but I would ____ appreciate it if you could help.
 - [ ] alternatively
 - [ ] ever
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**really** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -292,7 +292,7 @@ I ____ it is not too much to ask for a ride home.
 - [ ] alternatively
 - [ ] ever
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hope** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -302,7 +302,7 @@ Thank you for your help; I will return the ____ next week.
 - [ ] alternatively
 - [ ] ever
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**favor** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -312,7 +312,7 @@ I will buy you dinner to make up for the ____.
 - [ ] alternatively
 - [ ] ever
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**inconvenience** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -322,7 +322,7 @@ Can you help out while we prepare for the ____ party?
 - [ ] alternatively
 - [ ] ever
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**birthday** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -332,7 +332,7 @@ Please do not ____ to ask if you need further assistance.
 - [ ] alternatively
 - [ ] ever
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hesitate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -342,7 +342,7 @@ If it is ____ right now, we can talk another time.
 - [ ] alternatively
 - [ ] ever
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**inconvenient** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -352,7 +352,7 @@ Sorry for the ____, and thank you so much for your patience.
 - [ ] alternatively
 - [ ] ever
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**trouble** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -362,7 +362,7 @@ Could you do me a quick ____ for just a few minutes?
 - [ ] alternatively
 - [ ] ever
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**favor** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -372,7 +372,7 @@ ____, we could rearrange our schedule to meet on Sunday.
 - [ ] ever
 - [ ] favor
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Alternatively** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -382,7 +382,7 @@ I need to ____ my schedule to match your free time.
 - [ ] alternatively
 - [ ] ever
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rearrange** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -392,7 +392,7 @@ It took me a long time to ____ him to join the event.
 - [ ] alternatively
 - [ ] ever
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**persuade** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -402,7 +402,7 @@ Don't worry, we will ____ out a solution to this problem.
 - [ ] alternatively
 - [ ] ever
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**figure** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -412,7 +412,7 @@ I will be out of town next week, so I need help ____ plants.
 - [ ] alternatively
 - [ ] ever
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**watering** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 17
 
@@ -422,7 +422,7 @@ It was very ____ of you to bring me a cup of coffee.
 - [ ] alternatively
 - [ ] ever
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**thoughtful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -432,7 +432,7 @@ I need someone to help with ____ while I am away.
 - [ ] alternatively
 - [ ] ever
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gardening** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 19
 
@@ -442,7 +442,7 @@ Could you ____ the front door for me since my hands are full?
 - [ ] alternatively
 - [ ] ever
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**unlock** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -452,6 +452,6 @@ Might you have time to check the email I sent you ____?
 - [ ] alternatively
 - [ ] ever
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tonight** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

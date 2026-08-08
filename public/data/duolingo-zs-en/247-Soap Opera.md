@@ -264,7 +264,7 @@ The ____ villain tried to alter the rich man's will for money.
 - [ ] affair
 - [ ] anyhow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**greedy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -274,7 +274,7 @@ The hero was an ____ who later became a skilled secret agent.
 - [ ] affair
 - [ ] anyhow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**orphan** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -284,7 +284,7 @@ The team shot a ____ scene inside an old cemetery.
 - [ ] affair
 - [ ] anyhow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dramatic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -294,7 +294,7 @@ Viewers are ____ hooked on this popular soap opera.
 - [ ] affair
 - [ ] anyhow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**completely** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -304,7 +304,7 @@ On the surface they were friends, but he continued to ____ them.
 - [ ] affair
 - [ ] anyhow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**deceive** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -314,7 +314,7 @@ The final episode ____ reveal the truth about the secret affair.
 - [ ] affair
 - [ ] anyhow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -324,7 +324,7 @@ The ____ bodyguard vowed to protect his master from threats.
 - [ ] affair
 - [ ] anyhow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**loyal** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -334,7 +334,7 @@ Nobody believed he was capable of putting ____ in the drink.
 - [ ] affair
 - [ ] anyhow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**poison** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -344,7 +344,7 @@ The star-studded ____ of the show delivered great performances.
 - [ ] affair
 - [ ] anyhow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cast** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -354,7 +354,7 @@ The audience had a strong ____ to the hero's unexpected twist.
 - [ ] affair
 - [ ] anyhow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reaction** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -364,7 +364,7 @@ This drama was so good that I plan to ____ the series.
 - [ ] affair
 - [ ] anyhow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rewatch** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -374,7 +374,7 @@ The ____ threatened to leak all confidential documents.
 - [ ] affair
 - [ ] anyhow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**villain** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -384,7 +384,7 @@ This plot twist is kind of like a classic old ____.
 - [ ] affair
 - [ ] anyhow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**melodrama** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -394,7 +394,7 @@ ____ played the role of the sinister boss so well.
 - [ ] affair
 - [ ] anyhow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**What's-his-name** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -404,7 +404,7 @@ ____, the series finale promises to satisfy all loyal fans.
 - [ ] affair
 - [ ] capable of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Anyhow** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -414,7 +414,7 @@ The one whose fortune was left in the ____ passed away.
 - [ ] affair
 - [ ] anyhow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -424,7 +424,7 @@ Some guy was seen walking near the entrance of the ____.
 - [ ] affair
 - [ ] anyhow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cemetery** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -434,7 +434,7 @@ His character is sort of ____, making it hard to predict.
 - [ ] affair
 - [ ] anyhow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **mysterious**。
 
 ### 19
 
@@ -444,7 +444,7 @@ The wicked rival slipped ____ into the glass without being seen.
 - [ ] affair
 - [ ] anyhow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**poison** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -454,6 +454,6 @@ The attorney read the final ____ in front of the assembled family.
 - [ ] affair
 - [ ] anyhow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

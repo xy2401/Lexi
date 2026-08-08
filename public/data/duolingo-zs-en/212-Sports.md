@@ -234,7 +234,7 @@ The ____ led the team to win this important match.
 - [ ] come on
 - [ ] cyclist
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**captain** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -244,7 +244,7 @@ The ____ always wears a safety helmet during training.
 - [ ] captain
 - [ ] come on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cyclist** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -254,7 +254,7 @@ The ____ jumped into the pool and broke the national record.
 - [ ] captain
 - [ ] come on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**swimmer** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 4
 
@@ -264,7 +264,7 @@ Their team played amazing ____ during the game.
 - [ ] captain
 - [ ] come on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**defense** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -274,7 +274,7 @@ The coach asked the players to strengthen their ____ in the second half.
 - [ ] captain
 - [ ] come on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**offense** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -284,7 +284,7 @@ Practicing ____ requires specialized and safe equipment.
 - [ ] captain
 - [ ] come on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **gymnastics**。
 
 ### 7
 
@@ -294,7 +294,7 @@ She completed the difficult move ____ during the diving competition.
 - [ ] captain
 - [ ] come on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**perfectly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -304,7 +304,7 @@ Athletes are preparing for the ____ on the outdoor track.
 - [ ] captain
 - [ ] come on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**final** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -314,7 +314,7 @@ I hope to ____ in the mountains this winter.
 - [ ] captain
 - [ ] come on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ski** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -324,7 +324,7 @@ We expect to see a huge crowd of fans ____.
 - [ ] captain
 - [ ] come on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tomorrow** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -334,7 +334,7 @@ He likes to take his ____ to the resort on weekends.
 - [ ] captain
 - [ ] come on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**snowboard** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -344,7 +344,7 @@ This seat is too ____ up for a clear view of the field.
 - [ ] captain
 - [ ] come on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**high** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -354,7 +354,7 @@ Don't give up, come on! You can win this ____!
 - [ ] captain
 - [ ] come on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**race** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -364,7 +364,7 @@ The team management is on a ____ for an experienced coach.
 - [ ] captain
 - [ ] come on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hunt** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -374,7 +374,7 @@ There can't be any missing safety ____ in the gym.
 - [ ] captain
 - [ ] come on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**equipment** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -384,7 +384,7 @@ There might be some ____ tickets available outside the stadium.
 - [ ] captain
 - [ ] come on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**remaining** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 17
 
@@ -394,7 +394,7 @@ There shouldn't be any loud noise in the spectator area during ____.
 - [ ] captain
 - [ ] come on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**performance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -404,7 +404,7 @@ There may not be any rain ____, so we can play outside.
 - [ ] captain
 - [ ] come on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tomorrow** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -414,7 +414,7 @@ The skier set a new course ____ in the final round.
 - [ ] captain
 - [ ] come on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**record** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -424,6 +424,6 @@ Wearing a ____ while riding is essential for protection.
 - [ ] captain
 - [ ] come on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**helmet** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

@@ -248,7 +248,7 @@ We received an invitation to attend tonight's charity ____.
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gala** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -258,7 +258,7 @@ This is a black tie event, so guests must wear formal ____.
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **clothes**。
 
 ### 3
 
@@ -268,7 +268,7 @@ Please check the dress code on the ____ before attending.
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**invitation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -278,7 +278,7 @@ She wore an elegant evening ____ to the anniversary dinner.
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gown** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -288,7 +288,7 @@ The waiters served ____ hors d'oeuvres during the reception.
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **delicious**。
 
 ### 6
 
@@ -298,7 +298,7 @@ After the speech, everyone began to ____ over drinks.
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mingle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -308,7 +308,7 @@ We feel deeply ____ to be invited to this grand event.
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **honored**。
 
 ### 8
 
@@ -318,7 +318,7 @@ I ____ possibly make it on time due to a schedule conflict.
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**couldn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -328,7 +328,7 @@ She had to turn down the ____ to tonight's dinner.
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**invitation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -338,7 +338,7 @@ I am busy ____, so let's meet up some other time.
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tonight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -348,7 +348,7 @@ I cannot make it, but thanks anyway for the ____!
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**invitation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -358,7 +358,7 @@ You look absolutely ____ in your formal outfit tonight!
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **fabulous**。
 
 ### 13
 
@@ -368,7 +368,7 @@ The food and service at the ____ were absolutely superb.
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gala** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -378,7 +378,7 @@ The atmosphere at the ____ was high-class and sophisticated.
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gala** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -388,7 +388,7 @@ I am not really in the mood for a noisy party ____.
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tonight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -398,7 +398,7 @@ Would you care for some of our ____ welcome drinks?
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**special** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -408,7 +408,7 @@ The ____ was delayed on account of a sudden storm.
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gala** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -418,7 +418,7 @@ It is ____ late, so we should get going to the main hall.
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**getting** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 19
 
@@ -428,7 +428,7 @@ It was warm inside, so I ____ to step outside for fresh air.
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **decided**。
 
 ### 20
 
@@ -438,6 +438,6 @@ We met a famous ____ at the formal evening event.
 - [ ] black tie
 - [ ] care for
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**filmmaker** 为形容词/副词比较级，用于两者之间的对比。
 
 </quiz-cloze>

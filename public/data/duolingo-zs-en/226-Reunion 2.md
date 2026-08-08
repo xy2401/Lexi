@@ -246,7 +246,7 @@ I haven't seen my college classmates for ____.
 - [ ] back then
 - [ ] bond
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **ages**。
 
 ### 2
 
@@ -256,7 +256,7 @@ We used to spend hours ____ back then.
 - [ ] ages
 - [ ] back then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**talking** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 3
 
@@ -266,7 +266,7 @@ We met at ____ bar during happy hour yesterday.
 - [ ] ages
 - [ ] back then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**the** 为定冠词，用于特指双方已知的人或事物。
 
 ### 4
 
@@ -276,7 +276,7 @@ Walking around ____ university campus brought back old memories.
 - [ ] ages
 - [ ] back then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**the** 为定冠词，用于特指双方已知的人或事物。
 
 ### 5
 
@@ -286,7 +286,7 @@ They formed a strong ____ during their school years.
 - [ ] ages
 - [ ] back then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bond** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -296,7 +296,7 @@ When I look back on my youth, I feel ____.
 - [ ] ages
 - [ ] back then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**grateful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -306,7 +306,7 @@ I was ____ to find out that we live nearby.
 - [ ] ages
 - [ ] back then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **surprised**。
 
 ### 8
 
@@ -316,7 +316,7 @@ It turned out that he is my ____ good friend.
 - [ ] ages
 - [ ] back then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **cousin's**。
 
 ### 9
 
@@ -326,7 +326,7 @@ It took her a long time to ____ over the loss.
 - [ ] ages
 - [ ] back then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**get** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -336,7 +336,7 @@ Don't make a fool of yourself at ____ family party.
 - [ ] ages
 - [ ] back then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**the** 为定冠词，用于特指双方已知的人或事物。
 
 ### 11
 
@@ -346,7 +346,7 @@ Her red dress made her stand out in ____ crowd.
 - [ ] ages
 - [ ] back then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**the** 为定冠词，用于特指双方已知的人或事物。
 
 ### 12
 
@@ -356,7 +356,7 @@ He really takes after his ____ in personality.
 - [ ] ages
 - [ ] back then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**grandfather** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 13
 
@@ -366,7 +366,7 @@ Neither of them remembered ____ exact date of the party.
 - [ ] ages
 - [ ] back then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**the** 为定冠词，用于特指双方已知的人或事物。
 
 ### 14
 
@@ -376,7 +376,7 @@ She is ____ in three foreign languages now.
 - [ ] ages
 - [ ] back then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fluent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -386,7 +386,7 @@ I wonder if they are ____ to each other.
 - [ ] ages
 - [ ] back then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **related**。
 
 ### 16
 
@@ -396,7 +396,7 @@ My grandmother had a great ____ on my career choice.
 - [ ] ages
 - [ ] back then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**influence** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -406,7 +406,7 @@ We share a similar ____ in traditional music.
 - [ ] ages
 - [ ] back then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**taste** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -416,7 +416,7 @@ Do you know ____ came to the reunion party?
 - [ ] ages
 - [ ] back then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**who** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -426,7 +426,7 @@ ____ arrives first should open the entrance door.
 - [ ] ages
 - [ ] back then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Whoever** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 20
 
@@ -436,6 +436,6 @@ Guess ____ photo was displayed on the bulletin board?
 - [ ] ages
 - [ ] back then
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**whose** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

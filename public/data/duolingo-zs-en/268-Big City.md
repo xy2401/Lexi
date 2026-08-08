@@ -244,7 +244,7 @@ Leaving her town far from her home, she moved to the big city to make it in show
 - [ ] Hollywood
 - [ ] adjust
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**business** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ The big city is full of unique ____, but you must take a risk and give it a chan
 - [ ] Hollywood
 - [ ] adjust
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **opportunities**。
 
 ### 3
 
@@ -264,7 +264,7 @@ Adjusting to new ____ can feel uncertain, especially far from her home.
 - [ ] Hollywood
 - [ ] adjust
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **surroundings**。
 
 ### 4
 
@@ -274,7 +274,7 @@ Her ____ parents hold conventional values, while she pursues an artistic life.
 - [ ] Hollywood
 - [ ] adjust
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hardworking** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 5
 
@@ -284,7 +284,7 @@ Anyone looking to move to ____ should make the most of every audition.
 - [ ] adjust
 - [ ] agriculture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Hollywood** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ Grabbing lunch at the local ____ is the best way to meet friendly neighbors.
 - [ ] Hollywood
 - [ ] adjust
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**deli** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ The apartment near the ____ might not be quite up to your standards.
 - [ ] Hollywood
 - [ ] adjust
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**laundromat** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ ____ a broadway musical is the best way to learn about New York culture.
 - [ ] Hollywood
 - [ ] adjust
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Watching** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 9
 
@@ -324,7 +324,7 @@ Although her hometown was small but beautiful, its economy depended on ____.
 - [ ] Hollywood
 - [ ] adjust
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**agriculture** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ Even though the future seemed ____, he was eager to work in the big city.
 - [ ] Hollywood
 - [ ] adjust
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**uncertain** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ In a city full of unique opportunities, you need time to ____ to your surroundin
 - [ ] Hollywood
 - [ ] agriculture
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**adjust** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ He is looking to find a new job in the show ____ industry.
 - [ ] Hollywood
 - [ ] adjust
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**business** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ Why not give it a ____ and see if you enjoy big city life?
 - [ ] Hollywood
 - [ ] adjust
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**chance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ As long as you are ____, you can make it in Hollywood.
 - [ ] Hollywood
 - [ ] adjust
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hardworking** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 15
 
@@ -384,7 +384,7 @@ Children raised in ____ families often hold strong personal values.
 - [ ] Hollywood
 - [ ] adjust
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**conventional** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ Making the most of waiting time at the ____ is a good habit.
 - [ ] Hollywood
 - [ ] adjust
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**laundromat** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ Leaving a small but ____ town for the big city takes great courage.
 - [ ] Hollywood
 - [ ] adjust
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**beautiful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ The fresh food provided at this ____ is definitely up to your standards.
 - [ ] Hollywood
 - [ ] adjust
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**deli** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ Attending a broadway musical is a great way to experience ____ charm.
 - [ ] Hollywood
 - [ ] adjust
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**artistic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ ____ to take a risk when young is a shared trait among successful people.
 - [ ] Hollywood
 - [ ] adjust
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Willingness** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

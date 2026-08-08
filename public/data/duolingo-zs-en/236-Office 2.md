@@ -244,7 +244,7 @@ The reason that we had to let him go was his poor ____.
 - [ ] availability
 - [ ] call in sick
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**performance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ The point is that we must ____ costs in the long run.
 - [ ] availability
 - [ ] call in sick
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cut** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ The thing is that our business ____ has been unreliable lately.
 - [ ] availability
 - [ ] call in sick
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**partner** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 4
 
@@ -274,7 +274,7 @@ What if several ____ call in sick on the same day?
 - [ ] availability
 - [ ] call in sick
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **employees**。
 
 ### 5
 
@@ -284,7 +284,7 @@ That reminds me, I need to check everyone's ____ for the shift.
 - [ ] call in sick
 - [ ] cooperate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**availability** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ On top of his daily duties, he had to update the ____.
 - [ ] availability
 - [ ] call in sick
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**spreadsheet** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ ____ we agree on the new strategy, we can move on.
 - [ ] availability
 - [ ] call in sick
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Once** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ ____ behavior will not be tolerated in this company.
 - [ ] availability
 - [ ] call in sick
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Unacceptable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ The software product ____ is good, but the support is lacking.
 - [ ] availability
 - [ ] call in sick
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**itself** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ She decided to ____ the offer because of her upcoming retirement.
 - [ ] availability
 - [ ] call in sick
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**decline** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ We need all departments to ____ closely on this project.
 - [ ] availability
 - [ ] call in sick
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cooperate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ He decided to ____ a night shift this week.
 - [ ] availability
 - [ ] call in sick
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**take** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ In the long run, quality is more ____ than speed.
 - [ ] availability
 - [ ] call in sick
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**important** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ He was forced to ____ the promotion for personal reasons.
 - [ ] availability
 - [ ] call in sick
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**decline** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ She has been an ____ partner in our investment.
 - [ ] availability
 - [ ] call in sick
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**unreliable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ That ____ me that we haven't paid the bills yet.
 - [ ] availability
 - [ ] call in sick
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **reminds**。
 
 ### 17
 
@@ -404,7 +404,7 @@ What if we change our marketing ____ completely?
 - [ ] availability
 - [ ] call in sick
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**strategy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ His ____ has improved significantly this quarter.
 - [ ] availability
 - [ ] call in sick
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**performance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ ____ the spreadsheet is ready, please send it to me.
 - [ ] availability
 - [ ] call in sick
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Once** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ It is time to move on to our next ____ topic.
 - [ ] availability
 - [ ] call in sick
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**business** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

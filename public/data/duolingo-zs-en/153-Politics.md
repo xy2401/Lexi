@@ -244,7 +244,7 @@ I read an interesting ____ about the upcoming local election.
 - [ ] as
 - [ ] can't stand
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**article** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ Freedom of expression is a fundamental part of ____.
 - [ ] article
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**democracy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ I can't stand it when ____ break their promises.
 - [ ] article
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **politicians**。
 
 ### 4
 
@@ -274,7 +274,7 @@ The national ____ weakened against the dollar this week.
 - [ ] article
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**currency** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ The ____ economy is recovering after a difficult year.
 - [ ] article
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**local** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ Citizens will ____ for the new mayor this Tuesday.
 - [ ] article
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**vote** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ ____ policies are becoming more important to young voters.
 - [ ] article
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Environmental** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ The ____ president gave a memorable speech at the university.
 - [ ] article
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**former** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 9
 
@@ -324,7 +324,7 @@ The ____ had to revise the tax proposal yesterday.
 - [ ] article
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**committee** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ Strict ____ laws were discussed during the debate.
 - [ ] article
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**immigration** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ The ____ council approved the construction of a new park.
 - [ ] article
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**local** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ What did the governor ____ by that statement?
 - [ ] article
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mean** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ She ____ to support the new education law.
 - [ ] article
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**meant** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ Did the speaker ____ the new trade agreement?
 - [ ] article
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mention** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ The experienced ____ gave a clear answer to the reporter.
 - [ ] article
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**politician** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ She decided to pursue a career in ____ politics.
 - [ ] article
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**local** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ The sudden resignation of the minister was truly ____.
 - [ ] article
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shocking** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 18
 
@@ -414,7 +414,7 @@ The mayor delivered an inspiring ____ to the public.
 - [ ] article
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**speech** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ Each ____ has its own specific regulations on elections.
 - [ ] article
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**state** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ Always tell the ____ when testifying in court.
 - [ ] article
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**truth** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

@@ -236,7 +236,7 @@ He was ____ from school today due to a high fever.
 - [ ] aloud
 - [ ] apply
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**absent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -246,7 +246,7 @@ The teacher asked the student to read the poem ____.
 - [ ] absent
 - [ ] apply
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**aloud** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -256,7 +256,7 @@ She decided to ____ for a scholarship at the university.
 - [ ] absent
 - [ ] aloud
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**apply** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -266,7 +266,7 @@ Please check your essay carefully for any ____.
 - [ ] absent
 - [ ] aloud
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**correction** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -276,7 +276,7 @@ Students earn three academic ____ points for this course.
 - [ ] absent
 - [ ] aloud
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**credit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -286,7 +286,7 @@ Children enter elementary ____ at six years old.
 - [ ] absent
 - [ ] aloud
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**school** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -296,7 +296,7 @@ ____ is studying hard for the final exam.
 - [ ] absent
 - [ ] aloud
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Everyone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -306,7 +306,7 @@ Her neat ____ is very easy to read.
 - [ ] absent
 - [ ] aloud
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**handwriting** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 9
 
@@ -316,7 +316,7 @@ They read classic American ____ in high school.
 - [ ] absent
 - [ ] aloud
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**literature** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -326,7 +326,7 @@ The teacher distributed study ____ for the upcoming test.
 - [ ] absent
 - [ ] aloud
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**material** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -336,7 +336,7 @@ Our history ____ is scheduled for next Wednesday.
 - [ ] absent
 - [ ] aloud
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**midterm** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -346,7 +346,7 @@ Write a short ____ summarizing the article.
 - [ ] absent
 - [ ] aloud
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**paragraph** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -356,7 +356,7 @@ All students are encouraged to ____ in class.
 - [ ] absent
 - [ ] aloud
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**participate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -366,7 +366,7 @@ Active class ____ counts toward your final grade.
 - [ ] absent
 - [ ] aloud
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**participation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -376,7 +376,7 @@ Good exam ____ reduces test anxiety for students.
 - [ ] absent
 - [ ] aloud
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**preparation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -386,7 +386,7 @@ Listen carefully to the ____ pronunciation of word.
 - [ ] absent
 - [ ] aloud
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**correct** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -396,7 +396,7 @@ Parents received their child's ____ report card.
 - [ ] absent
 - [ ] aloud
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**excellent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -406,7 +406,7 @@ You should ____ the chapter before answering questions.
 - [ ] absent
 - [ ] aloud
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reread** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -416,7 +416,7 @@ The teacher told him to ____ his introductory essay.
 - [ ] absent
 - [ ] aloud
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rewrite** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -426,6 +426,6 @@ The ____ student solved the difficult math puzzle.
 - [ ] absent
 - [ ] aloud
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**smart** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

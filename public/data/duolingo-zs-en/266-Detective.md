@@ -264,7 +264,7 @@ Based on fingerprints and footprints, it must have been a ____ in the gang.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**suspect** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -274,7 +274,7 @@ ____ the motive, it could have been the robber who used a disguise.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Considering** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 3
 
@@ -284,7 +284,7 @@ There may have been a ____ weapon, and the alarm started to go off.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**crucial** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -294,7 +294,7 @@ The detective relied on a ____ as a crucial clue to solve the case.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bullet** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -304,7 +304,7 @@ The ____ tried to distract the guard so that his gang could escape.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**robber** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 6
 
@@ -314,7 +314,7 @@ Bringing ____ to the community is the ultimate goal in solving this case.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**justice** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -324,7 +324,7 @@ Based on ____ clues gathered at the scene, police identified the main suspect.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**crucial** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -334,7 +334,7 @@ ____ the criminal motive, it must have been someone inside the gang.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Considering** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 9
 
@@ -344,7 +344,7 @@ The ____ left behind could have been made by the escaping robber.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**footprint** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -354,7 +354,7 @@ The ____ may have worn a disguise to hide his true identity.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**suspect** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -364,7 +364,7 @@ The ____ may not have carried a deadly weapon during the crime.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**suspect** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -374,7 +374,7 @@ The clear ____ on the door handle served as a crucial clue.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fingerprint** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -384,7 +384,7 @@ All of a sudden, the loud ____ alarm began to go off in the dark.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**security** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -394,7 +394,7 @@ The detective deduced it must have been a setup to ____ the guard.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**distract** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -404,7 +404,7 @@ ____ the bullet found at the scene, a heavy weapon was used.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Considering** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 16
 
@@ -414,7 +414,7 @@ There may have been an accomplice helping the ____ in disguise.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**robber** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 17
 
@@ -424,7 +424,7 @@ Police are working on the ____ to bring full justice to the victim.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**case** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -434,7 +434,7 @@ The dangerous ____ was involved in multiple robbery cases across town.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gang** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -444,7 +444,7 @@ This ____ bullet provided strong evidence for the detective's theory.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**crucial** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -454,6 +454,6 @@ The suspect's real ____ for breaking into the house remains a mystery.
 - [ ] as
 - [ ] based on
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**motive** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

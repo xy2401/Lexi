@@ -244,7 +244,7 @@ As a ____ traveler, he landed on another continent for the first time.
 - [ ] arrival
 - [ ] continent
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**solo** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ Upon ____ at the airport, we went through passport control.
 - [ ] continent
 - [ ] extra
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**arrival** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ You can take a free ____ to the nearby hotel.
 - [ ] arrival
 - [ ] continent
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shuttle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ On the other hand, he felt ____ while traveling abroad.
 - [ ] arrival
 - [ ] continent
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**homesick** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ Please relax on the ____ over there while I unpack the bags.
 - [ ] arrival
 - [ ] continent
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**patio** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ You should ____ public transportation tickets in advance.
 - [ ] arrival
 - [ ] continent
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reserve** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ The plane will ____ soon, so pay the extra luggage fare.
 - [ ] arrival
 - [ ] continent
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**land** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ The hotel has a ____ room for every traveler.
 - [ ] arrival
 - [ ] continent
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**laundry** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ Among all ____, he likes best to explore nature and history.
 - [ ] arrival
 - [ ] continent
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **countries**。
 
 ### 10
 
@@ -334,7 +334,7 @@ That ancient town is ____, making it the farthest point.
 - [ ] arrival
 - [ ] continent
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**farther** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 11
 
@@ -344,7 +344,7 @@ The plane ____ was delayed by an hour.
 - [ ] continent
 - [ ] extra
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**arrival** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ Look over there, there is a store on the ____ corner.
 - [ ] arrival
 - [ ] continent
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**street** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ Please ____ your suitcase and put away your clothes.
 - [ ] arrival
 - [ ] continent
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**unpack** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ The public ____ system in this city is convenient.
 - [ ] arrival
 - [ ] continent
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**transportation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ We decided to ____ a hotel room with an ocean view.
 - [ ] arrival
 - [ ] continent
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reserve** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ He felt very ____ during his first semester at college.
 - [ ] arrival
 - [ ] continent
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**homesick** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ This free ____ leaves every fifteen minutes.
 - [ ] arrival
 - [ ] continent
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shuttle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ Asia is the largest ____ in terms of population.
 - [ ] arrival
 - [ ] extra
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**continent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ Please show your ____ at the passport control.
 - [ ] arrival
 - [ ] continent
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**passport** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ You can use the hotel ____ to wash your clothes.
 - [ ] arrival
 - [ ] continent
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**laundry** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

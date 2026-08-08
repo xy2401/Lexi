@@ -244,7 +244,7 @@ He was ____ in a small town during the nineteen nineties.
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**born** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ Scientists made a major ____ in renewable energy.
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**discovery** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ In the ____, disco and pop music were popular worldwide.
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **eighties**。
 
 ### 4
 
@@ -274,7 +274,7 @@ Television sets entered ordinary households in the ____.
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **fifties**。
 
 ### 5
 
@@ -284,7 +284,7 @@ The younger ____ grew up with smartphones and internet.
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**generation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ These trees have ____ here for more than a hundred years.
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**grown** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ If you ask me, songs from that ____ sound much better.
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**decade** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ The ____ of smartphones changed human communication.
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**invention** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ Computers became ____ during the nineteen nineties.
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**widespread** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ Rock music spread rapidly in the ____ sixties.
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**nineteen** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ That historical event took place in the ____ century.
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**nineteenth** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ ____, people access information instantly via mobile phones.
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Nowadays**。
 
 ### 13
 
@@ -364,7 +364,7 @@ The city's ____ grew dramatically over the past decade.
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**population** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ Do you ____ the afternoon when we first met?
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**remember** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 15
 
@@ -384,7 +384,7 @@ Please ____ me to reply to the email before end of day.
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**remind** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ To be honest, I don't really care for modern ____.
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**architecture** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ Space exploration advanced quickly in the ____ century.
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**twentieth** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ We live in the fast-changing ____ century today.
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**twenty-first** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ I ____ understand why people loved vintage vinyl records.
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**couldn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ ____ fix the issue today or delay it until next week.
 - [ ] 1802
 - [ ] 1992
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Either** 为形容词/副词比较级，用于两者之间的对比。
 
 </quiz-cloze>

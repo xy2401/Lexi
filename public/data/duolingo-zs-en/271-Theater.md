@@ -246,7 +246,7 @@ She went to the ____ for the lead role.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**audition** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -256,7 +256,7 @@ The actor ____ his stage fright before stepping onto the stage.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**overcame** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -266,7 +266,7 @@ Opening night ____ a full house of excited theater fans.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **attracted**。
 
 ### 4
 
@@ -276,7 +276,7 @@ ____ was very excited for the opening night of the show.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Everyone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -286,7 +286,7 @@ Chances are she will get the ____ she always wanted.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**role** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -296,7 +296,7 @@ We will have a ____ for the second act tonight.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rehearsal** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -306,7 +306,7 @@ The director asked everyone to read the ____ before lunch.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**script** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -316,7 +316,7 @@ I almost forgot a ____ during the third scene of the play.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**line** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -326,7 +326,7 @@ The famous theater ____ wrote a great review for the new show.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**critic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -336,7 +336,7 @@ The director was ____ by the young actor's performance.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **impressed**。
 
 ### 11
 
@@ -346,7 +346,7 @@ The new play was ____ recommended by the local community.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**highly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -356,7 +356,7 @@ When he stepped into the ____, the audience became quiet.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**spotlight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -366,7 +366,7 @@ This was a wonderful theater ____ with impressive costumes.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**production** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -376,7 +376,7 @@ The team spent three days building the wooden ____ for the show.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**set** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -386,7 +386,7 @@ She is playing the leading ____ in this romantic musical.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**role** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -396,7 +396,7 @@ That was quite a ____ for a beginner actor.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**performance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -406,7 +406,7 @@ Almost all seats were filled with people ____ for the show.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**waiting** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 18
 
@@ -416,7 +416,7 @@ I am pretty sure we can ____ all the lines by tomorrow.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**memorize** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -426,7 +426,7 @@ There's no ____ that she is the most talented dancer in the crew.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**question** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -436,6 +436,6 @@ The result might not be as bad as we ____ earlier.
 - [ ] almost a
 - [ ] almost all
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**thought** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

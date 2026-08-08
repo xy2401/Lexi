@@ -244,7 +244,7 @@ Watching a ____ comedy in cinema was a great experience.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**commercial** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ The ____ performed classical music loudly in theater.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**orchestra** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ The ____ acted in a fight scene on the stage.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**performer** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 4
 
@@ -274,7 +274,7 @@ The publisher published a ____ novel with a cool title.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fiction** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ He downloaded a video ____ on culture and sculpture.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**review** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ Creating cultural art pieces requires lots of ____.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**experience** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ The hero ____ against evil forces in the movie film.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fought** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ You can read the ____ for this new science fiction film.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**review** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ The ____ of this commercial comedy attracted many fans.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**title** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ The audience cheered ____ for the orchestra performance.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**loudly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ Let's go to the ____ to watch the latest action film.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cinema** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ This funny ____ made the entire audience laugh.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**comedy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ This is a great science ____ novel about space.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fiction** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ The famous author will ____ his third new book.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**publish** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ The performers delivered a great stage ____.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**performance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ Learning about different ____ broadens our minds.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**culture** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ You can ____ this high-quality song for free.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**download** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ That modern ____ in the gallery is eye-catching.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sculpture** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ Artists use inspiration to ____ stunning artwork.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**create** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ This unforgettable travel ____ will stay in mind.
 - [ ] act
 - [ ] action
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**experience** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

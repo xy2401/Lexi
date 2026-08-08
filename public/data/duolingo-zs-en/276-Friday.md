@@ -246,7 +246,7 @@ I would ____ stay home tonight than go out to a crowded place.
 - [ ] bite to eat
 - [ ] dominoes
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rather** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 2
 
@@ -256,7 +256,7 @@ Let's go for some pizza for ____, what do you think?
 - [ ] bite to eat
 - [ ] dominoes
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dinner** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -266,7 +266,7 @@ I am very fond of ____ Friday game night with my friends.
 - [ ] bite to eat
 - [ ] dominoes
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**joining** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 4
 
@@ -276,7 +276,7 @@ Let's grab a quick bite to eat ____ we watch the movie.
 - [ ] bite to eat
 - [ ] dominoes
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**before** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -286,7 +286,7 @@ It's our turn to host game night this Friday ____.
 - [ ] bite to eat
 - [ ] dominoes
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**evening** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 6
 
@@ -296,7 +296,7 @@ They sat around the table and played ____ all evening.
 - [ ] bite to eat
 - [ ] fond of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **dominoes**。
 
 ### 7
 
@@ -306,7 +306,7 @@ ____ you want to play a game, just call me.
 - [ ] bite to eat
 - [ ] dominoes
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Whenever** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 8
 
@@ -316,7 +316,7 @@ ____ restaurant you choose, I am happy to go with you.
 - [ ] bite to eat
 - [ ] dominoes
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Whichever** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 9
 
@@ -326,7 +326,7 @@ ____ loses this round of the game has to wash the dishes.
 - [ ] bite to eat
 - [ ] dominoes
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Whoever** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 10
 
@@ -336,7 +336,7 @@ Can ____ tell me whose turn it is to roll the dice next?
 - [ ] bite to eat
 - [ ] dominoes
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**someone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -346,7 +346,7 @@ The weather is ____, so let's just stay in this Friday night.
 - [ ] bite to eat
 - [ ] dominoes
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**terrible** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -356,7 +356,7 @@ If it gets too late, you can stay over at my ____ tonight.
 - [ ] bite to eat
 - [ ] dominoes
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**apartment** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -366,7 +366,7 @@ I am too tired, so I want to ____ bowling tonight and rest.
 - [ ] bite to eat
 - [ ] dominoes
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**skip** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -376,7 +376,7 @@ These fries are a bit ____, but they taste really great.
 - [ ] bite to eat
 - [ ] dominoes
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**salty** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -386,7 +386,7 @@ I ____ a burger with a side of hot french fries.
 - [ ] bite to eat
 - [ ] dominoes
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **ordered**。
 
 ### 16
 
@@ -396,7 +396,7 @@ We are ____ to go bowling with our friends this Friday.
 - [ ] bite to eat
 - [ ] dominoes
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**planning** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 17
 
@@ -406,7 +406,7 @@ I don't mind at all, it's your choice what we eat ____.
 - [ ] bite to eat
 - [ ] dominoes
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tonight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -416,7 +416,7 @@ Do you have a ____ plan in mind for tonight's activity?
 - [ ] bite to eat
 - [ ] dominoes
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**specific** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -426,7 +426,7 @@ I don't have a ____ preference, any place you suggest is fine.
 - [ ] bite to eat
 - [ ] dominoes
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**specific** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -436,6 +436,6 @@ ____ salty the french fries are, I still want a bite to eat.
 - [ ] bite to eat
 - [ ] dominoes
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**However** 为形容词/副词比较级，用于两者之间的对比。
 
 </quiz-cloze>

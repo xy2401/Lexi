@@ -234,7 +234,7 @@ I would ____ a main course with a side of French fries.
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**like** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -244,7 +244,7 @@ Have you ____ seated by the waiter yet?
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**been** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -254,7 +254,7 @@ Is there ____ dairy product in this mushroom soup?
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**any** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -264,7 +264,7 @@ I am so ____ that I cannot finish the dessert.
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**full** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -274,7 +274,7 @@ Did you ____ that there is an extra service charge?
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**notice** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -284,7 +284,7 @@ Please ____ a clean napkin on your lap before eating.
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**put** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -294,7 +294,7 @@ The grilled fish smells ____ and tastes delicious.
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fantastic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -304,7 +304,7 @@ The restaurant won an ____ for its excellent appetizers.
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**award** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -314,7 +314,7 @@ The ____ size is only a bit small for the price.
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**portion** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -324,7 +324,7 @@ I am angry that they ____ the wrong order to our table.
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**brought** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -334,7 +334,7 @@ You ____ try the award-winning chef's special dish.
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**should** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -344,7 +344,7 @@ I have ____ to this Italian diner twice this week.
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**been** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -354,7 +354,7 @@ Would you ____ any extra sauce with your steak?
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**like** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -364,7 +364,7 @@ ____ the glasses on the right side of the plate.
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Put** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -374,7 +374,7 @@ He was ____ near the window to enjoy the ocean view.
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **seated**。
 
 ### 16
 
@@ -384,7 +384,7 @@ The ____ came out quickly before the main course.
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**appetizer** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 17
 
@@ -394,7 +394,7 @@ I didn't ____ any difference between the two dishes.
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**notice** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -404,7 +404,7 @@ She is allergic to ____, so she avoids butter and cheese.
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dairy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -414,7 +414,7 @@ We ____ ask for another napkin from the server.
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**should** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -424,6 +424,6 @@ It smells ____ fresh herbs and roasted garlic in the kitchen.
 - [ ] a side of
 - [ ] angry that
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**like** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

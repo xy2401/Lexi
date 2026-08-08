@@ -246,7 +246,7 @@ If only I ____ listened to your advice earlier.
 - [ ] ambitious
 - [ ] disagreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**had** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -256,7 +256,7 @@ I ____ I hadn't pushed him so hard.
 - [ ] ambitious
 - [ ] disagreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wish** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -266,7 +266,7 @@ It turns out that it ____ nothing to do with me.
 - [ ] ambitious
 - [ ] disagreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**had** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -276,7 +276,7 @@ Judging by the ____ on her face, she was upset.
 - [ ] ambitious
 - [ ] disagreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**look** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -286,7 +286,7 @@ That's why we ended up having a serious ____.
 - [ ] ambitious
 - [ ] embarrassment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**disagreement** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -296,7 +296,7 @@ I was too ____ and underestimated the difficulty of the project.
 - [ ] disagreement
 - [ ] embarrassment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **ambitious**。
 
 ### 7
 
@@ -306,7 +306,7 @@ He told me to shut up during the ____.
 - [ ] ambitious
 - [ ] disagreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**meeting** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 8
 
@@ -316,7 +316,7 @@ I deeply regret the ____ of embarrassment I caused.
 - [ ] ambitious
 - [ ] disagreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**feeling** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 9
 
@@ -326,7 +326,7 @@ ____ be better if we didn't skip any important steps.
 - [ ] ambitious
 - [ ] disagreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**It'd** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -336,7 +336,7 @@ Did you ____ what I said on the phone?
 - [ ] ambitious
 - [ ] disagreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**misunderstand** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -346,7 +346,7 @@ She chose not to ____ to the rude comment.
 - [ ] ambitious
 - [ ] disagreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**respond** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -356,7 +356,7 @@ We should ____ trying even when things get difficult.
 - [ ] ambitious
 - [ ] disagreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**keep** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -366,7 +366,7 @@ I ____ no idea that you were going through such a hard time.
 - [ ] ambitious
 - [ ] disagreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**had** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -376,7 +376,7 @@ It ____ out that she was right all along.
 - [ ] ambitious
 - [ ] disagreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **turns**。
 
 ### 15
 
@@ -386,7 +386,7 @@ Don't ____ how much work this will require.
 - [ ] ambitious
 - [ ] disagreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**underestimate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -396,7 +396,7 @@ I ____ I could get another chance to explain.
 - [ ] ambitious
 - [ ] disagreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wish** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -406,7 +406,7 @@ He tried to ____ it cool despite his embarrassment.
 - [ ] ambitious
 - [ ] disagreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**play** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -416,7 +416,7 @@ If only we ____ skipped the warning signs.
 - [ ] ambitious
 - [ ] disagreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hadn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -426,7 +426,7 @@ It ____ nothing to do with your performance.
 - [ ] ambitious
 - [ ] disagreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**had** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -436,6 +436,6 @@ Judging by his ____, he did not expect the news.
 - [ ] ambitious
 - [ ] disagreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reaction** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

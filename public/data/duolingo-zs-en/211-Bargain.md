@@ -232,7 +232,7 @@ I cannot afford to buy clothes from ____ luxury brand.
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**that** 为指示代词/限定词，指代单数远指事物，表示“那个”。
 
 ### 2
 
@@ -242,7 +242,7 @@ Please look for items on ____ in aisle 5.
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sale** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -252,7 +252,7 @@ Enter this ____ code at checkout to get free shipping.
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**coupon** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -262,7 +262,7 @@ Buying this jacket at a ____ was a really good deal.
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**discount** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -272,7 +272,7 @@ The clothing prices in this shop are very ____.
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reasonable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -282,7 +282,7 @@ The ____ logo is printed on the sleeve of this vintage sweater.
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**brand** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -292,7 +292,7 @@ This ____ edition shirt is not worth a single penny.
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **limited**。
 
 ### 8
 
@@ -302,7 +302,7 @@ The ____ guard stood near the exit of the clothing store.
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**security** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -312,7 +312,7 @@ My grandmother decided to ____ a beautiful cotton dress for me.
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sew** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -322,7 +322,7 @@ She likes to ____ scarves for her family during winter.
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**knit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -332,7 +332,7 @@ Please ____ the clean clothes neatly before putting them away.
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fold** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -342,7 +342,7 @@ This ____ jacket fits me perfectly.
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**medium** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -352,7 +352,7 @@ I really don't know ____ to buy during the big sale.
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**what** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -362,7 +362,7 @@ ____ shirt you choose, I think it will look great.
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Whatever** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 15
 
@@ -372,7 +372,7 @@ Do you know ____ of these two models is the better offer?
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**which** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -382,7 +382,7 @@ The store offers a ____ discount for the entire week.
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **limited**。
 
 ### 17
 
@@ -392,7 +392,7 @@ We checked the expiration date on the ____ before paying.
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**coupon** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -402,7 +402,7 @@ ____ well-known brand opened a new store downtown.
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**that** 为指示代词/限定词，指代单数远指事物，表示“那个”。
 
 ### 19
 
@@ -412,7 +412,7 @@ There are many exquisite ____ items in this secondhand shop.
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**vintage** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -422,6 +422,6 @@ Please put ____ folded coat into the cardboard box.
 - [ ] afford to
 - [ ] aisle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**that** 为指示代词/限定词，指代单数远指事物，表示“那个”。
 
 </quiz-cloze>

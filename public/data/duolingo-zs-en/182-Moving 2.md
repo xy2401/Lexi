@@ -234,7 +234,7 @@ My grandmother owns a piece of valuable ____ furniture.
 - [ ] across
 - [ ] basement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**antique** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -244,7 +244,7 @@ They store old boxes down inside the ____.
 - [ ] across
 - [ ] antique
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**basement** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -254,7 +254,7 @@ Put your ____ cup on the wooden coffee table.
 - [ ] across
 - [ ] antique
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**coffee** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -264,7 +264,7 @@ It is wise to ____ prices before renting a room.
 - [ ] across
 - [ ] antique
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**compare** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -274,7 +274,7 @@ The storm caused major ____ to the roof of the house.
 - [ ] across
 - [ ] antique
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**damage** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -284,7 +284,7 @@ Their new ____ is located on the ground floor.
 - [ ] across
 - [ ] antique
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**apartment** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -294,7 +294,7 @@ We signed a one-year ____ for the new apartment.
 - [ ] across
 - [ ] antique
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lease** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -304,7 +304,7 @@ They plan to move into their new house next ____.
 - [ ] across
 - [ ] antique
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**weekend** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -314,7 +314,7 @@ The ____ tenant will move out at the end of month.
 - [ ] across
 - [ ] antique
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **previous**。
 
 ### 10
 
@@ -324,7 +324,7 @@ The workers loaded all our ____ onto the moving truck.
 - [ ] across
 - [ ] antique
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**furniture** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -334,7 +334,7 @@ I ____ like loud noise, and neither do I like rain.
 - [ ] across
 - [ ] antique
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**don't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -344,7 +344,7 @@ The house ____ promised to fix the broken shower.
 - [ ] across
 - [ ] antique
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**owner** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 13
 
@@ -354,7 +354,7 @@ We love sitting on the front ____ in the evening.
 - [ ] across
 - [ ] antique
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**porch** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -364,7 +364,7 @@ The real estate agent showed us three rental ____.
 - [ ] across
 - [ ] antique
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **properties**。
 
 ### 15
 
@@ -374,7 +374,7 @@ I love spacious kitchens, and so ____ I prefer balconies.
 - [ ] across
 - [ ] antique
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**do** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -384,7 +384,7 @@ Monthly rent includes all basic ____ like water and gas.
 - [ ] across
 - [ ] antique
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **utilities**。
 
 ### 17
 
@@ -394,7 +394,7 @@ The ____ cost of the move was lower than estimated.
 - [ ] across
 - [ ] antique
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**total** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -404,7 +404,7 @@ They ____ a cozy small house near the seaside.
 - [ ] across
 - [ ] antique
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**own** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -414,7 +414,7 @@ The security ____ in the building works very well.
 - [ ] across
 - [ ] antique
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**system** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -424,6 +424,6 @@ The ____ bedroom has a large walk-in closet.
 - [ ] across
 - [ ] antique
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**main** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

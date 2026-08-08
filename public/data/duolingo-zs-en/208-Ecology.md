@@ -234,7 +234,7 @@ The sea turtle's natural ____ is being destroyed by coastal development.
 - [ ] adapt
 - [ ] are being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**habitat** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -244,7 +244,7 @@ What is ____ done to protect endangered species on our planet?
 - [ ] adapt
 - [ ] are being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**being** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 3
 
@@ -254,7 +254,7 @@ Factories ____ rivers, which causes global warming to get worse.
 - [ ] adapt
 - [ ] are being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pollute** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -264,7 +264,7 @@ Plastic trash must be ____ to keep the ocean clean.
 - [ ] adapt
 - [ ] are being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **recycled**。
 
 ### 5
 
@@ -274,7 +274,7 @@ Many ____ trees are being planted near the steep mountain side.
 - [ ] adapt
 - [ ] are being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**green** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -284,7 +284,7 @@ Wild animals need to ____ to changing natural conditions.
 - [ ] are being
 - [ ] are not being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**adapt** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -294,7 +294,7 @@ The historical old village is surrounded by dense ____ forests.
 - [ ] adapt
 - [ ] are being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**green** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -304,7 +304,7 @@ Air quality rules are not ____ followed strictly by some companies.
 - [ ] adapt
 - [ ] are being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**being** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 9
 
@@ -314,7 +314,7 @@ More ____ energy sources will be developed in the future.
 - [ ] adapt
 - [ ] are being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**renewable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -324,7 +324,7 @@ Environmental protection should be prioritized by every government in the ____.
 - [ ] adapt
 - [ ] are being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**universe** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -334,7 +334,7 @@ Heavy traffic has to be ____ to reduce carbon emissions.
 - [ ] adapt
 - [ ] are being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **controlled**。
 
 ### 12
 
@@ -344,7 +344,7 @@ Human activities ____ serious damage to rare plant species.
 - [ ] adapt
 - [ ] are being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cause** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -354,7 +354,7 @@ Human beings share this ____ with millions of animal species.
 - [ ] adapt
 - [ ] are being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**planet** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -364,7 +364,7 @@ The baby ____ is being rescued by marine conservationists.
 - [ ] adapt
 - [ ] are being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**turtle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -374,7 +374,7 @@ ____ issues must be discussed in global summits.
 - [ ] adapt
 - [ ] are being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Environmental** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -384,7 +384,7 @@ Trees should be protected rather than ____ cut down carelessly.
 - [ ] adapt
 - [ ] are being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**being** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 17
 
@@ -394,7 +394,7 @@ The ____ hill slopes are being covered with grass to prevent soil loss.
 - [ ] adapt
 - [ ] are being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**steep** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -404,7 +404,7 @@ What causes the extinction of rare ____ in the wild?
 - [ ] adapt
 - [ ] are being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **species**。
 
 ### 19
 
@@ -414,7 +414,7 @@ We have to be careful not to ____ our drinking water sources.
 - [ ] adapt
 - [ ] are being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pollute** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -424,6 +424,6 @@ Scientists study how different ____ adapt to environmental changes.
 - [ ] adapt
 - [ ] are being
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **species**。
 
 </quiz-cloze>

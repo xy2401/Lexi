@@ -238,7 +238,7 @@ He had to ____ that he made a serious mistake.
 - [ ] ask if
 - [ ] asked
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**admit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -248,7 +248,7 @@ The manager ____ if everyone was ready for meeting.
 - [ ] admit
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **asked**。
 
 ### 3
 
@@ -258,7 +258,7 @@ She ____ whether we could deliver the order on time.
 - [ ] admit
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **asked**。
 
 ### 4
 
@@ -268,7 +268,7 @@ Please call to ____ your appointment time.
 - [ ] admit
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**confirm** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -278,7 +278,7 @@ We need to deal with ____ feedback promptly.
 - [ ] admit
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**customer** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 6
 
@@ -288,7 +288,7 @@ The flight delay was due to severe weather ____.
 - [ ] admit
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **conditions**。
 
 ### 7
 
@@ -298,7 +298,7 @@ Could you do me a ____ and hold the door open?
 - [ ] admit
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**favor** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -308,7 +308,7 @@ Our outdoor plan; it depends on the weather ____.
 - [ ] admit
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tomorrow** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -318,7 +318,7 @@ He felt ____ of his coworker's sudden promotion.
 - [ ] admit
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **jealous**。
 
 ### 10
 
@@ -328,7 +328,7 @@ She applied for a student ____ to cover tuition costs.
 - [ ] admit
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**loan** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -338,7 +338,7 @@ What is your opinion on the ____ policy change?
 - [ ] admit
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **proposed**。
 
 ### 12
 
@@ -348,7 +348,7 @@ Please keep your ____ items in the locker provided.
 - [ ] admit
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**personal** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -358,7 +358,7 @@ ____, I believe this is the best solution.
 - [ ] admit
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Personally** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -368,7 +368,7 @@ They decided to ____ her to senior manager.
 - [ ] admit
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**promote** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -378,7 +378,7 @@ I deeply ____ not taking his advice earlier.
 - [ ] admit
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**regret** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -388,7 +388,7 @@ Doctors ____ sleeping at least seven hours a night.
 - [ ] admit
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**suggest** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -398,7 +398,7 @@ Are you sure about the exact ____ time?
 - [ ] admit
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**departure** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -408,7 +408,7 @@ What do you think of our new ____ design?
 - [ ] admit
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**office** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -418,7 +418,7 @@ I ____ agree with your suggestion for team building.
 - [ ] admit
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**totally** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -428,6 +428,6 @@ Don't ____ your time worrying about small details.
 - [ ] admit
 - [ ] ask if
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**waste** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

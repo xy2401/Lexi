@@ -244,7 +244,7 @@ When you ____, people often say 'Bless you!'
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sneeze** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ The doctor advised him to ____ smoking for health.
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**quit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ If you ____ sick and get worse, buy pills at the drugstore.
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**get** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ A serious ____ can make your bone feel very painful.
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**disease** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ Taking an ____ drug is bad for medical test.
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**unhealthy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ Feeling ____ and sick, you should stay in bed.
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sleepy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ Without a ____ test, the illness may become worse.
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**medical** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ The doctor told him ____ to keep a healthy diet.
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**seriously** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ Unfortunately, the ____ finger was very painful.
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cut** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ Developing good habits makes you become much ____.
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**healthier** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 11
 
@@ -344,7 +344,7 @@ Achoo! Someone let out a loud ____ in the room.
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sneeze** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ You can ____ this pain relief pill at the drugstore.
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**get** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ The ____ test showed his broken bone healed well.
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**medical** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ Preventing this dangerous ____ requires a vaccine.
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**disease** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ After listening to soft music, he felt very ____.
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sleepy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ The doctor advised him to ____ his unhealthy lifestyle.
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**quit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ If you don't take pills, your cold will ____ worse.
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**get** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ Eating more fresh fruits helps you stay ____.
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**healthier** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 19
 
@@ -424,7 +424,7 @@ The doctor ____ pointed out he needed surgery.
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**seriously** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ Bless you and hope you recover from ____ soon!
 - [ ] advise
 - [ ] bless you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**illness** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

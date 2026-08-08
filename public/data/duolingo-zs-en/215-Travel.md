@@ -236,7 +236,7 @@ We booked a cozy bed and breakfast in the ____.
 - [ ] ahead of time
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**countryside** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -246,7 +246,7 @@ The flight attendant reminded passengers ____ fasten their seatbelts.
 - [ ] ahead of time
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**to** 为介词或不定式符号，表示方向、目标或接动词原形。
 
 ### 3
 
@@ -256,7 +256,7 @@ Make sure your ____ bag meets the airline size limit.
 - [ ] ahead of time
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**carry-on** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -266,7 +266,7 @@ The hotel lobby elevator is currently out of order ____ maintenance.
 - [ ] ahead of time
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**for** 为介词，表示目的、对象或持续的时间段。
 
 ### 5
 
@@ -276,7 +276,7 @@ The dining area offers a ____ breakfast buffet for guests.
 - [ ] ahead of time
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**self-service** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -286,7 +286,7 @@ Travelers are advised ____ arrive at the airport ahead of time.
 - [ ] ahead of time
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**to** 为介词或不定式符号，表示方向、目标或接动词原形。
 
 ### 7
 
@@ -296,7 +296,7 @@ Please help yourself ____ the fresh fruit and drinks in the lounge.
 - [ ] ahead of time
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**to** 为介词或不定式符号，表示方向、目标或接动词原形。
 
 ### 8
 
@@ -306,7 +306,7 @@ This car rental agency is known ____ providing reliable vehicles.
 - [ ] ahead of time
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**for** 为介词，表示目的、对象或持续的时间段。
 
 ### 9
 
@@ -316,7 +316,7 @@ This hotel is conveniently located in the ____ district.
 - [ ] ahead of time
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**central** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -326,7 +326,7 @@ We can prepare ____ rooms if guests prefer privacy.
 - [ ] ahead of time
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**separate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -336,7 +336,7 @@ Before I arrived at the terminal, the flight ____ already taken off.
 - [ ] ahead of time
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**had** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -346,7 +346,7 @@ We ____ checked the forecast before heading to the beach.
 - [ ] ahead of time
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hadn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -356,7 +356,7 @@ He obtained his status ____ a permanent resident after years of living there.
 - [ ] ahead of time
 - [ ] bed and breakfast
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**as** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -366,7 +366,7 @@ The city attracts many young ____ from around the world.
 - [ ] ahead of time
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **immigrants**。
 
 ### 15
 
@@ -376,7 +376,7 @@ Please ____ your preferred dinner option from the menu.
 - [ ] ahead of time
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**select** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -386,7 +386,7 @@ The receptionist helped us ____ our reservation details carefully.
 - [ ] ahead of time
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**check** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -396,7 +396,7 @@ He often ____ across European countries for business.
 - [ ] ahead of time
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **travels**。
 
 ### 18
 
@@ -406,7 +406,7 @@ The sun came out from behind the clouds and it ____ up.
 - [ ] ahead of time
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **brightened**。
 
 ### 19
 
@@ -416,7 +416,7 @@ How did you find this boutique hotel without using ____?
 - [ ] ahead of time
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**navigation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -426,6 +426,6 @@ Please store your small baggage safely in the extra ____.
 - [ ] ahead of time
 - [ ] as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**room** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

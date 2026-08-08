@@ -246,7 +246,7 @@ My ____ don't allow me to stay out late on a school night.
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **parents**。
 
 ### 2
 
@@ -256,7 +256,7 @@ May I go to my friend's house for a ____ this Saturday?
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sleepover** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 3
 
@@ -266,7 +266,7 @@ The strict ____ for weekend nights is ten o'clock sharp.
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**curfew** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -276,7 +276,7 @@ It is no use trying to ____ for permission to go to the festival.
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**beg** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -286,7 +286,7 @@ We need to talk it over ____ before making a decision.
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**together** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 6
 
@@ -296,7 +296,7 @@ How will your parents ____ when they hear about the plan?
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**react** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -306,7 +306,7 @@ Please make sure to lock the front door before ____.
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**leaving** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 8
 
@@ -316,7 +316,7 @@ Absolutely ____! You cannot borrow my car tonight.
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**not** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -326,7 +326,7 @@ You can go out as long as you finish your ____ first.
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**homework** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -336,7 +336,7 @@ If ____ the case, we have no choice but to cancel the trip.
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **that's**。
 
 ### 11
 
@@ -346,7 +346,7 @@ The thing is, I ____ my mom I would stay home tonight.
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **promised**。
 
 ### 12
 
@@ -356,7 +356,7 @@ If you agree, that would be really ____ for all of us.
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wonderful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -366,7 +366,7 @@ Do you think I'd be able to borrow your guitar this ____?
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**weekend** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -376,7 +376,7 @@ How about if we ____ the meeting for tomorrow afternoon?
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reschedule** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -386,7 +386,7 @@ What about if we ____ this task before taking a break?
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**complete** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -396,7 +396,7 @@ Would you be ____ to give me a ride to the train station?
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**willing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 17
 
@@ -406,7 +406,7 @@ Will you help me carry this heavy box ____, please?
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **upstairs**。
 
 ### 18
 
@@ -416,7 +416,7 @@ It is ____ midnight, so everyone must keep quiet.
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**past** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -426,7 +426,7 @@ ____, let's meet at the school gate tomorrow morning at eight.
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Then** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -436,6 +436,6 @@ Since it's a ____ night, we should go home early.
 - [ ] absolutely not
 - [ ] as long as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**school** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

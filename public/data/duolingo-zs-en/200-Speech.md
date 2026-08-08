@@ -236,7 +236,7 @@ The ____ will announce the winners shortly.
 - [ ] announce
 - [ ] announcement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**speaker** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 2
 
@@ -246,7 +246,7 @@ Listen to the important flight ____ now.
 - [ ] announce
 - [ ] approximate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**announcement** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -256,7 +256,7 @@ The flight duration is ____ two hours.
 - [ ] announce
 - [ ] announcement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**approximately** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -266,7 +266,7 @@ May I have your ____ please for a moment?
 - [ ] announce
 - [ ] announcement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**attention** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -276,7 +276,7 @@ By the time he ____ speaking, all cheered.
 - [ ] announce
 - [ ] announcement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **finished**。
 
 ### 6
 
@@ -286,7 +286,7 @@ In fact, she has ____ many speeches before.
 - [ ] announce
 - [ ] announcement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **delivered**。
 
 ### 7
 
@@ -296,7 +296,7 @@ Good evening, ladies and ____, welcome to party!
 - [ ] announce
 - [ ] announcement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gentlemen** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -306,7 +306,7 @@ The experienced guide ____ us through the forest.
 - [ ] announce
 - [ ] announcement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**led** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -316,7 +316,7 @@ We look ____ to hearing your speech today.
 - [ ] announce
 - [ ] announcement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**forward** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -326,7 +326,7 @@ May I introduce our keynote ____ tonight?
 - [ ] announce
 - [ ] announcement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**speaker** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 11
 
@@ -336,7 +336,7 @@ It is ____ to prepare well for presentation.
 - [ ] announce
 - [ ] announcement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**necessary** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -346,7 +346,7 @@ It is a great ____ to address you all today.
 - [ ] announce
 - [ ] announcement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pleasure** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -356,7 +356,7 @@ As mentioned by the ____ speaker, we agree.
 - [ ] announce
 - [ ] announcement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **previous**。
 
 ### 14
 
@@ -366,7 +366,7 @@ She ____ worked as a journalist in London.
 - [ ] announce
 - [ ] announcement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**previously** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -376,7 +376,7 @@ The Mayor ____ to lower local business taxes.
 - [ ] announce
 - [ ] announcement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **promised**。
 
 ### 16
 
@@ -386,7 +386,7 @@ Let's welcome our main ____ with applause.
 - [ ] announce
 - [ ] announcement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**speaker** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 17
 
@@ -396,7 +396,7 @@ He stood up to propose a ____ to the couple.
 - [ ] announce
 - [ ] announcement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**toast** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -406,7 +406,7 @@ Avoid ____ delay during the assembly.
 - [ ] announce
 - [ ] announcement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**unnecessary** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -416,7 +416,7 @@ She works as a ____ for the community event.
 - [ ] announce
 - [ ] announcement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**volunteer** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 20
 
@@ -426,6 +426,6 @@ Please finish your questions ____ five minutes.
 - [ ] announce
 - [ ] announcement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**within** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

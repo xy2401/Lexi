@@ -244,7 +244,7 @@ Please let the waiter know if you have a severe food ____.
 - [ ] any
 - [ ] casual
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**allergy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ We dressed in ____ clothes for dinner at the neighborhood bistro.
 - [ ] allergy
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**casual** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ The burnt food smelled completely ____.
 - [ ] allergy
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**disgusting** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 4
 
@@ -274,7 +274,7 @@ On Friday nights, we prefer to eat out at local ____.
 - [ ] allergy
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **restaurants**。
 
 ### 5
 
@@ -284,7 +284,7 @@ Will your ____ order be for here or to go?
 - [ ] allergy
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**coffee** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ Fresh ____ arrived from the local organic market today.
 - [ ] allergy
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **groceries**。
 
 ### 7
 
@@ -304,7 +304,7 @@ Rosemary is a popular ____ used in Italian cooking.
 - [ ] allergy
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**herb** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ ____ dinner is my treat, so order whatever you like!
 - [ ] allergy
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Tonight's**。
 
 ### 9
 
@@ -324,7 +324,7 @@ She added a green ____ to her fresh garden salad.
 - [ ] allergy
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**olive** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ Some children are allergic to ____ butter products.
 - [ ] allergy
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**peanut** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ If the soup is cold, you should ____ it back to the kitchen.
 - [ ] allergy
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**send** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ Our ____ was friendly and provided attentive service all evening.
 - [ ] allergy
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**server** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 13
 
@@ -364,7 +364,7 @@ This Thai curry is delicious, but it is extremely ____.
 - [ ] allergy
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**spicy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ My friend and I decided to ____ the chocolate dessert.
 - [ ] allergy
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**split** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ I haven't eaten all day, so I am absolutely ____!
 - [ ] allergy
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**starving** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 16
 
@@ -394,7 +394,7 @@ This homemade tomato soup has a rich and delicious ____.
 - [ ] allergy
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**taste** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ He ordered his ribeye steak well done with mashed ____.
 - [ ] allergy
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **potatoes**。
 
 ### 18
 
@@ -414,7 +414,7 @@ ____! There is too much salt in this salad dressing.
 - [ ] allergy
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Yuck** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ Here is your hot meal, fresh from the ____!
 - [ ] allergy
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**kitchen** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ The ____ offers a wide range of vegetarian dishes.
 - [ ] allergy
 - [ ] any
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**restaurant** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

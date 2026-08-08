@@ -244,7 +244,7 @@ Every ____ trained hard for the international competition.
 - [ ] ask
 - [ ] at least
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**athlete** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ Our basketball team managed to ____ the defense in the final quarter.
 - [ ] ask
 - [ ] at least
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**beat** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ The tennis ____ held up the trophy with pride.
 - [ ] ask
 - [ ] at least
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**champion** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ Fans ____ in the sports bar to cheer for their hometown team.
 - [ ] ask
 - [ ] at least
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **gathered**。
 
 ### 5
 
@@ -284,7 +284,7 @@ The experienced ____ gave the team a pep talk before the match.
 - [ ] ask
 - [ ] at least
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**coach** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ Athletes from fifty nations came to ____ in the games.
 - [ ] ask
 - [ ] at least
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**compete** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ He scored a brilliant ____ in the last minute of the game.
 - [ ] ask
 - [ ] at least
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**goal** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ Millions of fans watched the championship game ____ on television.
 - [ ] ask
 - [ ] at least
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**live** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ Winning a gold medal at the ____ was her ultimate goal.
 - [ ] ask
 - [ ] at least
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Olympics**。
 
 ### 10
 
@@ -334,7 +334,7 @@ Each team earned one ____ for the draw in the match.
 - [ ] ask
 - [ ] at least
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**point** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ Which soccer club do you ____ root for during the season?
 - [ ] ask
 - [ ] at least
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**usually** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ You must follow every ____ established by the sports board.
 - [ ] ask
 - [ ] at least
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rule** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ The final ____ of the hockey game was three to two.
 - [ ] ask
 - [ ] at least
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**score** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ The fans stood up and ____ when the team entered the field.
 - [ ] ask
 - [ ] at least
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **applauded**。
 
 ### 15
 
@@ -384,7 +384,7 @@ The football match ended in a ____ after extra time.
 - [ ] ask
 - [ ] at least
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tie** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ Our school team qualified for the state basketball ____.
 - [ ] ask
 - [ ] at least
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tournament** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ ____ fans around the world eagerly await the next World Cup.
 - [ ] ask
 - [ ] at least
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Football** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ You need at least five players to start a ____ game.
 - [ ] ask
 - [ ] at least
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**basketball** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ She ran much faster ____ her main rival on the track.
 - [ ] ask
 - [ ] at least
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**than** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ Don't hesitate to ____ the referee for clarification.
 - [ ] at least
 - [ ] athlete
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ask** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

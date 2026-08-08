@@ -244,7 +244,7 @@ At the ____ ceremony, the bride and groom exchanged rings.
 - [ ] bride
 - [ ] celebrate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wedding** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 2
 
@@ -254,7 +254,7 @@ The ____ kissed the bride on the cheek in front of relatives.
 - [ ] bride
 - [ ] celebrate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**groom** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ Musicians played ____ music to greet every guest.
 - [ ] bride
 - [ ] celebrate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**traditional** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ We delivered roses in a ____ as a wedding surprise.
 - [ ] bride
 - [ ] celebrate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**vase** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ Relating friends ____ and celebrated until late at night.
 - [ ] bride
 - [ ] celebrate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stood** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ Instead of a plain cake, they had ____ desserts.
 - [ ] bride
 - [ ] celebrate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**colorful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ The ____ ceremony lasted over three hours with joy.
 - [ ] bride
 - [ ] celebrate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wedding** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 8
 
@@ -314,7 +314,7 @@ The ____ couple thanked all relatives for coming.
 - [ ] bride
 - [ ] celebrate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **engaged**。
 
 ### 9
 
@@ -324,7 +324,7 @@ The ____ stood by the altar, looking at his lovely bride.
 - [ ] bride
 - [ ] celebrate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**groom** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ They gave each other a sweet ____ before all the guests.
 - [ ] bride
 - [ ] celebrate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**kiss** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ The ____ wore a beautiful traditional white wedding gown.
 - [ ] celebrate
 - [ ] ceremony
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bride** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ The marriage ____ was held in the church garden.
 - [ ] bride
 - [ ] celebrate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ceremony** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ The talented ____ played lovely songs at the feast.
 - [ ] bride
 - [ ] celebrate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **musicians**。
 
 ### 14
 
@@ -374,7 +374,7 @@ He kissed her gently on her left ____ with love.
 - [ ] bride
 - [ ] celebrate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cheek** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ Many relatives came by plane to join this big ____.
 - [ ] bride
 - [ ] celebrate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wedding** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 16
 
@@ -394,7 +394,7 @@ Red roses were set in a clear glass ____ on the table.
 - [ ] bride
 - [ ] celebrate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**vase** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ We prepared an unexpected ____ for the new couple.
 - [ ] bride
 - [ ] celebrate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**surprise** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ The big ____ party lasted till midnight.
 - [ ] bride
 - [ ] celebrate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wedding** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 19
 
@@ -424,7 +424,7 @@ The couple decided to ____ wedding rings on stage.
 - [ ] bride
 - [ ] celebrate
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**exchange** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ Friends and family gathered to ____ this special day.
 - [ ] bride
 - [ ] ceremony
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**celebrate** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

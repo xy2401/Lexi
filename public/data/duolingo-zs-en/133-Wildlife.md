@@ -244,7 +244,7 @@ In the ____ jungle, the tiger and zebra walked on dirt.
 - [ ] ahead
 - [ ] beside
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**humid** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ The ____ singing loudly sat beside a bright leaf.
 - [ ] ahead
 - [ ] beside
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**parrot** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ Look ____! That giraffe is quietly eating green leaves.
 - [ ] beside
 - [ ] bright
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ahead** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ The ____ walked wobbly on the cold stone.
 - [ ] ahead
 - [ ] beside
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**penguin** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ The ____ played in the sea, smelling the water breeze.
 - [ ] ahead
 - [ ] beside
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dolphin** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ Protecting the environment of ____ is our duty.
 - [ ] ahead
 - [ ] beside
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Earth** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ Having ____ the camels, we decided to go back.
 - [ ] ahead
 - [ ] beside
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ridden** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ Birds in the forest sang as the air smelled like ____.
 - [ ] ahead
 - [ ] beside
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dirt** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ Under the blue sky, that hat looked very ____.
 - [ ] ahead
 - [ ] beside
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bright** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ Do you know ____ giraffes have long necks and zebras stripes?
 - [ ] ahead
 - [ ] beside
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**why** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ The ____ is a very smart marine animal.
 - [ ] ahead
 - [ ] beside
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dolphin** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ Penguins mainly live in cold areas on ____.
 - [ ] ahead
 - [ ] beside
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Earth** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ The air in the tropical ____ is always very humid.
 - [ ] ahead
 - [ ] beside
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**jungle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ That colorful ____ can copy human sounds loudly.
 - [ ] ahead
 - [ ] beside
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**parrot** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ A fierce ____ was crawling quietly in the tall grass.
 - [ ] ahead
 - [ ] beside
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tiger** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 16
 
@@ -394,7 +394,7 @@ The ____ reached up to eat leaves from the tall tree.
 - [ ] ahead
 - [ ] beside
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**giraffe** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ Look ____, a group of zebras is running by.
 - [ ] beside
 - [ ] bright
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ahead** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ This ____ is covered with green moss in nature.
 - [ ] ahead
 - [ ] beside
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ We should work together to protect the ____.
 - [ ] ahead
 - [ ] beside
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**environment** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ The guide stopped the group right ____ a clear stream.
 - [ ] ahead
 - [ ] bright
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**beside** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

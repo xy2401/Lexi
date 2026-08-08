@@ -244,7 +244,7 @@ Way to go! You passed your final ____ with top marks!
 - [ ] academic
 - [ ] accomplish
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**examination** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ Never have I seen ____ work as hard as you do.
 - [ ] academic
 - [ ] accomplish
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**someone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ She worked hard to earn her master's degree in ____.
 - [ ] academic
 - [ ] accomplish
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**engineering** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 4
 
@@ -274,7 +274,7 @@ Many students choose to pursue higher ____ after college.
 - [ ] academic
 - [ ] accomplish
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**education** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ He received an award for his outstanding ____ performance.
 - [ ] accomplish
 - [ ] accomplishment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**academic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ She is a ____ teacher who cares deeply about her students.
 - [ ] academic
 - [ ] accomplish
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **dedicated**。
 
 ### 7
 
@@ -304,7 +304,7 @@ Achieving your goals requires time, effort, and ____.
 - [ ] academic
 - [ ] accomplish
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dedication** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ He is an ambitious and ____ young entrepreneur.
 - [ ] academic
 - [ ] accomplish
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**driven** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ It takes strong ____ to resist distractions while studying.
 - [ ] academic
 - [ ] accomplish
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**willpower** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 10
 
@@ -334,7 +334,7 @@ You need to stay focused if you want to ____ the task.
 - [ ] academic
 - [ ] accomplish
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**complete** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ If you work hard at your goals, you will ____ succeed.
 - [ ] academic
 - [ ] accomplish
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**eventually** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ You set a difficult goal and managed to ____ it.
 - [ ] academic
 - [ ] accomplishment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**accomplish** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ Graduating with honors is a remarkable ____.
 - [ ] academic
 - [ ] accomplish
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**accomplishment** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ All the ____ nights were all worth it in the end.
 - [ ] academic
 - [ ] accomplish
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sleepless** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ Graduation should mark the beginning of a ____ learning journey.
 - [ ] academic
 - [ ] accomplish
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lifelong** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ She is an active ____ who constantly seeks new knowledge.
 - [ ] academic
 - [ ] accomplish
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**learner** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 17
 
@@ -404,7 +404,7 @@ Don't feel ____ if you don't succeed on your first attempt.
 - [ ] academic
 - [ ] accomplish
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **discouraged**。
 
 ### 18
 
@@ -414,7 +414,7 @@ Completing the thesis brought a huge sense of ____.
 - [ ] academic
 - [ ] accomplish
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**relief** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ Her determination to overcome obstacles is truly ____.
 - [ ] academic
 - [ ] accomplish
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**admirable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ ____ you all the best in your future career!
 - [ ] academic
 - [ ] accomplish
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Wishing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 </quiz-cloze>

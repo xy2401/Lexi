@@ -260,7 +260,7 @@ Rock and roll ____ changed pop culture in the mid-20th century.
 - [ ] alternative
 - [ ] and had
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**completely** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -270,7 +270,7 @@ This ____ folk song can date back to the 19th century.
 - [ ] alternative
 - [ ] and had
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**classic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -280,7 +280,7 @@ In those days, people ____ to vinyl records instead of digital music.
 - [ ] alternative
 - [ ] and had
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **listened**。
 
 ### 4
 
@@ -290,7 +290,7 @@ This musician is considered one of the most ____ composers.
 - [ ] alternative
 - [ ] and had
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**influential** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -300,7 +300,7 @@ Her music continues to ____ young songwriters around the world.
 - [ ] alternative
 - [ ] and had
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**inspire** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -310,7 +310,7 @@ The talented ____ wrote all the songs for the new movie.
 - [ ] alternative
 - [ ] and had
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**songwriter** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 7
 
@@ -320,7 +320,7 @@ The official ____ of the movie became popular worldwide.
 - [ ] alternative
 - [ ] and had
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**soundtrack** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -330,7 +330,7 @@ The band plans to ____ their second album next month.
 - [ ] alternative
 - [ ] and had
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**release** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -340,7 +340,7 @@ The song has a strong ____ that makes everyone want to dance.
 - [ ] alternative
 - [ ] and had
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rhythm** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -350,7 +350,7 @@ The ____ movement had a deep effect on music in the 1960s.
 - [ ] alternative
 - [ ] and had
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hippie** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -360,7 +360,7 @@ The ____ had a major impact on global pop culture.
 - [ ] alternative
 - [ ] and had
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Beatles**。
 
 ### 12
 
@@ -370,7 +370,7 @@ This beautiful song is known and loved ____.
 - [ ] alternative
 - [ ] and had
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**worldwide** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -380,7 +380,7 @@ He prefers listening to ____ rock over mainstream pop.
 - [ ] and had
 - [ ] date back
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**alternative** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -390,7 +390,7 @@ ____ music is hugely popular in modern youth clubs.
 - [ ] alternative
 - [ ] and had
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Electronic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -400,7 +400,7 @@ He must have ____ that famous song after his travels.
 - [ ] alternative
 - [ ] and had
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**written** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -410,7 +410,7 @@ In my eyes, this is the finest piece of music of the ____.
 - [ ] alternative
 - [ ] and had
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**century** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -420,7 +420,7 @@ Winning the award was the honor of his ____ in music.
 - [ ] alternative
 - [ ] and had
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lifetime** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -430,7 +430,7 @@ It all started with his first old guitar bought in a ____.
 - [ ] alternative
 - [ ] and had
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**basement** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -440,7 +440,7 @@ Jazz has had a huge ____ on modern music styles.
 - [ ] alternative
 - [ ] and had
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**influence** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -450,6 +450,6 @@ ____ a beautiful and memorable melody that is!
 - [ ] alternative
 - [ ] and had
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**What** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

@@ -244,7 +244,7 @@ In the ____ beauty of the valley, the peak has ruins among rocks.
 - [ ] allowed
 - [ ] among
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**natural** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ Mosquitoes and butterflies flew ____ the tree branch.
 - [ ] allowed
 - [ ] among
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**underneath** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ A small ____ crawled near a dusty stick and a pile of dirt.
 - [ ] allowed
 - [ ] among
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ant** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ Tourists are not ____ here and must go somewhere else.
 - [ ] among
 - [ ] ancient
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **allowed**。
 
 ### 5
 
@@ -284,7 +284,7 @@ The forest was ____, with nowhere to hide for danger.
 - [ ] allowed
 - [ ] among
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**silent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ That ____ with a strange shape dropped into the dirt.
 - [ ] allowed
 - [ ] among
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stick** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ A ____ breeze blew across the ancient natural land.
 - [ ] allowed
 - [ ] among
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gentle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ We enjoyed the great ____ beauty from the valley top.
 - [ ] allowed
 - [ ] among
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**natural** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ When hiking ____, keep walking in the right direction.
 - [ ] allowed
 - [ ] among
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**outdoor** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ Those ____ old stones were set into a neat pile.
 - [ ] allowed
 - [ ] among
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dusty** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ Deep in the ____, there flows a clear stream.
 - [ ] allowed
 - [ ] among
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**valley** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ After three hours of climbing, we reached the ____.
 - [ ] allowed
 - [ ] among
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**peak** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ This pretty ____ flew among the colorful flowers.
 - [ ] allowed
 - [ ] among
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**butterfly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ There are many annoying ____ outdoors in summer.
 - [ ] allowed
 - [ ] among
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **mosquitoes**。
 
 ### 15
 
@@ -384,7 +384,7 @@ The ____ castle ruins attracted many history fans.
 - [ ] allowed
 - [ ] among
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ancient** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ This big forest is a ____ reserve for wild animals.
 - [ ] allowed
 - [ ] among
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**natural** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ A ____ breeze brought refreshing air to us.
 - [ ] allowed
 - [ ] among
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gentle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ In the ____ night, everyone slept very soundly.
 - [ ] allowed
 - [ ] among
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**silent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ Walking is not ____ in this restricted area.
 - [ ] among
 - [ ] ancient
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **allowed**。
 
 ### 20
 
@@ -434,6 +434,6 @@ If it is too loud here, let's go ____ else.
 - [ ] allowed
 - [ ] among
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**somewhere** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

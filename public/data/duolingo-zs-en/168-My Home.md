@@ -240,7 +240,7 @@ They decided to ____ a puppy from the local shelter.
 - [ ] couple
 - [ ] didn't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**adopt** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -250,7 +250,7 @@ The young ____ moved into the apartment next door last week.
 - [ ] adopt
 - [ ] didn't
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**couple** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -260,7 +260,7 @@ My new roommate is very ____ and helpful around the house.
 - [ ] adopt
 - [ ] couple
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**easygoing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 4
 
@@ -270,7 +270,7 @@ We ____ up the largest room upstairs as a guest room.
 - [ ] adopt
 - [ ] couple
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**set** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -280,7 +280,7 @@ Use the electric ____ to boil water for tea.
 - [ ] adopt
 - [ ] couple
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**kettle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -290,7 +290,7 @@ The worker climbed the wooden ____ to clean the roof.
 - [ ] adopt
 - [ ] couple
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ladder** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 7
 
@@ -300,7 +300,7 @@ The kind ____ who lives next door often helps collect packages.
 - [ ] adopt
 - [ ] couple
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lady** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -310,7 +310,7 @@ Our ____ next door invited us over for lunch today.
 - [ ] adopt
 - [ ] couple
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**neighbor** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -320,7 +320,7 @@ ____, we have dinner together at seven in the evening.
 - [ ] adopt
 - [ ] couple
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Normally** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -330,7 +330,7 @@ We held a family dinner party to mark the special ____.
 - [ ] adopt
 - [ ] couple
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**occasion** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -340,7 +340,7 @@ Her warm ____ makes her popular among all the neighbors.
 - [ ] adopt
 - [ ] couple
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**personality** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -350,7 +350,7 @@ The residential ____ includes a big house and a garden.
 - [ ] adopt
 - [ ] couple
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**property** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -360,7 +360,7 @@ His great sense of humor always makes ____ in the room laugh.
 - [ ] adopt
 - [ ] couple
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**everyone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -370,7 +370,7 @@ Can you stop by my place on your way home ____?
 - [ ] adopt
 - [ ] couple
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tonight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -380,7 +380,7 @@ Never open the front door to a complete ____.
 - [ ] adopt
 - [ ] couple
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stranger** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 16
 
@@ -390,7 +390,7 @@ She ____ the patio floor clean with a broom yesterday.
 - [ ] adopt
 - [ ] couple
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**swept** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -400,7 +400,7 @@ The children are playing games ____ in their bedroom.
 - [ ] adopt
 - [ ] couple
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **upstairs**。
 
 ### 18
 
@@ -410,7 +410,7 @@ Park your motor ____ inside the designated driveway.
 - [ ] adopt
 - [ ] couple
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**vehicle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -420,7 +420,7 @@ My alarm clock wakes me up at ____ every morning.
 - [ ] adopt
 - [ ] couple
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**six-thirty** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -430,6 +430,6 @@ I was woken up early this ____ by birds singing outside.
 - [ ] adopt
 - [ ] couple
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**morning** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 </quiz-cloze>

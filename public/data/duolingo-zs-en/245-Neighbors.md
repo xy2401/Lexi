@@ -262,7 +262,7 @@ The loud party noise coming from next door was simply ____.
 - [ ] a piece of
 - [ ] bizarre
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **outrageous**。
 
 ### 2
 
@@ -272,7 +272,7 @@ The dog next door barks endlessly at the metal ____ all day.
 - [ ] a piece of
 - [ ] bizarre
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mailbox** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -282,7 +282,7 @@ ____, I think this behavior invades our personal privacy.
 - [ ] a piece of
 - [ ] bizarre
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Frankly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -292,7 +292,7 @@ He parked his sports car right in front of my ____ entrance.
 - [ ] a piece of
 - [ ] bizarre
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**driveway** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -302,7 +302,7 @@ After seeing smoke, neighbors called the local fire ____.
 - [ ] a piece of
 - [ ] bizarre
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**department** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -312,7 +312,7 @@ Everyone needs to cool down before ____ the noise complaint.
 - [ ] a piece of
 - [ ] bizarre
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**discussing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 7
 
@@ -322,7 +322,7 @@ Take a deep breath and avoid getting carried away during the ____.
 - [ ] a piece of
 - [ ] bizarre
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**argument** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -332,7 +332,7 @@ Whoever damaged the fence should take ____ for repairs.
 - [ ] a piece of
 - [ ] bizarre
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**responsibility** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -342,7 +342,7 @@ Untrained pets can ____ the peaceful atmosphere of the neighborhood.
 - [ ] a piece of
 - [ ] bizarre
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ruin** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -352,7 +352,7 @@ The unusual machine placed in the yard looked completely ____.
 - [ ] a piece of
 - [ ] constantly
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bizarre** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -362,7 +362,7 @@ The elderly resident was in tears while ____ her distress.
 - [ ] a piece of
 - [ ] bizarre
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**explaining** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 12
 
@@ -372,7 +372,7 @@ The issue is that neither party is willing to ____ on property lines.
 - [ ] a piece of
 - [ ] bizarre
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**compromise** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -382,7 +382,7 @@ We would ____ it if you could turn down the stereo music.
 - [ ] a piece of
 - [ ] bizarre
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**appreciate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -392,7 +392,7 @@ Pretty much all neighbors agree to ____ up a shared recycling bin.
 - [ ] a piece of
 - [ ] bizarre
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**set** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -402,7 +402,7 @@ His lawn is full of trash, not to ____ broken garden chairs.
 - [ ] a piece of
 - [ ] bizarre
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mention** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -412,7 +412,7 @@ That must be the ____ driver dropping off a package outside.
 - [ ] a piece of
 - [ ] bizarre
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**delivery** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -422,7 +422,7 @@ He complains ____ about the loud sound of the lawnmower.
 - [ ] a piece of
 - [ ] bizarre
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**constantly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -432,7 +432,7 @@ This ____ bickering destroys any hope for community harmony.
 - [ ] a piece of
 - [ ] bizarre
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**endless** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -442,7 +442,7 @@ I don't think ____ the police right away is the best option.
 - [ ] a piece of
 - [ ] bizarre
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**calling** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 20
 
@@ -452,6 +452,6 @@ Please ____ this reminder sign near the entrance of the garden.
 - [ ] a piece of
 - [ ] bizarre
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**set** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

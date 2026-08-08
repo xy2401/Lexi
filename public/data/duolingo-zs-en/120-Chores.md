@@ -244,7 +244,7 @@ Mom is responsible for cleaning up the ____ room to make it neat.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**messy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ We have to ____ the rug and mop the floor.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**vacuum** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ I accidentally spilled milk near the ____ and freezer.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dishwasher** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 4
 
@@ -274,7 +274,7 @@ Do this ____ by hand and take care of the coat.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**housework** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ If you leave ____ in the living room, you will be in trouble.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**garbage** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ Please ____ the door and dust off the wooden table.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lock** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ I ____ doing housework, especially washing the dirty pot.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dislike** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ The ____ broke, and we need to fix it to continue heating.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**heater** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 9
 
@@ -324,7 +324,7 @@ Put the food ____ today into the freezer to keep fresh.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**made** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ He cleaned up the room and threw away all the ____.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**garbage** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ Use a ____ to clean the kitchen floor thoroughly.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mop** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ The ____ is full of dust and needs to be vacuumed.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rug** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ Your bedroom looks very ____ if you don't clean it.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**messy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ Please pour the soup into the ____ and heat it slowly.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pot** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ She keeps everything ____ and well-organized in her room.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**neat** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ You have to ____ all the doors before you leave.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lock** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ He accidentally spilled sauce onto the new ____.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mop** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ Please take care of your personal ____.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **belongings**。
 
 ### 19
 
@@ -424,7 +424,7 @@ The ____ saves us a lot of time washing dishes.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dishwasher** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 20
 
@@ -434,6 +434,6 @@ Wiping off ____ is part of daily housework.
 - [ ] by hand
 - [ ] clean up
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dust** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

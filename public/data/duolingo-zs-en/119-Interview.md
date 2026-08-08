@@ -244,7 +244,7 @@ ____ graduation, he has applied for full-time jobs at airlines.
 - [ ] accept
 - [ ] airline
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Since** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ In the ____, the interviewer asked about his skills and education.
 - [ ] accept
 - [ ] airline
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**interview** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ After showing his résumé, he got ____ to accept the job offer.
 - [ ] accept
 - [ ] airline
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**contact** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ The manager ____ for engineering made the hiring decision.
 - [ ] accept
 - [ ] airline
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**responsible** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ He decided to ____ his part-time job to start his career.
 - [ ] accept
 - [ ] airline
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**quit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ This sounds like a dream position with great company ____.
 - [ ] accept
 - [ ] airline
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **benefits**。
 
 ### 7
 
@@ -304,7 +304,7 @@ The ____ has begun, and he has a feeling he did well.
 - [ ] accept
 - [ ] airline
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**interview** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ He fully ____ the terms and decided to sign the contract.
 - [ ] accept
 - [ ] airline
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**understood** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ It has been three months ____ he was away from his last job.
 - [ ] accept
 - [ ] airline
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**since** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ Having ____ all the work, he was feeling relaxed and happy.
 - [ ] accept
 - [ ] airline
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**done** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ If you decide to ____ the offer, please sign here.
 - [ ] airline
 - [ ] apply
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**accept** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ She built a successful ____ in airline management.
 - [ ] accept
 - [ ] airline
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**career** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 13
 
@@ -364,7 +364,7 @@ After careful thought, the manager made a final ____.
 - [ ] accept
 - [ ] airline
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**decision** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ That sounds like a very ____ job opportunity.
 - [ ] accept
 - [ ] airline
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**challenging** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 15
 
@@ -384,7 +384,7 @@ ____ list all your work skills on your résumé.
 - [ ] accept
 - [ ] airline
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Please** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ He decided to ____ his current position due to health.
 - [ ] accept
 - [ ] airline
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**quit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ The company offers health ____ to all full-time workers.
 - [ ] accept
 - [ ] airline
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **benefits**。
 
 ### 18
 
@@ -414,7 +414,7 @@ If you have questions, please ____ the HR office.
 - [ ] accept
 - [ ] airline
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**contact** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ Good ____ helps you succeed in a job interview.
 - [ ] accept
 - [ ] airline
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**education** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ He is ____ for managing the project team.
 - [ ] accept
 - [ ] airline
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**responsible** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

@@ -244,7 +244,7 @@ We ____ used to play in the park until sunset.
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **always**。
 
 ### 2
 
@@ -254,7 +254,7 @@ We ____ usually gather near the lake during summer breaks.
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**would** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ They were always ____ about who got to ride the bicycle.
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**arguing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 4
 
@@ -274,7 +274,7 @@ I used to have a pet ____ when I was a child.
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hamster** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 5
 
@@ -284,7 +284,7 @@ ____ love playing hide and seek in the backyard.
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Children** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ We ran around playing ____ during the school break.
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tag** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ The boys played ____ in the gymnasium every Friday.
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dodgeball** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ Girls ____ often jump rope together in the courtyard.
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**would** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ Kids like to blow ____ with soap and water.
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **bubbles**。
 
 ### 10
 
@@ -334,7 +334,7 @@ He showed off tricks with his favorite red ____.
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**yo-yo** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ The boy ____ bubble gum and blew a huge bubble.
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **chewed**。
 
 ### 12
 
@@ -354,7 +354,7 @@ My grandmother gave me a strawberry ____ after lunch.
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lollipop** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ The kids picked fresh wild ____ in the forest.
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **berries**。
 
 ### 14
 
@@ -374,7 +374,7 @@ Students ran outside to play as soon as ____ began.
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**recess** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ Listening to old songs makes me feel deeply ____.
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**nostalgic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ I have ____ memories of growing up in that small town.
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fond** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ The old friends sat by the fire to ____ about their youth.
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reminisce** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ We spent endless hours ____ a secret tree house.
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**building** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 19
 
@@ -424,7 +424,7 @@ Ah, I miss the good old days when life was so ____!
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**simple** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ Every so often, I visit my ____ school for old time's sake.
 - [ ] always used to
 - [ ] another thing
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**elementary** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

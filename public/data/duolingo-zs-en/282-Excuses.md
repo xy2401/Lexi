@@ -248,7 +248,7 @@ I am following up on our email ____ from last Tuesday.
 - [ ] background information
 - [ ] corporation
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**discussion** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -258,7 +258,7 @@ Given that the ____ is tomorrow, we must work quickly.
 - [ ] background information
 - [ ] corporation
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**deadline** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -268,7 +268,7 @@ ____ to the conference, please review the document carefully.
 - [ ] background information
 - [ ] corporation
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Prior** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -278,7 +278,7 @@ Had it been a ____ issue, we would have solved it sooner.
 - [ ] background information
 - [ ] corporation
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**technical** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -288,7 +288,7 @@ Stop making excuses and take ____ for your work.
 - [ ] background information
 - [ ] corporation
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**responsibility** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -298,7 +298,7 @@ We have an ____ to follow safety procedures.
 - [ ] background information
 - [ ] corporation
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**obligation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -308,7 +308,7 @@ Completing this report is our top ____ this week.
 - [ ] background information
 - [ ] corporation
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**priority** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -318,7 +318,7 @@ The manager sent out new ____ for remote working.
 - [ ] background information
 - [ ] corporation
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **guidelines**。
 
 ### 9
 
@@ -328,7 +328,7 @@ Failure to meet the ____ will result in a delay.
 - [ ] background information
 - [ ] corporation
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**target** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -338,7 +338,7 @@ The entire team deserves ____ for this achievement.
 - [ ] background information
 - [ ] corporation
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**credit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -348,7 +348,7 @@ She is a very ____ manager who wastes no time.
 - [ ] background information
 - [ ] corporation
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**efficient** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -358,7 +358,7 @@ We need a ____ solution to this problem, not just theory.
 - [ ] background information
 - [ ] corporation
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**practical** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -368,7 +368,7 @@ Our team is dealing with a serious ____ glitch.
 - [ ] background information
 - [ ] corporation
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**technical** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -378,7 +378,7 @@ He works for a multinational ____ based in Chicago.
 - [ ] background information
 - [ ] credit
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**corporation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -388,7 +388,7 @@ We will send out the ____ by the end of the day.
 - [ ] background information
 - [ ] corporation
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **invitations**。
 
 ### 16
 
@@ -398,7 +398,7 @@ According to my ____, productivity has increased.
 - [ ] background information
 - [ ] corporation
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**observation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -408,7 +408,7 @@ It is not the case that we ignored your ____.
 - [ ] background information
 - [ ] corporation
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**feedback** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -418,7 +418,7 @@ This client has great ____ for long-term growth.
 - [ ] background information
 - [ ] corporation
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**potential** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -428,7 +428,7 @@ We managed to reach our sales ____ for the quarter.
 - [ ] background information
 - [ ] corporation
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**target** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -438,6 +438,6 @@ Please provide some background information before the ____.
 - [ ] background information
 - [ ] corporation
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**presentation** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

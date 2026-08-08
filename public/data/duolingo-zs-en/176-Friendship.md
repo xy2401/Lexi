@@ -236,7 +236,7 @@ We ____ want to attend the high school reunion.
 - [ ] bother
 - [ ] do
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**both** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -246,7 +246,7 @@ Don't let minor issues ____ you so much.
 - [ ] both
 - [ ] do
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bother** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 3
 
@@ -256,7 +256,7 @@ Hey ____, let me know if you want to go camping.
 - [ ] both
 - [ ] bother
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **guys**。
 
 ### 4
 
@@ -266,7 +266,7 @@ She has on a ____ blue dress for the party.
 - [ ] both
 - [ ] bother
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**beautiful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -276,7 +276,7 @@ Let's stay home and cook ____ of eating out.
 - [ ] both
 - [ ] bother
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**instead** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -286,7 +286,7 @@ If we hurry up, we can make it to the ____.
 - [ ] both
 - [ ] bother
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**concert** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -296,7 +296,7 @@ You must not speak loudly inside the ____ room.
 - [ ] both
 - [ ] bother
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reading** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 8
 
@@ -306,7 +306,7 @@ The ____ is not quite ready for launch yet.
 - [ ] both
 - [ ] bother
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**project** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -316,7 +316,7 @@ Your ____ has been on my mind all day.
 - [ ] both
 - [ ] bother
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**advice** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -326,7 +326,7 @@ We should grab lunch ____ one of these days.
 - [ ] both
 - [ ] bother
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**together** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 11
 
@@ -336,7 +336,7 @@ She wore a ____ white T-shirt to the casual meeting.
 - [ ] both
 - [ ] bother
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**plain** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -346,7 +346,7 @@ Please give my best ____ to your family.
 - [ ] both
 - [ ] bother
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **regards**。
 
 ### 13
 
@@ -356,7 +356,7 @@ Everyone was ____ by the news of the company closing.
 - [ ] both
 - [ ] bother
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **shocked**。
 
 ### 14
 
@@ -366,7 +366,7 @@ Let's find ____ quiet to sit and talk.
 - [ ] both
 - [ ] bother
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**someplace** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -376,7 +376,7 @@ I hope to see you again ____ soon in town.
 - [ ] both
 - [ ] bother
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sometime** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -386,7 +386,7 @@ She is ____ to help us organize the event.
 - [ ] both
 - [ ] bother
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**willing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 17
 
@@ -396,7 +396,7 @@ Why ____ we go for a walk in the park?
 - [ ] both
 - [ ] bother
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**don't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -406,7 +406,7 @@ You've got to try this ____ chocolate cake!
 - [ ] both
 - [ ] bother
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **delicious**。
 
 ### 19
 
@@ -416,7 +416,7 @@ Remember to ____ a warm jacket when you go out.
 - [ ] both
 - [ ] bother
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wear** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -426,6 +426,6 @@ I am so ____ for keeping you waiting so long.
 - [ ] both
 - [ ] bother
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sorry** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

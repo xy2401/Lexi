@@ -246,7 +246,7 @@ Sorry to keep you ____, I got stuck in heavy traffic.
 - [ ] beneath
 - [ ] block
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**waiting** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 2
 
@@ -256,7 +256,7 @@ I am ____ late because my alarm clock failed to ring.
 - [ ] beneath
 - [ ] block
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**running** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 3
 
@@ -266,7 +266,7 @@ Don't worry, I am on my way and will arrive ____.
 - [ ] beneath
 - [ ] block
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shortly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -276,7 +276,7 @@ ____ story short, I missed the bus and had to walk.
 - [ ] beneath
 - [ ] block
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Long** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -286,7 +286,7 @@ I ____ to get a hold of you, but your line was busy.
 - [ ] beneath
 - [ ] block
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **tried**。
 
 ### 6
 
@@ -296,7 +296,7 @@ ____ that could go wrong did go wrong this morning.
 - [ ] beneath
 - [ ] block
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Everything** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 7
 
@@ -306,7 +306,7 @@ I was reading a ____ book and lost track of time.
 - [ ] beneath
 - [ ] block
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fascinating** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 8
 
@@ -316,7 +316,7 @@ The driver had to pull over when the engine ____ smoking.
 - [ ] beneath
 - [ ] block
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **started**。
 
 ### 9
 
@@ -326,7 +326,7 @@ My car hit a deep ____ and damaged the front tire.
 - [ ] beneath
 - [ ] block
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pothole** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -336,7 +336,7 @@ We had to stop and wait for a ____ train at the train tracks.
 - [ ] beneath
 - [ ] block
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**freight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -346,7 +346,7 @@ An accident caused a massive traffic ____ on the highway.
 - [ ] beneath
 - [ ] dashboard
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**block** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -356,7 +356,7 @@ A warning icon illuminated on the car's ____.
 - [ ] beneath
 - [ ] block
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dashboard** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -366,7 +366,7 @@ The electric ____ made a strange whining noise.
 - [ ] beneath
 - [ ] block
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**motor** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -376,7 +376,7 @@ Press the brake ____ firmly to bring the car to a stop.
 - [ ] beneath
 - [ ] block
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pedal** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -386,7 +386,7 @@ We found a fluid ____ beneath the engine compartment.
 - [ ] beneath
 - [ ] block
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**leak** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -396,7 +396,7 @@ It is very ____ when technology fails during a deadline.
 - [ ] beneath
 - [ ] block
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**frustrating** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 17
 
@@ -406,7 +406,7 @@ The vehicle suffered a ____ breakdown on the highway.
 - [ ] beneath
 - [ ] block
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sudden** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -416,7 +416,7 @@ He had three bad luck ____ in a row today.
 - [ ] beneath
 - [ ] block
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **incidents**。
 
 ### 19
 
@@ -426,7 +426,7 @@ The broken bridge was being fixed by ____ crews.
 - [ ] beneath
 - [ ] block
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**maintenance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -436,6 +436,6 @@ Water pooled ____ the leaky sink in the kitchen.
 - [ ] block
 - [ ] dashboard
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**beneath** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

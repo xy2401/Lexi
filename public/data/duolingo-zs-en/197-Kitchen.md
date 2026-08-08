@@ -234,7 +234,7 @@ Add a bit of black ____ to the hot soup.
 - [ ] a bit of
 - [ ] basket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pepper** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 2
 
@@ -244,7 +244,7 @@ Put the fresh green apples inside the fruit ____.
 - [ ] a bit of
 - [ ] boil
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**basket** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -254,7 +254,7 @@ Wait until the water begins to ____ completely.
 - [ ] a bit of
 - [ ] basket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**boil** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -264,7 +264,7 @@ Don't ____ the garlic bread inside the hot oven.
 - [ ] a bit of
 - [ ] basket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**burn** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -274,7 +274,7 @@ Slice a fresh ____ for the green salad.
 - [ ] a bit of
 - [ ] basket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cucumber** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 6
 
@@ -284,7 +284,7 @@ She bought a ____ fresh eggs from the market.
 - [ ] a bit of
 - [ ] basket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dozen** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -294,7 +294,7 @@ ____ the delicious salad dressing over the vegetables.
 - [ ] a bit of
 - [ ] basket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Pour** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -304,7 +304,7 @@ Heat the pan with vegetable oil to ____ fish.
 - [ ] a bit of
 - [ ] basket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fry** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -314,7 +314,7 @@ They love to ____ chicken on sunny afternoons.
 - [ ] a bit of
 - [ ] basket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**grill** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -324,7 +324,7 @@ He cooked delicious homemade ____ soup for lunch.
 - [ ] a bit of
 - [ ] basket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**noodle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -334,7 +334,7 @@ We prefer buying fresh ____ vegetables daily.
 - [ ] a bit of
 - [ ] basket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**organic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -344,7 +344,7 @@ Slowly ____ the hot milk into your coffee cup.
 - [ ] a bit of
 - [ ] basket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pour** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -354,7 +354,7 @@ Never eat ____ meat without cooking it properly.
 - [ ] a bit of
 - [ ] basket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**raw** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -364,7 +364,7 @@ Remember to ____ the salad dressing bottle well.
 - [ ] a bit of
 - [ ] basket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shake** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -374,7 +374,7 @@ The fresh soup has a delicious herbal ____.
 - [ ] a bit of
 - [ ] basket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**smell** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -384,7 +384,7 @@ Order a glass of cold ____ water with ice.
 - [ ] a bit of
 - [ ] basket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sparkling** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 17
 
@@ -394,7 +394,7 @@ Add exotic ____ to give the sauce a kick.
 - [ ] a bit of
 - [ ] basket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**spice** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -404,7 +404,7 @@ Clean off the ____ sauce from the counter table.
 - [ ] a bit of
 - [ ] basket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sticky** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -414,7 +414,7 @@ Use a spoon to ____ the boiling soup gently.
 - [ ] a bit of
 - [ ] basket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stir** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -424,6 +424,6 @@ ____! This homemade apple pie tastes fantastic!
 - [ ] a bit of
 - [ ] basket
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Yum** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

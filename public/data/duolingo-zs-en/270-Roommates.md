@@ -244,7 +244,7 @@ Could we agree on how to ____ the chores equally?
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**divide** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ If you could please not leave your ____ everywhere, it would be great.
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **belongings**。
 
 ### 3
 
@@ -264,7 +264,7 @@ Let's not bring up old issues—let's finally ____ this matter up.
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**clear** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ I hate to bring this up, but every once in a while you don't ____ to clean the f
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bother** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 5
 
@@ -284,7 +284,7 @@ Considering ____ in common areas, please also stop making noise late at night.
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**behavior** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ The bathroom sink is leaking; remind me not to forget calling the ____ tomorrow.
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**plumber** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 7
 
@@ -304,7 +304,7 @@ Please promise not to ____ your roommate's things without asking first.
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**take** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ We ought to ____ the monthly rent and utility bills equally among us.
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**divide** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ If you could ____ your personal belongings off the table, it would be wonderful.
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**clear** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ Let's not complain about who should ____ out the trash chore anymore.
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**take** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ Let's finally agree on a daily ____ schedule that everyone follows.
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cleaning** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 12
 
@@ -354,7 +354,7 @@ Every once in a while, he ____ even bother to put dirty dishes in the washer.
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**doesn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ Please also stop ____ the dirty bird cage near the window.
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**leaving** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 14
 
@@ -374,7 +374,7 @@ Please not leave wet ____ piled up on the living room sofa.
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **clothes**。
 
 ### 15
 
@@ -384,7 +384,7 @@ The water in the fish tank needs to be changed ____ to stay clean.
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**regularly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ ____ communication and respectful behavior are key to living together peacefully
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Clear** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ The ____ will come this afternoon to fix the leak in the kitchen pipe.
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**plumber** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 18
 
@@ -414,7 +414,7 @@ I'd like to bring up the topic of how to ____ weekend chores fairly.
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**divide** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ Remind me not to forget ____ the bill payment from my roommate tomorrow.
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**collecting** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 20
 
@@ -434,6 +434,6 @@ Promise not to ____ someone else's personal belongings without asking first.
 - [ ] agree on
 - [ ] ask
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**take** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

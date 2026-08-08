@@ -236,7 +236,7 @@ ____ we arrived at the station, the train had already left.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**when** 为时间连词，引出时间状语从句，表示“当...的时候”。
 
 ### 2
 
@@ -246,7 +246,7 @@ ____, no one was injured during the car accident.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Amazingly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -256,7 +256,7 @@ The manager spoke ____ about the project before starting.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**briefly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -266,7 +266,7 @@ The tourist picked up a colorful travel ____ at the counter.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**brochure** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -276,7 +276,7 @@ We rented a quiet wooden ____ in the mountains for vacation.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cabin** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -286,7 +286,7 @@ Feel free to leave a helpful ____ on our forum post.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**comment** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -296,7 +296,7 @@ Passengers went to ____ about the long flight delay.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**complain** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -306,7 +306,7 @@ The customer filed a formal ____ with customer service.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**complaint** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -316,7 +316,7 @@ She won first prize in the national photo ____ yesterday.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**contest** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -326,7 +326,7 @@ All passengers must pass through ____ after landing.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **customs**。
 
 ### 11
 
@@ -336,7 +336,7 @@ We had a long ____ about the upcoming event schedule.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**discussion** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -346,7 +346,7 @@ You can see the mountain top clearly from a ____.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**distance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -356,7 +356,7 @@ I do not ____ to change my travel plans this week.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**intend** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -366,7 +366,7 @@ This electronics brand is well known ____.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**internationally** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -376,7 +376,7 @@ I have visited that museum once ____ with my family.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**before** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -386,7 +386,7 @@ After the severe storm, everyone arrived home ____.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**safely** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -396,7 +396,7 @@ We plan to ____ at a coastal hotel for three nights.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stay** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -406,7 +406,7 @@ Thank you for all your ____ during the project.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**support** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -416,7 +416,7 @@ He has not finished writing his final report ____.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**yet** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -426,6 +426,6 @@ I have ____ received a message from the travel manager.
 - [ ] already
 - [ ] always
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**just** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

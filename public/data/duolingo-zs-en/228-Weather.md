@@ -246,7 +246,7 @@ The sky ____ clear up after the rain shower passes.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -256,7 +256,7 @@ ____ freezing outside, so put on a heavy winter coat.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **It's**。
 
 ### 3
 
@@ -266,7 +266,7 @@ Morning ____ covered the green grass in the yard.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**frost** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -276,7 +276,7 @@ The high ____ in summer makes it feel hotter.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**humidity** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -286,7 +286,7 @@ Heavy rain caused a sudden ____ on main street.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**flood** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -296,7 +296,7 @@ The warning system issued an alert for a ____.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tornado** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -306,7 +306,7 @@ A beautiful ____ appeared in the sky after the storm.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rainbow** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -316,7 +316,7 @@ Bright ____ shone through the living room window.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sunlight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -326,7 +326,7 @@ Sit under the ____ oak tree to stay cool.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shady** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -336,7 +336,7 @@ The school ____ a snow day due to the blizzard.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **announced**。
 
 ### 11
 
@@ -346,7 +346,7 @@ Kids love going ____ down the snowy hill.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sledding** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 12
 
@@ -356,7 +356,7 @@ Allergy symptoms are a common ____ issue in spring.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**seasonal** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -366,7 +366,7 @@ Air pollution is a major environmental ____ here.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**issue** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -376,7 +376,7 @@ There is a fifty percent chance of rain ____.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**afternoon** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -386,7 +386,7 @@ It is sure to rain if those dark ____ roll in.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **clouds**。
 
 ### 16
 
@@ -396,7 +396,7 @@ The leaves ____ turn yellow in late autumn.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -406,7 +406,7 @@ It begins to get cold as evening ____.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **approaches**。
 
 ### 18
 
@@ -416,7 +416,7 @@ Today is warm compared to yesterday's ____ weather.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**freezing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 19
 
@@ -426,7 +426,7 @@ Be careful because ____ windy out there today.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **it's**。
 
 ### 20
 
@@ -436,6 +436,6 @@ I find it ____ to drive in heavy snow.
 - [ ] clear up
 - [ ] compared to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**difficult** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

@@ -246,7 +246,7 @@ Don't you dare touch that ____ pan!
 - [ ] careful
 - [ ] consequence
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**burning** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 2
 
@@ -256,7 +256,7 @@ You cannot ____ away with breaking the school rule.
 - [ ] careful
 - [ ] consequence
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**get** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -266,7 +266,7 @@ If you cheat, you will ____ in trouble with the teacher.
 - [ ] careful
 - [ ] consequence
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**get** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -276,7 +276,7 @@ The teenager was ____ for coming home late.
 - [ ] careful
 - [ ] consequence
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **grounded**。
 
 ### 5
 
@@ -286,7 +286,7 @@ Stand back from the dangerous ____ of the cliff!
 - [ ] careful
 - [ ] consequence
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**edge** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -296,7 +296,7 @@ Turn ____ slowly and put your hands where I can see them.
 - [ ] careful
 - [ ] consequence
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**around** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -306,7 +306,7 @@ Don't stand too close to the ____ knife edge.
 - [ ] careful
 - [ ] consequence
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sharp** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -316,7 +316,7 @@ Be ____ with that broken glass window.
 - [ ] consequence
 - [ ] don't you dare
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**careful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -326,7 +326,7 @@ Every risky choice carries a serious ____.
 - [ ] careful
 - [ ] don't you dare
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**consequence** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -336,7 +336,7 @@ Let this failure be a valuable ____ to you.
 - [ ] careful
 - [ ] consequence
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lesson** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -346,7 +346,7 @@ He was too ____ to listen to any advice.
 - [ ] careful
 - [ ] consequence
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stubborn** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -356,7 +356,7 @@ I lost my wallet, and to make ____ worse, I missed the bus.
 - [ ] careful
 - [ ] consequence
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **matters**。
 
 ### 13
 
@@ -366,7 +366,7 @@ A wild deer jumped onto the road out of ____.
 - [ ] careful
 - [ ] consequence
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**nowhere** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -376,7 +376,7 @@ From now on, you must wear a ____ helmet when riding.
 - [ ] careful
 - [ ] consequence
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**safety** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -386,7 +386,7 @@ No offense, but your action was quite ____.
 - [ ] careful
 - [ ] consequence
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reckless** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -396,7 +396,7 @@ Mind your own words; it is none of your ____.
 - [ ] careful
 - [ ] consequence
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**business** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -406,7 +406,7 @@ ____ me, you do not want to take that unnecessary risk.
 - [ ] careful
 - [ ] consequence
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Trust** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -416,7 +416,7 @@ Don't ____ yourself by making false claims.
 - [ ] careful
 - [ ] consequence
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**embarrass** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -426,7 +426,7 @@ Playing with ____ near dry leaves is extremely dangerous.
 - [ ] careful
 - [ ] consequence
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fire** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -436,6 +436,6 @@ Be ____ not to get yourself injured during the match.
 - [ ] consequence
 - [ ] don't you dare
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**careful** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

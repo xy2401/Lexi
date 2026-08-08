@@ -264,7 +264,7 @@ As a matter of fact, the ____ has a solid alibi for that night.
 - [ ] accusation
 - [ ] alibi
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**defendant** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -274,7 +274,7 @@ The ____ presented key evidence to the judge to support the defense.
 - [ ] accusation
 - [ ] alibi
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**witness** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -284,7 +284,7 @@ On the contrary, the prosecution's ____ lacks any factual basis.
 - [ ] alibi
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**accusation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -294,7 +294,7 @@ The lawyer objected and argued that his ____ was innocent.
 - [ ] accusation
 - [ ] alibi
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**client** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -304,7 +304,7 @@ Let's remember that the ____ was the one harmed when someone broke the law.
 - [ ] accusation
 - [ ] alibi
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**victim** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -314,7 +314,7 @@ The criminal who ____ serious offenses will end up behind bars.
 - [ ] accusation
 - [ ] alibi
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **committed**。
 
 ### 7
 
@@ -324,7 +324,7 @@ The ____ sentenced the defendant to complete 100 hours of community service.
 - [ ] accusation
 - [ ] alibi
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**judge** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -334,7 +334,7 @@ After trial, the ____ was given two years of probation instead of prison.
 - [ ] accusation
 - [ ] alibi
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**defendant** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -344,7 +344,7 @@ I was ____ for jury duty last week and had to attend court.
 - [ ] accusation
 - [ ] alibi
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **called**。
 
 ### 10
 
@@ -354,7 +354,7 @@ The young woman had her car stolen that night and ____ arrive on time.
 - [ ] accusation
 - [ ] alibi
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**couldn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -364,7 +364,7 @@ If he was a key ____, he should have testified truthfully in court.
 - [ ] accusation
 - [ ] alibi
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**witness** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -374,7 +374,7 @@ If she had a complete ____, the accusation would be dropped immediately.
 - [ ] accusation
 - [ ] argue
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**alibi** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -384,7 +384,7 @@ The lawyer argued to the ____ that someone else broke the law.
 - [ ] accusation
 - [ ] alibi
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**judge** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -394,7 +394,7 @@ The defense lawyer stood up and said, "I ____, Your Honor!"
 - [ ] accusation
 - [ ] alibi
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**object** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -404,7 +404,7 @@ The jury came back to ____ the defendant not guilty of the crime.
 - [ ] accusation
 - [ ] alibi
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**find** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -414,7 +414,7 @@ As a matter of fact, the ____ didn't know the person who made the accusation.
 - [ ] accusation
 - [ ] alibi
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**victim** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -424,7 +424,7 @@ Anyone who breaks the law must face a fair ____ from the court.
 - [ ] accusation
 - [ ] alibi
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sentence** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -434,7 +434,7 @@ The attorney is working hard to represent and protect his ____.
 - [ ] accusation
 - [ ] alibi
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**client** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -444,7 +444,7 @@ Let's remember that strong ____ is the best way to prove innocence.
 - [ ] accusation
 - [ ] alibi
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**evidence** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -454,6 +454,6 @@ After ____ the law again, the repeat offender was put behind bars.
 - [ ] accusation
 - [ ] alibi
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**breaking** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 </quiz-cloze>

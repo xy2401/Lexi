@@ -262,7 +262,7 @@ Legend has it that the abandoned house on the hill is ____.
 - [ ] abandon
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **haunted**。
 
 ### 2
 
@@ -272,7 +272,7 @@ We stood at the entrance, wondering if a ghost or ____ lived inside.
 - [ ] abandon
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**spirit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -282,7 +282,7 @@ The explorer found a ____ in the corner of the cellar.
 - [ ] abandon
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**skeleton** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -292,7 +292,7 @@ Heavy ____ echoed clearly down the empty corridor.
 - [ ] abandon
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **footsteps**。
 
 ### 5
 
@@ -302,7 +302,7 @@ I turned on my ____ to illuminate the narrow, winding hallway.
 - [ ] abandon
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**flashlight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -312,7 +312,7 @@ A sudden chill gave everyone a ____ sensation on their back.
 - [ ] abandon
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**peculiar** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -322,7 +322,7 @@ The old wooden cabin has begun to fall apart over the ____.
 - [ ] abandon
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **decades**。
 
 ### 8
 
@@ -332,7 +332,7 @@ Everyone began to ____ when the front door unexpectedly locked itself.
 - [ ] abandon
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**panic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -342,7 +342,7 @@ We ____ to crawl through a very tight stone passage in the dark.
 - [ ] abandon
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**had** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -352,7 +352,7 @@ Terrified ____ the shadow, they began to make for the exit quickly.
 - [ ] abandon
 - [ ] chimney
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**by** 为介词，表示交通方式、地点方式或“通过”。
 
 ### 11
 
@@ -362,7 +362,7 @@ We ____ to push the rusty door open, but it was no use.
 - [ ] abandon
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **tried**。
 
 ### 12
 
@@ -372,7 +372,7 @@ You ____ know better than to enter a dark old house alone at night.
 - [ ] abandon
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**should** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -382,7 +382,7 @@ We ought to think through the risk before ____ the attic.
 - [ ] abandon
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**investigating** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 14
 
@@ -392,7 +392,7 @@ Cold wind whistled loudly as it blew down the old ____.
 - [ ] abandon
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**chimney** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -402,7 +402,7 @@ The trapped team was ____ to find a way to get away safely.
 - [ ] abandon
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**desperate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -412,7 +412,7 @@ We ____ been searching the house for an hour before lights went off.
 - [ ] abandon
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**had** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -422,7 +422,7 @@ The owner decided to ____ the property many years ago.
 - [ ] by
 - [ ] chimney
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**abandon** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -432,7 +432,7 @@ Wind blowing through branches made a ____ whistling noise.
 - [ ] abandon
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**peculiar** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -442,7 +442,7 @@ The wooden stairs were very ____ and creaked with every step.
 - [ ] abandon
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -452,6 +452,6 @@ After climbing the ____ staircase, we reached the top floor.
 - [ ] abandon
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**winding** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 </quiz-cloze>

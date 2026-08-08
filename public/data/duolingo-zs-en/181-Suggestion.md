@@ -236,7 +236,7 @@ Taking a guided bus tour is a great ____ for tourists.
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**option** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -246,7 +246,7 @@ I strongly ____ visiting the famous waterfall.
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**recommend** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -256,7 +256,7 @@ They stayed at a luxury beach ____ during vacation.
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**resort** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -266,7 +266,7 @@ She bought a handmade ____ at the local gift shop.
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**souvenir** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -276,7 +276,7 @@ The chef prepared a healthy ____ dish for us.
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**vegetarian** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -286,7 +286,7 @@ A beautiful ____ cascades down the steep mountain cliff.
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**waterfall** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -296,7 +296,7 @@ He tried to ____ his manager to accept the proposal.
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**convince** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -306,7 +306,7 @@ I doubt that the rain will stop before this ____.
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**afternoon** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -316,7 +316,7 @@ The waiter served roasted ____ with fresh vegetables.
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lamb** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -326,7 +326,7 @@ She made an interesting ____ during the lively debate.
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**point** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -336,7 +336,7 @@ He answered all the interviewer's questions ____.
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**politely** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -346,7 +346,7 @@ The team made steady ____ toward their yearly goals.
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**progress** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -356,7 +356,7 @@ It is ____ to speak loudly inside the quiet library.
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rude** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -366,7 +366,7 @@ The guide said that the view from the top is ____.
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**amazing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 15
 
@@ -376,7 +376,7 @@ The dish is delicious, ____ we ordered a second portion.
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**so** 为结果连词，表示“因此 / 所以”。
 
 ### 16
 
@@ -386,7 +386,7 @@ You can ____ this helpful advice to improve your speech.
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**take** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -396,7 +396,7 @@ We ____ see the magnificent waterfall from the bridge.
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**could** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -406,7 +406,7 @@ Would you like to try some of this ____ dish?
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**traditional** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -416,7 +416,7 @@ ____ love to visit the national park this summer.
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**We'd** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -426,6 +426,6 @@ I knew ____ enjoy the scenic mountain trail.
 - [ ] but
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**you'd** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

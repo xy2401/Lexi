@@ -238,7 +238,7 @@ I really ____ all the support you gave me during tough times.
 - [ ] attitude
 - [ ] awesome
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**appreciate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -248,7 +248,7 @@ Maintaining a ____ attitude makes life much happier every day.
 - [ ] appreciate
 - [ ] attitude
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**positive** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -258,7 +258,7 @@ Thank you for the wonderful gift, it is truly ____!
 - [ ] appreciate
 - [ ] attitude
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**awesome** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -268,7 +268,7 @@ We were ____ to hear that you passed your exam.
 - [ ] appreciate
 - [ ] attitude
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **delighted**。
 
 ### 5
 
@@ -278,7 +278,7 @@ Volunteers spend time caring for the ____ neighbors nearby.
 - [ ] appreciate
 - [ ] attitude
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**elderly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -288,7 +288,7 @@ We did not ____ to receive your reply so quickly.
 - [ ] appreciate
 - [ ] attitude
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**expect** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -298,7 +298,7 @@ Their long-lasting ____ means a lot to both of them.
 - [ ] appreciate
 - [ ] attitude
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**friendship** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -308,7 +308,7 @@ Thank you for your ____ donation to the neighborhood library.
 - [ ] appreciate
 - [ ] attitude
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **generous**。
 
 ### 9
 
@@ -318,7 +318,7 @@ I am deeply ____ for everything you have done for us.
 - [ ] appreciate
 - [ ] attitude
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**grateful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -328,7 +328,7 @@ Don't worry, I can ____ this difficult situation on my own.
 - [ ] appreciate
 - [ ] attitude
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**handle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -338,7 +338,7 @@ It was nice of you to stop by and ____ us today.
 - [ ] appreciate
 - [ ] attitude
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**visit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -348,7 +348,7 @@ Try to stay ____ even when facing big challenges at work.
 - [ ] appreciate
 - [ ] attitude
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**positive** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -358,7 +358,7 @@ I ____ I will complete the work before tomorrow afternoon.
 - [ ] appreciate
 - [ ] attitude
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**promise** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -368,7 +368,7 @@ Parents are very ____ of their child's remarkable achievement.
 - [ ] appreciate
 - [ ] attitude
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**proud** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -378,7 +378,7 @@ The playful ____ ran across the yard to catch the ball.
 - [ ] appreciate
 - [ ] attitude
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**puppy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -388,7 +388,7 @@ ____, we managed to find our way out of the dark woods.
 - [ ] appreciate
 - [ ] attitude
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Somehow** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -398,7 +398,7 @@ It was so ____ of you to bring me coffee this morning.
 - [ ] appreciate
 - [ ] attitude
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sweet** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -408,7 +408,7 @@ Her visit was an ____ surprise that made my day.
 - [ ] appreciate
 - [ ] attitude
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **unexpected**。
 
 ### 19
 
@@ -418,7 +418,7 @@ Please ____ the video instruction carefully before starting.
 - [ ] appreciate
 - [ ] attitude
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**watch** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -428,6 +428,6 @@ These warm details ____ the reunion so special and warm.
 - [ ] appreciate
 - [ ] attitude
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**make** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

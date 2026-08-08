@@ -244,7 +244,7 @@ The ____ person brought food in a container to our location.
 - [ ] allergic
 - [ ] beverage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**delivery** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ If you are ____ to pineapple or coconut, write it down.
 - [ ] beverage
 - [ ] coconut
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**allergic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ Feeling ____ and thirsty, I want to order a cold beverage.
 - [ ] allergic
 - [ ] beverage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hungry** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ Please select your ____ payment method before checkout.
 - [ ] allergic
 - [ ] beverage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **preferred**。
 
 ### 5
 
@@ -284,7 +284,7 @@ The ____ of tuna at this restaurant tastes fresh and sour.
 - [ ] allergic
 - [ ] beverage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**jar** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ Please include a set of plastic ____ with the delivery.
 - [ ] allergic
 - [ ] beverage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **utensils**。
 
 ### 7
 
@@ -304,7 +304,7 @@ This ____ ice cream container smells sweet and nice.
 - [ ] allergic
 - [ ] beverage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**strawberry** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ This food ____ is fresh, giving a unique flavor.
 - [ ] allergic
 - [ ] beverage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ingredient** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ The ____ cost of delivery includes a little service fee.
 - [ ] allergic
 - [ ] beverage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**total** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ ____! There are only a few pieces of tuna left in the jar.
 - [ ] allergic
 - [ ] beverage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Look** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ I am ____ to seafood, so I cannot eat tuna.
 - [ ] beverage
 - [ ] coconut
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**allergic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ The shop offers ____ in many different flavors.
 - [ ] allergic
 - [ ] beverage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **beverages**。
 
 ### 13
 
@@ -364,7 +364,7 @@ He felt very ____ after running in the hot sun.
 - [ ] allergic
 - [ ] beverage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**thirsty** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ Please mark your exact ____ location on the map.
 - [ ] allergic
 - [ ] beverage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**delivery** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ Which ____ method do you prefer, cash or card?
 - [ ] allergic
 - [ ] beverage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**payment** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ Please help me open this ____ of strawberry jam.
 - [ ] allergic
 - [ ] beverage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**jar** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ Don't forget to put ____ inside the food box.
 - [ ] allergic
 - [ ] beverage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **utensils**。
 
 ### 18
 
@@ -414,7 +414,7 @@ The ____ guy brought our hot meal very quickly.
 - [ ] allergic
 - [ ] beverage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**delivery** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ This fresh lemonade tastes a bit ____ and sweet.
 - [ ] allergic
 - [ ] beverage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sour** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ The ____ amount of the food order is thirty dollars.
 - [ ] allergic
 - [ ] beverage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**total** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

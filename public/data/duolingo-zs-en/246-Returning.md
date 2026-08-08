@@ -264,7 +264,7 @@ Given high rent, he ____ to move back home to save money.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **decided**。
 
 ### 2
 
@@ -274,7 +274,7 @@ After paying off his student loan ____, he felt a huge relief.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**debt** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -284,7 +284,7 @@ His strict ____ taught him the value of honesty and hard work.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**upbringing** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 4
 
@@ -294,7 +294,7 @@ ____ alone without a job made him feel miserable every day.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Living** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 5
 
@@ -304,7 +304,7 @@ The flight delays made passengers increasingly ____.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **irritated**。
 
 ### 6
 
@@ -314,7 +314,7 @@ Planning your schedule daily helps you stay ____.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**productive** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -324,7 +324,7 @@ She was ____ to build a successful new career from scratch.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **determined**。
 
 ### 8
 
@@ -334,7 +334,7 @@ It takes immense ____ to quit a stable job and restart.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**courage** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -344,7 +344,7 @@ Navigating career changes requires a great deal of ____.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**patience** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -354,7 +354,7 @@ We shouldn't take family support for granted when facing ____.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **challenges**。
 
 ### 11
 
@@ -364,7 +364,7 @@ Deep down, he knew that ____ to his hometown was right.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**returning** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 12
 
@@ -374,7 +374,7 @@ With ____, I am confident things will work out eventually.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**persistence** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -384,7 +384,7 @@ As a result of economic changes, many ____ shut down.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **businesses**。
 
 ### 14
 
@@ -394,7 +394,7 @@ Before long, he ____ into his routine and made new friends.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **settled**。
 
 ### 15
 
@@ -404,7 +404,7 @@ He worked as a ____ to earn a living during college.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bartender** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 16
 
@@ -414,7 +414,7 @@ Having personal ____ gives you peace of mind during transitions.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **savings**。
 
 ### 17
 
@@ -424,7 +424,7 @@ You cannot always rely on your family to fix your ____.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **problems**。
 
 ### 18
 
@@ -434,7 +434,7 @@ Taking time to ____ on past experiences aids growth.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reflect** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -444,7 +444,7 @@ Feeling stuck in a career ____ requires fresh perspectives.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**trap** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -454,6 +454,6 @@ ____, his hard work was recognized with a promotion.
 - [ ] appear
 - [ ] as a result of
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Consequently** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

@@ -244,7 +244,7 @@ In his morning routine, he shaved, combed, and used ____.
 - [ ] asleep
 - [ ] awake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**toothpaste** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ After getting dressed, he smiled and gave his wife a ____.
 - [ ] asleep
 - [ ] awake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**kiss** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ After a ____ day, watching a TV series helps him relax.
 - [ ] asleep
 - [ ] awake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **stressed**。
 
 ### 4
 
@@ -274,7 +274,7 @@ He heard the alarm ____ and fell asleep again in bed.
 - [ ] asleep
 - [ ] awake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ring** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ The ____ boy felt bored and uncomfortable on the hard bed.
 - [ ] asleep
 - [ ] awake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **scared**。
 
 ### 6
 
@@ -294,7 +294,7 @@ Lots of ____ helps people stay fit and sleep well.
 - [ ] asleep
 - [ ] awake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**exercise** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ A warm ____ and smile can make anyone feel less stressed.
 - [ ] asleep
 - [ ] awake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hug** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ Feeling ____, he decided to change clothes and walk.
 - [ ] asleep
 - [ ] awake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **bored**。
 
 ### 9
 
@@ -324,7 +324,7 @@ The alarm has ____ three times, but he is fast asleep.
 - [ ] asleep
 - [ ] awake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rung** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ Keeping a neat ____ routine is a great health habit.
 - [ ] asleep
 - [ ] awake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**grooming** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 11
 
@@ -344,7 +344,7 @@ Remember to brush your teeth with ____ daily.
 - [ ] asleep
 - [ ] awake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**toothpaste** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ He shaves his beard every ____ after waking up.
 - [ ] asleep
 - [ ] awake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**morning** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 13
 
@@ -364,7 +364,7 @@ Use this ____ to make your hair look neat and clean.
 - [ ] asleep
 - [ ] awake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**comb** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ She looked at herself in the mirror with a sweet ____.
 - [ ] asleep
 - [ ] awake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**smile** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ The mother gave her kid a ____ and kiss before leaving.
 - [ ] asleep
 - [ ] awake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hug** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ After watching a ____ all night, he fell asleep.
 - [ ] asleep
 - [ ] awake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **series**。
 
 ### 17
 
@@ -404,7 +404,7 @@ The little dog was ____ by the sudden loud noise.
 - [ ] asleep
 - [ ] awake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **scared**。
 
 ### 18
 
@@ -414,7 +414,7 @@ Sitting on an ____ chair makes your back hurt.
 - [ ] asleep
 - [ ] awake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**uncomfortable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ He lay in bed and quickly fell ____.
 - [ ] awake
 - [ ] bored
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**asleep** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ Listening to soft music helps relieve ____ feelings.
 - [ ] asleep
 - [ ] awake
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **stressed**。
 
 </quiz-cloze>

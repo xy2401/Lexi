@@ -234,7 +234,7 @@ The ____ reached a fair verdict after listening to all the evidence.
 - [ ] agree
 - [ ] corruption
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**jury** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -244,7 +244,7 @@ The lawyer is doing his best to ____ the client in court.
 - [ ] agree
 - [ ] corruption
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**defend** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -254,7 +254,7 @@ The investigation uncovered serious ____ among local officials.
 - [ ] agree
 - [ ] defend
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**corruption** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -264,7 +264,7 @@ The prosecutor needs clear ____ to prove the suspect guilty.
 - [ ] agree
 - [ ] corruption
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**proof** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -274,7 +274,7 @@ The law should strictly ____ illegal behavior to ensure safety.
 - [ ] agree
 - [ ] corruption
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**punish** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -284,7 +284,7 @@ The ____ penalty for this crime is ten years in prison.
 - [ ] agree
 - [ ] corruption
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**maximum** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -294,7 +294,7 @@ The ____ was granted parole because of good behavior.
 - [ ] agree
 - [ ] corruption
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**prisoner** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 8
 
@@ -304,7 +304,7 @@ The judge ordered the defendant to pay a heavy ____.
 - [ ] agree
 - [ ] corruption
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fine** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -314,7 +314,7 @@ There is strong public support for the new ____ policy.
 - [ ] agree
 - [ ] corruption
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**anti-crime** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -324,7 +324,7 @@ The officer asked the witness to ____ the police immediately.
 - [ ] agree
 - [ ] corruption
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**inform** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -334,7 +334,7 @@ Every human being ____ basic legal dignity and rights.
 - [ ] agree
 - [ ] corruption
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **deserves**。
 
 ### 12
 
@@ -344,7 +344,7 @@ The suspect ____ transferred illegal assets to offshore accounts.
 - [ ] agree
 - [ ] corruption
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**secretly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -354,7 +354,7 @@ This successful outcome is ____ due to new evidence found by detectives.
 - [ ] agree
 - [ ] corruption
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**partly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -364,7 +364,7 @@ The court set the ____ amount required for bail.
 - [ ] agree
 - [ ] corruption
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**minimum** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -374,7 +374,7 @@ The defense lawyer is ____ to ask for a trial delay.
 - [ ] agree
 - [ ] corruption
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**likely** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -384,7 +384,7 @@ Police gathered information about the suspect's ____ aliases.
 - [ ] agree
 - [ ] corruption
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**known** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -394,7 +394,7 @@ ____, the witness was put under police protection during investigation.
 - [ ] agree
 - [ ] corruption
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Meanwhile** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -404,7 +404,7 @@ The victim's family demands a complete and fair ____ from justice.
 - [ ] agree
 - [ ] corruption
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**explanation** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -414,7 +414,7 @@ The police have ____ a search warrant signed by the judge.
 - [ ] agree
 - [ ] corruption
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gotten** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -424,6 +424,6 @@ An ____ statement confirmed that the case is still under investigation.
 - [ ] agree
 - [ ] corruption
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**official** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

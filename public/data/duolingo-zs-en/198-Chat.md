@@ -236,7 +236,7 @@ ____, let's catch up on news another day.
 - [ ] any
 - [ ] as much as
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Anyway** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -246,7 +246,7 @@ He loves ____ as much as he enjoys sport.
 - [ ] any
 - [ ] anyway
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reading** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 3
 
@@ -256,7 +256,7 @@ She is busy on ____ call at the moment.
 - [ ] any
 - [ ] anyway
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**another** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 4
 
@@ -266,7 +266,7 @@ We called a yellow ____ to take us downtown.
 - [ ] any
 - [ ] anyway
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cab** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -276,7 +276,7 @@ Let's change the ____ and talk about holiday.
 - [ ] any
 - [ ] anyway
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**subject** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -286,7 +286,7 @@ Please ____ me the document when you are done.
 - [ ] any
 - [ ] anyway
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hand** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -296,7 +296,7 @@ Thank you, but I ____ on paying for dinner.
 - [ ] any
 - [ ] anyway
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**insist** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -306,7 +306,7 @@ He will ____ on quality service for customers.
 - [ ] any
 - [ ] anyway
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**insist** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -316,7 +316,7 @@ Remember to ____ on the front door before entering.
 - [ ] any
 - [ ] anyway
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**knock** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -326,7 +326,7 @@ I will ____ working with this dedicated team.
 - [ ] any
 - [ ] anyway
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**miss** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -336,7 +336,7 @@ She went to say goodbye to her ____.
 - [ ] any
 - [ ] anyway
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **colleagues**。
 
 ### 12
 
@@ -346,7 +346,7 @@ Always say hi to your ____ when passing by.
 - [ ] any
 - [ ] anyway
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **neighbors**。
 
 ### 13
 
@@ -356,7 +356,7 @@ Please watch out for icy spots on the ____.
 - [ ] any
 - [ ] anyway
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sidewalk** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -366,7 +366,7 @@ They try not to ____ over small matters.
 - [ ] any
 - [ ] anyway
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -376,7 +376,7 @@ ____ when he is tired, he keeps working hard.
 - [ ] any
 - [ ] anyway
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Even** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -386,7 +386,7 @@ You can ____ call a cab or take the subway.
 - [ ] any
 - [ ] anyway
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**either** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 17
 
@@ -396,7 +396,7 @@ He ____ called me back since yesterday morning.
 - [ ] any
 - [ ] anyway
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hasn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -406,7 +406,7 @@ We ____ decided on a travel destination yet.
 - [ ] any
 - [ ] anyway
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**haven't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -416,7 +416,7 @@ The weather was cold, ____ we stayed indoors.
 - [ ] any
 - [ ] anyway
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**so** 为结果连词，表示“因此 / 所以”。
 
 ### 20
 
@@ -426,6 +426,6 @@ She ____ to ask a question about the schedule.
 - [ ] any
 - [ ] anyway
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **wanted**。
 
 </quiz-cloze>

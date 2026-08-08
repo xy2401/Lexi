@@ -248,7 +248,7 @@ The ____ agreed to lower the monthly rent for us.
 - [ ] appliance
 - [ ] attic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**landlord** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -258,7 +258,7 @@ We decided to move to a quiet ____ area.
 - [ ] appliance
 - [ ] attic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**residential** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -268,7 +268,7 @@ Living in the ____ means having a longer daily commute.
 - [ ] appliance
 - [ ] attic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **suburbs**。
 
 ### 4
 
@@ -278,7 +278,7 @@ This two-story house has plenty of ____ space.
 - [ ] appliance
 - [ ] attic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**storage** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -288,7 +288,7 @@ They stored old boxes of books in the ____.
 - [ ] appliance
 - [ ] brand new
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**attic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -298,7 +298,7 @@ The cozy ____ keeps the whole living room warm.
 - [ ] appliance
 - [ ] attic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fireplace** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -308,7 +308,7 @@ We put up a wooden ____ around the backyard.
 - [ ] appliance
 - [ ] attic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fence** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -318,7 +318,7 @@ Every kitchen ____ in this apartment is brand new.
 - [ ] attic
 - [ ] brand new
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**appliance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -328,7 +328,7 @@ The ____ is way too small for our family.
 - [ ] appliance
 - [ ] attic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**apartment** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -338,7 +338,7 @@ Buying this townhouse is a ____ come true for them.
 - [ ] appliance
 - [ ] attic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dream** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -348,7 +348,7 @@ ____ it be nice to have a garden in the back?
 - [ ] appliance
 - [ ] attic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Wouldn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -358,7 +358,7 @@ Wouldn't you prefer living closer to your ____?
 - [ ] appliance
 - [ ] attic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**workplace** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -368,7 +368,7 @@ You should ____ in mind that parking is extra.
 - [ ] appliance
 - [ ] attic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**keep** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -378,7 +378,7 @@ I feel ____ by all the moving tasks.
 - [ ] appliance
 - [ ] attic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **overwhelmed**。
 
 ### 15
 
@@ -388,7 +388,7 @@ We had to make a ____ on the price.
 - [ ] appliance
 - [ ] attic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**compromise** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -398,7 +398,7 @@ Should we go with the modern design or the classic ____?
 - [ ] appliance
 - [ ] attic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**one** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -408,7 +408,7 @@ I think this bright apartment is the ____ for us.
 - [ ] appliance
 - [ ] attic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**one** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -418,7 +418,7 @@ We can make it to the open house ____ noon.
 - [ ] appliance
 - [ ] attic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**before** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -428,7 +428,7 @@ The ____ area is filled with green trees and parks.
 - [ ] appliance
 - [ ] attic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**surrounding** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 20
 
@@ -438,6 +438,6 @@ Please ____ the back door locked at night.
 - [ ] appliance
 - [ ] attic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**keep** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

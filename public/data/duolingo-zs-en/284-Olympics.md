@@ -248,7 +248,7 @@ The winner stood proudly on the ____ to receive her gold medal.
 - [ ] anticipated
 - [ ] australian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**podium** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -258,7 +258,7 @@ She became the youngest ____ medalist in her country's history.
 - [ ] anticipated
 - [ ] australian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Olympic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -268,7 +268,7 @@ ____ stood up when the national anthem started playing.
 - [ ] anticipated
 - [ ] australian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Everyone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -278,7 +278,7 @@ Millions of people watched the ____ opening ceremony.
 - [ ] anticipated
 - [ ] australian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**spectacular** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -288,7 +288,7 @@ He specializes in track and field events like the ____ dash.
 - [ ] anticipated
 - [ ] australian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hundred-meter** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 6
 
@@ -298,7 +298,7 @@ She trained hard to ____ for the Olympic Games.
 - [ ] anticipated
 - [ ] australian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**qualify** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -308,7 +308,7 @@ This match is the most ____ sporting event of the year.
 - [ ] australian
 - [ ] brazilian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **anticipated**。
 
 ### 8
 
@@ -318,7 +318,7 @@ The runner is ____ to win another medal today.
 - [ ] anticipated
 - [ ] australian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **expected**。
 
 ### 9
 
@@ -328,7 +328,7 @@ The team is set to compete in the final round ____.
 - [ ] anticipated
 - [ ] australian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tomorrow** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -338,7 +338,7 @@ Fans are looking forward to the ____ winter tournament.
 - [ ] anticipated
 - [ ] australian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**upcoming** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 11
 
@@ -348,7 +348,7 @@ Great ____ and new talents are on the horizon.
 - [ ] anticipated
 - [ ] australian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **changes**。
 
 ### 12
 
@@ -358,7 +358,7 @@ Her incredible ____ led her to overcome injuries.
 - [ ] anticipated
 - [ ] australian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**determination** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -368,7 +368,7 @@ His comeback story was ____ to young athletes around the world.
 - [ ] anticipated
 - [ ] australian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**inspiring** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 14
 
@@ -378,7 +378,7 @@ She managed to ____ the world record in the finals.
 - [ ] anticipated
 - [ ] australian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**break** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -388,7 +388,7 @@ Athletes gathered in the village before the ____ began.
 - [ ] anticipated
 - [ ] australian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**competition** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -398,7 +398,7 @@ Winning a medal is the ____ goal of every competitor.
 - [ ] anticipated
 - [ ] australian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ultimate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -408,7 +408,7 @@ He was thrilled to win a ____ medal for his country.
 - [ ] anticipated
 - [ ] australian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bronze** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -418,7 +418,7 @@ Now that she has ____, she can return to training.
 - [ ] anticipated
 - [ ] australian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **recovered**。
 
 ### 19
 
@@ -428,7 +428,7 @@ ____ ahead to next year, the team plans to add new coaches.
 - [ ] anticipated
 - [ ] australian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Looking** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 20
 
@@ -438,6 +438,6 @@ She ____ her speed in a few short months of hard work.
 - [ ] anticipated
 - [ ] australian
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **improved**。
 
 </quiz-cloze>

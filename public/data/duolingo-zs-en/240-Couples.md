@@ -242,7 +242,7 @@ We used to argue a whole lot, but now we see a relationship ____.
 - [ ] a whole lot
 - [ ] agreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**therapist** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -252,7 +252,7 @@ Couples ____ helped us reach a mutual agreement.
 - [ ] a whole lot
 - [ ] agreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**therapy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -262,7 +262,7 @@ You ought to keep an open mind instead of making quick ____.
 - [ ] a whole lot
 - [ ] agreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **judgments**。
 
 ### 4
 
@@ -272,7 +272,7 @@ Her ____ was understandable, but her demand was unreasonable.
 - [ ] a whole lot
 - [ ] agreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**frustration** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -282,7 +282,7 @@ We might as well stop spreading ____ about our neighbors.
 - [ ] a whole lot
 - [ ] agreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gossip** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -292,7 +292,7 @@ In ____ case, I will take your word for it this time.
 - [ ] a whole lot
 - [ ] agreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**that** 为指示代词/限定词，指代单数远指事物，表示“那个”。
 
 ### 7
 
@@ -302,7 +302,7 @@ People tend to look down on those who constantly ____ at their partners.
 - [ ] a whole lot
 - [ ] agreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**yell** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -312,7 +312,7 @@ Who cares what others think about our ____ choices?
 - [ ] a whole lot
 - [ ] agreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lifestyle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -322,7 +322,7 @@ Finding his comments ____, she practically refused to talk to him.
 - [ ] a whole lot
 - [ ] agreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**offensive** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -332,7 +332,7 @@ It is ____ to feel envy over someone else's success.
 - [ ] a whole lot
 - [ ] agreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **ridiculous**。
 
 ### 11
 
@@ -342,7 +342,7 @@ ____, we realized that we should communicate more openly.
 - [ ] a whole lot
 - [ ] agreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Eventually** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -352,7 +352,7 @@ We ____ to solve this conflict peacefully without yelling.
 - [ ] a whole lot
 - [ ] agreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**need** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -362,7 +362,7 @@ I used to think couples ____ was unnecessary.
 - [ ] a whole lot
 - [ ] agreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**therapy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -372,7 +372,7 @@ You ____ not look down on people who ask for help.
 - [ ] a whole lot
 - [ ] agreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**should** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -382,7 +382,7 @@ In that case, we might as well call the ____ today.
 - [ ] a whole lot
 - [ ] agreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**therapist** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -392,7 +392,7 @@ She felt a whole lot of ____ during the discussion.
 - [ ] a whole lot
 - [ ] agreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**frustration** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -402,7 +402,7 @@ It is ____ to expect perfection from anyone.
 - [ ] a whole lot
 - [ ] agreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**unreasonable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -412,7 +412,7 @@ They reached an ____ after a long conversation.
 - [ ] a whole lot
 - [ ] an open mind
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**agreement** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -422,7 +422,7 @@ He tends to express his ____ through sarcastic remarks.
 - [ ] a whole lot
 - [ ] agreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**envy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -432,6 +432,6 @@ Who cares if it sounds a bit ____ at first?
 - [ ] a whole lot
 - [ ] agreement
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **ridiculous**。
 
 </quiz-cloze>

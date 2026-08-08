@@ -246,7 +246,7 @@ Hiring a professional ____ is your best bet for a nice lawn.
 - [ ] best bet
 - [ ] bush
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gardener** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 2
 
@@ -256,7 +256,7 @@ She has a green thumb and grows ____ roses.
 - [ ] best bet
 - [ ] bush
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**beautiful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -266,7 +266,7 @@ We need to ____ the overgrown lawn this weekend.
 - [ ] best bet
 - [ ] bush
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mow** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -276,7 +276,7 @@ Plant the tomato seeds in rich dark ____.
 - [ ] best bet
 - [ ] bush
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**soil** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -286,7 +286,7 @@ They decided to ____ a gardener to trim the tall trees.
 - [ ] best bet
 - [ ] bush
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hire** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -296,7 +296,7 @@ We must cut down that old dying tree ____ it falls.
 - [ ] best bet
 - [ ] bush
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**before** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -306,7 +306,7 @@ The ____ planted colorful flowers near the small pond.
 - [ ] best bet
 - [ ] bush
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**gardener** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 8
 
@@ -316,7 +316,7 @@ Place this potted plant in a sunny ____ on the patio.
 - [ ] best bet
 - [ ] bush
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**spot** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -326,7 +326,7 @@ Trim the thick rose ____ to help it grow better.
 - [ ] best bet
 - [ ] could
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bush** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -336,7 +336,7 @@ The rainwater made the garden ____ very muddy.
 - [ ] best bet
 - [ ] bush
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**soil** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -346,7 +346,7 @@ Plant the seeds ____ in the vegetable garden.
 - [ ] best bet
 - [ ] bush
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**carefully** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -356,7 +356,7 @@ I grew these fresh organic tomatoes in my ____ garden.
 - [ ] best bet
 - [ ] bush
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**vegetable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -366,7 +366,7 @@ ____ the plant leaves with clean water every morning.
 - [ ] best bet
 - [ ] bush
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Spray** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -376,7 +376,7 @@ The flower ____ broke during the strong wind storm.
 - [ ] best bet
 - [ ] bush
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stem** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -386,7 +386,7 @@ Transfer the growing plant into a larger clay ____.
 - [ ] best bet
 - [ ] bush
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pot** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -396,7 +396,7 @@ The wet ____ was covered with fallen autumn leaves.
 - [ ] best bet
 - [ ] bush
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ground** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -406,7 +406,7 @@ It seems like the flowers need more ____.
 - [ ] best bet
 - [ ] bush
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sunlight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -416,7 +416,7 @@ These small plants have to be ____ twice a day.
 - [ ] best bet
 - [ ] bush
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **watered**。
 
 ### 19
 
@@ -426,7 +426,7 @@ The dry garden ____ be left without water for long.
 - [ ] best bet
 - [ ] bush
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shouldn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -436,6 +436,6 @@ I built this wooden raised flower bed all by ____.
 - [ ] best bet
 - [ ] bush
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**myself** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

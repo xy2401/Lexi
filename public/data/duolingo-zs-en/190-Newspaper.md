@@ -234,7 +234,7 @@ The sudden car ____ blocked main street traffic.
 - [ ] against
 - [ ] damage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**crash** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -244,7 +244,7 @@ The storm caused extensive ____ to local buildings.
 - [ ] against
 - [ ] crash
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**damage** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -254,7 +254,7 @@ There was a sharp ____ in crime rates this year.
 - [ ] against
 - [ ] crash
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**decrease** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -264,7 +264,7 @@ The old gas tank might ____ if heated.
 - [ ] against
 - [ ] crash
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**explode** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -274,7 +274,7 @@ Heavy rains caused a severe ____ in the valley.
 - [ ] against
 - [ ] crash
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**flood** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -284,7 +284,7 @@ We noticed a significant ____ in air quality.
 - [ ] against
 - [ ] crash
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**improvement** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -294,7 +294,7 @@ There was an ____ in tourism sales last season.
 - [ ] against
 - [ ] crash
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**increase** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -304,7 +304,7 @@ The traffic collision did not ____ any injuries.
 - [ ] against
 - [ ] crash
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**involve** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -314,7 +314,7 @@ Detectives are investigating a mysterious ____ case.
 - [ ] against
 - [ ] crash
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**murder** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 10
 
@@ -324,7 +324,7 @@ Hundreds of people joined the peaceful ____ outside.
 - [ ] against
 - [ ] crash
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**protest** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -334,7 +334,7 @@ The article summarizes ____ economic progress in town.
 - [ ] against
 - [ ] crash
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**recent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -344,7 +344,7 @@ The guard had to ____ a warning into the air.
 - [ ] against
 - [ ] crash
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shoot** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -354,7 +354,7 @@ The hunter ____ an arrow at the target on tree.
 - [ ] against
 - [ ] crash
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shot** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -364,7 +364,7 @@ There has been a big ____ in city transport.
 - [ ] against
 - [ ] crash
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**improvement** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -374,7 +374,7 @@ There have been several ____ in the capital city.
 - [ ] against
 - [ ] crash
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **protests**。
 
 ### 16
 
@@ -384,7 +384,7 @@ High ____ remains a serious economic issue.
 - [ ] against
 - [ ] crash
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**unemployment** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -394,7 +394,7 @@ The weather bureau issued a severe storm ____.
 - [ ] against
 - [ ] crash
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**warning** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 18
 
@@ -404,7 +404,7 @@ Many people voted ____ the new tax policy.
 - [ ] crash
 - [ ] damage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**against** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -414,7 +414,7 @@ Did anything unusual ____ in the neighborhood today?
 - [ ] against
 - [ ] crash
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**happen** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -424,6 +424,6 @@ Most of the ____ passed the final history exam.
 - [ ] against
 - [ ] crash
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **students**。
 
 </quiz-cloze>

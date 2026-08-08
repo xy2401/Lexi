@@ -262,7 +262,7 @@ This drink not only boosts your ____, but also raises your confidence.
 - [ ] artificial
 - [ ] biggest
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**energy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -272,7 +272,7 @@ This mattress contains ____ artificial ingredients nor harmful chemicals.
 - [ ] artificial
 - [ ] biggest
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**neither** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 3
 
@@ -282,7 +282,7 @@ Running shoes can be ____ stylish and functional.
 - [ ] artificial
 - [ ] biggest
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**both** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -292,7 +292,7 @@ Daily use of this equipment will ____ your physical fitness.
 - [ ] artificial
 - [ ] biggest
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**boost** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -302,7 +302,7 @@ Our ____ program helps you get in shape quickly.
 - [ ] artificial
 - [ ] biggest
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**workout** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -312,7 +312,7 @@ We designed a highly ____ home product at an affordable price.
 - [ ] artificial
 - [ ] biggest
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**functional** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -322,7 +322,7 @@ ____ this item now to get a half-price discount.
 - [ ] artificial
 - [ ] biggest
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Purchase** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -332,7 +332,7 @@ Order today; ____, you will miss the biggest discount of the year.
 - [ ] artificial
 - [ ] biggest
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**otherwise** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -342,7 +342,7 @@ Our product has zero ____ flavors or synthetic preservatives.
 - [ ] biggest
 - [ ] boost
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**artificial** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -352,7 +352,7 @@ Wearing an elegant dress will give you immense ____.
 - [ ] artificial
 - [ ] biggest
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**confidence** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -362,7 +362,7 @@ This new invention made a small ____ for the startup team.
 - [ ] artificial
 - [ ] biggest
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fortune** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -372,7 +372,7 @@ Many ____ clients prefer our customized product services.
 - [ ] artificial
 - [ ] biggest
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wealthy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -382,7 +382,7 @@ This amazing smartwatch will definitely ____ your friends.
 - [ ] artificial
 - [ ] biggest
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**impress** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -392,7 +392,7 @@ There is ____ magic pill that solves health problems overnight.
 - [ ] artificial
 - [ ] biggest
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**no** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -402,7 +402,7 @@ A glass of fresh juice will give you plenty of ____.
 - [ ] artificial
 - [ ] biggest
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**energy** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -412,7 +412,7 @@ These earplugs help reduce noise when people ____.
 - [ ] artificial
 - [ ] biggest
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**snore** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -422,7 +422,7 @@ This ____ tool helps trim thick toenails easily.
 - [ ] artificial
 - [ ] biggest
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**grooming** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 18
 
@@ -432,7 +432,7 @@ Check your body temperature using this digital ____.
 - [ ] artificial
 - [ ] biggest
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**thermometer** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 19
 
@@ -442,7 +442,7 @@ This spray removes bad odors from ____ shoes.
 - [ ] artificial
 - [ ] biggest
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**smelly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -452,6 +452,6 @@ This is the ____ promotional sale in our store history.
 - [ ] artificial
 - [ ] boost
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**biggest** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

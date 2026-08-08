@@ -248,7 +248,7 @@ This ____ coat cost only ten dollars, so it was a steal.
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**vintage** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -258,7 +258,7 @@ As an ____ bargain hunter, she always finds treasures at flea markets.
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **experienced**。
 
 ### 3
 
@@ -268,7 +268,7 @@ I plan to empty out all the old stuff from the garage this ____.
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**weekend** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -278,7 +278,7 @@ These old boots have ____ worn many times, but they remain sturdy.
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**been** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -288,7 +288,7 @@ He bought a ____ old chair and managed to restore it.
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dusty** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -298,7 +298,7 @@ All the items in this ____ shop are reasonably priced.
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**second-hand** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -308,7 +308,7 @@ Fifty ____ is my final offer, I cannot go any lower.
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **dollars**。
 
 ### 8
 
@@ -318,7 +318,7 @@ The attic is filled with old ____ we haven't touched in years.
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**junk** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -328,7 +328,7 @@ He found a ____ old box on the very top of the shelf.
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dusty** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -338,7 +338,7 @@ Do you happen to have a spare ____ for this old jar?
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lid** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -348,7 +348,7 @@ Although this wooden table is old, it is still in good ____.
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shape** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -358,7 +358,7 @@ She cleaned out an old ____ coat from the back of the closet.
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fur** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -368,7 +368,7 @@ Make sure the ____ is tight before storing the box away.
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lid** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -378,7 +378,7 @@ We decided to donate all our ____ items to charity.
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **unwanted**。
 
 ### 15
 
@@ -388,7 +388,7 @@ I was ____ if you would like to buy this book set.
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wondering** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 16
 
@@ -398,7 +398,7 @@ If you buy two items, I will give you a great ____.
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**deal** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -408,7 +408,7 @@ I am very satisfied with my ____ at the market today.
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**purchase** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -418,7 +418,7 @@ We will ____ these organized boxes in the basement.
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**store** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -428,7 +428,7 @@ Even though this antique was in pieces, it was still ____.
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**valuable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -438,6 +438,6 @@ The ____ on this ceramic teapot is a little bit loose.
 - [ ] a steal
 - [ ] bargain hunter
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**handle** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

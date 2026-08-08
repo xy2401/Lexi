@@ -244,7 +244,7 @@ ____ is much cheaper if you buy tickets in advance.
 - [ ] back row
 - [ ] balcony
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Admission** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ We found seats in the back row ____ the front was full.
 - [ ] admission
 - [ ] back row
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**because** 为从属连词，引出原因状语从句，表示“因为”。
 
 ### 3
 
@@ -264,7 +264,7 @@ Sitting in the ____ offers a great view of the concert stage.
 - [ ] admission
 - [ ] back row
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**balcony** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ The lead singer sang that classic song ____ live on stage.
 - [ ] admission
 - [ ] back row
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**beautifully** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ My grandfather loves listening to ____ music and acoustic guitar.
 - [ ] admission
 - [ ] back row
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**country** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ The ____ stadium can hold fifty thousand music fans tonight.
 - [ ] admission
 - [ ] back row
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **enormous**。
 
 ### 7
 
@@ -304,7 +304,7 @@ The talented ____ played a solo during the rock concert.
 - [ ] admission
 - [ ] back row
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**guitarist** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ They enjoyed ____ to hard rock music when they were young.
 - [ ] admission
 - [ ] back row
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**listening** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 9
 
@@ -324,7 +324,7 @@ Make sure to have fun at the music ____ tonight!
 - [ ] admission
 - [ ] back row
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**festival** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ The band performed in a ____ theater located downtown.
 - [ ] admission
 - [ ] back row
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**historic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ Their new single became a ____ on the music charts last week.
 - [ ] admission
 - [ ] back row
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ It is strongly ____ to book concert tickets in advance.
 - [ ] admission
 - [ ] back row
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **recommended**。
 
 ### 13
 
@@ -364,7 +364,7 @@ Our seats are located in the center ____ near the stage.
 - [ ] admission
 - [ ] back row
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**section** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ That was the most famous anthem ____ by the crowd.
 - [ ] admission
 - [ ] back row
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sung** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ The live light show last night was an ____ experience.
 - [ ] admission
 - [ ] back row
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**unforgettable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ ____ for the upper level are much cheaper than VIP seats.
 - [ ] admission
 - [ ] back row
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Tickets**。
 
 ### 17
 
@@ -404,7 +404,7 @@ The musicians ____ their instruments before the singer comes out.
 - [ ] admission
 - [ ] back row
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**play** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ Fans love to ____ along with their favorite rock band.
 - [ ] admission
 - [ ] back row
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sing** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ ____ they manage to get tickets for the sold-out show?
 - [ ] admission
 - [ ] back row
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Did** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ She ____ attend the concert last night because she was sick.
 - [ ] admission
 - [ ] back row
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**didn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

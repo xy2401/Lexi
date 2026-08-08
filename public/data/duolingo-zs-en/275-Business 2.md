@@ -246,7 +246,7 @@ This ____ restaurant has been operating for three generations.
 - [ ] advertising
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **family-owned**。
 
 ### 2
 
@@ -256,7 +256,7 @@ My ____ handed down this traditional business to my father.
 - [ ] advertising
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**grandfather** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 3
 
@@ -266,7 +266,7 @@ She took over the company five years ago and ____ the business.
 - [ ] advertising
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **expanded**。
 
 ### 4
 
@@ -276,7 +276,7 @@ Opening our second location was a major ____ for our company.
 - [ ] advertising
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**milestone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -286,7 +286,7 @@ Every ____ goes through ups and downs, but we kept going.
 - [ ] advertising
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**business** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -296,7 +296,7 @@ He has ____ this grocery store for more than twenty years.
 - [ ] advertising
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**run** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -306,7 +306,7 @@ Many small shops were forced to shut down during the ____ decline.
 - [ ] advertising
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**economic** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -316,7 +316,7 @@ Seeing your business grow from scratch is extremely ____.
 - [ ] advertising
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rewarding** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 9
 
@@ -326,7 +326,7 @@ She is in charge of the office when the ____ is away.
 - [ ] advertising
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**manager** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 10
 
@@ -336,7 +336,7 @@ Since we brought in new ____, things have changed for the better.
 - [ ] advertising
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**management** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -346,7 +346,7 @@ In the ____ days, we had to work very long hours every day.
 - [ ] advertising
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**early** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -356,7 +356,7 @@ ____ is not the end, but the next chapter of his career.
 - [ ] advertising
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Retirement** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -366,7 +366,7 @@ We invested more money in online ____ to attract customers.
 - [ ] by
 - [ ] do a good job
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**advertising** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 14
 
@@ -376,7 +376,7 @@ The factory ships high-quality ____ across the country every day.
 - [ ] advertising
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **goods**。
 
 ### 15
 
@@ -386,7 +386,7 @@ We need to accurately ____ the cost of renovating the building.
 - [ ] advertising
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**estimate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -396,7 +396,7 @@ If you do a good job, your efforts will ____ be recognized.
 - [ ] advertising
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**eventually** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -406,7 +406,7 @@ ____ next month, I'll have been working at this company for ten years.
 - [ ] advertising
 - [ ] do a good job
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**by** 为介词，表示交通方式、地点方式或“通过”。
 
 ### 18
 
@@ -416,7 +416,7 @@ ____ the end of this year, the shop will have been open for half a century.
 - [ ] advertising
 - [ ] do a good job
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**by** 为介词，表示交通方式、地点方式或“通过”。
 
 ### 19
 
@@ -426,7 +426,7 @@ Will you have finished the budget ____ by Friday afternoon?
 - [ ] advertising
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**estimate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -436,6 +436,6 @@ Five years from now, we hope to open three more ____.
 - [ ] advertising
 - [ ] by
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **locations**。
 
 </quiz-cloze>

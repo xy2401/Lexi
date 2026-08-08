@@ -244,7 +244,7 @@ At the ____ party, she dressed in a witch costume.
 - [ ] bat
 - [ ] costume
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Halloween** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ That black ____ fits well and looks very fashionable.
 - [ ] Halloween
 - [ ] bat
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**costume** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ To ____ that hat, he tried tying a dark tie.
 - [ ] Halloween
 - [ ] bat
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**match** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ He accidentally ____ his loose cloak, so it was torn.
 - [ ] Halloween
 - [ ] bat
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tore** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ This ____ outfit is too tight to match my shoes.
 - [ ] Halloween
 - [ ] bat
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tight** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ A big black ____ flew near the entrance of the shop.
 - [ ] Halloween
 - [ ] costume
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bat** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ The ____ lit her lantern so that she could see the way.
 - [ ] Halloween
 - [ ] bat
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**witch** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ On ____ night, costumes of bats and witches are everywhere.
 - [ ] bat
 - [ ] costume
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Halloween** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ The sleeve of this jacket is ____ and needs fixing.
 - [ ] Halloween
 - [ ] bat
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**torn** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ Please help me by ____ the ribbon of my costume.
 - [ ] Halloween
 - [ ] bat
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tying** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 11
 
@@ -344,7 +344,7 @@ ____ is one of the most popular holidays for kids.
 - [ ] bat
 - [ ] costume
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Halloween** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ That black ____ flew quietly across the dark night sky.
 - [ ] Halloween
 - [ ] costume
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**bat** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ ____ wore funny costumes to ask for candies.
 - [ ] Halloween
 - [ ] bat
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Children** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ This ____ look makes you stand out in the crowd.
 - [ ] Halloween
 - [ ] bat
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fashionable** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ These shoes ____ my feet very well for walking.
 - [ ] Halloween
 - [ ] bat
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**fit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ ____ clothes feel very comfortable in hot summer.
 - [ ] Halloween
 - [ ] bat
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Loose** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ Her black hat matches her long dress ____.
 - [ ] Halloween
 - [ ] bat
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**perfectly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ He accidentally ____ the piece of paper in his hand.
 - [ ] Halloween
 - [ ] bat
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tore** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ He tied his black ____ before going to the party.
 - [ ] Halloween
 - [ ] bat
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tie** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ ____ jeans show off a fine shape when walking.
 - [ ] Halloween
 - [ ] bat
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Tight** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

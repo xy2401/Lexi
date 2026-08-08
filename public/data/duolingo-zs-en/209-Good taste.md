@@ -234,7 +234,7 @@ ____ you had seen this realistic drama, you would have loved it.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -244,7 +244,7 @@ I ____ dislike comic movies, but this one was marvelous.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**generally** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -254,7 +254,7 @@ The director decided to ____ a film about a painful divorce.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**direct** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -264,7 +264,7 @@ ____ you'd gone to the circus, you would've seen a rare display of acrobatics.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -274,7 +274,7 @@ ____ music has become a popular trend in modern entertainment.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Folk** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -284,7 +284,7 @@ The ____ had not expected such a real emotion in the performance.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**public** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -294,7 +294,7 @@ I ____ got used to the slow pace of classic black and white films.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hadn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -304,7 +304,7 @@ ____ you had recommended the play, I would've bought tickets earlier.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -314,7 +314,7 @@ A ____ painting was put on public display at the city museum.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rare** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -324,7 +324,7 @@ He ____ avoids drama shows and prefers light entertainment.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**generally** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -334,7 +334,7 @@ ____ you'd asked the director, he would have explained the movie scene.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -344,7 +344,7 @@ They decided to get a ____ after years of argument.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**divorce** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -354,7 +354,7 @@ The actor's performance was ____ in that comic story.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **marvelous**。
 
 ### 14
 
@@ -364,7 +364,7 @@ It takes time to get used to traditional ____ music styles.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**folk** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -374,7 +374,7 @@ ____ she hadn't directed the film, it wouldn't have won the award.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -384,7 +384,7 @@ The museum created a new ____ to highlight modern fashion trends.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**display** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -394,7 +394,7 @@ I ____ watching movies in crowded public places.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**dislike** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -404,7 +404,7 @@ The story is based on ____ events rather than fictional fantasy.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**real** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -414,7 +414,7 @@ We ____ seen such a breathtaking circus show before.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hadn't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -424,6 +424,6 @@ He would have enjoyed the ____ sound effects in the cinema.
 - [ ] circus
 - [ ] comic
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**realistic** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

@@ -234,7 +234,7 @@ ____ I hadn't been so stupid, I wouldn't have disappointed everyone.
 - [ ] act
 - [ ] argument
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -244,7 +244,7 @@ ____ she had listened to me, she would have had a better result.
 - [ ] act
 - [ ] argument
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -254,7 +254,7 @@ ____ I hadn't been drunk, I wouldn't have said those words.
 - [ ] act
 - [ ] argument
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -264,7 +264,7 @@ He warned me about the danger, but I didn't ____ on it.
 - [ ] argument
 - [ ] be able to
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**act** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -274,7 +274,7 @@ I feel ____ because I was very selfish yesterday.
 - [ ] act
 - [ ] argument
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**guilty** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -284,7 +284,7 @@ I ____ I will be able to do better next time.
 - [ ] act
 - [ ] argument
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**promise** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -294,7 +294,7 @@ Don't be so ____ when people are trying to sleep.
 - [ ] act
 - [ ] argument
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**loud** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -304,7 +304,7 @@ I was ____ to the mysterious noise outside the house.
 - [ ] act
 - [ ] argument
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**drawn** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -314,7 +314,7 @@ You should use your common sense before making a ____.
 - [ ] act
 - [ ] argument
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**decision** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -324,7 +324,7 @@ The driver lost ____ of the car on the icy road.
 - [ ] act
 - [ ] argument
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**control** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -334,7 +334,7 @@ They ____ a fierce argument about who should pay the bill.
 - [ ] act
 - [ ] argument
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**had** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -344,7 +344,7 @@ I was ____ about his intention and felt sorry.
 - [ ] act
 - [ ] argument
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**mistaken** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -354,7 +354,7 @@ ____ we had left earlier, we wouldn't have missed the bus.
 - [ ] act
 - [ ] argument
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -364,7 +364,7 @@ You are very ____ to have such a supportive family.
 - [ ] act
 - [ ] argument
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lucky** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -374,7 +374,7 @@ ____ I had known the truth, I would have warned you.
 - [ ] act
 - [ ] argument
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -384,7 +384,7 @@ ____ he had trained harder, he would have had the championship.
 - [ ] act
 - [ ] argument
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -394,7 +394,7 @@ I didn't mean to ____ my parents with my grades.
 - [ ] act
 - [ ] argument
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**disappoint** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -404,7 +404,7 @@ ____ she hadn't acted so quickly, the accident would have happened.
 - [ ] act
 - [ ] argument
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -414,7 +414,7 @@ He promised that he wouldn't be ____ again.
 - [ ] act
 - [ ] argument
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**selfish** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -424,6 +424,6 @@ It takes common sense and self ____ to resolve this argument.
 - [ ] act
 - [ ] argument
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**control** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

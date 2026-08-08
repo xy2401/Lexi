@@ -244,7 +244,7 @@ The ____ prince fought the fierce monster in the palace.
 - [ ] besides
 - [ ] candle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**brave** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ The ____ discovered a shiny object by the fountain.
 - [ ] besides
 - [ ] brave
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**princess** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ During the ____, fireworks were launched toward the sky.
 - [ ] besides
 - [ ] brave
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**celebration** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ Look out! The ____ is waving its arms on its shoulder!
 - [ ] besides
 - [ ] brave
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**monster** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 5
 
@@ -284,7 +284,7 @@ ____ shiny gems, there are cushions in the palace.
 - [ ] brave
 - [ ] candle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Besides**。
 
 ### 6
 
@@ -294,7 +294,7 @@ Light the ____, and don't get hurt or get lost in battle.
 - [ ] besides
 - [ ] brave
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**candle** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ ____ happens, brave heroes get excited for the quest.
 - [ ] besides
 - [ ] brave
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Whatever** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 8
 
@@ -314,7 +314,7 @@ To keep items from ____ stolen, watch your bag closely.
 - [ ] besides
 - [ ] brave
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**getting** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 9
 
@@ -324,7 +324,7 @@ The ____ knight fought and defeated the giant monster.
 - [ ] besides
 - [ ] candle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**brave** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ The pretty ____ walked happily in the palace yard.
 - [ ] besides
 - [ ] brave
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**princess** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ The young ____ inherited all the royal treasure.
 - [ ] besides
 - [ ] brave
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**prince** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ In the ancient ruins, they discovered a mysterious ____.
 - [ ] besides
 - [ ] brave
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**object** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ That ____ diamond sparkled brightly under the sunlight.
 - [ ] besides
 - [ ] brave
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shiny** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ Look! ____ fireworks are lighting up the night sky!
 - [ ] besides
 - [ ] brave
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Beautiful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ Look out! The icy road makes it easy to ____ hurt!
 - [ ] besides
 - [ ] brave
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**get** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ They managed not to ____ lost in the deep mountain forest.
 - [ ] besides
 - [ ] brave
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**get** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ The ____ prince walked toward the grand palace castle.
 - [ ] besides
 - [ ] candle
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**brave** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ ____ you choose, I will fully support your choice.
 - [ ] besides
 - [ ] brave
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Whatever** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 19
 
@@ -424,7 +424,7 @@ He put a soft ____ on the sofa for comfortable rest.
 - [ ] besides
 - [ ] brave
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cushion** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ The ____ flickered gently in the soft evening breeze.
 - [ ] besides
 - [ ] brave
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**candle** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

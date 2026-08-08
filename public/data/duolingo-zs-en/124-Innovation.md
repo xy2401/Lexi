@@ -244,7 +244,7 @@ By accident, I deleted a ____ blog with an attachment.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**private** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ Posting on social media about ____ topic is common.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**technology** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ In general, the communication ____ of this tool is surprising.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**effect** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ Please ____ to the link about the issue before you exit.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reply** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ I did not ____ or type any private info in the search box.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hear** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ They ____ communicated about technology details.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**completely** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ ____ of us was surprised by the surprising effect of news.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**None** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ He posted an article about modern innovation on his ____.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**blog** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ Please click the ____ below to view the file attachment.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**link** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ I pressed ____ key by accident and cleared that record.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**delete** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ Social media has changed how people ____ with each other.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**communicate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ Please ____ your password to enter your private account.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**type** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ This article discusses the positive ____ of technology.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**effect** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ You can ____ for more public information on this topic.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**search** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ Please ____ to the message I sent you as soon as possible.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reply** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ If you meet a system ____, click here to exit.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**issue** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ In ____, the battery life of this new phone is long.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**general** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ He dropped his ____ into the water by accident.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**smartphone** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ This is a very ____ topic, so please do not share it.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**private** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ He has millions of ____ on social media platforms.
 - [ ] after
 - [ ] attachment
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **followers**。
 
 </quiz-cloze>

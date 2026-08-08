@@ -244,7 +244,7 @@ She was ____ because the meeting started late again.
 - [ ] annoying
 - [ ] assistant
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **annoyed**。
 
 ### 2
 
@@ -254,7 +254,7 @@ Unnecessary phone interruptions during work can be ____.
 - [ ] annoyed
 - [ ] assistant
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**annoying** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 3
 
@@ -264,7 +264,7 @@ The executive ____ scheduled the meeting for Thursday.
 - [ ] annoyed
 - [ ] annoying
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**assistant** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ A graphic ____ created the new logo for our project.
 - [ ] annoyed
 - [ ] annoying
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**designer** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 5
 
@@ -284,7 +284,7 @@ Every ____ must attend the annual safety workshop.
 - [ ] annoyed
 - [ ] annoying
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**employee** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ The company is a top ____ in the technology sector.
 - [ ] annoyed
 - [ ] annoying
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**employer** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 7
 
@@ -304,7 +304,7 @@ It takes time to get to know your new ____ well.
 - [ ] annoyed
 - [ ] annoying
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **teammates**。
 
 ### 8
 
@@ -314,7 +314,7 @@ We hope to hear from the hiring ____ by Friday.
 - [ ] annoyed
 - [ ] annoying
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**manager** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 9
 
@@ -324,7 +324,7 @@ I look ____ to working with your team on this project.
 - [ ] annoyed
 - [ ] annoying
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**forward** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ May I help you find your seat, ____?
 - [ ] annoyed
 - [ ] annoying
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ma'am** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ This internship is a great ____ to gain experience.
 - [ ] annoyed
 - [ ] annoying
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**opportunity** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ Always maintain a ____ tone in your business emails.
 - [ ] annoyed
 - [ ] annoying
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**professional** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ The ____ delivered an insightful lecture on literature.
 - [ ] annoyed
 - [ ] annoying
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**professor** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ It is ____ to check your phone while someone is speaking to you.
 - [ ] annoyed
 - [ ] annoying
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**rude** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ Good morning, ____, how may I assist you today?
 - [ ] annoyed
 - [ ] annoying
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**sir** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ Traveling for business three days in a row is very ____.
 - [ ] annoyed
 - [ ] annoying
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**tiring** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 17
 
@@ -404,7 +404,7 @@ Call me ____ you need help with the report.
 - [ ] annoyed
 - [ ] annoying
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**whenever** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 18
 
@@ -414,7 +414,7 @@ I would like to schedule an ____ with Dr. Smith.
 - [ ] annoyed
 - [ ] annoying
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**appointment** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ Would you mind if I ____ your pen for a second?
 - [ ] annoyed
 - [ ] annoying
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **borrowed**。
 
 ### 20
 
@@ -434,6 +434,6 @@ Let me introduce you to our new marketing ____.
 - [ ] annoyed
 - [ ] annoying
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**coordinator** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

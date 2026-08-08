@@ -246,7 +246,7 @@ I am ____ a bit under the weather today, so I'll rest at home.
 - [ ] apparently
 - [ ] at risk
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**feeling** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 2
 
@@ -256,7 +256,7 @@ An ____ caused her wrist to become very swollen.
 - [ ] apparently
 - [ ] at risk
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**infection** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -266,7 +266,7 @@ The doctor recommended getting the new ____ to prevent viruses.
 - [ ] apparently
 - [ ] at risk
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**vaccine** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -276,7 +276,7 @@ This ____ might cause some mild side effects such as drowsiness.
 - [ ] apparently
 - [ ] at risk
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**painkiller** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 5
 
@@ -286,7 +286,7 @@ Proper rest helps the injured bone ____ much faster.
 - [ ] apparently
 - [ ] at risk
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**heal** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -296,7 +296,7 @@ Smoking is ____ bad for your lungs and overall health.
 - [ ] apparently
 - [ ] at risk
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**extremely** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -306,7 +306,7 @@ His leg ____ felt sore after the intense workout.
 - [ ] apparently
 - [ ] at risk
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **muscles**。
 
 ### 8
 
@@ -316,7 +316,7 @@ ____ people walking on icy roads may hurt their hips.
 - [ ] apparently
 - [ ] at risk
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Elderly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -326,7 +326,7 @@ Taking ____ vitamin C helps strengthen your immune system.
 - [ ] apparently
 - [ ] at risk
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**enough** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -336,7 +336,7 @@ People with chronic conditions are at risk of severe ____.
 - [ ] apparently
 - [ ] at risk
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **complications**。
 
 ### 11
 
@@ -346,7 +346,7 @@ ____ at phones before bed makes him have trouble falling asleep.
 - [ ] apparently
 - [ ] at risk
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Looking** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 12
 
@@ -356,7 +356,7 @@ ____, this new remedy is much more effective than the old one.
 - [ ] at risk
 - [ ] bad for you
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Apparently** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -366,7 +366,7 @@ ____, this herbal tea can relieve muscle soreness.
 - [ ] apparently
 - [ ] at risk
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Supposedly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -376,7 +376,7 @@ The tired worker couldn't help but ____ during the long lecture.
 - [ ] apparently
 - [ ] at risk
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**yawn** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -386,7 +386,7 @@ ____ up late and eating fast food is bad for you.
 - [ ] apparently
 - [ ] at risk
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Staying** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 16
 
@@ -396,7 +396,7 @@ They say walking eight thousand steps daily improves ____.
 - [ ] apparently
 - [ ] at risk
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**longevity** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -406,7 +406,7 @@ My ____ of the doctor was that he was patient and professional.
 - [ ] apparently
 - [ ] at risk
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**impression** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -416,7 +416,7 @@ Her injury recovered fast ____ to participate in tomorrow's game.
 - [ ] apparently
 - [ ] at risk
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**enough** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -426,7 +426,7 @@ This new medical treatment ____ lead to a faster recovery.
 - [ ] apparently
 - [ ] at risk
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**could** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -436,6 +436,6 @@ Falling on the ice caused a sprain in his right ____.
 - [ ] apparently
 - [ ] at risk
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wrist** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

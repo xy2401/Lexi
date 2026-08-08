@@ -244,7 +244,7 @@ We are planning a ____ party for our colleague moving next week.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**going-away** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ Let's ____ a surprise party for her before she leaves town.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**throw** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ As the guest of honor, he ____ warm wishes from all his friends.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **received**。
 
 ### 4
 
@@ -274,7 +274,7 @@ Even if you ____ to another city, we must stay in touch.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**move** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ We ____ all miss you and wish you the best in your new job.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ I wish you ____ moving to such a distant place.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**weren't** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -304,7 +304,7 @@ The view here is ____, and I wish you were here with us.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**beautiful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ He moved away last month, but we still ____ frequently.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**communicate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ She plans to leave town next ____ to pursue her dreams.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Monday** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ He decided to settle down overseas ____.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**permanently** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ Despite the time ____, we still chat online every week.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**difference** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ Please send my warm ____ to your family.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **regards**。
 
 ### 13
 
@@ -364,7 +364,7 @@ He was deeply moved by the care and ____ of his friends.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**warmth** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ Nothing can stop you from pursuing your ____ and dreams.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**passion** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ She has a strong ____ for art and chose to pursue it.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**passion** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ It was hard for him to ____ his feelings of sadness.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**express** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ Even if we only talk ____, you will always be a good friend.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**occasionally** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ You can ____ out to me any time if you need help.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**reach** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -424,7 +424,7 @@ ____, you can always call me whenever you want to talk.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Remember** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 20
 
@@ -434,6 +434,6 @@ He came all the way to attend this ____ party.
 - [ ] all the way
 - [ ] any time
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**going-away** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

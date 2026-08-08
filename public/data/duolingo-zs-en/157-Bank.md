@@ -244,7 +244,7 @@ I cannot ____ to buy a brand new car right now.
 - [ ] balance
 - [ ] bank teller
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**afford** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ You can check your account ____ using the banking app.
 - [ ] afford
 - [ ] bank teller
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**balance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ The polite bank teller helped me open a new ____.
 - [ ] afford
 - [ ] balance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**account** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ We need to create a strict ____ for our monthly expenses.
 - [ ] afford
 - [ ] balance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**budget** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ She ____ money directly into her checking account.
 - [ ] afford
 - [ ] balance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **deposited**。
 
 ### 6
 
@@ -294,7 +294,7 @@ You should ____ investing a portion of your savings.
 - [ ] afford
 - [ ] balance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**consider** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 7
 
@@ -304,7 +304,7 @@ I need to make a cash ____ at the local branch.
 - [ ] afford
 - [ ] balance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**deposit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ Please show a valid photo ____ before withdrawing funds.
 - [ ] afford
 - [ ] balance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**ID** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ My close friend ____ me some money to cover the bill.
 - [ ] afford
 - [ ] balance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ There is a daily withdrawal ____ of five hundred dollars at the ATM.
 - [ ] afford
 - [ ] balance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**limit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -344,7 +344,7 @@ ____ banking allows you to manage your finances anywhere.
 - [ ] afford
 - [ ] balance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Mobile** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ You must complete all the necessary ____ before getting the loan.
 - [ ] afford
 - [ ] balance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**paperwork** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ Never share your online banking ____ with anyone else.
 - [ ] afford
 - [ ] balance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**password** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ Your monthly mortgage ____ is due on the first of each month.
 - [ ] afford
 - [ ] balance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**payment** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ If your card is lost, ____ it to the bank right away.
 - [ ] afford
 - [ ] balance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**report** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ He ____ most of his paycheck on rent and groceries.
 - [ ] afford
 - [ ] balance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**spent** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ The customer service representative gave me a ____ card.
 - [ ] afford
 - [ ] balance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**temporary** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ The wire ____ was processed within two business hours.
 - [ ] afford
 - [ ] balance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**transfer** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 19
 
@@ -424,7 +424,7 @@ Each financial ____ is recorded securely in your history.
 - [ ] afford
 - [ ] balance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**transaction** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ Keep your account contact details ____ at all times.
 - [ ] afford
 - [ ] balance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**up-to-date** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

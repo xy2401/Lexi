@@ -264,7 +264,7 @@ The survivors managed to stay alive after the terrible ____.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shipwreck** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -274,7 +274,7 @@ The powerful ____ damaged the engine of the rescue aircraft.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**hurricane** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -284,7 +284,7 @@ They built a crude ____ using wooden sticks and strong rope.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shelter** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 4
 
@@ -294,7 +294,7 @@ ____ gathered crabs along the shore to satisfy their hunger.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Survivors**。
 
 ### 5
 
@@ -304,7 +304,7 @@ Lighting damp leaves created heavy ____ to signal passing ships.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**smoke** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -314,7 +314,7 @@ The island was inhabited by ____ tribes who knew the terrain well.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**native** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -324,7 +324,7 @@ The rainforest was home to several ____ species of poisonous snakes.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**deadly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -334,7 +334,7 @@ Communication failed due to a ____ radio receiver on board.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**faulty** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -344,7 +344,7 @@ The medical crew tended to ____ sailors after the storm passed.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **injured**。
 
 ### 10
 
@@ -354,7 +354,7 @@ Despite immense ____, they never lost hope of returning home.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**suffering** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 11
 
@@ -364,7 +364,7 @@ The lack of fresh drinking water was their main ____ on the island.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**concern** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -374,7 +374,7 @@ Knowing how to ____ in harsh conditions requires vital skills.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**survive** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -384,7 +384,7 @@ They didn't expect to ____ dangerous animals inside the jungle.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**encounter** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 14
 
@@ -394,7 +394,7 @@ The leader decided to ____ the source of smoke on the hill.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**investigate** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -404,7 +404,7 @@ After packing ____, the team prepared to head for the shore.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **supplies**。
 
 ### 16
 
@@ -414,7 +414,7 @@ They ____ simple word games to pass the time during dark nights.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **played**。
 
 ### 17
 
@@ -424,7 +424,7 @@ Search ____ patrolled the ocean area for days on end.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **helicopters**。
 
 ### 18
 
@@ -434,7 +434,7 @@ In spite of rough seas, the rescue boat ____ its mission.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **continued**。
 
 ### 19
 
@@ -444,7 +444,7 @@ Despite the fact ____ tools were limited, they built a sturdy cabin.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**that** 为指示代词/限定词，指代单数远指事物，表示“那个”。
 
 ### 20
 
@@ -454,6 +454,6 @@ Having had to go through ____ hardship, they were finally saved.
 - [ ] aircraft
 - [ ] circumstance
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**terrible** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

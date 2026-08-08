@@ -236,7 +236,7 @@ We carved a ____ to make a jack-o'-lantern for Halloween.
 - [ ] barbecue
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pumpkin** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -246,7 +246,7 @@ They ____ a candle in the front yard when it started to get dark.
 - [ ] barbecue
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -256,7 +256,7 @@ Drinking hot cocoa and sweet ____ is popular in autumn.
 - [ ] barbecue
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cider** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 4
 
@@ -266,7 +266,7 @@ We are planning a long road trip during the ____.
 - [ ] barbecue
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**summertime** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -276,7 +276,7 @@ They decided to ____ a garage sale to sell old toys.
 - [ ] barbecue
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**organize** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -286,7 +286,7 @@ Make a wish before you ____ out the birthday candles.
 - [ ] barbecue
 - [ ] carve
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**blow** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 7
 
@@ -296,7 +296,7 @@ The whole family gathered for a delicious ____ potluck party.
 - [ ] blow
 - [ ] carve
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**barbecue** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -306,7 +306,7 @@ Farmers celebrate the annual fall ____ with great joy.
 - [ ] barbecue
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**harvest** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -316,7 +316,7 @@ Put up colorful Christmas ____ in the living room.
 - [ ] barbecue
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **decorations**。
 
 ### 10
 
@@ -326,7 +326,7 @@ The wind was so ____ that it blew over the food stand.
 - [ ] barbecue
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**strong** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 11
 
@@ -336,7 +336,7 @@ We watched the Super Bowl game ____ at my uncle's house.
 - [ ] barbecue
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**together** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 12
 
@@ -346,7 +346,7 @@ Going to the state fair in ____ is always a pleasant surprise.
 - [ ] barbecue
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**springtime** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -356,7 +356,7 @@ Spring ____ helps us clear out clutter from the garage.
 - [ ] barbecue
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cleaning** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 14
 
@@ -366,7 +366,7 @@ He stood by the lemonade ____ to buy a cool drink.
 - [ ] barbecue
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**stand** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -376,7 +376,7 @@ She carried a giant ____ from the field to the truck.
 - [ ] barbecue
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**pumpkin** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -386,7 +386,7 @@ The street lamps are ____ automatically when it gets dark outside.
 - [ ] barbecue
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lit** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -396,7 +396,7 @@ I'd love a cup of hot ____ after working in the yard.
 - [ ] barbecue
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cider** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 18
 
@@ -406,7 +406,7 @@ It was a wonderful ____ when my friends organized a party for me.
 - [ ] barbecue
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**surprise** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 19
 
@@ -416,7 +416,7 @@ We enjoyed the warm sunshine during our ____ vacation.
 - [ ] barbecue
 - [ ] blow
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**summertime** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -426,6 +426,6 @@ ____ gently on the soup because it is very hot.
 - [ ] barbecue
 - [ ] carve
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Blow** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>

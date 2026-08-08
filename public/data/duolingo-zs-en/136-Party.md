@@ -244,7 +244,7 @@ In my opinion, cooking ____ and shrimp on a day off is great.
 - [ ] although
 - [ ] chili
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cabbage** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 2
 
@@ -254,7 +254,7 @@ ____ sales increased, he had to pay extra for chili.
 - [ ] cabbage
 - [ ] chili
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Although** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 3
 
@@ -264,7 +264,7 @@ Can you ____ performing on stage and rolling a wheel?
 - [ ] although
 - [ ] cabbage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**imagine** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 4
 
@@ -274,7 +274,7 @@ ____ waiting for response, a plate of pea and shrimp seems nice.
 - [ ] although
 - [ ] cabbage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**While** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 5
 
@@ -284,7 +284,7 @@ Too bad! She cannot ____ at the party due to illness.
 - [ ] although
 - [ ] cabbage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**perform** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 6
 
@@ -294,7 +294,7 @@ ____, what else do you want to add besides peas?
 - [ ] although
 - [ ] cabbage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Plus**。
 
 ### 7
 
@@ -304,7 +304,7 @@ That sounds like a ____ party idea for us.
 - [ ] although
 - [ ] cabbage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**wonderful** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 8
 
@@ -314,7 +314,7 @@ She rolled up the ____ leaf to make stuffed cabbage.
 - [ ] although
 - [ ] chili
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**cabbage** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 9
 
@@ -324,7 +324,7 @@ Can you give me a ____ on your day off?
 - [ ] although
 - [ ] cabbage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**lift** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 10
 
@@ -334,7 +334,7 @@ ____ it rains or not, the party goes on.
 - [ ] although
 - [ ] cabbage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Whether** 为形容词/副词比较级，用于两者之间的对比。
 
 ### 11
 
@@ -344,7 +344,7 @@ In my opinion, this ____ shrimp dish tastes great.
 - [ ] although
 - [ ] cabbage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**chili** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 12
 
@@ -354,7 +354,7 @@ Too bad that we missed the great music ____.
 - [ ] although
 - [ ] cabbage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**performance** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 13
 
@@ -364,7 +364,7 @@ Can you ____ how beautiful the scene was?
 - [ ] although
 - [ ] cabbage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**imagine** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 14
 
@@ -374,7 +374,7 @@ The famous actor performed ____ on stage.
 - [ ] although
 - [ ] cabbage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**brilliantly** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 15
 
@@ -384,7 +384,7 @@ The company decided to ____ the monthly pay.
 - [ ] although
 - [ ] cabbage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**increase** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 16
 
@@ -394,7 +394,7 @@ ____ the dough into a ball and put it in the oven.
 - [ ] although
 - [ ] cabbage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**Roll** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 17
 
@@ -404,7 +404,7 @@ That dish seems like a fine ____ meal.
 - [ ] although
 - [ ] cabbage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**French** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 18
 
@@ -414,7 +414,7 @@ I am ____ my day off today, so I don't work.
 - [ ] although
 - [ ] cabbage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**taking** 为动词的现在分词/动名词形式，配合句中语法结构。
 
 ### 19
 
@@ -424,7 +424,7 @@ Please give a quick ____ after receiving the letter.
 - [ ] although
 - [ ] cabbage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**response** 符合句意表达，作为句中的核心词汇补全句子。
 
 ### 20
 
@@ -434,6 +434,6 @@ A dozen fresh ____ and peas were put on the plate.
 - [ ] although
 - [ ] cabbage
 
-> **解析**：根据句意选择正确的词汇补全句子。
+> **解析**：**shrimp** 符合句意表达，作为句中的核心词汇补全句子。
 
 </quiz-cloze>
