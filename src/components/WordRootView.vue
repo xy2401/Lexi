@@ -197,7 +197,6 @@ function speak(word: string, e: Event) {
                 @click="selectWord(ex)"
               >
                 <span class="chip-word">{{ ex }}</span>
-                <span class="speaker-btn" @click="speak(ex, $event)" title="朗读">🔊</span>
               </div>
             </div>
           </div>

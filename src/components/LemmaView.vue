@@ -169,7 +169,6 @@ function getTypeLabel(type: string): string {
         <div class="card-header">
           <div class="lemma-main" @click="selectWord(item.lemma)">
             <span class="lemma-word">{{ item.lemma }}</span>
-            <span class="speaker-btn" @click="speak(item.lemma, $event)" title="朗读">🔊</span>
           </div>
           <span class="frq-badge" v-if="item.frequency > 0" title="BNC 语料库词频权重">
             BNC: {{ item.frequency.toLocaleString() }}
@@ -191,7 +190,6 @@ function getTypeLabel(type: string): string {
             >
               <span class="v-word">{{ v.word }}</span>
               <span class="v-type">{{ getTypeLabel(v.type) }}</span>
-              <span class="speaker-btn" @click="speak(v.word, $event)" title="朗读">🔊</span>
             </div>
           </div>
         </div>

@@ -107,7 +107,6 @@ function formatExplanationLines(text: string): string[] {
               @click="selectWord(w)"
             >
               <span class="pill-text">{{ w }}</span>
-              <span class="speaker-btn" @click="speak(w, $event)" title="朗读">🔊</span>
             </div>
           </div>
         </div>
