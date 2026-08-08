@@ -8,6 +8,10 @@ import { parseExchange, EXCHANGE_LABELS } from '../lib/morphology'
 import { lookupLocal, type WordEntry } from '../lib/db'
 import DictionaryTags from './DictionaryTags.vue'
 import PaginationBar from './PaginationBar.vue'
+import TagSwitcher from './TagSwitcher.vue'
+import { useDictStore } from '../stores/dict'
+
+const dictStore = useDictStore()
 
 export interface LemmaVariant {
   word: string
@@ -113,6 +117,18 @@ onMounted(async () => {
   }
 })
 
+// 检查某个词族是否满足当前勾选的考试标签筛选规则
+function matchesTags(entry: LemmaEntry): boolean {
+  if (dictStore.allTagsNeutral) return true
+  const entryMeta = dictStore.lookup(entry.lemma) || metaMap.value[entry.lemma.toLowerCase()]
+  const tags = entryMeta?.tags || ''
+  return dictStore.matchesTagFilter(tags)
+}
+
+watch(() => dictStore.tagStates, () => {
+  resetPagination()
+}, { deep: true })
+
 // 检查某个词族是否满足当前勾选的类型规则
 function shouldShowFamily(entry: LemmaEntry): boolean {
   if (entry.variants.length === 0) return showIrregular.value
@@ -138,6 +154,9 @@ const filteredEntries = computed(() => {
   const mappedLemma = searchQuery.value ? reverseMap.value[q] : null
 
   return entries.value.filter(item => {
+    // 0. 先进行考试标签筛选 (支持中考/高考/四六级/考研/雅思/托福/GRE 三态过滤)
+    if (!matchesTags(item)) return false
+
     // 1. 先进行规则筛选：如果该词族完全不包含已勾选的规则，则隐藏该词族
     if (!shouldShowFamily(item)) return false
 
@@ -202,6 +221,9 @@ watch(paginatedEntries, async (items) => {
 
 <template>
   <div class="lemma-container">
+    <!-- 最上面完整一行考试标签筛选 -->
+    <TagSwitcher />
+
     <!-- 顶部控制栏 -->
     <div class="control-panel">
       <!-- 搜索框 -->
