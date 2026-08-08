@@ -3,7 +3,10 @@
  * LemmaView - 词族演变沙盒
  * 支持双向搜索（变形词反查原词 / 原词查衍生族）、规则多选过滤（默认隐藏常规变体）与全量分页
  */
-import { ref, computed, onMounted } from 'vue'
+import { ref, computed, watch, onMounted } from 'vue'
+import { parseExchange, EXCHANGE_LABELS } from '../lib/morphology'
+import { lookupLocal, type WordEntry } from '../lib/db'
+import DictionaryTags from './DictionaryTags.vue'
 
 export interface LemmaVariant {
   word: string
@@ -16,6 +19,46 @@ export interface LemmaEntry {
   variants: LemmaVariant[]
 }
 
+function classifyVariantType(root: string, variant: string): 's' | 'ed' | 'ing' | 'ies' | 'irregular' | 'same' {
+  const r = root.toLowerCase()
+  const v = variant.toLowerCase()
+
+  if (r === v) return 'same'
+
+  if (r.endsWith('y') && !/^[aeiou]y$/.test(r)) {
+    const stem = r.slice(0, -1)
+    if (v === stem + 'ies' || v === stem + 'ied') return 'ies'
+  }
+
+  if (v === r + 's' || v === r + 'es') return 's'
+  if (r.endsWith('e') && v === r.slice(0, -1) + 'es') return 's'
+
+  if (v === r + 'ed') return 'ed'
+  if (r.endsWith('e') && v === r + 'd') return 'ed'
+
+  if (v === r + 'ing') return 'ing'
+  if (r.endsWith('e') && v === r.slice(0, -1) + 'ing') return 'ing'
+  if (v.length > r.length + 3 && v.endsWith('ing') && v.startsWith(r)) return 'ing'
+
+  return 'irregular'
+}
+
+function formatShortTranslation(text?: string): string {
+  if (!text) return ''
+  return text.replace(/\\r\\n|\\n/g, ' ').slice(0, 50)
+}
+
+function getForms(exchange?: string) {
+  if (!exchange) return []
+  const parsed = parseExchange(exchange)
+  return Object.entries(parsed)
+    .filter(([key]) => key in EXCHANGE_LABELS && key !== '0' && key !== '1')
+    .map(([key, value]) => ({
+      label: EXCHANGE_LABELS[key] || key,
+      value,
+    }))
+}
+
 const emit = defineEmits<{
   'select-word': [word: string]
   'speak-word': [word: string]
@@ -23,6 +66,7 @@ const emit = defineEmits<{
 
 const entries = ref<LemmaEntry[]>([])
 const reverseMap = ref<Record<string, string>>({})
+const metaMap = ref<Record<string, WordEntry>>({})
 const loading = ref(true)
 const error = ref('')
 
@@ -41,9 +85,25 @@ onMounted(async () => {
   try {
     const res = await fetch('/data/lemma.json')
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
-    const data = await res.json()
-    entries.value = data.entries || []
-    reverseMap.value = data.reverseMap || {}
+    const rawList: Array<[string, number, string[]]> = await res.json()
+
+    const list: LemmaEntry[] = []
+    const rev: Record<string, string> = {}
+
+    for (const [lemma, frequency, rawVariants] of rawList) {
+      const variants: LemmaVariant[] = []
+      for (const v of rawVariants) {
+        const type = classifyVariantType(lemma, v)
+        variants.push({ word: v, type })
+        if (!rev[v.toLowerCase()]) {
+          rev[v.toLowerCase()] = lemma
+        }
+      }
+      list.push({ lemma, frequency, variants })
+    }
+
+    entries.value = list
+    reverseMap.value = rev
   } catch (err) {
     error.value = '加载词族演变数据失败，请重试'
     console.error(err)
@@ -120,6 +180,23 @@ function getTypeLabel(type: string): string {
     default: return ''
   }
 }
+
+function getItemMeta(lemma: string): Partial<WordEntry> {
+  return metaMap.value[lemma.toLowerCase()] || {}
+}
+
+watch(paginatedEntries, async (items) => {
+  if (!items || items.length === 0) return
+  for (const item of items) {
+    const key = item.lemma.toLowerCase()
+    if (!metaMap.value[key]) {
+      const res = await lookupLocal(key)
+      if (res) {
+        metaMap.value[key] = res
+      }
+    }
+  }
+}, { immediate: true })
 </script>
 
 <template>
@@ -174,14 +251,30 @@ function getTypeLabel(type: string): string {
     <!-- 词族卡片列表 -->
     <div v-else class="cards-list">
       <div v-for="item in paginatedEntries" :key="item.lemma" class="lemma-card">
-        <!-- 原型词标头 -->
+        <!-- 原型词标头 (左侧：原词/音标/释义/时态变形；右侧：考试标签与 BNC 词频) -->
         <div class="card-header">
-          <div class="lemma-main" @click="selectWord(item.lemma)">
-            <span class="lemma-word">{{ item.lemma }}</span>
+          <div class="header-left">
+            <div class="lemma-main" @click="selectWord(item.lemma)">
+              <span class="lemma-word">{{ item.lemma }}</span>
+              <span class="lemma-phonetic" v-if="getItemMeta(item.lemma).phonetic">/{{ getItemMeta(item.lemma).phonetic }}/</span>
+              <span class="lemma-translation" v-if="getItemMeta(item.lemma).translation">{{ formatShortTranslation(getItemMeta(item.lemma).translation) }}</span>
+            </div>
+
+            <!-- 时态变形内联列表 -->
+            <div class="inline-forms-row" v-if="getForms(getItemMeta(item.lemma).exchange).length">
+              <span class="form-tag" v-for="f in getForms(getItemMeta(item.lemma).exchange)" :key="f.label" @click="selectWord(f.value)">
+                {{ f.label }}: {{ f.value }}
+              </span>
+            </div>
           </div>
-          <span class="frq-badge" v-if="item.frequency > 0" title="BNC 语料库词频权重">
-            BNC: {{ item.frequency.toLocaleString() }}
-          </span>
+
+          <!-- 右侧标签与词频库 -->
+          <div class="header-right">
+            <DictionaryTags class="lemma-tags" v-if="getItemMeta(item.lemma).tags" :tags="getItemMeta(item.lemma).tags || ''" />
+            <span class="frq-badge" v-if="item.frequency > 0" title="BNC 语料库词频权重">
+              BNC: {{ item.frequency.toLocaleString() }}
+            </span>
+          </div>
         </div>
 
         <!-- 变体拓扑网格 -->
@@ -336,9 +429,28 @@ function getTypeLabel(type: string): string {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.75rem;
   border-bottom: 1px solid #f1f5f9;
   padding-bottom: 0.6rem;
   margin-bottom: 0.65rem;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.45rem 0.75rem;
+  flex: 1;
+  min-width: 0;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-left: auto;
+  flex-shrink: 0;
 }
 
 .lemma-main {
@@ -352,6 +464,45 @@ function getTypeLabel(type: string): string {
   font-size: 1.2rem;
   font-weight: 700;
   color: #2c3e50;
+}
+
+.lemma-phonetic {
+  font-size: 0.85rem;
+  color: #8e44ad;
+  font-family: sans-serif;
+}
+
+.lemma-translation {
+  font-size: 0.85rem;
+  color: #64748b;
+  font-weight: 400;
+  max-width: 350px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.inline-forms-row {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.form-tag {
+  font-size: 0.75rem;
+  background: #f0f7ff;
+  color: #2980b9;
+  padding: 0.15rem 0.45rem;
+  border-radius: 4px;
+  cursor: pointer;
+  border: 1px solid #d0e7ff;
+  transition: all 0.15s;
+}
+
+.form-tag:hover {
+  background: #e0f2fe;
+  border-color: #0284c7;
 }
 
 .frq-badge {

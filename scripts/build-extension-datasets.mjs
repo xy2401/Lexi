@@ -86,36 +86,7 @@ function buildResemble() {
   console.log(`[build-extensions] Exported resemble.json: ${list.length} groups`)
 }
 
-// 3. Process lemma.en.txt
-function classifyVariantType(root, variant) {
-  const r = root.toLowerCase()
-  const v = variant.toLowerCase()
-
-  if (r === v) return 'same'
-
-  // ies / ied rule: y -> ies / ied
-  if (r.endsWith('y') && !/^[aeiou]y$/.test(r)) {
-    const stem = r.slice(0, -1)
-    if (v === stem + 'ies' || v === stem + 'ied') return 'ies'
-  }
-
-  // s / es rule
-  if (v === r + 's' || v === r + 'es') return 's'
-  if (r.endsWith('e') && v === r.slice(0, -1) + 'es') return 's'
-
-  // ed / d rule
-  if (v === r + 'ed') return 'ed'
-  if (r.endsWith('e') && v === r + 'd') return 'ed'
-
-  // ing rule
-  if (v === r + 'ing') return 'ing'
-  if (r.endsWith('e') && v === r.slice(0, -1) + 'ing') return 'ing'
-  // double consonant + ing (e.g. run -> running)
-  if (v.length > r.length + 3 && v.endsWith('ing') && v.startsWith(r)) return 'ing'
-
-  return 'irregular'
-}
-
+// 3. Process lemma.en.txt into ultra-compact tuple array: [lemma, frequency, variants]
 function buildLemma() {
   const filePath = join(ECDICT_DIR, 'lemma.en.txt')
   if (!existsSync(filePath)) {
@@ -126,7 +97,6 @@ function buildLemma() {
   const content = readFileSync(filePath, 'utf8')
   const lines = content.split(/\r?\n/)
   const entries = []
-  const reverseMap = {}
 
   for (const line of lines) {
     const trimmed = line.trim()
@@ -143,25 +113,12 @@ function buildLemma() {
     const frequency = parseInt(frqStr || '0', 10)
     const rawVariants = right.split(',').map(v => v.trim()).filter(Boolean)
 
-    const variants = []
-    for (const v of rawVariants) {
-      const type = classifyVariantType(lemma, v)
-      variants.push({ word: v, type })
-      if (!reverseMap[v.toLowerCase()]) {
-        reverseMap[v.toLowerCase()] = lemma
-      }
-    }
-
-    entries.push({
-      lemma,
-      frequency,
-      variants,
-    })
+    entries.push([lemma, frequency, rawVariants])
   }
 
   const outputPath = join(PUBLIC_DATA_DIR, 'lemma.json')
-  writeFileSync(outputPath, JSON.stringify({ entries, reverseMap }))
-  console.log(`[build-extensions] Exported lemma.json: ${entries.length} families`)
+  writeFileSync(outputPath, JSON.stringify(entries))
+  console.log(`[build-extensions] Exported compact lemma.json: ${entries.length} families`)
 }
 
 try {
