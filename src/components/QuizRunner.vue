@@ -194,22 +194,32 @@ function endSentenceDrag(event: PointerEvent) {
 
 function checkSentence() {
   if (!currentSentence.value || sentenceLocked.value) return
-  speak(currentSentence.value.english)
   const selected = selectedTiles.value.map(tile => tile.text.toLowerCase())
   const answer = answerTokens.value.map(token => token.toLowerCase())
   if (selected.length === answer.length && selected.every((token, index) => token === answer[index])) {
     sentenceLocked.value = true
     sentenceAnswered.value++
     feedback.value = 'correct'
-    window.setTimeout(() => {
+
+    let advanced = false
+    const advanceNext = () => {
+      if (advanced) return
+      advanced = true
       sentenceIndex.value++
       if (sentenceIndex.value >= sentenceQuiz.value.items.length) {
         completeQuiz()
         return
       }
       prepareSentenceItem()
-    }, CORRECT_ADVANCE_MS)
+    }
+
+    // 朗读完完整的句子后再跳转下一题
+    speak(currentSentence.value.english, undefined, () => {
+      window.setTimeout(advanceNext, 350)
+    })
+    window.setTimeout(advanceNext, 5000)
   } else {
+    speak(currentSentence.value.english)
     feedback.value = 'wrong'
   }
 }
@@ -431,18 +441,29 @@ function chooseCloze(text: string, correct: boolean) {
   selectedCloze.value = text
   if (correct) {
     const completedSentence = currentCloze.value.prompt.replace('____', text)
-    speakSequence([text, completedSentence])
     clozeLocked.value = true
     clozeAnswered.value++
     feedback.value = 'correct'
-    window.setTimeout(() => {
+
+    let advanced = false
+    const advanceNext = () => {
+      if (advanced) return
+      advanced = true
       clozeIndex.value++
       if (clozeIndex.value >= clozeQuiz.value.items.length) {
         completeQuiz()
         return
       }
       prepareClozeItem()
-    }, CORRECT_ADVANCE_MS)
+    }
+
+    // 朗读完“单词 + 完整填充后句子”后，留出 350ms 舒适停顿，再平滑切下一题
+    speakSequence([text, completedSentence], () => {
+      window.setTimeout(advanceNext, 350)
+    })
+
+    // 5秒最长安全兜底，防止极少情况下 SpeechSynthesis 未触发 onend 事件
+    window.setTimeout(advanceNext, 5000)
   } else {
     speak(text)
     feedback.value = 'wrong'

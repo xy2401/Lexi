@@ -43,13 +43,53 @@ export function useTTS() {
     }, 200)
   }
 
+  // 加载可用语音
+  function loadVoices() {
+    if (!('speechSynthesis' in window)) return
+    const v = speechSynthesis.getVoices()
+    if (v.length === 0) return
+    // 优先英文语音
+    const en = v.filter(voice => voice.lang.startsWith('en'))
+    if (en.length > 0) {
+      voices.value = en
+      if (!selectedVoice.value) {
+        selectedVoice.value = en[0].name
+      }
+    }
+  }
+
+  // Chrome/Edge 首次 getVoices() 返回空数组，需要多策略兜底
+  if ('speechSynthesis' in window) {
+    loadVoices()
+    // 用 addEventListener 避免多组件覆盖
+    speechSynthesis.addEventListener('voiceschanged', loadVoices)
+    // 轮询兜底：某些 Chrome 版本不触发 voiceschanged
+    let retries = 0
+    const timer = setInterval(() => {
+      if (voices.value.length > 0 || retries > 10) {
+        clearInterval(timer)
+        return
+      }
+      loadVoices()
+      retries++
+    }, 200)
+  }
+
   /**
    * 朗读文本
    * @param text 要朗读的文本
    * @param onBoundary 单词边界回调 (charIndex, charLength)
+   * @param onEnd 朗读结束回调
    */
-  function speak(text: string, onBoundary?: (charIndex: number, charLength: number) => void) {
-    if (!('speechSynthesis' in window)) return
+  function speak(
+    text: string,
+    onBoundary?: (charIndex: number, charLength: number) => void,
+    onEnd?: () => void
+  ) {
+    if (!('speechSynthesis' in window)) {
+      onEnd?.()
+      return
+    }
 
     stop()
     const generation = playbackGeneration
@@ -67,9 +107,11 @@ export function useTTS() {
       if (generation !== playbackGeneration) return
       speaking.value = false
       currentWordIndex.value = -1
+      onEnd?.()
     }
     utterance.onerror = () => {
       if (generation === playbackGeneration) speaking.value = false
+      onEnd?.()
     }
 
     utterance.onboundary = (event) => {
@@ -83,10 +125,16 @@ export function useTTS() {
   }
 
   /** Cancel the current speech and read several parts without cutting each other off. */
-  function speakSequence(texts: string[]) {
-    if (!('speechSynthesis' in window)) return
+  function speakSequence(texts: string[], onEnd?: () => void) {
+    if (!('speechSynthesis' in window)) {
+      onEnd?.()
+      return
+    }
     const queue = texts.map(text => text.trim()).filter(Boolean)
-    if (!queue.length) return
+    if (!queue.length) {
+      onEnd?.()
+      return
+    }
 
     stop()
     const generation = playbackGeneration
@@ -94,7 +142,10 @@ export function useTTS() {
 
     function playAt(index: number) {
       if (generation !== playbackGeneration || index >= queue.length) {
-        if (generation === playbackGeneration) speaking.value = false
+        if (generation === playbackGeneration) {
+          speaking.value = false
+          onEnd?.()
+        }
         return
       }
 
@@ -109,7 +160,10 @@ export function useTTS() {
         playAt(index + 1)
       }
       utterance.onerror = () => {
-        if (generation === playbackGeneration) speaking.value = false
+        if (generation === playbackGeneration) {
+          speaking.value = false
+          onEnd?.()
+        }
       }
       speechSynthesis.speak(utterance)
     }
