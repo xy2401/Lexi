@@ -11,6 +11,9 @@ import DictionaryTags from './components/DictionaryTags.vue'
 import FollowReadPanel from './components/FollowReadPanel.vue'
 import MorphNebula from './components/MorphNebula.vue'
 import DuolingoView from './components/DuolingoView.vue'
+import WordRootView from './components/WordRootView.vue'
+import ResembleView from './components/ResembleView.vue'
+import LemmaView from './components/LemmaView.vue'
 import { useTTS } from './composables/useTTS'
 import type { WordEntry } from './lib/db'
 
@@ -67,7 +70,7 @@ function formatBytes(bytes: number): string {
 }
 
 // ========== 模块切换 ==========
-type TabId = 'reader' | 'explorer' | 'duolingo' | 'settings'
+type TabId = 'reader' | 'explorer' | 'wordroot' | 'resemble' | 'lemma' | 'duolingo' | 'settings'
 const activeTab = ref<TabId>('reader')
 
 // ========== Reader 模块 ==========
@@ -90,7 +93,7 @@ onMounted(async () => {
   await dictStore.init()
 })
 
-// ========== Reader 事件 ==========
+// ========== Reader / Extension 事件 ==========
 async function handleWordClick(payload: { word: string; x: number; y: number }) {
   tooltipWord.value = payload.word
   tooltipPos.value = { x: payload.x, y: payload.y }
@@ -99,6 +102,22 @@ async function handleWordClick(payload: { word: string; x: number; y: number }) 
   tooltipData.value = null
 
   const result = await lookupWord(payload.word, (hotEntry) => {
+    tooltipData.value = hotEntry
+  })
+  tooltipData.value = result.entry
+  tooltipLoading.value = false
+}
+
+async function handleExtensionSelectWord(word: string) {
+  tooltipWord.value = word
+  tooltipPos.value = { x: window.innerWidth / 2 - 190, y: 120 }
+  showTooltip.value = true
+  tooltipLoading.value = true
+  tooltipData.value = null
+
+  speak(word)
+
+  const result = await lookupWord(word, (hotEntry) => {
     tooltipData.value = hotEntry
   })
   tooltipData.value = result.entry
@@ -155,13 +174,22 @@ function speakExplorerWord() {
       <p class="subtitle">渐进式英语阅读与听说训练沙盒</p>
     </header>
 
-    <!-- 四模块 Tab 导航 -->
+    <!-- 7 模块 Tab 导航 -->
     <nav class="tab-nav">
       <button :class="['tab-btn', { active: activeTab === 'reader' }]" @click="activeTab = 'reader'">
         📖 阅读器
       </button>
       <button :class="['tab-btn', { active: activeTab === 'explorer' }]" @click="activeTab = 'explorer'">
         🔍 词典浏览
+      </button>
+      <button :class="['tab-btn', { active: activeTab === 'wordroot' }]" @click="activeTab = 'wordroot'">
+        🌳 词根词缀
+      </button>
+      <button :class="['tab-btn', { active: activeTab === 'resemble' }]" @click="activeTab = 'resemble'">
+        ⚖️ 近义辨析
+      </button>
+      <button :class="['tab-btn', { active: activeTab === 'lemma' }]" @click="activeTab = 'lemma'">
+        🌿 词族演变
       </button>
       <button :class="['tab-btn', { active: activeTab === 'duolingo' }]" @click="activeTab = 'duolingo'">
         🦉 多邻国
@@ -251,6 +279,21 @@ function speakExplorerWord() {
           <MorphNebula :entry="explorerEntry" @select-word="handleExplorerSelectWord" />
         </div>
       </div>
+    </div>
+
+    <!-- ===== 词根词缀 模块 ===== -->
+    <div class="tab-content" v-show="activeTab === 'wordroot'">
+      <WordRootView @select-word="handleExtensionSelectWord" @speak-word="speak" />
+    </div>
+
+    <!-- ===== 近义辨析 模块 ===== -->
+    <div class="tab-content" v-show="activeTab === 'resemble'">
+      <ResembleView @select-word="handleExtensionSelectWord" @speak-word="speak" />
+    </div>
+
+    <!-- ===== 词族演变 模块 ===== -->
+    <div class="tab-content" v-show="activeTab === 'lemma'">
+      <LemmaView @select-word="handleExtensionSelectWord" @speak-word="speak" />
     </div>
 
     <!-- ===== Duolingo 模块 ===== -->

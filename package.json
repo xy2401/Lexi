@@ -5,11 +5,12 @@
   "type": "module",
   "description": "Lexi - 渐进式、沉浸式英语阅读与听说训练沙盒",
   "scripts": {
-    "dev": "vite",
-    "build": "npm run validate:course && vite build",
+    "dev": "npm run build:extensions && vite",
+    "build": "npm run build:extensions && npm run validate:course && vite build",
     "preview": "vite preview",
     "build:course": "node scripts/course-tools.mjs build",
     "validate:course": "node scripts/course-tools.mjs validate",
+    "build:extensions": "node scripts/build-extension-datasets.mjs",
     "build:dict": "node scripts/build-dictionary-shards.mjs",
     "build:data": "node scripts/extract-stardict.mjs && node scripts/build-dictionary-shards.mjs"
   },
