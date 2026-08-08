@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, nextTick, ref } from 'vue'
+import { computed, nextTick, onBeforeUnmount, ref } from 'vue'
 import PracticePanel from './PracticePanel.vue'
 import { useTTS } from '../composables/useTTS'
 import type {
@@ -77,7 +77,9 @@ const answerTokens = computed(() => currentSentence.value?.english.match(/[A-Za-
 const sentenceTiles = ref<SentenceTile[]>([])
 const selectedTiles = ref<SentenceTile[]>([])
 const draggedSentenceTileId = ref<string | null>(null)
+const sentenceDragGhost = ref({ x: 0, y: 0, text: '', visible: false })
 let sentenceDragPointerId: number | null = null
+let sentenceDragTile: SentenceTile | null = null
 let sentenceDragStart = { x: 0, y: 0 }
 let sentenceDragMoved = false
 let suppressSentenceTileClick = false
@@ -123,77 +125,94 @@ function handleSelectedTileClick(tile: SentenceTile) {
   returnSentenceTile(tile)
 }
 
+function handlePoolTileClick(tile: SentenceTile) {
+  if (suppressSentenceTileClick) return
+  chooseSentenceTile(tile)
+}
+
 function startSentenceDrag(event: PointerEvent, tile: SentenceTile) {
   if (finished.value || sentenceLocked.value || event.button !== 0) return
   sentenceDragPointerId = event.pointerId
+  sentenceDragTile = tile
   sentenceDragStart = { x: event.clientX, y: event.clientY }
   sentenceDragMoved = false
-  draggedSentenceTileId.value = tile.id
+  window.addEventListener('pointermove', handleSentenceDragMove)
+  window.addEventListener('pointerup', handleSentenceDragEnd)
+  window.addEventListener('pointercancel', handleSentenceDragEnd)
   try {
     ;(event.currentTarget as HTMLElement).setPointerCapture(event.pointerId)
   } catch {
-    // Older WebViews can still reorder while the pointer stays over the tile.
+    // 窗口级监听兜底，捕获失败不影响拖动。
   }
 }
 
-function moveSentenceDrag(event: PointerEvent) {
-  if (sentenceDragPointerId !== event.pointerId || !draggedSentenceTileId.value) return
-  if (Math.hypot(event.clientX - sentenceDragStart.x, event.clientY - sentenceDragStart.y) < 5) return
-  sentenceDragMoved = true
-  event.preventDefault()
-
-  const slot = (event.currentTarget as HTMLElement).closest<HTMLElement>('.sentence-slot')
-  if (!slot) return
-  const slotRect = slot.getBoundingClientRect()
-  if (event.clientX < slotRect.left || event.clientX > slotRect.right
-    || event.clientY < slotRect.top || event.clientY > slotRect.bottom) return
-
-  const targets = [...slot.querySelectorAll<HTMLElement>('[data-sentence-tile-id]')]
-  const target = targets.reduce<HTMLElement | null>((nearest, candidate) => {
-    if (!nearest) return candidate
-    const candidateRect = candidate.getBoundingClientRect()
-    const nearestRect = nearest.getBoundingClientRect()
-    const candidateDistance = Math.hypot(
-      event.clientX - (candidateRect.left + candidateRect.width / 2),
-      event.clientY - (candidateRect.top + candidateRect.height / 2),
-    )
-    const nearestDistance = Math.hypot(
-      event.clientX - (nearestRect.left + nearestRect.width / 2),
-      event.clientY - (nearestRect.top + nearestRect.height / 2),
-    )
-    return candidateDistance < nearestDistance ? candidate : nearest
-  }, null)
-  const targetId = target?.dataset.sentenceTileId
-  const draggedId = draggedSentenceTileId.value
-  if (!targetId || targetId === draggedId) return
-
-  const from = selectedTiles.value.findIndex(tile => tile.id === draggedId)
-  const to = selectedTiles.value.findIndex(tile => tile.id === targetId)
-  if (from < 0 || to < 0) return
-  const reordered = [...selectedTiles.value]
-  const [dragged] = reordered.splice(from, 1)
-  reordered.splice(to, 0, dragged)
-  selectedTiles.value = reordered
-  feedback.value = null
+function computeSentenceInsertIndex(slot: HTMLElement, x: number, y: number, excludeId: string): number {
+  const tiles = [...slot.querySelectorAll<HTMLElement>('[data-sentence-tile-id]')]
+    .filter(element => element.dataset.sentenceTileId !== excludeId)
+  for (let index = 0; index < tiles.length; index++) {
+    const rect = tiles[index].getBoundingClientRect()
+    if (y < rect.top) return index
+    if (y <= rect.bottom && x < rect.left + rect.width / 2) return index
+  }
+  return tiles.length
 }
 
-function endSentenceDrag(event: PointerEvent) {
-  if (sentenceDragPointerId !== event.pointerId) return
-  try {
-    if ((event.currentTarget as HTMLElement).hasPointerCapture(event.pointerId)) {
-      ;(event.currentTarget as HTMLElement).releasePointerCapture(event.pointerId)
+function handleSentenceDragMove(event: PointerEvent) {
+  if (event.pointerId !== sentenceDragPointerId || !sentenceDragTile) return
+  if (!sentenceDragMoved) {
+    if (Math.hypot(event.clientX - sentenceDragStart.x, event.clientY - sentenceDragStart.y) < 5) return
+    sentenceDragMoved = true
+    draggedSentenceTileId.value = sentenceDragTile.id
+  }
+  const tile = sentenceDragTile
+  sentenceDragGhost.value = { x: event.clientX, y: event.clientY, text: tile.text, visible: true }
+
+  const element = document.elementFromPoint(event.clientX, event.clientY)
+  const slot = element?.closest<HTMLElement>('.sentence-slot')
+  const pool = element?.closest<HTMLElement>('.tile-pool')
+
+  if (slot) {
+    const index = computeSentenceInsertIndex(slot, event.clientX, event.clientY, tile.id)
+    const without = selectedTiles.value.filter(item => item.id !== tile.id)
+    const next = [...without]
+    next.splice(Math.min(index, next.length), 0, tile)
+    if (next.map(item => item.id).join('|') !== selectedTiles.value.map(item => item.id).join('|')) {
+      selectedTiles.value = next
+      feedback.value = null
     }
+  } else if (pool && selectedTiles.value.some(item => item.id === tile.id)) {
+    selectedTiles.value = selectedTiles.value.filter(item => item.id !== tile.id)
+    feedback.value = null
+  }
+}
+
+function handleSentenceDragEnd(event: PointerEvent) {
+  if (event.pointerId !== sentenceDragPointerId) return
+  window.removeEventListener('pointermove', handleSentenceDragMove)
+  window.removeEventListener('pointerup', handleSentenceDragEnd)
+  window.removeEventListener('pointercancel', handleSentenceDragEnd)
+  try {
+    const target = event.target as HTMLElement
+    if (target.hasPointerCapture?.(event.pointerId)) target.releasePointerCapture(event.pointerId)
   } catch {
-    // Pointer capture is an enhancement, not a requirement for click behavior.
+    // 捕获释放失败不影响后续交互。
   }
   if (sentenceDragMoved) {
     suppressSentenceTileClick = true
     window.setTimeout(() => { suppressSentenceTileClick = false }, 0)
   }
+  sentenceDragGhost.value = { ...sentenceDragGhost.value, visible: false }
   sentenceDragPointerId = null
   sentenceDragMoved = false
+  sentenceDragTile = null
   draggedSentenceTileId.value = null
 }
+
+onBeforeUnmount(() => {
+  window.removeEventListener('pointermove', handleSentenceDragMove)
+  window.removeEventListener('pointerup', handleSentenceDragEnd)
+  window.removeEventListener('pointercancel', handleSentenceDragEnd)
+})
 
 function checkSentence() {
   if (!currentSentence.value || sentenceLocked.value) return
@@ -396,6 +415,7 @@ const selectedRight = ref<number | null>(null)
 const matchedIds = ref<number[]>([])
 const wrongPair = ref<boolean>(false)
 const matchingRight = ref<{ id: number; text: string }[]>([])
+const activeMatchingPairs = ref<Array<MatchingPair & { id: number }>>([])
 
 const matchingPairs = computed<Array<MatchingPair & { id: number }>>(() => {
   if (matchingQuiz.value.source === 'explicit' && matchingQuiz.value.pairs?.length) {
@@ -427,7 +447,9 @@ function initMatching() {
   selectedRight.value = null
   wrongPair.value = false
   matchingMode.value = shuffle<MatchingMode>(['text-chinese', 'audio-chinese', 'audio-english'])[0]
-  matchingRight.value = shuffle(matchingPairs.value.map(pair => ({
+  const all = matchingPairs.value
+  activeMatchingPairs.value = all.length > 10 ? shuffle([...all]).slice(0, 10) : shuffle([...all])
+  matchingRight.value = shuffle(activeMatchingPairs.value.map(pair => ({
     id: pair.id,
     text: matchingMode.value === 'audio-english' ? pair.english : pair.chinese,
   })))
@@ -458,7 +480,7 @@ function checkMatchingPair() {
     matchedIds.value.push(left)
     selectedLeft.value = null
     selectedRight.value = null
-    if (matchedIds.value.length === matchingPairs.value.length) completeQuiz()
+    if (matchedIds.value.length === activeMatchingPairs.value.length) completeQuiz()
   } else {
     wrongPair.value = true
     window.setTimeout(() => {
@@ -574,26 +596,24 @@ if (props.quiz.type === 'cloze') initCloze()
           class="word-tile selected draggable"
           :class="{ dragging: draggedSentenceTileId === tile.id }"
           :data-sentence-tile-id="tile.id"
-          :aria-label="`${tile.text}，拖动调整顺序，点击移回词池`"
+          :aria-label="`${tile.text}，拖动调整位置或拖回词池，点击移回词池`"
           @click="handleSelectedTileClick(tile)"
           @pointerdown="startSentenceDrag($event, tile)"
-          @pointermove="moveSentenceDrag"
-          @pointerup="endSentenceDrag"
-          @pointercancel="endSentenceDrag"
         >
           {{ tile.text }}
         </button>
-        <span v-if="selectedTiles.length === 0" class="slot-hint">点击下方词块组成句子</span>
+        <span v-if="selectedTiles.length === 0" class="slot-hint">点击或拖动下方词块组成句子</span>
       </div>
-      <div v-if="selectedTiles.length" class="drag-hint">拖动上方词块可调整顺序，点击可移回词池</div>
+      <div class="drag-hint">拖动词块可在答案区与词池间自由移动，拖动中可随时松手；点击可快速添加/移除</div>
       <div class="tile-pool">
         <button
           v-for="tile in sentenceTiles"
           :key="tile.id"
-          :class="['word-tile', { reserved: selectedTiles.some(item => item.id === tile.id) }]"
+          :class="['word-tile', 'draggable', { reserved: selectedTiles.some(item => item.id === tile.id), dragging: draggedSentenceTileId === tile.id }]"
           :aria-hidden="selectedTiles.some(item => item.id === tile.id)"
           :tabindex="selectedTiles.some(item => item.id === tile.id) ? -1 : 0"
-          @click="chooseSentenceTile(tile)"
+          @click="handlePoolTileClick(tile)"
+          @pointerdown="startSentenceDrag($event, tile)"
         >
           {{ tile.text }}
         </button>
@@ -601,6 +621,12 @@ if (props.quiz.type === 'cloze') initCloze()
       <button class="primary-btn" :disabled="selectedTiles.length === 0 || finished || sentenceLocked" @click="checkSentence">检查</button>
       <div v-if="feedback === 'wrong'" class="feedback wrong">顺序还不对，再试一次</div>
       <div v-if="feedback === 'correct'" class="feedback correct">正确！{{ currentSentence?.explanation }}</div>
+      <div
+        v-if="sentenceDragGhost.visible"
+        class="drag-ghost"
+        :style="{ left: `${sentenceDragGhost.x}px`, top: `${sentenceDragGhost.y}px` }"
+        aria-hidden="true"
+      >{{ sentenceDragGhost.text }}</div>
     </div>
 
     <div v-else-if="quiz.type === 'listening'" class="game-stack">
@@ -639,10 +665,10 @@ if (props.quiz.type === 'cloze') initCloze()
 
     <div v-else-if="quiz.type === 'matching'" class="game-stack">
       <div class="matching-mode">本轮模式：{{ matchingModeLabel }}</div>
-      <div v-if="matchingPairs.length >= 2" class="matching-grid" :class="{ shake: wrongPair }">
+      <div v-if="activeMatchingPairs.length >= 2" class="matching-grid" :class="{ shake: wrongPair }">
         <div class="matching-column">
           <button
-            v-for="pair in matchingPairs"
+            v-for="pair in activeMatchingPairs"
             :key="`left-${pair.id}`"
             :class="['match-card', { selected: selectedLeft === pair.id, matched: matchedIds.includes(pair.id) }]"
             :disabled="matchedIds.includes(pair.id)"
@@ -824,6 +850,21 @@ if (props.quiz.type === 'cloze') initCloze()
   pointer-events: none;
 }
 
+.drag-ghost {
+  position: fixed;
+  z-index: 999;
+  transform: translate(-50%, -140%);
+  padding: 0.55rem 0.75rem;
+  border: 2px solid #1cb0f6;
+  border-radius: 9px;
+  background: #edf9ff;
+  color: #2c3e50;
+  font-weight: 600;
+  white-space: nowrap;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.18);
+  pointer-events: none;
+}
+
 .word-tile.reserved {
   visibility: hidden;
   pointer-events: none;
@@ -1002,6 +1043,11 @@ if (props.quiz.type === 'cloze') initCloze()
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+}
+
+.match-card {
+  flex: 1 1 0;
+  min-height: 2.4rem;
 }
 
 .match-card.matched {

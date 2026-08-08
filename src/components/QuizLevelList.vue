@@ -22,6 +22,14 @@ const icons: Record<QuizDefinition['type'], string> = {
   matching: '⚡',
   cloze: '✍️',
 }
+
+const ROUND_SIZE = 10
+const roundBasedTypes: QuizDefinition['type'][] = ['sentence-builder', 'listening', 'matching', 'cloze']
+
+function levelCount(quiz: QuizDefinition) {
+  if (roundBasedTypes.includes(quiz.type)) return Math.min(ROUND_SIZE, quiz.itemCount)
+  return quiz.itemCount
+}
 </script>
 
 <template>
@@ -44,7 +52,7 @@ const icons: Record<QuizDefinition['type'], string> = {
         <strong>{{ quiz.title }}</strong>
         <small>{{ quiz.description }}</small>
       </span>
-      <span class="level-count">{{ loadingId === quiz.id ? '加载中…' : `${quiz.itemCount} 题` }}</span>
+      <span class="level-count">{{ loadingId === quiz.id ? '加载中…' : `${levelCount(quiz)} 题` }}</span>
       <span class="level-state">{{ completedIds.includes(quiz.id) ? '✓' : '›' }}</span>
     </button>
   </div>
