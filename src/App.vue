@@ -201,9 +201,11 @@ function speakExplorerWord() {
 
     <!-- ===== Reader 模块 ===== -->
     <div class="tab-content" v-show="activeTab === 'reader'">
+      <!-- 最上面完整一行标签筛选 -->
+      <TagSwitcher />
+
       <div class="reader-layout">
         <aside class="sidebar">
-          <TagSwitcher />
           <div class="input-section">
             <label>输入文本</label>
             <textarea v-model="inputText" rows="6" placeholder="粘贴英文文本..."></textarea>
@@ -228,12 +230,14 @@ function speakExplorerWord() {
       </div>
     </div>
 
-    <!-- ===== Explorer 模块 ===== -->
+    <!-- ===== Explorer 模块 (词典浏览) ===== -->
     <div class="tab-content" v-show="activeTab === 'explorer'">
+      <!-- 最上面完整一行标签筛选 -->
+      <TagSwitcher />
+
       <div class="explorer-layout">
         <div class="explorer-left">
           <h3>A-Z 词典树</h3>
-          <TagSwitcher />
           <ExplorerTree @select-word="handleExplorerSelectWord" />
         </div>
         <div class="explorer-right">
