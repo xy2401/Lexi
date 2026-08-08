@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 beneath, block, dashboard, frustrating, get a hold of, go wrong, in a row, keep you waiting, leak, long, long story, long story short, lose track of time, motor, on my way, pedal, pothole, pull over, running late, sorry to, sudden, train tracks, trip, was being, was being fixed
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ beneath, block, dashboard, frustrating, get a hold of, go wrong, in a row, keep 
 - **on my way / sorry to** — on my way = 我在路上了、我马上到：I'm on my way! / I'll be on my way soon。sorry to = 抱歉……：Sorry to keep you waiting. / Sorry to bother you. 例句：I'm on my way—sorry to keep you waiting! 注意 on my way 比 I'm coming 更常用、更自然。
 
 - **beneath / trip** — beneath = 在……下方（比 under 更正式）：beneath the bridge / beneath the train tracks / beneath the surface。trip = 这里指"绊倒"或"出行"：trip over something / a trip to the store / trip on the stairs。例句：I tripped over something beneath the dashboard. 注意 trip 做动词是"绊倒"，做名词是"旅行、出行"。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在机场，我听到了“beneath”。  
+   **英文**：At the airport, I heard "beneath".
+   > **解析**：本题在单元主题情境中复习表达 beneath。
+
+2. **中文**：我的旅伴解释了“get a hold of”。  
+   **英文**：My travel partner explained "get a hold of".
+   > **解析**：本题在单元主题情境中复习表达 get a hold of。
+
+3. **中文**：旅行途中，我们谈到了“keep you waiting”。  
+   **英文**：During the trip, we talked about "keep you waiting".
+   > **解析**：本题在单元主题情境中复习表达 keep you waiting。
+
+4. **中文**：在酒店里，我记下了“long story short”。  
+   **英文**：At the hotel, I wrote down "long story short".
+   > **解析**：本题在单元主题情境中复习表达 long story short。
+
+5. **中文**：旅行者清楚地重复了“pedal”。  
+   **英文**：The traveler repeated "pedal" clearly.
+   > **解析**：本题在单元主题情境中复习表达 pedal。
+
+6. **中文**：离开前，我查看了“running late”。  
+   **英文**：Before leaving, I checked "running late".
+   > **解析**：本题在单元主题情境中复习表达 running late。
+
+7. **中文**：在去那里的路上，我们用到了“trip”。  
+   **英文**：On the way there, we used "trip".
+   > **解析**：本题在单元主题情境中复习表达 trip。
+
+8. **中文**：到达后，我想起了“block”。  
+   **英文**：After arrival, I remembered "block".
+   > **解析**：本题在单元主题情境中复习表达 block。
+
+9. **中文**：导游指出了“go wrong”。  
+   **英文**：The guide pointed out "go wrong".
+   > **解析**：本题在单元主题情境中复习表达 go wrong。
+
+10. **中文**：那段旅行故事以“long”收尾。  
+   **英文**：That travel story ended with "long".
+   > **解析**：本题在单元主题情境中复习表达 long。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the airport, I heard "beneath".
+   > **中文**：在机场，我听到了“beneath”。
+2. My travel partner explained "get a hold of".
+   > **中文**：我的旅伴解释了“get a hold of”。
+3. During the trip, we talked about "keep you waiting".
+   > **中文**：旅行途中，我们谈到了“keep you waiting”。
+4. At the hotel, I wrote down "long story short".
+   > **中文**：在酒店里，我记下了“long story short”。
+5. The traveler repeated "pedal" clearly.
+   > **中文**：旅行者清楚地重复了“pedal”。
+6. Before leaving, I checked "running late".
+   > **中文**：离开前，我查看了“running late”。
+7. On the way there, we used "trip".
+   > **中文**：在去那里的路上，我们用到了“trip”。
+8. After arrival, I remembered "block".
+   > **中文**：到达后，我想起了“block”。
+9. The guide pointed out "go wrong".
+   > **中文**：导游指出了“go wrong”。
+10. That travel story ended with "long".
+   > **中文**：那段旅行故事以“long”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the airport, I heard "`____`".
+
+- [x] beneath
+- [ ] long story short
+- [ ] trip
+
+> **解析**：本题在单元主题情境中复习表达 beneath。
+
+### 2
+
+My travel partner explained "`____`".
+
+- [x] get a hold of
+- [ ] pedal
+- [ ] block
+
+> **解析**：本题在单元主题情境中复习表达 get a hold of。
+
+### 3
+
+During the trip, we talked about "`____`".
+
+- [x] keep you waiting
+- [ ] running late
+- [ ] go wrong
+
+> **解析**：本题在单元主题情境中复习表达 keep you waiting。
+
+### 4
+
+At the hotel, I wrote down "`____`".
+
+- [x] long story short
+- [ ] trip
+- [ ] long
+
+> **解析**：本题在单元主题情境中复习表达 long story short。
+
+### 5
+
+The traveler repeated "`____`" clearly.
+
+- [x] pedal
+- [ ] block
+- [ ] beneath
+
+> **解析**：本题在单元主题情境中复习表达 pedal。
+
+### 6
+
+Before leaving, I checked "`____`".
+
+- [x] running late
+- [ ] go wrong
+- [ ] get a hold of
+
+> **解析**：本题在单元主题情境中复习表达 running late。
+
+### 7
+
+On the way there, we used "`____`".
+
+- [x] trip
+- [ ] long
+- [ ] keep you waiting
+
+> **解析**：本题在单元主题情境中复习表达 trip。
+
+### 8
+
+After arrival, I remembered "`____`".
+
+- [x] block
+- [ ] beneath
+- [ ] long story short
+
+> **解析**：本题在单元主题情境中复习表达 block。
+
+### 9
+
+The guide pointed out "`____`".
+
+- [x] go wrong
+- [ ] get a hold of
+- [ ] pedal
+
+> **解析**：本题在单元主题情境中复习表达 go wrong。
+
+### 10
+
+That travel story ended with "`____`".
+
+- [x] long
+- [ ] keep you waiting
+- [ ] running late
+
+> **解析**：本题在单元主题情境中复习表达 long。
+
+</quiz-cloze>

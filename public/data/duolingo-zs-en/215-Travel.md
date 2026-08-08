@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 ahead of time, as, bed and breakfast, carry-on, central, check, come out, fasten, flight attendant, for, had, hadn't, help yourself to, how did, immigrant, out of order, permanent resident, reliable, room, select, self-service, separate, to, travels, with
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -31,3 +36,194 @@ had / hadn't 提示过去完成时（Had you reserved...? / I hadn't known...）
 - **help yourself to / come out / separate / travels** — help yourself to = 请自便、随便用（Help yourself to some coffee.）。come out = 出来、出版（The results came out. / The sun came out.）。separate = 分开的（separate rooms, keep them separate）。travels = 旅行经历（复数，较文学化：Tell me about your travels.）。
 
 - **as / for / to / with** — 功能介词。as = 作为（work as a flight attendant）。for = 为了（a room for two nights）。to = 到（fly to Paris）。with = 和、用（travel with friends / check in with an attendant）。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在机场，我听到了“ahead of time”。  
+   **英文**：At the airport, I heard "ahead of time".
+   > **解析**：本题在单元主题情境中复习表达 ahead of time。
+
+2. **中文**：我的旅伴解释了“central”。  
+   **英文**：My travel partner explained "central".
+   > **解析**：本题在单元主题情境中复习表达 central。
+
+3. **中文**：旅行途中，我们谈到了“fasten”。  
+   **英文**：During the trip, we talked about "fasten".
+   > **解析**：本题在单元主题情境中复习表达 fasten。
+
+4. **中文**：在酒店里，我记下了“help yourself to”。  
+   **英文**：At the hotel, I wrote down "help yourself to".
+   > **解析**：本题在单元主题情境中复习表达 help yourself to。
+
+5. **中文**：旅行者清楚地重复了“out of order”。  
+   **英文**：The traveler repeated "out of order" clearly.
+   > **解析**：本题在单元主题情境中复习表达 out of order。
+
+6. **中文**：离开前，我查看了“room”。  
+   **英文**：Before leaving, I checked "room".
+   > **解析**：本题在单元主题情境中复习表达 room。
+
+7. **中文**：在去那里的路上，我们用到了“separate”。  
+   **英文**：On the way there, we used "separate".
+   > **解析**：本题在单元主题情境中复习表达 separate。
+
+8. **中文**：到达后，我想起了“carry-on”。  
+   **英文**：After arrival, I remembered "carry-on".
+   > **解析**：本题在单元主题情境中复习表达 carry-on。
+
+9. **中文**：导游指出了“come out”。  
+   **英文**：The guide pointed out "come out".
+   > **解析**：本题在单元主题情境中复习表达 come out。
+
+10. **中文**：那段旅行故事以“had”收尾。  
+   **英文**：That travel story ended with "had".
+   > **解析**：本题在单元主题情境中复习表达 had。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the airport, I heard "ahead of time".
+   > **中文**：在机场，我听到了“ahead of time”。
+2. My travel partner explained "central".
+   > **中文**：我的旅伴解释了“central”。
+3. During the trip, we talked about "fasten".
+   > **中文**：旅行途中，我们谈到了“fasten”。
+4. At the hotel, I wrote down "help yourself to".
+   > **中文**：在酒店里，我记下了“help yourself to”。
+5. The traveler repeated "out of order" clearly.
+   > **中文**：旅行者清楚地重复了“out of order”。
+6. Before leaving, I checked "room".
+   > **中文**：离开前，我查看了“room”。
+7. On the way there, we used "separate".
+   > **中文**：在去那里的路上，我们用到了“separate”。
+8. After arrival, I remembered "carry-on".
+   > **中文**：到达后，我想起了“carry-on”。
+9. The guide pointed out "come out".
+   > **中文**：导游指出了“come out”。
+10. That travel story ended with "had".
+   > **中文**：那段旅行故事以“had”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the airport, I heard "`____`".
+
+- [x] ahead of time
+- [ ] help yourself to
+- [ ] separate
+
+> **解析**：本题在单元主题情境中复习表达 ahead of time。
+
+### 2
+
+My travel partner explained "`____`".
+
+- [x] central
+- [ ] out of order
+- [ ] carry-on
+
+> **解析**：本题在单元主题情境中复习表达 central。
+
+### 3
+
+During the trip, we talked about "`____`".
+
+- [x] fasten
+- [ ] room
+- [ ] come out
+
+> **解析**：本题在单元主题情境中复习表达 fasten。
+
+### 4
+
+At the hotel, I wrote down "`____`".
+
+- [x] help yourself to
+- [ ] separate
+- [ ] had
+
+> **解析**：本题在单元主题情境中复习表达 help yourself to。
+
+### 5
+
+The traveler repeated "`____`" clearly.
+
+- [x] out of order
+- [ ] carry-on
+- [ ] ahead of time
+
+> **解析**：本题在单元主题情境中复习表达 out of order。
+
+### 6
+
+Before leaving, I checked "`____`".
+
+- [x] room
+- [ ] come out
+- [ ] central
+
+> **解析**：本题在单元主题情境中复习表达 room。
+
+### 7
+
+On the way there, we used "`____`".
+
+- [x] separate
+- [ ] had
+- [ ] fasten
+
+> **解析**：本题在单元主题情境中复习表达 separate。
+
+### 8
+
+After arrival, I remembered "`____`".
+
+- [x] carry-on
+- [ ] ahead of time
+- [ ] help yourself to
+
+> **解析**：本题在单元主题情境中复习表达 carry-on。
+
+### 9
+
+The guide pointed out "`____`".
+
+- [x] come out
+- [ ] central
+- [ ] out of order
+
+> **解析**：本题在单元主题情境中复习表达 come out。
+
+### 10
+
+That travel story ended with "`____`".
+
+- [x] had
+- [ ] fasten
+- [ ] room
+
+> **解析**：本题在单元主题情境中复习表达 had。
+
+</quiz-cloze>

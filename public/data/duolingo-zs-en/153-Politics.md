@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 article, as, can't stand, currency, democracy, economy, election, environmental, former, had to, immigration, local, mean, meant, mention, not, politician, politics, shocking, speech, state, there could be, there might be, truth, vote
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ there could/might be 表推测。mean → meant（意思是）。
 
 - **environmental / economy / immigration** — 环境 / 经济 / 移民。搭配：environmental policy, boost the economy, immigration reform。例句：Environmental issues affect us all. / The economy needs help. / Immigration reform is needed. 注意这些是政治讨论中的热门话题。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“article”。  
+   **英文**：At home, we talked about "article".
+   > **解析**：本题在单元主题情境中复习表达 article。
+
+2. **中文**：家人提到了“economy”。  
+   **英文**：My family mentioned "economy".
+   > **解析**：本题在单元主题情境中复习表达 economy。
+
+3. **中文**：在房间里，我注意到了“former”。  
+   **英文**：In the room, I noticed "former".
+   > **解析**：本题在单元主题情境中复习表达 former。
+
+4. **中文**：我们在家里用到了“mean”。  
+   **英文**：We used "mean" at home.
+   > **解析**：本题在单元主题情境中复习表达 mean。
+
+5. **中文**：邻居询问了“not”。  
+   **英文**：My neighbor asked about "not".
+   > **解析**：本题在单元主题情境中复习表达 not。
+
+6. **中文**：我在门边写下了“speech”。  
+   **英文**：I wrote down "speech" by the door.
+   > **解析**：本题在单元主题情境中复习表达 speech。
+
+7. **中文**：晚饭后，我们重复了“there might be”。  
+   **英文**：After dinner, we repeated "there might be".
+   > **解析**：本题在单元主题情境中复习表达 there might be。
+
+8. **中文**：家庭故事里包含“can't stand”。  
+   **英文**：The family story included "can't stand".
+   > **解析**：本题在单元主题情境中复习表达 can't stand。
+
+9. **中文**：睡前，我记住了“election”。  
+   **英文**：Before bed, I remembered "election".
+   > **解析**：本题在单元主题情境中复习表达 election。
+
+10. **中文**：那个夜晚以“immigration”收尾。  
+   **英文**：That evening ended with "immigration".
+   > **解析**：本题在单元主题情境中复习表达 immigration。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "article".
+   > **中文**：在家里，我们谈到了“article”。
+2. My family mentioned "economy".
+   > **中文**：家人提到了“economy”。
+3. In the room, I noticed "former".
+   > **中文**：在房间里，我注意到了“former”。
+4. We used "mean" at home.
+   > **中文**：我们在家里用到了“mean”。
+5. My neighbor asked about "not".
+   > **中文**：邻居询问了“not”。
+6. I wrote down "speech" by the door.
+   > **中文**：我在门边写下了“speech”。
+7. After dinner, we repeated "there might be".
+   > **中文**：晚饭后，我们重复了“there might be”。
+8. The family story included "can't stand".
+   > **中文**：家庭故事里包含“can't stand”。
+9. Before bed, I remembered "election".
+   > **中文**：睡前，我记住了“election”。
+10. That evening ended with "immigration".
+   > **中文**：那个夜晚以“immigration”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] article
+- [ ] mean
+- [ ] there might be
+
+> **解析**：本题在单元主题情境中复习表达 article。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] economy
+- [ ] not
+- [ ] can't stand
+
+> **解析**：本题在单元主题情境中复习表达 economy。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] former
+- [ ] speech
+- [ ] election
+
+> **解析**：本题在单元主题情境中复习表达 former。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] mean
+- [ ] there might be
+- [ ] immigration
+
+> **解析**：本题在单元主题情境中复习表达 mean。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] not
+- [ ] can't stand
+- [ ] article
+
+> **解析**：本题在单元主题情境中复习表达 not。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] speech
+- [ ] election
+- [ ] economy
+
+> **解析**：本题在单元主题情境中复习表达 speech。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] there might be
+- [ ] immigration
+- [ ] former
+
+> **解析**：本题在单元主题情境中复习表达 there might be。
+
+### 8
+
+The family story included "`____`".
+
+- [x] can't stand
+- [ ] article
+- [ ] mean
+
+> **解析**：本题在单元主题情境中复习表达 can't stand。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] election
+- [ ] economy
+- [ ] not
+
+> **解析**：本题在单元主题情境中复习表达 election。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] immigration
+- [ ] former
+- [ ] speech
+
+> **解析**：本题在单元主题情境中复习表达 immigration。
+
+</quiz-cloze>

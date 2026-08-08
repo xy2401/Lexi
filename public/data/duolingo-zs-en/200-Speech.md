@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 announce, announcement, approximate, approximately, attention, by the time, in fact, kind, ladies and gentlemen, lead, led, look forward to, may I, necessary, pleasure, previous, previously, promise, speaker, toast, unkind, unnecessary, volunteer, when, within
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -31,3 +36,194 @@ lead → led 是不规则动词变化。approximate / approximately, kind / unki
 - **may I / attention / look forward to** — May I...? 是最正式的请求许可方式（May I have your attention?）。attention = 注意力（Pay attention! / May I have your attention?）。look forward to + 名词/动名词（I look forward to meeting you.），注意 to 是介词，后接 -ing。
 
 - **in fact / volunteer / promise / when** — in fact = 事实上（用于补充或纠正）。volunteer = 志愿者（名词）/ 自愿做（动词：I volunteered to help.）。promise = 承诺（I promise. / make a promise）。when 引导时间从句。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“announce”。  
+   **英文**：In this situation, I heard "announce".
+   > **解析**：本题在单元主题情境中复习表达 announce。
+
+2. **中文**：同伴解释了“attention”。  
+   **英文**：My partner explained "attention".
+   > **解析**：本题在单元主题情境中复习表达 attention。
+
+3. **中文**：我们一起谈到了“kind”。  
+   **英文**：We talked about "kind" together.
+   > **解析**：本题在单元主题情境中复习表达 kind。
+
+4. **中文**：我记下了“look forward to”。  
+   **英文**：I wrote down "look forward to".
+   > **解析**：本题在单元主题情境中复习表达 look forward to。
+
+5. **中文**：例句中包含“previous”。  
+   **英文**：The example included "previous".
+   > **解析**：本题在单元主题情境中复习表达 previous。
+
+6. **中文**：我询问了“speaker”。  
+   **英文**：I asked about "speaker".
+   > **解析**：本题在单元主题情境中复习表达 speaker。
+
+7. **中文**：我们在句子中用到了“volunteer”。  
+   **英文**：We used "volunteer" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 volunteer。
+
+8. **中文**：朋友重复了“announcement”。  
+   **英文**：My friend repeated "announcement".
+   > **解析**：本题在单元主题情境中复习表达 announcement。
+
+9. **中文**：后来，我记住了“by the time”。  
+   **英文**：Later, I remembered "by the time".
+   > **解析**：本题在单元主题情境中复习表达 by the time。
+
+10. **中文**：这个小故事以“lead”收尾。  
+   **英文**：The short story ended with "lead".
+   > **解析**：本题在单元主题情境中复习表达 lead。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "announce".
+   > **中文**：在这个情境中，我听到了“announce”。
+2. My partner explained "attention".
+   > **中文**：同伴解释了“attention”。
+3. We talked about "kind" together.
+   > **中文**：我们一起谈到了“kind”。
+4. I wrote down "look forward to".
+   > **中文**：我记下了“look forward to”。
+5. The example included "previous".
+   > **中文**：例句中包含“previous”。
+6. I asked about "speaker".
+   > **中文**：我询问了“speaker”。
+7. We used "volunteer" in a sentence.
+   > **中文**：我们在句子中用到了“volunteer”。
+8. My friend repeated "announcement".
+   > **中文**：朋友重复了“announcement”。
+9. Later, I remembered "by the time".
+   > **中文**：后来，我记住了“by the time”。
+10. The short story ended with "lead".
+   > **中文**：这个小故事以“lead”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] announce
+- [ ] look forward to
+- [ ] volunteer
+
+> **解析**：本题在单元主题情境中复习表达 announce。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] attention
+- [ ] previous
+- [ ] announcement
+
+> **解析**：本题在单元主题情境中复习表达 attention。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] kind
+- [ ] speaker
+- [ ] by the time
+
+> **解析**：本题在单元主题情境中复习表达 kind。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] look forward to
+- [ ] volunteer
+- [ ] lead
+
+> **解析**：本题在单元主题情境中复习表达 look forward to。
+
+### 5
+
+The example included "`____`".
+
+- [x] previous
+- [ ] announcement
+- [ ] announce
+
+> **解析**：本题在单元主题情境中复习表达 previous。
+
+### 6
+
+I asked about "`____`".
+
+- [x] speaker
+- [ ] by the time
+- [ ] attention
+
+> **解析**：本题在单元主题情境中复习表达 speaker。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] volunteer
+- [ ] lead
+- [ ] kind
+
+> **解析**：本题在单元主题情境中复习表达 volunteer。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] announcement
+- [ ] announce
+- [ ] look forward to
+
+> **解析**：本题在单元主题情境中复习表达 announcement。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] by the time
+- [ ] attention
+- [ ] previous
+
+> **解析**：本题在单元主题情境中复习表达 by the time。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] lead
+- [ ] kind
+- [ ] speaker
+
+> **解析**：本题在单元主题情境中复习表达 lead。
+
+</quiz-cloze>

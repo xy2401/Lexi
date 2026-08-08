@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 about, act, autograph, award, biography, director, does, extraordinary, gossip, laugh at, must, mystery, of all time, over, perfect for, recording, rock star, shocked, star in, the most, think, thinking
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -29,3 +34,194 @@ must 在这里表推测（"一定、肯定"），the most 构成最高级。laug
 - **rock star / recording / perfect for** — rock star = 摇滚明星。recording = 录音、唱片（a recording studio 录音棚）。perfect for = 非常适合（She's perfect for the part.）。搭配：cut/make a recording。
 
 - **over / about / think / thinking** — over 可表"关于"（a debate over money）或"结束"（The show is over.）。about 也表"关于"，但更泛。think 表观点（I think he's great.），thinking 强调正在思考的过程（I'm thinking about it.）。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“about”。  
+   **英文**：In this situation, I heard "about".
+   > **解析**：本题在单元主题情境中复习表达 about。
+
+2. **中文**：同伴解释了“award”。  
+   **英文**：My partner explained "award".
+   > **解析**：本题在单元主题情境中复习表达 award。
+
+3. **中文**：我们一起谈到了“extraordinary”。  
+   **英文**：We talked about "extraordinary" together.
+   > **解析**：本题在单元主题情境中复习表达 extraordinary。
+
+4. **中文**：我记下了“must”。  
+   **英文**：I wrote down "must".
+   > **解析**：本题在单元主题情境中复习表达 must。
+
+5. **中文**：例句中包含“over”。  
+   **英文**：The example included "over".
+   > **解析**：本题在单元主题情境中复习表达 over。
+
+6. **中文**：我询问了“shocked”。  
+   **英文**：I asked about "shocked".
+   > **解析**：本题在单元主题情境中复习表达 shocked。
+
+7. **中文**：我们在句子中用到了“think”。  
+   **英文**：We used "think" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 think。
+
+8. **中文**：朋友重复了“act”。  
+   **英文**：My friend repeated "act".
+   > **解析**：本题在单元主题情境中复习表达 act。
+
+9. **中文**：后来，我记住了“director”。  
+   **英文**：Later, I remembered "director".
+   > **解析**：本题在单元主题情境中复习表达 director。
+
+10. **中文**：这个小故事以“gossip”收尾。  
+   **英文**：The short story ended with "gossip".
+   > **解析**：本题在单元主题情境中复习表达 gossip。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "about".
+   > **中文**：在这个情境中，我听到了“about”。
+2. My partner explained "award".
+   > **中文**：同伴解释了“award”。
+3. We talked about "extraordinary" together.
+   > **中文**：我们一起谈到了“extraordinary”。
+4. I wrote down "must".
+   > **中文**：我记下了“must”。
+5. The example included "over".
+   > **中文**：例句中包含“over”。
+6. I asked about "shocked".
+   > **中文**：我询问了“shocked”。
+7. We used "think" in a sentence.
+   > **中文**：我们在句子中用到了“think”。
+8. My friend repeated "act".
+   > **中文**：朋友重复了“act”。
+9. Later, I remembered "director".
+   > **中文**：后来，我记住了“director”。
+10. The short story ended with "gossip".
+   > **中文**：这个小故事以“gossip”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] about
+- [ ] must
+- [ ] think
+
+> **解析**：本题在单元主题情境中复习表达 about。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] award
+- [ ] over
+- [ ] act
+
+> **解析**：本题在单元主题情境中复习表达 award。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] extraordinary
+- [ ] shocked
+- [ ] director
+
+> **解析**：本题在单元主题情境中复习表达 extraordinary。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] must
+- [ ] think
+- [ ] gossip
+
+> **解析**：本题在单元主题情境中复习表达 must。
+
+### 5
+
+The example included "`____`".
+
+- [x] over
+- [ ] act
+- [ ] about
+
+> **解析**：本题在单元主题情境中复习表达 over。
+
+### 6
+
+I asked about "`____`".
+
+- [x] shocked
+- [ ] director
+- [ ] award
+
+> **解析**：本题在单元主题情境中复习表达 shocked。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] think
+- [ ] gossip
+- [ ] extraordinary
+
+> **解析**：本题在单元主题情境中复习表达 think。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] act
+- [ ] about
+- [ ] must
+
+> **解析**：本题在单元主题情境中复习表达 act。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] director
+- [ ] award
+- [ ] over
+
+> **解析**：本题在单元主题情境中复习表达 director。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] gossip
+- [ ] extraordinary
+- [ ] shocked
+
+> **解析**：本题在单元主题情境中复习表达 gossip。
+
+</quiz-cloze>

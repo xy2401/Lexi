@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 availability, call in sick, cooperate, cut, decline, in the long run, itself, let go, move on, on top of, once, partner, performance, retirement, shift, spreadsheet, strategy, take, that reminds me, the point is that, the reason that, the thing is that, unacceptable, unreliable, what if
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -39,3 +44,194 @@ availability, call in sick, cooperate, cut, decline, in the long run, itself, le
 - **cooperate / partner** — cooperate 是合作（动词），partner 是合作伙伴（名词）。搭配：cooperate with, a business partner。We need to cooperate better. / Our partner is unreliable. 注意 cooperate 搭配 with：cooperate with the team。
 
 - **itself / once / take** — itself 是反身代词（它自己），once 是"一旦/曾经"，take 含义丰富。搭配：the problem itself, once we decide, take a shift。The strategy itself is fine. / Once we move on, things will improve. / I'll take the morning shift. 注意 once 作连词 = 一旦：Once you start, you can't stop.
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“availability”。  
+   **英文**：At work, we discussed "availability".
+   > **解析**：本题在单元主题情境中复习表达 availability。
+
+2. **中文**：同事提到了“decline”。  
+   **英文**：My coworker mentioned "decline".
+   > **解析**：本题在单元主题情境中复习表达 decline。
+
+3. **中文**：会议中，我听到了“let go”。  
+   **英文**：In the meeting, I heard "let go".
+   > **解析**：本题在单元主题情境中复习表达 let go。
+
+4. **中文**：我把“partner”写进了笔记。  
+   **英文**：I added "partner" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 partner。
+
+5. **中文**：经理解释了“spreadsheet”。  
+   **英文**：The manager explained "spreadsheet".
+   > **解析**：本题在单元主题情境中复习表达 spreadsheet。
+
+6. **中文**：团队今天用到了“that reminds me”。  
+   **英文**：Our team used "that reminds me" today.
+   > **解析**：本题在单元主题情境中复习表达 that reminds me。
+
+7. **中文**：午饭前，我们查看了“unacceptable”。  
+   **英文**：Before lunch, we checked "unacceptable".
+   > **解析**：本题在单元主题情境中复习表达 unacceptable。
+
+8. **中文**：同事询问了“call in sick”。  
+   **英文**：My colleague asked about "call in sick".
+   > **解析**：本题在单元主题情境中复习表达 call in sick。
+
+9. **中文**：报告中包含“in the long run”。  
+   **英文**：The report included "in the long run".
+   > **解析**：本题在单元主题情境中复习表达 in the long run。
+
+10. **中文**：一天结束时，我记住了“on top of”。  
+   **英文**：At the end of the day, I remembered "on top of".
+   > **解析**：本题在单元主题情境中复习表达 on top of。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "availability".
+   > **中文**：工作中，我们讨论了“availability”。
+2. My coworker mentioned "decline".
+   > **中文**：同事提到了“decline”。
+3. In the meeting, I heard "let go".
+   > **中文**：会议中，我听到了“let go”。
+4. I added "partner" to my notes.
+   > **中文**：我把“partner”写进了笔记。
+5. The manager explained "spreadsheet".
+   > **中文**：经理解释了“spreadsheet”。
+6. Our team used "that reminds me" today.
+   > **中文**：团队今天用到了“that reminds me”。
+7. Before lunch, we checked "unacceptable".
+   > **中文**：午饭前，我们查看了“unacceptable”。
+8. My colleague asked about "call in sick".
+   > **中文**：同事询问了“call in sick”。
+9. The report included "in the long run".
+   > **中文**：报告中包含“in the long run”。
+10. At the end of the day, I remembered "on top of".
+   > **中文**：一天结束时，我记住了“on top of”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] availability
+- [ ] partner
+- [ ] unacceptable
+
+> **解析**：本题在单元主题情境中复习表达 availability。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] decline
+- [ ] spreadsheet
+- [ ] call in sick
+
+> **解析**：本题在单元主题情境中复习表达 decline。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] let go
+- [ ] that reminds me
+- [ ] in the long run
+
+> **解析**：本题在单元主题情境中复习表达 let go。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] partner
+- [ ] unacceptable
+- [ ] on top of
+
+> **解析**：本题在单元主题情境中复习表达 partner。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] spreadsheet
+- [ ] call in sick
+- [ ] availability
+
+> **解析**：本题在单元主题情境中复习表达 spreadsheet。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] that reminds me
+- [ ] in the long run
+- [ ] decline
+
+> **解析**：本题在单元主题情境中复习表达 that reminds me。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] unacceptable
+- [ ] on top of
+- [ ] let go
+
+> **解析**：本题在单元主题情境中复习表达 unacceptable。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] call in sick
+- [ ] availability
+- [ ] partner
+
+> **解析**：本题在单元主题情境中复习表达 call in sick。
+
+### 9
+
+The report included "`____`".
+
+- [x] in the long run
+- [ ] decline
+- [ ] spreadsheet
+
+> **解析**：本题在单元主题情境中复习表达 in the long run。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] on top of
+- [ ] let go
+- [ ] that reminds me
+
+> **解析**：本题在单元主题情境中复习表达 on top of。
+
+</quiz-cloze>

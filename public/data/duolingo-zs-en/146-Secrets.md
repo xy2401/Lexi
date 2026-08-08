@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 according to, appear, at first, been, break into, by, by the time, criminal, destroy, grab, has been, have been, in secret, lie, notice, past, realize, scream, secret, shadow, she's, suddenly
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ has been / have been 是现在完成进行时。by the time 引导时间状语�
 
 - **shadow / scream / at first** — 影子 / 尖叫 / 起初。搭配：a shadow on the wall, let out a scream, at first glance。例句：I saw a shadow outside. / She let out a scream. / At first, everything seemed fine. 注意 at first 暗示后来情况变了。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“according to”。  
+   **英文**：At home, we talked about "according to".
+   > **解析**：本题在单元主题情境中复习表达 according to。
+
+2. **中文**：家人提到了“been”。  
+   **英文**：My family mentioned "been".
+   > **解析**：本题在单元主题情境中复习表达 been。
+
+3. **中文**：在房间里，我注意到了“criminal”。  
+   **英文**：In the room, I noticed "criminal".
+   > **解析**：本题在单元主题情境中复习表达 criminal。
+
+4. **中文**：我们在家里用到了“have been”。  
+   **英文**：We used "have been" at home.
+   > **解析**：本题在单元主题情境中复习表达 have been。
+
+5. **中文**：邻居询问了“notice”。  
+   **英文**：My neighbor asked about "notice".
+   > **解析**：本题在单元主题情境中复习表达 notice。
+
+6. **中文**：我在门边写下了“scream”。  
+   **英文**：I wrote down "scream" by the door.
+   > **解析**：本题在单元主题情境中复习表达 scream。
+
+7. **中文**：晚饭后，我们重复了“she's”。  
+   **英文**：After dinner, we repeated "she's".
+   > **解析**：本题在单元主题情境中复习表达 she's。
+
+8. **中文**：家庭故事里包含“at first”。  
+   **英文**：The family story included "at first".
+   > **解析**：本题在单元主题情境中复习表达 at first。
+
+9. **中文**：睡前，我记住了“by the time”。  
+   **英文**：Before bed, I remembered "by the time".
+   > **解析**：本题在单元主题情境中复习表达 by the time。
+
+10. **中文**：那个夜晚以“grab”收尾。  
+   **英文**：That evening ended with "grab".
+   > **解析**：本题在单元主题情境中复习表达 grab。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "according to".
+   > **中文**：在家里，我们谈到了“according to”。
+2. My family mentioned "been".
+   > **中文**：家人提到了“been”。
+3. In the room, I noticed "criminal".
+   > **中文**：在房间里，我注意到了“criminal”。
+4. We used "have been" at home.
+   > **中文**：我们在家里用到了“have been”。
+5. My neighbor asked about "notice".
+   > **中文**：邻居询问了“notice”。
+6. I wrote down "scream" by the door.
+   > **中文**：我在门边写下了“scream”。
+7. After dinner, we repeated "she's".
+   > **中文**：晚饭后，我们重复了“she's”。
+8. The family story included "at first".
+   > **中文**：家庭故事里包含“at first”。
+9. Before bed, I remembered "by the time".
+   > **中文**：睡前，我记住了“by the time”。
+10. That evening ended with "grab".
+   > **中文**：那个夜晚以“grab”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] according to
+- [ ] have been
+- [ ] she's
+
+> **解析**：本题在单元主题情境中复习表达 according to。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] been
+- [ ] notice
+- [ ] at first
+
+> **解析**：本题在单元主题情境中复习表达 been。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] criminal
+- [ ] scream
+- [ ] by the time
+
+> **解析**：本题在单元主题情境中复习表达 criminal。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] have been
+- [ ] she's
+- [ ] grab
+
+> **解析**：本题在单元主题情境中复习表达 have been。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] notice
+- [ ] at first
+- [ ] according to
+
+> **解析**：本题在单元主题情境中复习表达 notice。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] scream
+- [ ] by the time
+- [ ] been
+
+> **解析**：本题在单元主题情境中复习表达 scream。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] she's
+- [ ] grab
+- [ ] criminal
+
+> **解析**：本题在单元主题情境中复习表达 she's。
+
+### 8
+
+The family story included "`____`".
+
+- [x] at first
+- [ ] according to
+- [ ] have been
+
+> **解析**：本题在单元主题情境中复习表达 at first。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] by the time
+- [ ] been
+- [ ] notice
+
+> **解析**：本题在单元主题情境中复习表达 by the time。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] grab
+- [ ] criminal
+- [ ] scream
+
+> **解析**：本题在单元主题情境中复习表达 grab。
+
+</quiz-cloze>

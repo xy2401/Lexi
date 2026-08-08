@@ -7,17 +7,28 @@
 import { ref, computed, watch, nextTick } from 'vue'
 import { useTTS } from '../composables/useTTS'
 import type { WordEntry } from '../lib/db'
+import { CORRECT_ADVANCE_MS, WRONG_ADVANCE_MS } from '../lib/quiz-timing'
 
-const props = defineProps<{
+type Mode = 'match' | 'spell' | 'translate'
+
+const props = withDefaults(defineProps<{
   words: string[]
   entries: WordEntry[]
+  initialMode?: Mode
+  singleMode?: boolean
+}>(), {
+  initialMode: 'match',
+  singleMode: false,
+})
+
+const emit = defineEmits<{
+  complete: []
 }>()
 
 const { speak } = useTTS()
 
 // ========== 模式 & 阶段 ==========
-type Mode = 'match' | 'spell' | 'translate'
-const mode = ref<Mode>('match')
+const mode = ref<Mode>(props.initialMode)
 const phase = ref<'playing' | 'result'>('playing')
 
 // ========== 题目队列 ==========
@@ -86,12 +97,11 @@ function makeHint(word: string): string {
 
 // ========== 轮次初始化 ==========
 function startRound() {
-  const wordPool = shuffle(props.words).slice(0, Math.min(8, props.words.length))
-
-  // translate 模式只取有翻译的词
-  const pool = mode.value === 'translate'
-    ? wordPool.filter(w => getTranslation(w))
-    : wordPool
+  // 每一关至少抽 10 题；中文选词先过滤可用释义，避免随机抽样后题量缩水。
+  const candidates = mode.value === 'translate'
+    ? shuffle(props.words).filter(word => getTranslation(word))
+    : shuffle(props.words)
+  const pool = candidates.slice(0, Math.min(10, candidates.length))
 
   if (pool.length === 0) return
 
@@ -128,6 +138,7 @@ function resetAnswerState() {
 // ========== 答题逻辑 ==========
 function handleOptionClick(option: string) {
   if (transitioning.value) return
+  if (mode.value === 'translate') speak(option)
   selectedOption.value = option
   totalAttempts.value++
 
@@ -140,7 +151,7 @@ function handleOptionClick(option: string) {
     }
     answeredCount.value++
     transitioning.value = true
-    setTimeout(() => advance(), 600)
+    setTimeout(() => advance(), CORRECT_ADVANCE_MS)
   } else {
     wrongWords.value.add(currentQuestion.value!.word)
     showAnswer.value = true
@@ -148,7 +159,7 @@ function handleOptionClick(option: string) {
     // 错题插入队列末尾
     queue.value.push({ ...currentQuestion.value! })
     totalQuestions.value++
-    setTimeout(() => advance(), 1200)
+    setTimeout(() => advance(), WRONG_ADVANCE_MS)
   }
 }
 
@@ -165,7 +176,7 @@ function handleSpellSubmit() {
     }
     answeredCount.value++
     transitioning.value = true
-    setTimeout(() => advance(), 600)
+    setTimeout(() => advance(), CORRECT_ADVANCE_MS)
   } else {
     isCorrect.value = false
     wrongWords.value.add(currentQuestion.value!.word)
@@ -173,7 +184,7 @@ function handleSpellSubmit() {
     transitioning.value = true
     queue.value.push({ ...currentQuestion.value! })
     totalQuestions.value++
-    setTimeout(() => advance(), 1500)
+    setTimeout(() => advance(), WRONG_ADVANCE_MS)
   }
 }
 
@@ -181,6 +192,7 @@ function advance() {
   currentIndex.value++
   if (currentIndex.value >= queue.value.length) {
     phase.value = 'result'
+    emit('complete')
     return
   }
   resetAnswerState()
@@ -217,7 +229,7 @@ const accuracy = computed(() => {
 <template>
   <div class="practice-panel">
     <!-- 模式切换 -->
-    <div class="mode-switcher">
+    <div v-if="!singleMode" class="mode-switcher">
       <button :class="['mode-btn', { active: mode === 'match' }]" @click="switchMode('match')">发音配对</button>
       <button :class="['mode-btn', { active: mode === 'spell' }]" @click="switchMode('spell')">发音填写</button>
       <button :class="['mode-btn', { active: mode === 'translate' }]" @click="switchMode('translate')">中文选词</button>

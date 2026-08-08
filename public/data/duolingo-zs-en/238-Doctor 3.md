@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 ache, act, as if, as though, bite, bruise, cautious, have, honey, itch, pass out, recovery, severe, suffer, sweat, the chills, unconscious, upset, vision, waiting room, weakness, wear off, wound, wrap
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -39,3 +44,194 @@ ache, act, as if, as though, bite, bruise, cautious, have, honey, itch, pass out
 - **honey** — 蜂蜜；亲爱的（昵称）。搭配：a spoon of honey, Hey honey。Honey can help a sore throat. / Are you okay, honey? 注意 honey 作昵称时非常亲密，用于家人或伴侣之间。
 
 - **have** — 在医疗语境中表"有（症状）"。搭配：have a fever, have the chills, have a bruise。I have a severe headache. / She has a wound on her arm. 注意英语说 have a cold / have the flu，不说 × I am cold（那是"我觉得冷"）。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在诊所里，我听到了“ache”。  
+   **英文**：At the clinic, I heard "ache".
+   > **解析**：本题在单元主题情境中复习表达 ache。
+
+2. **中文**：医生解释了“bite”。  
+   **英文**：The doctor explained "bite".
+   > **解析**：本题在单元主题情境中复习表达 bite。
+
+3. **中文**：我们认真谈到了“have”。  
+   **英文**：We talked about "have" carefully.
+   > **解析**：本题在单元主题情境中复习表达 have。
+
+4. **中文**：我把“recovery”写进健康笔记。  
+   **英文**：I wrote "recovery" in my health notes.
+   > **解析**：本题在单元主题情境中复习表达 recovery。
+
+5. **中文**：护士重复了“sweat”。  
+   **英文**：The nurse repeated "sweat".
+   > **解析**：本题在单元主题情境中复习表达 sweat。
+
+6. **中文**：朋友询问了“vision”。  
+   **英文**：My friend asked about "vision".
+   > **解析**：本题在单元主题情境中复习表达 vision。
+
+7. **中文**：建议中包含“wear off”。  
+   **英文**：The advice included "wear off".
+   > **解析**：本题在单元主题情境中复习表达 wear off。
+
+8. **中文**：就诊后，我记住了“act”。  
+   **英文**：After the visit, I remembered "act".
+   > **解析**：本题在单元主题情境中复习表达 act。
+
+9. **中文**：我们在对话中用到了“bruise”。  
+   **英文**：We used "bruise" in the conversation.
+   > **解析**：本题在单元主题情境中复习表达 bruise。
+
+10. **中文**：那次健康交流以“itch”收尾。  
+   **英文**：That health talk ended with "itch".
+   > **解析**：本题在单元主题情境中复习表达 itch。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the clinic, I heard "ache".
+   > **中文**：在诊所里，我听到了“ache”。
+2. The doctor explained "bite".
+   > **中文**：医生解释了“bite”。
+3. We talked about "have" carefully.
+   > **中文**：我们认真谈到了“have”。
+4. I wrote "recovery" in my health notes.
+   > **中文**：我把“recovery”写进健康笔记。
+5. The nurse repeated "sweat".
+   > **中文**：护士重复了“sweat”。
+6. My friend asked about "vision".
+   > **中文**：朋友询问了“vision”。
+7. The advice included "wear off".
+   > **中文**：建议中包含“wear off”。
+8. After the visit, I remembered "act".
+   > **中文**：就诊后，我记住了“act”。
+9. We used "bruise" in the conversation.
+   > **中文**：我们在对话中用到了“bruise”。
+10. That health talk ended with "itch".
+   > **中文**：那次健康交流以“itch”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the clinic, I heard "`____`".
+
+- [x] ache
+- [ ] recovery
+- [ ] wear off
+
+> **解析**：本题在单元主题情境中复习表达 ache。
+
+### 2
+
+The doctor explained "`____`".
+
+- [x] bite
+- [ ] sweat
+- [ ] act
+
+> **解析**：本题在单元主题情境中复习表达 bite。
+
+### 3
+
+We talked about "`____`" carefully.
+
+- [x] have
+- [ ] vision
+- [ ] bruise
+
+> **解析**：本题在单元主题情境中复习表达 have。
+
+### 4
+
+I wrote "`____`" in my health notes.
+
+- [x] recovery
+- [ ] wear off
+- [ ] itch
+
+> **解析**：本题在单元主题情境中复习表达 recovery。
+
+### 5
+
+The nurse repeated "`____`".
+
+- [x] sweat
+- [ ] act
+- [ ] ache
+
+> **解析**：本题在单元主题情境中复习表达 sweat。
+
+### 6
+
+My friend asked about "`____`".
+
+- [x] vision
+- [ ] bruise
+- [ ] bite
+
+> **解析**：本题在单元主题情境中复习表达 vision。
+
+### 7
+
+The advice included "`____`".
+
+- [x] wear off
+- [ ] itch
+- [ ] have
+
+> **解析**：本题在单元主题情境中复习表达 wear off。
+
+### 8
+
+After the visit, I remembered "`____`".
+
+- [x] act
+- [ ] ache
+- [ ] recovery
+
+> **解析**：本题在单元主题情境中复习表达 act。
+
+### 9
+
+We used "`____`" in the conversation.
+
+- [x] bruise
+- [ ] bite
+- [ ] sweat
+
+> **解析**：本题在单元主题情境中复习表达 bruise。
+
+### 10
+
+That health talk ended with "`____`".
+
+- [x] itch
+- [ ] have
+- [ ] vision
+
+> **解析**：本题在单元主题情境中复习表达 itch。
+
+</quiz-cloze>

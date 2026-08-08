@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 Buddhist, Christian, Hindu, Jewish, Muslim, atheist, become, believe in, bible, catholic, cross, death, doubt, ghost, god, goddess, had, happiness, lives, prayer, priest, religious, respect, return, take, temple
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -31,3 +36,194 @@ Buddhist, Christian, Hindu, Jewish, Muslim, atheist, become, believe in, bible, 
 - **had / become / return / lives** — had 在此构成过去完成时：She had become a Buddhist before I met her. become = 变成。return 可指"回归"：return to her faith. lives 是 life 的复数（注意发音变化：/laɪvz/）。
 
 - **happiness / take** — happiness = 幸福（happy → happiness，变 y 为 i 加 -ness）。take 在宗教语境中可能搭配 take part in（参加）或 take a prayer（做一次祈祷）。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“Buddhist”。  
+   **英文**：In this situation, I heard "Buddhist".
+   > **解析**：本题在单元主题情境中复习表达 Buddhist。
+
+2. **中文**：同伴解释了“Muslim”。  
+   **英文**：My partner explained "Muslim".
+   > **解析**：本题在单元主题情境中复习表达 Muslim。
+
+3. **中文**：我们一起谈到了“bible”。  
+   **英文**：We talked about "bible" together.
+   > **解析**：本题在单元主题情境中复习表达 bible。
+
+4. **中文**：我记下了“death”。  
+   **英文**：I wrote down "death".
+   > **解析**：本题在单元主题情境中复习表达 death。
+
+5. **中文**：例句中包含“goddess”。  
+   **英文**：The example included "goddess".
+   > **解析**：本题在单元主题情境中复习表达 goddess。
+
+6. **中文**：我询问了“prayer”。  
+   **英文**：I asked about "prayer".
+   > **解析**：本题在单元主题情境中复习表达 prayer。
+
+7. **中文**：我们在句子中用到了“return”。  
+   **英文**：We used "return" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 return。
+
+8. **中文**：朋友重复了“Christian”。  
+   **英文**：My friend repeated "Christian".
+   > **解析**：本题在单元主题情境中复习表达 Christian。
+
+9. **中文**：后来，我记住了“atheist”。  
+   **英文**：Later, I remembered "atheist".
+   > **解析**：本题在单元主题情境中复习表达 atheist。
+
+10. **中文**：这个小故事以“catholic”收尾。  
+   **英文**：The short story ended with "catholic".
+   > **解析**：本题在单元主题情境中复习表达 catholic。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "Buddhist".
+   > **中文**：在这个情境中，我听到了“Buddhist”。
+2. My partner explained "Muslim".
+   > **中文**：同伴解释了“Muslim”。
+3. We talked about "bible" together.
+   > **中文**：我们一起谈到了“bible”。
+4. I wrote down "death".
+   > **中文**：我记下了“death”。
+5. The example included "goddess".
+   > **中文**：例句中包含“goddess”。
+6. I asked about "prayer".
+   > **中文**：我询问了“prayer”。
+7. We used "return" in a sentence.
+   > **中文**：我们在句子中用到了“return”。
+8. My friend repeated "Christian".
+   > **中文**：朋友重复了“Christian”。
+9. Later, I remembered "atheist".
+   > **中文**：后来，我记住了“atheist”。
+10. The short story ended with "catholic".
+   > **中文**：这个小故事以“catholic”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] Buddhist
+- [ ] death
+- [ ] return
+
+> **解析**：本题在单元主题情境中复习表达 Buddhist。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] Muslim
+- [ ] goddess
+- [ ] Christian
+
+> **解析**：本题在单元主题情境中复习表达 Muslim。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] bible
+- [ ] prayer
+- [ ] atheist
+
+> **解析**：本题在单元主题情境中复习表达 bible。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] death
+- [ ] return
+- [ ] catholic
+
+> **解析**：本题在单元主题情境中复习表达 death。
+
+### 5
+
+The example included "`____`".
+
+- [x] goddess
+- [ ] Christian
+- [ ] Buddhist
+
+> **解析**：本题在单元主题情境中复习表达 goddess。
+
+### 6
+
+I asked about "`____`".
+
+- [x] prayer
+- [ ] atheist
+- [ ] Muslim
+
+> **解析**：本题在单元主题情境中复习表达 prayer。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] return
+- [ ] catholic
+- [ ] bible
+
+> **解析**：本题在单元主题情境中复习表达 return。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] Christian
+- [ ] Buddhist
+- [ ] death
+
+> **解析**：本题在单元主题情境中复习表达 Christian。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] atheist
+- [ ] Muslim
+- [ ] goddess
+
+> **解析**：本题在单元主题情境中复习表达 atheist。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] catholic
+- [ ] bible
+- [ ] prayer
+
+> **解析**：本题在单元主题情境中复习表达 catholic。
+
+</quiz-cloze>

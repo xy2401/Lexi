@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 appearance, barbershop, cut, do, dye, expert, forehead, get, hairstyle, lip, makeup done, nail, nail polish, nails done, pierced, piercing, powder, remove, salon, stylish, tattoo
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -29,3 +34,194 @@ get + 过去分词（get my hair cut, get my nails done）是"使役/被动"结�
 - **remove / expert / stylish / appearance** — remove = 去除（remove a tattoo / remove makeup）。expert = 专家（She's an expert at coloring.）。stylish = 时髦的（a stylish haircut）。appearance = 外表、外貌（care about your appearance）。
 
 - **get / do** — get 在本单元大量出现于"get + 名词 + 过去分词"结构：get my hair cut, get my nails done, get my ears pierced。这表示"请别人做"而非自己做。do 类似：do my hair, do my makeup。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“appearance”。  
+   **英文**：At home, we talked about "appearance".
+   > **解析**：本题在单元主题情境中复习表达 appearance。
+
+2. **中文**：家人提到了“dye”。  
+   **英文**：My family mentioned "dye".
+   > **解析**：本题在单元主题情境中复习表达 dye。
+
+3. **中文**：在房间里，我注意到了“get”。  
+   **英文**：In the room, I noticed "get".
+   > **解析**：本题在单元主题情境中复习表达 get。
+
+4. **中文**：我们在家里用到了“makeup done”。  
+   **英文**：We used "makeup done" at home.
+   > **解析**：本题在单元主题情境中复习表达 makeup done。
+
+5. **中文**：邻居询问了“nails done”。  
+   **英文**：My neighbor asked about "nails done".
+   > **解析**：本题在单元主题情境中复习表达 nails done。
+
+6. **中文**：我在门边写下了“remove”。  
+   **英文**：I wrote down "remove" by the door.
+   > **解析**：本题在单元主题情境中复习表达 remove。
+
+7. **中文**：晚饭后，我们重复了“tattoo”。  
+   **英文**：After dinner, we repeated "tattoo".
+   > **解析**：本题在单元主题情境中复习表达 tattoo。
+
+8. **中文**：家庭故事里包含“cut”。  
+   **英文**：The family story included "cut".
+   > **解析**：本题在单元主题情境中复习表达 cut。
+
+9. **中文**：睡前，我记住了“forehead”。  
+   **英文**：Before bed, I remembered "forehead".
+   > **解析**：本题在单元主题情境中复习表达 forehead。
+
+10. **中文**：那个夜晚以“lip”收尾。  
+   **英文**：That evening ended with "lip".
+   > **解析**：本题在单元主题情境中复习表达 lip。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "appearance".
+   > **中文**：在家里，我们谈到了“appearance”。
+2. My family mentioned "dye".
+   > **中文**：家人提到了“dye”。
+3. In the room, I noticed "get".
+   > **中文**：在房间里，我注意到了“get”。
+4. We used "makeup done" at home.
+   > **中文**：我们在家里用到了“makeup done”。
+5. My neighbor asked about "nails done".
+   > **中文**：邻居询问了“nails done”。
+6. I wrote down "remove" by the door.
+   > **中文**：我在门边写下了“remove”。
+7. After dinner, we repeated "tattoo".
+   > **中文**：晚饭后，我们重复了“tattoo”。
+8. The family story included "cut".
+   > **中文**：家庭故事里包含“cut”。
+9. Before bed, I remembered "forehead".
+   > **中文**：睡前，我记住了“forehead”。
+10. That evening ended with "lip".
+   > **中文**：那个夜晚以“lip”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] appearance
+- [ ] makeup done
+- [ ] tattoo
+
+> **解析**：本题在单元主题情境中复习表达 appearance。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] dye
+- [ ] nails done
+- [ ] cut
+
+> **解析**：本题在单元主题情境中复习表达 dye。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] get
+- [ ] remove
+- [ ] forehead
+
+> **解析**：本题在单元主题情境中复习表达 get。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] makeup done
+- [ ] tattoo
+- [ ] lip
+
+> **解析**：本题在单元主题情境中复习表达 makeup done。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] nails done
+- [ ] cut
+- [ ] appearance
+
+> **解析**：本题在单元主题情境中复习表达 nails done。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] remove
+- [ ] forehead
+- [ ] dye
+
+> **解析**：本题在单元主题情境中复习表达 remove。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] tattoo
+- [ ] lip
+- [ ] get
+
+> **解析**：本题在单元主题情境中复习表达 tattoo。
+
+### 8
+
+The family story included "`____`".
+
+- [x] cut
+- [ ] appearance
+- [ ] makeup done
+
+> **解析**：本题在单元主题情境中复习表达 cut。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] forehead
+- [ ] dye
+- [ ] nails done
+
+> **解析**：本题在单元主题情境中复习表达 forehead。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] lip
+- [ ] get
+- [ ] remove
+
+> **解析**：本题在单元主题情境中复习表达 lip。
+
+</quiz-cloze>

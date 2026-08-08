@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 appreciate, attitude, awesome, delighted, elderly, expect, friendship, future, generous, grateful, handle, it is, it was nice of you to, make, positive, promise, proud, puppy, somehow, sweet, unexpected, watch
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -33,3 +38,194 @@ handle 和 somehow 给场景加了一点叙事感——事情本来不好处理�
 - **elderly / puppy / watch** — elderly 是"年老的"的礼貌说法，比 old 更得体。puppy 是小狗（成年犬是 dog）。watch 在这里不是"看"，而是"照看、看管"：watch my puppy = 帮我照看小狗。
 
 - **friendship / future / make** — friendship 由 friend + -ship 构成，-ship 表示状态或关系（类似 leadership, membership）。make 在此搭配 make a promise / make the future better。in the future 是固定搭配。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：聚会上，我听到了“appreciate”。  
+   **英文**：At the gathering, I heard "appreciate".
+   > **解析**：本题在单元主题情境中复习表达 appreciate。
+
+2. **中文**：朋友说了“delighted”。  
+   **英文**：My friend said "delighted".
+   > **解析**：本题在单元主题情境中复习表达 delighted。
+
+3. **中文**：我们一起谈到了“future”。  
+   **英文**：We talked about "future" together.
+   > **解析**：本题在单元主题情境中复习表达 future。
+
+4. **中文**：有人向我解释了“handle”。  
+   **英文**：Someone explained "handle" to me.
+   > **解析**：本题在单元主题情境中复习表达 handle。
+
+5. **中文**：我用“make”作了回应。  
+   **英文**：I replied with "make".
+   > **解析**：本题在单元主题情境中复习表达 make。
+
+6. **中文**：对话中包含“puppy”。  
+   **英文**：The conversation included "puppy".
+   > **解析**：本题在单元主题情境中复习表达 puppy。
+
+7. **中文**：同伴重复了“unexpected”。  
+   **英文**：My partner repeated "unexpected".
+   > **解析**：本题在单元主题情境中复习表达 unexpected。
+
+8. **中文**：我们聊到“attitude”时笑了。  
+   **英文**：We laughed about "attitude".
+   > **解析**：本题在单元主题情境中复习表达 attitude。
+
+9. **中文**：离开前，我记住了“expect”。  
+   **英文**：Before leaving, I remembered "expect".
+   > **解析**：本题在单元主题情境中复习表达 expect。
+
+10. **中文**：那段对话以“generous”收尾。  
+   **英文**：That conversation ended with "generous".
+   > **解析**：本题在单元主题情境中复习表达 generous。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the gathering, I heard "appreciate".
+   > **中文**：聚会上，我听到了“appreciate”。
+2. My friend said "delighted".
+   > **中文**：朋友说了“delighted”。
+3. We talked about "future" together.
+   > **中文**：我们一起谈到了“future”。
+4. Someone explained "handle" to me.
+   > **中文**：有人向我解释了“handle”。
+5. I replied with "make".
+   > **中文**：我用“make”作了回应。
+6. The conversation included "puppy".
+   > **中文**：对话中包含“puppy”。
+7. My partner repeated "unexpected".
+   > **中文**：同伴重复了“unexpected”。
+8. We laughed about "attitude".
+   > **中文**：我们聊到“attitude”时笑了。
+9. Before leaving, I remembered "expect".
+   > **中文**：离开前，我记住了“expect”。
+10. That conversation ended with "generous".
+   > **中文**：那段对话以“generous”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the gathering, I heard "`____`".
+
+- [x] appreciate
+- [ ] handle
+- [ ] unexpected
+
+> **解析**：本题在单元主题情境中复习表达 appreciate。
+
+### 2
+
+My friend said "`____`".
+
+- [x] delighted
+- [ ] make
+- [ ] attitude
+
+> **解析**：本题在单元主题情境中复习表达 delighted。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] future
+- [ ] puppy
+- [ ] expect
+
+> **解析**：本题在单元主题情境中复习表达 future。
+
+### 4
+
+Someone explained "`____`" to me.
+
+- [x] handle
+- [ ] unexpected
+- [ ] generous
+
+> **解析**：本题在单元主题情境中复习表达 handle。
+
+### 5
+
+I replied with "`____`".
+
+- [x] make
+- [ ] attitude
+- [ ] appreciate
+
+> **解析**：本题在单元主题情境中复习表达 make。
+
+### 6
+
+The conversation included "`____`".
+
+- [x] puppy
+- [ ] expect
+- [ ] delighted
+
+> **解析**：本题在单元主题情境中复习表达 puppy。
+
+### 7
+
+My partner repeated "`____`".
+
+- [x] unexpected
+- [ ] generous
+- [ ] future
+
+> **解析**：本题在单元主题情境中复习表达 unexpected。
+
+### 8
+
+We laughed about "`____`".
+
+- [x] attitude
+- [ ] appreciate
+- [ ] handle
+
+> **解析**：本题在单元主题情境中复习表达 attitude。
+
+### 9
+
+Before leaving, I remembered "`____`".
+
+- [x] expect
+- [ ] delighted
+- [ ] make
+
+> **解析**：本题在单元主题情境中复习表达 expect。
+
+### 10
+
+That conversation ended with "`____`".
+
+- [x] generous
+- [ ] future
+- [ ] puppy
+
+> **解析**：本题在单元主题情境中复习表达 generous。
+
+</quiz-cloze>

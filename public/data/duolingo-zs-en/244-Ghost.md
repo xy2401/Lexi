@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 abandon, by, chimney, crawl, fall apart, flashlight, footstep, get away, had, had been, haunted, it was no use, know better, make for, off, panic, peculiar, sensation, skeleton, spirit, think through, tight, winding
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -58,3 +63,193 @@ had been 是过去完成进行时，用来讲"在那之前一直在做什么"，
 
 - **off** — 本单元中 likely 出现在 the flashlight went off（手电筒灭了）。go off 可以指"熄灭""响起""爆炸"，含义丰富。off 本身表"离开、关闭"，是英语中最灵活的小词之一。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“abandon”。  
+   **英文**：At home, we talked about "abandon".
+   > **解析**：本题在单元主题情境中复习表达 abandon。
+
+2. **中文**：家人提到了“fall apart”。  
+   **英文**：My family mentioned "fall apart".
+   > **解析**：本题在单元主题情境中复习表达 fall apart。
+
+3. **中文**：在房间里，我注意到了“had”。  
+   **英文**：In the room, I noticed "had".
+   > **解析**：本题在单元主题情境中复习表达 had。
+
+4. **中文**：我们在家里用到了“it was no use”。  
+   **英文**：We used "it was no use" at home.
+   > **解析**：本题在单元主题情境中复习表达 it was no use。
+
+5. **中文**：邻居询问了“off”。  
+   **英文**：My neighbor asked about "off".
+   > **解析**：本题在单元主题情境中复习表达 off。
+
+6. **中文**：我在门边写下了“skeleton”。  
+   **英文**：I wrote down "skeleton" by the door.
+   > **解析**：本题在单元主题情境中复习表达 skeleton。
+
+7. **中文**：晚饭后，我们重复了“tight”。  
+   **英文**：After dinner, we repeated "tight".
+   > **解析**：本题在单元主题情境中复习表达 tight。
+
+8. **中文**：家庭故事里包含“chimney”。  
+   **英文**：The family story included "chimney".
+   > **解析**：本题在单元主题情境中复习表达 chimney。
+
+9. **中文**：睡前，我记住了“footstep”。  
+   **英文**：Before bed, I remembered "footstep".
+   > **解析**：本题在单元主题情境中复习表达 footstep。
+
+10. **中文**：那个夜晚以“had been”收尾。  
+   **英文**：That evening ended with "had been".
+   > **解析**：本题在单元主题情境中复习表达 had been。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "abandon".
+   > **中文**：在家里，我们谈到了“abandon”。
+2. My family mentioned "fall apart".
+   > **中文**：家人提到了“fall apart”。
+3. In the room, I noticed "had".
+   > **中文**：在房间里，我注意到了“had”。
+4. We used "it was no use" at home.
+   > **中文**：我们在家里用到了“it was no use”。
+5. My neighbor asked about "off".
+   > **中文**：邻居询问了“off”。
+6. I wrote down "skeleton" by the door.
+   > **中文**：我在门边写下了“skeleton”。
+7. After dinner, we repeated "tight".
+   > **中文**：晚饭后，我们重复了“tight”。
+8. The family story included "chimney".
+   > **中文**：家庭故事里包含“chimney”。
+9. Before bed, I remembered "footstep".
+   > **中文**：睡前，我记住了“footstep”。
+10. That evening ended with "had been".
+   > **中文**：那个夜晚以“had been”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] abandon
+- [ ] it was no use
+- [ ] tight
+
+> **解析**：本题在单元主题情境中复习表达 abandon。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] fall apart
+- [ ] off
+- [ ] chimney
+
+> **解析**：本题在单元主题情境中复习表达 fall apart。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] had
+- [ ] skeleton
+- [ ] footstep
+
+> **解析**：本题在单元主题情境中复习表达 had。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] it was no use
+- [ ] tight
+- [ ] had been
+
+> **解析**：本题在单元主题情境中复习表达 it was no use。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] off
+- [ ] chimney
+- [ ] abandon
+
+> **解析**：本题在单元主题情境中复习表达 off。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] skeleton
+- [ ] footstep
+- [ ] fall apart
+
+> **解析**：本题在单元主题情境中复习表达 skeleton。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] tight
+- [ ] had been
+- [ ] had
+
+> **解析**：本题在单元主题情境中复习表达 tight。
+
+### 8
+
+The family story included "`____`".
+
+- [x] chimney
+- [ ] abandon
+- [ ] it was no use
+
+> **解析**：本题在单元主题情境中复习表达 chimney。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] footstep
+- [ ] fall apart
+- [ ] off
+
+> **解析**：本题在单元主题情境中复习表达 footstep。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] had been
+- [ ] had
+- [ ] skeleton
+
+> **解析**：本题在单元主题情境中复习表达 had been。
+
+</quiz-cloze>

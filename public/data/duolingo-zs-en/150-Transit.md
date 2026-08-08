@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 back, busy, close by, come with, crosswalk, drive, driven, drop, drop off, exit, get around, get stuck, lane, on the way to, pick up, rush hour, slow down, slowed, sped up, speed limit, speed up, stop sign, traffic jam, traffic light, watch out
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ pick up（接人）vs drop off（送人）。get stuck = 被困住。
 
 - **drop off / pick up / on the way to** — 送达 / 接人 / 在路上。搭配：drop off at, pick up from, on the way to。例句：Drop me off at the corner. / Pick me up from school. / It's on the way to my house. 注意这三个是搭车场景核心短语。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在机场，我听到了“back”。  
+   **英文**：At the airport, I heard "back".
+   > **解析**：本题在单元主题情境中复习表达 back。
+
+2. **中文**：我的旅伴解释了“crosswalk”。  
+   **英文**：My travel partner explained "crosswalk".
+   > **解析**：本题在单元主题情境中复习表达 crosswalk。
+
+3. **中文**：旅行途中，我们谈到了“drop”。  
+   **英文**：During the trip, we talked about "drop".
+   > **解析**：本题在单元主题情境中复习表达 drop。
+
+4. **中文**：在酒店里，我记下了“get stuck”。  
+   **英文**：At the hotel, I wrote down "get stuck".
+   > **解析**：本题在单元主题情境中复习表达 get stuck。
+
+5. **中文**：旅行者清楚地重复了“rush hour”。  
+   **英文**：The traveler repeated "rush hour" clearly.
+   > **解析**：本题在单元主题情境中复习表达 rush hour。
+
+6. **中文**：离开前，我查看了“sped up”。  
+   **英文**：Before leaving, I checked "sped up".
+   > **解析**：本题在单元主题情境中复习表达 sped up。
+
+7. **中文**：在去那里的路上，我们用到了“traffic jam”。  
+   **英文**：On the way there, we used "traffic jam".
+   > **解析**：本题在单元主题情境中复习表达 traffic jam。
+
+8. **中文**：到达后，我想起了“busy”。  
+   **英文**：After arrival, I remembered "busy".
+   > **解析**：本题在单元主题情境中复习表达 busy。
+
+9. **中文**：导游指出了“drive”。  
+   **英文**：The guide pointed out "drive".
+   > **解析**：本题在单元主题情境中复习表达 drive。
+
+10. **中文**：那段旅行故事以“exit”收尾。  
+   **英文**：That travel story ended with "exit".
+   > **解析**：本题在单元主题情境中复习表达 exit。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the airport, I heard "back".
+   > **中文**：在机场，我听到了“back”。
+2. My travel partner explained "crosswalk".
+   > **中文**：我的旅伴解释了“crosswalk”。
+3. During the trip, we talked about "drop".
+   > **中文**：旅行途中，我们谈到了“drop”。
+4. At the hotel, I wrote down "get stuck".
+   > **中文**：在酒店里，我记下了“get stuck”。
+5. The traveler repeated "rush hour" clearly.
+   > **中文**：旅行者清楚地重复了“rush hour”。
+6. Before leaving, I checked "sped up".
+   > **中文**：离开前，我查看了“sped up”。
+7. On the way there, we used "traffic jam".
+   > **中文**：在去那里的路上，我们用到了“traffic jam”。
+8. After arrival, I remembered "busy".
+   > **中文**：到达后，我想起了“busy”。
+9. The guide pointed out "drive".
+   > **中文**：导游指出了“drive”。
+10. That travel story ended with "exit".
+   > **中文**：那段旅行故事以“exit”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the airport, I heard "`____`".
+
+- [x] back
+- [ ] get stuck
+- [ ] traffic jam
+
+> **解析**：本题在单元主题情境中复习表达 back。
+
+### 2
+
+My travel partner explained "`____`".
+
+- [x] crosswalk
+- [ ] rush hour
+- [ ] busy
+
+> **解析**：本题在单元主题情境中复习表达 crosswalk。
+
+### 3
+
+During the trip, we talked about "`____`".
+
+- [x] drop
+- [ ] sped up
+- [ ] drive
+
+> **解析**：本题在单元主题情境中复习表达 drop。
+
+### 4
+
+At the hotel, I wrote down "`____`".
+
+- [x] get stuck
+- [ ] traffic jam
+- [ ] exit
+
+> **解析**：本题在单元主题情境中复习表达 get stuck。
+
+### 5
+
+The traveler repeated "`____`" clearly.
+
+- [x] rush hour
+- [ ] busy
+- [ ] back
+
+> **解析**：本题在单元主题情境中复习表达 rush hour。
+
+### 6
+
+Before leaving, I checked "`____`".
+
+- [x] sped up
+- [ ] drive
+- [ ] crosswalk
+
+> **解析**：本题在单元主题情境中复习表达 sped up。
+
+### 7
+
+On the way there, we used "`____`".
+
+- [x] traffic jam
+- [ ] exit
+- [ ] drop
+
+> **解析**：本题在单元主题情境中复习表达 traffic jam。
+
+### 8
+
+After arrival, I remembered "`____`".
+
+- [x] busy
+- [ ] back
+- [ ] get stuck
+
+> **解析**：本题在单元主题情境中复习表达 busy。
+
+### 9
+
+The guide pointed out "`____`".
+
+- [x] drive
+- [ ] crosswalk
+- [ ] rush hour
+
+> **解析**：本题在单元主题情境中复习表达 drive。
+
+### 10
+
+That travel story ended with "`____`".
+
+- [x] exit
+- [ ] drop
+- [ ] sped up
+
+> **解析**：本题在单元主题情境中复习表达 exit。
+
+</quiz-cloze>

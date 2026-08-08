@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 a certain, absolutely, as far as I'm concerned, be able to, can, come up with, could, deadline, deserve, excited to, expected to, feel free, figure out, flexibility, get started, likely to, ly, may, next step, qualification, scheduled to, should, timing, will, without a doubt
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ a certain, absolutely, as far as I'm concerned, be able to, can, come up with, c
 - **ly** — 副词后缀。大多数形容词加 -ly 变副词：quick → quickly, absolute → absolutely。注意例外：friendly 是形容词不是副词；likely 既可作形容词也可作副词。以 -ly 结尾的不一定是副词。
 
 - **next step** — 下一步。搭配：the next step, take the next step。What's the next step? / The next step is to figure out the timing. 职场中常用于推进项目或面试流程。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“a certain”。  
+   **英文**：At work, we discussed "a certain".
+   > **解析**：本题在单元主题情境中复习表达 a certain。
+
+2. **中文**：同事提到了“can”。  
+   **英文**：My coworker mentioned "can".
+   > **解析**：本题在单元主题情境中复习表达 can。
+
+3. **中文**：会议中，我听到了“deadline”。  
+   **英文**：In the meeting, I heard "deadline".
+   > **解析**：本题在单元主题情境中复习表达 deadline。
+
+4. **中文**：我把“feel free”写进了笔记。  
+   **英文**：I added "feel free" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 feel free。
+
+5. **中文**：经理解释了“likely to”。  
+   **英文**：The manager explained "likely to".
+   > **解析**：本题在单元主题情境中复习表达 likely to。
+
+6. **中文**：团队今天用到了“next step”。  
+   **英文**：Our team used "next step" today.
+   > **解析**：本题在单元主题情境中复习表达 next step。
+
+7. **中文**：午饭前，我们查看了“timing”。  
+   **英文**：Before lunch, we checked "timing".
+   > **解析**：本题在单元主题情境中复习表达 timing。
+
+8. **中文**：同事询问了“absolutely”。  
+   **英文**：My colleague asked about "absolutely".
+   > **解析**：本题在单元主题情境中复习表达 absolutely。
+
+9. **中文**：报告中包含“come up with”。  
+   **英文**：The report included "come up with".
+   > **解析**：本题在单元主题情境中复习表达 come up with。
+
+10. **中文**：一天结束时，我记住了“excited to”。  
+   **英文**：At the end of the day, I remembered "excited to".
+   > **解析**：本题在单元主题情境中复习表达 excited to。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "a certain".
+   > **中文**：工作中，我们讨论了“a certain”。
+2. My coworker mentioned "can".
+   > **中文**：同事提到了“can”。
+3. In the meeting, I heard "deadline".
+   > **中文**：会议中，我听到了“deadline”。
+4. I added "feel free" to my notes.
+   > **中文**：我把“feel free”写进了笔记。
+5. The manager explained "likely to".
+   > **中文**：经理解释了“likely to”。
+6. Our team used "next step" today.
+   > **中文**：团队今天用到了“next step”。
+7. Before lunch, we checked "timing".
+   > **中文**：午饭前，我们查看了“timing”。
+8. My colleague asked about "absolutely".
+   > **中文**：同事询问了“absolutely”。
+9. The report included "come up with".
+   > **中文**：报告中包含“come up with”。
+10. At the end of the day, I remembered "excited to".
+   > **中文**：一天结束时，我记住了“excited to”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] a certain
+- [ ] feel free
+- [ ] timing
+
+> **解析**：本题在单元主题情境中复习表达 a certain。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] can
+- [ ] likely to
+- [ ] absolutely
+
+> **解析**：本题在单元主题情境中复习表达 can。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] deadline
+- [ ] next step
+- [ ] come up with
+
+> **解析**：本题在单元主题情境中复习表达 deadline。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] feel free
+- [ ] timing
+- [ ] excited to
+
+> **解析**：本题在单元主题情境中复习表达 feel free。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] likely to
+- [ ] absolutely
+- [ ] a certain
+
+> **解析**：本题在单元主题情境中复习表达 likely to。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] next step
+- [ ] come up with
+- [ ] can
+
+> **解析**：本题在单元主题情境中复习表达 next step。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] timing
+- [ ] excited to
+- [ ] deadline
+
+> **解析**：本题在单元主题情境中复习表达 timing。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] absolutely
+- [ ] a certain
+- [ ] feel free
+
+> **解析**：本题在单元主题情境中复习表达 absolutely。
+
+### 9
+
+The report included "`____`".
+
+- [x] come up with
+- [ ] can
+- [ ] likely to
+
+> **解析**：本题在单元主题情境中复习表达 come up with。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] excited to
+- [ ] deadline
+- [ ] next step
+
+> **解析**：本题在单元主题情境中复习表达 excited to。
+
+</quiz-cloze>

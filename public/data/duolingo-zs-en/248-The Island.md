@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 aircraft, circumstance, concern, crab, deadly, despite the fact that, encounter, faulty, for days on end, go through, head for, hurricane, in spite of, in spite of the fact that, injured, investigate, native, pass the time, rope, shelter, shipwreck, smoke, suffering, survive, that
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -60,3 +65,193 @@ despite the fact that / in spite of / in spite of the fact that 是三个表"尽
 
 - **concern** — "担忧、关切"。搭配：a cause for concern / express concern。动词：I'm concerned about them. 比 worry 更正式。形容词 concerned（担心的/相关的）。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“aircraft”。  
+   **英文**：In this situation, I heard "aircraft".
+   > **解析**：本题在单元主题情境中复习表达 aircraft。
+
+2. **中文**：同伴解释了“deadly”。  
+   **英文**：My partner explained "deadly".
+   > **解析**：本题在单元主题情境中复习表达 deadly。
+
+3. **中文**：我们一起谈到了“faulty”。  
+   **英文**：We talked about "faulty" together.
+   > **解析**：本题在单元主题情境中复习表达 faulty。
+
+4. **中文**：我记下了“hurricane”。  
+   **英文**：I wrote down "hurricane".
+   > **解析**：本题在单元主题情境中复习表达 hurricane。
+
+5. **中文**：例句中包含“injured”。  
+   **英文**：The example included "injured".
+   > **解析**：本题在单元主题情境中复习表达 injured。
+
+6. **中文**：我询问了“rope”。  
+   **英文**：I asked about "rope".
+   > **解析**：本题在单元主题情境中复习表达 rope。
+
+7. **中文**：我们在句子中用到了“smoke”。  
+   **英文**：We used "smoke" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 smoke。
+
+8. **中文**：朋友重复了“circumstance”。  
+   **英文**：My friend repeated "circumstance".
+   > **解析**：本题在单元主题情境中复习表达 circumstance。
+
+9. **中文**：后来，我记住了“despite the fact that”。  
+   **英文**：Later, I remembered "despite the fact that".
+   > **解析**：本题在单元主题情境中复习表达 despite the fact that。
+
+10. **中文**：这个小故事以“go through”收尾。  
+   **英文**：The short story ended with "go through".
+   > **解析**：本题在单元主题情境中复习表达 go through。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "aircraft".
+   > **中文**：在这个情境中，我听到了“aircraft”。
+2. My partner explained "deadly".
+   > **中文**：同伴解释了“deadly”。
+3. We talked about "faulty" together.
+   > **中文**：我们一起谈到了“faulty”。
+4. I wrote down "hurricane".
+   > **中文**：我记下了“hurricane”。
+5. The example included "injured".
+   > **中文**：例句中包含“injured”。
+6. I asked about "rope".
+   > **中文**：我询问了“rope”。
+7. We used "smoke" in a sentence.
+   > **中文**：我们在句子中用到了“smoke”。
+8. My friend repeated "circumstance".
+   > **中文**：朋友重复了“circumstance”。
+9. Later, I remembered "despite the fact that".
+   > **中文**：后来，我记住了“despite the fact that”。
+10. The short story ended with "go through".
+   > **中文**：这个小故事以“go through”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] aircraft
+- [ ] hurricane
+- [ ] smoke
+
+> **解析**：本题在单元主题情境中复习表达 aircraft。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] deadly
+- [ ] injured
+- [ ] circumstance
+
+> **解析**：本题在单元主题情境中复习表达 deadly。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] faulty
+- [ ] rope
+- [ ] despite the fact that
+
+> **解析**：本题在单元主题情境中复习表达 faulty。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] hurricane
+- [ ] smoke
+- [ ] go through
+
+> **解析**：本题在单元主题情境中复习表达 hurricane。
+
+### 5
+
+The example included "`____`".
+
+- [x] injured
+- [ ] circumstance
+- [ ] aircraft
+
+> **解析**：本题在单元主题情境中复习表达 injured。
+
+### 6
+
+I asked about "`____`".
+
+- [x] rope
+- [ ] despite the fact that
+- [ ] deadly
+
+> **解析**：本题在单元主题情境中复习表达 rope。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] smoke
+- [ ] go through
+- [ ] faulty
+
+> **解析**：本题在单元主题情境中复习表达 smoke。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] circumstance
+- [ ] aircraft
+- [ ] hurricane
+
+> **解析**：本题在单元主题情境中复习表达 circumstance。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] despite the fact that
+- [ ] deadly
+- [ ] injured
+
+> **解析**：本题在单元主题情境中复习表达 despite the fact that。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] go through
+- [ ] faulty
+- [ ] rope
+
+> **解析**：本题在单元主题情境中复习表达 go through。
+
+</quiz-cloze>

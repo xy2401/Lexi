@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 age, capture, charm, designed, draw your attention to, exhibit, formerly, heritage, highlight, in particular, masterpiece, monument, must-see, noteworthy, on display, portrait, pottery, site, the most famous ones, these ones, those ones, tour, tower
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ age, capture, charm, designed, draw your attention to, exhibit, formerly, herita
 - **designed** — 设计（过去分词）。搭配：designed by / designed to / carefully designed。例句：The monument was designed by a famous architect. 注意 design 做动词和名词都可以：a design / to design。过去分词 designed 常用于被动语态描述建筑和艺术品的创作。
 
 - **must-see** — 必看的、不可错过的。复合形容词，有连字符。搭配：a must-see attraction / a must-see exhibit / this is a must-see。例句：The heritage site is a must-see for history lovers. 口语中也可以做名词：This museum is a real must-see. 类似构词：must-read（必读）、must-try（必试）。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在机场，我听到了“age”。  
+   **英文**：At the airport, I heard "age".
+   > **解析**：本题在单元主题情境中复习表达 age。
+
+2. **中文**：我的旅伴解释了“designed”。  
+   **英文**：My travel partner explained "designed".
+   > **解析**：本题在单元主题情境中复习表达 designed。
+
+3. **中文**：旅行途中，我们谈到了“heritage”。  
+   **英文**：During the trip, we talked about "heritage".
+   > **解析**：本题在单元主题情境中复习表达 heritage。
+
+4. **中文**：在酒店里，我记下了“masterpiece”。  
+   **英文**：At the hotel, I wrote down "masterpiece".
+   > **解析**：本题在单元主题情境中复习表达 masterpiece。
+
+5. **中文**：旅行者清楚地重复了“on display”。  
+   **英文**：The traveler repeated "on display" clearly.
+   > **解析**：本题在单元主题情境中复习表达 on display。
+
+6. **中文**：离开前，我查看了“site”。  
+   **英文**：Before leaving, I checked "site".
+   > **解析**：本题在单元主题情境中复习表达 site。
+
+7. **中文**：在去那里的路上，我们用到了“tour”。  
+   **英文**：On the way there, we used "tour".
+   > **解析**：本题在单元主题情境中复习表达 tour。
+
+8. **中文**：到达后，我想起了“capture”。  
+   **英文**：After arrival, I remembered "capture".
+   > **解析**：本题在单元主题情境中复习表达 capture。
+
+9. **中文**：导游指出了“exhibit”。  
+   **英文**：The guide pointed out "exhibit".
+   > **解析**：本题在单元主题情境中复习表达 exhibit。
+
+10. **中文**：那段旅行故事以“highlight”收尾。  
+   **英文**：That travel story ended with "highlight".
+   > **解析**：本题在单元主题情境中复习表达 highlight。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the airport, I heard "age".
+   > **中文**：在机场，我听到了“age”。
+2. My travel partner explained "designed".
+   > **中文**：我的旅伴解释了“designed”。
+3. During the trip, we talked about "heritage".
+   > **中文**：旅行途中，我们谈到了“heritage”。
+4. At the hotel, I wrote down "masterpiece".
+   > **中文**：在酒店里，我记下了“masterpiece”。
+5. The traveler repeated "on display" clearly.
+   > **中文**：旅行者清楚地重复了“on display”。
+6. Before leaving, I checked "site".
+   > **中文**：离开前，我查看了“site”。
+7. On the way there, we used "tour".
+   > **中文**：在去那里的路上，我们用到了“tour”。
+8. After arrival, I remembered "capture".
+   > **中文**：到达后，我想起了“capture”。
+9. The guide pointed out "exhibit".
+   > **中文**：导游指出了“exhibit”。
+10. That travel story ended with "highlight".
+   > **中文**：那段旅行故事以“highlight”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the airport, I heard "`____`".
+
+- [x] age
+- [ ] masterpiece
+- [ ] tour
+
+> **解析**：本题在单元主题情境中复习表达 age。
+
+### 2
+
+My travel partner explained "`____`".
+
+- [x] designed
+- [ ] on display
+- [ ] capture
+
+> **解析**：本题在单元主题情境中复习表达 designed。
+
+### 3
+
+During the trip, we talked about "`____`".
+
+- [x] heritage
+- [ ] site
+- [ ] exhibit
+
+> **解析**：本题在单元主题情境中复习表达 heritage。
+
+### 4
+
+At the hotel, I wrote down "`____`".
+
+- [x] masterpiece
+- [ ] tour
+- [ ] highlight
+
+> **解析**：本题在单元主题情境中复习表达 masterpiece。
+
+### 5
+
+The traveler repeated "`____`" clearly.
+
+- [x] on display
+- [ ] capture
+- [ ] age
+
+> **解析**：本题在单元主题情境中复习表达 on display。
+
+### 6
+
+Before leaving, I checked "`____`".
+
+- [x] site
+- [ ] exhibit
+- [ ] designed
+
+> **解析**：本题在单元主题情境中复习表达 site。
+
+### 7
+
+On the way there, we used "`____`".
+
+- [x] tour
+- [ ] highlight
+- [ ] heritage
+
+> **解析**：本题在单元主题情境中复习表达 tour。
+
+### 8
+
+After arrival, I remembered "`____`".
+
+- [x] capture
+- [ ] age
+- [ ] masterpiece
+
+> **解析**：本题在单元主题情境中复习表达 capture。
+
+### 9
+
+The guide pointed out "`____`".
+
+- [x] exhibit
+- [ ] designed
+- [ ] on display
+
+> **解析**：本题在单元主题情境中复习表达 exhibit。
+
+### 10
+
+That travel story ended with "`____`".
+
+- [x] highlight
+- [ ] heritage
+- [ ] site
+
+> **解析**：本题在单元主题情境中复习表达 highlight。
+
+</quiz-cloze>

@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 clear up, compared to, ever, find it, flood, freezing, frost, get cold, humidity, issue, it'd, it's, out there, percent chance of, rainbow, seasonal, shady, sledding, snow day, sunlight, sure to, tornado, turn, will, will be
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ clear up, compared to, ever, find it, flood, freezing, frost, get cold, humidity
 - **seasonal / shady** — seasonal 是季节性的，shady 是阴凉的/可疑的。搭配：seasonal changes, a shady spot。In the shady areas, you might find frost. 注意 shady 有双重含义：字面"有阴凉的"和比喻"可疑的"（a shady deal）。
 
 - **rainbow / ever** — rainbow 是彩虹，ever 是"曾经/究竟"。搭配：see a rainbow, have you ever seen...。Have you ever seen a rainbow after a tornado? ever 在问句中表"曾经"，在比较级中表"比以往"：better than ever。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“clear up”。  
+   **英文**：In this situation, I heard "clear up".
+   > **解析**：本题在单元主题情境中复习表达 clear up。
+
+2. **中文**：同伴解释了“flood”。  
+   **英文**：My partner explained "flood".
+   > **解析**：本题在单元主题情境中复习表达 flood。
+
+3. **中文**：我们一起谈到了“get cold”。  
+   **英文**：We talked about "get cold" together.
+   > **解析**：本题在单元主题情境中复习表达 get cold。
+
+4. **中文**：我记下了“it's”。  
+   **英文**：I wrote down "it's".
+   > **解析**：本题在单元主题情境中复习表达 it's。
+
+5. **中文**：例句中包含“seasonal”。  
+   **英文**：The example included "seasonal".
+   > **解析**：本题在单元主题情境中复习表达 seasonal。
+
+6. **中文**：我询问了“snow day”。  
+   **英文**：I asked about "snow day".
+   > **解析**：本题在单元主题情境中复习表达 snow day。
+
+7. **中文**：我们在句子中用到了“turn”。  
+   **英文**：We used "turn" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 turn。
+
+8. **中文**：朋友重复了“compared to”。  
+   **英文**：My friend repeated "compared to".
+   > **解析**：本题在单元主题情境中复习表达 compared to。
+
+9. **中文**：后来，我记住了“freezing”。  
+   **英文**：Later, I remembered "freezing".
+   > **解析**：本题在单元主题情境中复习表达 freezing。
+
+10. **中文**：这个小故事以“issue”收尾。  
+   **英文**：The short story ended with "issue".
+   > **解析**：本题在单元主题情境中复习表达 issue。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "clear up".
+   > **中文**：在这个情境中，我听到了“clear up”。
+2. My partner explained "flood".
+   > **中文**：同伴解释了“flood”。
+3. We talked about "get cold" together.
+   > **中文**：我们一起谈到了“get cold”。
+4. I wrote down "it's".
+   > **中文**：我记下了“it's”。
+5. The example included "seasonal".
+   > **中文**：例句中包含“seasonal”。
+6. I asked about "snow day".
+   > **中文**：我询问了“snow day”。
+7. We used "turn" in a sentence.
+   > **中文**：我们在句子中用到了“turn”。
+8. My friend repeated "compared to".
+   > **中文**：朋友重复了“compared to”。
+9. Later, I remembered "freezing".
+   > **中文**：后来，我记住了“freezing”。
+10. The short story ended with "issue".
+   > **中文**：这个小故事以“issue”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] clear up
+- [ ] it's
+- [ ] turn
+
+> **解析**：本题在单元主题情境中复习表达 clear up。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] flood
+- [ ] seasonal
+- [ ] compared to
+
+> **解析**：本题在单元主题情境中复习表达 flood。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] get cold
+- [ ] snow day
+- [ ] freezing
+
+> **解析**：本题在单元主题情境中复习表达 get cold。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] it's
+- [ ] turn
+- [ ] issue
+
+> **解析**：本题在单元主题情境中复习表达 it's。
+
+### 5
+
+The example included "`____`".
+
+- [x] seasonal
+- [ ] compared to
+- [ ] clear up
+
+> **解析**：本题在单元主题情境中复习表达 seasonal。
+
+### 6
+
+I asked about "`____`".
+
+- [x] snow day
+- [ ] freezing
+- [ ] flood
+
+> **解析**：本题在单元主题情境中复习表达 snow day。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] turn
+- [ ] issue
+- [ ] get cold
+
+> **解析**：本题在单元主题情境中复习表达 turn。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] compared to
+- [ ] clear up
+- [ ] it's
+
+> **解析**：本题在单元主题情境中复习表达 compared to。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] freezing
+- [ ] flood
+- [ ] seasonal
+
+> **解析**：本题在单元主题情境中复习表达 freezing。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] issue
+- [ ] get cold
+- [ ] snow day
+
+> **解析**：本题在单元主题情境中复习表达 issue。
+
+</quiz-cloze>

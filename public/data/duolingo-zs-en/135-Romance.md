@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 avoid, break up, calm, careless, clever, date, definitely, helpful, how, in a hurry, kid, make, nightclub, nightlife, over, patient, pay attention, quiet, romantic, social, what, where, who, why
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ break up 表示"分手"。pay attention to 表示"注意"。
 
 - **break up / nightlife / definitely** — 分手 / 夜生活 / 肯定。搭配：break up, enjoy the nightlife, definitely。例句：They broke up after two years. / The nightlife is amazing here. / I definitely want to see her again.
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在餐厅里，我询问了“avoid”。  
+   **英文**：At the restaurant, I asked about "avoid".
+   > **解析**：本题在单元主题情境中复习表达 avoid。
+
+2. **中文**：菜单上有“clever”。  
+   **英文**：The menu included "clever".
+   > **解析**：本题在单元主题情境中复习表达 clever。
+
+3. **中文**：在餐桌旁，我们谈到了“helpful”。  
+   **英文**：At the table, we talked about "helpful".
+   > **解析**：本题在单元主题情境中复习表达 helpful。
+
+4. **中文**：厨师提到了“make”。  
+   **英文**：The cook mentioned "make".
+   > **解析**：本题在单元主题情境中复习表达 make。
+
+5. **中文**：晚餐我点了“over”。  
+   **英文**：I ordered "over" for dinner.
+   > **解析**：本题在单元主题情境中复习表达 over。
+
+6. **中文**：我的朋友选择了“romantic”。  
+   **英文**：My friend chose "romantic".
+   > **解析**：本题在单元主题情境中复习表达 romantic。
+
+7. **中文**：服务员重复了“where”。  
+   **英文**：The waiter repeated "where".
+   > **解析**：本题在单元主题情境中复习表达 where。
+
+8. **中文**：我们分享了一个关于“break up”的故事。  
+   **英文**：We shared a story about "break up".
+   > **解析**：本题在单元主题情境中复习表达 break up。
+
+9. **中文**：饭后，我记住了“date”。  
+   **英文**：After the meal, I remembered "date".
+   > **解析**：本题在单元主题情境中复习表达 date。
+
+10. **中文**：那顿饭以“in a hurry”收尾。  
+   **英文**：That meal ended with "in a hurry".
+   > **解析**：本题在单元主题情境中复习表达 in a hurry。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the restaurant, I asked about "avoid".
+   > **中文**：在餐厅里，我询问了“avoid”。
+2. The menu included "clever".
+   > **中文**：菜单上有“clever”。
+3. At the table, we talked about "helpful".
+   > **中文**：在餐桌旁，我们谈到了“helpful”。
+4. The cook mentioned "make".
+   > **中文**：厨师提到了“make”。
+5. I ordered "over" for dinner.
+   > **中文**：晚餐我点了“over”。
+6. My friend chose "romantic".
+   > **中文**：我的朋友选择了“romantic”。
+7. The waiter repeated "where".
+   > **中文**：服务员重复了“where”。
+8. We shared a story about "break up".
+   > **中文**：我们分享了一个关于“break up”的故事。
+9. After the meal, I remembered "date".
+   > **中文**：饭后，我记住了“date”。
+10. That meal ended with "in a hurry".
+   > **中文**：那顿饭以“in a hurry”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the restaurant, I asked about "`____`".
+
+- [x] avoid
+- [ ] make
+- [ ] where
+
+> **解析**：本题在单元主题情境中复习表达 avoid。
+
+### 2
+
+The menu included "`____`".
+
+- [x] clever
+- [ ] over
+- [ ] break up
+
+> **解析**：本题在单元主题情境中复习表达 clever。
+
+### 3
+
+At the table, we talked about "`____`".
+
+- [x] helpful
+- [ ] romantic
+- [ ] date
+
+> **解析**：本题在单元主题情境中复习表达 helpful。
+
+### 4
+
+The cook mentioned "`____`".
+
+- [x] make
+- [ ] where
+- [ ] in a hurry
+
+> **解析**：本题在单元主题情境中复习表达 make。
+
+### 5
+
+I ordered "`____`" for dinner.
+
+- [x] over
+- [ ] break up
+- [ ] avoid
+
+> **解析**：本题在单元主题情境中复习表达 over。
+
+### 6
+
+My friend chose "`____`".
+
+- [x] romantic
+- [ ] date
+- [ ] clever
+
+> **解析**：本题在单元主题情境中复习表达 romantic。
+
+### 7
+
+The waiter repeated "`____`".
+
+- [x] where
+- [ ] in a hurry
+- [ ] helpful
+
+> **解析**：本题在单元主题情境中复习表达 where。
+
+### 8
+
+We shared a story about "`____`".
+
+- [x] break up
+- [ ] avoid
+- [ ] make
+
+> **解析**：本题在单元主题情境中复习表达 break up。
+
+### 9
+
+After the meal, I remembered "`____`".
+
+- [x] date
+- [ ] clever
+- [ ] over
+
+> **解析**：本题在单元主题情境中复习表达 date。
+
+### 10
+
+That meal ended with "`____`".
+
+- [x] in a hurry
+- [ ] helpful
+- [ ] romantic
+
+> **解析**：本题在单元主题情境中复习表达 in a hurry。
+
+</quiz-cloze>

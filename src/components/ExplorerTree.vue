@@ -2,11 +2,14 @@
 /**
  * ExplorerTree - 词典浏览
  * 本地模式：A-Z 直接过滤 IndexedDB（无需二级前缀）
- * 远端模式：A-Z → 二级前缀 → fetch 分片 .db
+ * 远端模式：A-Z → 两字符语义分片 → HTTP Range 分页查询
  */
 import { ref, computed } from 'vue'
-import { listShardWords } from '../lib/remote-db'
+import { listDictionaryShard, type DictionaryResult } from '../lib/remote-db'
 import { cacheWords, getLocalWordsByLetter, db, type WordEntry } from '../lib/db'
+import { useDictStore } from '../stores/dict'
+
+const dictStore = useDictStore()
 
 const emit = defineEmits<{
   'select-word': [word: string]
@@ -20,6 +23,9 @@ const LOCAL_LETTERS = 'abcdefghijklmnopqrstuvwxyz_'.split('')
 const localLetter = ref<string | null>(null)
 const localWordList = ref<WordEntry[]>([])
 const localLoading = ref(false)
+const filteredLocalWordList = computed(() => (
+  localWordList.value.filter(word => dictStore.matchesTagFilter(word.tags))
+))
 
 async function selectLocalLetter(letter: string) {
   localLetter.value = letter
@@ -33,14 +39,21 @@ async function selectLocalLetter(letter: string) {
   localLoading.value = false
 }
 
-// ========== 远端分片浏览 ==========
+// ========== 统一远端词典浏览 ==========
 const REMOTE_LETTERS = 'abcdefghijklmnopqrstuvwxyz_'.split('')
 const SECOND_CHARS = '_abcdefghijklmnopqrstuvwxyz'.split('')
 
 const selectedLetter = ref<string | null>(null)
 const selectedPrefix = ref<string | null>(null)
-const wordList = ref<any[]>([])
+const wordList = ref<DictionaryResult[]>([])
+const filteredWordList = computed(() => (
+  wordList.value.filter(word => dictStore.matchesTagFilter(word.tags))
+))
 const loading = ref(false)
+const loadingMore = ref(false)
+const hasMore = ref(false)
+const REMOTE_PAGE_SIZE = 500
+let requestSequence = 0
 
 const prefixes = computed(() => {
   if (!selectedLetter.value) return []
@@ -49,31 +62,52 @@ const prefixes = computed(() => {
 })
 
 function selectLetter(letter: string) {
+  requestSequence++
   selectedLetter.value = letter
   selectedPrefix.value = null
   wordList.value = []
+  hasMore.value = false
 }
 
 async function selectPrefix(prefix: string) {
+  const requestId = ++requestSequence
   selectedPrefix.value = prefix
   loading.value = true
   wordList.value = []
+  hasMore.value = false
 
-  const results = await listShardWords('ecdict', prefix)
-  wordList.value = results
-  loading.value = false
+  try {
+    const results = await listDictionaryShard(prefix, REMOTE_PAGE_SIZE)
+    if (requestId !== requestSequence) return
+    wordList.value = results
+    hasMore.value = results.length === REMOTE_PAGE_SIZE
+    cacheResults(results)
+  } finally {
+    if (requestId === requestSequence) loading.value = false
+  }
+}
 
-  // 写入 IndexedDB 永久保存
+function cacheResults(results: DictionaryResult[]) {
   if (results.length > 0) {
-    const entries: WordEntry[] = results.map((r: any) => ({
-      word: r.word,
-      phonetic: r.phonetic || '',
-      frequency: r.frequency || 0,
-      tags: r.tags || '',
-      exchange: r.exchange || '',
-      translation: r.translation || '',
-    }))
+    const entries: WordEntry[] = results.map(result => ({ ...result, cacheLevel: 'full' }))
     cacheWords(entries).catch(() => {})
+  }
+}
+
+async function loadMore() {
+  const prefix = selectedPrefix.value
+  if (!prefix || loadingMore.value || !hasMore.value) return
+
+  const requestId = requestSequence
+  loadingMore.value = true
+  try {
+    const results = await listDictionaryShard(prefix, REMOTE_PAGE_SIZE, wordList.value.length)
+    if (requestId !== requestSequence) return
+    wordList.value.push(...results)
+    hasMore.value = results.length === REMOTE_PAGE_SIZE
+    cacheResults(results)
+  } finally {
+    if (requestId === requestSequence) loadingMore.value = false
   }
 }
 
@@ -90,7 +124,7 @@ function selectWord(word: string) {
         📱 本地词库
       </button>
       <button :class="['mode-btn', { active: browseMode === 'remote' }]" @click="browseMode = 'remote'">
-        ☁️ 远端分片
+        ☁️ 统一词典
       </button>
     </div>
 
@@ -110,9 +144,12 @@ function selectWord(word: string) {
       <div class="word-list" v-if="localLetter">
         <div v-if="localLoading" class="list-loading">加载中...</div>
         <template v-else>
-          <div class="list-count">{{ localWordList.length }} 条</div>
+          <div class="list-count">
+            {{ filteredLocalWordList.length }} 条
+            <span v-if="!dictStore.allTagsNeutral">/ 共 {{ localWordList.length }} 条</span>
+          </div>
           <div
-            v-for="item in localWordList"
+            v-for="item in filteredLocalWordList"
             :key="item.word"
             class="word-item"
             @click="selectWord(item.word)"
@@ -125,7 +162,7 @@ function selectWord(word: string) {
       </div>
     </template>
 
-    <!-- ===== 远端模式 ===== -->
+    <!-- ===== 统一远端词典 ===== -->
     <template v-else>
       <div class="letter-bar">
         <button
@@ -152,9 +189,12 @@ function selectWord(word: string) {
       <div class="word-list" v-if="selectedPrefix">
         <div v-if="loading" class="list-loading">加载中...</div>
         <template v-else>
-          <div class="list-count">{{ wordList.length }} 条</div>
+          <div class="list-count">
+            显示 {{ filteredWordList.length }} 条
+            <span v-if="!dictStore.allTagsNeutral">/ 已加载 {{ wordList.length }} 条</span>
+          </div>
           <div
-            v-for="item in wordList"
+            v-for="item in filteredWordList"
             :key="item.word"
             class="word-item"
             @click="selectWord(item.word)"
@@ -163,6 +203,9 @@ function selectWord(word: string) {
             <span class="word-phonetic" v-if="item.phonetic">{{ item.phonetic }}</span>
             <span class="word-trans">{{ (item.translation || '').split('\\n')[0]?.slice(0, 25) }}</span>
           </div>
+          <button v-if="hasMore" class="load-more-btn" :disabled="loadingMore" @click="loadMore">
+            {{ loadingMore ? '加载中...' : '加载更多' }}
+          </button>
         </template>
       </div>
     </template>
@@ -268,6 +311,23 @@ function selectWord(word: string) {
   font-size: 0.8rem;
   color: #999;
   text-align: center;
+}
+
+.load-more-btn {
+  display: block;
+  width: calc(100% - 1rem);
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border: 1px solid #dbe7f3;
+  border-radius: 5px;
+  background: #f6faff;
+  color: #2878b5;
+  cursor: pointer;
+}
+
+.load-more-btn:disabled {
+  cursor: wait;
+  opacity: 0.65;
 }
 
 .word-item {

@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 ache, ankle, be, bled, cover, ear, earache, have to be, health insurance, injure, need to be, patient, pregnant, request, reschedule, save, skin, surgery, symptom, thumb, treatment, want to be, weak, wheelchair, will be
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -31,3 +36,194 @@ have to be / need to be / want to be / will be 这组结构表达了义务、需
 - **pregnant / wheelchair / cover / save** — pregnant = 怀孕的：She's pregnant. wheelchair = 轮椅（wheel + chair）。cover 在保险语境中 = 覆盖/报销：Does your insurance cover surgery? save = 挽救/节省：save a life / save money.
 
 - **be** — be 动词在此可能用于被动语态：The patient will be seen soon. 或用于状态描述：You need to be patient. 注意 be 的各种形式：am/is/are/was/were/been/being。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在诊所里，我听到了“ache”。  
+   **英文**：At the clinic, I heard "ache".
+   > **解析**：本题在单元主题情境中复习表达 ache。
+
+2. **中文**：医生解释了“ear”。  
+   **英文**：The doctor explained "ear".
+   > **解析**：本题在单元主题情境中复习表达 ear。
+
+3. **中文**：我们认真谈到了“health insurance”。  
+   **英文**：We talked about "health insurance" carefully.
+   > **解析**：本题在单元主题情境中复习表达 health insurance。
+
+4. **中文**：我把“pregnant”写进健康笔记。  
+   **英文**：I wrote "pregnant" in my health notes.
+   > **解析**：本题在单元主题情境中复习表达 pregnant。
+
+5. **中文**：护士重复了“save”。  
+   **英文**：The nurse repeated "save".
+   > **解析**：本题在单元主题情境中复习表达 save。
+
+6. **中文**：朋友询问了“thumb”。  
+   **英文**：My friend asked about "thumb".
+   > **解析**：本题在单元主题情境中复习表达 thumb。
+
+7. **中文**：建议中包含“weak”。  
+   **英文**：The advice included "weak".
+   > **解析**：本题在单元主题情境中复习表达 weak。
+
+8. **中文**：就诊后，我记住了“ankle”。  
+   **英文**：After the visit, I remembered "ankle".
+   > **解析**：本题在单元主题情境中复习表达 ankle。
+
+9. **中文**：我们在对话中用到了“earache”。  
+   **英文**：We used "earache" in the conversation.
+   > **解析**：本题在单元主题情境中复习表达 earache。
+
+10. **中文**：那次健康交流以“need to be”收尾。  
+   **英文**：That health talk ended with "need to be".
+   > **解析**：本题在单元主题情境中复习表达 need to be。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the clinic, I heard "ache".
+   > **中文**：在诊所里，我听到了“ache”。
+2. The doctor explained "ear".
+   > **中文**：医生解释了“ear”。
+3. We talked about "health insurance" carefully.
+   > **中文**：我们认真谈到了“health insurance”。
+4. I wrote "pregnant" in my health notes.
+   > **中文**：我把“pregnant”写进健康笔记。
+5. The nurse repeated "save".
+   > **中文**：护士重复了“save”。
+6. My friend asked about "thumb".
+   > **中文**：朋友询问了“thumb”。
+7. The advice included "weak".
+   > **中文**：建议中包含“weak”。
+8. After the visit, I remembered "ankle".
+   > **中文**：就诊后，我记住了“ankle”。
+9. We used "earache" in the conversation.
+   > **中文**：我们在对话中用到了“earache”。
+10. That health talk ended with "need to be".
+   > **中文**：那次健康交流以“need to be”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the clinic, I heard "`____`".
+
+- [x] ache
+- [ ] pregnant
+- [ ] weak
+
+> **解析**：本题在单元主题情境中复习表达 ache。
+
+### 2
+
+The doctor explained "`____`".
+
+- [x] ear
+- [ ] save
+- [ ] ankle
+
+> **解析**：本题在单元主题情境中复习表达 ear。
+
+### 3
+
+We talked about "`____`" carefully.
+
+- [x] health insurance
+- [ ] thumb
+- [ ] earache
+
+> **解析**：本题在单元主题情境中复习表达 health insurance。
+
+### 4
+
+I wrote "`____`" in my health notes.
+
+- [x] pregnant
+- [ ] weak
+- [ ] need to be
+
+> **解析**：本题在单元主题情境中复习表达 pregnant。
+
+### 5
+
+The nurse repeated "`____`".
+
+- [x] save
+- [ ] ankle
+- [ ] ache
+
+> **解析**：本题在单元主题情境中复习表达 save。
+
+### 6
+
+My friend asked about "`____`".
+
+- [x] thumb
+- [ ] earache
+- [ ] ear
+
+> **解析**：本题在单元主题情境中复习表达 thumb。
+
+### 7
+
+The advice included "`____`".
+
+- [x] weak
+- [ ] need to be
+- [ ] health insurance
+
+> **解析**：本题在单元主题情境中复习表达 weak。
+
+### 8
+
+After the visit, I remembered "`____`".
+
+- [x] ankle
+- [ ] ache
+- [ ] pregnant
+
+> **解析**：本题在单元主题情境中复习表达 ankle。
+
+### 9
+
+We used "`____`" in the conversation.
+
+- [x] earache
+- [ ] ear
+- [ ] save
+
+> **解析**：本题在单元主题情境中复习表达 earache。
+
+### 10
+
+That health talk ended with "`____`".
+
+- [x] need to be
+- [ ] health insurance
+- [ ] thumb
+
+> **解析**：本题在单元主题情境中复习表达 need to be。
+
+</quiz-cloze>

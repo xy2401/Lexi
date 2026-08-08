@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 circus, comic, decide, direct, dislike, display, divorce, drama, entertainment, folk, generally, get used to, hadn't, if, if you had, if you'd, marvelous, public, rare, real, realistic, trend, would have, would've
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -29,3 +34,194 @@ if you had / if you'd + would have 是第三类条件句（对过去的虚拟）
 - **circus / divorce / hadn't** — circus = 马戏团（go to the circus）。divorce = 离婚（get a divorce, a divorce drama）。hadn't = had not（I hadn't seen it before.），用于过去完成时否定。
 
 - **get used to** — get used to = 逐渐习惯（+ 名词/-ing）。例句：I got used to the slow pace. / You'll get used to folk music. 注意和 used to（过去常常）区分：get used to 强调适应的过程。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“circus”。  
+   **英文**：In this situation, I heard "circus".
+   > **解析**：本题在单元主题情境中复习表达 circus。
+
+2. **中文**：同伴解释了“dislike”。  
+   **英文**：My partner explained "dislike".
+   > **解析**：本题在单元主题情境中复习表达 dislike。
+
+3. **中文**：我们一起谈到了“drama”。  
+   **英文**：We talked about "drama" together.
+   > **解析**：本题在单元主题情境中复习表达 drama。
+
+4. **中文**：我记下了“get used to”。  
+   **英文**：I wrote down "get used to".
+   > **解析**：本题在单元主题情境中复习表达 get used to。
+
+5. **中文**：例句中包含“if you had”。  
+   **英文**：The example included "if you had".
+   > **解析**：本题在单元主题情境中复习表达 if you had。
+
+6. **中文**：我询问了“rare”。  
+   **英文**：I asked about "rare".
+   > **解析**：本题在单元主题情境中复习表达 rare。
+
+7. **中文**：我们在句子中用到了“trend”。  
+   **英文**：We used "trend" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 trend。
+
+8. **中文**：朋友重复了“comic”。  
+   **英文**：My friend repeated "comic".
+   > **解析**：本题在单元主题情境中复习表达 comic。
+
+9. **中文**：后来，我记住了“display”。  
+   **英文**：Later, I remembered "display".
+   > **解析**：本题在单元主题情境中复习表达 display。
+
+10. **中文**：这个小故事以“folk”收尾。  
+   **英文**：The short story ended with "folk".
+   > **解析**：本题在单元主题情境中复习表达 folk。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "circus".
+   > **中文**：在这个情境中，我听到了“circus”。
+2. My partner explained "dislike".
+   > **中文**：同伴解释了“dislike”。
+3. We talked about "drama" together.
+   > **中文**：我们一起谈到了“drama”。
+4. I wrote down "get used to".
+   > **中文**：我记下了“get used to”。
+5. The example included "if you had".
+   > **中文**：例句中包含“if you had”。
+6. I asked about "rare".
+   > **中文**：我询问了“rare”。
+7. We used "trend" in a sentence.
+   > **中文**：我们在句子中用到了“trend”。
+8. My friend repeated "comic".
+   > **中文**：朋友重复了“comic”。
+9. Later, I remembered "display".
+   > **中文**：后来，我记住了“display”。
+10. The short story ended with "folk".
+   > **中文**：这个小故事以“folk”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] circus
+- [ ] get used to
+- [ ] trend
+
+> **解析**：本题在单元主题情境中复习表达 circus。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] dislike
+- [ ] if you had
+- [ ] comic
+
+> **解析**：本题在单元主题情境中复习表达 dislike。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] drama
+- [ ] rare
+- [ ] display
+
+> **解析**：本题在单元主题情境中复习表达 drama。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] get used to
+- [ ] trend
+- [ ] folk
+
+> **解析**：本题在单元主题情境中复习表达 get used to。
+
+### 5
+
+The example included "`____`".
+
+- [x] if you had
+- [ ] comic
+- [ ] circus
+
+> **解析**：本题在单元主题情境中复习表达 if you had。
+
+### 6
+
+I asked about "`____`".
+
+- [x] rare
+- [ ] display
+- [ ] dislike
+
+> **解析**：本题在单元主题情境中复习表达 rare。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] trend
+- [ ] folk
+- [ ] drama
+
+> **解析**：本题在单元主题情境中复习表达 trend。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] comic
+- [ ] circus
+- [ ] get used to
+
+> **解析**：本题在单元主题情境中复习表达 comic。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] display
+- [ ] dislike
+- [ ] if you had
+
+> **解析**：本题在单元主题情境中复习表达 display。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] folk
+- [ ] drama
+- [ ] rare
+
+> **解析**：本题在单元主题情境中复习表达 folk。
+
+</quiz-cloze>

@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 but, by, convince, could, doubt that, lamb, option, point, politely, progress, recommend, resort, rude, say, so, souvenir, take, vegetarian, waterfall, we would, we'd, would you, you'd
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -31,3 +36,194 @@ but, by, convince, could, doubt that, lamb, option, point, politely, progress, r
 - **by / so / but / take** — by 在此可能表示"在……旁边"：the resort by the waterfall. so 表结果或"那么"：So, what would you recommend? but 表转折。take 可搭配 take a souvenir / take someone to a place。
 
 - **progress / resort** — progress 是不可数名词：make progress. resort 除"度假村"外还有"诉诸"义：as a last resort（作为最后手段）。注意不要混淆两个含义。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：谈论喜好时，我听到了“convince”。  
+   **英文**：When we talked about favorites, I heard "convince".
+   > **解析**：本题在单元主题情境中复习表达 convince。
+
+2. **中文**：朋友说“lamb”很重要。  
+   **英文**：My friend said "lamb" was important.
+   > **解析**：本题在单元主题情境中复习表达 lamb。
+
+3. **中文**：我问他们喜欢哪一个：“politely”。  
+   **英文**：I asked which one they liked: "politely".
+   > **解析**：本题在单元主题情境中复习表达 politely。
+
+4. **中文**：聊天时，我们比较了“resort”。  
+   **英文**：In our chat, we compared "resort".
+   > **解析**：本题在单元主题情境中复习表达 resort。
+
+5. **中文**：同伴先选择了“souvenir”。  
+   **英文**：My partner chose "souvenir" first.
+   > **解析**：本题在单元主题情境中复习表达 souvenir。
+
+6. **中文**：我们用“we would”描述喜好。  
+   **英文**：We used "we would" to describe a favorite.
+   > **解析**：本题在单元主题情境中复习表达 we would。
+
+7. **中文**：答案中包含“you'd”。  
+   **英文**：The answer included "you'd".
+   > **解析**：本题在单元主题情境中复习表达 you'd。
+
+8. **中文**：我从对话中记住了“doubt that”。  
+   **英文**：I remembered "doubt that" from the conversation.
+   > **解析**：本题在单元主题情境中复习表达 doubt that。
+
+9. **中文**：朋友微笑着重复了“point”。  
+   **英文**：My friend repeated "point" with a smile.
+   > **解析**：本题在单元主题情境中复习表达 point。
+
+10. **中文**：那场关于喜好的聊天以“recommend”收尾。  
+   **英文**：That chat about favorites ended with "recommend".
+   > **解析**：本题在单元主题情境中复习表达 recommend。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. When we talked about favorites, I heard "convince".
+   > **中文**：谈论喜好时，我听到了“convince”。
+2. My friend said "lamb" was important.
+   > **中文**：朋友说“lamb”很重要。
+3. I asked which one they liked: "politely".
+   > **中文**：我问他们喜欢哪一个：“politely”。
+4. In our chat, we compared "resort".
+   > **中文**：聊天时，我们比较了“resort”。
+5. My partner chose "souvenir" first.
+   > **中文**：同伴先选择了“souvenir”。
+6. We used "we would" to describe a favorite.
+   > **中文**：我们用“we would”描述喜好。
+7. The answer included "you'd".
+   > **中文**：答案中包含“you'd”。
+8. I remembered "doubt that" from the conversation.
+   > **中文**：我从对话中记住了“doubt that”。
+9. My friend repeated "point" with a smile.
+   > **中文**：朋友微笑着重复了“point”。
+10. That chat about favorites ended with "recommend".
+   > **中文**：那场关于喜好的聊天以“recommend”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+When we talked about favorites, I heard "`____`".
+
+- [x] convince
+- [ ] resort
+- [ ] you'd
+
+> **解析**：本题在单元主题情境中复习表达 convince。
+
+### 2
+
+My friend said "`____`" was important.
+
+- [x] lamb
+- [ ] souvenir
+- [ ] doubt that
+
+> **解析**：本题在单元主题情境中复习表达 lamb。
+
+### 3
+
+I asked which one they liked: "`____`".
+
+- [x] politely
+- [ ] we would
+- [ ] point
+
+> **解析**：本题在单元主题情境中复习表达 politely。
+
+### 4
+
+In our chat, we compared "`____`".
+
+- [x] resort
+- [ ] you'd
+- [ ] recommend
+
+> **解析**：本题在单元主题情境中复习表达 resort。
+
+### 5
+
+My partner chose "`____`" first.
+
+- [x] souvenir
+- [ ] doubt that
+- [ ] convince
+
+> **解析**：本题在单元主题情境中复习表达 souvenir。
+
+### 6
+
+We used "`____`" to describe a favorite.
+
+- [x] we would
+- [ ] point
+- [ ] lamb
+
+> **解析**：本题在单元主题情境中复习表达 we would。
+
+### 7
+
+The answer included "`____`".
+
+- [x] you'd
+- [ ] recommend
+- [ ] politely
+
+> **解析**：本题在单元主题情境中复习表达 you'd。
+
+### 8
+
+I remembered "`____`" from the conversation.
+
+- [x] doubt that
+- [ ] convince
+- [ ] resort
+
+> **解析**：本题在单元主题情境中复习表达 doubt that。
+
+### 9
+
+My friend repeated "`____`" with a smile.
+
+- [x] point
+- [ ] lamb
+- [ ] souvenir
+
+> **解析**：本题在单元主题情境中复习表达 point。
+
+### 10
+
+That chat about favorites ended with "`____`".
+
+- [x] recommend
+- [ ] politely
+- [ ] we would
+
+> **解析**：本题在单元主题情境中复习表达 recommend。
+
+</quiz-cloze>

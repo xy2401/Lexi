@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 alternatively, ever, favor, figure, gardening, help out, hesitate, inconvenient, make up for, might you, no pressure, of me, out of town, persuade, really, rearrange, return the favor, sit, thoughtful, too much to ask, trouble, unlock, wait, wondering, would you consider
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -58,3 +63,193 @@ too much to ask（要求太过分）、inconvenient（不方便）、trouble（�
 
 - **ever** — 本单元中可能出现在 Have you ever...? 或 if ever 中。ever 在疑问句中 = 曾经。在请求中：If you ever need help, ask me. 比 always 更强调"任何时候"。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“alternatively”。  
+   **英文**：In this situation, I heard "alternatively".
+   > **解析**：本题在单元主题情境中复习表达 alternatively。
+
+2. **中文**：同伴解释了“gardening”。  
+   **英文**：My partner explained "gardening".
+   > **解析**：本题在单元主题情境中复习表达 gardening。
+
+3. **中文**：我们一起谈到了“inconvenient”。  
+   **英文**：We talked about "inconvenient" together.
+   > **解析**：本题在单元主题情境中复习表达 inconvenient。
+
+4. **中文**：我记下了“of me”。  
+   **英文**：I wrote down "of me".
+   > **解析**：本题在单元主题情境中复习表达 of me。
+
+5. **中文**：例句中包含“rearrange”。  
+   **英文**：The example included "rearrange".
+   > **解析**：本题在单元主题情境中复习表达 rearrange。
+
+6. **中文**：我询问了“thoughtful”。  
+   **英文**：I asked about "thoughtful".
+   > **解析**：本题在单元主题情境中复习表达 thoughtful。
+
+7. **中文**：我们在句子中用到了“wait”。  
+   **英文**：We used "wait" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 wait。
+
+8. **中文**：朋友重复了“ever”。  
+   **英文**：My friend repeated "ever".
+   > **解析**：本题在单元主题情境中复习表达 ever。
+
+9. **中文**：后来，我记住了“help out”。  
+   **英文**：Later, I remembered "help out".
+   > **解析**：本题在单元主题情境中复习表达 help out。
+
+10. **中文**：这个小故事以“might you”收尾。  
+   **英文**：The short story ended with "might you".
+   > **解析**：本题在单元主题情境中复习表达 might you。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "alternatively".
+   > **中文**：在这个情境中，我听到了“alternatively”。
+2. My partner explained "gardening".
+   > **中文**：同伴解释了“gardening”。
+3. We talked about "inconvenient" together.
+   > **中文**：我们一起谈到了“inconvenient”。
+4. I wrote down "of me".
+   > **中文**：我记下了“of me”。
+5. The example included "rearrange".
+   > **中文**：例句中包含“rearrange”。
+6. I asked about "thoughtful".
+   > **中文**：我询问了“thoughtful”。
+7. We used "wait" in a sentence.
+   > **中文**：我们在句子中用到了“wait”。
+8. My friend repeated "ever".
+   > **中文**：朋友重复了“ever”。
+9. Later, I remembered "help out".
+   > **中文**：后来，我记住了“help out”。
+10. The short story ended with "might you".
+   > **中文**：这个小故事以“might you”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] alternatively
+- [ ] of me
+- [ ] wait
+
+> **解析**：本题在单元主题情境中复习表达 alternatively。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] gardening
+- [ ] rearrange
+- [ ] ever
+
+> **解析**：本题在单元主题情境中复习表达 gardening。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] inconvenient
+- [ ] thoughtful
+- [ ] help out
+
+> **解析**：本题在单元主题情境中复习表达 inconvenient。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] of me
+- [ ] wait
+- [ ] might you
+
+> **解析**：本题在单元主题情境中复习表达 of me。
+
+### 5
+
+The example included "`____`".
+
+- [x] rearrange
+- [ ] ever
+- [ ] alternatively
+
+> **解析**：本题在单元主题情境中复习表达 rearrange。
+
+### 6
+
+I asked about "`____`".
+
+- [x] thoughtful
+- [ ] help out
+- [ ] gardening
+
+> **解析**：本题在单元主题情境中复习表达 thoughtful。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] wait
+- [ ] might you
+- [ ] inconvenient
+
+> **解析**：本题在单元主题情境中复习表达 wait。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] ever
+- [ ] alternatively
+- [ ] of me
+
+> **解析**：本题在单元主题情境中复习表达 ever。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] help out
+- [ ] gardening
+- [ ] rearrange
+
+> **解析**：本题在单元主题情境中复习表达 help out。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] might you
+- [ ] inconvenient
+- [ ] thoughtful
+
+> **解析**：本题在单元主题情境中复习表达 might you。
+
+</quiz-cloze>

@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 as, based on, bullet, case, clue, considering, could have, crucial, disguise, distract, fingerprint, footprint, gang, go off, it could have been, it must have been, justice, may have, may not have, motive, must have, robber, suspect, there may have been, weapon
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -60,3 +65,193 @@ must have / could have / may have 是对过去事件的三种推测，确定性�
 
 - **as** — 本单元中 likely 指"作为"或"当……时"。as a detective / as the suspect fled。as 是英语中最灵活的词之一：作为、当、因为、如同。具体含义高度依赖语境。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“based on”。  
+   **英文**：In this situation, I heard "based on".
+   > **解析**：本题在单元主题情境中复习表达 based on。
+
+2. **中文**：同伴解释了“considering”。  
+   **英文**：My partner explained "considering".
+   > **解析**：本题在单元主题情境中复习表达 considering。
+
+3. **中文**：我们一起谈到了“disguise”。  
+   **英文**：We talked about "disguise" together.
+   > **解析**：本题在单元主题情境中复习表达 disguise。
+
+4. **中文**：我记下了“gang”。  
+   **英文**：I wrote down "gang".
+   > **解析**：本题在单元主题情境中复习表达 gang。
+
+5. **中文**：例句中包含“it must have been”。  
+   **英文**：The example included "it must have been".
+   > **解析**：本题在单元主题情境中复习表达 it must have been。
+
+6. **中文**：我询问了“motive”。  
+   **英文**：I asked about "motive".
+   > **解析**：本题在单元主题情境中复习表达 motive。
+
+7. **中文**：我们在句子中用到了“suspect”。  
+   **英文**：We used "suspect" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 suspect。
+
+8. **中文**：朋友重复了“bullet”。  
+   **英文**：My friend repeated "bullet".
+   > **解析**：本题在单元主题情境中复习表达 bullet。
+
+9. **中文**：后来，我记住了“could have”。  
+   **英文**：Later, I remembered "could have".
+   > **解析**：本题在单元主题情境中复习表达 could have。
+
+10. **中文**：这个小故事以“fingerprint”收尾。  
+   **英文**：The short story ended with "fingerprint".
+   > **解析**：本题在单元主题情境中复习表达 fingerprint。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "based on".
+   > **中文**：在这个情境中，我听到了“based on”。
+2. My partner explained "considering".
+   > **中文**：同伴解释了“considering”。
+3. We talked about "disguise" together.
+   > **中文**：我们一起谈到了“disguise”。
+4. I wrote down "gang".
+   > **中文**：我记下了“gang”。
+5. The example included "it must have been".
+   > **中文**：例句中包含“it must have been”。
+6. I asked about "motive".
+   > **中文**：我询问了“motive”。
+7. We used "suspect" in a sentence.
+   > **中文**：我们在句子中用到了“suspect”。
+8. My friend repeated "bullet".
+   > **中文**：朋友重复了“bullet”。
+9. Later, I remembered "could have".
+   > **中文**：后来，我记住了“could have”。
+10. The short story ended with "fingerprint".
+   > **中文**：这个小故事以“fingerprint”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] based on
+- [ ] gang
+- [ ] suspect
+
+> **解析**：本题在单元主题情境中复习表达 based on。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] considering
+- [ ] it must have been
+- [ ] bullet
+
+> **解析**：本题在单元主题情境中复习表达 considering。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] disguise
+- [ ] motive
+- [ ] could have
+
+> **解析**：本题在单元主题情境中复习表达 disguise。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] gang
+- [ ] suspect
+- [ ] fingerprint
+
+> **解析**：本题在单元主题情境中复习表达 gang。
+
+### 5
+
+The example included "`____`".
+
+- [x] it must have been
+- [ ] bullet
+- [ ] based on
+
+> **解析**：本题在单元主题情境中复习表达 it must have been。
+
+### 6
+
+I asked about "`____`".
+
+- [x] motive
+- [ ] could have
+- [ ] considering
+
+> **解析**：本题在单元主题情境中复习表达 motive。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] suspect
+- [ ] fingerprint
+- [ ] disguise
+
+> **解析**：本题在单元主题情境中复习表达 suspect。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] bullet
+- [ ] based on
+- [ ] gang
+
+> **解析**：本题在单元主题情境中复习表达 bullet。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] could have
+- [ ] considering
+- [ ] it must have been
+
+> **解析**：本题在单元主题情境中复习表达 could have。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] fingerprint
+- [ ] disguise
+- [ ] motive
+
+> **解析**：本题在单元主题情境中复习表达 fingerprint。
+
+</quiz-cloze>

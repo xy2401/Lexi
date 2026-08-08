@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 Hollywood, adjust, agriculture, artistic, best way to learn, best way to meet, broadway musical, conventional, deli, far from her home, full of unique opportunities, give it a chance, hardworking, laundromat, looking to, make it, make the most, show business, small but beautiful, surroundings, take a risk, the big city, uncertain, up to your standards, values
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -39,3 +44,194 @@ Hollywood, adjust, agriculture, artistic, best way to learn, best way to meet, b
 - **values** — 价值观、价值观念（复数）。注意和 value（价值、价格）区分：family values / traditional values / personal values。词表里的 hardworking, conventional 都可以用来形容一个人的 values。
 
 - **surroundings** — 环境、周围的事物（常用复数）。搭配：new surroundings / beautiful surroundings / adjust to your surroundings。注意拼写：两个 r，以 -ings 结尾，通常用复数形式。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“Hollywood”。  
+   **英文**：At work, we discussed "Hollywood".
+   > **解析**：本题在单元主题情境中复习表达 Hollywood。
+
+2. **中文**：同事提到了“best way to learn”。  
+   **英文**：My coworker mentioned "best way to learn".
+   > **解析**：本题在单元主题情境中复习表达 best way to learn。
+
+3. **中文**：会议中，我听到了“conventional”。  
+   **英文**：In the meeting, I heard "conventional".
+   > **解析**：本题在单元主题情境中复习表达 conventional。
+
+4. **中文**：我把“give it a chance”写进了笔记。  
+   **英文**：I added "give it a chance" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 give it a chance。
+
+5. **中文**：经理解释了“make it”。  
+   **英文**：The manager explained "make it".
+   > **解析**：本题在单元主题情境中复习表达 make it。
+
+6. **中文**：团队今天用到了“small but beautiful”。  
+   **英文**：Our team used "small but beautiful" today.
+   > **解析**：本题在单元主题情境中复习表达 small but beautiful。
+
+7. **中文**：午饭前，我们查看了“uncertain”。  
+   **英文**：Before lunch, we checked "uncertain".
+   > **解析**：本题在单元主题情境中复习表达 uncertain。
+
+8. **中文**：同事询问了“adjust”。  
+   **英文**：My colleague asked about "adjust".
+   > **解析**：本题在单元主题情境中复习表达 adjust。
+
+9. **中文**：报告中包含“best way to meet”。  
+   **英文**：The report included "best way to meet".
+   > **解析**：本题在单元主题情境中复习表达 best way to meet。
+
+10. **中文**：一天结束时，我记住了“far from her home”。  
+   **英文**：At the end of the day, I remembered "far from her home".
+   > **解析**：本题在单元主题情境中复习表达 far from her home。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "Hollywood".
+   > **中文**：工作中，我们讨论了“Hollywood”。
+2. My coworker mentioned "best way to learn".
+   > **中文**：同事提到了“best way to learn”。
+3. In the meeting, I heard "conventional".
+   > **中文**：会议中，我听到了“conventional”。
+4. I added "give it a chance" to my notes.
+   > **中文**：我把“give it a chance”写进了笔记。
+5. The manager explained "make it".
+   > **中文**：经理解释了“make it”。
+6. Our team used "small but beautiful" today.
+   > **中文**：团队今天用到了“small but beautiful”。
+7. Before lunch, we checked "uncertain".
+   > **中文**：午饭前，我们查看了“uncertain”。
+8. My colleague asked about "adjust".
+   > **中文**：同事询问了“adjust”。
+9. The report included "best way to meet".
+   > **中文**：报告中包含“best way to meet”。
+10. At the end of the day, I remembered "far from her home".
+   > **中文**：一天结束时，我记住了“far from her home”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] Hollywood
+- [ ] give it a chance
+- [ ] uncertain
+
+> **解析**：本题在单元主题情境中复习表达 Hollywood。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] best way to learn
+- [ ] make it
+- [ ] adjust
+
+> **解析**：本题在单元主题情境中复习表达 best way to learn。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] conventional
+- [ ] small but beautiful
+- [ ] best way to meet
+
+> **解析**：本题在单元主题情境中复习表达 conventional。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] give it a chance
+- [ ] uncertain
+- [ ] far from her home
+
+> **解析**：本题在单元主题情境中复习表达 give it a chance。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] make it
+- [ ] adjust
+- [ ] Hollywood
+
+> **解析**：本题在单元主题情境中复习表达 make it。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] small but beautiful
+- [ ] best way to meet
+- [ ] best way to learn
+
+> **解析**：本题在单元主题情境中复习表达 small but beautiful。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] uncertain
+- [ ] far from her home
+- [ ] conventional
+
+> **解析**：本题在单元主题情境中复习表达 uncertain。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] adjust
+- [ ] Hollywood
+- [ ] give it a chance
+
+> **解析**：本题在单元主题情境中复习表达 adjust。
+
+### 9
+
+The report included "`____`".
+
+- [x] best way to meet
+- [ ] best way to learn
+- [ ] make it
+
+> **解析**：本题在单元主题情境中复习表达 best way to meet。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] far from her home
+- [ ] conventional
+- [ ] small but beautiful
+
+> **解析**：本题在单元主题情境中复习表达 far from her home。
+
+</quiz-cloze>

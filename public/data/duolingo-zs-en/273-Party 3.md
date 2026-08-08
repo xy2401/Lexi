@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 all the way, any time, can always call, express, going-away party, guest of honor, leave town, move, move away, occasionally, passion, permanently, phone call, regards, stay in touch, stop you from, throw, time difference, warmth, wish you the best, wish you were, wish you weren't
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -39,3 +44,194 @@ all the way, any time, can always call, express, going-away party, guest of hono
 - **occasionally / any time** — occasionally 是"偶尔"：We still meet occasionally. any time 是"任何时候"：You can call me any time. 两者在送别语境中搭配使用：Even if we only talk occasionally, you can call any time.
 
 - **all the way** — 一路、完全。搭配：all the way to the airport / drive all the way / support you all the way。例句：We drove all the way to say goodbye. 强调距离之远或程度之深。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“all the way”。  
+   **英文**：At home, we talked about "all the way".
+   > **解析**：本题在单元主题情境中复习表达 all the way。
+
+2. **中文**：家人提到了“express”。  
+   **英文**：My family mentioned "express".
+   > **解析**：本题在单元主题情境中复习表达 express。
+
+3. **中文**：在房间里，我注意到了“move”。  
+   **英文**：In the room, I noticed "move".
+   > **解析**：本题在单元主题情境中复习表达 move。
+
+4. **中文**：我们在家里用到了“passion”。  
+   **英文**：We used "passion" at home.
+   > **解析**：本题在单元主题情境中复习表达 passion。
+
+5. **中文**：邻居询问了“regards”。  
+   **英文**：My neighbor asked about "regards".
+   > **解析**：本题在单元主题情境中复习表达 regards。
+
+6. **中文**：我在门边写下了“time difference”。  
+   **英文**：I wrote down "time difference" by the door.
+   > **解析**：本题在单元主题情境中复习表达 time difference。
+
+7. **中文**：晚饭后，我们重复了“wish you were”。  
+   **英文**：After dinner, we repeated "wish you were".
+   > **解析**：本题在单元主题情境中复习表达 wish you were。
+
+8. **中文**：家庭故事里包含“any time”。  
+   **英文**：The family story included "any time".
+   > **解析**：本题在单元主题情境中复习表达 any time。
+
+9. **中文**：睡前，我记住了“guest of honor”。  
+   **英文**：Before bed, I remembered "guest of honor".
+   > **解析**：本题在单元主题情境中复习表达 guest of honor。
+
+10. **中文**：那个夜晚以“move away”收尾。  
+   **英文**：That evening ended with "move away".
+   > **解析**：本题在单元主题情境中复习表达 move away。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "all the way".
+   > **中文**：在家里，我们谈到了“all the way”。
+2. My family mentioned "express".
+   > **中文**：家人提到了“express”。
+3. In the room, I noticed "move".
+   > **中文**：在房间里，我注意到了“move”。
+4. We used "passion" at home.
+   > **中文**：我们在家里用到了“passion”。
+5. My neighbor asked about "regards".
+   > **中文**：邻居询问了“regards”。
+6. I wrote down "time difference" by the door.
+   > **中文**：我在门边写下了“time difference”。
+7. After dinner, we repeated "wish you were".
+   > **中文**：晚饭后，我们重复了“wish you were”。
+8. The family story included "any time".
+   > **中文**：家庭故事里包含“any time”。
+9. Before bed, I remembered "guest of honor".
+   > **中文**：睡前，我记住了“guest of honor”。
+10. That evening ended with "move away".
+   > **中文**：那个夜晚以“move away”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] all the way
+- [ ] passion
+- [ ] wish you were
+
+> **解析**：本题在单元主题情境中复习表达 all the way。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] express
+- [ ] regards
+- [ ] any time
+
+> **解析**：本题在单元主题情境中复习表达 express。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] move
+- [ ] time difference
+- [ ] guest of honor
+
+> **解析**：本题在单元主题情境中复习表达 move。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] passion
+- [ ] wish you were
+- [ ] move away
+
+> **解析**：本题在单元主题情境中复习表达 passion。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] regards
+- [ ] any time
+- [ ] all the way
+
+> **解析**：本题在单元主题情境中复习表达 regards。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] time difference
+- [ ] guest of honor
+- [ ] express
+
+> **解析**：本题在单元主题情境中复习表达 time difference。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] wish you were
+- [ ] move away
+- [ ] move
+
+> **解析**：本题在单元主题情境中复习表达 wish you were。
+
+### 8
+
+The family story included "`____`".
+
+- [x] any time
+- [ ] all the way
+- [ ] passion
+
+> **解析**：本题在单元主题情境中复习表达 any time。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] guest of honor
+- [ ] express
+- [ ] regards
+
+> **解析**：本题在单元主题情境中复习表达 guest of honor。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] move away
+- [ ] move
+- [ ] time difference
+
+> **解析**：本题在单元主题情境中复习表达 move away。
+
+</quiz-cloze>

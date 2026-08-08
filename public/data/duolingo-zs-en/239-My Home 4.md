@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 a hand, admittedly, all over again, brick, by far, can't get over, can't take, clogged, collapse, concerning, construction, crack, damp, extend, fixer-upper, investment, leak, maintenance, measure, not so bad, oh man, on top of that, plumbing, relieved, stress out
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -37,3 +42,194 @@ a hand, admittedly, all over again, brick, by far, can't get over, can't take, c
 - **a hand / all over again** — a hand = 帮忙（give/lend a hand），all over again = 从头再来。搭配：give me a hand, do it all over again。Can you give me a hand with the plumbing? / I have to measure everything all over again. 注意 all over again 强调"重复、再来一次"的无奈。
 
 - **damp / leak / clogged** — 三者都是房屋常见问题。damp = 潮湿（墙壁/地下室），leak = 漏水（屋顶/管道），clogged = 堵塞（下水道）。搭配：damp walls, a leaking pipe, a clogged toilet。These problems often go together: a leak causes damp, and clogged pipes make it worse.
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“a hand”。  
+   **英文**：At home, we talked about "a hand".
+   > **解析**：本题在单元主题情境中复习表达 a hand。
+
+2. **中文**：家人提到了“by far”。  
+   **英文**：My family mentioned "by far".
+   > **解析**：本题在单元主题情境中复习表达 by far。
+
+3. **中文**：在房间里，我注意到了“clogged”。  
+   **英文**：In the room, I noticed "clogged".
+   > **解析**：本题在单元主题情境中复习表达 clogged。
+
+4. **中文**：我们在家里用到了“crack”。  
+   **英文**：We used "crack" at home.
+   > **解析**：本题在单元主题情境中复习表达 crack。
+
+5. **中文**：邻居询问了“investment”。  
+   **英文**：My neighbor asked about "investment".
+   > **解析**：本题在单元主题情境中复习表达 investment。
+
+6. **中文**：我在门边写下了“measure”。  
+   **英文**：I wrote down "measure" by the door.
+   > **解析**：本题在单元主题情境中复习表达 measure。
+
+7. **中文**：晚饭后，我们重复了“plumbing”。  
+   **英文**：After dinner, we repeated "plumbing".
+   > **解析**：本题在单元主题情境中复习表达 plumbing。
+
+8. **中文**：家庭故事里包含“admittedly”。  
+   **英文**：The family story included "admittedly".
+   > **解析**：本题在单元主题情境中复习表达 admittedly。
+
+9. **中文**：睡前，我记住了“can't get over”。  
+   **英文**：Before bed, I remembered "can't get over".
+   > **解析**：本题在单元主题情境中复习表达 can't get over。
+
+10. **中文**：那个夜晚以“concerning”收尾。  
+   **英文**：That evening ended with "concerning".
+   > **解析**：本题在单元主题情境中复习表达 concerning。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "a hand".
+   > **中文**：在家里，我们谈到了“a hand”。
+2. My family mentioned "by far".
+   > **中文**：家人提到了“by far”。
+3. In the room, I noticed "clogged".
+   > **中文**：在房间里，我注意到了“clogged”。
+4. We used "crack" at home.
+   > **中文**：我们在家里用到了“crack”。
+5. My neighbor asked about "investment".
+   > **中文**：邻居询问了“investment”。
+6. I wrote down "measure" by the door.
+   > **中文**：我在门边写下了“measure”。
+7. After dinner, we repeated "plumbing".
+   > **中文**：晚饭后，我们重复了“plumbing”。
+8. The family story included "admittedly".
+   > **中文**：家庭故事里包含“admittedly”。
+9. Before bed, I remembered "can't get over".
+   > **中文**：睡前，我记住了“can't get over”。
+10. That evening ended with "concerning".
+   > **中文**：那个夜晚以“concerning”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] a hand
+- [ ] crack
+- [ ] plumbing
+
+> **解析**：本题在单元主题情境中复习表达 a hand。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] by far
+- [ ] investment
+- [ ] admittedly
+
+> **解析**：本题在单元主题情境中复习表达 by far。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] clogged
+- [ ] measure
+- [ ] can't get over
+
+> **解析**：本题在单元主题情境中复习表达 clogged。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] crack
+- [ ] plumbing
+- [ ] concerning
+
+> **解析**：本题在单元主题情境中复习表达 crack。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] investment
+- [ ] admittedly
+- [ ] a hand
+
+> **解析**：本题在单元主题情境中复习表达 investment。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] measure
+- [ ] can't get over
+- [ ] by far
+
+> **解析**：本题在单元主题情境中复习表达 measure。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] plumbing
+- [ ] concerning
+- [ ] clogged
+
+> **解析**：本题在单元主题情境中复习表达 plumbing。
+
+### 8
+
+The family story included "`____`".
+
+- [x] admittedly
+- [ ] a hand
+- [ ] crack
+
+> **解析**：本题在单元主题情境中复习表达 admittedly。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] can't get over
+- [ ] by far
+- [ ] investment
+
+> **解析**：本题在单元主题情境中复习表达 can't get over。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] concerning
+- [ ] clogged
+- [ ] measure
+
+> **解析**：本题在单元主题情境中复习表达 concerning。
+
+</quiz-cloze>

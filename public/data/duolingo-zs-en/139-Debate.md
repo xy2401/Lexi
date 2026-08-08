@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 ahead, argue, at all, chosen, completed, disagree, enemy, extremely, increase, make up, media, mind, necessary, opinion, opposite, paid, prison, right, serious, solve, solved, suggestion, thought, trouble
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ disagree with 表示"不同意"。at all 用于加强否定语气。
 
 - **trouble / serious / extremely** — 麻烦 / 严重 / 极其。搭配：in trouble, a serious issue, extremely difficult。例句：We're in big trouble. / This is a serious matter. / It's extremely complicated. 注意 extremely 比 very 程度更强。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“ahead”。  
+   **英文**：In this situation, I heard "ahead".
+   > **解析**：本题在单元主题情境中复习表达 ahead。
+
+2. **中文**：同伴解释了“completed”。  
+   **英文**：My partner explained "completed".
+   > **解析**：本题在单元主题情境中复习表达 completed。
+
+3. **中文**：我们一起谈到了“extremely”。  
+   **英文**：We talked about "extremely" together.
+   > **解析**：本题在单元主题情境中复习表达 extremely。
+
+4. **中文**：我记下了“mind”。  
+   **英文**：I wrote down "mind".
+   > **解析**：本题在单元主题情境中复习表达 mind。
+
+5. **中文**：例句中包含“opposite”。  
+   **英文**：The example included "opposite".
+   > **解析**：本题在单元主题情境中复习表达 opposite。
+
+6. **中文**：我询问了“serious”。  
+   **英文**：I asked about "serious".
+   > **解析**：本题在单元主题情境中复习表达 serious。
+
+7. **中文**：我们在句子中用到了“suggestion”。  
+   **英文**：We used "suggestion" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 suggestion。
+
+8. **中文**：朋友重复了“argue”。  
+   **英文**：My friend repeated "argue".
+   > **解析**：本题在单元主题情境中复习表达 argue。
+
+9. **中文**：后来，我记住了“disagree”。  
+   **英文**：Later, I remembered "disagree".
+   > **解析**：本题在单元主题情境中复习表达 disagree。
+
+10. **中文**：这个小故事以“make up”收尾。  
+   **英文**：The short story ended with "make up".
+   > **解析**：本题在单元主题情境中复习表达 make up。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "ahead".
+   > **中文**：在这个情境中，我听到了“ahead”。
+2. My partner explained "completed".
+   > **中文**：同伴解释了“completed”。
+3. We talked about "extremely" together.
+   > **中文**：我们一起谈到了“extremely”。
+4. I wrote down "mind".
+   > **中文**：我记下了“mind”。
+5. The example included "opposite".
+   > **中文**：例句中包含“opposite”。
+6. I asked about "serious".
+   > **中文**：我询问了“serious”。
+7. We used "suggestion" in a sentence.
+   > **中文**：我们在句子中用到了“suggestion”。
+8. My friend repeated "argue".
+   > **中文**：朋友重复了“argue”。
+9. Later, I remembered "disagree".
+   > **中文**：后来，我记住了“disagree”。
+10. The short story ended with "make up".
+   > **中文**：这个小故事以“make up”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] ahead
+- [ ] mind
+- [ ] suggestion
+
+> **解析**：本题在单元主题情境中复习表达 ahead。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] completed
+- [ ] opposite
+- [ ] argue
+
+> **解析**：本题在单元主题情境中复习表达 completed。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] extremely
+- [ ] serious
+- [ ] disagree
+
+> **解析**：本题在单元主题情境中复习表达 extremely。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] mind
+- [ ] suggestion
+- [ ] make up
+
+> **解析**：本题在单元主题情境中复习表达 mind。
+
+### 5
+
+The example included "`____`".
+
+- [x] opposite
+- [ ] argue
+- [ ] ahead
+
+> **解析**：本题在单元主题情境中复习表达 opposite。
+
+### 6
+
+I asked about "`____`".
+
+- [x] serious
+- [ ] disagree
+- [ ] completed
+
+> **解析**：本题在单元主题情境中复习表达 serious。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] suggestion
+- [ ] make up
+- [ ] extremely
+
+> **解析**：本题在单元主题情境中复习表达 suggestion。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] argue
+- [ ] ahead
+- [ ] mind
+
+> **解析**：本题在单元主题情境中复习表达 argue。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] disagree
+- [ ] completed
+- [ ] opposite
+
+> **解析**：本题在单元主题情境中复习表达 disagree。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] make up
+- [ ] extremely
+- [ ] serious
+
+> **解析**：本题在单元主题情境中复习表达 make up。
+
+</quiz-cloze>

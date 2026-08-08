@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 adopt, couple, didn't, easygoing, guest room, kettle, ladder, lady, lay, lie, make, next door, normally, occasion, personality, property, sense of humor, set, stop by, stranger, swept, upstairs, use to, vehicle, wake up, woken up
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -35,3 +40,194 @@ used to（词表中写作 use to，在否定和疑问中体现为 didn't use to�
 - **adopt / occasion / normally** — adopt 有"收养"和"采纳"两义：adopt a child / adopt a new approach。occasion 是场合，on occasion = 偶尔。normally = 通常，比 usually 稍正式。
 
 - **set / make** — set 含义极多，这里可能是 set the table（摆桌子）或 set up（布置）。make 搭配 make the bed（整理床铺）。两者在家居场景中都很高频。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“adopt”。  
+   **英文**：At home, we talked about "adopt".
+   > **解析**：本题在单元主题情境中复习表达 adopt。
+
+2. **中文**：家人提到了“guest room”。  
+   **英文**：My family mentioned "guest room".
+   > **解析**：本题在单元主题情境中复习表达 guest room。
+
+3. **中文**：在房间里，我注意到了“lay”。  
+   **英文**：In the room, I noticed "lay".
+   > **解析**：本题在单元主题情境中复习表达 lay。
+
+4. **中文**：我们在家里用到了“next door”。  
+   **英文**：We used "next door" at home.
+   > **解析**：本题在单元主题情境中复习表达 next door。
+
+5. **中文**：邻居询问了“property”。  
+   **英文**：My neighbor asked about "property".
+   > **解析**：本题在单元主题情境中复习表达 property。
+
+6. **中文**：我在门边写下了“stranger”。  
+   **英文**：I wrote down "stranger" by the door.
+   > **解析**：本题在单元主题情境中复习表达 stranger。
+
+7. **中文**：晚饭后，我们重复了“vehicle”。  
+   **英文**：After dinner, we repeated "vehicle".
+   > **解析**：本题在单元主题情境中复习表达 vehicle。
+
+8. **中文**：家庭故事里包含“couple”。  
+   **英文**：The family story included "couple".
+   > **解析**：本题在单元主题情境中复习表达 couple。
+
+9. **中文**：睡前，我记住了“kettle”。  
+   **英文**：Before bed, I remembered "kettle".
+   > **解析**：本题在单元主题情境中复习表达 kettle。
+
+10. **中文**：那个夜晚以“lie”收尾。  
+   **英文**：That evening ended with "lie".
+   > **解析**：本题在单元主题情境中复习表达 lie。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "adopt".
+   > **中文**：在家里，我们谈到了“adopt”。
+2. My family mentioned "guest room".
+   > **中文**：家人提到了“guest room”。
+3. In the room, I noticed "lay".
+   > **中文**：在房间里，我注意到了“lay”。
+4. We used "next door" at home.
+   > **中文**：我们在家里用到了“next door”。
+5. My neighbor asked about "property".
+   > **中文**：邻居询问了“property”。
+6. I wrote down "stranger" by the door.
+   > **中文**：我在门边写下了“stranger”。
+7. After dinner, we repeated "vehicle".
+   > **中文**：晚饭后，我们重复了“vehicle”。
+8. The family story included "couple".
+   > **中文**：家庭故事里包含“couple”。
+9. Before bed, I remembered "kettle".
+   > **中文**：睡前，我记住了“kettle”。
+10. That evening ended with "lie".
+   > **中文**：那个夜晚以“lie”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] adopt
+- [ ] next door
+- [ ] vehicle
+
+> **解析**：本题在单元主题情境中复习表达 adopt。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] guest room
+- [ ] property
+- [ ] couple
+
+> **解析**：本题在单元主题情境中复习表达 guest room。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] lay
+- [ ] stranger
+- [ ] kettle
+
+> **解析**：本题在单元主题情境中复习表达 lay。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] next door
+- [ ] vehicle
+- [ ] lie
+
+> **解析**：本题在单元主题情境中复习表达 next door。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] property
+- [ ] couple
+- [ ] adopt
+
+> **解析**：本题在单元主题情境中复习表达 property。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] stranger
+- [ ] kettle
+- [ ] guest room
+
+> **解析**：本题在单元主题情境中复习表达 stranger。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] vehicle
+- [ ] lie
+- [ ] lay
+
+> **解析**：本题在单元主题情境中复习表达 vehicle。
+
+### 8
+
+The family story included "`____`".
+
+- [x] couple
+- [ ] adopt
+- [ ] next door
+
+> **解析**：本题在单元主题情境中复习表达 couple。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] kettle
+- [ ] guest room
+- [ ] property
+
+> **解析**：本题在单元主题情境中复习表达 kettle。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] lie
+- [ ] lay
+- [ ] stranger
+
+> **解析**：本题在单元主题情境中复习表达 lie。
+
+</quiz-cloze>

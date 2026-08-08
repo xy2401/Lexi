@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 by hand, clean up, continue, dishwasher, dislike, dust, freezer, garbage, have to, heater, housework, in trouble, lock, made, make, messy, mop, neat, pot, responsible for, rug, spill, take care of, vacuum
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ have to 表示"必须"（客观需要）。responsible for 表示"负责"。
 
 - **neat / messy / clean up** — 整洁 / 凌乱 / 打扫。搭配：nice and neat, very messy, clean up now。例句：Keep your desk neat. / The house is messy. / Clean up before guests arrive!
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“by hand”。  
+   **英文**：At work, we discussed "by hand".
+   > **解析**：本题在单元主题情境中复习表达 by hand。
+
+2. **中文**：同事提到了“dislike”。  
+   **英文**：My coworker mentioned "dislike".
+   > **解析**：本题在单元主题情境中复习表达 dislike。
+
+3. **中文**：会议中，我听到了“garbage”。  
+   **英文**：In the meeting, I heard "garbage".
+   > **解析**：本题在单元主题情境中复习表达 garbage。
+
+4. **中文**：我把“in trouble”写进了笔记。  
+   **英文**：I added "in trouble" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 in trouble。
+
+5. **中文**：经理解释了“make”。  
+   **英文**：The manager explained "make".
+   > **解析**：本题在单元主题情境中复习表达 make。
+
+6. **中文**：团队今天用到了“pot”。  
+   **英文**：Our team used "pot" today.
+   > **解析**：本题在单元主题情境中复习表达 pot。
+
+7. **中文**：午饭前，我们查看了“spill”。  
+   **英文**：Before lunch, we checked "spill".
+   > **解析**：本题在单元主题情境中复习表达 spill。
+
+8. **中文**：同事询问了“clean up”。  
+   **英文**：My colleague asked about "clean up".
+   > **解析**：本题在单元主题情境中复习表达 clean up。
+
+9. **中文**：报告中包含“dust”。  
+   **英文**：The report included "dust".
+   > **解析**：本题在单元主题情境中复习表达 dust。
+
+10. **中文**：一天结束时，我记住了“heater”。  
+   **英文**：At the end of the day, I remembered "heater".
+   > **解析**：本题在单元主题情境中复习表达 heater。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "by hand".
+   > **中文**：工作中，我们讨论了“by hand”。
+2. My coworker mentioned "dislike".
+   > **中文**：同事提到了“dislike”。
+3. In the meeting, I heard "garbage".
+   > **中文**：会议中，我听到了“garbage”。
+4. I added "in trouble" to my notes.
+   > **中文**：我把“in trouble”写进了笔记。
+5. The manager explained "make".
+   > **中文**：经理解释了“make”。
+6. Our team used "pot" today.
+   > **中文**：团队今天用到了“pot”。
+7. Before lunch, we checked "spill".
+   > **中文**：午饭前，我们查看了“spill”。
+8. My colleague asked about "clean up".
+   > **中文**：同事询问了“clean up”。
+9. The report included "dust".
+   > **中文**：报告中包含“dust”。
+10. At the end of the day, I remembered "heater".
+   > **中文**：一天结束时，我记住了“heater”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] by hand
+- [ ] in trouble
+- [ ] spill
+
+> **解析**：本题在单元主题情境中复习表达 by hand。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] dislike
+- [ ] make
+- [ ] clean up
+
+> **解析**：本题在单元主题情境中复习表达 dislike。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] garbage
+- [ ] pot
+- [ ] dust
+
+> **解析**：本题在单元主题情境中复习表达 garbage。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] in trouble
+- [ ] spill
+- [ ] heater
+
+> **解析**：本题在单元主题情境中复习表达 in trouble。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] make
+- [ ] clean up
+- [ ] by hand
+
+> **解析**：本题在单元主题情境中复习表达 make。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] pot
+- [ ] dust
+- [ ] dislike
+
+> **解析**：本题在单元主题情境中复习表达 pot。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] spill
+- [ ] heater
+- [ ] garbage
+
+> **解析**：本题在单元主题情境中复习表达 spill。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] clean up
+- [ ] by hand
+- [ ] in trouble
+
+> **解析**：本题在单元主题情境中复习表达 clean up。
+
+### 9
+
+The report included "`____`".
+
+- [x] dust
+- [ ] dislike
+- [ ] make
+
+> **解析**：本题在单元主题情境中复习表达 dust。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] heater
+- [ ] garbage
+- [ ] pot
+
+> **解析**：本题在单元主题情境中复习表达 heater。
+
+</quiz-cloze>

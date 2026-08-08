@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 carefully, defective, everybody, full refund, guarantee, in need of, must i, must we, no good, nothing wrong with, policy, process, proof of purchase, refund, satisfaction, service, speak politely to, state, sticker, supervisor, their, unavailable, useless, waterproof
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -56,3 +61,193 @@ must I / must we 表达不情愿或质疑："我非得……吗？"speak politel
 
 - **carefully** — "仔细地、小心地"。Read the instructions carefully. / Handle carefully. 比 with care 更常用。形容词 careful。注意 -fully 结尾（careful + ly，l 不双写）。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“carefully”。  
+   **英文**：In this situation, I heard "carefully".
+   > **解析**：本题在单元主题情境中复习表达 carefully。
+
+2. **中文**：同伴解释了“full refund”。  
+   **英文**：My partner explained "full refund".
+   > **解析**：本题在单元主题情境中复习表达 full refund。
+
+3. **中文**：我们一起谈到了“must we”。  
+   **英文**：We talked about "must we" together.
+   > **解析**：本题在单元主题情境中复习表达 must we。
+
+4. **中文**：我记下了“policy”。  
+   **英文**：I wrote down "policy".
+   > **解析**：本题在单元主题情境中复习表达 policy。
+
+5. **中文**：例句中包含“satisfaction”。  
+   **英文**：The example included "satisfaction".
+   > **解析**：本题在单元主题情境中复习表达 satisfaction。
+
+6. **中文**：我询问了“state”。  
+   **英文**：I asked about "state".
+   > **解析**：本题在单元主题情境中复习表达 state。
+
+7. **中文**：我们在句子中用到了“useless”。  
+   **英文**：We used "useless" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 useless。
+
+8. **中文**：朋友重复了“defective”。  
+   **英文**：My friend repeated "defective".
+   > **解析**：本题在单元主题情境中复习表达 defective。
+
+9. **中文**：后来，我记住了“in need of”。  
+   **英文**：Later, I remembered "in need of".
+   > **解析**：本题在单元主题情境中复习表达 in need of。
+
+10. **中文**：这个小故事以“no good”收尾。  
+   **英文**：The short story ended with "no good".
+   > **解析**：本题在单元主题情境中复习表达 no good。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "carefully".
+   > **中文**：在这个情境中，我听到了“carefully”。
+2. My partner explained "full refund".
+   > **中文**：同伴解释了“full refund”。
+3. We talked about "must we" together.
+   > **中文**：我们一起谈到了“must we”。
+4. I wrote down "policy".
+   > **中文**：我记下了“policy”。
+5. The example included "satisfaction".
+   > **中文**：例句中包含“satisfaction”。
+6. I asked about "state".
+   > **中文**：我询问了“state”。
+7. We used "useless" in a sentence.
+   > **中文**：我们在句子中用到了“useless”。
+8. My friend repeated "defective".
+   > **中文**：朋友重复了“defective”。
+9. Later, I remembered "in need of".
+   > **中文**：后来，我记住了“in need of”。
+10. The short story ended with "no good".
+   > **中文**：这个小故事以“no good”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] carefully
+- [ ] policy
+- [ ] useless
+
+> **解析**：本题在单元主题情境中复习表达 carefully。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] full refund
+- [ ] satisfaction
+- [ ] defective
+
+> **解析**：本题在单元主题情境中复习表达 full refund。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] must we
+- [ ] state
+- [ ] in need of
+
+> **解析**：本题在单元主题情境中复习表达 must we。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] policy
+- [ ] useless
+- [ ] no good
+
+> **解析**：本题在单元主题情境中复习表达 policy。
+
+### 5
+
+The example included "`____`".
+
+- [x] satisfaction
+- [ ] defective
+- [ ] carefully
+
+> **解析**：本题在单元主题情境中复习表达 satisfaction。
+
+### 6
+
+I asked about "`____`".
+
+- [x] state
+- [ ] in need of
+- [ ] full refund
+
+> **解析**：本题在单元主题情境中复习表达 state。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] useless
+- [ ] no good
+- [ ] must we
+
+> **解析**：本题在单元主题情境中复习表达 useless。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] defective
+- [ ] carefully
+- [ ] policy
+
+> **解析**：本题在单元主题情境中复习表达 defective。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] in need of
+- [ ] full refund
+- [ ] satisfaction
+
+> **解析**：本题在单元主题情境中复习表达 in need of。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] no good
+- [ ] must we
+- [ ] state
+
+> **解析**：本题在单元主题情境中复习表达 no good。
+
+</quiz-cloze>

@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 bite to eat, dominoes, fond of, french fries, game night, go bowling, go for, however, if we went, in mind, it's your choice, place, rather, record, salty, skip, specific, stay in, stay over, wants to, whenever, whichever, whoever, whose turn, you don't
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ bite to eat, dominoes, fond of, french fries, game night, go bowling, go for, ho
 - **it's your choice / in mind** — it's your choice = 你来决定、你说了算。比 you decide 更强调尊重对方意愿。in mind = 心里想的、心目中的：Do you have a specific place in mind? / I have something in mind. 搭配：bear in mind（记住）、keep in mind（留意）。
 
 - **however** — 这里不是"然而"，而是"无论多么"：However salty the fries are, I'll eat them. 等于 no matter how。注意和表转折的 however 区分：I like bowling; however, I'm not good at it.（然而）。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：谈论喜好时，我听到了“bite to eat”。  
+   **英文**：When we talked about favorites, I heard "bite to eat".
+   > **解析**：本题在单元主题情境中复习表达 bite to eat。
+
+2. **中文**：朋友说“game night”很重要。  
+   **英文**：My friend said "game night" was important.
+   > **解析**：本题在单元主题情境中复习表达 game night。
+
+3. **中文**：我问他们喜欢哪一个：“however”。  
+   **英文**：I asked which one they liked: "however".
+   > **解析**：本题在单元主题情境中复习表达 however。
+
+4. **中文**：聊天时，我们比较了“place”。  
+   **英文**：In our chat, we compared "place".
+   > **解析**：本题在单元主题情境中复习表达 place。
+
+5. **中文**：同伴先选择了“skip”。  
+   **英文**：My partner chose "skip" first.
+   > **解析**：本题在单元主题情境中复习表达 skip。
+
+6. **中文**：我们用“stay over”描述喜好。  
+   **英文**：We used "stay over" to describe a favorite.
+   > **解析**：本题在单元主题情境中复习表达 stay over。
+
+7. **中文**：答案中包含“whoever”。  
+   **英文**：The answer included "whoever".
+   > **解析**：本题在单元主题情境中复习表达 whoever。
+
+8. **中文**：我从对话中记住了“dominoes”。  
+   **英文**：I remembered "dominoes" from the conversation.
+   > **解析**：本题在单元主题情境中复习表达 dominoes。
+
+9. **中文**：朋友微笑着重复了“go bowling”。  
+   **英文**：My friend repeated "go bowling" with a smile.
+   > **解析**：本题在单元主题情境中复习表达 go bowling。
+
+10. **中文**：那场关于喜好的聊天以“in mind”收尾。  
+   **英文**：That chat about favorites ended with "in mind".
+   > **解析**：本题在单元主题情境中复习表达 in mind。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. When we talked about favorites, I heard "bite to eat".
+   > **中文**：谈论喜好时，我听到了“bite to eat”。
+2. My friend said "game night" was important.
+   > **中文**：朋友说“game night”很重要。
+3. I asked which one they liked: "however".
+   > **中文**：我问他们喜欢哪一个：“however”。
+4. In our chat, we compared "place".
+   > **中文**：聊天时，我们比较了“place”。
+5. My partner chose "skip" first.
+   > **中文**：同伴先选择了“skip”。
+6. We used "stay over" to describe a favorite.
+   > **中文**：我们用“stay over”描述喜好。
+7. The answer included "whoever".
+   > **中文**：答案中包含“whoever”。
+8. I remembered "dominoes" from the conversation.
+   > **中文**：我从对话中记住了“dominoes”。
+9. My friend repeated "go bowling" with a smile.
+   > **中文**：朋友微笑着重复了“go bowling”。
+10. That chat about favorites ended with "in mind".
+   > **中文**：那场关于喜好的聊天以“in mind”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+When we talked about favorites, I heard "`____`".
+
+- [x] bite to eat
+- [ ] place
+- [ ] whoever
+
+> **解析**：本题在单元主题情境中复习表达 bite to eat。
+
+### 2
+
+My friend said "`____`" was important.
+
+- [x] game night
+- [ ] skip
+- [ ] dominoes
+
+> **解析**：本题在单元主题情境中复习表达 game night。
+
+### 3
+
+I asked which one they liked: "`____`".
+
+- [x] however
+- [ ] stay over
+- [ ] go bowling
+
+> **解析**：本题在单元主题情境中复习表达 however。
+
+### 4
+
+In our chat, we compared "`____`".
+
+- [x] place
+- [ ] whoever
+- [ ] in mind
+
+> **解析**：本题在单元主题情境中复习表达 place。
+
+### 5
+
+My partner chose "`____`" first.
+
+- [x] skip
+- [ ] dominoes
+- [ ] bite to eat
+
+> **解析**：本题在单元主题情境中复习表达 skip。
+
+### 6
+
+We used "`____`" to describe a favorite.
+
+- [x] stay over
+- [ ] go bowling
+- [ ] game night
+
+> **解析**：本题在单元主题情境中复习表达 stay over。
+
+### 7
+
+The answer included "`____`".
+
+- [x] whoever
+- [ ] in mind
+- [ ] however
+
+> **解析**：本题在单元主题情境中复习表达 whoever。
+
+### 8
+
+I remembered "`____`" from the conversation.
+
+- [x] dominoes
+- [ ] bite to eat
+- [ ] place
+
+> **解析**：本题在单元主题情境中复习表达 dominoes。
+
+### 9
+
+My friend repeated "`____`" with a smile.
+
+- [x] go bowling
+- [ ] game night
+- [ ] skip
+
+> **解析**：本题在单元主题情境中复习表达 go bowling。
+
+### 10
+
+That chat about favorites ended with "`____`".
+
+- [x] in mind
+- [ ] however
+- [ ] stay over
+
+> **解析**：本题在单元主题情境中复习表达 in mind。
+
+</quiz-cloze>

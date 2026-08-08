@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 both, bother, do, even, get, got to, guys, have, have on, instead, make it, must not, not quite, on my mind, one of these days, plain, regards, shocked, someplace, sometime soon, sorry, wear, why don't, willing, you've got to
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -31,3 +36,194 @@ both, bother, do, even, get, got to, guys, have, have on, instead, make it, must
 - **both / guys / must not** — both = 两者都：We both want to go. guys 在口语中可指任何性别的一群人：Hey guys! must not 表禁止或推断"一定不"：You must not be serious!（你一定不是认真的！）
 
 - **not quite / on my mind / do** — not quite = 不完全是、差一点：I'm not quite ready. on my mind = 在我心头、让我惦记：You've been on my mind. do 在此可能是强调助动词：I do want to hang out!
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：聚会上，我听到了“both”。  
+   **英文**：At the gathering, I heard "both".
+   > **解析**：本题在单元主题情境中复习表达 both。
+
+2. **中文**：朋友说了“got to”。  
+   **英文**：My friend said "got to".
+   > **解析**：本题在单元主题情境中复习表达 got to。
+
+3. **中文**：我们一起谈到了“have on”。  
+   **英文**：We talked about "have on" together.
+   > **解析**：本题在单元主题情境中复习表达 have on。
+
+4. **中文**：有人向我解释了“not quite”。  
+   **英文**：Someone explained "not quite" to me.
+   > **解析**：本题在单元主题情境中复习表达 not quite。
+
+5. **中文**：我用“plain”作了回应。  
+   **英文**：I replied with "plain".
+   > **解析**：本题在单元主题情境中复习表达 plain。
+
+6. **中文**：对话中包含“sometime soon”。  
+   **英文**：The conversation included "sometime soon".
+   > **解析**：本题在单元主题情境中复习表达 sometime soon。
+
+7. **中文**：同伴重复了“why don't”。  
+   **英文**：My partner repeated "why don't".
+   > **解析**：本题在单元主题情境中复习表达 why don't。
+
+8. **中文**：我们聊到“bother”时笑了。  
+   **英文**：We laughed about "bother".
+   > **解析**：本题在单元主题情境中复习表达 bother。
+
+9. **中文**：离开前，我记住了“guys”。  
+   **英文**：Before leaving, I remembered "guys".
+   > **解析**：本题在单元主题情境中复习表达 guys。
+
+10. **中文**：那段对话以“make it”收尾。  
+   **英文**：That conversation ended with "make it".
+   > **解析**：本题在单元主题情境中复习表达 make it。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the gathering, I heard "both".
+   > **中文**：聚会上，我听到了“both”。
+2. My friend said "got to".
+   > **中文**：朋友说了“got to”。
+3. We talked about "have on" together.
+   > **中文**：我们一起谈到了“have on”。
+4. Someone explained "not quite" to me.
+   > **中文**：有人向我解释了“not quite”。
+5. I replied with "plain".
+   > **中文**：我用“plain”作了回应。
+6. The conversation included "sometime soon".
+   > **中文**：对话中包含“sometime soon”。
+7. My partner repeated "why don't".
+   > **中文**：同伴重复了“why don't”。
+8. We laughed about "bother".
+   > **中文**：我们聊到“bother”时笑了。
+9. Before leaving, I remembered "guys".
+   > **中文**：离开前，我记住了“guys”。
+10. That conversation ended with "make it".
+   > **中文**：那段对话以“make it”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the gathering, I heard "`____`".
+
+- [x] both
+- [ ] not quite
+- [ ] why don't
+
+> **解析**：本题在单元主题情境中复习表达 both。
+
+### 2
+
+My friend said "`____`".
+
+- [x] got to
+- [ ] plain
+- [ ] bother
+
+> **解析**：本题在单元主题情境中复习表达 got to。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] have on
+- [ ] sometime soon
+- [ ] guys
+
+> **解析**：本题在单元主题情境中复习表达 have on。
+
+### 4
+
+Someone explained "`____`" to me.
+
+- [x] not quite
+- [ ] why don't
+- [ ] make it
+
+> **解析**：本题在单元主题情境中复习表达 not quite。
+
+### 5
+
+I replied with "`____`".
+
+- [x] plain
+- [ ] bother
+- [ ] both
+
+> **解析**：本题在单元主题情境中复习表达 plain。
+
+### 6
+
+The conversation included "`____`".
+
+- [x] sometime soon
+- [ ] guys
+- [ ] got to
+
+> **解析**：本题在单元主题情境中复习表达 sometime soon。
+
+### 7
+
+My partner repeated "`____`".
+
+- [x] why don't
+- [ ] make it
+- [ ] have on
+
+> **解析**：本题在单元主题情境中复习表达 why don't。
+
+### 8
+
+We laughed about "`____`".
+
+- [x] bother
+- [ ] both
+- [ ] not quite
+
+> **解析**：本题在单元主题情境中复习表达 bother。
+
+### 9
+
+Before leaving, I remembered "`____`".
+
+- [x] guys
+- [ ] got to
+- [ ] plain
+
+> **解析**：本题在单元主题情境中复习表达 guys。
+
+### 10
+
+That conversation ended with "`____`".
+
+- [x] make it
+- [ ] have on
+- [ ] sometime soon
+
+> **解析**：本题在单元主题情境中复习表达 make it。
+
+</quiz-cloze>

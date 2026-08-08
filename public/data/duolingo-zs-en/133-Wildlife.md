@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 ahead, beside, bright, dirt, dolphin, earth, giraffe, go back, humid, jungle, just, leaf, loudly, parrot, penguin, quietly, ridden, smell, stone, the environment, tiger, who, why, zebra
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ ridden 是 ride 的过去分词。the environment 表示"环境"。
 
 - **tiger / jungle / environment** — 老虎 / 丛林 / 环境。搭配：a wild tiger, in the jungle, the environment。例句：Tigers live in the jungle. / The jungle environment is humid. / Protect the environment! 注意 environment 前加 the。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：谈论喜好时，我听到了“ahead”。  
+   **英文**：When we talked about favorites, I heard "ahead".
+   > **解析**：本题在单元主题情境中复习表达 ahead。
+
+2. **中文**：朋友说“dolphin”很重要。  
+   **英文**：My friend said "dolphin" was important.
+   > **解析**：本题在单元主题情境中复习表达 dolphin。
+
+3. **中文**：我问他们喜欢哪一个：“go back”。  
+   **英文**：I asked which one they liked: "go back".
+   > **解析**：本题在单元主题情境中复习表达 go back。
+
+4. **中文**：聊天时，我们比较了“leaf”。  
+   **英文**：In our chat, we compared "leaf".
+   > **解析**：本题在单元主题情境中复习表达 leaf。
+
+5. **中文**：同伴先选择了“penguin”。  
+   **英文**：My partner chose "penguin" first.
+   > **解析**：本题在单元主题情境中复习表达 penguin。
+
+6. **中文**：我们用“stone”描述喜好。  
+   **英文**：We used "stone" to describe a favorite.
+   > **解析**：本题在单元主题情境中复习表达 stone。
+
+7. **中文**：答案中包含“who”。  
+   **英文**：The answer included "who".
+   > **解析**：本题在单元主题情境中复习表达 who。
+
+8. **中文**：我从对话中记住了“beside”。  
+   **英文**：I remembered "beside" from the conversation.
+   > **解析**：本题在单元主题情境中复习表达 beside。
+
+9. **中文**：朋友微笑着重复了“earth”。  
+   **英文**：My friend repeated "earth" with a smile.
+   > **解析**：本题在单元主题情境中复习表达 earth。
+
+10. **中文**：那场关于喜好的聊天以“jungle”收尾。  
+   **英文**：That chat about favorites ended with "jungle".
+   > **解析**：本题在单元主题情境中复习表达 jungle。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. When we talked about favorites, I heard "ahead".
+   > **中文**：谈论喜好时，我听到了“ahead”。
+2. My friend said "dolphin" was important.
+   > **中文**：朋友说“dolphin”很重要。
+3. I asked which one they liked: "go back".
+   > **中文**：我问他们喜欢哪一个：“go back”。
+4. In our chat, we compared "leaf".
+   > **中文**：聊天时，我们比较了“leaf”。
+5. My partner chose "penguin" first.
+   > **中文**：同伴先选择了“penguin”。
+6. We used "stone" to describe a favorite.
+   > **中文**：我们用“stone”描述喜好。
+7. The answer included "who".
+   > **中文**：答案中包含“who”。
+8. I remembered "beside" from the conversation.
+   > **中文**：我从对话中记住了“beside”。
+9. My friend repeated "earth" with a smile.
+   > **中文**：朋友微笑着重复了“earth”。
+10. That chat about favorites ended with "jungle".
+   > **中文**：那场关于喜好的聊天以“jungle”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+When we talked about favorites, I heard "`____`".
+
+- [x] ahead
+- [ ] leaf
+- [ ] who
+
+> **解析**：本题在单元主题情境中复习表达 ahead。
+
+### 2
+
+My friend said "`____`" was important.
+
+- [x] dolphin
+- [ ] penguin
+- [ ] beside
+
+> **解析**：本题在单元主题情境中复习表达 dolphin。
+
+### 3
+
+I asked which one they liked: "`____`".
+
+- [x] go back
+- [ ] stone
+- [ ] earth
+
+> **解析**：本题在单元主题情境中复习表达 go back。
+
+### 4
+
+In our chat, we compared "`____`".
+
+- [x] leaf
+- [ ] who
+- [ ] jungle
+
+> **解析**：本题在单元主题情境中复习表达 leaf。
+
+### 5
+
+My partner chose "`____`" first.
+
+- [x] penguin
+- [ ] beside
+- [ ] ahead
+
+> **解析**：本题在单元主题情境中复习表达 penguin。
+
+### 6
+
+We used "`____`" to describe a favorite.
+
+- [x] stone
+- [ ] earth
+- [ ] dolphin
+
+> **解析**：本题在单元主题情境中复习表达 stone。
+
+### 7
+
+The answer included "`____`".
+
+- [x] who
+- [ ] jungle
+- [ ] go back
+
+> **解析**：本题在单元主题情境中复习表达 who。
+
+### 8
+
+I remembered "`____`" from the conversation.
+
+- [x] beside
+- [ ] ahead
+- [ ] leaf
+
+> **解析**：本题在单元主题情境中复习表达 beside。
+
+### 9
+
+My friend repeated "`____`" with a smile.
+
+- [x] earth
+- [ ] dolphin
+- [ ] penguin
+
+> **解析**：本题在单元主题情境中复习表达 earth。
+
+### 10
+
+That chat about favorites ended with "`____`".
+
+- [x] jungle
+- [ ] go back
+- [ ] stone
+
+> **解析**：本题在单元主题情境中复习表达 jungle。
+
+</quiz-cloze>

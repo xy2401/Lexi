@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 apologize, ask, ask if, ask whether, care about, condition, condolences, excuse, forever, funeral, get better, get well soon, loss, mess up, news, on purpose, recover, sooner, sorry for, sorry that, sorry to hear, tell, too bad, wonder if, wonder whether
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -31,3 +36,194 @@ ask if / ask whether / wonder if / wonder whether 用来间接询问：I wonder 
 - **tell / care about / news** — tell 需要接人：Tell me.（不能说 Tell to me.）care about = 关心、在乎：I care about you. news 是不可数名词：some good news（不能说 a news）。
 
 - **too bad / forever** — too bad 口语中表示"太遗憾了"：That's too bad. 也可以表示"太糟糕了"（略带无奈）。forever = 永远：I'll care about you forever. 口语中也可夸张地表示"好久"：It took forever!
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“apologize”。  
+   **英文**：In this situation, I heard "apologize".
+   > **解析**：本题在单元主题情境中复习表达 apologize。
+
+2. **中文**：同伴解释了“care about”。  
+   **英文**：My partner explained "care about".
+   > **解析**：本题在单元主题情境中复习表达 care about。
+
+3. **中文**：我们一起谈到了“excuse”。  
+   **英文**：We talked about "excuse" together.
+   > **解析**：本题在单元主题情境中复习表达 excuse。
+
+4. **中文**：我记下了“get well soon”。  
+   **英文**：I wrote down "get well soon".
+   > **解析**：本题在单元主题情境中复习表达 get well soon。
+
+5. **中文**：例句中包含“on purpose”。  
+   **英文**：The example included "on purpose".
+   > **解析**：本题在单元主题情境中复习表达 on purpose。
+
+6. **中文**：我询问了“sorry for”。  
+   **英文**：I asked about "sorry for".
+   > **解析**：本题在单元主题情境中复习表达 sorry for。
+
+7. **中文**：我们在句子中用到了“too bad”。  
+   **英文**：We used "too bad" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 too bad。
+
+8. **中文**：朋友重复了“ask”。  
+   **英文**：My friend repeated "ask".
+   > **解析**：本题在单元主题情境中复习表达 ask。
+
+9. **中文**：后来，我记住了“condition”。  
+   **英文**：Later, I remembered "condition".
+   > **解析**：本题在单元主题情境中复习表达 condition。
+
+10. **中文**：这个小故事以“funeral”收尾。  
+   **英文**：The short story ended with "funeral".
+   > **解析**：本题在单元主题情境中复习表达 funeral。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "apologize".
+   > **中文**：在这个情境中，我听到了“apologize”。
+2. My partner explained "care about".
+   > **中文**：同伴解释了“care about”。
+3. We talked about "excuse" together.
+   > **中文**：我们一起谈到了“excuse”。
+4. I wrote down "get well soon".
+   > **中文**：我记下了“get well soon”。
+5. The example included "on purpose".
+   > **中文**：例句中包含“on purpose”。
+6. I asked about "sorry for".
+   > **中文**：我询问了“sorry for”。
+7. We used "too bad" in a sentence.
+   > **中文**：我们在句子中用到了“too bad”。
+8. My friend repeated "ask".
+   > **中文**：朋友重复了“ask”。
+9. Later, I remembered "condition".
+   > **中文**：后来，我记住了“condition”。
+10. The short story ended with "funeral".
+   > **中文**：这个小故事以“funeral”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] apologize
+- [ ] get well soon
+- [ ] too bad
+
+> **解析**：本题在单元主题情境中复习表达 apologize。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] care about
+- [ ] on purpose
+- [ ] ask
+
+> **解析**：本题在单元主题情境中复习表达 care about。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] excuse
+- [ ] sorry for
+- [ ] condition
+
+> **解析**：本题在单元主题情境中复习表达 excuse。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] get well soon
+- [ ] too bad
+- [ ] funeral
+
+> **解析**：本题在单元主题情境中复习表达 get well soon。
+
+### 5
+
+The example included "`____`".
+
+- [x] on purpose
+- [ ] ask
+- [ ] apologize
+
+> **解析**：本题在单元主题情境中复习表达 on purpose。
+
+### 6
+
+I asked about "`____`".
+
+- [x] sorry for
+- [ ] condition
+- [ ] care about
+
+> **解析**：本题在单元主题情境中复习表达 sorry for。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] too bad
+- [ ] funeral
+- [ ] excuse
+
+> **解析**：本题在单元主题情境中复习表达 too bad。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] ask
+- [ ] apologize
+- [ ] get well soon
+
+> **解析**：本题在单元主题情境中复习表达 ask。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] condition
+- [ ] care about
+- [ ] on purpose
+
+> **解析**：本题在单元主题情境中复习表达 condition。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] funeral
+- [ ] excuse
+- [ ] sorry for
+
+> **解析**：本题在单元主题情境中复习表达 funeral。
+
+</quiz-cloze>

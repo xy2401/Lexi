@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 board, book, cruise, currency exchange, depart, direct, explore, ferry, get, go backpacking, hitchhike, hostel, if, layover, luxury, next day, one-way, ride, round-trip, say that again, wherever, will, won't
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ will / won't 表将来/意愿。wherever = no matter where。
 
 - **luxury / hitchhike / wherever** — 豪华 / 搭便车 / 无论哪。搭配：luxury travel, hitchhike across the country, wherever the road takes us。例句：She prefers luxury trips. / He hitchhiked across America. / Wherever we end up, it'll be fun. 注意 hitchhike 是免费搭车旅行。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：谈论喜好时，我听到了“board”。  
+   **英文**：When we talked about favorites, I heard "board".
+   > **解析**：本题在单元主题情境中复习表达 board。
+
+2. **中文**：朋友说“currency exchange”很重要。  
+   **英文**：My friend said "currency exchange" was important.
+   > **解析**：本题在单元主题情境中复习表达 currency exchange。
+
+3. **中文**：我问他们喜欢哪一个：“ferry”。  
+   **英文**：I asked which one they liked: "ferry".
+   > **解析**：本题在单元主题情境中复习表达 ferry。
+
+4. **中文**：聊天时，我们比较了“hitchhike”。  
+   **英文**：In our chat, we compared "hitchhike".
+   > **解析**：本题在单元主题情境中复习表达 hitchhike。
+
+5. **中文**：同伴先选择了“luxury”。  
+   **英文**：My partner chose "luxury" first.
+   > **解析**：本题在单元主题情境中复习表达 luxury。
+
+6. **中文**：我们用“ride”描述喜好。  
+   **英文**：We used "ride" to describe a favorite.
+   > **解析**：本题在单元主题情境中复习表达 ride。
+
+7. **中文**：答案中包含“will”。  
+   **英文**：The answer included "will".
+   > **解析**：本题在单元主题情境中复习表达 will。
+
+8. **中文**：我从对话中记住了“book”。  
+   **英文**：I remembered "book" from the conversation.
+   > **解析**：本题在单元主题情境中复习表达 book。
+
+9. **中文**：朋友微笑着重复了“direct”。  
+   **英文**：My friend repeated "direct" with a smile.
+   > **解析**：本题在单元主题情境中复习表达 direct。
+
+10. **中文**：那场关于喜好的聊天以“get”收尾。  
+   **英文**：That chat about favorites ended with "get".
+   > **解析**：本题在单元主题情境中复习表达 get。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. When we talked about favorites, I heard "board".
+   > **中文**：谈论喜好时，我听到了“board”。
+2. My friend said "currency exchange" was important.
+   > **中文**：朋友说“currency exchange”很重要。
+3. I asked which one they liked: "ferry".
+   > **中文**：我问他们喜欢哪一个：“ferry”。
+4. In our chat, we compared "hitchhike".
+   > **中文**：聊天时，我们比较了“hitchhike”。
+5. My partner chose "luxury" first.
+   > **中文**：同伴先选择了“luxury”。
+6. We used "ride" to describe a favorite.
+   > **中文**：我们用“ride”描述喜好。
+7. The answer included "will".
+   > **中文**：答案中包含“will”。
+8. I remembered "book" from the conversation.
+   > **中文**：我从对话中记住了“book”。
+9. My friend repeated "direct" with a smile.
+   > **中文**：朋友微笑着重复了“direct”。
+10. That chat about favorites ended with "get".
+   > **中文**：那场关于喜好的聊天以“get”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+When we talked about favorites, I heard "`____`".
+
+- [x] board
+- [ ] hitchhike
+- [ ] will
+
+> **解析**：本题在单元主题情境中复习表达 board。
+
+### 2
+
+My friend said "`____`" was important.
+
+- [x] currency exchange
+- [ ] luxury
+- [ ] book
+
+> **解析**：本题在单元主题情境中复习表达 currency exchange。
+
+### 3
+
+I asked which one they liked: "`____`".
+
+- [x] ferry
+- [ ] ride
+- [ ] direct
+
+> **解析**：本题在单元主题情境中复习表达 ferry。
+
+### 4
+
+In our chat, we compared "`____`".
+
+- [x] hitchhike
+- [ ] will
+- [ ] get
+
+> **解析**：本题在单元主题情境中复习表达 hitchhike。
+
+### 5
+
+My partner chose "`____`" first.
+
+- [x] luxury
+- [ ] book
+- [ ] board
+
+> **解析**：本题在单元主题情境中复习表达 luxury。
+
+### 6
+
+We used "`____`" to describe a favorite.
+
+- [x] ride
+- [ ] direct
+- [ ] currency exchange
+
+> **解析**：本题在单元主题情境中复习表达 ride。
+
+### 7
+
+The answer included "`____`".
+
+- [x] will
+- [ ] get
+- [ ] ferry
+
+> **解析**：本题在单元主题情境中复习表达 will。
+
+### 8
+
+I remembered "`____`" from the conversation.
+
+- [x] book
+- [ ] board
+- [ ] hitchhike
+
+> **解析**：本题在单元主题情境中复习表达 book。
+
+### 9
+
+My friend repeated "`____`" with a smile.
+
+- [x] direct
+- [ ] currency exchange
+- [ ] luxury
+
+> **解析**：本题在单元主题情境中复习表达 direct。
+
+### 10
+
+That chat about favorites ended with "`____`".
+
+- [x] get
+- [ ] ferry
+- [ ] ride
+
+> **解析**：本题在单元主题情境中复习表达 get。
+
+</quiz-cloze>

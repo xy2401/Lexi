@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 1984, 2005, 2020, at last, by the time, eighteenth, experience, had, hadn't, he'd, hero, invent, predict, previous, recognize, seventies, she'd, situation, succeed in, the day before, they'd, we'd, you'd
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -27,3 +32,194 @@
 - **seventies / eighteenth / previous** — seventies = 七十年代（1970s），注意用复数。eighteenth = 第十八（序数词）。previous = 之前的，比 last 更正式：the previous situation / the previous century.
 
 - **hero / 1984 / 2005 / 2020** — hero 是英雄（复数 heroes）。年份读法：1984 = nineteen eighty-four, 2005 = two thousand five, 2020 = twenty twenty。注意 2000 年后年份有两种读法。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“1984”。  
+   **英文**：At work, we discussed "1984".
+   > **解析**：本题在单元主题情境中复习表达 1984。
+
+2. **中文**：同事提到了“at last”。  
+   **英文**：My coworker mentioned "at last".
+   > **解析**：本题在单元主题情境中复习表达 at last。
+
+3. **中文**：会议中，我听到了“had”。  
+   **英文**：In the meeting, I heard "had".
+   > **解析**：本题在单元主题情境中复习表达 had。
+
+4. **中文**：我把“hero”写进了笔记。  
+   **英文**：I added "hero" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 hero。
+
+5. **中文**：经理解释了“recognize”。  
+   **英文**：The manager explained "recognize".
+   > **解析**：本题在单元主题情境中复习表达 recognize。
+
+6. **中文**：团队今天用到了“situation”。  
+   **英文**：Our team used "situation" today.
+   > **解析**：本题在单元主题情境中复习表达 situation。
+
+7. **中文**：午饭前，我们查看了“we'd”。  
+   **英文**：Before lunch, we checked "we'd".
+   > **解析**：本题在单元主题情境中复习表达 we'd。
+
+8. **中文**：同事询问了“2005”。  
+   **英文**：My colleague asked about "2005".
+   > **解析**：本题在单元主题情境中复习表达 2005。
+
+9. **中文**：报告中包含“eighteenth”。  
+   **英文**：The report included "eighteenth".
+   > **解析**：本题在单元主题情境中复习表达 eighteenth。
+
+10. **中文**：一天结束时，我记住了“hadn't”。  
+   **英文**：At the end of the day, I remembered "hadn't".
+   > **解析**：本题在单元主题情境中复习表达 hadn't。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "1984".
+   > **中文**：工作中，我们讨论了“1984”。
+2. My coworker mentioned "at last".
+   > **中文**：同事提到了“at last”。
+3. In the meeting, I heard "had".
+   > **中文**：会议中，我听到了“had”。
+4. I added "hero" to my notes.
+   > **中文**：我把“hero”写进了笔记。
+5. The manager explained "recognize".
+   > **中文**：经理解释了“recognize”。
+6. Our team used "situation" today.
+   > **中文**：团队今天用到了“situation”。
+7. Before lunch, we checked "we'd".
+   > **中文**：午饭前，我们查看了“we'd”。
+8. My colleague asked about "2005".
+   > **中文**：同事询问了“2005”。
+9. The report included "eighteenth".
+   > **中文**：报告中包含“eighteenth”。
+10. At the end of the day, I remembered "hadn't".
+   > **中文**：一天结束时，我记住了“hadn't”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] 1984
+- [ ] hero
+- [ ] we'd
+
+> **解析**：本题在单元主题情境中复习表达 1984。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] at last
+- [ ] recognize
+- [ ] 2005
+
+> **解析**：本题在单元主题情境中复习表达 at last。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] had
+- [ ] situation
+- [ ] eighteenth
+
+> **解析**：本题在单元主题情境中复习表达 had。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] hero
+- [ ] we'd
+- [ ] hadn't
+
+> **解析**：本题在单元主题情境中复习表达 hero。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] recognize
+- [ ] 2005
+- [ ] 1984
+
+> **解析**：本题在单元主题情境中复习表达 recognize。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] situation
+- [ ] eighteenth
+- [ ] at last
+
+> **解析**：本题在单元主题情境中复习表达 situation。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] we'd
+- [ ] hadn't
+- [ ] had
+
+> **解析**：本题在单元主题情境中复习表达 we'd。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] 2005
+- [ ] 1984
+- [ ] hero
+
+> **解析**：本题在单元主题情境中复习表达 2005。
+
+### 9
+
+The report included "`____`".
+
+- [x] eighteenth
+- [ ] at last
+- [ ] recognize
+
+> **解析**：本题在单元主题情境中复习表达 eighteenth。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] hadn't
+- [ ] had
+- [ ] situation
+
+> **解析**：本题在单元主题情境中复习表达 hadn't。
+
+</quiz-cloze>

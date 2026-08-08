@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 approach, arrow, beyond, bury, collect, deep, evil, fate, get out of, instantly, journey, just as, legend, magical, more and more, mysterious, nevertheless, no longer, one by one, strength, sword, tale, the least of, treasure, up ahead, worry
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -37,3 +42,194 @@ approach, arrow, beyond, bury, collect, deep, evil, fate, get out of, instantly,
 - **no longer / nevertheless** — 两者都用于叙事转折。no longer 表状态改变（不再），nevertheless 表让步转折（尽管如此）。搭配：no longer safe, nevertheless they tried。The path was no longer safe. / Nevertheless, they walked on. 注意 no longer 比 not anymore 更正式、更有文学感。
 
 - **worry / instantly** — worry 是担忧，instantly 是立刻。搭配：don't worry, instantly recognized。Don't worry—the journey will end. / She instantly knew the legend was true. 注意 instantly 比 immediately 更有"一瞬间"的画面感，常用于叙事。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在机场，我听到了“approach”。  
+   **英文**：At the airport, I heard "approach".
+   > **解析**：本题在单元主题情境中复习表达 approach。
+
+2. **中文**：我的旅伴解释了“collect”。  
+   **英文**：My travel partner explained "collect".
+   > **解析**：本题在单元主题情境中复习表达 collect。
+
+3. **中文**：旅行途中，我们谈到了“get out of”。  
+   **英文**：During the trip, we talked about "get out of".
+   > **解析**：本题在单元主题情境中复习表达 get out of。
+
+4. **中文**：在酒店里，我记下了“just as”。  
+   **英文**：At the hotel, I wrote down "just as".
+   > **解析**：本题在单元主题情境中复习表达 just as。
+
+5. **中文**：旅行者清楚地重复了“mysterious”。  
+   **英文**：The traveler repeated "mysterious" clearly.
+   > **解析**：本题在单元主题情境中复习表达 mysterious。
+
+6. **中文**：离开前，我查看了“strength”。  
+   **英文**：Before leaving, I checked "strength".
+   > **解析**：本题在单元主题情境中复习表达 strength。
+
+7. **中文**：在去那里的路上，我们用到了“treasure”。  
+   **英文**：On the way there, we used "treasure".
+   > **解析**：本题在单元主题情境中复习表达 treasure。
+
+8. **中文**：到达后，我想起了“arrow”。  
+   **英文**：After arrival, I remembered "arrow".
+   > **解析**：本题在单元主题情境中复习表达 arrow。
+
+9. **中文**：导游指出了“deep”。  
+   **英文**：The guide pointed out "deep".
+   > **解析**：本题在单元主题情境中复习表达 deep。
+
+10. **中文**：那段旅行故事以“instantly”收尾。  
+   **英文**：That travel story ended with "instantly".
+   > **解析**：本题在单元主题情境中复习表达 instantly。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the airport, I heard "approach".
+   > **中文**：在机场，我听到了“approach”。
+2. My travel partner explained "collect".
+   > **中文**：我的旅伴解释了“collect”。
+3. During the trip, we talked about "get out of".
+   > **中文**：旅行途中，我们谈到了“get out of”。
+4. At the hotel, I wrote down "just as".
+   > **中文**：在酒店里，我记下了“just as”。
+5. The traveler repeated "mysterious" clearly.
+   > **中文**：旅行者清楚地重复了“mysterious”。
+6. Before leaving, I checked "strength".
+   > **中文**：离开前，我查看了“strength”。
+7. On the way there, we used "treasure".
+   > **中文**：在去那里的路上，我们用到了“treasure”。
+8. After arrival, I remembered "arrow".
+   > **中文**：到达后，我想起了“arrow”。
+9. The guide pointed out "deep".
+   > **中文**：导游指出了“deep”。
+10. That travel story ended with "instantly".
+   > **中文**：那段旅行故事以“instantly”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the airport, I heard "`____`".
+
+- [x] approach
+- [ ] just as
+- [ ] treasure
+
+> **解析**：本题在单元主题情境中复习表达 approach。
+
+### 2
+
+My travel partner explained "`____`".
+
+- [x] collect
+- [ ] mysterious
+- [ ] arrow
+
+> **解析**：本题在单元主题情境中复习表达 collect。
+
+### 3
+
+During the trip, we talked about "`____`".
+
+- [x] get out of
+- [ ] strength
+- [ ] deep
+
+> **解析**：本题在单元主题情境中复习表达 get out of。
+
+### 4
+
+At the hotel, I wrote down "`____`".
+
+- [x] just as
+- [ ] treasure
+- [ ] instantly
+
+> **解析**：本题在单元主题情境中复习表达 just as。
+
+### 5
+
+The traveler repeated "`____`" clearly.
+
+- [x] mysterious
+- [ ] arrow
+- [ ] approach
+
+> **解析**：本题在单元主题情境中复习表达 mysterious。
+
+### 6
+
+Before leaving, I checked "`____`".
+
+- [x] strength
+- [ ] deep
+- [ ] collect
+
+> **解析**：本题在单元主题情境中复习表达 strength。
+
+### 7
+
+On the way there, we used "`____`".
+
+- [x] treasure
+- [ ] instantly
+- [ ] get out of
+
+> **解析**：本题在单元主题情境中复习表达 treasure。
+
+### 8
+
+After arrival, I remembered "`____`".
+
+- [x] arrow
+- [ ] approach
+- [ ] just as
+
+> **解析**：本题在单元主题情境中复习表达 arrow。
+
+### 9
+
+The guide pointed out "`____`".
+
+- [x] deep
+- [ ] collect
+- [ ] mysterious
+
+> **解析**：本题在单元主题情境中复习表达 deep。
+
+### 10
+
+That travel story ended with "`____`".
+
+- [x] instantly
+- [ ] get out of
+- [ ] strength
+
+> **解析**：本题在单元主题情境中复习表达 instantly。
+
+</quiz-cloze>

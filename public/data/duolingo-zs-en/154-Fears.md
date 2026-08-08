@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 anxious, attack, bee, calm down, cliff, creepy, earthquake, enjoy, fear, get used to, hate, hate to, keep, nightmare, scared of, shark, spider, stress out, swum, terrified, thank goodness, used to, yikes
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ be scared of / be terrified of 表恐惧。used to 表过去习惯。
 
 - **get used to / used to / enjoy** — 习惯 / 过去常常 / 享受。搭配：get used to the noise, used to live here, enjoy the moment。例句：You'll get used to it. / I used to live near the sea. / Enjoy your vacation! 注意 get used to + doing; used to + do。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“anxious”。  
+   **英文**：In this situation, I heard "anxious".
+   > **解析**：本题在单元主题情境中复习表达 anxious。
+
+2. **中文**：同伴解释了“calm down”。  
+   **英文**：My partner explained "calm down".
+   > **解析**：本题在单元主题情境中复习表达 calm down。
+
+3. **中文**：我们一起谈到了“enjoy”。  
+   **英文**：We talked about "enjoy" together.
+   > **解析**：本题在单元主题情境中复习表达 enjoy。
+
+4. **中文**：我记下了“hate”。  
+   **英文**：I wrote down "hate".
+   > **解析**：本题在单元主题情境中复习表达 hate。
+
+5. **中文**：例句中包含“scared of”。  
+   **英文**：The example included "scared of".
+   > **解析**：本题在单元主题情境中复习表达 scared of。
+
+6. **中文**：我询问了“stress out”。  
+   **英文**：I asked about "stress out".
+   > **解析**：本题在单元主题情境中复习表达 stress out。
+
+7. **中文**：我们在句子中用到了“used to”。  
+   **英文**：We used "used to" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 used to。
+
+8. **中文**：朋友重复了“attack”。  
+   **英文**：My friend repeated "attack".
+   > **解析**：本题在单元主题情境中复习表达 attack。
+
+9. **中文**：后来，我记住了“creepy”。  
+   **英文**：Later, I remembered "creepy".
+   > **解析**：本题在单元主题情境中复习表达 creepy。
+
+10. **中文**：这个小故事以“fear”收尾。  
+   **英文**：The short story ended with "fear".
+   > **解析**：本题在单元主题情境中复习表达 fear。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "anxious".
+   > **中文**：在这个情境中，我听到了“anxious”。
+2. My partner explained "calm down".
+   > **中文**：同伴解释了“calm down”。
+3. We talked about "enjoy" together.
+   > **中文**：我们一起谈到了“enjoy”。
+4. I wrote down "hate".
+   > **中文**：我记下了“hate”。
+5. The example included "scared of".
+   > **中文**：例句中包含“scared of”。
+6. I asked about "stress out".
+   > **中文**：我询问了“stress out”。
+7. We used "used to" in a sentence.
+   > **中文**：我们在句子中用到了“used to”。
+8. My friend repeated "attack".
+   > **中文**：朋友重复了“attack”。
+9. Later, I remembered "creepy".
+   > **中文**：后来，我记住了“creepy”。
+10. The short story ended with "fear".
+   > **中文**：这个小故事以“fear”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] anxious
+- [ ] hate
+- [ ] used to
+
+> **解析**：本题在单元主题情境中复习表达 anxious。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] calm down
+- [ ] scared of
+- [ ] attack
+
+> **解析**：本题在单元主题情境中复习表达 calm down。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] enjoy
+- [ ] stress out
+- [ ] creepy
+
+> **解析**：本题在单元主题情境中复习表达 enjoy。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] hate
+- [ ] used to
+- [ ] fear
+
+> **解析**：本题在单元主题情境中复习表达 hate。
+
+### 5
+
+The example included "`____`".
+
+- [x] scared of
+- [ ] attack
+- [ ] anxious
+
+> **解析**：本题在单元主题情境中复习表达 scared of。
+
+### 6
+
+I asked about "`____`".
+
+- [x] stress out
+- [ ] creepy
+- [ ] calm down
+
+> **解析**：本题在单元主题情境中复习表达 stress out。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] used to
+- [ ] fear
+- [ ] enjoy
+
+> **解析**：本题在单元主题情境中复习表达 used to。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] attack
+- [ ] anxious
+- [ ] hate
+
+> **解析**：本题在单元主题情境中复习表达 attack。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] creepy
+- [ ] calm down
+- [ ] scared of
+
+> **解析**：本题在单元主题情境中复习表达 creepy。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] fear
+- [ ] enjoy
+- [ ] stress out
+
+> **解析**：本题在单元主题情境中复习表达 fear。
+
+</quiz-cloze>

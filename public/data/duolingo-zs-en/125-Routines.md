@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 asleep, awake, bored, change, comb, down, dress, exercise, fall asleep, fallen asleep, help, hug, kiss, lots of, rang, relax, ring, rung, scared, series, shave, smile, stressed, toothpaste, uncomfortable
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ fall asleep（入睡）→ fallen asleep（已入睡）。ring → rang → rung
 
 - **stressed / scared / uncomfortable** — 压力 / 害怕 / 不适。搭配：feel stressed, scared of, uncomfortable。例句：I'm stressed about the exam. / She's scared of spiders. / These shoes are uncomfortable.
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“asleep”。  
+   **英文**：In this situation, I heard "asleep".
+   > **解析**：本题在单元主题情境中复习表达 asleep。
+
+2. **中文**：同伴解释了“comb”。  
+   **英文**：My partner explained "comb".
+   > **解析**：本题在单元主题情境中复习表达 comb。
+
+3. **中文**：我们一起谈到了“exercise”。  
+   **英文**：We talked about "exercise" together.
+   > **解析**：本题在单元主题情境中复习表达 exercise。
+
+4. **中文**：我记下了“hug”。  
+   **英文**：I wrote down "hug".
+   > **解析**：本题在单元主题情境中复习表达 hug。
+
+5. **中文**：例句中包含“relax”。  
+   **英文**：The example included "relax".
+   > **解析**：本题在单元主题情境中复习表达 relax。
+
+6. **中文**：我询问了“scared”。  
+   **英文**：I asked about "scared".
+   > **解析**：本题在单元主题情境中复习表达 scared。
+
+7. **中文**：我们在句子中用到了“stressed”。  
+   **英文**：We used "stressed" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 stressed。
+
+8. **中文**：朋友重复了“awake”。  
+   **英文**：My friend repeated "awake".
+   > **解析**：本题在单元主题情境中复习表达 awake。
+
+9. **中文**：后来，我记住了“down”。  
+   **英文**：Later, I remembered "down".
+   > **解析**：本题在单元主题情境中复习表达 down。
+
+10. **中文**：这个小故事以“fallen asleep”收尾。  
+   **英文**：The short story ended with "fallen asleep".
+   > **解析**：本题在单元主题情境中复习表达 fallen asleep。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "asleep".
+   > **中文**：在这个情境中，我听到了“asleep”。
+2. My partner explained "comb".
+   > **中文**：同伴解释了“comb”。
+3. We talked about "exercise" together.
+   > **中文**：我们一起谈到了“exercise”。
+4. I wrote down "hug".
+   > **中文**：我记下了“hug”。
+5. The example included "relax".
+   > **中文**：例句中包含“relax”。
+6. I asked about "scared".
+   > **中文**：我询问了“scared”。
+7. We used "stressed" in a sentence.
+   > **中文**：我们在句子中用到了“stressed”。
+8. My friend repeated "awake".
+   > **中文**：朋友重复了“awake”。
+9. Later, I remembered "down".
+   > **中文**：后来，我记住了“down”。
+10. The short story ended with "fallen asleep".
+   > **中文**：这个小故事以“fallen asleep”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] asleep
+- [ ] hug
+- [ ] stressed
+
+> **解析**：本题在单元主题情境中复习表达 asleep。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] comb
+- [ ] relax
+- [ ] awake
+
+> **解析**：本题在单元主题情境中复习表达 comb。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] exercise
+- [ ] scared
+- [ ] down
+
+> **解析**：本题在单元主题情境中复习表达 exercise。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] hug
+- [ ] stressed
+- [ ] fallen asleep
+
+> **解析**：本题在单元主题情境中复习表达 hug。
+
+### 5
+
+The example included "`____`".
+
+- [x] relax
+- [ ] awake
+- [ ] asleep
+
+> **解析**：本题在单元主题情境中复习表达 relax。
+
+### 6
+
+I asked about "`____`".
+
+- [x] scared
+- [ ] down
+- [ ] comb
+
+> **解析**：本题在单元主题情境中复习表达 scared。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] stressed
+- [ ] fallen asleep
+- [ ] exercise
+
+> **解析**：本题在单元主题情境中复习表达 stressed。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] awake
+- [ ] asleep
+- [ ] hug
+
+> **解析**：本题在单元主题情境中复习表达 awake。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] down
+- [ ] comb
+- [ ] relax
+
+> **解析**：本题在单元主题情境中复习表达 down。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] fallen asleep
+- [ ] exercise
+- [ ] scared
+
+> **解析**：本题在单元主题情境中复习表达 fallen asleep。
+
+</quiz-cloze>

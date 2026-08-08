@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 admission, back row, balcony, beautifully, country, did, didn't, do, does, doesn't, don't, enormous, guitarist, hard rock, have fun, historic, hit, in advance, out, play, section, sing, sung, unforgettable, upper level
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ sing → sang → sung。do/does/did 构成疑问和否定。
 
 - **balcony / section / upper level** — 阳台 / 区 / 上层。搭配：a balcony seat, section A, the upper level。例句：We got balcony seats. / Our section is near the stage. / The upper level is quieter. 注意这些帮助描述演唱会座位。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：谈论喜好时，我听到了“admission”。  
+   **英文**：When we talked about favorites, I heard "admission".
+   > **解析**：本题在单元主题情境中复习表达 admission。
+
+2. **中文**：朋友说“country”很重要。  
+   **英文**：My friend said "country" was important.
+   > **解析**：本题在单元主题情境中复习表达 country。
+
+3. **中文**：我问他们喜欢哪一个：“does”。  
+   **英文**：I asked which one they liked: "does".
+   > **解析**：本题在单元主题情境中复习表达 does。
+
+4. **中文**：聊天时，我们比较了“guitarist”。  
+   **英文**：In our chat, we compared "guitarist".
+   > **解析**：本题在单元主题情境中复习表达 guitarist。
+
+5. **中文**：同伴先选择了“historic”。  
+   **英文**：My partner chose "historic" first.
+   > **解析**：本题在单元主题情境中复习表达 historic。
+
+6. **中文**：我们用“play”描述喜好。  
+   **英文**：We used "play" to describe a favorite.
+   > **解析**：本题在单元主题情境中复习表达 play。
+
+7. **中文**：答案中包含“sung”。  
+   **英文**：The answer included "sung".
+   > **解析**：本题在单元主题情境中复习表达 sung。
+
+8. **中文**：我从对话中记住了“back row”。  
+   **英文**：I remembered "back row" from the conversation.
+   > **解析**：本题在单元主题情境中复习表达 back row。
+
+9. **中文**：朋友微笑着重复了“did”。  
+   **英文**：My friend repeated "did" with a smile.
+   > **解析**：本题在单元主题情境中复习表达 did。
+
+10. **中文**：那场关于喜好的聊天以“don't”收尾。  
+   **英文**：That chat about favorites ended with "don't".
+   > **解析**：本题在单元主题情境中复习表达 don't。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. When we talked about favorites, I heard "admission".
+   > **中文**：谈论喜好时，我听到了“admission”。
+2. My friend said "country" was important.
+   > **中文**：朋友说“country”很重要。
+3. I asked which one they liked: "does".
+   > **中文**：我问他们喜欢哪一个：“does”。
+4. In our chat, we compared "guitarist".
+   > **中文**：聊天时，我们比较了“guitarist”。
+5. My partner chose "historic" first.
+   > **中文**：同伴先选择了“historic”。
+6. We used "play" to describe a favorite.
+   > **中文**：我们用“play”描述喜好。
+7. The answer included "sung".
+   > **中文**：答案中包含“sung”。
+8. I remembered "back row" from the conversation.
+   > **中文**：我从对话中记住了“back row”。
+9. My friend repeated "did" with a smile.
+   > **中文**：朋友微笑着重复了“did”。
+10. That chat about favorites ended with "don't".
+   > **中文**：那场关于喜好的聊天以“don't”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+When we talked about favorites, I heard "`____`".
+
+- [x] admission
+- [ ] guitarist
+- [ ] sung
+
+> **解析**：本题在单元主题情境中复习表达 admission。
+
+### 2
+
+My friend said "`____`" was important.
+
+- [x] country
+- [ ] historic
+- [ ] back row
+
+> **解析**：本题在单元主题情境中复习表达 country。
+
+### 3
+
+I asked which one they liked: "`____`".
+
+- [x] does
+- [ ] play
+- [ ] did
+
+> **解析**：本题在单元主题情境中复习表达 does。
+
+### 4
+
+In our chat, we compared "`____`".
+
+- [x] guitarist
+- [ ] sung
+- [ ] don't
+
+> **解析**：本题在单元主题情境中复习表达 guitarist。
+
+### 5
+
+My partner chose "`____`" first.
+
+- [x] historic
+- [ ] back row
+- [ ] admission
+
+> **解析**：本题在单元主题情境中复习表达 historic。
+
+### 6
+
+We used "`____`" to describe a favorite.
+
+- [x] play
+- [ ] did
+- [ ] country
+
+> **解析**：本题在单元主题情境中复习表达 play。
+
+### 7
+
+The answer included "`____`".
+
+- [x] sung
+- [ ] don't
+- [ ] does
+
+> **解析**：本题在单元主题情境中复习表达 sung。
+
+### 8
+
+I remembered "`____`" from the conversation.
+
+- [x] back row
+- [ ] admission
+- [ ] guitarist
+
+> **解析**：本题在单元主题情境中复习表达 back row。
+
+### 9
+
+My friend repeated "`____`" with a smile.
+
+- [x] did
+- [ ] country
+- [ ] historic
+
+> **解析**：本题在单元主题情境中复习表达 did。
+
+### 10
+
+That chat about favorites ended with "`____`".
+
+- [x] don't
+- [ ] does
+- [ ] play
+
+> **解析**：本题在单元主题情境中复习表达 don't。
+
+</quiz-cloze>

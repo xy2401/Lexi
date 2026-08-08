@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 correct, do you know what i mean, experiment, faculty, feedback, follow, get through, go over, in other words, it, major, notes, outline, philosophy, qualified, read, reference, research, senior, sitting, start, thesis, tutor
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -39,3 +44,194 @@ correct, do you know what i mean, experiment, faculty, feedback, follow, get thr
 - **follow / start / sitting** — follow 是跟上/理解，start 是开始，sitting 是坐着/一次（考试）。搭配：follow the lecture, start the experiment, a sitting。I can't follow this philosophy lecture. / We read the whole chapter in one sitting. 注意 sitting 可指"一次连续的时间"：in one sitting = 一口气。
 
 - **read / it** — read 在学术语境中常指"研读、阅读（材料）"。搭配：read a paper, read for a class。I have three papers to read. it 在这里可能指代学业中的某件事：I can't get through it. 注意 read 的过去式发音不同：read /riːd/（现在）vs read /rɛd/（过去）。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：谈论喜好时，我听到了“correct”。  
+   **英文**：When we talked about favorites, I heard "correct".
+   > **解析**：本题在单元主题情境中复习表达 correct。
+
+2. **中文**：朋友说“faculty”很重要。  
+   **英文**：My friend said "faculty" was important.
+   > **解析**：本题在单元主题情境中复习表达 faculty。
+
+3. **中文**：我问他们喜欢哪一个：“go over”。  
+   **英文**：I asked which one they liked: "go over".
+   > **解析**：本题在单元主题情境中复习表达 go over。
+
+4. **中文**：聊天时，我们比较了“notes”。  
+   **英文**：In our chat, we compared "notes".
+   > **解析**：本题在单元主题情境中复习表达 notes。
+
+5. **中文**：同伴先选择了“qualified”。  
+   **英文**：My partner chose "qualified" first.
+   > **解析**：本题在单元主题情境中复习表达 qualified。
+
+6. **中文**：我们用“senior”描述喜好。  
+   **英文**：We used "senior" to describe a favorite.
+   > **解析**：本题在单元主题情境中复习表达 senior。
+
+7. **中文**：答案中包含“thesis”。  
+   **英文**：The answer included "thesis".
+   > **解析**：本题在单元主题情境中复习表达 thesis。
+
+8. **中文**：我从对话中记住了“do you know what i mean”。  
+   **英文**：I remembered "do you know what i mean" from the conversation.
+   > **解析**：本题在单元主题情境中复习表达 do you know what i mean。
+
+9. **中文**：朋友微笑着重复了“follow”。  
+   **英文**：My friend repeated "follow" with a smile.
+   > **解析**：本题在单元主题情境中复习表达 follow。
+
+10. **中文**：那场关于喜好的聊天以“in other words”收尾。  
+   **英文**：That chat about favorites ended with "in other words".
+   > **解析**：本题在单元主题情境中复习表达 in other words。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. When we talked about favorites, I heard "correct".
+   > **中文**：谈论喜好时，我听到了“correct”。
+2. My friend said "faculty" was important.
+   > **中文**：朋友说“faculty”很重要。
+3. I asked which one they liked: "go over".
+   > **中文**：我问他们喜欢哪一个：“go over”。
+4. In our chat, we compared "notes".
+   > **中文**：聊天时，我们比较了“notes”。
+5. My partner chose "qualified" first.
+   > **中文**：同伴先选择了“qualified”。
+6. We used "senior" to describe a favorite.
+   > **中文**：我们用“senior”描述喜好。
+7. The answer included "thesis".
+   > **中文**：答案中包含“thesis”。
+8. I remembered "do you know what i mean" from the conversation.
+   > **中文**：我从对话中记住了“do you know what i mean”。
+9. My friend repeated "follow" with a smile.
+   > **中文**：朋友微笑着重复了“follow”。
+10. That chat about favorites ended with "in other words".
+   > **中文**：那场关于喜好的聊天以“in other words”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+When we talked about favorites, I heard "`____`".
+
+- [x] correct
+- [ ] notes
+- [ ] thesis
+
+> **解析**：本题在单元主题情境中复习表达 correct。
+
+### 2
+
+My friend said "`____`" was important.
+
+- [x] faculty
+- [ ] qualified
+- [ ] do you know what i mean
+
+> **解析**：本题在单元主题情境中复习表达 faculty。
+
+### 3
+
+I asked which one they liked: "`____`".
+
+- [x] go over
+- [ ] senior
+- [ ] follow
+
+> **解析**：本题在单元主题情境中复习表达 go over。
+
+### 4
+
+In our chat, we compared "`____`".
+
+- [x] notes
+- [ ] thesis
+- [ ] in other words
+
+> **解析**：本题在单元主题情境中复习表达 notes。
+
+### 5
+
+My partner chose "`____`" first.
+
+- [x] qualified
+- [ ] do you know what i mean
+- [ ] correct
+
+> **解析**：本题在单元主题情境中复习表达 qualified。
+
+### 6
+
+We used "`____`" to describe a favorite.
+
+- [x] senior
+- [ ] follow
+- [ ] faculty
+
+> **解析**：本题在单元主题情境中复习表达 senior。
+
+### 7
+
+The answer included "`____`".
+
+- [x] thesis
+- [ ] in other words
+- [ ] go over
+
+> **解析**：本题在单元主题情境中复习表达 thesis。
+
+### 8
+
+I remembered "`____`" from the conversation.
+
+- [x] do you know what i mean
+- [ ] correct
+- [ ] notes
+
+> **解析**：本题在单元主题情境中复习表达 do you know what i mean。
+
+### 9
+
+My friend repeated "`____`" with a smile.
+
+- [x] follow
+- [ ] faculty
+- [ ] qualified
+
+> **解析**：本题在单元主题情境中复习表达 follow。
+
+### 10
+
+That chat about favorites ended with "`____`".
+
+- [x] in other words
+- [ ] go over
+- [ ] senior
+
+> **解析**：本题在单元主题情境中复习表达 in other words。
+
+</quiz-cloze>

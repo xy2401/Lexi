@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 aspirin, badly, bleed, clinic, cough, degree, do, does, doesn't, don't, elbow, exhausted, fever, follow, fortunately, has got, have got, hurt, pharmacy, prescription, rest, sore, temperature, throat, tissue
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ have got 表示"有"（口语）。has got / have got 的区别在于主语单�
 
 - **prescription / follow / fortunately** — 处方 / 遵循 / 幸好。搭配：fill a prescription, follow the doctor, fortunately。例句：I need to fill this prescription. / Follow the doctor's advice. / Fortunately, I feel better now.
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在诊所里，我听到了“aspirin”。  
+   **英文**：At the clinic, I heard "aspirin".
+   > **解析**：本题在单元主题情境中复习表达 aspirin。
+
+2. **中文**：医生解释了“cough”。  
+   **英文**：The doctor explained "cough".
+   > **解析**：本题在单元主题情境中复习表达 cough。
+
+3. **中文**：我们认真谈到了“doesn't”。  
+   **英文**：We talked about "doesn't" carefully.
+   > **解析**：本题在单元主题情境中复习表达 doesn't。
+
+4. **中文**：我把“fever”写进健康笔记。  
+   **英文**：I wrote "fever" in my health notes.
+   > **解析**：本题在单元主题情境中复习表达 fever。
+
+5. **中文**：护士重复了“has got”。  
+   **英文**：The nurse repeated "has got".
+   > **解析**：本题在单元主题情境中复习表达 has got。
+
+6. **中文**：朋友询问了“prescription”。  
+   **英文**：My friend asked about "prescription".
+   > **解析**：本题在单元主题情境中复习表达 prescription。
+
+7. **中文**：建议中包含“temperature”。  
+   **英文**：The advice included "temperature".
+   > **解析**：本题在单元主题情境中复习表达 temperature。
+
+8. **中文**：就诊后，我记住了“badly”。  
+   **英文**：After the visit, I remembered "badly".
+   > **解析**：本题在单元主题情境中复习表达 badly。
+
+9. **中文**：我们在对话中用到了“degree”。  
+   **英文**：We used "degree" in the conversation.
+   > **解析**：本题在单元主题情境中复习表达 degree。
+
+10. **中文**：那次健康交流以“elbow”收尾。  
+   **英文**：That health talk ended with "elbow".
+   > **解析**：本题在单元主题情境中复习表达 elbow。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the clinic, I heard "aspirin".
+   > **中文**：在诊所里，我听到了“aspirin”。
+2. The doctor explained "cough".
+   > **中文**：医生解释了“cough”。
+3. We talked about "doesn't" carefully.
+   > **中文**：我们认真谈到了“doesn't”。
+4. I wrote "fever" in my health notes.
+   > **中文**：我把“fever”写进健康笔记。
+5. The nurse repeated "has got".
+   > **中文**：护士重复了“has got”。
+6. My friend asked about "prescription".
+   > **中文**：朋友询问了“prescription”。
+7. The advice included "temperature".
+   > **中文**：建议中包含“temperature”。
+8. After the visit, I remembered "badly".
+   > **中文**：就诊后，我记住了“badly”。
+9. We used "degree" in the conversation.
+   > **中文**：我们在对话中用到了“degree”。
+10. That health talk ended with "elbow".
+   > **中文**：那次健康交流以“elbow”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the clinic, I heard "`____`".
+
+- [x] aspirin
+- [ ] fever
+- [ ] temperature
+
+> **解析**：本题在单元主题情境中复习表达 aspirin。
+
+### 2
+
+The doctor explained "`____`".
+
+- [x] cough
+- [ ] has got
+- [ ] badly
+
+> **解析**：本题在单元主题情境中复习表达 cough。
+
+### 3
+
+We talked about "`____`" carefully.
+
+- [x] doesn't
+- [ ] prescription
+- [ ] degree
+
+> **解析**：本题在单元主题情境中复习表达 doesn't。
+
+### 4
+
+I wrote "`____`" in my health notes.
+
+- [x] fever
+- [ ] temperature
+- [ ] elbow
+
+> **解析**：本题在单元主题情境中复习表达 fever。
+
+### 5
+
+The nurse repeated "`____`".
+
+- [x] has got
+- [ ] badly
+- [ ] aspirin
+
+> **解析**：本题在单元主题情境中复习表达 has got。
+
+### 6
+
+My friend asked about "`____`".
+
+- [x] prescription
+- [ ] degree
+- [ ] cough
+
+> **解析**：本题在单元主题情境中复习表达 prescription。
+
+### 7
+
+The advice included "`____`".
+
+- [x] temperature
+- [ ] elbow
+- [ ] doesn't
+
+> **解析**：本题在单元主题情境中复习表达 temperature。
+
+### 8
+
+After the visit, I remembered "`____`".
+
+- [x] badly
+- [ ] aspirin
+- [ ] fever
+
+> **解析**：本题在单元主题情境中复习表达 badly。
+
+### 9
+
+We used "`____`" in the conversation.
+
+- [x] degree
+- [ ] cough
+- [ ] has got
+
+> **解析**：本题在单元主题情境中复习表达 degree。
+
+### 10
+
+That health talk ended with "`____`".
+
+- [x] elbow
+- [ ] doesn't
+- [ ] prescription
+
+> **解析**：本题在单元主题情境中复习表达 elbow。
+
+</quiz-cloze>

@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 bad guy, chase, feather, get caught, if he didn't, if he had, if he wasn't, if she hadn't, if you could, if you were, it, martial arts, over and over, poison, punch, save the day, sequel, superhero, superpower, suspicious, tail, violent, what if, wolf, would have
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -56,3 +61,193 @@ bad guy, chase, punch, save the day 是超级英雄叙事的经典元素。marti
 
 - **poison** — "毒药、下毒"。在超英电影中，poison 常是反派的武器。a poison dart / poison gas。形容词 poisonous。注意和 venom（动物毒液）区分：poison 是广义的毒。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“bad guy”。  
+   **英文**：In this situation, I heard "bad guy".
+   > **解析**：本题在单元主题情境中复习表达 bad guy。
+
+2. **中文**：同伴解释了“if he didn't”。  
+   **英文**：My partner explained "if he didn't".
+   > **解析**：本题在单元主题情境中复习表达 if he didn't。
+
+3. **中文**：我们一起谈到了“if she hadn't”。  
+   **英文**：We talked about "if she hadn't" together.
+   > **解析**：本题在单元主题情境中复习表达 if she hadn't。
+
+4. **中文**：我记下了“over and over”。  
+   **英文**：I wrote down "over and over".
+   > **解析**：本题在单元主题情境中复习表达 over and over。
+
+5. **中文**：例句中包含“save the day”。  
+   **英文**：The example included "save the day".
+   > **解析**：本题在单元主题情境中复习表达 save the day。
+
+6. **中文**：我询问了“suspicious”。  
+   **英文**：I asked about "suspicious".
+   > **解析**：本题在单元主题情境中复习表达 suspicious。
+
+7. **中文**：我们在句子中用到了“what if”。  
+   **英文**：We used "what if" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 what if。
+
+8. **中文**：朋友重复了“chase”。  
+   **英文**：My friend repeated "chase".
+   > **解析**：本题在单元主题情境中复习表达 chase。
+
+9. **中文**：后来，我记住了“if he had”。  
+   **英文**：Later, I remembered "if he had".
+   > **解析**：本题在单元主题情境中复习表达 if he had。
+
+10. **中文**：这个小故事以“if you were”收尾。  
+   **英文**：The short story ended with "if you were".
+   > **解析**：本题在单元主题情境中复习表达 if you were。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "bad guy".
+   > **中文**：在这个情境中，我听到了“bad guy”。
+2. My partner explained "if he didn't".
+   > **中文**：同伴解释了“if he didn't”。
+3. We talked about "if she hadn't" together.
+   > **中文**：我们一起谈到了“if she hadn't”。
+4. I wrote down "over and over".
+   > **中文**：我记下了“over and over”。
+5. The example included "save the day".
+   > **中文**：例句中包含“save the day”。
+6. I asked about "suspicious".
+   > **中文**：我询问了“suspicious”。
+7. We used "what if" in a sentence.
+   > **中文**：我们在句子中用到了“what if”。
+8. My friend repeated "chase".
+   > **中文**：朋友重复了“chase”。
+9. Later, I remembered "if he had".
+   > **中文**：后来，我记住了“if he had”。
+10. The short story ended with "if you were".
+   > **中文**：这个小故事以“if you were”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] bad guy
+- [ ] over and over
+- [ ] what if
+
+> **解析**：本题在单元主题情境中复习表达 bad guy。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] if he didn't
+- [ ] save the day
+- [ ] chase
+
+> **解析**：本题在单元主题情境中复习表达 if he didn't。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] if she hadn't
+- [ ] suspicious
+- [ ] if he had
+
+> **解析**：本题在单元主题情境中复习表达 if she hadn't。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] over and over
+- [ ] what if
+- [ ] if you were
+
+> **解析**：本题在单元主题情境中复习表达 over and over。
+
+### 5
+
+The example included "`____`".
+
+- [x] save the day
+- [ ] chase
+- [ ] bad guy
+
+> **解析**：本题在单元主题情境中复习表达 save the day。
+
+### 6
+
+I asked about "`____`".
+
+- [x] suspicious
+- [ ] if he had
+- [ ] if he didn't
+
+> **解析**：本题在单元主题情境中复习表达 suspicious。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] what if
+- [ ] if you were
+- [ ] if she hadn't
+
+> **解析**：本题在单元主题情境中复习表达 what if。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] chase
+- [ ] bad guy
+- [ ] over and over
+
+> **解析**：本题在单元主题情境中复习表达 chase。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] if he had
+- [ ] if he didn't
+- [ ] save the day
+
+> **解析**：本题在单元主题情境中复习表达 if he had。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] if you were
+- [ ] if she hadn't
+- [ ] suspicious
+
+> **解析**：本题在单元主题情境中复习表达 if you were。
+
+</quiz-cloze>

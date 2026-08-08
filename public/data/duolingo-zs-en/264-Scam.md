@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 asking, ban, bitter, considerable, criminal, desperate, dishonest, enough, fake, fall for, furious, gullible, hassle, in shock, misleading, pathetic, scam, should have, so-called, spam, speak up, this, unhelpful, warning, wish
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -58,3 +63,193 @@ should have（本该）表达后悔和责备。fall for（上当）、speak up�
 
 - **wish** — "希望（难以实现的）"。I wish I hadn't fallen for it. / I wish I could get my money back. 后接虚拟语气：wish + 过去时/过去完成时。比 hope 更强调"与事实相反"。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“asking”。  
+   **英文**：In this situation, I heard "asking".
+   > **解析**：本题在单元主题情境中复习表达 asking。
+
+2. **中文**：同伴解释了“criminal”。  
+   **英文**：My partner explained "criminal".
+   > **解析**：本题在单元主题情境中复习表达 criminal。
+
+3. **中文**：我们一起谈到了“enough”。  
+   **英文**：We talked about "enough" together.
+   > **解析**：本题在单元主题情境中复习表达 enough。
+
+4. **中文**：我记下了“gullible”。  
+   **英文**：I wrote down "gullible".
+   > **解析**：本题在单元主题情境中复习表达 gullible。
+
+5. **中文**：例句中包含“misleading”。  
+   **英文**：The example included "misleading".
+   > **解析**：本题在单元主题情境中复习表达 misleading。
+
+6. **中文**：我询问了“so-called”。  
+   **英文**：I asked about "so-called".
+   > **解析**：本题在单元主题情境中复习表达 so-called。
+
+7. **中文**：我们在句子中用到了“unhelpful”。  
+   **英文**：We used "unhelpful" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 unhelpful。
+
+8. **中文**：朋友重复了“ban”。  
+   **英文**：My friend repeated "ban".
+   > **解析**：本题在单元主题情境中复习表达 ban。
+
+9. **中文**：后来，我记住了“desperate”。  
+   **英文**：Later, I remembered "desperate".
+   > **解析**：本题在单元主题情境中复习表达 desperate。
+
+10. **中文**：这个小故事以“fall for”收尾。  
+   **英文**：The short story ended with "fall for".
+   > **解析**：本题在单元主题情境中复习表达 fall for。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "asking".
+   > **中文**：在这个情境中，我听到了“asking”。
+2. My partner explained "criminal".
+   > **中文**：同伴解释了“criminal”。
+3. We talked about "enough" together.
+   > **中文**：我们一起谈到了“enough”。
+4. I wrote down "gullible".
+   > **中文**：我记下了“gullible”。
+5. The example included "misleading".
+   > **中文**：例句中包含“misleading”。
+6. I asked about "so-called".
+   > **中文**：我询问了“so-called”。
+7. We used "unhelpful" in a sentence.
+   > **中文**：我们在句子中用到了“unhelpful”。
+8. My friend repeated "ban".
+   > **中文**：朋友重复了“ban”。
+9. Later, I remembered "desperate".
+   > **中文**：后来，我记住了“desperate”。
+10. The short story ended with "fall for".
+   > **中文**：这个小故事以“fall for”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] asking
+- [ ] gullible
+- [ ] unhelpful
+
+> **解析**：本题在单元主题情境中复习表达 asking。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] criminal
+- [ ] misleading
+- [ ] ban
+
+> **解析**：本题在单元主题情境中复习表达 criminal。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] enough
+- [ ] so-called
+- [ ] desperate
+
+> **解析**：本题在单元主题情境中复习表达 enough。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] gullible
+- [ ] unhelpful
+- [ ] fall for
+
+> **解析**：本题在单元主题情境中复习表达 gullible。
+
+### 5
+
+The example included "`____`".
+
+- [x] misleading
+- [ ] ban
+- [ ] asking
+
+> **解析**：本题在单元主题情境中复习表达 misleading。
+
+### 6
+
+I asked about "`____`".
+
+- [x] so-called
+- [ ] desperate
+- [ ] criminal
+
+> **解析**：本题在单元主题情境中复习表达 so-called。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] unhelpful
+- [ ] fall for
+- [ ] enough
+
+> **解析**：本题在单元主题情境中复习表达 unhelpful。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] ban
+- [ ] asking
+- [ ] gullible
+
+> **解析**：本题在单元主题情境中复习表达 ban。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] desperate
+- [ ] criminal
+- [ ] misleading
+
+> **解析**：本题在单元主题情境中复习表达 desperate。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] fall for
+- [ ] enough
+- [ ] so-called
+
+> **解析**：本题在单元主题情境中复习表达 fall for。
+
+</quiz-cloze>

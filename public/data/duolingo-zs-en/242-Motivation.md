@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 a number of, action, affect, find, forward, free, in theory, initially, intelligent, internal, maintain, no longer, period, pretend, reach, rush, significant, single, struggle, the more, treat, truly, work at
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -60,3 +65,193 @@ in theory 和 no longer 构成一种"理想与现实"的对比：In theory, it's
 
 - **intelligent** — "聪明的、有智慧的"，比 smart 更正式，侧重思维能力。名词 intelligence（智力）。注意拼写：两个 l，不要写成 inteligent。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“a number of”。  
+   **英文**：At work, we discussed "a number of".
+   > **解析**：本题在单元主题情境中复习表达 a number of。
+
+2. **中文**：同事提到了“find”。  
+   **英文**：My coworker mentioned "find".
+   > **解析**：本题在单元主题情境中复习表达 find。
+
+3. **中文**：会议中，我听到了“initially”。  
+   **英文**：In the meeting, I heard "initially".
+   > **解析**：本题在单元主题情境中复习表达 initially。
+
+4. **中文**：我把“maintain”写进了笔记。  
+   **英文**：I added "maintain" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 maintain。
+
+5. **中文**：经理解释了“reach”。  
+   **英文**：The manager explained "reach".
+   > **解析**：本题在单元主题情境中复习表达 reach。
+
+6. **中文**：团队今天用到了“single”。  
+   **英文**：Our team used "single" today.
+   > **解析**：本题在单元主题情境中复习表达 single。
+
+7. **中文**：午饭前，我们查看了“truly”。  
+   **英文**：Before lunch, we checked "truly".
+   > **解析**：本题在单元主题情境中复习表达 truly。
+
+8. **中文**：同事询问了“action”。  
+   **英文**：My colleague asked about "action".
+   > **解析**：本题在单元主题情境中复习表达 action。
+
+9. **中文**：报告中包含“free”。  
+   **英文**：The report included "free".
+   > **解析**：本题在单元主题情境中复习表达 free。
+
+10. **中文**：一天结束时，我记住了“intelligent”。  
+   **英文**：At the end of the day, I remembered "intelligent".
+   > **解析**：本题在单元主题情境中复习表达 intelligent。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "a number of".
+   > **中文**：工作中，我们讨论了“a number of”。
+2. My coworker mentioned "find".
+   > **中文**：同事提到了“find”。
+3. In the meeting, I heard "initially".
+   > **中文**：会议中，我听到了“initially”。
+4. I added "maintain" to my notes.
+   > **中文**：我把“maintain”写进了笔记。
+5. The manager explained "reach".
+   > **中文**：经理解释了“reach”。
+6. Our team used "single" today.
+   > **中文**：团队今天用到了“single”。
+7. Before lunch, we checked "truly".
+   > **中文**：午饭前，我们查看了“truly”。
+8. My colleague asked about "action".
+   > **中文**：同事询问了“action”。
+9. The report included "free".
+   > **中文**：报告中包含“free”。
+10. At the end of the day, I remembered "intelligent".
+   > **中文**：一天结束时，我记住了“intelligent”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] a number of
+- [ ] maintain
+- [ ] truly
+
+> **解析**：本题在单元主题情境中复习表达 a number of。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] find
+- [ ] reach
+- [ ] action
+
+> **解析**：本题在单元主题情境中复习表达 find。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] initially
+- [ ] single
+- [ ] free
+
+> **解析**：本题在单元主题情境中复习表达 initially。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] maintain
+- [ ] truly
+- [ ] intelligent
+
+> **解析**：本题在单元主题情境中复习表达 maintain。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] reach
+- [ ] action
+- [ ] a number of
+
+> **解析**：本题在单元主题情境中复习表达 reach。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] single
+- [ ] free
+- [ ] find
+
+> **解析**：本题在单元主题情境中复习表达 single。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] truly
+- [ ] intelligent
+- [ ] initially
+
+> **解析**：本题在单元主题情境中复习表达 truly。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] action
+- [ ] a number of
+- [ ] maintain
+
+> **解析**：本题在单元主题情境中复习表达 action。
+
+### 9
+
+The report included "`____`".
+
+- [x] free
+- [ ] find
+- [ ] reach
+
+> **解析**：本题在单元主题情境中复习表达 free。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] intelligent
+- [ ] initially
+- [ ] single
+
+> **解析**：本题在单元主题情境中复习表达 intelligent。
+
+</quiz-cloze>

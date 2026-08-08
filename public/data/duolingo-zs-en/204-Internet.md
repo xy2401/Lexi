@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 browser, device, frequent, get used to, giant, graphics, install, key, locate, log out of, microphone, once a, press, restart, robot, server, switch, take a look, used to, user, webcam
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -29,3 +34,194 @@ used to（过去常常）和 get used to（逐渐习惯）是本单元的重要�
 - **robot / switch / key / locate** — robot = 机器人。switch 作动词"切换"（switch to a new browser），作名词"开关"。key = 按键（press a key）或"钥匙"。locate = 找到、定位（I can't locate the file.），比 find 更正式。
 
 - **take a look** — take a look = 看一看（= have a look / look），比单独用 look 更口语、更随意。搭配：Take a look at this. / Let me take a look. 类似结构：take a break, take a walk。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“browser”。  
+   **英文**：In this situation, I heard "browser".
+   > **解析**：本题在单元主题情境中复习表达 browser。
+
+2. **中文**：同伴解释了“get used to”。  
+   **英文**：My partner explained "get used to".
+   > **解析**：本题在单元主题情境中复习表达 get used to。
+
+3. **中文**：我们一起谈到了“install”。  
+   **英文**：We talked about "install" together.
+   > **解析**：本题在单元主题情境中复习表达 install。
+
+4. **中文**：我记下了“microphone”。  
+   **英文**：I wrote down "microphone".
+   > **解析**：本题在单元主题情境中复习表达 microphone。
+
+5. **中文**：例句中包含“restart”。  
+   **英文**：The example included "restart".
+   > **解析**：本题在单元主题情境中复习表达 restart。
+
+6. **中文**：我询问了“switch”。  
+   **英文**：I asked about "switch".
+   > **解析**：本题在单元主题情境中复习表达 switch。
+
+7. **中文**：我们在句子中用到了“user”。  
+   **英文**：We used "user" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 user。
+
+8. **中文**：朋友重复了“frequent”。  
+   **英文**：My friend repeated "frequent".
+   > **解析**：本题在单元主题情境中复习表达 frequent。
+
+9. **中文**：后来，我记住了“graphics”。  
+   **英文**：Later, I remembered "graphics".
+   > **解析**：本题在单元主题情境中复习表达 graphics。
+
+10. **中文**：这个小故事以“locate”收尾。  
+   **英文**：The short story ended with "locate".
+   > **解析**：本题在单元主题情境中复习表达 locate。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "browser".
+   > **中文**：在这个情境中，我听到了“browser”。
+2. My partner explained "get used to".
+   > **中文**：同伴解释了“get used to”。
+3. We talked about "install" together.
+   > **中文**：我们一起谈到了“install”。
+4. I wrote down "microphone".
+   > **中文**：我记下了“microphone”。
+5. The example included "restart".
+   > **中文**：例句中包含“restart”。
+6. I asked about "switch".
+   > **中文**：我询问了“switch”。
+7. We used "user" in a sentence.
+   > **中文**：我们在句子中用到了“user”。
+8. My friend repeated "frequent".
+   > **中文**：朋友重复了“frequent”。
+9. Later, I remembered "graphics".
+   > **中文**：后来，我记住了“graphics”。
+10. The short story ended with "locate".
+   > **中文**：这个小故事以“locate”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] browser
+- [ ] microphone
+- [ ] user
+
+> **解析**：本题在单元主题情境中复习表达 browser。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] get used to
+- [ ] restart
+- [ ] frequent
+
+> **解析**：本题在单元主题情境中复习表达 get used to。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] install
+- [ ] switch
+- [ ] graphics
+
+> **解析**：本题在单元主题情境中复习表达 install。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] microphone
+- [ ] user
+- [ ] locate
+
+> **解析**：本题在单元主题情境中复习表达 microphone。
+
+### 5
+
+The example included "`____`".
+
+- [x] restart
+- [ ] frequent
+- [ ] browser
+
+> **解析**：本题在单元主题情境中复习表达 restart。
+
+### 6
+
+I asked about "`____`".
+
+- [x] switch
+- [ ] graphics
+- [ ] get used to
+
+> **解析**：本题在单元主题情境中复习表达 switch。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] user
+- [ ] locate
+- [ ] install
+
+> **解析**：本题在单元主题情境中复习表达 user。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] frequent
+- [ ] browser
+- [ ] microphone
+
+> **解析**：本题在单元主题情境中复习表达 frequent。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] graphics
+- [ ] get used to
+- [ ] restart
+
+> **解析**：本题在单元主题情境中复习表达 graphics。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] locate
+- [ ] install
+- [ ] switch
+
+> **解析**：本题在单元主题情境中复习表达 locate。
+
+</quiz-cloze>

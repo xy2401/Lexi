@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 Halloween, bat, costume, did, didn't, do, does, doesn't, don't, fashionable, fit, loose, match, shop, so that, tear, tie, tight, tore, torn, tying, witch
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ so that 表示"以便/为了"。tear → tore → torn 是不规则变化。
 
 - **shop / so that / fashionable** — 购物 / 以便 / 时尚。搭配：shop for clothes, so that + 目的, look fashionable。例句：I need to shop for a costume. / I sewed it so that it would fit. / I want to look fashionable. 注意 shop 可作动词。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：谈论喜好时，我听到了“Halloween”。  
+   **英文**：When we talked about favorites, I heard "Halloween".
+   > **解析**：本题在单元主题情境中复习表达 Halloween。
+
+2. **中文**：朋友说“did”很重要。  
+   **英文**：My friend said "did" was important.
+   > **解析**：本题在单元主题情境中复习表达 did。
+
+3. **中文**：我问他们喜欢哪一个：“doesn't”。  
+   **英文**：I asked which one they liked: "doesn't".
+   > **解析**：本题在单元主题情境中复习表达 doesn't。
+
+4. **中文**：聊天时，我们比较了“loose”。  
+   **英文**：In our chat, we compared "loose".
+   > **解析**：本题在单元主题情境中复习表达 loose。
+
+5. **中文**：同伴先选择了“so that”。  
+   **英文**：My partner chose "so that" first.
+   > **解析**：本题在单元主题情境中复习表达 so that。
+
+6. **中文**：我们用“tight”描述喜好。  
+   **英文**：We used "tight" to describe a favorite.
+   > **解析**：本题在单元主题情境中复习表达 tight。
+
+7. **中文**：答案中包含“tying”。  
+   **英文**：The answer included "tying".
+   > **解析**：本题在单元主题情境中复习表达 tying。
+
+8. **中文**：我从对话中记住了“costume”。  
+   **英文**：I remembered "costume" from the conversation.
+   > **解析**：本题在单元主题情境中复习表达 costume。
+
+9. **中文**：朋友微笑着重复了“does”。  
+   **英文**：My friend repeated "does" with a smile.
+   > **解析**：本题在单元主题情境中复习表达 does。
+
+10. **中文**：那场关于喜好的聊天以“fashionable”收尾。  
+   **英文**：That chat about favorites ended with "fashionable".
+   > **解析**：本题在单元主题情境中复习表达 fashionable。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. When we talked about favorites, I heard "Halloween".
+   > **中文**：谈论喜好时，我听到了“Halloween”。
+2. My friend said "did" was important.
+   > **中文**：朋友说“did”很重要。
+3. I asked which one they liked: "doesn't".
+   > **中文**：我问他们喜欢哪一个：“doesn't”。
+4. In our chat, we compared "loose".
+   > **中文**：聊天时，我们比较了“loose”。
+5. My partner chose "so that" first.
+   > **中文**：同伴先选择了“so that”。
+6. We used "tight" to describe a favorite.
+   > **中文**：我们用“tight”描述喜好。
+7. The answer included "tying".
+   > **中文**：答案中包含“tying”。
+8. I remembered "costume" from the conversation.
+   > **中文**：我从对话中记住了“costume”。
+9. My friend repeated "does" with a smile.
+   > **中文**：朋友微笑着重复了“does”。
+10. That chat about favorites ended with "fashionable".
+   > **中文**：那场关于喜好的聊天以“fashionable”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+When we talked about favorites, I heard "`____`".
+
+- [x] Halloween
+- [ ] loose
+- [ ] tying
+
+> **解析**：本题在单元主题情境中复习表达 Halloween。
+
+### 2
+
+My friend said "`____`" was important.
+
+- [x] did
+- [ ] so that
+- [ ] costume
+
+> **解析**：本题在单元主题情境中复习表达 did。
+
+### 3
+
+I asked which one they liked: "`____`".
+
+- [x] doesn't
+- [ ] tight
+- [ ] does
+
+> **解析**：本题在单元主题情境中复习表达 doesn't。
+
+### 4
+
+In our chat, we compared "`____`".
+
+- [x] loose
+- [ ] tying
+- [ ] fashionable
+
+> **解析**：本题在单元主题情境中复习表达 loose。
+
+### 5
+
+My partner chose "`____`" first.
+
+- [x] so that
+- [ ] costume
+- [ ] Halloween
+
+> **解析**：本题在单元主题情境中复习表达 so that。
+
+### 6
+
+We used "`____`" to describe a favorite.
+
+- [x] tight
+- [ ] does
+- [ ] did
+
+> **解析**：本题在单元主题情境中复习表达 tight。
+
+### 7
+
+The answer included "`____`".
+
+- [x] tying
+- [ ] fashionable
+- [ ] doesn't
+
+> **解析**：本题在单元主题情境中复习表达 tying。
+
+### 8
+
+I remembered "`____`" from the conversation.
+
+- [x] costume
+- [ ] Halloween
+- [ ] loose
+
+> **解析**：本题在单元主题情境中复习表达 costume。
+
+### 9
+
+My friend repeated "`____`" with a smile.
+
+- [x] does
+- [ ] did
+- [ ] so that
+
+> **解析**：本题在单元主题情境中复习表达 does。
+
+### 10
+
+That chat about favorites ended with "`____`".
+
+- [x] fashionable
+- [ ] doesn't
+- [ ] tight
+
+> **解析**：本题在单元主题情境中复习表达 fashionable。
+
+</quiz-cloze>

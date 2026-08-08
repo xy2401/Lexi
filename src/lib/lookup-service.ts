@@ -1,137 +1,55 @@
-/**
- * 异步双轨查词调度服务
- * 
- * 查词流程:
- * 1. 先查本地 IndexedDB (Dexie) -> 命中则直接返回
- * 2. 未命中 -> 请求 ecdict/{prefix}.db 获取词法数据
- * 3. 用户点击"查看详情" -> 按需请求 stardict/{prefix}.db
- * 4. 远端拉取成功的词条写回 IndexedDB（渐进式缓存）
- */
+/** Local Hot/full cache first, then the one complete semantic-sharded source. */
 import { lookupLocal, cacheWords, type WordEntry } from './db'
 import { restoreBase } from './morphology'
-import { queryHot, queryEcdict, queryStardict, type EcdictResult, type StardictResult } from './remote-db'
+import { queryDictionaryWord, type DictionaryResult } from './remote-db'
 
 export interface LookupResult {
   word: string
-  source: 'local' | 'remote-hot' | 'remote-ecdict' | 'not-found'
+  source: 'local-hot' | 'local-full' | 'remote-main' | 'not-found'
   entry: WordEntry | null
 }
 
-export interface DetailResult {
-  word: string
-  htmlContent: string | null
-  source: 'remote-stardict' | 'not-found'
+function toFullEntry(row: DictionaryResult): WordEntry {
+  return { ...row, cacheLevel: 'full' }
 }
 
-/**
- * 主查词入口（轻量级，用于 Tooltip）
- */
+function candidatesFor(word: string): string[] {
+  const lower = word.toLowerCase()
+  return [...new Set([lower, restoreBase(lower)])]
+}
+
 export async function lookupWord(word: string): Promise<LookupResult> {
   const lower = word.toLowerCase()
+  const candidates = candidatesFor(lower)
+  let hotFallback: WordEntry | null = null
 
-  // 1. 本地直查
-  const localDirect = await lookupLocal(lower)
-  if (localDirect) {
-    return { word: lower, source: 'local', entry: localDirect }
-  }
-
-  // 2. 形态还原后再查本地
-  const base = restoreBase(lower)
-  if (base !== lower) {
-    const localBase = await lookupLocal(base)
-    if (localBase) {
-      return { word: lower, source: 'local', entry: localBase }
-    }
-  }
-
-  // 3. 远端热词分片查询（单字分片，体积小加载快）
-  const hotResult = await queryHot(lower)
-  if (hotResult) {
-    const entry: WordEntry = {
-      word: hotResult.word,
-      phonetic: hotResult.phonetic,
-      frequency: hotResult.frequency,
-      tags: hotResult.tags,
-      exchange: hotResult.exchange,
-      translation: hotResult.translation,
-    }
-    cacheWords([entry]).catch(() => {})
-    return { word: lower, source: 'remote-hot', entry }
-  }
-
-  // 4. 远端 ECDICT 全量分片查询
-  const remoteResult = await queryEcdict(lower)
-  if (remoteResult) {
-    const entry: WordEntry = {
-      word: remoteResult.word,
-      phonetic: remoteResult.phonetic,
-      frequency: remoteResult.frequency,
-      tags: remoteResult.tags,
-      exchange: remoteResult.exchange,
-      translation: remoteResult.translation,
-    }
-
-    // 渐进式缓存：写回 IndexedDB
-    cacheWords([entry]).catch(() => {})
-
-    return { word: lower, source: 'remote-ecdict', entry }
-  }
-
-  // 如果原词未命中，尝试用原型查远端
-  if (base !== lower) {
-    // 先查热词分片
-    const hotBase = await queryHot(base)
-    if (hotBase) {
-      const entry: WordEntry = {
-        word: hotBase.word,
-        phonetic: hotBase.phonetic,
-        frequency: hotBase.frequency,
-        tags: hotBase.tags,
-        exchange: hotBase.exchange,
-        translation: hotBase.translation,
+  for (const candidate of candidates) {
+    const local = await lookupLocal(candidate)
+    if (local?.cacheLevel === 'full') {
+      return {
+        word: lower,
+        source: 'local-full',
+        entry: local,
       }
-      cacheWords([entry]).catch(() => {})
-      return { word: lower, source: 'remote-hot', entry }
     }
-    // 再查全量分片
-    const remoteBase = await queryEcdict(base)
-    if (remoteBase) {
-      const entry: WordEntry = {
-        word: remoteBase.word,
-        phonetic: remoteBase.phonetic,
-        frequency: remoteBase.frequency,
-        tags: remoteBase.tags,
-        exchange: remoteBase.exchange,
-        translation: remoteBase.translation,
-      }
-      cacheWords([entry]).catch(() => {})
-      return { word: lower, source: 'remote-ecdict', entry }
+    if (local && !hotFallback) hotFallback = local
+  }
+
+  // Hot 只负责首屏标注；用户点击时从同一主词典补齐完整行。
+  for (const candidate of candidates) {
+    try {
+      const remote = await queryDictionaryWord(candidate)
+      if (!remote) continue
+      const entry = toFullEntry(remote)
+      await cacheWords([entry])
+      return { word: lower, source: 'remote-main', entry }
+    } catch (error) {
+      console.warn(`[lookup-service] 主词典查询失败: "${candidate}"`, error)
     }
   }
 
+  if (hotFallback) {
+    return { word: lower, source: 'local-hot', entry: hotFallback }
+  }
   return { word: lower, source: 'not-found', entry: null }
-}
-
-/**
- * 详情查询（重型，用于 Drawer）
- * 按需加载 Stardict 富文本
- */
-export async function lookupDetail(word: string): Promise<DetailResult> {
-  const lower = word.toLowerCase()
-
-  const result = await queryStardict(lower)
-  if (result) {
-    return { word: lower, htmlContent: result.html_content, source: 'remote-stardict' }
-  }
-
-  // 尝试原型
-  const base = restoreBase(lower)
-  if (base !== lower) {
-    const baseResult = await queryStardict(base)
-    if (baseResult) {
-      return { word: lower, htmlContent: baseResult.html_content, source: 'remote-stardict' }
-    }
-  }
-
-  return { word: lower, htmlContent: null, source: 'not-found' }
 }

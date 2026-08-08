@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 bleachers, by now, call, come on, cooler, foul, halftime, i don't buy it, it, jersey, mascot, nonsense, not exactly, parking spot, playoff, quarter, referee, tailgating, the idea was that, the point is, the same, there's no way, whistle
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -58,3 +63,193 @@ i don't buy it（我不信）、there's no way（不可能）、nonsense（胡�
 
 - **the same** — "相同的、一样"。搭配：the same as / just the same / all the same。在口语中：It's all the same to me.（对我来说都一样。）注意 same 前通常有 the。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“bleachers”。  
+   **英文**：In this situation, I heard "bleachers".
+   > **解析**：本题在单元主题情境中复习表达 bleachers。
+
+2. **中文**：同伴解释了“come on”。  
+   **英文**：My partner explained "come on".
+   > **解析**：本题在单元主题情境中复习表达 come on。
+
+3. **中文**：我们一起谈到了“i don't buy it”。  
+   **英文**：We talked about "i don't buy it" together.
+   > **解析**：本题在单元主题情境中复习表达 i don't buy it。
+
+4. **中文**：我记下了“nonsense”。  
+   **英文**：I wrote down "nonsense".
+   > **解析**：本题在单元主题情境中复习表达 nonsense。
+
+5. **中文**：例句中包含“playoff”。  
+   **英文**：The example included "playoff".
+   > **解析**：本题在单元主题情境中复习表达 playoff。
+
+6. **中文**：我询问了“the idea was that”。  
+   **英文**：I asked about "the idea was that".
+   > **解析**：本题在单元主题情境中复习表达 the idea was that。
+
+7. **中文**：我们在句子中用到了“there's no way”。  
+   **英文**：We used "there's no way" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 there's no way。
+
+8. **中文**：朋友重复了“by now”。  
+   **英文**：My friend repeated "by now".
+   > **解析**：本题在单元主题情境中复习表达 by now。
+
+9. **中文**：后来，我记住了“foul”。  
+   **英文**：Later, I remembered "foul".
+   > **解析**：本题在单元主题情境中复习表达 foul。
+
+10. **中文**：这个小故事以“jersey”收尾。  
+   **英文**：The short story ended with "jersey".
+   > **解析**：本题在单元主题情境中复习表达 jersey。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "bleachers".
+   > **中文**：在这个情境中，我听到了“bleachers”。
+2. My partner explained "come on".
+   > **中文**：同伴解释了“come on”。
+3. We talked about "i don't buy it" together.
+   > **中文**：我们一起谈到了“i don't buy it”。
+4. I wrote down "nonsense".
+   > **中文**：我记下了“nonsense”。
+5. The example included "playoff".
+   > **中文**：例句中包含“playoff”。
+6. I asked about "the idea was that".
+   > **中文**：我询问了“the idea was that”。
+7. We used "there's no way" in a sentence.
+   > **中文**：我们在句子中用到了“there's no way”。
+8. My friend repeated "by now".
+   > **中文**：朋友重复了“by now”。
+9. Later, I remembered "foul".
+   > **中文**：后来，我记住了“foul”。
+10. The short story ended with "jersey".
+   > **中文**：这个小故事以“jersey”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] bleachers
+- [ ] nonsense
+- [ ] there's no way
+
+> **解析**：本题在单元主题情境中复习表达 bleachers。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] come on
+- [ ] playoff
+- [ ] by now
+
+> **解析**：本题在单元主题情境中复习表达 come on。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] i don't buy it
+- [ ] the idea was that
+- [ ] foul
+
+> **解析**：本题在单元主题情境中复习表达 i don't buy it。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] nonsense
+- [ ] there's no way
+- [ ] jersey
+
+> **解析**：本题在单元主题情境中复习表达 nonsense。
+
+### 5
+
+The example included "`____`".
+
+- [x] playoff
+- [ ] by now
+- [ ] bleachers
+
+> **解析**：本题在单元主题情境中复习表达 playoff。
+
+### 6
+
+I asked about "`____`".
+
+- [x] the idea was that
+- [ ] foul
+- [ ] come on
+
+> **解析**：本题在单元主题情境中复习表达 the idea was that。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] there's no way
+- [ ] jersey
+- [ ] i don't buy it
+
+> **解析**：本题在单元主题情境中复习表达 there's no way。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] by now
+- [ ] bleachers
+- [ ] nonsense
+
+> **解析**：本题在单元主题情境中复习表达 by now。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] foul
+- [ ] come on
+- [ ] playoff
+
+> **解析**：本题在单元主题情境中复习表达 foul。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] jersey
+- [ ] i don't buy it
+- [ ] the idea was that
+
+> **解析**：本题在单元主题情境中复习表达 jersey。
+
+</quiz-cloze>

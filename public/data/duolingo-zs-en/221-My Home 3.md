@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 appliance, attic, brand new, commute, compromise, dream, fence, fireplace, go with, keep, keep in mind, landlord, make it, not, one, overwhelmed, residential, storage, story, suburbs, surrounding, the one, way too, wouldn't it be, wouldn't you
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -43,3 +48,194 @@ appliance, attic, brand new, commute, compromise, dream, fence, fireplace, go wi
 - **the one** — 特指"那一个"。搭配：the one with..., that's the one。I want the one with a fireplace. 注意 the one 后面常接 with 或 that 从句来限定。dream of the one = 梦想中的那个。
 
 - **compromise** — 妥协、折中。搭配：make a compromise, reach a compromise。We compromised on a house in the suburbs. 可作名词也可作动词。注意发音：/ˈkɑːmprəmaɪz/。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“appliance”。  
+   **英文**：At home, we talked about "appliance".
+   > **解析**：本题在单元主题情境中复习表达 appliance。
+
+2. **中文**：家人提到了“compromise”。  
+   **英文**：My family mentioned "compromise".
+   > **解析**：本题在单元主题情境中复习表达 compromise。
+
+3. **中文**：在房间里，我注意到了“fireplace”。  
+   **英文**：In the room, I noticed "fireplace".
+   > **解析**：本题在单元主题情境中复习表达 fireplace。
+
+4. **中文**：我们在家里用到了“landlord”。  
+   **英文**：We used "landlord" at home.
+   > **解析**：本题在单元主题情境中复习表达 landlord。
+
+5. **中文**：邻居询问了“overwhelmed”。  
+   **英文**：My neighbor asked about "overwhelmed".
+   > **解析**：本题在单元主题情境中复习表达 overwhelmed。
+
+6. **中文**：我在门边写下了“story”。  
+   **英文**：I wrote down "story" by the door.
+   > **解析**：本题在单元主题情境中复习表达 story。
+
+7. **中文**：晚饭后，我们重复了“way too”。  
+   **英文**：After dinner, we repeated "way too".
+   > **解析**：本题在单元主题情境中复习表达 way too。
+
+8. **中文**：家庭故事里包含“attic”。  
+   **英文**：The family story included "attic".
+   > **解析**：本题在单元主题情境中复习表达 attic。
+
+9. **中文**：睡前，我记住了“dream”。  
+   **英文**：Before bed, I remembered "dream".
+   > **解析**：本题在单元主题情境中复习表达 dream。
+
+10. **中文**：那个夜晚以“keep”收尾。  
+   **英文**：That evening ended with "keep".
+   > **解析**：本题在单元主题情境中复习表达 keep。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "appliance".
+   > **中文**：在家里，我们谈到了“appliance”。
+2. My family mentioned "compromise".
+   > **中文**：家人提到了“compromise”。
+3. In the room, I noticed "fireplace".
+   > **中文**：在房间里，我注意到了“fireplace”。
+4. We used "landlord" at home.
+   > **中文**：我们在家里用到了“landlord”。
+5. My neighbor asked about "overwhelmed".
+   > **中文**：邻居询问了“overwhelmed”。
+6. I wrote down "story" by the door.
+   > **中文**：我在门边写下了“story”。
+7. After dinner, we repeated "way too".
+   > **中文**：晚饭后，我们重复了“way too”。
+8. The family story included "attic".
+   > **中文**：家庭故事里包含“attic”。
+9. Before bed, I remembered "dream".
+   > **中文**：睡前，我记住了“dream”。
+10. That evening ended with "keep".
+   > **中文**：那个夜晚以“keep”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] appliance
+- [ ] landlord
+- [ ] way too
+
+> **解析**：本题在单元主题情境中复习表达 appliance。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] compromise
+- [ ] overwhelmed
+- [ ] attic
+
+> **解析**：本题在单元主题情境中复习表达 compromise。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] fireplace
+- [ ] story
+- [ ] dream
+
+> **解析**：本题在单元主题情境中复习表达 fireplace。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] landlord
+- [ ] way too
+- [ ] keep
+
+> **解析**：本题在单元主题情境中复习表达 landlord。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] overwhelmed
+- [ ] attic
+- [ ] appliance
+
+> **解析**：本题在单元主题情境中复习表达 overwhelmed。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] story
+- [ ] dream
+- [ ] compromise
+
+> **解析**：本题在单元主题情境中复习表达 story。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] way too
+- [ ] keep
+- [ ] fireplace
+
+> **解析**：本题在单元主题情境中复习表达 way too。
+
+### 8
+
+The family story included "`____`".
+
+- [x] attic
+- [ ] appliance
+- [ ] landlord
+
+> **解析**：本题在单元主题情境中复习表达 attic。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] dream
+- [ ] compromise
+- [ ] overwhelmed
+
+> **解析**：本题在单元主题情境中复习表达 dream。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] keep
+- [ ] fireplace
+- [ ] story
+
+> **解析**：本题在单元主题情境中复习表达 keep。
+
+</quiz-cloze>

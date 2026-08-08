@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 artificial, biggest, boost, both, confidence, did, energy, fortune, functional, get in shape, impress, magic, neither, no, nor, not only, not only do, not only is, now, otherwise, purchase, smelly, snore, thermometer, toenail, wealthy
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -58,3 +63,193 @@ not only... but also... / neither... nor... / both... and... 是三组并列连�
 
 - **now** — 本单元中 likely 出现在 Purchase now!（现在就买！）这类广告号召语中。now 在广告中 = 立刻、马上，制造紧迫感。比 immediately 更口语、更有冲击力。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“artificial”。  
+   **英文**：At work, we discussed "artificial".
+   > **解析**：本题在单元主题情境中复习表达 artificial。
+
+2. **中文**：同事提到了“confidence”。  
+   **英文**：My coworker mentioned "confidence".
+   > **解析**：本题在单元主题情境中复习表达 confidence。
+
+3. **中文**：会议中，我听到了“functional”。  
+   **英文**：In the meeting, I heard "functional".
+   > **解析**：本题在单元主题情境中复习表达 functional。
+
+4. **中文**：我把“magic”写进了笔记。  
+   **英文**：I added "magic" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 magic。
+
+5. **中文**：经理解释了“not only”。  
+   **英文**：The manager explained "not only".
+   > **解析**：本题在单元主题情境中复习表达 not only。
+
+6. **中文**：团队今天用到了“otherwise”。  
+   **英文**：Our team used "otherwise" today.
+   > **解析**：本题在单元主题情境中复习表达 otherwise。
+
+7. **中文**：午饭前，我们查看了“thermometer”。  
+   **英文**：Before lunch, we checked "thermometer".
+   > **解析**：本题在单元主题情境中复习表达 thermometer。
+
+8. **中文**：同事询问了“biggest”。  
+   **英文**：My colleague asked about "biggest".
+   > **解析**：本题在单元主题情境中复习表达 biggest。
+
+9. **中文**：报告中包含“did”。  
+   **英文**：The report included "did".
+   > **解析**：本题在单元主题情境中复习表达 did。
+
+10. **中文**：一天结束时，我记住了“get in shape”。  
+   **英文**：At the end of the day, I remembered "get in shape".
+   > **解析**：本题在单元主题情境中复习表达 get in shape。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "artificial".
+   > **中文**：工作中，我们讨论了“artificial”。
+2. My coworker mentioned "confidence".
+   > **中文**：同事提到了“confidence”。
+3. In the meeting, I heard "functional".
+   > **中文**：会议中，我听到了“functional”。
+4. I added "magic" to my notes.
+   > **中文**：我把“magic”写进了笔记。
+5. The manager explained "not only".
+   > **中文**：经理解释了“not only”。
+6. Our team used "otherwise" today.
+   > **中文**：团队今天用到了“otherwise”。
+7. Before lunch, we checked "thermometer".
+   > **中文**：午饭前，我们查看了“thermometer”。
+8. My colleague asked about "biggest".
+   > **中文**：同事询问了“biggest”。
+9. The report included "did".
+   > **中文**：报告中包含“did”。
+10. At the end of the day, I remembered "get in shape".
+   > **中文**：一天结束时，我记住了“get in shape”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] artificial
+- [ ] magic
+- [ ] thermometer
+
+> **解析**：本题在单元主题情境中复习表达 artificial。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] confidence
+- [ ] not only
+- [ ] biggest
+
+> **解析**：本题在单元主题情境中复习表达 confidence。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] functional
+- [ ] otherwise
+- [ ] did
+
+> **解析**：本题在单元主题情境中复习表达 functional。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] magic
+- [ ] thermometer
+- [ ] get in shape
+
+> **解析**：本题在单元主题情境中复习表达 magic。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] not only
+- [ ] biggest
+- [ ] artificial
+
+> **解析**：本题在单元主题情境中复习表达 not only。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] otherwise
+- [ ] did
+- [ ] confidence
+
+> **解析**：本题在单元主题情境中复习表达 otherwise。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] thermometer
+- [ ] get in shape
+- [ ] functional
+
+> **解析**：本题在单元主题情境中复习表达 thermometer。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] biggest
+- [ ] artificial
+- [ ] magic
+
+> **解析**：本题在单元主题情境中复习表达 biggest。
+
+### 9
+
+The report included "`____`".
+
+- [x] did
+- [ ] confidence
+- [ ] not only
+
+> **解析**：本题在单元主题情境中复习表达 did。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] get in shape
+- [ ] functional
+- [ ] otherwise
+
+> **解析**：本题在单元主题情境中复习表达 get in shape。
+
+</quiz-cloze>

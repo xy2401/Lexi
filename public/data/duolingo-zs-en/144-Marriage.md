@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 anniversary, did, event, has, hasn't, have, haven't, honeymoon, in a relationship, incredible, lately, more often, nice and, peaceful, rarely, set, than, tradition, typical, van, wave
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ have/has + 过去分词构成现在完成时。than 用于比较级。
 
 - **haven't / hasn't / have / has** — 没有 / 没有（三单）/ 有。搭配：haven't planned, hasn't decided, have you...? / has she...? 例句：We haven't booked the venue. / She hasn't chosen flowers. / Have you invited everyone? 注意 haven't = have not。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：聚会上，我听到了“anniversary”。  
+   **英文**：At the gathering, I heard "anniversary".
+   > **解析**：本题在单元主题情境中复习表达 anniversary。
+
+2. **中文**：朋友说了“has”。  
+   **英文**：My friend said "has".
+   > **解析**：本题在单元主题情境中复习表达 has。
+
+3. **中文**：我们一起谈到了“haven't”。  
+   **英文**：We talked about "haven't" together.
+   > **解析**：本题在单元主题情境中复习表达 haven't。
+
+4. **中文**：有人向我解释了“lately”。  
+   **英文**：Someone explained "lately" to me.
+   > **解析**：本题在单元主题情境中复习表达 lately。
+
+5. **中文**：我用“peaceful”作了回应。  
+   **英文**：I replied with "peaceful".
+   > **解析**：本题在单元主题情境中复习表达 peaceful。
+
+6. **中文**：对话中包含“than”。  
+   **英文**：The conversation included "than".
+   > **解析**：本题在单元主题情境中复习表达 than。
+
+7. **中文**：同伴重复了“van”。  
+   **英文**：My partner repeated "van".
+   > **解析**：本题在单元主题情境中复习表达 van。
+
+8. **中文**：我们聊到“event”时笑了。  
+   **英文**：We laughed about "event".
+   > **解析**：本题在单元主题情境中复习表达 event。
+
+9. **中文**：离开前，我记住了“have”。  
+   **英文**：Before leaving, I remembered "have".
+   > **解析**：本题在单元主题情境中复习表达 have。
+
+10. **中文**：那段对话以“in a relationship”收尾。  
+   **英文**：That conversation ended with "in a relationship".
+   > **解析**：本题在单元主题情境中复习表达 in a relationship。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the gathering, I heard "anniversary".
+   > **中文**：聚会上，我听到了“anniversary”。
+2. My friend said "has".
+   > **中文**：朋友说了“has”。
+3. We talked about "haven't" together.
+   > **中文**：我们一起谈到了“haven't”。
+4. Someone explained "lately" to me.
+   > **中文**：有人向我解释了“lately”。
+5. I replied with "peaceful".
+   > **中文**：我用“peaceful”作了回应。
+6. The conversation included "than".
+   > **中文**：对话中包含“than”。
+7. My partner repeated "van".
+   > **中文**：同伴重复了“van”。
+8. We laughed about "event".
+   > **中文**：我们聊到“event”时笑了。
+9. Before leaving, I remembered "have".
+   > **中文**：离开前，我记住了“have”。
+10. That conversation ended with "in a relationship".
+   > **中文**：那段对话以“in a relationship”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the gathering, I heard "`____`".
+
+- [x] anniversary
+- [ ] lately
+- [ ] van
+
+> **解析**：本题在单元主题情境中复习表达 anniversary。
+
+### 2
+
+My friend said "`____`".
+
+- [x] has
+- [ ] peaceful
+- [ ] event
+
+> **解析**：本题在单元主题情境中复习表达 has。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] haven't
+- [ ] than
+- [ ] have
+
+> **解析**：本题在单元主题情境中复习表达 haven't。
+
+### 4
+
+Someone explained "`____`" to me.
+
+- [x] lately
+- [ ] van
+- [ ] in a relationship
+
+> **解析**：本题在单元主题情境中复习表达 lately。
+
+### 5
+
+I replied with "`____`".
+
+- [x] peaceful
+- [ ] event
+- [ ] anniversary
+
+> **解析**：本题在单元主题情境中复习表达 peaceful。
+
+### 6
+
+The conversation included "`____`".
+
+- [x] than
+- [ ] have
+- [ ] has
+
+> **解析**：本题在单元主题情境中复习表达 than。
+
+### 7
+
+My partner repeated "`____`".
+
+- [x] van
+- [ ] in a relationship
+- [ ] haven't
+
+> **解析**：本题在单元主题情境中复习表达 van。
+
+### 8
+
+We laughed about "`____`".
+
+- [x] event
+- [ ] anniversary
+- [ ] lately
+
+> **解析**：本题在单元主题情境中复习表达 event。
+
+### 9
+
+Before leaving, I remembered "`____`".
+
+- [x] have
+- [ ] has
+- [ ] peaceful
+
+> **解析**：本题在单元主题情境中复习表达 have。
+
+### 10
+
+That conversation ended with "`____`".
+
+- [x] in a relationship
+- [ ] haven't
+- [ ] than
+
+> **解析**：本题在单元主题情境中复习表达 in a relationship。
+
+</quiz-cloze>

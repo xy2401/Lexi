@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 at this point, brief, capacity, certified, contribute, could you let me know, do you happen to, do you have any idea, duty, either of, enter, if I may ask, if you don't mind me asking, management, negotiate, neither of, no worries, none of, overtime, pay off, possibility, provide, shall we, submit, worry about
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -58,3 +63,193 @@ could you let me know / do you happen to / if I may ask 是三种不同程度的
 
 - **enter** — "进入、加入"。enter the company / enter a negotiation。比 go into 更正式。也可以指"输入"：enter data。注意 enter 后不加 into（enter the room，不是 enter into the room）。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“at this point”。  
+   **英文**：At work, we discussed "at this point".
+   > **解析**：本题在单元主题情境中复习表达 at this point。
+
+2. **中文**：同事提到了“contribute”。  
+   **英文**：My coworker mentioned "contribute".
+   > **解析**：本题在单元主题情境中复习表达 contribute。
+
+3. **中文**：会议中，我听到了“do you have any idea”。  
+   **英文**：In the meeting, I heard "do you have any idea".
+   > **解析**：本题在单元主题情境中复习表达 do you have any idea。
+
+4. **中文**：我把“if I may ask”写进了笔记。  
+   **英文**：I added "if I may ask" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 if I may ask。
+
+5. **中文**：经理解释了“neither of”。  
+   **英文**：The manager explained "neither of".
+   > **解析**：本题在单元主题情境中复习表达 neither of。
+
+6. **中文**：团队今天用到了“overtime”。  
+   **英文**：Our team used "overtime" today.
+   > **解析**：本题在单元主题情境中复习表达 overtime。
+
+7. **中文**：午饭前，我们查看了“shall we”。  
+   **英文**：Before lunch, we checked "shall we".
+   > **解析**：本题在单元主题情境中复习表达 shall we。
+
+8. **中文**：同事询问了“brief”。  
+   **英文**：My colleague asked about "brief".
+   > **解析**：本题在单元主题情境中复习表达 brief。
+
+9. **中文**：报告中包含“could you let me know”。  
+   **英文**：The report included "could you let me know".
+   > **解析**：本题在单元主题情境中复习表达 could you let me know。
+
+10. **中文**：一天结束时，我记住了“either of”。  
+   **英文**：At the end of the day, I remembered "either of".
+   > **解析**：本题在单元主题情境中复习表达 either of。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "at this point".
+   > **中文**：工作中，我们讨论了“at this point”。
+2. My coworker mentioned "contribute".
+   > **中文**：同事提到了“contribute”。
+3. In the meeting, I heard "do you have any idea".
+   > **中文**：会议中，我听到了“do you have any idea”。
+4. I added "if I may ask" to my notes.
+   > **中文**：我把“if I may ask”写进了笔记。
+5. The manager explained "neither of".
+   > **中文**：经理解释了“neither of”。
+6. Our team used "overtime" today.
+   > **中文**：团队今天用到了“overtime”。
+7. Before lunch, we checked "shall we".
+   > **中文**：午饭前，我们查看了“shall we”。
+8. My colleague asked about "brief".
+   > **中文**：同事询问了“brief”。
+9. The report included "could you let me know".
+   > **中文**：报告中包含“could you let me know”。
+10. At the end of the day, I remembered "either of".
+   > **中文**：一天结束时，我记住了“either of”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] at this point
+- [ ] if I may ask
+- [ ] shall we
+
+> **解析**：本题在单元主题情境中复习表达 at this point。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] contribute
+- [ ] neither of
+- [ ] brief
+
+> **解析**：本题在单元主题情境中复习表达 contribute。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] do you have any idea
+- [ ] overtime
+- [ ] could you let me know
+
+> **解析**：本题在单元主题情境中复习表达 do you have any idea。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] if I may ask
+- [ ] shall we
+- [ ] either of
+
+> **解析**：本题在单元主题情境中复习表达 if I may ask。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] neither of
+- [ ] brief
+- [ ] at this point
+
+> **解析**：本题在单元主题情境中复习表达 neither of。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] overtime
+- [ ] could you let me know
+- [ ] contribute
+
+> **解析**：本题在单元主题情境中复习表达 overtime。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] shall we
+- [ ] either of
+- [ ] do you have any idea
+
+> **解析**：本题在单元主题情境中复习表达 shall we。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] brief
+- [ ] at this point
+- [ ] if I may ask
+
+> **解析**：本题在单元主题情境中复习表达 brief。
+
+### 9
+
+The report included "`____`".
+
+- [x] could you let me know
+- [ ] contribute
+- [ ] neither of
+
+> **解析**：本题在单元主题情境中复习表达 could you let me know。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] either of
+- [ ] do you have any idea
+- [ ] overtime
+
+> **解析**：本题在单元主题情境中复习表达 either of。
+
+</quiz-cloze>

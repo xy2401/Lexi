@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 back seat, been, brake, car wash, flat tire, front seat, gas station, has, have been, have not been, haven't been, headlight, insurance, oil change, rental car, repair, roll down, roll up, sidewalk, tank, trunk, turn signal, windshield
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -31,3 +36,194 @@ have been / have not been / haven't been / has / been 构成现在完成时，�
 - **front seat / back seat / sidewalk** — front seat = 前排座位。back seat = 后排座位。sidewalk = 人行道（英式：pavement）。注意 shotgun! 是口语中抢坐前排的说法。
 
 - **been** — be 的过去分词。在完成时中：I've been driving.（一直在开车。）也可表经历：Have you been to a car wash? 注意 been 的发音：/bɪn/（弱读）或 /biːn/（强读）。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“back seat”。  
+   **英文**：At home, we talked about "back seat".
+   > **解析**：本题在单元主题情境中复习表达 back seat。
+
+2. **中文**：家人提到了“car wash”。  
+   **英文**：My family mentioned "car wash".
+   > **解析**：本题在单元主题情境中复习表达 car wash。
+
+3. **中文**：在房间里，我注意到了“has”。  
+   **英文**：In the room, I noticed "has".
+   > **解析**：本题在单元主题情境中复习表达 has。
+
+4. **中文**：我们在家里用到了“haven't been”。  
+   **英文**：We used "haven't been" at home.
+   > **解析**：本题在单元主题情境中复习表达 haven't been。
+
+5. **中文**：邻居询问了“rental car”。  
+   **英文**：My neighbor asked about "rental car".
+   > **解析**：本题在单元主题情境中复习表达 rental car。
+
+6. **中文**：我在门边写下了“roll up”。  
+   **英文**：I wrote down "roll up" by the door.
+   > **解析**：本题在单元主题情境中复习表达 roll up。
+
+7. **中文**：晚饭后，我们重复了“turn signal”。  
+   **英文**：After dinner, we repeated "turn signal".
+   > **解析**：本题在单元主题情境中复习表达 turn signal。
+
+8. **中文**：家庭故事里包含“been”。  
+   **英文**：The family story included "been".
+   > **解析**：本题在单元主题情境中复习表达 been。
+
+9. **中文**：睡前，我记住了“front seat”。  
+   **英文**：Before bed, I remembered "front seat".
+   > **解析**：本题在单元主题情境中复习表达 front seat。
+
+10. **中文**：那个夜晚以“have been”收尾。  
+   **英文**：That evening ended with "have been".
+   > **解析**：本题在单元主题情境中复习表达 have been。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "back seat".
+   > **中文**：在家里，我们谈到了“back seat”。
+2. My family mentioned "car wash".
+   > **中文**：家人提到了“car wash”。
+3. In the room, I noticed "has".
+   > **中文**：在房间里，我注意到了“has”。
+4. We used "haven't been" at home.
+   > **中文**：我们在家里用到了“haven't been”。
+5. My neighbor asked about "rental car".
+   > **中文**：邻居询问了“rental car”。
+6. I wrote down "roll up" by the door.
+   > **中文**：我在门边写下了“roll up”。
+7. After dinner, we repeated "turn signal".
+   > **中文**：晚饭后，我们重复了“turn signal”。
+8. The family story included "been".
+   > **中文**：家庭故事里包含“been”。
+9. Before bed, I remembered "front seat".
+   > **中文**：睡前，我记住了“front seat”。
+10. That evening ended with "have been".
+   > **中文**：那个夜晚以“have been”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] back seat
+- [ ] haven't been
+- [ ] turn signal
+
+> **解析**：本题在单元主题情境中复习表达 back seat。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] car wash
+- [ ] rental car
+- [ ] been
+
+> **解析**：本题在单元主题情境中复习表达 car wash。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] has
+- [ ] roll up
+- [ ] front seat
+
+> **解析**：本题在单元主题情境中复习表达 has。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] haven't been
+- [ ] turn signal
+- [ ] have been
+
+> **解析**：本题在单元主题情境中复习表达 haven't been。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] rental car
+- [ ] been
+- [ ] back seat
+
+> **解析**：本题在单元主题情境中复习表达 rental car。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] roll up
+- [ ] front seat
+- [ ] car wash
+
+> **解析**：本题在单元主题情境中复习表达 roll up。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] turn signal
+- [ ] have been
+- [ ] has
+
+> **解析**：本题在单元主题情境中复习表达 turn signal。
+
+### 8
+
+The family story included "`____`".
+
+- [x] been
+- [ ] back seat
+- [ ] haven't been
+
+> **解析**：本题在单元主题情境中复习表达 been。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] front seat
+- [ ] car wash
+- [ ] rental car
+
+> **解析**：本题在单元主题情境中复习表达 front seat。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] have been
+- [ ] has
+- [ ] roll up
+
+> **解析**：本题在单元主题情境中复习表达 have been。
+
+</quiz-cloze>

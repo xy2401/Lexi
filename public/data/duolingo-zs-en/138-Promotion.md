@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 about, application, avoid, baker, blank, branch, by, farming, hairstylist, knowledge, monthly, of, ordinary, pay, photocopy, response, right, salary, shake hands, shaken, shook, signature, sincerely, succeed, success
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ shake → shook → shaken（握手）。succeed 是动词，success 是名词�
 
 - **shake / signature / branch** — 握手 / 签名 / 分部。搭配：shake hands, a signature, a new branch。例句：Shake hands on it. / I need your signature. / The new branch opens next month. 注意 shake hands = 握手（达成协议）。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“about”。  
+   **英文**：At work, we discussed "about".
+   > **解析**：本题在单元主题情境中复习表达 about。
+
+2. **中文**：同事提到了“baker”。  
+   **英文**：My coworker mentioned "baker".
+   > **解析**：本题在单元主题情境中复习表达 baker。
+
+3. **中文**：会议中，我听到了“hairstylist”。  
+   **英文**：In the meeting, I heard "hairstylist".
+   > **解析**：本题在单元主题情境中复习表达 hairstylist。
+
+4. **中文**：我把“ordinary”写进了笔记。  
+   **英文**：I added "ordinary" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 ordinary。
+
+5. **中文**：经理解释了“right”。  
+   **英文**：The manager explained "right".
+   > **解析**：本题在单元主题情境中复习表达 right。
+
+6. **中文**：团队今天用到了“shaken”。  
+   **英文**：Our team used "shaken" today.
+   > **解析**：本题在单元主题情境中复习表达 shaken。
+
+7. **中文**：午饭前，我们查看了“succeed”。  
+   **英文**：Before lunch, we checked "succeed".
+   > **解析**：本题在单元主题情境中复习表达 succeed。
+
+8. **中文**：同事询问了“application”。  
+   **英文**：My colleague asked about "application".
+   > **解析**：本题在单元主题情境中复习表达 application。
+
+9. **中文**：报告中包含“branch”。  
+   **英文**：The report included "branch".
+   > **解析**：本题在单元主题情境中复习表达 branch。
+
+10. **中文**：一天结束时，我记住了“knowledge”。  
+   **英文**：At the end of the day, I remembered "knowledge".
+   > **解析**：本题在单元主题情境中复习表达 knowledge。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "about".
+   > **中文**：工作中，我们讨论了“about”。
+2. My coworker mentioned "baker".
+   > **中文**：同事提到了“baker”。
+3. In the meeting, I heard "hairstylist".
+   > **中文**：会议中，我听到了“hairstylist”。
+4. I added "ordinary" to my notes.
+   > **中文**：我把“ordinary”写进了笔记。
+5. The manager explained "right".
+   > **中文**：经理解释了“right”。
+6. Our team used "shaken" today.
+   > **中文**：团队今天用到了“shaken”。
+7. Before lunch, we checked "succeed".
+   > **中文**：午饭前，我们查看了“succeed”。
+8. My colleague asked about "application".
+   > **中文**：同事询问了“application”。
+9. The report included "branch".
+   > **中文**：报告中包含“branch”。
+10. At the end of the day, I remembered "knowledge".
+   > **中文**：一天结束时，我记住了“knowledge”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] about
+- [ ] ordinary
+- [ ] succeed
+
+> **解析**：本题在单元主题情境中复习表达 about。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] baker
+- [ ] right
+- [ ] application
+
+> **解析**：本题在单元主题情境中复习表达 baker。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] hairstylist
+- [ ] shaken
+- [ ] branch
+
+> **解析**：本题在单元主题情境中复习表达 hairstylist。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] ordinary
+- [ ] succeed
+- [ ] knowledge
+
+> **解析**：本题在单元主题情境中复习表达 ordinary。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] right
+- [ ] application
+- [ ] about
+
+> **解析**：本题在单元主题情境中复习表达 right。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] shaken
+- [ ] branch
+- [ ] baker
+
+> **解析**：本题在单元主题情境中复习表达 shaken。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] succeed
+- [ ] knowledge
+- [ ] hairstylist
+
+> **解析**：本题在单元主题情境中复习表达 succeed。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] application
+- [ ] about
+- [ ] ordinary
+
+> **解析**：本题在单元主题情境中复习表达 application。
+
+### 9
+
+The report included "`____`".
+
+- [x] branch
+- [ ] baker
+- [ ] right
+
+> **解析**：本题在单元主题情境中复习表达 branch。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] knowledge
+- [ ] hairstylist
+- [ ] shaken
+
+> **解析**：本题在单元主题情境中复习表达 knowledge。
+
+</quiz-cloze>

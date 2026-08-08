@@ -3,22 +3,17 @@
  */
 
 /**
- * 两字前缀归仓算法
- * 根据单词计算其所属的 SQLite 分片文件名
- * @param {string} word - 原始单词
- * @returns {string} 分片文件名，如 "ab.db", "a_.db", "other_.db"
+ * 两字符语义分片：aa..zz、a_..z_、__。
  */
-export function getDbName(word) {
-  const cleanWord = word.toLowerCase().trim();
-  if (cleanWord.length < 2) return `${cleanWord}_.db`;
+export function getShardName(word) {
+  const normalized = String(word || '').toLowerCase().trim()
+  const first = normalized[0] || ''
+  const second = normalized[1] || ''
+  const isLetter = character => /^[a-z]$/.test(character)
 
-  const first = cleanWord[0];
-  const second = cleanWord[1];
-  const isLetter = (ch) => /^[a-z]$/.test(ch);
-
-  if (!isLetter(first)) return '__.db';               // 脏数据、纯数字符号归仓
-  if (isLetter(second)) return `${first}${second}.db`; // 正常纯字母分片如 "ap.db"
-  return `${first}_.db`;                               // 第二位带空格、符号的短语归仓如 "a_.db"
+  if (!isLetter(first)) return '__.db'
+  if (!isLetter(second)) return `${first}_.db`
+  return `${first}${second}.db`
 }
 
 /**

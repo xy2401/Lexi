@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 after being, after having, arrangement, as for, bouquet, depending on, do without, formal, host, in honor of, inquire, interact, last-minute, photograph, place, reception, rsvp, shower, tablecloth, task, to begin with, up to, when in doubt, whether or not
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -39,3 +44,194 @@ after being, after having, arrangement, as for, bouquet, depending on, do withou
 - **as for / to begin with / up to** — as for = 至于（转换话题），to begin with = 首先/一开始，up to = 由……决定。搭配：As for the food, ... / To begin with, ... / It's up to the host.。As for the bouquet, it's up to you. / To begin with, we need to RSVP. 注意 as for 用于引入新话题。
 
 - **task / place** — task 是任务，place 是地方/放置。搭配：a task to do, set the place, take your place。Setting the table is my task. / Please take your place at the reception. 注意 place 在宴会语境中可指"座位"：save a place for me。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：聚会上，我听到了“after being”。  
+   **英文**：At the gathering, I heard "after being".
+   > **解析**：本题在单元主题情境中复习表达 after being。
+
+2. **中文**：朋友说了“bouquet”。  
+   **英文**：My friend said "bouquet".
+   > **解析**：本题在单元主题情境中复习表达 bouquet。
+
+3. **中文**：我们一起谈到了“formal”。  
+   **英文**：We talked about "formal" together.
+   > **解析**：本题在单元主题情境中复习表达 formal。
+
+4. **中文**：有人向我解释了“interact”。  
+   **英文**：Someone explained "interact" to me.
+   > **解析**：本题在单元主题情境中复习表达 interact。
+
+5. **中文**：我用“place”作了回应。  
+   **英文**：I replied with "place".
+   > **解析**：本题在单元主题情境中复习表达 place。
+
+6. **中文**：对话中包含“tablecloth”。  
+   **英文**：The conversation included "tablecloth".
+   > **解析**：本题在单元主题情境中复习表达 tablecloth。
+
+7. **中文**：同伴重复了“up to”。  
+   **英文**：My partner repeated "up to".
+   > **解析**：本题在单元主题情境中复习表达 up to。
+
+8. **中文**：我们聊到“after having”时笑了。  
+   **英文**：We laughed about "after having".
+   > **解析**：本题在单元主题情境中复习表达 after having。
+
+9. **中文**：离开前，我记住了“depending on”。  
+   **英文**：Before leaving, I remembered "depending on".
+   > **解析**：本题在单元主题情境中复习表达 depending on。
+
+10. **中文**：那段对话以“in honor of”收尾。  
+   **英文**：That conversation ended with "in honor of".
+   > **解析**：本题在单元主题情境中复习表达 in honor of。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the gathering, I heard "after being".
+   > **中文**：聚会上，我听到了“after being”。
+2. My friend said "bouquet".
+   > **中文**：朋友说了“bouquet”。
+3. We talked about "formal" together.
+   > **中文**：我们一起谈到了“formal”。
+4. Someone explained "interact" to me.
+   > **中文**：有人向我解释了“interact”。
+5. I replied with "place".
+   > **中文**：我用“place”作了回应。
+6. The conversation included "tablecloth".
+   > **中文**：对话中包含“tablecloth”。
+7. My partner repeated "up to".
+   > **中文**：同伴重复了“up to”。
+8. We laughed about "after having".
+   > **中文**：我们聊到“after having”时笑了。
+9. Before leaving, I remembered "depending on".
+   > **中文**：离开前，我记住了“depending on”。
+10. That conversation ended with "in honor of".
+   > **中文**：那段对话以“in honor of”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the gathering, I heard "`____`".
+
+- [x] after being
+- [ ] interact
+- [ ] up to
+
+> **解析**：本题在单元主题情境中复习表达 after being。
+
+### 2
+
+My friend said "`____`".
+
+- [x] bouquet
+- [ ] place
+- [ ] after having
+
+> **解析**：本题在单元主题情境中复习表达 bouquet。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] formal
+- [ ] tablecloth
+- [ ] depending on
+
+> **解析**：本题在单元主题情境中复习表达 formal。
+
+### 4
+
+Someone explained "`____`" to me.
+
+- [x] interact
+- [ ] up to
+- [ ] in honor of
+
+> **解析**：本题在单元主题情境中复习表达 interact。
+
+### 5
+
+I replied with "`____`".
+
+- [x] place
+- [ ] after having
+- [ ] after being
+
+> **解析**：本题在单元主题情境中复习表达 place。
+
+### 6
+
+The conversation included "`____`".
+
+- [x] tablecloth
+- [ ] depending on
+- [ ] bouquet
+
+> **解析**：本题在单元主题情境中复习表达 tablecloth。
+
+### 7
+
+My partner repeated "`____`".
+
+- [x] up to
+- [ ] in honor of
+- [ ] formal
+
+> **解析**：本题在单元主题情境中复习表达 up to。
+
+### 8
+
+We laughed about "`____`".
+
+- [x] after having
+- [ ] after being
+- [ ] interact
+
+> **解析**：本题在单元主题情境中复习表达 after having。
+
+### 9
+
+Before leaving, I remembered "`____`".
+
+- [x] depending on
+- [ ] bouquet
+- [ ] place
+
+> **解析**：本题在单元主题情境中复习表达 depending on。
+
+### 10
+
+That conversation ended with "`____`".
+
+- [x] in honor of
+- [ ] formal
+- [ ] tablecloth
+
+> **解析**：本题在单元主题情境中复习表达 in honor of。
+
+</quiz-cloze>

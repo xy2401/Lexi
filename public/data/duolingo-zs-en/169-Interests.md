@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 architecture, been, collection, cycling, ever since, go for a run, has been, have been, honestly, how long, jog, league, leisure, less often, more often, plus, poetry, regularly, scuba dive, that sort of thing, very long, yoga
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -33,3 +38,194 @@ architecture, been, collection, cycling, ever since, go for a run, has been, hav
 - **honestly / plus / very long** — honestly 在口语中常用来强调真实性：Honestly, I've never tried it. plus 口语中 = 而且、另外：It's fun, plus it's good exercise. very long 常与 how long 搭配：Have you been waiting very long?
 
 - **been** — be 的过去分词。在完成时中表"去过"：Have you ever been to Paris? 注意 been（去了回来了）和 gone（去了还没回来）的区别。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：谈论喜好时，我听到了“architecture”。  
+   **英文**：When we talked about favorites, I heard "architecture".
+   > **解析**：本题在单元主题情境中复习表达 architecture。
+
+2. **中文**：朋友说“cycling”很重要。  
+   **英文**：My friend said "cycling" was important.
+   > **解析**：本题在单元主题情境中复习表达 cycling。
+
+3. **中文**：我问他们喜欢哪一个：“have been”。  
+   **英文**：I asked which one they liked: "have been".
+   > **解析**：本题在单元主题情境中复习表达 have been。
+
+4. **中文**：聊天时，我们比较了“jog”。  
+   **英文**：In our chat, we compared "jog".
+   > **解析**：本题在单元主题情境中复习表达 jog。
+
+5. **中文**：同伴先选择了“less often”。  
+   **英文**：My partner chose "less often" first.
+   > **解析**：本题在单元主题情境中复习表达 less often。
+
+6. **中文**：我们用“regularly”描述喜好。  
+   **英文**：We used "regularly" to describe a favorite.
+   > **解析**：本题在单元主题情境中复习表达 regularly。
+
+7. **中文**：答案中包含“very long”。  
+   **英文**：The answer included "very long".
+   > **解析**：本题在单元主题情境中复习表达 very long。
+
+8. **中文**：我从对话中记住了“been”。  
+   **英文**：I remembered "been" from the conversation.
+   > **解析**：本题在单元主题情境中复习表达 been。
+
+9. **中文**：朋友微笑着重复了“go for a run”。  
+   **英文**：My friend repeated "go for a run" with a smile.
+   > **解析**：本题在单元主题情境中复习表达 go for a run。
+
+10. **中文**：那场关于喜好的聊天以“honestly”收尾。  
+   **英文**：That chat about favorites ended with "honestly".
+   > **解析**：本题在单元主题情境中复习表达 honestly。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. When we talked about favorites, I heard "architecture".
+   > **中文**：谈论喜好时，我听到了“architecture”。
+2. My friend said "cycling" was important.
+   > **中文**：朋友说“cycling”很重要。
+3. I asked which one they liked: "have been".
+   > **中文**：我问他们喜欢哪一个：“have been”。
+4. In our chat, we compared "jog".
+   > **中文**：聊天时，我们比较了“jog”。
+5. My partner chose "less often" first.
+   > **中文**：同伴先选择了“less often”。
+6. We used "regularly" to describe a favorite.
+   > **中文**：我们用“regularly”描述喜好。
+7. The answer included "very long".
+   > **中文**：答案中包含“very long”。
+8. I remembered "been" from the conversation.
+   > **中文**：我从对话中记住了“been”。
+9. My friend repeated "go for a run" with a smile.
+   > **中文**：朋友微笑着重复了“go for a run”。
+10. That chat about favorites ended with "honestly".
+   > **中文**：那场关于喜好的聊天以“honestly”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+When we talked about favorites, I heard "`____`".
+
+- [x] architecture
+- [ ] jog
+- [ ] very long
+
+> **解析**：本题在单元主题情境中复习表达 architecture。
+
+### 2
+
+My friend said "`____`" was important.
+
+- [x] cycling
+- [ ] less often
+- [ ] been
+
+> **解析**：本题在单元主题情境中复习表达 cycling。
+
+### 3
+
+I asked which one they liked: "`____`".
+
+- [x] have been
+- [ ] regularly
+- [ ] go for a run
+
+> **解析**：本题在单元主题情境中复习表达 have been。
+
+### 4
+
+In our chat, we compared "`____`".
+
+- [x] jog
+- [ ] very long
+- [ ] honestly
+
+> **解析**：本题在单元主题情境中复习表达 jog。
+
+### 5
+
+My partner chose "`____`" first.
+
+- [x] less often
+- [ ] been
+- [ ] architecture
+
+> **解析**：本题在单元主题情境中复习表达 less often。
+
+### 6
+
+We used "`____`" to describe a favorite.
+
+- [x] regularly
+- [ ] go for a run
+- [ ] cycling
+
+> **解析**：本题在单元主题情境中复习表达 regularly。
+
+### 7
+
+The answer included "`____`".
+
+- [x] very long
+- [ ] honestly
+- [ ] have been
+
+> **解析**：本题在单元主题情境中复习表达 very long。
+
+### 8
+
+I remembered "`____`" from the conversation.
+
+- [x] been
+- [ ] architecture
+- [ ] jog
+
+> **解析**：本题在单元主题情境中复习表达 been。
+
+### 9
+
+My friend repeated "`____`" with a smile.
+
+- [x] go for a run
+- [ ] cycling
+- [ ] less often
+
+> **解析**：本题在单元主题情境中复习表达 go for a run。
+
+### 10
+
+That chat about favorites ended with "`____`".
+
+- [x] honestly
+- [ ] have been
+- [ ] regularly
+
+> **解析**：本题在单元主题情境中复习表达 honestly。
+
+</quiz-cloze>

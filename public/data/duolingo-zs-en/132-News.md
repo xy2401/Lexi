@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 billion, bomb, border, cause, common, court, crash, crime, enemy, expect, false, front page, government, gun, headline, in court, in exchange for, in jail, jail, leader, rob, spy, their, they, though
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ though 表示"虽然"（放句末更口语）。in jail 表示"在监狱里"。
 
 - **court / jail / border** — 法院 / 监狱 / 边境。搭配：in court, in jail, at the border。例句：He's in court today. / She was sent to jail. / They crossed the border illegally. 注意 in court 不加 the（指出庭）。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“billion”。  
+   **英文**：In this situation, I heard "billion".
+   > **解析**：本题在单元主题情境中复习表达 billion。
+
+2. **中文**：同伴解释了“cause”。  
+   **英文**：My partner explained "cause".
+   > **解析**：本题在单元主题情境中复习表达 cause。
+
+3. **中文**：我们一起谈到了“crime”。  
+   **英文**：We talked about "crime" together.
+   > **解析**：本题在单元主题情境中复习表达 crime。
+
+4. **中文**：我记下了“false”。  
+   **英文**：I wrote down "false".
+   > **解析**：本题在单元主题情境中复习表达 false。
+
+5. **中文**：例句中包含“headline”。  
+   **英文**：The example included "headline".
+   > **解析**：本题在单元主题情境中复习表达 headline。
+
+6. **中文**：我询问了“in jail”。  
+   **英文**：I asked about "in jail".
+   > **解析**：本题在单元主题情境中复习表达 in jail。
+
+7. **中文**：我们在句子中用到了“spy”。  
+   **英文**：We used "spy" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 spy。
+
+8. **中文**：朋友重复了“bomb”。  
+   **英文**：My friend repeated "bomb".
+   > **解析**：本题在单元主题情境中复习表达 bomb。
+
+9. **中文**：后来，我记住了“court”。  
+   **英文**：Later, I remembered "court".
+   > **解析**：本题在单元主题情境中复习表达 court。
+
+10. **中文**：这个小故事以“enemy”收尾。  
+   **英文**：The short story ended with "enemy".
+   > **解析**：本题在单元主题情境中复习表达 enemy。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "billion".
+   > **中文**：在这个情境中，我听到了“billion”。
+2. My partner explained "cause".
+   > **中文**：同伴解释了“cause”。
+3. We talked about "crime" together.
+   > **中文**：我们一起谈到了“crime”。
+4. I wrote down "false".
+   > **中文**：我记下了“false”。
+5. The example included "headline".
+   > **中文**：例句中包含“headline”。
+6. I asked about "in jail".
+   > **中文**：我询问了“in jail”。
+7. We used "spy" in a sentence.
+   > **中文**：我们在句子中用到了“spy”。
+8. My friend repeated "bomb".
+   > **中文**：朋友重复了“bomb”。
+9. Later, I remembered "court".
+   > **中文**：后来，我记住了“court”。
+10. The short story ended with "enemy".
+   > **中文**：这个小故事以“enemy”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] billion
+- [ ] false
+- [ ] spy
+
+> **解析**：本题在单元主题情境中复习表达 billion。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] cause
+- [ ] headline
+- [ ] bomb
+
+> **解析**：本题在单元主题情境中复习表达 cause。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] crime
+- [ ] in jail
+- [ ] court
+
+> **解析**：本题在单元主题情境中复习表达 crime。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] false
+- [ ] spy
+- [ ] enemy
+
+> **解析**：本题在单元主题情境中复习表达 false。
+
+### 5
+
+The example included "`____`".
+
+- [x] headline
+- [ ] bomb
+- [ ] billion
+
+> **解析**：本题在单元主题情境中复习表达 headline。
+
+### 6
+
+I asked about "`____`".
+
+- [x] in jail
+- [ ] court
+- [ ] cause
+
+> **解析**：本题在单元主题情境中复习表达 in jail。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] spy
+- [ ] enemy
+- [ ] crime
+
+> **解析**：本题在单元主题情境中复习表达 spy。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] bomb
+- [ ] billion
+- [ ] false
+
+> **解析**：本题在单元主题情境中复习表达 bomb。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] court
+- [ ] cause
+- [ ] headline
+
+> **解析**：本题在单元主题情境中复习表达 court。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] enemy
+- [ ] crime
+- [ ] in jail
+
+> **解析**：本题在单元主题情境中复习表达 enemy。
+
+</quiz-cloze>

@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 all grown up, any, back in town, can't complain, catch you up on, compliment, design, expecting, forties, get, get used to, going, how long has it been, how's, it's been, kindergarten, liking, loving, on the whole, overall, overseas, promise to, run into, so far, things
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -43,3 +48,194 @@ all grown up, any, back in town, can't complain, catch you up on, compliment, de
 - **compliment** — 赞美、恭维。搭配：give a compliment / take a compliment / pay someone a compliment。例句：She complimented my design work. 注意和 complement（补充、搭配）拼写相近但意思不同：compliment 有 i，complement 有 e。
 
 - **things** — 这里指"生活状况、近况"（复数）。搭配：How are things? / Things are going well. / Things have been busy. 例句：So, how are things? — Can't complain! 口语中 things 常用来泛指生活的方方面面，比 life 更随意。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：聚会上，我听到了“all grown up”。  
+   **英文**：At the gathering, I heard "all grown up".
+   > **解析**：本题在单元主题情境中复习表达 all grown up。
+
+2. **中文**：朋友说了“catch you up on”。  
+   **英文**：My friend said "catch you up on".
+   > **解析**：本题在单元主题情境中复习表达 catch you up on。
+
+3. **中文**：我们一起谈到了“expecting”。  
+   **英文**：We talked about "expecting" together.
+   > **解析**：本题在单元主题情境中复习表达 expecting。
+
+4. **中文**：有人向我解释了“going”。  
+   **英文**：Someone explained "going" to me.
+   > **解析**：本题在单元主题情境中复习表达 going。
+
+5. **中文**：我用“kindergarten”作了回应。  
+   **英文**：I replied with "kindergarten".
+   > **解析**：本题在单元主题情境中复习表达 kindergarten。
+
+6. **中文**：对话中包含“on the whole”。  
+   **英文**：The conversation included "on the whole".
+   > **解析**：本题在单元主题情境中复习表达 on the whole。
+
+7. **中文**：同伴重复了“run into”。  
+   **英文**：My partner repeated "run into".
+   > **解析**：本题在单元主题情境中复习表达 run into。
+
+8. **中文**：我们聊到“any”时笑了。  
+   **英文**：We laughed about "any".
+   > **解析**：本题在单元主题情境中复习表达 any。
+
+9. **中文**：离开前，我记住了“compliment”。  
+   **英文**：Before leaving, I remembered "compliment".
+   > **解析**：本题在单元主题情境中复习表达 compliment。
+
+10. **中文**：那段对话以“get”收尾。  
+   **英文**：That conversation ended with "get".
+   > **解析**：本题在单元主题情境中复习表达 get。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the gathering, I heard "all grown up".
+   > **中文**：聚会上，我听到了“all grown up”。
+2. My friend said "catch you up on".
+   > **中文**：朋友说了“catch you up on”。
+3. We talked about "expecting" together.
+   > **中文**：我们一起谈到了“expecting”。
+4. Someone explained "going" to me.
+   > **中文**：有人向我解释了“going”。
+5. I replied with "kindergarten".
+   > **中文**：我用“kindergarten”作了回应。
+6. The conversation included "on the whole".
+   > **中文**：对话中包含“on the whole”。
+7. My partner repeated "run into".
+   > **中文**：同伴重复了“run into”。
+8. We laughed about "any".
+   > **中文**：我们聊到“any”时笑了。
+9. Before leaving, I remembered "compliment".
+   > **中文**：离开前，我记住了“compliment”。
+10. That conversation ended with "get".
+   > **中文**：那段对话以“get”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the gathering, I heard "`____`".
+
+- [x] all grown up
+- [ ] going
+- [ ] run into
+
+> **解析**：本题在单元主题情境中复习表达 all grown up。
+
+### 2
+
+My friend said "`____`".
+
+- [x] catch you up on
+- [ ] kindergarten
+- [ ] any
+
+> **解析**：本题在单元主题情境中复习表达 catch you up on。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] expecting
+- [ ] on the whole
+- [ ] compliment
+
+> **解析**：本题在单元主题情境中复习表达 expecting。
+
+### 4
+
+Someone explained "`____`" to me.
+
+- [x] going
+- [ ] run into
+- [ ] get
+
+> **解析**：本题在单元主题情境中复习表达 going。
+
+### 5
+
+I replied with "`____`".
+
+- [x] kindergarten
+- [ ] any
+- [ ] all grown up
+
+> **解析**：本题在单元主题情境中复习表达 kindergarten。
+
+### 6
+
+The conversation included "`____`".
+
+- [x] on the whole
+- [ ] compliment
+- [ ] catch you up on
+
+> **解析**：本题在单元主题情境中复习表达 on the whole。
+
+### 7
+
+My partner repeated "`____`".
+
+- [x] run into
+- [ ] get
+- [ ] expecting
+
+> **解析**：本题在单元主题情境中复习表达 run into。
+
+### 8
+
+We laughed about "`____`".
+
+- [x] any
+- [ ] all grown up
+- [ ] going
+
+> **解析**：本题在单元主题情境中复习表达 any。
+
+### 9
+
+Before leaving, I remembered "`____`".
+
+- [x] compliment
+- [ ] catch you up on
+- [ ] kindergarten
+
+> **解析**：本题在单元主题情境中复习表达 compliment。
+
+### 10
+
+That conversation ended with "`____`".
+
+- [x] get
+- [ ] expecting
+- [ ] on the whole
+
+> **解析**：本题在单元主题情境中复习表达 get。
+
+</quiz-cloze>

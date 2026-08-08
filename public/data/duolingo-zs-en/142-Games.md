@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 ability, alike, amazed, brilliant, chin, confident, creative, curious about, fairly, feeling, how, lover, nickname, relaxed, relaxing, sand, smile, teenage, unbelievable, unemployed, uninteresting, unlucky, would you mind
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ would you mind + doing 是礼貌请求句型。un- 前缀表示否定。
 
 - **unemployed / unlucky / uninteresting** — 失业 / 倒霉 / 无聊。搭配：become unemployed, an unlucky day, uninteresting work。例句：He became unemployed last month. / What an unlucky day! / The job is uninteresting. 注意 un- 是最常见的否定前缀。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“ability”。  
+   **英文**：In this situation, I heard "ability".
+   > **解析**：本题在单元主题情境中复习表达 ability。
+
+2. **中文**：同伴解释了“brilliant”。  
+   **英文**：My partner explained "brilliant".
+   > **解析**：本题在单元主题情境中复习表达 brilliant。
+
+3. **中文**：我们一起谈到了“curious about”。  
+   **英文**：We talked about "curious about" together.
+   > **解析**：本题在单元主题情境中复习表达 curious about。
+
+4. **中文**：我记下了“how”。  
+   **英文**：I wrote down "how".
+   > **解析**：本题在单元主题情境中复习表达 how。
+
+5. **中文**：例句中包含“relaxing”。  
+   **英文**：The example included "relaxing".
+   > **解析**：本题在单元主题情境中复习表达 relaxing。
+
+6. **中文**：我询问了“teenage”。  
+   **英文**：I asked about "teenage".
+   > **解析**：本题在单元主题情境中复习表达 teenage。
+
+7. **中文**：我们在句子中用到了“unlucky”。  
+   **英文**：We used "unlucky" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 unlucky。
+
+8. **中文**：朋友重复了“alike”。  
+   **英文**：My friend repeated "alike".
+   > **解析**：本题在单元主题情境中复习表达 alike。
+
+9. **中文**：后来，我记住了“confident”。  
+   **英文**：Later, I remembered "confident".
+   > **解析**：本题在单元主题情境中复习表达 confident。
+
+10. **中文**：这个小故事以“fairly”收尾。  
+   **英文**：The short story ended with "fairly".
+   > **解析**：本题在单元主题情境中复习表达 fairly。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "ability".
+   > **中文**：在这个情境中，我听到了“ability”。
+2. My partner explained "brilliant".
+   > **中文**：同伴解释了“brilliant”。
+3. We talked about "curious about" together.
+   > **中文**：我们一起谈到了“curious about”。
+4. I wrote down "how".
+   > **中文**：我记下了“how”。
+5. The example included "relaxing".
+   > **中文**：例句中包含“relaxing”。
+6. I asked about "teenage".
+   > **中文**：我询问了“teenage”。
+7. We used "unlucky" in a sentence.
+   > **中文**：我们在句子中用到了“unlucky”。
+8. My friend repeated "alike".
+   > **中文**：朋友重复了“alike”。
+9. Later, I remembered "confident".
+   > **中文**：后来，我记住了“confident”。
+10. The short story ended with "fairly".
+   > **中文**：这个小故事以“fairly”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] ability
+- [ ] how
+- [ ] unlucky
+
+> **解析**：本题在单元主题情境中复习表达 ability。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] brilliant
+- [ ] relaxing
+- [ ] alike
+
+> **解析**：本题在单元主题情境中复习表达 brilliant。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] curious about
+- [ ] teenage
+- [ ] confident
+
+> **解析**：本题在单元主题情境中复习表达 curious about。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] how
+- [ ] unlucky
+- [ ] fairly
+
+> **解析**：本题在单元主题情境中复习表达 how。
+
+### 5
+
+The example included "`____`".
+
+- [x] relaxing
+- [ ] alike
+- [ ] ability
+
+> **解析**：本题在单元主题情境中复习表达 relaxing。
+
+### 6
+
+I asked about "`____`".
+
+- [x] teenage
+- [ ] confident
+- [ ] brilliant
+
+> **解析**：本题在单元主题情境中复习表达 teenage。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] unlucky
+- [ ] fairly
+- [ ] curious about
+
+> **解析**：本题在单元主题情境中复习表达 unlucky。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] alike
+- [ ] ability
+- [ ] how
+
+> **解析**：本题在单元主题情境中复习表达 alike。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] confident
+- [ ] brilliant
+- [ ] relaxing
+
+> **解析**：本题在单元主题情境中复习表达 confident。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] fairly
+- [ ] curious about
+- [ ] teenage
+
+> **解析**：本题在单元主题情境中复习表达 fairly。
+
+</quiz-cloze>

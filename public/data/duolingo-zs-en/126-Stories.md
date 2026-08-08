@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 besides, brave, candle, celebration, cushion, discover, fight, firework, fought, fountain, get, get excited, get hurt, get lost, get stolen, look out, monster, object, palace, prince, princess, shiny, shoulder, toward, wave, whatever
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ get + 过去分词（get hurt, get lost, get stolen）表示"变得……/遭遇
 
 - **whatever / get / besides** — 无论什么 / 变得 / 除了。搭配：Whatever happens, get ready, besides that。例句：Whatever happens, stay brave. / Get ready for the celebration! / Besides the prince, who else was there?
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“besides”。  
+   **英文**：At home, we talked about "besides".
+   > **解析**：本题在单元主题情境中复习表达 besides。
+
+2. **中文**：家人提到了“cushion”。  
+   **英文**：My family mentioned "cushion".
+   > **解析**：本题在单元主题情境中复习表达 cushion。
+
+3. **中文**：在房间里，我注意到了“fought”。  
+   **英文**：In the room, I noticed "fought".
+   > **解析**：本题在单元主题情境中复习表达 fought。
+
+4. **中文**：我们在家里用到了“get excited”。  
+   **英文**：We used "get excited" at home.
+   > **解析**：本题在单元主题情境中复习表达 get excited。
+
+5. **中文**：邻居询问了“look out”。  
+   **英文**：My neighbor asked about "look out".
+   > **解析**：本题在单元主题情境中复习表达 look out。
+
+6. **中文**：我在门边写下了“prince”。  
+   **英文**：I wrote down "prince" by the door.
+   > **解析**：本题在单元主题情境中复习表达 prince。
+
+7. **中文**：晚饭后，我们重复了“toward”。  
+   **英文**：After dinner, we repeated "toward".
+   > **解析**：本题在单元主题情境中复习表达 toward。
+
+8. **中文**：家庭故事里包含“brave”。  
+   **英文**：The family story included "brave".
+   > **解析**：本题在单元主题情境中复习表达 brave。
+
+9. **中文**：睡前，我记住了“discover”。  
+   **英文**：Before bed, I remembered "discover".
+   > **解析**：本题在单元主题情境中复习表达 discover。
+
+10. **中文**：那个夜晚以“fountain”收尾。  
+   **英文**：That evening ended with "fountain".
+   > **解析**：本题在单元主题情境中复习表达 fountain。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "besides".
+   > **中文**：在家里，我们谈到了“besides”。
+2. My family mentioned "cushion".
+   > **中文**：家人提到了“cushion”。
+3. In the room, I noticed "fought".
+   > **中文**：在房间里，我注意到了“fought”。
+4. We used "get excited" at home.
+   > **中文**：我们在家里用到了“get excited”。
+5. My neighbor asked about "look out".
+   > **中文**：邻居询问了“look out”。
+6. I wrote down "prince" by the door.
+   > **中文**：我在门边写下了“prince”。
+7. After dinner, we repeated "toward".
+   > **中文**：晚饭后，我们重复了“toward”。
+8. The family story included "brave".
+   > **中文**：家庭故事里包含“brave”。
+9. Before bed, I remembered "discover".
+   > **中文**：睡前，我记住了“discover”。
+10. That evening ended with "fountain".
+   > **中文**：那个夜晚以“fountain”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] besides
+- [ ] get excited
+- [ ] toward
+
+> **解析**：本题在单元主题情境中复习表达 besides。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] cushion
+- [ ] look out
+- [ ] brave
+
+> **解析**：本题在单元主题情境中复习表达 cushion。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] fought
+- [ ] prince
+- [ ] discover
+
+> **解析**：本题在单元主题情境中复习表达 fought。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] get excited
+- [ ] toward
+- [ ] fountain
+
+> **解析**：本题在单元主题情境中复习表达 get excited。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] look out
+- [ ] brave
+- [ ] besides
+
+> **解析**：本题在单元主题情境中复习表达 look out。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] prince
+- [ ] discover
+- [ ] cushion
+
+> **解析**：本题在单元主题情境中复习表达 prince。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] toward
+- [ ] fountain
+- [ ] fought
+
+> **解析**：本题在单元主题情境中复习表达 toward。
+
+### 8
+
+The family story included "`____`".
+
+- [x] brave
+- [ ] besides
+- [ ] get excited
+
+> **解析**：本题在单元主题情境中复习表达 brave。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] discover
+- [ ] cushion
+- [ ] look out
+
+> **解析**：本题在单元主题情境中复习表达 discover。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] fountain
+- [ ] fought
+- [ ] prince
+
+> **解析**：本题在单元主题情境中复习表达 fountain。
+
+</quiz-cloze>

@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 accidentally, attach, back, back up, button, connect, cost, dot com, follow, look, look up, notice, plug, plug in, set, set up, sign, sign up, smartphone, sort of, update, upgrade, username, voicemail, volume
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ phrasal verbs（短语动词）是本单元重点：plug in, set up, sign up, ba
 
 - **accidentally / sort of / notice** — 意外地 / 有点 / 注意。搭配：do sth accidentally, sort of like, notice a change。例句：I accidentally broke the screen. / It's sort of expensive. / I noticed a new button. 注意 sort of 是口语中的"有点"。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“accidentally”。  
+   **英文**：In this situation, I heard "accidentally".
+   > **解析**：本题在单元主题情境中复习表达 accidentally。
+
+2. **中文**：同伴解释了“button”。  
+   **英文**：My partner explained "button".
+   > **解析**：本题在单元主题情境中复习表达 button。
+
+3. **中文**：我们一起谈到了“dot com”。  
+   **英文**：We talked about "dot com" together.
+   > **解析**：本题在单元主题情境中复习表达 dot com。
+
+4. **中文**：我记下了“notice”。  
+   **英文**：I wrote down "notice".
+   > **解析**：本题在单元主题情境中复习表达 notice。
+
+5. **中文**：例句中包含“set up”。  
+   **英文**：The example included "set up".
+   > **解析**：本题在单元主题情境中复习表达 set up。
+
+6. **中文**：我询问了“smartphone”。  
+   **英文**：I asked about "smartphone".
+   > **解析**：本题在单元主题情境中复习表达 smartphone。
+
+7. **中文**：我们在句子中用到了“username”。  
+   **英文**：We used "username" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 username。
+
+8. **中文**：朋友重复了“attach”。  
+   **英文**：My friend repeated "attach".
+   > **解析**：本题在单元主题情境中复习表达 attach。
+
+9. **中文**：后来，我记住了“connect”。  
+   **英文**：Later, I remembered "connect".
+   > **解析**：本题在单元主题情境中复习表达 connect。
+
+10. **中文**：这个小故事以“look”收尾。  
+   **英文**：The short story ended with "look".
+   > **解析**：本题在单元主题情境中复习表达 look。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "accidentally".
+   > **中文**：在这个情境中，我听到了“accidentally”。
+2. My partner explained "button".
+   > **中文**：同伴解释了“button”。
+3. We talked about "dot com" together.
+   > **中文**：我们一起谈到了“dot com”。
+4. I wrote down "notice".
+   > **中文**：我记下了“notice”。
+5. The example included "set up".
+   > **中文**：例句中包含“set up”。
+6. I asked about "smartphone".
+   > **中文**：我询问了“smartphone”。
+7. We used "username" in a sentence.
+   > **中文**：我们在句子中用到了“username”。
+8. My friend repeated "attach".
+   > **中文**：朋友重复了“attach”。
+9. Later, I remembered "connect".
+   > **中文**：后来，我记住了“connect”。
+10. The short story ended with "look".
+   > **中文**：这个小故事以“look”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] accidentally
+- [ ] notice
+- [ ] username
+
+> **解析**：本题在单元主题情境中复习表达 accidentally。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] button
+- [ ] set up
+- [ ] attach
+
+> **解析**：本题在单元主题情境中复习表达 button。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] dot com
+- [ ] smartphone
+- [ ] connect
+
+> **解析**：本题在单元主题情境中复习表达 dot com。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] notice
+- [ ] username
+- [ ] look
+
+> **解析**：本题在单元主题情境中复习表达 notice。
+
+### 5
+
+The example included "`____`".
+
+- [x] set up
+- [ ] attach
+- [ ] accidentally
+
+> **解析**：本题在单元主题情境中复习表达 set up。
+
+### 6
+
+I asked about "`____`".
+
+- [x] smartphone
+- [ ] connect
+- [ ] button
+
+> **解析**：本题在单元主题情境中复习表达 smartphone。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] username
+- [ ] look
+- [ ] dot com
+
+> **解析**：本题在单元主题情境中复习表达 username。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] attach
+- [ ] accidentally
+- [ ] notice
+
+> **解析**：本题在单元主题情境中复习表达 attach。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] connect
+- [ ] button
+- [ ] set up
+
+> **解析**：本题在单元主题情境中复习表达 connect。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] look
+- [ ] dot com
+- [ ] smartphone
+
+> **解析**：本题在单元主题情境中复习表达 look。
+
+</quiz-cloze>

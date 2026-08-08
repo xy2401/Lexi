@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 a steal, bargain hunter, been, been worn, deal, do you happen to, dusty, empty out, final offer, fur, handle, junk, last, lid, piece, purchase, raise, reasonably priced, restore, shape, store, unwanted, wondering
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -43,3 +48,194 @@ a steal, bargain hunter, been, been worn, deal, do you happen to, dusty, empty o
 - **purchase / store** — purchase 是"购买"（比 buy 正式）：purchase a ticket / a recent purchase。store 做动词是"储存、存放"：store old clothes in the attic / store things in boxes。注意 store 做名词是"商店"，做动词是"储存"——一词两义。
 
 - **unwanted** — 不想要的、多余的。un- + wanted。搭配：unwanted items / unwanted gifts / unwanted clothes。例句：I'm selling all my unwanted stuff online. 比 things I don't want 更简洁，常用于二手交易语境。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“a steal”。  
+   **英文**：At home, we talked about "a steal".
+   > **解析**：本题在单元主题情境中复习表达 a steal。
+
+2. **中文**：家人提到了“been worn”。  
+   **英文**：My family mentioned "been worn".
+   > **解析**：本题在单元主题情境中复习表达 been worn。
+
+3. **中文**：在房间里，我注意到了“empty out”。  
+   **英文**：In the room, I noticed "empty out".
+   > **解析**：本题在单元主题情境中复习表达 empty out。
+
+4. **中文**：我们在家里用到了“handle”。  
+   **英文**：We used "handle" at home.
+   > **解析**：本题在单元主题情境中复习表达 handle。
+
+5. **中文**：邻居询问了“piece”。  
+   **英文**：My neighbor asked about "piece".
+   > **解析**：本题在单元主题情境中复习表达 piece。
+
+6. **中文**：我在门边写下了“reasonably priced”。  
+   **英文**：I wrote down "reasonably priced" by the door.
+   > **解析**：本题在单元主题情境中复习表达 reasonably priced。
+
+7. **中文**：晚饭后，我们重复了“unwanted”。  
+   **英文**：After dinner, we repeated "unwanted".
+   > **解析**：本题在单元主题情境中复习表达 unwanted。
+
+8. **中文**：家庭故事里包含“bargain hunter”。  
+   **英文**：The family story included "bargain hunter".
+   > **解析**：本题在单元主题情境中复习表达 bargain hunter。
+
+9. **中文**：睡前，我记住了“do you happen to”。  
+   **英文**：Before bed, I remembered "do you happen to".
+   > **解析**：本题在单元主题情境中复习表达 do you happen to。
+
+10. **中文**：那个夜晚以“final offer”收尾。  
+   **英文**：That evening ended with "final offer".
+   > **解析**：本题在单元主题情境中复习表达 final offer。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "a steal".
+   > **中文**：在家里，我们谈到了“a steal”。
+2. My family mentioned "been worn".
+   > **中文**：家人提到了“been worn”。
+3. In the room, I noticed "empty out".
+   > **中文**：在房间里，我注意到了“empty out”。
+4. We used "handle" at home.
+   > **中文**：我们在家里用到了“handle”。
+5. My neighbor asked about "piece".
+   > **中文**：邻居询问了“piece”。
+6. I wrote down "reasonably priced" by the door.
+   > **中文**：我在门边写下了“reasonably priced”。
+7. After dinner, we repeated "unwanted".
+   > **中文**：晚饭后，我们重复了“unwanted”。
+8. The family story included "bargain hunter".
+   > **中文**：家庭故事里包含“bargain hunter”。
+9. Before bed, I remembered "do you happen to".
+   > **中文**：睡前，我记住了“do you happen to”。
+10. That evening ended with "final offer".
+   > **中文**：那个夜晚以“final offer”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] a steal
+- [ ] handle
+- [ ] unwanted
+
+> **解析**：本题在单元主题情境中复习表达 a steal。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] been worn
+- [ ] piece
+- [ ] bargain hunter
+
+> **解析**：本题在单元主题情境中复习表达 been worn。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] empty out
+- [ ] reasonably priced
+- [ ] do you happen to
+
+> **解析**：本题在单元主题情境中复习表达 empty out。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] handle
+- [ ] unwanted
+- [ ] final offer
+
+> **解析**：本题在单元主题情境中复习表达 handle。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] piece
+- [ ] bargain hunter
+- [ ] a steal
+
+> **解析**：本题在单元主题情境中复习表达 piece。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] reasonably priced
+- [ ] do you happen to
+- [ ] been worn
+
+> **解析**：本题在单元主题情境中复习表达 reasonably priced。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] unwanted
+- [ ] final offer
+- [ ] empty out
+
+> **解析**：本题在单元主题情境中复习表达 unwanted。
+
+### 8
+
+The family story included "`____`".
+
+- [x] bargain hunter
+- [ ] a steal
+- [ ] handle
+
+> **解析**：本题在单元主题情境中复习表达 bargain hunter。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] do you happen to
+- [ ] been worn
+- [ ] piece
+
+> **解析**：本题在单元主题情境中复习表达 do you happen to。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] final offer
+- [ ] empty out
+- [ ] reasonably priced
+
+> **解析**：本题在单元主题情境中复习表达 final offer。
+
+</quiz-cloze>

@@ -5,20 +5,18 @@
  */
 import { ref, computed, onMounted } from 'vue'
 import { marked } from 'marked'
-import { db, type WordEntry } from '../lib/db'
+import { db, cacheWords, type WordEntry } from '../lib/db'
+import { queryDictionaryWords } from '../lib/remote-db'
+import { parseCourseMarkdown, type CourseDocument, type CourseUnitIndex, type QuizDefinition } from '../lib/course-markdown'
 import PracticePanel from './PracticePanel.vue'
+import QuizLevelList from './QuizLevelList.vue'
+import QuizRunner from './QuizRunner.vue'
 
-interface DuoUnit {
-  id: number
-  name: string
-  desc: string
-  words: string[]
-}
+type DuoUnit = CourseUnitIndex
 
 const emit = defineEmits<{
   'select-word': [word: string]
 }>()
-
 const units = ref<DuoUnit[]>([])
 const loading = ref(true)
 const selectedUnit = ref<DuoUnit | null>(null)
@@ -29,6 +27,16 @@ const searchQuery = ref('')
 const panelTab = ref<'words' | 'guide' | 'practice'>('words')
 const guideHtml = ref('')
 const guideLoading = ref(false)
+const courseDocument = ref<CourseDocument | null>(null)
+const activeQuiz = ref<QuizDefinition | null>(null)
+const completedQuizIds = ref<string[]>([])
+const quizLoadingId = ref('')
+const courseWarning = ref('')
+
+const activeWords = computed(() => {
+  if (courseDocument.value?.words.length) return courseDocument.value.words
+  return selectedUnit.value?.words || []
+})
 
 // 搜索过滤
 const filteredUnits = computed(() => {
@@ -60,40 +68,105 @@ async function selectUnit(unit: DuoUnit) {
     selectedUnit.value = null
     unitEntries.value = []
     guideHtml.value = ''
+    courseDocument.value = null
+    courseWarning.value = ''
+    activeQuiz.value = null
     return
   }
   selectedUnit.value = unit
   panelTab.value = 'words'
   guideHtml.value = ''
-  // 从本地词库查出音标和释义
+  courseDocument.value = null
+  courseWarning.value = ''
+  activeQuiz.value = null
+  completedQuizIds.value = []
+  await loadEntries(unit.words)
+  await loadGuide(unit)
+}
+
+async function loadEntries(words: string[]) {
+  // 使用启动时载入的 Hot 数据与此前按需缓存的完整词条。
+  const normalizedWords = words.map(word => word.toLowerCase())
   const entries = await db.words
-    .where('word').anyOf(unit.words)
+    .where('word').anyOf(normalizedWords)
     .toArray()
   // 按原 JSON 顺序排列，本地没有的词也保留
-  const map = new Map(entries.map(e => [e.word, e]))
-  unitEntries.value = unit.words.map(w => map.get(w) || { word: w, phonetic: '', frequency: 0, tags: '', exchange: '', translation: '' })
+  const map = new Map(entries.map(e => [e.word.toLowerCase(), e]))
+  unitEntries.value = words.map(word => {
+    const entry = map.get(word.toLowerCase())
+    return entry
+      ? { ...entry, word }
+      : { word, phonetic: '', frequency: 0, tags: '', exchange: '', translation: '', cacheLevel: 'hot' }
+  })
 }
 
 async function switchTab(tab: 'words' | 'guide' | 'practice') {
   panelTab.value = tab
-  if (tab === 'guide' && selectedUnit.value && !guideHtml.value) {
+  if (tab === 'guide' && selectedUnit.value && !guideHtml.value && !guideLoading.value) {
     await loadGuide(selectedUnit.value)
   }
+  if (tab !== 'practice') activeQuiz.value = null
 }
 
 async function loadGuide(unit: DuoUnit) {
   guideLoading.value = true
+  courseWarning.value = ''
   try {
-    const filename = `${String(unit.id).padStart(3, '0')}-${unit.name}.md`
+    const filename = unit.file || `${String(unit.id).padStart(3, '0')}-${unit.name.replace(/[<>:"/\\|?*]/g, '')}.md`
     const res = await fetch(`/data/duolingo-zs-en/${encodeURIComponent(filename)}`)
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
     const md = await res.text()
-    guideHtml.value = await marked.parse(md) as string
+    if (md.includes('<quiz-word-list>')) {
+      const parsed = parseCourseMarkdown(md, filename)
+      if (parsed.diagnostics.length) throw new Error(parsed.diagnostics.join('；'))
+      courseDocument.value = parsed
+      guideHtml.value = await marked.parse(parsed.guideMarkdown) as string
+      await loadEntries(parsed.words)
+    } else {
+      courseDocument.value = null
+      guideHtml.value = await marked.parse(md) as string
+    }
   } catch (e) {
+    console.warn('[duolingo] 课程 Markdown 加载失败，使用旧练习回退', e)
+    courseDocument.value = null
+    courseWarning.value = '课程标签暂时无法加载，已切换到基础练习模式。'
     guideHtml.value = '<p style="color:#999">暂无该单元的讲解内容</p>'
   } finally {
     guideLoading.value = false
   }
+}
+
+async function ensureTranslations() {
+  const missing = unitEntries.value
+    .filter(entry => !entry.translation.trim())
+    .map(entry => entry.word)
+  if (!missing.length) return
+
+  try {
+    const rows = await queryDictionaryWords(missing)
+    const fullEntries: WordEntry[] = rows.map(row => ({ ...row, cacheLevel: 'full' }))
+    if (fullEntries.length) await cacheWords(fullEntries)
+    const map = new Map(fullEntries.map(entry => [entry.word.toLowerCase(), entry]))
+    unitEntries.value = unitEntries.value.map(entry => {
+      const full = map.get(entry.word.toLowerCase())
+      return full ? { ...full, word: entry.word } : entry
+    })
+  } catch (error) {
+    console.warn('[duolingo] 批量补充释义失败', error)
+  }
+}
+
+async function selectQuiz(quiz: QuizDefinition) {
+  quizLoadingId.value = quiz.id
+  if (quiz.type === 'translation-choice' || (quiz.type === 'matching' && quiz.source === 'word-list')) {
+    await ensureTranslations()
+  }
+  activeQuiz.value = quiz
+  quizLoadingId.value = ''
+}
+
+function markQuizComplete(id: string) {
+  if (!completedQuizIds.value.includes(id)) completedQuizIds.value.push(id)
 }
 
 function selectWord(word: string) {
@@ -138,7 +211,7 @@ function selectWord(word: string) {
       <!-- 选中单元的词汇 / 单元讲解 -->
       <div class="word-panel" v-if="selectedUnit">
         <h4>{{ selectedUnit.id }}. {{ selectedUnit.name }}</h4>
-        <p class="panel-desc">{{ selectedUnit.desc }} · {{ unitEntries.length }} 词</p>
+        <p class="panel-desc">{{ selectedUnit.desc }} · {{ activeWords.length }} 词</p>
 
         <div class="panel-tabs">
           <button :class="['tab-btn', { active: panelTab === 'words' }]" @click="switchTab('words')">词汇</button>
@@ -168,7 +241,30 @@ function selectWord(word: string) {
 
         <!-- 练习 -->
         <div class="practice-content" v-show="panelTab === 'practice'">
-          <PracticePanel :words="selectedUnit.words" :entries="unitEntries" />
+          <template v-if="courseDocument?.quizzes.length">
+            <QuizLevelList
+              v-if="!activeQuiz"
+              :quizzes="courseDocument.quizzes"
+              :completed-ids="completedQuizIds"
+              :loading-id="quizLoadingId"
+              :unit-id="selectedUnit.id"
+              :unit-name="selectedUnit.name"
+              @select="selectQuiz"
+            />
+            <QuizRunner
+              v-else
+              :key="activeQuiz.id"
+              :quiz="activeQuiz"
+              :words="activeWords"
+              :entries="unitEntries"
+              @back="activeQuiz = null"
+              @complete="markQuizComplete"
+            />
+          </template>
+          <template v-else>
+            <p v-if="courseWarning" class="course-warning">{{ courseWarning }}</p>
+            <PracticePanel :words="selectedUnit.words" :entries="unitEntries" />
+          </template>
         </div>
       </div>
     </div>
@@ -448,5 +544,41 @@ function selectWord(word: string) {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+
+.course-warning {
+  margin: 0 0 0.75rem;
+  padding: 0.65rem 0.8rem;
+  border: 1px solid #f0c36d;
+  border-radius: 8px;
+  color: #7a5100;
+  background: #fff8e8;
+  font-size: 0.84rem;
+}
+
+.practice-content {
+  max-height: 520px;
+  overflow-y: auto;
+  scrollbar-gutter: stable;
+}
+
+@media (max-width: 700px) {
+  .duo-body {
+    grid-template-columns: 1fr;
+  }
+
+  .unit-list {
+    max-height: 230px;
+  }
+
+  .word-panel {
+    position: static;
+  }
+
+  .guide-content,
+  .word-list,
+  .practice-content {
+    max-height: none;
+  }
 }
 </style>

@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 any, anything, beaten, been, choose to, freeze, froze, frozen, hear that, in common, interest, never been, others, sports, start to, stop by, typically, well, will
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -31,3 +36,194 @@ in common 是谈论共同爱好的核心搭配：We have sports in common. typic
 - **stop by / hear that / will** — stop by = 顺便来：Stop by the game sometime! hear that 常用于转述消息：Did you hear that she won? will 在此可表意愿或将来：I will try a new sport.
 
 - **sports** — sport 的复数。美式英语中 sports 更常用（sports fan, sports car），英式英语中单数 sport 也可以：I like sport. 注意 sports 作形容词时不加 s：a sports event（不是 a sport event）。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“any”。  
+   **英文**：In this situation, I heard "any".
+   > **解析**：本题在单元主题情境中复习表达 any。
+
+2. **中文**：同伴解释了“been”。  
+   **英文**：My partner explained "been".
+   > **解析**：本题在单元主题情境中复习表达 been。
+
+3. **中文**：我们一起谈到了“froze”。  
+   **英文**：We talked about "froze" together.
+   > **解析**：本题在单元主题情境中复习表达 froze。
+
+4. **中文**：我记下了“in common”。  
+   **英文**：I wrote down "in common".
+   > **解析**：本题在单元主题情境中复习表达 in common。
+
+5. **中文**：例句中包含“others”。  
+   **英文**：The example included "others".
+   > **解析**：本题在单元主题情境中复习表达 others。
+
+6. **中文**：我询问了“stop by”。  
+   **英文**：I asked about "stop by".
+   > **解析**：本题在单元主题情境中复习表达 stop by。
+
+7. **中文**：我们在句子中用到了“will”。  
+   **英文**：We used "will" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 will。
+
+8. **中文**：朋友重复了“beaten”。  
+   **英文**：My friend repeated "beaten".
+   > **解析**：本题在单元主题情境中复习表达 beaten。
+
+9. **中文**：后来，我记住了“freeze”。  
+   **英文**：Later, I remembered "freeze".
+   > **解析**：本题在单元主题情境中复习表达 freeze。
+
+10. **中文**：这个小故事以“hear that”收尾。  
+   **英文**：The short story ended with "hear that".
+   > **解析**：本题在单元主题情境中复习表达 hear that。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "any".
+   > **中文**：在这个情境中，我听到了“any”。
+2. My partner explained "been".
+   > **中文**：同伴解释了“been”。
+3. We talked about "froze" together.
+   > **中文**：我们一起谈到了“froze”。
+4. I wrote down "in common".
+   > **中文**：我记下了“in common”。
+5. The example included "others".
+   > **中文**：例句中包含“others”。
+6. I asked about "stop by".
+   > **中文**：我询问了“stop by”。
+7. We used "will" in a sentence.
+   > **中文**：我们在句子中用到了“will”。
+8. My friend repeated "beaten".
+   > **中文**：朋友重复了“beaten”。
+9. Later, I remembered "freeze".
+   > **中文**：后来，我记住了“freeze”。
+10. The short story ended with "hear that".
+   > **中文**：这个小故事以“hear that”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] any
+- [ ] in common
+- [ ] will
+
+> **解析**：本题在单元主题情境中复习表达 any。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] been
+- [ ] others
+- [ ] beaten
+
+> **解析**：本题在单元主题情境中复习表达 been。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] froze
+- [ ] stop by
+- [ ] freeze
+
+> **解析**：本题在单元主题情境中复习表达 froze。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] in common
+- [ ] will
+- [ ] hear that
+
+> **解析**：本题在单元主题情境中复习表达 in common。
+
+### 5
+
+The example included "`____`".
+
+- [x] others
+- [ ] beaten
+- [ ] any
+
+> **解析**：本题在单元主题情境中复习表达 others。
+
+### 6
+
+I asked about "`____`".
+
+- [x] stop by
+- [ ] freeze
+- [ ] been
+
+> **解析**：本题在单元主题情境中复习表达 stop by。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] will
+- [ ] hear that
+- [ ] froze
+
+> **解析**：本题在单元主题情境中复习表达 will。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] beaten
+- [ ] any
+- [ ] in common
+
+> **解析**：本题在单元主题情境中复习表达 beaten。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] freeze
+- [ ] been
+- [ ] others
+
+> **解析**：本题在单元主题情境中复习表达 freeze。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] hear that
+- [ ] froze
+- [ ] stop by
+
+> **解析**：本题在单元主题情境中复习表达 hear that。
+
+</quiz-cloze>

@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 affair, anyhow, capable of, cast, cemetery, deceive, dramatic, greedy, hooked on, kind of like, loyal, on the surface, orphan, poison, reaction, reveal, rewatch, secret agent, some guy, sort of, the one whose, threaten, villain, what's-his-name, will
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -60,3 +65,193 @@ hooked on（上瘾）、rewatch（重看）表达观剧热情。affair（婚外�
 
 - **reaction** — "反应"。搭配：have a reaction to / What was your reaction? 动词 react。注意 -tion 结尾，不是 -sion。比 response 更强调"本能/情绪反应"。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“affair”。  
+   **英文**：At home, we talked about "affair".
+   > **解析**：本题在单元主题情境中复习表达 affair。
+
+2. **中文**：家人提到了“cemetery”。  
+   **英文**：My family mentioned "cemetery".
+   > **解析**：本题在单元主题情境中复习表达 cemetery。
+
+3. **中文**：在房间里，我注意到了“greedy”。  
+   **英文**：In the room, I noticed "greedy".
+   > **解析**：本题在单元主题情境中复习表达 greedy。
+
+4. **中文**：我们在家里用到了“on the surface”。  
+   **英文**：We used "on the surface" at home.
+   > **解析**：本题在单元主题情境中复习表达 on the surface。
+
+5. **中文**：邻居询问了“reveal”。  
+   **英文**：My neighbor asked about "reveal".
+   > **解析**：本题在单元主题情境中复习表达 reveal。
+
+6. **中文**：我在门边写下了“some guy”。  
+   **英文**：I wrote down "some guy" by the door.
+   > **解析**：本题在单元主题情境中复习表达 some guy。
+
+7. **中文**：晚饭后，我们重复了“villain”。  
+   **英文**：After dinner, we repeated "villain".
+   > **解析**：本题在单元主题情境中复习表达 villain。
+
+8. **中文**：家庭故事里包含“anyhow”。  
+   **英文**：The family story included "anyhow".
+   > **解析**：本题在单元主题情境中复习表达 anyhow。
+
+9. **中文**：睡前，我记住了“deceive”。  
+   **英文**：Before bed, I remembered "deceive".
+   > **解析**：本题在单元主题情境中复习表达 deceive。
+
+10. **中文**：那个夜晚以“kind of like”收尾。  
+   **英文**：That evening ended with "kind of like".
+   > **解析**：本题在单元主题情境中复习表达 kind of like。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "affair".
+   > **中文**：在家里，我们谈到了“affair”。
+2. My family mentioned "cemetery".
+   > **中文**：家人提到了“cemetery”。
+3. In the room, I noticed "greedy".
+   > **中文**：在房间里，我注意到了“greedy”。
+4. We used "on the surface" at home.
+   > **中文**：我们在家里用到了“on the surface”。
+5. My neighbor asked about "reveal".
+   > **中文**：邻居询问了“reveal”。
+6. I wrote down "some guy" by the door.
+   > **中文**：我在门边写下了“some guy”。
+7. After dinner, we repeated "villain".
+   > **中文**：晚饭后，我们重复了“villain”。
+8. The family story included "anyhow".
+   > **中文**：家庭故事里包含“anyhow”。
+9. Before bed, I remembered "deceive".
+   > **中文**：睡前，我记住了“deceive”。
+10. That evening ended with "kind of like".
+   > **中文**：那个夜晚以“kind of like”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] affair
+- [ ] on the surface
+- [ ] villain
+
+> **解析**：本题在单元主题情境中复习表达 affair。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] cemetery
+- [ ] reveal
+- [ ] anyhow
+
+> **解析**：本题在单元主题情境中复习表达 cemetery。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] greedy
+- [ ] some guy
+- [ ] deceive
+
+> **解析**：本题在单元主题情境中复习表达 greedy。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] on the surface
+- [ ] villain
+- [ ] kind of like
+
+> **解析**：本题在单元主题情境中复习表达 on the surface。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] reveal
+- [ ] anyhow
+- [ ] affair
+
+> **解析**：本题在单元主题情境中复习表达 reveal。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] some guy
+- [ ] deceive
+- [ ] cemetery
+
+> **解析**：本题在单元主题情境中复习表达 some guy。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] villain
+- [ ] kind of like
+- [ ] greedy
+
+> **解析**：本题在单元主题情境中复习表达 villain。
+
+### 8
+
+The family story included "`____`".
+
+- [x] anyhow
+- [ ] affair
+- [ ] on the surface
+
+> **解析**：本题在单元主题情境中复习表达 anyhow。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] deceive
+- [ ] cemetery
+- [ ] reveal
+
+> **解析**：本题在单元主题情境中复习表达 deceive。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] kind of like
+- [ ] greedy
+- [ ] some guy
+
+> **解析**：本题在单元主题情境中复习表达 kind of like。
+
+</quiz-cloze>

@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 a shame, annual, bald, cheers, curly, dj, except that, get together, give up, given up, gotten together, graduation, hang out, honey, hug, hung out, in contact, introduce, it's time, of mine, outgoing, vegetarian, visit, what's up
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ get together 表示"聚会"。现在完成时（have gotten together, have given
 
 - **get together / hang out / in contact** — 聚会 / 玩 / 联系。搭配：get together often, hang out on weekends, stay in contact。例句：We should get together more often. / We hung out after the party. / Let's stay in contact!
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：聚会上，我听到了“a shame”。  
+   **英文**：At the gathering, I heard "a shame".
+   > **解析**：本题在单元主题情境中复习表达 a shame。
+
+2. **中文**：朋友说了“curly”。  
+   **英文**：My friend said "curly".
+   > **解析**：本题在单元主题情境中复习表达 curly。
+
+3. **中文**：我们一起谈到了“get together”。  
+   **英文**：We talked about "get together" together.
+   > **解析**：本题在单元主题情境中复习表达 get together。
+
+4. **中文**：有人向我解释了“graduation”。  
+   **英文**：Someone explained "graduation" to me.
+   > **解析**：本题在单元主题情境中复习表达 graduation。
+
+5. **中文**：我用“hug”作了回应。  
+   **英文**：I replied with "hug".
+   > **解析**：本题在单元主题情境中复习表达 hug。
+
+6. **中文**：对话中包含“it's time”。  
+   **英文**：The conversation included "it's time".
+   > **解析**：本题在单元主题情境中复习表达 it's time。
+
+7. **中文**：同伴重复了“vegetarian”。  
+   **英文**：My partner repeated "vegetarian".
+   > **解析**：本题在单元主题情境中复习表达 vegetarian。
+
+8. **中文**：我们聊到“annual”时笑了。  
+   **英文**：We laughed about "annual".
+   > **解析**：本题在单元主题情境中复习表达 annual。
+
+9. **中文**：离开前，我记住了“dj”。  
+   **英文**：Before leaving, I remembered "dj".
+   > **解析**：本题在单元主题情境中复习表达 dj。
+
+10. **中文**：那段对话以“given up”收尾。  
+   **英文**：That conversation ended with "given up".
+   > **解析**：本题在单元主题情境中复习表达 given up。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the gathering, I heard "a shame".
+   > **中文**：聚会上，我听到了“a shame”。
+2. My friend said "curly".
+   > **中文**：朋友说了“curly”。
+3. We talked about "get together" together.
+   > **中文**：我们一起谈到了“get together”。
+4. Someone explained "graduation" to me.
+   > **中文**：有人向我解释了“graduation”。
+5. I replied with "hug".
+   > **中文**：我用“hug”作了回应。
+6. The conversation included "it's time".
+   > **中文**：对话中包含“it's time”。
+7. My partner repeated "vegetarian".
+   > **中文**：同伴重复了“vegetarian”。
+8. We laughed about "annual".
+   > **中文**：我们聊到“annual”时笑了。
+9. Before leaving, I remembered "dj".
+   > **中文**：离开前，我记住了“dj”。
+10. That conversation ended with "given up".
+   > **中文**：那段对话以“given up”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the gathering, I heard "`____`".
+
+- [x] a shame
+- [ ] graduation
+- [ ] vegetarian
+
+> **解析**：本题在单元主题情境中复习表达 a shame。
+
+### 2
+
+My friend said "`____`".
+
+- [x] curly
+- [ ] hug
+- [ ] annual
+
+> **解析**：本题在单元主题情境中复习表达 curly。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] get together
+- [ ] it's time
+- [ ] dj
+
+> **解析**：本题在单元主题情境中复习表达 get together。
+
+### 4
+
+Someone explained "`____`" to me.
+
+- [x] graduation
+- [ ] vegetarian
+- [ ] given up
+
+> **解析**：本题在单元主题情境中复习表达 graduation。
+
+### 5
+
+I replied with "`____`".
+
+- [x] hug
+- [ ] annual
+- [ ] a shame
+
+> **解析**：本题在单元主题情境中复习表达 hug。
+
+### 6
+
+The conversation included "`____`".
+
+- [x] it's time
+- [ ] dj
+- [ ] curly
+
+> **解析**：本题在单元主题情境中复习表达 it's time。
+
+### 7
+
+My partner repeated "`____`".
+
+- [x] vegetarian
+- [ ] given up
+- [ ] get together
+
+> **解析**：本题在单元主题情境中复习表达 vegetarian。
+
+### 8
+
+We laughed about "`____`".
+
+- [x] annual
+- [ ] a shame
+- [ ] graduation
+
+> **解析**：本题在单元主题情境中复习表达 annual。
+
+### 9
+
+Before leaving, I remembered "`____`".
+
+- [x] dj
+- [ ] curly
+- [ ] hug
+
+> **解析**：本题在单元主题情境中复习表达 dj。
+
+### 10
+
+That conversation ended with "`____`".
+
+- [x] given up
+- [ ] get together
+- [ ] it's time
+
+> **解析**：本题在单元主题情境中复习表达 given up。
+
+</quiz-cloze>

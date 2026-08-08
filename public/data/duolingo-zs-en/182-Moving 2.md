@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 across, antique, basement, coffee table, compare, damage, did, do, does, don't, ground floor, lease, main, move into, move out, moving truck, neither do i, own, owner, porch, real estate agent, so do i, system, total, utilities
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -29,3 +34,194 @@ across, antique, basement, coffee table, compare, damage, did, do, does, don't, 
 - **compare / damage / across** — compare 搭配 compare A to/with B：Compare this apartment to that one. damage = 损坏（不可数名词）：There's some damage to the wall. across = 在……对面/穿过：across the street。
 
 - **did / do / does / don't** — 助动词，用于构成疑问句和否定句。do/does 用于现在时（does 第三人称单数），did 用于过去时。在简短回答中：Do you like it? — I do. / Does she own it? — She does.
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：谈论喜好时，我听到了“across”。  
+   **英文**：When we talked about favorites, I heard "across".
+   > **解析**：本题在单元主题情境中复习表达 across。
+
+2. **中文**：朋友说“compare”很重要。  
+   **英文**：My friend said "compare" was important.
+   > **解析**：本题在单元主题情境中复习表达 compare。
+
+3. **中文**：我问他们喜欢哪一个：“does”。  
+   **英文**：I asked which one they liked: "does".
+   > **解析**：本题在单元主题情境中复习表达 does。
+
+4. **中文**：聊天时，我们比较了“main”。  
+   **英文**：In our chat, we compared "main".
+   > **解析**：本题在单元主题情境中复习表达 main。
+
+5. **中文**：同伴先选择了“moving truck”。  
+   **英文**：My partner chose "moving truck" first.
+   > **解析**：本题在单元主题情境中复习表达 moving truck。
+
+6. **中文**：我们用“porch”描述喜好。  
+   **英文**：We used "porch" to describe a favorite.
+   > **解析**：本题在单元主题情境中复习表达 porch。
+
+7. **中文**：答案中包含“system”。  
+   **英文**：The answer included "system".
+   > **解析**：本题在单元主题情境中复习表达 system。
+
+8. **中文**：我从对话中记住了“antique”。  
+   **英文**：I remembered "antique" from the conversation.
+   > **解析**：本题在单元主题情境中复习表达 antique。
+
+9. **中文**：朋友微笑着重复了“damage”。  
+   **英文**：My friend repeated "damage" with a smile.
+   > **解析**：本题在单元主题情境中复习表达 damage。
+
+10. **中文**：那场关于喜好的聊天以“ground floor”收尾。  
+   **英文**：That chat about favorites ended with "ground floor".
+   > **解析**：本题在单元主题情境中复习表达 ground floor。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. When we talked about favorites, I heard "across".
+   > **中文**：谈论喜好时，我听到了“across”。
+2. My friend said "compare" was important.
+   > **中文**：朋友说“compare”很重要。
+3. I asked which one they liked: "does".
+   > **中文**：我问他们喜欢哪一个：“does”。
+4. In our chat, we compared "main".
+   > **中文**：聊天时，我们比较了“main”。
+5. My partner chose "moving truck" first.
+   > **中文**：同伴先选择了“moving truck”。
+6. We used "porch" to describe a favorite.
+   > **中文**：我们用“porch”描述喜好。
+7. The answer included "system".
+   > **中文**：答案中包含“system”。
+8. I remembered "antique" from the conversation.
+   > **中文**：我从对话中记住了“antique”。
+9. My friend repeated "damage" with a smile.
+   > **中文**：朋友微笑着重复了“damage”。
+10. That chat about favorites ended with "ground floor".
+   > **中文**：那场关于喜好的聊天以“ground floor”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+When we talked about favorites, I heard "`____`".
+
+- [x] across
+- [ ] main
+- [ ] system
+
+> **解析**：本题在单元主题情境中复习表达 across。
+
+### 2
+
+My friend said "`____`" was important.
+
+- [x] compare
+- [ ] moving truck
+- [ ] antique
+
+> **解析**：本题在单元主题情境中复习表达 compare。
+
+### 3
+
+I asked which one they liked: "`____`".
+
+- [x] does
+- [ ] porch
+- [ ] damage
+
+> **解析**：本题在单元主题情境中复习表达 does。
+
+### 4
+
+In our chat, we compared "`____`".
+
+- [x] main
+- [ ] system
+- [ ] ground floor
+
+> **解析**：本题在单元主题情境中复习表达 main。
+
+### 5
+
+My partner chose "`____`" first.
+
+- [x] moving truck
+- [ ] antique
+- [ ] across
+
+> **解析**：本题在单元主题情境中复习表达 moving truck。
+
+### 6
+
+We used "`____`" to describe a favorite.
+
+- [x] porch
+- [ ] damage
+- [ ] compare
+
+> **解析**：本题在单元主题情境中复习表达 porch。
+
+### 7
+
+The answer included "`____`".
+
+- [x] system
+- [ ] ground floor
+- [ ] does
+
+> **解析**：本题在单元主题情境中复习表达 system。
+
+### 8
+
+I remembered "`____`" from the conversation.
+
+- [x] antique
+- [ ] across
+- [ ] main
+
+> **解析**：本题在单元主题情境中复习表达 antique。
+
+### 9
+
+My friend repeated "`____`" with a smile.
+
+- [x] damage
+- [ ] compare
+- [ ] moving truck
+
+> **解析**：本题在单元主题情境中复习表达 damage。
+
+### 10
+
+That chat about favorites ended with "`____`".
+
+- [x] ground floor
+- [ ] does
+- [ ] porch
+
+> **解析**：本题在单元主题情境中复习表达 ground floor。
+
+</quiz-cloze>

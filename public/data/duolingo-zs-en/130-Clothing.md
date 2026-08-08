@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 afterward, away, cash register, change, checkout, cotton, cute, didn't, doesn't, don't, high, low, percent, pretty, quality, selfie, sleeve, stuff, sweatshirt, thrown, tiny, ugly, underwear, wasn't, weren't
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ didn't / doesn't / don't 是否定助动词。wasn't / weren't 是 be 动词的�
 
 - **don't / cute / ugly** — 不 / 可爱 / 丑。搭配：I don't think, so cute, really ugly。例句：I don't think it's ugly. / The baby is so cute! / That hat is ugly. 注意 I don't think + 否定转移。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：谈论喜好时，我听到了“afterward”。  
+   **英文**：When we talked about favorites, I heard "afterward".
+   > **解析**：本题在单元主题情境中复习表达 afterward。
+
+2. **中文**：朋友说“checkout”很重要。  
+   **英文**：My friend said "checkout" was important.
+   > **解析**：本题在单元主题情境中复习表达 checkout。
+
+3. **中文**：我问他们喜欢哪一个：“didn't”。  
+   **英文**：I asked which one they liked: "didn't".
+   > **解析**：本题在单元主题情境中复习表达 didn't。
+
+4. **中文**：聊天时，我们比较了“low”。  
+   **英文**：In our chat, we compared "low".
+   > **解析**：本题在单元主题情境中复习表达 low。
+
+5. **中文**：同伴先选择了“selfie”。  
+   **英文**：My partner chose "selfie" first.
+   > **解析**：本题在单元主题情境中复习表达 selfie。
+
+6. **中文**：我们用“sweatshirt”描述喜好。  
+   **英文**：We used "sweatshirt" to describe a favorite.
+   > **解析**：本题在单元主题情境中复习表达 sweatshirt。
+
+7. **中文**：答案中包含“underwear”。  
+   **英文**：The answer included "underwear".
+   > **解析**：本题在单元主题情境中复习表达 underwear。
+
+8. **中文**：我从对话中记住了“away”。  
+   **英文**：I remembered "away" from the conversation.
+   > **解析**：本题在单元主题情境中复习表达 away。
+
+9. **中文**：朋友微笑着重复了“cotton”。  
+   **英文**：My friend repeated "cotton" with a smile.
+   > **解析**：本题在单元主题情境中复习表达 cotton。
+
+10. **中文**：那场关于喜好的聊天以“don't”收尾。  
+   **英文**：That chat about favorites ended with "don't".
+   > **解析**：本题在单元主题情境中复习表达 don't。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. When we talked about favorites, I heard "afterward".
+   > **中文**：谈论喜好时，我听到了“afterward”。
+2. My friend said "checkout" was important.
+   > **中文**：朋友说“checkout”很重要。
+3. I asked which one they liked: "didn't".
+   > **中文**：我问他们喜欢哪一个：“didn't”。
+4. In our chat, we compared "low".
+   > **中文**：聊天时，我们比较了“low”。
+5. My partner chose "selfie" first.
+   > **中文**：同伴先选择了“selfie”。
+6. We used "sweatshirt" to describe a favorite.
+   > **中文**：我们用“sweatshirt”描述喜好。
+7. The answer included "underwear".
+   > **中文**：答案中包含“underwear”。
+8. I remembered "away" from the conversation.
+   > **中文**：我从对话中记住了“away”。
+9. My friend repeated "cotton" with a smile.
+   > **中文**：朋友微笑着重复了“cotton”。
+10. That chat about favorites ended with "don't".
+   > **中文**：那场关于喜好的聊天以“don't”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+When we talked about favorites, I heard "`____`".
+
+- [x] afterward
+- [ ] low
+- [ ] underwear
+
+> **解析**：本题在单元主题情境中复习表达 afterward。
+
+### 2
+
+My friend said "`____`" was important.
+
+- [x] checkout
+- [ ] selfie
+- [ ] away
+
+> **解析**：本题在单元主题情境中复习表达 checkout。
+
+### 3
+
+I asked which one they liked: "`____`".
+
+- [x] didn't
+- [ ] sweatshirt
+- [ ] cotton
+
+> **解析**：本题在单元主题情境中复习表达 didn't。
+
+### 4
+
+In our chat, we compared "`____`".
+
+- [x] low
+- [ ] underwear
+- [ ] don't
+
+> **解析**：本题在单元主题情境中复习表达 low。
+
+### 5
+
+My partner chose "`____`" first.
+
+- [x] selfie
+- [ ] away
+- [ ] afterward
+
+> **解析**：本题在单元主题情境中复习表达 selfie。
+
+### 6
+
+We used "`____`" to describe a favorite.
+
+- [x] sweatshirt
+- [ ] cotton
+- [ ] checkout
+
+> **解析**：本题在单元主题情境中复习表达 sweatshirt。
+
+### 7
+
+The answer included "`____`".
+
+- [x] underwear
+- [ ] don't
+- [ ] didn't
+
+> **解析**：本题在单元主题情境中复习表达 underwear。
+
+### 8
+
+I remembered "`____`" from the conversation.
+
+- [x] away
+- [ ] afterward
+- [ ] low
+
+> **解析**：本题在单元主题情境中复习表达 away。
+
+### 9
+
+My friend repeated "`____`" with a smile.
+
+- [x] cotton
+- [ ] checkout
+- [ ] selfie
+
+> **解析**：本题在单元主题情境中复习表达 cotton。
+
+### 10
+
+That chat about favorites ended with "`____`".
+
+- [x] don't
+- [ ] didn't
+- [ ] sweatshirt
+
+> **解析**：本题在单元主题情境中复习表达 don't。
+
+</quiz-cloze>

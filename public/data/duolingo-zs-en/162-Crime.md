@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 arrest, attack, bomb, call the police, certain, commit, emergency, file, glad, innocent, luckily, mask, nine-one-one, police report, protect, robbery, search for, take place, thief, thieves, truck, unknown, worn
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ thief → thieves（复数变化）。take place = happen。
 
 - **innocent / luckily / glad** — 无辜 / 幸好 / 高兴。搭配：prove innocent, luckily enough, glad to hear。例句：He was proven innocent. / Luckily, the police arrived fast. / I'm glad it's over. 注意 luckily 用于表达庆幸。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“arrest”。  
+   **英文**：In this situation, I heard "arrest".
+   > **解析**：本题在单元主题情境中复习表达 arrest。
+
+2. **中文**：同伴解释了“call the police”。  
+   **英文**：My partner explained "call the police".
+   > **解析**：本题在单元主题情境中复习表达 call the police。
+
+3. **中文**：我们一起谈到了“file”。  
+   **英文**：We talked about "file" together.
+   > **解析**：本题在单元主题情境中复习表达 file。
+
+4. **中文**：我记下了“luckily”。  
+   **英文**：I wrote down "luckily".
+   > **解析**：本题在单元主题情境中复习表达 luckily。
+
+5. **中文**：例句中包含“protect”。  
+   **英文**：The example included "protect".
+   > **解析**：本题在单元主题情境中复习表达 protect。
+
+6. **中文**：我询问了“take place”。  
+   **英文**：I asked about "take place".
+   > **解析**：本题在单元主题情境中复习表达 take place。
+
+7. **中文**：我们在句子中用到了“unknown”。  
+   **英文**：We used "unknown" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 unknown。
+
+8. **中文**：朋友重复了“attack”。  
+   **英文**：My friend repeated "attack".
+   > **解析**：本题在单元主题情境中复习表达 attack。
+
+9. **中文**：后来，我记住了“commit”。  
+   **英文**：Later, I remembered "commit".
+   > **解析**：本题在单元主题情境中复习表达 commit。
+
+10. **中文**：这个小故事以“glad”收尾。  
+   **英文**：The short story ended with "glad".
+   > **解析**：本题在单元主题情境中复习表达 glad。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "arrest".
+   > **中文**：在这个情境中，我听到了“arrest”。
+2. My partner explained "call the police".
+   > **中文**：同伴解释了“call the police”。
+3. We talked about "file" together.
+   > **中文**：我们一起谈到了“file”。
+4. I wrote down "luckily".
+   > **中文**：我记下了“luckily”。
+5. The example included "protect".
+   > **中文**：例句中包含“protect”。
+6. I asked about "take place".
+   > **中文**：我询问了“take place”。
+7. We used "unknown" in a sentence.
+   > **中文**：我们在句子中用到了“unknown”。
+8. My friend repeated "attack".
+   > **中文**：朋友重复了“attack”。
+9. Later, I remembered "commit".
+   > **中文**：后来，我记住了“commit”。
+10. The short story ended with "glad".
+   > **中文**：这个小故事以“glad”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] arrest
+- [ ] luckily
+- [ ] unknown
+
+> **解析**：本题在单元主题情境中复习表达 arrest。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] call the police
+- [ ] protect
+- [ ] attack
+
+> **解析**：本题在单元主题情境中复习表达 call the police。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] file
+- [ ] take place
+- [ ] commit
+
+> **解析**：本题在单元主题情境中复习表达 file。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] luckily
+- [ ] unknown
+- [ ] glad
+
+> **解析**：本题在单元主题情境中复习表达 luckily。
+
+### 5
+
+The example included "`____`".
+
+- [x] protect
+- [ ] attack
+- [ ] arrest
+
+> **解析**：本题在单元主题情境中复习表达 protect。
+
+### 6
+
+I asked about "`____`".
+
+- [x] take place
+- [ ] commit
+- [ ] call the police
+
+> **解析**：本题在单元主题情境中复习表达 take place。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] unknown
+- [ ] glad
+- [ ] file
+
+> **解析**：本题在单元主题情境中复习表达 unknown。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] attack
+- [ ] arrest
+- [ ] luckily
+
+> **解析**：本题在单元主题情境中复习表达 attack。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] commit
+- [ ] call the police
+- [ ] protect
+
+> **解析**：本题在单元主题情境中复习表达 commit。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] glad
+- [ ] file
+- [ ] take place
+
+> **解析**：本题在单元主题情境中复习表达 glad。
+
+</quiz-cloze>

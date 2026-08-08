@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 appear, as a result of, bartender, before long, consequently, courage, debt, deep down, determined, for granted, impact, irritated, just, living, miserable, move back home, patience, productive, reflect, rely on, savings, so i would, so i wouldn't, trap, upbringing, work out
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -60,3 +65,193 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
 
 - **appear** — "出现；似乎"。He appeared at the door. / It appears that he left. 比 seem 更正式。名词 appearance（外貌/出现）。注意双 p。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“appear”。  
+   **英文**：At work, we discussed "appear".
+   > **解析**：本题在单元主题情境中复习表达 appear。
+
+2. **中文**：同事提到了“consequently”。  
+   **英文**：My coworker mentioned "consequently".
+   > **解析**：本题在单元主题情境中复习表达 consequently。
+
+3. **中文**：会议中，我听到了“determined”。  
+   **英文**：In the meeting, I heard "determined".
+   > **解析**：本题在单元主题情境中复习表达 determined。
+
+4. **中文**：我把“irritated”写进了笔记。  
+   **英文**：I added "irritated" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 irritated。
+
+5. **中文**：经理解释了“move back home”。  
+   **英文**：The manager explained "move back home".
+   > **解析**：本题在单元主题情境中复习表达 move back home。
+
+6. **中文**：团队今天用到了“rely on”。  
+   **英文**：Our team used "rely on" today.
+   > **解析**：本题在单元主题情境中复习表达 rely on。
+
+7. **中文**：午饭前，我们查看了“trap”。  
+   **英文**：Before lunch, we checked "trap".
+   > **解析**：本题在单元主题情境中复习表达 trap。
+
+8. **中文**：同事询问了“as a result of”。  
+   **英文**：My colleague asked about "as a result of".
+   > **解析**：本题在单元主题情境中复习表达 as a result of。
+
+9. **中文**：报告中包含“courage”。  
+   **英文**：The report included "courage".
+   > **解析**：本题在单元主题情境中复习表达 courage。
+
+10. **中文**：一天结束时，我记住了“for granted”。  
+   **英文**：At the end of the day, I remembered "for granted".
+   > **解析**：本题在单元主题情境中复习表达 for granted。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "appear".
+   > **中文**：工作中，我们讨论了“appear”。
+2. My coworker mentioned "consequently".
+   > **中文**：同事提到了“consequently”。
+3. In the meeting, I heard "determined".
+   > **中文**：会议中，我听到了“determined”。
+4. I added "irritated" to my notes.
+   > **中文**：我把“irritated”写进了笔记。
+5. The manager explained "move back home".
+   > **中文**：经理解释了“move back home”。
+6. Our team used "rely on" today.
+   > **中文**：团队今天用到了“rely on”。
+7. Before lunch, we checked "trap".
+   > **中文**：午饭前，我们查看了“trap”。
+8. My colleague asked about "as a result of".
+   > **中文**：同事询问了“as a result of”。
+9. The report included "courage".
+   > **中文**：报告中包含“courage”。
+10. At the end of the day, I remembered "for granted".
+   > **中文**：一天结束时，我记住了“for granted”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] appear
+- [ ] irritated
+- [ ] trap
+
+> **解析**：本题在单元主题情境中复习表达 appear。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] consequently
+- [ ] move back home
+- [ ] as a result of
+
+> **解析**：本题在单元主题情境中复习表达 consequently。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] determined
+- [ ] rely on
+- [ ] courage
+
+> **解析**：本题在单元主题情境中复习表达 determined。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] irritated
+- [ ] trap
+- [ ] for granted
+
+> **解析**：本题在单元主题情境中复习表达 irritated。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] move back home
+- [ ] as a result of
+- [ ] appear
+
+> **解析**：本题在单元主题情境中复习表达 move back home。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] rely on
+- [ ] courage
+- [ ] consequently
+
+> **解析**：本题在单元主题情境中复习表达 rely on。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] trap
+- [ ] for granted
+- [ ] determined
+
+> **解析**：本题在单元主题情境中复习表达 trap。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] as a result of
+- [ ] appear
+- [ ] irritated
+
+> **解析**：本题在单元主题情境中复习表达 as a result of。
+
+### 9
+
+The report included "`____`".
+
+- [x] courage
+- [ ] consequently
+- [ ] move back home
+
+> **解析**：本题在单元主题情境中复习表达 courage。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] for granted
+- [ ] determined
+- [ ] rely on
+
+> **解析**：本题在单元主题情境中复习表达 for granted。
+
+</quiz-cloze>

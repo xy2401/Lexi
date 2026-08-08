@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 all over the place, allowance, any chance, arrange, bedtime, cardboard, clear the table, company, depend on, errand, folks, get, get-together, host, is to, load, nap, oops, place, responsibility, run to, should be, walk the dog
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ all over the place, allowance, any chance, arrange, bedtime, cardboard, clear th
 - **oops** — 哎呀（口语感叹词，表小失误）。搭配：Oops! / Oops, I forgot. Oops, I dropped the glass. 比 oh no 更轻微，用于无伤大雅的小错误。
 
 - **cardboard / place** — cardboard 是纸板，place 是地方/放置。搭配：a cardboard box, put it in its place。Break down the cardboard and put it in its place. 注意 place 作动词 = 放置：Place the boxes here.
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“all over the place”。  
+   **英文**：At home, we talked about "all over the place".
+   > **解析**：本题在单元主题情境中复习表达 all over the place。
+
+2. **中文**：家人提到了“arrange”。  
+   **英文**：My family mentioned "arrange".
+   > **解析**：本题在单元主题情境中复习表达 arrange。
+
+3. **中文**：在房间里，我注意到了“company”。  
+   **英文**：In the room, I noticed "company".
+   > **解析**：本题在单元主题情境中复习表达 company。
+
+4. **中文**：我们在家里用到了“folks”。  
+   **英文**：We used "folks" at home.
+   > **解析**：本题在单元主题情境中复习表达 folks。
+
+5. **中文**：邻居询问了“is to”。  
+   **英文**：My neighbor asked about "is to".
+   > **解析**：本题在单元主题情境中复习表达 is to。
+
+6. **中文**：我在门边写下了“oops”。  
+   **英文**：I wrote down "oops" by the door.
+   > **解析**：本题在单元主题情境中复习表达 oops。
+
+7. **中文**：晚饭后，我们重复了“should be”。  
+   **英文**：After dinner, we repeated "should be".
+   > **解析**：本题在单元主题情境中复习表达 should be。
+
+8. **中文**：家庭故事里包含“allowance”。  
+   **英文**：The family story included "allowance".
+   > **解析**：本题在单元主题情境中复习表达 allowance。
+
+9. **中文**：睡前，我记住了“cardboard”。  
+   **英文**：Before bed, I remembered "cardboard".
+   > **解析**：本题在单元主题情境中复习表达 cardboard。
+
+10. **中文**：那个夜晚以“depend on”收尾。  
+   **英文**：That evening ended with "depend on".
+   > **解析**：本题在单元主题情境中复习表达 depend on。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "all over the place".
+   > **中文**：在家里，我们谈到了“all over the place”。
+2. My family mentioned "arrange".
+   > **中文**：家人提到了“arrange”。
+3. In the room, I noticed "company".
+   > **中文**：在房间里，我注意到了“company”。
+4. We used "folks" at home.
+   > **中文**：我们在家里用到了“folks”。
+5. My neighbor asked about "is to".
+   > **中文**：邻居询问了“is to”。
+6. I wrote down "oops" by the door.
+   > **中文**：我在门边写下了“oops”。
+7. After dinner, we repeated "should be".
+   > **中文**：晚饭后，我们重复了“should be”。
+8. The family story included "allowance".
+   > **中文**：家庭故事里包含“allowance”。
+9. Before bed, I remembered "cardboard".
+   > **中文**：睡前，我记住了“cardboard”。
+10. That evening ended with "depend on".
+   > **中文**：那个夜晚以“depend on”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] all over the place
+- [ ] folks
+- [ ] should be
+
+> **解析**：本题在单元主题情境中复习表达 all over the place。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] arrange
+- [ ] is to
+- [ ] allowance
+
+> **解析**：本题在单元主题情境中复习表达 arrange。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] company
+- [ ] oops
+- [ ] cardboard
+
+> **解析**：本题在单元主题情境中复习表达 company。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] folks
+- [ ] should be
+- [ ] depend on
+
+> **解析**：本题在单元主题情境中复习表达 folks。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] is to
+- [ ] allowance
+- [ ] all over the place
+
+> **解析**：本题在单元主题情境中复习表达 is to。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] oops
+- [ ] cardboard
+- [ ] arrange
+
+> **解析**：本题在单元主题情境中复习表达 oops。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] should be
+- [ ] depend on
+- [ ] company
+
+> **解析**：本题在单元主题情境中复习表达 should be。
+
+### 8
+
+The family story included "`____`".
+
+- [x] allowance
+- [ ] all over the place
+- [ ] folks
+
+> **解析**：本题在单元主题情境中复习表达 allowance。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] cardboard
+- [ ] arrange
+- [ ] is to
+
+> **解析**：本题在单元主题情境中复习表达 cardboard。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] depend on
+- [ ] company
+- [ ] oops
+
+> **解析**：本题在单元主题情境中复习表达 depend on。
+
+</quiz-cloze>

@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 act, argument, be able to, common sense, control, disappoint, drawn, drunk, guilty, had, hadn't, if, loud, lucky, mistaken, promise, selfish, stupid, warn, would, would have had, wouldn't have
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -29,3 +34,194 @@ drawn 是 draw 的过去分词，在这里可能指"被吸引"（drawn to）或"
 - **be able to / act / lucky** — be able to = 能够（= can，但能用于更多时态：I will be able to... / I have been able to...）。act = 行动（act now!）也可指"行为"。lucky = 幸运的（You're lucky! / a lucky escape）。
 
 - **if / had / would** — 这三个功能词构成条件句框架。if 引导条件从句，had 做助动词构成过去完成，would 构成主句的虚拟结果。注意 if 从句中不用 would（不说 If I would have...，而说 If I had...）。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“act”。  
+   **英文**：In this situation, I heard "act".
+   > **解析**：本题在单元主题情境中复习表达 act。
+
+2. **中文**：同伴解释了“common sense”。  
+   **英文**：My partner explained "common sense".
+   > **解析**：本题在单元主题情境中复习表达 common sense。
+
+3. **中文**：我们一起谈到了“drunk”。  
+   **英文**：We talked about "drunk" together.
+   > **解析**：本题在单元主题情境中复习表达 drunk。
+
+4. **中文**：我记下了“hadn't”。  
+   **英文**：I wrote down "hadn't".
+   > **解析**：本题在单元主题情境中复习表达 hadn't。
+
+5. **中文**：例句中包含“lucky”。  
+   **英文**：The example included "lucky".
+   > **解析**：本题在单元主题情境中复习表达 lucky。
+
+6. **中文**：我询问了“stupid”。  
+   **英文**：I asked about "stupid".
+   > **解析**：本题在单元主题情境中复习表达 stupid。
+
+7. **中文**：我们在句子中用到了“would have had”。  
+   **英文**：We used "would have had" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 would have had。
+
+8. **中文**：朋友重复了“argument”。  
+   **英文**：My friend repeated "argument".
+   > **解析**：本题在单元主题情境中复习表达 argument。
+
+9. **中文**：后来，我记住了“disappoint”。  
+   **英文**：Later, I remembered "disappoint".
+   > **解析**：本题在单元主题情境中复习表达 disappoint。
+
+10. **中文**：这个小故事以“guilty”收尾。  
+   **英文**：The short story ended with "guilty".
+   > **解析**：本题在单元主题情境中复习表达 guilty。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "act".
+   > **中文**：在这个情境中，我听到了“act”。
+2. My partner explained "common sense".
+   > **中文**：同伴解释了“common sense”。
+3. We talked about "drunk" together.
+   > **中文**：我们一起谈到了“drunk”。
+4. I wrote down "hadn't".
+   > **中文**：我记下了“hadn't”。
+5. The example included "lucky".
+   > **中文**：例句中包含“lucky”。
+6. I asked about "stupid".
+   > **中文**：我询问了“stupid”。
+7. We used "would have had" in a sentence.
+   > **中文**：我们在句子中用到了“would have had”。
+8. My friend repeated "argument".
+   > **中文**：朋友重复了“argument”。
+9. Later, I remembered "disappoint".
+   > **中文**：后来，我记住了“disappoint”。
+10. The short story ended with "guilty".
+   > **中文**：这个小故事以“guilty”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] act
+- [ ] hadn't
+- [ ] would have had
+
+> **解析**：本题在单元主题情境中复习表达 act。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] common sense
+- [ ] lucky
+- [ ] argument
+
+> **解析**：本题在单元主题情境中复习表达 common sense。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] drunk
+- [ ] stupid
+- [ ] disappoint
+
+> **解析**：本题在单元主题情境中复习表达 drunk。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] hadn't
+- [ ] would have had
+- [ ] guilty
+
+> **解析**：本题在单元主题情境中复习表达 hadn't。
+
+### 5
+
+The example included "`____`".
+
+- [x] lucky
+- [ ] argument
+- [ ] act
+
+> **解析**：本题在单元主题情境中复习表达 lucky。
+
+### 6
+
+I asked about "`____`".
+
+- [x] stupid
+- [ ] disappoint
+- [ ] common sense
+
+> **解析**：本题在单元主题情境中复习表达 stupid。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] would have had
+- [ ] guilty
+- [ ] drunk
+
+> **解析**：本题在单元主题情境中复习表达 would have had。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] argument
+- [ ] act
+- [ ] hadn't
+
+> **解析**：本题在单元主题情境中复习表达 argument。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] disappoint
+- [ ] common sense
+- [ ] lucky
+
+> **解析**：本题在单元主题情境中复习表达 disappoint。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] guilty
+- [ ] drunk
+- [ ] stupid
+
+> **解析**：本题在单元主题情境中复习表达 guilty。
+
+</quiz-cloze>

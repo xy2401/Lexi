@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 accountant, assignment, corn, court, cover, did, didn't use to, favorite, fewer, fly, however, inch, indoors, know how to, never used to, outdoors, religion, rock, stream, sunrise, sweep, swept, tax, use to, web
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ didn't use to 表示"过去不"。sweep → swept（扫）。
 
 - **sunrise / stream / rock** — 日出 / 小溪 / 石头。搭配：at sunrise, by the stream, on a rock。例句：We watched the sunrise by the stream. / I sat on a rock and fished. 注意这些词常出现在自然/童年回忆中。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：谈论喜好时，我听到了“accountant”。  
+   **英文**：When we talked about favorites, I heard "accountant".
+   > **解析**：本题在单元主题情境中复习表达 accountant。
+
+2. **中文**：朋友说“cover”很重要。  
+   **英文**：My friend said "cover" was important.
+   > **解析**：本题在单元主题情境中复习表达 cover。
+
+3. **中文**：我问他们喜欢哪一个：“favorite”。  
+   **英文**：I asked which one they liked: "favorite".
+   > **解析**：本题在单元主题情境中复习表达 favorite。
+
+4. **中文**：聊天时，我们比较了“inch”。  
+   **英文**：In our chat, we compared "inch".
+   > **解析**：本题在单元主题情境中复习表达 inch。
+
+5. **中文**：同伴先选择了“outdoors”。  
+   **英文**：My partner chose "outdoors" first.
+   > **解析**：本题在单元主题情境中复习表达 outdoors。
+
+6. **中文**：我们用“stream”描述喜好。  
+   **英文**：We used "stream" to describe a favorite.
+   > **解析**：本题在单元主题情境中复习表达 stream。
+
+7. **中文**：答案中包含“tax”。  
+   **英文**：The answer included "tax".
+   > **解析**：本题在单元主题情境中复习表达 tax。
+
+8. **中文**：我从对话中记住了“assignment”。  
+   **英文**：I remembered "assignment" from the conversation.
+   > **解析**：本题在单元主题情境中复习表达 assignment。
+
+9. **中文**：朋友微笑着重复了“did”。  
+   **英文**：My friend repeated "did" with a smile.
+   > **解析**：本题在单元主题情境中复习表达 did。
+
+10. **中文**：那场关于喜好的聊天以“fly”收尾。  
+   **英文**：That chat about favorites ended with "fly".
+   > **解析**：本题在单元主题情境中复习表达 fly。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. When we talked about favorites, I heard "accountant".
+   > **中文**：谈论喜好时，我听到了“accountant”。
+2. My friend said "cover" was important.
+   > **中文**：朋友说“cover”很重要。
+3. I asked which one they liked: "favorite".
+   > **中文**：我问他们喜欢哪一个：“favorite”。
+4. In our chat, we compared "inch".
+   > **中文**：聊天时，我们比较了“inch”。
+5. My partner chose "outdoors" first.
+   > **中文**：同伴先选择了“outdoors”。
+6. We used "stream" to describe a favorite.
+   > **中文**：我们用“stream”描述喜好。
+7. The answer included "tax".
+   > **中文**：答案中包含“tax”。
+8. I remembered "assignment" from the conversation.
+   > **中文**：我从对话中记住了“assignment”。
+9. My friend repeated "did" with a smile.
+   > **中文**：朋友微笑着重复了“did”。
+10. That chat about favorites ended with "fly".
+   > **中文**：那场关于喜好的聊天以“fly”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+When we talked about favorites, I heard "`____`".
+
+- [x] accountant
+- [ ] inch
+- [ ] tax
+
+> **解析**：本题在单元主题情境中复习表达 accountant。
+
+### 2
+
+My friend said "`____`" was important.
+
+- [x] cover
+- [ ] outdoors
+- [ ] assignment
+
+> **解析**：本题在单元主题情境中复习表达 cover。
+
+### 3
+
+I asked which one they liked: "`____`".
+
+- [x] favorite
+- [ ] stream
+- [ ] did
+
+> **解析**：本题在单元主题情境中复习表达 favorite。
+
+### 4
+
+In our chat, we compared "`____`".
+
+- [x] inch
+- [ ] tax
+- [ ] fly
+
+> **解析**：本题在单元主题情境中复习表达 inch。
+
+### 5
+
+My partner chose "`____`" first.
+
+- [x] outdoors
+- [ ] assignment
+- [ ] accountant
+
+> **解析**：本题在单元主题情境中复习表达 outdoors。
+
+### 6
+
+We used "`____`" to describe a favorite.
+
+- [x] stream
+- [ ] did
+- [ ] cover
+
+> **解析**：本题在单元主题情境中复习表达 stream。
+
+### 7
+
+The answer included "`____`".
+
+- [x] tax
+- [ ] fly
+- [ ] favorite
+
+> **解析**：本题在单元主题情境中复习表达 tax。
+
+### 8
+
+I remembered "`____`" from the conversation.
+
+- [x] assignment
+- [ ] accountant
+- [ ] inch
+
+> **解析**：本题在单元主题情境中复习表达 assignment。
+
+### 9
+
+My friend repeated "`____`" with a smile.
+
+- [x] did
+- [ ] cover
+- [ ] outdoors
+
+> **解析**：本题在单元主题情境中复习表达 did。
+
+### 10
+
+That chat about favorites ended with "`____`".
+
+- [x] fly
+- [ ] favorite
+- [ ] stream
+
+> **解析**：本题在单元主题情境中复习表达 fly。
+
+</quiz-cloze>

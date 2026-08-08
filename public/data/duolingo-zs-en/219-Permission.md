@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how about if, if that's the case, make sure, not, past, react, school night, sleepover, stay out, take, talk it over, tell, that would be, the thing is, then, what about if, will you, would you
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
 - **how about if / what about if** — 提出替代方案，"如果……怎么样？"。How about if I come home by eleven? 比直接请求更协商，像在谈判中提出折中方案。两者基本同义。
 
 - **would you / will you** — 都用于请求，would you 比 will you 更礼貌。Would you let me go? / Will you drive me there? 注意 would 并不一定表过去，在请求中表委婉。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：课堂上，老师介绍了“absolutely not”。  
+   **英文**：In class, the teacher introduced "absolutely not".
+   > **解析**：本题在单元主题情境中复习表达 absolutely not。
+
+2. **中文**：我把“curfew”写进笔记本。  
+   **英文**：I wrote "curfew" in my notebook.
+   > **解析**：本题在单元主题情境中复习表达 curfew。
+
+3. **中文**：同学解释了“if that's the case”。  
+   **英文**：My classmate explained "if that's the case".
+   > **解析**：本题在单元主题情境中复习表达 if that's the case。
+
+4. **中文**：我们一起练习了“react”。  
+   **英文**：We practiced "react" together.
+   > **解析**：本题在单元主题情境中复习表达 react。
+
+5. **中文**：作业里包含“stay out”。  
+   **英文**：The homework included "stay out".
+   > **解析**：本题在单元主题情境中复习表达 stay out。
+
+6. **中文**：我向老师询问了“that would be”。  
+   **英文**：I asked the teacher about "that would be".
+   > **解析**：本题在单元主题情境中复习表达 that would be。
+
+7. **中文**：上课时，我听到了“what about if”。  
+   **英文**：During the lesson, I heard "what about if".
+   > **解析**：本题在单元主题情境中复习表达 what about if。
+
+8. **中文**：学习伙伴记住了“as long as”。  
+   **英文**：My study partner remembered "as long as".
+   > **解析**：本题在单元主题情境中复习表达 as long as。
+
+9. **中文**：我们在例句中用到了“do you think i'd be able to”。  
+   **英文**：We used "do you think i'd be able to" in an example.
+   > **解析**：本题在单元主题情境中复习表达 do you think i'd be able to。
+
+10. **中文**：下课后，我复习了“not”。  
+   **英文**：After class, I reviewed "not".
+   > **解析**：本题在单元主题情境中复习表达 not。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In class, the teacher introduced "absolutely not".
+   > **中文**：课堂上，老师介绍了“absolutely not”。
+2. I wrote "curfew" in my notebook.
+   > **中文**：我把“curfew”写进笔记本。
+3. My classmate explained "if that's the case".
+   > **中文**：同学解释了“if that's the case”。
+4. We practiced "react" together.
+   > **中文**：我们一起练习了“react”。
+5. The homework included "stay out".
+   > **中文**：作业里包含“stay out”。
+6. I asked the teacher about "that would be".
+   > **中文**：我向老师询问了“that would be”。
+7. During the lesson, I heard "what about if".
+   > **中文**：上课时，我听到了“what about if”。
+8. My study partner remembered "as long as".
+   > **中文**：学习伙伴记住了“as long as”。
+9. We used "do you think i'd be able to" in an example.
+   > **中文**：我们在例句中用到了“do you think i'd be able to”。
+10. After class, I reviewed "not".
+   > **中文**：下课后，我复习了“not”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In class, the teacher introduced "`____`".
+
+- [x] absolutely not
+- [ ] react
+- [ ] what about if
+
+> **解析**：本题在单元主题情境中复习表达 absolutely not。
+
+### 2
+
+I wrote "`____`" in my notebook.
+
+- [x] curfew
+- [ ] stay out
+- [ ] as long as
+
+> **解析**：本题在单元主题情境中复习表达 curfew。
+
+### 3
+
+My classmate explained "`____`".
+
+- [x] if that's the case
+- [ ] that would be
+- [ ] do you think i'd be able to
+
+> **解析**：本题在单元主题情境中复习表达 if that's the case。
+
+### 4
+
+We practiced "`____`" together.
+
+- [x] react
+- [ ] what about if
+- [ ] not
+
+> **解析**：本题在单元主题情境中复习表达 react。
+
+### 5
+
+The homework included "`____`".
+
+- [x] stay out
+- [ ] as long as
+- [ ] absolutely not
+
+> **解析**：本题在单元主题情境中复习表达 stay out。
+
+### 6
+
+I asked the teacher about "`____`".
+
+- [x] that would be
+- [ ] do you think i'd be able to
+- [ ] curfew
+
+> **解析**：本题在单元主题情境中复习表达 that would be。
+
+### 7
+
+During the lesson, I heard "`____`".
+
+- [x] what about if
+- [ ] not
+- [ ] if that's the case
+
+> **解析**：本题在单元主题情境中复习表达 what about if。
+
+### 8
+
+My study partner remembered "`____`".
+
+- [x] as long as
+- [ ] absolutely not
+- [ ] react
+
+> **解析**：本题在单元主题情境中复习表达 as long as。
+
+### 9
+
+We used "`____`" in an example.
+
+- [x] do you think i'd be able to
+- [ ] curfew
+- [ ] stay out
+
+> **解析**：本题在单元主题情境中复习表达 do you think i'd be able to。
+
+### 10
+
+After class, I reviewed "`____`".
+
+- [x] not
+- [ ] if that's the case
+- [ ] that would be
+
+> **解析**：本题在单元主题情境中复习表达 not。
+
+</quiz-cloze>

@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 assuming that, attempt, attempt to, be able to, canyon, conditions, daylight, dehydrated, enough to, gear, how about we, leopard, overdo it, picturesque, poisonous, provided, rafting, safari, so long as, summit, too, trail, trekking, try to, wild
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -43,3 +48,194 @@ assuming that, attempt, attempt to, be able to, canyon, conditions, daylight, de
 - **be able to / enough to / too** — be able to = 能够（比 can 更正式，可用于更多时态）：We'll be able to see the leopard. enough to = 足够……以至于：strong enough to climb / enough water to last。too = 太……（常含负面）：too tired to continue / too dangerous。三者常搭配使用：We need to be strong enough to attempt the climb, but not too tired to enjoy the view.
 
 - **wild / conditions / trail** — wild = 野生的、野外的：wild animals / in the wild / wild leopard。conditions = 条件、状况（常用复数）：weather conditions / trail conditions / safe conditions。trail = 小径、步道：a hiking trail / follow the trail / a narrow trail。例句：The trail conditions are good, and we might see wild animals.
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“assuming that”。  
+   **英文**：In this situation, I heard "assuming that".
+   > **解析**：本题在单元主题情境中复习表达 assuming that。
+
+2. **中文**：同伴解释了“canyon”。  
+   **英文**：My partner explained "canyon".
+   > **解析**：本题在单元主题情境中复习表达 canyon。
+
+3. **中文**：我们一起谈到了“dehydrated”。  
+   **英文**：We talked about "dehydrated" together.
+   > **解析**：本题在单元主题情境中复习表达 dehydrated。
+
+4. **中文**：我记下了“leopard”。  
+   **英文**：I wrote down "leopard".
+   > **解析**：本题在单元主题情境中复习表达 leopard。
+
+5. **中文**：例句中包含“provided”。  
+   **英文**：The example included "provided".
+   > **解析**：本题在单元主题情境中复习表达 provided。
+
+6. **中文**：我询问了“so long as”。  
+   **英文**：I asked about "so long as".
+   > **解析**：本题在单元主题情境中复习表达 so long as。
+
+7. **中文**：我们在句子中用到了“trekking”。  
+   **英文**：We used "trekking" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 trekking。
+
+8. **中文**：朋友重复了“attempt”。  
+   **英文**：My friend repeated "attempt".
+   > **解析**：本题在单元主题情境中复习表达 attempt。
+
+9. **中文**：后来，我记住了“conditions”。  
+   **英文**：Later, I remembered "conditions".
+   > **解析**：本题在单元主题情境中复习表达 conditions。
+
+10. **中文**：这个小故事以“gear”收尾。  
+   **英文**：The short story ended with "gear".
+   > **解析**：本题在单元主题情境中复习表达 gear。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "assuming that".
+   > **中文**：在这个情境中，我听到了“assuming that”。
+2. My partner explained "canyon".
+   > **中文**：同伴解释了“canyon”。
+3. We talked about "dehydrated" together.
+   > **中文**：我们一起谈到了“dehydrated”。
+4. I wrote down "leopard".
+   > **中文**：我记下了“leopard”。
+5. The example included "provided".
+   > **中文**：例句中包含“provided”。
+6. I asked about "so long as".
+   > **中文**：我询问了“so long as”。
+7. We used "trekking" in a sentence.
+   > **中文**：我们在句子中用到了“trekking”。
+8. My friend repeated "attempt".
+   > **中文**：朋友重复了“attempt”。
+9. Later, I remembered "conditions".
+   > **中文**：后来，我记住了“conditions”。
+10. The short story ended with "gear".
+   > **中文**：这个小故事以“gear”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] assuming that
+- [ ] leopard
+- [ ] trekking
+
+> **解析**：本题在单元主题情境中复习表达 assuming that。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] canyon
+- [ ] provided
+- [ ] attempt
+
+> **解析**：本题在单元主题情境中复习表达 canyon。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] dehydrated
+- [ ] so long as
+- [ ] conditions
+
+> **解析**：本题在单元主题情境中复习表达 dehydrated。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] leopard
+- [ ] trekking
+- [ ] gear
+
+> **解析**：本题在单元主题情境中复习表达 leopard。
+
+### 5
+
+The example included "`____`".
+
+- [x] provided
+- [ ] attempt
+- [ ] assuming that
+
+> **解析**：本题在单元主题情境中复习表达 provided。
+
+### 6
+
+I asked about "`____`".
+
+- [x] so long as
+- [ ] conditions
+- [ ] canyon
+
+> **解析**：本题在单元主题情境中复习表达 so long as。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] trekking
+- [ ] gear
+- [ ] dehydrated
+
+> **解析**：本题在单元主题情境中复习表达 trekking。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] attempt
+- [ ] assuming that
+- [ ] leopard
+
+> **解析**：本题在单元主题情境中复习表达 attempt。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] conditions
+- [ ] canyon
+- [ ] provided
+
+> **解析**：本题在单元主题情境中复习表达 conditions。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] gear
+- [ ] dehydrated
+- [ ] so long as
+
+> **解析**：本题在单元主题情境中复习表达 gear。
+
+</quiz-cloze>

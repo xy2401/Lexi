@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 back, camp, clearly, get, hit it off, homesick, irresponsible, junk food, long-distance, lose touch, lose track, memorable, no wonder, nothing in common, parade, positive, remember that time, remember when, sneak out, take turns, talk, trick, we'd, would
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ back, camp, clearly, get, hit it off, homesick, irresponsible, junk food, long-d
 - **back / camp / trick** — back 在这里指"以前、过去"，camp 是夏令营，trick 是恶作剧/把戏。搭配：back in the day, summer camp, play a trick on。Back at camp, we played tricks on each other. 注意 back 单独使用可表"回到"或"以前"，要看语境。
 
 - **long-distance / talk** — long-distance 是长途的（电话/关系），talk 是聊天。搭配：a long-distance call, long-distance friendship, talk for hours。We had a long-distance friendship after camp. / We'd talk all night. 注意 long-distance 作形容词加连字符。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在餐厅里，我询问了“back”。  
+   **英文**：At the restaurant, I asked about "back".
+   > **解析**：本题在单元主题情境中复习表达 back。
+
+2. **中文**：菜单上有“hit it off”。  
+   **英文**：The menu included "hit it off".
+   > **解析**：本题在单元主题情境中复习表达 hit it off。
+
+3. **中文**：在餐桌旁，我们谈到了“junk food”。  
+   **英文**：At the table, we talked about "junk food".
+   > **解析**：本题在单元主题情境中复习表达 junk food。
+
+4. **中文**：厨师提到了“memorable”。  
+   **英文**：The cook mentioned "memorable".
+   > **解析**：本题在单元主题情境中复习表达 memorable。
+
+5. **中文**：晚餐我点了“parade”。  
+   **英文**：I ordered "parade" for dinner.
+   > **解析**：本题在单元主题情境中复习表达 parade。
+
+6. **中文**：我的朋友选择了“sneak out”。  
+   **英文**：My friend chose "sneak out".
+   > **解析**：本题在单元主题情境中复习表达 sneak out。
+
+7. **中文**：服务员重复了“trick”。  
+   **英文**：The waiter repeated "trick".
+   > **解析**：本题在单元主题情境中复习表达 trick。
+
+8. **中文**：我们分享了一个关于“camp”的故事。  
+   **英文**：We shared a story about "camp".
+   > **解析**：本题在单元主题情境中复习表达 camp。
+
+9. **中文**：饭后，我记住了“homesick”。  
+   **英文**：After the meal, I remembered "homesick".
+   > **解析**：本题在单元主题情境中复习表达 homesick。
+
+10. **中文**：那顿饭以“lose touch”收尾。  
+   **英文**：That meal ended with "lose touch".
+   > **解析**：本题在单元主题情境中复习表达 lose touch。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the restaurant, I asked about "back".
+   > **中文**：在餐厅里，我询问了“back”。
+2. The menu included "hit it off".
+   > **中文**：菜单上有“hit it off”。
+3. At the table, we talked about "junk food".
+   > **中文**：在餐桌旁，我们谈到了“junk food”。
+4. The cook mentioned "memorable".
+   > **中文**：厨师提到了“memorable”。
+5. I ordered "parade" for dinner.
+   > **中文**：晚餐我点了“parade”。
+6. My friend chose "sneak out".
+   > **中文**：我的朋友选择了“sneak out”。
+7. The waiter repeated "trick".
+   > **中文**：服务员重复了“trick”。
+8. We shared a story about "camp".
+   > **中文**：我们分享了一个关于“camp”的故事。
+9. After the meal, I remembered "homesick".
+   > **中文**：饭后，我记住了“homesick”。
+10. That meal ended with "lose touch".
+   > **中文**：那顿饭以“lose touch”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the restaurant, I asked about "`____`".
+
+- [x] back
+- [ ] memorable
+- [ ] trick
+
+> **解析**：本题在单元主题情境中复习表达 back。
+
+### 2
+
+The menu included "`____`".
+
+- [x] hit it off
+- [ ] parade
+- [ ] camp
+
+> **解析**：本题在单元主题情境中复习表达 hit it off。
+
+### 3
+
+At the table, we talked about "`____`".
+
+- [x] junk food
+- [ ] sneak out
+- [ ] homesick
+
+> **解析**：本题在单元主题情境中复习表达 junk food。
+
+### 4
+
+The cook mentioned "`____`".
+
+- [x] memorable
+- [ ] trick
+- [ ] lose touch
+
+> **解析**：本题在单元主题情境中复习表达 memorable。
+
+### 5
+
+I ordered "`____`" for dinner.
+
+- [x] parade
+- [ ] camp
+- [ ] back
+
+> **解析**：本题在单元主题情境中复习表达 parade。
+
+### 6
+
+My friend chose "`____`".
+
+- [x] sneak out
+- [ ] homesick
+- [ ] hit it off
+
+> **解析**：本题在单元主题情境中复习表达 sneak out。
+
+### 7
+
+The waiter repeated "`____`".
+
+- [x] trick
+- [ ] lose touch
+- [ ] junk food
+
+> **解析**：本题在单元主题情境中复习表达 trick。
+
+### 8
+
+We shared a story about "`____`".
+
+- [x] camp
+- [ ] back
+- [ ] memorable
+
+> **解析**：本题在单元主题情境中复习表达 camp。
+
+### 9
+
+After the meal, I remembered "`____`".
+
+- [x] homesick
+- [ ] hit it off
+- [ ] parade
+
+> **解析**：本题在单元主题情境中复习表达 homesick。
+
+### 10
+
+That meal ended with "`____`".
+
+- [x] lose touch
+- [ ] junk food
+- [ ] sneak out
+
+> **解析**：本题在单元主题情境中复习表达 lose touch。
+
+</quiz-cloze>

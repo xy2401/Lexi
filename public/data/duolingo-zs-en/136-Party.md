@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 although, cabbage, chili, day off, imagine, in my opinion, increase, lift, look like, pay, pea, perform, plus, response, roll, seem like, shown, shrimp, sound like, too bad, whether, which, while
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ in my opinion 表示"在我看来"。sound like / seem like / look like 表示"�
 
 - **which / whether / in my opinion** — 哪个 / 是否 / 我觉得。搭配：Which one? / whether to go, In my opinion, ...。例句：Which music do you prefer? / I'm not sure whether to go. / In my opinion, less is more.
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在餐厅里，我询问了“although”。  
+   **英文**：At the restaurant, I asked about "although".
+   > **解析**：本题在单元主题情境中复习表达 although。
+
+2. **中文**：菜单上有“day off”。  
+   **英文**：The menu included "day off".
+   > **解析**：本题在单元主题情境中复习表达 day off。
+
+3. **中文**：在餐桌旁，我们谈到了“lift”。  
+   **英文**：At the table, we talked about "lift".
+   > **解析**：本题在单元主题情境中复习表达 lift。
+
+4. **中文**：厨师提到了“pea”。  
+   **英文**：The cook mentioned "pea".
+   > **解析**：本题在单元主题情境中复习表达 pea。
+
+5. **中文**：晚餐我点了“roll”。  
+   **英文**：I ordered "roll" for dinner.
+   > **解析**：本题在单元主题情境中复习表达 roll。
+
+6. **中文**：我的朋友选择了“shrimp”。  
+   **英文**：My friend chose "shrimp".
+   > **解析**：本题在单元主题情境中复习表达 shrimp。
+
+7. **中文**：服务员重复了“which”。  
+   **英文**：The waiter repeated "which".
+   > **解析**：本题在单元主题情境中复习表达 which。
+
+8. **中文**：我们分享了一个关于“cabbage”的故事。  
+   **英文**：We shared a story about "cabbage".
+   > **解析**：本题在单元主题情境中复习表达 cabbage。
+
+9. **中文**：饭后，我记住了“in my opinion”。  
+   **英文**：After the meal, I remembered "in my opinion".
+   > **解析**：本题在单元主题情境中复习表达 in my opinion。
+
+10. **中文**：那顿饭以“look like”收尾。  
+   **英文**：That meal ended with "look like".
+   > **解析**：本题在单元主题情境中复习表达 look like。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the restaurant, I asked about "although".
+   > **中文**：在餐厅里，我询问了“although”。
+2. The menu included "day off".
+   > **中文**：菜单上有“day off”。
+3. At the table, we talked about "lift".
+   > **中文**：在餐桌旁，我们谈到了“lift”。
+4. The cook mentioned "pea".
+   > **中文**：厨师提到了“pea”。
+5. I ordered "roll" for dinner.
+   > **中文**：晚餐我点了“roll”。
+6. My friend chose "shrimp".
+   > **中文**：我的朋友选择了“shrimp”。
+7. The waiter repeated "which".
+   > **中文**：服务员重复了“which”。
+8. We shared a story about "cabbage".
+   > **中文**：我们分享了一个关于“cabbage”的故事。
+9. After the meal, I remembered "in my opinion".
+   > **中文**：饭后，我记住了“in my opinion”。
+10. That meal ended with "look like".
+   > **中文**：那顿饭以“look like”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the restaurant, I asked about "`____`".
+
+- [x] although
+- [ ] pea
+- [ ] which
+
+> **解析**：本题在单元主题情境中复习表达 although。
+
+### 2
+
+The menu included "`____`".
+
+- [x] day off
+- [ ] roll
+- [ ] cabbage
+
+> **解析**：本题在单元主题情境中复习表达 day off。
+
+### 3
+
+At the table, we talked about "`____`".
+
+- [x] lift
+- [ ] shrimp
+- [ ] in my opinion
+
+> **解析**：本题在单元主题情境中复习表达 lift。
+
+### 4
+
+The cook mentioned "`____`".
+
+- [x] pea
+- [ ] which
+- [ ] look like
+
+> **解析**：本题在单元主题情境中复习表达 pea。
+
+### 5
+
+I ordered "`____`" for dinner.
+
+- [x] roll
+- [ ] cabbage
+- [ ] although
+
+> **解析**：本题在单元主题情境中复习表达 roll。
+
+### 6
+
+My friend chose "`____`".
+
+- [x] shrimp
+- [ ] in my opinion
+- [ ] day off
+
+> **解析**：本题在单元主题情境中复习表达 shrimp。
+
+### 7
+
+The waiter repeated "`____`".
+
+- [x] which
+- [ ] look like
+- [ ] lift
+
+> **解析**：本题在单元主题情境中复习表达 which。
+
+### 8
+
+We shared a story about "`____`".
+
+- [x] cabbage
+- [ ] although
+- [ ] pea
+
+> **解析**：本题在单元主题情境中复习表达 cabbage。
+
+### 9
+
+After the meal, I remembered "`____`".
+
+- [x] in my opinion
+- [ ] day off
+- [ ] roll
+
+> **解析**：本题在单元主题情境中复习表达 in my opinion。
+
+### 10
+
+That meal ended with "`____`".
+
+- [x] look like
+- [ ] lift
+- [ ] shrimp
+
+> **解析**：本题在单元主题情境中复习表达 look like。
+
+</quiz-cloze>

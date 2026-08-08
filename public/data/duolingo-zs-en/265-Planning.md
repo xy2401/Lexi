@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 I'd say, agree with, any longer, appreciation, catering, committee, compromise, fall through, for me to, for nothing, hear me out, ideal, in the end, lobster, mess up, must I, seating, suggestion that we, that we, theme, tricky, unpopular, venue, volunteer, waste
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -64,3 +69,193 @@ hear me out（听我说完）、I'd say（我觉得）、suggestion that we（�
 
 - **agree with** — "同意、赞同"。I agree with the theme idea. / I don't agree with wasting money。比 agree to（同意做某事）更强调"认同观点"。注意 with 后接人或观点。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“I'd say”。  
+   **英文**：In this situation, I heard "I'd say".
+   > **解析**：本题在单元主题情境中复习表达 I'd say。
+
+2. **中文**：同伴解释了“catering”。  
+   **英文**：My partner explained "catering".
+   > **解析**：本题在单元主题情境中复习表达 catering。
+
+3. **中文**：我们一起谈到了“fall through”。  
+   **英文**：We talked about "fall through" together.
+   > **解析**：本题在单元主题情境中复习表达 fall through。
+
+4. **中文**：我记下了“ideal”。  
+   **英文**：I wrote down "ideal".
+   > **解析**：本题在单元主题情境中复习表达 ideal。
+
+5. **中文**：例句中包含“must I”。  
+   **英文**：The example included "must I".
+   > **解析**：本题在单元主题情境中复习表达 must I。
+
+6. **中文**：我询问了“that we”。  
+   **英文**：I asked about "that we".
+   > **解析**：本题在单元主题情境中复习表达 that we。
+
+7. **中文**：我们在句子中用到了“venue”。  
+   **英文**：We used "venue" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 venue。
+
+8. **中文**：朋友重复了“agree with”。  
+   **英文**：My friend repeated "agree with".
+   > **解析**：本题在单元主题情境中复习表达 agree with。
+
+9. **中文**：后来，我记住了“committee”。  
+   **英文**：Later, I remembered "committee".
+   > **解析**：本题在单元主题情境中复习表达 committee。
+
+10. **中文**：这个小故事以“for nothing”收尾。  
+   **英文**：The short story ended with "for nothing".
+   > **解析**：本题在单元主题情境中复习表达 for nothing。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "I'd say".
+   > **中文**：在这个情境中，我听到了“I'd say”。
+2. My partner explained "catering".
+   > **中文**：同伴解释了“catering”。
+3. We talked about "fall through" together.
+   > **中文**：我们一起谈到了“fall through”。
+4. I wrote down "ideal".
+   > **中文**：我记下了“ideal”。
+5. The example included "must I".
+   > **中文**：例句中包含“must I”。
+6. I asked about "that we".
+   > **中文**：我询问了“that we”。
+7. We used "venue" in a sentence.
+   > **中文**：我们在句子中用到了“venue”。
+8. My friend repeated "agree with".
+   > **中文**：朋友重复了“agree with”。
+9. Later, I remembered "committee".
+   > **中文**：后来，我记住了“committee”。
+10. The short story ended with "for nothing".
+   > **中文**：这个小故事以“for nothing”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] I'd say
+- [ ] ideal
+- [ ] venue
+
+> **解析**：本题在单元主题情境中复习表达 I'd say。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] catering
+- [ ] must I
+- [ ] agree with
+
+> **解析**：本题在单元主题情境中复习表达 catering。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] fall through
+- [ ] that we
+- [ ] committee
+
+> **解析**：本题在单元主题情境中复习表达 fall through。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] ideal
+- [ ] venue
+- [ ] for nothing
+
+> **解析**：本题在单元主题情境中复习表达 ideal。
+
+### 5
+
+The example included "`____`".
+
+- [x] must I
+- [ ] agree with
+- [ ] I'd say
+
+> **解析**：本题在单元主题情境中复习表达 must I。
+
+### 6
+
+I asked about "`____`".
+
+- [x] that we
+- [ ] committee
+- [ ] catering
+
+> **解析**：本题在单元主题情境中复习表达 that we。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] venue
+- [ ] for nothing
+- [ ] fall through
+
+> **解析**：本题在单元主题情境中复习表达 venue。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] agree with
+- [ ] I'd say
+- [ ] ideal
+
+> **解析**：本题在单元主题情境中复习表达 agree with。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] committee
+- [ ] catering
+- [ ] must I
+
+> **解析**：本题在单元主题情境中复习表达 committee。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] for nothing
+- [ ] fall through
+- [ ] that we
+
+> **解析**：本题在单元主题情境中复习表达 for nothing。
+
+</quiz-cloze>

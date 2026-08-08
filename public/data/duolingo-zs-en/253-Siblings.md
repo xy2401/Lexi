@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 a thing, big deal, bound to, bump into, call, chew, feel bad about, go ahead, gum, hear, hometown, it wasn't me, keychain, microwave, my apologies, raise, rip, see, see through, tell on, tolerate, tons of, vanish, what in the world
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -58,3 +63,193 @@ tell on（告状）、see through（看穿）、it wasn't me（不是我）是�
 
 - **a thing** — 本单元中可能出现在 It's a thing（这是常事）或 not a thing（什么都没有）中。a thing 在口语中很灵活：It's not a big thing. / She made a thing out of it.
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“a thing”。  
+   **英文**：At home, we talked about "a thing".
+   > **解析**：本题在单元主题情境中复习表达 a thing。
+
+2. **中文**：家人提到了“call”。  
+   **英文**：My family mentioned "call".
+   > **解析**：本题在单元主题情境中复习表达 call。
+
+3. **中文**：在房间里，我注意到了“go ahead”。  
+   **英文**：In the room, I noticed "go ahead".
+   > **解析**：本题在单元主题情境中复习表达 go ahead。
+
+4. **中文**：我们在家里用到了“it wasn't me”。  
+   **英文**：We used "it wasn't me" at home.
+   > **解析**：本题在单元主题情境中复习表达 it wasn't me。
+
+5. **中文**：邻居询问了“my apologies”。  
+   **英文**：My neighbor asked about "my apologies".
+   > **解析**：本题在单元主题情境中复习表达 my apologies。
+
+6. **中文**：我在门边写下了“see through”。  
+   **英文**：I wrote down "see through" by the door.
+   > **解析**：本题在单元主题情境中复习表达 see through。
+
+7. **中文**：晚饭后，我们重复了“tons of”。  
+   **英文**：After dinner, we repeated "tons of".
+   > **解析**：本题在单元主题情境中复习表达 tons of。
+
+8. **中文**：家庭故事里包含“big deal”。  
+   **英文**：The family story included "big deal".
+   > **解析**：本题在单元主题情境中复习表达 big deal。
+
+9. **中文**：睡前，我记住了“chew”。  
+   **英文**：Before bed, I remembered "chew".
+   > **解析**：本题在单元主题情境中复习表达 chew。
+
+10. **中文**：那个夜晚以“hear”收尾。  
+   **英文**：That evening ended with "hear".
+   > **解析**：本题在单元主题情境中复习表达 hear。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "a thing".
+   > **中文**：在家里，我们谈到了“a thing”。
+2. My family mentioned "call".
+   > **中文**：家人提到了“call”。
+3. In the room, I noticed "go ahead".
+   > **中文**：在房间里，我注意到了“go ahead”。
+4. We used "it wasn't me" at home.
+   > **中文**：我们在家里用到了“it wasn't me”。
+5. My neighbor asked about "my apologies".
+   > **中文**：邻居询问了“my apologies”。
+6. I wrote down "see through" by the door.
+   > **中文**：我在门边写下了“see through”。
+7. After dinner, we repeated "tons of".
+   > **中文**：晚饭后，我们重复了“tons of”。
+8. The family story included "big deal".
+   > **中文**：家庭故事里包含“big deal”。
+9. Before bed, I remembered "chew".
+   > **中文**：睡前，我记住了“chew”。
+10. That evening ended with "hear".
+   > **中文**：那个夜晚以“hear”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] a thing
+- [ ] it wasn't me
+- [ ] tons of
+
+> **解析**：本题在单元主题情境中复习表达 a thing。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] call
+- [ ] my apologies
+- [ ] big deal
+
+> **解析**：本题在单元主题情境中复习表达 call。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] go ahead
+- [ ] see through
+- [ ] chew
+
+> **解析**：本题在单元主题情境中复习表达 go ahead。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] it wasn't me
+- [ ] tons of
+- [ ] hear
+
+> **解析**：本题在单元主题情境中复习表达 it wasn't me。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] my apologies
+- [ ] big deal
+- [ ] a thing
+
+> **解析**：本题在单元主题情境中复习表达 my apologies。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] see through
+- [ ] chew
+- [ ] call
+
+> **解析**：本题在单元主题情境中复习表达 see through。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] tons of
+- [ ] hear
+- [ ] go ahead
+
+> **解析**：本题在单元主题情境中复习表达 tons of。
+
+### 8
+
+The family story included "`____`".
+
+- [x] big deal
+- [ ] a thing
+- [ ] it wasn't me
+
+> **解析**：本题在单元主题情境中复习表达 big deal。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] chew
+- [ ] call
+- [ ] my apologies
+
+> **解析**：本题在单元主题情境中复习表达 chew。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] hear
+- [ ] go ahead
+- [ ] see through
+
+> **解析**：本题在单元主题情境中复习表达 hear。
+
+</quiz-cloze>

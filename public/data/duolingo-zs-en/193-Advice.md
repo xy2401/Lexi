@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 athletic, clap, curriculum, dangerously, fancy, foreigner, goalkeeper, if he were, if she were, if they were, if we were, if you were, lonely, mean, obviously, permission, permit, position, route, second-hand, style, that reminds me
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -31,3 +36,194 @@ athletic, clap, curriculum, dangerously, fancy, foreigner, goalkeeper, if he wer
 - **fancy / second-hand / style** — fancy = 花哨的、高档的（a fancy restaurant）。second-hand = 二手的（second-hand clothes）。style = 风格，搭配 in style（有格调地）、my style。三者都可以描述物品或生活方式。
 
 - **foreigner / dangerously / route** — foreigner = 外国人（来自 foreign + -er）。注意有些语境下 foreigner 略显生硬，可用 people from other countries 替代。dangerously = 危险地，搭配 drive dangerously。route = 路线，注意美式读 /ruːt/，英式可读 /raʊt/。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：课堂上，老师介绍了“athletic”。  
+   **英文**：In class, the teacher introduced "athletic".
+   > **解析**：本题在单元主题情境中复习表达 athletic。
+
+2. **中文**：我把“dangerously”写进笔记本。  
+   **英文**：I wrote "dangerously" in my notebook.
+   > **解析**：本题在单元主题情境中复习表达 dangerously。
+
+3. **中文**：同学解释了“if he were”。  
+   **英文**：My classmate explained "if he were".
+   > **解析**：本题在单元主题情境中复习表达 if he were。
+
+4. **中文**：我们一起练习了“if we were”。  
+   **英文**：We practiced "if we were" together.
+   > **解析**：本题在单元主题情境中复习表达 if we were。
+
+5. **中文**：作业里包含“mean”。  
+   **英文**：The homework included "mean".
+   > **解析**：本题在单元主题情境中复习表达 mean。
+
+6. **中文**：我向老师询问了“position”。  
+   **英文**：I asked the teacher about "position".
+   > **解析**：本题在单元主题情境中复习表达 position。
+
+7. **中文**：上课时，我听到了“style”。  
+   **英文**：During the lesson, I heard "style".
+   > **解析**：本题在单元主题情境中复习表达 style。
+
+8. **中文**：学习伙伴记住了“clap”。  
+   **英文**：My study partner remembered "clap".
+   > **解析**：本题在单元主题情境中复习表达 clap。
+
+9. **中文**：我们在例句中用到了“foreigner”。  
+   **英文**：We used "foreigner" in an example.
+   > **解析**：本题在单元主题情境中复习表达 foreigner。
+
+10. **中文**：下课后，我复习了“if she were”。  
+   **英文**：After class, I reviewed "if she were".
+   > **解析**：本题在单元主题情境中复习表达 if she were。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In class, the teacher introduced "athletic".
+   > **中文**：课堂上，老师介绍了“athletic”。
+2. I wrote "dangerously" in my notebook.
+   > **中文**：我把“dangerously”写进笔记本。
+3. My classmate explained "if he were".
+   > **中文**：同学解释了“if he were”。
+4. We practiced "if we were" together.
+   > **中文**：我们一起练习了“if we were”。
+5. The homework included "mean".
+   > **中文**：作业里包含“mean”。
+6. I asked the teacher about "position".
+   > **中文**：我向老师询问了“position”。
+7. During the lesson, I heard "style".
+   > **中文**：上课时，我听到了“style”。
+8. My study partner remembered "clap".
+   > **中文**：学习伙伴记住了“clap”。
+9. We used "foreigner" in an example.
+   > **中文**：我们在例句中用到了“foreigner”。
+10. After class, I reviewed "if she were".
+   > **中文**：下课后，我复习了“if she were”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In class, the teacher introduced "`____`".
+
+- [x] athletic
+- [ ] if we were
+- [ ] style
+
+> **解析**：本题在单元主题情境中复习表达 athletic。
+
+### 2
+
+I wrote "`____`" in my notebook.
+
+- [x] dangerously
+- [ ] mean
+- [ ] clap
+
+> **解析**：本题在单元主题情境中复习表达 dangerously。
+
+### 3
+
+My classmate explained "`____`".
+
+- [x] if he were
+- [ ] position
+- [ ] foreigner
+
+> **解析**：本题在单元主题情境中复习表达 if he were。
+
+### 4
+
+We practiced "`____`" together.
+
+- [x] if we were
+- [ ] style
+- [ ] if she were
+
+> **解析**：本题在单元主题情境中复习表达 if we were。
+
+### 5
+
+The homework included "`____`".
+
+- [x] mean
+- [ ] clap
+- [ ] athletic
+
+> **解析**：本题在单元主题情境中复习表达 mean。
+
+### 6
+
+I asked the teacher about "`____`".
+
+- [x] position
+- [ ] foreigner
+- [ ] dangerously
+
+> **解析**：本题在单元主题情境中复习表达 position。
+
+### 7
+
+During the lesson, I heard "`____`".
+
+- [x] style
+- [ ] if she were
+- [ ] if he were
+
+> **解析**：本题在单元主题情境中复习表达 style。
+
+### 8
+
+My study partner remembered "`____`".
+
+- [x] clap
+- [ ] athletic
+- [ ] if we were
+
+> **解析**：本题在单元主题情境中复习表达 clap。
+
+### 9
+
+We used "`____`" in an example.
+
+- [x] foreigner
+- [ ] dangerously
+- [ ] mean
+
+> **解析**：本题在单元主题情境中复习表达 foreigner。
+
+### 10
+
+After class, I reviewed "`____`".
+
+- [x] if she were
+- [ ] if he were
+- [ ] position
+
+> **解析**：本题在单元主题情境中复习表达 if she were。
+
+</quiz-cloze>

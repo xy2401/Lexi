@@ -1,11 +1,12 @@
 <script setup lang="ts">
 /**
- * WordTooltip - 轻量悬浮层
- * 展示音标、简明翻译、核心时态变形
+ * WordTooltip - 完整词条卡片
+ * 同时展示音标、中文翻译、英文释义、词性和词形变化
  */
 import { computed } from 'vue'
 import { parseExchange, EXCHANGE_LABELS } from '../lib/morphology'
 import type { WordEntry } from '../lib/db'
+import DictionaryTags from './DictionaryTags.vue'
 
 const props = defineProps<{
   word: string
@@ -16,7 +17,7 @@ const props = defineProps<{
 
 const emit = defineEmits<{
   close: []
-  'open-drawer': [word: string]
+  speak: [word: string]
 }>()
 
 // 解析变形数据
@@ -37,9 +38,14 @@ const translations = computed(() => {
   return props.data.translation.split('\\n').filter(t => t.trim()).slice(0, 4)
 })
 
+const definitions = computed(() => {
+  if (!props.data?.definition) return []
+  return props.data.definition.split(/\\n|\n/).filter(line => line.trim())
+})
+
 // 定位样式
 const tooltipStyle = computed(() => ({
-  left: `${Math.min(props.position.x, window.innerWidth - 320)}px`,
+  left: `${Math.max(8, Math.min(props.position.x, window.innerWidth - 408))}px`,
   top: `${props.position.y + 12}px`,
 }))
 </script>
@@ -49,9 +55,20 @@ const tooltipStyle = computed(() => ({
     <div class="tooltip-overlay" @click.self="emit('close')">
       <div class="tooltip-card" :style="tooltipStyle">
         <div class="tooltip-header">
-          <span class="word">{{ word }}</span>
-          <span class="phonetic" v-if="data?.phonetic">/{{ data.phonetic }}/</span>
-          <button class="close-btn" @click="emit('close')">&times;</button>
+          <div
+            class="word-speech-row"
+            role="button"
+            tabindex="0"
+            :aria-label="`朗读 ${word}`"
+            @click="emit('speak', word)"
+            @keydown.enter="emit('speak', word)"
+            @keydown.space.prevent="emit('speak', word)"
+          >
+            <span class="word">{{ word }}</span>
+            <span class="speaker-icon" aria-hidden="true">🔊</span>
+            <span class="phonetic" v-if="data?.phonetic">/{{ data.phonetic }}/</span>
+          </div>
+          <button class="close-btn" aria-label="关闭词条" @click.stop="emit('close')">&times;</button>
         </div>
 
         <!-- 加载中 -->
@@ -65,6 +82,16 @@ const tooltipStyle = computed(() => ({
             <p v-for="(t, i) in translations" :key="i">{{ t }}</p>
           </div>
 
+          <!-- 同一词条中的英文释义 -->
+          <div class="section definitions" v-if="definitions.length">
+            <h4>Definition</h4>
+            <ol>
+              <li v-for="(definition, i) in definitions" :key="i">{{ definition }}</li>
+            </ol>
+          </div>
+
+          <p class="section pos" v-if="data.pos">{{ data.pos }}</p>
+
           <!-- 时态变形 -->
           <div class="section forms" v-if="forms.length">
             <span class="form-tag" v-for="f in forms" :key="f.label">
@@ -73,18 +100,13 @@ const tooltipStyle = computed(() => ({
           </div>
 
           <!-- 标签 -->
-          <div class="section tags" v-if="data.tags">
-            <span class="tag">{{ data.tags }}</span>
-          </div>
+          <DictionaryTags class="section" v-if="data.tags" :tags="data.tags" />
         </div>
 
         <div class="tooltip-body" v-else>
           <p class="not-found">未找到该词条</p>
         </div>
 
-        <div class="tooltip-footer" v-if="data && !loading">
-          <button class="detail-btn" @click="emit('open-drawer', word)">展开详情</button>
-        </div>
       </div>
     </div>
   </Teleport>
@@ -99,7 +121,10 @@ const tooltipStyle = computed(() => ({
 
 .tooltip-card {
   position: fixed;
-  width: 300px;
+  width: 380px;
+  max-width: calc(100vw - 16px);
+  max-height: min(560px, calc(100vh - 24px));
+  overflow-y: auto;
   background: #fff;
   border-radius: 10px;
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
@@ -110,8 +135,24 @@ const tooltipStyle = computed(() => ({
 .tooltip-header {
   display: flex;
   align-items: baseline;
-  gap: 0.5rem;
   margin-bottom: 0.5rem;
+}
+
+.word-speech-row {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  margin: -0.25rem 0;
+  padding: 0.25rem 0.35rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.word-speech-row:hover,
+.word-speech-row:focus-visible {
+  background: #eef6fc;
+  outline: none;
 }
 
 .word {
@@ -149,6 +190,53 @@ const tooltipStyle = computed(() => ({
   color: #444;
 }
 
+.speaker-icon {
+  border: 0;
+  background: transparent;
+  padding: 0;
+  color: #3498db;
+  font-size: 0.95rem;
+  line-height: 1;
+  pointer-events: none;
+  transition: transform 0.15s;
+}
+
+.word-speech-row:hover .speaker-icon,
+.word-speech-row:focus-visible .speaker-icon {
+  transform: scale(1.12);
+}
+
+.definitions {
+  border-top: 1px solid #f0f0f0;
+  padding-top: 0.55rem;
+}
+
+.definitions h4 {
+  margin: 0 0 0.3rem;
+  color: #2c3e50;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.definitions ol {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.definitions li {
+  margin: 0.2rem 0;
+  color: #34495e;
+  font-size: 0.84rem;
+  line-height: 1.45;
+}
+
+.pos {
+  color: #7f8c8d;
+  font-size: 0.78rem;
+  font-style: italic;
+}
+
 .forms {
   display: flex;
   flex-wrap: wrap;
@@ -163,38 +251,9 @@ const tooltipStyle = computed(() => ({
   border-radius: 4px;
 }
 
-.tags .tag {
-  font-size: 0.75rem;
-  background: #fef9e7;
-  color: #f39c12;
-  padding: 0.15rem 0.4rem;
-  border-radius: 4px;
-}
-
 .not-found, .loading-text {
   font-size: 0.85rem;
   color: #999;
 }
 
-.tooltip-footer {
-  margin-top: 0.75rem;
-  border-top: 1px solid #f0f0f0;
-  padding-top: 0.5rem;
-}
-
-.detail-btn {
-  font-size: 0.8rem;
-  color: #3498db;
-  background: none;
-  border: 1px solid #3498db;
-  border-radius: 4px;
-  padding: 0.3rem 0.6rem;
-  cursor: pointer;
-  transition: all 0.15s;
-}
-
-.detail-btn:hover {
-  background: #3498db;
-  color: #fff;
-}
 </style>

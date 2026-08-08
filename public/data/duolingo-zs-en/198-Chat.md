@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 any, anyway, as much as, at the moment, cab, change the subject, either, even, fight, hand, hasn't, haven't, how to, i insist, insist, knock, miss, say goodbye to, say hi, so, wanted, watch out for, when's
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -31,3 +36,194 @@ any, anyway, as much as, at the moment, cab, change the subject, either, even, f
 - **as much as / at the moment / how to** — as much as = 和……一样多（I love you as much as before.）。at the moment = 此刻、现在（= right now）。how to = 如何（I don't know how to say it.）。
 
 - **hand / when's / any** — hand 在这里可能指"递"（Hand me that.）或"手"。when's = when is（When's the party?）。any 用于疑问和否定（Do you have any questions? / I don't have any.）。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：聚会上，我听到了“any”。  
+   **英文**：At the gathering, I heard "any".
+   > **解析**：本题在单元主题情境中复习表达 any。
+
+2. **中文**：朋友说了“at the moment”。  
+   **英文**：My friend said "at the moment".
+   > **解析**：本题在单元主题情境中复习表达 at the moment。
+
+3. **中文**：我们一起谈到了“even”。  
+   **英文**：We talked about "even" together.
+   > **解析**：本题在单元主题情境中复习表达 even。
+
+4. **中文**：有人向我解释了“hasn't”。  
+   **英文**：Someone explained "hasn't" to me.
+   > **解析**：本题在单元主题情境中复习表达 hasn't。
+
+5. **中文**：我用“i insist”作了回应。  
+   **英文**：I replied with "i insist".
+   > **解析**：本题在单元主题情境中复习表达 i insist。
+
+6. **中文**：对话中包含“say goodbye to”。  
+   **英文**：The conversation included "say goodbye to".
+   > **解析**：本题在单元主题情境中复习表达 say goodbye to。
+
+7. **中文**：同伴重复了“watch out for”。  
+   **英文**：My partner repeated "watch out for".
+   > **解析**：本题在单元主题情境中复习表达 watch out for。
+
+8. **中文**：我们聊到“anyway”时笑了。  
+   **英文**：We laughed about "anyway".
+   > **解析**：本题在单元主题情境中复习表达 anyway。
+
+9. **中文**：离开前，我记住了“change the subject”。  
+   **英文**：Before leaving, I remembered "change the subject".
+   > **解析**：本题在单元主题情境中复习表达 change the subject。
+
+10. **中文**：那段对话以“fight”收尾。  
+   **英文**：That conversation ended with "fight".
+   > **解析**：本题在单元主题情境中复习表达 fight。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the gathering, I heard "any".
+   > **中文**：聚会上，我听到了“any”。
+2. My friend said "at the moment".
+   > **中文**：朋友说了“at the moment”。
+3. We talked about "even" together.
+   > **中文**：我们一起谈到了“even”。
+4. Someone explained "hasn't" to me.
+   > **中文**：有人向我解释了“hasn't”。
+5. I replied with "i insist".
+   > **中文**：我用“i insist”作了回应。
+6. The conversation included "say goodbye to".
+   > **中文**：对话中包含“say goodbye to”。
+7. My partner repeated "watch out for".
+   > **中文**：同伴重复了“watch out for”。
+8. We laughed about "anyway".
+   > **中文**：我们聊到“anyway”时笑了。
+9. Before leaving, I remembered "change the subject".
+   > **中文**：离开前，我记住了“change the subject”。
+10. That conversation ended with "fight".
+   > **中文**：那段对话以“fight”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the gathering, I heard "`____`".
+
+- [x] any
+- [ ] hasn't
+- [ ] watch out for
+
+> **解析**：本题在单元主题情境中复习表达 any。
+
+### 2
+
+My friend said "`____`".
+
+- [x] at the moment
+- [ ] i insist
+- [ ] anyway
+
+> **解析**：本题在单元主题情境中复习表达 at the moment。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] even
+- [ ] say goodbye to
+- [ ] change the subject
+
+> **解析**：本题在单元主题情境中复习表达 even。
+
+### 4
+
+Someone explained "`____`" to me.
+
+- [x] hasn't
+- [ ] watch out for
+- [ ] fight
+
+> **解析**：本题在单元主题情境中复习表达 hasn't。
+
+### 5
+
+I replied with "`____`".
+
+- [x] i insist
+- [ ] anyway
+- [ ] any
+
+> **解析**：本题在单元主题情境中复习表达 i insist。
+
+### 6
+
+The conversation included "`____`".
+
+- [x] say goodbye to
+- [ ] change the subject
+- [ ] at the moment
+
+> **解析**：本题在单元主题情境中复习表达 say goodbye to。
+
+### 7
+
+My partner repeated "`____`".
+
+- [x] watch out for
+- [ ] fight
+- [ ] even
+
+> **解析**：本题在单元主题情境中复习表达 watch out for。
+
+### 8
+
+We laughed about "`____`".
+
+- [x] anyway
+- [ ] any
+- [ ] hasn't
+
+> **解析**：本题在单元主题情境中复习表达 anyway。
+
+### 9
+
+Before leaving, I remembered "`____`".
+
+- [x] change the subject
+- [ ] at the moment
+- [ ] i insist
+
+> **解析**：本题在单元主题情境中复习表达 change the subject。
+
+### 10
+
+That conversation ended with "`____`".
+
+- [x] fight
+- [ ] even
+- [ ] say goodbye to
+
+> **解析**：本题在单元主题情境中复习表达 fight。
+
+</quiz-cloze>

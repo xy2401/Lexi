@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 anticipated, australian, brazilian, break, bronze, close, determination, expected to, following, gather, in a few short, inspiring, looking ahead to, medalist, national anthem, now that, olympic, on the horizon, opening ceremony, place, podium, qualify, set to, track and field, ultimate, upcoming
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -43,3 +48,194 @@ anticipated, australian, brazilian, break, bronze, close, determination, expecte
 - **in a few short** — 在短短……之内。搭配：in a few short weeks / in a few short months / in a few short years。例句：In a few short months, she went from unknown to Olympic medalist. short 在这里强调"时间短得惊人"，带有感叹语气。
 
 - **australian / brazilian** — 澳大利亚的/巴西的。注意国籍形容词首字母大写：an Australian swimmer / a Brazilian runner。做名词时指人：an Australian / the Brazilians。在奥运语境中常用于介绍运动员国籍。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“anticipated”。  
+   **英文**：In this situation, I heard "anticipated".
+   > **解析**：本题在单元主题情境中复习表达 anticipated。
+
+2. **中文**：同伴解释了“bronze”。  
+   **英文**：My partner explained "bronze".
+   > **解析**：本题在单元主题情境中复习表达 bronze。
+
+3. **中文**：我们一起谈到了“following”。  
+   **英文**：We talked about "following" together.
+   > **解析**：本题在单元主题情境中复习表达 following。
+
+4. **中文**：我记下了“inspiring”。  
+   **英文**：I wrote down "inspiring".
+   > **解析**：本题在单元主题情境中复习表达 inspiring。
+
+5. **中文**：例句中包含“now that”。  
+   **英文**：The example included "now that".
+   > **解析**：本题在单元主题情境中复习表达 now that。
+
+6. **中文**：我询问了“place”。  
+   **英文**：I asked about "place".
+   > **解析**：本题在单元主题情境中复习表达 place。
+
+7. **中文**：我们在句子中用到了“track and field”。  
+   **英文**：We used "track and field" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 track and field。
+
+8. **中文**：朋友重复了“australian”。  
+   **英文**：My friend repeated "australian".
+   > **解析**：本题在单元主题情境中复习表达 australian。
+
+9. **中文**：后来，我记住了“close”。  
+   **英文**：Later, I remembered "close".
+   > **解析**：本题在单元主题情境中复习表达 close。
+
+10. **中文**：这个小故事以“gather”收尾。  
+   **英文**：The short story ended with "gather".
+   > **解析**：本题在单元主题情境中复习表达 gather。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "anticipated".
+   > **中文**：在这个情境中，我听到了“anticipated”。
+2. My partner explained "bronze".
+   > **中文**：同伴解释了“bronze”。
+3. We talked about "following" together.
+   > **中文**：我们一起谈到了“following”。
+4. I wrote down "inspiring".
+   > **中文**：我记下了“inspiring”。
+5. The example included "now that".
+   > **中文**：例句中包含“now that”。
+6. I asked about "place".
+   > **中文**：我询问了“place”。
+7. We used "track and field" in a sentence.
+   > **中文**：我们在句子中用到了“track and field”。
+8. My friend repeated "australian".
+   > **中文**：朋友重复了“australian”。
+9. Later, I remembered "close".
+   > **中文**：后来，我记住了“close”。
+10. The short story ended with "gather".
+   > **中文**：这个小故事以“gather”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] anticipated
+- [ ] inspiring
+- [ ] track and field
+
+> **解析**：本题在单元主题情境中复习表达 anticipated。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] bronze
+- [ ] now that
+- [ ] australian
+
+> **解析**：本题在单元主题情境中复习表达 bronze。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] following
+- [ ] place
+- [ ] close
+
+> **解析**：本题在单元主题情境中复习表达 following。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] inspiring
+- [ ] track and field
+- [ ] gather
+
+> **解析**：本题在单元主题情境中复习表达 inspiring。
+
+### 5
+
+The example included "`____`".
+
+- [x] now that
+- [ ] australian
+- [ ] anticipated
+
+> **解析**：本题在单元主题情境中复习表达 now that。
+
+### 6
+
+I asked about "`____`".
+
+- [x] place
+- [ ] close
+- [ ] bronze
+
+> **解析**：本题在单元主题情境中复习表达 place。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] track and field
+- [ ] gather
+- [ ] following
+
+> **解析**：本题在单元主题情境中复习表达 track and field。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] australian
+- [ ] anticipated
+- [ ] inspiring
+
+> **解析**：本题在单元主题情境中复习表达 australian。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] close
+- [ ] bronze
+- [ ] now that
+
+> **解析**：本题在单元主题情境中复习表达 close。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] gather
+- [ ] following
+- [ ] place
+
+> **解析**：本题在单元主题情境中复习表达 gather。
+
+</quiz-cloze>

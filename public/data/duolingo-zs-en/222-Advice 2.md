@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 aware, cheat on, childish, concerned, could, could have, could've, couldn't have, criticize, emotional, entire, get the feeling, have no clue, ignore, keep, leave, let's not, liar, misunderstanding, offend, should, should have, should've, shouldn't have, temper, total
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ aware, cheat on, childish, concerned, could, could have, could've, couldn't have
 - **aware / concerned** — aware 是意识到的，concerned 是担心的。搭配：be aware of, be concerned about。I'm aware of the problem. / I'm concerned about his temper. 注意 aware 偏"知道"，concerned 偏"担心"。
 
 - **liar** — 说谎者。搭配：a total liar, call sb a liar。构词：lie（说谎）+ -ar（人）。注意拼写：liar 不是 × lier。动词 lie 的过去式是 lied（说谎），不要和 lay（躺下）混淆。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“aware”。  
+   **英文**：In this situation, I heard "aware".
+   > **解析**：本题在单元主题情境中复习表达 aware。
+
+2. **中文**：同伴解释了“could”。  
+   **英文**：My partner explained "could".
+   > **解析**：本题在单元主题情境中复习表达 could。
+
+3. **中文**：我们一起谈到了“criticize”。  
+   **英文**：We talked about "criticize" together.
+   > **解析**：本题在单元主题情境中复习表达 criticize。
+
+4. **中文**：我记下了“get the feeling”。  
+   **英文**：I wrote down "get the feeling".
+   > **解析**：本题在单元主题情境中复习表达 get the feeling。
+
+5. **中文**：例句中包含“leave”。  
+   **英文**：The example included "leave".
+   > **解析**：本题在单元主题情境中复习表达 leave。
+
+6. **中文**：我询问了“offend”。  
+   **英文**：I asked about "offend".
+   > **解析**：本题在单元主题情境中复习表达 offend。
+
+7. **中文**：我们在句子中用到了“shouldn't have”。  
+   **英文**：We used "shouldn't have" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 shouldn't have。
+
+8. **中文**：朋友重复了“cheat on”。  
+   **英文**：My friend repeated "cheat on".
+   > **解析**：本题在单元主题情境中复习表达 cheat on。
+
+9. **中文**：后来，我记住了“could have”。  
+   **英文**：Later, I remembered "could have".
+   > **解析**：本题在单元主题情境中复习表达 could have。
+
+10. **中文**：这个小故事以“emotional”收尾。  
+   **英文**：The short story ended with "emotional".
+   > **解析**：本题在单元主题情境中复习表达 emotional。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "aware".
+   > **中文**：在这个情境中，我听到了“aware”。
+2. My partner explained "could".
+   > **中文**：同伴解释了“could”。
+3. We talked about "criticize" together.
+   > **中文**：我们一起谈到了“criticize”。
+4. I wrote down "get the feeling".
+   > **中文**：我记下了“get the feeling”。
+5. The example included "leave".
+   > **中文**：例句中包含“leave”。
+6. I asked about "offend".
+   > **中文**：我询问了“offend”。
+7. We used "shouldn't have" in a sentence.
+   > **中文**：我们在句子中用到了“shouldn't have”。
+8. My friend repeated "cheat on".
+   > **中文**：朋友重复了“cheat on”。
+9. Later, I remembered "could have".
+   > **中文**：后来，我记住了“could have”。
+10. The short story ended with "emotional".
+   > **中文**：这个小故事以“emotional”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] aware
+- [ ] get the feeling
+- [ ] shouldn't have
+
+> **解析**：本题在单元主题情境中复习表达 aware。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] could
+- [ ] leave
+- [ ] cheat on
+
+> **解析**：本题在单元主题情境中复习表达 could。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] criticize
+- [ ] offend
+- [ ] could have
+
+> **解析**：本题在单元主题情境中复习表达 criticize。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] get the feeling
+- [ ] shouldn't have
+- [ ] emotional
+
+> **解析**：本题在单元主题情境中复习表达 get the feeling。
+
+### 5
+
+The example included "`____`".
+
+- [x] leave
+- [ ] cheat on
+- [ ] aware
+
+> **解析**：本题在单元主题情境中复习表达 leave。
+
+### 6
+
+I asked about "`____`".
+
+- [x] offend
+- [ ] could have
+- [ ] could
+
+> **解析**：本题在单元主题情境中复习表达 offend。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] shouldn't have
+- [ ] emotional
+- [ ] criticize
+
+> **解析**：本题在单元主题情境中复习表达 shouldn't have。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] cheat on
+- [ ] aware
+- [ ] get the feeling
+
+> **解析**：本题在单元主题情境中复习表达 cheat on。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] could have
+- [ ] could
+- [ ] leave
+
+> **解析**：本题在单元主题情境中复习表达 could have。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] emotional
+- [ ] criticize
+- [ ] offend
+
+> **解析**：本题在单元主题情境中复习表达 emotional。
+
+</quiz-cloze>

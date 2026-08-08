@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 absent, aloud, apply, correct, correction, credit, elementary school, final exam, handwriting, literature, material, midterm, paragraph, participate, participation, preparation, prepare, pronounce, pronunciation, reapply, report card, reread, rewrite, school, smart
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -31,3 +36,194 @@ absent, aloud, apply, correct, correction, credit, elementary school, final exam
 - **apply / elementary school / school** — apply = 申请：apply to a school / apply for a scholarship. elementary school = 小学（美式，英式：primary school）。school 泛指学校。
 
 - **correct / correction** — correct 可作形容词（正确的）或动词（纠正）：That's correct. / Please correct my mistakes. correction = 修改/纠正（名词）：make corrections.
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：课堂上，老师介绍了“absent”。  
+   **英文**：In class, the teacher introduced "absent".
+   > **解析**：本题在单元主题情境中复习表达 absent。
+
+2. **中文**：我把“correction”写进笔记本。  
+   **英文**：I wrote "correction" in my notebook.
+   > **解析**：本题在单元主题情境中复习表达 correction。
+
+3. **中文**：同学解释了“final exam”。  
+   **英文**：My classmate explained "final exam".
+   > **解析**：本题在单元主题情境中复习表达 final exam。
+
+4. **中文**：我们一起练习了“midterm”。  
+   **英文**：We practiced "midterm" together.
+   > **解析**：本题在单元主题情境中复习表达 midterm。
+
+5. **中文**：作业里包含“preparation”。  
+   **英文**：The homework included "preparation".
+   > **解析**：本题在单元主题情境中复习表达 preparation。
+
+6. **中文**：我向老师询问了“pronunciation”。  
+   **英文**：I asked the teacher about "pronunciation".
+   > **解析**：本题在单元主题情境中复习表达 pronunciation。
+
+7. **中文**：上课时，我听到了“rewrite”。  
+   **英文**：During the lesson, I heard "rewrite".
+   > **解析**：本题在单元主题情境中复习表达 rewrite。
+
+8. **中文**：学习伙伴记住了“aloud”。  
+   **英文**：My study partner remembered "aloud".
+   > **解析**：本题在单元主题情境中复习表达 aloud。
+
+9. **中文**：我们在例句中用到了“credit”。  
+   **英文**：We used "credit" in an example.
+   > **解析**：本题在单元主题情境中复习表达 credit。
+
+10. **中文**：下课后，我复习了“literature”。  
+   **英文**：After class, I reviewed "literature".
+   > **解析**：本题在单元主题情境中复习表达 literature。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In class, the teacher introduced "absent".
+   > **中文**：课堂上，老师介绍了“absent”。
+2. I wrote "correction" in my notebook.
+   > **中文**：我把“correction”写进笔记本。
+3. My classmate explained "final exam".
+   > **中文**：同学解释了“final exam”。
+4. We practiced "midterm" together.
+   > **中文**：我们一起练习了“midterm”。
+5. The homework included "preparation".
+   > **中文**：作业里包含“preparation”。
+6. I asked the teacher about "pronunciation".
+   > **中文**：我向老师询问了“pronunciation”。
+7. During the lesson, I heard "rewrite".
+   > **中文**：上课时，我听到了“rewrite”。
+8. My study partner remembered "aloud".
+   > **中文**：学习伙伴记住了“aloud”。
+9. We used "credit" in an example.
+   > **中文**：我们在例句中用到了“credit”。
+10. After class, I reviewed "literature".
+   > **中文**：下课后，我复习了“literature”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In class, the teacher introduced "`____`".
+
+- [x] absent
+- [ ] midterm
+- [ ] rewrite
+
+> **解析**：本题在单元主题情境中复习表达 absent。
+
+### 2
+
+I wrote "`____`" in my notebook.
+
+- [x] correction
+- [ ] preparation
+- [ ] aloud
+
+> **解析**：本题在单元主题情境中复习表达 correction。
+
+### 3
+
+My classmate explained "`____`".
+
+- [x] final exam
+- [ ] pronunciation
+- [ ] credit
+
+> **解析**：本题在单元主题情境中复习表达 final exam。
+
+### 4
+
+We practiced "`____`" together.
+
+- [x] midterm
+- [ ] rewrite
+- [ ] literature
+
+> **解析**：本题在单元主题情境中复习表达 midterm。
+
+### 5
+
+The homework included "`____`".
+
+- [x] preparation
+- [ ] aloud
+- [ ] absent
+
+> **解析**：本题在单元主题情境中复习表达 preparation。
+
+### 6
+
+I asked the teacher about "`____`".
+
+- [x] pronunciation
+- [ ] credit
+- [ ] correction
+
+> **解析**：本题在单元主题情境中复习表达 pronunciation。
+
+### 7
+
+During the lesson, I heard "`____`".
+
+- [x] rewrite
+- [ ] literature
+- [ ] final exam
+
+> **解析**：本题在单元主题情境中复习表达 rewrite。
+
+### 8
+
+My study partner remembered "`____`".
+
+- [x] aloud
+- [ ] absent
+- [ ] midterm
+
+> **解析**：本题在单元主题情境中复习表达 aloud。
+
+### 9
+
+We used "`____`" in an example.
+
+- [x] credit
+- [ ] correction
+- [ ] preparation
+
+> **解析**：本题在单元主题情境中复习表达 credit。
+
+### 10
+
+After class, I reviewed "`____`".
+
+- [x] literature
+- [ ] final exam
+- [ ] pronunciation
+
+> **解析**：本题在单元主题情境中复习表达 literature。
+
+</quiz-cloze>

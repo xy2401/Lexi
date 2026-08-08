@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 advise, bless you, bone, catch, cut, disease, drug, drugstore, get, get sick, get worse, healthier, illness, medical, painful, pill, quit, seriously, sleep, sleepy, sneeze, test, unhealthy, worse
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ get sick / get worse 用 get 表示变化。advise sb to do 是"建议某人做"
 
 - **painful / get worse / seriously** — 疼痛 / 恶化 / 严重。搭配：extremely painful, getting worse, seriously concerned。例句：My back is painful. / The symptoms are getting worse. / I'm seriously worried about him. 注意 painful 形容事物（a painful wound），不说 I'm painful。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在诊所里，我听到了“advise”。  
+   **英文**：At the clinic, I heard "advise".
+   > **解析**：本题在单元主题情境中复习表达 advise。
+
+2. **中文**：医生解释了“cut”。  
+   **英文**：The doctor explained "cut".
+   > **解析**：本题在单元主题情境中复习表达 cut。
+
+3. **中文**：我们认真谈到了“drugstore”。  
+   **英文**：We talked about "drugstore" carefully.
+   > **解析**：本题在单元主题情境中复习表达 drugstore。
+
+4. **中文**：我把“healthier”写进健康笔记。  
+   **英文**：I wrote "healthier" in my health notes.
+   > **解析**：本题在单元主题情境中复习表达 healthier。
+
+5. **中文**：护士重复了“painful”。  
+   **英文**：The nurse repeated "painful".
+   > **解析**：本题在单元主题情境中复习表达 painful。
+
+6. **中文**：朋友询问了“sleep”。  
+   **英文**：My friend asked about "sleep".
+   > **解析**：本题在单元主题情境中复习表达 sleep。
+
+7. **中文**：建议中包含“test”。  
+   **英文**：The advice included "test".
+   > **解析**：本题在单元主题情境中复习表达 test。
+
+8. **中文**：就诊后，我记住了“bless you”。  
+   **英文**：After the visit, I remembered "bless you".
+   > **解析**：本题在单元主题情境中复习表达 bless you。
+
+9. **中文**：我们在对话中用到了“disease”。  
+   **英文**：We used "disease" in the conversation.
+   > **解析**：本题在单元主题情境中复习表达 disease。
+
+10. **中文**：那次健康交流以“get sick”收尾。  
+   **英文**：That health talk ended with "get sick".
+   > **解析**：本题在单元主题情境中复习表达 get sick。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the clinic, I heard "advise".
+   > **中文**：在诊所里，我听到了“advise”。
+2. The doctor explained "cut".
+   > **中文**：医生解释了“cut”。
+3. We talked about "drugstore" carefully.
+   > **中文**：我们认真谈到了“drugstore”。
+4. I wrote "healthier" in my health notes.
+   > **中文**：我把“healthier”写进健康笔记。
+5. The nurse repeated "painful".
+   > **中文**：护士重复了“painful”。
+6. My friend asked about "sleep".
+   > **中文**：朋友询问了“sleep”。
+7. The advice included "test".
+   > **中文**：建议中包含“test”。
+8. After the visit, I remembered "bless you".
+   > **中文**：就诊后，我记住了“bless you”。
+9. We used "disease" in the conversation.
+   > **中文**：我们在对话中用到了“disease”。
+10. That health talk ended with "get sick".
+   > **中文**：那次健康交流以“get sick”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the clinic, I heard "`____`".
+
+- [x] advise
+- [ ] healthier
+- [ ] test
+
+> **解析**：本题在单元主题情境中复习表达 advise。
+
+### 2
+
+The doctor explained "`____`".
+
+- [x] cut
+- [ ] painful
+- [ ] bless you
+
+> **解析**：本题在单元主题情境中复习表达 cut。
+
+### 3
+
+We talked about "`____`" carefully.
+
+- [x] drugstore
+- [ ] sleep
+- [ ] disease
+
+> **解析**：本题在单元主题情境中复习表达 drugstore。
+
+### 4
+
+I wrote "`____`" in my health notes.
+
+- [x] healthier
+- [ ] test
+- [ ] get sick
+
+> **解析**：本题在单元主题情境中复习表达 healthier。
+
+### 5
+
+The nurse repeated "`____`".
+
+- [x] painful
+- [ ] bless you
+- [ ] advise
+
+> **解析**：本题在单元主题情境中复习表达 painful。
+
+### 6
+
+My friend asked about "`____`".
+
+- [x] sleep
+- [ ] disease
+- [ ] cut
+
+> **解析**：本题在单元主题情境中复习表达 sleep。
+
+### 7
+
+The advice included "`____`".
+
+- [x] test
+- [ ] get sick
+- [ ] drugstore
+
+> **解析**：本题在单元主题情境中复习表达 test。
+
+### 8
+
+After the visit, I remembered "`____`".
+
+- [x] bless you
+- [ ] advise
+- [ ] healthier
+
+> **解析**：本题在单元主题情境中复习表达 bless you。
+
+### 9
+
+We used "`____`" in the conversation.
+
+- [x] disease
+- [ ] cut
+- [ ] painful
+
+> **解析**：本题在单元主题情境中复习表达 disease。
+
+### 10
+
+That health talk ended with "`____`".
+
+- [x] get sick
+- [ ] drugstore
+- [ ] sleep
+
+> **解析**：本题在单元主题情境中复习表达 get sick。
+
+</quiz-cloze>

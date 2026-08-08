@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief, illusion, incredibly, knot, live up to, magic show, magician, make, may we, precisely, rub, suspenseful, trick, untie, warm welcome, wasn't it, without further ado, would you kindly, yet
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief
 - **magic show / magician** — magic show = 魔术表演：a magic show / attend a magic show / a children's magic show。magician = 魔术师：a professional magician / a stage magician / the magician performed。例句：The magician opened the magic show with a card trick. 注意 magic 做形容词（a magic trick），magician 是"做魔术的人"。
 
 - **suspenseful / illusion / trick** — 三个描述魔术体验的词。suspenseful 强调"让你屏住呼吸"的紧张感；illusion 强调"你看到的不是真的"；trick 强调"手法和技巧"。例句：The most suspenseful trick was an illusion where the magician escaped from handcuffs underwater. 三者从不同角度描述同一个魔术体验。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“a round of applause”。  
+   **英文**：In this situation, I heard "a round of applause".
+   > **解析**：本题在单元主题情境中复习表达 a round of applause。
+
+2. **中文**：同伴解释了“handcuffs”。  
+   **英文**：My partner explained "handcuffs".
+   > **解析**：本题在单元主题情境中复习表达 handcuffs。
+
+3. **中文**：我们一起谈到了“incredibly”。  
+   **英文**：We talked about "incredibly" together.
+   > **解析**：本题在单元主题情境中复习表达 incredibly。
+
+4. **中文**：我记下了“magician”。  
+   **英文**：I wrote down "magician".
+   > **解析**：本题在单元主题情境中复习表达 magician。
+
+5. **中文**：例句中包含“precisely”。  
+   **英文**：The example included "precisely".
+   > **解析**：本题在单元主题情境中复习表达 precisely。
+
+6. **中文**：我询问了“untie”。  
+   **英文**：I asked about "untie".
+   > **解析**：本题在单元主题情境中复习表达 untie。
+
+7. **中文**：我们在句子中用到了“without further ado”。  
+   **英文**：We used "without further ado" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 without further ado。
+
+8. **中文**：朋友重复了“blindfolded”。  
+   **英文**：My friend repeated "blindfolded".
+   > **解析**：本题在单元主题情境中复习表达 blindfolded。
+
+9. **中文**：后来，我记住了“handkerchief”。  
+   **英文**：Later, I remembered "handkerchief".
+   > **解析**：本题在单元主题情境中复习表达 handkerchief。
+
+10. **中文**：这个小故事以“live up to”收尾。  
+   **英文**：The short story ended with "live up to".
+   > **解析**：本题在单元主题情境中复习表达 live up to。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "a round of applause".
+   > **中文**：在这个情境中，我听到了“a round of applause”。
+2. My partner explained "handcuffs".
+   > **中文**：同伴解释了“handcuffs”。
+3. We talked about "incredibly" together.
+   > **中文**：我们一起谈到了“incredibly”。
+4. I wrote down "magician".
+   > **中文**：我记下了“magician”。
+5. The example included "precisely".
+   > **中文**：例句中包含“precisely”。
+6. I asked about "untie".
+   > **中文**：我询问了“untie”。
+7. We used "without further ado" in a sentence.
+   > **中文**：我们在句子中用到了“without further ado”。
+8. My friend repeated "blindfolded".
+   > **中文**：朋友重复了“blindfolded”。
+9. Later, I remembered "handkerchief".
+   > **中文**：后来，我记住了“handkerchief”。
+10. The short story ended with "live up to".
+   > **中文**：这个小故事以“live up to”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] a round of applause
+- [ ] magician
+- [ ] without further ado
+
+> **解析**：本题在单元主题情境中复习表达 a round of applause。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] handcuffs
+- [ ] precisely
+- [ ] blindfolded
+
+> **解析**：本题在单元主题情境中复习表达 handcuffs。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] incredibly
+- [ ] untie
+- [ ] handkerchief
+
+> **解析**：本题在单元主题情境中复习表达 incredibly。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] magician
+- [ ] without further ado
+- [ ] live up to
+
+> **解析**：本题在单元主题情境中复习表达 magician。
+
+### 5
+
+The example included "`____`".
+
+- [x] precisely
+- [ ] blindfolded
+- [ ] a round of applause
+
+> **解析**：本题在单元主题情境中复习表达 precisely。
+
+### 6
+
+I asked about "`____`".
+
+- [x] untie
+- [ ] handkerchief
+- [ ] handcuffs
+
+> **解析**：本题在单元主题情境中复习表达 untie。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] without further ado
+- [ ] live up to
+- [ ] incredibly
+
+> **解析**：本题在单元主题情境中复习表达 without further ado。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] blindfolded
+- [ ] a round of applause
+- [ ] magician
+
+> **解析**：本题在单元主题情境中复习表达 blindfolded。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] handkerchief
+- [ ] handcuffs
+- [ ] precisely
+
+> **解析**：本题在单元主题情境中复习表达 handkerchief。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] live up to
+- [ ] incredibly
+- [ ] untie
+
+> **解析**：本题在单元主题情境中复习表达 live up to。
+
+</quiz-cloze>

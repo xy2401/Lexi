@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 apparently, at risk, bad for you, could, enough, enough to, have trouble, heal, hip, impression, infection, lung, muscle, side effect, supposedly, swollen, they say, under the weather, vaccine, vitamin, wrist, yawn
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ apparently, at risk, bad for you, could, enough, enough to, have trouble, heal, 
 - **impression** — 印象。搭配：make an impression, get the impression that。I get the impression that he's not feeling well. 注意 impression 和 impress 的关系：impress（动词）→ impression（名词）→ impressive（形容词）。
 
 - **yawn** — 打哈欠。搭配：yawn loudly, make me yawn。Yawning is contagious.（打哈欠会传染。）这虽然是民间说法，但确实很多人有此体验。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在诊所里，我听到了“apparently”。  
+   **英文**：At the clinic, I heard "apparently".
+   > **解析**：本题在单元主题情境中复习表达 apparently。
+
+2. **中文**：医生解释了“could”。  
+   **英文**：The doctor explained "could".
+   > **解析**：本题在单元主题情境中复习表达 could。
+
+3. **中文**：我们认真谈到了“heal”。  
+   **英文**：We talked about "heal" carefully.
+   > **解析**：本题在单元主题情境中复习表达 heal。
+
+4. **中文**：我把“infection”写进健康笔记。  
+   **英文**：I wrote "infection" in my health notes.
+   > **解析**：本题在单元主题情境中复习表达 infection。
+
+5. **中文**：护士重复了“side effect”。  
+   **英文**：The nurse repeated "side effect".
+   > **解析**：本题在单元主题情境中复习表达 side effect。
+
+6. **中文**：朋友询问了“under the weather”。  
+   **英文**：My friend asked about "under the weather".
+   > **解析**：本题在单元主题情境中复习表达 under the weather。
+
+7. **中文**：建议中包含“wrist”。  
+   **英文**：The advice included "wrist".
+   > **解析**：本题在单元主题情境中复习表达 wrist。
+
+8. **中文**：就诊后，我记住了“at risk”。  
+   **英文**：After the visit, I remembered "at risk".
+   > **解析**：本题在单元主题情境中复习表达 at risk。
+
+9. **中文**：我们在对话中用到了“enough to”。  
+   **英文**：We used "enough to" in the conversation.
+   > **解析**：本题在单元主题情境中复习表达 enough to。
+
+10. **中文**：那次健康交流以“hip”收尾。  
+   **英文**：That health talk ended with "hip".
+   > **解析**：本题在单元主题情境中复习表达 hip。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the clinic, I heard "apparently".
+   > **中文**：在诊所里，我听到了“apparently”。
+2. The doctor explained "could".
+   > **中文**：医生解释了“could”。
+3. We talked about "heal" carefully.
+   > **中文**：我们认真谈到了“heal”。
+4. I wrote "infection" in my health notes.
+   > **中文**：我把“infection”写进健康笔记。
+5. The nurse repeated "side effect".
+   > **中文**：护士重复了“side effect”。
+6. My friend asked about "under the weather".
+   > **中文**：朋友询问了“under the weather”。
+7. The advice included "wrist".
+   > **中文**：建议中包含“wrist”。
+8. After the visit, I remembered "at risk".
+   > **中文**：就诊后，我记住了“at risk”。
+9. We used "enough to" in the conversation.
+   > **中文**：我们在对话中用到了“enough to”。
+10. That health talk ended with "hip".
+   > **中文**：那次健康交流以“hip”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the clinic, I heard "`____`".
+
+- [x] apparently
+- [ ] infection
+- [ ] wrist
+
+> **解析**：本题在单元主题情境中复习表达 apparently。
+
+### 2
+
+The doctor explained "`____`".
+
+- [x] could
+- [ ] side effect
+- [ ] at risk
+
+> **解析**：本题在单元主题情境中复习表达 could。
+
+### 3
+
+We talked about "`____`" carefully.
+
+- [x] heal
+- [ ] under the weather
+- [ ] enough to
+
+> **解析**：本题在单元主题情境中复习表达 heal。
+
+### 4
+
+I wrote "`____`" in my health notes.
+
+- [x] infection
+- [ ] wrist
+- [ ] hip
+
+> **解析**：本题在单元主题情境中复习表达 infection。
+
+### 5
+
+The nurse repeated "`____`".
+
+- [x] side effect
+- [ ] at risk
+- [ ] apparently
+
+> **解析**：本题在单元主题情境中复习表达 side effect。
+
+### 6
+
+My friend asked about "`____`".
+
+- [x] under the weather
+- [ ] enough to
+- [ ] could
+
+> **解析**：本题在单元主题情境中复习表达 under the weather。
+
+### 7
+
+The advice included "`____`".
+
+- [x] wrist
+- [ ] hip
+- [ ] heal
+
+> **解析**：本题在单元主题情境中复习表达 wrist。
+
+### 8
+
+After the visit, I remembered "`____`".
+
+- [x] at risk
+- [ ] apparently
+- [ ] infection
+
+> **解析**：本题在单元主题情境中复习表达 at risk。
+
+### 9
+
+We used "`____`" in the conversation.
+
+- [x] enough to
+- [ ] could
+- [ ] side effect
+
+> **解析**：本题在单元主题情境中复习表达 enough to。
+
+### 10
+
+That health talk ended with "`____`".
+
+- [x] hip
+- [ ] heal
+- [ ] under the weather
+
+> **解析**：本题在单元主题情境中复习表达 hip。
+
+</quiz-cloze>

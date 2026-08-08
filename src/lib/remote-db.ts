@@ -1,205 +1,79 @@
-/**
- * 远端分片数据库查询模块
- * 
- * 按需 fetch 远端 .db 分片文件，使用 sql.js 查询
- * 查询结果由调用方写入 IndexedDB 永久保存，本模块不做任何缓存
- */
-// sql.js 使用动态导入解决 ESM 兼容性问题
-type SqlJsDatabase = any
+/** Access the one complete dictionary through two-character semantic shards. */
+import { queryDictionaryShard } from './http-vfs'
 
-// ========== 两字前缀归仓算法（前端版） ==========
-export function getDbName(word: string): string {
-  const cleanWord = word.toLowerCase().trim()
-  if (cleanWord.length < 2) return `${cleanWord}_.db`
+export interface DictionaryResult {
+  word: string
+  phonetic: string
+  definition: string
+  translation: string
+  pos: string
+  collins: number
+  oxford: number
+  tags: string
+  bnc: number
+  frequency: number
+  exchange: string
+  detail: string
+  audio: string
+}
 
-  const first = cleanWord[0]
-  const second = cleanWord[1]
-  const isLetter = (ch: string) => /^[a-z]$/.test(ch)
+const WORD_COLUMNS = `
+  word, phonetic, definition, translation, pos, collins, oxford,
+  tags, bnc, frequency, exchange, detail, audio
+`
+
+export function getShardName(word: string): string {
+  const normalized = word.toLowerCase().trim()
+  const first = normalized[0] || ''
+  const second = normalized[1] || ''
+  const isLetter = (character: string) => /^[a-z]$/.test(character)
 
   if (!isLetter(first)) return '__.db'
-  if (isLetter(second)) return `${first}${second}.db`
-  return `${first}_.db`
+  if (!isLetter(second)) return `${first}_.db`
+  return `${first}${second}.db`
 }
 
-// ========== 单字归仓算法（热词分片） ==========
-export function getHotDbName(word: string): string {
-  const first = word[0]?.toLowerCase()
-  if (first && /^[a-z]$/.test(first)) return `${first}.db`
-  return '_.db'
+export async function queryDictionaryWord(word: string): Promise<DictionaryResult | null> {
+  const normalized = word.toLowerCase().trim()
+  if (!normalized) return null
+
+  const rows = await queryDictionaryShard<DictionaryResult>(
+    getShardName(normalized),
+    `SELECT ${WORD_COLUMNS} FROM {words} WHERE word = ?`,
+    [normalized],
+  )
+  return rows[0] || null
 }
 
-// ========== sql.js 初始化 ==========
-let sqlPromise: Promise<any> | null = null
-
-async function getSqlJs() {
-  if (!sqlPromise) {
-    // 动态导入解决 sql.js ESM 兼容性问题
-    const sqlModule: any = await import('sql.js')
-    // Vite CJS 互操作可能多层包裹 default
-    const initFn = sqlModule.default?.default || sqlModule.default || sqlModule.initSqlJs || sqlModule
-    if (typeof initFn !== 'function') {
-      throw new Error(`[remote-db] sql.js 加载失败，导出类型: ${typeof initFn}, keys: ${Object.keys(sqlModule).join(',')}`)
-    }
-    sqlPromise = initFn({
-      locateFile: (file: string) => `/wasm/${file}`,
-    })
-  }
-  return sqlPromise
-}
-
-// ========== 核心查询 ==========
-
-export interface EcdictResult {
-  word: string
-  frequency: number
-  tags: string
-  exchange: string
-  phonetic: string
-  translation: string
-}
-
-export interface StardictResult {
-  word: string
-  html_content: string
-}
-
-/**
- * 加载分片数据库（用完即关，不缓存）
- */
-async function getShardDb(track: 'ecdict' | 'stardict' | 'hot', dbName: string): Promise<SqlJsDatabase> {
-  const url = `/dicts/${track}/${dbName}`
-  const response = await fetch(url)
-  if (!response.ok) {
-    throw new Error(`Failed to fetch shard: ${url} (${response.status})`)
+/** Query a unit word pool with one SELECT per semantic shard. */
+export async function queryDictionaryWords(words: string[]): Promise<DictionaryResult[]> {
+  const normalizedWords = [...new Set(words.map(word => word.toLowerCase().trim()).filter(Boolean))]
+  const groups = new Map<string, string[]>()
+  for (const word of normalizedWords) {
+    const shard = getShardName(word)
+    groups.set(shard, [...(groups.get(shard) || []), word])
   }
 
-  // 检测 SPA fallback 返回 HTML 的情况（分片文件缺失时 Vite 会返回 index.html）
-  const contentType = response.headers.get('content-type') || ''
-  if (contentType.includes('text/html')) {
-    throw new Error(`Shard not found (got HTML fallback): ${url}`)
+  const results: DictionaryResult[] = []
+  for (const [shard, shardWords] of groups) {
+    const placeholders = shardWords.map(() => '?').join(', ')
+    results.push(...await queryDictionaryShard<DictionaryResult>(
+      shard,
+      `SELECT ${WORD_COLUMNS} FROM {words} WHERE word IN (${placeholders})`,
+      shardWords,
+    ))
   }
-
-  const buffer = await response.arrayBuffer()
-  const SQL = await getSqlJs()
-  return new SQL.Database(new Uint8Array(buffer))
+  return results
 }
 
-/**
- * 查询远端热词分片（单字分片，体积小、加载快）
- */
-export async function queryHot(word: string): Promise<EcdictResult | null> {
-  const dbName = getHotDbName(word)
-  try {
-    const db = await getShardDb('hot', dbName)
-    const stmt = db.prepare('SELECT * FROM words WHERE word = ?')
-    stmt.bind([word.toLowerCase()])
-
-    if (stmt.step()) {
-      const row = stmt.getAsObject() as any
-      stmt.free()
-      db.close()
-      return {
-        word: row.word,
-        frequency: row.frequency || 0,
-        tags: row.tags || '',
-        exchange: row.exchange || '',
-        phonetic: row.phonetic || '',
-        translation: row.translation || '',
-      }
-    }
-    stmt.free()
-    db.close()
-    return null
-  } catch (e) {
-    console.warn(`[remote-db] queryHot failed for "${word}":`, e)
-    return null
-  }
-}
-
-/**
- * 查询远端 ECDICT 分片
- */
-export async function queryEcdict(word: string): Promise<EcdictResult | null> {
-  const dbName = getDbName(word)
-  try {
-    const db = await getShardDb('ecdict', dbName)
-    const stmt = db.prepare('SELECT * FROM words WHERE word = ?')
-    stmt.bind([word.toLowerCase()])
-
-    if (stmt.step()) {
-      const row = stmt.getAsObject() as any
-      stmt.free()
-      db.close()
-      return {
-        word: row.word,
-        frequency: row.frequency || 0,
-        tags: row.tags || '',
-        exchange: row.exchange || '',
-        phonetic: row.phonetic || '',
-        translation: row.translation || '',
-      }
-    }
-    stmt.free()
-    db.close()
-    return null
-  } catch (e) {
-    console.warn(`[remote-db] queryEcdict failed for "${word}":`, e)
-    return null
-  }
-}
-
-/**
- * 查询远端 Stardict 分片
- */
-export async function queryStardict(word: string): Promise<StardictResult | null> {
-  const dbName = getDbName(word)
-  try {
-    const db = await getShardDb('stardict', dbName)
-    const stmt = db.prepare('SELECT * FROM words WHERE word = ?')
-    stmt.bind([word.toLowerCase()])
-
-    if (stmt.step()) {
-      const row = stmt.getAsObject() as any
-      stmt.free()
-      db.close()
-      return {
-        word: row.word,
-        html_content: row.html_content || '',
-      }
-    }
-    stmt.free()
-    db.close()
-    return null
-  } catch (e) {
-    console.warn(`[remote-db] queryStardict failed for "${word}":`, e)
-    return null
-  }
-}
-
-/**
- * 获取分片内所有词条（Explorer 浏览用）
- */
-export async function listShardWords(
-  track: 'ecdict' | 'stardict' | 'hot',
-  dbName: string,
-  limit = -1,
-  offset = 0
-): Promise<any[]> {
-  try {
-    const db = await getShardDb(track, dbName)
-    // LIMIT -1 在 SQLite 中表示不限制，返回全部
-    const stmt = db.prepare('SELECT * FROM words ORDER BY word LIMIT ? OFFSET ?')
-    stmt.bind([limit, offset])
-
-    const results: any[] = []
-    while (stmt.step()) {
-      results.push(stmt.getAsObject())
-    }
-    stmt.free()
-    db.close()
-    return results
-  } catch (e) {
-    console.warn(`[remote-db] listShardWords failed:`, e)
-    return []
-  }
+export async function listDictionaryShard(
+  shardName: string,
+  limit = 500,
+  offset = 0,
+): Promise<DictionaryResult[]> {
+  return queryDictionaryShard<DictionaryResult>(
+    shardName,
+    `SELECT ${WORD_COLUMNS} FROM {words} ORDER BY word LIMIT ? OFFSET ?`,
+    [limit, offset],
+  )
 }

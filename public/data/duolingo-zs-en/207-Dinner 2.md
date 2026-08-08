@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 a side of, angry that, any, appetizer, award, be, been, bit, charge, dairy, full, have been, like, main course, napkin, notice, only, portion, put, seated, should, smell
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -29,3 +34,194 @@ have been 是现在完成时（Have you been here before? / I have been to this 
 - **angry that / only / bit / any** — angry that = 对……生气（I'm angry that they charge extra.）。only = 只（only a bit）。bit = 一点（a bit small）。any 用于疑问和否定（Is there any dairy? / I don't have any.）。
 
 - **award / like / put** — award = 奖项（This restaurant won an award.）。like 可表"喜欢"或"像"（I like this. / It tastes like chicken.）。put = 放（Put the napkin on the table.）。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在餐厅里，我询问了“a side of”。  
+   **英文**：At the restaurant, I asked about "a side of".
+   > **解析**：本题在单元主题情境中复习表达 a side of。
+
+2. **中文**：菜单上有“appetizer”。  
+   **英文**：The menu included "appetizer".
+   > **解析**：本题在单元主题情境中复习表达 appetizer。
+
+3. **中文**：在餐桌旁，我们谈到了“bit”。  
+   **英文**：At the table, we talked about "bit".
+   > **解析**：本题在单元主题情境中复习表达 bit。
+
+4. **中文**：厨师提到了“have been”。  
+   **英文**：The cook mentioned "have been".
+   > **解析**：本题在单元主题情境中复习表达 have been。
+
+5. **中文**：晚餐我点了“napkin”。  
+   **英文**：I ordered "napkin" for dinner.
+   > **解析**：本题在单元主题情境中复习表达 napkin。
+
+6. **中文**：我的朋友选择了“portion”。  
+   **英文**：My friend chose "portion".
+   > **解析**：本题在单元主题情境中复习表达 portion。
+
+7. **中文**：服务员重复了“should”。  
+   **英文**：The waiter repeated "should".
+   > **解析**：本题在单元主题情境中复习表达 should。
+
+8. **中文**：我们分享了一个关于“any”的故事。  
+   **英文**：We shared a story about "any".
+   > **解析**：本题在单元主题情境中复习表达 any。
+
+9. **中文**：饭后，我记住了“been”。  
+   **英文**：After the meal, I remembered "been".
+   > **解析**：本题在单元主题情境中复习表达 been。
+
+10. **中文**：那顿饭以“dairy”收尾。  
+   **英文**：That meal ended with "dairy".
+   > **解析**：本题在单元主题情境中复习表达 dairy。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the restaurant, I asked about "a side of".
+   > **中文**：在餐厅里，我询问了“a side of”。
+2. The menu included "appetizer".
+   > **中文**：菜单上有“appetizer”。
+3. At the table, we talked about "bit".
+   > **中文**：在餐桌旁，我们谈到了“bit”。
+4. The cook mentioned "have been".
+   > **中文**：厨师提到了“have been”。
+5. I ordered "napkin" for dinner.
+   > **中文**：晚餐我点了“napkin”。
+6. My friend chose "portion".
+   > **中文**：我的朋友选择了“portion”。
+7. The waiter repeated "should".
+   > **中文**：服务员重复了“should”。
+8. We shared a story about "any".
+   > **中文**：我们分享了一个关于“any”的故事。
+9. After the meal, I remembered "been".
+   > **中文**：饭后，我记住了“been”。
+10. That meal ended with "dairy".
+   > **中文**：那顿饭以“dairy”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the restaurant, I asked about "`____`".
+
+- [x] a side of
+- [ ] have been
+- [ ] should
+
+> **解析**：本题在单元主题情境中复习表达 a side of。
+
+### 2
+
+The menu included "`____`".
+
+- [x] appetizer
+- [ ] napkin
+- [ ] any
+
+> **解析**：本题在单元主题情境中复习表达 appetizer。
+
+### 3
+
+At the table, we talked about "`____`".
+
+- [x] bit
+- [ ] portion
+- [ ] been
+
+> **解析**：本题在单元主题情境中复习表达 bit。
+
+### 4
+
+The cook mentioned "`____`".
+
+- [x] have been
+- [ ] should
+- [ ] dairy
+
+> **解析**：本题在单元主题情境中复习表达 have been。
+
+### 5
+
+I ordered "`____`" for dinner.
+
+- [x] napkin
+- [ ] any
+- [ ] a side of
+
+> **解析**：本题在单元主题情境中复习表达 napkin。
+
+### 6
+
+My friend chose "`____`".
+
+- [x] portion
+- [ ] been
+- [ ] appetizer
+
+> **解析**：本题在单元主题情境中复习表达 portion。
+
+### 7
+
+The waiter repeated "`____`".
+
+- [x] should
+- [ ] dairy
+- [ ] bit
+
+> **解析**：本题在单元主题情境中复习表达 should。
+
+### 8
+
+We shared a story about "`____`".
+
+- [x] any
+- [ ] a side of
+- [ ] have been
+
+> **解析**：本题在单元主题情境中复习表达 any。
+
+### 9
+
+After the meal, I remembered "`____`".
+
+- [x] been
+- [ ] appetizer
+- [ ] napkin
+
+> **解析**：本题在单元主题情境中复习表达 been。
+
+### 10
+
+That meal ended with "`____`".
+
+- [x] dairy
+- [ ] bit
+- [ ] portion
+
+> **解析**：本题在单元主题情境中复习表达 dairy。
+
+</quiz-cloze>

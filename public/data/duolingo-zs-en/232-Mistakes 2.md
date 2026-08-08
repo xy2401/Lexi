@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 ambitious, disagreement, embarrassment, feeling, get, had, hadn't, if only, it turns out that, it'd, judging by, keep, look, misunderstand, nothing to do with, play, push, respond, shut up, skip, that's why, underestimate, wish
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ ambitious, disagreement, embarrassment, feeling, get, had, hadn't, if only, it t
 - **respond / keep** — respond 是回应（较正式），keep 是保持/继续。搭配：respond to a question, keep quiet, keep pushing。I should have responded calmly. / I kept pushing even though I shouldn't have. 注意 respond 比 answer 更正式。
 
 - **look / feeling** — look 在这里指"表情、神色"，feeling 是感觉。搭配：the look on her face, a feeling of embarrassment。Judging by the look on her face, she was hurt. / I had a feeling something was wrong. 注意 look 作"表情"时常用 the look on one's face。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“ambitious”。  
+   **英文**：In this situation, I heard "ambitious".
+   > **解析**：本题在单元主题情境中复习表达 ambitious。
+
+2. **中文**：同伴解释了“feeling”。  
+   **英文**：My partner explained "feeling".
+   > **解析**：本题在单元主题情境中复习表达 feeling。
+
+3. **中文**：我们一起谈到了“if only”。  
+   **英文**：We talked about "if only" together.
+   > **解析**：本题在单元主题情境中复习表达 if only。
+
+4. **中文**：我记下了“judging by”。  
+   **英文**：I wrote down "judging by".
+   > **解析**：本题在单元主题情境中复习表达 judging by。
+
+5. **中文**：例句中包含“nothing to do with”。  
+   **英文**：The example included "nothing to do with".
+   > **解析**：本题在单元主题情境中复习表达 nothing to do with。
+
+6. **中文**：我询问了“respond”。  
+   **英文**：I asked about "respond".
+   > **解析**：本题在单元主题情境中复习表达 respond。
+
+7. **中文**：我们在句子中用到了“underestimate”。  
+   **英文**：We used "underestimate" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 underestimate。
+
+8. **中文**：朋友重复了“disagreement”。  
+   **英文**：My friend repeated "disagreement".
+   > **解析**：本题在单元主题情境中复习表达 disagreement。
+
+9. **中文**：后来，我记住了“had”。  
+   **英文**：Later, I remembered "had".
+   > **解析**：本题在单元主题情境中复习表达 had。
+
+10. **中文**：这个小故事以“it turns out that”收尾。  
+   **英文**：The short story ended with "it turns out that".
+   > **解析**：本题在单元主题情境中复习表达 it turns out that。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "ambitious".
+   > **中文**：在这个情境中，我听到了“ambitious”。
+2. My partner explained "feeling".
+   > **中文**：同伴解释了“feeling”。
+3. We talked about "if only" together.
+   > **中文**：我们一起谈到了“if only”。
+4. I wrote down "judging by".
+   > **中文**：我记下了“judging by”。
+5. The example included "nothing to do with".
+   > **中文**：例句中包含“nothing to do with”。
+6. I asked about "respond".
+   > **中文**：我询问了“respond”。
+7. We used "underestimate" in a sentence.
+   > **中文**：我们在句子中用到了“underestimate”。
+8. My friend repeated "disagreement".
+   > **中文**：朋友重复了“disagreement”。
+9. Later, I remembered "had".
+   > **中文**：后来，我记住了“had”。
+10. The short story ended with "it turns out that".
+   > **中文**：这个小故事以“it turns out that”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] ambitious
+- [ ] judging by
+- [ ] underestimate
+
+> **解析**：本题在单元主题情境中复习表达 ambitious。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] feeling
+- [ ] nothing to do with
+- [ ] disagreement
+
+> **解析**：本题在单元主题情境中复习表达 feeling。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] if only
+- [ ] respond
+- [ ] had
+
+> **解析**：本题在单元主题情境中复习表达 if only。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] judging by
+- [ ] underestimate
+- [ ] it turns out that
+
+> **解析**：本题在单元主题情境中复习表达 judging by。
+
+### 5
+
+The example included "`____`".
+
+- [x] nothing to do with
+- [ ] disagreement
+- [ ] ambitious
+
+> **解析**：本题在单元主题情境中复习表达 nothing to do with。
+
+### 6
+
+I asked about "`____`".
+
+- [x] respond
+- [ ] had
+- [ ] feeling
+
+> **解析**：本题在单元主题情境中复习表达 respond。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] underestimate
+- [ ] it turns out that
+- [ ] if only
+
+> **解析**：本题在单元主题情境中复习表达 underestimate。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] disagreement
+- [ ] ambitious
+- [ ] judging by
+
+> **解析**：本题在单元主题情境中复习表达 disagreement。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] had
+- [ ] feeling
+- [ ] nothing to do with
+
+> **解析**：本题在单元主题情境中复习表达 had。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] it turns out that
+- [ ] if only
+- [ ] respond
+
+> **解析**：本题在单元主题情境中复习表达 it turns out that。
+
+</quiz-cloze>

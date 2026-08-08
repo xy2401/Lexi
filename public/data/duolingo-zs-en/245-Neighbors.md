@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 a piece of, bizarre, constantly, cool down, driveway, endless, fire department, frankly, get carried away, i don't think, in tears, keep, mailbox, not to mention, outrageous, pretty much, privacy, ruin, set, take a deep breath, take responsibility, that must be, the issue is, the problem is, would appreciate it
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -58,3 +63,193 @@ the problem is / the issue is 是引出抱怨的经典句式。get carried away�
 
 - **set** — 本单元中可能指"一套、一组"（a set of rules）或"设定"（set boundaries）。set 是英语中含义最多的词之一，具体意思高度依赖搭配。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“a piece of”。  
+   **英文**：At home, we talked about "a piece of".
+   > **解析**：本题在单元主题情境中复习表达 a piece of。
+
+2. **中文**：家人提到了“driveway”。  
+   **英文**：My family mentioned "driveway".
+   > **解析**：本题在单元主题情境中复习表达 driveway。
+
+3. **中文**：在房间里，我注意到了“frankly”。  
+   **英文**：In the room, I noticed "frankly".
+   > **解析**：本题在单元主题情境中复习表达 frankly。
+
+4. **中文**：我们在家里用到了“keep”。  
+   **英文**：We used "keep" at home.
+   > **解析**：本题在单元主题情境中复习表达 keep。
+
+5. **中文**：邻居询问了“pretty much”。  
+   **英文**：My neighbor asked about "pretty much".
+   > **解析**：本题在单元主题情境中复习表达 pretty much。
+
+6. **中文**：我在门边写下了“set”。  
+   **英文**：I wrote down "set" by the door.
+   > **解析**：本题在单元主题情境中复习表达 set。
+
+7. **中文**：晚饭后，我们重复了“the issue is”。  
+   **英文**：After dinner, we repeated "the issue is".
+   > **解析**：本题在单元主题情境中复习表达 the issue is。
+
+8. **中文**：家庭故事里包含“bizarre”。  
+   **英文**：The family story included "bizarre".
+   > **解析**：本题在单元主题情境中复习表达 bizarre。
+
+9. **中文**：睡前，我记住了“endless”。  
+   **英文**：Before bed, I remembered "endless".
+   > **解析**：本题在单元主题情境中复习表达 endless。
+
+10. **中文**：那个夜晚以“i don't think”收尾。  
+   **英文**：That evening ended with "i don't think".
+   > **解析**：本题在单元主题情境中复习表达 i don't think。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "a piece of".
+   > **中文**：在家里，我们谈到了“a piece of”。
+2. My family mentioned "driveway".
+   > **中文**：家人提到了“driveway”。
+3. In the room, I noticed "frankly".
+   > **中文**：在房间里，我注意到了“frankly”。
+4. We used "keep" at home.
+   > **中文**：我们在家里用到了“keep”。
+5. My neighbor asked about "pretty much".
+   > **中文**：邻居询问了“pretty much”。
+6. I wrote down "set" by the door.
+   > **中文**：我在门边写下了“set”。
+7. After dinner, we repeated "the issue is".
+   > **中文**：晚饭后，我们重复了“the issue is”。
+8. The family story included "bizarre".
+   > **中文**：家庭故事里包含“bizarre”。
+9. Before bed, I remembered "endless".
+   > **中文**：睡前，我记住了“endless”。
+10. That evening ended with "i don't think".
+   > **中文**：那个夜晚以“i don't think”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] a piece of
+- [ ] keep
+- [ ] the issue is
+
+> **解析**：本题在单元主题情境中复习表达 a piece of。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] driveway
+- [ ] pretty much
+- [ ] bizarre
+
+> **解析**：本题在单元主题情境中复习表达 driveway。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] frankly
+- [ ] set
+- [ ] endless
+
+> **解析**：本题在单元主题情境中复习表达 frankly。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] keep
+- [ ] the issue is
+- [ ] i don't think
+
+> **解析**：本题在单元主题情境中复习表达 keep。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] pretty much
+- [ ] bizarre
+- [ ] a piece of
+
+> **解析**：本题在单元主题情境中复习表达 pretty much。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] set
+- [ ] endless
+- [ ] driveway
+
+> **解析**：本题在单元主题情境中复习表达 set。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] the issue is
+- [ ] i don't think
+- [ ] frankly
+
+> **解析**：本题在单元主题情境中复习表达 the issue is。
+
+### 8
+
+The family story included "`____`".
+
+- [x] bizarre
+- [ ] a piece of
+- [ ] keep
+
+> **解析**：本题在单元主题情境中复习表达 bizarre。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] endless
+- [ ] driveway
+- [ ] pretty much
+
+> **解析**：本题在单元主题情境中复习表达 endless。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] i don't think
+- [ ] frankly
+- [ ] set
+
+> **解析**：本题在单元主题情境中复习表达 i don't think。
+
+</quiz-cloze>

@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 be friends with, copy, cover, going to, intermission, it's good to, oh my gosh, on the, poem, poet, refreshments, scene, specially, supposed to, translation, work, would
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -27,3 +32,194 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
 - **oh my gosh / be friends with / specially** — oh my gosh = 天哪！（口语感叹，比 oh my God 更委婉）。be friends with = 和……是朋友（I'm friends with the poet.）。specially = 专门地（specially arranged, specially made），注意和 especially（尤其）的区别。
 
 - **would / on the** — would 在这里用于礼貌邀请或假设（Would you like some refreshments? / I would love to see the poem.）。on the 是常见介词短语（on the wall, on the cover, on the left）。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“be friends with”。  
+   **英文**：At work, we discussed "be friends with".
+   > **解析**：本题在单元主题情境中复习表达 be friends with。
+
+2. **中文**：同事提到了“going to”。  
+   **英文**：My coworker mentioned "going to".
+   > **解析**：本题在单元主题情境中复习表达 going to。
+
+3. **中文**：会议中，我听到了“oh my gosh”。  
+   **英文**：In the meeting, I heard "oh my gosh".
+   > **解析**：本题在单元主题情境中复习表达 oh my gosh。
+
+4. **中文**：我把“poem”写进了笔记。  
+   **英文**：I added "poem" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 poem。
+
+5. **中文**：经理解释了“scene”。  
+   **英文**：The manager explained "scene".
+   > **解析**：本题在单元主题情境中复习表达 scene。
+
+6. **中文**：团队今天用到了“translation”。  
+   **英文**：Our team used "translation" today.
+   > **解析**：本题在单元主题情境中复习表达 translation。
+
+7. **中文**：午饭前，我们查看了“copy”。  
+   **英文**：Before lunch, we checked "copy".
+   > **解析**：本题在单元主题情境中复习表达 copy。
+
+8. **中文**：同事询问了“intermission”。  
+   **英文**：My colleague asked about "intermission".
+   > **解析**：本题在单元主题情境中复习表达 intermission。
+
+9. **中文**：报告中包含“on the”。  
+   **英文**：The report included "on the".
+   > **解析**：本题在单元主题情境中复习表达 on the。
+
+10. **中文**：一天结束时，我记住了“refreshments”。  
+   **英文**：At the end of the day, I remembered "refreshments".
+   > **解析**：本题在单元主题情境中复习表达 refreshments。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "be friends with".
+   > **中文**：工作中，我们讨论了“be friends with”。
+2. My coworker mentioned "going to".
+   > **中文**：同事提到了“going to”。
+3. In the meeting, I heard "oh my gosh".
+   > **中文**：会议中，我听到了“oh my gosh”。
+4. I added "poem" to my notes.
+   > **中文**：我把“poem”写进了笔记。
+5. The manager explained "scene".
+   > **中文**：经理解释了“scene”。
+6. Our team used "translation" today.
+   > **中文**：团队今天用到了“translation”。
+7. Before lunch, we checked "copy".
+   > **中文**：午饭前，我们查看了“copy”。
+8. My colleague asked about "intermission".
+   > **中文**：同事询问了“intermission”。
+9. The report included "on the".
+   > **中文**：报告中包含“on the”。
+10. At the end of the day, I remembered "refreshments".
+   > **中文**：一天结束时，我记住了“refreshments”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] be friends with
+- [ ] poem
+- [ ] copy
+
+> **解析**：本题在单元主题情境中复习表达 be friends with。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] going to
+- [ ] scene
+- [ ] intermission
+
+> **解析**：本题在单元主题情境中复习表达 going to。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] oh my gosh
+- [ ] translation
+- [ ] on the
+
+> **解析**：本题在单元主题情境中复习表达 oh my gosh。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] poem
+- [ ] copy
+- [ ] refreshments
+
+> **解析**：本题在单元主题情境中复习表达 poem。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] scene
+- [ ] intermission
+- [ ] be friends with
+
+> **解析**：本题在单元主题情境中复习表达 scene。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] translation
+- [ ] on the
+- [ ] going to
+
+> **解析**：本题在单元主题情境中复习表达 translation。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] copy
+- [ ] refreshments
+- [ ] oh my gosh
+
+> **解析**：本题在单元主题情境中复习表达 copy。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] intermission
+- [ ] be friends with
+- [ ] poem
+
+> **解析**：本题在单元主题情境中复习表达 intermission。
+
+### 9
+
+The report included "`____`".
+
+- [x] on the
+- [ ] going to
+- [ ] scene
+
+> **解析**：本题在单元主题情境中复习表达 on the。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] refreshments
+- [ ] oh my gosh
+- [ ] translation
+
+> **解析**：本题在单元主题情境中复习表达 refreshments。
+
+</quiz-cloze>

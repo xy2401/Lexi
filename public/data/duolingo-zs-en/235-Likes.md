@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 appealing, appropriately, by, can't get enough of, can't wait, catch up, don't, entertaining, homemade, housewarming, how, impressive, in style, isn't, lovely, miss out, obsessed with, play it by ear, show up, sounds, too hard on, unique, up to, virtual reality, won't
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ appealing, appropriately, by, can't get enough of, can't wait, catch up, don't, 
 - **don't / isn't / won't** — 否定缩略形式。don't = do not，isn't = is not，won't = will not。搭配：Don't miss out! / Isn't it lovely? / I won't be late. 注意 won't 的拼写不规则（不是 × willn't），来自古英语 willan + not。
 
 - **how** — 多么（感叹）；如何（疑问）。搭配：How lovely! / How do you like it?。How impressive! / How did you decorate it? 注意 how 在感叹句中修饰形容词/副词：How lovely! 而 what 修饰名词：What a lovely home!
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：谈论喜好时，我听到了“appealing”。  
+   **英文**：When we talked about favorites, I heard "appealing".
+   > **解析**：本题在单元主题情境中复习表达 appealing。
+
+2. **中文**：朋友说“catch up”很重要。  
+   **英文**：My friend said "catch up" was important.
+   > **解析**：本题在单元主题情境中复习表达 catch up。
+
+3. **中文**：我问他们喜欢哪一个：“homemade”。  
+   **英文**：I asked which one they liked: "homemade".
+   > **解析**：本题在单元主题情境中复习表达 homemade。
+
+4. **中文**：聊天时，我们比较了“in style”。  
+   **英文**：In our chat, we compared "in style".
+   > **解析**：本题在单元主题情境中复习表达 in style。
+
+5. **中文**：同伴先选择了“miss out”。  
+   **英文**：My partner chose "miss out" first.
+   > **解析**：本题在单元主题情境中复习表达 miss out。
+
+6. **中文**：我们用“sounds”描述喜好。  
+   **英文**：We used "sounds" to describe a favorite.
+   > **解析**：本题在单元主题情境中复习表达 sounds。
+
+7. **中文**：答案中包含“up to”。  
+   **英文**：The answer included "up to".
+   > **解析**：本题在单元主题情境中复习表达 up to。
+
+8. **中文**：我从对话中记住了“appropriately”。  
+   **英文**：I remembered "appropriately" from the conversation.
+   > **解析**：本题在单元主题情境中复习表达 appropriately。
+
+9. **中文**：朋友微笑着重复了“don't”。  
+   **英文**：My friend repeated "don't" with a smile.
+   > **解析**：本题在单元主题情境中复习表达 don't。
+
+10. **中文**：那场关于喜好的聊天以“how”收尾。  
+   **英文**：That chat about favorites ended with "how".
+   > **解析**：本题在单元主题情境中复习表达 how。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. When we talked about favorites, I heard "appealing".
+   > **中文**：谈论喜好时，我听到了“appealing”。
+2. My friend said "catch up" was important.
+   > **中文**：朋友说“catch up”很重要。
+3. I asked which one they liked: "homemade".
+   > **中文**：我问他们喜欢哪一个：“homemade”。
+4. In our chat, we compared "in style".
+   > **中文**：聊天时，我们比较了“in style”。
+5. My partner chose "miss out" first.
+   > **中文**：同伴先选择了“miss out”。
+6. We used "sounds" to describe a favorite.
+   > **中文**：我们用“sounds”描述喜好。
+7. The answer included "up to".
+   > **中文**：答案中包含“up to”。
+8. I remembered "appropriately" from the conversation.
+   > **中文**：我从对话中记住了“appropriately”。
+9. My friend repeated "don't" with a smile.
+   > **中文**：朋友微笑着重复了“don't”。
+10. That chat about favorites ended with "how".
+   > **中文**：那场关于喜好的聊天以“how”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+When we talked about favorites, I heard "`____`".
+
+- [x] appealing
+- [ ] in style
+- [ ] up to
+
+> **解析**：本题在单元主题情境中复习表达 appealing。
+
+### 2
+
+My friend said "`____`" was important.
+
+- [x] catch up
+- [ ] miss out
+- [ ] appropriately
+
+> **解析**：本题在单元主题情境中复习表达 catch up。
+
+### 3
+
+I asked which one they liked: "`____`".
+
+- [x] homemade
+- [ ] sounds
+- [ ] don't
+
+> **解析**：本题在单元主题情境中复习表达 homemade。
+
+### 4
+
+In our chat, we compared "`____`".
+
+- [x] in style
+- [ ] up to
+- [ ] how
+
+> **解析**：本题在单元主题情境中复习表达 in style。
+
+### 5
+
+My partner chose "`____`" first.
+
+- [x] miss out
+- [ ] appropriately
+- [ ] appealing
+
+> **解析**：本题在单元主题情境中复习表达 miss out。
+
+### 6
+
+We used "`____`" to describe a favorite.
+
+- [x] sounds
+- [ ] don't
+- [ ] catch up
+
+> **解析**：本题在单元主题情境中复习表达 sounds。
+
+### 7
+
+The answer included "`____`".
+
+- [x] up to
+- [ ] how
+- [ ] homemade
+
+> **解析**：本题在单元主题情境中复习表达 up to。
+
+### 8
+
+I remembered "`____`" from the conversation.
+
+- [x] appropriately
+- [ ] appealing
+- [ ] in style
+
+> **解析**：本题在单元主题情境中复习表达 appropriately。
+
+### 9
+
+My friend repeated "`____`" with a smile.
+
+- [x] don't
+- [ ] catch up
+- [ ] miss out
+
+> **解析**：本题在单元主题情境中复习表达 don't。
+
+### 10
+
+That chat about favorites ended with "`____`".
+
+- [x] how
+- [ ] homemade
+- [ ] sounds
+
+> **解析**：本题在单元主题情境中复习表达 how。
+
+</quiz-cloze>

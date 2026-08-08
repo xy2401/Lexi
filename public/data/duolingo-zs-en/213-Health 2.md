@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 ask, blood pressure, cancer, check-up, cure, fitness, give up, good for you, healthcare, heart disease, into, liquid, not, prepare, procedure, provide, seem, sick day, tell, tongue, wait, weigh, workout, x-ray
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -31,3 +36,194 @@ seem 用来表达"看起来、似乎"（You seem tired. / It seems serious.）�
 - **good for you / ask / tell / wait / not** — good for you = 对你有好处（Exercise is good for you.），口语中也可表"真棒！"。ask = 询问（ask the doctor）。tell = 告诉（Tell me what hurts.）。wait = 等待（Wait here.）。not 用于否定（Do not eat before the x-ray.）。
 
 - **into** — into 在这里可能搭配 look into（调查、研究：The doctor will look into it.）或 get into（进入：get into the habit of working out）。具体含义取决于搭配。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“ask”。  
+   **英文**：At work, we discussed "ask".
+   > **解析**：本题在单元主题情境中复习表达 ask。
+
+2. **中文**：同事提到了“cure”。  
+   **英文**：My coworker mentioned "cure".
+   > **解析**：本题在单元主题情境中复习表达 cure。
+
+3. **中文**：会议中，我听到了“good for you”。  
+   **英文**：In the meeting, I heard "good for you".
+   > **解析**：本题在单元主题情境中复习表达 good for you。
+
+4. **中文**：我把“liquid”写进了笔记。  
+   **英文**：I added "liquid" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 liquid。
+
+5. **中文**：经理解释了“procedure”。  
+   **英文**：The manager explained "procedure".
+   > **解析**：本题在单元主题情境中复习表达 procedure。
+
+6. **中文**：团队今天用到了“tell”。  
+   **英文**：Our team used "tell" today.
+   > **解析**：本题在单元主题情境中复习表达 tell。
+
+7. **中文**：午饭前，我们查看了“weigh”。  
+   **英文**：Before lunch, we checked "weigh".
+   > **解析**：本题在单元主题情境中复习表达 weigh。
+
+8. **中文**：同事询问了“blood pressure”。  
+   **英文**：My colleague asked about "blood pressure".
+   > **解析**：本题在单元主题情境中复习表达 blood pressure。
+
+9. **中文**：报告中包含“fitness”。  
+   **英文**：The report included "fitness".
+   > **解析**：本题在单元主题情境中复习表达 fitness。
+
+10. **中文**：一天结束时，我记住了“heart disease”。  
+   **英文**：At the end of the day, I remembered "heart disease".
+   > **解析**：本题在单元主题情境中复习表达 heart disease。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "ask".
+   > **中文**：工作中，我们讨论了“ask”。
+2. My coworker mentioned "cure".
+   > **中文**：同事提到了“cure”。
+3. In the meeting, I heard "good for you".
+   > **中文**：会议中，我听到了“good for you”。
+4. I added "liquid" to my notes.
+   > **中文**：我把“liquid”写进了笔记。
+5. The manager explained "procedure".
+   > **中文**：经理解释了“procedure”。
+6. Our team used "tell" today.
+   > **中文**：团队今天用到了“tell”。
+7. Before lunch, we checked "weigh".
+   > **中文**：午饭前，我们查看了“weigh”。
+8. My colleague asked about "blood pressure".
+   > **中文**：同事询问了“blood pressure”。
+9. The report included "fitness".
+   > **中文**：报告中包含“fitness”。
+10. At the end of the day, I remembered "heart disease".
+   > **中文**：一天结束时，我记住了“heart disease”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] ask
+- [ ] liquid
+- [ ] weigh
+
+> **解析**：本题在单元主题情境中复习表达 ask。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] cure
+- [ ] procedure
+- [ ] blood pressure
+
+> **解析**：本题在单元主题情境中复习表达 cure。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] good for you
+- [ ] tell
+- [ ] fitness
+
+> **解析**：本题在单元主题情境中复习表达 good for you。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] liquid
+- [ ] weigh
+- [ ] heart disease
+
+> **解析**：本题在单元主题情境中复习表达 liquid。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] procedure
+- [ ] blood pressure
+- [ ] ask
+
+> **解析**：本题在单元主题情境中复习表达 procedure。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] tell
+- [ ] fitness
+- [ ] cure
+
+> **解析**：本题在单元主题情境中复习表达 tell。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] weigh
+- [ ] heart disease
+- [ ] good for you
+
+> **解析**：本题在单元主题情境中复习表达 weigh。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] blood pressure
+- [ ] ask
+- [ ] liquid
+
+> **解析**：本题在单元主题情境中复习表达 blood pressure。
+
+### 9
+
+The report included "`____`".
+
+- [x] fitness
+- [ ] cure
+- [ ] procedure
+
+> **解析**：本题在单元主题情境中复习表达 fitness。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] heart disease
+- [ ] good for you
+- [ ] tell
+
+> **解析**：本题在单元主题情境中复习表达 heart disease。
+
+</quiz-cloze>

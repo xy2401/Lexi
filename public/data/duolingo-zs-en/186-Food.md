@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit, peach, rather, recommend, scrambled eggs, she would, she'd, silverware, squash, takeout, they'd, weight, would, wouldn't
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -29,3 +34,194 @@ alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit,
 - **alcoholic / little bit / recommend** — alcoholic 形容饮品时表示"含酒精的"：alcoholic drinks. little bit = 一点点（= a little）：a little bit bitter. recommend 后接名词或动名词：I recommend the peach. / I recommend trying it.
 
 - **would / wouldn't** — would 在此表意愿或假设偏好：I would like some tea. wouldn't = 不愿意：She wouldn't eat that. 注意 would 也用于礼貌请求：Would you pass the silverware?
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：谈论喜好时，我听到了“alcoholic”。  
+   **英文**：When we talked about favorites, I heard "alcoholic".
+   > **解析**：本题在单元主题情境中复习表达 alcoholic。
+
+2. **中文**：朋友说“choice”很重要。  
+   **英文**：My friend said "choice" was important.
+   > **解析**：本题在单元主题情境中复习表达 choice。
+
+3. **中文**：我问他们喜欢哪一个：“he'd”。  
+   **英文**：I asked which one they liked: "he'd".
+   > **解析**：本题在单元主题情境中复习表达 he'd。
+
+4. **中文**：聊天时，我们比较了“peach”。  
+   **英文**：In our chat, we compared "peach".
+   > **解析**：本题在单元主题情境中复习表达 peach。
+
+5. **中文**：同伴先选择了“she would”。  
+   **英文**：My partner chose "she would" first.
+   > **解析**：本题在单元主题情境中复习表达 she would。
+
+6. **中文**：我们用“squash”描述喜好。  
+   **英文**：We used "squash" to describe a favorite.
+   > **解析**：本题在单元主题情境中复习表达 squash。
+
+7. **中文**：答案中包含“would”。  
+   **英文**：The answer included "would".
+   > **解析**：本题在单元主题情境中复习表达 would。
+
+8. **中文**：我从对话中记住了“bacon”。  
+   **英文**：I remembered "bacon" from the conversation.
+   > **解析**：本题在单元主题情境中复习表达 bacon。
+
+9. **中文**：朋友微笑着重复了“flour”。  
+   **英文**：My friend repeated "flour" with a smile.
+   > **解析**：本题在单元主题情境中复习表达 flour。
+
+10. **中文**：那场关于喜好的聊天以“lime”收尾。  
+   **英文**：That chat about favorites ended with "lime".
+   > **解析**：本题在单元主题情境中复习表达 lime。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. When we talked about favorites, I heard "alcoholic".
+   > **中文**：谈论喜好时，我听到了“alcoholic”。
+2. My friend said "choice" was important.
+   > **中文**：朋友说“choice”很重要。
+3. I asked which one they liked: "he'd".
+   > **中文**：我问他们喜欢哪一个：“he'd”。
+4. In our chat, we compared "peach".
+   > **中文**：聊天时，我们比较了“peach”。
+5. My partner chose "she would" first.
+   > **中文**：同伴先选择了“she would”。
+6. We used "squash" to describe a favorite.
+   > **中文**：我们用“squash”描述喜好。
+7. The answer included "would".
+   > **中文**：答案中包含“would”。
+8. I remembered "bacon" from the conversation.
+   > **中文**：我从对话中记住了“bacon”。
+9. My friend repeated "flour" with a smile.
+   > **中文**：朋友微笑着重复了“flour”。
+10. That chat about favorites ended with "lime".
+   > **中文**：那场关于喜好的聊天以“lime”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+When we talked about favorites, I heard "`____`".
+
+- [x] alcoholic
+- [ ] peach
+- [ ] would
+
+> **解析**：本题在单元主题情境中复习表达 alcoholic。
+
+### 2
+
+My friend said "`____`" was important.
+
+- [x] choice
+- [ ] she would
+- [ ] bacon
+
+> **解析**：本题在单元主题情境中复习表达 choice。
+
+### 3
+
+I asked which one they liked: "`____`".
+
+- [x] he'd
+- [ ] squash
+- [ ] flour
+
+> **解析**：本题在单元主题情境中复习表达 he'd。
+
+### 4
+
+In our chat, we compared "`____`".
+
+- [x] peach
+- [ ] would
+- [ ] lime
+
+> **解析**：本题在单元主题情境中复习表达 peach。
+
+### 5
+
+My partner chose "`____`" first.
+
+- [x] she would
+- [ ] bacon
+- [ ] alcoholic
+
+> **解析**：本题在单元主题情境中复习表达 she would。
+
+### 6
+
+We used "`____`" to describe a favorite.
+
+- [x] squash
+- [ ] flour
+- [ ] choice
+
+> **解析**：本题在单元主题情境中复习表达 squash。
+
+### 7
+
+The answer included "`____`".
+
+- [x] would
+- [ ] lime
+- [ ] he'd
+
+> **解析**：本题在单元主题情境中复习表达 would。
+
+### 8
+
+I remembered "`____`" from the conversation.
+
+- [x] bacon
+- [ ] alcoholic
+- [ ] peach
+
+> **解析**：本题在单元主题情境中复习表达 bacon。
+
+### 9
+
+My friend repeated "`____`" with a smile.
+
+- [x] flour
+- [ ] choice
+- [ ] she would
+
+> **解析**：本题在单元主题情境中复习表达 flour。
+
+### 10
+
+That chat about favorites ended with "`____`".
+
+- [x] lime
+- [ ] he'd
+- [ ] squash
+
+> **解析**：本题在单元主题情境中复习表达 lime。
+
+</quiz-cloze>

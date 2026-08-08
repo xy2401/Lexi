@@ -1,0 +1,951 @@
+<script setup lang="ts">
+import { computed, nextTick, ref } from 'vue'
+import PracticePanel from './PracticePanel.vue'
+import { useTTS } from '../composables/useTTS'
+import type {
+  QuizDefinition,
+  SentenceBuilderQuiz,
+  ListeningQuiz,
+  MatchingQuiz,
+  ClozeQuiz,
+  MatchingPair,
+} from '../lib/course-markdown'
+import type { WordEntry } from '../lib/db'
+import { createListeningSegments, type ListeningSegment, type ListeningWordSegment } from '../lib/listening-segments'
+import { CORRECT_ADVANCE_MS, MATCH_RETRY_MS, WRONG_ADVANCE_MS } from '../lib/quiz-timing'
+
+const props = defineProps<{
+  quiz: QuizDefinition
+  words: string[]
+  entries: WordEntry[]
+}>()
+
+const emit = defineEmits<{
+  back: []
+  complete: [id: string]
+}>()
+
+const { speak, speakSequence } = useTTS()
+const finished = ref(false)
+const feedback = ref<'correct' | 'wrong' | null>(null)
+let completionSent = false
+
+function shuffle<T>(values: T[]): T[] {
+  const result = [...values]
+  for (let index = result.length - 1; index > 0; index--) {
+    const target = Math.floor(Math.random() * (index + 1))
+    ;[result[index], result[target]] = [result[target], result[index]]
+  }
+  return result
+}
+
+function completeQuiz() {
+  finished.value = true
+  feedback.value = 'correct'
+  if (!completionSent) {
+    completionSent = true
+    emit('complete', props.quiz.id)
+  }
+}
+
+function legacyMode(type: QuizDefinition['type']) {
+  if (type === 'pronunciation-spell') return 'spell' as const
+  if (type === 'translation-choice') return 'translate' as const
+  return 'match' as const
+}
+
+const isLegacy = computed(() => [
+  'pronunciation-match',
+  'pronunciation-spell',
+  'translation-choice',
+].includes(props.quiz.type))
+
+// Sentence builder
+interface SentenceTile {
+  id: string
+  text: string
+  distractor: boolean
+}
+
+const sentenceQuiz = computed(() => props.quiz as SentenceBuilderQuiz)
+const sentenceIndex = ref(0)
+const sentenceAnswered = ref(0)
+const sentenceLocked = ref(false)
+const currentSentence = computed(() => sentenceQuiz.value.items[sentenceIndex.value])
+const answerTokens = computed(() => currentSentence.value?.english.match(/[A-Za-z][A-Za-z'-]*(?:[.,!?;:])?/g) || [])
+const sentenceTiles = ref<SentenceTile[]>([])
+const selectedTiles = ref<SentenceTile[]>([])
+const draggedSentenceTileId = ref<string | null>(null)
+let sentenceDragPointerId: number | null = null
+let sentenceDragStart = { x: 0, y: 0 }
+let sentenceDragMoved = false
+let suppressSentenceTileClick = false
+
+function initSentenceBuilder() {
+  if (props.quiz.type !== 'sentence-builder') return
+  sentenceIndex.value = 0
+  sentenceAnswered.value = 0
+  sentenceLocked.value = false
+  prepareSentenceItem()
+}
+
+function prepareSentenceItem() {
+  selectedTiles.value = []
+  sentenceLocked.value = false
+  feedback.value = null
+  const answers = answerTokens.value.map((text, index) => ({ id: `answer-${index}`, text, distractor: false }))
+  const answerSet = new Set(answerTokens.value.map(token => token.replace(/[.,!?;:]$/, '').toLowerCase()))
+  const distractorPool = [...new Set(props.words.flatMap(word => word.match(/[A-Za-z][A-Za-z'-]*/g) || []))]
+    .filter(word => !answerSet.has(word.toLowerCase()))
+  const distractors = shuffle(distractorPool).slice(0, Math.min(2, distractorPool.length))
+    .map((text, index) => ({ id: `distractor-${index}`, text, distractor: true }))
+  sentenceTiles.value = shuffle([...answers, ...distractors])
+}
+
+function chooseSentenceTile(tile: SentenceTile) {
+  if (finished.value || sentenceLocked.value) return
+  if (selectedTiles.value.some(item => item.id === tile.id)) return
+  selectedTiles.value.push(tile)
+  feedback.value = null
+}
+
+function returnSentenceTile(tile: SentenceTile) {
+  if (finished.value || sentenceLocked.value) return
+  selectedTiles.value = selectedTiles.value.filter(item => item.id !== tile.id)
+  feedback.value = null
+}
+
+function handleSelectedTileClick(tile: SentenceTile) {
+  if (suppressSentenceTileClick) return
+  returnSentenceTile(tile)
+}
+
+function startSentenceDrag(event: PointerEvent, tile: SentenceTile) {
+  if (finished.value || sentenceLocked.value || event.button !== 0) return
+  sentenceDragPointerId = event.pointerId
+  sentenceDragStart = { x: event.clientX, y: event.clientY }
+  sentenceDragMoved = false
+  draggedSentenceTileId.value = tile.id
+  try {
+    ;(event.currentTarget as HTMLElement).setPointerCapture(event.pointerId)
+  } catch {
+    // Older WebViews can still reorder while the pointer stays over the tile.
+  }
+}
+
+function moveSentenceDrag(event: PointerEvent) {
+  if (sentenceDragPointerId !== event.pointerId || !draggedSentenceTileId.value) return
+  if (Math.hypot(event.clientX - sentenceDragStart.x, event.clientY - sentenceDragStart.y) < 5) return
+  sentenceDragMoved = true
+  event.preventDefault()
+
+  const slot = (event.currentTarget as HTMLElement).closest<HTMLElement>('.sentence-slot')
+  if (!slot) return
+  const slotRect = slot.getBoundingClientRect()
+  if (event.clientX < slotRect.left || event.clientX > slotRect.right
+    || event.clientY < slotRect.top || event.clientY > slotRect.bottom) return
+
+  const targets = [...slot.querySelectorAll<HTMLElement>('[data-sentence-tile-id]')]
+  const target = targets.reduce<HTMLElement | null>((nearest, candidate) => {
+    if (!nearest) return candidate
+    const candidateRect = candidate.getBoundingClientRect()
+    const nearestRect = nearest.getBoundingClientRect()
+    const candidateDistance = Math.hypot(
+      event.clientX - (candidateRect.left + candidateRect.width / 2),
+      event.clientY - (candidateRect.top + candidateRect.height / 2),
+    )
+    const nearestDistance = Math.hypot(
+      event.clientX - (nearestRect.left + nearestRect.width / 2),
+      event.clientY - (nearestRect.top + nearestRect.height / 2),
+    )
+    return candidateDistance < nearestDistance ? candidate : nearest
+  }, null)
+  const targetId = target?.dataset.sentenceTileId
+  const draggedId = draggedSentenceTileId.value
+  if (!targetId || targetId === draggedId) return
+
+  const from = selectedTiles.value.findIndex(tile => tile.id === draggedId)
+  const to = selectedTiles.value.findIndex(tile => tile.id === targetId)
+  if (from < 0 || to < 0) return
+  const reordered = [...selectedTiles.value]
+  const [dragged] = reordered.splice(from, 1)
+  reordered.splice(to, 0, dragged)
+  selectedTiles.value = reordered
+  feedback.value = null
+}
+
+function endSentenceDrag(event: PointerEvent) {
+  if (sentenceDragPointerId !== event.pointerId) return
+  try {
+    if ((event.currentTarget as HTMLElement).hasPointerCapture(event.pointerId)) {
+      ;(event.currentTarget as HTMLElement).releasePointerCapture(event.pointerId)
+    }
+  } catch {
+    // Pointer capture is an enhancement, not a requirement for click behavior.
+  }
+  if (sentenceDragMoved) {
+    suppressSentenceTileClick = true
+    window.setTimeout(() => { suppressSentenceTileClick = false }, 0)
+  }
+  sentenceDragPointerId = null
+  sentenceDragMoved = false
+  draggedSentenceTileId.value = null
+}
+
+function checkSentence() {
+  if (!currentSentence.value || sentenceLocked.value) return
+  speak(currentSentence.value.english)
+  const selected = selectedTiles.value.map(tile => tile.text.toLowerCase())
+  const answer = answerTokens.value.map(token => token.toLowerCase())
+  if (selected.length === answer.length && selected.every((token, index) => token === answer[index])) {
+    sentenceLocked.value = true
+    sentenceAnswered.value++
+    feedback.value = 'correct'
+    window.setTimeout(() => {
+      sentenceIndex.value++
+      if (sentenceIndex.value >= sentenceQuiz.value.items.length) {
+        completeQuiz()
+        return
+      }
+      prepareSentenceItem()
+    }, CORRECT_ADVANCE_MS)
+  } else {
+    feedback.value = 'wrong'
+  }
+}
+
+// Listening
+const listeningQuiz = computed(() => props.quiz as ListeningQuiz)
+const listeningQueue = ref<number[]>([])
+const listeningIndex = ref(0)
+const listeningAnswered = ref(0)
+const listeningLocked = ref(false)
+const listeningAnswer = ref('')
+const listeningSegments = ref<ListeningSegment[]>([])
+const listeningInputRefs = ref<HTMLInputElement[]>([])
+
+const currentListeningItem = computed(() => {
+  const itemIndex = listeningQueue.value[listeningIndex.value]
+  return listeningQuiz.value.items[itemIndex]
+})
+
+function normalizeListeningWord(value: string) {
+  return value
+    .toLowerCase()
+    .replace(/[‘’]/g, "'")
+    .trim()
+}
+
+function listeningWords(): ListeningWordSegment[] {
+  return listeningSegments.value.filter((segment): segment is ListeningWordSegment => segment.kind === 'word')
+}
+
+function prepareListeningItem() {
+  listeningSegments.value = currentListeningItem.value
+    ? createListeningSegments(currentListeningItem.value.english)
+    : []
+  listeningInputRefs.value = []
+  listeningAnswer.value = ''
+  listeningLocked.value = false
+  feedback.value = null
+}
+
+function setListeningInputRef(element: Element | null, wordIndex: number) {
+  if (element instanceof HTMLInputElement) listeningInputRefs.value[wordIndex] = element
+}
+
+function focusListeningWord(wordIndex: number) {
+  nextTick(() => listeningInputRefs.value[wordIndex]?.focus())
+}
+
+function handleListeningInput(segment: ListeningWordSegment) {
+  segment.status = 'idle'
+  if (segment.value.length >= segment.answer.length) {
+    focusListeningWord(segment.wordIndex + 1)
+  }
+}
+
+function handleListeningKeydown(event: KeyboardEvent, segment: ListeningWordSegment) {
+  if (event.key === 'Enter') {
+    event.preventDefault()
+    submitListening()
+    return
+  }
+  if (event.key === ' ' || (event.key === 'Tab' && !event.shiftKey)) {
+    event.preventDefault()
+    focusListeningWord(segment.wordIndex + 1)
+    return
+  }
+  if (event.key === 'Backspace' && !segment.value && segment.wordIndex > 0) {
+    event.preventDefault()
+    focusListeningWord(segment.wordIndex - 1)
+  }
+}
+
+function handleListeningPaste(event: ClipboardEvent) {
+  const pastedWords = (event.clipboardData?.getData('text') || '').match(/[A-Za-z][A-Za-z'-]*/g)
+  if (!pastedWords?.length) return
+  event.preventDefault()
+  const words = listeningWords()
+  pastedWords.slice(0, words.length).forEach((value, index) => {
+    words[index].value = value
+    words[index].status = 'idle'
+  })
+  focusListeningWord(Math.min(pastedWords.length, words.length - 1))
+}
+
+function replayListening() {
+  if (currentListeningItem.value) speak(currentListeningItem.value.english)
+}
+
+function submitListening() {
+  if (!currentListeningItem.value || listeningLocked.value) return
+  const words = listeningWords()
+  const firstEmpty = words.find(segment => !segment.value.trim())
+  if (firstEmpty) {
+    focusListeningWord(firstEmpty.wordIndex)
+    return
+  }
+  const results = words.map(segment => {
+    const wordCorrect = normalizeListeningWord(segment.value) === normalizeListeningWord(segment.answer)
+    segment.status = wordCorrect ? 'correct' : 'wrong'
+    return wordCorrect
+  })
+  const correct = results.every(Boolean)
+  listeningLocked.value = true
+  listeningAnswer.value = currentListeningItem.value.english
+  feedback.value = correct ? 'correct' : 'wrong'
+  if (correct) listeningAnswered.value++
+  else listeningQueue.value.push(listeningQueue.value[listeningIndex.value])
+
+  window.setTimeout(() => {
+    listeningIndex.value++
+    if (listeningIndex.value >= listeningQueue.value.length) {
+      completeQuiz()
+      return
+    }
+    prepareListeningItem()
+    nextTick(replayListening)
+  }, correct ? CORRECT_ADVANCE_MS : WRONG_ADVANCE_MS)
+}
+
+// Matching
+type MatchingMode = 'text-chinese' | 'audio-chinese' | 'audio-english'
+const matchingQuiz = computed(() => props.quiz as MatchingQuiz)
+const matchingMode = ref<MatchingMode>('text-chinese')
+const matchingPairs = ref<Array<MatchingPair & { id: number }>>([])
+const matchingRight = ref<Array<{ id: number; text: string }>>([])
+const selectedLeft = ref<number | null>(null)
+const selectedRight = ref<number | null>(null)
+const matchedIds = ref<number[]>([])
+const wrongPair = ref(false)
+
+function firstTranslation(entry: WordEntry): string {
+  return (entry.translation || '')
+    .split(/\\n|\n/)[0]
+    .replace(/^[a-z]+\.\s*/i, '')
+    .trim()
+    .slice(0, 12)
+}
+
+function initMatching() {
+  if (props.quiz.type !== 'matching') return
+  const sourcePairs = matchingQuiz.value.source === 'explicit'
+    ? matchingQuiz.value.pairs
+    : props.entries
+      .map(entry => ({ english: entry.word, chinese: firstTranslation(entry) }))
+      .filter(pair => pair.chinese)
+      .slice(0, 10)
+  matchingPairs.value = sourcePairs.map((pair, id) => ({ ...pair, id }))
+  matchingMode.value = shuffle<MatchingMode>(['text-chinese', 'audio-chinese', 'audio-english'])[0]
+  matchingRight.value = shuffle(matchingPairs.value.map(pair => ({
+    id: pair.id,
+    text: matchingMode.value === 'audio-english' ? pair.english : pair.chinese,
+  })))
+}
+
+function selectMatchingLeft(pair: MatchingPair & { id: number }) {
+  if (matchedIds.value.includes(pair.id)) return
+  selectedLeft.value = pair.id
+  speak(pair.english)
+  checkMatchingPair()
+}
+
+function selectMatchingRight(id: number) {
+  if (matchedIds.value.includes(id)) return
+  selectedRight.value = id
+  if (matchingMode.value === 'audio-english') {
+    const pair = matchingPairs.value.find(item => item.id === id)
+    if (pair) speak(pair.english)
+  }
+  checkMatchingPair()
+}
+
+function checkMatchingPair() {
+  if (selectedLeft.value === null || selectedRight.value === null) return
+  const left = selectedLeft.value
+  const right = selectedRight.value
+  if (left === right) {
+    matchedIds.value.push(left)
+    selectedLeft.value = null
+    selectedRight.value = null
+    if (matchedIds.value.length === matchingPairs.value.length) completeQuiz()
+  } else {
+    wrongPair.value = true
+    window.setTimeout(() => {
+      selectedLeft.value = null
+      selectedRight.value = null
+      wrongPair.value = false
+    }, MATCH_RETRY_MS)
+  }
+}
+
+const matchingModeLabel = computed(() => ({
+  'text-chinese': '英文 ↔ 中文',
+  'audio-chinese': '发音 ↔ 中文',
+  'audio-english': '发音 ↔ 英文',
+})[matchingMode.value])
+
+// Cloze
+const clozeQuiz = computed(() => props.quiz as ClozeQuiz)
+const clozeIndex = ref(0)
+const clozeAnswered = ref(0)
+const clozeLocked = ref(false)
+const currentCloze = computed(() => clozeQuiz.value.items[clozeIndex.value])
+const selectedCloze = ref<string | null>(null)
+
+function initCloze() {
+  clozeIndex.value = 0
+  clozeAnswered.value = 0
+  prepareClozeItem()
+}
+
+function prepareClozeItem() {
+  selectedCloze.value = null
+  clozeLocked.value = false
+  feedback.value = null
+}
+
+function chooseCloze(text: string, correct: boolean) {
+  if (finished.value || clozeLocked.value || !currentCloze.value) return
+  selectedCloze.value = text
+  if (correct) {
+    const completedSentence = currentCloze.value.prompt.replace('____', text)
+    speakSequence([text, completedSentence])
+    clozeLocked.value = true
+    clozeAnswered.value++
+    feedback.value = 'correct'
+    window.setTimeout(() => {
+      clozeIndex.value++
+      if (clozeIndex.value >= clozeQuiz.value.items.length) {
+        completeQuiz()
+        return
+      }
+      prepareClozeItem()
+    }, CORRECT_ADVANCE_MS)
+  } else {
+    speak(text)
+    feedback.value = 'wrong'
+  }
+}
+
+const clozeAnswer = computed(() => currentCloze.value?.options.find(option => option.correct)?.text || '____')
+
+if (props.quiz.type === 'sentence-builder') initSentenceBuilder()
+if (props.quiz.type === 'listening') {
+  listeningQueue.value = props.quiz.items.map((_, index) => index)
+  prepareListeningItem()
+  nextTick(replayListening)
+}
+if (props.quiz.type === 'matching') initMatching()
+if (props.quiz.type === 'cloze') initCloze()
+</script>
+
+<template>
+  <div class="quiz-runner">
+    <div class="runner-header">
+      <button class="back-btn" @click="emit('back')">← 关卡列表</button>
+      <div>
+        <strong>{{ quiz.title }}</strong>
+        <small>{{ quiz.description }}</small>
+      </div>
+    </div>
+
+    <PracticePanel
+      v-if="isLegacy"
+      :key="quiz.id"
+      :words="words"
+      :entries="entries"
+      :initial-mode="legacyMode(quiz.type)"
+      single-mode
+      @complete="completeQuiz"
+    />
+
+    <div v-else-if="quiz.type === 'sentence-builder'" class="game-stack">
+      <div class="mini-progress">
+        <div :style="{ width: `${sentenceAnswered / sentenceQuiz.items.length * 100}%` }"></div>
+      </div>
+      <div class="progress-copy">{{ Math.min(sentenceAnswered + 1, sentenceQuiz.items.length) }} / {{ sentenceQuiz.items.length }}</div>
+      <div class="question-translation">{{ currentSentence?.chinese }}</div>
+      <div class="sentence-slot" :class="feedback">
+        <button
+          v-for="tile in selectedTiles"
+          :key="tile.id"
+          class="word-tile selected draggable"
+          :class="{ dragging: draggedSentenceTileId === tile.id }"
+          :data-sentence-tile-id="tile.id"
+          :aria-label="`${tile.text}，拖动调整顺序，点击移回词池`"
+          @click="handleSelectedTileClick(tile)"
+          @pointerdown="startSentenceDrag($event, tile)"
+          @pointermove="moveSentenceDrag"
+          @pointerup="endSentenceDrag"
+          @pointercancel="endSentenceDrag"
+        >
+          {{ tile.text }}
+        </button>
+        <span v-if="selectedTiles.length === 0" class="slot-hint">点击下方词块组成句子</span>
+      </div>
+      <div v-if="selectedTiles.length" class="drag-hint">拖动上方词块可调整顺序，点击可移回词池</div>
+      <div class="tile-pool">
+        <button
+          v-for="tile in sentenceTiles"
+          :key="tile.id"
+          :class="['word-tile', { reserved: selectedTiles.some(item => item.id === tile.id) }]"
+          :aria-hidden="selectedTiles.some(item => item.id === tile.id)"
+          :tabindex="selectedTiles.some(item => item.id === tile.id) ? -1 : 0"
+          @click="chooseSentenceTile(tile)"
+        >
+          {{ tile.text }}
+        </button>
+      </div>
+      <button class="primary-btn" :disabled="selectedTiles.length === 0 || finished || sentenceLocked" @click="checkSentence">检查</button>
+      <div v-if="feedback === 'wrong'" class="feedback wrong">顺序还不对，再试一次</div>
+      <div v-if="feedback === 'correct'" class="feedback correct">正确！{{ currentSentence?.explanation }}</div>
+    </div>
+
+    <div v-else-if="quiz.type === 'listening'" class="game-stack">
+      <div class="mini-progress">
+        <div :style="{ width: `${listeningAnswered / listeningQuiz.items.length * 100}%` }"></div>
+      </div>
+      <div class="progress-copy">{{ Math.min(listeningAnswered + 1, listeningQuiz.items.length) }} / {{ listeningQuiz.items.length }}</div>
+      <button class="sound-prompt" @click="replayListening">🔊 播放句子</button>
+      <div class="listening-blanks" @paste="handleListeningPaste">
+        <template v-for="(segment, index) in listeningSegments" :key="index">
+          <span v-if="segment.kind === 'separator'" class="listening-separator">{{ segment.text }}</span>
+          <span v-else class="listening-word-wrap">
+            <input
+              :ref="element => setListeningInputRef(element as Element | null, segment.wordIndex)"
+              v-model="segment.value"
+              class="listening-word-input"
+              :class="segment.status"
+              :style="{ width: `${Math.max(3, segment.answer.length + 1)}ch` }"
+              :maxlength="segment.answer.length"
+              :aria-label="`第 ${segment.wordIndex + 1} 个单词`"
+              :disabled="listeningLocked || finished"
+              autocomplete="off"
+              autocapitalize="none"
+              spellcheck="false"
+              @input="handleListeningInput(segment)"
+              @keydown="handleListeningKeydown($event, segment)"
+            />
+            <small v-if="segment.status === 'wrong'" class="word-correction">{{ segment.answer }}</small>
+          </span>
+        </template>
+      </div>
+      <button class="primary-btn" :disabled="listeningLocked || finished" @click="submitListening">确认</button>
+      <div v-if="feedback === 'wrong'" class="feedback wrong">正确答案：{{ listeningAnswer }}</div>
+      <div v-if="finished" class="feedback correct">听音辨句完成</div>
+    </div>
+
+    <div v-else-if="quiz.type === 'matching'" class="game-stack">
+      <div class="matching-mode">本轮模式：{{ matchingModeLabel }}</div>
+      <div v-if="matchingPairs.length >= 2" class="matching-grid" :class="{ shake: wrongPair }">
+        <div class="matching-column">
+          <button
+            v-for="pair in matchingPairs"
+            :key="`left-${pair.id}`"
+            :class="['match-card', { selected: selectedLeft === pair.id, matched: matchedIds.includes(pair.id) }]"
+            :disabled="matchedIds.includes(pair.id)"
+            @click="selectMatchingLeft(pair)"
+          >
+            {{ matchingMode === 'text-chinese' ? pair.english : '🔊' }}
+          </button>
+        </div>
+        <div class="matching-column">
+          <button
+            v-for="item in matchingRight"
+            :key="`right-${item.id}`"
+            :class="['match-card', { selected: selectedRight === item.id, matched: matchedIds.includes(item.id) }]"
+            :disabled="matchedIds.includes(item.id)"
+            @click="selectMatchingRight(item.id)"
+          >
+            {{ item.text }}
+          </button>
+        </div>
+      </div>
+      <div v-else class="feedback wrong">可用释义不足，至少需要 2 个词条</div>
+      <div v-if="finished" class="feedback correct">全部配对完成</div>
+    </div>
+
+    <div v-else-if="quiz.type === 'cloze'" class="game-stack">
+      <div class="mini-progress">
+        <div :style="{ width: `${clozeAnswered / clozeQuiz.items.length * 100}%` }"></div>
+      </div>
+      <div class="progress-copy">{{ Math.min(clozeAnswered + 1, clozeQuiz.items.length) }} / {{ clozeQuiz.items.length }}</div>
+      <div class="cloze-prompt">
+        {{ currentCloze?.prompt.replace('____', feedback === 'correct' ? clozeAnswer : '______') }}
+      </div>
+      <div class="cloze-options">
+        <button
+          v-for="option in currentCloze?.options || []"
+          :key="option.text"
+          :class="['word-tile', { wrong: selectedCloze === option.text && !option.correct, correct: feedback === 'correct' && option.correct }]"
+          :disabled="finished || clozeLocked"
+          @click="chooseCloze(option.text, option.correct)"
+        >
+          {{ option.text }}
+        </button>
+      </div>
+      <div v-if="feedback === 'wrong' && !finished" class="feedback wrong">这个选项不合适，再试一次</div>
+      <div v-if="feedback === 'correct'" class="feedback correct">正确！{{ currentCloze?.explanation }}</div>
+    </div>
+
+    <button v-if="finished && !isLegacy" class="finish-btn" @click="emit('back')">完成并返回</button>
+  </div>
+</template>
+
+<style scoped>
+.quiz-runner,
+.game-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.runner-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding-bottom: 0.65rem;
+  border-bottom: 1px solid #eee;
+}
+
+.runner-header > div {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+}
+
+.runner-header strong {
+  color: #2c3e50;
+  font-size: 0.95rem;
+}
+
+.runner-header small {
+  color: #888;
+  font-size: 0.7rem;
+}
+
+.back-btn {
+  border: 1px solid #ddd;
+  border-radius: 14px;
+  background: #fff;
+  padding: 0.3rem 0.65rem;
+  color: #666;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.question-translation,
+.cloze-prompt {
+  padding: 0.9rem;
+  border-radius: 10px;
+  background: #f6fef0;
+  color: #2c3e50;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.sentence-slot,
+.tile-pool,
+.cloze-options {
+  min-height: 52px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  padding: 0.6rem;
+  border: 2px dashed #ddd;
+  border-radius: 10px;
+}
+
+.sentence-slot {
+  height: 92px;
+  min-height: 92px;
+  box-sizing: border-box;
+  align-content: flex-start;
+  overflow-y: auto;
+}
+
+.tile-pool,
+.cloze-options {
+  border-style: solid;
+  background: #fafafa;
+}
+
+.slot-hint {
+  color: #aaa;
+  font-size: 0.8rem;
+}
+
+.word-tile,
+.match-card {
+  border: 2px solid #dedede;
+  border-radius: 9px;
+  background: #fff;
+  color: #2c3e50;
+  padding: 0.55rem 0.75rem;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 2px 0 #dedede;
+}
+
+.word-tile:hover,
+.match-card:hover:not(:disabled) {
+  border-color: #58cc02;
+}
+
+.word-tile.selected,
+.match-card.selected {
+  border-color: #1cb0f6;
+  background: #edf9ff;
+}
+
+.word-tile.draggable {
+  cursor: grab;
+  touch-action: none;
+  user-select: none;
+}
+
+.word-tile.draggable:active,
+.word-tile.dragging {
+  cursor: grabbing;
+  border-color: #1cb0f6;
+  background: #edf9ff;
+  opacity: 0.8;
+}
+
+.drag-hint {
+  color: #aaa;
+  text-align: center;
+  font-size: 0.68rem;
+  pointer-events: none;
+}
+
+.word-tile.reserved {
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.word-tile.wrong {
+  border-color: #ff4b4b;
+  color: #ff4b4b;
+}
+
+.word-tile.correct {
+  border-color: #58cc02;
+  color: #3d8c00;
+}
+
+.primary-btn,
+.finish-btn,
+.sound-prompt {
+  align-self: center;
+  border: none;
+  border-radius: 18px;
+  padding: 0.55rem 1.25rem;
+  background: #58cc02;
+  color: #fff;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.primary-btn:disabled {
+  opacity: 0.45;
+  cursor: default;
+}
+
+.sound-prompt {
+  border: 2px solid #58cc02;
+  background: #f6fef0;
+  color: #3d8c00;
+}
+
+.feedback {
+  text-align: center;
+  font-size: 0.82rem;
+  padding: 0.45rem;
+  border-radius: 8px;
+}
+
+.feedback.correct {
+  background: #eefbd8;
+  color: #3d8c00;
+}
+
+.feedback.wrong {
+  background: #fff0f0;
+  color: #d63031;
+}
+
+.mini-progress {
+  height: 7px;
+  overflow: hidden;
+  border-radius: 4px;
+  background: #eee;
+}
+
+.mini-progress div {
+  height: 100%;
+  background: #58cc02;
+  transition: width 0.25s;
+}
+
+.progress-copy {
+  color: #999;
+  text-align: right;
+  font-size: 0.7rem;
+}
+
+.sentence-input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.65rem 0.75rem;
+  border: 2px solid #ddd;
+  border-radius: 9px;
+  font-size: 0.95rem;
+  outline: none;
+}
+
+.sentence-input:focus {
+  border-color: #58cc02;
+}
+
+.sentence-input.wrong {
+  border-color: #ff4b4b;
+}
+
+.listening-blanks {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  row-gap: 0.9rem;
+  padding: 1rem 0.75rem;
+  border: 2px solid #e5e5e5;
+  border-radius: 10px;
+  background: #fafafa;
+  line-height: 2.4rem;
+}
+
+.listening-separator {
+  white-space: pre;
+  color: #2c3e50;
+  font-size: 1rem;
+  line-height: 2.1rem;
+}
+
+.listening-word-wrap {
+  position: relative;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: normal;
+}
+
+.listening-word-input {
+  box-sizing: content-box;
+  min-width: 2.5rem;
+  max-width: 12rem;
+  height: 2rem;
+  padding: 0 0.25rem;
+  border: 0;
+  border-bottom: 2px solid #8e44ad;
+  border-radius: 4px 4px 0 0;
+  background: #fff;
+  color: #2c3e50;
+  font-size: 0.95rem;
+  text-align: center;
+  outline: none;
+}
+
+.listening-word-input:focus {
+  border-bottom-color: #58cc02;
+  box-shadow: 0 2px 0 rgba(88, 204, 2, 0.18);
+}
+
+.listening-word-input.correct {
+  border-bottom-color: #58cc02;
+  background: #f6fef0;
+}
+
+.listening-word-input.wrong {
+  border-bottom-color: #ff4b4b;
+  background: #fff0f0;
+}
+
+.word-correction {
+  position: absolute;
+  top: 2.15rem;
+  color: #d63031;
+  font-size: 0.62rem;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.matching-mode {
+  color: #8e44ad;
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.matching-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.65rem;
+}
+
+.matching-column {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.match-card.matched {
+  visibility: hidden;
+}
+
+.matching-grid.shake {
+  animation: shake 0.25s linear;
+}
+
+@keyframes shake {
+  25% { transform: translateX(-4px); }
+  75% { transform: translateX(4px); }
+}
+
+@media (max-width: 560px) {
+  .runner-header {
+    align-items: flex-start;
+  }
+
+  .word-tile,
+  .match-card {
+    padding: 0.5rem 0.55rem;
+    font-size: 0.82rem;
+  }
+}
+</style>

@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 backup plan, deck, diner, get away, hike, in the middle of nowhere, itinerary, just in case, more, not only, off the coast of, outskirts, sold out, spontaneous, stop, stormy, sunburn, take, than, tropical, unpredictable, volcano
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ backup plan, deck, diner, get away, hike, in the middle of nowhere, itinerary, j
 - **outskirts** — 郊区、市郊。搭配：on the outskirts of town, the outskirts。The hotel is on the outskirts. 注意 outskirts 通常用复数，搭配介词 on（不是 in）。
 
 - **sunburn** — 晒伤。搭配：get a sunburn, sunburn cream。I got a bad sunburn on the tropical beach. 注意 sunburn 可作名词也可作动词：I got sunburned. / I have a sunburn.
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在机场，我听到了“backup plan”。  
+   **英文**：At the airport, I heard "backup plan".
+   > **解析**：本题在单元主题情境中复习表达 backup plan。
+
+2. **中文**：我的旅伴解释了“get away”。  
+   **英文**：My travel partner explained "get away".
+   > **解析**：本题在单元主题情境中复习表达 get away。
+
+3. **中文**：旅行途中，我们谈到了“just in case”。  
+   **英文**：During the trip, we talked about "just in case".
+   > **解析**：本题在单元主题情境中复习表达 just in case。
+
+4. **中文**：在酒店里，我记下了“off the coast of”。  
+   **英文**：At the hotel, I wrote down "off the coast of".
+   > **解析**：本题在单元主题情境中复习表达 off the coast of。
+
+5. **中文**：旅行者清楚地重复了“spontaneous”。  
+   **英文**：The traveler repeated "spontaneous" clearly.
+   > **解析**：本题在单元主题情境中复习表达 spontaneous。
+
+6. **中文**：离开前，我查看了“take”。  
+   **英文**：Before leaving, I checked "take".
+   > **解析**：本题在单元主题情境中复习表达 take。
+
+7. **中文**：在去那里的路上，我们用到了“unpredictable”。  
+   **英文**：On the way there, we used "unpredictable".
+   > **解析**：本题在单元主题情境中复习表达 unpredictable。
+
+8. **中文**：到达后，我想起了“deck”。  
+   **英文**：After arrival, I remembered "deck".
+   > **解析**：本题在单元主题情境中复习表达 deck。
+
+9. **中文**：导游指出了“in the middle of nowhere”。  
+   **英文**：The guide pointed out "in the middle of nowhere".
+   > **解析**：本题在单元主题情境中复习表达 in the middle of nowhere。
+
+10. **中文**：那段旅行故事以“more”收尾。  
+   **英文**：That travel story ended with "more".
+   > **解析**：本题在单元主题情境中复习表达 more。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the airport, I heard "backup plan".
+   > **中文**：在机场，我听到了“backup plan”。
+2. My travel partner explained "get away".
+   > **中文**：我的旅伴解释了“get away”。
+3. During the trip, we talked about "just in case".
+   > **中文**：旅行途中，我们谈到了“just in case”。
+4. At the hotel, I wrote down "off the coast of".
+   > **中文**：在酒店里，我记下了“off the coast of”。
+5. The traveler repeated "spontaneous" clearly.
+   > **中文**：旅行者清楚地重复了“spontaneous”。
+6. Before leaving, I checked "take".
+   > **中文**：离开前，我查看了“take”。
+7. On the way there, we used "unpredictable".
+   > **中文**：在去那里的路上，我们用到了“unpredictable”。
+8. After arrival, I remembered "deck".
+   > **中文**：到达后，我想起了“deck”。
+9. The guide pointed out "in the middle of nowhere".
+   > **中文**：导游指出了“in the middle of nowhere”。
+10. That travel story ended with "more".
+   > **中文**：那段旅行故事以“more”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the airport, I heard "`____`".
+
+- [x] backup plan
+- [ ] off the coast of
+- [ ] unpredictable
+
+> **解析**：本题在单元主题情境中复习表达 backup plan。
+
+### 2
+
+My travel partner explained "`____`".
+
+- [x] get away
+- [ ] spontaneous
+- [ ] deck
+
+> **解析**：本题在单元主题情境中复习表达 get away。
+
+### 3
+
+During the trip, we talked about "`____`".
+
+- [x] just in case
+- [ ] take
+- [ ] in the middle of nowhere
+
+> **解析**：本题在单元主题情境中复习表达 just in case。
+
+### 4
+
+At the hotel, I wrote down "`____`".
+
+- [x] off the coast of
+- [ ] unpredictable
+- [ ] more
+
+> **解析**：本题在单元主题情境中复习表达 off the coast of。
+
+### 5
+
+The traveler repeated "`____`" clearly.
+
+- [x] spontaneous
+- [ ] deck
+- [ ] backup plan
+
+> **解析**：本题在单元主题情境中复习表达 spontaneous。
+
+### 6
+
+Before leaving, I checked "`____`".
+
+- [x] take
+- [ ] in the middle of nowhere
+- [ ] get away
+
+> **解析**：本题在单元主题情境中复习表达 take。
+
+### 7
+
+On the way there, we used "`____`".
+
+- [x] unpredictable
+- [ ] more
+- [ ] just in case
+
+> **解析**：本题在单元主题情境中复习表达 unpredictable。
+
+### 8
+
+After arrival, I remembered "`____`".
+
+- [x] deck
+- [ ] backup plan
+- [ ] off the coast of
+
+> **解析**：本题在单元主题情境中复习表达 deck。
+
+### 9
+
+The guide pointed out "`____`".
+
+- [x] in the middle of nowhere
+- [ ] get away
+- [ ] spontaneous
+
+> **解析**：本题在单元主题情境中复习表达 in the middle of nowhere。
+
+### 10
+
+That travel story ended with "`____`".
+
+- [x] more
+- [ ] just in case
+- [ ] take
+
+> **解析**：本题在单元主题情境中复习表达 more。
+
+</quiz-cloze>

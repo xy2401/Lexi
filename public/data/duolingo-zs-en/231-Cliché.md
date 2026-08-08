@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 American dream, after all, american, assume, cheerleader, cliché, competitive, conclusion, cowboy, diverse, first impression, it might seem that, it seems that, love at first sight, might have, might not have, myth, necessarily, not sure that, old-fashioned, reputation, shake, unrealistic, welcoming, what on earth
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -43,3 +48,194 @@ American dream, after all, american, assume, cheerleader, cliché, competitive, 
 - **love at first sight / shake** — love at first sight = 一见钟情，shake = 握手/摇动。搭配：believe in love at first sight, shake hands。Do you believe in love at first sight? / In America, people shake hands when they meet. shake hands = 握手（社交礼仪）。
 
 - **cheerleader / cowboy** — cheerleader 是啦啦队员，cowboy 是牛仔。搭配：a cheerleader, a cowboy hat。These are American cultural symbols. 注意 cheerleader 在美国文化中不仅是"加油的人"，也是高中社交文化的标志。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“American dream”。  
+   **英文**：In this situation, I heard "American dream".
+   > **解析**：本题在单元主题情境中复习表达 American dream。
+
+2. **中文**：同伴解释了“cheerleader”。  
+   **英文**：My partner explained "cheerleader".
+   > **解析**：本题在单元主题情境中复习表达 cheerleader。
+
+3. **中文**：我们一起谈到了“conclusion”。  
+   **英文**：We talked about "conclusion" together.
+   > **解析**：本题在单元主题情境中复习表达 conclusion。
+
+4. **中文**：我记下了“it might seem that”。  
+   **英文**：I wrote down "it might seem that".
+   > **解析**：本题在单元主题情境中复习表达 it might seem that。
+
+5. **中文**：例句中包含“might not have”。  
+   **英文**：The example included "might not have".
+   > **解析**：本题在单元主题情境中复习表达 might not have。
+
+6. **中文**：我询问了“not sure that”。  
+   **英文**：I asked about "not sure that".
+   > **解析**：本题在单元主题情境中复习表达 not sure that。
+
+7. **中文**：我们在句子中用到了“unrealistic”。  
+   **英文**：We used "unrealistic" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 unrealistic。
+
+8. **中文**：朋友重复了“after all”。  
+   **英文**：My friend repeated "after all".
+   > **解析**：本题在单元主题情境中复习表达 after all。
+
+9. **中文**：后来，我记住了“cliché”。  
+   **英文**：Later, I remembered "cliché".
+   > **解析**：本题在单元主题情境中复习表达 cliché。
+
+10. **中文**：这个小故事以“diverse”收尾。  
+   **英文**：The short story ended with "diverse".
+   > **解析**：本题在单元主题情境中复习表达 diverse。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "American dream".
+   > **中文**：在这个情境中，我听到了“American dream”。
+2. My partner explained "cheerleader".
+   > **中文**：同伴解释了“cheerleader”。
+3. We talked about "conclusion" together.
+   > **中文**：我们一起谈到了“conclusion”。
+4. I wrote down "it might seem that".
+   > **中文**：我记下了“it might seem that”。
+5. The example included "might not have".
+   > **中文**：例句中包含“might not have”。
+6. I asked about "not sure that".
+   > **中文**：我询问了“not sure that”。
+7. We used "unrealistic" in a sentence.
+   > **中文**：我们在句子中用到了“unrealistic”。
+8. My friend repeated "after all".
+   > **中文**：朋友重复了“after all”。
+9. Later, I remembered "cliché".
+   > **中文**：后来，我记住了“cliché”。
+10. The short story ended with "diverse".
+   > **中文**：这个小故事以“diverse”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] American dream
+- [ ] it might seem that
+- [ ] unrealistic
+
+> **解析**：本题在单元主题情境中复习表达 American dream。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] cheerleader
+- [ ] might not have
+- [ ] after all
+
+> **解析**：本题在单元主题情境中复习表达 cheerleader。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] conclusion
+- [ ] not sure that
+- [ ] cliché
+
+> **解析**：本题在单元主题情境中复习表达 conclusion。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] it might seem that
+- [ ] unrealistic
+- [ ] diverse
+
+> **解析**：本题在单元主题情境中复习表达 it might seem that。
+
+### 5
+
+The example included "`____`".
+
+- [x] might not have
+- [ ] after all
+- [ ] American dream
+
+> **解析**：本题在单元主题情境中复习表达 might not have。
+
+### 6
+
+I asked about "`____`".
+
+- [x] not sure that
+- [ ] cliché
+- [ ] cheerleader
+
+> **解析**：本题在单元主题情境中复习表达 not sure that。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] unrealistic
+- [ ] diverse
+- [ ] conclusion
+
+> **解析**：本题在单元主题情境中复习表达 unrealistic。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] after all
+- [ ] American dream
+- [ ] it might seem that
+
+> **解析**：本题在单元主题情境中复习表达 after all。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] cliché
+- [ ] cheerleader
+- [ ] might not have
+
+> **解析**：本题在单元主题情境中复习表达 cliché。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] diverse
+- [ ] conclusion
+- [ ] not sure that
+
+> **解析**：本题在单元主题情境中复习表达 diverse。
+
+</quiz-cloze>

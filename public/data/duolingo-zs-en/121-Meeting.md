@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 agenda, aren't, charger, cool, couple, figure, first, from home, hard, headphones, hid, hidden, hide, hopefully, icy, isn't, isn't it, on mute, outfit, rainy, season, speed, sunset, thunder, too
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ on mute 表示"静音状态"。figure out 表示"弄清楚、解决"。
 
 - **meeting / season / speed** — 会议 / 季节 / 速度。搭配：a team meeting, this season, high speed。例句：The meeting starts in five minutes. / Winter is my favorite season. / The speed is too slow.
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“agenda”。  
+   **英文**：At work, we discussed "agenda".
+   > **解析**：本题在单元主题情境中复习表达 agenda。
+
+2. **中文**：同事提到了“couple”。  
+   **英文**：My coworker mentioned "couple".
+   > **解析**：本题在单元主题情境中复习表达 couple。
+
+3. **中文**：会议中，我听到了“from home”。  
+   **英文**：In the meeting, I heard "from home".
+   > **解析**：本题在单元主题情境中复习表达 from home。
+
+4. **中文**：我把“hidden”写进了笔记。  
+   **英文**：I added "hidden" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 hidden。
+
+5. **中文**：经理解释了“isn't”。  
+   **英文**：The manager explained "isn't".
+   > **解析**：本题在单元主题情境中复习表达 isn't。
+
+6. **中文**：团队今天用到了“outfit”。  
+   **英文**：Our team used "outfit" today.
+   > **解析**：本题在单元主题情境中复习表达 outfit。
+
+7. **中文**：午饭前，我们查看了“sunset”。  
+   **英文**：Before lunch, we checked "sunset".
+   > **解析**：本题在单元主题情境中复习表达 sunset。
+
+8. **中文**：同事询问了“aren't”。  
+   **英文**：My colleague asked about "aren't".
+   > **解析**：本题在单元主题情境中复习表达 aren't。
+
+9. **中文**：报告中包含“figure”。  
+   **英文**：The report included "figure".
+   > **解析**：本题在单元主题情境中复习表达 figure。
+
+10. **中文**：一天结束时，我记住了“headphones”。  
+   **英文**：At the end of the day, I remembered "headphones".
+   > **解析**：本题在单元主题情境中复习表达 headphones。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "agenda".
+   > **中文**：工作中，我们讨论了“agenda”。
+2. My coworker mentioned "couple".
+   > **中文**：同事提到了“couple”。
+3. In the meeting, I heard "from home".
+   > **中文**：会议中，我听到了“from home”。
+4. I added "hidden" to my notes.
+   > **中文**：我把“hidden”写进了笔记。
+5. The manager explained "isn't".
+   > **中文**：经理解释了“isn't”。
+6. Our team used "outfit" today.
+   > **中文**：团队今天用到了“outfit”。
+7. Before lunch, we checked "sunset".
+   > **中文**：午饭前，我们查看了“sunset”。
+8. My colleague asked about "aren't".
+   > **中文**：同事询问了“aren't”。
+9. The report included "figure".
+   > **中文**：报告中包含“figure”。
+10. At the end of the day, I remembered "headphones".
+   > **中文**：一天结束时，我记住了“headphones”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] agenda
+- [ ] hidden
+- [ ] sunset
+
+> **解析**：本题在单元主题情境中复习表达 agenda。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] couple
+- [ ] isn't
+- [ ] aren't
+
+> **解析**：本题在单元主题情境中复习表达 couple。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] from home
+- [ ] outfit
+- [ ] figure
+
+> **解析**：本题在单元主题情境中复习表达 from home。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] hidden
+- [ ] sunset
+- [ ] headphones
+
+> **解析**：本题在单元主题情境中复习表达 hidden。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] isn't
+- [ ] aren't
+- [ ] agenda
+
+> **解析**：本题在单元主题情境中复习表达 isn't。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] outfit
+- [ ] figure
+- [ ] couple
+
+> **解析**：本题在单元主题情境中复习表达 outfit。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] sunset
+- [ ] headphones
+- [ ] from home
+
+> **解析**：本题在单元主题情境中复习表达 sunset。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] aren't
+- [ ] agenda
+- [ ] hidden
+
+> **解析**：本题在单元主题情境中复习表达 aren't。
+
+### 9
+
+The report included "`____`".
+
+- [x] figure
+- [ ] couple
+- [ ] isn't
+
+> **解析**：本题在单元主题情境中复习表达 figure。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] headphones
+- [ ] from home
+- [ ] outfit
+
+> **解析**：本题在单元主题情境中复习表达 headphones。
+
+</quiz-cloze>

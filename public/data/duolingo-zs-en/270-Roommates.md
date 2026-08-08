@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 agree on, ask, behavior, belongings, bird cage, bother to, bring up, chore, clear, divide, equally, every once in a while, fish tank, if you could, it would be, let's finally, let's not, please also stop, please not, plumber, promise not to, remind me not to, take
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -39,3 +44,194 @@ bring up 是本单元的核心动词短语，意为"提出（话题）"。搭配
 - **promise not to / remind me not to** — 两个室友间的常用句式。Promise not to leave dishes in the sink!（保证别把碗丢水池里！）Remind me not to forget the trash day.（提醒我别忘了倒垃圾的日子。）注意 not to 是不定式的否定形式。
 
 - **clear** — 这里做动词，意为"清理、弄清楚"：Let's clear this up. / Clear your stuff off the table. 做形容词时意为"清楚的"：Is that clear? 一词多用，看搭配判断。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“agree on”。  
+   **英文**：At home, we talked about "agree on".
+   > **解析**：本题在单元主题情境中复习表达 agree on。
+
+2. **中文**：家人提到了“belongings”。  
+   **英文**：My family mentioned "belongings".
+   > **解析**：本题在单元主题情境中复习表达 belongings。
+
+3. **中文**：在房间里，我注意到了“chore”。  
+   **英文**：In the room, I noticed "chore".
+   > **解析**：本题在单元主题情境中复习表达 chore。
+
+4. **中文**：我们在家里用到了“equally”。  
+   **英文**：We used "equally" at home.
+   > **解析**：本题在单元主题情境中复习表达 equally。
+
+5. **中文**：邻居询问了“it would be”。  
+   **英文**：My neighbor asked about "it would be".
+   > **解析**：本题在单元主题情境中复习表达 it would be。
+
+6. **中文**：我在门边写下了“please also stop”。  
+   **英文**：I wrote down "please also stop" by the door.
+   > **解析**：本题在单元主题情境中复习表达 please also stop。
+
+7. **中文**：晚饭后，我们重复了“remind me not to”。  
+   **英文**：After dinner, we repeated "remind me not to".
+   > **解析**：本题在单元主题情境中复习表达 remind me not to。
+
+8. **中文**：家庭故事里包含“ask”。  
+   **英文**：The family story included "ask".
+   > **解析**：本题在单元主题情境中复习表达 ask。
+
+9. **中文**：睡前，我记住了“bother to”。  
+   **英文**：Before bed, I remembered "bother to".
+   > **解析**：本题在单元主题情境中复习表达 bother to。
+
+10. **中文**：那个夜晚以“clear”收尾。  
+   **英文**：That evening ended with "clear".
+   > **解析**：本题在单元主题情境中复习表达 clear。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "agree on".
+   > **中文**：在家里，我们谈到了“agree on”。
+2. My family mentioned "belongings".
+   > **中文**：家人提到了“belongings”。
+3. In the room, I noticed "chore".
+   > **中文**：在房间里，我注意到了“chore”。
+4. We used "equally" at home.
+   > **中文**：我们在家里用到了“equally”。
+5. My neighbor asked about "it would be".
+   > **中文**：邻居询问了“it would be”。
+6. I wrote down "please also stop" by the door.
+   > **中文**：我在门边写下了“please also stop”。
+7. After dinner, we repeated "remind me not to".
+   > **中文**：晚饭后，我们重复了“remind me not to”。
+8. The family story included "ask".
+   > **中文**：家庭故事里包含“ask”。
+9. Before bed, I remembered "bother to".
+   > **中文**：睡前，我记住了“bother to”。
+10. That evening ended with "clear".
+   > **中文**：那个夜晚以“clear”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] agree on
+- [ ] equally
+- [ ] remind me not to
+
+> **解析**：本题在单元主题情境中复习表达 agree on。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] belongings
+- [ ] it would be
+- [ ] ask
+
+> **解析**：本题在单元主题情境中复习表达 belongings。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] chore
+- [ ] please also stop
+- [ ] bother to
+
+> **解析**：本题在单元主题情境中复习表达 chore。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] equally
+- [ ] remind me not to
+- [ ] clear
+
+> **解析**：本题在单元主题情境中复习表达 equally。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] it would be
+- [ ] ask
+- [ ] agree on
+
+> **解析**：本题在单元主题情境中复习表达 it would be。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] please also stop
+- [ ] bother to
+- [ ] belongings
+
+> **解析**：本题在单元主题情境中复习表达 please also stop。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] remind me not to
+- [ ] clear
+- [ ] chore
+
+> **解析**：本题在单元主题情境中复习表达 remind me not to。
+
+### 8
+
+The family story included "`____`".
+
+- [x] ask
+- [ ] agree on
+- [ ] equally
+
+> **解析**：本题在单元主题情境中复习表达 ask。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] bother to
+- [ ] belongings
+- [ ] it would be
+
+> **解析**：本题在单元主题情境中复习表达 bother to。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] clear
+- [ ] chore
+- [ ] please also stop
+
+> **解析**：本题在单元主题情境中复习表达 clear。
+
+</quiz-cloze>

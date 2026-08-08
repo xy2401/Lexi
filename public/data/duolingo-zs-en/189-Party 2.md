@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 accent, bunch, can, can't, charming, clean up, come in, could, couldn't, doing, gorgeous, like, lyrics, mustache, right, set up, should, shouldn't, well-dressed, whose, will, won't
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -29,3 +34,194 @@ whose 用来问归属：Whose playlist is this? like 和 right 是口语中的�
 - **lyrics / bunch / doing** — lyrics = 歌词（通常用复数）：I love the lyrics of this song. bunch = 一群/一束：a bunch of friends / a bunch of flowers. doing 在此表"负责做"：Who's doing the food?
 
 - **like / right** — like 在口语中可作填充词（类似中文的"就是"）：It's like, really fun. right 用于句末寻求认同：That's a great idea, right? 注意这种用法很口语化，正式写作中避免。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“accent”。  
+   **英文**：At home, we talked about "accent".
+   > **解析**：本题在单元主题情境中复习表达 accent。
+
+2. **中文**：家人提到了“can't”。  
+   **英文**：My family mentioned "can't".
+   > **解析**：本题在单元主题情境中复习表达 can't。
+
+3. **中文**：在房间里，我注意到了“could”。  
+   **英文**：In the room, I noticed "could".
+   > **解析**：本题在单元主题情境中复习表达 could。
+
+4. **中文**：我们在家里用到了“gorgeous”。  
+   **英文**：We used "gorgeous" at home.
+   > **解析**：本题在单元主题情境中复习表达 gorgeous。
+
+5. **中文**：邻居询问了“mustache”。  
+   **英文**：My neighbor asked about "mustache".
+   > **解析**：本题在单元主题情境中复习表达 mustache。
+
+6. **中文**：我在门边写下了“shouldn't”。  
+   **英文**：I wrote down "shouldn't" by the door.
+   > **解析**：本题在单元主题情境中复习表达 shouldn't。
+
+7. **中文**：晚饭后，我们重复了“will”。  
+   **英文**：After dinner, we repeated "will".
+   > **解析**：本题在单元主题情境中复习表达 will。
+
+8. **中文**：家庭故事里包含“bunch”。  
+   **英文**：The family story included "bunch".
+   > **解析**：本题在单元主题情境中复习表达 bunch。
+
+9. **中文**：睡前，我记住了“clean up”。  
+   **英文**：Before bed, I remembered "clean up".
+   > **解析**：本题在单元主题情境中复习表达 clean up。
+
+10. **中文**：那个夜晚以“couldn't”收尾。  
+   **英文**：That evening ended with "couldn't".
+   > **解析**：本题在单元主题情境中复习表达 couldn't。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "accent".
+   > **中文**：在家里，我们谈到了“accent”。
+2. My family mentioned "can't".
+   > **中文**：家人提到了“can't”。
+3. In the room, I noticed "could".
+   > **中文**：在房间里，我注意到了“could”。
+4. We used "gorgeous" at home.
+   > **中文**：我们在家里用到了“gorgeous”。
+5. My neighbor asked about "mustache".
+   > **中文**：邻居询问了“mustache”。
+6. I wrote down "shouldn't" by the door.
+   > **中文**：我在门边写下了“shouldn't”。
+7. After dinner, we repeated "will".
+   > **中文**：晚饭后，我们重复了“will”。
+8. The family story included "bunch".
+   > **中文**：家庭故事里包含“bunch”。
+9. Before bed, I remembered "clean up".
+   > **中文**：睡前，我记住了“clean up”。
+10. That evening ended with "couldn't".
+   > **中文**：那个夜晚以“couldn't”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] accent
+- [ ] gorgeous
+- [ ] will
+
+> **解析**：本题在单元主题情境中复习表达 accent。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] can't
+- [ ] mustache
+- [ ] bunch
+
+> **解析**：本题在单元主题情境中复习表达 can't。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] could
+- [ ] shouldn't
+- [ ] clean up
+
+> **解析**：本题在单元主题情境中复习表达 could。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] gorgeous
+- [ ] will
+- [ ] couldn't
+
+> **解析**：本题在单元主题情境中复习表达 gorgeous。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] mustache
+- [ ] bunch
+- [ ] accent
+
+> **解析**：本题在单元主题情境中复习表达 mustache。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] shouldn't
+- [ ] clean up
+- [ ] can't
+
+> **解析**：本题在单元主题情境中复习表达 shouldn't。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] will
+- [ ] couldn't
+- [ ] could
+
+> **解析**：本题在单元主题情境中复习表达 will。
+
+### 8
+
+The family story included "`____`".
+
+- [x] bunch
+- [ ] accent
+- [ ] gorgeous
+
+> **解析**：本题在单元主题情境中复习表达 bunch。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] clean up
+- [ ] can't
+- [ ] mustache
+
+> **解析**：本题在单元主题情境中复习表达 clean up。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] couldn't
+- [ ] could
+- [ ] shouldn't
+
+> **解析**：本题在单元主题情境中复习表达 couldn't。
+
+</quiz-cloze>

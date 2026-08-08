@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 allergy, any, casual, disgusting, eat out, for here or to go, get, give, groceries, herb, here is, my treat, offer, olive, peanut, send, send back, server, spicy, split, starving, take, taste, well done, yuck
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ for here or to go 是美式点餐用语。send back = 退回（食物）。
 
 - **starving / get / for here or to go** — 饿极了 / 点 / 堂食外带。搭配：absolutely starving, get something to eat, for here or to go。例句：I'm absolutely starving! / Let's get some food. / For here or to go? — For here, please. 注意这些是点餐核心表达。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在餐厅里，我询问了“allergy”。  
+   **英文**：At the restaurant, I asked about "allergy".
+   > **解析**：本题在单元主题情境中复习表达 allergy。
+
+2. **中文**：菜单上有“eat out”。  
+   **英文**：The menu included "eat out".
+   > **解析**：本题在单元主题情境中复习表达 eat out。
+
+3. **中文**：在餐桌旁，我们谈到了“give”。  
+   **英文**：At the table, we talked about "give".
+   > **解析**：本题在单元主题情境中复习表达 give。
+
+4. **中文**：厨师提到了“my treat”。  
+   **英文**：The cook mentioned "my treat".
+   > **解析**：本题在单元主题情境中复习表达 my treat。
+
+5. **中文**：晚餐我点了“send”。  
+   **英文**：I ordered "send" for dinner.
+   > **解析**：本题在单元主题情境中复习表达 send。
+
+6. **中文**：我的朋友选择了“spicy”。  
+   **英文**：My friend chose "spicy".
+   > **解析**：本题在单元主题情境中复习表达 spicy。
+
+7. **中文**：服务员重复了“taste”。  
+   **英文**：The waiter repeated "taste".
+   > **解析**：本题在单元主题情境中复习表达 taste。
+
+8. **中文**：我们分享了一个关于“any”的故事。  
+   **英文**：We shared a story about "any".
+   > **解析**：本题在单元主题情境中复习表达 any。
+
+9. **中文**：饭后，我记住了“for here or to go”。  
+   **英文**：After the meal, I remembered "for here or to go".
+   > **解析**：本题在单元主题情境中复习表达 for here or to go。
+
+10. **中文**：那顿饭以“herb”收尾。  
+   **英文**：That meal ended with "herb".
+   > **解析**：本题在单元主题情境中复习表达 herb。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the restaurant, I asked about "allergy".
+   > **中文**：在餐厅里，我询问了“allergy”。
+2. The menu included "eat out".
+   > **中文**：菜单上有“eat out”。
+3. At the table, we talked about "give".
+   > **中文**：在餐桌旁，我们谈到了“give”。
+4. The cook mentioned "my treat".
+   > **中文**：厨师提到了“my treat”。
+5. I ordered "send" for dinner.
+   > **中文**：晚餐我点了“send”。
+6. My friend chose "spicy".
+   > **中文**：我的朋友选择了“spicy”。
+7. The waiter repeated "taste".
+   > **中文**：服务员重复了“taste”。
+8. We shared a story about "any".
+   > **中文**：我们分享了一个关于“any”的故事。
+9. After the meal, I remembered "for here or to go".
+   > **中文**：饭后，我记住了“for here or to go”。
+10. That meal ended with "herb".
+   > **中文**：那顿饭以“herb”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the restaurant, I asked about "`____`".
+
+- [x] allergy
+- [ ] my treat
+- [ ] taste
+
+> **解析**：本题在单元主题情境中复习表达 allergy。
+
+### 2
+
+The menu included "`____`".
+
+- [x] eat out
+- [ ] send
+- [ ] any
+
+> **解析**：本题在单元主题情境中复习表达 eat out。
+
+### 3
+
+At the table, we talked about "`____`".
+
+- [x] give
+- [ ] spicy
+- [ ] for here or to go
+
+> **解析**：本题在单元主题情境中复习表达 give。
+
+### 4
+
+The cook mentioned "`____`".
+
+- [x] my treat
+- [ ] taste
+- [ ] herb
+
+> **解析**：本题在单元主题情境中复习表达 my treat。
+
+### 5
+
+I ordered "`____`" for dinner.
+
+- [x] send
+- [ ] any
+- [ ] allergy
+
+> **解析**：本题在单元主题情境中复习表达 send。
+
+### 6
+
+My friend chose "`____`".
+
+- [x] spicy
+- [ ] for here or to go
+- [ ] eat out
+
+> **解析**：本题在单元主题情境中复习表达 spicy。
+
+### 7
+
+The waiter repeated "`____`".
+
+- [x] taste
+- [ ] herb
+- [ ] give
+
+> **解析**：本题在单元主题情境中复习表达 taste。
+
+### 8
+
+We shared a story about "`____`".
+
+- [x] any
+- [ ] allergy
+- [ ] my treat
+
+> **解析**：本题在单元主题情境中复习表达 any。
+
+### 9
+
+After the meal, I remembered "`____`".
+
+- [x] for here or to go
+- [ ] eat out
+- [ ] send
+
+> **解析**：本题在单元主题情境中复习表达 for here or to go。
+
+### 10
+
+That meal ended with "`____`".
+
+- [x] herb
+- [ ] give
+- [ ] spicy
+
+> **解析**：本题在单元主题情境中复习表达 herb。
+
+</quiz-cloze>

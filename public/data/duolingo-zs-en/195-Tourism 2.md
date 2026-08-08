@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 agency, atmosphere, been, cave, crew, departure, get into, go on, go through, golf course, hot tub, how far, in case, kangaroo, keep an eye on, life jacket, massage, port, scenery, spa, spectacular, stay behind, there's been, tourism, welcome, work out
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -31,3 +36,194 @@ been 和 there's been 提示现在完成时的使用。go on, go through, get in
 - **life jacket / work out / there's been** — life jacket = 救生衣。work out 含义丰富：锻炼（I work out every day.）、解决（Things will work out.）、算出（work out the cost）。there's been = there has been，现在完成时，表示"已经发生了……"。
 
 - **welcome / how far / been** — welcome 可作感叹词（Welcome to Sydney!）、形容词（You're welcome.）和动词（We welcome you.）。how far 询问距离（How far is it?）。been 是 be 的过去分词，I've been to... = 我去过……。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“agency”。  
+   **英文**：At home, we talked about "agency".
+   > **解析**：本题在单元主题情境中复习表达 agency。
+
+2. **中文**：家人提到了“crew”。  
+   **英文**：My family mentioned "crew".
+   > **解析**：本题在单元主题情境中复习表达 crew。
+
+3. **中文**：在房间里，我注意到了“go through”。  
+   **英文**：In the room, I noticed "go through".
+   > **解析**：本题在单元主题情境中复习表达 go through。
+
+4. **中文**：我们在家里用到了“how far”。  
+   **英文**：We used "how far" at home.
+   > **解析**：本题在单元主题情境中复习表达 how far。
+
+5. **中文**：邻居询问了“life jacket”。  
+   **英文**：My neighbor asked about "life jacket".
+   > **解析**：本题在单元主题情境中复习表达 life jacket。
+
+6. **中文**：我在门边写下了“spa”。  
+   **英文**：I wrote down "spa" by the door.
+   > **解析**：本题在单元主题情境中复习表达 spa。
+
+7. **中文**：晚饭后，我们重复了“tourism”。  
+   **英文**：After dinner, we repeated "tourism".
+   > **解析**：本题在单元主题情境中复习表达 tourism。
+
+8. **中文**：家庭故事里包含“atmosphere”。  
+   **英文**：The family story included "atmosphere".
+   > **解析**：本题在单元主题情境中复习表达 atmosphere。
+
+9. **中文**：睡前，我记住了“departure”。  
+   **英文**：Before bed, I remembered "departure".
+   > **解析**：本题在单元主题情境中复习表达 departure。
+
+10. **中文**：那个夜晚以“golf course”收尾。  
+   **英文**：That evening ended with "golf course".
+   > **解析**：本题在单元主题情境中复习表达 golf course。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "agency".
+   > **中文**：在家里，我们谈到了“agency”。
+2. My family mentioned "crew".
+   > **中文**：家人提到了“crew”。
+3. In the room, I noticed "go through".
+   > **中文**：在房间里，我注意到了“go through”。
+4. We used "how far" at home.
+   > **中文**：我们在家里用到了“how far”。
+5. My neighbor asked about "life jacket".
+   > **中文**：邻居询问了“life jacket”。
+6. I wrote down "spa" by the door.
+   > **中文**：我在门边写下了“spa”。
+7. After dinner, we repeated "tourism".
+   > **中文**：晚饭后，我们重复了“tourism”。
+8. The family story included "atmosphere".
+   > **中文**：家庭故事里包含“atmosphere”。
+9. Before bed, I remembered "departure".
+   > **中文**：睡前，我记住了“departure”。
+10. That evening ended with "golf course".
+   > **中文**：那个夜晚以“golf course”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] agency
+- [ ] how far
+- [ ] tourism
+
+> **解析**：本题在单元主题情境中复习表达 agency。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] crew
+- [ ] life jacket
+- [ ] atmosphere
+
+> **解析**：本题在单元主题情境中复习表达 crew。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] go through
+- [ ] spa
+- [ ] departure
+
+> **解析**：本题在单元主题情境中复习表达 go through。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] how far
+- [ ] tourism
+- [ ] golf course
+
+> **解析**：本题在单元主题情境中复习表达 how far。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] life jacket
+- [ ] atmosphere
+- [ ] agency
+
+> **解析**：本题在单元主题情境中复习表达 life jacket。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] spa
+- [ ] departure
+- [ ] crew
+
+> **解析**：本题在单元主题情境中复习表达 spa。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] tourism
+- [ ] golf course
+- [ ] go through
+
+> **解析**：本题在单元主题情境中复习表达 tourism。
+
+### 8
+
+The family story included "`____`".
+
+- [x] atmosphere
+- [ ] agency
+- [ ] how far
+
+> **解析**：本题在单元主题情境中复习表达 atmosphere。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] departure
+- [ ] crew
+- [ ] life jacket
+
+> **解析**：本题在单元主题情境中复习表达 departure。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] golf course
+- [ ] go through
+- [ ] spa
+
+> **解析**：本题在单元主题情境中复习表达 golf course。
+
+</quiz-cloze>

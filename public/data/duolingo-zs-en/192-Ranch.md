@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 blow away, blown, bull, calf, calves, cattle, countryside, donkey, eastern, feed, flat, goat, horseback riding, land, landscape, light, look, northern, on top of, ranch, sandy, shade, shore, southern, western
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -33,3 +38,194 @@ blow away / blown 涉及风的描写——The wind blown across the flat land. H
 - **horseback riding / on top of** — horseback riding = 骑马（美式），英式常说 horse riding 或 riding。on top of 是"在……顶上"，既可指物理位置（on top of the hill），也可指"除了……之外"（on top of everything else）。
 
 - **land / look** — land 作名词"土地、陆地"，作动词"着陆"。look 在这里可能是"看"或"看起来"——Look at the cattle. / The land looks flat. 搭配：look out over the landscape。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“blow away”。  
+   **英文**：In this situation, I heard "blow away".
+   > **解析**：本题在单元主题情境中复习表达 blow away。
+
+2. **中文**：同伴解释了“calves”。  
+   **英文**：My partner explained "calves".
+   > **解析**：本题在单元主题情境中复习表达 calves。
+
+3. **中文**：我们一起谈到了“donkey”。  
+   **英文**：We talked about "donkey" together.
+   > **解析**：本题在单元主题情境中复习表达 donkey。
+
+4. **中文**：我记下了“goat”。  
+   **英文**：I wrote down "goat".
+   > **解析**：本题在单元主题情境中复习表达 goat。
+
+5. **中文**：例句中包含“light”。  
+   **英文**：The example included "light".
+   > **解析**：本题在单元主题情境中复习表达 light。
+
+6. **中文**：我询问了“on top of”。  
+   **英文**：I asked about "on top of".
+   > **解析**：本题在单元主题情境中复习表达 on top of。
+
+7. **中文**：我们在句子中用到了“shore”。  
+   **英文**：We used "shore" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 shore。
+
+8. **中文**：朋友重复了“blown”。  
+   **英文**：My friend repeated "blown".
+   > **解析**：本题在单元主题情境中复习表达 blown。
+
+9. **中文**：后来，我记住了“cattle”。  
+   **英文**：Later, I remembered "cattle".
+   > **解析**：本题在单元主题情境中复习表达 cattle。
+
+10. **中文**：这个小故事以“feed”收尾。  
+   **英文**：The short story ended with "feed".
+   > **解析**：本题在单元主题情境中复习表达 feed。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "blow away".
+   > **中文**：在这个情境中，我听到了“blow away”。
+2. My partner explained "calves".
+   > **中文**：同伴解释了“calves”。
+3. We talked about "donkey" together.
+   > **中文**：我们一起谈到了“donkey”。
+4. I wrote down "goat".
+   > **中文**：我记下了“goat”。
+5. The example included "light".
+   > **中文**：例句中包含“light”。
+6. I asked about "on top of".
+   > **中文**：我询问了“on top of”。
+7. We used "shore" in a sentence.
+   > **中文**：我们在句子中用到了“shore”。
+8. My friend repeated "blown".
+   > **中文**：朋友重复了“blown”。
+9. Later, I remembered "cattle".
+   > **中文**：后来，我记住了“cattle”。
+10. The short story ended with "feed".
+   > **中文**：这个小故事以“feed”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] blow away
+- [ ] goat
+- [ ] shore
+
+> **解析**：本题在单元主题情境中复习表达 blow away。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] calves
+- [ ] light
+- [ ] blown
+
+> **解析**：本题在单元主题情境中复习表达 calves。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] donkey
+- [ ] on top of
+- [ ] cattle
+
+> **解析**：本题在单元主题情境中复习表达 donkey。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] goat
+- [ ] shore
+- [ ] feed
+
+> **解析**：本题在单元主题情境中复习表达 goat。
+
+### 5
+
+The example included "`____`".
+
+- [x] light
+- [ ] blown
+- [ ] blow away
+
+> **解析**：本题在单元主题情境中复习表达 light。
+
+### 6
+
+I asked about "`____`".
+
+- [x] on top of
+- [ ] cattle
+- [ ] calves
+
+> **解析**：本题在单元主题情境中复习表达 on top of。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] shore
+- [ ] feed
+- [ ] donkey
+
+> **解析**：本题在单元主题情境中复习表达 shore。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] blown
+- [ ] blow away
+- [ ] goat
+
+> **解析**：本题在单元主题情境中复习表达 blown。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] cattle
+- [ ] calves
+- [ ] light
+
+> **解析**：本题在单元主题情境中复习表达 cattle。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] feed
+- [ ] donkey
+- [ ] on top of
+
+> **解析**：本题在单元主题情境中复习表达 feed。
+
+</quiz-cloze>

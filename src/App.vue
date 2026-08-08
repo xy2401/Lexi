@@ -1,34 +1,28 @@
 <script setup lang="ts">
 import { ref, onMounted, computed } from 'vue'
-import { useDictStore } from './stores/dict'
+import { TAG_OPTIONS, useDictStore } from './stores/dict'
 import { lookupWord } from './lib/lookup-service'
-import { getWordCount, db } from './lib/db'
+import { db } from './lib/db'
 import ReaderView from './components/ReaderView.vue'
 import TagSwitcher from './components/TagSwitcher.vue'
 import WordTooltip from './components/WordTooltip.vue'
-import WordDrawer from './components/WordDrawer.vue'
 import ExplorerTree from './components/ExplorerTree.vue'
-import TagFilter from './components/TagFilter.vue'
+import DictionaryTags from './components/DictionaryTags.vue'
+import FollowReadPanel from './components/FollowReadPanel.vue'
 import MorphNebula from './components/MorphNebula.vue'
-import SpectrogramCompare from './components/SpectrogramCompare.vue'
 import DuolingoView from './components/DuolingoView.vue'
 import { useTTS } from './composables/useTTS'
-import { useRecorder } from './composables/useRecorder'
 import type { WordEntry } from './lib/db'
 
 const dictStore = useDictStore()
 
 // ========== 本地词库统计 ==========
-const localWordCount = ref(0)
+const localWordCount = computed(() => dictStore.wordCount)
 const dbStats = ref<{
   storageUsed: string
   storageQuota: string
   tagDistribution: { tag: string; count: number }[]
 } | null>(null)
-
-async function refreshLocalCount() {
-  localWordCount.value = await getWordCount()
-}
 
 async function refreshDbStats() {
   // 存储占用
@@ -43,15 +37,20 @@ async function refreshDbStats() {
   // 标签分布
   const allWords = await db.words.toArray()
   const tagMap: Record<string, number> = {}
+  const knownTags = new Set(TAG_OPTIONS.map(tag => tag.id))
   for (const w of allWords) {
     if (w.tags) {
       w.tags.split(/[\s,]+/).forEach(t => {
-        if (t.trim()) tagMap[t.trim()] = (tagMap[t.trim()] || 0) + 1
+        const tag = t.trim().toLowerCase()
+        if (knownTags.has(tag as typeof TAG_OPTIONS[number]['id'])) {
+          tagMap[tag] = (tagMap[tag] || 0) + 1
+        }
       })
     }
   }
-  const tagDistribution = Object.entries(tagMap)
-    .map(([tag, count]) => ({ tag, count }))
+  const tagDistribution = TAG_OPTIONS
+    .map(({ id, label }) => ({ tag: label, count: tagMap[id] || 0 }))
+    .filter(item => item.count > 0)
     .sort((a, b) => b.count - a.count)
 
   dbStats.value = {
@@ -68,32 +67,27 @@ function formatBytes(bytes: number): string {
 }
 
 // ========== 模块切换 ==========
-type TabId = 'reader' | 'explorer' | 'duolingo' | 'audio' | 'settings'
+type TabId = 'reader' | 'explorer' | 'duolingo' | 'settings'
 const activeTab = ref<TabId>('reader')
 
 // ========== Reader 模块 ==========
 const inputText = ref('The quick brown fox jumps over the lazy dog. She was running happily through the beautiful garden.')
 const showTooltip = ref(false)
 const tooltipWord = ref('')
-const tooltipData = ref<any>(null)
+const tooltipData = ref<WordEntry | null>(null)
 const tooltipPos = ref({ x: 0, y: 0 })
 const tooltipLoading = ref(false)
-const showDrawer = ref(false)
-const drawerWord = ref('')
+const readerRecording = ref(false)
 
 // ========== Explorer 模块 ==========
 const explorerWord = ref('')
 const explorerEntry = ref<WordEntry | null>(null)
+const dictionaryRecording = ref(false)
 
-// ========== Audio Lab 模块 ==========
-const { speak, stop, speaking, voices, selectedVoice } = useTTS()
-const { recording, audioBlob, audioUrl, error: recorderError, startRecording, stopRecording } = useRecorder()
-const practiceText = ref('The quick brown fox jumps over the lazy dog.')
-const referenceAudio = ref<Blob | null>(null)
+const { speak, stop, voices, selectedVoice } = useTTS()
 
 onMounted(async () => {
   await dictStore.init()
-  await refreshLocalCount()
 })
 
 // ========== Reader 事件 ==========
@@ -102,13 +96,6 @@ async function handleWordClick(payload: { word: string; x: number; y: number }) 
   tooltipPos.value = { x: payload.x, y: payload.y }
   showTooltip.value = true
   tooltipLoading.value = true
-
-  const localData = dictStore.lookup(payload.word)
-  if (localData) {
-    tooltipData.value = localData
-    tooltipLoading.value = false
-    return
-  }
 
   tooltipData.value = null
   const result = await lookupWord(payload.word)
@@ -120,14 +107,13 @@ function closeTooltip() {
   showTooltip.value = false
 }
 
-function openDrawer(word: string) {
-  showTooltip.value = false
-  drawerWord.value = word
-  showDrawer.value = true
+function handleReaderRecordingChange(recording: boolean) {
+  readerRecording.value = recording
+  if (recording) closeTooltip()
 }
 
-function closeDrawer() {
-  showDrawer.value = false
+function handleTooltipSpeak(word: string) {
+  if (!readerRecording.value) speak(word)
 }
 
 // ========== Explorer 事件 ==========
@@ -135,88 +121,25 @@ function fmtTranslation(text: string): string {
   return text.replace(/\\r\\n|\\n/g, '\n')
 }
 
+function splitDefinition(text?: string): string[] {
+  return (text || '').split(/\\n|\n/).filter(line => line.trim())
+}
+
 async function handleExplorerSelectWord(word: string) {
+  stop()
+  dictionaryRecording.value = false
   explorerWord.value = word
-  const localData = dictStore.lookup(word)
-  if (localData) {
-    explorerEntry.value = localData
-  } else {
-    const result = await lookupWord(word)
-    explorerEntry.value = result.entry as WordEntry | null
-  }
+  explorerEntry.value = null
+  const result = await lookupWord(word)
+  explorerEntry.value = result.entry
   // 朗读
   speak(word)
 }
 
-// ========== Audio Lab 事件 ==========
-function speakPractice() {
-  speak(practiceText.value)
+function speakExplorerWord() {
+  if (explorerEntry.value && !dictionaryRecording.value) speak(explorerEntry.value.word)
 }
 
-function stopPractice() {
-  stop()
-}
-
-async function handleRecord() {
-  if (recording.value) {
-    stopRecording()
-  } else {
-    await startRecording()
-  }
-}
-
-// 播放标准发音并录制声谱
-const capturingReference = ref(false)
-
-async function speakReference() {
-  if (capturingReference.value) return
-  capturingReference.value = true
-  referenceAudio.value = null
-
-  try {
-    // 同时开启麦克风录制 TTS 输出
-    const stream = await navigator.mediaDevices.getUserMedia({ audio: true })
-    const recorder = new MediaRecorder(stream)
-    const chunks: Blob[] = []
-
-    recorder.ondataavailable = (e) => {
-      if (e.data.size > 0) chunks.push(e.data)
-    }
-
-    recorder.onstop = () => {
-      referenceAudio.value = new Blob(chunks, { type: 'audio/webm' })
-      stream.getTracks().forEach(t => t.stop())
-      capturingReference.value = false
-    }
-
-    recorder.start()
-
-    // 提前 1s 录制，等 MediaRecorder 管道就绪后再朗读，避免丢开头
-    await new Promise(r => setTimeout(r, 1000))
-    speak(practiceText.value, () => {})
-
-    // 监听 TTS 结束
-    const checkEnd = setInterval(() => {
-      if (!speaking.value) {
-        clearInterval(checkEnd)
-        // 延迟 200ms 确保尾部音频被捕获
-        setTimeout(() => {
-          if (recorder.state !== 'inactive') recorder.stop()
-        }, 200)
-      }
-    }, 100)
-
-    // 安全超时：最多 30 秒
-    setTimeout(() => {
-      clearInterval(checkEnd)
-      if (recorder.state !== 'inactive') recorder.stop()
-    }, 30000)
-  } catch (e: any) {
-    capturingReference.value = false
-    // 麦克风不可用时仅朗读
-    speak(practiceText.value)
-  }
-}
 </script>
 
 <template>
@@ -237,9 +160,6 @@ async function speakReference() {
       <button :class="['tab-btn', { active: activeTab === 'duolingo' }]" @click="activeTab = 'duolingo'">
         🦉 多邻国
       </button>
-      <button :class="['tab-btn', { active: activeTab === 'audio' }]" @click="activeTab = 'audio'">
-        🎙️ 音频沙盒
-      </button>
       <button :class="['tab-btn', { active: activeTab === 'settings' }]" @click="activeTab = 'settings'">
         ⚙️ 设置
       </button>
@@ -249,7 +169,7 @@ async function speakReference() {
     <div class="tab-content" v-show="activeTab === 'reader'">
       <div class="reader-layout">
         <aside class="sidebar">
-          <TagSwitcher v-model="dictStore.difficultyLevel" />
+          <TagSwitcher />
           <div class="input-section">
             <label>输入文本</label>
             <textarea v-model="inputText" rows="6" placeholder="粘贴英文文本..."></textarea>
@@ -266,8 +186,9 @@ async function speakReference() {
         <main class="reader-main">
           <ReaderView
             :text="inputText"
-            :difficulty="dictStore.difficultyLevel"
+            :active="activeTab === 'reader'"
             @word-click="handleWordClick"
+            @recording-change="handleReaderRecordingChange"
           />
         </main>
       </div>
@@ -278,22 +199,48 @@ async function speakReference() {
       <div class="explorer-layout">
         <div class="explorer-left">
           <h3>A-Z 词典树</h3>
+          <TagSwitcher />
           <ExplorerTree @select-word="handleExplorerSelectWord" />
         </div>
         <div class="explorer-right">
-          <h3>标签过滤</h3>
-          <TagFilter @select-word="handleExplorerSelectWord" />
+          <h3>词条详情</h3>
           <div class="word-detail" v-if="explorerEntry">
-            <h4>{{ explorerEntry.word }}</h4>
-            <p class="phonetic" v-if="explorerEntry.phonetic">/{{ explorerEntry.phonetic }}/</p>
+            <div
+              :class="['word-title-row', { disabled: dictionaryRecording }]"
+              role="button"
+              tabindex="0"
+              :aria-disabled="dictionaryRecording"
+              :aria-label="`朗读 ${explorerEntry.word}`"
+              @click="speakExplorerWord"
+              @keydown.enter="speakExplorerWord"
+              @keydown.space.prevent="speakExplorerWord"
+            >
+              <h4>{{ explorerEntry.word }}</h4>
+              <span class="speaker-icon" aria-hidden="true">🔊</span>
+              <span class="phonetic" v-if="explorerEntry.phonetic">/{{ explorerEntry.phonetic }}/</span>
+            </div>
             <p class="translation">{{ fmtTranslation(explorerEntry.translation) }}</p>
-            <button class="speak-btn" @click="speak(explorerEntry!.word)">🔊 朗读</button>
-            <button class="detail-btn" @click="openDrawer(explorerEntry!.word)">📋 详细释义</button>
+            <DictionaryTags class="word-tags" v-if="explorerEntry.tags" :tags="explorerEntry.tags" />
+            <div class="definition-list" v-if="splitDefinition(explorerEntry.definition).length">
+              <h5>Definition</h5>
+              <ol>
+                <li v-for="(definition, i) in splitDefinition(explorerEntry.definition)" :key="i">
+                  {{ definition }}
+                </li>
+              </ol>
+            </div>
+            <p class="word-pos" v-if="explorerEntry.pos">{{ explorerEntry.pos }}</p>
           </div>
-          <WordDrawer
-            :word="drawerWord"
-            :visible="showDrawer"
-            @close="closeDrawer"
+          <FollowReadPanel
+            v-if="explorerEntry"
+            :key="explorerEntry.word"
+            class="dictionary-follow"
+            :target-text="explorerEntry.word"
+            :active="activeTab === 'explorer'"
+            compact
+            @system-read="speakExplorerWord"
+            @recording-start="stop"
+            @recording-change="dictionaryRecording = $event"
           />
           <MorphNebula :entry="explorerEntry" @select-word="handleExplorerSelectWord" />
         </div>
@@ -305,53 +252,12 @@ async function speakReference() {
       <DuolingoView @select-word="handleExplorerSelectWord" />
     </div>
 
-    <!-- ===== Audio Lab 模块 ===== -->
-    <div class="tab-content" v-show="activeTab === 'audio'">
-      <div class="audio-layout">
-        <div class="audio-controls">
-          <h3>跟读练习</h3>
-          <div class="practice-input">
-            <textarea v-model="practiceText" rows="3" placeholder="输入要练习的句子..."></textarea>
-          </div>
-
-          <div class="btn-group">
-            <button class="action-btn primary" @click="speakReference" :disabled="speaking || capturingReference">
-              {{ capturingReference ? '🎙️ 正在录制声谱...' : '🔊 播放标准发音' }}
-            </button>
-            <button class="action-btn danger" @click="stopPractice" v-if="speaking">
-              ⏹ 停止
-            </button>
-            <button
-              :class="['action-btn', recording ? 'danger' : 'success']"
-              @click="handleRecord"
-            >
-              {{ recording ? '⏹ 停止录音' : '🎤 开始录音' }}
-            </button>
-          </div>
-
-          <p class="error-msg" v-if="recorderError">{{ recorderError }}</p>
-
-          <div class="recording-playback" v-if="audioUrl">
-            <h4>录音回放</h4>
-            <audio :src="audioUrl" controls></audio>
-          </div>
-        </div>
-
-        <div class="audio-spectrogram">
-          <SpectrogramCompare
-            :reference-audio="referenceAudio"
-            :user-audio="audioBlob"
-          />
-        </div>
-      </div>
-    </div>
-
     <!-- ===== 设置模块 ===== -->
     <div class="tab-content" v-show="activeTab === 'settings'">
       <div class="settings-layout">
         <section class="settings-section">
           <h3>🗣️ 朗读者选择</h3>
-          <p class="settings-desc">选择 TTS 语音引擎，影响所有朗读功能（阅读器、词典、跟读）</p>
+          <p class="settings-desc">选择 TTS 语音引擎，影响阅读器和词典的朗读功能</p>
           <div class="voice-select-row" v-if="voices.length">
             <select v-model="selectedVoice" class="voice-select">
               <option v-for="v in voices" :key="v.name" :value="v.name">
@@ -365,7 +271,7 @@ async function speakReference() {
 
         <section class="settings-section">
           <h3>📚 本地词库</h3>
-          <p class="settings-desc">已缓存 {{ localWordCount }} 词条（初始热词 57,818 + 浏览/查词自动扩充）</p>
+          <p class="settings-desc">已加载 Hot 词库并缓存 {{ localWordCount }} 个词条，查词时按需补齐完整内容</p>
           <button class="action-btn" @click="refreshDbStats" style="margin-top: 0.5rem">刷新详细统计</button>
 
           <div v-if="dbStats" class="db-details">
@@ -375,11 +281,11 @@ async function speakReference() {
             </div>
             <div class="db-row">
               <span class="db-label">数据库</span>
-              <span class="db-value">lexi-dict v1 (IndexedDB/Dexie)</span>
+              <span class="db-value">lexi-dict v2 (IndexedDB/Dexie)</span>
             </div>
             <div class="db-row">
-              <span class="db-label">远端分片总数</span>
-              <span class="db-value">711 (ecdict) + 710 (stardict) = 1421 个 .db</span>
+              <span class="db-label">远端词典</span>
+              <span class="db-value">两字符语义分片（HTTP Range 按 SQLite 页读取）</span>
             </div>
 
             <h4 class="db-sub-title">标签分布</h4>
@@ -397,7 +303,7 @@ async function speakReference() {
       </div>
     </div>
 
-    <!-- 全局 Tooltip & Drawer -->
+    <!-- 全局完整词条卡片 -->
     <WordTooltip
       v-if="showTooltip"
       :word="tooltipWord"
@@ -405,7 +311,7 @@ async function speakReference() {
       :position="tooltipPos"
       :loading="tooltipLoading"
       @close="closeTooltip"
-      @open-drawer="openDrawer"
+      @speak="handleTooltipSpeak"
     />
   </div>
 </template>
@@ -521,9 +427,15 @@ async function speakReference() {
   align-items: start;
 }
 
+.explorer-left {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
 .explorer-left h3,
 .explorer-right h3 {
-  margin: 0 0 0.75rem;
+  margin: 0;
   font-size: 1rem;
   color: #555;
 }
@@ -542,7 +454,7 @@ async function speakReference() {
 }
 
 .word-detail h4 {
-  margin: 0 0 0.3rem;
+  margin: 0;
   font-size: 1.2rem;
   color: #2c3e50;
 }
@@ -550,7 +462,7 @@ async function speakReference() {
 .word-detail .phonetic {
   color: #8e44ad;
   font-size: 0.9rem;
-  margin: 0 0 0.5rem;
+  margin: 0;
 }
 
 .word-detail .translation {
@@ -560,60 +472,83 @@ async function speakReference() {
   margin: 0 0 0.75rem;
 }
 
-.speak-btn, .detail-btn {
-  padding: 0.3rem 0.6rem;
-  border: 1px solid #3498db;
-  background: none;
-  color: #3498db;
-  border-radius: 4px;
-  cursor: pointer;
-  font-size: 0.8rem;
-  margin-right: 0.5rem;
+.word-tags {
+  margin-bottom: 0.75rem;
 }
 
-.speak-btn:hover, .detail-btn:hover {
-  background: #ebf5fb;
-}
-
-/* Audio Lab 布局 */
-.audio-layout {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1.5rem;
-}
-
-.audio-controls h3 {
-  margin: 0 0 0.75rem;
-  font-size: 1rem;
-  color: #555;
-}
-
-.practice-input textarea {
-  width: 100%;
-  padding: 0.5rem;
-  border: 1px solid #ddd;
-  border-radius: 6px;
-  font-size: 0.9rem;
-  resize: vertical;
-}
-
-.voice-selector {
-  margin: 0.75rem 0;
-  font-size: 0.85rem;
-}
-
-.voice-selector select {
-  margin-left: 0.5rem;
-  padding: 0.3rem;
-  border-radius: 4px;
-  border: 1px solid #ddd;
-}
-
-.btn-group {
+.word-title-row {
   display: flex;
-  gap: 0.5rem;
-  flex-wrap: wrap;
-  margin-top: 0.75rem;
+  align-items: baseline;
+  gap: 0.4rem;
+  margin: -0.25rem -0.35rem 0.5rem;
+  padding: 0.25rem 0.35rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.word-title-row:hover,
+.word-title-row:focus-visible {
+  background: #eef6fc;
+  outline: none;
+}
+
+.word-title-row.disabled {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+
+.word-title-row.disabled:hover,
+.word-title-row.disabled:focus-visible {
+  background: transparent;
+}
+
+.speaker-icon {
+  border: 0;
+  background: transparent;
+  padding: 0;
+  color: #3498db;
+  font-size: 0.95rem;
+  line-height: 1;
+  pointer-events: none;
+  transition: transform 0.15s;
+}
+
+.word-title-row:hover .speaker-icon,
+.word-title-row:focus-visible .speaker-icon {
+  transform: scale(1.12);
+}
+
+.definition-list {
+  border-top: 1px solid #e8e8e8;
+  padding-top: 0.65rem;
+  margin-bottom: 0.65rem;
+}
+
+.definition-list h5 {
+  margin: 0 0 0.35rem;
+  color: #2c3e50;
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.definition-list ol {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.definition-list li {
+  margin: 0.2rem 0;
+  color: #34495e;
+  font-size: 0.84rem;
+  line-height: 1.45;
+}
+
+.word-pos {
+  color: #7f8c8d;
+  font-size: 0.78rem;
+  font-style: italic;
 }
 
 .action-btn {
@@ -633,43 +568,6 @@ async function speakReference() {
 .action-btn.primary {
   background: #3498db;
   color: #fff;
-}
-
-.action-btn.success {
-  background: #27ae60;
-  color: #fff;
-}
-
-.action-btn.danger {
-  background: #e74c3c;
-  color: #fff;
-}
-
-.error-msg {
-  color: #e74c3c;
-  font-size: 0.8rem;
-  margin-top: 0.5rem;
-}
-
-.recording-playback {
-  margin-top: 1rem;
-}
-
-.recording-playback h4 {
-  margin: 0 0 0.5rem;
-  font-size: 0.9rem;
-  color: #555;
-}
-
-.recording-playback audio {
-  width: 100%;
-}
-
-.audio-spectrogram {
-  padding: 1rem;
-  border: 1px solid #eee;
-  border-radius: 8px;
-  background: #fafafa;
 }
 
 /* 设置页 */
@@ -782,4 +680,5 @@ async function speakReference() {
   color: #888;
   font-size: 0.7rem;
 }
+
 </style>

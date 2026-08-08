@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 ages, back then, bond, campus, find out, fluent, get, get over, happy hour, influence, look back on, make a fool, neither of, related, stand out, take after, taste, the, turn out, who, whoever, whose
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ ages, back then, bond, campus, find out, fluent, get, get over, happy hour, infl
 - **influence / related** — influence 是影响（可作名词和动词），related 是相关的/有亲属关系的。搭配：have an influence on, be related to。She influenced my taste in music. / Are you two related? 注意 related 既可指"有关联"也可指"有亲戚关系"。
 
 - **happy hour** — 欢乐时光（酒吧/餐厅的打折时段，通常下午5-7点）。搭配：go to happy hour, happy hour drinks。Let's meet at happy hour. 这是北美社交文化中的常见概念。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：聚会上，我听到了“ages”。  
+   **英文**：At the gathering, I heard "ages".
+   > **解析**：本题在单元主题情境中复习表达 ages。
+
+2. **中文**：朋友说了“campus”。  
+   **英文**：My friend said "campus".
+   > **解析**：本题在单元主题情境中复习表达 campus。
+
+3. **中文**：我们一起谈到了“get”。  
+   **英文**：We talked about "get" together.
+   > **解析**：本题在单元主题情境中复习表达 get。
+
+4. **中文**：有人向我解释了“look back on”。  
+   **英文**：Someone explained "look back on" to me.
+   > **解析**：本题在单元主题情境中复习表达 look back on。
+
+5. **中文**：我用“related”作了回应。  
+   **英文**：I replied with "related".
+   > **解析**：本题在单元主题情境中复习表达 related。
+
+6. **中文**：对话中包含“taste”。  
+   **英文**：The conversation included "taste".
+   > **解析**：本题在单元主题情境中复习表达 taste。
+
+7. **中文**：同伴重复了“whoever”。  
+   **英文**：My partner repeated "whoever".
+   > **解析**：本题在单元主题情境中复习表达 whoever。
+
+8. **中文**：我们聊到“bond”时笑了。  
+   **英文**：We laughed about "bond".
+   > **解析**：本题在单元主题情境中复习表达 bond。
+
+9. **中文**：离开前，我记住了“fluent”。  
+   **英文**：Before leaving, I remembered "fluent".
+   > **解析**：本题在单元主题情境中复习表达 fluent。
+
+10. **中文**：那段对话以“happy hour”收尾。  
+   **英文**：That conversation ended with "happy hour".
+   > **解析**：本题在单元主题情境中复习表达 happy hour。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the gathering, I heard "ages".
+   > **中文**：聚会上，我听到了“ages”。
+2. My friend said "campus".
+   > **中文**：朋友说了“campus”。
+3. We talked about "get" together.
+   > **中文**：我们一起谈到了“get”。
+4. Someone explained "look back on" to me.
+   > **中文**：有人向我解释了“look back on”。
+5. I replied with "related".
+   > **中文**：我用“related”作了回应。
+6. The conversation included "taste".
+   > **中文**：对话中包含“taste”。
+7. My partner repeated "whoever".
+   > **中文**：同伴重复了“whoever”。
+8. We laughed about "bond".
+   > **中文**：我们聊到“bond”时笑了。
+9. Before leaving, I remembered "fluent".
+   > **中文**：离开前，我记住了“fluent”。
+10. That conversation ended with "happy hour".
+   > **中文**：那段对话以“happy hour”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the gathering, I heard "`____`".
+
+- [x] ages
+- [ ] look back on
+- [ ] whoever
+
+> **解析**：本题在单元主题情境中复习表达 ages。
+
+### 2
+
+My friend said "`____`".
+
+- [x] campus
+- [ ] related
+- [ ] bond
+
+> **解析**：本题在单元主题情境中复习表达 campus。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] get
+- [ ] taste
+- [ ] fluent
+
+> **解析**：本题在单元主题情境中复习表达 get。
+
+### 4
+
+Someone explained "`____`" to me.
+
+- [x] look back on
+- [ ] whoever
+- [ ] happy hour
+
+> **解析**：本题在单元主题情境中复习表达 look back on。
+
+### 5
+
+I replied with "`____`".
+
+- [x] related
+- [ ] bond
+- [ ] ages
+
+> **解析**：本题在单元主题情境中复习表达 related。
+
+### 6
+
+The conversation included "`____`".
+
+- [x] taste
+- [ ] fluent
+- [ ] campus
+
+> **解析**：本题在单元主题情境中复习表达 taste。
+
+### 7
+
+My partner repeated "`____`".
+
+- [x] whoever
+- [ ] happy hour
+- [ ] get
+
+> **解析**：本题在单元主题情境中复习表达 whoever。
+
+### 8
+
+We laughed about "`____`".
+
+- [x] bond
+- [ ] ages
+- [ ] look back on
+
+> **解析**：本题在单元主题情境中复习表达 bond。
+
+### 9
+
+Before leaving, I remembered "`____`".
+
+- [x] fluent
+- [ ] campus
+- [ ] related
+
+> **解析**：本题在单元主题情境中复习表达 fluent。
+
+### 10
+
+That conversation ended with "`____`".
+
+- [x] happy hour
+- [ ] get
+- [ ] taste
+
+> **解析**：本题在单元主题情境中复习表达 happy hour。
+
+</quiz-cloze>

@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 1802, 1992, 2016, 2017, born, could, couldn't, discovery, eighties, either, fifties, generation, grown, if you ask me, invention, nineteen nineties, nineteen sixties, nineteenth, nowadays, population, remember, remind, to be honest, twentieth, twenty-fifth, twenty-first
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ the + 年代（the eighties = 80年代）。could / couldn't 表过去能力。
 
 - **couldn't / either / remind** — 不能 / 也不 / 提醒。搭配：couldn't imagine, not either, remind sb。例句：They couldn't predict the future. / I don't miss it either. / Photos remind me of the past. 注意 couldn't = could not（过去不能）。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“1802”。  
+   **英文**：In this situation, I heard "1802".
+   > **解析**：本题在单元主题情境中复习表达 1802。
+
+2. **中文**：同伴解释了“born”。  
+   **英文**：My partner explained "born".
+   > **解析**：本题在单元主题情境中复习表达 born。
+
+3. **中文**：我们一起谈到了“eighties”。  
+   **英文**：We talked about "eighties" together.
+   > **解析**：本题在单元主题情境中复习表达 eighties。
+
+4. **中文**：我记下了“generation”。  
+   **英文**：I wrote down "generation".
+   > **解析**：本题在单元主题情境中复习表达 generation。
+
+5. **中文**：例句中包含“nineteen nineties”。  
+   **英文**：The example included "nineteen nineties".
+   > **解析**：本题在单元主题情境中复习表达 nineteen nineties。
+
+6. **中文**：我询问了“population”。  
+   **英文**：I asked about "population".
+   > **解析**：本题在单元主题情境中复习表达 population。
+
+7. **中文**：我们在句子中用到了“twentieth”。  
+   **英文**：We used "twentieth" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 twentieth。
+
+8. **中文**：朋友重复了“1992”。  
+   **英文**：My friend repeated "1992".
+   > **解析**：本题在单元主题情境中复习表达 1992。
+
+9. **中文**：后来，我记住了“could”。  
+   **英文**：Later, I remembered "could".
+   > **解析**：本题在单元主题情境中复习表达 could。
+
+10. **中文**：这个小故事以“either”收尾。  
+   **英文**：The short story ended with "either".
+   > **解析**：本题在单元主题情境中复习表达 either。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "1802".
+   > **中文**：在这个情境中，我听到了“1802”。
+2. My partner explained "born".
+   > **中文**：同伴解释了“born”。
+3. We talked about "eighties" together.
+   > **中文**：我们一起谈到了“eighties”。
+4. I wrote down "generation".
+   > **中文**：我记下了“generation”。
+5. The example included "nineteen nineties".
+   > **中文**：例句中包含“nineteen nineties”。
+6. I asked about "population".
+   > **中文**：我询问了“population”。
+7. We used "twentieth" in a sentence.
+   > **中文**：我们在句子中用到了“twentieth”。
+8. My friend repeated "1992".
+   > **中文**：朋友重复了“1992”。
+9. Later, I remembered "could".
+   > **中文**：后来，我记住了“could”。
+10. The short story ended with "either".
+   > **中文**：这个小故事以“either”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] 1802
+- [ ] generation
+- [ ] twentieth
+
+> **解析**：本题在单元主题情境中复习表达 1802。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] born
+- [ ] nineteen nineties
+- [ ] 1992
+
+> **解析**：本题在单元主题情境中复习表达 born。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] eighties
+- [ ] population
+- [ ] could
+
+> **解析**：本题在单元主题情境中复习表达 eighties。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] generation
+- [ ] twentieth
+- [ ] either
+
+> **解析**：本题在单元主题情境中复习表达 generation。
+
+### 5
+
+The example included "`____`".
+
+- [x] nineteen nineties
+- [ ] 1992
+- [ ] 1802
+
+> **解析**：本题在单元主题情境中复习表达 nineteen nineties。
+
+### 6
+
+I asked about "`____`".
+
+- [x] population
+- [ ] could
+- [ ] born
+
+> **解析**：本题在单元主题情境中复习表达 population。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] twentieth
+- [ ] either
+- [ ] eighties
+
+> **解析**：本题在单元主题情境中复习表达 twentieth。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] 1992
+- [ ] 1802
+- [ ] generation
+
+> **解析**：本题在单元主题情境中复习表达 1992。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] could
+- [ ] born
+- [ ] nineteen nineties
+
+> **解析**：本题在单元主题情境中复习表达 could。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] either
+- [ ] eighties
+- [ ] population
+
+> **解析**：本题在单元主题情境中复习表达 either。
+
+</quiz-cloze>

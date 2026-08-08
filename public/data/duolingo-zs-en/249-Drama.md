@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 accuse, anything, approval, as far as i know, breakup, confess, consideration, doubtful, everything that, fed up, feel any better about, for a while now, is it just me, nothing, over, play a part, point of view, propose, refuse, rumor, something, suspicion, the trouble with, toxic, valid
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -58,3 +63,193 @@ the trouble with（……的问题在于）、point of view（观点）、play a
 
 - **feel any better about** — "对……感觉好点"。Do you feel any better about the situation? 常用于反问，暗示"你这样做并不能让事情变好"。any 在疑问和否定句中加强语气。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“accuse”。  
+   **英文**：In this situation, I heard "accuse".
+   > **解析**：本题在单元主题情境中复习表达 accuse。
+
+2. **中文**：同伴解释了“breakup”。  
+   **英文**：My partner explained "breakup".
+   > **解析**：本题在单元主题情境中复习表达 breakup。
+
+3. **中文**：我们一起谈到了“doubtful”。  
+   **英文**：We talked about "doubtful" together.
+   > **解析**：本题在单元主题情境中复习表达 doubtful。
+
+4. **中文**：我记下了“for a while now”。  
+   **英文**：I wrote down "for a while now".
+   > **解析**：本题在单元主题情境中复习表达 for a while now。
+
+5. **中文**：例句中包含“play a part”。  
+   **英文**：The example included "play a part".
+   > **解析**：本题在单元主题情境中复习表达 play a part。
+
+6. **中文**：我询问了“refuse”。  
+   **英文**：I asked about "refuse".
+   > **解析**：本题在单元主题情境中复习表达 refuse。
+
+7. **中文**：我们在句子中用到了“the trouble with”。  
+   **英文**：We used "the trouble with" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 the trouble with。
+
+8. **中文**：朋友重复了“anything”。  
+   **英文**：My friend repeated "anything".
+   > **解析**：本题在单元主题情境中复习表达 anything。
+
+9. **中文**：后来，我记住了“confess”。  
+   **英文**：Later, I remembered "confess".
+   > **解析**：本题在单元主题情境中复习表达 confess。
+
+10. **中文**：这个小故事以“fed up”收尾。  
+   **英文**：The short story ended with "fed up".
+   > **解析**：本题在单元主题情境中复习表达 fed up。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "accuse".
+   > **中文**：在这个情境中，我听到了“accuse”。
+2. My partner explained "breakup".
+   > **中文**：同伴解释了“breakup”。
+3. We talked about "doubtful" together.
+   > **中文**：我们一起谈到了“doubtful”。
+4. I wrote down "for a while now".
+   > **中文**：我记下了“for a while now”。
+5. The example included "play a part".
+   > **中文**：例句中包含“play a part”。
+6. I asked about "refuse".
+   > **中文**：我询问了“refuse”。
+7. We used "the trouble with" in a sentence.
+   > **中文**：我们在句子中用到了“the trouble with”。
+8. My friend repeated "anything".
+   > **中文**：朋友重复了“anything”。
+9. Later, I remembered "confess".
+   > **中文**：后来，我记住了“confess”。
+10. The short story ended with "fed up".
+   > **中文**：这个小故事以“fed up”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] accuse
+- [ ] for a while now
+- [ ] the trouble with
+
+> **解析**：本题在单元主题情境中复习表达 accuse。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] breakup
+- [ ] play a part
+- [ ] anything
+
+> **解析**：本题在单元主题情境中复习表达 breakup。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] doubtful
+- [ ] refuse
+- [ ] confess
+
+> **解析**：本题在单元主题情境中复习表达 doubtful。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] for a while now
+- [ ] the trouble with
+- [ ] fed up
+
+> **解析**：本题在单元主题情境中复习表达 for a while now。
+
+### 5
+
+The example included "`____`".
+
+- [x] play a part
+- [ ] anything
+- [ ] accuse
+
+> **解析**：本题在单元主题情境中复习表达 play a part。
+
+### 6
+
+I asked about "`____`".
+
+- [x] refuse
+- [ ] confess
+- [ ] breakup
+
+> **解析**：本题在单元主题情境中复习表达 refuse。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] the trouble with
+- [ ] fed up
+- [ ] doubtful
+
+> **解析**：本题在单元主题情境中复习表达 the trouble with。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] anything
+- [ ] accuse
+- [ ] for a while now
+
+> **解析**：本题在单元主题情境中复习表达 anything。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] confess
+- [ ] breakup
+- [ ] play a part
+
+> **解析**：本题在单元主题情境中复习表达 confess。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] fed up
+- [ ] doubtful
+- [ ] refuse
+
+> **解析**：本题在单元主题情境中复习表达 fed up。
+
+</quiz-cloze>

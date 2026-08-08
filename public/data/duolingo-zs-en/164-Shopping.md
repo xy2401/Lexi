@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 amount, bargain, bill, can, can't, cart, check, fit, fitting room, high quality, inexpensive, item, jewelry store, knowing, left, low quality, many, material, much, owe, shop for, shouldn't, worth, you, zipper
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ worth = 值得。can / can't 表能力/可能。
 
 - **quality / material / zipper** — 质量 / 材料 / 拉链。搭配：good quality, soft material, a metal zipper。例句：The quality is excellent. / I prefer natural materials. / The zipper broke after one use. 注意 quality 可作名词也可作形容词。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：谈论喜好时，我听到了“amount”。  
+   **英文**：When we talked about favorites, I heard "amount".
+   > **解析**：本题在单元主题情境中复习表达 amount。
+
+2. **中文**：朋友说“can't”很重要。  
+   **英文**：My friend said "can't" was important.
+   > **解析**：本题在单元主题情境中复习表达 can't。
+
+3. **中文**：我问他们喜欢哪一个：“fit”。  
+   **英文**：I asked which one they liked: "fit".
+   > **解析**：本题在单元主题情境中复习表达 fit。
+
+4. **中文**：聊天时，我们比较了“item”。  
+   **英文**：In our chat, we compared "item".
+   > **解析**：本题在单元主题情境中复习表达 item。
+
+5. **中文**：同伴先选择了“left”。  
+   **英文**：My partner chose "left" first.
+   > **解析**：本题在单元主题情境中复习表达 left。
+
+6. **中文**：我们用“much”描述喜好。  
+   **英文**：We used "much" to describe a favorite.
+   > **解析**：本题在单元主题情境中复习表达 much。
+
+7. **中文**：答案中包含“shouldn't”。  
+   **英文**：The answer included "shouldn't".
+   > **解析**：本题在单元主题情境中复习表达 shouldn't。
+
+8. **中文**：我从对话中记住了“bargain”。  
+   **英文**：I remembered "bargain" from the conversation.
+   > **解析**：本题在单元主题情境中复习表达 bargain。
+
+9. **中文**：朋友微笑着重复了“cart”。  
+   **英文**：My friend repeated "cart" with a smile.
+   > **解析**：本题在单元主题情境中复习表达 cart。
+
+10. **中文**：那场关于喜好的聊天以“high quality”收尾。  
+   **英文**：That chat about favorites ended with "high quality".
+   > **解析**：本题在单元主题情境中复习表达 high quality。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. When we talked about favorites, I heard "amount".
+   > **中文**：谈论喜好时，我听到了“amount”。
+2. My friend said "can't" was important.
+   > **中文**：朋友说“can't”很重要。
+3. I asked which one they liked: "fit".
+   > **中文**：我问他们喜欢哪一个：“fit”。
+4. In our chat, we compared "item".
+   > **中文**：聊天时，我们比较了“item”。
+5. My partner chose "left" first.
+   > **中文**：同伴先选择了“left”。
+6. We used "much" to describe a favorite.
+   > **中文**：我们用“much”描述喜好。
+7. The answer included "shouldn't".
+   > **中文**：答案中包含“shouldn't”。
+8. I remembered "bargain" from the conversation.
+   > **中文**：我从对话中记住了“bargain”。
+9. My friend repeated "cart" with a smile.
+   > **中文**：朋友微笑着重复了“cart”。
+10. That chat about favorites ended with "high quality".
+   > **中文**：那场关于喜好的聊天以“high quality”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+When we talked about favorites, I heard "`____`".
+
+- [x] amount
+- [ ] item
+- [ ] shouldn't
+
+> **解析**：本题在单元主题情境中复习表达 amount。
+
+### 2
+
+My friend said "`____`" was important.
+
+- [x] can't
+- [ ] left
+- [ ] bargain
+
+> **解析**：本题在单元主题情境中复习表达 can't。
+
+### 3
+
+I asked which one they liked: "`____`".
+
+- [x] fit
+- [ ] much
+- [ ] cart
+
+> **解析**：本题在单元主题情境中复习表达 fit。
+
+### 4
+
+In our chat, we compared "`____`".
+
+- [x] item
+- [ ] shouldn't
+- [ ] high quality
+
+> **解析**：本题在单元主题情境中复习表达 item。
+
+### 5
+
+My partner chose "`____`" first.
+
+- [x] left
+- [ ] bargain
+- [ ] amount
+
+> **解析**：本题在单元主题情境中复习表达 left。
+
+### 6
+
+We used "`____`" to describe a favorite.
+
+- [x] much
+- [ ] cart
+- [ ] can't
+
+> **解析**：本题在单元主题情境中复习表达 much。
+
+### 7
+
+The answer included "`____`".
+
+- [x] shouldn't
+- [ ] high quality
+- [ ] fit
+
+> **解析**：本题在单元主题情境中复习表达 shouldn't。
+
+### 8
+
+I remembered "`____`" from the conversation.
+
+- [x] bargain
+- [ ] amount
+- [ ] item
+
+> **解析**：本题在单元主题情境中复习表达 bargain。
+
+### 9
+
+My friend repeated "`____`" with a smile.
+
+- [x] cart
+- [ ] can't
+- [ ] left
+
+> **解析**：本题在单元主题情境中复习表达 cart。
+
+### 10
+
+That chat about favorites ended with "`____`".
+
+- [x] high quality
+- [ ] fit
+- [ ] much
+
+> **解析**：本题在单元主题情境中复习表达 high quality。
+
+</quiz-cloze>

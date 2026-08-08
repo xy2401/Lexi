@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 alternative, and had, date back, electronic, hippie, in my eyes, in those days, influence, influential, inspire, it all, lifetime, must have, pop culture, release, rhythm, rock and roll, songwriter, soundtrack, what, worldwide
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -56,3 +61,193 @@ date back（追溯到）、in those days（在那个年代）、lifetime（一�
 
 - **what** — 本单元中可能出现在感叹句或名词性从句中：What a rhythm! / I know what inspired him. what 在感叹句中加强语气：What a song! 比 How 更常用于名词前。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“alternative”。  
+   **英文**：In this situation, I heard "alternative".
+   > **解析**：本题在单元主题情境中复习表达 alternative。
+
+2. **中文**：同伴解释了“electronic”。  
+   **英文**：My partner explained "electronic".
+   > **解析**：本题在单元主题情境中复习表达 electronic。
+
+3. **中文**：我们一起谈到了“in those days”。  
+   **英文**：We talked about "in those days" together.
+   > **解析**：本题在单元主题情境中复习表达 in those days。
+
+4. **中文**：我记下了“it all”。  
+   **英文**：I wrote down "it all".
+   > **解析**：本题在单元主题情境中复习表达 it all。
+
+5. **中文**：例句中包含“pop culture”。  
+   **英文**：The example included "pop culture".
+   > **解析**：本题在单元主题情境中复习表达 pop culture。
+
+6. **中文**：我询问了“rock and roll”。  
+   **英文**：I asked about "rock and roll".
+   > **解析**：本题在单元主题情境中复习表达 rock and roll。
+
+7. **中文**：我们在句子中用到了“what”。  
+   **英文**：We used "what" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 what。
+
+8. **中文**：朋友重复了“date back”。  
+   **英文**：My friend repeated "date back".
+   > **解析**：本题在单元主题情境中复习表达 date back。
+
+9. **中文**：后来，我记住了“in my eyes”。  
+   **英文**：Later, I remembered "in my eyes".
+   > **解析**：本题在单元主题情境中复习表达 in my eyes。
+
+10. **中文**：这个小故事以“influential”收尾。  
+   **英文**：The short story ended with "influential".
+   > **解析**：本题在单元主题情境中复习表达 influential。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "alternative".
+   > **中文**：在这个情境中，我听到了“alternative”。
+2. My partner explained "electronic".
+   > **中文**：同伴解释了“electronic”。
+3. We talked about "in those days" together.
+   > **中文**：我们一起谈到了“in those days”。
+4. I wrote down "it all".
+   > **中文**：我记下了“it all”。
+5. The example included "pop culture".
+   > **中文**：例句中包含“pop culture”。
+6. I asked about "rock and roll".
+   > **中文**：我询问了“rock and roll”。
+7. We used "what" in a sentence.
+   > **中文**：我们在句子中用到了“what”。
+8. My friend repeated "date back".
+   > **中文**：朋友重复了“date back”。
+9. Later, I remembered "in my eyes".
+   > **中文**：后来，我记住了“in my eyes”。
+10. The short story ended with "influential".
+   > **中文**：这个小故事以“influential”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] alternative
+- [ ] it all
+- [ ] what
+
+> **解析**：本题在单元主题情境中复习表达 alternative。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] electronic
+- [ ] pop culture
+- [ ] date back
+
+> **解析**：本题在单元主题情境中复习表达 electronic。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] in those days
+- [ ] rock and roll
+- [ ] in my eyes
+
+> **解析**：本题在单元主题情境中复习表达 in those days。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] it all
+- [ ] what
+- [ ] influential
+
+> **解析**：本题在单元主题情境中复习表达 it all。
+
+### 5
+
+The example included "`____`".
+
+- [x] pop culture
+- [ ] date back
+- [ ] alternative
+
+> **解析**：本题在单元主题情境中复习表达 pop culture。
+
+### 6
+
+I asked about "`____`".
+
+- [x] rock and roll
+- [ ] in my eyes
+- [ ] electronic
+
+> **解析**：本题在单元主题情境中复习表达 rock and roll。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] what
+- [ ] influential
+- [ ] in those days
+
+> **解析**：本题在单元主题情境中复习表达 what。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] date back
+- [ ] alternative
+- [ ] it all
+
+> **解析**：本题在单元主题情境中复习表达 date back。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] in my eyes
+- [ ] electronic
+- [ ] pop culture
+
+> **解析**：本题在单元主题情境中复习表达 in my eyes。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] influential
+- [ ] in those days
+- [ ] rock and roll
+
+> **解析**：本题在单元主题情境中复习表达 influential。
+
+</quiz-cloze>

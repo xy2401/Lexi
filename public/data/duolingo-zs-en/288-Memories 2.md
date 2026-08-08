@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, every so often, fond, good old days, hide and seek, jump rope, lollipop, nostalgic, recess, reminisce, scouts, slide, tag, tree house, used to, were always, would, would usually, yo-yo
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -39,3 +44,194 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
 - **fond** — 喜爱的、深情的。搭配：be fond of / fond memories / fond of doing something。例句：I'm fond of those childhood memories. 注意 fond 不能单独做谓语（不说 I fond），必须和 be 搭配。比 like 更温暖、更有感情深度，常用于回忆语境。
 
 - **reminisce** — 回忆、追忆往事。搭配：reminisce about / reminisce with someone / sit and reminisce。例句：We sat around and reminisced about the good old days. 注意 reminisce 是不及物动词，后面要加 about。比 remember 更有"沉浸在过去回忆中"的意味，通常带有温暖的情感。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在餐厅里，我询问了“always used to”。  
+   **英文**：At the restaurant, I asked about "always used to".
+   > **解析**：本题在单元主题情境中复习表达 always used to。
+
+2. **中文**：菜单上有“bubble gum”。  
+   **英文**：The menu included "bubble gum".
+   > **解析**：本题在单元主题情境中复习表达 bubble gum。
+
+3. **中文**：在餐桌旁，我们谈到了“fond”。  
+   **英文**：At the table, we talked about "fond".
+   > **解析**：本题在单元主题情境中复习表达 fond。
+
+4. **中文**：厨师提到了“lollipop”。  
+   **英文**：The cook mentioned "lollipop".
+   > **解析**：本题在单元主题情境中复习表达 lollipop。
+
+5. **中文**：晚餐我点了“reminisce”。  
+   **英文**：I ordered "reminisce" for dinner.
+   > **解析**：本题在单元主题情境中复习表达 reminisce。
+
+6. **中文**：我的朋友选择了“tree house”。  
+   **英文**：My friend chose "tree house".
+   > **解析**：本题在单元主题情境中复习表达 tree house。
+
+7. **中文**：服务员重复了“would”。  
+   **英文**：The waiter repeated "would".
+   > **解析**：本题在单元主题情境中复习表达 would。
+
+8. **中文**：我们分享了一个关于“another thing”的故事。  
+   **英文**：We shared a story about "another thing".
+   > **解析**：本题在单元主题情境中复习表达 another thing。
+
+9. **中文**：饭后，我记住了“dodgeball”。  
+   **英文**：After the meal, I remembered "dodgeball".
+   > **解析**：本题在单元主题情境中复习表达 dodgeball。
+
+10. **中文**：那顿饭以“hide and seek”收尾。  
+   **英文**：That meal ended with "hide and seek".
+   > **解析**：本题在单元主题情境中复习表达 hide and seek。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the restaurant, I asked about "always used to".
+   > **中文**：在餐厅里，我询问了“always used to”。
+2. The menu included "bubble gum".
+   > **中文**：菜单上有“bubble gum”。
+3. At the table, we talked about "fond".
+   > **中文**：在餐桌旁，我们谈到了“fond”。
+4. The cook mentioned "lollipop".
+   > **中文**：厨师提到了“lollipop”。
+5. I ordered "reminisce" for dinner.
+   > **中文**：晚餐我点了“reminisce”。
+6. My friend chose "tree house".
+   > **中文**：我的朋友选择了“tree house”。
+7. The waiter repeated "would".
+   > **中文**：服务员重复了“would”。
+8. We shared a story about "another thing".
+   > **中文**：我们分享了一个关于“another thing”的故事。
+9. After the meal, I remembered "dodgeball".
+   > **中文**：饭后，我记住了“dodgeball”。
+10. That meal ended with "hide and seek".
+   > **中文**：那顿饭以“hide and seek”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the restaurant, I asked about "`____`".
+
+- [x] always used to
+- [ ] lollipop
+- [ ] would
+
+> **解析**：本题在单元主题情境中复习表达 always used to。
+
+### 2
+
+The menu included "`____`".
+
+- [x] bubble gum
+- [ ] reminisce
+- [ ] another thing
+
+> **解析**：本题在单元主题情境中复习表达 bubble gum。
+
+### 3
+
+At the table, we talked about "`____`".
+
+- [x] fond
+- [ ] tree house
+- [ ] dodgeball
+
+> **解析**：本题在单元主题情境中复习表达 fond。
+
+### 4
+
+The cook mentioned "`____`".
+
+- [x] lollipop
+- [ ] would
+- [ ] hide and seek
+
+> **解析**：本题在单元主题情境中复习表达 lollipop。
+
+### 5
+
+I ordered "`____`" for dinner.
+
+- [x] reminisce
+- [ ] another thing
+- [ ] always used to
+
+> **解析**：本题在单元主题情境中复习表达 reminisce。
+
+### 6
+
+My friend chose "`____`".
+
+- [x] tree house
+- [ ] dodgeball
+- [ ] bubble gum
+
+> **解析**：本题在单元主题情境中复习表达 tree house。
+
+### 7
+
+The waiter repeated "`____`".
+
+- [x] would
+- [ ] hide and seek
+- [ ] fond
+
+> **解析**：本题在单元主题情境中复习表达 would。
+
+### 8
+
+We shared a story about "`____`".
+
+- [x] another thing
+- [ ] always used to
+- [ ] lollipop
+
+> **解析**：本题在单元主题情境中复习表达 another thing。
+
+### 9
+
+After the meal, I remembered "`____`".
+
+- [x] dodgeball
+- [ ] bubble gum
+- [ ] reminisce
+
+> **解析**：本题在单元主题情境中复习表达 dodgeball。
+
+### 10
+
+That meal ended with "`____`".
+
+- [x] hide and seek
+- [ ] fond
+- [ ] tree house
+
+> **解析**：本题在单元主题情境中复习表达 hide and seek。
+
+</quiz-cloze>

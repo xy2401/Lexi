@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 against, crash, damage, decrease, explode, flood, happen, has there been, have there been, improvement, increase, involve, most of, murder, protest, recent, shoot, shot, there has been, there hasn't been, there have been, there haven't been, unemployment, warning
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -29,3 +34,194 @@ against, involve, most of, recent, happen 提供叙事框架：The protest was a
 - **against / involve / most of** — against = 反对/对着：protest against the law. involve = 涉及：The crash involved two trucks. most of = 大部分：most of the damage. 注意 most of 后接限定词（the/these/my 等）。
 
 - **recent / happen / damage** — recent = 近期的：a recent event. happen = 发生（不及物，无被动）：It happened yesterday.（不能说 It was happened.）damage = 损害（不可数名词）：serious damage.
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“against”。  
+   **英文**：In this situation, I heard "against".
+   > **解析**：本题在单元主题情境中复习表达 against。
+
+2. **中文**：同伴解释了“explode”。  
+   **英文**：My partner explained "explode".
+   > **解析**：本题在单元主题情境中复习表达 explode。
+
+3. **中文**：我们一起谈到了“has there been”。  
+   **英文**：We talked about "has there been" together.
+   > **解析**：本题在单元主题情境中复习表达 has there been。
+
+4. **中文**：我记下了“involve”。  
+   **英文**：I wrote down "involve".
+   > **解析**：本题在单元主题情境中复习表达 involve。
+
+5. **中文**：例句中包含“protest”。  
+   **英文**：The example included "protest".
+   > **解析**：本题在单元主题情境中复习表达 protest。
+
+6. **中文**：我询问了“there has been”。  
+   **英文**：I asked about "there has been".
+   > **解析**：本题在单元主题情境中复习表达 there has been。
+
+7. **中文**：我们在句子中用到了“there haven't been”。  
+   **英文**：We used "there haven't been" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 there haven't been。
+
+8. **中文**：朋友重复了“crash”。  
+   **英文**：My friend repeated "crash".
+   > **解析**：本题在单元主题情境中复习表达 crash。
+
+9. **中文**：后来，我记住了“flood”。  
+   **英文**：Later, I remembered "flood".
+   > **解析**：本题在单元主题情境中复习表达 flood。
+
+10. **中文**：这个小故事以“improvement”收尾。  
+   **英文**：The short story ended with "improvement".
+   > **解析**：本题在单元主题情境中复习表达 improvement。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "against".
+   > **中文**：在这个情境中，我听到了“against”。
+2. My partner explained "explode".
+   > **中文**：同伴解释了“explode”。
+3. We talked about "has there been" together.
+   > **中文**：我们一起谈到了“has there been”。
+4. I wrote down "involve".
+   > **中文**：我记下了“involve”。
+5. The example included "protest".
+   > **中文**：例句中包含“protest”。
+6. I asked about "there has been".
+   > **中文**：我询问了“there has been”。
+7. We used "there haven't been" in a sentence.
+   > **中文**：我们在句子中用到了“there haven't been”。
+8. My friend repeated "crash".
+   > **中文**：朋友重复了“crash”。
+9. Later, I remembered "flood".
+   > **中文**：后来，我记住了“flood”。
+10. The short story ended with "improvement".
+   > **中文**：这个小故事以“improvement”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] against
+- [ ] involve
+- [ ] there haven't been
+
+> **解析**：本题在单元主题情境中复习表达 against。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] explode
+- [ ] protest
+- [ ] crash
+
+> **解析**：本题在单元主题情境中复习表达 explode。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] has there been
+- [ ] there has been
+- [ ] flood
+
+> **解析**：本题在单元主题情境中复习表达 has there been。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] involve
+- [ ] there haven't been
+- [ ] improvement
+
+> **解析**：本题在单元主题情境中复习表达 involve。
+
+### 5
+
+The example included "`____`".
+
+- [x] protest
+- [ ] crash
+- [ ] against
+
+> **解析**：本题在单元主题情境中复习表达 protest。
+
+### 6
+
+I asked about "`____`".
+
+- [x] there has been
+- [ ] flood
+- [ ] explode
+
+> **解析**：本题在单元主题情境中复习表达 there has been。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] there haven't been
+- [ ] improvement
+- [ ] has there been
+
+> **解析**：本题在单元主题情境中复习表达 there haven't been。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] crash
+- [ ] against
+- [ ] involve
+
+> **解析**：本题在单元主题情境中复习表达 crash。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] flood
+- [ ] explode
+- [ ] protest
+
+> **解析**：本题在单元主题情境中复习表达 flood。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] improvement
+- [ ] has there been
+- [ ] there has been
+
+> **解析**：本题在单元主题情境中复习表达 improvement。
+
+</quiz-cloze>

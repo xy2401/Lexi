@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 afford, balance, bank teller, budget, business, checking account, consider, deposit, id, lent, limit, mobile, not, not to, paperwork, password, payment, right away, spent, temporary, thanks for, thanks for not, transaction, transfer, up-to-date
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ afford = 负担得起。lent 是 lend 的过去式。
 
 - **budget / consider / thanks for not** — 预算 / 考虑 / 感谢没有。搭配：on a budget, consider carefully, thanks for not charging。例句：I'm on a tight budget. / Consider all the fees. / Thanks for not charging extra. 注意 on a budget = 预算有限。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“afford”。  
+   **英文**：At work, we discussed "afford".
+   > **解析**：本题在单元主题情境中复习表达 afford。
+
+2. **中文**：同事提到了“business”。  
+   **英文**：My coworker mentioned "business".
+   > **解析**：本题在单元主题情境中复习表达 business。
+
+3. **中文**：会议中，我听到了“deposit”。  
+   **英文**：In the meeting, I heard "deposit".
+   > **解析**：本题在单元主题情境中复习表达 deposit。
+
+4. **中文**：我把“mobile”写进了笔记。  
+   **英文**：I added "mobile" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 mobile。
+
+5. **中文**：经理解释了“password”。  
+   **英文**：The manager explained "password".
+   > **解析**：本题在单元主题情境中复习表达 password。
+
+6. **中文**：团队今天用到了“spent”。  
+   **英文**：Our team used "spent" today.
+   > **解析**：本题在单元主题情境中复习表达 spent。
+
+7. **中文**：午饭前，我们查看了“transaction”。  
+   **英文**：Before lunch, we checked "transaction".
+   > **解析**：本题在单元主题情境中复习表达 transaction。
+
+8. **中文**：同事询问了“balance”。  
+   **英文**：My colleague asked about "balance".
+   > **解析**：本题在单元主题情境中复习表达 balance。
+
+9. **中文**：报告中包含“checking account”。  
+   **英文**：The report included "checking account".
+   > **解析**：本题在单元主题情境中复习表达 checking account。
+
+10. **中文**：一天结束时，我记住了“lent”。  
+   **英文**：At the end of the day, I remembered "lent".
+   > **解析**：本题在单元主题情境中复习表达 lent。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "afford".
+   > **中文**：工作中，我们讨论了“afford”。
+2. My coworker mentioned "business".
+   > **中文**：同事提到了“business”。
+3. In the meeting, I heard "deposit".
+   > **中文**：会议中，我听到了“deposit”。
+4. I added "mobile" to my notes.
+   > **中文**：我把“mobile”写进了笔记。
+5. The manager explained "password".
+   > **中文**：经理解释了“password”。
+6. Our team used "spent" today.
+   > **中文**：团队今天用到了“spent”。
+7. Before lunch, we checked "transaction".
+   > **中文**：午饭前，我们查看了“transaction”。
+8. My colleague asked about "balance".
+   > **中文**：同事询问了“balance”。
+9. The report included "checking account".
+   > **中文**：报告中包含“checking account”。
+10. At the end of the day, I remembered "lent".
+   > **中文**：一天结束时，我记住了“lent”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] afford
+- [ ] mobile
+- [ ] transaction
+
+> **解析**：本题在单元主题情境中复习表达 afford。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] business
+- [ ] password
+- [ ] balance
+
+> **解析**：本题在单元主题情境中复习表达 business。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] deposit
+- [ ] spent
+- [ ] checking account
+
+> **解析**：本题在单元主题情境中复习表达 deposit。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] mobile
+- [ ] transaction
+- [ ] lent
+
+> **解析**：本题在单元主题情境中复习表达 mobile。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] password
+- [ ] balance
+- [ ] afford
+
+> **解析**：本题在单元主题情境中复习表达 password。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] spent
+- [ ] checking account
+- [ ] business
+
+> **解析**：本题在单元主题情境中复习表达 spent。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] transaction
+- [ ] lent
+- [ ] deposit
+
+> **解析**：本题在单元主题情境中复习表达 transaction。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] balance
+- [ ] afford
+- [ ] mobile
+
+> **解析**：本题在单元主题情境中复习表达 balance。
+
+### 9
+
+The report included "`____`".
+
+- [x] checking account
+- [ ] business
+- [ ] password
+
+> **解析**：本题在单元主题情境中复习表达 checking account。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] lent
+- [ ] deposit
+- [ ] spent
+
+> **解析**：本题在单元主题情境中复习表达 lent。
+
+</quiz-cloze>

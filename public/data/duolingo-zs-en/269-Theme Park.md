@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 after next, all of a sudden, amusement park, cotton candy, ferris wheel, gigantic, go on, hail, head, hot dog, packed, requirement, ride, roller coaster, season pass, stuffed animal, temporarily, upside down, wait in line, was hoping to, was thinking, were supposed to, wondering where, wristband
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ after next, all of a sudden, amusement park, cotton candy, ferris wheel, giganti
 - **temporarily** — 暂时地。形容词是 temporary。搭配：temporarily closed / temporarily unavailable。游乐园告示上常见：This ride is temporarily closed for maintenance.
 
 - **go on** — 这里指"乘坐（游乐设施）"：go on a ride / go on the roller coaster。不是"继续"的意思。类似表达：get on。注意搭配：go on a ride 但 ride the roller coaster（ride 做动词时不加 on）。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“after next”。  
+   **英文**：In this situation, I heard "after next".
+   > **解析**：本题在单元主题情境中复习表达 after next。
+
+2. **中文**：同伴解释了“ferris wheel”。  
+   **英文**：My partner explained "ferris wheel".
+   > **解析**：本题在单元主题情境中复习表达 ferris wheel。
+
+3. **中文**：我们一起谈到了“hail”。  
+   **英文**：We talked about "hail" together.
+   > **解析**：本题在单元主题情境中复习表达 hail。
+
+4. **中文**：我记下了“requirement”。  
+   **英文**：I wrote down "requirement".
+   > **解析**：本题在单元主题情境中复习表达 requirement。
+
+5. **中文**：例句中包含“season pass”。  
+   **英文**：The example included "season pass".
+   > **解析**：本题在单元主题情境中复习表达 season pass。
+
+6. **中文**：我询问了“wait in line”。  
+   **英文**：I asked about "wait in line".
+   > **解析**：本题在单元主题情境中复习表达 wait in line。
+
+7. **中文**：我们在句子中用到了“were supposed to”。  
+   **英文**：We used "were supposed to" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 were supposed to。
+
+8. **中文**：朋友重复了“all of a sudden”。  
+   **英文**：My friend repeated "all of a sudden".
+   > **解析**：本题在单元主题情境中复习表达 all of a sudden。
+
+9. **中文**：后来，我记住了“gigantic”。  
+   **英文**：Later, I remembered "gigantic".
+   > **解析**：本题在单元主题情境中复习表达 gigantic。
+
+10. **中文**：这个小故事以“hot dog”收尾。  
+   **英文**：The short story ended with "hot dog".
+   > **解析**：本题在单元主题情境中复习表达 hot dog。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "after next".
+   > **中文**：在这个情境中，我听到了“after next”。
+2. My partner explained "ferris wheel".
+   > **中文**：同伴解释了“ferris wheel”。
+3. We talked about "hail" together.
+   > **中文**：我们一起谈到了“hail”。
+4. I wrote down "requirement".
+   > **中文**：我记下了“requirement”。
+5. The example included "season pass".
+   > **中文**：例句中包含“season pass”。
+6. I asked about "wait in line".
+   > **中文**：我询问了“wait in line”。
+7. We used "were supposed to" in a sentence.
+   > **中文**：我们在句子中用到了“were supposed to”。
+8. My friend repeated "all of a sudden".
+   > **中文**：朋友重复了“all of a sudden”。
+9. Later, I remembered "gigantic".
+   > **中文**：后来，我记住了“gigantic”。
+10. The short story ended with "hot dog".
+   > **中文**：这个小故事以“hot dog”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] after next
+- [ ] requirement
+- [ ] were supposed to
+
+> **解析**：本题在单元主题情境中复习表达 after next。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] ferris wheel
+- [ ] season pass
+- [ ] all of a sudden
+
+> **解析**：本题在单元主题情境中复习表达 ferris wheel。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] hail
+- [ ] wait in line
+- [ ] gigantic
+
+> **解析**：本题在单元主题情境中复习表达 hail。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] requirement
+- [ ] were supposed to
+- [ ] hot dog
+
+> **解析**：本题在单元主题情境中复习表达 requirement。
+
+### 5
+
+The example included "`____`".
+
+- [x] season pass
+- [ ] all of a sudden
+- [ ] after next
+
+> **解析**：本题在单元主题情境中复习表达 season pass。
+
+### 6
+
+I asked about "`____`".
+
+- [x] wait in line
+- [ ] gigantic
+- [ ] ferris wheel
+
+> **解析**：本题在单元主题情境中复习表达 wait in line。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] were supposed to
+- [ ] hot dog
+- [ ] hail
+
+> **解析**：本题在单元主题情境中复习表达 were supposed to。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] all of a sudden
+- [ ] after next
+- [ ] requirement
+
+> **解析**：本题在单元主题情境中复习表达 all of a sudden。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] gigantic
+- [ ] ferris wheel
+- [ ] season pass
+
+> **解析**：本题在单元主题情境中复习表达 gigantic。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] hot dog
+- [ ] hail
+- [ ] wait in line
+
+> **解析**：本题在单元主题情境中复习表达 hot dog。
+
+</quiz-cloze>

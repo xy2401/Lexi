@@ -8,7 +8,7 @@
  *
  * 默认：
  *   url    = https://duome.eu/vocabulary/zs/en/skills
- *   output = public/data/duolingo-zs-en.json
+ *   output = data/duolingo-zs-en-source.json（仅作导入参考）
  */
 import { chromium } from 'playwright'
 import { writeFileSync, mkdirSync } from 'fs'
@@ -19,7 +19,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url))
 const root = resolve(__dirname, '..')
 
 const url = process.argv[2] || 'https://duome.eu/vocabulary/zs/en/skills'
-const output = process.argv[3] || resolve(root, 'public/data/duolingo-zs-en.json')
+const output = process.argv[3] || resolve(root, 'data/duolingo-zs-en-source.json')
 
 async function main() {
   console.log(`🚀 启动浏览器...`)

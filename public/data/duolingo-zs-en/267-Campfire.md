@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 Bigfoot, burst into, campfire, cliffhanger, darkness, dead, dying to, edge of my seat, excited for, go to sleep, goosebumps, grizzly bear, hanging, killer, marshmallow, no sooner had, owl, racing, s'mores, scary story, silently, spooky, squirrel, werewolf
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ Bigfoot, burst into, campfire, cliffhanger, darkness, dead, dying to, edge of my
 - **silently** — 安静地、无声地。副词，修饰动作：The owl flew silently through the darkness. 注意 silent 是形容词，silently 是副词，silence 是名词。
 
 - **killer** — 这里不是"杀手"，而是口语中的形容词用法，意为"极好的、厉害的"：That story was killer! 也可以做名词指恐怖故事里的凶手。一词两义，看语境判断。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“Bigfoot”。  
+   **英文**：At home, we talked about "Bigfoot".
+   > **解析**：本题在单元主题情境中复习表达 Bigfoot。
+
+2. **中文**：家人提到了“darkness”。  
+   **英文**：My family mentioned "darkness".
+   > **解析**：本题在单元主题情境中复习表达 darkness。
+
+3. **中文**：在房间里，我注意到了“edge of my seat”。  
+   **英文**：In the room, I noticed "edge of my seat".
+   > **解析**：本题在单元主题情境中复习表达 edge of my seat。
+
+4. **中文**：我们在家里用到了“grizzly bear”。  
+   **英文**：We used "grizzly bear" at home.
+   > **解析**：本题在单元主题情境中复习表达 grizzly bear。
+
+5. **中文**：邻居询问了“marshmallow”。  
+   **英文**：My neighbor asked about "marshmallow".
+   > **解析**：本题在单元主题情境中复习表达 marshmallow。
+
+6. **中文**：我在门边写下了“s'mores”。  
+   **英文**：I wrote down "s'mores" by the door.
+   > **解析**：本题在单元主题情境中复习表达 s'mores。
+
+7. **中文**：晚饭后，我们重复了“spooky”。  
+   **英文**：After dinner, we repeated "spooky".
+   > **解析**：本题在单元主题情境中复习表达 spooky。
+
+8. **中文**：家庭故事里包含“burst into”。  
+   **英文**：The family story included "burst into".
+   > **解析**：本题在单元主题情境中复习表达 burst into。
+
+9. **中文**：睡前，我记住了“dead”。  
+   **英文**：Before bed, I remembered "dead".
+   > **解析**：本题在单元主题情境中复习表达 dead。
+
+10. **中文**：那个夜晚以“go to sleep”收尾。  
+   **英文**：That evening ended with "go to sleep".
+   > **解析**：本题在单元主题情境中复习表达 go to sleep。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "Bigfoot".
+   > **中文**：在家里，我们谈到了“Bigfoot”。
+2. My family mentioned "darkness".
+   > **中文**：家人提到了“darkness”。
+3. In the room, I noticed "edge of my seat".
+   > **中文**：在房间里，我注意到了“edge of my seat”。
+4. We used "grizzly bear" at home.
+   > **中文**：我们在家里用到了“grizzly bear”。
+5. My neighbor asked about "marshmallow".
+   > **中文**：邻居询问了“marshmallow”。
+6. I wrote down "s'mores" by the door.
+   > **中文**：我在门边写下了“s'mores”。
+7. After dinner, we repeated "spooky".
+   > **中文**：晚饭后，我们重复了“spooky”。
+8. The family story included "burst into".
+   > **中文**：家庭故事里包含“burst into”。
+9. Before bed, I remembered "dead".
+   > **中文**：睡前，我记住了“dead”。
+10. That evening ended with "go to sleep".
+   > **中文**：那个夜晚以“go to sleep”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] Bigfoot
+- [ ] grizzly bear
+- [ ] spooky
+
+> **解析**：本题在单元主题情境中复习表达 Bigfoot。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] darkness
+- [ ] marshmallow
+- [ ] burst into
+
+> **解析**：本题在单元主题情境中复习表达 darkness。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] edge of my seat
+- [ ] s'mores
+- [ ] dead
+
+> **解析**：本题在单元主题情境中复习表达 edge of my seat。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] grizzly bear
+- [ ] spooky
+- [ ] go to sleep
+
+> **解析**：本题在单元主题情境中复习表达 grizzly bear。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] marshmallow
+- [ ] burst into
+- [ ] Bigfoot
+
+> **解析**：本题在单元主题情境中复习表达 marshmallow。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] s'mores
+- [ ] dead
+- [ ] darkness
+
+> **解析**：本题在单元主题情境中复习表达 s'mores。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] spooky
+- [ ] go to sleep
+- [ ] edge of my seat
+
+> **解析**：本题在单元主题情境中复习表达 spooky。
+
+### 8
+
+The family story included "`____`".
+
+- [x] burst into
+- [ ] Bigfoot
+- [ ] grizzly bear
+
+> **解析**：本题在单元主题情境中复习表达 burst into。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] dead
+- [ ] darkness
+- [ ] marshmallow
+
+> **解析**：本题在单元主题情境中复习表达 dead。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] go to sleep
+- [ ] edge of my seat
+- [ ] s'mores
+
+> **解析**：本题在单元主题情境中复习表达 go to sleep。
+
+</quiz-cloze>

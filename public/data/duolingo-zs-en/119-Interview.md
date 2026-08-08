@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 accept, airline, apply, away, begun, benefits, career, contact, decision, done, education, engineering, feeling, full-time, interview, part-time, quit, responsible, résumé, sign, since, skill, sound like, understood
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ apply for 表示"申请"。since 搭配现在完成时。
 
 - **interview / apply / since** — 面试 / 申请 / 自从。搭配：job interview, apply online, since last week。例句：The interview is tomorrow. / I applied online. / I've been nervous since I applied.
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：课堂上，老师介绍了“accept”。  
+   **英文**：In class, the teacher introduced "accept".
+   > **解析**：本题在单元主题情境中复习表达 accept。
+
+2. **中文**：我把“begun”写进笔记本。  
+   **英文**：I wrote "begun" in my notebook.
+   > **解析**：本题在单元主题情境中复习表达 begun。
+
+3. **中文**：同学解释了“contact”。  
+   **英文**：My classmate explained "contact".
+   > **解析**：本题在单元主题情境中复习表达 contact。
+
+4. **中文**：我们一起练习了“engineering”。  
+   **英文**：We practiced "engineering" together.
+   > **解析**：本题在单元主题情境中复习表达 engineering。
+
+5. **中文**：作业里包含“interview”。  
+   **英文**：The homework included "interview".
+   > **解析**：本题在单元主题情境中复习表达 interview。
+
+6. **中文**：我向老师询问了“résumé”。  
+   **英文**：I asked the teacher about "résumé".
+   > **解析**：本题在单元主题情境中复习表达 résumé。
+
+7. **中文**：上课时，我听到了“skill”。  
+   **英文**：During the lesson, I heard "skill".
+   > **解析**：本题在单元主题情境中复习表达 skill。
+
+8. **中文**：学习伙伴记住了“airline”。  
+   **英文**：My study partner remembered "airline".
+   > **解析**：本题在单元主题情境中复习表达 airline。
+
+9. **中文**：我们在例句中用到了“benefits”。  
+   **英文**：We used "benefits" in an example.
+   > **解析**：本题在单元主题情境中复习表达 benefits。
+
+10. **中文**：下课后，我复习了“done”。  
+   **英文**：After class, I reviewed "done".
+   > **解析**：本题在单元主题情境中复习表达 done。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In class, the teacher introduced "accept".
+   > **中文**：课堂上，老师介绍了“accept”。
+2. I wrote "begun" in my notebook.
+   > **中文**：我把“begun”写进笔记本。
+3. My classmate explained "contact".
+   > **中文**：同学解释了“contact”。
+4. We practiced "engineering" together.
+   > **中文**：我们一起练习了“engineering”。
+5. The homework included "interview".
+   > **中文**：作业里包含“interview”。
+6. I asked the teacher about "résumé".
+   > **中文**：我向老师询问了“résumé”。
+7. During the lesson, I heard "skill".
+   > **中文**：上课时，我听到了“skill”。
+8. My study partner remembered "airline".
+   > **中文**：学习伙伴记住了“airline”。
+9. We used "benefits" in an example.
+   > **中文**：我们在例句中用到了“benefits”。
+10. After class, I reviewed "done".
+   > **中文**：下课后，我复习了“done”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In class, the teacher introduced "`____`".
+
+- [x] accept
+- [ ] engineering
+- [ ] skill
+
+> **解析**：本题在单元主题情境中复习表达 accept。
+
+### 2
+
+I wrote "`____`" in my notebook.
+
+- [x] begun
+- [ ] interview
+- [ ] airline
+
+> **解析**：本题在单元主题情境中复习表达 begun。
+
+### 3
+
+My classmate explained "`____`".
+
+- [x] contact
+- [ ] résumé
+- [ ] benefits
+
+> **解析**：本题在单元主题情境中复习表达 contact。
+
+### 4
+
+We practiced "`____`" together.
+
+- [x] engineering
+- [ ] skill
+- [ ] done
+
+> **解析**：本题在单元主题情境中复习表达 engineering。
+
+### 5
+
+The homework included "`____`".
+
+- [x] interview
+- [ ] airline
+- [ ] accept
+
+> **解析**：本题在单元主题情境中复习表达 interview。
+
+### 6
+
+I asked the teacher about "`____`".
+
+- [x] résumé
+- [ ] benefits
+- [ ] begun
+
+> **解析**：本题在单元主题情境中复习表达 résumé。
+
+### 7
+
+During the lesson, I heard "`____`".
+
+- [x] skill
+- [ ] done
+- [ ] contact
+
+> **解析**：本题在单元主题情境中复习表达 skill。
+
+### 8
+
+My study partner remembered "`____`".
+
+- [x] airline
+- [ ] accept
+- [ ] engineering
+
+> **解析**：本题在单元主题情境中复习表达 airline。
+
+### 9
+
+We used "`____`" in an example.
+
+- [x] benefits
+- [ ] begun
+- [ ] interview
+
+> **解析**：本题在单元主题情境中复习表达 benefits。
+
+### 10
+
+After class, I reviewed "`____`".
+
+- [x] done
+- [ ] contact
+- [ ] résumé
+
+> **解析**：本题在单元主题情境中复习表达 done。
+
+</quiz-cloze>

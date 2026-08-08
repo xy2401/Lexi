@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 alien, archeologist, classified, coincidence, conclusion, convinced, couldn't, for the sake of argument, galaxy, have been, if so, if we assume, improbable, let's say, pyramids, ruins, skeptical, solar system, spaceship, suppose, theory, ufo, wonder, wouldn't
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ alien, archeologist, classified, coincidence, conclusion, convinced, couldn't, f
 - **if so** — 如果是这样的话。搭配：If so, then... / If so, what does that mean? 例句：Could aliens have built the pyramids? If so, where is the evidence? 非常简洁的回指表达，代替重复前面整个条件句。反义：if not（如果不是这样的话）。
 
 - **alien** — 外星人；外国的。搭配：an alien civilization / alien life / illegal alien（非法移民，美式）。例句：Do you think alien beings visited ancient Egypt? 注意 alien 做形容词时意为"外星的、外国的"，做名词时指"外星人"或"外国人"。在科幻语境中几乎总是指外星人。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“alien”。  
+   **英文**：In this situation, I heard "alien".
+   > **解析**：本题在单元主题情境中复习表达 alien。
+
+2. **中文**：同伴解释了“conclusion”。  
+   **英文**：My partner explained "conclusion".
+   > **解析**：本题在单元主题情境中复习表达 conclusion。
+
+3. **中文**：我们一起谈到了“for the sake of argument”。  
+   **英文**：We talked about "for the sake of argument" together.
+   > **解析**：本题在单元主题情境中复习表达 for the sake of argument。
+
+4. **中文**：我记下了“if we assume”。  
+   **英文**：I wrote down "if we assume".
+   > **解析**：本题在单元主题情境中复习表达 if we assume。
+
+5. **中文**：例句中包含“pyramids”。  
+   **英文**：The example included "pyramids".
+   > **解析**：本题在单元主题情境中复习表达 pyramids。
+
+6. **中文**：我询问了“spaceship”。  
+   **英文**：I asked about "spaceship".
+   > **解析**：本题在单元主题情境中复习表达 spaceship。
+
+7. **中文**：我们在句子中用到了“ufo”。  
+   **英文**：We used "ufo" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 ufo。
+
+8. **中文**：朋友重复了“archeologist”。  
+   **英文**：My friend repeated "archeologist".
+   > **解析**：本题在单元主题情境中复习表达 archeologist。
+
+9. **中文**：后来，我记住了“convinced”。  
+   **英文**：Later, I remembered "convinced".
+   > **解析**：本题在单元主题情境中复习表达 convinced。
+
+10. **中文**：这个小故事以“have been”收尾。  
+   **英文**：The short story ended with "have been".
+   > **解析**：本题在单元主题情境中复习表达 have been。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "alien".
+   > **中文**：在这个情境中，我听到了“alien”。
+2. My partner explained "conclusion".
+   > **中文**：同伴解释了“conclusion”。
+3. We talked about "for the sake of argument" together.
+   > **中文**：我们一起谈到了“for the sake of argument”。
+4. I wrote down "if we assume".
+   > **中文**：我记下了“if we assume”。
+5. The example included "pyramids".
+   > **中文**：例句中包含“pyramids”。
+6. I asked about "spaceship".
+   > **中文**：我询问了“spaceship”。
+7. We used "ufo" in a sentence.
+   > **中文**：我们在句子中用到了“ufo”。
+8. My friend repeated "archeologist".
+   > **中文**：朋友重复了“archeologist”。
+9. Later, I remembered "convinced".
+   > **中文**：后来，我记住了“convinced”。
+10. The short story ended with "have been".
+   > **中文**：这个小故事以“have been”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] alien
+- [ ] if we assume
+- [ ] ufo
+
+> **解析**：本题在单元主题情境中复习表达 alien。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] conclusion
+- [ ] pyramids
+- [ ] archeologist
+
+> **解析**：本题在单元主题情境中复习表达 conclusion。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] for the sake of argument
+- [ ] spaceship
+- [ ] convinced
+
+> **解析**：本题在单元主题情境中复习表达 for the sake of argument。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] if we assume
+- [ ] ufo
+- [ ] have been
+
+> **解析**：本题在单元主题情境中复习表达 if we assume。
+
+### 5
+
+The example included "`____`".
+
+- [x] pyramids
+- [ ] archeologist
+- [ ] alien
+
+> **解析**：本题在单元主题情境中复习表达 pyramids。
+
+### 6
+
+I asked about "`____`".
+
+- [x] spaceship
+- [ ] convinced
+- [ ] conclusion
+
+> **解析**：本题在单元主题情境中复习表达 spaceship。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] ufo
+- [ ] have been
+- [ ] for the sake of argument
+
+> **解析**：本题在单元主题情境中复习表达 ufo。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] archeologist
+- [ ] alien
+- [ ] if we assume
+
+> **解析**：本题在单元主题情境中复习表达 archeologist。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] convinced
+- [ ] conclusion
+- [ ] pyramids
+
+> **解析**：本题在单元主题情境中复习表达 convinced。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] have been
+- [ ] for the sake of argument
+- [ ] spaceship
+
+> **解析**：本题在单元主题情境中复习表达 have been。
+
+</quiz-cloze>

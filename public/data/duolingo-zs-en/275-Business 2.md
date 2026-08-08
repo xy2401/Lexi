@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 advertising, by, do a good job, early days, estimate, family, family-owned, for the better, from now, goods, hand down, i'll have been, in charge, in the family, milestone, next chapter, point, rewarding, run, shut down, take over, ups and downs, will have been, will you have
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ advertising, by, do a good job, early days, estimate, family, family-owned, for 
 - **estimate / goods / advertising** — 三个商业基础词。estimate 是"估算"（动词/名词）：estimate the cost / a rough estimate。goods 是"商品、货物"（复数）：deliver goods / goods and services。advertising 是"广告业、广告宣传"：work in advertising / an advertising campaign。
 
 - **do a good job** — 做得好。搭配：do a good job of / do a good job on / you did a good job。例句：My father did a good job building this business. 注意 job 是可数名词，a good job 有冠词。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“advertising”。  
+   **英文**：At work, we discussed "advertising".
+   > **解析**：本题在单元主题情境中复习表达 advertising。
+
+2. **中文**：同事提到了“estimate”。  
+   **英文**：My coworker mentioned "estimate".
+   > **解析**：本题在单元主题情境中复习表达 estimate。
+
+3. **中文**：会议中，我听到了“from now”。  
+   **英文**：In the meeting, I heard "from now".
+   > **解析**：本题在单元主题情境中复习表达 from now。
+
+4. **中文**：我把“i'll have been”写进了笔记。  
+   **英文**：I added "i'll have been" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 i'll have been。
+
+5. **中文**：经理解释了“next chapter”。  
+   **英文**：The manager explained "next chapter".
+   > **解析**：本题在单元主题情境中复习表达 next chapter。
+
+6. **中文**：团队今天用到了“run”。  
+   **英文**：Our team used "run" today.
+   > **解析**：本题在单元主题情境中复习表达 run。
+
+7. **中文**：午饭前，我们查看了“will have been”。  
+   **英文**：Before lunch, we checked "will have been".
+   > **解析**：本题在单元主题情境中复习表达 will have been。
+
+8. **中文**：同事询问了“do a good job”。  
+   **英文**：My colleague asked about "do a good job".
+   > **解析**：本题在单元主题情境中复习表达 do a good job。
+
+9. **中文**：报告中包含“family-owned”。  
+   **英文**：The report included "family-owned".
+   > **解析**：本题在单元主题情境中复习表达 family-owned。
+
+10. **中文**：一天结束时，我记住了“goods”。  
+   **英文**：At the end of the day, I remembered "goods".
+   > **解析**：本题在单元主题情境中复习表达 goods。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "advertising".
+   > **中文**：工作中，我们讨论了“advertising”。
+2. My coworker mentioned "estimate".
+   > **中文**：同事提到了“estimate”。
+3. In the meeting, I heard "from now".
+   > **中文**：会议中，我听到了“from now”。
+4. I added "i'll have been" to my notes.
+   > **中文**：我把“i'll have been”写进了笔记。
+5. The manager explained "next chapter".
+   > **中文**：经理解释了“next chapter”。
+6. Our team used "run" today.
+   > **中文**：团队今天用到了“run”。
+7. Before lunch, we checked "will have been".
+   > **中文**：午饭前，我们查看了“will have been”。
+8. My colleague asked about "do a good job".
+   > **中文**：同事询问了“do a good job”。
+9. The report included "family-owned".
+   > **中文**：报告中包含“family-owned”。
+10. At the end of the day, I remembered "goods".
+   > **中文**：一天结束时，我记住了“goods”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] advertising
+- [ ] i'll have been
+- [ ] will have been
+
+> **解析**：本题在单元主题情境中复习表达 advertising。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] estimate
+- [ ] next chapter
+- [ ] do a good job
+
+> **解析**：本题在单元主题情境中复习表达 estimate。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] from now
+- [ ] run
+- [ ] family-owned
+
+> **解析**：本题在单元主题情境中复习表达 from now。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] i'll have been
+- [ ] will have been
+- [ ] goods
+
+> **解析**：本题在单元主题情境中复习表达 i'll have been。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] next chapter
+- [ ] do a good job
+- [ ] advertising
+
+> **解析**：本题在单元主题情境中复习表达 next chapter。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] run
+- [ ] family-owned
+- [ ] estimate
+
+> **解析**：本题在单元主题情境中复习表达 run。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] will have been
+- [ ] goods
+- [ ] from now
+
+> **解析**：本题在单元主题情境中复习表达 will have been。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] do a good job
+- [ ] advertising
+- [ ] i'll have been
+
+> **解析**：本题在单元主题情境中复习表达 do a good job。
+
+### 9
+
+The report included "`____`".
+
+- [x] family-owned
+- [ ] estimate
+- [ ] next chapter
+
+> **解析**：本题在单元主题情境中复习表达 family-owned。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] goods
+- [ ] from now
+- [ ] run
+
+> **解析**：本题在单元主题情境中复习表达 goods。
+
+</quiz-cloze>

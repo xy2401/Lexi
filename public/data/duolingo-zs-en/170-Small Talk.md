@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 a, any, architect, can't wait for, culture, familiar, hang on, hardly, interrupt, introduce, journalist, love to, nice, some, sometime, speaking of, stress, twin, worth it
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -31,3 +36,194 @@ hardly 和 interrupt 给场景加了一点礼貌维度：Sorry to interrupt, but
 - **sometime / some / any** — sometime（某个时候）≠ sometimes（有时）≠ some time（一段时间）。Let's meet sometime. some 用于肯定句，any 用于否定/疑问：Do you have any questions? I have some ideas.
 
 - **nice / a** — nice 是社交万能形容词：Nice to meet you. / That's nice. 注意 nice 比较泛，正式场合可用 pleasant, delightful 替代。a 是不定冠词，介绍职业时必用：She's an architect.（不能说 She's architect.）
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“any”。  
+   **英文**：At work, we discussed "any".
+   > **解析**：本题在单元主题情境中复习表达 any。
+
+2. **中文**：同事提到了“culture”。  
+   **英文**：My coworker mentioned "culture".
+   > **解析**：本题在单元主题情境中复习表达 culture。
+
+3. **中文**：会议中，我听到了“hardly”。  
+   **英文**：In the meeting, I heard "hardly".
+   > **解析**：本题在单元主题情境中复习表达 hardly。
+
+4. **中文**：我把“journalist”写进了笔记。  
+   **英文**：I added "journalist" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 journalist。
+
+5. **中文**：经理解释了“some”。  
+   **英文**：The manager explained "some".
+   > **解析**：本题在单元主题情境中复习表达 some。
+
+6. **中文**：团队今天用到了“speaking of”。  
+   **英文**：Our team used "speaking of" today.
+   > **解析**：本题在单元主题情境中复习表达 speaking of。
+
+7. **中文**：午饭前，我们查看了“worth it”。  
+   **英文**：Before lunch, we checked "worth it".
+   > **解析**：本题在单元主题情境中复习表达 worth it。
+
+8. **中文**：同事询问了“can't wait for”。  
+   **英文**：My colleague asked about "can't wait for".
+   > **解析**：本题在单元主题情境中复习表达 can't wait for。
+
+9. **中文**：报告中包含“hang on”。  
+   **英文**：The report included "hang on".
+   > **解析**：本题在单元主题情境中复习表达 hang on。
+
+10. **中文**：一天结束时，我记住了“introduce”。  
+   **英文**：At the end of the day, I remembered "introduce".
+   > **解析**：本题在单元主题情境中复习表达 introduce。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "any".
+   > **中文**：工作中，我们讨论了“any”。
+2. My coworker mentioned "culture".
+   > **中文**：同事提到了“culture”。
+3. In the meeting, I heard "hardly".
+   > **中文**：会议中，我听到了“hardly”。
+4. I added "journalist" to my notes.
+   > **中文**：我把“journalist”写进了笔记。
+5. The manager explained "some".
+   > **中文**：经理解释了“some”。
+6. Our team used "speaking of" today.
+   > **中文**：团队今天用到了“speaking of”。
+7. Before lunch, we checked "worth it".
+   > **中文**：午饭前，我们查看了“worth it”。
+8. My colleague asked about "can't wait for".
+   > **中文**：同事询问了“can't wait for”。
+9. The report included "hang on".
+   > **中文**：报告中包含“hang on”。
+10. At the end of the day, I remembered "introduce".
+   > **中文**：一天结束时，我记住了“introduce”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] any
+- [ ] journalist
+- [ ] worth it
+
+> **解析**：本题在单元主题情境中复习表达 any。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] culture
+- [ ] some
+- [ ] can't wait for
+
+> **解析**：本题在单元主题情境中复习表达 culture。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] hardly
+- [ ] speaking of
+- [ ] hang on
+
+> **解析**：本题在单元主题情境中复习表达 hardly。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] journalist
+- [ ] worth it
+- [ ] introduce
+
+> **解析**：本题在单元主题情境中复习表达 journalist。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] some
+- [ ] can't wait for
+- [ ] any
+
+> **解析**：本题在单元主题情境中复习表达 some。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] speaking of
+- [ ] hang on
+- [ ] culture
+
+> **解析**：本题在单元主题情境中复习表达 speaking of。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] worth it
+- [ ] introduce
+- [ ] hardly
+
+> **解析**：本题在单元主题情境中复习表达 worth it。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] can't wait for
+- [ ] any
+- [ ] journalist
+
+> **解析**：本题在单元主题情境中复习表达 can't wait for。
+
+### 9
+
+The report included "`____`".
+
+- [x] hang on
+- [ ] culture
+- [ ] some
+
+> **解析**：本题在单元主题情境中复习表达 hang on。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] introduce
+- [ ] hardly
+- [ ] speaking of
+
+> **解析**：本题在单元主题情境中复习表达 introduce。
+
+</quiz-cloze>

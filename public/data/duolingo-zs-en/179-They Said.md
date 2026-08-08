@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 admit, ask if, asked, asked if, asked whether, asking, confirm, deal with, due to, favor, it depends, it depends on, jealous, loan, opinion on, personal, personally, promote, regret, suggest, sure about, think of, totally, waste, what are your thoughts on
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -33,3 +38,194 @@ admit, ask if, asked, asked if, asked whether, asking, confirm, deal with, due t
 - **deal with / due to / sure about** — deal with = 处理（= handle）：I'll deal with it. due to = 由于（后接名词/名词短语）：The delay was due to weather. sure about = 对……确定：Are you sure about that?
 
 - **asking / asked** — asking 是现在分词/动名词：I'm asking for your opinion. asked 是过去式/过去分词：She asked me a question. 注意 ask 可以接双宾语：ask someone something。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“admit”。  
+   **英文**：In this situation, I heard "admit".
+   > **解析**：本题在单元主题情境中复习表达 admit。
+
+2. **中文**：同伴解释了“asked whether”。  
+   **英文**：My partner explained "asked whether".
+   > **解析**：本题在单元主题情境中复习表达 asked whether。
+
+3. **中文**：我们一起谈到了“deal with”。  
+   **英文**：We talked about "deal with" together.
+   > **解析**：本题在单元主题情境中复习表达 deal with。
+
+4. **中文**：我记下了“it depends on”。  
+   **英文**：I wrote down "it depends on".
+   > **解析**：本题在单元主题情境中复习表达 it depends on。
+
+5. **中文**：例句中包含“personal”。  
+   **英文**：The example included "personal".
+   > **解析**：本题在单元主题情境中复习表达 personal。
+
+6. **中文**：我询问了“regret”。  
+   **英文**：I asked about "regret".
+   > **解析**：本题在单元主题情境中复习表达 regret。
+
+7. **中文**：我们在句子中用到了“totally”。  
+   **英文**：We used "totally" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 totally。
+
+8. **中文**：朋友重复了“ask if”。  
+   **英文**：My friend repeated "ask if".
+   > **解析**：本题在单元主题情境中复习表达 ask if。
+
+9. **中文**：后来，我记住了“asking”。  
+   **英文**：Later, I remembered "asking".
+   > **解析**：本题在单元主题情境中复习表达 asking。
+
+10. **中文**：这个小故事以“favor”收尾。  
+   **英文**：The short story ended with "favor".
+   > **解析**：本题在单元主题情境中复习表达 favor。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "admit".
+   > **中文**：在这个情境中，我听到了“admit”。
+2. My partner explained "asked whether".
+   > **中文**：同伴解释了“asked whether”。
+3. We talked about "deal with" together.
+   > **中文**：我们一起谈到了“deal with”。
+4. I wrote down "it depends on".
+   > **中文**：我记下了“it depends on”。
+5. The example included "personal".
+   > **中文**：例句中包含“personal”。
+6. I asked about "regret".
+   > **中文**：我询问了“regret”。
+7. We used "totally" in a sentence.
+   > **中文**：我们在句子中用到了“totally”。
+8. My friend repeated "ask if".
+   > **中文**：朋友重复了“ask if”。
+9. Later, I remembered "asking".
+   > **中文**：后来，我记住了“asking”。
+10. The short story ended with "favor".
+   > **中文**：这个小故事以“favor”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] admit
+- [ ] it depends on
+- [ ] totally
+
+> **解析**：本题在单元主题情境中复习表达 admit。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] asked whether
+- [ ] personal
+- [ ] ask if
+
+> **解析**：本题在单元主题情境中复习表达 asked whether。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] deal with
+- [ ] regret
+- [ ] asking
+
+> **解析**：本题在单元主题情境中复习表达 deal with。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] it depends on
+- [ ] totally
+- [ ] favor
+
+> **解析**：本题在单元主题情境中复习表达 it depends on。
+
+### 5
+
+The example included "`____`".
+
+- [x] personal
+- [ ] ask if
+- [ ] admit
+
+> **解析**：本题在单元主题情境中复习表达 personal。
+
+### 6
+
+I asked about "`____`".
+
+- [x] regret
+- [ ] asking
+- [ ] asked whether
+
+> **解析**：本题在单元主题情境中复习表达 regret。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] totally
+- [ ] favor
+- [ ] deal with
+
+> **解析**：本题在单元主题情境中复习表达 totally。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] ask if
+- [ ] admit
+- [ ] it depends on
+
+> **解析**：本题在单元主题情境中复习表达 ask if。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] asking
+- [ ] asked whether
+- [ ] personal
+
+> **解析**：本题在单元主题情境中复习表达 asking。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] favor
+- [ ] deal with
+- [ ] regret
+
+> **解析**：本题在单元主题情境中复习表达 favor。
+
+</quiz-cloze>

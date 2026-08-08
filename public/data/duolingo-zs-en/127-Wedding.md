@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 bride, celebrate, ceremony, cheek, colorful, deliver, engaged, exchange, greet, groom, instead of, kiss, last, musician, over, relative, rose, stood, surprise, thank, till, traditional, until, vase, wedding
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ instead of 表示"而不是"。until / till 表示"直到"。
 
 - **deliver / vase / until** — 送 / 花瓶 / 直到。搭配：deliver the flowers, in a vase, until the end。例句：The flowers were delivered this morning. / Put the roses in the vase. / We celebrated until late.
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“bride”。  
+   **英文**：At home, we talked about "bride".
+   > **解析**：本题在单元主题情境中复习表达 bride。
+
+2. **中文**：家人提到了“colorful”。  
+   **英文**：My family mentioned "colorful".
+   > **解析**：本题在单元主题情境中复习表达 colorful。
+
+3. **中文**：在房间里，我注意到了“exchange”。  
+   **英文**：In the room, I noticed "exchange".
+   > **解析**：本题在单元主题情境中复习表达 exchange。
+
+4. **中文**：我们在家里用到了“kiss”。  
+   **英文**：We used "kiss" at home.
+   > **解析**：本题在单元主题情境中复习表达 kiss。
+
+5. **中文**：邻居询问了“relative”。  
+   **英文**：My neighbor asked about "relative".
+   > **解析**：本题在单元主题情境中复习表达 relative。
+
+6. **中文**：我在门边写下了“surprise”。  
+   **英文**：I wrote down "surprise" by the door.
+   > **解析**：本题在单元主题情境中复习表达 surprise。
+
+7. **中文**：晚饭后，我们重复了“until”。  
+   **英文**：After dinner, we repeated "until".
+   > **解析**：本题在单元主题情境中复习表达 until。
+
+8. **中文**：家庭故事里包含“celebrate”。  
+   **英文**：The family story included "celebrate".
+   > **解析**：本题在单元主题情境中复习表达 celebrate。
+
+9. **中文**：睡前，我记住了“deliver”。  
+   **英文**：Before bed, I remembered "deliver".
+   > **解析**：本题在单元主题情境中复习表达 deliver。
+
+10. **中文**：那个夜晚以“groom”收尾。  
+   **英文**：That evening ended with "groom".
+   > **解析**：本题在单元主题情境中复习表达 groom。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "bride".
+   > **中文**：在家里，我们谈到了“bride”。
+2. My family mentioned "colorful".
+   > **中文**：家人提到了“colorful”。
+3. In the room, I noticed "exchange".
+   > **中文**：在房间里，我注意到了“exchange”。
+4. We used "kiss" at home.
+   > **中文**：我们在家里用到了“kiss”。
+5. My neighbor asked about "relative".
+   > **中文**：邻居询问了“relative”。
+6. I wrote down "surprise" by the door.
+   > **中文**：我在门边写下了“surprise”。
+7. After dinner, we repeated "until".
+   > **中文**：晚饭后，我们重复了“until”。
+8. The family story included "celebrate".
+   > **中文**：家庭故事里包含“celebrate”。
+9. Before bed, I remembered "deliver".
+   > **中文**：睡前，我记住了“deliver”。
+10. That evening ended with "groom".
+   > **中文**：那个夜晚以“groom”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] bride
+- [ ] kiss
+- [ ] until
+
+> **解析**：本题在单元主题情境中复习表达 bride。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] colorful
+- [ ] relative
+- [ ] celebrate
+
+> **解析**：本题在单元主题情境中复习表达 colorful。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] exchange
+- [ ] surprise
+- [ ] deliver
+
+> **解析**：本题在单元主题情境中复习表达 exchange。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] kiss
+- [ ] until
+- [ ] groom
+
+> **解析**：本题在单元主题情境中复习表达 kiss。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] relative
+- [ ] celebrate
+- [ ] bride
+
+> **解析**：本题在单元主题情境中复习表达 relative。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] surprise
+- [ ] deliver
+- [ ] colorful
+
+> **解析**：本题在单元主题情境中复习表达 surprise。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] until
+- [ ] groom
+- [ ] exchange
+
+> **解析**：本题在单元主题情境中复习表达 until。
+
+### 8
+
+The family story included "`____`".
+
+- [x] celebrate
+- [ ] bride
+- [ ] kiss
+
+> **解析**：本题在单元主题情境中复习表达 celebrate。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] deliver
+- [ ] colorful
+- [ ] relative
+
+> **解析**：本题在单元主题情境中复习表达 deliver。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] groom
+- [ ] exchange
+- [ ] surprise
+
+> **解析**：本题在单元主题情境中复习表达 groom。
+
+</quiz-cloze>

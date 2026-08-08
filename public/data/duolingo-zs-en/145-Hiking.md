@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 allowed, among, ancient, ant, beauty, because, butterfly, close, direction, dusty, gentle, get, mosquito, natural, nowhere, outdoor, peak, pile, shape, silent, somewhere else, stick, underneath, valley
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ because 引导原因状语从句。among 表示"在…之间（三者以上）"�
 
 - **mosquito / butterfly / ant** — 蚊子 / 蝴蝶 / 蚂蚁。搭配：mosquito repellent, a colorful butterfly, an ant hill。例句：Bring mosquito repellent. / The butterfly was orange. / Don't step on the ants. 注意这些是户外常见昆虫。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在机场，我听到了“allowed”。  
+   **英文**：At the airport, I heard "allowed".
+   > **解析**：本题在单元主题情境中复习表达 allowed。
+
+2. **中文**：我的旅伴解释了“beauty”。  
+   **英文**：My travel partner explained "beauty".
+   > **解析**：本题在单元主题情境中复习表达 beauty。
+
+3. **中文**：旅行途中，我们谈到了“close”。  
+   **英文**：During the trip, we talked about "close".
+   > **解析**：本题在单元主题情境中复习表达 close。
+
+4. **中文**：在酒店里，我记下了“get”。  
+   **英文**：At the hotel, I wrote down "get".
+   > **解析**：本题在单元主题情境中复习表达 get。
+
+5. **中文**：旅行者清楚地重复了“nowhere”。  
+   **英文**：The traveler repeated "nowhere" clearly.
+   > **解析**：本题在单元主题情境中复习表达 nowhere。
+
+6. **中文**：离开前，我查看了“shape”。  
+   **英文**：Before leaving, I checked "shape".
+   > **解析**：本题在单元主题情境中复习表达 shape。
+
+7. **中文**：在去那里的路上，我们用到了“stick”。  
+   **英文**：On the way there, we used "stick".
+   > **解析**：本题在单元主题情境中复习表达 stick。
+
+8. **中文**：到达后，我想起了“among”。  
+   **英文**：After arrival, I remembered "among".
+   > **解析**：本题在单元主题情境中复习表达 among。
+
+9. **中文**：导游指出了“because”。  
+   **英文**：The guide pointed out "because".
+   > **解析**：本题在单元主题情境中复习表达 because。
+
+10. **中文**：那段旅行故事以“dusty”收尾。  
+   **英文**：That travel story ended with "dusty".
+   > **解析**：本题在单元主题情境中复习表达 dusty。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the airport, I heard "allowed".
+   > **中文**：在机场，我听到了“allowed”。
+2. My travel partner explained "beauty".
+   > **中文**：我的旅伴解释了“beauty”。
+3. During the trip, we talked about "close".
+   > **中文**：旅行途中，我们谈到了“close”。
+4. At the hotel, I wrote down "get".
+   > **中文**：在酒店里，我记下了“get”。
+5. The traveler repeated "nowhere" clearly.
+   > **中文**：旅行者清楚地重复了“nowhere”。
+6. Before leaving, I checked "shape".
+   > **中文**：离开前，我查看了“shape”。
+7. On the way there, we used "stick".
+   > **中文**：在去那里的路上，我们用到了“stick”。
+8. After arrival, I remembered "among".
+   > **中文**：到达后，我想起了“among”。
+9. The guide pointed out "because".
+   > **中文**：导游指出了“because”。
+10. That travel story ended with "dusty".
+   > **中文**：那段旅行故事以“dusty”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the airport, I heard "`____`".
+
+- [x] allowed
+- [ ] get
+- [ ] stick
+
+> **解析**：本题在单元主题情境中复习表达 allowed。
+
+### 2
+
+My travel partner explained "`____`".
+
+- [x] beauty
+- [ ] nowhere
+- [ ] among
+
+> **解析**：本题在单元主题情境中复习表达 beauty。
+
+### 3
+
+During the trip, we talked about "`____`".
+
+- [x] close
+- [ ] shape
+- [ ] because
+
+> **解析**：本题在单元主题情境中复习表达 close。
+
+### 4
+
+At the hotel, I wrote down "`____`".
+
+- [x] get
+- [ ] stick
+- [ ] dusty
+
+> **解析**：本题在单元主题情境中复习表达 get。
+
+### 5
+
+The traveler repeated "`____`" clearly.
+
+- [x] nowhere
+- [ ] among
+- [ ] allowed
+
+> **解析**：本题在单元主题情境中复习表达 nowhere。
+
+### 6
+
+Before leaving, I checked "`____`".
+
+- [x] shape
+- [ ] because
+- [ ] beauty
+
+> **解析**：本题在单元主题情境中复习表达 shape。
+
+### 7
+
+On the way there, we used "`____`".
+
+- [x] stick
+- [ ] dusty
+- [ ] close
+
+> **解析**：本题在单元主题情境中复习表达 stick。
+
+### 8
+
+After arrival, I remembered "`____`".
+
+- [x] among
+- [ ] allowed
+- [ ] get
+
+> **解析**：本题在单元主题情境中复习表达 among。
+
+### 9
+
+The guide pointed out "`____`".
+
+- [x] because
+- [ ] beauty
+- [ ] nowhere
+
+> **解析**：本题在单元主题情境中复习表达 because。
+
+### 10
+
+That travel story ended with "`____`".
+
+- [x] dusty
+- [ ] close
+- [ ] shape
+
+> **解析**：本题在单元主题情境中复习表达 dusty。
+
+</quiz-cloze>

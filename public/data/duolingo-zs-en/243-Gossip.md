@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 aside from, astonished, awkward, before, claim, clue, did, even, fit in with, food court, go on, hold hands, imagine, keep it to yourself, mess, minor, nothing but, obsession, odd, out of control, strangely enough, suspend, swear, tabloid, the previous
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -56,3 +61,193 @@ go on（发生）、fit in with（融入）、out of control（失控）这些�
 
 - **hold hands** — "牵手"。注意 hand 用复数：They were holding hands. 不是 holding hand。类似结构：shake hands（握手）。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在餐厅里，我询问了“aside from”。  
+   **英文**：At the restaurant, I asked about "aside from".
+   > **解析**：本题在单元主题情境中复习表达 aside from。
+
+2. **中文**：菜单上有“claim”。  
+   **英文**：The menu included "claim".
+   > **解析**：本题在单元主题情境中复习表达 claim。
+
+3. **中文**：在餐桌旁，我们谈到了“even”。  
+   **英文**：At the table, we talked about "even".
+   > **解析**：本题在单元主题情境中复习表达 even。
+
+4. **中文**：厨师提到了“hold hands”。  
+   **英文**：The cook mentioned "hold hands".
+   > **解析**：本题在单元主题情境中复习表达 hold hands。
+
+5. **中文**：晚餐我点了“minor”。  
+   **英文**：I ordered "minor" for dinner.
+   > **解析**：本题在单元主题情境中复习表达 minor。
+
+6. **中文**：我的朋友选择了“odd”。  
+   **英文**：My friend chose "odd".
+   > **解析**：本题在单元主题情境中复习表达 odd。
+
+7. **中文**：服务员重复了“swear”。  
+   **英文**：The waiter repeated "swear".
+   > **解析**：本题在单元主题情境中复习表达 swear。
+
+8. **中文**：我们分享了一个关于“astonished”的故事。  
+   **英文**：We shared a story about "astonished".
+   > **解析**：本题在单元主题情境中复习表达 astonished。
+
+9. **中文**：饭后，我记住了“clue”。  
+   **英文**：After the meal, I remembered "clue".
+   > **解析**：本题在单元主题情境中复习表达 clue。
+
+10. **中文**：那顿饭以“food court”收尾。  
+   **英文**：That meal ended with "food court".
+   > **解析**：本题在单元主题情境中复习表达 food court。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the restaurant, I asked about "aside from".
+   > **中文**：在餐厅里，我询问了“aside from”。
+2. The menu included "claim".
+   > **中文**：菜单上有“claim”。
+3. At the table, we talked about "even".
+   > **中文**：在餐桌旁，我们谈到了“even”。
+4. The cook mentioned "hold hands".
+   > **中文**：厨师提到了“hold hands”。
+5. I ordered "minor" for dinner.
+   > **中文**：晚餐我点了“minor”。
+6. My friend chose "odd".
+   > **中文**：我的朋友选择了“odd”。
+7. The waiter repeated "swear".
+   > **中文**：服务员重复了“swear”。
+8. We shared a story about "astonished".
+   > **中文**：我们分享了一个关于“astonished”的故事。
+9. After the meal, I remembered "clue".
+   > **中文**：饭后，我记住了“clue”。
+10. That meal ended with "food court".
+   > **中文**：那顿饭以“food court”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the restaurant, I asked about "`____`".
+
+- [x] aside from
+- [ ] hold hands
+- [ ] swear
+
+> **解析**：本题在单元主题情境中复习表达 aside from。
+
+### 2
+
+The menu included "`____`".
+
+- [x] claim
+- [ ] minor
+- [ ] astonished
+
+> **解析**：本题在单元主题情境中复习表达 claim。
+
+### 3
+
+At the table, we talked about "`____`".
+
+- [x] even
+- [ ] odd
+- [ ] clue
+
+> **解析**：本题在单元主题情境中复习表达 even。
+
+### 4
+
+The cook mentioned "`____`".
+
+- [x] hold hands
+- [ ] swear
+- [ ] food court
+
+> **解析**：本题在单元主题情境中复习表达 hold hands。
+
+### 5
+
+I ordered "`____`" for dinner.
+
+- [x] minor
+- [ ] astonished
+- [ ] aside from
+
+> **解析**：本题在单元主题情境中复习表达 minor。
+
+### 6
+
+My friend chose "`____`".
+
+- [x] odd
+- [ ] clue
+- [ ] claim
+
+> **解析**：本题在单元主题情境中复习表达 odd。
+
+### 7
+
+The waiter repeated "`____`".
+
+- [x] swear
+- [ ] food court
+- [ ] even
+
+> **解析**：本题在单元主题情境中复习表达 swear。
+
+### 8
+
+We shared a story about "`____`".
+
+- [x] astonished
+- [ ] aside from
+- [ ] hold hands
+
+> **解析**：本题在单元主题情境中复习表达 astonished。
+
+### 9
+
+After the meal, I remembered "`____`".
+
+- [x] clue
+- [ ] claim
+- [ ] minor
+
+> **解析**：本题在单元主题情境中复习表达 clue。
+
+### 10
+
+That meal ended with "`____`".
+
+- [x] food court
+- [ ] even
+- [ ] odd
+
+> **解析**：本题在单元主题情境中复习表达 food court。
+
+</quiz-cloze>

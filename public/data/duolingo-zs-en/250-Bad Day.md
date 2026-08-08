@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 anybody, badly, break, calculator, catch up, cheer, effort, error, everybody, from time to time, hard time, how, it's a good thing, must, must have, must not have, no one, not quite, out of practice, poor thing, see, stain, tough, tray
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -54,3 +59,193 @@ must have / must not have 是对过去事情的推测："一定是……""一定
 
 - **no one / anybody / everybody** — 三个不定代词。no one = 没有人（单数动词）。anybody 用于疑问/否定。everybody = 每个人（单数动词）。注意：Everybody is... 不是 Everybody are...
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“anybody”。  
+   **英文**：In this situation, I heard "anybody".
+   > **解析**：本题在单元主题情境中复习表达 anybody。
+
+2. **中文**：同伴解释了“catch up”。  
+   **英文**：My partner explained "catch up".
+   > **解析**：本题在单元主题情境中复习表达 catch up。
+
+3. **中文**：我们一起谈到了“error”。  
+   **英文**：We talked about "error" together.
+   > **解析**：本题在单元主题情境中复习表达 error。
+
+4. **中文**：我记下了“how”。  
+   **英文**：I wrote down "how".
+   > **解析**：本题在单元主题情境中复习表达 how。
+
+5. **中文**：例句中包含“must have”。  
+   **英文**：The example included "must have".
+   > **解析**：本题在单元主题情境中复习表达 must have。
+
+6. **中文**：我询问了“out of practice”。  
+   **英文**：I asked about "out of practice".
+   > **解析**：本题在单元主题情境中复习表达 out of practice。
+
+7. **中文**：我们在句子中用到了“stain”。  
+   **英文**：We used "stain" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 stain。
+
+8. **中文**：朋友重复了“badly”。  
+   **英文**：My friend repeated "badly".
+   > **解析**：本题在单元主题情境中复习表达 badly。
+
+9. **中文**：后来，我记住了“cheer”。  
+   **英文**：Later, I remembered "cheer".
+   > **解析**：本题在单元主题情境中复习表达 cheer。
+
+10. **中文**：这个小故事以“from time to time”收尾。  
+   **英文**：The short story ended with "from time to time".
+   > **解析**：本题在单元主题情境中复习表达 from time to time。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "anybody".
+   > **中文**：在这个情境中，我听到了“anybody”。
+2. My partner explained "catch up".
+   > **中文**：同伴解释了“catch up”。
+3. We talked about "error" together.
+   > **中文**：我们一起谈到了“error”。
+4. I wrote down "how".
+   > **中文**：我记下了“how”。
+5. The example included "must have".
+   > **中文**：例句中包含“must have”。
+6. I asked about "out of practice".
+   > **中文**：我询问了“out of practice”。
+7. We used "stain" in a sentence.
+   > **中文**：我们在句子中用到了“stain”。
+8. My friend repeated "badly".
+   > **中文**：朋友重复了“badly”。
+9. Later, I remembered "cheer".
+   > **中文**：后来，我记住了“cheer”。
+10. The short story ended with "from time to time".
+   > **中文**：这个小故事以“from time to time”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] anybody
+- [ ] how
+- [ ] stain
+
+> **解析**：本题在单元主题情境中复习表达 anybody。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] catch up
+- [ ] must have
+- [ ] badly
+
+> **解析**：本题在单元主题情境中复习表达 catch up。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] error
+- [ ] out of practice
+- [ ] cheer
+
+> **解析**：本题在单元主题情境中复习表达 error。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] how
+- [ ] stain
+- [ ] from time to time
+
+> **解析**：本题在单元主题情境中复习表达 how。
+
+### 5
+
+The example included "`____`".
+
+- [x] must have
+- [ ] badly
+- [ ] anybody
+
+> **解析**：本题在单元主题情境中复习表达 must have。
+
+### 6
+
+I asked about "`____`".
+
+- [x] out of practice
+- [ ] cheer
+- [ ] catch up
+
+> **解析**：本题在单元主题情境中复习表达 out of practice。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] stain
+- [ ] from time to time
+- [ ] error
+
+> **解析**：本题在单元主题情境中复习表达 stain。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] badly
+- [ ] anybody
+- [ ] how
+
+> **解析**：本题在单元主题情境中复习表达 badly。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] cheer
+- [ ] catch up
+- [ ] must have
+
+> **解析**：本题在单元主题情境中复习表达 cheer。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] from time to time
+- [ ] error
+- [ ] out of practice
+
+> **解析**：本题在单元主题情境中复习表达 from time to time。
+
+</quiz-cloze>

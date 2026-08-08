@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 ask, at least, athlete, beat, champion, cheer for, coach, compete, go, goal, live, olympics, point, root for, rule, score, stand up, tell, than, tie, tournament, world cup
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ root for / cheer for = 支持/加油。than 用于比较。
 
 - **tie / at least / live** — 平局 / 至少 / 直播。搭配：end in a tie, at least a point, broadcast live。例句：It was a 1-1 tie. / At least we got a point. / The final is live on TV. 注意 live broadcast = 现场直播。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：谈论喜好时，我听到了“ask”。  
+   **英文**：When we talked about favorites, I heard "ask".
+   > **解析**：本题在单元主题情境中复习表达 ask。
+
+2. **中文**：朋友说“beat”很重要。  
+   **英文**：My friend said "beat" was important.
+   > **解析**：本题在单元主题情境中复习表达 beat。
+
+3. **中文**：我问他们喜欢哪一个：“compete”。  
+   **英文**：I asked which one they liked: "compete".
+   > **解析**：本题在单元主题情境中复习表达 compete。
+
+4. **中文**：聊天时，我们比较了“live”。  
+   **英文**：In our chat, we compared "live".
+   > **解析**：本题在单元主题情境中复习表达 live。
+
+5. **中文**：同伴先选择了“root for”。  
+   **英文**：My partner chose "root for" first.
+   > **解析**：本题在单元主题情境中复习表达 root for。
+
+6. **中文**：我们用“tell”描述喜好。  
+   **英文**：We used "tell" to describe a favorite.
+   > **解析**：本题在单元主题情境中复习表达 tell。
+
+7. **中文**：答案中包含“tournament”。  
+   **英文**：The answer included "tournament".
+   > **解析**：本题在单元主题情境中复习表达 tournament。
+
+8. **中文**：我从对话中记住了“at least”。  
+   **英文**：I remembered "at least" from the conversation.
+   > **解析**：本题在单元主题情境中复习表达 at least。
+
+9. **中文**：朋友微笑着重复了“cheer for”。  
+   **英文**：My friend repeated "cheer for" with a smile.
+   > **解析**：本题在单元主题情境中复习表达 cheer for。
+
+10. **中文**：那场关于喜好的聊天以“go”收尾。  
+   **英文**：That chat about favorites ended with "go".
+   > **解析**：本题在单元主题情境中复习表达 go。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. When we talked about favorites, I heard "ask".
+   > **中文**：谈论喜好时，我听到了“ask”。
+2. My friend said "beat" was important.
+   > **中文**：朋友说“beat”很重要。
+3. I asked which one they liked: "compete".
+   > **中文**：我问他们喜欢哪一个：“compete”。
+4. In our chat, we compared "live".
+   > **中文**：聊天时，我们比较了“live”。
+5. My partner chose "root for" first.
+   > **中文**：同伴先选择了“root for”。
+6. We used "tell" to describe a favorite.
+   > **中文**：我们用“tell”描述喜好。
+7. The answer included "tournament".
+   > **中文**：答案中包含“tournament”。
+8. I remembered "at least" from the conversation.
+   > **中文**：我从对话中记住了“at least”。
+9. My friend repeated "cheer for" with a smile.
+   > **中文**：朋友微笑着重复了“cheer for”。
+10. That chat about favorites ended with "go".
+   > **中文**：那场关于喜好的聊天以“go”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+When we talked about favorites, I heard "`____`".
+
+- [x] ask
+- [ ] live
+- [ ] tournament
+
+> **解析**：本题在单元主题情境中复习表达 ask。
+
+### 2
+
+My friend said "`____`" was important.
+
+- [x] beat
+- [ ] root for
+- [ ] at least
+
+> **解析**：本题在单元主题情境中复习表达 beat。
+
+### 3
+
+I asked which one they liked: "`____`".
+
+- [x] compete
+- [ ] tell
+- [ ] cheer for
+
+> **解析**：本题在单元主题情境中复习表达 compete。
+
+### 4
+
+In our chat, we compared "`____`".
+
+- [x] live
+- [ ] tournament
+- [ ] go
+
+> **解析**：本题在单元主题情境中复习表达 live。
+
+### 5
+
+My partner chose "`____`" first.
+
+- [x] root for
+- [ ] at least
+- [ ] ask
+
+> **解析**：本题在单元主题情境中复习表达 root for。
+
+### 6
+
+We used "`____`" to describe a favorite.
+
+- [x] tell
+- [ ] cheer for
+- [ ] beat
+
+> **解析**：本题在单元主题情境中复习表达 tell。
+
+### 7
+
+The answer included "`____`".
+
+- [x] tournament
+- [ ] go
+- [ ] compete
+
+> **解析**：本题在单元主题情境中复习表达 tournament。
+
+### 8
+
+I remembered "`____`" from the conversation.
+
+- [x] at least
+- [ ] ask
+- [ ] live
+
+> **解析**：本题在单元主题情境中复习表达 at least。
+
+### 9
+
+My friend repeated "`____`" with a smile.
+
+- [x] cheer for
+- [ ] beat
+- [ ] root for
+
+> **解析**：本题在单元主题情境中复习表达 cheer for。
+
+### 10
+
+That chat about favorites ended with "`____`".
+
+- [x] go
+- [ ] compete
+- [ ] tell
+
+> **解析**：本题在单元主题情境中复习表达 go。
+
+</quiz-cloze>

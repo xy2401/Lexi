@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 background information, corporation, credit, efficient, failure to, follow up, given that, guidelines, had been, had it been, hadn't been, hadn't it, making excuses, matter, obligation, observation, potential, practical, prior, prior to, priority, send out, target, technical, the case that
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -43,3 +48,194 @@ background information, corporation, credit, efficient, failure to, follow up, g
 - **observation / matter / the case that** — observation = 观察、观察结果：an interesting observation / based on my observation。matter = 事情、问题：a serious matter / the matter at hand。the case that = ……的情况：It's not the case that we ignored the issue. 三者都是正式讨论中的高频词。
 
 - **potential / target** — potential = 潜力、潜在的：potential problems / reach your potential / a potential client。target = 目标、指标：meet the target / set a target / a sales target。例句：We missed the target, but the potential is still there. 注意 target 原义是"靶子"，引申为"目标"。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“background information”。  
+   **英文**：At work, we discussed "background information".
+   > **解析**：本题在单元主题情境中复习表达 background information。
+
+2. **中文**：同事提到了“failure to”。  
+   **英文**：My coworker mentioned "failure to".
+   > **解析**：本题在单元主题情境中复习表达 failure to。
+
+3. **中文**：会议中，我听到了“guidelines”。  
+   **英文**：In the meeting, I heard "guidelines".
+   > **解析**：本题在单元主题情境中复习表达 guidelines。
+
+4. **中文**：我把“hadn't it”写进了笔记。  
+   **英文**：I added "hadn't it" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 hadn't it。
+
+5. **中文**：经理解释了“observation”。  
+   **英文**：The manager explained "observation".
+   > **解析**：本题在单元主题情境中复习表达 observation。
+
+6. **中文**：团队今天用到了“prior”。  
+   **英文**：Our team used "prior" today.
+   > **解析**：本题在单元主题情境中复习表达 prior。
+
+7. **中文**：午饭前，我们查看了“target”。  
+   **英文**：Before lunch, we checked "target".
+   > **解析**：本题在单元主题情境中复习表达 target。
+
+8. **中文**：同事询问了“corporation”。  
+   **英文**：My colleague asked about "corporation".
+   > **解析**：本题在单元主题情境中复习表达 corporation。
+
+9. **中文**：报告中包含“follow up”。  
+   **英文**：The report included "follow up".
+   > **解析**：本题在单元主题情境中复习表达 follow up。
+
+10. **中文**：一天结束时，我记住了“had it been”。  
+   **英文**：At the end of the day, I remembered "had it been".
+   > **解析**：本题在单元主题情境中复习表达 had it been。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "background information".
+   > **中文**：工作中，我们讨论了“background information”。
+2. My coworker mentioned "failure to".
+   > **中文**：同事提到了“failure to”。
+3. In the meeting, I heard "guidelines".
+   > **中文**：会议中，我听到了“guidelines”。
+4. I added "hadn't it" to my notes.
+   > **中文**：我把“hadn't it”写进了笔记。
+5. The manager explained "observation".
+   > **中文**：经理解释了“observation”。
+6. Our team used "prior" today.
+   > **中文**：团队今天用到了“prior”。
+7. Before lunch, we checked "target".
+   > **中文**：午饭前，我们查看了“target”。
+8. My colleague asked about "corporation".
+   > **中文**：同事询问了“corporation”。
+9. The report included "follow up".
+   > **中文**：报告中包含“follow up”。
+10. At the end of the day, I remembered "had it been".
+   > **中文**：一天结束时，我记住了“had it been”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] background information
+- [ ] hadn't it
+- [ ] target
+
+> **解析**：本题在单元主题情境中复习表达 background information。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] failure to
+- [ ] observation
+- [ ] corporation
+
+> **解析**：本题在单元主题情境中复习表达 failure to。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] guidelines
+- [ ] prior
+- [ ] follow up
+
+> **解析**：本题在单元主题情境中复习表达 guidelines。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] hadn't it
+- [ ] target
+- [ ] had it been
+
+> **解析**：本题在单元主题情境中复习表达 hadn't it。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] observation
+- [ ] corporation
+- [ ] background information
+
+> **解析**：本题在单元主题情境中复习表达 observation。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] prior
+- [ ] follow up
+- [ ] failure to
+
+> **解析**：本题在单元主题情境中复习表达 prior。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] target
+- [ ] had it been
+- [ ] guidelines
+
+> **解析**：本题在单元主题情境中复习表达 target。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] corporation
+- [ ] background information
+- [ ] hadn't it
+
+> **解析**：本题在单元主题情境中复习表达 corporation。
+
+### 9
+
+The report included "`____`".
+
+- [x] follow up
+- [ ] failure to
+- [ ] observation
+
+> **解析**：本题在单元主题情境中复习表达 follow up。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] had it been
+- [ ] guidelines
+- [ ] prior
+
+> **解析**：本题在单元主题情境中复习表达 had it been。
+
+</quiz-cloze>

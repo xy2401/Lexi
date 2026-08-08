@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 a whole lot, agreement, an open mind, envy, eventually, frustration, gossip, in that case, look down on, might as well, need, offensive, ought to, practically, ridiculous, should, take your word for it, tend to, therapist, therapy, understandable, unreasonable, used to, who cares, yell
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -37,3 +42,194 @@ a whole lot, agreement, an open mind, envy, eventually, frustration, gossip, in 
 - **eventually / in that case / a whole lot** — eventually = 最终，in that case = 那样的话，a whole lot = 非常多。搭配：eventually we'll figure it out, in that case..., a whole lot better。Eventually, things changed. / In that case, let's try therapy. / I love you a whole lot. 注意 eventually 强调"经过一段时间后最终"。
 
 - **need / should** — need 表"需要"（必要性），should 表"应该"（建议）。搭配：need to do, should do。We need to talk. / You should apologize. 注意 need 比 should 更强调必要性：You need to stop yelling.（比 should 更紧迫）
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：聚会上，我听到了“a whole lot”。  
+   **英文**：At the gathering, I heard "a whole lot".
+   > **解析**：本题在单元主题情境中复习表达 a whole lot。
+
+2. **中文**：朋友说了“eventually”。  
+   **英文**：My friend said "eventually".
+   > **解析**：本题在单元主题情境中复习表达 eventually。
+
+3. **中文**：我们一起谈到了“in that case”。  
+   **英文**：We talked about "in that case" together.
+   > **解析**：本题在单元主题情境中复习表达 in that case。
+
+4. **中文**：有人向我解释了“offensive”。  
+   **英文**：Someone explained "offensive" to me.
+   > **解析**：本题在单元主题情境中复习表达 offensive。
+
+5. **中文**：我用“should”作了回应。  
+   **英文**：I replied with "should".
+   > **解析**：本题在单元主题情境中复习表达 should。
+
+6. **中文**：对话中包含“therapist”。  
+   **英文**：The conversation included "therapist".
+   > **解析**：本题在单元主题情境中复习表达 therapist。
+
+7. **中文**：同伴重复了“used to”。  
+   **英文**：My partner repeated "used to".
+   > **解析**：本题在单元主题情境中复习表达 used to。
+
+8. **中文**：我们聊到“agreement”时笑了。  
+   **英文**：We laughed about "agreement".
+   > **解析**：本题在单元主题情境中复习表达 agreement。
+
+9. **中文**：离开前，我记住了“frustration”。  
+   **英文**：Before leaving, I remembered "frustration".
+   > **解析**：本题在单元主题情境中复习表达 frustration。
+
+10. **中文**：那段对话以“might as well”收尾。  
+   **英文**：That conversation ended with "might as well".
+   > **解析**：本题在单元主题情境中复习表达 might as well。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the gathering, I heard "a whole lot".
+   > **中文**：聚会上，我听到了“a whole lot”。
+2. My friend said "eventually".
+   > **中文**：朋友说了“eventually”。
+3. We talked about "in that case" together.
+   > **中文**：我们一起谈到了“in that case”。
+4. Someone explained "offensive" to me.
+   > **中文**：有人向我解释了“offensive”。
+5. I replied with "should".
+   > **中文**：我用“should”作了回应。
+6. The conversation included "therapist".
+   > **中文**：对话中包含“therapist”。
+7. My partner repeated "used to".
+   > **中文**：同伴重复了“used to”。
+8. We laughed about "agreement".
+   > **中文**：我们聊到“agreement”时笑了。
+9. Before leaving, I remembered "frustration".
+   > **中文**：离开前，我记住了“frustration”。
+10. That conversation ended with "might as well".
+   > **中文**：那段对话以“might as well”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the gathering, I heard "`____`".
+
+- [x] a whole lot
+- [ ] offensive
+- [ ] used to
+
+> **解析**：本题在单元主题情境中复习表达 a whole lot。
+
+### 2
+
+My friend said "`____`".
+
+- [x] eventually
+- [ ] should
+- [ ] agreement
+
+> **解析**：本题在单元主题情境中复习表达 eventually。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] in that case
+- [ ] therapist
+- [ ] frustration
+
+> **解析**：本题在单元主题情境中复习表达 in that case。
+
+### 4
+
+Someone explained "`____`" to me.
+
+- [x] offensive
+- [ ] used to
+- [ ] might as well
+
+> **解析**：本题在单元主题情境中复习表达 offensive。
+
+### 5
+
+I replied with "`____`".
+
+- [x] should
+- [ ] agreement
+- [ ] a whole lot
+
+> **解析**：本题在单元主题情境中复习表达 should。
+
+### 6
+
+The conversation included "`____`".
+
+- [x] therapist
+- [ ] frustration
+- [ ] eventually
+
+> **解析**：本题在单元主题情境中复习表达 therapist。
+
+### 7
+
+My partner repeated "`____`".
+
+- [x] used to
+- [ ] might as well
+- [ ] in that case
+
+> **解析**：本题在单元主题情境中复习表达 used to。
+
+### 8
+
+We laughed about "`____`".
+
+- [x] agreement
+- [ ] a whole lot
+- [ ] offensive
+
+> **解析**：本题在单元主题情境中复习表达 agreement。
+
+### 9
+
+Before leaving, I remembered "`____`".
+
+- [x] frustration
+- [ ] eventually
+- [ ] should
+
+> **解析**：本题在单元主题情境中复习表达 frustration。
+
+### 10
+
+That conversation ended with "`____`".
+
+- [x] might as well
+- [ ] in that case
+- [ ] therapist
+
+> **解析**：本题在单元主题情境中复习表达 might as well。
+
+</quiz-cloze>

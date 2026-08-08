@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 accusation, alibi, argue, as a matter of fact, behind bars, break the law, client, community service, defendant, evidence, find, had her car stolen, if he was, if she had, it was, judge, jury duty, let's remember that, object, on the contrary, probation, sentence, victim, witness
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -60,3 +65,193 @@ object（反对）、on the contrary（恰恰相反）、as a matter of fact（�
 
 - **if he was / if she had** — 条件句结构。if he was = 如果他是（真实条件或虚拟）；if she had = 如果她有/如果她已经（虚拟语气）。在法律辩论中用来构建假设：If she had been there, she would have seen it.
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“accusation”。  
+   **英文**：At home, we talked about "accusation".
+   > **解析**：本题在单元主题情境中复习表达 accusation。
+
+2. **中文**：家人提到了“behind bars”。  
+   **英文**：My family mentioned "behind bars".
+   > **解析**：本题在单元主题情境中复习表达 behind bars。
+
+3. **中文**：在房间里，我注意到了“community service”。  
+   **英文**：In the room, I noticed "community service".
+   > **解析**：本题在单元主题情境中复习表达 community service。
+
+4. **中文**：我们在家里用到了“had her car stolen”。  
+   **英文**：We used "had her car stolen" at home.
+   > **解析**：本题在单元主题情境中复习表达 had her car stolen。
+
+5. **中文**：邻居询问了“it was”。  
+   **英文**：My neighbor asked about "it was".
+   > **解析**：本题在单元主题情境中复习表达 it was。
+
+6. **中文**：我在门边写下了“object”。  
+   **英文**：I wrote down "object" by the door.
+   > **解析**：本题在单元主题情境中复习表达 object。
+
+7. **中文**：晚饭后，我们重复了“sentence”。  
+   **英文**：After dinner, we repeated "sentence".
+   > **解析**：本题在单元主题情境中复习表达 sentence。
+
+8. **中文**：家庭故事里包含“alibi”。  
+   **英文**：The family story included "alibi".
+   > **解析**：本题在单元主题情境中复习表达 alibi。
+
+9. **中文**：睡前，我记住了“break the law”。  
+   **英文**：Before bed, I remembered "break the law".
+   > **解析**：本题在单元主题情境中复习表达 break the law。
+
+10. **中文**：那个夜晚以“evidence”收尾。  
+   **英文**：That evening ended with "evidence".
+   > **解析**：本题在单元主题情境中复习表达 evidence。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "accusation".
+   > **中文**：在家里，我们谈到了“accusation”。
+2. My family mentioned "behind bars".
+   > **中文**：家人提到了“behind bars”。
+3. In the room, I noticed "community service".
+   > **中文**：在房间里，我注意到了“community service”。
+4. We used "had her car stolen" at home.
+   > **中文**：我们在家里用到了“had her car stolen”。
+5. My neighbor asked about "it was".
+   > **中文**：邻居询问了“it was”。
+6. I wrote down "object" by the door.
+   > **中文**：我在门边写下了“object”。
+7. After dinner, we repeated "sentence".
+   > **中文**：晚饭后，我们重复了“sentence”。
+8. The family story included "alibi".
+   > **中文**：家庭故事里包含“alibi”。
+9. Before bed, I remembered "break the law".
+   > **中文**：睡前，我记住了“break the law”。
+10. That evening ended with "evidence".
+   > **中文**：那个夜晚以“evidence”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] accusation
+- [ ] had her car stolen
+- [ ] sentence
+
+> **解析**：本题在单元主题情境中复习表达 accusation。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] behind bars
+- [ ] it was
+- [ ] alibi
+
+> **解析**：本题在单元主题情境中复习表达 behind bars。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] community service
+- [ ] object
+- [ ] break the law
+
+> **解析**：本题在单元主题情境中复习表达 community service。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] had her car stolen
+- [ ] sentence
+- [ ] evidence
+
+> **解析**：本题在单元主题情境中复习表达 had her car stolen。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] it was
+- [ ] alibi
+- [ ] accusation
+
+> **解析**：本题在单元主题情境中复习表达 it was。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] object
+- [ ] break the law
+- [ ] behind bars
+
+> **解析**：本题在单元主题情境中复习表达 object。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] sentence
+- [ ] evidence
+- [ ] community service
+
+> **解析**：本题在单元主题情境中复习表达 sentence。
+
+### 8
+
+The family story included "`____`".
+
+- [x] alibi
+- [ ] accusation
+- [ ] had her car stolen
+
+> **解析**：本题在单元主题情境中复习表达 alibi。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] break the law
+- [ ] behind bars
+- [ ] it was
+
+> **解析**：本题在单元主题情境中复习表达 break the law。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] evidence
+- [ ] community service
+- [ ] object
+
+> **解析**：本题在单元主题情境中复习表达 evidence。
+
+</quiz-cloze>

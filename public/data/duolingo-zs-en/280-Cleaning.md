@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 all in all, away, blinds, company, draw attention, dust, get, goes without saying, good enough, good thinking, have to be, household, impression, in time, need to be, pack, paper towels, professionally, scrub, think it over, throw out, tidy up, to-do list, toilet paper, without
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -43,3 +48,194 @@ all in all, away, blinds, company, draw attention, dust, get, goes without sayin
 - **draw attention** — 引起注意。搭配：draw attention to something / draw attention away from。例句：A messy entryway draws attention—let's tidy it up first. 反义：avoid drawing attention（避免引人注目）。注意 draw 这里是"吸引"，不是"画画"。
 
 - **household** — 家庭的、家用的。搭配：household chores / household items / a household name。例句：We need more household supplies—paper towels, toilet paper, and cleaning products. 做名词时指"一家人、住户"：a household of four。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在家里，我们谈到了“all in all”。  
+   **英文**：At home, we talked about "all in all".
+   > **解析**：本题在单元主题情境中复习表达 all in all。
+
+2. **中文**：家人提到了“draw attention”。  
+   **英文**：My family mentioned "draw attention".
+   > **解析**：本题在单元主题情境中复习表达 draw attention。
+
+3. **中文**：在房间里，我注意到了“goes without saying”。  
+   **英文**：In the room, I noticed "goes without saying".
+   > **解析**：本题在单元主题情境中复习表达 goes without saying。
+
+4. **中文**：我们在家里用到了“household”。  
+   **英文**：We used "household" at home.
+   > **解析**：本题在单元主题情境中复习表达 household。
+
+5. **中文**：邻居询问了“pack”。  
+   **英文**：My neighbor asked about "pack".
+   > **解析**：本题在单元主题情境中复习表达 pack。
+
+6. **中文**：我在门边写下了“scrub”。  
+   **英文**：I wrote down "scrub" by the door.
+   > **解析**：本题在单元主题情境中复习表达 scrub。
+
+7. **中文**：晚饭后，我们重复了“to-do list”。  
+   **英文**：After dinner, we repeated "to-do list".
+   > **解析**：本题在单元主题情境中复习表达 to-do list。
+
+8. **中文**：家庭故事里包含“away”。  
+   **英文**：The family story included "away".
+   > **解析**：本题在单元主题情境中复习表达 away。
+
+9. **中文**：睡前，我记住了“dust”。  
+   **英文**：Before bed, I remembered "dust".
+   > **解析**：本题在单元主题情境中复习表达 dust。
+
+10. **中文**：那个夜晚以“good thinking”收尾。  
+   **英文**：That evening ended with "good thinking".
+   > **解析**：本题在单元主题情境中复习表达 good thinking。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At home, we talked about "all in all".
+   > **中文**：在家里，我们谈到了“all in all”。
+2. My family mentioned "draw attention".
+   > **中文**：家人提到了“draw attention”。
+3. In the room, I noticed "goes without saying".
+   > **中文**：在房间里，我注意到了“goes without saying”。
+4. We used "household" at home.
+   > **中文**：我们在家里用到了“household”。
+5. My neighbor asked about "pack".
+   > **中文**：邻居询问了“pack”。
+6. I wrote down "scrub" by the door.
+   > **中文**：我在门边写下了“scrub”。
+7. After dinner, we repeated "to-do list".
+   > **中文**：晚饭后，我们重复了“to-do list”。
+8. The family story included "away".
+   > **中文**：家庭故事里包含“away”。
+9. Before bed, I remembered "dust".
+   > **中文**：睡前，我记住了“dust”。
+10. That evening ended with "good thinking".
+   > **中文**：那个夜晚以“good thinking”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At home, we talked about "`____`".
+
+- [x] all in all
+- [ ] household
+- [ ] to-do list
+
+> **解析**：本题在单元主题情境中复习表达 all in all。
+
+### 2
+
+My family mentioned "`____`".
+
+- [x] draw attention
+- [ ] pack
+- [ ] away
+
+> **解析**：本题在单元主题情境中复习表达 draw attention。
+
+### 3
+
+In the room, I noticed "`____`".
+
+- [x] goes without saying
+- [ ] scrub
+- [ ] dust
+
+> **解析**：本题在单元主题情境中复习表达 goes without saying。
+
+### 4
+
+We used "`____`" at home.
+
+- [x] household
+- [ ] to-do list
+- [ ] good thinking
+
+> **解析**：本题在单元主题情境中复习表达 household。
+
+### 5
+
+My neighbor asked about "`____`".
+
+- [x] pack
+- [ ] away
+- [ ] all in all
+
+> **解析**：本题在单元主题情境中复习表达 pack。
+
+### 6
+
+I wrote down "`____`" by the door.
+
+- [x] scrub
+- [ ] dust
+- [ ] draw attention
+
+> **解析**：本题在单元主题情境中复习表达 scrub。
+
+### 7
+
+After dinner, we repeated "`____`".
+
+- [x] to-do list
+- [ ] good thinking
+- [ ] goes without saying
+
+> **解析**：本题在单元主题情境中复习表达 to-do list。
+
+### 8
+
+The family story included "`____`".
+
+- [x] away
+- [ ] all in all
+- [ ] household
+
+> **解析**：本题在单元主题情境中复习表达 away。
+
+### 9
+
+Before bed, I remembered "`____`".
+
+- [x] dust
+- [ ] draw attention
+- [ ] pack
+
+> **解析**：本题在单元主题情境中复习表达 dust。
+
+### 10
+
+That evening ended with "`____`".
+
+- [x] good thinking
+- [ ] goes without saying
+- [ ] scrub
+
+> **解析**：本题在单元主题情境中复习表达 good thinking。
+
+</quiz-cloze>

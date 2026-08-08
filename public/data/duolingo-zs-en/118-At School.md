@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 attend, campus, certificate, chapter, confusing, description, dining hall, dorm, essay, hurry up, incorrect, intermediate, laboratory, lecture, meaning, pick, research, result, review, row, similar, translate, underline, whose, written
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ confusing 描述事物（令人困惑），confused 描述人（感到困惑）�
 
 - **dorm / campus / attend** — 宿舍 / 校园 / 参加。搭配：in the dorm, on campus, attend class。例句：I'm in the dorm studying. / The library is on campus. / I attend all my classes.
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：课堂上，老师介绍了“attend”。  
+   **英文**：In class, the teacher introduced "attend".
+   > **解析**：本题在单元主题情境中复习表达 attend。
+
+2. **中文**：我把“confusing”写进笔记本。  
+   **英文**：I wrote "confusing" in my notebook.
+   > **解析**：本题在单元主题情境中复习表达 confusing。
+
+3. **中文**：同学解释了“dorm”。  
+   **英文**：My classmate explained "dorm".
+   > **解析**：本题在单元主题情境中复习表达 dorm。
+
+4. **中文**：我们一起练习了“intermediate”。  
+   **英文**：We practiced "intermediate" together.
+   > **解析**：本题在单元主题情境中复习表达 intermediate。
+
+5. **中文**：作业里包含“pick”。  
+   **英文**：The homework included "pick".
+   > **解析**：本题在单元主题情境中复习表达 pick。
+
+6. **中文**：我向老师询问了“review”。  
+   **英文**：I asked the teacher about "review".
+   > **解析**：本题在单元主题情境中复习表达 review。
+
+7. **中文**：上课时，我听到了“underline”。  
+   **英文**：During the lesson, I heard "underline".
+   > **解析**：本题在单元主题情境中复习表达 underline。
+
+8. **中文**：学习伙伴记住了“campus”。  
+   **英文**：My study partner remembered "campus".
+   > **解析**：本题在单元主题情境中复习表达 campus。
+
+9. **中文**：我们在例句中用到了“description”。  
+   **英文**：We used "description" in an example.
+   > **解析**：本题在单元主题情境中复习表达 description。
+
+10. **中文**：下课后，我复习了“hurry up”。  
+   **英文**：After class, I reviewed "hurry up".
+   > **解析**：本题在单元主题情境中复习表达 hurry up。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In class, the teacher introduced "attend".
+   > **中文**：课堂上，老师介绍了“attend”。
+2. I wrote "confusing" in my notebook.
+   > **中文**：我把“confusing”写进笔记本。
+3. My classmate explained "dorm".
+   > **中文**：同学解释了“dorm”。
+4. We practiced "intermediate" together.
+   > **中文**：我们一起练习了“intermediate”。
+5. The homework included "pick".
+   > **中文**：作业里包含“pick”。
+6. I asked the teacher about "review".
+   > **中文**：我向老师询问了“review”。
+7. During the lesson, I heard "underline".
+   > **中文**：上课时，我听到了“underline”。
+8. My study partner remembered "campus".
+   > **中文**：学习伙伴记住了“campus”。
+9. We used "description" in an example.
+   > **中文**：我们在例句中用到了“description”。
+10. After class, I reviewed "hurry up".
+   > **中文**：下课后，我复习了“hurry up”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In class, the teacher introduced "`____`".
+
+- [x] attend
+- [ ] intermediate
+- [ ] underline
+
+> **解析**：本题在单元主题情境中复习表达 attend。
+
+### 2
+
+I wrote "`____`" in my notebook.
+
+- [x] confusing
+- [ ] pick
+- [ ] campus
+
+> **解析**：本题在单元主题情境中复习表达 confusing。
+
+### 3
+
+My classmate explained "`____`".
+
+- [x] dorm
+- [ ] review
+- [ ] description
+
+> **解析**：本题在单元主题情境中复习表达 dorm。
+
+### 4
+
+We practiced "`____`" together.
+
+- [x] intermediate
+- [ ] underline
+- [ ] hurry up
+
+> **解析**：本题在单元主题情境中复习表达 intermediate。
+
+### 5
+
+The homework included "`____`".
+
+- [x] pick
+- [ ] campus
+- [ ] attend
+
+> **解析**：本题在单元主题情境中复习表达 pick。
+
+### 6
+
+I asked the teacher about "`____`".
+
+- [x] review
+- [ ] description
+- [ ] confusing
+
+> **解析**：本题在单元主题情境中复习表达 review。
+
+### 7
+
+During the lesson, I heard "`____`".
+
+- [x] underline
+- [ ] hurry up
+- [ ] dorm
+
+> **解析**：本题在单元主题情境中复习表达 underline。
+
+### 8
+
+My study partner remembered "`____`".
+
+- [x] campus
+- [ ] attend
+- [ ] intermediate
+
+> **解析**：本题在单元主题情境中复习表达 campus。
+
+### 9
+
+We used "`____`" in an example.
+
+- [x] description
+- [ ] confusing
+- [ ] pick
+
+> **解析**：本题在单元主题情境中复习表达 description。
+
+### 10
+
+After class, I reviewed "`____`".
+
+- [x] hurry up
+- [ ] dorm
+- [ ] review
+
+> **解析**：本题在单元主题情境中复习表达 hurry up。
+
+</quiz-cloze>

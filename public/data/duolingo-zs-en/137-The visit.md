@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 against, annoy, bright, broccoli, community, dining room, double, festival, get in, get out, go on, grandkid, joke, make, mood, narrow, nervous, parking, reach, recycle, right, sandal, stressful, turn
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ get in / get out 表示"进入/出去"。in a mood 表示"心情……"。
 
 - **festival / dining room / recycle** — 节日 / 餐厅 / 回收。搭配：during the festival, in the dining room, recycle more。例句：The whole family gathers during the festival. / Set the table in the dining room. / We should recycle more.
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在餐厅里，我询问了“against”。  
+   **英文**：At the restaurant, I asked about "against".
+   > **解析**：本题在单元主题情境中复习表达 against。
+
+2. **中文**：菜单上有“community”。  
+   **英文**：The menu included "community".
+   > **解析**：本题在单元主题情境中复习表达 community。
+
+3. **中文**：在餐桌旁，我们谈到了“festival”。  
+   **英文**：At the table, we talked about "festival".
+   > **解析**：本题在单元主题情境中复习表达 festival。
+
+4. **中文**：厨师提到了“grandkid”。  
+   **英文**：The cook mentioned "grandkid".
+   > **解析**：本题在单元主题情境中复习表达 grandkid。
+
+5. **中文**：晚餐我点了“mood”。  
+   **英文**：I ordered "mood" for dinner.
+   > **解析**：本题在单元主题情境中复习表达 mood。
+
+6. **中文**：我的朋友选择了“reach”。  
+   **英文**：My friend chose "reach".
+   > **解析**：本题在单元主题情境中复习表达 reach。
+
+7. **中文**：服务员重复了“sandal”。  
+   **英文**：The waiter repeated "sandal".
+   > **解析**：本题在单元主题情境中复习表达 sandal。
+
+8. **中文**：我们分享了一个关于“annoy”的故事。  
+   **英文**：We shared a story about "annoy".
+   > **解析**：本题在单元主题情境中复习表达 annoy。
+
+9. **中文**：饭后，我记住了“dining room”。  
+   **英文**：After the meal, I remembered "dining room".
+   > **解析**：本题在单元主题情境中复习表达 dining room。
+
+10. **中文**：那顿饭以“get out”收尾。  
+   **英文**：That meal ended with "get out".
+   > **解析**：本题在单元主题情境中复习表达 get out。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the restaurant, I asked about "against".
+   > **中文**：在餐厅里，我询问了“against”。
+2. The menu included "community".
+   > **中文**：菜单上有“community”。
+3. At the table, we talked about "festival".
+   > **中文**：在餐桌旁，我们谈到了“festival”。
+4. The cook mentioned "grandkid".
+   > **中文**：厨师提到了“grandkid”。
+5. I ordered "mood" for dinner.
+   > **中文**：晚餐我点了“mood”。
+6. My friend chose "reach".
+   > **中文**：我的朋友选择了“reach”。
+7. The waiter repeated "sandal".
+   > **中文**：服务员重复了“sandal”。
+8. We shared a story about "annoy".
+   > **中文**：我们分享了一个关于“annoy”的故事。
+9. After the meal, I remembered "dining room".
+   > **中文**：饭后，我记住了“dining room”。
+10. That meal ended with "get out".
+   > **中文**：那顿饭以“get out”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the restaurant, I asked about "`____`".
+
+- [x] against
+- [ ] grandkid
+- [ ] sandal
+
+> **解析**：本题在单元主题情境中复习表达 against。
+
+### 2
+
+The menu included "`____`".
+
+- [x] community
+- [ ] mood
+- [ ] annoy
+
+> **解析**：本题在单元主题情境中复习表达 community。
+
+### 3
+
+At the table, we talked about "`____`".
+
+- [x] festival
+- [ ] reach
+- [ ] dining room
+
+> **解析**：本题在单元主题情境中复习表达 festival。
+
+### 4
+
+The cook mentioned "`____`".
+
+- [x] grandkid
+- [ ] sandal
+- [ ] get out
+
+> **解析**：本题在单元主题情境中复习表达 grandkid。
+
+### 5
+
+I ordered "`____`" for dinner.
+
+- [x] mood
+- [ ] annoy
+- [ ] against
+
+> **解析**：本题在单元主题情境中复习表达 mood。
+
+### 6
+
+My friend chose "`____`".
+
+- [x] reach
+- [ ] dining room
+- [ ] community
+
+> **解析**：本题在单元主题情境中复习表达 reach。
+
+### 7
+
+The waiter repeated "`____`".
+
+- [x] sandal
+- [ ] get out
+- [ ] festival
+
+> **解析**：本题在单元主题情境中复习表达 sandal。
+
+### 8
+
+We shared a story about "`____`".
+
+- [x] annoy
+- [ ] against
+- [ ] grandkid
+
+> **解析**：本题在单元主题情境中复习表达 annoy。
+
+### 9
+
+After the meal, I remembered "`____`".
+
+- [x] dining room
+- [ ] community
+- [ ] mood
+
+> **解析**：本题在单元主题情境中复习表达 dining room。
+
+### 10
+
+That meal ended with "`____`".
+
+- [x] get out
+- [ ] festival
+- [ ] reach
+
+> **解析**：本题在单元主题情境中复习表达 get out。
+
+</quiz-cloze>

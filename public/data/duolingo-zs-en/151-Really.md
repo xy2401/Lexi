@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 all right, anything, be, by the way, can't, care, embarrassed, embarrassing, forgave, forgive, forgiven, forgotten, go on, guess what, have, hold on, impossible, just now, lie, like this, must, no way, old friend, seriously, something, spoken
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ forgive → forgave → forgiven 是不规则变化。must 表推测（一定）
 
 - **embarrassing / embarrassed / impossible** — 尴尬的 / 尴尬 / 不可能。搭配：how embarrassing! / feel embarrassed, absolutely impossible。例句：How embarrassing! / I'm embarrassed to admit it. / It's absolutely impossible. 注意 -ing 形容事物，-ed 形容人的感受。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：聚会上，我听到了“all right”。  
+   **英文**：At the gathering, I heard "all right".
+   > **解析**：本题在单元主题情境中复习表达 all right。
+
+2. **中文**：朋友说了“care”。  
+   **英文**：My friend said "care".
+   > **解析**：本题在单元主题情境中复习表达 care。
+
+3. **中文**：我们一起谈到了“forgave”。  
+   **英文**：We talked about "forgave" together.
+   > **解析**：本题在单元主题情境中复习表达 forgave。
+
+4. **中文**：有人向我解释了“go on”。  
+   **英文**：Someone explained "go on" to me.
+   > **解析**：本题在单元主题情境中复习表达 go on。
+
+5. **中文**：我用“impossible”作了回应。  
+   **英文**：I replied with "impossible".
+   > **解析**：本题在单元主题情境中复习表达 impossible。
+
+6. **中文**：对话中包含“like this”。  
+   **英文**：The conversation included "like this".
+   > **解析**：本题在单元主题情境中复习表达 like this。
+
+7. **中文**：同伴重复了“seriously”。  
+   **英文**：My partner repeated "seriously".
+   > **解析**：本题在单元主题情境中复习表达 seriously。
+
+8. **中文**：我们聊到“anything”时笑了。  
+   **英文**：We laughed about "anything".
+   > **解析**：本题在单元主题情境中复习表达 anything。
+
+9. **中文**：离开前，我记住了“embarrassed”。  
+   **英文**：Before leaving, I remembered "embarrassed".
+   > **解析**：本题在单元主题情境中复习表达 embarrassed。
+
+10. **中文**：那段对话以“forgiven”收尾。  
+   **英文**：That conversation ended with "forgiven".
+   > **解析**：本题在单元主题情境中复习表达 forgiven。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the gathering, I heard "all right".
+   > **中文**：聚会上，我听到了“all right”。
+2. My friend said "care".
+   > **中文**：朋友说了“care”。
+3. We talked about "forgave" together.
+   > **中文**：我们一起谈到了“forgave”。
+4. Someone explained "go on" to me.
+   > **中文**：有人向我解释了“go on”。
+5. I replied with "impossible".
+   > **中文**：我用“impossible”作了回应。
+6. The conversation included "like this".
+   > **中文**：对话中包含“like this”。
+7. My partner repeated "seriously".
+   > **中文**：同伴重复了“seriously”。
+8. We laughed about "anything".
+   > **中文**：我们聊到“anything”时笑了。
+9. Before leaving, I remembered "embarrassed".
+   > **中文**：离开前，我记住了“embarrassed”。
+10. That conversation ended with "forgiven".
+   > **中文**：那段对话以“forgiven”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the gathering, I heard "`____`".
+
+- [x] all right
+- [ ] go on
+- [ ] seriously
+
+> **解析**：本题在单元主题情境中复习表达 all right。
+
+### 2
+
+My friend said "`____`".
+
+- [x] care
+- [ ] impossible
+- [ ] anything
+
+> **解析**：本题在单元主题情境中复习表达 care。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] forgave
+- [ ] like this
+- [ ] embarrassed
+
+> **解析**：本题在单元主题情境中复习表达 forgave。
+
+### 4
+
+Someone explained "`____`" to me.
+
+- [x] go on
+- [ ] seriously
+- [ ] forgiven
+
+> **解析**：本题在单元主题情境中复习表达 go on。
+
+### 5
+
+I replied with "`____`".
+
+- [x] impossible
+- [ ] anything
+- [ ] all right
+
+> **解析**：本题在单元主题情境中复习表达 impossible。
+
+### 6
+
+The conversation included "`____`".
+
+- [x] like this
+- [ ] embarrassed
+- [ ] care
+
+> **解析**：本题在单元主题情境中复习表达 like this。
+
+### 7
+
+My partner repeated "`____`".
+
+- [x] seriously
+- [ ] forgiven
+- [ ] forgave
+
+> **解析**：本题在单元主题情境中复习表达 seriously。
+
+### 8
+
+We laughed about "`____`".
+
+- [x] anything
+- [ ] all right
+- [ ] go on
+
+> **解析**：本题在单元主题情境中复习表达 anything。
+
+### 9
+
+Before leaving, I remembered "`____`".
+
+- [x] embarrassed
+- [ ] care
+- [ ] impossible
+
+> **解析**：本题在单元主题情境中复习表达 embarrassed。
+
+### 10
+
+That conversation ended with "`____`".
+
+- [x] forgiven
+- [ ] forgave
+- [ ] like this
+
+> **解析**：本题在单元主题情境中复习表达 forgiven。
+
+</quiz-cloze>

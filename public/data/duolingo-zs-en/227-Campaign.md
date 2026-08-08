@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 bill, by then, campaign, candidate, elect, furthermore, going to be, opponent, pass, put, regarding, representative, right, stand up for, threat, under control, violence, will be, will have, will they have, will you be, won't have, you'll have
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ bill, by then, campaign, candidate, elect, furthermore, going to be, opponent, p
 - **right** — 权利；正确的。搭配：your rights, the right to vote, that's right。I will stand up for your rights. 注意 right 作"权利"时常用复数 rights（human rights, civil rights）。
 
 - **put** — 放置；表达。搭配：put sth under control, put forward, put into action。I will put your safety first. put 是英语中搭配最多的动词之一，含义随介词变化。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“bill”。  
+   **英文**：In this situation, I heard "bill".
+   > **解析**：本题在单元主题情境中复习表达 bill。
+
+2. **中文**：同伴解释了“candidate”。  
+   **英文**：My partner explained "candidate".
+   > **解析**：本题在单元主题情境中复习表达 candidate。
+
+3. **中文**：我们一起谈到了“opponent”。  
+   **英文**：We talked about "opponent" together.
+   > **解析**：本题在单元主题情境中复习表达 opponent。
+
+4. **中文**：我记下了“regarding”。  
+   **英文**：I wrote down "regarding".
+   > **解析**：本题在单元主题情境中复习表达 regarding。
+
+5. **中文**：例句中包含“threat”。  
+   **英文**：The example included "threat".
+   > **解析**：本题在单元主题情境中复习表达 threat。
+
+6. **中文**：我询问了“will be”。  
+   **英文**：I asked about "will be".
+   > **解析**：本题在单元主题情境中复习表达 will be。
+
+7. **中文**：我们在句子中用到了“won't have”。  
+   **英文**：We used "won't have" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 won't have。
+
+8. **中文**：朋友重复了“by then”。  
+   **英文**：My friend repeated "by then".
+   > **解析**：本题在单元主题情境中复习表达 by then。
+
+9. **中文**：后来，我记住了“furthermore”。  
+   **英文**：Later, I remembered "furthermore".
+   > **解析**：本题在单元主题情境中复习表达 furthermore。
+
+10. **中文**：这个小故事以“pass”收尾。  
+   **英文**：The short story ended with "pass".
+   > **解析**：本题在单元主题情境中复习表达 pass。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "bill".
+   > **中文**：在这个情境中，我听到了“bill”。
+2. My partner explained "candidate".
+   > **中文**：同伴解释了“candidate”。
+3. We talked about "opponent" together.
+   > **中文**：我们一起谈到了“opponent”。
+4. I wrote down "regarding".
+   > **中文**：我记下了“regarding”。
+5. The example included "threat".
+   > **中文**：例句中包含“threat”。
+6. I asked about "will be".
+   > **中文**：我询问了“will be”。
+7. We used "won't have" in a sentence.
+   > **中文**：我们在句子中用到了“won't have”。
+8. My friend repeated "by then".
+   > **中文**：朋友重复了“by then”。
+9. Later, I remembered "furthermore".
+   > **中文**：后来，我记住了“furthermore”。
+10. The short story ended with "pass".
+   > **中文**：这个小故事以“pass”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] bill
+- [ ] regarding
+- [ ] won't have
+
+> **解析**：本题在单元主题情境中复习表达 bill。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] candidate
+- [ ] threat
+- [ ] by then
+
+> **解析**：本题在单元主题情境中复习表达 candidate。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] opponent
+- [ ] will be
+- [ ] furthermore
+
+> **解析**：本题在单元主题情境中复习表达 opponent。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] regarding
+- [ ] won't have
+- [ ] pass
+
+> **解析**：本题在单元主题情境中复习表达 regarding。
+
+### 5
+
+The example included "`____`".
+
+- [x] threat
+- [ ] by then
+- [ ] bill
+
+> **解析**：本题在单元主题情境中复习表达 threat。
+
+### 6
+
+I asked about "`____`".
+
+- [x] will be
+- [ ] furthermore
+- [ ] candidate
+
+> **解析**：本题在单元主题情境中复习表达 will be。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] won't have
+- [ ] pass
+- [ ] opponent
+
+> **解析**：本题在单元主题情境中复习表达 won't have。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] by then
+- [ ] bill
+- [ ] regarding
+
+> **解析**：本题在单元主题情境中复习表达 by then。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] furthermore
+- [ ] candidate
+- [ ] threat
+
+> **解析**：本题在单元主题情境中复习表达 furthermore。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] pass
+- [ ] opponent
+- [ ] will be
+
+> **解析**：本题在单元主题情境中复习表达 pass。
+
+</quiz-cloze>

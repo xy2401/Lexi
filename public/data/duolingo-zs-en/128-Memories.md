@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 bug, card, caught, childhood, come over, dirt, do, frog, frying pan, hide, joke, kicked, knee, neighborhood, never used to, now, pie, shy, spinach, stay, strict, trumpet, up, used to
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ used to + 动词原形表示"过去常常"（现在不做了）。never used to 
 
 - **strict / used to / never** — 严格 / 过去常 / 从不。搭配：strict rules, used to be, never used to。例句：My mom was strict about bedtime. / I used to be scared of bugs. / I never used to like spinach.
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“bug”。  
+   **英文**：In this situation, I heard "bug".
+   > **解析**：本题在单元主题情境中复习表达 bug。
+
+2. **中文**：同伴解释了“childhood”。  
+   **英文**：My partner explained "childhood".
+   > **解析**：本题在单元主题情境中复习表达 childhood。
+
+3. **中文**：我们一起谈到了“frying pan”。  
+   **英文**：We talked about "frying pan" together.
+   > **解析**：本题在单元主题情境中复习表达 frying pan。
+
+4. **中文**：我记下了“kicked”。  
+   **英文**：I wrote down "kicked".
+   > **解析**：本题在单元主题情境中复习表达 kicked。
+
+5. **中文**：例句中包含“now”。  
+   **英文**：The example included "now".
+   > **解析**：本题在单元主题情境中复习表达 now。
+
+6. **中文**：我询问了“spinach”。  
+   **英文**：I asked about "spinach".
+   > **解析**：本题在单元主题情境中复习表达 spinach。
+
+7. **中文**：我们在句子中用到了“up”。  
+   **英文**：We used "up" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 up。
+
+8. **中文**：朋友重复了“card”。  
+   **英文**：My friend repeated "card".
+   > **解析**：本题在单元主题情境中复习表达 card。
+
+9. **中文**：后来，我记住了“dirt”。  
+   **英文**：Later, I remembered "dirt".
+   > **解析**：本题在单元主题情境中复习表达 dirt。
+
+10. **中文**：这个小故事以“hide”收尾。  
+   **英文**：The short story ended with "hide".
+   > **解析**：本题在单元主题情境中复习表达 hide。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "bug".
+   > **中文**：在这个情境中，我听到了“bug”。
+2. My partner explained "childhood".
+   > **中文**：同伴解释了“childhood”。
+3. We talked about "frying pan" together.
+   > **中文**：我们一起谈到了“frying pan”。
+4. I wrote down "kicked".
+   > **中文**：我记下了“kicked”。
+5. The example included "now".
+   > **中文**：例句中包含“now”。
+6. I asked about "spinach".
+   > **中文**：我询问了“spinach”。
+7. We used "up" in a sentence.
+   > **中文**：我们在句子中用到了“up”。
+8. My friend repeated "card".
+   > **中文**：朋友重复了“card”。
+9. Later, I remembered "dirt".
+   > **中文**：后来，我记住了“dirt”。
+10. The short story ended with "hide".
+   > **中文**：这个小故事以“hide”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] bug
+- [ ] kicked
+- [ ] up
+
+> **解析**：本题在单元主题情境中复习表达 bug。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] childhood
+- [ ] now
+- [ ] card
+
+> **解析**：本题在单元主题情境中复习表达 childhood。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] frying pan
+- [ ] spinach
+- [ ] dirt
+
+> **解析**：本题在单元主题情境中复习表达 frying pan。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] kicked
+- [ ] up
+- [ ] hide
+
+> **解析**：本题在单元主题情境中复习表达 kicked。
+
+### 5
+
+The example included "`____`".
+
+- [x] now
+- [ ] card
+- [ ] bug
+
+> **解析**：本题在单元主题情境中复习表达 now。
+
+### 6
+
+I asked about "`____`".
+
+- [x] spinach
+- [ ] dirt
+- [ ] childhood
+
+> **解析**：本题在单元主题情境中复习表达 spinach。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] up
+- [ ] hide
+- [ ] frying pan
+
+> **解析**：本题在单元主题情境中复习表达 up。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] card
+- [ ] bug
+- [ ] kicked
+
+> **解析**：本题在单元主题情境中复习表达 card。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] dirt
+- [ ] childhood
+- [ ] now
+
+> **解析**：本题在单元主题情境中复习表达 dirt。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] hide
+- [ ] frying pan
+- [ ] spinach
+
+> **解析**：本题在单元主题情境中复习表达 hide。
+
+</quiz-cloze>

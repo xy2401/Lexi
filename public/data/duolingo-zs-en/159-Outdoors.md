@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 blew, blow, camel, climate, coast, destination, fallen, forecast, grew, have got to, held, mild, northeast, northwest, overnight, range, region, southeast, southwest, sunshine, wave, whale, what is, wildlife
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ have got to = must（必须）。blow → blew → blown。
 
 - **range / grew / fallen** — 范围 / 长了 / 落了。搭配：a wide range, grew up, have fallen。例句：There's a wide range of temperatures. / I grew up in this region. / The temperatures have fallen. 注意 range 可指温度/价格范围。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“blew”。  
+   **英文**：In this situation, I heard "blew".
+   > **解析**：本题在单元主题情境中复习表达 blew。
+
+2. **中文**：同伴解释了“coast”。  
+   **英文**：My partner explained "coast".
+   > **解析**：本题在单元主题情境中复习表达 coast。
+
+3. **中文**：我们一起谈到了“forecast”。  
+   **英文**：We talked about "forecast" together.
+   > **解析**：本题在单元主题情境中复习表达 forecast。
+
+4. **中文**：我记下了“mild”。  
+   **英文**：I wrote down "mild".
+   > **解析**：本题在单元主题情境中复习表达 mild。
+
+5. **中文**：例句中包含“overnight”。  
+   **英文**：The example included "overnight".
+   > **解析**：本题在单元主题情境中复习表达 overnight。
+
+6. **中文**：我询问了“southwest”。  
+   **英文**：I asked about "southwest".
+   > **解析**：本题在单元主题情境中复习表达 southwest。
+
+7. **中文**：我们在句子中用到了“whale”。  
+   **英文**：We used "whale" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 whale。
+
+8. **中文**：朋友重复了“blow”。  
+   **英文**：My friend repeated "blow".
+   > **解析**：本题在单元主题情境中复习表达 blow。
+
+9. **中文**：后来，我记住了“destination”。  
+   **英文**：Later, I remembered "destination".
+   > **解析**：本题在单元主题情境中复习表达 destination。
+
+10. **中文**：这个小故事以“have got to”收尾。  
+   **英文**：The short story ended with "have got to".
+   > **解析**：本题在单元主题情境中复习表达 have got to。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "blew".
+   > **中文**：在这个情境中，我听到了“blew”。
+2. My partner explained "coast".
+   > **中文**：同伴解释了“coast”。
+3. We talked about "forecast" together.
+   > **中文**：我们一起谈到了“forecast”。
+4. I wrote down "mild".
+   > **中文**：我记下了“mild”。
+5. The example included "overnight".
+   > **中文**：例句中包含“overnight”。
+6. I asked about "southwest".
+   > **中文**：我询问了“southwest”。
+7. We used "whale" in a sentence.
+   > **中文**：我们在句子中用到了“whale”。
+8. My friend repeated "blow".
+   > **中文**：朋友重复了“blow”。
+9. Later, I remembered "destination".
+   > **中文**：后来，我记住了“destination”。
+10. The short story ended with "have got to".
+   > **中文**：这个小故事以“have got to”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] blew
+- [ ] mild
+- [ ] whale
+
+> **解析**：本题在单元主题情境中复习表达 blew。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] coast
+- [ ] overnight
+- [ ] blow
+
+> **解析**：本题在单元主题情境中复习表达 coast。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] forecast
+- [ ] southwest
+- [ ] destination
+
+> **解析**：本题在单元主题情境中复习表达 forecast。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] mild
+- [ ] whale
+- [ ] have got to
+
+> **解析**：本题在单元主题情境中复习表达 mild。
+
+### 5
+
+The example included "`____`".
+
+- [x] overnight
+- [ ] blow
+- [ ] blew
+
+> **解析**：本题在单元主题情境中复习表达 overnight。
+
+### 6
+
+I asked about "`____`".
+
+- [x] southwest
+- [ ] destination
+- [ ] coast
+
+> **解析**：本题在单元主题情境中复习表达 southwest。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] whale
+- [ ] have got to
+- [ ] forecast
+
+> **解析**：本题在单元主题情境中复习表达 whale。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] blow
+- [ ] blew
+- [ ] mild
+
+> **解析**：本题在单元主题情境中复习表达 blow。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] destination
+- [ ] coast
+- [ ] overnight
+
+> **解析**：本题在单元主题情境中复习表达 destination。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] have got to
+- [ ] forecast
+- [ ] southwest
+
+> **解析**：本题在单元主题情境中复习表达 have got to。
+
+</quiz-cloze>

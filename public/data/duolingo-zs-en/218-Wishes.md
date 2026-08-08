@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if only, lottery, marry, oh well, regret, satisfied, silly, step, take advantage, unlikely, wish
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if o
 - **as many** — 同样多的（数量）。搭配：as many as, as many ... as。I don't have as many chances as you. 注意 as many 修饰可数名词，as much 修饰不可数名词。
 
 - **count** — 数、计算；也有"重要"的意思。搭配：count to ten, every step counts。Every day counts.（每一天都重要。）这个"重要"义很常用：Your opinion counts.
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“afraid”。  
+   **英文**：In this situation, I heard "afraid".
+   > **解析**：本题在单元主题情境中复习表达 afraid。
+
+2. **中文**：同伴解释了“come true”。  
+   **英文**：My partner explained "come true".
+   > **解析**：本题在单元主题情境中复习表达 come true。
+
+3. **中文**：我们一起谈到了“habit”。  
+   **英文**：We talked about "habit" together.
+   > **解析**：本题在单元主题情境中复习表达 habit。
+
+4. **中文**：我记下了“if only”。  
+   **英文**：I wrote down "if only".
+   > **解析**：本题在单元主题情境中复习表达 if only。
+
+5. **中文**：例句中包含“oh well”。  
+   **英文**：The example included "oh well".
+   > **解析**：本题在单元主题情境中复习表达 oh well。
+
+6. **中文**：我询问了“step”。  
+   **英文**：I asked about "step".
+   > **解析**：本题在单元主题情境中复习表达 step。
+
+7. **中文**：我们在句子中用到了“wish”。  
+   **英文**：We used "wish" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 wish。
+
+8. **中文**：朋友重复了“chance”。  
+   **英文**：My friend repeated "chance".
+   > **解析**：本题在单元主题情境中复习表达 chance。
+
+9. **中文**：后来，我记住了“encourage”。  
+   **英文**：Later, I remembered "encourage".
+   > **解析**：本题在单元主题情境中复习表达 encourage。
+
+10. **中文**：这个小故事以“hopeful”收尾。  
+   **英文**：The short story ended with "hopeful".
+   > **解析**：本题在单元主题情境中复习表达 hopeful。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "afraid".
+   > **中文**：在这个情境中，我听到了“afraid”。
+2. My partner explained "come true".
+   > **中文**：同伴解释了“come true”。
+3. We talked about "habit" together.
+   > **中文**：我们一起谈到了“habit”。
+4. I wrote down "if only".
+   > **中文**：我记下了“if only”。
+5. The example included "oh well".
+   > **中文**：例句中包含“oh well”。
+6. I asked about "step".
+   > **中文**：我询问了“step”。
+7. We used "wish" in a sentence.
+   > **中文**：我们在句子中用到了“wish”。
+8. My friend repeated "chance".
+   > **中文**：朋友重复了“chance”。
+9. Later, I remembered "encourage".
+   > **中文**：后来，我记住了“encourage”。
+10. The short story ended with "hopeful".
+   > **中文**：这个小故事以“hopeful”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] afraid
+- [ ] if only
+- [ ] wish
+
+> **解析**：本题在单元主题情境中复习表达 afraid。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] come true
+- [ ] oh well
+- [ ] chance
+
+> **解析**：本题在单元主题情境中复习表达 come true。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] habit
+- [ ] step
+- [ ] encourage
+
+> **解析**：本题在单元主题情境中复习表达 habit。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] if only
+- [ ] wish
+- [ ] hopeful
+
+> **解析**：本题在单元主题情境中复习表达 if only。
+
+### 5
+
+The example included "`____`".
+
+- [x] oh well
+- [ ] chance
+- [ ] afraid
+
+> **解析**：本题在单元主题情境中复习表达 oh well。
+
+### 6
+
+I asked about "`____`".
+
+- [x] step
+- [ ] encourage
+- [ ] come true
+
+> **解析**：本题在单元主题情境中复习表达 step。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] wish
+- [ ] hopeful
+- [ ] habit
+
+> **解析**：本题在单元主题情境中复习表达 wish。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] chance
+- [ ] afraid
+- [ ] if only
+
+> **解析**：本题在单元主题情境中复习表达 chance。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] encourage
+- [ ] come true
+- [ ] oh well
+
+> **解析**：本题在单元主题情境中复习表达 encourage。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] hopeful
+- [ ] habit
+- [ ] step
+
+> **解析**：本题在单元主题情境中复习表达 hopeful。
+
+</quiz-cloze>

@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 accessible, amount, between, by the end of, carefully, data, decline, drop, entrepreneur, gradually, investor, level off, move in, over time, profit, propose, quickly, quietly, rise, slightly, steady, stock market, the right time, up and running, vacuum cleaner, vegan
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -58,3 +63,193 @@ rise / decline / level off / drop 是描述趋势的四组核心动词。gradual
 
 - **vegan** — "纯素的、纯素者"。a vegan diet / a vegan restaurant。比 vegetarian（素食者）更严格，排除所有动物制品。注意发音：/ˈviːɡən/，不是 /ˈveɪɡən/。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“accessible”。  
+   **英文**：At work, we discussed "accessible".
+   > **解析**：本题在单元主题情境中复习表达 accessible。
+
+2. **中文**：同事提到了“carefully”。  
+   **英文**：My coworker mentioned "carefully".
+   > **解析**：本题在单元主题情境中复习表达 carefully。
+
+3. **中文**：会议中，我听到了“entrepreneur”。  
+   **英文**：In the meeting, I heard "entrepreneur".
+   > **解析**：本题在单元主题情境中复习表达 entrepreneur。
+
+4. **中文**：我把“level off”写进了笔记。  
+   **英文**：I added "level off" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 level off。
+
+5. **中文**：经理解释了“propose”。  
+   **英文**：The manager explained "propose".
+   > **解析**：本题在单元主题情境中复习表达 propose。
+
+6. **中文**：团队今天用到了“slightly”。  
+   **英文**：Our team used "slightly" today.
+   > **解析**：本题在单元主题情境中复习表达 slightly。
+
+7. **中文**：午饭前，我们查看了“up and running”。  
+   **英文**：Before lunch, we checked "up and running".
+   > **解析**：本题在单元主题情境中复习表达 up and running。
+
+8. **中文**：同事询问了“amount”。  
+   **英文**：My colleague asked about "amount".
+   > **解析**：本题在单元主题情境中复习表达 amount。
+
+9. **中文**：报告中包含“data”。  
+   **英文**：The report included "data".
+   > **解析**：本题在单元主题情境中复习表达 data。
+
+10. **中文**：一天结束时，我记住了“gradually”。  
+   **英文**：At the end of the day, I remembered "gradually".
+   > **解析**：本题在单元主题情境中复习表达 gradually。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "accessible".
+   > **中文**：工作中，我们讨论了“accessible”。
+2. My coworker mentioned "carefully".
+   > **中文**：同事提到了“carefully”。
+3. In the meeting, I heard "entrepreneur".
+   > **中文**：会议中，我听到了“entrepreneur”。
+4. I added "level off" to my notes.
+   > **中文**：我把“level off”写进了笔记。
+5. The manager explained "propose".
+   > **中文**：经理解释了“propose”。
+6. Our team used "slightly" today.
+   > **中文**：团队今天用到了“slightly”。
+7. Before lunch, we checked "up and running".
+   > **中文**：午饭前，我们查看了“up and running”。
+8. My colleague asked about "amount".
+   > **中文**：同事询问了“amount”。
+9. The report included "data".
+   > **中文**：报告中包含“data”。
+10. At the end of the day, I remembered "gradually".
+   > **中文**：一天结束时，我记住了“gradually”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] accessible
+- [ ] level off
+- [ ] up and running
+
+> **解析**：本题在单元主题情境中复习表达 accessible。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] carefully
+- [ ] propose
+- [ ] amount
+
+> **解析**：本题在单元主题情境中复习表达 carefully。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] entrepreneur
+- [ ] slightly
+- [ ] data
+
+> **解析**：本题在单元主题情境中复习表达 entrepreneur。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] level off
+- [ ] up and running
+- [ ] gradually
+
+> **解析**：本题在单元主题情境中复习表达 level off。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] propose
+- [ ] amount
+- [ ] accessible
+
+> **解析**：本题在单元主题情境中复习表达 propose。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] slightly
+- [ ] data
+- [ ] carefully
+
+> **解析**：本题在单元主题情境中复习表达 slightly。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] up and running
+- [ ] gradually
+- [ ] entrepreneur
+
+> **解析**：本题在单元主题情境中复习表达 up and running。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] amount
+- [ ] accessible
+- [ ] level off
+
+> **解析**：本题在单元主题情境中复习表达 amount。
+
+### 9
+
+The report included "`____`".
+
+- [x] data
+- [ ] carefully
+- [ ] propose
+
+> **解析**：本题在单元主题情境中复习表达 data。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] gradually
+- [ ] entrepreneur
+- [ ] slightly
+
+> **解析**：本题在单元主题情境中复习表达 gradually。
+
+</quiz-cloze>

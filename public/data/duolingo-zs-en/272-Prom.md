@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 after-party, afterwards, ask, asked her who had, bow tie, chaperone, clothing, coming up, confirmation, crown, dance floor, date, fashionably late, is that right, limo, pose, prom, prom queen, stunning, tuxedo, was going to, weren't you going to, would
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -39,3 +44,194 @@ after-party, afterwards, ask, asked her who had, bow tie, chaperone, clothing, c
 - **pose** — 摆姿势（拍照）。搭配：pose for a photo / strike a pose / pose with friends。prom 之夜的经典环节就是各种拍照。注意 pose 做名词时指"姿势"，做动词时指"摆姿势"。
 
 - **confirmation** — 确认。动词是 confirm。搭配：wait for confirmation / get a confirmation / a confirmation email。在 prom 语境中可能指确认预订（limo、餐厅等）。注意拼写：con-fir-ma-tion。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：聚会上，我听到了“after-party”。  
+   **英文**：At the gathering, I heard "after-party".
+   > **解析**：本题在单元主题情境中复习表达 after-party。
+
+2. **中文**：朋友说了“asked her who had”。  
+   **英文**：My friend said "asked her who had".
+   > **解析**：本题在单元主题情境中复习表达 asked her who had。
+
+3. **中文**：我们一起谈到了“coming up”。  
+   **英文**：We talked about "coming up" together.
+   > **解析**：本题在单元主题情境中复习表达 coming up。
+
+4. **中文**：有人向我解释了“dance floor”。  
+   **英文**：Someone explained "dance floor" to me.
+   > **解析**：本题在单元主题情境中复习表达 dance floor。
+
+5. **中文**：我用“limo”作了回应。  
+   **英文**：I replied with "limo".
+   > **解析**：本题在单元主题情境中复习表达 limo。
+
+6. **中文**：对话中包含“prom queen”。  
+   **英文**：The conversation included "prom queen".
+   > **解析**：本题在单元主题情境中复习表达 prom queen。
+
+7. **中文**：同伴重复了“weren't you going to”。  
+   **英文**：My partner repeated "weren't you going to".
+   > **解析**：本题在单元主题情境中复习表达 weren't you going to。
+
+8. **中文**：我们聊到“afterwards”时笑了。  
+   **英文**：We laughed about "afterwards".
+   > **解析**：本题在单元主题情境中复习表达 afterwards。
+
+9. **中文**：离开前，我记住了“chaperone”。  
+   **英文**：Before leaving, I remembered "chaperone".
+   > **解析**：本题在单元主题情境中复习表达 chaperone。
+
+10. **中文**：那段对话以“confirmation”收尾。  
+   **英文**：That conversation ended with "confirmation".
+   > **解析**：本题在单元主题情境中复习表达 confirmation。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the gathering, I heard "after-party".
+   > **中文**：聚会上，我听到了“after-party”。
+2. My friend said "asked her who had".
+   > **中文**：朋友说了“asked her who had”。
+3. We talked about "coming up" together.
+   > **中文**：我们一起谈到了“coming up”。
+4. Someone explained "dance floor" to me.
+   > **中文**：有人向我解释了“dance floor”。
+5. I replied with "limo".
+   > **中文**：我用“limo”作了回应。
+6. The conversation included "prom queen".
+   > **中文**：对话中包含“prom queen”。
+7. My partner repeated "weren't you going to".
+   > **中文**：同伴重复了“weren't you going to”。
+8. We laughed about "afterwards".
+   > **中文**：我们聊到“afterwards”时笑了。
+9. Before leaving, I remembered "chaperone".
+   > **中文**：离开前，我记住了“chaperone”。
+10. That conversation ended with "confirmation".
+   > **中文**：那段对话以“confirmation”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the gathering, I heard "`____`".
+
+- [x] after-party
+- [ ] dance floor
+- [ ] weren't you going to
+
+> **解析**：本题在单元主题情境中复习表达 after-party。
+
+### 2
+
+My friend said "`____`".
+
+- [x] asked her who had
+- [ ] limo
+- [ ] afterwards
+
+> **解析**：本题在单元主题情境中复习表达 asked her who had。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] coming up
+- [ ] prom queen
+- [ ] chaperone
+
+> **解析**：本题在单元主题情境中复习表达 coming up。
+
+### 4
+
+Someone explained "`____`" to me.
+
+- [x] dance floor
+- [ ] weren't you going to
+- [ ] confirmation
+
+> **解析**：本题在单元主题情境中复习表达 dance floor。
+
+### 5
+
+I replied with "`____`".
+
+- [x] limo
+- [ ] afterwards
+- [ ] after-party
+
+> **解析**：本题在单元主题情境中复习表达 limo。
+
+### 6
+
+The conversation included "`____`".
+
+- [x] prom queen
+- [ ] chaperone
+- [ ] asked her who had
+
+> **解析**：本题在单元主题情境中复习表达 prom queen。
+
+### 7
+
+My partner repeated "`____`".
+
+- [x] weren't you going to
+- [ ] confirmation
+- [ ] coming up
+
+> **解析**：本题在单元主题情境中复习表达 weren't you going to。
+
+### 8
+
+We laughed about "`____`".
+
+- [x] afterwards
+- [ ] after-party
+- [ ] dance floor
+
+> **解析**：本题在单元主题情境中复习表达 afterwards。
+
+### 9
+
+Before leaving, I remembered "`____`".
+
+- [x] chaperone
+- [ ] asked her who had
+- [ ] limo
+
+> **解析**：本题在单元主题情境中复习表达 chaperone。
+
+### 10
+
+That conversation ended with "`____`".
+
+- [x] confirmation
+- [ ] coming up
+- [ ] prom queen
+
+> **解析**：本题在单元主题情境中复习表达 confirmation。
+
+</quiz-cloze>

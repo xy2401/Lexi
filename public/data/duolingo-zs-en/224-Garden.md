@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 best bet, bush, could, cut down, gardener, green thumb, ground, have to be, hire, it seems like, lawn, looking, may, mow, muddy, myself, pond, pot, seed, should, shouldn't be, soil, spot, spray, stem, vegetable garden
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ best bet, bush, could, cut down, gardener, green thumb, ground, have to be, hire
 - **spot** — 地点、位置（口语）。搭配：a good spot, this spot, find a spot。This spot gets a lot of sun—perfect for seeds. 比 place 更口语，常指具体的一个小位置。
 
 - **myself** — 我自己。搭配：do it myself, by myself, I'll mow it myself。I could hire someone, but I'd rather do it myself. 注意 myself 是反身代词，主语必须是 I：I did it myself.（× He did it myself.）
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“best bet”。  
+   **英文**：In this situation, I heard "best bet".
+   > **解析**：本题在单元主题情境中复习表达 best bet。
+
+2. **中文**：同伴解释了“gardener”。  
+   **英文**：My partner explained "gardener".
+   > **解析**：本题在单元主题情境中复习表达 gardener。
+
+3. **中文**：我们一起谈到了“hire”。  
+   **英文**：We talked about "hire" together.
+   > **解析**：本题在单元主题情境中复习表达 hire。
+
+4. **中文**：我记下了“looking”。  
+   **英文**：I wrote down "looking".
+   > **解析**：本题在单元主题情境中复习表达 looking。
+
+5. **中文**：例句中包含“myself”。  
+   **英文**：The example included "myself".
+   > **解析**：本题在单元主题情境中复习表达 myself。
+
+6. **中文**：我询问了“should”。  
+   **英文**：I asked about "should".
+   > **解析**：本题在单元主题情境中复习表达 should。
+
+7. **中文**：我们在句子中用到了“spray”。  
+   **英文**：We used "spray" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 spray。
+
+8. **中文**：朋友重复了“bush”。  
+   **英文**：My friend repeated "bush".
+   > **解析**：本题在单元主题情境中复习表达 bush。
+
+9. **中文**：后来，我记住了“green thumb”。  
+   **英文**：Later, I remembered "green thumb".
+   > **解析**：本题在单元主题情境中复习表达 green thumb。
+
+10. **中文**：这个小故事以“it seems like”收尾。  
+   **英文**：The short story ended with "it seems like".
+   > **解析**：本题在单元主题情境中复习表达 it seems like。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "best bet".
+   > **中文**：在这个情境中，我听到了“best bet”。
+2. My partner explained "gardener".
+   > **中文**：同伴解释了“gardener”。
+3. We talked about "hire" together.
+   > **中文**：我们一起谈到了“hire”。
+4. I wrote down "looking".
+   > **中文**：我记下了“looking”。
+5. The example included "myself".
+   > **中文**：例句中包含“myself”。
+6. I asked about "should".
+   > **中文**：我询问了“should”。
+7. We used "spray" in a sentence.
+   > **中文**：我们在句子中用到了“spray”。
+8. My friend repeated "bush".
+   > **中文**：朋友重复了“bush”。
+9. Later, I remembered "green thumb".
+   > **中文**：后来，我记住了“green thumb”。
+10. The short story ended with "it seems like".
+   > **中文**：这个小故事以“it seems like”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] best bet
+- [ ] looking
+- [ ] spray
+
+> **解析**：本题在单元主题情境中复习表达 best bet。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] gardener
+- [ ] myself
+- [ ] bush
+
+> **解析**：本题在单元主题情境中复习表达 gardener。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] hire
+- [ ] should
+- [ ] green thumb
+
+> **解析**：本题在单元主题情境中复习表达 hire。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] looking
+- [ ] spray
+- [ ] it seems like
+
+> **解析**：本题在单元主题情境中复习表达 looking。
+
+### 5
+
+The example included "`____`".
+
+- [x] myself
+- [ ] bush
+- [ ] best bet
+
+> **解析**：本题在单元主题情境中复习表达 myself。
+
+### 6
+
+I asked about "`____`".
+
+- [x] should
+- [ ] green thumb
+- [ ] gardener
+
+> **解析**：本题在单元主题情境中复习表达 should。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] spray
+- [ ] it seems like
+- [ ] hire
+
+> **解析**：本题在单元主题情境中复习表达 spray。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] bush
+- [ ] best bet
+- [ ] looking
+
+> **解析**：本题在单元主题情境中复习表达 bush。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] green thumb
+- [ ] gardener
+- [ ] myself
+
+> **解析**：本题在单元主题情境中复习表达 green thumb。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] it seems like
+- [ ] hire
+- [ ] should
+
+> **解析**：本题在单元主题情境中复习表达 it seems like。
+
+</quiz-cloze>

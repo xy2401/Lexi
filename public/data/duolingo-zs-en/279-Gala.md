@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 black tie, care for, couldn't possibly, dress code, fabulous, filmmaker, free, gala, get going, gown, have, honored to, hors d'oeuvres, in the mood, mingle, on account of, should be, some other time, sophisticated, step outside, superb, surely, thanks anyway, turn down
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -43,3 +48,194 @@ black tie, care for, couldn't possibly, dress code, fabulous, filmmaker, free, g
 - **filmmaker** — 电影制作人、导演。film（电影）+ maker（制造者）。搭配：an independent filmmaker / a documentary filmmaker / a famous filmmaker。比 director 更宽泛，可以指制片人、导演或整个创作团队的核心人物。
 
 - **surely** — 肯定地、当然。搭配：Surely you can come! / Surely that's not right. / You surely don't mean that. 比 certainly 更有感情色彩，常用于表达惊讶、确信或劝说。例句：Surely you'd be honored to attend the gala!
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在餐厅里，我询问了“black tie”。  
+   **英文**：At the restaurant, I asked about "black tie".
+   > **解析**：本题在单元主题情境中复习表达 black tie。
+
+2. **中文**：菜单上有“fabulous”。  
+   **英文**：The menu included "fabulous".
+   > **解析**：本题在单元主题情境中复习表达 fabulous。
+
+3. **中文**：在餐桌旁，我们谈到了“gala”。  
+   **英文**：At the table, we talked about "gala".
+   > **解析**：本题在单元主题情境中复习表达 gala。
+
+4. **中文**：厨师提到了“honored to”。  
+   **英文**：The cook mentioned "honored to".
+   > **解析**：本题在单元主题情境中复习表达 honored to。
+
+5. **中文**：晚餐我点了“mingle”。  
+   **英文**：I ordered "mingle" for dinner.
+   > **解析**：本题在单元主题情境中复习表达 mingle。
+
+6. **中文**：我的朋友选择了“sophisticated”。  
+   **英文**：My friend chose "sophisticated".
+   > **解析**：本题在单元主题情境中复习表达 sophisticated。
+
+7. **中文**：服务员重复了“surely”。  
+   **英文**：The waiter repeated "surely".
+   > **解析**：本题在单元主题情境中复习表达 surely。
+
+8. **中文**：我们分享了一个关于“care for”的故事。  
+   **英文**：We shared a story about "care for".
+   > **解析**：本题在单元主题情境中复习表达 care for。
+
+9. **中文**：饭后，我记住了“filmmaker”。  
+   **英文**：After the meal, I remembered "filmmaker".
+   > **解析**：本题在单元主题情境中复习表达 filmmaker。
+
+10. **中文**：那顿饭以“gown”收尾。  
+   **英文**：That meal ended with "gown".
+   > **解析**：本题在单元主题情境中复习表达 gown。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At the restaurant, I asked about "black tie".
+   > **中文**：在餐厅里，我询问了“black tie”。
+2. The menu included "fabulous".
+   > **中文**：菜单上有“fabulous”。
+3. At the table, we talked about "gala".
+   > **中文**：在餐桌旁，我们谈到了“gala”。
+4. The cook mentioned "honored to".
+   > **中文**：厨师提到了“honored to”。
+5. I ordered "mingle" for dinner.
+   > **中文**：晚餐我点了“mingle”。
+6. My friend chose "sophisticated".
+   > **中文**：我的朋友选择了“sophisticated”。
+7. The waiter repeated "surely".
+   > **中文**：服务员重复了“surely”。
+8. We shared a story about "care for".
+   > **中文**：我们分享了一个关于“care for”的故事。
+9. After the meal, I remembered "filmmaker".
+   > **中文**：饭后，我记住了“filmmaker”。
+10. That meal ended with "gown".
+   > **中文**：那顿饭以“gown”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At the restaurant, I asked about "`____`".
+
+- [x] black tie
+- [ ] honored to
+- [ ] surely
+
+> **解析**：本题在单元主题情境中复习表达 black tie。
+
+### 2
+
+The menu included "`____`".
+
+- [x] fabulous
+- [ ] mingle
+- [ ] care for
+
+> **解析**：本题在单元主题情境中复习表达 fabulous。
+
+### 3
+
+At the table, we talked about "`____`".
+
+- [x] gala
+- [ ] sophisticated
+- [ ] filmmaker
+
+> **解析**：本题在单元主题情境中复习表达 gala。
+
+### 4
+
+The cook mentioned "`____`".
+
+- [x] honored to
+- [ ] surely
+- [ ] gown
+
+> **解析**：本题在单元主题情境中复习表达 honored to。
+
+### 5
+
+I ordered "`____`" for dinner.
+
+- [x] mingle
+- [ ] care for
+- [ ] black tie
+
+> **解析**：本题在单元主题情境中复习表达 mingle。
+
+### 6
+
+My friend chose "`____`".
+
+- [x] sophisticated
+- [ ] filmmaker
+- [ ] fabulous
+
+> **解析**：本题在单元主题情境中复习表达 sophisticated。
+
+### 7
+
+The waiter repeated "`____`".
+
+- [x] surely
+- [ ] gown
+- [ ] gala
+
+> **解析**：本题在单元主题情境中复习表达 surely。
+
+### 8
+
+We shared a story about "`____`".
+
+- [x] care for
+- [ ] black tie
+- [ ] honored to
+
+> **解析**：本题在单元主题情境中复习表达 care for。
+
+### 9
+
+After the meal, I remembered "`____`".
+
+- [x] filmmaker
+- [ ] fabulous
+- [ ] mingle
+
+> **解析**：本题在单元主题情境中复习表达 filmmaker。
+
+### 10
+
+That meal ended with "`____`".
+
+- [x] gown
+- [ ] gala
+- [ ] sophisticated
+
+> **解析**：本题在单元主题情境中复习表达 gown。
+
+</quiz-cloze>

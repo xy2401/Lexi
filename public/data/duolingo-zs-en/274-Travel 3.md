@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 accommodations, along the way, alternate, connection, considerably, end up, in order to, intend to, it's time, look into, next, not my idea of, original, plan ahead, planning on, potentially, preference, roughly, seafood, sensible, slight, thinking of, turn around, was going to
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ accommodations, along the way, alternate, connection, considerably, end up, in o
 - **seafood** — 海鲜。sea（海）+ food（食物），不可数名词。搭配：fresh seafood / a seafood restaurant / I love seafood。注意 fish 可以指单个鱼或鱼肉，seafood 是各类海产的总称。
 
 - **it's time** — 是时候了。搭配：It's time to book. / It's time we left. / It's about time! 注意 It's time + 过去式（It's time we went）是虚拟语气，暗示"早该做了"。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：谈论喜好时，我听到了“accommodations”。  
+   **英文**：When we talked about favorites, I heard "accommodations".
+   > **解析**：本题在单元主题情境中复习表达 accommodations。
+
+2. **中文**：朋友说“considerably”很重要。  
+   **英文**：My friend said "considerably" was important.
+   > **解析**：本题在单元主题情境中复习表达 considerably。
+
+3. **中文**：我问他们喜欢哪一个：“intend to”。  
+   **英文**：I asked which one they liked: "intend to".
+   > **解析**：本题在单元主题情境中复习表达 intend to。
+
+4. **中文**：聊天时，我们比较了“not my idea of”。  
+   **英文**：In our chat, we compared "not my idea of".
+   > **解析**：本题在单元主题情境中复习表达 not my idea of。
+
+5. **中文**：同伴先选择了“planning on”。  
+   **英文**：My partner chose "planning on" first.
+   > **解析**：本题在单元主题情境中复习表达 planning on。
+
+6. **中文**：我们用“seafood”描述喜好。  
+   **英文**：We used "seafood" to describe a favorite.
+   > **解析**：本题在单元主题情境中复习表达 seafood。
+
+7. **中文**：答案中包含“thinking of”。  
+   **英文**：The answer included "thinking of".
+   > **解析**：本题在单元主题情境中复习表达 thinking of。
+
+8. **中文**：我从对话中记住了“along the way”。  
+   **英文**：I remembered "along the way" from the conversation.
+   > **解析**：本题在单元主题情境中复习表达 along the way。
+
+9. **中文**：朋友微笑着重复了“end up”。  
+   **英文**：My friend repeated "end up" with a smile.
+   > **解析**：本题在单元主题情境中复习表达 end up。
+
+10. **中文**：那场关于喜好的聊天以“look into”收尾。  
+   **英文**：That chat about favorites ended with "look into".
+   > **解析**：本题在单元主题情境中复习表达 look into。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. When we talked about favorites, I heard "accommodations".
+   > **中文**：谈论喜好时，我听到了“accommodations”。
+2. My friend said "considerably" was important.
+   > **中文**：朋友说“considerably”很重要。
+3. I asked which one they liked: "intend to".
+   > **中文**：我问他们喜欢哪一个：“intend to”。
+4. In our chat, we compared "not my idea of".
+   > **中文**：聊天时，我们比较了“not my idea of”。
+5. My partner chose "planning on" first.
+   > **中文**：同伴先选择了“planning on”。
+6. We used "seafood" to describe a favorite.
+   > **中文**：我们用“seafood”描述喜好。
+7. The answer included "thinking of".
+   > **中文**：答案中包含“thinking of”。
+8. I remembered "along the way" from the conversation.
+   > **中文**：我从对话中记住了“along the way”。
+9. My friend repeated "end up" with a smile.
+   > **中文**：朋友微笑着重复了“end up”。
+10. That chat about favorites ended with "look into".
+   > **中文**：那场关于喜好的聊天以“look into”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+When we talked about favorites, I heard "`____`".
+
+- [x] accommodations
+- [ ] not my idea of
+- [ ] thinking of
+
+> **解析**：本题在单元主题情境中复习表达 accommodations。
+
+### 2
+
+My friend said "`____`" was important.
+
+- [x] considerably
+- [ ] planning on
+- [ ] along the way
+
+> **解析**：本题在单元主题情境中复习表达 considerably。
+
+### 3
+
+I asked which one they liked: "`____`".
+
+- [x] intend to
+- [ ] seafood
+- [ ] end up
+
+> **解析**：本题在单元主题情境中复习表达 intend to。
+
+### 4
+
+In our chat, we compared "`____`".
+
+- [x] not my idea of
+- [ ] thinking of
+- [ ] look into
+
+> **解析**：本题在单元主题情境中复习表达 not my idea of。
+
+### 5
+
+My partner chose "`____`" first.
+
+- [x] planning on
+- [ ] along the way
+- [ ] accommodations
+
+> **解析**：本题在单元主题情境中复习表达 planning on。
+
+### 6
+
+We used "`____`" to describe a favorite.
+
+- [x] seafood
+- [ ] end up
+- [ ] considerably
+
+> **解析**：本题在单元主题情境中复习表达 seafood。
+
+### 7
+
+The answer included "`____`".
+
+- [x] thinking of
+- [ ] look into
+- [ ] intend to
+
+> **解析**：本题在单元主题情境中复习表达 thinking of。
+
+### 8
+
+I remembered "`____`" from the conversation.
+
+- [x] along the way
+- [ ] accommodations
+- [ ] not my idea of
+
+> **解析**：本题在单元主题情境中复习表达 along the way。
+
+### 9
+
+My friend repeated "`____`" with a smile.
+
+- [x] end up
+- [ ] considerably
+- [ ] planning on
+
+> **解析**：本题在单元主题情境中复习表达 end up。
+
+### 10
+
+That chat about favorites ended with "`____`".
+
+- [x] look into
+- [ ] intend to
+- [ ] seafood
+
+> **解析**：本题在单元主题情境中复习表达 look into。
+
+</quiz-cloze>

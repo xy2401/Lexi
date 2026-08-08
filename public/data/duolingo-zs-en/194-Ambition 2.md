@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 advantage, babysit, baker, change, dream job, employment, face to face, had, hairdresser, hourly wage, if, if I, interview, make, one day, role, talent, tech, vet, wouldn't
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -29,3 +34,194 @@ face to face 描述面试方式，advantage 用来分析利弊。整体来看，
 - **face to face / one day / advantage** — face to face = 面对面（可作副语：meet face to face；也可加连字符做定语：a face-to-face interview）。one day = 总有一天（指将来）。advantage = 优势，搭配 have an advantage, take advantage of。
 
 - **tech** — technology 的口语缩写，指科技行业。搭配：a tech company, work in tech, the tech industry。类似缩写还有 info (information), ad (advertisement)。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“advantage”。  
+   **英文**：At work, we discussed "advantage".
+   > **解析**：本题在单元主题情境中复习表达 advantage。
+
+2. **中文**：同事提到了“change”。  
+   **英文**：My coworker mentioned "change".
+   > **解析**：本题在单元主题情境中复习表达 change。
+
+3. **中文**：会议中，我听到了“face to face”。  
+   **英文**：In the meeting, I heard "face to face".
+   > **解析**：本题在单元主题情境中复习表达 face to face。
+
+4. **中文**：我把“hourly wage”写进了笔记。  
+   **英文**：I added "hourly wage" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 hourly wage。
+
+5. **中文**：经理解释了“interview”。  
+   **英文**：The manager explained "interview".
+   > **解析**：本题在单元主题情境中复习表达 interview。
+
+6. **中文**：团队今天用到了“talent”。  
+   **英文**：Our team used "talent" today.
+   > **解析**：本题在单元主题情境中复习表达 talent。
+
+7. **中文**：午饭前，我们查看了“wouldn't”。  
+   **英文**：Before lunch, we checked "wouldn't".
+   > **解析**：本题在单元主题情境中复习表达 wouldn't。
+
+8. **中文**：同事询问了“baker”。  
+   **英文**：My colleague asked about "baker".
+   > **解析**：本题在单元主题情境中复习表达 baker。
+
+9. **中文**：报告中包含“employment”。  
+   **英文**：The report included "employment".
+   > **解析**：本题在单元主题情境中复习表达 employment。
+
+10. **中文**：一天结束时，我记住了“hairdresser”。  
+   **英文**：At the end of the day, I remembered "hairdresser".
+   > **解析**：本题在单元主题情境中复习表达 hairdresser。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "advantage".
+   > **中文**：工作中，我们讨论了“advantage”。
+2. My coworker mentioned "change".
+   > **中文**：同事提到了“change”。
+3. In the meeting, I heard "face to face".
+   > **中文**：会议中，我听到了“face to face”。
+4. I added "hourly wage" to my notes.
+   > **中文**：我把“hourly wage”写进了笔记。
+5. The manager explained "interview".
+   > **中文**：经理解释了“interview”。
+6. Our team used "talent" today.
+   > **中文**：团队今天用到了“talent”。
+7. Before lunch, we checked "wouldn't".
+   > **中文**：午饭前，我们查看了“wouldn't”。
+8. My colleague asked about "baker".
+   > **中文**：同事询问了“baker”。
+9. The report included "employment".
+   > **中文**：报告中包含“employment”。
+10. At the end of the day, I remembered "hairdresser".
+   > **中文**：一天结束时，我记住了“hairdresser”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] advantage
+- [ ] hourly wage
+- [ ] wouldn't
+
+> **解析**：本题在单元主题情境中复习表达 advantage。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] change
+- [ ] interview
+- [ ] baker
+
+> **解析**：本题在单元主题情境中复习表达 change。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] face to face
+- [ ] talent
+- [ ] employment
+
+> **解析**：本题在单元主题情境中复习表达 face to face。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] hourly wage
+- [ ] wouldn't
+- [ ] hairdresser
+
+> **解析**：本题在单元主题情境中复习表达 hourly wage。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] interview
+- [ ] baker
+- [ ] advantage
+
+> **解析**：本题在单元主题情境中复习表达 interview。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] talent
+- [ ] employment
+- [ ] change
+
+> **解析**：本题在单元主题情境中复习表达 talent。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] wouldn't
+- [ ] hairdresser
+- [ ] face to face
+
+> **解析**：本题在单元主题情境中复习表达 wouldn't。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] baker
+- [ ] advantage
+- [ ] hourly wage
+
+> **解析**：本题在单元主题情境中复习表达 baker。
+
+### 9
+
+The report included "`____`".
+
+- [x] employment
+- [ ] change
+- [ ] interview
+
+> **解析**：本题在单元主题情境中复习表达 employment。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] hairdresser
+- [ ] face to face
+- [ ] talent
+
+> **解析**：本题在单元主题情境中复习表达 hairdresser。
+
+</quiz-cloze>

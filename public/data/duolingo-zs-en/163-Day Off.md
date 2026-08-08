@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 about to, book club, championship, custom, family reunion, finish, get off, go out with, in charge of, learn, make it, meet up, monthly, off, put, put off, routine, schedule, since, sociable, they all, train, unless, we all
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ about to = 即将。put off = postpone（推迟）。
 
 - **family reunion / book club / championship** — 家聚 / 读书会 / 锦标赛。搭配：attend a reunion, join a club, watch the championship。例句：The reunion was wonderful. / Our book club meets Fridays. / The championship was exciting. 注意这些是社交活动类型。
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：工作中，我们讨论了“about to”。  
+   **英文**：At work, we discussed "about to".
+   > **解析**：本题在单元主题情境中复习表达 about to。
+
+2. **中文**：同事提到了“family reunion”。  
+   **英文**：My coworker mentioned "family reunion".
+   > **解析**：本题在单元主题情境中复习表达 family reunion。
+
+3. **中文**：会议中，我听到了“go out with”。  
+   **英文**：In the meeting, I heard "go out with".
+   > **解析**：本题在单元主题情境中复习表达 go out with。
+
+4. **中文**：我把“meet up”写进了笔记。  
+   **英文**：I added "meet up" to my notes.
+   > **解析**：本题在单元主题情境中复习表达 meet up。
+
+5. **中文**：经理解释了“put”。  
+   **英文**：The manager explained "put".
+   > **解析**：本题在单元主题情境中复习表达 put。
+
+6. **中文**：团队今天用到了“since”。  
+   **英文**：Our team used "since" today.
+   > **解析**：本题在单元主题情境中复习表达 since。
+
+7. **中文**：午饭前，我们查看了“train”。  
+   **英文**：Before lunch, we checked "train".
+   > **解析**：本题在单元主题情境中复习表达 train。
+
+8. **中文**：同事询问了“book club”。  
+   **英文**：My colleague asked about "book club".
+   > **解析**：本题在单元主题情境中复习表达 book club。
+
+9. **中文**：报告中包含“finish”。  
+   **英文**：The report included "finish".
+   > **解析**：本题在单元主题情境中复习表达 finish。
+
+10. **中文**：一天结束时，我记住了“learn”。  
+   **英文**：At the end of the day, I remembered "learn".
+   > **解析**：本题在单元主题情境中复习表达 learn。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. At work, we discussed "about to".
+   > **中文**：工作中，我们讨论了“about to”。
+2. My coworker mentioned "family reunion".
+   > **中文**：同事提到了“family reunion”。
+3. In the meeting, I heard "go out with".
+   > **中文**：会议中，我听到了“go out with”。
+4. I added "meet up" to my notes.
+   > **中文**：我把“meet up”写进了笔记。
+5. The manager explained "put".
+   > **中文**：经理解释了“put”。
+6. Our team used "since" today.
+   > **中文**：团队今天用到了“since”。
+7. Before lunch, we checked "train".
+   > **中文**：午饭前，我们查看了“train”。
+8. My colleague asked about "book club".
+   > **中文**：同事询问了“book club”。
+9. The report included "finish".
+   > **中文**：报告中包含“finish”。
+10. At the end of the day, I remembered "learn".
+   > **中文**：一天结束时，我记住了“learn”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+At work, we discussed "`____`".
+
+- [x] about to
+- [ ] meet up
+- [ ] train
+
+> **解析**：本题在单元主题情境中复习表达 about to。
+
+### 2
+
+My coworker mentioned "`____`".
+
+- [x] family reunion
+- [ ] put
+- [ ] book club
+
+> **解析**：本题在单元主题情境中复习表达 family reunion。
+
+### 3
+
+In the meeting, I heard "`____`".
+
+- [x] go out with
+- [ ] since
+- [ ] finish
+
+> **解析**：本题在单元主题情境中复习表达 go out with。
+
+### 4
+
+I added "`____`" to my notes.
+
+- [x] meet up
+- [ ] train
+- [ ] learn
+
+> **解析**：本题在单元主题情境中复习表达 meet up。
+
+### 5
+
+The manager explained "`____`".
+
+- [x] put
+- [ ] book club
+- [ ] about to
+
+> **解析**：本题在单元主题情境中复习表达 put。
+
+### 6
+
+Our team used "`____`" today.
+
+- [x] since
+- [ ] finish
+- [ ] family reunion
+
+> **解析**：本题在单元主题情境中复习表达 since。
+
+### 7
+
+Before lunch, we checked "`____`".
+
+- [x] train
+- [ ] learn
+- [ ] go out with
+
+> **解析**：本题在单元主题情境中复习表达 train。
+
+### 8
+
+My colleague asked about "`____`".
+
+- [x] book club
+- [ ] about to
+- [ ] meet up
+
+> **解析**：本题在单元主题情境中复习表达 book club。
+
+### 9
+
+The report included "`____`".
+
+- [x] finish
+- [ ] family reunion
+- [ ] put
+
+> **解析**：本题在单元主题情境中复习表达 finish。
+
+### 10
+
+At the end of the day, I remembered "`____`".
+
+- [x] learn
+- [ ] go out with
+- [ ] since
+
+> **解析**：本题在单元主题情境中复习表达 learn。
+
+</quiz-cloze>

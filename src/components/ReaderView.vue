@@ -4,24 +4,29 @@
  * 将输入文本解析为带注音标注的交互式阅读视图
  * 支持段落级 TTS 朗读 + 逐词高亮
  */
-import { computed, ref, watch, nextTick, onBeforeUnmount } from 'vue'
+import { computed, ref, nextTick, onBeforeUnmount } from 'vue'
 import { useDictStore } from '../stores/dict'
 import { detectInputType, markdownToHtml, annotateHtml } from '../lib/tokenizer'
 import { useTTS } from '../composables/useTTS'
+import FollowReadPanel from './FollowReadPanel.vue'
 
-const props = defineProps<{
+const props = withDefaults(defineProps<{
   text: string
-  difficulty: string
-}>()
+  active?: boolean
+}>(), {
+  active: true,
+})
 
 const emit = defineEmits<{
   'word-click': [payload: { word: string; x: number; y: number }]
+  'recording-change': [recording: boolean]
 }>()
 
 const dictStore = useDictStore()
 const readerRef = ref<HTMLElement | null>(null)
 const { speak, stop, speaking } = useTTS()
 const readingParagraph = ref<number>(-1)
+const followRecording = ref(false)
 
 // 计算标注后的 HTML
 const annotatedHtml = computed(() => {
@@ -79,7 +84,7 @@ function getEnglishText(el: Element): string {
 
 // 段落朗读
 function readParagraph(pIdx: number) {
-  if (!readerRef.value) return
+  if (!readerRef.value || followRecording.value) return
 
   if (speaking.value && readingParagraph.value === pIdx) {
     stop()
@@ -146,7 +151,7 @@ const paragraphCount = computed(() => {
 
 // 朗读全文
 function readAll() {
-  if (!readerRef.value) return
+  if (!readerRef.value || followRecording.value) return
 
   if (speaking.value) {
     stop()
@@ -165,6 +170,17 @@ function readAll() {
     clearHighlights()
     highlightWordInAll(charIndex)
   })
+}
+
+function handleFollowStart(): void {
+  stop()
+  readingParagraph.value = -1
+  clearHighlights()
+}
+
+function handleFollowRecordingChange(recording: boolean): void {
+  followRecording.value = recording
+  emit('recording-change', recording)
 }
 
 function highlightWordInAll(charIndex: number) {
@@ -199,16 +215,22 @@ onBeforeUnmount(() => {
 
 <template>
   <div class="reader-wrapper">
-    <div class="reader-toolbar">
-      <button class="read-all-btn" @click="readAll" :disabled="!annotatedHtml">
-        {{ speaking ? '⏹ 停止朗读' : '🔊 朗读全文' }}
-      </button>
-    </div>
     <div
       ref="readerRef"
       class="reader-view"
       @click="handleClick"
       v-html="annotatedHtml"
+    />
+    <FollowReadPanel
+      class="reader-follow"
+      :target-text="text"
+      :active="active"
+      :disabled="!annotatedHtml"
+      :system-disabled="!annotatedHtml"
+      :system-label="speaking ? '⏹ 停止朗读' : '🔊 朗读全文'"
+      @system-read="readAll"
+      @recording-start="handleFollowStart"
+      @recording-change="handleFollowRecordingChange"
     />
   </div>
 </template>
@@ -220,30 +242,8 @@ onBeforeUnmount(() => {
   gap: 0.75rem;
 }
 
-.reader-toolbar {
-  display: flex;
-  gap: 0.5rem;
-}
-
-.read-all-btn {
-  padding: 0.3rem 0.8rem;
-  border: 1px solid #27ae60;
-  background: none;
-  color: #27ae60;
-  border-radius: 4px;
-  cursor: pointer;
-  font-size: 0.8rem;
-  transition: all 0.15s;
-}
-
-.read-all-btn:hover:not(:disabled) {
-  background: #27ae60;
-  color: #fff;
-}
-
-.read-all-btn:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
+.reader-follow {
+  width: 100%;
 }
 
 .reader-view {

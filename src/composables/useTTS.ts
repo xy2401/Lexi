@@ -9,6 +9,7 @@ export function useTTS() {
   const currentWordIndex = ref(-1)
   const voices = ref<SpeechSynthesisVoice[]>([])
   const selectedVoice = ref<string>('')
+  let playbackGeneration = 0
 
   // 加载可用语音
   function loadVoices() {
@@ -51,6 +52,7 @@ export function useTTS() {
     if (!('speechSynthesis' in window)) return
 
     stop()
+    const generation = playbackGeneration
 
     const utterance = new SpeechSynthesisUtterance(text)
     utterance.lang = 'en-US'
@@ -58,12 +60,17 @@ export function useTTS() {
     const voice = voices.value.find(v => v.name === selectedVoice.value)
     if (voice) utterance.voice = voice
 
-    utterance.onstart = () => { speaking.value = true }
+    utterance.onstart = () => {
+      if (generation === playbackGeneration) speaking.value = true
+    }
     utterance.onend = () => {
+      if (generation !== playbackGeneration) return
       speaking.value = false
       currentWordIndex.value = -1
     }
-    utterance.onerror = () => { speaking.value = false }
+    utterance.onerror = () => {
+      if (generation === playbackGeneration) speaking.value = false
+    }
 
     utterance.onboundary = (event) => {
       if (event.name === 'word') {
@@ -75,7 +82,43 @@ export function useTTS() {
     speechSynthesis.speak(utterance)
   }
 
+  /** Cancel the current speech and read several parts without cutting each other off. */
+  function speakSequence(texts: string[]) {
+    if (!('speechSynthesis' in window)) return
+    const queue = texts.map(text => text.trim()).filter(Boolean)
+    if (!queue.length) return
+
+    stop()
+    const generation = playbackGeneration
+    const voice = voices.value.find(item => item.name === selectedVoice.value)
+
+    function playAt(index: number) {
+      if (generation !== playbackGeneration || index >= queue.length) {
+        if (generation === playbackGeneration) speaking.value = false
+        return
+      }
+
+      const utterance = new SpeechSynthesisUtterance(queue[index])
+      utterance.lang = 'en-US'
+      if (voice) utterance.voice = voice
+      utterance.onstart = () => {
+        if (generation === playbackGeneration) speaking.value = true
+      }
+      utterance.onend = () => {
+        if (generation !== playbackGeneration) return
+        playAt(index + 1)
+      }
+      utterance.onerror = () => {
+        if (generation === playbackGeneration) speaking.value = false
+      }
+      speechSynthesis.speak(utterance)
+    }
+
+    playAt(0)
+  }
+
   function stop() {
+    playbackGeneration++
     if ('speechSynthesis' in window) {
       speechSynthesis.cancel()
     }
@@ -93,6 +136,7 @@ export function useTTS() {
     voices,
     selectedVoice,
     speak,
+    speakSequence,
     stop,
   }
 }

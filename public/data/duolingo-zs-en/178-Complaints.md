@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 apology, besides, blame, disappointed, disappointing, end up, end up in, fault, hang, hang up, hang up on, negative, out-of-date, put, put away, put up with, refund, refuse, run out, run out of, take, take back, that sounds like, turn, turn up, unfair, what a, would it be possible
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -33,3 +38,194 @@ apology, besides, blame, disappointed, disappointing, end up, end up in, fault, 
 - **would it be possible / what a / that sounds like** — would it be possible to + 动词原形，是极礼貌的请求：Would it be possible to get a refund? what a + 名词 = 多么……：What a mess! that sounds like = 听起来像是：That sounds like a good idea.
 
 - **besides / out-of-date / negative** — besides = 除了……还有（包含关系，区别于 except 排除）。out-of-date = 过时的、过期的（= outdated）。negative 形容体验时表示"负面的、差的"。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：课堂上，老师介绍了“apology”。  
+   **英文**：In class, the teacher introduced "apology".
+   > **解析**：本题在单元主题情境中复习表达 apology。
+
+2. **中文**：我把“disappointing”写进笔记本。  
+   **英文**：I wrote "disappointing" in my notebook.
+   > **解析**：本题在单元主题情境中复习表达 disappointing。
+
+3. **中文**：同学解释了“hang”。  
+   **英文**：My classmate explained "hang".
+   > **解析**：本题在单元主题情境中复习表达 hang。
+
+4. **中文**：我们一起练习了“out-of-date”。  
+   **英文**：We practiced "out-of-date" together.
+   > **解析**：本题在单元主题情境中复习表达 out-of-date。
+
+5. **中文**：作业里包含“refund”。  
+   **英文**：The homework included "refund".
+   > **解析**：本题在单元主题情境中复习表达 refund。
+
+6. **中文**：我向老师询问了“take”。  
+   **英文**：I asked the teacher about "take".
+   > **解析**：本题在单元主题情境中复习表达 take。
+
+7. **中文**：上课时，我听到了“turn up”。  
+   **英文**：During the lesson, I heard "turn up".
+   > **解析**：本题在单元主题情境中复习表达 turn up。
+
+8. **中文**：学习伙伴记住了“besides”。  
+   **英文**：My study partner remembered "besides".
+   > **解析**：本题在单元主题情境中复习表达 besides。
+
+9. **中文**：我们在例句中用到了“end up”。  
+   **英文**：We used "end up" in an example.
+   > **解析**：本题在单元主题情境中复习表达 end up。
+
+10. **中文**：下课后，我复习了“hang up”。  
+   **英文**：After class, I reviewed "hang up".
+   > **解析**：本题在单元主题情境中复习表达 hang up。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In class, the teacher introduced "apology".
+   > **中文**：课堂上，老师介绍了“apology”。
+2. I wrote "disappointing" in my notebook.
+   > **中文**：我把“disappointing”写进笔记本。
+3. My classmate explained "hang".
+   > **中文**：同学解释了“hang”。
+4. We practiced "out-of-date" together.
+   > **中文**：我们一起练习了“out-of-date”。
+5. The homework included "refund".
+   > **中文**：作业里包含“refund”。
+6. I asked the teacher about "take".
+   > **中文**：我向老师询问了“take”。
+7. During the lesson, I heard "turn up".
+   > **中文**：上课时，我听到了“turn up”。
+8. My study partner remembered "besides".
+   > **中文**：学习伙伴记住了“besides”。
+9. We used "end up" in an example.
+   > **中文**：我们在例句中用到了“end up”。
+10. After class, I reviewed "hang up".
+   > **中文**：下课后，我复习了“hang up”。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In class, the teacher introduced "`____`".
+
+- [x] apology
+- [ ] out-of-date
+- [ ] turn up
+
+> **解析**：本题在单元主题情境中复习表达 apology。
+
+### 2
+
+I wrote "`____`" in my notebook.
+
+- [x] disappointing
+- [ ] refund
+- [ ] besides
+
+> **解析**：本题在单元主题情境中复习表达 disappointing。
+
+### 3
+
+My classmate explained "`____`".
+
+- [x] hang
+- [ ] take
+- [ ] end up
+
+> **解析**：本题在单元主题情境中复习表达 hang。
+
+### 4
+
+We practiced "`____`" together.
+
+- [x] out-of-date
+- [ ] turn up
+- [ ] hang up
+
+> **解析**：本题在单元主题情境中复习表达 out-of-date。
+
+### 5
+
+The homework included "`____`".
+
+- [x] refund
+- [ ] besides
+- [ ] apology
+
+> **解析**：本题在单元主题情境中复习表达 refund。
+
+### 6
+
+I asked the teacher about "`____`".
+
+- [x] take
+- [ ] end up
+- [ ] disappointing
+
+> **解析**：本题在单元主题情境中复习表达 take。
+
+### 7
+
+During the lesson, I heard "`____`".
+
+- [x] turn up
+- [ ] hang up
+- [ ] hang
+
+> **解析**：本题在单元主题情境中复习表达 turn up。
+
+### 8
+
+My study partner remembered "`____`".
+
+- [x] besides
+- [ ] apology
+- [ ] out-of-date
+
+> **解析**：本题在单元主题情境中复习表达 besides。
+
+### 9
+
+We used "`____`" in an example.
+
+- [x] end up
+- [ ] disappointing
+- [ ] refund
+
+> **解析**：本题在单元主题情境中复习表达 end up。
+
+### 10
+
+After class, I reviewed "`____`".
+
+- [x] hang up
+- [ ] hang
+- [ ] take
+
+> **解析**：本题在单元主题情境中复习表达 hang up。
+
+</quiz-cloze>

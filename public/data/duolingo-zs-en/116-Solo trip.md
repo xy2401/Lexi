@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 arrival, continent, extra, fare, farther, farthest, for the first time, homesick, land, laundry, let, like best, much, nearby, on the other hand, over there, passport control, patio, public transportation, reserve, shuttle, solo, traveler, unpack
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -40,3 +45,193 @@ on the other hand 表示"另一方面"（用于对比）。farther / farthest �
 
 - **extra / let / traveler** — 额外的 / 让 / 旅客。搭配：extra money, extra time, Let me...。例句：I paid extra for the room. / Let me check my bag. / Every traveler needs a plan.
 
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：我第一次独自旅行。  
+   **英文**：I traveled solo for the first time.
+   > **解析**：本题在单元主题情境中复习表达 solo。
+
+2. **中文**：到达后我感到想家。  
+   **英文**：I felt homesick after my arrival.
+   > **解析**：本题在单元主题情境中复习表达 homesick。
+
+3. **中文**：我通过护照检查并预订了接驳车。  
+   **英文**：I went through passport control and reserved a shuttle.
+   > **解析**：本题在单元主题情境中复习表达 passport control。
+
+4. **中文**：酒店就在附近，就在那边。  
+   **英文**：The hotel was nearby, just over there.
+   > **解析**：本题在单元主题情境中复习表达 nearby。
+
+5. **中文**：我打开行李并洗了衣服。  
+   **英文**：I unpacked my bag and did the laundry.
+   > **解析**：本题在单元主题情境中复习表达 laundry。
+
+6. **中文**：费用比我预想的高得多。  
+   **英文**：The fare was much higher than I expected.
+   > **解析**：本题在单元主题情境中复习表达 fare。
+
+7. **中文**：独自旅行者需要公共交通。  
+   **英文**：A solo traveler needs public transportation.
+   > **解析**：本题在单元主题情境中复习表达 public transportation。
+
+8. **中文**：你最喜欢哪个大洲？  
+   **英文**：Which continent did you like best?
+   > **解析**：本题在单元主题情境中复习表达 continent。
+
+9. **中文**：我在接驳车上预订了一个额外座位。  
+   **英文**：I reserved an extra seat on the shuttle.
+   > **解析**：本题在单元主题情境中复习表达 extra。
+
+10. **中文**：机场比我想象的更远。  
+   **英文**：The airport was farther away than I thought.
+   > **解析**：本题在单元主题情境中复习表达 farther。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. I traveled solo for the first time.
+   > **中文**：我第一次独自旅行。
+2. I felt homesick after my arrival.
+   > **中文**：到达后我感到想家。
+3. I went through passport control and reserved a shuttle.
+   > **中文**：我通过护照检查并预订了接驳车。
+4. The hotel was nearby, just over there.
+   > **中文**：酒店就在附近，就在那边。
+5. I unpacked my bag and did the laundry.
+   > **中文**：我打开行李并洗了衣服。
+6. The fare was much higher than I expected.
+   > **中文**：费用比我预想的高得多。
+7. A solo traveler needs public transportation.
+   > **中文**：独自旅行者需要公共交通。
+8. Which continent did you like best?
+   > **中文**：你最喜欢哪个大洲？
+9. I reserved an extra seat on the shuttle.
+   > **中文**：我在接驳车上预订了一个额外座位。
+10. The airport was farther away than I thought.
+   > **中文**：机场比我想象的更远。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+I traveled `____` for the first time.
+
+- [x] solo
+- [ ] nearby
+- [ ] public transportation
+
+> **解析**：本题在单元主题情境中复习表达 solo。
+
+### 2
+
+I felt `____` after my arrival.
+
+- [x] homesick
+- [ ] laundry
+- [ ] continent
+
+> **解析**：本题在单元主题情境中复习表达 homesick。
+
+### 3
+
+I went through `____` and reserved a shuttle.
+
+- [x] passport control
+- [ ] fare
+- [ ] extra
+
+> **解析**：本题在单元主题情境中复习表达 passport control。
+
+### 4
+
+The hotel was `____`, just over there.
+
+- [x] nearby
+- [ ] public transportation
+- [ ] farther
+
+> **解析**：本题在单元主题情境中复习表达 nearby。
+
+### 5
+
+I unpacked my bag and did the `____`.
+
+- [x] laundry
+- [ ] continent
+- [ ] solo
+
+> **解析**：本题在单元主题情境中复习表达 laundry。
+
+### 6
+
+The `____` was much higher than I expected.
+
+- [x] fare
+- [ ] extra
+- [ ] homesick
+
+> **解析**：本题在单元主题情境中复习表达 fare。
+
+### 7
+
+A solo traveler needs `____`.
+
+- [x] public transportation
+- [ ] farther
+- [ ] passport control
+
+> **解析**：本题在单元主题情境中复习表达 public transportation。
+
+### 8
+
+Which `____` did you like best?
+
+- [x] continent
+- [ ] solo
+- [ ] nearby
+
+> **解析**：本题在单元主题情境中复习表达 continent。
+
+### 9
+
+I reserved an `____` seat on the shuttle.
+
+- [x] extra
+- [ ] homesick
+- [ ] laundry
+
+> **解析**：本题在单元主题情境中复习表达 extra。
+
+### 10
+
+The airport was `____` away than I thought.
+
+- [x] farther
+- [ ] passport control
+- [ ] fare
+
+> **解析**：本题在单元主题情境中复习表达 farther。
+
+</quiz-cloze>

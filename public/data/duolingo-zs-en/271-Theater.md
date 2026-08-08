@@ -4,7 +4,12 @@
 
 ## 单词
 
+<quiz-word-list>
+
 almost a, almost all, audition, chances are, critic, full house, highly, impressed, line, may be, might not be, opening night, pretty sure, production, quite a, rehearsal, role, script, set, spotlight, stage fright, there's no question
+
+</quiz-word-list>
+
 
 ## 单元讲解
 
@@ -41,3 +46,194 @@ almost a, almost all, audition, chances are, critic, full house, highly, impress
 - **set** — 这里指舞台布景。搭配：the set design / build the set / on the set。在戏剧中指舞台上的背景装置；在电影中指拍摄现场（on set）。一词多义，看语境。
 
 - **there's no question** — 毫无疑问。比 no doubt 语气更强：There's no question she's the best actress in the school. 类似表达：without question / unquestionably。注意 question 这里是"疑问"而非"问题"。
+
+## 练习
+
+<quiz-pronunciation-match>
+
+</quiz-pronunciation-match>
+
+<quiz-pronunciation-spell>
+
+</quiz-pronunciation-spell>
+
+<quiz-translation-choice>
+
+</quiz-translation-choice>
+
+<quiz-sentence-builder>
+
+1. **中文**：在这个情境中，我听到了“almost a”。  
+   **英文**：In this situation, I heard "almost a".
+   > **解析**：本题在单元主题情境中复习表达 almost a。
+
+2. **中文**：同伴解释了“chances are”。  
+   **英文**：My partner explained "chances are".
+   > **解析**：本题在单元主题情境中复习表达 chances are。
+
+3. **中文**：我们一起谈到了“impressed”。  
+   **英文**：We talked about "impressed" together.
+   > **解析**：本题在单元主题情境中复习表达 impressed。
+
+4. **中文**：我记下了“might not be”。  
+   **英文**：I wrote down "might not be".
+   > **解析**：本题在单元主题情境中复习表达 might not be。
+
+5. **中文**：例句中包含“production”。  
+   **英文**：The example included "production".
+   > **解析**：本题在单元主题情境中复习表达 production。
+
+6. **中文**：我询问了“script”。  
+   **英文**：I asked about "script".
+   > **解析**：本题在单元主题情境中复习表达 script。
+
+7. **中文**：我们在句子中用到了“stage fright”。  
+   **英文**：We used "stage fright" in a sentence.
+   > **解析**：本题在单元主题情境中复习表达 stage fright。
+
+8. **中文**：朋友重复了“almost all”。  
+   **英文**：My friend repeated "almost all".
+   > **解析**：本题在单元主题情境中复习表达 almost all。
+
+9. **中文**：后来，我记住了“full house”。  
+   **英文**：Later, I remembered "full house".
+   > **解析**：本题在单元主题情境中复习表达 full house。
+
+10. **中文**：这个小故事以“line”收尾。  
+   **英文**：The short story ended with "line".
+   > **解析**：本题在单元主题情境中复习表达 line。
+
+</quiz-sentence-builder>
+
+<quiz-listening>
+
+1. In this situation, I heard "almost a".
+   > **中文**：在这个情境中，我听到了“almost a”。
+2. My partner explained "chances are".
+   > **中文**：同伴解释了“chances are”。
+3. We talked about "impressed" together.
+   > **中文**：我们一起谈到了“impressed”。
+4. I wrote down "might not be".
+   > **中文**：我记下了“might not be”。
+5. The example included "production".
+   > **中文**：例句中包含“production”。
+6. I asked about "script".
+   > **中文**：我询问了“script”。
+7. We used "stage fright" in a sentence.
+   > **中文**：我们在句子中用到了“stage fright”。
+8. My friend repeated "almost all".
+   > **中文**：朋友重复了“almost all”。
+9. Later, I remembered "full house".
+   > **中文**：后来，我记住了“full house”。
+10. The short story ended with "line".
+   > **中文**：这个小故事以“line”收尾。
+
+</quiz-listening>
+
+<quiz-matching>
+
+</quiz-matching>
+
+<quiz-cloze>
+
+### 1
+
+In this situation, I heard "`____`".
+
+- [x] almost a
+- [ ] might not be
+- [ ] stage fright
+
+> **解析**：本题在单元主题情境中复习表达 almost a。
+
+### 2
+
+My partner explained "`____`".
+
+- [x] chances are
+- [ ] production
+- [ ] almost all
+
+> **解析**：本题在单元主题情境中复习表达 chances are。
+
+### 3
+
+We talked about "`____`" together.
+
+- [x] impressed
+- [ ] script
+- [ ] full house
+
+> **解析**：本题在单元主题情境中复习表达 impressed。
+
+### 4
+
+I wrote down "`____`".
+
+- [x] might not be
+- [ ] stage fright
+- [ ] line
+
+> **解析**：本题在单元主题情境中复习表达 might not be。
+
+### 5
+
+The example included "`____`".
+
+- [x] production
+- [ ] almost all
+- [ ] almost a
+
+> **解析**：本题在单元主题情境中复习表达 production。
+
+### 6
+
+I asked about "`____`".
+
+- [x] script
+- [ ] full house
+- [ ] chances are
+
+> **解析**：本题在单元主题情境中复习表达 script。
+
+### 7
+
+We used "`____`" in a sentence.
+
+- [x] stage fright
+- [ ] line
+- [ ] impressed
+
+> **解析**：本题在单元主题情境中复习表达 stage fright。
+
+### 8
+
+My friend repeated "`____`".
+
+- [x] almost all
+- [ ] almost a
+- [ ] might not be
+
+> **解析**：本题在单元主题情境中复习表达 almost all。
+
+### 9
+
+Later, I remembered "`____`".
+
+- [x] full house
+- [ ] chances are
+- [ ] production
+
+> **解析**：本题在单元主题情境中复习表达 full house。
+
+### 10
+
+The short story ended with "`____`".
+
+- [x] line
+- [ ] impressed
+- [ ] script
+
+> **解析**：本题在单元主题情境中复习表达 line。
+
+</quiz-cloze>
