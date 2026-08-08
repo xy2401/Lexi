@@ -10,56 +10,35 @@ aside from, astonished, awkward, before, claim, clue, did, even, fit in with, fo
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是"对奇怪的事做出反应"——想象你在美食广场看到不可思议的一幕，然后跟朋友八卦。词表里有大量表达惊讶和评价的词：astonished, odd, awkward, strangely enough。你可以这样描述：Strangely enough, he claimed he didn't even know her, aside from the fact that they were holding hands in the food court the previous day.（奇怪的是，他声称根本不认识她，尽管前一天他们还在美食广场牵手。）
+本单元的主题是"对奇怪的情况做出反应"，场景是八卦与街头见闻。词表可以分成四组：惊讶与评价（astonished, awkward, odd, minor, strangely enough）、观察与猜测（claim, clue, imagine, swear, go on, suspend）、人际动作（hold hands, fit in with, keep it to yourself）、以及场景与程度（food court, tabloid, mess, obsession, out of control, nothing but, even, before, did, aside from, the previous）。拼起来就是一段八卦开场：Strangely enough, I saw them holding hands at the food court. I swear it's true!
 
-go on（发生）、fit in with（融入）、out of control（失控）这些短语动词让叙述更生动。keep it to yourself 是八卦场景的经典收尾——"你可别告诉别人"。suspend 在这里可能指"停学/停职"，暗示事情闹大了。tabloid（小报）和 obsession（痴迷）则把八卦上升到媒体和执念的层面。
+语法主线有两个。一是 did 的强调用法：I did see them!（我确实看见了！）——did + 动词原形加强语气。二是插入语与转述：strangely enough（说来奇怪）放在句首定调，claim 表示"声称"、暗示未必属实：He claims he was at home.
 
-学完本单元，你能用英语绘声绘色地讲述一件怪事，表达震惊、怀疑，并叮嘱对方保密。
+学完这个单元，你能用英语描述见闻、表达惊讶、转述他人说法，还能礼貌地请人保密。
 
 ## Tips
 
-- **astonished** — "震惊的"，比 surprised 程度强得多，接近"目瞪口呆"。搭配：I was astonished by the news. / She looked astonished. 同族词：astonishing（令人震惊的）、astonishment（震惊）。比 shocked 更偏书面。
+- **astonished / odd / awkward / minor** — 四个评价形容词。astonished = 大吃一惊的，比 surprised 强烈；odd = 奇怪的，比 strange 更书面；awkward = 尴尬的；minor = 轻微的、次要的：a minor problem。
 
-- **strangely enough** — "说来奇怪"，用作句首插入语，引出一件出乎意料的事。Strangely enough, no one noticed. 类似表达：oddly enough, funny enough。enough 在这里是"说来也怪"的语气词，不表"足够"。
+- **strangely enough / nothing but** — strangely enough 是句首插入语"说来奇怪"；nothing but = 只有、无非是：It's nothing but gossip.（无非是八卦。）
 
-- **aside from** — "除了……之外"，美式用法，等同于 apart from。Aside from that, everything was fine. 既可以表示"排除"也可以表示"包含"，需看上下文。比 except for 语气更随意。
+- **claim / swear / imagine** — 三个表态动词。claim = 声称（未必可信）：She claims she saw a ghost. swear = 发誓、肯定：I swear I'm telling the truth. imagine = 想象：Imagine the mess!
 
-- **tabloid** — "小报、八卦报"，指那种以耸动标题和名人隐私为卖点的报纸。搭配：a tabloid story / tabloid journalism。引申义可指任何八卦式报道。和 broadsheet（严肃大报）相对。
+- **did** — 本单元的强调用法：I did tell you! 助动词 did + 动词原形强调过去动作的真实性，中文可译为"确实、真的"。
 
-- **obsession** — "痴迷、执念"，动词 obsess。搭配：have an obsession with / She's obsessed with him. 含贬义，暗示不健康地沉迷。比 interest 或 hobby 强烈得多。
+- **go on / even / before** — go on = 发生、继续：What's going on? even 加强语气：even stranger（更奇怪的）；before 作副词表示"以前"：I've seen him before.
 
-- **keep it to yourself** — "别告诉别人、自己知道就好"。口语中非常实用的保密叮嘱。类似：Don't tell anyone. / This stays between us. 注意反身代词要和主语一致：Keep it to yourselves.（对多人说。）
+- **clue / suspend / the previous** — clue = 线索：have no clue（毫无头绪）；suspend = 暂停、 suspend disbelief（暂且放下怀疑）；the previous = 前一个的：the previous day。
 
-- **out of control** — "失控"。搭配：get out of control / Things are out of control. 反义词 in control / under control。注意介词：是 out of control，不是 out from control。
+- **hold hands / fit in with** — hold hands = 手拉手；fit in with = 与……相符、融入：His story doesn't fit in with the facts.
 
-- **fit in with** — "融入、与……协调"。fit in with the group = 融入群体。也可以说 fit in 不带 with：She doesn't fit in. 强调"合群、协调"，不只是"适合"。
+- **keep it to yourself** — 固定表达"别声张、保密"：Please keep it to yourself. 与之相对的八卦是 spread it around。
 
-- **claim** — "声称"，暗含"未必可信"。He claims he's innocent. / She claimed to have seen it. 和 say 的区别：claim 带有说话者的怀疑态度。名词用法：make a claim。
+- **food court / tabloid** — food court 是商场里的美食广场；tabloid 是小报、八卦报，常登耸人听闻的新闻。
 
-- **swear** — "发誓；咒骂"。I swear I didn't do it!（我发誓没做！）/ He swore loudly.（他大声骂了一句。）两个意思都很常用，具体看语境。swear to = 发誓说。
-
-- **suspend** — "暂停、停职、停学"。The student was suspended for a week. / The game was suspended due to rain. 比 stop 更正式，暗示"暂时中止，可能恢复"。名词 suspension。
-
-- **awkward** — "尴尬的、笨拙的"。an awkward moment / an awkward silence。也可以形容人笨手笨脚：He's awkward with his hands. 口语高频词，比 embarrassing 适用范围更广。
-
-- **odd** — "奇怪的"，比 strange 语气轻，偏"有点不对劲"。That's odd. / An odd feeling. 和 oddly enough 中的 odd 同源。比 weird 温和，比 unusual 更口语。
-
-- **go on** — "发生、继续"。What's going on?（怎么回事？）/ Please go on.（请继续。）一词两义，非常高频。在八卦语境中通常是"发生"：You won't believe what went on!
-
-- **nothing but** — "只不过是、仅仅"。It's nothing but a mess. = 简直一团糟。比 only 语气更强，带有"不过如此"的轻蔑。类似：He's nothing but a liar.
-
-- **clue** — "线索"。搭配：have no clue = 完全不知道（口语极高频）。I have no clue what happened. 比 idea 更强调"连一点头绪都没有"。
-
-- **food court** — "美食广场"，商场或机场里的公共餐饮区。美式说法，英式有时说 food hall。由 food + court（庭院、场地）组成，可以联想到一个开放空间里有很多档口。
-
-- **minor** — "次要的、轻微的"。a minor issue / a minor accident。反义词 major。注意发音：/ˈmaɪnər/，和 miner（矿工）同音。
-
-- **mess** — "混乱、脏乱"。搭配：make a mess / What a mess! / a mess of emotions。口语中极高频，比 disorder 更日常。mess up = 搞砸。
-
-- **hold hands** — "牵手"。注意 hand 用复数：They were holding hands. 不是 holding hand。类似结构：shake hands（握手）。
+- **mess / obsession / out of control / aside from** — mess = 烂摊子；obsession = 痴迷；out of control = 失控；aside from = 除了：Aside from that, everything is fine.
 
 ## 练习
 
@@ -77,149 +56,149 @@ go on（发生）、fit in with（融入）、out of control（失控）这些�
 
 <quiz-sentence-builder>
 
-1. **中文**：听到那个关于知名明星的八卦消息后，大家都感到非常震惊。
-   **英文**：Everyone was astonished to hear the latest gossip about the celebrity.
-   > **解析**：astonished 表示吃惊的、震惊的。
+1. **中文**：说来奇怪，我看见他们手拉手。
+   **英文**：Strangely enough, I saw them holding hands.
+   > **解析**：Strangely enough 是句首插入语；saw them holding 是"看见某人正在做"的结构。
 
-2. **中文**：当他在人群中偶遇前女友时，气氛变得十分尴尬。
-   **英文**：The room felt very awkward when he bumped into his ex-girlfriend.
-   > **解析**：awkward 表示尴尬的。
+2. **中文**：我确实看见他们了！
+   **英文**：I did see them!
+   > **解析**：did + 动词原形 see 强调过去动作的真实性，语气比 I saw them 更强。
 
-3. **中文**：办公室里流传着一个非常古怪的谣言。
-   **英文**：There was an odd rumor circulating around the office today.
-   > **解析**：odd 表示奇怪的、古怪的。
+3. **中文**：我发誓我说的是实话。
+   **英文**：I swear I am telling the truth.
+   > **解析**：swear 后接省略 that 的从句；am telling 现在进行时强调当下正在陈述。
 
-4. **中文**：那只是一起微小的误会，没必要放大成冲突。
-   **英文**：It was just a minor misunderstanding, so don't make a big deal out of it.
-   > **解析**：minor 表示微小的、次要的。
+4. **中文**：他声称自己当时在家。
+   **英文**：He claims he was at home.
+   > **解析**：claim 后接从句；claims 是单三形式，从句用 was 表示当时的状态。
 
-5. **中文**：派对上的谣言很快就彻底失去控制了。
-   **英文**：The gossip at the party got completely out of control by midnight.
-   > **解析**：out of control 表示失去控制。
+5. **中文**：我大吃一惊。
+   **英文**：I was astonished by the news.
+   > **解析**：be astonished by 是被动结构"被……震惊"；astonished 描述人的感受。
 
-6. **中文**：他声称自己目击到了整个事件的经过。
-   **英文**：He claimed that he saw the whole incident with his own eyes.
-   > **解析**：claim 表示声称、断言。
+6. **中文**：那场面太尴尬了。
+   **英文**：The situation was really awkward.
+   > **解析**：awkward 是形容词作表语；really 是程度副词。
 
-7. **中文**：我发誓我绝对没有向任何人泄露这个秘密。
-   **英文**：I swear I didn't tell a single soul about the confidential news.
-   > **解析**：swear 表示发誓。
+7. **中文**：这只是个小问题。
+   **英文**：It is just a minor problem.
+   > **解析**：minor 修饰 problem 表示"轻微的"；just 加强"不过是"的语气。
 
-8. **中文**：这本八卦小报经常刊登未经证实的虚假新闻。
-   **英文**：This tabloid often publishes dramatic stories about famous people.
-   > **解析**：tabloid 表示八卦小报。
+8. **中文**：这无非是八卦而已。
+   **英文**：It is nothing but gossip.
+   > **解析**：nothing but = 只有、无非是；gossip 作表语，不可数。
 
-9. **中文**：他们被发现在商场的美食广场里亲密牵手。
-   **英文**：They were spotted holding hands in the mall's crowded food court.
-   > **解析**：hold hands 表示牵手；food court 表示美食广场。
+9. **中文**：到底发生了什么？
+   **英文**：What is going on?
+   > **解析**：go on = 发生；现在进行时 is going on 询问当前状况。
 
-10. **中文**：侦探在搜查过程中没有找到任何有价值的线索。
-   **英文**：The detective couldn't find a single clue about who leaked the document.
-   > **解析**：clue 表示线索。
+10. **中文**：我以前见过他。
+   **英文**：I have seen him before.
+   > **解析**：现在完成时 have seen 与副词 before 搭配，表示过去的经历。
 
-11. **中文**：这件事纯粹是无稽之谈，根本不值得讨论。
-   **英文**：The whole story is nothing but complete nonsense and wild rumors.
-   > **解析**：nothing but 表示只有、纯粹是。
+11. **中文**：我毫无头绪。
+   **英文**：I have no clue.
+   > **解析**：have no clue 是固定表达"毫无头绪"；clue 是可数名词。
 
-12. **中文**：说也奇怪，居然没人注意到昨天发生的异样。
-   **英文**：Strangely enough, nobody noticed the strange behavior yesterday.
-   > **解析**：strangely enough 表示说也奇怪。
+12. **中文**：他的说法与事实不符。
+   **英文**：His story doesn't fit in with the facts.
+   > **解析**：fit in with 是固定短语"与……相符"；story 是单三主语，用 doesn't。
 
-13. **中文**：除了这几条传言外，我们没有任何确凿事实。
-   **英文**：Aside from a few rumors, we have no hard facts about the company.
-   > **解析**：aside from 表示除了……之外。
+13. **中文**：这件事请保密。
+   **英文**：Please keep it to yourself.
+   > **解析**：keep it to yourself 是固定表达"别声张"；please 使语气礼貌。
 
-14. **中文**：请千万保密，不要把这件事情告诉其他人。
-   **英文**：This is a top secret, so please keep it to yourself.
-   > **解析**：keep it to yourself 表示保密、别说出去。
+14. **中文**：想象一下那有多乱。
+   **英文**：Imagine what a mess it was.
+   > **解析**：Imagine 引导祈使句；what a mess 是感叹结构作从句。
 
-15. **中文**：因涉嫌泄露公司机密，他被暂时停职调查。
-   **英文**：He was suspended from his job while management investigated the leak.
-   > **解析**：suspend 表示停职、暂停。
+15. **中文**：情况已经失控了。
+   **英文**：The situation is out of control.
+   > **解析**：out of control 是固定短语作表语，表示"失控"。
 
-16. **中文**：他对追踪明星隐私有一种近乎病态的痴迷。
-   **英文**：He has an obsession with reading juicy stories about celebrities.
-   > **解析**：obsession 表示痴迷、执念。
+16. **中文**：除了那件事，一切都好。
+   **英文**：Aside from that, everything is fine.
+   > **解析**：Aside from 表示"除了"，置于句首用逗号隔开。
 
-17. **中文**：这场未经证实的风波让整家公司的氛围变得一塌糊涂。
-   **英文**：The false accusation created a total mess in the workplace.
-   > **解析**：mess 表示混乱、一塌糊涂。
+17. **中文**：他们对八卦小报很痴迷。
+   **英文**：They are obsessed with tabloids.
+   > **解析**：be obsessed with 是固定搭配；tabloids 用复数表示一类报纸。
 
-18. **中文**：你能想象他居然会说出那样的话吗？
-   **英文**：Can you imagine that he would actually say something like that?
-   > **解析**：imagine 表示想象。
+18. **中文**：比赛被暂停了。
+   **英文**：The game was suspended.
+   > **解析**：was suspended 是被动语态，表示"被暂停"。
 
-19. **中文**：新来的员工很努力地想要融入团队的文化。
-   **英文**：The new employee tried hard to fit in with the office culture.
-   > **解析**：fit in with 表示融入、适应。
+19. **中文**：我们在美食广场等他们。
+   **英文**：We waited for them at the food court.
+   > **解析**：waited 是过去式；at the food court 是地点状语。
 
-20. **中文**：究竟发生了什么事？为什么大家都在私下讨论？
-   **英文**：What is going on here? Why is everyone whispering in the corner?
-   > **解析**：go on 表示发生、继续。
+20. **中文**：前一天他还在这里。
+   **英文**：He was here the previous day.
+   > **解析**：the previous day = 前一天，作时间状语；was 与过去叙述一致。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Everyone was astonished to hear the latest gossip about the celebrity.
-   > **中文**：听到那个关于知名明星的八卦消息后，大家都感到非常震惊。
+1. Strangely enough, she laughed first.
+   > **中文**：说来奇怪，她先笑了。
 
-2. The room felt very awkward when he bumped into his ex-girlfriend.
-   > **中文**：当他在人群中偶遇前女友时，气氛变得十分尴尬。
+2. I did tell you about it.
+   > **中文**：我确实跟你说过这事。
 
-3. There was an odd rumor circulating around the office today.
-   > **中文**：办公室里流传着一个非常古怪的谣言。
+3. I swear it is true.
+   > **中文**：我发誓这是真的。
 
-4. It was just a minor misunderstanding, so don't make a big deal out of it.
-   > **中文**：那只是一起微小的误会，没必要放大成冲突。
+4. She claims she knew nothing.
+   > **中文**：她声称自己什么都不知道。
 
-5. The gossip at the party got completely out of control by midnight.
-   > **中文**：派对上的谣言很快就彻底失去控制了。
+5. We were astonished by what we saw.
+   > **中文**：我们被看到的景象惊到了。
 
-6. He claimed that he saw the whole incident with his own eyes.
-   > **中文**：他声称自己目击到了整个事件的经过。
+6. It was an awkward moment.
+   > **中文**：那是个尴尬的时刻。
 
-7. I swear I didn't tell a single soul about the confidential news.
-   > **中文**：我发誓我绝对没有向任何人泄露这个秘密。
+7. It was only a minor issue.
+   > **中文**：那只是个小问题。
 
-8. This tabloid often publishes dramatic stories about famous people.
-   > **中文**：这本八卦小报经常刊登未经证实的虚假新闻。
+8. He eats nothing but noodles.
+   > **中文**：他除了面条什么都不吃。
 
-9. They were spotted holding hands in the mall's crowded food court.
-   > **中文**：他们被发现在商场的美食广场里亲密牵手。
+9. Something odd is going on.
+   > **中文**：怪事正在发生。
 
-10. The detective couldn't find a single clue about who leaked the document.
-   > **中文**：侦探在搜查过程中没有找到任何有价值的线索。
+10. I have seen them before.
+   > **中文**：我以前见过他们。
 
-11. The whole story is nothing but complete nonsense and wild rumors.
-   > **中文**：这件事纯粹是无稽之谈，根本不值得讨论。
+11. I have no clue what happened.
+   > **中文**：我完全不知道发生了什么。
 
-12. Strangely enough, nobody noticed the strange behavior yesterday.
-   > **中文**：说也奇怪，居然没人注意到昨天发生的异样。
+12. Her excuse doesn't fit in with the facts.
+   > **中文**：她的借口与事实对不上。
 
-13. Aside from a few rumors, we have no hard facts about the company.
-   > **中文**：除了这几条传言外，我们没有任何确凿事实。
+13. Keep it to yourself, please.
+   > **中文**：请保密，别声张。
 
-14. This is a top secret, so please keep it to yourself.
-   > **中文**：请千万保密，不要把这件事情告诉其他人。
+14. Just imagine the mess!
+   > **中文**：想想那有多乱吧！
 
-15. He was suspended from his job while management investigated the leak.
-   > **中文**：因涉嫌泄露公司机密，他被暂时停职调查。
+15. Things got out of control.
+   > **中文**：事情失控了。
 
-16. He has an obsession with reading juicy stories about celebrities.
-   > **中文**：他对追踪明星隐私有一种近乎病态的痴迷。
+16. Aside from him, everyone agreed.
+   > **中文**：除了他，大家都同意。
 
-17. The false accusation created a total mess in the workplace.
-   > **中文**：这场未经证实的风波让整家公司的氛围变得一塌糊涂。
+17. His obsession with gossip is strange.
+   > **中文**：他对八卦的痴迷很奇怪。
 
-18. Can you imagine that he would actually say something like that?
-   > **中文**：你能想象他居然会说出那样的话吗？
+18. The class was suspended today.
+   > **中文**：今天的课暂停了。
 
-19. The new employee tried hard to fit in with the office culture.
-   > **中文**：新来的员工很努力地想要融入团队的文化。
+19. They met at the food court.
+   > **中文**：他们在美食广场见面。
 
-20. What is going on here? Why is everyone whispering in the corner?
-   > **中文**：究竟发生了什么事？为什么大家都在私下讨论？
+20. The previous story was even stranger.
+   > **中文**：之前那个故事更离奇。
 
 </quiz-listening>
 
@@ -227,26 +206,40 @@ go on（发生）、fit in with（融入）、out of control（失控）这些�
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| astonished | 吃惊的；震惊的 |
+| aside from | 除了 |
+| astonished | 大吃一惊的 |
 | awkward | 尴尬的 |
-| odd | 奇怪的；古怪的 |
-| minor | 微小的；次要的 |
-| out of control | 失去控制 |
-| claim | 声称；断言 |
-| swear | 发誓；保证 |
-| imagine | 想象 |
-| suspend | 停职；暂停 |
-| fit in with | 融入；符合 |
-| hold hands | 牵手 |
-| go on | 继续；发生 |
-| tabloid | 八卦小报 |
+| before | 以前 |
+| claim | 声称 |
+| clue | 线索 |
+| did | （强调）确实 |
+| even | 甚至 / 更 |
+| fit in with | 与……相符 |
 | food court | 美食广场 |
-| clue | 线索；提示 |
-| mess | 混乱；烂摊子 |
-| obsession | 痴迷；执念 |
-| strangely enough | 说也奇怪；怪的是 |
-| keep it to yourself | 别说出去；保密 |
-| nothing but | 只有；纯粹是 |
+| go on | 发生 / 继续 |
+| hold hands | 手拉手 |
+| imagine | 想象 |
+| keep it to yourself | 保密 / 别声张 |
+| mess | 烂摊子 |
+| minor | 轻微的 |
+| nothing but | 只有 / 无非是 |
+| obsession | 痴迷 |
+| odd | 奇怪的 |
+| out of control | 失控 |
+| strangely enough | 说来奇怪 |
+| suspend | 暂停 |
+| swear | 发誓 |
+| tabloid | 八卦小报 |
+| the previous | 前一个的 |
+| I | 我 |
+| he | 他 |
+| she | 她 |
+| they | 他们 |
+| with | 与 |
+| about | 关于 |
+| just | 只是 |
+| please | 请 |
+| everyone | 每个人 |
 
 </quiz-matching>
 
@@ -254,202 +247,202 @@ go on（发生）、fit in with（融入）、out of control（失控）这些�
 
 ### 1
 
-Everyone was ____ to hear the latest gossip about the celebrity.
+____, the shy girl gave the best speech.
 
-- [x] astonished
-- [ ] aside from
-- [ ] awkward
+- [x] Strangely enough
+- [ ] Strange enough
+- [ ] Strangely enoughs
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **astonished**。
+> **解析**：句首插入语用副词短语 Strangely enough；形容词 Strange 不能修饰整句。
 
 ### 2
 
-The room felt very ____ when he bumped into his ex-girlfriend.
+I ____ warn you about this before.
 
-- [x] awkward
-- [ ] aside from
-- [ ] astonished
+- [x] did
+- [ ] do
+- [ ] done
 
-> **解析**：**awkward** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：强调过去的动作用 did + 动词原形；do 是现在时，done 不能单独作谓语。
 
 ### 3
 
-There was an ____ rumor circulating around the office today.
+I ____ I saw it with my own eyes.
 
-- [x] odd
-- [ ] aside from
-- [ ] astonished
+- [x] swear
+- [ ] swears
+- [ ] swearing
 
-> **解析**：**odd** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 I 用动词原形 swear；swears 是单三形式，swearing 不能单独作谓语。
 
 ### 4
 
-It was just a ____ misunderstanding, so don't make a big deal out of it.
+He ____ he was working late that night.
 
-- [x] minor
-- [ ] aside from
-- [ ] astonished
+- [x] claims
+- [ ] claim
+- [ ] claiming
 
-> **解析**：**minor** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 He 是单三，动词用 claims；claim 缺 s，claiming 不能单独作谓语。
 
 ### 5
 
-The gossip at the party got ____ out of control by midnight.
+We were ____ at the result of the game.
 
-- [x] completely
-- [ ] aside from
-- [ ] astonished
+- [x] astonished
+- [ ] astonish
+- [ ] astonishing
 
-> **解析**：**completely** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：描述人的感受用 astonished；astonishing 描述事物令人惊讶。
 
 ### 6
 
-He claimed that he saw the whole ____ with his own eyes.
+There was a long, ____ silence at the table.
 
-- [x] incident
-- [ ] aside from
-- [ ] astonished
+- [x] awkward
+- [ ] awkwardly
+- [ ] awkwardness
 
-> **解析**：**incident** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰名词 silence 需要形容词 awkward；awkwardly 是副词，awkwardness 是名词。
 
 ### 7
 
-I ____ I didn't tell a single soul about the confidential news.
+It was just a ____ delay, nothing serious.
 
-- [x] swear
-- [ ] aside from
-- [ ] astonished
+- [x] minor
+- [ ] minorly
+- [ ] minority
 
-> **解析**：**swear** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 delay 用形容词 minor；minority 是"少数群体"，语义不合。
 
 ### 8
 
-This ____ often publishes dramatic stories about famous people.
+The box contained nothing ____ old letters.
 
-- [x] tabloid
-- [ ] aside from
-- [ ] astonished
+- [x] but
+- [ ] and
+- [ ] or
 
-> **解析**：**tabloid** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：nothing but 是固定搭配"只有"；and 和 or 不能构成该表达。
 
 ### 9
 
-They were ____ holding hands in the mall's crowded food court.
+Something strange is going ____ in that house.
 
-- [x] spotted
-- [ ] aside from
-- [ ] astonished
+- [x] on
+- [ ] up
+- [ ] in
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **spotted**。
+> **解析**：go on 是固定短语"发生"；go up 表示"上升"，语义不合。
 
 ### 10
 
-The detective couldn't find a single ____ about who leaked the document.
+I have met her husband ____.
 
-- [x] clue
-- [ ] aside from
-- [ ] astonished
+- [x] before
+- [ ] ago
+- [ ] since
 
-> **解析**：**clue** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：现在完成时搭配副词 before；ago 只用于过去时，since 需接时间点。
 
 ### 11
 
-The whole story is nothing but ____ nonsense and wild rumors.
+The police had no ____ about the case.
 
-- [x] complete
-- [ ] aside from
-- [ ] astonished
+- [x] clue
+- [ ] claim
+- [ ] clueless
 
-> **解析**：**complete** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：no 后需要名词 clue；clueless 是形容词，claim 语义不合。
 
 ### 12
 
-____ enough, nobody noticed the strange behavior yesterday.
+The numbers don't fit in ____ the report.
 
-- [x] Strangely
-- [ ] aside from
-- [ ] astonished
+- [x] with
+- [ ] to
+- [ ] at
 
-> **解析**：**Strangely** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：fit in with 是固定搭配"与……相符"；to 和 at 不能构成该短语。
 
 ### 13
 
-Aside from a few rumors, we have no hard facts about the ____.
+This is a secret; keep it ____ yourself.
 
-- [x] company
-- [ ] aside from
-- [ ] astonished
+- [x] to
+- [ ] for
+- [ ] at
 
-> **解析**：**company** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：keep it to yourself 是固定表达"保密"；for 和 at 不能构成该短语。
 
 ### 14
 
-This is a top secret, so please keep it to ____.
+Just ____ how angry she was!
 
-- [x] yourself
-- [ ] aside from
-- [ ] astonished
+- [x] imagine
+- [ ] imagines
+- [ ] imagined
 
-> **解析**：**yourself** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Just 引导祈使句用动词原形 imagine；imagines 是单三形式。
 
 ### 15
 
-He was suspended from his job while management ____ the leak.
+The party got completely out of ____.
 
-- [x] investigated
-- [ ] aside from
-- [ ] astonished
+- [x] control
+- [ ] controlling
+- [ ] controlled
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **investigated**。
+> **解析**：out of control 是固定搭配"失控"；controlling 和 controlled 不能进入该短语。
 
 ### 16
 
-He has an ____ with reading juicy stories about celebrities.
+____ that one mistake, the plan worked well.
 
-- [x] obsession
-- [ ] aside from
-- [ ] astonished
+- [x] Aside from
+- [ ] Aside to
+- [ ] Aside on
 
-> **解析**：**obsession** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Aside from 是固定搭配"除了"；to 和 on 不能构成该短语。
 
 ### 17
 
-The false accusation created a total ____ in the workplace.
+His ____ with celebrity gossip worries me.
 
-- [x] mess
-- [ ] aside from
-- [ ] astonished
+- [x] obsession
+- [ ] obsess
+- [ ] obsessive
 
-> **解析**：**mess** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：His 后需要名词 obsession；obsess 是动词，obsessive 是形容词。
 
 ### 18
 
-Can you ____ that he would actually say something like that?
+The school ____ the trip because of the storm.
 
-- [x] imagine
-- [ ] aside from
-- [ ] astonished
+- [x] suspended
+- [ ] suspends
+- [ ] suspending
 
-> **解析**：**imagine** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：because of 说明过去的原因，用过去式 suspended；suspends 是一般现在时。
 
 ### 19
 
-The new ____ tried hard to fit in with the office culture.
+They bumped into each other at the food ____.
 
-- [x] employee
-- [ ] aside from
-- [ ] astonished
+- [x] court
+- [ ] courts
+- [ ] court's
 
-> **解析**：**employee** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：food court 是固定复合名词"美食广场"，用单数；复数和所有格不合结构。
 
 ### 20
 
-What is going on here? Why is everyone ____ in the corner?
+The previous day had been even ____.
 
-- [x] whispering
-- [ ] aside from
-- [ ] astonished
+- [x] stranger
+- [ ] strange
+- [ ] strangest
 
-> **解析**：**whispering** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：even 修饰比较级 stranger；strange 是原级，strangest 是最高级。
 
 </quiz-cloze>

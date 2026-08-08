@@ -10,56 +10,31 @@ bad guy, chase, feather, get caught, if he didn't, if he had, if he wasn't, if s
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是"想象拥有超能力"——一场关于超级英雄电影、假设和"如果……会怎样"的对话。词表里有大量虚拟语气结构：if you were, if you could, if he had, if she hadn't, would have。你可以这样畅想：What if you were a superhero? If you could have any superpower, what would it be? If he hadn't been so violent, he wouldn't have gotten caught.（如果你是超级英雄会怎样？如果你能拥有任何超能力，你想要什么？如果他不那么暴力，他就不会被抓了。）
+本单元的主题是"想象拥有超能力"，场景是讨论超级英雄电影。词表可以分成四组：英雄题材（superhero, superpower, bad guy, sequel, save the day, punch, chase, get caught, martial arts）、条件句骨架（if he didn't, if he had, if he wasn't, if she hadn't, if you could, if you were, would have, what if）、动物与细节（wolf, tail, feather, poison）、以及评价（suspicious, violent, it, over and over）。拼起来就是一段脑洞对话：What if you had a superpower? If you were a superhero, you could save the day over and over.
 
-bad guy, chase, punch, save the day 是超级英雄叙事的经典元素。martial arts（武术）、wolf（狼）、feather（羽毛）暗示各种超能力来源。suspicious（可疑的）和 get caught（被抓）给故事加了冲突。sequel（续集）让对话从电影延伸到"下一部会怎样"。
+语法主线是虚拟语气条件句。if he had / if she hadn't 搭配 would have 表示对过去的假设：If he had known, he would have helped.（他要是知道就会帮忙了。）if you were / if you could 表示与现在相反的假设：If you were invisible, what would you do? what if 则是提出假设的万能开头。
 
-学完本单元，你能用英语进行丰富的假设性对话，讨论超能力、电影情节，并熟练使用虚拟语气。
+学完这个单元，你能用英语讨论超级英雄电影、提出各种假设情景，并使用虚拟语气谈论"如果"。
 
 ## Tips
 
-- **what if** — "如果……会怎样"，用来提出假设。What if you could fly? / What if he finds out? 比 if 单独使用更有"畅想/担忧"的语气。后面可以接任何时态，取决于假设的时间。
+- **superhero / superpower / sequel / save the day** — 英雄题材词。super- 前缀表示"超级"：superhero, superpower。sequel = 续集；save the day = 扭转乾坤、拯救局面。
 
-- **if you were / if you could** — 虚拟语气（第二条件句），表示与现在事实相反的假设。If you were invisible, what would you do? 注意：虚拟语气中 be 动词统一用 were，不用 was（正式用法）。
+- **bad guy / punch / chase / get caught** — 动作片词。bad guy = 坏蛋；punch = 用拳打；chase = 追逐；get caught = 被抓：The bad guy got caught.
 
-- **would have** — 虚拟语气（第三条件句）的结果部分，表示"本来会……"。If she hadn't left, he would have saved the day. 结构：would have + 过去分词。注意 have 不能省略。
+- **if he had / if she hadn't / would have** — 过去虚拟三件套。If he had trained harder（如果他当时更努力训练），主句用 would have + 过去分词：he would have won. if she hadn't 是过去虚拟的否定：If she hadn't called for help...
 
-- **if he had / if she hadn't** — 虚拟语气（第三条件句）的条件部分，表示与过去事实相反。If he had listened, things would be different. 结构：if + 过去完成时。注意 had 在这里是助动词。
+- **if he didn't / if he wasn't / if you were / if you could** — 现在虚拟。if he didn't have the suit（如果他没有那套战衣）；if he wasn't so brave；if you were 中 were 可用于所有主语（虚拟语气标志）；if you could fly（如果你能飞）。
 
-- **save the day** — "力挽狂澜、拯救局面"。The superhero saved the day at the last minute. 非常地道的习语，不限于超英语境：Thanks for helping—you really saved the day!
+- **what if** — 假设万能开头：What if the villain wins? 后接完整句子。
 
-- **superpower** — "超能力；超级大国"。在超英语境下 = 超能力。注意一词两义：China is a superpower.（中国是超级大国。）构词：super-（超级）+ power（力量）。
+- **wolf / tail / feather / poison** — 动物与武器词。wolf 是狼；tail 是尾巴；feather 是羽毛；poison 是毒药，也可作动词。轻如羽毛：as light as a feather。
 
-- **superhero** — "超级英雄"。复数 superheroes（注意变 y 为 i 加 es）。女英雄有时说 superheroine，但现在 superhero 也通用。构词：super- + hero。
+- **martial arts / violent** — martial arts = 武术（martial 来自罗马战神 Mars）；violent = 暴力的：a violent scene。
 
-- **bad guy** — "坏人、反派"，比 villain 更口语。the bad guy in the movie。反义词 good guy。注意 bad guy 是两个词，不是 badguy。在超英电影中，bad guy = 反派。
-
-- **get caught** — "被抓、被抓住"。The bad guy got caught. / Don't get caught! 比 be arrested 更口语、更通用。catch 的过去分词是 caught，注意拼写。
-
-- **martial arts** — "武术"。搭配：practice martial arts / a martial arts master。注意 martial 的发音：/ˈmɑːrʃəl/，不是 /ˈmɑːrtiəl/。常见类型：karate（空手道）、kung fu（功夫）、taekwondo（跆拳道）。
-
-- **over and over** — "反复地、一次又一次"。He watched the movie over and over. 比 again and again 更有"循环往复"的画面感。也可以说 over and over again。
-
-- **suspicious** — "可疑的、多疑的"。a suspicious person / I'm suspicious of him。名词 suspicion，动词 suspect。注意 -ious 结尾。比 strange 更强调"让人怀疑有坏事"。
-
-- **violent** — "暴力的"。a violent scene / a violent criminal。名词 violence。比 aggressive 更强调"造成身体伤害"。注意发音：/ˈvaɪələnt/，两个音节。
-
-- **chase** — "追逐、追赶"。The hero chased the bad guy through the city. 比 run after 更有"紧追不舍"的紧张感。名词：a car chase（追车戏）。动作片必备词。
-
-- **punch** — "用拳猛击、一拳"。He punched the villain. / a powerful punch。比 hit 更具体，专指"用拳头打"。名词和动词同形。注意 -ch 发音：/pʌntʃ/。
-
-- **sequel** — "续集"。the sequel to the movie / a terrible sequel。比 part 2 更正式。注意拼写：s-e-q-u-e-l，不是 sequal。反义词 prequel（前传）。
-
-- **wolf** — "狼"。复数 wolves（注意 f → ves）。搭配：a lone wolf（独狼）、cry wolf（狼来了）。在超英语境中，wolf 常与变身能力相关。注意和 dog 的区分。
-
-- **feather** — "羽毛"。搭配：light as a feather（轻如鸿毛）。在超英语境中可能暗示"飞行"或"轻"的能力。注意 -ther 发音：/ˈfeðər/，th 发浊音。
-
-- **tail** — "尾巴"。搭配：a wolf's tail / wag its tail。在超英语境中可能指"有尾巴的能力"或"跟踪"（tail someone = 跟踪某人）。一词两义，看语境。
-
-- **poison** — "毒药、下毒"。在超英电影中，poison 常是反派的武器。a poison dart / poison gas。形容词 poisonous。注意和 venom（动物毒液）区分：poison 是广义的毒。
+- **suspicious / it / over and over** — suspicious = 可疑的：a suspicious man；it 可指代天气、时间或情境；over and over = 一遍又一遍：watch it over and over。
 
 ## 练习
 
@@ -77,176 +52,190 @@ bad guy, chase, punch, save the day 是超级英雄叙事的经典元素。marti
 
 <quiz-sentence-builder>
 
-1. **中文**：如果你拥有选择任何超能力的特权，那会怎样？
-   **英文**：What if you had the power to choose any superpower?
-   > **解析**：what if 意为如果……会怎样。
+1. **中文**：如果你有超能力，你想做什么？
+   **英文**：What if you had a superpower?
+   > **解析**：What if + 过去式 had 提出与现在相反的假设，是虚拟语气的口语形式。
 
-2. **中文**：在电影的最后时刻，超级英雄挽救了局面。
-   **英文**：At the last minute of the movie, the superhero saved the day.
-   > **解析**：save the day 意为挽救局面。
+2. **中文**：如果你是超级英雄，你会拯救世界。
+   **英文**：If you were a superhero, you would save the world.
+   > **解析**：if you were 是虚拟语气（were 可用于所有人称）；主句用 would + 动词原形。
 
-3. **中文**：如果你能拥有一种超能力，你会选哪一种？
-   **英文**：If you could have one superpower, which one would you choose?
-   > **解析**：superpower 意为超能力。
+3. **中文**：如果你能飞，你会去哪里？
+   **英文**：If you could fly, where would you go?
+   > **解析**：if you could 表示虚拟能力；主句用 would go 提问。
 
-4. **中文**：那个反派试图逃跑，但超级英雄抓住了他。
-   **英文**：The bad guy tried to run away, but the superhero caught him.
-   > **解析**：bad guy 意为坏人、反派。
+4. **中文**：如果他当时更勇敢，他就会赢了。
+   **英文**：If he had been braver, he would have won.
+   > **解析**：if he had been 是过去虚拟；主句用 would have + 过去分词 won。
 
-5. **中文**：如果他不那么冲动，他就不会被抓了。
-   **英文**：If he had been careful, he wouldn't have gotten caught.
-   > **解析**：get caught 意为被抓。
+5. **中文**：如果她没有呼叫支援，情况会更糟。
+   **英文**：If she hadn't called for backup, it would have been worse.
+   > **解析**：if she hadn't 是过去虚拟的否定形式；主句用 would have been。
 
-6. **中文**：这位英雄从小就每天练习武术。
-   **英文**：The hero practiced martial arts every day since childhood.
-   > **解析**：martial arts 意为武术。
+6. **中文**：如果他没有那套战衣，他就不是英雄了。
+   **英文**：If he didn't have the suit, he wouldn't be a hero.
+   > **解析**：if he didn't 是与现在相反的假设；主句用 wouldn't be。
 
-7. **中文**：他反复观看了这部惊险的超级英雄电影。
-   **英文**：He watched this exciting superhero movie over and over.
-   > **解析**：over and over 意为反复地。
+7. **中文**：如果他当时不在场，谁也不会发现真相。
+   **英文**：If he wasn't there, nobody would know the truth.
+   > **解析**：if he wasn't 是口语化的现在虚拟；主句用 would know。
 
-8. **中文**：警官注意到那个在街角徘徊的可疑男子。
-   **英文**：The officer noticed a suspicious man walking on the street corner.
-   > **解析**：suspicious 意为可疑的。
+8. **中文**：坏蛋终于被抓了。
+   **英文**：The bad guy finally got caught.
+   > **解析**：get caught 是被动结构"被抓"；got 是过去式。
 
-9. **中文**：电影里暴力的打斗场面不适合幼童观看。
-   **英文**：Violent fight scenes in the movie are not suitable for young kids.
-   > **解析**：violent 意为暴力的。
+9. **中文**：超级英雄追着狼跑。
+   **英文**：The superhero chased the wolf.
+   > **解析**：chased 是 chase 的过去式；the wolf 作宾语。
 
-10. **中文**：英雄在繁忙的市中心街道上追赶反派。
-   **英文**：The hero had to chase the villain through busy city streets.
-   > **解析**：chase 意为追逐、追赶。
+10. **中文**：他一拳打倒了坏蛋。
+   **英文**：He punched the bad guy down.
+   > **解析**：punched 是过去式；punch down 可拆分，宾语放中间。
 
-11. **中文**：他一拳打倒了那个袭击者，拯救了同伴。
-   **英文**：He knocked down the attacker with a heavy punch.
-   > **解析**：punch 意为一拳、用拳猛击。
+11. **中文**：又一次，她拯救了局面。
+   **英文**：Once again, she saved the day.
+   > **解析**：save the day 是固定表达"扭转乾坤"；saved 是过去式。
 
-12. **中文**：这部卖座电影的续集将于明年夏天上映。
-   **英文**：The sequel to the hit movie will come out next summer.
-   > **解析**：sequel 意为续集。
+12. **中文**：那根羽毛轻得像空气。
+   **英文**：The feather is as light as air.
+   > **解析**：as... as... 是同级比较结构；feather 作主语。
 
-13. **中文**：那个角色的超能力来源于神秘狼的基因。
-   **英文**：That character's power came from a mysterious wolf.
-   > **解析**：wolf 意为狼。
+13. **中文**：续集比第一部更暴力。
+   **英文**：The sequel is more violent than the first one.
+   > **解析**：more violent 是多音节形容词的比较级；than 引出比较对象。
 
-14. **中文**：她的服饰像羽毛一样轻盈，帮助她飞翔。
-   **英文**：Her costume was as light as a feather, helping her fly.
-   > **解析**：feather 意为羽毛。
+14. **中文**：他练武术。
+   **英文**：He practices martial arts.
+   > **解析**：martial arts 是固定词组"武术"；practices 是单三形式。
 
-15. **中文**：邪恶的反派向水供应系统中投毒。
-   **英文**：The evil villain put poison into the water supply.
-   > **解析**：poison 意为毒药。
+15. **中文**：那个人看起来很可疑。
+   **英文**：That man looks suspicious.
+   > **解析**：looks 是系动词；suspicious 作表语。
 
-16. **中文**：如果她是隐形人，她就能偷听到阴谋。
-   **英文**：If she were invisible, she could overhear the secret plan.
-   > **解析**：if she were 意为如果她是……（虚拟语气）。
+16. **中文**：毒药藏在尾巴里。
+   **英文**：The poison is hidden in the tail.
+   > **解析**：is hidden 是被动语态；in the tail 是地点状语。
 
-17. **中文**：如果他听取了警告，他本来能拯救这座城市。
-   **英文**：If he had listened to advice, he would have saved the city.
-   > **解析**：would have 意为本来会……
+17. **中文**：我看了一遍又一遍。
+   **英文**：I watched it over and over.
+   > **解析**：over and over 作状语"一遍又一遍"；it 指代电影。
 
-18. **中文**：如果你是超级英雄，你会隐藏真实身份吗？
-   **英文**：If you were a superhero, would you hide your real identity?
-   > **解析**：if you were 意为如果你是……
+18. **中文**：要是反派赢了怎么办？
+   **英文**：What if the villain wins?
+   > **解析**：What if + 完整句子提出假设情景。
 
-19. **中文**：如果她没有及时离开，她就会被困住。
-   **英文**：If she hadn't left in time, she would have been trapped.
-   > **解析**：if she hadn't 意为如果她没有……
+19. **中文**：这部电影是关于一只会飞的狼。
+   **英文**：The movie is about a flying wolf.
+   > **解析**：is about 表示"关于"；flying 作定语修饰 wolf。
 
-20. **中文**：那头野兽摆动着长尾巴，警惕地看着四周。
-   **英文**：The creature swung its long tail and looked around carefully.
-   > **解析**：tail 意为尾巴。
+20. **中文**：它太精彩了。
+   **英文**：It is so exciting.
+   > **解析**：It 指代电影；exciting 描述事物"精彩的"。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. What if you had the power to choose any superpower?
-   > **中文**：如果你拥有选择任何超能力的特权，那会怎样？
+1. What if you could turn invisible?
+   > **中文**：如果你能隐身会怎样？
 
-2. At the last minute of the movie, the superhero saved the day.
-   > **中文**：在电影的最后时刻，超级英雄挽救了局面。
+2. If you were a superhero, who would you help?
+   > **中文**：如果你是超级英雄，你会帮助谁？
 
-3. If you could have one superpower, which one would you choose?
-   > **中文**：如果你能拥有一种超能力，你会选哪一种？
+3. If he had the ring, he would be unstoppable.
+   > **中文**：如果他有那枚戒指，他就无敌了。
 
-4. The bad guy tried to run away, but the superhero caught him.
-   > **中文**：那个反派试图逃跑，但超级英雄抓住了他。
+4. If she hadn't escaped, the story would end there.
+   > **中文**：如果她没逃走，故事就在那里结束了。
 
-5. If he had been careful, he wouldn't have gotten caught.
-   > **中文**：如果他不那么冲动，他就不会被抓了。
+5. If he wasn't afraid, he would jump.
+   > **中文**：如果他不怕，他就会跳下去。
 
-6. The hero practiced martial arts every day since childhood.
-   > **中文**：这位英雄从小就每天练习武术。
+6. If he didn't wear the mask, they would recognize him.
+   > **中文**：如果他不戴面具，他们就会认出他。
 
-7. He watched this exciting superhero movie over and over.
-   > **中文**：他反复观看了这部惊险的超级英雄电影。
+7. He would have saved everyone.
+   > **中文**：他本来可以救下所有人。
 
-8. The officer noticed a suspicious man walking on the street corner.
-   > **中文**：警官注意到那个在街角徘徊的可疑男子。
+8. The bad guy got caught at last.
+   > **中文**：坏蛋终于被抓了。
 
-9. Violent fight scenes in the movie are not suitable for young kids.
-   > **中文**：电影里暴力的打斗场面不适合幼童观看。
+9. The wolf chased him through the forest.
+   > **中文**：狼穿过森林追他。
 
-10. The hero had to chase the villain through busy city streets.
-   > **中文**：英雄在繁忙的市中心街道上追赶反派。
+10. She punched the robot hard.
+   > **中文**：她重重地打了机器人一拳。
 
-11. He knocked down the attacker with a heavy punch.
-   > **中文**：他一拳打倒了那个袭击者，拯救了同伴。
+11. The team saved the day again.
+   > **中文**：团队又一次拯救了局面。
 
-12. The sequel to the hit movie will come out next summer.
-   > **中文**：这部卖座电影的续集将于明年夏天上映。
+12. A feather fell from the sky.
+   > **中文**：一根羽毛从天空飘落。
 
-13. That character's power came from a mysterious wolf.
-   > **中文**：那个角色的超能力来源于神秘狼的基因。
+13. The sequel comes out next year.
+   > **中文**：续集明年上映。
 
-14. Her costume was as light as a feather, helping her fly.
-   > **中文**：她的服饰像羽毛一样轻盈，帮助她飞翔。
+14. He knows many styles of martial arts.
+   > **中文**：他懂很多种武术。
 
-15. The evil villain put poison into the water supply.
-   > **中文**：邪恶的反派向水供应系统中投毒。
+15. His plan sounds suspicious.
+   > **中文**：他的计划听起来可疑。
 
-16. If she were invisible, she could overhear the secret plan.
-   > **中文**：如果她是隐形人，她就能偷听到阴谋。
+16. The snake's poison acts fast.
+   > **中文**：那条蛇的毒发作得很快。
 
-17. If he had listened to advice, he would have saved the city.
-   > **中文**：如果他听取了警告，他本来能拯救这座城市。
+17. The dog wagged its tail.
+   > **中文**：那条狗摇了摇尾巴。
 
-18. If you were a superhero, would you hide your real identity?
-   > **中文**：如果你是超级英雄，你会隐藏真实身份吗？
+18. The fight scene was too violent.
+   > **中文**：打斗场面太暴力了。
 
-19. If she hadn't left in time, she would have been trapped.
-   > **中文**：如果她没有及时离开，她就会被困住。
+19. She watched the film over and over.
+   > **中文**：她把这部电影看了一遍又一遍。
 
-20. The creature swung its long tail and looked around carefully.
-   > **中文**：那头野兽摆动着长尾巴，警惕地看着四周。
+20. It was the best superhero movie ever.
+   > **中文**：那是有史以来最棒的超级英雄电影。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| what if | 如果……会怎样 |
-| save the day | 挽救局面；力挽狂澜 |
-| superpower | 超能力 |
-| superhero | 超级英雄 |
-| bad guy | 坏人；反派 |
-| get caught | 被抓；被抓住 |
-| martial arts | 武术 |
-| over and over | 反复地；一次又一次 |
-| suspicious | 可疑的；多疑的 |
-| violent | 暴力的 |
-| chase | 追逐；追赶 |
-| punch | 用拳猛击；一拳 |
-| sequel | 续集 |
-| wolf | 狼 |
+| --- | --- |
+| bad guy | 坏蛋 |
+| chase | 追逐 |
 | feather | 羽毛 |
+| get caught | 被抓 |
+| if he didn't | 如果他没有 |
+| if he had | 如果他当时有 |
+| if he wasn't | 如果他不是 |
+| if she hadn't | 如果她当时没有 |
+| if you could | 如果你能 |
+| if you were | 如果你是 |
+| it | 它 |
+| martial arts | 武术 |
+| over and over | 一遍又一遍 |
+| poison | 毒药 |
+| punch | 用拳打 |
+| save the day | 拯救局面 |
+| sequel | 续集 |
+| superhero | 超级英雄 |
+| superpower | 超能力 |
+| suspicious | 可疑的 |
 | tail | 尾巴 |
-| poison | 毒药；下毒 |
-| would have | 本来会…… |
-| if you were | 如果你是…… |
-| if you could | 如果你能…… |
+| violent | 暴力的 |
+| what if | 如果……怎么办 |
+| wolf | 狼 |
+| would have | 本来会 |
+| he | 他 |
+| she | 她 |
+| they | 他们 |
+| who | 谁 |
+| through | 穿过 |
+| again | 又 |
+| ever | 曾经 |
+| out | 上映 |
+| hard | 重重地 |
 
 </quiz-matching>
 
@@ -254,202 +243,202 @@ bad guy, chase, punch, save the day 是超级英雄叙事的经典元素。marti
 
 ### 1
 
-What if you had the power to choose any ____?
+What ____ you had your own superhero team?
 
-- [x] superpower
-- [ ] bad guy
-- [ ] chase
+- [x] if
+- [ ] is
+- [ ] of
 
-> **解析**：**superpower** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：What if + 句子表示"如果……会怎样"；is 和 of 不能引导该结构。
 
 ### 2
 
-At the last minute of the movie, the ____ saved the day.
+If you ____ invisible, you could go anywhere.
 
-- [x] superhero
-- [ ] bad guy
-- [ ] chase
+- [x] were
+- [ ] was being
+- [ ] are
 
-> **解析**：**superhero** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：与现在相反的虚拟语气用 were（所有人称通用）；are 是真实条件。
 
 ### 3
 
-If you could have one ____, which one would you choose?
+If you ____ read minds, what would you do?
 
-- [x] superpower
-- [ ] bad guy
-- [ ] chase
+- [x] could
+- [ ] can
+- [ ] could to
 
-> **解析**：**superpower** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：虚拟能力用 if you could + 动词原形；can 用于真实条件，could to 结构错误。
 
 ### 4
 
-The bad guy tried to run away, but the ____ caught him.
+If he ____ trained more, he would have won.
 
-- [x] superhero
-- [ ] bad guy
-- [ ] chase
+- [x] had
+- [ ] has
+- [ ] would
 
-> **解析**：**superhero** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：过去虚拟条件句用 if he had + 过去分词；has 是现在时。
 
 ### 5
 
-If he had been careful, he ____ have gotten caught.
+If she ____ called for help, the mission would have failed.
 
-- [x] wouldn't
-- [ ] bad guy
-- [ ] chase
+- [x] hadn't
+- [ ] hasn't
+- [ ] didn't have
 
-> **解析**：**wouldn't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：过去虚拟的否定用 hadn't + 过去分词；hasn't 是现在完成时。
 
 ### 6
 
-The hero ____ martial arts every day since childhood.
+If he ____ the magic ring, he would be powerless.
 
-- [x] practiced
-- [ ] bad guy
-- [ ] chase
+- [x] didn't have
+- [ ] doesn't has
+- [ ] didn't had
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **practiced**。
+> **解析**：现在虚拟的否定用 didn't + 动词原形 have；didn't had 是常见错误。
 
 ### 7
 
-He watched this exciting ____ movie over and over.
+If he ____ so careless, the bad guy wouldn't escape.
 
-- [x] superhero
-- [ ] bad guy
-- [ ] chase
+- [x] wasn't
+- [ ] weren't being to
+- [ ] isn't
 
-> **解析**：**superhero** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：口语现在虚拟可用 if he wasn't；isn't 是真实条件，不合假设语境。
 
 ### 8
 
-The officer noticed a ____ man walking on the street corner.
+The thief finally got ____ by the police.
 
-- [x] suspicious
-- [ ] bad guy
-- [ ] chase
+- [x] caught
+- [ ] catch
+- [ ] catching
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **suspicious**。
+> **解析**：get caught 是被动结构，用过去分词 caught；其余两项不合结构。
 
 ### 9
 
-____ fight scenes in the movie are not suitable for young kids.
+The hero ____ the villain through the city.
 
-- [x] Violent
-- [ ] bad guy
+- [x] chased
 - [ ] chase
+- [ ] chasing
 
-> **解析**：**Violent** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去事件用过去式 chased；其余两项不能单独作谓语。
 
 ### 10
 
-The hero had to ____ the villain through busy city streets.
+She ____ the door open with one hit.
 
-- [x] chase
-- [ ] bad guy
-- [ ] feather
+- [x] punched
+- [ ] punch
+- [ ] punching
 
-> **解析**：**chase** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：with one hit 说明过去的动作，用过去式 punched。
 
 ### 11
 
-He knocked down the attacker with a heavy ____.
+Just in time, the team saved the ____.
 
-- [x] punch
-- [ ] bad guy
-- [ ] chase
+- [x] day
+- [ ] days
+- [ ] daily
 
-> **解析**：**punch** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：save the day 是固定表达，day 用单数；daily 是形容词或副词。
 
 ### 12
 
-The ____ to the hit movie will come out next summer.
+The hero can fly as lightly as a ____.
 
-- [x] sequel
-- [ ] bad guy
-- [ ] chase
+- [x] feather
+- [ ] feather's
+- [ ] feathered
 
-> **解析**：**sequel** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：as a feather 是比喻"像羽毛一样"；所有格和形容词形式不合结构。
 
 ### 13
 
-That character's power came from a mysterious ____.
+Fans say the ____ is better than the original film.
 
-- [x] wolf
-- [ ] bad guy
-- [ ] chase
+- [x] sequel
+- [ ] sequence
+- [ ] sequels
 
-> **解析**：**wolf** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：指"续集"用 sequel；sequence 是"顺序"，复数与 the 的单数指代不符。
 
 ### 14
 
-Her costume was as light as a ____, helping her fly.
+The hero learned ____ from an old master.
 
-- [x] feather
-- [ ] bad guy
-- [ ] chase
+- [x] martial arts
+- [ ] martials art
+- [ ] martial art's
 
-> **解析**：**feather** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：martial arts 是固定词组"武术"；其余两项形式错误。
 
 ### 15
 
-The evil villain put ____ into the water supply.
+His story sounds really ____.
 
-- [x] poison
-- [ ] bad guy
-- [ ] chase
+- [x] suspicious
+- [ ] suspicion
+- [ ] suspiciously
 
-> **解析**：**poison** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：sounds 是系动词，后接形容词 suspicious；suspicion 是名词。
 
 ### 16
 
-If she were ____, she could overhear the secret plan.
+The evil scientist created a new ____.
 
-- [x] invisible
-- [ ] bad guy
-- [ ] chase
+- [x] poison
+- [ ] poisoned
+- [ ] poisoning
 
-> **解析**：**invisible** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a new 后需要名词 poison；poisoned 是过去式，poisoning 是动名词。
 
 ### 17
 
-If he had ____ to advice, he would have saved the city.
+The monster had a long, dark ____.
 
-- [x] listened
-- [ ] bad guy
-- [ ] chase
+- [x] tail
+- [ ] tails
+- [ ] tailed
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **listened**。
+> **解析**：a long 后接单数名词 tail；tailed 是形容词"有尾巴的"。
 
 ### 18
 
-If you were a ____, would you hide your real identity?
+Parents complained that the film was too ____.
 
-- [x] superhero
-- [ ] bad guy
-- [ ] chase
+- [x] violent
+- [ ] violence
+- [ ] violently
 
-> **解析**：**superhero** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后需要形容词 violent；violence 是名词，violently 是副词。
 
 ### 19
 
-If she hadn't left in time, she would have been ____.
+The kids watched the episode over and ____.
 
-- [x] trapped
-- [ ] bad guy
-- [ ] chase
+- [x] over
+- [ ] again to
+- [ ] onto
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **trapped**。
+> **解析**：over and over 是固定搭配"一遍又一遍"；其余两项结构错误。
 
 ### 20
 
-The creature swung its long ____ and looked around carefully.
+If the hero had arrived sooner, he ____ have stopped the bomb.
 
-- [x] tail
-- [ ] bad guy
-- [ ] chase
+- [x] would
+- [ ] will
+- [ ] would to
 
-> **解析**：**tail** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：过去虚拟主句用 would have + 过去分词；will 用于真实条件，would to 结构错误。
 
 </quiz-cloze>

@@ -10,40 +10,39 @@ asleep, awake, bored, change, comb, down, dress, exercise, fall asleep, fallen a
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"帮助他人完成日常事务"展开。核心是日常表达：Have you fallen asleep already?（你已经睡着了吗？）、The phone rang and rang, but nobody answered.（电话一直响，但没人接。）、Help me get dressed—I'm so stressed!（帮我穿衣服——我压力好大！）、She smiled and gave me a hug and a kiss.（她微笑着给了我一个拥抱和亲吻。）。
+本单元的主题是"帮助他人处理日常事务"，词表可以分成三组：早晚起居（asleep, awake, fall asleep, fallen asleep, dress, shave, comb, toothpaste, exercise, relax）、情绪与关怀（bored, scared, stressed, uncomfortable, help, hug, kiss, smile）、以及动作与杂项（ring, rang, rung, change, down, lots of, series）。拼起来就是一天的照料日常：I wake up and dress. I comb my hair. The phone rang while I was helping him relax.
 
-词表里有日常动作（comb, shave, dress, exercise）和感受词汇（bored, scared, stressed, uncomfortable）。你可以练习：I'm awake but still tired. / Put toothpaste on the brush. / I fell asleep during the series. / Ring the bell!
+语法主线是不规则动词 ring 的三态变化：ring → rang → rung。rang 是过去式（The phone rang.），rung 是过去分词，要与 have/has 或 be 连用（Has the alarm rung?）。另一条主线是 fall asleep 与 be asleep 的区分：fall asleep 强调"入睡"这个动作，asleep 只作表语不作定语——✗ an asleep baby → ✓ a sleeping baby。fallen asleep 则是完成时态：He has fallen asleep.
 
-fall asleep（入睡）→ fallen asleep（已入睡）。ring → rang → rung（响铃）。
+学完这单元，你能用英语描述一天的起居流程、描述人的状态（困了、无聊、紧张），还能讲述电话铃响时正在做什么。
 
 ## Tips
 
-- **fall asleep / fallen asleep / asleep** — 入睡 / 已入睡 / 睡着的。搭配：fall asleep, have fallen asleep, be asleep。例句：I fell asleep on the sofa. / Has she fallen asleep? / The baby is asleep. 注意 asleep 只能作表语（不说 ✗ an asleep baby）。
+- **asleep / awake** — 两个"a-"开头的状态形容词，只作表语：He is asleep.（他睡着了。）I am awake.（我醒着。）不能放在名词前作定语。反义词正好是一对：asleep ↔ awake。
 
-- **awake / bored / stressed** — 醒着的 / 无聊的 / 有压力的。搭配：stay awake, feel bored, feel stressed。例句：I'm awake but tired. / I'm bored—let's do something. / I'm so stressed about work. 注意 bored 修饰人，boring 修饰事物。
+- **fall asleep / fallen asleep** — fall asleep 是"入睡"的动作：I fell asleep at ten. fallen asleep 是过去分词，用于完成时：He has fallen asleep on the sofa. 注意 ✗ I slept asleep → 直接说 I fell asleep。
 
-- **ring / rang / rung** — 响铃。搭配：the phone rang, ring the bell, has rung。例句：The phone rang three times. / Ring the doorbell! / The bell has rung. 注意 ring → rang → rung（不规则）。
+- **ring / rang / rung** — 铃响，不规则三态。现在时 The bell rings.，过去式 The phone rang.，过去分词与 have 连用：Has the alarm rung? 与名词"戒指"同形：a gold ring。
 
-- **comb / shave / dress** — 梳（头）/ 刮（胡子）/ 穿衣。搭配：comb your hair, shave, get dressed。例句：Comb your hair before school. / He shaves every morning. / Get dressed quickly! 注意这些是日常洗漱动词。
+- **dress / shave / comb** — 三个梳洗动词。dress 穿衣，常反身用 dress oneself 或用 get dressed。shave 刮胡子。comb 用梳子梳，既是动词也是名词（a comb）。顺序上：get dressed → shave → comb your hair。
 
-- **hug / kiss / smile** — 拥抱 / 亲吻 / 微笑。搭配：give a hug, give a kiss, smile at。例句：She gave me a hug. / He kissed her goodbye. / She smiled at me. 注意这些既可作名词也可作动词。
+- **toothpaste** — 牙膏，tooth + paste（膏状物）复合词。不可数：some toothpaste。同类还有 toothbrush（牙刷）。
 
-- **toothpaste / exercise / relax** — 牙膏 / 锻炼 / 放松。搭配：put toothpaste on, do exercise, relax and rest。例句：Put some toothpaste on your brush. / Exercise helps you relax. / Just relax! 注意 toothpaste 不可数。
+- **exercise / relax** — exercise 锻炼，可作动词也可作名词：I exercise every morning. relax 放松，名词是 relaxation。帮人放松常说 help someone relax。
 
-- **scared / uncomfortable** — 害怕的 / 不舒服的。搭配：feel scared, scared of, uncomfortable。例句：The child is scared of the dark. / This chair is uncomfortable. 注意 scared = afraid（更口语）。
+- **bored / scared / stressed / uncomfortable** — 四个 -ed 感受形容词，描述人的内心状态：I am bored / scared / stressed. uncomfortable 是"不舒服的"，comfortable 的反义词，加前缀 un-。注意 -ed 形容词描述人，-ing 形容词描述事物：a boring series（一部无聊的剧）。
 
-- **help / change / series** — 帮助 / 换 / 连续剧。搭配：help me, change clothes, a TV series。例句：Help me get dressed. / I need to change my clothes. / I watched a whole series last night. 注意 series 单复数同形。
+- **help** — 帮助，句型灵活：help someone (to) do something。I help him dress. 名词用法：Need some help?
 
-- **lots of / down / help** — 很多 / 向下 / 帮助。搭配：lots of things, sit down, Can you help me? 例句：I have lots of things to do. / Sit down and relax. / Can you help me get dressed? 注意 lots of = a lot of。
+- **hug / kiss / smile** — 三个表达亲昵与友善的词。hug 拥抱，kiss 亲吻，smile 微笑（既可作动词也可作名词：She gave me a smile）。安慰紧张的人常用：Hug her and smile.
 
-- **rang / rung / ring** — 响了 / 响过 / 响。搭配：the alarm rang, has rung, ring the alarm。例句：The alarm rang at six. / The bell has already rung. / Ring me later. 注意区分 rang（过去式）和 rung（过去分词）。
+- **change / down** — change 变化、更换：change clothes（换衣服）。down 向下，与 up 相对：Sit down. / Calm down.（冷静下来。）
 
-- **asleep / awake / bored** — 睡着 / 醒着 / 无聊。搭配：fall asleep, wide awake, feel bored。例句：The baby fell asleep. / I'm wide awake at 3 AM. / I'm bored—nothing to do. 注意 wide awake = 完全清醒。
+- **lots of** — "许多"，修饰可数复数和不可数名词：lots of homework, lots of friends。口语里和 a lot of 通用。
 
-- **stressed / scared / uncomfortable** — 压力 / 害怕 / 不适。搭配：feel stressed, scared of, uncomfortable。例句：I'm stressed about the exam. / She's scared of spiders. / These shoes are uncomfortable.
+- **series** — 系列、剧集，单复数同形：a TV series / two series。注意它看着像复数，但 a series 是单数：This series is fun.
 
 ## 练习
 
@@ -61,149 +60,149 @@ fall asleep（入睡）→ fallen asleep（已入睡）。ring → rang → rung
 
 <quiz-sentence-builder>
 
-1. **中文**：晨间作息中，他刮了胡子，梳了头发，并用牙膏刷了牙。  
-   **英文**：In his morning routine, he shaved, combed, and used toothpaste.
-   > **解析**：shave 表示“刮胡子”；comb 表示“梳头”；toothpaste 表示“牙膏”。
+1. **中文**：他睡着了。
+   **英文**：He is asleep.
+   > **解析**：asleep 是表语形容词，放在 is 之后；不能放在名词前作定语。
 
-2. **中文**：穿好衣服后，他微笑着向妻子道别并给她一个吻。  
-   **英文**：After getting dressed, he smiled and gave his wife a kiss.
-   > **解析**：smile / smiled 表示“微笑”；kiss 表示“吻/亲吻”；get dressed 表示“穿衣服”。
+2. **中文**：我昨晚十点入睡的。
+   **英文**：I fell asleep at ten last night.
+   > **解析**：fell 是 fall 的过去式；fall asleep 是"入睡"的固定搭配。
 
-3. **中文**：在经历了充满压力的工作后，看一部剧集有助于放松。  
-   **英文**：After a stressed day, watching a TV series helps him relax.
-   > **解析**：stressed 表示“感到有压力的”；series 表示“连续剧/系列”；relax 表示“放松”。
+3. **中文**：他已经在沙发上睡着了。
+   **英文**：He has fallen asleep on the sofa.
+   > **解析**：has fallen 是现在完成时；fallen asleep 表示入睡状态的延续。
 
-4. **中文**：他听着闹钟响起，觉得很困并再次入睡。  
-   **英文**：He heard the alarm ring and fell asleep again in bed.
-   > **解析**：ring / rang / rung 表示“响/鸣”；fall asleep / fallen asleep 表示“入睡/睡着”。
+4. **中文**：电话刚才响了。
+   **英文**：The phone rang just now.
+   > **解析**：rang 是 ring 的过去式；just now 表示刚才，与过去时连用。
 
-5. **中文**：那个感到害怕的小男孩在不舒服的床上翻来覆去。  
-   **英文**：The scared boy felt bored and uncomfortable on the hard bed.
-   > **解析**：scared 表示“害怕的”；bored 表示“厌烦的/无聊的”；uncomfortable 表示“不舒服的”。
+5. **中文**：闹钟响了吗？
+   **英文**：Has the alarm rung?
+   > **解析**：Has + 过去分词 rung 构成现在完成时疑问句。
 
-6. **中文**：大量运动有助于人们晚上更容易睡着。  
-   **英文**：Lots of exercise helps people stay fit and sleep well.
-   > **解析**：lots of 表示“大量的/许多的”；exercise 表示“运动”。
+6. **中文**：我每天早晨起床后穿衣服。
+   **英文**：I get dressed every morning.
+   > **解析**：get dressed 是"穿好衣服"的固定表达；every morning 是时间状语。
 
-7. **中文**：拥抱和微笑能让人消除压力感。  
-   **英文**：A warm hug and smile can make anyone feel less stressed.
-   > **解析**：hug 表示“拥抱”；smile 表示“微笑”；stressed 表示“有压力的”。
+7. **中文**：他刮了胡子并梳了头。
+   **英文**：He shaved and combed his hair.
+   > **解析**：shaved 与 combed 是并列的过去式动词；his hair 作 combed 的宾语。
 
-8. **中文**：他感到非常无聊，于是决定换一身衣服出去走走。  
-   **英文**：Feeling bored, he decided to change clothes and walk.
-   > **解析**：bored 表示“感到无聊的”；change 表示“换衣服”。
+8. **中文**：请把牙膏递给我。
+   **英文**：Please pass me the toothpaste.
+   > **解析**：pass 接双宾语 me 和 the toothpaste；toothpaste 不可数，用 the 特指。
 
-9. **中文**：闹钟响了三次，但他依然在熟睡中。  
-   **英文**：The alarm has rung three times, but he is fast asleep.
-   > **解析**：rung 是 ring 的过去分词；asleep 表示“睡着的”。
+9. **中文**：她无聊了。
+   **英文**：She is bored.
+   > **解析**：bored 是 -ed 形容词，描述人的感受，作表语。
 
-10. **中文**：保持晨间梳洗整洁是一项良好的健康习惯。  
-   **英文**：Keeping a neat grooming routine is a great health habit.
-   > **解析**：routine 表示“日常作息/常规”。
+10. **中文**：别害怕，我来帮你。
+   **英文**：Don't be scared. I will help you.
+   > **解析**：Don't be + 形容词构成否定祈使句；will help 表示将要做的事。
 
-11. **中文**：每天早晚记得用牙膏刷牙。  
-   **英文**：Remember to brush your teeth with toothpaste daily.
-   > **解析**：toothpaste 表示“牙膏”。
+11. **中文**：他压力很大，需要放松。
+   **英文**：He is stressed and needs to relax.
+   > **解析**：stressed 作表语；needs 后接不定式 to relax 作宾语。
 
-12. **中文**：他每天早上起床后都会刮胡子。  
-   **英文**：He shaves his beard every morning after waking up.
-   > **解析**：shave / shaves 表示“刮胡子/剃须”。
+12. **中文**：抱一抱她，她不舒服。
+   **英文**：Hug her. She is uncomfortable.
+   > **解析**：Hug 构成祈使句，her 是宾格；uncomfortable 作表语。
 
-13. **中文**：用这把木梳把你的头发梳理整齐。  
-   **英文**：Use this comb to make your hair look neat and clean.
-   > **解析**：comb 表示“梳子/梳头”。
+13. **中文**：她对我微笑。
+   **英文**：She smiled at me.
+   > **解析**：smile at someone 是固定搭配；smiled 是过去式。
 
-14. **中文**：她看着镜子里的自己，露出了甜美的微笑。  
-   **英文**：She looked at herself in the mirror with a sweet smile.
-   > **解析**：smile 表示“微笑”。
+14. **中文**：我帮他换衣服。
+   **英文**：I help him change his clothes.
+   > **解析**：help + 宾语 + 动词原形；change 在此表示更换。
 
-15. **中文**：母亲在出门前给了孩子一个温暖的拥抱和亲吻。  
-   **英文**：The mother gave her kid a hug and kiss before leaving.
-   > **解析**：kiss 表示“亲吻/吻”。
+15. **中文**：请坐下冷静一下。
+   **英文**：Please sit down and calm down.
+   > **解析**：sit down 与 calm down 是并列祈使结构；down 表示向下或平复。
 
-16. **中文**：在看了一整夜电视后，他感到非常困倦。  
-   **英文**：After watching a series all night, he fell asleep.
-   > **解析**：series 表示“电视剧/连续剧”。
+16. **中文**：我有很多家务要做。
+   **英文**：I have lots of housework to do.
+   > **解析**：lots of 修饰不可数名词 housework；to do 作后置定语。
 
-17. **中文**：面对突如其来的巨响，小狗感到很害怕。  
-   **英文**：The little dog was scared by the sudden loud noise.
-   > **解析**：scared 表示“害怕的/受惊的”。
+17. **中文**：这部剧很有意思。
+   **英文**：This series is interesting.
+   > **解析**：series 单复数同形，此处为单数用 is；interesting 作表语。
 
-18. **中文**：坐在不舒服的椅子上让人觉得很难受。  
-   **英文**：Sitting on an uncomfortable chair makes your back hurt.
-   > **解析**：uncomfortable 表示“不舒服的/难受的”。
+18. **中文**：闹钟每天早上六点响。
+   **英文**：The alarm rings at six every morning.
+   > **解析**：The alarm 是第三人称单数，ring 加 s；at six 表示钟点。
 
-19. **中文**：他在床上躺着，很快就进入了梦乡睡着了。  
-   **英文**：He lay in bed and quickly fell asleep.
-   > **解析**：fall asleep / fell asleep 表示“入睡/睡着”。
+19. **中文**：锻炼之后我感觉很舒服。
+   **英文**：I feel great after exercise.
+   > **解析**：feel 是系动词接形容词 great；after exercise 是时间状语。
 
-20. **中文**：听轻音乐有助于缓解紧张有压力的情绪。  
-   **英文**：Listening to soft music helps relieve stressed feelings.
-   > **解析**：stressed 表示“有压力的/紧张的”。
+20. **中文**：我醒着，睡不着。
+   **英文**：I am awake and can't fall asleep.
+   > **解析**：awake 作表语；can't fall asleep 表示无法入睡。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In his morning routine, he shaved, combed, and used toothpaste.
-   > **中文**：晨间作息中，他刮了胡子，梳了头发，并用牙膏刷了牙。
+1. He is asleep now.
+   > **中文**：他现在睡着了。
 
-2. After getting dressed, he smiled and gave his wife a kiss.
-   > **中文**：穿好衣服后，他微笑着向妻子道别并给她一个吻。
+2. I fell asleep at ten.
+   > **中文**：我十点入睡的。
 
-3. After a stressed day, watching a TV series helps him relax.
-   > **中文**：在经历了充满压力的工作后，看一部剧集有助于放松。
+3. She has fallen asleep on the sofa.
+   > **中文**：她已经在沙发上睡着了。
 
-4. He heard the alarm ring and fell asleep again in bed.
-   > **中文**：他听着闹钟响起，觉得很困并再次入睡。
+4. The phone rang just now.
+   > **中文**：电话刚才响了。
 
-5. The scared boy felt bored and uncomfortable on the hard bed.
-   > **中文**：那个感到害怕的小男孩在不舒服的床上翻来覆去。
+5. Has the alarm rung?
+   > **中文**：闹钟响了吗？
 
-6. Lots of exercise helps people stay fit and sleep well.
-   > **中文**：大量运动有助于人们晚上更容易睡着。
+6. I get dressed every morning.
+   > **中文**：我每天早上穿衣服。
 
-7. A warm hug and smile can make anyone feel less stressed.
-   > **中文**：拥抱和微笑能让人消除压力感。
+7. He shaved and combed his hair.
+   > **中文**：他刮了胡子并梳了头。
 
-8. Feeling bored, he decided to change clothes and walk.
-   > **中文**：他感到非常无聊，于是决定换一身衣服出去走走。
+8. Please pass me the toothpaste.
+   > **中文**：请把牙膏递给我。
 
-9. The alarm has rung three times, but he is fast asleep.
-   > **中文**：闹钟响了三次，但他依然在熟睡中。
+9. She is bored with this series.
+   > **中文**：她对这部剧感到无聊。
 
-10. Keeping a neat grooming routine is a great health habit.
-   > **中文**：保持晨间梳洗整洁是一项良好的健康习惯。
+10. Don't be scared.
+   > **中文**：别害怕。
 
-11. Remember to brush your teeth with toothpaste daily.
-   > **中文**：每天早晚记得用牙膏刷牙。
+11. He is stressed and needs to relax.
+   > **中文**：他压力很大，需要放松。
 
-12. He shaves his beard every morning after waking up.
-   > **中文**：他每天早上起床后都会刮胡子。
+12. Hug her. She is uncomfortable.
+   > **中文**：抱一抱她，她不舒服。
 
-13. Use this comb to make your hair look neat and clean.
-   > **中文**：用这把木梳把你的头发梳理整齐。
+13. She smiled at me.
+   > **中文**：她对我微笑。
 
-14. She looked at herself in the mirror with a sweet smile.
-   > **中文**：她看着镜子里的自己，露出了甜美的微笑。
+14. I help him change his clothes.
+   > **中文**：我帮他换衣服。
 
-15. The mother gave her kid a hug and kiss before leaving.
-   > **中文**：母亲在出门前给了孩子一个温暖的拥抱和亲吻。
+15. Please sit down and calm down.
+   > **中文**：请坐下冷静一下。
 
-16. After watching a series all night, he fell asleep.
-   > **中文**：在看了一整夜电视后，他感到非常困倦。
+16. I have lots of housework to do.
+   > **中文**：我有很多家务要做。
 
-17. The little dog was scared by the sudden loud noise.
-   > **中文**：面对突如其来的巨响，小狗感到很害怕。
+17. The alarm rings at six.
+   > **中文**：闹钟六点响。
 
-18. Sitting on an uncomfortable chair makes your back hurt.
-   > **中文**：坐在不舒服的椅子上让人觉得很难受。
+18. I exercise every morning.
+   > **中文**：我每天早上锻炼。
 
-19. He lay in bed and quickly fell asleep.
-   > **中文**：他在床上躺着，很快就进入了梦乡睡着了。
+19. I am awake and can't fall asleep.
+   > **中文**：我醒着，睡不着。
 
-20. Listening to soft music helps relieve stressed feelings.
-   > **中文**：听轻音乐有助于缓解紧张有压力的情绪。
+20. Give her a kiss and a hug.
+   > **中文**：给她一个吻和一个拥抱。
 
 </quiz-listening>
 
@@ -212,25 +211,36 @@ fall asleep（入睡）→ fallen asleep（已入睡）。ring → rang → rung
 | 英文单词 | 课文释义 |
 | --- | --- |
 | asleep | 睡着的 |
-| awake | 清醒的 |
-| bored | 无聊的 / 厌烦的 |
-| comb | 梳头 / 梳子 |
+| awake | 醒着的 |
+| bored | 无聊的 |
+| change | 更换 / 变化 |
+| comb | 梳 / 梳子 |
+| down | 向下 |
+| dress | 穿衣 |
+| exercise | 锻炼 |
 | fall asleep | 入睡 |
-| fallen asleep | 入睡了 |
+| fallen asleep | 已入睡（fall asleep 的完成形式） |
+| help | 帮助 |
 | hug | 拥抱 |
-| kiss | 亲吻 / 吻 |
-| lots of | 大量的 / 许多的 |
-| rang | 响（ring的过去式） |
+| kiss | 亲吻 |
+| lots of | 许多 |
+| rang | 响（ring 的过去式） |
 | relax | 放松 |
-| ring | 响 / 鸣 |
-| rung | 响（ring的过去分词） |
+| ring | 铃响 / 戒指 |
+| rung | 响过（ring 的过去分词） |
 | scared | 害怕的 |
-| series | 连续剧 / 系列 |
-| shave | 刮胡子 / 剃须 |
+| series | 系列 / 剧集 |
+| shave | 刮胡子 |
 | smile | 微笑 |
-| stressed | 感到有压力的 |
+| stressed | 有压力的 |
 | toothpaste | 牙膏 |
 | uncomfortable | 不舒服的 |
+| is | 是（单数） |
+| he | 他 |
+| she | 她 |
+| at | 在（时刻） |
+| every | 每个 |
+| and | 和 |
 
 </quiz-matching>
 
@@ -238,202 +248,202 @@ fall asleep（入睡）→ fallen asleep（已入睡）。ring → rang → rung
 
 ### 1
 
-In his morning routine, he shaved, combed, and used ____.
+He is ____ now.
 
-- [x] toothpaste
-- [ ] asleep
-- [ ] awake
+- [x] asleep
+- [ ] sleeping bag
+- [ ] smile
 
-> **解析**：**toothpaste** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要表语形容词 asleep；sleeping bag 是名词，smile 是动词或名词。
 
 ### 2
 
-After getting dressed, he smiled and gave his wife a ____.
+I ____ asleep at ten last night.
 
-- [x] kiss
-- [ ] asleep
-- [ ] awake
+- [x] fell
+- [ ] fall
+- [ ] rung
 
-> **解析**：**kiss** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：last night 表示过去，用 fall 的过去式 fell；fall 是原形，rung 是 ring 的过去分词。
 
 ### 3
 
-After a ____ day, watching a TV series helps him relax.
-
-- [x] stressed
-- [ ] asleep
-- [ ] awake
-
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **stressed**。
-
-### 4
-
-He heard the alarm ____ and fell asleep again in bed.
-
-- [x] ring
-- [ ] asleep
-- [ ] awake
-
-> **解析**：**ring** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 5
-
-The ____ boy felt bored and uncomfortable on the hard bed.
-
-- [x] scared
-- [ ] asleep
-- [ ] awake
-
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **scared**。
-
-### 6
-
-Lots of ____ helps people stay fit and sleep well.
-
-- [x] exercise
-- [ ] asleep
-- [ ] awake
-
-> **解析**：**exercise** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 7
-
-A warm ____ and smile can make anyone feel less stressed.
-
-- [x] hug
-- [ ] asleep
-- [ ] awake
-
-> **解析**：**hug** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 8
-
-Feeling ____, he decided to change clothes and walk.
-
-- [x] bored
-- [ ] asleep
-- [ ] awake
-
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **bored**。
-
-### 9
-
-The alarm has ____ three times, but he is fast asleep.
-
-- [x] rung
-- [ ] asleep
-- [ ] awake
-
-> **解析**：**rung** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 10
-
-Keeping a neat ____ routine is a great health habit.
-
-- [x] grooming
-- [ ] asleep
-- [ ] awake
-
-> **解析**：**grooming** 为动词的现在分词/动名词形式，配合句中语法结构。
-
-### 11
-
-Remember to brush your teeth with ____ daily.
-
-- [x] toothpaste
-- [ ] asleep
-- [ ] awake
-
-> **解析**：**toothpaste** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 12
-
-He shaves his beard every ____ after waking up.
-
-- [x] morning
-- [ ] asleep
-- [ ] awake
-
-> **解析**：**morning** 为动词的现在分词/动名词形式，配合句中语法结构。
-
-### 13
-
-Use this ____ to make your hair look neat and clean.
-
-- [x] comb
-- [ ] asleep
-- [ ] awake
-
-> **解析**：**comb** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 14
-
-She looked at herself in the mirror with a sweet ____.
-
-- [x] smile
-- [ ] asleep
-- [ ] awake
-
-> **解析**：**smile** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 15
-
-The mother gave her kid a ____ and kiss before leaving.
-
-- [x] hug
-- [ ] asleep
-- [ ] awake
-
-> **解析**：**hug** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 16
-
-After watching a ____ all night, he fell asleep.
-
-- [x] series
-- [ ] asleep
-- [ ] awake
-
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **series**。
-
-### 17
-
-The little dog was ____ by the sudden loud noise.
-
-- [x] scared
-- [ ] asleep
-- [ ] awake
-
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **scared**。
-
-### 18
-
-Sitting on an ____ chair makes your back hurt.
-
-- [x] uncomfortable
-- [ ] asleep
-- [ ] awake
-
-> **解析**：**uncomfortable** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 19
-
-He lay in bed and quickly fell ____.
+She has fallen ____ on the sofa.
 
 - [x] asleep
 - [ ] awake
-- [ ] bored
+- [ ] down
 
-> **解析**：**asleep** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：fall asleep 是固定搭配"入睡"；awake 与 fall 不搭配，down 语义不符。
+
+### 4
+
+The phone ____ just now.
+
+- [x] rang
+- [ ] ring
+- [ ] rung
+
+> **解析**：just now 表示过去，用过去式 rang；ring 是原形，rung 是过去分词需与 have 连用。
+
+### 5
+
+Has the alarm ____?
+
+- [x] rung
+- [ ] rang
+- [ ] ring
+
+> **解析**：Has 后需要过去分词 rung；rang 是过去式，ring 是原形。
+
+### 6
+
+I get ____ every morning.
+
+- [x] dressed
+- [ ] bored
+- [ ] rang
+
+> **解析**：get dressed 是"穿好衣服"的固定表达；bored 和 rang 语义不符。
+
+### 7
+
+He shaved and ____ his hair.
+
+- [x] combed
+- [ ] shaved
+- [ ] smiled
+
+> **解析**：与 shaved 并列的过去式 combed，combed one's hair 表示梳头；重复 shaved 语义重复，smiled 不能接头发作宾语。
+
+### 8
+
+Please pass me the ____.
+
+- [x] toothpaste
+- [ ] series
+- [ ] hug
+
+> **解析**：the 后需要名词 toothpaste"牙膏"；series 和 hug 语义不符。
+
+### 9
+
+She is ____ with this series.
+
+- [x] bored
+- [ ] asleep
+- [ ] toothpaste
+
+> **解析**：be bored with 是"对……感到无聊"的固定搭配；asleep 不与 with 搭配，toothpaste 是名词。
+
+### 10
+
+Don't be ____. I will help you.
+
+- [x] scared
+- [ ] rung
+- [ ] comb
+
+> **解析**：be + 形容词 scared"害怕的"；rung 是过去分词，comb 是动词或名词。
+
+### 11
+
+He is stressed and needs to ____.
+
+- [x] relax
+- [ ] rang
+- [ ] asleep
+
+> **解析**：to 后需要动词原形 relax；rang 是过去式，asleep 是形容词。
+
+### 12
+
+She is ____, so hug her.
+
+- [x] uncomfortable
+- [ ] awake
+- [ ] change
+
+> **解析**：is 后需要形容词 uncomfortable 作表语；awake 与 hug 的安慰语境不符，change 是动词。
+
+### 13
+
+She smiled ____ me.
+
+- [x] at
+- [ ] down
+- [ ] of
+
+> **解析**：smile at someone 是固定搭配；down 和 of 都不构成这个搭配。
+
+### 14
+
+I help him ____ his clothes.
+
+- [x] change
+- [ ] changed
+- [ ] rang
+
+> **解析**：help + 宾语 + 动词原形 change；changed 是过去式，rang 语义不符。
+
+### 15
+
+Please sit ____ and calm down.
+
+- [x] down
+- [ ] up
+- [ ] asleep
+
+> **解析**：sit down 是固定搭配"坐下"；此处与 calm down 呼应，up 语义相反，asleep 不是副词。
+
+### 16
+
+I have lots ____ housework to do.
+
+- [x] of
+- [ ] down
+- [ ] help
+
+> **解析**：lots of 是固定搭配"许多"；down 和 help 都不构成这个搭配。
+
+### 17
+
+This series ____ interesting.
+
+- [x] is
+- [ ] are
+- [ ] rung
+
+> **解析**：a series 是单数概念，用 is；are 用于复数，rung 是过去分词。
+
+### 18
+
+The alarm ____ at six every day.
+
+- [x] rings
+- [ ] rang
+- [ ] rung
+
+> **解析**：every day 表示习惯，用一般现在时第三人称单数 rings；rang 是过去式，rung 是分词。
+
+### 19
+
+I feel great after ____.
+
+- [x] exercise
+- [ ] toothpaste
+- [ ] scared
+
+> **解析**：after 后需要名词 exercise"锻炼"；toothpaste 语义不符，scared 是形容词。
 
 ### 20
 
-Listening to soft music helps relieve ____ feelings.
+I am ____ and can't fall asleep.
 
-- [x] stressed
+- [x] awake
 - [ ] asleep
-- [ ] awake
+- [ ] smile
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **stressed**。
+> **解析**：与 can't fall asleep 呼应，状态是 awake"醒着的"；asleep 自相矛盾，smile 是动词。
 
 </quiz-cloze>

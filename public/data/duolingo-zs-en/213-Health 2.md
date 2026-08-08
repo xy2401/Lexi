@@ -10,32 +10,35 @@ ask, blood pressure, cancer, check-up, cure, fitness, give up, good for you, hea
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"给出健康相关的建议"展开。词表里有医疗词汇（blood pressure, cancer, heart disease, check-up, procedure, x-ray, cure, healthcare）和健康生活表达（fitness, workout, give up, good for you, sick day, weigh）。
+本单元的主题是"给出健康建议"，是健康话题的第二课。词表分成三组：医疗名词（blood pressure, cancer, check-up, cure, healthcare, heart disease, procedure, sick day, x-ray）、身体与健康行为（fitness, workout, weigh, tongue, liquid, give up, good for you）、以及沟通与状态动词（ask, tell, seem, provide, prepare, wait, not, into）。拼起来就是完整的医嘱场景：You should get a check-up. The doctor will measure your blood pressure. Working out is good for you.
 
-你可以练习健康建议：You should get a check-up—your blood pressure seems high. / Give up smoking; it's good for you. / The doctor will provide a procedure. / Wait—let me ask about the x-ray. / A workout is good for your heart disease risk. / Prepare to weigh your tongue... just kidding! / I need a sick day.
+语法主线有三条。第一条是建议表达：You should give up smoking. / You shouldn't wait. 第二条是 seem 的用法——"似乎"：You seem tired. / It seems that you are sick. 第三条是 ask/tell 的双宾结构：Ask the doctor a question. / Tell me about the procedure. 另一个实用点是 good for you（对你有好处）及其反面 bad for you。
 
-seem 用来表达"看起来、似乎"（You seem tired. / It seems serious.）。tell 和 ask 涉及医患沟通。not 用于否定建议（Do not skip your check-up.）。
+学完这些词，你能描述症状、转述医嘱、劝人健身戒烟、预约体检——健康话题的建议权就到你手里了。
 
 ## Tips
 
-- **blood pressure / heart disease / cancer** — blood pressure = 血压（high/low blood pressure, 缩写 BP）。heart disease = 心脏病。cancer = 癌症。搭配：check your blood pressure, reduce the risk of heart disease, fight cancer。这些是健康话题的核心词汇。
+- **ask / tell** — 一对沟通动词。ask 是"问、请求"：ask someone something 或 ask someone to do something. tell 是"告诉"：tell someone something. 区别：ask 期待回应，tell 是单向传达。✗ Tell to me → ✓ Tell me，tell 后直接接人。
 
-- **check-up / procedure / x-ray** — check-up = 体检（get a check-up, a regular check-up）。procedure = 医疗程序/手术（a medical procedure）。x-ray = X 光（get an x-ray, take an x-ray）。搭配：schedule a check-up, a surgical procedure。
+- **seem** — "似乎、看起来"，两种用法：You seem tired.（主语 + seem + 形容词）；It seems/seemed that + 从句：It seems that you need rest. seem 后也可接 to do：He seems to be sick.
 
-- **fitness / workout / give up** — fitness = 健康、体能（physical fitness, a fitness center）。workout = 锻炼（do a workout, a daily workout）。give up = 放弃（give up smoking / give up sugar）。搭配：improve your fitness, give up bad habits。
+- **give up** — "放弃、戒掉"，后接动名词：give up smoking（戒烟）。可分结构：give it up。健康建议高频词：You should give up drinking.
 
-- **cure / healthcare / sick day** — cure = 治愈（名词：find a cure for cancer；动词：cure the disease）。healthcare = 医疗保健（the healthcare system, healthcare costs）。sick day = 病假（take a sick day, call in sick）。
+- **good for you** — "对你有好处"：Exercise is good for you. 反面是 bad for you。for 表示对象，是固定搭配，不说 ✗ good to you（那是"对你好"的待人态度）。
 
-- **weigh / tongue / liquid** — weigh = 称重（weigh yourself / The doctor weighed me.）。注意 weigh（称重）和 weight（重量，名词）的区分。tongue = 舌头（Stick out your tongue.）。liquid = 液体（Drink more liquids. / a liquid diet）。
+- **check-up / procedure / x-ray** — check-up 是体检（也写作 checkup）：get a check-up. procedure 指医疗程序/手术步骤：a simple procedure. x-ray 是 X 光，可名可动：take an x-ray（拍片）。
 
-- **seem / provide / prepare** — seem = 似乎（You seem sick. / It seems fine. / He seems to have a fever.）。provide = 提供（provide information / provide care）。prepare = 准备（prepare for the procedure / prepare the medicine）。
+- **blood pressure / heart disease / cancer** — 三大医疗名词：blood pressure 血压（measure/take your blood pressure）；heart disease 心脏病；cancer 癌症（不可数）：cure cancer 治愈癌症。
 
-- **good for you / ask / tell / wait / not** — good for you = 对你有好处（Exercise is good for you.），口语中也可表"真棒！"。ask = 询问（ask the doctor）。tell = 告诉（Tell me what hurts.）。wait = 等待（Wait here.）。not 用于否定（Do not eat before the x-ray.）。
+- **cure / healthcare / sick day** — cure 可作动词"治愈"也可作名词"疗法"；healthcare 是医疗保健体系的总称；sick day 是病假：take a sick day（请病假）。
 
-- **into** — into 在这里可能搭配 look into（调查、研究：The doctor will look into it.）或 get into（进入：get into the habit of working out）。具体含义取决于搭配。
+- **fitness / workout / weigh** — fitness 是"健康、体能"；workout 是"一次锻炼"（名词）：do a workout. 动词是 work out（分写）。weigh 是"称重、重达"：How much do you weigh? 注意 weight（重量）和 weigh（动词）拼写。
+
+- **tongue / liquid / into** — tongue 舌头，医生检查时说的"伸出舌头"：Stick out your tongue. liquid 液体，服药说明常见：Drink plenty of liquid. into 表示"进入、变成"：turn into, change into。
+
+- **provide / prepare / wait / not** — provide 是"提供"：provide someone with something. prepare 是"准备"：prepare for the procedure. wait 是"等待"：Don't wait too long. not 是本单元词表里唯一的纯否定词，构成各种否定句：It is not serious.
 
 ## 练习
 
@@ -53,149 +56,149 @@ seem 用来表达"看起来、似乎"（You seem tired. / It seems serious.）�
 
 <quiz-sentence-builder>
 
-1. **中文**：医生建议他每天测量血压。
-   **英文**：The doctor advised him to measure his blood pressure every day.
-   > **解析**：blood pressure 表示血压。
+1. **中文**：你应该去做一次体检。
+   **英文**：You should get a check-up.
+   > **解析**：should 后接动词原形 get；a check-up 是可数名词短语，get a check-up 是固定搭配。
 
-2. **中文**：保持健康的饮食有助于预防心脏病。
-   **英文**：Maintaining a healthy diet helps prevent heart disease.
-   > **解析**：heart disease 表示心脏病。
+2. **中文**：医生会量你的血压。
+   **英文**：The doctor will measure your blood pressure.
+   > **解析**：will 后接动词原形 measure；blood pressure 是不可数名词短语，不加冠词。
 
-3. **中文**：科学家们正在努力寻找治愈这种新型疾病的方法。
-   **英文**：Scientists are working hard to find a cure for this new illness.
-   > **解析**：cure 表示治愈、疗法。
+3. **中文**：锻炼对你有好处。
+   **英文**：Working out is good for you.
+   > **解析**：Working out 动名词短语作主语，谓语用单数 is；good for you 是固定搭配。
 
-4. **中文**：每年进行一次全面体检对老年人很重要。
-   **英文**：Having an annual health check-up is very important for seniors.
-   > **解析**：check-up 表示体检、健康检查。
+4. **中文**：你应该戒烟。
+   **英文**：You should give up smoking.
+   > **解析**：give up 后接动名词 smoking 作宾语；should 后接动词原形 give。
 
-5. **中文**：护士带他去放射科拍了胸部X光片。
-   **英文**：The nurse took him to radiology to get a chest x-ray.
-   > **解析**：x-ray 表示X光片、X射线。
+5. **中文**：你看起来很累。
+   **英文**：You seem very tired.
+   > **解析**：seem 是系动词，后接形容词 tired 作表语；very 修饰 tired。
 
-6. **中文**：医生解释说这只是一项微创的小手术。
-   **英文**：The doctor explained that it was just a simple medical procedure.
-   > **解析**：procedure 表示医疗手续、手术程序。
+6. **中文**：看来你需要休息。
+   **英文**：It seems that you need rest.
+   > **解析**：It seems that + 从句是固定结构；it 是形式主语，that 从句是真正内容。
 
-7. **中文**：政府正致力于改善偏远地区的医疗保健条件。
-   **英文**：The government is trying to improve healthcare in remote areas.
-   > **解析**：healthcare 表示医疗保健。
+7. **中文**：问医生一个问题。
+   **英文**：Ask the doctor a question.
+   > **解析**：ask 接双宾语：the doctor 是间接宾语，a question 是直接宾语；祈使句用动词原形。
 
-8. **中文**：因为发烧，他今天向公司请了一天病假。
-   **英文**：He took a sick day today because he had a high fever.
-   > **解析**：sick day 表示病假天。
+8. **中文**：把这个手术程序告诉我。
+   **英文**：Tell me about the procedure.
+   > **解析**：tell 后接人 me，about 引出内容；祈使句用动词原形 tell。
 
-9. **中文**：每天早晨进行半小时的锻炼能提升身体素能。
-   **英文**：A thirty-minute workout every morning can boost your fitness.
-   > **解析**：workout 表示健身锻炼；fitness 表示健康状态。
+9. **中文**：医院提供良好的医疗保健。
+   **英文**：The hospital provides good healthcare.
+   > **解析**：The hospital 是三单主语，provide 加 s；healthcare 不可数，不加冠词。
 
-10. **中文**：服药期间，请多喝温水等清淡液体。
-   **英文**：Drink plenty of warm liquid while you are taking the medicine.
-   > **解析**：liquid 表示液体。
+10. **中文**：为检查做准备。
+    **英文**：Prepare for the check-up.
+    > **解析**：prepare for 是固定搭配；祈使句用动词原形 prepare。
 
-11. **中文**：为了健康，无论多难你都不应该放弃运动。
-   **英文**：For your health, you should never give up exercising.
-   > **解析**：give up 表示放弃。
+11. **中文**：不要等太久。
+    **英文**：Don't wait too long.
+    > **解析**：祈使句的否定用 Don't + 动词原形 wait；too long 是程度状语。
 
-12. **中文**：护士在体检前要求我先称一下体重。
-   **英文**：The nurse asked me to weigh myself before the exam.
-   > **解析**：weigh 表示称重、量体重。
+12. **中文**：你多重？
+    **英文**：How much do you weigh?
+    > **解析**：How much 询问数量；weigh 是动词，用 do 提问；注意问的是体重数值。
 
-13. **中文**：医生让我伸出舌头检查口腔状况。
-   **英文**：The doctor asked me to stick out my tongue for inspection.
-   > **解析**：tongue 表示舌头。
+13. **中文**：请伸出舌头。
+    **英文**：Please stick out your tongue.
+    > **解析**：stick out 是动词短语"伸出"；your tongue 作宾语。
 
-14. **中文**：每天吃新鲜水果和蔬菜对你的健康有好处。
-   **英文**：Eating fresh fruits and vegetables is really good for you.
-   > **解析**：good for you 表示对你有好处。
+14. **中文**：多喝液体。
+    **英文**：Drink plenty of liquid.
+    > **解析**：祈使句用动词原形 drink；plenty of 后接不可数名词 liquid。
 
-15. **中文**：诊所为所有社区居民提供免费咨询服务。
-   **英文**：The clinic will provide free consultations for all local residents.
-   > **解析**：provide 表示提供。
+15. **中文**：这个病不严重。
+    **英文**：The illness is not serious.
+    > **解析**：not 放在 be 动词 is 之后构成否定；serious 作表语。
 
-16. **中文**：他今天看起来精神状态好多了。
-   **英文**：He seems to feel much better and more energetic today.
-   > **解析**：seem 表示看起来、似乎。
+16. **中文**：他请了一天病假。
+    **英文**：He took a sick day.
+    > **解析**：took 是 take 的过去式；a sick day 是可数名词短语，take a sick day 是固定搭配。
 
-17. **中文**：我们需要在手术前为病人做好全面的准备。
-   **英文**：We need to prepare the patient thoroughly before surgery.
-   > **解析**：prepare 表示准备。
+17. **中文**：没有治愈这种癌症的方法。
+    **英文**：There is no cure for this cancer.
+    > **解析**：there is no + 名词表示"没有"；cure for 是"针对……的疗法"的固定搭配。
 
-18. **中文**：现代医学极大地提高了癌症的生存率。
-   **英文**：Modern medicine has greatly improved survival rates for cancer.
-   > **解析**：cancer 表示癌症。
+18. **中文**：心脏病是一种严重疾病。
+    **英文**：Heart disease is a serious illness.
+    > **解析**：Heart disease 作疾病类别名，视为单数用 is；a serious illness 作表语。
 
-19. **中文**：护士告诉病人请在候诊室稍作等待。
-   **英文**：The nurse asked the patients to wait in the lobby.
-   > **解析**：wait 表示等待。
+19. **中文**：医生拍了一张X光片。
+    **英文**：The doctor took an x-ray.
+    > **解析**：took 过去式；an x-ray 中 x-ray 以元音音开头用 an。
 
-20. **中文**：良好的身体健身习惯能让你长期受益。
-   **英文**：Good physical fitness habits can benefit you for a lifetime.
-   > **解析**：fitness 表示身体健康、健身。
+20. **中文**：健身能改善你的健康。
+    **英文**：Fitness can improve your health.
+    > **解析**：Fitness 作主语，can 后接动词原形 improve；your health 作宾语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The doctor advised him to measure his blood pressure every day.
-   > **中文**：医生建议他每天测量血压。
+1. You should get a check-up.
+   > **中文**：你应该去做一次体检。
 
-2. Maintaining a healthy diet helps prevent heart disease.
-   > **中文**：保持健康的饮食有助于预防心脏病。
+2. The doctor will measure your blood pressure.
+   > **中文**：医生会量你的血压。
 
-3. Scientists are working hard to find a cure for this new illness.
-   > **中文**：科学家们正在努力寻找治愈这种新型疾病的方法。
+3. Working out is good for you.
+   > **中文**：锻炼对你有好处。
 
-4. Having an annual health check-up is very important for seniors.
-   > **中文**：每年进行一次全面体检对老年人很重要。
+4. You should give up smoking.
+   > **中文**：你应该戒烟。
 
-5. The nurse took him to radiology to get a chest x-ray.
-   > **中文**：护士带他去放射科拍了胸部X光片。
+5. You seem very tired.
+   > **中文**：你看起来很累。
 
-6. The doctor explained that it was just a simple medical procedure.
-   > **中文**：医生解释说这只是一项微创的小手术。
+6. It seems that you need rest.
+   > **中文**：看来你需要休息。
 
-7. The government is trying to improve healthcare in remote areas.
-   > **中文**：政府正致力于改善偏远地区的医疗保健条件。
+7. Ask the doctor a question.
+   > **中文**：问医生一个问题。
 
-8. He took a sick day today because he had a high fever.
-   > **中文**：因为发烧，他今天向公司请了一天病假。
+8. Tell me about the procedure.
+   > **中文**：把这个手术程序告诉我。
 
-9. A thirty-minute workout every morning can boost your fitness.
-   > **中文**：每天早晨进行半小时的锻炼能提升身体素能。
+9. The hospital provides good healthcare.
+   > **中文**：医院提供良好的医疗保健。
 
-10. Drink plenty of warm liquid while you are taking the medicine.
-   > **中文**：服药期间，请多喝温水等清淡液体。
+10. Prepare for the check-up.
+    > **中文**：为检查做准备。
 
-11. For your health, you should never give up exercising.
-   > **中文**：为了健康，无论多难你都不应该放弃运动。
+11. Don't wait too long.
+    > **中文**：不要等太久。
 
-12. The nurse asked me to weigh myself before the exam.
-   > **中文**：护士在体检前要求我先称一下体重。
+12. How much do you weigh?
+    > **中文**：你多重？
 
-13. The doctor asked me to stick out my tongue for inspection.
-   > **中文**：医生让我伸出舌头检查口腔状况。
+13. Please stick out your tongue.
+    > **中文**：请伸出舌头。
 
-14. Eating fresh fruits and vegetables is really good for you.
-   > **中文**：每天吃新鲜水果和蔬菜对你的健康有好处。
+14. Drink plenty of liquid.
+    > **中文**：多喝液体。
 
-15. The clinic will provide free consultations for all local residents.
-   > **中文**：诊所为所有社区居民提供免费咨询服务。
+15. The illness is not serious.
+    > **中文**：这个病不严重。
 
-16. He seems to feel much better and more energetic today.
-   > **中文**：他今天看起来精神状态好多了。
+16. He took a sick day.
+    > **中文**：他请了一天病假。
 
-17. We need to prepare the patient thoroughly before surgery.
-   > **中文**：我们需要在手术前为病人做好全面的准备。
+17. There is no cure for this cancer.
+    > **中文**：没有治愈这种癌症的方法。
 
-18. Modern medicine has greatly improved survival rates for cancer.
-   > **中文**：现代医学极大地提高了癌症的生存率。
+18. Heart disease is a serious illness.
+    > **中文**：心脏病是一种严重疾病。
 
-19. The nurse asked the patients to wait in the lobby.
-   > **中文**：护士告诉病人请在候诊室稍作等待。
+19. The doctor took an x-ray.
+    > **中文**：医生拍了一张X光片。
 
-20. Good physical fitness habits can benefit you for a lifetime.
-   > **中文**：良好的身体健身习惯能让你长期受益。
+20. Fitness can improve your health.
+    > **中文**：健身能改善你的健康。
 
 </quiz-listening>
 
@@ -203,26 +206,36 @@ seem 用来表达"看起来、似乎"（You seem tired. / It seems serious.）�
 
 | 英文单词 | 课文释义 |
 | --- | --- |
+| ask | 问；请求 |
 | blood pressure | 血压 |
-| heart disease | 心脏病 |
 | cancer | 癌症 |
-| x-ray | X光检查 |
-| check-up | 体检；健康检查 |
-| procedure | 手术程序；医疗步骤 |
-| healthcare | 医疗保健 |
+| check-up | 体检 |
 | cure | 治愈；疗法 |
-| sick day | 病假（天） |
-| workout | 健身训练；锻炼 |
-| fitness | 身体健康；健身 |
-| liquid | 液体；液态的 |
-| give up | 放弃 |
-| weigh | 称重；量体重 |
-| prepare | 准备 |
-| provide | 提供 |
-| seem | 似乎；看起来 |
-| tongue | 舌头 |
+| fitness | 健康；健身 |
+| give up | 放弃；戒掉 |
 | good for you | 对你有好处 |
-| ask | 询问；要求 |
+| healthcare | 医疗保健 |
+| heart disease | 心脏病 |
+| into | 进入；变成 |
+| liquid | 液体 |
+| not | 不 |
+| prepare | 准备 |
+| procedure | 程序；医疗步骤 |
+| provide | 提供 |
+| seem | 似乎 |
+| sick day | 病假 |
+| tell | 告诉 |
+| tongue | 舌头 |
+| wait | 等待 |
+| weigh | 称重；重达 |
+| workout | 一次锻炼 |
+| x-ray | X光 |
+| doctor | 医生 |
+| hospital | 医院 |
+| you | 你 |
+| should | 应该 |
+| health | 健康 |
+| serious | 严重的 |
 
 </quiz-matching>
 
@@ -230,202 +243,202 @@ seem 用来表达"看起来、似乎"（You seem tired. / It seems serious.）�
 
 ### 1
 
-The doctor advised him to measure his blood ____ every day.
+You should get a ____.
 
-- [x] pressure
-- [ ] ask
-- [ ] blood pressure
+- [x] check-up
+- [ ] check-ups
+- [ ] check
 
-> **解析**：**pressure** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后接单数名词 check-up（体检）；check 单独使用不构成"体检"义，check-ups 复数不与 a 搭配。
 
 ### 2
 
-____ a healthy diet helps prevent heart disease.
+The doctor will measure your blood ____.
 
-- [x] Maintaining
-- [ ] ask
-- [ ] blood pressure
+- [x] pressure
+- [ ] pressures
+- [ ] pressing
 
-> **解析**：**Maintaining** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：blood pressure 是固定搭配"血压"；pressing 是动名词，pressures 复数不合固定短语。
 
 ### 3
 
-Scientists are working hard to find a ____ for this new illness.
+Working out is good ____ you.
 
-- [x] cure
-- [ ] ask
-- [ ] blood pressure
+- [x] for
+- [ ] to
+- [ ] at
 
-> **解析**：**cure** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：good for you 是固定搭配；good to 指待人态度，at 不与 good 这样搭配。
 
 ### 4
 
-Having an annual health ____ is very important for seniors.
+You should give ____ smoking.
 
-- [x] check-up
-- [ ] ask
-- [ ] blood pressure
+- [x] up
+- [ ] in
+- [ ] away
 
-> **解析**：**check-up** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：give up 表示"戒掉"；give in 是"屈服"，give away 是"赠送"，语义均不合。
 
 ### 5
 
-The nurse took him to radiology to get a chest ____.
+You ____ very tired.
 
-- [x] x-ray
-- [ ] ask
-- [ ] blood pressure
+- [x] seem
+- [ ] seems
+- [ ] seeming
 
-> **解析**：**x-ray** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 You 后接动词原形 seem；seems 用于三单，seeming 不能单独作谓语。
 
 ### 6
 
-The doctor explained that it was just a simple medical ____.
+It ____ that you need rest.
 
-- [x] procedure
-- [ ] ask
-- [ ] blood pressure
+- [x] seems
+- [ ] seem
+- [ ] seeming
 
-> **解析**：**procedure** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：It 是第三人称单数主语，seem 加 s；It seems that 是固定结构。
 
 ### 7
 
-The government is trying to improve ____ in remote areas.
+____ the doctor a question.
 
-- [x] healthcare
-- [ ] ask
-- [ ] blood pressure
+- [x] Ask
+- [ ] Asks
+- [ ] Asking
 
-> **解析**：**healthcare** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Ask；Asks 是三单形式，Asking 不能构成祈使句。
 
 ### 8
 
-He took a sick day today ____ he had a high fever.
+Tell ____ about the procedure.
 
-- [x] because
-- [ ] ask
-- [ ] blood pressure
+- [x] me
+- [ ] I
+- [ ] my
 
-> **解析**：**because** 为从属连词，引出原因状语从句，表示“因为”。
+> **解析**：tell 后接宾格代词 me；I 是主格，my 是物主代词，都不能作 tell 的宾语。
 
 ### 9
 
-A thirty-minute ____ every morning can boost your fitness.
+The hospital ____ good healthcare.
 
-- [x] workout
-- [ ] ask
-- [ ] blood pressure
+- [x] provides
+- [ ] provide
+- [ ] providing
 
-> **解析**：**workout** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The hospital 是三单主语，provide 加 s；providing 不能单独作谓语。
 
 ### 10
 
-Drink plenty of warm ____ while you are taking the medicine.
+Prepare ____ the check-up.
 
-- [x] liquid
-- [ ] ask
-- [ ] blood pressure
+- [x] for
+- [ ] to
+- [ ] at
 
-> **解析**：**liquid** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：prepare for 是固定搭配"为……做准备"；to 和 at 不构成此搭配。
 
 ### 11
 
-For your health, you should never give up ____.
+____ wait too long.
 
-- [x] exercising
-- [ ] ask
-- [ ] blood pressure
+- [x] Don't
+- [ ] Doesn't
+- [ ] Not
 
-> **解析**：**exercising** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：祈使句否定用 Don't + 动词原形；Doesn't 用于三单陈述句，Not 单独不能构成否定祈使句。
 
 ### 12
 
-The nurse asked me to ____ myself before the exam.
+How much do you ____?
 
 - [x] weigh
-- [ ] ask
-- [ ] blood pressure
+- [ ] weight
+- [ ] weighing
 
-> **解析**：**weigh** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：do 后接动词原形 weigh；weight 是名词，weighing 不能接在 do 后作谓语中心。
 
 ### 13
 
-The doctor asked me to stick out my ____ for inspection.
+Please stick out your ____.
 
 - [x] tongue
-- [ ] ask
-- [ ] blood pressure
+- [ ] tongues
+- [ ] tone
 
-> **解析**：**tongue** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：your 后接单数身体部位 tongue；tone 是"语调"干扰项，tongues 复数不合一人一舌的语境。
 
 ### 14
 
-Eating fresh fruits and ____ is really good for you.
+Drink plenty of ____.
 
-- [x] vegetables
-- [ ] ask
-- [ ] blood pressure
+- [x] liquid
+- [ ] liquids
+- [ ] solid
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **vegetables**。
+> **解析**：plenty of 后接不可数名词 liquid；solid 是"固体"语义相反，liquids 复数在此医嘱语境不常用。
 
 ### 15
 
-The clinic will ____ free consultations for all local residents.
+The illness is ____ serious.
 
-- [x] provide
-- [ ] ask
-- [ ] blood pressure
+- [x] not
+- [ ] no
+- [ ] none
 
-> **解析**：**provide** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be 动词后接 not 构成否定；no 修饰名词，none 是代词，都不放在 is 后作否定词。
 
 ### 16
 
-He seems to feel much better and more ____ today.
+He took a sick ____ yesterday.
 
-- [x] energetic
-- [ ] ask
-- [ ] blood pressure
+- [x] day
+- [ ] days
+- [ ] date
 
-> **解析**：**energetic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a sick day 是固定搭配"一天病假"；date 是"日期/约会"干扰项，days 复数不与 a 搭配。
 
 ### 17
 
-We need to ____ the patient thoroughly before surgery.
+There is no cure ____ this cancer.
 
-- [x] prepare
-- [ ] ask
-- [ ] blood pressure
+- [x] for
+- [ ] of
+- [ ] at
 
-> **解析**：**prepare** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：cure for 是固定搭配"针对……的疗法"；of 和 at 不与 cure 这样搭配。
 
 ### 18
 
-Modern medicine has greatly improved survival rates for ____.
+Heart ____ is a serious illness.
 
-- [x] cancer
-- [ ] ask
-- [ ] blood pressure
+- [x] disease
+- [ ] diseases
+- [ ] diseased
 
-> **解析**：**cancer** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：heart disease 是固定疾病名称，用单数；diseased 是形容词，diseases 复数不合此固定表达。
 
 ### 19
 
-The nurse asked the patients to ____ in the lobby.
+The doctor took an ____.
 
-- [x] wait
-- [ ] ask
-- [ ] blood pressure
+- [x] x-ray
+- [ ] x-rays
+- [ ] ray
 
-> **解析**：**wait** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：an 后接单数名词 x-ray；x-rays 复数不与 an 搭配，ray 缺少 x- 语义不完整。
 
 ### 20
 
-Good physical ____ habits can benefit you for a lifetime.
+Fitness can ____ your health.
 
-- [x] fitness
-- [ ] ask
-- [ ] blood pressure
+- [x] improve
+- [ ] improves
+- [ ] improving
 
-> **解析**：**fitness** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：can 后接动词原形 improve；improves 是三单形式，improving 不能跟在 can 后。
 
 </quiz-cloze>

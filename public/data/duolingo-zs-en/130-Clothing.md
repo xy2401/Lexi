@@ -10,40 +10,35 @@ afterward, away, cash register, change, checkout, cotton, cute, didn't, doesn't,
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"对衣服发表看法"展开。核心是购物评价表达：I don't think this sweatshirt is ugly—I think it's cute!（我不觉得这件卫衣丑——我觉得很可爱！）、The quality is high but the price isn't low.（质量高但价格不低。）、It's 50 percent off at the checkout.（在收银台打五折。）、She didn't like the sleeve length, so she threw it away.（她不喜欢袖子长度，就扔了。）。
+本单元的主题是"对衣物的看法做出回应"，词表可以分成三组：衣物与细节（sweatshirt, sleeve, cotton, underwear, stuff）、购物场景（checkout, cash register, change, percent, quality, high, low, afterward, away）、以及评价与否定（cute, pretty, tiny, ugly, don't, doesn't, didn't, wasn't, weren't, thrown, selfie）。拼起来就是一段购物对话：This sweatshirt is cute, but the price is too high. I didn't buy it. Let's go to the checkout.
 
-词表里有服装词汇（sweatshirt, sleeve, cotton, underwear）和购物词汇（cash register, checkout, percent, quality）。你可以练习：This stuff is pretty cheap. / The selfie she took was cute. / It wasn't expensive afterward. / These tiny socks don't fit.
+语法主线是否定体系在两个时态中的分工：现在时用 don't/doesn't（It doesn't fit.），过去时用 didn't 加动词原形（I didn't like it.），be 动词的过去否定是 wasn't/weren't（The quality wasn't good.）。另一条主线是评价形容词的层次：cute、pretty 是正面评价，ugly 是负面，tiny 表大小；percent 和 high/low 用来谈折扣：It's twenty percent off.
 
-didn't / doesn't / don't 是否定助动词。wasn't / weren't 是 be 动词的否定过去式。
+学完这单元，你能用英语评价衣物的样子与质量、谈价格高低与折扣、描述最后买了什么、没买什么。
 
 ## Tips
 
-- **sweatshirt / sleeve / cotton** — 卫衣 / 袖子 / 棉。搭配：a cotton sweatshirt, long sleeves, made of cotton。例句：I love this sweatshirt. / The sleeves are too long. / It's 100% cotton. 注意 sweatshirt = 运动卫衣（有长袖）。
+- **don't / doesn't / didn't** — 三个实义动词否定词。don't 用于 I/you/复数：I don't like it. doesn't 用于第三人称单数：It doesn't fit. didn't 用于一切主语的过去时，后接动词原形：✗ I didn't liked it → ✓ I didn't like it.
 
-- **quality / high / low** — 质量 / 高 / 低。搭配：high quality, low quality, the quality is good。例句：The quality is high. / The price is low but the quality is good. 注意 quality 可数也可不可数。
+- **wasn't / weren't** — be 动词过去式的否定：wasn't 搭配 I/he/she/it，weren't 搭配 you/we/they：The sleeves weren't long enough. 与 didn't 分工明确——be 用 wasn't/weren't，实义动词用 didn't。
 
-- **percent / checkout / cash register** — 百分比 / 收银台 / 收银机。搭配：50 percent off, at the checkout, the cash register。例句：It's 30 percent off. / Pay at the checkout. / The cash register is over there. 注意 percent off = 打折（50% off = 五折）。
+- **sweatshirt / sleeve / cotton** — sweatshirt 卫衣（sweat 汗 + shirt）。sleeve 袖子：long/short sleeves。cotton 棉，材质名词：a cotton sweatshirt。材质作定语放在名词前。
 
-- **cute / ugly / pretty** — 可爱 / 丑 / 漂亮。搭配：so cute, really ugly, pretty nice。例句：That dress is cute! / I think it's ugly. / It's pretty good quality. 注意 pretty 可作形容词（漂亮）也可作副词（相当）。
+- **underwear / stuff** — underwear 内衣，不可数名词，没有复数形式：✗ an underwear → ✓ some underwear。stuff 东西（口语泛称），不可数：all my stuff。
 
-- **didn't / doesn't / don't** — 没有 / 不（三单）/ 不。搭配：didn't like, doesn't fit, don't think。例句：I didn't buy it. / It doesn't fit. / I don't like the color. 注意 didn't + 动词原形。
+- **cute / pretty / tiny / ugly** — 评价形容词。cute 可爱，pretty 漂亮（作形容词时），tiny 极小的，ugly 丑的。注意 pretty 还可作副词"相当"：pretty good。
 
-- **wasn't / weren't** — 不是 / 不是（复数）。搭配：it wasn't, they weren't。例句：The price wasn't high. / The shoes weren't cheap. 注意 wasn't = was not（单数），weren't = were not（复数）。
+- **high / low / percent** — 谈价格用 high/low：The price is high. 注意英语不说 The price is expensive。percent 百分比：twenty percent off（打八折）。
 
-- **underwear / stuff / tiny** — 内衣 / 东西 / 极小的。搭配：underwear, all this stuff, tiny socks。例句：I need new underwear. / What's all this stuff? / These socks are tiny! 注意 underwear 不可数（不说 ✗ an underwear）。
+- **checkout / cash register / change** — 购物动线三词。checkout 收银结账处。cash register 收银机（register 有"登记"义）。change 零钱，也可作动词"改变"：Here is your change.
 
-- **selfie / thrown / away** — 自拍 / 扔了 / 离开。搭配：take a selfie, thrown away, throw away。例句：She took a selfie in the mirror. / I thrown it away. / Throw it away! 注意 throw → threw → thrown。
+- **quality** — 质量：The quality is good. 形容词是 quality 的扩展形式常用 high-quality：high-quality cotton。
 
-- **change / afterward** — 换 / 之后。搭配：change clothes, afterward, right afterward。例句：I need to change my clothes. / Afterward, we went shopping. 注意 afterward = afterwards（之后）。
+- **thrown** — throw（扔）的过去分词，不规则 throw → threw → thrown。与 be 连用表被动：The old stuff was thrown away. throw away 是"扔掉"。
 
-- **cotton / quality / percent** — 棉 / 质量 / 百分比。搭配：100% cotton, good quality, 20 percent off。例句：This is pure cotton. / The quality is excellent. / Everything is 20 percent off. 注意 cotton 不可数。
-
-- **checkout / cash register / change** — 收银台 / 收银机 / 找零。搭配：at the checkout, the cash register, keep the change。例句：Meet me at the checkout. / The cash register is broken. / Here's your change. 注意 change 也可指"找零"。
-
-- **don't / cute / ugly** — 不 / 可爱 / 丑。搭配：I don't think, so cute, really ugly。例句：I don't think it's ugly. / The baby is so cute! / That hat is ugly. 注意 I don't think + 否定转移。
+- **selfie / afterward / away** — selfie 自拍，self + -ie 的俏皮构词。afterward 之后、后来（= afterwards）。away 离开、消失，常与动词搭配：throw away, put away, go away。
 
 ## 练习
 
@@ -61,149 +56,149 @@ didn't / doesn't / don't 是否定助动词。wasn't / weren't 是 be 动词的�
 
 <quiz-sentence-builder>
 
-1. **中文**：事后，她在收银台结账时买了一件可爱的短袖卫衣。  
-   **英文**：Afterward, she bought a cute sweatshirt with short sleeves.
-   > **解析**：afterward 表示“事后/后来”；cash register / checkout 表示“收银台/结账处”；sweatshirt 表示“卫衣”；sleeve 表示“袖子”。
+1. **中文**：这件卫衣很可爱。
+   **英文**：This sweatshirt is cute.
+   > **解析**：This sweatshirt 是单数主语，用 is；cute 作表语。
 
-2. **中文**：这件由纯棉制成的高品质衬衫打九折卖。  
-   **英文**：This high quality shirt made of cotton is ten percent off.
-   > **解析**：quality 表示“品质/质量”；cotton 表示“棉花/纯棉”；percent 表示“百分之……/折”。
+2. **中文**：袖子不够长。
+   **英文**：The sleeves aren't long enough.
+   > **解析**：The sleeves 是复数主语，用 aren't；enough 放在形容词后。
 
-3. **中文**：看这件衣服的袖子有多短，它的价格相当低！  
-   **英文**：Look how short the sleeve is, and its price is pretty low!
-   > **解析**：sleeve 表示“袖子”；pretty low 表示“相当低的”。
+3. **中文**：它是棉的。
+   **英文**：It is made of cotton.
+   > **解析**：be made of 表示材质；cotton 是不可数材质名词。
 
-4. **中文**：请把那些质量低劣且丑陋的内衣扔掉。  
-   **英文**：Please throw away those low quality, ugly underwear.
-   > **解析**：ugly 表示“丑陋的”；underwear 表示“内衣”；thrown / throw away 表示“扔掉”。
+4. **中文**：我不喜欢这件内衣。
+   **英文**：I don't like this underwear.
+   > **解析**：don't + 动词原形 like；underwear 不可数，用 this 修饰。
 
-5. **中文**：收银员在收银机前忙着帮顾客清点衣物物品。  
-   **英文**：The clerk at the cash register was busy counting stuff.
-   > **解析**：cash register 表示“收银机”；stuff 表示“物品/东西”。
+5. **中文**：它不合身。
+   **英文**：It doesn't fit me.
+   > **解析**：It 是第三人称单数，用 doesn't；fit 恢复原形，me 作宾语。
 
-6. **中文**：穿上这件印有微小图案的可爱卫衣拍个自拍吧。  
-   **英文**：Take a selfie wearing this cute sweatshirt with tiny dots.
-   > **解析**：selfie 表示“自拍”；sweatshirt 表示“卫衣”；tiny 表示“微小的/极小的”。
+6. **中文**：我昨天没买它。
+   **英文**：I didn't buy it yesterday.
+   > **解析**：didn't + 动词原形 buy 构成过去时否定；yesterday 是时间状语。
 
-7. **中文**：她把换洗下来的旧衣服扔进了衣物箱里。  
-   **英文**：She had thrown her old clothes into the laundry box.
-   > **解析**：thrown 是 throw 的过去分词，表示“扔了”。
+7. **中文**：质量不太好。
+   **英文**：The quality wasn't good.
+   > **解析**：The quality 是单数主语，be 的过去否定用 wasn't。
 
-8. **中文**：那家服装店里的商品折后价格相当便宜。  
-   **英文**：The stuff in that store was sold at a pretty low price.
-   > **解析**：stuff 表示“东西/物品”；pretty low 表示“相当低的”。
+8. **中文**：那些照片不丑。
+   **英文**：Those photos weren't ugly.
+   > **解析**：Those photos 是复数主语，用 weren't；ugly 作表语。
 
-9. **中文**：这件内衣是由百分之百纯棉面料制成的。  
-   **英文**：This underwear is made of one hundred percent cotton.
-   > **解析**：percent 表示“百分之……”；cotton 表示“棉花/棉布”。
+9. **中文**：价格太高了。
+   **英文**：The price is too high.
+   > **解析**：谈价格高低用 high/low；too 修饰 high。
 
-10. **中文**：结账后，我们在商场门口合影自拍。  
-   **英文**：After checkout, we took a nice selfie at the entrance.
-   > **解析**：checkout 表示“结账/付款台”；selfie 表示“自拍”。
+10. **中文**：现在打八折。
+   **英文**：It is twenty percent off now.
+   > **解析**：twenty percent off 是折扣表达；now 是时间副词。
 
-11. **中文**：这件卫衣的布料非常柔软舒服。  
-   **英文**：The cotton material of this sweatshirt feels very soft.
-   > **解析**：sweatshirt 表示“卫衣”。
+11. **中文**：我们去收银台吧。
+   **英文**：Let's go to the checkout.
+   > **解析**：Let's + 动词原形表示建议；the checkout 指结账处。
 
-12. **中文**：事后，我们去商场买了一些生活必需用品。  
-   **英文**：Afterward, we went to the mall to buy some daily stuff.
-   > **解析**：afterward 表示“事后/后来”。
+12. **中文**：收银机旁边有零钱。
+   **英文**：There is some change by the cash register.
+   > **解析**：change 作"零钱"不可数，用 There is；by 表示"在旁边"。
 
-13. **中文**：收银员递给我购物发票和找零的零钱。  
-   **英文**：The cashier at the cash register gave me my change.
-   > **解析**：cash register 表示“收银机/收银台”。
+13. **中文**：旧东西被扔掉了。
+   **英文**：The old stuff was thrown away.
+   > **解析**：was thrown 是 be + 过去分词的被动语态；thrown 是 throw 的过去分词。
 
-14. **中文**：这件衬衫的长袖子可以卷起来。  
-   **英文**：The long sleeves of this shirt can be rolled up.
-   > **解析**：sleeves 表示“袖子”。
+14. **中文**：她拍了张自拍。
+   **英文**：She took a selfie.
+   > **解析**：took 是 take 的过去式；take a selfie 是固定搭配。
 
-15. **中文**：高品质的服饰穿着时间更加持久。  
-   **英文**：High quality clothing lasts much longer time to wear.
-   > **解析**：quality 表示“品质/质量”。
+15. **中文**：之后我们回了家。
+   **英文**：Afterward, we went home.
+   > **解析**：Afterward 是时间副词放句首；went 是 go 的过去式。
 
-16. **中文**：这件极其丑陋的大衣在清仓大甩卖。  
-   **英文**：This ugly coat was put on clear sale yesterday.
-   > **解析**：ugly 表示“丑陋的/难看的”。
+16. **中文**：这条裙子很小。
+   **英文**：This skirt is tiny.
+   > **解析**：tiny 表示"极小的"，作表语。
 
-17. **中文**：衣服上有一块微小的污渍，但并不明显。  
-   **英文**：There is a tiny spot on the sleeve, but not clear.
-   > **解析**：tiny 表示“极小的/微小的”。
+17. **中文**：我的东西别扔掉。
+   **英文**：Don't throw away my stuff.
+   > **解析**：Don't + 动词原形构成否定祈使句；throw away 是动副短语，宾语放中间。
 
-18. **中文**：这种纯棉面料透气性好，适合夏天穿。  
-   **英文**：This pure cotton fabric is breathable for summer wear.
-   > **解析**：cotton 表示“棉/棉花”。
+18. **中文**：这些衣服质量都很高。
+   **英文**：These clothes are of high quality.
+   > **解析**：be of high quality 是"质量高"的正式表达；These clothes 复数用 are。
 
-19. **中文**：请在离开服装店前去结账台买单。  
-   **英文**：Please go to the checkout counter to pay for items.
-   > **解析**：checkout 表示“结账处/付款台”。
+19. **中文**：她不觉得这件漂亮。
+   **英文**：She doesn't think this one is pretty.
+   > **解析**：She 是第三人称单数，用 doesn't；think 后接省略 that 的宾语从句。
 
-20. **中文**：她喜欢在旅行时用手机拍许多漂亮的自拍照。  
-   **英文**：She loves taking selfies with her phone while traveling.
-   > **解析**：selfies / selfie 表示“自拍”。
+20. **中文**：把袖子放下来。
+   **英文**：Put the sleeves down, please.
+   > **解析**：put down 是动副短语；please 使语气礼貌。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Afterward, she bought a cute sweatshirt with short sleeves.
-   > **中文**：事后，她在收银台结账时买了一件可爱的短袖卫衣。
+1. This sweatshirt is cute.
+   > **中文**：这件卫衣很可爱。
 
-2. This high quality shirt made of cotton is ten percent off.
-   > **中文**：这件由纯棉制成的高品质衬衫打九折卖。
+2. The sleeves aren't long enough.
+   > **中文**：袖子不够长。
 
-3. Look how short the sleeve is, and its price is pretty low!
-   > **中文**：看这件衣服的袖子有多短，它的价格相当低！
+3. It is made of cotton.
+   > **中文**：它是棉的。
 
-4. Please throw away those low quality, ugly underwear.
-   > **中文**：请把那些质量低劣且丑陋的内衣扔掉。
+4. I don't like this underwear.
+   > **中文**：我不喜欢这件内衣。
 
-5. The clerk at the cash register was busy counting stuff.
-   > **中文**：收银员在收银机前忙着帮顾客清点衣物物品。
+5. It doesn't fit me.
+   > **中文**：它不合身。
 
-6. Take a selfie wearing this cute sweatshirt with tiny dots.
-   > **中文**：穿上这件印有微小图案的可爱卫衣拍个自拍吧。
+6. I didn't buy it yesterday.
+   > **中文**：我昨天没买它。
 
-7. She had thrown her old clothes into the laundry box.
-   > **中文**：她把换洗下来的旧衣服扔进了衣物箱里。
+7. The quality wasn't good.
+   > **中文**：质量不太好。
 
-8. The stuff in that store was sold at a pretty low price.
-   > **中文**：那家服装店里的商品折后价格相当便宜。
+8. Those photos weren't ugly.
+   > **中文**：那些照片不丑。
 
-9. This underwear is made of one hundred percent cotton.
-   > **中文**：这件内衣是由百分之百纯棉面料制成的。
+9. The price is too high.
+   > **中文**：价格太高了。
 
-10. After checkout, we took a nice selfie at the entrance.
-   > **中文**：结账后，我们在商场门口合影自拍。
+10. It is twenty percent off now.
+   > **中文**：现在打八折。
 
-11. The cotton material of this sweatshirt feels very soft.
-   > **中文**：这件卫衣的布料非常柔软舒服。
+11. Let's go to the checkout.
+   > **中文**：我们去收银台吧。
 
-12. Afterward, we went to the mall to buy some daily stuff.
-   > **中文**：事后，我们去商场买了一些生活必需用品。
+12. There is some change by the cash register.
+   > **中文**：收银机旁边有零钱。
 
-13. The cashier at the cash register gave me my change.
-   > **中文**：收银员递给我购物发票和找零的零钱。
+13. The old stuff was thrown away.
+   > **中文**：旧东西被扔掉了。
 
-14. The long sleeves of this shirt can be rolled up.
-   > **中文**：这件衬衫的长袖子可以卷起来。
+14. She took a selfie in the shop.
+   > **中文**：她在店里拍了张自拍。
 
-15. High quality clothing lasts much longer time to wear.
-   > **中文**：高品质的服饰穿着时间更加持久。
+15. Afterward, we went home.
+   > **中文**：之后我们回了家。
 
-16. This ugly coat was put on clear sale yesterday.
-   > **中文**：这件极其丑陋的大衣在清仓大甩卖。
+16. This skirt is tiny.
+   > **中文**：这条裙子很小。
 
-17. There is a tiny spot on the sleeve, but not clear.
-   > **中文**：衣服上有一块微小的污渍，但并不明显。
+17. Don't throw away my stuff.
+   > **中文**：别扔掉我的东西。
 
-18. This pure cotton fabric is breathable for summer wear.
-   > **中文**：这种纯棉面料透气性好，适合夏天穿。
+18. She doesn't think this one is pretty.
+   > **中文**：她不觉得这件漂亮。
 
-19. Please go to the checkout counter to pay for items.
-   > **中文**：请在离开服装店前去结账台买单。
+19. The low price surprised me.
+   > **中文**：低价让我很惊讶。
 
-20. She loves taking selfies with her phone while traveling.
-   > **中文**：她喜欢在旅行时用手机拍许多漂亮的自拍照。
+20. These clothes are of high quality.
+   > **中文**：这些衣服质量都很高。
 
 </quiz-listening>
 
@@ -211,26 +206,37 @@ didn't / doesn't / don't 是否定助动词。wasn't / weren't 是 be 动词的�
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| afterward | 事后 / 后来 |
-| cash register | 收银机 / 收银台 |
-| checkout | 结账处 / 付款台 |
-| cotton | 棉花 / 纯棉 |
+| afterward | 之后 / 后来 |
+| away | 离开 / 掉 |
+| cash register | 收银机 |
+| change | 零钱 / 改变 |
+| checkout | 收银结账处 |
+| cotton | 棉 |
 | cute | 可爱的 |
+| didn't | 没有（过去时否定） |
+| doesn't | 不（第三人称单数否定） |
+| don't | 不（否定） |
 | high | 高的 |
 | low | 低的 |
-| percent | 百分之…… |
-| pretty | 相当地 / 漂亮的 |
-| quality | 品质 / 质量 |
+| percent | 百分比 |
+| pretty | 漂亮的 / 相当 |
+| quality | 质量 |
 | selfie | 自拍 |
 | sleeve | 袖子 |
-| stuff | 东西 / 物品 |
+| stuff | 东西 |
 | sweatshirt | 卫衣 |
-| thrown | 扔了（throw的过去分词） |
-| tiny | 极小的 / 微小的 |
-| ugly | 丑陋的 / 难看的 |
+| thrown | 扔（throw 的过去分词） |
+| tiny | 极小的 |
+| ugly | 丑的 |
 | underwear | 内衣 |
-| wasn't | 不是（was not的缩写） |
-| weren't | 不是（were not的缩写） |
+| wasn't | 不是（单数过去否定） |
+| weren't | 不是（复数过去否定） |
+| is | 是（单数） |
+| are | 是（复数） |
+| it | 它 |
+| me | 我（宾格） |
+| this | 这个 |
+| of | ……的（介词） |
 
 </quiz-matching>
 
@@ -238,202 +244,202 @@ didn't / doesn't / don't 是否定助动词。wasn't / weren't 是 be 动词的�
 
 ### 1
 
-____, she bought a cute sweatshirt with short sleeves.
+This sweatshirt is ____.
 
-- [x] Afterward
-- [ ] away
-- [ ] cash register
+- [x] cute
+- [ ] cutely
+- [ ] cuteness
 
-> **解析**：**Afterward** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 cute 作表语；cutely 是副词，cuteness 是名词。
 
 ### 2
 
-This ____ quality shirt made of cotton is ten percent off.
+The sleeves ____ long enough.
 
-- [x] high
-- [ ] afterward
-- [ ] away
+- [x] aren't
+- [ ] isn't
+- [ ] wasn't
 
-> **解析**：**high** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The sleeves 是复数主语，现在时用 aren't；isn't 用于单数，wasn't 是过去时。
 
 ### 3
 
-Look how short the ____ is, and its price is pretty low!
+It is made of ____.
 
-- [x] sleeve
-- [ ] afterward
-- [ ] away
+- [x] cotton
+- [ ] checkout
+- [ ] sleeve
 
-> **解析**：**sleeve** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be made of 后接材质 cotton；checkout 和 sleeve 不是材质。
 
 ### 4
 
-Please throw ____ those low quality, ugly underwear.
+I ____ like this underwear.
 
-- [x] away
-- [ ] afterward
-- [ ] cash register
+- [x] don't
+- [ ] doesn't
+- [ ] wasn't
 
-> **解析**：**away** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 I 的否定用 don't；doesn't 用于第三人称单数，wasn't 是 be 的否定。
 
 ### 5
 
-The clerk at the cash register was busy counting ____.
+It ____ fit me.
 
-- [x] stuff
-- [ ] afterward
-- [ ] away
+- [x] doesn't
+- [ ] don't
+- [ ] didn't
 
-> **解析**：**stuff** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：It 是第三人称单数，现在时否定用 doesn't；don't 用于 I/you/复数，didn't 是过去时。
 
 ### 6
 
-Take a ____ wearing this cute sweatshirt with tiny dots.
+I ____ buy it yesterday.
 
-- [x] selfie
-- [ ] afterward
-- [ ] away
+- [x] didn't
+- [ ] doesn't
+- [ ] don't
 
-> **解析**：**selfie** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 要求过去时否定 didn't；doesn't 和 don't 是现在时。
 
 ### 7
 
-She had ____ her old clothes into the laundry box.
+The quality ____ good.
 
-- [x] thrown
-- [ ] afterward
-- [ ] away
+- [x] wasn't
+- [ ] weren't
+- [ ] don't
 
-> **解析**：**thrown** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The quality 是单数主语，be 的过去否定用 wasn't；weren't 用于复数，don't 不修饰 be。
 
 ### 8
 
-The ____ in that store was sold at a pretty low price.
+Those photos ____ ugly.
 
-- [x] stuff
-- [ ] afterward
-- [ ] away
+- [x] weren't
+- [ ] wasn't
+- [ ] doesn't
 
-> **解析**：**stuff** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Those photos 是复数主语，用 weren't；wasn't 用于单数，doesn't 修饰实义动词。
 
 ### 9
 
-This ____ is made of one hundred percent cotton.
+The price is too ____.
 
-- [x] underwear
-- [ ] afterward
-- [ ] away
+- [x] high
+- [ ] highly
+- [ ] tall
 
-> **解析**：**underwear** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：价格用 high 修饰；highly 是副词"高度地"，tall 形容人或建筑的高度。
 
 ### 10
 
-After ____, we took a nice selfie at the entrance.
+It is twenty ____ off now.
 
-- [x] checkout
-- [ ] afterward
-- [ ] away
+- [x] percent
+- [ ] quality
+- [ ] change
 
-> **解析**：**checkout** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：折扣用 percent 表示百分比；quality 和 change 语义不符。
 
 ### 11
 
-The ____ material of this sweatshirt feels very soft.
+Let's go to the ____.
 
-- [x] cotton
-- [ ] afterward
-- [ ] away
+- [x] checkout
+- [ ] cotton
+- [ ] selfie
 
-> **解析**：**cotton** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：结账去 checkout"收银台"；cotton 和 selfie 语义不符。
 
 ### 12
 
-____, we went to the mall to buy some daily stuff.
+There is some ____ by the cash register.
 
-- [x] Afterward
-- [ ] away
-- [ ] cash register
+- [x] change
+- [ ] changes
+- [ ] quality
 
-> **解析**：**Afterward** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：零钱 change 不可数，用原形；changes 表"变化"为可数，quality 语义不符。
 
 ### 13
 
-The cashier at the cash register gave me my ____.
+The old stuff was thrown ____.
 
-- [x] change
+- [x] away
 - [ ] afterward
-- [ ] away
+- [ ] aside
 
-> **解析**：**change** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：throw away 是固定短语"扔掉"；afterward 是时间副词，aside 搭配 put。
 
 ### 14
 
-The long ____ of this shirt can be rolled up.
+She took a ____ in the shop.
 
-- [x] sleeves
-- [ ] afterward
-- [ ] away
+- [x] selfie
+- [ ] sleeve
+- [ ] percent
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **sleeves**。
+> **解析**：take a selfie 是固定搭配；sleeve 和 percent 语义不符。
 
 ### 15
 
-____ quality clothing lasts much longer time to wear.
+____, we went home.
 
-- [x] High
-- [ ] afterward
-- [ ] away
+- [x] Afterward
+- [ ] Away
+- [ ] Cotton
 
-> **解析**：**High** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Afterward"之后"作时间副词引出下文；Away 和 Cotton 语义不符。
 
 ### 16
 
-This ____ coat was put on clear sale yesterday.
+This skirt is ____.
 
-- [x] ugly
-- [ ] afterward
-- [ ] away
+- [x] tiny
+- [ ] tinyly
+- [ ] tall
 
-> **解析**：**ugly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 tiny"极小的"；tinyly 非常用副词，tall 不形容衣物大小。
 
 ### 17
 
-There is a ____ spot on the sleeve, but not clear.
+Don't throw away my ____.
 
-- [x] tiny
-- [ ] afterward
-- [ ] away
+- [x] stuff
+- [ ] stuffs
+- [ ] quality
 
-> **解析**：**tiny** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：stuff 不可数，无复数形式；stuffs 错误，quality 语义不符。
 
 ### 18
 
-This pure ____ fabric is breathable for summer wear.
+She doesn't think this one is ____.
 
-- [x] cotton
-- [ ] afterward
-- [ ] away
+- [x] pretty
+- [ ] prettily
+- [ ] prettiness
 
-> **解析**：**cotton** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 pretty 作表语；prettily 是副词，prettiness 是名词。
 
 ### 19
 
-Please go to the ____ counter to pay for items.
+These clothes are of high ____.
 
-- [x] checkout
-- [ ] afterward
-- [ ] away
+- [x] quality
+- [ ] checkout
+- [ ] sleeve
 
-> **解析**：**checkout** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be of high quality 是固定表达"质量高"；checkout 和 sleeve 语义不符。
 
 ### 20
 
-She loves taking selfies with her phone while ____.
+The low ____ surprised me.
 
-- [x] traveling
-- [ ] afterward
-- [ ] away
+- [x] price
+- [ ] cotton
+- [ ] underwear
 
-> **解析**：**traveling** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：与 low 搭配且能"让人惊讶"的是 price"价格"；cotton 和 underwear 语义不符。
 
 </quiz-cloze>

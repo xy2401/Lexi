@@ -10,42 +10,35 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"回应请求"展开，场景非常生活化——像是孩子向父母请求晚归、在外过夜。词表里有请求与协商的表达（do you think I'd be able to, would you, will you, how about if, what about if），也有设定条件的回应（as long as, make sure, curfew, school night, stay out）。你可以想象这样的对话：Do you think I'd be able to stay out past curfew? / How about if I come home by ten? / As long as you make sure to call me. / The thing is, it's a school night. / Absolutely not.
+本单元的主题是"回应请求"，场景是家庭里的许可谈判——孩子向父母争取权限。词表分成三组：请求与回应动词（ask, beg, tell, take, react, make sure）、谈判短语（as long as, if that's the case, how about if, what about if, talk it over, the thing is, that would be, do you think i'd be able to, will you, would you, absolutely not）、以及青少年生活名词（curfew, school night, sleepover, stay out, past, then, not）。拼起来就是一段完整的家庭对话：Would you let me stay out late? Absolutely not. Well, how about if I come home at ten? Let me talk it over with your father.
 
-这里值得注意请求的"升级"策略：从礼貌的 would you / do you think I'd be able to，到带条件的谈判 how about if / what about if，再到让步 talk it over。回应方则用 the thing is 引出顾虑，用 absolutely not 直接拒绝，或用 as long as 有条件地同意。
+语法主线有三条。第一条是礼貌请求：Would you...? / Will you...? 以及 Do you think I'd be able to...?——用疑问句间接提出请求，比直接说 Can I 更委婉。第二条是条件谈判：as long as（只要）、how about if / what about if（如果……怎么样）、if that's the case（既然如此）。第三条是否定回应：Absolutely not.（绝对不行）——干脆有力。
 
-学完本单元，你可以用英语进行"请求—协商—回应"的完整对话，语气从礼貌到坚定都能覆盖。
+学完这些词，你能请求许可、讨价还价、提出折中方案，也能坚定地拒绝——许可谈判的全套话术都齐了。
 
 ## Tips
 
-- **do you think I'd be able to** — 非常委婉的请求句式，比 Can I... 更礼貌、更试探。Do you think I'd be able to stay out late? 相当于"你觉得我有没有可能……"。这种间接问法给对方留了拒绝的余地。
+- **would you / will you / do you think i'd be able to** — 请求三层次。Would you mind...? / Would you let me...? 最礼貌；Will you...? 较直接，带期待；Do you think I'd be able to...? 最委婉，把请求包装成询问看法。I'd 是 I would 的缩写。
 
-- **as long as** — 只要（表条件）。搭配：as long as you..., it's fine as long as...。As long as you're home by ten, you can go. 注意 as long as 强调"唯一条件"，比 if 更有"满足这个就行"的意味。
+- **absolutely not** — 最强硬的拒绝："绝对不行"。absolutely 加强 not 的语气。软化版可以说 I'm afraid not.
 
-- **curfew** — 宵禁、门禁时间。搭配：set a curfew, break a curfew, past curfew。家庭语境中父母给孩子设 curfew；城市语境中政府设宵禁。It's past curfew—you need to come home.
+- **as long as / if that's the case** — 条件短语。as long as 是"只要"，提出许可的前提：You can go as long as you finish your homework. if that's the case 是"既然如此"，根据对方刚说的情况作出回应。
 
-- **sleepover** — 在外过夜（通常指朋友家）。搭配：have a sleepover, go to a sleepover。这是北美青少年文化中的常见活动。注意 sleep over（动词短语）vs sleepover（名词）。
+- **how about if / what about if** — 提出折中方案："如果……怎么样？"How about if I come home early? 两者基本同义，是谈判中的试探句型。
 
-- **stay out** — 待在外面（不回家）。搭配：stay out late, stay out past curfew。I want to stay out, but it's a school night. 注意 stay out 强调"不回家"，go out 强调"出门"。
+- **talk it over** — "好好商量"，动词短语 talk over 中间插入代词 it：We need to talk it over. ✗ talk over it → ✓ talk it over，代词必须放中间。
 
-- **talk it over** — 商量、好好谈谈。搭配：talk it over with sb, let's talk it over。Let me talk it over with your father. 注意 talk over = 讨论，talk it over 中的 it 指代要讨论的事。类似：think it over（仔细考虑）。
+- **the thing is / that would be / then** — the thing is 是解释原因的开场："问题是、情况是"：The thing is, it's a school night. that would be 表示"那会是"，常用于设想结果：That would be great. then 是"那么"，承接上文。
 
-- **the thing is** — 口语中引出真正原因或顾虑，"问题是……""事情是这样的……"。The thing is, you're too young. 比直接说 no 更委婉，先铺垫再给结论。
+- **ask / beg / tell / take** — 请求类动词。ask 是普通"请求"；beg 是"恳求"，程度更强：I'm begging you! tell 在许可语境指"吩咐、告诉"；take 可构成 take permission（取得许可）等搭配。
 
-- **absolutely not** — 绝对不行。语气非常强烈的拒绝。比 No way 更正式、更坚决。— Can I stay out all night? — Absolutely not.
+- **make sure / react** — make sure 是"确保"：Make sure you're home by ten. 后接从句或 of。react 是"反应"：How will they react?
 
-- **make sure** — 确保、务必。搭配：make sure (that)..., make sure to do。Make sure you lock the door. / Make sure to call me. 注意 make sure 后接 that 从句或 to do，不接 doing。
+- **curfew / school night / sleepover / stay out / past** — 青少年权限五词。curfew 是宵禁/门禁时间；school night 指第二天要上学的晚上；sleepover 是在朋友家过夜；stay out 是"在外逗留"；past 作介词表示"超过（时间）"：It's past ten.
 
-- **beg** — 恳求、乞求。搭配：beg sb to do sth, beg for。I'm begging you! / He begged his parents to let him go. 比 ask 强烈得多，带有"低声下气请求"的意味。
-
-- **school night** — 第二天要上学的晚上（通常指周日晚到周四晚）。搭配：on a school night。You can't stay out late on a school night. 这是北美家长常用的说法。
-
-- **how about if / what about if** — 提出替代方案，"如果……怎么样？"。How about if I come home by eleven? 比直接请求更协商，像在谈判中提出折中方案。两者基本同义。
-
-- **would you / will you** — 都用于请求，would you 比 will you 更礼貌。Would you let me go? / Will you drive me there? 注意 would 并不一定表过去，在请求中表委婉。
+- **not** — 本单元否定的核心词，构成各种拒绝：No, not tonight. / Absolutely not.
 
 ## 练习
 
@@ -63,149 +56,149 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
 
 <quiz-sentence-builder>
 
-1. **中文**：父母规定我在上学晚不能在外停留超过九点。
-   **英文**：My parents don't allow me to stay out late on a school night.
-   > **解析**：stay out 表示在外停留；school night 表示上学晚。
+1. **中文**：你能让我在外面待到很晚吗？
+   **英文**：Would you let me stay out late?
+   > **解析**：Would you 构成礼貌请求；let 后接宾格 me 和动词原形 stay。
 
-2. **中文**：我能去朋友家参加本周六的过夜派对吗？
-   **英文**：May I go to my friend's house for a sleepover this Saturday?
-   > **解析**：sleepover 表示过夜派对。
+2. **中文**：绝对不行。
+   **英文**：Absolutely not.
+   > **解析**：Absolutely 修饰 not 构成强烈否定回应，独立成句。
 
-3. **中文**：严格的归宿时间是晚上十点，不要太晚回家。
-   **英文**：The strict curfew for weekend nights is ten o'clock sharp.
-   > **解析**：curfew 表示归宿时间、宵禁。
+3. **中文**：只要你完成作业就可以去。
+   **英文**：You can go as long as you finish your homework.
+   > **解析**：as long as 引导条件从句；can go 是主句，finish 是从句谓语。
 
-4. **中文**：恳求父母允许我参加音乐节没有任何效果。
-   **英文**：It is no use trying to beg for permission to go to the festival.
-   > **解析**：beg 表示恳求、乞求。
+4. **中文**：如果……我早点回家怎么样？
+   **英文**：How about if I come home early?
+   > **解析**：How about if + 从句是提出折中方案的固定句型；come home 中 home 作副词不加介词。
 
-5. **中文**：我们需要在做出最后决定前仔细商量一下。
-   **英文**：We need to talk it over together before making a decision.
-   > **解析**：talk it over 表示商量、讨论。
+5. **中文**：既然如此，我们九点前到家就行。
+   **英文**：If that's the case, we can be home by nine.
+   > **解析**：If that's the case 是固定条件短语，承接上文；by nine 表示"不迟于九点"。
 
-6. **中文**：当父母得知这个消息时，他们会做出什么反应？
-   **英文**：How will your parents react when they hear about the plan?
-   > **解析**：react 表示反应。
+6. **中文**：我需要和你爸爸商量一下。
+   **英文**：I need to talk it over with your father.
+   > **解析**：talk it over 中代词 it 必须放在短语中间；with your father 是对象状语。
 
-7. **中文**：请务必在离开房间前锁好大门。
-   **英文**：Please make sure to lock the front door before leaving.
-   > **解析**：make sure 表示确保、务必。
+7. **中文**：问题是，明天是要上学的晚上。
+   **英文**：The thing is, it's a school night.
+   > **解析**：The thing is 是解释原因的开场语；it's a school night 是完整从句。
 
-8. **中文**：绝对不行！你今晚不能开我的车出去。
-   **英文**：Absolutely not! You cannot borrow my car tonight.
-   > **解析**：absolutely not 表示绝对不行，强烈否定。
+8. **中文**：你觉得我能去参加聚会吗？
+   **英文**：Do you think I'd be able to go to the party?
+   > **解析**：Do you think 引导委婉询问；I'd be able to 是 I would be able to 的缩写。
 
-9. **中文**：只要你按时完成作业，你就可以出去玩。
-   **英文**：You can go out as long as you finish your homework first.
-   > **解析**：as long as 表示只要。
+9. **中文**：你帮我个忙好吗？
+   **英文**：Will you do me a favor?
+   > **解析**：Will you + 动词原形构成请求；do me a favor 是双宾结构。
 
-10. **中文**：如果是那样的话，那我们只能取消明天的露营了。
-   **英文**：If that's the case, we have no choice but to cancel the trip.
-   > **解析**：if that's the case 表示如果是那样的话。
+10. **中文**：我求你了！
+    **英文**：I'm begging you!
+    > **解析**：am begging 是现在进行时，强调正在恳求的程度；you 作宾语。
 
-11. **中文**：问题是，我答应了妈妈今晚留在家里。
-   **英文**：The thing is, I promised my mom I would stay home tonight.
-   > **解析**：the thing is 用于引出核心问题或原因，意为问题是。
+11. **中文**：确保你十点前到家。
+    **英文**：Make sure you're home by ten.
+    > **解析**：Make sure 后接省略 that 的从句；by ten 表示截止时间。
 
-12. **中文**：能得到你的许可，那真是太棒了。
-   **英文**：If you agree, that would be really wonderful for all of us.
-   > **解析**：that would be 表示那将会是……。
+12. **中文**：他们会怎么反应？
+    **英文**：How will they react?
+    > **解析**：How 引导特殊疑问句，will 提前；react 是不及物动词。
 
-13. **中文**：你认为我这周末能借用一下你的吉他吗？
-   **英文**：Do you think I'd be able to borrow your guitar this weekend?
-   > **解析**：do you think i'd be able to 用于委婉询问许可。
+13. **中文**：门禁是十一点。
+    **英文**：Your curfew is eleven o'clock.
+    > **解析**：curfew 指门禁时间，单数主语用 is；eleven o'clock 作表语。
 
-14. **中文**：如果我们把会议改到明天下午举行怎么样？
-   **英文**：How about if we reschedule the meeting for tomorrow afternoon?
-   > **解析**：how about if 用于提出建议或请求。
+14. **中文**：已经过十点了。
+    **英文**：It's past ten.
+    > **解析**：past 作介词表示"超过（时间）"；It's 指时间。
 
-15. **中文**：要是我们先完成这部分工作再休息会怎样？
-   **英文**：What about if we complete this task before taking a break?
-   > **解析**：what about if 用于询问建议。
+15. **中文**：我可以在朋友家过夜吗？
+    **英文**：Can I have a sleepover at my friend's house?
+    > **解析**：have a sleepover 是固定搭配；at my friend's house 用所有格表示地点。
 
-16. **中文**：你愿意开车载我一程去火车站吗？
-   **英文**：Would you be willing to give me a ride to the train station?
-   > **解析**：would you 用于礼貌请求对方做某事。
+16. **中文**：那会是很好的。
+    **英文**：That would be great.
+    > **解析**：would be 表示设想中的结果，语气委婉；great 作表语。
 
-17. **中文**：请问你能帮我把这个重箱子搬到楼上去吗？
-   **英文**：Will you help me carry this heavy box upstairs, please?
-   > **解析**：will you 用于请求协助。
+17. **中文**：那么，我们达成协议了。
+    **英文**：Then we have a deal.
+    > **解析**：Then 承接上文作"那么"；have a deal 是"达成协议"的固定表达。
 
-18. **中文**：已经过了午夜十二点，大家必须安静下来。
-   **英文**：It is past midnight, so everyone must keep quiet.
-   > **解析**：past 表示超过、过（时间）。
+18. **中文**：别反应过度。
+    **英文**：Don't react too strongly.
+    > **解析**：祈使句否定用 Don't + 动词原形 react；too strongly 中副词 strongly 被 too 修饰。
 
-19. **中文**：那么，让我们明天早上八点在校门口集合吧。
-   **英文**：Then, let's meet at the school gate tomorrow morning at eight.
-   > **解析**：then 表示那么、接着。
+19. **中文**：先问一下你妈妈。
+    **英文**：Ask your mother first.
+    > **解析**：祈使句用动词原形 Ask；first 作副词放句末。
 
-20. **中文**：既然在上学晚不能太晚睡觉，我们早点回家吧。
-   **英文**：Since it's a school night, we should go home early.
-   > **解析**：school night 表示上学晚。
+20. **中文**：如果我十点前回家，我能去吗？
+    **英文**：What about if I come home before ten?
+    > **解析**：What about if + 从句是试探性提出条件；before ten 是时间状语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. My parents don't allow me to stay out late on a school night.
-   > **中文**：父母规定我在上学晚不能在外停留超过九点。
+1. Would you let me stay out late?
+   > **中文**：你能让我在外面待到很晚吗？
 
-2. May I go to my friend's house for a sleepover this Saturday?
-   > **中文**：我能去朋友家参加本周六的过夜派对吗？
+2. Absolutely not.
+   > **中文**：绝对不行。
 
-3. The strict curfew for weekend nights is ten o'clock sharp.
-   > **中文**：严格的归宿时间是晚上十点，不要太晚回家。
+3. You can go as long as you finish your homework.
+   > **中文**：只要你完成作业就可以去。
 
-4. It is no use trying to beg for permission to go to the festival.
-   > **中文**：恳求父母允许我参加音乐节没有任何效果。
+4. How about if I come home early?
+   > **中文**：如果我早点回家怎么样？
 
-5. We need to talk it over together before making a decision.
-   > **中文**：我们需要在做出最后决定前仔细商量一下。
+5. If that's the case, we can be home by nine.
+   > **中文**：既然如此，我们九点前到家就行。
 
-6. How will your parents react when they hear about the plan?
-   > **中文**：当父母得知这个消息时，他们会做出什么反应？
+6. I need to talk it over with your father.
+   > **中文**：我需要和你爸爸商量一下。
 
-7. Please make sure to lock the front door before leaving.
-   > **中文**：请务必在离开房间前锁好大门。
+7. The thing is, it's a school night.
+   > **中文**：问题是，明天是要上学的晚上。
 
-8. Absolutely not! You cannot borrow my car tonight.
-   > **中文**：绝对不行！你今晚不能开我的车出去。
+8. Do you think I'd be able to go to the party?
+   > **中文**：你觉得我能去参加聚会吗？
 
-9. You can go out as long as you finish your homework first.
-   > **中文**：只要你按时完成作业，你就可以出去玩。
+9. Will you do me a favor?
+   > **中文**：你帮我个忙好吗？
 
-10. If that's the case, we have no choice but to cancel the trip.
-   > **中文**：如果是那样的话，那我们只能取消明天的露营了。
+10. I'm begging you!
+    > **中文**：我求你了！
 
-11. The thing is, I promised my mom I would stay home tonight.
-   > **中文**：问题是，我答应了妈妈今晚留在家里。
+11. Make sure you're home by ten.
+    > **中文**：确保你十点前到家。
 
-12. If you agree, that would be really wonderful for all of us.
-   > **中文**：能得到你的许可，那真是太棒了。
+12. How will they react?
+    > **中文**：他们会怎么反应？
 
-13. Do you think I'd be able to borrow your guitar this weekend?
-   > **中文**：你认为我这周末能借用一下你的吉他吗？
+13. Your curfew is eleven o'clock.
+    > **中文**：门禁是十一点。
 
-14. How about if we reschedule the meeting for tomorrow afternoon?
-   > **中文**：如果我们把会议改到明天下午举行怎么样？
+14. It's past ten.
+    > **中文**：已经过十点了。
 
-15. What about if we complete this task before taking a break?
-   > **中文**：要是我们先完成这部分工作再休息会怎样？
+15. Can I have a sleepover at my friend's house?
+    > **中文**：我可以在朋友家过夜吗？
 
-16. Would you be willing to give me a ride to the train station?
-   > **中文**：你愿意开车载我一程去火车站吗？
+16. That would be great.
+    > **中文**：那会是很好的。
 
-17. Will you help me carry this heavy box upstairs, please?
-   > **中文**：请问你能帮我把这个重箱子搬到楼上去吗？
+17. Then we have a deal.
+    > **中文**：那么，我们达成协议了。
 
-18. It is past midnight, so everyone must keep quiet.
-   > **中文**：已经过了午夜十二点，大家必须安静下来。
+18. Don't react too strongly.
+    > **中文**：别反应过度。
 
-19. Then, let's meet at the school gate tomorrow morning at eight.
-   > **中文**：那么，让我们明天早上八点在校门口集合吧。
+19. Ask your mother first.
+    > **中文**：先问一下你妈妈。
 
-20. Since it's a school night, we should go home early.
-   > **中文**：既然在上学晚不能太晚睡觉，我们早点回家吧。
+20. What about if I come home before ten?
+    > **中文**：如果我十点前回家，我能去吗？
 
 </quiz-listening>
 
@@ -213,26 +206,37 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| curfew | 宵禁；归宿时间 |
-| sleepover | 过夜派对 |
-| stay out | 在外停留；晚归 |
-| school night | 上学日的前夜（上学晚） |
-| beg | 乞求；恳求 |
-| talk it over | 商量；讨论 |
-| react | 反应；回应 |
-| make sure | 确保；务必 |
 | absolutely not | 绝对不行 |
 | as long as | 只要 |
-| if that's the case | 如果是那样的话 |
-| the thing is | 问题是；实际情况是 |
-| that would be | 那将会是…… |
-| do you think i'd be able to | 你认为我能……吗 |
+| ask | 请求 |
+| beg | 恳求 |
+| curfew | 门禁时间 |
+| do you think i'd be able to | 你觉得我能……吗 |
 | how about if | 如果……怎么样 |
-| what about if | 要是……会怎样 |
-| would you | 你愿意……吗 |
-| will you | 你能/会……吗 |
-| past | 超过；过 |
+| if that's the case | 既然如此 |
+| make sure | 确保 |
+| not | 不 |
+| past | 超过（时间） |
+| react | 反应 |
+| school night | 第二天要上学的晚上 |
+| sleepover | 在外过夜 |
+| stay out | 在外逗留 |
+| take | 拿；取得 |
+| talk it over | 好好商量 |
+| tell | 告诉 |
+| that would be | 那会是 |
+| the thing is | 问题是 |
 | then | 那么 |
+| what about if | 如果……怎么样 |
+| will you | 你会……吗 |
+| would you | 你能……吗 |
+| home | 家 |
+| homework | 作业 |
+| party | 聚会 |
+| can | 能 |
+| need | 需要 |
+| deal | 协议 |
+| father | 父亲 |
 
 </quiz-matching>
 
@@ -240,202 +244,202 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
 
 ### 1
 
-My ____ don't allow me to stay out late on a school night.
+Would you let me ____ out late?
 
-- [x] parents
-- [ ] absolutely not
-- [ ] as long as
+- [x] stay
+- [ ] stayed
+- [ ] staying
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **parents**。
+> **解析**：let someone do，后接动词原形 stay；stayed 和 staying 都不接在 let 的宾语后。
 
 ### 2
 
-May I go to my friend's house for a ____ this Saturday?
+Absolutely ____.
 
-- [x] sleepover
-- [ ] absolutely not
-- [ ] as long as
+- [x] not
+- [ ] no
+- [ ] none
 
-> **解析**：**sleepover** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：Absolutely not 是固定强烈否定回应；no 和 none 不与 absolutely 构成此表达。
 
 ### 3
 
-The strict ____ for weekend nights is ten o'clock sharp.
+You can go as ____ as you finish your homework.
 
-- [x] curfew
-- [ ] absolutely not
-- [ ] as long as
+- [x] long
+- [ ] far
+- [ ] soon
 
-> **解析**：**curfew** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：as long as 是固定条件短语"只要"；as far as 表范围，as soon as 表时间，均不合条件义。
 
 ### 4
 
-It is no use trying to ____ for permission to go to the festival.
+How about ____ I come home early?
 
-- [x] beg
-- [ ] absolutely not
-- [ ] as long as
+- [x] if
+- [ ] that
+- [ ] when
 
-> **解析**：**beg** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：How about if + 从句提出折中方案；that 和 when 不构成此句型。
 
 ### 5
 
-We need to talk it over ____ before making a decision.
+____ that's the case, we can be home by nine.
 
-- [x] together
-- [ ] absolutely not
-- [ ] as long as
+- [x] If
+- [ ] As
+- [ ] Though
 
-> **解析**：**together** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：If that's the case 是固定短语"既然如此"；As 和 Though 不构成此表达。
 
 ### 6
 
-How will your parents ____ when they hear about the plan?
+I need to talk it ____ with your father.
 
-- [x] react
-- [ ] absolutely not
-- [ ] as long as
+- [x] over
+- [ ] out
+- [ ] up
 
-> **解析**：**react** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：talk it over 是固定短语"好好商量"；talk out 和 talk up 语义不同。
 
 ### 7
 
-Please make sure to lock the front door before ____.
+The ____ is, it's a school night.
 
-- [x] leaving
-- [ ] absolutely not
-- [ ] as long as
+- [x] thing
+- [ ] things
+- [ ] thinking
 
-> **解析**：**leaving** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：The thing is 是固定开场语；things 复数不合，thinking 语义不合。
 
 ### 8
 
-Absolutely ____! You cannot borrow my car tonight.
+Do you think I'd be able ____ go to the party?
 
-- [x] not
-- [ ] absolutely not
-- [ ] as long as
+- [x] to
+- [ ] at
+- [ ] for
 
-> **解析**：**not** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be able to do 是固定搭配；at 和 for 不合。
 
 ### 9
 
-You can go out as long as you finish your ____ first.
+____ you do me a favor?
 
-- [x] homework
-- [ ] absolutely not
-- [ ] as long as
+- [x] Will
+- [ ] Do
+- [ ] Are
 
-> **解析**：**homework** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Will you + 动词原形构成请求；Do you do 冗余，Are 不与动词原形搭配。
 
 ### 10
 
-If ____ the case, we have no choice but to cancel the trip.
+I'm ____ you!
 
-- [x] that's
-- [ ] absolutely not
-- [ ] as long as
+- [x] begging
+- [ ] beg
+- [ ] begged
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **that's**。
+> **解析**：am + begging 构成现在进行时表恳求；begged 是过去式，不与进行时搭配。
 
 ### 11
 
-The thing is, I ____ my mom I would stay home tonight.
+Make ____ you're home by ten.
 
-- [x] promised
-- [ ] absolutely not
-- [ ] as long as
+- [x] sure
+- [ ] certain
+- [ ] surely
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **promised**。
+> **解析**：Make sure 是固定短语"确保"；certain 不与 make 这样搭配，surely 是副词。
 
 ### 12
 
-If you agree, that would be really ____ for all of us.
+How will they ____?
 
-- [x] wonderful
-- [ ] absolutely not
-- [ ] as long as
+- [x] react
+- [ ] reacts
+- [ ] reacting
 
-> **解析**：**wonderful** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：will 后接动词原形 react；reacts 是三单形式，reacting 不能跟在 will 后。
 
 ### 13
 
-Do you think I'd be able to borrow your guitar this ____?
+Your curfew is eleven ____.
 
-- [x] weekend
-- [ ] absolutely not
-- [ ] as long as
+- [x] o'clock
+- [ ] clock
+- [ ] clock's
 
-> **解析**：**weekend** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：时间表达用 o'clock；clock 指实物时钟，clock's 是所有格不合。
 
 ### 14
 
-How about if we ____ the meeting for tomorrow afternoon?
+It's ____ ten.
 
-- [x] reschedule
-- [ ] absolutely not
-- [ ] as long as
+- [x] past
+- [ ] passed
+- [ ] pass
 
-> **解析**：**reschedule** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：表示"超过某个时间点"用介词 past；passed 是动词过去式，pass 是动词原形。
 
 ### 15
 
-What about if we ____ this task before taking a break?
+Can I have a ____ at my friend's house?
 
-- [x] complete
-- [ ] absolutely not
-- [ ] as long as
+- [x] sleepover
+- [ ] sleepovers
+- [ ] sleep
 
-> **解析**：**complete** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a sleepover 是可数名词单数；sleep 是动词/不可数名词，不与 have a 这样搭配。
 
 ### 16
 
-Would you be ____ to give me a ride to the train station?
+That ____ be great.
 
-- [x] willing
-- [ ] absolutely not
-- [ ] as long as
+- [x] would
+- [ ] woulds
+- [ ] wills
 
-> **解析**：**willing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：would 是情态动词无变化形式；woulds 和 wills 都不是正确形式。
 
 ### 17
 
-Will you help me carry this heavy box ____, please?
+____ we have a deal.
 
-- [x] upstairs
-- [ ] absolutely not
-- [ ] as long as
+- [x] Then
+- [ ] Than
+- [ ] Then's
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **upstairs**。
+> **解析**：Then 承接上文作"那么"；Than 用于比较，Then's 不是常规形式。
 
 ### 18
 
-It is ____ midnight, so everyone must keep quiet.
+Don't ____ too strongly.
 
-- [x] past
-- [ ] absolutely not
-- [ ] as long as
+- [x] react
+- [ ] reacts
+- [ ] reacted
 
-> **解析**：**past** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Don't 后接动词原形 react；reacts 和 reacted 都不接在否定祈使句的 Don't 后。
 
 ### 19
 
-____, let's meet at the school gate tomorrow morning at eight.
+____ your mother first.
 
-- [x] Then
-- [ ] absolutely not
-- [ ] as long as
+- [x] Ask
+- [ ] Asks
+- [ ] Asking
 
-> **解析**：**Then** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Ask；Asks 是三单形式，Asking 不能构成祈使句。
 
 ### 20
 
-Since it's a ____ night, we should go home early.
+What about ____ I come home before ten?
 
-- [x] school
-- [ ] absolutely not
-- [ ] as long as
+- [x] if
+- [ ] that
+- [ ] when
 
-> **解析**：**school** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：What about if + 从句提出试探性条件；that 和 when 不构成此句型。
 
 </quiz-cloze>

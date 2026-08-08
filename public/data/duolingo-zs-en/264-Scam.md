@@ -10,58 +10,39 @@ asking, ban, bitter, considerable, criminal, desperate, dishonest, enough, fake,
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是"警告某人关于骗局的事"——一场关于网络诈骗、虚假广告和事后愤怒的对话。词表里有大量描述欺骗和情绪的词：scam, fake, misleading, dishonest, gullible, furious。你可以这样警告：This so-called investment is a scam. You should have spoken up before you fell for it. I'm furious—the criminal made a considerable amount of money from gullible people.（这个所谓的投资就是个骗局。你本该在上当之前说出来的。我气死了——那个罪犯从容易上当的人身上捞了一大笔钱。）
+本单元的主题是"提醒别人小心骗局"。词表可以分成四组：骗局本身（scam, spam, fake, misleading, so-called, dishonest, criminal）、上当与情绪（fall for, gullible, in shock, bitter, furious, desperate, pathetic）、提醒与行动（warning, ban, speak up, should have, wish, asking）、以及程度与杂项（considerable, enough, hassle, unhelpful, this）。拼起来就是一段完整的警告：This is a scam. Don't fall for it. I should have listened to the warning.
 
-should have（本该）表达后悔和责备。fall for（上当）、speak up（发声）、in shock（震惊）是骗局叙事的关键短语。so-called（所谓的）、misleading（误导的）、fake（假的）是揭露骗局的形容词三件套。spam（垃圾信息）和 ban（禁止）暗示网络语境。
+语法主线有两条。第一条是情态动词 + have done 的"事后诸葛亮"用法：You should have told me.（你本该告诉我的）表示对过去事情的遗憾或责备；wish 后接过去式表示与现在相反的愿望：I wish I knew. 第二条是形容词评价链：fake → misleading → dishonest → criminal，从"假的"一路升级到"犯罪的"，语气层层加重，正是发出警告时的表达逻辑。
 
-学完本单元，你能用英语警告他人识别骗局，表达愤怒和后悔，并描述骗局的运作方式。
+学完这单元，你能用英语描述一个骗局、警告别人别上当、表达自己上当后的懊恼和愤怒。
 
 ## Tips
 
-- **scam** — "骗局、诈骗"。搭配：a phone scam / fall for a scam / a scam artist。比 fraud 更口语，常指"小额或网络骗局"。动词：They scammed me out of $500。注意双 m。
+- **scam / spam / fake** — 骗局三兄弟。scam 是"诈骗"，既可作名词也可作动词；spam 是垃圾邮件/信息，源自罐头肉品牌 Spam，比喻"到处都有、让人腻烦"；fake 是"假的"：a fake website。三者合起来就是网络防骗的基本词库。
 
-- **fall for** — "上当、受骗"。I fell for the scam. / Don't fall for his lies. 比 be deceived by 更口语、更有"自己不小心"的意味。画面感：掉进陷阱里。类似：be taken in by。
+- **fall for / gullible** — "上当"的一对。fall for 是动词短语"上当受骗"：Don't fall for it. gullible 是形容词"轻信的、好骗的"：I was too gullible. 习惯表达：If you fell for that, you're gullible.
 
-- **should have** — "本该（做某事）"，表达后悔或责备。You should have told me. / I should have known. 结构：should have + 过去分词。比 should 更强调"过去没做"。否定：shouldn't have done。
+- **misleading / dishonest / so-called** — 三个"不实"形容词。misleading 是"误导性的"（mis- 表否定 + lead）；dishonest 是"不诚实的"（dis- + honest）；so-called 是"所谓的"，带质疑语气：their so-called experts。构词前缀 mis- 和 dis- 都表示否定，但 mis- 偏"错误"，dis- 偏"相反"。
 
-- **so-called** — "所谓的"，带有讽刺和怀疑。a so-called expert / the so-called free trial。比 supposed 更有"名不副实"的贬义。注意有连字符：so-called。常放在名词前。
+- **should have / wish** — 懊悔双核。should have + 过去分词表示"本应该做（却没做）"：I should have checked. wish 后接过去式表示与现在事实相反的愿望：I wish I had more time. ✗ I wish I can → ✓ I wish I could。
 
-- **gullible** — "容易上当的、轻信的"。Don't be so gullible! / gullible victims。比 naive（天真）更强调"容易被骗"。名词 gullibility。注意双 l：gul-li-ble。
+- **warning / speak up / ban** — 应对骗局的行动词。warning 是"警告"，动词 warn：a warning about scams。speak up 是"大声说出来、勇敢发声"：Speak up if you see something wrong. ban 是"禁止"：The app banned the fake account.
 
-- **misleading** — "误导的、使人误解的"。misleading information / a misleading ad。动词 mislead。比 lying 更"高级"，指"用半真半假的信息误导"。注意 -ing 结尾作形容词。
+- **bitter / furious / desperate / pathetic** — 情绪形容词组。bitter 原义"苦的"，引申为"愤愤不平的"；furious 是"暴怒的"，比 angry 强得多；desperate 是"绝望的、不顾一切的"；pathetic 是"可悲的、可怜的"，常含轻蔑：a pathetic excuse。
 
-- **fake** — "假的、伪造的"。fake news / a fake website / fake products。比 false 更口语，比 counterfeit 更通用。动词：fake an injury（假装受伤）。注意和 make 区分。
+- **in shock** — "震惊中"：I was in shock when I lost the money. 注意 ✗ I shocked → ✓ I was shocked / I was in shock，shock 作动词时人通常用被动或介词短语。
 
-- **furious** — "暴怒的、狂怒的"。I'm furious about the scam. / a furious customer。比 angry 程度强得多，接近"气炸了"。名词 fury。注意 -ious 结尾：/ˈfjʊriəs/。
+- **criminal** — 既可作名词"罪犯"，也可作形容词"犯罪的"：criminal behavior。词根 crime（罪行）。本单元语境下 a criminal 常指诈骗者。
 
-- **in shock** — "震惊、目瞪口呆"。I was in shock when I found out. / She's still in shock. 比 shocked 更强调"持续的状态"。类似：in disbelief。注意 shock 前没有 a。
+- **considerable / enough** — 程度词。considerable 是"相当多的"，修饰金额或损失：a considerable amount of money。enough 是"足够的"，作副词时放在形容词后面：good enough, careful enough——✗ enough careful → ✓ careful enough。
 
-- **desperate** — "绝望的、孤注一掷的"。a desperate attempt / desperate people。比 hopeless 更有"不顾一切"的行动感。名词 desperation。注意 -ate 结尾：/ˈdespərət/。
+- **asking** — ask 的现在分词/动名词形式。常见于进行时（He is asking for money.）或作主语/宾语（Asking for help is smart.）。骗局场景中 asking for personal information（索要个人信息）是高频搭配。
 
-- **criminal** — "罪犯；犯罪的"。搭配：a criminal offense / a criminal record。形容词：criminal behavior。比 illegal 更严重，指"触犯刑法"。注意 -inal 结尾。
+- **hassle / unhelpful** — 麻烦与没用。hassle 是"麻烦事"：Reporting it is such a hassle. unhelpful 是"没帮助的"（un- + helpful）：The customer service was unhelpful.
 
-- **dishonest** — "不诚实的"。a dishonest salesman / dishonest practices。反义词 honest。注意 dis- 前缀表否定。比 lying 更正式、更广义。名词 dishonesty。
-
-- **pathetic** — "可悲的、差劲的"。a pathetic excuse / That's pathetic. 比 poor 更有"让人看不起"的贬义。注意 -etic 结尾。在口语中常用来表达不屑：Your attempt was pathetic.
-
-- **bitter** — "苦涩的；愤恨的"。a bitter lesson / a bitter complaint。原义"苦味"，引申为"痛苦的、怀恨的"。比 angry 更有"长期积怨"的感觉。名词 bitterness。
-
-- **considerable** — "相当大的、可观的"。a considerable amount / considerable damage。比 big 或 large 更正式。动词 consider，但 considerable 和"考虑"无关，指"值得注意的量"。注意 -able 结尾。
-
-- **spam** — "垃圾邮件、垃圾信息"。搭配：spam emails / spam calls / block spam。原指一种罐头肉品牌，因 Monty Python 小品而成为"垃圾信息"的代名词。动词：Don't spam me.
-
-- **ban** — "禁止、禁令"。搭配：ban spam calls / a ban on fake ads。动词：They banned the website。比 prohibit 更口语、更直接。名词和动词同形。注意双 n。
-
-- **speak up** — "大声说、勇敢发声"。Speak up if you see something suspicious. / Why didn't you speak up? 比 say something 更有"站出来、不沉默"的意味。up 暗示"提高音量/勇气"。
-
-- **hassle** — "麻烦、烦人的事"。What a hassle! / It's such a hassle to deal with scams。比 trouble 更口语，带有"琐碎烦人"的感觉。动词：Stop hassling me. 注意双 s。
-
-- **warning** — "警告"。搭配：a warning sign / give a warning / a warning message。动词 warn。比 alert 更日常。在骗局语境中：red flags are warning signs。注意 -ing 结尾。
-
-- **wish** — "希望（难以实现的）"。I wish I hadn't fallen for it. / I wish I could get my money back. 后接虚拟语气：wish + 过去时/过去完成时。比 hope 更强调"与事实相反"。
+- **this** — 指示代词/限定词，警告时的指向词：This is a scam. This message is fake. 近指，指眼前刚看到的可疑内容。
 
 ## 练习
 
@@ -79,149 +60,149 @@ should have（本该）表达后悔和责备。fall for（上当）、speak up�
 
 <quiz-sentence-builder>
 
-1. **中文**：这个所谓的投资项目完全是一个虚假的骗局。  
-   **英文**：This so-called investment scheme turned out to be a fake scam.
-   > **解析**：so-called 表示所谓的；fake 表示假的；scam 表示骗局。
+1. **中文**：这是一个骗局。
+   **英文**：This is a scam.
+   > **解析**：This 作主语用 is；scam 是可数名词单数，前面需要冠词 a。
 
-2. **中文**：你本该在轻信并上当之前勇敢说出来的。  
-   **英文**：You should have spoken up before you fell for the misleading offer.
-   > **解析**：should have 表示本该；speak up 表示发声；fall for 表示上当；misleading 表示误导的。
+2. **中文**：不要上当。
+   **英文**：Don't fall for it.
+   > **解析**：否定祈使句用 Don't + 动词原形；fall for 是固定短语，it 作宾语。
 
-3. **中文**：那个不诚实的罪犯从容易上当受骗的人身上骗走了相当大的一笔钱。  
-   **英文**：The dishonest criminal made a considerable sum from gullible people.
-   > **解析**：dishonest 表示不诚实的；criminal 表示罪犯；considerable 表示相当大的；gullible 表示轻信的。
+3. **中文**：我本该听听那个警告。
+   **英文**：I should have listened to the warning.
+   > **解析**：should have + 过去分词表示"本应做而未做"；listen to 是固定搭配。
 
-4. **中文**：当我发现自己所有的积蓄都被骗光时，我整个人陷入了震惊。  
-   **英文**：I was in shock when I realized all my savings were gone in the scam.
-   > **解析**：in shock 表示震惊；scam 表示骗局。
+4. **中文**：那个网站是假的。
+   **英文**：That website is fake.
+   > **解析**：That website 是单数主语，用 is；fake 作表语。
 
-5. **中文**：听到那个不负责任的客户服务人员提供无用帮助时，她感到极其愤怒。  
-   **英文**：She was furious when the unhelpful representative gave a pathetic excuse.
-   > **解析**：furious 表示暴怒的；unhelpful 表示无帮助的；pathetic 表示可悲的。
+5. **中文**：别相信这些所谓专家。
+   **英文**：Don't trust these so-called experts.
+   > **解析**：否定祈使句；these 修饰复数名词 experts，so-called 作定语。
 
-6. **中文**：绝望的受害者吞下了这颗痛苦的教训苦果。  
-   **英文**：The desperate victim had to learn a bitter lesson from the fraud.
-   > **解析**：desperate 表示绝望的；bitter 表示苦涩的/痛苦的。
+6. **中文**：他太轻信的，所以被骗了。
+   **英文**：He was too gullible, so he got tricked.
+   > **解析**：was 与 He 搭配；too + 形容词表示"太…"；so 连接结果分句，get + 过去分词表示被动遭遇。
 
-7. **中文**：警方发布了官方警告，并决定禁止这些发送垃圾邮件的网站。  
-   **英文**：Police issued a warning and decided to ban websites sending spam.
-   > **解析**：warning 表示警告；ban 表示禁止；spam 表示垃圾邮件。
+7. **中文**：我损失了一大笔钱。
+   **英文**：I lost a considerable amount of money.
+   > **解析**：lost 是 lose 的过去式；a considerable amount of 修饰不可数名词 money。
 
-8. **中文**：要处理这种烦人的电话诈骗事件真的是极大的麻烦。  
-   **英文**：Dealing with fraudulent spam calls is such a terrible hassle.
-   > **解析**：spam 表示垃圾信息；hassle 表示麻烦。
+8. **中文**：我当时惊呆了。
+   **英文**：I was in shock.
+   > **解析**：in shock 是固定介词短语作表语；I 搭配 was。
 
-9. **中文**：我希望自己当时没有轻易相信那个所谓的专家。  
-   **英文**：I wish I hadn't believed that so-called expert in the first place.
-   > **解析**：wish 表示希望/遗憾；so-called 表示所谓的。
+9. **中文**：这些邮件都是垃圾信息。
+   **英文**：These messages are all spam.
+   > **解析**：These messages 是复数主语，用 are；spam 不可数，作表语。
 
-10. **中文**：不要轻易落入虚假广告和误导性宣传的陷阱中。  
-   **英文**：Don't fall for fake advertisements and misleading claims on the internet.
-   > **解析**：fall for 表示上当；fake 表示假的；misleading 表示误导的。
+10. **中文**：那个广告有误导性。
+   **英文**：The ad is misleading.
+   > **解析**：The ad 是单数主语，用 is；misleading 是形容词化的现在分词作表语。
 
-11. **中文**：如果你在网上看到可疑的犯罪活动，请及时大胆发声揭发。  
-   **英文**：If you see suspicious criminal behavior, please speak up right away.
-   > **解析**：criminal 表示犯罪的/罪犯；speak up 表示大胆发声。
+11. **中文**：你应该早点告诉我。
+   **英文**：You should have told me earlier.
+   > **解析**：should have + 过去分词 told 表示对过去的责备；earlier 是比较级副词放句末。
 
-12. **中文**：那个不诚实的商人给出了一个极其可悲的借口。  
-   **英文**：The dishonest seller gave a pathetic excuse for the fake product.
-   > **解析**：dishonest 表示不诚实的；pathetic 表示可悲的；fake 表示假的。
+12. **中文**：我真希望我知道。
+   **英文**：I wish I knew.
+   > **解析**：wish 后接从句用过去式 knew，表示与现在事实相反的愿望。
 
-13. **中文**：这个垃圾信息拦截系统帮我们省去了许多不必要的麻烦。  
-   **英文**：This spam filter saved us from a considerable amount of hassle.
-   > **解析**：spam 表示垃圾信息；considerable 表示相当大的；hassle 表示麻烦。
+13. **中文**：看到可疑的东西就发声。
+   **英文**：Speak up if you see something suspicious.
+   > **解析**：祈使句 Speak up 开头；if 引导条件状语从句，suspicious 修饰 something。
 
-14. **中文**：政府决定禁止该平台发布具有误导性的假新闻。  
-   **英文**：The government put a ban on releasing misleading fake news.
-   > **解析**：ban 表示禁令/禁止；misleading 表示误导的；fake 表示假的。
+14. **中文**：那个应用禁止了假账号。
+   **英文**：The app banned the fake accounts.
+   > **解析**：banned 是 ban 的过去式；the fake accounts 作宾语，fake 修饰 accounts。
 
-15. **中文**：看到那个罪犯大肆骗取绝望人们的金钱，真令人吃惊。  
-   **英文**：It was shocking to see the criminal scam money from desperate victims.
-   > **解析**：criminal 表示罪犯；scam 表示诈骗；desperate 表示绝望的。
+15. **中文**：他气得不得了。
+   **英文**：He was furious about the scam.
+   > **解析**：was 与 He 搭配；furious 作表语，about 引出原因。
 
-16. **中文**：那个轻信他人的老人在遭遇电话诈骗后感到无比痛苦与愤恨。  
-   **英文**：The gullible senior was left feeling bitter after the phone scam.
-   > **解析**：gullible 表示轻信的；bitter 表示痛苦愤恨的；scam 表示骗局。
+16. **中文**：举报它真是件麻烦事。
+   **英文**：Reporting it is such a hassle.
+   > **解析**：动名词短语 Reporting it 作主语，谓语用单数 is；such a + 名词是强调结构。
 
-17. **中文**：这种看似热情的询问背后往往隐藏着不诚实的动机。  
-   **英文**：This kind of asking often hides dishonest intentions behind it.
-   > **解析**：dishonest 表示不诚实的。
+17. **中文**：客服一点忙都没帮上。
+   **英文**：The customer service was unhelpful.
+   > **解析**：was 与单数主语搭配；unhelpful（un- + helpful）作表语。
 
-18. **中文**：他为自己没有足够谨慎地防范骗局而感到万分暴怒。  
-   **英文**：He was furious with himself for not being careful enough about scams.
-   > **解析**：furious 表示暴怒的；enough 表示足够地；scam 表示骗局。
+18. **中文**：他们索要我的个人信息。
+   **英文**：They were asking for my personal information.
+   > **解析**：过去进行时 were asking 表示当时正在发生；ask for 是固定搭配"索要"。
 
-19. **中文**：我真的希望所有的垃圾邮件和网络诈骗都能彻底消失。  
-   **英文**：I wish all spam emails and fake scams would disappear forever.
-   > **解析**：wish 表示希望；spam 表示垃圾邮件；fake 表示假的。
+19. **中文**：这真可悲。
+   **英文**：This is pathetic.
+   > **解析**：This 作主语用 is；pathetic 作表语表示"可悲的"。
 
-20. **中文**：这一严厉的警告提醒大家切勿上当受骗。  
-   **英文**：This strong warning serves to prevent people from falling for scams.
-   > **解析**：warning 表示警告；fall for 表示上当；scam 表示骗局。
+20. **中文**：小心一点总不为过。
+   **英文**：You can never be careful enough.
+   > **解析**：enough 作副词放在形容词 careful 之后；can never 表示"再…也不为过"。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. This so-called investment scheme turned out to be a fake scam.
-   > **中文**：这个所谓的投资项目完全是一个虚假的骗局。
+1. This is a scam.
+   > **中文**：这是一个骗局。
 
-2. You should have spoken up before you fell for the misleading offer.
-   > **中文**：你本该在轻信并上当之前勇敢说出来的。
+2. Don't fall for it.
+   > **中文**：不要上当。
 
-3. The dishonest criminal made a considerable sum from gullible people.
-   > **中文**：那个不诚实的罪犯从容易上当受骗的人身上骗走了相当大的一笔钱。
+3. The website is fake.
+   > **中文**：这个网站是假的。
 
-4. I was in shock when I realized all my savings were gone in the scam.
-   > **中文**：当我发现自己所有的积蓄都被骗光时，我整个人陷入了震惊。
+4. I got spam this morning.
+   > **中文**：我今早收到了垃圾信息。
 
-5. She was furious when the unhelpful representative gave a pathetic excuse.
-   > **中文**：听到那个不负责任的客户服务人员提供无用帮助时，她感到极其愤怒。
+5. The ad is misleading.
+   > **中文**：这个广告有误导性。
 
-6. The desperate victim had to learn a bitter lesson from the fraud.
-   > **中文**：绝望的受害者吞下了这颗痛苦的教训苦果。
+6. He is dishonest.
+   > **中文**：他不诚实。
 
-7. Police issued a warning and decided to ban websites sending spam.
-   > **中文**：警方发布了官方警告，并决定禁止这些发送垃圾邮件的网站。
+7. She is a criminal.
+   > **中文**：她是个罪犯。
 
-8. Dealing with fraudulent spam calls is such a terrible hassle.
-   > **中文**：要处理这种烦人的电话诈骗事件真的是极大的麻烦。
+8. I should have listened to you.
+   > **中文**：我本该听你的。
 
-9. I wish I hadn't believed that so-called expert in the first place.
-   > **中文**：我希望自己当时没有轻易相信那个所谓的专家。
+9. I wish I knew about the scam.
+   > **中文**：我真希望我当时知道这个骗局。
 
-10. Don't fall for fake advertisements and misleading claims on the internet.
-   > **中文**：不要轻易落入虚假广告和误导性宣传的陷阱中。
+10. Take my warning seriously.
+   > **中文**：认真对待我的警告。
 
-11. If you see suspicious criminal behavior, please speak up right away.
-   > **中文**：如果你在网上看到可疑的犯罪活动，请及时大胆发声揭发。
+11. The app banned the fake account.
+   > **中文**：这个应用封掉了假账号。
 
-12. The dishonest seller gave a pathetic excuse for the fake product.
-   > **中文**：那个不诚实的商人给出了一个极其可悲的借口。
+12. Speak up if you see a scam.
+   > **中文**：看到骗局就发声。
 
-13. This spam filter saved us from a considerable amount of hassle.
-   > **中文**：这个垃圾信息拦截系统帮我们省去了许多不必要的麻烦。
+13. I was too gullible.
+   > **中文**：我太轻信了。
 
-14. The government put a ban on releasing misleading fake news.
-   > **中文**：政府决定禁止该平台发布具有误导性的假新闻。
+14. I was in shock for a day.
+   > **中文**：我震惊了一整天。
 
-15. It was shocking to see the criminal scam money from desperate victims.
-   > **中文**：看到那个罪犯大肆骗取绝望人们的金钱，真令人吃惊。
+15. He was furious about the scam.
+   > **中文**：他对这个骗局气得不得了。
 
-16. The gullible senior was left feeling bitter after the phone scam.
-   > **中文**：那个轻信他人的老人在遭遇电话诈骗后感到无比痛苦与愤恨。
+16. I lost a considerable amount of money.
+   > **中文**：我损失了一大笔钱。
 
-17. This kind of asking often hides dishonest intentions behind it.
-   > **中文**：这种看似热情的询问背后往往隐藏着不诚实的动机。
+17. They are asking for my password.
+   > **中文**：他们在索要我的密码。
 
-18. He was furious with himself for not being careful enough about scams.
-   > **中文**：他为自己没有足够谨慎地防范骗局而感到万分暴怒。
+18. Their so-called experts are fake.
+   > **中文**：他们所谓的专家是假的。
 
-19. I wish all spam emails and fake scams would disappear forever.
-   > **中文**：我真的希望所有的垃圾邮件和网络诈骗都能彻底消失。
+19. Reporting it is such a hassle.
+   > **中文**：举报它真是件麻烦事。
 
-20. This strong warning serves to prevent people from falling for scams.
-   > **中文**：这一严厉的警告提醒大家切勿上当受骗。
+20. You can never be careful enough.
+   > **中文**：小心一点总不为过。
 
 </quiz-listening>
 
@@ -229,26 +210,38 @@ should have（本该）表达后悔和责备。fall for（上当）、speak up�
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| scam | 骗局 |
-| fall for | 上当 |
-| fake | 假的 |
-| misleading | 误导的 |
-| so-called | 所谓的 |
-| gullible | 轻信的 |
-| furious | 暴怒的 |
-| in shock | 震惊 |
-| desperate | 绝望的 |
-| dishonest | 不诚实的 |
-| criminal | 罪犯 |
-| pathetic | 可悲的 |
-| bitter | 痛苦的；愤恨的 |
-| considerable | 相当大的 |
-| spam | 垃圾信息 |
+| asking | 索要 / 询问 |
 | ban | 禁止 |
-| speak up | 大胆发声 |
-| hassle | 麻烦 |
+| bitter | 愤愤不平的 / 苦的 |
+| considerable | 相当多的 |
+| criminal | 罪犯 / 犯罪的 |
+| desperate | 绝望的 / 不顾一切的 |
+| dishonest | 不诚实的 |
+| enough | 足够的 |
+| fake | 假的 |
+| fall for | 上当 |
+| furious | 暴怒的 |
+| gullible | 轻信的 |
+| hassle | 麻烦事 |
+| in shock | 震惊中 |
+| misleading | 误导性的 |
+| pathetic | 可悲的 |
+| scam | 骗局 |
+| should have | 本应该 |
+| so-called | 所谓的 |
+| spam | 垃圾信息 |
+| speak up | 大声说出来 / 发声 |
+| this | 这个 |
+| unhelpful | 没帮助的 |
 | warning | 警告 |
-| should have | 本该 |
+| wish | 希望 |
+| is | 是 |
+| don't | 不要 |
+| website | 网站 |
+| money | 钱 |
+| password | 密码 |
+| account | 账号 |
+| ad | 广告 |
 
 </quiz-matching>
 
@@ -256,202 +249,202 @@ should have（本该）表达后悔和责备。fall for（上当）、speak up�
 
 ### 1
 
-____ so-called investment scheme turned out to be a fake scam.
+This is a ____.
 
-- [x] This
-- [ ] asking
-- [ ] ban
+- [x] scam
+- [ ] enough
+- [ ] this
 
-> **解析**：**this** 为指示代词/限定词，指代单数近指事物，表示“这个”。
+> **解析**：a 后需要可数名词 scam（骗局）；enough 是副词/限定词，this 是指示词，都不合。
 
 ### 2
 
-You should have spoken up before you fell for the ____ offer.
+Don't fall ____ it.
 
-- [x] misleading
-- [ ] asking
-- [ ] ban
+- [x] for
+- [ ] up
+- [ ] of
 
-> **解析**：**misleading** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：fall for 是固定短语"上当"；fall up 和 fall of 都不是该搭配。
 
 ### 3
 
-The ____ criminal made a considerable sum from gullible people.
+The website is ____.
 
-- [x] dishonest
-- [ ] asking
-- [ ] ban
+- [x] fake
+- [ ] scam
+- [ ] warning
 
-> **解析**：**dishonest** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 fake 作表语；scam 和 warning 是名词。
 
 ### 4
 
-I was in shock when I realized all my savings were gone in the ____.
+I should have ____ to the warning.
 
-- [x] scam
-- [ ] asking
+- [x] listened
 - [ ] ban
+- [ ] speak
 
-> **解析**：**scam** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：should have 后接过去分词 listened；ban 和 speak 是原形，不合结构。
 
 ### 5
 
-She was ____ when the unhelpful representative gave a pathetic excuse.
+The ad is very ____.
 
-- [x] furious
-- [ ] asking
-- [ ] ban
+- [x] misleading
+- [ ] gullible
+- [ ] hassle
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **furious**。
+> **解析**：is 后需要形容词；misleading 修饰 ad（广告误导人）成立，gullible 只能修饰人，hassle 是名词。
 
 ### 6
 
-The ____ victim had to learn a bitter lesson from the fraud.
+He is ____, so nobody trusts him.
 
-- [x] desperate
-- [ ] asking
-- [ ] ban
+- [x] dishonest
+- [ ] enough
+- [ ] spam
 
-> **解析**：**desperate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要描述人的形容词 dishonest；enough 和 spam 都不能作表语形容词。
 
 ### 7
 
-Police issued a ____ and decided to ban websites sending spam.
+I was too ____ to see through the scam.
 
-- [x] warning
-- [ ] asking
-- [ ] ban
+- [x] gullible
+- [ ] criminal
+- [ ] considerable
 
-> **解析**：**warning** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：too 后接形容词，gullible（轻信的）符合"看不出骗局"的语境；criminal 和 considerable 语义不符。
 
 ### 8
 
-Dealing with fraudulent ____ calls is such a terrible hassle.
+I was in ____ for a day.
 
-- [x] spam
-- [ ] asking
+- [x] shock
+- [ ] scam
 - [ ] ban
 
-> **解析**：**spam** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：in shock 是固定短语"震惊中"；scam 和 ban 都不构成该搭配。
 
 ### 9
 
-I ____ I hadn't believed that so-called expert in the first place.
+They were asking ____ my password.
 
-- [x] wish
-- [ ] asking
-- [ ] ban
+- [x] for
+- [ ] to
+- [ ] at
 
-> **解析**：**wish** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：ask for 是固定搭配"索要"；to 和 at 都与 asking 不构成该语义。
 
 ### 10
 
-Don't fall for ____ advertisements and misleading claims on the internet.
+The app ____ the fake account.
 
-- [x] fake
-- [ ] asking
-- [ ] ban
+- [x] banned
+- [ ] wished
+- [ ] fell
 
-> **解析**：**fake** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句意是"封掉假账号"，banned 成立；wished 和 fell 语义不通。
 
 ### 11
 
-If you see suspicious ____ behavior, please speak up right away.
+____ up if you see a scam.
 
-- [x] criminal
-- [ ] asking
-- [ ] ban
+- [x] Speak
+- [ ] Fall
+- [ ] Wish
 
-> **解析**：**criminal** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：speak up 是固定短语"发声"；fall up 和 wish up 都不成立。
 
 ### 12
 
-The ____ seller gave a pathetic excuse for the fake product.
+Their so-called ____ are fake.
 
-- [x] dishonest
-- [ ] asking
-- [ ] ban
+- [x] experts
+- [ ] shock
+- [ ] spam
 
-> **解析**：**dishonest** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：so-called 修饰指人名词 experts 与 are 复数搭配；shock 和 spam 语义不符。
 
 ### 13
 
-____ spam filter saved us from a considerable amount of hassle.
+I lost a considerable amount of ____.
 
-- [x] This
-- [ ] asking
-- [ ] ban
+- [x] money
+- [ ] warning
+- [ ] hassle
 
-> **解析**：**this** 为指示代词/限定词，指代单数近指事物，表示“这个”。
+> **解析**：amount of 后接不可数名词，money 成立；warning 和 hassle 不合语境。
 
 ### 14
 
-The government put a ____ on releasing misleading fake news.
+He was ____ about the scam.
 
-- [x] ban
+- [x] furious
+- [ ] spam
 - [ ] asking
-- [ ] bitter
 
-> **解析**：**ban** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后需要情绪形容词 furious；spam 和 asking 都不是形容词。
 
 ### 15
 
-It was shocking to see the ____ scam money from desperate victims.
+You can never be careful ____.
 
-- [x] criminal
-- [ ] asking
-- [ ] ban
+- [x] enough
+- [ ] considerable
+- [ ] bitter
 
-> **解析**：**criminal** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：enough 作副词放在形容词 careful 之后；considerable 和 bitter 不能这样用。
 
 ### 16
 
-The ____ senior was left feeling bitter after the phone scam.
+Reporting it is such a ____.
 
-- [x] gullible
-- [ ] asking
-- [ ] ban
+- [x] hassle
+- [ ] gullible
+- [ ] dishonest
 
-> **解析**：**gullible** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：such a 后接单数名词 hassle；gullible 和 dishonest 是形容词。
 
 ### 17
 
-____ kind of asking often hides dishonest intentions behind it.
+I wish I ____ about the scam.
 
-- [x] This
-- [ ] asking
-- [ ] ban
+- [x] knew
+- [ ] know
+- [ ] knowing
 
-> **解析**：**this** 为指示代词/限定词，指代单数近指事物，表示“这个”。
+> **解析**：wish 后的从句用过去式表示与现在相反的愿望；know 和 knowing 不合该虚拟结构。
 
 ### 18
 
-He was ____ with himself for not being careful enough about scams.
+The customer service was ____.
 
-- [x] furious
-- [ ] asking
-- [ ] ban
+- [x] unhelpful
+- [ ] criminal
+- [ ] desperate
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **furious**。
+> **解析**：描述客服"没帮上忙"用 unhelpful；criminal 和 desperate 语义不符。
 
 ### 19
 
-I ____ all spam emails and fake scams would disappear forever.
+This message is just ____.
 
-- [x] wish
-- [ ] asking
-- [ ] ban
+- [x] spam
+- [ ] warning
+- [ ] shock
 
-> **解析**：**wish** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：垃圾消息用 spam 表语；warning（警告）和 shock 语义相反或不合。
 
 ### 20
 
-____ strong warning serves to prevent people from falling for scams.
+She was desperate and ____.
 
-- [x] This
-- [ ] asking
-- [ ] ban
+- [x] bitter
+- [ ] this
+- [ ] enough
 
-> **解析**：**this** 为指示代词/限定词，指代单数近指事物，表示“这个”。
+> **解析**：and 连接同类情绪形容词，bitter（愤愤不平的）成立；this 和 enough 都不是情绪形容词。
 
 </quiz-cloze>

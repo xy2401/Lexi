@@ -10,42 +10,33 @@ afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if o
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"表达对生活的愿望"展开。词表里有愿望与期望的核心表达（wish, hope, hopeful, if only, come true），也有面对现实的态度词（afraid, regret, satisfied, unlikely, oh well, silly）。你可以用这些词谈论梦想与遗憾：I wish I could win the lottery. / If only I had taken that chance. / I hope my dream will come true. / Oh well, it's unlikely, but I'm still hopeful.
+本单元的主题是"表达对生活的愿望"。词表分成三组：愿望类动词与短语（wish, hope, if only, come true, chance, lottery）、情感与态度（afraid, hopeful, satisfied, regret, silly, oh well, unlikely）、以及行动类（take advantage, step, habit, encourage, count, marry, as many）。拼起来就是人生愿望的全套表达：I wish I had more time. If only I could travel. I hope my dreams come true.
 
-这里值得注意 wish 和 hope 的区别：hope 用于可能实现的事（I hope it rains tomorrow），wish 常用于不太可能或与事实相反的愿望（I wish I were rich）。if only 语气更强烈，带有遗憾：If only I hadn't been so silly.
+语法主线有三条。第一条是 wish 的虚拟用法：I wish + 过去时表示与现在相反的愿望（I wish I were rich），I wish + 过去完成时表示对过去的遗憾（I wish I had studied harder）。第二条是 if only，语气比 wish 更强烈：If only I knew the answer. 第三条是 hope 与 wish 的区分——hope 用于可能实现的愿望：I hope it rains tomorrow.
 
-学完本单元，你可以用英语表达愿望、遗憾和对未来的期望，也能用 oh well 和 unlikely 来调侃现实。
+学完这些词，你能许愿、遗憾、期盼、自我安慰（oh well），还能劝人抓住机会——人生的酸甜苦辣都能表达了。
 
 ## Tips
 
-- **wish / hope** — 两者都表"希望"，但用法不同。hope 后接可能实现的事：I hope you feel better. wish 用于虚拟或与事实相反：I wish I had more time.（实际没有）wish 后接过去式表现在的遗憾，接 had done 表过去的遗憾。
+- **wish / hope** — 英语中最容易混淆的一对。wish 用于难以实现的愿望，后接过去时：I wish I could fly. hope 用于可能实现的期盼，后接现在时或将来：I hope you win. ✗ I hope I could fly（希望语境下用 could 不自然）。wish 还可接双宾语：I wish you luck.
 
-- **if only** — "要是……就好了"，语气比 wish 更强烈、更感性。If only I had married her. / If only I weren't so afraid. 常用于感叹句，表达深深的遗憾或渴望。
+- **if only** — "要是……就好了"，与 wish 同义但感情更强烈：If only I had more time! 后接过去时（对现在的愿望）或过去完成时（对过去的遗憾）。
 
-- **come true** — （梦想、愿望）实现。搭配：a dream comes true, make a wish come true。注意主语是 dream/wish，不是人：My dream came true.（× I came true my dream）。
+- **come true** — （梦想）"成真"，主语是 dream/wish：My dream came true. 注意 ✗ come truly，true 在此是形容词补语，不变成副词。
 
-- **regret** — 后悔、遗憾。搭配：regret doing sth（后悔做过）, regret to say（遗憾地说）。I regret not taking that step. / I regret to tell you the news. 注意 regret doing = 后悔已做的事，regret to do = 遗憾将要做的事。
+- **chance / lottery / take advantage** — chance 是"机会"：a chance to travel. lottery 是彩票，win the lottery 中彩票，常比喻意外之喜。take advantage 是"利用（机会）"：Take advantage of every chance.
 
-- **take advantage** — 利用（机会）。完整搭配：take advantage of a chance / opportunity。注意这个短语有双重含义：中性"把握机会"或贬义"占便宜、利用别人"，要看语境。
+- **afraid / hopeful / satisfied / unlikely** — 四个态度词。afraid 常作委婉开场：I'm afraid I can't help.（恐怕我帮不上忙。）hopeful 是"充满希望的"；satisfied 是"满意的"，be satisfied with；unlikely 是"不太可能的"：It is unlikely to happen.
 
-- **unlikely** — 不太可能的。搭配：It's unlikely that..., be unlikely to do。It's unlikely I'll win the lottery. 反义词是 likely。注意 × It's not likely 虽然口语能听到，但正式写作更推荐 unlikely。
+- **regret** — "后悔、遗憾"，可接动名词（后悔做过）或 to do（遗憾要做）：I regret saying that. / I regret to tell you... 名词形式也是 regret：no regrets.
 
-- **encourage** — 鼓励。搭配：encourage sb to do sth。She encouraged me to take the chance. 构词：en-（使）+ courage（勇气）→ 给予勇气。名词是 encouragement。
+- **silly / oh well** — silly 是"傻的、可笑的"：a silly mistake. oh well 是自我安慰的口头禅"算了、好吧"，表示接受不如意：Oh well, at least we tried.
 
-- **habit / step** — habit 是习惯（反复做的事），step 是步骤、一步。搭配：break a habit, take a step。I have a habit of counting my steps. / Take the first step—don't be afraid.
+- **step / habit / encourage / count** — step 是"步骤"，take steps to do（采取措施）；habit 是"习惯"，break a habit（改掉习惯）；encourage 是"鼓励"：encourage someone to do something. count 是"数、重要"：Every step counts.（每一步都重要。）
 
-- **satisfied / hopeful** — satisfied 是"满足的"（对已得到的），hopeful 是"充满希望的"（对未来的）。搭配：be satisfied with, feel hopeful about。I'm satisfied with what I have, and hopeful about what's next.
-
-- **lottery** — 彩票、抽奖。搭配：win the lottery, play the lottery。注意搭配用 win the lottery（不是 × get the lottery）。比喻义：life's a lottery（人生如抽奖，充满不确定性）。
-
-- **oh well** — 口语感叹词，表"算了、没办法"，带一点释然或自嘲。Oh well, I guess it wasn't meant to be. 语气比 never mind 更轻松、更接受现实。
-
-- **as many** — 同样多的（数量）。搭配：as many as, as many ... as。I don't have as many chances as you. 注意 as many 修饰可数名词，as much 修饰不可数名词。
-
-- **count** — 数、计算；也有"重要"的意思。搭配：count to ten, every step counts。Every day counts.（每一天都重要。）这个"重要"义很常用：Your opinion counts.
+- **marry / as many** — marry 是"结婚"，及物动词直接接人：He married her.（✗ married with her）。as many 表示"同样多的数量"：Take as many as you need.
 
 ## 练习
 
@@ -63,149 +54,149 @@ afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if o
 
 <quiz-sentence-builder>
 
-1. **中文**：我希望我有更多时间去环游世界。
-   **英文**：I wish I had more free time to travel around the world.
-   > **解析**：wish 后面从句常用虚拟语气，表达难以实现的愿望。
+1. **中文**：我希望我有更多时间。
+   **英文**：I wish I had more time.
+   > **解析**：wish 后接过去时 had 表示与现在事实相反的愿望；more time 中 more 修饰不可数名词 time。
 
-2. **中文**：要是我当时接受了那份工作邀请就好了。
-   **英文**：If only I had accepted that job offer when I had the chance.
-   > **解析**：if only 表达强烈的遗憾或假想。
+2. **中文**：我要是知道答案就好了。
+   **英文**：If only I knew the answer.
+   > **解析**：If only 后接过去时 knew 表示强烈愿望；the answer 作宾语。
 
-3. **中文**：只要你坚持努力，你的所有梦想终将实现。
-   **英文**：If you keep working hard, all your dreams will come true.
-   > **解析**：come true 表示梦想等实现。
+3. **中文**：我希望你赢。
+   **英文**：I hope you win.
+   > **解析**：hope 用于可能实现的愿望，从句用一般现在时 win 表示将来。
 
-4. **中文**：尽管遇到了困难，我们依然对未来抱有希望。
-   **英文**：Despite the difficulties, we remain hopeful about the future.
-   > **解析**：hopeful 表示抱有希望的。
+4. **中文**：我的梦想成真了。
+   **英文**：My dream came true.
+   > **解析**：came 是 come 的过去式；come true 是固定短语，true 作补语不变化。
 
-5. **中文**：他非常后悔没有在大学期间认真学习外语。
-   **英文**：He deeply regrets not studying foreign languages in college.
-   > **解析**：regret 表示后悔、遗憾。
+5. **中文**：这是一个旅行的好机会。
+   **英文**：This is a good chance to travel.
+   > **解析**：a good chance 是可数名词短语；to travel 不定式作后置定语修饰 chance。
 
-6. **中文**：顾客对我们的服务质量感到非常满意。
-   **英文**：The client felt completely satisfied with our service quality.
-   > **解析**：satisfied 表示满意的。
+6. **中文**：我中了彩票。
+   **英文**：I won the lottery.
+   > **解析**：won 是 win 的过去式；the lottery 特指那次抽奖。
 
-7. **中文**：中彩票特等奖的可能性非常小。
-   **英文**：Winning the grand prize in the lottery is extremely unlikely.
-   > **解析**：lottery 表示彩票；unlikely 表示不大可能的。
+7. **中文**：利用每一个机会。
+   **英文**：Take advantage of every chance.
+   > **解析**：take advantage of 是固定短语；every chance 作宾语。
 
-8. **中文**：老师总是鼓励学生们勇敢追求自己的目标。
-   **英文**：Teachers always encourage students to pursue their goals bravely.
-   > **解析**：encourage 表示鼓励。
+8. **中文**：恐怕我帮不上忙。
+   **英文**：I'm afraid I can't help.
+   > **解析**：I'm afraid 后接省略 that 的从句，作委婉开场；can't help 表示无能为力。
 
-9. **中文**：你应该抓住并充分利用这个宝贵的出访机会。
-   **英文**：You should take advantage of this rare study opportunity.
-   > **解析**：take advantage 表示利用、充分利用。
+9. **中文**：她对结果很满意。
+   **英文**：She is satisfied with the result.
+   > **解析**：be satisfied with 是固定搭配；the result 作 with 的宾语。
 
-10. **中文**：养成良好的阅读习惯是迈向成功的重要一步。
-   **英文**：Developing good reading habits is a vital step toward success.
-   > **解析**：habit 表示习惯；step 表示步骤。
+10. **中文**：我后悔说了那句话。
+    **英文**：I regret saying that.
+    > **解析**：regret 后接动名词 saying 表示后悔做过的事；that 作 saying 的宾语。
 
-11. **中文**：每一个细小的努力在追求梦想的路上都算数。
-   **英文**：Every small effort counts on the path to achieving your goals.
-   > **解析**：count 表示有价值、算数。
+11. **中文**：那不太可能发生。
+    **英文**：It is unlikely to happen.
+    > **解析**：It is + 形容词 + to do 结构；unlikely 作表语。
 
-12. **中文**：他们计划在今年秋天举行婚礼并结婚。
-   **英文**：They plan to marry and hold a ceremony this coming autumn.
-   > **解析**：marry 表示结婚。
+12. **中文**：算了，至少我们试过了。
+    **英文**：Oh well, at least we tried.
+    > **解析**：Oh well 是感叹短语独立使用；tried 是过去式，at least 是固定短语。
 
-13. **中文**：别为那些无足轻重的傻念头感到沮丧。
-   **英文**：Don't feel discouraged over such a silly mistake.
-   > **解析**：silly 表示傻的、糊涂的。
+13. **中文**：这是个愚蠢的错误。
+    **英文**：This is a silly mistake.
+    > **解析**：silly 形容词修饰 mistake；a silly mistake 作表语。
 
-14. **中文**：唉，好吧，既然下雨了我们就改天去野餐吧。
-   **英文**：Oh well, since it is raining, we can picnic another day.
-   > **解析**：oh well 表达无奈接受现实，意为唉、好吧。
+14. **中文**：采取措施改善你的生活。
+    **英文**：Take steps to improve your life.
+    > **解析**：take steps 是固定搭配"采取措施"；to improve 不定式表目的。
 
-15. **中文**：我害怕如果我不试一下，以后会更加后悔。
-   **英文**：I am afraid that I will regret it more if I don't try.
-   > **解析**：afraid 表示害怕的、担心的。
+15. **中文**：改掉坏习惯需要时间。
+    **英文**：Breaking a bad habit takes time.
+    > **解析**：Breaking a bad habit 动名词短语作主语，谓语用单数 takes；time 不可数。
 
-16. **中文**：只有抓住机会，你才能证明自己的能力。
-   **英文**：Only by taking a chance can you prove your full potential.
-   > **解析**：chance 表示机会。
+16. **中文**：他鼓励我尝试。
+    **英文**：He encouraged me to try.
+    > **解析**：encourage someone to do 是固定结构；encouraged 是过去式。
 
-17. **中文**：他希望今年夏天能够和家人一起去海边度假。
-   **英文**：He hopes to go on a beach vacation with his family this summer.
-   > **解析**：hope 后面常接不定式或that从句，表达可实现的愿望。
+17. **中文**：每一步都重要。
+    **英文**：Every step counts.
+    > **解析**：Every step 是单数主语，count 加 s；counts 此处意为"重要"。
 
-18. **中文**：这一步对于达成最后的愿望至关重要。
-   **英文**：Taking this key step is essential to fulfilling your wish.
-   > **解析**：step 表示步骤。
+18. **中文**：他娶了她。
+    **英文**：He married her.
+    > **解析**：marry 是及物动词，直接接宾语 her；married 是过去式，不加介词。
 
-19. **中文**：报名参加这次挑战的人数和上次一样多。
-   **英文**：There were as many applicants for this challenge as last time.
-   > **解析**：as many ... as 表示和……一样多。
+19. **中文**：你需要多少就拿多少。
+    **英文**：Take as many as you need.
+    > **解析**：as many as 表示"与……同样多的数量"，修饰可数对象；you need 是定语从句。
 
-20. **中文**：突然放弃项目看起来是不大可能发生的。
-   **英文**：It is highly unlikely that the project will be cancelled now.
-   > **解析**：unlikely 表示不大可能的。
+20. **中文**：我希望一切顺利。
+    **英文**：I hope everything goes well.
+    > **解析**：hope 后接从句；everything 是不定代词作单数主语，goes 加 s。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I wish I had more free time to travel around the world.
-   > **中文**：我希望我有更多时间去环游世界。
+1. I wish I had more time.
+   > **中文**：我希望我有更多时间。
 
-2. If only I had accepted that job offer when I had the chance.
-   > **中文**：要是我当时接受了那份工作邀请就好了。
+2. If only I knew the answer.
+   > **中文**：我要是知道答案就好了。
 
-3. If you keep working hard, all your dreams will come true.
-   > **中文**：只要你坚持努力，你的所有梦想终将实现。
+3. I hope you win.
+   > **中文**：我希望你赢。
 
-4. Despite the difficulties, we remain hopeful about the future.
-   > **中文**：尽管遇到了困难，我们依然对未来抱有希望。
+4. My dream came true.
+   > **中文**：我的梦想成真了。
 
-5. He deeply regrets not studying foreign languages in college.
-   > **中文**：他非常后悔没有在大学期间认真学习外语。
+5. This is a good chance to travel.
+   > **中文**：这是一个旅行的好机会。
 
-6. The client felt completely satisfied with our service quality.
-   > **中文**：顾客对我们的服务质量感到非常满意。
+6. I won the lottery.
+   > **中文**：我中了彩票。
 
-7. Winning the grand prize in the lottery is extremely unlikely.
-   > **中文**：中彩票特等奖的可能性非常小。
+7. Take advantage of every chance.
+   > **中文**：利用每一个机会。
 
-8. Teachers always encourage students to pursue their goals bravely.
-   > **中文**：老师总是鼓励学生们勇敢追求自己的目标。
+8. I'm afraid I can't help.
+   > **中文**：恐怕我帮不上忙。
 
-9. You should take advantage of this rare study opportunity.
-   > **中文**：你应该抓住并充分利用这个宝贵的出访机会。
+9. She is satisfied with the result.
+   > **中文**：她对结果很满意。
 
-10. Developing good reading habits is a vital step toward success.
-   > **中文**：养成良好的阅读习惯是迈向成功的重要一步。
+10. I regret saying that.
+    > **中文**：我后悔说了那句话。
 
-11. Every small effort counts on the path to achieving your goals.
-   > **中文**：每一个细小的努力在追求梦想的路上都算数。
+11. It is unlikely to happen.
+    > **中文**：那不太可能发生。
 
-12. They plan to marry and hold a ceremony this coming autumn.
-   > **中文**：他们计划在今年秋天举行婚礼并结婚。
+12. Oh well, at least we tried.
+    > **中文**：算了，至少我们试过了。
 
-13. Don't feel discouraged over such a silly mistake.
-   > **中文**：别为那些无足轻重的傻念头感到沮丧。
+13. This is a silly mistake.
+    > **中文**：这是个愚蠢的错误。
 
-14. Oh well, since it is raining, we can picnic another day.
-   > **中文**：唉，好吧，既然下雨了我们就改天去野餐吧。
+14. Take steps to improve your life.
+    > **中文**：采取措施改善你的生活。
 
-15. I am afraid that I will regret it more if I don't try.
-   > **中文**：我害怕如果我不试一下，以后会更加后悔。
+15. Breaking a bad habit takes time.
+    > **中文**：改掉坏习惯需要时间。
 
-16. Only by taking a chance can you prove your full potential.
-   > **中文**：只有抓住机会，你才能证明自己的能力。
+16. He encouraged me to try.
+    > **中文**：他鼓励我尝试。
 
-17. He hopes to go on a beach vacation with his family this summer.
-   > **中文**：他希望今年夏天能够和家人一起去海边度假。
+17. Every step counts.
+    > **中文**：每一步都重要。
 
-18. Taking this key step is essential to fulfilling your wish.
-   > **中文**：这一步对于达成最后的愿望至关重要。
+18. He married her.
+    > **中文**：他娶了她。
 
-19. There were as many applicants for this challenge as last time.
-   > **中文**：报名参加这次挑战的人数和上次一样多。
+19. Take as many as you need.
+    > **中文**：你需要多少就拿多少。
 
-20. It is highly unlikely that the project will be cancelled now.
-   > **中文**：突然放弃项目看起来是不大可能发生的。
+20. I hope everything goes well.
+    > **中文**：我希望一切顺利。
 
 </quiz-listening>
 
@@ -213,26 +204,36 @@ afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if o
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| wish | 愿望；希望（虚拟语气） |
-| if only | 要是……就好了 |
-| come true | （梦想等）实现 |
-| hopeful | 抱有希望的 |
-| regret | 后悔；遗憾 |
-| satisfied | 满意的 |
-| lottery | 彩票 |
-| chance | 机会；可能性 |
-| unlikely | 不大可能的 |
+| afraid | 担心的；恐怕 |
+| as many | 同样多的数量 |
+| chance | 机会 |
+| come true | 成真 |
+| count | 数；重要 |
 | encourage | 鼓励 |
-| take advantage | 利用；充分利用 |
-| step | 步骤；脚印 |
 | habit | 习惯 |
-| count | 算数；有价值 |
-| marry | 结婚；娶；嫁 |
-| silly | 傻的；糊涂的 |
-| afraid | 害怕的；担心的 |
-| oh well | 唉；好吧（表示无奈） |
-| as many | 一样多 |
 | hope | 希望 |
+| hopeful | 充满希望的 |
+| if only | 要是……就好了 |
+| lottery | 彩票 |
+| marry | 结婚 |
+| oh well | 算了 |
+| regret | 后悔 |
+| satisfied | 满意的 |
+| silly | 愚蠢的 |
+| step | 步骤 |
+| take advantage | 利用 |
+| unlikely | 不太可能的 |
+| wish | 希望；祝愿 |
+| dream | 梦想 |
+| time | 时间 |
+| answer | 答案 |
+| result | 结果 |
+| mistake | 错误 |
+| life | 生活 |
+| win | 赢 |
+| tried | 尝试（过去式） |
+| travel | 旅行 |
+| everything | 一切 |
 
 </quiz-matching>
 
@@ -240,202 +241,202 @@ afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if o
 
 ### 1
 
-I ____ I had more free time to travel around the world.
+I wish I ____ more time.
 
-- [x] wish
-- [ ] afraid
-- [ ] as many
+- [x] had
+- [ ] have
+- [ ] has
 
-> **解析**：**wish** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：wish 后接过去时 had 表示与现在相反的愿望；have 和 has 是现在时，不用于 wish 虚拟结构。
 
 ### 2
 
-If only I had accepted that job offer when I had the ____.
+If only I ____ the answer.
 
-- [x] chance
-- [ ] afraid
-- [ ] as many
+- [x] knew
+- [ ] know
+- [ ] knows
 
-> **解析**：**chance** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：If only 后接过去时 knew 表强烈愿望；know 是现在时，不合虚拟结构。
 
 ### 3
 
-If you keep ____ hard, all your dreams will come true.
+I hope you ____.
 
-- [x] working
-- [ ] afraid
-- [ ] as many
+- [x] win
+- [ ] won
+- [ ] winning
 
-> **解析**：**working** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：hope 用于可能实现的愿望，从句用一般现在时 win；won 是过去式，winning 不能单独作谓语。
 
 ### 4
 
-Despite the difficulties, we remain ____ about the future.
+My dream came ____.
 
-- [x] hopeful
-- [ ] afraid
-- [ ] as many
+- [x] true
+- [ ] truly
+- [ ] truth
 
-> **解析**：**hopeful** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：come true 是固定短语，true 作补语；truly 是副词，truth 是名词，都不构成此搭配。
 
 ### 5
 
-He deeply regrets not studying foreign ____ in college.
+This is a good ____ to travel.
 
-- [x] languages
-- [ ] afraid
-- [ ] as many
+- [x] chance
+- [ ] chances
+- [ ] chancing
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **languages**。
+> **解析**：a good chance 用单数名词；chances 复数不与 a 搭配，chancing 不是名词。
 
 ### 6
 
-The client felt completely ____ with our service quality.
+I won the ____.
 
-- [x] satisfied
-- [ ] afraid
-- [ ] as many
+- [x] lottery
+- [ ] lotteries
+- [ ] lot
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **satisfied**。
+> **解析**：win the lottery 是固定表达；lot 指"许多/命运"语义不合，lotteries 复数不合。
 
 ### 7
 
-Winning the grand prize in the ____ is extremely unlikely.
+Take ____ of every chance.
 
-- [x] lottery
-- [ ] afraid
-- [ ] as many
+- [x] advantage
+- [ ] advantages
+- [ ] adventuring
 
-> **解析**：**lottery** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：take advantage of 是固定短语，advantage 用单数；adventuring 不是此短语成分。
 
 ### 8
 
-Teachers always ____ students to pursue their goals bravely.
+I'm ____ I can't help.
 
-- [x] encourage
-- [ ] afraid
-- [ ] as many
+- [x] afraid
+- [ ] afraidly
+- [ ] affraid
 
-> **解析**：**encourage** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：I'm afraid 是固定委婉表达；afraidly 不是常规词，affraid 拼写错误。
 
 ### 9
 
-You should take advantage of this rare study ____.
+She is satisfied ____ the result.
 
-- [x] opportunity
-- [ ] afraid
-- [ ] as many
+- [x] with
+- [ ] for
+- [ ] to
 
-> **解析**：**opportunity** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be satisfied with 是固定搭配；for 和 to 不合。
 
 ### 10
 
-Developing good reading habits is a vital ____ toward success.
+I regret ____ that.
 
-- [x] step
-- [ ] afraid
-- [ ] as many
+- [x] saying
+- [ ] say
+- [ ] said
 
-> **解析**：**step** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：regret 后接动名词 saying 表示后悔做过的事；said 不能直接接在 regret 后表此义。
 
 ### 11
 
-Every small effort counts on the path to ____ your goals.
+It is ____ to happen.
 
-- [x] achieving
-- [ ] afraid
-- [ ] as many
+- [x] unlikely
+- [ ] unlike
+- [ ] likely
 
-> **解析**：**achieving** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：unlikely 表示"不太可能"；likely 语义相反，unlike 是介词"不像"。
 
 ### 12
 
-They plan to ____ and hold a ceremony this coming autumn.
+Oh ____, at least we tried.
 
-- [x] marry
-- [ ] afraid
-- [ ] as many
+- [x] well
+- [ ] good
+- [ ] fine
 
-> **解析**：**marry** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Oh well 是固定感叹短语；Oh good 和 Oh fine 不是约定的自我安慰表达。
 
 ### 13
 
-Don't feel discouraged over such a ____ mistake.
+This is a ____ mistake.
 
 - [x] silly
-- [ ] afraid
-- [ ] as many
+- [ ] sillily
+- [ ] silliness
 
-> **解析**：**silly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：名词 mistake 前需要形容词 silly；sillily 是副词，silliness 是名词。
 
 ### 14
 
-Oh well, since it is ____, we can picnic another day.
+Take ____ to improve your life.
 
-- [x] raining
-- [ ] afraid
-- [ ] as many
+- [x] steps
+- [ ] step
+- [ ] stepping
 
-> **解析**：**raining** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：take steps 是固定搭配"采取措施"，习惯用复数；stepping 不与此搭配。
 
 ### 15
 
-I am ____ that I will regret it more if I don't try.
+Breaking a bad habit ____ time.
 
-- [x] afraid
-- [ ] as many
-- [ ] chance
+- [x] takes
+- [ ] take
+- [ ] taking
 
-> **解析**：**afraid** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：动名词短语作主语视为单数，谓语用 takes；taking 不能单独作谓语。
 
 ### 16
 
-Only by taking a ____ can you prove your full potential.
+He encouraged me to ____.
 
-- [x] chance
-- [ ] afraid
-- [ ] as many
+- [x] try
+- [ ] tried
+- [ ] trying
 
-> **解析**：**chance** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：encourage someone to do，to 后接动词原形 try；tried 是过去式。
 
 ### 17
 
-He hopes to go on a beach ____ with his family this summer.
+Every step ____.
 
-- [x] vacation
-- [ ] afraid
-- [ ] as many
+- [x] counts
+- [ ] count
+- [ ] counting
 
-> **解析**：**vacation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Every step 是单数主语，count 加 s 表"重要"；counting 不能单独作谓语。
 
 ### 18
 
-Taking this key ____ is essential to fulfilling your wish.
+He ____ her last year.
 
-- [x] step
-- [ ] afraid
-- [ ] as many
+- [x] married
+- [ ] marry
+- [ ] marrying
 
-> **解析**：**step** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：last year 表明用过去式 married；marry 直接接人，不加介词。
 
 ### 19
 
-There were as many ____ for this challenge as last time.
+Take as many as you ____.
 
-- [x] applicants
-- [ ] afraid
-- [ ] as many
+- [x] need
+- [ ] needs
+- [ ] needed
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **applicants**。
+> **解析**：从句主语 you 用动词原形 need；needs 用于三单。
 
 ### 20
 
-It is highly ____ that the project will be cancelled now.
+I hope everything ____ well.
 
-- [x] unlikely
-- [ ] afraid
-- [ ] as many
+- [x] goes
+- [ ] go
+- [ ] going
 
-> **解析**：**unlikely** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：everything 是不定代词，视为单数，go 加 s；going 不能单独作谓语。
 
 </quiz-cloze>

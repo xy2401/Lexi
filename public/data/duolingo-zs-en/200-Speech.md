@@ -10,32 +10,33 @@ announce, announcement, approximate, approximately, attention, by the time, in f
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"分享过去的经历"展开，场景偏向正式发言和公开讲话。词表里有演讲相关词汇（announce, announcement, speaker, attention, ladies and gentlemen, toast）和描述时间关系的表达（by the time, previous, previously, within, when）。
+本单元的主题是"演讲与分享经历"。词表可以分成三组：演讲开场与流程词（ladies and gentlemen, may I, attention, speaker, announce, announcement, toast, lead, led, volunteer）、时间与程度词（by the time, when, within, previous, previously, approximate, approximately, necessary, unnecessary）、以及态度与感受词（kind, unkind, pleasure, promise, look forward to, in fact）。拼起来就是完整的演讲场景：Ladies and gentlemen, may I have your attention? I'd like to announce something. In fact, it's my pleasure to share this with you.
 
-你可以练习正式场合的表达：Ladies and gentlemen, may I have your attention? / I'd like to announce something. / By the time I arrived, the speaker had already led the toast. / In fact, I look forward to this pleasure every year. / It was unnecessary and unkind.
+语法主线是"动词 + 名词"的派生对：announce → announcement（宣布→公告）；approximate → approximately（大致的→大约地）；previous → previously（先前的→先前地）；necessary 与 unnecessary（un- 否定前缀）、kind 与 unkind。构词规律是本单元的重点。另一条主线是时间表达：by the time（到……时候为止）、within（在……之内）、when 引导时间从句：By the time he arrived, the speech had started.
 
-lead → led 是不规则动词变化。approximate / approximately, kind / unkind, necessary / unnecessary 展示了前缀构词。整体来看，这个单元帮你应对致辞、公告和正式社交场合。
+学完这些词，你能用英语致开场白、宣布消息、表达感谢与期待，并分享过去的经历。
 
 ## Tips
 
-- **announce / announcement / speaker** — announce = 宣布（动词），announcement = 公告（名词）。搭配：make an announcement, announce the results。speaker = 演讲者、发言人，也指音响的"扬声器"。
+- **ladies and gentlemen / may I / attention** — 演讲开场三件套。Ladies and gentlemen（女士们先生们）是正式称呼；May I have your attention?（请大家注意。）是召集听众的标准句；attention 注意力，pay attention to（注意）。
 
-- **lead / led** — lead 的过去式和过去分词是 led（不是 leaded）。注意不要和 lead /liːd/（领导）与 lead /lɛd/（铅，金属）混淆——拼写相同但发音和含义不同。搭配：lead a toast, led the team。
+- **announce / announcement** — 动词"宣布"与名词"公告"：announce the winner（宣布获胜者）；make an announcement（发布公告）。-ment 是名词后缀。
 
-- **toast / pleasure / ladies and gentlemen** — toast = 祝酒（Let's make a toast. / propose a toast）。pleasure = 荣幸、愉快（It's a pleasure. / My pleasure.）。ladies and gentlemen 是正式演讲的标准开场称呼。
+- **speaker / toast / lead / led** — speaker 演讲者（speak + -er）；toast 祝酒：make a toast（举杯祝酒）；lead 带领，不规则变化 lead → led → led：She led the meeting.（她主持了会议。）
 
-- **by the time / within / previous / previously** — by the time = 到……时候（By the time I got there, it was over.），常与过去完成时搭配。within = 在……之内（within an hour）。previous = 之前的（the previous speaker），previously = 之前（副词）。
+- **by the time / when / within** — 时间三词。by the time + 从句，表示"到……时候为止"，主句常用完成时；when 当……时；within 在……之内：within five minutes（五分钟之内）。
 
-- **approximate / approximately** — approximate = 大约的（形容词），approximately = 大约（副词，缩写 approx.）。搭配：an approximate number, approximately 100 people。比 about 更正式。
+- **previous / previously** — previous 形容词"先前的"：the previous speaker（上一位演讲者）；previously 副词"先前地"：I mentioned it previously. 注意与 preview（预览）同源。
 
-- **kind / unkind / necessary / unnecessary** — un- 前缀表否定。kind = 善良的 → unkind = 不善良的。necessary = 必要的 → unnecessary = 不必要的。注意 necessary 的拼写：一个 c，两个 s。
+- **approximate / approximately** — approximate 形容词"大致的"：an approximate number；approximately 副词"大约"：approximately ten people. 口语中也用 about。
 
-- **may I / attention / look forward to** — May I...? 是最正式的请求许可方式（May I have your attention?）。attention = 注意力（Pay attention! / May I have your attention?）。look forward to + 名词/动名词（I look forward to meeting you.），注意 to 是介词，后接 -ing。
+- **necessary / unnecessary / kind / unkind** — un- 否定前缀两组。necessary 必要的，unnecessary 不必要的；kind 友善的，unkind 不友善的。un- 加在形容词前构成反义。
 
-- **in fact / volunteer / promise / when** — in fact = 事实上（用于补充或纠正）。volunteer = 志愿者（名词）/ 自愿做（动词：I volunteered to help.）。promise = 承诺（I promise. / make a promise）。when 引导时间从句。
+- **pleasure / promise / look forward to / in fact** — pleasure 荣幸、愉快：It's my pleasure.（这是我的荣幸。）；promise 承诺：promise to do something；look forward to + 动名词，表示"期待"：I look forward to hearing from you.（注意 to 是介词，后接 -ing）；in fact 事实上，用于补充或转折。
+
+- **volunteer** — 名词"志愿者"、动词"自愿做"：She volunteered to help.（她主动帮忙。）重音在第三个音节。
 
 ## 练习
 
@@ -53,149 +54,149 @@ lead → led 是不规则动词变化。approximate / approximately, kind / unki
 
 <quiz-sentence-builder>
 
-1. **中文**：主持人正式向大家宣布了比赛获奖者名单。
-   **英文**：The speaker will announce the winners shortly.
-   > **解析**：announce 表示“宣布/宣告”。
+1. **中文**：女士们先生们，请大家注意。
+   **英文**：Ladies and gentlemen, may I have your attention?
+   > **解析**：May I 是礼貌请求句型；have your attention 是固定表达。
 
-2. **中文**：请注意听广播里关于航班改飞的最新公告。
-   **英文**：Listen to the important flight announcement now.
-   > **解析**：announcement 表示“通知/公告”。
+2. **中文**：我想宣布一件事。
+   **英文**：I would like to announce something.
+   > **解析**：would like to + 动词原形；announce 是及物动词。
 
-3. **中文**：演讲大概持续了大约四十五分钟的时间。
-   **英文**：The flight duration is approximately two hours.
-   > **解析**：approximately 表示“大约地/大概”。
+3. **中文**：这是公告。
+   **英文**：This is an announcement.
+   > **解析**：announcement 以元音音素开头，用 an；is 与单数主语搭配。
 
-4. **中文**：女士们先生们，请大家集中注意力听发言。
-   **英文**：May I have your attention please for a moment?
-   > **解析**：attention 表示“注意力/关注”。
+4. **中文**：让我们举杯祝酒。
+   **英文**：Let's make a toast.
+   > **解析**：Let's 后接动词原形 make；make a toast 是固定搭配。
 
-5. **中文**：到会议结束的时候为止，大家都达成了共识。
-   **英文**：By the time he finished speaking, all cheered.
-   > **解析**：By the time 表示“到……的时候为止”。
+5. **中文**：她主持了那次会议。
+   **英文**：She led the meeting.
+   > **解析**：led 是 lead 的过去式，不规则变化。
 
-6. **中文**：事实上，他在这方面拥有极其丰富的演讲经验。
-   **英文**：In fact, she has delivered many speeches before.
-   > **解析**：In fact 表示“事实上/实际上”。
+6. **中文**：他到那儿时，演讲已经开始了。
+   **英文**：By the time he arrived, the speech had started.
+   > **解析**：by the time + 过去时间，主句用过去完成时 had started。
 
-7. **中文**：女士们先生们，欢迎参加今晚的颁奖典礼！
-   **英文**：Good evening, ladies and gentlemen, welcome to party!
-   > **解析**：ladies and gentlemen 表示“女士们先生们”。
+7. **中文**：请在五分钟内回来。
+   **英文**：Please come back within five minutes.
+   > **解析**：within 表示"在……之内"；come back 是动词短语。
 
-8. **中文**：资深队长带领了团队克服了所有艰难险阻。
-   **英文**：The experienced guide led us through the forest.
-   > **解析**：led 是 lead 的过去式，表示“带领了/引导了”。
+8. **中文**：上一位演讲者讲得很好。
+   **英文**：The previous speaker did a great job.
+   > **解析**：previous 修饰 speaker；did 是 do 的过去式。
 
-9. **中文**：大家都在热切地期待着听主讲人的报告。
-   **英文**：We look forward to hearing your speech today.
-   > **解析**：look forward to 表示“期待/盼望”。
+9. **中文**：我以前见过他。
+   **英文**：I have met him previously.
+   > **解析**：have met 是现在完成时；previously 是副词，修饰整句。
 
-10. **中文**：我能够向大家简要介绍一下今天的发言流程吗？
-   **英文**：May I introduce our keynote speaker tonight?
-   > **解析**：May I 表示“我能够……吗/我可以……吗”（礼貌表达）。
+10. **中文**：大约有十个人到场。
+   **英文**：Approximately ten people attended.
+   > **解析**：approximately 是副词，修饰数量 ten；attended 是过去式。
 
-11. **中文**：在开会前做好充分准备是完全必要的。
-   **英文**：It is necessary to prepare well for presentation.
-   > **解析**：necessary 表示“必要的/必不可少的”。
+11. **中文**：这是个大概的数字。
+   **英文**：This is an approximate number.
+   > **解析**：approximate 是形容词，修饰 number；an 用于元音音素前。
 
-12. **中文**：非常荣幸能够有机会在此向大家发表讲话。
-   **英文**：It is a great pleasure to address you all today.
-   > **解析**：pleasure 表示“荣幸/快乐/乐趣”。
+12. **中文**：这样做没有必要。
+   **英文**：It is unnecessary to do that.
+   > **解析**：It 是形式主语；unnecessary 作表语。
 
-13. **中文**：正如前一位发言人刚才所提到的那样。
-   **英文**：As mentioned by the previous speaker, we agree.
-   > **解析**：previous 表示“先前的/之前的”。
+13. **中文**：带水很有必要。
+   **英文**：It is necessary to bring water.
+   > **解析**：It 是形式主语，真正主语是 to bring water。
 
-14. **中文**：他以前地在另外一家大型公司担任首席执行官。
-   **英文**：She previously worked as a journalist in London.
-   > **解析**：previously 表示“以前地/之前”。
+14. **中文**：这是我的荣幸。
+   **英文**：It is my pleasure.
+   > **解析**：pleasure 作表语；is 与单数主语搭配。
 
-15. **中文**：发言人向听众承诺会认真解决大家的关注。
-   **英文**：The Mayor promised to lower local business taxes.
-   > **解析**：promised 表示“承诺/保证”。
+15. **中文**：我承诺会准时到。
+   **英文**：I promise to be on time.
+   > **解析**：promise 后接不定式 to be；on time 表示"准时"。
 
-16. **中文**：请大家用热烈的掌声欢迎下一位演讲者。
-   **英文**：Let's welcome our main speaker with applause.
-   > **解析**：speaker 表示“演讲者/发言人”。
+16. **中文**：我期待听到你的消息。
+   **英文**：I look forward to hearing from you.
+   > **解析**：look forward to 中 to 是介词，后接动名词 hearing。
 
-17. **中文**：大家共同举杯向新人致以温馨的祝酒词。
-   **英文**：He stood up to propose a toast to the couple.
-   > **解析**：toast 表示“祝酒词/干杯/吐司”。
+17. **中文**：事实上，他帮了我大忙。
+   **英文**：In fact, he helped me a lot.
+   > **解析**：In fact 放句首，后接逗号；helped 是过去式。
 
-18. **中文**：请删掉那些不必要的重复词汇以使演讲精炼。
-   **英文**：Avoid unnecessary delay during the assembly.
-   > **解析**：unnecessary 表示“不必要的/多余的”。
+18. **中文**：她自愿帮忙。
+   **英文**：She volunteered to help.
+   > **解析**：volunteered 是过去式；volunteer to do something 是固定结构。
 
-19. **中文**：多名热心的志愿者在现场协助维护秩序。
-   **英文**：She works as a volunteer for the community event.
-   > **解析**：volunteer 表示“志愿者/义工”。
+19. **中文**：别那么不友善。
+   **英文**：Don't be unkind.
+   > **解析**：否定祈使句用 Don't be + 形容词；unkind = un- + kind。
 
-20. **中文**：请在十分钟之内回到会议室准备听讲。
-   **英文**：Please finish your questions within five minutes.
-   > **解析**：within 表示“在……之内”。
+20. **中文**：他讲话的时候，我们都在听。
+   **英文**：We all listened when he spoke.
+   > **解析**：when 引导时间状语从句；listened 和 spoke 都是过去式。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The speaker will announce the winners shortly.
-   > **中文**：主持人正式向大家宣布了比赛获奖者名单。
+1. Ladies and gentlemen, may I have your attention?
+   > **中文**：女士们先生们，请大家注意。
 
-2. Listen to the important flight announcement now.
-   > **中文**：请注意听广播里关于航班改飞的最新公告。
+2. I would like to announce something.
+   > **中文**：我想宣布一件事。
 
-3. The flight duration is approximately two hours.
-   > **中文**：演讲大概持续了大约四十五分钟的时间。
+3. This is an announcement.
+   > **中文**：这是公告。
 
-4. May I have your attention please for a moment?
-   > **中文**：女士们先生们，请大家集中注意力听发言。
+4. Let's make a toast.
+   > **中文**：让我们举杯祝酒。
 
-5. By the time he finished speaking, all cheered.
-   > **中文**：到会议结束的时候为止，大家都达成了共识。
+5. She led the meeting.
+   > **中文**：她主持了那次会议。
 
-6. In fact, she has delivered many speeches before.
-   > **中文**：事实上，他在这方面拥有极其丰富的演讲经验。
+6. By the time he arrived, the speech had started.
+   > **中文**：他到那儿时，演讲已经开始了。
 
-7. Good evening, ladies and gentlemen, welcome to party!
-   > **中文**：女士们先生们，欢迎参加今晚的颁奖典礼！
+7. Please come back within five minutes.
+   > **中文**：请在五分钟内回来。
 
-8. The experienced guide led us through the forest.
-   > **中文**：资深队长带领了团队克服了所有艰难险阻。
+8. The previous speaker did a great job.
+   > **中文**：上一位演讲者讲得很好。
 
-9. We look forward to hearing your speech today.
-   > **中文**：大家都在热切地期待着听主讲人的报告。
+9. I have met him previously.
+   > **中文**：我以前见过他。
 
-10. May I introduce our keynote speaker tonight?
-   > **中文**：我能够向大家简要介绍一下今天的发言流程吗？
+10. Approximately ten people attended.
+   > **中文**：大约有十个人到场。
 
-11. It is necessary to prepare well for presentation.
-   > **中文**：在开会前做好充分准备是完全必要的。
+11. This is an approximate number.
+   > **中文**：这是个大概的数字。
 
-12. It is a great pleasure to address you all today.
-   > **中文**：非常荣幸能够有机会在此向大家发表讲话。
+12. It is unnecessary to do that.
+   > **中文**：这样做没有必要。
 
-13. As mentioned by the previous speaker, we agree.
-   > **中文**：正如前一位发言人刚才所提到的那样。
+13. It is necessary to bring water.
+   > **中文**：带水很有必要。
 
-14. She previously worked as a journalist in London.
-   > **中文**：他以前地在另外一家大型公司担任首席执行官。
+14. It is my pleasure.
+   > **中文**：这是我的荣幸。
 
-15. The Mayor promised to lower local business taxes.
-   > **中文**：发言人向听众承诺会认真解决大家的关注。
+15. I promise to be on time.
+   > **中文**：我承诺会准时到。
 
-16. Let's welcome our main speaker with applause.
-   > **中文**：请大家用热烈的掌声欢迎下一位演讲者。
+16. I look forward to hearing from you.
+   > **中文**：我期待听到你的消息。
 
-17. He stood up to propose a toast to the couple.
-   > **中文**：大家共同举杯向新人致以温馨的祝酒词。
+17. In fact, he helped me a lot.
+   > **中文**：事实上，他帮了我大忙。
 
-18. Avoid unnecessary delay during the assembly.
-   > **中文**：请删掉那些不必要的重复词汇以使演讲精炼。
+18. She volunteered to help.
+   > **中文**：她自愿帮忙。
 
-19. She works as a volunteer for the community event.
-   > **中文**：多名热心的志愿者在现场协助维护秩序。
+19. Don't be unkind.
+   > **中文**：别那么不友善。
 
-20. Please finish your questions within five minutes.
-   > **中文**：请在十分钟之内回到会议室准备听讲。
+20. We all listened when he spoke.
+   > **中文**：他讲话的时候，我们都在听。
 
 </quiz-listening>
 
@@ -203,26 +204,34 @@ lead → led 是不规则动词变化。approximate / approximately, kind / unki
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| announce | 宣布 / 宣告 |
-| announcement | 通知 / 公告 |
-| approximately | 大约地 |
+| announce | 宣布 |
+| announcement | 公告 |
+| approximate | 大致的 |
+| approximately | 大约 |
 | attention | 注意力 |
-| By the time | 到……的时候为止 |
-| In fact | 事实上 |
+| by the time | 到……时候为止 |
+| in fact | 事实上 |
+| kind | 友善的 |
 | ladies and gentlemen | 女士们先生们 |
-| led | 带领了（lead的过去式） |
+| lead | 带领 |
+| led | lead 的过去式 |
 | look forward to | 期待 |
-| May I | 我能够……吗 |
+| may I | 我可以……吗 |
 | necessary | 必要的 |
-| pleasure | 荣幸 / 快乐 |
+| pleasure | 荣幸 / 愉快 |
 | previous | 先前的 |
-| previously | 以前地 |
-| promised | 承诺了（promise的过去式） |
+| previously | 先前地 |
+| promise | 承诺 |
 | speaker | 演讲者 |
-| toast | 祝酒词 / 祝酒 |
+| toast | 祝酒 |
+| unkind | 不友善的 |
 | unnecessary | 不必要的 |
-| volunteer | 志愿者 |
+| volunteer | 志愿者 / 自愿 |
+| when | 当……时 |
 | within | 在……之内 |
+| is | 是（单数） |
+| the | 这个 / 那个 |
+| speech | 演讲 |
 
 </quiz-matching>
 
@@ -230,202 +239,202 @@ lead → led 是不规则动词变化。approximate / approximately, kind / unki
 
 ### 1
 
-The ____ will announce the winners shortly.
+Ladies and gentlemen, may I have your ____?
 
-- [x] speaker
-- [ ] announce
-- [ ] announcement
+- [x] attention
+- [ ] attention to
+- [ ] attentions
 
-> **解析**：**speaker** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：have your attention 是固定表达，attention 不可数；其余形式错误。
 
 ### 2
 
-Listen to the important flight ____ now.
+I would like to ____ something.
 
-- [x] announcement
-- [ ] announce
-- [ ] approximate
+- [x] announce
+- [ ] announcement
+- [ ] announcing
 
-> **解析**：**announcement** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：to 后接动词原形 announce；announcement 是名词。
 
 ### 3
 
-The flight duration is ____ two hours.
+This is an ____.
 
-- [x] approximately
+- [x] announcement
 - [ ] announce
-- [ ] announcement
+- [ ] announcer of
 
-> **解析**：**approximately** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：an 后需要名词 announcement；announce 是动词。
 
 ### 4
 
-May I have your ____ please for a moment?
+Let's make a ____.
 
-- [x] attention
-- [ ] announce
-- [ ] announcement
+- [x] toast
+- [ ] toasts
+- [ ] toaster
 
-> **解析**：**attention** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：make a toast（祝酒）是固定搭配；toaster 是烤面包机。
 
 ### 5
 
-By the time he ____ speaking, all cheered.
+She ____ the meeting last week.
 
-- [x] finished
-- [ ] announce
-- [ ] announcement
+- [x] led
+- [ ] leaded
+- [ ] leading
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **finished**。
+> **解析**：lead 的过去式是不规则变化 led；leaded 是错误形式。
 
 ### 6
 
-In fact, she has ____ many speeches before.
+By the time he arrived, the speech ____ started.
 
-- [x] delivered
-- [ ] announce
-- [ ] announcement
+- [x] had
+- [ ] has
+- [ ] have
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **delivered**。
+> **解析**：by the time + 过去时间，主句用过去完成时 had started。
 
 ### 7
 
-Good evening, ladies and ____, welcome to party!
+Please come back ____ five minutes.
 
-- [x] gentlemen
-- [ ] announce
-- [ ] announcement
+- [x] within
+- [ ] without
+- [ ] between
 
-> **解析**：**gentlemen** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：within 表示"在……之内"；without 是"没有"，语义相反。
 
 ### 8
 
-The experienced guide ____ us through the forest.
+The ____ speaker did a great job.
 
-- [x] led
-- [ ] announce
-- [ ] announcement
+- [x] previous
+- [ ] previously
+- [ ] preview
 
-> **解析**：**led** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：speaker 前需要形容词 previous；previously 是副词。
 
 ### 9
 
-We look ____ to hearing your speech today.
+I have met him ____.
 
-- [x] forward
-- [ ] announce
-- [ ] announcement
+- [x] previously
+- [ ] previous
+- [ ] previoussly
 
-> **解析**：**forward** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰动词 met 需要副词 previously；previous 是形容词。
 
 ### 10
 
-May I introduce our keynote ____ tonight?
+____ ten people attended.
 
-- [x] speaker
-- [ ] announce
-- [ ] announcement
+- [x] Approximately
+- [ ] Approximate
+- [ ] Approximation
 
-> **解析**：**speaker** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：修饰数量需要副词 Approximately；Approximate 是形容词。
 
 ### 11
 
-It is ____ to prepare well for presentation.
+This is an ____ number.
 
-- [x] necessary
-- [ ] announce
-- [ ] announcement
+- [x] approximate
+- [ ] approximately
+- [ ] approximation
 
-> **解析**：**necessary** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：number 前需要形容词 approximate；approximately 是副词。
 
 ### 12
 
-It is a great ____ to address you all today.
+It is ____ to do that.
 
-- [x] pleasure
-- [ ] announce
-- [ ] announcement
+- [x] unnecessary
+- [ ] necessary
+- [ ] unneeded to
 
-> **解析**：**pleasure** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：根据语境"没必要"用 unnecessary；unneeded to 结构错误。
 
 ### 13
 
-As mentioned by the ____ speaker, we agree.
+It is ____ to bring water.
 
-- [x] previous
-- [ ] announce
-- [ ] announcement
+- [x] necessary
+- [ ] necessity to
+- [ ] necessarily
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **previous**。
+> **解析**：is 后需要形容词 necessary；necessity 是名词，necessarily 是副词。
 
 ### 14
 
-She ____ worked as a journalist in London.
+It is my ____.
 
-- [x] previously
-- [ ] announce
-- [ ] announcement
+- [x] pleasure
+- [ ] pleased
+- [ ] pleasing
 
-> **解析**：**previously** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：my 后需要名词 pleasure；pleased 是形容词。
 
 ### 15
 
-The Mayor ____ to lower local business taxes.
+I promise ____ be on time.
 
-- [x] promised
-- [ ] announce
-- [ ] announcement
+- [x] to
+- [ ] for
+- [ ] at
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **promised**。
+> **解析**：promise to do something 是固定结构；其余介词不成立。
 
 ### 16
 
-Let's welcome our main ____ with applause.
+I look forward to ____ from you.
 
-- [x] speaker
-- [ ] announce
-- [ ] announcement
+- [x] hearing
+- [ ] hear
+- [ ] heard
 
-> **解析**：**speaker** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：look forward to 中 to 是介词，后接动名词 hearing；hear 是原形。
 
 ### 17
 
-He stood up to propose a ____ to the couple.
+____, he helped me a lot.
 
-- [x] toast
-- [ ] announce
-- [ ] announcement
+- [x] In fact
+- [ ] In facts
+- [ ] In the fact
 
-> **解析**：**toast** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：In fact 是固定短语，fact 用单数无冠词；其余形式错误。
 
 ### 18
 
-Avoid ____ delay during the assembly.
+She volunteered ____ help.
 
-- [x] unnecessary
-- [ ] announce
-- [ ] announcement
+- [x] to
+- [ ] for to
+- [ ] at
 
-> **解析**：**unnecessary** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：volunteer to do something 是固定结构；其余形式错误。
 
 ### 19
 
-She works as a ____ for the community event.
+Don't be ____.
 
-- [x] volunteer
-- [ ] announce
-- [ ] announcement
+- [x] unkind
+- [ ] unkindness
+- [ ] unkindly of
 
-> **解析**：**volunteer** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：Don't be + 形容词，unkind 成立；unkindness 是名词。
 
 ### 20
 
-Please finish your questions ____ five minutes.
+We all listened ____ he spoke.
 
-- [x] within
-- [ ] announce
-- [ ] announcement
+- [x] when
+- [ ] within
+- [ ] by the time of
 
-> **解析**：**within** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：when 引导时间状语从句；within 是介词，不能引导从句。
 
 </quiz-cloze>

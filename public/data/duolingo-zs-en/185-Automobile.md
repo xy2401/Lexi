@@ -10,32 +10,35 @@ back seat, been, brake, car wash, flat tire, front seat, gas station, has, have 
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是"在加油站寻求帮助"。你可以描述车辆问题和需求：I've been driving all day and I haven't been to a gas station yet. I need an oil change, and I think I have a flat tire. Can you repair it?（我开了一整天车，还没去过加油站。我需要换机油，而且我觉得有个轮胎瘪了。能修一下吗？）The windshield is dirty—could you roll down the window so I can clean it? Also, where's the car wash?（挡风玻璃脏了——能把车窗摇下来让我擦一下吗？另外，洗车房在哪？）
+本单元的主题是"汽车与加油站求助"。词表可以分成三组：汽车部件（brake, headlight, tank, trunk, turn signal, windshield, front seat, back seat）、车辆服务与状况（gas station, car wash, oil change, flat tire, rental car, repair, insurance, sidewalk）、以及现在完成时的核心形式（been, has, have been, have not been, haven't been）。拼起来就是加油站求助场景：My car has a flat tire. Have you been to the gas station? I need a repair and an oil change.
 
-词表里有大量汽车部件词汇：brake, headlight, windshield, trunk, tank, turn signal, flat tire。也有服务类：gas station, car wash, oil change, repair, insurance, rental car。位置词：front seat, back seat, sidewalk。
+语法主线是现在完成时：have/has + 过去分词。been 是 be 的过去分词，have been to 表示"去过某地"：I have been to that gas station. has 用于第三人称单数主语：She has been there before. 否定形式 have not been 常缩写为 haven't been。另一条主线是 roll down/roll up 这对方向相反的动词短语（摇下/摇上车窗），以及 flat tire（爆胎）、oil change（换机油）这类名词化的服务表达。
 
-have been / have not been / haven't been / has / been 构成现在完成时，描述"去过/没去过"的经历：I haven't been to this gas station before. Has the car been repaired? roll down / roll up 是摇下/摇上车窗的固定搭配。
+学完这些词，你能用英语描述汽车故障、在加油站或修理店寻求帮助，并谈论自己去过哪些地方。
 
 ## Tips
 
-- **flat tire / brake / headlight / windshield** — flat tire = 爆胎/瘪胎（flat = 平的，轮胎没气了）。brake = 刹车（名词/动词）：hit the brakes! headlight = 前灯（head + light）。windshield = 挡风玻璃（wind + shield，shield = 盾牌）。
+- **have been / has / been** — 现在完成时的骨架。have been to 表示"去过"：Have you been to the car wash?；has 用于 he/she/it 主语：She has been there. been 是 be 的过去分词，也用于 has been + 形容词/名词 表示持续状态。
 
-- **trunk / tank / turn signal** — trunk = 后备箱（英式英语用 boot）。tank = 油箱（gas tank / fuel tank）。turn signal = 转向灯（也叫 blinker，口语中更常用）。
+- **have not been / haven't been** — 现在完成时的否定全式与缩写：I have not been to that gas station. = I haven't been there. 口语一律用缩写 haven't。
 
-- **roll down / roll up** — roll down = 摇下（车窗）：Roll down the window. roll up = 摇上：Roll up the window. 这里 roll 表示"滚动"，因为老式车窗是摇把驱动的，虽然现代车是电动的，表达不变。
+- **flat tire / repair / oil change** — 三个修车核心词。flat tire 爆胎（flat 扁平的）：I have a flat tire.；repair 修理，名词动词皆可；oil change 换机油，名词短语：The car needs an oil change.
 
-- **gas station / car wash / oil change** — gas station = 加油站（英式：petrol station）。car wash = 洗车（服务或场所）。oil change = 换机油。这些都是汽车保养的高频搭配。
+- **gas station / car wash / rental car** — 三个场所/服务词。gas station 加油站；car wash 洗车店/洗车；rental car 租来的车：rent 出租 + -al。ask for help at a gas station 是本单元的典型场景。
 
-- **have been / haven't been / has** — have been to = 去过（已完成）：I've been to that station. haven't been = have not been（缩写形式）。has 用于第三人称单数：Has the car been fixed? 注意 have been to（去过已回）vs have gone to（去了未回）。
+- **insurance** — "保险"，不可数：car insurance（车险）。注意重音在第二音节。买保险用 get insurance。
 
-- **rental car / insurance / repair** — rental car = 租车（= hire car 英式）。insurance = 保险：car insurance. repair = 修理（比 fix 更正式）：The repair took two hours.
+- **brake / headlight / turn signal / windshield** — 四个汽车部件。brake 刹车；headlight 车头灯（head + light）；turn signal 转向灯；windshield 挡风玻璃（wind + shield 挡风之盾）。都是合成或组合词，拆开记更轻松。
 
-- **front seat / back seat / sidewalk** — front seat = 前排座位。back seat = 后排座位。sidewalk = 人行道（英式：pavement）。注意 shotgun! 是口语中抢坐前排的说法。
+- **tank / trunk** — 两个易混词。tank 油箱（gas tank），加汽油的地方；trunk 后备箱（美式英语，英式叫 boot）。发音相近，注意区分。
 
-- **been** — be 的过去分词。在完成时中：I've been driving.（一直在开车。）也可表经历：Have you been to a car wash? 注意 been 的发音：/bɪn/（弱读）或 /biːn/（强读）。
+- **front seat / back seat** — 前排座位与后排座位。front 前，back 后。Sit in the front seat（坐前排）。
+
+- **roll down / roll up** — 摇下与摇上车窗：Roll down the window, please. 方向相反的一对短语，roll 本义"滚动"。
+
+- **sidewalk** — "人行道"（美式，walk + side 合成），英式叫 pavement。在加油站场景中常用：Don't park on the sidewalk.
 
 ## 练习
 
@@ -53,149 +56,149 @@ have been / have not been / haven't been / has / been 构成现在完成时，�
 
 <quiz-sentence-builder>
 
-1. **中文**：孩子们坐在轿车的后排座位上系好了安全带。
-   **英文**：The children sat quietly in the back seat during drive.
-   > **解析**：back seat 表示“后排座位”。
+1. **中文**：我的车爆胎了。
+   **英文**：My car has a flat tire.
+   > **解析**：has 与单数主语 My car 搭配；a flat tire 是可数名词短语。
 
-2. **中文**：看到前方红灯，司机立刻踩下了刹车。
-   **英文**：He hit the brake quickly to avoid the obstacle.
-   > **解析**：brake 表示“刹车/制动器”。
+2. **中文**：你去过那家加油站吗？
+   **英文**：Have you been to that gas station?
+   > **解析**：have been to 表示"去过"，一般疑问句把 Have 提前；been 是 be 的过去分词。
 
-3. **中文**：长途自驾游后，他把车开去洗车店做全面洗车。
-   **英文**：We took our dusty vehicle to the car wash.
-   > **解析**：car wash 表示“洗车/洗车店”。
+3. **中文**：我从没去过那家洗车店。
+   **英文**：I have never been to that car wash.
+   > **解析**：have been 是现在完成时；never 放在 have 与 been 之间。
 
-4. **中文**：不幸的是，我们的车在半路上遇到了爆胎。
-   **英文**：We had a flat tire while driving on the highway.
-   > **解析**：flat tire 表示“爆胎/扁平轮胎”。
+4. **中文**：她以前来过这里。
+   **英文**：She has been here before.
+   > **解析**：主语 She 是第三人称单数，助动词用 has；before 是副词，放句末。
 
-5. **中文**：乘客坐在前排座位上帮驾驶员查看导航。
-   **英文**：She prefers to sit in the front seat next to driver.
-   > **解析**：front seat 表示“前排座位”。
+5. **中文**：我们还没去过那里。
+   **英文**：We haven't been there yet.
+   > **解析**：haven't 是 have not 的缩写；yet 用于否定句句末，表示"还"。
 
-6. **中文**：车子快没油了，我们需要找一家加油站。
-   **英文**：We stopped at a gas station to fill up the tank.
-   > **解析**：gas station 表示“加油站”。
+6. **中文**：这辆车需要换机油。
+   **英文**：This car needs an oil change.
+   > **解析**：needs 是第三人称单数形式；oil change 是可数名词短语，用 an。
 
-7. **中文**：夜间在乡村小路上驾驶时请打开车前灯。
-   **英文**：Turn on your headlight when driving in the dark.
-   > **解析**：headlight 表示“车前灯/大灯”。
+7. **中文**：请帮我修一下刹车。
+   **英文**：Please repair the brakes for me.
+   > **解析**：祈使句以 Please + 动词原形开头；brakes 通常用复数。
 
-8. **中文**：每年购买汽车保险能为车主提供风险保障。
-   **英文**：You must show proof of car insurance to rent.
-   > **解析**：insurance 表示“保险”。
+8. **中文**：请把车窗摇下来。
+   **英文**：Please roll down the window.
+   > **解析**：roll down 是动词短语，宾语 window 放在短语之后。
 
-9. **中文**：汽车每行驶五千公里建议做一次更换机油保养。
-   **英文**：It is time for an oil change and general service.
-   > **解析**：oil change 表示“更换机油”。
+9. **中文**：天冷了，把车窗摇上去吧。
+   **英文**：It is cold, so roll up the window.
+   > **解析**：roll up 与 roll down 方向相反；so 连接因果分句。
 
-10. **中文**：在异地度假期间，我们在机场租了一辆租来的汽车。
-   **英文**：We picked up our rental car at the airport terminal.
-   > **解析**：rental car 表示“租来的汽车/租赁车”。
+10. **中文**：后备箱里有一个备胎。
+   **英文**：There is a spare tire in the trunk.
+   > **解析**：there is 表示"有"；in the trunk 是地点状语。
 
-11. **中文**：技师花了两个小时来维修好受损的发动机。
-   **英文**：The mechanic will repair the damaged engine today.
-   > **解析**：repair 表示“维修/修理”。
+11. **中文**：油箱快空了。
+   **英文**：The tank is almost empty.
+   > **解析**：is 与单数主语搭配；almost 修饰形容词 empty。
 
-12. **中文**：请摇下车窗，让清凉的清风吹进车里。
-   **英文**：He decided to roll down the window for fresh air.
-   > **解析**：roll down 表示“摇下（车窗）”。
+12. **中文**：打开转向灯。
+   **英文**：Turn on the turn signal.
+   > **解析**：turn on 是动词短语"打开"；turn signal 是转向灯，两个 turn 词性不同。
 
-13. **中文**：开始下雨了，请把车窗摇上。
-   **英文**：Please roll up your window before it rains hard.
-   > **解析**：roll up 表示“摇上（车窗）”。
+13. **中文**：挡风玻璃裂了。
+   **英文**：The windshield is cracked.
+   > **解析**：is cracked 表示状态，cracked 由过去分词转化而来。
 
-14. **中文**：行人应当沿着安全的人行道行走。
-   **英文**：Walk on the sidewalk instead of in the middle street.
-   > **解析**：sidewalk 表示“人行道”。
+14. **中文**：车头灯不亮了。
+   **英文**：The headlight doesn't work.
+   > **解析**：主语是第三人称单数，否定借助 doesn't；work 恢复原形。
 
-15. **中文**：把汽车的油箱加满需要大约五十美元。
-   **英文**：The gas tank is completely full now.
-   > **解析**：tank 表示“油箱/水槽”。
+15. **中文**：我的车有保险。
+   **英文**：My car has insurance.
+   > **解析**：has 与单数主语搭配；insurance 是不可数名词，不加冠词。
 
-16. **中文**：请把我们大号的旅行行李箱放进汽车后备箱。
-   **英文**：Put your luggage inside the car trunk please.
-   > **解析**：trunk 表示“（汽车）后备箱”。
+16. **中文**：我们租了一辆车。
+   **英文**：We rented a car.
+   > **解析**：rented 是 rent 的过去式；a car 是可数名词单数。
 
-17. **中文**：转弯前别忘了打转向灯提醒后车。
-   **英文**：Use your turn signal before changing lanes on road.
-   > **解析**：turn signal 表示“转向灯”。
+17. **中文**：这辆租来的车很干净。
+   **英文**：The rental car is very clean.
+   > **解析**：rental 作定语修饰 car；is 与单数主语搭配。
 
-18. **中文**：下大雨时雨刷器在挡风玻璃上不停扫动。
-   **英文**：The heavy rain splashed against the car windshield.
-   > **解析**：windshield 表示“挡风玻璃”。
+18. **中文**：不要停在人行道上。
+   **英文**：Don't park on the sidewalk.
+   > **解析**：否定祈使句以 Don't 开头；on the sidewalk 是地点状语。
 
-19. **中文**：他最近还没有去过那家新建的自动化洗车店。
-   **英文**：I haven't been to that auto repair shop before.
-   > **解析**：haven't been 表示“还没去过/还没到过”。
+19. **中文**：他坐在后排座位上。
+   **英文**：He is sitting in the back seat.
+   > **解析**：is sitting 是现在进行时；in the back seat 表示位置。
 
-20. **中文**：我和家人去过加州多次自驾游。
-   **英文**：They have been to the coast several times this year.
-   > **解析**：have been 表示“去过/到过”。
+20. **中文**：加油站就在街对面。
+   **英文**：The gas station is just across the street.
+   > **解析**：just 强调"就在"；across the street 表示"在街对面"。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The children sat quietly in the back seat during drive.
-   > **中文**：孩子们坐在轿车的后排座位上系好了安全带。
+1. My car has a flat tire.
+   > **中文**：我的车爆胎了。
 
-2. He hit the brake quickly to avoid the obstacle.
-   > **中文**：看到前方红灯，司机立刻踩下了刹车。
+2. Have you been to that gas station?
+   > **中文**：你去过那家加油站吗？
 
-3. We took our dusty vehicle to the car wash.
-   > **中文**：长途自驾游后，他把车开去洗车店做全面洗车。
+3. I haven't been to the car wash.
+   > **中文**：我没去过洗车店。
 
-4. We had a flat tire while driving on the highway.
-   > **中文**：不幸的是，我们的车在半路上遇到了爆胎。
+4. She has been here before.
+   > **中文**：她以前来过这里。
 
-5. She prefers to sit in the front seat next to driver.
-   > **中文**：乘客坐在前排座位上帮驾驶员查看导航。
+5. We have not been there yet.
+   > **中文**：我们还没去过那里。
 
-6. We stopped at a gas station to fill up the tank.
-   > **中文**：车子快没油了，我们需要找一家加油站。
+6. This car needs an oil change.
+   > **中文**：这辆车需要换机油。
 
-7. Turn on your headlight when driving in the dark.
-   > **中文**：夜间在乡村小路上驾驶时请打开车前灯。
+7. Please repair the brakes.
+   > **中文**：请修一下刹车。
 
-8. You must show proof of car insurance to rent.
-   > **中文**：每年购买汽车保险能为车主提供风险保障。
+8. Roll down the window, please.
+   > **中文**：请把车窗摇下来。
 
-9. It is time for an oil change and general service.
-   > **中文**：汽车每行驶五千公里建议做一次更换机油保养。
+9. Roll up the window.
+   > **中文**：把车窗摇上去。
 
-10. We picked up our rental car at the airport terminal.
-   > **中文**：在异地度假期间，我们在机场租了一辆租来的汽车。
+10. There is a spare tire in the trunk.
+   > **中文**：后备箱里有一个备胎。
 
-11. The mechanic will repair the damaged engine today.
-   > **中文**：技师花了两个小时来维修好受损的发动机。
+11. The tank is almost empty.
+   > **中文**：油箱快空了。
 
-12. He decided to roll down the window for fresh air.
-   > **中文**：请摇下车窗，让清凉的清风吹进车里。
+12. The turn signal is broken.
+   > **中文**：转向灯坏了。
 
-13. Please roll up your window before it rains hard.
-   > **中文**：开始下雨了，请把车窗摇上。
+13. The windshield is cracked.
+   > **中文**：挡风玻璃裂了。
 
-14. Walk on the sidewalk instead of in the middle street.
-   > **中文**：行人应当沿着安全的人行道行走。
+14. The headlight doesn't work.
+   > **中文**：车头灯不亮了。
 
-15. The gas tank is completely full now.
-   > **中文**：把汽车的油箱加满需要大约五十美元。
+15. My car has insurance.
+   > **中文**：我的车有保险。
 
-16. Put your luggage inside the car trunk please.
-   > **中文**：请把我们大号的旅行行李箱放进汽车后备箱。
+16. We rented a car for the trip.
+   > **中文**：我们为这次旅行租了一辆车。
 
-17. Use your turn signal before changing lanes on road.
-   > **中文**：转弯前别忘了打转向灯提醒后车。
+17. The rental car is very clean.
+   > **中文**：这辆租来的车很干净。
 
-18. The heavy rain splashed against the car windshield.
-   > **中文**：下大雨时雨刷器在挡风玻璃上不停扫动。
+18. Don't park on the sidewalk.
+   > **中文**：不要停在人行道上。
 
-19. I haven't been to that auto repair shop before.
-   > **中文**：他最近还没有去过那家新建的自动化洗车店。
+19. He is sitting in the back seat.
+   > **中文**：他坐在后排座位上。
 
-20. They have been to the coast several times this year.
-   > **中文**：我和家人去过加州多次自驾游。
+20. The gas station is across the street.
+   > **中文**：加油站就在街对面。
 
 </quiz-listening>
 
@@ -204,25 +207,31 @@ have been / have not been / haven't been / has / been 构成现在完成时，�
 | 英文单词 | 课文释义 |
 | --- | --- |
 | back seat | 后排座位 |
+| been | be 的过去分词 |
 | brake | 刹车 |
-| car wash | 洗车 |
+| car wash | 洗车店 / 洗车 |
 | flat tire | 爆胎 |
 | front seat | 前排座位 |
 | gas station | 加油站 |
-| headlight | 车前灯 |
+| has | 有（第三人称单数） |
+| have been | 去过 / 一直在 |
+| have not been | 没有去过 |
+| haven't been | have not been 的缩写 |
+| headlight | 车头灯 |
 | insurance | 保险 |
-| oil change | 更换机油 |
-| rental car | 租来的汽车 |
-| repair | 维修 |
-| roll down | 摇下车窗 |
-| roll up | 摇上车窗 |
+| oil change | 换机油 |
+| rental car | 租来的车 |
+| repair | 修理 |
+| roll down | 摇下 |
+| roll up | 摇上 |
 | sidewalk | 人行道 |
 | tank | 油箱 |
 | trunk | 后备箱 |
 | turn signal | 转向灯 |
 | windshield | 挡风玻璃 |
-| haven't been | 还没有去过 |
-| have been | 去过 / 已经去 |
+| is | 是（单数） |
+| the | 这个 / 那个 |
+| window | 车窗 |
 
 </quiz-matching>
 
@@ -230,202 +239,202 @@ have been / have not been / haven't been / has / been 构成现在完成时，�
 
 ### 1
 
-The ____ sat quietly in the back seat during drive.
+My car has a flat ____.
 
-- [x] children
-- [ ] back seat
-- [ ] been
+- [x] tire
+- [ ] tank
+- [ ] trunk
 
-> **解析**：**children** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：flat tire（爆胎）是固定搭配；tank 是油箱，trunk 是后备箱，均不与 flat 搭配。
 
 ### 2
 
-He hit the ____ quickly to avoid the obstacle.
+Have you ____ to that gas station?
 
-- [x] brake
-- [ ] back seat
-- [ ] been
+- [x] been
+- [ ] be
+- [ ] being
 
-> **解析**：**brake** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：have been 是现在完成时，been 是过去分词；be 和 being 不能与 have 构成此结构。
 
 ### 3
 
-We took our dusty ____ to the car wash.
+She ____ been here before.
 
-- [x] vehicle
-- [ ] back seat
-- [ ] been
+- [x] has
+- [ ] have
+- [ ] had
 
-> **解析**：**vehicle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 She 是第三人称单数，用 has；have 用于其他人称，had 是过去完成时，与 before 的完成语境相比 has 更自然。
 
 ### 4
 
-We had a flat tire while ____ on the highway.
+We haven't been there ____.
 
-- [x] driving
-- [ ] back seat
-- [ ] been
+- [x] yet
+- [ ] already
+- [ ] ever
 
-> **解析**：**driving** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：否定句末用 yet 表示"还"；already 用于肯定句，ever 用于疑问句。
 
 ### 5
 
-She ____ to sit in the front seat next to driver.
+This car needs an oil ____.
 
-- [x] prefers
-- [ ] back seat
-- [ ] been
+- [x] change
+- [ ] repair
+- [ ] tank
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **prefers**。
+> **解析**：oil change（换机油）是固定短语；repair 和 tank 不能与 oil 构成此义。
 
 ### 6
 
-We stopped at a gas station to fill up the ____.
+Please ____ the brakes.
 
-- [x] tank
-- [ ] back seat
-- [ ] been
+- [x] repair
+- [ ] roll
+- [ ] park
 
-> **解析**：**tank** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：repair the brakes（修刹车）搭配成立；roll 和 park 语义不通。
 
 ### 7
 
-Turn on your ____ when driving in the dark.
+Please roll ____ the window.
 
-- [x] headlight
-- [ ] back seat
-- [ ] been
+- [x] down
+- [ ] under
+- [ ] below
 
-> **解析**：**headlight** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：roll down（摇下）是固定短语；under 和 below 是介词，不能与 roll 构成此义。
 
 ### 8
 
-You must show proof of car ____ to rent.
+Roll ____ the window. It is cold.
 
-- [x] insurance
-- [ ] back seat
-- [ ] been
+- [x] up
+- [ ] over
+- [ ] out
 
-> **解析**：**insurance** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：roll up（摇上）与 roll down 方向相反；over 和 out 不表此义。
 
 ### 9
 
-It is time for an oil change and ____ service.
+There is a spare tire in the ____.
 
-- [x] general
-- [ ] back seat
-- [ ] been
+- [x] trunk
+- [ ] tank
+- [ ] sidewalk
 
-> **解析**：**general** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：备胎放在后备箱（trunk）；tank 是油箱，sidewalk 是人行道。
 
 ### 10
 
-We picked up our rental car at the airport ____.
+The ____ is almost empty.
 
-- [x] terminal
-- [ ] back seat
-- [ ] been
+- [x] tank
+- [ ] brake
+- [ ] windshield
 
-> **解析**：**terminal** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：油箱（tank）可以说"快空了"；brake 和 windshield 不能是 empty。
 
 ### 11
 
-The mechanic will ____ the damaged engine today.
+The ____ is cracked.
 
-- [x] repair
-- [ ] back seat
-- [ ] been
+- [x] windshield
+- [ ] gas station
+- [ ] oil change
 
-> **解析**：**repair** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：挡风玻璃（windshield）可以说裂了；另外两项不能 cracked。
 
 ### 12
 
-He ____ to roll down the window for fresh air.
+The headlight ____ work.
 
-- [x] decided
-- [ ] back seat
-- [ ] been
+- [x] doesn't
+- [ ] don't
+- [ ] hasn't
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **decided**。
+> **解析**：主语 headlight 是第三人称单数，否定用 doesn't；don't 人称不符，hasn't 后不能接动词原形。
 
 ### 13
 
-____ roll up your window before it rains hard.
+My car has ____.
 
-- [x] Please
-- [ ] back seat
-- [ ] been
+- [x] insurance
+- [ ] an insurance
+- [ ] insure
 
-> **解析**：**Please** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：insurance 不可数，不加冠词；insure 是动词。
 
 ### 14
 
-Walk on the ____ instead of in the middle street.
+We ____ a car for the trip.
 
-- [x] sidewalk
-- [ ] back seat
-- [ ] been
+- [x] rented
+- [ ] rent
+- [ ] renting
 
-> **解析**：**sidewalk** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：for the trip 的已发生事件用过去式 rented；renting 不能单独作谓语。
 
 ### 15
 
-The gas ____ is completely full now.
+The ____ car is very clean.
 
-- [x] tank
-- [ ] back seat
-- [ ] been
+- [x] rental
+- [ ] rent
+- [ ] rented
 
-> **解析**：**tank** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：rental car（租来的车）是固定搭配；rent 作定语不成立。
 
 ### 16
 
-Put your luggage inside the car ____ please.
+Don't park on the ____.
 
-- [x] trunk
-- [ ] back seat
-- [ ] been
+- [x] sidewalk
+- [ ] trunk
+- [ ] tank
 
-> **解析**：**trunk** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：停在人行道（sidewalk）上语义通顺；trunk 和 tank 是车的部件。
 
 ### 17
 
-Use your turn signal before ____ lanes on road.
+He is sitting in the ____ seat.
 
-- [x] changing
-- [ ] back seat
-- [ ] been
+- [x] back
+- [ ] brake
+- [ ] flat
 
-> **解析**：**changing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：back seat（后排座位）搭配成立；brake 和 flat 不能修饰 seat。
 
 ### 18
 
-The heavy rain splashed against the car ____.
+The gas station is ____ the street.
 
-- [x] windshield
-- [ ] back seat
-- [ ] been
+- [x] across
+- [ ] into
+- [ ] from
 
-> **解析**：**windshield** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：across the street（在街对面）是固定表达；into 和 from 不合语境。
 
 ### 19
 
-I haven't ____ to that auto repair shop before.
+Turn ____ the turn signal.
 
-- [x] been
-- [ ] back seat
-- [ ] brake
+- [x] on
+- [ ] in
+- [ ] at
 
-> **解析**：**been** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：turn on（打开）是固定短语；其余介词不成立。
 
 ### 20
 
-They have ____ to the coast several times this year.
+I have ____ been to a car wash.
 
-- [x] been
-- [ ] back seat
-- [ ] brake
+- [x] never
+- [ ] ever
+- [ ] yet
 
-> **解析**：**been** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：肯定句结构中 never 表示"从未"；ever 用于疑问句，yet 用于句末。
 
 </quiz-cloze>

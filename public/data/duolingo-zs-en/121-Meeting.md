@@ -10,40 +10,37 @@ agenda, aren't, charger, cool, couple, figure, first, from home, hard, headphone
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"帮助解决技术问题"展开。核心是会议和技术表达：You're on mute—can you hear us?（你静音了——你能听到我们吗？）、Let me figure out the problem with your headphones.（让我看看你耳机的问题。）、Isn't it hard to work from home?（在家工作不容易吧？）、The agenda for today's meeting is on the screen.（今天会议的议程在屏幕上。）。
+本单元的主题是"会议中帮忙解决技术问题"。词表可以分成四组：会议与设备（agenda, from home, on mute, headphones, charger, figure, hide, hidden, hid）、缩略与反问（isn't, aren't, isn't it）、天气与景象（rainy, icy, thunder, sunset, season）、描述与语气（cool, hard, couple, first, hopefully, speed, outfit, too）。拼起来就是一次线上会议：You're on mute. Don't worry, let's figure it out. Hopefully we can solve it before the next agenda item.
 
-词表里有科技词汇（charger, headphones, on mute）和天气词汇（icy, rainy, thunder, sunset）。你可以练习：I hid the charger—oops! / It's hidden behind the desk. / Hopefully the speed will improve. / A couple of people are working from home.
+语法主线有两个。一是 be 动词的否定缩略 isn't / aren't 与反意疑问 isn't it：Your mic isn't working, isn't it?（注意 isn't it 在口语中是固定尾缀）。二是 hide → hid → hidden 的不规则变化：I hid the file. The icon is hidden.（hid 是过去式，hidden 是过去分词，常作形容词或被动）。另外 hopefully 作句首副词表示"希望"，figure out 表示"弄清楚、解决"。
 
-on mute 表示"静音状态"。figure out 表示"弄清楚、解决"。
+学完这些词，你能用英语在线上会议中帮忙——提醒对方静音、检查充电器和耳机、解决技术问题，还能聊聊天气。
 
 ## Tips
 
-- **on mute / headphones** — 静音 / 耳机。搭配：You're on mute, put on mute, wear headphones。例句：You're on mute! / Please put your mic on mute. / I can't hear you—check your headphones. 注意 on mute 是会议常用语。
+- **agenda** — 议程：the first item on the agenda. 源自拉丁语，原义"该做的事"。
 
-- **figure / figure out** — 弄清楚。搭配：figure out the problem, figure it out。例句：Let me figure out what's wrong. / I can't figure out this app. 注意 figure out = solve / understand。
+- **on mute / headphones / charger** — 设备三词。on mute 处于静音状态：You're on mute. headphones 耳机（总用复数）；charger 充电器，charge + -er.
 
-- **charger / speed** — 充电器 / 速度。搭配：a phone charger, plug in the charger, internet speed。例句：Where's my charger? / The internet speed is slow. 注意 charger 是"充电器"，charge 是"充电"。
+- **from home** — 在家（工作）：work from home（WFH）。介词 from 表工作地点来源。
 
-- **isn't it / aren't** — 不是吗 / 不是（复数）。搭配：Isn't it...? / Aren't you...?（反问句）。例句：Isn't it hard to work from home? / Aren't you on mute? 注意反问句用于确认或表示惊讶。
+- **figure** — figure (out) 弄清楚：Let's figure out the problem. 也可作名词"数字、身材"。
 
-- **from home / agenda** — 在家 / 议程。搭配：work from home, the meeting agenda, on the agenda。例句：I work from home on Fridays. / What's on the agenda today? 注意 work from home 常缩写为 WFH。
+- **hide / hid / hidden** — hide 藏，不规则变化 hide → hid → hidden：I hid the cables. The menu is hidden. hidden 常作形容词"隐藏的"。
 
-- **hid / hidden / hide** — 藏了 / 隐藏的 / 藏。搭配：hid the charger, hidden files, hide something。例句：I hid the charger by accident. / The file is hidden. / Don't hide the problem! 注意 hide → hid → hidden。
+- **isn't / aren't / isn't it** — be 动词否定缩略。isn't = is not，aren't = are not；isn't it 是口语化的反意疑问尾缀：It's cold today, isn't it? ✗ is not it → ✓ isn't it（缩略后倒装）。
 
-- **hopefully / cool / couple** — 希望 / 酷 / 几个。搭配：Hopefully it works, That's cool, a couple of。例句：Hopefully the meeting goes well. / That's a cool outfit. / A couple of people are late. 注意 a couple of = 两三个。
+- **hopefully** — 希望，句首副词：Hopefully, it will work. hope + -fully.
 
-- **icy / rainy / thunder** — 结冰的 / 多雨的 / 雷。搭配：icy roads, a rainy day, thunder and lightning。例句：The roads are icy today. / It's a rainy season. / I heard thunder. 注意这些是天气相关词汇。
+- **cool** — 凉快的、酷的（口语"很棒"）：That's cool. 一词两义，正式场合用前者。
 
-- **sunset / season** — 日落 / 季节。搭配：at sunset, the rainy season, my favorite season。例句：The sunset was beautiful. / It's the rainy season. 注意 sunset 前加 the。
+- **couple / first / hard / too** — couple 两个、几个：a couple of minutes；first 首先；hard 难的、努力地：It's hard to fix.（注意 hardly 是"几乎不"）；too 也、太。
 
-- **outfit / too / first** — 穿搭 / 也 / 首先。搭配：a nice outfit, me too, first of all。例句：I like your outfit! / I'm working from home too. / First, let's check the agenda. 注意 outfit = 一套衣服/穿搭。
+- **rainy / icy / thunder / sunset / season** — 天气与景象。rainy 多雨的，rain + -y；icy 结冰的，ice + y（去 e）；thunder 雷；sunset 日落；season 季节。视频会议开场聊天气必备。
 
-- **hard / cool / too** — 困难 / 酷 / 太。搭配：too hard, too slow, really cool。例句：The internet is too slow. / This problem is hard. / Your headphones are cool. 注意 too 可表示"也"或"太"。
-
-- **meeting / season / speed** — 会议 / 季节 / 速度。搭配：a team meeting, this season, high speed。例句：The meeting starts in five minutes. / Winter is my favorite season. / The speed is too slow.
+- **speed / outfit** — speed 速度：internet speed（网速），开会卡顿常用；outfit 一套衣服、着装：a nice outfit for the video call.
 
 ## 练习
 
@@ -61,149 +58,149 @@ on mute 表示"静音状态"。figure out 表示"弄清楚、解决"。
 
 <quiz-sentence-builder>
 
-1. **中文**：在线上会议中，约翰的麦克风处于静音状态。  
-   **英文**：During the online meeting, John's microphone was on mute.
-   > **解析**：on mute 表示“处于静音状态”；meeting 表示“会议”。
+1. **中文**：你现在处于静音状态。
+   **英文**：You're on mute right now.
+   > **解析**：on mute 作表语；right now 是时间状语。
 
-2. **中文**：在开始讨论之前，请检查今天的会议议程。  
-   **英文**：Please check today's meeting agenda before we start.
-   > **解析**：agenda 表示“议程/议事日程”。
+2. **中文**：别担心，我们来解决这个问题。
+   **英文**：Don't worry. Let's figure it out.
+   > **解析**：figure out 是固定短语；代词 it 必须放在 figure 和 out 之间。
 
-3. **中文**：别忘了给手机带上充电器和戴上耳机。  
-   **英文**：Don't forget to bring your charger and wear your headphones.
-   > **解析**：charger 表示“充电器”；headphones 表示“耳机”。
+3. **中文**：会议的第一个议题是什么？
+   **英文**：What is the first item on the agenda?
+   > **解析**：What 引导疑问句；on the agenda 是后置定语。
 
-4. **中文**：在家办公能让我们省去漫长的通勤时间。  
-   **英文**：Working from home helps us save a lot of travel time.
-   > **解析**：from home 表示“在家里（办公）”；work from home 表示“居家办公”。
+4. **中文**：我今天从家里办公。
+   **英文**：I'm working from home today.
+   > **解析**：am working 是现在进行时；from home 是地点状语。
 
-5. **中文**：希望我们能尽快弄清楚这个复杂数字。  
-   **英文**：Hopefully, we can figure out this complex figure soon.
-   > **解析**：hopefully 表示“希望”；figure out 表示“弄清楚”；figure 表示“数字/图形”。
+5. **中文**：你的麦克风没在正常工作，不是吗？
+   **英文**：Your mic isn't working, is it?
+   > **解析**：isn't 是否定缩略；反意疑问句用 is it 与前半句呼应。
 
-6. **中文**：在冰冷雷雨交加的天气里，路上有些湿滑。  
-   **英文**：In this icy rainy weather, the road is wet and slippery.
-   > **解析**：icy 表示“冰冷的/结冰的”；rainy 表示“下雨的”；thunder 表示“雷电”。
+6. **中文**：这些设置不是很难。
+   **英文**：These settings aren't very hard.
+   > **解析**：aren't 搭配复数主语 These settings。
 
-7. **中文**：今天的天气不是很好，对吧？  
-   **英文**：The weather is really cool today, isn't it?
-   > **解析**：isn't it 表示反问句“对吧/难道不是吗”；cool 表示“凉爽的/酷的”。
+7. **中文**：希望我们能很快修好它。
+   **英文**：Hopefully, we can fix it soon.
+   > **解析**：Hopefully 作句首副词；can 后接动词原形 fix。
 
-8. **中文**：这套职业装穿起来非常得体舒服。  
-   **英文**：This professional outfit is very comfortable to wear.
-   > **解析**：outfit 表示“全套服装/装束”。
+8. **中文**：我的充电器坏了。
+   **英文**：My charger is broken.
+   > **解析**：is broken 是被动形式的表语结构。
 
-9. **中文**：他们隐藏了重要的文件，不让其他人看到。  
-   **英文**：They hid the key document so it remained hidden.
-   > **解析**：hid 是 hide 的过去式；hidden 表示“隐藏的”。
+9. **中文**：请戴上耳机。
+   **英文**：Please put on your headphones.
+   > **解析**：祈使句以 Please + put on 开头；headphones 总用复数。
 
-10. **中文**：在雨季海边欣赏美丽的日落是一件很棒的事。  
-   **英文**：Watching a sunset by the ocean in the rainy season is nice.
-   > **解析**：sunset 表示“日落”；season 表示“季节”。
+10. **中文**：我把文件藏起来了。
+    **英文**：I hid the file.
+    > **解析**：hid 是 hide 的过去式；the file 作宾语。
 
-11. **中文**：你能帮我把手机充电器拿过来吗？  
-   **英文**：Can you bring me the charger for my phone?
-   > **解析**：charger 表示“充电器”。
+11. **中文**：这个菜单是隐藏的。
+    **英文**：This menu is hidden.
+    > **解析**：hidden 作表语形容词，表"隐藏的"。
 
-12. **中文**：戴上耳机后，听音质效果非常清晰。  
-   **英文**：Wearing headphones makes the sound very clear.
-   > **解析**：headphones 表示“耳机”。
+12. **中文**：网速太慢了。
+    **英文**：The internet speed is too slow.
+    > **解析**：speed 作主语用 is；too slow 作表语。
 
-13. **中文**：希望明天的会议能按时举行。  
-   **英文**：Hopefully, tomorrow's meeting will start on time.
-   > **解析**：hopefully 表示“希望/但愿”。
+13. **中文**：外面正在下雨。
+    **英文**：It is rainy outside today.
+    > **解析**：It 作天气主语；rainy 作表语。
 
-14. **中文**：你昨晚在会议上谈到了你的一套新服饰。  
-   **英文**：You talked about your new outfit at the meeting.
-   > **解析**：outfit 表示“服装/着装”。
+14. **中文**：路上结冰了，很滑。
+    **英文**：The road is icy and slippery.
+    > **解析**：icy 和 slippery 并列作表语。
 
-15. **中文**：在暴风雨天气里，外面打雷打得厉害。  
-   **英文**：During the rainy storm, we heard loud thunder outside.
-   > **解析**：thunder 表示“雷/雷声”。
+15. **中文**：我们能听到雷声。
+    **英文**：We can hear the thunder.
+    > **解析**：can 后接动词原形 hear；the thunder 作宾语。
 
-16. **中文**：他决定在家办公以照看生病的小狗。  
-   **英文**：He chose to work from home to take care of his puppy.
-   > **解析**：from home 表示“在家里/居家”。
+16. **中文**：日落很凉爽。
+    **英文**：The sunset looks cool.
+    > **解析**：look 是系动词；cool 作表语。
 
-17. **中文**：我们设法搞懂了报告里的核心数据。  
-   **英文**：We managed to figure out the main data in the report.
-   > **解析**：figure 表示“数字/计算”。
+17. **中文**：冬天是我最喜欢的季节。
+    **英文**：Winter is my favorite season.
+    > **解析**：favorite 作定语修饰 season。
 
-18. **中文**：她的发言声音处于静音状态，大家听不见。  
-   **英文**：Her voice was on mute, so nobody could hear her.
-   > **解析**：on mute 表示“处于静音”。
+18. **中文**：你的着装很酷。
+    **英文**：Your outfit is cool.
+    > **解析**：cool 此处是"很棒"的口语义，作表语。
 
-19. **中文**：在这个寒冷的季节里，空气冰冷刺骨。  
-   **英文**：In this cold season, the wind feels very icy.
-   > **解析**：icy 表示“冰冷的”。
+19. **中文**：给我几分钟就好。
+    **英文**：Give me a couple of minutes.
+    > **解析**：a couple of 表示"几个"；祈使句以 Give 开头。
 
-20. **中文**：会议室里温度适宜，非常凉爽。  
-   **英文**：The meeting room temperature feels cool and nice.
-   > **解析**：cool 表示“凉爽的”。
+20. **中文**：我也觉得这很难。
+    **英文**：I think it's hard too.
+    > **解析**：too 放句末表"也"；it's 是 it is 的缩略。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. During the online meeting, John's microphone was on mute.
-   > **中文**：在线上会议中，约翰的麦克风处于静音状态。
+1. You're on mute right now.
+   > **中文**：你现在处于静音状态。
 
-2. Please check today's meeting agenda before we start.
-   > **中文**：在开始讨论之前，请检查今天的会议议程。
+2. Don't worry. Let's figure it out.
+   > **中文**：别担心，我们来解决这个问题。
 
-3. Don't forget to bring your charger and wear your headphones.
-   > **中文**：别忘了给手机带上充电器和戴上耳机。
+3. What is the first item on the agenda?
+   > **中文**：会议的第一个议题是什么？
 
-4. Working from home helps us save a lot of travel time.
-   > **中文**：在家办公能让我们省去漫长的通勤时间。
+4. I'm working from home today.
+   > **中文**：我今天从家里办公。
 
-5. Hopefully, we can figure out this complex figure soon.
-   > **中文**：希望我们能尽快弄清楚这个复杂数字。
+5. Your mic isn't working, is it?
+   > **中文**：你的麦克风没在正常工作，不是吗？
 
-6. In this icy rainy weather, the road is wet and slippery.
-   > **中文**：在冰冷雷雨交加的天气里，路上有些湿滑。
+6. These settings aren't very hard.
+   > **中文**：这些设置不是很难。
 
-7. The weather is really cool today, isn't it?
-   > **中文**：今天的天气不是很好，对吧？
+7. Hopefully, we can fix it soon.
+   > **中文**：希望我们能很快修好它。
 
-8. This professional outfit is very comfortable to wear.
-   > **中文**：这套职业装穿起来非常得体舒服。
+8. My charger is broken.
+   > **中文**：我的充电器坏了。
 
-9. They hid the key document so it remained hidden.
-   > **中文**：他们隐藏了重要的文件，不让其他人看到。
+9. Please put on your headphones.
+   > **中文**：请戴上耳机。
 
-10. Watching a sunset by the ocean in the rainy season is nice.
-   > **中文**：在雨季海边欣赏美丽的日落是一件很棒的事。
+10. I hid the file.
+    > **中文**：我把文件藏起来了。
 
-11. Can you bring me the charger for my phone?
-   > **中文**：你能帮我把手机充电器拿过来吗？
+11. This menu is hidden.
+    > **中文**：这个菜单是隐藏的。
 
-12. Wearing headphones makes the sound very clear.
-   > **中文**：戴上耳机后，听音质效果非常清晰。
+12. The internet speed is too slow.
+    > **中文**：网速太慢了。
 
-13. Hopefully, tomorrow's meeting will start on time.
-   > **中文**：希望明天的会议能按时举行。
+13. It is rainy outside today.
+    > **中文**：外面正在下雨。
 
-14. You talked about your new outfit at the meeting.
-   > **中文**：你昨晚在会议上谈到了你的一套新服饰。
+14. The road is icy and slippery.
+    > **中文**：路上结冰了，很滑。
 
-15. During the rainy storm, we heard loud thunder outside.
-   > **中文**：在暴风雨天气里，外面打雷打得厉害。
+15. We can hear the thunder.
+    > **中文**：我们能听到雷声。
 
-16. He chose to work from home to take care of his puppy.
-   > **中文**：他决定在家办公以照看生病的小狗。
+16. The sunset looks cool.
+    > **中文**：日落很凉爽。
 
-17. We managed to figure out the main data in the report.
-   > **中文**：我们设法搞懂了报告里的核心数据。
+17. Winter is my favorite season.
+    > **中文**：冬天是我最喜欢的季节。
 
-18. Her voice was on mute, so nobody could hear her.
-   > **中文**：她的发言声音处于静音状态，大家听不见。
+18. Your outfit is cool.
+    > **中文**：你的着装很酷。
 
-19. In this cold season, the wind feels very icy.
-   > **中文**：在这个寒冷的季节里，空气冰冷刺骨。
+19. Give me a couple of minutes.
+    > **中文**：给我几分钟就好。
 
-20. The meeting room temperature feels cool and nice.
-   > **中文**：会议室里温度适宜，非常凉爽。
+20. I think it's hard too.
+    > **中文**：我也觉得这很难。
 
 </quiz-listening>
 
@@ -211,26 +208,37 @@ on mute 表示"静音状态"。figure out 表示"弄清楚、解决"。
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| agenda | 议程 / 议事日程 |
-| aren't | 不是（are not的缩写） |
+| agenda | 议程 |
+| aren't | 不是（缩略） |
 | charger | 充电器 |
 | cool | 凉爽的 / 酷的 |
-| couple | 一对 / 夫妇 |
-| figure | 数字 / 弄明白 |
-| from home | 在家里 / 居家 |
+| couple | 两个 / 几个 |
+| figure | 弄清楚 / 数字 |
+| first | 第一 / 首先 |
+| from home | 在家（办公） |
+| hard | 难的 |
 | headphones | 耳机 |
-| hid | 隐藏（hide的过去式） |
-| hidden | 隐藏的 / 隐蔽的 |
-| hide | 隐藏 |
-| hopefully | 希望 / 但愿 |
-| icy | 冰冷的 / 结冰的 |
-| isn't it | 对吧 / 难道不是吗 |
-| on mute | 静音中 |
-| outfit | 全套服装 / 装束 |
-| rainy | 下雨的 |
+| hid | 藏（过去式） |
+| hidden | 隐藏的 |
+| hide | 藏 |
+| hopefully | 希望 |
+| icy | 结冰的 |
+| isn't | 不是（缩略） |
+| isn't it | 不是吗 |
+| on mute | 处于静音 |
+| outfit | 着装 |
+| rainy | 多雨的 |
 | season | 季节 |
 | speed | 速度 |
-| thunder | 雷声 / 打雷 |
+| sunset | 日落 |
+| thunder | 雷 |
+| too | 也 / 太 |
+| the | 这 / 那（定冠词） |
+| mic | 麦克风 |
+| internet | 网络 |
+| road | 道路 |
+| winter | 冬天 |
+| file | 文件 |
 
 </quiz-matching>
 
@@ -238,202 +246,202 @@ on mute 表示"静音状态"。figure out 表示"弄清楚、解决"。
 
 ### 1
 
-During the online meeting, John's ____ was on mute.
+You're on ____ right now.
 
-- [x] microphone
+- [x] mute
 - [ ] agenda
-- [ ] aren't
+- [ ] thunder
 
-> **解析**：**microphone** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：on mute 是"静音状态"的固定搭配；agenda 和 thunder 不能构成此短语。
 
 ### 2
 
-Please check today's meeting ____ before we start.
+Let's ____ it out.
 
-- [x] agenda
-- [ ] aren't
+- [x] figure
+- [ ] hide
 - [ ] charger
 
-> **解析**：**agenda** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：figure out 是"解决、弄清楚"的固定短语；hide 和 charger 不与 out 构成解决义。
 
 ### 3
 
-Don't forget to bring your ____ and wear your headphones.
+What is the first item on the ____?
 
-- [x] charger
-- [ ] agenda
-- [ ] aren't
+- [x] agenda
+- [ ] outfit
+- [ ] season
 
-> **解析**：**charger** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：会议议题在 agenda 上；outfit 和 season 与会议无关。
 
 ### 4
 
-____ from home helps us save a lot of travel time.
+I'm working ____ home today.
 
-- [x] Working
-- [ ] agenda
-- [ ] aren't
+- [x] from
+- [ ] on
+- [ ] too
 
-> **解析**：**Working** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：在家办公用 work from home；on 和 too 不能构成此搭配。
 
 ### 5
 
-____, we can figure out this complex figure soon.
+Your mic ____ working, is it?
 
-- [x] Hopefully
-- [ ] agenda
+- [x] isn't
 - [ ] aren't
+- [ ] hidden
 
-> **解析**：**Hopefully** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：mic 是单数用 isn't；aren't 搭配复数，hidden 是形容词不能作谓语。
 
 ### 6
 
-In this ____ rainy weather, the road is wet and slippery.
+These settings ____ very hard.
 
-- [x] icy
-- [ ] agenda
-- [ ] aren't
+- [x] aren't
+- [ ] isn't
+- [ ] hopefully
 
-> **解析**：**icy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：复数主语 settings 用 aren't；isn't 搭配单数，hopefully 是副词不能作谓语。
 
 ### 7
 
-The weather is really ____ today, isn't it?
+____, we can fix it soon.
 
-- [x] cool
-- [ ] agenda
-- [ ] aren't
+- [x] Hopefully
+- [ ] Thunder
+- [ ] Icy
 
-> **解析**：**cool** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句首表示"希望"用 Hopefully；Thunder 和 Icy 不能作句首语气副词。
 
 ### 8
 
-This professional ____ is very comfortable to wear.
-
-- [x] outfit
-- [ ] agenda
-- [ ] aren't
-
-> **解析**：**outfit** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 9
-
-They ____ the key document so it remained hidden.
-
-- [x] hid
-- [ ] agenda
-- [ ] aren't
-
-> **解析**：**hid** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 10
-
-Watching a ____ by the ocean in the rainy season is nice.
-
-- [x] sunset
-- [ ] agenda
-- [ ] aren't
-
-> **解析**：**sunset** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 11
-
-Can you bring me the ____ for my phone?
+My ____ is broken.
 
 - [x] charger
 - [ ] agenda
-- [ ] aren't
+- [ ] sunset
 
-> **解析**：**charger** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：会坏的设备是充电器 charger；agenda 和 sunset 不能坏。
+
+### 9
+
+Please put on your ____.
+
+- [x] headphones
+- [ ] speed
+- [ ] season
+
+> **解析**：戴上的是耳机 headphones；speed 和 season 不能被戴上。
+
+### 10
+
+I ____ the file yesterday.
+
+- [x] hid
+- [ ] hidden
+- [ ] hide
+
+> **解析**：过去式用 hid；hidden 是过去分词需搭配 have/be，hide 是原形与 yesterday 冲突。
+
+### 11
+
+This menu is ____.
+
+- [x] hidden
+- [ ] hid
+- [ ] hide
+
+> **解析**：is 后用过去分词 hidden 作表语；hid 是过去式，hide 是原形，都不用于 is 后。
 
 ### 12
 
-Wearing ____ makes the sound very clear.
+The internet ____ is too slow.
 
-- [x] headphones
-- [ ] agenda
-- [ ] aren't
+- [x] speed
+- [ ] outfit
+- [ ] thunder
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **headphones**。
+> **解析**：网速用 speed；outfit 和 thunder 不能用 slow 形容。
 
 ### 13
 
-____, tomorrow's meeting will start on time.
-
-- [x] Hopefully
-- [ ] agenda
-- [ ] aren't
-
-> **解析**：**Hopefully** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 14
-
-You talked about your new ____ at the meeting.
-
-- [x] outfit
-- [ ] agenda
-- [ ] aren't
-
-> **解析**：**outfit** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 15
-
-During the ____ storm, we heard loud thunder outside.
+It is ____ outside today.
 
 - [x] rainy
 - [ ] agenda
-- [ ] aren't
+- [ ] charger
 
-> **解析**：**rainy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：天气下雨用 rainy；agenda 和 charger 是名词，不能描述天气。
+
+### 14
+
+The road is ____ and slippery.
+
+- [x] icy
+- [ ] cool
+- [ ] first
+
+> **解析**：路滑结冰用 icy；cool 和 first 与 slippery 不并列。
+
+### 15
+
+We can hear the ____.
+
+- [x] thunder
+- [ ] agenda
+- [ ] outfit
+
+> **解析**：能听到的是雷声 thunder；agenda 和 outfit 不能被听到。
 
 ### 16
 
-He ____ to work from home to take care of his puppy.
+The ____ looks cool.
 
-- [x] chose
-- [ ] agenda
-- [ ] aren't
+- [x] sunset
+- [ ] figure
+- [ ] couple
 
-> **解析**：**chose** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：看起来凉爽美丽的是日落 sunset；figure 和 couple 语义不符。
 
 ### 17
 
-We managed to ____ out the main data in the report.
+Winter is my favorite ____.
 
-- [x] figure
-- [ ] agenda
-- [ ] aren't
+- [x] season
+- [ ] mic
+- [ ] speed
 
-> **解析**：**figure** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：冬天是一个季节 season；mic 和 speed 语义不符。
 
 ### 18
 
-Her voice was on mute, so ____ could hear her.
+Your ____ is cool.
 
-- [x] nobody
-- [ ] agenda
-- [ ] aren't
+- [x] outfit
+- [ ] thunder
+- [ ] hide
 
-> **解析**：**nobody** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：着装很酷用 outfit；thunder 和 hide 不能被形容为着装。
 
 ### 19
 
-In this cold ____, the wind feels very icy.
+Give me a ____ of minutes.
 
-- [x] season
-- [ ] agenda
-- [ ] aren't
+- [x] couple
+- [ ] hidden
+- [ ] icy
 
-> **解析**：**season** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a couple of 是"几个"的固定短语；hidden 和 icy 不能构成数量短语。
 
 ### 20
 
-The meeting room temperature feels ____ and nice.
+I think it's hard ____.
 
-- [x] cool
-- [ ] agenda
+- [x] too
 - [ ] aren't
+- [ ] agenda
 
-> **解析**：**cool** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句末表"也"用 too；aren't 是动词缩略，agenda 是名词，都不作句末副词。
 
 </quiz-cloze>

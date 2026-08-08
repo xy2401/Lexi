@@ -10,58 +10,33 @@ accuse, anything, approval, as far as i know, breakup, confess, consideration, d
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是"对指控做出反应"——一场关于分手、谣言和信任崩塌的对话。词表里有大量表达立场和情绪的词：accuse, confess, refuse, fed up, toxic。你可以这样回应：As far as I know, I did nothing wrong. I'm fed up with the rumors and suspicion. Is it just me, or is this whole situation toxic?（据我所知，我没做错任何事。我受够了这些谣言和猜疑。是我想多了，还是这整件事本来就有毒？）
+本单元的主题是"回应指责"，场景是朋友间的风波与对峙。词表可以分成四组：冲突动作（accuse, confess, refuse, propose, play a part）、怀疑与证据（rumor, suspicion, doubtful, valid, as far as i know, everything that）、情绪与立场（fed up, toxic, over, feel any better about, is it just me, the trouble with, point of view）、以及名词与虚词（breakup, approval, consideration, anything, nothing, something, for a while now）。拼起来就是一段对峙开场：As far as I know, I did nothing wrong. The trouble with this rumor is that nobody saw anything.
 
-the trouble with（……的问题在于）、point of view（观点）、play a part（起作用）让讨论更有层次。for a while now（一段时间以来）暗示矛盾积累已久。valid（合理的）和 doubtful（可疑的）是评价对方说法的关键形容词。breakup 和 rumor 点明了"感情纠纷"的具体场景。
+语法主线有两个。一是不定代词 anything / nothing / something 的分工： accuse me of anything（任何罪名）、I did nothing wrong（什么也没做错）、there's something strange（有不对劲的地方）。二是表达立场的句式：from my point of view（在我看来）、the trouble with... is that...（……的问题在于）。
 
-学完本单元，你能用英语为自己辩护、质疑对方的指控，并表达对一段有毒关系的态度。
+学完这个单元，你能用英语为自己辩解、回应谣言与指责，还能表达对一段关系的看法。
 
 ## Tips
 
-- **fed up** — "受够了、忍无可忍"。搭配：be fed up with something / I'm fed up with the lies. 比 tired of 语气更强，暗示"已经到了极限"。非常口语化，带有明显的不满情绪。
+- **accuse / confess / refuse** — 冲突三动词。accuse = 指责，搭配 of：They accused me of lying. confess = 坦白、承认：confess the truth；refuse = 拒绝：refuse to answer。
 
-- **toxic** — "有毒的"，本单元比喻"有害的关系/环境"。a toxic relationship / a toxic person。原义指化学毒物，引申为"让人身心俱疲的"。近年在英语中极高频，尤其用于描述人际关系。
+- **rumor / suspicion / doubtful / valid** — 怀疑四词。rumor = 谣言：spread a rumor；suspicion = 怀疑；doubtful = 可疑的、不太可能的：That story sounds doubtful. valid = 站得住脚的、有效的：a valid reason。
 
-- **as far as I know** — "据我所知"，用来限定自己的说法范围。As far as I know, he didn't do it. 暗示"我只知道这些，可能有我不知道的"。比 I think 更谨慎。
+- **as far as i know / everything that** — as far as I know = 据我所知，用于限定自己的说法；everything that + 从句表示"所有……的事"：Everything that he said was a lie.
 
-- **accuse** — "指控、责备"。搭配：accuse someone of something。She accused him of lying. 注意介词是 of，不是 for。名词 accusation。比 blame 更正式，常用于法律或严肃场合。
+- **fed up / toxic / over** — fed up = 受够了：I'm fed up with the lies. toxic = 有毒的，引申"有害的关系"：a toxic friendship；over 表示"结束了"：Our friendship is over.
 
-- **confess** — "坦白、承认"。He confessed to the affair. / I have to confess something. 比 admit 更有"主动交代（不好的事）"的意味。名词 confession。宗教语境下 = 忏悔。
+- **feel any better about / is it just me** — feel any better about 用于反问：Do you feel any better about it now?（你现在心里好受些了吗？）is it just me 表示"是不是只有我觉得"：Is it just me, or is he lying?
 
-- **suspicion** — "怀疑、嫌疑"。搭配：have a suspicion / under suspicion。动词 suspect，形容词 suspicious。比 doubt 更偏向"怀疑某人做了坏事"。注意拼写：-cion 结尾。
+- **the trouble with / point of view** — The trouble with him is that he never apologizes.（他的问题在于……）from my point of view = 在我看来。
 
-- **valid** — "合理的、有效的"。a valid point / a valid reason。比 good 或 reasonable 更正式，强调"站得住脚"。反义词 invalid。在法律和逻辑语境中极常用。
+- **propose / approval / consideration** — propose = 提议：propose a solution；approval = 批准、赞成；consideration = 考虑：give it some consideration。
 
-- **doubtful** — "可疑的、不太可能的"。I'm doubtful about his story. / It's doubtful that he'll come. 比 unsure 更偏向"不相信"。名词 doubt。注意 -ful 后缀。
+- **play a part / breakup / for a while now** — play a part = 起作用、扮演角色：Money played a part in the breakup. breakup = 分手、决裂；for a while now = 近来一段时间，常与完成时连用。
 
-- **play a part** — "起作用、扮演角色"。Jealousy played a part in the breakup. 比 cause 更柔和，暗示"是因素之一"。也可以说 play a role，意思相同。
-
-- **point of view** — "观点、看法"。From my point of view, he's innocent. 比 opinion 更强调"从某个角度看"。缩写 POV 在网络和影视中常见。注意 view 前没有冠词。
-
-- **the trouble with** — "……的问题在于"。The trouble with him is he never listens. 比 the problem with 更口语。trouble 在这里 = 麻烦/问题。后面常接 is that...
-
-- **is it just me** — "是我想多了吗、只有我这么觉得吗"。Is it just me, or is this weird? 非常地道的口语表达，用来试探性地提出自己的观察，语气不那么武断。
-
-- **for a while now** — "一段时间以来"，暗示持续到现在。I've been suspicious for a while now. 用现在完成时搭配。比 for a long time 语气轻，指"不算太久但也不短"。
-
-- **breakup** — "分手、破裂"。a messy breakup / go through a breakup。动词短语 break up：They broke up last month。注意名词 breakup 是一个词，动词 break up 是两个词。
-
-- **rumor** — "谣言、传闻"。搭配：start a rumor / spread rumors / hear a rumor。英式拼写 rumour。注意 rumor 可数：There are rumors that... 比 gossip 更指"未经证实的消息"。
-
-- **refuse** — "拒绝"，比 say no 更正式、更坚决。He refused to confess. / She refused his proposal. 名词 refusal。注意重音在第二音节：/rɪˈfjuːz/。
-
-- **propose** — "提议；求婚"。propose a solution / He proposed to her. 名词 proposal。在感情语境下常指"求婚"，在其他语境下 = 建议。注意 -ose 结尾。
-
-- **approval** — "认可、批准"。搭配：seek approval / give approval / win someone's approval。动词 approve。反义词 disapproval。比 agreement 更强调"上级或权威的同意"。
-
-- **consideration** — "考虑、体谅"。搭配：take into consideration / show consideration for others。动词 consider。比 thought 更正式。in consideration of = 考虑到。
-
-- **over** — 本单元中 likely 指"结束了"。It's over between us. = 我们之间结束了。over 表"结束"非常口语化：The relationship is over. 也可以指"翻篇了"。
-
-- **feel any better about** — "对……感觉好点"。Do you feel any better about the situation? 常用于反问，暗示"你这样做并不能让事情变好"。any 在疑问和否定句中加强语气。
+- **anything / nothing / something** — 不定代词三兄弟。anything 用于否定和疑问：I didn't say anything. nothing 本身含否定：I said nothing. something 用于肯定：I have something to confess.
 
 ## 练习
 
@@ -79,149 +54,149 @@ the trouble with（……的问题在于）、point of view（观点）、play a
 
 <quiz-sentence-builder>
 
-1. **中文**：不要未经证实就公开指责朋友背叛信任。
-   **英文**：You shouldn't accuse your best friend of betraying your trust without proof.
-   > **解析**：accuse 表示指责、控告。
+1. **中文**：据我所知，我没有做错任何事。
+   **英文**：As far as I know, I did nothing wrong.
+   > **解析**：As far as I know 作插入语限定信息来源；did nothing wrong 是"什么也没做错"。
 
-2. **中文**：经历漫长的心态挣扎后，他终于决定坦白真相。
-   **英文**：After hiding the secret for weeks, he decided to confess everything.
-   > **解析**：confess 表示坦白、承认。
+2. **中文**：他们指责我撒谎。
+   **英文**：They accused me of lying.
+   > **解析**：accuse someone of doing 是固定搭配；accused 是过去式。
 
-3. **中文**：他在一个浪漫的晚宴上向相恋多年的女朋友求婚。
-   **英文**：He decided to propose to his girlfriend during a candlelit dinner.
-   > **解析**：propose 表示求婚、提议。
+3. **中文**：我必须坦白真相。
+   **英文**：I have to confess the truth.
+   > **解析**：confess 是及物动词，直接接 the truth；have to 表示不得不。
 
-4. **中文**：面对不合理的要求，她果断地选择了拒绝。
-   **英文**：She had every right to refuse to cooperate with unreasonable demands.
-   > **解析**：refuse 表示拒绝。
+4. **中文**：我拒绝回答那个问题。
+   **英文**：I refuse to answer that question.
+   > **解析**：refuse to do 是固定搭配；that 修饰 question。
 
-5. **中文**：关于他们分手的传言在朋友之间迅速传播开来。
-   **英文**：A sudden rumor about their painful breakup spread among mutual friends.
-   > **解析**：rumor 表示传言；breakup 表示分手。
+5. **中文**：那个谣言的问题在于没人亲眼看见。
+   **英文**：The trouble with the rumor is that nobody saw it.
+   > **解析**：The trouble with... is that... 是固定句型，that 引导表语从句。
 
-6. **中文**：摆脱一段有害的感情关系对身心健康至关重要。
-   **英文**：Walking away from a toxic relationship is essential for mental health.
-   > **解析**：toxic 表示有害的、不良的。
+6. **中文**：这个故事听起来很可疑。
+   **英文**：That story sounds doubtful.
+   > **解析**：sounds 是系动词；doubtful 是形容词作表语。
 
-7. **中文**：我对自己未经考证的解释持高度怀疑的态度。
-   **英文**：I remain deeply doubtful about the explanation offered by management.
-   > **解析**：doubtful 表示怀疑的、不确定的。
+7. **中文**：给我一个站得住脚的理由。
+   **英文**：Give me a valid reason.
+   > **解析**：valid 修饰 reason 作定语；give 接双宾语。
 
-8. **中文**：他对自己这种反复无常的态度已经彻底受够了。
-   **英文**：She was completely fed up with his endless excuses for being late.
-   > **解析**：fed up 表示受够了、厌烦。
+8. **中文**：我受够了这些谎言。
+   **英文**：I am fed up with the lies.
+   > **解析**：be fed up with 是固定搭配"受够了"；fed 是 feed 的过去分词。
 
-9. **中文**：你提出的这个观点在讨论中是非常合理有效的。
-   **英文**：You raised a very valid point that deserves careful consideration.
-   > **解析**：valid 表示合理的、有效的；consideration 表示考虑。
+9. **中文**：这段友谊是有毒的。
+   **英文**：This friendship is toxic.
+   > **解析**：toxic 是形容词作表语，比喻"有害的"。
 
-10. **中文**：获得父母的赞同能让他们在做决定时更有信心。
-   **英文**：Getting their parents' approval gave the couple great confidence.
-   > **解析**：approval 表示赞同、批准。
+10. **中文**：我们之间结束了。
+   **英文**：It is over between us.
+   > **解析**：over 作表语表示"结束"；between us 说明范围。
 
-11. **中文**：误会引发的强烈猜疑破坏了原本融洽的友情。
-   **英文**：Constant suspicion destroyed the trust between the business partners.
-   > **解析**：suspicion 表示猜疑、怀疑。
+11. **中文**：是不是只有我觉得他在撒谎？
+   **英文**：Is it just me, or is he lying?
+   > **解析**：Is it just me 是固定口语句式；or 连接另一个分句。
 
-12. **中文**：站在对方的观点立场思考有助于化解日常矛盾。
-   **英文**：Trying to see things from her point of view helps resolve conflict.
-   > **解析**：point of view 表示观点、立场。
+12. **中文**：在我看来，他是无辜的。
+   **英文**：From my point of view, he is innocent.
+   > **解析**：From my point of view 作状语置于句首。
 
-13. **中文**：误解与沟通不畅在这次冲突中起到了推波助澜的作用。
-   **英文**：Miscommunication played a part in making the argument escalate.
-   > **解析**：play a part 表示起作用、扮演角色。
+13. **中文**：钱在他们的分手中起了作用。
+   **英文**：Money played a part in their breakup.
+   > **解析**：play a part in 是固定搭配"在……中起作用"；played 是过去式。
 
-14. **中文**：这种沟通方式的麻烦在于双方都不愿先倾听。
-   **英文**：The trouble with this argument is that neither side listens.
-   > **解析**：the trouble with 表示……的麻烦在于。
+14. **中文**：近来我一直心神不宁。
+   **英文**：I have been worried for a while now.
+   > **解析**：现在完成进行时 have been worried 与 for a while now 搭配，表示持续至今。
 
-15. **中文**：据我所知，他们俩最近已经重新合好了。
-   **英文**：As far as I know, they have already made up after the fight.
-   > **解析**：as far as i know 表示据我所知。
+15. **中文**：他说的每件事都是谎言。
+   **英文**：Everything that he said was a lie.
+   > **解析**：Everything that 引导定语从句；主语视为单数，was 与 lie 一致。
 
-16. **中文**：这个问题其实已经困扰团队好长一段时间了。
-   **英文**：This issue has been causing friction for a while now.
-   > **解析**：for a while now 表示已经有一段时间了。
+16. **中文**：他提议了一个新方案。
+   **英文**：He proposed a new plan.
+   > **解析**：proposed 是过去式；a new plan 作宾语。
 
-17. **中文**：只有我这样觉得吗？这出剧的剧情走向太令人意外了。
-   **英文**：Is it just me, or is the dialogue in this scene super dramatic?
-   > **解析**：is it just me 用于询问他人是否也有同感，意为只有我这样觉得吗。
+17. **中文**：我需要你批准我的决定。
+   **英文**：I need your approval for my decision.
+   > **解析**：approval 是不可数名词；for my decision 说明对象。
 
-18. **中文**：经过长谈之后，你对目前的情况感觉好一些了吗？
-   **英文**：Do you feel any better about the decision after speaking with her?
-   > **解析**：feel any better about 表示对……感觉好一些。
+18. **中文**：请再考虑考虑。
+   **英文**：Please give it some consideration.
+   > **解析**：give something consideration 表示"加以考虑"；some 修饰不可数名词。
 
-19. **中文**：只要是关于这件事的一切，我都愿意如实说明。
-   **英文**：I am ready to clarify everything that happened during the meeting.
-   > **解析**：everything that 表示关于……的一切。
+19. **中文**：你现在心里好受些了吗？
+   **英文**：Do you feel any better about it now?
+   > **解析**：any 用于疑问句加强比较级 better；feel about 表示"对……的感受"。
 
-20. **中文**：在了解全部事实之前，我们不应当做出任何断言。
-   **英文**：We shouldn't jump to conclusions without knowing anything solid.
-   > **解析**：anything 表示任何事物。
+20. **中文**：我有话要坦白。
+   **英文**：I have something to confess.
+   > **解析**：something 作宾语；to confess 是不定式作后置定语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. You shouldn't accuse your best friend of betraying your trust without proof.
-   > **中文**：不要未经证实就公开指责朋友背叛信任。
+1. As far as I know, she told the truth.
+   > **中文**：据我所知，她说的是实话。
 
-2. After hiding the secret for weeks, he decided to confess everything.
-   > **中文**：经历漫长的心态挣扎后，他终于决定坦白真相。
+2. They accused him of stealing.
+   > **中文**：他们指控他偷东西。
 
-3. He decided to propose to his girlfriend during a candlelit dinner.
-   > **中文**：他在一个浪漫的晚宴上向相恋多年的女朋友求婚。
+3. He finally confessed everything.
+   > **中文**：他终于坦白了一切。
 
-4. She had every right to refuse to cooperate with unreasonable demands.
-   > **中文**：面对不合理的要求，她果断地选择了拒绝。
+4. She refused to listen.
+   > **中文**：她拒绝听。
 
-5. A sudden rumor about their painful breakup spread among mutual friends.
-   > **中文**：关于他们分手的传言在朋友之间迅速传播开来。
+5. The trouble with him is his pride.
+   > **中文**：他的问题在于他的骄傲。
 
-6. Walking away from a toxic relationship is essential for mental health.
-   > **中文**：摆脱一段有害的感情关系对身心健康至关重要。
+6. His excuse sounds doubtful.
+   > **中文**：他的借口听起来可疑。
 
-7. I remain deeply doubtful about the explanation offered by management.
-   > **中文**：我对自己未经考证的解释持高度怀疑的态度。
+7. That is a valid point.
+   > **中文**：那是一个站得住脚的观点。
 
-8. She was completely fed up with his endless excuses for being late.
-   > **中文**：他对自己这种反复无常的态度已经彻底受够了。
+8. I am fed up with this drama.
+   > **中文**：我受够了这场闹剧。
 
-9. You raised a very valid point that deserves careful consideration.
-   > **中文**：你提出的这个观点在讨论中是非常合理有效的。
+9. Their relationship was toxic.
+   > **中文**：他们的关系是有毒的。
 
-10. Getting their parents' approval gave the couple great confidence.
-   > **中文**：获得父母的赞同能让他们在做决定时更有信心。
+10. The argument is over now.
+   > **中文**：争吵现在结束了。
 
-11. Constant suspicion destroyed the trust between the business partners.
-   > **中文**：误会引发的强烈猜疑破坏了原本融洽的友情。
+11. Is it just me, or was that strange?
+   > **中文**：是不是只有我觉得那很怪？
 
-12. Trying to see things from her point of view helps resolve conflict.
-   > **中文**：站在对方的观点立场思考有助于化解日常矛盾。
+12. From my point of view, it was fair.
+   > **中文**：在我看来，那是公平的。
 
-13. Miscommunication played a part in making the argument escalate.
-   > **中文**：误解与沟通不畅在这次冲突中起到了推波助澜的作用。
+13. Jealousy played a part in the breakup.
+   > **中文**：嫉妒在他们的分手中起了作用。
 
-14. The trouble with this argument is that neither side listens.
-   > **中文**：这种沟通方式的麻烦在于双方都不愿先倾听。
+14. He has been quiet for a while now.
+   > **中文**：他已经沉默一阵子了。
 
-15. As far as I know, they have already made up after the fight.
-   > **中文**：据我所知，他们俩最近已经重新合好了。
+15. Everything that she wrote disappeared.
+   > **中文**：她写的一切都不见了。
 
-16. This issue has been causing friction for a while now.
-   > **中文**：这个问题其实已经困扰团队好长一段时间了。
+16. She proposed a truce.
+   > **中文**：她提议休战。
 
-17. Is it just me, or is the dialogue in this scene super dramatic?
-   > **中文**：只有我这样觉得吗？这出剧的剧情走向太令人意外了。
+17. The plan needs everyone's approval.
+   > **中文**：这个计划需要所有人的批准。
 
-18. Do you feel any better about the decision after speaking with her?
-   > **中文**：经过长谈之后，你对目前的情况感觉好一些了吗？
+18. Give the idea some consideration.
+   > **中文**：给这个想法一点考虑。
 
-19. I am ready to clarify everything that happened during the meeting.
-   > **中文**：只要是关于这件事的一切，我都愿意如实说明。
+19. Do you feel any better about it?
+   > **中文**：你心里好受些了吗？
 
-20. We shouldn't jump to conclusions without knowing anything solid.
-   > **中文**：在了解全部事实之前，我们不应当做出任何断言。
+20. There is a rumor going around.
+   > **中文**：有一个谣言在流传。
 
 </quiz-listening>
 
@@ -229,26 +204,40 @@ the trouble with（……的问题在于）、point of view（观点）、play a
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| accuse | 指责；控告 |
-| confess | 坦白；承认 |
-| propose | 提议；求婚 |
-| refuse | 拒绝 |
-| rumor | 传闻；谣言 |
-| breakup | 分手；破裂 |
-| toxic | 有毒的；有害的（关系） |
-| doubtful | 怀疑的；不确定的 |
-| fed up | 受够了；厌烦 |
-| valid | 有效的；合理的 |
-| approval | 赞同；批准 |
-| consideration | 考虑；体谅 |
-| suspicion | 怀疑；猜疑 |
-| point of view | 观点；立场 |
-| play a part | 起作用；扮演角色 |
-| the trouble with | ……的麻烦在于 |
+| accuse | 指责 |
+| anything | 任何事 |
+| approval | 批准 / 赞成 |
 | as far as i know | 据我所知 |
-| for a while now | 已经有一段时间了 |
-| is it just me | 只有我这样觉得吗 |
-| feel any better about | 对……感觉好一些 |
+| breakup | 分手 / 决裂 |
+| confess | 坦白 |
+| consideration | 考虑 |
+| doubtful | 可疑的 |
+| everything that | 所有……的事 |
+| fed up | 受够了 |
+| feel any better about | 对……好受些 |
+| for a while now | 近来一段时间 |
+| is it just me | 是不是只有我觉得 |
+| nothing | 没有什么 |
+| over | 结束的 |
+| play a part | 起作用 |
+| point of view | 观点 |
+| propose | 提议 |
+| refuse | 拒绝 |
+| rumor | 谣言 |
+| something | 某事 |
+| suspicion | 怀疑 |
+| the trouble with | ……的问题在于 |
+| toxic | 有毒的 / 有害的 |
+| valid | 站得住脚的 |
+| he | 他 |
+| she | 她 |
+| his | 他的 |
+| her | 她的 |
+| me | 我 |
+| now | 现在 |
+| finally | 终于 |
+| around | 到处 |
+| everyone's | 所有人的 |
 
 </quiz-matching>
 
@@ -256,202 +245,202 @@ the trouble with（……的问题在于）、point of view（观点）、play a
 
 ### 1
 
-You shouldn't ____ your best friend of betraying your trust without proof.
+They accused me ____ lying about the money.
 
-- [x] accuse
-- [ ] anything
-- [ ] approval
+- [x] of
+- [ ] for
+- [ ] with
 
-> **解析**：**accuse** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：accuse someone of doing 是固定搭配；for 和 with 不合结构。
 
 ### 2
 
-After hiding the secret for weeks, he decided to ____ everything.
+He finally ____ to his mistakes.
 
-- [x] confess
-- [ ] accuse
-- [ ] anything
+- [x] confessed
+- [ ] confesses
+- [ ] confessing
 
-> **解析**：**confess** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去事件用过去式 confessed；confess to 表示"承认"。
 
 ### 3
 
-He decided to ____ to his girlfriend during a candlelit dinner.
+She ____ to talk to anyone about it.
 
-- [x] propose
-- [ ] accuse
-- [ ] anything
+- [x] refused
+- [ ] refuses
+- [ ] refusing
 
-> **解析**：**propose** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去用过去式 refused；refuse to do 表示"拒绝做"。
 
 ### 4
 
-She had every right to ____ to cooperate with unreasonable demands.
+The trouble ____ the rumor is its source.
 
-- [x] refuse
-- [ ] accuse
-- [ ] anything
+- [x] with
+- [ ] about to
+- [ ] of
 
-> **解析**：**refuse** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The trouble with... 是固定句型；其余两项不合搭配。
 
 ### 5
 
-A sudden ____ about their painful breakup spread among mutual friends.
+His alibi sounds ____ to me.
 
-- [x] rumor
-- [ ] accuse
-- [ ] anything
+- [x] doubtful
+- [ ] doubt
+- [ ] doubting
 
-> **解析**：**rumor** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：sounds 是系动词，后接形容词 doubtful；doubt 是名词或动词。
 
 ### 6
 
-Walking away from a ____ relationship is essential for mental health.
+Do you have a ____ reason for being late?
 
-- [x] toxic
-- [ ] accuse
-- [ ] anything
+- [x] valid
+- [ ] validate
+- [ ] validity
 
-> **解析**：**toxic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰名词 reason 需要形容词 valid；validate 是动词，validity 是名词。
 
 ### 7
 
-I remain deeply ____ about the explanation offered by management.
+I am fed ____ with all these rumors.
 
-- [x] doubtful
-- [ ] accuse
-- [ ] anything
+- [x] up
+- [ ] off
+- [ ] out
 
-> **解析**：**doubtful** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be fed up with 是固定搭配"受够了"；fed off 和 fed out 无此含义。
 
 ### 8
 
-She was ____ fed up with his endless excuses for being late.
+Staying in a ____ friendship hurts you.
 
-- [x] completely
-- [ ] accuse
-- [ ] anything
+- [x] toxic
+- [ ] toxin
+- [ ] toxically
 
-> **解析**：**completely** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 friendship 需要形容词 toxic；toxin 是名词"毒素"。
 
 ### 9
 
-You raised a very ____ point that deserves careful consideration.
+Their partnership has been over ____ months.
 
-- [x] valid
-- [ ] accuse
-- [ ] anything
+- [x] for
+- [ ] since
+- [ ] at
 
-> **解析**：**valid** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：over for + 时间段表示"结束了多久"；since 需接时间点。
 
 ### 10
 
-Getting their parents' ____ gave the couple great confidence.
+Is it just ____, or is this plan a bad idea?
 
-- [x] approval
-- [ ] accuse
-- [ ] anything
+- [x] me
+- [ ] I
+- [ ] my
 
-> **解析**：**approval** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Is it just me 是固定口语表达，用宾格 me；I 和 my 不合结构。
 
 ### 11
 
-Constant ____ destroyed the trust between the business partners.
+From my point ____ view, we should wait.
 
-- [x] suspicion
-- [ ] accuse
-- [ ] anything
+- [x] of
+- [ ] for
+- [ ] at
 
-> **解析**：**suspicion** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：point of view 是固定搭配；其余介词不合结构。
 
 ### 12
 
-Trying to see things from her point of view helps resolve ____.
+Lack of trust played a part ____ the breakup.
 
-- [x] conflict
-- [ ] accuse
-- [ ] anything
+- [x] in
+- [ ] on
+- [ ] at
 
-> **解析**：**conflict** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：play a part in 是固定搭配"在……中起作用"。
 
 ### 13
 
-____ played a part in making the argument escalate.
+I have been suspicious for a while ____.
 
-- [x] Miscommunication
-- [ ] accuse
-- [ ] anything
+- [x] now
+- [ ] ago
+- [ ] later
 
-> **解析**：**Miscommunication** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：for a while now 与完成时搭配表示"近来"；ago 只用于过去时。
 
 ### 14
 
-The trouble with this ____ is that neither side listens.
+Everything ____ he promised turned out to be false.
 
-- [x] argument
-- [ ] accuse
-- [ ] anything
+- [x] that
+- [ ] what
+- [ ] which
 
-> **解析**：**argument** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：不定代词 everything 后的定语从句用 that；what 不用于定语从句，which 较少与 everything 搭配。
 
 ### 15
 
-As far as I know, they have ____ made up after the fight.
+She ____ a new way to solve the problem.
 
-- [x] already
-- [ ] accuse
-- [ ] anything
+- [x] proposed
+- [ ] propose
+- [ ] proposing
 
-> **解析**：**already** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去用过去式 proposed；其余两项不能单独作谓语。
 
 ### 16
 
-This issue has been causing ____ for a while now.
+The decision requires the manager's ____.
 
-- [x] friction
-- [ ] accuse
-- [ ] anything
+- [x] approval
+- [ ] approve
+- [ ] approving
 
-> **解析**：**friction** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：所有格后需要名词 approval；approve 是动词。
 
 ### 17
 
-Is it just me, or is the ____ in this scene super dramatic?
+Please give his request serious ____.
 
-- [x] dialogue
-- [ ] accuse
-- [ ] anything
+- [x] consideration
+- [ ] consider
+- [ ] considered
 
-> **解析**：**dialogue** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：serious 后需要名词 consideration；consider 是动词。
 
 ### 18
 
-Do you feel any better about the ____ after speaking with her?
+Do you feel any ____ about the decision now?
 
-- [x] decision
-- [ ] accuse
-- [ ] anything
+- [x] better
+- [ ] good
+- [ ] best
 
-> **解析**：**decision** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：any 修饰比较级 better；good 是原级，best 是最高级。
 
 ### 19
 
-I am ready to clarify ____ that happened during the meeting.
+I have ____ to confess about that night.
 
-- [x] everything
-- [ ] accuse
+- [x] something
 - [ ] anything
+- [ ] nothing
 
-> **解析**：**everything** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：肯定句中用 something；anything 用于否定和疑问，nothing 会使句意矛盾。
 
 ### 20
 
-We shouldn't jump to conclusions without knowing ____ solid.
+There is a ____ that they will reconcile.
 
-- [x] anything
-- [ ] accuse
-- [ ] approval
+- [x] suspicion
+- [ ] suspicious
+- [ ] suspect
 
-> **解析**：**anything** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：a 后需要名词 suspicion；suspicious 是形容词，suspect 作名词指"嫌疑人"语义不合。
 
 </quiz-cloze>

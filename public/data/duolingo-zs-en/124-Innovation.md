@@ -10,40 +10,37 @@ after, attachment, blog, by accident, communicate, completely, delete, effect, e
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"分享对网站的看法"展开。核心是网络表达：I found this blog by accident.（我偶然发现了这个博客。）、In general, social media has a big effect on how we communicate.（总的来说，社交媒体对我们如何交流有很大影响。）、I posted a reply to the topic.（我对这个话题发了回复。）、You can search for the link or delete the attachment.（你可以搜索链接或删除附件。）。
+本单元的主题是"谈论网站与网络交流"，词表可以分成三组：网络动作（post, reply, delete, search, link, type, exit, communicate）、网络名词（blog, social media, attachment, topic, technology, issue, effect）、以及表达态度的副词与短语（completely, in general, by accident, surprising, none, after, hear/heard, private）。拼起来就能聊网站体验：I posted on my blog. She replied after two days. I deleted the link by accident.
 
-词表里有网络词汇（blog, link, post, social media, attachment）和动作词汇（search, delete, reply, type）。你可以练习：I heard about this technology from a friend. / The issue is completely surprising. / None of the links work. / Keep your profile private.
+语法主线有两个。一是动词的及物用法——post、delete、reply to、search for 各自带不同的宾语和介词：reply to a post, search for a topic。二是不规则过去式 hear → heard 的对比：I hear you.（我听你说。）/ I heard about the issue.（我听说了这件事。）in general 和 completely 这类副词用来给观点定调：In general, social media is helpful.
 
-by accident 表示"偶然、不小心"。in general 表示"总的来说"。
+学完这单元，你能用英语描述自己在网站上的行为、转述听来的消息、评价技术的正面或负面影响。
 
 ## Tips
 
-- **blog / post / social media** — 博客 / 发帖 / 社交媒体。搭配：write a blog, post a comment, on social media。例句：I write a blog about technology. / She posted a photo. / I saw it on social media. 注意 post 既是名词（帖子）也是动词（发帖）。
+- **post / reply / delete** — 网络互动三动词。post 是"发帖"：I posted a photo. reply 是"回复"，接人要用 to：reply to me，✗ reply me。delete 是"删除"：Delete the link.
 
-- **by accident / in general** — 偶然 / 总的来说。搭配：by accident, found by accident, in general。例句：I found this site by accident. / In general, I like this app. 注意 by accident = accidentally（偶然）。
+- **search / link / type** — search 是"搜索"，常接 for：search for a topic。link 是"链接"，点击链接说 click a link。type 是"打字输入"：Type your name here. type 还有"类型"的意思：What type of blog?
 
-- **link / attachment / search** — 链接 / 附件 / 搜索。搭配：click the link, an attachment, search for。例句：Click the link to read more. / There's an attachment in the email. / Search for the topic. 注意 search for + 要找的东西。
+- **hear / heard** — hear 是"听见"，heard 是它的过去式和过去分词（不规则变化）。I hear that the website is new. / I heard about the issue yesterday. 强调结果用 hear about（听说某事）。
 
-- **delete / reply / type** — 删除 / 回复 / 打字。搭配：delete the file, reply to a comment, type a message。例句：Delete the old posts. / I replied to her comment. / Type your name here. 注意 reply to + 对象。
+- **communicate** — 动词"交流、沟通"：We communicate by email. 名词是 communication。网络上沟通常说 communicate online。
 
-- **effect / communicate / technology** — 影响 / 交流 / 科技。搭配：have an effect on, communicate with, new technology。例句：Technology has a big effect on our lives. / We communicate through social media. 注意 effect 是名词，affect 是动词。
+- **blog / social media** — blog 博客，来自 web + log 的缩合，原义"网络日志"。social media 社交媒体（media 本身是复数形式，单数是 medium）。发内容可以说 post on social media。
 
-- **private / none / issue** — 私密的 / 没有 / 问题。搭配：keep it private, none of them, a technical issue。例句：Keep your profile private. / None of the links work. / There's a technical issue. 注意 none of + 复数名词。
+- **attachment / topic / issue** — attachment 附件，来自 attach（附上）+ -ment。topic 话题：a hot topic。issue 问题、议题，常指需要讨论解决的：a technical issue。
 
-- **surprising / completely / heard** — 令人惊讶的 / 完全 / 听说。搭配：a surprising result, completely different, I heard that...。例句：The news was surprising. / It's completely free. / I heard about the new app. 注意 surprising 修饰事物，surprised 修饰人。
+- **technology / effect** — technology 技术、科技，形容词是 technological。effect 是名词"影响、效果"：the effect of technology。动词"影响"是 affect，别混淆：✗ the affect of technology → ✓ the effect of technology。
 
-- **topic / type / exit** — 话题 / 打字 / 退出。搭配：a hot topic, type a reply, exit the page。例句：What's the topic of the blog? / Type your reply here. / Exit the website. 注意 topic = 话题/主题。
+- **exit** — 退出、出口。网站上点 exit 退出页面：Click exit to leave the page. 作名词指安全出口：Where is the exit?
 
-- **hear / heard / after** — 听到 / 听说了 / 之后。搭配：hear about, I heard that, after reading。例句：I heard about this blog from a friend. / After reading the post, I replied. 注意 hear → heard → heard。
+- **completely / in general / by accident** — 三个态度副词短语。completely"完全地"修饰形容词或动词：completely different。in general"一般来说"放句首：In general, I like this blog。by accident"意外地"：I deleted it by accident.
 
-- **communicate / social media / blog** — 交流 / 社交媒体 / 博客。搭配：communicate online, on social media, start a blog。例句：We communicate through blogs. / Social media changed how we talk. / I started a blog.
+- **surprising / private** — surprising"令人惊讶的"，-ing 形容词描述事物：a surprising effect。private"私人的"：a private message。反义词 public（公开的）。
 
-- **in general / none / private** — 总的来说 / 没有 / 私密。搭配：in general, none of, keep private。例句：In general, the website is good. / None of my posts are private. / Keep your data private.
-
-- **delete / search / surprising** — 删除 / 搜索 / 惊讶。搭配：delete the post, search online, surprising news。例句：I deleted my old blog. / Search for the topic online. / The result was surprising.
+- **none / after** — none 表示"没有一个"，单独使用：None of the posts are mine. after 既是介词（after dinner）也是连词（After I posted, she replied）。
 
 ## 练习
 
@@ -61,149 +58,149 @@ by accident 表示"偶然、不小心"。in general 表示"总的来说"。
 
 <quiz-sentence-builder>
 
-1. **中文**：我不小心误删了这封带有邮件附件的私密博客。  
-   **英文**：By accident, I deleted a private blog with an attachment.
-   > **解析**：by accident 表示“偶然地/不小心”；delete / deleted 表示“删除”；private 表示“私密的”；attachment 表示“附件”。
+1. **中文**：我在我的博客上发了一个帖子。
+   **英文**：I posted on my blog.
+   > **解析**：posted 是 post 的过去式；on my blog 是介词短语作地点状语。
 
-2. **中文**：在社交媒体上发布关于现代科技的话题非常普遍。  
-   **英文**：Posting on social media about technology topic is common.
-   > **解析**：social media 表示“社交媒体”；technology 表示“科技”；topic 表示“话题/主题”。
+2. **中文**：她两天后回复了我。
+   **英文**：She replied to me after two days.
+   > **解析**：reply 接人要用介词 to；after two days 是时间状语。
 
-3. **中文**：总的来说，这个新软件的通信效果令人惊讶。  
-   **英文**：In general, the communication effect of this tool is surprising.
-   > **解析**：in general 表示“总地来说”；effect 表示“效果/影响”；surprising 表示“令人惊讶的”。
+3. **中文**：我意外删除了那个链接。
+   **英文**：I deleted the link by accident.
+   > **解析**：deleted 是 delete 的过去式；by accident 是固定短语"意外地"。
 
-4. **中文**：请在退出应用程序前回复关于该问题的最新链接。  
-   **英文**：Please reply to the link about the issue before you exit.
-   > **解析**：reply 表示“回复”；link 表示“链接”；issue 表示“问题/争议”；exit 表示“退出”。
+4. **中文**：请搜索这个话题。
+   **英文**：Please search for this topic.
+   > **解析**：search for 是"搜索"的固定搭配；this topic 作 for 的宾语。
 
-5. **中文**：我没有在搜索栏中听到或打出任何私人信息。  
-   **英文**：I did not hear or type any private info in the search box.
-   > **解析**：type 表示“打字/输入”；search 表示“搜索/查找”；private 表示“私人的”。
+5. **中文**：点击那个链接。
+   **英文**：Click the link.
+   > **解析**：Click 是祈使句动词原形；the link 作宾语。
 
-6. **中文**：他们完全沟通好了关于新项目的技术细节。  
-   **英文**：They completely communicated about technology details.
-   > **解析**：completely 表示“完全地”；communicate 表示“沟通/交流”。
+6. **中文**：在这里输入你的用户名。
+   **英文**：Type your name here.
+   > **解析**：Type 构成祈使句；here 是地点副词放句末。
 
-7. **中文**：没有一个人对这条新闻的令人惊讶的效果感到意外。  
-   **英文**：None of us was surprised by the surprising effect of news.
-   > **解析**：none 表示“没有一个”；surprising 表示“令人惊讶的”。
+7. **中文**：我听说了那个技术问题。
+   **英文**：I heard about the issue.
+   > **解析**：heard 是 hear 的过去式；hear about 表示"听说某事"。
 
-8. **中文**：他在个人博客上发布了一篇关于现代创新的文章。  
-   **英文**：He posted an article about modern innovation on his blog.
-   > **解析**：blog 表示“博客”；post 表示“发布/发帖”。
+8. **中文**：我们通过社交媒体交流。
+   **英文**：We communicate on social media.
+   > **解析**：We 是复数主语，communicate 用原形；on social media 表示平台。
 
-9. **中文**：请点击下方链接以查阅邮件附件内容。  
-   **英文**：Please click the link below to view the file attachment.
-   > **解析**：link 表示“链接”；attachment 表示“附件”。
+9. **中文**：这个附件太大了。
+   **英文**：This attachment is too big.
+   > **解析**：This attachment 是单数主语，用 is；too 修饰形容词 big。
 
-10. **中文**：我不小心按了删除键，清除了那条记录。  
-   **英文**：I pressed delete key by accident and cleared that record.
-   > **解析**：delete 表示“删除”。
+10. **中文**：科技对生活有很大的影响。
+   **英文**：Technology has a big effect on life.
+   > **解析**：Technology 是第三人称单数，have 变为 has；have an effect on 是固定搭配。
 
-11. **中文**：社交媒体改变了人们相互沟通交流的方式。  
-   **英文**：Social media has changed how people communicate with each other.
-   > **解析**：communicate 表示“沟通/交流”。
+11. **中文**：点退出离开页面。
+   **英文**：Click exit to leave the page.
+   > **解析**：Click exit 是祈使句；to leave 是不定式表目的。
 
-12. **中文**：请输入你的密码以登录你的私人账户。  
-   **英文**：Please type your password to enter your private account.
-   > **解析**：type 表示“打字/输入”；private 表示“私人的”。
+12. **中文**：一般来说，这个网站很有帮助。
+   **英文**：In general, this website is helpful.
+   > **解析**：In general 是句首评注短语；helpful 作表语。
 
-13. **中文**：这篇文章探讨了技术对日常生活的积极影响。  
-   **英文**：This article discusses the positive effect of technology.
-   > **解析**：effect 表示“影响/效果”；technology 表示“技术/科技”。
+13. **中文**：这些帖子完全不同。
+   **英文**：The posts are completely different.
+   > **解析**：The posts 是复数主语，用 are；completely 修饰形容词 different。
 
-14. **中文**：你可以搜索关于该主题的更多公开信息。  
-   **英文**：You can search for more public information on this topic.
-   > **解析**：topic 表示“话题/主题”；search 表示“搜索”。
+14. **中文**：这是一个令人惊讶的话题。
+   **英文**：This is a surprising topic.
+   > **解析**：surprising 是 -ing 形容词，修饰事物 topic；a 放在形容词前。
 
-15. **中文**：请及时回复我发送给你的电子元邮件。  
-   **英文**：Please reply to the message I sent you as soon as possible.
-   > **解析**：reply 表示“回复/答复”。
+15. **中文**：这条消息是私人的。
+   **英文**：This message is private.
+   > **解析**：private 是形容词作表语，表示"私人的"。
 
-16. **中文**：如果你遇到系统故障问题，请点击退出。  
-   **英文**：If you meet a system issue, click here to exit.
-   > **解析**：issue 表示“问题/故障”；exit 表示“退出”。
+16. **中文**：这些帖子里没有一条是我的。
+   **英文**：None of the posts are mine.
+   > **解析**：None of + 复数名词作主语，谓语常用复数 are；mine 是名词性物主代词。
 
-17. **中文**：总的来说，这款新手机的电池寿命相当长。  
-   **英文**：In general, the battery life of this new phone is long.
-   > **解析**：in general 表示“总地来说”。
+17. **中文**：我发帖之后，她回复了。
+   **英文**：After I posted, she replied.
+   > **解析**：After 引导时间状语从句；两个分句都用过去式。
 
-18. **中文**：他不小心把手机掉进了水里。  
-   **英文**：He dropped his smartphone into the water by accident.
-   > **解析**：by accident 表示“不小心/偶然”。
+18. **中文**：你喜欢什么类型的博客？
+   **英文**：What type of blog do you like?
+   > **解析**：What type of 询问种类；助动词 do 提前构成疑问句。
 
-19. **中文**：这是一个非常私人的话题，请勿外传。  
-   **英文**：This is a very private topic, so please do not share it.
-   > **解析**：private 表示“私密的/私人的”。
+19. **中文**：我没有听到你的消息。
+   **英文**：I didn't hear your message.
+   > **解析**：didn't + 动词原形 hear 构成过去时否定；your 修饰 message。
 
-20. **中文**：他在社交媒体上拥有数百万粉丝。  
-   **英文**：He has millions of followers on social media platforms.
-   > **解析**：social media 表示“社交媒体”。
+20. **中文**：他在博客上写科技话题。
+   **英文**：He writes about technology on his blog.
+   > **解析**：He 是第三人称单数，write 加 s；about technology 说明写作内容。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. By accident, I deleted a private blog with an attachment.
-   > **中文**：我不小心误删了这封带有邮件附件的私密博客。
+1. I posted on my blog.
+   > **中文**：我在我的博客上发了帖子。
 
-2. Posting on social media about technology topic is common.
-   > **中文**：在社交媒体上发布关于现代科技的话题非常普遍。
+2. She replied to me after two days.
+   > **中文**：她两天后回复了我。
 
-3. In general, the communication effect of this tool is surprising.
-   > **中文**：总的来说，这个新软件的通信效果令人惊讶。
+3. I deleted the link by accident.
+   > **中文**：我意外删除了那个链接。
 
-4. Please reply to the link about the issue before you exit.
-   > **中文**：请在退出应用程序前回复关于该问题的最新链接。
+4. Search for this topic.
+   > **中文**：搜索这个话题。
 
-5. I did not hear or type any private info in the search box.
-   > **中文**：我没有在搜索栏中听到或打出任何私人信息。
+5. Type your name here.
+   > **中文**：在这里输入你的名字。
 
-6. They completely communicated about technology details.
-   > **中文**：他们完全沟通好了关于新项目的技术细节。
+6. I heard about the issue.
+   > **中文**：我听说了那个问题。
 
-7. None of us was surprised by the surprising effect of news.
-   > **中文**：没有一个人对这条新闻的令人惊讶的效果感到意外。
+7. We communicate on social media.
+   > **中文**：我们通过社交媒体交流。
 
-8. He posted an article about modern innovation on his blog.
-   > **中文**：他在个人博客上发布了一篇关于现代创新的文章。
+8. This attachment is too big.
+   > **中文**：这个附件太大了。
 
-9. Please click the link below to view the file attachment.
-   > **中文**：请点击下方链接以查阅邮件附件内容。
+9. Technology has a big effect on us.
+   > **中文**：科技对我们影响很大。
 
-10. I pressed delete key by accident and cleared that record.
-   > **中文**：我不小心按了删除键，清除了那条记录。
+10. Click exit to leave the page.
+   > **中文**：点退出离开页面。
 
-11. Social media has changed how people communicate with each other.
-   > **中文**：社交媒体改变了人们相互沟通交流的方式。
+11. In general, this website is good.
+   > **中文**：一般来说，这个网站不错。
 
-12. Please type your password to enter your private account.
-   > **中文**：请输入你的密码以登录你的私人账户。
+12. The posts are completely different.
+   > **中文**：这些帖子完全不同。
 
-13. This article discusses the positive effect of technology.
-   > **中文**：这篇文章探讨了技术对日常生活的积极影响。
+13. This is a surprising topic.
+   > **中文**：这是一个令人惊讶的话题。
 
-14. You can search for more public information on this topic.
-   > **中文**：你可以搜索关于该主题的更多公开信息。
+14. This message is private.
+   > **中文**：这条消息是私人的。
 
-15. Please reply to the message I sent you as soon as possible.
-   > **中文**：请及时回复我发送给你的电子元邮件。
+15. None of the links work.
+   > **中文**：这些链接没有一个能用。
 
-16. If you meet a system issue, click here to exit.
-   > **中文**：如果你遇到系统故障问题，请点击退出。
+16. I hear you.
+   > **中文**：我听到你了。
 
-17. In general, the battery life of this new phone is long.
-   > **中文**：总的来说，这款新手机的电池寿命相当长。
+17. Do you like my new blog?
+   > **中文**：你喜欢我的新博客吗？
 
-18. He dropped his smartphone into the water by accident.
-   > **中文**：他不小心把手机掉进了水里。
+18. Delete the old post.
+   > **中文**：删除那条旧帖子。
 
-19. This is a very private topic, so please do not share it.
-   > **中文**：这是一个非常私人的话题，请勿外传。
+19. Reply to my message, please.
+   > **中文**：请回复我的消息。
 
-20. He has millions of followers on social media platforms.
-   > **中文**：他在社交媒体上拥有数百万粉丝。
+20. Social media connects people.
+   > **中文**：社交媒体把人们连接起来。
 
 </quiz-listening>
 
@@ -211,26 +208,37 @@ by accident 表示"偶然、不小心"。in general 表示"总的来说"。
 
 | 英文单词 | 课文释义 |
 | --- | --- |
+| after | 在……之后 |
 | attachment | 附件 |
 | blog | 博客 |
-| by accident | 偶然地 / 不小心 |
-| communicate | 沟通 / 交流 |
+| by accident | 意外地 |
+| communicate | 交流 / 沟通 |
 | completely | 完全地 |
 | delete | 删除 |
-| effect | 效果 / 影响 |
+| effect | 影响 / 效果 |
 | exit | 退出 / 出口 |
-| in general | 总地来说 |
-| issue | 问题 / 争议 |
+| hear | 听见 |
+| heard | 听见（hear 的过去式） |
+| in general | 一般来说 |
+| issue | 问题 / 议题 |
 | link | 链接 |
 | none | 没有一个 |
-| post | 发布 / 发帖 |
-| private | 私密的 / 私人的 |
-| reply | 回复 / 答复 |
-| search | 搜索 / 查找 |
+| post | 帖子 / 发帖 |
+| private | 私人的 |
+| reply | 回复 |
+| search | 搜索 |
 | social media | 社交媒体 |
 | surprising | 令人惊讶的 |
-| technology | 科技 / 技术 |
-| topic | 话题 / 主题 |
+| technology | 科技 |
+| topic | 话题 |
+| type | 打字 / 类型 |
+| is | 是（单数） |
+| are | 是（复数） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| my | 我的 |
+| this | 这个 |
+| to | 到 / 对（介词） |
 
 </quiz-matching>
 
@@ -238,202 +246,202 @@ by accident 表示"偶然、不小心"。in general 表示"总的来说"。
 
 ### 1
 
-By accident, I deleted a ____ blog with an attachment.
+I posted ____ my blog.
 
-- [x] private
-- [ ] after
-- [ ] attachment
+- [x] on
+- [ ] by
+- [ ] none
 
-> **解析**：**private** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：在博客上发帖用介词 on；by 表示方式，none 不是介词。
 
 ### 2
 
-Posting on social media about ____ topic is common.
+She replied ____ me after two days.
 
-- [x] technology
-- [ ] after
-- [ ] attachment
+- [x] to
+- [ ] for
+- [ ] exit
 
-> **解析**：**technology** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：reply 接人要用介词 to；for 表示目的，exit 是名词或动词。
 
 ### 3
 
-In general, the communication ____ of this tool is surprising.
+I deleted the link ____ accident.
 
-- [x] effect
-- [ ] after
-- [ ] attachment
+- [x] by
+- [ ] in
+- [ ] on
 
-> **解析**：**effect** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：by accident 是固定短语"意外地"；in 和 on 都不构成这个搭配。
 
 ### 4
 
-Please ____ to the link about the issue before you exit.
+Please search ____ this topic.
 
-- [x] reply
+- [x] for
+- [ ] to
 - [ ] after
-- [ ] attachment
 
-> **解析**：**reply** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：search for 是"搜索"的固定搭配；to 和 after 都不与 search 构成这个意思。
 
 ### 5
 
-I did not ____ or type any private info in the search box.
+I ____ about the issue yesterday.
 
-- [x] hear
-- [ ] after
-- [ ] attachment
+- [x] heard
+- [ ] hear
+- [ ] type
 
-> **解析**：**hear** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 表示过去，用过去式 heard；hear 是原形，type 语义不符。
 
 ### 6
 
-They ____ communicated about technology details.
+We communicate ____ social media.
 
-- [x] completely
-- [ ] after
-- [ ] attachment
+- [x] on
+- [ ] by accident
+- [ ] none
 
-> **解析**：**completely** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：表示平台用介词 on；by accident 是方式短语，none 语义不符。
 
 ### 7
 
-____ of us was surprised by the surprising effect of news.
+This ____ is too big.
 
-- [x] None
-- [ ] after
-- [ ] attachment
+- [x] attachment
+- [ ] exit
+- [ ] hear
 
-> **解析**：**None** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：This 后需要名词 attachment"附件"；exit 语义不符，hear 是动词。
 
 ### 8
 
-He posted an article about modern innovation on his ____.
+Technology has a big ____ on us.
 
-- [x] blog
-- [ ] after
-- [ ] attachment
+- [x] effect
+- [ ] blog
+- [ ] reply
 
-> **解析**：**blog** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：have an effect on 是固定搭配"对……有影响"；blog 和 reply 语义不符。
 
 ### 9
 
-Please click the ____ below to view the file attachment.
+Click ____ to leave the page.
 
-- [x] link
-- [ ] after
-- [ ] attachment
+- [x] exit
+- [ ] link
+- [ ] post
 
-> **解析**：**link** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：离开页面要点击 exit（退出）；link 是链接，post 是发帖，都不表离开。
 
 ### 10
 
-I pressed ____ key by accident and cleared that record.
+____, this website is good.
 
-- [x] delete
-- [ ] after
-- [ ] attachment
+- [x] In general
+- [ ] By accident
+- [ ] None
 
-> **解析**：**delete** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：In general"一般来说"用于句首总评；By accident 表意外，None 语义不符。
 
 ### 11
 
-Social media has changed how people ____ with each other.
+The posts are ____ different.
 
-- [x] communicate
-- [ ] after
-- [ ] attachment
+- [x] completely
+- [ ] private
+- [ ] surprising
 
-> **解析**：**communicate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰形容词 different 需要副词 completely；private 和 surprising 是形容词。
 
 ### 12
 
-Please ____ your password to enter your private account.
+This is a ____ topic.
 
-- [x] type
+- [x] surprising
+- [ ] completely
 - [ ] after
-- [ ] attachment
 
-> **解析**：**type** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：名词 topic 前需要形容词 surprising；completely 是副词，after 是介词或连词。
 
 ### 13
 
-This article discusses the positive ____ of technology.
+This message is ____.
 
-- [x] effect
-- [ ] after
-- [ ] attachment
+- [x] private
+- [ ] delete
+- [ ] search
 
-> **解析**：**effect** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 private 作表语；delete 和 search 是动词。
 
 ### 14
 
-You can ____ for more public information on this topic.
+____ of the links work.
 
-- [x] search
-- [ ] after
-- [ ] attachment
+- [x] None
+- [ ] After
+- [ ] Exit
 
-> **解析**：**search** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：None of 表示"没有一个"；After 是介词或连词，Exit 语义不符。
 
 ### 15
 
-Please ____ to the message I sent you as soon as possible.
+I hear ____ now.
 
-- [x] reply
-- [ ] after
-- [ ] attachment
+- [x] you
+- [ ] heard
+- [ ] blog
 
-> **解析**：**reply** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：hear 是及物动词，后接宾语 you；heard 是过去式动词，blog 语义不符。
 
 ### 16
 
-If you meet a system ____, click here to exit.
+____ the old post, please.
 
-- [x] issue
-- [ ] after
-- [ ] attachment
+- [x] Delete
+- [ ] Hear
+- [ ] None
 
-> **解析**：**issue** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Delete；Hear 语义不符，None 不是动词。
 
 ### 17
 
-In ____, the battery life of this new phone is long.
+What ____ of blog do you like?
 
-- [x] general
-- [ ] after
-- [ ] attachment
+- [x] type
+- [ ] topic
+- [ ] exit
 
-> **解析**：**general** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：What type of 询问种类；topic 和 exit 都不构成这个结构。
 
 ### 18
 
-He dropped his ____ into the water by accident.
+After I ____, she replied.
 
-- [x] smartphone
-- [ ] after
-- [ ] attachment
+- [x] posted
+- [ ] post
+- [ ] none
 
-> **解析**：**smartphone** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：全句叙述过去的事，用过去式 posted；post 是原形，none 不是动词。
 
 ### 19
 
-This is a very ____ topic, so please do not share it.
+We need to ____ about the issue.
 
-- [x] private
-- [ ] after
-- [ ] attachment
+- [x] communicate
+- [ ] completely
+- [ ] in general
 
-> **解析**：**private** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：to 后需要动词原形 communicate；后两项是副词短语，不能作动词。
 
 ### 20
 
-He has millions of ____ on social media platforms.
+____ your name here, please.
 
-- [x] followers
-- [ ] after
-- [ ] attachment
+- [x] Type
+- [ ] Reply
+- [ ] Hear
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **followers**。
+> **解析**：输入名字用 Type"打字输入"；Reply 需搭配 to，Hear 语义不符。
 
 </quiz-cloze>

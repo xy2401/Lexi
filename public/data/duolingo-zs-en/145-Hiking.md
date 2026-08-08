@@ -10,40 +10,35 @@ allowed, among, ancient, ant, beauty, because, butterfly, close, direction, dust
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"询问正确的方向"展开，以徒步旅行为场景。核心是方向和自然描述：Which direction should we go? We need to get to the peak before dark.（我们该往哪个方向走？天黑前得到山顶。）、The valley underneath is full of natural beauty.（下面的山谷充满了自然之美。）、We're not allowed to go anywhere else because of the mosquitoes.（因为蚊子，我们不允许去别的地方。）、Among the ancient trees, I saw a butterfly and a tiny ant.（在古树之间，我看到了一只蝴蝶和一只小蚂蚁。）。
+本单元的主题是"询问正确的方向"，场景是一次徒步旅行。词表可以分成三组：自然风景（peak, valley, beauty, natural, ancient, dusty, gentle, silent）、小生物（ant, butterfly, mosquito）、以及方位与路线（direction, somewhere else, nowhere, close, among, underneath, pile, stick, shape）。拼起来就是一次山间对话：Are we going in the right direction? The peak is close now. We walked among the ancient trees, and the valley was silent.
 
-词表里有自然词汇（peak, valley, butterfly, mosquito）和方位词（underneath, among, direction, nowhere）。你可以练习：The path is dusty. / The wind is gentle. / Walk silently. / There's a pile of sticks.
+语法主线有两个。一是 get + 形容词表示状态变化：get tired（变得疲惫）、get lost（迷路），强调"变得"的过程。二是方位介词的细分：among 表示"在……之间"（三者以上，among the trees），underneath 表示"在……正下方"（underneath the bridge），close 表示"近的"（The peak is close.）。另外 be allowed to 表示被允许做某事，because 引导原因状语从句，somewhere else 与 nowhere 表达"别的某处"和"无处"。
 
-because 引导原因状语从句。among 表示"在…之间（三者以上）"。
+学完这单元，你能用英语问路辨向、描述山野风景与小生物、说明徒步中的状况和原因。
 
 ## Tips
 
-- **direction / peak / valley** — 方向 / 山顶 / 山谷。搭配：the right direction, reach the peak, a deep valley。例句：Which direction is the peak? / We reached the peak at noon. / The valley is beautiful. 注意 direction 常与 in/which 搭配。
+- **peak / valley** — 地形一对。peak 山峰：The peak is close now. valley 山谷：The valley is beautiful in spring. 山峰在上，valley 在下。
 
-- **among / underneath / somewhere else** — 在…之间 / 在下面 / 别处。搭配：among the trees, underneath the rock, go somewhere else。例句：The path is among the pines. / Look underneath the log. / Let's go somewhere else. 注意 among 用于三者或以上之间。
+- **beauty / natural** — beauty 美、美景，名词：the natural beauty of the mountains. natural 自然的，形容词（nature 自然 + -al）。
 
-- **ancient / natural / beauty** — 古老的 / 自然的 / 美。搭配：ancient ruins, natural beauty, the beauty of nature。例句：These are ancient trees. / The natural scenery is stunning. / What beauty! 注意 ancient 比 old 更古老。
+- **ancient / dusty / gentle / silent** — 四个描绘词。ancient 古老的：an ancient forest. dusty 满是灰尘的（dust + -y）：a dusty road. gentle 轻柔的：a gentle wind. silent 寂静的：The forest was silent.
 
-- **butterfly / ant / mosquito** — 蝴蝶 / 蚂蚁 / 蚊子。搭配：a butterfly, an ant colony, mosquito bites。例句：A butterfly landed on my hand. / Ants are everywhere. / The mosquitoes are terrible! 注意 mosquito 复数是 mosquitoes。
+- **ant / butterfly / mosquito** — 三种小生物。ant 蚂蚁。butterfly 蝴蝶，复数 butterflies（变 y 为 i 加 es）。mosquito 蚊子，复数 mosquitoes；注意拼写。
 
-- **allowed / because / nowhere** — 被允许 / 因为 / 无处。搭配：be allowed to, because of, nowhere to go。例句：We're not allowed to camp here. / Because of rain, we stayed. / There's nowhere to rest. 注意 be allowed to do = 被允许做。
+- **direction / somewhere else / nowhere** — 方位三词。direction 方向：in the right direction. somewhere else 别的某处：Let's go somewhere else. nowhere 无处：There is nowhere to rest.
 
-- **dusty / gentle / silent** — 灰尘多的 / 轻柔的 / 安静的。搭配：a dusty trail, a gentle breeze, keep silent。例句：The road is dusty. / A gentle wind blew. / Please be silent. 注意 silent = quiet（更正式）。
+- **close / among / underneath** — 位置表达。close 近的、靠近：The peak is close. among 在（三者以上）之间：among the trees. underneath 在……正下方：underneath the bridge.
 
-- **get / close / stick** — 到达 / 靠近 / 棍子。搭配：get to the top, close to, a walking stick。例句：How do we get to the peak? / Stay close to me. / Use a stick for support. 注意 get to = arrive at。
+- **pile / stick / shape** — pile 堆：a pile of sticks. stick 树枝、棍子。shape 形状：The mountain has a strange shape.
 
-- **outdoor / shape / pile** — 户外的 / 形状 / 一堆。搭配：outdoor activities, in the shape of, a pile of rocks。例句：I love outdoor sports. / The lake is in the shape of a heart. / There's a pile of leaves. 注意 outdoor 是形容词（outdoors 是副词）。
+- **get** — 作系动词表示"变得"，后接形容词：get tired, get close, get lost。也可作实义动词"得到"。
 
-- **nowhere / somewhere else / direction** — 无处 / 别处 / 方向。搭配：nowhere to be found, go somewhere else, in the right direction。例句：The map is nowhere to be found. / Let's try somewhere else. / We're going in the wrong direction. 注意 nowhere = not anywhere。
+- **allowed** — be allowed to 表示被允许：Are we allowed to camp here? 动词 allow 的被动形式。
 
-- **natural / ancient / beauty** — 自然 / 古老 / 美。搭配：a natural park, ancient history, natural beauty。例句：This is a natural reserve. / The temple is ancient. / The beauty took my breath away. 注意 natural 的反义是 artificial。
-
-- **underneath / among / close** — 下面 / 之间 / 靠近。搭配：underneath the bridge, among friends, close by。例句：The river runs underneath the bridge. / I felt at home among friends. / The campsite is close by. 注意 underneath 比 under 更强调"正下方"。
-
-- **mosquito / butterfly / ant** — 蚊子 / 蝴蝶 / 蚂蚁。搭配：mosquito repellent, a colorful butterfly, an ant hill。例句：Bring mosquito repellent. / The butterfly was orange. / Don't step on the ants. 注意这些是户外常见昆虫。
+- **because / outdoor** — because 因为，引导原因从句：We stopped because it started to rain. outdoor 户外的，作定语：outdoor activities。注意 outdoors 是副词。
 
 ## 练习
 
@@ -61,149 +56,149 @@ because 引导原因状语从句。among 表示"在…之间（三者以上）"�
 
 <quiz-sentence-builder>
 
-1. **中文**：在深山山谷的自然风景中，古代遗迹隐藏在山峰之间。  
-   **英文**：In the natural beauty of the valley, the peak has ruins among rocks.
-   > **解析**：natural beauty 表示“自然美景”；valley 表示“山谷”；peak 表示“山峰/顶峰”；among 表示“在……之中”。
+1. **中文**：我们走的方向对吗？
+   **英文**：Are we going in the right direction?
+   > **解析**：Are 引导现在进行时疑问；in the right direction 是固定搭配。
 
-2. **中文**：在微风吹拂的灰蒙蒙路途上，蚊子和蝴蝶在树枝下方飞舞。  
-   **英文**：Mosquitoes and butterflies flew underneath the tree branch.
-   > **解析**：mosquito / mosquitoes 表示“蚊子”；butterfly / butterflies 表示“蝴蝶”；underneath 表示“在……下方”。
+2. **中文**：我们去别的地方吧。
+   **英文**：Let's go somewhere else.
+   > **解析**：Let's + 动词原形；somewhere else 表示别的某处。
 
-3. **中文**：一只小蚂蚁在干燥的木棍和灰尘堆旁爬行。  
-   **英文**：A small ant crawled near a dusty stick and a pile of dirt.
-   > **解析**：ant 表示“蚂蚁”；dusty 表示“多灰尘的”；stick 表示“木棍”；pile 表示“堆”。
+3. **中文**：这里没有可以休息的地方。
+   **英文**：There is nowhere to rest here.
+   > **解析**：There is 引导存在句；nowhere to rest 表示无处可休息。
 
-4. **中文**：游客被禁止在此留宿，他们必须去别的地方。  
-   **英文**：Tourists are not allowed here and must go somewhere else.
-   > **解析**：allowed / be allowed 表示“被允许”；somewhere else 表示“其他地方”。
+4. **中文**：山峰现在近了。
+   **英文**：The peak is close now.
+   > **解析**：close 作表语表示距离近；now 是时间状语。
 
-5. **中文**：山林里一片宁静，无处可以藏匿危险。  
-   **英文**：The forest was silent, with nowhere to hide for danger.
-   > **解析**：silent 表示“宁静的/寂静的”；nowhere 表示“无处/哪里都没有”。
+5. **中文**：我们在树林间穿行。
+   **英文**：We walked among the trees.
+   > **解析**：walked 是过去式；among the trees 表示在树丛之间。
 
-6. **中文**：那块形状奇特的沉沉木棍落在泥土里。  
-   **英文**：That stick with a strange shape dropped into the dirt.
-   > **解析**：shape 表示“形状”；stick 表示“木棍”。
+6. **中文**：小路从旧桥下面穿过。
+   **英文**：The trail passes underneath the old bridge.
+   > **解析**：underneath 表示在正下方；passes 是三单形式。
 
-7. **中文**：温和的风吹拂过这片古老自然的草地。  
-   **英文**：A gentle breeze blew across the ancient natural land.
-   > **解析**：gentle 表示“温和的/柔和的”；ancient 表示“古老的”；natural 表示“自然的”。
+7. **中文**：山谷在春天很美。
+   **英文**：The valley is beautiful in spring.
+   > **解析**：beautiful 作表语；in spring 是时间状语。
 
-8. **中文**：我们在山谷顶部欣赏到了无与伦比的美景。  
-   **英文**：We enjoyed the great natural beauty from the valley top.
-   > **解析**：beauty 表示“美丽/美景”；valley 表示“山谷”。
+8. **中文**：自然之美让大家惊叹。
+   **英文**：The natural beauty amazed everyone.
+   > **解析**：natural 修饰 beauty；amazed 是过去式。
 
-9. **中文**：在漫步时，请沿着正确的方向前行。  
-   **英文**：When hiking outdoor, keep walking in the right direction.
-   > **解析**：direction 表示“方向”；outdoor / outdoors 表示“户外的”。
+9. **中文**：这是一片古老的森林。
+   **英文**：This is an ancient forest.
+   > **解析**：ancient 作定语；an 用于元音音素前。
 
-10. **中文**：那些多灰尘的旧石头整齐地堆成了一堆。  
-   **英文**：Those dusty old stones were set into a neat pile.
-   > **解析**：dusty 表示“多灰尘的”；pile 表示“堆”。
+10. **中文**：这条路又干燥又多灰。
+   **英文**：The road was dusty and dry.
+   > **解析**：dusty 和 dry 并列作表语；was 与单数主语搭配。
 
-11. **中文**：山谷深处有一条清澈见底的小溪。  
-   **英文**：Deep in the valley, there flows a clear stream.
-   > **解析**：valley 表示“山谷”。
+11. **中文**：风很轻柔。
+   **英文**：The wind was gentle.
+   > **解析**：gentle 作表语，描述风的强度。
 
-12. **中文**：经过三小时的艰难攀登，我们终于登上了山峰。  
-   **英文**：After three hours of climbing, we reached the peak.
-   > **解析**：peak 表示“山峰/顶峰”。
+12. **中文**：夜里的森林很寂静。
+   **英文**：The forest was silent at night.
+   > **解析**：silent 作表语；at night 是时间状语。
 
-13. **中文**：这朵绚丽的蝴蝶在花丛中翩翩起舞。  
-   **英文**：This pretty butterfly flew among the colorful flowers.
-   > **解析**：butterfly 表示“蝴蝶”。
+13. **中文**：一只蚂蚁爬上了我的背包。
+   **英文**：An ant climbed onto my bag.
+   > **解析**：An 用于元音音素前；onto 表示爬到……上面。
 
-14. **中文**：夏天户外有很多烦人的蚊子。  
-   **英文**：There are many annoying mosquitoes outdoors in summer.
-   > **解析**：mosquitoes / mosquito 表示“蚊子”。
+14. **中文**：一只蝴蝶落在花上。
+   **英文**：A butterfly landed on a flower.
+   > **解析**：landed 表示降落；on a flower 是地点状语。
 
-15. **中文**：那座古老的城堡遗址吸引了许多历史爱好者。  
-   **英文**：The ancient castle ruins attracted many history fans.
-   > **解析**：ancient 表示“古老的/古代的”。
+15. **中文**：水边很常见蚊子。
+   **英文**：Mosquitoes are common near water.
+   > **解析**：Mosquitoes 复数主语用 are；near water 是地点状语。
 
-16. **中文**：这片森林属于国家自然保护区。  
-   **英文**：This big forest is a natural reserve for wild animals.
-   > **解析**：natural 表示“自然的”。
+16. **中文**：爬山之后我们累了。
+   **英文**：We got tired after the climb.
+   > **解析**：got + tired 表示变得疲惫；after the climb 是时间状语。
 
-17. **中文**：微风轻轻吹拂，给人带来阵阵凉意。  
-   **英文**：A gentle breeze brought refreshing air to us.
-   > **解析**：gentle 表示“温和的/柔和的”。
+17. **中文**：我们被允许在这里露营吗？
+   **英文**：Are we allowed to camp here?
+   > **解析**：Are allowed 是被动结构；to camp 是不定式。
 
-18. **中文**：在静谧无声的黑夜里，大家都睡得很香。  
-   **英文**：In the silent night, everyone slept very soundly.
-   > **解析**：silent 表示“静谧的/无声的”。
+18. **中文**：我们停了下来，因为开始下雨了。
+   **英文**：We stopped because it started to rain.
+   > **解析**：because 引导原因从句；stopped 与 started 都是过去式。
 
-19. **中文**：请勿在禁止通行的禁区内随意乱走。  
-   **英文**：Walking is not allowed in this restricted area.
-   > **解析**：allowed 表示“被允许的”。
+19. **中文**：户外活动有益健康。
+   **英文**：Outdoor activities are good for health.
+   > **解析**：Outdoor 作定语修饰 activities；be good for 是固定搭配。
 
-20. **中文**：如果这里太吵，我们可以去别的地方聊。  
-   **英文**：If it is too loud here, let's go somewhere else.
-   > **解析**：somewhere else 表示“其他地方”。
+20. **中文**：小径旁有一堆树枝。
+   **英文**：There was a pile of sticks near the trail.
+   > **解析**：There was 引导过去存在句；a pile of 表示一堆。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In the natural beauty of the valley, the peak has ruins among rocks.
-   > **中文**：在深山山谷的自然风景中，古代遗迹隐藏在山峰之间。
+1. Are we going in the right direction?
+   > **中文**：我们走的方向对吗？
 
-2. Mosquitoes and butterflies flew underneath the tree branch.
-   > **中文**：在微风吹拂的灰蒙蒙路途上，蚊子和蝴蝶在树枝下方飞舞。
+2. Let's go somewhere else.
+   > **中文**：我们去别的地方吧。
 
-3. A small ant crawled near a dusty stick and a pile of dirt.
-   > **中文**：一只小蚂蚁在干燥的木棍和灰尘堆旁爬行。
+3. There is nowhere to rest here.
+   > **中文**：这里没有可以休息的地方。
 
-4. Tourists are not allowed here and must go somewhere else.
-   > **中文**：游客被禁止在此留宿，他们必须去别的地方。
+4. The peak is close now.
+   > **中文**：山峰现在近了。
 
-5. The forest was silent, with nowhere to hide for danger.
-   > **中文**：山林里一片宁静，无处可以藏匿危险。
+5. We walked among the trees.
+   > **中文**：我们在树林间穿行。
 
-6. That stick with a strange shape dropped into the dirt.
-   > **中文**：那块形状奇特的沉沉木棍落在泥土里。
+6. The trail passes underneath the old bridge.
+   > **中文**：小路从旧桥下面穿过。
 
-7. A gentle breeze blew across the ancient natural land.
-   > **中文**：温和的风吹拂过这片古老自然的草地。
+7. The valley is beautiful in spring.
+   > **中文**：山谷在春天很美。
 
-8. We enjoyed the great natural beauty from the valley top.
-   > **中文**：我们在山谷顶部欣赏到了无与伦比的美景。
+8. The natural beauty amazed everyone.
+   > **中文**：自然之美让大家惊叹。
 
-9. When hiking outdoor, keep walking in the right direction.
-   > **中文**：在漫步时，请沿着正确的方向前行。
+9. This is an ancient forest.
+   > **中文**：这是一片古老的森林。
 
-10. Those dusty old stones were set into a neat pile.
-   > **中文**：那些多灰尘的旧石头整齐地堆成了一堆。
+10. The road was dusty and dry.
+   > **中文**：这条路又干燥又多灰。
 
-11. Deep in the valley, there flows a clear stream.
-   > **中文**：山谷深处有一条清澈见底的小溪。
+11. The wind was gentle.
+   > **中文**：风很轻柔。
 
-12. After three hours of climbing, we reached the peak.
-   > **中文**：经过三小时的艰难攀登，我们终于登上了山峰。
+12. The forest was silent at night.
+   > **中文**：夜里的森林很寂静。
 
-13. This pretty butterfly flew among the colorful flowers.
-   > **中文**：这朵绚丽的蝴蝶在花丛中翩翩起舞。
+13. An ant climbed onto my bag.
+   > **中文**：一只蚂蚁爬上了我的背包。
 
-14. There are many annoying mosquitoes outdoors in summer.
-   > **中文**：夏天户外有很多烦人的蚊子。
+14. A butterfly landed on a flower.
+   > **中文**：一只蝴蝶落在花上。
 
-15. The ancient castle ruins attracted many history fans.
-   > **中文**：那座古老的城堡遗址吸引了许多历史爱好者。
+15. Mosquitoes are common near water.
+   > **中文**：水边很常见蚊子。
 
-16. This big forest is a natural reserve for wild animals.
-   > **中文**：这片森林属于国家自然保护区。
+16. We got tired after the climb.
+   > **中文**：爬山之后我们累了。
 
-17. A gentle breeze brought refreshing air to us.
-   > **中文**：微风轻轻吹拂，给人带来阵阵凉意。
+17. Are we allowed to camp here?
+   > **中文**：我们被允许在这里露营吗？
 
-18. In the silent night, everyone slept very soundly.
-   > **中文**：在静谧无声的黑夜里，大家都睡得很香。
+18. We stopped because it started to rain.
+   > **中文**：我们停了下来，因为开始下雨了。
 
-19. Walking is not allowed in this restricted area.
-   > **中文**：请勿在禁止通行的禁区内随意乱走。
+19. Outdoor activities are good for health.
+   > **中文**：户外活动有益健康。
 
-20. If it is too loud here, let's go somewhere else.
-   > **中文**：如果这里太吵，我们可以去别的地方聊。
+20. There was a pile of sticks near the trail.
+   > **中文**：小径旁有一堆树枝。
 
 </quiz-listening>
 
@@ -212,25 +207,36 @@ because 引导原因状语从句。among 表示"在…之间（三者以上）"�
 | 英文单词 | 课文释义 |
 | --- | --- |
 | allowed | 被允许的 |
-| among | 在……之中 |
+| among | 在……之间 |
 | ancient | 古老的 |
 | ant | 蚂蚁 |
-| beauty | 美丽 / 美景 |
+| beauty | 美 / 美景 |
+| because | 因为 |
 | butterfly | 蝴蝶 |
+| close | 近的 |
 | direction | 方向 |
-| dusty | 多灰尘的 |
-| gentle | 温和的 / 柔和的 |
+| dusty | 满是灰尘的 |
+| gentle | 轻柔的 |
+| get | 变得 / 得到 |
 | mosquito | 蚊子 |
 | natural | 自然的 |
-| nowhere | 无处 / 哪里都没有 |
+| nowhere | 无处 |
 | outdoor | 户外的 |
-| peak | 山峰 / 顶峰 |
+| peak | 山峰 |
 | pile | 堆 |
 | shape | 形状 |
-| silent | 静谧的 / 无声的 |
-| somewhere else | 其他地方 |
-| stick | 木棍 / 粘贴 |
+| silent | 寂静的 |
+| somewhere else | 别的某处 |
+| stick | 树枝 / 棍子 |
+| underneath | 在……正下方 |
 | valley | 山谷 |
+| is | 是（单数） |
+| was | 是（过去式） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| we | 我们 |
+| in | 在……里 |
+| on | 在……上 |
 
 </quiz-matching>
 
@@ -238,202 +244,202 @@ because 引导原因状语从句。among 表示"在…之间（三者以上）"�
 
 ### 1
 
-In the ____ beauty of the valley, the peak has ruins among rocks.
+Are we going in the right ____?
 
-- [x] natural
-- [ ] allowed
-- [ ] among
+- [x] direction
+- [ ] shape
+- [ ] pile
 
-> **解析**：**natural** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：问路用 in the right direction"正确的方向"；shape 和 pile 语义不符。
 
 ### 2
 
-Mosquitoes and butterflies flew ____ the tree branch.
+Let's go ____.
 
-- [x] underneath
-- [ ] allowed
+- [x] somewhere else
+- [ ] nowhere
 - [ ] among
 
-> **解析**：**underneath** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：提议去"别处"用 somewhere else；nowhere 语义相反，among 是介词。
 
 ### 3
 
-A small ____ crawled near a dusty stick and a pile of dirt.
+There is ____ to rest around here.
 
-- [x] ant
-- [ ] allowed
-- [ ] among
+- [x] nowhere
+- [ ] underneath
+- [ ] gentle
 
-> **解析**：**ant** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：表示无处可休息用 nowhere；后两项词性与结构不符。
 
 ### 4
 
-Tourists are not ____ here and must go somewhere else.
+The peak is ____ now.
 
-- [x] allowed
-- [ ] among
+- [x] close
+- [ ] silent
 - [ ] ancient
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **allowed**。
+> **解析**：描述距离近用 close；silent 和 ancient 不描述距离。
 
 ### 5
 
-The forest was ____, with nowhere to hide for danger.
+The path winds ____ the ancient trees.
 
-- [x] silent
-- [ ] allowed
-- [ ] among
+- [x] among
+- [ ] because
+- [ ] close
 
-> **解析**：**silent** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：在树丛之间穿行用 among；because 是连词，close 后需接 to。
 
 ### 6
 
-That ____ with a strange shape dropped into the dirt.
+The trail passes ____ the old bridge.
 
-- [x] stick
-- [ ] allowed
+- [x] underneath
 - [ ] among
+- [ ] nowhere
 
-> **解析**：**stick** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：从桥正下方穿过用 underneath；among 用于三者以上之间。
 
 ### 7
 
-A ____ breeze blew across the ancient natural land.
+The ____ is beautiful in spring.
 
-- [x] gentle
-- [ ] allowed
-- [ ] among
+- [x] valley
+- [ ] valleys
+- [ ] mosquito
 
-> **解析**：**gentle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 与单数名词 valley 搭配；valleys 是复数，mosquito 语义不符。
 
 ### 8
 
-We enjoyed the great ____ beauty from the valley top.
+The natural ____ amazed everyone.
 
-- [x] natural
-- [ ] allowed
-- [ ] among
+- [x] beauty
+- [ ] beautiful
+- [ ] beautifully
 
-> **解析**：**natural** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The natural 后需要名词 beauty；后两项分别是形容词和副词。
 
 ### 9
 
-When hiking ____, keep walking in the right direction.
+This is an ____ forest.
 
-- [x] outdoor
-- [ ] allowed
-- [ ] among
+- [x] ancient
+- [ ] ancients
+- [ ] ancientness
 
-> **解析**：**outdoor** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：an 后接形容词 ancient 修饰 forest；后两项不是形容词。
 
 ### 10
 
-Those ____ old stones were set into a neat pile.
+The road was ____ and dry.
 
 - [x] dusty
-- [ ] allowed
-- [ ] among
+- [ ] dust
+- [ ] dustily
 
-> **解析**：**dusty** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后需要形容词 dusty；dust 是名词，dustily 是副词。
 
 ### 11
 
-Deep in the ____, there flows a clear stream.
+The wind was very ____.
 
-- [x] valley
-- [ ] allowed
-- [ ] among
+- [x] gentle
+- [ ] gently
+- [ ] gentleness
 
-> **解析**：**valley** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：very 后需要形容词 gentle；gently 是副词，gentleness 是名词。
 
 ### 12
 
-After three hours of climbing, we reached the ____.
+The forest was ____ at night.
 
-- [x] peak
-- [ ] allowed
-- [ ] among
+- [x] silent
+- [ ] silence
+- [ ] silently
 
-> **解析**：**peak** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后需要形容词 silent；silence 是名词，silently 是副词。
 
 ### 13
 
-This pretty ____ flew among the colorful flowers.
+An ____ climbed onto my bag.
 
-- [x] butterfly
-- [ ] allowed
-- [ ] among
+- [x] ant
+- [ ] ants
+- [ ] anted
 
-> **解析**：**butterfly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：An 后接单数名词 ant；ants 是复数，anted 不是此义。
 
 ### 14
 
-There are many annoying ____ outdoors in summer.
+A ____ landed on a flower.
 
-- [x] mosquitoes
-- [ ] allowed
-- [ ] among
+- [x] butterfly
+- [ ] butterflys
+- [ ] butterflies
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **mosquitoes**。
+> **解析**：A 后接单数 butterfly；butterflys 拼写错误，butterflies 是复数。
 
 ### 15
 
-The ____ castle ruins attracted many history fans.
+____ are common near water.
 
-- [x] ancient
-- [ ] allowed
-- [ ] among
+- [x] Mosquitoes
+- [ ] Mosquito
+- [ ] Ant
 
-> **解析**：**ancient** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：are 需要复数主语 Mosquitoes；单数形式与 are 不搭配。
 
 ### 16
 
-This big forest is a ____ reserve for wild animals.
+We ____ tired after the climb.
 
-- [x] natural
-- [ ] allowed
-- [ ] among
+- [x] got
+- [ ] get
+- [ ] getting
 
-> **解析**：**natural** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：after the climb 提示过去时 got；getting 不能单独作谓语。
 
 ### 17
 
-A ____ breeze brought refreshing air to us.
+Are we ____ to camp here?
 
-- [x] gentle
-- [ ] allowed
-- [ ] among
+- [x] allowed
+- [ ] allow
+- [ ] allowing
 
-> **解析**：**gentle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Are + 过去分词 allowed 构成被动；allow 是原形。
 
 ### 18
 
-In the ____ night, everyone slept very soundly.
+We stopped ____ it started to rain.
 
-- [x] silent
-- [ ] allowed
+- [x] because
+- [ ] underneath
 - [ ] among
 
-> **解析**：**silent** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：引导原因从句用 because；后两项是介词，不能接从句。
 
 ### 19
 
-Walking is not ____ in this restricted area.
+____ activities are good for health.
 
-- [x] allowed
-- [ ] among
-- [ ] ancient
+- [x] Outdoor
+- [ ] Outdoors
+- [ ] Outdooring
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **allowed**。
+> **解析**：修饰名词用形容词 Outdoor；Outdoors 是副词，不作定语。
 
 ### 20
 
-If it is too loud here, let's go ____ else.
+The mountain has a strange ____.
 
-- [x] somewhere
-- [ ] allowed
-- [ ] among
+- [x] shape
+- [ ] shaped
+- [ ] shaping
 
-> **解析**：**somewhere** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a strange 后需要名词 shape；后两项分别是过去式和分词。
 
 </quiz-cloze>

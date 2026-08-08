@@ -10,40 +10,35 @@ by hand, clean up, continue, dishwasher, dislike, dust, freezer, garbage, have t
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"谈论清洁日常"展开。核心是家务表达：I have to vacuum the rug and mop the floor.（我得吸地毯和拖地。）、Who's responsible for the dishes—the dishwasher or by hand?（谁负责洗碗——用洗碗机还是手洗？）、The house is so messy—I need to clean up.（房子太乱了——我得收拾一下。）、If you don't do the housework, you're in trouble.（你要是不做家务，就麻烦了。）。
+本单元的主题是"谈论打扫日常"。词表可以分成四组：清洁动作（clean up, dust, mop, vacuum, spill, make, made）、家务与责任（housework, take care of, responsible for, have to, dislike, continue, in trouble）、家居物品（dishwasher, freezer, heater, pot, rug, garbage, lock）以及状态描述（messy, neat, by hand）。拼起来就是一段家务安排：I have to clean up the kitchen. I vacuum the rug and mop the floor. The dishes are made by hand or in the dishwasher.
 
-词表里有清洁工具（vacuum, mop, dishwasher）和家务动词（clean up, dust, spill, take care of）。你可以练习：I dislike doing the garbage. / Wipe the dust off the heater. / Lock the door and take out the garbage. / Keep the kitchen neat.
+语法主线有两个。一是 have to 表示客观上的"必须"：I have to take out the garbage. 否定是 don't have to（不必）；注意与 must（主观必须）的区别。二是被动语态：The bed was made this morning.（床铺好了）be made by hand（手工制作的）。另外 spill 打翻、make the bed 铺床、take care of 照料都是家务高频搭配。
 
-have to 表示"必须"（客观需要）。responsible for 表示"负责"。
+学完这些词，你能用英语安排和描述家务分工——打扫、整理、使用家电，并说明责任归属。
 
 ## Tips
 
-- **have to / housework** — 必须 / 家务。搭配：have to clean, do housework, do the housework。例句：I have to do the housework every day. / She has to vacuum. 注意 have to 强调客观需要（must 偏主观）。
+- **housework / clean up** — housework 家务（不可数）：do housework；clean up 打扫干净：clean up your room. 近义区分：housework 泛指家务，chores 指具体杂务。
 
-- **vacuum / mop / dust** — 吸尘 / 拖地 / 擦灰。搭配：vacuum the rug, mop the floor, dust the furniture。例句：Vacuum the living room. / Mop the kitchen floor. / Dust the shelves. 注意这三个词都既是名词也是动词。
+- **vacuum / mop / dust** — 三个清洁动词。vacuum 用吸尘器吸：vacuum the rug；mop 拖地：mop the floor；dust 除尘：dust the shelves. 三者都由工具名词转化为动词。
 
-- **dishwasher / by hand** — 洗碗机 / 手洗。搭配：put it in the dishwasher, wash by hand。例句：Put the dishes in the dishwasher. / I wash delicate things by hand. 注意 by hand = 用手（不用机器）。
+- **dishwasher / freezer / heater** — 家电三词。dishwasher 洗碗机，dish + washer；freezer 冰柜，freeze + -er；heater 加热器，heat + -er. -er/-or 表机器的构词法。
 
-- **messy / neat / clean up** — 乱的 / 整洁的 / 收拾。搭配：so messy, keep it neat, clean up the room。例句：Your room is so messy! / Keep the kitchen neat. / I need to clean up. 注意 messy 和 neat 是反义词。
+- **by hand** — 手工地：wash the dishes by hand. 与机器相对：by hand ↔ by machine.
 
-- **responsible for / take care of** — 负责 / 照顾。搭配：responsible for the dishes, take care of the house。例句：I'm responsible for cooking. / Take care of the plants. 注意 responsible for + 名词/动名词。
+- **make / made** — make 制作、整理；made 是过去式与过去分词。家务搭配：make the bed（铺床）。不规则变化 make → made → made.
 
-- **garbage / freezer / heater** — 垃圾 / 冰箱（冷冻室）/ 暖气。搭配：take out the garbage, in the freezer, turn on the heater。例句：Take out the garbage! / The meat is in the freezer. / Turn on the heater—it's cold. 注意 garbage 是美式（英式 rubbish）。
+- **messy / neat** — 状态反义对。messy 凌乱的：The room is messy. neat 整洁的：Keep it neat. 名词 mess / neatness.
 
-- **spill / lock / in trouble** — 洒了 / 锁 / 有麻烦。搭配：spill water, lock the door, in trouble。例句：I spilled milk on the rug! / Lock the door when you leave. / You're in trouble! 注意 spill → spilled / spilt。
+- **responsible for / take care of / have to** — 责任表达三件套。responsible for 对……负责：I'm responsible for the kitchen. take care of 照料：take care of the plants. have to 必须，表客观要求。
 
-- **rug / pot / made** — 小地毯 / 锅 / 制作。搭配：a rug, vacuum the rug, a pot of soup, made by hand。例句：The rug is dirty. / There's a pot on the stove. / This was made by hand. 注意 rug 是小地毯（carpet 是满铺地毯）。
+- **dislike / continue / in trouble** — dislike 不喜欢（比 don't like 更正式）；continue 继续：continue cleaning；in trouble 有麻烦了：You're in trouble if you spill it again.
 
-- **dislike / continue** — 不喜欢 / 继续。搭配：dislike doing, continue to do, continue doing。例句：I dislike doing the dishes. / Continue cleaning the kitchen. 注意 dislike + 动名词（和 enjoy 一样）。
+- **spill** — 打翻、洒出：Don't spill the water. 过去式 spilled 或 spilt.
 
-- **dust / spill / mop** — 灰尘 / 洒 / 拖。搭配：dust the shelves, spill the water, mop up。例句：Dust the furniture first. / I spilled water—mop it up! 注意 dust 作动词是"擦灰"（不是"撒灰"）。
-
-- **make / made / lock** — 做 / 做了 / 锁。搭配：make the bed, made dinner, lock up。例句：Make your bed! / I made dinner. / Lock the door. 注意 make the bed = 整理床铺。
-
-- **neat / messy / clean up** — 整洁 / 凌乱 / 打扫。搭配：nice and neat, very messy, clean up now。例句：Keep your desk neat. / The house is messy. / Clean up before guests arrive!
+- **rug / pot / garbage / lock** — 家居词。rug 小地毯；pot 锅、壶；garbage 垃圾：take out the garbage；lock 锁：lock the door.
 
 ## 练习
 
@@ -61,149 +56,149 @@ have to 表示"必须"（客观需要）。responsible for 表示"负责"。
 
 <quiz-sentence-builder>
 
-1. **中文**：妈妈负责擦桌子打扫房间，把卧室收拾得很整洁。  
-   **英文**：Mom is responsible for cleaning up the messy room to make it neat.
-   > **解析**：responsible for 表示“对……负责”；clean up 表示“打扫”；messy 表示“凌乱的”；neat 表示“整洁的”。
+1. **中文**：我必须打扫厨房。
+   **英文**：I have to clean up the kitchen.
+   > **解析**：have to 后接动词原形 clean up；the kitchen 作宾语。
 
-2. **中文**：我们必须用吸尘器给地毯吸尘，并用拖把拖地。  
-   **英文**：We have to vacuum the rug and mop the floor.
-   > **解析**：vacuum 表示“用吸尘器清扫”；rug 表示“小地毯”；mop 表示“用拖把拖”。
+2. **中文**：我用吸尘器吸地毯。
+   **英文**：I vacuum the rug.
+   > **解析**：vacuum 作动词"用吸尘器吸"；the rug 作宾语。
 
-3. **中文**：我不小心把牛奶洒在了洗碗机和冷冻柜旁。  
-   **英文**：I accidentally spilled milk near the dishwasher and freezer.
-   > **解析**：spilled 表示“洒出/打翻”；dishwasher 表示“洗碗机”；freezer 表示“冷冻柜/冰箱冷冻室”。
+3. **中文**：她正在拖地板。
+   **英文**：She is mopping the floor.
+   > **解析**：is mopping 是现在进行时；mop 需双写 p 再加 ing。
 
-4. **中文**：做家务时用手洗这件精致的衣服，不要搞砸。  
-   **英文**：Do this housework by hand and take care of the coat.
-   > **解析**：by hand 表示“用手/手工”；housework 表示“家务活”；take care of 表示“照顾/爱护”。
+4. **中文**：请给架子除尘。
+   **英文**：Please dust the shelves.
+   > **解析**：祈使句以 Please + dust 开头；the shelves 作宾语。
 
-5. **中文**：如果你把垃圾留在客厅里，你会惹上麻烦的。  
-   **英文**：If you leave garbage in the living room, you will be in trouble.
-   > **解析**：garbage 表示“垃圾”；in trouble 表示“陷入麻烦/处于困境”。
+5. **中文**：把垃圾拿出去。
+   **英文**：Take out the garbage.
+   > **解析**：祈使句以 Take 开头；take out 是固定短语。
 
-6. **中文**：请记得锁上门，并清除桌子上的灰尘。  
-   **英文**：Please lock the door and dust off the wooden table.
-   > **解析**：lock 表示“锁上”；dust 表示“除去灰尘/擦灰”。
+6. **中文**：这些碗是手工洗的。
+   **英文**：The dishes are washed by hand.
+   > **解析**：are washed 是被动语态；by hand 表方式。
 
-7. **中文**：我非常不喜欢做家务，特别是清理脏汤锅。  
-   **英文**：I dislike doing housework, especially washing the dirty pot.
-   > **解析**：dislike 表示“不喜欢/讨厌”；pot 表示“锅/汤锅”。
+7. **中文**：把脏盘子放进洗碗机。
+   **英文**：Put the dirty dishes in the dishwasher.
+   > **解析**：祈使句以 Put 开头；in the dishwasher 是地点状语。
 
-8. **中文**：取暖器坏了，我们需要修理它以继续供暖。  
-   **英文**：The heater broke, and we need to fix it to continue heating.
-   > **解析**：heater 表示“取暖器/加热器”；continue 表示“继续”。
+8. **中文**：肉放在冰柜里。
+   **英文**：The meat is in the freezer.
+   > **解析**：is 搭配不可数主语 The meat；in the freezer 是地点状语。
 
-9. **中文**：把这些做好的饭菜放进冰箱冷冻室里。  
-   **英文**：Put the food made today into the freezer to keep fresh.
-   > **解析**：freezer 表示“冷冻柜”；made 表示“做好的”。
+9. **中文**：我每天早上铺床。
+   **英文**：I make the bed every morning.
+   > **解析**：make the bed 是固定搭配；every morning 是频率状语。
 
-10. **中文**：他收拾好了房间，把所有的垃圾都扔掉了。  
-   **英文**：He cleaned up the room and threw away all the garbage.
-   > **解析**：clean up 表示“清理/打扫”；garbage 表示“垃圾”。
+10. **中文**：房间太乱了。
+    **英文**：The room is too messy.
+    > **解析**：messy 作表语；too 修饰形容词。
 
-11. **中文**：用拖把把厨房的地板拖干净。  
-   **英文**：Use a mop to clean the kitchen floor thoroughly.
-   > **解析**：mop 表示“拖把/拖地”。
+11. **中文**：保持桌子整洁。
+    **英文**：Keep the desk neat.
+    > **解析**：keep + 宾语 + 形容词作宾语补足语。
 
-12. **中文**：地毯上落满了灰尘，需要用吸尘器清理。  
-   **英文**：The rug is full of dust and needs to be vacuumed.
-   > **解析**：rug 表示“小地毯”；dust 表示“灰尘”。
+12. **中文**：小心别把水打翻了。
+    **英文**：Be careful not to spill the water.
+    > **解析**：Be careful not to do 表"小心别做某事"。
 
-13. **中文**：如果不收拾房间，你的房间看起来会非常凌乱。  
-   **英文**：Your bedroom looks very messy if you don't clean it.
-   > **解析**：messy 表示“凌乱的/邋遢的”。
+13. **中文**：我负责厨房。
+    **英文**：I am responsible for the kitchen.
+    > **解析**：be responsible for 是固定搭配。
 
-14. **中文**：请把汤倒入锅里，慢慢加热。  
-   **英文**：Please pour the soup into the pot and heat it slowly.
-   > **解析**：pot 表示“锅/汤锅”。
+14. **中文**：我讨厌做家务。
+    **英文**：I dislike doing housework.
+    > **解析**：dislike 后接动名词 doing；housework 不可数。
 
-15. **中文**：她把所有的东西都打理得井井有条，非常整洁。  
-   **英文**：She keeps everything neat and well-organized in her room.
-   > **解析**：neat 表示“整洁的/干干净净的”。
+15. **中文**：继续打扫客厅。
+    **英文**：Continue cleaning the living room.
+    > **解析**：continue 后接动名词 cleaning；祈使句省略主语。
 
-16. **中文**：你必须在离开前锁好门窗。  
-   **英文**：You have to lock all the doors before you leave.
-   > **解析**：have to 表示“必须/不得不”；lock 表示“锁上”。
+16. **中文**：你要是有麻烦就告诉我。
+    **英文**：Tell me if you are in trouble.
+    > **解析**：if 引导条件状语从句；in trouble 作表语。
 
-17. **中文**：他不小心把咖喱汁洒在了新买的拖把上。  
-   **英文**：He accidentally spilled sauce onto the new mop.
-   > **解析**：spilled 表示“洒出/打翻”。
+17. **中文**：出门前锁好门。
+    **英文**：Lock the door before you leave.
+    > **解析**：祈使句以 Lock 开头；before 引导时间状语从句。
 
-18. **中文**：请多照顾好你自己的个人物品。  
-   **英文**：Please take care of your personal belongings.
-   > **解析**：take care of 表示“照顾/保管好”。
+18. **中文**：这口锅是新的。
+    **英文**：This pot is new.
+    > **解析**：This pot 是单数主语，用 is；new 作表语。
 
-19. **中文**：洗碗机能帮我们节省大量的洗碗时间。  
-   **英文**：The dishwasher saves us a lot of time washing dishes.
-   > **解析**：dishwasher 表示“洗碗机”。
+19. **中文**：打开加热器，很冷。
+    **英文**：Turn on the heater because it's cold.
+    > **解析**：祈使句以 Turn on 开头；because 引导原因状语从句。
 
-20. **中文**：清除家具上的灰尘是日常家务的一部分。  
-   **英文**：Wiping off dust is part of daily housework.
-   > **解析**：dust 表示“灰尘/除尘”；housework 表示“家务活”。
+20. **中文**：他必须照料这些植物。
+    **英文**：He has to take care of the plants.
+    > **解析**：has to 搭配三单主语 He；take care of 是固定短语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Mom is responsible for cleaning up the messy room to make it neat.
-   > **中文**：妈妈负责擦桌子打扫房间，把卧室收拾得很整洁。
+1. I have to clean up the kitchen.
+   > **中文**：我必须打扫厨房。
 
-2. We have to vacuum the rug and mop the floor.
-   > **中文**：我们必须用吸尘器给地毯吸尘，并用拖把拖地。
+2. I vacuum the rug.
+   > **中文**：我用吸尘器吸地毯。
 
-3. I accidentally spilled milk near the dishwasher and freezer.
-   > **中文**：我不小心把牛奶洒在了洗碗机和冷冻柜旁。
+3. She is mopping the floor.
+   > **中文**：她正在拖地板。
 
-4. Do this housework by hand and take care of the coat.
-   > **中文**：做家务时用手洗这件精致的衣服，不要搞砸。
+4. Please dust the shelves.
+   > **中文**：请给架子除尘。
 
-5. If you leave garbage in the living room, you will be in trouble.
-   > **中文**：如果你把垃圾留在客厅里，你会惹上麻烦的。
+5. Take out the garbage.
+   > **中文**：把垃圾拿出去。
 
-6. Please lock the door and dust off the wooden table.
-   > **中文**：请记得锁上门，并清除桌子上的灰尘。
+6. The dishes are washed by hand.
+   > **中文**：这些碗是手工洗的。
 
-7. I dislike doing housework, especially washing the dirty pot.
-   > **中文**：我非常不喜欢做家务，特别是清理脏汤锅。
+7. Put the dirty dishes in the dishwasher.
+   > **中文**：把脏盘子放进洗碗机。
 
-8. The heater broke, and we need to fix it to continue heating.
-   > **中文**：取暖器坏了，我们需要修理它以继续供暖。
+8. The meat is in the freezer.
+   > **中文**：肉放在冰柜里。
 
-9. Put the food made today into the freezer to keep fresh.
-   > **中文**：把这些做好的饭菜放进冰箱冷冻室里。
+9. I make the bed every morning.
+   > **中文**：我每天早上铺床。
 
-10. He cleaned up the room and threw away all the garbage.
-   > **中文**：他收拾好了房间，把所有的垃圾都扔掉了。
+10. The room is too messy.
+    > **中文**：房间太乱了。
 
-11. Use a mop to clean the kitchen floor thoroughly.
-   > **中文**：用拖把把厨房的地板拖干净。
+11. Keep the desk neat.
+    > **中文**：保持桌子整洁。
 
-12. The rug is full of dust and needs to be vacuumed.
-   > **中文**：地毯上落满了灰尘，需要用吸尘器清理。
+12. Be careful not to spill the water.
+    > **中文**：小心别把水打翻了。
 
-13. Your bedroom looks very messy if you don't clean it.
-   > **中文**：如果不收拾房间，你的房间看起来会非常凌乱。
+13. I am responsible for the kitchen.
+    > **中文**：我负责厨房。
 
-14. Please pour the soup into the pot and heat it slowly.
-   > **中文**：请把汤倒入锅里，慢慢加热。
+14. I dislike doing housework.
+    > **中文**：我讨厌做家务。
 
-15. She keeps everything neat and well-organized in her room.
-   > **中文**：她把所有的东西都打理得井井有条，非常整洁。
+15. Continue cleaning the living room.
+    > **中文**：继续打扫客厅。
 
-16. You have to lock all the doors before you leave.
-   > **中文**：你必须在离开前锁好门窗。
+16. Tell me if you are in trouble.
+    > **中文**：你要是有麻烦就告诉我。
 
-17. He accidentally spilled sauce onto the new mop.
-   > **中文**：他不小心把咖喱汁洒在了新买的拖把上。
+17. Lock the door before you leave.
+    > **中文**：出门前锁好门。
 
-18. Please take care of your personal belongings.
-   > **中文**：请多照顾好你自己的个人物品。
+18. This pot is new.
+    > **中文**：这口锅是新的。
 
-19. The dishwasher saves us a lot of time washing dishes.
-   > **中文**：洗碗机能帮我们节省大量的洗碗时间。
+19. Turn on the heater because it's cold.
+    > **中文**：打开加热器，很冷。
 
-20. Wiping off dust is part of daily housework.
-   > **中文**：清除家具上的灰尘是日常家务的一部分。
+20. He has to take care of the plants.
+    > **中文**：他必须照料这些植物。
 
 </quiz-listening>
 
@@ -211,26 +206,36 @@ have to 表示"必须"（客观需要）。responsible for 表示"负责"。
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| by hand | 用手 / 手工 |
-| clean up | 打扫 / 清理 |
+| by hand | 手工地 |
+| clean up | 打扫干净 |
+| continue | 继续 |
 | dishwasher | 洗碗机 |
-| dislike | 不喜欢 / 讨厌 |
-| dust | 灰尘 / 除尘 |
-| freezer | 冷冻柜 / 冰柜 |
+| dislike | 不喜欢 |
+| dust | 除尘 |
+| freezer | 冰柜 |
 | garbage | 垃圾 |
-| have to | 必须 / 不得不 |
-| heater | 取暖器 / 加热器 |
-| housework | 家务活 |
-| in trouble | 陷入麻烦 |
-| lock | 锁上 / 锁 |
-| messy | 凌乱的 / 脏乱的 |
-| mop | 拖把 / 拖地 |
+| have to | 必须 |
+| heater | 加热器 |
+| housework | 家务 |
+| in trouble | 有麻烦 |
+| lock | 锁 |
+| made | 制作（过去式） |
+| make | 制作 / 整理 |
+| messy | 凌乱的 |
+| mop | 拖地 |
 | neat | 整洁的 |
-| pot | 锅 / 汤锅 |
+| pot | 锅 |
 | responsible for | 对……负责 |
 | rug | 小地毯 |
-| spill | 洒出 / 打翻 |
-| vacuum | 用吸尘器清扫 / 吸尘器 |
+| spill | 打翻 |
+| take care of | 照料 |
+| vacuum | 用吸尘器吸 |
+| the | 这 / 那（定冠词） |
+| kitchen | 厨房 |
+| floor | 地板 |
+| dish | 盘子 |
+| door | 门 |
+| plant | 植物 |
 
 </quiz-matching>
 
@@ -238,202 +243,202 @@ have to 表示"必须"（客观需要）。responsible for 表示"负责"。
 
 ### 1
 
-Mom is responsible for cleaning up the ____ room to make it neat.
+I have to ____ the kitchen.
 
-- [x] messy
-- [ ] by hand
-- [ ] clean up
+- [x] clean up
+- [ ] lock
+- [ ] spill
 
-> **解析**：**messy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：打扫厨房用 clean up；lock 是锁，spill 是打翻，语义不符。
 
 ### 2
 
-We have to ____ the rug and mop the floor.
+I ____ the rug with a machine.
 
 - [x] vacuum
-- [ ] by hand
-- [ ] clean up
+- [ ] dislike
+- [ ] continue
 
-> **解析**：**vacuum** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：用机器吸地毯用 vacuum；dislike 和 continue 不能与 the rug 构成清洁义。
 
 ### 3
 
-I accidentally spilled milk near the ____ and freezer.
+She is ____ the floor.
 
-- [x] dishwasher
-- [ ] by hand
-- [ ] clean up
+- [x] mopping
+- [ ] locking
+- [ ] heating
 
-> **解析**：**dishwasher** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：拖地板用 mopping，mop 双写 p 加 ing；locking 和 heating 语义不符。
 
 ### 4
 
-Do this ____ by hand and take care of the coat.
+Please ____ the shelves.
 
-- [x] housework
-- [ ] by hand
-- [ ] clean up
+- [x] dust
+- [ ] spill
+- [ ] garbage
 
-> **解析**：**housework** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：给架子除尘用 dust；spill 是打翻，garbage 是名词，都不符。
 
 ### 5
 
-If you leave ____ in the living room, you will be in trouble.
+Take ____ the garbage.
 
-- [x] garbage
-- [ ] by hand
-- [ ] clean up
+- [x] out
+- [ ] by
+- [ ] up
 
-> **解析**：**garbage** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：take out the garbage 是固定短语；by 和 up 不能构成倒垃圾义。
 
 ### 6
 
-Please ____ the door and dust off the wooden table.
+The dishes are washed by ____.
 
-- [x] lock
-- [ ] by hand
-- [ ] clean up
+- [x] hand
+- [ ] pot
+- [ ] rug
 
-> **解析**：**lock** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：by hand 是"手工地"的固定搭配；pot 和 rug 不能构成方式短语。
 
 ### 7
 
-I ____ doing housework, especially washing the dirty pot.
+Put the dirty dishes in the ____.
 
-- [x] dislike
-- [ ] by hand
-- [ ] clean up
+- [x] dishwasher
+- [ ] heater
+- [ ] lock
 
-> **解析**：**dislike** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：洗盘子放洗碗机 dishwasher；heater 是加热器，lock 是锁，语义不符。
 
 ### 8
 
-The ____ broke, and we need to fix it to continue heating.
+The meat is in the ____.
 
-- [x] heater
-- [ ] by hand
-- [ ] clean up
+- [x] freezer
+- [ ] dishwasher
+- [ ] rug
 
-> **解析**：**heater** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：肉存放在冰柜 freezer；dishwasher 和 rug 不能存放食物。
 
 ### 9
 
-Put the food ____ today into the freezer to keep fresh.
+I ____ the bed every morning.
 
-- [x] made
-- [ ] by hand
-- [ ] clean up
+- [x] make
+- [ ] spill
+- [ ] dust
 
-> **解析**：**made** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：铺床用 make the bed；spill 和 dust 不能与 the bed 构成整理义。
 
 ### 10
 
-He cleaned up the room and threw away all the ____.
+The room is too ____.
 
-- [x] garbage
-- [ ] by hand
-- [ ] clean up
+- [x] messy
+- [ ] neat
+- [ ] new
 
-> **解析**：**garbage** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：与 too 搭配且语境常指问题，用 messy；neat 语义相反，new 不描述整洁度。
 
 ### 11
 
-Use a ____ to clean the kitchen floor thoroughly.
+Keep the desk ____.
 
-- [x] mop
-- [ ] by hand
-- [ ] clean up
+- [x] neat
+- [ ] messy
+- [ ] garbage
 
-> **解析**：**mop** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：保持整洁用 neat；messy 语义相反，garbage 是名词不能作补语。
 
 ### 12
 
-The ____ is full of dust and needs to be vacuumed.
+Be careful not to ____ the water.
 
-- [x] rug
-- [ ] by hand
-- [ ] clean up
+- [x] spill
+- [ ] lock
+- [ ] vacuum
 
-> **解析**：**rug** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：打翻水用 spill；lock 和 vacuum 不能与 the water 构成打翻义。
 
 ### 13
 
-Your bedroom looks very ____ if you don't clean it.
+I am responsible ____ the kitchen.
 
-- [x] messy
-- [ ] by hand
-- [ ] clean up
+- [x] for
+- [ ] by
+- [ ] with
 
-> **解析**：**messy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be responsible for 是固定搭配；by 和 with 不能构成此短语。
 
 ### 14
 
-Please pour the soup into the ____ and heat it slowly.
+I dislike ____ housework.
 
-- [x] pot
-- [ ] by hand
-- [ ] clean up
+- [x] doing
+- [ ] do
+- [ ] done
 
-> **解析**：**pot** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：dislike 后接动名词 doing；do 是原形，done 是过去分词，都不用于 dislike 后。
 
 ### 15
 
-She keeps everything ____ and well-organized in her room.
+____ cleaning the living room.
 
-- [x] neat
-- [ ] by hand
-- [ ] clean up
+- [x] Continue
+- [ ] Spill
+- [ ] Garbage
 
-> **解析**：**neat** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：继续打扫用 Continue；Spill 语义不符，Garbage 是名词不能作祈使句动词。
 
 ### 16
 
-You have to ____ all the doors before you leave.
+Tell me if you are in ____.
 
-- [x] lock
-- [ ] by hand
-- [ ] clean up
+- [x] trouble
+- [ ] hand
+- [ ] pot
 
-> **解析**：**lock** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：in trouble 是"有麻烦"的固定搭配；hand 和 pot 不能构成此短语。
 
 ### 17
 
-He accidentally spilled sauce onto the new ____.
+____ the door before you leave.
 
-- [x] mop
-- [ ] by hand
-- [ ] clean up
+- [x] Lock
+- [ ] Mop
+- [ ] Dust
 
-> **解析**：**mop** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：出门前锁门用 Lock；Mop 和 Dust 不能与 the door 构成锁义。
 
 ### 18
 
-Please take care of your personal ____.
+This ____ is new.
 
-- [x] belongings
-- [ ] by hand
-- [ ] clean up
+- [x] pot
+- [ ] garbage
+- [ ] hand
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **belongings**。
+> **解析**：能用 new 形容的厨具是锅 pot；garbage 和 hand 语义不符。
 
 ### 19
 
-The ____ saves us a lot of time washing dishes.
+Turn on the ____ because it's cold.
 
-- [x] dishwasher
-- [ ] by hand
-- [ ] clean up
+- [x] heater
+- [ ] freezer
+- [ ] dishwasher
 
-> **解析**：**dishwasher** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：冷时开加热器 heater；freezer 是冰柜，dishwasher 是洗碗机，都不制热。
 
 ### 20
 
-Wiping off ____ is part of daily housework.
+He has to take ____ of the plants.
 
-- [x] dust
-- [ ] by hand
-- [ ] clean up
+- [x] care
+- [ ] out
+- [ ] up
 
-> **解析**：**dust** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：take care of 是"照料"的固定短语；out 和 up 不能构成此结构。
 
 </quiz-cloze>

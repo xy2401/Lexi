@@ -10,40 +10,33 @@ act, action, celebrity, cinema, comedy, commercial, create, culture, download, e
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"谈论最喜欢的书"展开。核心是文艺表达：I just downloaded a fiction novel—have you read any good books lately?（我刚下载了一本小说——你最近读过什么好书吗？）、The performer gave an amazing performance at the cinema.（表演者在电影院做了一场精彩的演出。）、The novel was published last year and got great reviews.（这本小说去年出版，评价很好。）、I love action films with fight scenes.（我喜欢有打斗场面的动作片。）。
+本单元的主题是"谈论喜欢的书"，词表围绕文艺娱乐展开，可以分成三组：书籍与影视（novel, fiction, film, cinema, comedy, title, review, download, publish）、表演艺术（perform, performance, performer, act, orchestra, sculpture, create, culture, celebrity）、以及动作与描述（action, fight, fought, loudly, commercial, experience）。拼起来就是读书观影的闲聊：This novel is my favorite piece of fiction. The performer acted loudly in the comedy, and the review praised the action scenes.
 
-词表里有文艺词汇（novel, fiction, sculpture, orchestra, cinema）和表演词汇（perform, performer, performance）。你可以练习：The celebrity wrote a comedy. / They fought loudly in the film. / I want to create a sculpture. / The title of the book is...
+语法主线有两个。一是 -er/-or 与 -ance/-ence 的构词家族：perform（表演）→ performer（表演者）→ performance（表演这场活动），掌握这条线索能成串记词。二是不规则动词 fight → fought：The heroes fight in the film. / They fought bravely. 另外 review 既可作名词（书评）也可作动词（评价），publish 指"出版"：The novel was published last year.
 
-perform → performance（表演 → 演出）。publish 表示"出版"。
+学完这单元，你能用英语聊喜欢的书和电影：介绍作品、复述情节、评价表演，还能描述文化氛围。
 
 ## Tips
 
-- **novel / fiction / title** — 小说 / 虚构的 / 标题。搭配：a fiction novel, the title of the book, a best-selling novel。例句：I'm reading a great novel. / It's fiction, not real. / What's the title? 注意 novel 是长篇小说（比 story 长）。
+- **novel / fiction / title** — novel 长篇小说。fiction 虚构文学（与 nonfiction 非虚构相对）：a work of fiction。title 标题、书名：What's the title of the book?
 
-- **perform / performance / performer** — 表演 / 演出 / 表演者。搭配：perform on stage, a great performance, a talented performer。例句：She performed beautifully. / The performance was amazing. / The performer took a bow. 注意 perform → performance（动词 → 名词）。
+- **review / publish** — review 评论、书评：write a review。动词义"评价"。publish 出版：The novel was published in 2020. 出版社 publisher。
 
-- **cinema / film / comedy** — 电影院 / 电影 / 喜剧。搭配：go to the cinema, watch a film, a comedy film。例句：Let's go to the cinema. / The film was great. / I love comedies. 注意 cinema 是英式（美式 movie theater）。
+- **film / cinema / comedy** — film 电影（英式），美式常说 movie。cinema 电影院，也泛指电影艺术。comedy 喜剧，反义词 tragedy（悲剧）；comedian 是喜剧演员。
 
-- **review / publish / download** — 评论 / 出版 / 下载。搭配：write a review, published last year, download a book。例句：The reviews were excellent. / The book was published in 2020. / I downloaded the novel. 注意 review 可指书评/影评。
+- **download / commercial** — download 下载：download a novel。commercial 商业的、广告：a commercial break（广告时段）。
 
-- **sculpture / orchestra / culture** — 雕塑 / 管弦乐团 / 文化。搭配：a sculpture, an orchestra, local culture。例句：The sculpture is beautiful. / The orchestra played perfectly. / I love learning about culture. 注意 orchestra 的发音：/ˈɔːrkɪstrə/。
+- **perform / performance / performer** — 一词三形。perform 表演（动词），performance 演出（名词，指活动或表现），performer 表演者（人）。后缀 -ance 表抽象活动，-er 表人。
 
-- **act / action / fight / fought** — 表演 / 动作 / 打架 / 打了。搭配：act in a film, an action movie, a fight scene, fought bravely。例句：She acts in comedy films. / I love action movies. / They fought in the film. 注意 fight → fought → fought。
+- **act / action / celebrity** — act 表演、行动：She acts well. action 动作、行动（名词）：an action film（动作片）。celebrity 名人：a film celebrity。
 
-- **celebrity / commercial / create** — 名人 / 商业的 / 创造。搭配：a celebrity, a commercial break, create art。例句：A celebrity wrote this novel. / I hate commercial breaks. / She creates beautiful art. 注意 commercial 可指"广告"（名词）。
+- **fight / fought** — fight 搏斗，fought 是过去式和过去分词（不规则）。书中打斗场景：a fight scene。They fought to the end.
 
-- **loudly / experience / fiction** — 大声地 / 经历 / 虚构。搭配：read loudly, a great experience, fiction and non-fiction。例句：He read the poem loudly. / It was an amazing experience. / I prefer fiction. 注意 fiction 的反义是 non-fiction。
+- **orchestra / sculpture / create / culture** — orchestra 管弦乐队。sculpture 雕塑。create 创造，名词 creation。culture 文化：local culture。
 
-- **perform / cinema / review** — 表演 / 电影院 / 评论。搭配：perform live, at the cinema, a good review。例句：The band performed live. / We saw it at the cinema. / The film got good reviews. 注意 perform live = 现场表演。
-
-- **novel / publish / title** — 小说 / 出版 / 标题。搭配：write a novel, published by, the title is。例句：She's writing a novel. / It was published by a famous company. / The title is "The Fight". 注意 publish 是"出版"（出版社做的事）。
-
-- **orchestra / sculpture / culture** — 乐团 / 雕塑 / 文化。搭配：a symphony orchestra, a modern sculpture, art and culture。例句：The orchestra performed at the cinema. / The sculpture is on display. / Art is part of culture. 注意这些是艺术类核心词汇。
-
-- **comedy / action / celebrity** — 喜剧 / 动作 / 名人。搭配：a comedy show, an action film, a celebrity。例句：I prefer comedies to action films. / The action scenes were intense. / A celebrity reviewed the book. 注意 comedy 的反义是 tragedy（悲剧）。
+- **experience / loudly** — experience 经验、体验：a reading experience。loudly 大声地：The performer read loudly.
 
 ## 练习
 
@@ -61,149 +54,149 @@ perform → performance（表演 → 演出）。publish 表示"出版"。
 
 <quiz-sentence-builder>
 
-1. **中文**：在电影院里观看一部关于著名名人的商业喜剧体验极棒。  
-   **英文**：Watching a commercial comedy in cinema was a great experience.
-   > **解析**：cinema 表示“电影院”；comedy 表示“喜剧”；commercial 表示“商业的/商业广告”；experience 表示“体验/经历”。
+1. **中文**：这本小说是我最喜欢的虚构作品。
+   **英文**：This novel is my favorite fiction.
+   > **解析**：favorite 修饰 fiction；is 与单数主语搭配。
 
-2. **中文**：交响乐团在大剧院大声演奏了精彩的古典乐曲。  
-   **英文**：The orchestra performed classical music loudly in theater.
-   > **解析**：orchestra 表示“交响乐团”；performed / perform 表示“演奏/表演”；loudly 表示“大声地”。
+2. **中文**：这本书的书名是什么？
+   **英文**：What is the title of the book?
+   > **解析**：What 引导疑问句；of the book 修饰 title。
 
-3. **中文**：这位出色的表演者在舞台上表演了一场打斗动作戏。  
-   **英文**：The performer acted in a fight scene on the stage.
-   > **解析**：performer 表示“表演者”；acted / act 表示“表演/扮演”；fight 表示“打斗”。
+3. **中文**：我写了一篇书评。
+   **英文**：I wrote a review of the novel.
+   > **解析**：wrote 是 write 的过去式；of the novel 说明对象。
 
-4. **中文**：出版社出版了一本标题为《科幻传奇》的新小说。  
-   **英文**：The publisher published a fiction novel with a cool title.
-   > **解析**：publish / published 表示“出版”；fiction 表示“小说/虚构作品”；novel 表示“小说”；title 表示“标题/书名”。
+4. **中文**：这本小说是去年出版的。
+   **英文**：The novel was published last year.
+   > **解析**：was published 是被动语态；last year 是时间状语。
 
-5. **中文**：他在网上下载了一部关于文化与雕塑的评论纪录片。  
-   **英文**：He downloaded a video review on culture and sculpture.
-   > **解析**：download / downloaded 表示“下载”；review 表示“评论”；culture 表示“文化”；sculpture 表示“雕塑”。
+5. **中文**：我下载了那部电影。
+   **英文**：I downloaded the film.
+   > **解析**：downloaded 是 download 的过去式；the film 作宾语。
 
-6. **中文**：创造出富有文化内涵的艺术作品需要丰富的经验。  
-   **英文**：Creating cultural art pieces requires lots of experience.
-   > **解析**：create / Creating 表示“创造”；culture 表示“文化”；experience 表示“经验”。
+6. **中文**：我们去看喜剧吧。
+   **英文**：Let's go and see a comedy.
+   > **解析**：Let's + 动词原形；go and see 是两个连续动作。
 
-7. **中文**：英雄在电影中与恶势力展开了激烈的搏斗。  
-   **英文**：The hero fought against evil forces in the movie film.
-   > **解析**：fought 是 fight 的过去式；film 表示“电影”。
+7. **中文**：电影院在市中心。
+   **英文**：The cinema is in the city center.
+   > **解析**：in the city center 是地点状语；is 与单数主语搭配。
 
-8. **中文**：你可以在线阅读影评人对这部新科幻电影的评论。  
-   **英文**：You can read the review for this new science fiction film.
-   > **解析**：review 表示“评论/影评”；fiction 表示“科幻/虚构”。
+8. **中文**：那位表演者演得很好。
+   **英文**：The performer acted very well.
+   > **解析**：acted 是 act 的过去式；well 是副词修饰 acted。
 
-9. **中文**：这部商业搞笑剧的标题吸引了数以万计的观众。  
-   **英文**：The title of this commercial comedy attracted many fans.
-   > **解析**：title 表示“标题”；comedy 表示“喜剧”。
+9. **中文**：演出很精彩。
+   **英文**：The performance was excellent.
+   > **解析**：performance 作主语；excellent 作表语。
 
-10. **中文**：观众在交响乐团演出的尾声热烈掌声并欢呼。  
-   **英文**：The audience cheered loudly for the orchestra performance.
-   > **解析**：orchestra 表示“交响乐团”；loudly 表示“大声地”。
+10. **中文**：他们将在音乐会上表演。
+   **英文**：They will perform at the concert.
+   > **解析**：will 后接动词原形 perform；at the concert 是场合状语。
 
-11. **中文**：今晚我们去电影院看最新的动作大片吧。  
-   **英文**：Let's go to the cinema to watch the latest action film.
-   > **解析**：cinema 表示“电影院”。
+11. **中文**：管弦乐队演奏了一首新歌。
+   **英文**：The orchestra played a new song.
+   > **解析**：orchestra 作整体用单数谓语 played；a new song 作宾语。
 
-12. **中文**：这部轻松幽默的喜剧让全场观众捧腹大笑。  
-   **英文**：This funny comedy made the entire audience laugh.
-   > **解析**：comedy 表示“喜剧”。
+12. **中文**：英雄们在电影里搏斗。
+   **英文**：The heroes fight in the film.
+   > **解析**：heroes 复数主语用 fight 原形；in the film 是场景状语。
 
-13. **中文**：这是一部关于探索太空的科幻惊悚小说。  
-   **英文**：This is a great science fiction novel about space.
-   > **解析**：fiction 表示“小说/虚构作品”；novel 表示“长篇小说”。
+13. **中文**：他们勇敢地战斗过。
+   **英文**：They fought bravely.
+   > **解析**：fought 是 fight 的过去式；bravely 是副词修饰 fought。
 
-14. **中文**：这位著名的作家下个月将出版他的第三部新书。  
-   **英文**：The famous author will publish his third new book.
-   > **解析**：publish 表示“出版/发行”。
+14. **中文**：这是一部动作片。
+   **英文**：This is an action film.
+   > **解析**：action 作定语修饰 film；an 用于元音音素前。
 
-15. **中文**：表演者们在舞台上的精彩演出赢得了热烈的掌声。  
-   **英文**：The performers delivered a great stage performance.
-   > **解析**：performer / performers 表示“表演者”。
+15. **中文**：那位名人创造了一种新文化。
+   **英文**：The celebrity created a new culture.
+   > **解析**：created 是 create 的过去式；a new culture 作宾语。
 
-16. **中文**：了解不同的文化有助于拓宽我们的国际视野。  
-   **英文**：Learning about different culture broadens our minds.
-   > **解析**：culture 表示“文化”。
+16. **中文**：这座雕塑很美。
+   **英文**：The sculpture is beautiful.
+   > **解析**：sculpture 作主语；beautiful 作表语。
 
-17. **中文**：你可以从官方网站免费下载这首高清音乐。  
-   **英文**：You can download this high-quality song for free.
-   > **解析**：download 表示“下载”。
+17. **中文**：他大声朗读了那首诗。
+   **英文**：He read the poem loudly.
+   > **解析**：loudly 是副词修饰 read；read 过去式与原形同形。
 
-18. **中文**：在美术馆里，那尊现代雕塑作品非常醒目。  
-   **英文**：That modern sculpture in the gallery is eye-catching.
-   > **解析**：sculpture 表示“雕塑/雕刻”。
+18. **中文**：这是一次很棒的阅读体验。
+   **英文**：It was a great reading experience.
+   > **解析**：reading 作定语修饰 experience；a great 修饰整体。
 
-19. **中文**：艺术家运用灵感创造出了一幅幅震撼心灵的画卷。  
-   **英文**：Artists use inspiration to create stunning artwork.
-   > **解析**：create 表示“创造”。
+19. **中文**：广告很无聊。
+   **英文**：The commercials are boring.
+   > **解析**：commercials 复数主语用 are；boring 是 -ing 形容词。
 
-20. **中文**：这段难忘的旅行经历将永远印在他的脑海里。  
-   **英文**：This unforgettable travel experience will stay in mind.
-   > **解析**：experience 表示“经历/体验”。
+20. **中文**：她演过很多角色。
+   **英文**：She has acted in many films.
+   > **解析**：has acted 是现在完成时；in many films 说明范围。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Watching a commercial comedy in cinema was a great experience.
-   > **中文**：在电影院里观看一部关于著名名人的商业喜剧体验极棒。
+1. This novel is my favorite fiction.
+   > **中文**：这本小说是我最喜欢的虚构作品。
 
-2. The orchestra performed classical music loudly in theater.
-   > **中文**：交响乐团在大剧院大声演奏了精彩的古典乐曲。
+2. What is the title of the book?
+   > **中文**：这本书的书名是什么？
 
-3. The performer acted in a fight scene on the stage.
-   > **中文**：这位出色的表演者在舞台上表演了一场打斗动作戏。
+3. I wrote a review of the novel.
+   > **中文**：我写了一篇书评。
 
-4. The publisher published a fiction novel with a cool title.
-   > **中文**：出版社出版了一本标题为《科幻传奇》的新小说。
+4. The novel was published last year.
+   > **中文**：这本小说是去年出版的。
 
-5. He downloaded a video review on culture and sculpture.
-   > **中文**：他在网上下载了一部关于文化与雕塑的评论纪录片。
+5. I downloaded the film.
+   > **中文**：我下载了那部电影。
 
-6. Creating cultural art pieces requires lots of experience.
-   > **中文**：创造出富有文化内涵的艺术作品需要丰富的经验。
+6. Let's go and see a comedy.
+   > **中文**：我们去看喜剧吧。
 
-7. The hero fought against evil forces in the movie film.
-   > **中文**：英雄在电影中与恶势力展开了激烈的搏斗。
+7. The cinema is in the city center.
+   > **中文**：电影院在市中心。
 
-8. You can read the review for this new science fiction film.
-   > **中文**：你可以在线阅读影评人对这部新科幻电影的评论。
+8. The performer acted very well.
+   > **中文**：那位表演者演得很好。
 
-9. The title of this commercial comedy attracted many fans.
-   > **中文**：这部商业搞笑剧的标题吸引了数以万计的观众。
+9. The performance was excellent.
+   > **中文**：演出很精彩。
 
-10. The audience cheered loudly for the orchestra performance.
-   > **中文**：观众在交响乐团演出的尾声热烈掌声并欢呼。
+10. They will perform at the concert.
+   > **中文**：他们将在音乐会上表演。
 
-11. Let's go to the cinema to watch the latest action film.
-   > **中文**：今晚我们去电影院看最新的动作大片吧。
+11. The orchestra played a new song.
+   > **中文**：管弦乐队演奏了一首新歌。
 
-12. This funny comedy made the entire audience laugh.
-   > **中文**：这部轻松幽默的喜剧让全场观众捧腹大笑。
+12. The heroes fight in the film.
+   > **中文**：英雄们在电影里搏斗。
 
-13. This is a great science fiction novel about space.
-   > **中文**：这是一部关于探索太空的科幻惊悚小说。
+13. They fought bravely.
+   > **中文**：他们勇敢地战斗过。
 
-14. The famous author will publish his third new book.
-   > **中文**：这位著名的作家下个月将出版他的第三部新书。
+14. This is an action film.
+   > **中文**：这是一部动作片。
 
-15. The performers delivered a great stage performance.
-   > **中文**：表演者们在舞台上的精彩演出赢得了热烈的掌声。
+15. The sculpture is beautiful.
+   > **中文**：这座雕塑很美。
 
-16. Learning about different culture broadens our minds.
-   > **中文**：了解不同的文化有助于拓宽我们的国际视野。
+16. He read the poem loudly.
+   > **中文**：他大声朗读了那首诗。
 
-17. You can download this high-quality song for free.
-   > **中文**：你可以从官方网站免费下载这首高清音乐。
+17. It was a great reading experience.
+   > **中文**：这是一次很棒的阅读体验。
 
-18. That modern sculpture in the gallery is eye-catching.
-   > **中文**：在美术馆里，那尊现代雕塑作品非常醒目。
+18. The commercials are boring.
+   > **中文**：广告很无聊。
 
-19. Artists use inspiration to create stunning artwork.
-   > **中文**：艺术家运用灵感创造出了一幅幅震撼心灵的画卷。
+19. She has acted in many films.
+   > **中文**：她演过很多角色。
 
-20. This unforgettable travel experience will stay in mind.
-   > **中文**：这段难忘的旅行经历将永远印在他的脑海里。
+20. The celebrity created a new culture.
+   > **中文**：那位名人创造了一种新文化。
 
 </quiz-listening>
 
@@ -211,26 +204,37 @@ perform → performance（表演 → 演出）。publish 表示"出版"。
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| act | 表演 / 扮演 |
+| act | 表演 / 行动 |
 | action | 动作 / 行动 |
 | celebrity | 名人 |
 | cinema | 电影院 |
 | comedy | 喜剧 |
-| commercial | 商业的 / 商业广告 |
+| commercial | 商业的 / 广告 |
 | create | 创造 |
 | culture | 文化 |
 | download | 下载 |
-| experience | 体验 / 经历 |
-| fiction | 小说 / 虚构作品 |
-| fight | 打斗 / 战斗 |
-| film | 电影 / 胶片 |
-| fought | 打斗了（fight的过去式） |
+| experience | 经验 / 体验 |
+| fiction | 虚构文学 |
+| fight | 搏斗 |
+| film | 电影 |
+| fought | 搏斗过（fight 的过去式） |
 | loudly | 大声地 |
 | novel | 长篇小说 |
-| orchestra | 交响乐团 |
+| orchestra | 管弦乐队 |
 | perform | 表演 |
+| performance | 演出 |
 | performer | 表演者 |
-| publish | 出版 / 发行 |
+| publish | 出版 |
+| review | 评论 |
+| sculpture | 雕塑 |
+| title | 标题 |
+| is | 是（单数） |
+| was | 是（过去式） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| of | ……的（介词） |
+| in | 在……里 |
+| many | 许多 |
 
 </quiz-matching>
 
@@ -238,202 +242,202 @@ perform → performance（表演 → 演出）。publish 表示"出版"。
 
 ### 1
 
-Watching a ____ comedy in cinema was a great experience.
+This novel is my favorite ____.
 
-- [x] commercial
-- [ ] act
-- [ ] action
+- [x] fiction
+- [ ] fictional
+- [ ] fictitious
 
-> **解析**：**commercial** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：favorite 修饰名词 fiction"虚构文学"；后两项是形容词。
 
 ### 2
 
-The ____ performed classical music loudly in theater.
+What is the ____ of the book?
 
-- [x] orchestra
-- [ ] act
-- [ ] action
+- [x] title
+- [ ] titled
+- [ ] titles
 
-> **解析**：**orchestra** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the 后接单数名词 title 与 is 搭配；titles 是复数。
 
 ### 3
 
-The ____ acted in a fight scene on the stage.
+I wrote a ____ of the novel.
 
-- [x] performer
-- [ ] act
-- [ ] action
+- [x] review
+- [ ] reviewed
+- [ ] reviewing
 
-> **解析**：**performer** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：a 后需要名词 review"书评"；后两项分别是过去式和分词。
 
 ### 4
 
-The publisher published a ____ novel with a cool title.
+The novel was ____ last year.
 
-- [x] fiction
-- [ ] act
-- [ ] action
+- [x] published
+- [ ] publish
+- [ ] publishing
 
-> **解析**：**fiction** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was + 过去分词 published 构成被动语态；publish 是原形。
 
 ### 5
 
-He downloaded a video ____ on culture and sculpture.
+I ____ the film yesterday.
 
-- [x] review
-- [ ] act
-- [ ] action
+- [x] downloaded
+- [ ] download
+- [ ] downloading
 
-> **解析**：**review** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 用过去式 downloaded；后两项分别是原形和分词。
 
 ### 6
 
-Creating cultural art pieces requires lots of ____.
+Let's go and see a ____.
 
-- [x] experience
-- [ ] act
-- [ ] action
+- [x] comedy
+- [ ] comedian
+- [ ] commercial
 
-> **解析**：**experience** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：看的是影片类型 comedy"喜剧"；comedian 是演员，commercial 是广告。
 
 ### 7
 
-The hero ____ against evil forces in the movie film.
+The ____ is in the city center.
 
-- [x] fought
+- [x] cinema
+- [ ] cinemas
 - [ ] act
-- [ ] action
 
-> **解析**：**fought** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 要求单数 cinema；act 语义不符。
 
 ### 8
 
-You can read the ____ for this new science fiction film.
+The ____ acted very well.
 
-- [x] review
-- [ ] act
-- [ ] action
+- [x] performer
+- [ ] performance
+- [ ] perform
 
-> **解析**：**review** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能 act 的是人 performer；performance 是演出本身，perform 是动词。
 
 ### 9
 
-The ____ of this commercial comedy attracted many fans.
+The ____ was excellent.
 
-- [x] title
-- [ ] act
-- [ ] action
+- [x] performance
+- [ ] performer
+- [ ] perform
 
-> **解析**：**title** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：评价精彩的是 performance"演出"；performer 是人需不同形容词搭配。
 
 ### 10
 
-The audience cheered ____ for the orchestra performance.
+They will ____ at the concert.
 
-- [x] loudly
-- [ ] act
-- [ ] action
+- [x] perform
+- [ ] performed
+- [ ] performing
 
-> **解析**：**loudly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：will 后接动词原形 perform；后两项分别是过去式和分词。
 
 ### 11
 
-Let's go to the ____ to watch the latest action film.
+The orchestra ____ a new song.
 
-- [x] cinema
-- [ ] act
-- [ ] action
+- [x] played
+- [ ] play
+- [ ] played with
 
-> **解析**：**cinema** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去用 played；orchestra 作整体单数。
 
 ### 12
 
-This funny ____ made the entire audience laugh.
+The heroes ____ in the film.
 
-- [x] comedy
-- [ ] act
-- [ ] action
+- [x] fight
+- [ ] fights
+- [ ] fighting
 
-> **解析**：**comedy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：heroes 复数主语用 fight 原形；fights 是第三人称单数。
 
 ### 13
 
-This is a great science ____ novel about space.
+They ____ bravely.
 
-- [x] fiction
-- [ ] act
-- [ ] action
+- [x] fought
+- [ ] fight
+- [ ] fighted
 
-> **解析**：**fiction** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：fight 的过去式是不规则变化 fought；fighted 不是单词。
 
 ### 14
 
-The famous author will ____ his third new book.
+This is ____ action film.
 
-- [x] publish
-- [ ] act
-- [ ] action
+- [x] an
+- [ ] a
+- [ ] one
 
-> **解析**：**publish** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：action 以元音音素开头用 an；a 用于辅音音素前。
 
 ### 15
 
-The performers delivered a great stage ____.
+The ____ is beautiful.
 
-- [x] performance
-- [ ] act
-- [ ] action
+- [x] sculpture
+- [ ] sculptor
+- [ ] sculpt
 
-> **解析**：**performance** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：美丽的作品是 sculpture"雕塑"；sculptor 是雕刻家，sculpt 是动词。
 
 ### 16
 
-Learning about different ____ broadens our minds.
+He read the poem ____.
 
-- [x] culture
-- [ ] act
-- [ ] action
+- [x] loudly
+- [ ] loudness
+- [ ] louder of
 
-> **解析**：**culture** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 read 需要副词 loudly；loudness 是名词，louder of 结构错误。
 
 ### 17
 
-You can ____ this high-quality song for free.
+It was a great reading ____.
 
-- [x] download
-- [ ] act
-- [ ] action
+- [x] experience
+- [ ] experienced
+- [ ] experiencing
 
-> **解析**：**download** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后需要名词 experience"体验"；后两项分别是过去式和分词。
 
 ### 18
 
-That modern ____ in the gallery is eye-catching.
+The commercials are ____.
 
-- [x] sculpture
-- [ ] act
-- [ ] action
+- [x] boring
+- [ ] bored
+- [ ] bore
 
-> **解析**：**sculpture** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：描述事物"无聊"用 -ing 形容词 boring；bored 描述人的感受。
 
 ### 19
 
-Artists use inspiration to ____ stunning artwork.
+She has ____ in many films.
 
-- [x] create
+- [x] acted
 - [ ] act
 - [ ] action
 
-> **解析**：**create** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：has 后需要过去分词 acted；action 是名词。
 
 ### 20
 
-This unforgettable travel ____ will stay in mind.
+The celebrity ____ a new culture.
 
-- [x] experience
-- [ ] act
-- [ ] action
+- [x] created
+- [ ] create
+- [ ] creating
 
-> **解析**：**experience** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去用过去式 created；后两项分别是原形和分词。
 
 </quiz-cloze>

@@ -10,40 +10,33 @@ Halloween, bat, costume, did, didn't, do, does, doesn't, don't, fashionable, fit
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"询问某人的偏好"展开，以万圣节为场景。核心是服装描述和偏好询问：Do you like this costume? It fits perfectly!（你喜欢这套服装吗？很合身！）、She dressed up as a witch for Halloween.（她万圣节扮成了女巫。）、The shirt is too tight—I prefer something loose.（这件衬衫太紧了——我喜欢宽松一点的。）、I tore my costume while tying the bat wings.（我系蝙蝠翅膀的时候把服装撕破了。）。
+本单元的主题是"询问喜好"，场景围绕万圣节展开。词表可以分成三组：节日与装扮（Halloween, witch, bat, costume, shop）、衣物与搭配（fit, loose, tight, match, fashionable, tie, tying）、以及助动词家族（do, does, did, don't, doesn't, didn't）。拼起来就是一次节前闲聊：Do you like Halloween? I want a witch costume, but it is too loose. Let me tie it so that it fits.
 
-词表里有服装描述词（tight, loose, fit, fashionable）和动词变化（tear → tore → torn, tie → tying）。你可以练习：The costume doesn't fit. / Does this match? / She's tying the ribbon. / The bat flew away.
+语法主线有两个。一是疑问与否定中的助动词：Do/Does 用于现在时（Do you like...? / She doesn't like...），Did 用于过去时（Did you buy...? / I didn't see...），注意助动词后动词要回到原形。二是不规则动词 tear 的三态：tear → tore → torn（撕破），现在进行时是 tearing，而 tie（系）的进行时要先变 y 为 i 再加 -ing：tying。另外 so that 引导目的状语从句：Tie the strings so that the hat stays on.
 
-so that 表示"以便/为了"。tear → tore → torn 是不规则变化。
+学完这单元，你能用英语问别人的喜好、讨论节日装扮、描述衣服合不合身，还能说明做某事的目的。
 
 ## Tips
 
-- **costume / fit / tight / loose** — 服装 / 合身 / 紧的 / 松的。搭配：wear a costume, fit well, too tight, a loose fit。例句：I bought a Halloween costume. / It fits perfectly. / It's too tight. / I like loose clothes. 注意 fit 可作动词也可作形容词。
+- **Halloween / witch / bat** — Halloween 万圣节（10 月 31 日），首字母大写。witch 女巫，复数 witches。bat 蝙蝠；也指球拍（a tennis bat 不常用，网球拍是 racket，棒球棒是 bat）。
 
-- **Halloween / witch / bat** — 万圣节 / 女巫 / 蝙蝠。搭配：on Halloween, dress as a witch, a bat。例句：What are you for Halloween? / She dressed as a witch. / A bat flew out of the cave. 注意 Halloween = October 31st。
+- **costume / shop** — costume 服装，尤指化装舞会或节日穿的戏服：a witch costume。shop 商店，也作动词"购物"：She shops every week. 注意与 clothes（衣服总称）区分。
 
-- **tear / tore / torn** — 撕裂 / 撕了 / 被撕破。搭配：tear the paper, tore my shirt, a torn page。例句：Don't tear the costume! / I tore it by accident. / The flag is torn. 注意 tear → tore → torn（不规则动词）。
+- **fit / loose / tight** — 衣物合身三词。fit 合身，动词：The costume fits me. loose 宽松的，反义词 tight 紧的：The dress is too loose. / These shoes are tight.
 
-- **tie / tying / match** — 系 / 正在系 / 搭配。搭配：tie a knot, tying a ribbon, match the colors。例句：Tie your shoes. / She's tying the bow. / The shoes match the dress. 注意 tie → tying（去 e 加 ing）。
+- **match / fashionable** — match 搭配、相配：The colors match well. fashionable 时尚的（fashion + -able）：She is very fashionable.
 
-- **fashionable / shop / do / does** — 时尚的 / 购物 / 做。搭配：fashionable clothes, go shopping, Do you like...? / Does she like...? 例句：That's very fashionable. / Let's shop for costumes. / Do you like this one? 注意 Does 用于第三人称单数。
+- **tear / tore / torn** — tear 撕破，不规则动词：tear → tore（过去式）→ torn（过去分词）。He tore his costume. / The costume is torn. 注意 tear 作名词读 /tɪr/ 指眼泪，作动词读 /ter/。
 
-- **so that / don't / didn't** — 以便 / 不要 / 没有。搭配：so that + 从句, don't + 动词原形, didn't + 动词原形。例句：I bought it so that we'd match. / Don't wear that! / I didn't buy it. 注意 so that 表目的。
+- **tie / tying** — tie 系、打结：tie your shoes。进行时 tying（先变 y 为 i 再加 -ing）：I am tying my shoes. 对比 die → dying。
 
-- **doesn't / didn't / do** — 不（三单）/ 没有 / 做。搭配：doesn't fit, didn't tear, Do you mind? 例句：It doesn't fit me. / She didn't go shopping. / Do you prefer this? 注意 doesn't 后接动词原形。
+- **do / does / did** — 助动词用于构成疑问句：Do you like...?（you/I/we/they）、Does she like...?（第三人称单数）、Did you buy...?（过去时）。助动词后动词用原形。
 
-- **tight / loose / fit** — 紧 / 松 / 合身。搭配：too tight, too loose, a good fit。例句：These jeans are too tight. / The shirt is loose. / It's a perfect fit. 注意 tight 和 loose 是反义词。
+- **don't / doesn't / didn't** — 否定缩写。don't = do not（I/you/we/they），doesn't = does not（he/she/it），didn't = did not（所有人称的过去时）。✗ She don't like bats 应为 ✓ She doesn't like bats.
 
-- **match / fashionable / costume** — 搭配 / 时尚 / 服装。搭配：match with, fashionable style, a fancy costume。例句：The hat matches the costume. / She's very fashionable. / What a cool costume! 注意 match 可作动词（搭配）。
-
-- **witch / bat / Halloween** — 女巫 / 蝙蝠 / 万圣节。搭配：a scary witch, a bat costume, Halloween night。例句：The witch had a black hat. / I'm going as a bat. / Halloween is fun! 注意这些是万圣节经典元素。
-
-- **tear / torn / tie** — 撕 / 破的 / 系。搭配：tear apart, a torn sleeve, tie up。例句：Be careful not to tear it. / The costume is torn. / Tie the strings together. 注意 torn 是 tear 的过去分词。
-
-- **shop / so that / fashionable** — 购物 / 以便 / 时尚。搭配：shop for clothes, so that + 目的, look fashionable。例句：I need to shop for a costume. / I sewed it so that it would fit. / I want to look fashionable. 注意 shop 可作动词。
+- **so that** — 连词，引导目的状语从句，意为"以便、好让"：Tie the strings so that the hat stays on. 从句中常带 can/could。
 
 ## 练习
 
@@ -61,149 +54,149 @@ so that 表示"以便/为了"。tear → tore → torn 是不规则变化。
 
 <quiz-sentence-builder>
 
-1. **中文**：在万圣节派对上，她扮演了一位身穿巫婆服装的女巫。  
-   **英文**：At the Halloween party, she dressed in a witch costume.
-   > **解析**：Halloween 表示“万圣节”；witch 表示“女巫”；costume 表示“服装/戏服”。
+1. **中文**：你喜欢万圣节吗？
+   **英文**：Do you like Halloween?
+   > **解析**：Do 引导一般疑问句；like 用原形。
 
-2. **中文**：那件黑色的戏服很合身，显得非常时尚。  
-   **英文**：That black costume fits well and looks very fashionable.
-   > **解析**：costume 表示“服装”；fit / fits 表示“合身”；fashionable 表示“时尚的”。
+2. **中文**：她不喜欢蝙蝠。
+   **英文**：She doesn't like bats.
+   > **解析**：第三人称单数否定用 doesn't；like 回到原形，bats 用复数表泛指。
 
-3. **中文**：为了搭配那顶帽子，他系上了一条黑色的领带。  
-   **英文**：To match that hat, he tried tying a dark tie.
-   > **解析**：match 表示“搭配”；tying 表示“系/绑”；tie 表示“领带”。
+3. **中文**：我没买那件服装。
+   **英文**：I didn't buy the costume.
+   > **解析**：didn't 用于过去时否定；buy 用原形。
 
-4. **中文**：不小心把宽松的斗篷撕裂了，戏服破掉了。  
-   **英文**：He accidentally tore his loose cloak, so it was torn.
-   > **解析**：tore 是 tear 的过去式；torn 是 tear 的过去分词，表示“破裂的/撕破的”；loose 表示“宽松的”。
+4. **中文**：这件服装合你身吗？
+   **英文**：Does this costume fit you?
+   > **解析**：Does 引导第三人称单数疑问；fit 用原形。
 
-5. **中文**：这件紧身的服饰太紧了，无法很好地搭配我的鞋。  
-   **英文**：This tight outfit is too tight to match my shoes.
-   > **解析**：tight 表示“紧身的/紧的”；match 表示“搭配”。
+5. **中文**：这条裙子太松了。
+   **英文**：The dress is too loose.
+   > **解析**：loose 作表语；too 修饰形容词表示"太"。
 
-6. **中文**：一只巨大的黑色蝙蝠在商店门口飞来飞去。  
-   **英文**：A big black bat flew near the entrance of the shop.
-   > **解析**：bat 表示“蝙蝠”；shop 表示“商店”。
+6. **中文**：这双鞋很紧。
+   **英文**：These shoes are tight.
+   > **解析**：shoes 复数主语用 are；tight 作表语。
 
-7. **中文**：为了能看清前方的路，女巫点亮了手中的提灯。  
-   **英文**：The witch lit her lantern so that she could see the way.
-   > **解析**：so that 表示“以便于/为了”；witch 表示“女巫”。
+7. **中文**：这些颜色很搭。
+   **英文**：The colors match well.
+   > **解析**：match 作动词"相配"；well 是副词修饰 match。
 
-8. **中文**：在万圣节夜里，到处都能看到扮成蝙蝠和女巫的人。  
-   **英文**：On Halloween night, costumes of bats and witches are everywhere.
-   > **解析**：costume / costumes 表示“服装/装扮”；bat / bats 表示“蝙蝠”。
+8. **中文**：她很时尚。
+   **英文**：She is very fashionable.
+   > **解析**：fashionable 作表语；very 修饰形容词。
 
-9. **中文**：这件夹克的袖子破裂了，需要好好缝补。  
-   **英文**：The sleeve of this jacket is torn and needs fixing.
-   > **解析**：torn 表示“破裂的/撕破的”。
+9. **中文**：他昨天撕破了服装。
+   **英文**：He tore his costume yesterday.
+   > **解析**：tore 是 tear 的过去式；yesterday 提示过去时。
 
-10. **中文**：请帮我系好这套万圣节服装背后的丝带。  
-   **英文**：Please help me by tying the ribbon of my costume.
-   > **解析**：tying 表示“系/绑”；costume 表示“服装”。
+10. **中文**：我的服装破了。
+   **英文**：My costume is torn.
+   > **解析**：torn 是过去分词，与 is 构成状态描述。
 
-11. **中文**：万圣节是孩子们最喜欢的节日之一。  
-   **英文**：Halloween is one of the most popular holidays for kids.
-   > **解析**：Halloween 表示“万圣节”。
+11. **中文**：我正在系鞋带。
+   **英文**：I am tying my shoes.
+   > **解析**：am tying 是现在进行时；tie 变 tying。
 
-12. **中文**：那只黑色的蝙蝠在夜空中静静地飞过。  
-   **英文**：That black bat flew quietly across the dark night sky.
-   > **解析**：bat 表示“蝙蝠”。
+12. **中文**：系好绳子，好让帽子不掉。
+   **英文**：Tie the strings so that the hat stays on.
+   > **解析**：Tie 构成祈使句；so that 引导目的状语从句。
 
-13. **中文**：孩子们身穿各种奇特搞笑的万圣节服装。  
-   **英文**：Children wore funny costumes to ask for candies.
-   > **解析**：costumes / costume 表示“戏服/服饰”。
+13. **中文**：她每周都去服装店购物。
+   **英文**：She shops at the costume shop every week.
+   > **解析**：shops 是动词第三人称单数；at the costume shop 是地点状语。
 
-14. **中文**：这身时尚的打扮让你在人群中脱颖而出。  
-   **英文**：This fashionable look makes you stand out in the crowd.
-   > **解析**：fashionable 表示“时尚的/流行的”。
+14. **中文**：我们昨晚没看到女巫。
+   **英文**：We didn't see the witch last night.
+   > **解析**：didn't 后接动词原形 see；last night 是时间状语。
 
-15. **中文**：这双鞋子穿起来非常合身舒适。  
-   **英文**：These shoes fit my feet very well for walking.
-   > **解析**：fit 表示“合身/合适”。
+15. **中文**：她喜欢你的服装吗？
+   **英文**：Does she like your costume?
+   > **解析**：Does 引导第三人称单数疑问；like 用原形。
 
-16. **中文**：宽松的衣服穿在身上感觉非常透气舒适。  
-   **英文**：Loose clothes feel very comfortable in hot summer.
-   > **解析**：loose 表示“宽松的”。
+16. **中文**：他们不想要女巫服装。
+   **英文**：They don't want a witch costume.
+   > **解析**：They 复数主语用 don't；want 用原形。
 
-17. **中文**：她的黑礼帽和她的黑裙子搭配得非常完美。  
-   **英文**：Her black hat matches her long dress perfectly.
-   > **解析**：matches / match 表示“搭配/相匹配”。
+17. **中文**：你昨天买了服装吗？
+   **英文**：Did you buy the costume yesterday?
+   > **解析**：Did 引导过去时疑问；buy 用原形。
 
-18. **中文**：他不小心撕裂了手里的那张重要纸张。  
-   **英文**：He accidentally tore the piece of paper in his hand.
-   > **解析**：tore 表示“撕裂了（tear的过去式）”。
+18. **中文**：这顶帽子不配我的裙子。
+   **英文**：This hat doesn't match my dress.
+   > **解析**：doesn't 用于第三人称单数否定；match 用原形。
 
-19. **中文**：他在去派对前仔细地系好了黑色的领带。  
-   **英文**：He tied his black tie before going to the party.
-   > **解析**：tie 表示“领带”。
+19. **中文**：万圣节在十月三十一日。
+   **英文**：Halloween is on October 31.
+   > **解析**：具体日期前用介词 on；is 与单数主语搭配。
 
-20. **中文**：紧身牛仔裤展现出了良好的身材线条。  
-   **英文**：Tight jeans show off a fine shape when walking.
-   > **解析**：tight 表示“紧身的”。
+20. **中文**：蝙蝠在夜里飞。
+   **英文**：The bat flew at night.
+   > **解析**：flew 是 fly 的过去式；at night 是时间状语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the Halloween party, she dressed in a witch costume.
-   > **中文**：在万圣节派对上，她扮演了一位身穿巫婆服装的女巫。
+1. Do you like Halloween?
+   > **中文**：你喜欢万圣节吗？
 
-2. That black costume fits well and looks very fashionable.
-   > **中文**：那件黑色的戏服很合身，显得非常时尚。
+2. She doesn't like bats.
+   > **中文**：她不喜欢蝙蝠。
 
-3. To match that hat, he tried tying a dark tie.
-   > **中文**：为了搭配那顶帽子，他系上了一条黑色的领带。
+3. I didn't buy the costume.
+   > **中文**：我没买那件服装。
 
-4. He accidentally tore his loose cloak, so it was torn.
-   > **中文**：不小心把宽松的斗篷撕裂了，戏服破掉了。
+4. Does this costume fit you?
+   > **中文**：这件服装合你身吗？
 
-5. This tight outfit is too tight to match my shoes.
-   > **中文**：这件紧身的服饰太紧了，无法很好地搭配我的鞋。
+5. The dress is too loose.
+   > **中文**：这条裙子太松了。
 
-6. A big black bat flew near the entrance of the shop.
-   > **中文**：一只巨大的黑色蝙蝠在商店门口飞来飞去。
+6. These shoes are very tight.
+   > **中文**：这双鞋很紧。
 
-7. The witch lit her lantern so that she could see the way.
-   > **中文**：为了能看清前方的路，女巫点亮了手中的提灯。
+7. The colors match well.
+   > **中文**：这些颜色很搭。
 
-8. On Halloween night, costumes of bats and witches are everywhere.
-   > **中文**：在万圣节夜里，到处都能看到扮成蝙蝠和女巫的人。
+8. She is very fashionable.
+   > **中文**：她很时尚。
 
-9. The sleeve of this jacket is torn and needs fixing.
-   > **中文**：这件夹克的袖子破裂了，需要好好缝补。
+9. He tore his costume yesterday.
+   > **中文**：他昨天撕破了服装。
 
-10. Please help me by tying the ribbon of my costume.
-   > **中文**：请帮我系好这套万圣节服装背后的丝带。
+10. My costume is torn.
+   > **中文**：我的服装破了。
 
-11. Halloween is one of the most popular holidays for kids.
-   > **中文**：万圣节是孩子们最喜欢的节日之一。
+11. I am tying my shoes.
+   > **中文**：我正在系鞋带。
 
-12. That black bat flew quietly across the dark night sky.
-   > **中文**：那只黑色的蝙蝠在夜空中静静地飞过。
+12. Tie the strings so that the hat stays on.
+   > **中文**：系好绳子，好让帽子不掉。
 
-13. Children wore funny costumes to ask for candies.
-   > **中文**：孩子们身穿各种奇特搞笑的万圣节服装。
+13. She shops at the costume shop.
+   > **中文**：她去服装店购物。
 
-14. This fashionable look makes you stand out in the crowd.
-   > **中文**：这身时尚的打扮让你在人群中脱颖而出。
+14. We didn't see the witch last night.
+   > **中文**：我们昨晚没看到女巫。
 
-15. These shoes fit my feet very well for walking.
-   > **中文**：这双鞋子穿起来非常合身舒适。
+15. Does she like your costume?
+   > **中文**：她喜欢你的服装吗？
 
-16. Loose clothes feel very comfortable in hot summer.
-   > **中文**：宽松的衣服穿在身上感觉非常透气舒适。
+16. They don't want a witch costume.
+   > **中文**：他们不想要女巫服装。
 
-17. Her black hat matches her long dress perfectly.
-   > **中文**：她的黑礼帽和她的黑裙子搭配得非常完美。
+17. Did you buy the costume yesterday?
+   > **中文**：你昨天买了服装吗？
 
-18. He accidentally tore the piece of paper in his hand.
-   > **中文**：他不小心撕裂了手里的那张重要纸张。
+18. This hat doesn't match my dress.
+   > **中文**：这顶帽子不配我的裙子。
 
-19. He tied his black tie before going to the party.
-   > **中文**：他在去派对前仔细地系好了黑色的领带。
+19. Halloween is on October 31.
+   > **中文**：万圣节在十月三十一日。
 
-20. Tight jeans show off a fine shape when walking.
-   > **中文**：紧身牛仔裤展现出了良好的身材线条。
+20. The bat flew at night.
+   > **中文**：蝙蝠在夜里飞。
 
 </quiz-listening>
 
@@ -213,24 +206,33 @@ so that 表示"以便/为了"。tear → tore → torn 是不规则变化。
 | --- | --- |
 | Halloween | 万圣节 |
 | bat | 蝙蝠 |
-| costume | 戏服 / 服装 |
+| costume | 服装 / 戏服 |
+| did | （助动词，过去时） |
+| didn't | 没有（did not） |
+| do | （助动词）/ 做 |
+| does | （助动词，三单） |
+| doesn't | 不（does not） |
+| don't | 不（do not） |
 | fashionable | 时尚的 |
-| fit | 合身 / 合适 |
+| fit | 合身 |
 | loose | 宽松的 |
 | match | 搭配 / 相配 |
 | shop | 商店 / 购物 |
-| so that | 以便于 / 为了 |
-| tear | 撕裂 / 眼泪 |
-| tie | 领带 / 系 |
-| tight | 紧身的 / 紧的 |
-| tore | 撕裂了（tear的过去式） |
-| torn | 破裂的 / 撕破的 |
-| tying | 系 / 绑（tie的现在分词） |
+| so that | 以便 / 好让 |
+| tear | 撕破 |
+| tie | 系 / 打结 |
+| tight | 紧的 |
+| tore | 撕破过（tear 的过去式） |
+| torn | 破了的（tear 的过去分词） |
+| tying | 正在系（tie 的进行时） |
 | witch | 女巫 |
-| did | 做了 |
-| didn't | 没有 |
-| do | 做 |
-| does | 做（第三人称单数） |
+| is | 是（单数） |
+| are | 是（复数） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| you | 你 / 你们 |
+| my | 我的 |
+| very | 非常 |
 
 </quiz-matching>
 
@@ -238,202 +240,202 @@ so that 表示"以便/为了"。tear → tore → torn 是不规则变化。
 
 ### 1
 
-At the ____ party, she dressed in a witch costume.
+The ____ flew at night.
 
-- [x] Halloween
-- [ ] bat
-- [ ] costume
+- [x] bat
+- [ ] shop
+- [ ] tie
 
-> **解析**：**Halloween** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：会飞的是 bat"蝙蝠"；shop 和 tie 语义不符。
 
 ### 2
 
-That black ____ fits well and looks very fashionable.
+She wore a witch ____.
 
 - [x] costume
-- [ ] Halloween
-- [ ] bat
+- [ ] costumes
+- [ ] costumed
 
-> **解析**：**costume** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后接单数名词 costume；后两项分别是复数和动词形式。
 
 ### 3
 
-To ____ that hat, he tried tying a dark tie.
+____ is on October 31.
 
-- [x] match
-- [ ] Halloween
-- [ ] bat
+- [x] Halloween
+- [ ] Match
+- [ ] Loose
 
-> **解析**：**match** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：在 10 月 31 日的是 Halloween"万圣节"；后两项不是节日。
 
 ### 4
 
-He accidentally ____ his loose cloak, so it was torn.
+The costume is too ____.
 
-- [x] tore
-- [ ] Halloween
-- [ ] bat
+- [x] loose
+- [ ] loosen
+- [ ] loosely
 
-> **解析**：**tore** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 loose"宽松的"；loosen 是动词，loosely 是副词。
 
 ### 5
 
-This ____ outfit is too tight to match my shoes.
+These shoes are very ____.
 
 - [x] tight
-- [ ] Halloween
-- [ ] bat
+- [ ] tearing
+- [ ] tying
 
-> **解析**：**tight** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：描述鞋子"紧"用 tight；后两项是动词分词，语义不符。
 
 ### 6
 
-A big black ____ flew near the entrance of the shop.
+Does this dress ____ you?
 
-- [x] bat
-- [ ] Halloween
-- [ ] costume
+- [x] fit
+- [ ] fits
+- [ ] fitted
 
-> **解析**：**bat** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Does 后动词用原形 fit；fits 和 fitted 都是变形。
 
 ### 7
 
-The ____ lit her lantern so that she could see the way.
+The colors ____ well together.
 
-- [x] witch
-- [ ] Halloween
-- [ ] bat
+- [x] match
+- [ ] matches
+- [ ] matching
 
-> **解析**：**witch** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：colors 复数主语用 match 原形；matches 是三单形式。
 
 ### 8
 
-On ____ night, costumes of bats and witches are everywhere.
+She looks very ____ in that dress.
 
-- [x] Halloween
-- [ ] bat
-- [ ] costume
+- [x] fashionable
+- [ ] fashion
+- [ ] fashions
 
-> **解析**：**Halloween** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：very 后需要形容词 fashionable；后两项是名词。
 
 ### 9
 
-The sleeve of this jacket is ____ and needs fixing.
+He ____ his costume yesterday.
 
-- [x] torn
-- [ ] Halloween
-- [ ] bat
+- [x] tore
+- [ ] torn
+- [ ] tears
 
-> **解析**：**torn** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 用过去式 tore；torn 是过去分词，tears 是三单。
 
 ### 10
 
-Please help me by ____ the ribbon of my costume.
+My costume is ____.
 
-- [x] tying
-- [ ] Halloween
-- [ ] bat
+- [x] torn
+- [ ] tore
+- [ ] tear
 
-> **解析**：**tying** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：is 后用过去分词 torn 表示"破了"的状态；tore 是过去式。
 
 ### 11
 
-____ is one of the most popular holidays for kids.
+I am ____ my shoes right now.
 
-- [x] Halloween
-- [ ] bat
-- [ ] costume
+- [x] tying
+- [ ] tie
+- [ ] ties
 
-> **解析**：**Halloween** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：am 后用进行时 tying（tie → tying）；后两项不构成进行时。
 
 ### 12
 
-That black ____ flew quietly across the dark night sky.
+____ the strings so that the hat stays on.
 
-- [x] bat
-- [ ] Halloween
-- [ ] costume
+- [x] Tie
+- [ ] Tore
+- [ ] Torn
 
-> **解析**：**bat** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Tie"系"；Tore 是过去式，Torn 是分词。
 
 ### 13
 
-____ wore funny costumes to ask for candies.
+She saved money ____ she could buy a costume.
 
-- [x] Children
-- [ ] Halloween
-- [ ] bat
+- [x] so that
+- [ ] such as
+- [ ] as well as
 
-> **解析**：**Children** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：so that 引导目的从句"以便"；such as 举例，as well as 表并列。
 
 ### 14
 
-This ____ look makes you stand out in the crowd.
+We ____ see the witch last night.
 
-- [x] fashionable
-- [ ] Halloween
-- [ ] bat
+- [x] didn't
+- [ ] doesn't
+- [ ] don't
 
-> **解析**：**fashionable** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：last night 用过去时否定 didn't；后两项是现在时。
 
 ### 15
 
-These shoes ____ my feet very well for walking.
+She ____ at the costume shop every week.
 
-- [x] fit
-- [ ] Halloween
-- [ ] bat
+- [x] shops
+- [ ] shop
+- [ ] shopping
 
-> **解析**：**fit** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：She 三单主语用 shops；shopping 单独不能作谓语。
 
 ### 16
 
-____ clothes feel very comfortable in hot summer.
+This hat doesn't ____ my dress.
 
-- [x] Loose
-- [ ] Halloween
-- [ ] bat
+- [x] match
+- [ ] matches
+- [ ] matching
 
-> **解析**：**Loose** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：doesn't 后动词用原形 match；matches 是三单形式。
 
 ### 17
 
-Her black hat matches her long dress ____.
+These pants are too ____ for me. I need a bigger size.
 
-- [x] perfectly
-- [ ] Halloween
-- [ ] bat
+- [x] tight
+- [ ] loose
+- [ ] fashionable
 
-> **解析**：**perfectly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：后句说要更大尺码，说明裤子"太紧"用 tight；loose 与语境相反，fashionable 不合逻辑。
 
 ### 18
 
-He accidentally ____ the piece of paper in his hand.
+____ she like your costume?
 
-- [x] tore
-- [ ] Halloween
-- [ ] bat
+- [x] Does
+- [ ] Do
+- [ ] Don't
 
-> **解析**：**tore** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：she 三单疑问用 Does；Do 和 Don't 都不与 she 搭配。
 
 ### 19
 
-He tied his black ____ before going to the party.
+They ____ want a witch costume.
 
-- [x] tie
-- [ ] Halloween
-- [ ] bat
+- [x] don't
+- [ ] doesn't
+- [ ] does
 
-> **解析**：**tie** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：They 复数主语用 don't；doesn't 和 does 用于三单。
 
 ### 20
 
-____ jeans show off a fine shape when walking.
+____ you buy the costume yesterday?
 
-- [x] Tight
-- [ ] Halloween
-- [ ] bat
+- [x] Did
+- [ ] Do
+- [ ] Does
 
-> **解析**：**Tight** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 用过去时助动词 Did；后两项是现在时。
 
 </quiz-cloze>

@@ -173,23 +173,24 @@ function validateUnit(filename, source) {
   if (builderItems.length !== 20 || builderItems.some(item => !item.english || !item.chinese)) {
     errors.push(`${filename}:${builder?.line || 1} Sentence Builder 必须正好 20 题且每题有中英文`)
   }
-  if (builderItems.some(item => !listening.some(listeningItem => normalizeSentence(listeningItem.english) === normalizeSentence(item.english)))) {
-    errors.push(`${filename}:${builder?.line || 1} Sentence Builder 必须复用 Listening 句子`)
+  if (new Set(builderItems.map(item => normalizeSentence(item.english))).size !== builderItems.length) {
+    errors.push(`${filename}:${builder?.line || 1} Sentence Builder 英文句子不能重复`)
   }
 
   const cloze = blocks.find(block => block.name === 'quiz-cloze')
   const clozeItems = parseCloze(cloze?.body || '')
   if (clozeItems.length !== 20) errors.push(`${filename}:${cloze?.line || 1} Cloze 必须正好 20 题`)
+  const clozeCompleted = []
   for (const item of clozeItems) {
     if ((item.prompt.match(/____/g) || []).length !== 1) errors.push(`${filename}:${cloze?.line || 1} Cloze 每题必须正好一个空位`)
     if (item.options.length !== 3 || item.options.filter(option => option.correct).length !== 1) {
       errors.push(`${filename}:${cloze?.line || 1} Cloze 每题必须三个选项且只有一个正确项`)
     }
     const correct = item.options.find(option => option.correct)?.text || ''
-    const completed = item.prompt.replace(/`?____`?/, correct)
-    if (correct && !listening.some(listeningItem => normalizeSentence(listeningItem.english) === normalizeSentence(completed))) {
-      errors.push(`${filename}:${cloze?.line || 1} Cloze 补全后必须匹配 Listening 句子`)
-    }
+    if (correct) clozeCompleted.push(normalizeSentence(item.prompt.replace(/`?____`?/, correct)))
+  }
+  if (new Set(clozeCompleted).size !== clozeCompleted.length) {
+    errors.push(`${filename}:${cloze?.line || 1} Cloze 补全后的句子不能重复`)
   }
 
   const coveredWords = new Set()

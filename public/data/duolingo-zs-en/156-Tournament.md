@@ -10,40 +10,33 @@ ask, at least, athlete, beat, champion, cheer for, coach, compete, go, goal, liv
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"询问最喜欢的队伍"展开，以体育比赛为场景。核心是体育和比赛表达：Which team do you root for in the tournament?（你在锦标赛中支持哪支队？）、Our team beat them 3-2—at least we scored more points than last time.（我们队3比2赢了他们——至少我们比上次得了更多分。）、The athlete competed in the Olympics and became a champion.（那位运动员参加了奥运会，成了冠军。）、The coach told us to cheer for our team and stand up!（教练让我们为队伍加油，站起来！）。
+本单元的主题是"聊比赛、问最喜欢的队伍"。词表分成三组：赛事与人（tournament, olympics, world cup, athlete, coach, champion）、比赛动作与结果（compete, beat, score, goal, point, tie, live, rule）、以及加油与询问的表达（cheer for, root for, ask, tell, go, stand up, than, at least）。拼起来就是球迷的日常：Who do you cheer for? Our team beat them, and the fans stood up and cheered.
 
-词表里有体育词汇（tournament, champion, Olympics, World Cup）和比赛动作（compete, beat, score, tie）。你可以练习：The game is live. / What's the score? / It's a tie! / At least we tried.
+语法主线有三条。第一是 beat 与 score 的分工：beat 的宾语是"对手"（beat them），score 的宾语是"分数、进球"（score a goal, score points）。第二是 cheer for 与 root for——两者都是"为……加油、支持"，root for 更口语、更美式。第三是 than 引出的比较结构：Our team is faster than theirs. 此外，at least 表示"至少"，常用来给出下限：They scored at least three points.
 
-root for / cheer for = 支持/加油。than 用于比较。
+学完本单元，你能用英语询问别人支持哪支队伍、描述比赛过程与结果，并为喜欢的队伍呐喊助威。
 
 ## Tips
 
-- **tournament / champion / Olympics** — 锦标赛 / 冠军 / 奥运会。搭配：a tennis tournament, the world champion, the Olympics。例句：The tournament starts next week. / She's the champion! / I watched the Olympics on TV. 注意 tournament 是淘汰赛制。
+- **tournament / olympics / world cup** — 三大赛事词。tournament 是"锦标赛、联赛"，多支队伍逐轮角逐。olympics 是"奥运会"，常与 the 连用且按复数处理：The Olympics are every four years. world cup 是"世界杯"：The World Cup is huge.
 
-- **root for / cheer for / beat** — 支持 / 加油 / 打败。搭配：root for a team, cheer for sb, beat the opponent。例句：I root for the home team. / Let's cheer for our players! / We beat them 2-0. 注意 root for = cheer for（美式更常用 root for）。
+- **athlete / coach / champion** — 三个身份词。athlete 是"运动员"；coach 是"教练"，动词义为"训练"；champion 是"冠军"，夺冠可说 become the champion。
 
-- **score / point / tie** — 得分 / 分 / 平局。搭配：score a goal, get points, end in a tie。例句：He scored in the last minute. / We need more points. / The game ended in a tie. 注意 tie = draw（平局）。
+- **compete / beat** — compete 是"参赛、竞争"，常接 in：compete in a tournament。beat 是"击败"，宾语是对手：Our team beat them. 注意 ✗ beat the game → ✓ win the game，beat 后接的是人或队伍。
 
-- **athlete / coach / compete** — 运动员 / 教练 / 比赛。搭配：a professional athlete, the head coach, compete in。例句：She's a talented athlete. / The coach gave a speech. / They compete internationally. 注意 compete in + 比赛项目。
+- **score / goal / point / tie** — score 作动词是"得分、进球"：He scored two goals. goal 是"进球、目标"，point 是"分"。tie 是"平局"：The game ended in a tie.
 
-- **World Cup / live / goal** — 世界杯 / 直播 / 进球。搭配：the World Cup, watch live, score a goal。例句：The World Cup is every four years. / The match is live tonight. / What a goal! 注意 live 作形容词读 /laɪv/。
+- **cheer for / root for** — 都是"为……加油"。cheer for 较通用：Who do you cheer for? root for 更口语化，美式英语常见：I root for the home team. 注意介词都用 for。
 
-- **at least / than / go** — 至少 / 比 / 去。搭配：at least one, more than, go to the game。例句：At least we didn't lose. / They scored more than us. / Let's go to the stadium. 注意 at least 用于安慰或强调最低限度。
+- **rule / live** — rule 是"规则"：Follow the rules. live 读 /laɪv/ 时表示"直播的、现场的"：I watched the game live. 读 /lɪv/ 时是动词"生活"，注意区分。
 
-- **ask / tell / stand up** — 问 / 告诉 / 站起来。搭配：ask a question, tell sb about, stand up for。例句：Can I ask who's playing? / Tell me the score! / Everyone stood up to cheer. 注意 stand up 可指"站起来"也可指"挺身而出"。
+- **ask / tell** — 一对高频动词。ask 是"问、请求"：Ask the coach about the rules. tell 是"告诉"，常接双宾语：Tell me the score. 区别：ask 重在索取信息，tell 重在传递信息。
 
-- **rule / compete / champion** — 规则 / 比赛 / 冠军。搭配：follow the rules, compete against, become champion。例句：What are the rules? / They compete against the best. / He became champion at 20. 注意 rule 可作动词（统治）和名词（规则）。
+- **than** — 比较级搭档，"比"：faster than, better than。注意和 then（然后）区分：✗ more faster then → ✓ faster than。
 
-- **beat / score / point** — 打败 / 得分 / 分数。搭配：beat a team, score points, the final point。例句：We beat the champions! / She scored 30 points. / Match point! 注意 beat → beat → beaten。
-
-- **cheer for / root for / tournament** — 加油 / 支持 / 锦标赛。搭配：cheer for your team, root for the underdog, enter a tournament。例句：The crowd cheered for the home team. / I always root for the underdog. / They entered the tournament. 注意 underdog = 不被看好的一方。
-
-- **Olympics / World Cup / athlete** — 奥运 / 世界杯 / 运动员。搭配：the Summer Olympics, the FIFA World Cup, a star athlete。例句：The Olympics bring nations together. / The World Cup is huge. / She's a star athlete. 注意 Olympics 前加 the。
-
-- **tie / at least / live** — 平局 / 至少 / 直播。搭配：end in a tie, at least a point, broadcast live。例句：It was a 1-1 tie. / At least we got a point. / The final is live on TV. 注意 live broadcast = 现场直播。
+- **at least / go / stand up** — at least 是"至少"：at least two points。go 可表"去参加"：Let's go to the game. stand up 是"站起来"，球迷激动时的动作：The fans stood up.
 
 ## 练习
 
@@ -61,149 +54,149 @@ root for / cheer for = 支持/加油。than 用于比较。
 
 <quiz-sentence-builder>
 
-1. **中文**：每位运动员都为这场国际比赛刻苦训练。
-   **英文**：Every athlete trained hard for the international competition.
-   > **解析**：athlete 表示“运动员”；competition 意为“比赛”。
+1. **中文**：你为哪支队伍加油？
+   **英文**：Who do you cheer for?
+   > **解析**：who 引导特殊疑问句，cheer for 是固定搭配；介词 for 放在句末是口语常见形式。
 
-2. **中文**：我们的篮球队在最后一节成功击败了对方防线。
-   **英文**：Our basketball team managed to beat the defense in the final quarter.
-   > **解析**：beat 表示“击败/胜过”；quarter 意为“一节/一季度”。
+2. **中文**：我支持主队。
+   **英文**：I root for the home team.
+   > **解析**：root for 是"支持、为……加油"；the home team 指主场队伍。
 
-3. **中文**：网球冠军骄傲地举起了奖杯。
-   **英文**：The tennis champion held up the trophy with pride.
-   > **解析**：champion 表示“冠军”；trophy 意为“奖杯”。
+3. **中文**：我们队三比一击败了他们。
+   **英文**：Our team beat them three to one.
+   > **解析**：beat 的宾语是对手 them；three to one 是比分表达。
 
-4. **中文**：球迷们聚集在体育酒吧为他们的家乡球队加油。
-   **英文**：Fans gathered in the sports bar to cheer for their hometown team.
-   > **解析**：cheer for 表示“为……加油/喝彩”。
+4. **中文**：她是一名优秀的运动员。
+   **英文**：She is a great athlete.
+   > **解析**：a great athlete 作表语；athlete 是可数名词单数，前加 a。
 
-5. **中文**：经验丰富的教练在比赛前给球队做了动员讲话。
-   **英文**：The experienced coach gave the team a pep talk before the match.
-   > **解析**：coach 表示“教练”；pep talk 意为“鼓舞士气的讲话”。
+5. **中文**：教练让我们站起来。
+   **英文**：The coach told us to stand up.
+   > **解析**：tell sb. to do sth. 是"让某人做某事"；to stand up 是不定式作宾补。
 
-6. **中文**：来自五十个国家的运动员前来参加比赛。
-   **英文**：Athletes from fifty nations came to compete in the games.
-   > **解析**：compete 表示“竞争/比赛”；compete in 意为“参加……比赛”。
+6. **中文**：我们下周参加一场锦标赛。
+   **英文**：We compete in a tournament next week.
+   > **解析**：compete in 是"参加……比赛"；next week 表示将来，用一般现在时表计划。
 
-7. **中文**：他在比赛最后一分钟踢进了一个精彩的进球。
-   **英文**：He scored a brilliant goal in the last minute of the game.
-   > **解析**：goal 表示“进球/得分”；score a goal 意为“进球得分”。
+7. **中文**：他进了两个球。
+   **英文**：He scored two goals.
+   > **解析**：scored 是 score 的过去式；two goals 作宾语，goal 加 s 变复数。
 
-8. **中文**：数以百万计的球迷在电视上观看冠军赛现场直播。
-   **英文**：Millions of fans watched the championship game live on television.
-   > **解析**：live 表示“现场直播地/实况地”。
+8. **中文**：比赛以平局结束。
+   **英文**：The game ended in a tie.
+   > **解析**：end in 表示"以……告终"；a tie 指平局。
 
-9. **中文**：在奥运会上获得金牌是她的终极目标。
-   **英文**：Winning a gold medal at the Olympics was her ultimate goal.
-   > **解析**：Olympics 表示“奥运会”；gold medal 意为“金牌”。
+9. **中文**：现在比分是多少？
+   **英文**：What is the score?
+   > **解析**：what 引导特殊疑问句；score 作名词指比分。
 
-10. **中文**：每队因本场比赛打平而各得一分。
-   **英文**：Each team earned one point for the draw in the match.
-   > **解析**：point 表示“得分/分数”；draw 意为“平局”。
+10. **中文**：遵守规则。
+   **英文**：Follow the rules.
+   > **解析**：祈使句用动词原形 follow；rules 用复数表泛指。
 
-11. **中文**：在这个赛季中你通常支持哪支足球俱乐部？
-   **英文**：Which soccer club do you usually root for during the season?
-   > **解析**：root for 表示“支持/为……加油”。
+11. **中文**：奥运会每四年举办一次。
+   **英文**：The Olympics are every four years.
+   > **解析**：the Olympics 按复数处理，搭配 are；every four years 是频率状语。
 
-12. **中文**：你必须遵守体育委员会制定的每一条规则。
-   **英文**：You must follow every rule established by the sports board.
-   > **解析**：rule 表示“规则/规定”；follow a rule 意为“遵守规则”。
+12. **中文**：世界杯非常盛大。
+   **英文**：The World Cup is huge.
+   > **解析**：the World Cup 作单数主语，搭配 is；huge 作表语。
 
-13. **中文**：曲棍球比赛的最终比分是三比二。
-   **英文**：The final score of the hockey game was three to two.
-   > **解析**：score 表示“比分/分数”；final score 意为“最终比分”。
+13. **中文**：她是本届锦标赛的冠军。
+   **英文**：She is the champion of the tournament.
+   > **解析**：of the tournament 作后置定语，说明是哪项赛事的冠军。
 
-14. **中文**：当球队进入球场时，球迷们起立鼓掌。
-   **英文**：The fans stood up and applauded when the team entered the field.
-   > **解析**：stood up 表示“起立/站起来”；applauded 意为“鼓掌”。
+14. **中文**：我看了现场直播的比赛。
+   **英文**：I watched the game live.
+   > **解析**：live 作副词表示"以直播方式"，修饰 watched。
 
-15. **中文**：足球比赛在加时赛后以平局告终。
-   **英文**：The football match ended in a tie after extra time.
-   > **解析**：tie 表示“平局/不分胜负”；extra time 意为“加时赛”。
+15. **中文**：他们至少得了三分。
+   **英文**：They scored at least three points.
+   > **解析**：at least 修饰数量，表示"至少"；points 是复数。
 
-16. **中文**：我们学校的球队获得了州篮球锦标赛的资格。
-   **英文**：Our school team qualified for the state basketball tournament.
-   > **解析**：tournament 表示“锦标赛/联赛”。
+16. **中文**：我的队伍比你们的快。
+   **英文**：My team is faster than yours.
+   > **解析**：faster 是比较级，than 引出比较对象；yours 是名词性物主代词，等于 your team。
 
-17. **中文**：全世界的足球迷都在翘首以盼下一届世界杯。
-   **英文**：Football fans around the world eagerly await the next World Cup.
-   > **解析**：World Cup 表示“世界杯”。
+17. **中文**：去问问教练规则。
+   **英文**：Ask the coach about the rules.
+   > **解析**：祈使句以 ask 开头；ask sb. about sth. 是"向某人询问某事"。
 
-18. **中文**：你至少需要五名球员才能开始一场篮球比赛。
-   **英文**：You need at least five players to start a basketball game.
-   > **解析**：at least 表示“至少”；players 意为“球员”。
+18. **中文**：告诉我比分。
+   **英文**：Tell me the score.
+   > **解析**：tell 接双宾语，me 是间接宾语，the score 是直接宾语。
 
-19. **中文**：她在跑道上比主要竞争对手跑得快得多。
-   **英文**：She ran much faster than her main rival on the track.
-   > **解析**：than 用于比较级“比……”；rival 意为“对手”。
+19. **中文**：进球时球迷们站了起来。
+   **英文**：The fans stood up when the goal came.
+   > **解析**：stood 是 stand 的过去式；when 引导时间状语从句。
 
-20. **中文**：毫不犹豫地向裁判询问澄清。
-   **英文**：Don't hesitate to ask the referee for clarification.
-   > **解析**：ask 表示“询问/请求”；referee 意为“裁判”。
+20. **中文**：我们去看锦标赛吧。
+   **英文**：Let's go watch the tournament.
+   > **解析**：let's 后接动词原形；go watch 是口语中的连动结构。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Every athlete trained hard for the international competition.
-   > **中文**：每位运动员都为这场国际比赛刻苦训练。
+1. Who do you cheer for?
+   > **中文**：你为哪支队伍加油？
 
-2. Our basketball team managed to beat the defense in the final quarter.
-   > **中文**：我们的篮球队在最后一节成功击败了对方防线。
+2. I root for the blue team.
+   > **中文**：我支持蓝队。
 
-3. The tennis champion held up the trophy with pride.
-   > **中文**：网球冠军骄傲地举起了奖杯。
+3. Our team won the tournament.
+   > **中文**：我们队赢了锦标赛。
 
-4. Fans gathered in the sports bar to cheer for their hometown team.
-   > **中文**：球迷们聚集在体育酒吧为他们的家乡球队加油。
+4. She is a fast athlete.
+   > **中文**：她是一名速度很快的运动员。
 
-5. The experienced coach gave the team a pep talk before the match.
-   > **中文**：经验丰富的教练在比赛前给球队做了动员讲话。
+5. The coach is talking to the players.
+   > **中文**：教练正在和队员们讲话。
 
-6. Athletes from fifty nations came to compete in the games.
-   > **中文**：来自五十个国家的运动员前来参加比赛。
+6. We compete every summer.
+   > **中文**：我们每年夏天都参赛。
 
-7. He scored a brilliant goal in the last minute of the game.
-   > **中文**：他在比赛最后一分钟踢进了一个精彩的进球。
+7. He scored the winning goal.
+   > **中文**：他打进了制胜一球。
 
-8. Millions of fans watched the championship game live on television.
-   > **中文**：数以百万计的球迷在电视上观看冠军赛现场直播。
+8. What is the score now?
+   > **中文**：现在比分是多少？
 
-9. Winning a gold medal at the Olympics was her ultimate goal.
-   > **中文**：在奥运会上获得金牌是她的终极目标。
+9. The game ended in a tie.
+   > **中文**：比赛以平局结束。
 
-10. Each team earned one point for the draw in the match.
-   > **中文**：每队因本场比赛打平而各得一分。
+10. Don't break the rules.
+   > **中文**：不要违反规则。
 
-11. Which soccer club do you usually root for during the season?
-   > **中文**：在这个赛季中你通常支持哪支足球俱乐部？
+11. The Olympics start next month.
+   > **中文**：奥运会下个月开始。
 
-12. You must follow every rule established by the sports board.
-   > **中文**：你必须遵守体育委员会制定的每一条规则。
+12. I love the World Cup.
+   > **中文**：我喜爱世界杯。
 
-13. The final score of the hockey game was three to two.
-   > **中文**：曲棍球比赛的最终比分是三比二。
+13. She is our champion.
+   > **中文**：她是我们的冠军。
 
-14. The fans stood up and applauded when the team entered the field.
-   > **中文**：当球队进入球场时，球迷们起立鼓掌。
+14. The match is on live tonight.
+   > **中文**：今晚的比赛是现场直播。
 
-15. The football match ended in a tie after extra time.
-   > **中文**：足球比赛在加时赛后以平局告终。
+15. They scored at least three points.
+   > **中文**：他们至少得了三分。
 
-16. Our school team qualified for the state basketball tournament.
-   > **中文**：我们学校的球队获得了州篮球锦标赛的资格。
+16. Our team is faster than theirs.
+   > **中文**：我们队比他们的快。
 
-17. Football fans around the world eagerly await the next World Cup.
-   > **中文**：全世界的足球迷都在翘首以盼下一届世界杯。
+17. Ask the coach about the rules.
+   > **中文**：去问教练规则的事。
 
-18. You need at least five players to start a basketball game.
-   > **中文**：你至少需要五名球员才能开始一场篮球比赛。
+18. Tell me about the game.
+   > **中文**：给我讲讲这场比赛。
 
-19. She ran much faster than her main rival on the track.
-   > **中文**：她在跑道上比主要竞争对手跑得快得多。
+19. The fans stood up.
+   > **中文**：球迷们站了起来。
 
-20. Don't hesitate to ask the referee for clarification.
-   > **中文**：毫不犹豫地向裁判询问澄清。
+20. Let's go to the game.
+   > **中文**：我们去看比赛吧。
 
 </quiz-listening>
 
@@ -211,26 +204,45 @@ root for / cheer for = 支持/加油。than 用于比较。
 
 | 英文单词 | 课文释义 |
 | --- | --- |
+| ask | 问 / 请求 |
+| at least | 至少 |
 | athlete | 运动员 |
-| beat | 击败 / 胜过 |
+| beat | 击败 |
 | champion | 冠军 |
 | cheer for | 为……加油 |
 | coach | 教练 |
-| compete | 竞争 / 比赛 |
+| compete | 参赛 / 竞争 |
+| go | 去 |
 | goal | 进球 / 目标 |
-| live | 现场直播的 |
-| Olympics | 奥运会 |
-| point | 得分 / 分数 |
+| live | 直播的 / 现场的 |
+| olympics | 奥运会 |
+| point | 分 |
 | root for | 支持 / 为……加油 |
-| rule | 规则 / 规定 |
-| score | 比分 / 得分 |
-| stood up | 起立（stand up的过去式） |
-| tie | 平局 / 打平 |
-| tournament | 锦标赛 / 联赛 |
-| World Cup | 世界杯 |
-| at least | 至少 |
-| than | 比（用于比较） |
-| ask | 询问 / 请求 |
+| rule | 规则 |
+| score | 得分 / 比分 |
+| stand up | 站起来 |
+| tell | 告诉 |
+| than | 比 |
+| tie | 平局 |
+| tournament | 锦标赛 |
+| world cup | 世界杯 |
+| is | 是（单数） |
+| are | 是（复数） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| do | 做 / 助动词 |
+| you | 你 |
+| who | 谁 |
+| what | 什么 |
+| our | 我们的 |
+| them | 他们（宾格） |
+| in | 在……里 |
+| on | 在……上 |
+| don't | 不（否定） |
+| my | 我的 |
+| let's | 让我们 |
+| when | 当……时 |
+| their | 他们的 |
 
 </quiz-matching>
 
@@ -238,202 +250,202 @@ root for / cheer for = 支持/加油。than 用于比较。
 
 ### 1
 
-Every ____ trained hard for the international competition.
+Who do you cheer ____?
 
-- [x] athlete
-- [ ] ask
-- [ ] at least
+- [x] for
+- [ ] at
+- [ ] to
 
-> **解析**：**athlete** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：cheer for 是"为……加油"的固定搭配；at 和 to 不构成该短语。
 
 ### 2
 
-Our basketball team managed to ____ the defense in the final quarter.
+I root ____ the home team.
 
-- [x] beat
-- [ ] ask
-- [ ] at least
+- [x] for
+- [ ] on
+- [ ] with
 
-> **解析**：**beat** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：root for 是"支持"的固定搭配；on 和 with 不符合该短语。
 
 ### 3
 
-The tennis ____ held up the trophy with pride.
+Our team ____ them yesterday.
 
-- [x] champion
-- [ ] ask
-- [ ] at least
+- [x] beat
+- [ ] beats
+- [ ] beaten
 
-> **解析**：**champion** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 提示过去时，beat 的过去式仍为 beat；beats 是三单，beaten 需搭配 have。
 
 ### 4
 
-Fans ____ in the sports bar to cheer for their hometown team.
+She trains hard because she is an ____.
 
-- [x] gathered
-- [ ] ask
-- [ ] at least
+- [x] athlete
+- [ ] goal
+- [ ] live
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **gathered**。
+> **解析**：刻苦训练的人是运动员 athlete；goal 和 live 词义不符。
 
 ### 5
 
-The experienced ____ gave the team a pep talk before the match.
+The ____ told the players to rest.
 
 - [x] coach
-- [ ] ask
-- [ ] at least
+- [ ] point
+- [ ] tie
 
-> **解析**：**coach** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能让队员休息的是教练 coach；point 和 tie 不是人。
 
 ### 6
 
-Athletes from fifty nations came to ____ in the games.
+We will ____ in the tournament next month.
 
 - [x] compete
-- [ ] ask
-- [ ] at least
+- [ ] competes
+- [ ] competing
 
-> **解析**：**compete** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：will 后接动词原形 compete；competes 和 competing 形式错误。
 
 ### 7
 
-He scored a brilliant ____ in the last minute of the game.
+He scored two ____ in the game.
 
-- [x] goal
-- [ ] ask
-- [ ] at least
+- [x] goals
+- [ ] goal
+- [ ] goaled
 
-> **解析**：**goal** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：two 后接复数 goals；goaled 不是正确的动词形式。
 
 ### 8
 
-Millions of fans watched the championship game ____ on television.
+What is the ____?
 
-- [x] live
-- [ ] ask
-- [ ] at least
+- [x] score
+- [ ] cheer
+- [ ] for
 
-> **解析**：**live** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：询问比分用 score；cheer 是动词，for 是介词。
 
 ### 9
 
-Winning a gold medal at the ____ was her ultimate goal.
+The game ended in a ____.
 
-- [x] Olympics
-- [ ] ask
-- [ ] at least
+- [x] tie
+- [ ] point
+- [ ] live
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Olympics**。
+> **解析**：end in a tie 是"以平局结束"；point 和 live 不构成该表达。
 
 ### 10
 
-Each team earned one ____ for the draw in the match.
+Follow the ____.
 
-- [x] point
-- [ ] ask
-- [ ] at least
+- [x] rules
+- [ ] rule
+- [ ] ruling
 
-> **解析**：**point** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：泛指各项规则用复数 rules；rule 是单数，ruling 是"裁决"。
 
 ### 11
 
-Which soccer club do you ____ root for during the season?
+The ____ are every four years.
 
-- [x] usually
-- [ ] ask
-- [ ] at least
+- [x] Olympics
+- [ ] Athlete
+- [ ] Coach
 
-> **解析**：**usually** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：每四年一届的是奥运会 the Olympics，按复数搭配 are；athlete 和 coach 是个体名词。
 
 ### 12
 
-You must follow every ____ established by the sports board.
+She is the ____ of the tournament.
 
-- [x] rule
-- [ ] ask
-- [ ] at least
+- [x] champion
+- [ ] compete
+- [ ] champions
 
-> **解析**：**rule** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the 后接单数名词 champion；compete 是动词，champions 与 the（唯一冠军）不符。
 
 ### 13
 
-The final ____ of the hockey game was three to two.
+I watched the final ____.
 
-- [x] score
-- [ ] ask
-- [ ] at least
+- [x] live
+- [ ] life
+- [ ] lived
 
-> **解析**：**score** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：live 作副词表示"看直播"；life 是名词"生活"，lived 是动词过去式。
 
 ### 14
 
-The fans stood up and ____ when the team entered the field.
+There were at ____ five thousand fans.
 
-- [x] applauded
-- [ ] ask
-- [ ] at least
+- [x] least
+- [ ] few
+- [ ] much
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **applauded**。
+> **解析**：at least 是"至少"的固定搭配；few 和 much 不与 at 构成此短语。
 
 ### 15
 
-The football match ended in a ____ after extra time.
+My team is better ____ yours.
 
-- [x] tie
-- [ ] ask
-- [ ] at least
+- [x] than
+- [ ] then
+- [ ] that
 
-> **解析**：**tie** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：比较级 better 后用 than 引出比较对象；then 是"然后"，that 不能引出比较。
 
 ### 16
 
-Our school team qualified for the state basketball ____.
+____ the coach about the rules.
 
-- [x] tournament
-- [ ] ask
-- [ ] at least
+- [x] Ask
+- [ ] Cheer
+- [ ] Tie
 
-> **解析**：**tournament** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：ask sb. about sth. 是"向某人询问某事"；cheer 和 tie 不能接 about。
 
 ### 17
 
-____ fans around the world eagerly await the next World Cup.
+Can you ____ me the score?
 
-- [x] Football
-- [ ] ask
-- [ ] at least
+- [x] tell
+- [ ] cheer
+- [ ] compete
 
-> **解析**：**Football** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：tell 可接双宾语 tell me the score；cheer 和 compete 不能接双宾语。
 
 ### 18
 
-You need at least five players to start a ____ game.
+The fans ____ up and cheered.
 
-- [x] basketball
-- [ ] ask
-- [ ] at least
+- [x] stood
+- [ ] stands
+- [ ] standing
 
-> **解析**：**basketball** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：与 cheered 并列用过去式 stood；stands 和 standing 时态形式不符。
 
 ### 19
 
-She ran much faster ____ her main rival on the track.
+The team needs one more ____ to win.
 
-- [x] than
-- [ ] ask
-- [ ] at least
+- [x] point
+- [ ] tournament
+- [ ] champion
 
-> **解析**：**than** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：再得一分用 one more point；tournament 和 champion 不能被"再得一个"来获胜。
 
 ### 20
 
-Don't hesitate to ____ the referee for clarification.
+We will cheer ____ our team tomorrow.
 
-- [x] ask
-- [ ] at least
-- [ ] athlete
+- [x] for
+- [ ] at
+- [ ] on
 
-> **解析**：**ask** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：cheer for 是固定搭配；at 和 on 不构成该短语。
 
 </quiz-cloze>

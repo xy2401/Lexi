@@ -10,40 +10,37 @@ billion, bomb, border, cause, common, court, crash, crime, enemy, expect, false,
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"分享对领导人的看法"展开。核心是新闻表达：The headline says the leader was in court today.（头条说领导人今天出庭了。）、The government expects the crime rate to go down.（政府期望犯罪率下降。）、It's on the front page—billions of dollars were stolen!（在头版——数十亿美元被偷了！）、They say the spy crossed the border.（他们说间谍越过了边境。）。
+本单元的主题是"分享对领导人的看法"，词表可以分成三组：新闻要素（headline, front page, billion, crash, bomb, crime, false）、政府与法律（government, leader, court, in court, jail, in jail, spy, enemy, rob, cause）、以及议论与连接（expect, common, though, they, their, border, in exchange for）。拼起来就是新闻讨论：The headline says the leader caused the crash. They expect him in court, though his supporters disagree.
 
-词表里有新闻词汇（headline, front page, government, court）和犯罪词汇（crime, rob, spy, jail）。你可以练习：The bomb caused a crash. / It's a common crime. / The enemy was caught and put in jail. / Though the news is false, they reported it.
+语法主线有两个。一是 though 表示"虽然、不过"，可放句中或句末，比 although 更口语：It's risky, though we still expect change. 二是被动与状态短语 in court（在受审）与 in jail（在坐牢）的区分：jail 是监狱本身，in jail 强调身陷其中的状态。另外 billion 是"十亿"，新闻里常见：a billion dollars。
 
-though 表示"虽然"（放句末更口语）。in jail 表示"在监狱里"。
+学完这单元，你能用英语复述新闻标题、描述案件进展、表达对领导人和政府的看法。
 
 ## Tips
 
-- **headline / front page** — 标题 / 头版。搭配：the headline says, on the front page, a shocking headline。例句：The headline shocked everyone. / It's on the front page. 注意 headline 是新闻大标题。
+- **headline / front page** — headline 新闻标题：a shocking headline。front page 头版：It's on the front page. 动词短语 make headlines（成为头条）。
 
-- **government / leader / court** — 政府 / 领导人 / 法院。搭配：the government said, a world leader, in court。例句：The government made a statement. / The leader was in court. 注意 government 前加 the。
+- **government / leader** — government 政府，常与 the 连用：the government。leader 领导人，来自 lead + -er。评价领导常说 a good leader / a strong leader。
 
-- **crime / rob / jail** — 犯罪 / 抢劫 / 监狱。搭配：commit a crime, rob a bank, in jail, go to jail。例句：Crime is a common problem. / They robbed the bank. / He's in jail. 注意 in jail = 在坐牢（不加 the）。
+- **court / in court / jail / in jail** — court 法庭，in court 表示"出庭受审"：He is in court today. jail 监狱，in jail 表示"在坐牢"：The spy is in jail. 注意 ✗ in the court 更多指物理位置，法律状态习惯说 in court。
 
-- **billion / expect / common** — 十亿 / 期望 / 常见的。搭配：billions of dollars, expect results, a common problem。例句：The project cost billions. / We expect changes. / It's a common crime. 注意 billion = 10亿。
+- **crime / rob / spy / enemy** — crime 犯罪行为，罪犯是 criminal。rob 抢劫：rob a bank（抢银行，宾语是被抢的场所）。spy 间谍。enemy 敌人，反义词 friend。
 
-- **bomb / crash / cause** — 炸弹 / 坠毁 / 原因（导致）。搭配：a bomb exploded, a car crash, cause damage。例句：A bomb caused the crash. / What caused the accident? 注意 cause 既是名词（原因）也是动词（导致）。
+- **bomb / gun / crash** — bomb 炸弹、轰炸。gun 枪。crash 撞击、坠毁，名词动词同形：a plane crash。新闻常用词。
 
-- **spy / enemy / border** — 间谍 / 敌人 / 边境。搭配：a spy, the enemy, cross the border。例句：The spy crossed the border. / The enemy was caught. 注意 spy 可作名词（间谍）也可作动词（窥探）。
+- **cause** — 动词"导致"：The storm caused the crash. 名词"原因"：the cause of the crime。注意与 because 的区别：because 是连词，cause 是动词或名词。
 
-- **in court / in jail / in exchange for** — 出庭 / 坐牢 / 作为交换。搭配：appear in court, put in jail, in exchange for money。例句：He appeared in court. / She's in jail. / He gave information in exchange for freedom. 注意这些是固定搭配。
+- **expect** — 期待、预计：We expect a decision soon. expect someone to do something：They expect the leader to resign.
 
-- **false / though / their** — 虚假的 / 虽然 / 他们的。搭配：false information, though, their leader。例句：The report was false. / It's bad, though. / Their government is new. 注意 though 放句末 = however（口语）。
+- **false / common** — false 假的、错误的：false news。common 常见的、共同的：a common crime。
 
-- **gun / crash / rob** — 枪 / 碰撞 / 抢劫。搭配：a gun, a plane crash, rob a store。例句：The police found a gun. / There was a car crash. / Someone robbed the store. 注意 rob + 地点/人，steal + 物品。
+- **billion** — 十亿，确切数字后用单数：two billion people；泛指用 billions of：billions of dollars。million 百万，同理。
 
-- **they / their / expect** — 他们 / 他们的 / 期望。搭配：they said, their plan, expect to。例句：They reported the news. / Their leader spoke today. / We expect peace. 注意 their 是形容词性物主代词。
+- **though** — "虽然、不过"。作连词相当于 although：Though he is young, he is a leader. 口语中常放句末表示转折：It's hard, though.
 
-- **government / billion / headline** — 政府 / 十亿 / 标题。搭配：the government, billions of, the headline。例句：The government responded. / Billions were lost. / The headline was shocking. 注意 government 通常用单数。
-
-- **court / jail / border** — 法院 / 监狱 / 边境。搭配：in court, in jail, at the border。例句：He's in court today. / She was sent to jail. / They crossed the border illegally. 注意 in court 不加 the（指出庭）。
+- **they / their / border / in exchange for** — they 他们，their 他们的。border 边境、边界。in exchange for"作为……的交换"：He gave information in exchange for freedom.
 
 ## 练习
 
@@ -61,149 +58,149 @@ though 表示"虽然"（放句末更口语）。in jail 表示"在监狱里"。
 
 <quiz-sentence-builder>
 
-1. **中文**：新闻头条在头版报道了政府逮捕间谍的消息。  
-   **英文**：The headline on the front page reported the spy caught by government.
-   > **解析**：front page 表示“头版”；headline 表示“头条”；spy 表示“间谍”；government 表示“政府”。
+1. **中文**：头条说这位领导人辞职了。
+   **英文**：The headline says the leader resigned.
+   > **解析**：says 后接省略 that 的宾语从句；resigned 是从句的过去式谓语。
 
-2. **中文**：那位持枪抢劫银行的罪犯在法庭上接受审判。  
-   **英文**：The criminal who used a gun in bank crime was in court.
-   > **解析**：gun 表示“枪”；crime 表示“罪行/犯罪”；in court 表示“在法庭上/受审”。
+2. **中文**：这条新闻上了头版。
+   **英文**：The news is on the front page.
+   > **解析**：on the front page 是地点短语作表语。
 
-3. **中文**：这起撞车事故造成了数亿美元的损失。  
-   **英文**：This car crash caused billions of dollars in damage.
-   > **解析**：crash 表示“撞车/坠毁”；cause 表示“造成/引起”；billion / billions 表示“十亿/数以亿计”。
+3. **中文**：政府预计会有变化。
+   **英文**：The government expects changes.
+   > **解析**：The government 视为单数整体，expect 加 s；changes 作宾语。
 
-4. **中文**：敌国领导人签署协议以换取边境和平。  
-   **英文**：The enemy leader signed a treaty in exchange for border peace.
-   > **解析**：enemy 表示“敌人/敌方”；leader 表示“领导人”；in exchange for 表示“以换取……”；border 表示“边境”。
+4. **中文**：他今天在出庭受审。
+   **英文**：He is in court today.
+   > **解析**：in court 是固定短语"出庭"，不加 the；today 是时间状语。
 
-5. **中文**：不要传播假的离奇消息，大家都期待真相。  
-   **英文**：Don't spread false news; everyone expects the truth.
-   > **解析**：false 表示“虚假的/假的”；expect 表示“期待/预料”。
+5. **中文**：那个间谍在坐牢。
+   **英文**：The spy is in jail.
+   > **解析**：in jail 表示"在服刑"的状态；is 与单数主语搭配。
 
-6. **中文**：那个试图抢劫商店的匪徒被关在了监狱里。  
-   **英文**：The thief who tried to rob the store is now in jail.
-   > **解析**：rob 表示“抢劫”；jail / in jail 表示“在监狱里/坐牢”。
+6. **中文**：他们抢了那家银行。
+   **英文**：They robbed the bank.
+   > **解析**：robbed 是 rob 的过去式；rob 的宾语是被抢的场所或人。
 
-7. **中文**：炸弹在离边界线很近的地方被排除了。  
-   **英文**：The bomb was cleared near the country border line.
-   > **解析**：bomb 表示“炸弹”；border 表示“边境/边界”。
+7. **中文**：这起犯罪很常见。
+   **英文**：This crime is common.
+   > **解析**：common 作表语，表示"常见的"。
 
-8. **中文**：尽管证据确凿，嫌疑人依然否认犯有罪行。  
-   **英文**：Even though evidence was strong, he denied his crime in court.
-   > **解析**：though / even though 表示“尽管/虽然”；crime 表示“罪行”。
+8. **中文**：假新闻造成了恐慌。
+   **英文**：False news caused panic.
+   > **解析**：caused 是 cause 的过去式；false 修饰 news。
 
-9. **中文**：政府决定采取行动打击常见的违法行为。  
-   **英文**：The government took action to stop common crimes.
-   > **解析**：government 表示“政府”；common 表示“常见的/普遍的”。
+9. **中文**：炸弹在边境附近被发现了。
+   **英文**：The bomb was found near the border.
+   > **解析**：was found 是被动语态；near the border 是地点状语。
 
-10. **中文**：我们预料到新闻媒体会重点报道这次审判。  
-   **英文**：We expect the news media to report this big court trial.
-   > **解析**：expect 表示“预料/期待”。
+10. **中文**：飞机坠毁的原因还不清楚。
+   **英文**：The cause of the crash is not clear.
+   > **解析**：The cause of 表示"……的原因"；is 与单数主语搭配。
 
-11. **中文**：关于那起大案的详细报道占据了报纸头版。  
-   **英文**：The story about the crime took up the front page.
-   > **解析**：front page 表示“头版”。
+11. **中文**：他们用情报换取自由。
+   **英文**：They gave information in exchange for freedom.
+   > **解析**：in exchange for 是固定短语"作为……的交换"。
 
-12. **中文**：罪犯因持枪抢劫被判处在监狱服刑。  
-   **英文**：The robber was put in jail for using a gun.
-   > **解析**：jail 表示“监狱”；gun 表示“枪”。
+12. **中文**：他们的敌人很强。
+   **英文**：Their enemy is strong.
+   > **解析**：Their 修饰 enemy；strong 作表语。
 
-13. **中文**：边界线两侧设立了严格的巡逻关卡。  
-   **英文**：Strict checkpoints were set along the country border.
-   > **解析**：border 表示“边境/边界”。
+13. **中文**：虽然有风险，我们仍期待改变。
+   **英文**：Though it is risky, we expect change.
+   > **解析**：Though 引导让步状语从句；主句 we expect change。
 
-14. **中文**：警方搜查到了敌方间谍潜伏的证据。  
-   **英文**：The police found evidence of the enemy spy in town.
-   > **解析**：spy 表示“间谍”；enemy 表示“敌人”。
+14. **中文**：这个决定花了几十亿。
+   **英文**：The decision cost billions.
+   > **解析**：billions 泛指"几十亿"；cost 过去式与原形同形。
 
-15. **中文**：这场严重车祸造成了道路交通中断。  
-   **英文**：This terrible car crash caused traffic delays.
-   > **解析**：cause / caused 表示“造成/导致”；crash 表示“碰撞/车祸”。
+15. **中文**：预计领导人明天讲话。
+   **英文**：The leader is expected to speak tomorrow.
+   > **解析**：is expected 是被动结构；to speak 是不定式补语。
 
-16. **中文**：国家领导人发表了关于经济繁荣的讲话。  
-   **英文**：The country leader gave a speech about prosperity.
-   > **解析**：leader 表示“领导人/首领”。
+16. **中文**：枪支是一个大问题。
+   **英文**：Guns are a big problem.
+   > **解析**：Guns 复数主语用 are；a big problem 作表语。
 
-17. **中文**：散布虚假信息会引发公众的恐慌。  
-   **英文**：Spreading false information can cause public panic.
-   > **解析**：false 表示“虚假的/假的”。
+17. **中文**：不过，这不是假新闻。
+   **英文**：This is not false news, though.
+   > **解析**：though 放句末表示转折语气"不过"。
 
-18. **中文**：嫌疑人在法庭上为自己作了辩护。  
-   **英文**：The suspect defended himself when he was in court.
-   > **解析**：in court 表示“在法庭上”。
+18. **中文**：他们国家的政府很稳定。
+   **英文**：The government of their country is stable.
+   > **解析**：of their country 修饰 government；stable 作表语。
 
-19. **中文**：公司提供了折扣以换取客户的好评。  
-   **英文**：They offered a discount in exchange for good reviews.
-   > **解析**：in exchange for 表示“以换取”。
+19. **中文**：两国的边境很长。
+   **英文**：The border between the two countries is long.
+   > **解析**：between the two countries 修饰 border；is 与单数主语搭配。
 
-20. **中文**：这起抢劫案涉及到了价值数十亿的财产。  
-   **英文**：This big crime involved assets worth over a billion.
-   > **解析**：billion 表示“十亿”。
+20. **中文**：我们期待更好的领导。
+   **英文**：We expect better leaders.
+   > **解析**：expect 后接宾语 better leaders；better 是 good 的比较级。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The headline on the front page reported the spy caught by government.
-   > **中文**：新闻头条在头版报道了政府逮捕间谍的消息。
+1. The headline says the leader resigned.
+   > **中文**：头条说这位领导人辞职了。
 
-2. The criminal who used a gun in bank crime was in court.
-   > **中文**：那位持枪抢劫银行的罪犯在法庭上接受审判。
+2. The news is on the front page.
+   > **中文**：这条新闻上了头版。
 
-3. This car crash caused billions of dollars in damage.
-   > **中文**：这起撞车事故造成了数亿美元的损失。
+3. The government expects changes.
+   > **中文**：政府预计会有变化。
 
-4. The enemy leader signed a treaty in exchange for border peace.
-   > **中文**：敌国领导人签署协议以换取边境和平。
+4. He is in court today.
+   > **中文**：他今天在出庭受审。
 
-5. Don't spread false news; everyone expects the truth.
-   > **中文**：不要传播假的离奇消息，大家都期待真相。
+5. The spy is in jail.
+   > **中文**：那个间谍在坐牢。
 
-6. The thief who tried to rob the store is now in jail.
-   > **中文**：那个试图抢劫商店的匪徒被关在了监狱里。
+6. They robbed the bank.
+   > **中文**：他们抢了那家银行。
 
-7. The bomb was cleared near the country border line.
-   > **中文**：炸弹在离边界线很近的地方被排除了。
+7. This crime is common.
+   > **中文**：这起犯罪很常见。
 
-8. Even though evidence was strong, he denied his crime in court.
-   > **中文**：尽管证据确凿，嫌疑人依然否认犯有罪行。
+8. False news caused panic.
+   > **中文**：假新闻造成了恐慌。
 
-9. The government took action to stop common crimes.
-   > **中文**：政府决定采取行动打击常见的违法行为。
+9. The bomb was found near the border.
+   > **中文**：炸弹在边境附近被发现了。
 
-10. We expect the news media to report this big court trial.
-   > **中文**：我们预料到新闻媒体会重点报道这次审判。
+10. The cause of the crash is not clear.
+   > **中文**：飞机坠毁的原因还不清楚。
 
-11. The story about the crime took up the front page.
-   > **中文**：关于那起大案的详细报道占据了报纸头版。
+11. They gave information in exchange for freedom.
+   > **中文**：他们用情报换取自由。
 
-12. The robber was put in jail for using a gun.
-   > **中文**：罪犯因持枪抢劫被判处在监狱服刑。
+12. Their enemy is strong.
+   > **中文**：他们的敌人很强。
 
-13. Strict checkpoints were set along the country border.
-   > **中文**：边界线两侧设立了严格的巡逻关卡。
+13. Though it is risky, we expect change.
+   > **中文**：虽然有风险，我们仍期待改变。
 
-14. The police found evidence of the enemy spy in town.
-   > **中文**：警方搜查到了敌方间谍潜伏的证据。
+14. The decision cost billions.
+   > **中文**：这个决定花了几十亿。
 
-15. This terrible car crash caused traffic delays.
-   > **中文**：这场严重车祸造成了道路交通中断。
+15. Guns are a big problem.
+   > **中文**：枪支是一个大问题。
 
-16. The country leader gave a speech about prosperity.
-   > **中文**：国家领导人发表了关于经济繁荣的讲话。
+16. This is not false news, though.
+   > **中文**：不过，这不是假新闻。
 
-17. Spreading false information can cause public panic.
-   > **中文**：散布虚假信息会引发公众的恐慌。
+17. The border between the two countries is long.
+   > **中文**：两国的边境很长。
 
-18. The suspect defended himself when he was in court.
-   > **中文**：嫌疑人在法庭上为自己作了辩护。
+18. We expect better leaders.
+   > **中文**：我们期待更好的领导。
 
-19. They offered a discount in exchange for good reviews.
-   > **中文**：公司提供了折扣以换取客户的好评。
+19. The court made a decision.
+   > **中文**：法庭做出了裁决。
 
-20. This big crime involved assets worth over a billion.
-   > **中文**：这起抢劫案涉及到了价值数十亿的财产。
+20. Their government is under pressure.
+   > **中文**：他们的政府正面临压力。
 
 </quiz-listening>
 
@@ -214,23 +211,34 @@ though 表示"虽然"（放句末更口语）。in jail 表示"在监狱里"。
 | billion | 十亿 |
 | bomb | 炸弹 |
 | border | 边境 / 边界 |
-| cause | 造成 / 引起 |
-| common | 常见的 / 普通的 |
+| cause | 导致 / 原因 |
+| common | 常见的 / 共同的 |
 | court | 法庭 |
-| crash | 车祸 / 撞击 |
-| crime | 罪行 / 犯罪 |
-| enemy | 敌人 / 敌方 |
-| expect | 期待 / 预料 |
-| false | 虚假的 / 假的 |
+| crash | 坠毁 / 撞击 |
+| crime | 犯罪 |
+| enemy | 敌人 |
+| expect | 期待 / 预计 |
+| false | 假的 / 错误的 |
 | front page | 头版 |
 | government | 政府 |
-| gun | 枪 / 枪支 |
-| headline | 新闻头条 |
-| in court | 在法庭上 |
-| in exchange for | 以换取…… |
-| in jail | 在监狱里 / 坐牢 |
+| gun | 枪 |
+| headline | 新闻标题 |
+| in court | 出庭受审 |
+| in exchange for | 作为……的交换 |
+| in jail | 在坐牢 |
 | jail | 监狱 |
-| leader | 领导人 / 首领 |
+| leader | 领导人 |
+| rob | 抢劫 |
+| spy | 间谍 |
+| their | 他们的 |
+| they | 他们 |
+| though | 虽然 / 不过 |
+| is | 是（单数） |
+| are | 是（复数） |
+| the | 这 / 那（定冠词） |
+| and | 和 |
+| not | 不 / 没有 |
+| of | ……的（介词） |
 
 </quiz-matching>
 
@@ -238,202 +246,202 @@ though 表示"虽然"（放句末更口语）。in jail 表示"在监狱里"。
 
 ### 1
 
-The ____ on the front page reported the spy caught by government.
+The ____ says the leader resigned.
 
 - [x] headline
+- [ ] court
 - [ ] billion
-- [ ] bomb
 
-> **解析**：**headline** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：报道内容说的是 headline"标题"；court 和 billion 语义不符。
 
 ### 2
 
-The criminal who used a ____ in bank crime was in court.
+The news is on the front ____.
 
-- [x] gun
-- [ ] billion
-- [ ] bomb
+- [x] page
+- [ ] jail
+- [ ] gun
 
-> **解析**：**gun** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：front page 是固定搭配"头版"；jail 和 gun 语义不符。
 
 ### 3
 
-This car ____ caused billions of dollars in damage.
+The government ____ changes.
 
-- [x] crash
-- [ ] billion
-- [ ] bomb
+- [x] expects
+- [ ] expect
+- [ ] expecting
 
-> **解析**：**crash** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The government 作整体单数，用 expects；expect 是原形，expecting 需与 be 连用。
 
 ### 4
 
-The ____ leader signed a treaty in exchange for border peace.
+He is in ____ for the trial today.
 
-- [x] enemy
-- [ ] billion
-- [ ] bomb
+- [x] court
+- [ ] jail
+- [ ] border
 
-> **解析**：**enemy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：出庭受试用 in court；jail 指关押地点与 trial 语境不符，border 语义不符。
 
 ### 5
 
-Don't spread ____ news; everyone expects the truth.
+The spy is in ____.
 
-- [x] false
-- [ ] billion
-- [ ] bomb
+- [x] jail
+- [ ] border
+- [ ] court
 
-> **解析**：**false** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：间谍坐牢用 in jail；border 语义不符，in court 指"出庭"而非关押状态。
 
 ### 6
 
-The thief who tried to ____ the store is now in jail.
+They ____ the bank last night.
 
-- [x] rob
-- [ ] billion
-- [ ] bomb
+- [x] robbed
+- [ ] rob
+- [ ] stealing
 
-> **解析**：**rob** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：last night 用过去式 robbed；stealing 与 rob 搭配结构不符。
 
 ### 7
 
-The ____ was cleared near the country border line.
+This crime is ____.
 
-- [x] bomb
-- [ ] billion
-- [ ] border
+- [x] common
+- [ ] commonly
+- [ ] false
 
-> **解析**：**bomb** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 common"常见的"；commonly 是副词，false 语义不符。
 
 ### 8
 
-Even ____ evidence was strong, he denied his crime in court.
+____ news caused panic.
 
-- [x] though
-- [ ] billion
-- [ ] bomb
+- [x] False
+- [ ] Falsely
+- [ ] Common
 
-> **解析**：**though** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 news 需要形容词 False"假的"；Falsely 是副词，Common 语义不搭。
 
 ### 9
 
-The ____ took action to stop common crimes.
+The bomb was found near the ____.
 
-- [x] government
+- [x] border
+- [ ] headline
 - [ ] billion
-- [ ] bomb
 
-> **解析**：**government** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：near 后接地点名词 border"边境"；headline 和 billion 不是地点。
 
 ### 10
 
-We ____ the news media to report this big court trial.
+The cause of the ____ is not clear.
 
-- [x] expect
-- [ ] billion
-- [ ] bomb
+- [x] crash
+- [ ] crime
+- [ ] leader
 
-> **解析**：**expect** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：与坠毁原因搭配的是 crash；此处语境指事故，crime 和 leader 不符。
 
 ### 11
 
-The story about the ____ took up the front page.
+They gave information in exchange ____ freedom.
 
-- [x] crime
-- [ ] billion
-- [ ] bomb
+- [x] for
+- [ ] to
+- [ ] with
 
-> **解析**：**crime** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：in exchange for 是固定搭配；to 和 with 都不构成这个短语。
 
 ### 12
 
-The robber was put in ____ for using a gun.
+Their ____ is strong.
 
-- [x] jail
-- [ ] billion
-- [ ] bomb
+- [x] enemy
+- [ ] enemies
+- [ ] court
 
-> **解析**：**jail** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 要求单数 enemy；enemies 是复数需配 are，court 语义不符。
 
 ### 13
 
-Strict checkpoints were set along the country ____.
+____ it is risky, we expect change.
 
-- [x] border
-- [ ] billion
-- [ ] bomb
+- [x] Though
+- [ ] Because
+- [ ] Their
 
-> **解析**：**border** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：Though 引导让步从句"虽然"；Because 表原因与句意相反，Their 不是连词。
 
 ### 14
 
-The police found evidence of the ____ spy in town.
+The decision cost ____.
 
-- [x] enemy
+- [x] billions
 - [ ] billion
-- [ ] bomb
+- [ ] borders
 
-> **解析**：**enemy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：泛指巨款用复数 billions；billion 前需有具体数字，borders 语义不符。
 
 ### 15
 
-This terrible car ____ caused traffic delays.
+____ are a big problem.
 
-- [x] crash
-- [ ] billion
-- [ ] bomb
+- [x] Guns
+- [ ] Gun
+- [ ] Crime
 
-> **解析**：**crash** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：are 要求复数主语 Guns；Gun 是单数，Crime 是不可数抽象名词需配 is。
 
 ### 16
 
-The country ____ gave a speech about prosperity.
+This is not false news, ____.
 
-- [x] leader
-- [ ] billion
-- [ ] bomb
+- [x] though
+- [ ] their
+- [ ] expect
 
-> **解析**：**leader** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：though 放句末表示"不过"的转折语气；their 和 expect 词性不符。
 
 ### 17
 
-Spreading ____ information can cause public panic.
+The border between the two ____ is long.
 
-- [x] false
-- [ ] billion
-- [ ] bomb
+- [x] countries
+- [ ] country
+- [ ] court
 
-> **解析**：**false** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：two 后接复数 countries；country 是单数，court 语义不符。
 
 ### 18
 
-The suspect defended himself when he was in ____.
+We expect better ____.
 
-- [x] court
-- [ ] billion
-- [ ] bomb
+- [x] leaders
+- [ ] leader
+- [ ] jail
 
-> **解析**：**court** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：泛指多位领导人用复数 leaders；jail 语义不符。
 
 ### 19
 
-____ offered a discount in exchange for good reviews.
+The ____ made a decision yesterday.
 
-- [x] They
-- [ ] billion
-- [ ] bomb
+- [x] court
+- [ ] crime
+- [ ] gun
 
-> **解析**：**they** 为第三人称复数主格代词，表示“他们/它们”，在句中作主语。
+> **解析**：做出裁决的是 court"法庭"；crime 和 gun 语义不符。
 
 ### 20
 
-This big ____ involved assets worth over a billion.
+Their government is under ____.
 
-- [x] crime
+- [x] pressure
+- [ ] headline
 - [ ] billion
-- [ ] bomb
 
-> **解析**：**crime** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be under pressure 是固定搭配"面临压力"；headline 和 billion 语义不符。
 
 </quiz-cloze>

@@ -10,40 +10,31 @@ amount, bargain, bill, can, can't, cart, check, fit, fitting room, high quality,
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"购物时表达偏好"展开。核心是购物和评价表达：This item is high quality and inexpensive—it's worth the price.（这件商品质量高又便宜——值这个价。）、Can I try it on in the fitting room? I can't tell if it fits without knowing the material.（我能在试衣间试一下吗？不知道面料的话我没法判断合不合身。）、I shouldn't have put so many items in the cart—the bill is too much!（我不该在购物车里放那么多东西——账单太贵了！）、The zipper is broken, and I still owe money from the jewelry store.（拉链坏了，我还欠着珠宝店的钱呢。）。
+本单元的主题是"购物、表达偏好"。词表分成三组：购物流程（shop for, cart, item, fitting room, check, bill, pay 相关的 owe, left）、商品属性（fit, zipper, material, high quality, low quality, worth, bargain, inexpensive, jewelry store）、以及数量与建议（many, much, amount, can, can't, shouldn't, knowing, you）。串起来就是完整的购物过程：I'm shopping for a gift. Let me check the material. Can I use the fitting room? What a bargain!
 
-词表里有购物词汇（cart, fitting room, bargain, bill）和质量描述（high quality, low quality, worth, material）。你可以练习：Check the price. / How much is it? / It doesn't fit. / That's a bargain!
+语法主线有三条。第一是 can/can't/shouldn't 表达可能性与建议：You can pay by card. I can't decide. You shouldn't buy low quality items. 第二是 many 与 much 的分工：many 修饰可数复数（How many items），much 修饰不可数名词（How much money）。第三是 worth 的用法：be worth + 名词或动名词——It's worth the money.
 
-worth = 值得。can / can't 表能力/可能。
+学完本单元，你能用英语挑选商品、询问价格与质量、试穿退换，并给出购物建议。
 
 ## Tips
 
-- **fitting room / fit / try on** — 试衣间 / 合身 / 试穿。搭配：in the fitting room, fit well, try it on。例句：Where's the fitting room? / It fits perfectly. / Can I try this on? 注意 fitting room 是试衣间。
+- **shop for / cart / item / fitting room / check** — shop for 是"为买……而逛"：I'm shopping for a gift. cart 是"购物车"。item 是"一件商品"。fitting room 是"试衣间"。check 是"检查、查看"：Check the price first.
 
-- **high quality / low quality / worth** — 高质量 / 低质量 / 值得。搭配：high quality material, low quality goods, worth the money。例句：This is high quality leather. / Avoid low quality products. / It's worth every penny. 注意 worth + 名词/doing。
+- **fit / zipper / material** — fit 是"合身"：This dress fits me well. zipper 是"拉链"：The zipper is broken. material 是"材质"：What material is it made of? 注意 fit 的过去式仍为 fit（也可 fitted）。
 
-- **cart / item / bill** — 购物车 / 商品 / 账单。搭配：add to cart, an item on sale, pay the bill。例句：I added three items to my cart. / This item is discounted. / The bill came to $200. 注意 cart 在网购中也很常用。
+- **high quality / low quality / bargain / inexpensive / worth** — 质量与价格表达。high quality 是"高质量"，low quality 是"低质量"。bargain 是"便宜货、划算的东西"：What a bargain! inexpensive 是"不贵的"，比 cheap 更中性。worth 表示"值得"：It's worth it.
 
-- **bargain / inexpensive / shop for** — 便宜货 / 不贵的 / 选购。搭配：a great bargain, inexpensive options, shop for clothes。例句：What a bargain! / It's quite inexpensive. / I'm shopping for a gift. 注意 bargain 指"划算的东西"。
+- **can / can't / shouldn't** — can 表能力或许可：You can pay by card. can't 是否定：I can't find my wallet. shouldn't 是"不应该"，给出建议：You shouldn't spend so much.
 
-- **material / zipper / check** — 面料 / 拉链 / 检查。搭配：cotton material, a broken zipper, check the label。例句：What material is this? / The zipper is stuck. / Check the size before buying. 注意 material 指"材料/面料"。
+- **many / much / amount** — many 修饰可数复数：many items。much 修饰不可数名词：much money。amount 是"数量"，常指不可数事物的量：the total amount。
 
-- **can / can't / shouldn't** — 能 / 不能 / 不应该。搭配：can I try, can't decide, shouldn't spend。例句：Can I get a refund? / I can't choose! / I shouldn't buy more. 注意 shouldn't = should not（建议不做）。
+- **bill / owe / left** — bill 是"账单"：Can I have the bill? owe 是"欠"：You owe me ten dollars. left 是"剩下的"，作后置定语：I have five dollars left.
 
-- **many / much / amount** — 许多 / 许多 / 数量。搭配：many items, too much money, a large amount。例句：There are many choices. / I spent too much. / A large amount of stock。注意 many + 可数，much + 不可数。
+- **knowing / you** — knowing 是 know 的动名词形式，可作主语：Knowing your size helps. you 泛指"你/人们"，用于给建议：You should check the zipper.
 
-- **jewelry store / left / owe** — 珠宝店 / 剩下 / 欠。搭配：a jewelry store, nothing left, owe money。例句：She works at a jewelry store. / There's nothing left in my size. / I owe the store $50. 注意 owe = 欠（钱）。
-
-- **knowing / you / fit** — 知道 / 你 / 合身。搭配：knowing the size, does it fit you, fit properly。例句：Knowing your size helps. / Does it fit you? / It doesn't fit right. 注意 knowing 是动名词形式。
-
-- **worth / bargain / inexpensive** — 值得 / 划算 / 便宜。搭配：worth buying, a real bargain, very inexpensive。例句：It's worth the trip. / These shoes are a bargain. / The store is inexpensive. 注意 worth 后接 doing 或名词。
-
-- **cart / check / bill** — 购物车 / 查看 / 账单。搭配：empty the cart, check out, the final bill。例句：My cart is full. / Let's check out. / The bill is higher than expected. 注意 check out = 结账。
-
-- **quality / material / zipper** — 质量 / 材料 / 拉链。搭配：good quality, soft material, a metal zipper。例句：The quality is excellent. / I prefer natural materials. / The zipper broke after one use. 注意 quality 可作名词也可作形容词。
+- **jewelry store** — "珠宝店"，jewelry 是"珠宝"的总称（不可数），注意拼写是 -lry 结尾。
 
 ## 练习
 
@@ -61,149 +52,149 @@ worth = 值得。can / can't 表能力/可能。
 
 <quiz-sentence-builder>
 
-1. **中文**：发票上显示的总金额超出了我们的预期。
-   **英文**：The total amount on the invoice was higher than we expected.
-   > **解析**：amount 表示“数量/金额”；invoice 意为“发票/账单”。
+1. **中文**：我在挑礼物。
+   **英文**：I am shopping for a gift.
+   > **解析**：am shopping 是现在进行时；shop for 是"为买……而逛"。
 
-2. **中文**：在这个老跳蚤市场里你可以找到很多划算的商品。
-   **英文**：You can find a real bargain at the old flea market.
-   > **解析**：bargain 表示“划算的商品/便宜货”。
+2. **中文**：把商品放进购物车。
+   **英文**：Put the items in the cart.
+   > **解析**：祈使句以 put 开头；items 用复数表多件商品。
 
-3. **中文**：服务员把用餐账单放到了餐桌上。
-   **英文**：The waiter brought the final bill to our table.
-   > **解析**：bill 表示“账单/结账单”。
+3. **中文**：我能看看这件商品吗？
+   **英文**：Can I check this item?
+   > **解析**：can 表许可；this item 作 check 的宾语。
 
-4. **中文**：请把所有想买的杂货放到购物车里。
-   **英文**：Put all your groceries inside the shopping cart.
-   > **解析**：cart 表示“购物车/推车”。
+4. **中文**：这条裙子很合我的身。
+   **英文**：This dress fits me well.
+   > **解析**：This dress 是三单主语，fit 加 s；well 是副词修饰 fits。
 
-5. **中文**：在买这件夹克之前，你可以先去试衣间试穿一下。
-   **英文**：You can try on the jacket inside the fitting room first.
-   > **解析**：fitting room 表示“试衣间”；try on 意为“试穿”。
+5. **中文**：拉链坏了。
+   **英文**：The zipper is broken.
+   > **解析**：is broken 表示状态；broken 是 break 的过去分词作形容词。
 
-6. **中文**：这家商店以出售高质量的手工艺品而知名。
-   **英文**：This shop is famous for selling high quality hand-made goods.
-   > **解析**：high quality 表示“高质量的”；goods 意为“商品”。
+6. **中文**：它是什么材质的？
+   **英文**：What material is it made of?
+   > **解析**：what material 作疑问短语；be made of 表示"由……制成"。
 
-7. **中文**：这些棉质衬衫质量好而且价格便宜。
-   **英文**：These comfortable cotton shirts are stylish yet inexpensive.
-   > **解析**：inexpensive 表示“便宜的/不贵的”。
+7. **中文**：这是高质量的。
+   **英文**：It is high quality.
+   > **解析**：high quality 作表语，描述商品质量。
 
-8. **中文**：购物车里的最后一件商品正在打折促销。
-   **英文**：The last item in your cart is currently on sale.
-   > **解析**：item 表示“商品/物品/单品”。
+8. **中文**：别买低质量的商品。
+   **英文**：Don't buy low quality items.
+   > **解析**：否定祈使句用 Don't；low quality 修饰 items。
 
-9. **中文**：他们走进市中心那家豪华的珠宝店挑选戒指。
-   **英文**：They walked into the luxury jewelry store to pick out rings.
-   > **解析**：jewelry store 表示“珠宝店”；pick out 意为“挑选”。
+9. **中文**：它值这个价。
+   **英文**：It is worth the money.
+   > **解析**：be worth + 名词，表示"值得"。
 
-10. **中文**：避免购买低质量的塑料玩具，因为容易坏。
-   **英文**：Avoid buying low quality plastic toys because they break easily.
-   > **解析**：low quality 表示“低质量的/劣质的”。
+10. **中文**：真划算！
+   **英文**：What a bargain!
+   > **解析**：what a + 名词构成感叹句；bargain 指"划算的东西"。
 
-11. **中文**：这种高档面料摸起来非常柔软舒适。
-   **英文**：This premium shirt material feels extremely soft and smooth.
-   > **解析**：material 表示“材质/布料/材料”。
+11. **中文**：这件衬衫不贵。
+   **英文**：This shirt is inexpensive.
+   > **解析**：inexpensive 作表语，比 cheap 语气更中性。
 
-12. **中文**：购买了这么多文具后，我目前欠我朋友十美元。
-   **英文**：I owe my friend ten dollars after shopping together.
-   > **解析**：owe 表示“欠（钱/情）”。
+12. **中文**：你不该花那么多钱。
+   **英文**：You shouldn't spend so much.
+   > **解析**：shouldn't 表建议的否定；so much 指"那么多（钱）"。
 
-13. **中文**：我们打算这周末去百货公司选购新衣服。
-   **英文**：We plan to shop for winter clothes at the mall this weekend.
-   > **解析**：shop for 表示“选购/购买”。
+13. **中文**：你有多少件商品？
+   **英文**：How many items do you have?
+   > **解析**：how many 修饰可数复数 items；do 引导疑问句。
 
-14. **中文**：买东西时不应该花超出预算的钱。
-   **英文**：You shouldn't spend more money than your monthly budget.
-   > **解析**：shouldn't 表示“不应该”。
+14. **中文**：这个多少钱？
+   **英文**：How much is this?
+   > **解析**：how much 询问价格；this 指商品。
 
-15. **中文**：那包皮质皮包虽然昂贵，但完全物有所值。
-   **英文**：That leather bag is expensive, but it is totally worth it.
-   > **解析**：worth 表示“值得的/有价值的”。
+15. **中文**：总金额是五十美元。
+   **英文**：The total amount is fifty dollars.
+   > **解析**：amount 作主语中心词；total 修饰 amount。
 
-16. **中文**：外套上的拉链卡住了，需要修一下。
-   **英文**：The metal zipper on my winter coat got stuck yesterday.
-   > **解析**：zipper 表示“拉链”。
+16. **中文**：请给我账单。
+   **英文**：Can I have the bill, please?
+   > **解析**：can 表礼貌请求；the bill 作宾语。
 
-17. **中文**：这双新鞋穿起来大小正合身。
-   **英文**：These new running shoes fit my feet perfectly.
-   > **解析**：fit 表示“合身/适合”。
+17. **中文**：你欠我十美元。
+   **英文**：You owe me ten dollars.
+   > **解析**：owe 接双宾语，me 是间接宾语。
 
-18. **中文**：离开商店前请核对发票上的小计。
-   **英文**：Please check your receipt before leaving the grocery store.
-   > **解析**：check 表示“核对/检查”。
+18. **中文**：我剩下五美元。
+   **英文**：I have five dollars left.
+   > **解析**：left 作后置定语，表示"剩下的"。
 
-19. **中文**：你可以选择使用信用卡或现金结账。
-   **英文**：You can pay by credit card or cash for these items.
-   > **解析**：can 表示“能够/可以”。
+19. **中文**：珠宝店关门了。
+   **英文**：The jewelry store is closed.
+   > **解析**：jewelry 修饰 store；closed 作表语。
 
-20. **中文**：这种高档商品在这个折扣价下太划算了。
-   **英文**：This high quality product is cheap at such a low price.
-   > **解析**：high quality 表示“高质量的”。
+20. **中文**：了解自己的尺码很有帮助。
+   **英文**：Knowing your size helps.
+   > **解析**：动名词短语 knowing your size 作主语，谓语用三单 helps。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The total amount on the invoice was higher than we expected.
-   > **中文**：发票上显示的总金额超出了我们的预期。
+1. I'm shopping for shoes.
+   > **中文**：我在挑鞋子。
 
-2. You can find a real bargain at the old flea market.
-   > **中文**：在这个老跳蚤市场里你可以找到很多划算的商品。
+2. The cart is full.
+   > **中文**：购物车满了。
 
-3. The waiter brought the final bill to our table.
-   > **中文**：服务员把用餐账单放到了餐桌上。
+3. Check the price first.
+   > **中文**：先看看价格。
 
-4. Put all your groceries inside the shopping cart.
-   > **中文**：请把所有想买的杂货放到购物车里。
+4. This jacket fits perfectly.
+   > **中文**：这件夹克非常合身。
 
-5. You can try on the jacket inside the fitting room first.
-   > **中文**：在买这件夹克之前，你可以先去试衣间试穿一下。
+5. The zipper doesn't work.
+   > **中文**：拉链拉不动了。
 
-6. This shop is famous for selling high quality hand-made goods.
-   > **中文**：这家商店以出售高质量的手工艺品而知名。
+6. The material is soft.
+   > **中文**：这材质很柔软。
 
-7. These comfortable cotton shirts are stylish yet inexpensive.
-   > **中文**：这些棉质衬衫质量好而且价格便宜。
+7. This is high quality.
+   > **中文**：这是高质量的。
 
-8. The last item in your cart is currently on sale.
-   > **中文**：购物车里的最后一件商品正在打折促销。
+8. Don't buy low quality items.
+   > **中文**：别买低质量的商品。
 
-9. They walked into the luxury jewelry store to pick out rings.
-   > **中文**：他们走进市中心那家豪华的珠宝店挑选戒指。
+9. It's worth it.
+   > **中文**：这是值得的。
 
-10. Avoid buying low quality plastic toys because they break easily.
-   > **中文**：避免购买低质量的塑料玩具，因为容易坏。
+10. What a bargain!
+   > **中文**：真划算！
 
-11. This premium shirt material feels extremely soft and smooth.
-   > **中文**：这种高档面料摸起来非常柔软舒适。
+11. These books are inexpensive.
+   > **中文**：这些书不贵。
 
-12. I owe my friend ten dollars after shopping together.
-   > **中文**：购买了这么多文具后，我目前欠我朋友十美元。
+12. You can pay by card.
+   > **中文**：你可以刷卡。
 
-13. We plan to shop for winter clothes at the mall this weekend.
-   > **中文**：我们打算这周末去百货公司选购新衣服。
+13. I can't decide.
+   > **中文**：我决定不了。
 
-14. You shouldn't spend more money than your monthly budget.
-   > **中文**：买东西时不应该花超出预算的钱。
+14. You shouldn't spend so much.
+   > **中文**：你不该花那么多。
 
-15. That leather bag is expensive, but it is totally worth it.
-   > **中文**：那包皮质皮包虽然昂贵，但完全物有所值。
+15. How many items are there?
+   > **中文**：一共有多少件商品？
 
-16. The metal zipper on my winter coat got stuck yesterday.
-   > **中文**：外套上的拉链卡住了，需要修一下。
+16. How much is this?
+   > **中文**：这个多少钱？
 
-17. These new running shoes fit my feet perfectly.
-   > **中文**：这双新鞋穿起来大小正合身。
+17. The amount is correct.
+   > **中文**：金额是对的。
 
-18. Please check your receipt before leaving the grocery store.
-   > **中文**：离开商店前请核对发票上的小计。
+18. Here is your bill.
+   > **中文**：这是你的账单。
 
-19. You can pay by credit card or cash for these items.
-   > **中文**：你可以选择使用信用卡或现金结账。
+19. I owe you five dollars.
+   > **中文**：我欠你五美元。
 
-20. This high quality product is cheap at such a low price.
-   > **中文**：这种高档商品在这个折扣价下太划算了。
+20. She works at the jewelry store.
+   > **中文**：她在珠宝店工作。
 
 </quiz-listening>
 
@@ -212,25 +203,45 @@ worth = 值得。can / can't 表能力/可能。
 | 英文单词 | 课文释义 |
 | --- | --- |
 | amount | 数量 / 金额 |
-| bargain | 划算商品 / 便宜货 |
+| bargain | 便宜货 / 划算 |
 | bill | 账单 |
+| can | 能 / 可以 |
+| can't | 不能 |
 | cart | 购物车 |
+| check | 检查 / 查看 |
+| fit | 合身 |
 | fitting room | 试衣间 |
-| high quality | 高质量的 |
-| inexpensive | 便宜的 / 不贵的 |
+| high quality | 高质量 |
+| inexpensive | 不贵的 |
 | item | 商品 / 物品 |
 | jewelry store | 珠宝店 |
-| low quality | 低质量的 |
-| material | 材质 / 布料 |
-| owe | 欠（钱） |
-| shop for | 选购 / 购买 |
+| knowing | 知道（动名词） |
+| left | 剩下的 |
+| low quality | 低质量 |
+| many | 许多（可数） |
+| material | 材质 |
+| much | 许多（不可数） |
+| owe | 欠 |
+| shop for | 为买……而逛 |
 | shouldn't | 不应该 |
-| worth | 值得的 |
+| worth | 值得 |
+| you | 你 |
 | zipper | 拉链 |
-| fit | 合身 / 适合 |
-| check | 核对 / 检查 |
-| can | 可以 / 能够 |
-| shouldn't | 不应该 |
+| is | 是（单数） |
+| are | 是（复数） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| this | 这个 |
+| these | 这些 |
+| do | 做 / 助动词 |
+| don't | 不（否定） |
+| how | 如何 / 多少 |
+| I | 我 |
+| me | 我（宾格） |
+| in | 在……里 |
+| by | 用 / 以 |
+| so | 这么 |
+| please | 请 |
 
 </quiz-matching>
 
@@ -238,202 +249,202 @@ worth = 值得。can / can't 表能力/可能。
 
 ### 1
 
-The total ____ on the invoice was higher than we expected.
+I'm shopping ____ a gift.
 
-- [x] amount
-- [ ] bargain
-- [ ] bill
+- [x] for
+- [ ] to
+- [ ] at
 
-> **解析**：**amount** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：shop for 是"为买……而逛"的固定搭配；to 和 at 不构成该短语。
 
 ### 2
 
-____ can find a real bargain at the old flea market.
+Put the items in the ____.
 
-- [x] You
-- [ ] amount
-- [ ] bargain
+- [x] cart
+- [ ] bill
+- [ ] zipper
 
-> **解析**：**you** 为第二人称代词，在句中作主语或宾语，单复数同形。
+> **解析**：商品放进购物车 cart；bill 是账单，zipper 是拉链。
 
 ### 3
 
-The waiter brought the final ____ to our table.
+This dress ____ me well now.
 
-- [x] bill
-- [ ] amount
-- [ ] bargain
+- [x] fits
+- [ ] fit
+- [ ] fitting
 
-> **解析**：**bill** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：This dress 是三单主语且 now 提示现在时，fit 加 s；fitting 不能单独作谓语。
 
 ### 4
 
-Put all your groceries inside the shopping ____.
+The ____ on this jacket is broken.
 
-- [x] cart
+- [x] zipper
+- [ ] material
 - [ ] amount
-- [ ] bargain
 
-> **解析**：**cart** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：会坏掉的部件是拉链 zipper；material 和 amount 语义不符。
 
 ### 5
 
-____ can try on the jacket inside the fitting room first.
+The ____ feels very soft.
 
-- [x] You
-- [ ] amount
-- [ ] bargain
+- [x] material
+- [ ] many
+- [ ] much
 
-> **解析**：**you** 为第二人称代词，在句中作主语或宾语，单复数同形。
+> **解析**：摸起来柔软的是材质 material；many 和 much 是限定词，不是名词。
 
 ### 6
 
-This shop is famous for selling high quality ____ goods.
+These shoes last for years; they are ____ quality.
 
-- [x] hand-made
-- [ ] amount
-- [ ] bargain
+- [x] high
+- [ ] low
+- [ ] expense
 
-> **解析**：**hand-made** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能穿多年说明是高质量 high quality；low 与语境矛盾，expense 不是形容词。
 
 ### 7
 
-These comfortable cotton shirts are stylish yet ____.
+They break fast; don't buy ____ quality items.
 
-- [x] inexpensive
-- [ ] amount
-- [ ] bargain
+- [x] low
+- [ ] high
+- [ ] inexpensive
 
-> **解析**：**inexpensive** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：容易坏的是低质量 low quality；high 与语境矛盾，inexpensive 不能这样修饰 quality。
 
 ### 8
 
-The last ____ in your cart is currently on sale.
+It's ____ the money.
 
-- [x] item
-- [ ] amount
-- [ ] bargain
+- [x] worth
+- [ ] worthy
+- [ ] worths
 
-> **解析**：**item** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be worth + 名词是固定结构；worthy 用法不同，worths 不是单词。
 
 ### 9
 
-They walked into the luxury ____ store to pick out rings.
+What a ____!
 
-- [x] jewelry
-- [ ] amount
-- [ ] bargain
+- [x] bargain
+- [ ] owe
+- [ ] can
 
-> **解析**：**jewelry** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：感叹"真划算"用 bargain；owe 和 can 不是名词。
 
 ### 10
 
-Avoid buying low ____ plastic toys because they break easily.
+Only one dollar! These pens are ____.
 
-- [x] quality
-- [ ] amount
-- [ ] bargain
+- [x] inexpensive
+- [ ] expensive
+- [ ] cost
 
-> **解析**：**quality** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：只要一元说明 inexpensive（不贵）；expensive 与语境矛盾，cost 是动词。
 
 ### 11
 
-This premium shirt ____ feels extremely soft and smooth.
+You ____ buy things you don't need.
 
-- [x] material
-- [ ] amount
-- [ ] bargain
+- [x] shouldn't
+- [ ] shouldn't to
+- [ ] shoulding
 
-> **解析**：**material** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：shouldn't 后直接接动词原形；shouldn't to 和 shoulding 形式错误。
 
 ### 12
 
-I ____ my friend ten dollars after shopping together.
+How ____ items do you have?
 
-- [x] owe
+- [x] many
+- [ ] much
 - [ ] amount
-- [ ] bargain
 
-> **解析**：**owe** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：items 是可数名词复数，用 many；much 修饰不可数名词。
 
 ### 13
 
-We plan to shop for winter ____ at the mall this weekend.
+How ____ is this jacket?
 
-- [x] clothes
+- [x] much
+- [ ] many
 - [ ] amount
-- [ ] bargain
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **clothes**。
+> **解析**：询问价格用 how much；how many 只修饰可数名词复数。
 
 ### 14
 
-____ shouldn't spend more money than your monthly budget.
+The total ____ is fifty dollars.
 
-- [x] You
-- [ ] amount
-- [ ] bargain
+- [x] amount
+- [ ] many
+- [ ] much
 
-> **解析**：**you** 为第二人称代词，在句中作主语或宾语，单复数同形。
+> **解析**：总金额用 amount；many 和 much 不能放在 the total 后作名词。
 
 ### 15
 
-That leather bag is expensive, but it is totally ____ it.
+I'd like to pay now; can I have the ____?
 
-- [x] worth
-- [ ] amount
-- [ ] bargain
+- [x] bill
+- [ ] cart
+- [ ] material
 
-> **解析**：**worth** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：付款时要的是账单 bill；cart 和 material 与结账无关。
 
 ### 16
 
-The metal ____ on my winter coat got stuck yesterday.
+You ____ me ten dollars.
 
-- [x] zipper
-- [ ] amount
-- [ ] bargain
+- [x] owe
+- [ ] owes
+- [ ] owing
 
-> **解析**：**zipper** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：主语 you 用动词原形 owe；owes 用于三单，owing 不能单独作谓语。
 
 ### 17
 
-These new running shoes ____ my feet perfectly.
+I have five dollars ____.
 
-- [x] fit
-- [ ] amount
-- [ ] bargain
+- [x] left
+- [ ] leave
+- [ ] leaves
 
-> **解析**：**fit** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：剩下的钱用 left 作后置定语；leave 和 leaves 是动词形式。
 
 ### 18
 
-Please ____ your receipt before leaving the grocery store.
+____ the item before you pay.
 
-- [x] check
-- [ ] amount
-- [ ] bargain
+- [x] Check
+- [ ] Checks
+- [ ] Checking
 
-> **解析**：**check** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句以动词原形 check 开头；checks 和 checking 形式错误。
 
 ### 19
 
-____ can pay by credit card or cash for these items.
+She works at the jewelry ____.
 
-- [x] You
-- [ ] amount
-- [ ] bargain
+- [x] store
+- [ ] room
+- [ ] home
 
-> **解析**：**you** 为第二人称代词，在句中作主语或宾语，单复数同形。
+> **解析**：jewelry store 是"珠宝店"的固定搭配；jewelry room 和 jewelry home 不成立。
 
 ### 20
 
-This high ____ product is cheap at such a low price.
+____ your size helps when shopping.
 
-- [x] quality
-- [ ] amount
-- [ ] bargain
+- [x] Knowing
+- [ ] Know
+- [ ] Knows
 
-> **解析**：**quality** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：动名词短语作主语用 knowing；know 和 knows 不能直接作主语。
 
 </quiz-cloze>

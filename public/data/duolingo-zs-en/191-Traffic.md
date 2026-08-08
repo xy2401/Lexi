@@ -10,30 +10,35 @@ allow, allowed to, buckle, car accident, concentrate, cycle, driving test, for, 
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元让你给出驾驶建议。核心结构是 had better / had better not 和 supposed to / allowed to：You'd better buckle your seatbelt and concentrate on the road. You're not supposed to speed in this zone—it's illegal, and you'll get a ticket.（你最好系好安全带、专心开车。你不应该在这个区域超速——这是违法的，你会被开罚单。）Pedestrians are allowed to cross at the next stoplight. The parking garage is near the tunnel.（行人可以在下一个红绿灯过马路。停车场在隧道附近。）
+本单元的主题是"交通与驾驶建议"。词表可以分成三组：建议与规则表达（had better, had better not, supposed to, allowed to, allow, illegal, for）、道路设施与行为词（stoplight, tunnel, parking garage, zone, pedestrian, cycle, speed, seatbelt, buckle）、以及驾驶事件词（car accident, driving test, ticket, concentrate, miss, next）。拼起来就是驾驶建议场景：You had better slow down. You're supposed to wear a seatbelt. Parking is not allowed in this zone.
 
-词表里有交通规则词汇：speed, stoplight, pedestrian, seatbelt, ticket, illegal, zone, car accident。也有驾驶动作：buckle, concentrate, cycle, miss, allow。driving test 是驾照考试。parking garage 是停车楼。tunnel 是隧道。
+语法主线是"建议与义务"的三种表达。had better + 动词原形表示"最好"，语气较强，暗示后果：You'd better stop at the red light. had better not 是它的否定。be supposed to 表示"按理应该"（规则或惯例）：You're supposed to signal before turning. be allowed to 表示"被允许"：You're not allowed to park here. 三者语气从强到弱各有分工。另一条主线是交通名词：ticket 除"票"外还指"罚单"，speed 作动词表示"超速"。
 
-had better 比 should 语气更强，暗示"不这样做会有不好的后果"。supposed to 表示"按规定应该"。allowed to 表示"被允许"。for 在此可能表示原因或对象：a ticket for speeding。
+学完这些词，你能用英语给出驾驶建议、说明交通规则，并描述路况与驾驶考试。
 
 ## Tips
 
-- **had better / had better not** — had better + 动词原形 = 最好做（语气比 should 强，暗示后果）：You'd better slow down. 否定：You'd better not speed. 注意 had better 中的 had 不能省略（口语中缩写为 'd better），也没有 had better to 的形式。
+- **had better / had better not** — "最好/最好不要"，缩写为 'd better：You'd better leave now. 否定形式 had better not + 动词原形：You'd better not speed. 注意否定词 not 直接加在 better 后，✗ had not better 是错误语序。语气比 should 强，常暗示"否则有后果"。
 
-- **supposed to / allowed to** — be supposed to = 按规定应该（= should，但强调规则/期望）：You're supposed to stop at a red light. be allowed to = 被允许（= can，但强调许可）：You're not allowed to park here. 注意两者都用 be 动词。
+- **supposed to** — "按理应该"：You're supposed to wear a seatbelt. be supposed to 表示规则或期望。注意 d 的发音常被吞掉，书写不能省：✗ suppose to。
 
-- **buckle / seatbelt / stoplight** — buckle = 扣上（buckle up = 系好安全带）。seatbelt = 安全带（seat + belt）。stoplight = 红绿灯（= traffic light）。搭配：buckle your seatbelt / run a stoplight（闯红灯）。
+- **allowed to / allow** — allow 动词"允许"；be allowed to 被动"被允许"：Smoking is not allowed. You're not allowed to turn left here. allow 后接动名词：allow parking（允许停车）。
 
-- **speed / ticket / illegal / zone** — speed 作动词 = 超速：He was speeding. ticket 在此 = 罚单：get a ticket for speeding. illegal = 违法的（反义词 legal）。zone = 区域：a school zone / a no-parking zone.
+- **illegal** — "违法的"：It's illegal to speed here. illegal = il-（否定）+ legal（合法的）。与 legal 成对记忆。
 
-- **pedestrian / car accident / concentrate** — pedestrian = 行人（正式用语，日常也可说 person walking）。car accident = 车祸。concentrate = 集中注意力：concentrate on the road. 搭配 concentrate on + 名词/动名词。
+- **buckle / seatbelt** — seatbelt 安全带；buckle 扣上：Buckle your seatbelt.（系好安全带。）buckle up 更口语。这是上车第一件事。
 
-- **parking garage / tunnel / next / for** — parking garage = 停车楼（多层停车场，英式：car park）。tunnel = 隧道。next = 下一个：the next stoplight. for 在此表原因：a ticket for speeding / fined for illegal parking.
+- **stoplight / tunnel / parking garage / zone** — 四个道路场景词。stoplight 红绿灯（= traffic light）；tunnel 隧道；parking garage 停车楼；zone 区域：a no-parking zone（禁停区）。
 
-- **allow / cycle / miss / driving test** — allow = 允许：Parking is not allowed here. cycle = 骑自行车（也可作名词"自行车"，英式更常用）。miss = 错过：miss the turn（错过转弯）。driving test = 驾照考试（= driving exam）。
+- **pedestrian / cycle / speed** — pedestrian 行人：Watch out for pedestrians.（注意行人。）；cycle 骑自行车，也指自行车；speed 速度，作动词"超速"：Don't speed. 三者都关乎道路安全。
+
+- **car accident / ticket / driving test** — car accident 车祸；ticket 罚单：get a ticket（吃罚单），也可指车票门票；driving test 驾照考试：pass the driving test（通过驾考）。
+
+- **concentrate / miss / next** — concentrate 集中注意力：concentrate on driving（专心开车），搭配 on；miss 错过、错过路口：miss the exit；next 下一个：the next stoplight（下一个红绿灯）。
+
+- **for** — 介词，本单元常见于目的与原因：a zone for parking（停车区）、wait for the green light（等绿灯）。
 
 ## 练习
 
@@ -51,149 +56,149 @@ had better 比 should 语气更强，暗示"不这样做会有不好的后果"�
 
 <quiz-sentence-builder>
 
-1. **中文**：驾驶员被允许在公共停车场免费停车一小时。
-   **英文**：Drivers are allowed to park here for one hour.
-   > **解析**：allowed to 表示“被允许……”；park 意为“停车”。
+1. **中文**：你最好减速。
+   **英文**：You had better slow down.
+   > **解析**：had better 后接动词原形 slow down；语气较强，暗示不这样做的后果。
 
-2. **中文**：开车前请务必扣紧你的安全带。
-   **英文**：Make sure to buckle your seatbelt before driving.
-   > **解析**：buckle 表示“扣紧/扣上”；seatbelt 意为“安全带”。
+2. **中文**：你最好不要超速。
+   **英文**：You had better not speed.
+   > **解析**：had better not + 动词原形是否定结构；not 直接加在 better 后。
 
-3. **中文**：这起严重的交通事故导致道路封闭了两小时。
-   **英文**：A sudden car accident blocked the highway yesterday.
-   > **解析**：car accident 表示“交通事故/车祸”。
+3. **中文**：你应该系好安全带。
+   **英文**：You are supposed to wear a seatbelt.
+   > **解析**：be supposed to 表示"按理应该"；wear a seatbelt 是系安全带的习惯说法。
 
-4. **中文**：开车时必须时刻集中注意力看路。
-   **英文**：Drivers must concentrate on the road while driving.
-   > **解析**：concentrate 表示“专心/集中注意力”；concentrate on 意为“专心于”。
+4. **中文**：这里不允许停车。
+   **英文**：You are not allowed to park here.
+   > **解析**：be allowed to 是被动结构；not 表示禁止。
 
-5. **中文**：她在经过多次练习后顺利通过了驾照考试。
-   **英文**：She passed her driving test on her first attempt.
-   > **解析**：driving test 表示“驾照考试/驾驶测试”。
+5. **中文**：在这儿超速是违法的。
+   **英文**：It is illegal to speed here.
+   > **解析**：It 是形式主语，真正主语是 to speed here；illegal 作表语。
 
-6. **中文**：驾车时打电话属于严重违法行为。
-   **英文**：It is illegal to use a mobile phone while driving.
-   > **解析**：illegal 表示“违法的/不合法的”。
+6. **中文**：红灯时停下。
+   **英文**：Stop at the red light.
+   > **解析**：祈使句用动词原形 Stop；at the red light 是地点状语。
 
-7. **中文**：你最好现在就出发，否则会赶不上末班班车。
-   **英文**：You had better leave now to avoid heavy rush hour.
-   > **解析**：had better 表示“最好/应该”。
+7. **中文**：等绿灯。
+   **英文**：Wait for the green light.
+   > **解析**：wait for 是固定搭配；the green light 指绿灯。
 
-8. **中文**：驾车在学校区域内最好不要超速。
-   **英文**：You had better not drive above the speed limit here.
-   > **解析**：had better not 表示“最好不要……”。
+8. **中文**：系好你的安全带。
+   **英文**：Buckle your seatbelt.
+   > **解析**：祈使句用动词原形 Buckle；your 修饰 seatbelt。
 
-9. **中文**：我们在商场旁找了一家大型室内停车场停车。
-   **英文**：We parked inside a multi-story parking garage.
-   > **解析**：parking garage 表示“室内停车场/车库”。
+9. **中文**：注意行人。
+   **英文**：Watch out for pedestrians.
+   > **解析**：watch out for 是固定短语，表示"留意"；pedestrians 用复数表泛指。
 
-10. **中文**：司机在斑马线前停下车，礼貌地让行人先过。
-   **英文**：The car stopped to let the pedestrian cross safely.
-   > **解析**：pedestrian 表示“行人”。
+10. **中文**：他开车时分心了。
+   **英文**：He didn't concentrate on driving.
+   > **解析**：didn't 后接动词原形 concentrate；concentrate on 是固定搭配。
 
-11. **中文**：所有前排和后排乘客都必须系好安全带。
-   **英文**：All passengers inside the car must wear a seatbelt.
-   > **解析**：seatbelt 表示“安全带”。
+11. **中文**：我错过了出口。
+   **英文**：I missed the exit.
+   > **解析**：missed 是 miss 的过去式；the exit 是宾语。
 
-12. **中文**：在施工区域内驾驶请控制好汽车车速。
-   **英文**：Please watch your speed when driving near schools.
-   > **解析**：speed 表示“车速/速度”。
+12. **中文**：在下一个红绿灯左转。
+   **英文**：Turn left at the next stoplight.
+   > **解析**：turn left 是固定短语；at the next stoplight 是地点状语。
 
-13. **中文**：司机在看到红灯交通信号灯后踩刹车停下。
-   **英文**：The car stopped immediately at the red stoplight.
-   > **解析**：stoplight 表示“红绿灯/交通信号灯”。
+13. **中文**：他吃了一张罚单。
+   **英文**：He got a ticket.
+   > **解析**：got 是 get 的过去式；get a ticket 表示"吃罚单"。
 
-14. **中文**：按规定驾驶员应当在停止标志前完全停车。
-   **英文**：Drivers are supposed to slow down near crosswalks.
-   > **解析**：supposed to 表示“应当/本应”。
+14. **中文**：她通过了驾照考试。
+   **英文**：She passed the driving test.
+   > **解析**：passed 是 pass 的过去式；driving test 是固定搭配。
 
-15. **中文**：因为超速行驶，交警给他开了一张违章罚单。
-   **英文**：The police officer gave him a speeding ticket.
-   > **解析**：ticket 表示“罚单/车票”。
+15. **中文**：这个区域禁止停车。
+   **英文**：Parking is not allowed in this zone.
+   > **解析**：is not allowed 是被动语态；in this zone 是地点状语。
 
-16. **中文**：车辆驶入了一条长长的海底隧道。
-   **英文**：The highway goes through a dark mountain tunnel.
-   > **解析**：tunnel 表示“隧道/地道”。
+16. **中文**：前面有一条隧道。
+   **英文**：There is a tunnel ahead.
+   > **解析**：there is 表示"有"；ahead 是副词，表示"在前方"。
 
-17. **中文**：学校附近设立了严格的汽车限速区域。
-   **英文**：This is a quiet residential zone with low speed limits.
-   > **解析**：zone 表示“区域/地带”。
+17. **中文**：我把车停在停车楼里。
+   **英文**：I parked the car in the parking garage.
+   > **解析**：parked 是 park 的过去式；in the parking garage 是地点状语。
 
-18. **中文**：如果你再磨蹭，就会错过今天去省城的大巴车。
-   **英文**：Hurry up or you will miss the next train stop.
-   > **解析**：miss 表示“错过/遗失”。
+18. **中文**：他骑车上班。
+   **英文**：He cycles to work.
+   > **解析**：cycles 是第三人称单数形式；cycle to work 表示"骑车上班"。
 
-19. **中文**：许多市民喜欢在周末骑自行车去公园锻炼。
-   **英文**：Many people love to cycle along the river path.
-   > **解析**：cycle 表示“骑自行车”。
+19. **中文**：昨天发生了一起车祸。
+   **英文**：There was a car accident yesterday.
+   > **解析**：there was 表示过去"有"；yesterday 要求过去时。
 
-20. **中文**：公司不允许员工在工作区内抽烟。
-   **英文**：The store rules do not allow pets inside.
-   > **解析**：allow 表示“允许/准许”。
+20. **中文**：这里限速多少？
+   **英文**：What is the speed limit here?
+   > **解析**：speed limit 是固定搭配"限速"；is 与单数主语搭配。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Drivers are allowed to park here for one hour.
-   > **中文**：驾驶员被允许在公共停车场免费停车一小时。
+1. You had better slow down.
+   > **中文**：你最好减速。
 
-2. Make sure to buckle your seatbelt before driving.
-   > **中文**：开车前请务必扣紧你的安全带。
+2. You had better not speed.
+   > **中文**：你最好不要超速。
 
-3. A sudden car accident blocked the highway yesterday.
-   > **中文**：这起严重的交通事故导致道路封闭了两小时。
+3. You are supposed to wear a seatbelt.
+   > **中文**：你应该系好安全带。
 
-4. Drivers must concentrate on the road while driving.
-   > **中文**：开车时必须时刻集中注意力看路。
+4. You are not allowed to park here.
+   > **中文**：这里不允许停车。
 
-5. She passed her driving test on her first attempt.
-   > **中文**：她在经过多次练习后顺利通过了驾照考试。
+5. It is illegal to speed here.
+   > **中文**：在这儿超速是违法的。
 
-6. It is illegal to use a mobile phone while driving.
-   > **中文**：驾车时打电话属于严重违法行为。
+6. Stop at the red light.
+   > **中文**：红灯时停下。
 
-7. You had better leave now to avoid heavy rush hour.
-   > **中文**：你最好现在就出发，否则会赶不上末班班车。
+7. Wait for the green light.
+   > **中文**：等绿灯。
 
-8. You had better not drive above the speed limit here.
-   > **中文**：驾车在学校区域内最好不要超速。
+8. Buckle your seatbelt.
+   > **中文**：系好你的安全带。
 
-9. We parked inside a multi-story parking garage.
-   > **中文**：我们在商场旁找了一家大型室内停车场停车。
+9. Watch out for pedestrians.
+   > **中文**：注意行人。
 
-10. The car stopped to let the pedestrian cross safely.
-   > **中文**：司机在斑马线前停下车，礼貌地让行人先过。
+10. He didn't concentrate on driving.
+   > **中文**：他开车时分心了。
 
-11. All passengers inside the car must wear a seatbelt.
-   > **中文**：所有前排和后排乘客都必须系好安全带。
+11. I missed the exit.
+   > **中文**：我错过了出口。
 
-12. Please watch your speed when driving near schools.
-   > **中文**：在施工区域内驾驶请控制好汽车车速。
+12. Turn left at the next stoplight.
+   > **中文**：在下一个红绿灯左转。
 
-13. The car stopped immediately at the red stoplight.
-   > **中文**：司机在看到红灯交通信号灯后踩刹车停下。
+13. He got a ticket for speeding.
+   > **中文**：他因超速吃了一张罚单。
 
-14. Drivers are supposed to slow down near crosswalks.
-   > **中文**：按规定驾驶员应当在停止标志前完全停车。
+14. She passed the driving test.
+   > **中文**：她通过了驾照考试。
 
-15. The police officer gave him a speeding ticket.
-   > **中文**：因为超速行驶，交警给他开了一张违章罚单。
+15. Parking is not allowed in this zone.
+   > **中文**：这个区域禁止停车。
 
-16. The highway goes through a dark mountain tunnel.
-   > **中文**：车辆驶入了一条长长的海底隧道。
+16. There is a tunnel ahead.
+   > **中文**：前面有一条隧道。
 
-17. This is a quiet residential zone with low speed limits.
-   > **中文**：学校附近设立了严格的汽车限速区域。
+17. I parked in the parking garage.
+   > **中文**：我把车停在停车楼里。
 
-18. Hurry up or you will miss the next train stop.
-   > **中文**：如果你再磨蹭，就会错过今天去省城的大巴车。
+18. He cycles to work.
+   > **中文**：他骑车上班。
 
-19. Many people love to cycle along the river path.
-   > **中文**：许多市民喜欢在周末骑自行车去公园锻炼。
+19. There was a car accident yesterday.
+   > **中文**：昨天发生了一起车祸。
 
-20. The store rules do not allow pets inside.
-   > **中文**：公司不允许员工在工作区内抽烟。
+20. What is the speed limit here?
+   > **中文**：这里限速多少？
 
 </quiz-listening>
 
@@ -201,26 +206,32 @@ had better 比 should 语气更强，暗示"不这样做会有不好的后果"�
 
 | 英文单词 | 课文释义 |
 | --- | --- |
+| allow | 允许 |
 | allowed to | 被允许 |
-| buckle | 扣紧 / 扣上 |
-| car accident | 交通事故 |
-| concentrate | 专心 / 集中 |
+| buckle | 扣上 |
+| car accident | 车祸 |
+| concentrate | 集中注意力 |
+| cycle | 骑自行车 |
 | driving test | 驾照考试 |
-| had better | 最好做 |
-| had better not | 最好不要做 |
+| for | 为了 / 等待 |
+| had better | 最好 |
+| had better not | 最好不要 |
 | illegal | 违法的 |
-| parking garage | 室内停车场 |
+| miss | 错过 |
+| next | 下一个 |
+| parking garage | 停车楼 |
 | pedestrian | 行人 |
 | seatbelt | 安全带 |
-| speed | 车速 |
+| speed | 速度 / 超速 |
 | stoplight | 红绿灯 |
-| supposed to | 应当 |
-| ticket | 罚单 |
+| supposed to | 按理应该 |
+| ticket | 罚单 / 票 |
 | tunnel | 隧道 |
 | zone | 区域 |
-| miss | 错过 |
-| cycle | 骑自行车 |
-| allow | 允许 |
+| is | 是（单数） |
+| the | 这个 / 那个 |
+| light | 灯 |
+| drive | 驾驶 |
 
 </quiz-matching>
 
@@ -228,202 +239,202 @@ had better 比 should 语气更强，暗示"不这样做会有不好的后果"�
 
 ### 1
 
-Drivers are allowed to park here ____ one hour.
+You had better ____ down.
 
-- [x] for
-- [ ] allow
-- [ ] allowed to
+- [x] slow
+- [ ] slowly
+- [ ] slowed
 
-> **解析**：**for** 为介词，表示目的、对象或持续的时间段。
+> **解析**：had better 后接动词原形 slow；slow down 是固定短语。
 
 ### 2
 
-Make sure to ____ your seatbelt before driving.
+You had better ____ speed.
 
-- [x] buckle
-- [ ] allow
-- [ ] allowed to
+- [x] not
+- [ ] no
+- [ ] don't
 
-> **解析**：**buckle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：had better not + 动词原形是固定否定结构；don't 不能放在 better 后。
 
 ### 3
 
-A sudden car accident blocked the highway ____.
+You are ____ to wear a seatbelt.
 
-- [x] yesterday
-- [ ] allow
-- [ ] allowed to
+- [x] supposed
+- [ ] suppose
+- [ ] supposing
 
-> **解析**：**yesterday** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be supposed to 是固定结构，用过去分词 supposed；其余形式不成立。
 
 ### 4
 
-Drivers must ____ on the road while driving.
+You are not ____ to park here.
 
-- [x] concentrate
+- [x] allowed
 - [ ] allow
-- [ ] allowed to
+- [ ] allowing
 
-> **解析**：**concentrate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be allowed to 是被动结构，用过去分词 allowed；其余形式不成立。
 
 ### 5
 
-She passed her ____ test on her first attempt.
+It is ____ to speed here.
 
-- [x] driving
-- [ ] allow
-- [ ] allowed to
+- [x] illegal
+- [ ] legal
+- [ ] illegally
 
-> **解析**：**driving** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：超速是违法的，用 illegal；legal 语义相反，illegally 是副词不作表语。
 
 ### 6
 
-It is ____ to use a mobile phone while driving.
+Stop ____ the red light.
 
-- [x] illegal
-- [ ] allow
-- [ ] allowed to
+- [x] at
+- [ ] in
+- [ ] on
 
-> **解析**：**illegal** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：at the red light 表示"在红灯处"；in 和 on 不表此位置。
 
 ### 7
 
-You had ____ leave now to avoid heavy rush hour.
+Wait ____ the green light.
 
-- [x] better
-- [ ] allow
-- [ ] allowed to
+- [x] for
+- [ ] at
+- [ ] to
 
-> **解析**：**better** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：wait for 是固定搭配；其余介词不成立。
 
 ### 8
 
-You had better not drive above the ____ limit here.
+____ your seatbelt.
 
-- [x] speed
-- [ ] allow
-- [ ] allowed to
+- [x] Buckle
+- [ ] Buckles
+- [ ] Buckled
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **speed**。
+> **解析**：祈使句用动词原形 Buckle；其余形式不成立。
 
 ### 9
 
-We parked inside a ____ parking garage.
+Watch out ____ pedestrians.
 
-- [x] multi-story
-- [ ] allow
-- [ ] allowed to
+- [x] for
+- [ ] at
+- [ ] on
 
-> **解析**：**multi-story** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：watch out for 是固定短语；其余介词不成立。
 
 ### 10
 
-The car stopped to let the ____ cross safely.
+He didn't concentrate ____ driving.
 
-- [x] pedestrian
-- [ ] allow
-- [ ] allowed to
+- [x] on
+- [ ] in
+- [ ] at
 
-> **解析**：**pedestrian** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：concentrate on 是固定搭配；其余介词不成立。
 
 ### 11
 
-All passengers inside the car must wear a ____.
+I ____ the exit.
 
-- [x] seatbelt
-- [ ] allow
-- [ ] allowed to
+- [x] missed
+- [ ] miss
+- [ ] missing
 
-> **解析**：**seatbelt** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述已发生的事用过去式 missed；missing 不能单独作谓语。
 
 ### 12
 
-Please watch your ____ when driving near schools.
+Turn left at the ____ stoplight.
 
-- [x] speed
-- [ ] allow
-- [ ] allowed to
+- [x] next
+- [ ] near
+- [ ] close
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **speed**。
+> **解析**：the next stoplight（下一个红绿灯）搭配成立；near 和 close 不作此定语。
 
 ### 13
 
-The car stopped immediately at the red ____.
+He got a ____ for speeding.
 
-- [x] stoplight
-- [ ] allow
-- [ ] allowed to
+- [x] ticket
+- [ ] zone
+- [ ] tunnel
 
-> **解析**：**stoplight** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get a ticket（吃罚单）是固定表达；zone 和 tunnel 语义不通。
 
 ### 14
 
-Drivers are supposed to slow down near ____.
+She passed the driving ____.
 
-- [x] crosswalks
-- [ ] allow
-- [ ] allowed to
+- [x] test
+- [ ] testing
+- [ ] tested
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **crosswalks**。
+> **解析**：driving test（驾考）是固定搭配；其余形式不成立。
 
 ### 15
 
-The police officer gave him a speeding ____.
+Parking is not allowed in this ____.
 
-- [x] ticket
-- [ ] allow
-- [ ] allowed to
+- [x] zone
+- [ ] seatbelt
+- [ ] pedestrian
 
-> **解析**：**ticket** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：in this zone（在这个区域）语义通顺；另外两项是物或人。
 
 ### 16
 
-The highway goes through a dark mountain ____.
+There is a ____ ahead.
 
 - [x] tunnel
-- [ ] allow
-- [ ] allowed to
+- [ ] speed
+- [ ] illegal
 
-> **解析**：**tunnel** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：前方有隧道（tunnel）语义成立；speed 和 illegal 词性不合。
 
 ### 17
 
-This is a quiet residential ____ with low speed limits.
+I parked in the parking ____.
 
-- [x] zone
-- [ ] allow
-- [ ] allowed to
+- [x] garage
+- [ ] garages
+- [ ] zone
 
-> **解析**：**zone** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：parking garage（停车楼）是固定搭配；the 后接单数形式。
 
 ### 18
 
-Hurry up or you will ____ the next train stop.
+He ____ to work every day.
 
-- [x] miss
-- [ ] allow
-- [ ] allowed to
+- [x] cycles
+- [ ] cycle
+- [ ] cycling
 
-> **解析**：**miss** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 He 是第三人称单数，用 cycles；cycling 不能单独作谓语。
 
 ### 19
 
-Many people love to ____ along the river path.
+There ____ a car accident yesterday.
 
-- [x] cycle
-- [ ] allow
-- [ ] allowed to
+- [x] was
+- [ ] is
+- [ ] were
 
-> **解析**：**cycle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 要求过去时 was；a car accident 是单数，不用 were。
 
 ### 20
 
-The store rules do not ____ pets inside.
+What is the speed ____ here?
 
-- [x] allow
-- [ ] allowed to
-- [ ] buckle
+- [x] limit
+- [ ] limits
+- [ ] limited
 
-> **解析**：**allow** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：speed limit（限速）是固定搭配，用单数名词；limited 是过去分词。
 
 </quiz-cloze>

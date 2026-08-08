@@ -10,32 +10,37 @@ Buddhist, Christian, Hindu, Jewish, Muslim, atheist, become, believe in, bible, 
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的话题是"讨论文化传统"，具体涉及宗教和信仰。你可以描述不同信仰和态度：She's Buddhist, he's Christian, and their neighbor is Muslim. They all believe in different things, but they respect each other.（她是佛教徒，他是基督徒，邻居是穆斯林。他们信仰不同，但彼此尊重。）I'm not very religious—I have my doubts about ghosts and life after death, but I respect those who believe.（我不太信教——我对鬼魂和死后生命持怀疑态度，但我尊重信教的人。）
+本单元的主题是"宗教与文化传统"。词表可以分成三组：信仰身份词（Buddhist, Christian, Hindu, Jewish, Muslim, atheist, catholic, religious）、信仰对象与场所（god, goddess, ghost, bible, cross, temple, prayer, priest）、以及态度与抽象名词（believe in, doubt, respect, death, happiness, lives, become, return, take, had）。拼起来可以谈论信仰与文化：My family is Buddhist. They believe in kindness and respect all traditions. The priest leads the prayer at the temple.
 
-词表里有主要宗教和信仰者的名称：Buddhist, Christian, Hindu, Jewish, Muslim, catholic, atheist。也有宗教相关概念：god, goddess, prayer, priest, temple, bible, cross, believe in。had 是过去完成时的助动词，用来讲述过去的信仰变化：She had become more religious after the experience.（那次经历后她变得更虔诚了。）
+语法主线有两条。其一是"信仰"的表达：believe in 后接信仰的对象，be + 宗教形容词/名词表示身份：She is Christian. 注意各宗教词首字母大写是常规写法。其二是复数与抽象名词：lives 是 life 的不规则复数，happiness 是 happy 加 -ness 变来的抽象名词，death 是 die 的名词形式——这类"词性变形"是本单元的构词重点。
 
-抽象概念词包括 death, happiness, doubt, respect, lives。lives 是 life 的复数。return 可以指"回归"信仰或"来世"的概念。take 可能搭配 take part in（参加宗教活动）。
+学完这些词，你能用英语介绍自己和他人的信仰背景，讨论节日与仪式习俗，并以尊重的态度谈论不同的文化传统。
 
 ## Tips
 
-- **Buddhist / Christian / Hindu / Jewish / Muslim** — 五大宗教/信仰的形容词/名词形式。注意：Buddhist（佛教徒/佛教的）、Christian（基督徒/基督教的）、Hindu（印度教徒/印度教的）、Jewish（犹太教的，人是 Jew）、Muslim（穆斯林/伊斯兰教的）。这些词首字母必须大写。
+- **Buddhist / Christian / Hindu / Jewish / Muslim** — 五大宗教身份词，均可作名词或形容词：She is Buddhist. / a Buddhist temple. 注意拼写：Buddhist 双 d，Christian 不是 Christain，Muslim 不是 Moslem（旧式）。书写时首字母大写。
 
-- **atheist / religious / believe in** — atheist = 无神论者（a- 表否定 + theist 有神论者）。religious = 信教的、虔诚的。believe in = 信仰、相信……的存在：I believe in God. / I don't believe in ghosts. 注意 believe in 和 believe 的区别：believe someone = 相信某人说的话，believe in = 信仰其存在。
+- **atheist / religious** — atheist 是"无神论者"，词根 the- 表示"神"，a- 表否定。religious 是形容词"虔诚的、宗教的"：a religious family, religious traditions. ✗ He is religion → ✓ He is religious，名词不能直接作表语形容词。
 
-- **god / goddess / ghost** — god 是神（泛指或基督教上帝，大写 God 特指上帝）。goddess = 女神（god + -dess）。ghost = 鬼魂。注意 God（大写，无冠词）指基督教的上帝；a god 指一个神。
+- **believe in / doubt** — believe in 表示"信仰、相信……的存在"：believe in god, believe in ghosts. doubt 作动词表示"怀疑"：I doubt it. 两者正好构成一组对照。
 
-- **prayer / priest / temple** — prayer 是祈祷（pray + -er）。priest 是神父/祭司。temple 是寺庙/神殿（佛教、印度教、犹太教都用 temple；基督教通常用 church）。
+- **god / goddess** — god 是"神"，goddess 是"女神"，-ess 是女性后缀（如 actress）。泛指一神教的神时 God 首字母大写。ghost 是"鬼魂"，与 god 只差一个字母，注意区分。
 
-- **bible / cross / catholic** — bible 是圣经（通常大写 Bible）。cross 是十字架。catholic 意为"天主教的"（大写 Catholic 指罗马天主教）。注意 catholic 小写时有"广泛的"含义。
+- **prayer / priest / temple / bible / cross / catholic** — 一组仪式与场所词。prayer 祈祷；priest 神父/祭司；temple 寺庙；bible 圣经（常写作 Bible）；cross 十字架；catholic 天主教的（常写作 Catholic）。say a prayer（做祷告）、visit a temple（参拜寺庙）是常用搭配。
 
-- **doubt / respect / death** — doubt 可作名词或动词：I doubt it. / I have my doubts. respect 可作动词或名词：respect others' beliefs / show respect. death 是名词（动词是 die，形容词是 dead/deadly）。
+- **become** — 系动词"变成"，后接名词或形容词：She became a teacher. He became religious later in life. 过去式 became，过去分词 become：has become。
 
-- **had / become / return / lives** — had 在此构成过去完成时：She had become a Buddhist before I met her. become = 变成。return 可指"回归"：return to her faith. lives 是 life 的复数（注意发音变化：/laɪvz/）。
+- **had** — have 的过去式与过去分词：They had a ceremony yesterday. 也是过去完成时的助动词：had returned（已经回来了）。
 
-- **happiness / take** — happiness = 幸福（happy → happiness，变 y 为 i 加 -ness）。take 在宗教语境中可能搭配 take part in（参加）或 take a prayer（做一次祈祷）。
+- **lives** — life 的复数，注意 f → ves 的不规则变化：knife → knives 同理。读作 /laɪvz/，与动词 lives（居住，/lɪvz/）发音不同。
+
+- **happiness / death** — 两个词性变形词。happiness = happy（y → i）+ -ness；death = die 的名词形式（die → death）。类似的：illness, sadness。
+
+- **respect** — 动词/名词"尊重"：respect other traditions, show respect for others. 介词搭配是 for：respect for different beliefs.
+
+- **return / take** — return 回来/归还：return home, return the book. take 拿/参加：take part in a ceremony（参加仪式）。take part in 是高频短语。
 
 ## 练习
 
@@ -53,149 +58,149 @@ Buddhist, Christian, Hindu, Jewish, Muslim, atheist, become, believe in, bible, 
 
 <quiz-sentence-builder>
 
-1. **中文**：许多玄奘故事与佛教徒的传统息息相关。
-   **英文**：The monk was a devoted Buddhist who lived in temple.
-   > **解析**：Buddhist 表示“佛教徒/佛教的”。
+1. **中文**：我的家庭是佛教徒。
+   **英文**：My family is Buddhist.
+   > **解析**：Buddhist 作表语表示信仰身份，首字母大写；family 作整体看待时谓语用单数 is。
 
-2. **中文**：平安夜全球数以亿计的基督教徒前往教堂。
-   **英文**：Many Christian families attend church on Christmas Eve.
-   > **解析**：Christian 表示“基督教徒/基督教的”。
+2. **中文**：他们相信神。
+   **英文**：They believe in god.
+   > **解析**：believe in 是固定短语，表示"信仰"；in 是介词，后接名词 god。
 
-3. **中文**：印度教徒视排灯节为最盛大的传统节日。
-   **英文**：Diwali is an important festival for Hindu communities.
-   > **解析**：Hindu 表示“印度教徒/印度教的”。
+3. **中文**：她是一名基督徒。
+   **英文**：She is a Christian.
+   > **解析**：Christian 作名词表示"基督徒"，可数，前面需要冠词 a。
 
-4. **中文**：犹太人的传统节日包含光明节等重要日子。
-   **英文**：Traditional Jewish customs have a very rich history.
-   > **解析**：Jewish 表示“犹太人的/犹太教的”。
+4. **中文**：那位神父在寺庙里带领祈祷。
+   **英文**：The priest leads the prayer at the temple.
+   > **解析**：主语 The priest 是第三人称单数，lead 加 s；at the temple 是地点状语。
 
-5. **中文**：穆斯林在斋月期间遵守日间禁食的规定。
-   **英文**：Muslim communities celebrate Eid after Ramadan.
-   > **解析**：Muslim 表示“穆斯林/伊斯兰教徒”。
+5. **中文**：他们尊重所有的传统。
+   **英文**：They respect all traditions.
+   > **解析**：respect 是及物动词，直接接宾语；traditions 用复数表示泛指。
 
-6. **中文**：作为无神论者，他不信仰任何具体的宗教神明。
-   **英文**：An atheist does not hold a belief in any deity.
-   > **解析**：atheist 表示“无神论者”。
+6. **中文**：我不相信鬼。
+   **英文**：I don't believe in ghosts.
+   > **解析**：否定句借助 do not（don't）+ 动词原形；ghosts 用复数表泛指。
 
-7. **中文**：数百万信徒信仰神明能给人带来心灵平安。
-   **英文**：Many religious people believe in a high power.
-   > **解析**：believe in 表示“信仰/相信……的存在”。
+7. **中文**：她后来变得虔诚了。
+   **英文**：She became religious later in life.
+   > **解析**：became 是 become 的过去式，后接形容词 religious 作表语；later in life 是时间状语。
 
-8. **中文**：神父在星期天的仪式上诵读圣经章节。
-   **英文**：The priest read a passage from the holy bible.
-   > **解析**：bible 表示“圣经”。
+8. **中文**：印度教徒庆祝许多节日。
+   **英文**：Hindus celebrate many festivals.
+   > **解析**：Hindus 是复数名词作主语，谓语动词用原形；many 修饰可数名词复数。
 
-9. **中文**：那座老教堂属于天主教教区的遗产建筑。
-   **英文**：They attended a traditional Catholic mass service.
-   > **解析**：Catholic 表示“天主教的”。
+9. **中文**：这位穆斯林女性每天祈祷。
+   **英文**：The Muslim woman prays every day.
+   > **解析**：主语为第三人称单数，pray 加 s 变 prays；every day 是时间状语。
 
-10. **中文**：教堂屋顶耸立着一座庄严的金色十字架。
-   **英文**：A wooden cross stood on top of the old church.
-   > **解析**：cross 表示“十字架/跨越”。
+10. **中文**：我怀疑有鬼魂。
+   **英文**：I doubt there are ghosts.
+   > **解析**：doubt 后接省略 that 的宾语从句；there are 表示"有"，ghosts 为复数。
 
-11. **中文**：在许多文化中，人们对死亡怀有敬畏之心。
-   **英文**：They mourned the unexpected death of their leader.
-   > **解析**：death 表示“死亡/逝世”。
+11. **中文**：这座寺庙很古老。
+   **英文**：The temple is very old.
+   > **解析**：is 与单数主语 The temple 搭配；very 修饰形容词 old。
 
-12. **中文**：毋庸置疑，他的诚实赢得了大家的信任。
-   **英文**：There is no doubt that peace is essential for all.
-   > **解析**：doubt 表示“怀疑/疑虑”；no doubt 意为“毫无疑问”。
+12. **中文**：他们过着幸福的生活。
+   **英文**：They live happy lives.
+   > **解析**：lives 是 life 的复数；happy 修饰 lives，live lives 表示"过着……的生活"。
 
-13. **中文**：他们祈求神保佑这片土地风调雨顺。
-   **英文**：People pray to God for health and protection.
-   > **解析**：God 表示“神/上帝”。
+13. **中文**：死亡是生命的一部分。
+   **英文**：Death is a part of life.
+   > **解析**：Death 是名词作主语；a part of 表示"……的一部分"。
 
-14. **中文**：古希腊神话中包含许多关于女神的传说。
-   **英文**：The ancient temple was built to honor a goddess.
-   > **解析**：goddess 表示“女神”。
+14. **中文**：幸福比金钱更重要。
+   **英文**：Happiness is more important than money.
+   > **解析**：Happiness 是抽象名词作主语；more important than 是比较级结构。
 
-15. **中文**：真正的幸福来自于内心的宁静与满足。
-   **英文**：True happiness comes from love, peace, and faith.
-   > **解析**：happiness 表示“幸福/快乐”。
+15. **中文**：他们昨天举行了仪式。
+   **英文**：They had a ceremony yesterday.
+   > **解析**：had 是 have 的过去式，与 yesterday 呼应；a ceremony 是可数名词单数。
 
-16. **中文**：信徒们每天早晨在神前作虔诚的祈祷。
-   **英文**：She said a quiet prayer before going to sleep.
-   > **解析**：prayer 表示“祈祷/祷告”。
+16. **中文**：人们会在节日里回到家乡。
+   **英文**：People return home for the festival.
+   > **解析**：return home 中 home 作副词，前面不加介词 to；for 表示目的。
 
-17. **中文**：尊敬的神父给新人主持了神圣的婚礼。
-   **英文**：The parish priest gave a blessing to the couple.
-   > **解析**：priest 表示“神父/牧师”。
+17. **中文**：女神代表着爱。
+   **英文**：The goddess represents love.
+   > **解析**：主语 The goddess 是第三人称单数，represent 加 s；love 为抽象名词。
 
-18. **中文**：该历史遗址吸引了许多宗教朝圣者。
-   **英文**：The mountain is considered a sacred religious site.
-   > **解析**：religious 表示“宗教的/虔诚的”。
+18. **中文**：无神论者不相信神。
+   **英文**：Atheists don't believe in god.
+   > **解析**：Atheists 复数主语，借助 don't 构成否定；believe in 为固定短语。
 
-19. **中文**：要时刻尊重不同人群的信仰和文化背景。
-   **英文**：We must respect different beliefs and traditions.
-   > **解析**：respect 表示“尊重/敬佩”。
+19. **中文**：我们参加了那场仪式。
+   **英文**：We took part in the ceremony.
+   > **解析**：took 是 take 的过去式；take part in 是固定短语，表示"参加"。
 
-20. **中文**：游客们脱鞋进入这座古老的古代寺庙。
-   **英文**：They visited a famous Buddhist temple in Kyoto.
-   > **解析**：temple 表示“寺庙/殿堂”。
+20. **中文**：十字架是这个信仰的象征。
+   **英文**：The cross is a symbol of the faith.
+   > **解析**：is 与单数主语搭配；a symbol of 表示"……的象征"。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The monk was a devoted Buddhist who lived in temple.
-   > **中文**：许多玄奘故事与佛教徒的传统息息相关。
+1. My family is Buddhist.
+   > **中文**：我的家庭是佛教徒。
 
-2. Many Christian families attend church on Christmas Eve.
-   > **中文**：平安夜全球数以亿计的基督教徒前往教堂。
+2. She believes in god.
+   > **中文**：她相信神。
 
-3. Diwali is an important festival for Hindu communities.
-   > **中文**：印度教徒视排灯节为最盛大的传统节日。
+3. The priest is at the temple.
+   > **中文**：神父在寺庙里。
 
-4. Traditional Jewish customs have a very rich history.
-   > **中文**：犹太人的传统节日包含光明节等重要日子。
+4. They say a prayer every morning.
+   > **中文**：他们每天早晨做祷告。
 
-5. Muslim communities celebrate Eid after Ramadan.
-   > **中文**：穆斯林在斋月期间遵守日间禁食的规定。
+5. He is not religious.
+   > **中文**：他不虔诚。
 
-6. An atheist does not hold a belief in any deity.
-   > **中文**：作为无神论者，他不信仰任何具体的宗教神明。
+6. Do you believe in ghosts?
+   > **中文**：你相信有鬼吗？
 
-7. Many religious people believe in a high power.
-   > **中文**：数百万信徒信仰神明能给人带来心灵平安。
+7. I doubt it, but it is possible.
+   > **中文**：我对此表示怀疑，但有可能。
 
-8. The priest read a passage from the holy bible.
-   > **中文**：神父在星期天的仪式上诵读圣经章节。
+8. We respect all traditions.
+   > **中文**：我们尊重所有的传统。
 
-9. They attended a traditional Catholic mass service.
-   > **中文**：那座老教堂属于天主教教区的遗产建筑。
+9. The goddess of love is famous.
+   > **中文**：爱之女神很有名。
 
-10. A wooden cross stood on top of the old church.
-   > **中文**：教堂屋顶耸立着一座庄严的金色十字架。
+10. They had a ceremony last week.
+   > **中文**：他们上周举行了仪式。
 
-11. They mourned the unexpected death of their leader.
-   > **中文**：在许多文化中，人们对死亡怀有敬畏之心。
+11. People return home for the festival.
+   > **中文**：人们会为了节日回家。
 
-12. There is no doubt that peace is essential for all.
-   > **中文**：毋庸置疑，他的诚实赢得了大家的信任。
+12. Happiness is more important than money.
+   > **中文**：幸福比金钱更重要。
 
-13. People pray to God for health and protection.
-   > **中文**：他们祈求神保佑这片土地风调雨顺。
+13. Their lives changed after that.
+   > **中文**：在那之后他们的生活改变了。
 
-14. The ancient temple was built to honor a goddess.
-   > **中文**：古希腊神话中包含许多关于女神的传说。
+14. She became a priest many years ago.
+   > **中文**：她许多年前成为了一名神父。
 
-15. True happiness comes from love, peace, and faith.
-   > **中文**：真正的幸福来自于内心的宁静与满足。
+15. The temple is very old.
+   > **中文**：这座寺庙很古老。
 
-16. She said a quiet prayer before going to sleep.
-   > **中文**：信徒们每天早晨在神前作虔诚的祈祷。
+16. He reads the bible every day.
+   > **中文**：他每天读圣经。
 
-17. The parish priest gave a blessing to the couple.
-   > **中文**：尊敬的神父给新人主持了神圣的婚礼。
+17. The cross is a symbol of the faith.
+   > **中文**：十字架是这个信仰的象征。
 
-18. The mountain is considered a sacred religious site.
-   > **中文**：该历史遗址吸引了许多宗教朝圣者。
+18. My neighbors are Muslim.
+   > **中文**：我的邻居是穆斯林。
 
-19. We must respect different beliefs and traditions.
-   > **中文**：要时刻尊重不同人群的信仰和文化背景。
+19. Death is a part of life.
+   > **中文**：死亡是生命的一部分。
 
-20. They visited a famous Buddhist temple in Kyoto.
-   > **中文**：游客们脱鞋进入这座古老的古代寺庙。
+20. They take part in the ceremony.
+   > **中文**：他们参加那场仪式。
 
 </quiz-listening>
 
@@ -204,25 +209,35 @@ Buddhist, Christian, Hindu, Jewish, Muslim, atheist, become, believe in, bible, 
 | 英文单词 | 课文释义 |
 | --- | --- |
 | Buddhist | 佛教徒 |
-| Christian | 基督教徒 |
+| Christian | 基督徒 |
 | Hindu | 印度教徒 |
-| Jewish | 犹太人的 |
+| Jewish | 犹太教的 / 犹太人的 |
 | Muslim | 穆斯林 |
 | atheist | 无神论者 |
-| believe in | 信仰 / 相信 |
+| become | 变成 |
+| believe in | 相信 / 信仰 |
 | bible | 圣经 |
-| Catholic | 天主教的 |
+| catholic | 天主教的 |
 | cross | 十字架 |
 | death | 死亡 |
 | doubt | 怀疑 |
-| God | 神 / 上帝 |
+| ghost | 鬼魂 |
+| god | 神 |
 | goddess | 女神 |
+| had | 有 / 举行（have 的过去式） |
 | happiness | 幸福 |
-| prayer | 祈祷 / 祷告 |
-| priest | 神父 / 牧师 |
-| religious | 宗教的 |
+| lives | 生命（life 的复数） |
+| prayer | 祈祷 |
+| priest | 神父 / 祭司 |
+| religious | 虔诚的 / 宗教的 |
 | respect | 尊重 |
+| return | 返回 |
+| take | 拿 / 参加 |
 | temple | 寺庙 |
+| is | 是（单数） |
+| the | 这个 / 那个 |
+| every | 每个 |
+| very | 非常 |
 
 </quiz-matching>
 
@@ -230,202 +245,202 @@ Buddhist, Christian, Hindu, Jewish, Muslim, atheist, become, believe in, bible, 
 
 ### 1
 
-The monk was a devoted ____ who lived in temple.
+They believe ____ god.
 
-- [x] Buddhist
-- [ ] Christian
-- [ ] Hindu
+- [x] in
+- [ ] on
+- [ ] at
 
-> **解析**：**Buddhist** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：believe in 是固定搭配，表示"信仰"；on 和 at 无此搭配。
 
 ### 2
 
-Many ____ families attend church on Christmas Eve.
+My family is ____.
 
-- [x] Christian
-- [ ] Buddhist
-- [ ] Hindu
+- [x] Buddhist
+- [ ] temple
+- [ ] prayer
 
-> **解析**：**Christian** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要表示信仰身份的词，Buddhist 成立；temple 和 prayer 是名词场所/行为，不作身份表语。
 
 ### 3
 
-Diwali is an important festival for ____ communities.
+The priest leads the ____ at the temple.
 
-- [x] Hindu
-- [ ] Buddhist
-- [ ] Christian
+- [x] prayer
+- [ ] cross
+- [ ] bible
 
-> **解析**：**Hindu** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：lead the prayer（带领祈祷）是习惯搭配；cross 和 bible 语义不符。
 
 ### 4
 
-Traditional ____ customs have a very rich history.
+I don't believe in ____.
 
-- [x] Jewish
-- [ ] Buddhist
-- [ ] Christian
+- [x] ghosts
+- [ ] respect
+- [ ] become
 
-> **解析**：**Jewish** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：believe in 后需要名词，ghosts（鬼魂）符合语境；respect 和 become 不是可信仰的对象。
 
 ### 5
 
-____ communities celebrate Eid after Ramadan.
+We ____ all traditions.
 
-- [x] Muslim
-- [ ] Buddhist
-- [ ] Christian
+- [x] respect
+- [ ] doubt
+- [ ] had
 
-> **解析**：**Muslim** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 We 后接动词原形 respect（尊重）；doubt 语义相反，had 与 all traditions 搭配不当。
 
 ### 6
 
-An ____ does not hold a belief in any deity.
+She became ____ later in life.
 
-- [x] atheist
-- [ ] Buddhist
-- [ ] Christian
+- [x] religious
+- [ ] religion
+- [ ] priest
 
-> **解析**：**atheist** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：became 后接形容词作表语，religious 成立；religion 是名词，priest 需冠词 a。
 
 ### 7
 
-Many ____ people believe in a high power.
+They live happy ____.
 
-- [x] religious
-- [ ] Buddhist
-- [ ] Christian
+- [x] lives
+- [ ] lifes
+- [ ] life
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **religious**。
+> **解析**：life 的复数是不规则变化 lives；lifes 拼写错误，life 单数与主语 They 不符。
 
 ### 8
 
-The ____ read a passage from the holy bible.
+____ is more important than money.
 
-- [x] priest
-- [ ] Buddhist
-- [ ] Christian
+- [x] Happiness
+- [ ] Happy
+- [ ] Happily
 
-> **解析**：**priest** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句首需要名词作主语，Happiness 成立；Happy 是形容词，Happily 是副词。
 
 ### 9
 
-They attended a traditional ____ mass service.
+They ____ a ceremony last week.
 
-- [x] Catholic
-- [ ] Buddhist
-- [ ] Christian
+- [x] had
+- [ ] has
+- [ ] having
 
-> **解析**：**Catholic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：last week 要求过去式 had；has 是现在时第三人称单数，having 不能单独作谓语。
 
 ### 10
 
-A wooden ____ stood on top of the old church.
+People return ____ for the festival.
 
-- [x] cross
-- [ ] Buddhist
-- [ ] Christian
+- [x] home
+- [ ] to home
+- [ ] at home
 
-> **解析**：**cross** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：return home 中 home 作副词，不加介词；✗ return to home 是常见错误。
 
 ### 11
 
-They mourned the unexpected ____ of their leader.
+The ____ is a symbol of the faith.
 
-- [x] death
-- [ ] Buddhist
-- [ ] Christian
+- [x] cross
+- [ ] doubt
+- [ ] become
 
-> **解析**：**death** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：十字架（cross）是信仰的象征；doubt 和 become 语义不通。
 
 ### 12
 
-There is no ____ that peace is essential for all.
+He reads the ____ every day.
 
-- [x] doubt
-- [ ] Buddhist
-- [ ] Christian
+- [x] bible
+- [ ] goddess
+- [ ] prayer
 
-> **解析**：**doubt** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：read the bible（读圣经）搭配成立；goddess 是人物，prayer 不能被"读"（应为 say a prayer）。
 
 ### 13
 
-People pray to ____ for health and protection.
+The goddess ____ love is famous.
 
-- [x] God
-- [ ] Buddhist
-- [ ] Christian
+- [x] of
+- [ ] in
+- [ ] at
 
-> **解析**：**God** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the goddess of love（爱之女神）用 of 表所属；in 和 at 不表此关系。
 
 ### 14
 
-The ancient ____ was built to honor a goddess.
+She ____ in god.
 
-- [x] temple
-- [ ] Buddhist
-- [ ] Christian
+- [x] believes
+- [ ] believe
+- [ ] believing
 
-> **解析**：**temple** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 She 是第三人称单数，用 believes；believe 缺 s，believing 不能单独作谓语。
 
 ### 15
 
-True ____ comes from love, peace, and faith.
+My neighbors are ____.
 
-- [x] happiness
-- [ ] Buddhist
-- [ ] Christian
+- [x] Muslim
+- [ ] mosque
+- [ ] pray
 
-> **解析**：**happiness** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：are 后接信仰身份词 Muslim；mosque 是场所名词，pray 是动词。
 
 ### 16
 
-She said a quiet ____ before going to sleep.
+The temple is very ____.
 
-- [x] prayer
-- [ ] Buddhist
-- [ ] Christian
+- [x] old
+- [ ] believe
+- [ ] return
 
-> **解析**：**prayer** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：very 后需要形容词，old 成立；其余选项是动词。
 
 ### 17
 
-The parish ____ gave a blessing to the couple.
+____ is a part of life.
 
-- [x] priest
-- [ ] Buddhist
-- [ ] Christian
+- [x] Death
+- [ ] Die
+- [ ] Dead
 
-> **解析**：**priest** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句首需要名词，Death 是 die 的名词形式；Die 是动词，Dead 是形容词。
 
 ### 18
 
-The mountain is considered a sacred ____ site.
+They take part ____ the ceremony.
 
-- [x] religious
-- [ ] Buddhist
-- [ ] Christian
+- [x] in
+- [ ] on
+- [ ] at
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **religious**。
+> **解析**：take part in 是固定短语，表示"参加"；其余介词不成立。
 
 ### 19
 
-We must ____ different beliefs and traditions.
+We ____ our home for the city in 2020.
 
-- [x] respect
-- [ ] Buddhist
-- [ ] Christian
+- [x] returned
+- [ ] returns
+- [ ] returning
 
-> **解析**：**respect** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：in 2020 是过去时间，用过去式 returned；主语 We 也不能搭配 returns。
 
 ### 20
 
-They visited a famous ____ temple in Kyoto.
+I ____ there are ghosts.
 
-- [x] Buddhist
-- [ ] Christian
-- [ ] Hindu
+- [x] doubt
+- [ ] respect
+- [ ] become
 
-> **解析**：**Buddhist** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：doubt 后接从句表示"怀疑"；respect 和 become 不能接 there are 从句。
 
 </quiz-cloze>

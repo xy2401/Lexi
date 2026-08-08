@@ -10,40 +10,35 @@ article, as, can't stand, currency, democracy, economy, election, environmental,
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"分享对政府的看法"展开。核心是政治和观点表达：I can't stand that politician—his speech was shocking.（我受不了那个政客——他的演讲令人震惊。）、In a democracy, everyone should vote in the election.（在民主国家，每个人都应该在选举中投票。）、The article mentioned the environmental issue and the economy.（文章提到了环境问题和经济。）、There could be changes to immigration policy—there might be a new law.（移民政策可能会有变化——可能会有新法律。）。
+本单元的主题是"谈论政治、发表对政府的看法"。词表可以分成三组：政治核心名词（politics, politician, democracy, election, state, vote, speech, article）、社会议题词（economy, currency, immigration, environmental, truth, local, former）、以及表达观点与推测的语言（can't stand, mean, meant, mention, had to, not, as, there could be, there might be）。组合起来就能讨论新闻与观点：I read an article about the election. The politician's speech was shocking. There might be changes.
 
-词表里有政治词汇（democracy, election, politician, vote）和观点表达（can't stand, shocking, truth）。你可以练习：The former president gave a speech. / I meant what I said. / The currency is the dollar. / The state held an election.
+语法主线是情态动词表推测与义务。there could be 和 there might be 都表示"可能会有"，语气比 there will be 委婉：There could be a new election. had to 是 have to 的过去式，表示"（当时）不得不"：She had to mention the truth. 另一条主线是 mean 与 meant：What do you mean? 是询问"什么意思"的高频句，meant 是其过去式。can't stand 表达强烈的反感，比 don't like 语气重得多。
 
-there could/might be 表推测。mean → meant（意思是）。
+学完本单元，你能用英语讨论选举、经济、移民等公共话题，转述新闻报道，并礼貌地表达赞同、反感或不确定的推测。
 
 ## Tips
 
-- **vote / election / democracy** — 投票 / 选举 / 民主。搭配：vote for, in the election, a democracy。例句：I voted for the new mayor. / The election is next month. / We live in a democracy. 注意 vote for sb = 投某人的票。
+- **politics / politician / democracy** — politics 是"政治"这门领域，形式以 -s 结尾但常作单数：Politics is important. politician 是"政客、政治家"（-ician 表示从事某领域的人）。democracy 是"民主"，来自希腊语 demos（人民）+ kratos（权力）。
 
-- **politician / speech / shocking** — 政客 / 演讲 / 令人震惊的。搭配：a politician, give a speech, a shocking revelation。例句：The politician made a promise. / Her speech was powerful. / The news is shocking. 注意 shocking 比 surprising 程度更强。
+- **election / vote** — election 是"选举"，vote 是"投票"，两者经常搭配：vote in the election. vote 也可作名词：I cast my vote. 注意 vote 的 -ing 形式是 voting（去 e 加 ing）。
 
-- **can't stand / truth / mention** — 受不了 / 真相 / 提到。搭配：can't stand sb, tell the truth, mention that。例句：I can't stand his lies. / Tell me the truth. / He mentioned the economy. 注意 can't stand = 非常讨厌。
+- **there could be / there might be** — 表示"可能会有"，语气委婉、不确定：There could be a new election. There might be problems. could 和 might 在这里几乎可以互换，比 there will be 更谨慎。
 
-- **economy / currency / environmental** — 经济 / 货币 / 环境的。搭配：the economy, the local currency, environmental issues。例句：The economy is growing. / What's the currency here? / Environmental protection is important. 注意 economy 的形容词是 economic。
+- **can't stand** — "无法忍受"，语气比 don't like 强烈得多：I can't stand this politician. stand 在这里不是"站立"，而是"忍受"，后接名词或动名词。
 
-- **immigration / state / local** — 移民 / 州 / 当地的。搭配：immigration policy, the state government, local news。例句：Immigration is a hot topic. / Each state has its own laws. / I read the local newspaper. 注意 state 在美国指"州"。
+- **mean / meant / mention** — mean 是"意思是、指的是"：What do you mean? meant 是过去式：She meant the economy. mention 是"提到"，后接名词或动名词：He didn't mention immigration. 注意 ✗ mention about sth. → ✓ mention sth.。
 
-- **former / had to / as** — 前任 / 不得不 / 作为。搭配：the former president, had to leave, as a citizen。例句：The former leader retired. / They had to change the law. / As a voter, I care about this. 注意 former = 前任的（反义 current）。
+- **had to / not** — had to 是 have to 的过去式，表示过去"不得不"：She had to vote early. not 是最基本的否定词，可以否定动词（借助 do/does/did）、形容词或代词：Not everyone voted.
 
-- **there could be / there might be / not** — 可能有 / 也许有 / 不。搭配：there could be problems, there might be changes, not true。例句：There could be a new election. / There might be reforms. / That's not the truth. 注意 could/might 表不确定的推测。
+- **as** — 介词"作为"：He works as a journalist. 也可作连词表示"当……时、因为"。本单元先掌握"作为"的用法。
 
-- **mean / meant / mention** — 意思是 / 意思是（过去）/ 提到。搭配：I mean, I meant to say, mention briefly。例句：What do you mean? / I meant no harm. / She mentioned the article. 注意 mean → meant → meant。
+- **economy / currency / immigration** — 三个社会议题名词。economy 是"经济"；currency 是"货币"；immigration 是"移民（入境）"，动词是 immigrate。词根 -migration 表示"迁移"。
 
-- **article / politics / truth** — 文章 / 政治 / 真相。搭配：a news article, politics, the truth about。例句：I read an interesting article. / I'm not into politics. / The truth will come out. 注意 politics 是单数形式但表示整体概念。
+- **environmental / shocking / truth** — environmental 是形容词"环境的"，来自名词 environment。shocking 是 -ing 形容词"令人震惊的"。truth 是"真相"，true 的名词形式：truth = true + -th。
 
-- **shocking / can't stand / speech** — 震惊 / 受不了 / 演讲。搭配：absolutely shocking, can't stand it, a long speech。例句：The scandal is shocking. / I can't stand the corruption. / He gave a 2-hour speech. 注意 shocking 常与新闻/丑闻搭配。
-
-- **democracy / vote / election** — 民主 / 投票 / 选举。搭配：a true democracy, the right to vote, win an election。例句：Democracy requires participation. / Everyone has the right to vote. / She won the election. 注意这些是政治核心词汇。
-
-- **environmental / economy / immigration** — 环境 / 经济 / 移民。搭配：environmental policy, boost the economy, immigration reform。例句：Environmental issues affect us all. / The economy needs help. / Immigration reform is needed. 注意这些是政治讨论中的热门话题。
+- **article / speech / local / former / state** — article 指报刊"文章"；speech 是"演讲"（give a speech）。local 是"地方的、当地的"：local election。former 表示"前任的"：former president。state 指国家中的"州"，也可指"国家、状态"。
 
 ## 练习
 
@@ -61,149 +56,149 @@ there could/might be 表推测。mean → meant（意思是）。
 
 <quiz-sentence-builder>
 
-1. **中文**：我读了一篇关于即将到来的地方选举的有趣文章。
-   **英文**：I read an interesting article about the upcoming local election.
-   > **解析**：article 表示“文章/报道”；upcoming 意为“即将来临的”。
+1. **中文**：我无法忍受这位政客。
+   **英文**：I can't stand this politician.
+   > **解析**：can't stand 是"无法忍受"的固定短语；this politician 作 stand 的宾语。
 
-2. **中文**：言论自由是民主的基本组成部分。
-   **英文**：Freedom of expression is a fundamental part of democracy.
-   > **解析**：democracy 表示“民主/民主制度”；fundamental 意为“基本的”。
+2. **中文**：选举下个月举行。
+   **英文**：The election is next month.
+   > **解析**：election 作主语，is 表示"在（某时间）举行"；next month 是时间状语。
 
-3. **中文**：我受不了政治家打破他们的承诺。
-   **英文**：I can't stand it when politicians break their promises.
-   > **解析**：can't stand 表示“无法忍受/受不了”；politician 意为“政治家”。
+3. **中文**：她不得不在演讲中提到真相。
+   **英文**：She had to mention the truth in her speech.
+   > **解析**：had to 是 have to 的过去式；mention 是动词原形，the truth 作其宾语。
 
-4. **中文**：本周本国货币兑美元有所下跌。
-   **英文**：The national currency weakened against the dollar this week.
-   > **解析**：currency 表示“货币”；weakened 意为“削弱/下跌”。
+4. **中文**：可能会有新一轮选举。
+   **英文**：There could be a new election.
+   > **解析**：there could be 表示"可能会有"；could 后接动词原形 be。
 
-5. **中文**：经过艰难的一年，当地经济正在复苏。
-   **英文**：The local economy is recovering after a difficult year.
-   > **解析**：economy 表示“经济”；recovering 意为“复苏/恢复”。
+5. **中文**：我在选举中投了票。
+   **英文**：I voted in the election.
+   > **解析**：voted 是 vote 的过去式；in the election 说明投票的场合。
 
-6. **中文**：市民将于本周二投票选出新市长。
-   **英文**：Citizens will vote for the new mayor this Tuesday.
-   > **解析**：vote for 表示“投票给……”；mayor 意为“市长”。
+6. **中文**：你是什么意思？
+   **英文**：What do you mean?
+   > **解析**：what 引导特殊疑问句，助动词 do 提前；mean 用原形。
 
-7. **中文**：环境政策对年轻选民来说变得越来越重要。
-   **英文**：Environmental policies are becoming more important to young voters.
-   > **解析**：environmental 表示“环境的”；voters 意为“选民”。
+7. **中文**：经济不好。
+   **英文**：The economy is not good.
+   > **解析**：economy 作主语；not 放在 is 后构成否定。
 
-8. **中文**：前任总统在大学发表了一场令人难忘的演讲。
-   **英文**：The former president gave a memorable speech at the university.
-   > **解析**：former 表示“前任的”；speech 意为“演讲”。
+8. **中文**：那位前政客发表了演讲。
+   **英文**：The former politician gave a speech.
+   > **解析**：former 修饰 politician 表示"前任的"；gave 是 give 的过去式，give a speech 是固定搭配。
 
-9. **中文**：委员会昨天不得不修改税收提案。
-   **英文**：The committee had to revise the tax proposal yesterday.
-   > **解析**：had to 表示“不得不/必须”；tax proposal 意为“税收提案”。
+9. **中文**：这篇文章令人震惊。
+   **英文**：The article is shocking.
+   > **解析**：shocking 是 -ing 形容词，描述文章的性质，作 is 的表语。
 
-10. **中文**：辩论期间讨论了严格的移民法。
-   **英文**：Strict immigration laws were discussed during the debate.
-   > **解析**：immigration 表示“移民/移居”；debate 意为“辩论/讨论”。
+10. **中文**：这个州使用不同的货币。
+   **英文**：This state uses a different currency.
+   > **解析**：This state 是三单主语，use 加 s；a different currency 作宾语。
 
-11. **中文**：地方议会批准了建设一个新公园。
-   **英文**：The local council approved the construction of a new park.
-   > **解析**：local 表示“当地的/地方的”；council 意为“议会/委员会”。
+11. **中文**：很多人谈论移民问题。
+   **英文**：Many people talk about immigration.
+   > **解析**：many people 是复数主语，用动词原形 talk；talk about 是"谈论"的固定搭配。
 
-12. **中文**：州长那个表态是什么意思？
-   **英文**：What did the governor mean by that statement?
-   > **解析**：mean 表示“意思是/意味着”；governor 意为“州长”。
+12. **中文**：民主很重要。
+   **英文**：Democracy is important.
+   > **解析**：democracy 作抽象名词主语，搭配 is；important 作表语。
 
-13. **中文**：她本意是要支持这项新教育法。
-   **英文**：She meant to support the new education law.
-   > **解析**：meant 是 mean 的过去式，meant to do 表示“本意要做……”。
+13. **中文**：她昨天指的是经济。
+   **英文**：She meant the economy yesterday.
+   > **解析**：meant 是 mean 的过去式，yesterday 提示过去时。
 
-14. **中文**：演讲者有提到新的贸易协定吗？
-   **英文**：Did the speaker mention the new trade agreement?
-   > **解析**：mention 表示“提及/提到”；trade agreement 意为“贸易协定”。
+14. **中文**：他没有提到移民问题。
+   **英文**：He didn't mention immigration.
+   > **解析**：didn't 后接动词原形 mention；mention 是及物动词，直接接宾语，不加 about。
 
-15. **中文**：这位有经验的政治家给记者做出了明确的回答。
-   **英文**：The experienced politician gave a clear answer to the reporter.
-   > **解析**：politician 表示“政治家/政客”；experienced 意为“有经验的”。
+15. **中文**：可能会有变化。
+   **英文**：There might be changes.
+   > **解析**：there might be 表示"可能会有"；might 后接动词原形 be。
 
-16. **中文**：她决定从事地方政治事业。
-   **英文**：She decided to pursue a career in local politics.
-   > **解析**：politics 表示“政治/政治学”；pursue a career 意为“追求事业”。
+16. **中文**：作为选民，我在意经济。
+   **英文**：As a voter, I care about the economy.
+   > **解析**：as 表示"作为"，as a voter 作状语；care about 是固定搭配。
 
-17. **中文**：部长突然辞职确实令人震惊。
-   **英文**：The sudden resignation of the minister was truly shocking.
-   > **解析**：shocking 表示“令人震惊的”；resignation 意为“辞职”。
+17. **中文**：不是每个人都投了票。
+   **英文**：Not everyone voted.
+   > **解析**：not 放在 everyone 前构成部分否定"并非每个人"；voted 是过去式。
 
-18. **中文**：市长向公众发表了一场鼓舞人心的演讲。
-   **英文**：The mayor delivered an inspiring speech to the public.
-   > **解析**：speech 表示“演讲/致辞”；deliver a speech 意为“发表演讲”。
+18. **中文**：真相令人震惊。
+   **英文**：The truth is shocking.
+   > **解析**：truth 作主语；shocking 作表语描述性质。
 
-19. **中文**：每个州对选举都有自己具体的规定。
-   **英文**：Each state has its own specific regulations on elections.
-   > **解析**：state 表示“州/国家”；regulations 意为“规定/法规”。
+19. **中文**：他在市政府工作。
+   **英文**：He works in the local government.
+   > **解析**：local 修饰 government 表示"地方的"；works 是三单形式。
 
-20. **中文**：在法庭上出庭作证时一定要说出真相。
-   **英文**：Always tell the truth when testifying in court.
-   > **解析**：truth 表示“真相/事实”；tell the truth 意为“说实话”。
+20. **中文**：这次演讲是关于环境问题的。
+   **英文**：The speech was about environmental problems.
+   > **解析**：was 是 is 的过去式；environmental 修饰 problems 表示"环境的"。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I read an interesting article about the upcoming local election.
-   > **中文**：我读了一篇关于即将到来的地方选举的有趣文章。
+1. I can't stand this politician.
+   > **中文**：我无法忍受这位政客。
 
-2. Freedom of expression is a fundamental part of democracy.
-   > **中文**：言论自由是民主的基本组成部分。
+2. The election is next month.
+   > **中文**：选举下个月举行。
 
-3. I can't stand it when politicians break their promises.
-   > **中文**：我受不了政治家打破他们的承诺。
+3. She gave a shocking speech.
+   > **中文**：她发表了一场令人震惊的演讲。
 
-4. The national currency weakened against the dollar this week.
-   > **中文**：本周本国货币兑美元有所下跌。
+4. What do you mean?
+   > **中文**：你是什么意思？
 
-5. The local economy is recovering after a difficult year.
-   > **中文**：经过艰难的一年，当地经济正在复苏。
+5. There could be a new law.
+   > **中文**：可能会有新法律。
 
-6. Citizens will vote for the new mayor this Tuesday.
-   > **中文**：市民将于本周二投票选出新市长。
+6. There might be an election next year.
+   > **中文**：明年可能会有选举。
 
-7. Environmental policies are becoming more important to young voters.
-   > **中文**：环境政策对年轻选民来说变得越来越重要。
+7. He mentioned the economy.
+   > **中文**：他提到了经济。
 
-8. The former president gave a memorable speech at the university.
-   > **中文**：前任总统在大学发表了一场令人难忘的演讲。
+8. The article is about immigration.
+   > **中文**：这篇文章是关于移民的。
 
-9. The committee had to revise the tax proposal yesterday.
-   > **中文**：委员会昨天不得不修改税收提案。
+9. I voted in the local election.
+   > **中文**：我在地方选举中投了票。
 
-10. Strict immigration laws were discussed during the debate.
-   > **中文**：辩论期间讨论了严格的移民法。
+10. Democracy needs truth.
+   > **中文**：民主需要真相。
 
-11. The local council approved the construction of a new park.
-   > **中文**：地方议会批准了建设一个新公园。
+11. The former politician spoke at the meeting.
+   > **中文**：那位前政客在会上发了言。
 
-12. What did the governor mean by that statement?
-   > **中文**：州长那个表态是什么意思？
+12. This state has a new currency.
+   > **中文**：这个州有了新货币。
 
-13. She meant to support the new education law.
-   > **中文**：她本意是要支持这项新教育法。
+13. She had to mention the problem.
+   > **中文**：她不得不提到这个问题。
 
-14. Did the speaker mention the new trade agreement?
-   > **中文**：演讲者有提到新的贸易协定吗？
+14. I didn't mean it.
+   > **中文**：我不是那个意思。
 
-15. The experienced politician gave a clear answer to the reporter.
-   > **中文**：这位有经验的政治家给记者做出了明确的回答。
+15. Politics is on TV every day.
+   > **中文**：政治话题每天都上电视。
 
-16. She decided to pursue a career in local politics.
-   > **中文**：她决定从事地方政治事业。
+16. The speech was about environmental problems.
+   > **中文**：演讲是关于环境问题的。
 
-17. The sudden resignation of the minister was truly shocking.
-   > **中文**：部长突然辞职确实令人震惊。
+17. Not everyone voted.
+   > **中文**：并非每个人都投了票。
 
-18. The mayor delivered an inspiring speech to the public.
-   > **中文**：市长向公众发表了一场鼓舞人心的演讲。
+18. The truth shocked me.
+   > **中文**：真相让我震惊。
 
-19. Each state has its own specific regulations on elections.
-   > **中文**：每个州对选举都有自己具体的规定。
+19. He works as a politician.
+   > **中文**：他作为一名政客工作。
 
-20. Always tell the truth when testifying in court.
-   > **中文**：在法庭上出庭作证时一定要说出真相。
+20. Local elections matter.
+   > **中文**：地方选举很重要。
 
 </quiz-listening>
 
@@ -211,26 +206,46 @@ there could/might be 表推测。mean → meant（意思是）。
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| article | 文章 / 报道 |
+| article | 文章 |
+| as | 作为 / 当……时 |
 | can't stand | 无法忍受 |
 | currency | 货币 |
-| democracy | 民主 / 民主制度 |
+| democracy | 民主 |
 | economy | 经济 |
 | election | 选举 |
 | environmental | 环境的 |
-| former | 前任的 / 之前的 |
-| had to | 不得不（have to的过去式） |
+| former | 前任的 |
+| had to | 不得不（过去） |
 | immigration | 移民 |
-| local | 当地的 / 地方的 |
-| mean | 意思是 / 意图 |
-| meant | 意思是（mean的过去式） |
-| mention | 提到 / 提及 |
-| politician | 政治家 / 政客 |
+| local | 地方的 |
+| mean | 意思是 |
+| meant | 意思是（过去式） |
+| mention | 提到 |
+| not | 不 / 不是 |
+| politician | 政客 |
 | politics | 政治 |
 | shocking | 令人震惊的 |
-| speech | 演讲 / 演讲稿 |
+| speech | 演讲 |
 | state | 州 / 国家 |
-| truth | 真相 / 事实 |
+| there could be | 可能会有 |
+| there might be | 可能会有 |
+| truth | 真相 |
+| vote | 投票 |
+| is | 是（单数） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| in | 在……里 |
+| about | 关于 |
+| do | 做 / 助动词 |
+| didn't | 没有（过去否定） |
+| I | 我 |
+| he | 他 |
+| she | 她 |
+| it | 它 |
+| this | 这个 |
+| new | 新的 |
+| next | 下一个 |
+| was | 是（过去式） |
 
 </quiz-matching>
 
@@ -238,202 +253,202 @@ there could/might be 表推测。mean → meant（意思是）。
 
 ### 1
 
-I read an interesting ____ about the upcoming local election.
+I can't ____ this politician.
 
-- [x] article
-- [ ] as
-- [ ] can't stand
+- [x] stand
+- [ ] standing
+- [ ] stood
 
-> **解析**：**article** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：can't 后接动词原形 stand，can't stand 意为"无法忍受"；standing 和 stood 形式错误。
 
 ### 2
 
-Freedom of expression is a fundamental part of ____.
+Many people voted in the ____.
 
-- [x] democracy
+- [x] election
 - [ ] article
-- [ ] as
+- [ ] truth
 
-> **解析**：**democracy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：vote in the election 是"在选举中投票"；article 和 truth 不是投票的场合。
 
 ### 3
 
-I can't stand it when ____ break their promises.
+There might ____ a problem.
 
-- [x] politicians
-- [ ] article
-- [ ] as
+- [x] be
+- [ ] is
+- [ ] are
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **politicians**。
+> **解析**：might 后必须接动词原形 be；is 和 are 不能放在情态动词后。
 
 ### 4
 
-The national ____ weakened against the dollar this week.
+What do you ____?
 
-- [x] currency
-- [ ] article
-- [ ] as
+- [x] mean
+- [ ] means
+- [ ] meaning
 
-> **解析**：**currency** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：助动词 do 后接动词原形 mean；means 是三单形式，meaning 是动名词。
 
 ### 5
 
-The ____ economy is recovering after a difficult year.
+She ____ the economy in her speech yesterday.
 
-- [x] local
-- [ ] article
-- [ ] as
+- [x] meant
+- [ ] mean
+- [ ] means
 
-> **解析**：**local** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 提示过去时，用 meant；mean 和 means 都不是过去式。
 
 ### 6
 
-Citizens will ____ for the new mayor this Tuesday.
+He didn't ____ immigration.
 
-- [x] vote
-- [ ] article
-- [ ] as
+- [x] mention
+- [ ] mentions
+- [ ] mentioned
 
-> **解析**：**vote** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：didn't 后接动词原形 mention；mentioned 会造成双重过去标记。
 
 ### 7
 
-____ policies are becoming more important to young voters.
+She ____ vote early yesterday.
 
-- [x] Environmental
-- [ ] article
-- [ ] as
+- [x] had to
+- [ ] has to
+- [ ] have to
 
-> **解析**：**Environmental** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 提示过去，用 had to；has to 和 have to 都用于现在时。
 
 ### 8
 
-The ____ president gave a memorable speech at the university.
+The article is ____.
 
-- [x] former
-- [ ] article
-- [ ] as
+- [x] shocking
+- [ ] shock
+- [ ] shocked
 
-> **解析**：**former** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：描述文章性质用 -ing 形容词 shocking；shock 是动词，shocked 描述人的感受。
 
 ### 9
 
-The ____ had to revise the tax proposal yesterday.
+____ everyone knows the truth.
 
-- [x] committee
-- [ ] article
-- [ ] as
+- [x] Not
+- [ ] None
+- [ ] No one
 
-> **解析**：**committee** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Not everyone 是"并非每个人"的部分否定；None 和 No one 后不能接 everyone。
 
 ### 10
 
-Strict ____ laws were discussed during the debate.
+The ____ politician gave a speech.
 
-- [x] immigration
-- [ ] article
-- [ ] as
+- [x] former
+- [ ] forming
+- [ ] forms
 
-> **解析**：**immigration** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：名词前需要形容词 former（前任的）；forming 和 forms 是动词形式。
 
 ### 11
 
-The ____ council approved the construction of a new park.
+This ____ has a new currency.
 
-- [x] local
-- [ ] article
-- [ ] as
+- [x] state
+- [ ] mention
+- [ ] voting
 
-> **解析**：**local** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：this 后需要名词，state（州）符合语境；mention 和 voting 是动词形式。
 
 ### 12
 
-What did the governor ____ by that statement?
+He spoke ____ a local leader.
 
-- [x] mean
-- [ ] article
-- [ ] as
+- [x] as
+- [ ] at
+- [ ] on
 
-> **解析**：**mean** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：as 表示"作为"，说明说话的身份；at 和 on 不能表达"作为"。
 
 ### 13
 
-She ____ to support the new education law.
+People in a ____ can vote freely.
 
-- [x] meant
+- [x] democracy
+- [ ] currency
 - [ ] article
-- [ ] as
 
-> **解析**：**meant** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：在民主制度（democracy）中人们自由投票；currency 和 article 与此语境无关。
 
 ### 14
 
-Did the speaker ____ the new trade agreement?
+The speech mentioned the ____ problems.
 
-- [x] mention
-- [ ] article
-- [ ] as
+- [x] environmental
+- [ ] election
+- [ ] vote
 
-> **解析**：**mention** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：problems 前需要形容词 environmental；election 和 vote 是名词，不能这样修饰。
 
 ### 15
 
-The experienced ____ gave a clear answer to the reporter.
+I read an ____ about the election.
 
-- [x] politician
-- [ ] article
-- [ ] as
+- [x] article
+- [ ] economy
+- [ ] mean
 
-> **解析**：**politician** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：read 搭配 article（文章）；economy 不能被"阅读"，mean 是动词。
 
 ### 16
 
-She decided to pursue a career in ____ politics.
+Local people ____ in the election yesterday.
 
-- [x] local
-- [ ] article
-- [ ] as
+- [x] voted
+- [ ] vote
+- [ ] votes
 
-> **解析**：**local** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 提示过去时，用 voted；vote 和 votes 都不是过去式。
 
 ### 17
 
-The sudden resignation of the minister was truly ____.
+Tell me the ____.
 
-- [x] shocking
-- [ ] article
-- [ ] as
+- [x] truth
+- [ ] shocking
+- [ ] mention
 
-> **解析**：**shocking** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：the 后需要名词 truth；shocking 是形容词，mention 是动词。
 
 ### 18
 
-The mayor delivered an inspiring ____ to the public.
+You can pay with the local ____.
 
-- [x] speech
-- [ ] article
-- [ ] as
+- [x] currency
+- [ ] speech
+- [ ] election
 
-> **解析**：**speech** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：付款用的是货币 currency；speech 和 election 不能用于支付。
 
 ### 19
 
-Each ____ has its own specific regulations on elections.
+The article talks about ____.
 
-- [x] state
-- [ ] article
-- [ ] as
+- [x] immigration
+- [ ] immigrate
+- [ ] immigrating
 
-> **解析**：**state** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：about 后接名词 immigration；immigrate 是动词原形，immigrating 是动名词。
 
 ### 20
 
-Always tell the ____ when testifying in court.
+There could ____ an election soon.
 
-- [x] truth
-- [ ] article
-- [ ] as
+- [x] be
+- [ ] been
+- [ ] being
 
-> **解析**：**truth** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：could 后接动词原形 be；been 需搭配 have，being 不能单独作谓语。
 
 </quiz-cloze>

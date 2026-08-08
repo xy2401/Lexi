@@ -10,40 +10,31 @@ annoyed, annoying, assistant, designer, employee, employer, get to know, go, hea
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"把某人介绍给别人"展开。核心是社交和职场介绍：Let me introduce you to my colleague—she's a professional designer.（让我把你介绍给我的同事——她是一位专业设计师。）、I'd like to get to know you better. Would you mind if we met for coffee?（我想更了解你。你介意我们喝杯咖啡吗？）、I look forward to hearing from you whenever you have an opportunity.（我期待你有机会时随时联系我。）、The employee found the employer's assistant a bit annoying, but not rude.（员工觉得雇主的助手有点烦人，但不算无礼。）。
+本单元的主题是"介绍他人、建立联系"。词表分成三组：职场身份（assistant, designer, employee, employer, professor, professional）、社交套语（let me introduce you to, would you mind if, if you like, sir, ma'am, look forward to, hear from, get to know）、以及感受与意愿（annoyed, annoying, tiring, rude, want, need, would like, opportunity, whenever, go）。组合起来就是一段得体的社交开场：Let me introduce you to my assistant. Would you like some coffee? I look forward to working with you.
 
-词表里有职场词汇（employer, employee, assistant, professor）和社交表达（let me introduce you to, look forward to, get to know）。你可以练习：Sir, may I help you? / I need a professional. / She's a professor. / If you like, we can go now.
+语法主线有三条。第一是礼貌表达：would like 比 want 更客气，would you mind if 用来礼貌地请求许可。第二是 -ed/-ing 形容词：annoyed 说人的感受，annoying 说事物的性质，tiring 描述让人疲惫的事。第三是 look forward to——这里的 to 是介词，后面接名词或动名词：I look forward to meeting you.
 
-would you mind if + 从句 是礼貌请求。look forward to + doing。
+学完本单元，你能自然地介绍朋友和同事、礼貌地提出请求、表达对会面的期待，也能得体地称呼对方。
 
 ## Tips
 
-- **let me introduce you to / get to know / look forward to** — 让我介绍 / 了解 / 期待。搭配：let me introduce you to, get to know sb, look forward to doing。例句：Let me introduce you to my boss. / I'd like to get to know you. / I look forward to meeting you. 注意 look forward to + doing（to 是介词）。
+- **let me introduce you to / would you mind if / if you like** — 三个社交句型。let me introduce you to 是介绍人的标准开场：Let me introduce you to my assistant. would you mind if 礼貌地请求许可：Would you mind if I sit here? if you like 是"如果你愿意的话"，让建议更委婉：We can go now, if you like.
 
-- **employer / employee / assistant** — 雇主 / 员工 / 助手。搭配：the employer, a new employee, a personal assistant。例句：The employer hired 10 people. / She's a new employee. / His assistant schedules meetings. 注意 employer = 老板，employee = 雇员。
+- **would like / want / need** — 都表示意愿，礼貌程度递减。would like 最客气，常用于招待和正式场合：Would you like some coffee? want 最日常，need 强调"需要"。注意 would like 后接 to do：I would like to meet you.
 
-- **would you mind if / would like / if you like** — 你介意吗 / 想要 / 如果你愿意。搭配：Would you mind if I sit here? / I'd like a coffee, if you like。例句：Would you mind if I joined? / I'd like to introduce her. / We can leave now, if you like. 注意 Would you mind if + 过去式（虚拟语气）。
+- **annoyed / annoying / tiring** — annoyed 描述人的感受"恼火的"：I am annoyed. annoying 描述事物"烦人的"：His phone calls are annoying. tiring 是"累人的"：The long meeting was tiring. 注意 ✗ I am annoying → 这句话的意思会变成"我这人真烦人"。
 
-- **professional / professor / designer** — 专业的 / 教授 / 设计师。搭配：a professional, a university professor, a graphic designer。例句：She's very professional. / He's a history professor. / I hired a designer. 注意 professional 可作名词和形容词。
+- **employee / employer / assistant / designer / professor / professional** — 职场身份词。employee 是"雇员"（-ee 表示动作接受者），employer 是"雇主"（-er 表示动作发出者），同一对词根方向相反。assistant 是"助理"，designer 是"设计师"，professor 是"教授"。professional 可作形容词"专业的"，也可作名词"专业人士"。
 
-- **annoyed / annoying / rude** — 恼怒的 / 烦人的 / 无礼的。搭配：feel annoyed, an annoying habit, don't be rude。例句：I'm annoyed by the noise. / His habit is annoying. / That was rude of him. 注意 annoyed（人感到）vs annoying（事令人）。
+- **get to know / hear from / look forward to** — 三个常用动词短语。get to know 是"逐渐认识了解"：I want to get to know you. hear from 是"收到某人的来信/消息"：I heard from the professor today. look forward to 是"期待"，to 是介词，后接名词或动名词。
 
-- **hear from / whenever / opportunity** — 收到消息 / 无论何时 / 机会。搭配：hear from sb, whenever you can, a great opportunity。例句：I hope to hear from you soon. / Call me whenever. / This is a great opportunity. 注意 hear from = 收到某人的消息。
+- **sir / ma'am** — 礼貌称呼。sir 用于男性，ma'am（madam 的缩略）用于女性，常见于服务场合或对长辈：Excuse me, sir.
 
-- **sir / ma'am / need** — 先生 / 女士 / 需要。搭配：Yes, sir. / Excuse me, ma'am, need help。例句：May I help you, sir? / Thank you, ma'am. / I need some assistance. 注意 sir/ma'am 是礼貌称呼。
+- **rude** — "粗鲁的"，反义是 polite：Don't be rude. 注意名词是 rudeness。
 
-- **want / would like / go** — 想 / 想要 / 去。搭配：want to do, would like to do, go ahead。例句：I want to meet her. / I'd like to introduce him. / Go ahead—introduce yourself. 注意 would like 比 want 更礼貌。
-
-- **tiring / opportunity / professional** — 累人的 / 机会 / 专业。搭配：a tiring day, a job opportunity, a professional attitude。例句：Networking is tiring. / Don't miss this opportunity. / Maintain a professional attitude. 注意 tiring 形容事物令人疲惫。
-
-- **get to know / hear from / whenever** — 了解 / 收到来信 / 随时。搭配：get to know each other, hear from you, whenever possible。例句：Let's get to know each other. / I haven't heard from her. / Contact me whenever possible. 注意 get to know 强调"逐渐了解"。
-
-- **annoying / rude / annoyed** — 烦人 / 无礼 / 恼怒。搭配：how annoying! / a rude comment, get annoyed。例句：How annoying! / That's a rude question. / Don't get annoyed. 注意 rude 的反义是 polite。
-
-- **introduce / look forward to / would you mind if** — 介绍 / 期待 / 你介意吗。搭配：introduce sb to sb, look forward to it, would you mind if I...? 例句：I'd like to introduce my friend. / I look forward to working together. / Would you mind if I brought a colleague? 注意 introduce A to B。
+- **opportunity / whenever / go** — opportunity 是"机会"：This is a great opportunity. whenever 是"无论何时"，引导让步状语从句：Whenever you need help, call me. go 在本单元用于建议和道别：Let's go together.
 
 ## 练习
 
@@ -61,149 +52,149 @@ would you mind if + 从句 是礼貌请求。look forward to + doing。
 
 <quiz-sentence-builder>
 
-1. **中文**：她很生气，因为会议又一次迟到了。
-   **英文**：She was annoyed because the meeting started late again.
-   > **解析**：annoyed 形容人“感到的生气的/烦恼的”。
+1. **中文**：让我把你介绍给我的助理。
+   **英文**：Let me introduce you to my assistant.
+   > **解析**：let + 宾语 + 动词原形；introduce sb. to sb. 是"把某人介绍给某人"。
 
-2. **中文**：工作中不必要的电话打扰可能会很令人烦恼。
-   **英文**：Unnecessary phone interruptions during work can be annoying.
-   > **解析**：annoying 形容事物“令人烦恼的/讨厌的”。
+2. **中文**：你想来杯咖啡吗？
+   **英文**：Would you like some coffee?
+   > **解析**：would like 比 want 更礼貌；some 用于期待肯定回答的邀请中。
 
-3. **中文**：行政助理安排了周四的会议。
-   **英文**：The executive assistant scheduled the meeting for Thursday.
-   > **解析**：assistant 表示“助理/助手”；executive 意为“行政的/高管的”。
+3. **中文**：你介意我坐这里吗？
+   **英文**：Would you mind if I sit here?
+   > **解析**：would you mind if 是请求许可的礼貌句型；if 引导条件从句。
 
-4. **中文**：平面设计师为我们的项目创建了新图标。
-   **英文**：A graphic designer created the new logo for our project.
-   > **解析**：designer 表示“设计师”；graphic designer 意为“平面设计师”。
+4. **中文**：我期待与你共事。
+   **英文**：I look forward to working with you.
+   > **解析**：look forward to 的 to 是介词，后接动名词 working。
 
-5. **中文**：每位员工都必须参加年度安全研讨会。
-   **英文**：Every employee must attend the annual safety workshop.
-   > **解析**：employee 表示“雇员/员工”；annual 意为“年度的”。
+5. **中文**：我今天收到教授的消息了。
+   **英文**：I heard from the professor today.
+   > **解析**：heard 是 hear 的过去式；hear from 是"收到……的消息"。
 
-6. **中文**：这家公司是技术领域的高级雇主。
-   **英文**：The company is a top employer in the technology sector.
-   > **解析**：employer 表示“雇主/东家”；technology sector 意为“技术领域”。
+6. **中文**：她是一名专业设计师。
+   **英文**：She is a professional designer.
+   > **解析**：professional 作形容词修饰 designer；a 用于可数名词单数前。
 
-7. **中文**：好好了解你的新队友需要时间。
-   **英文**：It takes time to get to know your new teammates well.
-   > **解析**：get to know 表示“了解/认识”；teammates 意为“队友”。
+7. **中文**：我的雇主很友善。
+   **英文**：My employer is kind.
+   > **解析**：employer 是"雇主"（-er 表示动作发出者）；kind 作表语。
 
-8. **中文**：我们希望在周五之前收到招聘经理的消息。
-   **英文**：We hope to hear from the hiring manager by Friday.
-   > **解析**：hear from 表示“收到……的消息/来信”。
+8. **中文**：我想更多地了解你。
+   **英文**：I want to get to know you better.
+   > **解析**：want to do 结构；get to know 是"逐渐认识"，better 是比较级。
 
-9. **中文**：我期待与您的团队在这个项目上合作。
-   **英文**：I look forward to working with your team on this project.
-   > **解析**：look forward to 表示“期待/盼望”；后接 v-ing 形式。
+9. **中文**：无论你什么时候需要帮助，给我打电话。
+   **英文**：Whenever you need help, call me.
+   > **解析**：whenever 引导让步状语从句；主句是祈使句 call me。
 
-10. **中文**：女士，我能帮您找座位吗？
-   **英文**：May I help you find your seat, ma'am?
-   > **解析**：ma'am 表示“女士/夫人”（尊称）。
+10. **中文**：那样做很粗鲁。
+   **英文**：That was rude.
+   > **解析**：was 是 is 的过去式；rude 作表语。
 
-11. **中文**：这次实习是获得经验的大好机会。
-   **英文**：This internship is a great opportunity to gain experience.
-   > **解析**：opportunity 表示“机会/时机”；internship 意为“实习”。
+11. **中文**：那场会议很累人。
+   **英文**：The meeting was tiring.
+   > **解析**：tiring 是 -ing 形容词，描述会议的性质。
 
-12. **中文**：在商务电子邮件中时刻保持专业的语气。
-   **英文**：Always maintain a professional tone in your business emails.
-   > **解析**：professional 表示“专业的/职业的”；tone 意为“语气”。
+12. **中文**：噪音让我很恼火。
+   **英文**：I am annoyed by the noise.
+   > **解析**：annoyed 描述人的感受；by the noise 说明原因。
 
-13. **中文**：教授发表了一场关于文学的深刻讲座。
-   **英文**：The professor delivered an insightful lecture on literature.
-   > **解析**：professor 表示“教授”；insightful 意为“有深刻见解的”。
+13. **中文**：这是一个好机会。
+   **英文**：This is a great opportunity.
+   > **解析**：opportunity 是可数名词单数，前加 a；great 修饰 opportunity。
 
-14. **中文**：别人对你说话时看手机是不礼貌的。
-   **英文**：It is rude to check your phone while someone is speaking to you.
-   > **解析**：rude 表示“无礼的/不礼貌的”；while 引导时间状语从句。
+14. **中文**：我想见见你的助理。
+   **英文**：I would like to meet your assistant.
+   > **解析**：would like 后接不定式 to meet；your 修饰 assistant。
 
-15. **中文**：先生早上好，今天有什么可以帮您的？
-   **英文**：Good morning, sir, how may I assist you today?
-   > **解析**：sir 表示“先生/阁下”（尊称）。
+15. **中文**：先生，这边请。
+   **英文**：Sir, this way, please.
+   > **解析**：sir 是礼貌称呼；this way 是引导对方走这边的习惯用语。
 
-16. **中文**：连续三天出差是非常累人的。
-   **英文**：Traveling for business three days in a row is very tiring.
-   > **解析**：tiring 形容事物“累人的/使人疲倦的”。
+16. **中文**：女士，需要帮忙吗？
+   **英文**：May I help you, ma'am?
+   > **解析**：may 用于礼貌地提出帮助；ma'am 是对女性的尊称。
 
-17. **中文**：无论你何时需要报告方面的帮助，随时给我打电话。
-   **英文**：Call me whenever you need help with the report.
-   > **解析**：whenever 表示“无论何时/随时”。
+17. **中文**：如果你愿意，我们可以一起去。
+   **英文**：If you like, we can go together.
+   > **解析**：if you like 是委婉的条件状语；can 后接动词原形 go。
 
-18. **中文**：我想预约史密斯医生的门诊。
-   **英文**：I would like to schedule an appointment with Dr. Smith.
-   > **解析**：would like 表示“想要/希望”；schedule an appointment 意为“预约”。
+18. **中文**：我现在得走了。
+   **英文**：I need to go now.
+   > **解析**：need to do 表示"需要做某事"；now 是时间状语。
 
-19. **中文**：你介意我借用一下你的钢笔吗？
-   **英文**：Would you mind if I borrowed your pen for a second?
-   > **解析**：Would you mind if 表示“你介意……吗”（礼貌请求）。
+19. **中文**：她在一所设计学院当教授。
+   **英文**：She works as a professor.
+   > **解析**：work as 表示"担任……工作"；a professor 作 as 的宾语。
 
-20. **中文**：请允许我向您介绍我们的新营销协调员。
-   **英文**：Let me introduce you to our new marketing coordinator.
-   > **解析**：let me introduce you to 表示“让我向你介绍……”；coordinator 意为“协调员”。
+20. **中文**：我们一起去吧。
+   **英文**：Let's go together.
+   > **解析**：let's 后接动词原形 go；together 是副词，修饰 go。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. She was annoyed because the meeting started late again.
-   > **中文**：她很生气，因为会议又一次迟到了。
+1. Let me introduce you to my boss.
+   > **中文**：让我把你介绍给我的老板。
 
-2. Unnecessary phone interruptions during work can be annoying.
-   > **中文**：工作中不必要的电话打扰可能会很令人烦恼。
+2. Would you like some tea?
+   > **中文**：你想来杯茶吗？
 
-3. The executive assistant scheduled the meeting for Thursday.
-   > **中文**：行政助理安排了周四的会议。
+3. Would you mind if I open the window?
+   > **中文**：你介意我开窗吗？
 
-4. A graphic designer created the new logo for our project.
-   > **中文**：平面设计师为我们的项目创建了新图标。
+4. I look forward to the meeting.
+   > **中文**：我期待这次会面。
 
-5. Every employee must attend the annual safety workshop.
-   > **中文**：每位员工都必须参加年度安全研讨会。
+5. I heard from the professor.
+   > **中文**：我收到了教授的消息。
 
-6. The company is a top employer in the technology sector.
-   > **中文**：这家公司是技术领域的高级雇主。
+6. She is a professional.
+   > **中文**：她是一名专业人士。
 
-7. It takes time to get to know your new teammates well.
-   > **中文**：好好了解你的新队友需要时间。
+7. My employer is kind.
+   > **中文**：我的雇主很友善。
 
-8. We hope to hear from the hiring manager by Friday.
-   > **中文**：我们希望在周五之前收到招聘经理的消息。
+8. I want to get to know everyone.
+   > **中文**：我想认识大家。
 
-9. I look forward to working with your team on this project.
-   > **中文**：我期待与您的团队在这个项目上合作。
+9. Whenever you need me, call.
+   > **中文**：什么时候需要我，就打电话。
 
-10. May I help you find your seat, ma'am?
-   > **中文**：女士，我能帮您找座位吗？
+10. Don't be rude.
+   > **中文**：不要没礼貌。
 
-11. This internship is a great opportunity to gain experience.
-   > **中文**：这次实习是获得经验的大好机会。
+11. It was a tiring day.
+   > **中文**：这是累人的一天。
 
-12. Always maintain a professional tone in your business emails.
-   > **中文**：在商务电子邮件中时刻保持专业的语气。
+12. The noise is annoying.
+   > **中文**：这噪音真烦人。
 
-13. The professor delivered an insightful lecture on literature.
-   > **中文**：教授发表了一场关于文学的深刻讲座。
+13. I am annoyed.
+   > **中文**：我很恼火。
 
-14. It is rude to check your phone while someone is speaking to you.
-   > **中文**：别人对你说话时看手机是不礼貌的。
+14. This is an opportunity for you.
+   > **中文**：这对你来说是个机会。
 
-15. Good morning, sir, how may I assist you today?
-   > **中文**：先生早上好，今天有什么可以帮您的？
+15. I would like a coffee.
+   > **中文**：我想要一杯咖啡。
 
-16. Traveling for business three days in a row is very tiring.
-   > **中文**：连续三天出差是非常累人的。
+16. Sir, this way, please.
+   > **中文**：先生，这边请。
 
-17. Call me whenever you need help with the report.
-   > **中文**：无论你何时需要报告方面的帮助，随时给我打电话。
+17. If you like, sit with us.
+   > **中文**：如果你愿意，就跟我们一起坐。
 
-18. I would like to schedule an appointment with Dr. Smith.
-   > **中文**：我想预约史密斯医生的门诊。
+18. I need your help.
+   > **中文**：我需要你的帮助。
 
-19. Would you mind if I borrowed your pen for a second?
-   > **中文**：你介意我借用一下你的钢笔吗？
+19. He is a university professor.
+   > **中文**：他是一名大学教授。
 
-20. Let me introduce you to our new marketing coordinator.
-   > **中文**：请允许我向您介绍我们的新营销协调员。
+20. Let's go together.
+   > **中文**：我们一起去吧。
 
 </quiz-listening>
 
@@ -211,26 +202,45 @@ would you mind if + 从句 是礼貌请求。look forward to + doing。
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| annoyed | 生气的 / 烦恼的 |
-| annoying | 令人烦恼的 |
-| assistant | 助理 / 助手 |
+| annoyed | 恼火的 |
+| annoying | 烦人的 |
+| assistant | 助理 |
 | designer | 设计师 |
-| employee | 雇员 / 员工 |
-| employer | 雇主 / 东家 |
-| get to know | 了解 / 认识 |
+| employee | 雇员 |
+| employer | 雇主 |
+| get to know | 逐渐认识 |
+| go | 去 |
 | hear from | 收到……的消息 |
-| look forward to | 期待 / 盼望 |
-| ma'am | 女士 / 夫人 |
+| if you like | 如果你愿意 |
+| let me introduce you to | 让我把你介绍给 |
+| look forward to | 期待 |
+| ma'am | 女士 |
+| need | 需要 |
 | opportunity | 机会 |
-| professional | 专业的 |
+| professional | 专业的 / 专业人士 |
 | professor | 教授 |
-| rude | 无礼的 / 不礼貌的 |
+| rude | 粗鲁的 |
 | sir | 先生 |
-| tiring | 累人的 / 使人疲倦的 |
+| tiring | 累人的 |
+| want | 想要 |
 | whenever | 无论何时 |
-| would like | 想要 / 希望 |
-| Would you mind if | 你介意……吗 |
-| let me introduce you to | 让我向你介绍…… |
+| would like | 想要（礼貌） |
+| would you mind if | 你介意……吗 |
+| is | 是（单数） |
+| was | 是（过去式） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| my | 我的 |
+| your | 你的 |
+| me | 我（宾格） |
+| I | 我 |
+| we | 我们 |
+| to | 到 / 向 |
+| with | 和 / 与 |
+| some | 一些 |
+| don't | 不（否定） |
+| please | 请 |
+| together | 一起 |
 
 </quiz-matching>
 
@@ -238,202 +248,202 @@ would you mind if + 从句 是礼貌请求。look forward to + doing。
 
 ### 1
 
-She was ____ because the meeting started late again.
+Let me ____ you to my assistant.
 
-- [x] annoyed
-- [ ] annoying
-- [ ] assistant
+- [x] introduce
+- [ ] introduction
+- [ ] introduces
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **annoyed**。
+> **解析**：let me 后接动词原形 introduce；introduction 是名词，introduces 是三单形式。
 
 ### 2
 
-Unnecessary phone interruptions during work can be ____.
+Would you ____ some coffee?
 
-- [x] annoying
-- [ ] annoyed
-- [ ] assistant
+- [x] like
+- [ ] likes
+- [ ] liking
 
-> **解析**：**annoying** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：would 后接动词原形 like，构成 would like；likes 和 liking 形式错误。
 
 ### 3
 
-The executive ____ scheduled the meeting for Thursday.
+Would you ____ if I sit here?
 
-- [x] assistant
-- [ ] annoyed
-- [ ] annoying
+- [x] mind
+- [ ] minds
+- [ ] minding
 
-> **解析**：**assistant** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：would 后接动词原形 mind，构成 would you mind if 句型。
 
 ### 4
 
-A graphic ____ created the new logo for our project.
+I look forward ____ hearing from you.
 
-- [x] designer
-- [ ] annoyed
-- [ ] annoying
+- [x] to
+- [ ] at
+- [ ] for
 
-> **解析**：**designer** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：look forward to 的 to 是介词，后接动名词；at 和 for 不构成该短语。
 
 ### 5
 
-Every ____ must attend the annual safety workshop.
+I heard ____ the professor today.
 
-- [x] employee
-- [ ] annoyed
-- [ ] annoying
+- [x] from
+- [ ] with
+- [ ] on
 
-> **解析**：**employee** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：hear from 是"收到……的消息"；with 和 on 不构成该短语。
 
 ### 6
 
-The company is a top ____ in the technology sector.
+She is a professional ____.
 
-- [x] employer
-- [ ] annoyed
-- [ ] annoying
+- [x] designer
+- [ ] design
+- [ ] designs
 
-> **解析**：**employer** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：形容词 professional 后需要名词 designer；design 是动词或抽象名词，designs 是三单。
 
 ### 7
 
-It takes time to get to know your new ____ well.
+The ____ pays me every month.
 
-- [x] teammates
-- [ ] annoyed
-- [ ] annoying
+- [x] employer
+- [ ] employee
+- [ ] employment
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **teammates**。
+> **解析**：每月付薪水的是雇主 employer（-er）；employee 是雇员（-ee），employment 是"就业"。
 
 ### 8
 
-We hope to hear from the hiring ____ by Friday.
+She is an ____ at a design firm.
 
-- [x] manager
-- [ ] annoyed
-- [ ] annoying
+- [x] employee
+- [ ] employment
+- [ ] employing
 
-> **解析**：**manager** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：设计公司里的职员是 employee；employment 是抽象名词，employing 是动名词。
 
 ### 9
 
-I look ____ to working with your team on this project.
+I want to get to ____ you better.
 
-- [x] forward
-- [ ] annoyed
-- [ ] annoying
+- [x] know
+- [ ] knows
+- [ ] knowing
 
-> **解析**：**forward** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：to 后接动词原形 know；knows 和 knowing 不能直接放在 to 后。
 
 ### 10
 
-May I help you find your seat, ____?
+____ you need help, call me.
 
-- [x] ma'am
-- [ ] annoyed
-- [ ] annoying
+- [x] Whenever
+- [ ] What
+- [ ] Would
 
-> **解析**：**ma'am** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：whenever 引导"无论何时"的从句；what 和 would 不能引导此类从句。
 
 ### 11
 
-This internship is a great ____ to gain experience.
+That question was ____.
 
-- [x] opportunity
-- [ ] annoyed
-- [ ] annoying
+- [x] rude
+- [ ] profession
+- [ ] assist
 
-> **解析**：**opportunity** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后需要形容词 rude；profession 和 assist 不是形容词。
 
 ### 12
 
-Always maintain a ____ tone in your business emails.
+The long meeting was ____.
 
-- [x] professional
-- [ ] annoyed
-- [ ] annoying
+- [x] tiring
+- [ ] tired
+- [ ] tires
 
-> **解析**：**professional** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：描述会议"累人的"用 -ing 形容词 tiring；tired 描述人的感受，tires 是动词三单。
 
 ### 13
 
-The ____ delivered an insightful lecture on literature.
+I am ____ by the noise.
 
-- [x] professor
-- [ ] annoyed
+- [x] annoyed
 - [ ] annoying
+- [ ] annoy
 
-> **解析**：**professor** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：描述人的感受用 -ed 形容词 annoyed；annoying 描述事物，annoy 是动词原形。
 
 ### 14
 
-It is ____ to check your phone while someone is speaking to you.
+His phone calls are really ____.
 
-- [x] rude
+- [x] annoying
 - [ ] annoyed
-- [ ] annoying
+- [ ] annoys
 
-> **解析**：**rude** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：描述电话"烦人的"用 -ing 形容词 annoying；annoyed 用于人，annoys 是动词。
 
 ### 15
 
-Good morning, ____, how may I assist you today?
+This job is a great ____.
 
-- [x] sir
-- [ ] annoyed
-- [ ] annoying
+- [x] opportunity
+- [ ] assistant
+- [ ] rude
 
-> **解析**：**sir** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：好工作是好机会 opportunity；assistant 是人，rude 是形容词。
 
 ### 16
 
-Traveling for business three days in a row is very ____.
+The man smiled. "Thank you, ____."
 
-- [x] tiring
-- [ ] annoyed
-- [ ] annoying
+- [x] sir
+- [ ] ma'am
+- [ ] designer
 
-> **解析**：**tiring** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：对男性尊称用 sir；ma'am 用于女性，designer 是职业。
 
 ### 17
 
-Call me ____ you need help with the report.
+I ____ to get to know you.
 
-- [x] whenever
-- [ ] annoyed
-- [ ] annoying
+- [x] want
+- [ ] wants
+- [ ] wanting
 
-> **解析**：**whenever** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：主语 I 用动词原形 want；wants 用于三单，wanting 不能单独作谓语。
 
 ### 18
 
-I would like to schedule an ____ with Dr. Smith.
+You don't ____ to hurry.
 
-- [x] appointment
-- [ ] annoyed
-- [ ] annoying
+- [x] need
+- [ ] needs
+- [ ] needed
 
-> **解析**：**appointment** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：don't 后接动词原形 need；needs 和 needed 形式错误。
 
 ### 19
 
-Would you mind if I ____ your pen for a second?
+We can leave now, if you ____.
 
-- [x] borrowed
-- [ ] annoyed
-- [ ] annoying
+- [x] like
+- [ ] likes
+- [ ] liked
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **borrowed**。
+> **解析**：if you like 是固定委婉语，you 搭配动词原形 like。
 
 ### 20
 
-Let me introduce you to our new marketing ____.
+The lady nodded. "Thank you, ____."
 
-- [x] coordinator
-- [ ] annoyed
-- [ ] annoying
+- [x] ma'am
+- [ ] sir
+- [ ] employer
 
-> **解析**：**coordinator** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：对女性尊称用 ma'am；sir 用于男性，employer 是职业身份。
 
 </quiz-cloze>

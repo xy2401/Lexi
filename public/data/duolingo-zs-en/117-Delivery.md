@@ -10,40 +10,37 @@ allergic, beverage, coconut, container, delivery, few, flavor, hungry, ingredien
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"建议点外卖"展开。核心是外卖点餐表达：I'm hungry—let's order delivery.（我饿了——我们叫外卖吧。）、Are you allergic to any ingredients?（你对什么食材过敏吗？）、The total is twenty dollars, including the delivery fee.（总共二十美元，包括配送费。）、What flavor do you want—strawberry or coconut?（你要什么口味——草莓还是椰子？）。
+本单元的主题是"建议点外卖"。词表可以分成四组：食物原料（coconut, pineapple, strawberry, tuna, ingredient, flavor）、感官描述（taste, smell, sour, hungry, thirsty, look）、外卖流程（delivery, make, container, utensils, jar, payment method, total, location）以及数量与方式（few, little, way, beverage, allergic）。拼起来就是一次完整点餐：I'm hungry. Let's order delivery. What flavors do you like? The total is twenty dollars.
 
-词表里有食物词汇（tuna, pineapple, strawberry, coconut）和外卖词汇（delivery, container, utensils, payment method）。你可以练习：I'm thirsty—can I get a beverage? / The tuna smells fresh. / It tastes a little sour. / What's the payment method?
+语法主线有两个。一是感官动词 taste / smell / look 的系动词用法：后接形容词描述感受：It tastes sour. It smells nice. 二是 few 与 little 的区别：few 修饰可数名词复数（few ingredients），little 修饰不可数名词（little water），两者都表示"少量、几乎没有"；加 a 后语气变正面：a few（一些）、a little（一点儿）。另外 be allergic to 表示"对……过敏"，点餐时非常重要：I'm allergic to tuna.
 
-allergic to 表示"对……过敏"。taste / smell 可作系动词（尝起来/闻起来）。
+学完这些词，你能用英语点外卖——挑选口味、说明过敏情况、确认餐具与支付方式。
 
 ## Tips
 
-- **delivery / order** — 外卖 / 点餐。搭配：order delivery, a delivery fee, food delivery。例句：Let's order delivery tonight. / The delivery was fast. 注意 delivery 指"配送/外卖"。
+- **delivery / make** — delivery 外卖、配送：order delivery（点外卖）；make 制作：make dinner. 外卖平台常说 delivery fee（配送费）、delivery time（送达时间）。
 
-- **allergic / ingredient** — 过敏 / 食材。搭配：allergic to peanuts, allergic to seafood, fresh ingredients。例句：I'm allergic to tuna. / What are the ingredients? 注意 allergic to + 名词（不是 ✗ of）。
+- **hungry / thirsty** — hungry 饥饿的，thirsty 口渴的。名词 hunger / thirst. 习惯表达：I'm starving.（我饿死了，口语夸张说法）。
 
-- **flavor / taste / smell** — 口味 / 尝起来 / 闻起来。搭配：What flavor? / taste sour, smell fresh。例句：What flavor do you want? / It tastes a little sour. / The fish smells fresh. 注意 taste/smell 作系动词后接形容词。
+- **taste / smell / look / sour** — 感官动词三剑客。taste 尝起来：It tastes sour.（sour 酸的）smell 闻起来：It smells great. look 看起来：It looks delicious. ✗ It tastes well. → ✓ It tastes good.（系动词后接形容词）。
 
-- **sour / strawberry / coconut** — 酸的 / 草莓 / 椰子。搭配：sour taste, strawberry flavor, coconut water。例句：The sauce is too sour. / I want strawberry flavor. / Coconut water is refreshing. 注意 sour = 酸（不是 spicy 辣）。
+- **flavor / ingredient** — flavor 口味、味道：What's your favorite flavor? ingredient 配料、成分：fresh ingredients. 记忆：flavor 是整体口味，ingredient 是具体原料。
 
-- **beverage / thirsty / hungry** — 饮料 / 渴 / 饿。搭配：a beverage, I'm thirsty, I'm hungry。例句：Would you like a beverage? / I'm so thirsty! / I'm hungry—let's eat. 注意 beverage 比 drink 更正式。
+- **coconut / pineapple / strawberry / tuna** — 食物词。coconut 椰子；pineapple 菠萝，pine + apple；strawberry 草莓，straw + berry；tuna 金枪鱼。注意 tuna 可数不可数皆可。
 
-- **container / utensils / jar** — 容器 / 餐具 / 罐子。搭配：a food container, utensils, a jar of jam。例句：The food comes in a container. / Do they include utensils? / A jar of coconut jam. 注意 utensils 包括刀叉勺等。
+- **container / jar / utensils** — 包装餐具。container 容器、餐盒；jar 罐子（玻璃罐）；utensils 餐具（筷子、刀叉等），常用复数。一次性餐具：disposable utensils.
 
-- **payment method / total** — 支付方式 / 总计。搭配：payment method, the total is, What's the total? 例句：What's the payment method—card or cash? / The total is fifteen dollars. 注意 total 可作名词或形容词。
+- **beverage** — 饮料，较正式的说法，日常多说 drink：beverages menu（饮品单）。
 
-- **tuna / pineapple** — 金枪鱼 / 菠萝。搭配：tuna salad, a tuna sandwich, pineapple juice。例句：I'll have the tuna sandwich. / Do you want pineapple on your pizza? 注意 tuna 不可数。
+- **payment method / total / location** — 外卖三词。payment method 支付方式（现金、卡、手机支付）；total 总计：The total is twenty dollars. location 位置、地址：delivery location（送餐地址）。
 
-- **few / little / a little** — 几个 / 一点。搭配：a few items, a little sour, few choices。例句：I'll add a few ingredients. / It's a little sour. 注意 a few / a little = 一些（肯定），few / little = 几乎没有（否定）。
+- **few / little** — 数量词。few + 可数复数：a few strawberries；little + 不可数：little sugar. ✗ a little strawberries → ✓ a few strawberries.
 
-- **location / way / make** — 位置 / 路 / 制作。搭配：my location, on the way, make food。例句：What's your delivery location? / The driver is on the way. / They make fresh food. 注意 location 比 place 更正式。
+- **allergic** — 过敏的：be allergic to sth. 名词 allergy：I have a seafood allergy. 点餐必备句。
 
-- **look / hungry / smell** — 看起来 / 饿 / 闻。搭配：look delicious, look hungry, smell good。例句：The food looks delicious! / You look hungry. / It smells amazing. 注意 look 作系动词表示"看起来"。
-
-- **strawberry / coconut / sour** — 草莓 / 椰子 / 酸。搭配：strawberry flavor, coconut milk, sour cream。例句：I'll have a strawberry beverage. / Coconut milk is delicious. / Add some sour cream.
+- **way / look** — way 方式、方法：What's the best way to order? 也有"方向"义；look 见上，也可作名词"样子"。
 
 ## 练习
 
@@ -61,149 +58,149 @@ allergic to 表示"对……过敏"。taste / smell 可作系动词（尝起来/
 
 <quiz-sentence-builder>
 
-1. **中文**：外卖员把盛在塑料容器里的美食送到了我们的位置。  
-   **英文**：The delivery person brought food in a container to our location.
-   > **解析**：delivery 表示“外卖/送货”；container 表示“容器/盒”；location 表示“位置”。
+1. **中文**：我饿了，我们点外卖吧。
+   **英文**：I'm hungry. Let's order delivery.
+   > **解析**：hungry 作表语；Let's 后接动词原形 order。
 
-2. **中文**：如果你对菠萝或椰子过敏，请在订单中说明。  
-   **英文**：If you are allergic to pineapple or coconut, write it down.
-   > **解析**：be allergic to 表示“对……过敏”；pineapple 表示“菠萝”；coconut 表示“椰子”。
+2. **中文**：你对什么过敏？
+   **英文**：What are you allergic to?
+   > **解析**：be allergic to 是固定搭配；to 的宾语提前用 What 提问。
 
-3. **中文**：我感到又饿又渴，想点一杯冰镇菠萝饮料。  
-   **英文**：Feeling hungry and thirsty, I want to order a cold beverage.
-   > **解析**：hungry 表示“饥饿的”；thirsty 表示“口渴的”；beverage 表示“饮料”。
+3. **中文**：这个尝起来很酸。
+   **英文**：This tastes sour.
+   > **解析**：taste 是系动词，三单加 s；sour 作表语。
 
-4. **中文**：请在结账前选择你偏好的支付方式。  
-   **英文**：Please select your preferred payment method before checkout.
-   > **解析**：payment method 表示“支付方式”；checkout 表示“结账”。
+4. **中文**：闻起来很香。
+   **英文**：It smells great.
+   > **解析**：smell 是系动词；great 作表语形容词。
 
-5. **中文**：这家餐馆的金枪鱼罐头尝起来酸酸甜甜的。  
-   **英文**：The jar of tuna at this restaurant tastes fresh and sour.
-   > **解析**：jar 表示“罐子/瓶子”；tuna 表示“金枪鱼”；sour 表示“酸的”。
+5. **中文**：你最喜欢什么口味？
+   **英文**：What is your favorite flavor?
+   > **解析**：favorite 作定语修饰 flavor；is 搭配单数主语。
 
-6. **中文**：请记得随外卖订单附赠一套一次性餐具。  
-   **英文**：Please include a set of plastic utensils with the delivery.
-   > **解析**：utensils 表示“餐具/用具”；delivery 表示“外卖/配送”。
+6. **中文**：这杯饮料是椰子味的。
+   **英文**：This beverage is coconut flavored.
+   > **解析**：coconut flavored 作表语，表"椰子味的"。
 
-7. **中文**：这碗草莓冰淇淋散发着香甜诱人的味道。  
-   **英文**：This strawberry ice cream container smells sweet and nice.
-   > **解析**：strawberry 表示“草莓”；smell 表示“闻起来”；container 表示“容器”。
+7. **中文**：配料都很新鲜。
+   **英文**：The ingredients are all fresh.
+   > **解析**：ingredients 用复数，谓语用 are。
 
-8. **中文**：这种主菜配料非常新鲜，尝起来风味独特。  
-   **英文**：This food ingredient is fresh, giving a unique flavor.
-   > **解析**：ingredient 表示“配料/食材”；flavor 表示“风味/滋味”。
+8. **中文**：我要一份金枪鱼沙拉。
+   **英文**：I'll have a tuna salad.
+   > **解析**：I'll have 是点餐常用句型；a tuna salad 作宾语。
 
-9. **中文**：外卖的总金额包含了少量的配送服务费。  
-   **英文**：The total cost of delivery includes a little service fee.
-   > **解析**：total 表示“总计的/总额”；a little 表示“少许/一点”。
+9. **中文**：总共多少钱？
+   **英文**：How much is the total?
+   > **解析**：How much 询问金额；the total 作主语用 is。
 
-10. **中文**：看！包装盒里只有很少几块烤金枪鱼了。  
-   **英文**：Look! There are only a few pieces of tuna left in the jar.
-   > **解析**：a few 表示“少数几个”（修饰可数名词）；jar 表示“罐子”。
+10. **中文**：付款方式是手机支付。
+    **英文**：The payment method is mobile pay.
+    > **解析**：payment method 作主语用 is；mobile pay 作表语。
 
-11. **中文**：我对海鲜过敏，所以不能吃金枪鱼。  
-   **英文**：I am allergic to seafood, so I cannot eat tuna.
-   > **解析**：allergic 表示“过敏的”。
+11. **中文**：请把餐具放进容器里。
+    **英文**：Please put the utensils in the container.
+    > **解析**：祈使句以 Please + 动词原形开头；in the container 是地点状语。
 
-12. **中文**：店里有多种不同口味的风味饮料可供选择。  
-   **英文**：The shop offers beverages in many different flavors.
-   > **解析**：flavor 表示“风味/口味”；beverage 表示“饮料”。
+12. **中文**：罐子里有草莓酱。
+    **英文**：There is strawberry jam in the jar.
+    > **解析**：There is 搭配不可数 jam；in the jar 是地点状语。
 
-13. **中文**：在运动之后，他感到非常口渴。  
-   **英文**：He felt very thirsty after running in the hot sun.
-   > **解析**：thirsty 表示“口渴的”。
+13. **中文**：我只剩几颗菠萝了。
+    **英文**：I only have a few pineapples left.
+    > **解析**：a few 修饰可数复数 pineapples；left 作后置定语。
 
-14. **中文**：请在地图上标记你的具体送到位置。  
-   **英文**：Please mark your exact delivery location on the map.
-   > **解析**：location 表示“位置/地点”。
+14. **中文**：水里只有一点糖。
+    **英文**：There is only a little sugar in the water.
+    > **解析**：a little 修饰不可数 sugar。
 
-15. **中文**：你喜欢哪种支付方式？现金还是刷卡？  
-   **英文**：Which payment method do you prefer, cash or card?
-   > **解析**：payment method 表示“支付方式”。
+15. **中文**：外卖看起来很好吃。
+    **英文**：The delivery looks delicious.
+    > **解析**：look 是系动词，三单加 s；delicious 作表语。
 
-16. **中文**：请帮我打开这罐草莓果酱罐子。  
-   **英文**：Please help me open this jar of strawberry jam.
-   > **解析**：jar 表示“罐子/玻璃瓶”。
+16. **中文**：他渴了，想要一杯饮料。
+    **英文**：He is thirsty and wants a beverage.
+    > **解析**：thirsty 作表语；wants 是三单形式。
 
-17. **中文**：别忘了在餐盒里放入一次性餐具。  
-   **英文**：Don't forget to put utensils inside the food box.
-   > **解析**：utensils 表示“餐具”。
+17. **中文**：送餐地址是哪里？
+    **英文**：What is the delivery location?
+    > **解析**：What 引导疑问句；delivery 作定语修饰 location。
 
-18. **中文**：外卖小哥很快就把热腾腾的饭菜送到了。  
-   **英文**：The delivery guy brought our hot meal very quickly.
-   > **解析**：delivery 表示“外卖/送货”。
+18. **中文**：这是点餐的最好方式。
+    **英文**：This is the best way to order.
+    > **解析**：way to do 是不定式作后置定语。
 
-19. **中文**：这种新鲜的柠檬水尝起来有点酸。  
-   **英文**：This fresh lemonade tastes a bit sour and sweet.
-   > **解析**：sour 表示“酸的”。
+19. **中文**：这家餐厅自己做外卖。
+    **英文**：This restaurant makes its own delivery.
+    > **解析**：makes 是三单形式；its own delivery 作宾语。
 
-20. **中文**：订单总额一共是三十美元。  
-   **英文**：The total amount of the food order is thirty dollars.
-   > **解析**：total 表示“总计的/总额”。
+20. **中文**：菠萝和草莓都很甜。
+    **英文**：Pineapple and strawberry are both sweet.
+    > **解析**：两种水果并列作复数主语，用 are；both 强调两者都。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The delivery person brought food in a container to our location.
-   > **中文**：外卖员把盛在塑料容器里的美食送到了我们的位置。
+1. I'm hungry. Let's order delivery.
+   > **中文**：我饿了，我们点外卖吧。
 
-2. If you are allergic to pineapple or coconut, write it down.
-   > **中文**：如果你对菠萝或椰子过敏，请在订单中说明。
+2. What are you allergic to?
+   > **中文**：你对什么过敏？
 
-3. Feeling hungry and thirsty, I want to order a cold beverage.
-   > **中文**：我感到又饿又渴，想点一杯冰镇菠萝饮料。
+3. This tastes sour.
+   > **中文**：这个尝起来很酸。
 
-4. Please select your preferred payment method before checkout.
-   > **中文**：请在结账前选择你偏好的支付方式。
+4. It smells great.
+   > **中文**：闻起来很香。
 
-5. The jar of tuna at this restaurant tastes fresh and sour.
-   > **中文**：这家餐馆的金枪鱼罐头尝起来酸酸甜甜的。
+5. What is your favorite flavor?
+   > **中文**：你最喜欢什么口味？
 
-6. Please include a set of plastic utensils with the delivery.
-   > **中文**：请记得随外卖订单附赠一套一次性餐具。
+6. This beverage is coconut flavored.
+   > **中文**：这杯饮料是椰子味的。
 
-7. This strawberry ice cream container smells sweet and nice.
-   > **中文**：这碗草莓冰淇淋散发着香甜诱人的味道。
+7. The ingredients are all fresh.
+   > **中文**：配料都很新鲜。
 
-8. This food ingredient is fresh, giving a unique flavor.
-   > **中文**：这种主菜配料非常新鲜，尝起来风味独特。
+8. I'll have a tuna salad.
+   > **中文**：我要一份金枪鱼沙拉。
 
-9. The total cost of delivery includes a little service fee.
-   > **中文**：外卖的总金额包含了少量的配送服务费。
+9. How much is the total?
+   > **中文**：总共多少钱？
 
-10. Look! There are only a few pieces of tuna left in the jar.
-   > **中文**：看！包装盒里只有很少几块烤金枪鱼了。
+10. The payment method is mobile pay.
+    > **中文**：付款方式是手机支付。
 
-11. I am allergic to seafood, so I cannot eat tuna.
-   > **中文**：我对海鲜过敏，所以不能吃金枪鱼。
+11. Please put the utensils in the container.
+    > **中文**：请把餐具放进容器里。
 
-12. The shop offers beverages in many different flavors.
-   > **中文**：店里有多种不同口味的风味饮料可供选择。
+12. There is strawberry jam in the jar.
+    > **中文**：罐子里有草莓酱。
 
-13. He felt very thirsty after running in the hot sun.
-   > **中文**：在运动之后，他感到非常口渴。
+13. I only have a few pineapples left.
+    > **中文**：我只剩几颗菠萝了。
 
-14. Please mark your exact delivery location on the map.
-   > **中文**：请在地图上标记你的具体送到位置。
+14. There is only a little sugar in the water.
+    > **中文**：水里只有一点糖。
 
-15. Which payment method do you prefer, cash or card?
-   > **中文**：你喜欢哪种支付方式？现金还是刷卡？
+15. The delivery looks delicious.
+    > **中文**：外卖看起来很好吃。
 
-16. Please help me open this jar of strawberry jam.
-   > **中文**：请帮我打开这罐草莓果酱罐子。
+16. He is thirsty and wants a beverage.
+    > **中文**：他渴了，想要一杯饮料。
 
-17. Don't forget to put utensils inside the food box.
-   > **中文**：别忘了在餐盒里放入一次性餐具。
+17. What is the delivery location?
+    > **中文**：送餐地址是哪里？
 
-18. The delivery guy brought our hot meal very quickly.
-   > **中文**：外卖小哥很快就把热腾腾的饭菜送到了。
+18. This is the best way to order.
+    > **中文**：这是点餐的最好方式。
 
-19. This fresh lemonade tastes a bit sour and sweet.
-   > **中文**：这种新鲜的柠檬水尝起来有点酸。
+19. This restaurant makes its own delivery.
+    > **中文**：这家餐厅自己做外卖。
 
-20. The total amount of the food order is thirty dollars.
-   > **中文**：订单总额一共是三十美元。
+20. Pineapple and strawberry are both sweet.
+    > **中文**：菠萝和草莓都很甜。
 
 </quiz-listening>
 
@@ -214,23 +211,34 @@ allergic to 表示"对……过敏"。taste / smell 可作系动词（尝起来/
 | allergic | 过敏的 |
 | beverage | 饮料 |
 | coconut | 椰子 |
-| container | 容器 / 盒子 |
+| container | 容器 |
 | delivery | 外卖 / 配送 |
-| flavor | 风味 / 口味 |
+| few | 很少的（可数） |
+| flavor | 口味 |
 | hungry | 饥饿的 |
-| ingredient | 配料 / 食材 |
-| jar | 罐子 / 玻璃瓶 |
-| location | 位置 / 地点 |
+| ingredient | 配料 |
+| jar | 罐子 |
+| little | 很少的（不可数） |
+| location | 位置 / 地址 |
+| look | 看起来 |
+| make | 制作 |
 | payment method | 支付方式 |
 | pineapple | 菠萝 |
-| smell | 闻起来 / 气味 |
+| smell | 闻起来 |
 | sour | 酸的 |
 | strawberry | 草莓 |
-| taste | 尝起来 / 味道 |
+| taste | 尝起来 |
 | thirsty | 口渴的 |
-| total | 总计的 / 总额 |
+| total | 总计 |
 | tuna | 金枪鱼 |
-| utensils | 餐具 / 用具 |
+| utensils | 餐具 |
+| way | 方式 |
+| the | 这 / 那（定冠词） |
+| salad | 沙拉 |
+| jam | 果酱 |
+| water | 水 |
+| sugar | 糖 |
+| restaurant | 餐厅 |
 
 </quiz-matching>
 
@@ -238,202 +246,202 @@ allergic to 表示"对……过敏"。taste / smell 可作系动词（尝起来/
 
 ### 1
 
-The ____ person brought food in a container to our location.
+I'm hungry. Let's order ____.
 
 - [x] delivery
-- [ ] allergic
-- [ ] beverage
+- [ ] jar
+- [ ] tuna
 
-> **解析**：**delivery** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：点外卖用 order delivery；jar 和 tuna 不能被 order 作配送义。
 
 ### 2
 
-If you are ____ to pineapple or coconut, write it down.
+What are you allergic ____?
 
-- [x] allergic
-- [ ] beverage
-- [ ] coconut
+- [x] to
+- [ ] from
+- [ ] way
 
-> **解析**：**allergic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be allergic to 是固定搭配；from 和 way 不能构成此结构。
 
 ### 3
 
-Feeling ____ and thirsty, I want to order a cold beverage.
+This ____ sour.
 
-- [x] hungry
-- [ ] allergic
-- [ ] beverage
+- [x] tastes
+- [ ] smells
+- [ ] containers
 
-> **解析**：**hungry** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：尝起来酸用 tastes；smells 语义上是闻，containers 是名词不能作谓语。
 
 ### 4
 
-Please select your ____ payment method before checkout.
+It ____ great.
 
-- [x] preferred
-- [ ] allergic
-- [ ] beverage
+- [x] smells
+- [ ] total
+- [ ] few
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **preferred**。
+> **解析**：闻起来香用 smells；total 和 few 不是动词，不能作谓语。
 
 ### 5
 
-The ____ of tuna at this restaurant tastes fresh and sour.
+What is your favorite ____?
 
-- [x] jar
-- [ ] allergic
-- [ ] beverage
+- [x] flavor
+- [ ] utensils
+- [ ] location
 
-> **解析**：**jar** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：询问口味用 flavor；utensils 和 location 语义不符。
 
 ### 6
 
-Please include a set of plastic ____ with the delivery.
+This beverage is ____ flavored.
 
-- [x] utensils
-- [ ] allergic
-- [ ] beverage
+- [x] coconut
+- [ ] hungry
+- [ ] thirsty
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **utensils**。
+> **解析**：口味用 coconut flavored；hungry 和 thirsty 是人的感受，不能作口味。
 
 ### 7
 
-This ____ ice cream container smells sweet and nice.
+The ____ are all fresh.
 
-- [x] strawberry
-- [ ] allergic
-- [ ] beverage
+- [x] ingredients
+- [ ] total
+- [ ] payment
 
-> **解析**：**strawberry** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：新鲜的配料用 ingredients；total 和 payment 不能用 fresh 形容。
 
 ### 8
 
-This food ____ is fresh, giving a unique flavor.
+I'll have a ____ salad.
 
-- [x] ingredient
-- [ ] allergic
-- [ ] beverage
+- [x] tuna
+- [ ] sour
+- [ ] few
 
-> **解析**：**ingredient** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：金枪鱼沙拉用 tuna salad；sour 和 few 不能作沙拉口味定语。
 
 ### 9
 
-The ____ cost of delivery includes a little service fee.
+How much is the ____?
 
 - [x] total
-- [ ] allergic
-- [ ] beverage
+- [ ] jar
+- [ ] way
 
-> **解析**：**total** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：询问总价用 the total；jar 和 way 语义不符。
 
 ### 10
 
-____! There are only a few pieces of tuna left in the jar.
+The payment ____ is mobile pay.
 
-- [x] Look
-- [ ] allergic
-- [ ] beverage
+- [x] method
+- [ ] flavor
+- [ ] container
 
-> **解析**：**Look** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：payment method 是"支付方式"的固定搭配；flavor 和 container 不与 payment 搭配。
 
 ### 11
 
-I am ____ to seafood, so I cannot eat tuna.
+Please put the ____ in the container.
 
-- [x] allergic
-- [ ] beverage
-- [ ] coconut
+- [x] utensils
+- [ ] total
+- [ ] flavor
 
-> **解析**：**allergic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：放进容器的是餐具 utensils；total 和 flavor 是抽象名词，不能被放置。
 
 ### 12
 
-The shop offers ____ in many different flavors.
+There is strawberry jam in the ____.
 
-- [x] beverages
-- [ ] allergic
-- [ ] beverage
+- [x] jar
+- [ ] location
+- [ ] delivery
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **beverages**。
+> **解析**：装果酱的是罐子 jar；location 和 delivery 不能装东西。
 
 ### 13
 
-He felt very ____ after running in the hot sun.
+I only have a ____ pineapples left.
 
-- [x] thirsty
+- [x] few
+- [ ] little
 - [ ] allergic
-- [ ] beverage
 
-> **解析**：**thirsty** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：可数名词 pineapples 前用 few；little 修饰不可数，allergic 是形容词。
 
 ### 14
 
-Please mark your exact ____ location on the map.
+There is only a ____ sugar in the water.
 
-- [x] delivery
-- [ ] allergic
-- [ ] beverage
+- [x] little
+- [ ] few
+- [ ] sour
 
-> **解析**：**delivery** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：不可数名词 sugar 前用 a little；few 修饰可数，sour 是形容词。
 
 ### 15
 
-Which ____ method do you prefer, cash or card?
+The delivery ____ delicious.
 
-- [x] payment
-- [ ] allergic
-- [ ] beverage
+- [x] looks
+- [ ] makes
+- [ ] tastes
 
-> **解析**：**payment** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：看起来好吃用 looks；makes 语义不符，外卖尚未食用时先看到，用 looks 更自然。
 
 ### 16
 
-Please help me open this ____ of strawberry jam.
+He is ____ and wants a beverage.
 
-- [x] jar
+- [x] thirsty
 - [ ] allergic
-- [ ] beverage
+- [ ] total
 
-> **解析**：**jar** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：想喝饮料是因为口渴 thirsty；allergic 和 total 语义不符。
 
 ### 17
 
-Don't forget to put ____ inside the food box.
+What is the delivery ____?
 
-- [x] utensils
-- [ ] allergic
-- [ ] beverage
+- [x] location
+- [ ] jar
+- [ ] coconut
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **utensils**。
+> **解析**：送餐地址用 delivery location；jar 和 coconut 语义不符。
 
 ### 18
 
-The ____ guy brought our hot meal very quickly.
+This is the best ____ to order.
 
-- [x] delivery
-- [ ] allergic
-- [ ] beverage
+- [x] way
+- [ ] tuna
+- [ ] pineapple
 
-> **解析**：**delivery** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：方式用 way；tuna 和 pineapple 是食物，不能表方式。
 
 ### 19
 
-This fresh lemonade tastes a bit ____ and sweet.
+This restaurant ____ its own delivery.
 
-- [x] sour
-- [ ] allergic
-- [ ] beverage
+- [x] makes
+- [ ] smells
+- [ ] tastes
 
-> **解析**：**sour** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：自己做外卖用 makes；smells 和 tastes 不能与 delivery 搭配。
 
 ### 20
 
-The ____ amount of the food order is thirty dollars.
+Pineapple and strawberry ____ both sweet.
 
-- [x] total
-- [ ] allergic
-- [ ] beverage
+- [x] are
+- [ ] is
+- [ ] am
 
-> **解析**：**total** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：两种水果并列是复数主语，用 are；is 用于单数，am 只搭配 I。
 
 </quiz-cloze>

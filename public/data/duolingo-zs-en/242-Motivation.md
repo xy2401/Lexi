@@ -10,60 +10,33 @@ a number of, action, affect, find, forward, free, in theory, initially, intellig
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"分享个人挑战"展开，话题聚焦于动力、坚持与自我成长。词表里有一组描述内在状态的词——internal, intelligent, truly, struggle——它们共同指向一个主题：真正的改变来自内心。你可以练习这样的表达：Initially, I struggled to maintain a single habit, but the more I worked at it, the more significant the progress became.（起初我连一个习惯都坚持不了，但越努力，进步越明显。）
+本单元的主题是"分享个人挑战"，围绕动力与自我成长。词表可以分成四组：行动类动词（action, reach, maintain, rush, work at, struggle, treat, find）、变化与时间（initially, no longer, period, the more, a number of, in theory）、品质与感受（intelligent, internal, significant, single, truly, free）、以及态度（pretend, forward）。拼起来就是一段励志自述：Initially I struggled, but the more I worked at it, the more progress I made. Now I no longer pretend to be free of fear.
 
-in theory 和 no longer 构成一种"理想与现实"的对比：In theory, it's free and simple, but I can no longer pretend it doesn't affect me.（理论上它免费又简单，但我再也无法假装它不影响我。）the more... the more... 是经典比较结构，用来表达"越……越……"。reach a goal, rush into action, treat yourself kindly 这些搭配都围绕"如何面对挑战"这一交际任务。
+语法主线是 the more... the more... 的"越……越……"结构：The more you practice, the better you get. 两个分句都用比较级，表示同步增长。另一条主线是 initially 与 no longer 构成的时间对比——先描述起点，再说明如今的变化，是讲述个人成长的常用框架。
 
-学完本单元，你能用英语谈论自己的困难期、描述动力来源，并表达对坚持和成长的理解。
+学完这个单元，你能用英语讲述自己克服困难的过程、描述努力带来的变化，并谈论内在动力。
 
 ## Tips
 
-- **struggle** — 既可作动词也可作名词。作动词常接 with 或 to do：I struggle with motivation. / She struggles to maintain focus. 作名词：It was a real struggle. 比 difficulty 语气更重，暗示持续且费力。
+- **the more / a number of** — the more 引导"越……越……"结构：The more I read, the more I want to learn. a number of = 许多，后接可数名词复数：a number of reasons。注意 the number of 才是"……的数量"。
 
-- **the more... the more...** — "越……越……"的固定结构。The more you work at it, the easier it gets. 注意两个 the 都不能省略，后半句常用一般现在时表示普遍规律。
+- **initially / no longer / period** — 时间三词。initially = 最初：Initially, it was hard. no longer = 不再：I no longer give up easily. period 是"一段时间"：a difficult period。
 
-- **in theory** — "理论上"，常暗示现实并非如此。In theory it's simple; in practice it's hard. 反义词组是 in practice。中文里"说起来容易做起来难"正好对应这组对比。
+- **struggle / work at / maintain** — 三个努力类动词。struggle = 挣扎、艰难奋斗：struggle with doubt；work at = 下功夫做：work at a skill；maintain = 维持：maintain the habit。
 
-- **initially** — "起初、最初"，比 at first 更正式。常用于叙述转变：Initially I was nervous, but I found my rhythm. 同根词 initial（最初的）。
+- **reach / rush / find** — reach = 达成、到达：reach a goal，注意 reach 是及物动词，不加 to；rush = 匆忙：Don't rush. find = 发现、觉得：I find it hard to focus.
 
-- **maintain** — "维持、保持"，强调持续付出努力。maintain a habit / maintain motivation / maintain a relationship。比 keep 更正式，暗示需要主动维护而非自然而然。
+- **action / treat / pretend** — action 是"行动"：take action；treat 是"对待"：treat yourself kindly；pretend = 假装：pretend to be confident。
 
-- **no longer** — "不再"，放在动词前或 be 动词后：I no longer pretend. / She is no longer afraid. 比 not... anymore 更书面。注意语序：不是 I longer no...
+- **intelligent / internal / significant** — 三个形容词。intelligent = 聪明的，强调理解力；internal = 内在的，反义 external：internal strength；significant = 重要的、显著的：significant progress。
 
-- **significant** — "重要的、显著的"，比 big 或 important 更正式。a significant change / a significant period。副词 significantly 在学术和新闻中极高频。
+- **single / truly / free** — single = 单一的、单身的：a single step；truly = 真正地，修饰形容词或动词：truly free；free = 自由的，也可指"免费的"。
 
-- **pretend** — "假装"，后接 to do 或 that 从句：He pretends to be free. / She pretended that nothing affected her. 注意和 pretend 相关的形容词是 pretended（假装的），但更常用 fake 或 false。
+- **in theory** — "理论上"，常与 but 搭配形成转折：In theory it works, but in practice it doesn't.
 
-- **reach** — "达到、触及"，搭配目标类名词：reach a goal / reach a level / reach a point。和 arrive 不同，reach 是及物动词，直接加宾语，不加 at 或 to。
-
-- **affect** — "影响"，动词。注意和 effect 区分：affect 是动词（The weather affects me.），effect 通常是名词（The effect is significant.）。记忆口诀：Affect 是 Action（动词），Effect 是 End result（名词）。
-
-- **internal** — "内在的"，反义词 external（外在的）。internal motivation = 内在动力。构词：inter-（在……之间）+ -nal，但这里实际来自拉丁语 internus（内部的）。
-
-- **work at** — "努力做、下功夫做"，强调持续投入。You have to work at it every day. 比 work on 更强调付出努力的过程，而 work on 更侧重"在处理某事"。
-
-- **truly** — "真正地、确实"，加强语气。I truly believe... / It's truly free. 比 really 更正式、更有分量，常见于书面和正式口语。
-
-- **treat** — "对待、看待"，也指"款待、治疗"。treat yourself = 善待自己/犒劳自己。treat it as a challenge = 把它当作挑战。一词多义，具体含义看搭配。
-
-- **rush** — "冲、仓促行事"，常含贬义：Don't rush into action. / There's no need to rush. 作名词：in a rush = 急急忙忙。和 hurry 近义，但 rush 更有"猛冲"的画面感。
-
-- **forward** — "向前"，常见搭配 look forward to（期待）。注意 to 是介词，后接 -ing：I look forward to seeing you. 不是 to see。
-
-- **single** — "单一的、单身的"。a single period = 一个阶段。强调"仅仅一个"时语气比 one 更强：Not a single person came.（没有一个人来。）
-
-- **period** — "一段时间、时期"，比 time 更正式，指有明确起止的时段。a difficult period / a period of growth。也可指句号（美式英语）。
-
-- **find** — 除"找到"外，常表"发现、觉得"：I find it hard to maintain. / She found herself struggling. 这种"find + 宾语 + 补语"结构非常实用。
-
-- **free** — "自由的、免费的"。本单元语境下两种含义都可能：free from pressure（无压力的）/ It's free（免费的）。搭配 set free = 释放。
-
-- **action** — "行动"。take action = 采取行动。in action = 在行动中。和 act 的区别：action 强调过程或整体行为，act 强调单个动作。
-
-- **intelligent** — "聪明的、有智慧的"，比 smart 更正式，侧重思维能力。名词 intelligence（智力）。注意拼写：两个 l，不要写成 inteligent。
+- **affect / find 搭配** — affect 是动词"影响"：Stress affects your sleep. 注意 effect 是名词，别混淆。find 常见句型 find it + 形容词 + to do：I find it hard to stay focused.
 
 ## 练习
 
@@ -81,149 +54,149 @@ in theory 和 no longer 构成一种"理想与现实"的对比：In theory, it's
 
 <quiz-sentence-builder>
 
-1. **中文**：内在动机是推动人们长期坚持的关键因素。
-   **英文**：Internal motivation is key to keeping people committed for the long term.
-   > **解析**：internal 表示内在的。
+1. **中文**：我最初觉得这很难。
+   **英文**：Initially, I found it hard.
+   > **解析**：Initially 作时间副词置于句首；found 是 find 的过去式，it 作形式宾语。
 
-2. **中文**：这项关于心理学的研究取得了显著的进展。
-   **英文**：This study on human motivation made a significant breakthrough.
-   > **解析**：significant 表示显著的、重大的。
+2. **中文**：我练习得越多，进步就越大。
+   **英文**：The more I practice, the more I improve.
+   > **解析**：the more... the more... 结构，两个分句都用比较级，表示同步增长。
 
-3. **中文**：即使是最聪明的人也需要在实践中不断努力。
-   **英文**：Even the most intelligent people must work hard to achieve success.
-   > **解析**：intelligent 表示聪明的；work at 表示在……上努力。
+3. **中文**：我不再假装一切都好。
+   **英文**：I no longer pretend everything is fine.
+   > **解析**：no longer 表示"不再"，放在实义动词 pretend 前；pretend 后接省略 that 的从句。
 
-4. **中文**：每一个单独的目标都应该设定明确的完成期限。
-   **英文**：Every single goal should have a clear deadline for execution.
-   > **解析**：single 表示单个的、单一的。
+4. **中文**：压力会影响你的睡眠。
+   **英文**：Stress affects your sleep.
+   > **解析**：Stress 是单三主语，affect 加 s；affect 是动词"影响"，直接接宾语。
 
-5. **中文**：许多学生在刚入学时很难适应高强度的课程。
-   **英文**：Many students struggle to adapt to the heavy workload at first.
-   > **解析**：struggle 表示挣扎、困难重重。
+5. **中文**：你需要采取行动。
+   **英文**：You need to take action.
+   > **解析**：take action 是固定搭配"采取行动"；need to 后接动词原形。
 
-6. **中文**：制定目标时不要仓促决定，要给自己充分的思考时间。
-   **英文**：Don't rush into making major career decisions without thinking.
-   > **解析**：rush 表示仓促、急冲。
+6. **中文**：他终于达成了目标。
+   **英文**：He finally reached his goal.
+   > **解析**：reach 是及物动词，直接接 goal，不加 to；finally 表示"终于"。
 
-7. **中文**：保持积极的心态有助于克服日常生活中的挫折。
-   **英文**：Maintaining a positive mindset helps overcome daily obstacles.
-   > **解析**：maintain 表示维持、保持。
+7. **中文**：别着急，慢慢来。
+   **英文**：Don't rush; take your time.
+   > **解析**：Don't + 动词原形构成否定祈使句；take your time 是固定表达"慢慢来"。
 
-8. **中文**：经过多年的努力，她终于达到了事业的顶峰。
-   **英文**：After years of effort, she finally reached the peak of her career.
-   > **解析**：reach 表示达到。
+8. **中文**：保持这个习惯很重要。
+   **英文**：It is important to maintain the habit.
+   > **解析**：It 是形式主语，真正主语是 to maintain the habit。
 
-9. **中文**：积极采取行动比光是在脑海里构思重要得多。
-   **英文**：Taking concrete action matters much more than just having ideas.
-   > **解析**：action 表示行动。
+9. **中文**：他在这件事上下了不少功夫。
+   **英文**：He worked at it for a long time.
+   > **解析**：work at 是动词短语"在……上下功夫"；worked 是过去式。
 
-10. **中文**：理论上这个方案可行，但实际操作中存在诸多变数。
-   **英文**：In theory the design works well, but practical tests are needed.
-   > **解析**：in theory 表示理论上。
+10. **中文**：她经历了一段艰难的时期。
+   **英文**：She struggled through a difficult period.
+   > **解析**：struggle through 表示"艰难度过"；a difficult period 是时间段。
 
-11. **中文**：起初，他没有意识到自己的习惯会带来多大影响。
-   **英文**：Initially, he didn't realize how much his habit would affect him.
-   > **解析**：initially 表示起初；affect 表示影响。
+11. **中文**：理论上行得通，实践里却很难。
+   **英文**：In theory it works, but in practice it is hard.
+   > **解析**：In theory 与 in practice 形成对比；but 连接两个转折分句。
 
-12. **中文**：无论发生什么，我们都不会放弃，绝无例外！
-   **英文**：We will not accept failure under any circumstances, period!
-   > **解析**：period 在句末作强调，意为绝无例外、到此为止。
+12. **中文**：真正的自由来自内在。
+   **英文**：True freedom comes from within.
+   > **解析**：True 修饰 freedom 作主语；within 作副词表示"内心"。
 
-13. **中文**：只有不断向前看，你才能战胜过去的遗憾。
-   **英文**：Only by looking forward can you overcome past disappointment.
-   > **解析**：forward 表示向前。
+13. **中文**：他取得了显著的进步。
+   **英文**：He made significant progress.
+   > **解析**：significant 修饰不可数名词 progress；make progress 是固定搭配。
 
-14. **中文**：已经有许多实验证明了赞美对士气的提升作用。
-   **英文**：A number of studies have proven the power of positive reinforcement.
-   > **解析**：a number of 表示许多、若干。
+14. **中文**：千里之行始于一步。
+   **英文**：Every journey starts with a single step.
+   > **解析**：single 修饰 step 表示"单一的"；Every journey 是单三主语，starts 加 s。
 
-15. **中文**：你越努力地致力于这项技能，成果就越出色。
-   **英文**：The more you work at this skill, the better your results will be.
-   > **解析**：the more ... the more ... 表示越……就越……。
+15. **中文**：善待自己。
+   **英文**：Treat yourself kindly.
+   > **解析**：祈使句以动词原形 Treat 开头；yourself 是反身代词作宾语。
 
-16. **中文**：不要假装一切都很完美，勇敢面对存在的问题。
-   **英文**：Don't pretend that everything is fine when changes are needed.
-   > **解析**：pretend 表示假装、伪装。
+16. **中文**：我发现保持专注很难。
+   **英文**：I find it hard to stay focused.
+   > **解析**：find it + 形容词 + to do 结构，it 是形式宾语。
 
-17. **中文**：他真正地关爱着团队中的每一位小组成员。
-   **英文**：He truly cares about the personal growth of every team member.
-   > **解析**：truly 表示真正地。
+17. **中文**：有很多原因可以解释这一点。
+   **英文**：A number of reasons can explain this.
+   > **解析**：a number of + 复数名词，谓语用复数 can；reasons 是复数主语。
 
-18. **中文**：善待他人不仅能带来好人缘，也能让自己感到快乐。
-   **英文**：Learning to treat others with respect brings lasting self-satisfaction.
-   > **解析**：treat 表示对待。
+18. **中文**：她真的很聪明。
+   **英文**：She is truly intelligent.
+   > **解析**：truly 是副词，修饰形容词 intelligent；is 连接主语与表语。
 
-19. **中文**：致力于提升个人能力需要持之以恒的毅力。
-   **英文**：If you work at your skills daily, progress will naturally follow.
-   > **解析**：work at 表示在……上努力。
+19. **中文**：向前看，不要回头。
+   **英文**：Look forward, and never look back.
+   > **解析**：两个并列祈使句由 and 连接；forward 和 back 都作副词。
 
-20. **中文**：成功需要自由探索的空间和不断的自我驱动。
-   **英文**：Having free time to explore passions boosts creative output.
-   > **解析**：free 表示自由的。
+20. **中文**：我真正想要的是内心的平静。
+   **英文**：What I truly want is inner peace.
+   > **解析**：What 引导主语从句作主语；is 连接从句与表语 inner peace。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Internal motivation is key to keeping people committed for the long term.
-   > **中文**：内在动机是推动人们长期坚持的关键因素。
+1. Initially, I was afraid to try.
+   > **中文**：最初，我不敢尝试。
 
-2. This study on human motivation made a significant breakthrough.
-   > **中文**：这项关于心理学的研究取得了显著的进展。
+2. The more I work at it, the better I get.
+   > **中文**：我越下功夫，就做得越好。
 
-3. Even the most intelligent people must work hard to achieve success.
-   > **中文**：即使是最聪明的人也需要在实践中不断努力。
+3. I no longer rush into decisions.
+   > **中文**：我不再匆忙做决定。
 
-4. Every single goal should have a clear deadline for execution.
-   > **中文**：每一个单独的目标都应该设定明确的完成期限。
+4. Doubt affects your confidence.
+   > **中文**：怀疑会影响你的信心。
 
-5. Many students struggle to adapt to the heavy workload at first.
-   > **中文**：许多学生在刚入学时很难适应高强度的课程。
+5. Take action before it is too late.
+   > **中文**：趁还来得及，采取行动吧。
 
-6. Don't rush into making major career decisions without thinking.
-   > **中文**：制定目标时不要仓促决定，要给自己充分的思考时间。
+6. She reached her goal at last.
+   > **中文**：她终于达成了目标。
 
-7. Maintaining a positive mindset helps overcome daily obstacles.
-   > **中文**：保持积极的心态有助于克服日常生活中的挫折。
+7. Maintain a positive attitude.
+   > **中文**：保持积极的心态。
 
-8. After years of effort, she finally reached the peak of her career.
-   > **中文**：经过多年的努力，她终于达到了事业的顶峰。
+8. He struggled for a whole year.
+   > **中文**：他挣扎了整整一年。
 
-9. Taking concrete action matters much more than just having ideas.
-   > **中文**：积极采取行动比光是在脑海里构思重要得多。
+9. In theory, the plan is simple.
+   > **中文**：理论上，这个计划很简单。
 
-10. In theory the design works well, but practical tests are needed.
-   > **中文**：理论上这个方案可行，但实际操作中存在诸多变数。
+10. Every change starts with a single step.
+   > **中文**：每一次改变都始于一步。
 
-11. Initially, he didn't realize how much his habit would affect him.
-   > **中文**：起初，他没有意识到自己的习惯会带来多大影响。
+11. She made significant progress.
+   > **中文**：她取得了显著的进步。
 
-12. We will not accept failure under any circumstances, period!
-   > **中文**：无论发生什么，我们都不会放弃，绝无例外！
+12. I find it hard to stay calm.
+   > **中文**：我发现保持冷静很难。
 
-13. Only by looking forward can you overcome past disappointment.
-   > **中文**：只有不断向前看，你才能战胜过去的遗憾。
+13. A number of people helped me.
+   > **中文**：许多人帮助了我。
 
-14. A number of studies have proven the power of positive reinforcement.
-   > **中文**：已经有许多实验证明了赞美对士气的提升作用。
+14. He is truly intelligent.
+   > **中文**：他真的很有智慧。
 
-15. The more you work at this skill, the better your results will be.
-   > **中文**：你越努力地致力于这项技能，成果就越出色。
+15. Treat every day as a gift.
+   > **中文**：把每一天都当作礼物。
 
-16. Don't pretend that everything is fine when changes are needed.
-   > **中文**：不要假装一切都很完美，勇敢面对存在的问题。
+16. Stop pretending to be perfect.
+   > **中文**：别再假装完美了。
 
-17. He truly cares about the personal growth of every team member.
-   > **中文**：他真正地关爱着团队中的每一位小组成员。
+17. The fear was internal.
+   > **中文**：那份恐惧来自内心。
 
-18. Learning to treat others with respect brings lasting self-satisfaction.
-   > **中文**：善待他人不仅能带来好人缘，也能让自己感到快乐。
+18. We have a short period of rest.
+   > **中文**：我们有一段短暂的休息时间。
 
-19. If you work at your skills daily, progress will naturally follow.
-   > **中文**：致力于提升个人能力需要持之以恒的毅力。
+19. Stay free and keep moving forward.
+   > **中文**：保持自由，继续向前。
 
-20. Having free time to explore passions boosts creative output.
-   > **中文**：成功需要自由探索的空间和不断的自我驱动。
+20. This challenge truly changed me.
+   > **中文**：这个挑战真的改变了我。
 
 </quiz-listening>
 
@@ -231,26 +204,39 @@ in theory 和 no longer 构成一种"理想与现实"的对比：In theory, it's
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| internal | 内在的；内部的 |
-| intelligent | 聪明的；有智慧的 |
-| significant | 显著的；重大的 |
-| single | 单个的；单一的 |
-| struggle | 挣扎；努力奋斗 |
-| rush | 仓促；冲 |
-| maintain | 维持；保持 |
-| reach | 达到；够到 |
-| work at | 致力于；在……上努力 |
-| affect | 影响 |
-| treat | 对待；对待某人 |
-| in theory | 理论上 |
-| initially | 最初；起初 |
-| period | 句号；时期（口语表“到此为止/绝无例外”） |
-| forward | 向前 |
+| a number of | 许多 |
 | action | 行动 |
-| a number of | 许多；若干 |
-| pretend | 伪装；假装 |
+| affect | 影响 |
+| find | 发现 / 觉得 |
+| forward | 向前 |
+| free | 自由的 |
+| in theory | 理论上 |
+| initially | 最初 |
+| intelligent | 聪明的 |
+| internal | 内在的 |
+| maintain | 维持 |
+| no longer | 不再 |
+| period | 一段时间 |
+| pretend | 假装 |
+| reach | 达成 / 到达 |
+| rush | 匆忙 |
+| significant | 显著的 / 重要的 |
+| single | 单一的 |
+| struggle | 挣扎 / 奋斗 |
+| the more | 越……越…… |
+| treat | 对待 |
 | truly | 真正地 |
-| the more | 越…… |
+| work at | 下功夫做 |
+| I | 我 |
+| it | 它 |
+| but | 但是 |
+| every | 每一个 |
+| stop | 停止 |
+| stay | 保持 |
+| keep | 继续 |
+| into | 进入 |
+| with | 与 |
+| as | 作为 |
 
 </quiz-matching>
 
@@ -258,202 +244,202 @@ in theory 和 no longer 构成一种"理想与现实"的对比：In theory, it's
 
 ### 1
 
-____ motivation is key to keeping people committed for the long term.
+____, he found the work extremely hard.
 
-- [x] Internal
-- [ ] a number of
-- [ ] action
+- [x] Initially
+- [ ] Initial
+- [ ] Initialize
 
-> **解析**：**Internal** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句首需要副词 Initially；Initial 是形容词，Initialize 是动词"初始化"。
 
 ### 2
 
-This study on human motivation made a ____ breakthrough.
+The more you practice, the ____ you become.
 
-- [x] significant
-- [ ] a number of
-- [ ] action
+- [x] better
+- [ ] good
+- [ ] best
 
-> **解析**：**significant** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the more... the better... 要求比较级；good 是原级，best 是最高级。
 
 ### 3
 
-Even the most ____ people must work hard to achieve success.
+I ____ give up when things get hard.
 
-- [x] intelligent
-- [ ] a number of
-- [ ] action
+- [x] no longer
+- [ ] not longer
+- [ ] no more time
 
-> **解析**：**intelligent** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：no longer 是固定副词短语"不再"；not longer 不是正确表达。
 
 ### 4
 
-Every ____ goal should have a clear deadline for execution.
+Lack of sleep ____ your mood badly.
 
-- [x] single
-- [ ] a number of
-- [ ] action
+- [x] affects
+- [ ] effects
+- [ ] affect
 
-> **解析**：**single** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 Lack 是单数，动词用 affects；effect 是名词，affect 缺 s。
 
 ### 5
 
-Many students ____ to adapt to the heavy workload at first.
+It is time to take ____ and change things.
 
-- [x] struggle
-- [ ] a number of
-- [ ] action
+- [x] action
+- [ ] actions
+- [ ] act
 
-> **解析**：**struggle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：take action 是固定搭配，action 用单数；act 不能进入该搭配。
 
 ### 6
 
-Don't ____ into making major career decisions without thinking.
+After months of effort, she ____ her goal.
 
-- [x] rush
-- [ ] a number of
-- [ ] action
+- [x] reached
+- [ ] reached to
+- [ ] reaching
 
-> **解析**：**rush** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：reach 是及物动词，直接接宾语，不加 to；reaching 不能单独作谓语。
 
 ### 7
 
-____ a positive mindset helps overcome daily obstacles.
+Don't ____, or you will make mistakes.
 
-- [x] Maintaining
-- [ ] a number of
-- [ ] action
+- [x] rush
+- [ ] rushes
+- [ ] rushing
 
-> **解析**：**Maintaining** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：Don't 后接动词原形 rush；rushes 是单三形式，rushing 是动名词。
 
 ### 8
 
-After years of effort, she ____ reached the peak of her career.
+It is hard to ____ a habit for long.
 
-- [x] finally
-- [ ] a number of
-- [ ] action
+- [x] maintain
+- [ ] maintains
+- [ ] maintained
 
-> **解析**：**finally** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：to 后接动词原形 maintain；其余两项不符合不定式要求。
 
 ### 9
 
-Taking concrete ____ matters much more than just having ideas.
+He ____ with self-doubt for years.
 
-- [x] action
-- [ ] a number of
-- [ ] affect
+- [x] struggled
+- [ ] struggles
+- [ ] struggling
 
-> **解析**：**action** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：for years 表示过去持续的时间，用过去式 struggled；struggles 是一般现在时。
 
 ### 10
 
-In theory the design works well, but ____ tests are needed.
+In ____, the idea sounds great, but it is hard to do.
 
-- [x] practical
-- [ ] a number of
-- [ ] action
+- [x] theory
+- [ ] theories
+- [ ] theorist
 
-> **解析**：**practical** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：In theory 是固定搭配"理论上"；theories 是复数，theorist 是"理论家"。
 
 ### 11
 
-____, he didn't realize how much his habit would affect him.
+Every big change starts with a ____ step.
 
-- [x] Initially
-- [ ] a number of
-- [ ] action
+- [x] single
+- [ ] singly
+- [ ] singular
 
-> **解析**：**Initially** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰名词 step 需要形容词 single；singly 是副词，singular 意为"单数的"语义不合。
 
 ### 12
 
-We will not accept failure under any circumstances, ____!
+She has made ____ progress this month.
 
-- [x] period
-- [ ] a number of
-- [ ] action
+- [x] significant
+- [ ] significance
+- [ ] significantly
 
-> **解析**：**period** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰名词 progress 需要形容词 significant；significance 是名词。
 
 ### 13
 
-Only by looking ____ can you overcome past disappointment.
+I find ____ difficult to get up early.
 
-- [x] forward
-- [ ] a number of
-- [ ] action
+- [x] it
+- [ ] that
+- [ ] this
 
-> **解析**：**forward** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：find it + 形容词 + to do 结构中 it 是形式宾语；that 和 this 不用于该结构。
 
 ### 14
 
-A number of studies have proven the power of positive ____.
+____ students joined the new program.
 
-- [x] reinforcement
-- [ ] a number of
-- [ ] action
+- [x] A number of
+- [ ] A lot
+- [ ] Number
 
-> **解析**：**reinforcement** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：A number of + 复数名词表示"许多"；A lot 后需加 of，单独的 Number 不成立。
 
 ### 15
 
-The more you work at this skill, the better your ____ will be.
+He is ____ one of the most intelligent people here.
 
-- [x] results
-- [ ] a number of
-- [ ] action
+- [x] truly
+- [ ] true
+- [ ] truth
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **results**。
+> **解析**：修饰系表结构需要副词 truly；true 是形容词，truth 是名词。
 
 ### 16
 
-Don't ____ that everything is fine when changes are needed.
+You should ____ yourself with kindness.
 
-- [x] pretend
-- [ ] a number of
-- [ ] action
+- [x] treat
+- [ ] treats
+- [ ] treated
 
-> **解析**：**pretend** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：should 后接动词原形 treat；treat yourself with kindness 是"善待自己"。
 
 ### 17
 
-He ____ cares about the personal growth of every team member.
+Stop ____ to have all the answers.
 
-- [x] truly
-- [ ] a number of
-- [ ] action
+- [x] pretending
+- [ ] pretend
+- [ ] pretended
 
-> **解析**：**truly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：stop 后接动名词表示"停止做某事"；pretend 是原形，pretended 是过去式。
 
 ### 18
 
-Learning to ____ others with respect brings lasting self-satisfaction.
+His fear was ____, not real.
 
-- [x] treat
-- [ ] a number of
-- [ ] action
+- [x] internal
+- [ ] internally
+- [ ] interior
 
-> **解析**：**treat** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后需要形容词 internal 作表语；internally 是副词，interior 指物理上的"内部"。
 
 ### 19
 
-If you work at your skills daily, progress will ____ follow.
+We rested for a short ____ before continuing.
 
-- [x] naturally
-- [ ] a number of
-- [ ] action
+- [x] period
+- [ ] periods
+- [ ] period's
 
-> **解析**：**naturally** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a short 后接单数名词 period；复数和所有格都不符合。
 
 ### 20
 
-Having ____ time to explore passions boosts creative output.
+Keep moving ____ no matter what happens.
 
-- [x] free
-- [ ] a number of
-- [ ] action
+- [x] forward
+- [ ] forwards to
+- [ ] forwardest
 
-> **解析**：**free** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：move forward 是固定搭配，forward 作副词；forwards to 结构错误，forwardest 不存在。
 
 </quiz-cloze>

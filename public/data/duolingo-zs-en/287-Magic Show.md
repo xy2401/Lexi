@@ -10,42 +10,31 @@ a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是魔术表演，交际任务是"欢迎某人上台"。词表里有魔术表演的标志性元素（magician, trick, illusion, handcuffs, handkerchief, blindfolded, knot, untie），有舞台互动用语（a round of applause, brave volunteer, warm welcome, without further ado, may we, would you kindly），也有描述观众反应的词（gasp, suspenseful, incredibly）。你可以练习这样的舞台叙述：Without further ado, may we have a warm welcome for our magician! / Would you kindly join us on stage, brave volunteer? / Now, I'll tie a knot in this handkerchief—watch closely! Wasn't it incredible? The illusion made everyone gasp!
+本单元的主题是"欢迎表演者登台"，场景是一场魔术秀。词表可以分成四组：演出用语（magic show, magician, trick, illusion, a round of applause, warm welcome, without further ado）、舞台指令（may we, would you kindly, wasn't it, live up to, yet）、道具与动作（blindfolded, handcuffs, handkerchief, knot, untie, rub, make）、以及氛围形容（gasp, incredibly, suspenseful, brave volunteer）。拼起来就是一段主持词：May we give our brave volunteer a warm welcome? Without further ado, let's see if the trick lives up to the hype!
 
-词表里有几组舞台主持的经典表达：without further ado（话不多说、闲话少叙）、a round of applause（一阵掌声）、may we（我们可以……吗，非常正式的邀请）、would you kindly（能否请您……，极其礼貌的请求）。live up to 是"达到预期、不辜负"，在魔术语境中指表演是否配得上观众的期待。
+语法主线是"礼貌请求与反义疑问"。may we... 和 would you kindly... 是主持人的礼貌句式：Would you kindly hold this handkerchief? wasn't it 是反义疑问句，用来寻求观众认同：Amazing, wasn't it? 另一条主线是被动与状态：blindfolded（被蒙住眼睛）、tied with a knot（打了个结系住）、yet（还没/已经），都出现在互动魔术的描述里。
+
+学完这单元，你能用英语参与或主持一场互动表演：礼貌邀请志愿者、描述魔术过程、带动观众气氛。
 
 ## Tips
 
-- **without further ado** — 话不多说、闲话少叙、直接进入正题。ado = 忙乱、周折（古语）。搭配：And now, without further ado... / Without further ado, let's begin. 例句：Without further ado, may I present tonight's magician! 这是舞台主持、演讲、播客中极常见的过渡语，用来从开场白切换到正题。
+- **without further ado / a round of applause** — 主持金句。without further ado 是"废话不多说"：Without further ado, here's our magician!（ado 是古英语"麻烦事"。）a round of applause 是"一阵掌声"：Give him a round of applause!
 
-- **a round of applause** — 一阵掌声。搭配：give a round of applause / a big round of applause / let's have a round of applause。例句：Let's give our brave volunteer a round of applause! 注意 round 在这里是"一轮、一阵"，不是"圆的"。类似表达：a round of cheers / a round of drinks。
+- **warm welcome / brave volunteer** — 欢迎用语。give sb a warm welcome 是"热烈欢迎"；brave volunteer 是"勇敢的志愿者"，互动节目的招牌称呼。
 
-- **illusion / trick** — illusion = 幻象、错觉（强调视觉上的欺骗）：an optical illusion / create an illusion。trick = 戏法、魔术（强调技巧和手法）：a magic trick / a card trick / do a trick。例句：The magician's greatest illusion was making the volunteer disappear. 注意 illusion 更"高级"，trick 更"具体"。
+- **may we / would you kindly** — 礼貌请求。May we have your attention?（请大家注意。）Would you kindly step forward?（请您上前一步。）would you kindly 比 please 更客气、更正式。
 
-- **handcuffs / handkerchief / knot / untie** — 四个魔术道具和动作词。handcuffs = 手铐：escape from handcuffs / locked in handcuffs。handkerchief = 手帕：a silk handkerchief / pull a handkerchief from a hat。knot = 结：tie a knot / a tight knot。untie = 解开：untie the knot / untie the rope。例句：The magician was handcuffed, yet he untied every knot with a handkerchief in his mouth.
+- **magician / magic show / trick / illusion** — 魔术四词。magician 是魔术师；magic show 是魔术表演；trick 是魔术手法；illusion 是幻象/错觉，强调"视觉欺骗"：an optical illusion（视觉错觉）。
 
-- **blindfolded** — 被蒙住眼睛的。blind（盲）+ fold（折叠）+ -ed。搭配：blindfolded volunteer / perform blindfolded / a blindfolded guess。例句：The magician performed the trick blindfolded. 注意 blindfold 做动词：They blindfolded the volunteer. 做名词：wear a blindfold。
+- **live up to / wasn't it / yet** — 评价句式。live up to 是"不辜负、达到预期"：The show lived up to expectations. wasn't it 是反义疑问：It was incredible, wasn't it? yet 用于否定句"还没"：The trick hasn't ended yet.
 
-- **gasp / suspenseful** — gasp = 倒吸一口气、惊呼（名词/动词）：a gasp of surprise / the audience gasped。suspenseful = 紧张的、悬念迭起的：a suspenseful moment / a suspenseful trick。例句：The audience gasped during the most suspenseful part of the show. 注意 suspense（悬念）→ suspenseful（形容词）。
+- **blindfolded / handcuffs / knot / untie** — 束缚四词。blindfolded 是"被蒙眼的"（blind 眼盲 + fold 折叠）；handcuffs 是手铐，常用复数；knot 是结：tie a knot（打结）；untie 是解开：untie the knot。✗ untie 与 tie 是反义词对。
 
-- **live up to** — 达到（预期）、不辜负。搭配：live up to expectations / live up to the hype / live up to a reputation。例句：The magician truly lived up to his reputation. 注意 up to 在这里表示"达到某标准"。反义：fall short of（未达到）。
+- **handkerchief / rub / make** — 道具动作。handkerchief 是手帕，魔术经典道具；rub 是摩擦：rub the lamp（擦灯）；make 在魔术中是"变出"：make a coin disappear（让硬币消失）。
 
-- **brave volunteer / warm welcome** — brave volunteer = 勇敢的志愿者（舞台上被邀请的观众）：We need a brave volunteer! / Who will be our brave volunteer? warm welcome = 热烈欢迎：a warm welcome / give someone a warm welcome。例句：Let's give a warm welcome to our brave volunteer! 这是舞台主持的固定搭配。
-
-- **may we / would you kindly** — 两个极其礼貌的请求句式。may we = 我们可以……吗（正式邀请）：May we have your attention? / May we welcome the magician? would you kindly = 能否请您……（非常客气）：Would you kindly step this way? / Would you kindly hold this handkerchief? 两者都比 can you / could you 更正式、更有仪式感。
-
-- **precisely / incredibly / yet** — precisely = 精确地、正是如此：Precisely! / at precisely 8 o'clock / precisely the right trick。incredibly = 难以置信地：incredibly fast / incredibly talented / incredibly suspenseful。yet = 然而、还（用于否定和疑问）：The trick isn't over yet. / Yet no one could explain how he did it. 例句：He was incredibly precise—yet no one could see how.
-
-- **rub / make** — rub = 摩擦、搓：rub the lamp / rub the handkerchief / rub your eyes。make = 使、让（使役动词）：make something disappear / make the audience gasp / make a knot vanish。例句：The magician rubbed the handkerchief and made it disappear. 注意 make + 宾语 + 动词原形（make it disappear，不是 make it to disappear）。
-
-- **wasn't it** — 反问尾句，用于确认和寻求认同。搭配：Wasn't it incredible? / Wasn't it amazing? / Great trick, wasn't it? 例句：The illusion was breathtaking, wasn't it? 舞台主持中常用反问尾句来调动观众情绪，期待观众回应 "Yes!" 或掌声。
-
-- **magic show / magician** — magic show = 魔术表演：a magic show / attend a magic show / a children's magic show。magician = 魔术师：a professional magician / a stage magician / the magician performed。例句：The magician opened the magic show with a card trick. 注意 magic 做形容词（a magic trick），magician 是"做魔术的人"。
-
-- **suspenseful / illusion / trick** — 三个描述魔术体验的词。suspenseful 强调"让你屏住呼吸"的紧张感；illusion 强调"你看到的不是真的"；trick 强调"手法和技巧"。例句：The most suspenseful trick was an illusion where the magician escaped from handcuffs underwater. 三者从不同角度描述同一个魔术体验。
+- **gasp / suspenseful / incredibly** — 氛围词。gasp 是倒吸气/惊呼：The audience gasped. suspenseful 是"扣人心弦的"（suspense 悬念 + -ful）；incredibly 是"难以置信地"：incredibly fast。
 
 ## 练习
 
@@ -63,149 +52,149 @@ a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief
 
 <quiz-sentence-builder>
 
-1. **中文**：话不多说，让我们欢迎今晚的特别嘉宾。
-   **英文**：Without further ado, let us welcome tonight's special guest.
-   > **解析**：Without further ado 舞台主持人常用语，意为“话不多说、闲话少叙”。
+1. **中文**：废话不多说，有请我们的魔术师！
+   **英文**：Without further ado, here's our magician!
+   > **解析**：Without further ado 是固定开场白；here's 引出人物。
 
-2. **中文**：请给我们的表演者们一阵热烈的掌声！
-   **英文**：Please give a big round of applause for our performers!
-   > **解析**：round of applause 表示一阵掌声。
+2. **中文**：请给我们的志愿者一阵掌声。
+   **英文**：Let's give our volunteer a round of applause.
+   > **解析**：Let's 后接动词原形；give sb sth 是双宾语结构。
 
-3. **中文**：魔术师利用镜子和光线制造了聪明的幻象。
-   **英文**：The magician created a clever illusion using mirrors and light.
-   > **解析**：illusion 表示幻象、错觉。
+3. **中文**：让我们热烈欢迎这位勇敢的志愿者。
+   **英文**：May we give this brave volunteer a warm welcome?
+   > **解析**：May we 表礼貌提议；give sb a welcome 是双宾语。
 
-4. **中文**：他用一副扑克牌展示了一个经典的魔术戏法。
-   **英文**：He demonstrated a classic magic trick with a deck of cards.
-   > **解析**：trick 表示戏法、魔术。
+4. **中文**：请您上前一步好吗？
+   **英文**：Would you kindly step forward?
+   > **解析**：Would you kindly 是礼貌请求句式；step forward 是动词短语。
 
-5. **中文**：魔术师在十秒钟内成功摆脱了金属手铐。
-   **英文**：The magician managed to escape from metal handcuffs in ten seconds.
-   > **解析**：handcuffs 表示手铐。
+5. **中文**：他蒙着眼睛解开了绳结。
+   **英文**：He untied the knot while blindfolded.
+   > **解析**：untied 是 untie 的过去式；while blindfolded 是省略的状语从句。
 
-6. **中文**：她从空帽子里拉出了一块彩色丝绸手帕。
-   **英文**：She pulled a colorful silk handkerchief out of an empty hat.
-   > **解析**：handkerchief 表示手帕。
+6. **中文**：你能帮我拿着这条手帕吗？
+   **英文**：Could you hold this handkerchief for me?
+   > **解析**：Could you 表礼貌请求；hold 用原形。
 
-7. **中文**：他在木箱周围打了一个牢固的结。
-   **英文**：He tied a tight knot around the wooden box.
-   > **解析**：knot 表示结。
+7. **中文**：擦一擦那盏灯。
+   **英文**：Rub the lamp and make a wish.
+   > **解析**：祈使句 Rub 开头；and 连接两个动词原形。
 
-8. **中文**：你能只用一只手解开这条绳子吗？
-   **英文**：Can you untie this rope with only one hand?
-   > **解析**：untie 表示解开结/绳子。
+8. **中文**：魔术师让鸽子消失了。
+   **英文**：The magician made the pigeon disappear.
+   > **解析**：made 是 make 的过去式；make sb/sth do 结构中 disappear 用原形。
 
-9. **中文**：助手在从牌堆中挑选扑克牌前被蒙上了眼睛。
-   **英文**：The assistant was blindfolded before selecting a card from the deck.
-   > **解析**：blindfolded 表示被蒙上眼睛的。
+9. **中文**：这个魔术没有辜负我们的期待。
+   **英文**：The trick lived up to our expectations.
+   > **解析**：lived 是 live 的过去式；live up to 是固定短语。
 
-10. **中文**：全场观众发出了很大的一声惊呼。
-   **英文**：The entire audience let out a loud gasp of astonishment.
-   > **解析**：gasp 表示倒吸一口气、惊呼。
+10. **中文**：太精彩了，不是吗？
+   **英文**：It was amazing, wasn't it?
+   > **解析**：wasn't it 是反义疑问句，与主句 was 呼应。
 
-11. **中文**：音乐使得气氛感觉紧张且悬念迭起。
-   **英文**：The music made the atmosphere feel tense and suspenseful.
-   > **解析**：suspenseful 表示悬念迭起的、紧张的。
+11. **中文**：表演还没结束。
+   **英文**：The show hasn't ended yet.
+   > **解析**：hasn't ended 是现在完成时否定；yet 用于否定句句末。
 
-12. **中文**：我们需要观众中有一位勇敢的志愿者走上舞台。
-   **英文**：We need a brave volunteer from the audience to step up on stage.
-   > **解析**：brave volunteer 舞台固定搭配，意为“勇敢的志愿者”。
+12. **中文**：观众发出一阵惊呼。
+   **英文**：The audience gasped in surprise.
+   > **解析**：gasped 是过去式；in surprise 是方式状语。
 
-13. **中文**：让我们对这位著名的表演家表示热烈欢迎！
-   **英文**：Let's give a warm welcome to the famous entertainer!
-   > **解析**：warm welcome 表示热烈欢迎。
+13. **中文**：这场演出扣人心弦。
+   **英文**：The performance was incredibly suspenseful.
+   > **解析**：incredibly 副词修饰 suspenseful；was 与单数主语一致。
 
-14. **中文**：在接下来的节目中我们可以拥有您的全神贯注吗？
-   **英文**：May we have your complete attention for the next act?
-   > **解析**：May we 为极具礼貌的正式邀请句式。
+14. **中文**：那只是一个视觉错觉。
+   **英文**：It was just an optical illusion.
+   > **解析**：optical 修饰 illusion；an 用于元音音素开头的词前。
 
-15. **中文**：能否请您在前排就座？
-   **英文**：Would you kindly take a seat in the front row?
-   > **解析**：Would you kindly 是非常客气的请求句式。
+15. **中文**：魔术师挣脱了手铐。
+   **英文**：The magician escaped from the handcuffs.
+   > **解析**：escaped 是过去式；escape from 是固定搭配。
 
-16. **中文**：这场演出没能达到所有的宣传炒作和高期待。
-   **英文**：The show failed to live up to all the hype and high expectations.
-   > **解析**：live up to 表示达到（预期）、不辜负。
+16. **中文**：这是一场精彩的魔术秀。
+   **英文**：It was an incredible magic show.
+   > **解析**：incredible 修饰 magic show；an 用于元音音素前。
 
-17. **中文**：那是一场难以置信地让人震撼的表演！
-   **英文**：That was an incredibly mind-blowing performance!
-   > **解析**：incredibly 副词，表示难以置信地。
+17. **中文**：请系好这个结。
+   **英文**：Please tie this knot tightly.
+   > **解析**：祈使句；tightly 副词修饰 tie。
 
-18. **中文**：时钟在恰好十二点钟的时候敲响了午夜。
-   **英文**：The clock struck midnight at precisely twelve o'clock.
-   > **解析**：precisely 表示精确地、恰好。
+18. **中文**：绳子被打了一个结。
+   **英文**：The rope was tied in a knot.
+   > **解析**：was tied 是被动语态；in a knot 是方式状语。
 
-19. **中文**：搓一搓神灯三次来召唤神灯精灵。
-   **英文**：Rub the magic lamp three times to summon the genie.
-   > **解析**：Rub 动词，表示摩擦、搓。
+19. **中文**：这位魔术师动作快得惊人。
+   **英文**：The magician works incredibly fast.
+   > **解析**：works 是第三人称单数；incredibly 修饰副词 fast。
 
-20. **中文**：那个扑克牌戏法太神奇了，不是吗？
-   **英文**：That card trick was totally amazing, wasn't it?
-   > **解析**：wasn't it 为反问尾句，用于寻求认可。
+20. **中文**：请大家注意舞台。
+   **英文**：May we have your attention, please?
+   > **解析**：May we have 是礼貌请求句式；please 加强礼貌。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Without further ado, let us welcome tonight's special guest.
-   > **中文**：话不多说，让我们欢迎今晚的特别嘉宾。
+1. Without further ado, here's our magician!
+   > **中文**：废话不多说，有请我们的魔术师！
 
-2. Please give a big round of applause for our performers!
-   > **中文**：请给我们的表演者们一阵热烈的掌声！
+2. Let's give our volunteer a round of applause.
+   > **中文**：请给我们的志愿者一阵掌声。
 
-3. The magician created a clever illusion using mirrors and light.
-   > **中文**：魔术师利用镜子和光线制造了聪明的幻象。
+3. May we give this brave volunteer a warm welcome?
+   > **中文**：让我们热烈欢迎这位勇敢的志愿者。
 
-4. He demonstrated a classic magic trick with a deck of cards.
-   > **中文**：他用一副扑克牌展示了一个经典的魔术戏法。
+4. Would you kindly step forward?
+   > **中文**：请您上前一步好吗？
 
-5. The magician managed to escape from metal handcuffs in ten seconds.
-   > **中文**：魔术师在十秒钟内成功摆脱了金属手铐。
+5. He untied the knot while blindfolded.
+   > **中文**：他蒙着眼睛解开了绳结。
 
-6. She pulled a colorful silk handkerchief out of an empty hat.
-   > **中文**：她从空帽子里拉出了一块彩色丝绸手帕。
+6. Could you hold this handkerchief for me?
+   > **中文**：你能帮我拿着这条手帕吗？
 
-7. He tied a tight knot around the wooden box.
-   > **中文**：他在木箱周围打了一个牢固的结。
+7. Rub the lamp and make a wish.
+   > **中文**：擦一擦那盏灯，许个愿。
 
-8. Can you untie this rope with only one hand?
-   > **中文**：你能只用一只手解开这条绳子吗？
+8. The magician made the pigeon disappear.
+   > **中文**：魔术师让鸽子消失了。
 
-9. The assistant was blindfolded before selecting a card from the deck.
-   > **中文**：助手在从牌堆中挑选扑克牌前被蒙上了眼睛。
+9. The trick lived up to our expectations.
+   > **中文**：这个魔术没有辜负我们的期待。
 
-10. The entire audience let out a loud gasp of astonishment.
-   > **中文**：全场观众发出了很大的一声惊呼。
+10. It was amazing, wasn't it?
+   > **中文**：太精彩了，不是吗？
 
-11. The music made the atmosphere feel tense and suspenseful.
-   > **中文**：音乐使得气氛感觉紧张且悬念迭起。
+11. The show hasn't ended yet.
+   > **中文**：表演还没结束。
 
-12. We need a brave volunteer from the audience to step up on stage.
-   > **中文**：我们需要观众中有一位勇敢的志愿者走上舞台。
+12. The audience gasped in surprise.
+   > **中文**：观众发出一阵惊呼。
 
-13. Let's give a warm welcome to the famous entertainer!
-   > **中文**：让我们对这位著名的表演家表示热烈欢迎！
+13. The performance was incredibly suspenseful.
+   > **中文**：这场演出扣人心弦。
 
-14. May we have your complete attention for the next act?
-   > **中文**：在接下来的节目中我们可以拥有您的全神贯注吗？
+14. It was just an optical illusion.
+   > **中文**：那只是一个视觉错觉。
 
-15. Would you kindly take a seat in the front row?
-   > **中文**：能否请您在前排就座？
+15. The magician escaped from the handcuffs.
+   > **中文**：魔术师挣脱了手铐。
 
-16. The show failed to live up to all the hype and high expectations.
-   > **中文**：这场演出没能达到所有的宣传炒作和高期待。
+16. It was an incredible magic show.
+   > **中文**：这是一场精彩的魔术秀。
 
-17. That was an incredibly mind-blowing performance!
-   > **中文**：那是一场难以置信地让人震撼的表演！
+17. Please tie this knot tightly.
+   > **中文**：请把这个结系紧。
 
-18. The clock struck midnight at precisely twelve o'clock.
-   > **中文**：时钟在恰好十二点钟的时候敲响了午夜。
+18. The rope was tied in a knot.
+   > **中文**：绳子被打了一个结。
 
-19. Rub the magic lamp three times to summon the genie.
-   > **中文**：搓一搓神灯三次来召唤神灯精灵。
+19. The magician works incredibly fast.
+   > **中文**：这位魔术师动作快得惊人。
 
-20. That card trick was totally amazing, wasn't it?
-   > **中文**：那个扑克牌戏法太神奇了，不是吗？
+20. May we have your attention, please?
+   > **中文**：请大家注意。
 
 </quiz-listening>
 
@@ -213,26 +202,37 @@ a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| without further ado | 话不多说 / 闲话少叙 |
-| round of applause | 一阵掌声 |
-| illusion | 幻象 / 错觉 |
-| trick | 戏法 / 魔术 |
+| a round of applause | 一阵掌声 |
+| blindfolded | 被蒙眼的 |
+| brave volunteer | 勇敢的志愿者 |
+| gasp | 惊呼 / 倒吸气 |
 | handcuffs | 手铐 |
 | handkerchief | 手帕 |
-| knot | 结 |
-| untie | 解开 |
-| blindfolded | 被蒙上眼睛的 |
-| gasp | 倒吸一口气 / 惊呼 |
-| suspenseful | 悬念迭起的 / 紧张的 |
-| brave volunteer | 勇敢的志愿者 |
-| warm welcome | 热烈欢迎 |
-| may we | 我们可以……吗 |
-| would you kindly | 能否请您…… |
-| live up to | 达到 / 不辜负 |
+| illusion | 幻象 / 错觉 |
 | incredibly | 难以置信地 |
-| precisely | 精确地 / 正是 |
-| rub | 摩擦 / 搓 |
+| knot | 结 |
+| live up to | 不辜负 |
+| magic show | 魔术表演 |
+| magician | 魔术师 |
+| make | 变出 / 使 |
+| may we | 我们可以…吗 |
+| precisely | 精确地 |
+| rub | 摩擦 |
+| suspenseful | 扣人心弦的 |
+| trick | 魔术手法 |
+| untie | 解开 |
+| warm welcome | 热烈欢迎 |
 | wasn't it | 不是吗 |
+| without further ado | 废话不多说 |
+| would you kindly | 请您… |
+| yet | 还没 / 已经 |
+| is | 是 |
+| the | 这个（定冠词） |
+| lamp | 灯 |
+| rope | 绳子 |
+| audience | 观众 |
+| performance | 演出 |
+| pigeon | 鸽子 |
 
 </quiz-matching>
 
@@ -240,202 +240,202 @@ a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief
 
 ### 1
 
-Without further ado, let us welcome ____ special guest.
+Without further ____, here's our magician!
 
-- [x] tonight's
-- [ ] a round of applause
-- [ ] blindfolded
+- [x] ado
+- [ ] add
+- [ ] away
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **tonight's**。
+> **解析**：without further ado 是固定短语；add 和 away 不合。
 
 ### 2
 
-Please give a big round of applause for our ____!
+Let's give our volunteer a round of ____.
 
-- [x] performers
-- [ ] a round of applause
-- [ ] blindfolded
+- [x] applause
+- [ ] applause's
+- [ ] applauding of
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **performers**。
+> **解析**：a round of applause 是固定搭配；其他形式不合。
 
 ### 3
 
-The ____ created a clever illusion using mirrors and light.
+____ you kindly step forward?
 
-- [x] magician
-- [ ] a round of applause
-- [ ] blindfolded
+- [x] Would
+- [ ] Will of
+- [ ] Did
 
-> **解析**：**magician** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Would you kindly 是礼貌请求句式；其他不合语境。
 
 ### 4
 
-He demonstrated a classic magic ____ with a deck of cards.
+He untied the ____ while blindfolded.
 
-- [x] trick
-- [ ] a round of applause
-- [ ] blindfolded
+- [x] knot
+- [ ] not
+- [ ] know
 
-> **解析**：**trick** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：knot（绳结）是名词；not 和 know 是同音异义词，不合。
 
 ### 5
 
-The ____ managed to escape from metal handcuffs in ten seconds.
+The magician made the pigeon ____.
 
-- [x] magician
-- [ ] a round of applause
-- [ ] blindfolded
+- [x] disappear
+- [ ] disappeared
+- [ ] disappearing
 
-> **解析**：**magician** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：make sth do 结构中动词用原形；过去式和分词不合。
 
 ### 6
 
-She pulled a colorful silk ____ out of an empty hat.
+The trick lived ____ to our expectations.
 
-- [x] handkerchief
-- [ ] a round of applause
-- [ ] blindfolded
+- [x] up
+- [ ] on
+- [ ] in
 
-> **解析**：**handkerchief** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：live up to 是固定短语"不辜负"；on 和 in 不合。
 
 ### 7
 
-He tied a tight ____ around the wooden box.
+It was amazing, ____ it?
 
-- [x] knot
-- [ ] a round of applause
-- [ ] blindfolded
+- [x] wasn't
+- [ ] isn't
+- [ ] wasn't of
 
-> **解析**：**knot** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：反义疑问句与主句 was 呼应，用 wasn't；时态不一致的选项不合。
 
 ### 8
 
-Can you ____ this rope with only one hand?
+The show hasn't ended ____.
 
-- [x] untie
-- [ ] a round of applause
-- [ ] blindfolded
+- [x] yet
+- [ ] yet of
+- [ ] already not
 
-> **解析**：**untie** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yet 用于现在完成时否定句句末；其他形式不合。
 
 ### 9
 
-The assistant was ____ before selecting a card from the deck.
+The audience ____ in surprise.
 
-- [x] blindfolded
-- [ ] a round of applause
-- [ ] brave volunteer
+- [x] gasped
+- [ ] gasp
+- [ ] gasping
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **blindfolded**。
+> **解析**：描述过去事件用过去式 gasped；原形和分词不合。
 
 ### 10
 
-The entire audience let out a loud ____ of astonishment.
+The performance was incredibly ____.
 
-- [x] gasp
-- [ ] a round of applause
-- [ ] blindfolded
+- [x] suspenseful
+- [ ] suspense
+- [ ] suspending
 
-> **解析**：**gasp** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后接形容词 suspenseful；名词和分词不合。
 
 ### 11
 
-The music made the atmosphere feel tense and ____.
+It was just an optical ____.
 
-- [x] suspenseful
-- [ ] a round of applause
-- [ ] blindfolded
+- [x] illusion
+- [ ] illusion's
+- [ ] illusory of
 
-> **解析**：**suspenseful** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：optical illusion（视觉错觉）是固定搭配；其他形式不合。
 
 ### 12
 
-We need a brave ____ from the audience to step up on stage.
+The magician escaped ____ the handcuffs.
 
-- [x] volunteer
-- [ ] a round of applause
-- [ ] blindfolded
+- [x] from
+- [ ] of
+- [ ] out
 
-> **解析**：**volunteer** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：escape from 是固定搭配；of 不合，out 需加 of 才完整。
 
 ### 13
 
-Let's give a warm welcome to the famous ____!
+It was an incredible magic ____.
 
-- [x] entertainer
-- [ ] a round of applause
-- [ ] blindfolded
+- [x] show
+- [ ] showed
+- [ ] showing of
 
-> **解析**：**entertainer** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：magic show（魔术表演）是固定搭配；其他形式不合。
 
 ### 14
 
-May we have your complete ____ for the next act?
+The rope was tied in a ____.
 
-- [x] attention
-- [ ] a round of applause
-- [ ] blindfolded
+- [x] knot
+- [ ] knot's
+- [ ] knotting of
 
-> **解析**：**attention** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：in a knot（打成结）是固定表达；其他形式不合。
 
 ### 15
 
-Would you ____ take a seat in the front row?
+The magician works incredibly ____.
 
-- [x] kindly
-- [ ] a round of applause
-- [ ] blindfolded
+- [x] fast
+- [ ] fastly
+- [ ] faster of
 
-> **解析**：**kindly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：fast 兼作副词，没有 fastly 这个词；比较级不合该句。
 
 ### 16
 
-The show failed to live up to all the hype and high ____.
+May we ____ this brave volunteer a warm welcome?
 
-- [x] expectations
-- [ ] a round of applause
-- [ ] blindfolded
+- [x] give
+- [ ] gave
+- [ ] giving
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **expectations**。
+> **解析**：May we 后接动词原形 give；过去式和分词不合。
 
 ### 17
 
-That was an ____ mind-blowing performance!
+He was ____ during the trick.
 
-- [x] incredibly
-- [ ] a round of applause
-- [ ] blindfolded
+- [x] blindfolded
+- [ ] blindfold
+- [ ] blindfolding
 
-> **解析**：**incredibly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was + 过去分词 blindfolded 表状态；原形和现在分词不合。
 
 ### 18
 
-The clock struck midnight at ____ twelve o'clock.
+____ the lamp and make a wish.
 
-- [x] precisely
-- [ ] a round of applause
-- [ ] blindfolded
+- [x] Rub
+- [ ] Rubbed
+- [ ] Rubbing
 
-> **解析**：**precisely** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Rub；过去式和分词不合。
 
 ### 19
 
-____ the magic lamp three times to summon the genie.
+Could you hold this ____ for me?
 
-- [x] Rub
-- [ ] a round of applause
-- [ ] blindfolded
+- [x] handkerchief
+- [ ] handkerchiefs
+- [ ] handkerchief's
 
-> **解析**：**Rub** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：this 后接单数名词 handkerchief；复数和所有格不合。
 
 ### 20
 
-That card ____ was totally amazing, wasn't it?
+The trick hit the mark ____.
 
-- [x] trick
-- [ ] a round of applause
-- [ ] blindfolded
+- [x] precisely
+- [ ] precise
+- [ ] precision
 
-> **解析**：**trick** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰动词需用副词 precisely；形容词和名词不合。
 
 </quiz-cloze>

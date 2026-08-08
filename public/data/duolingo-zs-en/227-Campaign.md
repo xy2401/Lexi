@@ -10,42 +10,35 @@ bill, by then, campaign, candidate, elect, furthermore, going to be, opponent, p
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"对未来做出承诺"展开，场景是政治竞选。词表里有选举与政治词汇（campaign, candidate, elect, opponent, representative, bill, pass），有承诺与立场表达（stand up for, regarding, furthermore, under control, threat, violence），还有大量将来时结构（will be, will have, going to be, won't have, will they have, will you be, you'll have, by then）。你可以用这些词模拟竞选演说：If you elect me, I will pass this bill by then. / I will stand up for your rights. / Furthermore, I will put violence under control. / Will they have the answers? You'll have a representative who cares.
+本单元的主题是"对未来做出承诺"，场景是竞选。词表分成三组：政治人物与事件（campaign, candidate, elect, opponent, representative, bill, pass）、承诺与立场表达（stand up for, regarding, right, threat, violence, under control, furthermore）、以及未来时态全家桶（will be, will have, will they have, will you be, won't have, you'll have, going to be, by then）。拼起来就是一段完整的竞选演讲：I will stand up for your rights. The bill will pass by then. Furthermore, crime will be under control.
 
-这里值得注意将来时的多种形式：will 表承诺和预测，going to be 表计划或即将发生的事，will have 表到某时将已完成（将来完成时）。by then 是将来完成时的常见时间标志：By then, we will have passed the bill.
+语法主线是将来时态的多种形态。will + 动词原形表承诺与预测：You'll have better schools. 否定是 won't have；疑问把 will 提前：Will you be at the rally? / Will they have enough votes? going to be 表已有迹象或将要发生的事。by then 是时间锚点"到那时"，常与将来完成或一般将来时搭配。另一条线索是政治词汇：elect（选举）、pass a bill（通过法案）、representative（代表）。
 
-学完本单元，你可以用英语做出正式承诺、表达政治立场，并使用将来时和将来完成时描述未来的计划与成果。
+学完这些词，你能听竞选演讲、谈论候选人立场、预测选举结果，也能郑重地许下承诺——政治话题的基本盘就有了。
 
 ## Tips
 
-- **will have / by then** — will have done 是将来完成时，表"到某个未来时间点将已经完成"。by then = 到那时。搭配：By next year, we will have passed the bill. 注意将来完成时的时间标志：by then, by 2030, by the time。
+- **will be / will have / won't have / you'll have** — 将来时的核心。will be + 名词/形容词表将来的状态：Crime will be under control. will have 表将来拥有：You'll have more choices. won't have 是否定形式；you'll 是 you will 的缩写。竞选承诺的标准句型。
 
-- **campaign / candidate / elect** — campaign 是竞选活动，candidate 是候选人，elect 是选举。搭配：run a campaign, a presidential candidate, elect a new representative。构词：elect（动词）→ election（名词）→ elected（形容词）。
+- **will they have / will you be** — 将来时的疑问形式，把 will 提前到主语前：Will they have enough support? Will you be our next mayor? 注意疑问语序中 will 与主语倒装。
 
-- **stand up for** — 为……挺身而出、捍卫。搭配：stand up for your rights, stand up for what's right。I will stand up for the people. 注意 stand up for = 支持/捍卫（正面），stand up to = 对抗（某人）。
+- **going to be** — be going to 表"将要"，强调已有迹象或既定计划：It's going to be a close race. 与 will 相比，going to 的计划性更强。
 
-- **bill / pass** — bill 是法案（未通过的），pass 是通过。搭配：pass a bill, introduce a bill。Congress passed the bill. 注意 bill 通过后变成 law（法律）或 act（法令）。
+- **by then** — "到那时"，指前面提到的将来时间点之前：The vote is on Friday. By then, we will know the result. 常与将来时搭配。
 
-- **opponent / representative** — opponent 是对手（竞选中的），representative 是代表（议员）。搭配：my opponent, a representative in Congress。注意 opponent 和 enemy 不同——opponent 是竞争对手，不是敌人。representative 在美国特指众议员。
+- **elect / candidate / opponent / representative** — 选举四词。elect 是"选举"，名词 election；candidate 是候选人；opponent 是对手；representative 是代表/议员。
 
-- **furthermore** — 此外、而且（正式）。搭配：furthermore, ...。I will lower taxes. Furthermore, I will create jobs. 比 also / and 更正式，常用于演讲和写作中递进论点。类似：moreover, in addition。
+- **campaign** — 竞选活动，可名可动：She is campaigning in the south. 词源与"战场"（campus）有关。
 
-- **regarding** — 关于（正式）。搭配：regarding this issue, regarding the bill。Regarding education, I have a plan. 比 about 更正式，常用于书面语和正式发言。同义：concerning, with regard to。
+- **bill / pass** — bill 是法案；pass a bill 是通过法案。注意 bill 还是"账单"。
 
-- **under control** — 在控制之下。搭配：be under control, get sth under control, keep sth under control。Violence will be under control. / We need to get the situation under control. 注意 get under control 强调"从不控制到控制"的过程。
+- **stand up for / regarding / furthermore** — stand up for 是"捍卫、支持"：stand up for your rights. regarding 是"关于"，比 about 正式：regarding education. furthermore 是"此外"，用于递进论证，常见于演讲。
 
-- **threat / violence** — threat 是威胁，violence 是暴力。搭配：a threat to safety, an act of violence, under threat。There is a threat of violence. 注意 threat 是名词，动词是 threaten。make a threat = 发出威胁。
+- **right / threat / violence / under control** — right 此处是"权利"，常用复数 rights；threat 是威胁，动词 threaten；violence 是暴力，形容词 violent；under control 是"得到控制"：The situation is under control.
 
-- **going to be / will be** — 都表将来，但 going to be 强调已有计划或迹象：It's going to be a tough race.（已有迹象）will be 强调承诺或即时决定：I will be your voice.（承诺）口语中常缩写为 gonna be。
-
-- **won't have / you'll have** — won't have = will not have（将不会有），you'll have = you will have（你将会拥有）。搭配：You won't have to worry. / You'll have a better future. 注意 won't have to = 不必（将来），won't have = 不会拥有。
-
-- **right** — 权利；正确的。搭配：your rights, the right to vote, that's right。I will stand up for your rights. 注意 right 作"权利"时常用复数 rights（human rights, civil rights）。
-
-- **put** — 放置；表达。搭配：put sth under control, put forward, put into action。I will put your safety first. put 是英语中搭配最多的动词之一，含义随介词变化。
+- **put** — 万能动词，竞选中常见 put forward（提出）、put pressure on（施压）：They put forward a new plan.
 
 ## 练习
 
@@ -63,176 +56,187 @@ bill, by then, campaign, candidate, elect, furthermore, going to be, opponent, p
 
 <quiz-sentence-builder>
 
-1. **中文**：选举候选人承诺降低财产税。  
-   **英文**：The election candidate promises to lower property taxes.
-   > **解析**：candidate 表示候选人。
+1. **中文**：我会捍卫你们的权利。
+   **英文**：I will stand up for your rights.
+   > **解析**：will 后接动词原形 stand；stand up for 是"捍卫"的固定短语；rights 用复数表各项权利。
 
-2. **中文**：市民们将在下个月选举出一名新市长。  
-   **英文**：Citizens will elect a new city mayor next month.
-   > **解析**：elect 表示选举。
+2. **中文**：到那时，法案将会通过。
+   **英文**：The bill will pass by then.
+   > **解析**：will pass 是将来时；by then 是"到那时"的时间状语，放句末。
 
-3. **中文**：她的政治竞选活动专注于改善公共教育。  
-   **英文**：Her political campaign focused on improving public education.
-   > **解析**：campaign 表示竞选活动。
+3. **中文**：犯罪率将会得到控制。
+   **英文**：Crime will be under control.
+   > **解析**：will be 后接介词短语 under control 作表语；表示将来的状态。
 
-4. **中文**：辩论者强烈批评了她的主要竞争对手。  
-   **英文**：The debater strongly criticized her main opponent.
-   > **解析**：opponent 表示对手。
+4. **中文**：你们将有更好的学校。
+   **英文**：You'll have better schools.
+   > **解析**：You'll 是 You will 的缩写；better 是 good 的比较级修饰 schools。
 
-5. **中文**：当地代表昨天发表了一篇鼓舞人心的演讲。  
-   **英文**：The local representative gave an inspiring speech yesterday.
-   > **解析**：representative 表示代表。
+5. **中文**：你们不会有任何额外费用。
+   **英文**：You won't have any extra costs.
+   > **解析**：won't have 是将来时否定；any 用于否定句修饰复数名词 costs。
 
-6. **中文**：国会表决通过了新的医疗保健法案。  
-   **英文**：Congress voted to pass the new healthcare bill.
-   > **解析**：bill 表示法案。
+6. **中文**：他们会有足够的票数吗？
+   **英文**：Will they have enough votes?
+   > **解析**：将来时疑问句把 Will 提前到主语 they 之前；enough 修饰 votes。
 
-7. **中文**：他们希望议会将通过这项环境法律。  
-   **英文**：They hope the council will pass this environment law.
-   > **解析**：pass 表示通过（法律）。
+7. **中文**：你会成为我们下一任市长吗？
+   **英文**：Will you be our next mayor?
+   > **解析**：Will you be 是将来时疑问形式；our next mayor 作表语。
 
-8. **中文**：我们需要一位敢于为工人权益站出来据理力争的领导者。  
-   **英文**：We need a leader who will stand up for worker rights.
-   > **解析**：stand up for 表示维护、站出来支持。
+8. **中文**：这将是一场势均力敌的竞选。
+   **英文**：It is going to be a close race.
+   > **解析**：is going to be 表示有迹象的将来；a close race 是"激烈竞争"的表达。
 
-9. **中文**：言论自由是一项基本人权。  
-   **英文**：Freedom of speech is a fundamental human right.
-   > **解析**：right 表示权利。
+9. **中文**：她被选为代表了。
+   **英文**：She was elected as our representative.
+   > **解析**：was elected 是过去时被动语态；as our representative 是身份补足语。
 
-10. **中文**：我写信给您是关于当地公园建议案事宜。  
-   **英文**：I am writing to you regarding the local park proposal.
-   > **解析**：regarding 表示关于。
+10. **中文**：这位候选人正在南方竞选。
+    **英文**：The candidate is campaigning in the south.
+    > **解析**：is campaigning 是现在进行时；campaign 此处作动词"进行竞选活动"。
 
-11. **中文**：该税收计划是不公平的；此外，它还将损害小企业。  
-   **英文**：The tax plan is unfair; furthermore, it will harm small businesses.
-   > **解析**：furthermore 表示此外、而且。
+11. **中文**：他的对手拒绝辩论。
+    **英文**：His opponent refused to debate.
+    > **解析**：refused 是 refuse 的过去式；refuse to do 后接动词原形 debate。
 
-12. **中文**：气候变化对沿海城市构成了严重威胁。  
-   **英文**：Climate change poses a severe threat to coastal cities.
-   > **解析**：threat 表示威胁。
+12. **中文**：关于教育，我们有新的计划。
+    **英文**：Regarding education, we have a new plan.
+    > **解析**：Regarding 作介词"关于"放句首；education 不可数，不加冠词。
 
-13. **中文**：社区联合起来反对城市中的家庭暴力。  
-   **英文**：The community rallied against domestic violence in the city.
-   > **解析**：violence 表示暴力。
+13. **中文**：此外，税收将会降低。
+    **英文**：Furthermore, taxes will go down.
+    > **解析**：Furthermore 是递进连接词放句首；will go down 是将来时。
 
-14. **中文**：警方向公众保证局势已在控制之中。  
-   **英文**：Police assured the public that the situation is under control.
-   > **解析**：under control 表示在控制之中。
+14. **中文**：暴力是对社会的威胁。
+    **英文**：Violence is a threat to society.
+    > **解析**：Violence 不可数名词作主语，用 is；a threat to 是"对……的威胁"。
 
-15. **中文**：到那时，投票结果将已经公布。  
-   **英文**：By then, the voting results will already be announced.
-   > **解析**：by then 表示到那时。
+15. **中文**：局势已经得到控制。
+    **英文**：The situation is under control.
+    > **解析**：under control 是固定短语作表语；situation 单数用 is。
 
-16. **中文**：明天晚上将有一场热烈的辩论。  
-   **英文**：There is going to be a lively debate tomorrow evening.
-   > **解析**：going to be 表示将会有。
+16. **中文**：他们提出了一个新方案。
+    **英文**：They put forward a new plan.
+    > **解析**：put forward 是"提出"的动词短语；put 三态同形，此处是过去式。
 
-17. **中文**：新州长将于下周二就职。  
-   **英文**：The new governor will be inaugurated next Tuesday.
-   > **解析**：will be 表示将会。
+17. **中文**：议会通过了那项法案。
+    **英文**：Congress passed the bill.
+    > **解析**：passed 是 pass 的过去式；the bill 特指那项法案。
 
-18. **中文**：到明年，市长将已经服满整整两届任期。  
-   **英文**：By next year, the mayor will have served two full terms.
-   > **解析**：will have done 表示将来完成时。
+18. **中文**：到周五我们就会知道结果了。
+    **英文**：By Friday, we will know the result.
+    > **解析**：By Friday 表示"不迟于周五"，与将来时 will know 搭配。
 
-19. **中文**：你今晚会参加政治集会吗？  
-   **英文**：Will you be attending the political rally tonight?
-   > **解析**：Will you be doing... 表示“你届时会做……吗？”
+19. **中文**：每个公民都有投票的权利。
+    **英文**：Every citizen has the right to vote.
+    > **解析**：has the right to do 是"有权利做某事"的固定结构；to vote 不定式。
 
-20. **中文**：该候选人将没有足够的选票在初选中胜出。  
-   **英文**：The candidate won't have enough votes to win the primary.
-   > **解析**：won't have 表示将没有。
+20. **中文**：你会参加集会吗？
+    **英文**：Will you be at the rally?
+    > **解析**：Will you be 是将来时疑问形式；at the rally 是地点状语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The election candidate promises to lower property taxes.
-   > **中文**：选举候选人承诺降低财产税。
+1. I will stand up for your rights.
+   > **中文**：我会捍卫你们的权利。
 
-2. Citizens will elect a new city mayor next month.
-   > **中文**：市民们将在下个月选举出一名新市长。
+2. The bill will pass by then.
+   > **中文**：到那时，法案将会通过。
 
-3. Her political campaign focused on improving public education.
-   > **中文**：她的政治竞选活动专注于改善公共教育。
+3. Crime will be under control.
+   > **中文**：犯罪率将会得到控制。
 
-4. The debater strongly criticized her main opponent.
-   > **中文**：辩论者强烈批评了她的主要竞争对手。
+4. You'll have better schools.
+   > **中文**：你们将有更好的学校。
 
-5. The local representative gave an inspiring speech yesterday.
-   > **中文**：当地代表昨天发表了一篇鼓舞人心的演讲。
+5. You won't have any extra costs.
+   > **中文**：你们不会有任何额外费用。
 
-6. Congress voted to pass the new healthcare bill.
-   > **中文**：国会表决通过了新的医疗保健法案。
+6. Will they have enough votes?
+   > **中文**：他们会有足够的票数吗？
 
-7. They hope the council will pass this environment law.
-   > **中文**：他们希望议会将通过这项环境法律。
+7. Will you be our next mayor?
+   > **中文**：你会成为我们下一任市长吗？
 
-8. We need a leader who will stand up for worker rights.
-   > **中文**：我们需要一位敢于为工人权益站出来据理力争的领导者。
+8. It is going to be a close race.
+   > **中文**：这将是一场势均力敌的竞选。
 
-9. Freedom of speech is a fundamental human right.
-   > **中文**：言论自由是一项基本人权。
+9. She was elected as our representative.
+   > **中文**：她被选为代表了。
 
-10. I am writing to you regarding the local park proposal.
-   > **中文**：我写信给您是关于当地公园建议案事宜。
+10. The candidate is campaigning in the south.
+    > **中文**：这位候选人正在南方竞选。
 
-11. The tax plan is unfair; furthermore, it will harm small businesses.
-   > **中文**：该税收计划是不公平的；此外，它还将损害小企业。
+11. His opponent refused to debate.
+    > **中文**：他的对手拒绝辩论。
 
-12. Climate change poses a severe threat to coastal cities.
-   > **中文**：气候变化对沿海城市构成了严重威胁。
+12. Regarding education, we have a new plan.
+    > **中文**：关于教育，我们有新的计划。
 
-13. The community rallied against domestic violence in the city.
-   > **中文**：社区联合起来反对城市中的家庭暴力。
+13. Furthermore, taxes will go down.
+    > **中文**：此外，税收将会降低。
 
-14. Police assured the public that the situation is under control.
-   > **中文**：警方向公众保证局势已在控制之中。
+14. Violence is a threat to society.
+    > **中文**：暴力是对社会的威胁。
 
-15. By then, the voting results will already be announced.
-   > **中文**：到那时，投票结果将已经公布。
+15. The situation is under control.
+    > **中文**：局势已经得到控制。
 
-16. There is going to be a lively debate tomorrow evening.
-   > **中文**：明天晚上将有一场热烈的辩论。
+16. They put forward a new plan.
+    > **中文**：他们提出了一个新方案。
 
-17. The new governor will be inaugurated next Tuesday.
-   > **中文**：新州长将于下周二就职。
+17. Congress passed the bill.
+    > **中文**：议会通过了那项法案。
 
-18. By next year, the mayor will have served two full terms.
-   > **中文**：到明年，市长将已经服满整整两届任期。
+18. By Friday, we will know the result.
+    > **中文**：到周五我们就会知道结果了。
 
-19. Will you be attending the political rally tonight?
-   > **中文**：你今晚会参加政治集会吗？
+19. Every citizen has the right to vote.
+    > **中文**：每个公民都有投票的权利。
 
-20. The candidate won't have enough votes to win the primary.
-   > **中文**：该候选人将没有足够的选票在初选中胜出。
+20. Will you be at the rally?
+    > **中文**：你会参加集会吗？
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| `bill` | 法案 |
-| `by then` | 到那时 |
-| `campaign` | 竞选活动 |
-| `candidate` | 候选人 |
-| `elect` | 选举 |
-| `furthermore` | 此外；而且 |
-| `going to be` | 将会有 |
-| `opponent` | 竞争对手 |
-| `pass` | 通过（法律） |
-| `regarding` | 关于 |
-| `representative` | 代表 |
-| `right` | 权利 |
-| `stand up for` | 为……站出来支持/据理力争 |
-| `threat` | 威胁 |
-| `under control` | 在控制之中 |
-| `violence` | 暴力 |
-| `will be` | 将会是 |
-| `will have` | 将会拥有/已经完成 |
-| `will you be` | 你届时会……吗 |
-| `won't have` | 将没有 |
+| --- | --- |
+| bill | 法案；账单 |
+| by then | 到那时 |
+| campaign | 竞选活动 |
+| candidate | 候选人 |
+| elect | 选举 |
+| furthermore | 此外 |
+| going to be | 将是 |
+| opponent | 对手 |
+| pass | 通过 |
+| put | 放置；提出 |
+| regarding | 关于 |
+| representative | 代表 |
+| right | 权利；正确的 |
+| stand up for | 捍卫 |
+| threat | 威胁 |
+| under control | 得到控制 |
+| violence | 暴力 |
+| will be | 将会是 |
+| will have | 将会有 |
+| will they have | 他们会有……吗 |
+| will you be | 你会是……吗 |
+| won't have | 将不会有 |
+| you'll have | 你将有 |
+| votes | 选票 |
+| taxes | 税收 |
+| society | 社会 |
+| citizen | 公民 |
+| vote | 投票 |
+| mayor | 市长 |
+| race | 竞赛 |
+| rally | 集会 |
 
 </quiz-matching>
 
@@ -240,202 +244,202 @@ bill, by then, campaign, candidate, elect, furthermore, going to be, opponent, p
 
 ### 1
 
-The election ____ promises to lower property taxes.
+I will stand up ____ your rights.
 
-- [x] candidate
-- [ ] bill
-- [ ] by then
+- [x] for
+- [ ] to
+- [ ] at
 
-> **解析**：**candidate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：stand up for 是"捍卫"的固定短语；to 和 at 不合。
 
 ### 2
 
-Citizens will ____ a new city mayor next month.
+The bill will pass by ____.
 
-- [x] elect
-- [ ] bill
-- [ ] by then
+- [x] then
+- [ ] than
+- [ ] time
 
-> **解析**：**elect** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：by then 是固定短语"到那时"；than 用于比较，time 不与 by 构成此义。
 
 ### 3
 
-Her political ____ focused on improving public education.
+Crime will be under ____.
 
-- [x] campaign
-- [ ] bill
-- [ ] by then
+- [x] control
+- [ ] controls
+- [ ] controlling
 
-> **解析**：**campaign** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：under control 是固定短语，control 用单数；controlling 是动名词。
 
 ### 4
 
-The debater strongly criticized her main ____.
+You'll ____ better schools.
 
-- [x] opponent
-- [ ] bill
-- [ ] by then
+- [x] have
+- [ ] has
+- [ ] having
 
-> **解析**：**opponent** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：You'll（You will）后接动词原形 have；has 是三单形式，having 不能跟在 will 后。
 
 ### 5
 
-The local ____ gave an inspiring speech yesterday.
+You won't have ____ extra costs.
 
-- [x] representative
-- [ ] bill
-- [ ] by then
+- [x] any
+- [ ] some
+- [ ] a
 
-> **解析**：**representative** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：否定句 won't have 中用 any；some 多用于肯定句，a 不修饰复数 costs。
 
 ### 6
 
-Congress voted to ____ the new healthcare bill.
+____ they have enough votes?
 
-- [x] pass
-- [ ] bill
-- [ ] by then
+- [x] Will
+- [ ] Do
+- [ ] Are
 
-> **解析**：**pass** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：将来时疑问句用 Will 提前；Do 构成一般现在时疑问，Are 不与动词原形 have 搭配。
 
 ### 7
 
-They hope the council will ____ this environment law.
+Will you be our next ____?
 
-- [x] pass
-- [ ] bill
-- [ ] by then
+- [x] mayor
+- [ ] mayors
+- [ ] mayoring
 
-> **解析**：**pass** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：our next 后接单数职位名词 mayor；mayoring 不是名词。
 
 ### 8
 
-We need a ____ who will stand up for worker rights.
+It is going to ____ a close race.
 
-- [x] leader
-- [ ] bill
-- [ ] by then
+- [x] be
+- [ ] been
+- [ ] being
 
-> **解析**：**leader** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：be going to 后接动词原形 be；been 是过去分词，being 不合此结构。
 
 ### 9
 
-Freedom of speech is a fundamental human ____.
+She was ____ as our representative.
 
-- [x] right
-- [ ] bill
-- [ ] by then
+- [x] elected
+- [ ] elect
+- [ ] electing
 
-> **解析**：**right** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was + 过去分词构成被动语态，elected 正确；electing 不表被动。
 
 ### 10
 
-I am writing to you ____ the local park proposal.
+The ____ is campaigning in the south.
 
-- [x] regarding
-- [ ] bill
-- [ ] by then
+- [x] candidate
+- [ ] candidates
+- [ ] candidacy
 
-> **解析**：**regarding** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：is campaigning 要求单数主语 candidate；candidacy 指"候选人身份"。
 
 ### 11
 
-The tax plan is unfair; ____, it will harm small businesses.
+His ____ refused to debate.
 
-- [x] furthermore
-- [ ] bill
-- [ ] by then
+- [x] opponent
+- [ ] opponents
+- [ ] opposition
 
-> **解析**：**furthermore** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：His opponent 单数与 refused 搭配；opposition 指"反对派"整体，语义与 His 搭配不如 opponent 直接。
 
 ### 12
 
-Climate change poses a severe ____ to coastal cities.
+____ education, we have a new plan.
 
-- [x] threat
-- [ ] bill
-- [ ] by then
+- [x] Regarding
+- [ ] Regard
+- [ ] Regards
 
-> **解析**：**threat** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Regarding 作介词"关于"；Regard 是动词原形，Regards 用于书信结尾。
 
 ### 13
 
-The community rallied against domestic ____ in the city.
+____, taxes will go down.
 
-- [x] violence
-- [ ] bill
-- [ ] by then
+- [x] Furthermore
+- [ ] Furtherer
+- [ ] Furthest
 
-> **解析**：**violence** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Furthermore 是递进连接词"此外"；Furtherer 不存在，Furthest 是最高级。
 
 ### 14
 
-Police assured the public that the ____ is under control.
+Violence is a ____ to society.
 
-- [x] situation
-- [ ] bill
-- [ ] by then
+- [x] threat
+- [ ] threats
+- [ ] threaten
 
-> **解析**：**situation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a threat 用单数名词；threaten 是动词，不能作名词中心词。
 
 ### 15
 
-By then, the voting results will already be ____.
+The situation is under ____.
 
-- [x] announced
-- [ ] bill
-- [ ] by then
+- [x] control
+- [ ] controls
+- [ ] controlled
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **announced**。
+> **解析**：under control 是固定短语；controlled 是过去分词不作介词宾语。
 
 ### 16
 
-There is going to be a lively debate ____ evening.
+They put ____ a new plan.
 
-- [x] tomorrow
-- [ ] bill
-- [ ] by then
+- [x] forward
+- [ ] backward
+- [ ] downward
 
-> **解析**：**tomorrow** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：put forward 是"提出"的固定短语；backward 和 downward 语义不合。
 
 ### 17
 
-The new governor will be ____ next Tuesday.
+Congress ____ the bill.
 
-- [x] inaugurated
-- [ ] bill
-- [ ] by then
+- [x] passed
+- [ ] pass
+- [ ] passing
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **inaugurated**。
+> **解析**：叙述过去事件用过去式 passed；passing 不能单独作谓语。
 
 ### 18
 
-By next year, the mayor will have ____ two full terms.
+By Friday, we will ____ the result.
 
-- [x] served
-- [ ] bill
-- [ ] by then
+- [x] know
+- [ ] knows
+- [ ] known
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **served**。
+> **解析**：will 后接动词原形 know；known 是过去分词需助动词 have。
 
 ### 19
 
-Will you be ____ the political rally tonight?
+Every citizen has the right to ____.
 
-- [x] attending
-- [ ] bill
-- [ ] by then
+- [x] vote
+- [ ] votes
+- [ ] voted
 
-> **解析**：**attending** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：to 后接动词原形 vote；voted 是过去式，不能接在 to 后构成此结构。
 
 ### 20
 
-The ____ won't have enough votes to win the primary.
+Will you be ____ the rally?
 
-- [x] candidate
-- [ ] bill
-- [ ] by then
+- [x] at
+- [ ] on
+- [ ] in
 
-> **解析**：**candidate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be at the rally 表示"在集会现场"；on 和 in 不与 rally 这样搭配。
 
 </quiz-cloze>

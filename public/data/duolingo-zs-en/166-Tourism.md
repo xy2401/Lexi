@@ -10,40 +10,31 @@ board, book, cruise, currency exchange, depart, direct, explore, ferry, get, go 
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"分享你的旅行偏好"展开。核心是旅行方式和预订表达：I'd rather go backpacking and stay in a hostel than book a luxury cruise.（我宁愿背包旅行住青旅，也不愿订豪华游轮。）、Will you take a direct flight or one with a layover? I prefer round-trip tickets.（你坐直飞还是有中转的？我更喜欢往返票。）、The ferry departs the next day—wherever we go, let's explore!（渡轮第二天出发——无论去哪，我们去探索吧！）、If you hitchhike, you might get a free ride—say that again!（如果你搭便车，可能免费坐到——说得好！）。
+本单元的主题是"聊旅行偏好、安排行程"。词表分成三组：订票与登机（book, board, depart, layover, direct, one-way, round-trip, next day）、交通与住宿（cruise, ferry, ride, hitchhike, go backpacking, hostel, luxury, currency exchange）、以及表达意愿的语法词（will, won't, if, wherever, get, explore, say that again）。串起来就是一段旅行计划：I'll book a one-way ticket. The flight departs at six, and I'll explore wherever I land.
 
-词表里有旅行方式（backpacking, hitchhike, cruise, ferry）和票务词汇（one-way, round-trip, layover, depart）。你可以练习：Book a hostel. / Board the ferry. / I won't take a cruise. / Currency exchange is over there.
+语法主线有三条。第一是 will/won't 表将来与意愿：I'll go wherever you go. I won't miss the train. 第二是 if 引导的条件句：If it rains, we'll stay at the hostel. 第三是 wherever——"无论哪里"，引导让步状语从句：Wherever you go, take notes. 票务词汇注意反义对：one-way（单程）与 round-trip（往返）。
 
-will / won't 表将来/意愿。wherever = no matter where。
+学完本单元，你能用英语预订票务、描述转机与行程、表达穷游或奢华游的偏好，并对旅行做出计划和承诺。
 
 ## Tips
 
-- **go backpacking / hitchhike / cruise** — 背包旅行 / 搭便车 / 游轮。搭配：go backpacking in Europe, hitchhike across, a luxury cruise。例句：I went backpacking in Asia. / He hitchhiked to the coast. / They took a cruise to Alaska. 注意 go backpacking = 背包自助旅行。
+- **book / board / depart** — 出行三动词。book 是"预订"：book a ticket。board 是"登机、上船"：The flight boards at nine. depart 是"出发、起飞"，比 leave 正式：The train departs at noon.
 
-- **one-way / round-trip / layover** — 单程 / 往返 / 中转。搭配：a one-way ticket, a round-trip flight, a 3-hour layover。例句：I bought a one-way ticket. / Round-trip is cheaper. / We have a layover in Tokyo. 注意 layover = 中途停留。
+- **layover / direct / next day** — layover 是"中转停留"：We have a layover in Tokyo. direct 指"直达的"：a direct flight。next day 表示"次日"：The train arrives the next day.
 
-- **hostel / luxury / book** — 青旅 / 豪华 / 预订。搭配：stay in a hostel, a luxury hotel, book online。例句：Hostels are cheap. / I prefer luxury travel. / I booked a room online. 注意 hostel 是背包客旅馆（比 hotel 便宜）。
+- **one-way / round-trip** — 票务反义对。one-way 是"单程"：a one-way ticket。round-trip 是"往返"：A round-trip ticket takes you there and back. 英式英语中往返也叫 return。
 
-- **depart / board / ferry** — 出发 / 登船 / 渡轮。搭配：depart at 9, board the plane, take a ferry。例句：The flight departs at noon. / Boarding starts at 8. / We took a ferry to the island. 注意 depart 比 leave 更正式。
+- **cruise / ferry / ride / hitchhike** — 四种出行方式。cruise 是"邮轮度假"，ferry 是"渡轮"，ride 是"乘车、骑行"，hitchhike 是"搭便车"：He hitchhiked to the next town.
 
-- **explore / wherever / get** — 探索 / 无论哪里 / 到达。搭配：explore the city, wherever you go, get there。例句：Let's explore the old town. / Wherever we go, I'll follow. / How do we get to the hostel? 注意 wherever = no matter where。
+- **go backpacking / hostel / luxury** — go backpacking 是"背包旅行"，go + 动名词结构。hostel 是"青年旅舍"，价格实惠。luxury 是"奢华"：a luxury hotel。穷游与奢游任君选择。
 
-- **currency exchange / direct / ride** — 货币兑换 / 直达 / 搭乘。搭配：a currency exchange office, a direct flight, get a ride。例句：Where's the currency exchange? / I prefer direct flights. / Can I get a ride? 注意 currency exchange 在机场/银行。
+- **explore / wherever / get** — explore 是"探索"：explore the old town。wherever 是"无论哪里"：I'll go wherever you go. get 用途广泛，get to + 地点表示"到达"。
 
-- **will / won't / if** — 会 / 不会 / 如果。搭配：I will go, I won't stay, if you want。例句：I will book a hostel. / I won't take a cruise. / If you like, we can explore. 注意 will 表意愿或将来。
+- **will / won't / if** — will 表将来或当场决定：I'll book it now. won't 是 will not 的缩写。if 引导条件句，从句用现在时，主句用 will：If it rains, we'll stay in.
 
-- **say that again / next day / get** — 说得好 / 第二天 / 到达。搭配：say that again! / the next day, get a ticket。例句：You said it—say that again! / We arrived the next day. / Get your tickets early. 注意 say that again = 我完全同意（口语）。
-
-- **ferry / cruise / board** — 渡轮 / 游轮 / 登机。搭配：catch a ferry, a cruise ship, board the vessel。例句：The ferry leaves at 7. / The cruise lasted a week. / Passengers boarded at dawn. 注意 board 可指登船/登机/登车。
-
-- **backpacking / hostel / explore** — 背包 / 青旅 / 探索。搭配：go backpacking, a youth hostel, explore freely。例句：Backpacking is my favorite way to travel. / The hostel was clean. / We explored the countryside. 注意 backpacking 强调自助和冒险。
-
-- **round-trip / one-way / depart** — 往返 / 单程 / 出发。搭配：a round-trip ticket, one-way only, depart from。例句：Round-trip or one-way? / I only need one-way. / We depart from Gate 5. 注意 round-trip 是美式（英式 return）。
-
-- **luxury / hitchhike / wherever** — 豪华 / 搭便车 / 无论哪。搭配：luxury travel, hitchhike across the country, wherever the road takes us。例句：She prefers luxury trips. / He hitchhiked across America. / Wherever we end up, it'll be fun. 注意 hitchhike 是免费搭车旅行。
+- **currency exchange / say that again** — currency exchange 是"货币兑换（处）"：I stopped at the currency exchange. say that again 是口语中的强烈赞同："说得太对了！"也可字面表示"再说一遍"。
 
 ## 练习
 
@@ -61,149 +52,149 @@ will / won't 表将来/意愿。wherever = no matter where。
 
 <quiz-sentence-builder>
 
-1. **中文**：在航班离港前半小时，旅客开始登机。
-   **英文**：Passengers began to board the plane half an hour before departure.
-   > **解析**：board 表示“登机/登船”。
+1. **中文**：我订了一家青年旅舍。
+   **英文**：I booked a hostel.
+   > **解析**：booked 是 book 的过去式，表示"预订"；a hostel 作宾语。
 
-2. **中文**：建议大家在旅游旺季提前预订酒店房间。
-   **英文**：It is best to book your hotel room well in advance during peak season.
-   > **解析**：book 表示“预订/订房”。
+2. **中文**：现在开始登机。
+   **英文**：Board the plane now.
+   > **解析**：祈使句以动词原形 board 开头；now 是时间状语。
 
-3. **中文**：他们报名参加了一为期七天的加勒比海豪华邮轮游。
-   **英文**：They went on a seven-day luxury Caribbean cruise last winter.
-   > **解析**：cruise 表示“邮轮游/巡航”。
+3. **中文**：火车中午发车。
+   **英文**：The train departs at noon.
+   > **解析**：departs 是三单形式；at noon 是时间点状语。
 
-4. **中文**：你可以在机场航站楼内的货币兑换处换一些外币。
-   **英文**：You can exchange cash at the currency exchange desk in the airport.
-   > **解析**：currency exchange 表示“货币兑换/外币兑换”。
+4. **中文**：我们在东京转机。
+   **英文**：We have a layover in Tokyo.
+   > **解析**：have a layover 表示"有中转停留"；in Tokyo 是地点状语。
 
-5. **中文**：从北京飞往纽约的航班将于今晚八点准时起飞离港。
-   **英文**：The flight to New York will depart at eight o'clock tonight.
-   > **解析**：depart 表示“起飞/离开/出发”。
+5. **中文**：这是直达航班。
+   **英文**：This is a direct flight.
+   > **解析**：direct 修饰 flight，表示"直达的"。
 
-6. **中文**：这是一趟直达航班，中途没有任何停靠。
-   **英文**：This is a direct flight with no layover stops on the way.
-   > **解析**：direct 表示“直达的/直接的”。
+6. **中文**：我买了一张单程票。
+   **英文**：I bought a one-way ticket.
+   > **解析**：bought 是 buy 的过去式；one-way 作定语修饰 ticket。
 
-7. **中文**：游客们喜欢漫步在古老的小巷里探索这座历史名城。
-   **英文**：Tourists love to explore the old streets and historic markets.
-   > **解析**：explore 表示“探索/勘探”。
+7. **中文**：往返票更便宜。
+   **英文**：A round-trip ticket is cheaper.
+   > **解析**：round-trip 修饰 ticket；cheaper 是 cheap 的比较级。
 
-8. **中文**：我们乘坐渡轮横渡海峡前往对岸的小岛。
-   **英文**：We took a morning ferry across the channel to the island.
-   > **解析**：ferry 表示“渡轮/摆渡船”。
+8. **中文**：我们第二天到达。
+   **英文**：We arrive the next day.
+   > **解析**：the next day 作时间状语，表示"次日"。
 
-9. **中文**：年轻旅行者为了省钱喜欢去各省背包游。
-   **英文**：Young travelers love to go backpacking through Europe in summer.
-   > **解析**：go backpacking 表示“去背包游/去穷游”。
+9. **中文**：我想要一次奢华邮轮之旅。
+   **英文**：I want a luxury cruise.
+   > **解析**：want to/接名词皆可，这里 luxury 修饰 cruise。
 
-10. **中文**：在有些地方，背包客会沿途搭顺风车前往下一个镇。
-   **英文**：Some travelers try to hitchhike along the highway to save money.
-   > **解析**：hitchhike 表示“搭顺风车/搭便车”。
+10. **中文**：我们坐了渡轮。
+   **英文**：We took the ferry.
+   > **解析**：took 是 take 的过去式；take the ferry 是"乘渡轮"。
 
-11. **中文**：入住青年旅舍是认识来自世界各地新朋友的好方法。
-   **英文**：Staying in a local hostel is a great way to meet travelers.
-   > **解析**：hostel 表示“青年旅舍/旅社”。
+11. **中文**：今年夏天我们去背包旅行吧。
+   **英文**：Let's go backpacking this summer.
+   > **解析**：go backpacking 是 go + 动名词结构；this summer 是时间状语。
 
-12. **中文**：在国际转机过程中，我们在东京有四个小时的中途停留。
-   **英文**：We have a four-hour layover in Tokyo before our next flight.
-   > **解析**：layover 表示“中途停留/转机等待”。
+12. **中文**：他搭便车去了海边。
+   **英文**：He hitchhiked to the coast.
+   > **解析**：hitchhiked 是过去式；to the coast 是方向状语。
 
-13. **中文**：这家五星级海滨度假村提供豪华的客房和温泉服务。
-   **英文**：The resort offers luxury rooms and private beach access.
-   > **解析**：luxury 表示“奢华的/豪华的”。
+13. **中文**：我们住在青年旅舍。
+   **英文**：We stayed at a hostel.
+   > **解析**：stayed 是过去式；at a hostel 是地点状语。
 
-14. **中文**：如果今晚赶不上班车，我们第二天早上再出发。
-   **英文**：We will leave the next day if we miss the evening bus.
-   > **解析**：next day 表示“第二天/次日”。
+14. **中文**：我想探索老城区。
+   **英文**：I want to explore the old town.
+   > **解析**：want to do 结构；explore 用原形。
 
-15. **中文**：我只需要买一张前往芝加哥的单程机票。
-   **英文**：I only need to buy a one-way ticket for this trip.
-   > **解析**：one-way 表示“单程的”。
+15. **中文**：你去哪里我就去哪里。
+   **英文**：I'll go wherever you go.
+   > **解析**：wherever 引导让步状语从句；I'll 是 I will 的缩写。
 
-16. **中文**：你需要买一张往返机票还是单程机票？
-   **英文**：Would you prefer a round-trip ticket or a single journey?
-   > **解析**：round-trip 表示“往返的”。
+16. **中文**：奢华旅行花费更多。
+   **英文**：Luxury travel costs more.
+   > **解析**：luxury 作定语修饰 travel；more 是比较级副词。
 
-17. **中文**：不好意思，刚才太吵了，你能再说一遍吗？
-   **英文**：Could you say that again? I couldn't hear you clearly.
-   > **解析**：say that again 表示“再说一遍/重说一遍”。
+17. **中文**：你会独自旅行吗？
+   **英文**：Will you travel alone?
+   > **解析**：will 引导一般疑问句；travel 用原形。
 
-18. **中文**：无论你去哪里旅行，都要妥善保管好护照。
-   **英文**：Wherever you travel, keep your passport in a safe place.
-   > **解析**：Wherever 表示“无论哪里/无论去哪”。
+18. **中文**：我不会坐渡轮。
+   **英文**：I won't take the ferry.
+   > **解析**：won't 是 will not 的缩写，后接动词原形。
 
-19. **中文**：下个月我们将前往云南开展一次难忘的观光旅游。
-   **英文**：We will embark on a sightseeing tour next month.
-   > **解析**：will 表示“将要/将会”。
+19. **中文**：如果下雨，我们就待在旅舍。
+   **英文**：If it rains, we'll stay at the hostel.
+   > **解析**：if 从句用现在时 rains，主句用 will。
 
-20. **中文**：如果没有有效签证，你将无法顺利入境登机。
-   **英文**：You won't be able to enter without a valid passport visa.
-   > **解析**：won't 即 will not，表示“将不会”。
+20. **中文**：出国前我需要换汇。
+   **英文**：I need a currency exchange before I go.
+   > **解析**：currency exchange 作 need 的宾语；before 引导时间从句。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Passengers began to board the plane half an hour before departure.
-   > **中文**：在航班离港前半小时，旅客开始登机。
+1. I booked two tickets.
+   > **中文**：我订了两张票。
 
-2. It is best to book your hotel room well in advance during peak season.
-   > **中文**：建议大家在旅游旺季提前预订酒店房间。
+2. Board the ferry now.
+   > **中文**：现在上船。
 
-3. They went on a seven-day luxury Caribbean cruise last winter.
-   > **中文**：他们报名参加了一为期七天的加勒比海豪华邮轮游。
+3. The plane departs at six.
+   > **中文**：飞机六点起飞。
 
-4. You can exchange cash at the currency exchange desk in the airport.
-   > **中文**：你可以在机场航站楼内的货币兑换处换一些外币。
+4. My layover is three hours.
+   > **中文**：我的转机停留是三小时。
 
-5. The flight to New York will depart at eight o'clock tonight.
-   > **中文**：从北京飞往纽约的航班将于今晚八点准时起飞离港。
+5. Is this a direct flight?
+   > **中文**：这是直达航班吗？
 
-6. This is a direct flight with no layover stops on the way.
-   > **中文**：这是一趟直达航班，中途没有任何停靠。
+6. She bought a one-way ticket.
+   > **中文**：她买了张单程票。
 
-7. Tourists love to explore the old streets and historic markets.
-   > **中文**：游客们喜欢漫步在古老的小巷里探索这座历史名城。
+7. A round-trip ticket costs less.
+   > **中文**：往返票更便宜。
 
-8. We took a morning ferry across the channel to the island.
-   > **中文**：我们乘坐渡轮横渡海峡前往对岸的小岛。
+8. The train arrives the next day.
+   > **中文**：火车第二天到达。
 
-9. Young travelers love to go backpacking through Europe in summer.
-   > **中文**：年轻旅行者为了省钱喜欢去各省背包游。
+9. The cruise was amazing.
+   > **中文**：那次邮轮之旅太棒了。
 
-10. Some travelers try to hitchhike along the highway to save money.
-   > **中文**：在有些地方，背包客会沿途搭顺风车前往下一个镇。
+10. The ferry leaves at eight.
+   > **中文**：渡轮八点出发。
 
-11. Staying in a local hostel is a great way to meet travelers.
-   > **中文**：入住青年旅舍是认识来自世界各地新朋友的好方法。
+11. They went backpacking last summer.
+   > **中文**：他们去年夏天去背包旅行了。
 
-12. We have a four-hour layover in Tokyo before our next flight.
-   > **中文**：在国际转机过程中，我们在东京有四个小时的中途停留。
+12. He hitchhiked to the city.
+   > **中文**：他搭便车去了城里。
 
-13. The resort offers luxury rooms and private beach access.
-   > **中文**：这家五星级海滨度假村提供豪华的客房和温泉服务。
+13. The hostel is cheap and clean.
+   > **中文**：这家青年旅舍便宜又干净。
 
-14. We will leave the next day if we miss the evening bus.
-   > **中文**：如果今晚赶不上班车，我们第二天早上再出发。
+14. Let's explore the market.
+   > **中文**：我们去逛逛市场吧。
 
-15. I only need to buy a one-way ticket for this trip.
-   > **中文**：我只需要买一张前往芝加哥的单程机票。
+15. I'll go wherever you go.
+   > **中文**：你去哪儿我就去哪儿。
 
-16. Would you prefer a round-trip ticket or a single journey?
-   > **中文**：你需要买一张往返机票还是单程机票？
+16. She loves luxury hotels.
+   > **中文**：她喜欢豪华酒店。
 
-17. Could you say that again? I couldn't hear you clearly.
-   > **中文**：不好意思，刚才太吵了，你能再说一遍吗？
+17. Will you come with me?
+   > **中文**：你会和我一起来吗？
 
-18. Wherever you travel, keep your passport in a safe place.
-   > **中文**：无论你去哪里旅行，都要妥善保管好护照。
+18. We won't miss the train.
+   > **中文**：我们不会错过火车。
 
-19. We will embark on a sightseeing tour next month.
-   > **中文**：下个月我们将前往云南开展一次难忘的观光旅游。
+19. If we hurry, we'll catch the ferry.
+   > **中文**：如果我们快点，就能赶上渡轮。
 
-20. You won't be able to enter without a valid passport visa.
-   > **中文**：如果没有有效签证，你将无法顺利入境登机。
+20. Say that again!
+   > **中文**：说得太对了！
 
 </quiz-listening>
 
@@ -211,26 +202,46 @@ will / won't 表将来/意愿。wherever = no matter where。
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| board | 登机 / 登船 |
+| board | 登机 / 上船 |
 | book | 预订 |
-| cruise | 邮轮游 |
-| currency exchange | 货币兑换 |
-| depart | 出发 / 启程 |
+| cruise | 邮轮旅行 |
+| currency exchange | 货币兑换（处） |
+| depart | 出发 / 起飞 |
 | direct | 直达的 |
 | explore | 探索 |
 | ferry | 渡轮 |
-| go backpacking | 去背包游 |
-| hitchhike | 搭顺风车 |
+| get | 得到 / 到达 |
+| go backpacking | 背包旅行 |
+| hitchhike | 搭便车 |
 | hostel | 青年旅舍 |
-| layover | 中途停留 |
-| luxury | 奢华的 |
-| next day | 第二天 |
+| if | 如果 |
+| layover | 中转停留 |
+| luxury | 奢华 |
+| next day | 次日 |
 | one-way | 单程的 |
+| ride | 乘坐 / 骑行 |
 | round-trip | 往返的 |
-| say that again | 再说一遍 |
+| say that again | 说得太对了 |
 | wherever | 无论哪里 |
 | will | 将要 |
-| won't | 将不会 |
+| won't | 不会 |
+| is | 是（单数） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| at | 在 |
+| in | 在……里 |
+| to | 到 / 向 |
+| I | 我 |
+| we | 我们 |
+| you | 你 |
+| it | 它 |
+| my | 我的 |
+| tickets | 票 |
+| flight | 航班 |
+| travel | 旅行 |
+| alone | 独自 |
+| before | 在……之前 |
+| costs | 花费（三单） |
 
 </quiz-matching>
 
@@ -238,202 +249,202 @@ will / won't 表将来/意愿。wherever = no matter where。
 
 ### 1
 
-Passengers began to ____ the plane half an hour before departure.
+I ____ a hostel online yesterday.
 
-- [x] board
+- [x] booked
 - [ ] book
-- [ ] cruise
+- [ ] booking
 
-> **解析**：**board** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 提示过去时，用 booked；booking 不能单独作谓语。
 
 ### 2
 
-It is best to ____ your hotel room well in advance during peak season.
+The flight ____ at nine tomorrow.
 
-- [x] book
+- [x] boards
 - [ ] board
-- [ ] cruise
+- [ ] boarding
 
-> **解析**：**book** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：flight 是三单主语，board 加 s；boarding 不能单独作谓语。
 
 ### 3
 
-They went on a seven-day ____ Caribbean cruise last winter.
+The train ____ at noon.
 
-- [x] luxury
-- [ ] board
-- [ ] book
+- [x] departs
+- [ ] depart
+- [ ] departing
 
-> **解析**：**luxury** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：train 是三单主语，depart 加 s；departing 不能单独作谓语。
 
 ### 4
 
-You can ____ cash at the currency exchange desk in the airport.
+We have a short ____ at the airport.
 
-- [x] exchange
-- [ ] board
-- [ ] book
+- [x] layover
+- [ ] ferry
+- [ ] wherever
 
-> **解析**：**exchange** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：机场里的短暂停留是 layover；ferry 是渡轮，wherever 是连词。
 
 ### 5
 
-The flight to New York ____ depart at eight o'clock tonight.
+Is this a ____ flight?
 
-- [x] will
-- [ ] board
-- [ ] book
+- [x] direct
+- [ ] directly
+- [ ] direction
 
-> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 flight 需要形容词 direct；directly 是副词，direction 是名词。
 
 ### 6
 
-This is a ____ flight with no layover stops on the way.
+She plans to stay abroad, so she bought a ____ ticket.
 
-- [x] direct
-- [ ] board
-- [ ] book
+- [x] one-way
+- [ ] round-trip
+- [ ] next
 
-> **解析**：**direct** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：打算留在国外说明买单程 one-way；round-trip 与语境矛盾。
 
 ### 7
 
-Tourists love to ____ the old streets and historic markets.
+A ____ ticket takes you there and back.
 
-- [x] explore
-- [ ] board
-- [ ] book
+- [x] round-trip
+- [ ] one-way
+- [ ] luxury
 
-> **解析**：**explore** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能往返的是 round-trip；one-way 只有单程，luxury 与往返无关。
 
 ### 8
 
-We took a morning ____ across the channel to the island.
+The train arrives the ____ day.
 
-- [x] ferry
-- [ ] board
-- [ ] book
+- [x] next
+- [ ] near
+- [ ] nest
 
-> **解析**：**ferry** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：次日到达用 the next day；near 和 nest 不构成该表达。
 
 ### 9
 
-Young travelers love to go ____ through Europe in summer.
+The ____ sails at sunset.
 
-- [x] backpacking
+- [x] cruise
+- [ ] explore
 - [ ] board
-- [ ] book
 
-> **解析**：**backpacking** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：能航行的是邮轮 cruise；explore 和 board 是动词，不能作主语。
 
 ### 10
 
-Some travelers try to ____ along the highway to save money.
+We took the ____ across the river.
 
-- [x] hitchhike
-- [ ] board
-- [ ] book
+- [x] ferry
+- [ ] luxury
+- [ ] depart
 
-> **解析**：**hitchhike** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：过河乘坐的是渡轮 ferry；luxury 是形容词或名词，depart 是动词。
 
 ### 11
 
-Staying in a local ____ is a great way to meet travelers.
+Let's go ____ in the mountains.
 
-- [x] hostel
-- [ ] board
-- [ ] book
+- [x] backpacking
+- [ ] backpack
+- [ ] backpacked
 
-> **解析**：**hostel** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：go backpacking 是 go + 动名词结构；backpack 是名词，backpacked 是过去式。
 
 ### 12
 
-We have a four-hour ____ in Tokyo before our next flight.
+He ____ to the next town last week.
 
-- [x] layover
-- [ ] board
-- [ ] book
+- [x] hitchhiked
+- [ ] hitchhike
+- [ ] hitchhikes
 
-> **解析**：**layover** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：last week 提示过去时，用 hitchhiked；hitchhikes 是三单现在时。
 
 ### 13
 
-The resort offers ____ rooms and private beach access.
+We stayed at a cheap ____.
 
-- [x] luxury
-- [ ] board
-- [ ] book
+- [x] hostel
+- [ ] luxury
+- [ ] direct
 
-> **解析**：**luxury** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：便宜的住处是青年旅舍 hostel；luxury 和 direct 是形容词，不能放在 a 后作名词。
 
 ### 14
 
-We ____ leave the next day if we miss the evening bus.
+I want to ____ the old town.
 
-- [x] will
-- [ ] board
-- [ ] book
+- [x] explore
+- [ ] explores
+- [ ] exploring
 
-> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：to 后接动词原形 explore；explores 和 exploring 形式错误。
 
 ### 15
 
-I only need to buy a ____ ticket for this trip.
+I'll go ____ you go.
 
-- [x] one-way
-- [ ] board
-- [ ] book
+- [x] wherever
+- [ ] whether
+- [ ] whoever
 
-> **解析**：**one-way** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：无论去哪里用 wherever；whether 表"是否"，whoever 指人。
 
 ### 16
 
-Would you prefer a ____ ticket or a single journey?
+She loves ____ hotels.
 
-- [x] round-trip
-- [ ] board
-- [ ] book
+- [x] luxury
+- [ ] if
+- [ ] next
 
-> **解析**：**round-trip** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 hotels 用 luxury（豪华的）；if 和 next 语义不符。
 
 ### 17
 
-Could you say that again? I ____ hear you clearly.
+____ you travel with me next year?
 
-- [x] couldn't
-- [ ] board
-- [ ] book
+- [x] Will
+- [ ] Where
+- [ ] Whoever
 
-> **解析**：**couldn't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：询问将来的意愿用 will；where 和 whoever 不能构成此类疑问句。
 
 ### 18
 
-____ you travel, keep your passport in a safe place.
+Don't worry; we ____ miss the ferry.
 
-- [x] Wherever
-- [ ] board
-- [ ] book
+- [x] won't
+- [ ] will
+- [ ] if
 
-> **解析**：**Wherever** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：安慰对方"不会错过"用 won't；will 与 don't worry 矛盾，if 不是助动词。
 
 ### 19
 
-We ____ embark on a sightseeing tour next month.
+____ it rains, we'll stay at the hostel.
 
-- [x] will
-- [ ] board
-- [ ] book
+- [x] If
+- [ ] In
+- [ ] It
 
-> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：if 引导条件句；in 是介词，it 不能引导条件从句。
 
 ### 20
 
-You ____ be able to enter without a valid passport visa.
+I stopped at the ____ to change my money.
 
-- [x] won't
-- [ ] board
-- [ ] book
+- [x] currency exchange
+- [ ] cruise
+- [ ] one-way
 
-> **解析**：**won't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：换钱去货币兑换处 currency exchange；cruise 和 one-way 与此无关。
 
 </quiz-cloze>

@@ -10,30 +10,29 @@ air conditioner, bucket, cupboard, dig, electrical, faucet, feet wide, fit, fram
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"建议某人该做什么"展开，场景是家居维修和房屋描述。词表里有家居设施（air conditioner, faucet, light bulb, cupboard, pipe, frame）和材料/尺寸词汇（metal, electrical, gas, water, feet wide, inches wide, long, tall）。
+本单元的主题是"家居修缮与建议"。词表可以分成三组：家居物品词（air conditioner, bucket, cupboard, faucet, light bulb, pipe, frame, metal）、修缮动作与属性词（dig, fit, water, gas, electrical, long, tall, feet wide, inches wide）、以及 would have 家族（would have, i would have, would she have, would you have, would've）。拼起来就是家居修缮场景：The faucet doesn't work and the light bulb is out. I would have fixed it yesterday, but I didn't have a bucket. Would you have called a plumber?
 
-你可以练习家居对话：The faucet doesn't work—would you have a bucket? / I would have called a plumber. / The pipe is two feet wide and three feet long. / Would she have a new light bulb? / Dig a hole for the frame.
+语法主线是 would have + 过去分词，表示"本来会……"（与过去事实相反）：I would have helped.（我本来会帮忙的。）疑问形式把 would 提前：Would you have called him? 缩写 would've = would have。另一条主线是尺寸描述：long 长、tall 高（指人或竖直物）、feet wide（英尺宽）、inches wide（英寸宽）。描述物品尺寸时用 "数字 + 单位 + 形容词"：It is three feet wide.（它有三英尺宽。）
 
-would have / would've 是"would + have + 过去分词"的缩写形式，可以表示对过去的假设（I would have helped.）或将来完成（By then, I would have finished.）。i would have, would she have, would you have 展示了不同主语的形式。
+学完这些词，你能用英语描述家居物品的尺寸与材质、讨论修缮方案，并用虚拟语气谈论过去的选择。
 
 ## Tips
 
-- **would have / would've / i would have** — would have + 过去分词表"本来会……"（对过去的虚拟：I would have called, but I forgot.）。would've 是口语缩写 /ˈwʊdəv/。注意不要写成 would of（常见错误）。
+- **would have / would've / i would have / would she have / would you have** — 与过去相反的虚拟。I would have done it.（我本来会做的。）缩写 would've 读作 /ˈwʊdəv/。疑问形式：Would you have called? 注意 ✗ would of 是错误拼写，虽然发音相近。
 
-- **faucet / pipe / air conditioner** — faucet = 水龙头（美式，英式用 tap）。pipe = 管道（a water pipe, a gas pipe）。air conditioner = 空调（缩写 AC 或 A/C）。搭配：turn on the faucet, fix a pipe, install an air conditioner。
+- **air conditioner / light bulb / faucet / pipe** — 家居四件。air conditioner 空调（缩写 AC）；light bulb 灯泡；faucet 水龙头（美式，英式 tap）；pipe 水管。家居修缮场景核心词。
 
-- **cupboard / light bulb / frame** — cupboard = 橱柜（注意发音 /ˈkʌbərd/，p 不发音）。light bulb = 灯泡（change a light bulb）。frame = 框架（a door frame, a picture frame）。
+- **bucket / cupboard / frame** — bucket 桶：a bucket of water（一桶水）；cupboard 碗柜、橱柜；frame 框架、相框。
 
-- **metal / electrical / gas / water** — 四种常见家居材料/能源。metal = 金属（a metal pipe）。electrical = 电的（electrical work, an electrical problem）。gas = 燃气（a gas stove）。water = 水（water damage）。
+- **dig / fit** — dig 挖，不规则变化 dig → dug → dug：dig a hole（挖个洞）；fit 合适、容纳：It doesn't fit.（它装不下/不合适。）fit 的过去式 fitted 或 fit。
 
-- **feet wide / inches wide / long / tall** — 描述尺寸的表达。feet wide = 英尺宽（It's three feet wide.）。inches wide = 英寸宽。long = 长，tall = 高（形容人用 tall，形容物体可用 long 或 tall）。注意 foot → feet（不规则复数）。
+- **electrical / gas / water / metal** — 材质与能源四词。electrical 电的：an electrical problem（电路问题）；gas 燃气：a gas stove（燃气灶）；water 水，也可作动词"浇水"；metal 金属：a metal pipe（金属管）。
 
-- **bucket / dig / fit** — bucket = 水桶（a bucket of water）。dig = 挖（dig a hole），过去式 dug。fit = 合适、装得下（Does it fit? / It doesn't fit in the cupboard.）。
+- **long / tall / feet wide / inches wide** — 尺寸描述。long 长的（水平延伸）；tall 高的（竖直高度，常说人、楼）；feet wide 英尺宽：two feet wide；inches wide 英寸宽：ten inches wide. 单位词 feet/inches 用复数。
 
-- **would she have / would you have** — 疑问形式的虚拟/推测。Would you have done it differently?（你会用不同方式做吗？）Would she have known?（她会知道吗？）结构：Would + 主语 + have + 过去分词。
+- **would she have / would you have** — 虚拟疑问的两种人称。Would she have known?（她本来会知道吗？）Would you have agreed?（你本来会同意吗？）结构都是 Would + 主语 + have + 过去分词。
 
 ## 练习
 
@@ -51,176 +50,182 @@ would have / would've 是"would + have + 过去分词"的缩写形式，可以�
 
 <quiz-sentence-builder>
 
-1. **中文**：离开卧室之前，你应当关掉空调。  
-   **英文**：You should turn off the air conditioner before leaving the bedroom.
-   > **解析**：air conditioner 意为“空调”，在句中作动词短语 turn off 的宾语。
+1. **中文**：我昨天本来会修好它的。
+   **英文**：I would have fixed it yesterday.
+   > **解析**：would have + 过去分词表示"本来会"；yesterday 表明与过去事实相反。
 
-2. **中文**：拿一个塑料水桶去接从天花板滴下来的水。  
-   **英文**：Grab a plastic bucket to catch the water dripping from the ceiling.
-   > **解析**：bucket 意为“水桶”，dripping from... 是现在分词短语作后置定语修饰 water。
+2. **中文**：你本来会打电话给水管工吗？
+   **英文**：Would you have called the plumber?
+   > **解析**：虚拟疑问句把 Would 提前；have called 是完成不定式。
 
-3. **中文**：把干净的餐具收进厨房的上橱柜里。  
-   **英文**：Put the clean dishes away in the upper kitchen cupboard.
-   > **解析**：cupboard 意为“橱柜；碗柜”，put away 表示“收好；放回原处”。
+3. **中文**：她本来会知道吗？
+   **英文**：Would she have known?
+   > **解析**：Would + 主语 + have + 过去分词 known；known 是 know 的过去分词。
 
-4. **中文**：我们需要在花园里挖一个坑来立篱笆柱。  
-   **英文**：We need to dig a hole in the garden for the fence post.
-   > **解析**：dig 意为“挖；掘”，dig a hole 即“挖坑”。
+4. **中文**：空调坏了。
+   **英文**：The air conditioner is broken.
+   > **解析**：is broken 表示状态；broken 由过去分词转化为形容词。
 
-5. **中文**：对于复杂的电路维修，务必聘请持证电工。  
-   **英文**：Always call a licensed electrician for complex electrical repairs.
-   > **解析**：electrical 意为“电力的；电气的”，修饰名词 repairs。
+5. **中文**：灯泡烧了。
+   **英文**：The light bulb is out.
+   > **解析**：out 作表语表示"熄灭、烧坏"；is 与单数主语搭配。
 
-6. **中文**：如果厨房水龙头在滴水，你应该更换橡胶垫圈。  
-   **英文**：If the kitchen faucet is dripping, you ought to replace the rubber washer.
-   > **解析**：faucet 意为“水龙头”（美式英语），ought to 表示“应当”。
+6. **中文**：水龙头漏水。
+   **英文**：The faucet leaks.
+   > **解析**：leaks 是第三人称单数形式；leak 表示"漏水"。
 
-7. **中文**：入口处的走廊大约有六英尺宽，非常宽敞。  
-   **英文**：The entrance hallway is about six feet wide and very spacious.
-   > **解析**：feet wide 意为“英尺宽”，用于描述建筑或物品的宽度尺寸。
+7. **中文**：水管是金属的。
+   **英文**：The pipe is metal.
+   > **解析**：metal 作表语表示材质；is 与单数主语搭配。
 
-8. **中文**：仔细测量空间，确保新冰箱能够放得下。  
-   **英文**：Measure the space carefully to make sure the new refrigerator will fit.
-   > **解析**：fit 意为“合适；装得下”，在此作不及物动词。
+8. **中文**：在花园里挖个洞。
+   **英文**：Dig a hole in the garden.
+   > **解析**：祈使句用动词原形 Dig；dig 的过去式是 dug。
 
-9. **中文**：他挑选了一个坚固的木制相框来挂全家福。  
-   **英文**：He selected a sturdy wooden frame to hang the family photo.
-   > **解析**：frame 意为“框架；相框”，wooden 为形容词“木制的”。
+9. **中文**：这个箱子装不进壁橱。
+   **英文**：The box doesn't fit in the cupboard.
+   > **解析**：doesn't fit 是第三人称单数否定；in the cupboard 是地点状语。
 
-10. **中文**：在修理管道炉灶之前，你必须切断燃气供应。  
-    **英文**：You must turn off the gas supply before fixing the stove.
-    > **解析**：gas 意为“燃气；气体”，gas supply 指“燃气供应”。
+10. **中文**：这面墙有三米长。
+   **英文**：This wall is three meters long.
+   > **解析**："数字 + 单位 + long"是尺寸表达；is 与单数主语搭配。
 
-11. **中文**：如果当时我有梯子，我本来会自己安装灯具的。  
-    **英文**：I would have installed the light fixture myself if I had a ladder.
-    > **解析**：i would have 表示“我本来会……”，用于与过去事实相反的虚拟语气。
+11. **中文**：他个子很高。
+   **英文**：He is very tall.
+   > **解析**：tall 形容人的身高；very 修饰 tall。
 
-12. **中文**：这张木板只有三英寸宽，对于搁板来说太窄了。  
-    **英文**：This wooden board is only three inches wide, which is too narrow for a shelf.
-    > **解析**：inches wide 意为“英寸宽”，which 引导非限制性定语从句。
+12. **中文**：这张桌子有两英尺宽。
+   **英文**：The table is two feet wide.
+   > **解析**："数字 + feet + wide"是宽度表达；feet 是 foot 的复数。
 
-13. **中文**：我们需要在走廊灯上安装一颗新的电灯泡。  
-    **英文**：We need to install a new light bulb in the hallway lamp.
-    > **解析**：light bulb 意为“电灯泡”，install 意为“安装”。
+13. **中文**：这个框架有十英寸宽。
+   **英文**：The frame is ten inches wide.
+   > **解析**：inches 是 inch 的复数；wide 作表语。
 
-14. **中文**：水槽下方漏水的水管造成了厨房轻微积水。  
-    **英文**：A leaking water pipe under the sink caused minor flooding in the kitchen.
-    > **解析**：pipe 意为“管道；水管”，water pipe 即“水管”。
+14. **中文**：用桶接水。
+   **英文**：Use the bucket to catch the water.
+   > **解析**：祈使句用动词原形 Use；to catch 是不定式表目的。
 
-15. **中文**：这根金属梁足够长，可以支撑客厅的大屋顶。  
-    **英文**：This metal beam is long enough to support the living room roof.
-    > **解析**：metal 意为“金属”，long 为形容词“长的”，long enough 意为“足够长”。
+15. **中文**：燃气灶点不着。
+   **英文**：The gas stove won't light.
+   > **解析**：won't 表"拒绝、无法"；light 此处作动词"点燃"。
 
-16. **中文**：客厅角落里的那盏落地灯有多高？  
-    **英文**：How tall is the floor lamp in the living room corner?
-    > **解析**：tall 意为“高的”，用于询问物品或人的高度。
+16. **中文**：有一个电路问题。
+   **英文**：There is an electrical problem.
+   > **解析**：there is 表示"有"；electrical 修饰 problem。
 
-17. **中文**：修好漏水点后，你需要清理墙壁上的水渍。  
-    **英文**：You need to clean the water stains on the wall after fixing the leak.
-    > **解析**：water 意为“水”，water stains 指“水渍”。
+17. **中文**：换一个灯泡。
+   **英文**：Change the light bulb.
+   > **解析**：祈使句用动词原形 Change；the light bulb 是宾语。
 
-18. **中文**：如果她早点知道水管破裂，她本来会关掉主阀门的。  
-    **英文**：She would have shut off the main valve if she had known about the burst pipe earlier.
-    > **解析**：would have 表示“本来会……”，shut off 表示“关闭（阀门/开关）”。
+18. **中文**：给花浇水。
+   **英文**：Water the flowers.
+   > **解析**：water 此处作动词"浇水"；祈使句用动词原形。
 
-19. **中文**：如果水管堵塞了，她本来会打电话给水管工吗？  
-    **英文**：Would she have called a plumber if the pipe had been clogged?
-    > **解析**：would she have 用于疑问句中的虚拟推测，“她当时会……吗？”。
+19. **中文**：我本来会买金属框架的。
+   **英文**：I would have bought the metal frame.
+   > **解析**：would have bought 是虚拟语气；bought 是 buy 的过去分词。
 
-20. **中文**：如果你在地下室发现湿气，你会怎么办？  
-    **英文**：What would you have done if you found moisture in the basement?
-    > **解析**：would you have 用于询问过去假设情况下的行动，“你当时会怎么做？”。
+20. **中文**：你会本来用桶吗？
+   **英文**：Would you have used the bucket?
+   > **解析**：虚拟疑问句结构 Would + 主语 + have + 过去分词 used。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. You should turn off the air conditioner before leaving the bedroom.
-   > **中文**：离开卧室之前，你应当关掉空调。
+1. I would have fixed it yesterday.
+   > **中文**：我昨天本来会修好它的。
 
-2. Grab a plastic bucket to catch the water dripping from the ceiling.
-   > **中文**：拿一个塑料水桶去接从天花板滴下来的水。
+2. Would you have called the plumber?
+   > **中文**：你本来会打电话给水管工吗？
 
-3. Put the clean dishes away in the upper kitchen cupboard.
-   > **中文**：把干净的餐具收进厨房的上橱柜里。
+3. Would she have known?
+   > **中文**：她本来会知道吗？
 
-4. We need to dig a hole in the garden for the fence post.
-   > **中文**：我们需要在花园里挖一个坑来立篱笆柱。
+4. The air conditioner is broken.
+   > **中文**：空调坏了。
 
-5. Always call a licensed electrician for complex electrical repairs.
-   > **中文**：对于复杂的电路维修，务必聘请持证电工。
+5. The light bulb is out.
+   > **中文**：灯泡烧了。
 
-6. If the kitchen faucet is dripping, you ought to replace the rubber washer.
-   > **中文**：如果厨房水龙头在滴水，你应该更换橡胶垫圈。
+6. The faucet leaks.
+   > **中文**：水龙头漏水。
 
-7. The entrance hallway is about six feet wide and very spacious.
-   > **中文**：入口处的走廊大约有六英尺宽，非常宽敞。
+7. The pipe is metal.
+   > **中文**：水管是金属的。
 
-8. Measure the space carefully to make sure the new refrigerator will fit.
-   > **中文**：仔细测量空间，确保新冰箱能够放得下。
+8. Dig a hole in the garden.
+   > **中文**：在花园里挖个洞。
 
-9. He selected a sturdy wooden frame to hang the family photo.
-   > **中文**：他挑选了一个坚固的木制相框来挂全家福。
+9. The box doesn't fit in the cupboard.
+   > **中文**：这个箱子装不进壁橱。
 
-10. You must turn off the gas supply before fixing the stove.
-   > **中文**：在修理管道炉灶之前，你必须切断燃气供应。
+10. This wall is three meters long.
+   > **中文**：这面墙有三米长。
 
-11. I would have installed the light fixture myself if I had a ladder.
-   > **中文**：如果当时我有梯子，我本来会自己安装灯具的。
+11. He is very tall.
+   > **中文**：他个子很高。
 
-12. This wooden board is only three inches wide, which is too narrow for a shelf.
-   > **中文**：这张木板只有三英寸宽，对于搁板来说太窄了。
+12. The table is two feet wide.
+   > **中文**：这张桌子有两英尺宽。
 
-13. We need to install a new light bulb in the hallway lamp.
-   > **中文**：我们需要在走廊灯上安装一颗新的电灯泡。
+13. The frame is ten inches wide.
+   > **中文**：这个框架有十英寸宽。
 
-14. A leaking water pipe under the sink caused minor flooding in the kitchen.
-   > **中文**：水槽下方漏水的水管造成了厨房轻微积水。
+14. Use the bucket to catch the water.
+   > **中文**：用桶接水。
 
-15. This metal beam is long enough to support the living room roof.
-   > **中文**：这根金属梁足够长，可以支撑客厅的大屋顶。
+15. The gas stove won't light.
+   > **中文**：燃气灶点不着。
 
-16. How tall is the floor lamp in the living room corner?
-   > **中文**：客厅角落里的那盏落地灯有多高？
+16. There is an electrical problem.
+   > **中文**：有一个电路问题。
 
-17. You need to clean the water stains on the wall after fixing the leak.
-   > **中文**：修好漏水点后，你需要清理墙壁上的水渍。
+17. Change the light bulb.
+   > **中文**：换一个灯泡。
 
-18. She would have shut off the main valve if she had known about the burst pipe earlier.
-   > **中文**：如果她早点知道水管破裂，她本来会关掉主阀门的。
+18. Water the flowers.
+   > **中文**：给花浇水。
 
-19. Would she have called a plumber if the pipe had been clogged?
-   > **中文**：如果水管堵塞了，她本来会打电话给水管工吗？
+19. I would have bought the metal frame.
+   > **中文**：我本来会买金属框架的。
 
-20. What would you have done if you found moisture in the basement?
-   > **中文**：如果你在地下室发现湿气，你会怎么办？
+20. Would you have used the bucket?
+   > **中文**：你本来会用桶吗？
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| `air conditioner` | 空调 |
-| `bucket` | 水桶 |
-| `cupboard` | 橱柜；碗柜 |
-| `dig` | 挖；掘 |
-| `electrical` | 电力的；电气的 |
-| `faucet` | 水龙头 |
-| `feet wide` | 英尺宽 |
-| `fit` | 合适；装得下 |
-| `frame` | 框架；相框 |
-| `gas` | 燃气；气体 |
-| `i would have` | 我本来会 |
-| `inches wide` | 英寸宽 |
-| `light bulb` | 电灯泡 |
-| `long` | 长的 |
-| `metal` | 金属 |
-| `pipe` | 管道；水管 |
-| `tall` | 高的 |
-| `water` | 水 |
-| `would have` | 本来会 |
-| `would she have` | 她本来会吗 |
+| --- | --- |
+| air conditioner | 空调 |
+| bucket | 桶 |
+| cupboard | 壁橱 / 碗柜 |
+| dig | 挖 |
+| electrical | 电的 |
+| faucet | 水龙头 |
+| feet wide | 英尺宽 |
+| fit | 合适 / 容纳 |
+| frame | 框架 |
+| gas | 燃气 |
+| i would have | 我本来会 |
+| inches wide | 英寸宽 |
+| light bulb | 灯泡 |
+| long | 长的 |
+| metal | 金属 |
+| pipe | 水管 |
+| tall | 高的 |
+| water | 水 / 浇水 |
+| would have | 本来会 |
+| would she have | 她本来会……吗 |
+| would you have | 你本来会……吗 |
+| would've | would have 的缩写 |
+| is | 是（单数） |
+| the | 这个 / 那个 |
+| broken | 坏的 |
+| garden | 花园 |
 
 </quiz-matching>
 
@@ -228,202 +233,202 @@ would have / would've 是"would + have + 过去分词"的缩写形式，可以�
 
 ### 1
 
-You should turn off the air ____ before leaving the bedroom.
+I ____ have fixed it yesterday.
 
-- [x] conditioner
-- [ ] air conditioner
-- [ ] bucket
+- [x] would
+- [ ] will
+- [ ] did
 
-> **解析**：**conditioner** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：与过去事实相反用 would have + 过去分词；will 表真实将来。
 
 ### 2
 
-Grab a plastic ____ to catch the water dripping from the ceiling.
+____ you have called the plumber?
 
-- [x] bucket
-- [ ] air conditioner
-- [ ] cupboard
+- [x] Would
+- [ ] Will
+- [ ] Do
 
-> **解析**：**bucket** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：虚拟疑问句用 Would + 主语 + have + 过去分词；Will 表真实。
 
 ### 3
 
-Put the clean dishes away in the upper kitchen ____.
+Would she have ____?
 
-- [x] cupboard
-- [ ] air conditioner
-- [ ] bucket
+- [x] known
+- [ ] know
+- [ ] knowing
 
-> **解析**：**cupboard** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：have 后接过去分词 known；其余形式不成立。
 
 ### 4
 
-We need to ____ a hole in the garden for the fence post.
+The air ____ is broken.
 
-- [x] dig
-- [ ] air conditioner
-- [ ] bucket
+- [x] conditioner
+- [ ] condition
+- [ ] conditioning
 
-> **解析**：**dig** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：air conditioner（空调）是固定搭配；condition 是名词"状况"。
 
 ### 5
 
-Always call a licensed electrician for complex ____ repairs.
+The light ____ is out.
 
-- [x] electrical
-- [ ] air conditioner
-- [ ] bucket
+- [x] bulb
+- [ ] ball
+- [ ] tube of
 
-> **解析**：**electrical** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：light bulb（灯泡）是固定搭配；tube of 结构不合。
 
 ### 6
 
-If the kitchen ____ is dripping, you ought to replace the rubber washer.
+The faucet ____.
 
-- [x] faucet
-- [ ] air conditioner
-- [ ] bucket
+- [x] leaks
+- [ ] leak
+- [ ] leaking
 
-> **解析**：**faucet** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 faucet 是第三人称单数，用 leaks；leaking 不能单独作谓语。
 
 ### 7
 
-The ____ hallway is about six feet wide and very spacious.
+The pipe is ____.
 
-- [x] entrance
-- [ ] air conditioner
-- [ ] bucket
+- [x] metal
+- [ ] metals
+- [ ] metallic of
 
-> **解析**：**entrance** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：材质表语用 metal；metallic of 结构错误。
 
 ### 8
 
-Measure the space carefully to make sure the new refrigerator will ____.
+____ a hole in the garden.
 
-- [x] fit
-- [ ] air conditioner
-- [ ] bucket
+- [x] Dig
+- [ ] Dug
+- [ ] Digging
 
-> **解析**：**fit** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Dig；Dug 是过去式。
 
 ### 9
 
-He selected a sturdy wooden ____ to hang the family photo.
+The box doesn't ____ in the cupboard.
 
-- [x] frame
-- [ ] air conditioner
-- [ ] bucket
+- [x] fit
+- [ ] fits
+- [ ] fitting
 
-> **解析**：**frame** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：doesn't 后接动词原形 fit；fits 重复了第三人称单数标记。
 
 ### 10
 
-You must turn off the ____ supply before fixing the stove.
+This wall is three meters ____.
 
-- [x] gas
-- [ ] air conditioner
-- [ ] bucket
+- [x] long
+- [ ] length
+- [ ] longly
 
-> **解析**：**gas** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**："数字 + 单位 + long"是尺寸表达；length 是名词。
 
 ### 11
 
-I would have ____ the light fixture myself if I had a ladder.
+He is very ____.
 
-- [x] installed
-- [ ] air conditioner
-- [ ] bucket
+- [x] tall
+- [ ] tallness
+- [ ] long
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **installed**。
+> **解析**：形容人的身高用 tall；long 形容水平长度，不形容人。
 
 ### 12
 
-This ____ board is only three inches wide, which is too narrow for a shelf.
+The table is two ____ wide.
 
-- [x] wooden
-- [ ] air conditioner
-- [ ] bucket
+- [x] feet
+- [ ] foot
+- [ ] foots
 
-> **解析**：**wooden** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：两英尺用复数 feet；foots 是错误形式。
 
 ### 13
 
-We need to ____ a new light bulb in the hallway lamp.
+The frame is ten inches ____.
 
-- [x] install
-- [ ] air conditioner
-- [ ] bucket
+- [x] wide
+- [ ] width
+- [ ] widely
 
-> **解析**：**install** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**："数字 + inches + wide"是宽度表达；width 是名词。
 
 ### 14
 
-A leaking ____ pipe under the sink caused minor flooding in the kitchen.
+Use the ____ to catch the water.
 
-- [x] water
-- [ ] air conditioner
-- [ ] bucket
+- [x] bucket
+- [ ] cupboard
+- [ ] bulb
 
-> **解析**：**water** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：接水用桶（bucket）；cupboard 是壁橱，bulb 是灯泡。
 
 ### 15
 
-This ____ beam is long enough to support the living room roof.
+The ____ stove won't light.
 
-- [x] metal
-- [ ] air conditioner
-- [ ] bucket
+- [x] gas
+- [ ] gases
+- [ ] gassy
 
-> **解析**：**metal** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：gas stove（燃气灶）是固定搭配，gas 作定语用单数。
 
 ### 16
 
-How ____ is the floor lamp in the living room corner?
+There is an ____ problem.
 
-- [x] tall
-- [ ] air conditioner
-- [ ] bucket
+- [x] electrical
+- [ ] electric of
+- [ ] electricity
 
-> **解析**：**tall** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：problem 前需要形容词 electrical；electricity 是名词。
 
 ### 17
 
-You need to clean the ____ stains on the wall after fixing the leak.
+____ the light bulb.
 
-- [x] water
-- [ ] air conditioner
-- [ ] bucket
+- [x] Change
+- [ ] Changed
+- [ ] Changing
 
-> **解析**：**water** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Change；其余形式不成立。
 
 ### 18
 
-She would have shut off the main valve if she had known about the burst ____ earlier.
+____ the flowers.
 
-- [x] pipe
-- [ ] air conditioner
-- [ ] bucket
+- [x] Water
+- [ ] Waters
+- [ ] Watering
 
-> **解析**：**pipe** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Water（浇水）；其余形式不成立。
 
 ### 19
 
-Would she have called a plumber if the ____ had been clogged?
+I would have ____ the metal frame.
 
-- [x] pipe
-- [ ] air conditioner
-- [ ] bucket
+- [x] bought
+- [ ] buy
+- [ ] buying
 
-> **解析**：**pipe** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：have 后接过去分词 bought；buy 是原形。
 
 ### 20
 
-What would you have done if you found ____ in the basement?
+Would you have ____ the bucket?
 
-- [x] moisture
-- [ ] air conditioner
-- [ ] bucket
+- [x] used
+- [ ] use
+- [ ] using
 
-> **解析**：**moisture** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：have 后接过去分词 used；use 是原形。
 
 </quiz-cloze>

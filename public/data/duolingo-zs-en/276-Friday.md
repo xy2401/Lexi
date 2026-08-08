@@ -10,42 +10,33 @@ bite to eat, dominoes, fond of, french fries, game night, go bowling, go for, ho
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是周五晚上的休闲安排，交际任务是"表达你的偏好"。词表里有具体的活动选项（go bowling, game night, dominoes, stay in, stay over）和食物（bite to eat, french fries, salty），也有大量表达选择和偏好的功能词（rather, go for, fond of, it's your choice, whichever, whoever, whenever）。你可以练习这样的对话：I'd rather stay in than go out. / I'm fond of game night—whenever you want to play, I'm in. / It's your choice—whichever place you go for, I'll follow. / However salty the french fries are, I still want a bite to eat.
+本单元的主题是"表达你的偏好"，场景是周五晚上的安排。词表可以分成四组：活动与食物（game night, go bowling, dominoes, bite to eat, french fries, record）、偏好表达（fond of, rather, go for, in mind, specific, it's your choice, wants to）、安排动词（stay in, stay over, skip, whenever, whoever, whichever, whose turn, you don't）、以及衔接（however, if we went, place）。拼起来就是一段周五商量：Do you have anything in mind? I'd rather stay in. It's your choice.
 
-词表里有一组 -ever 词值得注意：whenever / whichever / whoever 都表示"无论……"，用来表达开放、随和的态度。whose turn 是"轮到谁了"，在 game night 语境中特别实用。rather 和 go for 都是表达偏好的核心词：I'd rather skip bowling. / Let's go for something salty.
+语法主线是"偏好表达"的多种句式：be fond of（喜欢，较温和）→ would rather（宁愿，后接动词原形）→ go for（选…吧，口语）→ have something in mind（心里有想法）。另一条主线是 -ever 让步词：whenever（无论何时）、whichever（无论哪个）、whoever（无论是谁），它们让表达更洒脱：Whenever works for you.（什么时候都行。）whose turn 则是游戏夜的必备：Whose turn is it?（轮到谁了？）
+
+学完这单元，你能用英语安排一个周五之夜：提议活动、表达偏好、礼貌地把决定权交给对方。
 
 ## Tips
 
-- **rather** — 宁愿、更想。最常见搭配是 would rather：I'd rather stay in tonight. / I'd rather not go out. 注意 would rather 后接动词原形（不加 to）。比较：I'd rather stay in than go bowling. 比 prefer 更口语化。
+- **fond of / rather / go for** — 偏好三式。be fond of 是"喜爱"：I'm fond of game nights. would rather 是"宁愿"，后接动词原形：I'd rather stay in. go for 是"选…吧"：Let's go for bowling. ✗ would rather to stay → ✓ would rather stay，不能加 to。
 
-- **go for** — 选择、想要。口语中极常用：Let's go for pizza. / I'll go for the salty one. / Go for it!（放手去做！）比 choose 更随意、更有行动力。注意 go for 也可以表示"喜欢、追求"：She really goes for tall guys.
+- **in mind / specific** — 想法两词。have something in mind 是"心里有主意"：Do you have anything in mind? specific 是"具体的"：Be specific.（说具体点。）
 
-- **fond of** — 喜欢、喜爱。搭配：be fond of + 名词/动名词。I'm fond of game night. / She's fond of bowling. 比 like 更温暖、更有感情色彩，暗示长期的、温柔的喜爱。注意 fond 不能单独做谓语，必须和 be 搭配。
+- **it's your choice / whose turn / you don't** — 决定权表达。It's your choice.（你决定。）Whose turn is it?（轮到谁？）whose 是 who 的所有格。you don't 常用于省略回应：Want to go out? — I don't mind. / You don't have to.
 
-- **bite to eat** — 一点吃的、随便吃点。搭配：grab a bite to eat / get a bite / a quick bite。例句：Let's grab a bite to eat before the movie. 非常口语化，不指正式大餐，而是随便吃点东西。
+- **game night / go bowling / dominoes** — 游戏三词。game night 是游戏之夜；go bowling 是去打保龄球（go + 动名词表示去做某项活动）；dominoes 是多米诺骨牌，常以复数形式出现。
 
-- **game night** — 游戏之夜。朋友们聚在一起玩桌游、纸牌、dominoes 等的社交活动。搭配：have a game night / host a game night / Friday game night。美国社交文化中很常见的固定聚会形式。
+- **bite to eat / french fries / salty** — 食物三词。a bite to eat 是"一点吃的"：Let's grab a bite to eat. french fries 是薯条；salty 是咸的（salt + -y）。
 
-- **dominoes** — 多米诺骨牌。一种经典桌游，把骨牌排成线然后推倒，或者按点数配对出牌。注意拼写以 -oes 结尾（类似 tomatoes, potatoes）。搭配：play dominoes / a game of dominoes。
+- **stay in / stay over / skip** — 去留三词。stay in 是待在家里；stay over 是过夜留宿：You can stay over tonight. skip 是跳过、不去：Let's skip the movie.
 
-- **whenever / whichever / whoever** — 三个"无论"词。whenever = 无论何时：Come whenever you want. whichever = 无论哪个：Whichever place you pick is fine. whoever = 无论谁：Whoever wants to come is welcome. 它们比 when / which / who 多一层"无所谓、都可以"的开放感。
+- **whenever / whichever / whoever** — 让步三词。Whenever you're free.（你什么时候有空都行。）Whichever you prefer.（你喜欢哪个都行。）Whoever wins pays.（谁赢谁付钱。）-ever 后缀表示"无论…"。
 
-- **whose turn** — 轮到谁了。搭配：Whose turn is it? / It's your turn. / whose turn to play。game night 中的高频句：Whose turn is it to roll the dice? 注意 whose 是所有格"谁的"，不是 who's（who is）。
+- **however / if we went** — 转折与假设。however 是"然而"，常放句首用逗号隔开；if we went 引出与现在相反的假设：If we went bowling, we'd have fun.（虚拟语气。）
 
-- **stay in / stay over** — stay in 是"待在家里（不出门）"：Let's stay in tonight. stay over 是"在别人家过夜"：You can stay over at my place. 注意区分：stay in 的反义是 go out；stay over 强调的是过夜，不只是待着。
-
-- **skip** — 跳过、不去。搭配：skip a meal / skip class / skip bowling tonight。例句：I'm tired—let's skip the movie and just stay in. 比 not go to 更简洁有力。口语中极常用。
-
-- **salty** — 咸的。形容词，名词是 salt。搭配：salty french fries / too salty / salty snacks。注意 salty 在口语中还有比喻义"不爽的、生气的"：He's still salty about losing the game. 但本单元中是字面意思。
-
-- **french fries** — 薯条（美式）。英式叫 chips。搭配：a side of french fries / curly french fries / loaded french fries。注意 french 在这里不大写（已经通用化），但正式写作中有时仍写 French fries。
-
-- **it's your choice / in mind** — it's your choice = 你来决定、你说了算。比 you decide 更强调尊重对方意愿。in mind = 心里想的、心目中的：Do you have a specific place in mind? / I have something in mind. 搭配：bear in mind（记住）、keep in mind（留意）。
-
-- **however** — 这里不是"然而"，而是"无论多么"：However salty the fries are, I'll eat them. 等于 no matter how。注意和表转折的 however 区分：I like bowling; however, I'm not good at it.（然而）。
+- **record / place / wants to** — 杂项三词。record 是唱片/记录：play a record。place 是地方：a good place to eat。wants to 是第三人称单数：He wants to stay in.
 
 ## 练习
 
@@ -63,176 +54,189 @@ bite to eat, dominoes, fond of, french fries, game night, go bowling, go for, ho
 
 <quiz-sentence-builder>
 
-1. **中文**：我今晚更想待在家里，而不是出去人挤人。
-   **英文**：I would rather stay home tonight than go out to a crowded place.
-   > **解析**：rather (would rather) 意为宁愿、更想。
+1. **中文**：你心里有什么想法吗？
+   **英文**：Do you have anything in mind?
+   > **解析**：一般疑问句 Do 开头；have something in mind 是固定短语，疑问句中 something 变 anything。
 
-2. **中文**：我们去买点披萨当晚饭吧，你觉得怎么样？
-   **英文**：Let's go for some pizza for dinner, what do you think?
-   > **解析**：go for 意为选择、想要。
+2. **中文**：我宁愿待在家里。
+   **英文**：I'd rather stay in.
+   > **解析**：would rather 后接动词原形 stay；stay in 是固定短语"待在家"。
 
-3. **中文**：我非常喜欢和朋友们一起参加周五桌游之夜。
-   **英文**：I am very fond of joining Friday game night with my friends.
-   > **解析**：fond of 意为喜爱、喜欢。
+3. **中文**：我喜欢游戏之夜。
+   **英文**：I'm fond of game nights.
+   > **解析**：be fond of 后接名词；game nights 用复数表泛指。
 
-4. **中文**：我们在去看电影之前先随便吃点东西吧。
-   **英文**：Let's grab a quick bite to eat before we watch the movie.
-   > **解析**：bite to eat 意为随便吃点东西。
+4. **中文**：我们去打保龄球吧。
+   **英文**：Let's go bowling.
+   > **解析**：let's 后接动词原形；go bowling 是 go + 动名词结构表示去做活动。
 
-5. **中文**：这个周五晚上轮到我们家举办游戏之夜了。
-   **英文**：It's our turn to host game night this Friday evening.
-   > **解析**：game night 意为游戏之夜。
+5. **中文**：今晚由你决定。
+   **英文**：It's your choice tonight.
+   > **解析**：It 作主语用 is；your choice 作表语。
 
-6. **中文**：他们围坐在桌子旁玩了一整晚的多米诺骨牌。
-   **英文**：They sat around the table and played dominoes all evening.
-   > **解析**：dominoes 意为多米诺骨牌。
+6. **中文**：轮到谁了？
+   **英文**：Whose turn is it?
+   > **解析**：Whose 是疑问所有格"谁的"；turn 表示"轮次"。
 
-7. **中文**：无论你什么时候想玩游戏，随时叫我一声就行。
-   **英文**：Whenever you want to play a game, just call me.
-   > **解析**：whenever 意为无论何时。
+7. **中文**：他今晚想留下来过夜。
+   **英文**：He wants to stay over tonight.
+   > **解析**：He 是第三人称单数，want 加 s；stay over 是固定短语"留宿"。
 
-8. **中文**：无论你选择哪家餐馆，我都乐意陪你去。
-   **英文**：Whichever restaurant you choose, I am happy to go with you.
-   > **解析**：whichever 意为无论哪个。
+8. **中文**：我们随便吃点东西吧。
+   **英文**：Let's grab a bite to eat.
+   > **解析**：grab a bite to eat 是固定短语"随便吃点"；let's 后接原形 grab。
 
-9. **中文**：无论是谁输了这场比赛，都要负责洗盘子。
-   **英文**：Whoever loses this round of the game has to wash the dishes.
-   > **解析**：whoever 意为无论是谁。
+9. **中文**：薯条太咸了。
+   **英文**：The french fries are too salty.
+   > **解析**：french fries 是复数，用 are；too 修饰形容词 salty。
 
-10. **中文**：请问现在轮到谁掷骰子走下一步了？
-   **英文**：Can someone tell me whose turn it is to roll the dice next?
-   > **解析**：whose turn 意为轮到谁。
+10. **中文**：我们跳过电影吧。
+   **英文**：Let's skip the movie.
+   > **解析**：let's 后接动词原形 skip；the movie 作宾语。
 
-11. **中文**：周五晚上天气不好，我们干脆留在家里吧。
-   **英文**：The weather is terrible, so let's just stay in this Friday night.
-   > **解析**：stay in 意为待在家里。
+11. **中文**：你什么时候有空都行。
+   **英文**：Whenever works for you.
+   > **解析**：Whenever 作主语表示"任何时间"；works for you 表示"对你合适"。
 
-12. **中文**：如果太晚了，你可以今晚留在我家过夜。
-   **英文**：If it gets too late, you can stay over at my apartment tonight.
-   > **解析**：stay over 意为留宿、过夜。
+12. **中文**：你喜欢哪个都行。
+   **英文**：Whichever you prefer is fine.
+   > **解析**：Whichever 引导主语从句；is fine 是谓语。
 
-13. **中文**：我太累了，今晚想跳过保龄球局直接休息。
-   **英文**：I am too tired, so I want to skip bowling tonight and rest.
-   > **解析**：skip 意为跳过、不去。
+13. **中文**：谁赢谁付钱。
+   **英文**：Whoever wins pays.
+   > **解析**：Whoever wins 是主语从句，整体作第三人称单数；pays 加 s。
 
-14. **中文**：这些炸薯条虽然有点咸，但是味道真的很棒。
-   **英文**：These fries are a bit salty, but they taste really great.
-   > **解析**：salty 意为咸的。
+14. **中文**：放张唱片吧。
+   **英文**：Let's play a record.
+   > **解析**：let's 后接动词原形 play；a record 作宾语。
 
-15. **中文**：我点了一份汉堡和一盘热腾腾的炸薯条。
-   **英文**：I ordered a burger with a side of hot french fries.
-   > **解析**：french fries 意为薯条。
+15. **中文**：这是个吃饭的好地方。
+   **英文**：This is a good place to eat.
+   > **解析**：a good place 作表语；to eat 不定式作后置定语。
 
-16. **中文**：我们打算这周五晚上和朋友们一起去打保龄球。
-   **英文**：We are planning to go bowling with our friends this Friday.
-   > **解析**：go bowling 意为去打保龄球。
+16. **中文**：然而，我今晚很累。
+   **英文**：However, I'm pretty tired tonight.
+   > **解析**：However 作连接副词放句首，用逗号隔开；pretty 修饰 tired。
 
-17. **中文**：我都可以，由你来决定今晚我们吃什么。
-   **英文**：I don't mind at all, it's your choice what we eat tonight.
-   > **解析**：it's your choice 意为由你决定。
+17. **中文**：如果我们去打保龄球，我们会玩得很开心。
+   **英文**：If we went bowling, we'd have fun.
+   > **解析**：if + 过去式 went 表示与现在相反的假设；主句用 would have。
 
-18. **中文**：对于今晚的活动安排，你心里有什么具体的想法吗？
-   **英文**：Do you have a specific plan in mind for tonight's activity?
-   > **解析**：in mind 意为在考虑中、心里想到的。
+18. **中文**：说具体点，你想吃什么？
+   **英文**：Be specific — what do you want to eat?
+   > **解析**：Be specific 是祈使句；what 引导特殊疑问句。
 
-19. **中文**：我没有特定的喜好，任何你推荐的地方都可以。
-   **英文**：I don't have a specific preference, any place you suggest is fine.
-   > **解析**：specific 意为具体的、特定的。
+19. **中文**：你不用去。
+   **英文**：You don't have to go.
+   > **解析**：don't have to 表示"不必"；go 用原形。
 
-20. **中文**：无论这盘薯条有多咸，我都想尝尝看。
-   **英文**：However salty the french fries are, I still want a bite to eat.
-   > **解析**：however 意为无论多么（引导让步状语）。
+20. **中文**：就选保龄球吧。
+   **英文**：Let's go for bowling.
+   > **解析**：go for 是固定短语"选择"；bowling 作宾语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I would rather stay home tonight than go out to a crowded place.
-   > **中文**：我今晚更想待在家里，而不是出去人挤人。
+1. Do you have anything in mind?
+   > **中文**：你心里有什么想法吗？
 
-2. Let's go for some pizza for dinner, what do you think?
-   > **中文**：我们去买点披萨当晚饭吧，你觉得怎么样？
+2. I'd rather stay in.
+   > **中文**：我宁愿待在家里。
 
-3. I am very fond of joining Friday game night with my friends.
-   > **中文**：我非常喜欢和朋友们一起参加周五桌游之夜。
+3. I'm fond of game nights.
+   > **中文**：我喜欢游戏之夜。
 
-4. Let's grab a quick bite to eat before we watch the movie.
-   > **中文**：我们在去看电影之前先随便吃点东西吧。
+4. Let's go bowling.
+   > **中文**：我们去打保龄球吧。
 
-5. It's our turn to host game night this Friday evening.
-   > **中文**：这个周五晚上轮到我们家举办游戏之夜了。
+5. It's your choice tonight.
+   > **中文**：今晚由你决定。
 
-6. They sat around the table and played dominoes all evening.
-   > **中文**：他们围坐在桌子旁玩了一整晚的多米诺骨牌。
+6. Whose turn is it?
+   > **中文**：轮到谁了？
 
-7. Whenever you want to play a game, just call me.
-   > **中文**：无论你什么时候想玩游戏，随时叫我一声就行。
+7. He wants to stay over tonight.
+   > **中文**：他今晚想留下来过夜。
 
-8. Whichever restaurant you choose, I am happy to go with you.
-   > **中文**：无论你选择哪家餐馆，我都乐意陪你去。
+8. Let's grab a bite to eat.
+   > **中文**：我们随便吃点东西吧。
 
-9. Whoever loses this round of the game has to wash the dishes.
-   > **中文**：无论是谁输了这场比赛，都要负责洗盘子。
+9. The french fries are too salty.
+   > **中文**：薯条太咸了。
 
-10. Can someone tell me whose turn it is to roll the dice next?
-   > **中文**：请问现在轮到谁掷骰子走下一步了？
+10. Let's skip the movie.
+   > **中文**：我们跳过电影吧。
 
-11. The weather is terrible, so let's just stay in this Friday night.
-   > **中文**：周五晚上天气不好，我们干脆留在家里吧。
+11. Whenever works for you.
+   > **中文**：你什么时候有空都行。
 
-12. If it gets too late, you can stay over at my apartment tonight.
-   > **中文**：如果太晚了，你可以今晚留在我家过夜。
+12. Whichever you prefer is fine.
+   > **中文**：你喜欢哪个都行。
 
-13. I am too tired, so I want to skip bowling tonight and rest.
-   > **中文**：我太累了，今晚想跳过保龄球局直接休息。
+13. Whoever wins pays.
+   > **中文**：谁赢谁付钱。
 
-14. These fries are a bit salty, but they taste really great.
-   > **中文**：这些炸薯条虽然有点咸，但是味道真的很棒。
+14. Let's play a record.
+   > **中文**：放张唱片吧。
 
-15. I ordered a burger with a side of hot french fries.
-   > **中文**：我点了一份汉堡和一盘热腾腾的炸薯条。
+15. This is a good place to eat.
+   > **中文**：这是个吃饭的好地方。
 
-16. We are planning to go bowling with our friends this Friday.
-   > **中文**：我们打算这周五晚上和朋友们一起去打保龄球。
+16. However, I'm pretty tired tonight.
+   > **中文**：然而，我今晚很累。
 
-17. I don't mind at all, it's your choice what we eat tonight.
-   > **中文**：我都可以，由你来决定今晚我们吃什么。
+17. If we went bowling, we'd have fun.
+   > **中文**：如果我们去打保龄球，我们会玩得很开心。
 
-18. Do you have a specific plan in mind for tonight's activity?
-   > **中文**：对于今晚的活动安排，你心里有什么具体的想法吗？
+18. Be specific about the game.
+   > **中文**：关于游戏说具体点。
 
-19. I don't have a specific preference, any place you suggest is fine.
-   > **中文**：我没有特定的喜好，任何你推荐的地方都可以。
+19. You don't have to go.
+   > **中文**：你不用去。
 
-20. However salty the french fries are, I still want a bite to eat.
-   > **中文**：无论这盘薯条有多咸，我都想尝尝看。
+20. Let's go for dominoes.
+   > **中文**：就选多米诺骨牌吧。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| rather | 宁愿；更想 |
-| go for | 选择；想要 |
-| fond of | 喜爱；喜欢 |
-| bite to eat | 随便吃点东西 |
-| game night | 游戏之夜 |
+| --- | --- |
+| bite to eat | 一点吃的 |
 | dominoes | 多米诺骨牌 |
+| fond of | 喜爱 |
+| french fries | 薯条 |
+| game night | 游戏之夜 |
+| go bowling | 去打保龄球 |
+| go for | 选择 |
+| however | 然而 |
+| if we went | 如果我们去 |
+| in mind | 在心里 / 有想法 |
+| it's your choice | 由你决定 |
+| place | 地方 |
+| rather | 宁愿 |
+| record | 唱片 / 记录 |
+| salty | 咸的 |
+| skip | 跳过 |
+| specific | 具体的 |
+| stay in | 待在家 |
+| stay over | 留宿 |
+| wants to | 想要 |
 | whenever | 无论何时 |
 | whichever | 无论哪个 |
 | whoever | 无论是谁 |
 | whose turn | 轮到谁 |
-| stay in | 待在家里 |
-| stay over | 留宿；过夜 |
-| skip | 跳过；不去 |
-| salty | 咸的 |
-| french fries | 薯条 |
-| go bowling | 去打保龄球 |
-| it's your choice | 由你决定；你来选 |
-| in mind | 心里想到的；在考虑的 |
-| specific | 具体的；特定的 |
-| however | 无论多么；然而 |
+| you don't | 你不… |
+| is | 是 |
+| the | 这个（定冠词） |
+| movie | 电影 |
+| game | 游戏 |
+| tonight | 今晚 |
+| fun | 乐趣 |
+| tired | 累的 |
+| fine | 好的 |
 
 </quiz-matching>
 
@@ -240,202 +244,202 @@ bite to eat, dominoes, fond of, french fries, game night, go bowling, go for, ho
 
 ### 1
 
-I would ____ stay home tonight than go out to a crowded place.
+Do you have anything in ____?
 
-- [x] rather
-- [ ] bite to eat
-- [ ] dominoes
+- [x] mind
+- [ ] place
+- [ ] turn
 
-> **解析**：**rather** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：have something in mind 是固定短语；place 和 turn 不合该搭配。
 
 ### 2
 
-Let's go for some pizza for ____, what do you think?
+I'd rather ____ in.
 
-- [x] dinner
-- [ ] bite to eat
-- [ ] dominoes
+- [x] stay
+- [ ] staying
+- [ ] stayed
 
-> **解析**：**dinner** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：would rather 后接动词原形 stay；staying 和 stayed 不合该结构。
 
 ### 3
 
-I am very fond of ____ Friday game night with my friends.
+I'm fond ____ game nights.
 
-- [x] joining
-- [ ] bite to eat
-- [ ] dominoes
+- [x] of
+- [ ] for
+- [ ] with
 
-> **解析**：**joining** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：be fond of 是固定搭配；for 和 with 不合。
 
 ### 4
 
-Let's grab a quick bite to eat ____ we watch the movie.
+Let's go ____.
 
-- [x] before
-- [ ] bite to eat
-- [ ] dominoes
+- [x] bowling
+- [ ] bowl
+- [ ] bowled
 
-> **解析**：**before** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：go bowling 是 go + 动名词结构；bowl 和 bowled 不合该结构。
 
 ### 5
 
-It's our turn to host game night this Friday ____.
+It's your ____ tonight.
 
-- [x] evening
-- [ ] bite to eat
-- [ ] dominoes
+- [x] choice
+- [ ] turn to
+- [ ] record
 
-> **解析**：**evening** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：It's your choice（由你决定）是固定说法；record 不合语境。
 
 ### 6
 
-They sat around the table and played ____ all evening.
+Whose ____ is it?
 
-- [x] dominoes
-- [ ] bite to eat
-- [ ] fond of
+- [x] turn
+- [ ] place
+- [ ] skip
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **dominoes**。
+> **解析**：Whose turn（轮到谁）是固定搭配；place 和 skip 不合。
 
 ### 7
 
-____ you want to play a game, just call me.
+He wants to ____ over tonight.
 
-- [x] Whenever
-- [ ] bite to eat
-- [ ] dominoes
+- [x] stay
+- [ ] skip
+- [ ] salty
 
-> **解析**：**Whenever** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：stay over 是固定短语"留宿"；skip 和 salty 不合。
 
 ### 8
 
-____ restaurant you choose, I am happy to go with you.
+Let's grab a bite to ____.
 
-- [x] Whichever
-- [ ] bite to eat
-- [ ] dominoes
+- [x] eat
+- [ ] ate
+- [ ] eating
 
-> **解析**：**Whichever** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：a bite to eat 是固定短语，to 后接原形 eat；ate 和 eating 不合。
 
 ### 9
 
-____ loses this round of the game has to wash the dishes.
+The french fries are too ____.
 
-- [x] Whoever
-- [ ] bite to eat
-- [ ] dominoes
+- [x] salty
+- [ ] salt
+- [ ] specific
 
-> **解析**：**Whoever** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：are 后需要形容词 salty；salt 是名词，specific 语义不合。
 
 ### 10
 
-Can ____ tell me whose turn it is to roll the dice next?
+Let's ____ the movie.
 
-- [x] someone
-- [ ] bite to eat
-- [ ] dominoes
+- [x] skip
+- [ ] stay
+- [ ] fond
 
-> **解析**：**someone** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：skip the movie（跳过电影）成立；stay 和 fond 不合。
 
 ### 11
 
-The weather is ____, so let's just stay in this Friday night.
+____ works for you.
 
-- [x] terrible
-- [ ] bite to eat
-- [ ] dominoes
+- [x] Whenever
+- [ ] Whose
+- [ ] Wants
 
-> **解析**：**terrible** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Whenever 作主语表示"任何时间"；Whose 需要接名词，Wants 不合。
 
 ### 12
 
-If it gets too late, you can stay over at my ____ tonight.
+____ you prefer is fine.
 
-- [x] apartment
-- [ ] bite to eat
-- [ ] dominoes
+- [x] Whichever
+- [ ] However
+- [ ] Whoever
 
-> **解析**：**apartment** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：指物选择用 Whichever；However 是转折副词，Whoever 指人。
 
 ### 13
 
-I am too tired, so I want to ____ bowling tonight and rest.
+____ wins pays.
 
-- [x] skip
-- [ ] bite to eat
-- [ ] dominoes
+- [x] Whoever
+- [ ] Whichever
+- [ ] Whenever
 
-> **解析**：**skip** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：指人的主语从句用 Whoever；Whichever 指物，Whenever 指时间。
 
 ### 14
 
-These fries are a bit ____, but they taste really great.
+Let's play a ____.
 
-- [x] salty
-- [ ] bite to eat
-- [ ] dominoes
+- [x] record
+- [ ] place
+- [ ] salty
 
-> **解析**：**salty** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：play a record（放唱片）是固定搭配；place 和 salty 不合。
 
 ### 15
 
-I ____ a burger with a side of hot french fries.
+This is a good ____ to eat.
 
-- [x] ordered
-- [ ] bite to eat
+- [x] place
+- [ ] choice
 - [ ] dominoes
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **ordered**。
+> **解析**：吃饭的地点用 place；choice 和 dominoes 不合。
 
 ### 16
 
-We are ____ to go bowling with our friends this Friday.
+____, I'm pretty tired tonight.
 
-- [x] planning
-- [ ] bite to eat
-- [ ] dominoes
+- [x] However
+- [ ] Whoever
+- [ ] Whose
 
-> **解析**：**planning** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：表示转折用 However；Whoever 和 Whose 不合句首转折位置。
 
 ### 17
 
-I don't mind at all, it's your choice what we eat ____.
+If we ____ bowling, we'd have fun.
 
-- [x] tonight
-- [ ] bite to eat
-- [ ] dominoes
+- [x] went
+- [ ] go
+- [ ] going
 
-> **解析**：**tonight** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：虚拟条件句用过去式 went；go 和 going 不合该结构。
 
 ### 18
 
-Do you have a ____ plan in mind for tonight's activity?
+Be ____ about the game.
 
 - [x] specific
-- [ ] bite to eat
-- [ ] dominoes
+- [ ] specifically
+- [ ] salty
 
-> **解析**：**specific** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Be 后需要形容词 specific；specifically 是副词，salty 语义不合。
 
 ### 19
 
-I don't have a ____ preference, any place you suggest is fine.
+You don't ____ to go.
 
-- [x] specific
-- [ ] bite to eat
-- [ ] dominoes
+- [x] have
+- [ ] has
+- [ ] having
 
-> **解析**：**specific** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：don't 后接动词原形 have；has 和 having 不合。
 
 ### 20
 
-____ salty the french fries are, I still want a bite to eat.
+Let's go ____ dominoes.
 
-- [x] However
-- [ ] bite to eat
-- [ ] dominoes
+- [x] for
+- [ ] to
+- [ ] of
 
-> **解析**：**However** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：go for 是固定短语"选择"；to 和 of 不合该搭配。
 
 </quiz-cloze>

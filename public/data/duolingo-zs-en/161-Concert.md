@@ -10,40 +10,33 @@ admission, back row, balcony, beautifully, country, did, didn't, do, does, doesn
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"分享你的音乐偏好"展开，以演唱会为场景。核心是音乐和演出表达：I love hard rock—my favorite guitarist played beautifully last night.（我喜欢硬摇滚——我最喜欢的吉他手昨晚弹得太美了。）、Did you get tickets in advance? The admission was expensive but unforgettable.（你提前买票了吗？门票很贵但令人难忘。）、She sang a country hit from the upper level balcony.（她从上层阳台唱了一首乡村热门歌曲。）、The enormous crowd had fun singing along in the back row.（巨大的人群在后排开心地跟着唱。）。
+本单元的主题是"聊音乐喜好、看演唱会"。词表分成三组：助动词家族（do, does, did, don't, doesn't, didn't）、音乐词汇（country, hard rock, hit, guitarist, sing, sung, play）、以及场馆与票务（admission, back row, balcony, section, upper level, in advance, out, enormous, historic, unforgettable, beautifully, have fun）。组合起来就是演唱会前后的完整对话：Do you like country music? The show is sold out! Buy tickets in advance.
 
-词表里有音乐词汇（guitarist, hard rock, country, hit, sing → sung）和场地词汇（balcony, back row, upper level, section）。你可以练习：The band plays tonight. / Does she sing? / I don't like this song. / Buy tickets in advance.
+语法主线是助动词系统。肯定陈述句一般不需要助动词，但强调时可以用：I do like country music. 否定和疑问则必须借助 do/does/did：She doesn't like hard rock. Did you have fun? 注意三单用 does，过去用 did，且助动词后动词恢复原形。另一条主线是 sing 的三态：sing—sang—sung，sung 与 have 连用：She has sung that song before.
 
-sing → sang → sung。do/does/did 构成疑问和否定。
+学完本单元，你能自如地询问和表达音乐偏好、描述演唱会场馆与体验，并正确使用一般现在时和一般过去时的疑问与否定。
 
 ## Tips
 
-- **guitarist / hard rock / country** — 吉他手 / 硬摇滚 / 乡村音乐。搭配：a lead guitarist, a hard rock band, country music。例句：The guitarist was amazing. / I love hard rock. / She listens to country music. 注意 guitarist = guitar + ist（演奏者后缀）。
+- **do / does / don't / doesn't** — 一般现在时的助动词。I/you/we/they 用 do 和 don't；he/she/it 用 does 和 doesn't。助动词后的动词用原形：✗ She doesn't likes → ✓ She doesn't like. do 本身也是实义动词"做"。
 
-- **sing / sung / play** — 唱 / 唱过 / 演奏。搭配：sing a song, have sung, play the guitar。例句：She sings beautifully. / He's sung that song before. / The band played all night. 注意 sing → sang → sung。
+- **did / didn't** — 一般过去时的助动词，所有人称通用：Did you have fun? I didn't buy the tickets. 同样，did 后动词用原形：✗ Did you went → ✓ Did you go.
 
-- **admission / in advance / hit** — 入场费 / 提前 / 热门歌曲。搭配：admission fee, buy in advance, a hit song。例句：Admission is $50. / Book in advance. / That song was a huge hit. 注意 in advance = beforehand。
+- **sing / sung / play / guitarist** — sing 的三态是 sing—sang—sung：She has sung that song before. play 表示"演奏"：play the guitar. guitarist 是"吉他手"，guitar + -ist（表示从事的人，类似 pianist）。
 
-- **balcony / back row / upper level** — 阳台 / 后排 / 上层。搭配：in the balcony, in the back row, the upper level。例句：We sat in the balcony. / The back row is cheap. / The upper level has a great view. 注意这些是演出场地座位区域。
+- **country / hard rock / hit** — 音乐类型词。country 指"乡村音乐"（country music 的简称）。hard rock 是"硬摇滚"。hit 作名词是"热门歌曲"：That song was a big hit.
 
-- **enormous / unforgettable / beautifully** — 巨大的 / 难忘的 / 优美地。搭配：an enormous crowd, an unforgettable night, sing beautifully。例句：The stage was enormous. / It was an unforgettable concert. / She sang beautifully. 注意 enormous = very big。
+- **admission / in advance / out** — admission 是"入场费、准入"：The admission is free. in advance 是"提前"：Buy tickets in advance. out 与 sold 搭配成 sold out（售罄）：The show is sold out.
 
-- **have fun / section / historic** — 玩得开心 / 区域 / 历史性的。搭配：have fun, a VIP section, a historic venue。例句：We had fun at the concert. / We're in section B. / It's a historic theater. 注意 have fun + doing。
+- **back row / balcony / section / upper level** — 场馆位置词。back row 是"最后一排"，balcony 是"二楼看台"，section 是"分区"，upper level 是"上层"：Our section is near the stage.
 
-- **do / does / did / didn't** — 做 / 做（三单）/ 做了 / 没做。搭配：Do you like...? / Does she play...? / Did you go? / I didn't see。例句：Do you like rock? / Does he play guitar? / Did you enjoy it? / I didn't hear the song. 注意助动词后接动词原形。
+- **enormous / historic / unforgettable** — 三个高级形容词。enormous 是"巨大的"，比 big 强烈。historic 是"有历史意义的"（注意与 historical"历史上的"区分）。unforgettable 由 un- + forget + -able 构成，"难忘的"。
 
-- **don't / doesn't / out** — 不 / 不（三单）/ 外面。搭配：don't like, doesn't play, sold out。例句：I don't like country. / She doesn't sing rock. / The tickets are sold out. 注意 sold out = 售罄。
+- **beautifully** — 副词，修饰动词：She sings beautifully. 形容词 beautiful 修饰名词。注意 ✗ She sings beautiful → ✓ She sings beautifully。
 
-- **country / hit / play** — 乡村 / 热门 / 演奏。搭配：country music, a number-one hit, play live。例句：Country is popular in the South. / It was a massive hit. / They play live every Friday. 注意 hit 指"热门歌曲/电影"。
-
-- **beautifully / sung / unforgettable** — 优美地 / 唱过 / 难忘。搭配：sing beautifully, have sung, truly unforgettable。例句：The choir sang beautifully. / She's sung on stage before. / The night was unforgettable. 注意 beautifully 修饰动词。
-
-- **admission / in advance / enormous** — 门票 / 提前 / 巨大。搭配：free admission, plan in advance, an enormous stage。例句：Admission is free for kids. / Buy tickets in advance. / The screen was enormous. 注意 admission 可指"准入"也可指"入场费"。
-
-- **balcony / section / upper level** — 阳台 / 区 / 上层。搭配：a balcony seat, section A, the upper level。例句：We got balcony seats. / Our section is near the stage. / The upper level is quieter. 注意这些帮助描述演唱会座位。
+- **have fun** — "玩得开心"：Did you have fun? fun 是不可数名词，不说 ✗ a fun。
 
 ## 练习
 
@@ -61,149 +54,149 @@ sing → sang → sung。do/does/did 构成疑问和否定。
 
 <quiz-sentence-builder>
 
-1. **中文**：如果你提前买票，门票会便宜得多。
-   **英文**：Admission is much cheaper if you buy tickets in advance.
-   > **解析**：admission 表示“门票/入场费”；in advance 意为“提前”。
+1. **中文**：我确实喜欢乡村音乐。
+   **英文**：I do like country music.
+   > **解析**：do 在这里加强语气，表示"确实"；like 用原形。
 
-2. **中文**：我们在后排找了座位，因为前排全满了。
-   **英文**：We found seats in the back row because the front was full.
-   > **解析**：back row 表示“后排”；front 表示“前排”。
+2. **中文**：她不喜欢硬摇滚。
+   **英文**：She doesn't like hard rock.
+   > **解析**：she 是三单主语，否定用 doesn't；like 恢复原形。
 
-3. **中文**：站在看台上看整个演唱会舞台视野极佳。
-   **英文**：Sitting in the balcony offers a great view of the concert stage.
-   > **解析**：balcony 表示“看台/阳台”；stage 意为“舞台”。
+3. **中文**：你昨晚玩得开心吗？
+   **英文**：Did you have fun last night?
+   > **解析**：过去时疑问句用 did 开头；have 用原形，have fun 是固定搭配。
 
-4. **中文**：主唱在演出现场优美地演唱了那首经典歌曲。
-   **英文**：The lead singer sang that classic song beautifully live on stage.
-   > **解析**：beautifully 表示“优美地/精彩地”；sang 为 sing 的过去式。
+4. **中文**：我没买票。
+   **英文**：I didn't buy the tickets.
+   > **解析**：didn't 后接动词原形 buy；tickets 用复数。
 
-5. **中文**：我爷爷非常喜欢听乡村音乐和民间吉他演奏。
-   **英文**：My grandfather loves listening to country music and acoustic guitar.
-   > **解析**：country 表示“乡村音乐”；acoustic 意为“原声的”。
+5. **中文**：他吉他弹得很美。
+   **英文**：He plays the guitar beautifully.
+   > **解析**：beautifully 是副词，修饰 plays；he 是三单，play 加 s。
 
-6. **中文**：那个巨大的体育馆今晚能容纳五万名歌迷。
-   **英文**：The enormous stadium can hold fifty thousand music fans tonight.
-   > **解析**：enormous 表示“巨大的/庞大的”；stadium 意为“体育馆”。
+6. **中文**：那首歌她唱过很多次了。
+   **英文**：She has sung that song many times.
+   > **解析**：has + sung 构成现在完成时；sung 是 sing 的过去分词。
 
-7. **中文**：那位有才华的吉他手演奏了一段精彩的独奏。
-   **英文**：The talented guitarist played a solo during the rock concert.
-   > **解析**：guitarist 表示“吉他手”；solo 意为“独奏”。
+7. **中文**：吉他手演奏了一首热门歌曲。
+   **英文**：The guitarist played a hit song.
+   > **解析**：played 是过去式；hit 作定语修饰 song，表示"热门的"。
 
-8. **中文**：他们年轻时都非常喜欢听重摇滚音乐。
-   **英文**：They enjoyed listening to hard rock music when they were young.
-   > **解析**：hard rock 表示“重摇滚”；enjoyed 意为“喜爱”。
+8. **中文**：提前买票。
+   **英文**：Buy your tickets in advance.
+   > **解析**：祈使句以动词原形开头；in advance 是"提前"的固定短语。
 
-9. **中文**：今晚在音乐节上大家一定要玩得开心！
-   **英文**：Make sure to have fun at the music festival tonight!
-   > **解析**：have fun 表示“玩得开心/过得愉快”。
+9. **中文**：演出售罄了。
+   **英文**：The show is sold out.
+   > **解析**：sold out 表示"售罄"；is 构成被动式状态。
 
-10. **中文**：乐队在市中心的一座历史悠久的剧院里演出。
-   **英文**：The band performed in a historic theater located downtown.
-   > **解析**：historic 表示“历史悠久的/有历史意义的”。
+10. **中文**：入场是免费的。
+   **英文**：The admission is free.
+   > **解析**：admission 作主语；free 作表语。
 
-11. **中文**：他们的新单曲在上周登上了音乐榜单的榜首，成为了轰动大金曲。
-   **英文**：Their new single became a hit on the music charts last week.
-   > **解析**：hit 表示“热门歌曲/轰动”；music charts 意为“音乐榜单”。
+11. **中文**：我们坐在最后一排。
+   **英文**：We sat in the back row.
+   > **解析**：sat 是 sit 的过去式；in the back row 是位置状语。
 
-12. **中文**：强烈建议提前预订演唱会门票。
-   **英文**：It is strongly recommended to book concert tickets in advance.
-   > **解析**：in advance 表示“提前/预先”；recommended 意为“推荐”。
+12. **中文**：二楼看台的座位很便宜。
+   **英文**：The balcony seats are cheap.
+   > **解析**：balcony 修饰 seats；seats 复数搭配 are。
 
-13. **中文**：我们的座位位于舞台正前方那片最热闹的区域。
-   **英文**：Our seats are located in the center section near the stage.
-   > **解析**：section 表示“区域/板块”；located 意为“位于”。
+13. **中文**：我们的分区靠近舞台。
+   **英文**：Our section is near the stage.
+   > **解析**：section 作主语；near the stage 是地点状语。
 
-14. **中文**：那是全场观众一起合唱过的最难忘的歌曲。
-   **英文**：That was the most famous anthem sung by the crowd.
-   > **解析**：sung 是 sing 的过去分词；anthem 意为“赞歌/名曲”。
+14. **中文**：上层很安静。
+   **英文**：The upper level is quiet.
+   > **解析**：upper level 作主语，搭配 is；quiet 作表语。
 
-15. **中文**：昨晚的现场灯光秀是一场难忘的体验。
-   **英文**：The live light show last night was an unforgettable experience.
-   > **解析**：unforgettable 表示“难忘的”；experience 意为“体验”。
+15. **中文**：这个大厅巨大。
+   **英文**：The hall is enormous.
+   > **解析**：enormous 作表语，表示"巨大的"。
 
-16. **中文**：上层看台的门票价格比VIP区便宜很多。
-   **英文**：Tickets for the upper level are much cheaper than VIP seats.
-   > **解析**：upper level 表示“上层看台”；VIP seats 意为“贵宾席”。
+16. **中文**：这是一座有历史意义的剧院。
+   **英文**：This is a historic theater.
+   > **解析**：historic 修饰 theater；a 用于可数名词单数前。
 
-17. **中文**：主唱登台前，音乐家们正在弹奏自己的乐器。
-   **英文**：The musicians play their instruments before the singer comes out.
-   > **解析**：play 表示“演奏/弹奏”；instruments 意为“乐器”。
+17. **中文**：那场演唱会令人难忘。
+   **英文**：The concert was unforgettable.
+   > **解析**：was 是 is 的过去式；unforgettable 作表语。
 
-18. **中文**：全场歌迷跟着最喜欢的摇滚乐队一起唱歌。
-   **英文**：Fans love to sing along with their favorite rock band.
-   > **解析**：sing along with 表示“跟着……一起唱歌”。
+18. **中文**：你演奏什么乐器吗？
+   **英文**：Do you play any instruments?
+   > **解析**：一般现在时疑问句用 do 开头；play 用原形。
 
-19. **中文**：他们最终买到那场热门演唱会的门票了吗？
-   **英文**：Did they manage to get tickets for the sold-out show?
-   > **解析**：did 为助动词过去式；manage to 意为“成功做到”。
+19. **中文**：她唱乡村歌曲。
+   **英文**：She sings country songs.
+   > **解析**：she 是三单主语，sing 加 s；country 修饰 songs。
 
-20. **中文**：她昨晚没有参加演唱会，因为她生病了。
-   **英文**：She didn't attend the concert last night because she was sick.
-   > **解析**：didn't 即 did not，表示否定过去式。
+20. **中文**：他喜欢硬摇滚吗？
+   **英文**：Does he like hard rock?
+   > **解析**：he 是三单，疑问句用 does 开头；like 用原形。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Admission is much cheaper if you buy tickets in advance.
-   > **中文**：如果你提前买票，门票会便宜得多。
+1. Do you like country music?
+   > **中文**：你喜欢乡村音乐吗？
 
-2. We found seats in the back row because the front was full.
-   > **中文**：我们在后排找了座位，因为前排全满了。
+2. She doesn't like hard rock.
+   > **中文**：她不喜欢硬摇滚。
 
-3. Sitting in the balcony offers a great view of the concert stage.
-   > **中文**：站在看台上看整个演唱会舞台视野极佳。
+3. Did you have fun at the concert?
+   > **中文**：你在演唱会上玩得开心吗？
 
-4. The lead singer sang that classic song beautifully live on stage.
-   > **中文**：主唱在演出现场优美地演唱了那首经典歌曲。
+4. I didn't hear you.
+   > **中文**：我没听见你说话。
 
-5. My grandfather loves listening to country music and acoustic guitar.
-   > **中文**：我爷爷非常喜欢听乡村音乐和民间吉他演奏。
+5. He plays the guitar beautifully.
+   > **中文**：他吉他弹得很美。
 
-6. The enormous stadium can hold fifty thousand music fans tonight.
-   > **中文**：那个巨大的体育馆今晚能容纳五万名歌迷。
+6. She has sung that song before.
+   > **中文**：她以前唱过那首歌。
 
-7. The talented guitarist played a solo during the rock concert.
-   > **中文**：那位有才华的吉他手演奏了一段精彩的独奏。
+7. The guitarist was amazing.
+   > **中文**：那位吉他手太棒了。
 
-8. They enjoyed listening to hard rock music when they were young.
-   > **中文**：他们年轻时都非常喜欢听重摇滚音乐。
+8. Buy tickets in advance.
+   > **中文**：提前买票。
 
-9. Make sure to have fun at the music festival tonight!
-   > **中文**：今晚在音乐节上大家一定要玩得开心！
+9. The concert is sold out.
+   > **中文**：演唱会售罄了。
 
-10. The band performed in a historic theater located downtown.
-   > **中文**：乐队在市中心的一座历史悠久的剧院里演出。
+10. Admission is ten dollars.
+   > **中文**：入场费十美元。
 
-11. Their new single became a hit on the music charts last week.
-   > **中文**：他们的新单曲在上周登上了音乐榜单的榜首，成为了轰动大金曲。
+11. We are in the back row.
+   > **中文**：我们在最后一排。
 
-12. It is strongly recommended to book concert tickets in advance.
-   > **中文**：强烈建议提前预订演唱会门票。
+12. The balcony view is great.
+   > **中文**：二楼看台的视野很棒。
 
-13. Our seats are located in the center section near the stage.
-   > **中文**：我们的座位位于舞台正前方那片最热闹的区域。
+13. This section is full.
+   > **中文**：这个分区满了。
 
-14. That was the most famous anthem sung by the crowd.
-   > **中文**：那是全场观众一起合唱过的最难忘的歌曲。
+14. Seats on the upper level are cheap.
+   > **中文**：上层的座位很便宜。
 
-15. The live light show last night was an unforgettable experience.
-   > **中文**：昨晚的现场灯光秀是一场难忘的体验。
+15. The crowd was enormous.
+   > **中文**：人群非常庞大。
 
-16. Tickets for the upper level are much cheaper than VIP seats.
-   > **中文**：上层看台的门票价格比VIP区便宜很多。
+16. This is a historic night.
+   > **中文**：这是一个有历史意义的夜晚。
 
-17. The musicians play their instruments before the singer comes out.
-   > **中文**：主唱登台前，音乐家们正在弹奏自己的乐器。
+17. It was an unforgettable show.
+   > **中文**：那是一场令人难忘的演出。
 
-18. Fans love to sing along with their favorite rock band.
-   > **中文**：全场歌迷跟着最喜欢的摇滚乐队一起唱歌。
+18. Do you play the piano?
+   > **中文**：你弹钢琴吗？
 
-19. Did they manage to get tickets for the sold-out show?
-   > **中文**：他们最终买到那场热门演唱会的门票了吗？
+19. She sings beautifully.
+   > **中文**：她唱得很美。
 
-20. She didn't attend the concert last night because she was sick.
-   > **中文**：她昨晚没有参加演唱会，因为她生病了。
+20. Does the band play tonight?
+   > **中文**：乐队今晚演出吗？
 
 </quiz-listening>
 
@@ -211,26 +204,46 @@ sing → sang → sung。do/does/did 构成疑问和否定。
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| admission | 门票 / 入场费 |
-| back row | 后排 |
-| balcony | 看台 / 阳台 |
-| beautifully | 优美地 / 精彩地 |
-| country | 乡村音乐 |
-| enormous | 巨大的 / 庞大的 |
+| admission | 入场费 / 准入 |
+| back row | 最后一排 |
+| balcony | 二楼看台 |
+| beautifully | 美妙地 |
+| country | 乡村（音乐） |
+| did | （过去时助动词） |
+| didn't | 没有（过去否定） |
+| do | 做 / 助动词 |
+| does | （三单助动词） |
+| doesn't | 不（三单否定） |
+| don't | 不（否定） |
+| enormous | 巨大的 |
 | guitarist | 吉他手 |
-| hard rock | 重摇滚 |
+| hard rock | 硬摇滚 |
 | have fun | 玩得开心 |
-| historic | 历史悠久的 |
-| hit | 热门歌曲 / 轰动 |
-| in advance | 提前 / 预先 |
-| section | 区域 / 板块 |
-| sung | 演唱（sing的过去分词） |
+| historic | 有历史意义的 |
+| hit | 热门歌曲 |
+| in advance | 提前 |
+| out | 出去 / 售罄（sold out） |
+| play | 演奏 / 播放 |
+| section | 分区 |
+| sing | 唱 |
+| sung | 唱（过去分词） |
 | unforgettable | 难忘的 |
-| upper level | 上层看台 |
-| play | 演奏 / 弹奏 |
-| sing | 唱歌 |
-| did | 做了（助动词） |
-| didn't | 没有（did not） |
+| upper level | 上层 |
+| is | 是（单数） |
+| was | 是（过去式） |
+| are | 是（复数） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| you | 你 |
+| he | 他 |
+| she | 她 |
+| I | 我 |
+| we | 我们 |
+| like | 喜欢 |
+| music | 音乐 |
+| tickets | 票 |
+| sold | 卖（过去分词） |
+| tonight | 今晚 |
 
 </quiz-matching>
 
@@ -238,202 +251,202 @@ sing → sang → sung。do/does/did 构成疑问和否定。
 
 ### 1
 
-____ is much cheaper if you buy tickets in advance.
+____ you play the guitar every day?
 
-- [x] Admission
-- [ ] back row
-- [ ] balcony
+- [x] Do
+- [ ] Does
+- [ ] Sung
 
-> **解析**：**Admission** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 you 搭配 do；does 用于三单，sung 是过去分词不能开头提问。
 
 ### 2
 
-We found seats in the back row ____ the front was full.
+She ____ like hard rock now.
 
-- [x] because
-- [ ] admission
-- [ ] back row
+- [x] doesn't
+- [ ] don't
+- [ ] did
 
-> **解析**：**because** 为从属连词，引出原因状语从句，表示“因为”。
+> **解析**：she 是三单主语，现在时否定用 doesn't；now 排除过去时 did。
 
 ### 3
 
-Sitting in the ____ offers a great view of the concert stage.
+____ you have fun last night?
 
-- [x] balcony
-- [ ] admission
-- [ ] back row
+- [x] Did
+- [ ] Do
+- [ ] Does
 
-> **解析**：**balcony** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：last night 提示过去时，用 did；do 和 does 用于现在时。
 
 ### 4
 
-The lead singer sang that classic song ____ live on stage.
+I ____ buy the tickets yesterday.
 
-- [x] beautifully
-- [ ] admission
-- [ ] back row
+- [x] didn't
+- [ ] don't
+- [ ] doesn't
 
-> **解析**：**beautifully** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 提示过去时否定，用 didn't；don't 和 doesn't 用于现在时。
 
 ### 5
 
-My grandfather loves listening to ____ music and acoustic guitar.
+He plays the guitar ____.
 
-- [x] country
-- [ ] admission
-- [ ] back row
+- [x] beautifully
+- [ ] beautiful
+- [ ] beauty
 
-> **解析**：**country** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰动词 plays 需要副词 beautifully；beautiful 是形容词，beauty 是名词。
 
 ### 6
 
-The ____ stadium can hold fifty thousand music fans tonight.
+She has ____ that song before.
 
-- [x] enormous
-- [ ] admission
-- [ ] back row
+- [x] sung
+- [ ] sang
+- [ ] sing
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **enormous**。
+> **解析**：has 后需要过去分词 sung；sang 是过去式，sing 是原形。
 
 ### 7
 
-The talented ____ played a solo during the rock concert.
+The ____ played a hit song.
 
 - [x] guitarist
-- [ ] admission
-- [ ] back row
+- [ ] guitar
+- [ ] guitars
 
-> **解析**：**guitarist** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能演奏歌曲的是吉他手 guitarist；guitar 是乐器本身。
 
 ### 8
 
-They enjoyed ____ to hard rock music when they were young.
+Buy your tickets ____ advance.
 
-- [x] listening
-- [ ] admission
-- [ ] back row
+- [x] in
+- [ ] on
+- [ ] at
 
-> **解析**：**listening** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：in advance 是"提前"的固定短语；on 和 at 不构成该表达。
 
 ### 9
 
-Make sure to have fun at the music ____ tonight!
+The show is sold ____.
 
-- [x] festival
-- [ ] admission
-- [ ] back row
+- [x] out
+- [ ] up
+- [ ] off
 
-> **解析**：**festival** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：sold out 是"售罄"的固定表达；sold up 和 sold off 不是该含义。
 
 ### 10
 
-The band performed in a ____ theater located downtown.
+The ____ is twenty dollars.
 
-- [x] historic
-- [ ] admission
-- [ ] back row
+- [x] admission
+- [ ] admit
+- [ ] admits
 
-> **解析**：**historic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：入场费用名词 admission；admit 和 admits 是动词形式。
 
 ### 11
 
-Their new single became a ____ on the music charts last week.
+We sat in the back ____.
 
-- [x] hit
-- [ ] admission
-- [ ] back row
+- [x] row
+- [ ] rock
+- [ ] song
 
-> **解析**：**hit** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：back row 是"最后一排"；rock 和 song 不构成该表达。
 
 ### 12
 
-It is strongly ____ to book concert tickets in advance.
+The ____ seats have a great view.
 
-- [x] recommended
-- [ ] admission
-- [ ] back row
+- [x] balcony
+- [ ] section
+- [ ] hit
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **recommended**。
+> **解析**：balcony seats（二楼看台座位）视野好；section 和 hit 不能这样修饰 seats。
 
 ### 13
 
-Our seats are located in the center ____ near the stage.
+Our ____ is near the stage.
 
 - [x] section
 - [ ] admission
-- [ ] back row
+- [ ] out
 
-> **解析**：**section** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：靠近舞台的是分区 section；admission 是入场费，out 是副词。
 
 ### 14
 
-That was the most famous anthem ____ by the crowd.
+The tickets on the upper ____ are cheap.
 
-- [x] sung
-- [ ] admission
-- [ ] back row
+- [x] level
+- [ ] row
+- [ ] sung
 
-> **解析**：**sung** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：upper level 是"上层"的固定搭配；sung 是过去分词，不能作名词。
 
 ### 15
 
-The live light show last night was an ____ experience.
+The hall was ____; it held ten thousand people.
 
-- [x] unforgettable
-- [ ] admission
-- [ ] back row
+- [x] enormous
+- [ ] historic
+- [ ] beautifully
 
-> **解析**：**unforgettable** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能容纳一万人说明 enormous（巨大的）；historic 与容量无关，beautifully 是副词。
 
 ### 16
 
-____ for the upper level are much cheaper than VIP seats.
+This is a ____ theater.
 
-- [x] Tickets
-- [ ] admission
-- [ ] back row
+- [x] historic
+- [ ] history
+- [ ] historically
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Tickets**。
+> **解析**：名词前需要形容词 historic；history 是名词，historically 是副词。
 
 ### 17
 
-The musicians ____ their instruments before the singer comes out.
+The night was ____.
 
-- [x] play
-- [ ] admission
-- [ ] back row
+- [x] unforgettable
+- [ ] forgot
+- [ ] forget
 
-> **解析**：**play** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后需要形容词 unforgettable；forgot 和 forget 是动词。
 
 ### 18
 
-Fans love to ____ along with their favorite rock band.
+Do you ____ the piano?
 
-- [x] sing
-- [ ] admission
-- [ ] back row
+- [x] play
+- [ ] plays
+- [ ] playing
 
-> **解析**：**sing** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：do 后接动词原形 play；plays 和 playing 形式错误。
 
 ### 19
 
-____ they manage to get tickets for the sold-out show?
+She ____ country songs every day.
 
-- [x] Did
-- [ ] admission
-- [ ] back row
+- [x] sings
+- [ ] sing
+- [ ] sung
 
-> **解析**：**Did** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：she 是三单主语且 every day 提示现在时，sing 加 s。
 
 ### 20
 
-She ____ attend the concert last night because she was sick.
+That song was a big ____.
 
-- [x] didn't
+- [x] hit
 - [ ] admission
-- [ ] back row
+- [ ] back
 
-> **解析**：**didn't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：热门歌曲是 a big hit；admission 和 back 语义不符。
 
 </quiz-cloze>

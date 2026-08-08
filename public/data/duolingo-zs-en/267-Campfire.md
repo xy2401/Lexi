@@ -10,42 +10,37 @@ Bigfoot, burst into, campfire, cliffhanger, darkness, dead, dying to, edge of my
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是露营时的篝火之夜——大家围坐在 campfire 旁，烤 marshmallow、做 s'mores，然后有人开始讲 scary story。词表里既有露营和夜间森林的意象（darkness, owl, squirrel, grizzly bear），也有讲恐怖故事时的情绪表达（goosebumps, spooky, edge of my seat, racing）。你可以练习描述那种既害怕又兴奋的感觉：I'm dying to hear the rest! / My heart was racing—I was on the edge of my seat! / No sooner had I closed my eyes than I heard something outside.
+本单元的主题是"分享露营的兴奋"，场景是篝火旁讲恐怖故事。词表可以分成四组：露营元素（campfire, marshmallow, s'mores, owl, squirrel, grizzly bear）、恐怖元素（Bigfoot, werewolf, killer, scary story, spooky, dead, darkness, silently）、兴奋与反应（excited for, dying to, goosebumps, racing, burst into, edge of my seat）、以及叙事技巧（no sooner had, cliffhanger, hanging, go to sleep）。拼起来就是一段篝火夜话：I'm excited for tonight. No sooner had I started the scary story than everyone got goosebumps.
 
-从结构上看，词表里有几组值得注意的表达。dying to 和 excited for 都表示强烈的期待；no sooner had 是一个倒装结构，用来强调"刚……就……"；cliffhanger 指故事在最紧张处戛然而止。burst into 可以接 laughter、tears 等名词，表示突然爆发。这些表达放在一起，正好构成一个完整的"篝火故事"叙述链：从兴奋期待，到故事展开，到悬念收尾，再到夜里睡不着。
+语法主线是倒装句 no sooner had... than...（刚一…就…）：No sooner had I turned off the light than an owl cried. no sooner 放句首时主句要倒装，had 提到主语前，这是正式且戏剧性很强的叙事句型。另一条主线是夸张表达情绪：dying to（渴望得要死）、on the edge of my seat（紧张得坐立不安）、my heart is racing（心跳加速），这些习语正是讲鬼故事时渲染气氛的核心。
+
+学完这单元，你能用英语讲一个引人入胜的露营鬼故事：铺垫气氛、制造悬念、在关键时刻吊足听众胃口。
 
 ## Tips
 
-- **s'mores** — 美国露营经典甜点：烤棉花糖夹在两块 graham cracker 中间，再加一块巧克力。名字来自 "some more"（再来一个），因为吃了总想要更多。拼写上故意省略了字母，是口语化的写法。
+- **campfire / marshmallow / s'mores** — 篝火三件套。campfire 是篝火（camp + fire）；marshmallow 是棉花糖，烤着吃；s'mores 是美式露营甜点，两块饼干夹烤棉花糖和巧克力，名字来自 some more（还想再来一点）。
 
-- **no sooner had** — 倒装结构，表示"刚……就……"。完整形式：No sooner had I fallen asleep than the owl started hooting. 注意 no sooner 后接 had + 过去分词，than 引导后半句。比 as soon as 更文学化，常见于叙事。
+- **Bigfoot / werewolf / grizzly bear** — 野外传说三主角。Bigfoot 是北美传说中的"大脚怪"；werewolf 是狼人（古英语 wer = 男人 + wolf）；grizzly bear 是灰熊，grizzly 意为"灰白的"。讲恐怖故事时的经典威胁角色。
 
-- **dying to / excited for** — 都表示非常想做某事。dying to 语气更强烈、更口语化：I'm dying to know what happens next! excited for 稍正式：I'm so excited for the camping trip. 注意 dying to 后接动词原形，excited for 后接名词或动名词。
+- **owl / squirrel** — 真实林中动物。owl 是猫头鹰，夜里活动，故事里的背景音；squirrel 是松鼠，白天活动。一昼一夜，正好营造昼夜氛围。
 
-- **edge of my seat** — 固定搭配 on the edge of my seat，形容紧张到身体前倾、坐在椅子边缘。常用来形容悬疑电影、恐怖故事：The cliffhanger had me on the edge of my seat.
+- **scary story / spooky / killer / dead** — 恐怖词组。scary story 是鬼故事；spooky 是"阴森森的"（spook = 幽灵）；killer 是杀手；dead 是"死的"，作表语：The hero is dead. ✗ 混淆 deadly（致命的，形容词）与 dead（已死的）。
 
-- **cliffhanger** — 字面意思是"挂在悬崖上的人"，引申为故事/剧集在最紧张的时刻突然结束，让受众悬着心。美剧每季结尾常用这个技巧。词表里的 hanging 可以联想这个画面。
+- **darkness / silently** — 氛围词对。darkness 是黑暗（dark + -ness 名词后缀）；silently 是"无声地"（silent + -ly 副词后缀）。典型用法：He moved silently through the darkness. -ness 变名词、-ly 变副词是两大构词规律。
 
-- **burst into** — 突然进入某种状态，后接名词：burst into laughter / burst into tears / burst into flames。注意不说 burst into laughing（那是 burst out laughing）。
+- **excited for / dying to** — 兴奋两式。excited for 是"为…兴奋"：I'm excited for tonight. dying to 是"极度渴望"：I'm dying to know the ending. 注意 ✗ I'm dying to the ending → ✓ I'm dying to know...，dying to 后接动词原形。
 
-- **goosebumps** — 鸡皮疙瘩。goose（鹅）+ bumps（凸起），因为鹅拔毛后皮肤上的小疙瘩像人起鸡皮疙瘩。搭配：give me goosebumps / get goosebumps。
+- **goosebumps / racing / burst into** — 生理反应三连。goosebumps 是鸡皮疙瘩：The story gave me goosebumps. racing 形容心跳加速：My heart is racing. burst into 是"突然开始"：burst into laughter / burst into tears。
 
-- **grizzly bear** — 灰熊，北美最大的食肉动物之一。grizzly 来自 grizzle（灰白），指毛色。注意和 grizzly（可怕的）拼写相同但词源不同——形容词 grizzly 意为"令人毛骨悚然的"，恰好和灰熊的恐怖形象重合。
+- **edge of my seat** — "坐立不安、紧张期待"：The story kept me on the edge of my seat. 源自剧场用语——太紧张了，屁股只坐在椅子边缘。
 
-- **spooky** — 阴森森的、诡异的。比 scary 语气轻，带点趣味感，常用于万圣节语境：a spooky old house / a spooky noise。名词是 spook（幽灵），但日常更常用 ghost。
+- **no sooner had** — 倒装句型"刚一…就…"：No sooner had we gone to sleep than the owl cried. 主句用过去完成时 had，than 引出紧接着发生的事。正式且戏剧感强，讲故事必备。
 
-- **werewolf / Bigfoot** — werewolf 是狼人（were- 是古英语"人"的意思，不是 wear）；Bigfoot 是北美传说中的大脚怪，因据称留下巨大脚印而得名。两者都是 campfire story 的经典主角。
+- **cliffhanger / hanging** — 悬念词对。cliffhanger 是"扣人心弦的悬念结尾"（cliff 悬崖 + hang 悬挂，仿佛主角悬在崖边）；hanging 是 hang 的现在分词，也可指"悬挂物"：a picture hanging on the wall。
 
-- **marshmallow** — 棉花糖。原指一种叫 marsh mallow（沼泽锦葵）的植物，其根部黏液曾被用来做糖果，后来配方改为明胶和糖，但名字保留了下来。露营时烤到外焦里软是标准吃法。
-
-- **racing** — 这里指心跳加速：My heart was racing. 不是"赛车"。racing heart 是紧张、恐惧或兴奋时的常见身体反应。搭配：pulse racing / heart racing。
-
-- **silently** — 安静地、无声地。副词，修饰动作：The owl flew silently through the darkness. 注意 silent 是形容词，silently 是副词，silence 是名词。
-
-- **killer** — 这里不是"杀手"，而是口语中的形容词用法，意为"极好的、厉害的"：That story was killer! 也可以做名词指恐怖故事里的凶手。一词两义，看语境判断。
+- **go to sleep** — "入睡"：I couldn't go to sleep after the story. 注意与 fall asleep（进入睡眠状态）和 go to bed（上床）的区别。
 
 ## 练习
 
@@ -63,149 +58,149 @@ Bigfoot, burst into, campfire, cliffhanger, darkness, dead, dying to, edge of my
 
 <quiz-sentence-builder>
 
-1. **中文**：我们围坐在篝火旁烤棉花糖，做美味的夹心甜点。  
-   **英文**：We sat around the campfire to roast marshmallows and make s'mores.
-   > **解析**：campfire 表示篝火；marshmallow 表示棉花糖；s'mores 表示夹心甜点。
+1. **中文**：我为今晚的篝火感到兴奋。
+   **英文**：I'm excited for tonight's campfire.
+   > **解析**：excited for 后接期待的对象；tonight's 是所有格，修饰 campfire。
 
-2. **中文**：那个阴森的恐怖故事给我起了一身的鸡皮疙瘩。  
-   **英文**：That spooky scary story gave me goosebumps all over my arms.
-   > **解析**：spooky 表示阴森的；scary story 表示恐怖故事；goosebumps 表示鸡皮疙瘩。
+2. **中文**：我急着想听那个鬼故事。
+   **英文**：I'm dying to hear the scary story.
+   > **解析**：dying to 后接动词原形 hear；the scary story 作 hear 的宾语。
 
-3. **中文**：我紧张得坐在椅子边缘，急切地想听故事接下来的发展。  
-   **英文**：I was on the edge of my seat and dying to hear what happened next.
-   > **解析**：edge of my seat 表示紧张坐立不安；dying to 表示极想。
+3. **中文**：我刚关灯，猫头鹰就叫了。
+   **英文**：No sooner had I turned off the light than an owl cried.
+   > **解析**：no sooner had 置于句首引起倒装，had 提前；than 引出紧接着发生的事。
 
-4. **中文**：故事停在一个惊人的悬念结尾处，全场突然爆发出一阵尖叫。  
-   **英文**：The tale ended on a cliffhanger, and everyone burst into screams.
-   > **解析**：cliffhanger 表示悬念结尾；burst into 表示突然爆发。
+4. **中文**：这个故事让我起了鸡皮疙瘩。
+   **英文**：The story gave me goosebumps.
+   > **解析**：give sb sth 双宾结构，me 是间接宾语，goosebumps 是直接宾语。
 
-5. **中文**：我刚在黑暗中闭上眼睛，就听见猫头鹰在树上啼叫。  
-   **英文**：No sooner had I closed my eyes in darkness than an owl hooted.
-   > **解析**：no sooner had 表示刚……就；darkness 表示黑暗；owl 表示猫头鹰。
+5. **中文**：我的心跳得飞快。
+   **英文**：My heart is racing.
+   > **解析**：现在进行时 is racing 表示此刻正在发生；My heart 是单数主语。
 
-6. **中文**：大家对这次野外露营以及讲狼人和大脚怪的传说感到非常兴奋。  
-   **英文**：Everyone was excited for the trip and stories of werewolf and Bigfoot.
-   > **解析**：excited for 表示对……感到兴奋；werewolf 表示狼人；Bigfoot 表示大脚怪。
+6. **中文**：他无声地穿过黑暗。
+   **英文**：He moved silently through the darkness.
+   > **解析**：silently 是副词修饰动词 moved；through 表示"穿过"，后接 the darkness。
 
-7. **中文**：一只灰熊在森林深处悄无声息地穿过黑夜。  
-   **英文**：A large grizzly bear walked silently through the deep dark forest.
-   > **解析**：grizzly bear 表示灰熊；silently 表示无声地。
+7. **中文**：这个故事让我紧张得坐立不安。
+   **英文**：The story kept me on the edge of my seat.
+   > **解析**：keep sb + 介词短语表示使某人保持某种状态；on the edge of my seat 是固定习语。
 
-8. **中文**：听到外面的怪异声音时，我的心跳飞快，根本无法入睡。  
-   **英文**：With my heart racing from the noise, I couldn't go to sleep at all.
-   > **解析**：racing 表示（心跳）飞快；go to sleep 表示去睡觉。
+8. **中文**：结尾是个悬念。
+   **英文**：The ending was a cliffhanger.
+   > **解析**：was 与 The ending 搭配；a cliffhanger 作表语。
 
-9. **中文**：讲故事的人说了一个关于林中杀手和一只小松鼠的绝佳故事。  
-   **英文**：The narrator told a killer story about a forest killer and a squirrel.
-   > **解析**：killer 表示极好的/杀手；squirrel 表示松鼠。
+9. **中文**：她突然大笑起来。
+   **英文**：She burst into laughter.
+   > **解析**：burst into 后接名词表示"突然开始"；burst 过去式仍为 burst。
 
-10. **中文**：悬挂在树枝上的阴影在漆黑的夜晚显得尤为阴森恐怖。  
-   **英文**：The branch hanging in the dark looked spooky in the late night.
-   > **解析**：hanging 表示悬挂的；spooky 表示阴森的。
+10. **中文**：我们烤了棉花糖。
+   **英文**：We roasted marshmallows over the fire.
+   > **解析**：roasted 是过去式；marshmallows 用复数，over the fire 是地点状语。
 
-11. **中文**：我们极想在篝火旁吃烤棉花糖。  
-   **英文**：We are dying to eat roasted marshmallows by the campfire.
-   > **解析**：dying to 表示极想；marshmallow 表示棉花糖。
+11. **中文**：森林里有一只灰熊。
+   **英文**：There is a grizzly bear in the forest.
+   > **解析**：There is + 单数名词 a grizzly bear；in the forest 是地点状语。
 
-12. **中文**：那段悬念重重的恐怖故事让大家都紧绷着神经。  
-   **英文**：That scary story with a suspenseful cliffhanger kept us thrilled.
-   > **解析**：scary story 表示恐怖故事；cliffhanger 表示悬念结尾。
+12. **中文**：故事结束后我睡不着。
+   **英文**：I couldn't go to sleep after the story.
+   > **解析**：couldn't 后接动词原形 go；go to sleep 是固定短语"入睡"。
 
-13. **中文**：听到大脚怪的传说后，大家突然爆发出狂热的讨论。  
-   **英文**：After hearing the Bigfoot legend, everyone burst into excited talk.
-   > **解析**：Bigfoot 表示大脚怪；burst into 表示突然爆发。
+13. **中文**：那只松鼠从树上跳了下来。
+   **英文**：The squirrel jumped down from the tree.
+   > **解析**：jumped 是过去式；down 和 from the tree 表示方向和起点。
 
-14. **中文**：黑暗中一只猫头鹰悄悄飞过，大家浑身都起了鸡皮疙瘩。  
-   **英文**：An owl flew silently in the darkness, giving us all goosebumps.
-   > **解析**：darkness 表示黑暗；owl 表示猫头鹰；goosebumps 表示鸡皮疙瘩。
+14. **中文**：杀手从黑暗中出现。
+   **英文**：The killer came out of the darkness.
+   > **解析**：came 是 come 的过去式；out of 表示"从…出来"，后接 the darkness。
 
-15. **中文**：我对今晚在篝火旁做美味的夹心饼干甜点感到非常期待。  
-   **英文**：I am excited for making tasty s'mores around the warm campfire tonight.
-   > **解析**：excited for 表示对……感到兴奋；s'mores 表示夹心甜点；campfire 表示篝火。
+15. **中文**：墙上的画阴森地晃着。
+   **英文**：The picture hanging on the wall moved in a spooky way.
+   > **解析**：hanging 是现在分词作后置定语修饰 picture；in a spooky way 是方式状语。
 
-16. **中文**：我刚走近森林，就看到一只松鼠敏捷地爬上了大树。  
-   **英文**：No sooner had I approached the woods than a squirrel ran up a tree.
-   > **解析**：no sooner had 表示刚……就；squirrel 表示松鼠。
+16. **中文**：有人相信大脚怪存在。
+   **英文**：Some people believe that Bigfoot is real.
+   > **解析**：believe 后接 that 从句；Bigfoot 作专有名词首字母大写。
 
-17. **中文**：传说中在满月之夜出现的狼人是一个极其阴森的角色。  
-   **英文**：The werewolf that appears under the full moon is a spooky character.
-   > **解析**：werewolf 表示狼人；spooky 表示阴森的。
+17. **中文**：狼人出现在满月下。
+   **英文**：The werewolf appeared under the full moon.
+   > **解析**：appeared 是过去式；under the full moon 是地点状语。
 
-18. **中文**：听到帐篷外的脚步声，我的心跳飞快，完全无法入睡。  
-   **英文**：Hearing steps outside, my heart was racing and I couldn't go to sleep.
-   > **解析**：racing 表示（心跳）飞快；go to sleep 表示去睡觉。
+18. **中文**：这个帐篷里死过一个人。
+   **英文**：A man died in this tent years ago.
+   > **解析**：died 是 die 的过去式；in this tent 和 years ago 是地点与时间状语。
 
-19. **中文**：那个悬念重重的结尾让所有的听众都紧张得坐在椅子边缘。  
-   **英文**：The thrilling cliffhanger left every listener on the edge of their seat.
-   > **解析**：cliffhanger 表示悬念结尾；edge of my seat 表示紧张坐立不安。
+19. **中文**：我们做了很多烤棉花糖夹心饼。
+   **英文**：We made lots of s'mores by the campfire.
+   > **解析**：s'mores 用复数；by the campfire 是地点状语"在篝火旁"。
 
-20. **中文**：大家都说刚才那个关于灰熊的篝火故事简直太精彩了。  
-   **英文**：Everyone agreed that the campfire story about the grizzly bear was killer.
-   > **解析**：campfire 表示篝火；grizzly bear 表示灰熊；killer 表示极好的。
+20. **中文**：这个故事真阴森。
+   **英文**：This story is really spooky.
+   > **解析**：This story 是单数主语，用 is；really 副词修饰形容词 spooky。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We sat around the campfire to roast marshmallows and make s'mores.
-   > **中文**：我们围坐在篝火旁烤棉花糖，做美味的夹心甜点。
+1. I'm excited for tonight's campfire.
+   > **中文**：我为今晚的篝火感到兴奋。
 
-2. That spooky scary story gave me goosebumps all over my arms.
-   > **中文**：那个阴森的恐怖故事给我起了一身的鸡皮疙瘩。
+2. I'm dying to hear the scary story.
+   > **中文**：我急着想听那个鬼故事。
 
-3. I was on the edge of my seat and dying to hear what happened next.
-   > **中文**：我紧张得坐在椅子边缘，急切地想听故事接下来的发展。
+3. The story gave me goosebumps.
+   > **中文**：这个故事让我起了鸡皮疙瘩。
 
-4. The tale ended on a cliffhanger, and everyone burst into screams.
-   > **中文**：故事停在一个惊人的悬念结尾处，全场突然爆发出一阵尖叫。
+4. My heart is racing.
+   > **中文**：我的心跳得飞快。
 
-5. No sooner had I closed my eyes in darkness than an owl hooted.
-   > **中文**：我刚在黑暗中闭上眼睛，就听见猫头鹰在树上啼叫。
+5. He moved silently through the darkness.
+   > **中文**：他无声地穿过黑暗。
 
-6. Everyone was excited for the trip and stories of werewolf and Bigfoot.
-   > **中文**：大家对这次野外露营以及讲狼人和大脚怪的传说感到非常兴奋。
+6. The ending was a cliffhanger.
+   > **中文**：结尾是个悬念。
 
-7. A large grizzly bear walked silently through the deep dark forest.
-   > **中文**：一只灰熊在森林深处悄无声息地穿过黑夜。
+7. We roasted marshmallows over the fire.
+   > **中文**：我们在火上烤了棉花糖。
 
-8. With my heart racing from the noise, I couldn't go to sleep at all.
-   > **中文**：听到外面的怪异声音时，我的心跳飞快，根本无法入睡。
+8. I couldn't go to sleep after the story.
+   > **中文**：故事结束后我睡不着。
 
-9. The narrator told a killer story about a forest killer and a squirrel.
-   > **中文**：讲故事的人说了一个关于林中杀手和一只小松鼠的绝佳故事。
+9. This story is really spooky.
+   > **中文**：这个故事真阴森。
 
-10. The branch hanging in the dark looked spooky in the late night.
-   > **中文**：悬挂在树枝上的阴影在漆黑的夜晚显得尤为阴森恐怖。
+10. The killer came out of the darkness.
+   > **中文**：杀手从黑暗中出现。
 
-11. We are dying to eat roasted marshmallows by the campfire.
-   > **中文**：我们极想在篝火旁吃烤棉花糖。
+11. No sooner had we started than it got dark.
+   > **中文**：我们刚开始，天就黑了。
 
-12. That scary story with a suspenseful cliffhanger kept us thrilled.
-   > **中文**：那段悬念重重的恐怖故事让大家都紧绷着神经。
+12. She burst into laughter at the owl.
+   > **中文**：她冲着猫头鹰突然大笑起来。
 
-13. After hearing the Bigfoot legend, everyone burst into excited talk.
-   > **中文**：听到大脚怪的传说后，大家突然爆发出狂热的讨论。
+13. There is a grizzly bear in the forest.
+   > **中文**：森林里有一只灰熊。
 
-14. An owl flew silently in the darkness, giving us all goosebumps.
-   > **中文**：黑暗中一只猫头鹰悄悄飞过，大家浑身都起了鸡皮疙瘩。
+14. The squirrel jumped down from the tree.
+   > **中文**：那只松鼠从树上跳了下来。
 
-15. I am excited for making tasty s'mores around the warm campfire tonight.
-   > **中文**：我对今晚在篝火旁做美味的夹心饼干甜点感到非常期待。
+15. Some people believe that Bigfoot is real.
+   > **中文**：有人相信大脚怪存在。
 
-16. No sooner had I approached the woods than a squirrel ran up a tree.
-   > **中文**：我刚走近森林，就看到一只松鼠敏捷地爬上了大树。
+16. The werewolf appeared under the full moon.
+   > **中文**：狼人出现在满月下。
 
-17. The werewolf that appears under the full moon is a spooky character.
-   > **中文**：传说中在满月之夜出现的狼人是一个极其阴森的角色。
+17. We made lots of s'mores by the campfire.
+   > **中文**：我们在篝火旁做了很多烤棉花糖夹心饼。
 
-18. Hearing steps outside, my heart was racing and I couldn't go to sleep.
-   > **中文**：听到帐篷外的脚步声，我的心跳飞快，完全无法入睡。
+18. The story kept me on the edge of my seat.
+   > **中文**：这个故事让我紧张得坐立不安。
 
-19. The thrilling cliffhanger left every listener on the edge of their seat.
-   > **中文**：那个悬念重重的结尾让所有的听众都紧张得坐在椅子边缘。
+19. A man died in this tent years ago.
+   > **中文**：多年前有人死在这顶帐篷里。
 
-20. Everyone agreed that the campfire story about the grizzly bear was killer.
-   > **中文**：大家都说刚才那个关于灰熊的篝火故事简直太精彩了。
+20. The picture hanging on the wall moved.
+   > **中文**：墙上挂着的那幅画动了。
 
 </quiz-listening>
 
@@ -213,26 +208,38 @@ Bigfoot, burst into, campfire, cliffhanger, darkness, dead, dying to, edge of my
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| campfire | 篝火 |
-| marshmallow | 棉花糖 |
-| s'mores | 夹心甜点 |
-| scary story | 恐怖故事 |
-| goosebumps | 鸡皮疙瘩 |
-| edge of my seat | 紧张坐立不安 |
-| cliffhanger | 悬念结尾 |
-| burst into | 突然爆发 |
-| dying to | 极想；渴望 |
-| excited for | 对……感到兴奋 |
-| no sooner had | 刚……就…… |
-| grizzly bear | 灰熊 |
-| werewolf | 狼人 |
 | Bigfoot | 大脚怪 |
-| spooky | 阴森的 |
+| burst into | 突然开始 |
+| campfire | 篝火 |
+| cliffhanger | 悬念结尾 |
 | darkness | 黑暗 |
+| dead | 死的 |
+| dying to | 极度渴望 |
+| edge of my seat | 紧张期待 |
+| excited for | 为…兴奋 |
+| go to sleep | 入睡 |
+| goosebumps | 鸡皮疙瘩 |
+| grizzly bear | 灰熊 |
+| hanging | 悬挂的 |
+| killer | 杀手 |
+| marshmallow | 棉花糖 |
+| no sooner had | 刚一…就… |
 | owl | 猫头鹰 |
+| racing | （心跳）加速的 |
+| s'mores | 烤棉花糖夹心饼 |
+| scary story | 鬼故事 |
 | silently | 无声地 |
-| racing | （心跳）飞快 |
-| killer | 极好的；杀手 |
+| spooky | 阴森的 |
+| squirrel | 松鼠 |
+| werewolf | 狼人 |
+| the | 这个（定冠词） |
+| is | 是 |
+| fire | 火 |
+| tent | 帐篷 |
+| forest | 森林 |
+| moon | 月亮 |
+| wall | 墙 |
+| laughter | 笑声 |
 
 </quiz-matching>
 
@@ -240,202 +247,202 @@ Bigfoot, burst into, campfire, cliffhanger, darkness, dead, dying to, edge of my
 
 ### 1
 
-We sat around the ____ to roast marshmallows and make s'mores.
+I'm excited ____ tonight's campfire.
 
-- [x] campfire
-- [ ] Bigfoot
-- [ ] burst into
+- [x] for
+- [ ] of
+- [ ] to
 
-> **解析**：**campfire** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：excited for 后接期待的对象；of 和 to 不合该搭配。
 
 ### 2
 
-That ____ scary story gave me goosebumps all over my arms.
+I'm dying to ____ the scary story.
 
-- [x] spooky
-- [ ] Bigfoot
-- [ ] burst into
+- [x] hear
+- [ ] heard
+- [ ] hearing
 
-> **解析**：**spooky** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：dying to 后接动词原形 hear；heard 和 hearing 不合该结构。
 
 ### 3
 
-I was on the edge of my seat and dying to hear what ____ next.
+The story gave me ____.
 
-- [x] happened
-- [ ] Bigfoot
-- [ ] burst into
+- [x] goosebumps
+- [ ] campfire
+- [ ] marshmallow
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **happened**。
+> **解析**：give sb + 复数名词 goosebumps（鸡皮疙瘩）成立；campfire 和 marshmallow 不合语境。
 
 ### 4
 
-The tale ended on a ____, and everyone burst into screams.
+My heart is ____.
 
-- [x] cliffhanger
-- [ ] Bigfoot
-- [ ] burst into
+- [x] racing
+- [ ] hanging
+- [ ] spooky
 
-> **解析**：**cliffhanger** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：is 后接现在分词 racing 构成进行时"心跳加速"；hanging 语义不合，spooky 是形容词。
 
 ### 5
 
-No sooner had I closed my eyes in ____ than an owl hooted.
+He moved ____ through the darkness.
 
-- [x] darkness
-- [ ] Bigfoot
-- [ ] burst into
+- [x] silently
+- [ ] silent
+- [ ] silence
 
-> **解析**：**darkness** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰动词 moved 需要副词 silently；silent 是形容词，silence 是名词。
 
 ### 6
 
-Everyone was excited for the trip and stories of ____ and Bigfoot.
+The ending was a ____.
 
-- [x] werewolf
-- [ ] Bigfoot
-- [ ] burst into
+- [x] cliffhanger
+- [ ] goosebumps
+- [ ] darkness
 
-> **解析**：**werewolf** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后接单数名词 cliffhanger（悬念）；goosebumps 是复数，darkness 不可数。
 
 ### 7
 
-A large grizzly bear walked ____ through the deep dark forest.
+She burst ____ laughter.
 
-- [x] silently
-- [ ] Bigfoot
-- [ ] burst into
+- [x] into
+- [ ] to
+- [ ] of
 
-> **解析**：**silently** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：burst into 是固定短语"突然开始"；to 和 of 不合该搭配。
 
 ### 8
 
-With my heart ____ from the noise, I couldn't go to sleep at all.
+We roasted marshmallows ____ the fire.
 
-- [x] racing
-- [ ] Bigfoot
-- [ ] burst into
+- [x] over
+- [ ] under
+- [ ] in
 
-> **解析**：**racing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：烤棉花糖在火的上方，用 over；under（下方）和 in（里面）不合语境。
 
 ### 9
 
-The narrator told a ____ story about a forest killer and a squirrel.
+I couldn't go to ____ after the story.
 
-- [x] killer
-- [ ] Bigfoot
-- [ ] burst into
+- [x] sleep
+- [ ] bed
+- [ ] camp
 
-> **解析**：**killer** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：go to sleep 是固定短语"入睡"；go to bed 是"上床"，语义不同。
 
 ### 10
 
-The branch ____ in the dark looked spooky in the late night.
+There is a grizzly ____ in the forest.
 
-- [x] hanging
-- [ ] Bigfoot
-- [ ] burst into
+- [x] bear
+- [ ] fire
+- [ ] story
 
-> **解析**：**hanging** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：grizzly bear（灰熊）是固定搭配；fire 和 story 不合。
 
 ### 11
 
-We are dying to eat roasted marshmallows by the ____.
+The squirrel jumped down ____ the tree.
 
-- [x] campfire
-- [ ] Bigfoot
-- [ ] burst into
+- [x] from
+- [ ] for
+- [ ] of
 
-> **解析**：**campfire** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：jump down from 表示"从…跳下来"；for 和 of 不合该搭配。
 
 ### 12
 
-That scary story with a suspenseful ____ kept us thrilled.
+The killer came out of the ____.
 
-- [x] cliffhanger
-- [ ] Bigfoot
-- [ ] burst into
+- [x] darkness
+- [ ] excited
+- [ ] spooky
 
-> **解析**：**cliffhanger** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：out of 后接名词 darkness；excited 和 spooky 是形容词。
 
 ### 13
 
-After hearing the ____ legend, everyone burst into excited talk.
+No sooner had I turned off the light ____ an owl cried.
 
-- [x] Bigfoot
-- [ ] burst into
-- [ ] campfire
+- [x] than
+- [ ] then
+- [ ] that
 
-> **解析**：**Bigfoot** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：no sooner... than... 是固定搭配；then 是副词，that 不合该结构。
 
 ### 14
 
-An ____ flew silently in the darkness, giving us all goosebumps.
+Some people believe that ____ is real.
 
-- [x] owl
-- [ ] Bigfoot
-- [ ] burst into
+- [x] Bigfoot
+- [ ] marshmallow
+- [ ] goosebumps
 
-> **解析**：**owl** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能"真实存在"的传说生物是 Bigfoot；marshmallow 和 goosebumps 不合语境。
 
 ### 15
 
-I am excited for making tasty ____ around the warm campfire tonight.
+The werewolf appeared under the full ____.
 
-- [x] s'mores
-- [ ] Bigfoot
-- [ ] burst into
+- [x] moon
+- [ ] tent
+- [ ] squirrel
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **s'mores**。
+> **解析**：full moon（满月）是固定搭配；tent 和 squirrel 不合。
 
 ### 16
 
-No sooner had I approached the woods than a ____ ran up a tree.
+We made lots of ____ by the campfire.
 
-- [x] squirrel
-- [ ] Bigfoot
-- [ ] burst into
+- [x] s'mores
+- [ ] owl
+- [ ] darkness
 
-> **解析**：**squirrel** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：lots of 后接复数名词 s'mores；owl 和 darkness 不合语境。
 
 ### 17
 
-The ____ that appears under the full moon is a spooky character.
+The story kept me on the ____ of my seat.
 
-- [x] werewolf
-- [ ] Bigfoot
-- [ ] burst into
+- [x] edge
+- [ ] end
+- [ ] top
 
-> **解析**：**werewolf** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：on the edge of my seat 是固定习语；end 和 top 都不构成该习语。
 
 ### 18
 
-Hearing steps outside, my heart was ____ and I couldn't go to sleep.
+This story is really ____.
 
-- [x] racing
-- [ ] Bigfoot
-- [ ] burst into
+- [x] spooky
+- [ ] dead
+- [ ] racing
 
-> **解析**：**racing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：is 后需要描述故事的形容词 spooky；dead 语义不合，racing 不能修饰故事。
 
 ### 19
 
-The thrilling ____ left every listener on the edge of their seat.
+The picture ____ on the wall moved.
 
-- [x] cliffhanger
-- [ ] Bigfoot
-- [ ] burst into
+- [x] hanging
+- [ ] hang
+- [ ] hanged
 
-> **解析**：**cliffhanger** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：现在分词 hanging 作后置定语修饰 picture；hang 是原形不能作定语，hanged 用于"绞刑"。
 
 ### 20
 
-Everyone agreed that the ____ story about the grizzly bear was killer.
+I'm ____ to know the ending.
 
-- [x] campfire
-- [ ] Bigfoot
-- [ ] burst into
+- [x] dying
+- [ ] dead
+- [ ] dark
 
-> **解析**：**campfire** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be dying to do 是固定习语"极度渴望"；dead 和 dark 都不能构成该搭配。
 
 </quiz-cloze>

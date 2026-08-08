@@ -10,44 +10,35 @@ appliance, attic, brand new, commute, compromise, dream, fence, fireplace, go wi
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"描述你的理想住宅"展开。词表里有房屋结构与设施（attic, fireplace, fence, appliance, storage, story），也有选址与生活考量（suburbs, residential, commute, landlord, surrounding）。你可以用这些词畅想理想的家：Wouldn't it be great to have a brand new house in the suburbs with a fireplace and a big attic? / I dream of the one with a fence and a garden. / Keep in mind, the commute might be way too long.
+本单元的主题是"描述你的理想住宅"，是居家话题的第三课。词表分成三组：房屋构造与设施（attic, fireplace, fence, story, appliance, storage, residential）、找房过程（landlord, commute, suburbs, brand new, dream, surrounding）、以及讨论与决策短语（go with, keep, keep in mind, make it, compromise, overwhelmed, way too, not, one, the one, wouldn't it be, wouldn't you）。拼起来就是一段完整的找房对话：My dream home has a fireplace and an attic. Wouldn't it be great? But the commute is way too long. Let's compromise.
 
-这里值得注意 wouldn't it be 和 wouldn't you 这类修辞性问句——它们不是在真的提问，而是在邀请对方认同：Wouldn't it be nice to have a fireplace? / Wouldn't you love a brand new kitchen? 另外，way too 是口语中加强语气的方式（way too expensive = 太贵了），the one 用来特指"那一个"。
+语法主线有三条。第一条是修辞疑问句 wouldn't it be / wouldn't you，用来征求共鸣："那不是很棒吗？ Wouldn't it be nice to have a garden? 第二条是口语程度表达 way too（太、过分地）：The rent is way too high. 第三条是决策短语 go with（选定）与 keep in mind（记住、考虑到）：Let's go with the one near the station.
 
-学完本单元，你可以用英语描绘梦想中的家，讨论选址的利弊，并在妥协中表达偏好。
+学完这些词，你能描绘梦想之家、权衡利弊、与房东打交道，也能在纠结时优雅地妥协——安家大事，聊得明白。
 
 ## Tips
 
-- **attic / story** — attic 是阁楼（屋顶下的空间），story 是楼层。搭配：in the attic, a two-story house。注意 story = 楼层（美式），英式用 storey。a three-story building = 三层楼。attic 常用来储物（storage）。
+- **wouldn't it be / wouldn't you** — 修辞性疑问，用否定疑问征求对方共鸣或邀请：Wouldn't it be lovely to live by the sea? Wouldn't you like a bigger kitchen? 中文对应"难道不……吗"。回答 Yes 表示赞同。
 
-- **suburbs / residential** — suburbs 是郊区，residential 是住宅区的。搭配：live in the suburbs, a residential area。suburbs 通常用复数。注意 suburb 和 countryside 不同——suburb 是城市边缘的居住区，不是农村。
+- **way too** — 口语程度副词，way 加强 too："实在太……"。The place is way too expensive. 比 too 语气强得多，但用于非正式场合。
 
-- **commute** — 通勤。搭配：commute to work, a long commute, the daily commute。I commute an hour every day. 住在 suburbs 的代价往往是 a long commute。可作动词也可作名词。
+- **go with / the one / one** — go with 是"选择、选定"：I'll go with the blue one. one 是代词，替代前面提过的名词避免重复；the one 特指"那一个"：the one with the fireplace.
 
-- **landlord** — 房东。搭配：talk to the landlord, the landlord raised the rent。构词：land + lord（土地的主人）。对应的女房东是 landlady，但现在 landlord 常不分性别使用。
+- **keep / keep in mind** — keep 是"保留、保持"；keep in mind 是"记住、考虑到"：Keep in mind that we have a budget. 后接 that 从句或名词。
 
-- **fireplace** — 壁炉。搭配：a cozy fireplace, sit by the fireplace。构词：fire + place。在西方文化中 fireplace 是家的温馨象征，常出现在"理想之家"的描述中。
+- **make it** — 万能短语，本单元语境指"成功做到、赶得上"：We can't make it to the viewing.（我们赶不上看房了。）也可指"成功"：She made it as an architect.
 
-- **appliance** — 家用电器。搭配：kitchen appliances, household appliances。常见 appliance：refrigerator, dishwasher, washing machine。注意 appliance 通常指较大的电器，小电器如 toaster 也可算。
+- **compromise / overwhelmed** — compromise 是"妥协"，可名可动：Let's compromise. overwhelmed 是"不知所措、压力过大"，be overwhelmed with choices.（选择太多无从下手。）
 
-- **brand new** — 全新的。搭配：a brand new house, brand new appliances。注意 brand new 是固定搭配，brand 在这里起强调作用（= completely new）。不加 a：It's brand new.（× It's a brand new.）
+- **attic / fireplace / fence / story** — 房屋构造四词。attic 是阁楼；fireplace 是壁炉；fence 是围栏；story 此处指"楼层"：a two-story house（两层楼的房子）。注意 story 也是"故事"。
 
-- **way too** — 太……了（口语加强语气）。搭配：way too expensive, way too far。The rent is way too high. way 在这里是副词，相当于 much / far，但更口语化。正式写作中用 far too 或 much too。
+- **appliance / storage / residential** — appliance 是电器（household appliances 家用电器）；storage 是存储空间：storage space. residential 是"住宅的"：a residential area.
 
-- **wouldn't it be / wouldn't you** — 修辞性问句，邀请对方认同。Wouldn't it be amazing to have a garden? / Wouldn't you love to live here? 不需要对方真的回答 yes/no，更像感叹。
+- **landlord / commute / suburbs / brand new / surrounding** — 找房五词。landlord 是房东（land + lord）；commute 是通勤，可名可动；suburbs 是郊区，常用复数；brand new 是"崭新的"（brand 加强语气）；surrounding 作形容词指"周围的"：the surrounding area.
 
-- **keep in mind** — 记住、考虑到。搭配：keep in mind that..., keep sth in mind。Keep in mind that the commute is long. 比 remember 更正式，常用于提醒对方注意某个事实。
-
-- **go with** — 搭配、选择。搭配：go with the bigger one, go with your gut。I'll go with the house near the school. 口语中 go with = 选择、决定要。也可表"与……相配"：The fence goes with the house.
-
-- **overwhelmed** — 不知所措的、压力很大的。搭配：feel overwhelmed, overwhelmed by choices。There are so many houses—I'm overwhelmed! 注意 overwhelm（动词）→ overwhelmed（形容词）→ overwhelming（令人难以承受的）。
-
-- **the one** — 特指"那一个"。搭配：the one with..., that's the one。I want the one with a fireplace. 注意 the one 后面常接 with 或 that 从句来限定。dream of the one = 梦想中的那个。
-
-- **compromise** — 妥协、折中。搭配：make a compromise, reach a compromise。We compromised on a house in the suburbs. 可作名词也可作动词。注意发音：/ˈkɑːmprəmaɪz/。
+- **dream / not** — dream home 是"梦想之家"，dream 作定语修饰 home。not 是本单元的否定词：It's not too far.
 
 ## 练习
 
@@ -65,176 +56,187 @@ appliance, attic, brand new, commute, compromise, dream, fence, fireplace, go wi
 
 <quiz-sentence-builder>
 
-1. **中文**：房东同意为我们降低每月租金。  
-   **英文**：The landlord agreed to lower the monthly rent for us.
-   > **解析**：landlord 指房东。
+1. **中文**：拥有一座带壁炉的房子不是很棒吗？
+   **英文**：Wouldn't it be great to have a house with a fireplace?
+   > **解析**：Wouldn't it be + 形容词是修辞疑问征求共鸣；to have 不定式是真正主语。
 
-2. **中文**：我们决定搬到一个安静的住宅区。  
-   **英文**：We decided to move to a quiet residential area.
-   > **解析**：residential 表示住宅区的。
+2. **中文**：难道你不想要一间更大的厨房吗？
+   **英文**：Wouldn't you like a bigger kitchen?
+   > **解析**：Wouldn't you like 是礼貌邀请/询问意愿；bigger 是 big 的比较级。
 
-3. **中文**：住在郊区意味着每天要花更长时间通勤。  
-   **英文**：Living in the suburbs means having a longer daily commute.
-   > **解析**：suburbs 指郊区。
+3. **中文**：这套公寓的租金实在太贵了。
+   **英文**：The rent is way too expensive.
+   > **解析**：way 作副词加强 too 的程度；expensive 作表语。
 
-4. **中文**：这栋两层住宅有充足的储藏空间。  
-   **英文**：This two-story house has plenty of storage space.
-   > **解析**：story 此处指楼层。
+4. **中文**：我们选定靠车站的那套吧。
+   **英文**：Let's go with the one near the station.
+   > **解析**：go with 是"选定"；the one 替代前面提到的房子；near the station 是后置定语。
 
-5. **中文**：他们把旧书箱寄存在阁楼里。  
-   **英文**：They stored old boxes of books in the attic.
-   > **解析**：attic 指阁楼。
+5. **中文**：记住，我们有预算限制。
+   **英文**：Keep in mind that we have a budget.
+   > **解析**：Keep in mind 是固定短语；that 引导宾语从句说明要记住的内容。
 
-6. **中文**：舒适的壁炉让整个客厅保持温暖。  
-   **英文**：The cozy fireplace keeps the whole living room warm.
-   > **解析**：fireplace 指壁炉。
+6. **中文**：我们赶不上看房了。
+   **英文**：We can't make it to the viewing.
+   > **解析**：make it to 表示"赶得上、成功到达"；can't 表否定。
 
-7. **中文**：我们在后院周围立起了木篱笆。  
-   **英文**：We put up a wooden fence around the backyard.
-   > **解析**：fence 指篱笆、栅栏。
+7. **中文**：我们妥协一下吧。
+   **英文**：Let's compromise.
+   > **解析**：Let's + 动词原形构成建议；compromise 作动词"妥协"。
 
-8. **中文**：这套公寓里的每件厨房家电都是全新的。  
-   **英文**：Every kitchen appliance in this apartment is brand new.
-   > **解析**：appliance 指家用电器。
+8. **中文**：选择太多，我不知所措。
+   **英文**：I am overwhelmed by all the choices.
+   > **解析**：be overwhelmed by 是被动式表"被……压垮"；all the choices 是施动者。
 
-9. **中文**：这套公寓对我们一家人来说实在太小了。  
-   **英文**：The apartment is way too small for our family.
-   > **解析**：way too 表示实在太……
+9. **中文**：梦想之家有一个阁楼。
+   **英文**：The dream home has an attic.
+   > **解析**：dream 作定语修饰 home；an attic 中 attic 以元音音开头用 an。
 
-10. **中文**：购买这栋联排别墅对他们来说是梦想成真。  
-   **英文**：Buying this townhouse is a dream come true for them.
-   > **解析**：dream 表示梦想。
+10. **中文**：房子外面有一圈围栏。
+    **英文**：There is a fence around the house.
+    > **解析**：there is 表存在；around the house 是地点状语。
 
-11. **中文**：后院要是有个花园难道不好吗？  
-   **英文**：Wouldn't it be nice to have a garden in the back?
-   > **解析**：Wouldn't it be... 表示“难道不好/不大合适吗？”
+11. **中文**：这是一栋两层楼的房子。
+    **英文**：This is a two-story house.
+    > **解析**：two-story 作复合形容词修饰 house，story 用单数形式；连字符连接。
 
-12. **中文**：难道你不希望住得离工作地点更近一点吗？  
-   **英文**：Wouldn't you prefer living closer to your workplace?
-   > **解析**：Wouldn't you... 表示“难道你不……吗？”
+12. **中文**：厨房里有崭新的电器。
+    **英文**：The kitchen has brand new appliances.
+    > **解析**：brand new 作形容词短语修饰 appliances；appliances 用复数指多件电器。
 
-13. **中文**：你应该记住，停车位是另外收费的。  
-   **英文**：You should keep in mind that parking is extra.
-   > **解析**：keep in mind 表示牢记、记住。
+13. **中文**：储物空间很充足。
+    **英文**：There is plenty of storage.
+    > **解析**：storage 是不可数名词；plenty of 表示"充足的"。
 
-14. **中文**：面对所有搬家琐事，我感到手足无措。  
-   **英文**：I feel overwhelmed by all the moving tasks.
-   > **解析**：overwhelmed 表示不堪重负的。
+14. **中文**：这是一个安静的住宅区。
+    **英文**：It is a quiet residential area.
+    > **解析**：residential 形容词修饰 area；quiet 和 residential 依次作定语。
 
-15. **中文**：我们不得不对价格做出妥协。  
-   **英文**：We had to make a compromise on the price.
-   > **解析**：compromise 表示妥协、折中。
+15. **中文**：房东住在隔壁。
+    **英文**：The landlord lives next door.
+    > **解析**：The landlord 是三单主语，live 加 s；next door 是地点状语。
 
-16. **中文**：我们应该选择现代设计还是经典款式？  
-   **英文**：Should we go with the modern design or the classic one?
-   > **解析**：go with 表示选择、采用。
+16. **中文**：通勤时间太长了。
+    **英文**：The commute is too long.
+    > **解析**：commute 作名词"通勤"；The commute 单数主语用 is。
 
-17. **中文**：我想这套采光明亮的公寓就是最适合我们的那套。  
-   **英文**：I think this bright apartment is the one for us.
-   > **解析**：the one 指最合适的那一个。
+17. **中文**：他们住在郊区。
+    **英文**：They live in the suburbs.
+    > **解析**：suburbs 习惯用复数形式；in the suburbs 是地点状语。
 
-18. **中文**：我们可以在中午前赶到房屋开放参观活动。  
-   **英文**：We can make it to the open house before noon.
-   > **解析**：make it 表示赶上、及时到达。
+18. **中文**：周围环境很美。
+    **英文**：The surrounding area is beautiful.
+    > **解析**：surrounding 作形容词修饰 area；beautiful 作表语。
 
-19. **中文**：周边区域绿树成荫，公园环绕。  
-   **英文**：The surrounding area is filled with green trees and parks.
-   > **解析**：surrounding 表示周围的、环境的。
+19. **中文**：把东西放好。
+    **英文**：Keep your things in the storage room.
+    > **解析**：Keep 是祈使句动词原形，表示"放置保存"；in the storage room 是地点状语。
 
-20. **中文**：夜间请务必保持后门处于锁闭状态。  
-   **英文**：Please keep the back door locked at night.
-   > **解析**：keep 表示保持某种状态。
+20. **中文**：那不是太远的地方。
+    **英文**：It is not too far away.
+    > **解析**：not 放在 be 动词 is 后构成否定；too far away 是程度状语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The landlord agreed to lower the monthly rent for us.
-   > **中文**：房东同意为我们降低每月租金。
+1. Wouldn't it be great to have a house with a fireplace?
+   > **中文**：拥有一座带壁炉的房子不是很棒吗？
 
-2. We decided to move to a quiet residential area.
-   > **中文**：我们决定搬到一个安静的住宅区。
+2. Wouldn't you like a bigger kitchen?
+   > **中文**：难道你不想要一间更大的厨房吗？
 
-3. Living in the suburbs means having a longer daily commute.
-   > **中文**：住在郊区意味着每天要花更长时间通勤。
+3. The rent is way too expensive.
+   > **中文**：这套公寓的租金实在太贵了。
 
-4. This two-story house has plenty of storage space.
-   > **中文**：这栋两层住宅有充足的储藏空间。
+4. Let's go with the one near the station.
+   > **中文**：我们选定靠车站的那套吧。
 
-5. They stored old boxes of books in the attic.
-   > **中文**：他们把旧书箱寄存在阁楼里。
+5. Keep in mind that we have a budget.
+   > **中文**：记住，我们有预算限制。
 
-6. The cozy fireplace keeps the whole living room warm.
-   > **中文**：舒适的壁炉让整个客厅保持温暖。
+6. We can't make it to the viewing.
+   > **中文**：我们赶不上看房了。
 
-7. We put up a wooden fence around the backyard.
-   > **中文**：我们在后院周围立起了木篱笆。
+7. Let's compromise.
+   > **中文**：我们妥协一下吧。
 
-8. Every kitchen appliance in this apartment is brand new.
-   > **中文**：这套公寓里的每件厨房家电都是全新的。
+8. I am overwhelmed by all the choices.
+   > **中文**：选择太多，我不知所措。
 
-9. The apartment is way too small for our family.
-   > **中文**：这套公寓对我们一家人来说实在太小了。
+9. The dream home has an attic.
+   > **中文**：梦想之家有一个阁楼。
 
-10. Buying this townhouse is a dream come true for them.
-   > **中文**：购买这栋联排别墅对他们来说是梦想成真。
+10. There is a fence around the house.
+    > **中文**：房子外面有一圈围栏。
 
-11. Wouldn't it be nice to have a garden in the back?
-   > **中文**：后院要是有个花园难道不好吗？
+11. This is a two-story house.
+    > **中文**：这是一栋两层楼的房子。
 
-12. Wouldn't you prefer living closer to your workplace?
-   > **中文**：难道你不希望住得离工作地点更近一点吗？
+12. The kitchen has brand new appliances.
+    > **中文**：厨房里有崭新的电器。
 
-13. You should keep in mind that parking is extra.
-   > **中文**：你应该记住，停车位是另外收费的。
+13. There is plenty of storage.
+    > **中文**：储物空间很充足。
 
-14. I feel overwhelmed by all the moving tasks.
-   > **中文**：面对所有搬家琐事，我感到手足无措。
+14. It is a quiet residential area.
+    > **中文**：这是一个安静的住宅区。
 
-15. We had to make a compromise on the price.
-   > **中文**：我们不得不对价格做出妥协。
+15. The landlord lives next door.
+    > **中文**：房东住在隔壁。
 
-16. Should we go with the modern design or the classic one?
-   > **中文**：我们应该选择现代设计还是经典款式？
+16. The commute is too long.
+    > **中文**：通勤时间太长了。
 
-17. I think this bright apartment is the one for us.
-   > **中文**：我想这套采光明亮的公寓就是最适合我们的那套。
+17. They live in the suburbs.
+    > **中文**：他们住在郊区。
 
-18. We can make it to the open house before noon.
-   > **中文**：我们可以在中午前赶到房屋开放参观活动。
+18. The surrounding area is beautiful.
+    > **中文**：周围环境很美。
 
-19. The surrounding area is filled with green trees and parks.
-   > **中文**：周边区域绿树成荫，公园环绕。
+19. Keep your things in the storage room.
+    > **中文**：把东西放好。
 
-20. Please keep the back door locked at night.
-   > **中文**：夜间请务必保持后门处于锁闭状态。
+20. It is not too far away.
+    > **中文**：那不是太远的地方。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| `appliance` | 家用电器 |
-| `attic` | 阁楼 |
-| `brand new` | 全新的 |
-| `commute` | 上下班通勤 |
-| `compromise` | 妥协；折中 |
-| `dream` | 梦想 |
-| `fence` | 篱笆；栅栏 |
-| `fireplace` | 壁炉 |
-| `go with` | 选择；采用 |
-| `keep` | 保持；保存 |
-| `keep in mind` | 记住；铭记 |
-| `landlord` | 房东 |
-| `make it` | 赶上；成功 |
-| `overwhelmed` | 不堪重负的 |
-| `residential` | 住宅区的 |
-| `storage` | 储藏；储物 |
-| `story` | 楼层 |
-| `suburbs` | 郊区 |
-| `surrounding` | 周围的 |
-| `the one` | 最合适的那一个 |
+| --- | --- |
+| appliance | 电器 |
+| attic | 阁楼 |
+| brand new | 崭新的 |
+| commute | 通勤 |
+| compromise | 妥协 |
+| dream | 梦想 |
+| fence | 围栏 |
+| fireplace | 壁炉 |
+| go with | 选定 |
+| keep | 保留；放置 |
+| keep in mind | 记住；考虑到 |
+| landlord | 房东 |
+| make it | 赶得上；成功 |
+| not | 不 |
+| one | 一个（代词） |
+| overwhelmed | 不知所措的 |
+| residential | 住宅的 |
+| storage | 存储空间 |
+| story | 楼层；故事 |
+| suburbs | 郊区 |
+| surrounding | 周围的 |
+| the one | 那一个 |
+| way too | 实在太 |
+| wouldn't it be | 难道不会……吗 |
+| wouldn't you | 你不想……吗 |
+| house | 房子 |
+| kitchen | 厨房 |
+| rent | 租金 |
+| budget | 预算 |
+| station | 车站 |
+| area | 地区 |
 
 </quiz-matching>
 
@@ -242,202 +244,202 @@ appliance, attic, brand new, commute, compromise, dream, fence, fireplace, go wi
 
 ### 1
 
-The ____ agreed to lower the monthly rent for us.
+Wouldn't it be ____ to have a house with a fireplace?
 
-- [x] landlord
-- [ ] appliance
-- [ ] attic
+- [x] great
+- [ ] greatly
+- [ ] greatness
 
-> **解析**：**landlord** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Wouldn't it be 后接形容词 great 作表语；greatly 是副词，greatness 是名词。
 
 ### 2
 
-We decided to move to a quiet ____ area.
+Wouldn't you ____ a bigger kitchen?
 
-- [x] residential
-- [ ] appliance
-- [ ] attic
+- [x] like
+- [ ] likes
+- [ ] liking
 
-> **解析**：**residential** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Wouldn't you 后接动词原形 like；likes 是三单形式，liking 不能跟在 wouldn't 后。
 
 ### 3
 
-Living in the ____ means having a longer daily commute.
+The rent is way too ____.
 
-- [x] suburbs
-- [ ] appliance
-- [ ] attic
+- [x] expensive
+- [ ] expense
+- [ ] expensively
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **suburbs**。
+> **解析**：is 后接形容词 expensive 作表语；expense 是名词，expensively 是副词。
 
 ### 4
 
-This two-story house has plenty of ____ space.
+Let's go ____ the one near the station.
 
-- [x] storage
-- [ ] appliance
-- [ ] attic
+- [x] with
+- [ ] to
+- [ ] at
 
-> **解析**：**storage** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：go with 是固定短语"选定"；to 和 at 不构成此义。
 
 ### 5
 
-They stored old boxes of books in the ____.
+Keep in ____ that we have a budget.
 
-- [x] attic
-- [ ] appliance
-- [ ] brand new
+- [x] mind
+- [ ] minds
+- [ ] memory's
 
-> **解析**：**attic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：keep in mind 是固定短语；memory's 不是此短语成分。
 
 ### 6
 
-The cozy ____ keeps the whole living room warm.
+We can't make ____ to the viewing.
 
-- [x] fireplace
-- [ ] appliance
-- [ ] attic
+- [x] it
+- [ ] its
+- [ ] them
 
-> **解析**：**fireplace** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：make it to 是固定表达"赶得上"，it 无实义；its 是所有格，them 不合。
 
 ### 7
 
-We put up a wooden ____ around the backyard.
+Let's ____.
 
-- [x] fence
-- [ ] appliance
-- [ ] attic
+- [x] compromise
+- [ ] compromises
+- [ ] compromising
 
-> **解析**：**fence** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Let's 后接动词原形 compromise；compromises 是三单形式，compromising 不能接在 Let's 后。
 
 ### 8
 
-Every kitchen ____ in this apartment is brand new.
+I am overwhelmed ____ all the choices.
 
-- [x] appliance
-- [ ] attic
-- [ ] brand new
+- [x] by
+- [ ] at
+- [ ] on
 
-> **解析**：**appliance** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be overwhelmed by 是固定被动搭配；at 和 on 不合。
 
 ### 9
 
-The ____ is way too small for our family.
+The dream home has an ____.
 
-- [x] apartment
-- [ ] appliance
-- [ ] attic
+- [x] attic
+- [ ] attics
+- [ ] attachment
 
-> **解析**：**apartment** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：an 后接单数名词 attic（阁楼）；attachment 语义不合。
 
 ### 10
 
-Buying this townhouse is a ____ come true for them.
+There is a ____ around the house.
 
-- [x] dream
-- [ ] appliance
-- [ ] attic
+- [x] fence
+- [ ] fences
+- [ ] fencing's
 
-> **解析**：**dream** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后接单数名词 fence；fencing's 是所有格不合。
 
 ### 11
 
-____ it be nice to have a garden in the back?
+This is a two-____ house.
 
-- [x] Wouldn't
-- [ ] appliance
-- [ ] attic
+- [x] story
+- [ ] stories
+- [ ] storys
 
-> **解析**：**Wouldn't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：复合形容词 two-story 中名词用单数形式；storys 拼写错误。
 
 ### 12
 
-Wouldn't you prefer living closer to your ____?
+The kitchen has brand new ____.
 
-- [x] workplace
+- [x] appliances
 - [ ] appliance
-- [ ] attic
+- [ ] appliance's
 
-> **解析**：**workplace** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：多件电器用复数 appliances；appliance's 是所有格不合。
 
 ### 13
 
-You should ____ in mind that parking is extra.
+There is plenty of ____.
 
-- [x] keep
-- [ ] appliance
-- [ ] attic
+- [x] storage
+- [ ] storages
+- [ ] storing
 
-> **解析**：**keep** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：storage 是不可数名词"存储空间"；storages 复数不常规，storing 是动名词。
 
 ### 14
 
-I feel ____ by all the moving tasks.
+It is a quiet ____ area.
 
-- [x] overwhelmed
-- [ ] appliance
-- [ ] attic
+- [x] residential
+- [ ] residence
+- [ ] resident
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **overwhelmed**。
+> **解析**：名词 area 前需要形容词 residential；residence 是名词，resident 指"居民"。
 
 ### 15
 
-We had to make a ____ on the price.
+The ____ lives next door.
 
-- [x] compromise
-- [ ] appliance
-- [ ] attic
+- [x] landlord
+- [ ] landlords
+- [ ] landlording
 
-> **解析**：**compromise** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：lives 要求单数主语 landlord；landlording 不是名词。
 
 ### 16
 
-Should we go with the modern design or the classic ____?
+The ____ is too long.
 
-- [x] one
-- [ ] appliance
-- [ ] attic
+- [x] commute
+- [ ] commutes
+- [ ] commuting
 
-> **解析**：**one** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The commute 作名词"通勤"单数与 is 搭配；commuting 是动名词。
 
 ### 17
 
-I think this bright apartment is the ____ for us.
+They live in the ____.
 
-- [x] one
-- [ ] appliance
-- [ ] attic
+- [x] suburbs
+- [ ] suburb's
+- [ ] suburbia's
 
-> **解析**：**one** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：in the suburbs 习惯用复数表示郊区；所有格形式不合。
 
 ### 18
 
-We can make it to the open house ____ noon.
+The ____ area is beautiful.
 
-- [x] before
-- [ ] appliance
-- [ ] attic
+- [x] surrounding
+- [ ] surround
+- [ ] surrounds
 
-> **解析**：**before** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：surrounding 作形容词修饰 area；surround 是动词原形，surrounds 是三单形式。
 
 ### 19
 
-The ____ area is filled with green trees and parks.
+____ your things in the storage room.
 
-- [x] surrounding
-- [ ] appliance
-- [ ] attic
+- [x] Keep
+- [ ] Keeps
+- [ ] Keeping
 
-> **解析**：**surrounding** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：祈使句用动词原形 Keep；Keeps 是三单形式，Keeping 不能构成祈使句。
 
 ### 20
 
-Please ____ the back door locked at night.
+It is ____ too far away.
 
-- [x] keep
-- [ ] appliance
-- [ ] attic
+- [x] not
+- [ ] no
+- [ ] none
 
-> **解析**：**keep** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be 动词后接 not 构成否定；no 修饰名词，none 是代词。
 
 </quiz-cloze>

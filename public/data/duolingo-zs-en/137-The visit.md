@@ -10,40 +10,35 @@ against, annoy, bright, broccoli, community, dining room, double, festival, get 
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"描述家庭日常"展开。核心是家庭表达：My grandkids are visiting during the festival.（我的孙辈们节日期间来看我。）、The dining room is too narrow for a double table.（餐厅太窄了，放不下双人桌。）、Don't annoy me—I'm in a bad mood!（别烦我——我心情不好！）、It's stressful, but I'm trying to recycle and keep the community clean.（虽然有压力，但我在努力回收垃圾、保持社区清洁。）。
+本单元的主题是"描述家庭日常"，词表可以分成三组：家庭与场景（grandkid, dining room, community, festival, parking, bright, narrow）、起居动作（get in, get out, go on, turn, reach, recycle, make）、以及情绪与感受（nervous, stressful, mood, annoy, joke, right, double, sandal, broccoli, against）。拼起来就是长辈来访的一天：The grandkids get in the car and we go on to the dining room. Don't annoy them, and keep the mood bright during the festival.
 
-词表里有家庭词汇（grandkid, dining room, community）和感受词汇（nervous, stressful, mood, annoy）。你可以练习：Get in the car! / Turn right at the parking lot. / The broccoli is bright green. / Go on—tell me the joke! / I can't reach the shelf.
+语法主线有两个。一是"动词 + 副词/介词"短语的辨析：get in（进入）、get out（出去）、go on（继续）、turn（转动/转弯）。这类短语的副词要紧跟动词：✗ get in the car slowly → get in slowly 位置不同意义不同，注意 get in the car 中 the car 是宾语。二是情绪形容词的用法：nervous 紧张、stressful 令人紧张（描述事），对比 -ed 与 -ing 形容词的一贯规律。
 
-get in / get out 表示"进入/出去"。in a mood 表示"心情……"。
+学完这单元，你能用英语描述家人来访时的日常安排、家里各个房间的用途，以及大家的情绪状态。
 
 ## Tips
 
-- **grandkid / dining room / community** — 孙辈 / 餐厅 / 社区。搭配：my grandkids, in the dining room, the local community。例句：My grandkids are visiting. / We eat in the dining room. / The community is friendly. 注意 grandkid 是口语（正式用 grandchild）。
+- **get in / get out / go on** — 三个方向短语。get in 进入（车内/室内）：Get in the car. get out 出去、离开：Get out of here.（注意 get out 接地点要加 of。）go on 继续：Go on with your work.
 
-- **annoy / mood / stressful** — 烦 / 心情 / 有压力的。搭配：annoy me, in a good/bad mood, very stressful。例句：Stop annoying me! / I'm in a bad mood. / The visit is stressful. 注意 annoy 是动词，annoying 是形容词。
+- **grandkid** — 孙辈（口语），= grandchild。对应长辈是 grandparent。复数 grandkids：All my grandkids are here.
 
-- **narrow / double / bright** — 窄的 / 双人的 / 明亮的。搭配：a narrow road, a double bed, bright colors。例句：The hallway is too narrow. / We need a double table. / The room is bright. 注意 narrow 的反义是 wide。
+- **dining room / parking** — dining room 餐厅（dining + room 复合词）。parking 停车、停车位：a parking lot（停车场）。找车位常说 find parking。
 
-- **get in / get out / go on** — 进入 / 出去 / 继续。搭配：get in the car, get out of, go on。例句：Get in the car! / Get out of the kitchen. / Go on—tell me more! 注意 get in 和 get out 是反义词组。
+- **community / festival** — community 社区：the local community。festival 节日：a family festival。中国传统节日常说 the Spring Festival。
 
-- **festival / recycle / parking** — 节日 / 回收 / 停车。搭配：a festival, recycle paper, a parking lot。例句：We celebrate the festival together. / Please recycle the bottles. / The parking lot is full. 注意 recycle = 回收利用。
+- **nervous / stressful / mood** — nervous 紧张的（描述人）：I am nervous about the visit. stressful 令人紧张的（描述事）：a stressful day。mood 心情：in a good mood（心情好）。
 
-- **turn / reach / right** — 转 / 够到 / 右边。搭配：turn right, reach the shelf, that's right。例句：Turn right at the light. / I can't reach the top shelf. / That's right! 注意 reach 表示"够到"（物理距离）。
+- **annoy / joke** — annoy 使恼怒：Don't annoy your brother. 形容词 annoying/annoyed。joke 玩笑：tell a joke。轻松气氛靠它。
 
-- **broccoli / sandal / joke** — 西兰花 / 凉鞋 / 笑话。搭配：eat broccoli, wear sandals, tell a joke。例句：The kids don't like broccoli. / Put on your sandals. / He told a funny joke. 注意 broccoli 不可数。
+- **turn / reach** — turn 转动、转弯：Turn right at the corner. reach 到达、够到：I can reach the shelf. reach 还指"联系上"：You can reach me by phone.
 
-- **nervous / make / against** — 紧张 / 做 / 反对。搭配：feel nervous, make dinner, against the wall。例句：I'm nervous about the visit. / Let me make dinner. / Lean against the wall. 注意 against 可表示"反对"或"靠着"。
+- **recycle / against / right** — recycle 回收利用（re- 表示"再"+ cycle）。against 靠着、反对：lean against the wall（靠墙）、be against the idea（反对）。right 正确、右边：Turn right.
 
-- **mood / annoy / grandkid** — 心情 / 烦 / 孙子。搭配：in a good mood, don't annoy, my grandkids。例句：I'm in a great mood today! / The noise annoys me. / My grandkids are so cute. 注意 in a good/bad mood 是固定搭配。
+- **double / narrow / bright** — double 双重的、双人的：a double bed。narrow 狭窄的：a narrow street。bright 明亮的、开朗的：a bright room, a bright mood。
 
-- **parking / turn / right** — 停车 / 转 / 右。搭配：parking space, turn right, turn left。例句：Is there a parking space? / Turn right here. / The parking lot is over there. 注意 parking 是名词/形容词。
-
-- **stressful / narrow / community** — 压力 / 窄 / 社区。搭配：a stressful day, a narrow street, the community。例句：The visit was stressful. / The street is very narrow. / I love this community. 注意 stressful 修饰事，stressed 修饰人。
-
-- **festival / dining room / recycle** — 节日 / 餐厅 / 回收。搭配：during the festival, in the dining room, recycle more。例句：The whole family gathers during the festival. / Set the table in the dining room. / We should recycle more.
+- **broccoli / sandal / make** — broccoli 西兰花，不可数：some broccoli。sandal 凉鞋，常用复数 sandals。make 制作、使：make dinner, make everyone laugh。
 
 ## 练习
 
@@ -61,149 +56,149 @@ get in / get out 表示"进入/出去"。in a mood 表示"心情……"。
 
 <quiz-sentence-builder>
 
-1. **中文**：在拜访期间，我的孙辈们在狭窄的餐厅里讲开心的笑话。  
-   **英文**：During the visit, my grandkid told jokes in the narrow dining room.
-   > **解析**：grandkid 表示“孙辈/孙子/孙女”；dining room 表示“餐厅”；narrow 表示“狭窄的”；joke 表示“笑话”。
+1. **中文**：孩子们上车吧。
+   **英文**：Get in the car, kids.
+   > **解析**：Get in 构成祈使句；the car 作 get in 的宾语。
 
-2. **中文**：这间餐厅的面积翻倍了，但停车位依然很紧缺。  
-   **英文**：This dining room doubled in size, but parking space is tight.
-   > **解析**：doubled / double 表示“翻倍”；parking 表示“停车/停车场”。
+2. **中文**：请出去。
+   **英文**：Please get out of the room.
+   > **解析**：get out 接地点要加 of；Please 使语气礼貌。
 
-3. **中文**：她身穿亮丽的凉鞋，满怀好心情去参加社区节日。  
-   **英文**：Wearing bright sandals, she joined the community festival in a good mood.
-   > **解析**：sandal / sandals 表示“凉鞋”；community 表示“社区”；festival 表示“节日”；mood 表示“心情/情绪”。
+3. **中文**：我们继续吃饭吧。
+   **英文**：Let's go on with dinner.
+   > **解析**：go on with 表示"继续做某事"；Let's 提出建议。
 
-4. **中文**：别为琐事烦恼或发怒，那只会增加工作压力。  
-   **英文**：Don't let minor things annoy you or make life stressful.
-   > **解析**：annoy 表示“使烦恼/打扰”；stressful 表示“充满压力的”。
+4. **中文**：在拐角处右转。
+   **英文**：Turn right at the corner.
+   > **解析**：Turn 构成祈使句；right 作方向副词。
 
-5. **中文**：我们在社区里积极回收利用废旧废品，保护环境。  
-   **英文**：We actively recycle waste in our local community.
-   > **解析**：recycle 表示“回收利用”；community 表示“社区”。
+5. **中文**：我够得到那个架子。
+   **英文**：I can reach the shelf.
+   > **解析**：can 后接动词原形 reach；the shelf 作宾语。
 
-6. **中文**：在到达会场之前，请先穿上你的双层凉鞋。  
-   **英文**：Before you reach the hall, put on your sandals.
-   > **解析**：reach 表示“到达/抵达”；sandals 表示“凉鞋”。
+6. **中文**：我们回收旧报纸。
+   **英文**：We recycle old newspapers.
+   > **解析**：We 是复数主语，recycle 用原形；old 修饰 newspapers。
 
-7. **中文**：我们在晚餐时吃了一盘新鲜的西兰花。  
-   **英文**：We had a plate of fresh broccoli in the dining room.
-   > **解析**：broccoli 表示“西兰花/花椰菜”；dining room 表示“餐厅”。
+7. **中文**：别惹你弟弟烦。
+   **英文**：Don't annoy your brother.
+   > **解析**：Don't + 动词原形构成否定祈使句。
 
-8. **中文**：感到紧张是正常的，深呼吸来放松心情吧。  
-   **英文**：Feeling nervous is normal; breathe to improve your mood.
-   > **解析**：nervous 表示“紧张的”；mood 表示“心情”。
+8. **中文**：爷爷讲了个笑话。
+   **英文**：Grandpa told a joke.
+   > **解析**：told 是 tell 的过去式；tell a joke 是固定搭配。
 
-9. **中文**：请进！大家都在等候你开始这次聚会。  
-   **英文**：Get in! Everyone is waiting for the festival to start.
-   > **解析**：get in 表示“进来/进入”。
+9. **中文**：我对这次拜访感到紧张。
+   **英文**：I am nervous about the visit.
+   > **解析**：be nervous about 是固定搭配；nervous 描述人的感受。
 
-10. **中文**：请出去！不要在这条狭窄的走廊里制造干扰。  
-   **英文**：Get out! Don't make trouble in this narrow hallway.
-   > **解析**：get out 表示“出去/离开”；narrow 表示“狭窄的”。
+10. **中文**：今天是忙碌又紧张的一天。
+   **英文**：Today is a busy and stressful day.
+   > **解析**：stressful 修饰 day 这类事物；and 连接两个形容词。
 
-11. **中文**：爷爷非常疼爱他的小孙子。  
-   **英文**：Grandpa loves his little grandkid very much.
-   > **解析**：grandkid 表示“孙子/孙女/孙辈”。
+11. **中文**：她心情很好。
+   **英文**：She is in a good mood.
+   > **解析**：in a good mood 是"心情好"的固定表达。
 
-12. **中文**：一家人在温馨的餐厅里享用丰盛的晚餐。  
-   **英文**：The whole family enjoyed dinner in the dining room.
-   > **解析**：dining room 表示“餐厅”。
+12. **中文**：孙辈们都在餐厅。
+   **英文**：The grandkids are in the dining room.
+   > **解析**：The grandkids 是复数主语，用 are；in the dining room 是地点状语。
 
-13. **中文**：全社区的人都参与到了这次节日庆祝活动中。  
-   **英文**：The whole community participated in the summer festival.
-   > **解析**：community 表示“社区”；festival 表示“节日”。
+13. **中文**：节日里社区很热闹。
+   **英文**：The community is lively during the festival.
+   > **解析**：during the festival 是时间状语；lively 作表语。
 
-14. **中文**：这条狭窄的小巷只能容纳一个人通过。  
-   **英文**：This narrow lane is wide enough for only one person.
-   > **解析**：narrow 表示“狭窄的”。
+14. **中文**：请把车停进车位。
+   **英文**：Please get the car into the parking space.
+   > **解析**：get + 宾语 + 地点短语；into 表示进入。
 
-15. **中文**：夏天穿凉鞋感觉非常透气舒适。  
-   **英文**：Wearing sandals in summer feels very cool.
-   > **解析**：sandals 表示“凉鞋”。
+15. **中文**：把梯子靠在墙上。
+   **英文**：Lean the ladder against the wall.
+   > **解析**：against 表示"靠着"；Lean 构成祈使句。
 
-16. **中文**：今天他的心情非常好，脸上挂着笑容。  
-   **英文**：He is in a very good mood today with a smile.
-   > **解析**：mood 表示“心情/情绪”。
+16. **中文**：街道很窄。
+   **英文**：The street is narrow.
+   > **解析**：narrow 作表语，表示"狭窄的"。
 
-17. **中文**：请将塑料瓶投递到社区的垃圾回收箱里。  
-   **英文**：Please recycle plastic bottles in the recycling bin.
-   > **解析**：recycle 表示“回收/循环利用”。
+17. **中文**：房间又明亮又宽敞。
+   **英文**：The room is bright and large.
+   > **解析**：and 连接两个形容词作表语。
 
-18. **中文**：多吃西兰花等绿色蔬菜对身体健康有益。  
-   **英文**：Eating more broccoli is good for your physical health.
-   > **解析**：broccoli 表示“西兰花”。
+18. **中文**：我们吃西兰花和米饭。
+   **英文**：We eat broccoli and rice.
+   > **解析**：broccoli 不可数，无复数；and 连接并列宾语。
 
-19. **中文**：噪声不断打扰他，使他无法专心工作。  
-   **英文**：The continuous noise started to annoy him.
-   > **解析**：annoy 表示“使烦恼/打扰”。
+19. **中文**：穿上你的凉鞋。
+   **英文**：Put on your sandals.
+   > **解析**：put on 是动副短语；sandals 常用复数。
 
-20. **中文**：经过两小时的车程，我们终于到达了那座小镇。  
-   **英文**：After two hours of driving, we managed to reach the town.
-   > **解析**：reach 表示“到达/抵达”。
+20. **中文**：晚饭让大家很开心。
+   **英文**：The dinner made everyone happy.
+   > **解析**：made 是 make 的过去式；make + 宾语 + 形容词结构。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. During the visit, my grandkid told jokes in the narrow dining room.
-   > **中文**：在拜访期间，我的孙辈们在狭窄的餐厅里讲开心的笑话。
+1. Get in the car, kids.
+   > **中文**：孩子们上车吧。
 
-2. This dining room doubled in size, but parking space is tight.
-   > **中文**：这间餐厅的面积翻倍了，但停车位依然很紧缺。
+2. Please get out of the room.
+   > **中文**：请出去。
 
-3. Wearing bright sandals, she joined the community festival in a good mood.
-   > **中文**：她身穿亮丽的凉鞋，满怀好心情去参加社区节日。
+3. Let's go on with dinner.
+   > **中文**：我们继续吃饭吧。
 
-4. Don't let minor things annoy you or make life stressful.
-   > **中文**：别为琐事烦恼或发怒，那只会增加工作压力。
+4. Turn right at the corner.
+   > **中文**：在拐角处右转。
 
-5. We actively recycle waste in our local community.
-   > **中文**：我们在社区里积极回收利用废旧废品，保护环境。
+5. I can reach the shelf.
+   > **中文**：我够得到那个架子。
 
-6. Before you reach the hall, put on your sandals.
-   > **中文**：在到达会场之前，请先穿上你的双层凉鞋。
+6. We recycle old newspapers.
+   > **中文**：我们回收旧报纸。
 
-7. We had a plate of fresh broccoli in the dining room.
-   > **中文**：我们在晚餐时吃了一盘新鲜的西兰花。
+7. Don't annoy your brother.
+   > **中文**：别惹你弟弟烦。
 
-8. Feeling nervous is normal; breathe to improve your mood.
-   > **中文**：感到紧张是正常的，深呼吸来放松心情吧。
+8. Grandpa told a joke.
+   > **中文**：爷爷讲了个笑话。
 
-9. Get in! Everyone is waiting for the festival to start.
-   > **中文**：请进！大家都在等候你开始这次聚会。
+9. I am nervous about the visit.
+   > **中文**：我对这次拜访感到紧张。
 
-10. Get out! Don't make trouble in this narrow hallway.
-   > **中文**：请出去！不要在这条狭窄的走廊里制造干扰。
+10. Today is a stressful day.
+   > **中文**：今天是紧张的一天。
 
-11. Grandpa loves his little grandkid very much.
-   > **中文**：爷爷非常疼爱他的小孙子。
+11. She is in a good mood.
+   > **中文**：她心情很好。
 
-12. The whole family enjoyed dinner in the dining room.
-   > **中文**：一家人在温馨的餐厅里享用丰盛的晚餐。
+12. The grandkids are in the dining room.
+   > **中文**：孙辈们都在餐厅。
 
-13. The whole community participated in the summer festival.
-   > **中文**：全社区的人都参与到了这次节日庆祝活动中。
+13. The community is lively during the festival.
+   > **中文**：节日里社区很热闹。
 
-14. This narrow lane is wide enough for only one person.
-   > **中文**：这条狭窄的小巷只能容纳一个人通过。
+14. The street is narrow.
+   > **中文**：街道很窄。
 
-15. Wearing sandals in summer feels very cool.
-   > **中文**：夏天穿凉鞋感觉非常透气舒适。
+15. The room is bright.
+   > **中文**：房间很明亮。
 
-16. He is in a very good mood today with a smile.
-   > **中文**：今天他的心情非常好，脸上挂着笑容。
+16. We eat broccoli and rice.
+   > **中文**：我们吃西兰花和米饭。
 
-17. Please recycle plastic bottles in the recycling bin.
-   > **中文**：请将塑料瓶投递到社区的垃圾回收箱里。
+17. Put on your sandals.
+   > **中文**：穿上你的凉鞋。
 
-18. Eating more broccoli is good for your physical health.
-   > **中文**：多吃西兰花等绿色蔬菜对身体健康有益。
+18. The dinner made everyone happy.
+   > **中文**：晚饭让大家很开心。
 
-19. The continuous noise started to annoy him.
-   > **中文**：噪声不断打扰他，使他无法专心工作。
+19. There is a double bed in the room.
+   > **中文**：房间里有一张双人床。
 
-20. After two hours of driving, we managed to reach the town.
-   > **中文**：经过两小时的车程，我们终于到达了那座小镇。
+20. Lean the ladder against the wall.
+   > **中文**：把梯子靠在墙上。
 
 </quiz-listening>
 
@@ -211,26 +206,37 @@ get in / get out 表示"进入/出去"。in a mood 表示"心情……"。
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| against | 反对 / 靠着 |
-| annoy | 使烦恼 / 打扰 |
-| bright | 明亮的 |
+| against | 靠着 / 反对 |
+| annoy | 使恼怒 |
+| bright | 明亮的 / 开朗的 |
 | broccoli | 西兰花 |
 | community | 社区 |
 | dining room | 餐厅 |
-| double | 翻倍 / 双重的 |
+| double | 双重的 / 双人的 |
 | festival | 节日 |
-| get in | 进来 / 进入 |
-| get out | 出去 / 离开 |
-| grandkid | 孙辈 / 孙子 / 孙女 |
-| joke | 玩笑 / 笑话 |
-| mood | 心情 / 情绪 |
+| get in | 进入 |
+| get out | 出去 |
+| go on | 继续 |
+| grandkid | 孙辈 |
+| joke | 玩笑 |
+| make | 制作 / 使 |
+| mood | 心情 |
 | narrow | 狭窄的 |
 | nervous | 紧张的 |
-| parking | 停车 / 停车场 |
-| reach | 到达 / 抵达 |
+| parking | 停车 / 停车位 |
+| reach | 够到 / 到达 |
 | recycle | 回收利用 |
+| right | 正确的 / 右边 |
 | sandal | 凉鞋 |
-| stressful | 充满压力的 |
+| stressful | 令人紧张的 |
+| turn | 转动 / 转弯 |
+| is | 是（单数） |
+| are | 是（复数） |
+| the | 这 / 那（定冠词） |
+| your | 你的 |
+| on | 在……上 |
+| of | ……的（介词） |
+| and | 和 |
 
 </quiz-matching>
 
@@ -238,202 +244,202 @@ get in / get out 表示"进入/出去"。in a mood 表示"心情……"。
 
 ### 1
 
-During the visit, my ____ told jokes in the narrow dining room.
+Get ____ the car, kids.
 
-- [x] grandkid
-- [ ] against
-- [ ] annoy
+- [x] in
+- [ ] at
+- [ ] of
 
-> **解析**：**grandkid** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get in the car"上车"；at 和 of 都不构成这个搭配。
 
 ### 2
 
-This dining room doubled in size, but ____ space is tight.
+Please get out ____ the room.
 
-- [x] parking
-- [ ] against
-- [ ] annoy
+- [x] of
+- [ ] in
+- [ ] up
 
-> **解析**：**parking** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：get out of"从……出去"是固定搭配；in 和 up 语义相反或不当。
 
 ### 3
 
-Wearing ____ sandals, she joined the community festival in a good mood.
+Let's go ____ with dinner.
 
-- [x] bright
-- [ ] against
-- [ ] annoy
+- [x] on
+- [ ] in
+- [ ] out
 
-> **解析**：**bright** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：go on with"继续"是固定搭配；in 和 out 都不构成这个意思。
 
 ### 4
 
-Don't let minor things ____ you or make life stressful.
+Turn ____ at the corner.
 
-- [x] annoy
-- [ ] against
-- [ ] bright
+- [x] right
+- [ ] rightly
+- [ ] rightness
 
-> **解析**：**annoy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：转弯方向用 right"向右"；rightly 是"正当地"，rightness 是名词。
 
 ### 5
 
-We actively ____ waste in our local community.
+I can ____ the shelf.
 
-- [x] recycle
-- [ ] against
-- [ ] annoy
+- [x] reach
+- [ ] reachable
+- [ ] reached
 
-> **解析**：**recycle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：can 后接动词原形 reach；reachable 是形容词，reached 是过去式。
 
 ### 6
 
-Before you ____ the hall, put on your sandals.
+We ____ old newspapers.
 
-- [x] reach
-- [ ] against
-- [ ] annoy
+- [x] recycle
+- [ ] recycled
+- [ ] recycling
 
-> **解析**：**reach** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：陈述习惯用一般现在时 recycle；recycling 需与 be 连用。
 
 ### 7
 
-We had a plate of fresh ____ in the dining room.
+Don't ____ your brother.
 
-- [x] broccoli
-- [ ] against
-- [ ] annoy
+- [x] annoy
+- [ ] annoyed
+- [ ] annoying
 
-> **解析**：**broccoli** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Don't 后接动词原形 annoy；后两项分别是过去式和分词。
 
 ### 8
 
-Feeling ____ is normal; breathe to improve your mood.
+Grandpa told a ____.
 
-- [x] nervous
-- [ ] against
-- [ ] annoy
+- [x] joke
+- [ ] mood
+- [ ] parking
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **nervous**。
+> **解析**：tell a joke 是固定搭配；mood 和 parking 语义不符。
 
 ### 9
 
-Get in! Everyone is waiting for the ____ to start.
+I am nervous ____ the visit.
 
-- [x] festival
+- [x] about
 - [ ] against
-- [ ] annoy
+- [ ] with
 
-> **解析**：**festival** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be nervous about 是固定搭配；against 和 with 都不构成这个搭配。
 
 ### 10
 
-Get out! Don't ____ trouble in this narrow hallway.
+Today is a ____ day.
 
-- [x] make
-- [ ] against
-- [ ] annoy
+- [x] stressful
+- [ ] stress
+- [ ] stressed about
 
-> **解析**：**make** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 day 需要形容词 stressful"令人紧张的"；stress 是名词。
 
 ### 11
 
-Grandpa loves his little ____ very much.
+She is in a good ____.
 
-- [x] grandkid
-- [ ] against
-- [ ] annoy
+- [x] mood
+- [ ] joke
+- [ ] narrow
 
-> **解析**：**grandkid** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：in a good mood 是固定表达"心情好"；joke 和 narrow 语义不符。
 
 ### 12
 
-The whole family ____ dinner in the dining room.
+The grandkids are in the dining ____.
 
-- [x] enjoyed
-- [ ] against
-- [ ] annoy
+- [x] room
+- [ ] rooms
+- [ ] festival
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **enjoyed**。
+> **解析**：dining room 是固定复合词"餐厅"；festival 语义不符。
 
 ### 13
 
-The whole ____ participated in the summer festival.
+The community is lively during the ____.
 
-- [x] community
-- [ ] against
-- [ ] annoy
+- [x] festival
+- [ ] parking
+- [ ] broccoli
 
-> **解析**：**community** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：during 后接节日 festival；parking 和 broccoli 语义不符。
 
 ### 14
 
-This ____ lane is wide enough for only one person.
+The street is ____.
 
 - [x] narrow
-- [ ] against
-- [ ] annoy
+- [ ] narrowly
+- [ ] narrowness
 
-> **解析**：**narrow** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 narrow 作表语；narrowly 是副词，narrowness 是名词。
 
 ### 15
 
-____ sandals in summer feels very cool.
+The room is ____.
 
-- [x] Wearing
-- [ ] against
-- [ ] annoy
+- [x] bright
+- [ ] brighten
+- [ ] brightness
 
-> **解析**：**Wearing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：is 后需要形容词 bright；brighten 是动词，brightness 是名词。
 
 ### 16
 
-He is in a very good ____ today with a smile.
+We eat ____ and rice.
 
-- [x] mood
-- [ ] against
-- [ ] annoy
+- [x] broccoli
+- [ ] broccolis
+- [ ] sandal
 
-> **解析**：**mood** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：broccoli 不可数无复数；sandal 语义不符。
 
 ### 17
 
-Please ____ plastic bottles in the recycling bin.
+Put on your ____.
 
-- [x] recycle
-- [ ] against
-- [ ] annoy
+- [x] sandals
+- [ ] sandal
+- [ ] broccoli
 
-> **解析**：**recycle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：凉鞋成双，常用复数 sandals；broccoli 语义不符。
 
 ### 18
 
-Eating more ____ is good for your physical health.
+The dinner made everyone ____.
 
-- [x] broccoli
-- [ ] against
-- [ ] annoy
+- [x] happy
+- [ ] happily
+- [ ] happiness
 
-> **解析**：**broccoli** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：make + 宾语 + 形容词 happy；happily 是副词，happiness 是名词。
 
 ### 19
 
-The continuous noise started to ____ him.
+There is a ____ bed in the room.
 
-- [x] annoy
-- [ ] against
-- [ ] bright
+- [x] double
+- [ ] doubly
+- [ ] doubled of
 
-> **解析**：**annoy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：double bed"双人床"是固定搭配；doubly 是副词，doubled of 结构错误。
 
 ### 20
 
-After two hours of driving, we managed to ____ the town.
+Lean the ladder ____ the wall.
 
-- [x] reach
-- [ ] against
-- [ ] annoy
+- [x] against
+- [ ] against to
+- [ ] toward
 
-> **解析**：**reach** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：lean against"靠着"是固定搭配，不加 to；toward 表朝向不表倚靠。
 
 </quiz-cloze>

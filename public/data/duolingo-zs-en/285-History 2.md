@@ -10,42 +10,33 @@ age, capture, charm, designed, draw your attention to, exhibit, formerly, herita
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"探索当地历史遗迹"展开，场景是参观文化遗产景点。词表里有描述历史场所和展品的词汇（heritage, site, monument, tower, exhibit, portrait, pottery, masterpiece），有导览和介绍时常用的表达（draw your attention to, highlight, in particular, noteworthy, must-see, on display），也有指示和指代的短语（these ones, those ones, the most famous ones）。你可以练习这样的导览叙述：Let me draw your attention to this tower—it was formerly a watchtower, and it's the highlight of the site. / The pottery on display is noteworthy; in particular, these ones capture the charm of the age. / This portrait is a masterpiece, and it's a must-see on any tour.
+本单元的主题是"探索当地的历史遗迹"，场景是博物馆与古迹导览。词表可以分成四组：展品与文物（exhibit, masterpiece, portrait, pottery, on display）、建筑与遗迹（monument, tower, site, heritage）、评价与亮点（highlight, noteworthy, must-see, charm, capture, in particular）、以及指示与讲解用语（draw your attention to, formerly, designed, the most famous ones, these ones, those ones, tour, age）。拼起来就是一段导览词：Let me draw your attention to this exhibit. These ones are pottery from the site, and those ones are the most famous ones on display.
 
-词表里有几个"导游语言"的典型表达：draw your attention to（请注意……）、highlight（亮点）、must-see（必看）、on display（展出中）。这些表达在博物馆、景点导览中极其常见。formerly 是"从前、以前"，用来介绍建筑或场所的历史变迁。
+语法主线是"指示与对比表达"。these ones / those ones 用来指代"这些/那些（东西）"，导览中常用：These ones are older than those ones. the most famous ones 是最高级 + ones，指代同类中最著名的。另一条主线是讲解语域：draw your attention to（请注意…）、formerly（以前、曾经）、designed by（由…设计），都是正式导览的标志用语。
+
+学完这单元，你能用英语介绍历史遗迹与展品：指出亮点、对比文物、给出评价，还能当一回小导游。
 
 ## Tips
 
-- **heritage** — 遗产、文化遗产。搭配：cultural heritage / heritage site / world heritage / protect our heritage。例句：This town is a UNESCO World Heritage Site. 注意 heritage 强调"从过去传承下来的、有历史价值的"，比 history 更侧重"值得保护和传承"。
+- **draw your attention to / in particular** — 导览开场。draw your attention to 是"请大家注意…"：I'd like to draw your attention to this painting. in particular 是"尤其"：I love the pottery in particular.
 
-- **monument** — 纪念碑、纪念建筑。搭配：a national monument / a war monument / a historic monument。例句：The monument was designed to honor the town's founders. 注意 monument 通常指为纪念某人或某事而建造的大型建筑或雕塑。
+- **exhibit / on display** — 展览双词。exhibit 是展品；on display 是"展出中"：The artifacts are on display. 两词常一起出现。
 
-- **masterpiece** — 杰作、代表作。master（大师）+ piece（作品）。搭配：a masterpiece of art / an architectural masterpiece / her masterpiece。例句：This portrait is considered the artist's masterpiece. 注意 masterpiece 不只用于艺术，也可以形容任何领域的巅峰之作。
+- **masterpiece / portrait / pottery** — 文物三词。masterpiece 是杰作（master 大师 + piece 作品）；portrait 是肖像画；pottery 是陶器，不可数：ancient pottery。
 
-- **exhibit / on display** — exhibit 做名词指"展品"，做动词指"展览"。on display = 展出中、陈列着。搭配：an exhibit of ancient pottery / the paintings are on display / a temporary exhibit。例句：The pottery on display dates back over a thousand years. 注意 exhibit（单个展品）和 exhibition（整个展览）的区别。
+- **monument / tower / site / heritage** — 遗迹四词。monument 是纪念碑/古迹；tower 是塔；site 是遗址/地点：a historical site。heritage 是遗产：cultural heritage（文化遗产）。
 
-- **portrait / pottery** — portrait = 肖像画、人像：a portrait of the queen / a self-portrait / a family portrait。pottery = 陶器、陶艺：ancient pottery / a pottery workshop / a piece of pottery。例句：The portrait hangs next to a collection of ancient pottery. 注意 pottery 不可数（指陶器总称），a piece of pottery 指一件陶器。
+- **highlight / noteworthy / must-see** — 亮点评价。highlight 是"亮点"（作名词）：the highlight of the tour。noteworthy 是"值得注意的"（note + worthy）；must-see 是"必看之地"：The museum is a must-see.
 
-- **formerly** — 从前、以前。比 before 更正式，常用于介绍历史变迁。搭配：formerly known as / formerly a... / the building was formerly...。例句：This tower was formerly part of the city wall. 同义词：previously / in the past。注意 formally（正式地）拼写相近但意思完全不同。
+- **charm / capture / age** — 感受三词。charm 是魅力：the charm of the old town。capture 是"捕捉、吸引"：It captures your attention. age 是年代/年龄：a tower of great age（年代久远的塔）。
 
-- **draw your attention to** — 请注意、请看一下。导览和演讲中的经典开场。搭配：I'd like to draw your attention to... / Let me draw your attention to...。例句：If you look to your left, I'd like to draw your attention to this remarkable monument. 比 look at 更正式、更有引导感。
+- **formerly / designed** — 讲解用语。formerly 是"以前"（比 before 正式）：The tower was formerly a lighthouse. designed 是"设计的"：designed by a famous architect。
 
-- **highlight / must-see / noteworthy** — highlight = 亮点、最精彩的部分：the highlight of the tour / the main highlight。must-see = 必看的（形容词）：a must-see exhibit / this tower is a must-see。noteworthy = 值得注意的：a noteworthy detail / particularly noteworthy。例句：The highlight of the site is the tower, which is noteworthy for its age.
+- **the most famous ones / these ones / those ones** — 指代三式。ones 替代前文提过的可数名词，避免重复：I like these paintings, especially the most famous ones. these ones 指近处的，those ones 指远处的。
 
-- **in particular** — 特别是、尤其。搭配：in particular + 名词 / one in particular。例句：The pottery is beautiful—in particular, these ones from the 12th century. 比 especially 更正式。注意位置灵活：In particular, I love the portraits. / I love the portraits in particular.
-
-- **charm / capture / age** — charm = 魅力、韵味：the charm of the old town / full of charm。capture = 捕捉、展现：capture the beauty / capture the spirit / capture the charm。age = 时代、年代：the Bronze Age / from a different age / the age of the building。例句：These portraits capture the charm of a bygone age.
-
-- **site / tour / tower** — site = 遗址、场所：a historic site / a heritage site / the site of the old castle。tour = 导览、参观：a guided tour / take a tour / a walking tour。tower = 塔、塔楼：a bell tower / a watchtower / a stone tower。例句：Our tour of the site includes a climb to the top of the tower.
-
-- **these ones / those ones / the most famous ones** — 指示代词 + ones 的用法。these ones = 这些（近处）：These ones are from the 15th century. those ones = 那些（远处）：Those ones on the wall are portraits. the most famous ones = 最有名的那些：The most famous ones are on display in the main hall. ones 代替前面提到的名词，避免重复。
-
-- **designed** — 设计（过去分词）。搭配：designed by / designed to / carefully designed。例句：The monument was designed by a famous architect. 注意 design 做动词和名词都可以：a design / to design。过去分词 designed 常用于被动语态描述建筑和艺术品的创作。
-
-- **must-see** — 必看的、不可错过的。复合形容词，有连字符。搭配：a must-see attraction / a must-see exhibit / this is a must-see。例句：The heritage site is a must-see for history lovers. 口语中也可以做名词：This museum is a real must-see. 类似构词：must-read（必读）、must-try（必试）。
+- **tour** — 导览。tour 是参观/游览：take a tour of the museum。也可作动词：We toured the old town.
 
 ## 练习
 
@@ -63,149 +54,149 @@ age, capture, charm, designed, draw your attention to, exhibit, formerly, herita
 
 <quiz-sentence-builder>
 
-1. **中文**：这座古老的城堡是一处受保护的文化遗产遗址。
-   **英文**：This ancient castle is a protected cultural heritage site.
-   > **解析**：heritage 表示文化遗产。
+1. **中文**：请大家注意这幅肖像画。
+   **英文**：Let me draw your attention to this portrait.
+   > **解析**：Let me 后接动词原形；draw your attention to 是固定短语。
 
-2. **中文**：人们建造了一座花岗岩纪念碑来纪念英勇的士兵们。
-   **英文**：A granite monument was built to honor the heroic soldiers.
-   > **解析**：monument 表示纪念碑、纪念建筑。
+2. **中文**：这些陶器来自那个遗址。
+   **英文**：These ones are pottery from the site.
+   > **解析**：These ones 指代复数文物；are 与复数主语一致。
 
-3. **中文**：这幅名画被认为是一件永恒的杰作。
-   **英文**：The famous painting is considered a timeless masterpiece.
-   > **解析**：masterpiece 表示杰作、代表作。
+3. **中文**：那些是展品中最有名的。
+   **英文**：Those ones are the most famous ones on display.
+   > **解析**：the most famous ones 是最高级 + ones；on display 作后置定语。
 
-4. **中文**：博物馆展示着关于中世纪铠甲的精彩展品。
-   **英文**：The museum features an interesting exhibit of medieval armor.
-   > **解析**：exhibit 做名词指展品或展览。
+4. **中文**：这座塔以前是一座灯塔。
+   **英文**：The tower was formerly a lighthouse.
+   > **解析**：was 表过去状态；formerly 是副词"以前"。
 
-5. **中文**：几顶无价的王冠目前正在大厅里展出。
-   **英文**：Several priceless crowns are currently on display in the hall.
-   > **解析**：on display 表示展出中、陈列着。
+5. **中文**：这座纪念碑是由一位著名艺术家设计的。
+   **英文**：The monument was designed by a famous artist.
+   > **解析**：was designed by 是被动语态，说明设计者。
 
-6. **中文**：她绘制了一幅关于这位历史领袖的精彩肖像画。
-   **英文**：She painted a stunning portrait of the historical leader.
-   > **解析**：portrait 表示肖像画。
+6. **中文**：这次游览的亮点是那些杰作。
+   **英文**：The highlight of the tour is those masterpieces.
+   > **解析**：The highlight 是单数主语，用 is；of the tour 是定语。
 
-7. **中文**：考古学家在河边发现了古代陶器碎片。
-   **英文**：Archeologists discovered ancient pottery pieces near the river.
-   > **解析**：pottery 不可数名词，指陶器、陶艺。
+7. **中文**：这座博物馆是必看的。
+   **英文**：The museum is a must-see.
+   > **解析**：must-see 作名词"必看之地"，前面加冠词 a。
 
-8. **中文**：这座建筑从前是被用作皇宫的。
-   **英文**：This building was formerly used as a royal palace.
-   > **解析**：formerly 表示“从前、以前”。
+8. **中文**：有几件值得注意的文物。
+   **英文**：There are several noteworthy artifacts.
+   > **解析**：There are + 复数名词；noteworthy 修饰 artifacts。
 
-9. **中文**：请让我引导您的注意力看墙上精美的雕刻。
-   **英文**：Let me draw your attention to the intricate carvings on the wall.
-   > **解析**：draw your attention to 意为“请您注意/看……”
+9. **中文**：老城有它独特的魅力。
+   **英文**：The old town has its own charm.
+   > **解析**：has 与单数主语一致；its own 修饰 charm。
 
-10. **中文**：围绕着古老废墟的有导览游参观持续了两个小时。
-   **英文**：The guided tour around the old ruins took two hours.
-   > **解析**：tour 表示导览参观、游览。
+10. **中文**：这座雕像吸引了所有人的目光。
+   **英文**：The statue captures everyone's attention.
+   > **解析**：captures 是第三人称单数；everyone's 是所有格。
 
-11. **中文**：钟楼提供了整座全貌城市的俯瞰景观。
-   **英文**：The clock tower offers a panoramic view of the entire city.
-   > **解析**：tower 指塔、塔楼。
+11. **中文**：这座塔的年代非常久远。
+   **英文**：The tower is of great age.
+   > **解析**：be of + 名词结构表示属性；great 修饰 age。
 
-12. **中文**：该博物馆最精彩的亮点是金币收藏品。
-   **英文**：The highlight of the museum is the gold coin collection.
-   > **解析**：highlight 表示亮点、最精彩的部分。
+12. **中文**：我尤其喜欢这些陶器。
+   **英文**：I like the pottery in particular.
+   > **解析**：in particular 作后置状语"尤其"；pottery 不可数。
 
-13. **中文**：这座大教堂是游客必看的景点。
-   **英文**：This cathedral is a must-see attraction for tourists.
-   > **解析**：must-see 复合形容词，意为“必看的、不可错过的”。
+13. **中文**：这些文物正在展出。
+   **英文**：These exhibits are on display.
+   > **解析**：are 与复数主语一致；on display 作表语。
 
-14. **中文**：她对隐藏密室的发现特别值得注意。
-   **英文**：Her discovery of the hidden chamber is particularly noteworthy.
-   > **解析**：noteworthy 表示值得注意的。
+14. **中文**：那幅肖像画是一件杰作。
+   **英文**：That portrait is a masterpiece.
+   > **解析**：That portrait 是单数主语，用 is；a masterpiece 作表语。
 
-15. **中文**：我总体上喜欢历史，尤其是中世纪历史。
-   **英文**：I enjoy history in general, and medieval history in particular.
-   > **解析**：in particular 表示“特别是、尤其是”。
+15. **中文**：这个遗址是文化遗产。
+   **英文**：This site is a cultural heritage site.
+   > **解析**：cultural 修饰 heritage；This site 用 is。
 
-16. **中文**：古老狭窄的街道反映出这座小镇独特的魅力。
-   **英文**：The old narrow streets reflect the unique charm of the town.
-   > **解析**：charm 表示魅力、韵味。
+16. **中文**：我们参观了那座古城。
+   **英文**：We toured the old city.
+   > **解析**：toured 是 tour 的过去式，作动词"游览"。
 
-17. **中文**：这些照片捕捉到了那个过去时代的氛围。
-   **英文**：The photographs capture the atmosphere of that bygone age.
-   > **解析**：capture 表示捕捉、展现；age 表示时代。
+17. **中文**：这些陶器比那些更古老。
+   **英文**：These ones are older than those ones.
+   > **解析**：older than 是比较级结构；ones 替代陶器。
 
-18. **中文**：这座桥梁是由一位著名的意大利建筑师设计的。
-   **英文**：This bridge was designed by a famous Italian architect.
-   > **解析**：designed 过去分词，意为“被设计的”。
+18. **中文**：导览从纪念碑开始。
+   **英文**：The tour starts at the monument.
+   > **解析**：starts 是第三人称单数；at the monument 是地点状语。
 
-19. **中文**：近处的这些是手工制作的，而远处的那些是机器制造的。
-   **英文**：These ones are handmade, while those ones were machine-manufactured.
-   > **解析**：these ones 指代近处的这些事物。
+19. **中文**：这座建筑的设计令人惊叹。
+   **英文**：The design of the building is amazing.
+   > **解析**：The design 是单数主语，用 is；of the building 是定语。
 
-20. **中文**：在所有雕像中，最有名的那些都在庭院里。
-   **英文**：Among all the statues, the most famous ones are in the courtyard.
-   > **解析**：the most famous ones 结构用于指代群体中最出名的那些。
+20. **中文**：这些是最有名的杰作。
+   **英文**：These are the most famous ones.
+   > **解析**：These 作主语复数，用 are；the most famous ones 是最高级指代。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. This ancient castle is a protected cultural heritage site.
-   > **中文**：这座古老的城堡是一处受保护的文化遗产遗址。
+1. Let me draw your attention to this portrait.
+   > **中文**：请大家注意这幅肖像画。
 
-2. A granite monument was built to honor the heroic soldiers.
-   > **中文**：人们建造了一座花岗岩纪念碑来纪念英勇的士兵们。
+2. These ones are pottery from the site.
+   > **中文**：这些陶器来自那个遗址。
 
-3. The famous painting is considered a timeless masterpiece.
-   > **中文**：这幅名画被认为是一件永恒的杰作。
+3. Those ones are the most famous ones on display.
+   > **中文**：那些是展品中最有名的。
 
-4. The museum features an interesting exhibit of medieval armor.
-   > **中文**：博物馆展示着关于中世纪铠甲的精彩展品。
+4. The tower was formerly a lighthouse.
+   > **中文**：这座塔以前是一座灯塔。
 
-5. Several priceless crowns are currently on display in the hall.
-   > **中文**：几顶无价的王冠目前正在大厅里展出。
+5. The monument was designed by a famous artist.
+   > **中文**：这座纪念碑是由一位著名艺术家设计的。
 
-6. She painted a stunning portrait of the historical leader.
-   > **中文**：她绘制了一幅关于这位历史领袖的精彩肖像画。
+6. The highlight of the tour is those masterpieces.
+   > **中文**：这次游览的亮点是那些杰作。
 
-7. Archeologists discovered ancient pottery pieces near the river.
-   > **中文**：考古学家在河边发现了古代陶器碎片。
+7. The museum is a must-see.
+   > **中文**：这座博物馆是必看的。
 
-8. This building was formerly used as a royal palace.
-   > **中文**：这座建筑从前是被用作皇宫的。
+8. There are several noteworthy artifacts.
+   > **中文**：有几件值得注意的文物。
 
-9. Let me draw your attention to the intricate carvings on the wall.
-   > **中文**：请让我引导您的注意力看墙上精美的雕刻。
+9. The old town has its own charm.
+   > **中文**：老城有它独特的魅力。
 
-10. The guided tour around the old ruins took two hours.
-   > **中文**：围绕着古老废墟的有导览游参观持续了两个小时。
+10. The statue captures everyone's attention.
+   > **中文**：这座雕像吸引了所有人的目光。
 
-11. The clock tower offers a panoramic view of the entire city.
-   > **中文**：钟楼提供了整座全貌城市的俯瞰景观。
+11. The tower is of great age.
+   > **中文**：这座塔的年代非常久远。
 
-12. The highlight of the museum is the gold coin collection.
-   > **中文**：该博物馆最精彩的亮点是金币收藏品。
+12. I like the pottery in particular.
+   > **中文**：我尤其喜欢这些陶器。
 
-13. This cathedral is a must-see attraction for tourists.
-   > **中文**：这座大教堂是游客必看的景点。
+13. These exhibits are on display.
+   > **中文**：这些文物正在展出。
 
-14. Her discovery of the hidden chamber is particularly noteworthy.
-   > **中文**：她对隐藏密室的发现特别值得注意。
+14. That portrait is a masterpiece.
+   > **中文**：那幅肖像画是一件杰作。
 
-15. I enjoy history in general, and medieval history in particular.
-   > **中文**：我总体上喜欢历史，尤其是中世纪历史。
+15. This site is a cultural heritage site.
+   > **中文**：这个遗址是文化遗产。
 
-16. The old narrow streets reflect the unique charm of the town.
-   > **中文**：古老狭窄的街道反映出这座小镇独特的魅力。
+16. We toured the old city.
+   > **中文**：我们参观了那座古城。
 
-17. The photographs capture the atmosphere of that bygone age.
-   > **中文**：这些照片捕捉到了那个过去时代的氛围。
+17. These ones are older than those ones.
+   > **中文**：这些陶器比那些更古老。
 
-18. This bridge was designed by a famous Italian architect.
-   > **中文**：这座桥梁是由一位著名的意大利建筑师设计的。
+18. The tour starts at the monument.
+   > **中文**：导览从纪念碑开始。
 
-19. These ones are handmade, while those ones were machine-manufactured.
-   > **中文**：近处的这些是手工制作的，而远处的那些是机器制造的。
+19. The design of the building is amazing.
+   > **中文**：这座建筑的设计令人惊叹。
 
-20. Among all the statues, the most famous ones are in the courtyard.
-   > **中文**：在所有雕像中，最有名的那些都在庭院里。
+20. These are the most famous ones.
+   > **中文**：这些是最有名的杰作。
 
 </quiz-listening>
 
@@ -213,26 +204,37 @@ age, capture, charm, designed, draw your attention to, exhibit, formerly, herita
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| heritage | 遗产 / 文化遗产 |
-| monument | 纪念碑 / 纪念建筑 |
-| masterpiece | 杰作 / 代表作 |
-| exhibit | 展品 / 展览 |
-| on display | 展出中 / 陈列着 |
-| portrait | 肖像画 / 人像 |
-| pottery | 陶器 / 陶艺 |
-| formerly | 从前 / 以前 |
-| draw your attention to | 请注意…… / 请看…… |
-| highlight | 亮点 / 最精彩部分 |
-| must-see | 必看的 / 不可错过的 |
-| noteworthy | 值得注意的 |
-| in particular | 特别是 / 尤其是 |
-| charm | 魅力 / 韵味 |
-| capture | 捕捉 / 展现 |
-| age | 时代 / 年代 |
-| tower | 塔 / 塔楼 |
+| age | 年代 / 年龄 |
+| capture | 捕捉 / 吸引 |
+| charm | 魅力 |
 | designed | 设计的 |
-| these ones | these ones |
+| draw your attention to | 请注意… |
+| exhibit | 展品 |
+| formerly | 以前 |
+| heritage | 遗产 |
+| highlight | 亮点 |
+| in particular | 尤其 |
+| masterpiece | 杰作 |
+| monument | 纪念碑 |
+| must-see | 必看之地 |
+| noteworthy | 值得注意的 |
+| on display | 展出中 |
+| portrait | 肖像画 |
+| pottery | 陶器 |
+| site | 遗址 / 地点 |
 | the most famous ones | 最有名的那些 |
+| these ones | 这些 |
+| those ones | 那些 |
+| tour | 游览 / 导览 |
+| tower | 塔 |
+| is | 是 |
+| the | 这个（定冠词） |
+| museum | 博物馆 |
+| statue | 雕像 |
+| building | 建筑 |
+| city | 城市 |
+| lighthouse | 灯塔 |
+| artifacts | 文物 |
 
 </quiz-matching>
 
@@ -240,202 +242,202 @@ age, capture, charm, designed, draw your attention to, exhibit, formerly, herita
 
 ### 1
 
-This ancient castle is a protected cultural ____ site.
+Let me draw your ____ to this portrait.
 
-- [x] heritage
-- [ ] age
-- [ ] capture
+- [x] attention
+- [ ] attraction
+- [ ] intention
 
-> **解析**：**heritage** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：draw your attention to 是固定短语"请注意"；attraction 和 intention 不合。
 
 ### 2
 
-A granite ____ was built to honor the heroic soldiers.
+These ____ are pottery from the site.
 
-- [x] monument
-- [ ] age
-- [ ] capture
+- [x] ones
+- [ ] one
+- [ ] once
 
-> **解析**：**monument** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：复数指代用 ones；one 是单数，once 是副词"曾经"，不合。
 
 ### 3
 
-The famous painting is considered a timeless ____.
+The tower was ____ a lighthouse.
 
-- [x] masterpiece
-- [ ] age
-- [ ] capture
+- [x] formerly
+- [ ] formally
+- [ ] form
 
-> **解析**：**masterpiece** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：formerly 是"以前"；formally 是"正式地"，形近但义异；form 是名词。
 
 ### 4
 
-The museum features an interesting ____ of medieval armor.
+The monument was ____ by a famous artist.
 
-- [x] exhibit
-- [ ] age
-- [ ] capture
+- [x] designed
+- [ ] design
+- [ ] designing
 
-> **解析**：**exhibit** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：被动语态 was + 过去分词 designed；原形和现在分词不合。
 
 ### 5
 
-Several ____ crowns are currently on display in the hall.
+The ____ of the tour is those masterpieces.
 
-- [x] priceless
-- [ ] age
-- [ ] capture
+- [x] highlight
+- [ ] light
+- [ ] highlights
 
-> **解析**：**priceless** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：highlight（亮点）作主语单数；light 是光，复数形式与 is 不合。
 
 ### 6
 
-She painted a stunning ____ of the historical leader.
+The museum is a ____.
 
-- [x] portrait
-- [ ] age
-- [ ] capture
+- [x] must-see
+- [ ] must-saw
+- [ ] must-seen
 
-> **解析**：**portrait** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：must-see 是固定名词"必看之地"；其他拼写不合。
 
 ### 7
 
-Archeologists discovered ancient ____ pieces near the river.
+There are several ____ artifacts.
 
-- [x] pottery
-- [ ] age
-- [ ] capture
+- [x] noteworthy
+- [ ] noteworth
+- [ ] worthy note
 
-> **解析**：**pottery** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：noteworthy（值得注意的）是形容词；其他形式不合。
 
 ### 8
 
-This building was ____ used as a royal palace.
+The old town has its own ____.
 
-- [x] formerly
-- [ ] age
-- [ ] capture
+- [x] charm
+- [ ] charming
+- [ ] charms
 
-> **解析**：**formerly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：its own 后接名词 charm；charming 是形容词，复数不合该搭配。
 
 ### 9
 
-Let me draw your ____ to the intricate carvings on the wall.
+The statue ____ everyone's attention.
 
-- [x] attention
-- [ ] age
+- [x] captures
 - [ ] capture
+- [ ] captured of
 
-> **解析**：**attention** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：第三人称单数主语用 captures；原形不合主谓一致。
 
 ### 10
 
-The guided ____ around the old ruins took two hours.
+The tower is of great ____.
 
-- [x] tour
-- [ ] age
-- [ ] capture
+- [x] age
+- [ ] aged
+- [ ] aging
 
-> **解析**：**tour** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be of + 名词 age 表示属性；形容词和分词不合该结构。
 
 ### 11
 
-The clock ____ offers a panoramic view of the entire city.
+I like the pottery in ____.
 
-- [x] tower
-- [ ] age
-- [ ] capture
+- [x] particular
+- [ ] particularity
+- [ ] particulars
 
-> **解析**：**tower** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：in particular 是固定短语"尤其"；名词变体不合。
 
 ### 12
 
-The ____ of the museum is the gold coin collection.
+These exhibits are on ____.
 
-- [x] highlight
-- [ ] age
-- [ ] capture
+- [x] display
+- [ ] displayed
+- [ ] displaying
 
-> **解析**：**highlight** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：on display 是固定短语"展出中"；其他形式不合。
 
 ### 13
 
-This cathedral is a ____ attraction for tourists.
+That portrait is a ____.
 
-- [x] must-see
-- [ ] age
-- [ ] capture
+- [x] masterpiece
+- [ ] master
+- [ ] masterful
 
-> **解析**：**must-see** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：masterpiece（杰作）是名词作表语；master 指人，masterful 是形容词。
 
 ### 14
 
-Her discovery of the hidden chamber is particularly ____.
+This site is a cultural ____ site.
 
-- [x] noteworthy
-- [ ] age
-- [ ] capture
+- [x] heritage
+- [ ] inherit
+- [ ] hereditary
 
-> **解析**：**noteworthy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：cultural heritage（文化遗产）是固定搭配；inherit 是动词，hereditary 是"遗传的"。
 
 ### 15
 
-I enjoy history in general, and medieval history in ____.
+We ____ the old city last week.
 
-- [x] particular
-- [ ] age
-- [ ] capture
+- [x] toured
+- [ ] touring
+- [ ] tours
 
-> **解析**：**particular** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：last week 表过去，用 toured；ing 形式和第三人称单数不合。
 
 ### 16
 
-The old narrow streets reflect the unique ____ of the town.
+These ones are ____ than those ones.
 
-- [x] charm
-- [ ] age
-- [ ] capture
+- [x] older
+- [ ] oldest
+- [ ] old
 
-> **解析**：**charm** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：than 提示比较级 older；最高级和原级不合。
 
 ### 17
 
-The photographs ____ the atmosphere of that bygone age.
+The tour ____ at the monument.
 
-- [x] capture
-- [ ] age
-- [ ] charm
+- [x] starts
+- [ ] start
+- [ ] starting
 
-> **解析**：**capture** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：第三人称单数主语 The tour 用 starts；原形和分词不合。
 
 ### 18
 
-This bridge was ____ by a famous Italian architect.
+The ____ of the building is amazing.
 
-- [x] designed
-- [ ] age
-- [ ] capture
+- [x] design
+- [ ] designed
+- [ ] designing
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **designed**。
+> **解析**：冠词 The 后接名词 design；分词形式不合该位置。
 
 ### 19
 
-These ones are handmade, while those ones were ____.
+These are the most famous ____.
 
-- [x] machine-manufactured
-- [ ] age
-- [ ] capture
+- [x] ones
+- [ ] one
+- [ ] one's
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **machine-manufactured**。
+> **解析**：最高级后复数指代用 ones；单数和所有格不合。
 
 ### 20
 
-Among all the statues, the most famous ones are in the ____.
+The exhibits ____ on display now.
 
-- [x] courtyard
-- [ ] age
-- [ ] capture
+- [x] are
+- [ ] is
+- [ ] was
 
-> **解析**：**courtyard** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：复数主语 exhibits 搭配 are；is 和 was 不合。
 
 </quiz-cloze>

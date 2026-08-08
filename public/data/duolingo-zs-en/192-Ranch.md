@@ -10,34 +10,33 @@ blow away, blown, bull, calf, calves, cattle, countryside, donkey, eastern, feed
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"描述牧场生活"展开。词表里有两类核心词汇：一是牧场上的动物和劳作——bull, calf, cattle, goat, donkey, feed；二是乡村地理和自然风光——countryside, landscape, land, flat, sandy, shore, shade。方位词 eastern, northern, southern, western 让你可以描述牧场所在的地理环境，比如 The ranch is in the northern countryside. The land is flat and sandy.
+本单元的主题是"牧场生活"。词表可以分成三组：动物词（bull, calf, calves, cattle, donkey, goat）、自然与地景词（land, landscape, countryside, shore, sandy, flat, shade, light, ranch）、以及方位与动作词（eastern, western, northern, southern, feed, look, blow away, blown, on top of, horseback riding）。拼起来就是牧场素描：The ranch is in the northern countryside. We feed the cattle and the goats every morning. The wind blows sand away, and the calves rest in the shade.
 
-牧场生活离不开对动物的照料。你可以练习：Feed the cattle. / The bull is on top of the hill. / The calves are in the shade. / Look at the goat by the shore. 注意 calf 的复数是 calves（不规则变化），和 calf → calves 类似的还有 wolf → wolves。
+语法主线是不规则复数与不规则动词。calf → calves（f 变 ves），与 life → lives 同规律；cattle 是集合名词"牛群"，本身表复数，谓语用复数。blow → blew → blown 是不规则动词三态，本单元出现 blown（过去分词）：The hat was blown away. 另一条主线是方位形容词 -ern 后缀：east → eastern、west → western、north → northern、south → southern，描述方位的构词规律。
 
-blow away / blown 涉及风的描写——The wind blown across the flat land. Horseback riding 则是牧场上的典型活动。整体来看，这个单元帮你建立描述开阔乡村场景的语言能力。
+学完这些词，你能用英语描述牧场与乡村生活、介绍动物和自然景色，并说明方位。
 
 ## Tips
 
-- **cattle / calf / calves** — cattle 是"牛群"的总称，本身已是复数概念，不说 a cattle，要说 a head of cattle 或直接用 cows。calf 是小牛，复数 calves（-f 变 -ves）。注意 cattle 没有单数形式，类似中文的"牲口"。
+- **calf / calves / bull / cattle / goat / donkey** — 牧场动物六词。calf 小牛，复数 calves（f → ves）；bull 公牛；cattle 牛群，集合名词，谓语用复数：The cattle are grazing.；goat 山羊；donkey 驴。注意 ✗ a cattle → ✓ a cow / cattle（复数概念）。
 
-- **bull / goat / donkey** — bull 是未阉割的成年公牛（区别于 cow 母牛、ox 阉牛/役牛）。goat 是山羊，donkey 是驴。搭配：a bull charges, a goat climbs, a stubborn donkey。
+- **blow away / blown** — blow 吹，不规则变化 blow → blew → blown。blow away 吹走：The wind blew the hat away. blown 是过去分词：The leaves have been blown away.
 
-- **ranch / countryside / landscape** — ranch 特指（尤指美国西部的）大牧场，以养牛马为主；farm 更泛指农场。countryside 是"乡村地区"，landscape 是"风景、地貌"。搭配：work on a ranch, the English countryside, a beautiful landscape。
+- **feed** — "喂养"，不规则变化 feed → fed → fed：We feed the goats at six. feed 后直接接喂养的对象。
 
-- **feed / shade / shore** — feed 作动词"喂养"，搭配 feed the cattle / feed the goats。shade 是"阴凉处"（不可数），in the shade = 在阴凉处；shadow 是"影子"（可数）。shore 是"岸"，常指湖岸或海岸。
+- **ranch / countryside / land / landscape** — ranch 牧场（美式大牧场）；countryside 乡村（不可数）；land 土地；landscape 风景、地貌。四词描绘乡村空间，注意 countryside 不加冠词：in the countryside。
 
-- **flat / sandy / light** — flat 形容地形"平坦的"，搭配 flat land, a flat area。sandy = 沙质的，sandy soil, a sandy beach。light 在这里可形容光线"明亮的"或重量"轻的"，语境决定含义。
+- **shore / sandy / flat / shade / light** — 自然细节五词。shore 岸、湖边/海岸；sandy 沙质的（sand + y）；flat 平坦的；shade 阴凉处：rest in the shade（在阴凉处休息）；light 光线，也可指轻的。
 
-- **eastern / northern / southern / western** — 四个方位形容词，由 east/north/south/west + -ern 构成。搭配：the northern region, the western coast。注意大写时指特定区域：the South（美国南方），小写则泛指方向。
+- **eastern / western / northern / southern** — 方位形容词四兄弟，都是名词 + -ern 构成。注意书写常大写，尤其指地区时：the northern countryside（北方乡村）。
 
-- **blow away / blown** — blow away 是"吹走、吹散"，blown 是 blow 的过去分词。搭配：The wind blew away the hat. / I'm blown away!（口语：太震撼了！）。注意 blown 也可做形容词：a blown-away roof。
+- **look** — 动词"看"，搭配丰富：look at（看）、look for（寻找）。本单元描绘景色常用：The ranch looks flat.（牧场看起来很平坦。）look 作系动词"看起来"后接形容词。
 
-- **horseback riding / on top of** — horseback riding = 骑马（美式），英式常说 horse riding 或 riding。on top of 是"在……顶上"，既可指物理位置（on top of the hill），也可指"除了……之外"（on top of everything else）。
+- **on top of** — "在……顶上"：on top of the hill（在山顶上）。与 on 相比强调"最高点"。
 
-- **land / look** — land 作名词"土地、陆地"，作动词"着陆"。look 在这里可能是"看"或"看起来"——Look at the cattle. / The land looks flat. 搭配：look out over the landscape。
+- **horseback riding** — "骑马（活动）"：horseback（马背）+ riding。go horseback riding（去骑马）是常见搭配。
 
 ## 练习
 
@@ -55,149 +54,149 @@ blow away / blown 涉及风的描写——The wind blown across the flat land. H
 
 <quiz-sentence-builder>
 
-1. **中文**：草地上那头强壮的公牛正吃着青草。
-   **英文**：A large bull was grazing quietly in the pasture.
-   > **解析**：bull 表示“公牛”。
+1. **中文**：牧场在北方的乡村。
+   **英文**：The ranch is in the northern countryside.
+   > **解析**：is 与单数主语搭配；northern 修饰 countryside。
 
-2. **中文**：母牛正在草地上关爱地照顾它的小牛。
-   **英文**：The cow was nursing her young calf in the barn.
-   > **解析**：calf 表示“小牛/幼犊”。
+2. **中文**：我们每天早上喂牛群。
+   **英文**：We feed the cattle every morning.
+   > **解析**：cattle 是集合名词，表复数概念；feed 是及物动词。
 
-3. **中文**：农场主养了一大群小牛们在草场奔跑。
-   **英文**：Farmer raised ten small calves on his private ranch.
-   > **解析**：calves 是 calf 的复数形式，意为“小牛们”。
+3. **中文**：小牛们在阴凉处休息。
+   **英文**：The calves rest in the shade.
+   > **解析**：calves 是 calf 的复数；in the shade 表示"在阴凉处"。
 
-4. **中文**：牛仔骑着马把大群牛群赶回牛棚。
-   **英文**：The cowboys herded the cattle across the river.
-   > **解析**：cattle 表示“牛群/家牛”。
+4. **中文**：风把帽子吹走了。
+   **英文**：The wind blew the hat away.
+   > **解析**：blew 是 blow 的过去式；blow away 是动词短语，宾语 hat 放在中间。
 
-5. **中文**：呼吸着新鲜空气，广阔的乡村风景让人陶醉。
-   **英文**：Living in the peaceful countryside is very relaxing.
-   > **解析**：countryside 表示“乡村/郊外”。
+5. **中文**：树叶被吹走了。
+   **英文**：The leaves have been blown away.
+   > **解析**：have been blown 是现在完成时的被动；blown 是 blow 的过去分词。
 
-6. **中文**：小驴拉着满载粮草的货车走在小路上。
-   **英文**：The little donkey carried a heavy bag of feed.
-   > **解析**：donkey 表示“驴/小驴”。
+6. **中文**：公牛站在山顶上。
+   **英文**：The bull stands on top of the hill.
+   > **解析**：stands 是第三人称单数形式；on top of 表示"在……顶上"。
 
-7. **中文**：每天清晨农夫都会去马厩给动物喂养食物。
-   **英文**：Farmers feed the animals every morning at dawn.
-   > **解析**：feed 表示“喂养/饲料”。
+7. **中文**：山羊在吃草。
+   **英文**：The goats are eating grass.
+   > **解析**：are eating 是现在进行时；goats 是复数主语。
 
-8. **中文**：那只活泼的山羊轻松跳上了石堆。
-   **英文**：A white goat climbed up the rocky hill easily.
-   > **解析**：goat 表示“山羊”。
+8. **中文**：驴子很友善。
+   **英文**：The donkey is very friendly.
+   > **解析**：is 与单数主语搭配；friendly 作表语。
 
-9. **中文**：游客们在牧场里体验了刺激的骑马活动。
-   **英文**：We went horseback riding across the grassy meadow.
-   > **解析**：horseback riding 表示“骑马活动”。
+9. **中文**：这片土地很平坦。
+   **英文**：The land is flat.
+   > **解析**：is 与单数主语搭配；flat 作表语形容词。
 
-10. **中文**：从山顶俯瞰，整片自然风景美不胜收。
-   **英文**：The autumn landscape looked picturesque in sunshine.
-   > **解析**：landscape 表示“风景/地貌”。
+10. **中文**：西边的风景很美。
+   **英文**：The western landscape is beautiful.
+   > **解析**：western 修饰 landscape；is 与单数主语搭配。
 
-11. **中文**：他在德克萨斯州经营着一家大型私人牧场。
-   **英文**：His family owns a cattle ranch in the west.
-   > **解析**：ranch 表示“大农场/牧场”。
+11. **中文**：沙子是松软的。
+   **英文**：The sand is soft and sandy.
+   > **解析**：sandy 是形容词"沙质的"；and 连接两个表语形容词。
 
-12. **中文**：我们在沙质的海滩沙丘上发现了一些贝壳。
-   **英文**：The sandy beach stretched for miles along the coast.
-   > **解析**：sandy 表示“沙质的/多沙的”。
+12. **中文**：我们沿着湖岸散步。
+   **英文**：We walk along the shore.
+   > **解析**：walk along 表示"沿着……走"；the shore 指湖岸/海岸。
 
-13. **中文**：夏日大热天，农夫坐在大树的树荫下休息。
-   **英文**：We sat in the cool shade of the big oak tree.
-   > **解析**：shade 表示“树荫/阴凉处”。
+13. **中文**：牧场看起来一片平坦。
+   **英文**：The ranch looks flat.
+   > **解析**：look 作系动词"看起来"，后接形容词 flat；主语单数加 s。
 
-14. **中文**：小船缓缓靠向了平静的湖泊湖畔。
-   **英文**：Waves washed gently against the rocky shore.
-   > **解析**：shore 表示“海岸/湖畔”。
+14. **中文**：我喜欢骑马。
+   **英文**：I like horseback riding.
+   > **解析**：horseback riding 是动名词短语作宾语；like 后接名词/动名词。
 
-15. **中文**：强风把牧场上的草帽给吹走了。
-   **英文**：Strong wind threatened to blow away the paper hat.
-   > **解析**：blow away 表示“吹走/刮走”。
+15. **中文**：光线从东边照进来。
+   **英文**：The light comes from the east.
+   > **解析**：comes 是第三人称单数形式；from the east 表示"从东边"。
 
-16. **中文**：一阵大风过后，地上的树叶都被吹走了。
-   **英文**：Her hat was blown away by the strong sea gust.
-   > **解析**：blown 是 blow 的过去分词，was blown 意为“被吹走”。
+16. **中文**：乡村生活很安静。
+   **英文**：Life in the countryside is quiet.
+   > **解析**：in the countryside 修饰 Life；is 与单数主语搭配。
 
-17. **中文**：这片平坦的草地非常适合建立露营帐篷。
-   **英文**：The land near the river is smooth and flat.
-   > **解析**：flat 表示“平坦的”。
+17. **中文**：他每天早上给驴喂草。
+   **英文**：He feeds the donkey every morning.
+   > **解析**：feeds 是第三人称单数形式；feed 的不规则过去式是 fed。
 
-18. **中文**：牧场位于该州的东部平原地区。
-   **英文**：They live in the eastern part of the province.
-   > **解析**：eastern 表示“东部的”。
+18. **中文**：南方的天气更暖和。
+   **英文**：The southern weather is warmer.
+   > **解析**：southern 修饰 weather；warmer 是 warm 的比较级。
 
-19. **中文**：北部的山区冬季常降大雪。
-   **英文**：Cold winds blow across the northern border.
-   > **解析**：northern 表示“北部的”。
+19. **中文**：牛群在草地上吃草。
+   **英文**：The cattle are grazing on the grass.
+   > **解析**：cattle 是集合名词，谓语用复数 are；grazing 是现在分词。
 
-20. **中文**：南部的海岸线吸引了无数度假游客。
-   **英文**：We spent vacation in a quiet southern coastal town.
-   > **解析**：southern 表示“南部的”。
+20. **中文**：看！小牛在跑。
+   **英文**：Look! The calf is running.
+   > **解析**：Look 是祈使句感叹语；is running 是现在进行时。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. A large bull was grazing quietly in the pasture.
-   > **中文**：草地上那头强壮的公牛正吃着青草。
+1. The ranch is in the northern countryside.
+   > **中文**：牧场在北方的乡村。
 
-2. The cow was nursing her young calf in the barn.
-   > **中文**：母牛正在草地上关爱地照顾它的小牛。
+2. We feed the cattle every morning.
+   > **中文**：我们每天早上喂牛群。
 
-3. Farmer raised ten small calves on his private ranch.
-   > **中文**：农场主养了一大群小牛们在草场奔跑。
+3. The calves rest in the shade.
+   > **中文**：小牛们在阴凉处休息。
 
-4. The cowboys herded the cattle across the river.
-   > **中文**：牛仔骑着马把大群牛群赶回牛棚。
+4. The wind blew the hat away.
+   > **中文**：风把帽子吹走了。
 
-5. Living in the peaceful countryside is very relaxing.
-   > **中文**：呼吸着新鲜空气，广阔的乡村风景让人陶醉。
+5. The leaves have been blown away.
+   > **中文**：树叶被吹走了。
 
-6. The little donkey carried a heavy bag of feed.
-   > **中文**：小驴拉着满载粮草的货车走在小路上。
+6. The bull stands on top of the hill.
+   > **中文**：公牛站在山顶上。
 
-7. Farmers feed the animals every morning at dawn.
-   > **中文**：每天清晨农夫都会去马厩给动物喂养食物。
+7. The goats are eating grass.
+   > **中文**：山羊在吃草。
 
-8. A white goat climbed up the rocky hill easily.
-   > **中文**：那只活泼的山羊轻松跳上了石堆。
+8. The donkey is very friendly.
+   > **中文**：驴子很友善。
 
-9. We went horseback riding across the grassy meadow.
-   > **中文**：游客们在牧场里体验了刺激的骑马活动。
+9. The land is flat.
+   > **中文**：这片土地很平坦。
 
-10. The autumn landscape looked picturesque in sunshine.
-   > **中文**：从山顶俯瞰，整片自然风景美不胜收。
+10. The western landscape is beautiful.
+   > **中文**：西边的风景很美。
 
-11. His family owns a cattle ranch in the west.
-   > **中文**：他在德克萨斯州经营着一家大型私人牧场。
+11. The beach is sandy.
+   > **中文**：海滩是沙质的。
 
-12. The sandy beach stretched for miles along the coast.
-   > **中文**：我们在沙质的海滩沙丘上发现了一些贝壳。
+12. We walk along the shore.
+   > **中文**：我们沿着岸边走。
 
-13. We sat in the cool shade of the big oak tree.
-   > **中文**：夏日大热天，农夫坐在大树的树荫下休息。
+13. The ranch looks flat.
+   > **中文**：牧场看起来一片平坦。
 
-14. Waves washed gently against the rocky shore.
-   > **中文**：小船缓缓靠向了平静的湖泊湖畔。
+14. I like horseback riding.
+   > **中文**：我喜欢骑马。
 
-15. Strong wind threatened to blow away the paper hat.
-   > **中文**：强风把牧场上的草帽给吹走了。
+15. The light comes from the east.
+   > **中文**：光线从东边照进来。
 
-16. Her hat was blown away by the strong sea gust.
-   > **中文**：一阵大风过后，地上的树叶都被吹走了。
+16. Life in the countryside is quiet.
+   > **中文**：乡村生活很安静。
 
-17. The land near the river is smooth and flat.
-   > **中文**：这片平坦的草地非常适合建立露营帐篷。
+17. He feeds the donkey every morning.
+   > **中文**：他每天早上给驴喂草。
 
-18. They live in the eastern part of the province.
-   > **中文**：牧场位于该州的东部平原地区。
+18. The southern weather is warmer.
+   > **中文**：南方的天气更暖和。
 
-19. Cold winds blow across the northern border.
-   > **中文**：北部的山区冬季常降大雪。
+19. The cattle are grazing.
+   > **中文**：牛群在吃草。
 
-20. We spent vacation in a quiet southern coastal town.
-   > **中文**：南部的海岸线吸引了无数度假游客。
+20. Look! The calf is running.
+   > **中文**：看！小牛在跑。
 
 </quiz-listening>
 
@@ -205,26 +204,35 @@ blow away / blown 涉及风的描写——The wind blown across the flat land. H
 
 | 英文单词 | 课文释义 |
 | --- | --- |
+| blow away | 吹走 |
+| blown | blow 的过去分词 |
 | bull | 公牛 |
 | calf | 小牛 |
-| calves | 小牛们 |
+| calves | 小牛（复数） |
 | cattle | 牛群 |
 | countryside | 乡村 |
 | donkey | 驴 |
-| feed | 喂养 / 饲料 |
+| eastern | 东方的 |
+| feed | 喂养 |
+| flat | 平坦的 |
 | goat | 山羊 |
 | horseback riding | 骑马 |
+| land | 土地 |
 | landscape | 风景 / 地貌 |
+| light | 光线 |
+| look | 看 / 看起来 |
+| northern | 北方的 |
+| on top of | 在……顶上 |
 | ranch | 牧场 |
 | sandy | 沙质的 |
-| shade | 树荫 / 阴凉处 |
-| shore | 海岸 / 湖畔 |
-| blow away | 吹走 |
-| blown | 吹走（blow的过去分词） |
-| flat | 平坦的 |
-| eastern | 东部的 |
-| northern | 北部的 |
-| southern | 南部的 |
+| shade | 阴凉处 |
+| shore | 岸 |
+| southern | 南方的 |
+| western | 西方的 |
+| is | 是（单数） |
+| the | 这个 / 那个 |
+| hill | 山丘 |
+| grass | 草 |
 
 </quiz-matching>
 
@@ -232,202 +240,202 @@ blow away / blown 涉及风的描写——The wind blown across the flat land. H
 
 ### 1
 
-A large ____ was grazing quietly in the pasture.
+The ranch is in the ____ countryside.
 
-- [x] bull
-- [ ] blow away
-- [ ] blown
+- [x] northern
+- [ ] north
+- [ ] northly
 
-> **解析**：**bull** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：countryside 前需要形容词 northern；north 是名词/方位词，northly 不存在。
 
 ### 2
 
-The cow was nursing her young ____ in the barn.
+We ____ the cattle every morning.
 
-- [x] calf
-- [ ] blow away
-- [ ] blown
+- [x] feed
+- [ ] food
+- [ ] feeds
 
-> **解析**：**calf** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 We 后接动词原形 feed；food 是名词。
 
 ### 3
 
-Farmer raised ten small ____ on his private ranch.
+The ____ rest in the shade.
 
 - [x] calves
-- [ ] blow away
-- [ ] blown
+- [ ] calfs
+- [ ] calf
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **calves**。
+> **解析**：calf 的复数是不规则变化 calves；calfs 拼写错误，calf 是单数。
 
 ### 4
 
-The cowboys herded the ____ across the river.
+The wind ____ the hat away.
 
-- [x] cattle
-- [ ] blow away
-- [ ] blown
+- [x] blew
+- [ ] blowed
+- [ ] blowing
 
-> **解析**：**cattle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：blow 的过去式是不规则变化 blew；blowed 是错误形式。
 
 ### 5
 
-Living in the peaceful ____ is very relaxing.
+The leaves have been ____ away.
 
-- [x] countryside
-- [ ] blow away
-- [ ] blown
+- [x] blown
+- [ ] blowed
+- [ ] blew
 
-> **解析**：**countryside** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：have been + 过去分词用 blown；blew 是过去式，不作分词。
 
 ### 6
 
-The little ____ carried a heavy bag of feed.
+The bull stands on ____ of the hill.
 
-- [x] donkey
-- [ ] blow away
-- [ ] blown
+- [x] top
+- [ ] head
+- [ ] roof
 
-> **解析**：**donkey** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：on top of 是固定短语；head 和 roof 不构成此搭配。
 
 ### 7
 
-Farmers ____ the animals every morning at dawn.
+The ____ are eating grass.
 
-- [x] feed
-- [ ] blow away
-- [ ] blown
+- [x] goats
+- [ ] goat
+- [ ] goats'
 
-> **解析**：**feed** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：are 要求复数主语 goats；goat 是单数。
 
 ### 8
 
-A white ____ climbed up the rocky hill easily.
+The donkey ____ very friendly.
 
-- [x] goat
-- [ ] blow away
-- [ ] blown
+- [x] is
+- [ ] are
+- [ ] were
 
-> **解析**：**goat** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 donkey 是单数，用 is；are 配复数。
 
 ### 9
 
-We went ____ riding across the grassy meadow.
+The ____ is flat.
 
-- [x] horseback
-- [ ] blow away
-- [ ] blown
+- [x] land
+- [ ] lands
+- [ ] landing
 
-> **解析**：**horseback** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：land（土地）不可数，用单数形式；landing 是着陆。
 
 ### 10
 
-The autumn ____ looked picturesque in sunshine.
+The western ____ is beautiful.
 
 - [x] landscape
-- [ ] blow away
-- [ ] blown
+- [ ] landspace
+- [ ] countryside flat
 
-> **解析**：**landscape** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：landscape（风景）拼写正确；landspace 是错误拼写。
 
 ### 11
 
-His family owns a ____ ranch in the west.
+The beach is ____.
 
-- [x] cattle
-- [ ] blow away
-- [ ] blown
+- [x] sandy
+- [ ] sand
+- [ ] sands
 
-> **解析**：**cattle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 sandy；sand 是名词。
 
 ### 12
 
-The ____ beach stretched for miles along the coast.
+We walk along the ____.
 
-- [x] sandy
-- [ ] blow away
-- [ ] blown
+- [x] shore
+- [ ] shade
+- [ ] light
 
-> **解析**：**sandy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：along the shore（沿着岸）语义通顺；shade 和 light 不能被 along。
 
 ### 13
 
-We sat in the cool ____ of the big oak tree.
+The ranch ____ flat.
 
-- [x] shade
-- [ ] blow away
-- [ ] blown
+- [x] looks
+- [ ] look
+- [ ] looking
 
-> **解析**：**shade** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 ranch 是第三人称单数，用 looks；looking 不能单独作谓语。
 
 ### 14
 
-Waves washed gently against the rocky ____.
+I like horseback ____.
 
-- [x] shore
-- [ ] blow away
-- [ ] blown
+- [x] riding
+- [ ] ride
+- [ ] ridden
 
-> **解析**：**shore** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：like 后接动名词 riding；horseback riding 是固定说法。
 
 ### 15
 
-Strong wind ____ to blow away the paper hat.
+The light comes ____ the east.
 
-- [x] threatened
-- [ ] blow away
-- [ ] blown
+- [x] from
+- [ ] at
+- [ ] on
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **threatened**。
+> **解析**：come from 是固定搭配，表示"来自"；其余介词不成立。
 
 ### 16
 
-Her hat was ____ away by the strong sea gust.
+Life in the ____ is quiet.
 
-- [x] blown
-- [ ] blow away
-- [ ] bull
+- [x] countryside
+- [ ] cattle
+- [ ] calves
 
-> **解析**：**blown** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：乡村（countryside）生活安静语义通顺；cattle 和 calves 是动物。
 
 ### 17
 
-The ____ near the river is smooth and flat.
+He ____ the donkey every morning.
 
-- [x] land
-- [ ] blow away
-- [ ] blown
+- [x] feeds
+- [ ] feed
+- [ ] fed to
 
-> **解析**：**land** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 He 是第三人称单数，用 feeds；every morning 提示一般现在时。
 
 ### 18
 
-They live in the ____ part of the province.
+The ____ weather is warmer.
 
-- [x] eastern
-- [ ] blow away
-- [ ] blown
+- [x] southern
+- [ ] south
+- [ ] southly
 
-> **解析**：**eastern** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：weather 前需要形容词 southern；south 是名词，southly 不存在。
 
 ### 19
 
-Cold winds blow across the ____ border.
+The cattle ____ grazing.
 
-- [x] northern
-- [ ] blow away
-- [ ] blown
+- [x] are
+- [ ] is
+- [ ] was
 
-> **解析**：**northern** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：cattle 是集合名词，谓语用复数 are；is 和 was 配单数。
 
 ### 20
 
-We spent vacation in a quiet ____ coastal town.
+Look! The calf ____ running.
 
-- [x] southern
-- [ ] blow away
-- [ ] blown
+- [x] is
+- [ ] are
+- [ ] be
 
-> **解析**：**southern** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 calf 是单数，用 is；are 配复数。
 
 </quiz-cloze>

@@ -10,58 +10,31 @@ alternatively, ever, favor, figure, gardening, help out, hesitate, inconvenient,
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是"请别人帮个忙"——那种小心翼翼、生怕给人添麻烦的开口方式。词表里有大量委婉请求表达：would you consider, might you, wondering, hesitate, no pressure。你可以这样开口：I was wondering if you could help out with my gardening while I'm out of town. Would you consider it? No pressure—alternatively, I could rearrange my schedule.（我在想，我不在城里的时候你能不能帮忙照看一下花园。你考虑一下好吗？别有压力——或者，我可以调整我的时间。）
+本单元的主题是"求人帮忙"，场景是拜托邻居或朋友办事。词表可以分成四组：请求句式（would you consider, might you, wondering, no pressure, too much to ask, hesitate）、帮忙动作（favor, help out, return the favor, make up for, persuade, figure, rearrange, unlock, sit, wait）、情境描述（out of town, gardening, inconvenient, trouble, ever, really, of me）、以及衔接（alternatively, thoughtful）。拼起来就是一段客气的请求：I'm going out of town, and I was wondering if you might help out with the gardening. No pressure — I can return the favor anytime.
 
-too much to ask（要求太过分）、inconvenient（不方便）、trouble（麻烦）这些词让请求者姿态放得很低。return the favor（回报）、make up for（补偿）则表达了"我不会白占便宜"的诚意。figure（想办法）、persuade（说服）暗示可能需要一番努力。
+语法主线是委婉请求的层层包装：I was wondering if...（我想问……）→ Would you consider + -ing（你愿不愿意考虑……）→ Might you + 动词原形（你能否……）。时态后退（was wondering）和情态动词（might, would）让请求更客气。另一条主线是减轻对方压力的表达：no pressure、Is it too much to ask?
 
-学完本单元，你能用英语极其礼貌地提出请求，给对方留足拒绝的空间，同时表达感激和回报的意愿。
+学完这个单元，你能用英语礼貌地求人帮忙、提出替代方案，并表达感谢与回报。
 
 ## Tips
 
-- **would you consider** — "你愿意考虑一下吗"，非常委婉的请求。Would you consider helping me this weekend? 比 Can you... 或 Could you... 更客气，暗示"你可以拒绝"。consider 后接 -ing。
+- **would you consider / might you / wondering** — 三个委婉请求。Would you consider watering my plants?（consider 后接动名词）Might you have a spare key?（比 could 更客气）I was wondering if you could help.（was wondering 用过去进行时降低突兀感）
 
-- **I was wondering** — "我在想……"，用来委婉引出请求。I was wondering if you could do me a favor. 用过去进行时 was wondering 比 I wonder 更柔和、更不直接。英语中"时态后退 = 更礼貌"。
+- **no pressure / too much to ask** — 减压表达。no pressure = 别有压力、不强求；Is it too much to ask?（这要求过分吗？）常以反问表达歉意。
 
-- **might you** — "你是否可能……"，极其正式的请求。Might you be available on Saturday? 比 Could you 更正式、更英式。在现代美式英语中较少用，但在非常客气的场合仍出现。
+- **hesitate** — 常用于 Don't hesitate to ask.（别客气尽管问。）hesitate = 犹豫。
 
-- **no pressure** — "别有压力、不勉强"。No pressure, but could you help? 非常体贴的口语表达，给对方台阶下。类似：No rush. / Only if you want to. 让请求不那么有压迫感。
+- **favor / help out / return the favor / make up for** — favor = 恩惠：do me a favor（帮我个忙）；help out = 帮一把；return the favor = 回报；make up for = 补偿：make up for the trouble。
 
-- **too much to ask** — "要求太过分"。Is it too much to ask for a little help? 常用于反问，表达"我觉得这要求不过分吧"。也可以真诚地说：I hope it's not too much to ask.
+- **figure / persuade / rearrange / unlock / sit / wait** — figure 口语中指"想明白、认为"：I figured you'd say yes. persuade = 说服：persuade him to come. rearrange = 重新安排（re- + arrange）；unlock = 开锁；sit 和 wait 是基础动作。
 
-- **return the favor** — "回报、还人情"。I'll return the favor someday. / Thanks—I owe you one. 比 pay you back 更自然。favor 在这里 = 帮忙。注意 return 不是"归还物品"。
+- **out of town / gardening / inconvenient / trouble** — out of town = 出城、不在本地；gardening = 园艺；inconvenient = 不方便的：if it's inconvenient, forget it. trouble = 麻烦：Sorry for the trouble.
 
-- **make up for** — "补偿、弥补"。I'll make up for the trouble. / Let me make it up to you. 比 compensate 更口语。注意 for 不能省略。类似：make it up to someone。
+- **ever / really / of me** — ever 加强疑问：Have you ever needed help? really 强调程度；of me 用于 It's kind of me? 之类的结构，常见于 That's so thoughtful of me/you（of 引出行为的发出者）。
 
-- **help out** — "帮忙、搭把手"。Can you help out with the dishes? / Thanks for helping out. 比 help 更口语、更有"帮一把"的轻松感。out 暗示"帮人脱离困境"。
-
-- **hesitate** — "犹豫"。搭配：Don't hesitate to ask. = 别犹豫，尽管问。在请求语境中，常用否定形式鼓励对方：Please don't hesitate to contact me. 名词 hesitation。
-
-- **inconvenient** — "不方便的"。Is it inconvenient for you? / an inconvenient time。反义词 convenient。注意 -ient 结尾。在请求中常用来体贴地询问：I hope I'm not being inconvenient.
-
-- **trouble** — "麻烦"。搭配：Sorry for the trouble. / It's no trouble at all. / Don't go to any trouble. 在请求和道歉中极高频。比 problem 更偏向"给人添的麻烦"。
-
-- **favor** — "帮忙、恩惠"。搭配：do me a favor / ask a favor / return the favor。注意搭配是 do a favor，不是 make a favor。美式拼写 favor，英式 favour。
-
-- **alternatively** — "或者、作为替代"。Alternatively, we could meet on Sunday. 比 or 更正式，常用于提出备选方案。形容词 alternative（替代的）。注意 -ively 结尾。
-
-- **rearrange** — "重新安排"。rearrange my schedule / rearrange the furniture。re-（重新）+ arrange（安排）。比 change 更精确，指"调整顺序/时间"而非"换成别的"。
-
-- **persuade** — "说服"。persuade someone to do something。比 convince 更强调"通过劝说让对方行动"。名词 persuasion。注意 -suade 结尾，不是 -swade。
-
-- **figure** — 本单元中 likely 指"想办法、弄清楚"。I'll figure something out. / Figure out a way to help. 比 think of 更口语、更有"动脑筋解决"的意味。figure out = 想出办法。
-
-- **out of town** — "不在城里、出远门"。I'll be out of town next week. 比 away 更具体，指"离开所在的城市"。反义：in town。在请求帮忙的语境中，out of town 是常见理由。
-
-- **thoughtful** — "体贴的、周到的"。That's very thoughtful of you. / a thoughtful gift。比 kind 更强调"用心想过对方需要什么"。名词 thoughtfulness。注意 -ful 后缀。
-
-- **gardening** — "园艺、打理花园"。搭配：do some gardening / a gardening hobby。动词 garden。注意 -ing 形式作名词。在请求帮忙的语境中，gardening 常包括浇水、除草等。
-
-- **unlock** — "开锁、解锁"。unlock the door / unlock a phone。un-（打开）+ lock（锁）。在请求语境中可能指"帮忙开门/喂猫"等。比喻义：unlock your potential（释放潜力）。
-
-- **ever** — 本单元中可能出现在 Have you ever...? 或 if ever 中。ever 在疑问句中 = 曾经。在请求中：If you ever need help, ask me. 比 always 更强调"任何时候"。
+- **alternatively / thoughtful** — alternatively = 或者（提出替代方案）：Alternatively, I could ask Tom. thoughtful = 体贴的、考虑周到的。
 
 ## 练习
 
@@ -79,176 +52,190 @@ too much to ask（要求太过分）、inconvenient（不方便）、trouble（�
 
 <quiz-sentence-builder>
 
-1. **中文**：你愿意考虑周末帮我照顾宠物吗？
-   **英文**：Would you consider looking after my pet this weekend?
-   > **解析**：would you consider 意为你愿意考虑一下吗。
+1. **中文**：我一直在想你能不能帮我个忙。
+   **英文**：I was wondering if you could do me a favor.
+   > **解析**：was wondering 用过去进行时委婉开场；do me a favor 是固定搭配"帮我个忙"。
 
-2. **中文**：我在想，你这周六是否有空帮我个忙。
-   **英文**：I was wondering if you had time to do me a favor this Saturday.
-   > **解析**：I was wondering 意为我在想……
+2. **中文**：你愿不愿意考虑帮我浇花？
+   **英文**：Would you consider watering my plants?
+   > **解析**：Would you consider + 动名词是委婉请求；watering 作宾语。
 
-3. **中文**：别有压力，但如果你能帮忙的话我会非常感激。
-   **英文**：No pressure, but I would really appreciate it if you could help.
-   > **解析**：no pressure 意为别有压力、不勉强。
+3. **中文**：你能否把备用钥匙给我？
+   **英文**：Might you have a spare key?
+   > **解析**：Might you 比 Could you 更客气；have 用原形。
 
-4. **中文**：我希望要求你顺路接我一下不会太过于过分。
-   **英文**：I hope it is not too much to ask for a ride home.
-   > **解析**：too much to ask 意为要求太过分。
+4. **中文**：别有压力，不勉强。
+   **英文**：No pressure if you're busy.
+   > **解析**：No pressure 是口语减压表达；if 从句说明条件。
 
-5. **中文**：感谢你的帮助，我下周一定会还你这个人情的。
-   **英文**：Thank you for your help; I will return the favor next week.
-   > **解析**：return the favor 意为回报、还人情。
+5. **中文**：这个要求不过分吧？
+   **英文**：Is it too much to ask?
+   > **解析**：too much to ask 是固定表达"过分的要求"；It 是形式主语。
 
-6. **中文**：我会请你吃晚饭来弥补给你带来的困扰。
-   **英文**：I will buy you dinner to make up for the inconvenience.
-   > **解析**：make up for 意为补偿、弥补。
+6. **中文**：别客气，尽管问我。
+   **英文**：Don't hesitate to ask me.
+   > **解析**：hesitate to do 是固定搭配；否定祈使句用 Don't 开头。
 
-7. **中文**：你能在我们准备派对的时候搭把手吗？
-   **英文**：Can you help out while we prepare for the birthday party?
-   > **解析**：help out 意为帮忙、搭把手。
+7. **中文**：我要出城几天。
+   **英文**：I will be out of town for a few days.
+   > **解析**：be out of town 是固定表达"不在本地"；for a few days 是时间状语。
 
-8. **中文**：如果你需要任何协助，请随时提出，不要犹豫。
-   **英文**：Please do not hesitate to ask if you need further assistance.
-   > **解析**：hesitate 意为犹豫。
+8. **中文**：你能帮我看一下花园吗？
+   **英文**：Could you help out with the gardening?
+   > **解析**：help out 是"帮一把"；with the gardening 说明帮忙的内容。
 
-9. **中文**：如果现在提这个问题太不方便，我们可以改天再谈。
-   **英文**：If it is inconvenient right now, we can talk another time.
-   > **解析**：inconvenient 意为不方便的。
+9. **中文**：我一定会回报你的。
+   **英文**：I will return the favor someday.
+   > **解析**：return the favor 是固定表达"回报"；someday 是时间状语。
 
-10. **中文**：抱歉给你添麻烦了，非常感谢你的耐心。
-   **英文**：Sorry for the trouble, and thank you so much for your patience.
-   > **解析**：trouble 意为麻烦。
+10. **中文**：我来补偿给你添的麻烦。
+   **英文**：Let me make up for the trouble.
+   > **解析**：make up for 是固定短语"补偿"；the trouble 作宾语。
 
-11. **中文**：我能请你帮个小忙吗，就几分钟时间。
-   **英文**：Could you do me a quick favor for just a few minutes?
-   > **解析**：favor 意为帮忙、恩惠。
+11. **中文**：我觉得你会答应的。
+   **英文**：I figured you would say yes.
+   > **解析**：figure 口语中表示"料想"；figured 是过去式，后接省略 that 的从句。
 
-12. **中文**：或者，我们可以重新安排时间在周日见面。
-   **英文**：Alternatively, we could rearrange our schedule to meet on Sunday.
-   > **解析**：alternatively 意为或者、作为替代。
+12. **中文**：你能说服他来吗？
+   **英文**：Can you persuade him to come?
+   > **解析**：persuade someone to do 是固定搭配；him 作宾语。
 
-13. **中文**：我需要重新安排行程以配合你的时间。
-   **英文**：I need to rearrange my schedule to match your free time.
-   > **解析**：rearrange 意为重新安排。
+13. **中文**：我可以重新安排我的日程。
+   **英文**：I can rearrange my schedule.
+   > **解析**：rearrange = re- + arrange"重新安排"；can 后接动词原形。
 
-14. **中文**：我花了很长时间才说服他参加这次活动。
-   **英文**：It took me a long time to persuade him to join the event.
-   > **解析**：persuade 意为说服。
+14. **中文**：请帮我开一下门。
+   **英文**：Please unlock the door for me.
+   > **解析**：unlock 是动词"开锁"；for me 说明对象。
 
-15. **中文**：别担心，我们会想办法解决这个棘手的问题。
-   **英文**：Don't worry, we will figure out a solution to this problem.
-   > **解析**：figure 意为想办法、弄清楚。
+15. **中文**：请先坐一会儿，稍等。
+   **英文**：Please sit down and wait a moment.
+   > **解析**：两个并列祈使句由 and 连接；sit down 和 wait 都是动词原形。
 
-16. **中文**：我下周要出远门，所以需要有人帮忙浇花。
-   **英文**：I will be out of town next week, so I need help watering plants.
-   > **解析**：out of town 意为不在城里、出远门。
+16. **中文**：这太麻烦你了，真不好意思。
+   **英文**：It is really inconvenient for you, I'm sorry.
+   > **解析**：It is inconvenient for someone 表示"对某人不方便"；really 加强语气。
 
-17. **中文**：你还给我买了一杯咖啡，真是太体贴了。
-   **英文**：It was very thoughtful of you to bring me a cup of coffee.
-   > **解析**：thoughtful 意为体贴的、周到的。
+17. **中文**：或者，我可以找别人帮忙。
+   **英文**：Alternatively, I could ask someone else.
+   > **解析**：Alternatively 置于句首提出替代方案；could 表可能性。
 
-18. **中文**：我在出远门期间需要有人帮忙做些园艺活。
-   **英文**：I need someone to help with gardening while I am away.
-   > **解析**：gardening 意为园艺、打理花园。
+18. **中文**：你想得真周到。
+   **英文**：That is really thoughtful of you.
+   > **解析**：It/That is thoughtful of someone 是固定结构，of 引出行为者。
 
-19. **中文**：你能帮我开一下大门锁吗，我的双手拿满了东西。
-   **英文**：Could you unlock the front door for me since my hands are full?
-   > **解析**：unlock 意为开锁、解锁。
+19. **中文**：你曾经需要过帮助吗？
+   **英文**：Have you ever needed a hand?
+   > **解析**：现在完成时 have needed 与 ever 搭配，询问经历。
 
-20. **中文**：你是否可能今晚抽空查收一下我发给你的电子邮件？
-   **英文**：Might you have time to check the email I sent you tonight?
-   > **解析**：might you 意为你是否可能……
+20. **中文**：我真的很感激。
+   **英文**：I really appreciate it.
+   > **解析**：really 修饰 appreciate；it 指代对方的帮助。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Would you consider looking after my pet this weekend?
-   > **中文**：你愿意考虑周末帮我照顾宠物吗？
+1. I was wondering if you could help me.
+   > **中文**：我在想你能不能帮我。
 
-2. I was wondering if you had time to do me a favor this Saturday.
-   > **中文**：我在想，你这周六是否有空帮我个忙。
+2. Would you consider feeding my cat?
+   > **中文**：你愿不愿意帮我喂喂猫？
 
-3. No pressure, but I would really appreciate it if you could help.
-   > **中文**：别有压力，但如果你能帮忙的话我会非常感激。
+3. Might you be free this weekend?
+   > **中文**：你这个周末有空吗？
 
-4. I hope it is not too much to ask for a ride home.
-   > **中文**：我希望要求你顺路接我一下不会太过于过分。
+4. No pressure at all.
+   > **中文**：完全没有压力。
 
-5. Thank you for your help; I will return the favor next week.
-   > **中文**：感谢你的帮助，我下周一定会还你这个人情的。
+5. Is it too much to ask for a ride?
+   > **中文**：搭个车这个要求过分吗？
 
-6. I will buy you dinner to make up for the inconvenience.
-   > **中文**：我会请你吃晚饭来弥补给你带来的困扰。
+6. Don't hesitate to call me.
+   > **中文**：别客气，尽管给我打电话。
 
-7. Can you help out while we prepare for the birthday party?
-   > **中文**：你能在我们准备派对的时候搭把手吗？
+7. She is out of town until Friday.
+   > **中文**：她出城了，周五才回来。
 
-8. Please do not hesitate to ask if you need further assistance.
-   > **中文**：如果你需要任何协助，请随时提出，不要犹豫。
+8. Thanks for helping out.
+   > **中文**：谢谢你帮忙。
 
-9. If it is inconvenient right now, we can talk another time.
-   > **中文**：如果现在提这个问题太不方便，我们可以改天再谈。
+9. How can I return the favor?
+   > **中文**：我该怎么回报你呢？
 
-10. Sorry for the trouble, and thank you so much for your patience.
-   > **中文**：抱歉给你添麻烦了，非常感谢你的耐心。
+10. I'll make up for it later.
+   > **中文**：我之后会补偿的。
 
-11. Could you do me a quick favor for just a few minutes?
-   > **中文**：我能请你帮个小忙吗，就几分钟时间。
+11. I figured you might need help.
+   > **中文**：我料想你可能会需要帮助。
 
-12. Alternatively, we could rearrange our schedule to meet on Sunday.
-   > **中文**：或者，我们可以重新安排时间在周日见面。
+12. Try to persuade her to stay.
+   > **中文**：试着劝她留下来。
 
-13. I need to rearrange my schedule to match your free time.
-   > **中文**：我需要重新安排行程以配合你的时间。
+13. We can rearrange the meeting.
+   > **中文**：我们可以重新安排会议。
 
-14. It took me a long time to persuade him to join the event.
-   > **中文**：我花了很长时间才说服他参加这次活动。
+14. Could you unlock the gate?
+   > **中文**：你能把门打开吗？
 
-15. Don't worry, we will figure out a solution to this problem.
-   > **中文**：别担心，我们会想办法解决这个棘手的问题。
+15. Sit here and wait for me.
+   > **中文**：坐在这里等我。
 
-16. I will be out of town next week, so I need help watering plants.
-   > **中文**：我下周要出远门，所以需要有人帮忙浇花。
+16. Sorry if this is inconvenient.
+   > **中文**：抱歉如果这不方便。
 
-17. It was very thoughtful of you to bring me a cup of coffee.
-   > **中文**：你还给我买了一杯咖啡，真是太体贴了。
+17. Alternatively, we can meet Monday.
+   > **中文**：或者，我们可以周一见面。
 
-18. I need someone to help with gardening while I am away.
-   > **中文**：我在出远门期间需要有人帮忙做些园艺活。
+18. It was thoughtful of him to bring flowers.
+   > **中文**：他带花来真是体贴。
 
-19. Could you unlock the front door for me since my hands are full?
-   > **中文**：你能帮我开一下大门锁吗，我的双手拿满了东西。
+19. Have you ever tried gardening?
+   > **中文**：你试过园艺吗？
 
-20. Might you have time to check the email I sent you tonight?
-   > **中文**：你是否可能今晚抽空查收一下我发给你的电子邮件？
+20. You really saved me today.
+   > **中文**：你今天真的帮了我大忙。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| would you consider | 你愿意考虑一下吗 |
-| I was wondering | 我在想…… |
-| might you | 你是否可能…… |
-| no pressure | 别有压力；不勉强 |
-| too much to ask | 要求太过分 |
-| return the favor | 回报；还人情 |
-| make up for | 补偿；弥补 |
-| help out | 帮忙；搭把手 |
+| --- | --- |
+| alternatively | 或者 |
+| ever | 曾经 |
+| favor | 恩惠 / 帮忙 |
+| figure | 料想 / 想明白 |
+| gardening | 园艺 |
+| help out | 帮一把 |
 | hesitate | 犹豫 |
 | inconvenient | 不方便的 |
-| trouble | 麻烦 |
-| favor | 帮忙；恩惠 |
-| alternatively | 或者；作为替代 |
-| rearrange | 重新安排 |
+| make up for | 补偿 |
+| might you | 你能否 |
+| no pressure | 别有压力 |
+| of me | 对于我（行为者） |
+| out of town | 出城 / 不在本地 |
 | persuade | 说服 |
-| figure | 想办法；弄清楚 |
-| out of town | 不在城里；出远门 |
-| thoughtful | 体贴的；周到的 |
-| gardening | 园艺；打理花园 |
-| unlock | 开锁；解锁 |
+| really | 真的 |
+| rearrange | 重新安排 |
+| return the favor | 回报 |
+| sit | 坐 |
+| thoughtful | 体贴的 |
+| too much to ask | 过分的要求 |
+| trouble | 麻烦 |
+| unlock | 开锁 |
+| wait | 等待 |
+| wondering | 在想 / 想知道 |
+| would you consider | 你愿不愿意考虑 |
+| I | 我 |
+| you | 你 |
+| him | 他 |
+| her | 她 |
+| thanks | 谢谢 |
+| until | 直到 |
+| for | 为了 |
+| here | 这里 |
+| today | 今天 |
 
 </quiz-matching>
 
@@ -256,202 +243,202 @@ too much to ask（要求太过分）、inconvenient（不方便）、trouble（�
 
 ### 1
 
-Would you ____ looking after my pet this weekend?
+I was ____ if you could lend me your car.
 
-- [x] consider
-- [ ] alternatively
-- [ ] ever
+- [x] wondering
+- [ ] wonder
+- [ ] wondered to
 
-> **解析**：**consider** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：was wondering 是过去进行时委婉表达；wondered to 结构错误。
 
 ### 2
 
-I was ____ if you had time to do me a favor this Saturday.
+Would you consider ____ my mail?
 
-- [x] wondering
-- [ ] alternatively
-- [ ] ever
+- [x] collecting
+- [ ] collect
+- [ ] collected
 
-> **解析**：**wondering** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：consider 后接动名词 collecting；其余两项不合要求。
 
 ### 3
 
-No pressure, but I would ____ appreciate it if you could help.
+____ you possibly give me a hand?
 
-- [x] really
-- [ ] alternatively
-- [ ] ever
+- [x] Might
+- [ ] Mights
+- [ ] Might to
 
-> **解析**：**really** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Might you + 动词原形是客气请求；Mights 和 Might to 不存在。
 
 ### 4
 
-I ____ it is not too much to ask for a ride home.
+No ____ if you can't make it.
 
-- [x] hope
-- [ ] alternatively
-- [ ] ever
+- [x] pressure
+- [ ] pressured
+- [ ] pressing
 
-> **解析**：**hope** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：No pressure 是固定口语表达"别有压力"；其余两项不合结构。
 
 ### 5
 
-Thank you for your help; I will return the ____ next week.
+Is it too much to ____ for a favor like this?
 
-- [x] favor
-- [ ] alternatively
-- [ ] ever
+- [x] ask
+- [ ] asking
+- [ ] asked
 
-> **解析**：**favor** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：too much to + 动词原形；too much to ask 是固定表达。
 
 ### 6
 
-I will buy you dinner to make up for the ____.
+Please don't ____ to ask for help.
 
-- [x] inconvenience
-- [ ] alternatively
-- [ ] ever
+- [x] hesitate
+- [ ] hesitates
+- [ ] hesitated
 
-> **解析**：**inconvenience** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：don't 后接动词原形 hesitate；hesitate to do 是固定搭配。
 
 ### 7
 
-Can you help out while we prepare for the ____ party?
+He will be out of ____ until next week.
 
-- [x] birthday
-- [ ] alternatively
-- [ ] ever
+- [x] town
+- [ ] towns
+- [ ] town's
 
-> **解析**：**birthday** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：out of town 是固定搭配"不在本地"；复数和所有格不合结构。
 
 ### 8
 
-Please do not ____ to ask if you need further assistance.
+Could you help ____ with the gardening?
 
-- [x] hesitate
-- [ ] alternatively
-- [ ] ever
+- [x] out
+- [ ] up
+- [ ] off
 
-> **解析**：**hesitate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：help out 是固定短语"帮一把"；help up 和 help off 无此含义。
 
 ### 9
 
-If it is ____ right now, we can talk another time.
+Someday I hope to return the ____.
 
-- [x] inconvenient
-- [ ] alternatively
-- [ ] ever
+- [x] favor
+- [ ] favors of
+- [ ] favoring
 
-> **解析**：**inconvenient** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：return the favor 是固定表达，favor 用单数；其余两项结构错误。
 
 ### 10
 
-Sorry for the ____, and thank you so much for your patience.
+I bought you lunch to make up ____ the delay.
 
-- [x] trouble
-- [ ] alternatively
-- [ ] ever
+- [x] for
+- [ ] to
+- [ ] at
 
-> **解析**：**trouble** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：make up for 是固定搭配"补偿"；to 和 at 不合结构。
 
 ### 11
 
-Could you do me a quick ____ for just a few minutes?
+I ____ you would enjoy the party.
 
-- [x] favor
-- [ ] alternatively
-- [ ] ever
+- [x] figured
+- [ ] figure's
+- [ ] figural
 
-> **解析**：**favor** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去的想法用过去式 figured；其余两项不是正确形式。
 
 ### 12
 
-____, we could rearrange our schedule to meet on Sunday.
+She tried to persuade him ____ join the club.
 
-- [x] Alternatively
-- [ ] ever
-- [ ] favor
+- [x] to
+- [ ] for
+- [ ] at
 
-> **解析**：**Alternatively** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：persuade someone to do 是固定结构；for 和 at 不合搭配。
 
 ### 13
 
-I need to ____ my schedule to match your free time.
+Let me ____ my appointment to Thursday.
 
 - [x] rearrange
-- [ ] alternatively
-- [ ] ever
+- [ ] rearranged
+- [ ] rearranging
 
-> **解析**：**rearrange** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Let me 后接动词原形 rearrange；其余两项不合要求。
 
 ### 14
 
-It took me a long time to ____ him to join the event.
+Please ____ the box with this key.
 
-- [x] persuade
-- [ ] alternatively
-- [ ] ever
+- [x] unlock
+- [ ] unlocks
+- [ ] unlocked
 
-> **解析**：**persuade** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：please 引导祈使句用动词原形 unlock。
 
 ### 15
 
-Don't worry, we will ____ out a solution to this problem.
+Please ____ down and make yourself comfortable.
 
-- [x] figure
-- [ ] alternatively
-- [ ] ever
+- [x] sit
+- [ ] sat
+- [ ] sitting
 
-> **解析**：**figure** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 sit；sat 是过去式。
 
 ### 16
 
-I will be out of town next week, so I need help ____ plants.
+I hope this request is not ____ for you.
 
-- [x] watering
-- [ ] alternatively
-- [ ] ever
+- [x] inconvenient
+- [ ] inconvenience
+- [ ] inconveniently
 
-> **解析**：**watering** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：is 后需要形容词 inconvenient；inconvenience 是名词。
 
 ### 17
 
-It was very ____ of you to bring me a cup of coffee.
+____, we could order food instead.
 
-- [x] thoughtful
-- [ ] alternatively
-- [ ] ever
+- [x] Alternatively
+- [ ] Alternative
+- [ ] Alternately way
 
-> **解析**：**thoughtful** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句首需要副词 Alternatively；Alternative 是形容词或名词。
 
 ### 18
 
-I need someone to help with ____ while I am away.
+It was thoughtful ____ you to remember my birthday.
 
-- [x] gardening
-- [ ] alternatively
-- [ ] ever
+- [x] of
+- [ ] for to
+- [ ] at
 
-> **解析**：**gardening** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：It is thoughtful of someone 是固定结构；for to 结构错误。
 
 ### 19
 
-Could you ____ the front door for me since my hands are full?
+Have you ____ asked a neighbor for help?
 
-- [x] unlock
-- [ ] alternatively
-- [ ] ever
+- [x] ever
+- [ ] never ever
+- [ ] ever since
 
-> **解析**：**unlock** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：现在完成时疑问句中用 ever 表示"曾经"；其余两项不合语境。
 
 ### 20
 
-Might you have time to check the email I sent you ____?
+Sorry for the ____, and thank you again.
 
-- [x] tonight
-- [ ] alternatively
-- [ ] ever
+- [x] trouble
+- [ ] troubles of
+- [ ] troubling
 
-> **解析**：**tonight** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the 后接不可数名词 trouble；其余两项结构错误。
 
 </quiz-cloze>

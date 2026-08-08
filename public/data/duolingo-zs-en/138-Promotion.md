@@ -10,40 +10,35 @@ about, application, avoid, baker, blank, branch, by, farming, hairstylist, knowl
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"询问工作机会"展开。核心是职场表达：I'd like to apply for the position at the new branch.（我想申请新分部的职位。）、What's the monthly salary?（月薪是多少？）、She shook hands with the manager and signed the contract.（她和经理握了手，签了合同。）、With hard work and knowledge, you'll succeed.（凭借努力和知识，你会成功的。）。
+本单元的主题是"询问工作机会"，词表可以分成三组：求职文件（application, resume 概念, signature, photocopy, blank, response）、待遇与频率（salary, pay, monthly）、以及职业与成败（baker, hairstylist, farming, branch, knowledge, succeed, success, avoid, shake hands, shook, shaken, ordinary, right, about, of, by, sincerely）。拼起来就是一次完整的求职流程：I sent my application with my signature. I shook hands with the manager and waited for a response about the salary.
 
-词表里有职业词汇（baker, hairstylist, farming）和求职词汇（application, salary, signature, branch）。你可以练习：I sent my application but got no response. / The pay is ordinary. / Avoid making blank photocopies. / Sincerely, I hope to get the job.
+语法主线有两个。一是动词 shake 的不规则三态：shake → shook → shaken。shook 是过去式（I shook hands with him），shaken 是过去分词，与 have/has 或 be 连用（We have shaken hands.）。二是 succeed 与 success 的词性对照：succeed 是动词（You will succeed.），success 是名词（Success takes time.），形容词是 successful。书信落款 sincerely（真诚地）也是本单元亮点：Sincerely, + 姓名。
 
-shake → shook → shaken（握手）。succeed 是动词，success 是名词。
+学完这单元，你能用英语谈求职：投申请、签名、复印材料、问薪水、描述工作内容与职业发展。
 
 ## Tips
 
-- **application / salary / branch** — 申请 / 薪水 / 分部。搭配：submit an application, monthly salary, a new branch。例句：I submitted my application. / What's the monthly salary? / They opened a new branch. 注意 application = 申请表/申请。
+- **application / signature** — application 申请（书），动词 apply：submit an application。signature 签名，动词 sign：Put your signature here. 申请表上常见 your signature。
 
-- **shake hands / shook / shaken** — 握手。搭配：shake hands with, shook hands, have shaken hands。例句：She shook hands with the boss. / They've shaken hands on the deal. 注意 shake → shook → shaken。
+- **photocopy / blank** — photocopy 复印件、复印：make a photocopy of your ID。blank 空白：Leave this blank.（这栏留空。）blank 也形容表情"茫然"。
 
-- **succeed / success / knowledge** — 成功（动词）/ 成功（名词）/ 知识。搭配：succeed in, achieve success, gain knowledge。例句：You'll succeed if you work hard. / Success takes time. / Knowledge is power. 注意 succeed 是动词，success 是名词。
+- **response / avoid** — response 答复，动词 respond：I got a response from the company. avoid 避免，后接动名词：avoid making mistakes。
 
-- **signature / sincerely / response** — 签名 / 真诚地 / 回复。搭配：your signature, Sincerely yours, get a response。例句：Put your signature here. / Sincerely, John. / I haven't gotten a response yet. 注意 Sincerely 用于正式信件结尾。
+- **salary / pay / monthly** — salary 薪水（按月计的固定工资），pay 泛指报酬也可作动词：The job pays well. monthly 每月的：monthly salary。注意 wage 多指按周或按工时计酬。
 
-- **baker / hairstylist / farming** — 面包师 / 发型师 / 农业。搭配：a baker, a hairstylist, do farming。例句：She's a baker at the bakery. / My hairstylist is great. / He does farming in the countryside. 注意 -er/-ist 表示"做……的人"。
+- **baker / hairstylist / farming** — 三个职业。baker 面包师（bake + -er）。hairstylist 发型师（hair + stylist）。farming 务农、农业：work in farming。-ing 形式表示行业。
 
-- **monthly / pay / ordinary** — 每月的 / 薪水 / 普通的。搭配：monthly pay, the pay is good, an ordinary job。例句：The monthly pay is three thousand. / The pay is ordinary. / It's an ordinary day. 注意 monthly = every month。
+- **branch / ordinary / knowledge** — branch 分支机构、分行：a bank branch。ordinary 普通的、平常的：an ordinary day。knowledge 知识，不可数：knowledge of computers。
 
-- **avoid / blank / photocopy** — 避免 / 空白的 / 复印。搭配：avoid mistakes, a blank page, make a photocopy。例句：Avoid being late. / The form is blank. / I need to photocopy this. 注意 photocopy 既是名词也是动词。
+- **shake hands / shook / shaken** — shake hands 握手，复数 hands。shook 是过去式：She shook hands with me. shaken 是过去分词：We have shaken hands. shake 也有"摇动"义：shake the bottle。
 
-- **right / by / of** — 正确的 / 通过 / 的。搭配：that's right, by email, a branch of。例句：That's the right decision. / Send it by email. / It's a branch of the company. 注意 by 可表示方式（by email = 通过邮件）。
+- **succeed / success** — succeed 动词"成功"：succeed in business。success 名词"成功"：achieve success。形容词 successful，副词 successfully。注意 succeed 还有"接替"义。
 
-- **salary / pay / monthly** — 薪水 / 报酬 / 每月。搭配：a good salary, the pay, monthly salary。例句：The salary is competitive. / The pay is fair. / What's the monthly salary? 注意 salary 是固定月薪，pay 更通用。
+- **sincerely** — "真诚地"，书信结尾固定用语：Sincerely, Li Hua. 来自 sincere（真诚的）+ -ly。
 
-- **application / response / sincerely** — 申请 / 回复 / 真诚。搭配：job application, no response, Sincerely。例句：I filled out the application. / Still no response. / Sincerely, I appreciate the opportunity. 注意 application form = 申请表。
-
-- **succeed / succeed / success** — 成功。搭配：succeed in business, a great success。例句：She succeeded in getting the job. / The project was a success. / I want to succeed. 注意 succeed in + 动名词。
-
-- **shake / signature / branch** — 握手 / 签名 / 分部。搭配：shake hands, a signature, a new branch。例句：Shake hands on it. / I need your signature. / The new branch opens next month. 注意 shake hands = 握手（达成协议）。
+- **about / of / by / right** — about 关于：questions about the job。of 表示所属：knowledge of English。by 表示方式或截止：apply by email / by Friday。right 正确的、正好：the right person, right now。
 
 ## 练习
 
@@ -61,149 +56,149 @@ shake → shook → shaken（握手）。succeed 是动词，success 是名词�
 
 <quiz-sentence-builder>
 
-1. **中文**：他提交了一份求职申请表，希望能获得薪水更高的职位。  
-   **英文**：He sent an application to get a job with a higher salary.
-   > **解析**：application 表示“申请/申请表”；salary 表示“薪水/工资”。
+1. **中文**：我提交了申请。
+   **英文**：I sent my application.
+   > **解析**：sent 是 send 的过去式；my application 作宾语。
 
-2. **中文**：在与分公司经理握手后，他在空白处写下了签名。  
-   **英文**：After shaking hands with the branch manager, he wrote a signature.
-   > **解析**：shake hands / shaking hands / shook / shaken 表示“握手”；branch 表示“分公司/分支”；signature 表示“签名/签署”。
+2. **中文**：请在这里签名。
+   **英文**：Please put your signature here.
+   > **解析**：put 构成祈使句；your signature 作宾语。
 
-3. **中文**：理发师和面包师在普通工作中凭借专业知识取得了成功。  
-   **英文**：The hairstylist and baker gained success with knowledge.
-   > **解析**：hairstylist 表示“理发师/美发师”；baker 表示“面包师”；knowledge 表示“知识”；success 表示“成功”。
+3. **中文**：请复印你的身份证。
+   **英文**：Please photocopy your ID card.
+   > **解析**：photocopy 作动词"复印"；your ID card 作宾语。
 
-4. **中文**：这封月度汇报信的结尾写着“此致敬礼”。  
-   **英文**：This monthly business letter ended with 'Sincerely yours'.
-   > **解析**：monthly 表示“每月一次的/月度的”；sincely / sincerely 表示“真诚地/此致敬礼”。
+4. **中文**：这一栏留空。
+   **英文**：Leave this column blank.
+   > **解析**：leave + 宾语 + 形容词，表示"让……保持某状态"。
 
-5. **中文**：为了避免犯错，请在打印前复印这份空空白文件。  
-   **英文**：To avoid errors, make a photocopy of this blank page.
-   > **解析**：photocopy 表示“复印件/复印”；blank 表示“空白的”；avoid 表示“避免”。
+5. **中文**：我收到了公司的回复。
+   **英文**：I got a response from the company.
+   > **解析**：got 是 get 的过去式；from the company 说明来源。
 
-6. **中文**：普通农夫在农业生产中获得了可观的月收入。  
-   **英文**：An ordinary farmer gained good monthly income from farming.
-   > **解析**：ordinary 表示“普通的/平凡的”；farming 表示“农业/耕作”；monthly 表示“月度的”。
+6. **中文**：避免犯错。
+   **英文**：Avoid making mistakes.
+   > **解析**：avoid 后接动名词 making；mistakes 用复数表泛指。
 
-7. **中文**：我们成功收到了关于升职申请的积极回复。  
-   **英文**：We succeeded in getting a positive response about promotion.
-   > **解析**：succeed 表示“成功”；response 表示“回复/响应”。
+7. **中文**：这份工作的月薪是多少？
+   **英文**：What is the monthly salary for this job?
+   > **解析**：monthly 修饰 salary；for this job 说明对象。
 
-8. **中文**：经理与每一位新入职的员工热情地握手。  
-   **英文**：The manager shook hands with every new employee.
-   > **解析**：shook hands 表示“握手（shake hands的过去式）”。
+8. **中文**：这份工作报酬不错。
+   **英文**：The job pays well.
+   > **解析**：pay 作动词"支付报酬"；well 是副词修饰 pays。
 
-9. **中文**：面包师在厨房里用丰富的烘焙知识制作面包。  
-   **英文**：The baker used his baking knowledge to make bread.
-   > **解析**：baker 表示“面包师”；knowledge 表示“知识”。
+9. **中文**：我哥哥是面包师。
+   **英文**：My brother is a baker.
+   > **解析**：baker = bake + -er，表"做……的人"。
 
-10. **中文**：请在合同末尾的右侧留白处签署您的名字。  
-   **英文**：Please write your signature on the right blank side.
-   > **解析**：signature 表示“签名”；blank 表示“空白的”。
+10. **中文**：那位发型师手艺很好。
+   **英文**：The hairstylist is very skilled.
+   > **解析**：hairstylist 是复合职业词；skilled 作表语。
 
-11. **中文**：他填写了一份全职工作的岗位申请表。  
-   **英文**：He filled out a job application for the full-time position.
-   > **解析**：application 表示“申请/申请表”。
+11. **中文**：他从事农业。
+   **英文**：He works in farming.
+   > **解析**：farming 作名词表示农业行业；in farming 是领域状语。
 
-12. **中文**：在这家大公司，员工们按月领取月薪。  
-   **英文**：Employees receive a fixed monthly salary.
-   > **解析**：salary 表示“薪水/工资”；monthly 表示“按月的”。
+12. **中文**：银行在这条街上有个分行。
+   **英文**：The bank has a branch on this street.
+   > **解析**：has 与单数主语搭配；on this street 是地点状语。
 
-13. **中文**：请在横线上写下您的亲笔签名。  
-   **英文**：Please put your official signature on the line.
-   > **解析**：signature 表示“签名”。
+13. **中文**：他握了经理的手。
+   **英文**：He shook hands with the manager.
+   > **解析**：shook 是 shake 的过去式；shake hands with 是固定搭配。
 
-14. **中文**：真诚地感谢您对我们工作的大力支持。  
-   **英文**：Sincerely thank you for your support of our work.
-   > **解析**：sincerely 表示“真诚地/诚挚地”。
+14. **中文**：我们已经握过手了。
+   **英文**：We have shaken hands.
+   > **解析**：have shaken 是现在完成时；shaken 是过去分词。
 
-15. **中文**：他在多家分公司都取得了卓越的商业成功。  
-   **英文**：He achieved great success across all company branches.
-   > **解析**：success 表示“成功”；branch / branches 表示“分公司/分支”。
+15. **中文**：她会成功的。
+   **英文**：She will succeed.
+   > **解析**：succeed 是动词，will 后接原形。
 
-16. **中文**：专业知识是通往职业成功的重要基石。  
-   **英文**：Professional knowledge is essential for career success.
-   > **解析**：knowledge 表示“知识”。
+16. **中文**：成功需要时间。
+   **英文**：Success takes time.
+   > **解析**：success 是名词作主语；takes 是第三人称单数。
 
-17. **中文**：请帮我复印两份这份重要文件的副本。  
-   **英文**：Please make two photocopies of this document.
-   > **解析**：photocopy / photocopies 表示“复印件”。
+17. **中文**：他有很多计算机知识。
+   **英文**：He has a lot of knowledge about computers.
+   > **解析**：knowledge 不可数；about computers 说明领域。
 
-18. **中文**：这是一位工作态度非常踏实的普通农夫。  
-   **英文**：He is an ordinary farmer who works hard every day.
-   > **解析**：ordinary 表示“普通的/平凡的”。
+18. **中文**：这是普通的一天。
+   **英文**：This is an ordinary day.
+   > **解析**：ordinary 修饰 day；an 放在元音音素前。
 
-19. **中文**：美发师为她设计了一个非常漂亮的新发型。  
-   **英文**：The hairstylist designed a beautiful new haircut for her.
-   > **解析**：hairstylist 表示“理发师/美发师”。
+19. **中文**：你是合适的人选。
+   **英文**：You are the right person for the job.
+   > **解析**：right 作定语表示"合适的"；for the job 说明对象。
 
-20. **中文**：双方代表在谈判结束后友好地握了手。  
-   **英文**：Both representatives shook hands after the meeting.
-   > **解析**：shook hands 表示“握手”。
+20. **中文**：谨致问候，李华。
+   **英文**：Sincerely, Li Hua.
+   > **解析**：Sincerely 是书信结尾敬语，后接署名。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. He sent an application to get a job with a higher salary.
-   > **中文**：他提交了一份求职申请表，希望能获得薪水更高的职位。
+1. I sent my application yesterday.
+   > **中文**：我昨天提交了申请。
 
-2. After shaking hands with the branch manager, he wrote a signature.
-   > **中文**：在与分公司经理握手后，他在空白处写下了签名。
+2. Please put your signature here.
+   > **中文**：请在这里签名。
 
-3. The hairstylist and baker gained success with knowledge.
-   > **中文**：理发师和面包师在普通工作中凭借专业知识取得了成功。
+3. Please photocopy your ID card.
+   > **中文**：请复印你的身份证。
 
-4. This monthly business letter ended with 'Sincerely yours'.
-   > **中文**：这封月度汇报信的结尾写着“此致敬礼”。
+4. Leave this column blank.
+   > **中文**：这一栏留空。
 
-5. To avoid errors, make a photocopy of this blank page.
-   > **中文**：为了避免犯错，请在打印前复印这份空空白文件。
+5. I got a response from the company.
+   > **中文**：我收到了公司的回复。
 
-6. An ordinary farmer gained good monthly income from farming.
-   > **中文**：普通农夫在农业生产中获得了可观的月收入。
+6. Avoid making mistakes.
+   > **中文**：避免犯错。
 
-7. We succeeded in getting a positive response about promotion.
-   > **中文**：我们成功收到了关于升职申请的积极回复。
+7. What is the monthly salary?
+   > **中文**：月薪是多少？
 
-8. The manager shook hands with every new employee.
-   > **中文**：经理与每一位新入职的员工热情地握手。
+8. The job pays well.
+   > **中文**：这份工作报酬不错。
 
-9. The baker used his baking knowledge to make bread.
-   > **中文**：面包师在厨房里用丰富的烘焙知识制作面包。
+9. My brother is a baker.
+   > **中文**：我哥哥是面包师。
 
-10. Please write your signature on the right blank side.
-   > **中文**：请在合同末尾的右侧留白处签署您的名字。
+10. The hairstylist is very skilled.
+   > **中文**：那位发型师手艺很好。
 
-11. He filled out a job application for the full-time position.
-   > **中文**：他填写了一份全职工作的岗位申请表。
+11. He works in farming.
+   > **中文**：他从事农业。
 
-12. Employees receive a fixed monthly salary.
-   > **中文**：在这家大公司，员工们按月领取月薪。
+12. The bank has a branch on this street.
+   > **中文**：银行在这条街上有个分行。
 
-13. Please put your official signature on the line.
-   > **中文**：请在横线上写下您的亲笔签名。
+13. He shook hands with the manager.
+   > **中文**：他握了经理的手。
 
-14. Sincerely thank you for your support of our work.
-   > **中文**：真诚地感谢您对我们工作的大力支持。
+14. We have shaken hands.
+   > **中文**：我们已经握过手了。
 
-15. He achieved great success across all company branches.
-   > **中文**：他在多家分公司都取得了卓越的商业成功。
+15. She will succeed.
+   > **中文**：她会成功的。
 
-16. Professional knowledge is essential for career success.
-   > **中文**：专业知识是通往职业成功的重要基石。
+16. Success takes time.
+   > **中文**：成功需要时间。
 
-17. Please make two photocopies of this document.
-   > **中文**：请帮我复印两份这份重要文件的副本。
+17. This is an ordinary day.
+   > **中文**：这是普通的一天。
 
-18. He is an ordinary farmer who works hard every day.
-   > **中文**：这是一位工作态度非常踏实的普通农夫。
+18. You are the right person for the job.
+   > **中文**：你是合适的人选。
 
-19. The hairstylist designed a beautiful new haircut for her.
-   > **中文**：美发师为她设计了一个非常漂亮的新发型。
+19. Apply by Friday.
+   > **中文**：请在周五前申请。
 
-20. Both representatives shook hands after the meeting.
-   > **中文**：双方代表在谈判结束后友好地握了手。
+20. Sincerely, Li Hua.
+   > **中文**：谨致问候，李华。
 
 </quiz-listening>
 
@@ -211,26 +206,36 @@ shake → shook → shaken（握手）。succeed 是动词，success 是名词�
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| application | 申请 / 申请表 |
+| about | 关于 |
+| application | 申请（书） |
 | avoid | 避免 |
 | baker | 面包师 |
 | blank | 空白的 |
-| branch | 分公司 / 分支 |
-| farming | 农业 / 耕作 |
-| hairstylist | 美发师 / 理发师 |
+| branch | 分支机构 |
+| by | 通过 / 在……之前 |
+| farming | 农业 |
+| hairstylist | 发型师 |
 | knowledge | 知识 |
-| monthly | 按月的 / 月度的 |
-| ordinary | 普通的 / 平凡的 |
+| monthly | 每月的 |
+| of | ……的（介词） |
+| ordinary | 普通的 |
+| pay | 报酬 / 支付 |
 | photocopy | 复印件 / 复印 |
-| response | 回复 / 响应 |
-| salary | 薪水 / 工资 |
+| response | 回复 |
+| right | 正确的 / 合适的 |
+| salary | 薪水 |
 | shake hands | 握手 |
-| shaken | 握手了（shake的过去分词） |
-| shook | 握手了（shake的过去式） |
-| signature | 签名 / 签署 |
-| sincerely | 真诚地 / 此致敬礼 |
-| succeed | 成功 |
+| shaken | 握过（shake 的过去分词） |
+| shook | 握了（shake 的过去式） |
+| signature | 签名 |
+| sincerely | 真诚地 |
+| succeed | 成功（动词） |
 | success | 成功（名词） |
+| is | 是（单数） |
+| the | 这 / 那（定冠词） |
+| please | 请 |
+| from | 来自 |
+| with | 和 / 与 |
 
 </quiz-matching>
 
@@ -238,202 +243,202 @@ shake → shook → shaken（握手）。succeed 是动词，success 是名词�
 
 ### 1
 
-He sent an ____ to get a job with a higher salary.
+I sent my ____ yesterday.
 
 - [x] application
-- [ ] about
-- [ ] avoid
+- [ ] apply
+- [ ] applicant
 
-> **解析**：**application** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：my 后需要名词 application"申请书"；apply 是动词，applicant 是申请人本身。
 
 ### 2
 
-After shaking hands with the ____ manager, he wrote a signature.
+Please put your ____ here.
 
-- [x] branch
-- [ ] about
-- [ ] application
+- [x] signature
+- [ ] sign
+- [ ] signed
 
-> **解析**：**branch** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：your 后需要名词 signature"签名"；sign 是动词，signed 是过去式。
 
 ### 3
 
-The ____ and baker gained success with knowledge.
+Please ____ your ID card.
 
-- [x] hairstylist
-- [ ] about
-- [ ] application
+- [x] photocopy
+- [ ] photocopying
+- [ ] photocopies
 
-> **解析**：**hairstylist** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 photocopy；后两项分别是分词和第三人称单数。
 
 ### 4
 
-This ____ business letter ended with 'Sincerely yours'.
+Leave this column ____.
 
-- [x] monthly
-- [ ] about
-- [ ] application
+- [x] blank
+- [ ] blankly
+- [ ] blanks
 
-> **解析**：**monthly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：leave + 宾语 + 形容词 blank；blankly 是副词，blanks 是名词复数。
 
 ### 5
 
-To ____ errors, make a photocopy of this blank page.
+I got a ____ from the company.
 
-- [x] avoid
-- [ ] about
-- [ ] application
+- [x] response
+- [ ] respond
+- [ ] responsive
 
-> **解析**：**avoid** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后需要名词 response；respond 是动词，responsive 是形容词。
 
 ### 6
 
-An ____ farmer gained good monthly income from farming.
+Avoid ____ mistakes.
 
-- [x] ordinary
-- [ ] about
-- [ ] application
+- [x] making
+- [ ] make
+- [ ] to make
 
-> **解析**：**ordinary** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：avoid 后接动名词 making；to make 是 avoid 不接的形式。
 
 ### 7
 
-We succeeded in getting a positive ____ about promotion.
+What is the monthly ____?
 
-- [x] response
-- [ ] about
-- [ ] application
+- [x] salary
+- [ ] salaried
+- [ ] salaries
 
-> **解析**：**response** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the 后接单数名词 salary 与 is 搭配；salaries 是复数需配 are。
 
 ### 8
 
-The manager ____ hands with every new employee.
+The job ____ well.
 
-- [x] shook
-- [ ] about
-- [ ] application
+- [x] pays
+- [ ] pay
+- [ ] paid of
 
-> **解析**：**shook** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The job 是第三人称单数，用 pays；paid of 结构错误。
 
 ### 9
 
-The ____ used his baking knowledge to make bread.
+My brother is a ____.
 
 - [x] baker
-- [ ] about
-- [ ] application
+- [ ] bake
+- [ ] baking
 
-> **解析**：**baker** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：a 后需要表人的名词 baker；bake 是动词，baking 是动名词。
 
 ### 10
 
-Please write your ____ on the right blank side.
+The ____ is very skilled.
 
-- [x] signature
-- [ ] about
-- [ ] application
+- [x] hairstylist
+- [ ] hairstyle
+- [ ] hair
 
-> **解析**：**signature** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：skilled 描述人，用 hairstylist"发型师"；hairstyle 是发型，hair 是头发。
 
 ### 11
 
-He filled out a job ____ for the full-time position.
+He works in ____.
 
-- [x] application
-- [ ] about
-- [ ] avoid
+- [x] farming
+- [ ] farm
+- [ ] farmer
 
-> **解析**：**application** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：in 后接行业名词 farming；farmer 是人，与 in 搭配不当。
 
 ### 12
 
-Employees receive a fixed ____ salary.
+The bank has a ____ on this street.
 
-- [x] monthly
-- [ ] about
-- [ ] application
+- [x] branch
+- [ ] branches
+- [ ] blank
 
-> **解析**：**monthly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后接单数 branch；branches 是复数，blank 语义不符。
 
 ### 13
 
-Please put your official ____ on the line.
+He ____ hands with the manager.
 
-- [x] signature
-- [ ] about
-- [ ] application
+- [x] shook
+- [ ] shake
+- [ ] shaken
 
-> **解析**：**signature** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去用过去式 shook；shaken 需与 have 连用。
 
 ### 14
 
-____ thank you for your support of our work.
+We have ____ hands.
 
-- [x] Sincerely
-- [ ] about
-- [ ] application
+- [x] shaken
+- [ ] shook
+- [ ] shake
 
-> **解析**：**Sincerely** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：have 后需要过去分词 shaken；shook 是过去式。
 
 ### 15
 
-He achieved great ____ across all company branches.
+She will ____.
 
-- [x] success
-- [ ] about
-- [ ] application
+- [x] succeed
+- [ ] success
+- [ ] successful
 
-> **解析**：**success** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：will 后接动词原形 succeed；success 是名词，successful 是形容词。
 
 ### 16
 
-Professional ____ is essential for career success.
+____ takes time.
 
-- [x] knowledge
-- [ ] about
-- [ ] application
+- [x] Success
+- [ ] Succeed
+- [ ] Successfully
 
-> **解析**：**knowledge** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：作主语用名词 Success；Succeed 是动词，Successfully 是副词。
 
 ### 17
 
-Please make two photocopies ____ this document.
+He has a lot of ____ about computers.
 
-- [x] of
-- [ ] about
-- [ ] application
+- [x] knowledge
+- [ ] knowledges
+- [ ] know
 
-> **解析**：**of** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：knowledge 不可数无复数；know 是动词。
 
 ### 18
 
-He is an ____ farmer who works hard every day.
+This is ____ ordinary day.
 
-- [x] ordinary
-- [ ] about
-- [ ] application
+- [x] an
+- [ ] a
+- [ ] one
 
-> **解析**：**ordinary** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：ordinary 以元音音素开头用 an；a 用于辅音音素前，one 强调数量。
 
 ### 19
 
-The ____ designed a beautiful new haircut for her.
+Apply ____ Friday.
 
-- [x] hairstylist
-- [ ] about
-- [ ] application
+- [x] by
+- [ ] until to
+- [ ] since
 
-> **解析**：**hairstylist** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：by Friday 表示"在周五之前"的截止；since 表起点，until to 结构错误。
 
 ### 20
 
-Both representatives ____ hands after the meeting.
+You are the right person ____ the job.
 
-- [x] shook
-- [ ] about
-- [ ] application
+- [x] for
+- [ ] of
+- [ ] by
 
-> **解析**：**shook** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the right person for the job"适合这份工作的人"；of 和 by 语义不符。
 
 </quiz-cloze>

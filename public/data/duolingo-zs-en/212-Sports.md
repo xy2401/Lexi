@@ -10,30 +10,35 @@ captain, come on, cyclist, defense, diving, equipment, expect to, final, gymnast
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"描述一场体育赛事"展开。词表里有运动项目（diving, gymnastics, ski, snowboard, race, track, hunt）、运动角色和装备（captain, cyclist, swimmer, helmet, equipment）以及比赛用语（final, record, defense, offense, come on）。
+本单元的主题是"描述一场体育赛事"，词汇量很大，可以分成三组：运动项目与人物（cyclist, diving, gymnastics, ski, snowboard, swimmer, hunt, captain, track, race, final）、装备与状态（equipment, helmet, high, perfectly, record）、以及本单元的语法主角——一组 there + 情态动词的推测表达（there might be, there might not be, there may not be, there can't be, there should not be, there shouldn't be），再加上 expect to、hope to 和加油用语 come on。
 
-你可以练习赛事描述：Come on! The cyclist is in the final! / The swimmer hopes to break the record. / There might be a new record in gymnastics. / The captain expects to win. / Put on your helmet before you ski. / There shouldn't be any problems on the track.
+语法主线是"对存在情况的推测"：there might be（可能有）、there might not be（可能没有）、there can't be（不可能有）、there should not be（不应该有）。这套结构把存在句 there be 和情态动词结合起来，用来预测比赛情况：There might be rain tomorrow. 另一条线索是 expect to 与 hope to 的区分——expect 是"预计、预期"，hope 是"希望"，后接动词原形都要用 to：I hope to win.
 
-there might be / there can't be / there should not be 这组结构用来表达对赛事的推测和判断。perfectly 修饰动作完成度（She landed perfectly.）。
+学完这些词，你能解说比赛、预测结果、谈论装备规则，还能在看台上喊一句地道的 Come on!——体育话题全面开张。
 
 ## Tips
 
-- **captain / cyclist / swimmer** — captain = 队长（the team captain）。cyclist = 自行车手（cycle + -ist）。swimmer = 游泳者（swim + -mer，注意双写 m）。构词规律：动词 + -er/-or/-ist 表示"做某事的人"。
+- **there might be / there might not be / there may not be** — 对存在的可能性推测。might 和 may 都表示"可能"，否定形式表示"可能没有"：There might be a delay. There may not be tickets left. might not 与 may not 基本同义，might 语气稍弱。
 
-- **defense / offense / final / record** — defense = 防守（on defense, play defense）。offense = 进攻（on offense）。final = 决赛（the final / the finals）。record = 纪录（break a record, set a record）。注意 record 做名词重音在前 /ˈrɛkərd/，做动词重音在后 /rɪˈkɔːrd/。
+- **there can't be** — "不可能有"，表示很有把握的否定推测：There can't be a game today—it's Monday. 与 there must be（一定有）相对。
 
-- **there might be / there can't be / there should not be** — 表推测的 there be 结构。there might be = 可能有。there can't be = 不可能有（否定推测，语气强）。there should not be = 不应该有（期望）。there may not be = 可能没有。注意 can't 表"不可能"比 may not 语气更强。
+- **there should not be / there shouldn't be** — "不应该有"，表示按规则或常理的预期：There shouldn't be any fouls in this game. shouldn't 是 should not 的缩写，两者词表中都收录了。
 
-- **ski / snowboard / diving / gymnastics** — ski = 滑雪（go skiing）。snowboard = 单板滑雪（go snowboarding）。diving = 跳水/潜水（Olympic diving）。gymnastics = 体操（注意复数形式做单数用：Gymnastics is difficult.）。
+- **expect to / hope to** — 都后接动词原形。expect to 是"预计会"，比较客观：I expect to finish the race by noon. hope to 是"希望"，带主观愿望：I hope to win. ✗ I hope win → ✓ I hope to win，to 不能省。
 
-- **helmet / equipment / track / race** — helmet = 头盔（wear a helmet）。equipment = 装备（不可数：sports equipment, a piece of equipment）。track = 跑道/赛道（on the track, track and field 田径）。race = 比赛/赛跑（a 100-meter race）。
+- **come on** — 万能口语，这里作加油呐喊：Come on! You can do it! 注意它还有"快点、得了吧"等语气义，靠语调区分。
 
-- **come on / perfectly / expect to / hope to** — come on = 加油！（口语中为运动员打气）。perfectly = 完美地（She performed perfectly.）。expect to = 预计会（I expect to win.），比 hope to 更有把握。hope to = 希望能（I hope to break the record.）。
+- **captain / defense / offense** — 团队运动三词：captain 是队长；defense 是防守（方），offense 是进攻（方）：Our defense is strong. 美式英语中 offense 拼作 -se，动词形式是 defend/attack。
 
-- **hunt / high** — hunt = 打猎（go hunting, hunt for...）。在运动语境中可能指"追逐"（hunt for a medal）。high = 高的（jump high, a high score）。搭配：set the bar high。
+- **cyclist / swimmer / skier 场景** — cyclist 自行车手（cycle + -ist），swimmer 游泳者（swim 双写 m 加 -er）。构词法：动词 + -er/-ist 表示"做这件事的人"。
+
+- **diving / gymnastics / ski / snowboard / hunt** — 运动项目词。diving 跳水；gymnastics 体操，以 -ics 结尾的运动名词通常看作单数：Gymnastics is hard. ski 滑雪、snowboard 单板滑雪都可作动词：I ski every winter. hunt 打猎，也可比喻"寻找"：hunt for a job。
+
+- **race / final / track / record** — race 是比赛（尤指竞速）；final 是决赛；track 是跑道/田径；record 是纪录，break a record 打破纪录。注意 record 重音不同词性不同：名词 /ˈrekərd/，动词 /rɪˈkɔːrd/。
+
+- **equipment / helmet / high / perfectly** — equipment 是装备总称，不可数：some equipment（✗ an equipment）。helmet 头盔，骑车滑雪必备。high 可作副词：jump high. perfectly 是 perfect 的副词形式："完美地"：She performed perfectly.
 
 ## 练习
 
@@ -51,149 +56,149 @@ there might be / there can't be / there should not be 这组结构用来表达�
 
 <quiz-sentence-builder>
 
-1. **中文**：队长带领全队赢得了这场重要的比赛。
-   **英文**：The captain led the team to win this important match.
-   > **解析**：captain 表示队长。
+1. **中文**：明天可能会有雨。
+   **英文**：There might be rain tomorrow.
+   > **解析**：there might be 表示对存在的可能性推测；rain 不可数，不加冠词；tomorrow 是时间状语。
 
-2. **中文**：专业骑手在训练时总是戴着安全头盔。
-   **英文**：The cyclist always wears a safety helmet during training.
-   > **解析**：cyclist 表示自行车手；helmet 表示头盔。
+2. **中文**：可能没有剩余的门票了。
+   **英文**：There may not be any tickets left.
+   > **解析**：there may not be 表示"可能没有"；any 用于否定语境；left 作后置定语修饰 tickets。
 
-3. **中文**：游泳运动员跳入泳池并打破了全国记录。
-   **英文**：The swimmer jumped into the pool and broke the national record.
-   > **解析**：swimmer 表示游泳运动员；record 表示记录。
+3. **中文**：今天不可能有比赛。
+   **英文**：There can't be a game today.
+   > **解析**：there can't be 表示很有把握的否定推测"不可能有"；a game 可数名词用 a。
 
-4. **中文**：他们的团队在这场比赛中的防守做得非常好。
-   **英文**：Their team played amazing defense during the game.
-   > **解析**：defense 表示防守。
+4. **中文**：这场比赛不应该有犯规。
+   **英文**：There shouldn't be any fouls in this game.
+   > **解析**：there shouldn't be 表示按规则的预期"不应该有"；fouls 用复数泛指犯规行为。
 
-5. **中文**：教练要求队员在下半场加强进攻。
-   **英文**：The coach asked the players to strengthen their offense in the second half.
-   > **解析**：offense 表示进攻。
+5. **中文**：我希望赢。
+   **英文**：I hope to win.
+   > **解析**：hope to + 动词原形表示"希望做某事"；win 不带宾语表示获胜。
 
-6. **中文**：练习体操需要昂贵的专业装备。
-   **英文**：Practicing gymnastics requires specialized and safe equipment.
-   > **解析**：gymnastics 表示体操；equipment 表示装备。
+6. **中文**：我预计中午前完成比赛。
+   **英文**：I expect to finish the race by noon.
+   > **解析**：expect to + 动词原形表示预期；by noon 表示"不迟于中午"。
 
-7. **中文**：她在跳水比赛中完美地完成了那个高难度动作。
-   **英文**：She completed the difficult move perfectly during the diving competition.
-   > **解析**：perfectly 表示完美地；diving 表示跳水。
+7. **中文**：我们的防守很强。
+   **英文**：Our defense is strong.
+   > **解析**：Our defense 是单数主语，用 is；strong 作表语。
 
-8. **中文**：选手们正在室外跑道上为决赛做准备。
-   **英文**：Athletes are preparing for the final on the outdoor track.
-   > **解析**：track 表示跑道；final 表示决赛。
+8. **中文**：队长在进攻端表现出色。
+   **英文**：The captain plays well on offense.
+   > **解析**：The captain 是三单主语，play 加 s；on offense 是"在进攻端"的固定搭配。
 
-9. **中文**：我希望在今年冬天去雪山滑雪。
-   **英文**：I hope to ski in the mountains this winter.
-   > **解析**：hope to 表示希望做某事；ski 表示滑雪。
+9. **中文**：骑自行车的人必须戴头盔。
+   **英文**：The cyclist must wear a helmet.
+   > **解析**：must 后接动词原形 wear；a helmet 可数名词用 a。
 
-10. **中文**：我们预计明天会有很多观赛的球迷。
-   **英文**：We expect to see a huge crowd of fans tomorrow.
-   > **解析**：expect to 表示预计；期望。
+10. **中文**：她跳得很高。
+    **英文**：She jumps very high.
+    > **解析**：high 既可作形容词也可作副词，此处修饰动词 jumps；very 再加强程度。
 
-11. **中文**：他喜欢在周末带上单板去滑雪场。
-   **英文**：He likes to take his snowboard to the resort on weekends.
-   > **解析**：snowboard 表示单板滑雪。
+11. **中文**：她完美地完成了动作。
+    **英文**：She performed perfectly.
+    > **解析**：perfectly 是副词，修饰动词 performed，表示"完美地"。
 
-12. **中文**：这个看台太高了，我不建议从这里看球。
-   **英文**：This seat is too high up for a clear view of the field.
-   > **解析**：high 表示高的。
+12. **中文**：体操很难。
+    **英文**：Gymnastics is hard.
+    > **解析**：Gymnastics 以 -ics 结尾，表示学科/项目时视为单数，用 is。
 
-13. **中文**：别放弃，加油！你可以赢得这次赛跑！
-   **英文**：Don't give up, come on! You can win this race!
-   > **解析**：come on 表示加油、来吧；race 表示赛跑、比赛。
+13. **中文**：我每个冬天都滑雪。
+    **英文**：I ski every winter.
+    > **解析**：ski 作动词"滑雪"，主语 I 用原形；every winter 是频率状语。
 
-14. **中文**：球队管理层正在寻找一位经验丰富的新教练。
-   **英文**：The team management is on a hunt for an experienced coach.
-   > **解析**：hunt 表示寻找。
+14. **中文**：他在学单板滑雪。
+    **英文**：He is learning to snowboard.
+    > **解析**：is learning 是现在进行时；learn to do 表示"学习做某事"，to snowboard 是不定式。
 
-15. **中文**：体育馆里不可能没有任何安全装备。
-   **英文**：There can't be any missing safety equipment in the gym.
-   > **解析**：there can't be 表示不可能有。
+15. **中文**：游泳运动员打破了纪录。
+    **英文**：The swimmer broke the record.
+    > **解析**：broke 是 break 的过去式；the record 特指那个项目的纪录。
 
-16. **中文**：赛场外可能有一些未发售的门票。
-   **英文**：There might be some remaining tickets available outside the stadium.
-   > **解析**：there might be 表示可能有。
+16. **中文**：决赛在周六。
+    **英文**：The final is on Saturday.
+    > **解析**：The final 指决赛，单数主语用 is；on Saturday 中具体某一天用 on。
 
-17. **中文**：比赛期间观众席上不应该有任何噪音。
-   **英文**：There shouldn't be any loud noise in the spectator area during performance.
-   > **解析**：there shouldn't be 表示不应该有。
+17. **中文**：跑道很长。
+    **英文**：The track is very long.
+    > **解析**：The track 是单数主语，用 is；very long 中 very 修饰 long 作表语。
 
-18. **中文**：明天可能没有雨，我们可以照常在室外比赛。
-   **英文**：There may not be any rain tomorrow, so we can play outside.
-   > **解析**：there may not be 表示可能没有。
+18. **中文**：我们需要新装备。
+    **英文**：We need new equipment.
+    > **解析**：equipment 不可数，不加冠词不用复数；new 直接修饰它。
 
-19. **中文**：这位滑雪健儿在决赛中创造了新的赛道记录。
-   **英文**：The skier set a new course record in the final round.
-   > **解析**：final 表示决赛。
+19. **中文**：加油，你能做到！
+    **英文**：Come on, you can do it!
+    > **解析**：Come on 是加油用语，独立成句；you can do it 中 can 后接动词原形 do。
 
-20. **中文**：骑自行车时佩戴头盔是保护自己的关键。
-   **英文**：Wearing a helmet while riding is essential for protection.
-   > **解析**：helmet 表示头盔。
+20. **中文**：他们去森林里打猎。
+    **英文**：They hunt in the forest.
+    > **解析**：They 复数主语用动词原形 hunt；in the forest 是地点状语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The captain led the team to win this important match.
-   > **中文**：队长带领全队赢得了这场重要的比赛。
+1. There might be rain tomorrow.
+   > **中文**：明天可能会有雨。
 
-2. The cyclist always wears a safety helmet during training.
-   > **中文**：专业骑手在训练时总是戴着安全头盔。
+2. There may not be any tickets left.
+   > **中文**：可能没有剩余的门票了。
 
-3. The swimmer jumped into the pool and broke the national record.
-   > **中文**：游泳运动员跳入泳池并打破了全国记录。
+3. There can't be a game today.
+   > **中文**：今天不可能有比赛。
 
-4. Their team played amazing defense during the game.
-   > **中文**：他们的团队在这场比赛中的防守做得非常好。
+4. There shouldn't be any fouls in this game.
+   > **中文**：这场比赛不应该有犯规。
 
-5. The coach asked the players to strengthen their offense in the second half.
-   > **中文**：教练要求队员在下半场加强进攻。
+5. I hope to win.
+   > **中文**：我希望赢。
 
-6. Practicing gymnastics requires specialized and safe equipment.
-   > **中文**：练习体操需要昂贵的专业装备。
+6. I expect to finish the race by noon.
+   > **中文**：我预计中午前完成比赛。
 
-7. She completed the difficult move perfectly during the diving competition.
-   > **中文**：她在跳水比赛中完美地完成了那个高难度动作。
+7. Our defense is strong.
+   > **中文**：我们的防守很强。
 
-8. Athletes are preparing for the final on the outdoor track.
-   > **中文**：选手们正在室外跑道上为决赛做准备。
+8. The captain plays well on offense.
+   > **中文**：队长在进攻端表现出色。
 
-9. I hope to ski in the mountains this winter.
-   > **中文**：我希望在今年冬天去雪山滑雪。
+9. The cyclist must wear a helmet.
+   > **中文**：骑自行车的人必须戴头盔。
 
-10. We expect to see a huge crowd of fans tomorrow.
-   > **中文**：我们预计明天会有很多观赛的球迷。
+10. She jumps very high.
+    > **中文**：她跳得很高。
 
-11. He likes to take his snowboard to the resort on weekends.
-   > **中文**：他喜欢在周末带上单板去滑雪场。
+11. She performed perfectly.
+    > **中文**：她完美地完成了动作。
 
-12. This seat is too high up for a clear view of the field.
-   > **中文**：这个看台太高了，我不建议从这里看球。
+12. Gymnastics is hard.
+    > **中文**：体操很难。
 
-13. Don't give up, come on! You can win this race!
-   > **中文**：别放弃，加油！你可以赢得这次赛跑！
+13. I ski every winter.
+    > **中文**：我每个冬天都滑雪。
 
-14. The team management is on a hunt for an experienced coach.
-   > **中文**：球队管理层正在寻找一位经验丰富的新教练。
+14. He is learning to snowboard.
+    > **中文**：他在学单板滑雪。
 
-15. There can't be any missing safety equipment in the gym.
-   > **中文**：体育馆里不可能没有任何安全装备。
+15. The swimmer broke the record.
+    > **中文**：游泳运动员打破了纪录。
 
-16. There might be some remaining tickets available outside the stadium.
-   > **中文**：赛场外可能有一些未发售的门票。
+16. The final is on Saturday.
+    > **中文**：决赛在周六。
 
-17. There shouldn't be any loud noise in the spectator area during performance.
-   > **中文**：比赛期间观众席上不应该有任何噪音。
+17. The track is very long.
+    > **中文**：跑道很长。
 
-18. There may not be any rain tomorrow, so we can play outside.
-   > **中文**：明天可能没有雨，我们可以照常在室外比赛。
+18. We need new equipment.
+    > **中文**：我们需要新装备。
 
-19. The skier set a new course record in the final round.
-   > **中文**：这位滑雪健儿在决赛中创造了新的赛道记录。
+19. Come on, you can do it!
+    > **中文**：加油，你能做到！
 
-20. Wearing a helmet while riding is essential for protection.
-   > **中文**：骑自行车时佩戴头盔是保护自己的关键。
+20. They hunt in the forest.
+    > **中文**：他们去森林里打猎。
 
 </quiz-listening>
 
@@ -202,25 +207,39 @@ there might be / there can't be / there should not be 这组结构用来表达�
 | 英文单词 | 课文释义 |
 | --- | --- |
 | captain | 队长 |
-| cyclist | 自行车手 |
-| swimmer | 游泳者；游泳运动员 |
+| come on | 加油 |
+| cyclist | 骑自行车的人 |
 | defense | 防守 |
-| offense | 进攻 |
-| helmet | 头盔 |
-| equipment | 装备；设备 |
-| gymnastics | 体操 |
 | diving | 跳水 |
-| track | 跑道；田径 |
-| race | 比赛；赛跑 |
-| record | 记录 |
-| ski | 滑雪（板） |
-| snowboard | 单板滑雪 |
-| hunt | 寻找；猎捕 |
-| expect to | 预计；期望 |
+| equipment | 装备 |
+| expect to | 预计 |
+| final | 决赛 |
+| gymnastics | 体操 |
+| helmet | 头盔 |
+| high | 高的；高地 |
 | hope to | 希望 |
-| come on | 来吧；加油 |
+| hunt | 打猎 |
+| offense | 进攻 |
 | perfectly | 完美地 |
-| high | 高的；高处 |
+| race | 比赛 |
+| record | 纪录 |
+| ski | 滑雪 |
+| snowboard | 单板滑雪 |
+| swimmer | 游泳者 |
+| there can't be | 不可能有 |
+| there may not be | 可能没有 |
+| there might be | 可能有 |
+| there might not be | 可能没有 |
+| there should not be | 不应该有 |
+| there shouldn't be | 不应该有 |
+| track | 跑道；田径 |
+| game | 比赛 |
+| rain | 雨 |
+| tickets | 门票 |
+| we | 我们 |
+| they | 他们 |
+| new | 新的 |
+| the | 这（定冠词） |
 
 </quiz-matching>
 
@@ -228,202 +247,202 @@ there might be / there can't be / there should not be 这组结构用来表达�
 
 ### 1
 
-The ____ led the team to win this important match.
+There ____ be rain tomorrow.
 
-- [x] captain
-- [ ] come on
-- [ ] cyclist
+- [x] might
+- [ ] mights
+- [ ] mighted
 
-> **解析**：**captain** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：might 是情态动词，没有三单或过去式变化；there might be 表示"可能有"。
 
 ### 2
 
-The ____ always wears a safety helmet during training.
+There may not be ____ tickets left.
 
-- [x] cyclist
-- [ ] captain
-- [ ] come on
+- [x] any
+- [ ] some
+- [ ] a
 
-> **解析**：**cyclist** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：否定句 may not be 中用 any；some 多用于肯定句，a 不修饰复数 tickets。
 
 ### 3
 
-The ____ jumped into the pool and broke the national record.
+There ____ be a game today.
 
-- [x] swimmer
-- [ ] captain
-- [ ] come on
+- [x] can't
+- [ ] can'ts
+- [ ] don't
 
-> **解析**：**swimmer** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：there can't be 表示"不可能有"；don't 不与 there be 结构搭配。
 
 ### 4
 
-Their team played amazing ____ during the game.
+There shouldn't be any ____ in this game.
 
-- [x] defense
-- [ ] captain
-- [ ] come on
+- [x] fouls
+- [ ] foul
+- [ ] fouling
 
-> **解析**：**defense** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：any 后接复数名词 fouls 表泛指；foul 是单数，fouling 是动名词。
 
 ### 5
 
-The coach asked the players to strengthen their ____ in the second half.
+I hope ____ win.
 
-- [x] offense
-- [ ] captain
-- [ ] come on
+- [x] to
+- [ ] at
+- [ ] for
 
-> **解析**：**offense** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：hope to do 是固定搭配；at 和 for 不与 hope 构成此结构。
 
 ### 6
 
-Practicing ____ requires specialized and safe equipment.
+I expect to finish the ____ by noon.
 
-- [x] gymnastics
-- [ ] captain
-- [ ] come on
+- [x] race
+- [ ] races
+- [ ] raced
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **gymnastics**。
+> **解析**：the race 特指这场比赛，用单数；races 复数，raced 是过去式，都不合。
 
 ### 7
 
-She completed the difficult move ____ during the diving competition.
+Our ____ is strong.
 
-- [x] perfectly
-- [ ] captain
-- [ ] come on
+- [x] defense
+- [ ] defenses
+- [ ] defending
 
-> **解析**：**perfectly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Our defense 作"我们的防守"是不可数/单数用法，与 is 搭配；defending 是动名词。
 
 ### 8
 
-Athletes are preparing for the ____ on the outdoor track.
+The captain ____ well on offense.
 
-- [x] final
-- [ ] captain
-- [ ] come on
+- [x] plays
+- [ ] play
+- [ ] playing
 
-> **解析**：**final** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The captain 是三单主语，动词加 s；playing 不能单独作谓语。
 
 ### 9
 
-I hope to ____ in the mountains this winter.
+The cyclist must wear a ____.
 
-- [x] ski
-- [ ] captain
-- [ ] come on
+- [x] helmet
+- [ ] helmets
+- [ ] helming
 
-> **解析**：**ski** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后接单数名词 helmet；helming 不是名词。
 
 ### 10
 
-We expect to see a huge crowd of fans ____.
+She jumps very ____.
 
-- [x] tomorrow
-- [ ] captain
-- [ ] come on
+- [x] high
+- [ ] highly
+- [ ] height
 
-> **解析**：**tomorrow** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰跳的高度用 high（兼作副词）；highly 意为"高度地/非常"用于抽象义，height 是名词。
 
 ### 11
 
-He likes to take his ____ to the resort on weekends.
+She performed ____.
 
-- [x] snowboard
-- [ ] captain
-- [ ] come on
+- [x] perfectly
+- [ ] perfect
+- [ ] perfection
 
-> **解析**：**snowboard** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰动词 performed 需要副词 perfectly；perfect 是形容词，perfection 是名词。
 
 ### 12
 
-This seat is too ____ up for a clear view of the field.
+Gymnastics ____ hard.
 
-- [x] high
-- [ ] captain
-- [ ] come on
+- [x] is
+- [ ] are
+- [ ] am
 
-> **解析**：**high** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Gymnastics 以 -ics 结尾表学科项目，视为单数，用 is。
 
 ### 13
 
-Don't give up, come on! You can win this ____!
+I ____ every winter.
 
-- [x] race
-- [ ] captain
-- [ ] come on
+- [x] ski
+- [ ] skis
+- [ ] skiing
 
-> **解析**：**race** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 I 用动词原形 ski；skis 是三单形式，skiing 不能单独作谓语。
 
 ### 14
 
-The team management is on a ____ for an experienced coach.
+He is learning to ____.
 
-- [x] hunt
-- [ ] captain
-- [ ] come on
+- [x] snowboard
+- [ ] snowboards
+- [ ] snowboarding
 
-> **解析**：**hunt** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：to 后接动词原形 snowboard；snowboarding 不能接在 to 后构成此结构。
 
 ### 15
 
-There can't be any missing safety ____ in the gym.
+The swimmer ____ the record.
 
-- [x] equipment
-- [ ] captain
-- [ ] come on
+- [x] broke
+- [ ] break
+- [ ] broken
 
-> **解析**：**equipment** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去事件用过去式 broke；break 是原形，broken 是过去分词需助动词。
 
 ### 16
 
-There might be some ____ tickets available outside the stadium.
+The ____ is on Saturday.
 
-- [x] remaining
-- [ ] captain
-- [ ] come on
+- [x] final
+- [ ] finals
+- [ ] finally
 
-> **解析**：**remaining** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：The final 指决赛用单数与 is 搭配；finally 是副词，finals 复数不合 is。
 
 ### 17
 
-There shouldn't be any loud noise in the spectator area during ____.
+The ____ is very long.
 
-- [x] performance
-- [ ] captain
-- [ ] come on
+- [x] track
+- [ ] tracks
+- [ ] tracked
 
-> **解析**：**performance** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The track 单数主语与 is 搭配；tracked 是过去式/分词。
 
 ### 18
 
-There may not be any rain ____, so we can play outside.
+We need new ____.
 
-- [x] tomorrow
-- [ ] captain
-- [ ] come on
+- [x] equipment
+- [ ] equipments
+- [ ] equip
 
-> **解析**：**tomorrow** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：equipment 是不可数名词，没有复数形式；equip 是动词。
 
 ### 19
 
-The skier set a new course ____ in the final round.
+____, you can do it!
 
-- [x] record
-- [ ] captain
-- [ ] come on
+- [x] Come on
+- [ ] Comes on
+- [ ] Coming on
 
-> **解析**：**record** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Come on 是固定的加油用语，原形独立使用；Comes on 和 Coming on 都不是此固定形式。
 
 ### 20
 
-Wearing a ____ while riding is essential for protection.
+They ____ in the forest.
 
-- [x] helmet
-- [ ] captain
-- [ ] come on
+- [x] hunt
+- [ ] hunts
+- [ ] hunting
 
-> **解析**：**helmet** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：They 复数主语用动词原形 hunt；hunts 是三单形式，hunting 不能单独作谓语。
 
 </quiz-cloze>

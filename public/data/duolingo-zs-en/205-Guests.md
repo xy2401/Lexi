@@ -10,28 +10,31 @@ be friends with, copy, cover, going to, intermission, it's good to, oh my gosh, 
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"谈论参观博物馆"展开，场景是文化活动——看展览、读诗、看演出。词表里有文艺词汇（poem, poet, translation, scene, work, copy, cover）和活动体验表达（intermission, refreshments, be friends with, oh my gosh）。
+本单元的主题是"做客与参观"。词表可以分成三组：文艺场所词（poem, poet, translation, copy, scene, intermission, refreshments, work）、计划与规则表达（going to, supposed to, would, cover, specially, on the）、以及感叹与建议（oh my gosh, it's good to, be friends with）。拼起来就是参观博物馆或看演出的场景：We're going to the museum. The exhibit covers the poet's early works. Oh my gosh, this poem is beautiful! There will be refreshments at intermission.
 
-你可以练习文化场景对话：We're going to the museum—there's a specially arranged exhibition. / This poem has a beautiful translation. / Oh my gosh, the poet is supposed to be here! / It's good to see the original work, not just a copy. / There will be refreshments during the intermission. / Would you like to cover the scene on the left?
+语法主线是 going to 与 supposed to 两个"to 结构"。be going to + 动词原形表计划或即将发生：We're going to visit the gallery.（我们打算参观画廊。）be supposed to 表"按规定应该"：You're supposed to be quiet in the museum.（博物馆里应该保持安静。）另一条主线是文艺词汇：poem 诗、poet 诗人（-t 结尾指人）、translation 翻译（translate + -ion）、work 作"作品"义，常用复数 works。
 
-supposed to = 应该、据说（The show is supposed to start at 7.）。going to 表计划。it's good to 用来表达评价。
+学完这些词，你能用英语安排参观计划、讨论展品与演出、描述观感，并礼貌地说明场所规则。
 
 ## Tips
 
-- **poem / poet / translation** — poem = 诗（一首诗：a poem）。poet = 诗人（写诗的人）。translation = 翻译、译文（a translation of the poem）。搭配：write a poem, a famous poet, read a translation。注意 poem 和 poetry 的区别：poem 是一首具体的诗，poetry 是诗歌的总称。
+- **going to / supposed to** — 计划与规则两结构。be going to + 动词原形表打算：I'm going to read the poem.；be supposed to + 动词原形表"应该"（规则或期望）：Guests are supposed to sign in.（客人应该登记。）注意 suppose 的 d 不能省。
 
-- **supposed to / going to / it's good to** — supposed to = 应该、被期望（You're supposed to be quiet in a museum. / It's supposed to rain.）。going to = 打算、将要（We're going to visit the gallery.）。it's good to = ……是好的（It's good to learn about art.）。
+- **poem / poet / translation** — 文艺三词。poem 诗（作品）；poet 诗人（作者），-t 类似 artist；translation 翻译：read a translation of the poem（读诗的译本）。注意 pronunciation 和 translation 都是 -ion 结尾但重音位置不同。
 
-- **intermission / refreshments / scene** — intermission = 中场休息（演出中的暂停，美式；英式常用 interval）。refreshments = 茶点、饮料（正式场合的轻食：Refreshments will be served.）。scene = 场景、场面（a beautiful scene, the opening scene of a play）。
+- **copy / work / scene** — copy 副本、一份：a copy of the poem（一份诗稿）；work 作品，艺术语境常用复数 works：the poet's works；scene 场景、幕：the opening scene（开场一幕）。
 
-- **copy / cover / work** — copy = 复制品（This is a copy, not the original.）。cover 可指"封面"（the cover of a book）或"覆盖"。work = 作品（a work of art），也可指"工作"。注意 work 做"作品"时可数（works of art）。
+- **intermission / refreshments** — 演出与招待会两词。intermission 中场休息：during the intermission；refreshments 茶点（常用复数）：serve refreshments（供应茶点）。做客与看展的实用词。
 
-- **oh my gosh / be friends with / specially** — oh my gosh = 天哪！（口语感叹，比 oh my God 更委婉）。be friends with = 和……是朋友（I'm friends with the poet.）。specially = 专门地（specially arranged, specially made），注意和 especially（尤其）的区别。
+- **cover** — 本单元取"涵盖、覆盖"义：The exhibit covers his early life.（展览涵盖他的早年生活。）也有"封面、遮盖"义。一词多义，靠语境。
 
-- **would / on the** — would 在这里用于礼貌邀请或假设（Would you like some refreshments? / I would love to see the poem.）。on the 是常见介词短语（on the wall, on the cover, on the left）。
+- **specially / oh my gosh** — specially 特别地：made specially for the event（特别为活动制作）；oh my gosh 是惊叹语"天哪"，表达惊讶或赞叹，比 oh my god 更委婉。
+
+- **it's good to / be friends with / would** — it's good to + 动词原形表示"做……是好的"：It's good to arrive early.（早点到是好的。）be friends with 与……做朋友：be friends with the neighbors；would 表委婉意愿：I would love to visit.（我很想去参观。）
+
+- **on the** — "在……上/关于"的高频组合：on the wall（在墙上）、a book on the poet（一本关于诗人的书）。介词搭配靠积累。
 
 ## 练习
 
@@ -49,149 +52,149 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
 
 <quiz-sentence-builder>
 
-1. **中文**：我们打算在剧院看一出浪漫的情节。  
-   **英文**：We are going to watch a romantic scene in the theater.
-   > **解析**：going to 表示“将要/打算”，scene 表示“场景、一幕”。
+1. **中文**：我们打算参观博物馆。
+   **英文**：We are going to visit the museum.
+   > **解析**：be going to + 动词原形表计划；visit 是及物动词。
 
-2. **中文**：能与一位老诗人成为朋友真好。  
-   **英文**：It's good to be friends with an old poet.
-   > **解析**：it's good to 表示“做……真好”，be friends with 表示“与……成为朋友”，poet 表示“诗人”。
+2. **中文**：客人应该登记。
+   **英文**：Guests are supposed to sign in.
+   > **解析**：be supposed to 表"按规定应该"；sign in 是登记。
 
-3. **中文**：在二十分钟的中场休息期间将提供茶点。  
-   **英文**：Refreshments will be served during the twenty minute intermission.
-   > **解析**：refreshments 表示“茶点”，intermission 表示“（戏剧等的）中场休息”。
+3. **中文**：展览涵盖了这位诗人的早年生活。
+   **英文**：The exhibit covers the poet's early life.
+   > **解析**：covers 是第三人称单数形式；poet's 是所有格。
 
-4. **中文**：天哪，这是一部绝妙的文学作品！  
-   **英文**：Oh my gosh, this is a marvelous literary work!
-   > **解析**：oh my gosh 表达惊叹“天哪”，work 可作“作品”。
+4. **中文**：天哪，这首诗真美。
+   **英文**：Oh my gosh, this poem is beautiful.
+   > **解析**：Oh my gosh 是感叹语；is 与单数主语搭配。
 
-5. **中文**：你应该在演出前阅读英文译本。  
-   **英文**：You are supposed to read the English translation before the show.
-   > **解析**：be supposed to 表示“应该”，translation 表示“翻译、译本”。
+5. **中文**：中场休息时供应茶点。
+   **英文**：Refreshments are served during the intermission.
+   > **解析**：are served 是被动语态；during the intermission 是时间状语。
 
-6. **中文**：这位演员经过专门训练来朗诵一首著名的诗。  
-   **英文**：The actor is specially trained to recite a famous poem.
-   > **解析**：specially 表示“专门地”，poem 表示“诗歌”。
+6. **中文**：我想读这首诗的译本。
+   **英文**：I would like to read a translation of the poem.
+   > **解析**：would like to 表委婉意愿；a translation of 表所属。
 
-7. **中文**：请用一块干净的桌布把桌子盖上。  
-   **英文**：Please cover the table with a clean cloth.
-   > **解析**：cover ... with ... 表示“用……盖住”。
+7. **中文**：给我一份这份作品。
+   **英文**：Give me a copy of the work.
+   > **解析**：祈使句用动词原形 Give；a copy of 表示"一份"。
 
-8. **中文**：复印一份剧本以便大家练习。  
-   **英文**：Make a copy of the script so everyone can practice.
-   > **解析**：copy 作名词表示“复印件、副本”。
+8. **中文**：开场那一幕很精彩。
+   **英文**：The opening scene is wonderful.
+   > **解析**：opening 修饰 scene；is 与单数主语搭配。
 
-9. **中文**：你想在阳台上喝点饮料吗？  
-   **英文**：Would you like some drinks on the balcony?
-   > **解析**：on the balcony 表示“在阳台上”，would you like 表示“你想要……吗”。
+9. **中文**：这是专门为活动制作的。
+   **英文**：It was made specially for the event.
+   > **解析**：was made 是被动语态；specially 是副词，修饰 made。
 
-10. **中文**：他打算与那位有才华的导演成为朋友。  
-   **英文**：He is going to be friends with the talented director.
-   > **解析**：going to + 原形，be friends with 成为朋友。
+10. **中文**：早点到是好的。
+   **英文**：It is good to arrive early.
+   > **解析**：It 是形式主语，真正主语是 to arrive early；good 作表语。
 
-11. **中文**：在一整天的工作之后享用茶点真好。  
-   **英文**：It's good to enjoy refreshments after a long day of work.
-   > **解析**：it's good to 表示“做……真好”，refreshments 意为“茶点”。
+11. **中文**：我想和邻居们做朋友。
+   **英文**：I want to be friends with the neighbors.
+   > **解析**：want 后接不定式 to be；be friends with 是固定短语。
 
-12. **中文**：这位诗人花了数年时间撰写他最后的杰作。  
-   **英文**：The poet spent years writing his final master work.
-   > **解析**：poet 意为“诗人”，work 意为“作品”。
+12. **中文**：画挂在墙上。
+   **英文**：The painting is on the wall.
+   > **解析**：on the wall 是地点状语；is 与单数主语搭配。
 
-13. **中文**：我本应该在官方网站上买票。  
-   **英文**：I am supposed to buy tickets on the official website.
-   > **解析**：be supposed to 表示“应当、本该”。
+13. **中文**：这是一本关于这位诗人的书。
+   **英文**：This is a book on the poet.
+   > **解析**：on 此处表示"关于"；a book 是可数名词单数。
 
-14. **中文**：看主舞台上那出戏剧性的场景。  
-   **英文**：Look at the dramatic scene on the main stage.
-   > **解析**：scene 意为“场面、一幕”。
+14. **中文**：我们去看演出吧。
+   **英文**：Let's go to the show.
+   > **解析**：Let's 后接动词原形 go；go to 表"去某处"。
 
-15. **中文**：天哪，我忘了带官方译本！  
-   **英文**：Oh my gosh, I forgot to bring the official translation!
-   > **解析**：translation 意为“翻译、译本”。
+15. **中文**：她很想去参观画廊。
+   **英文**：She would love to visit the gallery.
+   > **解析**：would love to 比 want 更热情；visit 用原形。
 
-16. **中文**：这些座位是专门为我们的贵宾预留的。  
-   **英文**：The seats were specially reserved for our honored guests.
-   > **解析**：specially 意为“专门地、特地”。
+16. **中文**：作品展示在二楼。
+   **英文**：The works are displayed on the second floor.
+   > **解析**：works 作"作品"用复数；are displayed 是被动语态。
 
-17. **中文**：我们可以在大厅的中场休息期间聊天。  
-   **英文**：We can chat during the intermission in the lobby.
-   > **解析**：intermission 意为“中场休息”。
+17. **中文**：茶点已经准备好了。
+   **英文**：The refreshments are ready.
+   > **解析**：refreshments 常用复数，用 are；ready 作表语。
 
-18. **中文**：他写了一首关于自然与和平的优美诗歌。  
-   **英文**：He wrote a beautiful poem about nature and peace.
-   > **解析**：poem 意为“诗歌”。
+18. **中文**：演出在八点开始。
+   **英文**：The show starts at eight.
+   > **解析**：starts 是第三人称单数形式；at eight 是时间状语。
 
-19. **中文**：当你完成时请盖上电脑好吗？  
-   **英文**：Would you please cover the computer when you finish?
-   > **解析**：cover 意为“盖上”。
+19. **中文**：你打算待多久？
+   **英文**：How long are you going to stay?
+   > **解析**：be going to 表计划；How long 问时长。
 
-20. **中文**：我会把所有文件复制到优盘上。  
-   **英文**：I will copy all the files onto the USB flash drive.
-   > **解析**：copy 意为“复制”。
+20. **中文**：博物馆里应该保持安静。
+   **英文**：You are supposed to be quiet in the museum.
+   > **解析**：be supposed to 表规则；quiet 作表语形容词。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We are going to watch a romantic scene in the theater.
-   > **中文**：我们打算在剧院看一出浪漫的情节。
+1. We are going to visit the museum.
+   > **中文**：我们打算参观博物馆。
 
-2. It's good to be friends with an old poet.
-   > **中文**：能与一位老诗人成为朋友真好。
+2. Guests are supposed to sign in.
+   > **中文**：客人应该登记。
 
-3. Refreshments will be served during the twenty minute intermission.
-   > **中文**：在二十分钟的中场休息期间将提供茶点。
+3. The exhibit covers the poet's early life.
+   > **中文**：展览涵盖了这位诗人的早年生活。
 
-4. Oh my gosh, this is a marvelous literary work!
-   > **中文**：天哪，这是一部绝妙的文学作品！
+4. Oh my gosh, this poem is beautiful.
+   > **中文**：天哪，这首诗真美。
 
-5. You are supposed to read the English translation before the show.
-   > **中文**：你应该在演出前阅读英文译本。
+5. Refreshments are served during the intermission.
+   > **中文**：中场休息时供应茶点。
 
-6. The actor is specially trained to recite a famous poem.
-   > **中文**：这位演员经过专门训练来朗诵一首著名的诗。
+6. I would like to read a translation of the poem.
+   > **中文**：我想读这首诗的译本。
 
-7. Please cover the table with a clean cloth.
-   > **中文**：请用一块干净的桌布把桌子盖上。
+7. Give me a copy of the work.
+   > **中文**：给我一份这份作品。
 
-8. Make a copy of the script so everyone can practice.
-   > **中文**：复印一份剧本以便大家练习。
+8. The opening scene is wonderful.
+   > **中文**：开场那一幕很精彩。
 
-9. Would you like some drinks on the balcony?
-   > **中文**：你想在阳台上喝点饮料吗？
+9. It was made specially for the event.
+   > **中文**：这是专门为活动制作的。
 
-10. He is going to be friends with the talented director.
-   > **中文**：他打算与那位有才华的导演成为朋友。
+10. It is good to arrive early.
+   > **中文**：早点到是好的。
 
-11. It's good to enjoy refreshments after a long day of work.
-   > **中文**：在一整天的工作之后享用茶点真好。
+11. I want to be friends with the neighbors.
+   > **中文**：我想和邻居们做朋友。
 
-12. The poet spent years writing his final master work.
-   > **中文**：这位诗人花了数年时间撰写他最后的杰作。
+12. The painting is on the wall.
+   > **中文**：画挂在墙上。
 
-13. I am supposed to buy tickets on the official website.
-   > **中文**：我本应该在官方网站上买票。
+13. This is a book on the poet.
+   > **中文**：这是一本关于这位诗人的书。
 
-14. Look at the dramatic scene on the main stage.
-   > **中文**：看主舞台上那出戏剧性的场景。
+14. Let's go to the show.
+   > **中文**：我们去看演出吧。
 
-15. Oh my gosh, I forgot to bring the official translation!
-   > **中文**：天哪，我忘了带官方译本！
+15. She would love to visit the gallery.
+   > **中文**：她很想去参观画廊。
 
-16. The seats were specially reserved for our honored guests.
-   > **中文**：这些座位是专门为我们的贵宾预留的。
+16. The works are displayed on the second floor.
+   > **中文**：作品展示在二楼。
 
-17. We can chat during the intermission in the lobby.
-   > **中文**：我们可以在大厅的中场休息期间聊天。
+17. The refreshments are ready.
+   > **中文**：茶点已经准备好了。
 
-18. He wrote a beautiful poem about nature and peace.
-   > **中文**：他写了一首关于自然与和平的优美诗歌。
+18. The show starts at eight.
+   > **中文**：演出在八点开始。
 
-19. Would you please cover the computer when you finish?
-   > **中文**：当你完成时请盖上电脑好吗？
+19. How long are you going to stay?
+   > **中文**：你打算待多久？
 
-20. I will copy all the files onto the USB flash drive.
-   > **中文**：我会把所有文件复制到优盘上。
+20. You are supposed to be quiet in the museum.
+   > **中文**：博物馆里应该保持安静。
 
 </quiz-listening>
 
@@ -199,26 +202,28 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| be friends with | 与……成为朋友 |
-| copy | 复制；副本 |
-| cover | 盖住；覆盖 |
-| going to | 将要；打算 |
+| be friends with | 与……做朋友 |
+| copy | 副本 / 一份 |
+| cover | 涵盖 / 覆盖 |
+| going to | 打算 |
 | intermission | 中场休息 |
-| it's good to | 做……真好 |
-| oh my gosh | 天哪（惊叹） |
-| on the | 在……上 |
-| poem | 诗歌 |
+| it's good to | 做……是好的 |
+| oh my gosh | 天哪 |
+| on the | 在……上 / 关于 |
+| poem | 诗 |
 | poet | 诗人 |
-| refreshments | 茶点；小吃 |
-| scene | 场景；一幕 |
-| specially | 专门地；特地 |
-| supposed to | 应当；本该 |
-| translation | 翻译；译本 |
-| work | 作品；工作 |
-| would | 将要；愿意（情态动词） |
-| be supposed to | 应该；本打算 |
-| theatrical scene | 戏剧场景 |
-| literary work | 文学作品 |
+| refreshments | 茶点 |
+| scene | 场景 / 幕 |
+| specially | 特别地 |
+| supposed to | 按理应该 |
+| translation | 翻译 |
+| work | 作品 / 工作 |
+| would | 会 / 想要 |
+| is | 是（单数） |
+| the | 这个 / 那个 |
+| museum | 博物馆 |
+| show | 演出 |
+| gallery | 画廊 |
 
 </quiz-matching>
 
@@ -226,202 +231,202 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
 
 ### 1
 
-We are going to watch a romantic ____ in the theater.
+We are going ____ visit the museum.
 
-- [x] scene
-- [ ] be friends with
-- [ ] copy
+- [x] to
+- [ ] for
+- [ ] at
 
-> **解析**：**scene** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be going to + 动词原形表计划；其余介词不成立。
 
 ### 2
 
-It's good to be friends with an old ____.
+Guests are ____ to sign in.
 
-- [x] poet
-- [ ] be friends with
-- [ ] copy
+- [x] supposed
+- [ ] suppose
+- [ ] supposing
 
-> **解析**：**poet** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be supposed to 是固定结构，用过去分词 supposed；其余形式不成立。
 
 ### 3
 
-____ will be served during the twenty minute intermission.
+The exhibit ____ the poet's early life.
 
-- [x] Refreshments
-- [ ] be friends with
-- [ ] copy
+- [x] covers
+- [ ] cover
+- [ ] covering
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Refreshments**。
+> **解析**：主语 exhibit 是第三人称单数，用 covers；covering 不能单独作谓语。
 
 ### 4
 
-Oh my gosh, this is a marvelous literary ____!
+Oh my ____, this poem is beautiful.
 
-- [x] work
-- [ ] be friends with
-- [ ] copy
+- [x] gosh
+- [ ] god of
+- [ ] ghost
 
-> **解析**：**work** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：oh my gosh 是固定感叹语；ghost 是鬼魂，语义不符。
 
 ### 5
 
-You are supposed to read the English ____ before the show.
+____ are served during the intermission.
 
-- [x] translation
-- [ ] be friends with
-- [ ] copy
+- [x] Refreshments
+- [ ] Refreshment's
+- [ ] Refreshing
 
-> **解析**：**translation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：茶点常用复数 Refreshments；Refreshing 是形容词"清爽的"。
 
 ### 6
 
-The actor is ____ trained to recite a famous poem.
+I would like to read a ____ of the poem.
 
-- [x] specially
-- [ ] be friends with
-- [ ] copy
+- [x] translation
+- [ ] translate
+- [ ] translating
 
-> **解析**：**specially** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后需要名词 translation；translate 是动词。
 
 ### 7
 
-Please ____ the table with a clean cloth.
+Give me a ____ of the work.
 
-- [x] cover
-- [ ] be friends with
-- [ ] copy
+- [x] copy
+- [ ] copies
+- [ ] copying
 
-> **解析**：**cover** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：a copy of（一份）是固定搭配；copies 与 a 冲突。
 
 ### 8
 
-Make a ____ of the script so everyone can practice.
+The opening ____ is wonderful.
 
-- [x] copy
-- [ ] be friends with
-- [ ] cover
+- [x] scene
+- [ ] scenery
+- [ ] scenes of
 
-> **解析**：**copy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：开场一幕用 scene；scenery 指自然风景。
 
 ### 9
 
-____ you like some drinks on the balcony?
+It was made ____ for the event.
 
-- [x] Would
-- [ ] be friends with
-- [ ] copy
+- [x] specially
+- [ ] special
+- [ ] specialty
 
-> **解析**：**Would** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰动词 made 需要副词 specially；special 是形容词。
 
 ### 10
 
-He is going to be friends with the ____ director.
+It is good ____ arrive early.
 
-- [x] talented
-- [ ] be friends with
-- [ ] copy
+- [x] to
+- [ ] for to
+- [ ] at
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **talented**。
+> **解析**：It is good to do something 是固定结构；其余形式错误。
 
 ### 11
 
-It's good to enjoy ____ after a long day of work.
+I want to be friends ____ the neighbors.
 
-- [x] refreshments
-- [ ] be friends with
-- [ ] copy
+- [x] with
+- [ ] to
+- [ ] at
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **refreshments**。
+> **解析**：be friends with 是固定短语；其余介词不成立。
 
 ### 12
 
-The ____ spent years writing his final master work.
+The painting is ____ the wall.
 
-- [x] poet
-- [ ] be friends with
-- [ ] copy
+- [x] on
+- [ ] at
+- [ ] in of
 
-> **解析**：**poet** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：画在墙上用 on；其余介词不表此位置。
 
 ### 13
 
-I am ____ to buy tickets on the official website.
+This is a book ____ the poet.
 
-- [x] supposed
-- [ ] be friends with
-- [ ] copy
+- [x] on
+- [ ] at
+- [ ] in of
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **supposed**。
+> **解析**：a book on someone 表示"关于某人的书"；其余介词不表"关于"。
 
 ### 14
 
-Look at the dramatic ____ on the main stage.
+Let's go ____ the show.
 
-- [x] scene
-- [ ] be friends with
-- [ ] copy
+- [x] to
+- [ ] at
+- [ ] on to
 
-> **解析**：**scene** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：go to + 地点/活动是固定搭配；其余介词不成立。
 
 ### 15
 
-Oh my gosh, I forgot to bring the official ____!
+She ____ love to visit the gallery.
 
-- [x] translation
-- [ ] be friends with
-- [ ] copy
+- [x] would
+- [ ] will to
+- [ ] does to
 
-> **解析**：**translation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：would love to 是固定表达；will to 和 does to 结构错误。
 
 ### 16
 
-The seats were ____ reserved for our honored guests.
+The works ____ displayed on the second floor.
 
-- [x] specially
-- [ ] be friends with
-- [ ] copy
+- [x] are
+- [ ] is
+- [ ] was
 
-> **解析**：**specially** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：works 作"作品"是复数，用 are；is 和 was 配单数。
 
 ### 17
 
-We can chat during the ____ in the lobby.
+The refreshments ____ ready.
 
-- [x] intermission
-- [ ] be friends with
-- [ ] copy
+- [x] are
+- [ ] is
+- [ ] was
 
-> **解析**：**intermission** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：refreshments 是复数，用 are；其余配单数。
 
 ### 18
 
-He wrote a beautiful ____ about nature and peace.
+The show ____ at eight.
 
-- [x] poem
-- [ ] be friends with
-- [ ] copy
+- [x] starts
+- [ ] start
+- [ ] starting
 
-> **解析**：**poem** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 show 是第三人称单数，用 starts；starting 不能单独作谓语。
 
 ### 19
 
-____ you please cover the computer when you finish?
+How long are you going to ____?
 
-- [x] Would
-- [ ] be friends with
-- [ ] copy
+- [x] stay
+- [ ] staying
+- [ ] stayed
 
-> **解析**：**Would** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：going to 后接动词原形 stay；其余形式不成立。
 
 ### 20
 
-I will ____ all the files onto the USB flash drive.
+You are supposed to be ____ in the museum.
 
-- [x] copy
-- [ ] be friends with
-- [ ] cover
+- [x] quiet
+- [ ] quite
+- [ ] quietly
 
-> **解析**：**copy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be 后接形容词 quiet（安静的）；quite 是"相当"，quietly 是副词。
 
 </quiz-cloze>

@@ -10,40 +10,31 @@ arrest, attack, bomb, call the police, certain, commit, emergency, file, glad, i
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"描述一次抢劫"展开。核心是犯罪和报警表达：A robbery took place at the bank—a thief wearing a mask stole money and escaped in a truck.（银行发生了一起抢劫——一个戴面具的小偷偷了钱，坐卡车逃跑了。）、Call the police! Dial nine-one-one! It's an emergency!（报警！打911！这是紧急情况！）、Luckily, the police arrested the thieves and filed a report.（幸运的是，警察逮捕了那些小偷并立了案。）、I'm glad the innocent people were protected—the attacker was wearing a mask.（我很高兴无辜的人受到了保护——袭击者戴着面具。）。
+本单元的主题是"描述一起抢劫案"。词表可以分成三组：犯罪行为与人物（robbery, thief, thieves, commit, attack, bomb, mask, truck）、报警与调查（call the police, nine-one-one, emergency, police report, file, arrest, search for, protect, innocent）、以及评价与状态（certain, unknown, luckily, glad, take place, worn）。串起来就是一则完整的案情描述：A robbery took place last night. The thieves wore masks. Luckily, the police arrested them.
 
-词表里有犯罪词汇（robbery, thief, arrest, commit）和报警词汇（emergency, nine-one-one, police report）。你可以练习：The bomb was found. / Search for the suspect. / He committed a crime. / The thief wore a mask.
+语法主线有三条。第一是 take place——"发生"，与 happen 同义，但更正式，常用于新闻叙述：The robbery took place at noon. 第二是不规则名词复数：thief 的复数是 thieves（f/fe 变 ves），同类还有 wife—wives。第三是 worn——wear 的过去分词，既可构成被动，也可作形容词"穿旧的、磨损的"。
 
-thief → thieves（复数变化）。take place = happen。
+学完本单元，你能用英语描述案件经过、报警求助、转述警方行动，也能表达对结果的庆幸与安心。
 
 ## Tips
 
-- **robbery / thief / thieves** — 抢劫 / 小偷 / 小偷们。搭配：a bank robbery, a thief, a group of thieves。例句：There was a robbery last night. / The thief ran away. / The thieves were caught. 注意 thief → thieves（f → ves）。
+- **robbery / commit / thief / thieves** — robbery 是"抢劫案"，commit 是"犯（罪）"，常与 crime/robbery 搭配：commit a robbery. thief 是"小偷"，复数 thieves：The thieves wore masks. 注意 ✗ thiefs → ✓ thieves。
 
-- **arrest / commit / protect** — 逮捕 / 犯（罪）/ 保护。搭配：arrest a suspect, commit a crime, protect the public。例句：Police arrested the man. / He committed robbery. / We must protect citizens. 注意 commit a crime = 犯罪。
+- **call the police / nine-one-one / emergency** — 报警三件套。call the police 是"报警"；nine-one-one（911）是美国的报警电话，逐位读出；emergency 是"紧急情况"：In an emergency, call nine-one-one.
 
-- **call the police / nine-one-one / emergency** — 报警 / 911 / 紧急情况。搭配：call the police, dial 911, an emergency。例句：Call the police immediately! / Dial nine-one-one. / This is an emergency! 注意 911 是美国报警电话。
+- **police report / file / arrest** — file 作动词是"提交、备案"：file a police report（报案做笔录）。arrest 是"逮捕"，动词名词均可：The police arrested the thief.
 
-- **mask / worn / unknown** — 面具 / 戴着 / 未知的。搭配：wear a mask, worn a disguise, an unknown person。例句：The robber wore a mask. / He'd worn gloves. / The suspect is unknown. 注意 wear → wore → worn。
+- **attack / bomb / mask / worn** — attack 是"袭击"。bomb 是"炸弹"。mask 是"面具、口罩"，wore a mask 表示"戴着面罩"。worn 是 wear 的过去分词（wear—wore—worn）：The old shoes were worn.
 
-- **innocent / glad / luckily** — 无辜的 / 高兴 / 幸运地。搭配：an innocent person, I'm glad, luckily。例句：The innocent man was freed. / I'm glad everyone is safe. / Luckily, no one was hurt. 注意 innocent 的反义是 guilty。
+- **take place / search for** — take place 是"发生"，多用于按计划或已发生的事件：The robbery took place at night. search for 是"搜寻"：The police searched for the truck. 注意 search sb.（搜身）与 search for sb.（搜寻某人）的区别。
 
-- **police report / file / search for** — 报警记录 / 立案 / 搜索。搭配：file a police report, file a complaint, search for evidence。例句：I filed a police report. / They filed the case. / Police searched for the thief. 注意 file a report = 报案。
+- **innocent / certain / unknown** — innocent 是"无辜的"，反义是 guilty。certain 是"确定的"：I am certain about it. unknown 是"未知的"，由 un- + known 构成：The thief is still unknown.
 
-- **attack / bomb / take place** — 袭击 / 炸弹 / 发生。搭配：an attack, plant a bomb, take place。例句：There was an attack downtown. / They found a bomb. / The robbery took place at noon. 注意 take place = happen（更正式）。
+- **luckily / glad** — luckily 是副词"幸运地"，常放句首：Luckily, no one was hurt. glad 是"高兴的、欣慰的"，常接 that 从句：I'm glad you are safe.
 
-- **truck / certain / protect** — 卡车 / 确定的 / 保护。搭配：a getaway truck, a certain person, protect from。例句：They escaped in a truck. / I'm certain it was him. / Protect yourself. 注意 certain = sure。
-
-- **thief / thieves / robbery** — 小偷 / 小偷们 / 抢劫。搭配：a cat thief, a gang of thieves, an armed robbery。例句：The thief stole my wallet. / The thieves divided the money. / It was an armed robbery. 注意 armed robbery = 持械抢劫。
-
-- **emergency / call the police / arrest** — 紧急 / 报警 / 逮捕。搭配：in an emergency, call 911, under arrest。例句：In an emergency, call 911. / Someone called the police. / You're under arrest! 注意 under arrest = 被逮捕。
-
-- **mask / unknown / worn** — 面具 / 不明 / 穿过。搭配：a ski mask, an unknown caller, well-worn。例句：He hid behind a mask. / The caller was unknown. / His shoes were well-worn. 注意 worn 可形容"磨损的"。
-
-- **innocent / luckily / glad** — 无辜 / 幸好 / 高兴。搭配：prove innocent, luckily enough, glad to hear。例句：He was proven innocent. / Luckily, the police arrived fast. / I'm glad it's over. 注意 luckily 用于表达庆幸。
+- **protect / truck** — protect 是"保护"，protect sb. from sth.。truck 是"卡车"，案件中常见的逃跑工具：The thieves escaped in a truck.
 
 ## 练习
 
@@ -61,149 +52,149 @@ thief → thieves（复数变化）。take place = happen。
 
 <quiz-sentence-builder>
 
-1. **中文**：警察昨晚依法逮捕了那名抢劫嫌疑人。
-   **英文**：Police officers came to arrest the robbery suspect last night.
-   > **解析**：arrest 表示“逮捕”；suspect 意为“嫌疑人”。
+1. **中文**：昨晚发生了一起抢劫案。
+   **英文**：A robbery took place last night.
+   > **解析**：take place 是"发生"；took 是 take 的过去式。
 
-2. **中文**：昨晚市中心附近发生了一起突发的恐慌袭击。
-   **英文**：A sudden attack happened near the city center last night.
-   > **解析**：attack 表示“袭击/攻击”；sudden 意为“突发的”。
+2. **中文**：警察逮捕了小偷。
+   **英文**：The police arrested the thief.
+   > **解析**：arrested 是过去式；the police 作主语时按复数理解。
 
-3. **中文**：如果你在附近看到可疑人员，请立刻拨打报警电话。
-   **英文**：If you see a suspicious person nearby, call the police immediately.
-   > **解析**：call the police 表示“报警/叫警察”；suspicious 意为“可疑的”。
+3. **中文**：小偷们戴着面罩。
+   **英文**：The thieves wore masks.
+   > **解析**：thieves 是 thief 的复数；wore 是 wear 的过去式。
 
-4. **中文**：警方目前尚不确定嫌疑人当时驾驶哪辆车。
-   **英文**：The police are not certain which vehicle the suspect was driving.
-   > **解析**：certain 表示“确定的/有把握的”；suspect 意为“嫌疑人”。
+4. **中文**：他犯了那起抢劫案。
+   **英文**：He committed the robbery.
+   > **解析**：committed 是 commit 的过去式；commit 常与罪行搭配。
 
-5. **中文**：任何人都不应该因任何理由去犯罪。
-   **英文**：No one should ever commit a crime for any reason.
-   > **解析**：commit a crime 表示“犯罪/作案”。
+5. **中文**：马上报警。
+   **英文**：Call the police right now.
+   > **解析**：祈使句以动词原形 call 开头；right now 强调"立刻"。
 
-6. **中文**：拨打九一一是遇到严重紧急情况时的最佳方法。
-   **英文**：Calling 911 is the fastest option during a medical emergency.
-   > **解析**：emergency 表示“紧急情况”；medical emergency 意为“医疗急救”。
+6. **中文**：遇到紧急情况，请拨打九一一。
+   **英文**：In an emergency, call nine-one-one.
+   > **解析**：in an emergency 是条件状语；call 是祈使句核心。
 
-7. **中文**：警官协助受害者当场填写了书面记录。
-   **英文**：The officer helped the victim file an official report.
-   > **解析**：file 表示“提交/记录（文件）”；official report 意为“官方报告”。
+7. **中文**：我提交了警情报告。
+   **英文**：I filed a police report.
+   > **解析**：filed 是 file 的过去式；file a report 是"备案、报案"。
 
-8. **中文**：幸好没有人受伤，大家对此都感到非常高兴。
-   **英文**：Everyone was glad that nobody got injured in the accident.
-   > **解析**：glad 表示“高兴的/庆幸的”；injured 意为“受伤”。
+8. **中文**：他是无辜的。
+   **英文**：He is innocent.
+   > **解析**：innocent 作表语，表示"无辜的"。
 
-9. **中文**：法官在法庭审判后宣布被告无罪。
-   **英文**：The judge declared that the defendant was innocent after trial.
-   > **解析**：innocent 表示“无罪的/清白的”；judge 意为“法官”。
+9. **中文**：幸运的是，没有人受伤。
+   **英文**：Luckily, no one was hurt.
+   > **解析**：luckily 是句首副词；was hurt 是被动结构。
 
-10. **中文**：幸运的是，警察在犯人逃跑前将其当场抓获。
-   **英文**：Luckily, the police caught the offender before he could escape.
-   > **解析**：Luckily 表示“幸运地”；offender 意为“违法者”。
+10. **中文**：你没事我就放心了。
+   **英文**：I am glad you are safe.
+   > **解析**：glad 后接省略 that 的从句；safe 作从句表语。
 
-11. **中文**：劫匪戴着黑色的面具遮住了脸部。
-   **英文**：The robber wore a black mask to hide his facial features.
-   > **解析**：mask 表示“面具/口罩”；facial features 意为“面部特征”。
+11. **中文**：小偷戴着一个黑色面罩。
+   **英文**：The thief wore a black mask.
+   > **解析**：wore 是过去式；a black mask 作宾语。
 
-12. **中文**：遇到急救或犯罪请立即拨打九一一紧急电话。
-   **英文**：Dial nine-one-one immediately if you need emergency help.
-   > **解析**：nine-one-one 表示“911紧急电话”；dial 意为“拨打”。
+12. **中文**：警方搜寻那辆卡车。
+   **英文**：The police searched for the truck.
+   > **解析**：search for 是"搜寻"；searched 是过去式。
 
-13. **中文**：报警后受害者去警局提交了一份一份警情报告。
-   **英文**：The victim went to the station to submit a police report.
-   > **解析**：police report 表示“警方报告/报案记录”。
+13. **中文**：那枚炸弹被发现了。
+   **英文**：The bomb was found.
+   > **解析**：was found 是被动语态；found 是 find 的过去分词。
 
-14. **中文**：保安的职责是保护商店资产和顾客安全。
-   **英文**：The guard's duty is to protect the store and its customers.
-   > **解析**：protect 表示“保护/防护”；customers 意为“顾客”。
+14. **中文**：有人袭击了那家店。
+   **英文**：Someone attacked the store.
+   > **解析**：attacked 是 attack 的过去式；the store 作宾语。
 
-15. **中文**：警方正在全力调查发生在珠宝店的重大抢劫案。
-   **英文**：Detectives are investigating the major robbery at the jewelry store.
-   > **解析**：robbery 表示“抢劫案/抢劫”；detectives 意为“侦探/刑警”。
+15. **中文**：警察保护了我们。
+   **英文**：The police protected us.
+   > **解析**：protected 是过去式；us 是宾格作宾语。
 
-16. **中文**：多名警员正在附近街区搜寻丢失的财物。
-   **英文**：Officers search for the missing items in the surrounding neighborhood.
-   > **解析**：search for 表示“搜寻/寻找”；missing items 意为“失物”。
+16. **中文**：小偷仍然身份不明。
+   **英文**：The thief is still unknown.
+   > **解析**：unknown 作表语，表示"未知的"；still 加强"仍然"。
 
-17. **中文**：事件发生时附近刚好有一位目击者。
-   **英文**：The incident will take place near the downtown park tomorrow.
-   > **解析**：take place 表示“发生/举行”。
+17. **中文**：我确定我看见了。
+   **英文**：I am certain about it.
+   > **解析**：certain 常接 about；it 指代那件事。
 
-18. **中文**：那个小偷悄悄溜进房间偷走了皮包。
-   **英文**：The thief quietly sneaked into the room and stole the handbag.
-   > **解析**：thief 表示“小偷/贼”；stole 为 steal 的过去式。
+18. **中文**：那辆卡车被偷了。
+   **英文**：The truck was stolen.
+   > **解析**：was stolen 是被动语态；stolen 是 steal 的过去分词。
 
-19. **中文**：警方在火车站抓住了那两名逃跑的小偷。
-   **英文**：The police caught the two thieves running away from the station.
-   > **解析**：thieves 是 thief 的复数形式，意为“小偷们”。
+19. **中文**：袭击发生在银行。
+   **英文**：The attack took place at the bank.
+   > **解析**：attack 作名词主语；at the bank 是地点状语。
 
-20. **中文**：嫌疑人驾驶一辆可疑的黑色卡车逃离了现场。
-   **英文**：The suspect escaped from the scene in a dark truck.
-   > **解析**：truck 表示“卡车/货车”；suspect 意为“嫌疑人”。
+20. **中文**：这个面罩是他戴过的。
+   **英文**：This mask was worn by the thief.
+   > **解析**：was worn 是被动语态；by the thief 说明动作发出者。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Police officers came to arrest the robbery suspect last night.
-   > **中文**：警察昨晚依法逮捕了那名抢劫嫌疑人。
+1. Call the police!
+   > **中文**：报警！
 
-2. A sudden attack happened near the city center last night.
-   > **中文**：昨晚市中心附近发生了一起突发的恐慌袭击。
+2. The robbery took place downtown.
+   > **中文**：抢劫发生在市中心。
 
-3. If you see a suspicious person nearby, call the police immediately.
-   > **中文**：如果你在附近看到可疑人员，请立刻拨打报警电话。
+3. They arrested the thief.
+   > **中文**：他们逮捕了小偷。
 
-4. The police are not certain which vehicle the suspect was driving.
-   > **中文**：警方目前尚不确定嫌疑人当时驾驶哪辆车。
+4. The thieves wore masks.
+   > **中文**：小偷们戴着面罩。
 
-5. No one should ever commit a crime for any reason.
-   > **中文**：任何人都不应该因任何理由去犯罪。
+5. A bomb was found in the truck.
+   > **中文**：卡车里发现了一枚炸弹。
 
-6. Calling 911 is the fastest option during a medical emergency.
-   > **中文**：拨打九一一是遇到严重紧急情况时的最佳方法。
+6. Dial nine-one-one in an emergency.
+   > **中文**：紧急情况请拨打九一一。
 
-7. The officer helped the victim file an official report.
-   > **中文**：警官协助受害者当场填写了书面记录。
+7. I filed a police report yesterday.
+   > **中文**：我昨天报了案。
 
-8. Everyone was glad that nobody got injured in the accident.
-   > **中文**：幸好没有人受伤，大家对此都感到非常高兴。
+8. He is innocent.
+   > **中文**：他是无辜的。
 
-9. The judge declared that the defendant was innocent after trial.
-   > **中文**：法官在法庭审判后宣布被告无罪。
+9. Luckily, everyone is safe.
+   > **中文**：幸运的是，大家都平安。
 
-10. Luckily, the police caught the offender before he could escape.
-   > **中文**：幸运的是，警察在犯人逃跑前将其当场抓获。
+10. I'm glad it's over.
+   > **中文**：结束了，我很欣慰。
 
-11. The robber wore a black mask to hide his facial features.
-   > **中文**：劫匪戴着黑色的面具遮住了脸部。
+11. The police searched for the truck.
+   > **中文**：警方搜寻那辆卡车。
 
-12. Dial nine-one-one immediately if you need emergency help.
-   > **中文**：遇到急救或犯罪请立即拨打九一一紧急电话。
+12. Someone attacked him.
+   > **中文**：有人袭击了他。
 
-13. The victim went to the station to submit a police report.
-   > **中文**：报警后受害者去警局提交了一份一份警情报告。
+13. The police protect the city.
+   > **中文**：警察保护这座城市。
 
-14. The guard's duty is to protect the store and its customers.
-   > **中文**：保安的职责是保护商店资产和顾客安全。
+14. The suspect is still unknown.
+   > **中文**：嫌疑人仍然身份不明。
 
-15. Detectives are investigating the major robbery at the jewelry store.
-   > **中文**：警方正在全力调查发生在珠宝店的重大抢劫案。
+15. I'm certain I saw him.
+   > **中文**：我确定我见过他。
 
-16. Officers search for the missing items in the surrounding neighborhood.
-   > **中文**：多名警员正在附近街区搜寻丢失的财物。
+16. The thief was wearing a black mask.
+   > **中文**：小偷当时戴着黑色面罩。
 
-17. The incident will take place near the downtown park tomorrow.
-   > **中文**：事件发生时附近刚好有一位目击者。
+17. He committed the crime alone.
+   > **中文**：他独自犯下了那起罪行。
 
-18. The thief quietly sneaked into the room and stole the handbag.
-   > **中文**：那个小偷悄悄溜进房间偷走了皮包。
+18. The truck was stolen.
+   > **中文**：那辆卡车被偷了。
 
-19. The police caught the two thieves running away from the station.
-   > **中文**：警方在火车站抓住了那两名逃跑的小偷。
+19. Stay calm and call the police.
+   > **中文**：保持冷静并报警。
 
-20. The suspect escaped from the scene in a dark truck.
-   > **中文**：嫌疑人驾驶一辆可疑的黑色卡车逃离了现场。
+20. The attack happened at night.
+   > **中文**：袭击发生在夜里。
 
 </quiz-listening>
 
@@ -212,25 +203,45 @@ thief → thieves（复数变化）。take place = happen。
 | 英文单词 | 课文释义 |
 | --- | --- |
 | arrest | 逮捕 |
-| attack | 袭击 / 攻击 |
-| call the police | 报警 / 叫警察 |
-| certain | 确定的 / 某些 |
+| attack | 袭击 |
+| bomb | 炸弹 |
+| call the police | 报警 |
+| certain | 确定的 |
 | commit | 犯（罪） |
 | emergency | 紧急情况 |
-| file | 提交 / 案卷 |
+| file | 提交 / 备案 |
 | glad | 高兴的 |
-| innocent | 无辜的 / 清白的 |
+| innocent | 无辜的 |
 | luckily | 幸运地 |
-| mask | 面具 / 口罩 |
-| nine-one-one | 911紧急电话 |
-| police report | 警方报告 |
+| mask | 面罩 |
+| nine-one-one | 九一一（报警电话） |
+| police report | 警情报告 |
 | protect | 保护 |
 | robbery | 抢劫案 |
-| search for | 搜寻 / 寻找 |
+| search for | 搜寻 |
 | take place | 发生 |
 | thief | 小偷 |
-| thieves | 小偷们 |
+| thieves | 小偷（复数） |
 | truck | 卡车 |
+| unknown | 未知的 |
+| worn | 穿旧的 / 戴着（过去分词） |
+| the | 这 / 那（定冠词） |
+| was | 是（过去式） |
+| is | 是（单数） |
+| a | 一（个） |
+| in | 在……里 |
+| at | 在 |
+| by | 被 / 由 |
+| he | 他 |
+| they | 他们 |
+| someone | 某人 |
+| no one | 没有人 |
+| still | 仍然 |
+| right | 正好 / 右 |
+| now | 现在 |
+| police | 警方 |
+| black | 黑色的 |
+| safe | 安全的 |
 
 </quiz-matching>
 
@@ -238,202 +249,202 @@ thief → thieves（复数变化）。take place = happen。
 
 ### 1
 
-Police officers came to ____ the robbery suspect last night.
+The robbery took ____ last night.
 
-- [x] arrest
-- [ ] attack
-- [ ] bomb
+- [x] place
+- [ ] take
+- [ ] taking
 
-> **解析**：**arrest** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：take place 是"发生"的固定短语，took 是 take 的过去式；take 和 taking 形式错误。
 
 ### 2
 
-A sudden ____ happened near the city center last night.
+The police ____ the thief yesterday.
 
-- [x] attack
+- [x] arrested
 - [ ] arrest
-- [ ] bomb
+- [ ] arresting
 
-> **解析**：**attack** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 提示过去时，用 arrested；arresting 不能单独作谓语。
 
 ### 3
 
-If you see a suspicious person nearby, call the police ____.
+The ____ wore masks.
 
-- [x] immediately
-- [ ] arrest
-- [ ] attack
+- [x] thieves
+- [ ] thief
+- [ ] thiefs
 
-> **解析**：**immediately** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：与复数动词 wore 和 masks 搭配用 thieves；thief 是单数，thiefs 拼写错误。
 
 ### 4
 
-The police are not ____ which vehicle the suspect was driving.
+He ____ a terrible crime last year.
 
-- [x] certain
-- [ ] arrest
-- [ ] attack
+- [x] committed
+- [ ] commit
+- [ ] commits
 
-> **解析**：**certain** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：last year 提示过去时，用 committed；commit 和 commits 不是过去式。
 
 ### 5
 
-No one should ever ____ a crime for any reason.
+In an ____, call nine-one-one.
 
-- [x] commit
-- [ ] arrest
-- [ ] attack
+- [x] emergency
+- [ ] truck
+- [ ] thief
 
-> **解析**：**commit** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：紧急情况用 emergency；truck 和 thief 不是状况名词。
 
 ### 6
 
-Calling 911 is the fastest option during a medical ____.
+Dial ____ in an emergency.
 
-- [x] emergency
-- [ ] arrest
-- [ ] attack
+- [x] nine-one-one
+- [ ] innocent
+- [ ] unknown
 
-> **解析**：**emergency** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：报警电话号码是 nine-one-one；innocent 和 unknown 是形容词。
 
 ### 7
 
-The officer helped the victim ____ an official report.
+I need to ____ a police report.
 
 - [x] file
-- [ ] arrest
-- [ ] attack
+- [ ] files
+- [ ] filing
 
-> **解析**：**file** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：to 后接动词原形 file；files 和 filing 形式错误。
 
 ### 8
 
-Everyone was ____ that nobody got injured in the accident.
+The court found him ____.
 
-- [x] glad
-- [ ] arrest
-- [ ] attack
+- [x] innocent
+- [ ] mask
+- [ ] truck
 
-> **解析**：**glad** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：法庭认定他无辜 innocent；mask 和 truck 是名词，不能作宾补。
 
 ### 9
 
-The judge declared that the defendant was ____ after trial.
+____, no one was hurt.
 
-- [x] innocent
-- [ ] arrest
-- [ ] attack
+- [x] Luckily
+- [ ] Lucky
+- [ ] Luck
 
-> **解析**：**innocent** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句首修饰整个句子用副词 luckily；lucky 是形容词，luck 是名词。
 
 ### 10
 
-____, the police caught the offender before he could escape.
+I am ____ that you are safe.
 
-- [x] Luckily
-- [ ] arrest
-- [ ] attack
+- [x] glad
+- [ ] unknown
+- [ ] worn
 
-> **解析**：**Luckily** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：为平安而高兴用 glad；unknown 和 worn 语义不符。
 
 ### 11
 
-The robber wore a black ____ to hide his facial features.
+The thief wore a black ____.
 
 - [x] mask
-- [ ] arrest
-- [ ] attack
+- [ ] truck
+- [ ] report
 
-> **解析**：**mask** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：戴在脸上的是面罩 mask；truck 和 report 不能被"戴"。
 
 ### 12
 
-Dial ____ immediately if you need emergency help.
+The old shoes were ____.
 
-- [x] nine-one-one
-- [ ] arrest
-- [ ] attack
+- [x] worn
+- [ ] wore
+- [ ] wear
 
-> **解析**：**nine-one-one** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：were 后接过去分词 worn 构成被动；wore 是过去式，wear 是原形。
 
 ### 13
 
-The victim went to the ____ to submit a police report.
+The police ____ for the truck all night.
 
-- [x] station
-- [ ] arrest
-- [ ] attack
+- [x] searched
+- [ ] search
+- [ ] searching
 
-> **解析**：**station** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：all night 叙述过去，用 searched；searching 不能单独作谓语。
 
 ### 14
 
-The guard's duty is to ____ the store and its customers.
+The police ____ the crowd yesterday.
 
-- [x] protect
-- [ ] arrest
-- [ ] attack
+- [x] protected
+- [ ] protect
+- [ ] protecting
 
-> **解析**：**protect** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 提示过去时，用 protected；protecting 不能单独作谓语。
 
 ### 15
 
-Detectives are investigating the major ____ at the jewelry store.
+The thieves escaped in a ____.
 
-- [x] robbery
-- [ ] arrest
-- [ ] attack
+- [x] truck
+- [ ] mask
+- [ ] place
 
-> **解析**：**robbery** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：逃跑的交通工具用 truck；mask 和 place 不是车辆。
 
 ### 16
 
-Officers search for the missing items in the surrounding ____.
+A ____ was found near the station.
 
-- [x] neighborhood
-- [ ] arrest
-- [ ] attack
+- [x] bomb
+- [ ] innocent
+- [ ] glad
 
-> **解析**：**neighborhood** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能被发现的是炸弹 bomb；innocent 和 glad 是形容词。
 
 ### 17
 
-The ____ will take place near the downtown park tomorrow.
+Someone ____ him last night.
 
-- [x] incident
-- [ ] arrest
+- [x] attacked
 - [ ] attack
+- [ ] attacks
 
-> **解析**：**incident** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：last night 提示过去时，用 attacked；attack 和 attacks 不是过去式。
 
 ### 18
 
-The ____ quietly sneaked into the room and stole the handbag.
+The thief is still ____.
 
-- [x] thief
-- [ ] arrest
-- [ ] attack
+- [x] unknown
+- [ ] know
+- [ ] knows
 
-> **解析**：**thief** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 unknown；know 和 knows 是动词形式。
 
 ### 19
 
-The police caught the two ____ running away from the station.
+I am ____ that I saw him.
 
-- [x] thieves
-- [ ] arrest
-- [ ] attack
+- [x] certain
+- [ ] certainly
+- [ ] certainty
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **thieves**。
+> **解析**：am 后接形容词 certain；certainly 是副词，certainty 是名词。
 
 ### 20
 
-The suspect escaped from the scene in a dark ____.
+Please call ____ right now.
 
-- [x] truck
-- [ ] arrest
-- [ ] attack
+- [x] the police
+- [ ] a police
+- [ ] polices
 
-> **解析**：**truck** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：报警固定说 call the police；police 是集合名词，不与 a 连用也没有复数形式 polices。
 
 </quiz-cloze>

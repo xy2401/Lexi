@@ -10,32 +10,35 @@ athletic, clap, curriculum, dangerously, fancy, foreigner, goalkeeper, if he wer
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"想象自己当家做主"展开，核心是虚拟语气 if ... were 结构。词表里反复出现 if he were, if she were, if they were, if we were, if you were——这是英语虚拟语气（subjunctive）的标志形式，用来谈论与事实相反的假设。比如 If I were the teacher, I would change the curriculum. / If she were the goalkeeper, she wouldn't be so lonely.
+本单元的主题是"给建议与假设身临其境"。词表可以分成三组：虚拟条件句骨架（if he were, if she were, if they were, if we were, if you were）、许可与规则词（permission, permit, mean, obviously）、以及学校与个人特质词（curriculum, athletic, goalkeeper, position, route, style, fancy, second-hand, lonely, foreigner, clap, dangerously, that reminds me）。拼起来就是"假如我当家"的讨论：If I were in charge, I would change the curriculum. If you were the coach, would you change the goalkeeper?
 
-词表涵盖了学校与运动场景（curriculum, athletic, goalkeeper, position, route）和生活决策（permission, permit, style, second-hand, fancy）。你可以练习：If we were in charge, we'd permit more athletic activities. / If they were less mean, they wouldn't be so lonely. / Obviously, that reminds me—clap for the team!
+语法主线是虚拟语气：if + 主语 + were, 主句 + would + 动词原形。与事实相反的假设中，be 动词一律用 were（即使主语是 I/he/she/it）：If she were here, she would help. 这是英语中少数保留 were 的场合。另一条主线是 permission 与 permit 的动名对应：give permission（给予许可）是名词用法，permit（动词"允许"）后接动名词或从句。that reminds me（这让我想起）是转移话题的地道口语。
 
-虚拟语气中，不论主语是 I/he/she/it，be 动词一律用 were（而非 was），这是正式用法。口语中有时也会听到 If I was...，但在写作和考试中 If I were 更规范。
+学完这些词，你能用英语做与事实相反的假设、提出管理建议、讨论许可与规则，并自然地切换话题。
 
 ## Tips
 
-- **if he were / if she were / if you were** — 虚拟语气的标志。表示与现在事实相反的假设，结构：If + 主语 + were ..., 主语 + would/could + 动词原形。例句：If I were rich, I would travel. 注意：口语中 If I was 也常见，但正式写作推荐 were。
+- **if you were / if he were / if she were / if we were / if they were** — 虚拟语气的五种人称形式。与现在事实相反时用 if + were：If you were in charge, what would you do? 注意即使主语是单数也用 were，不用 was（正式语法）。主句配 would：If we were free, we would travel.
 
-- **permission / permit** — permission 是名词"许可"，搭配 give/ask/get permission。permit 既可作名词（a work permit 工作许可证），也可作动词"允许"（Smoking is not permitted.）。两者同源但词性和用法不同。
+- **permission / permit** — permission 名词"许可"：ask for permission（请求许可）、give permission（给予许可）；permit 动词"允许"：Smoking is not permitted. 注意重音不同：名词 perMIssion，动词 perMIT。
 
-- **curriculum** — "课程体系、教学大纲"，复数是 curricula（拉丁语复数）或 curriculums。搭配：design a curriculum, the school curriculum。注意拼写：双 r，结尾 -um。
+- **mean** — 形容词"刻薄的"：Don't be mean.；动词"意味着、打算"：What do you mean? 一词两义，靠语境区分。本单元取"刻薄"义，常出现在给建议的场景。
 
-- **goalkeeper / athletic / position** — goalkeeper = 守门员（也可说 goalie，更口语）。athletic = 运动的、体格健壮的。position 在运动中指"位置、站位"，搭配 play a position, in position。
+- **obviously** — "显然地"，副词：Obviously, he is right. obvious + ly 构成。常用于陈述显而易见的事实。
 
-- **mean / lonely / obviously** — mean 作形容词"刻薄的"（He's so mean.），作动词"意味着"（What does it mean?）。lonely = 孤独的（强调感受），alone = 独自的（强调状态）。obviously = 显然，放句首或句中。
+- **curriculum / position / route** — curriculum 课程（体系）：change the curriculum（改课程）；position 职位、位置：the goalkeeper's position（守门员的位置）；route 路线：a new route（新路线）。
 
-- **clap / that reminds me** — clap = 鼓掌、拍手。搭配：clap your hands, a round of applause（更正式）。that reminds me 是口语中常用的话题转换语："这让我想起来……"，用来自然引出新话题。
+- **athletic / goalkeeper** — athletic 运动型的：an athletic student；goalkeeper 守门员（goal + keeper）。运动话题搭档。
 
-- **fancy / second-hand / style** — fancy = 花哨的、高档的（a fancy restaurant）。second-hand = 二手的（second-hand clothes）。style = 风格，搭配 in style（有格调地）、my style。三者都可以描述物品或生活方式。
+- **fancy / second-hand / style** — fancy 花哨的、高档的；second-hand 二手的：second-hand books（二手书）；style 风格：my style（我的风格）。描述物品与品味的三词。
 
-- **foreigner / dangerously / route** — foreigner = 外国人（来自 foreign + -er）。注意有些语境下 foreigner 略显生硬，可用 people from other countries 替代。dangerously = 危险地，搭配 drive dangerously。route = 路线，注意美式读 /ruːt/，英式可读 /raʊt/。
+- **lonely / foreigner** — lonely 孤独的：feel lonely（感到孤独），注意 alone 是"独自"（中性），lonely 带伤感；foreigner 外国人（foreign + -er）。
+
+- **clap** — "拍手、鼓掌"：clap your hands；也作名词：a round of applause 可说 a big clap。祈使句常用：Clap!（鼓掌！）
+
+- **dangerously / that reminds me** — dangerously 危险地（danger + ous + ly）：drive dangerously；that reminds me 是口语中的话题转换语："对了，这让我想起……"。
 
 ## 练习
 
@@ -53,149 +56,149 @@ athletic, clap, curriculum, dangerously, fancy, foreigner, goalkeeper, if he wer
 
 <quiz-sentence-builder>
 
-1. **中文**：那个擅长运动的女孩在学校田径队表现优异。
-   **英文**：He is very athletic and plays basketball well.
-   > **解析**：athletic 表示“擅长运动的/健壮的”。
+1. **中文**：如果你当家，你会做什么？
+   **英文**：If you were in charge, what would you do?
+   > **解析**：虚拟条件句用 if + were，即使 you 也用 were；主句用 would + 动词原形。
 
-2. **中文**：演出精彩结束时，全场观众纷纷鼓掌。
-   **英文**：The audience began to clap loudly after the show.
-   > **解析**：clap 表示“鼓掌/拍手”。
+2. **中文**：如果他是教练，他会换守门员。
+   **英文**：If he were the coach, he would change the goalkeeper.
+   > **解析**：if he were 是虚拟语气；would change 是主句谓语。
 
-3. **中文**：学校管理层更新了本学期的教学课程体系。
-   **英文**：The school updated its science curriculum recently.
-   > **解析**：curriculum 表示“课程体系/课程表”。
+3. **中文**：如果她在这儿，她会帮忙的。
+   **英文**：If she were here, she would help.
+   > **解析**：if she were 表与事实相反；would help 是主句。
 
-4. **中文**：我们去市中心那家昂贵的西餐厅庆祝生日。
-   **英文**：They went to a fancy French restaurant last night.
-   > **解析**：fancy 表示“昂贵的/华丽的/高档的”。
+4. **中文**：如果我们有空，我们会去旅行。
+   **英文**：If we were free, we would travel.
+   > **解析**：if we were 引导虚拟条件从句；travel 用动词原形。
 
-5. **中文**：那位来访的外国人能说一口流利的汉语。
-   **英文**：The friendly foreigner spoke fluent Mandarin Chinese.
-   > **解析**：foreigner 表示“外国人”。
+5. **中文**：如果他们是负责人，他们会改课程。
+   **英文**：If they were in charge, they would change the curriculum.
+   > **解析**：if they were 引导虚拟从句；curriculum 是宾语。
 
-6. **中文**：足球队的守门员扑出了关键的扑球。
-   **英文**：The goalkeeper made a brilliant save in the match.
-   > **解析**：goalkeeper 表示“守门员”。
+6. **中文**：我需要许可才能离开。
+   **英文**：I need permission to leave.
+   > **解析**：need permission 后接不定式 to leave；permission 是不可数名词。
 
-7. **中文**：如果他是你的话，他一定会接受这份工作邀请。
-   **英文**：If he were you, he would accept the job offer.
-   > **解析**：if he were 用虚拟语气，表示“如果他是……”。
+7. **中文**：这里不允许停车。
+   **英文**：Parking is not permitted here.
+   > **解析**：is not permitted 是被动语态；permit 的过去分词是 permitted（双写 t）。
 
-8. **中文**：如果她是负责人的话，她会做出不同的选择。
-   **英文**：If she were here, she would help us clean.
-   > **解析**：if she were 用虚拟语气，表示“如果她是……”。
+8. **中文**：别那么刻薄。
+   **英文**：Don't be mean.
+   > **解析**：否定祈使句用 Don't be + 形容词；mean 此处是"刻薄的"。
 
-9. **中文**：如果他们是教练的话，他们会调整比赛策略。
-   **英文**：If they were ready, they would start the game.
-   > **解析**：if they were 用虚拟语气，表示“如果他们是……”。
+9. **中文**：显然他是对的。
+   **英文**：Obviously, he is right.
+   > **解析**：Obviously 是句首副词，后接逗号；修饰整句话。
 
-10. **中文**：如果我们是你的话，我们不会在雨天开车。
-   **英文**：If we were rich, we would travel the world.
-   > **解析**：if we were 用虚拟语气，表示“如果我们是……”。
+10. **中文**：他开车很危险。
+   **英文**：He drives dangerously.
+   > **解析**：dangerously 是副词，修饰动词 drives；drives 是第三人称单数。
 
-11. **中文**：如果我是你的话，我会听取医生的忠告。
-   **英文**：If you were in my place, what would you do?
-   > **解析**：if you were 用虚拟语气，表示“如果你是……”。
+11. **中文**：新路线更快。
+   **英文**：The new route is faster.
+   > **解析**：is 与单数主语搭配；faster 是 fast 的比较级。
 
-12. **中文**：独自一人搬到新城市有时会感到有些孤独。
-   **英文**：Living alone in a big city can feel lonely at times.
-   > **解析**：lonely 表示“孤独的/寂寞的”。
+12. **中文**：守门员的位置很重要。
+   **英文**：The goalkeeper's position is very important.
+   > **解析**：goalkeeper's 是所有格；is 与单数主语搭配。
 
-13. **中文**：她显而易见地是团队中经验最丰富的成员。
-   **英文**：She is obviously qualified for the manager role.
-   > **解析**：obviously 表示“显而易见地/明显地”。
+13. **中文**：她很擅长运动。
+   **英文**：She is very athletic.
+   > **解析**：is 与主语 She 搭配；athletic 作表语。
 
-14. **中文**：未获得官方许可严禁进入机密办公区。
-   **英文**：You need official permission to park your car here.
-   > **解析**：permission 表示“许可/允许”。
+14. **中文**：我喜欢二手书。
+   **英文**：I like second-hand books.
+   > **解析**：second-hand 作定语修饰 books；like 是及物动词。
 
-15. **中文**：市政部门核发了施工许可证给建筑公司。
-   **英文**：They got a work permit to operate in the city.
-   > **解析**：permit 表示“许可证/执照”。
+15. **中文**：这件外套太花哨了。
+   **英文**：This coat is too fancy.
+   > **解析**：too 修饰形容词 fancy；is 与单数主语搭配。
 
-16. **中文**：导游为我们规划了一条最佳观光路线。
-   **英文**：We chose the shortest scenic route to the lake.
-   > **解析**：route 表示“路线/路途”。
+16. **中文**：他刚来这个国家时感到很孤独。
+   **英文**：He felt lonely when he first came to the country.
+   > **解析**：felt 是 feel 的过去式；when 引导时间状语从句。
 
-17. **中文**：为了省钱，他在网上买了一本二手交易的教科书。
-   **英文**：He bought a second-hand bicycle for daily commuting.
-   > **解析**：second-hand 表示“二手交易的/旧的”。
+17. **中文**：为我们的队伍鼓掌吧！
+   **英文**：Clap for our team!
+   > **解析**：祈使句用动词原形 Clap；for 表示"为……"。
 
-18. **中文**：她独特的服装搭配展现了优雅的时尚风格。
-   **英文**：She dressed in a stylish modern fashion style.
-   > **解析**：style 表示“风格/款式”。
+18. **中文**：对了，这让我想起一件事。
+   **英文**：That reminds me of something.
+   > **解析**：reminds 是第三人称单数形式；remind someone of something 是固定结构。
 
-19. **中文**：对了，那提醒了我明天早晨还有个开会。
-   **英文**：Oh, that reminds me to buy fresh milk today.
-   > **解析**：that reminds me 表示“那提醒了我/说到这我想起来了”。
+19. **中文**：她的穿衣风格很独特。
+   **英文**：Her style of dressing is unique.
+   > **解析**：style 是主语中心词；of dressing 表示"穿衣的"。
 
-20. **中文**：不要对服务人员做出无礼刻薄的举动。
-   **英文**：Don't be mean to your younger brother.
-   > **解析**：mean 表示“刻薄的/小气的”。
+20. **中文**：如果我是你，我会先请求许可。
+   **英文**：If I were you, I would ask for permission first.
+   > **解析**：If I were you 是固定虚拟表达；would ask 是主句；first 放句末。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. He is very athletic and plays basketball well.
-   > **中文**：那个擅长运动的女孩在学校田径队表现优异。
+1. If you were in charge, what would you do?
+   > **中文**：如果你当家，你会做什么？
 
-2. The audience began to clap loudly after the show.
-   > **中文**：演出精彩结束时，全场观众纷纷鼓掌。
+2. If he were the coach, he would change the goalkeeper.
+   > **中文**：如果他是教练，他会换守门员。
 
-3. The school updated its science curriculum recently.
-   > **中文**：学校管理层更新了本学期的教学课程体系。
+3. If she were here, she would help.
+   > **中文**：如果她在这儿，她会帮忙的。
 
-4. They went to a fancy French restaurant last night.
-   > **中文**：我们去市中心那家昂贵的西餐厅庆祝生日。
+4. If we were free, we would travel.
+   > **中文**：如果我们有空，我们会去旅行。
 
-5. The friendly foreigner spoke fluent Mandarin Chinese.
-   > **中文**：那位来访的外国人能说一口流利的汉语。
+5. If they were in charge, they would change the curriculum.
+   > **中文**：如果他们是负责人，他们会改课程。
 
-6. The goalkeeper made a brilliant save in the match.
-   > **中文**：足球队的守门员扑出了关键的扑球。
+6. I need permission to leave.
+   > **中文**：我需要许可才能离开。
 
-7. If he were you, he would accept the job offer.
-   > **中文**：如果他是你的话，他一定会接受这份工作邀请。
+7. Parking is not permitted here.
+   > **中文**：这里不允许停车。
 
-8. If she were here, she would help us clean.
-   > **中文**：如果她是负责人的话，她会做出不同的选择。
+8. Don't be mean.
+   > **中文**：别那么刻薄。
 
-9. If they were ready, they would start the game.
-   > **中文**：如果他们是教练的话，他们会调整比赛策略。
+9. Obviously, he is right.
+   > **中文**：显然他是对的。
 
-10. If we were rich, we would travel the world.
-   > **中文**：如果我们是你的话，我们不会在雨天开车。
+10. He drives dangerously.
+   > **中文**：他开车很危险。
 
-11. If you were in my place, what would you do?
-   > **中文**：如果我是你的话，我会听取医生的忠告。
+11. The new route is faster.
+   > **中文**：新路线更快。
 
-12. Living alone in a big city can feel lonely at times.
-   > **中文**：独自一人搬到新城市有时会感到有些孤独。
+12. The goalkeeper's position is important.
+   > **中文**：守门员的位置很重要。
 
-13. She is obviously qualified for the manager role.
-   > **中文**：她显而易见地是团队中经验最丰富的成员。
+13. She is very athletic.
+   > **中文**：她很擅长运动。
 
-14. You need official permission to park your car here.
-   > **中文**：未获得官方许可严禁进入机密办公区。
+14. I like second-hand books.
+   > **中文**：我喜欢二手书。
 
-15. They got a work permit to operate in the city.
-   > **中文**：市政部门核发了施工许可证给建筑公司。
+15. This coat is too fancy.
+   > **中文**：这件外套太花哨了。
 
-16. We chose the shortest scenic route to the lake.
-   > **中文**：导游为我们规划了一条最佳观光路线。
+16. He felt lonely at first.
+   > **中文**：他一开始感到很孤独。
 
-17. He bought a second-hand bicycle for daily commuting.
-   > **中文**：为了省钱，他在网上买了一本二手交易的教科书。
+17. Clap for our team!
+   > **中文**：为我们的队伍鼓掌吧！
 
-18. She dressed in a stylish modern fashion style.
-   > **中文**：她独特的服装搭配展现了优雅的时尚风格。
+18. That reminds me of something.
+   > **中文**：这让我想起一件事。
 
-19. Oh, that reminds me to buy fresh milk today.
-   > **中文**：对了，那提醒了我明天早晨还有个开会。
+19. Her style is unique.
+   > **中文**：她的风格很独特。
 
-20. Don't be mean to your younger brother.
-   > **中文**：不要对服务人员做出无礼刻薄的举动。
+20. If I were you, I would ask for permission first.
+   > **中文**：如果我是你，我会先请求许可。
 
 </quiz-listening>
 
@@ -203,26 +206,32 @@ athletic, clap, curriculum, dangerously, fancy, foreigner, goalkeeper, if he wer
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| athletic | 擅长运动的 |
+| athletic | 运动型的 |
 | clap | 鼓掌 |
-| curriculum | 课程体系 |
-| fancy | 昂贵的 / 华丽的 |
+| curriculum | 课程 |
+| dangerously | 危险地 |
+| fancy | 花哨的 |
 | foreigner | 外国人 |
 | goalkeeper | 守门员 |
-| if he were | 如果他是 |
-| if she were | 如果她是 |
-| if they were | 如果他们是 |
-| if we were | 如果我们是 |
-| if you were | 如果你是 |
+| if he were | 如果他是（虚拟） |
+| if she were | 如果她是（虚拟） |
+| if they were | 如果他们是（虚拟） |
+| if we were | 如果我们是（虚拟） |
+| if you were | 如果你是（虚拟） |
 | lonely | 孤独的 |
-| obviously | 显而易见地 |
+| mean | 刻薄的 |
+| obviously | 显然地 |
 | permission | 许可 |
-| permit | 许可证 |
+| permit | 允许 |
+| position | 位置 / 职位 |
 | route | 路线 |
 | second-hand | 二手的 |
 | style | 风格 |
-| that reminds me | 那提醒了我 |
-| mean | 刻薄的 / 小气的 |
+| that reminds me | 这让我想起 |
+| is | 是（单数） |
+| would | 会（虚拟主句） |
+| the | 这个 / 那个 |
+| team | 队伍 |
 
 </quiz-matching>
 
@@ -230,202 +239,202 @@ athletic, clap, curriculum, dangerously, fancy, foreigner, goalkeeper, if he wer
 
 ### 1
 
-He is very ____ and plays basketball well.
+If you ____ in charge, what would you do?
 
-- [x] athletic
-- [ ] clap
-- [ ] curriculum
+- [x] were
+- [ ] are
+- [ ] was
 
-> **解析**：**athletic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：虚拟条件句用 were；are 表真实条件，was 在正式虚拟中不用。
 
 ### 2
 
-The audience began to ____ loudly after the show.
+If he ____ the coach, he would change the goalkeeper.
 
-- [x] clap
-- [ ] athletic
-- [ ] curriculum
+- [x] were
+- [ ] is
+- [ ] were to is
 
-> **解析**：**clap** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：虚拟语气中单数主语也用 were；is 表真实情况。
 
 ### 3
 
-The school updated its science ____ recently.
+If she were here, she ____ help.
 
-- [x] curriculum
-- [ ] athletic
-- [ ] clap
+- [x] would
+- [ ] will
+- [ ] does
 
-> **解析**：**curriculum** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：虚拟条件句的主句用 would + 动词原形；will 用于真实条件句。
 
 ### 4
 
-They went to a ____ French restaurant last night.
+If we ____ free, we would travel.
 
-- [x] fancy
-- [ ] athletic
-- [ ] clap
+- [x] were
+- [ ] are
+- [ ] be
 
-> **解析**：**fancy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：虚拟从句用 were；are 表真实情况，be 不合此结构。
 
 ### 5
 
-The friendly ____ spoke fluent Mandarin Chinese.
+If they were in charge, they ____ change the curriculum.
 
-- [x] foreigner
-- [ ] athletic
-- [ ] clap
+- [x] would
+- [ ] will
+- [ ] did
 
-> **解析**：**foreigner** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：虚拟主句用 would；will 不用于与事实相反的假设。
 
 ### 6
 
-The ____ made a brilliant save in the match.
+I need ____ to leave.
 
-- [x] goalkeeper
-- [ ] athletic
-- [ ] clap
+- [x] permission
+- [ ] permit
+- [ ] permitting
 
-> **解析**：**goalkeeper** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：need 后需要名词 permission；permit 此处作动词不成立。
 
 ### 7
 
-If he were you, he would ____ the job offer.
+Parking is not ____ here.
 
-- [x] accept
-- [ ] athletic
-- [ ] clap
+- [x] permitted
+- [ ] permit
+- [ ] permission
 
-> **解析**：**accept** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is not + 过去分词构成被动，用 permitted；permission 是名词。
 
 ### 8
 
-If she were here, she ____ help us clean.
+Don't be ____.
 
-- [x] would
-- [ ] athletic
-- [ ] clap
+- [x] mean
+- [ ] means
+- [ ] meant
 
-> **解析**：**would** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Don't be + 形容词，mean 表"刻薄"；means 是三单形式，meant 是过去式。
 
 ### 9
 
-If they were ____, they would start the game.
+____, he is right.
 
-- [x] ready
-- [ ] athletic
-- [ ] clap
+- [x] Obviously
+- [ ] Obvious
+- [ ] Obviousness
 
-> **解析**：**ready** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句首需要副词 Obviously；Obvious 是形容词，不能修饰整句。
 
 ### 10
 
-If we were rich, we would ____ the world.
+He drives ____.
 
-- [x] travel
-- [ ] athletic
-- [ ] clap
+- [x] dangerously
+- [ ] dangerous
+- [ ] danger
 
-> **解析**：**travel** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰动词 drives 需要副词 dangerously；dangerous 是形容词。
 
 ### 11
 
-If you were in my ____, what would you do?
+The new ____ is faster.
 
-- [x] place
-- [ ] athletic
-- [ ] clap
+- [x] route
+- [ ] routine
+- [ ] root
 
-> **解析**：**place** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：路线（route）可以说更快；routine 是日常惯例，root 是根部。
 
 ### 12
 
-Living alone in a big city can feel ____ at times.
+The goalkeeper's ____ is important.
 
-- [x] lonely
-- [ ] athletic
-- [ ] clap
+- [x] position
+- [ ] permission
+- [ ] permit
 
-> **解析**：**lonely** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：守门员的位置（position）语义通顺；permission 和 permit 与位置无关。
 
 ### 13
 
-She is ____ qualified for the manager role.
+She is very ____.
 
-- [x] obviously
-- [ ] athletic
-- [ ] clap
+- [x] athletic
+- [ ] athlete
+- [ ] athletics
 
-> **解析**：**obviously** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 athletic；athlete 是名词"运动员"。
 
 ### 14
 
-You need official ____ to park your car here.
+I like second-hand ____.
 
-- [x] permission
-- [ ] athletic
-- [ ] clap
+- [x] books
+- [ ] book
+- [ ] buying
 
-> **解析**：**permission** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：泛指用复数 books；buying 语义不合。
 
 ### 15
 
-They got a work ____ to operate in the city.
+This coat is too ____.
 
-- [x] permit
-- [ ] athletic
-- [ ] clap
+- [x] fancy
+- [ ] fancily
+- [ ] fancies
 
-> **解析**：**permit** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：too 后接形容词 fancy；fancily 是副词。
 
 ### 16
 
-We chose the shortest scenic ____ to the lake.
+He felt ____ at first.
 
-- [x] route
-- [ ] athletic
-- [ ] clap
+- [x] lonely
+- [ ] alone
+- [ ] lone
 
-> **解析**：**route** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：felt 后接形容词 lonely（孤独的，带伤感）；alone 强调独自，语义不如 lonely 贴切。
 
 ### 17
 
-He bought a ____ bicycle for daily commuting.
+____ for our team!
 
-- [x] second-hand
-- [ ] athletic
-- [ ] clap
+- [x] Clap
+- [ ] Claps
+- [ ] Clapped
 
-> **解析**：**second-hand** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Clap；其余形式不成立。
 
 ### 18
 
-She dressed in a stylish modern fashion ____.
+That ____ me of something.
 
-- [x] style
-- [ ] athletic
-- [ ] clap
+- [x] reminds
+- [ ] remind
+- [ ] reminding
 
-> **解析**：**style** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 That 是第三人称单数，用 reminds；reminding 不能单独作谓语。
 
 ### 19
 
-Oh, that ____ me to buy fresh milk today.
+Her ____ is unique.
 
-- [x] reminds
-- [ ] athletic
-- [ ] clap
+- [x] style
+- [ ] stylish
+- [ ] styling
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **reminds**。
+> **解析**：Her 后需要名词 style；stylish 是形容词。
 
 ### 20
 
-Don't be ____ to your younger brother.
+If I were you, I ____ ask for permission first.
 
-- [x] mean
-- [ ] athletic
-- [ ] clap
+- [x] would
+- [ ] will
+- [ ] do
 
-> **解析**：**mean** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：If I were you 是虚拟表达，主句用 would；will 不用于虚拟。
 
 </quiz-cloze>

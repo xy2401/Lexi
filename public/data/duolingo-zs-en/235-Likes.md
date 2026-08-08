@@ -10,42 +10,37 @@ appealing, appropriately, by, can't get enough of, can't wait, catch up, don't, 
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"夸赞别人的家"展开，场景是参加乔迁派对（housewarming）。词表里有赞美词汇（lovely, impressive, appealing, unique, entertaining, in style），有热情与期待表达（can't get enough of, can't wait, obsessed with, sounds），也有社交与计划表达（housewarming, catch up, show up, play it by ear, miss out, up to）。你可以用这些词在派对上聊天：Your home is lovely—so unique and impressive! / I can't get enough of the homemade decorations. / The housewarming sounds entertaining—I can't wait to show up and catch up. / Let's play it by ear for dinner; it's up to you. / Don't be too hard on yourself—everything looks appropriately in style. / I don't want to miss out!
+本单元的主题是"夸赞别人的家"，场景围绕乔迁派对展开。词表可以分成四组：赞美形容词（lovely, appealing, impressive, unique, entertaining）、派对相关词（housewarming, homemade, show up, catch up, miss out）、表达热情的短语（can't wait, can't get enough of, obsessed with, sounds）、以及口语与功能词（play it by ear, up to, by, how, in style, too hard on, appropriately, don't, isn't, won't, virtual reality）。拼在一起，就能说出自然的客套话：Your home is lovely! I can't wait for your housewarming.
 
-这里值得注意 can't get enough of 和 obsessed with 都表达"非常喜欢、着迷"，但 obsessed with 语气更强。play it by ear 是一个非常实用的习语——意思是"到时候再说、见机行事"，不做提前计划。
+语法主线有两条。一是用 how 加强感叹：How impressive your house is! 以及用 sounds 回应别人的提议：That sounds lovely. 二是缩写否定 don't / isn't / won't 在口语中的运用：Don't be too hard on yourself. / It isn't ugly at all. / I won't miss out.
 
-学完本单元，你可以用英语真诚地夸赞别人的家、表达对聚会的期待，并灵活安排社交计划。
+学完这个单元，你能用英语真诚地夸赞朋友的家、回应派对邀请，还能随性地安排聚会日程。
 
 ## Tips
 
-- **housewarming** — 乔迁派对（搬新家后邀请朋友来庆祝）。搭配：a housewarming party, go to a housewarming。Thanks for inviting me to your housewarming! 构词：house + warming（温暖新家）。这是英语文化中的常见社交活动。
+- **lovely / appealing / impressive / unique** — 四个夸赞用形容词。lovely 温暖亲切（Your home is lovely.）；appealing 指"吸引人的"（The design is appealing.）；impressive 强调"令人赞叹"（How impressive!）；unique 指"独一无二"。注意 ✗ Your home is very unique → 严格用法中 unique 本身已是极致含义，但口语里 very unique 也常见。
 
-- **can't get enough of / obsessed with** — 都表"非常喜欢"，程度不同。can't get enough of = 怎么都不够（很享受），obsessed with = 着迷（更强烈）。搭配：I can't get enough of this homemade cake. / She's obsessed with virtual reality. 注意 obsessed with 有时带"过度沉迷"的暗示。
+- **housewarming / homemade** — 派对场景名词。housewarming 是"乔迁派对"，house + warming（给新家添暖意）；homemade 是"自制的"：homemade bread, homemade cake。构词都是复合词，一目了然。
 
-- **play it by ear** — 见机行事、到时候再说（不提前计划）。搭配：play it by ear, let's play it by ear。I don't have a plan—let's play it by ear. 来自音乐领域：不看乐谱，凭耳朵（听觉记忆）演奏。
+- **show up / catch up / miss out** — 三个派对动词短语。show up = 到场：What time will you show up? catch up = 叙旧：Let's catch up soon. miss out = 错过（机会或乐趣），常接 on：I don't want to miss out on the fun.
 
-- **show up / catch up / miss out** — show up = 出现、到场，catch up = 叙旧、赶上，miss out = 错过。搭配：show up to the party, catch up with friends, miss out on fun。I'll show up around seven. / Let's catch up! / Don't miss out! 注意 catch up 强调"补上没聊的天"。
+- **can't wait / can't get enough of** — 两个表达热情的短语。can't wait 表迫不及待：I can't wait for the party. can't get enough of 表"怎么也不嫌多"：I can't get enough of your cooking. 语气比 like 强烈得多。
 
-- **lovely / impressive / appealing** — 都是正面评价，但侧重不同。lovely = 美好的、可爱的（温暖感），impressive = 令人印象深刻的（震撼感），appealing = 有吸引力的（让人喜欢）。搭配：a lovely home, an impressive collection, an appealing design。
+- **obsessed with** — "对……着迷"：She is obsessed with virtual reality. 比 interested in 更狂热，口语里常带夸张语气，不一定是贬义。
 
-- **homemade / in style** — homemade = 自制的，in style = 有格调地/时髦地。搭配：homemade cookies, live in style, decorated in style。These homemade decorations are lovely! / You're living in style! 注意 in style 也可说 in style = 很气派。
+- **sounds** — 回应提议的高频词：That sounds lovely. / Sounds great! 这里 sounds 是系动词，主语 that 是单数所以加 s。省略主语说 Sounds good! 非常口语化。
 
-- **unique / entertaining** — unique 是独特的（独一无二的），entertaining 是有趣的、有娱乐性的。搭配：a unique design, an entertaining evening。Your home is so unique. / The party was entertaining. 注意 unique 严格来说没有比较级（× more unique），但口语中偶尔听到。
+- **play it by ear / up to / by** — 三个口语骨架。play it by ear = 见机行事（原指不看乐谱即兴演奏）；up to 问近况：What are you up to? 也可表"直到"；by 表截止时间：Please reply by Friday.
 
-- **can't wait / sounds** — can't wait = 迫不及待，sounds = 听起来。搭配：I can't wait! / That sounds great!。I can't wait for the housewarming! / Homemade food? Sounds lovely! 注意 sounds 后常接形容词：sounds good / sounds fun / sounds like a plan。
+- **how** — 疑问与感叹两用：How do you like your new home?（觉得怎么样）；How impressive!（多么令人赞叹）。感叹句结构：How + 形容词 + 主语 + 动词。
 
-- **up to / too hard on** — up to = 由……决定/取决于，too hard on = 对……太苛刻。搭配：It's up to you. / Don't be too hard on yourself.。Dinner is up to you—play it by ear. / Don't be too hard on yourself about the mess. 注意 up to 也可表"多达"：up to 100 people。
+- **don't / isn't / won't** — 三个否定缩写：do not / is not / will not。祈使句否定用 Don't 开头：Don't be too hard on yourself.（别对自己太苛刻。）won't 也可表"不肯"：The door won't open.
 
-- **virtual reality** — 虚拟现实。搭配：virtual reality headset, VR。They have a virtual reality setup—so entertaining! 常缩写为 VR。注意 virtual 在这里不是"虚拟的（不真实的）"，而是"模拟的、仿真的"。
+- **in style / too hard on / appropriately** — 三个状语表达。in style = 有派头地：celebrate in style；be too hard on someone = 对……太苛刻；appropriately = 恰当地（appropriate + -ly）：Please dress appropriately.
 
-- **appropriately / by** — appropriately = 恰当地、合适地，by 在这里可能表"通过"或"到……为止"。搭配：appropriately decorated, by the time, by far。The decorations are appropriately lovely. / Come by around seven. 注意 appropriately 来自 appropriate（恰当的）+ -ly。
-
-- **don't / isn't / won't** — 否定缩略形式。don't = do not，isn't = is not，won't = will not。搭配：Don't miss out! / Isn't it lovely? / I won't be late. 注意 won't 的拼写不规则（不是 × willn't），来自古英语 willan + not。
-
-- **how** — 多么（感叹）；如何（疑问）。搭配：How lovely! / How do you like it?。How impressive! / How did you decorate it? 注意 how 在感叹句中修饰形容词/副词：How lovely! 而 what 修饰名词：What a lovely home!
+- **entertaining / virtual reality** — entertaining 指"有趣味、让人愉快的"：The game is entertaining. 注意与 entertained 的区别——事物 entertaining，人感到 entertained。virtual reality 是"虚拟现实"，常缩写为 VR。
 
 ## 练习
 
@@ -63,176 +58,195 @@ appealing, appropriately, by, can't get enough of, can't wait, catch up, don't, 
 
 <quiz-sentence-builder>
 
-1. **中文**：你做的大美味自制饼干我怎么吃也吃不够。
-   **英文**：I can't get enough of your delicious homemade cookies.
-   > **解析**：can't get enough of 意为非常喜欢、吃不够。
+1. **中文**：你的家真温馨可爱。
+   **英文**：Your home is really lovely.
+   > **解析**：Your home 是第三人称单数主语，搭配 is；lovely 作表语表示"可爱的、温馨的"。
 
-2. **中文**：她最近沉迷于虚拟现实游戏。
-   **英文**：She is obsessed with virtual reality games these days.
-   > **解析**：virtual reality 意为虚拟现实（VR）。
+2. **中文**：你的新家多么令人赞叹啊！
+   **英文**：How impressive your new house is!
+   > **解析**：感叹句结构为 How + 形容词 + 主语 + be 动词；impressive 是被强调的形容词。
 
-3. **中文**：感谢邀请我参加你的乔迁派对！
-   **英文**：Thanks for inviting me to your housewarming party!
-   > **解析**：housewarming 意为乔迁派对。
+3. **中文**：我迫不及待想参加你的乔迁派对。
+   **英文**：I can't wait for your housewarming.
+   > **解析**：can't wait 是固定短语"迫不及待"，后接 for 引出期待的事件；housewarming 指乔迁派对。
 
-4. **中文**：客厅装饰得得体而时尚。
-   **英文**：The living room is decorated appropriately and in style.
-   > **解析**：in style 意为时尚地、有格调地。
+4. **中文**：听起来真不错。
+   **英文**：That sounds lovely.
+   > **解析**：sounds 是系动词，主语 That 是单数所以加 s；lovely 作表语。
 
-5. **中文**：这个独特的艺术展品多么令人印象深刻啊！
-   **英文**：How impressive this unique art display is!
-   > **解析**：impressive 意为令人印象深刻的。
+5. **中文**：别对自己太苛刻。
+   **英文**：Don't be too hard on yourself.
+   > **解析**：祈使句的否定形式用 Don't + 动词原形开头；be too hard on 是固定搭配"对……太苛刻"。
 
-6. **中文**：我们没有死板的计划，所以到时候见机行事吧。
-   **英文**：We don't have a rigid plan, so let's play it by ear.
-   > **解析**：play it by ear 意为见机行事、到时候再说。
+6. **中文**：我们不会错过这些乐趣的。
+   **英文**：We won't miss out on the fun.
+   > **解析**：won't 是 will not 的缩写，后接动词原形；miss out on 是固定搭配"错过"。
 
-7. **中文**：我迫不及待想在今晚和大家叙叙旧。
-   **英文**：I can't wait to catch up with everyone tonight.
-   > **解析**：catch up 意为叙旧、聚聚。
+7. **中文**：我们在派对上好好叙叙旧吧。
+   **英文**：Let's catch up at the party.
+   > **解析**：Let's 后接动词原形 catch up；at the party 是地点状语。
 
-8. **中文**：如果你不早点赶到，你就会错过好戏。
-   **英文**：If you don't show up early, you will miss out on the fun.
-   > **解析**：miss out on 意为错过（好机会/乐趣）。
+8. **中文**：你几点到场？
+   **英文**：What time will you show up?
+   > **解析**：特殊疑问句结构：疑问词 What time + will + 主语 + 动词原形；show up 意为"到场"。
 
-9. **中文**：这个现代花园设计对你来说难道不具有吸引力吗？
-   **英文**：Isn't this modern garden design appealing to you?
-   > **解析**：appealing 意为有吸引力的。
+9. **中文**：我对你做的自制面包着迷了。
+   **英文**：I am obsessed with your homemade bread.
+   > **解析**：be obsessed with 是固定搭配"对……着迷"；homemade 作定语修饰 bread。
 
-10. **中文**：这场演出出乎意料地具有娱乐性。
-   **英文**：The performance was surprisingly entertaining.
-   > **解析**：entertaining 意为有趣的、有娱乐性的。
+10. **中文**：我们就见机行事吧。
+   **英文**：Let's play it by ear.
+   > **解析**：play it by ear 是固定习语"见机行事"，it 是短语内的固定成分；Let's 后接动词原形。
 
-11. **中文**：如果事情不够完美，不要对自己太苛刻。
-   **英文**：Don't be too hard on yourself if things aren't perfect.
-   > **解析**：be too hard on 意为对自己/他人太苛刻。
+11. **中文**：请在周五之前回复。
+   **英文**：Please reply by Friday.
+   > **解析**：by 表示"不迟于"某个截止时间；please 使祈使句更礼貌。
 
-12. **中文**：由你来决定哪种颜色最适合这个房间。
-   **英文**：It is up to you to decide which color suits the room best.
-   > **解析**：be up to 意为由……决定。
+12. **中文**：你的装饰风格是独一无二的。
+   **英文**：Your decoration style is unique.
+   > **解析**：单数主语 style 搭配 is；unique 作表语表示"独一无二的"。
 
-13. **中文**：听起来那是一个很棒的周末主意。
-   **英文**：That sounds like a lovely idea for the weekend.
-   > **解析**：lovely 意为美好的、可爱的。
+13. **中文**：你的新沙发是不是很吸引人？
+   **英文**：Isn't your new sofa appealing?
+   > **解析**：否定疑问句把 Isn't 提前，表示期待对方认同；appealing 作表语。
 
-14. **中文**：你不会相信从阳台上看到的景色有多美。
-   **英文**：You won't believe how beautiful the view is from the balcony.
-   > **解析**：balcony 意为阳台。
+14. **中文**：你做的菜我怎么吃都吃不够。
+   **英文**：I can't get enough of your cooking.
+   > **解析**：can't get enough of 是固定短语"对……怎么也不嫌多"，of 后接对象。
 
-15. **中文**：她带了一个可爱的自制蛋糕来参加派对。
-   **英文**：She brought a lovely homemade cake to the party.
-   > **解析**：homemade 意为自制的。
+15. **中文**：他们很有派头地庆祝了一番。
+   **英文**：They celebrated in style.
+   > **解析**：in style 是介词短语作方式状语，表示"有气派地"。
 
-16. **中文**：他对现代家具设计很着迷。
-   **英文**：He is obsessed with modern furniture design.
-   > **解析**：obsessed with 意为对……着迷。
+16. **中文**：请穿着得体一些。
+   **英文**：Please dress appropriately.
+   > **解析**：appropriately 是副词，修饰动词 dress；appropriate 是形容词，加 -ly 变为副词。
 
-17. **中文**：那部电影听起来超级有趣！
-   **英文**：That movie sounds super entertaining!
-   > **解析**：sounds 意为听起来。
+17. **中文**：这个游戏真的很有趣。
+   **英文**：The game is really entertaining.
+   > **解析**：单数主语搭配 is；entertaining 是形容词"有趣的"，really 是程度副词。
 
-18. **中文**：这个周末我们应该喝咖啡聚聚叙旧。
-   **英文**：We should catch up over coffee this weekend.
-   > **解析**：catch up 意为叙旧。
+18. **中文**：你试过虚拟现实吗？
+   **英文**：Have you tried virtual reality?
+   > **解析**：现在完成时疑问句：Have + 主语 + 过去分词 tried；virtual reality 作宾语。
 
-19. **中文**：找到这样一个独特的房子并不容易。
-   **英文**：It isn't easy to find such a unique house.
-   > **解析**：unique 意为独特的。
+19. **中文**：这个周末你在忙什么？
+   **英文**：What are you up to this weekend?
+   > **解析**：be up to 是口语固定搭配"在做什么"；this weekend 作时间状语。
 
-20. **中文**：你的新公寓看起来多么漂亮啊！
-   **英文**：How lovely your new apartment looks!
-   > **解析**：How 用于感叹句修饰形容词。
+20. **中文**：你觉得你的新家怎么样？
+   **英文**：How do you like your new home?
+   > **解析**：How do you like... 是询问看法的固定句型；do 帮助构成疑问句，like 用原形。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I can't get enough of your delicious homemade cookies.
-   > **中文**：你做的大美味自制饼干我怎么吃也吃不够。
+1. Your home is really lovely.
+   > **中文**：你的家真温馨可爱。
 
-2. She is obsessed with virtual reality games these days.
-   > **中文**：她最近沉迷于虚拟现实游戏。
+2. I can't wait for your housewarming.
+   > **中文**：我迫不及待想参加你的乔迁派对。
 
-3. Thanks for inviting me to your housewarming party!
-   > **中文**：感谢邀请我参加你的乔迁派对！
+3. That sounds impressive.
+   > **中文**：听起来真了不起。
 
-4. The living room is decorated appropriately and in style.
-   > **中文**：客厅装饰得得体而时尚。
+4. Don't be too hard on yourself.
+   > **中文**：别对自己太苛刻。
 
-5. How impressive this unique art display is!
-   > **中文**：这个独特的艺术展品多么令人印象深刻啊！
+5. We can catch up soon.
+   > **中文**：我们很快就能叙叙旧了。
 
-6. We don't have a rigid plan, so let's play it by ear.
-   > **中文**：我们没有死板的计划，所以到时候见机行事吧。
+6. She will show up at eight.
+   > **中文**：她会在八点到场。
 
-7. I can't wait to catch up with everyone tonight.
-   > **中文**：我迫不及待想在今晚和大家叙叙旧。
+7. I can't get enough of your homemade bread.
+   > **中文**：你做的自制面包我怎么吃都吃不够。
 
-8. If you don't show up early, you will miss out on the fun.
-   > **中文**：如果你不早点赶到，你就会错过好戏。
+8. He is obsessed with virtual reality.
+   > **中文**：他对虚拟现实着迷了。
 
-9. Isn't this modern garden design appealing to you?
-   > **中文**：这个现代花园设计对你来说难道不具有吸引力吗？
+9. Isn't your new house impressive?
+   > **中文**：你的新家是不是很令人赞叹？
 
-10. The performance was surprisingly entertaining.
-   > **中文**：这场演出出乎意料地具有娱乐性。
+10. How lovely your home is!
+   > **中文**：你的家多么可爱啊！
 
-11. Don't be too hard on yourself if things aren't perfect.
-   > **中文**：如果事情不够完美，不要对自己太苛刻。
+11. They won't miss out on the party.
+   > **中文**：他们不会错过这场派对的。
 
-12. It is up to you to decide which color suits the room best.
-   > **中文**：由你来决定哪种颜色最适合这个房间。
+12. Let's play it by ear.
+   > **中文**：我们就见机行事吧。
 
-13. That sounds like a lovely idea for the weekend.
-   > **中文**：听起来那是一个很棒的周末主意。
+13. Please come by soon.
+   > **中文**：请快点过来坐坐。
 
-14. You won't believe how beautiful the view is from the balcony.
-   > **中文**：你不会相信从阳台上看到的景色有多美。
+14. Your style is unique.
+   > **中文**：你的风格是独一无二的。
 
-15. She brought a lovely homemade cake to the party.
-   > **中文**：她带了一个可爱的自制蛋糕来参加派对。
+15. What are you up to now?
+   > **中文**：你现在在忙什么？
 
-16. He is obsessed with modern furniture design.
-   > **中文**：他对现代家具设计很着迷。
+16. The homemade food sounds lovely.
+   > **中文**：自制食物听起来很棒。
 
-17. That movie sounds super entertaining!
-   > **中文**：那部电影听起来超级有趣！
+17. Dress appropriately for the party.
+   > **中文**：参加派对要穿着得体。
 
-18. We should catch up over coffee this weekend.
-   > **中文**：这个周末我们应该喝咖啡聚聚叙旧。
+18. It is really entertaining.
+   > **中文**：这真的很有趣。
 
-19. It isn't easy to find such a unique house.
-   > **中文**：找到这样一个独特的房子并不容易。
+19. We will celebrate in style.
+   > **中文**：我们会很有派头地庆祝一番。
 
-20. How lovely your new apartment looks!
-   > **中文**：你的新公寓看起来多么漂亮啊！
+20. How do you like my new home?
+   > **中文**：你觉得我的新家怎么样？
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| housewarming | 乔迁派对 |
-| can't get enough of | 非常喜欢；吃/看不够 |
-| obsessed with | 对……着迷 |
-| play it by ear | 见机行事；到时候再说 |
-| show up | 出现；到场 |
-| catch up | 叙旧；赶上 |
-| miss out | 错过（机会/乐趣） |
-| lovely | 美好的；可爱的 |
-| impressive | 令人印象深刻的 |
-| appealing | 有吸引力的 |
-| homemade | 自制的 |
-| in style | 时尚地；有格调地 |
-| unique | 独特的 |
-| entertaining | 有趣的；有娱乐性的 |
+| --- | --- |
+| appealing | 吸引人的 |
+| appropriately | 恰当地 |
+| by | 在……之前（截止时间） |
+| can't get enough of | 对……怎么也不嫌多 |
 | can't wait | 迫不及待 |
-| too hard on | 对……太苛刻 |
-| up to | 由……决定 |
-| virtual reality | 虚拟现实 |
-| appropriately | 恰当地；得体地 |
+| catch up | 叙旧 |
+| don't | 不（否定） |
+| entertaining | 有趣的 |
+| homemade | 自制的 |
+| housewarming | 乔迁派对 |
+| how | 多么 / 怎样 |
+| impressive | 令人赞叹的 |
+| in style | 有派头地 |
+| isn't | 不是 |
+| lovely | 可爱的 / 温馨的 |
+| miss out | 错过 |
+| obsessed with | 对……着迷 |
+| play it by ear | 见机行事 |
+| show up | 到场 |
 | sounds | 听起来 |
+| too hard on | 对……太苛刻 |
+| unique | 独一无二的 |
+| up to | 在做 / 直到 |
+| virtual reality | 虚拟现实 |
+| won't | 不会 |
+| is | 是 |
+| will | 将会 |
+| your | 你的 |
+| really | 真的 |
+| at | 在（时刻） |
+| on | 在……上 |
+| for | 为了 / 对于 |
+| soon | 很快 |
+| she | 她 |
+| he | 他 |
+| they | 他们 |
+| we | 我们 |
+| let's | 让我们 |
+| come | 来 |
 
 </quiz-matching>
 
@@ -240,202 +254,202 @@ appealing, appropriately, by, can't get enough of, can't wait, catch up, don't, 
 
 ### 1
 
-I can't get enough of your delicious ____ cookies.
+I can't ____ for your housewarming party.
 
-- [x] homemade
-- [ ] appealing
-- [ ] appropriately
+- [x] wait
+- [ ] waiting
+- [ ] waits
 
-> **解析**：**homemade** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：can't 后必须接动词原形 wait；waiting 是动名词，waits 是第三人称单数形式，都不成立。
 
 ### 2
 
-She is ____ with virtual reality games these days.
+That ____ like a lovely plan.
 
-- [x] obsessed
-- [ ] appealing
-- [ ] appropriately
+- [x] sounds
+- [ ] sound
+- [ ] sounding
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **obsessed**。
+> **解析**：主语 That 是第三人称单数，系动词用 sounds；sound 缺 s，sounding 不能单独作谓语。
 
 ### 3
 
-Thanks for inviting me to your ____ party!
+We won't ____ on the fun.
 
-- [x] housewarming
-- [ ] appealing
-- [ ] appropriately
+- [x] miss out
+- [ ] misses out
+- [ ] missing out
 
-> **解析**：**housewarming** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：won't 后接动词原形 miss out；misses out 是单三形式，missing out 是动名词，均不成立。
 
 ### 4
 
-The living room is decorated ____ and in style.
+Let's ____ at the party this weekend.
 
-- [x] appropriately
-- [ ] appealing
-- [ ] by
+- [x] catch up
+- [ ] catches up
+- [ ] caught up
 
-> **解析**：**appropriately** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Let's 后接动词原形 catch up；catches up 是单三形式，caught up 是过去式。
 
 ### 5
 
-____ impressive this unique art display is!
+I am ____ your new sofa.
 
-- [x] How
-- [ ] appealing
-- [ ] appropriately
+- [x] obsessed with
+- [ ] obsessed of
+- [ ] obsessed by
 
-> **解析**：**How** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be obsessed 固定搭配介词 with；of 和 by 都不是该短语的正确介词。
 
 ### 6
 
-We ____ have a rigid plan, so let's play it by ear.
+Your new home looks more ____ than mine.
 
-- [x] don't
-- [ ] appealing
-- [ ] appropriately
+- [x] appealing
+- [ ] appealed
+- [ ] appealingly
 
-> **解析**：**don't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：more 后需要形容词原级 appealing；appealed 是动词过去式，appealingly 是副词。
 
 ### 7
 
-I can't wait to catch up with ____ tonight.
+Please reply ____ Friday.
 
-- [x] everyone
-- [ ] appealing
-- [ ] appropriately
+- [x] by
+- [ ] at
+- [ ] in
 
-> **解析**：**everyone** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：表示"不迟于某天"用介词 by；at 用于时刻，in 用于较长的时间段。
 
 ### 8
 
-If you ____ show up early, you will miss out on the fun.
+____ be too hard on yourself.
 
-- [x] don't
-- [ ] appealing
-- [ ] appropriately
+- [x] Don't
+- [ ] Doesn't
+- [ ] Didn't
 
-> **解析**：**don't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句的否定用 Don't + 动词原形开头；Doesn't 和 Didn't 都不能引导祈使句。
 
 ### 9
 
-____ this modern garden design appealing to you?
+He will ____ up at eight o'clock.
 
-- [x] Isn't
-- [ ] appealing
-- [ ] appropriately
+- [x] show
+- [ ] showed
+- [ ] showing
 
-> **解析**：**Isn't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：will 后接动词原形 show；showed 是过去式，showing 是动名词。
 
 ### 10
 
-The performance was surprisingly ____.
+What are you ____ to this weekend?
 
-- [x] entertaining
-- [ ] appealing
-- [ ] appropriately
+- [x] up
+- [ ] on
+- [ ] in
 
-> **解析**：**entertaining** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：be up to 是固定口语搭配"在做什么"；on 和 in 无法构成此含义。
 
 ### 11
 
-____ be too hard on yourself if things aren't perfect.
+They celebrated the party ____ style.
 
-- [x] Don't
-- [ ] appealing
-- [ ] appropriately
+- [x] in
+- [ ] on
+- [ ] at
 
-> **解析**：**Don't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：in style 是固定搭配"有派头地"；on 和 at 不能与 style 构成此表达。
 
 ### 12
 
-It is up to you to ____ which color suits the room best.
+____ impressive your house is!
 
-- [x] decide
-- [ ] appealing
-- [ ] appropriately
+- [x] How
+- [ ] What
+- [ ] Which
 
-> **解析**：**decide** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：感叹形容词 impressive 用 How；What 感叹名词，Which 表示选择。
 
 ### 13
 
-That ____ like a lovely idea for the weekend.
+I can't get ____ of your homemade cake.
 
-- [x] sounds
-- [ ] appealing
-- [ ] appropriately
+- [x] enough
+- [ ] many
+- [ ] few
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **sounds**。
+> **解析**：can't get enough of 是固定短语；many 和 few 修饰可数名词复数，无法进入该结构。
 
 ### 14
 
-You ____ believe how beautiful the view is from the balcony.
+She dressed ____ for the housewarming.
 
-- [x] won't
-- [ ] appealing
-- [ ] appropriately
+- [x] appropriately
+- [ ] appropriate
+- [ ] appropriates
 
-> **解析**：**won't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰动词 dressed 需要副词 appropriately；appropriate 是形容词，appropriates 是动词形式。
 
 ### 15
 
-She brought a ____ homemade cake to the party.
+____ your new sofa appealing?
 
-- [x] lovely
-- [ ] appealing
-- [ ] appropriately
+- [x] Isn't
+- [ ] Aren't
+- [ ] Don't
 
-> **解析**：**lovely** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 sofa 是单数，系动词用 is 的否定 Isn't；Aren't 搭配复数，Don't 后须接实义动词。
 
 ### 16
 
-He is obsessed with modern ____ design.
+Let's just ____ it by ear.
 
-- [x] furniture
-- [ ] appealing
-- [ ] appropriately
+- [x] play
+- [ ] played
+- [ ] playing
 
-> **解析**：**furniture** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Let's 后接动词原形 play；played 是过去式，playing 是动名词。
 
 ### 17
 
-That movie ____ super entertaining!
+The party was very ____.
 
-- [x] sounds
-- [ ] appealing
-- [ ] appropriately
+- [x] entertaining
+- [ ] entertain
+- [ ] entertained
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **sounds**。
+> **解析**：描述派对本身"有趣"用 entertaining；entertain 是动词原形，entertained 描述人的感受。
 
 ### 18
 
-We should catch up over coffee this ____.
+My brother is obsessed with ____ reality.
 
-- [x] weekend
-- [ ] appealing
-- [ ] appropriately
+- [x] virtual
+- [ ] virtually
+- [ ] virtue
 
-> **解析**：**weekend** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰名词 reality 需要形容词 virtual；virtually 是副词，virtue 是名词"美德"。
 
 ### 19
 
-It ____ easy to find such a unique house.
+This design is very ____.
 
-- [x] isn't
-- [ ] appealing
-- [ ] appropriately
+- [x] unique
+- [ ] uniquely
+- [ ] uniqueness
 
-> **解析**：**isn't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：very 后接形容词 unique 作表语；uniquely 是副词，uniqueness 是名词。
 
 ### 20
 
-____ lovely your new apartment looks!
+We ate ____ bread at the party.
 
-- [x] How
-- [ ] appealing
-- [ ] appropriately
+- [x] homemade
+- [ ] housewarming
+- [ ] impressive
 
-> **解析**：**How** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 bread 表示"自制的"用 homemade；housewarming 指派对，impressive 不与 bread 搭配出此含义。
 
 </quiz-cloze>

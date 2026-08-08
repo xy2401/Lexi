@@ -10,40 +10,35 @@ arrival, continent, extra, fare, farther, farthest, for the first time, homesick
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"比较旅行经历"展开。核心是独自旅行表达：I traveled solo for the first time.（我第一次独自旅行。）、On the other hand, I felt homesick.（但另一方面，我想家了。）、I had to go through passport control and reserve a shuttle.（我得过海关然后预约接驳车。）、Which continent did you like best?（你最喜欢哪个大洲？）。
+本单元的主题是"比较旅行经历"，重点是独自旅行（solo trip）。词表可以分成四组：机场与交通（arrival, passport control, shuttle, public transportation, fare, land）、住宿与杂务（reserve, unpack, laundry, patio, extra）、独旅感受（solo, traveler, homesick, for the first time, like best）以及比较与方位（farther, farthest, much, on the other hand, nearby, over there, continent, let）。拼起来就是一次完整的独旅：This is my first solo trip. After passport control, I took the shuttle to the hotel. On the other hand, traveling alone lets me go farther.
 
-词表里有旅行词汇（solo, traveler, fare, shuttle, reserve）和机场词汇（passport control, arrival, land）。你可以练习：The hotel is nearby—just over there. / I need to do laundry. / The fare was much more than I expected. / Let me unpack first.
+语法主线有两个。一是 farther / farthest，far 的比较级与最高级，表示更远的 / 最远的：We can travel farther this year. This is the farthest I have ever been. 注意 farther 多指实际距离（further 还可指抽象程度）。二是比较时常用 much 加强程度：much farther（远得多）、much better。另外 on the other hand 用于对比两种情况，通常与 on the one hand 呼应或单独使用。
 
-on the other hand 表示"另一方面"（用于对比）。farther / farthest 是 far 的比较级/最高级。
+学完这些词，你能用英语描述独自旅行的经历——过海关、坐接驳车、安排住宿，并比较不同的旅行方式。
 
 ## Tips
 
-- **solo / traveler** — 独自 / 旅行者。搭配：travel solo, a solo trip, a solo traveler。例句：I traveled solo for the first time. / She's a solo traveler. 注意 solo 可作形容词或副词。
+- **solo / traveler** — solo 独自的：a solo trip（独自旅行），solo 源自拉丁语 solus（单独）；traveler 旅行者，travel + -er。注意美式拼写 traveler（单 l），英式 traveller.
 
-- **on the other hand** — 另一方面。搭配：On the one hand... On the other hand...。例句：On the one hand, I loved the freedom. On the other hand, I felt lonely. 注意用于对比两个不同方面。
+- **for the first time / like best** — for the first time 第一次：I traveled solo for the first time. like best 最喜欢：Which city do you like best? best 是 well 的最高级。
 
-- **passport control / arrival** — 海关 / 到达。搭配：go through passport control, at passport control, arrival time。例句：We waited an hour at passport control. / What's the arrival time? 注意 passport control = immigration。
+- **arrival / land** — arrival 到达，名词；arrive 是动词。land 作动词指飞机着陆：The plane landed at noon. 词源：land 本义"陆地"，飞机落"地"即着陆。
 
-- **reserve / shuttle / fare** — 预订 / 接驳车 / 费用。搭配：reserve a room, take the shuttle, the bus fare。例句：I reserved a shuttle to the hotel. / The fare was expensive. 注意 reserve = book（预订）。
+- **passport control / shuttle / public transportation / fare** — passport control 护照检查处；shuttle 接驳车、摆渡车；public transportation 公共交通；fare 车费、票价。注意 fare（车费）与 fair（公平的）同音不同义。
 
-- **farther / farthest** — 更远 / 最远。搭配：farther than, the farthest, go farther。例句：This city is farther than I thought. / It's the farthest I've ever traveled. 注意 farther 指物理距离，further 还可指"进一步"。
+- **reserve / unpack / laundry / patio** — reserve 预订：reserve a room（同 book）；unpack 打开行李，un- + pack；laundry 洗衣、待洗衣物：do the laundry；patio 露台、庭院。
 
-- **homesick / for the first time** — 想家 / 第一次。搭配：feel homesick, get homesick, for the first time。例句：I felt homesick on my solo trip. / I flew solo for the first time. 注意 homesick = 想家的。
+- **homesick** — 想家的：homesick = home + sick。名词 homesickness. 例：I felt homesick on the third night.
 
-- **public transportation / nearby** — 公共交通 / 附近。搭配：take public transportation, nearby, a nearby station。例句：I used public transportation. / The station is nearby. 注意 public transportation 是美式（英式 public transport）。
+- **farther / farthest / much** — far 的比较级 farther（更远）、最高级 farthest（最远），多指实际距离。much 加强比较级：much farther, much more. ✗ very farther → ✓ much farther.
 
-- **unpack / laundry / let** — 拆行李 / 洗衣 / 让。搭配：unpack my bag, do laundry, Let me unpack。例句：Let me unpack first. / I need to do laundry. / Let me help you. 注意 do laundry = 洗衣服。
+- **on the other hand** — 另一方面，用于对比：On the one hand it's cheaper; on the other hand it takes longer.
 
-- **continent / land** — 大洲 / 着陆（陆地）。搭配：a new continent, the plane landed, on land。例句：I've visited three continents. / The plane landed at noon. 注意 land 既是名词（陆地）也是动词（着陆）。
+- **nearby / over there / continent** — nearby 在附近；over there 在那边，指较远的位置；continent 洲、大陆：Asia is the largest continent.
 
-- **like best / much** — 最喜欢 / 很多。搭配：Which do you like best? / much more, too much。例句：Which continent did you like best? / It was much better than I expected. 注意 like best = 最喜欢。
-
-- **over there / patio** — 在那边 / 露台。搭配：over there, a patio, on the patio。例句：The hotel is over there. / Let's sit on the patio. 注意 over there 表示"在那边"（较远的地方）。
-
-- **extra / let / traveler** — 额外的 / 让 / 旅客。搭配：extra money, extra time, Let me...。例句：I paid extra for the room. / Let me check my bag. / Every traveler needs a plan.
+- **let / extra** — let 让、允许：Let me help you. let 后接动词原形（✗ let me to go → ✓ let me go）。extra 额外的：extra money（应急备用金）。
 
 ## 练习
 
@@ -61,149 +56,149 @@ on the other hand 表示"另一方面"（用于对比）。farther / farthest �
 
 <quiz-sentence-builder>
 
-1. **中文**：作为一名单人旅行者，他第一次独自踏上了前往另一个大洲的旅程。  
-   **英文**：As a solo traveler, he landed on another continent for the first time.
-   > **解析**：solo traveler 表示“单人旅行者/独行客”；for the first time 表示“第一次”；continent 表示“大洲/大陆”。
+1. **中文**：这是我第一次独自旅行。
+   **英文**：This is my first solo trip.
+   > **解析**：solo 作定语修饰 trip；first 是序数词。
 
-2. **中文**：到达机场后，我们需要通过护照检查窗口。  
-   **英文**：Upon arrival at the airport, we went through passport control.
-   > **解析**：arrival 表示“到达/抵达”；passport control 表示“护照检查/边检”。
+2. **中文**：飞机中午着陆了。
+   **英文**：The plane landed at noon.
+   > **解析**：landed 是 land 的过去式，指着陆；at noon 是时间状语。
 
-3. **中文**：你可以乘坐免费接驳车前往附近的酒店。  
-   **英文**：You can take a free shuttle to the nearby hotel.
-   > **解析**：shuttle 表示“接驳车/班车”；nearby 表示“附近的”。
+3. **中文**：过完护照检查后，我找到了接驳车。
+   **英文**：After passport control, I found the shuttle.
+   > **解析**：After + 名词作时间状语；found 是 find 的过去式。
 
-4. **中文**：另一方面，在异国他乡旅行时他偶尔会感到想家。  
-   **英文**：On the other hand, he felt homesick while traveling abroad.
-   > **解析**：on the other hand 表示“另一方面”；homesick 表示“想家的/思乡的”。
+4. **中文**：车费比出租车便宜得多。
+   **英文**：The fare is much cheaper than a taxi.
+   > **解析**：much 加强比较级 cheaper；than 引出比较对象。
 
-5. **中文**：请在阳台上放松一下，我来帮你拆行李。  
-   **英文**：Please relax on the patio over there while I unpack the bags.
-   > **解析**：patio 表示“露台/天井”；over there 表示“在那边”；unpack 表示“打开包裹/拆行李”。
+5. **中文**：公共交通非常方便。
+   **英文**：The public transportation is very convenient.
+   > **解析**：public transportation 作主语用 is；convenient 作表语。
 
-6. **中文**：你需要提前预订公共交通的票以节省费用。  
-   **英文**：You should reserve public transportation tickets in advance.
-   > **解析**：reserve 表示“预订”；public transportation 表示“公共交通”。
+6. **中文**：我提前预订了酒店。
+   **英文**：I reserved the hotel in advance.
+   > **解析**：reserved 是 reserve 的过去式；in advance 表"提前"。
 
-7. **中文**：飞机即将降落，请支付额外的行李票价。  
-   **英文**：The plane will land soon, so pay the extra luggage fare.
-   > **解析**：land 表示“降落/着陆”；fare 表示“票价/费用”；extra 表示“额外的”。
+7. **中文**：我先拆行李。
+   **英文**：Let me unpack first.
+   > **解析**：Let me 后接动词原形 unpack；first 作副词。
 
-8. **中文**：酒店里有自动洗衣房，供旅行者清洗衣物。  
-   **英文**：The hotel has a laundry room for every traveler.
-   > **解析**：laundry 表示“洗衣/洗涤”；traveler 表示“旅行者”。
+8. **中文**：第三天晚上我想家了。
+   **英文**：I felt homesick on the third night.
+   > **解析**：felt 是 feel 的过去式，系动词；homesick 作表语。
 
-9. **中文**：在所有国家中，他最喜欢探索大自然和文化历史。  
-   **英文**：Among all countries, he likes best to explore nature and history.
-   > **解析**：like best 表示“最喜欢”。
+9. **中文**：今年我们可以走得更远。
+   **英文**：We can travel farther this year.
+   > **解析**：farther 是 far 的比较级，作副词修饰 travel。
 
-10. **中文**：那个古老城镇距离这里更远，是旅程的最远点。  
-   **英文**：That ancient town is farther, making it the farthest point.
-   > **解析**：farther 表示“更远的”；farthest 表示“最远的”。
+10. **中文**：这是我去过的最远的地方。
+    **英文**：This is the farthest place I have ever been.
+    > **解析**：farthest 是最高级，前加 the；I have ever been 是省略 that 的定语从句。
 
-11. **中文**：航班到达时间延迟了一个小时。  
-   **英文**：The plane arrival was delayed by an hour.
-   > **解析**：arrival 表示“到达/抵达”。
+11. **中文**：另一方面，独自旅行更自由。
+    **英文**：On the other hand, solo travel is freer.
+    > **解析**：On the other hand 作对比连接语；freer 是 free 的比较级。
 
-12. **中文**：你可以向左看，那边的街角有一家便利店。  
-   **英文**：Look over there, there is a store on the street corner.
-   > **解析**：over there 表示“在那边”。
+12. **中文**：你最喜欢哪座城市？
+    **英文**：Which city do you like best?
+    > **解析**：best 是最高级作副词修饰 like。
 
-13. **中文**：请打开你的行李箱并把衣物整理好。  
-   **英文**：Please unpack your suitcase and put away your clothes.
-   > **解析**：unpack 表示“拆包/收拾行李”。
+13. **中文**：附近有一家洗衣店。
+    **英文**：There is a laundry nearby.
+    > **解析**：There is 搭配单数 a laundry；nearby 作副词。
 
-14. **中文**：城市里的公共交通系统非常便利。  
-   **英文**：The public transportation system in this city is convenient.
-   > **解析**：public transportation 表示“公共交通”。
+14. **中文**：我带了些额外的钱。
+    **英文**：I brought some extra money.
+    > **解析**：brought 是 bring 的过去式；extra 作定语修饰 money。
 
-15. **中文**：我们预订了一间带有海景阳台的房间。  
-   **英文**：We decided to reserve a hotel room with an ocean view.
-   > **解析**：reserve 表示“预订”。
+15. **中文**：酒店的露台风景很好。
+    **英文**：The patio of the hotel has a great view.
+    > **解析**：of the hotel 是后置定语；has 搭配单数主语 The patio.
 
-16. **中文**：在大学的第一个学期，他感到非常想家。  
-   **英文**：He felt very homesick during his first semester at college.
-   > **解析**：homesick 表示“思乡的/想家的”。
+16. **中文**：亚洲是最大的洲。
+    **英文**：Asia is the largest continent.
+    > **解析**：largest 是最高级前加 the；continent 作表语。
 
-17. **中文**：这趟免费接驳车每十五分钟发车一次。  
-   **英文**：This free shuttle leaves every fifteen minutes.
-   > **解析**：shuttle 表示“班车/接驳车”。
+17. **中文**：车站在那边。
+    **英文**：The station is over there.
+    > **解析**：over there 作地点状语，指较远的位置。
 
-18. **中文**：亚洲是世界上人口最多的大洲。  
-   **英文**：Asia is the largest continent in terms of population.
-   > **解析**：continent 表示“大洲”。
+18. **中文**：独旅让我更有自信。
+    **英文**：Solo travel makes me more confident.
+    > **解析**：makes 是三单形式；make sb + 形容词作宾语补足语。
 
-19. **中文**：请出示您的护照以完成护照检查。  
-   **英文**：Please show your passport at the passport control.
-   > **解析**：passport control 表示“护照检查/边检”。
+19. **中文**：让我帮你拿行李。
+    **英文**：Let me help you with your luggage.
+    > **解析**：Let me 后接动词原形 help；with your luggage 是帮助的范围。
 
-20. **中文**：你可以去酒店的洗衣房洗涤你的衣服。  
-   **英文**：You can use the hotel laundry to wash your clothes.
-   > **解析**：laundry 表示“洗涤/洗衣房”。
+20. **中文**：这次到达比上次顺利。
+    **英文**：This arrival was smoother than the last one.
+    > **解析**：arrival 作名词主语；smoother than 是比较结构。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. As a solo traveler, he landed on another continent for the first time.
-   > **中文**：作为一名单人旅行者，他第一次独自踏上了前往另一个大洲的旅程。
+1. This is my first solo trip.
+   > **中文**：这是我第一次独自旅行。
 
-2. Upon arrival at the airport, we went through passport control.
-   > **中文**：到达机场后，我们需要通过护照检查窗口。
+2. The plane landed at noon.
+   > **中文**：飞机中午着陆了。
 
-3. You can take a free shuttle to the nearby hotel.
-   > **中文**：你可以乘坐免费接驳车前往附近的酒店。
+3. After passport control, I found the shuttle.
+   > **中文**：过完护照检查后，我找到了接驳车。
 
-4. On the other hand, he felt homesick while traveling abroad.
-   > **中文**：另一方面，在异国他乡旅行时他偶尔会感到想家。
+4. The fare is much cheaper than a taxi.
+   > **中文**：车费比出租车便宜得多。
 
-5. Please relax on the patio over there while I unpack the bags.
-   > **中文**：请在阳台上放松一下，我来帮你拆行李。
+5. The public transportation is very convenient.
+   > **中文**：公共交通非常方便。
 
-6. You should reserve public transportation tickets in advance.
-   > **中文**：你需要提前预订公共交通的票以节省费用。
+6. I reserved the hotel in advance.
+   > **中文**：我提前预订了酒店。
 
-7. The plane will land soon, so pay the extra luggage fare.
-   > **中文**：飞机即将降落，请支付额外的行李票价。
+7. Let me unpack first.
+   > **中文**：我先拆行李。
 
-8. The hotel has a laundry room for every traveler.
-   > **中文**：酒店里有自动洗衣房，供旅行者清洗衣物。
+8. I felt homesick on the third night.
+   > **中文**：第三天晚上我想家了。
 
-9. Among all countries, he likes best to explore nature and history.
-   > **中文**：在所有国家中，他最喜欢探索大自然和文化历史。
+9. We can travel farther this year.
+   > **中文**：今年我们可以走得更远。
 
-10. That ancient town is farther, making it the farthest point.
-   > **中文**：那个古老城镇距离这里更远，是旅程的最远点。
+10. This is the farthest place I have ever been.
+    > **中文**：这是我去过的最远的地方。
 
-11. The plane arrival was delayed by an hour.
-   > **中文**：航班到达时间延迟了一个小时。
+11. On the other hand, solo travel is freer.
+    > **中文**：另一方面，独自旅行更自由。
 
-12. Look over there, there is a store on the street corner.
-   > **中文**：你可以向左看，那边的街角有一家便利店。
+12. Which city do you like best?
+    > **中文**：你最喜欢哪座城市？
 
-13. Please unpack your suitcase and put away your clothes.
-   > **中文**：请打开你的行李箱并把衣物整理好。
+13. There is a laundry nearby.
+    > **中文**：附近有一家洗衣店。
 
-14. The public transportation system in this city is convenient.
-   > **中文**：城市里的公共交通系统非常便利。
+14. I brought some extra money.
+    > **中文**：我带了些额外的钱。
 
-15. We decided to reserve a hotel room with an ocean view.
-   > **中文**：我们预订了一间带有海景阳台的房间。
+15. The patio of the hotel has a great view.
+    > **中文**：酒店的露台风景很好。
 
-16. He felt very homesick during his first semester at college.
-   > **中文**：在大学的第一个学期，他感到非常想家。
+16. Asia is the largest continent.
+    > **中文**：亚洲是最大的洲。
 
-17. This free shuttle leaves every fifteen minutes.
-   > **中文**：这趟免费接驳车每十五分钟发车一次。
+17. The station is over there.
+    > **中文**：车站在那边。
 
-18. Asia is the largest continent in terms of population.
-   > **中文**：亚洲是世界上人口最多的大洲。
+18. Solo travel makes me more confident.
+    > **中文**：独旅让我更有自信。
 
-19. Please show your passport at the passport control.
-   > **中文**：请出示您的护照以完成护照检查。
+19. Let me help you with your luggage.
+    > **中文**：让我帮你拿行李。
 
-20. You can use the hotel laundry to wash your clothes.
-   > **中文**：你可以去酒店的洗衣房洗涤你的衣服。
+20. This arrival was smoother than the last one.
+    > **中文**：这次到达比上次顺利。
 
 </quiz-listening>
 
@@ -211,26 +206,36 @@ on the other hand 表示"另一方面"（用于对比）。farther / farthest �
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| arrival | 到达 / 抵达 |
-| continent | 大洲 / 大陆 |
-| fare | 票价 / 费用 |
+| arrival | 到达 |
+| continent | 洲 / 大陆 |
+| extra | 额外的 |
+| fare | 车费 |
 | farther | 更远的 |
 | farthest | 最远的 |
 | for the first time | 第一次 |
-| homesick | 想家的 / 思乡的 |
-| land | 降落 / 着陆 / 土地 |
-| laundry | 洗衣 / 洗衣房 |
+| homesick | 想家的 |
+| land | 着陆 |
+| laundry | 洗衣 / 洗衣店 |
+| let | 让 / 允许 |
 | like best | 最喜欢 |
+| much | ……得多 |
+| nearby | 在附近 |
 | on the other hand | 另一方面 |
 | over there | 在那边 |
-| passport control | 护照检查 / 边检 |
-| patio | 露台 / 天井 |
+| passport control | 护照检查处 |
+| patio | 露台 |
 | public transportation | 公共交通 |
 | reserve | 预订 |
-| shuttle | 接驳车 / 班车 |
-| solo | 单人的 / 独唱 |
-| traveler | 旅行者 / 游客 |
-| unpack | 拆行李 / 打开包裹 |
+| shuttle | 接驳车 |
+| solo | 独自的 |
+| traveler | 旅行者 |
+| unpack | 拆行李 |
+| the | 这 / 那（定冠词） |
+| plane | 飞机 |
+| hotel | 酒店 |
+| taxi | 出租车 |
+| station | 车站 |
+| luggage | 行李 |
 
 </quiz-matching>
 
@@ -238,202 +243,202 @@ on the other hand 表示"另一方面"（用于对比）。farther / farthest �
 
 ### 1
 
-As a ____ traveler, he landed on another continent for the first time.
+This is my first ____ trip.
 
 - [x] solo
-- [ ] arrival
+- [ ] laundry
 - [ ] continent
 
-> **解析**：**solo** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：独自旅行用 solo trip；laundry 和 continent 不能修饰 trip。
 
 ### 2
 
-Upon ____ at the airport, we went through passport control.
+The plane ____ at noon.
 
-- [x] arrival
-- [ ] continent
-- [ ] extra
+- [x] landed
+- [ ] reserved
+- [ ] unpacked
 
-> **解析**：**arrival** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：飞机着陆用 landed；reserved 是预订，unpacked 是拆行李，主语都不可能是飞机。
 
 ### 3
 
-You can take a free ____ to the nearby hotel.
+After ____ control, I found the shuttle.
 
-- [x] shuttle
+- [x] passport
+- [ ] patio
 - [ ] arrival
-- [ ] continent
 
-> **解析**：**shuttle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：passport control 是"护照检查处"的固定搭配；patio 和 arrival 不与 control 搭配。
 
 ### 4
 
-On the other hand, he felt ____ while traveling abroad.
+The fare is much ____ than a taxi.
 
-- [x] homesick
-- [ ] arrival
-- [ ] continent
+- [x] cheaper
+- [ ] farthest
+- [ ] homesick
 
-> **解析**：**homesick** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：much + 比较级 cheaper；farthest 是最高级不能接 than，homesick 是形容词无比较。
 
 ### 5
 
-Please relax on the ____ over there while I unpack the bags.
+The ____ transportation is very convenient.
 
-- [x] patio
-- [ ] arrival
-- [ ] continent
+- [x] public
+- [ ] solo
+- [ ] extra
 
-> **解析**：**patio** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：public transportation 是"公共交通"的固定搭配；solo 和 extra 不构成此短语。
 
 ### 6
 
-You should ____ public transportation tickets in advance.
+I ____ the hotel in advance.
 
-- [x] reserve
-- [ ] arrival
-- [ ] continent
+- [x] reserved
+- [ ] landed
+- [ ] felt
 
-> **解析**：**reserve** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：预订酒店用 reserved；landed 和 felt 不能与 the hotel 构成预订义。
 
 ### 7
 
-The plane will ____ soon, so pay the extra luggage fare.
-
-- [x] land
-- [ ] arrival
-- [ ] continent
-
-> **解析**：**land** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 8
-
-The hotel has a ____ room for every traveler.
-
-- [x] laundry
-- [ ] arrival
-- [ ] continent
-
-> **解析**：**laundry** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 9
-
-Among all ____, he likes best to explore nature and history.
-
-- [x] countries
-- [ ] arrival
-- [ ] continent
-
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **countries**。
-
-### 10
-
-That ancient town is ____, making it the farthest point.
-
-- [x] farther
-- [ ] arrival
-- [ ] continent
-
-> **解析**：**farther** 为形容词/副词比较级，用于两者之间的对比。
-
-### 11
-
-The plane ____ was delayed by an hour.
-
-- [x] arrival
-- [ ] continent
-- [ ] extra
-
-> **解析**：**arrival** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 12
-
-Look over there, there is a store on the ____ corner.
-
-- [x] street
-- [ ] arrival
-- [ ] continent
-
-> **解析**：**street** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 13
-
-Please ____ your suitcase and put away your clothes.
+Let me ____ first.
 
 - [x] unpack
 - [ ] arrival
-- [ ] continent
+- [ ] fare
 
-> **解析**：**unpack** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Let me 后接动词原形 unpack；arrival 和 fare 是名词，不能作动词。
+
+### 8
+
+I felt ____ on the third night.
+
+- [x] homesick
+- [ ] continent
+- [ ] shuttle
+
+> **解析**：felt 后接形容词 homesick；continent 和 shuttle 是名词，不能作表语。
+
+### 9
+
+We can travel ____ this year.
+
+- [x] farther
+- [ ] farthest
+- [ ] much
+
+> **解析**：走得更远用比较级 farther；farthest 需搭配 the 且无比较对象，much 不能单独作副词修饰 travel。
+
+### 10
+
+This is the ____ place I have ever been.
+
+- [x] farthest
+- [ ] farther
+- [ ] nearby
+
+> **解析**：最高级 farthest 搭配 the；farther 是比较级，nearby 不能作最高级。
+
+### 11
+
+On the other ____, solo travel is freer.
+
+- [x] hand
+- [ ] side
+- [ ] way
+
+> **解析**：On the other hand 是固定搭配；side 和 way 不构成此短语。
+
+### 12
+
+Which city do you like ____?
+
+- [x] best
+- [ ] much
+- [ ] farther
+
+> **解析**：最喜欢用 like best；much 不作最高级，farther 表距离。
+
+### 13
+
+There is a ____ nearby.
+
+- [x] laundry
+- [ ] passport
+- [ ] traveler
+
+> **解析**：附近有的是洗衣店 laundry；passport 和 traveler 与 There is a… 的地点语境不符。
 
 ### 14
 
-The public ____ system in this city is convenient.
+I brought some ____ money.
 
-- [x] transportation
-- [ ] arrival
-- [ ] continent
+- [x] extra
+- [ ] farthest
+- [ ] homesick
 
-> **解析**：**transportation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：额外的钱用 extra money；farthest 和 homesick 不能修饰 money。
 
 ### 15
 
-We decided to ____ a hotel room with an ocean view.
+The ____ of the hotel has a great view.
 
-- [x] reserve
-- [ ] arrival
-- [ ] continent
+- [x] patio
+- [ ] fare
+- [ ] shuttle
 
-> **解析**：**reserve** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：酒店里有风景的是露台 patio；fare 和 shuttle 与酒店设施无关。
 
 ### 16
 
-He felt very ____ during his first semester at college.
-
-- [x] homesick
-- [ ] arrival
-- [ ] continent
-
-> **解析**：**homesick** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 17
-
-This free ____ leaves every fifteen minutes.
-
-- [x] shuttle
-- [ ] arrival
-- [ ] continent
-
-> **解析**：**shuttle** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 18
-
-Asia is the largest ____ in terms of population.
+Asia is the largest ____.
 
 - [x] continent
 - [ ] arrival
-- [ ] extra
+- [ ] laundry
 
-> **解析**：**continent** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：亚洲是一个洲 continent；arrival 和 laundry 语义不符。
+
+### 17
+
+The station is over ____.
+
+- [x] there
+- [ ] best
+- [ ] solo
+
+> **解析**：over there 是"在那边"的固定搭配；best 和 solo 不能构成地点短语。
+
+### 18
+
+Solo travel ____ me more confident.
+
+- [x] makes
+- [ ] lets
+- [ ] lands
+
+> **解析**：make sb + 形容词表示"使某人……"；let 后接动词原形不能接形容词，land 语义不符。
 
 ### 19
 
-Please show your ____ at the passport control.
+Let me help you ____ your luggage.
 
-- [x] passport
-- [ ] arrival
-- [ ] continent
+- [x] with
+- [ ] than
+- [ ] farthest
 
-> **解析**：**passport** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：help sb with sth 是固定搭配；than 用于比较，farthest 是形容词最高级。
 
 ### 20
 
-You can use the hotel ____ to wash your clothes.
+This arrival was smoother ____ the last one.
 
-- [x] laundry
-- [ ] arrival
-- [ ] continent
+- [x] than
+- [ ] with
+- [ ] nearby
 
-> **解析**：**laundry** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：比较级 smoother 后用 than 引出比较对象；with 和 nearby 不用于比较结构。
 
 </quiz-cloze>

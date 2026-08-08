@@ -10,28 +10,33 @@ afford to, aisle, brand, code, coupon, fold, good deal, knit, limited, logo, med
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"决定买什么"展开，场景是购物和精打细算。词表里有购物相关词汇（aisle, brand, coupon, sale, shipping, good deal, afford to, reasonable, penny, limited）和商品描述（logo, vintage, medium, knit, sew, fold, code）。
+本单元的主题是"决定买什么"，场景是购物与比价。词表分成三组：购物相关名词（aisle, brand, coupon, logo, medium, penny, sale, shipping, code, security guard）、价格与价值评价（afford to, good deal, reasonable, limited, vintage）、以及决策类语法词（what, what to, whatever, which, that）和手工动作词（fold, knit, sew）。
 
-你可以练习购物决策：I can't afford to buy that brand—it's not a good deal. / Use this coupon code for free shipping. / Which one should I get—this vintage knit or that medium one? / Whatever you decide, it's reasonable. / The sale is limited! / Check the aisle for a better price. / It's not worth a penny more.
+语法主线是"决定买什么"的表达：疑问词 + to do（what to buy）、选择疑问（Which one...?）、让步从句（whatever you choose）。另一条线索是购物实用词：coupon（优惠券）、sale（打折）、shipping（运费）——网购时代的必备词汇。注意 afford to 后必须接不定式：I can't afford to buy it.
 
-what to / which / whatever / that 这组疑问词和关系词帮你表达选择和犹豫。security guard 是商店里的保安。
+学完这些词，你能比较商品、用优惠券、问运费、判断价格是否合理，还能表达"随便你选什么"——做一个精明的买家。
 
 ## Tips
 
-- **afford to / reasonable / penny / good deal** — afford to = 负担得起（I can't afford to buy it.），常与 can/can't 搭配。reasonable = 合理的（a reasonable price）。penny = 一分钱（not worth a penny = 一文不值）。good deal = 划算的交易（That's a good deal!）。
+- **what / what to / whatever / which** — 本单元的决策四兄弟。what 引导名词性从句或疑问：What do you want to buy? what to + 动词原形是不定式短语，作宾语：I don't know what to buy. whatever 是"无论什么"，引导让步从句：Whatever you choose is fine. which 用于有限选择中：Which brand do you prefer?
 
-- **coupon / code / sale / shipping** — coupon = 优惠券（use a coupon, clip coupons）。code = 代码（a coupon code, a discount code）。sale = 促销（on sale = 打折中, a flash sale）。shipping = 运费（free shipping, shipping costs）。
+- **that** — 多重身份：指示代词"那个"（That shirt is nice）、关系代词引导定语从句（the shirt that I bought）、连词引导宾语从句（I think that it's cheap）。购物场景中三种用法都会遇到。
 
-- **brand / logo / vintage / limited** — brand = 品牌（a famous brand, brand name）。logo = 标志（the company logo）。vintage = 复古的、经典的（vintage clothing, a vintage car）。limited = 限量的（limited edition, limited time）。
+- **afford to** — "负担得起"，通常与 can/can't 连用：I can afford to buy it. ✗ I afford it → ✓ I can afford it，缺少 can 就不成立。
 
-- **aisle / medium / security guard** — aisle = 通道、货架走道（in aisle 5, the cereal aisle）。medium = 中号的（size: small, medium, large）。security guard = 保安（the store security guard）。
+- **good deal / reasonable / penny** — good deal 是"划算的交易"：It's a good deal. reasonable 是"合理的"，形容价格公道：The price is reasonable. penny 是美分（一百分之一美元），习惯表达 every penny（每一分钱）：It's worth every penny.
 
-- **knit / sew / fold** — knit = 编织（knit a sweater, a knit hat）。sew = 缝纫（sew a button, sew a dress），注意发音 /soʊ/。fold = 折叠（fold the shirt, a fold in the fabric）。三者都和衣物制作/整理有关。
+- **sale / coupon / shipping** — sale 是"促销、打折"：The store is having a sale. on sale 表示"打折中"。coupon 是优惠券：I have a coupon. shipping 是运费：Shipping is free. 网购三件套。
 
-- **which / what to / whatever / that** — which = 哪一个（有限选择：Which one do you want?）。what to = 该做什么（I don't know what to buy.）。whatever = 无论什么（Whatever you choose is fine.）。that = 那个（that shirt, I think that...）。
+- **brand / logo / vintage / limited** — brand 是品牌；logo 是品牌标志；vintage 指"经典复古款"，vintage clothes 古着；limited 是"限量的"：a limited edition。四个词撑起商品描述半边天。
+
+- **aisle / medium** — aisle 是货架间的通道：The milk is in aisle three. 注意 aisle 中 s 不发音，读 /aɪl/。medium 是"中号/中等"：a medium size。尺码序列：small, medium, large。
+
+- **code / security guard** — code 是代码，购物中指优惠码 discount code 或条形码。security guard 是保安，商场常见角色：Ask the security guard for help.
+
+- **fold / knit / sew** — 三个手工动作：fold 是折叠（fold the clothes 把衣服叠好）；knit 是编织（knit a sweater 织毛衣）；sew 是缝纫（sew a button 缝纽扣）。三个都是不规则变化的常客：knit 三态同形，sew 的过去分词是 sewn。
 
 ## 练习
 
@@ -49,149 +54,149 @@ what to / which / whatever / that 这组疑问词和关系词帮你表达选择�
 
 <quiz-sentence-builder>
 
-1. **中文**：我负担不起那个奢侈品牌的衣服，太贵了。
-   **英文**：I cannot afford to buy clothes from that luxury brand.
-   > **解析**：afford to 表示负担得起；brand 表示品牌。
+1. **中文**：我不知道该买什么。
+   **英文**：I don't know what to buy.
+   > **解析**：what to buy 是疑问词 + 不定式结构，作 know 的宾语；don't know 是否定形式。
 
-2. **中文**：请在5号货架上寻找打折的日用品。
-   **英文**：Please look for items on sale in aisle 5.
-   > **解析**：aisle 表示货架走道；sale 表示促销。
+2. **中文**：这个价格很合理。
+   **英文**：The price is very reasonable.
+   > **解析**：主语 The price 是单数，用 is；reasonable 形容词作表语。
 
-3. **中文**：结账时输入这个优惠码可以获得免费配送。
-   **英文**：Enter this coupon code at checkout to get free shipping.
-   > **解析**：coupon code 表示优惠码；shipping 表示运费、发货。
+3. **中文**：我买不起那件外套。
+   **英文**：I can't afford to buy that coat.
+   > **解析**：afford to + 动词原形，afford 前习惯有 can't；that coat 中 that 作指示代词。
 
-4. **中文**：用这个折后价格买到这件夹克真是一笔划算的买卖。
-   **英文**：Buying this jacket at a discount was a really good deal.
-   > **解析**：good deal 表示划算的交易。
+4. **中文**：这是很划算的交易。
+   **英文**：This is a good deal.
+   > **解析**：a good deal 是可数名词短语，作表语；this 作主语。
 
-5. **中文**：这家店铺的服饰价格非常合理。
-   **英文**：The clothing prices in this shop are very reasonable.
-   > **解析**：reasonable 表示价格合理的。
+5. **中文**：你更喜欢哪个品牌？
+   **英文**：Which brand do you prefer?
+   > **解析**：Which 修饰 brand 构成特殊疑问句；prefer 是及物动词，do 辅助提问。
 
-6. **中文**：这款复古毛衣的袖口上印有品牌标志。
-   **英文**：The brand logo is printed on the sleeve of this vintage sweater.
-   > **解析**：vintage 表示复古的；logo 表示标志。
+6. **中文**：无论你选什么，我都没意见。
+   **英文**：Whatever you choose is fine with me.
+   > **解析**：Whatever you choose 是让步从句整体作主语，谓语用单数 is；fine 作表语。
 
-7. **中文**：这件限量版衬衫不值哪怕一分钱。
-   **英文**：This limited edition shirt is not worth a single penny.
-   > **解析**：limited 表示限量的；penny 表示一分钱。
+7. **中文**：商店正在打折。
+   **英文**：The store is having a sale.
+   > **解析**：is having 是现在进行时；a sale 表示"一场促销活动"。
 
-8. **中文**：保安站在服装店的出口附近。
-   **英文**：The security guard stood near the exit of the clothing store.
-   > **解析**：security guard 表示保安。
+8. **中文**：我有一张优惠券。
+   **英文**：I have a coupon.
+   > **解析**：have 表拥有；a coupon 是可数名词单数。
 
-9. **中文**：我祖母决定为我缝制一条漂亮的棉布裙子。
-   **英文**：My grandmother decided to sew a beautiful cotton dress for me.
-   > **解析**：sew 表示缝纫、缝制。
+9. **中文**：运费是免费的。
+   **英文**：Shipping is free.
+   > **解析**：Shipping 作动名词短语作主语，谓语用单数 is；free 作表语。
 
-10. **中文**：她冬天喜欢在家给家人编织围巾。
-   **英文**：She likes to knit scarves for her family during winter.
-   > **解析**：knit 表示编织。
+10. **中文**：牛奶在第三条通道。
+    **英文**：The milk is in aisle three.
+    > **解析**：in aisle three 是地点状语，通道号直接跟在 aisle 后，不加 the。
 
-11. **中文**：放回衣柜之前，请先把干净的衣服折叠好。
-   **英文**：Please fold the clean clothes neatly before putting them away.
-   > **解析**：fold 表示折叠。
+11. **中文**：这件是限量版的。
+    **英文**：This one is a limited edition.
+    > **解析**：limited 形容词修饰 edition；a limited edition 是"限量版"的固定表达。
 
-12. **中文**：这件中号的夹克对我来说刚刚好。
-   **英文**：This medium jacket fits me perfectly.
-   > **解析**：medium 表示中号的。
+12. **中文**：那件复古裙子很贵。
+    **英文**：That vintage dress is expensive.
+    > **解析**：That 和 vintage 依次修饰 dress；expensive 作表语。
 
-13. **中文**：在大打折期间我真的不知道该买些什么。
-   **英文**：I really don't know what to buy during the big sale.
-   > **解析**：what to 后面接动词原形，表示该做什么/买什么。
+13. **中文**：我喜欢这件衬衫上的标志。
+    **英文**：I like the logo on this shirt.
+    > **解析**：on this shirt 是介词短语作后置定语修饰 logo；like 后接名词宾语。
 
-14. **中文**：无论你选择哪件衬衫，我都觉得很好看。
-   **英文**：Whatever shirt you choose, I think it will look great.
-   > **解析**：whatever 表示无论什么。
+14. **中文**：我要中号的。
+    **英文**：I want the medium size.
+    > **解析**：medium 作形容词修饰 size；the medium size 特指中号。
 
-15. **中文**：你知道这两款型号中哪一个性价比更高吗？
-   **英文**：Do you know which of these two models is the better offer?
-   > **解析**：which 用于有限选项中的选择，表示哪一个。
+15. **中文**：请输入优惠码。
+    **英文**：Please enter the code.
+    > **解析**：Please 开头的祈使句用动词原形 enter；the code 特指优惠码。
 
-16. **中文**：商店提供整周的限时特卖折扣。
-   **英文**：The store offers a limited discount for the entire week.
-   > **解析**：limited 表示有限的、限量的。
+16. **中文**：保安在门口。
+    **英文**：The security guard is at the door.
+    > **解析**：The security guard 是单数主语，用 is；at the door 是地点状语。
 
-17. **中文**：我们在付款前仔细检查了优惠券的有效日期。
-   **英文**：We checked the expiration date on the coupon before paying.
-   > **解析**：coupon 表示优惠券。
+17. **中文**：她把衣服叠好了。
+    **英文**：She folded the clothes.
+    > **解析**：folded 是 fold 的过去式；the clothes 作宾语，clothes 总是复数形式。
 
-18. **中文**：那家知名品牌在市中心开了一家新旗舰店。
-   **英文**：That well-known brand opened a new store downtown.
-   > **解析**：brand 表示品牌。
+18. **中文**：我奶奶给我织了一件毛衣。
+    **英文**：My grandmother knit a sweater for me.
+    > **解析**：knit 过去式仍为 knit（三态同形）；for me 是受益对象状语。
 
-19. **中文**：这间二手小店里有很多精致的复古物品。
-   **英文**：There are many exquisite vintage items in this secondhand shop.
-   > **解析**：vintage 表示复古的、老式的。
+19. **中文**：她会缝扣子。
+    **英文**：She can sew a button.
+    > **解析**：can 后接动词原形 sew；a button 作宾语。
 
-20. **中文**：请把折叠好的外套放在那个大号纸箱里。
-   **英文**：Please put that folded coat into the cardboard box.
-   > **解析**：that 用作指示代词，表示那个。
+20. **中文**：这件衬衫值每一分钱。
+    **英文**：This shirt is worth every penny.
+    > **解析**：be worth + 名词表示"值得"；every penny 强调"每一分钱都值"。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I cannot afford to buy clothes from that luxury brand.
-   > **中文**：我负担不起那个奢侈品牌的衣服，太贵了。
+1. I don't know what to buy.
+   > **中文**：我不知道该买什么。
 
-2. Please look for items on sale in aisle 5.
-   > **中文**：请在5号货架上寻找打折的日用品。
+2. The price is very reasonable.
+   > **中文**：这个价格很合理。
 
-3. Enter this coupon code at checkout to get free shipping.
-   > **中文**：结账时输入这个优惠码可以获得免费配送。
+3. I can't afford to buy that coat.
+   > **中文**：我买不起那件外套。
 
-4. Buying this jacket at a discount was a really good deal.
-   > **中文**：用这个折后价格买到这件夹克真是一笔划算的买卖。
+4. This is a good deal.
+   > **中文**：这是很划算的交易。
 
-5. The clothing prices in this shop are very reasonable.
-   > **中文**：这家店铺的服饰价格非常合理。
+5. Which brand do you prefer?
+   > **中文**：你更喜欢哪个品牌？
 
-6. The brand logo is printed on the sleeve of this vintage sweater.
-   > **中文**：这款复古毛衣的袖口上印有品牌标志。
+6. Whatever you choose is fine with me.
+   > **中文**：无论你选什么，我都没意见。
 
-7. This limited edition shirt is not worth a single penny.
-   > **中文**：这件限量版衬衫不值哪怕一分钱。
+7. The store is having a sale.
+   > **中文**：商店正在打折。
 
-8. The security guard stood near the exit of the clothing store.
-   > **中文**：保安站在服装店的出口附近。
+8. I have a coupon.
+   > **中文**：我有一张优惠券。
 
-9. My grandmother decided to sew a beautiful cotton dress for me.
-   > **中文**：我祖母决定为我缝制一条漂亮的棉布裙子。
+9. Shipping is free.
+   > **中文**：运费是免费的。
 
-10. She likes to knit scarves for her family during winter.
-   > **中文**：她冬天喜欢在家给家人编织围巾。
+10. The milk is in aisle three.
+    > **中文**：牛奶在第三条通道。
 
-11. Please fold the clean clothes neatly before putting them away.
-   > **中文**：放回衣柜之前，请先把干净的衣服折叠好。
+11. This one is a limited edition.
+    > **中文**：这件是限量版的。
 
-12. This medium jacket fits me perfectly.
-   > **中文**：这件中号的夹克对我来说刚刚好。
+12. That vintage dress is expensive.
+    > **中文**：那件复古裙子很贵。
 
-13. I really don't know what to buy during the big sale.
-   > **中文**：在大打折期间我真的不知道该买些什么。
+13. I like the logo on this shirt.
+    > **中文**：我喜欢这件衬衫上的标志。
 
-14. Whatever shirt you choose, I think it will look great.
-   > **中文**：无论你选择哪件衬衫，我都觉得很好看。
+14. I want the medium size.
+    > **中文**：我要中号的。
 
-15. Do you know which of these two models is the better offer?
-   > **中文**：你知道这两款型号中哪一个性价比更高吗？
+15. Please enter the code.
+    > **中文**：请输入优惠码。
 
-16. The store offers a limited discount for the entire week.
-   > **中文**：商店提供整周的限时特卖折扣。
+16. The security guard is at the door.
+    > **中文**：保安在门口。
 
-17. We checked the expiration date on the coupon before paying.
-   > **中文**：我们在付款前仔细检查了优惠券的有效日期。
+17. She folded the clothes.
+    > **中文**：她把衣服叠好了。
 
-18. That well-known brand opened a new store downtown.
-   > **中文**：那家知名品牌在市中心开了一家新旗舰店。
+18. My grandmother knit a sweater for me.
+    > **中文**：我奶奶给我织了一件毛衣。
 
-19. There are many exquisite vintage items in this secondhand shop.
-   > **中文**：这间二手小店里有很多精致的复古物品。
+19. She can sew a button.
+    > **中文**：她会缝扣子。
 
-20. Please put that folded coat into the cardboard box.
-   > **中文**：请把折叠好的外套放在那个大号纸箱里。
+20. This shirt is worth every penny.
+    > **中文**：这件衬衫值每一分钱。
 
 </quiz-listening>
 
@@ -200,25 +205,35 @@ what to / which / whatever / that 这组疑问词和关系词帮你表达选择�
 | 英文单词 | 课文释义 |
 | --- | --- |
 | afford to | 负担得起 |
-| aisle | 通道；货架走道 |
+| aisle | （货架间的）通道 |
 | brand | 品牌 |
-| coupon | 优惠券 |
-| good deal | 划算的交易 |
-| logo | 标志；商标 |
-| reasonable | 合理的 |
-| sale | 促销；特卖 |
-| shipping | 运费；发货 |
-| vintage | 复古的；经典的 |
-| security guard | 保安 |
-| knit | 编织；针织 |
-| sew | 缝纫；缝补 |
-| fold | 折叠 |
-| limited | 限量的；有限的 |
-| penny | 分币；一分钱 |
-| medium | 中号的 |
-| whatever | 无论什么 |
-| what to | 该做什么/买什么 |
 | code | 代码；优惠码 |
+| coupon | 优惠券 |
+| fold | 折叠 |
+| good deal | 划算的交易 |
+| knit | 编织 |
+| limited | 限量的 |
+| logo | 标志 |
+| medium | 中号的 |
+| penny | 分（货币单位） |
+| reasonable | 合理的 |
+| sale | 促销；打折 |
+| security guard | 保安 |
+| sew | 缝纫 |
+| shipping | 运费 |
+| that | 那个；（关系代词/连词） |
+| vintage | 复古的 |
+| what | 什么 |
+| what to | 该……什么 |
+| whatever | 无论什么 |
+| which | 哪一个 |
+| price | 价格 |
+| store | 商店 |
+| shirt | 衬衫 |
+| I | 我 |
+| free | 免费的 |
+| expensive | 昂贵的 |
+| one | 一个（代词） |
 
 </quiz-matching>
 
@@ -226,202 +241,202 @@ what to / which / whatever / that 这组疑问词和关系词帮你表达选择�
 
 ### 1
 
-I cannot afford to buy clothes from ____ luxury brand.
+I don't know what to ____.
 
-- [x] that
-- [ ] afford to
-- [ ] aisle
+- [x] buy
+- [ ] bought
+- [ ] buying
 
-> **解析**：**that** 为指示代词/限定词，指代单数远指事物，表示“那个”。
+> **解析**：what to 后接动词原形 buy 构成不定式短语；bought 是过去式，buying 不能接在 to 后构成此结构。
 
 ### 2
 
-Please look for items on ____ in aisle 5.
+The price is very ____.
 
-- [x] sale
-- [ ] afford to
-- [ ] aisle
+- [x] reasonable
+- [ ] reason
+- [ ] reasonably
 
-> **解析**：**sale** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后接形容词 reasonable 作表语；reason 是名词，reasonably 是副词。
 
 ### 3
 
-Enter this ____ code at checkout to get free shipping.
+I can't afford ____ buy that coat.
 
-- [x] coupon
-- [ ] afford to
-- [ ] aisle
+- [x] to
+- [ ] at
+- [ ] for
 
-> **解析**：**coupon** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：afford to do 是固定搭配；at 和 for 不与 afford 构成此结构。
 
 ### 4
 
-Buying this jacket at a ____ was a really good deal.
+This is a good ____.
 
-- [x] discount
-- [ ] afford to
-- [ ] aisle
+- [x] deal
+- [ ] deals
+- [ ] dealing
 
-> **解析**：**discount** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a good deal 是固定短语，deal 用单数；deals 是复数不与 a 搭配，dealing 语义不合。
 
 ### 5
 
-The clothing prices in this shop are very ____.
+____ brand do you prefer?
 
-- [x] reasonable
-- [ ] afford to
-- [ ] aisle
+- [x] Which
+- [ ] What's
+- [ ] Who
 
-> **解析**：**reasonable** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Which 修饰 brand 表示在有限品牌中选择；What's 带 is 不合疑问结构，Who 指人不指品牌。
 
 ### 6
 
-The ____ logo is printed on the sleeve of this vintage sweater.
+____ you choose is fine with me.
 
-- [x] brand
-- [ ] afford to
-- [ ] aisle
+- [x] Whatever
+- [ ] Whenever
+- [ ] Wherever
 
-> **解析**：**brand** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Whatever you choose 指"无论你选什么"作主语；Whenever 和 Wherever 分别表时间与地点，语义不合。
 
 ### 7
 
-This ____ edition shirt is not worth a single penny.
+The store is having a ____.
 
-- [x] limited
-- [ ] afford to
-- [ ] aisle
+- [x] sale
+- [ ] sales
+- [ ] sail
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **limited**。
+> **解析**：a sale 表示一场促销，用单数；sail 是"帆"同音干扰，sales 复数不与 a 搭配。
 
 ### 8
 
-The ____ guard stood near the exit of the clothing store.
+I have a ____.
 
-- [x] security
-- [ ] afford to
-- [ ] aisle
+- [x] coupon
+- [ ] coupons
+- [ ] coupling
 
-> **解析**：**security** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后接单数名词 coupon；coupling 语义不合，coupons 复数不与 a 搭配。
 
 ### 9
 
-My grandmother decided to ____ a beautiful cotton dress for me.
+____ is free for orders over fifty dollars.
 
-- [x] sew
-- [ ] afford to
-- [ ] aisle
+- [x] Shipping
+- [ ] Ship
+- [ ] Ships
 
-> **解析**：**sew** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Shipping 作动名词"运费"作主语；Ship 是动词原形，Ships 是三单形式，都不作名词主语。
 
 ### 10
 
-She likes to ____ scarves for her family during winter.
+The milk is in ____ three.
 
-- [x] knit
-- [ ] afford to
-- [ ] aisle
+- [x] aisle
+- [ ] island
+- [ ] alley
 
-> **解析**：**knit** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：aisle 指货架通道，aisle three 是超市常用表达；island 是"岛屿"，alley 是"小巷"。
 
 ### 11
 
-Please ____ the clean clothes neatly before putting them away.
+This one is a ____ edition.
 
-- [x] fold
-- [ ] afford to
-- [ ] aisle
+- [x] limited
+- [ ] limit
+- [ ] limiting
 
-> **解析**：**fold** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：limited edition 是固定搭配"限量版"；limit 是名词/动词，limiting 不作此搭配。
 
 ### 12
 
-This ____ jacket fits me perfectly.
+That ____ dress is expensive.
 
-- [x] medium
-- [ ] afford to
-- [ ] aisle
+- [x] vintage
+- [ ] vintages
+- [ ] ventilation
 
-> **解析**：**medium** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：vintage 作形容词修饰 dress；ventilation 是"通风"语义不合，vintages 是复数名词。
 
 ### 13
 
-I really don't know ____ to buy during the big sale.
+I like the ____ on this shirt.
 
-- [x] what
-- [ ] afford to
-- [ ] aisle
+- [x] logo
+- [ ] logos
+- [ ] log
 
-> **解析**：**what** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the logo 特指这件衬衫上的标志；log 是"原木"干扰项，logos 复数与单数衬衫语境不符。
 
 ### 14
 
-____ shirt you choose, I think it will look great.
+I want the ____ size.
 
-- [x] Whatever
-- [ ] afford to
-- [ ] aisle
+- [x] medium
+- [ ] middle
+- [ ] median
 
-> **解析**：**Whatever** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：尺码表达用 medium size；middle 指"中间位置"，median 是统计术语。
 
 ### 15
 
-Do you know ____ of these two models is the better offer?
+Please enter the ____.
 
-- [x] which
-- [ ] afford to
-- [ ] aisle
+- [x] code
+- [ ] codes
+- [ ] coded
 
-> **解析**：**which** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the code 特指优惠码，用单数；coded 是过去分词，codes 复数与单数操作语境不符。
 
 ### 16
 
-The store offers a ____ discount for the entire week.
+The security ____ is at the door.
 
-- [x] limited
-- [ ] afford to
-- [ ] aisle
+- [x] guard
+- [ ] guards
+- [ ] guarding
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **limited**。
+> **解析**：security guard 是固定复合名词；is 要求单数 guard，guarding 不作名词中心词。
 
 ### 17
 
-We checked the expiration date on the ____ before paying.
+She ____ the clothes before packing them.
 
-- [x] coupon
-- [ ] afford to
-- [ ] aisle
+- [x] folded
+- [ ] folding
+- [ ] folds
 
-> **解析**：**coupon** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：before packing 表明动作已发生，用过去式 folded；folds 是现在时，folding 不能单独作谓语。
 
 ### 18
 
-____ well-known brand opened a new store downtown.
+My grandmother ____ a sweater for me last winter.
 
-- [x] That
-- [ ] afford to
-- [ ] aisle
+- [x] knit
+- [ ] knitted
+- [ ] knits
 
-> **解析**：**that** 为指示代词/限定词，指代单数远指事物，表示“那个”。
+> **解析**：knit 过去式仍为 knit（三态同形）；knits 是现在时三单，knitted 虽偶见但标准用法为 knit。
 
 ### 19
 
-There are many exquisite ____ items in this secondhand shop.
+She can ____ a button.
 
-- [x] vintage
-- [ ] afford to
-- [ ] aisle
+- [x] sew
+- [ ] sews
+- [ ] sewing
 
-> **解析**：**vintage** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：can 后接动词原形 sew；sews 是三单形式，sewing 不能跟在 can 后。
 
 ### 20
 
-Please put ____ folded coat into the cardboard box.
+This shirt is worth every ____.
 
-- [x] that
-- [ ] afford to
-- [ ] aisle
+- [x] penny
+- [ ] pennies
+- [ ] penal
 
-> **解析**：**that** 为指示代词/限定词，指代单数远指事物，表示“那个”。
+> **解析**：every 后接单数名词 penny；pennies 是复数不与 every 搭配，penal 语义不合。
 
 </quiz-cloze>

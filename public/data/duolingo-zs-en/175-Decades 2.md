@@ -10,28 +10,31 @@
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元让你描述成就和里程碑，时间跨度从过去到"过去的过去"。核心语法是过去完成时（had + 过去分词）：By the time she was recognized as a hero, she'd already invented something amazing.（在她被认可为英雄之前，她已经发明了了不起的东西。）He'd succeeded in his career by 2005, but the situation was different in the seventies.（到 2005 年他已在事业上成功了，但在七十年代情况不同。）
+本单元的主题是"回顾年代、描述成就与里程碑"。词表可以分成三组：时间与年代（1984, 2005, 2020, seventies, eighteenth, previous, the day before, by the time, at last）、成就与人物（hero, invent, predict, recognize, succeed in, experience, situation）、以及本单元语法核心——过去完成时及其缩写（had, hadn't, he'd, she'd, they'd, we'd, you'd）。串起来就是一段回顾：By the time she turned thirty, she'd invented two apps. At last, her work was recognized.
 
-词表里有具体年份（1984, 2005, 2020）和年代（seventies），以及时间标记短语：by the time, the day before, at last, previous。这些是过去完成时的典型时间线索。had / hadn't 是过去完成时的助动词，he'd / she'd / they'd / we'd / you'd 是 had（或 would）的缩写形式——在本单元语境中主要代表 had。
+语法主线是过去完成时 had + 过去分词，表示"过去的过去"：When I arrived, they had left. 缩写 he'd/she'd/they'd/we'd/you'd 中的 'd 代表 had（后接过去分词时）：She'd finished the project. by the time 引导过去时间从句，主句常用过去完成时；the day before 表示"前一天"。
 
-成就类词汇包括 invent, predict, recognize, succeed in, experience。hero 和 eighteenth 给叙述增加了具体感：In the eighteenth century, heroes were recognized differently.（在十八世纪，英雄被认可的方式不同。）
+学完本单元，你能用过去完成时讲述年代中的成就与事件先后顺序、介绍里程碑人物，也能辨认 'd 缩写的两种含义（had 或 would）。
 
 ## Tips
 
-- **had / hadn't / he'd / she'd / they'd / we'd / you'd** — 过去完成时的构成：had + 过去分词。缩写 'd 在代词后代表 had（或 would，需根据后接词判断）：He'd finished = He had finished（后接过去分词）/ He'd go = He would go（后接动词原形）。hadn't = had not。
+- **had / hadn't** — 过去完成时的助动词：They had finished by noon. hadn't 是 had not 的缩写：She hadn't heard the news. 注意 had 还可作实义动词"有"的过去式：I had a car in 2005.
 
-- **by the time / the day before / at last** — by the time + 从句，主句常用过去完成时：By the time I arrived, she'd left. the day before = 前一天（用于间接引语或回顾）。at last = 终于，强调等待后的结果：At last, they recognized her work.
+- **he'd / she'd / they'd / we'd / you'd** — 'd 可代表 had 或 would。后接过去分词时是 had：She'd left. 后接动词原形时是 would：I'd like to go. 本单元以 had 用法为主。
 
-- **invent / predict / recognize** — invent 是发明（强调创造新事物，区别于 discover 发现已存在的东西）。predict 是预测，名词 prediction。recognize 是认可/认出：She was recognized for her work. 注意 recognize 美式拼法，英式也可写 recognise。
+- **by the time / the day before** — by the time + 过去从句，主句用过去完成时：By the time he arrived, we had eaten. the day before 是间接引语中"前一天"：He said he had called the day before.
 
-- **succeed in / experience / situation** — succeed in + 动名词 = 成功做到：She succeeded in inventing a new device. experience 可作名词（经历/经验）也可作动词（体验）。situation 是情况、局面。
+- **at last** — "终于"，强调等待后的结果：At last, she succeeded. 与 finally 近义。
 
-- **seventies / eighteenth / previous** — seventies = 七十年代（1970s），注意用复数。eighteenth = 第十八（序数词）。previous = 之前的，比 last 更正式：the previous situation / the previous century.
+- **seventies / eighteenth** — seventies 是"七十年代"：in the seventies。eighteenth 是序数词"第十八"：the eighteenth century。
 
-- **hero / 1984 / 2005 / 2020** — hero 是英雄（复数 heroes）。年份读法：1984 = nineteen eighty-four, 2005 = two thousand five, 2020 = twenty twenty。注意 2000 年后年份有两种读法。
+- **invent / predict / recognize** — invent 是"发明"：invent a machine。predict 是"预测"：predict the future。recognize 是"认出、认可"：Her talent was recognized.
+
+- **succeed in** — "在某方面成功"，后接名词或动名词：He succeeded in business. She succeeded in passing the test. ✗ succeed to pass。
+
+- **hero / experience / situation / previous** — hero 是"英雄"。experience 是"经验、经历"。situation 是"情况"。previous 是"先前的"：the previous year。
 
 ## 练习
 
@@ -49,149 +52,149 @@
 
 <quiz-sentence-builder>
 
-1. **中文**：经历过多次失败后，他终于成功拿到了项目许可。
-   **英文**：At last, we arrived at our hotel after a long travel.
-   > **解析**：At last 表示“终于/最终”。
+1. **中文**：我到达时他们已经离开了。
+   **英文**：When I arrived, they had left.
+   > **解析**：离开发生在到达之前，用过去完成时 had left。
 
-2. **中文**：到我们到达电影院的时候，电影已经放映了半小时。
-   **英文**：By the time we got to the show, it had started.
-   > **解析**：By the time 表示“到……的时候为止”（主句常接完成时）。
+2. **中文**：她三十岁之前已经发明了两款应用。
+   **英文**：She had invented two apps by the time she turned thirty.
+   > **解析**：by the time 引导过去时间从句，主句用过去完成时。
 
-3. **中文**：这项科技突破起源于十八世纪的欧洲。
-   **英文**：That historical discovery occurred in the eighteenth century.
-   > **解析**：eighteenth 表示“第十八/18世纪”。
+3. **中文**：他前一天就打过电话了。
+   **英文**：He had called the day before.
+   > **解析**：the day before 表示"前一天"；had called 是过去完成时。
 
-4. **中文**：在海外工作的多年经验极大地拓展了他的视野。
-   **英文**：She has broad work experience in international marketing.
-   > **解析**：experience 表示“经验/经历”。
+4. **中文**：最终，她的才能得到了认可。
+   **英文**：At last, her talent was recognized.
+   > **解析**：at last 表"终于"；was recognized 是过去时的被动。
 
-5. **中文**：那位勇敢的消防员在火灾中救人，成为了人们心中的英雄。
-   **英文**：The firefighter became a national hero after saving people.
-   > **解析**：hero 表示“英雄/主角”。
+5. **中文**：他是城市里的英雄。
+   **英文**：He is a hero in the city.
+   > **解析**：hero 是可数名词；in the city 是地点状语。
 
-6. **中文**：发明家们不断创造新技术来改善人们的生活。
-   **英文**：Scientists work hard to invent eco-friendly tools.
-   > **解析**：invent 表示“发明/创造”。
+6. **中文**：爱迪生发明留声机于 1877 年。
+   **英文**：Edison invented the phonograph in 1877.
+   > **解析**：invented 是 invent 的过去式；in 1877 是时间状语。
 
-7. **中文**：气象专家成功预测到了本周末的暴风雪。
-   **英文**：Experts can predict weather changes using radar systems.
-   > **解析**：predict 表示“预测/预言”。
+7. **中文**：没有人预测到这件事。
+   **英文**：No one had predicted it.
+   > **解析**：had predicted 是过去完成时；no one 作主语。
 
-8. **中文**：根据我们先前的约定，会议将在周一如期举行。
-   **英文**：We reviewed data from our previous research project.
-   > **解析**：previous 表示“先前的/之前的”。
+8. **中文**：他在商业上成功了。
+   **英文**：He succeeded in business.
+   > **解析**：succeed in 是固定搭配，后接名词。
 
-9. **中文**：换了新发型后，我戴着帽子几乎没认出他。
-   **英文**：I couldn't recognize him at first in his new suit.
-   > **解析**：recognize 表示“认出/识别”。
+9. **中文**：她成功通过了考试。
+   **英文**：She succeeded in passing the test.
+   > **解析**：succeed in 后接动名词 passing。
 
-10. **中文**：在七十年代，复古流行服装曾风靡一时。
-   **英文**：Disco music was very popular back in the seventies.
-   > **解析**：seventies 表示“七十年代（1970s）”。
+10. **中文**：我几乎认不出他了。
+   **英文**：I hardly recognized him.
+   > **解析**：recognized 是过去式；hardly 表示"几乎不"。
 
-11. **中文**：警察到达现场后很快控制住了危险的局势。
-   **英文**：The manager handled the difficult situation calmly.
-   > **解析**：situation 表示“局势/情况/局面”。
+11. **中文**：那是一段难忘的经历。
+   **英文**：It was an unforgettable experience.
+   > **解析**：experience 作"经历"是可数名词。
 
-12. **中文**：经过持续努力，她终于成功通过了资格考试。
-   **英文**：She managed to succeed in passing the bar exam.
-   > **解析**：succeed in 表示“在……取得成功”。
+12. **中文**：当时的情况很困难。
+   **英文**：The situation was difficult at that time.
+   > **解析**：situation 作主语；at that time 是时间状语。
 
-13. **中文**：在晚宴的前一天，我们把所有的食材都准备好了。
-   **英文**：We prepared everything on the day before the party.
-   > **解析**：the day before 表示“前一天/头一天”。
+13. **中文**：前一年的冬天很冷。
+   **英文**：The previous winter had been cold.
+   > **解析**：previous 修饰 winter；had been 是过去完成时。
 
-14. **中文**：在离开前，他已经完成了所有的文件签署。
-   **英文**：He had finished his work before the boss arrived.
-   > **解析**：had 构成过去完成时（had done）。
+14. **中文**：在二十世纪七十年代，音乐发生了巨变。
+   **英文**：Music changed greatly in the seventies.
+   > **解析**：in the seventies 是"在七十年代"；greatly 修饰 changed。
 
-15. **中文**：在我们到达时，他们还没有收到确认通知。
-   **英文**：They hadn't received the package when I called.
-   > **解析**：hadn't 即 had not。
+15. **中文**：这是第十八届比赛。
+   **英文**：This is the eighteenth contest.
+   > **解析**：序数词 eighteenth 前加 the。
 
-16. **中文**：他说他过去常去那家老餐馆用餐。
-   **英文**：He said he'd like to join us for dinner.
-   > **解析**：he'd 表示 he had 或 he would。
+16. **中文**：到 2020 年，智能手机已经普及了。
+   **英文**：By 2020, smartphones had become common.
+   > **解析**：By + 过去时间点，主句用过去完成时。
 
-17. **中文**：她说她之前已经看过了那本小说。
-   **英文**：She said she'd already finished reading the book.
-   > **解析**：she'd 表示 she had 或 she would。
+17. **中文**：我们在 2005 年买了第一台电脑。
+   **英文**：We bought our first computer in 2005.
+   > **解析**：bought 是过去式；in 2005 是时间状语。
 
-18. **中文**：他们说他们过去会很乐意提供协助。
-   **英文**：They said they'd help us clean up the yard.
-   > **解析**：they'd 表示 they had 或 they would。
+18. **中文**：到火车出发时我们已经买好了票。
+   **英文**：We had bought the tickets by the time the train left.
+   > **解析**：买票先于发车，用过去完成时 had bought。
 
-19. **中文**：我们说过我们之前已经做好了充分准备。
-   **英文**：We said we'd arrive on time for the meeting.
-   > **解析**：we'd 表示 we had 或 we would。
+19. **中文**：她 hadn't 听说过这个消息。
+   **英文**：She hadn't heard the news.
+   > **解析**：hadn't 是 had not 的缩写，后接过去分词 heard。
 
-20. **中文**：要是你去过那里，你过去也会感到无比震撼的。
-   **英文**：I knew you'd enjoy the live performance tonight.
-   > **解析**：you'd 表示 you had 或 you would。
+20. **中文**：我们当时已经准备好了。
+   **英文**：We'd been ready.
+   > **解析**：We'd 是 We had 的缩写；been ready 表示状态。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At last, we arrived at our hotel after a long travel.
-   > **中文**：经历过多次失败后，他终于成功拿到了项目许可。
+1. They had left before noon.
+   > **中文**：他们在中午前就离开了。
 
-2. By the time we got to the show, it had started.
-   > **中文**：到我们到达电影院的时候，电影已经放映了半小时。
+2. She'd finished the report already.
+   > **中文**：她已经完成了报告。
 
-3. That historical discovery occurred in the eighteenth century.
-   > **中文**：这项科技突破起源于十八世纪的欧洲。
+3. By the time he came, we had eaten.
+   > **中文**：等他来的时候，我们已经吃过了。
 
-4. She has broad work experience in international marketing.
-   > **中文**：在海外工作的多年经验极大地拓展了他的视野。
+4. At last, the project succeeded.
+   > **中文**：项目终于成功了。
 
-5. The firefighter became a national hero after saving people.
-   > **中文**：那位勇敢的消防员在火灾中救人，成为了人们心中的英雄。
+5. He was a true hero.
+   > **中文**：他是真正的英雄。
 
-6. Scientists work hard to invent eco-friendly tools.
-   > **中文**：发明家们不断创造新技术来改善人们的生活。
+6. They invented the device in 1984.
+   > **中文**：他们在 1984 年发明了这台设备。
 
-7. Experts can predict weather changes using radar systems.
-   > **中文**：气象专家成功预测到了本周末的暴风雪。
+7. Nobody had predicted the result.
+   > **中文**：没人预测到那个结果。
 
-8. We reviewed data from our previous research project.
-   > **中文**：根据我们先前的约定，会议将在周一如期举行。
+8. She succeeded in her career.
+   > **中文**：她在事业上成功了。
 
-9. I couldn't recognize him at first in his new suit.
-   > **中文**：换了新发型后，我戴着帽子几乎没认出他。
+9. I didn't recognize her at first.
+   > **中文**：我一开始没认出她。
 
-10. Disco music was very popular back in the seventies.
-   > **中文**：在七十年代，复古流行服装曾风靡一时。
+10. It was a valuable experience.
+   > **中文**：那是一段宝贵的经历。
 
-11. The manager handled the difficult situation calmly.
-   > **中文**：警察到达现场后很快控制住了危险的局势。
+11. The situation improved in 2005.
+   > **中文**：情况在 2005 年好转了。
 
-12. She managed to succeed in passing the bar exam.
-   > **中文**：经过持续努力，她终于成功通过了资格考试。
+12. He had met her the previous year.
+   > **中文**：他在前一年就见过她了。
 
-13. We prepared everything on the day before the party.
-   > **中文**：在晚宴的前一天，我们把所有的食材都准备好了。
+13. Rock music was huge in the seventies.
+   > **中文**：摇滚乐在七十年代风靡一时。
 
-14. He had finished his work before the boss arrived.
-   > **中文**：在离开前，他已经完成了所有的文件签署。
+14. This is the eighteenth edition.
+   > **中文**：这是第十八个版本。
 
-15. They hadn't received the package when I called.
-   > **中文**：在我们到达时，他们还没有收到确认通知。
+15. By 2020, the app had grown popular.
+   > **中文**：到 2020 年，这个应用已经流行起来。
 
-16. He said he'd like to join us for dinner.
-   > **中文**：他说他过去常去那家老餐馆用餐。
+16. She said she had called the day before.
+   > **中文**：她说她前一天打过电话。
 
-17. She said she'd already finished reading the book.
-   > **中文**：她说她之前已经看过了那本小说。
+17. We'd never seen such a show.
+   > **中文**：我们从没见过这样的演出。
 
-18. They said they'd help us clean up the yard.
-   > **中文**：他们说他们过去会很乐意提供协助。
+18. He'd studied music before college.
+   > **中文**：他上大学前学过音乐。
 
-19. We said we'd arrive on time for the meeting.
-   > **中文**：我们说过我们之前已经做好了充分准备。
+19. You'd promised to help.
+   > **中文**：你当时答应过帮忙的。
 
-20. I knew you'd enjoy the live performance tonight.
-   > **中文**：要是你去过那里，你过去也会感到无比震撼的。
+20. They'd arrived two hours earlier.
+   > **中文**：他们早到了两个小时。
 
 </quiz-listening>
 
@@ -199,26 +202,48 @@
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| at last | 终于 / 最终 |
-| by the time | 到……的时候为止 |
-| eighteenth | 第十八 / 18世纪 |
+| 1984 | 1984 年 |
+| 2005 | 2005 年 |
+| 2020 | 2020 年 |
+| at last | 终于 |
+| by the time | 到……时 |
+| eighteenth | 第十八 |
 | experience | 经验 / 经历 |
-| hero | 英雄 / 主角 |
+| had | 有 / 已经（过去完成时） |
+| hadn't | 没有（过去完成否定） |
+| he'd | 他已 / 他会（he had/would） |
+| hero | 英雄 |
 | invent | 发明 |
-| predict | 预测 / 预言 |
-| previous | 先前的 / 之前的 |
-| recognize | 认出 / 识别 |
+| predict | 预测 |
+| previous | 先前的 |
+| recognize | 认出 / 认可 |
 | seventies | 七十年代 |
-| situation | 局势 / 情况 |
-| succeed in | 成功于…… |
+| she'd | 她已 / 她会（she had/would） |
+| situation | 情况 |
+| succeed in | 在……成功 |
 | the day before | 前一天 |
-| had | 已经（过去完成时） |
-| hadn't | 没有（had not） |
-| he'd | 他过去会 / 他已经 |
-| she'd | 她过去会 / 她已经 |
-| they'd | 他们过去会 / 他们已经 |
-| we'd | 我们过去会 / 我们已经 |
-| you'd | 你过去会 / 你已经 |
+| they'd | 他们已（they had） |
+| we'd | 我们已（we had） |
+| you'd | 你已 / 你会（you had/would） |
+| I | 我 |
+| she | 她 |
+| he | 他 |
+| they | 他们 |
+| we | 我们 |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| was | 是（过去式） |
+| is | 是（单数） |
+| in | 在……里 |
+| on | 在……上 |
+| before | 在……之前 |
+| by | 到 / 在……前 |
+| left | 离开（过去分词） |
+| arrive | 到达 |
+| bought | 买（过去式） |
+| called | 打电话（过去式） |
+| heard | 听说（过去式） |
+| became | 变得（过去式） |
 
 </quiz-matching>
 
@@ -226,202 +251,202 @@
 
 ### 1
 
-At last, we ____ at our hotel after a long travel.
+When I arrived, they had already ____.
 
-- [x] arrived
-- [ ] 1984
-- [ ] 2005
+- [x] left
+- [ ] leave
+- [ ] leaving
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **arrived**。
+> **解析**：had + 过去分词 left 构成过去完成时；leave 是原形，leaving 不能与 had 单独搭配。
 
 ### 2
 
-By the time we got to the show, it ____ started.
+____ he turned thirty, she had invented two apps.
 
-- [x] had
-- [ ] 1984
-- [ ] 2005
+- [x] By the time
+- [ ] At the time
+- [ ] The time
 
-> **解析**：**had** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：by the time + 过去从句搭配过去完成时；at the time 表"当时"不与完成时呼应，the time 不成短语。
 
 ### 3
 
-That historical discovery occurred in the ____ century.
+He said he had called the day ____.
 
-- [x] eighteenth
-- [ ] 1984
-- [ ] 2005
+- [x] before
+- [ ] ago
+- [ ] previous
 
-> **解析**：**eighteenth** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：间接引语中"前一天"用 the day before；ago 用于直接过去时，previous 是形容词。
 
 ### 4
 
-She has broad work ____ in international marketing.
+____, the team finished the project.
 
-- [x] experience
-- [ ] 1984
-- [ ] 2005
+- [x] At last
+- [ ] At first
+- [ ] At most
 
-> **解析**：**experience** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**："终于"用 at last；at first 是"起初"，at most 是"至多"。
 
 ### 5
 
-The firefighter became a national ____ after saving people.
+He is regarded as a local ____.
 
 - [x] hero
-- [ ] 1984
-- [ ] 2005
+- [ ] heron
+- [ ] heroic
 
-> **解析**：**hero** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：英雄用名词 hero；heron 是鹭鸟，heroic 是形容词。
 
 ### 6
 
-Scientists work hard to ____ eco-friendly tools.
+They ____ the machine in 1984.
 
-- [x] invent
-- [ ] 1984
-- [ ] 2005
+- [x] invented
+- [ ] invent
+- [ ] invention
 
-> **解析**：**invent** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：in 1984 提示过去时 invented；invention 是名词。
 
 ### 7
 
-Experts can ____ weather changes using radar systems.
+No one could ____ what would happen.
 
 - [x] predict
-- [ ] 1984
-- [ ] 2005
+- [ ] prediction
+- [ ] predicted
 
-> **解析**：**predict** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：could 后接动词原形 predict；prediction 是名词。
 
 ### 8
 
-We reviewed data from our ____ research project.
+She ____ in selling the house.
 
-- [x] previous
-- [ ] 1984
-- [ ] 2005
+- [x] succeeded
+- [ ] success
+- [ ] successful
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **previous**。
+> **解析**：succeed in 是动词搭配，过去式 succeeded；success 是名词，successful 是形容词。
 
 ### 9
 
-I couldn't ____ him at first in his new suit.
+I barely ____ her after so many years.
 
-- [x] recognize
-- [ ] 1984
-- [ ] 2005
+- [x] recognized
+- [ ] recognize
+- [ ] recognition
 
-> **解析**：**recognize** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去用过去式 recognized；recognition 是名词。
 
 ### 10
 
-Disco music was very popular back in the ____.
+Living abroad was a great ____.
 
-- [x] seventies
-- [ ] 1984
-- [ ] 2005
+- [x] experience
+- [ ] experiment
+- [ ] expert
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **seventies**。
+> **解析**：经历用 experience；experiment 是实验，expert 是专家。
 
 ### 11
 
-The manager handled the difficult ____ calmly.
+The ____ was under control soon.
 
 - [x] situation
-- [ ] 1984
-- [ ] 2005
+- [ ] situated
+- [ ] site
 
-> **解析**：**situation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：情况用名词 situation；situated 是形容词，site 是地点。
 
 ### 12
 
-She ____ to succeed in passing the bar exam.
+He had visited the city the ____ year.
 
-- [x] managed
-- [ ] 1984
-- [ ] 2005
+- [x] previous
+- [ ] previews
+- [ ] previously
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **managed**。
+> **解析**：修饰 year 用形容词 previous；previously 是副词，previews 是名词复数。
 
 ### 13
 
-We prepared ____ on the day before the party.
+Disco was popular in the ____.
 
-- [x] everything
-- [ ] 1984
-- [ ] 2005
+- [x] seventies
+- [ ] seventeen
+- [ ] seventy
 
-> **解析**：**everything** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：年代用复数 seventies；seventeen 和 seventy 是基数词。
 
 ### 14
 
-He ____ finished his work before the boss arrived.
+It was the ____ edition of the book.
 
-- [x] had
-- [ ] 1984
-- [ ] 2005
+- [x] eighteenth
+- [ ] eighteen
+- [ ] eighties
 
-> **解析**：**had** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：序数词 eighteenth 修饰 edition；eighteen 是基数词，eighties 是八十年代。
 
 ### 15
 
-They ____ received the package when I called.
+By 2020, electric cars ____ common.
 
-- [x] hadn't
-- [ ] 1984
-- [ ] 2005
+- [x] had become
+- [ ] have become
+- [ ] become
 
-> **解析**：**hadn't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：By 2020（过去时间点）搭配过去完成时 had become；have become 是现在完成时。
 
 ### 16
 
-He said ____ like to join us for dinner.
+She ____ heard the news before I told her.
 
-- [x] he'd
-- [ ] 1984
-- [ ] 2005
+- [x] had
+- [ ] has
+- [ ] having
 
-> **解析**：**he'd** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：过去的过去用 had + 过去分词；has 是现在完成时，having 不能单独作助动词。
 
 ### 17
 
-She said ____ already finished reading the book.
+We'd ____ the tickets before the show sold out.
 
-- [x] she'd
-- [ ] 1984
-- [ ] 2005
+- [x] bought
+- [ ] buy
+- [ ] buying
 
-> **解析**：**she'd** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：We'd = We had，后接过去分词 bought；buy 是原形，buying 是动名词。
 
 ### 18
 
-They said ____ help us clean up the yard.
+You'd ____ to come, but you never showed up.
 
-- [x] they'd
-- [ ] 1984
-- [ ] 2005
+- [x] promised
+- [ ] promise
+- [ ] promising
 
-> **解析**：**they'd** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：You'd = You had，后接过去分词 promised；其余形式不能构成过去完成时。
 
 ### 19
 
-We said ____ arrive on time for the meeting.
+They'd arrived an hour ____.
 
-- [x] we'd
-- [ ] 1984
-- [ ] 2005
+- [x] earlier
+- [ ] early
+- [ ] earliest
 
-> **解析**：**we'd** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：与之前时间比较用比较级 earlier；early 是原级，earliest 是最高级无参照。
 
 ### 20
 
-I knew ____ enjoy the live performance tonight.
+The hero had saved the child ____ the fire spread.
 
-- [x] you'd
-- [ ] 1984
-- [ ] 2005
+- [x] before
+- [ ] by the time
+- [ ] at last
 
-> **解析**：**you'd** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：救人发生在火势蔓延之前，用 before 引导从句；by the time 语序需调整，at last 是副词不能引导从句。
 
 </quiz-cloze>

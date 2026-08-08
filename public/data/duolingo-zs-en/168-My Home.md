@@ -10,36 +10,31 @@ adopt, couple, didn't, easygoing, guest room, kettle, ladder, lady, lay, lie, ma
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"谈论居住情况"展开。你可以描述自己的家、邻居和日常生活：The couple next door has an easygoing personality and a great sense of humor.（隔壁那对夫妇性格随和，很有幽默感。）I normally wake up early, but on occasion I sleep in.（我通常早起，但偶尔也睡懒觉。）
+本单元的主题是"聊居住情况、邻里与家人"。词表可以分成三组：人物（couple, lady, stranger, adopt）、家的空间与物品（guest room, upstairs, next door, property, kettle, ladder, vehicle）、以及性格与日常（easygoing, personality, sense of humor, make, set, normally, occasion, stop by, wake up, woken up, lie, lay, swept, use to, didn't）。组合起来就是一段邻里生活素描：A young couple lives next door. They adopted a dog. The guest room is upstairs, and I normally wake up at seven.
 
-词表里有房屋相关词汇（guest room, upstairs, property, kettle）和邻里人物（couple, lady, stranger, next door）。lay 和 lie 这组易混词也出现在这里——lay 是"放置"（及物），lie 是"躺"（不及物），它们的过去式分别是 laid 和 lay，过去分词分别是 laid 和 lain。swept 是 sweep 的过去式，woken up 是 wake up 的过去分词。
+语法主线有三条。第一是 lie 与 lay 这对易混词：lie（躺）是不及物动词，lie—lay—lain；lay（放置）是及物动词，lay—laid—laid。The cat lies on the bed. She laid the keys on the table. 第二是 used to（词表作 use to）表"过去常常"：I used to live there. 否定常用 didn't use to。第三是 wake up 的完成时：have/has + woken up。
 
-used to（词表中写作 use to，在否定和疑问中体现为 didn't use to）表示"过去常常"，描述以前的居住习惯：I didn't use to have a guest room, but now I do. stop by 是"顺便拜访"，很适合邻里场景：The lady next door stopped by to say hello.
+学完本单元，你能描述自己的住处、邻居和家人、日常起居习惯，也能分清 lie 和 lay 这两个高频动词。
 
 ## Tips
 
-- **lay / lie** — 英语中最经典的易混对。lay（放置）是及物动词，需要宾语：Lay the book on the table. 过去式 laid。lie（躺）是不及物动词：I lie down at 10. 过去式 lay，过去分词 lain。记忆口诀：lay 需要对象（你 lay 某物），lie 自己就行（你自己 lie down）。
+- **lie / lay** — 英语最经典的易混对。lie（躺）不及物：lie—lay—lain，The cat is lying on the bed. lay（放置）及物：lay—laid—laid，She laid the blanket on the sofa. 记忆口诀：lie 自己躺，lay 要带宾语。✗ I laid on the bed（过去"躺"应为 lay）→ ✓ I lay on the bed。
 
-- **use to / didn't** — used to + 动词原形表示"过去常常（现在不了）"。否定形式是 didn't use to（注意 use 没有 d）。疑问：Did you use to live here? 不要和 be used to doing（习惯于）混淆。
+- **wake up / woken up / swept** — wake up 是"醒来"，三态 wake—woke—woken：I have woken up early every day this week. swept 是 sweep（打扫）的过去式和过去分词：She swept the floor.
 
-- **swept / woken up** — swept 是 sweep（扫）的过去式和过去分词：She swept the floor. woken up 是 wake up 的过去分词：I was woken up by noise. 注意 wake 的三种形式：wake / woke / woken。
+- **use to / didn't** — used to do 表示"过去常常"：I used to live downtown. 否定形式 didn't use to 中的 use 恢复原形。didn't 也是 didn't 的一般过去否定助动词：He didn't stop by yesterday.
 
-- **easygoing / personality / sense of humor** — easygoing 形容人随和、好相处。personality 是性格。sense of humor 是幽默感。描述人的高频搭配：She has a great personality and a good sense of humor.
+- **adopt / couple / lady / stranger** — adopt 是"收养、领养"：They adopted a cat. couple 是"一对夫妻/情侣"：a young couple. lady 是"女士"，比 woman 更礼貌。stranger 是"陌生人"：Don't talk to strangers.
 
-- **stop by / next door** — stop by 是"顺路拜访"，比 visit 更随意：Stop by anytime! next door 是"隔壁"，可作副词或形容词：the couple next door / my next-door neighbor。
+- **easygoing / personality / sense of humor** — 描述人的三个词。easygoing 是"随和的"。personality 是"性格"。sense of humor 是"幽默感"：He has a great sense of humor.
 
-- **guest room / upstairs / property** — guest room 是客房。upstairs 可作副词（go upstairs）或形容词（the upstairs bathroom）。property 指房产、不动产，比 house 更正式，常用于买卖语境。
+- **guest room / upstairs / next door / property** — 居住空间词。guest room 是"客房"。upstairs 是"在楼上"，注意没有 s：✗ the upstairs room is on the upstair。next door 是"隔壁"。property 是"房产、物业"。
 
-- **couple / lady / stranger** — couple 指一对（常指夫妻或情侣）。lady 是女士，比 woman 更礼貌。stranger 是陌生人，来自 strange（奇怪的）——陌生人就是"对你来说奇怪/不熟悉的人"。
+- **kettle / ladder / vehicle** — kettle 是"水壶"，英式生活高频词：put the kettle on（烧水）。ladder 是"梯子"。vehicle 是"车辆"的总称，比 car 正式。
 
-- **kettle / ladder / vehicle** — kettle 是水壶（烧水用），英式英语中极常见。ladder 是梯子。vehicle 是车辆的正式总称，涵盖 car, truck, bus 等。
-
-- **adopt / occasion / normally** — adopt 有"收养"和"采纳"两义：adopt a child / adopt a new approach。occasion 是场合，on occasion = 偶尔。normally = 通常，比 usually 稍正式。
-
-- **set / make** — set 含义极多，这里可能是 set the table（摆桌子）或 set up（布置）。make 搭配 make the bed（整理床铺）。两者在家居场景中都很高频。
+- **stop by / make / set / normally / occasion** — stop by 是"顺道拜访"：Stop by anytime. make the bed 是"铺床"。set the table 是"摆餐具"。normally 是"通常"。occasion 是"场合"：a special occasion。
 
 ## 练习
 
@@ -57,149 +52,149 @@ used to（词表中写作 use to，在否定和疑问中体现为 didn't use to�
 
 <quiz-sentence-builder>
 
-1. **中文**：他们决定从动物收容所领养一只可爱的小狗。
-   **英文**：They decided to adopt a puppy from the local shelter.
-   > **解析**：adopt 表示“领养/收养”。
+1. **中文**：他们领养了一只猫。
+   **英文**：They adopted a cat.
+   > **解析**：adopted 是 adopt 的过去式；a cat 作宾语。
 
-2. **中文**：那对年轻夫妻上周刚搬进了隔壁的公寓。
-   **英文**：The young couple moved into the apartment next door last week.
-   > **解析**：couple 表示“夫妻/一对”；next door 意为“隔壁”。
+2. **中文**：一对年轻夫妻住在隔壁。
+   **英文**：A young couple lives next door.
+   > **解析**：couple 作整体看待时用三单 lives；next door 是地点状语。
 
-3. **中文**：我的新室友性格非常随和，极易相处。
-   **英文**：My new roommate is very easygoing and helpful around the house.
-   > **解析**：easygoing 表示“随和的/好相处的”。
+3. **中文**：那位女士很和善。
+   **英文**：The lady is very kind.
+   > **解析**：lady 作主语；kind 作表语。
 
-4. **中文**：我们把二楼最大的房间布置成了客房。
-   **英文**：We set up the largest room upstairs as a guest room.
-   > **解析**：guest room 表示“客房”；upstairs 意为“楼上”。
+4. **中文**：不要和陌生人说话。
+   **英文**：Don't talk to strangers.
+   > **解析**：否定祈使句用 Don't；strangers 用复数表泛指。
 
-5. **中文**：请用电水壶烧开水来冲泡热茶。
-   **英文**：Use the electric kettle to boil water for tea.
-   > **解析**：kettle 表示“水壶/烧水壶”。
+5. **中文**：他很随和。
+   **英文**：He is easygoing.
+   > **解析**：easygoing 作表语，描述性格。
 
-6. **中文**：工人爬上木梯去清理屋顶上的树叶。
-   **英文**：The worker climbed the wooden ladder to clean the roof.
-   > **解析**：ladder 表示“梯子”。
+6. **中文**：她性格很好。
+   **英文**：She has a great personality.
+   > **解析**：have a personality 表示"有……性格"；great 修饰 personality。
 
-7. **中文**：住在隔壁的那位亲切的女士常帮我们收快递。
-   **英文**：The kind lady who lives next door often helps collect packages.
-   > **解析**：lady 表示“女士/淑女”。
+7. **中文**：他很有幽默感。
+   **英文**：He has a good sense of humor.
+   > **解析**：sense of humor 是"幽默感"的固定短语。
 
-8. **中文**：住在隔壁的邻居经常在大热天请我们吃冰淇淋。
-   **英文**：Our neighbor next door invited us over for lunch today.
-   > **解析**：next door 表示“隔壁/在隔壁”。
+8. **中文**：客房在楼上。
+   **英文**：The guest room is upstairs.
+   > **解析**：upstairs 作表语兼地点副词，前不加介词。
 
-9. **中文**：在正常情况下，我们会在晚上七点吃晚餐。
-   **英文**：Normally, we have dinner together at seven in the evening.
-   > **解析**：Normally 表示“通常/正常情况下”。
+9. **中文**：商店就在隔壁。
+   **英文**：The shop is next door.
+   > **解析**：next door 作表语，表示"在隔壁"。
 
-10. **中文**：为庆祝这一特别场合，我们在家里举办了晚宴。
-   **英文**：We held a family dinner party to mark the special occasion.
-   > **解析**：occasion 表示“场合/时机”。
+10. **中文**：他们买下了这处房产。
+   **英文**：They bought the property.
+   > **解析**：bought 是 buy 的过去式；the property 作宾语。
 
-11. **中文**：她外向开朗的个性使她在小区里大受欢迎。
-   **英文**：Her warm personality makes her popular among all the neighbors.
-   > **解析**：personality 表示“个性/性格/人格”。
+11. **中文**：我把水壶烧上了。
+   **英文**：I put the kettle on.
+   > **解析**：put the kettle on 是"烧水"的习惯表达；put 的过去式仍为 put。
 
-12. **中文**：这片地产包含一栋大房子和一个漂亮的私人花园。
-   **英文**：The residential property includes a big house and a garden.
-   > **解析**：property 表示“房产/地产/资产”。
+12. **中文**：梯子很高。
+   **英文**：The ladder is tall.
+   > **解析**：ladder 作主语；tall 作表语。
 
-13. **中文**：他出色的幽默感总能让客厅里充满欢声笑语。
-   **英文**：His great sense of humor always makes everyone in the room laugh.
-   > **解析**：sense of humor 表示“幽默感”。
+13. **中文**：这辆交通工具是新的。
+   **英文**：The vehicle is new.
+   > **解析**：vehicle 是车辆的总称；new 作表语。
 
-14. **中文**：你今晚下班回家路上有空顺道拜访我家吗？
-   **英文**：Can you stop by my place on your way home tonight?
-   > **解析**：stop by 表示“顺道拜访/串门”。
+14. **中文**：随时顺道来坐坐。
+   **英文**：Stop by anytime.
+   > **解析**：stop by 是"顺道拜访"；祈使句用动词原形。
 
-15. **中文**：请不要轻易给敲门的陌生人开门。
-   **英文**：Never open the front door to a complete stranger.
-   > **解析**：stranger 表示“陌生人”。
+15. **中文**：我每天早上铺床。
+   **英文**：I make my bed every morning.
+   > **解析**：make the bed 是"铺床"的固定搭配；every morning 是频率状语。
 
-16. **中文**：她拿着扫帚把落叶打扫干净了。
-   **英文**：She swept the patio floor clean with a broom yesterday.
-   > **解析**：swept 是 sweep 的过去式，表示“打扫/扫除”。
+16. **中文**：她摆了餐桌。
+   **英文**：She set the table.
+   > **解析**：set the table 是"摆餐具"；set 的过去式仍为 set。
 
-17. **中文**：孩子们正在楼上的卧室里高兴地玩游戏。
-   **英文**：The children are playing games upstairs in their bedroom.
-   > **解析**：upstairs 表示“楼上/在楼上”。
+17. **中文**：我通常七点醒来。
+   **英文**：I normally wake up at seven.
+   > **解析**：normally 是频率副词；wake up 是"醒来"，at seven 是时间点。
 
-18. **中文**：请把你的车辆停放在指定的车道上。
-   **英文**：Park your motor vehicle inside the designated driveway.
-   > **解析**：vehicle 表示“车辆/交通工具”。
+18. **中文**：那是个特殊的场合。
+   **英文**：It was a special occasion.
+   > **解析**：occasion 是可数名词；special 修饰 occasion。
 
-19. **中文**：闹钟每天早晨六点半准时叫醒我。
-   **英文**：My alarm clock wakes me up at six-thirty every morning.
-   > **解析**：wakes...up / wake up 表示“醒来/叫醒”。
+19. **中文**：猫喜欢躺在床上。
+   **英文**：The cat likes to lie on the bed.
+   > **解析**：lie 是不及物动词"躺"；to lie 是不定式作 likes 的宾语。
 
-20. **中文**：今天清晨我是被窗外清脆的鸟鸣声叫醒的。
-   **英文**：I was woken up early this morning by birds singing outside.
-   > **解析**：woken up 是 wake up 的被动/完成形式。
+20. **中文**：我把钥匙放在了桌上。
+   **英文**：I laid the keys on the table.
+   > **解析**：laid 是 lay（放置）的过去式，及物动词接宾语 the keys。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. They decided to adopt a puppy from the local shelter.
-   > **中文**：他们决定从动物收容所领养一只可爱的小狗。
+1. They adopted a dog.
+   > **中文**：他们领养了一只狗。
 
-2. The young couple moved into the apartment next door last week.
-   > **中文**：那对年轻夫妻上周刚搬进了隔壁的公寓。
+2. The couple next door is friendly.
+   > **中文**：隔壁那对夫妻很友好。
 
-3. My new roommate is very easygoing and helpful around the house.
-   > **中文**：我的新室友性格非常随和，极易相处。
+3. He didn't stop by yesterday.
+   > **中文**：他昨天没顺道过来。
 
-4. We set up the largest room upstairs as a guest room.
-   > **中文**：我们把二楼最大的房间布置成了客房。
+4. She is easygoing.
+   > **中文**：她很随和。
 
-5. Use the electric kettle to boil water for tea.
-   > **中文**：请用电水壶烧开水来冲泡热茶。
+5. I like her personality.
+   > **中文**：我喜欢她的性格。
 
-6. The worker climbed the wooden ladder to clean the roof.
-   > **中文**：工人爬上木梯去清理屋顶上的树叶。
+6. He has a great sense of humor.
+   > **中文**：他很有幽默感。
 
-7. The kind lady who lives next door often helps collect packages.
-   > **中文**：住在隔壁的那位亲切的女士常帮我们收快递。
+7. The guest room is clean.
+   > **中文**：客房很干净。
 
-8. Our neighbor next door invited us over for lunch today.
-   > **中文**：住在隔壁的邻居经常在大热天请我们吃冰淇淋。
+8. My bedroom is upstairs.
+   > **中文**：我的卧室在楼上。
 
-9. Normally, we have dinner together at seven in the evening.
-   > **中文**：在正常情况下，我们会在晚上七点吃晚餐。
+9. The store is next door.
+   > **中文**：商店就在隔壁。
 
-10. We held a family dinner party to mark the special occasion.
-   > **中文**：为庆祝这一特别场合，我们在家里举办了晚宴。
+10. They bought the property.
+   > **中文**：他们买下了这处房产。
 
-11. Her warm personality makes her popular among all the neighbors.
-   > **中文**：她外向开朗的个性使她在小区里大受欢迎。
+11. I'll put the kettle on.
+   > **中文**：我去烧壶水。
 
-12. The residential property includes a big house and a garden.
-   > **中文**：这片地产包含一栋大房子和一个漂亮的私人花园。
+12. The ladder is tall.
+   > **中文**：这架梯子很高。
 
-13. His great sense of humor always makes everyone in the room laugh.
-   > **中文**：他出色的幽默感总能让客厅里充满欢声笑语。
+13. He drives an old vehicle.
+   > **中文**：他开着一辆旧车。
 
-14. Can you stop by my place on your way home tonight?
-   > **中文**：你今晚下班回家路上有空顺道拜访我家吗？
+14. Please stop by for tea.
+   > **中文**：请顺道来喝杯茶。
 
-15. Never open the front door to a complete stranger.
-   > **中文**：请不要轻易给敲门的陌生人开门。
+15. I make coffee every morning.
+   > **中文**：我每天早上煮咖啡。
 
-16. She swept the patio floor clean with a broom yesterday.
-   > **中文**：她拿着扫帚把落叶打扫干净了。
+16. She set the table for dinner.
+   > **中文**：她为晚餐摆好了餐具。
 
-17. The children are playing games upstairs in their bedroom.
-   > **中文**：孩子们正在楼上的卧室里高兴地玩游戏。
+17. I normally wake up at six.
+   > **中文**：我通常六点醒来。
 
-18. Park your motor vehicle inside the designated driveway.
-   > **中文**：请把你的车辆停放在指定的车道上。
+18. It was a special occasion.
+   > **中文**：那是个特殊的场合。
 
-19. My alarm clock wakes me up at six-thirty every morning.
-   > **中文**：闹钟每天早晨六点半准时叫醒我。
+19. The dog lay on the floor.
+   > **中文**：狗躺在地板上。
 
-20. I was woken up early this morning by birds singing outside.
-   > **中文**：今天清晨我是被窗外清脆的鸟鸣声叫醒的。
+20. I have woken up early every day this week.
+   > **中文**：这周我每天都早醒。
 
 </quiz-listening>
 
@@ -207,26 +202,47 @@ used to（词表中写作 use to，在否定和疑问中体现为 didn't use to�
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| adopt | 领养 / 收养 |
-| couple | 夫妻 / 一对 |
+| adopt | 收养 |
+| couple | 一对夫妻 |
+| didn't | 没有（过去否定） |
 | easygoing | 随和的 |
 | guest room | 客房 |
 | kettle | 水壶 |
 | ladder | 梯子 |
 | lady | 女士 |
+| lay | 放置 |
+| lie | 躺 |
+| make | 做 / 制作 |
 | next door | 隔壁 |
 | normally | 通常 |
-| occasion | 场合 / 时机 |
-| personality | 个性 / 性格 |
-| property | 房产 / 资产 |
+| occasion | 场合 |
+| personality | 性格 |
+| property | 房产 |
 | sense of humor | 幽默感 |
+| set | 摆放 / 设置 |
 | stop by | 顺道拜访 |
 | stranger | 陌生人 |
-| swept | 打扫了（sweep的过去式） |
-| upstairs | 楼上 |
-| vehicle | 车辆 / 交通工具 |
-| wake up | 醒来 / 叫醒 |
-| woken up | 被叫醒（wake up的过去分词） |
+| swept | 打扫（过去式） |
+| upstairs | 在楼上 |
+| use to | 过去常常（used to） |
+| vehicle | 车辆 |
+| wake up | 醒来 |
+| woken up | 醒来（过去分词） |
+| is | 是（单数） |
+| was | 是（过去式） |
+| are | 是（复数） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| my | 我的 |
+| her | 她（宾格）/ 她的 |
+| he | 他 |
+| she | 她 |
+| they | 他们 |
+| don't | 不（否定） |
+| to | 到 / 向 |
+| on | 在……上 |
+| at | 在 |
+| for | 为了 |
 
 </quiz-matching>
 
@@ -234,202 +250,202 @@ used to（词表中写作 use to，在否定和疑问中体现为 didn't use to�
 
 ### 1
 
-They decided to ____ a puppy from the local shelter.
+They ____ a cat from the shelter last year.
 
-- [x] adopt
-- [ ] couple
-- [ ] didn't
+- [x] adopted
+- [ ] adopt
+- [ ] adopting
 
-> **解析**：**adopt** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：last year 提示过去时，用 adopted；adopting 不能单独作谓语。
 
 ### 2
 
-The young ____ moved into the apartment next door last week.
+A young ____ with a baby lives next door.
 
 - [x] couple
-- [ ] adopt
-- [ ] didn't
+- [ ] kettle
+- [ ] ladder
 
-> **解析**：**couple** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：带着宝宝住在隔壁的是一对夫妻 couple；kettle 和 ladder 是物品。
 
 ### 3
 
-My new roommate is very ____ and helpful around the house.
+An elderly ____ asked me for help.
 
-- [x] easygoing
-- [ ] adopt
-- [ ] couple
+- [x] lady
+- [ ] kettle
+- [ ] property
 
-> **解析**：**easygoing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：寻求帮助的是女士 lady；kettle 和 property 不是人。
 
 ### 4
 
-We ____ up the largest room upstairs as a guest room.
+Don't open the door to ____.
 
-- [x] set
-- [ ] adopt
-- [ ] couple
+- [x] strangers
+- [ ] stranger
+- [ ] strangely
 
-> **解析**：**set** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：泛指陌生人用复数 strangers；stranger 单数前需冠词，strangely 是副词。
 
 ### 5
 
-Use the electric ____ to boil water for tea.
+My new roommate is very ____.
 
-- [x] kettle
-- [ ] adopt
-- [ ] couple
+- [x] easygoing
+- [ ] easily
+- [ ] easiness
 
-> **解析**：**kettle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 easygoing；easily 是副词，easiness 是名词。
 
 ### 6
 
-The worker climbed the wooden ____ to clean the roof.
+I love her cheerful ____.
 
-- [x] ladder
-- [ ] adopt
-- [ ] couple
+- [x] personality
+- [ ] personal
+- [ ] personally
 
-> **解析**：**ladder** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：her 后需要名词 personality；personal 是形容词，personally 是副词。
 
 ### 7
 
-The kind ____ who lives next door often helps collect packages.
+He has a great sense of ____.
 
-- [x] lady
-- [ ] adopt
-- [ ] couple
+- [x] humor
+- [ ] humorous
+- [ ] humoring
 
-> **解析**：**lady** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：sense of humor 是"幽默感"的固定短语；humorous 是形容词。
 
 ### 8
 
-Our ____ next door invited us over for lunch today.
+The guest ____ is upstairs.
 
-- [x] neighbor
-- [ ] adopt
-- [ ] couple
+- [x] room
+- [ ] kettle
+- [ ] ladder
 
-> **解析**：**neighbor** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：guest room 是"客房"的固定搭配；kettle 和 ladder 语义不符。
 
 ### 9
 
-____, we have dinner together at seven in the evening.
+We live at number 12, and our friends live at number 14, right ____.
 
-- [x] Normally
-- [ ] adopt
-- [ ] couple
+- [x] next door
+- [ ] upstairs
+- [ ] occasion
 
-> **解析**：**Normally** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：门牌相邻说明住在隔壁 next door；upstairs 指楼上，occasion 是场合。
 
 ### 10
 
-We held a family dinner party to mark the special ____.
+They bought the ____ last year.
 
-- [x] occasion
-- [ ] adopt
-- [ ] couple
+- [x] property
+- [ ] personality
+- [ ] kettle
 
-> **解析**：**occasion** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能购买的是房产 property；personality 和 kettle 语义不符。
 
 ### 11
 
-Her warm ____ makes her popular among all the neighbors.
+I'll put the ____ on for some tea.
 
-- [x] personality
-- [ ] adopt
-- [ ] couple
+- [x] kettle
+- [ ] ladder
+- [ ] vehicle
 
-> **解析**：**personality** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：烧水泡茶用水壶 kettle；ladder 和 vehicle 与泡茶无关。
 
 ### 12
 
-The residential ____ includes a big house and a garden.
+He climbed the ____ to fix the roof.
 
-- [x] property
-- [ ] adopt
-- [ ] couple
+- [x] ladder
+- [ ] kettle
+- [ ] stranger
 
-> **解析**：**property** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修屋顶要爬梯子 ladder；kettle 和 stranger 不能攀爬。
 
 ### 13
 
-His great sense of humor always makes ____ in the room laugh.
+She parked her ____ outside.
 
-- [x] everyone
-- [ ] adopt
-- [ ] couple
+- [x] vehicle
+- [ ] lady
+- [ ] humor
 
-> **解析**：**everyone** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能停放的是车辆 vehicle；lady 和 humor 不能被 park。
 
 ### 14
 
-Can you stop by my place on your way home ____?
+Please stop ____ when you're in town.
 
-- [x] tonight
-- [ ] adopt
-- [ ] couple
+- [x] by
+- [ ] of
+- [ ] for
 
-> **解析**：**tonight** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：stop by 是"顺道拜访"的固定短语；of 和 for 不构成该含义。
 
 ### 15
 
-Never open the front door to a complete ____.
+I ____ my bed every morning.
 
-- [x] stranger
-- [ ] adopt
-- [ ] couple
+- [x] make
+- [ ] made
+- [ ] making
 
-> **解析**：**stranger** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：every morning 提示一般现在时，主语 I 用 make；making 不能单独作谓语。
 
 ### 16
 
-She ____ the patio floor clean with a broom yesterday.
+She ____ the table before dinner yesterday.
 
-- [x] swept
-- [ ] adopt
-- [ ] couple
+- [x] set
+- [ ] sets
+- [ ] setting
 
-> **解析**：**swept** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 提示过去时，set 过去式仍为 set；sets 是三单现在时。
 
 ### 17
 
-The children are playing games ____ in their bedroom.
+I ____ wake up at seven.
 
-- [x] upstairs
-- [ ] adopt
-- [ ] couple
+- [x] normally
+- [ ] normal
+- [ ] normals
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **upstairs**。
+> **解析**：修饰动词 wake up 需要副词 normally；normal 是形容词。
 
 ### 18
 
-Park your motor ____ inside the designated driveway.
+It was a special ____.
 
-- [x] vehicle
-- [ ] adopt
-- [ ] couple
+- [x] occasion
+- [ ] property
+- [ ] swept
 
-> **解析**：**vehicle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：特殊的场合用 occasion；property 是房产，swept 是动词过去式。
 
 ### 19
 
-My alarm clock wakes me up at ____ every morning.
+The cat likes to ____ in the sun.
 
-- [x] six-thirty
-- [ ] adopt
-- [ ] couple
+- [x] lie
+- [ ] lay
+- [ ] laid
 
-> **解析**：**six-thirty** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：晒太阳是"躺"，用不及物动词 lie；lay 和 laid 是及物的"放置"。
 
 ### 20
 
-I was woken up early this ____ by birds singing outside.
+I have ____ up at six every day this week.
 
-- [x] morning
-- [ ] adopt
-- [ ] couple
+- [x] woken
+- [ ] woke
+- [ ] wake
 
-> **解析**：**morning** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：have 后需要过去分词 woken；woke 是过去式，wake 是原形。
 
 </quiz-cloze>

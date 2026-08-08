@@ -10,42 +10,35 @@ back, camp, clearly, get, hit it off, homesick, irresponsible, junk food, long-d
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"分享过去的回忆"展开，场景是朋友或老同学一起怀旧。词表里有回忆触发表达（remember when, remember that time, back, clearly），有友谊与关系词汇（hit it off, lose touch, nothing in common, long-distance, take turns），也有童年/青春记忆（camp, parade, sneak out, junk food, trick, homesick, irresponsible）。你可以用这些词回忆过去：Remember when we'd sneak out of camp to get junk food? / We hit it off right away—no wonder, we had so much in common. / Back then, we'd take turns telling tricks at the parade. / I clearly remember that time we got lost on the long-distance bus. / We lost touch, but the memories are still memorable.
+本单元的主题是"分享过去的回忆"，从夏令营聊到老朋友。词表分成三组：回忆触发短语（remember that time, remember when, we'd, would, back）、童年冒险内容（camp, sneak out, junk food, parade, trick, take turns）、以及友情与距离表达（hit it off, lose touch, lose track, nothing in common, homesick, long-distance, memorable, positive）、再加语气与评价词（clearly, no wonder, irresponsible, talk, get）。拼起来就是一段完整的怀旧对话：Remember when we were at camp? We'd sneak out and get junk food. Remember that time at the parade? No wonder you were homesick.
 
-这里值得注意 we'd = we would，在回忆语境中表示"过去常常做的事"：We'd stay up all night talking. 这种用法和 used to 类似，但更有画面感和怀旧情绪。remember when / remember that time 是开启回忆话题的经典句式。
+语法主线有三条。第一条是 would / we'd 回忆过去反复发生的动作：We'd always take turns. ——这是怀旧叙事的招牌句型，比 used to 更带画面感。第二条是回忆引导语：Remember when... / Remember that time...，直接唤起共同记忆。第三条是友情动态词汇链：hit it off（一见如故）→ nothing in common（没有共同点）→ lose touch（失去联系）→ lose track（断了音讯）——把一段关系的起落说清楚。
 
-学完本单元，你可以用英语分享美好回忆、描述过去的友谊，并感叹时光流逝。
+学完这些词，你能讲童年趣事、叙旧友离合、评价过去的自己——怀旧是拉近距离最快的话题。
 
 ## Tips
 
-- **remember when / remember that time** — 开启回忆的经典句式。搭配：Remember when we used to...? / Remember that time we...?。Remember when we'd sneak out? / Remember that time at camp? 注意 remember when 后接从句，remember that time 后也接从句或 of。
+- **would / we'd** — 怀旧句型的核心。would 表示过去反复的习惯：We'd play outside every day. we'd 是 we would 的缩写。注意：表过去状态（be、live 等）更常用 used to，但动作习惯两者皆可。
 
-- **we'd / would** — we'd = we would，在回忆中表"过去常常"。搭配：We'd play all day. / We would talk for hours. 这种 would 表过去的习惯，和 used to 类似，但更有叙事感和画面感。注意 would 不能表过去的状态：× We'd be young.（用 used to be）
+- **remember when / remember that time** — 两个回忆触发器。Remember when we lived near the lake? Remember that time at camp? 前者接从句，后者接短语，都是"还记得……吗"的开场白。
 
-- **hit it off** — 一见如故、很合得来。搭配：hit it off with sb, hit it off right away。We hit it off the moment we met. 注意 hit it off 是不及物的，不接宾语（× hit it off him），要用 with：I hit it off with her.
+- **hit it off / nothing in common** — 友情两极。hit it off 是"一见如故、聊得来"：We hit it off right away. nothing in common 是"毫无共同点"：We have nothing in common now. 一热一冷，正好描述关系的变化。
 
-- **lose touch / lose track** — lose touch = 失去联系（与人），lose track = 失去追踪（对事/时间）。搭配：lose touch with a friend, lose track of time。We lost touch after camp. / I lost track of how many years it's been. 注意 lose touch 对人，lose track 对事。
+- **lose touch / lose track** — 失联双短语。lose touch 是"失去联系"：We lost touch after camp. lose track 是"跟丢、断了音讯"：I lost track of him years ago. track 原义是"踪迹"。
 
-- **sneak out** — 偷偷溜出去。搭配：sneak out of the house, sneak out at night。We used to sneak out of camp after bedtime. 注意 sneak 的过去式是 sneaked（美式也可用 snuck）。sneak 强调"偷偷地、不被发现"。
+- **sneak out** — "偷偷溜出去"：We'd sneak out at night. sneak 的过去式 sneaked（美式口语也用 snuck）。冒险叙事的必备动词。
 
-- **homesick / irresponsible** — homesick 是想家的，irresponsible 是不负责任的。搭配：feel homesick, be irresponsible。I was homesick at camp, but we'd sneak out and feel better. / Looking back, we were pretty irresponsible. 构词：home + sick；ir- + responsible。
+- **homesick** — "想家的"：I was homesick at camp. home（家）+ sick（难受）的合成词，构词逻辑直白好记。
 
-- **junk food / parade** — junk food 是垃圾食品，parade 是游行/巡游。搭配：eat junk food, a parade, watch a parade。We'd buy junk food and watch the parade. 注意 junk food 不可数：× junk foods（除非指多种类型）。
+- **long-distance** — "长途的"：a long-distance call（长途电话）。也常见于 long-distance friendship（异地友情）、long-distance running（长跑）。
 
-- **no wonder** — 难怪、怪不得。搭配：no wonder..., it's no wonder。No wonder we hit it off—we had so much in common. 用于表示"知道了原因后，结果就不奇怪了"。No wonder you're tired—you stayed up all night.
+- **take turns / get / talk** — take turns 是"轮流"：take turns telling stories. get 在此主题常指"买、弄到"：get junk food. talk 指聊天叙旧：We talked for hours.
 
-- **nothing in common** — 没有共同点。搭配：have nothing in common, nothing in common with。We had nothing in common at first, but we still hit it off. 反义：have a lot in common。注意搭配是 have ... in common。
+- **junk food / parade / trick / camp** — 童年素材四词。junk food 垃圾食品；parade 游行；trick 把戏、恶作剧（play a trick on）；camp 夏令营（summer camp）。
 
-- **memorable / positive** — memorable 是难忘的，positive 是积极的/正面的。搭配：a memorable experience, a positive memory, stay positive。That trip was so memorable. / I try to keep the memories positive. 注意 memorable 强调"值得记住"，不一定都是快乐的。
-
-- **take turns / clearly** — take turns = 轮流，clearly = 清楚地。搭配：take turns doing sth, clearly remember。We'd take turns telling stories. / I clearly remember that night. 注意 take turns 后接 doing：take turns driving（不是 × take turns to drive，虽然口语也听到）。
-
-- **back / camp / trick** — back 在这里指"以前、过去"，camp 是夏令营，trick 是恶作剧/把戏。搭配：back in the day, summer camp, play a trick on。Back at camp, we played tricks on each other. 注意 back 单独使用可表"回到"或"以前"，要看语境。
-
-- **long-distance / talk** — long-distance 是长途的（电话/关系），talk 是聊天。搭配：a long-distance call, long-distance friendship, talk for hours。We had a long-distance friendship after camp. / We'd talk all night. 注意 long-distance 作形容词加连字符。
+- **memorable / positive / clearly / no wonder / irresponsible** — 评价词群。memorable 是"难忘的"（memory 同源）；positive 是"积极的"；clearly 是"显然"；no wonder 是"难怪"：No wonder you were homesick. irresponsible 是"不负责任的"（ir- + responsible）。
 
 ## 练习
 
@@ -63,176 +56,186 @@ back, camp, clearly, get, hit it off, homesick, irresponsible, junk food, long-d
 
 <quiz-sentence-builder>
 
-1. **中文**：还记得我们过去常常在晚上偷偷溜出夏营吗？
-   **英文**：Remember when we used to sneak out of camp at night?
-   > **解析**：sneak out 意为偷偷溜出去。
+1. **中文**：还记得我们住在湖边的那段日子吗？
+   **英文**：Remember when we lived near the lake?
+   > **解析**：Remember when + 从句是唤起共同回忆的句型；lived 用一般过去时。
 
-2. **中文**：还记得那次我们整晚不睡吃垃圾食品吗？
-   **英文**：Remember that time we stayed up all night eating junk food?
-   > **解析**：junk food 意为垃圾食品。
+2. **中文**：还记得夏令营那次吗？
+   **英文**：Remember that time at camp?
+   > **解析**：Remember that time 后接地点短语 at camp；that time 指特定的过去时刻。
 
-3. **中文**：我们过去常轮流在篝火旁讲鬼故事。
-   **英文**：We'd take turns telling ghost stories around the campfire.
-   > **解析**：take turns 意为轮流。
+3. **中文**：我们过去总是轮流讲故事。
+   **英文**：We'd always take turns telling stories.
+   > **解析**：We'd 是 We would 的缩写，表过去反复的习惯；take turns doing 是"轮流做"的搭配。
 
-4. **中文**：虽然一开始我们没有任何共同点，但我们立刻就一见如故。
-   **英文**：We hit it off right away, even though we had nothing in common at first.
-   > **解析**：hit it off 意为一见如故、相处融洽。
+4. **中文**：我们以前常常半夜偷偷溜出去。
+   **英文**：We would sneak out at midnight.
+   > **解析**：would 表过去的习惯动作；sneak out 是"偷偷溜出去"的短语。
 
-5. **中文**：当你搬到另一个城市时，很容易失去联系。
-   **英文**：It's easy to lose touch when you move to another city.
-   > **解析**：lose touch 意为失去联系。
+5. **中文**：我们会去街角买垃圾食品。
+   **英文**：We'd get junk food from the corner store.
+   > **解析**：get 此处指"买"；from the corner store 是来源状语。
 
-6. **中文**：难怪你在夏令营的第一周感到想家。
-   **英文**：No wonder you felt homesick during your first week at camp.
-   > **解析**：homesick 意为想家的。
+6. **中文**：我们一见如故。
+   **英文**：We hit it off right away.
+   > **解析**：hit it off 是"一拍即合"的固定短语，it 不可省略；right away 是"立刻"。
 
-7. **中文**：回想起来，我们当时是如此鲁莽和不负责任。
-   **英文**：Looking back, we were so reckless and irresponsible.
-   > **解析**：irresponsible 意为不负责任的。
+7. **中文**：现在我们没有任何共同点了。
+   **英文**：We have nothing in common now.
+   > **解析**：have nothing in common 是"毫无共同点"的固定表达；now 是时间状语。
 
-8. **中文**：我清晰地记得和家人一起观看年度游行。
-   **英文**：I clearly remember watching the annual parade with my family.
-   > **解析**：parade 意为游行、巡游。
+8. **中文**：夏令营结束后我们就失去了联系。
+   **英文**：We lost touch after camp.
+   > **解析**：lost touch 是 lose touch 的过去式；after camp 是时间状语。
 
-9. **中文**：高中时我们有很多难忘的时刻。
-   **英文**：We had so many memorable moments back in high school.
-   > **解析**：memorable 意为难忘的。
+9. **中文**：我很多年前就跟他断了音讯。
+   **英文**：I lost track of him years ago.
+   > **解析**：lose track of 是"跟丢、断了音讯"的搭配；years ago 表过去时间。
 
-10. **中文**：我们过去常在长途电话里聊上几个小时。
-   **英文**：We used to talk for hours on long-distance calls.
-   > **解析**：long-distance 意为长途的。
+10. **中文**：那时候我在夏令营特别想家。
+    **英文**：I was so homesick at camp back then.
+    > **解析**：homesick 形容词作表语；back then 是"那时候"的时间短语。
 
-11. **中文**：在捉弄邻居的时候，我忘了时间。
-   **英文**：I lost track of time while playing tricks on my neighbors.
-   > **解析**：lose track 意为失去追踪、忘记（时间）。
+11. **中文**：难怪你那么想家。
+    **英文**：No wonder you were so homesick.
+    > **解析**：No wonder + 从句表示"难怪……"；were 与过去语境一致。
 
-12. **中文**：尽管面临挑战，她总是保持积极的态度。
-   **英文**：She always kept a positive attitude despite the challenges.
-   > **解析**：positive 意为积极的、正面的。
+12. **中文**：那次游行真让人难忘。
+    **英文**：That parade was so memorable.
+    > **解析**：memorable 形容词作表语；so 加强程度。
 
-13. **中文**：我们过去整夏天都在湖边夏令营度过。
-   **英文**：We'd spend all summer at the lake camp.
-   > **解析**：camp 意为夏令营、营地。
+13. **中文**：我们过去常给彼此打长途电话。
+    **英文**：We used to make long-distance calls.
+    > **解析**：used to + 动词原形表过去的习惯；long-distance 作形容词修饰 calls。
 
-14. **中文**：难怪他们成了最好的朋友。
-   **英文**：It is no wonder that they became best friends.
-   > **解析**：no wonder 意为难怪、怪不得。
+14. **中文**：显然你已经忘记了那个把戏。
+    **英文**：Clearly, you have forgotten that trick.
+    > **解析**：Clearly 是句首副词表"显然"；现在完成时表示对现在的影响。
 
-15. **中文**：离开家后的第一个月，我感到想家。
-   **英文**：I felt homesick during my first month away from home.
-   > **解析**：homesick 意为想家的。
+15. **中文**：偷偷溜出去太不负责任了。
+    **英文**：Sneaking out was irresponsible.
+    > **解析**：动名词 Sneaking out 作主语，谓语用单数 was；irresponsible 作表语。
 
-16. **中文**：长途自驾游时他们会轮流开车。
-   **英文**：They would take turns driving on long road trips.
-   > **解析**：would 在回忆语境中表过去常常。
+16. **中文**：我们过去常对辅导员搞恶作剧。
+    **英文**：We'd play tricks on our counselor.
+    > **解析**：play tricks on 是"对……搞恶作剧"的搭配；would 表过去习惯。
 
-17. **中文**：他对室友耍了个搞笑的恶作剧。
-   **英文**：He played a funny trick on his roommate.
-   > **解析**：trick 意为恶作剧、把戏。
+17. **中文**：我们会聊上几个小时。
+    **英文**：We'd talk for hours.
+    > **解析**：would 表反复动作；for hours 是持续时间段。
 
-18. **中文**：我们第一次见面时没有任何共同点。
-   **英文**：We had nothing in common when we first met.
-   > **解析**：nothing in common 意为没有共同点。
+18. **中文**：我对那段回忆持积极态度。
+    **英文**：I have positive memories of that time.
+    > **解析**：positive 形容词修饰 memories；of that time 是后置定语。
 
-19. **中文**：过去，我们没有智能手机。
-   **英文**：Back in the day, we did not have smartphones.
-   > **解析**：back in the day 意为过去、以前。
+19. **中文**：那时候的我们真傻。
+    **英文**：We were so silly back then.
+    > **解析**：back then 是"那时候"的时间短语放句尾；were 与复数主语一致。
 
-20. **中文**：我清楚地记得那次旅行的每一个细节。
-   **英文**：I clearly recall every single details of that trip.
-   > **解析**：clearly 意为清楚地、明确地。
+20. **中文**：你回来的时候一定要告诉我。
+    **英文**：You must tell me when you get back.
+    > **解析**：must 后接动词原形 tell；when 引导时间从句，get back 是"回来"。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Remember when we used to sneak out of camp at night?
-   > **中文**：还记得我们过去常常在晚上偷偷溜出夏营吗？
+1. Remember when we lived near the lake?
+   > **中文**：还记得我们住在湖边的那段日子吗？
 
-2. Remember that time we stayed up all night eating junk food?
-   > **中文**：还记得那次我们整晚不睡吃垃圾食品吗？
+2. Remember that time at camp?
+   > **中文**：还记得夏令营那次吗？
 
-3. We'd take turns telling ghost stories around the campfire.
-   > **中文**：我们过去常轮流在篝火旁讲鬼故事。
+3. We'd always take turns telling stories.
+   > **中文**：我们过去总是轮流讲故事。
 
-4. We hit it off right away, even though we had nothing in common at first.
-   > **中文**：虽然一开始我们没有任何共同点，但我们立刻就一见如故。
+4. We would sneak out at midnight.
+   > **中文**：我们以前常常半夜偷偷溜出去。
 
-5. It's easy to lose touch when you move to another city.
-   > **中文**：当你搬到另一个城市时，很容易失去联系。
+5. We'd get junk food from the corner store.
+   > **中文**：我们会去街角买垃圾食品。
 
-6. No wonder you felt homesick during your first week at camp.
-   > **中文**：难怪你在夏令营的第一周感到想家。
+6. We hit it off right away.
+   > **中文**：我们一见如故。
 
-7. Looking back, we were so reckless and irresponsible.
-   > **中文**：回想起来，我们当时是如此鲁莽和不负责任。
+7. We have nothing in common now.
+   > **中文**：现在我们没有任何共同点了。
 
-8. I clearly remember watching the annual parade with my family.
-   > **中文**：我清晰地记得和家人一起观看年度游行。
+8. We lost touch after camp.
+   > **中文**：夏令营结束后我们就失去了联系。
 
-9. We had so many memorable moments back in high school.
-   > **中文**：高中时我们有很多难忘的时刻。
+9. I lost track of him years ago.
+   > **中文**：我很多年前就跟他断了音讯。
 
-10. We used to talk for hours on long-distance calls.
-   > **中文**：我们过去常在长途电话里聊上几个小时。
+10. I was so homesick at camp back then.
+    > **中文**：那时候我在夏令营特别想家。
 
-11. I lost track of time while playing tricks on my neighbors.
-   > **中文**：在捉弄邻居的时候，我忘了时间。
+11. No wonder you were so homesick.
+    > **中文**：难怪你那么想家。
 
-12. She always kept a positive attitude despite the challenges.
-   > **中文**：尽管面临挑战，她总是保持积极的态度。
+12. That parade was so memorable.
+    > **中文**：那次游行真让人难忘。
 
-13. We'd spend all summer at the lake camp.
-   > **中文**：我们过去整夏天都在湖边夏令营度过。
+13. We used to make long-distance calls.
+    > **中文**：我们过去常给彼此打长途电话。
 
-14. It is no wonder that they became best friends.
-   > **中文**：难怪他们成了最好的朋友。
+14. Clearly, you have forgotten that trick.
+    > **中文**：显然你已经忘记了那个把戏。
 
-15. I felt homesick during my first month away from home.
-   > **中文**：离开家后的第一个月，我感到想家。
+15. Sneaking out was irresponsible.
+    > **中文**：偷偷溜出去太不负责任了。
 
-16. They would take turns driving on long road trips.
-   > **中文**：长途自驾游时他们会轮流开车。
+16. We'd play tricks on our counselor.
+    > **中文**：我们过去常对辅导员搞恶作剧。
 
-17. He played a funny trick on his roommate.
-   > **中文**：他对室友耍了个搞笑的恶作剧。
+17. We'd talk for hours.
+    > **中文**：我们会聊上几个小时。
 
-18. We had nothing in common when we first met.
-   > **中文**：我们第一次见面时没有任何共同点。
+18. I have positive memories of that time.
+    > **中文**：我对那段回忆持积极态度。
 
-19. Back in the day, we did not have smartphones.
-   > **中文**：过去，我们没有智能手机。
+19. We were so silly back then.
+    > **中文**：那时候的我们真傻。
 
-20. I clearly recall every single details of that trip.
-   > **中文**：我清楚地记得那次旅行的每一个细节。
+20. You must tell me when you get back.
+    > **中文**：你回来的时候一定要告诉我。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| remember when | 还记得……的时候吗 |
-| remember that time | 还记得那次……吗 |
-| hit it off | 一见如故；合得来 |
-| lose touch | 失去联系 |
-| lose track | 忘记（时间）；失去追踪 |
-| sneak out | 偷偷溜出去 |
+| --- | --- |
+| back | 回来；后面 |
+| camp | 夏令营 |
+| clearly | 显然 |
+| get | 得到；买 |
+| hit it off | 一见如故 |
 | homesick | 想家的 |
 | irresponsible | 不负责任的 |
 | junk food | 垃圾食品 |
-| parade | 游行；巡游 |
-| no wonder | 难怪；怪不得 |
-| nothing in common | 没有共同点 |
-| memorable | 难忘的 |
-| positive | 积极的；正面的 |
-| take turns | 轮流 |
-| clearly | 清楚地 |
-| camp | 夏令营；营地 |
-| trick | 恶作剧；把戏 |
 | long-distance | 长途的 |
-| back | 过去；以前 |
+| lose touch | 失去联系 |
+| lose track | 断了音讯 |
+| memorable | 难忘的 |
+| no wonder | 难怪 |
+| nothing in common | 没有共同点 |
+| parade | 游行 |
+| positive | 积极的 |
+| remember that time | 还记得那次 |
+| remember when | 还记得……的时候 |
+| sneak out | 偷偷溜出去 |
+| take turns | 轮流 |
+| talk | 聊天 |
+| trick | 把戏；恶作剧 |
+| we'd | we would 的缩写 |
+| would | 过去常常 |
+| lake | 湖 |
+| story | 故事 |
+| phone | 电话 |
+| memory | 回忆 |
+| counselor | 辅导员 |
+| corner | 街角 |
 
 </quiz-matching>
 
@@ -240,202 +243,202 @@ back, camp, clearly, get, hit it off, homesick, irresponsible, junk food, long-d
 
 ### 1
 
-Remember when we used to sneak out of ____ at night?
+Remember ____ we lived near the lake?
 
-- [x] camp
-- [ ] back
-- [ ] clearly
+- [x] when
+- [ ] where
+- [ ] what
 
-> **解析**：**camp** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Remember when + 时间从句唤起回忆；where 虽指地点但与 lived near the lake 语义重复，what 不合从句结构。
 
 ### 2
 
-____ that time we stayed up all night eating junk food?
+Remember that time ____ camp?
 
-- [x] Remember
-- [ ] back
-- [ ] camp
+- [x] at
+- [ ] in
+- [ ] on
 
-> **解析**：**Remember** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：at camp 是"在营地"的固定表达；in camp 非习惯用法，on 不合。
 
 ### 3
 
-____ take turns telling ghost stories around the campfire.
+We'd always take ____ telling stories.
 
-- [x] We'd
-- [ ] back
-- [ ] camp
+- [x] turns
+- [ ] turn
+- [ ] turning
 
-> **解析**：**We'd** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：take turns doing 是"轮流做"的固定搭配，turns 必须用复数；turn 单数不合，turning 不合此结构。
 
 ### 4
 
-We hit it off right away, even though we had ____ in common at first.
+We would ____ out at midnight.
 
-- [x] nothing
-- [ ] back
-- [ ] camp
+- [x] sneak
+- [ ] sneaked
+- [ ] sneaking
 
-> **解析**：**nothing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：would 后接动词原形 sneak；sneaked 是过去式，sneaking 不合此结构。
 
 ### 5
 
-It's easy to lose touch when you move to ____ city.
+We'd get junk ____ from the store.
 
-- [x] another
-- [ ] back
-- [ ] camp
+- [x] food
+- [ ] foods
+- [ ] foot
 
-> **解析**：**another** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：junk food 是"垃圾食品"的固定短语，food 此处不可数；foot 是"脚"，语义不合。
 
 ### 6
 
-No wonder you felt ____ during your first week at camp.
+We hit it ____ right away.
 
-- [x] homesick
-- [ ] back
-- [ ] camp
+- [x] off
+- [ ] on
+- [ ] out
 
-> **解析**：**homesick** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：hit it off 是"一见如故"的固定短语；hit it on/out 不构成该表达。
 
 ### 7
 
-Looking ____, we were so reckless and irresponsible.
+We have nothing in ____ now.
 
-- [x] back
-- [ ] camp
-- [ ] clearly
+- [x] common
+- [ ] commons
+- [ ] commoning
 
-> **解析**：**back** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：have nothing in common 是固定表达；common 不加复数，commoning 不存在。
 
 ### 8
 
-I ____ remember watching the annual parade with my family.
+We lost ____ after camp.
 
-- [x] clearly
-- [ ] back
-- [ ] camp
+- [x] touch
+- [ ] touches
+- [ ] touched
 
-> **解析**：**clearly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：lose touch 是"失去联系"的固定搭配，touch 用单数；touches/touched 不合此短语。
 
 ### 9
 
-We had so many ____ moments back in high school.
+I lost track ____ him years ago.
 
-- [x] memorable
-- [ ] back
-- [ ] camp
+- [x] of
+- [ ] with
+- [ ] for
 
-> **解析**：**memorable** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：lose track of 是固定搭配"跟丢了某人"；with/for 不构成该短语。
 
 ### 10
 
-We used to ____ for hours on long-distance calls.
+I was so ____ at camp back then.
 
-- [x] talk
-- [ ] back
-- [ ] camp
+- [x] homesick
+- [ ] homesickness
+- [ ] homely
 
-> **解析**：**talk** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后接形容词 homesick 作表语；homesickness 是名词，homely 指"家常的、不好看的"语义不合。
 
 ### 11
 
-I lost track of time while playing tricks on my ____.
+No ____ you were so homesick.
 
-- [x] neighbors
-- [ ] back
-- [ ] camp
+- [x] wonder
+- [ ] wander
+- [ ] wonderful
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **neighbors**。
+> **解析**：no wonder 是"难怪"的固定表达；wander 是"漫步"拼写相近但语义不合，wonderful 是形容词不合此结构。
 
 ### 12
 
-She always kept a ____ attitude despite the challenges.
+That parade was so ____.
 
-- [x] positive
-- [ ] back
-- [ ] camp
+- [x] memorable
+- [ ] memory
+- [ ] memorize
 
-> **解析**：**positive** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后接形容词 memorable 作表语；memory 是名词，memorize 是动词"记忆"。
 
 ### 13
 
-____ spend all summer at the lake camp.
+We used to make ____ calls.
 
-- [x] We'd
-- [ ] back
-- [ ] camp
+- [x] long-distance
+- [ ] long-distances
+- [ ] long distanced
 
-> **解析**：**We'd** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：long-distance 是连字符形容词"长途的"；不加复数或过去分词形式。
 
 ### 14
 
-It is no wonder that they became best ____.
+____, you have forgotten that trick.
 
-- [x] friends
-- [ ] back
-- [ ] camp
+- [x] Clearly
+- [ ] Clear
+- [ ] Cleared
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **friends**。
+> **解析**：句首修饰整个句子用副词 Clearly；Clear 是形容词，Cleared 是动词过去式。
 
 ### 15
 
-I felt ____ during my first month away from home.
+Sneaking out was ____.
 
-- [x] homesick
-- [ ] back
-- [ ] camp
+- [x] irresponsible
+- [ ] responsibility
+- [ ] responsibly
 
-> **解析**：**homesick** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后接形容词 irresponsible 作表语；responsibility 是名词，responsibly 是副词。
 
 ### 16
 
-They ____ take turns driving on long road trips.
+We'd play tricks ____ our counselor.
 
-- [x] would
-- [ ] back
-- [ ] camp
+- [x] on
+- [ ] at
+- [ ] with
 
-> **解析**：**would** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：play tricks on 是"对……搞恶作剧"的搭配；with 表"跟某人玩"语义不同，at 不合。
 
 ### 17
 
-He played a funny ____ on his roommate.
+We'd talk ____ hours.
 
-- [x] trick
-- [ ] back
-- [ ] camp
+- [x] for
+- [ ] since
+- [ ] during
 
-> **解析**：**trick** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：for + 时间段表示持续时长；since 接时间点，during 接事件名词不合 hours。
 
 ### 18
 
-We had ____ in common when we first met.
+I have ____ memories of that time.
 
-- [x] nothing
-- [ ] back
-- [ ] camp
+- [x] positive
+- [ ] position
+- [ ] positively
 
-> **解析**：**nothing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：positive 形容词修饰 memories；position 是名词，positively 是副词不能修饰名词。
 
 ### 19
 
-____ in the day, we did not have smartphones.
+We were so silly back ____.
 
-- [x] Back
-- [ ] camp
-- [ ] clearly
+- [x] then
+- [ ] than
+- [ ] them
 
-> **解析**：**Back** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：back then 是"那时候"的固定短语；than 用于比较，them 是代词，均不合。
 
 ### 20
 
-I ____ recall every single details of that trip.
+You must tell me when you get ____.
 
-- [x] clearly
-- [ ] back
-- [ ] camp
+- [x] back
+- [ ] again
+- [ ] returned
 
-> **解析**：**clearly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get back 是"回来"的固定短语；get again 语义不合，returned 与 get 语义重复。
 
 </quiz-cloze>

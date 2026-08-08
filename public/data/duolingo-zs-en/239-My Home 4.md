@@ -10,38 +10,35 @@ a hand, admittedly, all over again, brick, by far, can't get over, can't take, c
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"解释房屋问题"展开，场景是讨论房子的各种毛病和维修烦恼。词表里有房屋问题词汇（leak, crack, clogged, damp, collapse, plumbing, maintenance, construction），有程度与情绪表达（by far, can't get over, can't take, stress out, relieved, oh man, not so bad, admittedly），也有评价与决策词汇（fixer-upper, investment, extend, measure, concerning）。你可以用这些词吐槽房子：Oh man, the plumbing is clogged and there's a leak in the ceiling. / On top of that, there's a crack in the brick wall and the basement is damp. / Admittedly, it's not so bad—I'm relieved it didn't collapse. / It's a fixer-upper, but by far the best investment I could make. / I can't take the maintenance stress, but I can't get over how much I love the place. / I need to extend the kitchen and measure everything—all over again.
+本单元的主题是"说明房子的毛病"，场景是吐槽和维修房屋。词表可以分成四组：房屋问题词（clogged, collapse, crack, damp, leak, plumbing）、建筑与维修（brick, construction, extend, maintenance, measure, fixer-upper）、态度与情绪（admittedly, concerning, relieved, stress out, can't take, can't get over, not so bad, oh man）、以及衔接与强调（by far, on top of that, all over again, a hand, investment）。拼起来就是一段生动的抱怨：Oh man, the roof leaks again! On top of that, the pipes are clogged. Admittedly, this fixer-upper stresses me out.
 
-这里值得注意 fixer-upper 这个有趣的词——它指"需要翻修的便宜房子"，字面意思是"修一修就能住的东西"。另外，can't take 和 can't get over 都表达强烈情绪，但方向不同：can't take = 受不了（负面），can't get over = 无法释怀/惊叹（可正可负）。
+语法主线有两个。一是-ed/-ing 形容词的区分：concerning 指事情"令人担忧"，relieved 指人"感到安心"——描述对象决定选哪个。二是口语中的情绪表达：oh man 表示沮丧，can't take 和 can't get over 分别表示"受不了"和"无法释怀"。
 
-学完本单元，你可以用英语描述房屋问题、表达维修的烦恼，并在抱怨中找到积极面。
+学完这个单元，你能用英语详细描述房子的问题、谈论装修和维修花费，还能恰当地表达烦躁与庆幸。
 
 ## Tips
 
-- **fixer-upper** — 需要翻修的房子（通常便宜买入后自己修）。搭配：buy a fixer-upper, a fixer-upper project。It's a fixer-upper, but it's a good investment. 构词：fixer（修的东西）+ upper（向上提升）。这是北美房产市场的常见概念。
+- **leak / crack / damp / clogged** — 四个房屋毛病词。leak 是"漏水"，动词名词同形：The roof leaks. crack 是"裂缝"；damp 是"潮湿的"：a damp wall；clogged 指"堵塞的"：a clogged pipe。-ed 形式说明管道的状态。
 
-- **plumbing / clogged / leak** — plumbing 是水管系统，clogged 是堵塞的，leak 是漏水。搭配：plumbing problems, a clogged drain, a leak in the roof。The plumbing is old and the drain is clogged. / There's a leak upstairs. 注意 plumbing 是不可数名词，指整个管道系统。
+- **plumbing / construction / maintenance** — 三个房屋系统词。plumbing 是水管系统（plumb 源自拉丁语"铅"，古罗马水管用铅制）；construction 是施工、建筑；maintenance 是日常维护。
 
-- **crack / damp / collapse** — crack 是裂缝，damp 是潮湿的，collapse 是坍塌。搭配：a crack in the wall, damp basement, the roof could collapse。There's a crack in the brick. / The walls are damp. / I'm relieved it didn't collapse. 注意 crack 可作名词也可作动词：The wall cracked.
+- **collapse / extend / measure** — collapse 是"坍塌"：The old wall collapsed. extend 是"扩建、延伸"：extend the kitchen；measure 是"测量"，动词名词同形：measure the room。
 
-- **by far / admittedly / not so bad** — by far = 到目前为止/显然（加强最高级），admittedly =  admittedly（让步），not so bad = 没那么糟。搭配：by far the best, admittedly it's old, it's not so bad。By far the worst house I've seen. / Admittedly, the plumbing is concerning. / But it's not so bad overall. 注意 by far 常修饰最高级：by far the cheapest。
+- **fixer-upper / investment / brick** — fixer-upper 指"需要翻修的便宜房子"，因为买主要 fix it up；investment 是投资，买房常说 a good investment；brick 是砖，a brick house 指砖房。
 
-- **can't take / can't get over / stress out** — can't take = 受不了，can't get over = 无法释怀/惊叹，stress out = 压力很大。搭配：I can't take the noise, I can't get over the view, stress out about repairs。I can't take this maintenance! / I can't get over how charming it is. / Don't stress out—it's fixable.
+- **can't take / can't get over** — 两个情绪短语。can't take 表示"受不了"：I can't take this noise. can't get over 表示"无法释怀、难以置信"：I can't get over how bad the kitchen looks.
 
-- **on top of that / oh man** — on top of that = 更有甚者/除此之外（递进坏消息），oh man = 天哪（口语感叹）。搭配：on top of that, ... / Oh man, ...。On top of that, the heating is broken. / Oh man, not another leak! 注意 on top of that 通常叠加负面信息。
+- **stress out / relieved** — stress out 是"使焦虑"，常用被动 be stressed out：I'm stressed out by the repairs. relieved 是"松了一口气的"：I was relieved when the leak stopped. 两者都是 -ed 形容词描述人的感受。
 
-- **investment / maintenance / construction** — investment 是投资，maintenance 是维护/保养，construction 是建造/施工。搭配：a good investment, maintenance costs, under construction。The house is an investment. / Maintenance is expensive. / There's construction next door. 注意 maintenance 的发音：/ˈmeɪntənəns/。
+- **concerning / admittedly** — concerning 是形容词"令人担忧的"：a concerning crack（注意它不是动词 concern 的进行时）；admittedly 是副词"不得不承认"，用于让步：Admittedly, the house is old.
 
-- **brick / extend / measure** — brick 是砖，extend 是扩展/延伸，measure 是测量。搭配：a brick wall, extend the kitchen, measure the room。The brick is cracking. / We want to extend the house. / I need to measure everything. 注意 extend 和 expand 的区别：extend 强调"延长/延伸"，expand 强调"扩大面积"。
+- **not so bad / oh man / on top of that** — 三个口语表达。not so bad 是"还不错"的低调说法；oh man 表示沮丧或无奈；on top of that 表示"更糟的是、此外"，叠加坏消息。
 
-- **relieved / concerning** — relieved 是如释重负的，concerning 是令人担忧的。搭配：feel relieved, a concerning crack。I'm relieved the roof didn't collapse. / The damp patch is concerning. 注意 concerning 在这里是形容词（= worrying），不是动词 concern 的进行时。
+- **by far / all over again** — by far 加强最高级：the worst by far（差得最离谱）；all over again 是"从头再来一遍"：The roof leaked all over again.
 
-- **a hand / all over again** — a hand = 帮忙（give/lend a hand），all over again = 从头再来。搭配：give me a hand, do it all over again。Can you give me a hand with the plumbing? / I have to measure everything all over again. 注意 all over again 强调"重复、再来一次"的无奈。
-
-- **damp / leak / clogged** — 三者都是房屋常见问题。damp = 潮湿（墙壁/地下室），leak = 漏水（屋顶/管道），clogged = 堵塞（下水道）。搭配：damp walls, a leaking pipe, a clogged toilet。These problems often go together: a leak causes damp, and clogged pipes make it worse.
+- **a hand** — 来自 lend a hand（搭把手、帮忙）：Could you give me a hand with the wall? 口语里帮忙的高频表达。
 
 ## 练习
 
@@ -59,176 +56,189 @@ a hand, admittedly, all over again, brick, by far, can't get over, can't take, c
 
 <quiz-sentence-builder>
 
-1. **中文**：我们买了一套待修缮的旧房，但水管系统堵塞严重。
-   **英文**：We bought a fixer-upper house, but the plumbing is severely clogged.
-   > **解析**：fixer-upper 意为待修缮的房子。
+1. **中文**：屋顶又漏水了。
+   **英文**：The roof is leaking again.
+   > **解析**：现在进行时 is leaking 表示正在发生；again 表示"又一次"。
 
-2. **中文**：我对这道墙壁裂缝需要这么多修补工作感到惊叹。
-   **英文**：I can't get over how much work this wall crack requires.
-   > **解析**：can't get over 意为对……感到惊叹/无法释怀。
+2. **中文**：水管堵住了。
+   **英文**：The pipes are clogged.
+   > **解析**：clogged 是形容词"堵塞的"作表语；are 与复数主语 pipes 一致。
 
-3. **中文**：我再也受不了地下室里的潮湿气味了。
-   **英文**：I can't take the damp smell in the basement any longer.
-   > **解析**：can't take 意为受不了。
+3. **中文**：墙上有一道令人担忧的裂缝。
+   **英文**：There is a concerning crack in the wall.
+   > **解析**：There is 表示存在；concerning 作定语修饰 crack，表示"令人担忧的"。
 
-4. **中文**：更有甚者，屋顶漏水可能会导致天花板坍塌。
-   **英文**：On top of that, the roof leak could cause the ceiling to collapse.
-   > **解析**：collapse 意为坍塌。
+4. **中文**：地下室很潮湿。
+   **英文**：The basement is damp.
+   > **解析**：damp 是形容词作表语；basement 是单数主语搭配 is。
 
-5. **中文**：无可否认，购买这栋砖房是一项有风险的投资。
-   **英文**：Admittedly, buying this brick house was a risky investment.
-   > **解析**：admittedly 意为无可否认地。
+5. **中文**：这栋老房子是危房。
+   **英文**：The old house may collapse.
+   > **解析**：may 表示可能，后接动词原形 collapse。
 
-6. **中文**：到目前为止，屋顶维护是施工中最昂贵的部分。
-   **英文**：By far, roof maintenance is the most expensive part of construction.
-   > **解析**：by far 意为明显地、到目前为止（修饰最高级）。
+6. **中文**：我们想扩建厨房。
+   **英文**：We want to extend the kitchen.
+   > **解析**：want to + 动词原形 extend；kitchen 作宾语。
 
-7. **中文**：天哪，我们可能不得不把地基工程从头再来一遍！
-   **英文**：Oh man, we might have to start the foundation work all over again!
-   > **解析**：all over again 意为从头再来。
+7. **中文**：先量一下房间的尺寸。
+   **英文**：Measure the room first.
+   > **解析**：祈使句以动词原形 Measure 开头；first 作副词"先"。
 
-8. **中文**：在专业人员测量了房间尺寸后，我感到如释重负。
-   **英文**：I felt relieved after the professional measured the room dimensions.
-   > **解析**：relieved 意为如释重负的。
+8. **中文**：这套房子需要不少维护。
+   **英文**：This house needs a lot of maintenance.
+   > **解析**：maintenance 是不可数名词；a lot of 修饰不可数名词。
 
-9. **中文**：不要为关于房屋安全的令人担忧的报告感到压力山大。
-   **英文**：Don't stress out over the concerning report on house safety.
-   > **解析**：concerning 意为令人担忧的。
+9. **中文**：我受不了这个噪音了。
+   **英文**：I can't take this noise.
+   > **解析**：can't take 是口语短语"受不了"，直接接宾语。
 
-10. **中文**：你能搭把手帮我扩建户外露台吗？
-   **英文**：Could you give me a hand to extend the outdoor patio?
-   > **解析**：give me a hand 意为帮我个忙/搭把手。
+10. **中文**：我真不敢相信这房子破成这样。
+   **英文**：I can't get over how bad it is.
+   > **解析**：can't get over 表示"难以置信"；how bad it is 是宾语从句。
 
-11. **中文**：情况毕竟没那么糟糕。
-   **英文**：The situation is not so bad after all.
-   > **解析**：not so bad 意为没那么糟糕。
+11. **中文**：维修让我压力很大。
+   **英文**：The repairs stress me out.
+   > **解析**：stress out 是动词短语，宾语 me 放在 stress 和 out 中间。
 
-12. **中文**：我们需要检查砖墙是否有任何隐蔽的裂缝。
-   **英文**：We need to check the brick walls for any hidden crack.
-   > **解析**：crack 意为裂缝。
+12. **中文**：漏水停了，我松了一口气。
+   **英文**：I was relieved when the leak stopped.
+   > **解析**：relieved 是形容词"安心的"；when 引导时间状语从句。
 
-13. **中文**：房屋内部潮湿的空气可能会导致健康问题。
-   **英文**：Damp air inside the house can cause health problems.
-   > **解析**：damp 意为潮湿的。
+13. **中文**：不得不承认，这房子旧了。
+   **英文**：Admittedly, the house is old.
+   > **解析**：Admittedly 作句子副词表示让步，放在句首，用逗号隔开。
 
-14. **中文**：水管问题在老房子里非常普遍。
-   **英文**：Plumbing problems are very common in older houses.
-   > **解析**：plumbing 意为水管系统。
+14. **中文**：更糟的是，暖气也坏了。
+   **英文**：On top of that, the heating is broken.
+   > **解析**：On top of that 表示"除此之外（更糟）"，置于句首。
 
-15. **中文**：听说屋顶不会坍塌，他松了一口气。
-   **英文**：He was relieved to hear that the roof wouldn't collapse.
-   > **解析**：relieved 意为松了一口气的。
+15. **中文**：这是所有问题里最严重的。
+   **英文**：This is the worst problem by far.
+   > **解析**：by far 加强最高级 the worst，强调程度。
 
-16. **中文**：这个房屋项目显然是我们一生中最大的投资。
-   **英文**：This house project is by far the biggest investment of our lives.
-   > **解析**：investment 意为投资。
+16. **中文**：房顶又开始漏了，从头再来一遍。
+   **英文**：The roof leaked all over again.
+   > **解析**：all over again 作状语"又一次、从头再来"；leaked 是过去式。
 
-17. **中文**：天哪，浴室里的下水道又堵了！
-   **英文**：Oh man, the drain in the bathroom is clogged again!
-   > **解析**：clogged 意为堵塞的。
+17. **中文**：你能帮我搭把手吗？
+   **英文**：Can you give me a hand?
+   > **解析**：give someone a hand 是固定表达"帮忙"；双宾语 me 和 a hand。
 
-18. **中文**：在购买橱柜之前，我们必须测量厨房空间。
-   **英文**：We have to measure the kitchen space before buying cabinets.
-   > **解析**：measure 意为测量。
+18. **中文**：这套待修的房子是一次投资。
+   **英文**：This fixer-upper is an investment.
+   > **解析**：fixer-upper 作主语；an 用于元音音素开头的 investment 前。
 
-19. **中文**：定期维护可以防止严重的屋顶漏水。
-   **英文**：Regular maintenance can prevent serious roof leaks.
-   > **解析**：maintenance 意为维护、保养。
+19. **中文**：房子是砖砌的。
+   **英文**：The house is made of brick.
+   > **解析**：be made of 表示材料"由……制成"；brick 用单数表材质。
 
-20. **中文**：他需要人搭把手来完成房屋建设工程。
-   **英文**：He needs a hand to finish the home construction project.
-   > **解析**：construction 意为施工、建设。
+20. **中文**：哦天哪，施工又要开始了。
+   **英文**：Oh man, the construction starts again.
+   > **解析**：Oh man 是感叹语；主语 construction 是单数，starts 加 s。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We bought a fixer-upper house, but the plumbing is severely clogged.
-   > **中文**：我们买了一套待修缮的旧房，但水管系统堵塞严重。
+1. The roof is leaking again.
+   > **中文**：屋顶又在漏水。
 
-2. I can't get over how much work this wall crack requires.
-   > **中文**：我对这道墙壁裂缝需要这么多修补工作感到惊叹。
+2. The pipes are clogged.
+   > **中文**：水管堵住了。
 
-3. I can't take the damp smell in the basement any longer.
-   > **中文**：我再也受不了地下室里的潮湿气味了。
+3. There is a crack in the wall.
+   > **中文**：墙上有一道裂缝。
 
-4. On top of that, the roof leak could cause the ceiling to collapse.
-   > **中文**：更有甚者，屋顶漏水可能会导致天花板坍塌。
+4. The basement feels damp.
+   > **中文**：地下室很潮湿。
 
-5. Admittedly, buying this brick house was a risky investment.
-   > **中文**：无可否认，购买这栋砖房是一项有风险的投资。
+5. The old wall could collapse.
+   > **中文**：那堵旧墙可能会塌。
 
-6. By far, roof maintenance is the most expensive part of construction.
-   > **中文**：到目前为止，屋顶维护是施工中最昂贵的部分。
+6. We plan to extend the kitchen.
+   > **中文**：我们计划扩建厨房。
 
-7. Oh man, we might have to start the foundation work all over again!
-   > **中文**：天哪，我们可能不得不把地基工程从头再来一遍！
+7. Please measure the room.
+   > **中文**：请量一下房间。
 
-8. I felt relieved after the professional measured the room dimensions.
-   > **中文**：在专业人员测量了房间尺寸后，我感到如释重负。
+8. This house needs maintenance.
+   > **中文**：这房子需要维护。
 
-9. Don't stress out over the concerning report on house safety.
-   > **中文**：不要为关于房屋安全的令人担忧的报告感到压力山大。
+9. I can't take this noise.
+   > **中文**：我受不了这个噪音。
 
-10. Could you give me a hand to extend the outdoor patio?
-   > **中文**：你能搭把手帮我扩建户外露台吗？
+10. I can't get over the cracks.
+   > **中文**：我对这些裂缝真是无语。
 
-11. The situation is not so bad after all.
-   > **中文**：情况毕竟没那么糟糕。
+11. The repairs stress me out.
+   > **中文**：维修让我压力很大。
 
-12. We need to check the brick walls for any hidden crack.
-   > **中文**：我们需要检查砖墙是否有任何隐蔽的裂缝。
+12. I was relieved when it stopped.
+   > **中文**：它停下来的时候我松了口气。
 
-13. Damp air inside the house can cause health problems.
-   > **中文**：房屋内部潮湿的空气可能会导致健康问题。
+13. Admittedly, the house is old.
+   > **中文**：不得不承认，这房子旧了。
 
-14. Plumbing problems are very common in older houses.
-   > **中文**：水管问题在老房子里非常普遍。
+14. On top of that, the door is broken.
+   > **中文**：更糟的是，门也坏了。
 
-15. He was relieved to hear that the roof wouldn't collapse.
-   > **中文**：听说屋顶不会坍塌，他松了一口气。
+15. This is the worst by far.
+   > **中文**：这是差得最离谱的。
 
-16. This house project is by far the biggest investment of our lives.
-   > **中文**：这个房屋项目显然是我们一生中最大的投资。
+16. It happened all over again.
+   > **中文**：这事又从头来了一遍。
 
-17. Oh man, the drain in the bathroom is clogged again!
-   > **中文**：天哪，浴室里的下水道又堵了！
+17. Can you give me a hand?
+   > **中文**：你能搭把手吗？
 
-18. We have to measure the kitchen space before buying cabinets.
-   > **中文**：在购买橱柜之前，我们必须测量厨房空间。
+18. It is a good investment.
+   > **中文**：这是一笔好投资。
 
-19. Regular maintenance can prevent serious roof leaks.
-   > **中文**：定期维护可以防止严重的屋顶漏水。
+19. The wall is built of brick.
+   > **中文**：这墙是砖砌的。
 
-20. He needs a hand to finish the home construction project.
-   > **中文**：他需要人搭把手来完成房屋建设工程。
+20. Oh man, not so bad after all.
+   > **中文**：哦天哪，其实还不算太糟。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| fixer-upper | 待修缮的房子 |
-| plumbing | 水管系统 |
+| --- | --- |
+| a hand | 搭把手 / 帮忙 |
+| admittedly | 不得不承认 |
+| all over again | 从头再来一遍 |
+| brick | 砖 |
+| by far | ……得多（加强最高级） |
+| can't get over | 无法释怀 / 难以置信 |
+| can't take | 受不了 |
 | clogged | 堵塞的 |
-| leak | 漏水；泄漏 |
+| collapse | 坍塌 |
+| concerning | 令人担忧的 |
+| construction | 施工 / 建筑 |
 | crack | 裂缝 |
 | damp | 潮湿的 |
-| collapse | 坍塌 |
-| by far | 显然；到目前为止 |
-| admittedly | 无可否认地 |
-| not so bad | 没那么糟糕 |
-| can't take | 受不了 |
-| can't get over | 对……惊叹/无法释怀 |
-| stress out | 压力很大 |
-| on top of that | 更有甚者；除此之外 |
+| extend | 扩建 / 延伸 |
+| fixer-upper | 待翻修的房子 |
 | investment | 投资 |
-| maintenance | 维护；保养 |
-| construction | 施工；建设 |
-| brick | 砖 |
-| extend | 扩展；延伸 |
-| relieved | 如释重负的 |
+| leak | 漏水 |
+| maintenance | 维护 |
+| measure | 测量 |
+| not so bad | 还不错 |
+| oh man | 哦天哪（表沮丧） |
+| on top of that | 更糟的是 |
+| plumbing | 水管系统 |
+| relieved | 松了一口气的 |
+| stress out | 使焦虑 |
+| the | 这个 |
+| is | 是 |
+| again | 又 |
+| when | 当……时 |
+| after | 在……之后 |
+| of | 由 / 的 |
+| this | 这个 |
+| how | 多么 |
 
 </quiz-matching>
 
@@ -236,202 +246,202 @@ a hand, admittedly, all over again, brick, by far, can't get over, can't take, c
 
 ### 1
 
-We bought a ____ house, but the plumbing is severely clogged.
+The roof has been ____ all week.
 
-- [x] fixer-upper
-- [ ] a hand
-- [ ] admittedly
+- [x] leaking
+- [ ] leaked
+- [ ] leaks
 
-> **解析**：**fixer-upper** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：has been + 动名词构成现在完成进行时；leaked 和 leaks 不能与 been 构成进行时。
 
 ### 2
 
-I can't get over how much work this wall ____ requires.
+The kitchen sink is ____ again.
 
-- [x] crack
-- [ ] a hand
-- [ ] admittedly
+- [x] clogged
+- [ ] clog
+- [ ] clogging
 
-> **解析**：**crack** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后用 clogged 作形容词"堵塞的"；clog 是动词原形，clogging 强调动作进行中。
 
 ### 3
 
-I can't take the ____ smell in the basement any longer.
+There is a big ____ in the wall.
 
-- [x] damp
-- [ ] a hand
-- [ ] admittedly
+- [x] crack
+- [ ] cracked
+- [ ] cracking
 
-> **解析**：**damp** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a big 后需要名词 crack；cracked 是过去式，cracking 是动名词。
 
 ### 4
 
-On top of that, the roof ____ could cause the ceiling to collapse.
+The basement is cold and ____.
 
-- [x] leak
-- [ ] a hand
-- [ ] admittedly
+- [x] damp
+- [ ] damply
+- [ ] damper
 
-> **解析**：**leak** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：and 连接两个形容词，cold and damp；damply 不是常用副词，damper 是比较级不合语境。
 
 ### 5
 
-____, buying this brick house was a risky investment.
+The old roof may ____ in a storm.
 
-- [x] Admittedly
-- [ ] a hand
-- [ ] all over again
+- [x] collapse
+- [ ] collapsed
+- [ ] collapsing
 
-> **解析**：**Admittedly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：may 后接动词原形 collapse；collapsed 是过去式，collapsing 是动名词。
 
 ### 6
 
-By far, roof ____ is the most expensive part of construction.
+We want to ____ the house by adding a room.
 
-- [x] maintenance
-- [ ] a hand
-- [ ] admittedly
+- [x] extend
+- [ ] extended
+- [ ] extending
 
-> **解析**：**maintenance** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：want to 后接动词原形 extend；其余两项不符合 to 后原形的要求。
 
 ### 7
 
-Oh man, we might have to start the ____ work all over again!
+Please ____ the window before you buy new glass.
 
-- [x] foundation
-- [ ] a hand
-- [ ] admittedly
+- [x] measure
+- [ ] measures
+- [ ] measuring
 
-> **解析**：**foundation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：please 引导祈使句用动词原形 measure；measures 是单三形式。
 
 ### 8
 
-I felt ____ after the professional measured the room dimensions.
+The ____ of the old house costs a lot.
 
-- [x] relieved
-- [ ] a hand
-- [ ] admittedly
+- [x] maintenance
+- [ ] maintain
+- [ ] maintaining
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **relieved**。
+> **解析**：The 后需要名词 maintenance；maintain 是动词，maintaining 是动名词。
 
 ### 9
 
-Don't stress out over the ____ report on house safety.
+I ____ this loud construction anymore.
 
-- [x] concerning
-- [ ] a hand
-- [ ] admittedly
+- [x] can't take
+- [ ] can't takes
+- [ ] can't taking
 
-> **解析**：**concerning** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：can't 后接动词原形 take；takes 是单三形式，taking 是动名词。
 
 ### 10
 
-Could you give me a hand to ____ the outdoor patio?
+I can't ____ how bad the damage is.
 
-- [x] extend
-- [ ] a hand
-- [ ] admittedly
+- [x] get over
+- [ ] gets over
+- [ ] getting over
 
-> **解析**：**extend** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：can't 后接动词原形 get over；gets 是单三形式，getting 是动名词。
 
 ### 11
 
-The ____ is not so bad after all.
+The endless repairs ____ me out.
 
-- [x] situation
-- [ ] a hand
-- [ ] admittedly
+- [x] stress
+- [ ] stresses
+- [ ] stressing
 
-> **解析**：**situation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 repairs 是复数，动词用原形 stress；stress out 是可拆分的动词短语。
 
 ### 12
 
-We need to check the ____ walls for any hidden crack.
+I felt ____ when the plumber finally arrived.
 
-- [x] brick
-- [ ] a hand
-- [ ] admittedly
+- [x] relieved
+- [ ] relieve
+- [ ] relieving
 
-> **解析**：**brick** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：felt 后需要形容词 relieved 描述人的感受；relieving 描述事物带来的感受。
 
 ### 13
 
-____ air inside the house can cause health problems.
+____, the house was cheaper than most.
 
-- [x] Damp
-- [ ] a hand
-- [ ] admittedly
+- [x] Admittedly
+- [ ] Admitted
+- [ ] Admitting
 
-> **解析**：**Damp** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句首需要副词 Admittedly 表示让步；Admitted 是过去式，Admitting 是动名词。
 
 ### 14
 
-____ problems are very common in older houses.
+The crack in the wall is quite ____.
 
-- [x] Plumbing
-- [ ] a hand
-- [ ] admittedly
+- [x] concerning
+- [ ] concern
+- [ ] concerned
 
-> **解析**：**Plumbing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：描述裂缝"令人担忧"用 concerning；concerned 描述人的感受，concern 是动词或名词。
 
 ### 15
 
-He was ____ to hear that the roof wouldn't collapse.
+____ of that, the roof started leaking.
 
-- [x] relieved
-- [ ] a hand
-- [ ] admittedly
+- [x] On top
+- [ ] On head
+- [ ] On peak
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **relieved**。
+> **解析**：On top of that 是固定搭配"更糟的是"；head 和 peak 不能构成此短语。
 
 ### 16
 
-This house project is by far the biggest ____ of our lives.
+This is the worst repair by ____.
 
-- [x] investment
-- [ ] a hand
-- [ ] admittedly
+- [x] far
+- [ ] long
+- [ ] much
 
-> **解析**：**investment** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：by far 是加强最高级的固定搭配；by long 和 by much 不成立。
 
 ### 17
 
-Oh man, the drain in the bathroom is ____ again!
+We had to fix the wall all over ____.
 
-- [x] clogged
-- [ ] a hand
-- [ ] admittedly
+- [x] again
+- [ ] back
+- [ ] once
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **clogged**。
+> **解析**：all over again 是固定搭配"从头再来一遍"；back 和 once 不能构成此短语。
 
 ### 18
 
-We have to ____ the kitchen space before buying cabinets.
+Could you give me a ____ with the heavy box?
 
-- [x] measure
-- [ ] a hand
-- [ ] admittedly
+- [x] hand
+- [ ] leg
+- [ ] foot
 
-> **解析**：**measure** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：give someone a hand 是固定表达"帮忙"；leg 和 foot 不能构成此含义。
 
 ### 19
 
-Regular ____ can prevent serious roof leaks.
+This fixer-upper is a good ____.
 
-- [x] maintenance
-- [ ] a hand
-- [ ] admittedly
+- [x] investment
+- [ ] invest
+- [ ] invested
 
-> **解析**：**maintenance** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a good 后需要名词 investment；invest 是动词，invested 是过去式。
 
 ### 20
 
-He needs a hand to finish the home ____ project.
+The ____ in the bathroom needs fixing.
 
-- [x] construction
-- [ ] a hand
-- [ ] admittedly
+- [x] plumbing
+- [ ] plumb
+- [ ] plumbs
 
-> **解析**：**construction** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The 后需要名词 plumbing（水管系统）；plumb 是动词，plumbs 是单三形式。
 
 </quiz-cloze>

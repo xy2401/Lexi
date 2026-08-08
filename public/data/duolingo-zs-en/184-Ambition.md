@@ -10,32 +10,35 @@ achieve, achievement, admire, as soon as, background, benefit, challenge, confer
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元让你分享职业抱负。你可以谈论目标、努力和成就：As soon as I graduate, I want to achieve something great in engineering. My greatest goal is to gain a promotion and a raise.（一毕业我就想在工程领域有所成就。我最大的目标是获得晋升和加薪。）I admire scientists who work on challenges in the industry. With effort and training, I'll get there.（我敬佩那些在行业中攻克挑战的科学家。通过努力和培训，我会做到的。）
+本单元的主题是"职业抱负"。词表可以分成三组：职场晋升词（position, promotion, raise, out of work, conference, industry, training）、成就与努力词（achieve, achievement, effort, gain, greatest, benefit, challenge, work on）、以及个人发展词（graduate, scientist, engineering, background, current, admire, as soon as）。拼起来可以描绘职业目标：I want to work in engineering and achieve great things. As soon as I graduate, I'll look for a position in this industry.
 
-词表里有职业发展词汇：position, promotion, raise, graduate, conference, industry, engineering, scientist。也有"努力与成就"类：achieve, achievement, effort, gain, challenge, greatest。background 和 current 描述现状：My current position is in engineering. I have a background in science.（我目前的职位在工程领域。我有科学背景。）
+语法主线是"动词 + 名词"的成就表达：achieve a goal（实现目标）、gain experience（获得经验）、make an effort（付出努力）。注意 achieve 和 achievement 是动词与名词的对应关系，这类词形转换是本单元构词重点。另一条主线是 as soon as 引导的时间状语从句："一……就……"，从句通常用现在时表将来：As soon as I graduate, I will start working.
 
-as soon as 是时间连接词，表示"一……就……"。out of work = 失业。benefit 是好处/福利。work on = 从事、致力于。admire = 敬佩。
+学完这些词，你能用英语谈论自己的职业目标、教育背景，以及工作中的挑战与收获。
 
 ## Tips
 
-- **achieve / achievement / gain** — achieve = 实现（目标）：achieve your goals. achievement = 成就（名词）。gain = 获得（强调通过努力得到）：gain experience / gain a promotion. 注意 achieve 侧重"达成"，gain 侧重"获取"。
+- **achieve / achievement** — 动词"实现、达成"与对应名词：achieve a goal / a great achievement. 注意拼写：achieve 是 ie 不是 ei（例外记 i before e）。achievement 加 -ment 构成名词。
 
-- **promotion / raise / position** — promotion = 晋升：get a promotion. raise = 加薪（美式，英式用 rise）：ask for a raise. position = 职位（比 job 更正式）：apply for a position.
+- **admire** — "钦佩、欣赏"：I admire her hard work. 后接人或品质。名词 admiration 加 -ation。与"羡慕"（envy）不同，admire 是褒义的敬佩。
 
-- **graduate / engineering / scientist** — graduate 可作动词（毕业）或名词（毕业生）：I graduated in 2020. / a recent graduate. engineering = 工程学。scientist = 科学家（science + -ist）。
+- **as soon as** — "一……就……"，引导时间状语从句。从句用现在时表示将来：As soon as I graduate, I will apply. ✗ As soon as I will graduate 是常见错误，时间状语从句不用 will。
 
-- **as soon as / current / out of work** — as soon as + 从句 = 一……就：As soon as I graduate, I'll start working. current = 目前的：my current job. out of work = 失业（= unemployed）：He's been out of work for months.
+- **background / current** — background 背景：a background in engineering（工程学背景）；current 当前的：my current job（我目前的工作）。介词用 in：background in + 领域。
 
-- **effort / challenge / greatest** — effort = 努力（make an effort / put effort into）。challenge = 挑战。greatest = 最大的（great 的最高级）：my greatest achievement. 注意 effort 可数也可不可数。
+- **benefit / gain** — benefit 好处、获益：benefit from training（从培训中受益）；gain 获得：gain experience, gain skills. gain 强调"逐步取得"，与 get 相比更正式。
 
-- **admire / background / benefit** — admire = 敬佩、赞赏：I admire her dedication. background = 背景（教育/工作经历）：a background in engineering. benefit = 好处/员工福利：job benefits（五险一金等）。
+- **challenge** — 名词"挑战"，也可作动词：a big challenge / challenge yourself. 注意 ch 发 /tʃ/。搭配 take on a challenge（接受挑战）。
 
-- **conference / industry / training** — conference = 会议（比 meeting 更正式、规模更大）。industry = 行业：the tech industry. training = 培训（不可数名词）：receive training / a training program.
+- **conference / industry / position / promotion / raise** — 五个职场高频词。conference 会议（大型行业会议）；industry 行业；position 职位；promotion 晋升；raise 加薪（动词 raise 为"提高"）。get a promotion / get a raise 是固定搭配。
 
-- **work on** — 短语动词，表示"从事、致力于"：I work on engineering projects. 也可以表示"对……起作用"：This plan might work on him. 注意 work on 后接名词或动名词。
+- **effort / work on / greatest** — effort 努力，常用 make an effort 或 put effort into；work on 从事、钻研：work on a project（做项目）；greatest 是 great 的最高级：my greatest achievement（我最大的成就）。
+
+- **engineering / scientist / graduate** — engineering 工程学（学科名）；scientist 科学家（science + -ist）；graduate 毕业（动词）/毕业生（名词）：graduate from university（大学毕业）。
+
+- **training / out of work** — training 培训，不可数：receive training（接受培训）；out of work 失业，相当于 unemployed：He has been out of work for months.
 
 ## 练习
 
@@ -53,149 +56,149 @@ as soon as 是时间连接词，表示"一……就……"。out of work = 失�
 
 <quiz-sentence-builder>
 
-1. **中文**：只要付出努力，你就能实现你的职业目标。
-   **英文**：Hard work helped her achieve great success in business.
-   > **解析**：achieve 表示“实现/达到”。
+1. **中文**：我想实现我的目标。
+   **英文**：I want to achieve my goals.
+   > **解析**：want 后接不定式 to achieve；goals 用复数表示多个目标。
 
-2. **中文**：获得这项国际创新奖是她的重大成就。
-   **英文**：Winning the prize was a remarkable achievement for him.
-   > **解析**：achievement 表示“成就/成绩”。
+2. **中文**：那是我最大的成就。
+   **英文**：That is my greatest achievement.
+   > **解析**：greatest 是 great 的最高级，修饰 achievement；my 是物主代词。
 
-3. **中文**：我们非常钦佩她面对困难时的勇气与毅力。
-   **英文**：I really admire her dedication to scientific research.
-   > **解析**：admire 表示“钦佩/赏识”。
+3. **中文**：我钦佩她的工作热情。
+   **英文**：I admire her passion for work.
+   > **解析**：admire 是及物动词，直接接宾语；passion for 是固定搭配。
 
-4. **中文**：一收到面试通知，他就立刻准备简历。
-   **英文**：Call me as soon as you finish your training session.
-   > **解析**：as soon as 表示“一……就……”。
+4. **中文**：我一毕业就找工作。
+   **英文**：As soon as I graduate, I will look for a job.
+   > **解析**：as soon as 引导时间状语从句，从句用现在时表将来；主句用 will。
 
-5. **中文**：他出色的工程学背景使他在招聘中胜出。
-   **英文**：She has a strong educational background in science.
-   > **解析**：background 表示“背景/履历”。
+5. **中文**：他有工程学背景。
+   **英文**：He has a background in engineering.
+   > **解析**：background in + 领域 是固定搭配；engineering 是学科名词。
 
-6. **中文**：参加这项专业技能培训将使你大有裨益。
-   **英文**：The new health policy will benefit all employees.
-   > **解析**：benefit 表示“好处/益处/使受益”。
+6. **中文**：我能从培训中受益。
+   **英文**：I can benefit from the training.
+   > **解析**：benefit from 是固定短语；can 后接动词原形。
 
-7. **中文**：接手这个大型新项目是一项巨大的挑战。
-   **英文**：Leading the team was an exciting challenge for her.
-   > **解析**：challenge 表示“挑战”。
+7. **中文**：她从经验中获益良多。
+   **英文**：She gained a lot from the experience.
+   > **解析**：gained 是 gain 的过去式；gain from 表示"从……中获益"。
 
-8. **中文**：多名专家出席了在芝加哥举办的年度行业研讨会。
-   **英文**：She gave a presentation at an international conference.
-   > **解析**：conference 表示“研讨会/会议”。
+8. **中文**：这是一个很大的挑战。
+   **英文**：This is a big challenge.
+   > **解析**：challenge 是可数名词，前面需要冠词 a；big 修饰 challenge。
 
-9. **中文**：你目前的薪资和职位满足你的职业规划吗？
-   **英文**：What is your current role in the company?
-   > **解析**：current 表示“当前的/现行的”。
+9. **中文**：她下个月要参加一个行业会议。
+   **英文**：She will attend an industry conference next month.
+   > **解析**：will 后接动词原形 attend；industry 作定语修饰 conference。
 
-10. **中文**：在全队的共同努力下，工程按期竣工了。
-   **英文**：It takes continuous effort to master a new skill.
-   > **解析**：effort 表示“努力/付出”。
+10. **中文**：我目前的工作很无聊。
+   **英文**：My current job is boring.
+   > **解析**：current 是形容词修饰 job；is 与单数主语搭配。
 
-11. **中文**：他获得了名牌大学的工程学学士学位。
-   **英文**：She studied software engineering at university.
-   > **解析**：engineering 表示“工程学”。
+11. **中文**：我正在做一个新项目。
+   **英文**：I am working on a new project.
+   > **解析**：am working 是现在进行时；work on 表示"从事"，on 不可省略。
 
-12. **中文**：参与实践操作能让你获得宝贵的工作经验。
-   **英文**：Internships help students gain practical experience.
-   > **解析**：gain 表示“获得/赢取”。
+12. **中文**：他上个月升职了。
+   **英文**：He got a promotion last month.
+   > **解析**：got 是 get 的过去式；get a promotion 是固定搭配。
 
-13. **中文**：她打算在今年夏天从法学院毕业。
-   **英文**：He will graduate from college next summer.
-   > **解析**：graduate 表示“毕业”；graduate from 意为“从……毕业”。
+13. **中文**：她要求加薪。
+   **英文**：She asked for a raise.
+   > **解析**：ask for 表示"要求"；a raise 指加薪，raise 此处作名词。
 
-14. **中文**：爱因斯坦被公认为历史上面最伟大的科学家之一。
-   **英文**：His greatest strength is his ability to solve problems.
-   > **解析**：greatest 表示“最伟大的/最大的”。
+14. **中文**：他想成为一名科学家。
+   **英文**：He wants to become a scientist.
+   > **解析**：wants 是第三人称单数形式；become 后接职业名词，需要冠词 a。
 
-15. **中文**：汽车制造业是当地经济发展的核心支柱行业。
-   **英文**：The tech industry is growing rapidly worldwide.
-   > **解析**：industry 表示“行业/工业”。
+15. **中文**：她已经失业三个月了。
+   **英文**：She has been out of work for three months.
+   > **解析**：has been 是现在完成时，表示持续状态；for three months 表示时长。
 
-16. **中文**：由于工厂倒闭，许多工人不幸处于失业状态。
-   **英文**：He was out of work for six months before finding a job.
-   > **解析**：out of work 表示“失业/待业”。
+16. **中文**：付出努力就会有收获。
+   **英文**：If you make an effort, you will gain results.
+   > **解析**：if 引导条件状语从句，从句用现在时；make an effort 是固定搭配。
 
-17. **中文**：她在公司申请到了高级软件架构师的职位。
-   **英文**：She applied for a managerial position in sales.
-   > **解析**：position 表示“职位/位置”。
+17. **中文**：这家公司提供很好的福利。
+   **英文**：This company offers great benefits.
+   > **解析**：offers 是第三人称单数形式；benefits 用复数表示各项福利。
 
-18. **中文**：经过出色的绩效考核，她获得了职位提拔。
-   **英文**：Hard work earned him a well-deserved promotion.
-   > **解析**：promotion 表示“提拔/晋升”。
+18. **中文**：这个职位需要培训。
+   **英文**：This position requires training.
+   > **解析**：requires 是第三人称单数形式；training 是不可数名词，不加冠词。
 
-19. **中文**：老板决定下月起为表现优异的员工加薪。
-   **英文**：The manager gave her a salary raise last month.
-   > **解析**：raise 表示“加薪/提高”。
+19. **中文**：这个行业正在快速发展。
+   **英文**：This industry is growing quickly.
+   > **解析**：is growing 是现在进行时；quickly 是副词修饰 growing。
 
-20. **中文**：那些研究基因工程的科学家获得了重大突破。
-   **英文**：A team of scientist published their discovery yesterday.
-   > **解析**：scientist 表示“科学家”。
+20. **中文**：我从大学毕业了。
+   **英文**：I graduated from university.
+   > **解析**：graduated 是过去式；graduate from 是固定搭配。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Hard work helped her achieve great success in business.
-   > **中文**：只要付出努力，你就能实现你的职业目标。
+1. I want to achieve my goals.
+   > **中文**：我想实现我的目标。
 
-2. Winning the prize was a remarkable achievement for him.
-   > **中文**：获得这项国际创新奖是她的重大成就。
+2. That is my greatest achievement.
+   > **中文**：那是我最大的成就。
 
-3. I really admire her dedication to scientific research.
-   > **中文**：我们非常钦佩她面对困难时的勇气与毅力。
+3. I admire her hard work.
+   > **中文**：我钦佩她的努力工作。
 
-4. Call me as soon as you finish your training session.
-   > **中文**：一收到面试通知，他就立刻准备简历。
+4. As soon as I graduate, I will find a job.
+   > **中文**：我一毕业就找工作。
 
-5. She has a strong educational background in science.
-   > **中文**：他出色的工程学背景使他在招聘中胜出。
+5. He has a background in engineering.
+   > **中文**：他有工程学背景。
 
-6. The new health policy will benefit all employees.
-   > **中文**：参加这项专业技能培训将使你大有裨益。
+6. We can benefit from the training.
+   > **中文**：我们能从培训中受益。
 
-7. Leading the team was an exciting challenge for her.
-   > **中文**：接手这个大型新项目是一项巨大的挑战。
+7. She gained a lot of experience.
+   > **中文**：她获得了很多经验。
 
-8. She gave a presentation at an international conference.
-   > **中文**：多名专家出席了在芝加哥举办的年度行业研讨会。
+8. This is a big challenge for me.
+   > **中文**：这对我来说是个大挑战。
 
-9. What is your current role in the company?
-   > **中文**：你目前的薪资和职位满足你的职业规划吗？
+9. She will attend an industry conference.
+   > **中文**：她将参加一个行业会议。
 
-10. It takes continuous effort to master a new skill.
-   > **中文**：在全队的共同努力下，工程按期竣工了。
+10. My current job is interesting.
+   > **中文**：我目前的工作很有趣。
 
-11. She studied software engineering at university.
-   > **中文**：他获得了名牌大学的工程学学士学位。
+11. I am working on a new project.
+   > **中文**：我正在做一个新项目。
 
-12. Internships help students gain practical experience.
-   > **中文**：参与实践操作能让你获得宝贵的工作经验。
+12. He got a promotion last month.
+   > **中文**：他上个月升职了。
 
-13. He will graduate from college next summer.
-   > **中文**：她打算在今年夏天从法学院毕业。
+13. She asked for a raise.
+   > **中文**：她要求加薪。
 
-14. His greatest strength is his ability to solve problems.
-   > **中文**：爱因斯坦被公认为历史上面最伟大的科学家之一。
+14. He wants to become a scientist.
+   > **中文**：他想成为一名科学家。
 
-15. The tech industry is growing rapidly worldwide.
-   > **中文**：汽车制造业是当地经济发展的核心支柱行业。
+15. They have been out of work for months.
+   > **中文**：他们已经失业好几个月了。
 
-16. He was out of work for six months before finding a job.
-   > **中文**：由于工厂倒闭，许多工人不幸处于失业状态。
+16. Make an effort and you will succeed.
+   > **中文**：付出努力你就会成功。
 
-17. She applied for a managerial position in sales.
-   > **中文**：她在公司申请到了高级软件架构师的职位。
+17. This company offers great benefits.
+   > **中文**：这家公司提供很好的福利。
 
-18. Hard work earned him a well-deserved promotion.
-   > **中文**：经过出色的绩效考核，她获得了职位提拔。
+18. The position requires training.
+   > **中文**：这个职位需要培训。
 
-19. The manager gave her a salary raise last month.
-   > **中文**：老板决定下月起为表现优异的员工加薪。
+19. This industry is growing quickly.
+   > **中文**：这个行业正在快速发展。
 
-20. A team of scientist published their discovery yesterday.
-   > **中文**：那些研究基因工程的科学家获得了重大突破。
+20. I graduated from university last year.
+   > **中文**：我去年从大学毕业。
 
 </quiz-listening>
 
@@ -203,26 +206,32 @@ as soon as 是时间连接词，表示"一……就……"。out of work = 失�
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| achieve | 实现 / 达到 |
+| achieve | 实现 / 达成 |
 | achievement | 成就 |
-| admire | 钦佩 / 赏识 |
+| admire | 钦佩 |
 | as soon as | 一……就…… |
 | background | 背景 |
-| benefit | 好处 / 使受益 |
+| benefit | 好处 / 受益 |
 | challenge | 挑战 |
-| conference | 研讨会 / 会议 |
-| current | 当前的 |
+| conference | 会议 |
+| current | 目前的 |
 | effort | 努力 |
 | engineering | 工程学 |
 | gain | 获得 |
 | graduate | 毕业 |
-| greatest | 最伟大的 |
-| industry | 行业 / 工业 |
+| greatest | 最大的 / 最伟大的 |
+| industry | 行业 |
 | out of work | 失业 |
 | position | 职位 |
-| promotion | 提拔 / 晋升 |
-| raise | 加薪 / 提高 |
+| promotion | 晋升 |
+| raise | 加薪 |
 | scientist | 科学家 |
+| training | 培训 |
+| work on | 从事 / 钻研 |
+| is | 是（单数） |
+| my | 我的 |
+| job | 工作 |
+| goal | 目标 |
 
 </quiz-matching>
 
@@ -230,202 +239,202 @@ as soon as 是时间连接词，表示"一……就……"。out of work = 失�
 
 ### 1
 
-Hard work helped her ____ great success in business.
+I want to ____ my goals.
 
 - [x] achieve
 - [ ] achievement
 - [ ] admire
 
-> **解析**：**achieve** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：to 后需要动词原形 achieve；achievement 是名词，admire 语义不符。
 
 ### 2
 
-Winning the prize was a remarkable ____ for him.
+That is my greatest ____.
 
 - [x] achievement
 - [ ] achieve
-- [ ] admire
+- [ ] effort
 
-> **解析**：**achievement** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：greatest 修饰名词，achievement（成就）成立；achieve 是动词。
 
 ### 3
 
-I really ____ her dedication to scientific research.
+I admire her ____ work.
 
-- [x] admire
-- [ ] achieve
-- [ ] achievement
+- [x] hard
+- [ ] hardly
+- [ ] out of
 
-> **解析**：**admire** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：hard 作形容词修饰 work；hardly 是"几乎不"，语义相反。
 
 ### 4
 
-Call me as soon as you finish your ____ session.
+____ I graduate, I will find a job.
 
-- [x] training
-- [ ] achieve
-- [ ] achievement
+- [x] As soon as
+- [ ] Because of
+- [ ] Instead of
 
-> **解析**：**training** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：as soon as 引导时间状语从句，表示"一……就"；另外两项语义不符。
 
 ### 5
 
-She has a strong educational ____ in science.
+He has a background ____ engineering.
 
-- [x] background
-- [ ] achieve
-- [ ] achievement
+- [x] in
+- [ ] on
+- [ ] at
 
-> **解析**：**background** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：background in + 领域 是固定搭配；其余介词不成立。
 
 ### 6
 
-The new health policy will ____ all employees.
+We can benefit ____ the training.
 
-- [x] benefit
-- [ ] achieve
-- [ ] achievement
+- [x] from
+- [ ] on
+- [ ] with
 
-> **解析**：**benefit** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：benefit from 是固定短语；其余介词无此搭配。
 
 ### 7
 
-Leading the team was an exciting ____ for her.
+She ____ a lot of experience last year.
 
-- [x] challenge
-- [ ] achieve
-- [ ] achievement
+- [x] gained
+- [ ] gains
+- [ ] gaining
 
-> **解析**：**challenge** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：last year 要求过去式 gained；gains 是现在时，gaining 不能单独作谓语。
 
 ### 8
 
-She gave a presentation at an international ____.
+This is a big ____ for me.
 
-- [x] conference
-- [ ] achieve
-- [ ] achievement
+- [x] challenge
+- [ ] graduate
+- [ ] promote
 
-> **解析**：**conference** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：big 修饰名词 challenge；另外两项是动词。
 
 ### 9
 
-What is your ____ role in the company?
+She will attend an industry ____.
 
-- [x] current
-- [ ] achieve
-- [ ] achievement
+- [x] conference
+- [ ] effort
+- [ ] raise
 
-> **解析**：**current** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：attend（参加）搭配会议 conference；effort 和 raise 不能被 attend。
 
 ### 10
 
-It takes continuous ____ to master a new skill.
+My ____ job is interesting.
 
-- [x] effort
-- [ ] achieve
-- [ ] achievement
+- [x] current
+- [ ] currently
+- [ ] graduate
 
-> **解析**：**effort** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：job 前需要形容词 current；currently 是副词，不能修饰名词。
 
 ### 11
 
-She studied software ____ at university.
+I am working ____ a new project.
 
-- [x] engineering
-- [ ] achieve
-- [ ] achievement
+- [x] on
+- [ ] in
+- [ ] at
 
-> **解析**：**engineering** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：work on 是固定短语，表示"从事"；其余介词不表此义。
 
 ### 12
 
-Internships help students ____ practical experience.
+He got a ____ last month.
 
-- [x] gain
-- [ ] achieve
-- [ ] achievement
+- [x] promotion
+- [ ] promote
+- [ ] effort
 
-> **解析**：**gain** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后需要名词 promotion；promote 是动词原形。
 
 ### 13
 
-He will ____ from college next summer.
+She asked for a ____.
 
-- [x] graduate
-- [ ] achieve
-- [ ] achievement
+- [x] raise
+- [ ] rise
+- [ ] position
 
-> **解析**：**graduate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：ask for a raise（要求加薪）是美式固定搭配；rise 不作此义的名词用法。
 
 ### 14
 
-His ____ strength is his ability to solve problems.
+He wants to become a ____.
 
-- [x] greatest
-- [ ] achieve
-- [ ] achievement
+- [x] scientist
+- [ ] science
+- [ ] scientific
 
-> **解析**：**greatest** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后需要表示人的名词 scientist；science 是学科，scientific 是形容词。
 
 ### 15
 
-The tech ____ is growing rapidly worldwide.
+They have been out of ____ for months.
 
-- [x] industry
-- [ ] achieve
-- [ ] achievement
+- [x] work
+- [ ] effort
+- [ ] training
 
-> **解析**：**industry** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：out of work（失业）是固定短语；其余词不能构成此义。
 
 ### 16
 
-He was out of work for six months before ____ a job.
+Make an ____ and you will succeed.
 
-- [x] finding
-- [ ] achieve
-- [ ] achievement
+- [x] effort
+- [ ] industry
+- [ ] background
 
-> **解析**：**finding** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：make an effort 是固定搭配；另外两项语义不通。
 
 ### 17
 
-She applied for a managerial ____ in sales.
+This company offers great ____.
 
-- [x] position
-- [ ] achieve
-- [ ] achievement
+- [x] benefits
+- [ ] benefit
+- [ ] graduate
 
-> **解析**：**position** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：公司福利通常用复数 benefits；graduate 是动词。
 
 ### 18
 
-Hard work earned him a well-deserved ____.
+The position requires ____.
 
-- [x] promotion
-- [ ] achieve
-- [ ] achievement
+- [x] training
+- [ ] train
+- [ ] trains
 
-> **解析**：**promotion** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：requires 后需要名词 training；train 作动词或"火车"均不合语境。
 
 ### 19
 
-The manager gave her a salary ____ last month.
+This industry is growing ____.
 
-- [x] raise
-- [ ] achieve
-- [ ] achievement
+- [x] quickly
+- [ ] quick
+- [ ] greatest
 
-> **解析**：**raise** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰动词 growing 需要副词 quickly；quick 是形容词。
 
 ### 20
 
-A team of ____ published their discovery yesterday.
+I graduated ____ university last year.
 
-- [x] scientist
-- [ ] achieve
-- [ ] achievement
+- [x] from
+- [ ] at
+- [ ] on
 
-> **解析**：**scientist** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：graduate from 是固定搭配；其余介词不成立。
 
 </quiz-cloze>

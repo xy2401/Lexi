@@ -10,30 +10,35 @@ circus, comic, decide, direct, dislike, display, divorce, drama, entertainment, 
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"分享对电影的看法"展开，话题是影视娱乐和审美品味。词表里有影视类型和评价词汇（comic, drama, entertainment, direct, realistic, marvelous, folk, circus）和表达观点的结构（generally, trend, public, rare, real, dislike, decide）。
+本单元的主题是"分享对电影的看法"，词表可以分成三组：影视与娱乐名词（drama, comic, circus, entertainment, folk, public, trend）、评价类形容词（marvelous, rare, real, realistic）与动词（decide, direct, dislike, display, divorce）、以及本单元的语法主角——虚拟条件句的材料（if, if you had, if you'd, hadn't, would have, would've, get used to）。
 
-你可以练习影评对话：If you had seen this movie, you would have loved it. / I generally dislike comic films, but this one is marvelous. / The director made a realistic drama about a divorce. / It's a rare trend in public entertainment. / If you'd gone to the circus, you'd know what I mean. / I hadn't expected to get used to folk music in a movie.
+语法主线是第三条件句（third conditional）：If + 过去完成时, would have + 过去分词，用来谈论与过去事实相反的假设：If you had seen it, you would have loved it. 口语中 would have 常缩写成 would've，if you had 缩写成 if you'd。另一条线索是评价电影的词汇：drama 指剧情片，comic 与喜剧相关，realistic 表示"逼真的"——影评的基本词汇一网打尽。
 
-if you had / if you'd + would have 是第三类条件句（对过去的虚拟），用来谈论"如果当时……就会……"。would've 是 would have 的口语缩写。
+学完这些词，你能评价一部电影好不好、真不真实、值不值得看，还能用虚拟语气讨论"如果当时……就……"——观影讨论的深度一下子就上来了。
 
 ## Tips
 
-- **if you had / if you'd / would have / would've** — 第三类条件句：If you had + 过去分词, ... would have + 过去分词。if you'd = if you had。would've = would have（口语缩写 /ˈwʊdəv/）。例句：If you had watched it, you would have cried. 表示对过去未发生事情的假设。
+- **if / if you had / if you'd** — 本单元的语法核心。if 引导条件从句；if you had + 过去分词是第三条件句的从句部分，表示"如果你当时……"；if you'd 是 if you had 的口语缩写：If you'd watched it, you'd understand. 注意与真实条件句区分：If you have time（如果你有时间，可能发生）vs. If you had had time（如果你当时有时间，实际没有）。
 
-- **comic / drama / entertainment / folk** — comic = 喜剧的（a comic film, comic relief）。drama = 剧情片、戏剧。entertainment = 娱乐（the entertainment industry）。folk = 民间的（folk music 民谣, folk art 民间艺术）。
+- **would have / would've** — 第三条件句的主句部分：would have + 过去分词，表示"（当时）本来会……"：I would have gone. would've 是口语缩写。✗ I would went → ✓ I would have gone。
 
-- **realistic / real / marvelous / rare** — realistic = 逼真的、写实的（a realistic portrayal）。real = 真实的。marvelous = 精彩的、绝妙的（= wonderful，更夸张）。rare = 稀有的（a rare film, a rare talent）。搭配：a realistic drama, a marvelous performance。
+- **hadn't** — had not 的缩写，用于过去完成时的否定：If you hadn't told me, I wouldn't have known.（如果你没告诉我，我就不会知道了。）
 
-- **direct / director / display / decide** — direct 作动词"导演"（She directed the film.），作形容词"直接的"。display = 展示（a display of talent）。decide = 决定（decide to watch / decide that...）。注意 direct 的名词是 direction（方向/指导）。
+- **get used to** — "逐渐习惯于"，后接名词或动名词：I got used to the ending. 注意与 used to do（过去常常）区分：get used to 强调适应的过程，be used to doing 强调已适应的状态。
 
-- **generally / trend / public / dislike** — generally = 一般来说（I generally prefer dramas.）。trend = 趋势（a new trend in film）。public = 公众的（public opinion, the general public）。dislike = 不喜欢（比 don't like 更正式：I dislike horror movies.）。
+- **decide / direct** — decide 是"决定"：decide to do something. direct 作动词是"执导"：She directed the film. 导演是 director。两个词都是"动词原形即可作谓语"的规则动词。
 
-- **circus / divorce / hadn't** — circus = 马戏团（go to the circus）。divorce = 离婚（get a divorce, a divorce drama）。hadn't = had not（I hadn't seen it before.），用于过去完成时否定。
+- **dislike / display / divorce** — dislike 是"不喜欢"，比 like 的否定更正式：I dislike horror films. display 是"展示、陈列"：The museum displays old photos. divorce 是"离婚"，也可作动词，电影剧情讨论中常见：The story is about a divorce.
 
-- **get used to** — get used to = 逐渐习惯（+ 名词/-ing）。例句：I got used to the slow pace. / You'll get used to folk music. 注意和 used to（过去常常）区分：get used to 强调适应的过程。
+- **drama / comic / circus** — drama 是剧情片/戏剧；comic 与喜剧相关（comic book 漫画，comedian 喜剧演员）；circus 是马戏团，常出现在怀旧题材电影里。
+
+- **entertainment / folk / public** — entertainment 是"娱乐"的总称；folk 指"民间的、普通民众的"：folk music 民谣；public 是"公众的"：the general public。
+
+- **marvelous / rare** — marvelous 是"极好的、绝妙的"，语气比 great 强：The acting is marvelous! rare 是"罕见的"：a rare chance。两词都是评价类形容词，直接放在 be 动词后作表语。
+
+- **real / realistic / trend / generally** — real 是"真实的"（a real story），realistic 是"逼真的、写实的"（a realistic film）——一个是"真"，一个是"像真的"。trend 是"趋势"：a new trend in movies. generally 是副词"一般来说"，放在句首或动词前。
 
 ## 练习
 
@@ -51,149 +56,149 @@ if you had / if you'd + would have 是第三类条件句（对过去的虚拟）
 
 <quiz-sentence-builder>
 
-1. **中文**：如果你看过这部写实的剧情片，你本就会喜欢上它的。  
-   **英文**：If you had seen this realistic drama, you would have loved it.
-   > **解析**：if you had ... would have ... 为第三类条件句，realistic 表示“逼真的、写实的”，drama 表示“剧情片”。
+1. **中文**：如果你看过这部电影，你就会喜欢它。
+   **英文**：If you had seen the film, you would have liked it.
+   > **解析**：第三条件句：从句用过去完成时 had seen，主句用 would have + 过去分词 liked，表示与过去事实相反的假设。
 
-2. **中文**：我通常不喜欢喜剧电影，但这一个太精彩了。  
-   **英文**：I generally dislike comic movies, but this one was marvelous.
-   > **解析**：generally 表示“通常”，dislike 表示“不喜欢”，comic 表示“喜剧的”，marvelous 表示“精彩绝妙的”。
+2. **中文**：如果我没看过预告，我本来会很惊喜。
+   **英文**：If I hadn't seen the trailer, I would have been surprised.
+   > **解析**：hadn't seen 是过去完成时否定；主句 would have been surprised 表示"本来会惊喜"。
 
-3. **中文**：导演决定执导一部关于痛苦离婚的电影。  
-   **英文**：The director decided to direct a film about a painful divorce.
-   > **解析**：decide 表示“决定”，direct 作动词表示“执导”，divorce 表示“离婚”。
+3. **中文**：她执导了那部剧情片。
+   **英文**：She directed that drama.
+   > **解析**：讲述过去的事用过去式 directed；drama 作"剧情片"是可数名词，that 修饰它。
 
-4. **中文**：如果你去了马戏团，你本就会看到一场罕见的杂技表演。  
-   **英文**：If you'd gone to the circus, you would've seen a rare display of acrobatics.
-   > **解析**：if you'd = if you had, would've = would have, circus 表示“马戏团”，rare 表示“罕见的”，display 表示“展示/表演”。
+4. **中文**：我决定看那部新电影。
+   **英文**：I decided to watch the new movie.
+   > **解析**：decide to do 是固定结构，to watch 是不定式作宾语；decided 是过去式。
 
-5. **中文**：民谣音乐已成为现代娱乐中的一种流行趋势。  
-   **英文**：Folk music has become a popular trend in modern entertainment.
-   > **解析**：folk 表示“民间的/民谣”，trend 表示“趋势”，entertainment 表示“娱乐”。
+5. **中文**：我不喜欢恐怖片。
+   **英文**：I dislike horror films.
+   > **解析**：dislike 是及物动词，后直接接宾语 horror films；films 用复数表泛指。
 
-6. **中文**：公众先前没有预料到表演中会有如此真实的情感。  
-   **英文**：The public had not expected such a real emotion in the performance.
-   > **解析**：public 表示“公众”，had not = hadn't，real 表示“真实的”。
+6. **中文**：这部电影的表演精彩极了。
+   **英文**：The acting in this film is marvelous.
+   > **解析**：in this film 是介词短语作后置定语修饰 acting；marvelous 作表语。
 
-7. **中文**：我之前还没有习惯经典黑白电影的缓慢节奏。  
-   **英文**：I hadn't got used to the slow pace of classic black and white films.
-   > **解析**：hadn't 为过去完成时否定，get used to 表示“习惯于”。
+7. **中文**：这是一个罕见的机会。
+   **英文**：This is a rare chance.
+   > **解析**：rare 形容词修饰 chance；a rare chance 中 chance 可数用 a。
 
-8. **中文**：如果你推荐过那部剧，我本就会早点买票的。  
-   **英文**：If you had recommended the play, I would've bought tickets earlier.
-   > **解析**：if you had ... would've ... 虚拟语气组合。
+8. **中文**：这个故事是真实的。
+   **英文**：The story is real.
+   > **解析**：real 作表语形容词，表示"真实存在的"；story 是单数主语用 is。
 
-9. **中文**：一幅罕见的画作在城市博物馆向公众展示。  
-   **英文**：A rare painting was put on public display at the city museum.
-   > **解析**：rare 表示“罕见的”，public display 表示“公众展示”。
+9. **中文**：这部电影非常写实。
+   **英文**：This film is very realistic.
+   > **解析**：realistic 表示"逼真的、写实的"，very 修饰形容词作表语。
 
-10. **中文**：他通常避开剧情剧集中更喜欢轻娱乐。  
-   **英文**：He generally avoids drama shows and prefers light entertainment.
-   > **解析**：generally 表示“通常”，drama 表示“剧情剧”，entertainment 表示“娱乐”。
+10. **中文**：电影院里展出了老照片。
+    **英文**：The cinema displays old photos.
+    > **解析**：The cinema 是第三人称单数主语，display 加 s；old photos 作宾语。
 
-11. **中文**：如果你当时问了导演，他本就会解释那个电影场景的。  
-   **英文**：If you'd asked the director, he would have explained the movie scene.
-   > **解析**：if you'd ... would have ... 表示对过去假设的虚拟结果。
+11. **中文**：我渐渐习惯了它的结局。
+    **英文**：I got used to the ending.
+    > **解析**：get used to 后接名词 the ending；got 是 get 的过去式，表示适应的过程已经发生。
 
-12. **中文**：经过多年的争吵，他们决定离婚。  
-   **英文**：They decided to get a divorce after years of argument.
-   > **解析**：decide 表示“决定”，divorce 表示“离婚”。
+12. **中文**：一般来说，我喜欢喜剧。
+    **英文**：Generally, I like comic films.
+    > **解析**：Generally 是副词放句首，用逗号隔开；comic films 指喜剧类电影。
 
-13. **中文**：那位演员在那部喜剧故事中的表现是绝妙的。  
-   **英文**：The actor's performance was marvelous in that comic story.
-   > **解析**：marvelous 表示“精彩绝妙的”，comic 表示“喜剧的”。
+13. **中文**：这是电影里的一个新趋势。
+    **英文**：This is a new trend in movies.
+    > **解析**：a new trend 中 trend 可数用 a；in movies 说明趋势的领域。
 
-14. **中文**：需要时间来习惯传统的民谣音乐风格。  
-   **英文**：It takes time to get used to traditional folk music styles.
-   > **解析**：get used to 表示“习惯”，folk 表示“民间的、民谣的”。
+14. **中文**：这部电影是关于一场离婚的。
+    **英文**：The film is about a divorce.
+    > **解析**：be about 表示"关于"；divorce 此处作可数名词用 a 修饰，指一桩具体的离婚事件。
 
-15. **中文**：如果她当时没有执导这部电影，它本就不会获奖。  
-   **英文**：If she hadn't directed the film, it wouldn't have won the award.
-   > **解析**：hadn't 引导过去完成时否定，wouldn't have 为主句虚拟。
+15. **中文**：如果你当时在场，你本可以见到导演。
+    **英文**：If you'd been there, you could have met the director.
+    > **解析**：if you'd been 是 if you had been 的缩写；could have met 表示"本可以见到"。
 
-16. **中文**：博物馆创建了一个新的展项以突出现代时尚趋势。  
-   **英文**：The museum created a new display to highlight modern fashion trends.
-   > **解析**：display 表示“展项、展示”，trend 表示“趋势”。
+16. **中文**：公众对这部影片评价很高。
+    **英文**：The public thinks highly of the film.
+    > **解析**：The public 作集体名词看待，谓语用单数 thinks；think highly of 是"评价高"的固定搭配。
 
-17. **中文**：我讨厌在拥挤的公共场所看电影。  
-   **英文**：I dislike watching movies in crowded public places.
-   > **解析**：dislike 表示“不喜欢、讨厌”，public 表示“公共的”。
+17. **中文**：马戏团的表演是这部影片的亮点。
+    **英文**：The circus show is the best part of the film.
+    > **解析**：circus 作定语修饰 show；the best part of... 是最高级结构。
 
-18. **中文**：这个故事基于真实事件，而不是虚构的幻想。  
-   **英文**：The story is based on real events rather than fictional fantasy.
-   > **解析**：real 表示“真实的”。
+18. **中文**：民谣音乐出现在电影里。
+    **英文**：Folk music appears in the film.
+    > **解析**：Folk music 是不可数名词短语作主语，谓语用单数 appears；in the film 是地点状语。
 
-19. **中文**：我们之前没有见过如此令人屏息的马戏团表演。  
-   **英文**：We hadn't seen such a breathtaking circus show before.
-   > **解析**：hadn't seen 表示过去完成时“未曾看过”，circus 表示“马戏团”。
+19. **中文**：娱乐产业变化很快。
+    **英文**：The entertainment industry changes fast.
+    > **解析**：entertainment 作定语修饰 industry；industry 是单数主语，谓语用 changes。
 
-20. **中文**：他在影院本就会喜欢那些逼真的音效的。  
-   **英文**：He would have enjoyed the realistic sound effects in the cinema.
-   > **解析**：would have enjoyed 表示虚拟主句“本就会喜欢”，realistic 表示“逼真的”。
+20. **中文**：如果她当时更努力，这部电影本来会更好。
+    **英文**：If she had worked harder, the film would've been better.
+    > **解析**：从句 had worked 是过去完成时；would've been 是 would have been 的缩写，构成第三条件句主句。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. If you had seen this realistic drama, you would have loved it.
-   > **中文**：如果你看过这部写实的剧情片，你本就会喜欢上它的。
+1. If you had seen the film, you would have liked it.
+   > **中文**：如果你看过这部电影，你就会喜欢它。
 
-2. I generally dislike comic movies, but this one was marvelous.
-   > **中文**：我通常不喜欢喜剧电影，但这一个太精彩了。
+2. If I hadn't seen the trailer, I would have been surprised.
+   > **中文**：如果我没看过预告，我本来会很惊喜。
 
-3. The director decided to direct a film about a painful divorce.
-   > **中文**：导演决定执导一部关于痛苦离婚的电影。
+3. She directed that drama.
+   > **中文**：她执导了那部剧情片。
 
-4. If you'd gone to the circus, you would've seen a rare display of acrobatics.
-   > **中文**：如果你去了马戏团，你本就会看到一场罕见的杂技表演。
+4. I decided to watch the new movie.
+   > **中文**：我决定看那部新电影。
 
-5. Folk music has become a popular trend in modern entertainment.
-   > **中文**：民谣音乐已成为现代娱乐中的一种流行趋势。
+5. I dislike horror films.
+   > **中文**：我不喜欢恐怖片。
 
-6. The public had not expected such a real emotion in the performance.
-   > **中文**：公众先前没有预料到表演中会有如此真实的情感。
+6. The acting in this film is marvelous.
+   > **中文**：这部电影的表演精彩极了。
 
-7. I hadn't got used to the slow pace of classic black and white films.
-   > **中文**：我之前还没有习惯经典黑白电影的缓慢节奏。
+7. This is a rare chance.
+   > **中文**：这是一个罕见的机会。
 
-8. If you had recommended the play, I would've bought tickets earlier.
-   > **中文**：如果你推荐过那部剧，我本就会早点买票的。
+8. The story is real.
+   > **中文**：这个故事是真实的。
 
-9. A rare painting was put on public display at the city museum.
-   > **中文**：一幅罕见的画作在城市博物馆向公众展示。
+9. This film is very realistic.
+   > **中文**：这部电影非常写实。
 
-10. He generally avoids drama shows and prefers light entertainment.
-   > **中文**：他通常避开剧情剧集中更喜欢轻娱乐。
+10. The cinema displays old photos.
+    > **中文**：电影院里展出了老照片。
 
-11. If you'd asked the director, he would have explained the movie scene.
-   > **中文**：如果你当时问了导演，他本就会解释那个电影场景的。
+11. I got used to the ending.
+    > **中文**：我渐渐习惯了它的结局。
 
-12. They decided to get a divorce after years of argument.
-   > **中文**：经过多年的争吵，他们决定离婚。
+12. Generally, I like comic films.
+    > **中文**：一般来说，我喜欢喜剧。
 
-13. The actor's performance was marvelous in that comic story.
-   > **中文**：那位演员在那部喜剧故事中的表现是绝妙的。
+13. This is a new trend in movies.
+    > **中文**：这是电影里的一个新趋势。
 
-14. It takes time to get used to traditional folk music styles.
-   > **中文**：需要时间来习惯传统的民谣音乐风格。
+14. The film is about a divorce.
+    > **中文**：这部电影是关于一场离婚的。
 
-15. If she hadn't directed the film, it wouldn't have won the award.
-   > **中文**：如果她当时没有执导这部电影，它本就不会获奖。
+15. If you'd been there, you could have met the director.
+    > **中文**：如果你当时在场，你本可以见到导演。
 
-16. The museum created a new display to highlight modern fashion trends.
-   > **中文**：博物馆创建了一个新的展项以突出现代时尚趋势。
+16. The public thinks highly of the film.
+    > **中文**：公众对这部影片评价很高。
 
-17. I dislike watching movies in crowded public places.
-   > **中文**：我讨厌在拥挤的公共场所看电影。
+17. The circus show is the best part of the film.
+    > **中文**：马戏团的表演是这部影片的亮点。
 
-18. The story is based on real events rather than fictional fantasy.
-   > **中文**：这个故事基于真实事件，而不是虚构的幻想。
+18. Folk music appears in the film.
+    > **中文**：民谣音乐出现在电影里。
 
-19. We hadn't seen such a breathtaking circus show before.
-   > **中文**：我们之前没有见过如此令人屏息的马戏团表演。
+19. The entertainment industry changes fast.
+    > **中文**：娱乐产业变化很快。
 
-20. He would have enjoyed the realistic sound effects in the cinema.
-   > **中文**：他在影院本就会喜欢那些逼真的音效的。
+20. If she had worked harder, the film would've been better.
+    > **中文**：如果她当时更努力，这部电影本来会更好。
 
 </quiz-listening>
 
@@ -202,25 +207,35 @@ if you had / if you'd + would have 是第三类条件句（对过去的虚拟）
 | 英文单词 | 课文释义 |
 | --- | --- |
 | circus | 马戏团 |
-| comic | 喜剧的；连环画 |
+| comic | 喜剧的；漫画的 |
 | decide | 决定 |
-| direct | 指导；导演；直接的 |
-| dislike | 不喜欢；讨厌 |
-| display | 展示；展览 |
+| direct | 执导；指导 |
+| dislike | 不喜欢 |
+| display | 展示；陈列 |
 | divorce | 离婚 |
 | drama | 剧情片；戏剧 |
-| entertainment | 娱乐；演艺 |
-| folk | 民间的；民谣 |
-| generally | 一般地；通常 |
-| get used to | 逐渐习惯于 |
-| hadn't | 未曾（had not缩写） |
+| entertainment | 娱乐 |
+| folk | 民间的 |
+| generally | 一般来说 |
+| get used to | 逐渐习惯 |
+| hadn't | had not 的缩写 |
 | if | 如果 |
-| if you had | 如果你当时已经…… |
-| if you'd | 如果你当时（缩写） |
-| marvelous | 精彩绝妙的 |
-| public | 公众的；公开的 |
-| rare | 罕见的；稀有的 |
+| if you had | 如果你当时…… |
+| if you'd | if you had 的缩写 |
+| marvelous | 极好的 |
+| public | 公众的 |
+| rare | 罕见的 |
 | real | 真实的 |
+| realistic | 逼真的；写实的 |
+| trend | 趋势 |
+| would have | 本来会 |
+| would've | would have 的缩写 |
+| film | 电影 |
+| movie | 电影 |
+| this | 这个 |
+| very | 非常 |
+| the | 这（定冠词） |
+| story | 故事 |
 
 </quiz-matching>
 
@@ -228,202 +243,202 @@ if you had / if you'd + would have 是第三类条件句（对过去的虚拟）
 
 ### 1
 
-____ you had seen this realistic drama, you would have loved it.
+If you had seen the film, you ____ have liked it.
 
-- [x] If
-- [ ] circus
-- [ ] comic
+- [x] would
+- [ ] will
+- [ ] do
 
-> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：第三条件句主句用 would have + 过去分词；will 用于真实条件句，do 不构成虚拟主句。
 
 ### 2
 
-I ____ dislike comic movies, but this one was marvelous.
+If I ____ seen the trailer, I would have been surprised.
 
-- [x] generally
-- [ ] circus
-- [ ] comic
+- [x] hadn't
+- [ ] haven't
+- [ ] don't
 
-> **解析**：**generally** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：第三条件句从句用过去完成时 hadn't seen；haven't 是现在完成时，don't 是一般现在时。
 
 ### 3
 
-The director decided to ____ a film about a painful divorce.
+She ____ that drama last year.
 
-- [x] direct
-- [ ] circus
-- [ ] comic
+- [x] directed
+- [ ] directs
+- [ ] directing
 
-> **解析**：**direct** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：last year 表明用过去式 directed；directs 是三单现在时，directing 不能单独作谓语。
 
 ### 4
 
-____ you'd gone to the circus, you would've seen a rare display of acrobatics.
+I decided ____ watch the new movie.
 
-- [x] If
-- [ ] circus
-- [ ] comic
+- [x] to
+- [ ] at
+- [ ] on
 
-> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：decide to do 是固定搭配，to 后接动词原形；at 和 on 不与 decide 构成此结构。
 
 ### 5
 
-____ music has become a popular trend in modern entertainment.
+I ____ horror films.
 
-- [x] Folk
-- [ ] circus
-- [ ] comic
+- [x] dislike
+- [ ] dislikes
+- [ ] disliking
 
-> **解析**：**Folk** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 I 后接动词原形 dislike；dislikes 用于第三人称单数，disliking 不能单独作谓语。
 
 ### 6
 
-The ____ had not expected such a real emotion in the performance.
+The acting in this film is ____.
 
-- [x] public
-- [ ] circus
-- [ ] comic
+- [x] marvelous
+- [ ] marvel
+- [ ] marvelously
 
-> **解析**：**public** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后接形容词 marvelous 作表语；marvel 是名词/动词，marvelously 是副词不作表语。
 
 ### 7
 
-I ____ got used to the slow pace of classic black and white films.
+This is a ____ chance.
 
-- [x] hadn't
-- [ ] circus
-- [ ] comic
+- [x] rare
+- [ ] rarely
+- [ ] rareness
 
-> **解析**：**hadn't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：名词 chance 前需要形容词 rare；rarely 是副词，rareness 是名词，都不作定语。
 
 ### 8
 
-____ you had recommended the play, I would've bought tickets earlier.
+The story is very ____.
 
-- [x] If
-- [ ] circus
-- [ ] comic
+- [x] realistic
+- [ ] realistically
+- [ ] realism
 
-> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：very 修饰形容词 realistic 作表语；realistically 是副词，realism 是名词。
 
 ### 9
 
-A ____ painting was put on public display at the city museum.
+The cinema ____ old photos.
 
-- [x] rare
-- [ ] circus
-- [ ] comic
+- [x] displays
+- [ ] display
+- [ ] displaying
 
-> **解析**：**rare** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The cinema 是第三人称单数主语，动词加 s；display 是原形，displaying 不能单独作谓语。
 
 ### 10
 
-He ____ avoids drama shows and prefers light entertainment.
+I got ____ to the ending.
 
-- [x] generally
-- [ ] circus
-- [ ] comic
+- [x] used
+- [ ] use
+- [ ] using
 
-> **解析**：**generally** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get used to 是固定短语，used 不可替换；use 和 using 都不构成此搭配。
 
 ### 11
 
-____ you'd asked the director, he would have explained the movie scene.
+____, I like comic films.
 
-- [x] If
-- [ ] circus
-- [ ] comic
+- [x] Generally
+- [ ] General
+- [ ] Generals
 
-> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句首修饰整句需要副词 Generally；General 是形容词/名词，Generals 是复数名词。
 
 ### 12
 
-They decided to get a ____ after years of argument.
+This is a new ____ in movies.
 
-- [x] divorce
-- [ ] circus
-- [ ] comic
+- [x] trend
+- [ ] trended
+- [ ] trending
 
-> **解析**：**divorce** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a new 后接名词 trend；trended 和 trending 都不是名词形式。
 
 ### 13
 
-The actor's performance was ____ in that comic story.
+The film is about a ____.
 
-- [x] marvelous
-- [ ] circus
-- [ ] comic
+- [x] divorce
+- [ ] divorced
+- [ ] divorcing
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **marvelous**。
+> **解析**：a 后接名词 divorce；divorced 是过去分词/形容词，divorcing 是现在分词，都不作名词中心词。
 
 ### 14
 
-It takes time to get used to traditional ____ music styles.
+If you'd been there, you ____ have met the director.
 
-- [x] folk
-- [ ] circus
-- [ ] comic
+- [x] could
+- [ ] can
+- [ ] do
 
-> **解析**：**folk** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：与过去事实相反的假设，主句用 could have done；can 用于现在，do 不表虚拟。
 
 ### 15
 
-____ she hadn't directed the film, it wouldn't have won the award.
+The ____ thinks highly of the film.
 
-- [x] If
-- [ ] circus
-- [ ] comic
+- [x] public
+- [ ] publicly
+- [ ] publicize
 
-> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The 后需要名词 public 作主语；publicly 是副词，publicize 是动词。
 
 ### 16
 
-The museum created a new ____ to highlight modern fashion trends.
+The ____ show is the best part of the film.
 
-- [x] display
-- [ ] circus
-- [ ] comic
+- [x] circus
+- [ ] circuses
+- [ ] circling
 
-> **解析**：**display** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：名词 circus 作定语修饰 show；circuses 是复数不作定语，circling 语义不合。
 
 ### 17
 
-I ____ watching movies in crowded public places.
+____ music appears in the film.
 
-- [x] dislike
-- [ ] circus
-- [ ] comic
+- [x] Folk
+- [ ] Folks
+- [ ] Folky
 
-> **解析**：**dislike** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：folk music 是固定搭配"民谣音乐"，folk 作定语不加复数；Folky 不是标准词。
 
 ### 18
 
-The story is based on ____ events rather than fictional fantasy.
+The ____ industry changes fast.
 
-- [x] real
-- [ ] circus
-- [ ] comic
+- [x] entertainment
+- [ ] entertain
+- [ ] entertainingly
 
-> **解析**：**real** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：名词 entertainment 作定语修饰 industry；entertain 是动词，entertainingly 是副词。
 
 ### 19
 
-We ____ seen such a breathtaking circus show before.
+If she had worked harder, the film would've ____ better.
 
-- [x] hadn't
-- [ ] circus
-- [ ] comic
+- [x] been
+- [ ] be
+- [ ] being
 
-> **解析**：**hadn't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：would have 后接过去分词 been；be 是原形，being 不能跟在 have 后。
 
 ### 20
 
-He would have enjoyed the ____ sound effects in the cinema.
+You would have enjoyed the movie if you had ____ it.
 
-- [x] realistic
-- [ ] circus
-- [ ] comic
+- [x] watched
+- [ ] watch
+- [ ] watching
 
-> **解析**：**realistic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：had 后接过去分词 watched 构成过去完成时；watch 是原形，watching 不接在 had 后构成完成时。
 
 </quiz-cloze>

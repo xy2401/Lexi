@@ -10,60 +10,33 @@ aircraft, circumstance, concern, crab, deadly, despite the fact that, encounter,
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是"分享人们如何克服挑战"——一个荒岛求生的故事。词表里有生存相关词汇（shelter, rope, survive, crab）和灾难词汇（hurricane, shipwreck, deadly, faulty）。你可以这样讲述：Despite the fact that the aircraft was faulty and they went through a hurricane, the survivors managed to head for the island. In spite of suffering and injury, they built a shelter and survived for days on end.（尽管飞机有故障、他们经历了飓风，幸存者还是设法朝岛屿前进。尽管受苦受伤，他们搭建了庇护所，连续存活了好多天。）
+本单元的主题是"分享人们如何克服挑战"，场景是荒岛求生。词表可以分成四组：灾难与危险（shipwreck, hurricane, deadly, faulty, injured, suffering）、求生动作（survive, go through, head for, encounter, investigate, shelter, pass the time）、物资与环境（aircraft, rope, smoke, crab, native, circumstance）、以及让步衔接（despite the fact that, in spite of, in spite of the fact that, that, concern, for days on end）。拼起来就是一段求生叙事：After the shipwreck, we had to survive on the island. Despite the fact that we were injured, we kept going.
 
-despite the fact that / in spite of / in spite of the fact that 是三个表"尽管"的结构，本单元集中练习让步表达。go through（经历）、encounter（遭遇）、pass the time（打发时间）让叙事更丰富。investigate 和 native 暗示岛上可能还有更多故事。
+语法主线是让步表达的三种形式：in spite of + 名词（In spite of the storm）、despite the fact that + 从句、in spite of the fact that + 从句——三者都表示"尽管"，区别在于后接名词还是句子。另一条主线是动词短语描绘求生过程：go through（经历）、head for（前往）、pass the time（消磨时间）。
 
-学完本单元，你能用英语讲述一段艰难的生存经历，强调"尽管困难重重，最终还是克服了"。
+学完这个单元，你能用英语讲述冒险与求生经历、描述克服困难的过程，并灵活运用让步从句。
 
 ## Tips
 
-- **despite the fact that / in spite of** — 两者都表"尽管"，意思相同。despite 后直接加名词（despite the rain），不加 of；in spite of 后也加名词。加 the fact that 后可以接完整句子。注意：不说 despite of，这是常见错误。
+- **in spite of / despite the fact that / in spite of the fact that** — 让步三兄弟。in spite of + 名词：In spite of the rain, we sailed. despite the fact that + 从句：Despite the fact that we were tired, we continued. in spite of the fact that 与之同义但更啰嗦。注意 ✗ despite of → ✓ despite 或 in spite of。
 
-- **for days on end** — "连续好几天"，强调"不间断"。We waited for days on end. 类似：for hours on end / for weeks on end。on end = 连续地，画面感：时间像柱子一样竖着排过去。
+- **survive / go through / encounter** — survive = 幸存：survive the storm；go through = 经历、经受：go through a lot；encounter = 遭遇（较正式）：encounter danger。
 
-- **shipwreck** — "海难、沉船"。由 ship（船）+ wreck（残骸/毁坏）组成。搭配：survive a shipwreck / a shipwrecked sailor。动词 wreck = 毁坏。荒岛故事的经典开头。
+- **shipwreck / hurricane / deadly / faulty** — 灾难四词。shipwreck = 海难（ship + wreck 残骸）；hurricane = 飓风；deadly = 致命的：a deadly snake；faulty = 有故障的：faulty equipment。
 
-- **go through** — "经历（困难）"。go through a hurricane / go through suffering。比 experience 更强调"熬过来"的过程感。也可以指"穿过"：go through the forest。
+- **head for / investigate / shelter** — head for = 朝……进发：head for the beach；investigate = 调查：investigate the strange sounds；shelter 既是"庇护所"也可作动词"躲避"。
 
-- **head for** — "朝……前进"。They headed for the island. 比 go to 更有"以……为目标"的方向感。也可以比喻：We're heading for trouble.（我们要惹麻烦了。）
+- **injured / suffering / concern** — injured = 受伤的：the injured sailor；suffering = 苦难、痛苦；concern = 担忧，也可作动词。
 
-- **survive** — "幸存、存活"。survive the storm / survive on crabs。及物动词，直接加宾语，不加 from。名词 survival，形容词 survivable。比 live through 更正式。
+- **for days on end / pass the time** — for days on end = 连续好几天；pass the time = 消磨时间：We played games to pass the time.
 
-- **faulty** — "有故障的、有缺陷的"。a faulty engine / faulty equipment。比 broken 更精确，指"有毛病但未必完全坏了"。名词 fault（故障/过错）。注意 -ty 结尾。
+- **aircraft / rope / smoke / crab** — 物资与信号词。aircraft 是飞行器（单复数同形）；rope 是绳索；smoke 可作求救信号：make smoke；crab 是螃蟹，荒岛食物来源。
 
-- **encounter** — "遭遇、遇到"，比 meet 更正式，常指意外或困难的相遇。encounter a problem / encounter danger。作名词：a close encounter（近距离接触）。比 come across 更书面。
+- **native / circumstance** — native = 当地的、本地人：the native people；circumstance = 情况、境遇，常用复数 circumstances：under the circumstances（在这种情况下）。
 
-- **shelter** — "庇护所、遮蔽"。build a shelter / take shelter from the rain。动词：shelter from the storm。在生存语境下，shelter 是第一需求——先有住处，再找食物。
-
-- **hurricane** — "飓风"，大西洋和东北太平洋的热带气旋。比 storm 强得多，有具体风速标准。搭配：survive a hurricane / hurricane season。注意拼写：h-u-r-r-i-c-a-n-e。
-
-- **deadly** — "致命的"，形容词。a deadly storm / a deadly disease。也可以作副词：deadly serious（极其认真）。名词 death，动词 die，形容词 deadly——注意不是 deadful。
-
-- **injured** — "受伤的"，形容词。He was badly injured. 动词 injure，名词 injury。比 hurt 更正式，常指事故或战斗中的伤。注意发音：/ˈɪndʒərd/。
-
-- **pass the time** — "打发时间"。We played cards to pass the time. 比 spend time 更强调"消磨、让时间不那么难熬"。类似：kill time（更口语）。
-
-- **native** — "本地的、原住民"。the native people / a native of the island。注意在描述人时要谨慎，避免刻板印象。也可指"天生的"：a native speaker（母语者）。
-
-- **investigate** — "调查、研究"。investigate the island / investigate the cause。比 look into 更正式。名词 investigation，形容词 investigative。侦探和新闻常用词。
-
-- **circumstance** — "情况、环境"，常用复数 circumstances。under the circumstances = 在这种情况下。比 situation 更强调"围绕某事的各种条件"。注意拼写：circum- + stance。
-
-- **crab** — "螃蟹"。搭配：catch crabs / a crab on the beach。荒岛生存语境下的食物来源。注意 crab 也可指"蟹肉"（不可数）：I ate crab for dinner.
-
-- **rope** — "绳子"。搭配：a piece of rope / tie with a rope。生存必备工具。动词 rope = 用绳绑：rope the shelter together。注意 rope 通常不可数，说 a length of rope。
-
-- **smoke** — "烟；吸烟"。在生存语境下可能指"生火产生的烟"（信号）：They used smoke to signal for help. 动词：smoke a fire = 用烟熏。比 fire 更具体指"烟"。
-
-- **suffering** — "痛苦、苦难"，名词。end suffering / years of suffering。动词 suffer。比 pain 更强调"持续的身心折磨"。在生存故事中常指饥饿、伤痛等综合苦难。
-
-- **aircraft** — "飞机、飞行器"，比 airplane 更正式，涵盖所有飞行器。单复数同形：one aircraft, two aircraft。搭配：a faulty aircraft / board the aircraft。注意不说 aircrafts。
-
-- **concern** — "担忧、关切"。搭配：a cause for concern / express concern。动词：I'm concerned about them. 比 worry 更正式。形容词 concerned（担心的/相关的）。
+- **that** — 除引导从句外，that 还可作副词表示"那么"：It wasn't that bad.（没那么糟。）口语常用。
 
 ## 练习
 
@@ -81,149 +54,149 @@ despite the fact that / in spite of / in spite of the fact that 是三个表"尽
 
 <quiz-sentence-builder>
 
-1. **中文**：幸存者们在经历船难后艰难地爬上了无名荒岛。
-   **英文**：The survivors managed to stay alive after the terrible shipwreck.
-   > **解析**：shipwreck 表示船难；survive (survivors) 表示幸存者。
+1. **中文**：尽管下着雨，我们还是出发了。
+   **英文**：In spite of the rain, we set out.
+   > **解析**：In spite of + 名词短语表示让步；set out 是固定短语"出发"。
 
-2. **中文**：强烈的飓风毁坏了救援飞机的发动机。
-   **英文**：The powerful hurricane damaged the engine of the rescue aircraft.
-   > **解析**：hurricane 表示飓风；aircraft 表示飞机。
+2. **中文**：尽管我们受了伤，我们还是继续前行。
+   **英文**：Despite the fact that we were injured, we kept going.
+   > **解析**：Despite the fact that + 从句表示让步；kept going 表示持续动作。
 
-3. **中文**：他们用树枝和绳索搭起了一个简易的避难所。
-   **英文**：They built a crude shelter using wooden sticks and strong rope.
-   > **解析**：shelter 表示避难所；rope 表示绳索。
+3. **中文**：尽管风暴致命，他们还是活了下来。
+   **英文**：In spite of the fact that the storm was deadly, they survived.
+   > **解析**：In spite of the fact that + 从句；survived 是过去式。
 
-4. **中文**：幸存者靠在沙滩上抓螃蟹和收集雨水维持生命。
-   **英文**：Survivors gathered crabs along the shore to satisfy their hunger.
-   > **解析**：crab (crabs) 表示螃蟹。
+4. **中文**：海难之后，他们游到了岛上。
+   **英文**：After the shipwreck, they swam to the island.
+   > **解析**：After the shipwreck 是时间状语；swam 是 swim 的过去式。
 
-5. **中文**：点燃堆积的干草升起浓烟是向外界求救的信号。
-   **英文**：Lighting damp leaves created heavy smoke to signal passing ships.
-   > **解析**：smoke 表示烟雾。
+5. **中文**：飓风摧毁了他们的庇护所。
+   **英文**：The hurricane destroyed their shelter.
+   > **解析**：destroyed 是过去式；their shelter 作宾语。
 
-6. **中文**：岛上生活着一些对陌生人持戒备态度的当地土著。
-   **英文**：The island was inhabited by native tribes who knew the terrain well.
-   > **解析**：native 表示本地的、土著。
+6. **中文**：他们经历了常人难以想象的苦难。
+   **英文**：They went through unimaginable suffering.
+   > **解析**：go through = 经历，went 是过去式；suffering 作宾语。
 
-7. **中文**：岛上的森林里栖息着几种带有剧毒的致命蛇类。
-   **英文**：The rainforest was home to several deadly species of poisonous snakes.
-   > **解析**：deadly 表示致命的。
+7. **中文**：他们朝海滩走去。
+   **英文**：They headed for the beach.
+   > **解析**：head for 是固定短语"朝……进发"；headed 是过去式。
 
-8. **中文**：设备的损坏和故障让无线电通讯彻底中断了。
-   **英文**：Communication failed due to a faulty radio receiver on board.
-   > **解析**：faulty 表示有故障的、损坏的。
+8. **中文**：他们遭遇了一条毒蛇。
+   **英文**：They encountered a deadly snake.
+   > **解析**：encountered 是过去式；deadly 修饰 snake。
 
-9. **中文**：医护人员为在风暴中受伤的船员进行了包扎。
-   **英文**：The medical crew tended to injured sailors after the storm passed.
-   > **解析**：injured 表示受伤的。
+9. **中文**：他们决定调查那些奇怪的声音。
+   **英文**：They decided to investigate the strange sounds.
+   > **解析**：decided to + 动词原形 investigate；sounds 作宾语。
 
-10. **中文**：尽管经历了重重痛苦，大家依然保持着生存的信念。
-   **英文**：Despite immense suffering, they never lost hope of returning home.
-   > **解析**：suffering 表示痛苦、折磨。
+10. **中文**：他们用玩游戏来消磨时间。
+   **英文**：They played games to pass the time.
+   > **解析**：to pass the time 是不定式表目的；played 是过去式。
 
-11. **中文**：缺乏干净的饮用水是探险队目前最大的担忧。
-   **英文**：The lack of fresh drinking water was their main concern on the island.
-   > **解析**：concern 表示担忧、关切。
+11. **中文**：引擎有故障导致了事故。
+   **英文**：The faulty engine caused the accident.
+   > **解析**：faulty 作定语修饰 engine；caused 是过去式。
 
-12. **中文**：在极端环境下生存下来需要顽强的意志力。
-   **英文**：Knowing how to survive in harsh conditions requires vital skills.
-   > **解析**：survive 表示生存、幸存。
+12. **中文**：连续好几天，他们什么也没吃。
+   **英文**：For days on end, they ate nothing.
+   > **解析**：For days on end 作时间状语置于句首；ate nothing 表示"什么也没吃"。
 
-13. **中文**：他们在深入丛林探险时遭遇了一群野兽。
-   **英文**：They didn't expect to encounter dangerous animals inside the jungle.
-   > **解析**：encounter 表示遭遇、遇到。
+13. **中文**：受伤的船员得到了照顾。
+   **英文**：The injured sailor was taken care of.
+   > **解析**：injured 作定语修饰 sailor；was taken care of 是被动语态。
 
-14. **中文**：队长决定亲自去调查岛屿中央冒出烟雾的地方。
-   **英文**：The leader decided to investigate the source of smoke on the hill.
-   > **解析**：investigate 表示调查、探索。
+14. **中文**：他们的情况引起了关注。
+   **英文**：Their situation caused great concern.
+   > **解析**：caused 是过去式；concern 作不可数名词"担忧"。
 
-15. **中文**：整理好装备后，大家开始朝海岸线方向前进。
-   **英文**：After packing supplies, the team prepared to head for the shore.
-   > **解析**：head for 表示朝……前进。
+15. **中文**：他们用烟发出信号。
+   **英文**：They made smoke as a signal.
+   > **解析**：make smoke 表示"生烟"；as a signal 说明目的。
 
-16. **中文**：在等待救援的日子里，他们靠讲故事来消磨时间。
-   **英文**：They played simple word games to pass the time during dark nights.
-   > **解析**：pass the time 表示消磨时间。
+16. **中文**：飞机在岛上空盘旋。
+   **英文**：The aircraft flew over the island.
+   > **解析**：aircraft 单复数同形；flew 是 fly 的过去式。
 
-17. **中文**：救援队连续好多天在附近海域展开搜救。
-   **英文**：Search helicopters patrolled the ocean area for days on end.
-   > **解析**：for days on end 表示连续好多天。
+17. **中文**：他们用绳子爬上了悬崖。
+   **英文**：They climbed the cliff with a rope.
+   > **解析**：climbed 是过去式；with a rope 表示工具。
 
-18. **中文**：尽管天气恶劣，搜救船只依然坚持出航。
-   **英文**：In spite of rough seas, the rescue boat continued its mission.
-   > **解析**：in spite of 表示尽管。
+18. **中文**：他们在海滩上抓螃蟹。
+   **英文**：They caught crabs on the beach.
+   > **解析**：caught 是 catch 的过去式；crabs 用复数。
 
-19. **中文**：尽管事实是资源有限，他们还是建好了坚固的庇护所。
-   **英文**：Despite the fact that tools were limited, they built a sturdy cabin.
-   > **解析**：despite the fact that 表示尽管事实是……
+19. **中文**：当地居民帮助他们适应了岛上生活。
+   **英文**：The native people helped them adapt.
+   > **解析**：native 作定语修饰 people；helped them adapt 是 help + 宾 + 动词原形。
 
-20. **中文**：历经重重磨难之后，他们终于重获新生。
-   **英文**：Having had to go through terrible hardship, they were finally saved.
-   > **解析**：go through 表示经历、经受。
+20. **中文**：在那种情况下，他们没有别的选择。
+   **英文**：Under the circumstances, they had no choice.
+   > **解析**：Under the circumstances 是固定表达"在这种情况下"。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The survivors managed to stay alive after the terrible shipwreck.
-   > **中文**：幸存者们在经历船难后艰难地爬上了无名荒岛。
+1. In spite of the cold, they kept the fire burning.
+   > **中文**：尽管寒冷，他们还是让火一直烧着。
 
-2. The powerful hurricane damaged the engine of the rescue aircraft.
-   > **中文**：强烈的飓风毁坏了救援飞机的发动机。
+2. Despite the fact that they were lost, they stayed calm.
+   > **中文**：尽管迷了路，他们还是保持冷静。
 
-3. They built a crude shelter using wooden sticks and strong rope.
-   > **中文**：他们用树枝和绳索搭起了一个简易的避难所。
+3. They survived for weeks on the island.
+   > **中文**：他们在岛上活了好几周。
 
-4. Survivors gathered crabs along the shore to satisfy their hunger.
-   > **中文**：幸存者靠在沙滩上抓螃蟹和收集雨水维持生命。
+4. The shipwreck happened at night.
+   > **中文**：海难发生在夜里。
 
-5. Lighting damp leaves created heavy smoke to signal passing ships.
-   > **中文**：点燃堆积的干草升起浓烟是向外界求救的信号。
+5. A hurricane was coming their way.
+   > **中文**：一场飓风正朝他们袭来。
 
-6. The island was inhabited by native tribes who knew the terrain well.
-   > **中文**：岛上生活着一些对陌生人持戒备态度的当地土著。
+6. They went through terrible suffering.
+   > **中文**：他们经历了可怕的苦难。
 
-7. The rainforest was home to several deadly species of poisonous snakes.
-   > **中文**：岛上的森林里栖息着几种带有剧毒的致命蛇类。
+7. They headed for the high ground.
+   > **中文**：他们朝高处走去。
 
-8. Communication failed due to a faulty radio receiver on board.
-   > **中文**：设备的损坏和故障让无线电通讯彻底中断了。
+8. They encountered wild animals in the forest.
+   > **中文**：他们在森林里遭遇了野生动物。
 
-9. The medical crew tended to injured sailors after the storm passed.
-   > **中文**：医护人员为在风暴中受伤的船员进行了包扎。
+9. The team investigated the crashed aircraft.
+   > **中文**：队伍调查了坠毁的飞行器。
 
-10. Despite immense suffering, they never lost hope of returning home.
-   > **中文**：尽管经历了重重痛苦，大家依然保持着生存的信念。
+10. They told stories to pass the time.
+   > **中文**：他们讲故事来消磨时间。
 
-11. The lack of fresh drinking water was their main concern on the island.
-   > **中文**：缺乏干净的饮用水是探险队目前最大的担忧。
+11. The equipment was faulty.
+   > **中文**：设备有故障。
 
-12. Knowing how to survive in harsh conditions requires vital skills.
-   > **中文**：在极端环境下生存下来需要顽强的意志力。
+12. It rained for days on end.
+   > **中文**：雨连续下好几天。
 
-13. They didn't expect to encounter dangerous animals inside the jungle.
-   > **中文**：他们在深入丛林探险时遭遇了一群野兽。
+13. The injured man needed help.
+   > **中文**：那个受伤的人需要帮助。
 
-14. The leader decided to investigate the source of smoke on the hill.
-   > **中文**：队长决定亲自去调查岛屿中央冒出烟雾的地方。
+14. His safety was our main concern.
+   > **中文**：他的安全是我们最大的担忧。
 
-15. After packing supplies, the team prepared to head for the shore.
-   > **中文**：整理好装备后，大家开始朝海岸线方向前进。
+15. They built a shelter from leaves.
+   > **中文**：他们用树叶搭了个庇护所。
 
-16. They played simple word games to pass the time during dark nights.
-   > **中文**：在等待救援的日子里，他们靠讲故事来消磨时间。
+16. Smoke rose from the top of the hill.
+   > **中文**：烟从山顶升起。
 
-17. Search helicopters patrolled the ocean area for days on end.
-   > **中文**：救援队连续好多天在附近海域展开搜救。
+17. He tied the boat with a rope.
+   > **中文**：他用绳子拴住了船。
 
-18. In spite of rough seas, the rescue boat continued its mission.
-   > **中文**：尽管天气恶劣，搜救船只依然坚持出航。
+18. She caught a crab near the rocks.
+   > **中文**：她在礁石旁抓到一只螃蟹。
 
-19. Despite the fact that tools were limited, they built a sturdy cabin.
-   > **中文**：尽管事实是资源有限，他们还是建好了坚固的庇护所。
+19. The native guide showed them the way.
+   > **中文**：当地向导给他们带路。
 
-20. Having had to go through terrible hardship, they were finally saved.
-   > **中文**：历经重重磨难之后，他们终于重获新生。
+20. The snake was deadly, so they moved slowly.
+   > **中文**：那条蛇有剧毒，所以他们行动缓慢。
 
 </quiz-listening>
 
@@ -231,26 +204,39 @@ despite the fact that / in spite of / in spite of the fact that 是三个表"尽
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| shipwreck | 船难；沉船 |
-| hurricane | 飓风 |
-| shelter | 避难所；庇护所 |
-| aircraft | 飞机；飞行器 |
+| aircraft | 飞行器 |
+| circumstance | 情况 / 境遇 |
+| concern | 担忧 |
 | crab | 螃蟹 |
-| native | 本地人；土著 |
-| rope | 绳索 |
-| smoke | 烟雾 |
 | deadly | 致命的 |
-| faulty | 有故障的；损坏的 |
-| injured | 受伤的 |
-| suffering | 痛苦；折磨 |
-| concern | 担忧；关切 |
-| survive | 幸存；生存 |
-| encounter | 遭遇；遇到 |
-| investigate | 调查；探索 |
-| head for | 朝……前进 |
-| pass the time | 消磨时间 |
-| for days on end | 连续好多天 |
+| despite the fact that | 尽管（事实是） |
+| encounter | 遭遇 |
+| faulty | 有故障的 |
+| for days on end | 连续好几天 |
+| go through | 经历 |
+| head for | 朝……进发 |
+| hurricane | 飓风 |
 | in spite of | 尽管 |
+| in spite of the fact that | 尽管（事实是） |
+| injured | 受伤的 |
+| investigate | 调查 |
+| native | 当地的 / 本地人 |
+| pass the time | 消磨时间 |
+| rope | 绳索 |
+| shelter | 庇护所 |
+| shipwreck | 海难 |
+| smoke | 烟 |
+| suffering | 苦难 |
+| survive | 幸存 |
+| that | 那 / 那么 |
+| they | 他们 |
+| their | 他们的 |
+| with | 用 / 与 |
+| after | 在……之后 |
+| was | 是（过去式） |
+| so | 所以 |
+| from | 从 |
+| way | 路 |
 
 </quiz-matching>
 
@@ -258,202 +244,202 @@ despite the fact that / in spite of / in spite of the fact that 是三个表"尽
 
 ### 1
 
-The survivors managed to stay alive after the terrible ____.
+____ the storm, the boat kept sailing.
 
-- [x] shipwreck
-- [ ] aircraft
-- [ ] circumstance
+- [x] In spite of
+- [ ] In spite
+- [ ] Despite of
 
-> **解析**：**shipwreck** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：In spite of + 名词是正确结构；In spite 缺 of，Despite 不与 of 连用。
 
 ### 2
 
-The powerful ____ damaged the engine of the rescue aircraft.
+____ they were exhausted, they climbed on.
 
-- [x] hurricane
-- [ ] aircraft
-- [ ] circumstance
+- [x] Despite the fact that
+- [ ] Despite of the fact
+- [ ] Despite the fact what
 
-> **解析**：**hurricane** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Despite the fact that + 从句是正确结构；of 和 what 都是错误搭配。
 
 ### 3
 
-They built a crude ____ using wooden sticks and strong rope.
+They managed to ____ the terrible storm.
 
-- [x] shelter
-- [ ] aircraft
-- [ ] circumstance
+- [x] survive
+- [ ] survived
+- [ ] surviving
 
-> **解析**：**shelter** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：to 后接动词原形 survive；其余两项不符合不定式要求。
 
 ### 4
 
-____ gathered crabs along the shore to satisfy their hunger.
+After the ____, they washed up on the island.
 
-- [x] Survivors
-- [ ] aircraft
-- [ ] circumstance
+- [x] shipwreck
+- [ ] shipwrecks
+- [ ] ship wrecked
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Survivors**。
+> **解析**：the 后接单数名词 shipwreck；ship wrecked 是句子结构，不合名词位置。
 
 ### 5
 
-Lighting damp leaves created heavy ____ to signal passing ships.
+The ____ destroyed everything they had built.
 
-- [x] smoke
-- [ ] aircraft
-- [ ] circumstance
+- [x] hurricane
+- [ ] hurricanes
+- [ ] hurry cane
 
-> **解析**：**smoke** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The 后接单数名词 hurricane；hurry cane 是错误拆分。
 
 ### 6
 
-The island was inhabited by ____ tribes who knew the terrain well.
+They had to go ____ many hardships.
 
-- [x] native
-- [ ] aircraft
-- [ ] circumstance
+- [x] through
+- [ ] over
+- [ ] against
 
-> **解析**：**native** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：go through 是固定短语"经历"；go over 是"复习、检查"，语义不合。
 
 ### 7
 
-The rainforest was home to several ____ species of poisonous snakes.
+They headed ____ the nearest village.
 
-- [x] deadly
-- [ ] aircraft
-- [ ] circumstance
+- [x] for
+- [ ] to at
+- [ ] into to
 
-> **解析**：**deadly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：head for 是固定搭配"朝……进发"；其余两项结构错误。
 
 ### 8
 
-Communication failed due to a ____ radio receiver on board.
+They ____ a strange creature in the cave.
 
-- [x] faulty
-- [ ] aircraft
-- [ ] circumstance
+- [x] encountered
+- [ ] encounter
+- [ ] encountering
 
-> **解析**：**faulty** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去事件用过去式 encountered；其余两项不能单独作谓语。
 
 ### 9
 
-The medical crew tended to ____ sailors after the storm passed.
+The pilot ____ the crash site carefully.
 
-- [x] injured
-- [ ] aircraft
-- [ ] circumstance
+- [x] investigated
+- [ ] investigate
+- [ ] investigating
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **injured**。
+> **解析**：主语 pilot 是过去行为，用过去式 investigated。
 
 ### 10
 
-Despite immense ____, they never lost hope of returning home.
+They played cards to ____ the time.
 
-- [x] suffering
-- [ ] aircraft
-- [ ] circumstance
+- [x] pass
+- [ ] passes
+- [ ] passing
 
-> **解析**：**suffering** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：to 后接动词原形 pass；pass the time 表示"消磨时间"。
 
 ### 11
 
-The lack of fresh drinking water was their main ____ on the island.
+The accident was caused by ____ brakes.
 
-- [x] concern
-- [ ] aircraft
-- [ ] circumstance
+- [x] faulty
+- [ ] fault
+- [ ] faultily
 
-> **解析**：**concern** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰名词 brakes 需要形容词 faulty；fault 是名词，faultily 不是常用词。
 
 ### 12
 
-Knowing how to ____ in harsh conditions requires vital skills.
+They waited for the rescue ____ on end.
 
-- [x] survive
-- [ ] aircraft
-- [ ] circumstance
+- [x] for days
+- [ ] in days
+- [ ] at days
 
-> **解析**：**survive** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：for days on end 是固定表达"连续好几天"；in 和 at 不合搭配。
 
 ### 13
 
-They didn't expect to ____ dangerous animals inside the jungle.
+The ____ sailor was carried to the shelter.
 
-- [x] encounter
-- [ ] aircraft
-- [ ] circumstance
+- [x] injured
+- [ ] injure
+- [ ] injury
 
-> **解析**：**encounter** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：修饰名词 sailor 需要形容词 injured；injure 是动词，injury 是名词。
 
 ### 14
 
-The leader decided to ____ the source of smoke on the hill.
+There was growing ____ about their safety.
 
-- [x] investigate
-- [ ] aircraft
-- [ ] circumstance
+- [x] concern
+- [ ] concerned
+- [ ] concerning
 
-> **解析**：**investigate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：growing 后需要名词 concern；concerned 是形容词，concerning 作形容词时表"令人担忧"但此处需要名词。
 
 ### 15
 
-After packing ____, the team prepared to head for the shore.
+They found ____ under a large rock.
 
-- [x] supplies
-- [ ] aircraft
-- [ ] circumstance
+- [x] shelter
+- [ ] shelters
+- [ ] sheltering
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **supplies**。
+> **解析**：find shelter 是固定搭配，shelter 用单数；sheltering 是动名词。
 
 ### 16
 
-They ____ simple word games to pass the time during dark nights.
+The rescue team saw the ____ from the air.
 
-- [x] played
-- [ ] aircraft
-- [ ] circumstance
+- [x] smoke
+- [ ] smokes
+- [ ] smoking
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **played**。
+> **解析**：smoke 作"烟"是不可数名词；smoking 指吸烟行为。
 
 ### 17
 
-Search ____ patrolled the ocean area for days on end.
+They secured the tent with a long ____.
 
-- [x] helicopters
-- [ ] aircraft
-- [ ] circumstance
+- [x] rope
+- [ ] ropes of
+- [ ] roping
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **helicopters**。
+> **解析**：a long 后接单数名词 rope；roping 是动名词。
 
 ### 18
 
-In spite of rough seas, the rescue boat ____ its mission.
+For dinner, they roasted a ____.
 
-- [x] continued
-- [ ] aircraft
-- [ ] circumstance
+- [x] crab
+- [ ] crable
+- [ ] crabs
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **continued**。
+> **解析**：a 后接单数名词 crab；crable 不是正确构词，crabs 与 a 冲突。
 
 ### 19
 
-Despite the fact ____ tools were limited, they built a sturdy cabin.
+The ____ villagers taught them to fish.
 
-- [x] that
-- [ ] aircraft
-- [ ] circumstance
+- [x] native
+- [ ] nation
+- [ ] natively
 
-> **解析**：**that** 为指示代词/限定词，指代单数远指事物，表示“那个”。
+> **解析**：修饰 villagers 需要形容词 native；nation 是名词，natively 不是常用词。
 
 ### 20
 
-Having had to go through ____ hardship, they were finally saved.
+Under the ____, they did the best they could.
 
-- [x] terrible
-- [ ] aircraft
-- [ ] circumstance
+- [x] circumstances
+- [ ] circumstance's
+- [ ] circumstantially
 
-> **解析**：**terrible** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Under the circumstances 是固定表达，用复数；所有格和副词不合搭配。
 
 </quiz-cloze>

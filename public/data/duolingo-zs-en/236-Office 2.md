@@ -10,40 +10,37 @@ availability, call in sick, cooperate, cut, decline, in the long run, itself, le
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"分享决定的理由"展开，场景是职场沟通。词表里有职场核心词汇（performance, strategy, spreadsheet, shift, partner, retirement, availability），有人事变动表达（let go, call in sick, cut, decline, move on），也有解释理由的句式（the reason that, the point is that, the thing is that, that reminds me, what if, in the long run）。你可以用这些词讨论职场决定：The reason that we had to let him go is that his performance was unacceptable. / The point is that, in the long run, this strategy will help. / The thing is that she's been unreliable—on top of that, she called in sick again. / That reminds me, we need to cut the budget. / What if we move on to a new partner?
+本单元的主题是"为决定说明理由"，场景在办公室。词表可以分成四组：办公名词（availability, spreadsheet, strategy, performance, partner, retirement, shift）、决定与动作（call in sick, cooperate, cut, decline, let go, move on, take）、解释理由的句型（the reason that, the point is that, the thing is that, that reminds me, what if, in the long run, on top of, once）、以及评价词（unacceptable, unreliable）。拼起来就是一场典型的职场对话：The reason that I called in sick is that I was unwell. The point is that we need a new strategy.
 
-这里值得注意 the reason that / the point is that / the thing is that 这组"解释性"句式——它们都用于引出理由或重点，但语气不同：the reason that 最正式（给出原因），the point is that 强调核心（重点是），the thing is that 最口语（事情是这样的）。
+语法主线是 that 引导的表语从句和原因从句：The reason is that... / The thing is that...，用完整句子来解释决定。另一条主线是反身代词 itself：The problem solved itself.（问题自己解决了），表示动作回到主语自身。un- 前缀的两个形容词 unacceptable、unreliable 则用来表达负面评价。
 
-学完本单元，你可以用英语在职场中解释决定的原因、讨论人事变动，并用不同句式表达理由。
+学完这个单元，你能用英语解释自己的职场决定、评价同事的表现、讨论裁员与退休等现实话题。
 
 ## Tips
 
-- **the reason that / the point is that / the thing is that** — 都用于解释，语气递减。the reason that = 原因是（正式），the point is that = 重点是（强调核心），the thing is that = 事情是（口语铺垫）。The reason that we cut the budget is clear. / The point is that we need a new strategy. / The thing is that he's unreliable.
+- **the reason that / the point is that / the thing is that** — 三个解释理由的句型骨架。The reason that I left early was the meeting.（我早走的原因是……）The point is that we have no choice.（关键是……）The thing is that I was busy.（情况是……）that 后可接完整从句，口语中 that 常省略。
 
-- **let go / call in sick** — let go = 解雇（委婉说法），call in sick = 打电话请病假。搭配：let sb go, get let go, call in sick。We had to let him go. / She called in sick again. 注意 let go 比 fire 更委婉，比 lay off（裁员）更针对个人。
+- **that reminds me / what if** — 两个会话推进器。that reminds me 用来顺势想起另一件事："对了，这让我想起来……"；what if 提出假设："What if the client says no?"（如果客户拒绝怎么办？）what if 后接完整句子。
 
-- **performance / strategy / spreadsheet** — performance 是表现/绩效，strategy 是策略，spreadsheet 是电子表格。搭配：job performance, a new strategy, update the spreadsheet。His performance was unacceptable. / We need a better strategy. / The numbers are in the spreadsheet.
+- **call in sick / let go / move on** — 三个职场动词短语。call in sick = 打电话请病假；let go = 解雇（委婉说法）：The company let him go. move on = 继续前行、换下一个阶段：It's time to move on.
 
-- **unacceptable / unreliable** — unacceptable 是不可接受的，unreliable 是不可靠的。搭配：unacceptable behavior, an unreliable partner。His attitude is unacceptable. / She's unreliable—always calling in sick. 构词：un- + acceptable / reliable。注意 un- 是否定前缀。
+- **decline / cut / take** — 三个决定类动词。decline = 婉拒：decline an offer，比 refuse 礼貌；cut = 削减：cut costs；take 搭配广泛：take a break, take responsibility。
 
-- **in the long run** — 从长远来看。搭配：in the long run, ...。In the long run, this decision will help. 反义：in the short run（短期来看）。注意 run 在这里不是"跑"，而是"一段时间"。
+- **cooperate** — "合作"，强调配合：We need to cooperate. 名词 cooperation，形容词 cooperative。与 collaborate 相比，cooperate 更侧重"顺从配合"。
 
-- **on top of / on top of that** — on top of = 除……之外（还有），on top of that = 更有甚者。搭配：on top of his mistakes, on top of that...。On top of being late, he missed the deadline. / On top of that, he declined to cooperate. 表示"雪上加霜"的递进。
+- **availability / performance / strategy** — 三个办公名词。availability 是"有空的程度、可用性"：Check my availability. performance 是"表现、业绩"：Her performance is excellent. strategy 是"战略、策略"，来自希腊语 stratos（军队）。
 
-- **move on / decline / cut** — move on = 继续前进/翻篇，decline = 拒绝（正式），cut = 削减。搭配：move on to the next thing, decline an offer, cut the budget。Let's move on. / She declined the partnership. / We need to cut costs. 注意 decline 比 refuse 更礼貌、更正式。
+- **spreadsheet / shift / retirement** — spreadsheet 是"电子表格"（spread + sheet，铺开的一张表）；shift 指"班次、轮班"，也可作动词"转变"；retirement 是"退休"：He announced his retirement. 动词是 retire。
 
-- **shift / availability / retirement** — shift 是轮班/转变，availability 是可用时间/是否有空，retirement 是退休。搭配：work a shift, check your availability, plan for retirement。What's your availability this week? / He's planning his retirement. 注意 shift 可指"班次"也可指"转变"。
+- **partner** — "合伙人、搭档"，商务语境指合作方：our business partner。也可指生活伴侣，语义宽泛，避免了 gender 指向。
 
-- **that reminds me** — 那提醒我了、对了（想起另一件事）。搭配：That reminds me, ...。That reminds me—we need to update the spreadsheet. 用于对话中突然想起相关的事，非常口语化。
+- **unacceptable / unreliable** — un- 前缀表否定：accept（接受）→ acceptable（可接受的）→ unacceptable（不可接受的）；rely（依赖）→ reliable（可靠的）→ unreliable（不可靠的）。-able 后缀表示"可以……的"。
 
-- **what if** — 如果……怎么办/要是……呢。搭配：What if + 从句。What if we try a new strategy? / What if he declines? 用于提出假设或担忧。注意 what if 后可接现在时（真实可能）或过去时（虚拟）。
+- **in the long run / on top of** — 两个介词短语。in the long run = 从长远看：It pays off in the long run. on top of = 除……之外（还有），叠加含义：On top of the delay, we lost money.
 
-- **cooperate / partner** — cooperate 是合作（动词），partner 是合作伙伴（名词）。搭配：cooperate with, a business partner。We need to cooperate better. / Our partner is unreliable. 注意 cooperate 搭配 with：cooperate with the team。
-
-- **itself / once / take** — itself 是反身代词（它自己），once 是"一旦/曾经"，take 含义丰富。搭配：the problem itself, once we decide, take a shift。The strategy itself is fine. / Once we move on, things will improve. / I'll take the morning shift. 注意 once 作连词 = 一旦：Once you start, you can't stop.
+- **itself / once** — itself 是反身代词：The system updates itself.（系统自动更新。）once 作连词表示"一旦"：Once you start, you can't stop. 也可作副词"曾经"。
 
 ## 练习
 
@@ -61,176 +58,189 @@ availability, call in sick, cooperate, cut, decline, in the long run, itself, le
 
 <quiz-sentence-builder>
 
-1. **中文**：我们不得不解雇他的原因是他的业绩表现差。
-   **英文**：The reason that we had to let him go was his poor performance.
-   > **解析**：let go 委婉表示解雇。
+1. **中文**：我请了病假。
+   **英文**：I called in sick.
+   > **解析**：call in sick 是固定短语"打电话请病假"；called 是过去式，表示已经发生。
 
-2. **中文**：关键是长远来看我们必须削减成本。
-   **英文**：The point is that we must cut costs in the long run.
-   > **解析**：in the long run 意为从长远来看。
+2. **中文**：关键是我们需要一个新策略。
+   **英文**：The point is that we need a new strategy.
+   > **解析**：The point is that... 是固定句型，that 引导表语从句，说明"关键点"的内容。
 
-3. **中文**：问题是我们的商业伙伴最近一直不可靠。
-   **英文**：The thing is that our business partner has been unreliable lately.
-   > **解析**：unreliable 意为不可靠的。
+3. **中文**：我迟到的原因是交通堵塞。
+   **英文**：The reason that I was late was the traffic.
+   > **解析**：the reason that... 引导原因从句修饰 reason；主句谓语 was 与单数主语 reason 一致。
 
-4. **中文**：要是有几个员工在同一天请病假怎么办？
-   **英文**：What if several employees call in sick on the same day?
-   > **解析**：call in sick 意为打电话请病假。
+4. **中文**：情况是我今天太忙了。
+   **英文**：The thing is that I am too busy today.
+   > **解析**：The thing is that... 用 that 从句解释实际情况，是口语中解释理由的高频句型。
 
-5. **中文**：那提醒了我，我需要检查大家轮班的空闲时间。
-   **英文**：That reminds me, I need to check everyone's availability for the shift.
-   > **解析**：availability 意为可用时间、是否有空。
+5. **中文**：这让我想起来，会议改时间了。
+   **英文**：That reminds me that the meeting moved.
+   > **解析**：That reminds me 是会话衔接语；that 从句补充想起的内容，moved 表示"改期"。
 
-6. **中文**：除了日常职责外，他还必须更新电子表格。
-   **英文**：On top of his daily duties, he had to update the spreadsheet.
-   > **解析**：spreadsheet 意为电子表格。
+6. **中文**：如果客户不同意怎么办？
+   **英文**：What if the client disagrees?
+   > **解析**：What if 后接完整句子，提出假设情景；client 是单三主语，disagree 加 s。
 
-7. **中文**：一旦我们在新策略上达成一致，我们就可以继续前进了。
-   **英文**：Once we agree on the new strategy, we can move on.
-   > **解析**：strategy 意为策略、战略。
+7. **中文**：从长远来看，这样做值得。
+   **英文**：In the long run, it will pay off.
+   > **解析**：In the long run 作时间状语放在句首，用逗号隔开；it 是形式主语指代前文的决定。
 
-8. **中文**：在这个公司里，不可接受的行为绝不会被容忍。
-   **英文**：Unacceptable behavior will not be tolerated in this company.
-   > **解析**：unacceptable 意为不可接受的。
+8. **中文**：公司不得不解雇了一些员工。
+   **英文**：The company had to let go of some workers.
+   > **解析**：let go of 是委婉表达"解雇"；had to 表示过去不得不做某事。
 
-9. **中文**：软件产品本身不错，但支持不足。
-   **英文**：The software product itself is good, but the support is lacking.
-   > **解析**：itself 为反身代词，意为它自己/本身。
+9. **中文**：是时候向前看了。
+   **英文**：It is time to move on.
+   > **解析**：It is time to do 是固定句型；move on 表示"继续前进、进入下一阶段"。
 
-10. **中文**：由于即将退休，她决定拒绝这个提议。
-   **英文**：She decided to decline the offer because of her upcoming retirement.
-   > **解析**：decline 意为婉言拒绝。
+10. **中文**：我们必须互相配合。
+   **英文**：We must cooperate with each other.
+   > **解析**：must 后接动词原形 cooperate；cooperate with 是固定搭配"与……合作"。
 
-11. **中文**：我们需要所有部门在这个项目上密切合作。
-   **英文**：We need all departments to cooperate closely on this project.
-   > **解析**：cooperate 意为合作。
+11. **中文**：她婉拒了那个提议。
+   **英文**：She declined the offer.
+   > **解析**：decline 是及物动词"婉拒"，直接接宾语 the offer，比 refuse 更礼貌。
 
-12. **中文**：他决定本周上夜班。
-   **英文**：He decided to take a night shift this week.
-   > **解析**：shift 意为轮班。
+12. **中文**：我们不得不削减预算。
+   **英文**：We had to cut the budget.
+   > **解析**：cut 作动词"削减"，原形与过去式同形；budget 作宾语。
 
-13. **中文**：从长远来看，质量比速度更重要。
-   **英文**：In the long run, quality is more important than speed.
-   > **解析**：in the long run 意为长远来看。
+13. **中文**：他的表现是不可接受的。
+   **英文**：His performance is unacceptable.
+   > **解析**：performance 作主语，搭配 is；unacceptable 是 un- + acceptable 构成的否定形容词。
 
-14. **中文**：出于个人原因，他被迫拒绝了升职。
-   **英文**：He was forced to decline the promotion for personal reasons.
-   > **解析**：decline 意为拒绝。
+14. **中文**：这台机器不可靠。
+   **英文**：The machine is unreliable.
+   > **解析**：unreliable = un- + reliable；系动词 is 连接主语与表语。
 
-15. **中文**：在我们的投资中，她一直是一个不可靠的合作伙伴。
-   **英文**：She has been an unreliable partner in our investment.
-   > **解析**：partner 意为合作伙伴。
+15. **中文**：除了延误，我们还损失了钱。
+   **英文**：On top of the delay, we lost money.
+   > **解析**：On top of 表示"除……之外还有"，后接名词短语，作状语置于句首。
 
-16. **中文**：那提醒了我，我们还没有付账单。
-   **英文**：That reminds me that we haven't paid the bills yet.
-   > **解析**：that reminds me 意为那提醒了我。
+16. **中文**：一旦你开始，就无法停下。
+   **英文**：Once you start, you cannot stop.
+   > **解析**：once 作连词"一旦"引导条件状语从句；主句用 cannot + 动词原形。
 
-17. **中文**：要是我彻底改变我们的营销策略会怎样？
-   **英文**：What if we change our marketing strategy completely?
-   > **解析**：what if 意为要是我……会怎样。
+17. **中文**：这个系统会自动更新。
+   **英文**：The system updates itself.
+   > **解析**：itself 是反身代词，作 updates 的宾语，表示动作回到主语本身。
 
-18. **中文**：这个季度他的业绩有了显著改善。
-   **英文**：His performance has improved significantly this quarter.
-   > **解析**：performance 意为业绩、表现。
+18. **中文**：请告诉我你什么时候有空。
+   **英文**：Tell me your availability.
+   > **解析**：availability 是名词"有空的程度"，作 tell 的直接宾语；your 是物主代词。
 
-19. **中文**：电子表格准备好后，请发给我。
-   **英文**：Once the spreadsheet is ready, please send it to me.
-   > **解析**：once 意为一旦。
+19. **中文**：他宣布了他的退休计划。
+   **英文**：He announced his retirement.
+   > **解析**：retirement 是 retire 的名词形式；announced 是过去式，his 修饰 retirement。
 
-20. **中文**：是时候转到我们的下一个业务议题了。
-   **英文**：It is time to move on to our next business topic.
-   > **解析**：move on 意为继续前进、转入下一主题。
+20. **中文**：我今晚值晚班。
+   **英文**：I have the night shift.
+   > **解析**：shift 指"班次"；night shift 是固定搭配"夜班"，have 表示"有（某个安排）"。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The reason that we had to let him go was his poor performance.
-   > **中文**：我们不得不解雇他的原因是他的业绩表现差。
+1. I need to call in sick today.
+   > **中文**：我今天得打电话请病假。
 
-2. The point is that we must cut costs in the long run.
-   > **中文**：关键是长远来看我们必须削减成本。
+2. The reason that I left was the meeting.
+   > **中文**：我离开的原因是要开会。
 
-3. The thing is that our business partner has been unreliable lately.
-   > **中文**：问题是我们的商业伙伴最近一直不可靠。
+3. The point is that we need help.
+   > **中文**：关键是我们需要帮助。
 
-4. What if several employees call in sick on the same day?
-   > **中文**：要是有几个员工在同一天请病假怎么办？
+4. The thing is that I am busy.
+   > **中文**：情况是我现在很忙。
 
-5. That reminds me, I need to check everyone's availability for the shift.
-   > **中文**：那提醒了我，我需要检查大家轮班的空闲时间。
+5. That reminds me of my old job.
+   > **中文**：这让我想起了我的旧工作。
 
-6. On top of his daily duties, he had to update the spreadsheet.
-   > **中文**：除了日常职责外，他还必须更新电子表格。
+6. What if the plan fails?
+   > **中文**：如果计划失败了怎么办？
 
-7. Once we agree on the new strategy, we can move on.
-   > **中文**：一旦我们在新策略上达成一致，我们就可以继续前进了。
+7. It pays off in the long run.
+   > **中文**：从长远来看是值得的。
 
-8. Unacceptable behavior will not be tolerated in this company.
-   > **中文**：在这个公司里，不可接受的行为绝不会被容忍。
+8. The company let him go.
+   > **中文**：公司把他解雇了。
 
-9. The software product itself is good, but the support is lacking.
-   > **中文**：软件产品本身不错，但支持不足。
+9. It is time to move on.
+   > **中文**：是时候向前看了。
 
-10. She decided to decline the offer because of her upcoming retirement.
-   > **中文**：由于即将退休，她决定拒绝这个提议。
+10. We should cooperate more.
+   > **中文**：我们应该多加配合。
 
-11. We need all departments to cooperate closely on this project.
-   > **中文**：我们需要所有部门在这个项目上密切合作。
+11. She declined the offer.
+   > **中文**：她婉拒了那个提议。
 
-12. He decided to take a night shift this week.
-   > **中文**：他决定本周上夜班。
+12. We must cut the costs.
+   > **中文**：我们必须削减成本。
 
-13. In the long run, quality is more important than speed.
-   > **中文**：从长远来看，质量比速度更重要。
+13. His attitude is unacceptable.
+   > **中文**：他的态度是不可接受的。
 
-14. He was forced to decline the promotion for personal reasons.
-   > **中文**：出于个人原因，他被迫拒绝了升职。
+14. The old printer is unreliable.
+   > **中文**：这台旧打印机不可靠。
 
-15. She has been an unreliable partner in our investment.
-   > **中文**：在我们的投资中，她一直是一个不可靠的合作伙伴。
+15. On top of that, we lost the client.
+   > **中文**：除此之外，我们还失去了客户。
 
-16. That reminds me that we haven't paid the bills yet.
-   > **中文**：那提醒了我，我们还没有付账单。
+16. Once we start, we cannot stop.
+   > **中文**：一旦我们开始，就无法停下。
 
-17. What if we change our marketing strategy completely?
-   > **中文**：要是我彻底改变我们的营销策略会怎样？
+17. The machine fixes itself.
+   > **中文**：这台机器会自我修复。
 
-18. His performance has improved significantly this quarter.
-   > **中文**：这个季度他的业绩有了显著改善。
+18. Check my availability first.
+   > **中文**：先查一下我什么时候有空。
 
-19. Once the spreadsheet is ready, please send it to me.
-   > **中文**：电子表格准备好后，请发给我。
+19. Her retirement is next month.
+   > **中文**：她下个月退休。
 
-20. It is time to move on to our next business topic.
-   > **中文**：是时候转到我们的下一个业务议题了。
+20. My partner made a new spreadsheet.
+   > **中文**：我的搭档做了一个新的电子表格。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| let go | 解雇（委婉语） |
+| --- | --- |
+| availability | 有空的程度 |
 | call in sick | 打电话请病假 |
-| in the long run | 从长远来看 |
-| the reason that | 原因是…… |
-| the point is that | 关键是…… |
-| the thing is that | 问题是…… |
-| performance | 业绩；表现 |
-| strategy | 策略；战略 |
+| cooperate | 合作 |
+| cut | 削减 |
+| decline | 婉拒 |
+| in the long run | 从长远看 |
+| itself | 它自己 |
+| let go | 解雇 |
+| move on | 继续前行 |
+| on top of | 除……之外 |
+| once | 一旦 / 曾经 |
+| partner | 合伙人 / 搭档 |
+| performance | 表现 / 业绩 |
+| retirement | 退休 |
+| shift | 班次 |
 | spreadsheet | 电子表格 |
+| strategy | 策略 |
+| take | 拿 / 采取 |
+| that reminds me | 这让我想起来 |
+| the point is that | 关键是…… |
+| the reason that | ……的原因 |
+| the thing is that | 情况是…… |
 | unacceptable | 不可接受的 |
 | unreliable | 不可靠的 |
-| on top of | 除……之外（还有） |
-| move on | 继续前进；翻篇 |
-| decline | 拒绝；下降 |
-| cut | 削减；剪切 |
-| shift | 轮班；转变 |
-| availability | 可用时间；是否有空 |
-| retirement | 退休 |
-| that reminds me | 那提醒我了 |
 | what if | 如果……怎么办 |
+| we | 我们 |
+| need | 需要 |
+| new | 新的 |
+| was | 是（过去式） |
+| had to | 不得不 |
+| with | 与 |
+| must | 必须 |
+| should | 应该 |
 
 </quiz-matching>
 
@@ -238,202 +248,202 @@ availability, call in sick, cooperate, cut, decline, in the long run, itself, le
 
 ### 1
 
-The reason that we had to let him go was his poor ____.
+I need to ____ sick this morning.
 
-- [x] performance
-- [ ] availability
-- [ ] call in sick
+- [x] call in
+- [ ] calls in
+- [ ] calling in
 
-> **解析**：**performance** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：need to 后接动词原形 call in；calls in 是单三形式，calling in 是动名词。
 
 ### 2
 
-The point is that we must ____ costs in the long run.
+The reason ____ I left was the meeting.
 
-- [x] cut
-- [ ] availability
-- [ ] call in sick
+- [x] that
+- [ ] what
+- [ ] who
 
-> **解析**：**cut** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the reason that... 用 that 引导从句；what 不用于此结构，who 指人。
 
 ### 3
 
-The thing is that our business ____ has been unreliable lately.
+The point is ____ we need a new strategy.
 
-- [x] partner
-- [ ] availability
-- [ ] call in sick
+- [x] that
+- [ ] what
+- [ ] which
 
-> **解析**：**partner** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：表语从句用 that 引导，说明 point 的内容；what 和 which 会改变句意。
 
 ### 4
 
-What if several ____ call in sick on the same day?
+____ the client says no to the plan?
 
-- [x] employees
-- [ ] availability
-- [ ] call in sick
+- [x] What if
+- [ ] What
+- [ ] That
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **employees**。
+> **解析**：What if 后接完整句子表示"如果……怎么办"；单独的 What 或 That 无法构成该句型。
 
 ### 5
 
-That reminds me, I need to check everyone's ____ for the shift.
+It will pay off in the long ____.
 
-- [x] availability
-- [ ] call in sick
-- [ ] cooperate
+- [x] run
+- [ ] way
+- [ ] road
 
-> **解析**：**availability** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：in the long run 是固定搭配；way 和 road 不能构成此短语。
 
 ### 6
 
-On top of his daily duties, he had to update the ____.
+The company had to ____ him go.
 
-- [x] spreadsheet
-- [ ] availability
-- [ ] call in sick
+- [x] let
+- [ ] lets
+- [ ] letting
 
-> **解析**：**spreadsheet** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：had to 后接动词原形 let；let go 表示"解雇"，lets 和 letting 都不符合 to 后原形的要求。
 
 ### 7
 
-____ we agree on the new strategy, we can move on.
+We must ____ with each other.
 
-- [x] Once
-- [ ] availability
-- [ ] call in sick
+- [x] cooperate
+- [ ] cooperates
+- [ ] cooperation
 
-> **解析**：**Once** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：must 后接动词原形 cooperate；cooperates 是单三形式，cooperation 是名词。
 
 ### 8
 
-____ behavior will not be tolerated in this company.
+She politely ____ the offer.
 
-- [x] Unacceptable
-- [ ] availability
-- [ ] call in sick
+- [x] declined
+- [ ] declines
+- [ ] declining
 
-> **解析**：**Unacceptable** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去事件用过去式 declined；declines 是一般现在时单三，declining 不能单独作谓语。
 
 ### 9
 
-The software product ____ is good, but the support is lacking.
+We had to ____ the costs this year.
 
-- [x] itself
-- [ ] availability
-- [ ] call in sick
+- [x] cut
+- [ ] cuts
+- [ ] cutting
 
-> **解析**：**itself** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：had to 后接动词原形 cut（cut 过去式同形）；cuts 是单三，cutting 是动名词。
 
 ### 10
 
-She decided to ____ the offer because of her upcoming retirement.
+His behavior at work is ____.
 
-- [x] decline
-- [ ] availability
-- [ ] call in sick
+- [x] unacceptable
+- [ ] unaccept
+- [ ] unaccepting
 
-> **解析**：**decline** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 unacceptable；unaccept 和 unaccepting 都不是正确构词。
 
 ### 11
 
-We need all departments to ____ closely on this project.
+The data on this sheet is ____.
 
-- [x] cooperate
-- [ ] availability
-- [ ] call in sick
+- [x] unreliable
+- [ ] unrely
+- [ ] unrelying
 
-> **解析**：**cooperate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 unreliable（un- + reliable）；其余两项不是正确构词。
 
 ### 12
 
-He decided to ____ a night shift this week.
+____ of the delay, we also lost money.
 
-- [x] take
-- [ ] availability
-- [ ] call in sick
+- [x] On top
+- [ ] On head
+- [ ] On peak
 
-> **解析**：**take** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：On top of 是固定搭配"除……之外"；head 和 peak 不能构成此短语。
 
 ### 13
 
-In the long run, quality is more ____ than speed.
+____ you agree, we will start the project.
 
-- [x] important
-- [ ] availability
-- [ ] call in sick
+- [x] Once
+- [ ] Ones
+- [ ] One
 
-> **解析**：**important** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Once 作连词"一旦"引导条件从句；Ones 是复数代词，One 不能引导从句。
 
 ### 14
 
-He was forced to ____ the promotion for personal reasons.
+The system updates ____ every night.
 
-- [x] decline
-- [ ] availability
-- [ ] call in sick
+- [x] itself
+- [ ] myself
+- [ ] themselves
 
-> **解析**：**decline** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 system 是单数事物，反身代词用 itself；myself 对应 I，themselves 对应复数。
 
 ### 15
 
-She has been an ____ partner in our investment.
+Please send me your ____ for next week.
 
-- [x] unreliable
-- [ ] availability
-- [ ] call in sick
+- [x] availability
+- [ ] available
+- [ ] availably
 
-> **解析**：**unreliable** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：your 后需要名词 availability；available 是形容词，availably 不是常用词。
 
 ### 16
 
-That ____ me that we haven't paid the bills yet.
+That ____ me of my first job.
 
 - [x] reminds
-- [ ] availability
-- [ ] call in sick
+- [ ] remind
+- [ ] reminding
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **reminds**。
+> **解析**：主语 That 是单数，动词用 reminds；remind 缺 s，reminding 不能单独作谓语。
 
 ### 17
 
-What if we change our marketing ____ completely?
+It is time to ____ on to the next task.
 
-- [x] strategy
-- [ ] availability
-- [ ] call in sick
+- [x] move
+- [ ] moves
+- [ ] moving
 
-> **解析**：**strategy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：It is time to 后接动词原形 move；move on 表示"继续前进"。
 
 ### 18
 
-His ____ has improved significantly this quarter.
+He announced his ____ at the meeting.
 
-- [x] performance
-- [ ] availability
-- [ ] call in sick
+- [x] retirement
+- [ ] retire
+- [ ] retired
 
-> **解析**：**performance** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：his 后需要名词 retirement；retire 是动词，retired 是过去式或形容词。
 
 ### 19
 
-____ the spreadsheet is ready, please send it to me.
+I have the night ____ this week.
 
-- [x] Once
-- [ ] availability
-- [ ] call in sick
+- [x] shift
+- [ ] sheet
+- [ ] ship
 
-> **解析**：**Once** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：night shift 是固定搭配"夜班"；sheet 是"纸张"，ship 是"船"，语义不符。
 
 ### 20
 
-It is time to move on to our next ____ topic.
+My ____ updated the spreadsheet this morning.
 
-- [x] business
-- [ ] availability
-- [ ] call in sick
+- [x] partner
+- [ ] partnership
+- [ ] partying
 
-> **解析**：**business** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：My 后需要名词 partner（搭档）；partnership 是抽象名词"伙伴关系"，partying 是动名词，均不作此搭配。
 
 </quiz-cloze>

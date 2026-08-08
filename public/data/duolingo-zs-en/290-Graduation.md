@@ -10,40 +10,33 @@ academic, accomplish, accomplishment, admirable, all worth it, benefit, can't wa
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"祝贺某人的成功"展开，场景是毕业典礼。词表里有描述学术成就的词汇（academic, higher education, master's degree, learner, lifelong），有赞美品质和努力的表达（dedicated, dedication, driven, willpower, admirable, work hard at, stay focused），也有祝贺和感慨的短语（way to go, can't wait, look how, never have i, all worth it, relief, wishing you）。你可以练习这样的祝贺：Way to go! Look how far you've come—never have I seen someone so dedicated. / Earning a master's degree takes willpower and dedication, but it's all worth it. / I can't wait to celebrate with you. Wishing you all the best in your next chapter!
+本单元的主题是"祝贺某人的成功"，场景是毕业典礼。词表可以分成四组：学业成就（academic, higher education, master's degree, accomplish, accomplishment, learner）、品质赞美（dedicated, dedication, driven, admirable, willpower, work hard at, stay focused）、情感表达（relief, discouraged, can't wait, all worth it）、以及祝贺用语（way to go, look how, never have i, wishing you, sounds like, do it, lifelong, benefit）。拼起来就是一段毕业祝贺：Way to go! Look how far you've come. Never have I seen such dedication — your master's degree is all worth it!
 
-词表里有几个表达"努力和坚持"的词值得注意：driven（有内驱力的）、dedicated（专注投入的）、willpower（意志力）、stay focused（保持专注）。这些词比 hardworking 更强调内在动力和长期投入。never have I 是倒装结构，用来加强语气，表达"我从未……"的惊叹。
+语法主线是"倒装强调"。Never have I seen...（我从未见过…）是否定副词 never 置于句首引起的部分倒装：Never have I met a more driven learner.（我从未遇见过更有进取心的学习者。）正常语序是 I have never met... 另一条主线是赞美词汇网：dedicated（投入的）、driven（有干劲的）、admirable（令人钦佩的）加名词 dedication、willpower，构成立体的夸奖表达。
+
+学完这单元，你能用英语送上真挚的毕业祝贺：赞美对方的努力与品质、感叹成就、展望未来，还能用倒装句加强语气。
 
 ## Tips
 
-- **way to go** — 干得好、好样的！口语中极常用的祝贺表达。搭配：Way to go! / Way to go, you did it! 例句：You got your master's degree? Way to go! 比 congratulations 更随意、更热情，适合朋友之间。类似表达：good for you / well done / you did it。
+- **way to go / look how** — 祝贺开场。Way to go!（干得漂亮！）是地道祝贺语；look how 引出感叹：Look how much you've accomplished!
 
-- **never have i** — 我从未……（倒装强调）。完整结构：Never have I seen / Never have I felt / Never have I been so proud. 例句：Never have I been so proud of you! 注意 never 放句首时，主语和助动词倒装（have I，不是 I have）。这种倒装比 I have never 语气强得多，带有强烈的感情。
+- **never have i** — 倒装强调。Never have I been so proud.（我从未如此自豪。）否定词 never 提前，助动词 have 与主语倒装，语气强烈。✗ 不倒装的说法是 I have never been so proud，语气较弱。
 
-- **master's degree / higher education / academic** — master's degree = 硕士学位：earn a master's degree / a master's in education。higher education = 高等教育（大学及以上）：pursue higher education / a career in higher education。academic = 学术的：academic achievement / academic performance / an academic career。例句：Her academic dedication earned her a master's degree in higher education.
+- **wishing you / sounds like** — 收尾用语。Wishing you all the best.（祝你一切顺利。）Sounds like a plan.（听起来不错。）wishing 用现在分词开头，是贺卡式表达。
 
-- **dedicated / dedication / driven** — dedicated = 专注的、投入的：a dedicated student / dedicated to her studies。dedication = 奉献精神、专注：show great dedication / years of dedication。driven = 有内驱力的、拼命努力的：a driven person / highly driven / driven to succeed。例句：She's incredibly driven—her dedication to her studies is admirable. 注意 driven 比 hardworking 更强调"内在动力"。
+- **accomplish / accomplishment** — 成就双词。accomplish 是"完成、实现"：accomplish a goal。accomplishment 是名词"成就"：a great accomplishment。✗ 注意 -ish（动词）与 -ishment（名词）的构词。
 
-- **willpower / stay focused / work hard at** — willpower = 意志力：strong willpower / rely on willpower / sheer willpower。stay focused = 保持专注：stay focused on your goals / it's hard to stay focused。work hard at = 在……上努力：work hard at your studies / work hard at improving。例句：It takes willpower to stay focused and work hard at a master's program.
+- **master's degree / higher education / academic** — 学业词。master's degree 是硕士学位（注意所有格 's）；higher education 是高等教育；academic 是"学术的"：academic achievements。
 
-- **accomplish / accomplishment** — accomplish = 完成、达成（目标）：accomplish a goal / accomplish something great。accomplishment = 成就、 accomplishments：a great accomplishment / a sense of accomplishment / list your accomplishments。例句：Graduating is a huge accomplishment—you accomplished what you set out to do. 注意 accomplish 比 finish 更强调"达成有难度的目标"。
+- **dedicated / dedication / driven** — 品质三词。dedicated 是"投入的"：a dedicated student。dedication 是名词"奉献精神"。driven 是"有内驱力的"：She's self-driven.
 
-- **all worth it** — 一切都值得。搭配：it's all worth it / was it all worth it? / hard work is all worth it。例句：The late nights and stress were all worth it when she walked across that stage. 注意 worth 后接名词或动名词：worth the effort / worth doing。all worth it 是毕业语境中的经典感慨。
+- **admirable / willpower / stay focused** — 赞美词。admirable 是"令人钦佩的"（admire + -able）；willpower 是意志力；stay focused 是"保持专注"。
 
-- **lifelong / learner** — lifelong = 终身的、一生的：a lifelong learner / lifelong friendship / lifelong learning。learner = 学习者：a quick learner / a lifelong learner / an eager learner。例句：Graduation doesn't mean you stop learning—be a lifelong learner. 注意 lifelong 没有连字符（不是 life-long），一个词。
+- **discouraged / relief / all worth it** — 情感词。discouraged 是"灰心的"：Don't be discouraged. relief 是"宽慰"：What a relief! all worth it 是"一切都值得"：The hard work was all worth it.
 
-- **relief / discouraged** — relief = 如释重负、宽慰：a sense of relief / what a relief / feel relief。discouraged = 气馁的、灰心的：feel discouraged / don't get discouraged / easily discouraged。例句：There were times she felt discouraged, but in the end, the relief of graduating made it all worthwhile. 注意 discourage（动词）→ discouraged（形容词）→ discouraging（令人气馁的）。
-
-- **admirable / benefit** — admirable = 令人钦佩的：an admirable achievement / admirable dedication / truly admirable。benefit = 好处、益处；受益：the benefits of education / benefit from / for the benefit of。例句：Her dedication is admirable, and she'll benefit from this degree for life. 注意 admire（动词）→ admirable（形容词）→ admiration（名词）。
-
-- **can't wait / look how / sounds like** — can't wait = 迫不及待：I can't wait to celebrate! / can't wait for the ceremony。look how = 看看多么……：Look how far you've come! / Look how much you've accomplished! sounds like = 听起来像：That sounds like a plan! / Sounds like you worked hard. 例句：Look how far you've come—I can't wait to see what's next!
-
-- **wishing you / do it** — wishing you = 祝你……（比 I wish you 更温暖、更常用）：Wishing you all the best! / Wishing you success! do it = 做到、完成：You did it! / She finally did it. / If you set your mind to it, you can do it. 例句：You did it! Wishing you a lifetime of success. 注意 wishing you 常用于书信和贺卡结尾。
-
-- **academic / learner / higher education** — 三个教育领域核心词。academic 强调"学术性、学院派"：academic research / academic writing / academic year。learner 比 student 更宽泛，强调"学习者的身份"而非"在学校注册"。higher education 特指大学及以上的教育阶段。例句：In higher education, being an active learner is more important than academic talent alone.
+- **can't wait / lifelong / learner / work hard at / benefit / do it** — 展望词。can't wait 是"迫不及待"：I can't wait to see what's next. lifelong learner 是"终身学习者"。work hard at 是"在…上努力"。benefit 是益处；do it 是"做到了"：You did it!
 
 ## 练习
 
@@ -61,149 +54,149 @@ academic, accomplish, accomplishment, admirable, all worth it, benefit, can't wa
 
 <quiz-sentence-builder>
 
-1. **中文**：好样的！你以优异的成绩通过了期末考试！
-   **英文**：Way to go! You passed your final examination with top marks!
-   > **解析**：Way to go! 为热情口语祝贺表达，意为“干得好、好样的！”
+1. **中文**：干得漂亮！
+   **英文**：Way to go!
+   > **解析**：Way to go 是固定祝贺语，省略句式。
 
-2. **中文**：我从未见过有人像你一样如此刻苦工作。
-   **英文**：Never have I seen someone work as hard as you do.
-   > **解析**：Never have I 为否定副词放句首的倒装句，强调“我从未……”。
+2. **中文**：看看你取得了多大的成就！
+   **英文**：Look how much you've accomplished!
+   > **解析**：Look 后接 how 引导的感叹从句；you've accomplished 是现在完成时。
 
-3. **中文**：她刻苦努力获得了工程学硕士学位。
-   **英文**：She worked hard to earn her master's degree in engineering.
-   > **解析**：master's degree 指硕士学位。
+3. **中文**：我从未见过这么投入的学生。
+   **英文**：Never have I seen such a dedicated student.
+   > **解析**：Never 置于句首引起部分倒装，have 提前；such a + 名词结构。
 
-4. **中文**：许多学生选择在大学毕业后追求高等教育。
-   **英文**：Many students choose to pursue higher education after college.
-   > **解析**：higher education 指高等教育。
+4. **中文**：祝你前程似锦。
+   **英文**：Wishing you a bright future.
+   > **解析**：Wishing 开头的祝愿句式，省略主语；a bright future 作宾语。
 
-5. **中文**：他因杰出的学术表现而获得了一项奖项。
-   **英文**：He received an award for his outstanding academic performance.
-   > **解析**：academic 表示学术的。
+5. **中文**：听起来像是个不错的计划。
+   **英文**：Sounds like a great plan.
+   > **解析**：省略主语的口语句；sounds like 后接名词短语。
 
-6. **中文**：她是一位专注投入的老师，深深关心着她的学生们。
-   **英文**：She is a dedicated teacher who cares deeply about her students.
-   > **解析**：dedicated 形容词，意为专注的、投入的。
+6. **中文**：她成功拿到了硕士学位。
+   **英文**：She accomplished her goal of a master's degree.
+   > **解析**：accomplished 是过去式；of a master's degree 是定语。
 
-7. **中文**：达成你的目标需要时间、努力和奉献投入。
-   **英文**：Achieving your goals requires time, effort, and dedication.
-   > **解析**：dedication 表示奉献、专注。
+7. **中文**：拿到学位真是一项了不起的成就。
+   **英文**：Getting the degree is a great accomplishment.
+   > **解析**：动名词 Getting 作主语，用单数 is；a great accomplishment 作表语。
 
-8. **中文**：他是一位雄心勃勃且极具内驱力的年轻创业者。
-   **英文**：He is an ambitious and driven young entrepreneur.
-   > **解析**：driven 形容词，指非常有内驱力的、拼命努力的。
+8. **中文**：高等教育改变了他的人生。
+   **英文**：Higher education changed his life.
+   > **解析**：Higher 修饰 education；changed 是过去式。
 
-9. **中文**：在学习时抵制干扰需要强大的意志力。
-   **英文**：It takes strong willpower to resist distractions while studying.
-   > **解析**：willpower 指意志力。
+9. **中文**：她的学术成绩很出色。
+   **英文**：Her academic record is outstanding.
+   > **解析**：academic 修饰 record；is outstanding 作表语。
 
-10. **中文**：如果你想完成这项任务，你需要保持专注。
-   **英文**：You need to stay focused if you want to complete the task.
-   > **解析**：stay focused 表示保持专注。
+10. **中文**：他的奉献精神值得敬佩。
+   **英文**：His dedication is admirable.
+   > **解析**：dedication 作主语；admirable 作表语。
 
-11. **中文**：如果你在目标上努力奋斗，你最终会取得成功。
-   **英文**：If you work hard at your goals, you will eventually succeed.
-   > **解析**：work hard at 表示在某事上努力奋斗。
+11. **中文**：她是个有内驱力的人。
+   **英文**：She is a truly driven person.
+   > **解析**：driven 作形容词修饰 person；truly 副词修饰。
 
-12. **中文**：你设立了一个艰难的目标并成功完成了它。
-   **英文**：You set a difficult goal and managed to accomplish it.
-   > **解析**：accomplish 动词，表示达成、完成目标。
+12. **中文**：凭借意志力，她坚持了下来。
+   **英文**：With willpower, she kept going.
+   > **解析**：With willpower 是方式状语；kept going 是 keep doing 结构。
 
-13. **中文**：以优异成绩毕业是一项了不起的成就。
-   **英文**：Graduating with honors is a remarkable accomplishment.
-   > **解析**：accomplishment 表示成就。
+13. **中文**：别灰心。
+   **英文**：Don't be discouraged.
+   > **解析**：否定祈使句；discouraged 作形容词。
 
-14. **中文**：所有的通宵熬夜最终都是完全值得的。
-   **英文**：All the sleepless nights were all worth it in the end.
-   > **解析**：all worth it 表示“一切都值得”。
+14. **中文**：终于毕业了，真是如释重负。
+   **英文**：Graduating at last is such a relief.
+   > **解析**：动名词 Graduating 作主语；such a relief 作表语。
 
-15. **中文**：毕业应当标志着终身学习之旅的开端。
-   **英文**：Graduation should mark the beginning of a lifelong learning journey.
-   > **解析**：lifelong 形容词，意为终身的。
+15. **中文**：我迫不及待想看看接下来会发生什么。
+   **英文**：I can't wait to see what's next.
+   > **解析**：can't wait to do 是固定结构；what's next 是宾语从句。
 
-16. **中文**：她是一位积极的学习者，不断寻求新的知识。
-   **英文**：She is an active learner who constantly seeks new knowledge.
-   > **解析**：learner 表示学习者。
+16. **中文**：所有努力都是值得的。
+   **英文**：The hard work was all worth it.
+   > **解析**：worth it 作表语；all 加强语气。
 
-17. **中文**：如果你第一次尝试没有成功，不要感到灰心。
-   **英文**：Don't feel discouraged if you don't succeed on your first attempt.
-   > **解析**：discouraged 表示灰心的、气馁的。
+17. **中文**：继续专注于你的目标。
+   **英文**：Stay focused on your goals.
+   > **解析**：祈使句 Stay 开头；focused 作形容词，on your goals 是搭配。
 
-18. **中文**：完成论文带来了一种巨大的如释重负之感。
-   **英文**：Completing the thesis brought a huge sense of relief.
-   > **解析**：relief 表示如释重负、宽慰。
+18. **中文**：她在学业上很努力。
+   **英文**：She works hard at her studies.
+   > **解析**：works 是第三人称单数；work hard at 是固定搭配。
 
-19. **中文**：她克服障碍的决心真的很令人钦佩。
-   **英文**：Her determination to overcome obstacles is truly admirable.
-   > **解析**：admirable 表示令人钦佩的。
+19. **中文**：做一个终身学习者会受益终生。
+   **英文**：Being a lifelong learner benefits you forever.
+   > **解析**：动名词 Being 作主语，用单数动词 benefits。
 
-20. **中文**：祝你在未来的职业生涯中一切顺利！
-   **英文**：Wishing you all the best in your future career!
-   > **解析**：Wishing you 为常用的热情祝福表达。
+20. **中文**：你做到了！
+   **英文**：You did it!
+   > **解析**：did 是 do 的过去式；You did it 是庆祝成功的地道表达。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Way to go! You passed your final examination with top marks!
-   > **中文**：好样的！你以优异的成绩通过了期末考试！
+1. Way to go!
+   > **中文**：干得漂亮！
 
-2. Never have I seen someone work as hard as you do.
-   > **中文**：我从未见过有人像你一样如此刻苦工作。
+2. Look how much you've accomplished!
+   > **中文**：看看你取得了多大的成就！
 
-3. She worked hard to earn her master's degree in engineering.
-   > **中文**：她刻苦努力获得了工程学硕士学位。
+3. Never have I seen such a dedicated student.
+   > **中文**：我从未见过这么投入的学生。
 
-4. Many students choose to pursue higher education after college.
-   > **中文**：许多学生选择在大学毕业后追求高等教育。
+4. Wishing you a bright future.
+   > **中文**：祝你前程似锦。
 
-5. He received an award for his outstanding academic performance.
-   > **中文**：他因杰出的学术表现而获得了一项奖项。
+5. Sounds like a great plan.
+   > **中文**：听起来像是个不错的计划。
 
-6. She is a dedicated teacher who cares deeply about her students.
-   > **中文**：她是一位专注投入的老师，深深关心着她的学生们。
+6. She accomplished her goal of a master's degree.
+   > **中文**：她成功拿到了硕士学位。
 
-7. Achieving your goals requires time, effort, and dedication.
-   > **中文**：达成你的目标需要时间、努力和奉献投入。
+7. Getting the degree is a great accomplishment.
+   > **中文**：拿到学位真是一项了不起的成就。
 
-8. He is an ambitious and driven young entrepreneur.
-   > **中文**：他是一位雄心勃勃且极具内驱力的年轻创业者。
+8. Higher education changed his life.
+   > **中文**：高等教育改变了他的人生。
 
-9. It takes strong willpower to resist distractions while studying.
-   > **中文**：在学习时抵制干扰需要强大的意志力。
+9. Her academic record is outstanding.
+   > **中文**：她的学术成绩很出色。
 
-10. You need to stay focused if you want to complete the task.
-   > **中文**：如果你想完成这项任务，你需要保持专注。
+10. His dedication is admirable.
+   > **中文**：他的奉献精神值得敬佩。
 
-11. If you work hard at your goals, you will eventually succeed.
-   > **中文**：如果你在目标上努力奋斗，你最终会取得成功。
+11. She is a truly driven person.
+   > **中文**：她是个有内驱力的人。
 
-12. You set a difficult goal and managed to accomplish it.
-   > **中文**：你设立了一个艰难的目标并成功完成了它。
+12. With willpower, she kept going.
+   > **中文**：凭借意志力，她坚持了下来。
 
-13. Graduating with honors is a remarkable accomplishment.
-   > **中文**：以优异成绩毕业是一项了不起的成就。
+13. Don't be discouraged.
+   > **中文**：别灰心。
 
-14. All the sleepless nights were all worth it in the end.
-   > **中文**：所有的通宵熬夜最终都是完全值得的。
+14. Graduating at last is such a relief.
+   > **中文**：终于毕业了，真是如释重负。
 
-15. Graduation should mark the beginning of a lifelong learning journey.
-   > **中文**：毕业应当标志着终身学习之旅的开端。
+15. I can't wait to see what's next.
+   > **中文**：我迫不及待想看看接下来会发生什么。
 
-16. She is an active learner who constantly seeks new knowledge.
-   > **中文**：她是一位积极的学习者，不断寻求新的知识。
+16. The hard work was all worth it.
+   > **中文**：所有努力都是值得的。
 
-17. Don't feel discouraged if you don't succeed on your first attempt.
-   > **中文**：如果你第一次尝试没有成功，不要感到灰心。
+17. Stay focused on your goals.
+   > **中文**：继续专注于你的目标。
 
-18. Completing the thesis brought a huge sense of relief.
-   > **中文**：完成论文带来了一种巨大的如释重负之感。
+18. She works hard at her studies.
+   > **中文**：她在学业上很努力。
 
-19. Her determination to overcome obstacles is truly admirable.
-   > **中文**：她克服障碍的决心真的很令人钦佩。
+19. Being a lifelong learner benefits you forever.
+   > **中文**：做一个终身学习者会受益终生。
 
-20. Wishing you all the best in your future career!
-   > **中文**：祝你在未来的职业生涯中一切顺利！
+20. You did it!
+   > **中文**：你做到了！
 
 </quiz-listening>
 
@@ -211,26 +204,39 @@ academic, accomplish, accomplishment, admirable, all worth it, benefit, can't wa
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| way to go | 干得好 / 好样的 |
-| never have I | 我从未……（倒装） |
-| master's degree | 硕士学位 |
-| higher education | 高等教育 |
 | academic | 学术的 |
-| dedicated | 专注的 / 投入的 |
-| dedication | 奉献 / 专注 |
-| driven | 有内驱力的 |
-| willpower | 意志力 |
-| stay focused | 保持专注 |
-| work hard at | 在……上努力 |
-| accomplish | 达成 / 完成 |
+| accomplish | 完成 / 实现 |
 | accomplishment | 成就 |
-| all worth it | 一切都值得 |
-| lifelong | 终身的 |
-| learner | 学习者 |
-| discouraged | 灰心的 / 气馁的 |
-| relief | 如释重负 / 宽慰 |
 | admirable | 令人钦佩的 |
-| wishing you | 祝你…… |
+| all worth it | 一切都值得 |
+| benefit | 益处 / 受益 |
+| can't wait | 迫不及待 |
+| dedicated | 投入的 |
+| dedication | 奉献精神 |
+| discouraged | 灰心的 |
+| do it | 做到 |
+| driven | 有内驱力的 |
+| higher education | 高等教育 |
+| learner | 学习者 |
+| lifelong | 终身的 |
+| look how | 看看多么… |
+| master's degree | 硕士学位 |
+| never have i | 我从未… |
+| relief | 宽慰 |
+| sounds like | 听起来像 |
+| stay focused | 保持专注 |
+| way to go | 干得漂亮 |
+| willpower | 意志力 |
+| wishing you | 祝你… |
+| work hard at | 在…上努力 |
+| is | 是 |
+| the | 这个（定冠词） |
+| degree | 学位 |
+| goal | 目标 |
+| student | 学生 |
+| future | 未来 |
+| studies | 学业 |
+| life | 人生 |
 
 </quiz-matching>
 
@@ -238,202 +244,202 @@ academic, accomplish, accomplishment, admirable, all worth it, benefit, can't wa
 
 ### 1
 
-Way to go! You passed your final ____ with top marks!
+Way to ____!
 
-- [x] examination
-- [ ] academic
-- [ ] accomplish
+- [x] go
+- [ ] going
+- [ ] went
 
-> **解析**：**examination** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Way to go 是固定祝贺语；其他形式不合。
 
 ### 2
 
-Never have I seen ____ work as hard as you do.
+Look ____ much you've accomplished!
 
-- [x] someone
-- [ ] academic
-- [ ] accomplish
+- [x] how
+- [ ] what of
+- [ ] which is
 
-> **解析**：**someone** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Look how + 从句构成感叹；其他选项不合。
 
 ### 3
 
-She worked hard to earn her master's degree in ____.
+Never ____ I seen such dedication.
 
-- [x] engineering
-- [ ] academic
-- [ ] accomplish
+- [x] have
+- [ ] has
+- [ ] had of
 
-> **解析**：**engineering** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：Never 提前引起倒装，主语 I 搭配 have；has 和 had of 不合。
 
 ### 4
 
-Many students choose to pursue higher ____ after college.
+____ you a bright future.
 
-- [x] education
-- [ ] academic
-- [ ] accomplish
+- [x] Wishing
+- [ ] Wish of
+- [ ] Wished to
 
-> **解析**：**education** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Wishing 开头的祝愿句式；其他形式不合。
 
 ### 5
 
-He received an award for his outstanding ____ performance.
+Sounds ____ a great plan.
 
-- [x] academic
-- [ ] accomplish
-- [ ] accomplishment
+- [x] like
+- [ ] as of
+- [ ] alike
 
-> **解析**：**academic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：sounds like 是固定搭配；alike 作表语形容词不合该结构。
 
 ### 6
 
-She is a ____ teacher who cares deeply about her students.
+She accomplished her ____ of a master's degree.
 
-- [x] dedicated
-- [ ] academic
-- [ ] accomplish
+- [x] goal
+- [ ] goal's
+- [ ] goals of of
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **dedicated**。
+> **解析**：goal（目标）用单数；所有格和重复介词的选项不合。
 
 ### 7
 
-Achieving your goals requires time, effort, and ____.
+Getting the degree is a great ____.
 
-- [x] dedication
-- [ ] academic
+- [x] accomplishment
 - [ ] accomplish
+- [ ] accomplishing
 
-> **解析**：**dedication** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：冠词 a 后接名词 accomplishment；动词和分词不合。
 
 ### 8
 
-He is an ambitious and ____ young entrepreneur.
+Higher ____ changed his life.
 
-- [x] driven
-- [ ] academic
-- [ ] accomplish
+- [x] education
+- [ ] educate
+- [ ] educated
 
-> **解析**：**driven** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：higher education（高等教育）是固定搭配；动词形式不合。
 
 ### 9
 
-It takes strong ____ to resist distractions while studying.
+Her ____ record is outstanding.
 
-- [x] willpower
-- [ ] academic
-- [ ] accomplish
+- [x] academic
+- [ ] academy
+- [ ] academics
 
-> **解析**：**willpower** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：修饰名词 record 需形容词 academic；名词形式不合。
 
 ### 10
 
-You need to stay focused if you want to ____ the task.
+His dedication is ____.
 
-- [x] complete
-- [ ] academic
-- [ ] accomplish
+- [x] admirable
+- [ ] admire
+- [ ] admiring of
 
-> **解析**：**complete** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后接形容词 admirable；动词和分词不合。
 
 ### 11
 
-If you work hard at your goals, you will ____ succeed.
+She is a truly ____ person.
 
-- [x] eventually
-- [ ] academic
-- [ ] accomplish
+- [x] driven
+- [ ] drive
+- [ ] driving of
 
-> **解析**：**eventually** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：driven 作形容词"有干劲的"修饰 person；其他形式不合。
 
 ### 12
 
-You set a difficult goal and managed to ____ it.
+With ____, she kept going.
 
-- [x] accomplish
-- [ ] academic
-- [ ] accomplishment
+- [x] willpower
+- [ ] willful
+- [ ] willingly
 
-> **解析**：**accomplish** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：介词 With 后接名词 willpower；形容词和副词不合。
 
 ### 13
 
-Graduating with honors is a remarkable ____.
+Don't be ____.
 
-- [x] accomplishment
-- [ ] academic
-- [ ] accomplish
+- [x] discouraged
+- [ ] discourage
+- [ ] discouraging of
 
-> **解析**：**accomplishment** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be + 过去分词 discouraged 表状态；原形不合，选项三形式错误。
 
 ### 14
 
-All the ____ nights were all worth it in the end.
+Graduating at last is such a ____.
 
-- [x] sleepless
-- [ ] academic
-- [ ] accomplish
+- [x] relief
+- [ ] relieve
+- [ ] relieved
 
-> **解析**：**sleepless** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后接名词 relief；动词和形容词不合。
 
 ### 15
 
-Graduation should mark the beginning of a ____ learning journey.
+I can't ____ to see what's next.
 
-- [x] lifelong
-- [ ] academic
-- [ ] accomplish
+- [x] wait
+- [ ] waiting
+- [ ] waited
 
-> **解析**：**lifelong** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：can't wait to do 结构中 wait 用原形；其他形式不合。
 
 ### 16
 
-She is an active ____ who constantly seeks new knowledge.
+The hard work was all ____ it.
 
-- [x] learner
-- [ ] academic
-- [ ] accomplish
+- [x] worth
+- [ ] worthy of
+- [ ] worthwhile of
 
-> **解析**：**learner** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：worth it 是固定搭配；worthy 需接 of sth，选项形式不合。
 
 ### 17
 
-Don't feel ____ if you don't succeed on your first attempt.
+Stay ____ on your goals.
 
-- [x] discouraged
-- [ ] academic
-- [ ] accomplish
+- [x] focused
+- [ ] focus
+- [ ] focusing of
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **discouraged**。
+> **解析**：stay + 形容词 focused；原形和分词形式不合。
 
 ### 18
 
-Completing the thesis brought a huge sense of ____.
+She works hard ____ her studies.
 
-- [x] relief
-- [ ] academic
-- [ ] accomplish
+- [x] at
+- [ ] on of
+- [ ] in
 
-> **解析**：**relief** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：work hard at 是固定搭配；其他不合。
 
 ### 19
 
-Her determination to overcome obstacles is truly ____.
+Being a ____ learner benefits you.
 
-- [x] admirable
-- [ ] academic
-- [ ] accomplish
+- [x] lifelong
+- [ ] lifelong of
+- [ ] life-longly
 
-> **解析**：**admirable** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：lifelong 作形容词修饰 learner；其他形式不合。
 
 ### 20
 
-____ you all the best in your future career!
+You ____ it!
 
-- [x] Wishing
-- [ ] academic
-- [ ] accomplish
+- [x] did
+- [ ] do of
+- [ ] doing
 
-> **解析**：**Wishing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：You did it 用过去式庆祝已完成的成就；其他形式不合。
 
 </quiz-cloze>

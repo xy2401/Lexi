@@ -10,40 +10,35 @@ attention, average, circle, complicated, difficulty, drama, essential, hand, han
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"解释什么是必要的"展开，以学习为场景。核心是学业要求和必要性表达：It's essential to hand in your assignment on time.（按时交作业是必须的。）、It's necessary to register for the lab before the internship.（在实习前必须注册实验课。）、The instructor handed out the materials—pay attention, it's complicated.（老师发了材料——注意听，很复杂。）、It's important for your average grade to have plenty of practice.（对平均分来说，大量练习很重要。）。
+本单元的主题是"说明什么是必要的"，场景是校园与课程。词表可以分成三组：课程与人员（instructor, internship, lab, unit, register, drama, circle）、必要与要求（essential, necessary to, important for, possible to, require, used）、以及学习动作与描述（hand in, hand out, attention, hand, complicated, difficulty, average, wrong, plenty of, it）。拼起来就是一段选课对话：You need to register for three units. It is necessary to hand in your essay by Friday, and the instructor requires everyone to pay attention in the lab.
 
-词表里有学术词汇（instructor, internship, lab, register）和必要性表达（essential, necessary to, important for, require）。你可以练习：Hand in your homework. / Circle the wrong answers. / There's plenty of time. / The drama unit is fun.
+语法主线有两个。一是表达"必要"的多种结构：It is necessary to + 动词原形（形式主语 it 结构）、essential for（对……必不可少）、require + 宾语（课程要求某事）。注意与 possible to（有可能）区分。二是短语动词的方向感：hand in 上交（交给老师），hand out 分发（发给学生），同一个 hand 配不同副词意思相反。另外 used to + 动词原形表示"过去常常"：He used to study at night.
 
-It is + adj + to do 是形式主语句型。hand in（上交）vs hand out（分发）。
+学完这单元，你能用英语谈选课与实习、说明作业要求和截止日期、解释什么对学习是必要的。
 
 ## Tips
 
-- **essential / necessary to / important for** — 必要的 / 必须 / 对…重要。搭配：it's essential to, necessary to do, important for sb。例句：It's essential to study hard. / It's necessary to register early. / It's important for students to practice. 注意这三个表达必要性/重要性。
+- **instructor / internship / lab / unit** — 校园四词。instructor 指导教师。internship 实习（intern 实习生 + -ship）。lab 实验室（laboratory 的缩写）。unit 单元、学分课程：register for three units.
 
-- **hand in / hand out / hand** — 上交 / 分发 / 手。搭配：hand in homework, hand out papers, raise your hand。例句：Hand in your essays by Friday. / The teacher handed out worksheets. / Raise your hand to answer. 注意 hand in = 交上去，hand out = 发下去。
+- **register** — 注册、选课：register for a course。名词 registration。
 
-- **instructor / lab / register** — 讲师 / 实验室 / 注册。搭配：the instructor said, in the lab, register for a course。例句：The instructor explained the unit. / We work in the lab on Tuesdays. / You need to register online. 注意 register for = 注册选课。
+- **require / necessary to / essential** — 必要三词。require 要求，动词：The course requires a lot of reading. necessary to 用于 It is necessary to do sth. essential 必不可少的，语气最强：Practice is essential.
 
-- **attention / complicated / difficulty** — 注意力 / 复杂 / 困难。搭配：pay attention, a complicated problem, have difficulty。例句：Pay attention in class! / The grammar is complicated. / I have difficulty with math. 注意 pay attention to + 名词。
+- **important for / possible to** — important for 对……重要：Sleep is important for your memory. possible to 用于 It is possible to do sth.（有可能做某事）。
 
-- **plenty of / average / require** — 大量的 / 平均 / 要求。搭配：plenty of time, an average score, require effort。例句：There's plenty of time to study. / My average is 85. / The course requires hard work. 注意 plenty of = a lot of（更口语）。
+- **hand in / hand out** — 方向相反的短语动词。hand in 上交：hand in your essay. hand out 分发：hand out the worksheets. 记忆线索：in 朝向老师，out 散向学生。
 
-- **internship / drama / unit** — 实习 / 戏剧 / 单元。搭配：do an internship, a drama class, Unit 5。例句：She's doing an internship at a hospital. / I love drama class. / Open your books to Unit 3. 注意 internship 是"实习期"。
+- **attention / hand** — attention 注意力：pay attention to（注意）。hand 手，也是上面两个短语动词的核心词：raise your hand（举手）。
 
-- **circle / wrong / used** — 圈出 / 错误的 / 用过的。搭配：circle the answer, a wrong answer, used books。例句：Circle the correct answer. / Your answer is wrong. / I bought a used textbook. 注意 circle 可作动词（画圈）。
+- **complicated / difficulty** — complicated 复杂的，强调结构复杂：a complicated question. difficulty 困难，名词：have difficulty with sth. 形容词是 difficult。
 
-- **possible to / require / register** — 可能 / 要求 / 注册。搭配：it's possible to, require sb to, register online。例句：It's possible to finish in one day. / The job requires experience. / Register before Monday. 注意 It's possible to do = 有可能做。
+- **average / wrong** — average 平均的、一般的：an average score of ninety. wrong 错误的：Your answer is wrong. 反义词 right。
 
-- **it / essential / necessary to** — 它 / 必要 / 必须。搭配：it is essential, it is necessary to, find it hard。例句：It is essential to attend class. / It is necessary to study daily. / I find it hard to focus. 注意 it 作形式主语。
+- **drama / circle** — drama 戏剧、戏剧课：Drama class starts in September. circle 圆圈：sit in a circle（围坐成一圈）。
 
-- **complicated / difficulty / attention** — 复杂 / 困难 / 注意。搭配：too complicated, with difficulty, pay close attention。例句：The instructions are complicated. / She finished with difficulty. / Pay close attention to details. 注意 complicated 比 difficult 更强调"复杂"。
-
-- **hand in / hand out / instructor** — 上交 / 分发 / 老师。搭配：hand in on time, hand out materials, ask the instructor。例句：Hand in your report today. / She handed out the tests. / Ask the instructor for help. 注意 instructor 多用于大学。
-
-- **average / plenty of / drama** — 平均 / 大量 / 戏剧。搭配：on average, plenty of practice, a drama performance。例句：On average, I study two hours a day. / There's plenty of material. / The drama was excellent. 注意 on average = 平均来说。
+- **plenty of / used / it** — plenty of 大量的，修饰可数或不可数名词：plenty of time. used to + 动词原形表示过去常常：He used to study at night. it 常作形式主语：It takes two hours to finish.
 
 ## 练习
 
@@ -61,149 +56,149 @@ It is + adj + to do 是形式主语句型。hand in（上交）vs hand out（分
 
 <quiz-sentence-builder>
 
-1. **中文**：指导老师要求我们在实验课上提交实习报告。  
-   **英文**：The instructor required us to hand in the lab internship report.
-   > **解析**：instructor 表示“指导老师/教练”；require / required 表示“要求”；hand in 表示“提交/上交”；lab 表示“实验室”；internship 表示“实习”。
+1. **中文**：请注意听讲师讲课。
+   **英文**：Please pay attention to the instructor.
+   > **解析**：pay attention to 是固定搭配；Please 构成祈使句。
 
-2. **中文**：在戏剧课上集中注意力对修满学分至关重要。  
-   **英文**：Paying attention in drama class is essential for course unit.
-   > **解析**：attention 表示“注意力”；drama 表示“戏剧”；essential 表示“至关重要的”；unit 表示“学分/单元”。
+2. **中文**：她注册了三门课程。
+   **英文**：She registered for three units.
+   > **解析**：registered 是过去式；register for 表示选课。
 
-3. **中文**：助教在课前向大家分发了这份复杂的练习单。  
-   **英文**：The assistant handed out this complicated worksheet in class.
-   > **解析**：handed out 表示“分发（hand out的过去式）”；complicated 表示“复杂的”。
+3. **中文**：这门课需要大量阅读。
+   **英文**：This course requires a lot of reading.
+   > **解析**：requires 是三单形式；reading 是动名词作宾语。
 
-4. **中文**：如果你遇到任何困难，可以向老师寻求帮助。  
-   **英文**：If you meet any difficulty, it is possible to ask for help.
-   > **解析**：difficulty 表示“困难/难题”；possible to... 表示“可能做……”；important for... 表示“对……重要”。
+4. **中文**：今天完成作业是必要的。
+   **英文**：It is necessary to finish the homework today.
+   > **解析**：It 是形式主语；真正主语是 to finish 不定式。
 
-5. **中文**：在选课前，你需要先注册这门必修课程。  
-   **英文**：You need to register for this required course first.
-   > **解析**：register 表示“注册/登记”；require / required 表示“要求/必修的”。
+5. **中文**：练习对学习是必不可少的。
+   **英文**：Practice is essential for learning.
+   > **解析**：essential 作表语；for learning 说明对象。
 
-6. **中文**：我们在白纸上画了一个圆圈来标出错误的选项。  
-   **英文**：We drew a circle on paper to mark the wrong choice.
-   > **解析**：circle 表示“圆圈”；wrong 表示“错误的”。
+6. **中文**：睡眠对你的记忆很重要。
+   **英文**：Sleep is important for your memory.
+   > **解析**：important for 是固定搭配；your memory 作宾语。
 
-7. **中文**：有大量的实习机会可供大学高年级学生选择。  
-   **英文**：There are plenty of internship options for college seniors.
-   > **解析**：plenty of 表示“大量的/许多的”；internship 表示“实习”。
+7. **中文**：下周可以重考。
+   **英文**：It is possible to retake the test next week.
+   > **解析**：It 是形式主语；possible to 表示有可能。
 
-8. **中文**：按时交作业对取得平均优异成绩非常重要。  
-   **英文**：Handing in work on time is important for your average grade.
-   > **解析**：important for... 表示“对……是重要的”；average 表示“平均的”。
+8. **中文**：请在周五之前上交论文。
+   **英文**：Please hand in your essays by Friday.
+   > **解析**：hand in 是上交；by Friday 表示截止时间。
 
-9. **中文**：指导老师在实验室向大家展示了仪器的正确用法。  
-   **英文**：The instructor showed us how to use lab equipment.
-   > **解析**：instructor 表示“指导老师”；lab 表示“实验室”。
+9. **中文**：讲师分发了练习卷。
+   **英文**：The instructor handed out the worksheets.
+   > **解析**：handed out 是 hand out 的过去式，表示分发。
 
-10. **中文**：学习一门外语需要付出大量的精力和注意力。  
-   **英文**：Learning a new language requires plenty of attention.
-   > **解析**：requires / require 表示“需要/要求”；attention 表示“注意力”。
+10. **中文**：实验室每天下午开放。
+   **英文**：The lab is open every afternoon.
+   > **解析**：open 作表语；every afternoon 是时间状语。
 
-11. **中文**：请大家把完成的期末论文上交给指导老师。  
-   **英文**：Please hand in your completed final essay to the instructor.
-   > **解析**：hand in 表示“上交/提交”。
+11. **中文**：她在一家科技公司找到了一份实习。
+   **英文**：She found an internship at a tech company.
+   > **解析**：found 是 find 的过去式；at a tech company 是地点状语。
 
-12. **中文**：助教正在向排队的学生分发复印资料。  
-   **英文**：The assistant is handing out worksheets to students.
-   > **解析**：handing out 表示“分发/发放”。
+12. **中文**：这个单元相当复杂。
+   **英文**：This unit is quite complicated.
+   > **解析**：complicated 作表语；quite 修饰形容词。
 
-13. **中文**：这道数学难题的解题步骤非常复杂。  
-   **英文**：The solution step for this math problem is complicated.
-   > **解析**：complicated 表示“复杂的”。
+13. **中文**：我在最后一题上遇到了困难。
+   **英文**：I had difficulty with the last question.
+   > **解析**：have difficulty with 是固定搭配；had 是过去式。
 
-14. **中文**：大学暑期实习为学生提供了宝贵的实践机会。  
-   **英文**：The summer internship offers valuable work experience.
-   > **解析**：internship 表示“实习”。
+14. **中文**：她的平均分是九十。
+   **英文**：Her average score is ninety.
+   > **解析**：average 作定语修饰 score；is 与单数主语搭配。
 
-15. **中文**：请提前上网注册下学期的必修课程学分。  
-   **英文**：Please register online for next term's course units.
-   > **解析**：register 表示“注册/登记”；unit / units 表示“学分/单元”。
+15. **中文**：你的答案是错的。
+   **英文**：Your answer is wrong.
+   > **解析**：wrong 作表语；is 与单数主语搭配。
 
-16. **中文**：在试卷上把正确的答案圈出来。  
-   **英文**：Draw a circle around the correct answer on the test paper.
-   > **解析**：circle 表示“圆圈”。
+16. **中文**：学生们围坐成一圈。
+   **英文**：The students sat in a circle.
+   > **解析**：sat 是 sit 的过去式；in a circle 表示围成圈。
 
-17. **中文**：良好的睡眠对保持大脑高效率至关重要。  
-   **英文**：Good sleep is essential for keeping a clear mind.
-   > **解析**：essential 表示“至关重要的/必不可少的”。
+17. **中文**：有充足的时间学习。
+   **英文**：There is plenty of time to study.
+   > **解析**：plenty of 修饰不可数名词 time；to study 作目的状语。
 
-18. **中文**：只要你肯努力，取得好成绩是完全可能的。  
-   **英文**：It is completely possible to get good grades if you try.
-   > **解析**：possible to 表示“可能的”。
+18. **中文**：他过去常常在晚上学习。
+   **英文**：He used to study at night.
+   > **解析**：used to + 动词原形表示过去常常；at night 是时间状语。
 
-19. **中文**：图书馆里有大量的图书资源可供借阅。  
-   **英文**：There are plenty of book resources in the library.
-   > **解析**：plenty of 表示“大量的/丰富的”。
+19. **中文**：戏剧课九月开始。
+   **英文**：Drama class starts in September.
+   > **解析**：Drama 作定语修饰 class；starts 是三单形式。
 
-20. **中文**：如果你选错了科目，可以去教务处申请更改。  
-   **英文**：If you picked the wrong class, you can change it.
-   > **解析**：wrong 表示“错误的”。
+20. **中文**：完成这个项目要花两个小时。
+   **英文**：It takes two hours to finish the project.
+   > **解析**：It 是形式主语；It takes + 时间 + to do 是固定句型。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The instructor required us to hand in the lab internship report.
-   > **中文**：指导老师要求我们在实验课上提交实习报告。
+1. Please pay attention to the instructor.
+   > **中文**：请注意听讲师讲课。
 
-2. Paying attention in drama class is essential for course unit.
-   > **中文**：在戏剧课上集中注意力对修满学分至关重要。
+2. She registered for three units.
+   > **中文**：她注册了三门课程。
 
-3. The assistant handed out this complicated worksheet in class.
-   > **中文**：助教在课前向大家分发了这份复杂的练习单。
+3. This course requires a lot of reading.
+   > **中文**：这门课需要大量阅读。
 
-4. If you meet any difficulty, it is possible to ask for help.
-   > **中文**：如果你遇到任何困难，可以向老师寻求帮助。
+4. It is necessary to finish the homework today.
+   > **中文**：今天完成作业是必要的。
 
-5. You need to register for this required course first.
-   > **中文**：在选课前，你需要先注册这门必修课程。
+5. Practice is essential for learning.
+   > **中文**：练习对学习是必不可少的。
 
-6. We drew a circle on paper to mark the wrong choice.
-   > **中文**：我们在白纸上画了一个圆圈来标出错误的选项。
+6. Sleep is important for your memory.
+   > **中文**：睡眠对你的记忆很重要。
 
-7. There are plenty of internship options for college seniors.
-   > **中文**：有大量的实习机会可供大学高年级学生选择。
+7. It is possible to retake the test next week.
+   > **中文**：下周可以重考。
 
-8. Handing in work on time is important for your average grade.
-   > **中文**：按时交作业对取得平均优异成绩非常重要。
+8. Please hand in your essays by Friday.
+   > **中文**：请在周五之前上交论文。
 
-9. The instructor showed us how to use lab equipment.
-   > **中文**：指导老师在实验室向大家展示了仪器的正确用法。
+9. The instructor handed out the worksheets.
+   > **中文**：讲师分发了练习卷。
 
-10. Learning a new language requires plenty of attention.
-   > **中文**：学习一门外语需要付出大量的精力和注意力。
+10. The lab is open every afternoon.
+   > **中文**：实验室每天下午开放。
 
-11. Please hand in your completed final essay to the instructor.
-   > **中文**：请大家把完成的期末论文上交给指导老师。
+11. She found an internship at a tech company.
+   > **中文**：她在一家科技公司找到了一份实习。
 
-12. The assistant is handing out worksheets to students.
-   > **中文**：助教正在向排队的学生分发复印资料。
+12. This unit is quite complicated.
+   > **中文**：这个单元相当复杂。
 
-13. The solution step for this math problem is complicated.
-   > **中文**：这道数学难题的解题步骤非常复杂。
+13. I had difficulty with the last question.
+   > **中文**：我在最后一题上遇到了困难。
 
-14. The summer internship offers valuable work experience.
-   > **中文**：大学暑期实习为学生提供了宝贵的实践机会。
+14. Her average score is ninety.
+   > **中文**：她的平均分是九十。
 
-15. Please register online for next term's course units.
-   > **中文**：请提前上网注册下学期的必修课程学分。
+15. Your answer is wrong.
+   > **中文**：你的答案是错的。
 
-16. Draw a circle around the correct answer on the test paper.
-   > **中文**：在试卷上把正确的答案圈出来。
+16. The students sat in a circle.
+   > **中文**：学生们围坐成一圈。
 
-17. Good sleep is essential for keeping a clear mind.
-   > **中文**：良好的睡眠对保持大脑高效率至关重要。
+17. There is plenty of time to study.
+   > **中文**：有充足的时间学习。
 
-18. It is completely possible to get good grades if you try.
-   > **中文**：只要你肯努力，取得好成绩是完全可能的。
+18. He used to study at night.
+   > **中文**：他过去常常在晚上学习。
 
-19. There are plenty of book resources in the library.
-   > **中文**：图书馆里有大量的图书资源可供借阅。
+19. Drama class starts in September.
+   > **中文**：戏剧课九月开始。
 
-20. If you picked the wrong class, you can change it.
-   > **中文**：如果你选错了科目，可以去教务处申请更改。
+20. It takes two hours to finish the project.
+   > **中文**：完成这个项目要花两个小时。
 
 </quiz-listening>
 
@@ -213,24 +208,34 @@ It is + adj + to do 是形式主语句型。hand in（上交）vs hand out（分
 | --- | --- |
 | attention | 注意力 |
 | average | 平均的 |
-| circle | 圆圈 / 圈出 |
+| circle | 圆圈 |
 | complicated | 复杂的 |
-| difficulty | 困难 / 难题 |
-| drama | 戏剧 |
-| essential | 至关重要的 |
-| hand in | 上交 / 提交 |
-| hand out | 分发 / 发放 |
+| difficulty | 困难 |
+| drama | 戏剧 / 戏剧课 |
+| essential | 必不可少的 |
+| hand | 手 |
+| hand in | 上交 |
+| hand out | 分发 |
 | important for | 对……重要 |
-| instructor | 指导老师 / 教练 |
+| instructor | 讲师 |
 | internship | 实习 |
+| it | 它 / 形式主语 |
 | lab | 实验室 |
-| necessary to | 有必要做…… |
-| plenty of | 大量的 / 许多的 |
-| possible to | 可能做…… |
-| register | 注册 / 登记 |
-| require | 要求 / 需要 |
-| unit | 学分 / 单元 |
+| necessary to | 有必要做 |
+| plenty of | 大量的 |
+| possible to | 有可能做 |
+| register | 注册 / 选课 |
+| require | 要求 |
+| unit | 单元 / 课程 |
+| used | 过去常常（used to） |
 | wrong | 错误的 |
+| is | 是（单数） |
+| are | 是（复数） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| your | 你的 |
+| for | 为了 / 对 |
+| by | 在……之前 |
 
 </quiz-matching>
 
@@ -238,202 +243,202 @@ It is + adj + to do 是形式主语句型。hand in（上交）vs hand out（分
 
 ### 1
 
-The ____ required us to hand in the lab internship report.
+Please pay ____ to the instructor.
 
-- [x] instructor
-- [ ] attention
-- [ ] average
+- [x] attention
+- [ ] attentions
+- [ ] attentive
 
-> **解析**：**instructor** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：pay attention to 是固定搭配；attentive 是形容词，不与 pay 搭配。
 
 ### 2
 
-Paying ____ in drama class is essential for course unit.
+She ____ for three units last week.
 
-- [x] attention
-- [ ] average
-- [ ] circle
+- [x] registered
+- [ ] register
+- [ ] registering
 
-> **解析**：**attention** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：last week 用过去式 registered；registering 不能单独作谓语。
 
 ### 3
 
-The assistant handed out this ____ worksheet in class.
+This course ____ a lot of reading.
 
-- [x] complicated
-- [ ] attention
-- [ ] average
+- [x] requires
+- [ ] require
+- [ ] requiring
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **complicated**。
+> **解析**：This course 单数主语用 requires；requiring 不能单独作谓语。
 
 ### 4
 
-If you meet any ____, it is possible to ask for help.
+It is ____ to finish the homework today.
 
-- [x] difficulty
-- [ ] attention
-- [ ] average
+- [x] necessary
+- [ ] necessarily
+- [ ] necessity
 
-> **解析**：**difficulty** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 necessary；后两项分别是副词和名词。
 
 ### 5
 
-You need to ____ for this required course first.
+Practice is ____ for learning.
 
-- [x] register
-- [ ] attention
-- [ ] average
+- [x] essential
+- [ ] essentially
+- [ ] essence
 
-> **解析**：**register** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：is 后需要形容词 essential；essentially 是副词，essence 是名词。
 
 ### 6
 
-We drew a ____ on paper to mark the wrong choice.
+Sleep is important ____ your memory.
 
-- [x] circle
-- [ ] attention
-- [ ] average
+- [x] for
+- [ ] at
+- [ ] by
 
-> **解析**：**circle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：important for 是固定搭配；at 和 by 都不构成此搭配。
 
 ### 7
 
-There are plenty of ____ options for college seniors.
+It is ____ to retake the test next week.
 
-- [x] internship
-- [ ] attention
-- [ ] average
+- [x] possible
+- [ ] possibly
+- [ ] possibility
 
-> **解析**：**internship** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 possible；后两项分别是副词和名词。
 
 ### 8
 
-Handing in work on time is important for your ____ grade.
+Please hand ____ your essays by Friday.
 
-- [x] average
-- [ ] attention
-- [ ] circle
+- [x] in
+- [ ] up
+- [ ] over the
 
-> **解析**：**average** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：上交作业用 hand in；hand up 不是此搭配，over the 结构不当。
 
 ### 9
 
-The ____ showed us how to use lab equipment.
+The instructor handed ____ the worksheets.
 
-- [x] instructor
-- [ ] attention
-- [ ] average
+- [x] out
+- [ ] on
+- [ ] at
 
-> **解析**：**instructor** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：分发材料用 hand out；on 和 at 都不构成此短语。
 
 ### 10
 
-Learning a new language requires plenty of ____.
+The ____ is open every afternoon.
 
-- [x] attention
-- [ ] average
-- [ ] circle
+- [x] lab
+- [ ] labs
+- [ ] labbed
 
-> **解析**：**attention** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 配单数名词 lab"实验室"；labbed 不是此义。
 
 ### 11
 
-Please ____ in your completed final essay to the instructor.
+She found an ____ at a tech company.
 
-- [x] hand
-- [ ] attention
-- [ ] average
+- [x] internship
+- [ ] internships
+- [ ] interned
 
-> **解析**：**hand** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：an 后接单数名词 internship"实习"；interned 是动词形式。
 
 ### 12
 
-The assistant is handing out ____ to students.
+This unit is quite ____.
 
-- [x] worksheets
-- [ ] attention
-- [ ] average
+- [x] complicated
+- [ ] complicate
+- [ ] complication
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **worksheets**。
+> **解析**：is 后需要形容词 complicated；complicate 是动词，complication 是名词。
 
 ### 13
 
-The solution step for this math problem is ____.
+I had ____ with the last question.
 
-- [x] complicated
-- [ ] attention
-- [ ] average
+- [x] difficulty
+- [ ] difficult
+- [ ] difficultly
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **complicated**。
+> **解析**：had 后需要名词 difficulty；difficult 是形容词。
 
 ### 14
 
-The summer ____ offers valuable work experience.
+Her ____ score is ninety.
 
-- [x] internship
-- [ ] attention
-- [ ] average
+- [x] average
+- [ ] averages
+- [ ] averaging
 
-> **解析**：**internship** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 score 用 average"平均的"；后两项形式不当。
 
 ### 15
 
-Please ____ online for next term's course units.
+Your answer is ____.
 
-- [x] register
-- [ ] attention
-- [ ] average
+- [x] wrong
+- [ ] wrongly
+- [ ] wrongness
 
-> **解析**：**register** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：is 后需要形容词 wrong；后两项分别是副词和名词。
 
 ### 16
 
-Draw a ____ around the correct answer on the test paper.
+The students sat in a ____.
 
 - [x] circle
-- [ ] attention
-- [ ] average
+- [ ] circles
+- [ ] circular
 
-> **解析**：**circle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后接单数名词 circle；circular 是形容词。
 
 ### 17
 
-Good sleep is ____ for keeping a clear mind.
+There is ____ of time to study.
 
-- [x] essential
-- [ ] attention
-- [ ] average
+- [x] plenty
+- [ ] plenties
+- [ ] plentiful
 
-> **解析**：**essential** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：plenty of 是固定短语"大量的"；plentiful 是形容词，不与 of 连用。
 
 ### 18
 
-____ is completely possible to get good grades if you try.
+He ____ to study at night before exams.
 
-- [x] It
-- [ ] attention
-- [ ] average
+- [x] used
+- [ ] use
+- [ ] using
 
-> **解析**：**it** 为第三人称单数代词，指代事物、动物或作形式主语。
+> **解析**：used to + 动词原形表示过去常常；后两项形式不当。
 
 ### 19
 
-There are plenty of book ____ in the library.
+____ class starts in September.
 
-- [x] resources
-- [ ] attention
-- [ ] average
+- [x] Drama
+- [ ] Dramatic
+- [ ] Dramatically
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **resources**。
+> **解析**：作定语修饰 class 用名词 Drama；Dramatic 意为戏剧性的，语义不同。
 
 ### 20
 
-If you picked the ____ class, you can change it.
+Registering for the course ____ a student ID every semester.
 
-- [x] wrong
-- [ ] attention
-- [ ] average
+- [x] requires
+- [ ] require
+- [ ] requiring
 
-> **解析**：**wrong** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：动名词主语作单数，用 requires；后两项形式不当。
 
 </quiz-cloze>

@@ -10,32 +10,35 @@ ahead of time, as, bed and breakfast, carry-on, central, check, come out, fasten
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"提前预订座位"展开，场景涵盖飞行、住宿和入境。词表里有飞行相关（carry-on, fasten, flight attendant, select）、住宿（bed and breakfast, room, central）和入境身份（immigrant, permanent resident）词汇。
+本单元的主题是"提前预订座位"，场景横跨飞机、酒店与入境。词表分成三组：旅行设施与服务（bed and breakfast, carry-on, flight attendant, room, self-service, out of order）、旅行动作与身份（check, select, fasten, come out, immigrant, permanent resident, travels, help yourself to）、以及语法与修饰词（had, hadn't, how did, as, for, to, with, ahead of time, central, reliable, separate）。
 
-你可以练习旅行对话：I'd like to select a seat ahead of time. / How did you check in—self-service or with the flight attendant? / Fasten your seatbelt. / The bed and breakfast is in a central location. / Had you traveled before you became a permanent resident? / The machine is out of order—help yourself to a carry-on tag. / This airline is reliable.
+语法主线是过去完成时 had + 过去分词，表示"过去的过去"：I had booked the seat before the flight.（登机前我就订好了座位。）否定是 hadn't：We hadn't reserved a room. 另一条主线是旅行高频短语：ahead of time（提前）、help yourself to（请自便享用）、out of order（出故障）——都是旅途中随时用得到的表达。
 
-had / hadn't 提示过去完成时（Had you reserved...? / I hadn't known...）。come out 可指"出来、出版"。separate = 分开的。
+学完这些词，你能提前订票、办理登机、描述住宿类型、过边检，还能在飞机上应对各种情况——从出发到入住全程畅通。
 
 ## Tips
 
-- **ahead of time / carry-on / select** — ahead of time = 提前（= in advance：Book ahead of time.）。carry-on = 随身行李（carry-on luggage / a carry-on bag），对比 checked bag（托运行李）。select = 选择（select a seat / select a room），比 choose 更正式。
+- **had / hadn't** — 过去完成时的骨架。had + 过去分词表示在过去某时间点之前已完成的动作：She had left before I arrived. hadn't 是 had not 的缩写：I hadn't checked the schedule. 中文没有对应时态，理解关键是"过去的过去"。
 
-- **bed and breakfast / central / room** — bed and breakfast = 民宿（缩写 B&B，提供住宿和早餐的小型旅馆）。central = 市中心的（a central location, central London）。room = 房间（book a room, a single/double room）。
+- **how did** — 询问过去方式的疑问开头：How did you get to the airport? did 后接动词原形。注意疑问语序：How did you book it?（✗ How you did book it?）。
 
-- **flight attendant / fasten / check** — flight attendant = 空乘人员（旧称 stewardess，现在统一用 flight attendant）。fasten = 系好（fasten your seatbelt）。check = 办理（check in 值机, check out 退房）。
+- **ahead of time** — "提前"，相当于 in advance：Reserve your seat ahead of time. 放在句末使用最自然。
 
-- **immigrant / permanent resident** — immigrant = 移民（从外国移入的人）。permanent resident = 永久居民（持有绿卡的人，缩写 PR）。搭配：apply for permanent resident status, an immigrant community。注意 immigrant（移入）和 emigrant（移出）视角不同。
+- **bed and breakfast / room / central** — bed and breakfast（简称 B&B）是含早餐的家庭旅馆；room 是房间，book a room 订房；central 是"中心的、市中心的"：a central location.
 
-- **had / hadn't / how did** — had 用于过去完成时（Had you traveled before? = 你之前旅行过吗？）。hadn't = had not（I hadn't reserved a seat.）。how did = 怎么……的（How did you get here? / How did you check in?）。
+- **carry-on / check / flight attendant** — 登机三词：carry-on 是随身行李（carry-on bag）；check 在机场指值机、托运：check in / check your bag. flight attendant 是空乘人员。
 
-- **out of order / reliable / self-service** — out of order = 故障的、坏了的（The machine is out of order.）。reliable = 可靠的（a reliable airline, a reliable service）。self-service = 自助的（a self-service check-in kiosk）。
+- **fasten / select / self-service** — fasten 是"系紧"：fasten your seatbelt. select 是"挑选"，比 choose 正式：Select a seat on the screen. self-service 是"自助的"：a self-service counter.
 
-- **help yourself to / come out / separate / travels** — help yourself to = 请自便、随便用（Help yourself to some coffee.）。come out = 出来、出版（The results came out. / The sun came out.）。separate = 分开的（separate rooms, keep them separate）。travels = 旅行经历（复数，较文学化：Tell me about your travels.）。
+- **out of order / come out** — out of order 是"出故障、坏了"：The elevator is out of order. come out 是"出来、出现、出版"，旅行中常指照片洗出来、结果出来：The photos came out well.
 
-- **as / for / to / with** — 功能介词。as = 作为（work as a flight attendant）。for = 为了（a room for two nights）。to = 到（fly to Paris）。with = 和、用（travel with friends / check in with an attendant）。
+- **immigrant / permanent resident** — immigrant 是移民（移入者）；permanent resident 是永久居民。入境时可能听到的词汇：Are you a permanent resident?
+
+- **reliable / separate / travels** — reliable 是"可靠的"：a reliable airline. separate 是"分开的"：We want separate rooms. travels 作名词复数指"游历、旅行经历"：He wrote a book about his travels.
+
+- **as / for / to / with / help yourself to** — 功能词串讲：as 可作"作为"（as a guest）或"当……时"；for 表目的或对象；to 表方向或接动词原形；with 表伴随。help yourself to 是待客固定语"请自便取用"：Help yourself to some coffee.
 
 ## 练习
 
@@ -53,149 +56,149 @@ had / hadn't 提示过去完成时（Had you reserved...? / I hadn't known...）
 
 <quiz-sentence-builder>
 
-1. **中文**：我们在伦敦郊区预订了一家非常温馨的民宿。
-   **英文**：We booked a cozy bed and breakfast in the countryside.
-   > **解析**：bed and breakfast 表示民宿、含早餐旅馆。
+1. **中文**：起飞前我就订好了座位。
+   **英文**：I had reserved my seat before the flight.
+   > **解析**：had reserved 是过去完成时，表示在起飞（过去）之前已完成；before the flight 是时间状语。
 
-2. **中文**：空中乘务员提醒大家在起飞前系好安全带。
-   **英文**：The flight attendant reminded passengers to fasten their seatbelts.
-   > **解析**：flight attendant 表示空中乘务员；fasten 表示系紧。
+2. **中文**：我们之前没有订房。
+   **英文**：We hadn't booked a room.
+   > **解析**：hadn't booked 是过去完成时否定形式；a room 可数名词用 a。
 
-3. **中文**：请确保您的随身行李符合航空公司的尺寸限制。
-   **英文**：Make sure your carry-on bag meets the airline size limit.
-   > **解析**：carry-on
+3. **中文**：你是怎么去机场的？
+   **英文**：How did you get to the airport?
+   > **解析**：How did 询问过去的方式，did 后接动词原形 get；to the airport 是方向状语。
 
-4. **中文**：酒店的大堂电梯目前正在维修，处于故障状态。
-   **英文**：The hotel lobby elevator is currently out of order for maintenance.
-   > **解析**：out of order 表示故障、损坏。
+4. **中文**：请提前预订座位。
+   **英文**：Please reserve your seat ahead of time.
+   > **解析**：祈使句用动词原形 reserve；ahead of time 是"提前"的固定短语，放句末。
 
-5. **中文**：餐厅提供丰富的自助早餐供客人享用。
-   **英文**：The dining area offers a self-service breakfast buffet for guests.
-   > **解析**：self-service 表示自助服务的。
+5. **中文**：我们住在一家家庭旅馆。
+   **英文**：We stayed at a bed and breakfast.
+   > **解析**：stayed 是 stay 的过去式；at a bed and breakfast 表示住宿地点类型。
 
-6. **中文**：建议旅客提前两小时到达机场办理登机。
-   **英文**：Travelers are advised to arrive at the airport ahead of time.
-   > **解析**：ahead of time 表示提前、事先。
+6. **中文**：请把随身行李放在头顶行李舱里。
+   **英文**：Please put your carry-on in the overhead bin.
+   > **解析**：祈使句用动词原形 put；your carry-on 指随身行李。
 
-7. **中文**：请随意享用休息室里的新鲜水果和饮料。
-   **英文**：Please help yourself to the fresh fruit and drinks in the lounge.
-   > **解析**：help yourself to 表示请自便、随意享用。
+7. **中文**：空乘人员会帮助你。
+   **英文**：The flight attendant will help you.
+   > **解析**：will 后接动词原形 help；The flight attendant 是单数主语。
 
-8. **中文**：这家租车公司以提供可靠的车况和优质服务而闻名。
-   **英文**：This car rental agency is known for providing reliable vehicles.
-   > **解析**：reliable 表示可靠的。
+8. **中文**：请系好安全带。
+   **英文**：Please fasten your seatbelt.
+   > **解析**：fasten 是"系紧"，祈使句用原形；your seatbelt 作宾语。
 
-9. **中文**：这间酒店位于交通便利的市中心区域。
-   **英文**：This hotel is conveniently located in the central district.
-   > **解析**：central 表示市中心的、中央的。
+9. **中文**：你可以在屏幕上选座。
+   **英文**：You can select a seat on the screen.
+   > **解析**：can 后接动词原形 select；on the screen 是地点状语。
 
-10. **中文**：如果同行亲友需要分房住，我们可以准备单独的房间。
-   **英文**：We can prepare separate rooms if guests prefer privacy.
-   > **解析**：separate 表示分开的、单独的。
+10. **中文**：电梯坏了。
+    **英文**：The elevator is out of order.
+    > **解析**：out of order 是固定短语"出故障"，作表语；elevator 单数用 is。
 
-11. **中文**：在我到达航站楼之前，航班就已经起飞了。
-   **英文**：Before I arrived at the terminal, the flight had already taken off.
-   > **解析**：had 用于过去完成时，表示在过去某一时间前已经发生。
+11. **中文**：照片洗出来效果很好。
+    **英文**：The photos came out well.
+    > **解析**：came out 是 come out 的过去式，表示"（照片）出来"；well 是副词修饰 came out。
 
-12. **中文**：我们去海滩之前还没检查过天气预报。
-   **英文**：We hadn't checked the forecast before heading to the beach.
-   > **解析**：hadn't 用于过去完成时否定，表示当时尚未……
+12. **中文**：他是永久居民。
+    **英文**：He is a permanent resident.
+    > **解析**：permanent 修饰 resident；a permanent resident 是可数名词短语。
 
-13. **中文**：他在日本居住多年后获得了永久居民身份。
-   **英文**：He obtained his status as a permanent resident after years of living there.
-   > **解析**：permanent resident 表示永久居民。
+13. **中文**：她是移民。
+    **英文**：She is an immigrant.
+    > **解析**：immigrant 以元音音开头，用 an；作可数名词。
 
-14. **中文**：这座城市吸引了许多来自世界各地的年轻移民。
-   **英文**：The city attracts many young immigrants from around the world.
-   > **解析**：immigrant 表示移民。
+14. **中文**：这是一家可靠的航空公司。
+    **英文**：This is a reliable airline.
+    > **解析**：reliable 形容词修饰 airline；a reliable airline 作表语。
 
-15. **中文**：请从菜单中选择您喜欢的晚餐套餐。
-   **英文**：Please select your preferred dinner option from the menu.
-   > **解析**：select 表示选择、挑选。
+15. **中文**：我们想要分开的房间。
+    **英文**：We want separate rooms.
+    > **解析**：separate 形容词修饰复数名词 rooms；want 后接名词宾语。
 
-16. **中文**：前台接待员帮我们核对了预订信息。
-   **英文**：The receptionist helped us check our reservation details carefully.
-   > **解析**：check 表示核对、检查。
+16. **中文**：他写了一本关于他游历的书。
+    **英文**：He wrote a book about his travels.
+    > **解析**：wrote 是 write 的过去式；travels 用复数指游历经历。
 
-17. **中文**：他经常为了商务合作去欧洲各个国家旅行。
-   **英文**：He often travels across European countries for business.
-   > **解析**：travels 表示旅行（第三人称单数）。
+17. **中文**：请自便喝点咖啡。
+    **英文**：Help yourself to some coffee.
+    > **解析**：help yourself to 是固定表达"请自便取用"；some coffee 是不可数名词短语。
 
-18. **中文**：太阳从云层后面升起，天气变得格外晴朗。
-   **英文**：The sun came out from behind the clouds and it brightened up.
-   > **解析**：come out 表示出来、露面。
+18. **中文**：这是自助柜台。
+    **英文**：This is a self-service counter.
+    > **解析**：self-service 作形容词修饰 counter；a self-service counter 作表语。
 
-19. **中文**：你是怎样在没有导航的情况下找到这家特色旅馆的？
-   **英文**：How did you find this boutique hotel without using navigation?
-   > **解析**：how did 用于询问过去动作的方式。
+19. **中文**：酒店位置很中心。
+    **英文**：The hotel has a central location.
+    > **解析**：central 形容词修饰 location；has 表"具有"。
 
-20. **中文**：飞机降落前请将您的随身小包妥善安放。
-   **英文**：Please store your small baggage safely in the extra room.
-   > **解析**：room 表示空间。
+20. **中文**：我到达之前她已经值机了。
+    **英文**：She had checked in before I arrived.
+    > **解析**：had checked in 是过去完成时，发生在 arrived（过去）之前；check in 是"值机"的动词短语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We booked a cozy bed and breakfast in the countryside.
-   > **中文**：我们在伦敦郊区预订了一家非常温馨的民宿。
+1. I had reserved my seat before the flight.
+   > **中文**：起飞前我就订好了座位。
 
-2. The flight attendant reminded passengers to fasten their seatbelts.
-   > **中文**：空中乘务员提醒大家在起飞前系好安全带。
+2. We hadn't booked a room.
+   > **中文**：我们之前没有订房。
 
-3. Make sure your carry-on bag meets the airline size limit.
-   > **中文**：请确保您的随身行李符合航空公司的尺寸限制。
+3. How did you get to the airport?
+   > **中文**：你是怎么去机场的？
 
-4. The hotel lobby elevator is currently out of order for maintenance.
-   > **中文**：酒店的大堂电梯目前正在维修，处于故障状态。
+4. Please reserve your seat ahead of time.
+   > **中文**：请提前预订座位。
 
-5. The dining area offers a self-service breakfast buffet for guests.
-   > **中文**：餐厅提供丰富的自助早餐供客人享用。
+5. We stayed at a bed and breakfast.
+   > **中文**：我们住在一家家庭旅馆。
 
-6. Travelers are advised to arrive at the airport ahead of time.
-   > **中文**：建议旅客提前两小时到达机场办理登机。
+6. Please put your carry-on in the overhead bin.
+   > **中文**：请把随身行李放在头顶行李舱里。
 
-7. Please help yourself to the fresh fruit and drinks in the lounge.
-   > **中文**：请随意享用休息室里的新鲜水果和饮料。
+7. The flight attendant will help you.
+   > **中文**：空乘人员会帮助你。
 
-8. This car rental agency is known for providing reliable vehicles.
-   > **中文**：这家租车公司以提供可靠的车况和优质服务而闻名。
+8. Please fasten your seatbelt.
+   > **中文**：请系好安全带。
 
-9. This hotel is conveniently located in the central district.
-   > **中文**：这间酒店位于交通便利的市中心区域。
+9. You can select a seat on the screen.
+   > **中文**：你可以在屏幕上选座。
 
-10. We can prepare separate rooms if guests prefer privacy.
-   > **中文**：如果同行亲友需要分房住，我们可以准备单独的房间。
+10. The elevator is out of order.
+    > **中文**：电梯坏了。
 
-11. Before I arrived at the terminal, the flight had already taken off.
-   > **中文**：在我到达航站楼之前，航班就已经起飞了。
+11. The photos came out well.
+    > **中文**：照片洗出来效果很好。
 
-12. We hadn't checked the forecast before heading to the beach.
-   > **中文**：我们去海滩之前还没检查过天气预报。
+12. He is a permanent resident.
+    > **中文**：他是永久居民。
 
-13. He obtained his status as a permanent resident after years of living there.
-   > **中文**：他在日本居住多年后获得了永久居民身份。
+13. She is an immigrant.
+    > **中文**：她是移民。
 
-14. The city attracts many young immigrants from around the world.
-   > **中文**：这座城市吸引了许多来自世界各地的年轻移民。
+14. This is a reliable airline.
+    > **中文**：这是一家可靠的航空公司。
 
-15. Please select your preferred dinner option from the menu.
-   > **中文**：请从菜单中选择您喜欢的晚餐套餐。
+15. We want separate rooms.
+    > **中文**：我们想要分开的房间。
 
-16. The receptionist helped us check our reservation details carefully.
-   > **中文**：前台接待员帮我们核对了预订信息。
+16. He wrote a book about his travels.
+    > **中文**：他写了一本关于他游历的书。
 
-17. He often travels across European countries for business.
-   > **中文**：他经常为了商务合作去欧洲各个国家旅行。
+17. Help yourself to some coffee.
+    > **中文**：请自便喝点咖啡。
 
-18. The sun came out from behind the clouds and it brightened up.
-   > **中文**：太阳从云层后面升起，天气变得格外晴朗。
+18. This is a self-service counter.
+    > **中文**：这是自助柜台。
 
-19. How did you find this boutique hotel without using navigation?
-   > **中文**：你是怎样在没有导航的情况下找到这家特色旅馆的？
+19. The hotel has a central location.
+    > **中文**：酒店位置很中心。
 
-20. Please store your small baggage safely in the extra room.
-   > **中文**：飞机降落前请将您的随身小包妥善安放。
+20. She had checked in before I arrived.
+    > **中文**：我到达之前她已经值机了。
 
 </quiz-listening>
 
@@ -203,26 +206,36 @@ had / hadn't 提示过去完成时（Had you reserved...? / I hadn't known...）
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| bed and breakfast | 民宿；含早餐旅馆 |
-| flight attendant | 空中乘务员；空姐 |
+| ahead of time | 提前 |
+| as | 作为；当……时 |
+| bed and breakfast | 含早餐的家庭旅馆 |
 | carry-on | 随身行李 |
-| permanent resident | 永久居民 |
+| central | 中心的 |
+| check | 检查；值机 |
+| come out | 出来；显影 |
+| fasten | 系紧 |
+| flight attendant | 空乘人员 |
+| for | 为了 |
+| had | have 的过去式 |
+| hadn't | had not 的缩写 |
+| help yourself to | 请自便取用 |
+| how did | 是怎么……的 |
 | immigrant | 移民 |
-| out of order | 故障；损坏 |
-| self-service | 自助服务的 |
+| out of order | 出故障 |
+| permanent resident | 永久居民 |
 | reliable | 可靠的 |
-| central | 市中心的；中央的 |
-| separate | 分开的；单独的 |
-| ahead of time | 提前；事先 |
-| help yourself to | 请自便；随意享用 |
-| fasten | 系紧；扣紧 |
-| select | 选择；挑选 |
-| check | 检查；核对 |
-| room | 房间；空间 |
-| travels | 旅行 |
-| come out | 出来；出版 |
-| had | 已经（过去完成时助动词） |
-| hadn't | 尚未（过去完成时否定助动词） |
+| room | 房间 |
+| select | 挑选 |
+| self-service | 自助的 |
+| separate | 分开的 |
+| to | 到；（不定式符号） |
+| travels | 游历 |
+| with | 和；带有 |
+| seat | 座位 |
+| flight | 航班 |
+| airport | 机场 |
+| hotel | 酒店 |
+| please | 请 |
 
 </quiz-matching>
 
@@ -230,202 +243,202 @@ had / hadn't 提示过去完成时（Had you reserved...? / I hadn't known...）
 
 ### 1
 
-We booked a cozy bed and breakfast in the ____.
+I had ____ my seat before the flight.
 
-- [x] countryside
-- [ ] ahead of time
-- [ ] as
+- [x] reserved
+- [ ] reserve
+- [ ] reserving
 
-> **解析**：**countryside** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：had 后接过去分词 reserved 构成过去完成时；reserve 是原形，reserving 不接在 had 后构成完成时。
 
 ### 2
 
-The flight attendant reminded passengers ____ fasten their seatbelts.
+We ____ booked a room.
 
-- [x] to
-- [ ] ahead of time
-- [ ] as
+- [x] hadn't
+- [ ] haven't
+- [ ] doesn't
 
-> **解析**：**to** 为介词或不定式符号，表示方向、目标或接动词原形。
+> **解析**：讲述过去的过去用 hadn't（had not）；haven't 是现在完成时，doesn't 不与过去分词构成完成时。
 
 ### 3
 
-Make sure your ____ bag meets the airline size limit.
+How ____ you get to the airport?
 
-- [x] carry-on
-- [ ] ahead of time
-- [ ] as
+- [x] did
+- [ ] do
+- [ ] does
 
-> **解析**：**carry-on** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：询问过去的事用 did 构成过去时疑问句；do 和 does 用于现在时。
 
 ### 4
 
-The hotel lobby elevator is currently out of order ____ maintenance.
+Please reserve your seat ahead of ____.
 
-- [x] for
-- [ ] ahead of time
-- [ ] as
+- [x] time
+- [ ] times
+- [ ] timing
 
-> **解析**：**for** 为介词，表示目的、对象或持续的时间段。
+> **解析**：ahead of time 是固定短语"提前"；times 和 timing 不构成此短语。
 
 ### 5
 
-The dining area offers a ____ breakfast buffet for guests.
+We stayed at a bed and ____.
 
-- [x] self-service
-- [ ] ahead of time
-- [ ] as
+- [x] breakfast
+- [ ] breakfasts
+- [ ] breaking
 
-> **解析**：**self-service** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：bed and breakfast 是固定旅馆类型名称；breakfasts 复数和 breaking 都不构成此表达。
 
 ### 6
 
-Travelers are advised ____ arrive at the airport ahead of time.
+Please put your ____ in the overhead bin.
 
-- [x] to
-- [ ] ahead of time
-- [ ] as
+- [x] carry-on
+- [ ] carry-ons
+- [ ] carrying
 
-> **解析**：**to** 为介词或不定式符号，表示方向、目标或接动词原形。
+> **解析**：your 后接单数名词 carry-on（随身行李）；carrying 是动名词。
 
 ### 7
 
-Please help yourself ____ the fresh fruit and drinks in the lounge.
+The flight ____ will help you.
 
-- [x] to
-- [ ] ahead of time
-- [ ] as
+- [x] attendant
+- [ ] attendants
+- [ ] attention
 
-> **解析**：**to** 为介词或不定式符号，表示方向、目标或接动词原形。
+> **解析**：flight attendant 是固定职业名称，will 前用单数；attention 是"注意力"干扰项。
 
 ### 8
 
-This car rental agency is known ____ providing reliable vehicles.
+Please ____ your seatbelt.
 
-- [x] for
-- [ ] ahead of time
-- [ ] as
+- [x] fasten
+- [ ] fastens
+- [ ] fastening
 
-> **解析**：**for** 为介词，表示目的、对象或持续的时间段。
+> **解析**：祈使句用动词原形 fasten；fastens 是三单形式，fastening 不能构成祈使句。
 
 ### 9
 
-This hotel is conveniently located in the ____ district.
+You can ____ a seat on the screen.
 
-- [x] central
-- [ ] ahead of time
-- [ ] as
+- [x] select
+- [ ] selects
+- [ ] selected
 
-> **解析**：**central** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：can 后接动词原形 select；selected 是过去式/分词。
 
 ### 10
 
-We can prepare ____ rooms if guests prefer privacy.
+The elevator is out of ____.
 
-- [x] separate
-- [ ] ahead of time
-- [ ] as
+- [x] order
+- [ ] orders
+- [ ] ordering
 
-> **解析**：**separate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：out of order 是固定短语"出故障"；orders 和 ordering 不构成此表达。
 
 ### 11
 
-Before I arrived at the terminal, the flight ____ already taken off.
+The photos ____ out well.
 
-- [x] had
-- [ ] ahead of time
-- [ ] as
+- [x] came
+- [ ] come
+- [ ] coming
 
-> **解析**：**had** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去结果用过去式 came；come 是原形，coming 不能单独作谓语。
 
 ### 12
 
-We ____ checked the forecast before heading to the beach.
+He is a permanent ____.
 
-- [x] hadn't
-- [ ] ahead of time
-- [ ] as
+- [x] resident
+- [ ] residents
+- [ ] residence
 
-> **解析**：**hadn't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后接单数名词 resident；residence 指"住所"，语义与身份不合。
 
 ### 13
 
-He obtained his status ____ a permanent resident after years of living there.
+She is an ____.
 
-- [x] as
-- [ ] ahead of time
-- [ ] bed and breakfast
+- [x] immigrant
+- [ ] immigration
+- [ ] immigrants
 
-> **解析**：**as** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：an 后接单数指人的名词 immigrant；immigration 指"移民（现象/管理）"，immigrants 复数不与 an 搭配。
 
 ### 14
 
-The city attracts many young ____ from around the world.
+This is a ____ airline.
 
-- [x] immigrants
-- [ ] ahead of time
-- [ ] as
+- [x] reliable
+- [ ] reliance
+- [ ] rely
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **immigrants**。
+> **解析**：名词 airline 前需要形容词 reliable；reliance 是名词，rely 是动词。
 
 ### 15
 
-Please ____ your preferred dinner option from the menu.
+We want ____ rooms.
 
-- [x] select
-- [ ] ahead of time
-- [ ] as
+- [x] separate
+- [ ] separation
+- [ ] separated
 
-> **解析**：**select** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：rooms 前用形容词 separate 表示"分开的"；separation 是名词，separated 强调"被分开的状态"不合预订语境。
 
 ### 16
 
-The receptionist helped us ____ our reservation details carefully.
+He wrote a book about his ____.
 
-- [x] check
-- [ ] ahead of time
-- [ ] as
+- [x] travels
+- [ ] travel
+- [ ] traveling
 
-> **解析**：**check** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：his travels 用复数指游历经历，是习惯用法；travel 泛指旅行不常接 his 表经历，traveling 是动名词。
 
 ### 17
 
-He often ____ across European countries for business.
+Help ____ to some coffee.
 
-- [x] travels
-- [ ] ahead of time
-- [ ] as
+- [x] yourself
+- [ ] you
+- [ ] yours
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **travels**。
+> **解析**：help yourself to 是固定表达；you 是主/宾格，yours 是名词性物主代词，都不构成此短语。
 
 ### 18
 
-The sun came out from behind the clouds and it ____ up.
+This is a ____ counter.
 
-- [x] brightened
-- [ ] ahead of time
-- [ ] as
+- [x] self-service
+- [ ] self-served
+- [ ] selves
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **brightened**。
+> **解析**：self-service 作形容词修饰 counter；self-served 不是常规搭配，selves 是复数反身代词。
 
 ### 19
 
-How did you find this boutique hotel without using ____?
+The hotel has a ____ location.
 
-- [x] navigation
-- [ ] ahead of time
-- [ ] as
+- [x] central
+- [ ] center
+- [ ] centrally
 
-> **解析**：**navigation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：名词 location 前需要形容词 central；center 是名词，centrally 是副词。
 
 ### 20
 
-Please store your small baggage safely in the extra ____.
+She had checked ____ before I arrived.
 
-- [x] room
-- [ ] ahead of time
-- [ ] as
+- [x] in
+- [ ] out
+- [ ] up
 
-> **解析**：**room** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：check in 是"值机"的固定搭配；check out 是退房，语义与 before I arrived 的接机语境不合。
 
 </quiz-cloze>

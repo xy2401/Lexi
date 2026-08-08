@@ -10,32 +10,31 @@ already, always, amazingly, before, briefly, brochure, cabin, comment, complain,
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元让你讲述过去的旅行经历，特别是旅途中遇到的"小插曲"。时间副词和完成时是重点：I've already been through customs, but I've never lost my luggage before.（我已经过了海关，但以前从没丢过行李。）Have you ever traveled internationally? I just arrived, and I haven't seen my bag yet.（你出过国吗？我刚到，还没看到我的包。）
+本单元的主题是"分享过去的旅行经历、讲述旅途小插曲"。词表可以分成三组：旅行场景（cabin, customs, brochure, contest, distance, internationally, stay）、叙述与评价（already, before, ever, never, yet, once before, just, always, amazingly, briefly, safely, when, intend, support）、以及沟通表达（comment, complain, complaint, discussion）。串起来就是一段经历讲述：I've already been through customs. We stayed in a cabin, and amazingly, everything went well.
 
-词表中有大量时间/频率副词：already, always, before, ever, just, never, yet, once before。这些词是现在完成时的典型标志。amazingly 和 briefly 是方式副词，safely 也是：Amazingly, we arrived safely after a long distance.（令人惊叹的是，长途跋涉后我们安全到达了。）
+语法主线是现在完成时与时间副词的搭配：already（已经）用于肯定句，yet（还）用于否定句和疑问句句末，ever/never 谈经历，just 表"刚刚"。Have you been abroad before? I haven't finished yet. 注意 once before 表示"以前有过一次"。
 
-旅行场景词汇包括 customs（海关）、cabin（机舱/小屋）、brochure（宣传册）、internationally（国际性地）。complain / complaint 和 comment / discussion 则用来描述旅途中的互动：I intend to complain about the cabin.（我打算投诉那个小屋。）The distance was amazing—I'd never traveled so far once before.（距离令人惊叹——我以前从没走这么远过。）
+学完本单元，你能讲述旅行中发生的事、描述过关与住宿经历、表达投诉与讨论问题，也能正确使用 already/yet/ever/never 这组高频副词。
 
 ## Tips
 
-- **already / yet / just** — 三者都是现在完成时的标志副词。already 用于肯定句，常放在 have 和过去分词之间：I've already finished. yet 用于否定/疑问句末尾：Have you arrived yet? / I haven't left yet. just 表示"刚刚"：I've just landed.
+- **already / yet / just** — 完成时三副词。already 用于肯定句：I have already packed. yet 放在否定句和疑问句句末：Have you landed yet? just 表"刚刚"：We just arrived. ✗ I have yet arrived（yet 位置错误）→ ✓ I have arrived yet? 不行，肯定句用 already。
 
-- **ever / never / before / once before** — ever 用于疑问句：Have you ever been abroad? never 用于肯定句表否定：I've never flown first class. before 可单独使用：I've seen this before. once before = 以前有一次：I've traveled internationally once before.
+- **ever / never / before / once before** — ever 用于疑问谈经历：Have you ever missed a flight? never 表"从未"。before 作副词表示"以前"。once before 是"以前有过一次"：I've flown internationally once before.
 
-- **customs / internationally / distance** — customs 是海关（注意复数形式，因为海关涉及多项检查）。internationally 来自 international + -ly。distance 是距离，搭配 cover a distance / in the distance（在远处）。
+- **always** — "总是"，放在 be 动词之后、实义动词之前：She is always on time. He always checks his bag.
 
-- **complain / complaint / comment** — complain 是动词，complaint 是名词。搭配：complain about something / file a complaint. comment 可作名词也可作动词：make a comment / comment on something. 注意 complain 的介词是 about，不是 for。
+- **amazingly / briefly / safely** — 三个 -ly 副词。amazingly 是"惊人地"：amazingly cheap。briefly 是"简短地"：Let me explain briefly. safely 是"安全地"：We landed safely.
 
-- **cabin / brochure / contest** — cabin 可指飞机客舱、小木屋或船舱。brochure 是宣传小册子（旅游信息常用）。contest 是比赛/竞赛，比 competition 更强调有规则的角逐。
+- **complain / complaint / comment** — 动词与名词家族。complain 是动词"投诉、抱怨"，complain about sth.。complaint 是名词"投诉"：file a complaint。comment 是"评论"：leave a comment。
 
-- **amazingly / briefly / safely** — 三个 -ly 副词。amazingly = 令人惊叹地。briefly = 简短地、短暂地：We stopped briefly. safely = 安全地：We arrived safely. 注意 safe → safely 的变化（去 e 加 ly）。
+- **customs / cabin / brochure** — 旅行场景词。customs 是"海关"，注意总用复数形式：go through customs。cabin 是"小屋、机舱"。brochure 是"宣传册"。
 
-- **intend / support / stay** — intend to do = 打算做：I intend to complain. support 可作动词（支持）或名词。stay 在旅行中常指"住宿"：Where did you stay? / a three-night stay.
+- **contest / discussion / support** — contest 是"比赛、竞赛"：a photo contest。discussion 是"讨论"，have a discussion about。support 是"支持"：support a decision。
 
-- **always / when** — always 在完成时中可表达"一直"：I've always wanted to travel. when 引导时间从句：When I arrived, the cabin was empty. 注意 when 从句中通常不用将来时。
+- **stay / intend / distance / internationally / when** — stay 是"停留、住宿"：stay at a hotel。intend 是"打算"，intend to do。distance 是"距离"。internationally 是"在国际上"。when 引导时间从句：When we arrived, it rained.
 
 ## 练习
 
@@ -53,149 +52,149 @@ already, always, amazingly, before, briefly, brochure, cabin, comment, complain,
 
 <quiz-sentence-builder>
 
-1. **中文**：当我们赶到车站时，火车已经开走了。
-   **英文**：When we arrived at the station, the train had already left.
-   > **解析**：already 表示“已经”（常用于完成时）。
+1. **中文**：我已经收拾好行李了。
+   **英文**：I have already packed.
+   > **解析**：already 放在 have 与过去分词之间，用于肯定句。
 
-2. **中文**：令人惊叹地是，无人在这场严重的碰撞事故中受伤。
-   **英文**：Amazingly, no one was injured during the car accident.
-   > **解析**：Amazingly 表示“令人惊叹地/神奇地”。
+2. **中文**：你过海关了吗？
+   **英文**：Have you been through customs yet?
+   > **解析**：yet 放在疑问句句末；customs 是"海关"。
 
-3. **中文**：会议开始前，发言人简短地介绍了背景情况。
-   **英文**：The manager spoke briefly about the project before starting.
-   > **解析**：briefly 表示“简短地/简要地”。
+3. **中文**：我们刚刚到达。
+   **英文**：We just arrived.
+   > **解析**：just 表"刚刚"，放在动词前。
 
-4. **中文**：游客在前台领取了一份免费的景点宣传册。
-   **英文**：The tourist picked up a colorful travel brochure at the counter.
-   > **解析**：brochure 表示“宣传册/小册子”。
+4. **中文**：你以前出过国吗？
+   **英文**：Have you ever been abroad?
+   > **解析**：ever 用于疑问句谈经历；been abroad 表示"出国"。
 
-5. **中文**：我们在高山森林深处租了一间温馨的木屋。
-   **英文**：We rented a quiet wooden cabin in the mountains for vacation.
-   > **解析**：cabin 表示“木屋/客舱”。
+5. **中文**：我从没丢过行李。
+   **英文**：I have never lost my luggage.
+   > **解析**：never 放在 have 与过去分词之间，表"从未"。
 
-6. **中文**：请在下方留言区留下你的宝贵评论。
-   **英文**：Feel free to leave a helpful comment on our forum post.
-   > **解析**：comment 表示“评论/意见”。
+6. **中文**：我以前坐过国际航班一次。
+   **英文**：I have flown internationally once before.
+   > **解析**：once before 表示"以前有一次"；internationally 修饰 flown。
 
-7. **中文**：多名乘客就严重的误点向航空公司提出了投诉。
-   **英文**：Passengers went to complain about the long flight delay.
-   > **解析**：complain 表示“投诉/抱怨”。
+7. **中文**：我们住在一间小木屋里。
+   **英文**：We stayed in a cabin.
+   > **解析**：stayed 是 stay 的过去式；in a cabin 是地点状语。
 
-8. **中文**：经经理核实后，客户取消了那份正式投诉信。
-   **英文**：The customer filed a formal complaint with customer service.
-   > **解析**：complaint 表示“投诉信/抱怨”。
+8. **中文**：我们平安降落了。
+   **英文**：We landed safely.
+   > **解析**：safely 是副词，修饰动词 landed。
 
-9. **中文**：她凭借优异的摄影作品在这次比赛中获得了一等奖。
-   **英文**：She won first prize in the national photo contest yesterday.
-   > **解析**：contest 表示“比赛/竞赛”。
+9. **中文**：飞机票便宜得惊人。
+   **英文**：The tickets were amazingly cheap.
+   > **解析**：amazingly 修饰形容词 cheap。
 
-10. **中文**：在入境前，所有入境旅客必须通过海关检查。
-   **英文**：All passengers must pass through customs after landing.
-   > **解析**：customs 表示“海关/海关检查”。
+10. **中文**：让我简短地解释一下。
+   **英文**：Let me explain briefly.
+   > **解析**：briefly 是副词，修饰 explain；let 后接原形。
 
-11. **中文**：大家就新项目预算展开了一场深入的讨论。
-   **英文**：We had a long discussion about the upcoming event schedule.
-   > **解析**：discussion 表示“讨论/商讨”。
+11. **中文**：他总是准时。
+   **英文**：He is always on time.
+   > **解析**：always 放在 be 动词之后。
 
-12. **中文**：站在山顶上，你可以看清远处的城市全景。
-   **英文**：You can see the mountain top clearly from a distance.
-   > **解析**：distance 表示“距离/远方”；from a distance 意为“从远处”。
+12. **中文**：我想投诉那家酒店。
+   **英文**：I intend to complain about the hotel.
+   > **解析**：intend to do 是"打算做"；complain about 是"投诉某事"。
 
-13. **中文**：我并不打算在此次会议上提出这个敏感话题。
-   **英文**：I do not intend to change my travel plans this week.
-   > **解析**：intend 表示“打算/想要”。
+13. **中文**：她提交了一份投诉。
+   **英文**：She filed a complaint.
+   > **解析**：file a complaint 是固定搭配；complaint 是名词。
 
-14. **中文**：该品牌的产品在国际上获得了广泛的认可。
-   **英文**：This electronics brand is well known internationally.
-   > **解析**：internationally 表示“在国际上/全球范围地”。
+14. **中文**：请留下你的评论。
+   **英文**：Please leave a comment.
+   > **解析**：leave a comment 是固定搭配；comment 是名词。
 
-15. **中文**：我以前有一次去过那家著名的法式餐厅。
-   **英文**：I have visited that museum once before with my family.
-   > **解析**：once before 表示“以前有一次”。
+15. **中文**：我们进行了一次讨论。
+   **英文**：We had a discussion about the plan.
+   > **解析**：have a discussion 是固定搭配；about 引出话题。
 
-16. **中文**：在经历了漫长的暴风雪后，驾驶员安全地回到了家中。
-   **英文**：After the severe storm, everyone arrived home safely.
-   > **解析**：safely 表示“安全地”。
+16. **中文**：我赢得了一次摄影比赛。
+   **英文**：I won a photo contest.
+   > **解析**：won 是 win 的过去式；contest 是"比赛"。
 
-17. **中文**：在旅行期间，我们打算在这家宾馆停留三天。
-   **英文**：We plan to stay at a coastal hotel for three nights.
-   > **解析**：stay 表示“停留/住宿”。
+17. **中文**：我拿了一本宣传册。
+   **英文**：I picked up a brochure.
+   > **解析**：pick up 是"拿起、获取"；brochure 是"宣传册"。
 
-18. **中文**：非常感谢你在我创业初期给予的无私支持。
-   **英文**：Thank you for all your support during the project.
-   > **解析**：support 表示“支持/赞助”。
+18. **中文**：这段距离很长。
+   **英文**：The distance is long.
+   > **解析**：distance 作主语；long 作表语。
 
-19. **中文**：虽然时间紧迫，但他还没有完成这篇报告。
-   **英文**：He has not finished writing his final report yet.
-   > **解析**：yet 用于完成时否定句，意为“还/尚未”。
+19. **中文**：当我们到达时，天开始下雨。
+   **英文**：When we arrived, it started to rain.
+   > **解析**：when 引导时间从句；主句与从句都用过去时。
 
-20. **中文**：我刚刚接到客服打来的确认电话。
-   **英文**：I have just received a message from the travel manager.
-   > **解析**：just 表示“刚刚/刚才”。
+20. **中文**：我支持你的决定。
+   **英文**：I support your decision.
+   > **解析**：support 是及物动词；your decision 作宾语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. When we arrived at the station, the train had already left.
-   > **中文**：当我们赶到车站时，火车已经开走了。
+1. I have already packed my bag.
+   > **中文**：我已经收拾好包了。
 
-2. Amazingly, no one was injured during the car accident.
-   > **中文**：令人惊叹地是，无人在这场严重的碰撞事故中受伤。
+2. Have you been through customs yet?
+   > **中文**：你过海关了吗？
 
-3. The manager spoke briefly about the project before starting.
-   > **中文**：会议开始前，发言人简短地介绍了背景情况。
+3. We just landed.
+   > **中文**：我们刚刚降落。
 
-4. The tourist picked up a colorful travel brochure at the counter.
-   > **中文**：游客在前台领取了一份免费的景点宣传册。
+4. Have you ever missed a flight?
+   > **中文**：你误过机吗？
 
-5. We rented a quiet wooden cabin in the mountains for vacation.
-   > **中文**：我们在高山森林深处租了一间温馨的木屋。
+5. I have never lost my passport.
+   > **中文**：我从没丢过护照。
 
-6. Feel free to leave a helpful comment on our forum post.
-   > **中文**：请在下方留言区留下你的宝贵评论。
+6. I've been abroad once before.
+   > **中文**：我以前出过一次国。
 
-7. Passengers went to complain about the long flight delay.
-   > **中文**：多名乘客就严重的误点向航空公司提出了投诉。
+7. We stayed in a mountain cabin.
+   > **中文**：我们住在一间山间小屋里。
 
-8. The customer filed a formal complaint with customer service.
-   > **中文**：经经理核实后，客户取消了那份正式投诉信。
+8. The plane landed safely.
+   > **中文**：飞机平安降落了。
 
-9. She won first prize in the national photo contest yesterday.
-   > **中文**：她凭借优异的摄影作品在这次比赛中获得了一等奖。
+9. The hotel was amazingly clean.
+   > **中文**：这家酒店干净得惊人。
 
-10. All passengers must pass through customs after landing.
-   > **中文**：在入境前，所有入境旅客必须通过海关检查。
+10. She explained the rules briefly.
+   > **中文**：她简短地解释了规则。
 
-11. We had a long discussion about the upcoming event schedule.
-   > **中文**：大家就新项目预算展开了一场深入的讨论。
+11. He is always prepared.
+   > **中文**：他总是有备而来。
 
-12. You can see the mountain top clearly from a distance.
-   > **中文**：站在山顶上，你可以看清远处的城市全景。
+12. I intend to travel next month.
+   > **中文**：我打算下个月旅行。
 
-13. I do not intend to change my travel plans this week.
-   > **中文**：我并不打算在此次会议上提出这个敏感话题。
+13. They filed a complaint about the noise.
+   > **中文**：他们就噪音提交了投诉。
 
-14. This electronics brand is well known internationally.
-   > **中文**：该品牌的产品在国际上获得了广泛的认可。
+14. He left a comment online.
+   > **中文**：他在网上留了条评论。
 
-15. I have visited that museum once before with my family.
-   > **中文**：我以前有一次去过那家著名的法式餐厅。
+15. We had a long discussion.
+   > **中文**：我们进行了一次长谈。
 
-16. After the severe storm, everyone arrived home safely.
-   > **中文**：在经历了漫长的暴风雪后，驾驶员安全地回到了家中。
+16. She entered a writing contest.
+   > **中文**：她参加了一场写作比赛。
 
-17. We plan to stay at a coastal hotel for three nights.
-   > **中文**：在旅行期间，我们打算在这家宾馆停留三天。
+17. Read the brochure carefully.
+   > **中文**：仔细阅读宣传册。
 
-18. Thank you for all your support during the project.
-   > **中文**：非常感谢你在我创业初期给予的无私支持。
+18. The distance between the cities is short.
+   > **中文**：两座城市之间的距离很短。
 
-19. He has not finished writing his final report yet.
-   > **中文**：虽然时间紧迫，但他还没有完成这篇报告。
+19. When did you arrive?
+   > **中文**：你什么时候到的？
 
-20. I have just received a message from the travel manager.
-   > **中文**：我刚刚接到客服打来的确认电话。
+20. We support the new plan.
+   > **中文**：我们支持新计划。
 
 </quiz-listening>
 
@@ -204,25 +203,50 @@ already, always, amazingly, before, briefly, brochure, cabin, comment, complain,
 | 英文单词 | 课文释义 |
 | --- | --- |
 | already | 已经 |
+| always | 总是 |
 | amazingly | 惊人地 |
+| before | 以前 |
 | briefly | 简短地 |
 | brochure | 宣传册 |
-| cabin | 木屋 / 客舱 |
+| cabin | 小屋 / 机舱 |
 | comment | 评论 |
 | complain | 投诉 / 抱怨 |
-| complaint | 投诉信 |
-| contest | 竞赛 / 比赛 |
+| complaint | 投诉（名词） |
+| contest | 比赛 |
 | customs | 海关 |
 | discussion | 讨论 |
 | distance | 距离 |
-| intend | 打算 / 想要 |
+| ever | 曾经 |
+| intend | 打算 |
 | internationally | 在国际上 |
+| just | 刚刚 |
+| never | 从不 |
 | once before | 以前有一次 |
 | safely | 安全地 |
 | stay | 停留 / 住宿 |
 | support | 支持 |
-| yet | 还（否定句） |
-| just | 刚刚 |
+| when | 当……时 |
+| yet | 还（尚未） |
+| I | 我 |
+| we | 我们 |
+| he | 他 |
+| she | 她 |
+| they | 他们 |
+| you | 你 |
+| is | 是（单数） |
+| was | 是（过去式） |
+| have | 有（助动词） |
+| has | 有（三单） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| in | 在……里 |
+| about | 关于 |
+| to | 到 / 向 |
+| arrive | 到达 |
+| land | 降落 |
+| plane | 飞机 |
+| hotel | 酒店 |
+| abroad | 在国外 |
 
 </quiz-matching>
 
@@ -230,202 +254,202 @@ already, always, amazingly, before, briefly, brochure, cabin, comment, complain,
 
 ### 1
 
-____ we arrived at the station, the train had already left.
+I have ____ finished packing.
 
-- [x] When
-- [ ] already
-- [ ] always
+- [x] already
+- [ ] yet
+- [ ] ever
 
-> **解析**：**when** 为时间连词，引出时间状语从句，表示“当...的时候”。
+> **解析**：肯定句"已经"用 already；yet 用于否定和疑问句句末，ever 用于疑问。
 
 ### 2
 
-____, no one was injured during the car accident.
-
-- [x] Amazingly
-- [ ] already
-- [ ] always
-
-> **解析**：**Amazingly** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 3
-
-The manager spoke ____ about the project before starting.
-
-- [x] briefly
-- [ ] already
-- [ ] always
-
-> **解析**：**briefly** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 4
-
-The tourist picked up a colorful travel ____ at the counter.
-
-- [x] brochure
-- [ ] already
-- [ ] always
-
-> **解析**：**brochure** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 5
-
-We rented a quiet wooden ____ in the mountains for vacation.
-
-- [x] cabin
-- [ ] already
-- [ ] always
-
-> **解析**：**cabin** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 6
-
-Feel free to leave a helpful ____ on our forum post.
-
-- [x] comment
-- [ ] already
-- [ ] always
-
-> **解析**：**comment** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 7
-
-Passengers went to ____ about the long flight delay.
-
-- [x] complain
-- [ ] already
-- [ ] always
-
-> **解析**：**complain** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 8
-
-The customer filed a formal ____ with customer service.
-
-- [x] complaint
-- [ ] already
-- [ ] always
-
-> **解析**：**complaint** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 9
-
-She won first prize in the national photo ____ yesterday.
-
-- [x] contest
-- [ ] already
-- [ ] always
-
-> **解析**：**contest** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 10
-
-All passengers must pass through ____ after landing.
-
-- [x] customs
-- [ ] already
-- [ ] always
-
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **customs**。
-
-### 11
-
-We had a long ____ about the upcoming event schedule.
-
-- [x] discussion
-- [ ] already
-- [ ] always
-
-> **解析**：**discussion** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 12
-
-You can see the mountain top clearly from a ____.
-
-- [x] distance
-- [ ] already
-- [ ] always
-
-> **解析**：**distance** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 13
-
-I do not ____ to change my travel plans this week.
-
-- [x] intend
-- [ ] already
-- [ ] always
-
-> **解析**：**intend** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 14
-
-This electronics brand is well known ____.
-
-- [x] internationally
-- [ ] already
-- [ ] always
-
-> **解析**：**internationally** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 15
-
-I have visited that museum once ____ with my family.
-
-- [x] before
-- [ ] already
-- [ ] always
-
-> **解析**：**before** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 16
-
-After the severe storm, everyone arrived home ____.
-
-- [x] safely
-- [ ] already
-- [ ] always
-
-> **解析**：**safely** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 17
-
-We plan to ____ at a coastal hotel for three nights.
-
-- [x] stay
-- [ ] already
-- [ ] always
-
-> **解析**：**stay** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 18
-
-Thank you for all your ____ during the project.
-
-- [x] support
-- [ ] already
-- [ ] always
-
-> **解析**：**support** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 19
-
-He has not finished writing his final report ____.
+Have you passed through customs ____?
 
 - [x] yet
 - [ ] already
 - [ ] always
 
-> **解析**：**yet** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：疑问句句末用 yet；already 通常放句中，always 语义不符。
+
+### 3
+
+We ____ arrived at the hotel.
+
+- [x] just
+- [ ] yet
+- [ ] never
+
+> **解析**：表"刚刚"用 just，放动词前；yet 放句末，never 语义相反。
+
+### 4
+
+Have you ____ traveled abroad?
+
+- [x] ever
+- [ ] never
+- [ ] already
+
+> **解析**：疑问句谈经历用 ever；never 用于否定，already 用于肯定。
+
+### 5
+
+I have ____ been on a cruise.
+
+- [x] never
+- [ ] ever
+- [ ] yet
+
+> **解析**：陈述"从未"用 never；ever 用于疑问，yet 放句末。
+
+### 6
+
+I've flown internationally once ____.
+
+- [x] before
+- [ ] ago
+- [ ] since
+
+> **解析**：once before 是固定搭配"以前有一次"；ago 需接具体时间，since 引导起点。
+
+### 7
+
+We ____ in a cabin by the lake.
+
+- [x] stayed
+- [ ] stay
+- [ ] staying
+
+> **解析**：叙述过去经历用过去式 stayed；staying 不能单独作谓语。
+
+### 8
+
+The pilot landed the plane ____.
+
+- [x] safely
+- [ ] safe
+- [ ] safety
+
+> **解析**：修饰动词 landed 用副词 safely；safe 是形容词，safety 是名词。
+
+### 9
+
+The view was ____ beautiful.
+
+- [x] amazingly
+- [ ] amazing
+- [ ] amaze
+
+> **解析**：修饰形容词 beautiful 用副词 amazingly；amazing 是形容词，amaze 是动词。
+
+### 10
+
+She told us the story ____.
+
+- [x] briefly
+- [ ] brief
+- [ ] briefness
+
+> **解析**：修饰动词 told 用副词 briefly；brief 是形容词，briefness 是名词。
+
+### 11
+
+He ____ checks the weather before a trip.
+
+- [x] always
+- [ ] ever
+- [ ] yet
+
+> **解析**：肯定句表"总是"用 always，放实义动词前；ever 用于疑问，yet 放句末。
+
+### 12
+
+I intend ____ complain about the service.
+
+- [x] to
+- [ ] for
+- [ ] at
+
+> **解析**：intend to do 是固定搭配；for 和 at 不构成该结构。
+
+### 13
+
+They made a ____ about the food.
+
+- [x] complaint
+- [ ] complain
+- [ ] comment
+
+> **解析**：投诉（名词）用 complaint；complain 是动词，comment 是"评论"语义不同。
+
+### 14
+
+Please leave a ____ below the post.
+
+- [x] comment
+- [ ] complain
+- [ ] contest
+
+> **解析**：留言用名词 comment；complain 是动词，contest 是比赛。
+
+### 15
+
+We had a ____ about the schedule.
+
+- [x] discussion
+- [ ] discuss
+- [ ] discussing
+
+> **解析**：have a discussion 是固定搭配，用名词 discussion；discuss 是动词，discussing 不能用于该搭配。
+
+### 16
+
+She won first prize in the ____ .
+
+- [x] contest
+- [ ] customs
+- [ ] cabin
+
+> **解析**：获奖的是比赛 contest；customs 是海关，cabin 是小屋。
+
+### 17
+
+Pick up a ____ at the front desk.
+
+- [x] brochure
+- [ ] distance
+- [ ] support
+
+> **解析**：前台拿的是宣传册 brochure；distance 是距离，support 是支持。
+
+### 18
+
+What is the ____ between the two towns?
+
+- [x] distance
+- [ ] distant
+- [ ] distantly
+
+> **解析**：the 后接名词 distance；distant 是形容词，distantly 是副词。
+
+### 19
+
+____ we landed, it began to snow.
+
+- [x] When
+- [ ] Yet
+- [ ] Already
+
+> **解析**：引导时间从句用 When；Yet 和 Already 是副词，不能引导从句。
 
 ### 20
 
-I have ____ received a message from the travel manager.
+Many people ____ the charity event.
 
-- [x] just
-- [ ] already
-- [ ] always
+- [x] support
+- [ ] supports
+- [ ] supporting
 
-> **解析**：**just** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：复数主语 people 用动词原形 support；supports 是三单，supporting 不能单独作谓语。
 
 </quiz-cloze>

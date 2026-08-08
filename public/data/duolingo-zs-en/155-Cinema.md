@@ -10,40 +10,33 @@ animated, anyone, audience, be, can't stand, character, documentary, everyone, f
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"描述动画电影"展开。核心是电影类型和评价：This animated film has the most talented characters—I can't stand horror movies, but I love this.（这部动画片的角色最有才华——我受不了恐怖片，但我爱这部。）、The plot is set in a romantic world, and the audience loved it.（剧情设定在一个浪漫的世界里，观众很喜欢。）、There are many documentaries, but no one is as good as this independent film.（有很多纪录片，但没有一部比得上这部独立电影。）、Is there anyone who doesn't like popcorn at the cinema?（有谁不喜欢在电影院吃爆米花吗？）。
+本单元的主题是"谈论电影、描述动画电影"。词表可以分成三组：电影类型（animated, documentary, horror, independent, romantic, thriller）、电影要素（character, plot, audience, film, popcorn, set, talented）、以及不定代词与数量表达（anyone, everyone, no one, someone, many, much, there is, there are）。组合起来就能完整地聊一部电影：There is a new animated film. The plot is great, and everyone in the audience loves it.
 
-词表里有电影类型（animated, documentary, horror, thriller, romantic）和评价词汇（talented, plot, audience）。你可以练习：There is a great film out. / Someone recommended it. / I have seen it twice. / How much did you like it?
+语法主线有三条。第一是 there is / there are："有一个"，单数用 there is，复数用 there are：There is a new film. There are many characters. 第二是不定代词：everyone、someone、no one、anyone 都按单数处理，谓语用三单：Everyone likes popcorn. 第三是 many 与 much 的分工：many 修饰可数复数（many films），much 修饰不可数名词（much time）。
 
-there is / there are 表存在。many 修饰可数，much 修饰不可数。
+学完本单元，你能介绍不同类型的电影、评价剧情和角色、描述影院里的人和事，也能自然地表达喜恶。
 
 ## Tips
 
-- **animated / documentary / horror / thriller** — 动画的 / 纪录片 / 恐怖片 / 惊悚片。搭配：an animated film, a documentary about, a horror movie, a thriller。例句：I love animated movies. / This documentary is fascinating. / I hate horror films. / The thriller kept me on edge. 注意这些是电影类型。
+- **film / plot / character / audience** — film 是"电影"（美式也常说 movie）。plot 是"剧情"：The plot is interesting. character 指片中的"角色"。audience 是"观众"的总称，看作整体：The audience loved the film.
 
-- **plot / character / audience** — 剧情 / 角色 / 观众。搭配：an interesting plot, the main character, the audience applauded。例句：The plot is complicated. / The main character is brave. / The audience loved it. 注意 plot = 故事情节。
+- **animated / documentary / horror / romantic / thriller / independent** — 六个电影类型词。animated 是"动画的"，来自动词 animate（使有生命）。documentary 是"纪录片"。horror 是"恐怖片"，romantic 是"浪漫的（爱情片）"，thriller 是"惊悚片"，independent 指大制片厂之外的"独立电影"。
 
-- **can't stand / talented / romantic** — 受不了 / 有才华 / 浪漫。搭配：can't stand horror, a talented actor, a romantic comedy。例句：I can't stand violent films. / She's a talented director. / It's a romantic story. 注意 can't stand = 非常不喜欢。
+- **there is / there are** — 表示"有"。后接单数或不可数名词用 there is，接复数用 there are：There is a new film. There are many characters. 疑问形式把 is/are 提前：Is there any popcorn?
 
-- **there is / there are / many / much** — 有 / 有 / 许多。搭配：there is a film, there are many options, how much time。例句：There is a new movie out. / There are many good films. / How much did you enjoy it? 注意 many + 可数名词，much + 不可数名词。
+- **everyone / someone / no one / anyone** — 四个复合不定代词，谓语都按第三人称单数：Everyone likes popcorn. everyone 是"每个人"，someone 是"某人"（肯定句），no one 是"没有人"，anyone 是"任何人"（否定、疑问句）。注意 ✗ Everyone are → ✓ Everyone is。
 
-- **anyone / everyone / no one / someone** — 任何人 / 每个人 / 没人 / 某人。搭配：anyone who likes, everyone knows, no one cares, someone said。例句：Is there anyone here? / Everyone loved the film. / No one expected that ending. / Someone told me about it. 注意这些是不定代词。
+- **many / much** — many 修饰可数名词复数：many films, many characters。much 修饰不可数名词：much time, much popcorn。口语中两者都可用 a lot of 替代。
 
-- **film / popcorn / set** — 电影 / 爆米花 / 设定。搭配：watch a film, eat popcorn, set in Paris。例句：Let's watch a film tonight. / I bought popcorn. / The story is set in Japan. 注意 set in = 背景设定在。
+- **can't stand / have** — can't stand 是"无法忍受"：I can't stand horror films. have 可表"拥有"：We have popcorn. 也可作助动词构成完成时。
 
-- **independent / have / be** — 独立的 / 有 / 是。搭配：an independent film, have you seen, be honest。例句：It's an independent production. / Have you seen this film? / Be honest—did you like it? 注意 independent film = 独立制片电影。
+- **set / talented** — set 作动词有"设定"的意思，be set in 表示"（故事）以……为背景"：The film is set in Paris. talented 是"有才华的"：She is a talented actor. talent + -ed。
 
-- **romantic / horror / animated** — 浪漫 / 恐怖 / 动画。搭配：a romantic film, a horror story, animated characters。例句：I prefer romantic comedies. / Horror movies scare me. / The animated characters are cute. 注意 romantic comedy 常缩写为 rom-com。
+- **popcorn** — "爆米花"，由 pop（砰地爆开）+ corn（谷物）复合而成，是不可数名词：some popcorn。看电影的标配：popcorn and drinks。
 
-- **audience / plot / character** — 观众 / 情节 / 角色。搭配：a large audience, a twist in the plot, a likeable character。例句：The audience was silent. / There's a twist in the plot. / The villain is a great character. 注意 audience 是集合名词。
-
-- **many / much / no one** — 很多 / 很多 / 没人。搭配：many films, too much violence, no one knows。例句：There are many sequels. / There's too much action. / No one predicted the ending. 注意 many 可数，much 不可数。
-
-- **talented / can't stand / someone** — 有才华 / 受不了 / 某人。搭配：a talented cast, can't stand it, someone famous。例句：The cast is incredibly talented. / I can't stand bad acting. / Someone famous is in it. 注意 talented 形容人有才能。
-
-- **documentary / independent / film** — 纪录片 / 独立 / 电影。搭配：a nature documentary, an independent studio, a short film。例句：This documentary is about wildlife. / It was made by an independent studio. / The film won an award. 注意 documentary 可缩写为 doc。
+- **be** — 本单元用于 there be 结构和系表结构：There is a film. The film is animated. be 随主语变化：is/are。
 
 ## 练习
 
@@ -61,149 +54,149 @@ there is / there are 表存在。many 修饰可数，much 修饰不可数。
 
 <quiz-sentence-builder>
 
-1. **中文**：孩子们喜欢在周末早晨看动画电影。
-   **英文**：Kids love watching animated movies on weekend mornings.
-   > **解析**：animated 表示“动画的/卡通的”；movies 意为“电影”。
+1. **中文**：电影院里有一部新的动画电影。
+   **英文**：There is a new animated film in the cinema.
+   > **解析**：there is 表示"有"，后接单数名词短语 a new animated film。
 
-2. **中文**：有人看见我把电影票放在哪了吗？
-   **英文**：Did anyone see where I put my theater ticket?
-   > **解析**：anyone 用于疑问句表示“任何人”；theater ticket 意为“戏票/影票”。
+2. **中文**：这部电影里有很多角色。
+   **英文**：There are many characters in this film.
+   > **解析**：characters 是复数，用 there are；many 修饰可数名词复数。
 
-3. **中文**：演出结束时，观众大声鼓掌。
-   **英文**：The audience clapped loudly at the end of the show.
-   > **解析**：audience 表示“观众”；clapped 意为“鼓掌”。
+3. **中文**：每个人都喜欢爆米花。
+   **英文**：Everyone likes popcorn.
+   > **解析**：everyone 按第三人称单数处理，like 加 s；popcorn 是不可数名词。
 
-4. **中文**：这部电影里的主角是一位勇敢的侦探。
-   **英文**：The main character in this movie is a brave detective.
-   > **解析**：character 表示“角色/人物”；main character 意为“主角”。
+4. **中文**：没有人喜欢这部恐怖片。
+   **英文**：No one likes this horror film.
+   > **解析**：no one 表示"没有人"，谓语用三单 likes；horror 修饰 film 表示类型。
 
-5. **中文**：我们昨晚看了一部关于大自然的有教育意义的纪录片。
-   **英文**：We watched an educational documentary about nature last night.
-   > **解析**：documentary 表示“纪录片”；educational 意为“有教育意义的”。
+5. **中文**：有人有多余的票吗？
+   **英文**：Does anyone have an extra ticket?
+   > **解析**：疑问句中用 anyone；does 提前，have 用原形。
 
-6. **中文**：影院里的每个人都很享受这部精彩的动作片。
-   **英文**：Everyone in the theater enjoyed the exciting action movie.
-   > **解析**：Everyone 表示“所有人/每个人”；action movie 意为“动作电影”。
+6. **中文**：观众里有人笑了。
+   **英文**：Someone in the audience laughed.
+   > **解析**：someone 是"某人"，作主语按单数处理；in the audience 作后置定语。
 
-7. **中文**：这部独立电影在电影节上赢得了三项大奖。
-   **英文**：This indie film won three major awards at the festival.
-   > **解析**：film 表示“电影/影片”；indie film 意为“独立电影”。
+7. **中文**：我无法忍受这部惊悚片。
+   **英文**：I can't stand this thriller.
+   > **解析**：can't stand 是"无法忍受"；this thriller 作宾语。
 
-8. **中文**：我真的不喜欢看令人害怕的恐怖电影。
-   **英文**：I don't really like watching terrifying horror movies.
-   > **解析**：horror movies 表示“恐怖电影”；terrifying 意为“令人害怕的”。
+8. **中文**：这部爱情电影很美。
+   **英文**：This romantic film is beautiful.
+   > **解析**：romantic 修饰 film；is 连接表语 beautiful。
 
-9. **中文**：一位独立导演预算很少，拍成了这部安静的情感剧。
-   **英文**：An independent director filmed this quiet drama on a small budget.
-   > **解析**：independent 表示“独立的”；director 意为“导演”。
+9. **中文**：剧情非常有趣。
+   **英文**：The plot is very interesting.
+   > **解析**：plot 作主语；very 修饰形容词 interesting。
 
-10. **中文**：没人料到剧情在结尾会发生如此剧烈的变化。
-   **英文**：No one expected the plot to change so dramatically at the end.
-   > **解析**：No one 表示“没人/无人”；plot 意为“剧情/情节”。
+10. **中文**：她是一位很有才华的演员。
+   **英文**：She is a talented actor.
+   > **解析**：talented 修饰 actor；a 用于可数名词单数前。
 
-11. **中文**：神秘的剧情让观众直到最后都在不断猜测。
-   **英文**：The mystery plot kept the audience guessing until the end.
-   > **解析**：plot 表示“剧情/情节”；mystery 意为“神秘/悬疑”。
+11. **中文**：这部纪录片很长。
+   **英文**：This documentary is very long.
+   > **解析**：documentary 作主语；long 作表语。
 
-12. **中文**：新鲜的爆米花在美国是最受欢迎的看电影零食。
-   **英文**：Fresh popcorn is the most popular movie snack in America.
-   > **解析**：popcorn 表示“爆米花”；movie snack 意为“观影零食”。
+12. **中文**：这部电影以巴黎为背景。
+   **英文**：The film is set in Paris.
+   > **解析**：be set in 是"以……为背景"的固定结构。
 
-13. **中文**：他们在纪念日看了一部甜蜜的浪漫喜剧。
-   **英文**：They watched a sweet romantic comedy on their anniversary.
-   > **解析**：romantic 表示“浪漫的”；comedy 意为“喜剧”。
+13. **中文**：这是一部独立电影。
+   **英文**：It is an independent film.
+   > **解析**：independent 以元音音素开头，冠词用 an。
 
-14. **中文**：这部科幻电影背景设定在火星上的未来城市。
-   **英文**：The sci-fi movie is set in a futuristic city on Mars.
-   > **解析**：is set in 表示“背景设定在……”；futuristic 意为“未来的”。
+14. **中文**：我不看很多电影。
+   **英文**：I don't watch many films.
+   > **解析**：many 修饰可数名词复数 films；don't 构成否定。
 
-15. **中文**：有人把外套落在了十二号座位上。
-   **英文**：Someone left a jacket behind on seat number twelve.
-   > **解析**：Someone 用于肯定句表示“有人/某人”。
+15. **中文**：观众很喜欢这部电影。
+   **英文**：The audience loved the film.
+   > **解析**：audience 作为整体，搭配过去式 loved。
 
-16. **中文**：这位有才华的主演做出了出色的表演。
-   **英文**：The talented lead actor gave a remarkable performance.
-   > **解析**：talented 表示“有才华的/有天赋的”；lead actor 意为“男主角”。
+16. **中文**：我看过这部电影两次。
+   **英文**：I have seen this film twice.
+   > **解析**：have seen 是现在完成时，表示经历；twice 表示"两次"。
 
-17. **中文**：这部心理惊悚片让我全程悬着一颗心。
-   **英文**：This psychological thriller kept me on the edge of my seat.
-   > **解析**：thriller 表示“惊悚片”；psychological 意为“心理的”。
+17. **中文**：惊悚片是我的最爱。
+   **英文**：Thrillers are my favorite.
+   > **解析**：thrillers 复数主语用 are；favorite 作表语。
 
-18. **中文**：受不了坐在电影院的第一排。
-   **英文**：Can't stand sitting in the front row of the cinema.
-   > **解析**：can't stand 表示“受不了/无法忍受”；front row 意为“前排”。
+18. **中文**：时间不多了。
+   **英文**：There isn't much time.
+   > **解析**：time 不可数，用 much；isn't 是 is 的否定。
 
-19. **中文**：加利福尼亚州有许多著名的电影制片厂。
-   **英文**：There are many famous movie studios located in California.
-   > **解析**：There are 用于复数名词“有……”；movie studios 意为“电影制片厂”。
+19. **中文**：她受不了爱情片。
+   **英文**：She can't stand romantic films.
+   > **解析**：She 是三单主语，但 can't 后接动词原形 stand；romantic 修饰 films。
 
-20. **中文**：下个月我们社区有一家新电影院要开业。
-   **英文**：There is a new cinema opening in our neighborhood next month.
-   > **解析**：There is 用于单数名词“有……”；cinema 意为“电影院”。
+20. **中文**：我们有爆米花和饮料。
+   **英文**：We have popcorn and drinks.
+   > **解析**：have 表示"拥有"；and 连接两个并列宾语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Kids love watching animated movies on weekend mornings.
-   > **中文**：孩子们喜欢在周末早晨看动画电影。
+1. There is a new film tonight.
+   > **中文**：今晚有一部新电影。
 
-2. Did anyone see where I put my theater ticket?
-   > **中文**：有人看见我把电影票放在哪了吗？
+2. There are many people in the audience.
+   > **中文**：观众席里有很多人。
 
-3. The audience clapped loudly at the end of the show.
-   > **中文**：演出结束时，观众大声鼓掌。
+3. Everyone likes animated films.
+   > **中文**：每个人都喜欢动画电影。
 
-4. The main character in this movie is a brave detective.
-   > **中文**：这部电影里的主角是一位勇敢的侦探。
+4. No one knows the ending.
+   > **中文**：没有人知道结局。
 
-5. We watched an educational documentary about nature last night.
-   > **中文**：我们昨晚看了一部关于大自然的有教育意义的纪录片。
+5. Does anyone want popcorn?
+   > **中文**：有人想要爆米花吗？
 
-6. Everyone in the theater enjoyed the exciting action movie.
-   > **中文**：影院里的每个人都很享受这部精彩的动作片。
+6. Someone told me about this film.
+   > **中文**：有人跟我提过这部电影。
 
-7. This indie film won three major awards at the festival.
-   > **中文**：这部独立电影在电影节上赢得了三项大奖。
+7. I can't stand this thriller.
+   > **中文**：我无法忍受这部惊悚片。
 
-8. I don't really like watching terrifying horror movies.
-   > **中文**：我真的不喜欢看令人害怕的恐怖电影。
+8. The plot is very interesting.
+   > **中文**：剧情非常有趣。
 
-9. An independent director filmed this quiet drama on a small budget.
-   > **中文**：一位独立导演预算很少，拍成了这部安静的情感剧。
+9. She is really talented.
+   > **中文**：她真的很有才华。
 
-10. No one expected the plot to change so dramatically at the end.
-   > **中文**：没人料到剧情在结尾会发生如此剧烈的变化。
+10. This documentary is about animals.
+   > **中文**：这部纪录片是关于动物的。
 
-11. The mystery plot kept the audience guessing until the end.
-   > **中文**：神秘的剧情让观众直到最后都在不断猜测。
+11. The film is set in a small town.
+   > **中文**：这部电影以一座小镇为背景。
 
-12. Fresh popcorn is the most popular movie snack in America.
-   > **中文**：新鲜的爆米花在美国是最受欢迎的看电影零食。
+12. It is an independent film.
+   > **中文**：这是一部独立电影。
 
-13. They watched a sweet romantic comedy on their anniversary.
-   > **中文**：他们在纪念日看了一部甜蜜的浪漫喜剧。
+13. Romantic films make me cry.
+   > **中文**：爱情片让我落泪。
 
-14. The sci-fi movie is set in a futuristic city on Mars.
-   > **中文**：这部科幻电影背景设定在火星上的未来城市。
+14. There isn't much time.
+   > **中文**：时间不多了。
 
-15. Someone left a jacket behind on seat number twelve.
-   > **中文**：有人把外套落在了十二号座位上。
+15. How many films do you watch a year?
+   > **中文**：你一年看多少部电影？
 
-16. The talented lead actor gave a remarkable performance.
-   > **中文**：这位有才华的主演做出了出色的表演。
+16. The audience loved it.
+   > **中文**：观众很喜欢它。
 
-17. This psychological thriller kept me on the edge of my seat.
-   > **中文**：这部心理惊悚片让我全程悬着一颗心。
+17. I have seen that film.
+   > **中文**：我看过那部电影。
 
-18. Can't stand sitting in the front row of the cinema.
-   > **中文**：受不了坐在电影院的第一排。
+18. This thriller is too scary.
+   > **中文**：这部惊悚片太吓人了。
 
-19. There are many famous movie studios located in California.
-   > **中文**：加利福尼亚州有许多著名的电影制片厂。
+19. Be quiet, the film is starting.
+   > **中文**：安静，电影要开始了。
 
-20. There is a new cinema opening in our neighborhood next month.
-   > **中文**：下个月我们社区有一家新电影院要开业。
+20. We have popcorn and drinks.
+   > **中文**：我们有爆米花和饮料。
 
 </quiz-listening>
 
@@ -211,26 +204,45 @@ there is / there are 表存在。many 修饰可数，much 修饰不可数。
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| animated | 动画的 / 卡通的 |
+| animated | 动画的 |
 | anyone | 任何人 |
 | audience | 观众 |
+| be | 是 / 存在 |
 | can't stand | 无法忍受 |
-| character | 角色 / 人物 |
+| character | 角色 |
 | documentary | 纪录片 |
-| everyone | 所有人 / 每个人 |
-| film | 电影 / 影片 |
-| horror | 恐怖的 / 恐怖片 |
+| everyone | 每个人 |
+| film | 电影 |
+| have | 有 |
+| horror | 恐怖（片） |
 | independent | 独立的 |
-| no one | 没人 / 无人 |
-| plot | 剧情 / 情节 |
+| many | 许多（可数） |
+| much | 许多（不可数） |
+| no one | 没有人 |
+| plot | 剧情 |
 | popcorn | 爆米花 |
 | romantic | 浪漫的 |
-| set | 背景设定 / 设置 |
-| someone | 有人 / 某人 |
+| set | 设定 / 背景 |
+| someone | 某人 |
 | talented | 有才华的 |
-| thriller | 惊悚片 |
 | there are | 有（复数） |
 | there is | 有（单数） |
+| thriller | 惊悚片 |
+| is | 是（单数） |
+| are | 是（复数） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| an | 一（个，元音前） |
+| in | 在……里 |
+| this | 这个 |
+| new | 新的 |
+| likes | 喜欢（三单） |
+| don't | 不（否定） |
+| I | 我 |
+| we | 我们 |
+| and | 和 |
+| about | 关于 |
+| very | 非常 |
 
 </quiz-matching>
 
@@ -238,202 +250,202 @@ there is / there are 表存在。many 修饰可数，much 修饰不可数。
 
 ### 1
 
-Kids love watching ____ movies on weekend mornings.
+There ____ a new film tonight.
 
-- [x] animated
-- [ ] anyone
-- [ ] audience
+- [x] is
+- [ ] are
+- [ ] be
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **animated**。
+> **解析**：a new film 是单数，用 there is；are 用于复数，be 不能直接作谓语。
 
 ### 2
 
-Did ____ see where I put my theater ticket?
+There ____ many characters in this film.
 
-- [x] anyone
-- [ ] animated
-- [ ] audience
+- [x] are
+- [ ] is
+- [ ] be
 
-> **解析**：**anyone** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：characters 是复数，用 there are；is 用于单数。
 
 ### 3
 
-The ____ clapped loudly at the end of the show.
+The film was so bad that ____ liked it.
 
-- [x] audience
-- [ ] animated
+- [x] no one
 - [ ] anyone
+- [ ] someone
 
-> **解析**：**audience** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：电影太糟糕，所以"没有人"喜欢，用 no one；anyone 用于否定和疑问句，someone 与语境矛盾。
 
 ### 4
 
-The main ____ in this movie is a brave detective.
+____ can enjoy this film, from kids to adults.
 
-- [x] character
-- [ ] animated
-- [ ] anyone
+- [x] Anyone
+- [ ] No one
+- [ ] Many
 
-> **解析**：**character** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：从孩子到大人都能看，表示"任何人"用 anyone；no one 语义相反，many 不能这样作主语。
 
 ### 5
 
-We watched an educational ____ about nature last night.
+I can't stand ____ films.
 
-- [x] documentary
-- [ ] animated
-- [ ] anyone
+- [x] horror
+- [ ] audience
+- [ ] talented
 
-> **解析**：**documentary** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：horror films 是"恐怖片"，名词作定语；audience 和 talented 不能这样修饰 films。
 
 ### 6
 
-____ in the theater enjoyed the exciting action movie.
+I love the ____ of this film; it is so exciting.
 
-- [x] Everyone
-- [ ] animated
-- [ ] anyone
+- [x] plot
+- [ ] popcorn
+- [ ] audience
 
-> **解析**：**Everyone** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：令人兴奋的是剧情 plot；popcorn 和 audience 不属于电影内容。
 
 ### 7
 
-This indie ____ won three major awards at the festival.
+She is a very ____ actor.
 
-- [x] film
-- [ ] animated
-- [ ] anyone
+- [x] talented
+- [ ] talent
+- [ ] talents
 
-> **解析**：**film** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：名词前需要形容词 talented；talent 是名词，talents 是复数名词。
 
 ### 8
 
-I don't really like watching terrifying ____ movies.
+This ____ is about ocean animals.
 
-- [x] horror
-- [ ] animated
-- [ ] anyone
+- [x] documentary
+- [ ] plot
+- [ ] popcorn
 
-> **解析**：**horror** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：介绍海洋动物的是纪录片 documentary；plot 和 popcorn 语义不符。
 
 ### 9
 
-An ____ director filmed this quiet drama on a small budget.
+The film is ____ in Paris.
 
-- [x] independent
-- [ ] animated
-- [ ] anyone
+- [x] set
+- [ ] sit
+- [ ] sat
 
-> **解析**：**independent** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be set in 是"以……为背景"的固定结构；sit 和 sat 是"坐"，不构成该搭配。
 
 ### 10
 
-No one expected the ____ to change so dramatically at the end.
+It is an ____ film, not from a big studio.
 
-- [x] plot
+- [x] independent
 - [ ] animated
-- [ ] anyone
+- [ ] horror
 
-> **解析**：**plot** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：不来自大制片厂的是 independent（独立的）；animated 和 horror 是类型，与后半句无关。
 
 ### 11
 
-The mystery ____ kept the audience guessing until the end.
+____ films make her cry.
 
-- [x] plot
-- [ ] animated
-- [ ] anyone
+- [x] Romantic
+- [ ] Anyone
+- [ ] No one
 
-> **解析**：**plot** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：films 前需要形容词 romantic；anyone 和 no one 是代词，不能修饰 films。
 
 ### 12
 
-Fresh ____ is the most popular movie snack in America.
+I don't watch ____ films every week.
 
-- [x] popcorn
-- [ ] animated
-- [ ] anyone
+- [x] many
+- [ ] much
+- [ ] lot
 
-> **解析**：**popcorn** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：films 是可数名词复数，用 many；much 修饰不可数名词，lot 必须说 a lot of。
 
 ### 13
 
-They watched a sweet ____ comedy on their anniversary.
+There isn't ____ time left.
 
-- [x] romantic
-- [ ] animated
-- [ ] anyone
+- [x] much
+- [ ] many
+- [ ] lot
 
-> **解析**：**romantic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：time 是不可数名词，用 much；many 修饰可数名词，lot 不能单独使用。
 
 ### 14
 
-The sci-fi movie is ____ in a futuristic city on Mars.
+The ____ loved the film.
 
-- [x] set
-- [ ] animated
-- [ ] anyone
+- [x] audience
+- [ ] plot
+- [ ] set
 
-> **解析**：**set** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能"喜欢电影"的是观众 audience；plot 和 set 是事物，不能有情感。
 
 ### 15
 
-____ left a jacket behind on seat number twelve.
+The ____ film is full of funny drawings.
 
-- [x] Someone
-- [ ] animated
-- [ ] anyone
+- [x] animated
+- [ ] talented
+- [ ] many
 
-> **解析**：**Someone** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：充满画片的是 animated（动画的）；talented 形容人，many 不能这样修饰。
 
 ### 16
 
-The ____ lead actor gave a remarkable performance.
+This ____ is too scary for me.
 
-- [x] talented
-- [ ] animated
-- [ ] anyone
+- [x] thriller
+- [ ] talented
+- [ ] there
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **talented**。
+> **解析**：this 后需要名词 thriller（惊悚片）；talented 是形容词，there 是副词。
 
 ### 17
 
-This psychological ____ kept me on the edge of my seat.
+We ____ popcorn and drinks.
 
-- [x] thriller
-- [ ] animated
-- [ ] anyone
+- [x] have
+- [ ] has
+- [ ] having
 
-> **解析**：**thriller** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：主语 we 用动词原形 have；has 用于三单，having 不能单独作谓语。
 
 ### 18
 
-Can't stand ____ in the front row of the cinema.
+The characters ____ very funny.
 
-- [x] sitting
-- [ ] animated
-- [ ] anyone
+- [x] are
+- [ ] is
+- [ ] be
 
-> **解析**：**sitting** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：characters 是复数主语，用 are；is 用于单数，be 不能直接作谓语。
 
 ### 19
 
-There are ____ famous movie studios located in California.
+____ in the cinema was quiet.
 
-- [x] many
-- [ ] animated
-- [ ] anyone
+- [x] Everyone
+- [ ] Much
+- [ ] Plot
 
-> **解析**：**many** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：电影院里安静的是"每个人"，everyone 按单数搭配 was；much 和 plot 语义不符。
 
 ### 20
 
-There is a new cinema opening in our ____ next month.
+____ left a bag here.
 
-- [x] neighborhood
-- [ ] animated
-- [ ] anyone
+- [x] Someone
+- [ ] Anyone
+- [ ] Much
 
-> **解析**：**neighborhood** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：肯定句中陈述"某人"留下了包，用 someone；anyone 用于否定和疑问句，much 不能作主语指人。
 
 </quiz-cloze>

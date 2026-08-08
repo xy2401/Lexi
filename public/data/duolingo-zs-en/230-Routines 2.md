@@ -10,42 +10,35 @@ all over the place, allowance, any chance, arrange, bedtime, cardboard, clear th
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"给任务下指令"展开，场景是家庭日常事务的安排与分工。词表里有家务与日常任务（clear the table, walk the dog, load, nap, errand, bedtime），有责任与安排词汇（responsibility, depend on, arrange, allowance, is to, should be），也有家庭社交场景（company, get-together, host, folks）。你可以用这些词安排家务：Your responsibility is to clear the table and walk the dog. / The nap should be before bedtime. / Any chance you could run to the store? / Oops, the cardboard is all over the place—load it up. / We're hosting a get-together, so folks, let's arrange everything.
+本单元的主题是"给任务下指令"，场景是家庭日常分工。词表分成三组：家务任务（clear the table, load, walk the dog, errand, arrange, nap, bedtime）、家庭角色与报酬（folks, allowance, host, company, get-together, responsibility）、以及指令与状态短语（is to, should be, depend on, run to, any chance, all over the place, place, get, oops, cardboard）。拼起来就是一套完整的家庭分工对话：Your responsibility is to walk the dog. You should clear the table after dinner. Oops, I forgot!
 
-这里值得注意 is to 结构——它表"应该、被要求"，常用于指令和规则：You are to finish your homework before bedtime. 这比 should 更正式、更有"规定"的意味。另外，allowance（零花钱）和 responsibility 的搭配反映了北美家庭教育中"做家务换零花钱"的常见模式。
+语法主线有三条。第一条是 is to 结构，表示"安排、规定要做的事"：Your job is to feed the cat. 第二条是 should be 表达期望：The dishes should be done by eight. 第三条是责任表达：It's your responsibility to... 另一条实用线索是家庭口语：folks（爸妈）、allowance（零花钱）、Oops（哎呀）。
 
-学完本单元，你可以用英语安排家务、给出指令、表达责任分工，并处理家庭聚会前的准备工作。
+学完这些词，你能分配家务、说明规矩、安排小任务，也能礼貌地打听有没有机会——家庭日常运转的说明书就在你手里。
 
 ## Tips
 
-- **is to / should be** — is to 表"被要求、应该"（正式指令），should be 表"应该、按理是"（建议或推断）。搭配：You are to clean your room. / The table should be clear by now. is to 常用于父母对孩子的规定或官方指令，比 should 更有强制性。
+- **is to** — be + to do 表示"规定、安排要做的事"：Your task is to wash the dishes. 语气比 should 更像既定安排，常用于指令和计划。
 
-- **allowance** — 零花钱（家长定期给孩子的）。搭配：get an allowance, weekly allowance。I get ten dollars a week as allowance. 注意 allowance 在成人语境中也可指"津贴、补贴"（travel allowance）。
+- **should be** — "应该是"，表达期望状态：The room should be tidy. should be + 过去分词还可表被动期望：The dog should be fed twice a day.
 
-- **errand / run to** — errand 是差事、跑腿，run to 是跑一趟去。搭配：run an errand, run to the store。I need to run an errand—can you walk the dog? / Run to the store and get some milk. 注意 run errands（复数）= 跑好几趟腿。
+- **depend on** — "依赖、取决于"：It depends on the weather. 也可指依靠某人：You can depend on me. 同义 rely on。
 
-- **clear the table / load** — clear the table = 收拾桌子（饭后），load = 装载（如装洗碗机）。搭配：clear the table after dinner, load the dishwasher。Clear the table and load the dishes. 注意 clear 在这里是"清空"，不是"清洁"。
+- **any chance** — "有没有可能……"，委婉询问：Is there any chance you can help? 或 Any chance of a ride? 口语中非常实用。
 
-- **all over the place** — 到处都是、乱七八糟。搭配：all over the place, stuff is all over the place。Your toys are all over the place! 比 everywhere 更口语，常带有"杂乱"的不满语气。
+- **run to** — 口语短语"快速跑一趟去"：Can you run to the store for milk? run errands 是"跑腿"的标准搭配。
 
-- **get-together / host / company** — get-together 是聚会（非正式），host 是主人/主持，company 是客人/陪伴。搭配：have a get-together, host a party, have company over。We're having a get-together—I'm the host. / We have company coming. 注意 company 表"客人"时不可数：We have company.（× We have companies.）
+- **all over the place** — "到处都是、乱七八糟"：Your toys are all over the place. 也可比喻"杂乱无章"。
 
-- **folks** — 大家、各位（口语）；也指父母。搭配：Hey folks, my folks。Hey folks, let's get started! / My folks are coming to the get-together. 注意 folks 比 everyone 更亲切、更口语化。
+- **clear the table / load / walk the dog** — 家务三词。clear the table 是饭后"收拾桌子"；load 指装填，load the dishwasher（装洗碗机）；walk the dog 是遛狗。
 
-- **depend on** — 取决于、依赖。搭配：depend on sb/sth, it depends on。Your allowance depends on your responsibility. / It depends on the weather. 注意 depend on 不能省略 on：× It depends the weather.
+- **errand / arrange / nap / bedtime** — errand 是"差事"，run errands 跑腿办事；arrange 是"安排"：arrange a get-together. nap 是小睡：take a nap. bedtime 是就寝时间。
 
-- **responsibility** — 责任。搭配：take responsibility, have a responsibility, it's your responsibility。It's your responsibility to walk the dog. 构词：responsible（形容词）→ responsibility（名词）。注意发音重音在第五个音节。
+- **folks / allowance / host / company / get-together** — 家庭生活词。folks 是口语的"爸妈、家人"；allowance 是零花钱；host 是东道主，可名可动；company 此处指"客人、陪伴"：We have company. get-together 是小型聚会。
 
-- **bedtime / nap** — bedtime 是就寝时间，nap 是小睡。搭配：bedtime story, take a nap, before bedtime。The kids' bedtime is nine. / I need a nap. 注意 nap 通常指白天的短暂睡眠，不是正式的 sleep。
-
-- **any chance** — 有没有可能（口语请求）。搭配：Any chance you could..., Is there any chance...。Any chance you could clear the table? 比 Could you 更随意、更试探性，像在问"有没有这个可能性"。
-
-- **oops** — 哎呀（口语感叹词，表小失误）。搭配：Oops! / Oops, I forgot. Oops, I dropped the glass. 比 oh no 更轻微，用于无伤大雅的小错误。
-
-- **cardboard / place** — cardboard 是纸板，place 是地方/放置。搭配：a cardboard box, put it in its place。Break down the cardboard and put it in its place. 注意 place 作动词 = 放置：Place the boxes here.
+- **responsibility / place / get / oops / cardboard** — responsibility 是责任，responsible 是形容词。place 是地方，也可作动词"放置"。get 是万能动词。oops 是打翻东西或出小错时的感叹"哎呀"。cardboard 是硬纸板，做手工、搬箱子常用。
 
 ## 练习
 
@@ -63,176 +56,187 @@ all over the place, allowance, any chance, arrange, bedtime, cardboard, clear th
 
 <quiz-sentence-builder>
 
-1. **中文**：你的主要责任是饭后收拾桌子。  
-   **英文**：Your main responsibility is to clear the table after dinner.
-   > **解析**：is to... 表示被要求、规则规定做某事。
+1. **中文**：你的责任是遛狗。
+   **英文**：Your responsibility is to walk the dog.
+   > **解析**：is to + 动词原形表示规定要做的事；to walk the dog 不定式作表语。
 
-2. **中文**：在你出门前，厨房台面应该保持干净。  
-   **英文**：The kitchen counter should be clean before you go out.
-   > **解析**：should be 表示理应、应该。
+2. **中文**：晚饭后你应该收拾桌子。
+   **英文**：You should clear the table after dinner.
+   > **解析**：should 后接动词原形 clear；clear the table 是"收拾桌子"的固定搭配。
 
-3. **中文**：孩子们通过做家务赚取他们的每周零花钱。  
-   **英文**：Children earn their weekly allowance by doing home chores.
-   > **解析**：allowance 指零花钱。
+3. **中文**：把碗装进洗碗机。
+   **英文**：Load the dishwasher.
+   > **解析**：祈使句用动词原形 load；the dishwasher 作宾语。
 
-4. **中文**：请收拾餐桌并将大碗洗干净。  
-   **英文**：Please clear the table and wash the large bowls.
-   > **解析**：clear the table 表示收拾餐桌。
+4. **中文**：狗应该每天喂两次。
+   **英文**：The dog should be fed twice a day.
+   > **解析**：should be + 过去分词 fed 构成被动期望；twice a day 是频率状语。
 
-5. **中文**：每天晚上遛狗是你的责任吗？  
-   **英文**：Is it your responsibility to walk the dog every evening?
-   > **解析**：walk the dog 表示遛狗。
+5. **中文**：这取决于天气。
+   **英文**：It depends on the weather.
+   > **解析**：It 是三单主语，depend 加 s；depend on 是固定搭配。
 
-6. **中文**：帮我把脏碗碟装入洗碗机。  
-   **英文**：Help me load the dirty dishes into the dishwasher.
-   > **解析**：load 表示把……装入。
+6. **中文**：你能帮我个忙吗？有没有可能？
+   **英文**：Is there any chance you can help me?
+   > **解析**：Is there any chance 是委婉询问可能性的句型；后接省略 that 的从句。
 
-7. **中文**：我需要在杂货店关门前去跑个腿办事。  
-   **英文**：I need to run an errand before the grocery store closes.
-   > **解析**：errand 表示差事、跑腿。
+7. **中文**：你能跑一趟商店买牛奶吗？
+   **英文**：Can you run to the store for milk?
+   > **解析**：run to 表示"快跑一趟去"；for milk 表目的。
 
-8. **中文**：你能跑一趟超市买些鸡蛋吗？  
-   **英文**：Can you run to the supermarket and buy some eggs?
-   > **解析**：run to 表示跑一趟去（某处）。
+8. **中文**：你的玩具到处都是。
+   **英文**：Your toys are all over the place.
+   > **解析**：all over the place 是固定短语"到处都是"；toys 复数用 are。
 
-9. **中文**：在就寝时间给幼儿读一段让人平静的故事。  
-   **英文**：Read a calming story to the toddlers at bedtime.
-   > **解析**：bedtime 表示就寝时间。
+9. **中文**：爸妈想让我做家务。
+   **英文**：My folks want me to do the chores.
+   > **解析**：want someone to do 结构；folks 是口语的"爸妈"。
 
-10. **中文**：午后小睡片刻会让你恢复精力。  
-   **英文**：Taking a short afternoon nap will refresh your energy.
-   > **解析**：nap 指白天小睡。
+10. **中文**：我每周都领零花钱。
+    **英文**：I get my allowance every week.
+    > **解析**：get 此处表"得到"；every week 是频率状语。
 
-11. **中文**：玩具在客厅里丢得到处都是。  
-   **英文**：Toys were scattered all over the place in the living room.
-   > **解析**：all over the place 表示到处都是、乱七八糟。
+11. **中文**：我们要安排一次聚会。
+    **英文**：We are going to arrange a get-together.
+    > **解析**：be going to 后接动词原形 arrange；a get-together 是可数名词。
 
-12. **中文**：在回收重纸板箱之前先把它们压平。  
-   **英文**：Flatten the heavy cardboard boxes before recycling them.
-   > **解析**：cardboard 指纸板、硬纸板。
+12. **中文**：今晚有客人来。
+    **英文**：We have company tonight.
+    > **解析**：company 此处指"客人"，不可数；tonight 是时间状语。
 
-13. **中文**：使用后将每件工具放回原处。  
-   **英文**：Put every tool back in its proper place after use.
-   > **解析**：place 指合适的位置、地方。
+13. **中文**：他是今晚的东道主。
+    **英文**：He is the host tonight.
+    > **解析**：the host 作表语；tonight 是时间状语。
 
-14. **中文**：我们准备举办一次友好的社区聚会。  
-   **英文**：We are going to host a friendly neighborhood get-together.
-   > **解析**：host 表示主持、举办。
+14. **中文**：睡前先打个盹吧。
+    **英文**：Take a nap before bedtime.
+    > **解析**：take a nap 是"打盹"的固定搭配；before bedtime 是时间状语。
 
-15. **中文**：大家都非常喜欢这个热热闹闹的周末聚会。  
-   **英文**：Everyone enjoyed the lively weekend get-together.
-   > **解析**：get-together 指非正式聚会。
+15. **中文**：哎呀，我忘了喂猫了。
+    **英文**：Oops, I forgot to feed the cat.
+    > **解析**：Oops 是感叹词独立使用；forget to do 表示"忘记要做某事"。
 
-16. **中文**：今晚我们有意想不到的客人要来吃晚饭。  
-   **英文**：We have unexpected company coming over for dinner tonight.
-   > **解析**：company 在此作不可数名词，指客人。
+16. **中文**：把盒子放在角落里。
+    **英文**：Place the cardboard box in the corner.
+    > **解析**：place 此处作动词"放置"，祈使句用原形；in the corner 是地点状语。
 
-17. **中文**：大家晚上好，欢迎来到我们的家庭晚宴！  
-   **英文**：Good evening folks, welcome to our family dinner party!
-   > **解析**：folks 口语表示大家、各位。
+17. **中文**：我去办个差事。
+    **英文**：I need to run an errand.
+    > **解析**：run an errand 是"跑腿办事"的固定搭配；need to 后接原形 run。
 
-18. **中文**：我们的周末计划取决于晴朗的天气状况。  
-   **英文**：Our weekend plans depend on the sunny weather condition.
-   > **解析**：depend on 表示取决于、依赖。
+18. **中文**：作业应该在晚饭前完成。
+    **英文**：The homework should be done before dinner.
+    > **解析**：should be done 是被动期望结构；before dinner 是时间状语。
 
-19. **中文**：我们需要把椅子整齐地安排围成一个圈。  
-   **英文**：We need to arrange the chairs nicely in a circle.
-   > **解析**：arrange 表示整理、安排。
+19. **中文**：把这些东西整理一下。
+    **英文**：Get these things organized.
+    > **解析**：get + 宾语 + 过去分词 organized 表示"使……被整理好"。
 
-20. **中文**：你有没有可能现在帮我收拾一下桌子？  
-   **英文**：Any chance you could help me clear the table now?
-   > **解析**：Any chance... 随意试探问“有没有可能……”。
+20. **中文**：铺床是你的工作。
+    **英文**：Your job is to make the bed.
+    > **解析**：is to + 动词原形表示安排的任务；make the bed 是"铺床"的固定搭配。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Your main responsibility is to clear the table after dinner.
-   > **中文**：你的主要责任是饭后收拾桌子。
+1. Your responsibility is to walk the dog.
+   > **中文**：你的责任是遛狗。
 
-2. The kitchen counter should be clean before you go out.
-   > **中文**：在你出门前，厨房台面应该保持干净。
+2. You should clear the table after dinner.
+   > **中文**：晚饭后你应该收拾桌子。
 
-3. Children earn their weekly allowance by doing home chores.
-   > **中文**：孩子们通过做家务赚取他们的每周零花钱。
+3. Load the dishwasher.
+   > **中文**：把碗装进洗碗机。
 
-4. Please clear the table and wash the large bowls.
-   > **中文**：请收拾餐桌并将大碗洗干净。
+4. The dog should be fed twice a day.
+   > **中文**：狗应该每天喂两次。
 
-5. Is it your responsibility to walk the dog every evening?
-   > **中文**：每天晚上遛狗是你的责任吗？
+5. It depends on the weather.
+   > **中文**：这取决于天气。
 
-6. Help me load the dirty dishes into the dishwasher.
-   > **中文**：帮我把脏碗碟装入洗碗机。
+6. Is there any chance you can help me?
+   > **中文**：你能帮我个忙吗？有没有可能？
 
-7. I need to run an errand before the grocery store closes.
-   > **中文**：我需要在杂货店关门前去跑个腿办事。
+7. Can you run to the store for milk?
+   > **中文**：你能跑一趟商店买牛奶吗？
 
-8. Can you run to the supermarket and buy some eggs?
-   > **中文**：你能跑一趟超市买些鸡蛋吗？
+8. Your toys are all over the place.
+   > **中文**：你的玩具到处都是。
 
-9. Read a calming story to the toddlers at bedtime.
-   > **中文**：在就寝时间给幼儿读一段让人平静的故事。
+9. My folks want me to do the chores.
+   > **中文**：爸妈想让我做家务。
 
-10. Taking a short afternoon nap will refresh your energy.
-   > **中文**：午后小睡片刻会让你恢复精力。
+10. I get my allowance every week.
+    > **中文**：我每周都领零花钱。
 
-11. Toys were scattered all over the place in the living room.
-   > **中文**：玩具在客厅里丢得到处都是。
+11. We are going to arrange a get-together.
+    > **中文**：我们要安排一次聚会。
 
-12. Flatten the heavy cardboard boxes before recycling them.
-   > **中文**：在回收重纸板箱之前先把它们压平。
+12. We have company tonight.
+    > **中文**：今晚有客人来。
 
-13. Put every tool back in its proper place after use.
-   > **中文**：使用后将每件工具放回原处。
+13. He is the host tonight.
+    > **中文**：他是今晚的东道主。
 
-14. We are going to host a friendly neighborhood get-together.
-   > **中文**：我们准备举办一次友好的社区聚会。
+14. Take a nap before bedtime.
+    > **中文**：睡前先打个盹吧。
 
-15. Everyone enjoyed the lively weekend get-together.
-   > **中文**：大家都非常喜欢这个热热闹闹的周末聚会。
+15. Oops, I forgot to feed the cat.
+    > **中文**：哎呀，我忘了喂猫了。
 
-16. We have unexpected company coming over for dinner tonight.
-   > **中文**：今晚我们有意想不到的客人要来吃晚饭。
+16. Place the cardboard box in the corner.
+    > **中文**：把盒子放在角落里。
 
-17. Good evening folks, welcome to our family dinner party!
-   > **中文**：大家晚上好，欢迎来到我们的家庭晚宴！
+17. I need to run an errand.
+    > **中文**：我去办个差事。
 
-18. Our weekend plans depend on the sunny weather condition.
-   > **中文**：我们的周末计划取决于晴朗的天气状况。
+18. The homework should be done before dinner.
+    > **中文**：作业应该在晚饭前完成。
 
-19. We need to arrange the chairs nicely in a circle.
-   > **中文**：我们需要把椅子整齐地安排围成一个圈。
+19. Get these things organized.
+    > **中文**：把这些东西整理一下。
 
-20. Any chance you could help me clear the table now?
-   > **中文**：你有没有可能现在帮我收拾一下桌子？
+20. Your job is to make the bed.
+    > **中文**：铺床是你的工作。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| `all over the place` | 到处都是；乱七八糟 |
-| `allowance` | 零花钱 |
-| `any chance` | 有没有可能 |
-| `arrange` | 安排；整理 |
-| `bedtime` | 就寝时间 |
-| `cardboard` | 纸板 |
-| `clear the table` | 收拾餐桌 |
-| `company` | 客人；陪伴 |
-| `depend on` | 取决于；依赖 |
-| `errand` | 差事；跑腿 |
-| `folks` | 大家；各位 |
-| `get-together` | 聚会 |
-| `host` | 举办；主持 |
-| `is to` | 被要求；应该 |
-| `load` | 装载；装入 |
-| `nap` | 小睡 |
-| `place` | 地方；位置 |
-| `responsibility` | 责任 |
-| `run to` | 跑一趟去 |
-| `walk the dog` | 遛狗 |
+| --- | --- |
+| all over the place | 到处都是 |
+| allowance | 零花钱 |
+| any chance | 有没有可能 |
+| arrange | 安排 |
+| bedtime | 就寝时间 |
+| cardboard | 硬纸板 |
+| clear the table | 收拾桌子 |
+| company | 客人；陪伴 |
+| depend on | 依赖；取决于 |
+| errand | 差事 |
+| folks | 爸妈；家人 |
+| get | 得到；使变得 |
+| get-together | 聚会 |
+| host | 东道主 |
+| is to | （规定）要做 |
+| load | 装载 |
+| nap | 小睡 |
+| oops | 哎呀 |
+| place | 地方；放置 |
+| responsibility | 责任 |
+| run to | 跑一趟去 |
+| should be | 应该是 |
+| walk the dog | 遛狗 |
+| dinner | 晚饭 |
+| weather | 天气 |
+| store | 商店 |
+| milk | 牛奶 |
+| toys | 玩具 |
+| homework | 作业 |
+| bed | 床 |
+| cat | 猫 |
 
 </quiz-matching>
 
@@ -240,202 +244,202 @@ all over the place, allowance, any chance, arrange, bedtime, cardboard, clear th
 
 ### 1
 
-Your main ____ is to clear the table after dinner.
+Your responsibility is to ____ the dog.
 
-- [x] responsibility
-- [ ] all over the place
-- [ ] allowance
+- [x] walk
+- [ ] walks
+- [ ] walking
 
-> **解析**：**responsibility** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is to 后接动词原形 walk；walk the dog 是固定搭配，walking 不能接在 is to 后构成此结构。
 
 ### 2
 
-The ____ counter should be clean before you go out.
+You should ____ the table after dinner.
 
-- [x] kitchen
-- [ ] all over the place
-- [ ] allowance
+- [x] clear
+- [ ] clears
+- [ ] clearing
 
-> **解析**：**kitchen** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：should 后接动词原形 clear；clear the table 是固定搭配。
 
 ### 3
 
-Children earn their weekly ____ by doing home chores.
+____ the dishwasher.
 
-- [x] allowance
-- [ ] all over the place
-- [ ] any chance
+- [x] Load
+- [ ] Loads
+- [ ] Loading
 
-> **解析**：**allowance** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Load；Loads 是三单形式，Loading 不能构成祈使句。
 
 ### 4
 
-____ clear the table and wash the large bowls.
+The dog should be ____ twice a day.
 
-- [x] Please
-- [ ] all over the place
-- [ ] allowance
+- [x] fed
+- [ ] feed
+- [ ] feeding
 
-> **解析**：**Please** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：should be 后接过去分词 fed 构成被动；feed 是原形，feeding 不表被动。
 
 ### 5
 
-Is it your ____ to walk the dog every evening?
+It depends ____ the weather.
 
-- [x] responsibility
-- [ ] all over the place
-- [ ] allowance
+- [x] on
+- [ ] at
+- [ ] for
 
-> **解析**：**responsibility** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：depend on 是固定搭配"取决于"；at 和 for 不合。
 
 ### 6
 
-Help me ____ the dirty dishes into the dishwasher.
+Is there any ____ you can help me?
 
-- [x] load
-- [ ] all over the place
-- [ ] allowance
+- [x] chance
+- [ ] chances
+- [ ] chancing
 
-> **解析**：**load** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：any chance 用单数名词；chancing 不是名词。
 
 ### 7
 
-I need to run an ____ before the grocery store closes.
+Can you run ____ the store for milk?
 
-- [x] errand
-- [ ] all over the place
-- [ ] allowance
+- [x] to
+- [ ] at
+- [ ] by
 
-> **解析**：**errand** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：run to 表示"跑去某地"，to 表方向；at 和 by 不合此方向义。
 
 ### 8
 
-Can you run to the ____ and buy some eggs?
+Your toys are all over the ____.
 
-- [x] supermarket
-- [ ] all over the place
-- [ ] allowance
+- [x] place
+- [ ] places
+- [ ] placed
 
-> **解析**：**supermarket** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：all over the place 是固定短语；placed 是过去分词不合。
 
 ### 9
 
-Read a calming story to the toddlers at ____.
+My ____ want me to do the chores.
 
-- [x] bedtime
-- [ ] all over the place
-- [ ] allowance
+- [x] folks
+- [ ] folk
+- [ ] folks'
 
-> **解析**：**bedtime** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：folks 作"爸妈"习惯用复数；folk's 所有格不合，folk 单数指"人们"。
 
 ### 10
 
-Taking a short afternoon ____ will refresh your energy.
+I get my ____ every week.
 
-- [x] nap
-- [ ] all over the place
-- [ ] allowance
+- [x] allowance
+- [ ] allowances
+- [ ] allowing
 
-> **解析**：**nap** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：my allowance 零花钱，单数；allowing 是动名词。
 
 ### 11
 
-Toys were scattered all over the ____ in the living room.
+We are going to ____ a get-together.
 
-- [x] place
-- [ ] all over the place
-- [ ] allowance
+- [x] arrange
+- [ ] arranges
+- [ ] arranged
 
-> **解析**：**place** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be going to 后接动词原形 arrange；arranged 是过去式。
 
 ### 12
 
-Flatten the heavy ____ boxes before recycling them.
+We have ____ tonight.
 
-- [x] cardboard
-- [ ] all over the place
-- [ ] allowance
+- [x] company
+- [ ] companies
+- [ ] companion's
 
-> **解析**：**cardboard** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：company 指"客人"时不可数；companies 指公司，companion's 是所有格。
 
 ### 13
 
-Put every tool back in its proper ____ after use.
+He is the ____ tonight.
 
-- [x] place
-- [ ] all over the place
-- [ ] allowance
+- [x] host
+- [ ] hosts
+- [ ] hosting
 
-> **解析**：**place** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the host 指今晚唯一的东道主，用单数；hosting 是动名词。
 
 ### 14
 
-We are going to ____ a friendly neighborhood get-together.
+Take a nap before ____.
 
-- [x] host
-- [ ] all over the place
-- [ ] allowance
+- [x] bedtime
+- [ ] bedtimes
+- [ ] bedded
 
-> **解析**：**host** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：before bedtime 是固定时间表达；bedded 是过去分词不合。
 
 ### 15
 
-Everyone enjoyed the lively weekend ____.
+____, I forgot to feed the cat.
 
-- [x] get-together
-- [ ] all over the place
-- [ ] allowance
+- [x] Oops
+- [ ] Oop
+- [ ] Oopsy's
 
-> **解析**：**get-together** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：Oops 是标准感叹词"哎呀"；其余形式不是规范感叹词。
 
 ### 16
 
-We have unexpected ____ coming over for dinner tonight.
+____ the cardboard box in the corner.
 
-- [x] company
-- [ ] all over the place
-- [ ] allowance
+- [x] Place
+- [ ] Places
+- [ ] Placing
 
-> **解析**：**company** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Place（放置）；Placing 不能构成祈使句。
 
 ### 17
 
-Good evening ____, welcome to our family dinner party!
+I need to run an ____.
 
-- [x] folks
-- [ ] all over the place
-- [ ] allowance
+- [x] errand
+- [ ] errands
+- [ ] error
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **folks**。
+> **解析**：run an errand 是固定搭配，用单数；error 是"错误"干扰项。
 
 ### 18
 
-Our weekend plans depend on the sunny weather ____.
+The homework should be ____ before dinner.
 
-- [x] condition
-- [ ] all over the place
-- [ ] allowance
+- [x] done
+- [ ] do
+- [ ] doing
 
-> **解析**：**condition** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：should be 后接过去分词 done 构成被动；doing 不表被动。
 
 ### 19
 
-We need to ____ the chairs nicely in a circle.
+Get these things ____.
 
-- [x] arrange
-- [ ] all over the place
-- [ ] allowance
+- [x] organized
+- [ ] organize
+- [ ] organizing
 
-> **解析**：**arrange** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get + 宾语 + 过去分词 organized 表示"使被整理好"；organizing 不合此结构。
 
 ### 20
 
-Any ____ you could help me clear the table now?
+Your job is to ____ the bed.
 
-- [x] chance
-- [ ] all over the place
-- [ ] allowance
+- [x] make
+- [ ] makes
+- [ ] making
 
-> **解析**：**chance** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is to 后接动词原形 make；make the bed 是固定搭配。
 
 </quiz-cloze>

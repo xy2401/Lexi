@@ -10,40 +10,37 @@ accept, airline, apply, away, begun, benefits, career, contact, decision, done, 
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"谈论求职申请"展开。核心是面试相关表达：I've applied for a full-time position at an airline.（我申请了一家航空公司的全职职位。）、The interview has begun—I'm a little nervous.（面试开始了——我有点紧张。）、I'm responsible for engineering projects.（我负责工程项目。）、Have you made a decision about my résumé?（你对我的简历有决定了吗？）。
+本单元的主题是"谈论求职申请"。词表可以分成四组：求职流程（apply, interview, résumé, contact, sign, accept, decision）、工作与待遇（full-time, part-time, benefits, career, engineering, airline, skill, responsible）、过去经历（quit, begun, done, understood, since, education）以及感受与表达（feeling, sound like, away）。拼起来就是一次完整的求职对话：I applied for the job. The interview has already begun. I hope to accept the offer.
 
-词表里有求职词汇（apply, interview, résumé, career, benefits）和工作类型（full-time, part-time）。你可以练习：I quit my old job. / I have a skill in engineering. / It sounds like a great career. / I've been waiting since Monday.
+语法主线有两个。一是现在完成时：The interview has begun. I have applied for the job. 注意不规则过去分词：begin → begun, understand → understood, do → done。二是求职场景的核心搭配：apply for（申请职位）、responsible for（负责）、sound like（听起来像）。另外 since 表时间起点，常与完成时连用：I have worked here since 2020.
 
-apply for 表示"申请"。since 搭配现在完成时。
+学完这些词，你能用英语完成求职沟通——投递简历、参加面试、询问待遇，并谈论过往工作经历。
 
 ## Tips
 
-- **apply / interview / résumé** — 申请 / 面试 / 简历。搭配：apply for a job, have an interview, send a résumé。例句：I applied for the position. / The interview went well. / I sent my résumé yesterday. 注意 apply for + 职位。
+- **apply / interview / résumé** — apply for 申请职位：apply for a job；interview 面试，可名可动：have an interview；résumé 简历，借自法语，也写作 resume。✗ apply a job → ✓ apply for a job.
 
-- **full-time / part-time** — 全职 / 兼职。搭配：a full-time job, work part-time。例句：I want a full-time position. / She works part-time at an airline. 注意 full-time 和 part-time 有连字符。
+- **contact / sign / accept** — contact 联系：contact me by email；sign 签字：sign the contract；accept 接受：accept the offer. 三个动作构成入职流程。
 
-- **career / benefits** — 职业（生涯）/ 福利。搭配：a career in engineering, job benefits, career growth。例句：I want a career in engineering. / The benefits are good—health insurance and more. 注意 career 比 job 更长远。
+- **decision** — 决定：make a decision. 动词 decide：I decided to accept. 习惯表达：It's a tough decision.
 
-- **responsible / skill** — 负责的 / 技能。搭配：responsible for, be responsible for, a skill in。例句：I'm responsible for the team. / I have strong engineering skills. 注意 responsible for + 名词/动名词。
+- **full-time / part-time** — full-time 全职的，part-time 兼职的，都作形容词或副词：a full-time job / work part-time. 反义配对记忆。
 
-- **quit / begun / done** — 辞职 / 开始 / 完成。搭配：quit my job, has begun, well done。例句：I quit my old job last month. / The interview has begun. / I've done my research. 注意 quit → quit → quit（不变）。
+- **benefits** — 福利、待遇，常用复数：job benefits（保险、假期等）。近义：perks（口语福利）。
 
-- **since / decision** — 自从 / 决定。搭配：since Monday, since 2020, make a decision。例句：I've been waiting since Monday. / Have you made a decision? 注意 since + 时间点，搭配现在完成时。
+- **career / engineering / airline** — career 职业、事业（比 job 更长期）；engineering 工程、工程行业；airline 航空公司：work for an airline.
 
-- **airline / engineering / education** — 航空公司 / 工程 / 教育。搭配：an airline company, an engineering degree, education background。例句：I work for an airline. / I studied engineering. / What's your education? 注意 airline 指航空公司。
+- **skill / responsible / education** — skill 技能：communication skills（常用复数）；responsible 负责的：be responsible for a team；education 教育、学历：my education background.
 
-- **accept / sign / contact** — 接受 / 签字 / 联系。搭配：accept the offer, sign the contract, contact me。例句：I accepted the job offer. / Sign here, please. / You can contact me by email. 注意 accept = 接受（主观愿意），receive = 收到。
+- **quit / begun / done / understood** — quit 辞职，过去式与原形同形：I quit my job. begun 是 begin 的过去分词（has begun）；done 是 do 的过去分词；understood 是 understand 的过去分词。三者都是不规则变化。
 
-- **sound like / feeling** — 听起来像 / 感觉。搭配：That sounds like..., a good feeling。例句：That sounds like a great opportunity! / I have a good feeling about this. 注意 sound like + 名词，sound + 形容词。
+- **since** — 自从，与完成时连用：since 2020 / since I graduated. 也可表原因"既然"。
 
-- **understood / away** — 明白了 / 离开。搭配：I understood, far away, go away。例句：I understood the question. / The office is far away. 注意 understand → understood → understood。
+- **feeling / sound like** — feeling 感觉、直觉：I have a good feeling about this. sound like 听起来像：That sounds like a great opportunity. 注意 sound 是系动词：That sounds great.
 
-- **benefits / career / quit** — 福利 / 职业 / 辞职。搭配：good benefits, a long career, quit working。例句：The benefits include health insurance. / I want a long career here. / I quit because of the hours.
-
-- **interview / apply / since** — 面试 / 申请 / 自从。搭配：job interview, apply online, since last week。例句：The interview is tomorrow. / I applied online. / I've been nervous since I applied.
+- **away** — 离开、远离：I moved away for the job. 也可表距离：two miles away.
 
 ## 练习
 
@@ -61,149 +58,149 @@ apply for 表示"申请"。since 搭配现在完成时。
 
 <quiz-sentence-builder>
 
-1. **中文**：自毕业以来，他一直在申请各家航空公司的全职工作。  
-   **英文**：Since graduation, he has applied for full-time jobs at airlines.
-   > **解析**：apply for 表示“申请”；airline 表示“航空公司”；full-time 表示“全职的”；since 表示“自……以来”。
+1. **中文**：我申请了这个职位。
+   **英文**：I applied for this job.
+   > **解析**：apply for 是固定搭配；applied 是过去式。
 
-2. **中文**：在这场面试中，面试官询问了他的教育背景和专业技能。  
-   **英文**：In the interview, the interviewer asked about his skills and education.
-   > **解析**：interview 表示“面试”；skill 表示“技能”；education 表示“教育”。
+2. **中文**：面试已经开始了。
+   **英文**：The interview has already begun.
+   > **解析**：has begun 是现在完成时；begun 是 begin 的过去分词。
 
-3. **中文**：在展示了出色的简历后，他接到了接受录取通知的联系。  
-   **英文**：After showing his résumé, he got contact to accept the job offer.
-   > **解析**：résumé 表示“简历”；contact 表示“联系”；accept 表示“接受”。
+3. **中文**：我已经投了简历。
+   **英文**：I have sent my résumé.
+   > **解析**：have sent 是现在完成时；my résumé 作宾语。
 
-4. **中文**：负责工程部门的主管做出了录用他的决定。  
-   **英文**：The manager responsible for engineering made the hiring decision.
-   > **解析**：responsible for 表示“对……负责的”；engineering 表示“工程学”；decision 表示“决定”。
+4. **中文**：如果有任何问题，请通过邮件联系我。
+   **英文**：Please contact me by email if you have any questions.
+   > **解析**：祈使句以 Please + contact 开头；by email 表方式。
 
-5. **中文**：他决定辞去那份兼职，转而开始他的职业生涯发展。  
-   **英文**：He decided to quit his part-time job to start his career.
-   > **解析**：quit 表示“辞职/放弃”；part-time 表示“兼职的”；career 表示“职业/事业”。
+5. **中文**：我决定接受这份工作邀约。
+   **英文**：I decided to accept the job offer.
+   > **解析**：decide to do 是固定结构；decided 是过去式。
 
-6. **中文**：这听起来像是一个带有良好福利待遇的理想职位。  
-   **英文**：This sounds like a dream position with great company benefits.
-   > **解析**：sounds like 表示“听起来像”；benefits 表示“福利待遇”。
+6. **中文**：他负责整个项目。
+   **英文**：He is responsible for the whole project.
+   > **解析**：be responsible for 是固定搭配。
 
-7. **中文**：面试已经开始，他有种感觉自己表现得很出色。  
-   **英文**：The interview has begun, and he has a feeling he did well.
-   > **解析**：begun 是 begin 的过去分词；feeling 表示“感觉”。
+7. **中文**：这份工作的福利很好。
+   **英文**：The benefits of this job are great.
+   > **解析**：benefits 用复数，谓语用 are。
 
-8. **中文**：他完全理解了合同条款，并在上面签下了名字。  
-   **英文**：He fully understood the terms and decided to sign the contract.
-   > **解析**：understood 是 understand 的过去式；sign 表示“签署”。
+8. **中文**：我在找一份全职工作。
+   **英文**：I am looking for a full-time job.
+   > **解析**：am looking 是现在进行时；full-time 作定语。
 
-9. **中文**：距离他离开上家公司已经过去三个月了。  
-   **英文**：It has been three months since he was away from his last job.
-   > **解析**：away 表示“离开/远离”；since 表示“自……以来”。
+9. **中文**：她去年辞职了。
+   **英文**：She quit her job last year.
+   > **解析**：quit 过去式与原形同形；last year 是时间状语。
 
-10. **中文**：做完这项任务后，他放下了手中的工作。  
-   **英文**：Having done all the work, he was feeling relaxed and happy.
-   > **解析**：done 是 do 的过去分词；feeling 表示“感觉”。
+10. **中文**：自 2020 年以来我一直在这里工作。
+    **英文**：I have worked here since 2020.
+    > **解析**：since + 时间点与现在完成时连用。
 
-11. **中文**：如果你决定接受这个职位，请在合同上签字。  
-   **英文**：If you decide to accept the offer, please sign here.
-   > **解析**：accept 表示“接受”；sign 表示“签字”。
+11. **中文**：我完全理解你的要求。
+    **英文**：I fully understood your requirements.
+    > **解析**：understood 是 understand 的过去式；fully 是副词修饰动词。
 
-12. **中文**：她拥有一份成功的航空管理职业生涯。  
-   **英文**：She built a successful career in airline management.
-   > **解析**：career 表示“职业/事业”；airline 表示“航空公司”。
+12. **中文**：我对这次面试感觉很好。
+    **英文**：I have a good feeling about the interview.
+    > **解析**：have a feeling 是固定表达；about the interview 是范围状语。
 
-13. **中文**：经过深思熟虑，经理终于做出了最终决定。  
-   **英文**：After careful thought, the manager made a final decision.
-   > **解析**：decision 表示“决定”。
+13. **中文**：听起来像是个好机会。
+    **英文**：That sounds like a great opportunity.
+    > **解析**：sound 是系动词，三单加 s；like 引出表语。
 
-14. **中文**：这听起来像是一个非常有挑战性的工作机会。  
-   **英文**：That sounds like a very challenging job opportunity.
-   > **解析**：sounds like 表示“听起来像”。
+14. **中文**：他在一家航空公司工作。
+    **英文**：He works for an airline.
+    > **解析**：work for 表供职于；airline 以元音音开头用 an。
 
-15. **中文**：请在您的个人简历中列出您所有的工作技能。  
-   **英文**：Please list all your work skills on your résumé.
-   > **解析**：skill 表示“技能”；résumé 表示“简历”。
+15. **中文**：我的技能包括编程和沟通。
+    **英文**：My skills include coding and communication.
+    > **解析**：skills 用复数；include 后接并列宾语。
 
-16. **中文**：他因为健康原因决定辞去目前的职位。  
-   **英文**：He decided to quit his current position due to health.
-   > **解析**：quit 表示“辞职/退出”。
+16. **中文**：这是一个艰难的决定。
+    **英文**：This is a tough decision.
+    > **解析**：tough 作定语修饰 decision；is 搭配单数主语。
 
-17. **中文**：公司为所有全职员工提供良好的医疗福利。  
-   **英文**：The company offers health benefits to all full-time workers.
-   > **解析**：benefits 表示“福利”；full-time 表示“全职的”。
+17. **中文**：请在合同上签字。
+    **英文**：Please sign the contract.
+    > **解析**：祈使句以 Please + sign 开头；the contract 作宾语。
 
-18. **中文**：如果你有任何问题，请随时与人力资源部门联系。  
-   **英文**：If you have questions, please contact the HR office.
-   > **解析**：contact 表示“联系/联络”。
+18. **中文**：教育背景很重要。
+    **英文**：Your education background is important.
+    > **解析**：education 作定语修饰 background；is 搭配单数主语。
 
-19. **中文**：良好的教育背景有助于你在面试中取得成功。  
-   **英文**：Good education helps you succeed in a job interview.
-   > **解析**：education 表示“教育”；interview 表示“面试”。
+19. **中文**：为了这份工作我搬到了外地。
+    **英文**：I moved away for this job.
+    > **解析**：moved away 表搬离；for this job 表目的。
 
-20. **中文**：他负责管理项目团队并确保按时交工。  
-   **英文**：He is responsible for managing the project team.
-   > **解析**：responsible for 表示“对……负责”。
+20. **中文**：我的工程生涯从实习生开始。
+    **英文**：My career in engineering started as an intern.
+    > **解析**：in engineering 是领域状语；started 是过去式。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Since graduation, he has applied for full-time jobs at airlines.
-   > **中文**：自毕业以来，他一直在申请各家航空公司的全职工作。
+1. I applied for this job.
+   > **中文**：我申请了这个职位。
 
-2. In the interview, the interviewer asked about his skills and education.
-   > **中文**：在这场面试中，面试官询问了他的教育背景和专业技能。
+2. The interview has already begun.
+   > **中文**：面试已经开始了。
 
-3. After showing his résumé, he got contact to accept the job offer.
-   > **中文**：在展示了出色的简历后，他接到了接受录取通知的联系。
+3. I have sent my résumé.
+   > **中文**：我已经投了简历。
 
-4. The manager responsible for engineering made the hiring decision.
-   > **中文**：负责工程部门的主管做出了录用他的决定。
+4. Please contact me by email if you have any questions.
+   > **中文**：如果有任何问题，请通过邮件联系我。
 
-5. He decided to quit his part-time job to start his career.
-   > **中文**：他决定辞去那份兼职，转而开始他的职业生涯发展。
+5. I decided to accept the job offer.
+   > **中文**：我决定接受这份工作邀约。
 
-6. This sounds like a dream position with great company benefits.
-   > **中文**：这听起来像是一个带有良好福利待遇的理想职位。
+6. He is responsible for the whole project.
+   > **中文**：他负责整个项目。
 
-7. The interview has begun, and he has a feeling he did well.
-   > **中文**：面试已经开始，他有种感觉自己表现得很出色。
+7. The benefits of this job are great.
+   > **中文**：这份工作的福利很好。
 
-8. He fully understood the terms and decided to sign the contract.
-   > **中文**：他完全理解了合同条款，并在上面签下了名字。
+8. I am looking for a full-time job.
+   > **中文**：我在找一份全职工作。
 
-9. It has been three months since he was away from his last job.
-   > **中文**：距离他离开上家公司已经过去三个月了。
+9. She quit her job last year.
+   > **中文**：她去年辞职了。
 
-10. Having done all the work, he was feeling relaxed and happy.
-   > **中文**：做完这项任务后，他放下了手中的工作。
+10. I have worked here since 2020.
+    > **中文**：自 2020 年以来我一直在这里工作。
 
-11. If you decide to accept the offer, please sign here.
-   > **中文**：如果你决定接受这个职位，请在合同上签字。
+11. I fully understood your requirements.
+    > **中文**：我完全理解你的要求。
 
-12. She built a successful career in airline management.
-   > **中文**：她拥有一份成功的航空管理职业生涯。
+12. I have a good feeling about the interview.
+    > **中文**：我对这次面试感觉很好。
 
-13. After careful thought, the manager made a final decision.
-   > **中文**：经过深思熟虑，经理终于做出了最终决定。
+13. That sounds like a great opportunity.
+    > **中文**：听起来像是个好机会。
 
-14. That sounds like a very challenging job opportunity.
-   > **中文**：这听起来像是一个非常有挑战性的工作机会。
+14. He works for an airline.
+    > **中文**：他在一家航空公司工作。
 
-15. Please list all your work skills on your résumé.
-   > **中文**：请在您的个人简历中列出您所有的工作技能。
+15. My skills include coding and communication.
+    > **中文**：我的技能包括编程和沟通。
 
-16. He decided to quit his current position due to health.
-   > **中文**：他因为健康原因决定辞去目前的职位。
+16. This is a tough decision.
+    > **中文**：这是一个艰难的决定。
 
-17. The company offers health benefits to all full-time workers.
-   > **中文**：公司为所有全职员工提供良好的医疗福利。
+17. Please sign the contract.
+    > **中文**：请在合同上签字。
 
-18. If you have questions, please contact the HR office.
-   > **中文**：如果你有任何问题，请随时与人力资源部门联系。
+18. Your education background is important.
+    > **中文**：教育背景很重要。
 
-19. Good education helps you succeed in a job interview.
-   > **中文**：良好的教育背景有助于你在面试中取得成功。
+19. I moved away for this job.
+    > **中文**：为了这份工作我搬到了外地。
 
-20. He is responsible for managing the project team.
-   > **中文**：他负责管理项目团队并确保按时交工。
+20. My career in engineering started as an intern.
+    > **中文**：我的工程生涯从实习生开始。
 
 </quiz-listening>
 
@@ -214,23 +211,33 @@ apply for 表示"申请"。since 搭配现在完成时。
 | accept | 接受 |
 | airline | 航空公司 |
 | apply | 申请 |
-| benefits | 福利待遇 |
+| away | 离开 / 远离 |
+| begun | 开始（过去分词） |
+| benefits | 福利 |
 | career | 职业 / 事业 |
-| contact | 联系 / 联络 |
+| contact | 联系 |
 | decision | 决定 |
-| education | 教育 |
+| done | 完成（过去分词） |
+| education | 教育 / 学历 |
+| engineering | 工程 |
+| feeling | 感觉 |
 | full-time | 全职的 |
 | interview | 面试 |
 | part-time | 兼职的 |
-| quit | 辞职 / 退出 |
+| quit | 辞职 |
 | responsible | 负责的 |
 | résumé | 简历 |
-| sign | 签字 / 签署 |
-| since | 自……以来 |
+| sign | 签字 |
+| since | 自从 |
 | skill | 技能 |
-| sounds like | 听起来像 |
-| understood | 理解了（understand的过去式） |
-| done | 做完了（do的过去分词） |
+| sound like | 听起来像 |
+| understood | 理解（过去式） |
+| the | 这 / 那（定冠词） |
+| job | 工作 |
+| offer | 邀约 |
+| contract | 合同 |
+| project | 项目 |
+| email | 邮件 |
 
 </quiz-matching>
 
@@ -238,202 +245,202 @@ apply for 表示"申请"。since 搭配现在完成时。
 
 ### 1
 
-____ graduation, he has applied for full-time jobs at airlines.
+I applied ____ this job.
 
-- [x] Since
-- [ ] accept
-- [ ] airline
+- [x] for
+- [ ] to
+- [ ] since
 
-> **解析**：**Since** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：apply for 是固定搭配；to 用于 apply to a company（申请某公司），since 语义不符。
 
 ### 2
 
-In the ____, the interviewer asked about his skills and education.
+The interview has already ____.
 
-- [x] interview
-- [ ] accept
-- [ ] airline
+- [x] begun
+- [ ] quit
+- [ ] signed
 
-> **解析**：**interview** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：has begun 是现在完成时；quit 和 signed 与面试开始语义不符。
 
 ### 3
 
-After showing his résumé, he got ____ to accept the job offer.
+I have sent my ____.
 
-- [x] contact
-- [ ] accept
-- [ ] airline
+- [x] résumé
+- [ ] decision
+- [ ] feeling
 
-> **解析**：**contact** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：投递的是简历 résumé；decision 和 feeling 不能被投递。
 
 ### 4
 
-The manager ____ for engineering made the hiring decision.
+Please ____ me by email.
 
-- [x] responsible
+- [x] contact
+- [ ] quit
 - [ ] accept
-- [ ] airline
 
-> **解析**：**responsible** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：联系用 contact；quit 和 accept 不能与 by email 构成联系义。
 
 ### 5
 
-He decided to ____ his part-time job to start his career.
+I decided ____ the job offer.
 
-- [x] quit
+- [x] to accept
+- [ ] accepting
 - [ ] accept
-- [ ] airline
 
-> **解析**：**quit** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：decide to do 是固定结构；accepting 用于 enjoy 等动词后，accept 缺少 to。
 
 ### 6
 
-This sounds like a dream position with great company ____.
+He is responsible ____ the whole project.
 
-- [x] benefits
-- [ ] accept
-- [ ] airline
+- [x] for
+- [ ] with
+- [ ] since
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **benefits**。
+> **解析**：be responsible for 是固定搭配；with 和 since 不能构成此短语。
 
 ### 7
 
-The ____ has begun, and he has a feeling he did well.
+The ____ of this job are great.
 
-- [x] interview
-- [ ] accept
+- [x] benefits
+- [ ] education
 - [ ] airline
 
-> **解析**：**interview** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：福利好与 are 搭配用复数 benefits；education 和 airline 是单数概念。
 
 ### 8
 
-He fully ____ the terms and decided to sign the contract.
+I am looking for a ____ job.
 
-- [x] understood
-- [ ] accept
-- [ ] airline
+- [x] full-time
+- [ ] quit
+- [ ] begun
 
-> **解析**：**understood** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰工作类型用 full-time；quit 和 begun 是动词形式，不能作定语。
 
 ### 9
 
-It has been three months ____ he was away from his last job.
+She ____ her job last year.
 
-- [x] since
-- [ ] accept
-- [ ] airline
+- [x] quit
+- [ ] accepts
+- [ ] sounds
 
-> **解析**：**since** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：过去辞职用 quit；accepts 和 sounds 与 last year 的过去语境及时态不符。
 
 ### 10
 
-Having ____ all the work, he was feeling relaxed and happy.
+I have worked here ____ 2020.
 
-- [x] done
-- [ ] accept
-- [ ] airline
+- [x] since
+- [ ] for
+- [ ] away
 
-> **解析**：**done** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：since + 时间点与完成时连用；for 接时间段，away 是副词。
 
 ### 11
 
-If you decide to ____ the offer, please sign here.
+I fully ____ your requirements.
 
-- [x] accept
-- [ ] airline
-- [ ] apply
+- [x] understood
+- [ ] begun
+- [ ] quit
 
-> **解析**：**accept** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：理解要求用 understood；begun 需搭配 has，quit 语义不符。
 
 ### 12
 
-She built a successful ____ in airline management.
+I have a good ____ about the interview.
 
-- [x] career
-- [ ] accept
-- [ ] airline
+- [x] feeling
+- [ ] contract
+- [ ] skill
 
-> **解析**：**career** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：have a feeling 是固定表达；contract 和 skill 不能被 have a… about。
 
 ### 13
 
-After careful thought, the manager made a final ____.
+That ____ like a great opportunity.
 
-- [x] decision
-- [ ] accept
-- [ ] airline
+- [x] sounds
+- [ ] quitted
+- [ ] begun
 
-> **解析**：**decision** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：sound like 听起来像，三单加 s；quitted 形式错误（quit 不变），begun 不能作谓语。
 
 ### 14
 
-That sounds like a very ____ job opportunity.
+He works for an ____.
 
-- [x] challenging
-- [ ] accept
-- [ ] airline
+- [x] airline
+- [ ] résumé
+- [ ] decision
 
-> **解析**：**challenging** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：供职于航空公司 airline；résumé 和 decision 不能被 work for。
 
 ### 15
 
-____ list all your work skills on your résumé.
+My ____ include coding and communication.
 
-- [x] Please
-- [ ] accept
-- [ ] airline
+- [x] skills
+- [ ] career
+- [ ] feeling
 
-> **解析**：**Please** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：包含多项技能用复数 skills；career 和 feeling 与 include 多项技能不符。
 
 ### 16
 
-He decided to ____ his current position due to health.
+This is a tough ____.
 
-- [x] quit
-- [ ] accept
+- [x] decision
+- [ ] interview
 - [ ] airline
 
-> **解析**：**quit** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：艰难的抉择用 decision；interview 和 airline 与 tough 搭配不当。
 
 ### 17
 
-The company offers health ____ to all full-time workers.
+Please ____ the contract.
 
-- [x] benefits
-- [ ] accept
-- [ ] airline
+- [x] sign
+- [ ] quit
+- [ ] apply
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **benefits**。
+> **解析**：签合同用 sign；quit 和 apply 不能与 contract 搭配。
 
 ### 18
 
-If you have questions, please ____ the HR office.
+Your ____ background is important.
 
-- [x] contact
-- [ ] accept
-- [ ] airline
+- [x] education
+- [ ] feeling
+- [ ] away
 
-> **解析**：**contact** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：教育背景用 education background；feeling 和 away 不能作 background 的定语。
 
 ### 19
 
-Good ____ helps you succeed in a job interview.
+I moved ____ for this job.
 
-- [x] education
-- [ ] accept
-- [ ] airline
+- [x] away
+- [ ] since
+- [ ] done
 
-> **解析**：**education** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：搬到外地用 moved away；since 是介词，done 是过去分词，都不修饰 move。
 
 ### 20
 
-He is ____ for managing the project team.
+My career ____ engineering started as an intern.
 
-- [x] responsible
-- [ ] accept
-- [ ] airline
+- [x] in
+- [ ] at
+- [ ] since
 
-> **解析**：**responsible** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：领域用 in engineering；at 用于具体地点，since 表时间，都不表领域。
 
 </quiz-cloze>

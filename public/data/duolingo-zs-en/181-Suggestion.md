@@ -10,32 +10,41 @@ but, by, convince, could, doubt that, lamb, option, point, politely, progress, r
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是"推荐一道菜或一杯饮品"。你可以礼貌地给出建议：I'd recommend the lamb—it's amazing. Would you like to try it? If you're vegetarian, there are other options.（我推荐羊肉——非常棒。你想试试吗？如果你是素食者，还有其他选择。）We'd love to take you to that resort by the waterfall. You'd enjoy it, I'm sure.（我们很想带你去瀑布旁那个度假村。你一定会喜欢的。）
+本单元的主题是"推荐与建议"。词表可以分成三组：建议用语（recommend, could, we would, we'd, would you, you'd, say）、语气与态度词（politely, rude, convince, doubt that, point, option, so, but, by）、以及餐厅与旅行场景名词（lamb, vegetarian, resort, waterfall, souvenir, take, progress, say）。拼起来就是完整的推荐场景：Would you like the lamb? You'd love it. We'd recommend the vegetarian option.
 
-词表里有建议类核心词汇：recommend, could, would you, we'd, you'd, we would。这些构成了礼貌建议和邀请的语法骨架。convince 是"说服"，politely 和 rude 涉及建议时的礼貌维度：I politely suggested the lamb, but he was rude about it.（我礼貌地推荐了羊肉，但他对此很无礼。）
+语法主线是 would 家族。we would 常缩写成 we'd，you would 缩写成 you'd；Would you like...? 是礼貌提议的招牌句型，比 Do you want...? 更客气。另一条主线是 recommend 的用法：recommend + 名词（recommend the lamb）、recommend + 动名词（recommend trying the soup）。suggest 与 recommend 用法相近，都不接 to do。
 
-食物和旅行词汇穿插其中：lamb, vegetarian, souvenir, resort, waterfall。doubt that 表达怀疑：I doubt that he'd like lamb. option 是选择，point 可以表示"要点"或"意义"：What's the point? so 和 but 是连接词，让建议的表达更流畅。
+学完这些词，你能在餐厅和旅行中礼貌地推荐菜品、征询对方意愿，并委婉地表达不同意见。
 
 ## Tips
 
-- **recommend / could / would you** — recommend 后接名词或动名词：I recommend the lamb. / I recommend trying it.（不接 to do。）could 用于礼貌建议：You could try the vegetarian option. would you 用于礼貌邀请：Would you like some tea?
+- **we would / we'd / you'd** — would 的缩写形式。we would = we'd，you would = you'd：We'd recommend the fish. You'd love this place. 缩写只用于口语和非正式书写，注意 would 和 had 缩写后同形，需靠后面的动词形式判断：you'd like（would + 原形）vs. you'd better（had better）。
 
-- **we'd / you'd / we would** — we'd = we would（或 we had，视后接词判断）。在建议语境中通常是 would：We'd love to help. you'd = you would：You'd enjoy the waterfall. 缩写 'd 后接动词原形 = would，后接过去分词 = had。
+- **would you** — 礼貌请求与提议的开头：Would you like some tea? Would you try the lamb? 比 Do you...? 语气柔和得多。回答肯定常说 Yes, please.，否定说 No, thank you.
 
-- **lamb / vegetarian / option** — lamb 是羊肉（活羊是 sheep，羊肉是 lamb 或 mutton）。vegetarian 是素食者（vegan 是纯素者，不吃任何动物制品）。option = 选择（比 choice 更强调"可选项"）。
+- **could** — can 的委婉形式，用于建议与请求：You could try the soup. Could you pass the salt? could 表建议时语气比 should 更开放，不强加于人。
 
-- **convince / doubt that / point** — convince = 说服：I convinced her to try it. 搭配 convince someone to do / convince someone that... doubt that = 怀疑：I doubt that he'll come. point 可表示"意义"：What's the point? 或"要点"：That's a good point.
+- **recommend** — "推荐"，后接名词或动名词：recommend the lamb / recommend ordering early. ✗ recommend to order 是错误用法。名词 recommendation 加 -ation 构成。
 
-- **politely / rude / say** — politely = 礼貌地（polite + -ly）。rude = 粗鲁的，搭配 be rude to someone. say 在此可能是"比如说"：Say, would you like some lamb?（口语中引起注意）。
+- **convince / doubt that** — convince 说服：convince someone to do something 或 convince someone that...；doubt that 表示"怀疑……"：I doubt that he will come. 两者都接 that 从句。
 
-- **resort / waterfall / souvenir** — resort 是度假胜地/度假村：a beach resort. waterfall 是瀑布（water + fall）。souvenir 是纪念品（来自法语，注意发音：/ˌsuːvəˈnɪr/）。
+- **politely / rude** — 一组反义态度词。politely 副词"礼貌地"（polite + ly）；rude 形容词"粗鲁的"：It's rude to refuse directly. say politely（礼貌地说）是常见搭配。
 
-- **by / so / but / take** — by 在此可能表示"在……旁边"：the resort by the waterfall. so 表结果或"那么"：So, what would you recommend? but 表转折。take 可搭配 take a souvenir / take someone to a place。
+- **option** — "选择、选项"：a vegetarian option（素食选项）。have options 表示"有选择余地"。与 choice 近义，option 更强调"可供挑选的项"。
 
-- **progress / resort** — progress 是不可数名词：make progress. resort 除"度假村"外还有"诉诸"义：as a last resort（作为最后手段）。注意不要混淆两个含义。
+- **point** — 名词"要点、意义"：What's the point?（有什么意义？）；也可指"分数、观点"。make a point（提出观点）是常用搭配。
+
+- **but / so** — 两个最常用的连词。but 表转折：I like lamb, but my sister is vegetarian. so 表结果：It's raining, so we'd better stay. so 也可缓和语气：It's so good.
+
+- **by** — 介词，用法极多：by the waterfall（在瀑布旁）、by Friday（到周五为止）、by bus（乘巴士）。本单元常见于地点与方式表达。
+
+- **lamb / vegetarian** — lamb 是"羊肉"（动物本身也叫 lamb）；vegetarian 既可作名词"素食者"也可作形容词"素食的"：a vegetarian option。与 vegan（纯素食者）不同，vegetarian 一般可食蛋奶。
+
+- **resort / waterfall / souvenir** — 三个旅行词。resort 度假胜地；waterfall 瀑布（water + fall 合成词）；souvenir 纪念品，来自法语，重音在最后一个音节。buy a souvenir（买纪念品）是高频搭配。
+
+- **take / progress / say** — take 在本单元多用于 take a trip（去旅行）、take a photo（拍照）；progress 名词"进展"，不可数：make progress.；say 说，转述他人话语：They say the lamb is great.（据说羊肉很棒。）
 
 ## 练习
 
@@ -53,149 +62,149 @@ but, by, convince, could, doubt that, lamb, option, point, politely, progress, r
 
 <quiz-sentence-builder>
 
-1. **中文**：你可以选择乘坐观光巴士或者徒步游览山谷。
-   **英文**：Taking a guided bus tour is a great option for tourists.
-   > **解析**：option 表示“选择/选项”。
+1. **中文**：您想尝尝羊肉吗？
+   **英文**：Would you like to try the lamb?
+   > **解析**：Would you like 是礼貌提议句型，后接不定式 to try；the lamb 指菜单上的那道羊肉。
 
-2. **中文**：导游向我们强烈推荐那家老字号素食餐厅。
-   **英文**：I strongly recommend visiting the famous waterfall.
-   > **解析**：recommend 表示“推荐”。
+2. **中文**：你会喜欢这道菜的。
+   **英文**：You'd love this dish.
+   > **解析**：you'd 是 you would 的缩写，后接动词原形 love；would 表示推测性的肯定。
 
-3. **中文**：那座豪华的海滨度假胜地吸引了无数游客。
-   **英文**：They stayed at a luxury beach resort during vacation.
-   > **解析**：resort 表示“度假胜地”。
+3. **中文**：我们会推荐素食选项。
+   **英文**：We'd recommend the vegetarian option.
+   > **解析**：we'd = we would；recommend 后直接接名词短语 the vegetarian option。
 
-4. **中文**：我们在纪念品商店买了一些精美的涂鸦手工艺品。
-   **英文**：She bought a handmade souvenir at the local gift shop.
-   > **解析**：souvenir 表示“纪念品”。
+4. **中文**：你可以试试这道汤。
+   **英文**：You could try the soup.
+   > **解析**：could 是委婉建议，后接动词原形 try；语气比 should 柔和。
 
-5. **中文**：这家餐馆专门为素食主义者提供特制菜单。
-   **英文**：The chef prepared a healthy vegetarian dish for us.
-   > **解析**：vegetarian 表示“素食主义者/素食的”。
+5. **中文**：我怀疑他会不会来。
+   **英文**：I doubt that he will come.
+   > **解析**：doubt 后接 that 从句；will come 是一般将来时。
 
-6. **中文**：湍急的瀑布从高耸的峭壁上飞流直下。
-   **英文**：A beautiful waterfall cascades down the steep mountain cliff.
-   > **解析**：waterfall 表示“瀑布”。
+6. **中文**：她礼貌地拒绝了。
+   **英文**：She refused politely.
+   > **解析**：politely 是副词，修饰动词 refused，放在动词后。
 
-7. **中文**：他试图在会议上说服大家接受新方案。
-   **英文**：He tried to convince his manager to accept the proposal.
-   > **解析**：convince 表示“说服/使信服”。
+7. **中文**：直接拒绝是不礼貌的。
+   **英文**：It is rude to refuse directly.
+   > **解析**：It 是形式主语，真正主语是 to refuse directly；rude 作表语。
 
-8. **中文**：我严重怀疑他能否在今晚前按时赶回来。
-   **英文**：I doubt that the rain will stop before this afternoon.
-   > **解析**：doubt that 表示“怀疑某事”。
+8. **中文**：瀑布旁边有一家度假酒店。
+   **英文**：There is a resort by the waterfall.
+   > **解析**：there is 表示"有"；by the waterfall 是地点状语，by 表示"在……旁边"。
 
-9. **中文**：主厨精心准备了一道香烤烤羊肉大餐。
-   **英文**：The waiter served roasted lamb with fresh vegetables.
-   > **解析**：lamb 表示“羊肉/小羊”。
+9. **中文**：我想买一些纪念品。
+   **英文**：I want to buy some souvenirs.
+   > **解析**：want 后接不定式 to buy；souvenirs 用复数表示"一些"。
 
-10. **中文**：发言人在演说中阐述了几个关键的要点。
-   **英文**：She made an interesting point during the lively debate.
-   > **解析**：point 表示“要点/观点”。
+10. **中文**：说服他试试这道菜。
+   **英文**：Convince him to try the dish.
+   > **解析**：祈使句以动词原形开头；convince someone to do something 是固定结构。
 
-11. **中文**：当向陌生人寻路时，请务必礼貌地提问。
-   **英文**：He answered all the interviewer's questions politely.
-   > **解析**：politely 表示“礼貌地”。
+11. **中文**：我们坐巴士去度假村吧。
+   **英文**：We'd take the bus to the resort.
+   > **解析**：we'd = we would，表示倾向性建议；take the bus 是固定搭配。
 
-12. **中文**：我们在项目筹备方面取得了巨大的进展。
-   **英文**：The team made steady progress toward their yearly goals.
-   > **解析**：progress 表示“进步/进展”。
+12. **中文**：这道菜很辣，但很好吃。
+   **英文**：The dish is spicy, but it is delicious.
+   > **解析**：but 连接两个转折分句；两个分句各自保持主谓一致。
 
-13. **中文**：在大庭广众之下打断别人说话是非常无礼的。
-   **英文**：It is rude to speak loudly inside the quiet library.
-   > **解析**：rude 表示“无礼的/不礼貌的”。
+13. **中文**：下雨了，所以我们最好待在酒店。
+   **英文**：It is raining, so we'd better stay at the resort.
+   > **解析**：so 引出结果分句；we'd better 此处是 we had better，后接动词原形。
 
-14. **中文**：导游说最精彩的风景位于山脊的顶端。
-   **英文**：The guide said that the view from the top is amazing.
-   > **解析**：say / said 表示“说”。
+14. **中文**：你有什么推荐的吗？
+   **英文**：What would you recommend?
+   > **解析**：疑问词 What 提前，would 置于主语 you 之前；recommend 作及物动词，宾语为 What。
 
-15. **中文**：这道烤鱼口感鲜美，所以大家都非常喜欢。
-   **英文**：The dish is delicious, so we ordered a second portion.
-   > **解析**：so 表示“因此/所以”。
+15. **中文**：据说这家餐厅的羊肉很棒。
+   **英文**：They say the lamb here is great.
+   > **解析**：They say 是"据说"的口语表达；the lamb here 是从句主语，is 与单数主语搭配。
 
-16. **中文**：你可以采取这个有效的建议来改善你的演讲。
-   **英文**：You can take this helpful advice to improve your speech.
-   > **解析**：take 表示“采取/接受”。
+16. **中文**：我的进步很大。
+   **英文**：I have made a lot of progress.
+   > **解析**：make progress 是固定搭配，progress 不可数；have made 是现在完成时。
 
-17. **中文**：如果我们早点出发，我们本可以避开拥堵的高峰期。
-   **英文**：We could see the magnificent waterfall from the bridge.
-   > **解析**：could 表示“能够/可以”。
+17. **中文**：这个选择有意义吗？
+   **英文**：Is there a point to this option?
+   > **解析**：there is 的疑问形式 Is there；a point to 表示"……的意义"。
 
-18. **中文**：你愿意这周末和我们一起去参观艺术展吗？
-   **英文**：Would you like to try some of this traditional dish?
-   > **解析**：Would you 表示“你愿意……吗”（礼貌邀请）。
+18. **中文**：到周五之前你能决定吗？
+   **英文**：Could you decide by Friday?
+   > **解析**：Could 表委婉请求；by Friday 表示"到周五为止"，by 表截止时间。
 
-19. **中文**：我们过去很乐意在假期去那座海岛露营。
-   **英文**：We'd love to visit the national park this summer.
-   > **解析**：we'd 表示 we would / we had。
+19. **中文**：她是素食者，所以不吃羊肉。
+   **英文**：She is a vegetarian, so she doesn't eat lamb.
+   > **解析**：so 连接因果分句；doesn't eat 是第三人称单数否定形式。
 
-20. **中文**：要是我处在你的位置，我也过去很乐意接受这工作。
-   **英文**：I knew you'd enjoy the scenic mountain trail.
-   > **解析**：you'd 表示 you would / you had。
+20. **中文**：你可以给我看看菜单吗？
+   **英文**：Could you show me the menu?
+   > **解析**：Could you 是委婉请求句型；show me the menu 是双宾语结构。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Taking a guided bus tour is a great option for tourists.
-   > **中文**：你可以选择乘坐观光巴士或者徒步游览山谷。
+1. Would you like the lamb?
+   > **中文**：您想来份羊肉吗？
 
-2. I strongly recommend visiting the famous waterfall.
-   > **中文**：导游向我们强烈推荐那家老字号素食餐厅。
+2. You'd love the soup here.
+   > **中文**：你会喜欢这里的汤。
 
-3. They stayed at a luxury beach resort during vacation.
-   > **中文**：那座豪华的海滨度假胜地吸引了无数游客。
+3. We'd recommend the vegetarian option.
+   > **中文**：我们推荐素食选项。
 
-4. She bought a handmade souvenir at the local gift shop.
-   > **中文**：我们在纪念品商店买了一些精美的涂鸦手工艺品。
+4. You could try the fish instead.
+   > **中文**：你可以改试试鱼。
 
-5. The chef prepared a healthy vegetarian dish for us.
-   > **中文**：这家餐馆专门为素食主义者提供特制菜单。
+5. What would you recommend?
+   > **中文**：你有什么推荐的吗？
 
-6. A beautiful waterfall cascades down the steep mountain cliff.
-   > **中文**：湍急的瀑布从高耸的峭壁上飞流直下。
+6. She refused politely.
+   > **中文**：她礼貌地拒绝了。
 
-7. He tried to convince his manager to accept the proposal.
-   > **中文**：他试图在会议上说服大家接受新方案。
+7. It is rude to point at people.
+   > **中文**：用手指人是不礼貌的。
 
-8. I doubt that the rain will stop before this afternoon.
-   > **中文**：我严重怀疑他能否在今晚前按时赶回来。
+8. I doubt that he will come.
+   > **中文**：我怀疑他会不会来。
 
-9. The waiter served roasted lamb with fresh vegetables.
-   > **中文**：主厨精心准备了一道香烤烤羊肉大餐。
+9. They say the lamb is great.
+   > **中文**：据说羊肉很棒。
 
-10. She made an interesting point during the lively debate.
-   > **中文**：发言人在演说中阐述了几个关键的要点。
+10. There is a resort by the waterfall.
+   > **中文**：瀑布旁有一家度假酒店。
 
-11. He answered all the interviewer's questions politely.
-   > **中文**：当向陌生人寻路时，请务必礼貌地提问。
+11. I want to buy a souvenir.
+   > **中文**：我想买一件纪念品。
 
-12. The team made steady progress toward their yearly goals.
-   > **中文**：我们在项目筹备方面取得了巨大的进展。
+12. We'd better take the bus.
+   > **中文**：我们最好坐巴士。
 
-13. It is rude to speak loudly inside the quiet library.
-   > **中文**：在大庭广众之下打断别人说话是非常无礼的。
+13. Convince her to try the dish.
+   > **中文**：说服她尝尝这道菜。
 
-14. The guide said that the view from the top is amazing.
-   > **中文**：导游说最精彩的风景位于山脊的顶端。
+14. The dish is spicy, but it is delicious.
+   > **中文**：这道菜很辣，但很好吃。
 
-15. The dish is delicious, so we ordered a second portion.
-   > **中文**：这道烤鱼口感鲜美，所以大家都非常喜欢。
+15. It is raining, so we'd better stay.
+   > **中文**：下雨了，所以我们最好留下。
 
-16. You can take this helpful advice to improve your speech.
-   > **中文**：你可以采取这个有效的建议来改善你的演讲。
+16. I have made a lot of progress.
+   > **中文**：我取得了很大的进步。
 
-17. We could see the magnificent waterfall from the bridge.
-   > **中文**：如果我们早点出发，我们本可以避开拥堵的高峰期。
+17. Could you decide by Friday?
+   > **中文**：你能在周五之前决定吗？
 
-18. Would you like to try some of this traditional dish?
-   > **中文**：你愿意这周末和我们一起去参观艺术展吗？
+18. She is a vegetarian.
+   > **中文**：她是素食者。
 
-19. We'd love to visit the national park this summer.
-   > **中文**：我们过去很乐意在假期去那座海岛露营。
+19. Is there a point to this option?
+   > **中文**：这个选择有意义吗？
 
-20. I knew you'd enjoy the scenic mountain trail.
-   > **中文**：要是我处在你的位置，我也过去很乐意接受这工作。
+20. Could you show me the menu?
+   > **中文**：你可以给我看看菜单吗？
 
 </quiz-listening>
 
@@ -203,26 +212,32 @@ but, by, convince, could, doubt that, lamb, option, point, politely, progress, r
 
 | 英文单词 | 课文释义 |
 | --- | --- |
+| but | 但是 |
+| by | 在……旁 / 到……为止 |
 | convince | 说服 |
-| doubt that | 怀疑某事 |
+| could | 可以（委婉） |
+| doubt that | 怀疑…… |
 | lamb | 羊肉 |
-| option | 选择 / 选项 |
-| point | 要点 / 观点 |
+| option | 选项 |
+| point | 要点 / 意义 |
 | politely | 礼貌地 |
+| progress | 进步 |
 | recommend | 推荐 |
 | resort | 度假胜地 |
+| rude | 粗鲁的 |
+| say | 说 / 据说 |
+| so | 所以 |
 | souvenir | 纪念品 |
-| vegetarian | 素食主义者 |
+| take | 乘坐 / 采取 |
+| vegetarian | 素食者 |
 | waterfall | 瀑布 |
-| we'd | 我们过去会 / 想要 |
-| you'd | 你过去会 / 想要 |
-| rude | 无礼的 |
-| progress | 进步 |
-| said | 说了（say的过去式） |
-| take | 采取 / 拿 |
-| could | 能够 |
-| so | 因此 / 所以 |
-| Would you | 你愿意……吗 |
+| we would | 我们会 |
+| we'd | we would 的缩写 |
+| would you | 您愿意……吗 |
+| you'd | you would 的缩写 |
+| the | 这个 / 那个 |
+| dish | 菜 / 菜肴 |
+| like | 喜欢 |
 
 </quiz-matching>
 
@@ -230,202 +245,202 @@ but, by, convince, could, doubt that, lamb, option, point, politely, progress, r
 
 ### 1
 
-Taking a guided bus tour is a great ____ for tourists.
+____ you like the lamb?
 
-- [x] option
-- [ ] but
-- [ ] by
+- [x] Would
+- [ ] Are
+- [ ] Did
 
-> **解析**：**option** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Would you like 是礼貌提议的固定句型；Are 和 Did 无法构成此表达。
 
 ### 2
 
-I strongly ____ visiting the famous waterfall.
+You'd ____ this dish.
 
-- [x] recommend
-- [ ] but
-- [ ] by
+- [x] love
+- [ ] loving
+- [ ] loved
 
-> **解析**：**recommend** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：you'd = you would，后接动词原形 love；其余形式不能跟在 would 后。
 
 ### 3
 
-They stayed at a luxury beach ____ during vacation.
+We'd ____ the vegetarian option.
 
-- [x] resort
-- [ ] but
-- [ ] by
+- [x] recommend
+- [ ] doubt
+- [ ] refuse
 
-> **解析**：**resort** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：recommend（推荐）与 vegetarian option 搭配合理；doubt 和 refuse 语义不符。
 
 ### 4
 
-She bought a handmade ____ at the local gift shop.
+You could ____ the soup instead.
 
-- [x] souvenir
-- [ ] but
-- [ ] by
+- [x] try
+- [ ] tried
+- [ ] trying
 
-> **解析**：**souvenir** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：could 是情态动词，后接动词原形 try。
 
 ### 5
 
-The chef prepared a healthy ____ dish for us.
+I doubt ____ he will come.
 
-- [x] vegetarian
-- [ ] but
-- [ ] by
+- [x] that
+- [ ] what
+- [ ] where
 
-> **解析**：**vegetarian** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：doubt 后接 that 引导的宾语从句；what 和 where 改变句意，不合语境。
 
 ### 6
 
-A beautiful ____ cascades down the steep mountain cliff.
+She refused ____.
 
-- [x] waterfall
-- [ ] but
-- [ ] by
+- [x] politely
+- [ ] polite
+- [ ] rudeness
 
-> **解析**：**waterfall** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰动词 refused 需要副词 politely；polite 是形容词，rudeness 是名词。
 
 ### 7
 
-He tried to ____ his manager to accept the proposal.
+It is ____ to point at people.
 
-- [x] convince
-- [ ] but
-- [ ] by
+- [x] rude
+- [ ] politely
+- [ ] convince
 
-> **解析**：**convince** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 rude 作表语；politely 是副词，convince 是动词。
 
 ### 8
 
-I doubt that the rain will stop before this ____.
+There is a resort ____ the waterfall.
 
-- [x] afternoon
+- [x] by
 - [ ] but
-- [ ] by
+- [ ] so
 
-> **解析**：**afternoon** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：by 表示"在……旁边"；but 是转折连词，so 是因果连词。
 
 ### 9
 
-The waiter served roasted ____ with fresh vegetables.
+They say the lamb here is ____.
 
-- [x] lamb
-- [ ] but
-- [ ] by
+- [x] great
+- [ ] rude
+- [ ] point
 
-> **解析**：**lamb** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 great；rude 语义不符，point 是名词。
 
 ### 10
 
-She made an interesting ____ during the lively debate.
+She is a ____, so she doesn't eat lamb.
 
-- [x] point
-- [ ] but
-- [ ] by
+- [x] vegetarian
+- [ ] souvenir
+- [ ] waterfall
 
-> **解析**：**point** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：不吃羊肉说明是素食者（vegetarian）；另外两项是物，不能作身份。
 
 ### 11
 
-He answered all the interviewer's questions ____.
-
-- [x] politely
-- [ ] but
-- [ ] by
-
-> **解析**：**politely** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 12
-
-The team made steady ____ toward their yearly goals.
-
-- [x] progress
-- [ ] but
-- [ ] by
-
-> **解析**：**progress** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 13
-
-It is ____ to speak loudly inside the quiet library.
-
-- [x] rude
-- [ ] but
-- [ ] by
-
-> **解析**：**rude** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 14
-
-The guide said that the view from the top is ____.
-
-- [x] amazing
-- [ ] but
-- [ ] by
-
-> **解析**：**amazing** 为动词的现在分词/动名词形式，配合句中语法结构。
-
-### 15
-
-The dish is delicious, ____ we ordered a second portion.
+It is raining, ____ we'd better stay.
 
 - [x] so
 - [ ] but
 - [ ] by
 
-> **解析**：**so** 为结果连词，表示“因此 / 所以”。
+> **解析**：so 引出结果分句；but 表转折，by 是介词，都不能连接此处的因果。
+
+### 12
+
+Convince her ____ try the dish.
+
+- [x] to
+- [ ] for
+- [ ] at
+
+> **解析**：convince someone to do something 是固定结构；其余介词不成立。
+
+### 13
+
+I have made a lot of ____.
+
+- [x] progress
+- [ ] option
+- [ ] point
+
+> **解析**：make progress 是固定搭配；option 和 point 不能与 make a lot of 构成此义。
+
+### 14
+
+Could you decide ____ Friday?
+
+- [x] by
+- [ ] but
+- [ ] so
+
+> **解析**：by Friday 表示"到周五为止"，by 表截止时间；but 和 so 是连词。
+
+### 15
+
+What would you ____?
+
+- [x] recommend
+- [ ] recommends
+- [ ] recommending
+
+> **解析**：would 后接动词原形 recommend；其余形式不能跟在情态动词后。
 
 ### 16
 
-You can ____ this helpful advice to improve your speech.
+The dish is spicy, ____ it is delicious.
 
-- [x] take
-- [ ] but
+- [x] but
+- [ ] so
 - [ ] by
 
-> **解析**：**take** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：辣却好吃是转折关系，用 but；so 表结果，不合语境。
 
 ### 17
 
-We ____ see the magnificent waterfall from the bridge.
+We'd better ____ the bus.
 
-- [x] could
-- [ ] but
-- [ ] by
+- [x] take
+- [ ] taking
+- [ ] took
 
-> **解析**：**could** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：had better 后接动词原形 take；其余形式不成立。
 
 ### 18
 
-Would you like to try some of this ____ dish?
+I want to buy a ____.
 
-- [x] traditional
-- [ ] but
-- [ ] by
+- [x] souvenir
+- [ ] polite
+- [ ] progress
 
-> **解析**：**traditional** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：buy 后需要可购买的名词 souvenir；polite 是形容词，progress 不可数且不用于购买。
 
 ### 19
 
-____ love to visit the national park this summer.
+____ is a point to this option.
 
-- [x] We'd
-- [ ] but
-- [ ] by
+- [x] There
+- [ ] They
+- [ ] That
 
-> **解析**：**We'd** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：There is 表示"有"；They is 主语代词需接动词，That 改变句意。
 
 ### 20
 
-I knew ____ enjoy the scenic mountain trail.
+We would visit the ____, by the sea.
 
-- [x] you'd
-- [ ] but
-- [ ] by
+- [x] resort
+- [ ] rude
+- [ ] politely
 
-> **解析**：**you'd** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：visit 后需要地点名词 resort；rude 和 politely 不是名词。
 
 </quiz-cloze>

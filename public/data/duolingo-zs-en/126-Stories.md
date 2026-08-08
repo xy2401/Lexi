@@ -10,40 +10,37 @@ besides, brave, candle, celebration, cushion, discover, fight, firework, fought,
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"分享对故事的兴奋"展开。核心是故事表达：The brave prince fought the monster and saved the princess!（勇敢的王子打败了怪物，救了公主！）、They discovered a shiny object in the palace.（他们在宫殿里发现了一个闪亮的东西。）、Look out! You might get hurt!（小心！你可能会受伤！）、Besides the fireworks, there was a fountain celebration.（除了烟花，还有喷泉庆典。）。
+本单元的主题是"兴奋地分享故事"，词表可以分成三组：故事人物与场景（prince, princess, monster, palace, brave, discover, fight, fought）、节日与物件（celebration, firework, candle, fountain, cushion, object, shiny）、以及表达变化与反应的短语（get, get excited, get hurt, get lost, get stolen, look out, wave, toward, shoulder, besides, whatever）。拼起来就是一个童话故事：The brave prince fights the monster and discovers a shiny object in the palace.
 
-词表里有故事词汇（prince, princess, monster, palace, brave）和动作短语（get lost, get hurt, get stolen）。你可以练习：The prince waved toward the crowd. / She sat on a cushion by the candle. / Whatever happens, be brave! / They fought and won.
+语法主线是 get + 形容词/过去分词表示"变得、遭遇"：get excited（变得兴奋）、get lost（迷路）、get hurt（受伤）、get stolen（被偷）。get 在这里比 be 更强调变化的过程。另一条主线是不规则动词 fight → fought：They fight the monster. / They fought bravely. 感叹与提醒用语 look out（小心）和 whatever（无论什么）则让讲述更有画面感。
 
-get + 过去分词（get hurt, get lost, get stolen）表示"变得……/遭遇……"。
+学完这单元，你能用英语讲一个有冲突、有转折的小故事，还能表达听故事时的兴奋和担心。
 
 ## Tips
 
-- **brave / prince / princess** — 勇敢的 / 王子 / 公主。搭配：a brave prince, the princess, a brave hero。例句：The brave prince saved the princess. / The princess lived in a palace. 注意 brave 可形容男女。
+- **get + 形容词/分词** — 本单元核心结构，表示"变得"或"遭遇"：get excited（兴奋起来）、get hurt（受伤）。与 be 相比强调变化：She got excited when she heard the story. 注意 ✗ I excited → ✓ I got excited / I was excited。
 
-- **monster / fight / fought** — 怪物 / 打架 / 打了。搭配：a scary monster, fight the monster, fought bravely。例句：The monster was huge! / They fought the monster. / He fought bravely. 注意 fight → fought → fought。
+- **get excited / get hurt / get lost / get stolen** — 四个常用 get 短语。get excited 变兴奋；get hurt 受伤；get lost 迷路（lost 是 lose 的过去分词）；get stolen 被偷，含被动意义：My bag got stolen.
 
-- **palace / fountain / candle** — 宫殿 / 喷泉 / 蜡烛。搭配：a beautiful palace, a fountain, light a candle。例句：The palace was enormous. / There's a fountain in the garden. / Light the candles! 注意 palace 指皇家宫殿。
+- **fight / fought** — fight 打架、搏斗，过去式和过去分词都是 fought（不规则）。fight with someone（和某人打架）、fight the monster（打怪兽）。名词用法：a big fight。
 
-- **get hurt / get lost / get stolen** — 受伤 / 迷路 / 被偷。搭配：get hurt, get lost in the woods, get stolen。例句：Be careful or you'll get hurt! / We got lost in the forest. / My bag got stolen! 注意 get + 过去分词 = 被动/遭遇。
+- **brave** — 勇敢的，形容词：a brave prince。副词是 bravely：They fought bravely. 近义词 courageous，但 brave 更常用。
 
-- **discover / shiny / object** — 发现 / 闪亮的 / 物体。搭配：discover something, a shiny object, a strange object。例句：They discovered a shiny object. / What is this object? 注意 discover 强调"发现新事物"。
+- **discover** — 发现（原本存在但无人知晓的事物）：discover a shiny object。与 invent（发明原本不存在的东西）区分。名词 discovery。
 
-- **look out / whatever** — 小心 / 无论什么。搭配：Look out! / Whatever happens, ...。例句：Look out! There's a monster! / Whatever you do, be brave. 注意 Look out! = Watch out! = Be careful!
+- **prince / princess / monster** — 故事三主角。prince 王子，princess 公主（prince + -ess 女性后缀），monster 怪物。童话标配：The princess is in the palace.
 
-- **firework / celebration / wave** — 烟花 / 庆典 / 挥手。搭配：fireworks display, a celebration, wave at。例句：The fireworks were amazing! / It was a big celebration. / The princess waved at the crowd. 注意 firework 通常用复数 fireworks。
+- **palace / fountain / candle** — 场景词。palace 宫殿；fountain 喷泉；candle 蜡烛。复数注意：candles 直接加 s。
 
-- **besides / toward / shoulder** — 除了 / 朝向 / 肩膀。搭配：besides that, toward the palace, on my shoulder。例句：Besides the monster, there were dragons. / He walked toward the palace. / She touched my shoulder. 注意 besides = in addition to。
+- **celebration / firework** — celebration 庆典，来自 celebrate + -tion。firework 烟花，常用复数 fireworks：watch fireworks during the celebration。
 
-- **get excited / cushion** — 兴奋 / 靠垫。搭配：get excited about, Don't get too excited, a soft cushion。例句：The kids got excited about the fireworks. / Sit on the cushion. 注意 get excited = become excited。
+- **look out / wave / toward** — look out 是提醒"小心！"，等于 watch out。wave 挥手（动词）或波浪（名词）。toward 朝向，介词：wave toward the princess。美式拼写 toward，英式常写 towards。
 
-- **candle / shiny / brave** — 蜡烛 / 闪亮 / 勇敢。搭配：a candle, shiny gold, be brave。例句：The candle was shiny. / The shiny sword was beautiful. / Be brave like the prince!
+- **shoulder / cushion / object / shiny** — shoulder 肩膀；cushion 靠垫；object 物体、对象；shiny 闪亮的（shine + -y）。描述宝物常说 a shiny object。
 
-- **wave / toward / look out** — 挥手 / 朝 / 小心。搭配：wave goodbye, toward the door, Look out! 例句：She waved toward the crowd. / He ran toward the palace. / Look out behind you!
-
-- **whatever / get / besides** — 无论什么 / 变得 / 除了。搭配：Whatever happens, get ready, besides that。例句：Whatever happens, stay brave. / Get ready for the celebration! / Besides the prince, who else was there?
+- **besides / whatever** — besides"此外、除了……还有"：Besides the prince, the monster is brave too. whatever"无论什么"，也可口语回应表示"随便吧"：Whatever! 注意与 except（除了……不含）区分。
 
 ## 练习
 
@@ -61,149 +58,149 @@ get + 过去分词（get hurt, get lost, get stolen）表示"变得……/遭遇
 
 <quiz-sentence-builder>
 
-1. **中文**：勇敢的王子在城堡皇宫里与凶恶的怪兽搏斗。  
-   **英文**：The brave prince fought the fierce monster in the palace.
-   > **解析**：brave 表示“勇敢的”；prince 表示“王子”；fought 是 fight 的过去式；monster 表示“怪兽”；palace 表示“皇宫/宫殿”。
+1. **中文**：勇敢的王子打败了怪物。
+   **英文**：The brave prince fought the monster.
+   > **解析**：fought 是 fight 的过去式；brave 作定语修饰 prince。
 
-2. **中文**：美丽的女王在喷泉边发现了一个熠熠生辉的宝箱。  
-   **英文**：The princess discovered a shiny object by the fountain.
-   > **解析**：princess 表示“公主/王妃”；discover / discovered 表示“发现”；shiny 表示“熠熠生辉的/闪光的”；fountain 表示“喷泉”。
+2. **中文**：她在宫殿里发现了一个闪亮的东西。
+   **英文**：She discovered a shiny object in the palace.
+   > **解析**：discovered 是过去式；shiny 修饰 object，in the palace 是地点状语。
 
-3. **中文**：在庆祝活动中，大家朝着天空发射了五彩缤纷的烟花。  
-   **英文**：During the celebration, fireworks were launched toward the sky.
-   > **解析**：celebration 表示“庆祝活动”；fireworks 表示“烟花”；toward 表示“朝向/向”。
+3. **中文**：孩子们看到烟花变得很兴奋。
+   **英文**：The kids got excited about the fireworks.
+   > **解析**：got 是 get 的过去式；get excited about 表示"对……兴奋起来"。
 
-4. **中文**：当心！那个怪兽正挥动着肩膀朝我们走来！  
-   **英文**：Look out! The monster is waving its arms on its shoulder!
-   > **解析**：look out 表示“当心/小心”；wave 表示“挥动”；shoulder 表示“肩膀”。
+4. **中文**：小心！别受伤。
+   **英文**：Look out! Don't get hurt.
+   > **解析**：Look out 是提醒用语；Don't get hurt 是否定祈使句，hurt 是过去分词表被动遭遇。
 
-5. **中文**：除了那些闪光的宝石，皇宫里还有许多精致的靠垫。  
-   **英文**：Besides shiny gems, there are cushions in the palace.
-   > **解析**：besides 表示“除……之外”；cushions 表示“靠垫/垫子”。
+5. **中文**：公主在森林里迷路了。
+   **英文**：The princess got lost in the forest.
+   > **解析**：got lost 表示"迷路了"；in the forest 是地点状语。
 
-6. **中文**：在黑暗中点燃蜡烛，小心不要在战斗中受伤或迷路。  
-   **英文**：Light the candle, and don't get hurt or get lost in battle.
-   > **解析**：candle 表示“蜡烛”；get hurt 表示“受伤”；get lost 表示“迷路”。
+6. **中文**：我的包被偷了。
+   **英文**：My bag got stolen.
+   > **解析**：got stolen 是 get 型被动，表示遭遇；stolen 是 steal 的过去分词。
 
-7. **中文**：无论发生什么，勇敢的战士们都会兴奋地迎接挑战。  
-   **英文**：Whatever happens, brave heroes get excited for the quest.
-   > **解析**：whatever 表示“无论什么”；get excited 表示“感到兴奋/激动”。
+7. **中文**：王子向公主挥手。
+   **英文**：The prince waved toward the princess.
+   > **解析**：waved 是 wave 的过去式；toward 是介词"朝向"。
 
-8. **中文**：防止你的财物被偷，在人群中要多加小心。  
-   **英文**：To keep items from getting stolen, watch your bag closely.
-   > **解析**：get stolen 表示“被偷窃/丢失”。
+8. **中文**：喷泉旁边有蜡烛。
+   **英文**：There are candles beside the fountain.
+   > **解析**：There are 引导复数存在句；beside 表示"在……旁边"。
 
-9. **中文**：勇士在城堡外击败了巨型怪兽。  
-   **英文**：The brave knight fought and defeated the giant monster.
-   > **解析**：fought 是 fight 的过去式；monster 表示“怪兽”。
+9. **中文**：庆典上有烟花。
+   **英文**：There are fireworks at the celebration.
+   > **解析**：fireworks 用复数表示烟花表演；at the celebration 是场合状语。
 
-10. **中文**：美丽的公主微笑着在皇宫庭院里散步。  
-   **英文**：The pretty princess walked happily in the palace yard.
-   > **解析**：princess 表示“公主”；palace 表示“皇宫”。
+10. **中文**：除了怪物，大家都很高兴。
+   **英文**：Besides the monster, everyone is happy.
+   > **解析**：Besides 放句首作评注；everyone 是单数意义，用 is。
 
-11. **中文**：这位年轻的王子继承了王国的所有财富。  
-   **英文**：The young prince inherited all the royal treasure.
-   > **解析**：prince 表示“王子”。
+11. **中文**：无论发生什么，都要勇敢。
+   **英文**：Whatever happens, be brave.
+   > **解析**：Whatever 引导让步状语从句；be brave 是祈使句。
 
-12. **中文**：在古老的遗迹中，考古学家们发现了一件神秘的神秘物件。  
-   **英文**：In the ancient ruins, they discovered a mysterious object.
-   > **解析**：discovered 表示“发现了”；object 表示“物件/物体”。
+12. **中文**：他们勇敢地和怪物搏斗。
+   **英文**：They fought the monster bravely.
+   > **解析**：fought 是 fight 的过去式；bravely 是副词修饰 fought。
 
-13. **中文**：那颗闪闪发光的钻石在阳光下极为抢眼。  
-   **英文**：That shiny diamond sparkled brightly under the sunlight.
-   > **解析**：shiny 表示“闪光的/耀眼的”。
+13. **中文**：公主坐在软垫上。
+   **英文**：The princess sat on a cushion.
+   > **解析**：sat 是 sit 的过去式；on a cushion 是地点状语。
 
-14. **中文**：看哪！夜空中正放着绚丽的烟花！  
-   **英文**：Look! Beautiful fireworks are lighting up the night sky!
-   > **解析**：fireworks 表示“烟花/烟火”。
+14. **中文**：小心那个怪物！
+   **英文**：Look out for that monster!
+   > **解析**：Look out for 表示"提防"；that 修饰 monster。
 
-15. **中文**：当心！前面的路面很滑，容易摔倒受伤！  
-   **英文**：Look out! The icy road makes it easy to get hurt!
-   > **解析**：look out 表示“小心/当心”；get hurt 表示“受伤”。
+15. **中文**：这个故事让我兴奋。
+   **英文**：This story makes me excited.
+   > **解析**：make + 宾语 + 形容词；excited 描述人的感受。
 
-16. **中文**：他们在深山老林里迷路了，直到救援队赶来。  
-   **英文**：They managed not to get lost in the deep mountain forest.
-   > **解析**：get lost 表示“迷路”。
+16. **中文**：他的肩膀受伤了。
+   **英文**：His shoulder got hurt in the fight.
+   > **解析**：got hurt 表示遭遇受伤；in the fight 说明场合。
 
-17. **中文**：王子朝着那座宏伟的皇宫城堡走去。  
-   **英文**：The brave prince walked toward the grand palace castle.
-   > **解析**：toward 表示“朝向/向”。
+17. **中文**：无论你想要什么，都可以告诉我。
+   **英文**：Whatever you want, you can tell me.
+   > **解析**：Whatever you want 是让步从句；can tell 接双宾语 me 和省略的 it。
 
-18. **中文**：不管你选择什么，我都全力支持你的决定。  
-   **英文**：Whatever you choose, I will fully support your choice.
-   > **解析**：whatever 表示“无论什么”。
+18. **中文**：蜡烛亮了，宫殿很漂亮。
+   **英文**：The candles shine and the palace looks beautiful.
+   > **解析**：and 连接两个分句；shine 与 looks 都用一般现在时。
 
-19. **中文**：他在沙发上放了一个非常舒适的靠垫。  
-   **英文**：He put a soft cushion on the sofa for comfortable rest.
-   > **解析**：cushion 表示“靠垫/坐垫”。
+19. **中文**：她朝喷泉走去。
+   **英文**：She walks toward the fountain.
+   > **解析**：She 是第三人称单数，walk 加 s；toward 引导方向。
 
-20. **中文**：蜡烛在柔和的微风中摇曳生姿。  
-   **英文**：The candle flickered gently in the soft evening breeze.
-   > **解析**：candle 表示“蜡烛”。
+20. **中文**：我们庆祝并燃放烟花。
+   **英文**：We celebrate and light the fireworks.
+   > **解析**：celebrate 与 light 是并列动词原形；We 是复数主语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The brave prince fought the fierce monster in the palace.
-   > **中文**：勇敢的王子在城堡皇宫里与凶恶的怪兽搏斗。
+1. The brave prince fought the monster.
+   > **中文**：勇敢的王子打败了怪物。
 
-2. The princess discovered a shiny object by the fountain.
-   > **中文**：美丽的女王在喷泉边发现了一个熠熠生辉的宝箱。
+2. She discovered a shiny object in the palace.
+   > **中文**：她在宫殿里发现了一个闪亮的东西。
 
-3. During the celebration, fireworks were launched toward the sky.
-   > **中文**：在庆祝活动中，大家朝着天空发射了五彩缤纷的烟花。
+3. The kids got excited about the fireworks.
+   > **中文**：孩子们看到烟花兴奋起来。
 
-4. Look out! The monster is waving its arms on its shoulder!
-   > **中文**：当心！那个怪兽正挥动着肩膀朝我们走来！
+4. Look out! Don't get hurt.
+   > **中文**：小心！别受伤。
 
-5. Besides shiny gems, there are cushions in the palace.
-   > **中文**：除了那些闪光的宝石，皇宫里还有许多精致的靠垫。
+5. The princess got lost in the forest.
+   > **中文**：公主在森林里迷路了。
 
-6. Light the candle, and don't get hurt or get lost in battle.
-   > **中文**：在黑暗中点燃蜡烛，小心不要在战斗中受伤或迷路。
+6. My bag got stolen.
+   > **中文**：我的包被偷了。
 
-7. Whatever happens, brave heroes get excited for the quest.
-   > **中文**：无论发生什么，勇敢的战士们都会兴奋地迎接挑战。
+7. The prince waved toward the princess.
+   > **中文**：王子向公主挥手。
 
-8. To keep items from getting stolen, watch your bag closely.
-   > **中文**：防止你的财物被偷，在人群中要多加小心。
+8. There are candles beside the fountain.
+   > **中文**：喷泉旁边有蜡烛。
 
-9. The brave knight fought and defeated the giant monster.
-   > **中文**：勇士在城堡外击败了巨型怪兽。
+9. There are fireworks at the celebration.
+   > **中文**：庆典上有烟花。
 
-10. The pretty princess walked happily in the palace yard.
-   > **中文**：美丽的公主微笑着在皇宫庭院里散步。
+10. Besides the monster, everyone is happy.
+   > **中文**：除了怪物，大家都很高兴。
 
-11. The young prince inherited all the royal treasure.
-   > **中文**：这位年轻的王子继承了王国的所有财富。
+11. Whatever happens, be brave.
+   > **中文**：无论发生什么，都要勇敢。
 
-12. In the ancient ruins, they discovered a mysterious object.
-   > **中文**：在古老的遗迹中，考古学家们发现了一件神秘的神秘物件。
+12. They fought the monster bravely.
+   > **中文**：他们勇敢地和怪物搏斗。
 
-13. That shiny diamond sparkled brightly under the sunlight.
-   > **中文**：那颗闪闪发光的钻石在阳光下极为抢眼。
+13. The princess sat on a cushion.
+   > **中文**：公主坐在软垫上。
 
-14. Look! Beautiful fireworks are lighting up the night sky!
-   > **中文**：看哪！夜空中正放着绚丽的烟花！
+14. Look out for that monster!
+   > **中文**：小心那个怪物！
 
-15. Look out! The icy road makes it easy to get hurt!
-   > **中文**：当心！前面的路面很滑，容易摔倒受伤！
+15. His shoulder got hurt in the fight.
+   > **中文**：他的肩膀在打斗中受伤了。
 
-16. They managed not to get lost in the deep mountain forest.
-   > **中文**：他们在深山老林里迷路了，直到救援队赶来。
+16. She walks toward the fountain.
+   > **中文**：她朝喷泉走去。
 
-17. The brave prince walked toward the grand palace castle.
-   > **中文**：王子朝着那座宏伟的皇宫城堡走去。
+17. We celebrate and light the fireworks.
+   > **中文**：我们庆祝并燃放烟花。
 
-18. Whatever you choose, I will fully support your choice.
-   > **中文**：不管你选择什么，我都全力支持你的决定。
+18. The object is shiny and beautiful.
+   > **中文**：那个东西闪亮又漂亮。
 
-19. He put a soft cushion on the sofa for comfortable rest.
-   > **中文**：他在沙发上放了一个非常舒适的靠垫。
+19. Don't get lost in the palace.
+   > **中文**：别在宫殿里迷路。
 
-20. The candle flickered gently in the soft evening breeze.
-   > **中文**：蜡烛在柔和的微风中摇曳生姿。
+20. I get excited when I hear this story.
+   > **中文**：我听到这个故事就会兴奋。
 
 </quiz-listening>
 
@@ -211,26 +208,37 @@ get + 过去分词（get hurt, get lost, get stolen）表示"变得……/遭遇
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| besides | 除……之外 |
+| besides | 此外 / 除了……还有 |
 | brave | 勇敢的 |
 | candle | 蜡烛 |
-| celebration | 庆祝活动 |
-| cushion | 靠垫 / 坐垫 |
+| celebration | 庆典 |
+| cushion | 靠垫 |
 | discover | 发现 |
-| fight | 战斗 / 打架 |
+| fight | 搏斗 / 打架 |
 | firework | 烟花 |
-| fought | 战斗了（fight的过去式） |
+| fought | 搏斗（fight 的过去式） |
 | fountain | 喷泉 |
-| get excited | 感到兴奋 |
+| get | 变得 / 得到 |
+| get excited | 变得兴奋 |
 | get hurt | 受伤 |
 | get lost | 迷路 |
 | get stolen | 被偷 |
-| look out | 当心 / 小心 |
-| monster | 怪兽 / 怪物 |
-| object | 物件 / 物体 |
-| palace | 皇宫 / 宫殿 |
+| look out | 小心 |
+| monster | 怪物 |
+| object | 物体 |
+| palace | 宫殿 |
 | prince | 王子 |
 | princess | 公主 |
+| shiny | 闪亮的 |
+| shoulder | 肩膀 |
+| toward | 朝向 |
+| wave | 挥手 / 波浪 |
+| whatever | 无论什么 |
+| the | 这 / 那（定冠词） |
+| is | 是（单数） |
+| are | 是（复数） |
+| and | 和 |
+| everyone | 每个人 |
 
 </quiz-matching>
 
@@ -238,202 +246,202 @@ get + 过去分词（get hurt, get lost, get stolen）表示"变得……/遭遇
 
 ### 1
 
-The ____ prince fought the fierce monster in the palace.
+The brave prince ____ the monster.
 
-- [x] brave
-- [ ] besides
-- [ ] candle
+- [x] fought
+- [ ] fight
+- [ ] wave
 
-> **解析**：**brave** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述故事过去的情节用过去式 fought；fight 是原形，wave 语义不符。
 
 ### 2
 
-The ____ discovered a shiny object by the fountain.
+She discovered a shiny ____ in the palace.
 
-- [x] princess
-- [ ] besides
-- [ ] brave
+- [x] object
+- [ ] shoulder
+- [ ] celebration
 
-> **解析**：**princess** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：shiny 修饰名词 object"物体"；shoulder 和 celebration 语义不符。
 
 ### 3
 
-During the ____, fireworks were launched toward the sky.
+The kids got ____ about the fireworks.
 
-- [x] celebration
-- [ ] besides
-- [ ] brave
+- [x] excited
+- [ ] exciting
+- [ ] excitedly
 
-> **解析**：**celebration** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：描述人的感受用 -ed 形容词 excited；exciting 描述事物，excitedly 是副词。
 
 ### 4
 
-Look out! The ____ is waving its arms on its shoulder!
+Look out! Don't get ____.
 
-- [x] monster
-- [ ] besides
-- [ ] brave
+- [x] hurt
+- [ ] hurted
+- [ ] hurting
 
-> **解析**：**monster** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：hurt 的过去分词仍是 hurt（不规则）；hurted 不是单词，hurting 是现在分词。
 
 ### 5
 
-____ shiny gems, there are cushions in the palace.
+The princess got ____ in the forest.
 
-- [x] Besides
-- [ ] brave
-- [ ] candle
+- [x] lost
+- [ ] lose
+- [ ] losing
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Besides**。
+> **解析**：get lost 是固定搭配"迷路"，lost 是过去分词；lose 是原形，losing 是现在分词。
 
 ### 6
 
-Light the ____, and don't get hurt or get lost in battle.
+My bag got ____.
 
-- [x] candle
-- [ ] besides
-- [ ] brave
+- [x] stolen
+- [ ] steal
+- [ ] stole
 
-> **解析**：**candle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get stolen 表示"被偷"，需要过去分词 stolen；steal 是原形，stole 是过去式。
 
 ### 7
 
-____ happens, brave heroes get excited for the quest.
+The prince waved ____ the princess.
 
-- [x] Whatever
+- [x] toward
 - [ ] besides
-- [ ] brave
+- [ ] whatever
 
-> **解析**：**Whatever** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：表示方向用介词 toward；besides 表示"此外"，whatever 不是介词。
 
 ### 8
 
-To keep items from ____ stolen, watch your bag closely.
+There are ____ beside the fountain.
 
-- [x] getting
-- [ ] besides
-- [ ] brave
+- [x] candles
+- [ ] candle
+- [ ] cushions
 
-> **解析**：**getting** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：are 要求复数 candles；candle 是单数。cushions 虽为复数但喷泉旁放蜡烛更符合场景语义。
 
 ### 9
 
-The ____ knight fought and defeated the giant monster.
+There are fireworks at the ____.
 
-- [x] brave
-- [ ] besides
-- [ ] candle
+- [x] celebration
+- [ ] object
+- [ ] shoulder
 
-> **解析**：**brave** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：at the celebration"在庆典上"搭配烟花；object 和 shoulder 语义不符。
 
 ### 10
 
-The pretty ____ walked happily in the palace yard.
+____ the monster, everyone is happy.
 
-- [x] princess
-- [ ] besides
-- [ ] brave
+- [x] Besides
+- [ ] Toward
+- [ ] Whatever
 
-> **解析**：**princess** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Besides"除了……还有"引出例外补充；Toward 表方向，Whatever 不能接名词构成此结构。
 
 ### 11
 
-The young ____ inherited all the royal treasure.
+____ happens, be brave.
 
-- [x] prince
-- [ ] besides
-- [ ] brave
+- [x] Whatever
+- [ ] Besides
+- [ ] Toward
 
-> **解析**：**prince** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Whatever 引导让步从句"无论发生什么"；Besides 和 Toward 不能引导从句。
 
 ### 12
 
-In the ancient ruins, they discovered a mysterious ____.
+They fought the monster ____.
 
-- [x] object
-- [ ] besides
+- [x] bravely
 - [ ] brave
+- [ ] bravery
 
-> **解析**：**object** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰动词 fought 需要副词 bravely；brave 是形容词，bravery 是名词。
 
 ### 13
 
-That ____ diamond sparkled brightly under the sunlight.
+The princess sat on a ____.
 
-- [x] shiny
-- [ ] besides
-- [ ] brave
+- [x] cushion
+- [ ] candle
+- [ ] celebration
 
-> **解析**：**shiny** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：坐在 cushion"靠垫"上；candle 和 celebration 语义不符。
 
 ### 14
 
-Look! ____ fireworks are lighting up the night sky!
+Look out ____ that monster!
 
-- [x] Beautiful
-- [ ] besides
-- [ ] brave
+- [x] for
+- [ ] toward
+- [ ] beside
 
-> **解析**：**Beautiful** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：look out for 是固定搭配"提防"；toward 和 beside 不构成此义。
 
 ### 15
 
-Look out! The icy road makes it easy to ____ hurt!
+His shoulder got ____ in the fight.
 
-- [x] get
-- [ ] besides
-- [ ] brave
+- [x] hurt
+- [ ] fought
+- [ ] discovered
 
-> **解析**：**get** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get hurt 表示受伤；fought 是 fight 的过去式，discovered 语义不符。
 
 ### 16
 
-They managed not to ____ lost in the deep mountain forest.
+She walks ____ the fountain.
 
-- [x] get
+- [x] toward
 - [ ] besides
 - [ ] brave
 
-> **解析**：**get** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：walk toward 表示朝某处走；besides 表补充，brave 是形容词。
 
 ### 17
 
-The ____ prince walked toward the grand palace castle.
+We celebrate and ____ the fireworks.
 
-- [x] brave
-- [ ] besides
-- [ ] candle
+- [x] light
+- [ ] lights
+- [ ] lit
 
-> **解析**：**brave** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：与 celebrate 并列的动词原形 light"点燃"；lights 是第三人称单数，lit 是过去式。
 
 ### 18
 
-____ you choose, I will fully support your choice.
+The object is shiny and ____.
 
-- [x] Whatever
-- [ ] besides
+- [x] beautiful
+- [ ] beautifully
 - [ ] brave
 
-> **解析**：**Whatever** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：与 shiny 并列的形容词 beautiful 作表语；beautifully 是副词，brave 语义不符。
 
 ### 19
 
-He put a soft ____ on the sofa for comfortable rest.
+Don't get lost in the ____.
 
-- [x] cushion
-- [ ] besides
-- [ ] brave
+- [x] palace
+- [ ] candle
+- [ ] object
 
-> **解析**：**cushion** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：在大地点 palace"宫殿"里才可能迷路；candle 和 object 语义不符。
 
 ### 20
 
-The ____ flickered gently in the soft evening breeze.
+I get excited when I ____ this story.
 
-- [x] candle
-- [ ] besides
-- [ ] brave
+- [x] hear
+- [ ] heard
+- [ ] listens
 
-> **解析**：**candle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：when 引导的一般现在时从句用动词原形 hear；heard 是过去式与时态不符，listen 必须接 to 才能带宾语。
 
 </quiz-cloze>

@@ -10,58 +10,31 @@ accessible, amount, between, by the end of, carefully, data, decline, drop, entr
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是"提出一个新的商业点子"——一场创业路演或团队头脑风暴。词表里有大量商业和数据词汇：entrepreneur, investor, profit, stock market, data, rise, decline。你可以这样提案：By the end of the year, the amount of vegan products will rise significantly. If we move in at the right time, profits will level off and then grow. I propose we get the business up and running quietly, then approach investors.（到今年年底，纯素产品的数量将大幅上升。如果我们在合适的时机切入，利润会先企稳再增长。我建议我们先悄悄把业务运转起来，然后再接触投资人。）
+本单元的主题是"提出创业点子"，场景是商业提案与市场趋势分析。词表可以分成四组：趋势动词（rise, drop, decline, level off, gradually, slightly, quickly, quietly, over time, steady）、商业角色与行动（entrepreneur, investor, propose, move in, up and running）、数据与财务（data, amount, profit, stock market, by the end of, between）、以及产品与定位（vacuum cleaner, vegan, accessible, carefully, the right time）。拼起来就是一份提案：Our vegan vacuum cleaner will be up and running by the end of the year. Sales will rise gradually, level off, and then bring steady profit.
 
-rise / decline / level off / drop 是描述趋势的四组核心动词。gradually, slightly, quickly, quietly 是修饰趋势的副词。over time（随着时间推移）和 by the end of（到……末）是时间框架表达。vacuum cleaner（吸尘器）和 vegan（纯素）暗示具体的产品方向。
+语法主线有两个。一是描述趋势的副词搭配：rise quickly（快速上升）、decline slightly（略有下降）、level off（趋于平稳），这是商业英语的核心表达。二是时间框架短语：by the end of...（到……末为止）、over time（随着时间推移）、between... and...（在……之间）。
 
-学完本单元，你能用英语描述市场趋势、提出商业计划，并使用数据化语言增强说服力。
+学完这个单元，你能用英语描述市场趋势、提出商业计划，还能与投资人沟通财务预期。
 
 ## Tips
 
-- **entrepreneur** — "企业家、创业者"。搭配：a successful entrepreneur / an entrepreneurial spirit。注意发音：/ˌɑːntrəprəˈnɜːr/，法语借词，拼写和发音都不规则。比 businessman 更强调"创新和冒险"。
+- **rise / drop / decline / level off** — 四个趋势动词。rise = 上升：Prices rose. drop = 下跌：Sales dropped. decline = 下降（较正式）；level off = 趋于平稳：Growth leveled off in June. ✗ drop down 的 down 多余（口语可接受）✓ drop 即可。
 
-- **investor** — "投资者"。搭配：attract investors / an angel investor（天使投资人）。动词 invest，名词 investment。注意 -or 结尾。在创业语境中，investor 是提供资金的人。
+- **gradually / slightly / quickly / quietly / steady** — 趋势副词与形容词。gradually = 逐渐地；slightly = 轻微地：rose slightly；quickly = 迅速地；quietly = 悄悄地：The company quietly moved in. steady = 稳定的：steady growth（注意是形容词，steadily 才是副词）。
 
-- **profit** — "利润、盈利"。搭配：make a profit / profit margin / net profit。动词：profit from something。比 income（收入）更精确，指"收入减去成本后的剩余"。注意 -fit 结尾。
+- **entrepreneur / investor / propose** — entrepreneur = 创业者（源自法语）；investor = 投资人（invest + -or）；propose = 提议：propose a plan。
 
-- **stock market** — "股票市场、股市"。搭配：invest in the stock market / a stock market crash。stock = 股票，market = 市场。比 stock exchange（证券交易所）更广义，指整个交易市场。
+- **up and running / move in / the right time** — up and running = 正常运转、启动：The shop is up and running. move in = 搬入、进驻市场；the right time = 合适的时机：Wait for the right time.
 
-- **level off** — "趋于平稳、企稳"。Sales leveled off after the initial rush. 比 stabilize 更口语、更有画面感。画面：曲线上升后变平。类似：flatten out。
+- **profit / stock market / data / amount** — profit = 利润：make a profit；stock market = 股市；data = 数据（单复数同形，口语常作单数）；amount = 数量：a large amount of money。
 
-- **up and running** — "运转起来、正常运营"。The business is up and running. / Get the website up and running. 非常地道的口语表达，比 operating 更生动。暗示"从筹备到正式运作"。
+- **by the end of / between / over time** — by the end of = 到……末为止（常与完成时或将来时连用）；between = 在……之间：between 2024 and 2026；over time = 随着时间推移。
 
-- **move in** — "迁入、进入（市场）"。move in at the right time / move into a new market。在商业语境中 = 切入、进入。比 enter 更口语，带有"抓住时机"的意味。
+- **vacuum cleaner / vegan / accessible** — vacuum cleaner = 吸尘器；vegan = 纯素的、纯素食者：vegan products；accessible = 容易获得的、平易近人的：accessible prices。
 
-- **the right time** — "合适的时机"。搭配：at the right time / wait for the right time。比 the correct time 更自然。在商业中，timing（时机）常被视为成功关键。
-
-- **gradually** — "逐渐地"。gradually increase / gradually expand。比 slowly 更强调"一步步、有阶段"。形容词 gradual。注意 -ually 结尾。在描述趋势时极高频。
-
-- **slightly** — "轻微地、略微"。slightly increase / slightly higher。比 a little 更正式。形容词 slight。在数据描述中：a slight drop / slightly below。注意 -ly 结尾。
-
-- **decline** — "下降、衰退"。Sales declined by 10%. / a decline in profits。比 decrease 更正式，常暗示"持续走低"。名词和动词同形。注意 -cline 结尾。反义词 incline。
-
-- **rise** — "上升、增长"。Prices rose sharply. / a rise in demand。不规则动词：rise - rose - risen。比 increase 更常用于图表描述。注意和 raise（及物动词）区分。
-
-- **drop** — "下降、下跌"。The stock dropped 5%. / a sudden drop。比 fall 更口语、更有"突然"的感觉。名词和动词同形。在商业新闻中极高频。
-
-- **over time** — "随着时间推移、久而久之"。Over time, the market will grow. 比 gradually 更强调"长时间跨度"。注意 over 不是 during：over time = 经过一段时间。
-
-- **by the end of** — "到……末为止"。By the end of the year, we'll have 100 customers. 用将来完成时搭配。比 at the end of 更强调"截止到那个时间点"。注意 by 表"不晚于"。
-
-- **propose** — "提议、建议"。propose a plan / I propose that we wait。比 suggest 更正式，常用于会议和商务。名词 proposal。注意 -ose 结尾。后接 that 从句时可用 should 或虚拟语气。
-
-- **accessible** — "可获得的、易接近的"。accessible products / make it accessible to everyone。动词 access。比 available 更强调"容易获取/使用"。注意 -ible 结尾。
-
-- **data** — "数据"。搭配：collect data / analyze data / data shows that...。严格来说 data 是 datum 的复数，但现在常作不可数名词：The data is... 注意发音：/ˈdeɪtə/ 或 /ˈdætə/。
-
-- **steady** — "稳定的、平稳的"。steady growth / a steady income。比 stable 更强调"持续、不波动"。动词 steady = 使稳定。注意 -dy 结尾。副词 steadily。
-
-- **vacuum cleaner** — "吸尘器"。由 vacuum（真空）+ cleaner（清洁器）组成。搭配：a robot vacuum cleaner。注意 vacuum 的拼写：两个 u，-uum 结尾。口语中常简称 vacuum。
-
-- **vegan** — "纯素的、纯素者"。a vegan diet / a vegan restaurant。比 vegetarian（素食者）更严格，排除所有动物制品。注意发音：/ˈviːɡən/，不是 /ˈveɪɡən/。
+- **carefully** — 仔细地：analyze the data carefully。放在动词或宾语之后。
 
 ## 练习
 
@@ -79,176 +52,191 @@ rise / decline / level off / drop 是描述趋势的四组核心动词。gradual
 
 <quiz-sentence-builder>
 
-1. **中文**：那位年轻的企业家向天使投资人展示了他的商业计划。
-   **英文**：The young entrepreneur presented his business plan to angel investors.
-   > **解析**：entrepreneur 意为企业家、创业者。
+1. **中文**：销量在六月快速上升。
+   **英文**：Sales rose quickly in June.
+   > **解析**：rose 是 rise 的过去式；quickly 作副词修饰 rose。
 
-2. **中文**：投资者对这个纯素食品项目表现出了浓厚的兴趣。
-   **英文**：The investor showed keen interest in the vegan food startup.
-   > **解析**：investor 意为投资者。
+2. **中文**：价格略有下降。
+   **英文**：Prices dropped slightly last month.
+   > **解析**：dropped 是过去式；slightly 表示程度"轻微地"。
 
-3. **中文**：我们预计第一季度的利润将增长百分之十五。
-   **英文**：We expect our net profit to grow by fifteen percent in Q1.
-   > **解析**：profit 意为利润。
+3. **中文**：增长在三月趋于平稳。
+   **英文**：Growth leveled off in March.
+   > **解析**：level off 是固定短语"趋于平稳"；leveled 是过去式。
 
-4. **中文**：在股市波动期间投资科技公司股票需要谨慎。
-   **英文**：Investing during stock market fluctuations requires great caution.
-   > **解析**：stock market 意为股票市场、股市。
+4. **中文**：需求逐渐下降。
+   **英文**：Demand declined gradually over time.
+   > **解析**：decline 是较正式的"下降"；gradually 和 over time 都是时间状语。
 
-5. **中文**：在经过快速增长后，销售额预计将在下个季度趋于平稳。
-   **英文**：Sales are expected to level off in the next quarter after rapid growth.
-   > **解析**：level off 意为趋于平稳、企稳。
+5. **中文**：公司保持着稳定的利润。
+   **英文**：The company keeps a steady profit.
+   > **解析**：steady 是形容词修饰 profit；keeps 是单三形式。
 
-6. **中文**：经过数月的准备，我们的新电商平台终于运转起来了。
-   **英文**：Our new e-commerce platform is finally up and running smoothly.
-   > **解析**：up and running 意为运转起来。
+6. **中文**：我提议推出一款新产品。
+   **英文**：I propose launching a new product.
+   > **解析**：propose 后接动名词 launching 作宾语。
 
-7. **中文**：如果我们在合适的时机切入，就能占据相当大的市场份额。
-   **英文**：If we move in at the right time, we can capture market share.
-   > **解析**：move in 意为切入、进入（市场）。
+7. **中文**：到年底，工厂就会正常运转。
+   **英文**：By the end of the year, the factory will be up and running.
+   > **解析**：By the end of 表示截止时间；up and running 是固定表达"正常运转"。
 
-8. **中文**：抓住合适的时机推出新产品对于商业成功至关重要。
-   **英文**：Choosing the right time to launch a new product is crucial.
-   > **解析**：the right time 意为合适的时机。
+8. **中文**：投资人希望看到数据。
+   **英文**：The investors want to see the data.
+   > **解析**：want to do 结构；data 作 see 的宾语。
 
-9. **中文**：消费者对纯素产品的需求正在逐年逐渐增加。
-   **英文**：Consumer demand for vegan products is gradually increasing each year.
-   > **解析**：gradually 意为逐渐地。
+9. **中文**：这位创业者需要一大笔资金。
+   **英文**：The entrepreneur needs a large amount of money.
+   > **解析**：a large amount of + 不可数名词；needs 是单三形式。
 
-10. **中文**：上个月公司的生产成本仅有了轻微上升。
-   **英文**：Production costs for the company have increased only slightly.
-   > **解析**：slightly 意为轻微地、略微。
+10. **中文**：股市在 2024 和 2026 之间会有波动。
+   **英文**：The stock market will move between 2024 and 2026.
+   > **解析**：between... and... 表示范围；will move 是将来的预测。
 
-11. **中文**：传统吸尘器的销量在过去几年里持续下降。
-   **英文**：Sales of traditional vacuum cleaners showed a steady decline.
-   > **解析**：decline 意为下降、衰退。
+11. **中文**：新款吸尘器进驻了我们的市场。
+   **英文**：The new vacuum cleaner moved in on our market.
+   > **解析**：move in 此处指"进驻"；moved 是过去式。
 
-12. **中文**：到今年年底，我们的用户数量将会大幅上升。
-   **英文**：The number of active users will rise significantly by year end.
-   > **解析**：rise 意为上升、增长。
+12. **中文**：我们只做纯素产品。
+   **英文**：We only make vegan products.
+   > **解析**：vegan 修饰 products 作定语；only 修饰 make。
 
-13. **中文**：原材料费用的下降帮助公司节省了一大笔资金。
-   **英文**：A sudden drop in raw material costs helped save money.
-   > **解析**：drop 意为下降、下跌。
+13. **中文**：我们的价格人人负担得起。
+   **英文**：Our prices are accessible to everyone.
+   > **解析**：accessible to 是固定搭配"对……可及"；are 与复数主语搭配。
 
-14. **中文**：随着时间推移，这项商业模式将展现出其强劲的竞争优势。
-   **英文**：Over time, this business model will show its strong advantages.
-   > **解析**：over time 意为随着时间推移。
+14. **中文**：请仔细分析这些数据。
+   **英文**：Please analyze the data carefully.
+   > **解析**：carefully 是副词，修饰 analyze，放在宾语之后。
 
-15. **中文**：到今年年底，团队目标是拓展五个全新的海外市场。
-   **英文**：By the end of the year, we plan to expand into five new markets.
-   > **解析**：by the end of 意为到……末为止。
+15. **中文**：现在是推出产品的合适时机。
+   **英文**：Now is the right time to launch the product.
+   > **解析**：the right time 是固定表达"合适的时机"；to launch 是不定式作后置定语。
 
-16. **中文**：我建议我们成立一个专门小组来深入分析市场数据。
-   **英文**：I propose that we form a task force to analyze market data.
-   > **解析**：propose 意为提议、建议。
+16. **中文**：成本悄悄地上涨了。
+   **英文**：Costs rose quietly over the summer.
+   > **解析**：quietly 表示"悄悄地"；over the summer 是时间状语。
 
-17. **中文**：我们旨在让所有人都能轻松获得优质健康的纯素食品。
-   **英文**：We aim to make healthy vegan food accessible to everyone.
-   > **解析**：accessible 意为可获得的。
+17. **中文**：随着时间的推移，品牌会越来越强。
+   **英文**：The brand will grow stronger over time.
+   > **解析**：over time 表示"随着时间推移"；grow + 比较级表示变化。
 
-18. **中文**：市场调研数据表明这一产品方向潜力巨大。
-   **英文**：Market research data indicates huge growth potential in this sector.
-   > **解析**：data 意为数据。
+18. **中文**：利润会迅速翻倍。
+   **英文**：Profit will double quickly.
+   > **解析**：will double 是将来的预测；quickly 修饰 double。
 
-19. **中文**：公司在动荡的市场环境中保持了平稳增长。
-   **英文**：The company maintained steady growth in a changing market.
-   > **解析**：steady 意为稳定的、平稳的。
+19. **中文**：两位投资人在会议上提出了问题。
+   **英文**：Two investors asked questions at the meeting.
+   > **解析**：asked 是过去式；at the meeting 是地点状语。
 
-20. **中文**：市场上对高品质无线吸尘器的需求不断激增。
-   **英文**：Market demand for high-quality cordless vacuum cleaners is booming.
-   > **解析**：vacuum cleaner 意为吸尘器。
+20. **中文**：我们希望在年底前搬入新办公室。
+   **英文**：We hope to move in by the end of December.
+   > **解析**：hope to do 结构；by the end of December 是截止时间。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The young entrepreneur presented his business plan to angel investors.
-   > **中文**：那位年轻的企业家向天使投资人展示了他的商业计划。
+1. Sales rose quickly this quarter.
+   > **中文**：这个季度销量快速上升。
 
-2. The investor showed keen interest in the vegan food startup.
-   > **中文**：投资者对这个纯素食品项目表现出了浓厚的兴趣。
+2. The price dropped slightly today.
+   > **中文**：今天价格略有下降。
 
-3. We expect our net profit to grow by fifteen percent in Q1.
-   > **中文**：我们预计第一季度的利润将增长百分之十五。
+3. Growth leveled off in April.
+   > **中文**：增长在四月趋于平稳。
 
-4. Investing during stock market fluctuations requires great caution.
-   > **中文**：在股市波动期间投资科技公司股票需要谨慎。
+4. Demand declined over time.
+   > **中文**：需求随着时间推移下降了。
 
-5. Sales are expected to level off in the next quarter after rapid growth.
-   > **中文**：在经过快速增长后，销售额预计将在下个季度趋于平稳。
+5. We expect steady growth next year.
+   > **中文**：我们预计明年会稳定增长。
 
-6. Our new e-commerce platform is finally up and running smoothly.
-   > **中文**：经过数月的准备，我们的新电商平台终于运转起来了。
+6. The entrepreneur pitched her idea.
+   > **中文**：那位创业者展示了她的点子。
 
-7. If we move in at the right time, we can capture market share.
-   > **中文**：如果我们在合适的时机切入，就能占据相当大的市场份额。
+7. The investor signed the deal quietly.
+   > **中文**：那位投资人悄悄地签了协议。
 
-8. Choosing the right time to launch a new product is crucial.
-   > **中文**：抓住合适的时机推出新产品对于商业成功至关重要。
+8. I propose a new marketing plan.
+   > **中文**：我提议一个新的营销计划。
 
-9. Consumer demand for vegan products is gradually increasing each year.
-   > **中文**：消费者对纯素产品的需求正在逐年逐渐增加。
+9. The shop is up and running now.
+   > **中文**：这家店现在已经正常营业了。
 
-10. Production costs for the company have increased only slightly.
-   > **中文**：上个月公司的生产成本仅有了轻微上升。
+10. Please check the data carefully.
+   > **中文**：请仔细检查这些数据。
 
-11. Sales of traditional vacuum cleaners showed a steady decline.
-   > **中文**：传统吸尘器的销量在过去几年里持续下降。
+11. We made a good profit this year.
+   > **中文**：我们今年利润不错。
 
-12. The number of active users will rise significantly by year end.
-   > **中文**：到今年年底，我们的用户数量将会大幅上升。
+12. The stock market fell on Monday.
+   > **中文**：股市周一跌了。
 
-13. A sudden drop in raw material costs helped save money.
-   > **中文**：原材料费用的下降帮助公司节省了一大笔资金。
+13. Pay off the loan by the end of June.
+   > **中文**：在六月底之前还清贷款。
 
-14. Over time, this business model will show its strong advantages.
-   > **中文**：随着时间推移，这项商业模式将展现出其强劲的竞争优势。
+14. The cost is between ten and twenty dollars.
+   > **中文**：费用在十到二十美元之间。
 
-15. By the end of the year, we plan to expand into five new markets.
-   > **中文**：到今年年底，团队目标是拓展五个全新的海外市场。
+15. The new team moved in yesterday.
+   > **中文**：新团队昨天搬进来了。
 
-16. I propose that we form a task force to analyze market data.
-   > **中文**：我建议我们成立一个专门小组来深入分析市场数据。
+16. She sells vegan snacks online.
+   > **中文**：她在网上卖纯素零食。
 
-17. We aim to make healthy vegan food accessible to everyone.
-   > **中文**：我们旨在让所有人都能轻松获得优质健康的纯素食品。
+17. The course is accessible online.
+   > **中文**：这门课程可以在网上获取。
 
-18. Market research data indicates huge growth potential in this sector.
-   > **中文**：市场调研数据表明这一产品方向潜力巨大。
+18. Wait for the right time to invest.
+   > **中文**：等待合适的时机再投资。
 
-19. The company maintained steady growth in a changing market.
-   > **中文**：公司在动荡的市场环境中保持了平稳增长。
+19. He bought a new vacuum cleaner.
+   > **中文**：他买了一台新吸尘器。
 
-20. Market demand for high-quality cordless vacuum cleaners is booming.
-   > **中文**：市场上对高品质无线吸尘器的需求不断激增。
+20. Costs will drop gradually.
+   > **中文**：成本会逐渐下降。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| entrepreneur | 企业家；创业者 |
-| investor | 投资者 |
-| profit | 利润；盈利 |
-| stock market | 股票市场；股市 |
-| level off | 趋于平稳；企稳 |
-| up and running | 运转起来；正常运营 |
-| move in | 迁入；切入（市场） |
-| the right time | 合适的时机 |
-| gradually | 逐渐地 |
-| slightly | 轻微地；略微 |
-| decline | 下降；衰退 |
-| rise | 上升；增长 |
-| drop | 下降；下跌 |
-| over time | 随着时间推移 |
+| --- | --- |
+| accessible | 容易获得的 / 平易近人的 |
+| amount | 数量 |
+| between | 在……之间 |
 | by the end of | 到……末为止 |
-| propose | 提议；建议 |
-| accessible | 可获得的；易接近的 |
+| carefully | 仔细地 |
 | data | 数据 |
-| steady | 稳定的；平稳的 |
-| vegan | 纯素的；纯素者 |
+| decline | 下降 |
+| drop | 下跌 |
+| entrepreneur | 创业者 |
+| gradually | 逐渐地 |
+| investor | 投资人 |
+| level off | 趋于平稳 |
+| move in | 搬入 / 进驻 |
+| over time | 随着时间推移 |
+| profit | 利润 |
+| propose | 提议 |
+| quickly | 迅速地 |
+| quietly | 悄悄地 |
+| rise | 上升 |
+| slightly | 轻微地 |
+| steady | 稳定的 |
+| stock market | 股市 |
+| the right time | 合适的时机 |
+| up and running | 正常运转 |
+| vacuum cleaner | 吸尘器 |
+| vegan | 纯素的 / 纯素食者 |
+| We | 我们 |
+| her | 她的 |
+| this | 这个 |
+| now | 现在 |
+| next | 下一个 |
+| online | 在线 |
+| to | 到 / 去 |
+| at | 在 |
+| year | 年 |
 
 </quiz-matching>
 
@@ -256,202 +244,202 @@ rise / decline / level off / drop 是描述趋势的四组核心动词。gradual
 
 ### 1
 
-The young ____ presented his business plan to angel investors.
+Housing prices ____ rapidly last year.
 
-- [x] entrepreneur
-- [ ] accessible
-- [ ] amount
+- [x] rose
+- [ ] rised
+- [ ] risen
 
-> **解析**：**entrepreneur** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：rise 的过去式是 rose；rised 是错误形式，risen 需要助动词。
 
 ### 2
 
-The ____ showed keen interest in the vegan food startup.
+Sales ____ slightly after the holiday.
 
-- [x] investor
-- [ ] accessible
-- [ ] amount
+- [x] dropped
+- [ ] droping
+- [ ] droped
 
-> **解析**：**investor** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：drop 的过去式双写 p 加 ed：dropped；其余拼写错误。
 
 ### 3
 
-We expect our net ____ to grow by fifteen percent in Q1.
+After months of growth, sales finally ____ in May.
 
-- [x] profit
-- [ ] accessible
-- [ ] amount
+- [x] leveled off
+- [ ] leveled out of
+- [ ] level offed
 
-> **解析**：**profit** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：level off 是固定短语"趋于平稳"；offed 和 out of 都是错误搭配。
 
 ### 4
 
-Investing during stock market ____ requires great caution.
+Competition increased ____ over the past two years.
 
-- [x] fluctuations
-- [ ] accessible
-- [ ] amount
+- [x] gradually
+- [ ] gradual
+- [ ] gradient
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **fluctuations**。
+> **解析**：修饰动词 increased 需要副词 gradually；gradual 是形容词。
 
 ### 5
 
-Sales are ____ to level off in the next quarter after rapid growth.
+The company reported ____ growth every quarter.
 
-- [x] expected
-- [ ] accessible
-- [ ] amount
+- [x] steady
+- [ ] steadily to
+- [ ] stead
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **expected**。
+> **解析**：修饰名词 growth 用形容词 steady；stead 不是独立单词。
 
 ### 6
 
-Our new ____ platform is finally up and running smoothly.
+The founder ____ a bold plan to the board.
 
-- [x] e-commerce
-- [ ] accessible
-- [ ] amount
+- [x] proposed
+- [ ] proposing
+- [ ] propose
 
-> **解析**：**e-commerce** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句子需要过去式谓语 proposed；propose 原形与单数主语在过去语境不符。
 
 ### 7
 
-If we move in at the right time, we can ____ market share.
+By the end of June, the store will be up and ____.
 
-- [x] capture
-- [ ] accessible
-- [ ] amount
+- [x] running
+- [ ] run
+- [ ] ran
 
-> **解析**：**capture** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：up and running 是固定表达"正常运转"；running 与 up 搭配。
 
 ### 8
 
-____ the right time to launch a new product is crucial.
+The ____ asked for more data before signing.
 
-- [x] Choosing
-- [ ] accessible
-- [ ] amount
+- [x] investor
+- [ ] invest
+- [ ] investing
 
-> **解析**：**Choosing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：The 后需要名词 investor"投资人"；invest 是动词。
 
 ### 9
 
-Consumer demand for ____ products is gradually increasing each year.
+A successful ____ takes big risks.
 
-- [x] vegan
-- [ ] accessible
-- [ ] amount
+- [x] entrepreneur
+- [ ] entrepreneurship to
+- [ ] enterprise of
 
-> **解析**：**vegan** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句意需要"创业者" entrepreneur；entrepreneurship 是抽象名词"创业精神"。
 
 ### 10
 
-Production costs for the company have increased only ____.
+We collected a large ____ of data.
 
-- [x] slightly
-- [ ] accessible
-- [ ] amount
+- [x] amount
+- [ ] amounts
+- [ ] amouting
 
-> **解析**：**slightly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a large amount of 是固定搭配；本句为单数语境。
 
 ### 11
 
-Sales of traditional vacuum cleaners showed a ____ decline.
+The profit ____ between two and three million dollars.
 
-- [x] steady
-- [ ] accessible
-- [ ] amount
+- [x] is
+- [ ] am
+- [ ] be
 
-> **解析**：**steady** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 profit 是单数，用 is；be 不能单独作谓语。
 
 ### 12
 
-The number of active users will ____ significantly by year end.
+Analyze the data ____ before the meeting.
 
-- [x] rise
-- [ ] accessible
-- [ ] amount
+- [x] carefully
+- [ ] careful
+- [ ] care
 
-> **解析**：**rise** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰动词 Analyze 用副词 carefully；careful 是形容词。
 
 ### 13
 
-A sudden ____ in raw material costs helped save money.
+The new café quietly ____ on our street last week.
 
-- [x] drop
-- [ ] accessible
-- [ ] amount
+- [x] moved in
+- [ ] moved on in
+- [ ] move in
 
-> **解析**：**drop** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：last week 要求过去式 moved in；moved on in 结构重复。
 
 ### 14
 
-Over time, this business model will show its strong ____.
+Their ____ food sells well in the city.
 
-- [x] advantages
-- [ ] accessible
-- [ ] amount
+- [x] vegan
+- [ ] veganism to
+- [ ] vegetable of
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **advantages**。
+> **解析**：修饰 food 用形容词 vegan"纯素的"；veganism 是名词"纯素主义"。
 
 ### 15
 
-By the end of the year, we plan to expand into five new ____.
+The prices are ____ to most families.
 
-- [x] markets
-- [ ] accessible
-- [ ] amount
+- [x] accessible
+- [ ] access
+- [ ] accessibly to
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **markets**。
+> **解析**：are 后接形容词 accessible；access 是名词或动词。
 
 ### 16
 
-I ____ that we form a task force to analyze market data.
+He cleaned the floor with a ____ cleaner.
 
-- [x] propose
-- [ ] accessible
-- [ ] amount
+- [x] vacuum
+- [ ] vacuums
+- [ ] vacuuming
 
-> **解析**：**propose** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：vacuum cleaner 是固定搭配"吸尘器"；vacuum 作定语用原形。
 
 ### 17
 
-We aim to make healthy ____ food accessible to everyone.
+____ the end of the year, we will open ten stores.
 
-- [x] vegan
-- [ ] accessible
-- [ ] amount
+- [x] By
+- [ ] At to
+- [ ] In by
 
-> **解析**：**vegan** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：By the end of 表示截止时间；其余介词搭配错误。
 
 ### 18
 
-Market research ____ indicates huge growth potential in this sector.
+Now is ____ to expand the business.
 
-- [x] data
-- [ ] accessible
-- [ ] amount
+- [x] the right time
+- [ ] a right times
+- [ ] right the time
 
-> **解析**：**data** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the right time 是固定表达"合适的时机"；其余语序或单复数错误。
 
 ### 19
 
-The company maintained ____ growth in a changing market.
+The stock ____ recovered after the news.
 
-- [x] steady
-- [ ] accessible
-- [ ] amount
+- [x] market
+- [ ] markets of
+- [ ] marketing to
 
-> **解析**：**steady** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：stock market 是固定搭配"股市"；本句为单数语境。
 
 ### 20
 
-Market demand for ____ cordless vacuum cleaners is booming.
+Brand loyalty grows stronger ____ time.
 
-- [x] high-quality
-- [ ] accessible
-- [ ] amount
+- [x] over
+- [ ] over of
+- [ ] on
 
-> **解析**：**high-quality** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：over time 是固定表达"随着时间推移"；on time 指准时，语义不符。
 
 </quiz-cloze>

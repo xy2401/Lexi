@@ -10,42 +10,35 @@ ambitious, disagreement, embarrassment, feeling, get, had, hadn't, if only, it t
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"承认过去的错误"展开。词表里有反思与后悔表达（if only, wish, had, hadn't, it'd），有错误与后果词汇（misunderstand, underestimate, embarrassment, disagreement），也有口语中的情绪表达（shut up, that's why, nothing to do with, judging by）。你可以用这些词承认错误：If only I hadn't pushed so hard. / I wish I'd responded differently. / It turns out that I misunderstood the whole thing. / I underestimated how she'd feel—hadn't I learned my lesson? / That's why I regret it. / Judging by her look, she was embarrassed. / It had nothing to do with being ambitious.
+本单元的主题是"承认过去的错误"，充满了复盘与自责的语气。词表分成三组：错误相关名词（disagreement, embarrassment, misunderstanding 的词根 misunderstand, ambitious, underestimate）、虚拟与后悔句型（wish, if only, had, hadn't, it'd, that's why, it turns out that）、以及行为与回应动词（keep, push, respond, play, skip, look, shut up, feeling, judging by, nothing to do with, get）。拼起来就是一段完整的道歉复盘：I underestimated the task. It turns out that I misunderstood the plan. If only I had responded earlier. That's why it all went wrong.
 
-这里值得注意 had / hadn't 和 it'd（= it had 或 it would）在后悔语境中的用法。If only + had done 表对过去的强烈遗憾：If only I had listened. wish + had done 同理。it turns out that 引出"事后发现的事实"，常用于承认错误的开头。
+语法主线有三条。第一条是 wish / if only + 过去完成时，表示对过去已发生之事的后悔：I wish I had listened. / If only I hadn't skipped the meeting. 第二条是 had / hadn't 的过去完成时叙事，说明"过去的过去"：I hadn't read the email. 第三条是复盘连接词：it turns out that（结果是……）、that's why（那就是……的原因）、judging by（从……判断）——把零散的错误串成因果链。
 
-学完本单元，你可以用英语坦诚地承认过去的错误，表达后悔，并解释事情如何被误解。
+学完这些词，你能承认错误、解释来龙去脉、表达悔意——复盘不只是说 sorry，而是说得清楚、说得体面。
 
 ## Tips
 
-- **if only / wish** — 都表遗憾，if only 语气更强烈。搭配：If only I had listened. / I wish I hadn't said that. if only 常独立成句（感叹），wish 后接从句。两者后接 had done 表对过去的遗憾，接 would 表对现在的愿望。
+- **wish / if only** — 后悔句型双雄。wish + 过去完成时表示"真希望当时……"：I wish I had called her. if only 语气更强烈："要是……就好了"If only I had known. 两者都不能改变事实，只表虚拟。
 
-- **had / hadn't / it'd** — had 是 have 的过去式（或过去完成时助动词），hadn't = had not，it'd = it had 或 it would。搭配：I had no idea. / Hadn't I told you? / It'd have been better. 注意 it'd 需要根据语境判断是 it had 还是 it would。
+- **had / hadn't** — 过去完成时的骨架，表示"过去的过去"：I had sent the email before the meeting. 否定 hadn't done：I hadn't realized my mistake. wish 和 if only 后面正是靠它构成对过去的虚拟。
 
-- **misunderstand / underestimate** — misunderstand 是误解（理解错了），underestimate 是低估（觉得没那么严重/难）。搭配：misunderstand what sb said, underestimate the problem。I misunderstood her feelings. / I underestimated how much it'd hurt. 构词：mis-（错）+ understand；under-（不足）+ estimate。
+- **it turns out that / that's why** — 复盘因果链。it turns out that 是"结果发现……"：It turns out that I was wrong. that's why 是"那就是……的原因"：I missed the deadline. That's why my boss was angry.
 
-- **it turns out that** — 结果是、事后发现。搭配：it turns out that..., as it turns out。It turns out that I was wrong. 比 it turned out 更强调"现在才知道"。常用于引出令人意外的真相。
+- **judging by** — "从……来判断"：Judging by his face, he didn't know. 介词短语作句首状语，后面常接逗号。
 
-- **judging by** — 根据……来判断。搭配：judging by her look, judging by the results。Judging by his face, he was embarrassed. 注意 judging by 是固定短语，不随主语变化：× Judge by...（作插入语时用 judging）。
+- **misunderstand / underestimate** — 两个 -under- 复合动词。misunderstand 是"误解"：I misunderstood your question. underestimate 是"低估"：Don't underestimate the difficulty. 过去式分别是 misunderstood / underestimated。
 
-- **nothing to do with** — 与……无关。搭配：have nothing to do with, it has nothing to do with you。It had nothing to do with being ambitious. 反义：have everything to do with（与……大有关系）。口语中常说 It's got nothing to do with me.
+- **embarrassment / disagreement** — 两个 -ment 名词。embarrassment 是"尴尬、难堪"：It was a moment of embarrassment. disagreement 是"分歧、争执"：We had a disagreement about the plan. 形容词 embarrassed / disagreeable 注意区分。
 
-- **shut up** — 闭嘴（非常不礼貌）。搭配：shut up! / tell sb to shut up。I told him to shut up—I regret it. 注意这是粗鲁的表达，正式场合用 be quiet 或 please stop talking。在承认错误的语境中，常是后悔说了这话。
+- **respond / keep / push** — 行为动词三连。respond 是"回应"：respond to an email. keep 是"继续、保持"：keep quiet. push 是"推、催促"：Don't push me.
 
-- **push / play / skip** — push 是推/逼迫，play 是扮演/玩，skip 是跳过。搭配：push sb too hard, play a role, skip a step。I pushed too hard. / I played dumb. / I skipped the important part. 注意 push 在人际语境中 = 施压。
+- **play / skip / shut up** — play 除了"玩"还可指"表现、耍手段"：play fair（公平行事）。skip 是"跳过、缺席"：skip the meeting. shut up 是粗直的"闭嘴"，正式场合慎用。
 
-- **embarrassment / disagreement** — embarrassment 是尴尬，disagreement 是分歧。搭配：feel embarrassment, have a disagreement。It was pure embarrassment. / We had a disagreement. 注意 embarrassment 是不可数/可数均可，disagreement 常用 a disagreement。
+- **nothing to do with** — "与……无关"：It has nothing to do with you. 相关句型 have something to do with（与……有关）。
 
-- **that's why** — 那就是为什么、所以。搭配：that's why..., and that's why。I underestimated her, and that's why she was upset. 用于连接原因和结果，比 so 更强调因果关系。
-
-- **ambitious** — 有野心的、雄心勃勃的。搭配：be ambitious, too ambitious。I was too ambitious—I tried to do everything. 注意 ambitious 可褒可贬：褒义"有上进心"，贬义"好高骛远"。
-
-- **respond / keep** — respond 是回应（较正式），keep 是保持/继续。搭配：respond to a question, keep quiet, keep pushing。I should have responded calmly. / I kept pushing even though I shouldn't have. 注意 respond 比 answer 更正式。
-
-- **look / feeling** — look 在这里指"表情、神色"，feeling 是感觉。搭配：the look on her face, a feeling of embarrassment。Judging by the look on her face, she was hurt. / I had a feeling something was wrong. 注意 look 作"表情"时常用 the look on one's face。
+- **ambitious / feeling / look / it'd / get** — ambitious 是"有雄心的"：an ambitious plan. feeling 是"感觉、直觉"：I had a bad feeling. look 可指"看起来"：It doesn't look good. it'd 是 it would / it had 的口语缩写。get 在错误语境里常用：get it wrong（搞错了）。
 
 ## 练习
 
@@ -63,176 +56,185 @@ ambitious, disagreement, embarrassment, feeling, get, had, hadn't, if only, it t
 
 <quiz-sentence-builder>
 
-1. **中文**：要是我早点听你的建议就好了。
-   **英文**：If only I had listened to your advice earlier.
-   > **解析**：if only 用于表示对过去的遗憾（感叹语气）。
+1. **中文**：我真希望当时听了她的建议。
+   **英文**：I wish I had listened to her advice.
+   > **解析**：wish + 过去完成时 had listened 表示对过去的虚拟后悔；advice 是不可数名词。
 
-2. **中文**：我希望我没有对他逼得太紧。
-   **英文**：I wish I hadn't pushed him so hard.
-   > **解析**：hadn't 与 wish 连用表示对过去行为的后悔。
+2. **中文**：要是我当时没跳过那次会议就好了。
+   **英文**：If only I hadn't skipped the meeting.
+   > **解析**：if only + 过去完成时表强烈后悔；hadn't skipped 是否定的过去完成时。
 
-3. **中文**：事实证明这跟我一点关系也没有。
-   **英文**：It turns out that it had nothing to do with me.
-   > **解析**：nothing to do with 意为与……无关。
+3. **中文**：我低估了这项任务。
+   **英文**：I underestimated the task.
+   > **解析**：underestimate 是"低估"，一般过去时加 d；the task 作宾语。
 
-4. **中文**：从她脸上的表情来看，她很难过。
-   **英文**：Judging by the look on her face, she was upset.
-   > **解析**：judging by 意为根据……判断。
+4. **中文**：结果发现我误解了他的意思。
+   **英文**：It turns out that I misunderstood him.
+   > **解析**：It turns out that 是"结果发现"的句型；misunderstood 是 misunderstand 的过去式。
 
-5. **中文**：这就是为什么我们最终产生了严重的失和。
-   **英文**：That's why we ended up having a serious disagreement.
-   > **解析**：that's why 用于引出原因导致的后果。
+5. **中文**：那就是他生气的原因。
+   **英文**：That's why he was angry.
+   > **解析**：That's why + 从句表示"那就是……的原因"；why 引导表语从句。
 
-6. **中文**：我太有野心了，低估了项目的难度。
-   **英文**：I was too ambitious and underestimated the difficulty of the project.
-   > **解析**：underestimate 意为低估。
+6. **中文**：从他的表情看，他不知道这件事。
+   **英文**：Judging by his face, he didn't know about it.
+   > **解析**：Judging by 是独立成分作状语；主句用一般过去时 didn't know。
 
-7. **中文**：他在会议期间叫我闭嘴。
-   **英文**：He told me to shut up during the meeting.
-   > **解析**：shut up 意为闭嘴（语气粗鲁）。
+7. **中文**：我当时不该回嘴的。
+   **英文**：I shouldn't have responded like that.
+   > **解析**：shouldn't have + 过去分词回应了对过去的否定评价；like that 作方式状语。
 
-8. **中文**：我对我造成的尴尬感觉深感后悔。
-   **英文**：I deeply regret the feeling of embarrassment I caused.
-   > **解析**：embarrassment 意为尴尬。
+8. **中文**：我对自己说过的话感到尴尬。
+   **英文**：I felt embarrassed about what I said.
+   > **解析**：felt 是 feel 的过去式；embarrassed 形容词描述人的感受；about 后接 what 从句。
 
-9. **中文**：如果我们不跳过任何重要步骤会更好。
-   **英文**：It'd be better if we didn't skip any important steps.
-   > **解析**：skip 意为跳过、遗漏。
+9. **中文**：我们当时在计划上有了分歧。
+   **英文**：We had a disagreement about the plan.
+   > **解析**：have a disagreement about 是"在……上有分歧"的搭配；had 是一般过去时。
 
-10. **中文**：你误会我在电话里说的话了吗？
-   **英文**：Did you misunderstand what I said on the phone?
-   > **解析**：misunderstand 意为误解。
+10. **中文**：他的目标太有野心了。
+    **英文**：His goal was too ambitious.
+    > **解析**：ambitious 形容词作表语；too 修饰程度。
 
-11. **中文**：她选择不对无礼的评论做出回应。
-   **英文**：She chose not to respond to the rude comment.
-   > **解析**：respond 意为回应、回答。
+11. **中文**：别再逼我了。
+    **英文**：Stop pushing me.
+    > **解析**：stop doing 表示"停止正在做的事"；push 此处指"施压、逼迫"。
 
-12. **中文**：即使事情变困难，我们也应该继续努力。
-   **英文**：We should keep trying even when things get difficult.
-   > **解析**：keep + v-ing 意为保持、继续做。
+12. **中文**：这跟你没有任何关系。
+    **英文**：It has nothing to do with you.
+    > **解析**：have nothing to do with 是固定表达"与……无关"；has 与 It 一致。
 
-13. **中文**：我根本不知道你当时正经历如此艰难的时期。
-   **英文**：I had no idea that you were going through such a hard time.
-   > **解析**：had no idea 意为当时完全不知道。
+13. **中文**：我当时有一种不好的预感。
+    **英文**：I had a bad feeling about it.
+    > **解析**：had a feeling 是"有预感"的搭配；about it 作补充状语。
 
-14. **中文**：事实证明她一直是对的。
-   **英文**：It turns out that she was right all along.
-   > **解析**：it turns out that 意为结果是、事实证明。
+14. **中文**：闭嘴，听我说。
+    **英文**：Shut up and listen to me.
+    > **解析**：祈使句用原形 Shut up；and 连接两个祈使动词。
 
-15. **中文**：不要低估这项工作需要多少精力。
-   **英文**：Don't underestimate how much work this will require.
-   > **解析**：underestimate 意为低估。
+15. **中文**：看起来情况不妙。
+    **英文**：It doesn't look good.
+    > **解析**：look 作系动词"看起来"，后接形容词 good 作表语；doesn't 构成否定。
 
-16. **中文**：我希望我能再有一次解释的机会。
-   **英文**：I wish I could get another chance to explain.
-   > **解析**：wish 表示虚拟愿望。
+16. **中文**：如果我知道，我就会帮忙了。
+    **英文**：If I had known, I would have helped.
+    > **解析**：if + 过去完成时、主句 would have + 过去分词，是与过去事实相反的虚拟语气。
 
-17. **中文**：尽管感到尴尬，他还是试图装作平静。
-   **英文**：He tried to play it cool despite his embarrassment.
-   > **解析**：play it cool 意为装作冷静/从容。
+17. **中文**：保持诚实就好。
+    **英文**：Just keep being honest.
+    > **解析**：keep doing 表示"持续保持"；being honest 是动名词短语作宾语。
 
-18. **中文**：要是我们当时没有忽视警告信号就好了。
-   **英文**：If only we hadn't skipped the warning signs.
-   > **解析**：hadn't + p.p. 用于 if only 虚拟语气。
+18. **中文**：我们公平地来吧。
+    **英文**：Let's play fair.
+    > **解析**：Let's 后接动词原形 play；play fair 是"公平行事"的固定搭配。
 
-19. **中文**：这与你的表现毫无关系。
-   **英文**：It had nothing to do with your performance.
-   > **解析**：nothing to do with 意为与……无关。
+19. **中文**：结果证明我们都没错。
+    **英文**：It turns out that we were both right.
+    > **解析**：It turns out that 引导结果从句；were 与 we 一致。
 
-20. **中文**：从他的反应来看，他没有料到这个消息。
-   **英文**：Judging by his reaction, he did not expect the news.
-   > **解析**：judging by 意为根据……判定。
+20. **中文**：我搞错了日期。
+    **英文**：I got the date wrong.
+    > **解析**：get + 宾语 + 形容词 wrong 表示"把……弄错"；got 是 get 的过去式。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. If only I had listened to your advice earlier.
-   > **中文**：要是我早点听你的建议就好了。
+1. I wish I had listened to her advice.
+   > **中文**：我真希望当时听了她的建议。
 
-2. I wish I hadn't pushed him so hard.
-   > **中文**：我希望我没有对他逼得太紧。
+2. If only I hadn't skipped the meeting.
+   > **中文**：要是我当时没跳过那次会议就好了。
 
-3. It turns out that it had nothing to do with me.
-   > **中文**：事实证明这跟我一点关系也没有。
+3. I underestimated the task.
+   > **中文**：我低估了这项任务。
 
-4. Judging by the look on her face, she was upset.
-   > **中文**：从她脸上的表情来看，她很难过。
+4. It turns out that I misunderstood him.
+   > **中文**：结果发现我误解了他的意思。
 
-5. That's why we ended up having a serious disagreement.
-   > **中文**：这就是为什么我们最终产生了严重的失和。
+5. That's why he was angry.
+   > **中文**：那就是他生气的原因。
 
-6. I was too ambitious and underestimated the difficulty of the project.
-   > **中文**：我太有野心了，低估了项目的难度。
+6. Judging by his face, he didn't know about it.
+   > **中文**：从他的表情看，他不知道这件事。
 
-7. He told me to shut up during the meeting.
-   > **中文**：他在会议期间叫我闭嘴。
+7. I shouldn't have responded like that.
+   > **中文**：我当时不该回嘴的。
 
-8. I deeply regret the feeling of embarrassment I caused.
-   > **中文**：我对我造成的尴尬感觉深感后悔。
+8. I felt embarrassed about what I said.
+   > **中文**：我对自己说过的话感到尴尬。
 
-9. It'd be better if we didn't skip any important steps.
-   > **中文**：如果我们不跳过任何重要步骤会更好。
+9. We had a disagreement about the plan.
+   > **中文**：我们当时在计划上有了分歧。
 
-10. Did you misunderstand what I said on the phone?
-   > **中文**：你误会我在电话里说的话了吗？
+10. His goal was too ambitious.
+    > **中文**：他的目标太有野心了。
 
-11. She chose not to respond to the rude comment.
-   > **中文**：她选择不对无礼的评论做出回应。
+11. Stop pushing me.
+    > **中文**：别再逼我了。
 
-12. We should keep trying even when things get difficult.
-   > **中文**：即使事情变困难，我们也应该继续努力。
+12. It has nothing to do with you.
+    > **中文**：这跟你没有任何关系。
 
-13. I had no idea that you were going through such a hard time.
-   > **中文**：我根本不知道你当时正经历如此艰难的时期。
+13. I had a bad feeling about it.
+    > **中文**：我当时有一种不好的预感。
 
-14. It turns out that she was right all along.
-   > **中文**：事实证明她一直是对的。
+14. Shut up and listen to me.
+    > **中文**：闭嘴，听我说。
 
-15. Don't underestimate how much work this will require.
-   > **中文**：不要低估这项工作需要多少精力。
+15. It doesn't look good.
+    > **中文**：看起来情况不妙。
 
-16. I wish I could get another chance to explain.
-   > **中文**：我希望我能再有一次解释的机会。
+16. If I had known, I would have helped.
+    > **中文**：如果我知道，我就会帮忙了。
 
-17. He tried to play it cool despite his embarrassment.
-   > **中文**：尽管感到尴尬，他还是试图装作平静。
+17. Just keep being honest.
+    > **中文**：保持诚实就好。
 
-18. If only we hadn't skipped the warning signs.
-   > **中文**：要是我们当时没有忽视警告信号就好了。
+18. Let's play fair.
+    > **中文**：我们公平地来吧。
 
-19. It had nothing to do with your performance.
-   > **中文**：这与你的表现毫无关系。
+19. It turns out that we were both right.
+    > **中文**：结果证明我们都没错。
 
-20. Judging by his reaction, he did not expect the news.
-   > **中文**：从他的反应来看，他没有料到这个消息。
+20. I got the date wrong.
+    > **中文**：我搞错了日期。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| ambitious | 有野心的；雄心勃勃的 |
-| disagreement | 分歧；失和 |
-| embarrassment | 尴尬；窘迫 |
-| feeling | 感觉；感受 |
+| --- | --- |
+| ambitious | 有雄心的 |
+| disagreement | 分歧 |
+| embarrassment | 尴尬 |
+| feeling | 感觉 |
+| get | 变得；弄 |
+| had | have 的过去式 |
+| hadn't | had not 的缩写 |
 | if only | 要是……就好了 |
-| it turns out that | 事实证明；结果是 |
-| judging by | 根据……来判断 |
+| it turns out that | 结果发现…… |
+| it'd | it would / it had 的缩写 |
+| judging by | 从……判断 |
+| keep | 保持 |
+| look | 看起来 |
 | misunderstand | 误解 |
 | nothing to do with | 与……无关 |
+| play | 玩；表现 |
+| push | 推；逼迫 |
+| respond | 回应 |
 | shut up | 闭嘴 |
-| skip | 跳过；遗漏 |
-| that's why | 那就是为什么 |
+| skip | 跳过；缺席 |
+| that's why | 那就是……的原因 |
 | underestimate | 低估 |
-| wish | 希望；但愿 |
-| push | 逼迫；推动 |
-| respond | 回应；回答 |
-| keep | 保持；继续 |
-| hadn't | 当时没有（had not） |
-| it'd | 那将会/本来会（it would / it had） |
-| look | 表情；神色 |
+| wish | 希望（虚拟） |
+| advice | 建议 |
+| meeting | 会议 |
+| task | 任务 |
+| date | 日期 |
+| goal | 目标 |
+| plan | 计划 |
 
 </quiz-matching>
 
@@ -240,202 +242,202 @@ ambitious, disagreement, embarrassment, feeling, get, had, hadn't, if only, it t
 
 ### 1
 
-If only I ____ listened to your advice earlier.
+I ____ I had listened to her advice.
 
-- [x] had
-- [ ] ambitious
-- [ ] disagreement
+- [x] wish
+- [ ] wished
+- [ ] wishing
 
-> **解析**：**had** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：I wish + 过去完成时表后悔，主句用现在时 wish；wished 与虚拟语境不符，wishing 无法作谓语。
 
 ### 2
 
-I ____ I hadn't pushed him so hard.
+If only I ____ skipped the meeting.
 
-- [x] wish
-- [ ] ambitious
-- [ ] disagreement
+- [x] hadn't
+- [ ] hasn't
+- [ ] wouldn't
 
-> **解析**：**wish** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：if only + 过去完成时，否定用 hadn't；hasn't 是现在完成时，wouldn't 不构成虚拟过去。
 
 ### 3
 
-It turns out that it ____ nothing to do with me.
+I ____ the task.
 
-- [x] had
-- [ ] ambitious
-- [ ] disagreement
+- [x] underestimated
+- [ ] underestimate
+- [ ] underestimating
 
-> **解析**：**had** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去的事实，用一般过去时 underestimated；underestimate 是原形，underestimating 不能单独作谓语。
 
 ### 4
 
-Judging by the ____ on her face, she was upset.
+It turns out ____ I misunderstood him.
 
-- [x] look
-- [ ] ambitious
-- [ ] disagreement
+- [x] that
+- [ ] what
+- [ ] which
 
-> **解析**：**look** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：It turns out that 是固定句型，that 引导从句；what/which 不与该句型搭配。
 
 ### 5
 
-That's why we ended up having a serious ____.
+That's ____ he was angry.
 
-- [x] disagreement
-- [ ] ambitious
-- [ ] embarrassment
+- [x] why
+- [ ] because
+- [ ] how
 
-> **解析**：**disagreement** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：That's why + 从句表示结果"那就是……的原因"；because 用于 That's because，语义侧重原因本身，此处语境为结果，how 不合逻辑。
 
 ### 6
 
-I was too ____ and underestimated the difficulty of the project.
+Judging ____ his face, he didn't know.
 
-- [x] ambitious
-- [ ] disagreement
-- [ ] embarrassment
+- [x] by
+- [ ] from
+- [ ] with
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **ambitious**。
+> **解析**：judging by 是固定搭配"从……判断"；judging from 偶见但非本词表表达，with 不合语法。
 
 ### 7
 
-He told me to shut up during the ____.
+I shouldn't have ____ like that.
 
-- [x] meeting
-- [ ] ambitious
-- [ ] disagreement
+- [x] responded
+- [ ] respond
+- [ ] responding
 
-> **解析**：**meeting** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：shouldn't have 后接过去分词 responded；respond 是原形，responding 不合此结构。
 
 ### 8
 
-I deeply regret the ____ of embarrassment I caused.
+I felt ____ about what I said.
 
-- [x] feeling
-- [ ] ambitious
-- [ ] disagreement
+- [x] embarrassed
+- [ ] embarrassing
+- [ ] embarrassment
 
-> **解析**：**feeling** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：描述人的感受用 -ed 形容词 embarrassed；embarrassing 修饰事物，embarrassment 是名词不能作表语形容词。
 
 ### 9
 
-____ be better if we didn't skip any important steps.
+We had a ____ about the plan.
 
-- [x] It'd
-- [ ] ambitious
-- [ ] disagreement
+- [x] disagreement
+- [ ] disagree
+- [ ] disagreeing
 
-> **解析**：**It'd** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后需要名词 disagreement；disagree 是动词，disagreeing 不合此处。
 
 ### 10
 
-Did you ____ what I said on the phone?
+His goal was too ____.
 
-- [x] misunderstand
-- [ ] ambitious
-- [ ] disagreement
+- [x] ambitious
+- [ ] ambition
+- [ ] ambitiously
 
-> **解析**：**misunderstand** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后接形容词 ambitious 作表语；ambition 是名词，ambitiously 是副词。
 
 ### 11
 
-She chose not to ____ to the rude comment.
+Stop ____ me.
 
-- [x] respond
-- [ ] ambitious
-- [ ] disagreement
+- [x] pushing
+- [ ] push
+- [ ] pushed
 
-> **解析**：**respond** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：stop doing 表示"停止正在做的事"；push 原形不合此结构，pushed 表示停止被推不合语义。
 
 ### 12
 
-We should ____ trying even when things get difficult.
+It has nothing to do ____ you.
 
-- [x] keep
-- [ ] ambitious
-- [ ] disagreement
+- [x] with
+- [ ] to
+- [ ] for
 
-> **解析**：**keep** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：have nothing to do with 是固定搭配；to/for 不构成该短语。
 
 ### 13
 
-I ____ no idea that you were going through such a hard time.
+I had a bad ____ about it.
 
-- [x] had
-- [ ] ambitious
-- [ ] disagreement
+- [x] feeling
+- [ ] fell
+- [ ] feels
 
-> **解析**：**had** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a bad feeling 是固定搭配"不好的预感"；fell 是 fall 的过去式，feels 是动词三单。
 
 ### 14
 
-It ____ out that she was right all along.
+Shut ____ and listen to me.
 
-- [x] turns
-- [ ] ambitious
-- [ ] disagreement
+- [x] up
+- [ ] off
+- [ ] down
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **turns**。
+> **解析**：shut up 是"闭嘴"的固定短语；shut off 是"关掉（设备）"，shut down 是"关停"。
 
 ### 15
 
-Don't ____ how much work this will require.
+It doesn't ____ good.
 
-- [x] underestimate
-- [ ] ambitious
-- [ ] disagreement
+- [x] look
+- [ ] looks
+- [ ] looking
 
-> **解析**：**underestimate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：doesn't 后接动词原形 look；looks 是三单形式不能跟在助动词后。
 
 ### 16
 
-I ____ I could get another chance to explain.
+If I had known, I would have ____.
 
-- [x] wish
-- [ ] ambitious
-- [ ] disagreement
+- [x] helped
+- [ ] help
+- [ ] helping
 
-> **解析**：**wish** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：would have 后接过去分词 helped 构成虚拟主句；help/holding 形式不合此结构。
 
 ### 17
 
-He tried to ____ it cool despite his embarrassment.
+Just keep ____ honest.
 
-- [x] play
-- [ ] ambitious
-- [ ] disagreement
+- [x] being
+- [ ] be
+- [ ] been
 
-> **解析**：**play** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：keep doing 后接动名词 being；be 原形不合 keep 的结构，been 不合。
 
 ### 18
 
-If only we ____ skipped the warning signs.
+Let's play ____.
 
-- [x] hadn't
-- [ ] ambitious
-- [ ] disagreement
+- [x] fair
+- [ ] fairness
+- [ ] fairly
 
-> **解析**：**hadn't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：play fair 是固定搭配，fair 作副词性修饰；fairness 是名词，fairly 虽为副词但不构成此惯用语。
 
 ### 19
 
-It ____ nothing to do with your performance.
+It turns out that we ____ both right.
 
-- [x] had
-- [ ] ambitious
-- [ ] disagreement
+- [x] were
+- [ ] was
+- [ ] is
 
-> **解析**：**had** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 we 用 were；was/is 主谓不一致。
 
 ### 20
 
-Judging by his ____, he did not expect the news.
+I got the date ____.
 
-- [x] reaction
-- [ ] ambitious
-- [ ] disagreement
+- [x] wrong
+- [ ] wronged
+- [ ] wrongly
 
-> **解析**：**reaction** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get + 宾语 + 形容词 wrong 表"弄错"；wronged 作形容词指"受委屈的"语义不合，wrongly 是副词不能作宾补。
 
 </quiz-cloze>

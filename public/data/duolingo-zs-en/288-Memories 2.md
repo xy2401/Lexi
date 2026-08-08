@@ -10,40 +10,33 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"分享童年活动"展开，场景是怀旧和回忆。词表里有大量童年游戏和零食（hide and seek, tag, dodgeball, jump rope, blow bubbles, yo-yo, lollipop, bubble gum, berries, slide, tree house），有描述过去习惯的语法结构（used to, always used to, would, would usually, were always），也有表达怀旧情感的词（nostalgic, fond, reminisce, good old days）。你可以练习这样的叙述：I always used to play hide and seek during recess. / We would usually climb the tree house and eat berries. / Another thing I'm fond of remembering is blowing bubbles with bubble gum. / Every so often, I reminisce about the good old days—those were the days!
+本单元的主题是"分享童年活动"，场景是老友回忆往事。词表可以分成四组：游戏与玩具（hide and seek, tag, dodgeball, jump rope, slide, tree house, yo-yo, lollipop, bubble gum, blow bubbles, berries）、习惯表达（used to, always used to, would, would usually, were always）、怀旧情感（fond, nostalgic, reminisce, good old days）、以及话题衔接（another thing, every so often, recess, scouts）。拼起来就是一段回忆：We always used to play tag at recess. Every so often, we would climb into our tree house and share lollipops. Ah, the good old days!
 
-语法上，本单元最核心的是 used to 和 would 表示过去习惯的用法。used to 强调"过去常常做，现在不做了"；would 用于回忆过去反复发生的动作，带有叙事感。were always + doing 强调"过去总是……"，常带有怀念或夸张的语气。这三者都是讲述童年回忆时的核心工具。
+语法主线是"过去习惯的三种说法"。used to do（过去常常）：We used to jump rope. would do（过去总会，表反复动作）：We would play dodgeball for hours. were always doing（过去总是在…，带感情色彩）：We were always inventing new games. 三者的区别是本单元的核心：used to 可表状态也可表动作，would 只表反复动作，be always doing 常带怀念或抱怨情绪。
+
+学完这单元，你能用英语分享童年回忆：描述小时候常玩的游戏、常做的事，还能表达怀旧之情。
 
 ## Tips
 
-- **used to / always used to / would / would usually** — 四个表达过去习惯的结构。used to = 过去常常（现在不做了）：I used to play tag every day. always used to = 过去总是（强调频率）：We always used to eat lollipops after school. would = 过去会（叙事感强）：My grandfather would tell us stories. would usually = 过去通常会：We would usually play dodgeball at recess. 注意 used to 后接动词原形，would 后也接动词原形。used to 可以表示过去的状态（I used to be shy），would 不行。
+- **used to / always used to** — 过去习惯。used to do 表示"过去常常（现在不了）"：I used to live there. always used to 强调频率：We always used to meet after school. ✗ used to 的否定是 didn't use to，不是 didn't used to。
 
-- **hide and seek / tag / dodgeball** — 三个经典童年游戏。hide and seek = 捉迷藏（hide 藏，seek 找）。tag = 抓人游戏（拍到谁谁就当"鬼"）。dodgeball = 躲避球（dodge 躲闪 + ball）。搭配：play hide and seek / play tag / a game of dodgeball。例句：We used to play hide and seek until dark. 注意 hide and seek 没有连字符，tag 不可数。
+- **would / would usually** — 回忆专用。would 表过去反复动作，常用于怀旧叙述：We would stay out until dark. would usually 是"通常会"：She would usually win at tag. ✗ would 不表过去状态：✗ I would live there → ✓ I used to live there。
 
-- **jump rope / blow bubbles / yo-yo** — 三个童年活动。jump rope = 跳绳（美式，英式说 skipping）：jump rope during recess / a jump rope。blow bubbles = 吹泡泡：blow bubbles with bubble gum / blow soap bubbles。yo-yo = 溜溜球：play with a yo-yo / do yo-yo tricks。例句：She would usually jump rope while the boys played with yo-yos.
+- **were always** — 感情习惯。were always doing 表"过去总是在…"，带情绪：The boys were always playing tricks.
 
-- **recess** — 课间休息（美式）。搭配：during recess / at recess / recess time。例句：We always used to play tag during recess. 注意 recess 在美国学校指课间或午休的自由活动时间。英式更常说 break 或 playtime。
+- **hide and seek / tag / dodgeball / jump rope** — 游戏四词。hide and seek 是捉迷藏；tag 是抓人游戏；dodgeball 是躲避球；jump rope 是跳绳（也可作名词"跳绳绳"）。
 
-- **nostalgic / fond / reminisce / good old days** — 四个怀旧表达。nostalgic = 怀旧的：feel nostalgic / a nostalgic feeling。fond = 喜爱的（常用于 fond of）：fond memories / I'm fond of those days。reminisce = 回忆、追忆：reminisce about the past / reminisce with old friends。good old days = 过去的美好时光：the good old days / back in the good old days。例句：I get nostalgic when I reminisce about the good old days—I'm so fond of those memories.
+- **slide / tree house / yo-yo** — 玩具与场地。slide 是滑梯；tree house 是树屋；yo-yo 是溜溜球。
 
-- **tree house** — 树屋。tree（树）+ house（房子），建在树上的小屋，是西方童年文化的经典符号。搭配：build a tree house / a tree house in the backyard / climb up to the tree house。例句：We would usually hang out in the tree house and eat berries.
+- **lollipop / bubble gum / blow bubbles** — 零食与玩法。lollipop 是棒棒糖；bubble gum 是泡泡糖；blow bubbles 是吹泡泡。
 
-- **lollipop / bubble gum / berries** — 三种童年零食。lollipop = 棒棒糖（lolly 舌头 + pop 拟声词）。bubble gum = 泡泡糖（可以吹泡泡的口香糖）。berries = 浆果（草莓、蓝莓等的总称）。例句：I used to buy a lollipop and bubble gum, and we'd pick berries in the summer. 注意 bubble gum 和 chewing gum（普通口香糖）的区别。
+- **berries / recess / scouts** — 童年场景。berries 是浆果（摘野果是经典童年回忆）；recess 是课间休息；scouts 是童子军。
 
-- **scouts** — 童子军。搭配：join the scouts / a scout troop / Boy Scouts / Girl Scouts。例句：I was in the scouts—we used to go camping every summer. 注意 scouts 通常用复数，指童子军组织。单数 a scout 指一个童子军成员。
+- **fond / nostalgic / reminisce** — 怀旧三词。fond 是"喜爱的"：fond memories（美好的回忆）。nostalgic 是"怀旧的"：feeling nostalgic。reminisce 是"追忆往事"：We reminisced about school days.
 
-- **every so often / another thing** — every so often = 偶尔、时不时：Every so often, I think about those days. another thing = 还有一件事（口语过渡）：Another thing I remember is the tree house. 例句：Every so often, I blow bubbles just for fun—another thing that makes me nostalgic. every so often 比 sometimes 更随意，another thing 是口语中引出下一个话题的自然过渡。
-
-- **slide** — 滑梯。搭配：go down the slide / a playground slide / slide down。例句：The little kids were always on the slide. 注意 slide 做动词是"滑行"：slide down the hill / slide on ice。做名词时指"滑梯"这个游乐设施。
-
-- **were always** — 过去总是（进行时态强调反复）。搭配：were always doing / was always doing。例句：We were always climbing trees and getting dirty. 注意 were always + doing 比 used to 更有画面感，常带有怀念或夸张的语气，暗示"那时候怎么老是……"。
-
-- **fond** — 喜爱的、深情的。搭配：be fond of / fond memories / fond of doing something。例句：I'm fond of those childhood memories. 注意 fond 不能单独做谓语（不说 I fond），必须和 be 搭配。比 like 更温暖、更有感情深度，常用于回忆语境。
-
-- **reminisce** — 回忆、追忆往事。搭配：reminisce about / reminisce with someone / sit and reminisce。例句：We sat around and reminisced about the good old days. 注意 reminisce 是不及物动词，后面要加 about。比 remember 更有"沉浸在过去回忆中"的意味，通常带有温暖的情感。
+- **good old days / another thing / every so often** — 话题语。the good old days 是"过去的好时光"；another thing 引出新话题：Another thing, we had a tree house. every so often 是"时不时"。
 
 ## 练习
 
@@ -61,149 +54,149 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
 
 <quiz-sentence-builder>
 
-1. **中文**：过去我们总是在公园里玩到日落。
-   **英文**：We always used to play in the park until sunset.
-   > **解析**：always used to 表示过去总是做某事。
+1. **中文**：我们过去常常在课间玩捉迷藏。
+   **英文**：We used to play hide and seek at recess.
+   > **解析**：used to 后接动词原形，表过去习惯；at recess 是时间状语。
 
-2. **中文**：暑假期间我们过去通常会聚集在湖边。
-   **英文**：We would usually gather near the lake during summer breaks.
-   > **解析**：would usually 表达过去反复发生的习惯动作。
+2. **中文**：我们总是会在外面待到黑天。
+   **英文**：We would stay out until dark.
+   > **解析**：would 表过去反复动作；until dark 是时间状语。
 
-3. **中文**：他们过去总是为了谁能骑自行车而争吵。
-   **英文**：They were always arguing about who got to ride the bicycle.
-   > **解析**：were always + doing 强调过去总是做某事，带有叙事感情。
+3. **中文**：她玩抓人游戏时通常会赢。
+   **英文**：She would usually win at tag.
+   > **解析**：would usually 表过去习惯；win at 是固定搭配。
 
-4. **中文**：我小时候过去常常养一只宠物仓鼠。
-   **英文**：I used to have a pet hamster when I was a child.
-   > **解析**：used to 强调过去常常做，现在不做了。
+4. **中文**：男孩子们总是在搞恶作剧。
+   **英文**：The boys were always playing tricks.
+   > **解析**：were always doing 结构表"过去总是在…"，带感情色彩。
 
-5. **中文**：孩子们喜欢在后院里玩捉迷藏。
-   **英文**：Children love playing hide and seek in the backyard.
-   > **解析**：hide and seek 表达捉迷藏游戏。
+5. **中文**：我们过去常爬进树屋分享棒棒糖。
+   **英文**：We always used to climb into the tree house and share lollipops.
+   > **解析**：always used to 强调频率；and 连接两个动词原形。
 
-6. **中文**：我们在课间到处奔跑玩抓人游戏。
-   **英文**：We ran around playing tag during the school break.
-   > **解析**：tag 不可数名词，指抓人游戏。
+6. **中文**：我们时不时会吹泡泡。
+   **英文**：Every so often, we would blow bubbles.
+   > **解析**：Every so often 作时间状语放句首；would blow 表过去习惯。
 
-7. **中文**：男孩们每周五都在体育馆里打躲避球。
-   **英文**：The boys played dodgeball in the gymnasium every Friday.
-   > **解析**：dodgeball 指躲避球游戏。
+7. **中文**：我过去常和朋友们跳绳。
+   **英文**：I used to jump rope with my friends.
+   > **解析**：used to 后接动词原形 jump；with my friends 是伴随状语。
 
-8. **中文**：女孩们过去经常在庭院里一起跳绳。
-   **英文**：Girls would often jump rope together in the courtyard.
-   > **解析**：jump rope 表示跳绳活动。
+8. **中文**：我们对那段时光有美好的回忆。
+   **英文**：We have fond memories of those days.
+   > **解析**：fond 修饰 memories；of those days 是定语。
 
-9. **中文**：孩子们喜欢用肥皂和水吹泡泡。
-   **英文**：Kids like to blow bubbles with soap and water.
-   > **解析**：blow bubbles 表示吹泡泡。
+9. **中文**：听到那首歌，我感到很怀旧。
+   **英文**：I feel nostalgic when I hear that song.
+   > **解析**：feel 后接形容词 nostalgic；when 引导时间状语从句。
 
-10. **中文**：他展示了他最喜欢的红色溜溜球的玩耍技巧。
-   **英文**：He showed off tricks with his favorite red yo-yo.
-   > **解析**：yo-yo 指溜溜球。
+10. **中文**：我们追忆起上学的日子。
+   **英文**：We reminisced about our school days.
+   > **解析**：reminisced 是 reminisce 的过去式；reminisce about 是固定搭配。
 
-11. **中文**：那个男孩嚼着泡泡糖并吹出了一个巨大的泡泡。
-   **英文**：The boy chewed bubble gum and blew a huge bubble.
-   > **解析**：bubble gum 指泡泡糖。
+11. **中文**：啊，过去的好时光！
+   **英文**：Ah, the good old days!
+   > **解析**：感叹短语；the good old days 是固定表达。
 
-12. **中文**：我奶奶在午饭后给了我一支草莓味的棒棒糖。
-   **英文**：My grandmother gave me a strawberry lollipop after lunch.
-   > **解析**：lollipop 表示棒棒糖。
+12. **中文**：还有一件事，我们过去有个秘密基地。
+   **英文**：Another thing, we used to have a secret base.
+   > **解析**：Another thing 引出新话题；used to have 表过去拥有。
 
-13. **中文**：孩子们在森林里采摘新鲜的野生浆果。
-   **英文**：The kids picked fresh wild berries in the forest.
-   > **解析**：berries 指浆果。
+13. **中文**：我们过去常去摘野果。
+   **英文**：We used to pick berries in the woods.
+   > **解析**：used to pick 表过去习惯；in the woods 是地点状语。
 
-14. **中文**：课间休息一开始学生们就跑出去玩了。
-   **英文**：Students ran outside to play as soon as recess began.
-   > **解析**：recess 在美式英语中指课间休息。
+14. **中文**：躲避球是我们最爱的游戏。
+   **英文**：Dodgeball was our favorite game.
+   > **解析**：Dodgeball 作主语用 was；our favorite 修饰 game。
 
-15. **中文**：听老歌让我感到深深的怀旧。
-   **英文**：Listening to old songs makes me feel deeply nostalgic.
-   > **解析**：nostalgic 形容词，意为怀旧的。
+15. **中文**：泡泡糖泡泡吹得越大越好。
+   **英文**：The bigger the bubble gum bubble, the better.
+   > **解析**：the + 比较级结构表"越…越…"。
 
-16. **中文**：我对在那个小镇长大的岁月有着美好的回忆。
-   **英文**：I have fond memories of growing up in that small town.
-   > **解析**：fond 形容词，与 memories 搭配表示美好的、深情的。
+16. **中文**：我过去总是把溜溜球带到学校。
+   **英文**：I always used to bring my yo-yo to school.
+   > **解析**：always used to 强调频率；to school 是方向状语。
 
-17. **中文**：老朋友们坐在火堆旁追忆他们的青春岁月的往事。
-   **英文**：The old friends sat by the fire to reminisce about their youth.
-   > **解析**：reminisce 表示追忆、回忆往事。
+17. **中文**：课间时滑梯前总是排着队。
+   **英文**：There was always a line for the slide at recess.
+   > **解析**：There was + 单数名词；at recess 是时间状语。
 
-18. **中文**：我们花了无数个小时搭建了一个秘密树屋。
-   **英文**：We spent endless hours building a secret tree house.
-   > **解析**：tree house 指树屋。
+18. **中文**：我们过去是童子军成员。
+   **英文**：We were in the scouts.
+   > **解析**：were 与复数主语一致；in the scouts 表"是童子军成员"。
 
-19. **中文**：啊，我怀念过去美好的岁月，那时生活多么简单！
-   **英文**：Ah, I miss the good old days when life was so simple!
-   > **解析**：good old days 表达过去的美好时光。
+19. **中文**：我们过去常常交换糖果。
+   **英文**：We would swap candies after lunch.
+   > **解析**：would swap 表过去反复动作；after lunch 是时间状语。
 
-20. **中文**：为了叙旧，我时不时会去参观我的小学。
-   **英文**：Every so often, I visit my elementary school for old time's sake.
-   > **解析**：Every so often 表示“偶尔、时不时”。
+20. **中文**：那些回忆让我微笑。
+   **英文**：Those memories make me smile.
+   > **解析**：make sb do 结构中 smile 用原形；Those memories 复数主语用 make。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We always used to play in the park until sunset.
-   > **中文**：过去我们总是在公园里玩到日落。
+1. We used to play hide and seek at recess.
+   > **中文**：我们过去常常在课间玩捉迷藏。
 
-2. We would usually gather near the lake during summer breaks.
-   > **中文**：暑假期间我们过去通常会聚集在湖边。
+2. We would stay out until dark.
+   > **中文**：我们总是会在外面待到黑天。
 
-3. They were always arguing about who got to ride the bicycle.
-   > **中文**：他们过去总是为了谁能骑自行车而争吵。
+3. She would usually win at tag.
+   > **中文**：她玩抓人游戏时通常会赢。
 
-4. I used to have a pet hamster when I was a child.
-   > **中文**：我小时候过去常常养一只宠物仓鼠。
+4. The boys were always playing tricks.
+   > **中文**：男孩子们总是在搞恶作剧。
 
-5. Children love playing hide and seek in the backyard.
-   > **中文**：孩子们喜欢在后院里玩捉迷藏。
+5. We always used to climb into the tree house and share lollipops.
+   > **中文**：我们过去常爬进树屋分享棒棒糖。
 
-6. We ran around playing tag during the school break.
-   > **中文**：我们在课间到处奔跑玩抓人游戏。
+6. Every so often, we would blow bubbles.
+   > **中文**：我们时不时会吹泡泡。
 
-7. The boys played dodgeball in the gymnasium every Friday.
-   > **中文**：男孩们每周五都在体育馆里打躲避球。
+7. I used to jump rope with my friends.
+   > **中文**：我过去常和朋友们跳绳。
 
-8. Girls would often jump rope together in the courtyard.
-   > **中文**：女孩们过去经常在庭院里一起跳绳。
+8. We have fond memories of those days.
+   > **中文**：我们对那段时光有美好的回忆。
 
-9. Kids like to blow bubbles with soap and water.
-   > **中文**：孩子们喜欢用肥皂和水吹泡泡。
+9. I feel nostalgic when I hear that song.
+   > **中文**：听到那首歌，我感到很怀旧。
 
-10. He showed off tricks with his favorite red yo-yo.
-   > **中文**：他展示了他最喜欢的红色溜溜球的玩耍技巧。
+10. We reminisced about our school days.
+   > **中文**：我们追忆起上学的日子。
 
-11. The boy chewed bubble gum and blew a huge bubble.
-   > **中文**：那个男孩嚼着泡泡糖并吹出了一个巨大的泡泡。
+11. Ah, the good old days!
+   > **中文**：啊，过去的好时光！
 
-12. My grandmother gave me a strawberry lollipop after lunch.
-   > **中文**：我奶奶在午饭后给了我一支草莓味的棒棒糖。
+12. Another thing, we used to have a secret base.
+   > **中文**：还有一件事，我们过去有个秘密基地。
 
-13. The kids picked fresh wild berries in the forest.
-   > **中文**：孩子们在森林里采摘新鲜的野生浆果。
+13. We used to pick berries in the woods.
+   > **中文**：我们过去常去摘野果。
 
-14. Students ran outside to play as soon as recess began.
-   > **中文**：课间休息一开始学生们就跑出去玩了。
+14. Dodgeball was our favorite game.
+   > **中文**：躲避球是我们最爱的游戏。
 
-15. Listening to old songs makes me feel deeply nostalgic.
-   > **中文**：听老歌让我感到深深的怀旧。
+15. The bigger the bubble gum bubble, the better.
+   > **中文**：泡泡糖泡泡吹得越大越好。
 
-16. I have fond memories of growing up in that small town.
-   > **中文**：我对在那个小镇长大的岁月有着美好的回忆。
+16. I always used to bring my yo-yo to school.
+   > **中文**：我过去总是把溜溜球带到学校。
 
-17. The old friends sat by the fire to reminisce about their youth.
-   > **中文**：老朋友们坐在火堆旁追忆他们的青春岁月的往事。
+17. There was always a line for the slide at recess.
+   > **中文**：课间时滑梯前总是排着队。
 
-18. We spent endless hours building a secret tree house.
-   > **中文**：我们花了无数个小时搭建了一个秘密树屋。
+18. We were in the scouts.
+   > **中文**：我们过去是童子军成员。
 
-19. Ah, I miss the good old days when life was so simple!
-   > **中文**：啊，我怀念过去美好的岁月，那时生活多么简单！
+19. We would swap candies after lunch.
+   > **中文**：我们过去常常交换糖果。
 
-20. Every so often, I visit my elementary school for old time's sake.
-   > **中文**：为了叙旧，我时不时会去参观我的小学。
+20. Those memories make me smile.
+   > **中文**：那些回忆让我微笑。
 
 </quiz-listening>
 
@@ -212,25 +205,37 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
 | 英文单词 | 课文释义 |
 | --- | --- |
 | always used to | 过去总是 |
-| would usually | 过去通常会 |
-| were always | 过去总是（进行时） |
-| used to | 过去常常 |
-| hide and seek | 捉迷藏 |
-| tag | 抓人游戏 |
-| dodgeball | 躲避球 |
-| jump rope | 跳绳 |
-| blow bubbles | 吹泡泡 |
-| yo-yo | 溜溜球 |
-| bubble gum | 泡泡糖 |
-| lollipop | 棒棒糖 |
+| another thing | 还有一件事 |
 | berries | 浆果 |
-| recess | 课间休息 |
+| blow bubbles | 吹泡泡 |
+| bubble gum | 泡泡糖 |
+| dodgeball | 躲避球 |
+| every so often | 时不时 |
+| fond | 喜爱的 |
+| good old days | 过去的好时光 |
+| hide and seek | 捉迷藏 |
+| jump rope | 跳绳 |
+| lollipop | 棒棒糖 |
 | nostalgic | 怀旧的 |
-| fond | 喜爱的 / 深情的 |
-| reminisce | 追忆 / 回忆 |
+| recess | 课间休息 |
+| reminisce | 追忆往事 |
+| scouts | 童子军 |
+| slide | 滑梯 |
+| tag | 抓人游戏 |
 | tree house | 树屋 |
-| good old days | 过去的岁月 / 美好时光 |
-| every so often | 偶尔 / 时不时 |
+| used to | 过去常常 |
+| were always | 过去总是在 |
+| would | 过去总会 |
+| would usually | 通常会 |
+| yo-yo | 溜溜球 |
+| is | 是 |
+| the | 这个（定冠词） |
+| friends | 朋友 |
+| game | 游戏 |
+| memories | 回忆 |
+| song | 歌 |
+| candies | 糖果 |
+| lunch | 午餐 |
 
 </quiz-matching>
 
@@ -238,202 +243,202 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
 
 ### 1
 
-We ____ used to play in the park until sunset.
+We used ____ play hide and seek at recess.
 
-- [x] always
-- [ ] always used to
-- [ ] another thing
+- [x] to
+- [ ] for
+- [ ] at
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **always**。
+> **解析**：used to + 动词原形表过去习惯；for 和 at 不合。
 
 ### 2
 
-We ____ usually gather near the lake during summer breaks.
+We would stay out ____ dark.
 
-- [x] would
-- [ ] always used to
-- [ ] another thing
+- [x] until
+- [ ] at
+- [ ] since
 
-> **解析**：**would** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：until dark（直到天黑）表时间终点；at 和 since 不合。
 
 ### 3
 
-They were always ____ about who got to ride the bicycle.
+She would usually win ____ tag.
 
-- [x] arguing
-- [ ] always used to
-- [ ] another thing
+- [x] at
+- [ ] in
+- [ ] on
 
-> **解析**：**arguing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：win at + 游戏是固定搭配；in 和 on 不合。
 
 ### 4
 
-I used to have a pet ____ when I was a child.
+The boys were always ____ tricks.
 
-- [x] hamster
-- [ ] always used to
-- [ ] another thing
+- [x] playing
+- [ ] play
+- [ ] played
 
-> **解析**：**hamster** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：were always doing 结构需用现在分词 playing；原形和过去式不合。
 
 ### 5
 
-____ love playing hide and seek in the backyard.
+We always used to climb ____ the tree house.
 
-- [x] Children
-- [ ] always used to
-- [ ] another thing
+- [x] into
+- [ ] in
+- [ ] onto of
 
-> **解析**：**Children** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：climb into（爬进）表进入；in 单独不作介词搭配，onto of 不合。
 
 ### 6
 
-We ran around playing ____ during the school break.
+Every so often, we would blow ____.
 
-- [x] tag
-- [ ] always used to
-- [ ] another thing
+- [x] bubbles
+- [ ] bubble
+- [ ] bubbling
 
-> **解析**：**tag** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：blow bubbles 是固定搭配，常用复数；单数和分词不合。
 
 ### 7
 
-The boys played ____ in the gymnasium every Friday.
+I used to jump ____ with my friends.
 
-- [x] dodgeball
-- [ ] always used to
-- [ ] another thing
+- [x] rope
+- [ ] ropes of
+- [ ] roping
 
-> **解析**：**dodgeball** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：jump rope 是固定短语"跳绳"；其他形式不合。
 
 ### 8
 
-Girls ____ often jump rope together in the courtyard.
+We have fond ____ of those days.
 
-- [x] would
-- [ ] always used to
-- [ ] another thing
+- [x] memories
+- [ ] memory's
+- [ ] memorizing
 
-> **解析**：**would** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：fond memories（美好回忆）用复数；所有格和动词形式不合。
 
 ### 9
 
-Kids like to blow ____ with soap and water.
+I feel ____ when I hear that song.
 
-- [x] bubbles
-- [ ] always used to
-- [ ] another thing
+- [x] nostalgic
+- [ ] nostalgia
+- [ ] nostalgically of
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **bubbles**。
+> **解析**：feel 后接形容词 nostalgic；名词不合，副词选项形式错误。
 
 ### 10
 
-He showed off tricks with his favorite red ____.
+We reminisced ____ our school days.
 
-- [x] yo-yo
-- [ ] always used to
-- [ ] another thing
+- [x] about
+- [ ] at
+- [ ] for
 
-> **解析**：**yo-yo** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：reminisce about 是固定搭配；at 和 for 不合。
 
 ### 11
 
-The boy ____ bubble gum and blew a huge bubble.
+Ah, the good old ____!
 
-- [x] chewed
-- [ ] always used to
-- [ ] another thing
+- [x] days
+- [ ] day
+- [ ] daily
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **chewed**。
+> **解析**：the good old days 是固定表达，用复数；单数和形容词不合。
 
 ### 12
 
-My grandmother gave me a strawberry ____ after lunch.
+____ thing, we used to have a secret base.
 
-- [x] lollipop
-- [ ] always used to
-- [ ] another thing
+- [x] Another
+- [ ] Other
+- [ ] Others
 
-> **解析**：**lollipop** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Another thing 引出新话题；Other 需接复数或加 the，Others 是代词。
 
 ### 13
 
-The kids picked fresh wild ____ in the forest.
+We used to pick ____ in the woods.
 
 - [x] berries
-- [ ] always used to
-- [ ] another thing
+- [ ] berry
+- [ ] berrys
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **berries**。
+> **解析**：摘野果用复数 berries；berry 单数不合语境，berrys 拼写错误。
 
 ### 14
 
-Students ran outside to play as soon as ____ began.
+____ was our favorite game.
 
-- [x] recess
-- [ ] always used to
-- [ ] another thing
+- [x] Dodgeball
+- [ ] Dodgeballs
+- [ ] Dodging
 
-> **解析**：**recess** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：游戏名 Dodgeball 作主语单数；复数和分词不合。
 
 ### 15
 
-Listening to old songs makes me feel deeply ____.
+I always used to bring my yo-yo ____ school.
 
-- [x] nostalgic
-- [ ] always used to
-- [ ] another thing
+- [x] to
+- [ ] at
+- [ ] on
 
-> **解析**：**nostalgic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：bring sth to school（带到学校）表方向；at 和 on 不合。
 
 ### 16
 
-I have ____ memories of growing up in that small town.
+There ____ always a line for the slide.
 
-- [x] fond
-- [ ] always used to
-- [ ] another thing
+- [x] was
+- [ ] were
+- [ ] are
 
-> **解析**：**fond** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a line 是单数，搭配 was；were 和 are 不合。
 
 ### 17
 
-The old friends sat by the fire to ____ about their youth.
+We ____ in the scouts.
 
-- [x] reminisce
-- [ ] always used to
-- [ ] another thing
+- [x] were
+- [ ] was
+- [ ] is
 
-> **解析**：**reminisce** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：复数主语 We 搭配 were；was 和 is 不合。
 
 ### 18
 
-We spent endless hours ____ a secret tree house.
+We would swap ____ after lunch.
 
-- [x] building
-- [ ] always used to
-- [ ] another thing
+- [x] candies
+- [ ] candy's
+- [ ] candying
 
-> **解析**：**building** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：交换糖果用复数 candies；所有格和动词形式不合。
 
 ### 19
 
-Ah, I miss the good old days when life was so ____!
+Those memories make me ____.
 
-- [x] simple
-- [ ] always used to
-- [ ] another thing
+- [x] smile
+- [ ] smiled
+- [ ] smiling of
 
-> **解析**：**simple** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：make sb do 结构中用原形 smile；其他形式不合。
 
 ### 20
 
-Every so often, I visit my ____ school for old time's sake.
+We would play dodgeball for ____.
 
-- [x] elementary
-- [ ] always used to
-- [ ] another thing
+- [x] hours
+- [ ] hour
+- [ ] hourly
 
-> **解析**：**elementary** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：for + 复数时间段 hours；单数和形容词不合。
 
 </quiz-cloze>

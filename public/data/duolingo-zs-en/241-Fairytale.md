@@ -10,38 +10,33 @@ approach, arrow, beyond, bury, collect, deep, evil, fate, get out of, instantly,
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"谈论一段漫长的旅程"展开，带有童话和传奇色彩。词表里有冒险与旅途词汇（journey, approach, beyond, deep, up ahead, get out of），有奇幻与命运元素（magical, mysterious, evil, fate, legend, tale, treasure, sword, arrow），也有叙事连接词（nevertheless, no longer, more and more, one by one, instantly, just as, the least of）。你可以用这些词讲一个故事：The journey was long and mysterious. / One by one, the travelers approached the magical forest beyond the mountains. / Nevertheless, they collected their strength and pressed on. / Just as evil seemed to win, a legend came to life—a hero with a sword and an arrow. / The treasure was buried deep, but fate had more in store. / No longer afraid, they faced what lay up ahead. / Worry was the least of their problems.
+本单元的主题是"讲述一段漫长的旅程"，场景是童话与冒险故事。词表可以分成四组：故事意象（arrow, sword, treasure, legend, tale, magical, evil, mysterious, fate）、旅途动作（approach, bury, collect, get out of, journey）、程度与时间副词（instantly, more and more, no longer, one by one, just as, nevertheless）、以及空间与感受（beyond, deep, up ahead, strength, worry, the least of）。拼起来就是一个童话的开篇：Once upon a time, a hero began a long journey beyond the deep forest to find the lost treasure.
 
-这里值得注意 nevertheless 和 no longer 这类"叙事转折"词汇——它们让故事有了起伏。more and more 表渐进变化，one by one 表逐个发生，instantly 表瞬间。这些词让叙事有了节奏感。the least of 是一个有趣的表达："……是最不重要的"：Worry was the least of their concerns.
+语法主线是故事叙述中的时间与逻辑衔接：just as（正当……时）引出同时发生的场景，nevertheless（尽管如此）表示转折，no longer（不再）和 more and more（越来越）描述状态的变化。另一条主线是空间介词 beyond（在……的另一边）、deep（深入）、up ahead（在前方）构成的旅程画面。
 
-学完本单元，你可以用英语讲述一段奇幻旅程，使用叙事连接词让故事有节奏，并描述命运、勇气和冒险。
+学完这个单元，你能用英语讲述冒险故事、描述旅途中的发现与危险，还能表达坚持与勇气。
 
 ## Tips
 
-- **journey / tale / legend** — journey 是旅程（强调过程），tale 是故事（常指虚构/古老的），legend 是传说（有历史基础的）。搭配：a long journey, tell a tale, an ancient legend。The journey took years. / Let me tell you a tale. / The legend says a treasure is buried here. 注意 journey 强调"路途"，trip 强调"出行"，voyage 强调"航海"。
+- **tale / legend / fate** — 三个故事词。tale 是"故事、传说"，fairy tale 就是童话；legend 指代代相传的"传奇"，主角常是英雄；fate 是"命运"：It was his fate to find the sword. 注意 legend 强调广为流传，tale 更泛。
 
-- **nevertheless / no longer** — nevertheless = 然而/尽管如此（正式转折），no longer = 不再。搭配：nevertheless, ... / no longer + 动词。It was dangerous. Nevertheless, they continued. / They were no longer afraid. 注意 nevertheless 比 but 更正式、更有文学感。no longer 放在动词前或 be 后。
+- **magical / evil / mysterious** — 三个故事形容词。magical = 有魔法的；evil = 邪恶的，童话里的反派常用 evil queen、evil wizard；mysterious = 神秘的：a mysterious forest。
 
-- **magical / mysterious / evil** — magical 是有魔力的，mysterious 是神秘的，evil 是邪恶的。搭配：a magical forest, a mysterious stranger, an evil king。The magical sword glowed. / A mysterious figure appeared. / The evil sorcerer waited. 注意 evil 比 bad 强烈得多，常用于童话/奇幻语境。
+- **sword / arrow / treasure** — 冒险三件套。sword 是剑；arrow 是箭；treasure 是宝藏，不可数：buried treasure（埋藏的宝藏）。
 
-- **fate / treasure / bury** — fate 是命运，treasure 是宝藏，bury 是埋葬/埋藏。搭配：fate had other plans, buried treasure, bury the sword。Fate brought them together. / The treasure was buried deep. / They buried the evil sword. 注意 bury 的过去式是 buried（双写 r 加 ed）。
+- **approach / bury / collect / get out of** — 四个旅途动词。approach = 接近、靠近；bury = 埋藏：bury the treasure；collect = 收集：collect clues；get out of = 从……出来：get out of the cave。
 
-- **sword / arrow / strength** — sword 是剑，arrow 是箭，strength 是力量。搭配：draw a sword, shoot an arrow, gather strength。He drew his sword. / She shot an arrow. / They collected their strength. 注意 sword 的 w 不发音：/sɔːrd/。strength 来自 strong → strength（名词）。
+- **journey / deep / beyond / up ahead** — 空间与旅程词。journey 是"旅程"，强调长途跋涉；deep 描述深入：deep in the forest；beyond 表示"在……另一边"：beyond the mountain；up ahead 表示"前方"：There's a castle up ahead.
 
-- **more and more / one by one / instantly** — more and more = 越来越，one by one = 一个接一个，instantly = 立刻。搭配：more and more dangerous, one by one they fell, instantly disappeared。The path grew more and more mysterious. / One by one, the stars appeared. / The dragon vanished instantly. 注意 more and more + 形容词 = 越来越……。
+- **just as / nevertheless** — 两个叙事连接词。just as = 正当……时：Just as he opened the door, the light went out. nevertheless = 尽管如此：It was dangerous; nevertheless, he went on. 书面与故事语体常用。
 
-- **just as / the least of** — just as = 正当……的时候，the least of = 最不重要的。搭配：just as they arrived, the least of their worries。Just as they gave up hope, help arrived. / Worry was the least of their problems. 注意 just as 强调"恰好在那个时刻"，比 when 更有戏剧性。
+- **instantly / more and more / no longer / one by one** — 四个副词短语。instantly = 立刻；more and more = 越来越：more and more difficult；no longer = 不再：The king no longer lived there. one by one = 一个接一个：The stars appeared one by one.
 
-- **beyond / up ahead / deep** — beyond = 在……那边/超越，up ahead = 前方，deep = 深处。搭配：beyond the mountains, up ahead, deep in the forest。Beyond the river lay the magical land. / The castle is up ahead. / The treasure was buried deep. 注意 beyond 既有空间义（那边）也有抽象义（超越理解）：beyond belief。
+- **strength / worry** — strength 是 strong 的名词"力量"：find the strength to continue；worry 既可作动词也可作名词：Don't worry. / It's a big worry.
 
-- **approach / get out of / collect** — approach = 接近/靠近，get out of = 逃出/离开，collect = 收集/聚集。搭配：approach the castle, get out of the forest, collect strength。They approached the mysterious tower. / We need to get out of here! / They collected their courage. 注意 collect 在这里可指"聚集（力量/勇气）"。
-
-- **no longer / nevertheless** — 两者都用于叙事转折。no longer 表状态改变（不再），nevertheless 表让步转折（尽管如此）。搭配：no longer safe, nevertheless they tried。The path was no longer safe. / Nevertheless, they walked on. 注意 no longer 比 not anymore 更正式、更有文学感。
-
-- **worry / instantly** — worry 是担忧，instantly 是立刻。搭配：don't worry, instantly recognized。Don't worry—the journey will end. / She instantly knew the legend was true. 注意 instantly 比 immediately 更有"一瞬间"的画面感，常用于叙事。
+- **the least of** — "其中最不重要的"：Fear was the least of his problems.（恐惧是他最不用担心的。）常用于对比强调更大的问题。
 
 ## 练习
 
@@ -59,149 +54,149 @@ approach, arrow, beyond, bury, collect, deep, evil, fate, get out of, instantly,
 
 <quiz-sentence-builder>
 
-1. **中文**：勇敢的骑士挥舞着宝剑对抗邪恶的巫师。
-   **英文**：The brave knight brandished his sword against the evil wizard.
-   > **解析**：sword 表示宝剑；evil 表示邪恶的。
+1. **中文**：英雄踏上了一段漫长的旅程。
+   **英文**：The hero began a long journey.
+   > **解析**：began 是 begin 的过去式，用于讲故事；a long journey 作宾语。
 
-2. **中文**：弓箭手向空中射出一支带有魔法光芒的箭。
-   **英文**：The archer shot a glowing arrow high into the night sky.
-   > **解析**：arrow 表示箭；magical 表示神奇的、有魔力的。
+2. **中文**：宝藏埋在大山的那一边。
+   **英文**：The treasure is buried beyond the mountain.
+   > **解析**：is buried 是被动语态；beyond the mountain 表示"在大山另一边"。
 
-3. **中文**：探险家们穿越神秘的森林去寻找埋藏的宝藏。
-   **英文**：Explorers traveled through the mysterious forest to find buried treasure.
-   > **解析**：mysterious 表示神秘的；treasure 表示宝藏。
+3. **中文**：他收集线索，一把接一把。
+   **英文**：He collected the clues one by one.
+   > **解析**：collected 是过去式；one by one 作方式状语"一个接一个"。
 
-4. **中文**：这个古老的传说讲述了一个拯救王国的年轻英雄。
-   **英文**：This ancient legend tells the story of a hero who saved the kingdom.
-   > **解析**：legend 表示传说。
+4. **中文**：正当他走近城堡，门开了。
+   **英文**：Just as he approached the castle, the door opened.
+   > **解析**：Just as 引导时间状语从句，表示两件事同时发生；approached 是过去式。
 
-5. **中文**：他们相信命运将引导他们完成这趟艰险的旅程。
-   **英文**：They believed that fate would guide them through the long journey.
-   > **解析**：fate 表示命运；journey 表示旅程。
+5. **中文**：尽管如此，他还是继续前进。
+   **英文**：Nevertheless, he continued.
+   > **解析**：Nevertheless 是转折副词，置于句首用逗号隔开；continued 是过去式。
 
-6. **中文**：当队伍靠近古老的城堡时，大门自动缓缓打开。
-   **英文**：As the heroes began to approach the castle, the gates opened.
-   > **解析**：approach 表示靠近、接近。
+6. **中文**：森林变得越来越黑暗。
+   **英文**：The forest became more and more dark.
+   > **解析**：more and more + 形容词表示"越来越"；became 是 become 的过去式。
 
-7. **中文**：海盗们决定将金币埋藏在深山洞穴之中。
-   **英文**：Pirates chose to bury gold coins inside a deep mountain cave.
-   > **解析**：bury 表示埋藏；deep 表示深的。
+7. **中文**：国王不再住在那里了。
+   **英文**：The king no longer lived there.
+   > **解析**：no longer 表示"不再"，放在实义动词 lived 之前；lived 是过去式。
 
-8. **中文**：喝下药水后，巨人的力量瞬间得到了成倍增长。
-   **英文**：After drinking the potion, his strength increased instantly.
-   > **解析**：strength 表示力量；instantly 表示立即、瞬间。
+8. **中文**：女巫立刻消失了。
+   **英文**：The witch vanished instantly.
+   > **解析**：instantly 是副词，修饰 vanished；讲述过去故事用过去式。
 
-9. **中文**：城堡前方不远处有一座横跨大峡谷的吊桥。
-   **英文**：There was a narrow wooden bridge over the canyon up ahead.
-   > **解析**：up ahead 表示前方、前方不远处。
+9. **中文**：传说这把剑有魔力。
+   **英文**：Legend says the sword is magical.
+   > **解析**：Legend says 是固定表达"传说说……"；magical 作表语。
 
-10. **中文**：森林深处的景象超越了任何人的想象力。
-   **英文**：The scenery inside the forest was beyond anyone's wild imagination.
-   > **解析**：beyond 表示超越、在……之外。
+10. **中文**：邪恶的皇后想毁掉这个传说。
+   **英文**：The evil queen wanted to destroy the legend.
+   > **解析**：wanted to + 动词原形 destroy；evil 作定语修饰 queen。
 
-11. **中文**：怪物一个接一个地被英雄们击退了。
-   **英文**：The shadowy monsters were defeated one by one by the heroes.
-   > **解析**：one by one 表示一个接一个地。
+11. **中文**：他从山洞里逃了出来。
+   **英文**：He got out of the cave.
+   > **解析**：get out of 是固定短语"从……出来"；got 是过去式。
 
-12. **中文**：那条可怕的巨龙不再威胁附近的村民了。
-   **英文**：The terrifying dragon no longer threatened the peaceful villagers.
-   > **解析**：no longer 表示不再。
+12. **中文**：森林深处有一座神秘的湖。
+   **英文**：Deep in the forest, there was a mysterious lake.
+   > **解析**：Deep in the forest 作地点状语置于句首；there was 表示过去的存在。
 
-13. **中文**：前途充满了未知的危险；尽管如此，他们依然勇敢前行。
-   **英文**：Danger lay ahead; nevertheless, the adventurers pushed forward bravely.
-   > **解析**：nevertheless 表示尽管如此、然而。
+13. **中文**：前方有一座桥。
+   **英文**：There is a bridge up ahead.
+   > **解析**：up ahead 作地点状语"在前方"；there is 表示存在。
 
-14. **中文**：救出公主后，摆脱魔咒成了他们最不担心的事。
-   **英文**：Escaping the dark cave was the least of their worries now.
-   > **解析**：the least of 表示最不……的。
+14. **中文**：他找到了继续前进的力量。
+   **英文**：He found the strength to continue.
+   > **解析**：the strength 作宾语；to continue 是不定式作后置定语。
 
-15. **中文**：随着魔法显现，周围变得越来越明亮。
-   **英文**：As the magic sparkled, the dark room grew more and more luminous.
-   > **解析**：more and more 表示越来越……
+15. **中文**：命运把他带到了那座塔。
+   **英文**：Fate brought him to the tower.
+   > **解析**：brought 是 bring 的过去式；Fate 作主语，叙述命运的安排。
 
-16. **中文**：英雄必须找到拯救被困臣民的方法并逃离城堡。
-   **英文**：The hero needed to find a way to get out of the castle.
-   > **解析**：get out of 表示逃离、摆脱。
+16. **中文**：别担心，箭伤不了你。
+   **英文**：Don't worry; the arrow cannot hurt you.
+   > **解析**：Don't worry 是否定祈使句；cannot + 动词原形 hurt。
 
-17. **中文**：正当巫师念动咒语时，闪电划破了天空。
-   **英文**：Just as the wizard chanted the spell, lightning struck the tower.
-   > **解析**：just as 表示正当……之时。
+17. **中文**：恐惧是他最不用担心的事。
+   **英文**：Fear was the least of his problems.
+   > **解析**：the least of 表示"其中最不重要的"；was 与过去叙事一致。
 
-18. **中文**：奶奶每晚都会给孩子们讲述生动的童话故事。
-   **英文**：Grandma reads an enchanting fairytale to the kids every evening.
-   > **解析**：tale 表示故事、童话。
+18. **中文**：她埋下了地图。
+   **英文**：She buried the map.
+   > **解析**：buried 是 bury 的过去式，y 变 ied；the map 作宾语。
 
-19. **中文**：探险队员们在途中收集了许多神奇的草药。
-   **英文**：The group managed to collect magical herbs along the riverbank.
-   > **解析**：collect 表示收集。
+19. **中文**：这是一个关于勇气的童话故事。
+   **英文**：This is a tale about courage.
+   > **解析**：a tale about... 表示"关于……的故事"；about 引出主题。
 
-20. **中文**：别担心，善良的力量终将战胜黑暗。
-   **英文**：Don't worry, the force of good will eventually conquer dark magic.
-   > **解析**：worry 表示担心。
+20. **中文**：他正逼近那片神秘的土地。
+   **英文**：He was approaching the mysterious land.
+   > **解析**：过去进行时 was approaching 描述故事中正在发生的动作。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The brave knight brandished his sword against the evil wizard.
-   > **中文**：勇敢的骑士挥舞着宝剑对抗邪恶的巫师。
+1. The hero began a long journey.
+   > **中文**：英雄踏上了一段漫长的旅程。
 
-2. The archer shot a glowing arrow high into the night sky.
-   > **中文**：弓箭手向空中射出一支带有魔法光芒的箭。
+2. The treasure is buried beyond the river.
+   > **中文**：宝藏埋在河的那一边。
 
-3. Explorers traveled through the mysterious forest to find buried treasure.
-   > **中文**：探险家们穿越神秘的森林去寻找埋藏的宝藏。
+3. She collected the stones one by one.
+   > **中文**：她把石头一颗接一颗地收集起来。
 
-4. This ancient legend tells the story of a hero who saved the kingdom.
-   > **中文**：这个古老的传说讲述了一个拯救王国的年轻英雄。
+4. Just as he arrived, the gate opened.
+   > **中文**：正当他到达时，大门开了。
 
-5. They believed that fate would guide them through the long journey.
-   > **中文**：他们相信命运将引导他们完成这趟艰险的旅程。
+5. Nevertheless, they walked on.
+   > **中文**：尽管如此，他们继续前行。
 
-6. As the heroes began to approach the castle, the gates opened.
-   > **中文**：当队伍靠近古老的城堡时，大门自动缓缓打开。
+6. The night grew more and more cold.
+   > **中文**：夜变得越来越冷。
 
-7. Pirates chose to bury gold coins inside a deep mountain cave.
-   > **中文**：海盗们决定将金币埋藏在深山洞穴之中。
+7. The dragon no longer guarded the cave.
+   > **中文**：巨龙不再守护洞穴了。
 
-8. After drinking the potion, his strength increased instantly.
-   > **中文**：喝下药水后，巨人的力量瞬间得到了成倍增长。
+8. The bridge appeared instantly.
+   > **中文**：那座桥立刻出现了。
 
-9. There was a narrow wooden bridge over the canyon up ahead.
-   > **中文**：城堡前方不远处有一座横跨大峡谷的吊桥。
+9. Legend says the sword is magical.
+   > **中文**：传说这把剑有魔力。
 
-10. The scenery inside the forest was beyond anyone's wild imagination.
-   > **中文**：森林深处的景象超越了任何人的想象力。
+10. The evil king took the treasure.
+   > **中文**：邪恶的国王夺走了宝藏。
 
-11. The shadowy monsters were defeated one by one by the heroes.
-   > **中文**：怪物一个接一个地被英雄们击退了。
+11. They got out of the forest at last.
+   > **中文**：他们终于走出了森林。
 
-12. The terrifying dragon no longer threatened the peaceful villagers.
-   > **中文**：那条可怕的巨龙不再威胁附近的村民了。
+12. Deep in the valley, there was a well.
+   > **中文**：山谷深处有一口井。
 
-13. Danger lay ahead; nevertheless, the adventurers pushed forward bravely.
-   > **中文**：前途充满了未知的危险；尽管如此，他们依然勇敢前行。
+13. There is a castle up ahead.
+   > **中文**：前方有一座城堡。
 
-14. Escaping the dark cave was the least of their worries now.
-   > **中文**：救出公主后，摆脱魔咒成了他们最不担心的事。
+14. He found the strength to go on.
+   > **中文**：他找到了继续前行的力量。
 
-15. As the magic sparkled, the dark room grew more and more luminous.
-   > **中文**：随着魔法显现，周围变得越来越明亮。
+15. Fate brought them together.
+   > **中文**：命运让他们相遇。
 
-16. The hero needed to find a way to get out of the castle.
-   > **中文**：英雄必须找到拯救被困臣民的方法并逃离城堡。
+16. Don't worry about the storm.
+   > **中文**：别担心那场风暴。
 
-17. Just as the wizard chanted the spell, lightning struck the tower.
-   > **中文**：正当巫师念动咒语时，闪电划破了天空。
+17. The arrow flew over the wall.
+   > **中文**：箭从墙上飞了过去。
 
-18. Grandma reads an enchanting fairytale to the kids every evening.
-   > **中文**：奶奶每晚都会给孩子们讲述生动的童话故事。
+18. She buried the letter under a tree.
+   > **中文**：她把信埋在了一棵树下。
 
-19. The group managed to collect magical herbs along the riverbank.
-   > **中文**：探险队员们在途中收集了许多神奇的草药。
+19. This tale is about a brave girl.
+   > **中文**：这个故事关于一个勇敢的女孩。
 
-20. Don't worry, the force of good will eventually conquer dark magic.
-   > **中文**：别担心，善良的力量终将战胜黑暗。
+20. The mysterious light came closer.
+   > **中文**：那神秘的光靠近了。
 
 </quiz-listening>
 
@@ -209,26 +204,40 @@ approach, arrow, beyond, bury, collect, deep, evil, fate, get out of, instantly,
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| legend | 传说 |
-| tale | 故事；童话 |
-| magical | 神奇的；有魔力的 |
-| mysterious | 神秘的 |
+| approach | 接近 / 靠近 |
+| arrow | 箭 |
+| beyond | 在……的另一边 |
+| bury | 埋藏 |
+| collect | 收集 |
+| deep | 深的 / 深入地 |
 | evil | 邪恶的 |
 | fate | 命运 |
-| sword | 剑；宝剑 |
-| arrow | 箭；弓箭 |
-| treasure | 宝藏 |
-| journey | 旅程；征途 |
-| approach | 靠近；接近 |
-| bury | 埋藏；掩埋 |
-| strength | 力量；体力 |
-| up ahead | 前方；前方不远处 |
-| beyond | 在……之外；越过 |
-| instantly | 立即；瞬间 |
+| get out of | 从……出来 |
+| instantly | 立刻 |
+| journey | 旅程 |
+| just as | 正当……时 |
+| legend | 传奇 |
+| magical | 有魔法的 |
+| more and more | 越来越 |
+| mysterious | 神秘的 |
+| nevertheless | 尽管如此 |
 | no longer | 不再 |
-| one by one | 一个接一个地 |
-| nevertheless | 尽管如此；然而 |
-| get out of | 逃离；摆脱 |
+| one by one | 一个接一个 |
+| strength | 力量 |
+| sword | 剑 |
+| tale | 故事 |
+| the least of | 其中最不重要的 |
+| treasure | 宝藏 |
+| up ahead | 在前方 |
+| worry | 担心 |
+| the | 那个 |
+| he | 他 |
+| she | 她 |
+| there | 那里 |
+| at last | 终于 |
+| was | 是（过去式） |
+| under | 在……下面 |
+| closer | 更近 |
 
 </quiz-matching>
 
@@ -236,202 +245,202 @@ approach, arrow, beyond, bury, collect, deep, evil, fate, get out of, instantly,
 
 ### 1
 
-The brave knight brandished his ____ against the evil wizard.
+The hero began a long ____ to the east.
 
-- [x] sword
-- [ ] approach
-- [ ] arrow
+- [x] journey
+- [ ] journeys
+- [ ] journeyed
 
-> **解析**：**sword** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a long 后需要单数名词 journey；journeyed 是动词过去式。
 
 ### 2
 
-The archer shot a glowing ____ high into the night sky.
+The treasure was buried ____ the mountain.
 
-- [x] arrow
-- [ ] approach
-- [ ] beyond
+- [x] beyond
+- [ ] between
+- [ ] behind to
 
-> **解析**：**arrow** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：beyond the mountain 表示"在山的那一边"；behind to 结构错误，between 需要两个对象。
 
 ### 3
 
-Explorers traveled through the ____ forest to find buried treasure.
+She picked up the golden coins one ____ one.
 
-- [x] mysterious
-- [ ] approach
-- [ ] arrow
+- [x] by
+- [ ] to
+- [ ] and
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **mysterious**。
+> **解析**：one by one 是固定搭配"一个接一个"；to 和 and 不能构成该短语。
 
 ### 4
 
-This ancient ____ tells the story of a hero who saved the kingdom.
+____ he opened the box, the light filled the room.
 
-- [x] legend
-- [ ] approach
-- [ ] arrow
+- [x] Just as
+- [ ] Just so
+- [ ] Just of
 
-> **解析**：**legend** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Just as 引导"正当……时"从句；so 和 of 不能引导时间从句。
 
 ### 5
 
-They believed that ____ would guide them through the long journey.
+It was dangerous; ____, he entered the cave.
 
-- [x] fate
-- [ ] approach
-- [ ] arrow
+- [x] nevertheless
+- [ ] nonetheless than
+- [ ] however than
 
-> **解析**：**fate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：nevertheless 表示"尽管如此"，连接两个分句；其余选项结构错误。
 
 ### 6
 
-As the heroes began to ____ the castle, the gates opened.
+The path became more ____ more difficult.
 
-- [x] approach
-- [ ] arrow
-- [ ] beyond
+- [x] and
+- [ ] or
+- [ ] but
 
-> **解析**：**approach** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：more and more 是固定搭配"越来越"；or 和 but 不能构成该结构。
 
 ### 7
 
-Pirates chose to ____ gold coins inside a deep mountain cave.
+The old king ____ ruled the land.
 
-- [x] bury
-- [ ] approach
-- [ ] arrow
+- [x] no longer
+- [ ] no more than
+- [ ] not longer
 
-> **解析**：**bury** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：no longer 表示"不再"，置于动词前；not longer 不是正确表达。
 
 ### 8
 
-After drinking the potion, his ____ increased instantly.
+The door opened ____ when he touched it.
 
-- [x] strength
-- [ ] approach
-- [ ] arrow
+- [x] instantly
+- [ ] instant
+- [ ] instance
 
-> **解析**：**strength** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 opened 需要副词 instantly；instant 是形容词，instance 是名词。
 
 ### 9
 
-There was a ____ wooden bridge over the canyon up ahead.
+____ says the forest protects the treasure.
 
-- [x] narrow
-- [ ] approach
-- [ ] arrow
+- [x] Legend
+- [ ] Legendary
+- [ ] Legending
 
-> **解析**：**narrow** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句首需要名词 Legend；Legendary 是形容词，Legending 不是正确构词。
 
 ### 10
 
-The scenery inside the forest was ____ anyone's wild imagination.
+The ____ queen locked the tower.
 
-- [x] beyond
-- [ ] approach
-- [ ] arrow
+- [x] evil
+- [ ] evils
+- [ ] evily
 
-> **解析**：**beyond** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰名词 queen 需要形容词 evil；evils 是复数名词，evily 不是常用词。
 
 ### 11
 
-The shadowy ____ were defeated one by one by the heroes.
+They finally got out ____ the dark forest.
 
-- [x] monsters
-- [ ] approach
-- [ ] arrow
+- [x] of
+- [ ] from
+- [ ] off
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **monsters**。
+> **解析**：get out of 是固定搭配；from 和 off 不与 get out 构成该短语。
 
 ### 12
 
-The ____ dragon no longer threatened the peaceful villagers.
+____ in the mountains, they found a hidden village.
 
-- [x] terrifying
-- [ ] approach
-- [ ] arrow
+- [x] Deep
+- [ ] Deeply
+- [ ] Deeper
 
-> **解析**：**terrifying** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：Deep in the mountains 是固定用法，deep 作副词表示"深入"；deeply 多指情感上的"深深地"。
 
 ### 13
 
-Danger lay ahead; ____, the adventurers pushed forward bravely.
+There is a village just up ____.
 
-- [x] nevertheless
-- [ ] approach
-- [ ] arrow
+- [x] ahead
+- [ ] before
+- [ ] front
 
-> **解析**：**nevertheless** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：up ahead 是固定搭配"在前方"；up before 和 up front 不表示此意。
 
 ### 14
 
-____ the dark cave was the least of their worries now.
+He gathered the ____ to face the dragon.
 
-- [x] Escaping
-- [ ] approach
-- [ ] arrow
+- [x] strength
+- [ ] strong
+- [ ] strongly
 
-> **解析**：**Escaping** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：the 后需要名词 strength；strong 是形容词，strongly 是副词。
 
 ### 15
 
-As the magic ____, the dark room grew more and more luminous.
+____ led the travelers to the magic well.
 
-- [x] sparkled
-- [ ] approach
-- [ ] arrow
+- [x] Fate
+- [ ] Fatal
+- [ ] Fated
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **sparkled**。
+> **解析**：句首需要名词 Fate（命运）；Fatal 是形容词"致命的"，Fated 是过去分词。
 
 ### 16
 
-The hero ____ to find a way to get out of the castle.
+Don't ____; the road is safe.
 
-- [x] needed
-- [ ] approach
-- [ ] arrow
+- [x] worry
+- [ ] worries
+- [ ] worrying
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **needed**。
+> **解析**：Don't 后接动词原形 worry；worries 是单三形式，worrying 是动名词。
 
 ### 17
 
-Just as the wizard chanted the spell, ____ struck the tower.
+The ____ hit the wooden shield.
 
-- [x] lightning
-- [ ] approach
-- [ ] arrow
+- [x] arrow
+- [ ] arrows
+- [ ] arrowing
 
-> **解析**：**lightning** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：The 后接单数名词 arrow；arrows 与 hit 搭配虽可，但此处叙述单发之箭，arrowing 不是名词。
 
 ### 18
 
-Grandma reads an ____ fairytale to the kids every evening.
+They ____ the map before leaving the island.
 
-- [x] enchanting
-- [ ] approach
-- [ ] arrow
+- [x] buried
+- [ ] buryed
+- [ ] burried
 
-> **解析**：**enchanting** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：bury 的过去式是 buried（y 变 ied）；buryed 和 burried 拼写错误。
 
 ### 19
 
-The group managed to ____ magical herbs along the riverbank.
+This ____ is about a boy and a magical sword.
 
-- [x] collect
-- [ ] approach
-- [ ] arrow
+- [x] tale
+- [ ] tail
+- [ ] tell
 
-> **解析**：**collect** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：指"故事"用 tale；tail 是尾巴，tell 是动词，语义不合。
 
 ### 20
 
-Don't ____, the force of good will eventually conquer dark magic.
+The cold was the ____ of their worries.
 
-- [x] worry
-- [ ] approach
-- [ ] arrow
+- [x] least
+- [ ] less
+- [ ] lesser
 
-> **解析**：**worry** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the least of 是固定搭配"其中最不重要的"；less 和 lesser 不能构成该短语。
 
 </quiz-cloze>

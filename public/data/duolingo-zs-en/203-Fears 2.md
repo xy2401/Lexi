@@ -10,30 +10,33 @@ bit, bite, breathe, closer, creature, escape, face, fall off, frightened, fright
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"提供帮助或安慰"展开，话题是恐惧和令人害怕的事物。词表里有恐惧相关词汇（frightened, frightening, get scared, scream, weird, gross）和应对动作（breathe, rescue, escape, let me, whisper）。
+本单元的主题是"恐惧与安慰"。词表可以分成三组：恐惧情绪词（frightened, frightening, get scared, gross, grossest, weird, scream, whisper, silence）、危险与动作词（bite, bit, sink, sank, fall off, escape, rescue, risky, riskiest, face, breathe, closer）、以及对象词（creature, virus, in, let me）。拼起来就是安慰场景：Don't get scared. That creature won't bite. Let me help you. Just breathe and stay closer to me.
 
-你可以练习安慰别人：Don't get scared—let me help. / Breathe. Come closer. / It's just a weird creature; it won't bite. / That spider is the grossest thing I've ever seen! / The boat sank, but they rescued everyone. / There was silence, then a scream.
+语法主线是 -ed 与 -ing 形容词的区分。frightened 表示"感到害怕的"（人的感受）：I'm frightened.；frightening 表示"令人害怕的"（事物的特性）：a frightening creature. 规律：-ed 修饰感受者，-ing 修饰引发感受的事物。另一条主线是不规则动词：sink → sank → sunk（沉没）；bite → bit → bitten（咬），本单元出现 sank 和 bit。最高级 grossest（最恶心的）和 riskiest（最冒险的）展示了 y/e 结尾形容词加 -est 的规律。
 
-frightened（感到害怕的）和 frightening（令人害怕的）是典型的 -ed/-ing 形容词对。sink → sank 是不规则动词变化。riskiest 和 grossest 是最高级形式。
+学完这些词，你能用英语描述恐惧与危险、安慰他人、提供帮助，并区分"感到害怕"与"令人害怕"。
 
 ## Tips
 
-- **frightened / frightening / get scared** — frightened = 感到害怕的（I'm frightened.），frightening = 令人害怕的（a frightening experience）。get scared = 变得害怕（口语，= become scared）。类似对：bored/boring, excited/exciting。-ed 描述人的感受，-ing 描述事物的特征。
+- **frightened / frightening** — 本单元的语法明星。frightened 感到害怕：The child is frightened.；frightening 令人害怕：The storm is frightening. ✗ I'm frightening 是常见错误，那表示"我很吓人"。scared/scary 同理。
 
-- **bite / sink / sank** — bite = 咬（The dog bit me.），bite → bit → bitten。sink = 下沉，sink → sank → sunk（不规则变化）。搭配：The ship sank. / a sinking feeling。注意 sank 是过去式，sunk 是过去分词。
+- **get scared / scream / whisper / silence** — get scared 变得害怕：Don't get scared.；scream 尖叫；whisper 低语；silence 寂静：break the silence（打破寂静）。声音的四档：scream 最响，whisper 最轻。
 
-- **gross / grossest / weird** — gross = 恶心的（口语，That's gross!），最高级 grossest。weird = 奇怪的、诡异的（a weird noise, That's weird.）。搭配：the grossest creature, a weird feeling。
+- **gross / grossest / weird** — gross 恶心的，口语高频：That's gross!；grossest 是最高级；weird 古怪的：a weird noise（怪声）。都是评价感受的形容词。
 
-- **scream / whisper / silence / breathe** — scream = 尖叫（大声）。whisper = 耳语、低语（小声）。silence = 沉默、寂静（in silence, break the silence）。breathe = 呼吸（动词），注意和 breath（名词）区分。这四个词构成声音的连续谱。
+- **bite / bit** — bite 咬，不规则变化 bite → bit → bitten：The dog bit me.（狗咬了我。）bit 是过去式。名词用法：a mosquito bite（蚊子叮的包）。
 
-- **creature / virus / escape / rescue** — creature = 生物、动物（常指奇怪的或可怕的：a strange creature）。virus = 病毒。escape = 逃跑（escape from...）。rescue = 营救（rescue someone from...）。搭配：rescue a creature, escape a virus。
+- **sink / sank / fall off / escape / rescue** — sink 沉没，sink → sank → sunk：The boat sank.（船沉了。）；fall off 掉落：fall off the bike（从车上摔下）；escape 逃跑、逃脱：escape from danger；rescue 营救，名词动词皆可：rescue the cat.
 
-- **let me / closer / face / fall off** — let me = 让我（Let me help. / Let me see.）。closer = 更近（Come closer. / get closer to...）。face 作动词"面对"（face your fears），作名词"脸"。fall off = 掉下来（fall off the bike / fall off a cliff）。
+- **risky / riskiest / face** — risky 冒险的；riskiest 最高级"最冒险的"；face 名词"脸"、动词"面对"：face your fears（面对恐惧）。
 
-- **risky / riskiest / in / bit** — risky = 有风险的（a risky decision），最高级 riskiest。in 在这里可能指"在里面"（There's something in there.）。bit 可指"一点"（a bit scared）或 bite 的过去式（The dog bit me.）。
+- **breathe / closer** — breathe 呼吸（动词，注意与名词 breath 差一个字母）：Breathe deeply.（深呼吸。）；closer 是 close 的比较级"更近的"：Come closer.（靠近点。）安慰人时常用。
+
+- **creature / virus** — creature 生物（create + -ure），泛指动物或怪物；virus 病毒：a computer virus（电脑病毒）也可。
+
+- **let me / in** — let me 让我，主动提供帮助的开头：Let me help you.；let 后接动词原形。in 在……里：There's something in the box.
 
 ## 练习
 
@@ -51,149 +54,149 @@ frightened（感到害怕的）和 frightening（令人害怕的）是典型的 
 
 <quiz-sentence-builder>
 
-1. **中文**：别害怕，让我帮过这条黑暗的走廊。  
-   **英文**：Don't get scared, let me help you through this dark corridor.
-   > **解析**：get scared 表示“感到害怕”，let me 表示“让我做某事”。
+1. **中文**：别害怕。
+   **英文**：Don't get scared.
+   > **解析**：否定祈使句用 Don't；get scared 表示"变得害怕"。
 
-2. **中文**：深呼吸，离我近一点。  
-   **英文**：Breathe deeply and come a bit closer to me.
-   > **解析**：breathe 为动词“呼吸”，closer 表示“更近”。
+2. **中文**：那个生物不会咬人。
+   **英文**：That creature won't bite.
+   > **解析**：won't 表"不会"；bite 用动词原形。
 
-3. **中文**：那只是一只怪异的生物；它不会咬你的。  
-   **英文**：It is just a weird creature; it won't bite you.
-   > **解析**：weird 表示“怪异的”，creature 表示“生物”，bite 表示“咬”。
+3. **中文**：让我来帮你。
+   **英文**：Let me help you.
+   > **解析**：let 后接宾语 me 和动词原形 help；这是提供帮助的标准句。
 
-4. **中文**：那只蜘蛛是我见过的最恶心的东西。  
-   **英文**：That spider is the grossest thing I have ever seen.
-   > **解析**：grossest 是 gross 的最高级形式，意为“最恶心的”。
+4. **中文**：深呼吸。
+   **英文**：Breathe deeply.
+   > **解析**：祈使句用动词原形 Breathe；deeply 是副词。
 
-5. **中文**：渔船沉没了，但消防员营救了所有人。  
-   **英文**：The fishing boat sank, but the firefighters rescued everyone.
-   > **解析**：sank 是 sink 的过去式，rescued 是 rescue 的过去式。
+5. **中文**：靠近我一点。
+   **英文**：Stay closer to me.
+   > **解析**：closer 是比较级；stay 表示"保持"。
 
-6. **中文**：有一阵短暂的沉默，然后我们听到一声尖叫。  
-   **英文**：There was a moment of silence, and then we heard a loud scream.
-   > **解析**：silence 表示“沉默”，scream 表示“尖叫”。
+6. **中文**：我害怕。
+   **英文**：I am frightened.
+   > **解析**：frightened 修饰人的感受，作表语；am 与 I 搭配。
 
-7. **中文**：今晚一个人走那条黑暗小路是最冒险的选择。  
-   **英文**：Taking that dark path alone is the riskiest choice tonight.
-   > **解析**：riskiest 是 risky 的最高级，意为“最冒风险的”。
+7. **中文**：暴风雨很吓人。
+   **英文**：The storm is frightening.
+   > **解析**：frightening 修饰事物的特性；is 与单数主语搭配。
 
-8. **中文**：他被森林里令人恐惧的声音吓坏了。  
-   **英文**：He was frightened by the frightening sound in the forest.
-   > **解析**：frightened（感到的害怕）与 frightening（令人害怕的）的用法区别。
+8. **中文**：那真恶心。
+   **英文**：That is gross.
+   > **解析**：gross 作表语；is 与主语 That 搭配。
 
-9. **中文**：那个罪犯试图在城市里摆脱警察逃跑。  
-   **英文**：The criminal tried to escape from the police in the city.
-   > **解析**：escape from 表示“从……逃脱”。
+9. **中文**：这是我见过的最恶心的东西。
+   **英文**：It is the grossest thing I have ever seen.
+   > **解析**：grossest 是 gross 的最高级，前加 the；I have ever seen 是定语从句。
 
-10. **中文**：她在我的耳边低语了一个秘密，以便没有其他人能听到。  
-   **英文**：She whispered a secret in my ear so nobody else could hear.
-   > **解析**：whispered 表示“耳语、低声说”。
+10. **中文**：船沉了。
+   **英文**：The boat sank.
+   > **解析**：sank 是 sink 的过去式，不规则变化。
 
-11. **中文**：你应当面对你的恐惧而不是逃跑。  
-   **英文**：You should face your fears instead of running away.
-   > **解析**：face 作动词表示“面对”。
+11. **中文**：他从自行车上摔了下来。
+   **英文**：He fell off the bike.
+   > **解析**：fell 是 fall 的过去式；fall off 表示"从……上摔下"。
 
-12. **中文**：小心不要从陡峭的悬崖上摔下来。  
-   **英文**：Be careful not to fall off the steep cliff.
-   > **解析**：fall off 表示“从……摔落”。
+12. **中文**：他们逃离了危险。
+   **英文**：They escaped from danger.
+   > **解析**：escaped 是过去式；escape from 是固定搭配。
 
-13. **中文**：空气中有一种危险的病毒传播。  
-   **英文**：There is a dangerous virus spread in the air.
-   > **解析**：virus 表示“病毒”。
+13. **中文**：消防员救了那只猫。
+   **英文**：The firefighter rescued the cat.
+   > **解析**：rescued 是过去式；rescue 是及物动词。
 
-14. **中文**：在如此糟糕的天气里快速驾驶是冒险的。  
-   **英文**：It is risky to drive fast in such bad weather.
-   > **解析**：risky 意为“有风险的”。
+14. **中文**：那样做太冒险了。
+   **英文**：That is too risky.
+   > **解析**：risky 作表语；too 修饰形容词。
 
-15. **中文**：当他走过院子时，一只小狗咬了他的腿。  
-   **英文**：A little dog bit his leg when he walked past the yard.
-   > **解析**：bit 是 bite 的过去式。
+15. **中文**：这是最冒险的选择。
+   **英文**：This is the riskiest choice.
+   > **解析**：riskiest 是 risky 的最高级（y 变 i 加 est）；前加 the。
 
-16. **中文**：如果船只吸入太多水，它们就会沉没。  
-   **英文**：Ships will sink if they take in too much water.
-   > **解析**：sink 意为“沉没”。
+16. **中文**：面对你的恐惧。
+   **英文**：Face your fears.
+   > **解析**：祈使句用动词原形 Face；face 此处作动词"面对"。
 
-17. **中文**：看看沙滩上留下的恶心垃圾。  
-   **英文**：Look at the gross trash left on the beach.
-   > **解析**：gross 意为“恶心的”。
+17. **中文**：她吓得尖叫起来。
+   **英文**：She screamed because she was scared.
+   > **解析**：screamed 是过去式；because 引导原因状语从句。
 
-18. **中文**：当她听到奇怪的声音时，脸色变得有点苍白。  
-   **英文**：She turned a bit pale when she heard the weird noise.
-   > **解析**：a bit 表示“一点”，weird 表示“怪异的”。
+18. **中文**：他小声说话。
+   **英文**：He whispered to me.
+   > **解析**：whispered 是过去式；whisper to someone 表示"对某人耳语"。
 
-19. **中文**：让我检查一下盒子里是否有东西。  
-   **英文**：Let me check if there is anything in the box.
-   > **解析**：let me 表示“让我……”。
+19. **中文**：房间里一片寂静。
+   **英文**：There was silence in the room.
+   > **解析**：there was 表示过去"有"；in the room 是地点状语。
 
-20. **中文**：警察赶来营救被困的乘客。  
-   **英文**：The police came to rescue the trapped passengers.
-   > **解析**：rescue 表示“营救、救援”。
+20. **中文**：这个病毒很危险。
+   **英文**：This virus is dangerous.
+   > **解析**：is 与单数主语搭配；dangerous 作表语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Don't get scared, let me help you through this dark corridor.
-   > **中文**：别害怕，让我帮过这条黑暗的走廊。
+1. Don't get scared.
+   > **中文**：别害怕。
 
-2. Breathe deeply and come a bit closer to me.
-   > **中文**：深呼吸，离我近一点。
+2. That creature won't bite.
+   > **中文**：那个生物不会咬人。
 
-3. It is just a weird creature; it won't bite you.
-   > **中文**：那只是一只怪异的生物；它不会咬你的。
+3. Let me help you.
+   > **中文**：让我来帮你。
 
-4. That spider is the grossest thing I have ever seen.
-   > **中文**：那只蜘蛛是我见过的最恶心的东西。
+4. Breathe deeply.
+   > **中文**：深呼吸。
 
-5. The fishing boat sank, but the firefighters rescued everyone.
-   > **中文**：渔船沉没了，但消防员营救了所有人。
+5. Stay closer to me.
+   > **中文**：靠近我一点。
 
-6. There was a moment of silence, and then we heard a loud scream.
-   > **中文**：有一阵短暂的沉默，然后我们听到一声尖叫。
+6. I am frightened.
+   > **中文**：我害怕。
 
-7. Taking that dark path alone is the riskiest choice tonight.
-   > **中文**：今晚一个人走那条黑暗小路是最冒险的选择。
+7. The storm is frightening.
+   > **中文**：暴风雨很吓人。
 
-8. He was frightened by the frightening sound in the forest.
-   > **中文**：他被森林里令人恐惧的声音吓坏了。
+8. That is gross.
+   > **中文**：那真恶心。
 
-9. The criminal tried to escape from the police in the city.
-   > **中文**：那个罪犯试图在城市里摆脱警察逃跑。
+9. It is the grossest thing I have ever seen.
+   > **中文**：这是我见过的最恶心的东西。
 
-10. She whispered a secret in my ear so nobody else could hear.
-   > **中文**：她在我的耳边低语了一个秘密，以便没有其他人能听到。
+10. The boat sank.
+   > **中文**：船沉了。
 
-11. You should face your fears instead of running away.
-   > **中文**：你应当面对你的恐惧而不是逃跑。
+11. He fell off the bike.
+   > **中文**：他从自行车上摔了下来。
 
-12. Be careful not to fall off the steep cliff.
-   > **中文**：小心不要从陡峭的悬崖上摔下来。
+12. They escaped from danger.
+   > **中文**：他们逃离了危险。
 
-13. There is a dangerous virus spread in the air.
-   > **中文**：空气中有一种危险的病毒传播。
+13. The firefighter rescued the cat.
+   > **中文**：消防员救了那只猫。
 
-14. It is risky to drive fast in such bad weather.
-   > **中文**：在如此糟糕的天气里快速驾驶是冒险的。
+14. That is too risky.
+   > **中文**：那样做太冒险了。
 
-15. A little dog bit his leg when he walked past the yard.
-   > **中文**：当他走过院子时，一只小狗咬了他的腿。
+15. This is the riskiest choice.
+   > **中文**：这是最冒险的选择。
 
-16. Ships will sink if they take in too much water.
-   > **中文**：如果船只吸入太多水，它们就会沉没。
+16. Face your fears.
+   > **中文**：面对你的恐惧。
 
-17. Look at the gross trash left on the beach.
-   > **中文**：看看沙滩上留下的恶心垃圾。
+17. She screamed because she was scared.
+   > **中文**：她吓得尖叫起来。
 
-18. She turned a bit pale when she heard the weird noise.
-   > **中文**：当她听到奇怪的声音时，脸色变得有点苍白。
+18. He whispered to me.
+   > **中文**：他小声对我说话。
 
-19. Let me check if there is anything in the box.
-   > **中文**：让我检查一下盒子里是否有东西。
+19. There was silence in the room.
+   > **中文**：房间里一片寂静。
 
-20. The police came to rescue the trapped passengers.
-   > **中文**：警察赶来营救被困的乘客。
+20. This virus is dangerous.
+   > **中文**：这个病毒很危险。
 
 </quiz-listening>
 
@@ -201,26 +204,34 @@ frightened（感到害怕的）和 frightening（令人害怕的）是典型的 
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| bit | 咬（bite的过去式） |
+| bit | bite 的过去式 |
 | bite | 咬 |
 | breathe | 呼吸 |
 | closer | 更近的 |
-| creature | 生物；怪物 |
-| escape | 逃跑；逃脱 |
-| face | 面对；面孔 |
-| fall off | 跌落；掉下 |
-| frightened | 感到害怕的 |
-| frightening | 令人害怕的 |
-| get scared | 感到害怕 |
+| creature | 生物 |
+| escape | 逃脱 |
+| face | 面对 / 脸 |
+| fall off | 摔下 |
+| frightened | 害怕的 |
+| frightening | 吓人的 |
+| get scared | 变得害怕 |
 | gross | 恶心的 |
 | grossest | 最恶心的 |
+| in | 在……里 |
 | let me | 让我 |
-| rescue | 营救；救援 |
+| rescue | 营救 |
 | riskiest | 最冒险的 |
-| risky | 有风险的 |
-| sank | 沉没（sink的过去式） |
+| risky | 冒险的 |
+| sank | sink 的过去式 |
 | scream | 尖叫 |
-| silence | 沉默；寂静 |
+| silence | 寂静 |
+| sink | 沉没 |
+| virus | 病毒 |
+| weird | 古怪的 |
+| whisper | 低语 |
+| is | 是（单数） |
+| the | 这个 / 那个 |
+| scared | 害怕的 |
 
 </quiz-matching>
 
@@ -228,202 +239,202 @@ frightened（感到害怕的）和 frightening（令人害怕的）是典型的 
 
 ### 1
 
-Don't get scared, let me help you through this dark ____.
+Don't ____ scared.
 
-- [x] corridor
-- [ ] bit
-- [ ] bite
+- [x] get
+- [ ] getting
+- [ ] got
 
-> **解析**：**corridor** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Don't 后接动词原形 get；其余形式不成立。
 
 ### 2
 
-____ deeply and come a bit closer to me.
+That creature won't ____.
 
-- [x] Breathe
+- [x] bite
 - [ ] bit
-- [ ] bite
+- [ ] bitten
 
-> **解析**：**Breathe** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：won't 后接动词原形 bite；bit 是过去式，bitten 是过去分词。
 
 ### 3
 
-It is just a ____ creature; it won't bite you.
+Let me ____ you.
 
-- [x] weird
-- [ ] bit
-- [ ] bite
+- [x] help
+- [ ] to help
+- [ ] helping
 
-> **解析**：**weird** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：let 后接动词原形 help，不加 to；其余形式不成立。
 
 ### 4
 
-That spider is the ____ thing I have ever seen.
+____ deeply.
 
-- [x] grossest
-- [ ] bit
-- [ ] bite
+- [x] Breathe
+- [ ] Breath
+- [ ] Breathing
 
-> **解析**：**grossest** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词 Breathe（呼吸）；Breath 是名词。
 
 ### 5
 
-The fishing boat ____, but the firefighters rescued everyone.
+Stay ____ to me.
 
-- [x] sank
-- [ ] bit
-- [ ] bite
+- [x] closer
+- [ ] close to
+- [ ] closest to of
 
-> **解析**：**sank** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：closer 是比较级，表示"更近"；其余结构错误。
 
 ### 6
 
-There was a moment of ____, and then we heard a loud scream.
+I am ____.
 
-- [x] silence
-- [ ] bit
-- [ ] bite
+- [x] frightened
+- [ ] frightening
+- [ ] fright
 
-> **解析**：**silence** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：人的感受用 frightened；frightening 修饰事物，fright 是名词。
 
 ### 7
 
-Taking that dark path alone is the ____ choice tonight.
+The storm is ____.
 
-- [x] riskiest
-- [ ] bit
-- [ ] bite
+- [x] frightening
+- [ ] frightened
+- [ ] frighting
 
-> **解析**：**riskiest** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：事物的特性用 frightening；frightened 修饰人的感受。
 
 ### 8
 
-He was ____ by the frightening sound in the forest.
+That is ____.
 
-- [x] frightened
-- [ ] bit
-- [ ] bite
+- [x] gross
+- [ ] grossed
+- [ ] grossly of
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **frightened**。
+> **解析**：is 后接形容词 gross；其余形式错误。
 
 ### 9
 
-The criminal tried to ____ from the police in the city.
+It is the ____ thing I have ever seen.
 
-- [x] escape
-- [ ] bit
-- [ ] bite
+- [x] grossest
+- [ ] grosser
+- [ ] most gross
 
-> **解析**：**escape** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：最高级用 grossest，前加 the；grosser 是比较级。
 
 ### 10
 
-She whispered a secret ____ my ear so nobody else could hear.
+The boat ____.
 
-- [x] in
-- [ ] bit
-- [ ] bite
+- [x] sank
+- [ ] sinked
+- [ ] sunk to
 
-> **解析**：**in** 为介词，后接地点、时间或范围，表示“在...里/中”。
+> **解析**：sink 的过去式是不规则变化 sank；sinked 是错误形式。
 
 ### 11
 
-You should ____ your fears instead of running away.
+He fell ____ the bike.
 
-- [x] face
-- [ ] bit
-- [ ] bite
+- [x] off
+- [ ] of
+- [ ] out from
 
-> **解析**：**face** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：fall off（从……上摔下）是固定短语；其余介词不成立。
 
 ### 12
 
-Be ____ not to fall off the steep cliff.
+They escaped ____ danger.
 
-- [x] careful
-- [ ] bit
-- [ ] bite
+- [x] from
+- [ ] at
+- [ ] out of to
 
-> **解析**：**careful** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：escape from 是固定搭配；其余结构错误。
 
 ### 13
 
-There is a dangerous ____ spread in the air.
+The firefighter ____ the cat.
 
-- [x] virus
-- [ ] bit
-- [ ] bite
+- [x] rescued
+- [ ] rescue
+- [ ] rescuing
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **virus**。
+> **解析**：叙述已发生的事用过去式 rescued；rescuing 不能单独作谓语。
 
 ### 14
 
-It is ____ to drive fast in such bad weather.
+That is too ____.
 
 - [x] risky
-- [ ] bit
-- [ ] bite
+- [ ] risk
+- [ ] riskily of
 
-> **解析**：**risky** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：too 后接形容词 risky；risk 是名词。
 
 ### 15
 
-A little dog ____ his leg when he walked past the yard.
+This is the ____ choice.
 
-- [x] bit
-- [ ] bite
-- [ ] breathe
+- [x] riskiest
+- [ ] riskier
+- [ ] most riskiest
 
-> **解析**：**bit** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：最高级 riskiest 前加 the；riskier 是比较级，most riskiest 是双重最高级错误。
 
 ### 16
 
-Ships will ____ if they take in too much water.
+____ your fears.
 
-- [x] sink
-- [ ] bit
-- [ ] bite
+- [x] Face
+- [ ] Faces
+- [ ] Faced
 
-> **解析**：**sink** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Face（面对）；其余形式不成立。
 
 ### 17
 
-Look at the ____ trash left on the beach.
+She ____ because she was scared.
 
-- [x] gross
-- [ ] bit
-- [ ] bite
+- [x] screamed
+- [ ] scream
+- [ ] screaming
 
-> **解析**：**gross** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was scared 提示过去时，用 screamed；screaming 不能单独作谓语。
 
 ### 18
 
-She turned a ____ pale when she heard the weird noise.
+He ____ to me.
 
-- [x] bit
-- [ ] bite
-- [ ] breathe
+- [x] whispered
+- [ ] whisper
+- [ ] whispering
 
-> **解析**：**bit** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去的事用 whispered；whispering 不能单独作谓语。
 
 ### 19
 
-Let me check if there is anything ____ the box.
+There was ____ in the room.
 
-- [x] in
-- [ ] bit
-- [ ] bite
+- [x] silence
+- [ ] silent
+- [ ] silently
 
-> **解析**：**in** 为介词，后接地点、时间或范围，表示“在...里/中”。
+> **解析**：was 后需要名词 silence；silent 是形容词。
 
 ### 20
 
-The police came to ____ the trapped passengers.
+This virus is ____.
 
-- [x] rescue
-- [ ] bit
-- [ ] bite
+- [x] dangerous
+- [ ] danger
+- [ ] dangerously
 
-> **解析**：**rescue** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后接形容词 dangerous；danger 是名词，dangerously 是副词。
 
 </quiz-cloze>

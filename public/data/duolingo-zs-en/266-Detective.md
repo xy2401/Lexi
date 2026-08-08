@@ -10,60 +10,39 @@ as, based on, bullet, case, clue, considering, could have, crucial, disguise, di
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是"描述可疑事件"——一场侦探推理，有线索、嫌疑人、动机和证据。词表里有大量刑侦词汇：clue, fingerprint, footprint, motive, suspect, weapon, bullet。你可以这样推理：Based on the fingerprints and footprints, it must have been someone in the gang. There may have been a disguise involved. Considering the motive, it could have been the robber—but we need more clues to crack the case.（根据指纹和脚印，一定是团伙里的人。可能涉及伪装。考虑到动机，可能是那个劫匪——但我们需要更多线索来破案。）
+本单元的主题是"描述可疑事件"，场景是侦探破案。词表可以分成四组：案件要素（case, clue, motive, suspect, evidence 类词如 fingerprint, footprint, bullet, weapon）、作案人员（robber, gang, disguise）、推理句型（must have, could have, may have, may not have, it must have been, it could have been, there may have been）、以及衔接词（based on, considering, as, crucial, justice, distract, go off）。拼起来就是一段侦探推理：The case is crucial. Based on the fingerprint, it must have been the robber.
 
-must have / could have / may have 是对过去事件的三种推测，确定性依次递减。it must have been（一定是）、it could have been（可能是）、there may have been（也许有）让推理层次分明。go off（响起/离开）可能指警报或枪声。justice（正义）是侦探故事的终极目标。
+语法主线是对过去的推测——情态动词 + have + 过去分词。must have done 表示"一定做过"（把握很大的肯定推测）；could have done 表示"可能做过"；may have done 表示"也许做过"（把握更小）；may not have done 表示"也许没有"。注意 ✗ must not have 很少用于否定推测，本单元用 may not have 代替。it must have been... 用来指认对象，there may have been... 用来假设存在。
 
-学完本单元，你能用英语进行逻辑推理，描述犯罪现场，评估证据，并表达对事件的不同确定程度。
+学完这单元，你能用英语描述一起可疑事件：发现什么线索、基于什么证据、做出多大把握的推测。
 
 ## Tips
 
-- **must have / could have / may have** — 对过去推测的三种情态动词。must have = 一定是（最确定）；could have = 可能是（有可能）；may have = 也许（最不确定）。结构都是：情态动词 + have + 过去分词。
+- **must have / could have / may have** — 对过去推测的三档把握。must have 最肯定：He must have left.（他一定走了。）could have 次之：He could have left. may have 最弱：He may have left. 结构统一为"情态动词 + have + 过去分词"。
 
-- **it must have been** — "一定是（某人/某物）"。It must have been the robber. 比 it was probably 语气强得多，表示"根据证据几乎可以确定"。注意 must have been 不能缩写为 must've been（正式写作中）。
+- **it must have been / it could have been** — 指认句型，用于锁定嫌疑人：It must have been the robber. it 是形式主语，真正信息在 was/were 之后。两个句型把握程度不同，前者近乎断定，后者留有余地。
 
-- **it could have been** — "可能是、本来是"。It could have been anyone in the gang. 比 must have 不确定，暗示"有这种可能性"。也可以表虚拟：It could have been worse.（本来可能更糟。）
+- **there may have been / may not have** — 存在与否定推测。there may have been 是 there be 句型的推测版：There may have been a weapon. may not have 用于否定：He may not have known. ✗ 用 must not have 作"一定没"——地道说法是 can't have 或 may not have。
 
-- **there may have been** — "也许有、可能存在过"。There may have been an accomplice. 比 there was probably 更不确定、更谨慎。may have 在正式推理中比 might have 更常见。
+- **case / clue / motive** — 破案三要素。case 是"案件"（也指箱子、案例）；clue 是线索；motive 是动机：He had no motive. 侦探三问：What's the case? Any clues? What's the motive?
 
-- **based on** — "基于、根据"。Based on the evidence, he's guilty. 比 according to 更强调"以……为基础进行推断"。注意 based on 是过去分词短语，常放句首。
+- **suspect / robber / gang** — 涉案人员。suspect 作名词读 /ˈsʌspekt/（重音在前）"嫌疑犯"，作动词读 /səˈspekt/（重音在后）"怀疑"——名词动词重音不同是常见规律。robber 是抢劫犯（rob + -er）；gang 是团伙。
 
-- **considering** — "考虑到、鉴于"。Considering the motive, she's the prime suspect. 比 given 更口语。作介词用，后接名词或 that 从句。注意 -ing 形式。
+- **fingerprint / footprint** — 现场痕迹双词。finger + print（手指印）、foot + print（脚印），都是"身体部位 + print"的复合词，举一反三：handprint、voiceprint。
 
-- **crucial** — "关键的、至关重要的"。a crucial clue / a crucial piece of evidence。比 important 程度强得多，暗示"缺了它就不行"。名词 cruciality（较少用）。注意 -cial 结尾：/ˈkruːʃəl/。
+- **bullet / weapon** — 凶器词对。bullet 是子弹；weapon 是武器的总称。搭配：a murder weapon（凶器）。注意 bullet 可数：two bullets。
 
-- **motive** — "动机"。搭配：a motive for murder / What was the motive? / no apparent motive。比 reason 更专指"犯罪或行为的内在驱动力"。注意 -tive 结尾：/ˈmoʊtɪv/。
+- **disguise / distract** — 掩饰两招。disguise 是"伪装"：He wore a disguise. distract 是"转移注意力"：The noise distracted the guard. dis- 前缀在两词中都带"离开、分散"的意味。
 
-- **suspect** — "嫌疑人；怀疑"。搭配：a prime suspect / suspect someone of a crime。注意名词重音在前 /ˈsʌspekt/，动词重音在后 /səˈspekt/。形容词 suspicious。
+- **based on / considering** — 依据短语。based on 后接依据：Based on the clue, ... considering 是"考虑到"，已介词化：Considering the time, he must have run.
 
-- **disguise** — "伪装、 disguises"。搭配：in disguise / a clever disguise / disguise yourself。动词：He disguised himself as a guard。注意 -guise 结尾：/dɪsˈɡaɪz/。比 costume 更强调"隐藏身份"。
+- **as** — 多功能小词：作连词"当…时/因为"（As he left, the alarm went off.），作介词"作为"（He worked as a guard.）。本单元多用于引出背景。
 
-- **distract** — "分散注意力、使分心"。distract the guard / a distraction。搭配 distract someone from something。比 interrupt 更强调"把注意力引开"。名词 distraction。注意 -tract 结尾。
+- **crucial / justice** — 案件评价词。crucial 是"至关重要的"：a crucial clue。justice 是"正义、司法"：bring someone to justice（将某人绳之以法），词根 just（公正）。
 
-- **fingerprint** — "指纹"。搭配：leave fingerprints / fingerprint evidence / take someone's fingerprints。由 finger（手指）+ print（印记）组成。动词：The police fingerprinted him。
-
-- **footprint** — "脚印、足迹"。搭配：a footprint in the mud / follow the footprints。由 foot（脚）+ print（印记）组成。比喻义：a carbon footprint（碳足迹）。注意复数 footprints。
-
-- **bullet** — "子弹"。搭配：a bullet wound / a stray bullet / dodge a bullet。比 ammunition（弹药）更具体，指"单颗子弹"。注意双 l：bul-let。比喻义：dodge a bullet = 躲过一劫。
-
-- **weapon** — "武器"。搭配：a murder weapon / a deadly weapon / weapon of choice。比 gun 更广义，包括刀、棍等。注意 -pon 结尾：/ˈwepən/。形容词 weaponless（无武器的）。
-
-- **gang** — "团伙、帮派"。搭配：a gang of robbers / gang member / a street gang。比 group 更有"犯罪组织"的意味。注意 -ng 结尾。动词 gang up on = 联合对付。
-
-- **robber** — "劫匪、强盗"。搭配：a bank robber / an armed robber。动词 rob，名词 robbery（抢劫案）。注意 -er 表人。和 thief（小偷）区分：robber 通常指"用暴力或威胁抢劫"。
-
-- **clue** — "线索"。搭配：a vital clue / follow a clue / not a clue。比 hint 更具体，指"帮助破案的证据或信息"。注意 -ue 结尾。口语中 have no clue = 完全不知道。
-
-- **case** — "案件；箱子"。搭配：a murder case / crack the case / case closed。在法律和刑侦语境中 = 案件。一词多义：a case of wine（一箱酒）。注意 -se 结尾：/keɪs/。
-
-- **justice** — "正义、司法"。搭配：bring someone to justice / justice system / social justice。形容词 just（公正的）。注意 -tice 结尾：/ˈdʒʌstɪs/。比 fairness 更正式、更制度化。
-
-- **go off** — 一词多义：① 响起（The alarm went off.）② 爆炸（The bomb went off.）③ 离开（He went off to investigate.）。在侦探语境中，go off 常指警报或枪声。非常灵活的短语动词。
-
-- **as** — 本单元中 likely 指"作为"或"当……时"。as a detective / as the suspect fled。as 是英语中最灵活的词之一：作为、当、因为、如同。具体含义高度依赖语境。
+- **go off** — 多义短语：警报响起（The alarm went off.）、爆炸（The bomb went off.）、变质（The milk went off.）。破案场景常用前两个义项。
 
 ## 练习
 
@@ -81,149 +60,149 @@ must have / could have / may have 是对过去事件的三种推测，确定性�
 
 <quiz-sentence-builder>
 
-1. **中文**：根据指纹和脚印，那一定是那个帮派里的某个嫌疑人干的。  
-   **英文**：Based on fingerprints and footprints, it must have been a suspect in the gang.
-   > **解析**：based on 表示基于；fingerprint 表示指纹；footprint 表示脚印；it must have been 表示一定是；gang 表示帮派。
+1. **中文**：这个案件至关重要。
+   **英文**：This case is crucial.
+   > **解析**：This case 是单数主语，用 is；crucial 作表语。
 
-2. **中文**：考虑到犯罪动机，现场可能是那个劫匪留下了伪装用的道具。  
-   **英文**：Considering the motive, it could have been the robber who used a disguise.
-   > **解析**：considering 表示考虑到；motive 表示动机；it could have been 表示可能是；robber 表示劫匪；disguise 表示伪装。
+2. **中文**：基于指纹，一定是那个劫匪。
+   **英文**：Based on the fingerprint, it must have been the robber.
+   > **解析**：Based on 短语作状语；it must have been 是对过去的肯定推测，把握很大。
 
-3. **中文**：现场也许有一件关键的武器，而且在案发时警报突然响了起来。  
-   **英文**：There may have been a crucial weapon, and the alarm started to go off.
-   > **解析**：there may have been 表示也许有；crucial 表示关键的；weapon 表示武器；go off 表示响起。
+3. **中文**：他可能有个同伙团伙。
+   **英文**：He may have had a gang.
+   > **解析**：may have + 过去分词 had 表示对过去的可能性推测，把握不大。
 
-4. **中文**：侦探依靠一颗现场发现的子弹作为关键线索，成功侦破了这起案件。  
-   **英文**：The detective relied on a bullet as a crucial clue to solve the case.
-   > **解析**：bullet 表示子弹；crucial 表示关键的；clue 表示线索；case 表示案件。
+4. **中文**：她没有动机。
+   **英文**：She had no motive.
+   > **解析**：had 与 She 搭配；no 修饰名词 motive 表示"没有动机"。
 
-5. **中文**：劫匪故意制造噪音分散保安的注意力，以便让他的同伙逃脱法网。  
-   **英文**：The robber tried to distract the guard so that his gang could escape.
-   > **解析**：robber 表示劫匪；distract 表示分散注意力；gang 表示团伙。
+5. **中文**：一定有人碰过窗户。
+   **英文**：Someone must have touched the window.
+   > **解析**：must have + 过去分词 touched 表示把握很大的推测；the window 作宾语。
 
-6. **中文**：维护社会正义是每一名尽职尽责的警官破案的核心目标。  
-   **英文**：Bringing justice to the community is the ultimate goal in solving this case.
-   > **解析**：justice 表示正义；case 表示案件。
+6. **中文**：也许警报响过。
+   **英文**：The alarm may have gone off.
+   > **解析**：may have + 过去分词 gone 表示可能；go off 的过去分词是 gone off。
 
-7. **中文**：基于现场收集到的关键线索，警方已经锁定了主要嫌疑人。  
-   **英文**：Based on crucial clues gathered at the scene, police identified the main suspect.
-   > **解析**：based on 表示基于；crucial 表示关键的；suspect 表示嫌疑人。
+7. **中文**：考虑时间因素，他一定是跑了。
+   **英文**：Considering the time, he must have run.
+   > **解析**：Considering 短语作状语"考虑到"；must have run 是肯定推测，run 的过去分词为 run。
 
-8. **中文**：考虑到凶手的犯罪动机，那一定是团伙内部的人所为。  
-   **英文**：Considering the criminal motive, it must have been someone inside the gang.
-   > **解析**：considering 表示考虑到；motive 表示动机；it must have been 表示一定是。
+8. **中文**：现场有一条重要的线索。
+   **英文**：There is a crucial clue at the scene.
+   > **解析**：There is + 单数名词 a crucial clue；at the scene 是地点状语。
 
-9. **中文**：现场留下的那枚脚印可能是劫匪逃跑时不小心踩出来的。  
-   **英文**：The footprint left behind could have been made by the escaping robber.
-   > **解析**：footprint 表示脚印；could have 表示可能是；robber 表示劫匪。
+9. **中文**：那可能不是武器。
+   **英文**：It may not have been a weapon.
+   > **解析**：may not have been 是对过去的否定推测"也许不是"；a weapon 作表语。
 
-10. **中文**：那名嫌疑人可能穿了伪装，试图掩盖自己的真实身份。  
-   **英文**：The suspect may have worn a disguise to hide his true identity.
-   > **解析**：suspect 表示嫌疑人；may have 表示可能；disguise 表示伪装。
+10. **中文**：嫌疑人当时戴着伪装。
+   **英文**：The suspect was wearing a disguise.
+   > **解析**：过去进行时 was wearing 表示当时正在进行的动作；a disguise 作宾语。
 
-11. **中文**：嫌疑人在作案时可能并没有随身携带致命武器。  
-   **英文**：The suspect may not have carried a deadly weapon during the crime.
-   > **解析**：suspect 表示嫌疑人；may not have 表示可能没有；weapon 表示武器。
+11. **中文**：噪音转移了警卫的注意力。
+   **英文**：The noise distracted the guard.
+   > **解析**：distracted 是 distract 的过去式；the guard 作宾语。
 
-12. **中文**：门锁上留下的那枚清晰的指纹成为了破案的最关键证据。  
-   **英文**：The clear fingerprint on the door handle served as a crucial clue.
-   > **解析**：fingerprint 表示指纹；crucial 表示关键的；clue 表示线索。
+12. **中文**：他可能不知道摄像头。
+   **英文**：He may not have known about the camera.
+   > **解析**：may not have + 过去分词 known 表示"也许不知道"；about 引出对象。
 
-13. **中文**：突然，远处的警报器响了起来，打破了深夜的宁静。  
-   **英文**：All of a sudden, the loud security alarm began to go off in the dark.
-   > **解析**：go off 表示响起。
+13. **中文**：那里可能有过第二个人。
+   **英文**：There may have been a second person.
+   > **解析**：there may have been 是 there be 的推测形式；a second person 作主语。
 
-14. **中文**：侦探推断，那一定是有人故意引开保安以偷走机密文件。  
-   **英文**：The detective deduced it must have been a setup to distract the guard.
-   > **解析**：it must have been 表示一定是；distract 表示分散注意力。
+14. **中文**：这颗子弹是关键证据。
+   **英文**：This bullet is the key evidence.
+   > **解析**：This bullet 是单数主语，用 is；the key evidence 作表语。
 
-15. **中文**：考虑到犯罪现场遗留的子弹，警方断定使用了重型武器。  
-   **英文**：Considering the bullet found at the scene, a heavy weapon was used.
-   > **解析**：considering 表示考虑到；bullet 表示子弹；weapon 表示武器。
+15. **中文**：我们发现了泥地里的脚印。
+   **英文**：We found footprints in the mud.
+   > **解析**：found 是 find 的过去式；footprints 用复数，in the mud 是地点状语。
 
-16. **中文**：也许有一名同伙协助那名劫匪成功完成了这次伪装潜逃。  
-   **英文**：There may have been an accomplice helping the robber in disguise.
-   > **解析**：there may have been 表示也许有；robber 表示劫匪；disguise 表示伪装。
+16. **中文**：当他离开时，警报响了。
+   **英文**：As he left, the alarm went off.
+   > **解析**：As 引导时间状语从句；went off 是 go off 的过去式"响起"。
 
-17. **中文**：警方正在深入调查这起案件，力求为受害者伸张正义。  
-   **英文**：Police are working on the case to bring full justice to the victim.
-   > **解析**：case 表示案件；justice 表示正义。
+17. **中文**：她曾在这栋楼里当过警卫。
+   **英文**：She worked as a guard in this building.
+   > **解析**：as 作介词"作为"；worked 是过去式，in this building 是地点状语。
 
-18. **中文**：那个犯罪团伙在城里犯下了多起恶劣的抢劫案。  
-   **英文**：The dangerous gang was involved in multiple robbery cases across town.
-   > **解析**：gang 表示帮派/团伙。
+18. **中文**：正义终将到来。
+   **英文**：Justice will come in the end.
+   > **解析**：Justice 作抽象名词主语；will come 是一般将来时，in the end 作状语。
 
-19. **中文**：这枚关键的子弹为案件的进一步推断提供了强有力的依据。  
-   **英文**：This crucial bullet provided strong evidence for the detective's theory.
-   > **解析**：crucial 表示关键的；bullet 表示子弹。
+19. **中文**：他本可以逃跑，但他留下了。
+   **英文**：He could have run, but he stayed.
+   > **解析**：could have run 表示"本可以跑（却没跑）"；but 连接转折分句 stayed。
 
-20. **中文**：嫌疑人的犯罪动机至今仍然是一个未解之谜。  
-   **英文**：The suspect's real motive for breaking into the house remains a mystery.
-   > **解析**：suspect 表示嫌疑人；motive 表示动机。
+20. **中文**：警方正在寻找嫌疑人。
+   **英文**：The police are looking for the suspect.
+   > **解析**：police 是集合名词，搭配复数 are；look for 是固定短语"寻找"。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Based on fingerprints and footprints, it must have been a suspect in the gang.
-   > **中文**：根据指纹和脚印，那一定是那个帮派里的某个嫌疑人干的。
+1. This case is crucial.
+   > **中文**：这个案件至关重要。
 
-2. Considering the motive, it could have been the robber who used a disguise.
-   > **中文**：考虑到犯罪动机，现场可能是那个劫匪留下了伪装用的道具。
+2. We found a clue near the door.
+   > **中文**：我们在门附近发现了一条线索。
 
-3. There may have been a crucial weapon, and the alarm started to go off.
-   > **中文**：现场也许有一件关键的武器，而且在案发时警报突然响了起来。
+3. Based on the fingerprint, it must have been the robber.
+   > **中文**：基于指纹，一定是那个劫匪。
 
-4. The detective relied on a bullet as a crucial clue to solve the case.
-   > **中文**：侦探依靠一颗现场发现的子弹作为关键线索，成功侦破了这起案件。
+4. He may have had a gang.
+   > **中文**：他可能有个团伙。
 
-5. The robber tried to distract the guard so that his gang could escape.
-   > **中文**：劫匪故意制造噪音分散保安的注意力，以便让他的同伙逃脱法网。
+5. She had no motive.
+   > **中文**：她没有动机。
 
-6. Bringing justice to the community is the ultimate goal in solving this case.
-   > **中文**：维护社会正义是每一名尽职尽责的警官破案的核心目标。
+6. The suspect was wearing a disguise.
+   > **中文**：嫌疑人当时戴着伪装。
 
-7. Based on crucial clues gathered at the scene, police identified the main suspect.
-   > **中文**：基于现场收集到的关键线索，警方已经锁定了主要嫌疑人。
+7. The alarm went off at midnight.
+   > **中文**：警报在午夜响了。
 
-8. Considering the criminal motive, it must have been someone inside the gang.
-   > **中文**：考虑到凶手的犯罪动机，那一定是团伙内部的人所为。
+8. There may have been a weapon.
+   > **中文**：那里可能有过武器。
 
-9. The footprint left behind could have been made by the escaping robber.
-   > **中文**：现场留下的那枚脚印可能是劫匪逃跑时不小心踩出来的。
+9. It could have been anyone.
+   > **中文**：可能是任何人干的。
 
-10. The suspect may have worn a disguise to hide his true identity.
-   > **中文**：那名嫌疑人可能穿了伪装，试图掩盖自己的真实身份。
+10. The bullet is the key evidence.
+   > **中文**：这颗子弹是关键证据。
 
-11. The suspect may not have carried a deadly weapon during the crime.
-   > **中文**：嫌疑人在作案时可能并没有随身携带致命武器。
+11. We found footprints in the mud.
+   > **中文**：我们发现了泥地里的脚印。
 
-12. The clear fingerprint on the door handle served as a crucial clue.
-   > **中文**：门锁上留下的那枚清晰的指纹成为了破案的最关键证据。
+12. The noise distracted the guard.
+   > **中文**：噪音转移了警卫的注意力。
 
-13. All of a sudden, the loud security alarm began to go off in the dark.
-   > **中文**：突然，远处的警报器响了起来，打破了深夜的宁静。
+13. He may not have known about the camera.
+   > **中文**：他可能不知道摄像头。
 
-14. The detective deduced it must have been a setup to distract the guard.
-   > **中文**：侦探推断，那一定是有人故意引开保安以偷走机密文件。
+14. Considering the time, he must have run.
+   > **中文**：考虑时间因素，他一定是跑了。
 
-15. Considering the bullet found at the scene, a heavy weapon was used.
-   > **中文**：考虑到犯罪现场遗留的子弹，警方断定使用了重型武器。
+15. The police are looking for the suspect.
+   > **中文**：警方正在寻找嫌疑人。
 
-16. There may have been an accomplice helping the robber in disguise.
-   > **中文**：也许有一名同伙协助那名劫匪成功完成了这次伪装潜逃。
+16. He could have escaped, but he stayed.
+   > **中文**：他本可以逃跑，但他留下了。
 
-17. Police are working on the case to bring full justice to the victim.
-   > **中文**：警方正在深入调查这起案件，力求为受害者伸张正义。
+17. Justice will come in the end.
+   > **中文**：正义终将到来。
 
-18. The dangerous gang was involved in multiple robbery cases across town.
-   > **中文**：那个犯罪团伙在城里犯下了多起恶劣的抢劫案。
+18. She worked as a guard here.
+   > **中文**：她曾在这里当警卫。
 
-19. This crucial bullet provided strong evidence for the detective's theory.
-   > **中文**：这枚关键的子弹为案件的进一步推断提供了强有力的依据。
+19. There is a crucial clue in the case.
+   > **中文**：案件中有一条至关重要的线索。
 
-20. The suspect's real motive for breaking into the house remains a mystery.
-   > **中文**：嫌疑人的犯罪动机至今仍然是一个未解之谜。
+20. It may not have been an accident.
+   > **中文**：那也许不是意外。
 
 </quiz-listening>
 
@@ -231,26 +210,38 @@ must have / could have / may have 是对过去事件的三种推测，确定性�
 
 | 英文单词 | 课文释义 |
 | --- | --- |
+| as | 当…时 / 作为 |
+| based on | 基于 |
+| bullet | 子弹 |
+| case | 案件 |
 | clue | 线索 |
+| considering | 考虑到 |
+| could have | 本可以 / 可能做过 |
+| crucial | 至关重要的 |
+| disguise | 伪装 |
+| distract | 转移注意力 |
 | fingerprint | 指纹 |
 | footprint | 脚印 |
+| gang | 团伙 |
+| go off | 响起 / 爆炸 |
+| it could have been | 可能是… |
+| it must have been | 一定是… |
+| justice | 正义 / 司法 |
+| may have | 也许做过 |
+| may not have | 也许没有 |
 | motive | 动机 |
-| suspect | 嫌疑人 |
+| must have | 一定做过 |
+| robber | 抢劫犯 |
+| suspect | 嫌疑犯 / 怀疑 |
+| there may have been | 可能有过 |
 | weapon | 武器 |
-| bullet | 子弹 |
-| disguise | 伪装 |
-| gang | 帮派；团伙 |
-| robber | 劫匪 |
-| case | 案件 |
-| justice | 正义 |
-| crucial | 关键的 |
-| distract | 分散注意力 |
-| go off | 响起；爆炸 |
-| based on | 基于 |
-| considering | 考虑到 |
-| it must have been | 一定是 |
-| it could have been | 可能是 |
-| there may have been | 也许有 |
+| the | 这个（定冠词） |
+| police | 警方 |
+| guard | 警卫 |
+| alarm | 警报 |
+| camera | 摄像头 |
+| evidence | 证据 |
+| mud | 泥地 |
 
 </quiz-matching>
 
@@ -258,202 +249,202 @@ must have / could have / may have 是对过去事件的三种推测，确定性�
 
 ### 1
 
-Based on fingerprints and footprints, it must have been a ____ in the gang.
+This case is ____.
 
-- [x] suspect
-- [ ] as
-- [ ] based on
+- [x] crucial
+- [ ] disguise
+- [ ] gang
 
-> **解析**：**suspect** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 crucial；disguise 和 gang 是名词。
 
 ### 2
 
-____ the motive, it could have been the robber who used a disguise.
+Based ____ the fingerprint, it must have been the robber.
 
-- [x] Considering
+- [x] on
 - [ ] as
-- [ ] based on
+- [ ] of
 
-> **解析**：**Considering** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：based on 是固定搭配"基于"；as 和 of 都不构成该短语。
 
 ### 3
 
-There may have been a ____ weapon, and the alarm started to go off.
+It must have ____ the robber.
 
-- [x] crucial
-- [ ] as
-- [ ] based on
+- [x] been
+- [ ] be
+- [ ] being
 
-> **解析**：**crucial** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：must have 后接过去分词 been；be 和 being 不合该结构。
 
 ### 4
 
-The detective relied on a ____ as a crucial clue to solve the case.
+He may have ____ a gang.
 
-- [x] bullet
-- [ ] as
-- [ ] based on
+- [x] had
+- [ ] has
+- [ ] having
 
-> **解析**：**bullet** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：may have 后接过去分词 had；has 和 having 不合结构。
 
 ### 5
 
-The ____ tried to distract the guard so that his gang could escape.
+She had no ____.
 
-- [x] robber
-- [ ] as
-- [ ] based on
+- [x] motive
+- [ ] justice
+- [ ] bullet
 
-> **解析**：**robber** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：no 后接名词，motive（动机）符合办案语境；justice 和 bullet 语义不符。
 
 ### 6
 
-Bringing ____ to the community is the ultimate goal in solving this case.
+The alarm ____ off at midnight.
 
-- [x] justice
-- [ ] as
-- [ ] based on
+- [x] went
+- [ ] gone
+- [ ] going
 
-> **解析**：**justice** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句中需要谓语过去式 went；gone 是分词不能单独作谓语，going 不合。
 
 ### 7
 
-Based on ____ clues gathered at the scene, police identified the main suspect.
+There may have ____ a weapon.
 
-- [x] crucial
-- [ ] as
-- [ ] based on
+- [x] been
+- [ ] be
+- [ ] was
 
-> **解析**：**crucial** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：may have 后接过去分词 been，构成 there may have been；was 不合该结构。
 
 ### 8
 
-____ the criminal motive, it must have been someone inside the gang.
+It may not have been a ____.
 
-- [x] Considering
-- [ ] as
-- [ ] based on
+- [x] weapon
+- [ ] crucial
+- [ ] distract
 
-> **解析**：**Considering** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：a 后需要名词 weapon；crucial 是形容词，distract 是动词。
 
 ### 9
 
-The ____ left behind could have been made by the escaping robber.
+The suspect was wearing a ____.
 
-- [x] footprint
-- [ ] as
-- [ ] based on
+- [x] disguise
+- [ ] clue
+- [ ] justice
 
-> **解析**：**footprint** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：wearing 后接可穿戴物 disguise（伪装）；clue 和 justice 不能穿戴。
 
 ### 10
 
-The ____ may have worn a disguise to hide his true identity.
+The noise ____ the guard.
 
-- [x] suspect
-- [ ] as
-- [ ] based on
+- [x] distracted
+- [ ] disguised
+- [ ] based
 
-> **解析**：**suspect** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句意"噪音转移了警卫注意力"，distracted 成立；disguised 和 based 语义不通。
 
 ### 11
 
-The ____ may not have carried a deadly weapon during the crime.
+We found ____ in the mud.
 
-- [x] suspect
-- [ ] as
-- [ ] based on
+- [x] footprints
+- [ ] justice
+- [ ] case
 
-> **解析**：**suspect** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：泥地里发现的痕迹是 footprints；justice 和 case 不合语境。
 
 ### 12
 
-The clear ____ on the door handle served as a crucial clue.
+____ the time, he must have run.
 
-- [x] fingerprint
-- [ ] as
-- [ ] based on
+- [x] Considering
+- [ ] Based
+- [ ] Distracting
 
-> **解析**：**fingerprint** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Considering + 名词表示"考虑到"；Based 需配 on，Distracting 语义不通。
 
 ### 13
 
-All of a sudden, the loud ____ alarm began to go off in the dark.
+He could have ____, but he stayed.
 
-- [x] security
-- [ ] as
-- [ ] based on
+- [x] escaped
+- [ ] escape
+- [ ] escaping
 
-> **解析**：**security** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：could have 后接过去分词 escaped；escape 和 escaping 不合该结构。
 
 ### 14
 
-The detective deduced it must have been a setup to ____ the guard.
+As he left, the ____ went off.
 
-- [x] distract
-- [ ] as
-- [ ] based on
+- [x] alarm
+- [ ] motive
+- [ ] fingerprint
 
-> **解析**：**distract** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能"响起"的是 alarm（警报）；motive 和 fingerprint 不能发出声响。
 
 ### 15
 
-____ the bullet found at the scene, a heavy weapon was used.
+She worked ____ a guard here.
 
-- [x] Considering
-- [ ] as
-- [ ] based on
+- [x] as
+- [ ] on
+- [ ] for
 
-> **解析**：**Considering** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：as 作介词"作为"，引出身份；on 和 for 语义不合。
 
 ### 16
 
-There may have been an accomplice helping the ____ in disguise.
+The ____ are looking for the suspect.
 
-- [x] robber
-- [ ] as
-- [ ] based on
+- [x] police
+- [ ] bullet
+- [ ] clue
 
-> **解析**：**robber** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：are 复数搭配集合名词 police；bullet 和 clue 不能"寻找嫌疑人"。
 
 ### 17
 
-Police are working on the ____ to bring full justice to the victim.
+This ____ is the key evidence.
 
-- [x] case
-- [ ] as
-- [ ] based on
+- [x] bullet
+- [ ] gang
+- [ ] disguise
 
-> **解析**：**case** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能与"关键证据"呼应的物证是 bullet；gang 和 disguise 语义不符。
 
 ### 18
 
-The dangerous ____ was involved in multiple robbery cases across town.
+There is a crucial ____ in the case.
 
-- [x] gang
-- [ ] as
-- [ ] based on
+- [x] clue
+- [ ] robber
+- [ ] suspect
 
-> **解析**：**gang** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：案件中的是 clue（线索）；robber 和 suspect 是人，不用 a crucial 修饰。
 
 ### 19
 
-This ____ bullet provided strong evidence for the detective's theory.
+____ will come in the end.
 
-- [x] crucial
-- [ ] as
-- [ ] based on
+- [x] Justice
+- [ ] Fingerprint
+- [ ] Footprint
 
-> **解析**：**crucial** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：抽象名词 Justice（正义）与"终将到来"搭配；Fingerprint 和 Footprint 语义不合。
 
 ### 20
 
-The suspect's real ____ for breaking into the house remains a mystery.
+It may not have been an ____.
 
-- [x] motive
-- [ ] as
-- [ ] based on
+- [x] accident
+- [ ] alarm
+- [ ] justice
 
-> **解析**：**motive** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：an 后接元音音开头的名词 accident（意外）；alarm 和 justice 语义不符且不合冠词。
 
 </quiz-cloze>

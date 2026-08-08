@@ -10,32 +10,35 @@ ache, ankle, be, bled, cover, ear, earache, have to be, health insurance, injure
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元让你描述症状和就医经历。你可以告诉医生哪里不舒服：I have an earache, and my ankle has been weak since I injured it. My thumb bled yesterday, and I need to be careful with the skin around it.（我耳朵疼，自从脚踝受伤后一直无力。我拇指昨天出血了，需要小心周围的皮肤。）The patient will be in for surgery—do you have health insurance? I'd like to reschedule my appointment.（病人要来做手术——你有医疗保险吗？我想改约时间。）
+本单元的主题是"就医与描述症状"。词表可以分成三组：身体部位与症状（ankle, ear, earache, ache, thumb, skin, weak, symptom, bled, injure, pregnant）、医疗流程词（patient, doctor 场景内的 surgery, treatment, health insurance, reschedule, request, cover, save）、以及 be 动词的情态搭配（be, have to be, need to be, want to be, will be）。拼起来就是完整的就诊场景：I injured my ankle. It hurts and it bled a little. I have health insurance, so the treatment will be covered.
 
-词表里有身体部位：ankle, ear, thumb, skin。症状和医疗词汇：ache, earache, symptom, weak, bled, injure, surgery, treatment。就医流程词：patient, health insurance, request, reschedule, wheelchair。
+语法主线是 be 动词与情态表达的组合。have to be 表示"必须是"（客观要求）；need to be 表示"需要是"；want to be 表示"想成为/想处于某种状态"；will be 是一般将来时。注意它们后面都接形容词或名词：The patient has to be careful. / The surgery will be tomorrow. 另一条主线是症状描述：ache 作名词是"疼痛"（earache 耳痛），作动词是"隐隐作痛"；bled 是 bleed（流血）的过去式。
 
-have to be / need to be / want to be / will be 这组结构表达了义务、需要、意愿和将来：You have to be patient. The treatment will be quick. I need to be seen today.（你要有耐心。治疗会很快。我今天需要被看诊。）cover 和 save 在医疗语境中分别指"保险覆盖"和"节省/挽救"。
+学完这些词，你能用英语描述身体症状、预约与改约就诊时间，并讨论医疗保险与治疗安排。
 
 ## Tips
 
-- **ache / earache / symptom** — ache = 疼痛（持续的钝痛），可作名词或动词：My head aches. / a backache. earache = 耳朵痛（ear + ache）。类似构词：headache, toothache, stomachache, backache. symptom = 症状：What are your symptoms?
+- **have to be / need to be / want to be / will be** — 四个"情态 + be"结构。have to be 强调客观必要：You have to be patient.（你必须耐心。）；need to be 强调需要：The wound needs to be clean.；want to be 表达意愿；will be 表将来：It will be fine. 四者后都接形容词或名词。
 
-- **bled / injure / weak** — bled 是 bleed（出血）的过去式和过去分词：My thumb bled a lot. injure = 受伤（比 hurt 更正式）：I injured my ankle. weak = 虚弱的：My leg feels weak. 注意 injure 的名词是 injury。
+- **ache / earache** — ache 名词"疼痛"、动词"隐隐作痛"：My head aches. earache 是 ear + ache 的复合词"耳痛"。同理：headache 头痛、toothache 牙痛、stomachache 胃痛，构词规律一致。
 
-- **ankle / thumb / ear / skin** — ankle = 脚踝。thumb = 拇指（注意 th 发音 /θ/）。ear = 耳朵。skin = 皮肤。这些是身体部位的基础词汇，搭配 hurt/injure/pain 使用。
+- **bled / injure** — bled 是 bleed（流血）的过去式：It bled a lot.；injure 受伤（及物动词）：I injured my ankle. 注意 injure 常以被动或反身出现：She was injured.
 
-- **have to be / need to be / want to be / will be** — have to be = 必须是/不得不：You have to be careful. need to be = 需要被：The wound needs to be covered. want to be = 想要：I want to be healthy. will be = 将会：It will be fine.
+- **ankle / ear / thumb / skin** — 四个身体部位词。ankle 脚踝；ear 耳朵；thumb 拇指；skin 皮肤。与 ache 搭配可造症状词：earache。
 
-- **patient / surgery / treatment** — patient 既是"病人"也是"耐心的"（一词两义）。surgery = 手术（英式英语中 surgery 也可指"诊所"）。treatment = 治疗：receive treatment / a course of treatment.
+- **symptom / weak / pregnant** — symptom 症状：What are your symptoms?；weak 虚弱：feel weak（感觉乏力）；pregnant 怀孕：She is pregnant. 描述症状三件套。
 
-- **health insurance / reschedule / request** — health insurance = 医疗保险。reschedule = 改期（re- + schedule）：I need to reschedule my appointment. request = 请求（比 ask 更正式）：make a request.
+- **patient / treatment / surgery** — patient 病人（也可作形容词"耐心的"，一词两义）；treatment 治疗：receive treatment（接受治疗）；surgery 手术：have surgery（做手术）。
 
-- **pregnant / wheelchair / cover / save** — pregnant = 怀孕的：She's pregnant. wheelchair = 轮椅（wheel + chair）。cover 在保险语境中 = 覆盖/报销：Does your insurance cover surgery? save = 挽救/节省：save a life / save money.
+- **health insurance / cover** — health insurance 医保；cover 本单元作"覆盖、承担（费用）"：Does insurance cover the surgery?（医保覆盖这台手术吗？）"保险 cover 费用"是地道说法。
 
-- **be** — be 动词在此可能用于被动语态：The patient will be seen soon. 或用于状态描述：You need to be patient. 注意 be 的各种形式：am/is/are/was/were/been/being。
+- **reschedule / request** — reschedule 改期（re- 再 + schedule 日程）：reschedule the appointment（改约）；request 请求，名词动词皆可：request a new appointment.
+
+- **save** — 本单元取"节省"义：Insurance saves money. 也有"挽救"义：The doctor saved his life. 一词两义，靠语境区分。
+
+- **wheelchair** — "轮椅"（wheel 轮 + chair 椅子合成词）：use a wheelchair（使用轮椅）。合成词拆字记更轻松。
 
 ## 练习
 
@@ -53,149 +56,149 @@ have to be / need to be / want to be / will be 这组结构表达了义务、需
 
 <quiz-sentence-builder>
 
-1. **中文**：打篮球时不小心扭伤了右脚脚踝。
-   **英文**：He twisted his right ankle while playing basketball.
-   > **解析**：ankle 表示“脚踝”。
+1. **中文**：我伤了脚踝。
+   **英文**：I injured my ankle.
+   > **解析**：injured 是 injure 的过去式；my ankle 是宾语。
 
-2. **中文**：伤口在医生包扎前流血了很久。
-   **英文**：The deep cut bled for a few minutes before stopping.
-   > **解析**：bled 是 bleed 的过去式，表示“流血了”。
+2. **中文**：它流血了。
+   **英文**：It bled a little.
+   > **解析**：bled 是 bleed 的过去式；a little 修饰动词表示程度。
 
-3. **中文**：孩子因为急性中耳炎发作而患了耳朵痛。
-   **英文**：The child woke up with a painful earache last night.
-   > **解析**：earache 表示“耳朵痛/耳痛”。
+3. **中文**：我耳朵疼。
+   **英文**：I have an earache.
+   > **解析**：have an earache 是表达疼痛的习惯说法；earache 以元音音素开头，用 an。
 
-4. **中文**：看医生前请确认你的医疗保险覆盖范围。
-   **英文**：Make sure your health insurance covers emergency visits.
-   > **解析**：health insurance 表示“医疗保险”。
+4. **中文**：我的拇指隐隐作痛。
+   **英文**：My thumb aches.
+   > **解析**：ache 作动词表示"隐隐作痛"；主语 My thumb 是第三人称单数，加 s。
 
-5. **中文**：滑雪时不慎摔倒使他的左臂受伤了。
-   **英文**：He did not injure himself during the bicycle fall.
-   > **解析**：injure 表示“使受伤/伤害”。
+5. **中文**：你有什么症状？
+   **英文**：What are your symptoms?
+   > **解析**：symptoms 是复数，be 动词用 are；疑问词 What 提前。
 
-6. **中文**：医生耐心地回答了病人提出的每一个问题。
-   **英文**：The kind doctor examined the patient carefully.
-   > **解析**：patient 表示“病人/患者”。
+6. **中文**：我感觉很虚弱。
+   **英文**：I feel weak.
+   > **解析**：feel 是系动词，后接形容词 weak 作表语。
 
-7. **中文**：那位孕妇定期去医院做产前检查。
-   **英文**：The pregnant woman visited the clinic for a checkup.
-   > **解析**：pregnant 表示“怀孕的/孕妇的”。
+7. **中文**：她怀孕了。
+   **英文**：She is pregnant.
+   > **解析**：is 与主语 She 搭配；pregnant 作表语形容词。
 
-8. **中文**：患者向诊所申请了开具一份正式的诊断证明。
-   **英文**：She made a formal request for her medical records.
-   > **解析**：request 表示“请求/申请”。
+8. **中文**：病人必须有耐心。
+   **英文**：The patient has to be patient.
+   > **解析**：has to be 表示客观必要；第一个 patient 是名词"病人"，第二个是形容词"耐心的"。
 
-9. **中文**：由于突发急诊，医生不得不重新安排时间你的门诊。
-   **英文**：I need to reschedule my doctor appointment for Friday.
-   > **解析**：reschedule 表示“重新安排时间/改期”。
+9. **中文**：伤口需要保持清洁。
+   **英文**：The wound needs to be clean.
+   > **解析**：needs to be 表示"需要是"；主语为第三人称单数，need 加 s。
 
-10. **中文**：外外科手术团队成功救治了重伤患者的生命。
-   **英文**：Surgeons worked hard to save the patient's life.
-   > **解析**：save 表示“救治/挽救”。
+10. **中文**：手术会在明天进行。
+   **英文**：The surgery will be tomorrow.
+   > **解析**：will be 是一般将来时；tomorrow 是时间状语。
 
-11. **中文**：这种外用药膏有助于舒缓干燥受损的皮肤。
-   **英文**：Apply the soothing cream to dry skin twice daily.
-   > **解析**：skin 表示“皮肤”。
+11. **中文**：我想早日康复。
+   **英文**：I want to be better soon.
+   > **解析**：want to be 表意愿；better 是比较级，表示"更好"。
 
-12. **中文**：主治医师顺利完成了一场复杂的外科手术。
-   **英文**：The knee surgery was successful and took two hours.
-   > **解析**：surgery 表示“外科手术”。
+12. **中文**：医保涵盖这台手术吗？
+   **英文**：Does health insurance cover the surgery?
+   > **解析**：一般疑问句用 Does 开头，主语 health insurance 为第三人称单数；cover 用原形。
 
-13. **中文**：持续高烧是感冒感染的常见症状之一。
-   **英文**：A high fever is a common symptom of the flu.
-   > **解析**：symptom 表示“症状/征兆”。
+13. **中文**：治疗很有效。
+   **英文**：The treatment is very effective.
+   > **解析**：is 与单数主语搭配；very 修饰形容词 effective。
 
-14. **中文**：切菜时不小心用锋利的菜刀切伤了大拇指。
-   **英文**：He cut his thumb while chopping vegetables in kitchen.
-   > **解析**：thumb 表示“大拇指”。
+14. **中文**：我需要改约我的预约。
+   **英文**：I need to reschedule my appointment.
+   > **解析**：need 后接不定式 to reschedule；my appointment 是宾语。
 
-15. **中文**：医生为患有关节炎的病人制定了最佳治疗方案。
-   **英文**：The doctor prescribed effective treatment for the illness.
-   > **解析**：treatment 表示“治疗/疗法”。
+15. **中文**：她请求约一位新医生。
+   **英文**：She requested a new doctor.
+   > **解析**：requested 是 request 的过去式；a new doctor 是宾语。
 
-16. **中文**：大病初愈后，他的身体感到稍微有些虚弱。
-   **英文**：She felt very weak after recovering from the fever.
-   > **解析**：weak 表示“虚弱的/无力的”。
+16. **中文**：医保能省很多钱。
+   **英文**：Health insurance can save a lot of money.
+   > **解析**：can 后接动词原形 save；a lot of 修饰 money。
 
-17. **中文**：护士推着受伤腿骨的患者坐着轮椅出来。
-   **英文**：The patient used a wheelchair to move around clinic.
-   > **解析**：wheelchair 表示“轮椅”。
+17. **中文**：他使用轮椅。
+   **英文**：He uses a wheelchair.
+   > **解析**：uses 是第三人称单数形式；wheelchair 是可数名词，用 a。
 
-18. **中文**：医生说所有病人在手术前必须是空腹状态。
-   **英文**：Patients have to be careful after taking this medication.
-   > **解析**：have to be 表示“必须是”。
+18. **中文**：我的皮肤很干。
+   **英文**：My skin is very dry.
+   > **解析**：skin 是不可数名词，用 is 搭配；dry 作表语。
 
-19. **中文**：此项检查需要是清晨空腹进行的。
-   **英文**：Medical tools need to be sterilized before surgery.
-   > **解析**：need to be 表示“需要是/必须被”。
+19. **中文**：医生说他需要休息。
+   **英文**：The doctor said he needs to rest.
+   > **解析**：said 是 say 的过去式，后接省略 that 的宾语从句；needs to rest 是从句谓语。
 
-20. **中文**：手术后你将会是健康完全康复的状态。
-   **英文**：You will be feeling much better after a night's rest.
-   > **解析**：will be 表示“将会是”。
+20. **中文**：预约必须重新安排。
+   **英文**：The appointment has to be rescheduled.
+   > **解析**：has to be rescheduled 是"必须被改期"，被动结构；主语为单数用 has。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. He twisted his right ankle while playing basketball.
-   > **中文**：打篮球时不小心扭伤了右脚脚踝。
+1. I injured my ankle.
+   > **中文**：我伤了脚踝。
 
-2. The deep cut bled for a few minutes before stopping.
-   > **中文**：伤口在医生包扎前流血了很久。
+2. It bled a little.
+   > **中文**：它流了一点血。
 
-3. The child woke up with a painful earache last night.
-   > **中文**：孩子因为急性中耳炎发作而患了耳朵痛。
+3. I have an earache.
+   > **中文**：我耳朵疼。
 
-4. Make sure your health insurance covers emergency visits.
-   > **中文**：看医生前请确认你的医疗保险覆盖范围。
+4. My thumb aches.
+   > **中文**：我的拇指隐隐作痛。
 
-5. He did not injure himself during the bicycle fall.
-   > **中文**：滑雪时不慎摔倒使他的左臂受伤了。
+5. What are your symptoms?
+   > **中文**：你有什么症状？
 
-6. The kind doctor examined the patient carefully.
-   > **中文**：医生耐心地回答了病人提出的每一个问题。
+6. I feel weak.
+   > **中文**：我感觉很虚弱。
 
-7. The pregnant woman visited the clinic for a checkup.
-   > **中文**：那位孕妇定期去医院做产前检查。
+7. She is pregnant.
+   > **中文**：她怀孕了。
 
-8. She made a formal request for her medical records.
-   > **中文**：患者向诊所申请了开具一份正式的诊断证明。
+8. The patient has to be patient.
+   > **中文**：病人必须有耐心。
 
-9. I need to reschedule my doctor appointment for Friday.
-   > **中文**：由于突发急诊，医生不得不重新安排时间你的门诊。
+9. The wound needs to be clean.
+   > **中文**：伤口需要保持清洁。
 
-10. Surgeons worked hard to save the patient's life.
-   > **中文**：外外科手术团队成功救治了重伤患者的生命。
+10. The surgery will be tomorrow.
+   > **中文**：手术会在明天进行。
 
-11. Apply the soothing cream to dry skin twice daily.
-   > **中文**：这种外用药膏有助于舒缓干燥受损的皮肤。
+11. I want to be better soon.
+   > **中文**：我想早日康复。
 
-12. The knee surgery was successful and took two hours.
-   > **中文**：主治医师顺利完成了一场复杂的外科手术。
+12. Does health insurance cover the surgery?
+   > **中文**：医保涵盖这台手术吗？
 
-13. A high fever is a common symptom of the flu.
-   > **中文**：持续高烧是感冒感染的常见症状之一。
+13. The treatment is very effective.
+   > **中文**：治疗很有效。
 
-14. He cut his thumb while chopping vegetables in kitchen.
-   > **中文**：切菜时不小心用锋利的菜刀切伤了大拇指。
+14. I need to reschedule my appointment.
+   > **中文**：我需要改约我的预约。
 
-15. The doctor prescribed effective treatment for the illness.
-   > **中文**：医生为患有关节炎的病人制定了最佳治疗方案。
+15. She requested a new doctor.
+   > **中文**：她请求约一位新医生。
 
-16. She felt very weak after recovering from the fever.
-   > **中文**：大病初愈后，他的身体感到稍微有些虚弱。
+16. Health insurance can save a lot of money.
+   > **中文**：医保能省很多钱。
 
-17. The patient used a wheelchair to move around clinic.
-   > **中文**：护士推着受伤腿骨的患者坐着轮椅出来。
+17. He uses a wheelchair.
+   > **中文**：他使用轮椅。
 
-18. Patients have to be careful after taking this medication.
-   > **中文**：医生说所有病人在手术前必须是空腹状态。
+18. My skin is very dry.
+   > **中文**：我的皮肤很干。
 
-19. Medical tools need to be sterilized before surgery.
-   > **中文**：此项检查需要是清晨空腹进行的。
+19. The doctor said I need to rest.
+   > **中文**：医生说我需要休息。
 
-20. You will be feeling much better after a night's rest.
-   > **中文**：手术后你将会是健康完全康复的状态。
+20. The appointment has to be rescheduled.
+   > **中文**：预约必须重新安排。
 
 </quiz-listening>
 
@@ -203,26 +206,34 @@ have to be / need to be / want to be / will be 这组结构表达了义务、需
 
 | 英文单词 | 课文释义 |
 | --- | --- |
+| ache | 疼痛 |
 | ankle | 脚踝 |
-| bled | 流血（bleed的过去式） |
-| earache | 耳朵痛 |
+| be | 是 / 处于 |
+| bled | 流血（过去式） |
+| cover | 覆盖 / 承担费用 |
+| ear | 耳朵 |
+| earache | 耳痛 |
+| have to be | 必须是 |
 | health insurance | 医疗保险 |
 | injure | 使受伤 |
-| patient | 病人 |
+| need to be | 需要是 |
+| patient | 病人 / 耐心的 |
 | pregnant | 怀孕的 |
-| request | 请求 / 申请 |
-| reschedule | 重新安排时间 |
-| save | 救治 / 挽救 |
+| request | 请求 |
+| reschedule | 改期 |
+| save | 节省 / 挽救 |
 | skin | 皮肤 |
-| surgery | 外科手术 |
+| surgery | 手术 |
 | symptom | 症状 |
-| thumb | 大拇指 |
-| treatment | 治疗 / 疗法 |
+| thumb | 拇指 |
+| treatment | 治疗 |
+| want to be | 想成为 |
 | weak | 虚弱的 |
 | wheelchair | 轮椅 |
-| have to be | 必须是 |
-| need to be | 需要是 |
 | will be | 将会是 |
+| doctor | 医生 |
+| clean | 清洁的 |
+| rest | 休息 |
 
 </quiz-matching>
 
@@ -230,202 +241,202 @@ have to be / need to be / want to be / will be 这组结构表达了义务、需
 
 ### 1
 
-He twisted his right ____ while playing basketball.
+I ____ my ankle yesterday.
 
-- [x] ankle
-- [ ] ache
-- [ ] be
+- [x] injured
+- [ ] injure
+- [ ] injuring
 
-> **解析**：**ankle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 要求过去式 injured；injure 是原形，injuring 不能单独作谓语。
 
 ### 2
 
-The deep cut ____ for a few minutes before stopping.
+It ____ a little.
 
 - [x] bled
-- [ ] ache
-- [ ] ankle
+- [ ] bleed
+- [ ] bleeding
 
-> **解析**：**bled** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述已发生的事用过去式 bled；bleeding 不能单独作谓语。
 
 ### 3
 
-The child woke up with a painful ____ last night.
+I have an ____.
 
 - [x] earache
-- [ ] ache
-- [ ] ankle
+- [ ] ear
+- [ ] ache ear
 
-> **解析**：**earache** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：earache（耳痛）是复合名词，用 an 修饰；ear 只是耳朵，不表疼痛。
 
 ### 4
 
-Make sure your health ____ covers emergency visits.
+My thumb ____.
 
-- [x] insurance
+- [x] aches
 - [ ] ache
-- [ ] ankle
+- [ ] aching
 
-> **解析**：**insurance** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 My thumb 是第三人称单数，ache 加 s；aching 不能单独作谓语。
 
 ### 5
 
-He did not ____ himself during the bicycle fall.
+What are your ____?
 
-- [x] injure
-- [ ] ache
-- [ ] ankle
+- [x] symptoms
+- [ ] symptom
+- [ ] surgery
 
-> **解析**：**injure** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：are 要求复数 symptoms；surgery 语义不符。
 
 ### 6
 
-The kind doctor examined the ____ carefully.
+The patient has to be ____.
 
 - [x] patient
-- [ ] ache
-- [ ] ankle
+- [ ] patients
+- [ ] patience
 
-> **解析**：**patient** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be 后需要形容词 patient（耐心的）；patients 是名词复数，patience 是名词。
 
 ### 7
 
-The ____ woman visited the clinic for a checkup.
+The wound needs ____ clean.
 
-- [x] pregnant
-- [ ] ache
-- [ ] ankle
+- [x] to be
+- [ ] be
+- [ ] being
 
-> **解析**：**pregnant** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：need to be + 形容词 是固定结构；be 原形和 being 不能直接跟在 needs 后。
 
 ### 8
 
-She made a formal ____ for her medical records.
+The surgery ____ tomorrow.
 
-- [x] request
-- [ ] ache
-- [ ] ankle
+- [x] will be
+- [ ] is be
+- [ ] be
 
-> **解析**：**request** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：将来时间 tomorrow 用 will be；is be 结构错误。
 
 ### 9
 
-I need to ____ my doctor appointment for Friday.
+I want to ____ better soon.
 
-- [x] reschedule
-- [ ] ache
-- [ ] ankle
+- [x] be
+- [ ] been
+- [ ] being
 
-> **解析**：**reschedule** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：to 后接动词原形 be；been 是过去分词，being 是现在分词。
 
 ### 10
 
-Surgeons worked hard to ____ the patient's life.
+Does health insurance ____ the surgery?
 
-- [x] save
-- [ ] ache
-- [ ] ankle
+- [x] cover
+- [ ] covers
+- [ ] covered
 
-> **解析**：**save** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Does 后实义动词用原形 cover；covers 重复了第三人称单数标记。
 
 ### 11
 
-Apply the soothing cream to dry ____ twice daily.
+The ____ is very effective.
 
-- [x] skin
-- [ ] ache
-- [ ] ankle
+- [x] treatment
+- [ ] treat
+- [ ] treating
 
-> **解析**：**skin** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The 后需要名词 treatment；treat 是动词。
 
 ### 12
 
-The knee ____ was successful and took two hours.
+I need to ____ my appointment.
 
-- [x] surgery
-- [ ] ache
-- [ ] ankle
+- [x] reschedule
+- [ ] schedule to
+- [ ] scheduled
 
-> **解析**：**surgery** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：to 后接动词原形 reschedule；scheduled 是过去式，不合 to 后结构。
 
 ### 13
 
-A high fever is a common ____ of the flu.
+She ____ a new doctor.
 
-- [x] symptom
-- [ ] ache
-- [ ] ankle
+- [x] requested
+- [ ] request
+- [ ] requesting
 
-> **解析**：**symptom** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述已发生的事用过去式 requested；requesting 不能单独作谓语。
 
 ### 14
 
-He cut his ____ while chopping vegetables in kitchen.
+Health insurance can ____ money.
 
-- [x] thumb
-- [ ] ache
-- [ ] ankle
+- [x] save
+- [ ] saves
+- [ ] saving
 
-> **解析**：**thumb** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：can 后接动词原形 save；其余形式不成立。
 
 ### 15
 
-The doctor prescribed effective ____ for the illness.
+He uses a ____.
 
-- [x] treatment
-- [ ] ache
-- [ ] ankle
+- [x] wheelchair
+- [ ] wheel
+- [ ] surgery
 
-> **解析**：**treatment** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：uses a wheelchair（使用轮椅）语义通顺；wheel 只是轮子，surgery 是手术。
 
 ### 16
 
-She felt very ____ after recovering from the fever.
+My ____ is very dry.
 
-- [x] weak
-- [ ] ache
-- [ ] ankle
+- [x] skin
+- [ ] skins
+- [ ] thumb
 
-> **解析**：**weak** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：skin 不可数，用单数形式；thumb（拇指）一般不说 dry。
 
 ### 17
 
-The ____ used a wheelchair to move around clinic.
+The doctor said I need to ____.
 
-- [x] patient
-- [ ] ache
-- [ ] ankle
+- [x] rest
+- [ ] rested
+- [ ] resting
 
-> **解析**：**patient** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：need to 后接动词原形 rest；其余形式不成立。
 
 ### 18
 
-Patients have to ____ careful after taking this medication.
+The appointment has to be ____.
 
-- [x] be
-- [ ] ache
-- [ ] ankle
+- [x] rescheduled
+- [ ] reschedule
+- [ ] rescheduling
 
-> **解析**：**be** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：has to be + 过去分词构成被动，用 rescheduled；其余形式不构成被动。
 
 ### 19
 
-Medical tools need to ____ sterilized before surgery.
+She is ____, so she needs to rest more.
 
-- [x] be
-- [ ] ache
-- [ ] ankle
+- [x] pregnant
+- [ ] pregnancy
+- [ ] patients
 
-> **解析**：**be** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 pregnant；pregnancy 是名词，patients 是名词复数。
 
 ### 20
 
-You will ____ feeling much better after a night's rest.
+I feel ____ today.
 
-- [x] be
-- [ ] ache
-- [ ] ankle
+- [x] weak
+- [ ] weakness
+- [ ] weaken
 
-> **解析**：**be** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：feel 后接形容词 weak 作表语；weakness 是名词，weaken 是动词。
 
 </quiz-cloze>

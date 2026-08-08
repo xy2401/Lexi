@@ -10,32 +10,35 @@ absent, aloud, apply, correct, correction, credit, elementary school, final exam
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元让你分享考试备考计划。你可以描述学习安排：I need to prepare for my final exam and my midterm. I'll reread the literature, rewrite my paragraph, and practice my pronunciation aloud.（我需要准备期末考和期中考。我会重读文学作品，重写段落，大声练习发音。）My preparation includes reading the material again and checking my handwriting for corrections.（我的备考包括重新阅读材料和检查手写中的修改。）
+本单元的主题是"学校与备考"。词表可以分成三组：考试与学业名词（final exam, midterm, report card, credit, material, preparation, literature, elementary school, school）、读写动作词（read aloud 的 aloud, reread, rewrite, correct, correction, handwriting, paragraph, pronounce, pronunciation）、以及参与与申请词（participate, participation, apply, reapply, absent, smart, prepare）。拼起来就是备考计划场景：The final exam is next week. I will reread the material and rewrite my notes. I want to participate more in class.
 
-词表里有大量"re-"前缀的词汇：reread, rewrite, reapply——表示"重新做"。也有动词和名词的对应关系：prepare / preparation, participate / participation, pronounce / pronunciation, correct / correction。这种构词规律是本单元可以注意的语言现象。
+语法主线是 re- 前缀的构词规律：reread（重读）、rewrite（重写）、reapply（重新申请）。re- 表示"再一次"，加在动词前构成新动词，是本单元的构词重点。另一条主线是"动词 + 名词"的对应词对：correct → correction、prepare → preparation、participate → participation、pronounce → pronunciation，动词加 -ion/-ation 变名词，注意 pronunciation 的名词形式中 o 变成 u。
 
-学校相关词汇：elementary school, school, report card, credit, midterm, final exam, literature, paragraph。absent 是缺勤，smart 是聪明。apply / reapply 是申请/重新申请。handwriting 是手写/笔迹。
+学完这些词，你能用英语制定复习计划、描述考试安排、讨论课堂参与，并表达自己的学业目标。
 
 ## Tips
 
-- **prepare / preparation / participate / participation** — 动词变名词的规律：prepare → preparation（注意 -are 变 -ation），participate → participation（-ate 变 -ation）。类似：pronounce → pronunciation（注意不是 pronounciation）。correct → correction。
+- **reread / rewrite / reapply** — re- 前缀三剑客。reread 重读：reread the material（重读材料）；rewrite 重写：rewrite the paragraph（重写段落）；reapply 重新申请：reapply for the program. re- 表示"再一次"，是英语最高产的构词前缀之一。
 
-- **reread / rewrite / reapply** — re- 前缀表示"重新"。reread = 重读（read 的过去分词还是 read，但发音变为 /red/）。rewrite = 重写。reapply = 重新申请。注意 re- 通常不加连字符（除非避免歧义，如 re-cover vs recover）。
+- **correct / correction** — correct 形容词"正确的"、动词"批改、纠正"：correct the mistakes（纠正错误）；correction 名词"更正"。make corrections（做修改）是常用搭配。
 
-- **final exam / midterm / report card** — final exam = 期末考试。midterm = 期中考试（mid- + term）。report card = 成绩单（中小学用）。搭配：study for the final / pass the midterm / get your report card。
+- **prepare / preparation** — prepare 动词"准备"：prepare for the exam（备考）；preparation 名词"准备工作"。prepare for + 事件 是备考的标准搭配。
 
-- **pronounce / pronunciation / aloud** — pronounce 是动词：How do you pronounce this? pronunciation 是名词（注意拼写：没有"ounce"，是 -unciation）。aloud = 大声地（= out loud）：Read aloud, please.
+- **participate / participation** — participate 动词"参与"：participate in class（参与课堂）；participation 名词"参与度"。class participation（课堂参与）是成绩的一部分。介词用 in。
 
-- **handwriting / paragraph / literature** — handwriting = 笔迹/手写（hand + writing）。paragraph = 段落（缩写 para.）。literature = 文学/文学作品（不可数）：English literature.
+- **pronounce / pronunciation** — pronounce 动词"发音"；pronunciation 名词"发音"。注意名词拼写中 o 变成 u：✗ pronounciation 是常见拼写错误。
 
-- **absent / smart / credit** — absent = 缺勤的/不在的：She was absent from school. 搭配 be absent from. smart = 聪明的（美式常用，英式更常用 clever）。credit = 学分：earn three credits.
+- **aloud / read aloud** — aloud 副词"出声地"：read aloud（朗读）。与 loud（大声地）不同，aloud 强调"出声"而非音量。
 
-- **apply / elementary school / school** — apply = 申请：apply to a school / apply for a scholarship. elementary school = 小学（美式，英式：primary school）。school 泛指学校。
+- **handwriting / paragraph / literature** — handwriting 书写、字迹（不可数）：good handwriting（好字迹）；paragraph 段落：write a paragraph（写一段）；literature 文学：a literature class（文学课）。
 
-- **correct / correction** — correct 可作形容词（正确的）或动词（纠正）：That's correct. / Please correct my mistakes. correction = 修改/纠正（名词）：make corrections.
+- **final exam / midterm / report card / credit** — 四个学业评价词。final exam 期末考试；midterm 期中考试；report card 成绩单；credit 学分：earn credits（修学分）。
+
+- **elementary school / school / smart** — elementary school 小学；school 学校，也可泛指上学：go to school；smart 聪明的。school 作"上学"义时不加冠词：✗ go to the school（去那所学校这栋楼）vs. go to school（去上学）。
+
+- **apply / absent** — apply 申请：apply for a scholarship（申请奖学金）；absent 缺席的：be absent from class（旷课）。介词搭配分别是 for 和 from。
 
 ## 练习
 
@@ -53,149 +56,149 @@ absent, aloud, apply, correct, correction, credit, elementary school, final exam
 
 <quiz-sentence-builder>
 
-1. **中文**：由于生病高烧，他今天在学校缺席了。
-   **英文**：He was absent from school today due to a high fever.
-   > **解析**：absent 表示“缺席的/不在场的”。
+1. **中文**：期末考试在下周。
+   **英文**：The final exam is next week.
+   > **解析**：is 与单数主语搭配；next week 是时间状语，前不加介词。
 
-2. **中文**：老师请同学们大声地朗读这段精选课文。
-   **英文**：The teacher asked the student to read the poem aloud.
-   > **解析**：aloud 表示“大声地/出声地”。
+2. **中文**：我正在为期中考试做准备。
+   **英文**：I am preparing for the midterm.
+   > **解析**：am preparing 是现在进行时；prepare for 是固定搭配。
 
-3. **中文**：许多高中毕业生正在申请几所知名大学。
-   **英文**：She decided to apply for a scholarship at the university.
-   > **解析**：apply 表示“申请/应用”；apply for 意为“申请”。
+3. **中文**：我会重读这些材料。
+   **英文**：I will reread the material.
+   > **解析**：will 后接动词原形 reread；re- 前缀表示"再一次"。
 
-4. **中文**：老师在学生的作文本上做出了仔细的批改与订正。
-   **英文**：Please check your essay carefully for any correction.
-   > **解析**：correction 表示“批改/订正/修改”。
+4. **中文**：请重写这个段落。
+   **英文**：Please rewrite the paragraph.
+   > **解析**：祈使句以 Please + 动词原形开头；rewrite 是 re- + write。
 
-5. **中文**：完成这门选修课程后，学生可以获得三个学分。
-   **英文**：Students earn three academic credit points for this course.
-   > **解析**：credit 表示“学分/信用”。
+5. **中文**：老师纠正了我的错误。
+   **英文**：The teacher corrected my mistakes.
+   > **解析**：corrected 是 correct 的过去式，此处作动词"纠正"；mistakes 用复数。
 
-6. **中文**：小孩子们在附近的这所小学里快乐学习。
-   **英文**：Children enter elementary school at six years old.
-   > **解析**：elementary school 表示“小学”。
+6. **中文**：请在修改处做出更正。
+   **英文**：Please make corrections here.
+   > **解析**：make corrections 是固定搭配；correction 是 correct 的名词形式。
 
-7. **中文**：同学们正在为下周的期末考试做充分复习。
-   **英文**：Everyone is studying hard for the final exam.
-   > **解析**：final exam 表示“期末考试”。
+7. **中文**：请大声朗读这个段落。
+   **英文**：Please read the paragraph aloud.
+   > **解析**：read aloud 表示"朗读"；aloud 是副词，修饰 read。
 
-8. **中文**：他的书写工整清晰，受到了老师的表扬。
-   **英文**：Her neat handwriting is very easy to read.
-   > **解析**：handwriting 表示“书写/手写体”。
+8. **中文**：我的书法很好。
+   **英文**：My handwriting is good.
+   > **解析**：handwriting 是不可数名词，用 is 搭配；good 作表语。
 
-9. **中文**：英国古典文学是文学专业必修的重要课程。
-   **英文**：They read classic American literature in high school.
-   > **解析**：literature 表示“文学/文学作品”。
+9. **中文**：她正在申请奖学金。
+   **英文**：She is applying for a scholarship.
+   > **解析**：is applying 是现在进行时；apply for 是固定搭配。
 
-10. **中文**：老师在课堂上发放了新的辅助复习材料。
-   **英文**：The teacher distributed study material for the upcoming test.
-   > **解析**：material 表示“材料/教材”。
+10. **中文**：他需要重新申请这个项目。
+   **英文**：He needs to reapply for the program.
+   > **解析**：needs 后接不定式 to reapply；re- 表示"再次"。
 
-11. **中文**：学期过半时，学校安排了一场期中考试。
-   **英文**：Our history midterm is scheduled for next Wednesday.
-   > **解析**：midterm 表示“期中考试”。
+11. **中文**：他今天没来上课。
+   **英文**：He is absent from class today.
+   > **解析**：be absent from 是固定搭配；today 是时间状语。
 
-12. **中文**：请在作文的第二段落里阐述你的核心论点。
-   **英文**：Write a short paragraph summarizing the article.
-   > **解析**：paragraph 表示“段落”。
+12. **中文**：请正确发音这个词。
+   **英文**：Please pronounce this word correctly.
+   > **解析**：祈使句用动词原形 pronounce；correctly 是副词，修饰 pronounce。
 
-13. **中文**：老师鼓励每位同学在课堂讨论中积极参与。
-   **英文**：All students are encouraged to participate in class.
-   > **解析**：participate 表示“参与/参加”；participate in 意为“参与”。
+13. **中文**：她的发音很好。
+   **英文**：Her pronunciation is very good.
+   > **解析**：pronunciation 是名词作主语；is 与单数主语搭配。
 
-14. **中文**：积极的课堂参与度构成了期末成绩的一部分。
-   **英文**：Active class participation counts toward your final grade.
-   > **解析**：participation 表示“参与度/参加”。
+14. **中文**：我在课堂上积极发言。
+   **英文**：I participate in class.
+   > **解析**：participate in 是固定搭配；主语 I 后动词用原形。
 
-15. **中文**：充足的准备是考试取得优异成绩的关键。
-   **英文**：Good exam preparation reduces test anxiety for students.
-   > **解析**：preparation 表示“准备/预备”。
+15. **中文**：课堂参与占成绩的一部分。
+   **英文**：Class participation is part of the grade.
+   > **解析**：participation 是名词作主语；part of 表示"……的一部分"。
 
-16. **中文**：请在字典里查阅这个生词的标准发音。
-   **英文**：Listen carefully to the correct pronunciation of word.
-   > **解析**：pronunciation 表示“发音”。
+16. **中文**：成绩单上写着我的学分。
+   **英文**：The report card shows my credits.
+   > **解析**：shows 是第三人称单数形式；credits 用复数表示多门学分。
 
-17. **中文**：家长收到了孩子本学期的正式成绩单。
-   **英文**：Parents received their child's excellent report card.
-   > **解析**：report card 表示“成绩单”。
+17. **中文**：我喜欢文学课。
+   **英文**：I like the literature class.
+   > **解析**：literature 作定语修饰 class；like 是及物动词。
 
-18. **中文**：在写作前，请重读一遍原文说明。
-   **英文**：You should reread the chapter before answering questions.
-   > **解析**：reread 表示“重读/复读”。
+18. **中文**：我的弟弟在上小学。
+   **英文**：My brother goes to elementary school.
+   > **解析**：goes 是第三人称单数形式；elementary school 作"上学"义时不加冠词。
 
-19. **中文**：老师要求他重写这篇语法错误的短文。
-   **英文**：The teacher told him to rewrite his introductory essay.
-   > **解析**：rewrite 表示“重写/改写”。
+19. **中文**：她很聪明。
+   **英文**：She is very smart.
+   > **解析**：is 与主语 She 搭配；very 修饰形容词 smart。
 
-20. **中文**：那位聪明勤奋的学生在竞赛中名列前茅。
-   **英文**：The smart student solved the difficult math puzzle.
-   > **解析**：smart 表示“聪明的/机敏的”。
+20. **中文**：我准备好了。
+   **英文**：I am ready.
+   > **解析**：am 与主语 I 搭配；ready 作表语形容词。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. He was absent from school today due to a high fever.
-   > **中文**：由于生病高烧，他今天在学校缺席了。
+1. The final exam is next week.
+   > **中文**：期末考试在下周。
 
-2. The teacher asked the student to read the poem aloud.
-   > **中文**：老师请同学们大声地朗读这段精选课文。
+2. I am preparing for the midterm.
+   > **中文**：我正在为期中考试做准备。
 
-3. She decided to apply for a scholarship at the university.
-   > **中文**：许多高中毕业生正在申请几所知名大学。
+3. I will reread the material.
+   > **中文**：我会重读这些材料。
 
-4. Please check your essay carefully for any correction.
-   > **中文**：老师在学生的作文本上做出了仔细的批改与订正。
+4. Please rewrite the paragraph.
+   > **中文**：请重写这个段落。
 
-5. Students earn three academic credit points for this course.
-   > **中文**：完成这门选修课程后，学生可以获得三个学分。
+5. The teacher corrected my mistakes.
+   > **中文**：老师纠正了我的错误。
 
-6. Children enter elementary school at six years old.
-   > **中文**：小孩子们在附近的这所小学里快乐学习。
+6. Please make corrections here.
+   > **中文**：请在修改处做出更正。
 
-7. Everyone is studying hard for the final exam.
-   > **中文**：同学们正在为下周的期末考试做充分复习。
+7. Please read the paragraph aloud.
+   > **中文**：请大声朗读这个段落。
 
-8. Her neat handwriting is very easy to read.
-   > **中文**：他的书写工整清晰，受到了老师的表扬。
+8. My handwriting is good.
+   > **中文**：我的书法很好。
 
-9. They read classic American literature in high school.
-   > **中文**：英国古典文学是文学专业必修的重要课程。
+9. She is applying for a scholarship.
+   > **中文**：她正在申请奖学金。
 
-10. The teacher distributed study material for the upcoming test.
-   > **中文**：老师在课堂上发放了新的辅助复习材料。
+10. He needs to reapply for the program.
+   > **中文**：他需要重新申请这个项目。
 
-11. Our history midterm is scheduled for next Wednesday.
-   > **中文**：学期过半时，学校安排了一场期中考试。
+11. He is absent from class today.
+   > **中文**：他今天没来上课。
 
-12. Write a short paragraph summarizing the article.
-   > **中文**：请在作文的第二段落里阐述你的核心论点。
+12. Please pronounce this word correctly.
+   > **中文**：请正确发音这个词。
 
-13. All students are encouraged to participate in class.
-   > **中文**：老师鼓励每位同学在课堂讨论中积极参与。
+13. Her pronunciation is very good.
+   > **中文**：她的发音很好。
 
-14. Active class participation counts toward your final grade.
-   > **中文**：积极的课堂参与度构成了期末成绩的一部分。
+14. I participate in class.
+   > **中文**：我在课堂上积极发言。
 
-15. Good exam preparation reduces test anxiety for students.
-   > **中文**：充足的准备是考试取得优异成绩的关键。
+15. Class participation is important.
+   > **中文**：课堂参与很重要。
 
-16. Listen carefully to the correct pronunciation of word.
-   > **中文**：请在字典里查阅这个生词的标准发音。
+16. The report card shows my credits.
+   > **中文**：成绩单上写着我的学分。
 
-17. Parents received their child's excellent report card.
-   > **中文**：家长收到了孩子本学期的正式成绩单。
+17. I like the literature class.
+   > **中文**：我喜欢文学课。
 
-18. You should reread the chapter before answering questions.
-   > **中文**：在写作前，请重读一遍原文说明。
+18. My brother goes to elementary school.
+   > **中文**：我的弟弟在上小学。
 
-19. The teacher told him to rewrite his introductory essay.
-   > **中文**：老师要求他重写这篇语法错误的短文。
+19. She is very smart.
+   > **中文**：她很聪明。
 
-20. The smart student solved the difficult math puzzle.
-   > **中文**：那位聪明勤奋的学生在竞赛中名列前茅。
+20. I am ready for the exam.
+   > **中文**：我为考试准备好了。
 
 </quiz-listening>
 
@@ -204,25 +207,34 @@ absent, aloud, apply, correct, correction, credit, elementary school, final exam
 | 英文单词 | 课文释义 |
 | --- | --- |
 | absent | 缺席的 |
-| aloud | 大声地 |
+| aloud | 出声地 |
 | apply | 申请 |
-| correction | 批改 / 订正 |
+| correct | 正确的 / 纠正 |
+| correction | 更正 |
 | credit | 学分 |
 | elementary school | 小学 |
 | final exam | 期末考试 |
-| handwriting | 书写 / 手写体 |
+| handwriting | 书写 / 字迹 |
 | literature | 文学 |
-| material | 材料 / 教材 |
 | midterm | 期中考试 |
+| material | 材料 |
 | paragraph | 段落 |
-| participate | 参与 / 参加 |
+| participate | 参与 |
 | participation | 参与度 |
-| preparation | 准备 |
-| pronunciation | 发音 |
+| preparation | 准备工作 |
+| prepare | 准备 |
+| pronounce | 发音 |
+| pronunciation | 发音（名词） |
+| reapply | 重新申请 |
 | report card | 成绩单 |
 | reread | 重读 |
 | rewrite | 重写 |
+| school | 学校 |
 | smart | 聪明的 |
+| is | 是（单数） |
+| the | 这个 / 那个 |
+| class | 课堂 / 班级 |
+| exam | 考试 |
 
 </quiz-matching>
 
@@ -230,202 +242,202 @@ absent, aloud, apply, correct, correction, credit, elementary school, final exam
 
 ### 1
 
-He was ____ from school today due to a high fever.
+The final ____ is next week.
 
-- [x] absent
-- [ ] aloud
-- [ ] apply
+- [x] exam
+- [ ] card
+- [ ] school
 
-> **解析**：**absent** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：final exam（期末考试）是固定搭配；card 和 school 不能与 final 构成此义。
 
 ### 2
 
-The teacher asked the student to read the poem ____.
+I am preparing ____ the midterm.
 
-- [x] aloud
-- [ ] absent
-- [ ] apply
+- [x] for
+- [ ] to
+- [ ] at
 
-> **解析**：**aloud** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：prepare for 是固定搭配；其余介词不成立。
 
 ### 3
 
-She decided to ____ for a scholarship at the university.
+I will ____ the material tonight.
 
-- [x] apply
-- [ ] absent
-- [ ] aloud
+- [x] reread
+- [ ] rereading
+- [ ] rereads
 
-> **解析**：**apply** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：will 后接动词原形 reread；其余形式不能跟在 will 后。
 
 ### 4
 
-Please check your essay carefully for any ____.
+Please ____ the paragraph.
 
-- [x] correction
-- [ ] absent
-- [ ] aloud
+- [x] rewrite
+- [ ] rewriting
+- [ ] rewrote
 
-> **解析**：**correction** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 rewrite；其余形式不成立。
 
 ### 5
 
-Students earn three academic ____ points for this course.
+The teacher ____ my mistakes.
 
-- [x] credit
-- [ ] absent
-- [ ] aloud
+- [x] corrected
+- [ ] correction
+- [ ] corrects to
 
-> **解析**：**credit** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：corrected 是 correct 的过去式，作动词"纠正"；correction 是名词。
 
 ### 6
 
-Children enter elementary ____ at six years old.
+Please make ____ here.
 
-- [x] school
-- [ ] absent
-- [ ] aloud
+- [x] corrections
+- [ ] correct
+- [ ] correctly
 
-> **解析**：**school** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：make corrections 是固定搭配，需要名词复数；correct 是形容词/动词。
 
 ### 7
 
-____ is studying hard for the final exam.
+Please read the paragraph ____.
 
-- [x] Everyone
-- [ ] absent
-- [ ] aloud
+- [x] aloud
+- [ ] alound
+- [ ] allow
 
-> **解析**：**Everyone** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：read aloud（朗读）是固定搭配；另外两项不是正确单词或语义不符。
 
 ### 8
 
-Her neat ____ is very easy to read.
+My ____ is very good.
 
 - [x] handwriting
-- [ ] absent
-- [ ] aloud
+- [ ] handwrite
+- [ ] written
 
-> **解析**：**handwriting** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：句首需要名词 handwriting（字迹）；handwrite 是动词，written 是分词。
 
 ### 9
 
-They read classic American ____ in high school.
+She is applying ____ a scholarship.
 
-- [x] literature
-- [ ] absent
-- [ ] aloud
+- [x] for
+- [ ] to
+- [ ] from
 
-> **解析**：**literature** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：apply for 是固定搭配，表示"申请"；其余介词不成立。
 
 ### 10
 
-The teacher distributed study ____ for the upcoming test.
+He needs to ____ for the program again.
 
-- [x] material
-- [ ] absent
-- [ ] aloud
+- [x] reapply
+- [ ] apply
+- [ ] reapplying
 
-> **解析**：**material** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：again 提示"再次"，reapply 最合语境；to 后需接原形，reapplying 不成立。
 
 ### 11
 
-Our history ____ is scheduled for next Wednesday.
+He is ____ from class today.
 
-- [x] midterm
-- [ ] absent
-- [ ] aloud
+- [x] absent
+- [ ] absence
+- [ ] absenting
 
-> **解析**：**midterm** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be absent from 是固定搭配；absence 是名词，不能作表语形容词。
 
 ### 12
 
-Write a short ____ summarizing the article.
+Please ____ this word correctly.
 
-- [x] paragraph
-- [ ] absent
-- [ ] aloud
+- [x] pronounce
+- [ ] pronunciation
+- [ ] pronouncing
 
-> **解析**：**paragraph** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 pronounce；pronunciation 是名词。
 
 ### 13
 
-All students are encouraged to ____ in class.
+Her ____ is very good.
 
-- [x] participate
-- [ ] absent
-- [ ] aloud
+- [x] pronunciation
+- [ ] pronounce
+- [ ] pronouncement
 
-> **解析**：**participate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句首需要名词 pronunciation；pronounce 是动词。
 
 ### 14
 
-Active class ____ counts toward your final grade.
+I participate ____ class.
 
-- [x] participation
-- [ ] absent
-- [ ] aloud
+- [x] in
+- [ ] on
+- [ ] at
 
-> **解析**：**participation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：participate in 是固定搭配；其余介词不成立。
 
 ### 15
 
-Good exam ____ reduces test anxiety for students.
+Class ____ is part of the grade.
 
-- [x] preparation
-- [ ] absent
-- [ ] aloud
+- [x] participation
+- [ ] participate
+- [ ] participating
 
-> **解析**：**preparation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Class 后需要名词 participation；participate 是动词原形。
 
 ### 16
 
-Listen carefully to the ____ pronunciation of word.
+The report ____ shows my credits.
 
-- [x] correct
-- [ ] absent
-- [ ] aloud
+- [x] card
+- [ ] book
+- [ ] paper
 
-> **解析**：**correct** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：report card（成绩单）是固定搭配；book 和 paper 不表此义。
 
 ### 17
 
-Parents received their child's ____ report card.
+I like the ____ class.
 
-- [x] excellent
-- [ ] absent
-- [ ] aloud
+- [x] literature
+- [ ] literary
+- [ ] literal
 
-> **解析**：**excellent** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：literature class（文学课）搭配成立；literary 和 literal 语义不合。
 
 ### 18
 
-You should ____ the chapter before answering questions.
+My brother goes to ____ school.
 
-- [x] reread
-- [ ] absent
-- [ ] aloud
+- [x] elementary
+- [ ] elementary's
+- [ ] an elementary
 
-> **解析**：**reread** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：elementary school 作"上学"义时不加冠词；另外两项结构错误。
 
 ### 19
 
-The teacher told him to ____ his introductory essay.
+She is very ____.
 
-- [x] rewrite
-- [ ] absent
-- [ ] aloud
+- [x] smart
+- [ ] smarter
+- [ ] smartest
 
-> **解析**：**rewrite** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：very 修饰形容词原级 smart；比较级和最高级不与 very 搭配。
 
 ### 20
 
-The ____ student solved the difficult math puzzle.
+I am ready ____ the exam.
 
-- [x] smart
-- [ ] absent
-- [ ] aloud
+- [x] for
+- [ ] to
+- [ ] with
 
-> **解析**：**smart** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：ready for 是固定搭配；其余介词不成立。
 
 </quiz-cloze>

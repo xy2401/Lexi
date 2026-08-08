@@ -10,44 +10,31 @@ background information, corporation, credit, efficient, failure to, follow up, g
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"跟进对话、处理工作事务"展开，场景偏向职场和正式沟通。词表里有大量商务和行政词汇（corporation, guidelines, obligation, priority, target, credit, technical），有表达因果和条件的结构（given that, prior to, failure to, the case that），也有过去完成时的多种形式（had been, had it been, hadn't been, hadn't it）。你可以练习这样的叙述：I'm following up on our prior conversation—given that the guidelines had been sent out, I hadn't expected any failure to meet the target. / Had it been a technical matter, I would have credited the team, but the case that we observed was a lack of priority.
+本单元的主题是"跟进一次谈话"，场景是职场沟通与解释责任。词表可以分成四组：职场名词（corporation, guidelines, target, priority, obligation, credit, matter, observation）、行动短语（follow up, send out, failure to, making excuses）、条件与背景（given that, prior, prior to, background information, the case that）、以及过去完成时家族（had been, had it been, hadn't been, hadn't it）。拼起来就是一段职场跟进：I'm following up on our conversation. Given that the report wasn't sent out prior to the meeting, I need background information.
 
-词表里最值得注意的是过去完成时的虚拟和倒装用法：had it been 是 if it had been 的倒装形式，用于虚拟条件句；hadn't been 和 hadn't it 分别用于否定陈述和反问。这些结构在正式写作和商务沟通中很常见，但口语中相对少用。making excuses 是"找借口"，和 follow up（跟进）形成有趣的对比——一个是推卸，一个是负责。
+语法主线是过去完成时及其倒装。had been 表示"过去之前已经…"：The guidelines had been updated before the change. had it been 是倒装虚拟条件句，等于 if it had been：Had it been a technical problem, we could have fixed it.（如果那是技术问题，我们本可以修好。）hadn't been / hadn't it 是它的否定与疑问形式。另一条主线是职场正式语域：prior to（在…之前）、given that（鉴于）、failure to do（未能做…），都比日常说法更正式。
+
+学完这单元，你能用英语跟进工作事项：回溯之前的对话、解释原因、承担责任，还能用虚拟语气讨论"如果当时情况不同会怎样"。
 
 ## Tips
 
-- **follow up** — 跟进、后续联系。搭配：follow up on a conversation / follow up with an email / a follow-up meeting。例句：I'm following up on our discussion last week. 做名词时有连字符：a follow-up。职场中极常用，表示"之前说过的事，现在来确认进展"。
+- **follow up / send out** — 跟进双动词。follow up 是"跟进"：I'm following up on our conversation. send out 是"发出、分发"：send out the report. 两者是职场邮件的开场标配。
 
-- **given that** — 鉴于、考虑到。搭配：given that + 句子。例句：Given that the deadline is tomorrow, we need to prioritize. 比 because 更正式，常用于引出已知背景。类似表达：considering that / in light of the fact that。
+- **making excuses / failure to** — 责任表达。making excuses 是"找借口"：Stop making excuses. failure to do 是"未能做…"，正式用语：Failure to reply is unacceptable. ✗ failure of reply → ✓ failure to reply，failure 后接 to do。
 
-- **prior to** — 在……之前。比 before 更正式：Prior to the meeting, please read the guidelines. 搭配：prior to + 名词/动名词。例句：Prior to sending out the report, check for technical errors. 注意 prior 单独做形容词时意为"先前的"：a prior conversation / prior experience。
+- **credit / obligation / priority / target** — 职场四词。credit 是功劳/认可：give credit where credit is due。obligation 是义务：meet an obligation。priority 是优先事项：top priority。target 是目标：hit the target。
 
-- **had it been / hadn't it** — 过去完成时的倒装和反问。Had it been a different situation, I would have agreed. = If it had been a different situation...（虚拟条件句的倒装，省略 if）。Hadn't it been for your help, we would have failed. = If it hadn't been for...（要不是……）。这些结构在正式写作中很常见。
+- **corporation / guidelines / technical** — 公司与规则。corporation 是大公司（corporate 的家族）；guidelines 是指导方针，常用复数；technical 是技术性的：a technical issue。
 
-- **making excuses** — 找借口、推卸责任。搭配：make excuses / stop making excuses / no more excuses。例句：I'm not making excuses—I'm explaining what happened. 注意 excuse 做名词时读 /ɪkˈskjuːs/，做动词时读 /ɪkˈskjuːz/。
+- **efficient / practical / potential** — 评价三词。efficient 是"高效的"；practical 是"实际的、可行的"：a practical solution。potential 是"潜在的"：potential problems。
 
-- **obligation** — 义务、责任。搭配：have an obligation / meet an obligation / a legal obligation。例句：We have an obligation to follow the guidelines. 比 duty 更正式，比 responsibility 更强调"必须做"的约束力。形容词是 obligatory。
+- **given that / prior to / prior** — 正式连接语。given that 是"鉴于"：Given that it rained, we stayed in. prior to 是"在…之前"（比 before 正式）：prior to the meeting。prior 单独作形容词"较早的"：a prior engagement。
 
-- **priority** — 优先事项、重点。搭配：a top priority / set priorities / give priority to。例句：This project is our number one priority. 注意拼写：pri-or-i-ty。形容词是 prior（先前的），但 priority 强调的是"重要性排序"。
+- **background information / observation / matter / the case that** — 信息类名词。background information 是背景信息；observation 是观察/评论；matter 是"事情、问题"：It's a serious matter. the case that... 是"…的情况"：Is it the case that you forgot?
 
-- **guidelines** — 指南、准则。搭配：follow the guidelines / company guidelines / strict guidelines。例句：The corporation sent out new guidelines prior to the audit. 比 rules 更灵活——rules 是硬性规定，guidelines 是指导性建议。通常用复数。
-
-- **failure to** — 未能做某事、没有做到。搭配：failure to comply / failure to meet the target / failure to follow up。例句：Failure to send out the report on time is not acceptable. 非常正式的书面表达，常见于商务和法律语境。比 not doing 更严肃。
-
-- **credit** — 这里指"功劳、认可"。搭配：give credit to / take credit for / get credit for。例句：The team deserves credit for meeting the target. 注意 credit 也可以指"信用、学分、贷款"，看语境。动词用法：credit someone with something。
-
-- **efficient / practical / technical** — 三个职场高频形容词。efficient = 高效的：an efficient process / highly efficient。practical = 实际的、可行的：a practical solution / practical advice。technical = 技术的、专业的：a technical issue / technical skills。注意 efficient 和 effective 的区别：efficient 强调省时省力，effective 强调有效果。
-
-- **corporation** — 大公司、企业法人。搭配：a multinational corporation / a large corporation / corporate culture。比 company 更正式、更大规模。形容词是 corporate：corporate guidelines / corporate responsibility。缩写常写作 corp.。
-
-- **send out** — 发出、分发。搭配：send out an email / send out guidelines / send out invitations。例句：The guidelines were sent out prior to the meeting. 比 send 更强调"向多人分发"的动作。注意和 send off（寄出、送别）区分。
-
-- **observation / matter / the case that** — observation = 观察、观察结果：an interesting observation / based on my observation。matter = 事情、问题：a serious matter / the matter at hand。the case that = ……的情况：It's not the case that we ignored the issue. 三者都是正式讨论中的高频词。
-
-- **potential / target** — potential = 潜力、潜在的：potential problems / reach your potential / a potential client。target = 目标、指标：meet the target / set a target / a sales target。例句：We missed the target, but the potential is still there. 注意 target 原义是"靶子"，引申为"目标"。
+- **had been / had it been / hadn't been / hadn't it** — 过去完成时四式。had been 是陈述：She had been away. had it been 是倒装虚拟"要是它当时是…"；hadn't been 是"要不是…"：If it hadn't been for you... hadn't it 是疑问：Hadn't it been updated?
 
 ## 练习
 
@@ -65,149 +52,149 @@ background information, corporation, credit, efficient, failure to, follow up, g
 
 <quiz-sentence-builder>
 
-1. **中文**：我正在跟进上周二我们的邮件讨论。
-   **英文**：I am following up on our email discussion from last Tuesday.
-   > **解析**：follow up on 表示跟进某项事务或对话。
+1. **中文**：我在跟进我们上次的谈话。
+   **英文**：I'm following up on our conversation.
+   > **解析**：现在进行时 am following；follow up on 是固定短语"跟进"。
 
-2. **中文**：鉴于截止日期是明天，我们必须迅速行动。
-   **英文**：Given that the deadline is tomorrow, we must work quickly.
-   > **解析**：Given that 引导条件或原因，意为“鉴于、考虑到”。
+2. **中文**：报告应该在会前发出去。
+   **英文**：The report should have been sent out before the meeting.
+   > **解析**：should have been sent 是情态动词的被动完成形式；before the meeting 是时间状语。
 
-3. **中文**：在开会之前，请仔细阅读这份文档。
-   **英文**：Prior to the conference, please review the document carefully.
-   > **解析**：Prior to 介词短语，比 before 更正式，意为“在……之前”。
+3. **中文**：鉴于截止日期已过，我们需要一个计划。
+   **英文**：Given that the deadline has passed, we need a plan.
+   > **解析**：Given that 引导原因状语；we need 是主句。
 
-4. **中文**：要是过去这是个技术问题，我们早就会解决了。
-   **英文**：Had it been a technical issue, we would have solved it sooner.
-   > **解析**：Had it been 是 If it had been 的虚拟倒装表达。
+4. **中文**：准则在改动之前就已经更新过了。
+   **英文**：The guidelines had been updated before the change.
+   > **解析**：had been updated 是过去完成时的被动语态，表示更早完成的动作。
 
-5. **中文**：停止找借口，为你的工作承担起责任。
-   **英文**：Stop making excuses and take responsibility for your work.
-   > **解析**：make excuses 表示找借口、推卸责任。
+5. **中文**：要是那是技术问题，我们本可以修好。
+   **英文**：Had it been a technical problem, we could have fixed it.
+   > **解析**：Had it been 是倒装虚拟条件句，等于 If it had been；主句用 could have fixed。
 
-6. **中文**：我们有遵守安全流程的义务。
-   **英文**：We have an obligation to follow safety procedures.
-   > **解析**：obligation 表示义务、责任。
+6. **中文**：要不是你帮忙，我就迟到了。
+   **英文**：If it hadn't been for your help, I would have been late.
+   > **解析**：If it hadn't been for 是虚拟条件"要不是"；主句 would have been。
 
-7. **中文**：完成这份报告是我们本周的首要任务。
-   **英文**：Completing this report is our top priority this week.
-   > **解析**：priority 表示优先事项、重点。
+7. **中文**：它之前没有被更新过吗？
+   **英文**：Hadn't it been updated?
+   > **解析**：过去完成时疑问句把 Hadn't 提前；been updated 是被动形式。
 
-8. **中文**：经理分发了关于远程工作的新指南。
-   **英文**：The manager sent out new guidelines for remote working.
-   > **解析**：guidelines 常用复数，表示指南、准则。
+8. **中文**：别再找借口了。
+   **英文**：Stop making excuses.
+   > **解析**：Stop + 动名词 making 表示"停止做某事"。
 
-9. **中文**：未能达成目标将会导致项目延期。
-   **英文**：Failure to meet the target will result in a delay.
-   > **解析**：Failure to do something 表示未能做到某事。
+9. **中文**：未能回复是不可接受的。
+   **英文**：Failure to reply is unacceptable.
+   > **解析**：Failure to do 作主语，用单数 is；unacceptable 作表语。
 
-10. **中文**：整个团队都应当因为这项成就受到赞许和功劳。
-   **英文**：The entire team deserves credit for this achievement.
-   > **解析**：credit 表示功劳、认可。
+10. **中文**：请把功劳给应得的人。
+   **英文**：Give credit where credit is due.
+   > **解析**：固定谚语；where 引导地点状语从句。
 
-11. **中文**：她是一位办事高效、从不浪费时间的经理。
-   **英文**：She is a very efficient manager who wastes no time.
-   > **解析**：efficient 表示高效的、省时省力的。
+11. **中文**：我们有义务按时交付。
+   **英文**：We have an obligation to deliver on time.
+   > **解析**：obligation to do 结构；on time 是"准时"。
 
-12. **中文**：针对这个问题我们需要一个实际可行的解决方案，而不只是理论。
-   **英文**：We need a practical solution to this problem, not just theory.
-   > **解析**：practical 表示实际的、可行的。
+12. **中文**：这是头等大事。
+   **英文**：This is a top priority.
+   > **解析**：top 修饰 priority；a top priority 作表语。
 
-13. **中文**：我们的团队正在处理一个严重的技术故障。
-   **英文**：Our team is dealing with a serious technical glitch.
-   > **解析**：technical 表示技术的、专业的。
+13. **中文**：我们达到了目标。
+   **英文**：We hit the target.
+   > **解析**：hit 的过去式仍为 hit；hit the target 是固定搭配。
 
-14. **中文**：他在一家总部位于芝加哥的大企业工作。
-   **英文**：He works for a multinational corporation based in Chicago.
-   > **解析**：corporation 表示大公司、企业法人。
+14. **中文**：这家公司的效率很高。
+   **英文**：The corporation is very efficient.
+   > **解析**：The corporation 是单数主语，用 is；very 修饰 efficient。
 
-15. **中文**：我们将在今天结束前把邀请函发出去。
-   **英文**：We will send out the invitations by the end of the day.
-   > **解析**：send out 表示发出、分发。
+15. **中文**：这是一个可行的解决方案。
+   **英文**：This is a practical solution.
+   > **解析**：practical 修饰 solution；This 作主语用 is。
 
-16. **中文**：根据我的观察，工作效率已经提升了。
-   **英文**：According to my observation, productivity has increased.
-   > **解析**：observation 表示观察、观察结果。
+16. **中文**：存在一些潜在问题。
+   **英文**：There are some potential problems.
+   > **解析**：There are + 复数名词 some potential problems。
 
-17. **中文**：事实并不是我们忽视了你的反馈。
-   **英文**：It is not the case that we ignored your feedback.
-   > **解析**：the case that 表示“……的情况/事实”。
+17. **中文**：我需要一些背景信息。
+   **英文**：I need some background information.
+   > **解析**：information 不可数，用 some 修饰；background 作定语。
 
-18. **中文**：这位客户具有巨大的长期增长潜力。
-   **英文**：This client has great potential for long-term growth.
-   > **解析**：potential 表示潜力、潜在的。
+18. **中文**：那是不是真的，你忘了？
+   **英文**：Is it the case that you forgot?
+   > **解析**：Is it the case that... 是固定疑问句式，that 引出内容。
 
-19. **中文**：我们成功达成了本季度的销售目标。
-   **英文**：We managed to reach our sales target for the quarter.
-   > **解析**：target 表示目标、指标。
+19. **中文**：这是我的观察结果。
+   **英文**：This is my observation.
+   > **解析**：observation 是名词作表语；my 修饰 observation。
 
-20. **中文**：请在演示前提供一些背景信息。
-   **英文**：Please provide some background information before the presentation.
-   > **解析**：background information 表示背景信息。
+20. **中文**：在会议之前，请先读完准则。
+   **英文**：Please read the guidelines prior to the meeting.
+   > **解析**：prior to 是正式介词短语"在…之前"；please 表礼貌请求。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I am following up on our email discussion from last Tuesday.
-   > **中文**：我正在跟进上周二我们的邮件讨论。
+1. I'm following up on our conversation.
+   > **中文**：我在跟进我们上次的谈话。
 
-2. Given that the deadline is tomorrow, we must work quickly.
-   > **中文**：鉴于截止日期是明天，我们必须迅速行动。
+2. The report should have been sent out earlier.
+   > **中文**：报告本该早点发出去的。
 
-3. Prior to the conference, please review the document carefully.
-   > **中文**：在开会之前，请仔细阅读这份文档。
+3. Given that the deadline has passed, we need a plan.
+   > **中文**：鉴于截止日期已过，我们需要一个计划。
 
-4. Had it been a technical issue, we would have solved it sooner.
-   > **中文**：要是过去这是个技术问题，我们早就会解决了。
+4. The guidelines had been updated before the change.
+   > **中文**：准则在改动之前就已经更新过了。
 
-5. Stop making excuses and take responsibility for your work.
-   > **中文**：停止找借口，为你的工作承担起责任。
+5. Had it been a technical problem, we could have fixed it.
+   > **中文**：要是那是技术问题，我们本可以修好。
 
-6. We have an obligation to follow safety procedures.
-   > **中文**：我们有遵守安全流程的义务。
+6. If it hadn't been for your help, I would have been late.
+   > **中文**：要不是你帮忙，我就迟到了。
 
-7. Completing this report is our top priority this week.
-   > **中文**：完成这份报告是我们本周的首要任务。
+7. Hadn't it been updated?
+   > **中文**：它之前没有被更新过吗？
 
-8. The manager sent out new guidelines for remote working.
-   > **中文**：经理分发了关于远程工作的新指南。
+8. Stop making excuses.
+   > **中文**：别再找借口了。
 
-9. Failure to meet the target will result in a delay.
-   > **中文**：未能达成目标将会导致项目延期。
+9. Failure to reply is unacceptable.
+   > **中文**：未能回复是不可接受的。
 
-10. The entire team deserves credit for this achievement.
-   > **中文**：整个团队都应当因为这项成就受到赞许和功劳。
+10. Give credit where credit is due.
+   > **中文**：请把功劳给应得的人。
 
-11. She is a very efficient manager who wastes no time.
-   > **中文**：她是一位办事高效、从不浪费时间的经理。
+11. We have an obligation to deliver on time.
+   > **中文**：我们有义务按时交付。
 
-12. We need a practical solution to this problem, not just theory.
-   > **中文**：针对这个问题我们需要一个实际可行的解决方案，而不只是理论。
+12. This is a top priority.
+   > **中文**：这是头等大事。
 
-13. Our team is dealing with a serious technical glitch.
-   > **中文**：我们的团队正在处理一个严重的技术故障。
+13. We hit the target this quarter.
+   > **中文**：我们这个季度达到了目标。
 
-14. He works for a multinational corporation based in Chicago.
-   > **中文**：他在一家总部位于芝加哥的大企业工作。
+14. The corporation is very efficient.
+   > **中文**：这家公司的效率很高。
 
-15. We will send out the invitations by the end of the day.
-   > **中文**：我们将在今天结束前把邀请函发出去。
+15. This is a practical solution.
+   > **中文**：这是一个可行的解决方案。
 
-16. According to my observation, productivity has increased.
-   > **中文**：根据我的观察，工作效率已经提升了。
+16. There are some potential problems.
+   > **中文**：存在一些潜在问题。
 
-17. It is not the case that we ignored your feedback.
-   > **中文**：事实并不是我们忽视了你的反馈。
+17. I need some background information.
+   > **中文**：我需要一些背景信息。
 
-18. This client has great potential for long-term growth.
-   > **中文**：这位客户具有巨大的长期增长潜力。
+18. Is it the case that you forgot?
+   > **中文**：那是不是真的，你忘了？
 
-19. We managed to reach our sales target for the quarter.
-   > **中文**：我们成功达成了本季度的销售目标。
+19. This is my observation.
+   > **中文**：这是我的观察结果。
 
-20. Please provide some background information before the presentation.
-   > **中文**：请在演示前提供一些背景信息。
+20. Please read the guidelines prior to the meeting.
+   > **中文**：在会议之前，请先读完准则。
 
 </quiz-listening>
 
@@ -215,26 +202,39 @@ background information, corporation, credit, efficient, failure to, follow up, g
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| follow up | 跟进 / 后续确认 |
-| given that | 鉴于 / 考虑到 |
-| prior to | 在……之前 |
-| had it been | 要是过去是……的话（倒装） |
-| making excuses | 找借口 |
-| obligation | 义务 / 责任 |
-| priority | 优先事项 / 重点 |
-| guidelines | 指南 / 准则 |
-| failure to | 未能做到…… |
-| credit | 功劳 / 赞许 |
-| efficient | 高效的 |
-| practical | 实际的 / 可行的 |
-| technical | 技术的 / 专业的 |
-| corporation | 大公司 / 企业 |
-| send out | 发出 / 分发 |
-| observation | 观察 / 观察结果 |
-| the case that | ……的情况 |
-| potential | 潜力 / 潜在的 |
-| target | 目标 / 指标 |
 | background information | 背景信息 |
+| corporation | 大公司 |
+| credit | 功劳 / 信用 |
+| efficient | 高效的 |
+| failure to | 未能… |
+| follow up | 跟进 |
+| given that | 鉴于 |
+| guidelines | 指导方针 |
+| had been | 当时已经是 |
+| had it been | 要是它当时是 |
+| hadn't been | 要不是… |
+| hadn't it | 它当时不是…吗 |
+| making excuses | 找借口 |
+| matter | 事情 / 问题 |
+| obligation | 义务 |
+| observation | 观察 |
+| potential | 潜在的 |
+| practical | 实际的 / 可行的 |
+| prior | 较早的 |
+| prior to | 在…之前 |
+| priority | 优先事项 |
+| send out | 发出 |
+| target | 目标 |
+| technical | 技术性的 |
+| the case that | …的情况 |
+| is | 是 |
+| the | 这个（定冠词） |
+| report | 报告 |
+| meeting | 会议 |
+| deadline | 截止日期 |
+| problem | 问题 |
+| solution | 解决方案 |
+| quarter | 季度 |
 
 </quiz-matching>
 
@@ -242,202 +242,202 @@ background information, corporation, credit, efficient, failure to, follow up, g
 
 ### 1
 
-I am following up on our email ____ from last Tuesday.
+I'm following ____ on our conversation.
 
-- [x] discussion
-- [ ] background information
-- [ ] corporation
+- [x] up
+- [ ] out
+- [ ] in
 
-> **解析**：**discussion** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：follow up 是固定短语"跟进"；follow out 和 follow in 不合该义。
 
 ### 2
 
-Given that the ____ is tomorrow, we must work quickly.
+The report should have been sent ____ earlier.
 
-- [x] deadline
-- [ ] background information
-- [ ] corporation
+- [x] out
+- [ ] up
+- [ ] in
 
-> **解析**：**deadline** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：send out 是固定短语"发出"；up 和 in 不合该义。
 
 ### 3
 
-____ to the conference, please review the document carefully.
+____ that the deadline has passed, we need a plan.
 
-- [x] Prior
-- [ ] background information
-- [ ] corporation
+- [x] Given
+- [ ] Prior
+- [ ] Failure
 
-> **解析**：**Prior** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Given that（鉴于）是固定搭配；Prior 需配 to，Failure 不合句首引导位置。
 
 ### 4
 
-Had it been a ____ issue, we would have solved it sooner.
+The guidelines had ____ updated before the change.
 
-- [x] technical
-- [ ] background information
-- [ ] corporation
+- [x] been
+- [ ] be
+- [ ] being
 
-> **解析**：**technical** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：had been updated 是过去完成时的被动；be 和 being 不合结构。
 
 ### 5
 
-Stop making excuses and take ____ for your work.
+Had it ____ a technical problem, we could have fixed it.
 
-- [x] responsibility
-- [ ] background information
-- [ ] corporation
+- [x] been
+- [ ] be
+- [ ] was
 
-> **解析**：**responsibility** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：倒装虚拟条件句 Had it been；be 和 was 不合该结构。
 
 ### 6
 
-We have an ____ to follow safety procedures.
+If it ____ been for your help, I would have been late.
 
-- [x] obligation
-- [ ] background information
-- [ ] corporation
+- [x] hadn't
+- [ ] hasn't
+- [ ] didn't
 
-> **解析**：**obligation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：虚拟条件用过去完成时 hadn't；hasn't 是现在完成时，didn't 不合。
 
 ### 7
 
-Completing this report is our top ____ this week.
+____ it been updated?
 
-- [x] priority
-- [ ] background information
-- [ ] corporation
+- [x] Hadn't
+- [ ] Hasn't
+- [ ] Doesn't
 
-> **解析**：**priority** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：过去完成时疑问用 Hadn't；Hasn't 时态不合，Doesn't 不合完成时。
 
 ### 8
 
-The manager sent out new ____ for remote working.
+Stop making ____.
 
-- [x] guidelines
-- [ ] background information
-- [ ] corporation
+- [x] excuses
+- [ ] excuse
+- [ ] excusing
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **guidelines**。
+> **解析**：make excuses 固定用复数；excusing 不合。
 
 ### 9
 
-Failure to meet the ____ will result in a delay.
+Failure ____ reply is unacceptable.
 
-- [x] target
-- [ ] background information
-- [ ] corporation
+- [x] to
+- [ ] of
+- [ ] for
 
-> **解析**：**target** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：failure to do 是固定结构；of 和 for 不合。
 
 ### 10
 
-The entire team deserves ____ for this achievement.
+Give ____ where credit is due.
 
 - [x] credit
-- [ ] background information
-- [ ] corporation
+- [ ] target
+- [ ] matter
 
-> **解析**：**credit** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Give credit where credit is due 是固定谚语；target 和 matter 不合。
 
 ### 11
 
-She is a very ____ manager who wastes no time.
+We have an ____ to deliver on time.
 
-- [x] efficient
-- [ ] background information
-- [ ] corporation
+- [x] obligation
+- [ ] observation
+- [ ] excuse
 
-> **解析**：**efficient** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：与"按时交付"搭配的是 obligation（义务）；observation 和 excuse 不合。
 
 ### 12
 
-We need a ____ solution to this problem, not just theory.
+This is a top ____.
 
-- [x] practical
-- [ ] background information
-- [ ] corporation
+- [x] priority
+- [ ] credit
+- [ ] guideline
 
-> **解析**：**practical** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：top priority（头等大事）是固定搭配；credit 和 guideline 不合。
 
 ### 13
 
-Our team is dealing with a serious ____ glitch.
+We hit the ____ this quarter.
 
-- [x] technical
-- [ ] background information
+- [x] target
 - [ ] corporation
+- [ ] case
 
-> **解析**：**technical** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：hit the target（达到目标）是固定搭配；corporation 和 case 不合。
 
 ### 14
 
-He works for a multinational ____ based in Chicago.
+The corporation is very ____.
 
-- [x] corporation
-- [ ] background information
-- [ ] credit
+- [x] efficient
+- [ ] efficiency
+- [ ] efficiently
 
-> **解析**：**corporation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 efficient；efficiency 是名词，efficiently 是副词，都不作表语。
 
 ### 15
 
-We will send out the ____ by the end of the day.
+This is a ____ solution.
 
-- [x] invitations
-- [ ] background information
-- [ ] corporation
+- [x] practical
+- [ ] potential
+- [ ] prior
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **invitations**。
+> **解析**：修饰 solution 表"可行的"用 practical；potential（潜在的）和 prior（较早的）语义不合。
 
 ### 16
 
-According to my ____, productivity has increased.
+There are some ____ problems.
 
-- [x] observation
-- [ ] background information
-- [ ] corporation
+- [x] potential
+- [ ] potentially
+- [ ] potentials
 
-> **解析**：**observation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 problems 需要形容词 potential；potentially 是副词，potentials 是名词，都不合该位置。
 
 ### 17
 
-It is not the case that we ignored your ____.
+I need some background ____.
 
-- [x] feedback
-- [ ] background information
-- [ ] corporation
+- [x] information
+- [ ] informations
+- [ ] excuse
 
-> **解析**：**feedback** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：information 不可数，无复数形式；excuse 语义不合。
 
 ### 18
 
-This client has great ____ for long-term growth.
+Is it the case ____ you forgot?
 
-- [x] potential
-- [ ] background information
-- [ ] corporation
+- [x] that
+- [ ] what
+- [ ] which
 
-> **解析**：**potential** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the case that... 用 that 引导同位语从句；what 和 which 不合该结构。
 
 ### 19
 
-We managed to reach our sales ____ for the quarter.
+This is my ____.
 
-- [x] target
-- [ ] background information
-- [ ] corporation
+- [x] observation
+- [ ] observe
+- [ ] observing
 
-> **解析**：**target** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：my 后需要名词 observation；observe 是动词，observing 不合。
 
 ### 20
 
-Please provide some background information before the ____.
+Please read the guidelines prior ____ the meeting.
 
-- [x] presentation
-- [ ] background information
-- [ ] corporation
+- [x] to
+- [ ] of
+- [ ] for
 
-> **解析**：**presentation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：prior to 是固定介词短语"在…之前"；of 和 for 不合。
 
 </quiz-cloze>

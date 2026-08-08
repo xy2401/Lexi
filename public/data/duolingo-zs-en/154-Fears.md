@@ -10,40 +10,35 @@ anxious, attack, bee, calm down, cliff, creepy, earthquake, enjoy, fear, get use
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"表达你的恐惧和焦虑"展开。核心是恐惧表达：I'm terrified of spiders—I'm scared of even the tiny ones.（我怕蜘蛛——连小的都怕。）、I had a nightmare about a shark attack near the cliff.（我做了个噩梦，梦到在悬崖边被鲨鱼袭击。）、I hate earthquakes—they stress me out and make me anxious.（我讨厌地震——它们让我紧张焦虑。）、Thank goodness it's over! I've never swum so fast in my life.（谢天谢地结束了！我这辈子从没游那么快。）。
+本单元的主题是"表达恐惧和焦虑"。词表分成三组：让人害怕的对象（bee, cliff, earthquake, nightmare, shark, spider）、情绪与感受词（anxious, creepy, fear, scared of, terrified, stress out）、以及调节与习惯的表达（calm down, enjoy, get used to, hate, hate to, keep, thank goodness, used to, swum, yikes）。组合起来就是完整的"害怕—安抚"对话：Yikes! A spider! I'm scared of spiders. Calm down, it's just a bee.
 
-词表里有恐惧词汇（terrified, scared of, fear, nightmare, creepy）和动物（spider, shark, bee）。你可以练习：Calm down! / I can't enjoy it. / I used to be scared. / Yikes! A spider!
+语法主线有三条。第一是害怕的表达层次：be scared of 和 be terrified of 都接名词或动名词，后者语气更强：I'm scared of spiders. I'm terrified of sharks. 第二是 used to 与 get used to 的区别：used to do 表示"过去常常"（现在已经不这样），get used to 表示"逐渐习惯"：I used to fear the dark. I'm getting used to the cold. 第三是 hate to do，表示"不愿意（做某件具体的事）"：I hate to say this.
 
-be scared of / be terrified of 表恐惧。used to 表过去习惯。
+学完本单元，你能描述自己怕什么、曾经怕过什么、正在习惯什么，也能用英语安慰受惊的朋友。
 
 ## Tips
 
-- **terrified / scared of / fear** — 非常害怕 / 害怕 / 恐惧。搭配：be terrified of, be scared of, a fear of。例句：I'm terrified of heights. / She's scared of snakes. / He has a fear of flying. 注意 terrified 比 scared 程度更强。
+- **scared of / terrified** — be scared of 是"害怕……"，后接名词或动名词：I'm scared of spiders. terrified 语气更强，是"吓坏了"：I'm terrified of sharks. 注意介词都用 of，不用 with 或 about。
 
-- **spider / shark / bee** — 蜘蛛 / 鲨鱼 / 蜜蜂。搭配：a spider web, a shark attack, a bee sting。例句：There's a spider on the wall! / Sharks scare me. / I got stung by a bee. 注意这些是常见恐惧对象。
+- **fear / nightmare** — fear 是抽象名词"恐惧"，也可作动词：Fear can keep you at home. nightmare 是"噩梦"：I had a nightmare last night. 比喻义可指"糟糕透顶的事"。
 
-- **nightmare / creepy / anxious** — 噩梦 / 令人毛骨悚然 / 焦虑。搭配：have a nightmare, a creepy house, feel anxious。例句：I had a nightmare last night. / That old house is creepy. / I feel anxious before exams. 注意 creepy = 让人害怕/不舒服。
+- **used to / get used to** — 结构相近，含义不同。used to + 动词原形表示"过去常常"：I used to fear the dark.（现在不怕了）get used to + 名词/动名词表示"变得习惯"：I'm getting used to the cold. 注意 ✗ I used to doing → 两个结构不能混搭。
 
-- **calm down / stress out / thank goodness** — 冷静 / 紧张 / 谢天谢地。搭配：calm down! / stress me out, thank goodness。例句：Calm down—it's just a spider. / Work stresses me out. / Thank goodness you're safe! 注意 stress out 是口语用法。
+- **calm down / thank goodness** — calm down 是"冷静下来"，及物不及物都可：Calm down! It's just a bee. thank goodness 是"谢天谢地"，用于庆幸：Thank goodness you're safe.
 
-- **used to / get used to / swum** — 过去常常 / 习惯 / 游过。搭配：used to do, get used to doing, have swum。例句：I used to be scared of the dark. / I'm getting used to it. / I've never swum in the ocean. 注意 used to + 动词原形（过去习惯）。
+- **hate / hate to / enjoy** — hate 是"讨厌"，后接名词或动名词：I hate spiders. hate to do 强调不愿做某件具体的事：I hate to say this. enjoy 是"享受、喜欢"，后接名词或动名词：I enjoy the film.
 
-- **hate / hate to / enjoy** — 讨厌 / 不愿 / 享受。搭配：hate doing, hate to say, enjoy life。例句：I hate spiders. / I hate to tell you this. / Try to enjoy the trip. 注意 hate to do = 不情愿做。
+- **stress out / anxious** — stress out 是"使焦虑、使紧张"：Work stresses me out. anxious 是形容词"焦虑的"，常接 about：I'm anxious about the exam.
 
-- **earthquake / attack / cliff** — 地震 / 袭击 / 悬崖。搭配：an earthquake, a shark attack, on the edge of a cliff。例句：The earthquake was terrifying. / There was a bear attack. / Don't stand near the cliff. 注意 earthquake 是不可预测的自然灾害。
+- **keep** — "保持"，keep + 形容词表示保持某种状态：Keep calm. 后也可接动名词：keep trying。
 
-- **keep / yikes / thank goodness** — 保持 / 哎呀 / 谢天谢地。搭配：keep calm, Yikes! / thank goodness for。例句：Keep calm and breathe. / Yikes! What was that? / Thank goodness for seatbelts. 注意 Yikes! 是惊讶/害怕时的感叹词。
+- **bee / spider / shark** — 三种让人紧张的动物。注意拼写：bee 双 e，spider 带 -er（不要写成 spier），shark 有 ar 组合。复数直接加 s。
 
-- **fear / terrified / nightmare** — 恐惧 / 害怕 / 噩梦。搭配：in fear, absolutely terrified, a terrible nightmare。例句：She screamed in fear. / I'm absolutely terrified. / I keep having nightmares. 注意 in fear = 恐惧地。
+- **cliff / earthquake / creepy** — cliff 是"悬崖"；earthquake 是"地震"，由 earth + quake（震动）复合而成；creepy 是"令人毛骨悚然的"：That old house is creepy.
 
-- **scared of / creepy / spider** — 害怕 / 恐怖 / 蜘蛛。搭配：scared of the dark, a creepy sound, a giant spider。例句：Are you scared of the dark? / I heard a creepy noise. / A spider crawled on my arm. 注意 scared of + 名词/doing。
-
-- **anxious / stress out / calm down** — 焦虑 / 压力大 / 冷静。搭配：feel anxious, stressed out, calm down。例句：I'm anxious about the interview. / I'm completely stressed out. / Just calm down and breathe. 注意 anxious 比 worried 更正式。
-
-- **get used to / used to / enjoy** — 习惯 / 过去常常 / 享受。搭配：get used to the noise, used to live here, enjoy the moment。例句：You'll get used to it. / I used to live near the sea. / Enjoy your vacation! 注意 get used to + doing; used to + do。
+- **attack / swum / yikes** — attack 是"攻击"，名词动词均可。swum 是 swim 的过去分词（swim—swam—swum），与 have 连用：I have swum in the sea. yikes 是口语感叹词，表示受惊：Yikes! A spider!
 
 ## 练习
 
@@ -61,149 +56,149 @@ be scared of / be terrified of 表恐惧。used to 表过去习惯。
 
 <quiz-sentence-builder>
 
-1. **中文**：每当她必须公开演讲时，她都会感到焦虑。
-   **英文**：She feels anxious whenever she has to speak in public.
-   > **解析**：anxious 表示“焦虑的/紧张的”；in public 意为“公开地”。
+1. **中文**：我怕蜘蛛。
+   **英文**：I am scared of spiders.
+   > **解析**：be scared of 是"害怕"的固定结构，of 后接名词复数 spiders 表示泛指。
 
-2. **中文**：请冷静下来，深呼吸。
-   **英文**：Please calm down and take a deep breath.
-   > **解析**：calm down 表示“冷静下来”；take a deep breath 意为“深呼吸”。
+2. **中文**：她过去害怕黑暗。
+   **英文**：She used to be afraid of the dark.
+   > **解析**：used to 后接动词原形 be，表示过去的状态；现在已不再如此。
 
-3. **中文**：在陡峭悬崖边缘行走让他感到头晕。
-   **英文**：Walking near the edge of the steep cliff made him dizzy.
-   > **解析**：cliff 表示“悬崖/峭壁”；steep 意为“陡峭的”。
+3. **中文**：我正在习惯这种寒冷。
+   **英文**：I am getting used to the cold.
+   > **解析**：get used to 表示"逐渐习惯"，to 是介词，后接名词 the cold。
 
-4. **中文**：森林里那栋废弃的老房子看起来真的很让人毛骨悚然。
-   **英文**：That old abandoned house in the forest looks really creepy.
-   > **解析**：creepy 表示“令人毛骨悚然的/怪异的”；abandoned 意为“废弃的”。
+4. **中文**：我不愿意说这件事。
+   **英文**：I hate to talk about it.
+   > **解析**：hate to do 表示不愿做某件具体的事；to talk 是不定式。
 
-5. **中文**：昨天突发地震时，大家都跑到了外面。
-   **英文**：Everyone ran outside during the sudden earthquake yesterday.
-   > **解析**：earthquake 表示“地震”；sudden 意为“突然的”。
+5. **中文**：冷静点，只是一只蜜蜂。
+   **英文**：Calm down, it is just a bee.
+   > **解析**：calm down 是祈使句；just 修饰名词短语 a bee，表示"只是"。
 
-6. **中文**：他试图克服对公开演讲的恐惧。
-   **英文**：He tried to overcome his fear of public speaking.
-   > **解析**：fear 表示“恐惧/害怕”；overcome fear 意为“克服恐惧”。
+6. **中文**：昨晚有地震。
+   **英文**：There was an earthquake last night.
+   > **解析**：there was 表示过去"存在"；last night 提示过去时。
 
-7. **中文**：适应在大城市的生活需要时间。
-   **英文**：It takes time to get used to living in a big city.
-   > **解析**：get used to 表示“习惯于……”；to 后接 v-ing 形式。
+7. **中文**：我做了个噩梦。
+   **英文**：I had a nightmare.
+   > **解析**：had 是 have 的过去式；have a nightmare 是固定搭配。
 
-8. **中文**：我很抱歉打扰，但我们真的遇到了紧急情况。
-   **英文**：I hate to interrupt, but we have a real emergency.
-   > **解析**：hate to 表示“抱歉/不情愿去做……”；interrupt 意为“打扰”。
+8. **中文**：我非常害怕鲨鱼。
+   **英文**：I am terrified of sharks.
+   > **解析**：be terrified of 比 be scared of 语气更强；sharks 用复数表泛指。
 
-9. **中文**：看完恐怖电影后，她做了一个可怕的噩梦。
-   **英文**：She had a terrible nightmare after watching the horror film.
-   > **解析**：nightmare 表示“噩梦”；horror film 意为“恐怖电影”。
+9. **中文**：那栋老房子真令人毛骨悚然。
+   **英文**：That old house is creepy.
+   > **解析**：creepy 作表语，描述房子给人的感觉。
 
-10. **中文**：你害怕蜘蛛和小昆虫吗？
-   **英文**：Are you scared of spiders and small insects?
-   > **解析**：scared of 表示“害怕……”；spiders 意为“蜘蛛”。
+10. **中文**：不要靠近悬崖。
+   **英文**：Don't go near the cliff.
+   > **解析**：Don't + 动词原形构成否定祈使句；near the cliff 是地点状语。
 
-11. **中文**：游泳者被警告在海滩附近发现了鲨鱼。
-   **英文**：Swimmers were warned that a shark was spotted near the beach.
-   > **解析**：shark 表示“鲨鱼”；was spotted 意为“被发现/被目击”。
+11. **中文**：我在海里游过泳。
+   **英文**：I have swum in the sea.
+   > **解析**：have + swum（swim 的过去分词）构成现在完成时，表示经历。
 
-12. **中文**：别让那些小问题把你压得喘不过气来。
-   **英文**：Don't let small problems stress you out like that.
-   > **解析**：stress you out 表示“使紧张/使压力山大”。
+12. **中文**：工作让我压力很大。
+   **英文**：Work stresses me out.
+   > **解析**：stress out 是可拆分的短语动词；Work 是三单主语，stress 加 es。
 
-13. **中文**：你以前游泳穿过这条宽阔的河流吗？
-   **英文**：Have you ever swum across this wide river before?
-   > **解析**：swum 是 swim 的过去分词；swum across 表示“游泳横渡”。
+13. **中文**：谢天谢地，你没事。
+   **英文**：Thank goodness you are safe.
+   > **解析**：thank goodness 是固定感叹语；you are safe 是省略 that 的从句。
 
-14. **中文**：灯突然熄灭时，她感到非常害怕。
-   **英文**：She was terrified when the lights went out suddenly.
-   > **解析**：terrified 表示“极其害怕的/恐慌的”；went out 意为“熄灭”。
+14. **中文**：哎呀！一只蜘蛛！
+   **英文**：Yikes! A spider!
+   > **解析**：yikes 是受惊时的感叹词；A spider! 是省略动词的惊叹句。
 
-15. **中文**：谢天谢地，大家在暴风雨到来前都安全到家了。
-   **英文**：Thank goodness everyone arrived home safely before the storm.
-   > **解析**：Thank goodness 表示感叹“谢天谢地/幸好”。
+15. **中文**：鲨鱼攻击了那条船。
+   **英文**：The shark attacked the boat.
+   > **解析**：attacked 是 attack 的过去式；the boat 作宾语。
 
-16. **中文**：我小时候曾经害怕黑暗。
-   **英文**：I used to be afraid of the dark when I was a child.
-   > **解析**：used to 表示“过去常常/过去曾经”；afraid of 意为“害怕”。
+16. **中文**：恐惧让我待在家里。
+   **英文**：Fear keeps me at home.
+   > **解析**：keep + 宾语 + 地点，表示"使某人待在某处"；Fear 是三单主语，keep 加 s。
 
-17. **中文**：哎呀！小路上的那条蛇差点咬到我的鞋。
-   **英文**：Yikes! That snake on the path almost bit my shoe.
-   > **解析**：Yikes 是口语感叹词，表示“哎呀/吓死人了”。
+17. **中文**：我对考试感到焦虑。
+   **英文**：I am anxious about the exam.
+   > **解析**：anxious 常与 about 搭配，说明焦虑的对象。
 
-18. **中文**：一只小蜜蜂在花园里色彩鲜艳的花朵旁嗡嗡飞过。
-   **英文**：A little bee buzzed around the colorful flowers in the garden.
-   > **解析**：bee 表示“蜜蜂”；buzzed 意为“发嗡嗡声”。
+18. **中文**：我喜欢这部电影。
+   **英文**：I enjoy the film.
+   > **解析**：enjoy 是及物动词，直接接宾语 the film。
 
-19. **中文**：突发恐慌可能会引发严重的哮喘发作。
-   **英文**：Sudden panics can trigger a severe asthma attack.
-   > **解析**：attack 表示“发作/袭击”；trigger 意为“触发”。
+19. **中文**：我过去讨厌蜘蛛。
+   **英文**：I used to hate spiders.
+   > **解析**：used to 后接动词原形 hate，表示过去的习惯。
 
-20. **中文**：继续往前走，尽量不要往下看。
-   **英文**：Keep walking straight and try not to look down.
-   > **解析**：Keep walking 表示“保持行走/继续走”；look down 意为“向下看”。
+20. **中文**：蜘蛛是我最大的恐惧。
+   **英文**：Spiders are my biggest fear.
+   > **解析**：spiders 是复数主语，用 are；biggest 是 big 的最高级，修饰 fear。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. She feels anxious whenever she has to speak in public.
-   > **中文**：每当她必须公开演讲时，她都会感到焦虑。
+1. I am scared of spiders.
+   > **中文**：我怕蜘蛛。
 
-2. Please calm down and take a deep breath.
-   > **中文**：请冷静下来，深呼吸。
+2. Calm down, it is just a bee.
+   > **中文**：冷静点，只是一只蜜蜂。
 
-3. Walking near the edge of the steep cliff made him dizzy.
-   > **中文**：在陡峭悬崖边缘行走让他感到头晕。
+3. I am terrified of sharks.
+   > **中文**：我非常害怕鲨鱼。
 
-4. That old abandoned house in the forest looks really creepy.
-   > **中文**：森林里那栋废弃的老房子看起来真的很让人毛骨悚然。
+4. I used to fear the dark.
+   > **中文**：我过去害怕黑暗。
 
-5. Everyone ran outside during the sudden earthquake yesterday.
-   > **中文**：昨天突发地震时，大家都跑到了外面。
+5. I am getting used to the cold.
+   > **中文**：我正在习惯这种寒冷。
 
-6. He tried to overcome his fear of public speaking.
-   > **中文**：他试图克服对公开演讲的恐惧。
+6. There was an earthquake last night.
+   > **中文**：昨晚有地震。
 
-7. It takes time to get used to living in a big city.
-   > **中文**：适应在大城市的生活需要时间。
+7. I had a bad nightmare.
+   > **中文**：我做了个可怕的噩梦。
 
-8. I hate to interrupt, but we have a real emergency.
-   > **中文**：我很抱歉打扰，但我们真的遇到了紧急情况。
+8. That house looks creepy.
+   > **中文**：那栋房子看起来很瘆人。
 
-9. She had a terrible nightmare after watching the horror film.
-   > **中文**：看完恐怖电影后，她做了一个可怕的噩梦。
+9. Don't stand near the cliff.
+   > **中文**：不要站在悬崖边。
 
-10. Are you scared of spiders and small insects?
-   > **中文**：你害怕蜘蛛和小昆虫吗？
+10. I have swum in the sea before.
+   > **中文**：我以前在海里游过泳。
 
-11. Swimmers were warned that a shark was spotted near the beach.
-   > **中文**：游泳者被警告在海滩附近发现了鲨鱼。
+11. Work is stressing me out.
+   > **中文**：工作让我压力很大。
 
-12. Don't let small problems stress you out like that.
-   > **中文**：别让那些小问题把你压得喘不过气来。
+12. Thank goodness you are OK.
+   > **中文**：谢天谢地，你没事。
 
-13. Have you ever swum across this wide river before?
-   > **中文**：你以前游泳穿过这条宽阔的河流吗？
+13. Yikes! What was that?
+   > **中文**：哎呀！那是什么？
 
-14. She was terrified when the lights went out suddenly.
-   > **中文**：灯突然熄灭时，她感到非常害怕。
+14. I hate to be alone at night.
+   > **中文**：我不愿意晚上一个人待着。
 
-15. Thank goodness everyone arrived home safely before the storm.
-   > **中文**：谢天谢地，大家在暴风雨到来前都安全到家了。
+15. I am anxious about tomorrow.
+   > **中文**：我对明天的事感到焦虑。
 
-16. I used to be afraid of the dark when I was a child.
-   > **中文**：我小时候曾经害怕黑暗。
+16. Fear can be a big problem.
+   > **中文**：恐惧可能是个大问题。
 
-17. Yikes! That snake on the path almost bit my shoe.
-   > **中文**：哎呀！小路上的那条蛇差点咬到我的鞋。
+17. The shark attacked a boat.
+   > **中文**：鲨鱼攻击了一条船。
 
-18. A little bee buzzed around the colorful flowers in the garden.
-   > **中文**：一只小蜜蜂在花园里色彩鲜艳的花朵旁嗡嗡飞过。
+18. Keep calm, everything is fine.
+   > **中文**：保持冷静，一切都没问题。
 
-19. Sudden panics can trigger a severe asthma attack.
-   > **中文**：突发恐慌可能会引发严重的哮喘发作。
+19. I enjoy scary movies.
+   > **中文**：我喜欢恐怖电影。
 
-20. Keep walking straight and try not to look down.
-   > **中文**：继续往前走，尽量不要往下看。
+20. Spiders are my biggest fear.
+   > **中文**：蜘蛛是我最大的恐惧。
 
 </quiz-listening>
 
@@ -211,26 +206,45 @@ be scared of / be terrified of 表恐惧。used to 表过去习惯。
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| anxious | 焦虑的 / 紧张的 |
-| attack | 发作 / 袭击 |
+| anxious | 焦虑的 |
+| attack | 攻击 |
 | bee | 蜜蜂 |
 | calm down | 冷静下来 |
 | cliff | 悬崖 |
 | creepy | 令人毛骨悚然的 |
 | earthquake | 地震 |
+| enjoy | 享受 / 喜欢 |
 | fear | 恐惧 |
-| get used to | 习惯于 |
-| hate to | 不情愿 / 抱歉做 |
+| get used to | 逐渐习惯 |
+| hate | 讨厌 |
+| hate to | 不愿意做 |
+| keep | 保持 |
 | nightmare | 噩梦 |
-| scared of | 害怕 |
+| scared of | 害怕…… |
 | shark | 鲨鱼 |
-| stress out | 压力山大 / 使紧张 |
-| swum | 游泳（swim的过去分词） |
-| terrified | 极其害怕的 |
+| spider | 蜘蛛 |
+| stress out | 使焦虑 |
+| swum | 游泳（过去分词） |
+| terrified | 吓坏了的 |
 | thank goodness | 谢天谢地 |
 | used to | 过去常常 |
-| yikes | 哎呀（惊叹词） |
-| keep | 保持 / 经常做 |
+| yikes | 哎呀（受惊） |
+| am | 是（与 I 搭配） |
+| is | 是（单数） |
+| are | 是（复数） |
+| was | 是（过去式） |
+| of | ……的 |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| just | 只是 |
+| don't | 不（否定） |
+| I | 我 |
+| it | 它 |
+| that | 那个 |
+| about | 关于 |
+| in | 在……里 |
+| last | 上一个 |
+| had | 有（过去式） |
 
 </quiz-matching>
 
@@ -238,202 +252,202 @@ be scared of / be terrified of 表恐惧。used to 表过去习惯。
 
 ### 1
 
-She feels ____ whenever she has to speak in public.
+I am scared ____ spiders.
 
-- [x] anxious
-- [ ] attack
-- [ ] bee
+- [x] of
+- [ ] at
+- [ ] on
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **anxious**。
+> **解析**：be scared of 是固定搭配，介词用 of；at 和 on 都不与该结构搭配。
 
 ### 2
 
-____ calm down and take a deep breath.
+She ____ be afraid of dogs.
 
-- [x] Please
-- [ ] anxious
-- [ ] attack
+- [x] used to
+- [ ] use to
+- [ ] using to
 
-> **解析**：**Please** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：表示"过去常常"用 used to + 动词原形；use to 和 using to 形式错误。
 
 ### 3
 
-Walking near the edge of the steep ____ made him dizzy.
+I am getting used ____ the cold.
 
-- [x] cliff
-- [ ] anxious
-- [ ] attack
+- [x] to
+- [ ] of
+- [ ] for
 
-> **解析**：**cliff** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get used to 的 to 是介词，后接名词；of 和 for 不构成该短语。
 
 ### 4
 
-That old abandoned house in the forest looks really ____.
+Calm ____, it is just a bee.
 
-- [x] creepy
-- [ ] anxious
-- [ ] attack
+- [x] down
+- [ ] up
+- [ ] out
 
-> **解析**：**creepy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：calm down 是"冷静下来"的固定搭配；calm up 和 calm out 不是短语。
 
 ### 5
 
-Everyone ran outside during the sudden ____ yesterday.
+I had a terrible ____ about a shark.
 
-- [x] earthquake
-- [ ] anxious
-- [ ] attack
+- [x] nightmare
+- [ ] earthquake
+- [ ] cliff
 
-> **解析**：**earthquake** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：had a nightmare 是"做噩梦"的固定搭配；earthquake 和 cliff 不能被"做"。
 
 ### 6
 
-He tried to overcome his ____ of public speaking.
+I am ____ of sharks.
 
-- [x] fear
-- [ ] anxious
-- [ ] attack
+- [x] terrified
+- [ ] terrifying
+- [ ] terrify
 
-> **解析**：**fear** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：描述人的感受用 -ed 形容词 terrified；terrifying 描述事物，terrify 是动词原形。
 
 ### 7
 
-It takes time to get used to ____ in a big city.
+The ____ shook the city.
 
-- [x] living
-- [ ] anxious
-- [ ] attack
+- [x] earthquake
+- [ ] spider
+- [ ] bee
 
-> **解析**：**living** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：能"震动城市"的是 earthquake（地震）；spider 和 bee 语义不符。
 
 ### 8
 
-I ____ to interrupt, but we have a real emergency.
+The house stands on a high ____.
 
-- [x] hate
-- [ ] anxious
-- [ ] attack
+- [x] cliff
+- [ ] nightmare
+- [ ] fear
 
-> **解析**：**hate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：房子建在高高的 cliff（悬崖）上；nightmare 和 fear 不是地点。
 
 ### 9
 
-She had a terrible ____ after watching the horror film.
+That old house is really ____.
 
-- [x] nightmare
-- [ ] anxious
-- [ ] attack
+- [x] creepy
+- [ ] creep
+- [ ] creeps
 
-> **解析**：**nightmare** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 creepy；creep 是动词原形，creeps 是三单形式。
 
 ### 10
 
-Are you scared of ____ and small insects?
+I have ____ in the sea before.
 
-- [x] spiders
-- [ ] anxious
-- [ ] attack
+- [x] swum
+- [ ] swam
+- [ ] swim
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **spiders**。
+> **解析**：have 后需要过去分词 swum；swam 是过去式，swim 是原形。
 
 ### 11
 
-Swimmers were warned that a ____ was spotted near the beach.
+Work ____ me out every day.
 
-- [x] shark
-- [ ] anxious
-- [ ] attack
+- [x] stresses
+- [ ] stress
+- [ ] stressing
 
-> **解析**：**shark** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Work 是三单主语且 every day 提示一般现在时，stress 加 es。
 
 ### 12
 
-Don't let small ____ stress you out like that.
+Thank ____, you are safe.
 
-- [x] problems
-- [ ] anxious
-- [ ] attack
+- [x] goodness
+- [ ] good
+- [ ] goods
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **problems**。
+> **解析**：thank goodness 是固定感叹语；good 是形容词，goods 是"货物"。
 
 ### 13
 
-Have you ever ____ across this wide river before?
+____, a huge spider!
 
-- [x] swum
-- [ ] anxious
-- [ ] attack
+- [x] Yikes
+- [ ] Yours
+- [ ] Yesterday
 
-> **解析**：**swum** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yikes 是受惊时的感叹词；yours 和 yesterday 不能作感叹语。
 
 ### 14
 
-She was ____ when the lights went out suddenly.
+I hate ____ say this.
 
-- [x] terrified
-- [ ] anxious
-- [ ] attack
+- [x] to
+- [ ] at
+- [ ] for
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **terrified**。
+> **解析**：hate to do 表示不愿做某件具体的事；at 和 for 不能引导动词原形。
 
 ### 15
 
-Thank ____ everyone arrived home safely before the storm.
+She is ____ about the exam.
 
-- [x] goodness
-- [ ] anxious
-- [ ] attack
+- [x] anxious
+- [ ] anxiety
+- [ ] anxieties
 
-> **解析**：**goodness** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 anxious；anxiety 和 anxieties 是名词。
 
 ### 16
 
-I used to be ____ of the dark when I was a child.
+Fear can ____ you at home.
 
-- [x] afraid
-- [ ] anxious
-- [ ] attack
+- [x] keep
+- [ ] keeps
+- [ ] keeping
 
-> **解析**：**afraid** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：can 后接动词原形 keep；keeps 和 keeping 形式错误。
 
 ### 17
 
-____! That snake on the path almost bit my shoe.
+I ____ the film very much.
 
-- [x] Yikes
-- [ ] anxious
-- [ ] attack
+- [x] enjoy
+- [ ] enjoys
+- [ ] enjoying
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Yikes**。
+> **解析**：主语 I 用动词原形 enjoy；enjoys 用于三单，enjoying 不能单独作谓语。
 
 ### 18
 
-A little ____ buzzed around the colorful flowers in the garden.
+The shark ____ the boat yesterday.
 
-- [x] bee
-- [ ] anxious
+- [x] attacked
 - [ ] attack
+- [ ] attacking
 
-> **解析**：**bee** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 提示过去时，用 attacked；attack 和 attacking 不是过去式。
 
 ### 19
 
-Sudden panics can trigger a severe asthma ____.
+I used to ____ spiders.
 
-- [x] attack
-- [ ] anxious
-- [ ] bee
+- [x] hate
+- [ ] hated
+- [ ] hates
 
-> **解析**：**attack** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：used to 后接动词原形 hate；hated 和 hates 形式错误。
 
 ### 20
 
-____ walking straight and try not to look down.
+Spiders are my biggest ____.
 
-- [x] Keep
-- [ ] anxious
-- [ ] attack
+- [x] fear
+- [ ] scary
+- [ ] scared
 
-> **解析**：**Keep** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：biggest 后需要名词 fear；scary 和 scared 是形容词。
 
 </quiz-cloze>

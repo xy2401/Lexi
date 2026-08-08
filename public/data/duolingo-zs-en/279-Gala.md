@@ -10,44 +10,35 @@ black tie, care for, couldn't possibly, dress code, fabulous, filmmaker, free, g
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是正式晚宴（gala），交际任务是"描述正式活动"。词表里有正式场合的标志性元素：black tie（黑领结着装要求）、dress code（着装规范）、gown（晚礼服）、hors d'oeuvres（开胃小食）、mingle（社交寒暄）。也有表达邀请、接受和婉拒的短语：honored to / couldn't possibly / some other time / thanks anyway / turn down。你可以练习这样的叙述：You're invited to a black-tie gala—the dress code is formal, and you should be in a gown. / I'd be honored to attend, but I couldn't possibly make it on account of a prior commitment. / Thanks anyway—some other time, surely! Let's get going and mingle.
+本单元的主题是"描述正式活动"，场景是一场慈善晚宴（gala）。词表可以分成四组：活动与着装（gala, black tie, dress code, gown, hors d'oeuvres）、人物与评价（filmmaker, fabulous, superb, sophisticated, honored to）、意愿与婉拒（care for, in the mood, turn down, thanks anyway, some other time, couldn't possibly, surely, on account of）、以及动作（get going, step outside, mingle, have, free, should be）。拼起来就是一段晚宴对话：The gala is black tie. I'm honored to attend. I'd care for some hors d'oeuvres.
 
-词表里有几组表达"礼貌拒绝"的搭配值得注意：couldn't possibly（实在不可能）、some other time（改天吧）、thanks anyway（还是谢谢你）、turn down（婉拒）。这些表达比直接说 no 要得体得多，在正式社交场合中非常实用。in the mood 和 care for 则用来表达意愿和喜好。
+语法主线是"礼貌婉拒"的表达链。直接拒绝太生硬，英语习惯层层软化：先说原因（on account of...），再表不可能（I couldn't possibly...），给出感谢（thanks anyway），最后留余地（some other time）。另一条主线是评价形容词的等级：good → superb → fabulous，正式场合用高级形容词显教养；surely 和 should be 则用来表达礼貌的推断。
+
+学完这单元，你能用英语应对正式场合：谈论着装要求、得体地接受或婉拒邀请、在晚宴上与人寒暄。
 
 ## Tips
 
-- **gala** — 正式晚宴、盛大庆典。搭配：a charity gala / a gala dinner / attend a gala。比 party 正式得多，通常有着装要求、演讲、表演或筹款环节。注意发音：/ˈɡɑːlə/ 或 /ˈɡeɪlə/，两种都可以。
+- **gala / black tie / dress code / gown** — 晚宴四词。gala 是盛大晚会/慈善晚宴；black tie 是"黑领结"着装要求（男士晚礼服）；dress code 是着装规定；gown 是女士晚礼服裙。收到 black tie 邀请函，就意味着要穿正式礼服。
 
-- **black tie** — 黑领结着装要求，正式晚宴的标准 dress code。男士穿 tuxedo 配黑色领结，女士穿长款晚礼服。搭配：a black-tie event / black-tie dress code / black-tie optional。注意做形容词时有连字符：a black-tie gala。
+- **hors d'oeuvres** — 餐前小食，源自法语，注意拼写：h 不发音，读 /ɔːrˈdɜːrvz/。单数形式 hors d'oeuvre，英语中几乎总用复数。
 
-- **hors d'oeuvres** — 开胃小食、餐前小点。来自法语，字面意思是"主菜之外"。搭配：serve hors d'oeuvres / pass the hors d'oeuvres / a tray of hors d'oeuvres。注意拼写和发音都保留法语特征，读 /ɔːr ˈdɜːrvz/。口语中有时简称 apps（appetizers）。
+- **filmmaker / honored to** — 人物与荣幸。filmmaker 是电影人（film + maker）；honored to 是"感到荣幸"：I'm honored to introduce him. honor 名词动词同形。
 
-- **mingle** — 社交、寒暄、在人群中走动交谈。搭配：mingle with guests / mingle at the party / time to mingle。例句：After the speech, everyone mingled over hors d'oeuvres. 比 talk 更强调"在社交场合中走动、和不同的人聊天"。
+- **fabulous / superb / sophisticated** — 高级赞美词。fabulous 是"极好的"（词根 fabula 故事，原义"传说中的"）；superb 是"一流的"；sophisticated 是"精致老练的"：a sophisticated crowd。正式场合替代 good 的三把利器。
 
-- **gown** — 晚礼服、长裙。搭配：an evening gown / a ball gown / wear a gown。比 dress 更正式、更隆重，通常指及地的长裙。在 gala 语境中，gown 是女士的标准着装。注意和 wedding gown（婚纱）的关联。
+- **care for / in the mood** — 意愿两式。Would you care for some tea? 是极客气的"想要…吗"；I'm not in the mood.（我没那个心情。）注意 ✗ Do you care for...? 一般不用，礼貌询问用 Would you care for。
 
-- **turn down** — 婉拒、拒绝。搭配：turn down an invitation / turn down an offer / turn someone down。例句：I had to turn down the invitation on account of a scheduling conflict. 比 refuse 更委婉。注意和 turn down the volume（调低音量）区分。
+- **turn down / thanks anyway / some other time** — 婉拒三件套。turn down 是"拒绝"：turn down an invitation。Thanks anyway.（还是谢谢你。）Some other time.（改天吧。）三句连用就是教科书式婉拒。
 
-- **couldn't possibly / some other time / thanks anyway** — 三个礼貌拒绝的表达。I couldn't possibly make it = 我实在去不了（语气强烈但礼貌）。Some other time = 改天吧（留有余地）。Thanks anyway = 还是谢谢你（对方帮不上忙或邀请无法接受时说）。三者经常组合使用。
+- **couldn't possibly / surely** — 语气词。couldn't possibly 强调"绝不可能"：I couldn't possibly accept.（我绝不能接受——客气地推辞。）surely 是"想必"：Surely you're joking.（你肯定在开玩笑。）
 
-- **honored to** — 感到荣幸。搭配：be honored to attend / feel honored to / I'd be honored to。例句：I'd be honored to join the gala. 比 happy to 正式得多，表达对邀请的尊重和感激。注意 honored 是美式拼写，英式是 honoured。
+- **on account of** — "因为"，比 because of 正式：The gala was delayed on account of the rain.
 
-- **dress code** — 着装规范、着装要求。搭配：a strict dress code / a casual dress code / follow the dress code。例句：The dress code is black tie, so you'll need a gown or a tuxedo. 在正式活动邀请函上常见。
+- **get going / step outside / mingle** — 动作三词。get going 是"动身、开始"：We should get going. step outside 是"到外面去"；mingle 是（社交场合的）"周旋、攀谈"：mingle with the guests。
 
-- **fabulous / superb / sophisticated** — 三个高级赞美词。fabulous = 极好的、惊艳的（口语化，带热情）：You look fabulous! superb = 卓越的、一流的（更正式）：The food was superb. sophisticated = 精致的、有品位的（强调复杂和优雅）：a sophisticated event / a sophisticated palate。
-
-- **in the mood / care for** — in the mood = 有心情、想要：I'm not in the mood for a party. care for = 喜欢、想要（较正式）：Would you care for some wine? / I don't really care for formal events. 注意 care for 比 want 更礼貌、更书面。
-
-- **on account of** — 因为、由于。比 because of 更正式：The gala was canceled on account of the storm. 搭配：on account of + 名词。例句：I couldn't attend on account of a prior engagement. 口语中更常说 because of 或 due to。
-
-- **get going / step outside** — get going = 出发、开始行动：We should get going or we'll be late. step outside = 到外面去、出去一下：Let's step outside for some fresh air. 两个都是日常口语中极常用的短语动词。
-
-- **filmmaker** — 电影制作人、导演。film（电影）+ maker（制造者）。搭配：an independent filmmaker / a documentary filmmaker / a famous filmmaker。比 director 更宽泛，可以指制片人、导演或整个创作团队的核心人物。
-
-- **surely** — 肯定地、当然。搭配：Surely you can come! / Surely that's not right. / You surely don't mean that. 比 certainly 更有感情色彩，常用于表达惊讶、确信或劝说。例句：Surely you'd be honored to attend the gala!
+- **have / free / should be** — 基础功能词。have 万能动词：have a drink。free 是"有空的"：Are you free tonight? should be 表推测"应该会"：It should be a great night.
 
 ## 练习
 
@@ -65,176 +56,189 @@ black tie, care for, couldn't possibly, dress code, fabulous, filmmaker, free, g
 
 <quiz-sentence-builder>
 
-1. **中文**：我们获得了参加今晚慈善盛大晚宴的邀请。
-   **英文**：We received an invitation to attend tonight's charity gala.
-   > **解析**：gala 意为正式晚宴、盛大庆典。
+1. **中文**：晚宴要求黑领结着装。
+   **英文**：The gala is black tie.
+   > **解析**：The gala 是单数主语，用 is；black tie 作表语表示着装等级。
 
-2. **中文**：这是一场黑领结级别的晚宴，因此宾客必须穿着正装。
-   **英文**：This is a black tie event, so guests must wear formal clothes.
-   > **解析**：black tie 意为黑领结着装要求、正式场合。
+2. **中文**：着装规定是什么？
+   **英文**：What is the dress code?
+   > **解析**：What 引导特殊疑问句，is 提前；the dress code 作表语。
 
-3. **中文**：请在参加晚会前仔细核对邀请函上的着装规范。
-   **英文**：Please check the dress code on the invitation before attending.
-   > **解析**：dress code 意为着装规范。
+3. **中文**：她穿了一件漂亮的礼服裙。
+   **英文**：She wore a beautiful gown.
+   > **解析**：wore 是 wear 的过去式；a beautiful gown 作宾语。
 
-4. **中文**：她穿了一件极具优雅气质的优雅长晚礼服出席晚宴。
-   **英文**：She wore an elegant evening gown to the anniversary dinner.
-   > **解析**：gown 意为晚礼服。
+4. **中文**：我很荣幸能出席。
+   **英文**：I'm honored to attend.
+   > **解析**：honored 是形容词化的过去分词；to attend 是不定式。
 
-5. **中文**：服务员在开场时为宾客们端上了精致的餐前开胃小食。
-   **英文**：The waiters served delicious hors d'oeuvres during the reception.
-   > **解析**：hors d'oeuvres 意为开胃小食、餐前小点。
+5. **中文**：那位电影人将到场。
+   **英文**：The filmmaker will be there.
+   > **解析**：will be 是将来时；there 作表语表示"到场"。
 
-6. **中文**：致辞结束后，大家一边品尝饮品一边走动社交寒暄。
-   **英文**：After the speech, everyone began to mingle over drinks.
-   > **解析**：mingle 意为社交、寒暄。
+6. **中文**：晚宴棒极了。
+   **英文**：The gala was fabulous.
+   > **解析**：was 与 The gala 搭配；fabulous 作表语。
 
-7. **中文**：我们能受邀参加这场盛大的庆典活动感到非常荣幸。
-   **英文**：We feel deeply honored to be invited to this grand event.
-   > **解析**：honored to 意为感到荣幸。
+7. **中文**：食物一流。
+   **英文**：The food was superb.
+   > **解析**：was 与不可数主语 food 搭配；superb 作表语。
 
-8. **中文**：我由于日程冲突实在不可能按时赶过去。
-   **英文**：I couldn't possibly make it on time due to a schedule conflict.
-   > **解析**：couldn't possibly 意为实在不可能。
+8. **中文**：宾客们都很精致老练。
+   **英文**：The guests are very sophisticated.
+   > **解析**：The guests 复数主语用 are；very 修饰 sophisticated。
 
-9. **中文**：她不得不婉拒了今晚晚宴的邀请。
-   **英文**：She had to turn down the invitation to tonight's dinner.
-   > **解析**：turn down 意为婉拒。
+9. **中文**：想来点开胃小食吗？
+   **英文**：Would you care for some hors d'oeuvres?
+   > **解析**：Would you care for 是客气询问句型；some 修饰复数 hors d'oeuvres。
 
-10. **中文**：我今晚实在抽不出空，咱们改天再聚吧。
-   **英文**：I am busy tonight, so let's meet up some other time.
-   > **解析**：some other time 意为改天吧。
+10. **中文**：我没心情参加派对。
+   **英文**：I'm not in the mood for a party.
+   > **解析**：in the mood for 是固定搭配"有心情做…"；否定用 not。
 
-11. **中文**：尽管我去不了，但还是非常感谢你的邀请。
-   **英文**：I cannot make it, but thanks anyway for the invitation!
-   > **解析**：thanks anyway 意为还是谢谢你。
+11. **中文**：我不得不拒绝这个邀请。
+   **英文**：I have to turn down the invitation.
+   > **解析**：have to 后接动词原形 turn down；the invitation 作宾语。
 
-12. **中文**：你今晚的服装看起来真是太令人惊艳了！
-   **英文**：You look absolutely fabulous in your formal outfit tonight!
-   > **解析**：fabulous 意为极好的、惊艳的。
+12. **中文**：还是谢谢你。
+   **英文**：Thanks anyway.
+   > **解析**：固定婉拒用语；anyway 副词表示"无论如何"。
 
-13. **中文**：主办方在晚宴上准备的食品和服务简直是一流的。
-   **英文**：The food and service at the gala were absolutely superb.
-   > **解析**：superb 意为卓越的、一流的。
+13. **中文**：改天吧。
+   **英文**：Some other time.
+   > **解析**：省略句，完整形式为 Let's do it some other time；some other time 作时间状语。
 
-14. **中文**：晚宴现场布置得非常优雅且富有精致品位。
-   **英文**：The atmosphere at the gala was high-class and sophisticated.
-   > **解析**：sophisticated 意为精致的、有品位的。
+14. **中文**：我绝不能接受这么贵重的礼物。
+   **英文**：I couldn't possibly accept such a gift.
+   > **解析**：couldn't possibly 加强否定语气；such a 修饰 gift。
 
-15. **中文**：我今晚没什么心情去参加热闹的晚会。
-   **英文**：I am not really in the mood for a noisy party tonight.
-   > **解析**：in the mood 意为有心情。
+15. **中文**：想必你在开玩笑。
+   **英文**：Surely you're joking.
+   > **解析**：Surely 副词放句首；you're joking 是现在进行时。
 
-16. **中文**：请问您想要尝尝看特调的餐前鸡尾酒吗？
-   **英文**：Would you care for some of our special welcome drinks?
-   > **解析**：care for 意为想要、喜爱（礼貌表达）。
+16. **中文**：因为下雨，晚宴推迟了。
+   **英文**：The gala was delayed on account of the rain.
+   > **解析**：was delayed 是被动语态；on account of 后接原因。
 
-17. **中文**：晚宴由于突如其来的暴风雨而推迟了。
-   **英文**：The gala was delayed on account of a sudden storm.
-   > **解析**：on account of 意为由于、因为。
+17. **中文**：我们该动身了。
+   **英文**：We should get going.
+   > **解析**：should 后接动词原形 get；get going 是固定短语"动身"。
 
-18. **中文**：时间不早了，我们该动身前往大厅了。
-   **英文**：It is getting late, so we should get going to the main hall.
-   > **解析**：get going 意为动身、出发。
+18. **中文**：我们去外面透透气吧。
+   **英文**：Let's step outside for some air.
+   > **解析**：let's 后接动词原形 step；for some air 表目的。
 
-19. **中文**：大厅里有点太闷热了，我想走到外面透透气。
-   **英文**：It was warm inside, so I decided to step outside for fresh air.
-   > **解析**：step outside 意为走到外面。
+19. **中文**：他正在与宾客们攀谈。
+   **英文**：He is mingling with the guests.
+   > **解析**：现在进行时 is mingling；mingle with 是固定搭配。
 
-20. **中文**：我们在活动中遇到了一位非常有名的电影制作人。
-   **英文**：We met a famous filmmaker at the formal evening event.
-   > **解析**：filmmaker 意为电影制作人。
+20. **中文**：今晚应该会是美好的夜晚。
+   **英文**：It should be a great night.
+   > **解析**：should be 表推测；a great night 作表语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We received an invitation to attend tonight's charity gala.
-   > **中文**：我们获得了参加今晚慈善盛大晚宴的邀请。
+1. The gala is black tie.
+   > **中文**：晚宴要求黑领结着装。
 
-2. This is a black tie event, so guests must wear formal clothes.
-   > **中文**：这是一场黑领结级别的晚宴，因此宾客必须穿着正装。
+2. What is the dress code?
+   > **中文**：着装规定是什么？
 
-3. Please check the dress code on the invitation before attending.
-   > **中文**：请在参加晚会前仔细核对邀请函上的着装规范。
+3. She wore a beautiful gown.
+   > **中文**：她穿了一件漂亮的礼服裙。
 
-4. She wore an elegant evening gown to the anniversary dinner.
-   > **中文**：她穿了一件极具优雅气质的优雅长晚礼服出席晚宴。
+4. I'm honored to attend.
+   > **中文**：我很荣幸能出席。
 
-5. The waiters served delicious hors d'oeuvres during the reception.
-   > **中文**：服务员在开场时为宾客们端上了精致的餐前开胃小食。
+5. The filmmaker will be there.
+   > **中文**：那位电影人将到场。
 
-6. After the speech, everyone began to mingle over drinks.
-   > **中文**：致辞结束后，大家一边品尝饮品一边走动社交寒暄。
+6. The gala was fabulous.
+   > **中文**：晚宴棒极了。
 
-7. We feel deeply honored to be invited to this grand event.
-   > **中文**：我们能受邀参加这场盛大的庆典活动感到非常荣幸。
+7. The food was superb.
+   > **中文**：食物一流。
 
-8. I couldn't possibly make it on time due to a schedule conflict.
-   > **中文**：我由于日程冲突实在不可能按时赶过去。
+8. The guests are very sophisticated.
+   > **中文**：宾客们都很精致老练。
 
-9. She had to turn down the invitation to tonight's dinner.
-   > **中文**：她不得不婉拒了今晚晚宴的邀请。
+9. Would you care for some hors d'oeuvres?
+   > **中文**：想来点开胃小食吗？
 
-10. I am busy tonight, so let's meet up some other time.
-   > **中文**：我今晚实在抽不出空，咱们改天再聚吧。
+10. I'm not in the mood for a party.
+   > **中文**：我没心情参加派对。
 
-11. I cannot make it, but thanks anyway for the invitation!
-   > **中文**：尽管我去不了，但还是非常感谢你的邀请。
+11. I have to turn down the invitation.
+   > **中文**：我不得不拒绝这个邀请。
 
-12. You look absolutely fabulous in your formal outfit tonight!
-   > **中文**：你今晚的服装看起来真是太令人惊艳了！
+12. Thanks anyway.
+   > **中文**：还是谢谢你。
 
-13. The food and service at the gala were absolutely superb.
-   > **中文**：主办方在晚宴上准备的食品和服务简直是一流的。
+13. Some other time.
+   > **中文**：改天吧。
 
-14. The atmosphere at the gala was high-class and sophisticated.
-   > **中文**：晚宴现场布置得非常优雅且富有精致品位。
+14. I couldn't possibly accept it.
+   > **中文**：我绝不能接受。
 
-15. I am not really in the mood for a noisy party tonight.
-   > **中文**：我今晚没什么心情去参加热闹的晚会。
+15. Surely you're joking.
+   > **中文**：想必你在开玩笑。
 
-16. Would you care for some of our special welcome drinks?
-   > **中文**：请问您想要尝尝看特调的餐前鸡尾酒吗？
+16. The gala was delayed on account of the rain.
+   > **中文**：因为下雨，晚宴推迟了。
 
-17. The gala was delayed on account of a sudden storm.
-   > **中文**：晚宴由于突如其来的暴风雨而推迟了。
+17. We should get going.
+   > **中文**：我们该动身了。
 
-18. It is getting late, so we should get going to the main hall.
-   > **中文**：时间不早了，我们该动身前往大厅了。
+18. Let's step outside for some air.
+   > **中文**：我们去外面透透气吧。
 
-19. It was warm inside, so I decided to step outside for fresh air.
-   > **中文**：大厅里有点太闷热了，我想走到外面透透气。
+19. He is mingling with the guests.
+   > **中文**：他正在与宾客们攀谈。
 
-20. We met a famous filmmaker at the formal evening event.
-   > **中文**：我们在活动中遇到了一位非常有名的电影制作人。
+20. It should be a great night.
+   > **中文**：今晚应该会是美好的夜晚。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| gala | 正式晚宴；盛大庆典 |
-| black tie | 黑领结（正式着装要求） |
-| dress code | 着装规范 |
-| gown | 晚礼服 |
-| hors d'oeuvres | 开胃小食；餐前小点 |
-| mingle | 社交；寒暄 |
+| --- | --- |
+| black tie | 黑领结着装 |
+| care for | 想要 / 喜欢 |
+| couldn't possibly | 绝不可能 |
+| dress code | 着装规定 |
+| fabulous | 极好的 |
+| filmmaker | 电影人 |
+| free | 有空的 / 免费的 |
+| gala | 盛大晚宴 |
+| get going | 动身 |
+| gown | 礼服裙 |
+| have | 有 |
 | honored to | 感到荣幸 |
-| couldn't possibly | 实在不可能 |
-| turn down | 婉拒 |
-| some other time | 改天吧 |
-| thanks anyway | 还是谢谢你 |
-| fabulous | 极好的；惊艳的 |
-| superb | 卓越的；一流的 |
-| sophisticated | 精致的；有品位的 |
+| hors d'oeuvres | 开胃小食 |
 | in the mood | 有心情 |
-| care for | 想要；喜爱 |
-| on account of | 由于；因为 |
-| get going | 动身；出发 |
-| step outside | 走到外面 |
-| filmmaker | 电影制作人 |
+| mingle | 攀谈 / 周旋 |
+| on account of | 因为 |
+| should be | 应该是 |
+| some other time | 改天 |
+| sophisticated | 精致老练的 |
+| step outside | 到外面去 |
+| superb | 一流的 |
+| surely | 想必 |
+| thanks anyway | 还是谢谢你 |
+| turn down | 拒绝 |
+| is | 是 |
+| the | 这个（定冠词） |
+| rain | 雨 |
+| guests | 宾客 |
+| invitation | 邀请 |
+| night | 夜晚 |
+| food | 食物 |
+| air | 空气 |
+| gift | 礼物 |
 
 </quiz-matching>
 
@@ -242,202 +246,202 @@ black tie, care for, couldn't possibly, dress code, fabulous, filmmaker, free, g
 
 ### 1
 
-We received an invitation to attend tonight's charity ____.
+The ____ is black tie.
 
 - [x] gala
-- [ ] black tie
-- [ ] care for
+- [ ] mood
+- [ ] account
 
-> **解析**：**gala** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：与 black tie 着装要求搭配的是 gala（晚宴）；mood 和 account 不合。
 
 ### 2
 
-This is a black tie event, so guests must wear formal ____.
+What is the dress ____?
 
-- [x] clothes
-- [ ] black tie
-- [ ] care for
+- [x] code
+- [ ] gown
+- [ ] filmmaker
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **clothes**。
+> **解析**：dress code（着装规定）是固定搭配；gown 和 filmmaker 不合。
 
 ### 3
 
-Please check the dress code on the ____ before attending.
+She wore a beautiful ____.
 
-- [x] invitation
-- [ ] black tie
-- [ ] care for
+- [x] gown
+- [ ] gala
+- [ ] rain
 
-> **解析**：**invitation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能"穿"的是 gown（礼服裙）；gala 和 rain 不能穿戴。
 
 ### 4
 
-She wore an elegant evening ____ to the anniversary dinner.
+I'm honored ____ attend.
 
-- [x] gown
-- [ ] black tie
-- [ ] care for
+- [x] to
+- [ ] for
+- [ ] of
 
-> **解析**：**gown** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be honored to do 是固定结构；for 和 of 不合。
 
 ### 5
 
-The waiters served ____ hors d'oeuvres during the reception.
+The ____ will be there tonight.
 
-- [x] delicious
-- [ ] black tie
-- [ ] care for
+- [x] filmmaker
+- [ ] dress code
+- [ ] hors d'oeuvres
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **delicious**。
+> **解析**：能"到场"的是人 filmmaker；dress code 和 hors d'oeuvres 不是人。
 
 ### 6
 
-After the speech, everyone began to ____ over drinks.
+The gala was ____.
 
-- [x] mingle
-- [ ] black tie
-- [ ] care for
+- [x] fabulous
+- [ ] free
+- [ ] gala
 
-> **解析**：**mingle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后需要形容词 fabulous；free 语义不合，gala 是名词。
 
 ### 7
 
-We feel deeply ____ to be invited to this grand event.
+The food was ____.
 
-- [x] honored
-- [ ] black tie
-- [ ] care for
+- [x] superb
+- [ ] turn down
+- [ ] some other time
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **honored**。
+> **解析**：形容食物一流用 superb；turn down 是动词短语，some other time 是时间状语。
 
 ### 8
 
-I ____ possibly make it on time due to a schedule conflict.
+The guests are very ____.
 
-- [x] couldn't
-- [ ] black tie
-- [ ] care for
+- [x] sophisticated
+- [ ] gown
+- [ ] gala
 
-> **解析**：**couldn't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：are 后需要形容词 sophisticated；gown 和 gala 是名词。
 
 ### 9
 
-She had to turn down the ____ to tonight's dinner.
+Would you care ____ some hors d'oeuvres?
 
-- [x] invitation
-- [ ] black tie
-- [ ] care for
+- [x] for
+- [ ] to
+- [ ] of
 
-> **解析**：**invitation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：care for 是固定搭配"想要"；to 和 of 不合。
 
 ### 10
 
-I am busy ____, so let's meet up some other time.
+I'm not in the ____ for a party.
 
-- [x] tonight
-- [ ] black tie
-- [ ] care for
+- [x] mood
+- [ ] gala
+- [ ] filmmaker
 
-> **解析**：**tonight** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：in the mood for 是固定短语"有心情"；gala 和 filmmaker 不合。
 
 ### 11
 
-I cannot make it, but thanks anyway for the ____!
+I have to turn ____ the invitation.
 
-- [x] invitation
-- [ ] black tie
-- [ ] care for
+- [x] down
+- [ ] up
+- [ ] outside
 
-> **解析**：**invitation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：turn down 是固定短语"拒绝"；turn up 是"出现"，语义不同。
 
 ### 12
 
-You look absolutely ____ in your formal outfit tonight!
+Thanks ____.
 
-- [x] fabulous
-- [ ] black tie
-- [ ] care for
+- [x] anyway
+- [ ] some
+- [ ] surely
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **fabulous**。
+> **解析**：Thanks anyway 是固定婉拒用语；some 和 surely 都不构成该搭配。
 
 ### 13
 
-The food and service at the ____ were absolutely superb.
+Some other ____!
 
-- [x] gala
-- [ ] black tie
-- [ ] care for
+- [x] time
+- [ ] gala
+- [ ] gown
 
-> **解析**：**gala** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Some other time（改天吧）是固定说法；gala 和 gown 不合。
 
 ### 14
 
-The atmosphere at the ____ was high-class and sophisticated.
+I couldn't ____ accept such a gift.
 
-- [x] gala
-- [ ] black tie
-- [ ] care for
+- [x] possibly
+- [ ] possible
+- [ ] possibility
 
-> **解析**：**gala** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰动词 accept 需要副词 possibly；possible 是形容词，possibility 是名词。
 
 ### 15
 
-I am not really in the mood for a noisy party ____.
+____ you're joking.
 
-- [x] tonight
-- [ ] black tie
-- [ ] care for
+- [x] Surely
+- [ ] Anyway
+- [ ] Gala
 
-> **解析**：**tonight** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：表"想必"用副词 Surely；Anyway 语义不合，Gala 是名词。
 
 ### 16
 
-Would you care for some of our ____ welcome drinks?
+The gala was delayed on account ____ the rain.
 
-- [x] special
-- [ ] black tie
-- [ ] care for
+- [x] of
+- [ ] for
+- [ ] to
 
-> **解析**：**special** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：on account of 是固定短语"因为"；for 和 to 不合。
 
 ### 17
 
-The ____ was delayed on account of a sudden storm.
+We should get ____.
 
-- [x] gala
-- [ ] black tie
-- [ ] care for
+- [x] going
+- [ ] go
+- [ ] gone
 
-> **解析**：**gala** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get going 是固定短语"动身"，用动名词 going；go 和 gone 不合。
 
 ### 18
 
-It is ____ late, so we should get going to the main hall.
+Let's step ____ for some air.
 
-- [x] getting
-- [ ] black tie
-- [ ] care for
+- [x] outside
+- [ ] inside
+- [ ] down
 
-> **解析**：**getting** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：透气要到"外面"，用 outside；inside 语义相反，step down 是"下台"，不合。
 
 ### 19
 
-It was warm inside, so I ____ to step outside for fresh air.
+He is mingling ____ the guests.
 
-- [x] decided
-- [ ] black tie
-- [ ] care for
+- [x] with
+- [ ] to
+- [ ] at
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **decided**。
+> **解析**：mingle with 是固定搭配"与…攀谈"；to 和 at 不合。
 
 ### 20
 
-We met a famous ____ at the formal evening event.
+It should ____ a great night.
 
-- [x] filmmaker
-- [ ] black tie
-- [ ] care for
+- [x] be
+- [ ] is
+- [ ] been
 
-> **解析**：**filmmaker** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：should 后接动词原形 be；is 和 been 不合情态动词结构。
 
 </quiz-cloze>

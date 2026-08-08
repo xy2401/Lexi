@@ -10,30 +10,33 @@ agree, corruption, defend, demand, fine, get, gotten, human being, inform, jury,
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"解释处罚"展开，话题是法律、犯罪和司法系统。词表里有法律词汇（jury, prisoner, fine, punish, defend, proof, prove, corruption, official）和描述程度与判断的表达（maximum, minimum, likely, partly, known, gotten）。
+本单元的主题是"解释刑罚"，是犯罪与法律话题的进阶篇。词表分成三组：法律人物与机构（jury, prisoner, official, human being）、法律动作（defend, demand, inform, prove, punish, agree, get, gotten）、以及刑罚与程度词（fine, maximum, minimum, likely, partly, corruption, proof, secretly, meanwhile, support for, known, which）。拼起来就是一套完整的法律叙述：The jury found him guilty. He was punished with a fine. The maximum penalty is five years.
 
-你可以练习法律话题：The jury found the prisoner guilty. / The maximum fine is $10,000; the minimum is $500. / He was punished for corruption. / The official secretly demanded money. / Which proof can prove his guilt? / It's likely that he'll defend himself. / Meanwhile, the human being behind the crime got caught. / I agree—there's support for stricter penalties.
+语法主线有三条。第一条是被动语态谈处罚：He was fined. / He was punished. 法律话题天然适合被动句。第二条是 get/gotten 的现在完成时：The situation has gotten worse. 第三条是 which 引导的非限定性定语从句：The fine was heavy, which surprised everyone. 另一条实用线索是程度表达：maximum（最大的）与 minimum（最小的）这对反义词，partly（部分地）与 likely（可能）这对修饰词。
 
-get → gotten 是美式英语的过去分词形式（He has gotten away with it.）。meanwhile = 与此同时。support for = 对……的支持。
+学完这些词，你能用英语讨论案件、解释处罚、分析证据强弱——法律新闻也能看懂大半了。
 
 ## Tips
 
-- **jury / prisoner / fine / punish** — jury = 陪审团（a jury of 12 people, the jury decided）。prisoner = 囚犯（a political prisoner）。fine = 罚款（pay a fine, a $200 fine）。punish = 惩罚（punish the criminal, be punished for...）。搭配：the jury found him guilty, impose a fine。
+- **get / gotten** — get 的过去分词 gotten（美式）用于现在完成时：Things have gotten better. get 在法律语境常见于 get punished（被处罚）、get caught（被抓）。注意英式英语更常用 got 作过去分词。
 
-- **proof / prove / defend** — proof = 证据（名词，不可数或可数：enough proof, a piece of proof）。prove = 证明（动词：prove his innocence）。defend = 辩护、防御（defend the accused, defend yourself）。注意 proof 和 evidence 的区别：evidence 更常用于法律语境。
+- **prove / proof** — 一对同根词：prove 是动词"证明"：prove something. proof 是名词"证据"：There is no proof. 形容词是 probable，注意区分。法律金句：You can't prove it.
 
-- **corruption / official / secretly** — corruption = 腐败、贪污（political corruption, fight corruption）。official = 官员（名词）/ 官方的（形容词）。secretly = 秘密地（secretly accept bribes）。搭配：a corrupt official, government corruption。
+- **fine / punish / maximum / minimum** — 刑罚核心词。fine 作名词是"罚款"，作动词是"处以罚款"：They fined him $200. punish 是"惩罚"：punish someone for something. maximum/minimum 是"最大/最小的"：the maximum penalty.
 
-- **maximum / minimum / likely / partly** — maximum = 最大值（the maximum sentence / penalty）。minimum = 最小值（the minimum fine）。likely = 可能的（It's likely that... / He's likely to be punished.）。partly = 部分地（partly responsible, partly true）。
+- **jury / prisoner / official / human being** — 法律人物词。jury 是陪审团；prisoner 是囚犯（prison + -er）；official 是官员；human being 是"人、人类个体"，强调人的属性：Every human being has rights.
 
-- **get / gotten / known** — get → got → gotten（美式过去分词）。gotten 在美式英语中使用（He has gotten away with it.），英式英语通常用 got。known = 已知的（a known criminal, it is known that...）。搭配：get caught, get punished。
+- **defend / demand / inform** — defend 是"辩护、捍卫"：defend himself. 名词 defense. demand 是"要求"，语气强硬：demand an answer. inform 是"通知"：inform someone of something.
 
-- **demand / inform / agree / meanwhile** — demand = 要求、索要（demand money / demand an apology），语气比 ask 强硬。inform = 通知（inform the police, inform someone of something）。agree = 同意（I agree. / agree with someone / agree to a deal）。meanwhile = 与此同时（Meanwhile, the prisoner escaped.）。
+- **corruption / secretly / partly** — corruption 是"腐败"；secretly 是 secret 的副词"秘密地"：He secretly took the money. partly 是"部分地"：It was partly his fault.
 
-- **human being / support for / which** — human being = 人类（强调"人"这个物种/个体：Every human being has rights.）。support for = 对……的支持（public support for stricter laws）。which = 哪个/引导定语从句（the law which was passed / Which penalty is fair?）。
+- **likely** — 形容词"可能的"：It is likely that... 或 be likely to do：He is likely to appeal. 也可作副词（美式）：most likely.
+
+- **meanwhile** — "与此同时"，连接两个同时发生的事件，放句首加逗号：Meanwhile, the police were watching.
+
+- **support for / known / which / agree** — support for 是"对……的支持"：public support for the law. known 是 know 的过去分词，be known for/as 表示"以……闻名/被称为"：He is known as a fair judge. which 引导非限定性从句补充说明：The fine was heavy, which surprised us. agree 是"同意"：agree with someone / agree to something.
 
 ## 练习
 
@@ -51,149 +54,149 @@ get → gotten 是美式英语的过去分词形式（He has gotten away with it
 
 <quiz-sentence-builder>
 
-1. **中文**：陪审团在听取所有证据后做出了公正的判决。
-   **英文**：The jury reached a fair verdict after listening to all the evidence.
-   > **解析**：jury 表示陪审团。
+1. **中文**：他被罚了两百美元。
+   **英文**：He was fined two hundred dollars.
+   > **解析**：was fined 是一般过去时被动语态，fine 作动词"处以罚款"；two hundred dollars 是金额宾语。
 
-2. **中文**：律师正在竭尽全力为法庭上的被告辩护。
-   **英文**：The lawyer is doing his best to defend the client in court.
-   > **解析**：defend 表示为……辩护。
+2. **中文**：陪审团认为他有罪。
+   **英文**：The jury found him guilty.
+   > **解析**：found 是 find 的过去式；find someone guilty 是法律固定表达，guilty 作宾语补足语。
 
-3. **中文**：警方的调查揭露了地方官员的重大腐败行为。
-   **英文**：The investigation uncovered serious corruption among local officials.
-   > **解析**：corruption 表示腐败；official 表示官员。
+3. **中文**：没有证据。
+   **英文**：There is no proof.
+   > **解析**：there is no + 不可数名词 proof 表示"没有证据"；proof 不可数，不加 a。
 
-4. **中文**：检察官需要出示有力的证据来证明被告有罪。
-   **英文**：The prosecutor needs clear proof to prove the suspect guilty.
-   > **解析**：proof 表示证据；prove 表示证明。
+4. **中文**：你无法证明它。
+   **英文**：You can't prove it.
+   > **解析**：can't 后接动词原形 prove；it 作宾语。
 
-5. **中文**：法律应当严厉惩罚违法犯罪行为。
-   **英文**：The law should strictly punish illegal behavior to ensure safety.
-   > **解析**：punish 表示惩罚。
+5. **中文**：他因腐败被判刑。
+   **英文**：He was punished for corruption.
+   > **解析**：was punished 是被动语态；for corruption 说明处罚原因。
 
-6. **中文**：这项罪行的最高刑罚是十年监禁。
-   **英文**：The maximum penalty for this crime is ten years in prison.
-   > **解析**：maximum 表示最高的、最大限度。
+6. **中文**：最高刑罚是五年。
+   **英文**：The maximum penalty is five years.
+   > **解析**：maximum 形容词修饰 penalty；five years 作表语。
 
-7. **中文**：犯人由于表现良好获得了保释资格。
-   **英文**：The prisoner was granted parole because of good behavior.
-   > **解析**：prisoner 表示囚犯、犯人。
+7. **中文**：最低工资是多少？
+   **英文**：What is the minimum wage?
+   > **解析**：minimum 形容词修饰 wage；What 引导特殊疑问句，is 提前。
 
-8. **中文**：法官判定被告支付五千美元的违规罚款。
-   **英文**：The judge ordered the defendant to pay a heavy fine.
-   > **解析**：fine 表示罚款。
+8. **中文**：情况已经变得更糟了。
+   **英文**：The situation has gotten worse.
+   > **解析**：has gotten 是现在完成时，gotten 是 get 的过去分词（美式）；worse 是 bad 的比较级。
 
-9. **中文**：公众表达了对打击犯罪新政策的强烈支持。
-   **英文**：There is strong public support for the new anti-crime policy.
-   > **解析**：support for 表示对……的支持。
+9. **中文**：他有可能上诉。
+   **英文**：He is likely to appeal.
+   > **解析**：be likely to do 是固定结构，表示"很可能做某事"；to appeal 是不定式。
 
-10. **中文**：警官要求目击者立即如实通报现场情况。
-   **英文**：The officer asked the witness to inform the police immediately.
-   > **解析**：inform 表示通知、告知。
+10. **中文**：律师为他辩护。
+    **英文**：The lawyer defended him.
+    > **解析**：defended 是 defend 的过去式；him 作宾语。
 
-11. **中文**：每一个人类都享有基本的法律尊严与权利。
-   **英文**：Every human being deserves basic legal dignity and rights.
-   > **解析**：human being 表示人类。
+11. **中文**：与此同时，警方在监视。
+    **英文**：Meanwhile, the police were watching.
+    > **解析**：Meanwhile 作连接副词放句首；were watching 是过去进行时。
 
-12. **中文**：嫌疑人秘密地在海外账户里转移了非法资产。
-   **英文**：The suspect secretly transferred illegal assets to offshore accounts.
-   > **解析**：secretly 表示秘密地。
+12. **中文**：这有一部分是他的错。
+    **英文**：It was partly his fault.
+    > **解析**：partly 是副词，修饰整个表语结构；his fault 是名词短语。
 
-13. **中文**：这一结果部分是因为侦探及时发现了新的线索。
-   **英文**：This successful outcome is partly due to new evidence found by detectives.
-   > **解析**：partly 表示部分地。
+13. **中文**：每个人都享有权利。
+    **英文**：Every human being has rights.
+    > **解析**：Every human being 是单数主语，have 变 has；rights 用复数泛指各项权利。
 
-14. **中文**：法庭下达了该违法行为的最低罚金数额。
-   **英文**：The court set the minimum amount required for bail.
-   > **解析**：minimum 表示最低的、最低限度。
+14. **中文**：官员秘密收受了钱款。
+    **英文**：The official secretly took the money.
+    > **解析**：secretly 是副词，修饰动词 took；The official 是单数主语。
 
-15. **中文**：辩方律师很可能会申请延期审理该案。
-   **英文**：The defense lawyer is likely to ask for a trial delay.
-   > **解析**：likely 表示可能的、很可能的。
+15. **中文**：他们要求得到答复。
+    **英文**：They demanded an answer.
+    > **解析**：demanded 是 demand 的过去式；an answer 作宾语。
 
-16. **中文**：警方搜集到了关于犯罪嫌疑人身份的已知线索。
-   **英文**：Police gathered information about the suspect's known aliases.
-   > **解析**：known 表示已知的。
+16. **中文**：我们会通知你结果的。
+    **英文**：We will inform you of the result.
+    > **解析**：inform someone of something 是固定搭配；will 后接动词原形。
 
-17. **中文**：在侦探展开调查的同时，证人受到了严密的保护。
-   **英文**：Meanwhile, the witness was put under police protection during investigation.
-   > **解析**：meanwhile 表示与此同时。
+17. **中文**：他以公正的法官而闻名。
+    **英文**：He is known as a fair judge.
+    > **解析**：is known as 是被动结构"被称为"；a fair judge 作补足语。
 
-18. **中文**：受害者家属要求司法机关给予合理的交代。
-   **英文**：The victim's family demands a complete and fair explanation from justice.
-   > **解析**：demand 表示要求。
+18. **中文**：罚款很重，这让所有人都很惊讶。
+    **英文**：The fine was heavy, which surprised everyone.
+    > **解析**：which 引导非限定性定语从句，指代前面整个主句；surprised 是过去式。
 
-19. **中文**：警方已经拿到了法官签署的搜查令。
-   **英文**：The police have gotten a search warrant signed by the judge.
-   > **解析**：gotten 表示获得、拿到（get的过去分词）。
+19. **中文**：公众支持这项法律。
+    **英文**：There is public support for the law.
+    > **解析**：support for 是"对……的支持"的固定搭配；there is 表存在。
 
-20. **中文**：官方声明证实案件正在进一步调查中。
-   **英文**：An official statement confirmed that the case is still under investigation.
-   > **解析**：official 表示官方的、正式的。
+20. **中文**：囚犯同意合作。
+    **英文**：The prisoner agreed to cooperate.
+    > **解析**：agreed 是 agree 的过去式；agree to do 表示"同意做某事"，to cooperate 是不定式。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The jury reached a fair verdict after listening to all the evidence.
-   > **中文**：陪审团在听取所有证据后做出了公正的判决。
+1. He was fined two hundred dollars.
+   > **中文**：他被罚了两百美元。
 
-2. The lawyer is doing his best to defend the client in court.
-   > **中文**：律师正在竭尽全力为法庭上的被告辩护。
+2. The jury found him guilty.
+   > **中文**：陪审团认为他有罪。
 
-3. The investigation uncovered serious corruption among local officials.
-   > **中文**：警方的调查揭露了地方官员的重大腐败行为。
+3. There is no proof.
+   > **中文**：没有证据。
 
-4. The prosecutor needs clear proof to prove the suspect guilty.
-   > **中文**：检察官需要出示有力的证据来证明被告有罪。
+4. You can't prove it.
+   > **中文**：你无法证明它。
 
-5. The law should strictly punish illegal behavior to ensure safety.
-   > **中文**：法律应当严厉惩罚违法犯罪行为。
+5. He was punished for corruption.
+   > **中文**：他因腐败被判刑。
 
-6. The maximum penalty for this crime is ten years in prison.
-   > **中文**：这项罪行的最高刑罚是十年监禁。
+6. The maximum penalty is five years.
+   > **中文**：最高刑罚是五年。
 
-7. The prisoner was granted parole because of good behavior.
-   > **中文**：犯人由于表现良好获得了保释资格。
+7. What is the minimum wage?
+   > **中文**：最低工资是多少？
 
-8. The judge ordered the defendant to pay a heavy fine.
-   > **中文**：法官判定被告支付五千美元的违规罚款。
+8. The situation has gotten worse.
+   > **中文**：情况已经变得更糟了。
 
-9. There is strong public support for the new anti-crime policy.
-   > **中文**：公众表达了对打击犯罪新政策的强烈支持。
+9. He is likely to appeal.
+   > **中文**：他有可能上诉。
 
-10. The officer asked the witness to inform the police immediately.
-   > **中文**：警官要求目击者立即如实通报现场情况。
+10. The lawyer defended him.
+    > **中文**：律师为他辩护。
 
-11. Every human being deserves basic legal dignity and rights.
-   > **中文**：每一个人类都享有基本的法律尊严与权利。
+11. Meanwhile, the police were watching.
+    > **中文**：与此同时，警方在监视。
 
-12. The suspect secretly transferred illegal assets to offshore accounts.
-   > **中文**：嫌疑人秘密地在海外账户里转移了非法资产。
+12. It was partly his fault.
+    > **中文**：这有一部分是他的错。
 
-13. This successful outcome is partly due to new evidence found by detectives.
-   > **中文**：这一结果部分是因为侦探及时发现了新的线索。
+13. Every human being has rights.
+    > **中文**：每个人都享有权利。
 
-14. The court set the minimum amount required for bail.
-   > **中文**：法庭下达了该违法行为的最低罚金数额。
+14. The official secretly took the money.
+    > **中文**：官员秘密收受了钱款。
 
-15. The defense lawyer is likely to ask for a trial delay.
-   > **中文**：辩方律师很可能会申请延期审理该案。
+15. They demanded an answer.
+    > **中文**：他们要求得到答复。
 
-16. Police gathered information about the suspect's known aliases.
-   > **中文**：警方搜集到了关于犯罪嫌疑人身份的已知线索。
+16. We will inform you of the result.
+    > **中文**：我们会通知你结果的。
 
-17. Meanwhile, the witness was put under police protection during investigation.
-   > **中文**：在侦探展开调查的同时，证人受到了严密的保护。
+17. He is known as a fair judge.
+    > **中文**：他以公正的法官而闻名。
 
-18. The victim's family demands a complete and fair explanation from justice.
-   > **中文**：受害者家属要求司法机关给予合理的交代。
+18. The fine was heavy, which surprised everyone.
+    > **中文**：罚款很重，这让所有人都很惊讶。
 
-19. The police have gotten a search warrant signed by the judge.
-   > **中文**：警方已经拿到了法官签署的搜查令。
+19. There is public support for the law.
+    > **中文**：公众支持这项法律。
 
-20. An official statement confirmed that the case is still under investigation.
-   > **中文**：官方声明证实案件正在进一步调查中。
+20. The prisoner agreed to cooperate.
+    > **中文**：囚犯同意合作。
 
 </quiz-listening>
 
@@ -201,26 +204,36 @@ get → gotten 是美式英语的过去分词形式（He has gotten away with it
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| corruption | 腐败；贪污 |
+| agree | 同意 |
+| corruption | 腐败 |
+| defend | 辩护 |
+| demand | 要求 |
+| fine | 罚款 |
+| get | 变得；被 |
+| gotten | get 的过去分词 |
+| human being | 人 |
+| inform | 通知 |
 | jury | 陪审团 |
+| known | 已知的；闻名的 |
+| likely | 可能的 |
+| maximum | 最大的 |
+| meanwhile | 与此同时 |
+| minimum | 最小的 |
+| official | 官员 |
+| partly | 部分地 |
 | prisoner | 囚犯 |
-| proof | 证据；证明 |
-| defend | 为……辩护 |
+| proof | 证据 |
 | prove | 证明 |
 | punish | 惩罚 |
-| demand | 要求 |
-| inform | 通知；告知 |
-| fine | 罚款 |
-| official | 官员；官方的 |
-| maximum | 最高限度；最大的 |
-| minimum | 最低限度；最小的 |
-| likely | 可能的 |
-| partly | 部分地 |
 | secretly | 秘密地 |
-| human being | 人类 |
 | support for | 对……的支持 |
-| meanwhile | 与此同时 |
-| gotten | 得到；获得（get的过去分词） |
+| which | 这（引导从句） |
+| lawyer | 律师 |
+| penalty | 刑罚 |
+| money | 钱 |
+| he | 他 |
+| they | 他们 |
+| law | 法律 |
 
 </quiz-matching>
 
@@ -228,202 +241,202 @@ get → gotten 是美式英语的过去分词形式（He has gotten away with it
 
 ### 1
 
-The ____ reached a fair verdict after listening to all the evidence.
+He was ____ two hundred dollars.
 
-- [x] jury
-- [ ] agree
-- [ ] corruption
+- [x] fined
+- [ ] fine
+- [ ] fining
 
-> **解析**：**jury** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was + 过去分词构成被动语态，fined 正确；fine 是原形，fining 不表被动。
 
 ### 2
 
-The lawyer is doing his best to ____ the client in court.
+The jury found him ____.
 
-- [x] defend
-- [ ] agree
-- [ ] corruption
+- [x] guilty
+- [ ] guilt
+- [ ] guiltily
 
-> **解析**：**defend** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：find someone + 形容词，guilty 作宾语补足语；guilt 是名词，guiltily 是副词。
 
 ### 3
 
-The investigation uncovered serious ____ among local officials.
+There is no ____.
 
-- [x] corruption
-- [ ] agree
-- [ ] defend
+- [x] proof
+- [ ] proofs
+- [ ] proving
 
-> **解析**：**corruption** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：no 后接不可数名词 proof；proofs 复数不常见，proving 是动名词。
 
 ### 4
 
-The prosecutor needs clear ____ to prove the suspect guilty.
+You can't ____ it.
 
-- [x] proof
-- [ ] agree
-- [ ] corruption
+- [x] prove
+- [ ] proves
+- [ ] proved
 
-> **解析**：**proof** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：can't 后接动词原形 prove；proved 是过去式，不能跟在 can't 后。
 
 ### 5
 
-The law should strictly ____ illegal behavior to ensure safety.
+He was punished ____ corruption.
 
-- [x] punish
-- [ ] agree
-- [ ] corruption
+- [x] for
+- [ ] at
+- [ ] with
 
-> **解析**：**punish** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：punish someone for something 是固定搭配，for 表原因；at 和 with 不合此结构。
 
 ### 6
 
-The ____ penalty for this crime is ten years in prison.
+The ____ penalty is five years.
 
 - [x] maximum
-- [ ] agree
-- [ ] corruption
+- [ ] maximize
+- [ ] maximally
 
-> **解析**：**maximum** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：名词 penalty 前需要形容词 maximum；maximize 是动词，maximally 是副词。
 
 ### 7
 
-The ____ was granted parole because of good behavior.
+What is the ____ wage?
 
-- [x] prisoner
-- [ ] agree
-- [ ] corruption
+- [x] minimum
+- [ ] minimize
+- [ ] minimalism
 
-> **解析**：**prisoner** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：minimum wage 是固定搭配"最低工资"；minimize 是动词，minimalism 是名词。
 
 ### 8
 
-The judge ordered the defendant to pay a heavy ____.
+The situation has ____ worse.
 
-- [x] fine
-- [ ] agree
-- [ ] corruption
+- [x] gotten
+- [ ] get
+- [ ] getting
 
-> **解析**：**fine** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：has 后接过去分词 gotten（美式）构成现在完成时；get 是原形，getting 是现在分词。
 
 ### 9
 
-There is strong public support for the new ____ policy.
+He is likely to ____.
 
-- [x] anti-crime
-- [ ] agree
-- [ ] corruption
+- [x] appeal
+- [ ] appeals
+- [ ] appealing
 
-> **解析**：**anti-crime** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be likely to 后接动词原形 appeal；appeals 是三单形式，appealing 不能接在 to 后构成此结构。
 
 ### 10
 
-The officer asked the witness to ____ the police immediately.
+The lawyer ____ him.
 
-- [x] inform
-- [ ] agree
-- [ ] corruption
+- [x] defended
+- [ ] defend
+- [ ] defending
 
-> **解析**：**inform** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去事件用过去式 defended；defending 不能单独作谓语。
 
 ### 11
 
-Every human being ____ basic legal dignity and rights.
+____, the police were watching.
 
-- [x] deserves
-- [ ] agree
-- [ ] corruption
+- [x] Meanwhile
+- [ ] Between
+- [ ] Meantime
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **deserves**。
+> **解析**：Meanwhile 作连接副词独立放句首；Between 是介词需带宾语，Meantime 需搭配 in the。
 
 ### 12
 
-The suspect ____ transferred illegal assets to offshore accounts.
+It was ____ his fault.
 
-- [x] secretly
-- [ ] agree
-- [ ] corruption
+- [x] partly
+- [ ] part
+- [ ] partial
 
-> **解析**：**secretly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰表语结构需要副词 partly；part 是名词，partial 是形容词"偏袒的"。
 
 ### 13
 
-This successful outcome is ____ due to new evidence found by detectives.
+Every human ____ has rights.
 
-- [x] partly
-- [ ] agree
-- [ ] corruption
+- [x] being
+- [ ] beings
+- [ ] be
 
-> **解析**：**partly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：human being 是固定搭配"人"，Every 后用单数；beings 复数不与 Every 搭配。
 
 ### 14
 
-The court set the ____ amount required for bail.
+The official ____ took the money.
 
-- [x] minimum
-- [ ] agree
-- [ ] corruption
+- [x] secretly
+- [ ] secret
+- [ ] secrets
 
-> **解析**：**minimum** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰动词 took 需要副词 secretly；secret 是名词/形容词，secrets 是复数名词。
 
 ### 15
 
-The defense lawyer is ____ to ask for a trial delay.
+They ____ an answer.
 
-- [x] likely
-- [ ] agree
-- [ ] corruption
+- [x] demanded
+- [ ] demand
+- [ ] demanding
 
-> **解析**：**likely** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去事件用过去式 demanded；demanding 不能单独作谓语。
 
 ### 16
 
-Police gathered information about the suspect's ____ aliases.
+We will inform you ____ the result.
 
-- [x] known
-- [ ] agree
-- [ ] corruption
+- [x] of
+- [ ] for
+- [ ] about
 
-> **解析**：**known** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：inform someone of something 是固定搭配；about 虽近义但不构成标准 inform 搭配。
 
 ### 17
 
-____, the witness was put under police protection during investigation.
+He is known ____ a fair judge.
 
-- [x] Meanwhile
-- [ ] agree
-- [ ] corruption
+- [x] as
+- [ ] for
+- [ ] to
 
-> **解析**：**Meanwhile** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be known as 表示"被称为"；be known for 表示"以……特点闻名"，后接特点而非身份。
 
 ### 18
 
-The victim's family demands a complete and fair ____ from justice.
+The fine was heavy, ____ surprised everyone.
 
-- [x] explanation
-- [ ] agree
-- [ ] corruption
+- [x] which
+- [ ] that
+- [ ] what
 
-> **解析**：**explanation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：逗号后引导非限定性定语从句指代整句用 which；that 不用于非限定性从句，what 不引导定语从句。
 
 ### 19
 
-The police have ____ a search warrant signed by the judge.
+There is public support ____ the law.
 
-- [x] gotten
-- [ ] agree
-- [ ] corruption
+- [x] for
+- [ ] of
+- [ ] at
 
-> **解析**：**gotten** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：support for 是固定搭配"对……的支持"；of 和 at 不合此搭配。
 
 ### 20
 
-An ____ statement confirmed that the case is still under investigation.
+The prisoner agreed ____ cooperate.
 
-- [x] official
-- [ ] agree
-- [ ] corruption
+- [x] to
+- [ ] at
+- [ ] for
 
-> **解析**：**official** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：agree to do 是固定搭配；at 和 for 不与 agree 构成此结构。
 
 </quiz-cloze>

@@ -10,40 +10,31 @@ about to, book club, championship, custom, family reunion, finish, get off, go o
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"邀请某人见面"展开，以休息日为场景。核心是邀约和安排表达：I'm about to get off work—do you want to meet up?（我快下班了——你想见面吗？）、Unless you're busy, let's go out with the book club for the championship game.（除非你忙，我们跟读书俱乐部一起去看锦标赛吧。）、I'm in charge of the family reunion this month—it's our custom.（这个月我负责家庭聚会——这是我们的传统。）、We all have a busy schedule, but I'll make it work since they all want to come.（我们日程都满，但既然大家都想来，我会安排好的。）。
+本单元的主题是"休息日、约人见面"。词表可以分成三组：相约动作（meet up, go out with, make it, get off, about to, finish, learn, train）、日程与习惯（schedule, routine, monthly, put, put off, off, since, unless）、以及活动与人群（book club, family reunion, championship, custom, in charge of, sociable, we all, they all）。拼起来就是约会的完整对话：I get off work at five. Let's meet up! Unless it rains, we'll go out with the team.
 
-词表里有活动词汇（book club, championship, family reunion）和时间表达（about to, since, unless, monthly）。你可以练习：Put off the meeting. / I need to finish work. / It's my routine. / Learn something new.
+语法主线有三条。第一是短语动词 put off——"推迟"，与 get off（下班）、meet up（碰面）一起构成本单元的动词骨架，注意代词宾语要放中间：Don't put it off. 第二是 be about to do——"即将做某事"：I am about to leave. 第三是 unless 与 since：unless 表示"除非"，相当于 if ... not；since 可表"自从"（与完成时连用）或"既然"。
 
-about to = 即将。put off = postpone（推迟）。
+学完本单元，你能用英语约朋友见面、确认时间、说明日程安排，也能描述自己的日常习惯和即将做的事。
 
 ## Tips
 
-- **meet up / go out with / get off** — 见面 / 和…出去 / 下班。搭配：meet up at 7, go out with friends, get off work。例句：Let's meet up after work. / I went out with colleagues. / I get off at 5. 注意 get off work = 下班。
+- **meet up / go out with / get off / about to** — 四个约定核心表达。meet up 是"碰面"：Let's meet up on Saturday. go out with 是"和……外出"：She went out with her friends. get off 常指"下班"：I get off at six. be about to do 是"即将"：I am about to leave.
 
-- **about to / unless / since** — 即将 / 除非 / 既然。搭配：be about to do, unless you can't, since you're here。例句：I'm about to leave. / Unless it rains, we'll go. / Since you're free, come along. 注意 about to + 动词原形 = 马上要。
+- **put / put off / off** — put 是"放"，put off 是"推迟"：Don't put off your homework. off 单独使用时表示"离开、休息"：I have a day off. 注意代词位置：✓ Put it off，✗ Put off it。
 
-- **book club / championship / family reunion** — 读书会 / 锦标赛 / 家庭聚会。搭配：a book club meeting, the championship game, a family reunion。例句：I joined a book club. / The championship is tonight. / We have a family reunion every year. 注意 reunion = 重聚。
+- **make it / finish / learn / train** — make it 在约定语境中是"能来、赶得上"：Can you make it tonight? finish 是"完成、结束"，后接名词或动名词。learn 是"学习"，learn to do 学做某事。train 可作名词"火车"，也可作动词"训练"。
 
-- **in charge of / schedule / routine** — 负责 / 日程 / 常规。搭配：in charge of planning, a busy schedule, my daily routine。例句：I'm in charge of the event. / My schedule is full. / It's part of my routine. 注意 in charge of = 负责管理。
+- **book club / family reunion / championship / custom** — 四种活动场合。book club 是"读书会"，family reunion 是"家庭聚会"，championship 是"锦标赛、冠军赛"，custom 是"习俗、惯例"：It's an old custom.
 
-- **put off / finish / make it** — 推迟 / 完成 / 做到。搭配：put off the meeting, finish work, make it to the party。例句：Can we put off the call? / I need to finish this first. / I'll make it by 8. 注意 put off = postpone。
+- **schedule / routine / monthly** — schedule 是"日程表"：My schedule is full. routine 是"日常惯例"：my morning routine. monthly 是"每月的"，可作形容词或副词：The club meets monthly.
 
-- **monthly / custom / sociable** — 每月的 / 习俗 / 善于社交的。搭配：a monthly meeting, a local custom, very sociable。例句：We meet monthly. / It's a family custom. / She's very sociable. 注意 sociable 的反义是 unsociable。
+- **in charge of** — "负责、主管"：She is in charge of the team. 注意主动用 in charge of，被……负责用 in the charge of。
 
-- **they all / we all / off** — 他们都 / 我们都 / 休息。搭配：they all agreed, we all went, a day off。例句：They all want to come. / We all had fun. / I have a day off tomorrow. 注意 day off = 休息日。
+- **unless / since** — unless 表示"除非"：Unless it rains, we'll go out. since 表示"自从"时与现在完成时连用：I haven't seen her since May.
 
-- **learn / train / put** — 学习 / 训练 / 放。搭配：learn a skill, train for the race, put on。例句：I want to learn cooking. / She trains every morning. / Put on your coat. 注意 train 可作动词（训练）和名词（火车）。
-
-- **since / unless / about to** — 既然 / 除非 / 即将。搭配：since you asked, unless otherwise, about to start。例句：Since you're here, help me. / Unless I'm late, I'll be there. / The show is about to start. 注意 since 可表"既然"也可表"自从"。
-
-- **schedule / routine / monthly** — 日程 / 常规 / 每月。搭配：a tight schedule, break the routine, monthly gatherings。例句：My schedule is packed. / I like my routine. / We have monthly dinners. 注意 schedule 的发音：美式 /ˈskedʒuːl/。
-
-- **make it / finish / get off** — 赶到 / 完成 / 下班。搭配：make it on time, finish early, get off early。例句：Can you make it by 6? / I finished work early. / I got off at 4 today. 注意 make it = 成功做到/赶到。
-
-- **family reunion / book club / championship** — 家聚 / 读书会 / 锦标赛。搭配：attend a reunion, join a club, watch the championship。例句：The reunion was wonderful. / Our book club meets Fridays. / The championship was exciting. 注意这些是社交活动类型。
+- **sociable / we all / they all** — sociable 是"爱交际的"，来自 society。we all 和 they all 是"我们/他们所有人"，all 放在代词后、动词前：We all want to go. They all finished early.
 
 ## 练习
 
@@ -61,149 +52,149 @@ about to = 即将。put off = postpone（推迟）。
 
 <quiz-sentence-builder>
 
-1. **中文**：电影即将开始，请尽快就座。
-   **英文**：The movie is about to start, so please take your seat.
-   > **解析**：about to 表示“即将/正准备”；take your seat 意为“就座”。
+1. **中文**：我们周六碰面吧。
+   **英文**：Let's meet up on Saturday.
+   > **解析**：let's 后接动词原形；meet up 是"碰面"，on Saturday 是时间状语。
 
-2. **中文**：她每个月都会参加社区举办的读书会。
-   **英文**：She attends her local book club meeting once every month.
-   > **解析**：book club 表示“读书会/书友会”；monthly 意为“每月”。
+2. **中文**：她和朋友们出去了。
+   **英文**：She went out with her friends.
+   > **解析**：went 是 go 的过去式；go out with 是"和……外出"。
 
-3. **中文**：我们全队打进决赛并赢下了本年度锦标赛。
-   **英文**：Our team reached the finals and won the annual championship.
-   > **解析**：championship 表示“锦标赛/冠军”。
+3. **中文**：你几点下班？
+   **英文**：What time do you get off work?
+   > **解析**：what time 引导特殊疑问句；get off work 是"下班"。
 
-4. **中文**：在这个地方，拜访朋友前送礼物是一项风俗。
-   **英文**：It is a traditional custom to bring gifts when visiting friends.
-   > **解析**：custom 表示“风俗/习俗”；traditional 意为“传统的”。
+4. **中文**：我正要离开。
+   **英文**：I am about to leave.
+   > **解析**：be about to do 表示"即将做某事"；to leave 是不定式。
 
-5. **中文**：每年感恩节我们全家都会举办大型家庭聚会。
-   **英文**：We host a big family reunion every year during Thanksgiving.
-   > **解析**：family reunion 表示“家庭聚会/全家团聚”。
+5. **中文**：别推迟你的作业。
+   **英文**：Don't put off your homework.
+   > **解析**：put off 是"推迟"；否定祈使句用 Don't 开头。
 
-6. **中文**：你今天下午什么时候可以下班歇息？
-   **英文**：What time will you get off work this afternoon?
-   > **解析**：get off 表示“下班/离开”。
+6. **中文**：今晚你能来吗？
+   **英文**：Can you make it tonight?
+   > **解析**：make it 在约定语境中表示"能来"；can 表能力或可能性。
 
-7. **中文**：周六晚上他打算和几位老朋友出去聚聚。
-   **英文**：He plans to go out with some high school friends on Saturday.
-   > **解析**：go out with 表示“与……出去/约会”。
+7. **中文**：我五点下班。
+   **英文**：I finish work at five.
+   > **解析**：finish work 是"完成工作"；at five 表示时间点。
 
-8. **中文**：她是负责这次周末露营活动的负责人。
-   **英文**：She is in charge of organizing the weekend camping trip.
-   > **解析**：in charge of 表示“负责/掌管”。
+8. **中文**：她在学开车。
+   **英文**：She is learning to drive.
+   > **解析**：is learning 是现在进行时；learn to do 表示"学做某事"。
 
-9. **中文**：如果你现在出发，还能赶上最后那班火车。
-   **英文**：If you leave right now, you can make it to the last train.
-   > **解析**：make it 表示“赶上/成功到达”。
+9. **中文**：我坐火车上班。
+   **英文**：I take the train to work.
+   > **解析**：take the train 是"乘火车"；to work 是目的方向。
 
-10. **中文**：休息日我们经常在市中心的咖啡馆聚会。
-   **英文**：We often meet up at a coffee shop on our day off.
-   > **解析**：meet up 表示“聚会/会面”；day off 意为“休息日”。
+10. **中文**：我们的读书会每月聚会。
+   **英文**：Our book club meets monthly.
+   > **解析**：monthly 作副词修饰 meets；book club 是复合名词。
 
-11. **中文**：公司管理层每月都会举行一次工作汇报会议。
-   **英文**：Company managers hold a monthly progress meeting every month.
-   > **解析**：monthly 表示“每月的/按月”。
+11. **中文**：家庭聚会在六月。
+   **英文**：The family reunion is in June.
+   > **解析**：family reunion 作主语；in June 表示月份。
 
-12. **中文**：永远不要把你今天就能完成的工作推迟到明天。
-   **英文**：Never put off until tomorrow what you can complete today.
-   > **解析**：put off 表示“推迟/延期”。
+12. **中文**：他赢得了冠军赛。
+   **英文**：He won the championship.
+   > **解析**：won 是 win 的过去式；the championship 作宾语。
 
-13. **中文**：早起运动是我每日晨间常规的一部分。
-   **英文**：Morning exercise is an essential part of my daily routine.
-   > **解析**：routine 表示“常规/日常习惯”。
+13. **中文**：这是当地的习俗。
+   **英文**：It is a local custom.
+   > **解析**：local 修饰 custom；a 用于可数名词单数前。
 
-14. **中文**：下周的项目日程安排非常紧凑。
-   **英文**：The work schedule for next week looks extremely busy.
-   > **解析**：schedule 表示“日程安排/时间表”。
+14. **中文**：我这周的日程排满了。
+   **英文**：My schedule is full this week.
+   > **解析**：schedule 作主语；full 作表语。
 
-15. **中文**：自从搬到这个新城市后，我结识了很多朋友。
-   **英文**：I have made many friends since I moved to this city.
-   > **解析**：since 表示“自从……以来”；后接过去时句子。
+15. **中文**：运动是我日常的一部分。
+   **英文**：Exercise is part of my routine.
+   > **解析**：part of 表示"……的一部分"；my 修饰 routine。
 
-16. **中文**：他是个活泼且善于社交的人，喜欢参加派对。
-   **英文**：He is a very sociable person who enjoys going to parties.
-   > **解析**：sociable 表示“善于社交的/随和的”。
+16. **中文**：她负责这个项目。
+   **英文**：She is in charge of the project.
+   > **解析**：in charge of 是"负责"的固定短语；the project 作 of 的宾语。
 
-17. **中文**：周末他们全部都去公园野餐了。
-   **英文**：They all went to the park for a sunny afternoon picnic.
-   > **解析**：they all 表示“他们全部/大家都”。
+17. **中文**：除非下雨，我们就出去玩。
+   **英文**：Unless it rains, we'll go out.
+   > **解析**：unless 引导条件从句，相当于 if ... not；主句用 will。
 
-18. **中文**：为了参加下月的马拉松，运动员每天都在刻苦训练。
-   **英文**：Athletes train hard every day for the upcoming marathon.
-   > **解析**：train 表示“训练/锻炼”。
+18. **中文**：我五月以来就没见过她。
+   **英文**：I haven't seen her since May.
+   > **解析**：since 与现在完成时连用，表示"自……以来"。
 
-19. **中文**：除非天气变糟糕，否则我们明天会按计划去海滩。
-   **英文**：We will go to the beach tomorrow unless it rains heavily.
-   > **解析**：unless 表示“除非/如果不”。
+19. **中文**：我们都想去。
+   **英文**：We all want to go.
+   > **解析**：all 放在主语 we 之后、动词 want 之前，强调"全部"。
 
-20. **中文**：周末我们大家都很乐意留在家里看看书。
-   **英文**：We all love spending quiet weekends reading books at home.
-   > **解析**：we all 表示“我们大家/我们全部”。
+20. **中文**：他很爱交际。
+   **英文**：He is very sociable.
+   > **解析**：sociable 作表语；very 修饰形容词。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The movie is about to start, so please take your seat.
-   > **中文**：电影即将开始，请尽快就座。
+1. Let's meet up after work.
+   > **中文**：我们下班后碰面吧。
 
-2. She attends her local book club meeting once every month.
-   > **中文**：她每个月都会参加社区举办的读书会。
+2. She goes out with her friends on Fridays.
+   > **中文**：她每周五和朋友们出去玩。
 
-3. Our team reached the finals and won the annual championship.
-   > **中文**：我们全队打进决赛并赢下了本年度锦标赛。
+3. I get off at six.
+   > **中文**：我六点下班。
 
-4. It is a traditional custom to bring gifts when visiting friends.
-   > **中文**：在这个地方，拜访朋友前送礼物是一项风俗。
+4. I'm about to call her.
+   > **中文**：我正要给她打电话。
 
-5. We host a big family reunion every year during Thanksgiving.
-   > **中文**：每年感恩节我们全家都会举办大型家庭聚会。
+5. They put off the game.
+   > **中文**：他们推迟了比赛。
 
-6. What time will you get off work this afternoon?
-   > **中文**：你今天下午什么时候可以下班歇息？
+6. She put off the meeting.
+   > **中文**：她推迟了会议。
 
-7. He plans to go out with some high school friends on Saturday.
-   > **中文**：周六晚上他打算和几位老朋友出去聚聚。
+7. Sorry, I can't make it.
+   > **中文**：抱歉，我来不了。
 
-8. She is in charge of organizing the weekend camping trip.
-   > **中文**：她是负责这次周末露营活动的负责人。
+8. I finish at five today.
+   > **中文**：我今天五点结束。
 
-9. If you leave right now, you can make it to the last train.
-   > **中文**：如果你现在出发，还能赶上最后那班火车。
+9. He wants to learn to cook.
+   > **中文**：他想学做饭。
 
-10. We often meet up at a coffee shop on our day off.
-   > **中文**：休息日我们经常在市中心的咖啡馆聚会。
+10. The train leaves at nine.
+   > **中文**：火车九点发车。
 
-11. Company managers hold a monthly progress meeting every month.
-   > **中文**：公司管理层每月都会举行一次工作汇报会议。
+11. The book club meets every month.
+   > **中文**：读书会每月聚会。
 
-12. Never put off until tomorrow what you can complete today.
-   > **中文**：永远不要把你今天就能完成的工作推迟到明天。
+12. Our family reunion is next week.
+   > **中文**：我们的家庭聚会在下周。
 
-13. Morning exercise is an essential part of my daily routine.
-   > **中文**：早起运动是我每日晨间常规的一部分。
+13. Did you watch the championship?
+   > **中文**：你看冠军赛了吗？
 
-14. The work schedule for next week looks extremely busy.
-   > **中文**：下周的项目日程安排非常紧凑。
+14. We meet monthly.
+   > **中文**：我们每月见面。
 
-15. I have made many friends since I moved to this city.
-   > **中文**：自从搬到这个新城市后，我结识了很多朋友。
+15. It is an old custom.
+   > **中文**：这是一个古老的习俗。
 
-16. He is a very sociable person who enjoys going to parties.
-   > **中文**：他是个活泼且善于社交的人，喜欢参加派对。
+16. Check your schedule.
+   > **中文**：看看你的日程表。
 
-17. They all went to the park for a sunny afternoon picnic.
-   > **中文**：周末他们全部都去公园野餐了。
+17. My morning routine is simple.
+   > **中文**：我的早晨惯例很简单。
 
-18. Athletes train hard every day for the upcoming marathon.
-   > **中文**：为了参加下月的马拉松，运动员每天都在刻苦训练。
+18. She's in charge of the team.
+   > **中文**：她负责这个团队。
 
-19. We will go to the beach tomorrow unless it rains heavily.
-   > **中文**：除非天气变糟糕，否则我们明天会按计划去海滩。
+19. Unless you hurry, we'll be late.
+   > **中文**：除非你快点，否则我们要迟到了。
 
-20. We all love spending quiet weekends reading books at home.
-   > **中文**：周末我们大家都很乐意留在家里看看书。
+20. We all love weekends.
+   > **中文**：我们都喜欢周末。
 
 </quiz-listening>
 
@@ -211,26 +202,47 @@ about to = 即将。put off = postpone（推迟）。
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| about to | 即将 / 正准备 |
+| about to | 即将 |
 | book club | 读书会 |
-| championship | 锦标赛 / 冠军 |
-| custom | 风俗 / 习惯 |
+| championship | 锦标赛 / 冠军赛 |
+| custom | 习俗 |
 | family reunion | 家庭聚会 |
-| get off | 下班 / 下车 |
-| go out with | 与……出去 |
-| in charge of | 负责 / 掌管 |
-| make it | 赶上 / 成功做到 |
-| meet up | 聚会 / 会面 |
+| finish | 完成 / 结束 |
+| get off | 下班 |
+| go out with | 和……外出 |
+| in charge of | 负责 |
+| learn | 学习 |
+| make it | 能来 / 赶得上 |
+| meet up | 碰面 |
 | monthly | 每月的 |
-| put off | 推迟 / 延期 |
-| routine | 日常常规 |
-| schedule | 日程安排 |
+| off | 离开 / 休息 |
+| put | 放 |
+| put off | 推迟 |
+| routine | 日常惯例 |
+| schedule | 日程表 |
 | since | 自从 / 既然 |
-| sociable | 善于社交的 |
-| they all | 他们全部 |
-| train | 训练 |
+| sociable | 爱交际的 |
+| they all | 他们都 |
+| train | 火车 / 训练 |
 | unless | 除非 |
-| we all | 我们大家 |
+| we all | 我们都 |
+| is | 是（单数） |
+| are | 是（复数） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| do | 做 / 助动词 |
+| don't | 不（否定） |
+| can | 能 |
+| let's | 让我们 |
+| on | 在（星期 / 日期） |
+| at | 在（时间点） |
+| to | 到 / 向 |
+| my | 我的 |
+| her | 她（宾格）/ 她的 |
+| him | 他（宾格） |
+| with | 和 |
+| after | 在……之后 |
+| next | 下一个 |
 
 </quiz-matching>
 
@@ -238,202 +250,202 @@ about to = 即将。put off = postpone（推迟）。
 
 ### 1
 
-The movie is about to start, so ____ take your seat.
+Let's ____ up on Saturday.
 
-- [x] please
-- [ ] about to
-- [ ] book club
+- [x] meet
+- [ ] meets
+- [ ] meeting
 
-> **解析**：**please** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：let's 后接动词原形 meet；meets 和 meeting 形式错误。
 
 ### 2
 
-She ____ her local book club meeting once every month.
+She went ____ with her friends.
 
-- [x] attends
-- [ ] about to
-- [ ] book club
+- [x] out
+- [ ] at
+- [ ] of
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **attends**。
+> **解析**：go out with 是"和……外出"；at 和 of 不构成该短语。
 
 ### 3
 
-Our team reached the finals and won the annual ____.
+What time do you get ____ work?
 
-- [x] championship
-- [ ] about to
-- [ ] book club
+- [x] off
+- [ ] of
+- [ ] for
 
-> **解析**：**championship** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get off work 是"下班"；of 和 for 不构成该短语。
 
 ### 4
 
-It is a traditional ____ to bring gifts when visiting friends.
+I am ____ to leave.
 
-- [x] custom
-- [ ] about to
-- [ ] book club
+- [x] about
+- [ ] above
+- [ ] after
 
-> **解析**：**custom** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be about to do 是"即将"的固定结构；above 和 after 不能接 to do。
 
 ### 5
 
-We host a big family reunion every year during ____.
+Don't put ____ your homework.
 
-- [x] Thanksgiving
-- [ ] about to
-- [ ] book club
+- [x] off
+- [ ] along
+- [ ] onto
 
-> **解析**：**Thanksgiving** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：put off 是"推迟"；along 和 onto 不构成该含义。
 
 ### 6
 
-What time will you get ____ work this afternoon?
+Can you ____ it tonight?
 
-- [x] off
-- [ ] about to
-- [ ] book club
+- [x] make
+- [ ] makes
+- [ ] making
 
-> **解析**：**off** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：can 后接动词原形 make；make it 意为"能来"。
 
 ### 7
 
-He plans to go out with some high school friends on ____.
+I ____ work at five every day.
 
-- [x] Saturday
-- [ ] about to
-- [ ] book club
+- [x] finish
+- [ ] finishes
+- [ ] finished
 
-> **解析**：**Saturday** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 I 且 every day 提示一般现在时，用 finish；finishes 用于三单。
 
 ### 8
 
-She is in charge of ____ the weekend camping trip.
+She is ____ to cook.
 
-- [x] organizing
-- [ ] about to
-- [ ] book club
+- [x] learning
+- [ ] learn
+- [ ] learns
 
-> **解析**：**organizing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：is 后接动名词 learning 构成进行时；learn 和 learns 形式错误。
 
 ### 9
 
-If you leave right now, you can make it to the last ____.
+I take the ____ to work.
 
 - [x] train
-- [ ] about to
-- [ ] book club
+- [ ] custom
+- [ ] routine
 
-> **解析**：**train** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：乘坐的交通工具是火车 train；custom 和 routine 不能被 take。
 
 ### 10
 
-We often meet up at a coffee shop on our day ____.
+Our book club meets ____.
 
-- [x] off
-- [ ] about to
-- [ ] book club
+- [x] monthly
+- [ ] month
+- [ ] meet
 
-> **解析**：**off** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰动词 meets 需要副词 monthly；month 是名词，meet 是动词。
 
 ### 11
 
-Company managers hold a ____ progress meeting every month.
+The ____ reunion is in June.
 
-- [x] monthly
-- [ ] about to
-- [ ] book club
+- [x] family
+- [ ] book
+- [ ] monthly
 
-> **解析**：**monthly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：family reunion 是"家庭聚会"的固定搭配；book reunion 和 monthly reunion 不成立。
 
 ### 12
 
-Never ____ off until tomorrow what you can complete today.
+Their team won the ____.
 
-- [x] put
-- [ ] about to
-- [ ] book club
+- [x] championship
+- [ ] champion
+- [ ] championships
 
-> **解析**：**put** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：赢得的是冠军赛 championship；champion 是"冠军（人）"，与 won the 搭配时指赛事。
 
 ### 13
 
-Morning exercise is an essential part of my daily ____.
+It is a local ____.
 
-- [x] routine
-- [ ] about to
-- [ ] book club
+- [x] custom
+- [ ] routine
+- [ ] train
 
-> **解析**：**routine** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：当地的习俗用 custom；routine 是个人惯例，train 是火车。
 
 ### 14
 
-The work ____ for next week looks extremely busy.
+My ____ is full this week.
 
 - [x] schedule
-- [ ] about to
-- [ ] book club
+- [ ] train
+- [ ] off
 
-> **解析**：**schedule** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：排满的是日程表 schedule；train 和 off 语义不符。
 
 ### 15
 
-I have made many friends ____ I moved to this city.
+She is in ____ of the team.
 
-- [x] since
-- [ ] about to
-- [ ] book club
+- [x] charge
+- [ ] custom
+- [ ] since
 
-> **解析**：**since** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：in charge of 是"负责"的固定短语；custom 和 since 不构成该表达。
 
 ### 16
 
-He is a very ____ person who enjoys going to parties.
+____ it rains, we'll play outside.
 
-- [x] sociable
-- [ ] about to
-- [ ] book club
+- [x] Unless
+- [ ] Since
+- [ ] About
 
-> **解析**：**sociable** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：unless 表示"除非不下雨"，与去玩相符；since 表原因语义矛盾，about 不能引导从句。
 
 ### 17
 
-They all went to the park for a sunny ____ picnic.
+I haven't seen her ____ May.
 
-- [x] afternoon
-- [ ] about to
-- [ ] book club
+- [x] since
+- [ ] from
+- [ ] at
 
-> **解析**：**afternoon** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：现在完成时表"自……以来"用 since；from 和 at 不与完成时这样搭配。
 
 ### 18
 
-Athletes ____ hard every day for the upcoming marathon.
+He is very ____ and has many friends.
 
-- [x] train
-- [ ] about to
-- [ ] book club
+- [x] sociable
+- [ ] sociably
+- [ ] society
 
-> **解析**：**train** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 sociable；sociably 是副词，society 是名词。
 
 ### 19
 
-We will go to the beach tomorrow ____ it rains heavily.
+We ____ want to join the club.
 
-- [x] unless
-- [ ] about to
-- [ ] book club
+- [x] all
+- [ ] any
+- [ ] and
 
-> **解析**：**unless** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：we all 表示"我们所有人"；any 和 and 不能放在主语与动词之间作此用法。
 
 ### 20
 
-We all love ____ quiet weekends reading books at home.
+They ____ finished the work early.
 
-- [x] spending
-- [ ] about to
-- [ ] book club
+- [x] all
+- [ ] off
+- [ ] about
 
-> **解析**：**spending** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：they all 表示"他们都"；off 和 about 不能放在该位置。
 
 </quiz-cloze>

@@ -10,42 +10,31 @@ clear up, compared to, ever, find it, flood, freezing, frost, get cold, humidity
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"谈论天气"展开。词表里有天气现象（flood, frost, freezing, humidity, tornado, rainbow, sunlight, snow day），有描述与预测表达（percent chance of, sure to, will, will be, clear up, get cold, turn），也有感受与比较（find it, compared to, ever, out there, it'd, it's）。你可以用这些词聊天气：It's freezing out there! / There's a 30 percent chance of rain, but it should clear up by noon. / Compared to last year, the humidity is way worse. / If it snows enough, we might get a snow day—sure to be fun! / It'd be great to go sledding.
+本单元的主题是"谈论天气"，英语寒暄的永恒开场。词表分成三组：天气现象（flood, frost, humidity, rainbow, sunlight, tornado, freezing）、天气变化与预报（clear up, get cold, turn, percent chance of, seasonal, sure to, will, will be）、以及评论与感受（it's, it'd, find it, ever, out there, compared to, shady, sledding, snow day, issue）。拼起来就是一整套天气对话：It's freezing out there. The weather will clear up soon. There's a twenty percent chance of rain. Let's go sledding!
 
-这里值得注意英语中谈论天气时大量使用 it 作形式主语：It's freezing. / It'll clear up. / It'd be nice. 另外，turn 在天气语境中表示"变得"：It's turning cold. percent chance of 是天气预报的标准表达。
+语法主线有三条。第一条是天气 it：It's freezing. / It'll snow tomorrow. 英语谈天气必须用 it 作形式主语，it'd 是 it would 的缩写，it's 是 it is 的缩写。第二条是预报表达：percent chance of（百分之几的……概率）、sure to（肯定会）、will be（将会是）。第三条是感受表达 find it + 形容词：I find it too humid.（我觉得太潮湿了。）
 
-学完本单元，你可以用英语自如地聊天气、描述极端天气现象、转述天气预报，并表达对天气的感受。
+学完这些词，你能播报天气、抱怨严寒酷暑、解读降水概率，还能聊下雪放假的快乐——天气话题永不冷场。
 
 ## Tips
 
-- **freezing / get cold / turn** — freezing 是"极冷的、冰点以下的"，get cold 是"变冷"，turn 在天气中也表"变得"。搭配：It's freezing! / It's getting cold. / It turned cold overnight. 注意 turn 后不加 to：It turned cold.（× It turned to cold.）
+- **it's / it'd** — 天气句的灵魂。It's + 形容词/名词描述当下天气：It's sunny. / It's ten degrees. it'd 是 it would 的缩写，用于想象或委婉说法：It'd be nice to see a rainbow.
 
-- **percent chance of** — 百分之……的概率。搭配：a 30 percent chance of rain, percent chance of snow。There's a 50 percent chance of a tornado. 这是天气预报的标准表达。注意 percent 前是数字，of 后是天气现象。
+- **will / will be** — 天气预报的标准时态：It will rain tomorrow. / Tomorrow will be sunny. will 后接动词原形；will be 后接形容词或名词。
 
-- **clear up** — （天气）放晴、转好。搭配：the weather clears up, clear up by noon。It's rainy now, but it should clear up later. 注意 clear up 也可指"解决（问题）"：clear up a misunderstanding。
+- **percent chance of** — 降水概率的地道表达：There's a thirty percent chance of rain. percent 前是数字，chance of 后接天气现象。
 
-- **snow day / sledding** — snow day 是因大雪学校停课的日子（北美文化），sledding 是坐雪橇。搭配：We got a snow day! / go sledding。Kids love snow days—they go sledding all day. 这是北美学生非常期待的事。
+- **clear up / get cold / turn** — 天气变化三动词。clear up 是"放晴"：The sky will clear up. get cold 是"变冷"，get + 形容词表变化：It's getting cold. turn 也可表天气转变：The weather turned stormy.
 
-- **flood / tornado / frost** — flood 是洪水，tornado 是龙卷风，frost 是霜。搭配：a flash flood, a tornado warning, frost on the ground。These are extreme weather events. 注意 flood 可作动词：The river flooded.
+- **freezing / frost / snow day / sledding** — 冰雪四词。freezing 是"极冷的"（冰点般的）；frost 是霜；snow day 是因雪放假的日子（学生最爱）；sledding 是滑雪橇。
 
-- **humidity / sunlight** — humidity 是湿度，sunlight 是阳光。搭配：high humidity, in direct sunlight。The humidity makes it feel hotter. / There's not much sunlight in winter. 注意 humidity 是不可数名词。
+- **flood / tornado / humidity / sunlight / rainbow** — 天气现象群。flood 洪水，可名可动；tornado 龙卷风；humidity 湿度：The humidity is high. sunlight 阳光；rainbow 彩虹，常与雨后放晴搭配。
 
-- **compared to** — 与……相比。搭配：compared to last year, compared with。Compared to summer, winter here is brutal. 注意 compared to 和 compared with 都可表比较，口语中 to 更常见。
+- **find it / compared to / ever** — find it + 形容词表示"觉得……"：I find it refreshing. compared to 是"与……相比"：Compared to July, it's cool. ever 加强语气"究竟、曾经"：Is it ever going to stop raining?
 
-- **sure to** — 一定会、肯定会。搭配：be sure to do, sure to happen。It's sure to snow tonight. / You're sure to enjoy the sledding. 比 will 语气更确定，接近 certain to。
-
-- **it'd / it's** — it'd = it would 或 it had，it's = it is 或 it has。搭配：It'd be nice to go out. / It's freezing. 注意 it'd 在天气话题中通常是 it would：It'd be great if it cleared up. 需要根据语境判断。
-
-- **out there** — 在外面（口语）。搭配：out there, cold out there。It's freezing out there! 比 outside 更口语化，常带有"你出去感受一下"的意味。
-
-- **find it** — 觉得（某事如何）。搭配：find it + adj, I find it hard to...。I find it hard to sleep when the humidity is high. 注意 find it 中的 it 是形式宾语，真正的宾语在后面：I find it difficult to deal with the cold.
-
-- **seasonal / shady** — seasonal 是季节性的，shady 是阴凉的/可疑的。搭配：seasonal changes, a shady spot。In the shady areas, you might find frost. 注意 shady 有双重含义：字面"有阴凉的"和比喻"可疑的"（a shady deal）。
-
-- **rainbow / ever** — rainbow 是彩虹，ever 是"曾经/究竟"。搭配：see a rainbow, have you ever seen...。Have you ever seen a rainbow after a tornado? ever 在问句中表"曾经"，在比较级中表"比以往"：better than ever。
+- **out there / shady / seasonal / issue / sure to** — out there 指"外面"：It's windy out there. shady 是"阴凉的、成荫的"：a shady spot. seasonal 是"季节性的"：seasonal changes. issue 是"问题"：Flooding is a real issue here. sure to 表示"肯定会"：It's sure to rain.
 
 ## 练习
 
@@ -63,176 +52,187 @@ clear up, compared to, ever, find it, flood, freezing, frost, get cold, humidity
 
 <quiz-sentence-builder>
 
-1. **中文**：阵雨过后天空将会放晴。  
-   **英文**：The sky will clear up after the rain shower passes.
-   > **解析**：clear up 表示（天气）放晴。
+1. **中文**：外面冷极了。
+   **英文**：It's freezing out there.
+   > **解析**：It's 是 It is 的缩写，it 作天气形式主语；freezing 作表语；out there 指"外面"。
 
-2. **中文**：外面极度寒冷，所以穿上一件厚重的冬季大衣。  
-   **英文**：It's freezing outside, so put on a heavy winter coat.
-   > **解析**：freezing 表示极冷、结冰的。
+2. **中文**：天很快就会放晴。
+   **英文**：The sky will clear up soon.
+   > **解析**：will 后接动词原形 clear；clear up 是"放晴"的动词短语。
 
-3. **中文**：清晨的霜盖满了院子里的绿草。  
-   **英文**：Morning frost covered the green grass in the yard.
-   > **解析**：frost 表示霜。
+3. **中文**：明天会有百分之三十的降雨概率。
+   **英文**：There will be a thirty percent chance of rain tomorrow.
+   > **解析**：There will be 是将来时存在句；a thirty percent chance of rain 是预报固定表达。
 
-4. **中文**：夏季的高湿度让人感觉天气更加炎热。  
-   **英文**：The high humidity in summer makes it feel hotter.
-   > **解析**：humidity 表示湿度。
+4. **中文**：天气肯定会转晴。
+   **英文**：It is sure to clear up.
+   > **解析**：be sure to do 表示"肯定会……"；to clear up 不定式。
 
-5. **中文**：强降雨导致主干道上突然引发洪水。  
-   **英文**：Heavy rain caused a sudden flood on main street.
-   > **解析**：flood 表示洪水。
+5. **中文**：天开始变冷了。
+   **英文**：It is getting cold.
+   > **解析**：is getting 是现在进行时，get + 形容词表变化过程；cold 作表语。
 
-6. **中文**：预警系统发布了龙卷风警报。  
-   **英文**：The warning system issued an alert for a tornado.
-   > **解析**：tornado 表示龙卷风。
+6. **中文**：昨晚地面结霜了。
+   **英文**：There was frost on the ground last night.
+   > **解析**：There was 是过去时存在句；frost 不可数；last night 是时间状语。
 
-7. **中文**：暴风雨过后，天空中出现了一道美丽的彩虹。  
-   **英文**：A beautiful rainbow appeared in the sky after the storm.
-   > **解析**：rainbow 表示彩虹。
+7. **中文**：昨晚我看到了一道彩虹。
+   **英文**：I saw a rainbow last night.
+   > **解析**：saw 是 see 的过去式；a rainbow 可数名词用 a。
 
-8. **中文**：璀璨的阳光透过客厅窗户照了进来。  
-   **英文**：Bright sunlight shone through the living room window.
-   > **解析**：sunlight 表示阳光。
+8. **中文**：今天湿度很高。
+   **英文**：The humidity is very high today.
+   > **解析**：humidity 是不可数名词作主语，用 is；today 是时间状语。
 
-9. **中文**：坐在荫凉的橡树下保持凉爽。  
-   **英文**：Sit under the shady oak tree to stay cool.
-   > **解析**：shady 表示荫凉的。
+9. **中文**：与七月相比，现在凉爽多了。
+   **英文**：Compared to July, it is much cooler now.
+   > **解析**：Compared to 是过去分词短语作状语；much 修饰比较级 cooler。
 
-10. **中文**：由于暴风雪，学校宣布停课雪假一天。  
-   **英文**：The school announced a snow day due to the blizzard.
-   > **解析**：snow day 指因大雪放假停课的日子。
+10. **中文**：龙卷风预警发布了。
+    **英文**：A tornado warning was issued.
+    > **解析**：was issued 是过去时被动语态；issue 此处作动词"发布"。
 
-11. **中文**：孩子们喜欢从积雪的山坡上滑雪橇。  
-   **英文**：Kids love going sledding down the snowy hill.
-   > **解析**：sledding 指滑雪橇。
+11. **中文**：洪水是个真正的问题。
+    **英文**：Flooding is a real issue here.
+    > **解析**：Flooding 动名词作主语；a real issue 作表语。
 
-12. **中文**：过敏症状是春季常见的季节性问题。  
-   **英文**：Allergy symptoms are a common seasonal issue in spring.
-   > **解析**：seasonal 表示季节性的。
+12. **中文**：明天学校会因雪放假吗？
+    **英文**：Will there be a snow day tomorrow?
+    > **解析**：Will there be 是将来时存在句的疑问形式；a snow day 是"雪天假"。
 
-13. **中文**：空气污染是这里一个主要的环境问题。  
-   **英文**：Air pollution is a major environmental issue here.
-   > **解析**：issue 表示问题、议题。
+13. **中文**：我们去滑雪橇吧。
+    **英文**：Let's go sledding.
+    > **解析**：go + 动名词表示去做某项活动：go sledding.
 
-14. **中文**：下午有百分之五十的下雨概率。  
-   **英文**：There is a fifty percent chance of rain afternoon.
-   > **解析**：percent chance of 表示百分之……的几率。
+14. **中文**：阳光终于出来了。
+    **英文**：The sunlight finally came out.
+    > **解析**：came out 是 come out 的过去式"出现"；finally 是副词修饰动词。
 
-15. **中文**：如果那些乌云涌过来，肯定会下雨的。  
-   **英文**：It is sure to rain if those dark clouds roll in.
-   > **解析**：be sure to... 表示必然、肯定会……
+15. **中文**：天气转阴了。
+    **英文**：The weather turned cloudy.
+    > **解析**：turned 作系动词"变得"，后接形容词 cloudy 作表语。
 
-16. **中文**：树叶将在深秋变黄。  
-   **英文**：The leaves will turn yellow in late autumn.
-   > **解析**：turn 表示变成、转变。
+16. **中文**：要是能看到彩虹就好了。
+    **英文**：It'd be nice to see a rainbow.
+    > **解析**：It'd 是 It would 的缩写；to see a rainbow 不定式是真正主语。
 
-17. **中文**：随着傍晚临近，天气开始变冷。  
-   **英文**：It begins to get cold as evening approaches.
-   > **解析**：get cold 表示变冷。
+17. **中文**：我觉得这里太潮湿了。
+    **英文**：I find it too humid here.
+    > **解析**：find it + 形容词表示"觉得"；it 指代环境，humid 作宾语补足语。
 
-18. **中文**：与昨天极冷的天气相比，今天挺温暖的。  
-   **英文**：Today is warm compared to yesterday's freezing weather.
-   > **解析**：compared to 表示与……相比。
+18. **中文**：雨究竟什么时候才会停？
+    **英文**：Is it ever going to stop raining?
+    > **解析**：ever 加强语气"究竟"；be going to 表将来；stop doing 后接 raining。
 
-19. **中文**：小心点，因为今天外面风很大。  
-   **英文**：Be careful because it's windy out there today.
-   > **解析**：out there 表示外面。
+19. **中文**：树荫下很凉快。
+    **英文**：It is cool under the shady trees.
+    > **解析**：shady 形容词修饰 trees；under the shady trees 是地点状语。
 
-20. **中文**：我发现在大雪中开汽车非常困难。  
-   **英文**：I find it difficult to drive in heavy snow.
-   > **解析**：find it + adj + to do 表示发现做某事很……
+20. **中文**：这个季节的变化是季节性的。
+    **英文**：These changes are seasonal.
+    > **解析**：seasonal 形容词作表语；These changes 复数主语用 are。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The sky will clear up after the rain shower passes.
-   > **中文**：阵雨过后天空将会放晴。
+1. It's freezing out there.
+   > **中文**：外面冷极了。
 
-2. It's freezing outside, so put on a heavy winter coat.
-   > **中文**：外面极度寒冷，所以穿上一件厚重的冬季大衣。
+2. The sky will clear up soon.
+   > **中文**：天很快就会放晴。
 
-3. Morning frost covered the green grass in the yard.
-   > **中文**：清晨的霜盖满了院子里的绿草。
+3. There will be a thirty percent chance of rain tomorrow.
+   > **中文**：明天会有百分之三十的降雨概率。
 
-4. The high humidity in summer makes it feel hotter.
-   > **中文**：夏季的高湿度让人感觉天气更加炎热。
+4. It is sure to clear up.
+   > **中文**：天气肯定会转晴。
 
-5. Heavy rain caused a sudden flood on main street.
-   > **中文**：强降雨导致主干道上突然引发洪水。
+5. It is getting cold.
+   > **中文**：天开始变冷了。
 
-6. The warning system issued an alert for a tornado.
-   > **中文**：预警系统发布了龙卷风警报。
+6. There was frost on the ground last night.
+   > **中文**：昨晚地面结霜了。
 
-7. A beautiful rainbow appeared in the sky after the storm.
-   > **中文**：暴风雨过后，天空中出现了一道美丽的彩虹。
+7. I saw a rainbow last night.
+   > **中文**：昨晚我看到了一道彩虹。
 
-8. Bright sunlight shone through the living room window.
-   > **中文**：璀璨的阳光透过客厅窗户照了进来。
+8. The humidity is very high today.
+   > **中文**：今天湿度很高。
 
-9. Sit under the shady oak tree to stay cool.
-   > **中文**：坐在荫凉的橡树下保持凉爽。
+9. Compared to July, it is much cooler now.
+   > **中文**：与七月相比，现在凉爽多了。
 
-10. The school announced a snow day due to the blizzard.
-   > **中文**：由于暴风雪，学校宣布停课雪假一天。
+10. A tornado warning was issued.
+    > **中文**：龙卷风预警发布了。
 
-11. Kids love going sledding down the snowy hill.
-   > **中文**：孩子们喜欢从积雪的山坡上滑雪橇。
+11. Flooding is a real issue here.
+    > **中文**：洪水是个真正的问题。
 
-12. Allergy symptoms are a common seasonal issue in spring.
-   > **中文**：过敏症状是春季常见的季节性问题。
+12. Will there be a snow day tomorrow?
+    > **中文**：明天学校会因雪放假吗？
 
-13. Air pollution is a major environmental issue here.
-   > **中文**：空气污染是这里一个主要的环境问题。
+13. Let's go sledding.
+    > **中文**：我们去滑雪橇吧。
 
-14. There is a fifty percent chance of rain afternoon.
-   > **中文**：下午有百分之五十的下雨概率。
+14. The sunlight finally came out.
+    > **中文**：阳光终于出来了。
 
-15. It is sure to rain if those dark clouds roll in.
-   > **中文**：如果那些乌云涌过来，肯定会下雨的。
+15. The weather turned cloudy.
+    > **中文**：天气转阴了。
 
-16. The leaves will turn yellow in late autumn.
-   > **中文**：树叶将在深秋变黄。
+16. It'd be nice to see a rainbow.
+    > **中文**：要是能看到彩虹就好了。
 
-17. It begins to get cold as evening approaches.
-   > **中文**：随着傍晚临近，天气开始变冷。
+17. I find it too humid here.
+    > **中文**：我觉得这里太潮湿了。
 
-18. Today is warm compared to yesterday's freezing weather.
-   > **中文**：与昨天极冷的天气相比，今天挺温暖的。
+18. Is it ever going to stop raining?
+    > **中文**：雨究竟什么时候才会停？
 
-19. Be careful because it's windy out there today.
-   > **中文**：小心点，因为今天外面风很大。
+19. It is cool under the shady trees.
+    > **中文**：树荫下很凉快。
 
-20. I find it difficult to drive in heavy snow.
-   > **中文**：我发现在大雪中开汽车非常困难。
+20. These changes are seasonal.
+    > **中文**：这个季节的变化是季节性的。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| `clear up` | 放晴；放晴 |
-| `compared to` | 与……相比 |
-| `flood` | 洪水 |
-| `freezing` | 极冷的；结冰的 |
-| `frost` | 霜 |
-| `get cold` | 变冷 |
-| `humidity` | 湿度 |
-| `issue` | 问题；议题 |
-| `out there` | 在外面 |
-| `percent chance of` | 百分之……的概率 |
-| `rainbow` | 彩虹 |
-| `seasonal` | 季节性的 |
-| `shady` | 荫凉的 |
-| `sledding` | 滑雪橇 |
-| `snow day` | 因雪停课假 |
-| `sunlight` | 阳光 |
-| `sure to` | 肯定会；必然 |
-| `tornado` | 龙卷风 |
-| `turn` | 变成；转变 |
-| `will be` | 将会是 |
+| --- | --- |
+| clear up | 放晴 |
+| compared to | 与……相比 |
+| ever | 究竟；曾经 |
+| find it | 觉得 |
+| flood | 洪水 |
+| freezing | 极冷的 |
+| frost | 霜 |
+| get cold | 变冷 |
+| humidity | 湿度 |
+| issue | 问题 |
+| it'd | it would 的缩写 |
+| it's | it is 的缩写 |
+| out there | 外面 |
+| percent chance of | ……百分之几的概率 |
+| rainbow | 彩虹 |
+| seasonal | 季节性的 |
+| shady | 阴凉的 |
+| sledding | 滑雪橇 |
+| snow day | 雪天假 |
+| sunlight | 阳光 |
+| sure to | 肯定会 |
+| tornado | 龙卷风 |
+| turn | 变得；转向 |
+| will | 将 |
+| will be | 将会是 |
+| rain | 雨 |
+| sky | 天空 |
+| tomorrow | 明天 |
+| weather | 天气 |
+| ground | 地面 |
+| cool | 凉爽的 |
 
 </quiz-matching>
 
@@ -240,202 +240,202 @@ clear up, compared to, ever, find it, flood, freezing, frost, get cold, humidity
 
 ### 1
 
-The sky ____ clear up after the rain shower passes.
+It's freezing out ____.
 
-- [x] will
-- [ ] clear up
-- [ ] compared to
+- [x] there
+- [ ] their
+- [ ] they're
 
-> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：out there 是"在外面"的固定短语；their 是所有格，they're 是 they are。
 
 ### 2
 
-____ freezing outside, so put on a heavy winter coat.
+The sky will clear ____ soon.
 
-- [x] It's
-- [ ] clear up
-- [ ] compared to
+- [x] up
+- [ ] out
+- [ ] off
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **It's**。
+> **解析**：clear up 是"放晴"的固定短语；clear out 是"清理"，clear off 语义不合。
 
 ### 3
 
-Morning ____ covered the green grass in the yard.
+There will be a thirty percent ____ of rain.
 
-- [x] frost
-- [ ] clear up
-- [ ] compared to
+- [x] chance
+- [ ] chances
+- [ ] chancing
 
-> **解析**：**frost** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a thirty percent chance 用单数名词；chancing 不是名词。
 
 ### 4
 
-The high ____ in summer makes it feel hotter.
+It is sure to clear ____.
 
-- [x] humidity
-- [ ] clear up
-- [ ] compared to
+- [x] up
+- [ ] down
+- [ ] away
 
-> **解析**：**humidity** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：clear up 表示"放晴"；clear down 和 clear away 不是此义。
 
 ### 5
 
-Heavy rain caused a sudden ____ on main street.
+It is ____ cold.
 
-- [x] flood
-- [ ] clear up
-- [ ] compared to
+- [x] getting
+- [ ] get
+- [ ] gotten
 
-> **解析**：**flood** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is + getting 构成进行时，get cold 表"变冷"的过程；gotten 不与进行时搭配。
 
 ### 6
 
-The warning system issued an alert for a ____.
+There was ____ on the ground last night.
 
-- [x] tornado
-- [ ] clear up
-- [ ] compared to
+- [x] frost
+- [ ] frosts
+- [ ] frosted
 
-> **解析**：**tornado** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：frost 是不可数名词"霜"；frosted 是形容词"裹糖霜的"。
 
 ### 7
 
-A beautiful ____ appeared in the sky after the storm.
+I saw a ____ last night.
 
 - [x] rainbow
-- [ ] clear up
-- [ ] compared to
+- [ ] rainbows
+- [ ] rain
 
-> **解析**：**rainbow** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后接单数名词 rainbow；rain 与 saw a 的搭配语义不完整（需加 shower 等）。
 
 ### 8
 
-Bright ____ shone through the living room window.
+The ____ is very high today.
 
-- [x] sunlight
-- [ ] clear up
-- [ ] compared to
+- [x] humidity
+- [ ] humid
+- [ ] humidly
 
-> **解析**：**sunlight** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The 后接名词 humidity 作主语；humid 是形容词，humidly 是副词。
 
 ### 9
 
-Sit under the ____ oak tree to stay cool.
+Compared ____ July, it is much cooler now.
 
-- [x] shady
-- [ ] clear up
-- [ ] compared to
+- [x] to
+- [ ] at
+- [ ] on
 
-> **解析**：**shady** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：compared to 是固定搭配"与……相比"；at 和 on 不合。
 
 ### 10
 
-The school ____ a snow day due to the blizzard.
+A tornado warning was ____.
 
-- [x] announced
-- [ ] clear up
-- [ ] compared to
+- [x] issued
+- [ ] issue
+- [ ] issuing
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **announced**。
+> **解析**：was + 过去分词 issued 构成被动"被发布"；issuing 不表被动。
 
 ### 11
 
-Kids love going ____ down the snowy hill.
+____ is a real issue here.
 
-- [x] sledding
-- [ ] clear up
-- [ ] compared to
+- [x] Flooding
+- [ ] Flood
+- [ ] Floods
 
-> **解析**：**sledding** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：Flooding 动名词作主语表示"洪涝现象"；Flood 需冠词，Floods 复数不合此泛指。
 
 ### 12
 
-Allergy symptoms are a common ____ issue in spring.
+____ there be a snow day tomorrow?
 
-- [x] seasonal
-- [ ] clear up
-- [ ] compared to
+- [x] Will
+- [ ] Do
+- [ ] Are
 
-> **解析**：**seasonal** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：将来时存在句疑问用 Will there be；Do 和 Are 不构成此结构。
 
 ### 13
 
-Air pollution is a major environmental ____ here.
+Let's go ____.
 
-- [x] issue
-- [ ] clear up
-- [ ] compared to
+- [x] sledding
+- [ ] sled
+- [ ] sledged
 
-> **解析**：**issue** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：go + 动名词表示活动：go sledding.；sled 是名词，sledged 是过去式。
 
 ### 14
 
-There is a fifty percent chance of rain ____.
+The ____ finally came out.
 
-- [x] afternoon
-- [ ] clear up
-- [ ] compared to
+- [x] sunlight
+- [ ] sunlights
+- [ ] sunny
 
-> **解析**：**afternoon** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：sunlight 是不可数名词作主语；sunny 是形容词不作主语。
 
 ### 15
 
-It is sure to rain if those dark ____ roll in.
+The weather ____ cloudy.
 
-- [x] clouds
-- [ ] clear up
-- [ ] compared to
+- [x] turned
+- [ ] turn
+- [ ] turning
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **clouds**。
+> **解析**：叙述过去变化用过去式 turned；turning 不能单独作谓语。
 
 ### 16
 
-The leaves ____ turn yellow in late autumn.
+It'd be nice to see a ____.
 
-- [x] will
-- [ ] clear up
-- [ ] compared to
+- [x] rainbow
+- [ ] rainbows
+- [ ] rainbowed
 
-> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后接单数名词 rainbow；rainbowed 不是常规词。
 
 ### 17
 
-It begins to get cold as evening ____.
+I find it too ____ here.
 
-- [x] approaches
-- [ ] clear up
-- [ ] compared to
+- [x] humid
+- [ ] humidity
+- [ ] humidly
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **approaches**。
+> **解析**：find it + 形容词，humid 作宾语补足语；humidity 是名词，humidly 是副词。
 
 ### 18
 
-Today is warm compared to yesterday's ____ weather.
+Is it ever going to stop ____?
 
-- [x] freezing
-- [ ] clear up
-- [ ] compared to
+- [x] raining
+- [ ] rain
+- [ ] rained
 
-> **解析**：**freezing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：stop doing 表示停止某行为，用动名词 raining；rained 不能接在 stop 后表此义。
 
 ### 19
 
-Be careful because ____ windy out there today.
+It is cool under the ____ trees.
 
-- [x] it's
-- [ ] clear up
-- [ ] compared to
+- [x] shady
+- [ ] shade
+- [ ] shaded's
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **it's**。
+> **解析**：名词 trees 前需要形容词 shady（成荫的）；shade 是名词，shaded's 是所有格。
 
 ### 20
 
-I find it ____ to drive in heavy snow.
+These changes are ____.
 
-- [x] difficult
-- [ ] clear up
-- [ ] compared to
+- [x] seasonal
+- [ ] season
+- [ ] seasonally
 
-> **解析**：**difficult** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：are 后接形容词 seasonal 作表语；season 是名词，seasonally 是副词。
 
 </quiz-cloze>

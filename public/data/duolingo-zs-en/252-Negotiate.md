@@ -10,58 +10,31 @@ at this point, brief, capacity, certified, contribute, could you let me know, do
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是"讨论与工作相关的选择"——可能是一场薪资谈判、一次职责调整，或者和同事商量加班安排。词表里有大量职场和协商表达：negotiate, overtime, duty, management, certified, submit。你可以这样开启对话：If you don't mind me asking, do you happen to know the possibility of overtime pay? At this point, I'd like to negotiate my duties—shall we discuss it briefly?（如果你不介意的话，你碰巧知道加班费的可能性吗？眼下我想谈谈我的职责——我们简短地讨论一下好吗？）
+本单元的主题是"讨论与工作相关的选择"，场景是职场谈判。词表可以分成四组：礼貌提问句式（could you let me know, do you happen to, do you have any idea, if I may ask, if you don't mind me asking, shall we）、谈判动作（negotiate, submit, provide, contribute, enter, pay off）、工作名词（capacity, duty, overtime, management, possibility, certified）、以及数量与态度（either of, neither of, none of, at this point, no worries, worry about, brief）。拼起来就是一段职场对话：If I may ask, is there any possibility of overtime? At this point, I'd like to negotiate my duties.
 
-could you let me know / do you happen to / if I may ask 是三种不同程度的礼貌询问句式，本单元集中练习"如何客气地打听信息"。either of / neither of / none of 构成一组数量限定词。pay off（值得/还清）、contribute（贡献）、provide（提供）是职场高频动词。
+语法主线有两个。一是委婉提问的层级：Could you let me know...? / Do you happen to know...? / If I may ask...——情态动词 could 和插入语让职场提问更礼貌。二是 either / neither / none 的分工：either of 指"两者之一"，neither of 指"两者都不"，none of 指"三者及以上都不"。
 
-学完本单元，你能用英语在职场中进行礼貌而有效的协商，询问信息、表达诉求、讨论安排。
+学完这个单元，你能用英语礼貌地打听工作信息、谈判职责与加班，并准确使用部分否定代词。
 
 ## Tips
 
-- **negotiate** — "谈判、协商"。negotiate a salary / negotiate terms。名词 negotiation。注意 -tiate 结尾的发音：/nɪˈɡoʊʃieɪt/。比 discuss 更正式，暗示"双方各有让步"。
+- **could you let me know / if I may ask / if you don't mind me asking** — 三个礼貌提问框架。Could you let me know the schedule?（能告诉我日程吗？）If I may ask, why is the post open?（如果方便问的话……）If you don't mind me asking, how long have you worked here? 都是降低冒犯感的职场句式。
 
-- **if you don't mind me asking** — "如果你不介意我问的话"，非常礼貌的提问前缀。If you don't mind me asking, how much do you earn? 比 Can I ask... 更委婉。注意 mind 后接 -ing。
+- **do you happen to / do you have any idea** — Do you happen to know his number?（你碰巧知道他的号码吗？）happen to 表示"碰巧"，让提问显得随意。Do you have any idea how much it costs?（你知道大概多少钱吗？）any idea 表示"任何概念"。
 
-- **do you happen to** — "你碰巧……吗"，用来礼貌地询问对方是否知道某事。Do you happen to know the manager? 比 Do you know... 更客气，暗示"不知道也没关系"。
+- **shall we** — 提议用语：Shall we start the meeting?（我们开始开会好吗？）用于第一人称复数的建议。
 
-- **could you let me know** — "你能告诉我吗"，比 Can you tell me 更礼貌。Could you let me know the schedule? 用 could 比 can 更委婉。let me know 比 inform me 更自然。
+- **negotiate / submit / provide / contribute** — 谈判四动词。negotiate = 谈判：negotiate a salary；submit = 提交：submit a report；provide = 提供：provide details；contribute = 贡献，常接 to：contribute to the project。
 
-- **at this point** — "在这一点上、眼下"。At this point, I think we should wait. 比 now 更强调"经过前面的讨论/发展之后"。类似：at this stage。注意 point 前用 at，不用 in。
+- **enter / pay off / overtime** — enter = 进入、入职；pay off = 得到回报：The extra work paid off. overtime = 加班：work overtime。
 
-- **overtime** — "加班、加班时间"。work overtime / overtime pay。注意不可数：do overtime，不说 do an overtime。over-（超过）+ time（时间），构词直观。
+- **capacity / duty / management / certified** — capacity = 能力、容量：work at full capacity；duty = 职责，常用复数 duties；management = 管理层；certified = 有认证的：a certified accountant。
 
-- **pay off** — 一词多义：① 值得、有回报（Hard work pays off.）② 还清（pay off a debt）。本单元语境下可能是"加班是否值得/有回报"。非常积极的短语。
+- **either of / neither of / none of** — 三个部分代词。either of the two options（两个选项中的任何一个）；neither of them（两者都不）；none of the three（三个都不）。注意三者都接单数或复数动词，正式语体倾向单数。
 
-- **either of / neither of / none of** — 三者都表数量限定。either of = 两者中任一；neither of = 两者都不；none of = 三者及以上都不。注意：Neither of them is... 动词常用单数（正式）。
-
-- **capacity** — "能力、容量、职位"。in my capacity as manager = 以我经理的身份。也可以指"容量"：a stadium with a capacity of 50,000。比 ability 更强调"能容纳/承担的上限"。
-
-- **certified** — "有证书的、经认证的"。a certified accountant / a certified document。动词 certify（证明）。比 qualified 更强调"有官方证书"。注意 -fied 结尾。
-
-- **contribute** — "贡献、捐献"。contribute to the project / contribute ideas。搭配 contribute to + 名词/-ing。名词 contribution。比 give 更正式，强调"为共同目标出力"。
-
-- **submit** — "提交、呈递"。submit a report / submit an application。比 hand in 更正式，常用于职场和学术。名词 submission。注意双 b：sub-mit。
-
-- **duty** — "职责、义务"。搭配：on duty（值班）/ off duty（下班）/ a sense of duty。复数 duties = 具体工作内容。比 responsibility 更强调"分内之事"。
-
-- **management** — "管理层、管理"。搭配：senior management / management team。动词 manage。注意 management 可以指"管理行为"也可以指"管理团队"，看语境。
-
-- **provide** — "提供"，比 give 更正式。provide information / provide for your family。搭配 provide someone with something 或 provide something for someone。注意 -vide 结尾。
-
-- **brief** — "简短的"。a brief meeting / keep it brief。动词 brief = 做简报：I'll brief you later。比 short 更正式，常用于职场。in brief = 简言之。
-
-- **shall we** — "我们……好吗"，用来提议。Shall we begin? / Shall we take a break? 比 Should we 更正式、更英式。在美式英语中，Let's... 更常见。
-
-- **no worries** — "没关系、别担心"，非常口语化的安慰/回应。—Sorry I'm late. —No worries. 比 It's okay 更轻松。澳洲和英式英语中极高频，美式也用。
-
-- **possibility** — "可能性"。搭配：the possibility of / There's a possibility that... 形容词 possible。比 chance 更正式。注意 -ibility 结尾，不是 -ability。
-
-- **worry about** — "担心"。Don't worry about the deadline. 比 be concerned about 更口语。注意 worry 可作动词也可作名词：a worry / no worries。about 不能省略。
-
-- **enter** — "进入、加入"。enter the company / enter a negotiation。比 go into 更正式。也可以指"输入"：enter data。注意 enter 后不加 into（enter the room，不是 enter into the room）。
+- **at this point / no worries / worry about / brief / possibility** — at this point = 此时此刻、目前；no worries = 没关系（口语回应）；worry about = 担心；brief = 简短的，也作动词"简报"；possibility = 可能性，常接 of：the possibility of a raise。
 
 ## 练习
 
@@ -79,176 +52,190 @@ could you let me know / do you happen to / if I may ask 是三种不同程度的
 
 <quiz-sentence-builder>
 
-1. **中文**：如果你不介意我问的话，你的期望薪资是多少？
-   **英文**：If you don't mind me asking, what is your expected salary?
-   > **解析**：if you don't mind me asking 意为如果你不介意我问的话。
+1. **中文**：能告诉我日程安排吗？
+   **英文**：Could you let me know the schedule?
+   > **解析**：Could you + 动词原形是礼貌请求；let me know 是固定表达"告诉我"。
 
-2. **中文**：你碰巧知道管理团队的会议安排吗？
-   **英文**：Do you happen to know the meeting schedule for management?
-   > **解析**：do you happen to 意为你碰巧……吗。
+2. **中文**：你碰巧知道他的分机号吗？
+   **英文**：Do you happen to know his extension?
+   > **解析**：Do you happen to + 动词原形表示"你碰巧……吗"，语气委婉。
 
-3. **中文**：请 contemporary 在今天结束前能告诉我最终决定吗？
-   **英文**：Could you let me know the final decision by today?
-   > **解析**：could you let me know 意为你能告诉我吗。
+3. **中文**：你知道这要花多长时间吗？
+   **英文**：Do you have any idea how long it takes?
+   > **解析**：Do you have any idea + 疑问从句，表示"你知不知道"。
 
-4. **中文**：眼下，我们已经准备好协商劳动合同条款了。
-   **英文**：At this point, we are ready to negotiate the contract terms.
-   > **解析**：at this point 意为眼下、在这一点上。
+4. **中文**：如果可以问的话，你为什么想离职？
+   **英文**：If I may ask, why do you want to leave?
+   > **解析**：If I may ask 是礼貌插入语；主句是特殊疑问句。
 
-5. **中文**：加班的辛勤工作最终会得到回报。
-   **英文**：Hard work with overtime will eventually pay off.
-   > **解析**：pay off 意为获得回报、付出有报酬。
+5. **中文**：如果你不介意我问的话，你的薪水是多少？
+   **英文**：If you don't mind me asking, what is your salary?
+   > **解析**：If you don't mind me asking 是礼貌开场；mind 后接动名词短语。
 
-6. **中文**：我们应该在项目会议中协商核心职责。
-   **英文**：We should negotiate our core duties during the project meeting.
-   > **解析**：negotiate 意为谈判、协商。
+6. **中文**：我们开始谈判吧？
+   **英文**：Shall we start the negotiation?
+   > **解析**：Shall we + 动词原形用于提出建议；negotiation 是 negotiate 的名词。
 
-7. **中文**：这两个选项都不符合我们团队目前的需求。
-   **英文**：Neither of the options fits our team's current needs.
-   > **解析**：neither of 意为两者都不。
+7. **中文**：目前，我想谈谈我的职责。
+   **英文**：At this point, I would like to discuss my duties.
+   > **解析**：At this point 作时间状语置于句首；would like to 表礼貌意愿。
 
-8. **中文**：以我作为项目经理的身份，我全权支持这项提议。
-   **英文**：In my capacity as project manager, I fully support this proposal.
-   > **解析**：capacity 意为职位、能力、身份。
+8. **中文**：我想谈判加薪。
+   **英文**：I would like to negotiate a raise.
+   > **解析**：negotiate 是及物动词，直接接 a raise 作宾语。
 
-9. **中文**：她是一位有证书的会计师，有多年的经验。
-   **英文**：She is a certified accountant with years of experience.
-   > **解析**：certified 意为有证书的、经认证的。
+9. **中文**：请在周五前提交报告。
+   **英文**：Please submit the report by Friday.
+   > **解析**：祈使句以 submit 开头；by Friday 表示截止时间。
 
-10. **中文**：每位员工都被鼓励向项目贡献想法。
-   **英文**：Every employee is encouraged to contribute ideas to the project.
-   > **解析**：contribute 意为贡献、提供。
+10. **中文**：公司会提供培训。
+   **英文**：The company will provide training.
+   > **解析**：provide 是及物动词；will 后接动词原形。
 
-11. **中文**：请在周五前提交你的费用报告。
-   **英文**：Please submit your expense report before Friday.
-   > **解析**：submit 意为提交、呈递。
+11. **中文**：每个人都为项目做出了贡献。
+   **英文**：Everyone contributed to the project.
+   > **解析**：contribute to 是固定搭配"为……做贡献"；contributed 是过去式。
 
-12. **中文**：确保团队的安全是他的主要职责。
-   **英文**：Ensuring team safety is his primary duty.
-   > **解析**：duty 意为职责、分内之事。
+12. **中文**：两个方案都不行。
+   **英文**：Neither of the options works.
+   > **解析**：Neither of 表示"两者都不"，正式语体中谓语用单数 works。
 
-13. **中文**：管理层批准了新的工作时间安排方案。
-   **英文**：Management approved the new work schedule proposal.
-   > **解析**：management 意为管理层。
+13. **中文**：这两个职位你都可以申请。
+   **英文**：You can apply for either of the positions.
+   > **解析**：either of 表示"两者之一"；positions 用复数。
 
-14. **中文**：公司会为所有员工提供必要的工具。
-   **英文**：The company will provide necessary tools for all employees.
-   > **解析**：provide 意为提供。
+14. **中文**：他们谁都没有加班。
+   **英文**：None of them worked overtime.
+   > **解析**：None of 用于三者及以上；worked overtime 表示"加班"。
 
-15. **中文**：谈完之后，我们可以简短地休息一会儿吗？
-   **英文**：After the discussion, shall we take a brief break?
-   > **解析**：brief 意为简短的。
+15. **中文**：额外的努力得到了回报。
+   **英文**：The extra effort paid off.
+   > **解析**：pay off 表示"得到回报"；paid 是过去式。
 
-16. **中文**：我们开始讨论薪资细节好吗？
-   **英文**：Shall we start discussing the salary details?
-   > **解析**：shall we 意为我们……好吗。
+16. **中文**：你有升职的可能性吗？
+   **英文**：Is there any possibility of a promotion?
+   > **解析**：possibility of + 名词表示"……的可能性"；Is there 表示存在。
 
-17. **中文**：别担心，我们会一起解决这个问题。
-   **英文**：No worries, we will solve this issue together.
-   > **解析**：no worries 意为别担心、没关系。
+17. **中文**：别担心截止日期。
+   **英文**：Don't worry about the deadline.
+   > **解析**：worry about 是固定搭配；否定祈使句用 Don't 开头。
 
-18. **中文**：提高工资待遇存在很大的可能性。
-   **英文**：There is a strong possibility of getting a salary raise.
-   > **解析**：possibility 意为可能性。
+18. **中文**：没关系，我们改天再谈。
+   **英文**：No worries; we can talk another day.
+   > **解析**：No worries 是口语回应"没关系"；后接完整句子。
 
-19. **中文**：你不需要过于担心紧迫的截止日期。
-   **英文**：You don't need to worry about the tight deadline.
-   > **解析**：worry about 意为担心。
+19. **中文**：他是一名有认证的会计师。
+   **英文**：He is a certified accountant.
+   > **解析**：certified 作定语修饰 accountant；a 用于辅音音素开头的词前。
 
-20. **中文**：两位候选人中任一位都可以胜任这项新职责。
-   **英文**：Either of the two candidates can handle this new role.
-   > **解析**：either of 意为两者中任一。
+20. **中文**：请给我一个简短的答复。
+   **英文**：Please give me a brief answer.
+   > **解析**：brief 修饰 answer 作定语；give 接双宾语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. If you don't mind me asking, what is your expected salary?
-   > **中文**：如果你不介意我问的话，你的期望薪资是多少？
+1. Could you let me know your decision?
+   > **中文**：能告诉我你的决定吗？
 
-2. Do you happen to know the meeting schedule for management?
-   > **中文**：你碰巧知道管理团队的会议安排吗？
+2. Do you happen to have a pen?
+   > **中文**：你碰巧有支笔吗？
 
-3. Could you let me know the final decision by today?
-   > **中文**：请 contemporary 在今天结束前能告诉我最终决定吗？
+3. Do you have any idea who will manage the team?
+   > **中文**：你知道谁来管理团队吗？
 
-4. At this point, we are ready to negotiate the contract terms.
-   > **中文**：眼下，我们已经准备好协商劳动合同条款了。
+4. If I may ask, what is the pay like?
+   > **中文**：如果可以问的话，薪水怎么样？
 
-5. Hard work with overtime will eventually pay off.
-   > **中文**：加班的辛勤工作最终会得到回报。
+5. If you don't mind me asking, why did you switch jobs?
+   > **中文**：如果你不介意我问的话，你为什么换工作？
 
-6. We should negotiate our core duties during the project meeting.
-   > **中文**：我们应该在项目会议中协商核心职责。
+6. Shall we go over the contract?
+   > **中文**：我们过一遍合同好吗？
 
-7. Neither of the options fits our team's current needs.
-   > **中文**：这两个选项都不符合我们团队目前的需求。
+7. At this point, I need a clear answer.
+   > **中文**：目前，我需要一个明确的答复。
 
-8. In my capacity as project manager, I fully support this proposal.
-   > **中文**：以我作为项目经理的身份，我全权支持这项提议。
+8. We negotiated for two hours.
+   > **中文**：我们谈判了两个小时。
 
-9. She is a certified accountant with years of experience.
-   > **中文**：她是一位有证书的会计师，有多年的经验。
+9. She submitted her application today.
+   > **中文**：她今天提交了申请。
 
-10. Every employee is encouraged to contribute ideas to the project.
-   > **中文**：每位员工都被鼓励向项目贡献想法。
+10. The firm provides health insurance.
+   > **中文**：公司提供医疗保险。
 
-11. Please submit your expense report before Friday.
-   > **中文**：请在周五前提交你的费用报告。
+11. He contributes a lot to the team.
+   > **中文**：他为团队贡献很大。
 
-12. Ensuring team safety is his primary duty.
-   > **中文**：确保团队的安全是他的主要职责。
+12. Neither of the candidates was perfect.
+   > **中文**：两位候选人都不完美。
 
-13. Management approved the new work schedule proposal.
-   > **中文**：管理层批准了新的工作时间安排方案。
+13. Either of the two days is fine.
+   > **中文**：两天中的哪一天都行。
 
-14. The company will provide necessary tools for all employees.
-   > **中文**：公司会为所有员工提供必要的工具。
+14. None of the staff complained.
+   > **中文**：没有一个员工抱怨。
 
-15. After the discussion, shall we take a brief break?
-   > **中文**：谈完之后，我们可以简短地休息一会儿吗？
+15. Hard work always pays off.
+   > **中文**：努力工作总有回报。
 
-16. Shall we start discussing the salary details?
-   > **中文**：我们开始讨论薪资细节好吗？
+16. There is a possibility of a transfer.
+   > **中文**：有调岗的可能性。
 
-17. No worries, we will solve this issue together.
-   > **中文**：别担心，我们会一起解决这个问题。
+17. Don't worry about the training cost.
+   > **中文**：别担心培训费用。
 
-18. There is a strong possibility of getting a salary raise.
-   > **中文**：提高工资待遇存在很大的可能性。
+18. No worries; it happens to everyone.
+   > **中文**：没关系，谁都会遇到。
 
-19. You don't need to worry about the tight deadline.
-   > **中文**：你不需要过于担心紧迫的截止日期。
+19. She works overtime every week.
+   > **中文**：她每周都加班。
 
-20. Either of the two candidates can handle this new role.
-   > **中文**：两位候选人中任一位都可以胜任这项新职责。
+20. Keep your introduction brief.
+   > **中文**：你的自我介绍简短一些。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| negotiate | 谈判；协商 |
-| overtime | 加班；加班时间 |
-| duty | 职责；义务 |
-| management | 管理层；管理 |
-| capacity | 能力；职位；容量 |
-| certified | 有证书的；经认证的 |
-| contribute | 贡献；捐献 |
-| submit | 提交；呈递 |
-| provide | 提供 |
-| brief | 简短的；汇报 |
-| possibility | 可能性 |
-| pay off | 值得；有回报；还清 |
-| at this point | 在这一点上；眼下 |
-| if you don't mind me asking | 如果你不介意我问的话 |
+| --- | --- |
+| at this point | 目前 / 此时此刻 |
+| brief | 简短的 |
+| capacity | 能力 / 容量 |
+| certified | 有认证的 |
+| contribute | 贡献 |
+| could you let me know | 能告诉我吗 |
 | do you happen to | 你碰巧……吗 |
-| could you let me know | 你能告诉我吗 |
-| either of | 两者中任一 |
+| do you have any idea | 你知不知道 |
+| duty | 职责 |
+| either of | 两者之一 |
+| enter | 进入 / 入职 |
+| if I may ask | 如果可以问的话 |
+| if you don't mind me asking | 如果你不介意我问 |
+| management | 管理层 |
+| negotiate | 谈判 |
 | neither of | 两者都不 |
-| none of | 三者及以上都不 |
+| no worries | 没关系 |
+| none of | （三者以上）都不 |
+| overtime | 加班 |
+| pay off | 得到回报 |
+| possibility | 可能性 |
+| provide | 提供 |
+| shall we | 我们……好吗 |
+| submit | 提交 |
 | worry about | 担心 |
+| I | 我 |
+| you | 你 |
+| the | 那个 |
+| for | 为了 |
+| was | 是（过去式） |
+| is | 是 |
+| always | 总是 |
+| keep | 保持 |
+| every | 每个 |
 
 </quiz-matching>
 
@@ -256,202 +243,202 @@ could you let me know / do you happen to / if I may ask 是三种不同程度的
 
 ### 1
 
-If you don't mind me asking, what is your ____ salary?
+____ you let me know when the meeting starts?
 
-- [x] expected
-- [ ] at this point
-- [ ] brief
+- [x] Could
+- [ ] Cans
+- [ ] Musts
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **expected**。
+> **解析**：Could you + 动词原形是礼貌请求；Cans 和 Musts 不是正确形式。
 
 ### 2
 
-Do you happen to know the meeting schedule for ____?
+Do you ____ to know the manager's name?
 
-- [x] management
-- [ ] at this point
-- [ ] brief
+- [x] happen
+- [ ] happens
+- [ ] happened
 
-> **解析**：**management** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Do you 后接动词原形 happen；happen to 表示"碰巧"。
 
 ### 3
 
-Could you let me know the final ____ by today?
+Do you have any ____ how the system works?
 
-- [x] decision
-- [ ] at this point
-- [ ] brief
+- [x] idea
+- [ ] ideas of
+- [ ] ideal
 
-> **解析**：**decision** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Do you have any idea + 从句是固定句型；ideal 是形容词"理想的"。
 
 ### 4
 
-At this point, we are ready to ____ the contract terms.
+If I ____ ask, who approved this budget?
 
-- [x] negotiate
-- [ ] at this point
-- [ ] brief
+- [x] may
+- [ ] maybe
+- [ ] mayed
 
-> **解析**：**negotiate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：If I may ask 是固定礼貌表达；maybe 是副词，mayed 不存在。
 
 ### 5
 
-Hard work with ____ will eventually pay off.
+If you don't ____ me asking, what is your role?
 
-- [x] overtime
-- [ ] at this point
-- [ ] brief
+- [x] mind
+- [ ] minds
+- [ ] minded
 
-> **解析**：**overtime** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：don't 后接动词原形 mind；mind someone doing 是固定结构。
 
 ### 6
 
-We should ____ our core duties during the project meeting.
+____ we begin the interview now?
 
-- [x] negotiate
-- [ ] at this point
-- [ ] brief
+- [x] Shall
+- [ ] Shalls
+- [ ] Shoulds
 
-> **解析**：**negotiate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Shall we + 动词原形表示提议；Shalls 和 Shoulds 不存在。
 
 ### 7
 
-____ of the options fits our team's current needs.
+At this ____, we cannot offer more money.
 
-- [x] Neither
-- [ ] at this point
-- [ ] brief
+- [x] point
+- [ ] points
+- [ ] pointing
 
-> **解析**：**Neither** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：At this point 是固定搭配"目前"；复数和动名词不合结构。
 
 ### 8
 
-In my ____ as project manager, I fully support this proposal.
+They ____ a better contract last week.
 
-- [x] capacity
-- [ ] at this point
-- [ ] brief
+- [x] negotiated
+- [ ] negotiate
+- [ ] negotiating
 
-> **解析**：**capacity** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：last week 表示过去，用过去式 negotiated。
 
 ### 9
 
-She is a ____ accountant with years of experience.
+Please ____ the form before noon.
 
-- [x] certified
-- [ ] at this point
-- [ ] brief
+- [x] submit
+- [ ] submits
+- [ ] submitted
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **certified**。
+> **解析**：please 引导祈使句用动词原形 submit。
 
 ### 10
 
-Every employee is encouraged to ____ ideas to the project.
+The school ____ lunch for all students.
 
-- [x] contribute
-- [ ] at this point
-- [ ] brief
+- [x] provides
+- [ ] provide
+- [ ] providing
 
-> **解析**：**contribute** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 school 是单三，动词用 provides；provide for/with 是常见搭配。
 
 ### 11
 
-Please ____ your expense report before Friday.
+She ____ ideas to every meeting.
 
-- [x] submit
-- [ ] at this point
-- [ ] brief
+- [x] contributes
+- [ ] contribute
+- [ ] contributing
 
-> **解析**：**submit** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 She 是单三，动词用 contributes；contribute to 表示"贡献"。
 
 ### 12
 
-Ensuring team safety is his primary ____.
+____ of the two proposals was accepted.
 
-- [x] duty
-- [ ] at this point
-- [ ] brief
+- [x] Neither
+- [ ] None
+- [ ] Either
 
-> **解析**：**duty** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：两者都不用 Neither of；None of 用于三者以上，Either 表肯定"之一"与 was accepted 语境需否定。
 
 ### 13
 
-____ approved the new work schedule proposal.
+You may choose ____ of the two schedules.
 
-- [x] Management
-- [ ] at this point
-- [ ] brief
+- [x] either
+- [ ] neither
+- [ ] none
 
-> **解析**：**Management** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：表示"两者中任选其一"用 either；neither 和 none 表否定。
 
 ### 14
 
-The company will ____ necessary tools for all employees.
+____ of the three offices has a vacancy.
 
-- [x] provide
-- [ ] at this point
-- [ ] brief
+- [x] None
+- [ ] Neither
+- [ ] Either
 
-> **解析**：**provide** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：三者及以上都不用 None of；Neither 只用于两者。
 
 ### 15
 
-After the discussion, shall we take a ____ break?
+Staying late finally ____ off.
 
-- [x] brief
-- [ ] at this point
-- [ ] capacity
+- [x] paid
+- [ ] payed
+- [ ] paying
 
-> **解析**：**brief** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：pay off 的过去式是 paid（不规则）；payed 是错误拼写。
 
 ### 16
 
-Shall we start ____ the salary details?
+Is there any possibility ____ a raise next year?
 
-- [x] discussing
-- [ ] at this point
-- [ ] brief
+- [x] of
+- [ ] for to
+- [ ] at
 
-> **解析**：**discussing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：possibility of + 名词是固定搭配；其余两项结构错误。
 
 ### 17
 
-No worries, we will solve this issue ____.
+There is no need to worry ____ the interview.
 
-- [x] together
-- [ ] at this point
-- [ ] brief
+- [x] about
+- [ ] for to
+- [ ] on
 
-> **解析**：**together** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：worry about 是固定搭配；其余介词不合结构。
 
 ### 18
 
-There is a strong ____ of getting a salary raise.
+A: I forgot the file. B: No ____, I have a copy.
 
-- [x] possibility
-- [ ] at this point
-- [ ] brief
+- [x] worries
+- [ ] worry's
+- [ ] worriment
 
-> **解析**：**possibility** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：No worries 是固定口语回应；worriment 不是正确构词。
 
 ### 19
 
-You don't need to worry about the tight ____.
+She is a ____ nurse with ten years of experience.
 
-- [x] deadline
-- [ ] at this point
-- [ ] brief
+- [x] certified
+- [ ] certify
+- [ ] certifies
 
-> **解析**：**deadline** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰名词 nurse 需要形容词 certified；certify 是动词。
 
 ### 20
 
-Either of the two ____ can handle this new role.
+Please keep your summary short and ____.
 
-- [x] candidates
-- [ ] at this point
-- [ ] brief
+- [x] brief
+- [ ] briefly
+- [ ] brevity
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **candidates**。
+> **解析**：and 连接两个形容词，short and brief；briefly 是副词，brevity 是名词。
 
 </quiz-cloze>

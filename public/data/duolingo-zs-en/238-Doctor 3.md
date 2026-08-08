@@ -10,40 +10,35 @@ ache, act, as if, as though, bite, bruise, cautious, have, honey, itch, pass out
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"描述症状和感受"展开，场景是就医或关心他人身体。词表里有症状词汇（ache, itch, bruise, bite, wound, sweat, the chills, weakness, vision），有严重程度与状态（severe, unconscious, pass out, suffer, recovery），也有描述与比喻表达（as if, as though, act, cautious, upset, wear off, wrap）。你可以用这些词描述症状：I have a severe ache and my vision is upset. / I feel as if I'm going to pass out. / She's acting as though nothing happened, but she's suffering. / The bruise is itchy—that means it's healing. / I had the chills and was sweating; I nearly passed out in the waiting room. / The doctor said to wrap the wound and be cautious during recovery.
+本单元的主题是"描述症状与感受"，场景在诊所。词表可以分成四组：症状名词（ache, bruise, itch, sweat, the chills, weakness, wound, bite）、病情与状态（severe, unconscious, pass out, suffer, recovery, vision）、感受与态度（upset, cautious, act, honey）、以及比喻与处置（as if, as though, wear off, wrap, have, waiting room）。拼起来就是一段完整的就医描述：I have a severe ache and the chills. I feel as if I am going to pass out.
 
-这里值得注意 as if 和 as though 基本同义，都表示"好像、仿佛"，用于描述主观感受或比喻：I feel as if my head is on fire. / He acts as though he's fine. 另外，wear off 表示（药效、感觉）"逐渐消退"：The painkiller is wearing off.
+语法主线是 as if / as though 引导的方式状语从句，意思是"仿佛、好像"：You look as if you have a fever. 两个短语意思相同，as though 稍正式。另一条主线是动词与症状的搭配：have a headache, suffer from pain, pass out（昏倒）, wear off（药效消退）。
 
-学完本单元，你可以用英语详细描述身体症状、表达不适感受，并理解医生的建议。
+学完这个单元，你能用英语向医生描述疼痛、眩晕、发冷等症状，也能表达担忧和安抚他人。
 
 ## Tips
 
-- **ache / itch / bruise** — ache 是持续隐痛，itch 是发痒，bruise 是瘀伤。搭配：a headache/stomachache, an itch, a bruise on my arm。I have a severe ache. / The bite itches. / I got a bruise from the fall. 注意 ache 常与身体部位合成词：headache, toothache, backache。
+- **ache / itch / bruise / wound** — 四个疼痛与伤口的词。ache 是持续的隐痛，常组成复合词：headache, stomachache；itch 是"痒"；bruise 是"淤青"；wound 是"开放性伤口"。ache 和 itch 既可作名词也可作动词：My head aches.
 
-- **as if / as though** — 都表"好像、仿佛"，基本同义。搭配：feel as if..., act as though...。I feel as if I'm going to pass out. / He acts as though nothing is wrong. 注意 as if / as though 后可接真实情况（陈述语气）或虚拟（过去式）：as if he were dying（夸张/虚拟）。
+- **the chills / sweat / fever** — 感冒症状词组。the chills 指"发冷、寒战"，常用 have the chills；sweat 是"出汗"，名词动词同形：I was sweating all night. 搭配说 fever 和 chills 常一起出现。
 
-- **pass out / unconscious** — pass out = 晕倒（动词短语），unconscious = 失去意识的（形容词）。搭配：pass out from pain, be unconscious。I nearly passed out in the waiting room. / She was unconscious for a minute. 注意 pass out 是瞬间动作，unconscious 是持续状态。
+- **have** — 描述症状的万能动词：have a cough, have an ache, have the chills。英语里症状多用 have 引出，而中文说"我头疼"直译成 I ache 反而少见。
 
-- **the chills / sweat / fever** — the chills = 发冷/寒战，sweat = 出汗。搭配：have the chills, break out in a sweat, night sweats。I had the chills and was sweating at the same time. 注意 the chills 通常用复数，搭配 have：I have the chills.（× I have chills.）
+- **pass out / unconscious** — pass out 是口语"昏倒"：He passed out in the heat. unconscious 是形容词"失去意识的"：He was unconscious for a minute. 两者一个动词短语、一个形容词，常配合使用。
 
-- **severe / suffer / recovery** — severe 是严重的，suffer 是遭受/受苦，recovery 是恢复。搭配：severe pain, suffer from, a full recovery。The pain is severe. / She's suffering from the flu. / Recovery takes time. 注意 suffer 搭配 from：suffer from a disease。
+- **severe / weakness / suffer** — severe 是"剧烈的、严重的"：severe pain；weakness 是"虚弱"；suffer 常与 from 搭配：suffer from back pain（遭受背痛之苦）。
 
-- **wear off** — （药效、感觉）逐渐消退。搭配：the painkiller wears off, the effect wears off。The medicine is wearing off—I can feel the ache again. 注意 wear off 是不及物的，不接宾语。类似：fade away。
+- **recovery / wear off** — recovery 是"康复"：She is making a good recovery. wear off 指（药效、感觉）"逐渐消退"：The painkiller is wearing off. wear 本意"穿、磨损"，off 表示脱落。
 
-- **wound / wrap / bite** — wound 是伤口（较深/正式），wrap 是包扎/包裹，bite 是咬伤。搭配：a deep wound, wrap the wound, a bug bite。The doctor wrapped the wound. / I got a bite on my leg. 注意 wound 比 cut 更正式、更严重；wrap 在医疗语境 = 包扎。
+- **as if / as though** — 都表示"仿佛"，引导从句：It feels as if my leg is broken. 口语中常用 as if；as though 稍书面。若从句内容与事实相反，可用虚拟语气：He acts as if he were a doctor.
 
-- **vision / weakness** — vision 是视力/视觉，weakness 是虚弱/无力。搭配：blurred vision, feel weakness, muscle weakness。My vision went blurry before I passed out. / I felt weakness in my legs. 注意 vision 比 eyesight 更正式，weakness 比 feeling weak 更名词化。
+- **act / cautious** — act 作动词"表现、行动"：You are acting strange. cautious 是"谨慎的"：Be cautious with the medicine. 名词 caution。
 
-- **waiting room** — 候诊室。搭配：in the waiting room, sit in the waiting room。I waited an hour in the waiting room. 构词：waiting（等待）+ room（房间）。注意 waiting room 不仅用于医院，也用于牙医、面试等场合。
+- **upset / honey** — upset 是"心烦的、不适的"：an upset stomach（肠胃不适）；honey 本意"蜂蜜"，口语里是对亲近的人的昵称"亲爱的"，医生和家属安抚时也常用。
 
-- **cautious / upset / act** — cautious 是谨慎的，upset 是难过的/不舒服的，act 是表现/行为。搭配：be cautious, feel upset, act normal。Be cautious during recovery. / I'm upset about the diagnosis. / She's acting as if nothing happened. 注意 upset 既可指情绪（难过）也可指身体（不舒服）：an upset stomach。
-
-- **honey** — 蜂蜜；亲爱的（昵称）。搭配：a spoon of honey, Hey honey。Honey can help a sore throat. / Are you okay, honey? 注意 honey 作昵称时非常亲密，用于家人或伴侣之间。
-
-- **have** — 在医疗语境中表"有（症状）"。搭配：have a fever, have the chills, have a bruise。I have a severe headache. / She has a wound on her arm. 注意英语说 have a cold / have the flu，不说 × I am cold（那是"我觉得冷"）。
+- **vision / waiting room / wrap / bite** — vision 是"视力"；waiting room 是候诊室；wrap 是"包扎、裹住"：wrap the wound with a bandage；bite 是"叮咬"：an insect bite。
 
 ## 练习
 
@@ -61,176 +56,189 @@ ache, act, as if, as though, bite, bruise, cautious, have, honey, itch, pass out
 
 <quiz-sentence-builder>
 
-1. **中文**：我觉得我仿佛快要因为这剧烈的隐痛而晕过去了。
-   **英文**：I feel as if I am going to pass out from this severe ache.
-   > **解析**：pass out 意为晕倒。
+1. **中文**：我浑身发冷。
+   **英文**：I have the chills.
+   > **解析**：have the chills 是固定搭配"发冷、寒战"；chills 用复数形式。
 
-2. **中文**：他表现得好像他根本没有任何虚弱似的。
-   **英文**：He acted as though he had no weakness at all.
-   > **解析**：as though 意为仿佛、好像。
+2. **中文**：我疼得厉害。
+   **英文**：I have a severe ache.
+   > **解析**：severe 修饰 ache 作定语；a severe ache 整体作 have 的宾语。
 
-3. **中文**：病人被带进急救室时处于无意识状态。
-   **英文**：The patient was unconscious when brought into the emergency room.
-   > **解析**：unconscious 意为失去意识的。
+3. **中文**：他昨晚昏倒了。
+   **英文**：He passed out last night.
+   > **解析**：pass out 是动词短语"昏倒"，passed 是过去式；last night 是时间状语。
 
-4. **中文**：她冒冷汗，整晚发冷打寒战。
-   **英文**：She broke out in a cold sweat and had the chills all night.
-   > **解析**：the chills 意为发冷、寒战。
+4. **中文**：你看起来好像发烧了。
+   **英文**：You look as if you have a fever.
+   > **解析**：as if 引导方式状语从句"仿佛"；look 是系动词，后接从句。
 
-5. **中文**：医生仔细包扎了他腿上的深伤口。
-   **英文**：The doctor wrapped the deep wound on his leg carefully.
-   > **解析**：wrap 意为包扎。
+5. **中文**：他表现得好像自己是医生一样。
+   **英文**：He acts as though he were a doctor.
+   > **解析**：as though 引导从句，内容与事实相反时用虚拟语气 were。
 
-6. **中文**：止痛药将在大约四小时后逐渐消退。
-   **英文**：The painkiller will wear off in about four hours.
-   > **解析**：wear off 意为（药效）逐渐消退。
+6. **中文**：止痛药的药效正在消退。
+   **英文**：The medicine is wearing off.
+   > **解析**：wear off 是动词短语"消退"，现在进行时 is wearing off 表示正在发生。
 
-7. **中文**：他正遭受视力模糊和胃部不适的折磨。
-   **英文**：He is suffering from blurred vision and stomach upset.
-   > **解析**：vision 意为视力。
+7. **中文**：她正在从手术中康复。
+   **英文**：She is recovering from the surgery.
+   > **解析**：recover from 是固定搭配"从……恢复"；现在进行时表示当前状态。
 
-8. **中文**：喝带蜂蜜的温茶有助于舒缓咽喉痛。
-   **英文**：Drinking warm tea with honey can help soothe a sore throat.
-   > **解析**：honey 意为蜂蜜。
+8. **中文**：我遭受背痛之苦已经很久了。
+   **英文**：I suffer from back pain.
+   > **解析**：suffer from 是固定搭配"遭受……之苦"；back pain 作宾语。
 
-9. **中文**：我们在拥挤的候诊室里等了一个多小时。
-   **英文**：We waited in the crowded waiting room for over an hour.
-   > **解析**：waiting room 意为候诊室。
+9. **中文**：这个伤口需要包扎起来。
+   **英文**：The wound needs to be wrapped.
+   > **解析**：need to be wrapped 是不定式的被动形式，表示"需要被包扎"。
 
-10. **中文**：如果你的皮肤开始发痒，要小心昆虫叮咬。
-   **英文**：Be cautious with insect bites if your skin begins to itch.
-   > **解析**：cautious 意为谨慎的、小心的。
+10. **中文**：我的视力最近变差了。
+   **英文**：My vision has become worse.
+   > **解析**：现在完成时 has become 表示变化；worse 是 bad 的比较级。
 
-11. **中文**：摔倒后，他的手臂上有一大块瘀伤。
-   **英文**：He had a large bruise on his arm after the fall.
-   > **解析**：bruise 意为瘀伤。
+11. **中文**：别担心，亲爱的。
+   **英文**：Don't worry, honey.
+   > **解析**：Don't + 动词原形构成否定祈使句；honey 是称呼语，用逗号隔开。
 
-12. **中文**：我们祝愿他早日完全康复。
-   **英文**：We wish him a speedy and complete recovery.
-   > **解析**：recovery 意为康复、恢复。
+12. **中文**：他对用药很谨慎。
+   **英文**：He is cautious with the medicine.
+   > **解析**：be cautious with 是固定搭配"对……谨慎"；cautious 作表语。
 
-13. **中文**：跑完马拉松后，她感到双腿无力。
-   **英文**：She felt weakness in her legs after running the marathon.
-   > **解析**：weakness 意为虚弱、无力。
+13. **中文**：虫子咬的地方很痒。
+   **英文**：The insect bite itches.
+   > **解析**：bite 这里作名词"叮咬处"；itch 作动词"发痒"，主语单数加 es。
 
-14. **中文**：她手臂上的那个看起来像蚊子叮咬。
-   **英文**：It looked like a mosquito bite on her arm.
-   > **解析**：bite 意为叮咬。
+14. **中文**：他失去意识了，叫医生！
+   **英文**：He is unconscious; call a doctor!
+   > **解析**：unconscious 是形容词作表语；后半句是祈使句。
 
-15. **中文**：剧烈的胃痛使他难以集中注意力。
-   **英文**：The severe stomach ache made it hard for him to focus.
-   > **解析**：ache 意为持续隐痛。
+15. **中文**：她感到很虚弱。
+   **英文**：She feels a great weakness.
+   > **解析**：feel 后接名词 weakness 作宾语；a great 修饰不可数感受的强烈程度。
 
-16. **中文**：药效过了一段时间才消退。
-   **英文**：The medicine took a while to wear off.
-   > **解析**：wear off 意为消退。
+16. **中文**：我有点肠胃不适。
+   **英文**：I have an upset stomach.
+   > **解析**：upset stomach 是固定搭配"肠胃不适"；upset 作定语修饰 stomach。
 
-17. **中文**：他发高烧，出了一身汗。
-   **英文**：He had a high fever and broke out in a sweat.
-   > **解析**：sweat 意为出汗、汗水。
+17. **中文**：淤青正在慢慢消退。
+   **英文**：The bruise is fading slowly.
+   > **解析**：现在进行时 is fading 表示正在变化；slowly 是副词修饰 fading。
 
-18. **中文**：她对意想不到的医疗检查结果感到不安。
-   **英文**：She was upset about the unexpected medical test results.
-   > **解析**：upset 意为不安的、难过的。
+18. **中文**：服药后出点汗是好事。
+   **英文**：It is good to sweat after the medicine.
+   > **解析**：It 是形式主语，真正主语是 to sweat；after the medicine 是时间状语。
 
-19. **中文**：他感觉自己仿佛已经从流感中康复了。
-   **英文**：He felt as though he had recovered from the flu.
-   > **解析**：as though 意为仿佛。
+19. **中文**：请先到候诊室等候。
+   **英文**：Please wait in the waiting room.
+   > **解析**：waiting room 是复合名词"候诊室"；in 表示地点。
 
-20. **中文**：仔细清洗伤口以防感染。
-   **英文**：Clean the wound carefully to prevent infection.
-   > **解析**：wound 意为伤口。
+20. **中文**：你的表现很奇怪。
+   **英文**：You are acting strange.
+   > **解析**：现在进行时 are acting 表示当前表现；strange 作补语描述表现的状态。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I feel as if I am going to pass out from this severe ache.
-   > **中文**：我觉得我仿佛快要因为这剧烈的隐痛而晕过去了。
+1. I have the chills and a fever.
+   > **中文**：我发冷还发烧。
 
-2. He acted as though he had no weakness at all.
-   > **中文**：他表现得好像他根本没有任何虚弱似的。
+2. My head aches badly.
+   > **中文**：我的头很痛。
 
-3. The patient was unconscious when brought into the emergency room.
-   > **中文**：病人被带进急救室时处于无意识状态。
+3. He passed out at work.
+   > **中文**：他在上班时昏倒了。
 
-4. She broke out in a cold sweat and had the chills all night.
-   > **中文**：她冒冷汗，整晚发冷打寒战。
+4. You look as if you are sick.
+   > **中文**：你看起来好像病了。
 
-5. The doctor wrapped the deep wound on his leg carefully.
-   > **中文**：医生仔细包扎了他腿上的深伤口。
+5. The pain is wearing off.
+   > **中文**：疼痛正在消退。
 
-6. The painkiller will wear off in about four hours.
-   > **中文**：止痛药将在大约四小时后逐渐消退。
+6. She is making a good recovery.
+   > **中文**：她康复得很好。
 
-7. He is suffering from blurred vision and stomach upset.
-   > **中文**：他正遭受视力模糊和胃部不适的折磨。
+7. I suffer from back pain.
+   > **中文**：我遭受背痛之苦。
 
-8. Drinking warm tea with honey can help soothe a sore throat.
-   > **中文**：喝带蜂蜜的温茶有助于舒缓咽喉痛。
+8. Please wrap the wound.
+   > **中文**：请把伤口包扎起来。
 
-9. We waited in the crowded waiting room for over an hour.
-   > **中文**：我们在拥挤的候诊室里等了一个多小时。
+9. My vision is getting worse.
+   > **中文**：我的视力正在变差。
 
-10. Be cautious with insect bites if your skin begins to itch.
-   > **中文**：如果你的皮肤开始发痒，要小心昆虫叮咬。
+10. Don't worry, honey.
+   > **中文**：别担心，亲爱的。
 
-11. He had a large bruise on his arm after the fall.
-   > **中文**：摔倒后，他的手臂上有一大块瘀伤。
+11. Be cautious with the new medicine.
+   > **中文**：对新药要谨慎一些。
 
-12. We wish him a speedy and complete recovery.
-   > **中文**：我们祝愿他早日完全康复。
+12. The bite itches a lot.
+   > **中文**：叮咬的地方很痒。
 
-13. She felt weakness in her legs after running the marathon.
-   > **中文**：跑完马拉松后，她感到双腿无力。
+13. He was unconscious for a minute.
+   > **中文**：他失去意识了一分钟。
 
-14. It looked like a mosquito bite on her arm.
-   > **中文**：她手臂上的那个看起来像蚊子叮咬。
+14. She feels weakness in her legs.
+   > **中文**：她感到双腿无力。
 
-15. The severe stomach ache made it hard for him to focus.
-   > **中文**：剧烈的胃痛使他难以集中注意力。
+15. I have an upset stomach.
+   > **中文**：我肠胃不舒服。
 
-16. The medicine took a while to wear off.
-   > **中文**：药效过了一段时间才消退。
+16. The bruise looks bad.
+   > **中文**：这块淤青看起来很严重。
 
-17. He had a high fever and broke out in a sweat.
-   > **中文**：他发高烧，出了一身汗。
+17. I sweat a lot at night.
+   > **中文**：我夜里出汗很多。
 
-18. She was upset about the unexpected medical test results.
-   > **中文**：她对意想不到的医疗检查结果感到不安。
+18. Please sit in the waiting room.
+   > **中文**：请在候诊室坐一会儿。
 
-19. He felt as though he had recovered from the flu.
-   > **中文**：他感觉自己仿佛已经从流感中康复了。
+19. It feels as though my arm is broken.
+   > **中文**：感觉好像我的胳膊断了。
 
-20. Clean the wound carefully to prevent infection.
-   > **中文**：仔细清洗伤口以防感染。
+20. His condition is severe.
+   > **中文**：他的情况很严重。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| ache | 持续隐痛；疼痛 |
-| bruise | 瘀伤；青肿 |
+| --- | --- |
+| ache | 隐痛 |
+| act | 表现 / 行动 |
+| as if | 仿佛 |
+| as though | 好像 |
+| bite | 叮咬 |
+| bruise | 淤青 |
+| cautious | 谨慎的 |
+| have | 有 |
+| honey | 蜂蜜 / 亲爱的 |
 | itch | 发痒 |
-| as if | 好像；仿佛 |
-| as though | 仿佛；似乎 |
-| pass out | 晕倒 |
+| pass out | 昏倒 |
+| recovery | 康复 |
+| severe | 严重的 |
+| suffer | 遭受 |
+| sweat | 出汗 |
+| the chills | 发冷 / 寒战 |
 | unconscious | 失去意识的 |
-| the chills | 发冷；寒战 |
-| sweat | 出汗；汗水 |
-| severe | 严重的；剧烈的 |
-| suffer | 遭受；受苦 |
-| recovery | 康复；恢复 |
-| wear off | （药效/感觉）逐渐消退 |
-| wound | 伤口 |
-| wrap | 包扎；包裹 |
-| bite | 叮咬；咬伤 |
-| vision | 视力；视觉 |
-| weakness | 虚弱；无力 |
+| upset | 心烦的 / 不适的 |
+| vision | 视力 |
 | waiting room | 候诊室 |
-| cautious | 谨慎的；小心的 |
+| weakness | 虚弱 |
+| wear off | 消退 |
+| wound | 伤口 |
+| wrap | 包扎 |
+| I | 我 |
+| he | 他 |
+| she | 她 |
+| you | 你 |
+| look | 看起来 |
+| from | 从 |
+| with | 与 |
+| for | 持续 |
+| please | 请 |
 
 </quiz-matching>
 
@@ -238,202 +246,202 @@ ache, act, as if, as though, bite, bruise, cautious, have, honey, itch, pass out
 
 ### 1
 
-I feel as if I am going to pass out from this ____ ache.
+I have the ____ and a high fever.
 
-- [x] severe
-- [ ] ache
-- [ ] act
+- [x] chills
+- [ ] chill
+- [ ] chilled
 
-> **解析**：**severe** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the chills 是固定搭配"寒战"，用复数；chill 单数和 chilled 都不用于此短语。
 
 ### 2
 
-He acted as though he had no ____ at all.
+My stomach ____ after the meal.
 
-- [x] weakness
+- [x] aches
 - [ ] ache
-- [ ] act
+- [ ] aching
 
-> **解析**：**weakness** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 stomach 是单数，动词用 aches；ache 缺 s，aching 不能单独作谓语。
 
 ### 3
 
-The patient was ____ when brought into the emergency room.
+He ____ out in the hot sun.
 
-- [x] unconscious
-- [ ] ache
-- [ ] act
+- [x] passed
+- [ ] passes
+- [ ] passing
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **unconscious**。
+> **解析**：叙述过去事件用过去式 passed out；passes 是一般现在时，passing 不能单独作谓语。
 
 ### 4
 
-She broke out in a cold ____ and had the chills all night.
+You look ____ you have a cold.
 
-- [x] sweat
-- [ ] ache
-- [ ] act
+- [x] as if
+- [ ] as of
+- [ ] as to
 
-> **解析**：**sweat** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：as if 引导"仿佛"从句；as of 表示"自……起"，as to 表示"关于"。
 
 ### 5
 
-The doctor wrapped the deep ____ on his leg carefully.
+The effect of the medicine is wearing ____.
 
-- [x] wound
-- [ ] ache
-- [ ] act
+- [x] off
+- [ ] up
+- [ ] on
 
-> **解析**：**wound** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：wear off 是固定搭配"消退"；wear up 和 wear on 无此含义。
 
 ### 6
 
-The ____ will wear off in about four hours.
+She is making a good ____ from the illness.
 
-- [x] painkiller
-- [ ] ache
-- [ ] act
+- [x] recovery
+- [ ] recover
+- [ ] recovered
 
-> **解析**：**painkiller** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：a good 后需要名词 recovery；recover 是动词，recovered 是过去式。
 
 ### 7
 
-He is suffering from blurred ____ and stomach upset.
+Many people ____ from allergies in spring.
 
-- [x] vision
-- [ ] ache
-- [ ] act
+- [x] suffer
+- [ ] suffers
+- [ ] suffering
 
-> **解析**：**vision** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 people 是复数，动词用原形 suffer；suffers 是单三形式，suffering 不能单独作谓语。
 
 ### 8
 
-Drinking warm tea with ____ can help soothe a sore throat.
+The nurse will ____ the wound with a bandage.
 
-- [x] honey
-- [ ] ache
-- [ ] act
+- [x] wrap
+- [ ] wrapped
+- [ ] wrapping
 
-> **解析**：**honey** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：will 后接动词原形 wrap；wrapped 是过去式，wrapping 是动名词。
 
 ### 9
 
-We waited in the ____ waiting room for over an hour.
+My ____ has become worse this year.
 
-- [x] crowded
-- [ ] ache
-- [ ] act
+- [x] vision
+- [ ] visions
+- [ ] visible
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **crowded**。
+> **解析**：指"视力"用单数名词 vision；visible 是形容词，visions 是复数不合语义。
 
 ### 10
 
-Be ____ with insect bites if your skin begins to itch.
+Take it easy, ____. Everything will be fine.
 
-- [x] cautious
-- [ ] ache
-- [ ] act
+- [x] honey
+- [ ] honey's
+- [ ] honeys
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **cautious**。
+> **解析**：honey 作称呼语用原形；所有格和复数都不用于称呼。
 
 ### 11
 
-He had a large ____ on his arm after the fall.
+Be ____ when you take the new medicine.
 
-- [x] bruise
-- [ ] ache
-- [ ] act
+- [x] cautious
+- [ ] caution
+- [ ] cautiously
 
-> **解析**：**bruise** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be 动词后需要形容词 cautious 作表语；caution 是名词，cautiously 是副词。
 
 ### 12
 
-We wish him a speedy and complete ____.
+The insect ____ on my arm is red.
 
-- [x] recovery
-- [ ] ache
-- [ ] act
+- [x] bite
+- [ ] bit
+- [ ] bitten
 
-> **解析**：**recovery** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：指"叮咬的痕迹"用名词 bite；bit 是过去式，bitten 是过去分词。
 
 ### 13
 
-She felt ____ in her legs after running the marathon.
+He was ____ for two minutes after the fall.
 
-- [x] weakness
-- [ ] ache
-- [ ] act
+- [x] unconscious
+- [ ] unconsciousness
+- [ ] unconsciously
 
-> **解析**：**weakness** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后需要形容词 unconscious；unconsciousness 是名词，unconsciously 是副词。
 
 ### 14
 
-It looked like a mosquito ____ on her arm.
+She felt a sudden ____ in her legs.
 
-- [x] bite
-- [ ] ache
-- [ ] act
+- [x] weakness
+- [ ] weak
+- [ ] weakly
 
-> **解析**：**bite** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a sudden 后需要名词 weakness；weak 是形容词，weakly 是副词。
 
 ### 15
 
-The ____ stomach ache made it hard for him to focus.
+I have an ____ stomach today.
 
-- [x] severe
-- [ ] ache
-- [ ] act
+- [x] upset
+- [ ] upsetting
+- [ ] upsetted
 
-> **解析**：**severe** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：upset stomach 是固定搭配，upset 作定语；upsetted 不是正确拼写。
 
 ### 16
 
-The ____ took a while to wear off.
+The ____ on his leg turned yellow.
 
-- [x] medicine
-- [ ] ache
-- [ ] act
+- [x] bruise
+- [ ] bruised
+- [ ] bruising
 
-> **解析**：**medicine** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The 后需要名词 bruise（淤青）；bruised 是过去式，bruising 是动名词。
 
 ### 17
 
-He had a high fever and broke out in a ____.
+The patient is in a ____ condition.
 
-- [x] sweat
-- [ ] ache
-- [ ] act
+- [x] severe
+- [ ] severely
+- [ ] severity
 
-> **解析**：**sweat** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰名词 condition 需要形容词 severe；severely 是副词，severity 是名词。
 
 ### 18
 
-She was ____ about the unexpected medical test results.
+He ____ as though he knows everything.
 
-- [x] upset
-- [ ] ache
+- [x] acts
 - [ ] act
+- [ ] acting
 
-> **解析**：**upset** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 He 是单三，动词用 acts；as though 引导"好像"从句。
 
 ### 19
 
-He felt as though he had ____ from the flu.
+Please ____ in the waiting room for a moment.
 
-- [x] recovered
-- [ ] ache
-- [ ] act
+- [x] wait
+- [ ] waits
+- [ ] waiting
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **recovered**。
+> **解析**：please 引导祈使句用动词原形 wait；waits 是单三，waiting 是动名词。
 
 ### 20
 
-Clean the ____ carefully to prevent infection.
+The itch keeps me awake ____ night.
 
-- [x] wound
-- [ ] ache
-- [ ] act
+- [x] at
+- [ ] in
+- [ ] on
 
-> **解析**：**wound** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：at night 是固定搭配；in 和 on 不与 night 构成此表达。
 
 </quiz-cloze>

@@ -10,40 +10,35 @@ ahead, beside, bright, dirt, dolphin, earth, giraffe, go back, humid, jungle, ju
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"询问丛林动物"展开。核心是动物和自然表达：Have you ever ridden a horse through the jungle?（你骑过马穿过丛林吗？）、The parrot was sitting beside the tiger, singing loudly.（鹦鹉坐在老虎旁边，大声唱歌。）、Why is the environment so humid here?（为什么这里的环境这么潮湿？）、The dolphin and the penguin are my favorite animals.（海豚和企鹅是我最喜欢的动物。）。
+本单元的主题是"询问丛林动物"，词表可以分成三组：动物（tiger, giraffe, zebra, parrot, dolphin, penguin）、自然环境（jungle, humid, earth, the environment, dirt, stone, leaf, bright, smell）、以及方位与疑问（ahead, beside, go back, just, loudly, quietly, ridden, who, why）。拼起来就是一场丛林探险：Look ahead! A tiger is walking quietly beside the river. The parrot is calling loudly in the bright, humid jungle.
 
-词表里有动物词汇（tiger, giraffe, zebra, parrot, dolphin, penguin）和自然词汇（jungle, humid, earth, leaf）。你可以练习：Go ahead—don't go back! / The stone was covered in dirt. / The flowers smell bright and fresh. / Who saw the giraffe?
+语法主线有两个。一是方位表达 ahead（前方）、beside（旁边）与 go back（回去）的方位感：There is a zebra ahead. / Don't go back now. 二是疑问词 who（谁）与 why（为什么）提问：Who is feeding the giraffe? Why is the parrot so loud? 注意 leaf 的复数是不规则变化 leaves（f/fe → ves）。另外 ridden 是 ride 的过去分词，常与 have/has 连用。
 
-ridden 是 ride 的过去分词。the environment 表示"环境"。
+学完这单元，你能用英语谈论不同动物生活在哪里、它们在做什么，还能表达对环境的观察。
 
 ## Tips
 
-- **jungle / humid / the environment** — 丛林 / 潮湿的 / 环境。搭配：in the jungle, humid weather, protect the environment。例句：The jungle is hot and humid. / We need to protect the environment. 注意 humid 表示"潮湿"（天气），damp 表示"潮湿"（物体）。
+- **tiger / giraffe / zebra** — 三种大型动物。tiger 老虎，丛林之王；giraffe 长颈鹿，注意双 f；zebra 斑马，美式读 /ˈziːbrə/。复数直接加 s：two tigers。
 
-- **tiger / giraffe / zebra** — 老虎 / 长颈鹿 / 斑马。搭配：a wild tiger, a tall giraffe, a zebra。例句：The tiger is dangerous. / Giraffes are the tallest animals. / Zebras have black and white stripes. 注意动物名词通常可数。
+- **parrot / dolphin / penguin** — parrot 鹦鹉，会学舌；dolphin 海豚，生活在海里；penguin 企鹅，生活在寒冷地带。三种动物分别代表丛林、海洋与极地。
 
-- **parrot / dolphin / penguin** — 鹦鹉 / 海豚 / 企鹅。搭配：a colorful parrot, a dolphin, a penguin。例句：The parrot can talk! / Dolphins are very smart. / Penguins can't fly. 注意 dolphin 的发音：/ˈdɑːlfɪn/。
+- **jungle / humid** — jungle 丛林、密林，比 forest 更湿热茂密。humid 潮湿的，描述气候：The jungle is hot and humid. 名词 humidity。
 
-- **ridden / ride** — 骑过。ride → rode → ridden。搭配：ridden a horse, have you ever ridden...? 例句：Have you ever ridden a camel? / I've ridden a horse through the jungle. 注意 ridden 是过去分词（用于完成时）。
+- **the environment / earth** — the environment 环境，常带定冠词：protect the environment。earth 地球、土地：on the earth。Earth 作星球名首字母可大写。
 
-- **loudly / quietly / just** — 大声地 / 安静地 / 只是。搭配：sing loudly, walk quietly, just now。例句：The parrot sang loudly. / Walk quietly in the jungle. / I just saw a tiger! 注意 loudly 和 quietly 是反义词。
+- **leaf / dirt / stone** — leaf 叶子，复数 leaves（不规则）：green leaves。dirt 泥土、污垢。stone 石头，可数：a pile of stones。
 
-- **beside / ahead / go back** — 旁边 / 前面 / 回去。搭配：beside the river, go ahead, go back home。例句：The tiger was beside the tree. / Go ahead—I'll follow. / Let's go back. 注意 beside = next to（旁边），besides = 除了。
+- **bright / smell** — bright 明亮的、鲜艳的：bright colors。smell 闻、气味，既是动词也是名词：The flowers smell good. / a strange smell。smell 作系动词后接形容词：It smells nice（不用 nicely）。
 
-- **leaf / stone / dirt** — 叶子 / 石头 / 泥土。搭配：a green leaf, a big stone, in the dirt。例句：The leaf fell from the tree. / There's a stone on the path. / The ground is covered in dirt. 注意 leaf 的复数是 leaves。
+- **ahead / beside / go back** — ahead 在前方，放句末或名词前：the road ahead。beside 在……旁边：beside the river。go back 回去：Let's go back. 注意 beside（旁边）与 besides（此外）别混。
 
-- **smell / bright / earth** — 闻起来 / 明亮的 / 地球。搭配：smell nice, bright colors, the earth。例句：The flowers smell amazing. / The parrot has bright feathers. / We need to protect the earth. 注意 smell 作系动词后接形容词。
+- **loudly / quietly / just** — loudly 大声地，quietly 安静地，一对反义副词：The parrot sings loudly. Walk quietly. just 刚刚、仅仅：I just saw a tiger.
 
-- **who / why / just** — 谁 / 为什么 / 只是。搭配：Who saw it? / Why is it...? / just now。例句：Who saw the giraffe? / Why is the jungle so humid? / I just heard a tiger! 注意 who 和 why 引导特殊疑问句。
+- **who / why** — who 问人：Who is riding the elephant? why 问原因：Why do zebras have stripes? 回答 why 用 because。
 
-- **dolphin / penguin / parrot** — 海豚 / 企鹅 / 鹦鹉。搭配：a dolphin, a penguin, a parrot。例句：Dolphins live in the ocean. / Penguins live in cold places. / The parrot is colorful. 注意这些动物来自不同环境。
-
-- **go back / ahead / beside** — 回去 / 前进 / 旁边。搭配：go back, go ahead, beside me。例句：Don't go back—keep going! / Go ahead, I'll follow. / The zebra is beside the giraffe. 注意 go ahead 可表示"请便/继续"。
-
-- **tiger / jungle / environment** — 老虎 / 丛林 / 环境。搭配：a wild tiger, in the jungle, the environment。例句：Tigers live in the jungle. / The jungle environment is humid. / Protect the environment! 注意 environment 前加 the。
+- **ridden** — ride 的过去分词（不规则 ride → rode → ridden），与 have/has 连用：She has ridden a horse before.
 
 ## 练习
 
@@ -61,149 +56,149 @@ ridden 是 ride 的过去分词。the environment 表示"环境"。
 
 <quiz-sentence-builder>
 
-1. **中文**：在潮湿的丛林深处，老虎和斑马在泥土上前行。  
-   **英文**：In the humid jungle, the tiger and zebra walked on dirt.
-   > **解析**：humid 表示“潮湿的”；jungle 表示“丛林”；tiger 表示“老虎”；zebra 表示“斑马”；dirt 表示“泥土”。
+1. **中文**：看前面，有一只老虎。
+   **英文**：Look ahead. There is a tiger.
+   > **解析**：ahead 是方位副词修饰 Look；There is 引导单数存在句。
 
-2. **中文**：大声歌唱的鹦鹉站在亮绿色的树叶旁。  
-   **英文**：The parrot singing loudly sat beside a bright leaf.
-   > **解析**：parrot 表示“鹦鹉”；loudly 表示“大声地”；beside 表示“在……旁”；bright 表示“明亮的”；leaf 表示“树叶”。
+2. **中文**：长颈鹿站在树旁边。
+   **英文**：The giraffe stands beside the tree.
+   > **解析**：The giraffe 是第三人称单数，stand 加 s；beside 表示"在旁边"。
 
-3. **中文**：看！前方那只长颈鹿正静静地吃着树叶。  
-   **英文**：Look ahead! That giraffe is quietly eating green leaves.
-   > **解析**：ahead 表示“在前方”；giraffe 表示“长颈鹿”；quietly 表示“安静地”。
+3. **中文**：丛林又热又潮湿。
+   **英文**：The jungle is hot and humid.
+   > **解析**：and 连接两个形容词作表语；humid 描述潮湿的气候。
 
-4. **中文**：企鹅在冰冷的岩石上摇摇晃晃地行走。  
-   **英文**：The penguin walked wobbly on the cold stone.
-   > **解析**：penguin 表示“企鹅”；stone 表示“岩石/石头”。
+4. **中文**：鹦鹉叫得很大声。
+   **英文**：The parrot sings loudly.
+   > **解析**：loudly 是副词修饰 sings；The parrot 单数主语，sing 加 s。
 
-5. **中文**：海豚在蔚蓝的大海里嬉戏，嗅闻着海洋的气息。  
-   **英文**：The dolphin played in the sea, smelling the water breeze.
-   > **解析**：dolphin 表示“海豚”；smell / smelling 表示“嗅闻/闻到”。
+5. **中文**：请安静地走。
+   **英文**：Please walk quietly.
+   > **解析**：quietly 是副词修饰 walk；Please 构成礼貌祈使句。
 
-6. **中文**：保护地球大自然环境是所有人的责任。  
-   **英文**：Protecting the environment of Earth is our duty.
-   > **解析**：the environment 表示“自然环境”；Earth 表示“地球”。
+6. **中文**：斑马的叶子餐很新鲜。
+   **英文**：The leaves for the zebra are fresh.
+   > **解析**：leaves 是 leaf 的不规则复数；are 与复数主语搭配。
 
-7. **中文**：我们骑过骆驼后，决定返回营地。  
-   **英文**：Having ridden the camels, we decided to go back.
-   > **解析**：ridden 是 ride 的过去分词；go back 表示“返回”。
+7. **中文**：海豚喜欢大海。
+   **英文**：Dolphins love the sea.
+   > **解析**：Dolphins 复数主语用动词原形 love；the sea 作宾语。
 
-8. **中文**：树林里的鸟儿发出清脆悦耳的声音，闻起来满是泥土香。  
-   **英文**：Birds in the forest sang as the air smelled like dirt.
-   > **解析**：smell / smelled 表示“闻起来”；dirt 表示“泥土”。
+8. **中文**：企鹅住在寒冷的地方。
+   **英文**：Penguins live in cold places.
+   > **解析**：Penguins 复数主语用 live；in cold places 是地点状语。
 
-9. **中文**：在湛蓝的天空下，那顶鲜艳的遮阳帽显得格外明亮。  
-   **英文**：Under the blue sky, that hat looked very bright.
-   > **解析**：bright 表示“鲜艳的/明亮的”。
+9. **中文**：谁在喂长颈鹿？
+   **英文**：Who is feeding the giraffe?
+   > **解析**：Who 作主语提问；is feeding 是现在进行时。
 
-10. **中文**：你知道为什么长颈鹿脖子长、斑马身上有条纹吗？  
-   **英文**：Do you know why giraffes have long necks and zebras stripes?
-   > **解析**：why 引导疑问句“为什么”；zebra / zebras 表示“斑马”。
+10. **中文**：为什么鹦鹉这么吵？
+   **英文**：Why is the parrot so loud?
+   > **解析**：Why 引导原因疑问句；loud 作表语。
 
-11. **中文**：海豚是一种非常聪明且对人类友善的海洋哺乳动物。  
-   **英文**：The dolphin is a very smart marine animal.
-   > **解析**：dolphin 表示“海豚”。
+11. **中文**：我们得回去了。
+   **英文**：We have to go back now.
+   > **解析**：have to 表示"必须"；go back 是"回去"的短语动词。
 
-12. **中文**：企鹅主要生活在地球南半球的冰雪世界。  
-   **英文**：Penguins mainly live in cold areas on Earth.
-   > **解析**：penguin / penguins 表示“企鹅”；Earth 表示“地球”。
+12. **中文**：我刚看到一只老虎。
+   **英文**：I just saw a tiger.
+   > **解析**：just 表示"刚刚"，放动词前；saw 是 see 的过去式。
 
-13. **中文**：热带雨林里的空气总是非常潮湿。  
-   **英文**：The air in the tropical jungle is always very humid.
-   > **解析**：humid 表示“潮湿的”；jungle 表示“丛林”。
+13. **中文**：这些花闻起来很香。
+   **英文**：These flowers smell nice.
+   > **解析**：smell 作系动词后接形容词 nice，不用副词。
 
-14. **中文**：那只彩色鹦鹉能模仿人类说话的声音。  
-   **英文**：That colorful parrot can copy human sounds loudly.
-   > **解析**：parrot 表示“鹦鹉”；loudly 表示“大声地”。
+14. **中文**：石头旁边有一摊泥土。
+   **英文**：There is some dirt beside the stone.
+   > **解析**：dirt 不可数用 There is；beside the stone 表位置。
 
-15. **中文**：一只凶猛的老虎正在草丛里静悄悄地潜行。  
-   **英文**：A fierce tiger was crawling quietly in the tall grass.
-   > **解析**：tiger 表示“老虎”；quietly 表示“安静地”。
+15. **中文**：阳光很明亮。
+   **英文**：The sunlight is bright.
+   > **解析**：bright 作表语，表示"明亮的"。
 
-16. **中文**：长颈鹿伸长脖子去吃高处大树上的叶子。  
-   **英文**：The giraffe reached up to eat leaves from the tall tree.
-   > **解析**：leaf / leaves 表示“树叶”；giraffe 表示“长颈鹿”。
+16. **中文**：我们应该保护环境。
+   **英文**：We should protect the environment.
+   > **解析**：should 后接动词原形 protect；the environment 带定冠词。
 
-17. **中文**：请向前看，前方有一群斑马在奔跑。  
-   **英文**：Look ahead, a group of zebras is running by.
-   > **解析**：ahead 表示“在前方/向前”；zebra / zebras 表示“斑马”。
+17. **中文**：她以前骑过马。
+   **英文**：She has ridden a horse before.
+   > **解析**：has ridden 是现在完成时；ridden 是 ride 的过去分词。
 
-18. **中文**：这块石头表面长满了绿色的苔藓。  
-   **英文**：This stone is covered with green moss in nature.
-   > **解析**：stone 表示“石头/岩石”。
+18. **中文**：地球是我们的家。
+   **英文**：The earth is our home.
+   > **解析**：The earth 作主语用 is；our home 作表语。
 
-19. **中文**：我们应该共同携手保护人类赖以生存的自然环境。  
-   **英文**：We should work together to protect the environment.
-   > **解析**：the environment 表示“自然环境”。
+19. **中文**：老虎在丛林里悄悄地走。
+   **英文**：The tiger walks quietly in the jungle.
+   > **解析**：quietly 修饰 walks；in the jungle 是地点状语。
 
-20. **中文**：导游领着大家停在了一条清澈的小溪旁边。  
-   **英文**：The guide stopped the group right beside a clear stream.
-   > **解析**：beside 表示“在……旁”。
+20. **中文**：前方那条路通向河边。
+   **英文**：The road ahead leads to the river.
+   > **解析**：ahead 作后置定语修饰 road；leads 是第三人称单数。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In the humid jungle, the tiger and zebra walked on dirt.
-   > **中文**：在潮湿的丛林深处，老虎和斑马在泥土上前行。
+1. Look ahead. There is a tiger.
+   > **中文**：看前面，有一只老虎。
 
-2. The parrot singing loudly sat beside a bright leaf.
-   > **中文**：大声歌唱的鹦鹉站在亮绿色的树叶旁。
+2. The giraffe stands beside the tree.
+   > **中文**：长颈鹿站在树旁边。
 
-3. Look ahead! That giraffe is quietly eating green leaves.
-   > **中文**：看！前方那只长颈鹿正静静地吃着树叶。
+3. The jungle is hot and humid.
+   > **中文**：丛林又热又潮湿。
 
-4. The penguin walked wobbly on the cold stone.
-   > **中文**：企鹅在冰冷的岩石上摇摇晃晃地行走。
+4. The parrot sings loudly.
+   > **中文**：鹦鹉叫得很大声。
 
-5. The dolphin played in the sea, smelling the water breeze.
-   > **中文**：海豚在蔚蓝的大海里嬉戏，嗅闻着海洋的气息。
+5. Please walk quietly.
+   > **中文**：请安静地走。
 
-6. Protecting the environment of Earth is our duty.
-   > **中文**：保护地球大自然环境是所有人的责任。
+6. The leaves are green.
+   > **中文**：叶子是绿色的。
 
-7. Having ridden the camels, we decided to go back.
-   > **中文**：我们骑过骆驼后，决定返回营地。
+7. Dolphins love the sea.
+   > **中文**：海豚喜欢大海。
 
-8. Birds in the forest sang as the air smelled like dirt.
-   > **中文**：树林里的鸟儿发出清脆悦耳的声音，闻起来满是泥土香。
+8. Penguins live in cold places.
+   > **中文**：企鹅住在寒冷的地方。
 
-9. Under the blue sky, that hat looked very bright.
-   > **中文**：在湛蓝的天空下，那顶鲜艳的遮阳帽显得格外明亮。
+9. Who is feeding the giraffe?
+   > **中文**：谁在喂长颈鹿？
 
-10. Do you know why giraffes have long necks and zebras stripes?
-   > **中文**：你知道为什么长颈鹿脖子长、斑马身上有条纹吗？
+10. Why is the parrot so loud?
+   > **中文**：为什么鹦鹉这么吵？
 
-11. The dolphin is a very smart marine animal.
-   > **中文**：海豚是一种非常聪明且对人类友善的海洋哺乳动物。
+11. We have to go back now.
+   > **中文**：我们得回去了。
 
-12. Penguins mainly live in cold areas on Earth.
-   > **中文**：企鹅主要生活在地球南半球的冰雪世界。
+12. I just saw a zebra.
+   > **中文**：我刚看到一只斑马。
 
-13. The air in the tropical jungle is always very humid.
-   > **中文**：热带雨林里的空气总是非常潮湿。
+13. These flowers smell nice.
+   > **中文**：这些花闻起来很香。
 
-14. That colorful parrot can copy human sounds loudly.
-   > **中文**：那只彩色鹦鹉能模仿人类说话的声音。
+14. There is some dirt beside the stone.
+   > **中文**：石头旁边有一摊泥土。
 
-15. A fierce tiger was crawling quietly in the tall grass.
-   > **中文**：一只凶猛的老虎正在草丛里静悄悄地潜行。
+15. The sunlight is bright.
+   > **中文**：阳光很明亮。
 
-16. The giraffe reached up to eat leaves from the tall tree.
-   > **中文**：长颈鹿伸长脖子去吃高处大树上的叶子。
+16. We should protect the environment.
+   > **中文**：我们应该保护环境。
 
-17. Look ahead, a group of zebras is running by.
-   > **中文**：请向前看，前方有一群斑马在奔跑。
+17. She has ridden a horse before.
+   > **中文**：她以前骑过马。
 
-18. This stone is covered with green moss in nature.
-   > **中文**：这块石头表面长满了绿色的苔藓。
+18. The earth is our home.
+   > **中文**：地球是我们的家。
 
-19. We should work together to protect the environment.
-   > **中文**：我们应该共同携手保护人类赖以生存的自然环境。
+19. The tiger walks quietly in the jungle.
+   > **中文**：老虎在丛林里悄悄地走。
 
-20. The guide stopped the group right beside a clear stream.
-   > **中文**：导游领着大家停在了一条清澈的小溪旁边。
+20. The road ahead leads to the river.
+   > **中文**：前方那条路通向河边。
 
 </quiz-listening>
 
@@ -212,25 +207,35 @@ ridden 是 ride 的过去分词。the environment 表示"环境"。
 | 英文单词 | 课文释义 |
 | --- | --- |
 | ahead | 在前方 |
-| beside | 在……旁 |
-| bright | 明亮的 / 鲜艳的 |
+| beside | 在……旁边 |
+| bright | 明亮的 |
 | dirt | 泥土 |
 | dolphin | 海豚 |
 | earth | 地球 / 土地 |
 | giraffe | 长颈鹿 |
-| go back | 返回 |
+| go back | 回去 |
 | humid | 潮湿的 |
 | jungle | 丛林 |
-| leaf | 树叶 |
+| just | 刚刚 / 仅仅 |
+| leaf | 叶子 |
 | loudly | 大声地 |
 | parrot | 鹦鹉 |
 | penguin | 企鹅 |
 | quietly | 安静地 |
-| ridden | 骑（ride的过去分词） |
+| ridden | 骑过（ride 的过去分词） |
 | smell | 闻 / 气味 |
-| stone | 石头 / 岩石 |
-| the environment | 自然环境 |
+| stone | 石头 |
+| the environment | 环境 |
 | tiger | 老虎 |
+| who | 谁 |
+| why | 为什么 |
+| zebra | 斑马 |
+| is | 是（单数） |
+| are | 是（复数） |
+| the | 这 / 那（定冠词） |
+| there | 那里（存在句） |
+| in | 在……里 |
+| so | 这么 / 如此 |
 
 </quiz-matching>
 
@@ -238,202 +243,202 @@ ridden 是 ride 的过去分词。the environment 表示"环境"。
 
 ### 1
 
-In the ____ jungle, the tiger and zebra walked on dirt.
+Look ____. There is a tiger.
 
-- [x] humid
-- [ ] ahead
+- [x] ahead
 - [ ] beside
+- [ ] humid
 
-> **解析**：**humid** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Look ahead"向前看"是固定搭配；beside 是介词需带宾语，humid 是形容词。
 
 ### 2
 
-The ____ singing loudly sat beside a bright leaf.
-
-- [x] parrot
-- [ ] ahead
-- [ ] beside
-
-> **解析**：**parrot** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 3
-
-Look ____! That giraffe is quietly eating green leaves.
-
-- [x] ahead
-- [ ] beside
-- [ ] bright
-
-> **解析**：**ahead** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 4
-
-The ____ walked wobbly on the cold stone.
-
-- [x] penguin
-- [ ] ahead
-- [ ] beside
-
-> **解析**：**penguin** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 5
-
-The ____ played in the sea, smelling the water breeze.
-
-- [x] dolphin
-- [ ] ahead
-- [ ] beside
-
-> **解析**：**dolphin** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 6
-
-Protecting the environment of ____ is our duty.
-
-- [x] Earth
-- [ ] ahead
-- [ ] beside
-
-> **解析**：**Earth** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 7
-
-Having ____ the camels, we decided to go back.
-
-- [x] ridden
-- [ ] ahead
-- [ ] beside
-
-> **解析**：**ridden** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 8
-
-Birds in the forest sang as the air smelled like ____.
-
-- [x] dirt
-- [ ] ahead
-- [ ] beside
-
-> **解析**：**dirt** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 9
-
-Under the blue sky, that hat looked very ____.
-
-- [x] bright
-- [ ] ahead
-- [ ] beside
-
-> **解析**：**bright** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 10
-
-Do you know ____ giraffes have long necks and zebras stripes?
-
-- [x] why
-- [ ] ahead
-- [ ] beside
-
-> **解析**：**why** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 11
-
-The ____ is a very smart marine animal.
-
-- [x] dolphin
-- [ ] ahead
-- [ ] beside
-
-> **解析**：**dolphin** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 12
-
-Penguins mainly live in cold areas on ____.
-
-- [x] Earth
-- [ ] ahead
-- [ ] beside
-
-> **解析**：**Earth** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 13
-
-The air in the tropical ____ is always very humid.
-
-- [x] jungle
-- [ ] ahead
-- [ ] beside
-
-> **解析**：**jungle** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 14
-
-That colorful ____ can copy human sounds loudly.
-
-- [x] parrot
-- [ ] ahead
-- [ ] beside
-
-> **解析**：**parrot** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 15
-
-A fierce ____ was crawling quietly in the tall grass.
-
-- [x] tiger
-- [ ] ahead
-- [ ] beside
-
-> **解析**：**tiger** 为形容词/副词比较级，用于两者之间的对比。
-
-### 16
-
-The ____ reached up to eat leaves from the tall tree.
-
-- [x] giraffe
-- [ ] ahead
-- [ ] beside
-
-> **解析**：**giraffe** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 17
-
-Look ____, a group of zebras is running by.
-
-- [x] ahead
-- [ ] beside
-- [ ] bright
-
-> **解析**：**ahead** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 18
-
-This ____ is covered with green moss in nature.
-
-- [x] stone
-- [ ] ahead
-- [ ] beside
-
-> **解析**：**stone** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 19
-
-We should work together to protect the ____.
-
-- [x] environment
-- [ ] ahead
-- [ ] beside
-
-> **解析**：**environment** 符合句意表达，作为句中的核心词汇补全句子。
-
-### 20
-
-The guide stopped the group right ____ a clear stream.
+The giraffe stands ____ the tree.
 
 - [x] beside
 - [ ] ahead
+- [ ] just
+
+> **解析**：beside 是介词"在……旁边"带宾语 the tree；ahead 是副词，just 语义不符。
+
+### 3
+
+The jungle is hot and ____.
+
+- [x] humid
+- [ ] bright
+- [ ] quietly
+
+> **解析**：与 hot 并列描述气候的是 humid"潮湿的"；bright 与气候无关，quietly 是副词。
+
+### 4
+
+The parrot sings ____.
+
+- [x] loudly
+- [ ] loudness
+- [ ] louding
+
+> **解析**：修饰动词 sings 需要副词 loudly；loudness 是名词，louding 不是单词。
+
+### 5
+
+Please walk ____.
+
+- [x] quietly
+- [ ] quiet
+- [ ] quite
+
+> **解析**：修饰 walk 需要副词 quietly；quiet 是形容词，quite 是程度副词语义不符。
+
+### 6
+
+The ____ are green.
+
+- [x] leaves
+- [ ] leaf
+- [ ] leafs
+
+> **解析**：are 要求复数 leaves（leaf 的不规则复数）；leafs 不是正确拼写。
+
+### 7
+
+____ love the sea.
+
+- [x] Dolphins
+- [ ] Stones
+- [ ] The jungle
+
+> **解析**：喜欢大海的是 Dolphins"海豚"；Stones 无生命，The jungle 是地点不会爱大海。
+
+### 8
+
+Penguins live in cold ____.
+
+- [x] places
+- [ ] jungle
+- [ ] smell
+
+> **解析**：in cold places 表示寒冷地区；jungle 是热带丛林与 cold 矛盾，smell 语义不符。
+
+### 9
+
+____ is feeding the giraffe?
+
+- [x] Who
+- [ ] Why
+- [ ] Whose
+
+> **解析**：问人用 Who；Why 问原因，Whose 问归属。
+
+### 10
+
+____ is the parrot so loud?
+
+- [x] Why
+- [ ] Who
+- [ ] Where
+
+> **解析**：问原因用 Why；Who 问人，Where 问地点。
+
+### 11
+
+We have to go ____ now.
+
+- [x] back
+- [ ] ahead of
+- [ ] beside
+
+> **解析**：go back"回去"是固定短语；ahead of 和 beside 是介词需带宾语。
+
+### 12
+
+I ____ saw a zebra.
+
+- [x] just
+- [ ] justly
+- [ ] jungle
+
+> **解析**：just"刚刚"修饰动词 saw；justly 是"公正地"，jungle 是名词。
+
+### 13
+
+These flowers ____ nice.
+
+- [x] smell
+- [ ] smells
+- [ ] smelled of
+
+> **解析**：复数主语用 smell 原形作系动词；smells 用于单数主语。
+
+### 14
+
+There is some dirt beside the ____.
+
+- [x] stone
+- [ ] leaf
 - [ ] bright
 
-> **解析**：**beside** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：beside 后需要名词 stone"石头"；leaf 与 some dirt 的场景搭配较弱且语义不符，bright 是形容词。
+
+### 15
+
+The sunlight is ____.
+
+- [x] bright
+- [ ] brightly
+- [ ] brighten
+
+> **解析**：is 后需要形容词 bright 作表语；brightly 是副词，brighten 是动词。
+
+### 16
+
+We should protect the ____.
+
+- [x] environment
+- [ ] parrot
+- [ ] dirt
+
+> **解析**：protect the environment 是固定搭配"保护环境"；parrot 和 dirt 语义不符。
+
+### 17
+
+She has ____ a horse before.
+
+- [x] ridden
+- [ ] rode
+- [ ] ride
+
+> **解析**：has 后需要过去分词 ridden；rode 是过去式，ride 是原形。
+
+### 18
+
+The ____ is our home.
+
+- [x] earth
+- [ ] leaf
+- [ ] smell
+
+> **解析**：我们的家是 earth"地球"；leaf 和 smell 语义不符。
+
+### 19
+
+The tiger walks ____ in the jungle.
+
+- [x] quietly
+- [ ] quiet
+- [ ] humidity
+
+> **解析**：修饰 walks 需要副词 quietly；quiet 是形容词，humidity 是名词。
+
+### 20
+
+The road ____ leads to the river.
+
+- [x] ahead
+- [ ] beside
+- [ ] behind to
+
+> **解析**：ahead 作后置定语修饰 road"前方的路"；beside 是介词需带宾语，behind to 结构错误。
 
 </quiz-cloze>

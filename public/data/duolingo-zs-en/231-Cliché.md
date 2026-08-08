@@ -10,44 +10,35 @@ American dream, after all, american, assume, cheerleader, cliché, competitive, 
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"分享第一印象"展开，话题涉及对美国文化的刻板印象与真实面貌。词表里有文化符号（American dream, cowboy, cheerleader, american），有判断与推测表达（assume, conclusion, myth, cliché, reputation, it seems that, it might seem that, might have, might not have），也有描述性词汇（diverse, competitive, old-fashioned, welcoming, unrealistic, necessarily）。你可以用这些词讨论文化印象：It might seem that every American is a competitive cowboy chasing the American dream. / But that's a cliché—a myth, not necessarily the truth. / After all, the country is diverse. / My first impression was that people are welcoming. / What on earth made you assume everyone loves a cheerleader?
+本单元的主题是"分享第一印象"，话题围绕刻板印象与文化陈见展开。词表分成三组：美国文化符号（American dream, american, cheerleader, cowboy, diverse）、印象与判断（first impression, it seems that, it might seem that, assume, conclusion, reputation, myth, cliché, love at first sight）、以及怀疑与修饰表达（necessarily, not sure that, might have, might not have, what on earth, after all, competitive, old-fashioned, unrealistic, welcoming, shake）。拼起来就是一段完整的讨论：It seems that she's a cheerleader, but I'm not sure that's true. Don't assume things based on first impressions. After all, that's just a cliché.
 
-这里值得注意 it seems that 和 it might seem that 的语气差异：前者较确定（看起来确实如此），后者带保留（也许看起来如此，但未必）。necessarily 常与 not 搭配：not necessarily = 不一定。might have / might not have 表对过去的推测。
+语法主线有三条。第一条是推测分层：it seems that（看起来）、it might seem that（看起来可能）、assume（假定）——从观察到臆断的语气阶梯。第二条是 might have / might not have，对过去可能性的推测：She might have been a cheerleader. 第三条是部分否定：not necessarily（未必），以及 not sure that（不确定……）的谨慎表态。
 
-学完本单元，你可以用英语讨论文化刻板印象、表达第一印象，并用推测性语言避免过度概括。
+学完这些词，你能描述第一印象、讨论刻板印象、谨慎地推测与反驳——聊八卦也能聊得有逻辑。
 
 ## Tips
 
-- **cliché / myth** — cliché 是老生常谈、陈词滥调（用太多而失去新意的表达或观念），myth 是迷思、被广泛相信但不一定为真的说法。搭配：a common cliché, debunk a myth。It's a cliché that Americans are all cowboys. / The myth of the American dream. 注意 cliché 来自法语，发音 /kliːˈʃeɪ/。
+- **it seems that / it might seem that** — 观察性推测的两级。it seems that + 从句表示"看起来"：It seems that he is friendly. it might seem that 语气更保留："看起来可能、表面上"：It might seem that way, but it's not.
 
-- **American dream** — 美国梦（通过努力就能成功的信念）。搭配：the American dream, chase/pursue the American dream。The American dream says anyone can succeed. 注意这是特指概念，通常加 the。
+- **assume / not sure that / conclusion** — assume 是"假定、想当然"：Don't assume anything. not sure that 是谨慎表态："我不确定……"I'm not sure that's accurate. conclusion 是结论，draw a conclusion（得出结论）。三者构成"假设—存疑—结论"的思考链条。
 
-- **not necessarily** — 不一定、未必。搭配：not necessarily true, not necessarily the case。It's not necessarily true that all Americans are competitive. 注意 necessarily 几乎总是和 not 一起出现，单独使用较少。
+- **might have / might not have** — 对过去可能性的推测：She might have studied abroad.（她可能留过学。）might not have 是否定推测：He might not have known. 后接过去分词。
 
-- **it seems that / it might seem that** — it seems that 较确定（看来确实），it might seem that 带保留（也许看起来）。搭配：It seems that people are welcoming. / It might seem that way, but it's a myth. 后者常用于先让步再反驳。
+- **necessarily** — 常用于否定结构 not necessarily（不一定）：It's not necessarily true. 单独使用的场景较少，与否定词绑定记忆最高效。
 
-- **first impression** — 第一印象。搭配：make a first impression, my first impression was...。First impressions matter. / My first impression of the city was positive. 注意 impression 搭配 make（不是 × give a first impression）。
+- **what on earth** — 加强疑问语气："到底……"What on earth is that? on earth 加在疑问词后表惊讶或困惑。
 
-- **assume / conclusion** — assume 是假设、想当然，conclusion 是结论。搭配：assume that..., jump to a conclusion, draw a conclusion。Don't assume everyone is the same. / I came to the conclusion that it's a myth. 注意 assume 带有"没有充分证据"的暗示。
+- **after all** — "毕竟、终究"，用于给出理由或转折：Don't be too hard on him. After all, he is just a kid.
 
-- **diverse / competitive / welcoming** — diverse 是多元的，competitive 是竞争激烈的，welcoming 是好客的。搭配：a diverse country, a competitive culture, welcoming people。America is diverse—not everyone fits one cliché. 注意 diverse 强调"多样性"，不是"不同"（different）。
+- **cliché / myth / love at first sight** — cliché 是陈词滥调、刻板套路；myth 是"被普遍相信的错误观念"：It's a myth that... love at first sight 是"一见钟情"，常被当作 cliché 讨论。
 
-- **reputation** — 名声、口碑。搭配：have a reputation for, earn a reputation。Americans have a reputation for being competitive. 注意 reputation 可好可坏：a good/bad reputation。
+- **American dream / american / cheerleader / cowboy / diverse** — 美国文化符号群。American dream 是"美国梦"；american 作形容词/名词指美国的/美国人（规范书写首字母大写，词表保留原形）；cheerleader 啦啦队员、cowboy 牛仔都是经典刻板印象素材；diverse 是"多元的"：a diverse society.
 
-- **old-fashioned / unrealistic** — old-fashioned 是老派的、过时的，unrealistic 是不切实际的。搭配：old-fashioned values, an unrealistic expectation。The cowboy image is old-fashioned. / Love at first sight? That's unrealistic. 注意 old-fashioned 不一定贬义，可表"传统"。
+- **first impression / reputation / shake** — first impression 第一印象；reputation 名声：have a good reputation. shake 在本主题中常见于 shake hands（握手），第一印象的经典动作。
 
-- **might have / might not have** — 对过去的推测。搭配：might have done, might not have done。They might have assumed I was a cowboy. / She might not have meant it. 注意 might have 表"可能（做了）"，语气比 may have 更不确定。
-
-- **what on earth** — 究竟、到底（加强疑问语气）。搭配：What on earth...? / Why on earth...?。What on earth made you think that? 比 what 单独使用语气更强，表惊讶或不满。类似：what in the world。
-
-- **after all** — 毕竟、终究。搭配：after all, ...。After all, not everyone fits the cliché. 注意 after all 放在句首或句末均可：It's a myth, after all. 不要和 after all this time（经过这么长时间）混淆。
-
-- **love at first sight / shake** — love at first sight = 一见钟情，shake = 握手/摇动。搭配：believe in love at first sight, shake hands。Do you believe in love at first sight? / In America, people shake hands when they meet. shake hands = 握手（社交礼仪）。
-
-- **cheerleader / cowboy** — cheerleader 是啦啦队员，cowboy 是牛仔。搭配：a cheerleader, a cowboy hat。These are American cultural symbols. 注意 cheerleader 在美国文化中不仅是"加油的人"，也是高中社交文化的标志。
+- **competitive / old-fashioned / unrealistic / welcoming** — 四个评价形容词。competitive 好竞争的；old-fashioned 老式的；unrealistic 不切实际的（un- + realistic）；welcoming 热情友好的：a welcoming smile.
 
 ## 练习
 
@@ -65,176 +56,187 @@ American dream, after all, american, assume, cheerleader, cliché, competitive, 
 
 <quiz-sentence-builder>
 
-1. **中文**：好像第一印象并不总是准确的。
-   **英文**：It seems that first impressions are not always accurate.
-   > **解析**：first impressions 意为第一印象。
+1. **中文**：看起来他很友好。
+   **英文**：It seems that he is friendly.
+   > **解析**：It seems that + 从句表示"看起来"；he is friendly 是完整从句。
 
-2. **中文**：她为迟到给出了一个陈词滥调的解释。
-   **英文**：She gave a cliché explanation for being late.
-   > **解析**：cliché 表示陈词滥调的说法。
+2. **中文**：表面上可能是那样，但事实并非如此。
+   **英文**：It might seem that way, but it is not true.
+   > **解析**：It might seem 语气比 seems 更保留；but 引出转折。
 
-3. **中文**：他们可能曾经假设每个人都过着美国梦的生活。
-   **英文**：They might have assumed that everyone lives the American dream.
-   > **解析**：American dream 指美国梦。
+3. **中文**：不要想当然。
+   **英文**：Don't assume anything.
+   > **解析**：祈使句否定用 Don't + 动词原形 assume；anything 用于否定句。
 
-4. **中文**：毕竟不是得克萨斯州的每个人都是牛仔。
-   **英文**：Not everyone in Texas is a cowboy, after all.
-   > **解析**：cowboy 意为牛仔。
+4. **中文**：我不确定那是准确的。
+   **英文**：I'm not sure that's accurate.
+   > **解析**：I'm not sure 后接省略 that 的从句；that's 是 that is 的缩写。
 
-5. **中文**：这家公司以竞争非常激烈而闻名。
-   **英文**：The company has a reputation for being very competitive.
-   > **解析**：reputation 表示名声、口碑。
+5. **中文**：她当时可能是啦啦队员。
+   **英文**：She might have been a cheerleader.
+   > **解析**：might have + 过去分词 been 表示对过去的推测；a cheerleader 作表语。
 
-6. **中文**：你相信一见钟情吗？
-   **英文**：Do you believe in love at first sight?
-   > **解析**：love at first sight 意为一见钟情。
+6. **中文**：他可能不知道这件事。
+   **英文**：He might not have known about it.
+   > **解析**：might not have + 过去分词 known 是对过去的否定推测；about it 是补充成分。
 
-7. **中文**：似乎老派的想法不再有用。
-   **英文**：It might seem that old-fashioned ideas are no longer useful.
-   > **解析**：old-fashioned 意为老派的、过时的。
+7. **中文**：那不一定是真的。
+   **英文**：That is not necessarily true.
+   > **解析**：not necessarily 是"不一定"的固定搭配；true 作表语。
 
-8. **中文**：我们得出结论，那个传闻只是一个神话。
-   **英文**：We came to the conclusion that the rumor was just a myth.
-   > **解析**：conclusion 表示结论。
+8. **中文**：那到底是个什么东西？
+   **英文**：What on earth is that?
+   > **解析**：on earth 加强疑问语气；that 作主语，is 提前构成疑问句。
 
-9. **中文**：当地社区非常多元化，对新人非常友好。
-   **英文**：The local community is very diverse and welcoming to newcomers.
-   > **解析**：welcoming 意为好客的、热情的。
+9. **中文**：别对他太苛刻，毕竟他只是个孩子。
+   **英文**：Don't be too hard on him; after all, he is just a kid.
+   > **解析**：after all 引出理由；be hard on someone 是"对某人苛刻"的搭配。
 
-10. **中文**：究竟是什么让你认为啦啦队员没有运动天赋？
-   **英文**：What on earth made you think that cheerleaders are not athletic?
-   > **解析**：What on earth 用于加强疑问语气，意为究竟、到底。
+10. **中文**：这是一个普遍的错误观念。
+    **英文**：It is a common myth.
+    > **解析**：myth 此处指"被广泛相信的错误观念"；a common myth 作表语。
 
-11. **中文**：努力工作并不一定能保证成功。
-   **英文**：Hard work does not necessarily guarantee success.
-   > **解析**：necessarily 意为必然地、必定地。
+11. **中文**：一见钟情只是个陈词滥调。
+    **英文**：Love at first sight is just a cliché.
+    > **解析**：Love at first sight 是固定短语作主语；a cliché 作表语。
 
-12. **中文**：我不确定这个期望是否现实。
-   **英文**：I am not sure that this expectation is realistic.
-   > **解析**：not sure that 表示不确定……
+12. **中文**：别根据第一印象下结论。
+    **英文**：Don't draw a conclusion from first impressions.
+    > **解析**：draw a conclusion 是固定搭配；from first impressions 是依据状语。
 
-13. **中文**：他们可能没有意识到自己的期望有多不切实际。
-   **英文**：They might not have realized how unrealistic their expectations were.
-   > **解析**：unrealistic 意为不切实际的。
+13. **中文**：他有很好的名声。
+    **英文**：He has a good reputation.
+    > **解析**：has 表拥有；a good reputation 作宾语。
 
-14. **中文**：他高中时是一名啦啦队员。
-   **英文**：He was a cheerleader in high school.
-   > **解析**：cheerleader 意为啦啦队员。
+14. **中文**：见面时握个手吧。
+    **英文**：Shake hands when you meet.
+    > **解析**：祈使句用动词原形 shake；shake hands 是固定搭配；when you meet 是时间从句。
 
-15. **中文**：所有美国人每天都吃垃圾食品是一个常见的误区。
-   **英文**：It is a common myth that all Americans eat junk food every day.
-   > **解析**：myth 意为神话、误区。
+15. **中文**：美国社会是多元的。
+    **英文**：American society is diverse.
+    > **解析**：American 形容词修饰 society；diverse 作表语。
 
-16. **中文**：他们用热情的握手欢迎我们。
-   **英文**：They welcomed us with a warm handshake.
-   > **解析**：handshake 意为握手。
+16. **中文**：牛仔是美国文化的符号。
+    **英文**：The cowboy is a symbol of American culture.
+    > **解析**：The cowboy 指这类形象；a symbol of 是"……的符号"。
 
-17. **中文**：在了解所有事实之前不要急于下结论。
-   **英文**：Don't jump to conclusions before knowing all the facts.
-   > **解析**：jump to conclusions 意为急于下结论。
+17. **中文**：每个人都在谈论美国梦。
+    **英文**：Everyone talks about the American dream.
+    > **解析**：Everyone 是不定代词作单数主语，talk 加 s；the American dream 是固定短语。
 
-18. **中文**：这个地区的文化非常多元。
-   **英文**：The culture in this region is remarkably diverse.
-   > **解析**：diverse 意为多元的。
+18. **中文**：这个观点不切实际。
+    **英文**：This idea is unrealistic.
+    > **解析**：unrealistic 形容词作表语；idea 单数用 is。
 
-19. **中文**：他对职业道路持有一种老派的观点。
-   **英文**：He holds an old-fashioned perspective on career paths.
-   > **解析**：old-fashioned 意为老派的。
+19. **中文**：她有一个热情的微笑。
+    **英文**：She has a welcoming smile.
+    > **解析**：welcoming 形容词修饰 smile；a welcoming smile 作宾语。
 
-20. **中文**：毕竟，人们值得第二次机会。
-   **英文**：After all, people deserve a second chance.
-   > **解析**：after all 意为毕竟。
+20. **中文**：这里的竞争很激烈。
+    **英文**：The competition here is very competitive.
+    > **解析**：competitive 形容词作表语；主语是单数名词短语用 is。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. It seems that first impressions are not always accurate.
-   > **中文**：好像第一印象并不总是准确的。
+1. It seems that he is friendly.
+   > **中文**：看起来他很友好。
 
-2. She gave a cliché explanation for being late.
-   > **中文**：她为迟到给出了一个陈词滥调的解释。
+2. It might seem that way, but it is not true.
+   > **中文**：表面上可能是那样，但事实并非如此。
 
-3. They might have assumed that everyone lives the American dream.
-   > **中文**：他们可能曾经假设每个人都过着美国梦的生活。
+3. Don't assume anything.
+   > **中文**：不要想当然。
 
-4. Not everyone in Texas is a cowboy, after all.
-   > **中文**：毕竟不是得克萨斯州的每个人都是牛仔。
+4. I'm not sure that's accurate.
+   > **中文**：我不确定那是准确的。
 
-5. The company has a reputation for being very competitive.
-   > **中文**：这家公司以竞争非常激烈而闻名。
+5. She might have been a cheerleader.
+   > **中文**：她当时可能是啦啦队员。
 
-6. Do you believe in love at first sight?
-   > **中文**：你相信一见钟情吗？
+6. He might not have known about it.
+   > **中文**：他可能不知道这件事。
 
-7. It might seem that old-fashioned ideas are no longer useful.
-   > **中文**：似乎老派的想法不再有用。
+7. That is not necessarily true.
+   > **中文**：那不一定是真的。
 
-8. We came to the conclusion that the rumor was just a myth.
-   > **中文**：我们得出结论，那个传闻只是一个神话。
+8. What on earth is that?
+   > **中文**：那到底是个什么东西？
 
-9. The local community is very diverse and welcoming to newcomers.
-   > **中文**：当地社区非常多元化，对新人非常友好。
+9. Don't be too hard on him; after all, he is just a kid.
+   > **中文**：别对他太苛刻，毕竟他只是个孩子。
 
-10. What on earth made you think that cheerleaders are not athletic?
-   > **中文**：究竟是什么让你认为啦啦队员没有运动天赋？
+10. It is a common myth.
+    > **中文**：这是一个普遍的错误观念。
 
-11. Hard work does not necessarily guarantee success.
-   > **中文**：努力工作并不一定能保证成功。
+11. Love at first sight is just a cliché.
+    > **中文**：一见钟情只是个陈词滥调。
 
-12. I am not sure that this expectation is realistic.
-   > **中文**：我不确定这个期望是否现实。
+12. Don't draw a conclusion from first impressions.
+    > **中文**：别根据第一印象下结论。
 
-13. They might not have realized how unrealistic their expectations were.
-   > **中文**：他们可能没有意识到自己的期望有多不切实际。
+13. He has a good reputation.
+    > **中文**：他有很好的名声。
 
-14. He was a cheerleader in high school.
-   > **中文**：他高中时是一名啦啦队员。
+14. Shake hands when you meet.
+    > **中文**：见面时握个手吧。
 
-15. It is a common myth that all Americans eat junk food every day.
-   > **中文**：所有美国人每天都吃垃圾食品是一个常见的误区。
+15. American society is diverse.
+    > **中文**：美国社会是多元的。
 
-16. They welcomed us with a warm handshake.
-   > **中文**：他们用热情的握手欢迎我们。
+16. The cowboy is a symbol of American culture.
+    > **中文**：牛仔是美国文化的符号。
 
-17. Don't jump to conclusions before knowing all the facts.
-   > **中文**：在了解所有事实之前不要急于下结论。
+17. Everyone talks about the American dream.
+    > **中文**：每个人都在谈论美国梦。
 
-18. The culture in this region is remarkably diverse.
-   > **中文**：这个地区的文化非常多元。
+18. This idea is unrealistic.
+    > **中文**：这个观点不切实际。
 
-19. He holds an old-fashioned perspective on career paths.
-   > **中文**：他对职业道路持有一种老派的观点。
+19. She has a welcoming smile.
+    > **中文**：她有一个热情的微笑。
 
-20. After all, people deserve a second chance.
-   > **中文**：毕竟，人们值得第二次机会。
+20. The competition here is very competitive.
+    > **中文**：这里的竞争很激烈。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| cliché | 陈词滥调 |
-| first impression | 第一印象 |
+| --- | --- |
 | American dream | 美国梦 |
-| assume | 假定；想当然 |
-| cowboy | 牛仔 |
 | after all | 毕竟 |
-| reputation | 名声；口碑 |
-| competitive | 竞争激烈的 |
-| love at first sight | 一见钟情 |
-| old-fashioned | 老派的；过时的 |
-| conclusion | 结论 |
-| myth | 神话；误区 |
-| diverse | 多元的 |
-| welcoming | 好客的；热情的 |
-| what on earth | 究竟；到底 |
+| american | 美国的；美国人 |
+| assume | 假定 |
 | cheerleader | 啦啦队员 |
-| necessarily | 必然；一定 |
+| cliché | 陈词滥调 |
+| competitive | 好竞争的 |
+| conclusion | 结论 |
+| cowboy | 牛仔 |
+| diverse | 多元的 |
+| first impression | 第一印象 |
+| it might seem that | 看起来可能 |
+| it seems that | 看起来 |
+| love at first sight | 一见钟情 |
+| might have | 可能已经 |
+| might not have | 可能没有 |
+| myth | 错误观念；神话 |
+| necessarily | 必然地 |
+| not sure that | 不确定…… |
+| old-fashioned | 老式的 |
+| reputation | 名声 |
+| shake | 摇；握手 |
 | unrealistic | 不切实际的 |
-| shake | 握手；摇动 |
-| it seems that | 似乎；好像 |
+| welcoming | 热情友好的 |
+| what on earth | 到底…… |
+| friendly | 友好的 |
+| society | 社会 |
+| culture | 文化 |
+| smile | 微笑 |
+| idea | 观点 |
+| kid | 孩子 |
 
 </quiz-matching>
 
@@ -242,202 +244,202 @@ American dream, after all, american, assume, cheerleader, cliché, competitive, 
 
 ### 1
 
-It seems that first ____ are not always accurate.
+It ____ that he is friendly.
 
-- [x] impressions
-- [ ] American dream
-- [ ] after all
+- [x] seems
+- [ ] seem
+- [ ] seeming
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **impressions**。
+> **解析**：It 是三单主语，seem 加 s；It seems that 是固定结构。
 
 ### 2
 
-She gave a cliché ____ for being late.
+It might ____ that way, but it is not true.
 
-- [x] explanation
-- [ ] American dream
-- [ ] after all
+- [x] seem
+- [ ] seems
+- [ ] seemed
 
-> **解析**：**explanation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：might 后接动词原形 seem；seems 是三单形式，不能跟在 might 后。
 
 ### 3
 
-They might have assumed that everyone lives the ____ dream.
+Don't ____ anything.
 
-- [x] American
-- [ ] American dream
-- [ ] after all
+- [x] assume
+- [ ] assumes
+- [ ] assuming
 
-> **解析**：**American** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Don't 后接动词原形 assume；assumes 是三单形式，assuming 不能构成祈使句。
 
 ### 4
 
-Not everyone in Texas is a ____, after all.
+I'm not ____ that's accurate.
 
-- [x] cowboy
-- [ ] American dream
-- [ ] after all
+- [x] sure
+- [ ] surely
+- [ ] assurance
 
-> **解析**：**cowboy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：I'm not sure 是固定表态，sure 作表语；surely 是副词，assurance 是名词。
 
 ### 5
 
-The company has a ____ for being very competitive.
+She might have ____ a cheerleader.
 
-- [x] reputation
-- [ ] American dream
-- [ ] after all
+- [x] been
+- [ ] be
+- [ ] being
 
-> **解析**：**reputation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：might have 后接过去分词 been 构成对过去的推测；being 不接在 have 后。
 
 ### 6
 
-Do you ____ in love at first sight?
+He might not have ____ about it.
 
-- [x] believe
-- [ ] American dream
-- [ ] after all
+- [x] known
+- [ ] know
+- [ ] knowing
 
-> **解析**：**believe** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：might not have 后接过去分词 known；knowing 不接在 have 后构成此结构。
 
 ### 7
 
-It might seem that ____ ideas are no longer useful.
+That is not ____ true.
 
-- [x] old-fashioned
-- [ ] American dream
-- [ ] after all
+- [x] necessarily
+- [ ] necessary
+- [ ] necessity
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **old-fashioned**。
+> **解析**：修饰形容词 true 需要副词 necessarily；necessary 是形容词，necessity 是名词。
 
 ### 8
 
-We came to the ____ that the rumor was just a myth.
+What on ____ is that?
 
-- [x] conclusion
-- [ ] American dream
-- [ ] after all
+- [x] earth
+- [ ] earths
+- [ ] earthly
 
-> **解析**：**conclusion** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：What on earth 是固定加强疑问表达；earthly 是形容词不合此短语。
 
 ### 9
 
-The local community is very ____ and welcoming to newcomers.
+Don't be too hard on him; after ____, he is just a kid.
 
-- [x] diverse
-- [ ] American dream
-- [ ] after all
+- [x] all
+- [ ] alls
+- [ ] always
 
-> **解析**：**diverse** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：after all 是固定短语"毕竟"；always 是副词不合此结构。
 
 ### 10
 
-What on earth made you think that ____ are not athletic?
+It is a common ____.
 
-- [x] cheerleaders
-- [ ] American dream
-- [ ] after all
+- [x] myth
+- [ ] myths
+- [ ] mythical
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **cheerleaders**。
+> **解析**：a common myth 用单数名词；mythical 是形容词。
 
 ### 11
 
-Hard work does not ____ guarantee success.
+Love at first ____ is just a cliché.
 
-- [x] necessarily
-- [ ] American dream
-- [ ] after all
+- [x] sight
+- [ ] site
+- [ ] sights
 
-> **解析**：**necessarily** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：love at first sight 是固定短语"一见钟情"；site 是"地点"干扰项。
 
 ### 12
 
-I am not sure that this ____ is realistic.
+Don't draw a ____ from first impressions.
 
-- [x] expectation
-- [ ] American dream
-- [ ] after all
+- [x] conclusion
+- [ ] conclusions
+- [ ] concluding
 
-> **解析**：**expectation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：draw a conclusion 是固定搭配，用单数；concluding 是动名词。
 
 ### 13
 
-They might not have realized how ____ their expectations were.
+He has a good ____.
 
-- [x] unrealistic
-- [ ] American dream
-- [ ] after all
+- [x] reputation
+- [ ] reputations
+- [ ] reputable
 
-> **解析**：**unrealistic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a good reputation 用单数名词；reputable 是形容词。
 
 ### 14
 
-He was a ____ in high school.
+____ hands when you meet.
 
-- [x] cheerleader
-- [ ] American dream
-- [ ] after all
+- [x] Shake
+- [ ] Shakes
+- [ ] Shaking
 
-> **解析**：**cheerleader** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：祈使句用动词原形 Shake；shake hands 是固定搭配。
 
 ### 15
 
-It is a common ____ that all Americans eat junk food every day.
+American ____ is diverse.
 
-- [x] myth
-- [ ] American dream
-- [ ] after all
+- [x] society
+- [ ] societies
+- [ ] social
 
-> **解析**：**myth** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 要求单数主语 society；social 是形容词不作主语。
 
 ### 16
 
-They welcomed us with a warm ____.
+The cowboy is a symbol of American ____.
 
-- [x] handshake
-- [ ] American dream
-- [ ] after all
+- [x] culture
+- [ ] cultures
+- [ ] cultural
 
-> **解析**：**handshake** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：American culture 是固定搭配，用单数；cultural 是形容词。
 
 ### 17
 
-Don't jump to ____ before knowing all the facts.
+Everyone talks about the American ____.
 
-- [x] conclusions
-- [ ] American dream
-- [ ] after all
+- [x] dream
+- [ ] dreams
+- [ ] dreaming
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **conclusions**。
+> **解析**：the American dream 是固定短语；dreaming 是动名词。
 
 ### 18
 
-The culture in this region is remarkably ____.
+This idea is ____.
 
-- [x] diverse
-- [ ] American dream
-- [ ] after all
+- [x] unrealistic
+- [ ] unrealistically
+- [ ] un-real
 
-> **解析**：**diverse** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后接形容词 unrealistic 作表语；unrealistically 是副词，un-real 不是规范词。
 
 ### 19
 
-He holds an ____ perspective on career paths.
+She has a ____ smile.
 
-- [x] old-fashioned
-- [ ] American dream
-- [ ] after all
+- [x] welcoming
+- [ ] welcome
+- [ ] welcomed's
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **old-fashioned**。
+> **解析**：welcoming 形容词修饰 smile；welcomed's 是所有格不合。
 
 ### 20
 
-After all, people ____ a second chance.
+The competition here is very ____.
 
-- [x] deserve
-- [ ] American dream
-- [ ] after all
+- [x] competitive
+- [ ] compete
+- [ ] competition
 
-> **解析**：**deserve** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：very 修饰形容词 competitive 作表语；compete 是动词，competition 是名词，与主语重复。
 
 </quiz-cloze>

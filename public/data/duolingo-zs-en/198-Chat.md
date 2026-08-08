@@ -10,32 +10,33 @@ any, anyway, as much as, at the moment, cab, change the subject, either, even, f
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"分享过去的回忆"展开，场景是朋友间的闲聊。词表里有社交互动表达（say hi, say goodbye to, knock, miss, fight）、口语连接词和语气词（anyway, either, even, so, i insist）以及现在完成时的否定（hasn't, haven't）。
+本单元的主题是"闲聊与回忆"。词表可以分成三组：打招呼与告别用语（say hi, say goodbye to, knock, i insist, insist）、闲聊连接词与副词（any, anyway, either, even, so, as much as, at the moment, when's, how to, wanted）、以及场景动作词（miss, fight, hand, cab, change the subject, watch out for, hasn't, haven't）。拼起来就是老友重逢的闲聊：I haven't seen you for years! Say hi to your brother for me. When's the party? Anyway, I insist you take a cab home.
 
-你可以练习回忆和闲聊：I haven't seen you in ages! / She hasn't changed at all. / I miss the old days—say hi to everyone for me. / Anyway, let's change the subject. / Watch out for that cab! / I insist—you take the last piece.
+语法主线是否定缩写的现在完成时：haven't = have not，hasn't = has not。I haven't seen you for ages.（好久没见到你了。）主语为第三人称单数用 hasn't：She hasn't called yet. 另一条主线是闲聊中的小词：anyway（总之、话说回来）用来转移话题；even（甚至）加强语气；either 用于否定句末表示"也（不）"：I don't know either. 与 too 用于肯定句相对。
 
-现在完成时 hasn't/haven't + 过去分词用来谈"到现在为止还没……"。as much as 表比较，at the moment = 现在。整体语气轻松、口语化，适合练习自然的朋友对话。
+学完这些词，你能用英语自然地闲聊、问候与道别、转移话题，并谈论过去的回忆。
 
 ## Tips
 
-- **hasn't / haven't / wanted** — hasn't = has not，haven't = have not，用于现在完成时否定（I haven't seen her. / He hasn't called.）。wanted 是 want 的过去式，在口语中用 I wanted to ask... 比 I want to ask... 更委婉客气。
+- **haven't / hasn't** — 现在完成时的否定缩写。haven't 配 I/you/we/they：I haven't seen him.；hasn't 配 he/she/it：She hasn't arrived. 常与 yet、for 连用。
 
-- **say hi / say goodbye to / miss** — say hi (to someone) = 打招呼（Say hi to your mom for me.）。say goodbye to = 告别。miss = 想念（I miss you.）也可指"错过"（miss the bus）。注意 miss 做"想念"时是持续性状态。
+- **say hi / say goodbye to** — 打招呼与道别。say hi to someone（向某人问好）；say goodbye to someone（向某人道别）。注意 say hi 用 to 引出对象：Say hi to your mom for me.（替我向你妈妈问好。）
 
-- **anyway / either / even / so** — anyway = 反正、不管怎样（用来转换话题或总结）。either 用于否定句"也"（I don't like it either.），对比肯定句用 too。even = 甚至（Even he cried.）。so = 所以、那么。
+- **i insist / insist** — insist 坚持：I insist!（我一定要这样做！）常用于坚持请客、坚持让对方接受好意。i insist 是全小写的词表形式，实际书写中 I insist. 语气热情而礼貌。
 
-- **i insist / insist** — I insist = 我坚持（用于客气地坚持让对方接受，比如抢着买单）。insist 搭配：insist on doing something, insist that...。例句：I insist on paying. / She insisted that he stay.
+- **anyway** — "总之、话说回来"，转移或收束话题：Anyway, let's go.（总之，我们走吧。）口语高频词，放在句首。
 
-- **change the subject / watch out for** — change the subject = 换话题（Let's change the subject.）。watch out for = 当心、留意（Watch out for cars!）。两者都是口语中极常用的固定表达。
+- **any / either** — any 用于否定句和疑问句：I don't have any questions.；either 放否定句末表示"也（不）"：I don't like it either. 肯定句"也"用 too。
 
-- **knock / fight / cab** — knock = 敲门（knock on the door）。fight 作名词"打架、争吵"，作动词"打架"（They fought yesterday.），过去式 fought。cab = 出租车（taxi 的口语说法，来自 cabriolet）。
+- **even / so / as much as** — even 甚至，加强语气：He didn't even say hi.；so 那么、所以：I'm so happy to see you.；as much as 和……一样多/尽量：Visit as much as you can.
 
-- **as much as / at the moment / how to** — as much as = 和……一样多（I love you as much as before.）。at the moment = 此刻、现在（= right now）。how to = 如何（I don't know how to say it.）。
+- **at the moment / when's / how to / wanted** — at the moment 此刻：I'm busy at the moment.；when's = when is：When's the meeting?；how to 如何：I forgot how to get there.；wanted 是 want 的过去式，回忆场景常用：I wanted to ask you something.
 
-- **hand / when's / any** — hand 在这里可能指"递"（Hand me that.）或"手"。when's = when is（When's the party?）。any 用于疑问和否定（Do you have any questions? / I don't have any.）。
+- **miss / fight / knock / hand / cab** — miss 想念、错过：I miss you.；fight 打架、争吵；knock 敲门：knock on the door；hand 手，也可作动词"递"：hand me the book；cab 出租车（taxicab 的简称）：take a cab.
+
+- **change the subject / watch out for** — change the subject 转移话题：Let's change the subject.；watch out for 留意、提防：Watch out for cars. 两个都是闲聊中的实用短语。
 
 ## 练习
 
@@ -53,149 +54,149 @@ any, anyway, as much as, at the moment, cab, change the subject, either, even, f
 
 <quiz-sentence-builder>
 
-1. **中文**：无论如何，非常感谢你抽出时间来解答我的疑问。
-   **英文**：Anyway, let's catch up on news another day.
-   > **解析**：Anyway 表示“无论如何/总之”（用于话题转换/结束）。
+1. **中文**：我好多年没见到你了。
+   **英文**：I haven't seen you for years.
+   > **解析**：haven't seen 是现在完成时否定；for years 表示持续时长。
 
-2. **中文**：只要时间允许，我愿意尽力多提供协助。
-   **英文**：He loves reading as much as he enjoys sport.
-   > **解析**：as much as 表示“与……一样多/尽可能”。
+2. **中文**：替我向你哥哥问好。
+   **英文**：Say hi to your brother for me.
+   > **解析**：say hi to 是固定搭配；for me 表示"替我"。
 
-3. **中文**：非常抱歉，经理此刻正在开会，请稍后重拨。
-   **英文**：She is busy on another call at the moment.
-   > **解析**：at the moment 表示“此刻/目前”。
+3. **中文**：我们得向你道别了。
+   **英文**：We have to say goodbye to you.
+   > **解析**：have to 表必要；say goodbye to 是固定搭配。
 
-4. **中文**：我们在路边招手叫了一辆出租车赶往机场。
-   **英文**：We called a yellow cab to take us downtown.
-   > **解析**：cab 表示“出租车/计程车”。
+4. **中文**：有人敲门。
+   **英文**：Someone is knocking on the door.
+   > **解析**：is knocking 是现在进行时；knock on the door 是固定搭配。
 
-5. **中文**：为了避免尴尬，她赶忙转换话题聊起了天气。
-   **英文**：Let's change the subject and talk about holiday.
-   > **解析**：change the subject 表示“转换话题”。
+5. **中文**：你一定要留下来吃晚饭。
+   **英文**：I insist that you stay for dinner.
+   > **解析**：insist 后接 that 从句；stay for dinner 表示"留下吃晚饭"。
 
-6. **中文**：将填好的申请表格亲自递给前台行政人员。
-   **英文**：Please hand me the document when you are done.
-   > **解析**：hand 表示“递给/手”。
+6. **中文**：我坚持。
+   **英文**：I insist!
+   > **解析**：单独成句，表示坚持自己的提议，语气热情。
 
-7. **中文**：今晚的晚餐由我请客，我坚持买单！
-   **英文**：Thank you, but I insist on paying for dinner.
-   > **解析**：I insist 表示“我坚持/由我买单”。
+7. **中文**：总之，我们出发吧。
+   **英文**：Anyway, let's go.
+   > **解析**：Anyway 放句首转移话题；Let's 后接动词原形 go。
 
-8. **中文**：即使遇到困难，他也坚持按原计划推进项目。
-   **英文**：He will insist on quality service for customers.
-   > **解析**：insist 表示“坚持/坚决要求”。
+8. **中文**：他甚至连招呼都没打。
+   **英文**：He didn't even say hi.
+   > **解析**：even 加强否定语气；didn't 后接动词原形 say。
 
-9. **中文**：进房间前请先轻轻敲门提醒里面的人。
-   **英文**：Remember to knock on the front door before entering.
-   > **解析**：knock 表示“敲门/敲击”。
+9. **中文**：我也不知道。
+   **英文**：I don't know either.
+   > **解析**：either 放否定句末表示"也（不）"；肯定句用 too。
 
-10. **中文**：搬到外地后，我会非常想念这里的每一位老朋友。
-   **英文**：I will miss working with this dedicated team.
-   > **解析**：miss 表示“想念/思念/错过”。
+10. **中文**：我没有任何问题。
+   **英文**：I don't have any questions.
+   > **解析**：any 用于否定句；questions 用复数。
 
-11. **中文**：在登机前，他依依不舍地向家人告别。
-   **英文**：She went to say goodbye to her colleagues.
-   > **解析**：say goodbye to 表示“向……告别/道别”。
+11. **中文**：见到你我太高兴了。
+   **英文**：I'm so happy to see you.
+   > **解析**：so 修饰形容词 happy；to see 是不定式表原因。
 
-12. **中文**：碰到路过的热心邻居，记得微笑打招呼。
-   **英文**：Always say hi to your neighbors when passing by.
-   > **解析**：say hi 表示“打招呼/问好”。
+12. **中文**：你尽管常来玩。
+   **英文**：Visit as much as you can.
+   > **解析**：as much as 表示"尽量、和……一样多"；can 后接动词原形。
 
-13. **中文**：晚间在昏暗的巷子里走要当心路面坑洼。
-   **英文**：Please watch out for icy spots on the sidewalk.
-   > **解析**：watch out for 表示“当心/注意/提防”。
+13. **中文**：我现在很忙。
+   **英文**：I'm busy at the moment.
+   > **解析**：at the moment 表示"此刻"，常与现在进行时或现在时连用。
 
-14. **中文**：兄弟俩因为玩具归属问题在房间里发生了争吵。
-   **英文**：They try not to fight over small matters.
-   > **解析**：fight 表示“争吵/打架/战斗”。
+14. **中文**：派对是什么时候？
+   **英文**：When's the party?
+   > **解析**：when's 是 when is 的缩写；the party 是主语。
 
-15. **中文**：就算天下大雨，他也甚至坚持跑完了整场马拉松。
-   **英文**：Even when he is tired, he keeps working hard.
-   > **解析**：Even 表示“甚至/连……都”。
+15. **中文**：我忘了怎么去那里。
+   **英文**：I forgot how to get there.
+   > **解析**：forgot 是 forget 的过去式；how to + 动词原形作宾语。
 
-16. **中文**：要么选择打车，要么乘坐地铁，两种方式均可。
-   **英文**：You can either call a cab or take the subway.
-   > **解析**：either...or... 表示“要么……要么……”。
+16. **中文**：我想问你一件事。
+   **英文**：I wanted to ask you something.
+   > **解析**：wanted 是过去式，语气委婉；ask you something 是双宾结构。
 
-17. **中文**：包裹至今还没有送达，我们需要电话查询。
-   **英文**：He hasn't called me back since yesterday morning.
-   > **解析**：hasn't 即 has not。
+17. **中文**：我想你。
+   **英文**：I miss you.
+   > **解析**：miss 是及物动词，直接接宾语 you。
 
-18. **中文**：我们还没有决定今年夏天去哪里度假。
-   **英文**：We haven't decided on a travel destination yet.
-   > **解析**：haven't 即 have not。
+18. **中文**：小心车辆。
+   **英文**：Watch out for cars.
+   > **解析**：watch out for 是固定短语；cars 用复数表泛指。
 
-19. **中文**：因此，我们决定提前半小时出发以防堵车。
-   **英文**：The weather was cold, so we stayed indoors.
-   > **解析**：so 表示“因此/所以”。
+19. **中文**：我们换个话题吧。
+   **英文**：Let's change the subject.
+   > **解析**：Let's 后接动词原形 change；the subject 是宾语。
 
-20. **中文**：我原先想要预订那套靠近市中心的公寓。
-   **英文**：She wanted to ask a question about the schedule.
-   > **解析**：wanted 表示“想要（want的过去式）”。
+20. **中文**：打个出租车回家吧。
+   **英文**：Take a cab home.
+   > **解析**：祈使句用动词原形 Take；home 作副词，前不加 to。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Anyway, let's catch up on news another day.
-   > **中文**：无论如何，非常感谢你抽出时间来解答我的疑问。
+1. I haven't seen you for years.
+   > **中文**：我好多年没见到你了。
 
-2. He loves reading as much as he enjoys sport.
-   > **中文**：只要时间允许，我愿意尽力多提供协助。
+2. Say hi to your brother for me.
+   > **中文**：替我向你哥哥问好。
 
-3. She is busy on another call at the moment.
-   > **中文**：非常抱歉，经理此刻正在开会，请稍后重拨。
+3. We have to say goodbye to you.
+   > **中文**：我们得向你道别了。
 
-4. We called a yellow cab to take us downtown.
-   > **中文**：我们在路边招手叫了一辆出租车赶往机场。
+4. Someone is knocking on the door.
+   > **中文**：有人敲门。
 
-5. Let's change the subject and talk about holiday.
-   > **中文**：为了避免尴尬，她赶忙转换话题聊起了天气。
+5. I insist that you stay for dinner.
+   > **中文**：你一定要留下来吃晚饭。
 
-6. Please hand me the document when you are done.
-   > **中文**：将填好的申请表格亲自递给前台行政人员。
+6. I insist!
+   > **中文**：我坚持。
 
-7. Thank you, but I insist on paying for dinner.
-   > **中文**：今晚的晚餐由我请客，我坚持买单！
+7. Anyway, let's go.
+   > **中文**：总之，我们出发吧。
 
-8. He will insist on quality service for customers.
-   > **中文**：即使遇到困难，他也坚持按原计划推进项目。
+8. He didn't even say hi.
+   > **中文**：他甚至连招呼都没打。
 
-9. Remember to knock on the front door before entering.
-   > **中文**：进房间前请先轻轻敲门提醒里面的人。
+9. I don't know either.
+   > **中文**：我也不知道。
 
-10. I will miss working with this dedicated team.
-   > **中文**：搬到外地后，我会非常想念这里的每一位老朋友。
+10. I don't have any questions.
+   > **中文**：我没有任何问题。
 
-11. She went to say goodbye to her colleagues.
-   > **中文**：在登机前，他依依不舍地向家人告别。
+11. I'm so happy to see you.
+   > **中文**：见到你我太高兴了。
 
-12. Always say hi to your neighbors when passing by.
-   > **中文**：碰到路过的热心邻居，记得微笑打招呼。
+12. Visit as much as you can.
+   > **中文**：你尽管常来玩。
 
-13. Please watch out for icy spots on the sidewalk.
-   > **中文**：晚间在昏暗的巷子里走要当心路面坑洼。
+13. I'm busy at the moment.
+   > **中文**：我现在很忙。
 
-14. They try not to fight over small matters.
-   > **中文**：兄弟俩因为玩具归属问题在房间里发生了争吵。
+14. When's the party?
+   > **中文**：派对是什么时候？
 
-15. Even when he is tired, he keeps working hard.
-   > **中文**：就算天下大雨，他也甚至坚持跑完了整场马拉松。
+15. I forgot how to get there.
+   > **中文**：我忘了怎么去那里。
 
-16. You can either call a cab or take the subway.
-   > **中文**：要么选择打车，要么乘坐地铁，两种方式均可。
+16. I wanted to ask you something.
+   > **中文**：我想问你一件事。
 
-17. He hasn't called me back since yesterday morning.
-   > **中文**：包裹至今还没有送达，我们需要电话查询。
+17. I miss you.
+   > **中文**：我想你。
 
-18. We haven't decided on a travel destination yet.
-   > **中文**：我们还没有决定今年夏天去哪里度假。
+18. Watch out for cars.
+   > **中文**：小心车辆。
 
-19. The weather was cold, so we stayed indoors.
-   > **中文**：因此，我们决定提前半小时出发以防堵车。
+19. Let's change the subject.
+   > **中文**：我们换个话题吧。
 
-20. She wanted to ask a question about the schedule.
-   > **中文**：我原先想要预订那套靠近市中心的公寓。
+20. Take a cab home.
+   > **中文**：打个出租车回家吧。
 
 </quiz-listening>
 
@@ -203,26 +204,32 @@ any, anyway, as much as, at the moment, cab, change the subject, either, even, f
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| Anyway | 无论如何 / 总之 |
-| as much as | 与……一样多 |
-| at the moment | 此刻 / 目前 |
+| any | 任何 |
+| anyway | 总之 / 话说回来 |
+| as much as | 尽量 / 和……一样多 |
+| at the moment | 此刻 |
 | cab | 出租车 |
-| change the subject | 转换话题 |
-| hand | 递给 / 手 |
-| I insist | 我坚持买单 |
+| change the subject | 转移话题 |
+| either | 也（用于否定） |
+| even | 甚至 |
+| fight | 争吵 / 打架 |
+| hand | 手 / 递 |
+| hasn't | 没有（has not 缩写） |
+| haven't | 没有（have not 缩写） |
+| how to | 如何 |
+| i insist | 我坚持 |
 | insist | 坚持 |
-| knock | 敲门 |
+| knock | 敲 |
 | miss | 想念 / 错过 |
-| say goodbye to | 向……告别 |
-| say hi | 打招呼 |
-| watch out for | 当心 / 注意 |
-| fight | 争吵 / 战斗 |
-| Even | 甚至 |
-| either | 要么 |
-| hasn't | 还没有（has not） |
-| haven't | 还没有（have not） |
-| so | 因此 |
-| wanted | 想要（want的过去式） |
+| say goodbye to | 向……道别 |
+| say hi | 问好 |
+| so | 所以 / 那么 |
+| wanted | 想（过去式） |
+| watch out for | 留意 / 提防 |
+| when's | when is 的缩写 |
+| is | 是（单数） |
+| the | 这个 / 那个 |
+| door | 门 |
 
 </quiz-matching>
 
@@ -230,202 +237,202 @@ any, anyway, as much as, at the moment, cab, change the subject, either, even, f
 
 ### 1
 
-____, let's catch up on news another day.
+I ____ seen you for years.
 
-- [x] Anyway
-- [ ] any
-- [ ] as much as
+- [x] haven't
+- [ ] hasn't
+- [ ] don't
 
-> **解析**：**Anyway** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 I 配 haven't；hasn't 用于第三人称单数，don't 后不能接过去分词。
 
 ### 2
 
-He loves ____ as much as he enjoys sport.
+Say hi ____ your brother for me.
 
-- [x] reading
-- [ ] any
-- [ ] anyway
+- [x] to
+- [ ] at
+- [ ] with
 
-> **解析**：**reading** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：say hi to 是固定搭配；其余介词不成立。
 
 ### 3
 
-She is busy on ____ call at the moment.
+We have to say goodbye ____ you.
 
-- [x] another
-- [ ] any
-- [ ] anyway
+- [x] to
+- [ ] at
+- [ ] for to
 
-> **解析**：**another** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：say goodbye to 是固定搭配；其余介词不成立。
 
 ### 4
 
-We called a yellow ____ to take us downtown.
+Someone is knocking ____ the door.
 
-- [x] cab
-- [ ] any
-- [ ] anyway
+- [x] on
+- [ ] in
+- [ ] to at
 
-> **解析**：**cab** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：knock on the door 是固定搭配；其余介词不成立。
 
 ### 5
 
-Let's change the ____ and talk about holiday.
+I ____ that you stay for dinner.
 
-- [x] subject
-- [ ] any
-- [ ] anyway
+- [x] insist
+- [ ] insist to
+- [ ] insisting
 
-> **解析**：**subject** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：insist 后直接接 that 从句；主语 I 用动词原形。
 
 ### 6
 
-Please ____ me the document when you are done.
+____, let's go.
 
-- [x] hand
-- [ ] any
-- [ ] anyway
+- [x] Anyway
+- [ ] Any way of
+- [ ] Every
 
-> **解析**：**hand** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Anyway（总之）放句首转移话题；其余不合此用法。
 
 ### 7
 
-Thank you, but I ____ on paying for dinner.
+He didn't ____ say hi.
 
-- [x] insist
-- [ ] any
-- [ ] anyway
+- [x] even
+- [ ] even to
+- [ ] ever even to
 
-> **解析**：**insist** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：even 加强否定语气，放动词前；其余结构错误。
 
 ### 8
 
-He will ____ on quality service for customers.
+I don't know ____.
 
-- [x] insist
-- [ ] any
-- [ ] anyway
+- [x] either
+- [ ] too
+- [ ] neither
 
-> **解析**：**insist** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：否定句末"也（不）"用 either；too 用于肯定句，neither 会造成双重否定。
 
 ### 9
 
-Remember to ____ on the front door before entering.
+I don't have ____ questions.
 
-- [x] knock
-- [ ] any
-- [ ] anyway
+- [x] any
+- [ ] some
+- [ ] a
 
-> **解析**：**knock** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：否定句用 any；some 用于肯定句，a 与复数冲突。
 
 ### 10
 
-I will ____ working with this dedicated team.
+I'm ____ happy to see you.
 
-- [x] miss
-- [ ] any
-- [ ] anyway
+- [x] so
+- [ ] such
+- [ ] too much
 
-> **解析**：**miss** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：so 修饰形容词 happy；such 修饰名词短语。
 
 ### 11
 
-She went to say goodbye to her ____.
+Visit as much ____ you can.
 
-- [x] colleagues
-- [ ] any
-- [ ] anyway
+- [x] as
+- [ ] than
+- [ ] that
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **colleagues**。
+> **解析**：as much as 是固定结构；than 用于比较级。
 
 ### 12
 
-Always say hi to your ____ when passing by.
+I'm busy ____ the moment.
 
-- [x] neighbors
-- [ ] any
-- [ ] anyway
+- [x] at
+- [ ] in
+- [ ] on
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **neighbors**。
+> **解析**：at the moment（此刻）是固定短语；其余介词不成立。
 
 ### 13
 
-Please watch out for icy spots on the ____.
+When's ____ party?
 
-- [x] sidewalk
-- [ ] any
-- [ ] anyway
+- [x] the
+- [ ] a the
+- [ ] an
 
-> **解析**：**sidewalk** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：特指的派对话题用 the；when's = when is。
 
 ### 14
 
-They try not to ____ over small matters.
+I forgot how ____ get there.
 
-- [x] fight
-- [ ] any
-- [ ] anyway
+- [x] to
+- [ ] for
+- [ ] at
 
-> **解析**：**fight** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：how to + 动词原形是固定结构；其余介词不成立。
 
 ### 15
 
-____ when he is tired, he keeps working hard.
+I ____ to ask you something.
 
-- [x] Even
-- [ ] any
-- [ ] anyway
+- [x] wanted
+- [ ] want to
+- [ ] wanting
 
-> **解析**：**Even** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：wanted 是过去式，语气委婉；want to to 重复，wanting 不能单独作谓语。
 
 ### 16
 
-You can ____ call a cab or take the subway.
+I ____ you.
 
-- [x] either
-- [ ] any
-- [ ] anyway
+- [x] miss
+- [ ] misses
+- [ ] missed to
 
-> **解析**：**either** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：主语 I 后用动词原形 miss；missed to 结构错误。
 
 ### 17
 
-He ____ called me back since yesterday morning.
+Watch out ____ cars.
 
-- [x] hasn't
-- [ ] any
-- [ ] anyway
+- [x] for
+- [ ] at
+- [ ] on
 
-> **解析**：**hasn't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：watch out for 是固定短语；其余介词不成立。
 
 ### 18
 
-We ____ decided on a travel destination yet.
+Let's change the ____.
 
-- [x] haven't
-- [ ] any
-- [ ] anyway
+- [x] subject
+- [ ] subjects of
+- [ ] subjects to
 
-> **解析**：**haven't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：change the subject（转移话题）是固定搭配；其余搭配不成立。
 
 ### 19
 
-The weather was cold, ____ we stayed indoors.
+Take a cab ____.
 
-- [x] so
-- [ ] any
-- [ ] anyway
+- [x] home
+- [ ] to home
+- [ ] at home
 
-> **解析**：**so** 为结果连词，表示“因此 / 所以”。
+> **解析**：home 作副词，前不加 to；✗ go to home 是常见错误。
 
 ### 20
 
-She ____ to ask a question about the schedule.
+She ____ called yet.
 
-- [x] wanted
-- [ ] any
-- [ ] anyway
+- [x] hasn't
+- [ ] haven't
+- [ ] don't
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **wanted**。
+> **解析**：主语 She 是第三人称单数，用 hasn't；yet 提示现在完成时否定。
 
 </quiz-cloze>

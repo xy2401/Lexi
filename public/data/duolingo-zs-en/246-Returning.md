@@ -10,60 +10,35 @@ appear, as a result of, bartender, before long, consequently, courage, debt, dee
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的话题是"解释你为什么搬回了家"——一个关于生活转折、经济压力和自我反思的故事。词表里有经济相关词汇（debt, savings, living）和情感状态词（miserable, irritated, determined, courage）。你可以这样讲述：As a result of mounting debt, I had to move back home. Deep down, I was miserable, but I was determined to be productive and reflect on my upbringing.（由于债务越积越多，我不得不搬回家。内心深处我很痛苦，但我决心保持高效，反思自己的成长经历。）
+本单元的主题是"解释为什么搬回家住"，场景是成年后重返父母家。词表可以分成四组：经济与工作（debt, savings, living, productive, work out, rely on）、情绪与态度（miserable, irritated, determined, courage, patience, deep down, just）、因果衔接（as a result of, consequently, before long, so i would, so i wouldn't）、以及成长与反思（upbringing, reflect, appear, for granted, impact, trap, move back home）。拼起来就是一段坦诚的自述：I was in debt and miserable. As a result of losing my job, I decided to move back home so I could save money.
 
-consequently 和 as a result of 都是表因果的正式表达。for granted（视为理所当然）、rely on（依赖）、work out（解决/锻炼）这些短语让叙述更自然。so I would / so I wouldn't 用来表达"目的"——我这样做是为了……/为了不……。before long = 不久之后，是讲故事的节奏词。
+语法主线是因果表达链：as a result of + 名词短语说明原因，consequently 作副词连接结果，so + 从句说明目的或结果。另一条主线是目的从句 so I would / so I wouldn't：I moved back so I wouldn't spend all my savings.（我搬回来是为了不花光积蓄。）
 
-学完本单元，你能用英语解释一个重大生活决定的前因后果，表达从低谷到重新振作的过程。
+学完这个单元，你能用英语解释人生转折的原因、描述情绪变化，并有条理地讲述前因后果。
 
 ## Tips
 
-- **move back home** — "搬回家（通常指搬回父母家）"。I had to move back home after college. 在英语文化中，成年后搬回父母家常带有"经济困难"或"过渡期"的暗示，但近年来越来越普遍。
+- **as a result of / consequently** — 两个因果表达。as a result of + 名词短语：As a result of the accident, he lost his job. consequently 是副词"因此"，连接两个句子：He overspent; consequently, he had no savings.
 
-- **deep down** — "内心深处"，用来引出真实感受。Deep down, I knew it was the right choice. 比 inside 更有"表面不说但心里清楚"的意味。常和 know, feel, want 搭配。
+- **so i would / so i wouldn't** — 目的从句骨架：I studied hard so I would pass. / I left early so I wouldn't be late. so 后接完整句子，说明做某事的目的。
 
-- **for granted** — "视为理所当然"，几乎总出现在 take... for granted 结构中。I took my parents' support for granted. = 我把父母的支持当作理所当然。非常高频的习语。
+- **debt / savings / living** — 经济三词。debt 是债务：be in debt（负债）；savings 是积蓄，常用复数；living 指生活开销或谋生：the cost of living, make a living。
 
-- **consequently** — "因此、所以"，比 so 更正式，常用于书面。He lost his job; consequently, he moved back home. 和 as a result 近义，但 consequently 更强调逻辑推导。
+- **move back home / work out / rely on** — move back home = 搬回家住；work out = 顺利解决、行得通：Things will work out. 也可指健身；rely on = 依赖：rely on my parents。
 
-- **as a result of** — "由于、作为……的结果"，后接名词或 -ing。As a result of the debt, I left the city. 比 because of 更正式。注意 of 不能省略。
+- **miserable / irritated / determined** — 三个情绪形容词。miserable = 痛苦的；irritated = 恼火的，比 angry 轻；determined = 下定决心的：be determined to change.
 
-- **rely on** — "依赖、依靠"。I had to rely on my savings. / You can rely on me. 比 depend on 更强调"信任对方会做到"。名词 reliance / reliability。
+- **courage / patience / deep down** — courage 是勇气：have the courage to admit；patience 是耐心；deep down = 内心深处：Deep down, I knew it was right.
 
-- **work out** — 一词多义：① 解决（Things will work out.）② 锻炼（I work out every day.）③ 计算出（Work out the cost.）。本单元语境下可能是"事情会好起来的"。
+- **upbringing / reflect** — upbringing = 教养、成长方式：a strict upbringing；reflect = 反思，常接 on：reflect on my choices。
 
-- **determined** — "下定决心的"，形容词。搭配：be determined to do something。I was determined to pay off my debt. 动词 determine（决定），名词 determination（决心）。比 decided 语气更强。
+- **for granted / take ... for granted** — 固定搭配"视为理所当然"：I took my parents' help for granted. 反思类话题高频。
 
-- **miserable** — "痛苦的、悲惨的"，比 unhappy 程度重得多。I was miserable living alone in debt. 也可以形容天气糟糕：miserable weather。动词 misery 是名词（苦难）。
+- **impact / trap / appear / before long / just** — impact = 影响（名词，动词也可）；trap = 陷阱、困境：feel trapped in a job；appear = 显得、出现；before long = 不久；just 可表"刚刚"或"只是"。
 
-- **upbringing** — "教养、成长环境"。a good upbringing / a strict upbringing。来自动词 bring up（抚养）。注意是 un- 开头，不是 up- 分开的：upbringing 是一个词。
-
-- **debt** — "债务"。搭配：in debt（负债）/ pay off a debt / get into debt。注意 b 不发音：/det/。形容词 indebted（欠债的、感激的）。
-
-- **savings** — "存款、积蓄"，通常用复数。I used all my savings. 注意不说 a saving（那是"节省"）。动词 save，但"存款"这个概念用 savings。
-
-- **reflect** — "反思、反省"，也指"反射"。reflect on my choices = 反思我的选择。比 think about 更正式、更深入。名词 reflection。搭配 reflect on / upon。
-
-- **patience** — "耐心"。搭配：have patience / lose patience / test someone's patience。形容词 patient（耐心的/病人）。注意 -ience 结尾，不是 -ance。
-
-- **productive** — "高效的、多产的"。a productive day / be productive。反义词 unproductive。名词 productivity。在"搬回家"语境下，常用来表达"我不想浪费时间"。
-
-- **trap** — "陷阱、困境"。I felt trapped by debt. / It was a trap. 作动词：feel trapped = 感觉被困住。画面感很强，像掉进陷阱出不来。
-
-- **courage** — "勇气"。搭配：have the courage to / take courage。形容词 courageous。和 brave 的区别：courage 是名词，brave 是形容词；courage 更正式。
-
-- **impact** — "影响、冲击"，比 effect 更强调力度。a huge impact on my life / make an impact。可作动词：The debt impacted my health. 比 influence 更有"撞击感"。
-
-- **irritated** — "恼怒的、烦躁的"，比 angry 程度轻，更像"被惹烦了"。I was irritated by the noise. 动词 irritate，形容词 irritating（令人烦躁的）。注意 -ated 结尾。
-
-- **bartender** — "调酒师、酒吧服务员"。由 bar（吧台）+ tender（照料者）组成。tender 在这里取"照看"之意，和"温柔"的 tender 同源。美式说法，英式常说 barman/barmaid。
-
-- **before long** — "不久之后"，等于 soon。Before long, I found a new job. 注意不是 long before（很久以前）。两个词顺序不同，意思相反，容易混淆。
-
-- **appear** — "出现；似乎"。He appeared at the door. / It appears that he left. 比 seem 更正式。名词 appearance（外貌/出现）。注意双 p。
+- **bartender / productive** — bartender = 调酒师（bar + tend + -er）；productive = 高效的、有产出的：a productive day。
 
 ## 练习
 
@@ -81,149 +56,149 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
 
 <quiz-sentence-builder>
 
-1. **中文**：考虑到高昂的租金，他决定搬回老家与父母同住。
-   **英文**：Given high rent, he decided to move back home to save money.
-   > **解析**：move back home 表示搬回老家/父母家。
+1. **中文**：由于失业，我搬回了家。
+   **英文**：As a result of losing my job, I moved back home.
+   > **解析**：As a result of + 动名词短语表示原因，置于句首；moved 是过去式。
 
-2. **中文**：清偿掉所有信用卡债务后，他感到无比轻松。
-   **英文**：After paying off his student loan debt, he felt a huge relief.
-   > **解析**：debt 表示债务。
+2. **中文**：我超支了，因此没有积蓄。
+   **英文**：I overspent; consequently, I had no savings.
+   > **解析**：consequently 是副词"因此"，连接两个分句，前后用分号和逗号。
 
-3. **中文**：良好的家庭养育教给了他尊重他人与勤奋的品质。
-   **英文**：His strict upbringing taught him the value of honesty and hard work.
-   > **解析**：upbringing 表示养育、成长背景。
+3. **中文**：我搬回家是为了省钱。
+   **英文**：I moved home so I would save money.
+   > **解析**：so 引导目的从句；would + 动词原形表示当时将来的意图。
 
-4. **中文**：在大城市失业的那段日子让他感到非常痛苦。
-   **英文**：Living alone without a job made him feel miserable every day.
-   > **解析**：miserable 表示痛苦的、沮丧的。
+4. **中文**：我早起了，以免迟到。
+   **英文**：I left early so I wouldn't be late.
+   > **解析**：so I wouldn't 表示"以免、为了不……"；wouldn't be 是目的从句的谓语。
 
-5. **中文**：面对频繁延误的航班，乘客们变得格外烦躁。
-   **英文**：The flight delays made passengers increasingly irritated.
-   > **解析**：irritated 表示恼火的、烦躁的。
+5. **中文**：我负债累累。
+   **英文**：I was deep in debt.
+   > **解析**：be in debt 是固定搭配"负债"；deep 加强程度。
 
-6. **中文**：制定合理的时间表能让每天的工作变得更有成效。
-   **英文**：Planning your schedule daily helps you stay productive.
-   > **解析**：productive 表示富有成效的。
+6. **中文**：不久，情况就好转了。
+   **英文**：Before long, things got better.
+   > **解析**：Before long 表示"不久"，置于句首；got 是 get 的过去式。
 
-7. **中文**：她下定决心要在新领域开辟属于自己的事业。
-   **英文**：She was determined to build a successful new career from scratch.
-   > **解析**：determined 表示坚定的、下定决心的。
+7. **中文**：她下定决心改变生活。
+   **英文**：She was determined to change her life.
+   > **解析**：be determined to do 是固定搭配"下定决心做"；determined 作表语。
 
-8. **中文**：辞去不满意的工作并重新开始需要巨大的勇气。
-   **英文**：It takes immense courage to quit a stable job and restart.
-   > **解析**：courage 表示勇气。
+8. **中文**：内心深处，我知道这是对的。
+   **英文**：Deep down, I knew it was right.
+   > **解析**：Deep down 作插入语"内心深处"；knew 后接省略 that 的从句。
 
-9. **中文**：处理复杂的过渡期需要极大的耐心与细心。
-   **英文**：Navigating career changes requires a great deal of patience.
-   > **解析**：patience 表示耐心。
+9. **中文**：我曾经把父母的帮助视为理所当然。
+   **英文**：I used to take my parents' help for granted.
+   > **解析**：take something for granted 是固定搭配；used to 表示过去的习惯。
 
-10. **中文**：我们不应该把父母给予的无私关爱视为理所当然。
-   **英文**：We shouldn't take family support for granted when facing challenges.
-   > **解析**：for granted 表示认为……理所当然。
+10. **中文**：现在我靠自己做调酒师的积蓄生活。
+   **英文**：Now I live on my savings from the bartender job.
+   > **解析**：live on = 靠……生活；from the bartender job 说明积蓄来源。
 
-11. **中文**：在内心深处，他知道回老家是一个明智的选择。
-   **英文**：Deep down, he knew that returning to his hometown was right.
-   > **解析**：deep down 表示在内心深处。
+11. **中文**：那段经历对我产生了影响。
+   **英文**：The experience had an impact on me.
+   > **解析**：have an impact on 是固定搭配"对……产生影响"。
 
-12. **中文**：只要我们共同努力，相信一切困难都会顺利解决。
-   **英文**：With persistence, I am confident things will work out eventually.
-   > **解析**：work out 表示事情顺利解决。
+12. **中文**：我需要反思自己的选择。
+   **英文**：I need to reflect on my choices.
+   > **解析**：reflect on 是固定搭配"反思"；need to 后接动词原形。
 
-13. **中文**：由于经济不景气的结果，许多小公司被迫关门。
-   **英文**：As a result of economic changes, many businesses shut down.
-   > **解析**：as a result of 表示由于……的结果。
+13. **中文**：严格的家教塑造了我。
+   **英文**：A strict upbringing shaped me.
+   > **解析**：upbringing 是名词"教养"；shaped 是过去式，作谓语。
 
-14. **中文**：不久之后，他便在新社区里结识了一群新朋友。
-   **英文**：Before long, he settled into his routine and made new friends.
-   > **解析**：before long 表示不久之后。
+14. **中文**：我觉得自己被困住了。
+   **英文**：I felt trapped in a dead-end job.
+   > **解析**：felt trapped 是"感到被困"；in a dead-end job 说明困境。
 
-15. **中文**：他之前兼职做调酒师来赚取日常的生活费。
-   **英文**：He worked as a bartender to earn a living during college.
-   > **解析**：bartender 表示调酒师；living 表示生活费/生计。
+15. **中文**：一切最终都会好起来的。
+   **英文**：Everything will work out in the end.
+   > **解析**：work out 表示"顺利解决"；in the end 是时间状语。
 
-16. **中文**：拥有足够的应急存款能让人在危机时刻更有底气。
-   **英文**：Having personal savings gives you peace of mind during transitions.
-   > **解析**：savings 表示存款、积蓄。
+16. **中文**：我不该依赖别人。
+   **英文**：I shouldn't rely on others.
+   > **解析**：shouldn't + 动词原形；rely on 是固定搭配"依赖"。
 
-17. **中文**：我们不能总是依赖父母来为我们解决人生难题。
-   **英文**：You cannot always rely on your family to fix your problems.
-   > **解析**：rely on 表示依赖、依靠。
+17. **中文**：那段日子我很痛苦。
+   **英文**：I was miserable during those days.
+   > **解析**：miserable 是形容词作表语；during those days 是时间状语。
 
-18. **中文**：静下心来认真反思过去能帮助你做出更好的选择。
-   **英文**：Taking time to reflect on past experiences aids growth.
-   > **解析**：reflect
+18. **中文**：他的态度让我恼火。
+   **英文**：His attitude irritated me.
+   > **解析**：irritated 是动词 irritate 的过去式，me 作宾语。
 
-19. **中文**：感觉自己陷入困境时，试着换个角度思考问题。
-   **英文**：Feeling stuck in a career trap requires fresh perspectives.
-   > **解析**：trap 表示困境、陷阱。
+19. **中文**：我鼓起了勇气。
+   **英文**：I gathered the courage to speak up.
+   > **解析**：gather courage 是固定搭配"鼓起勇气"；to speak up 是目的。
 
-20. **中文**：结果，他的努力得到了回报，获得了更好的职位。
-   **英文**：Consequently, his hard work was recognized with a promotion.
-   > **解析**：consequently 表示结果、因此。
+20. **中文**：现在我的一天过得很高效。
+   **英文**：My days are productive now.
+   > **解析**：productive 作表语；are 与复数主语 days 一致。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Given high rent, he decided to move back home to save money.
-   > **中文**：考虑到高昂的租金，他决定搬回老家与父母同住。
+1. I moved back home last month.
+   > **中文**：我上个月搬回家住了。
 
-2. After paying off his student loan debt, he felt a huge relief.
-   > **中文**：清偿掉所有信用卡债务后，他感到无比轻松。
+2. As a result of the accident, I lost my job.
+   > **中文**：由于那次事故，我丢了工作。
 
-3. His strict upbringing taught him the value of honesty and hard work.
-   > **中文**：良好的家庭养育教给了他尊重他人与勤奋的品质。
+3. He overspent; consequently, he was in debt.
+   > **中文**：他超支了，因此背上了债。
 
-4. Living alone without a job made him feel miserable every day.
-   > **中文**：在大城市失业的那段日子让他感到非常痛苦。
+4. I saved money so I would have a choice.
+   > **中文**：我存了钱，这样我就有选择。
 
-5. The flight delays made passengers increasingly irritated.
-   > **中文**：面对频繁延误的航班，乘客们变得格外烦躁。
+5. She left so she wouldn't cry.
+   > **中文**：她离开了，免得哭出来。
 
-6. Planning your schedule daily helps you stay productive.
-   > **中文**：制定合理的时间表能让每天的工作变得更有成效。
+6. Before long, he found a new job.
+   > **中文**：不久，他找到了一份新工作。
 
-7. She was determined to build a successful new career from scratch.
-   > **中文**：她下定决心要在新领域开辟属于自己的事业。
+7. She is determined to start over.
+   > **中文**：她决心重新开始。
 
-8. It takes immense courage to quit a stable job and restart.
-   > **中文**：辞去不满意的工作并重新开始需要巨大的勇气。
+8. Deep down, I missed my family.
+   > **中文**：内心深处，我想念家人。
 
-9. Navigating career changes requires a great deal of patience.
-   > **中文**：处理复杂的过渡期需要极大的耐心与细心。
+9. Don't take their help for granted.
+   > **中文**：别把他们的帮助视为理所当然。
 
-10. We shouldn't take family support for granted when facing challenges.
-   > **中文**：我们不应该把父母给予的无私关爱视为理所当然。
+10. He lives on his savings now.
+   > **中文**：他现在靠积蓄生活。
 
-11. Deep down, he knew that returning to his hometown was right.
-   > **中文**：在内心深处，他知道回老家是一个明智的选择。
+11. The change had a big impact on me.
+   > **中文**：这个变化对我影响很大。
 
-12. With persistence, I am confident things will work out eventually.
-   > **中文**：只要我们共同努力，相信一切困难都会顺利解决。
+12. I like to reflect on the past.
+   > **中文**：我喜欢反思过去。
 
-13. As a result of economic changes, many businesses shut down.
-   > **中文**：由于经济不景气的结果，许多小公司被迫关门。
+13. My upbringing made me careful with money.
+   > **中文**：我的家教让我用钱很谨慎。
 
-14. Before long, he settled into his routine and made new friends.
-   > **中文**：不久之后，他便在新社区里结识了一群新朋友。
+14. He felt trapped by his debts.
+   > **中文**：他觉得自己被债务困住了。
 
-15. He worked as a bartender to earn a living during college.
-   > **中文**：他之前兼职做调酒师来赚取日常的生活费。
+15. Don't worry; it will all work out.
+   > **中文**：别担心，一切都会好起来的。
 
-16. Having personal savings gives you peace of mind during transitions.
-   > **中文**：拥有足够的应急存款能让人在危机时刻更有底气。
+16. You can rely on me.
+   > **中文**：你可以依靠我。
 
-17. You cannot always rely on your family to fix your problems.
-   > **中文**：我们不能总是依赖父母来为我们解决人生难题。
+17. Life was miserable at that time.
+   > **中文**：那时候生活很痛苦。
 
-18. Taking time to reflect on past experiences aids growth.
-   > **中文**：静下心来认真反思过去能帮助你做出更好的选择。
+18. I was irritated by the noise.
+   > **中文**：我被噪音惹恼了。
 
-19. Feeling stuck in a career trap requires fresh perspectives.
-   > **中文**：感觉自己陷入困境时，试着换个角度思考问题。
+19. It took courage to admit the mistake.
+   > **中文**：承认错误需要勇气。
 
-20. Consequently, his hard work was recognized with a promotion.
-   > **中文**：结果，他的努力得到了回报，获得了更好的职位。
+20. She works as a bartender at night.
+   > **中文**：她晚上做调酒师。
 
 </quiz-listening>
 
@@ -231,26 +206,40 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| move back home | 搬回老家/父母家 |
-| savings | 积蓄；存款 |
-| debt | 债务 |
-| upbringing | 养育；成长背景 |
-| miserable | 痛苦的；沮丧的 |
-| irritated | 恼火的；烦躁的 |
-| productive | 富有成效的 |
-| determined | 坚定的；下定决心的 |
+| appear | 显得 / 出现 |
+| as a result of | 由于 |
+| bartender | 调酒师 |
+| before long | 不久 |
+| consequently | 因此 |
 | courage | 勇气 |
+| debt | 债务 |
+| deep down | 内心深处 |
+| determined | 下定决心的 |
+| for granted | 视为理所当然 |
+| impact | 影响 |
+| irritated | 恼火的 |
+| just | 刚刚 / 只是 |
+| living | 生活 / 生计 |
+| miserable | 痛苦的 |
+| move back home | 搬回家住 |
 | patience | 耐心 |
-| rely on | 依赖；依靠 |
-| for granted | 认为……理所当然 |
-| deep down | 在内心深处 |
-| reflect | 反思；深思 |
-| work out | （事情）顺利解决；按计划发展 |
-| trap | 困境；陷阱 |
-| bartender | 调酒师；酒吧侍者 |
-| as a result of | 由于……的结果 |
-| consequently | 结果；因此 |
-| before long | 不久之后 |
+| productive | 高效的 |
+| reflect | 反思 |
+| rely on | 依赖 |
+| savings | 积蓄 |
+| so i would | 这样我就会 |
+| so i wouldn't | 这样我就不会 |
+| trap | 陷阱 / 困境 |
+| upbringing | 教养 |
+| work out | 顺利解决 |
+| I | 我 |
+| he | 他 |
+| she | 她 |
+| now | 现在 |
+| last | 上个 |
+| found | 找到 |
+| worry | 担心 |
+| as | 作为 |
 
 </quiz-matching>
 
@@ -258,202 +247,202 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
 
 ### 1
 
-Given high rent, he ____ to move back home to save money.
+____ losing my job, I moved back home.
 
-- [x] decided
-- [ ] appear
-- [ ] as a result of
+- [x] As a result of
+- [ ] As a result
+- [ ] As results of
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **decided**。
+> **解析**：As a result of + 名词短语表示原因；As a result 单独使用需接句子，As results of 结构错误。
 
 ### 2
 
-After paying off his student loan ____, he felt a huge relief.
+He saved little; ____, he ran out of money.
 
-- [x] debt
-- [ ] appear
-- [ ] as a result of
+- [x] consequently
+- [ ] consequence
+- [ ] consequent
 
-> **解析**：**debt** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：连接两个分句需要副词 consequently；consequence 是名词，consequent 是形容词。
 
 ### 3
 
-His strict ____ taught him the value of honesty and hard work.
+I took a second job so I ____ pay off my debt.
 
-- [x] upbringing
-- [ ] appear
-- [ ] as a result of
+- [x] would
+- [ ] will
+- [ ] would to
 
-> **解析**：**upbringing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：叙述过去的目的用 so I would + 动词原形；will 是现在时，would to 结构错误。
 
 ### 4
 
-____ alone without a job made him feel miserable every day.
+She whispered so she ____ wake the baby.
 
-- [x] Living
-- [ ] appear
-- [ ] as a result of
+- [x] wouldn't
+- [ ] won't
+- [ ] wouldn't to
 
-> **解析**：**Living** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：过去的目的从句用 wouldn't + 动词原形；won't 是现在时，wouldn't to 结构错误。
 
 ### 5
 
-The flight delays made passengers increasingly ____.
+He was deep in ____ after the business failed.
 
-- [x] irritated
-- [ ] appear
-- [ ] as a result of
+- [x] debt
+- [ ] debts to
+- [ ] debting
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **irritated**。
+> **解析**：be in debt 是固定搭配；debting 不是正确构词。
 
 ### 6
 
-Planning your schedule daily helps you stay ____.
+____, she started her own small business.
 
-- [x] productive
-- [ ] appear
-- [ ] as a result of
+- [x] Before long
+- [ ] Before length
+- [ ] Before longer
 
-> **解析**：**productive** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Before long 是固定搭配"不久"；length 和 longer 不能构成该短语。
 
 ### 7
 
-She was ____ to build a successful new career from scratch.
+She was ____ to turn her life around.
 
 - [x] determined
-- [ ] appear
-- [ ] as a result of
+- [ ] determine
+- [ ] determining
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **determined**。
+> **解析**：was 后用 determined 作形容词"下定决心的"；determining 强调动作进行。
 
 ### 8
 
-It takes immense ____ to quit a stable job and restart.
+____, he still loved the old house.
 
-- [x] courage
-- [ ] appear
-- [ ] as a result of
+- [x] Deep down
+- [ ] Deep below
+- [ ] Deeply down
 
-> **解析**：**courage** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Deep down 是固定表达"内心深处"；其余两项不是正确搭配。
 
 ### 9
 
-Navigating career changes requires a great deal of ____.
+Never take your family's love for ____.
 
-- [x] patience
-- [ ] appear
-- [ ] as a result of
+- [x] granted
+- [ ] grant
+- [ ] granting
 
-> **解析**：**patience** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：take something for granted 是固定搭配，用过去分词 granted；其余两项不合结构。
 
 ### 10
 
-We shouldn't take family support for granted when facing ____.
+He supports himself with his ____ from years of work.
 
-- [x] challenges
-- [ ] appear
-- [ ] as a result of
+- [x] savings
+- [ ] saving's
+- [ ] save
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **challenges**。
+> **解析**：指"积蓄"用复数名词 savings；save 是动词，saving's 是所有格。
 
 ### 11
 
-Deep down, he knew that ____ to his hometown was right.
+The decision had a huge ____ on his future.
 
-- [x] returning
-- [ ] appear
-- [ ] as a result of
+- [x] impact
+- [ ] impacted
+- [ ] impacting
 
-> **解析**：**returning** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：a huge 后需要名词 impact；impacted 是动词过去式。
 
 ### 12
 
-With ____, I am confident things will work out eventually.
+Take a moment to ____ on what you have learned.
 
-- [x] persistence
-- [ ] appear
-- [ ] as a result of
+- [x] reflect
+- [ ] reflects
+- [ ] reflection
 
-> **解析**：**persistence** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：to 后接动词原形 reflect；reflect on 表示"反思"，reflection 是名词。
 
 ### 13
 
-As a result of economic changes, many ____ shut down.
+Her strict ____ taught her to be independent.
 
-- [x] businesses
-- [ ] appear
-- [ ] as a result of
+- [x] upbringing
+- [ ] upbring
+- [ ] upbringing's
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **businesses**。
+> **解析**：Her strict 后需要名词 upbringing；upbring 不是常用动词形式。
 
 ### 14
 
-Before long, he ____ into his routine and made new friends.
+He felt like he was stuck in a ____.
 
-- [x] settled
-- [ ] appear
-- [ ] as a result of
+- [x] trap
+- [ ] trapped
+- [ ] trapping
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **settled**。
+> **解析**：a 后需要名词 trap；trapped 是过去分词，trapping 是动名词。
 
 ### 15
 
-He worked as a ____ to earn a living during college.
+Don't worry — everything will ____ out.
 
-- [x] bartender
-- [ ] appear
-- [ ] as a result of
+- [x] work
+- [ ] works
+- [ ] working
 
-> **解析**：**bartender** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：will 后接动词原形 work；work out 表示"顺利解决"。
 
 ### 16
 
-Having personal ____ gives you peace of mind during transitions.
+You should not rely ____ other people forever.
 
-- [x] savings
-- [ ] appear
-- [ ] as a result of
+- [x] on
+- [ ] at
+- [ ] in
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **savings**。
+> **解析**：rely on 是固定搭配"依赖"；at 和 in 不能构成该短语。
 
 ### 17
 
-You cannot always rely on your family to fix your ____.
+The first winter away from home was ____.
 
-- [x] problems
-- [ ] appear
-- [ ] as a result of
+- [x] miserable
+- [ ] misery
+- [ ] miserably
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **problems**。
+> **解析**：was 后需要形容词 miserable；misery 是名词，miserably 是副词。
 
 ### 18
 
-Taking time to ____ on past experiences aids growth.
+The constant noise ____ her all evening.
 
-- [x] reflect
-- [ ] appear
-- [ ] as a result of
+- [x] irritated
+- [ ] irritates
+- [ ] irritating
 
-> **解析**：**reflect** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：all evening 表示过去的时间，用过去式 irritated；irritates 是一般现在时。
 
 ### 19
 
-Feeling stuck in a career ____ requires fresh perspectives.
+It takes ____ to admit you were wrong.
 
-- [x] trap
-- [ ] appear
-- [ ] as a result of
+- [x] courage
+- [ ] courageous
+- [ ] courageously
 
-> **解析**：**trap** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：takes 后需要名词 courage；courageous 是形容词，courageously 是副词。
 
 ### 20
 
-____, his hard work was recognized with a promotion.
+Be patient; good things take time and ____.
 
-- [x] Consequently
-- [ ] appear
-- [ ] as a result of
+- [x] patience
+- [ ] patient
+- [ ] patiently
 
-> **解析**：**Consequently** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：and 连接两个名词，time and patience；patient 作名词指"病人"语义不合。
 
 </quiz-cloze>

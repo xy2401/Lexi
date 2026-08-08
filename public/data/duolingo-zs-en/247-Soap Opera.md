@@ -10,60 +10,33 @@ affair, anyhow, capable of, cast, cemetery, deceive, dramatic, greedy, hooked on
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是"描述戏剧性的剧情反转"——就像跟朋友聊一部让你欲罢不能的肥皂剧。词表里有大量叙事和角色词汇：villain, orphan, secret agent, cast, reveal, dramatic。你可以这样聊剧情：On the surface, he seemed loyal, but he was capable of anything. The villain turned out to be some guy—what's-his-name—who had been deceiving the whole cast!（表面上他很忠诚，但他什么都干得出来。反派竟然是某个家伙——那个谁——他一直在欺骗整个剧组！）
+本单元的主题是"描述狗血的剧情转折"，场景是聊肥皂剧。词表可以分成四组：人物身份（villain, orphan, secret agent, cast, some guy, what's-his-name, the one whose）、剧情动作（deceive, reveal, threaten, poison, affair）、剧情评价（dramatic, hooked on, capable of, loyal, greedy, on the surface, sort of, kind of like）、以及口语衔接（anyhow, reaction, rewatch, will）。拼起来就是一段追剧闲聊：The villain turned out to be an orphan! I was hooked on the show and had to rewatch the whole season.
 
-hooked on（上瘾）、rewatch（重看）表达观剧热情。affair（婚外情）、poison（下毒）、threaten（威胁）是肥皂剧经典桥段。on the surface 和 reveal 构成"表象与真相"的对比。kind of like / sort of 是口语中"有点像"的模糊表达，让描述更自然。
+语法主线有两个。一是 the one whose 引导的定语从句：She is the one whose husband disappeared.（她就是丈夫失踪的那个女人。）whose 表示所属关系。二是 will 用于推测"想必、肯定是"：That will be the twist they promised.（那肯定就是他们预告的反转。）
 
-学完本单元，你能用英语兴致勃勃地复述一部剧的剧情，评价角色，并表达对反转的惊讶。
+学完这个单元，你能用英语讨论剧情、描述人物关系与反转，还能用地道的口语填补语流。
 
 ## Tips
 
-- **hooked on** — "对……上瘾、迷上"。I'm hooked on this show. = 我迷上这部剧了。比 addicted to 更口语、更轻松，通常用于娱乐爱好。hook 原义是"钩子"，画面感：被钩住了。
+- **villain / orphan / secret agent / cast** — 角色词。villain 是反派；orphan 是孤儿；secret agent 是特工；cast 指全体演员阵容：the cast of the show。
 
-- **villain** — "反派、坏人"，比 bad guy 更正式、更有戏剧感。the villain of the story。形容词 villainous。注意拼写：两个 l，一个 n。和 village（村庄）开头相同但无关。
+- **some guy / what's-his-name / the one whose** — 三个"指代模糊的人"的口语表达。some guy = 某个家伙；what's-his-name = 那个谁（想不起名字）；the one whose + 从句精确定位某人：the one whose car was stolen。
 
-- **reveal** — "揭露、揭示"，剧情反转的核心词。The big reveal was shocking. / They revealed the truth. 作名词时重音在后：/rɪˈviːl/。比 show 更有"揭开谜底"的戏剧性。
+- **deceive / reveal / threaten / poison** — 剧情四动词。deceive = 欺骗；reveal = 揭示：reveal the truth；threaten = 威胁：threaten to expose him；poison 作动词"下毒"：poison the wine。
 
-- **on the surface** — "表面上"，暗示实际情况不同。On the surface, he's kind, but deep down he's greedy. 和 deep down（内心深处）是一对经典对比。surface = 表面。
+- **affair / dramatic** — affair 在肥皂剧语境指"婚外情"：have an affair；dramatic = 戏剧性的、夸张的：a dramatic twist。
 
-- **capable of** — "有能力做（常指坏事）"。He's capable of anything. = 他什么都做得出来。注意 of 不能省略。和 able to 的区别：capable of 常暗示"做得出（不好的事）"。
+- **hooked on / capable of** — hooked on = 着迷于：hooked on the show（像被钩住一样）；capable of = 有能力/有可能做出：capable of anything（什么都干得出来）。
 
-- **deceive** — "欺骗"，比 lie 更正式，强调"用假象蒙蔽"。He deceived everyone. 名词 deception，形容词 deceptive（有欺骗性的）。和 cheat 近义，但 deceive 更侧重"蒙在鼓里"。
+- **loyal / greedy** — 一对人品形容词。loyal = 忠诚的；greedy = 贪婪的。肥皂剧角色常非此即彼。
 
-- **affair** — "婚外情；事务"。have an affair = 有婚外情。但 affair 也指"事务"：foreign affairs（外交事务）。具体含义看语境。肥皂剧里 affair 几乎总指婚外情。
+- **on the surface / sort of / kind of like** — on the surface = 表面上；sort of = 有点、算是：It's sort of a love story. kind of like = 有点像：He's kind of like his father. sort of 和 kind of 都是口语缓和语。
 
-- **cast** — "演员阵容、全体演员"。the cast of the show / a talented cast。动词 cast 指"选角"：She was cast as the villain. 原义"投掷"，引申为"分配角色"。
+- **anyhow / reaction / rewatch** — anyhow = 反正、不管怎样，用于转回话题；reaction = 反应：her reaction to the news；rewatch = 重看：re- 前缀表"再次"。
 
-- **orphan** — "孤儿"。形容词 orphaned（成为孤儿的）。动词 orphan：He was orphaned at five. 肥皂剧和小说中，orphan 常是主角身世之谜的起点。
-
-- **greedy** — "贪婪的"，名词 greed。搭配：greedy for money / a greedy villain。比 selfish（自私）更强调"想要更多、永不满足"。反义词 generous（慷慨的）。
-
-- **loyal** — "忠诚的"，名词 loyalty。搭配：loyal to someone / a loyal friend。反义词 disloyal / unfaithful。注意拼写：loy-al，不是 loyol。
-
-- **poison** — "毒药、下毒"。作名词：a deadly poison。作动词：She poisoned him. 形容词 poisonous（有毒的）。注意和 venom（蛇毒等）区分：poison 是广义的毒。
-
-- **threaten** — "威胁"，名词 threat。搭配：threaten to do something / a threat to someone。He threatened to reveal the secret. 注意 -en 是动词后缀。
-
-- **dramatic** — "戏剧性的、引人注目的"。a dramatic twist / a dramatic change。名词 drama。比 exciting 更强调"像戏一样有张力"。副词 dramatically。
-
-- **anyhow** — "反正、不管怎样"，比 anyway 更口语、更英式。Anyhow, let's move on. 也可以表"无论如何"：I'll finish it anyhow. 语气比 anyway 更随意。
-
-- **kind of like / sort of** — "有点像、算是"，口语中用来模糊表达。It's kind of like a mystery. / He's sort of a villain. 非常高频的口语填充词，让语气不那么绝对。
-
-- **what's-his-name** — "那个谁、叫什么来着"，想不起名字时的口语替代。I saw what's-his-name from the office. 类似：what's-her-name / what's-it-called（那个东西叫什么）。
-
-- **some guy** — "某个家伙"，带有"不重要/不认识"的意味。Some guy called for you. 比 a man 更随意，有时带轻视：He's just some guy.
-
-- **rewatch** — "重看、再看一遍"。re- + watch，构词很直观。I rewatched the whole series. 类似：reread（重读）、replay（重播）。注意拼写不加连字符。
-
-- **secret agent** — "特工、间谍"。比 spy 更有"执行任务"的画面感。secret（秘密的）+ agent（代理人）。经典搭配：a secret agent on a mission。007 就是典型 secret agent。
-
-- **the one whose** — "那个……的人"，定语从句结构。She's the one whose husband disappeared. 注意 whose 表所属关系，不能换成 who's（who is）。这是学习者常见错误。
-
-- **reaction** — "反应"。搭配：have a reaction to / What was your reaction? 动词 react。注意 -tion 结尾，不是 -sion。比 response 更强调"本能/情绪反应"。
+- **will** — 除"将要"外，will 可表有把握的推测：That will be the doctor.（那肯定是医生。）聊剧情推测身份时很常用。
 
 ## 练习
 
@@ -81,149 +54,149 @@ hooked on（上瘾）、rewatch（重看）表达观剧热情。affair（婚外�
 
 <quiz-sentence-builder>
 
-1. **中文**：剧中那个贪婪的反派为了遗产企图篡改遗嘱。
-   **英文**：The greedy villain tried to alter the rich man's will for money.
-   > **解析**：greedy 表示贪婪的；villain 表示反派；will 表示遗嘱。
+1. **中文**：反派原来是个孤儿。
+   **英文**：The villain turned out to be an orphan.
+   > **解析**：turned out to be 是固定表达"结果是"；an orphan 作表语。
 
-2. **中文**：主角从小是个孤儿，后来成为了顶尖的秘密特工。
-   **英文**：The hero was an orphan who later became a skilled secret agent.
-   > **解析**：orphan 表示孤儿；secret agent 表示秘密特工。
+2. **中文**：她就是丈夫失踪的那个女人。
+   **英文**：She is the one whose husband disappeared.
+   > **解析**：the one whose 引导定语从句，whose husband 表示所属关系。
 
-3. **中文**：剧组在旧公墓里拍摄了一场极其戏剧性的剧情。
-   **英文**：The team shot a dramatic scene inside an old cemetery.
-   > **解析**：dramatic 表示戏剧性的；cemetery 表示公墓、墓地。
+3. **中文**：他被骗了。
+   **英文**：He was deceived by his partner.
+   > **解析**：was deceived 是被动语态；by his partner 引出施动者。
 
-4. **中文**：观众们被这部肥皂剧扣人心弦的情节彻底吸引上瘾了。
-   **英文**：Viewers are completely hooked on this popular soap opera.
-   > **解析**：hooked on 表示着迷、上瘾。
+4. **中文**：大结局揭示了一切真相。
+   **英文**：The finale revealed everything.
+   > **解析**：revealed 是过去式；everything 作宾语。
 
-5. **中文**：表面上他们是好友，但反派一直在暗中欺骗大家。
-   **英文**：On the surface they were friends, but he continued to deceive them.
-   > **解析**：on the surface 表示表面上；deceive 表示欺骗。
+5. **中文**：她威胁要揭露他的秘密。
+   **英文**：She threatened to reveal his secret.
+   > **解析**：threaten to do 是固定搭配"威胁要做"；threatened 是过去式。
 
-6. **中文**：大结局终于揭露了当年那起外遇背后的真相。
-   **英文**：The final episode will reveal the truth about the secret affair.
-   > **解析**：reveal 表示揭露；affair 表示外遇、秘事。
+6. **中文**：有人给国王下了毒。
+   **英文**：Someone poisoned the king.
+   > **解析**：poisoned 是 poison 的动词过去式；the king 作宾语。
 
-7. **中文**：忠诚的保镖发誓要保护主人不受对手的威胁。
-   **英文**：The loyal bodyguard vowed to protect his master from threats.
-   > **解析**：loyal 表示忠诚的；threaten 表示威胁。
+7. **中文**：他和他姐姐有染。
+   **英文**：He had an affair with his secretary.
+   > **解析**：have an affair with 是固定搭配"与……有染"；had 是过去式。
 
-8. **中文**：没人相信那个看似善良的角色居然能做出下毒这种事。
-   **英文**：Nobody believed he was capable of putting poison in the drink.
-   > **解析**：capable of 表示有能力/做得出……；poison 表示毒药。
+8. **中文**：这个反转太戏剧性了。
+   **英文**：The plot twist is too dramatic.
+   > **解析**：dramatic 是形容词作表语；too 表示"太"。
 
-9. **中文**：这部热门剧集的演员阵容包括许多实力派演员。
-   **英文**：The star-studded cast of the show delivered great performances.
-   > **解析**：cast 表示演员阵容。
+9. **中文**：我迷上了这部剧。
+   **英文**：I am hooked on the show.
+   > **解析**：be hooked on 是固定搭配"着迷于"；hooked 是形容词化的过去分词。
 
-10. **中文**：观众对男主角令人意想不到的逆袭做出了热烈反应。
-   **英文**：The audience had a strong reaction to the hero's unexpected twist.
-   > **解析**：reaction 表示反应。
+10. **中文**：她什么都干得出来。
+   **英文**：She is capable of anything.
+   > **解析**：be capable of 是固定搭配；anything 作介词宾语。
 
-11. **中文**：这部连续剧太精彩了，我决定周末再重看一遍。
-   **英文**：This drama was so good that I plan to rewatch the series.
-   > **解析**：rewatch 表示重看、重温。
+11. **中文**：表面上，他们很恩爱。
+   **英文**：On the surface, they seem happy.
+   > **解析**：On the surface 作状语置于句首；seem 是系动词"似乎"。
 
-12. **中文**：那个反派威胁要公开女主角试图隐藏的所有秘密。
-   **英文**：The villain threatened to leak all confidential documents.
-   > **解析**：threatened 表示威胁。
+12. **中文**：这算是个爱情故事。
+   **英文**：It is sort of a love story.
+   > **解析**：sort of 作口语缓和语"算是、有点"，放在冠词之前。
 
-13. **中文**：这出充满反转的戏码有点像经典的老式剧情片。
-   **英文**：This plot twist is kind of like a classic old melodrama.
-   > **解析**：kind of like 表示有点像。
+13. **中文**：他有点像他的父亲。
+   **英文**：He is kind of like his father.
+   > **解析**：kind of like = 有点像；kind of 修饰介词短语 like his father。
 
-14. **中文**：那个叫什么名字来着的人演活了这个反派角色。
-   **英文**：What's-his-name played the role of the sinister boss so well.
-   > **解析**：what's-his-name 用于一时想不起名字时，意为那个叫什么名字的人。
+14. **中文**：反正，最后真相大白了。
+   **英文**：Anyhow, the truth came out in the end.
+   > **解析**：Anyhow 作衔接词"反正"；come out 表示"真相大白"。
 
-15. **中文**：反正大结局一定会给所有观众一个满意的交代。
-   **英文**：Anyhow, the series finale promises to satisfy all loyal fans.
-   > **解析**：anyhow 表示反正、无论如何。
+15. **中文**：观众对这个反转反应强烈。
+   **英文**：The audience had a strong reaction to the twist.
+   > **解析**：reaction to 是固定搭配"对……的反应"。
 
-16. **中文**：那个被遗嘱提及的受害者正是村里唯一富有的男爵。
-   **英文**：The one whose fortune was left in the will passed away.
-   > **解析**：the one whose 表示那个其……的人。
+16. **中文**：我要把这季重看一遍。
+   **英文**：I will rewatch the whole season.
+   > **解析**：will + 动词原形 rewatch；re- 前缀表示"再次"。
 
-17. **中文**：有个不认识的家伙在公墓门口徘徊并打听消息。
-   **英文**：Some guy was seen walking near the entrance of the cemetery.
-   > **解析**：some guy 表示某个家伙/不认识的人。
+17. **中文**：那位演员是秘密特工。
+   **英文**：That character is a secret agent.
+   > **解析**：character 指剧中角色；a secret agent 作表语。
 
-18. **中文**：这个角色的性格有点复杂，让人又爱又恨。
-   **英文**：His character is sort of mysterious, making it hard to predict.
-   > **解析**：sort of 表示稍微、有点。
+18. **中文**：某个家伙偷走了证据。
+   **英文**：Some guy stole the evidence.
+   > **解析**：some guy 表示"某个家伙"；stole 是 steal 的过去式。
 
-19. **中文**：恶毒的妇人暗中在对手的茶水里添加了剧毒。
-   **英文**：The wicked rival slipped poison into the glass without being seen.
-   > **解析**：poison 表示毒药。
+19. **中文**：那个谁就是凶手。
+   **英文**：What's-his-name is the killer.
+   > **解析**：What's-his-name 是口语中"那个谁"的表达，作主语。
 
-20. **中文**：律师公布了富豪在临终前签署的最后遗嘱。
-   **英文**：The attorney read the final will in front of the assembled family.
-   > **解析**：will 表示遗嘱。
+20. **中文**：那肯定就是他们预告的反转。
+   **英文**：That will be the twist they promised.
+   > **解析**：will 表示有把握的推测"肯定"；they promised 是省略 that 的定语从句。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The greedy villain tried to alter the rich man's will for money.
-   > **中文**：剧中那个贪婪的反派为了遗产企图篡改遗嘱。
+1. The villain has a secret twin.
+   > **中文**：反派有个秘密双胞胎。
 
-2. The hero was an orphan who later became a skilled secret agent.
-   > **中文**：主角从小是个孤儿，后来成为了顶尖的秘密特工。
+2. She is the one whose baby was stolen.
+   > **中文**：她就是孩子被偷走的那个女人。
 
-3. The team shot a dramatic scene inside an old cemetery.
-   > **中文**：剧组在旧公墓里拍摄了一场极其戏剧性的剧情。
+3. He deceived everyone for years.
+   > **中文**：他欺骗了大家很多年。
 
-4. Viewers are completely hooked on this popular soap opera.
-   > **中文**：观众们被这部肥皂剧扣人心弦的情节彻底吸引上瘾了。
+4. The letter revealed the truth.
+   > **中文**：那封信揭示了真相。
 
-5. On the surface they were friends, but he continued to deceive them.
-   > **中文**：表面上他们是好友，但反派一直在暗中欺骗大家。
+5. They threatened to call the police.
+   > **中文**：他们威胁要报警。
 
-6. The final episode will reveal the truth about the secret affair.
-   > **中文**：大结局终于揭露了当年那起外遇背后的真相。
+6. The queen was poisoned.
+   > **中文**：王后被人下了毒。
 
-7. The loyal bodyguard vowed to protect his master from threats.
-   > **中文**：忠诚的保镖发誓要保护主人不受对手的威胁。
+7. She found out about the affair.
+   > **中文**：她发现了那段婚外情。
 
-8. Nobody believed he was capable of putting poison in the drink.
-   > **中文**：没人相信那个看似善良的角色居然能做出下毒这种事。
+8. The ending was so dramatic.
+   > **中文**：结局太戏剧性了。
 
-9. The star-studded cast of the show delivered great performances.
-   > **中文**：这部热门剧集的演员阵容包括许多实力派演员。
+9. We are hooked on this series.
+   > **中文**：我们迷上了这部剧。
 
-10. The audience had a strong reaction to the hero's unexpected twist.
-   > **中文**：观众对男主角令人意想不到的逆袭做出了热烈反应。
+10. He is capable of anything.
+   > **中文**：他什么都干得出来。
 
-11. This drama was so good that I plan to rewatch the series.
-   > **中文**：这部连续剧太精彩了，我决定周末再重看一遍。
+11. He seemed loyal on the surface.
+   > **中文**：表面上他看起来很忠诚。
 
-12. The villain threatened to leak all confidential documents.
-   > **中文**：那个反派威胁要公开女主角试图隐藏的所有秘密。
+12. It is sort of a mystery.
+   > **中文**：这算是个悬疑故事。
 
-13. This plot twist is kind of like a classic old melodrama.
-   > **中文**：这出充满反转的戏码有点像经典的老式剧情片。
+13. She is kind of like her mother.
+   > **中文**：她有点像她的母亲。
 
-14. What's-his-name played the role of the sinister boss so well.
-   > **中文**：那个叫什么名字来着的人演活了这个反派角色。
+14. Anyhow, let's watch the next episode.
+   > **中文**：反正，我们看下一集吧。
 
-15. Anyhow, the series finale promises to satisfy all loyal fans.
-   > **中文**：反正大结局一定会给所有观众一个满意的交代。
+15. What was his reaction to the news?
+   > **中文**：他对这消息是什么反应？
 
-16. The one whose fortune was left in the will passed away.
-   > **中文**：那个被遗嘱提及的受害者正是村里唯一富有的男爵。
+16. I rewatched the finale twice.
+   > **中文**：大结局我重看了两遍。
 
-17. Some guy was seen walking near the entrance of the cemetery.
-   > **中文**：有个不认识的家伙在公墓门口徘徊并打听消息。
+17. The cast did a great job.
+   > **中文**：演员阵容表现出色。
 
-18. His character is sort of mysterious, making it hard to predict.
-   > **中文**：这个角色的性格有点复杂，让人又爱又恨。
+18. Some guy in the cemetery saw it all.
+   > **中文**：墓地里有个家伙全看见了。
 
-19. The wicked rival slipped poison into the glass without being seen.
-   > **中文**：恶毒的妇人暗中在对手的茶水里添加了剧毒。
+19. The greedy uncle wanted the money.
+   > **中文**：那个贪婪的叔叔想要那笔钱。
 
-20. The attorney read the final will in front of the assembled family.
-   > **中文**：律师公布了富豪在临终前签署的最后遗嘱。
+20. That will be the orphan from episode one.
+   > **中文**：那肯定是第一集里的那个孤儿。
 
 </quiz-listening>
 
@@ -231,26 +204,39 @@ hooked on（上瘾）、rewatch（重看）表达观剧热情。affair（婚外�
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| villain | 反派；恶棍 |
-| orphan | 孤儿 |
-| secret agent | 秘密特工；间谍 |
+| affair | 婚外情 |
+| anyhow | 反正 |
+| capable of | 有能力 / 有可能做 |
 | cast | 演员阵容 |
-| cemetery | 墓地；公墓 |
-| affair | 外遇；事务 |
-| poison | 毒药；下毒 |
-| will | 遗嘱；意愿 |
+| cemetery | 墓地 |
+| deceive | 欺骗 |
 | dramatic | 戏剧性的 |
 | greedy | 贪婪的 |
-| loyal | 忠诚的 |
-| capable of | 有能力做……的；能做出……的 |
-| hooked on | 上瘾；着迷 |
-| deceive | 欺骗 |
-| reveal | 揭露；透露 |
-| threaten | 威胁 |
-| rewatch | 重温；重看 |
-| on the surface | 表面上 |
+| hooked on | 着迷于 |
 | kind of like | 有点像 |
-| what's-his-name | 那个叫什么名字来着的人 |
+| loyal | 忠诚的 |
+| on the surface | 表面上 |
+| orphan | 孤儿 |
+| poison | 毒药 / 下毒 |
+| reaction | 反应 |
+| reveal | 揭示 |
+| rewatch | 重看 |
+| secret agent | 特工 |
+| some guy | 某个家伙 |
+| sort of | 算是 / 有点 |
+| the one whose | ……的那个人 |
+| threaten | 威胁 |
+| villain | 反派 |
+| what's-his-name | 那个谁 |
+| will | 将 / 想必 |
+| he | 他 |
+| she | 她 |
+| they | 他们 |
+| with | 与 |
+| about | 关于 |
+| found out | 发现 |
+| twice | 两次 |
+| episode | 集 |
 
 </quiz-matching>
 
@@ -258,202 +244,202 @@ hooked on（上瘾）、rewatch（重看）表达观剧热情。affair（婚外�
 
 ### 1
 
-The ____ villain tried to alter the rich man's will for money.
+The ____ finally showed his true face.
 
-- [x] greedy
-- [ ] affair
-- [ ] anyhow
+- [x] villain
+- [ ] villa
+- [ ] villainous
 
-> **解析**：**greedy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The 后需要名词 villain（反派）；villa 是别墅，villainous 是形容词。
 
 ### 2
 
-The hero was an ____ who later became a skilled secret agent.
+She is the one ____ husband was killed.
 
-- [x] orphan
-- [ ] affair
-- [ ] anyhow
+- [x] whose
+- [ ] who
+- [ ] which
 
-> **解析**：**orphan** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：whose 表示所属"她的丈夫"；who 不能连接 husband，which 指物。
 
 ### 3
 
-The team shot a ____ scene inside an old cemetery.
+He ____ his best friend for the money.
 
-- [x] dramatic
-- [ ] affair
-- [ ] anyhow
+- [x] deceived
+- [ ] deceive
+- [ ] deceiving
 
-> **解析**：**dramatic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去事件用过去式 deceived；其余两项不能单独作谓语。
 
 ### 4
 
-Viewers are ____ hooked on this popular soap opera.
+The last episode ____ who the killer was.
 
-- [x] completely
-- [ ] affair
-- [ ] anyhow
+- [x] revealed
+- [ ] reveals to
+- [ ] revealing
 
-> **解析**：**completely** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 episode 是过去的事，用 revealed；reveals to 结构多余，revealing 不能单独作谓语。
 
 ### 5
 
-On the surface they were friends, but he continued to ____ them.
+They ____ to burn the house down.
 
-- [x] deceive
-- [ ] affair
-- [ ] anyhow
+- [x] threatened
+- [ ] threaten to to
+- [ ] threatening
 
-> **解析**：**deceive** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：threaten to do 表示"威胁要做"，过去式 threatened；其余两项结构错误。
 
 ### 6
 
-The final episode ____ reveal the truth about the secret affair.
+Someone tried to ____ the king's wine.
 
-- [x] will
-- [ ] affair
-- [ ] anyhow
+- [x] poison
+- [ ] poisoned
+- [ ] poisoning
 
-> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：to 后接动词原形 poison；其余两项不符合不定式要求。
 
 ### 7
 
-The ____ bodyguard vowed to protect his master from threats.
+Her husband had an ____ with the nurse.
 
-- [x] loyal
-- [ ] affair
-- [ ] anyhow
+- [x] affair
+- [ ] affair's
+- [ ] affairs
 
-> **解析**：**loyal** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：an 后接单数名词 affair；复数与所有格都不符合。
 
 ### 8
 
-Nobody believed he was capable of putting ____ in the drink.
+The story got more and more ____.
 
-- [x] poison
-- [ ] affair
-- [ ] anyhow
+- [x] dramatic
+- [ ] drama
+- [ ] dramatically
 
-> **解析**：**poison** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：got 是系动词，后接形容词 dramatic；drama 是名词，dramatically 是副词。
 
 ### 9
 
-The star-studded ____ of the show delivered great performances.
+I am completely hooked ____ this drama.
 
-- [x] cast
-- [ ] affair
-- [ ] anyhow
+- [x] on
+- [ ] at
+- [ ] in
 
-> **解析**：**cast** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be hooked on 是固定搭配"着迷于"；at 和 in 不能构成该短语。
 
 ### 10
 
-The audience had a strong ____ to the hero's unexpected twist.
+The villain is capable ____ murder.
 
-- [x] reaction
-- [ ] affair
-- [ ] anyhow
+- [x] of
+- [ ] for
+- [ ] with
 
-> **解析**：**reaction** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be capable of 是固定搭配；for 和 with 不能构成该短语。
 
 ### 11
 
-This drama was so good that I plan to ____ the series.
+____, he looked like a loyal friend.
 
-- [x] rewatch
-- [ ] affair
-- [ ] anyhow
+- [x] On the surface
+- [ ] On the face
+- [ ] On the top
 
-> **解析**：**rewatch** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：On the surface 是固定表达"表面上"；其余两项不是正确搭配。
 
 ### 12
 
-The ____ threatened to leak all confidential documents.
+It's ____ a story about family secrets.
 
-- [x] villain
-- [ ] affair
-- [ ] anyhow
+- [x] sort of
+- [ ] sort
+- [ ] sorts of
 
-> **解析**：**villain** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：sort of 是口语缓和语"算是"；sorts of 后接复数，sort 单独使用不成立。
 
 ### 13
 
-This plot twist is kind of like a classic old ____.
+The hero is kind of ____ his father.
 
-- [x] melodrama
-- [ ] affair
-- [ ] anyhow
+- [x] like
+- [ ] likes
+- [ ] liking
 
-> **解析**：**melodrama** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：kind of like 中 like 是介词"像"；likes 是动词单三，语义不合。
 
 ### 14
 
-____ played the role of the sinister boss so well.
+____, we never found out who did it.
 
-- [x] What's-his-name
-- [ ] affair
-- [ ] anyhow
+- [x] Anyhow
+- [ ] Any how
+- [ ] Anyways
 
-> **解析**：**What's-his-name** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Anyhow 是标准拼写"反正"；Any how 分写错误，Anyways 不规范。
 
 ### 15
 
-____, the series finale promises to satisfy all loyal fans.
+What was her ____ to the surprise?
 
-- [x] Anyhow
-- [ ] affair
-- [ ] capable of
+- [x] reaction
+- [ ] react
+- [ ] reactive
 
-> **解析**：**Anyhow** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：her 后需要名词 reaction；react 是动词，reactive 是形容词。
 
 ### 16
 
-The one whose fortune was left in the ____ passed away.
+Let's ____ the first season together.
 
-- [x] will
-- [ ] affair
-- [ ] anyhow
+- [x] rewatch
+- [ ] rewatched
+- [ ] rewatching
 
-> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Let's 后接动词原形 rewatch；其余两项不符合要求。
 
 ### 17
 
-Some guy was seen walking near the entrance of the ____.
+The ____ includes twenty actors.
 
-- [x] cemetery
-- [ ] affair
-- [ ] anyhow
+- [x] cast
+- [ ] caste
+- [ ] casting
 
-> **解析**：**cemetery** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：指"演员阵容"用 cast；caste 是种姓，casting 指选角过程。
 
 ### 18
 
-His character is sort of ____, making it hard to predict.
+____ left a note at the cemetery gate.
 
-- [x] mysterious
-- [ ] affair
-- [ ] anyhow
+- [x] Some guy
+- [ ] Some guys
+- [ ] Some guy's
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **mysterious**。
+> **解析**：作主语指"某个家伙"用 Some guy；复数与所有格不合语境。
 
 ### 19
 
-The wicked rival slipped ____ into the glass without being seen.
+The ____ grew up in the old town.
 
-- [x] poison
-- [ ] affair
-- [ ] anyhow
+- [x] orphan
+- [ ] orphans
+- [ ] orphaned
 
-> **解析**：**poison** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The 后接单数名词 orphan；orphaned 是过去分词作形容词。
 
 ### 20
 
-The attorney read the final ____ in front of the assembled family.
+That ____ be the secret agent from episode three.
 
 - [x] will
-- [ ] affair
-- [ ] anyhow
+- [ ] wills
+- [ ] willing
 
-> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：will 表示有把握的推测"想必"；wills 不存在，willing 是形容词。
 
 </quiz-cloze>

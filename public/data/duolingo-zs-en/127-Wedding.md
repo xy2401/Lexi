@@ -10,40 +10,39 @@ bride, celebrate, ceremony, cheek, colorful, deliver, engaged, exchange, greet, 
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"谈论婚礼计划"展开。核心是婚礼表达：The bride and groom exchanged rings at the ceremony.（新郎新娘在仪式上交换了戒指。）、We're going to celebrate with a traditional wedding.（我们要办一场传统婚礼来庆祝。）、The musician played until the last dance.（乐手演奏到最后一支舞。）、Instead of roses, she carried colorful flowers.（她没有拿玫瑰，而是拿了五颜六色的花。）。
+本单元的主题是"谈论婚礼计划"，词表可以分成三组：婚礼人物（bride, groom, engaged, relative, musician）、婚礼流程与物品（wedding, ceremony, celebrate, exchange, kiss, greet, thank, deliver, rose, vase, colorful, traditional）、以及时间与替换表达（until, till, last, over, instead of, surprise, stood）。拼起来就是一套完整的婚礼叙事：The bride and the groom exchange rings at the ceremony. The relatives celebrate until midnight.
 
-词表里有婚礼词汇（bride, groom, ceremony, wedding, engaged）和动作词汇（exchange, greet, celebrate, deliver）。你可以练习：They got engaged last month. / The bride kissed the groom. / Thank you for coming! / A relative delivered the roses in a vase.
+语法主线有两个。一是 until/till 表示"直到"，强调动作或状态延续到某个时间点：We celebrate until midnight.（till 与 until 同义，until 更正式、更常用于句首。）二是 instead of 表示"而不是"，后接名词或动名词：We use roses instead of lilies. 另外 stood 是 stand 的不规则过去式，用来描述婚礼上的站位：The groom stood beside the bride.
 
-instead of 表示"而不是"。until / till 表示"直到"。
+学完这单元，你能用英语讨论婚礼安排：谁参加、仪式流程、用什么花、庆祝到几点。
 
 ## Tips
 
-- **bride / groom / wedding** — 新娘 / 新郎 / 婚礼。搭配：the bride and groom, at the wedding, a beautiful bride。例句：The bride looked stunning. / The groom was nervous. / It was a beautiful wedding. 注意 bride 是女方，groom 是男方。
+- **bride / groom** — 新娘与新郎，婚礼核心词。bridesmaid 是伴娘，groomsman 是伴郎。the bride and groom 常说成 the newlyweds（新婚夫妇）。
 
-- **ceremony / traditional / celebrate** — 仪式 / 传统的 / 庆祝。搭配：the wedding ceremony, a traditional ceremony, celebrate the wedding。例句：The ceremony was traditional. / Let's celebrate! 注意 ceremony 的发音：/ˈserɪmoʊni/。
+- **wedding / ceremony** — wedding 婚礼（事件整体），ceremony 仪式（正式环节）：The ceremony starts at ten. 宗教仪式常说 religious ceremony。
 
-- **engaged / exchange / kiss** — 订婚 / 交换 / 亲吻。搭配：get engaged, exchange rings, kiss the bride。例句：They got engaged in December. / They exchanged rings. / The groom kissed the bride. 注意 engaged to sb。
+- **engaged** — 已订婚的：They are engaged. 名词 engagement（订婚）。订婚戒指 engagement ring。注意 be engaged 也可指"忙碌占线"，靠语境区分。
 
-- **instead of / until / till** — 而不是 / 直到。搭配：instead of roses, until midnight, till the end。例句：Instead of a big wedding, they had a small one. / We danced until midnight. / Wait till tomorrow. 注意 until 和 till 意思相同（till 更口语）。
+- **celebrate / exchange / greet / thank** — 四个婚礼动作。celebrate 庆祝（名词 celebration）。exchange 交换：exchange rings。greet 迎接、问候：greet the guests。thank 感谢：Thank you for coming.
 
-- **musician / rose / vase** — 音乐家 / 玫瑰 / 花瓶。搭配：a musician, a bunch of roses, in a vase。例句：The musician played beautifully. / She carried red roses. / The roses are in a vase. 注意 musician 指演奏者/音乐人。
+- **deliver** — 递送、发表：deliver the flowers（送花）、deliver a speech（致辞）。婚礼上伴郎致辞可以说 deliver a speech。
 
-- **greet / relative / deliver** — 问候 / 亲戚 / 送。搭配：greet the guests, a close relative, deliver flowers。例句：The bride greeted every guest. / All the relatives came. / They delivered the flowers. 注意 greet 比 say hello to 更正式。
+- **kiss / cheek** — kiss 亲吻，动词名词同形。cheek 脸颊。西式见面礼亲吻脸颊：kiss someone on the cheek。
 
-- **colorful / surprise / thank** — 五颜六色的 / 惊喜 / 感谢。搭配：colorful decorations, a big surprise, thank you for。例句：The decorations were colorful. / What a surprise! / Thank you for coming! 注意 colorful = full of colors。
+- **rose / vase / colorful** — rose 玫瑰，婚礼常用花。vase 花瓶：Put the roses in the vase. colorful 色彩丰富的（color + -ful），形容词后缀 -ful 表示"充满"。
 
-- **stood / last / over** — 站了 / 最后的 / 结束。搭配：stood up, the last dance, it's over。例句：The groom stood at the altar. / This is the last song. / The ceremony is over. 注意 stand → stood → stood。
+- **musician** — 音乐人，music + -ian（表人的后缀，如 librarian）。婚礼乐队成员：The musicians play traditional songs.
 
-- **cheek / kiss / bride** — 脸颊 / 亲吻 / 新娘。搭配：kiss on the cheek, a kiss, the bride。例句：She kissed him on the cheek. / The bride gave a speech. 注意 kiss on the cheek = 亲脸颊（比 kiss 更轻）。
+- **traditional** — 传统的，名词 tradition。a traditional wedding（传统婚礼）。副词 traditionally。
 
-- **relative / traditional / ceremony** — 亲戚 / 传统 / 仪式。搭配：a relative of mine, traditional wedding, the ceremony。例句：All our relatives came to the wedding. / It was a traditional ceremony. 注意 relative = 亲戚/亲属。
+- **until / till** — "直到"，介词或连词，可互换：Wait until/till the ceremony is over. until 稍正式，常放句首；till 更口语。注意 ✗ until...not 结构要小心：We didn't leave until ten.（我们直到十点才走。）
 
-- **wedding / engaged / celebrate** — 婚礼 / 订婚 / 庆祝。搭配：a wedding dress, get engaged, celebrate together。例句：The wedding was in June. / They're engaged! / Let's celebrate their wedding!
+- **instead of / over / last** — instead of"而不是"，后接名词或 -ing：We danced instead of singing. over 表示结束：The ceremony is over. last 表示持续或"最后的"：The party lasted till midnight.
 
-- **deliver / vase / until** — 送 / 花瓶 / 直到。搭配：deliver the flowers, in a vase, until the end。例句：The flowers were delivered this morning. / Put the roses in the vase. / We celebrated until late.
+- **surprise / relative / stood** — surprise 惊喜：What a surprise! relative 亲戚、亲属。stood 是 stand 的过去式（不规则）：She stood next to the bride.
 
 ## 练习
 
@@ -61,149 +60,149 @@ instead of 表示"而不是"。until / till 表示"直到"。
 
 <quiz-sentence-builder>
 
-1. **中文**：在新颖的婚礼仪式上，新娘和新郎互相交换了戒指。  
-   **英文**：At the wedding ceremony, the bride and groom exchanged rings.
-   > **解析**：wedding ceremony 表示“婚礼仪式”；bride 表示“新娘”；groom 表示“新郎”；exchange 表示“交换”。
+1. **中文**：新娘和新郎交换了戒指。
+   **英文**：The bride and the groom exchanged rings.
+   > **解析**：and 连接并列主语，动词用过去式 exchanged；rings 作宾语。
 
-2. **中文**：新郎在亲戚面前亲吻了新娘的面颊以示爱意。  
-   **英文**：The groom kissed the bride on the cheek in front of relatives.
-   > **解析**：groom 表示“新郎”；cheek 表示“面颊/脸颊”；relative 表示“亲戚”。
+2. **中文**：他们订婚了。
+   **英文**：They are engaged.
+   > **解析**：be engaged 表示"已订婚"，engaged 作表语形容词。
 
-3. **中文**：音乐家们演奏起传统的乐曲来亲切问候每一位来宾。  
-   **英文**：Musicians played traditional music to greet every guest.
-   > **解析**：musician 表示“音乐家”；traditional 表示“传统的”；greet 表示“问候/打招呼”。
+3. **中文**：仪式在十点开始。
+   **英文**：The ceremony starts at ten.
+   > **解析**：The ceremony 是第三人称单数，start 加 s；at ten 表示钟点。
 
-4. **中文**：我们决定送上一瓶鲜花和花瓶作为给他们的婚礼惊喜。  
-   **英文**：We delivered roses in a vase as a wedding surprise.
-   > **解析**：deliver 表示“递送/送达”；rose 表示“玫瑰”；vase 表示“花瓶”；surprise 表示“惊喜”。
+4. **中文**：亲戚们庆祝到午夜。
+   **英文**：The relatives celebrate until midnight.
+   > **解析**：until midnight 表示动作延续到午夜；celebrate 用原形因为主语是复数。
 
-5. **中文**：亲朋好友们在现场热情庆祝，直到深夜时分。  
-   **英文**：Relating friends stood and celebrated until late at night.
-   > **解析**：celebrate 表示“庆祝”；stood 是 stand 的过去式；until / till 表示“直到……为止”。
+5. **中文**：我们等到仪式结束。
+   **英文**：We waited till the ceremony was over.
+   > **解析**：till 引导时间状语从句；was over 表示"结束了"。
 
-6. **中文**：他们没有点普通的蛋糕，而是准备了多彩的甜点。  
-   **英文**：Instead of a plain cake, they had colorful desserts.
-   > **解析**：instead of 表示“代替/而不是”；colorful 表示“多彩的/绚丽的”。
+6. **中文**：我们用玫瑰而不是百合。
+   **英文**：We use roses instead of lilies.
+   > **解析**：instead of 后接名词 roses 的对照项 lilies，表示"而不是"。
 
-7. **中文**：婚礼欢庆活动持续了三个小时，现场充满了欢声笑语。  
-   **英文**：The wedding ceremony lasted over three hours with joy.
-   > **解析**：last / lasted 表示“持续”；over 表示“超过/多于”；wedding 表示“婚礼”。
+7. **中文**：请把玫瑰放进花瓶里。
+   **英文**：Please put the roses in the vase.
+   > **解析**：put + 宾语 + 地点短语；in the vase 表示位置。
 
-8. **中文**：这对刚订婚的新人衷心感谢了每一位远道而来的亲戚。  
-   **英文**：The engaged couple thanked all relatives for coming.
-   > **解析**：engaged 表示“订婚的”；thanked 表示“感谢了”；relative 表示“亲戚”。
+8. **中文**：音乐家演奏了传统歌曲。
+   **英文**：The musicians played traditional songs.
+   > **解析**：played 是过去式；traditional 作定语修饰 songs。
 
-9. **中文**：新郎站在台前，深情地注视着走来的新娘。  
-   **英文**：The groom stood by the altar, looking at his lovely bride.
-   > **解析**：groom 表示“新郎”；stood 表示“站立”。
+9. **中文**：新郎站在新娘旁边。
+   **英文**：The groom stood beside the bride.
+   > **解析**：stood 是 stand 的不规则过去式；beside 表示"在旁边"。
 
-10. **中文**：他们在所有的婚礼嘉宾面前亲吻了对方。  
-   **英文**：They gave each other a sweet kiss before all the guests.
-   > **解析**：kiss 表示“亲吻”；wedding 表示“婚礼”。
+10. **中文**：他亲吻了她的脸颊。
+   **英文**：He kissed her on the cheek.
+   > **解析**：kiss someone on the cheek 是固定表达；kissed 是过去式。
 
-11. **中文**：新娘身穿洁白的传统婚纱，看起来非常美丽。  
-   **英文**：The bride wore a beautiful traditional white wedding gown.
-   > **解析**：bride 表示“新娘”；traditional 表示“传统的”。
+11. **中文**：感谢大家的到来。
+   **英文**：Thank you all for coming.
+   > **解析**：Thank you for + 动名词，表示"因……而感谢"。
 
-12. **中文**：仪式在教堂的花园里隆重举行。  
-   **英文**：The marriage ceremony was held in the church garden.
-   > **解析**：ceremony 表示“仪式/典礼”。
+12. **中文**：花会准时送到。
+   **英文**：The flowers will be delivered on time.
+   > **解析**：will be delivered 是一般将来时的被动语态；on time 表示准时。
 
-13. **中文**：现场的音乐家们弹奏出了优雅动听的旋律。  
-   **英文**：The talented musicians played lovely songs at the feast.
-   > **解析**：musician 表示“音乐家”。
+13. **中文**：这是一场传统婚礼。
+   **英文**：This is a traditional wedding.
+   > **解析**：traditional 作定语修饰 wedding；a 放在形容词前。
 
-14. **中文**：他在表白时轻轻亲了亲她的脸颊。  
-   **英文**：He kissed her gently on her left cheek with love.
-   > **解析**：cheek 表示“面颊/脸颊”。
+14. **中文**：装饰五彩缤纷。
+   **英文**：The decorations are colorful.
+   > **解析**：The decorations 是复数主语，用 are；colorful 作表语。
 
-15. **中文**：多位亲戚专程乘坐飞机赶来参加这场婚礼。  
-   **英文**：Many relatives came by plane to join this big wedding.
-   > **解析**：relative / relatives 表示“亲戚”。
+15. **中文**：婚礼上有个大惊喜。
+   **英文**：There was a big surprise at the wedding.
+   > **解析**：There was 是过去时存在句；at the wedding 是场合状语。
 
-16. **中文**：桌上摆放着用精致玻璃花瓶盛装的红玫瑰。  
-   **英文**：Red roses were set in a clear glass vase on the table.
-   > **解析**：rose 表示“玫瑰”；vase 表示“花瓶”。
+16. **中文**：派对持续到了午夜。
+   **英文**：The party lasted until midnight.
+   > **解析**：lasted 是 last"持续"的过去式；until midnight 是时间终点。
 
-17. **中文**：我们为新人准备了一份意想不到的精致惊喜。  
-   **英文**：We prepared an unexpected surprise for the new couple.
-   > **解析**：surprise 表示“惊喜”。
+17. **中文**：仪式结束了。
+   **英文**：The ceremony is over.
+   > **解析**：be over 是固定表达"结束了"；over 在这里作表语。
 
-18. **中文**：这场盛大的婚礼派对一直持续到了午夜。  
-   **英文**：The big wedding party lasted till midnight.
-   > **解析**：till 表示“直到……为止”；lasted 表示“持续”。
+18. **中文**：我们跳舞而不是唱歌。
+   **英文**：We danced instead of singing.
+   > **解析**：instead of 后接动名词 singing，与 danced 的动作形成对照。
 
-19. **中文**：新郎新娘在所有宾客面前互相交换了戒指。  
-   **英文**：The couple decided to exchange wedding rings on stage.
-   > **解析**：exchange 表示“交换”。
+19. **中文**：新娘微笑着向宾客致意。
+   **英文**：The bride smiled and greeted the guests.
+   > **解析**：smiled 与 greeted 是并列过去式；the guests 作 greeted 的宾语。
 
-20. **中文**：亲朋好友们聚在一起共同庆祝这个特殊的日子。  
-   **英文**：Friends and family gathered to celebrate this special day.
-   > **解析**：celebrate 表示“庆祝”。
+20. **中文**：他们下个月结婚。
+   **英文**：They will get married next month.
+   > **解析**：will get married 是将来的"结婚"；next month 是时间状语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. At the wedding ceremony, the bride and groom exchanged rings.
-   > **中文**：在新颖的婚礼仪式上，新娘和新郎互相交换了戒指。
+1. The bride and the groom exchanged rings.
+   > **中文**：新娘和新郎交换了戒指。
 
-2. The groom kissed the bride on the cheek in front of relatives.
-   > **中文**：新郎在亲戚面前亲吻了新娘的面颊以示爱意。
+2. They are engaged.
+   > **中文**：他们订婚了。
 
-3. Musicians played traditional music to greet every guest.
-   > **中文**：音乐家们演奏起传统的乐曲来亲切问候每一位来宾。
+3. The ceremony starts at ten.
+   > **中文**：仪式在十点开始。
 
-4. We delivered roses in a vase as a wedding surprise.
-   > **中文**：我们决定送上一瓶鲜花和花瓶作为给他们的婚礼惊喜。
+4. The relatives celebrate until midnight.
+   > **中文**：亲戚们庆祝到午夜。
 
-5. Relating friends stood and celebrated until late at night.
-   > **中文**：亲朋好友们在现场热情庆祝，直到深夜时分。
+5. We waited till the ceremony was over.
+   > **中文**：我们等到仪式结束。
 
-6. Instead of a plain cake, they had colorful desserts.
-   > **中文**：他们没有点普通的蛋糕，而是准备了多彩的甜点。
+6. We use roses instead of lilies.
+   > **中文**：我们用玫瑰而不是百合。
 
-7. The wedding ceremony lasted over three hours with joy.
-   > **中文**：婚礼欢庆活动持续了三个小时，现场充满了欢声笑语。
+7. Please put the roses in the vase.
+   > **中文**：请把玫瑰放进花瓶里。
 
-8. The engaged couple thanked all relatives for coming.
-   > **中文**：这对刚订婚的新人衷心感谢了每一位远道而来的亲戚。
+8. The musicians played traditional songs.
+   > **中文**：音乐家演奏了传统歌曲。
 
-9. The groom stood by the altar, looking at his lovely bride.
-   > **中文**：新郎站在台前，深情地注视着走来的新娘。
+9. The groom stood beside the bride.
+   > **中文**：新郎站在新娘旁边。
 
-10. They gave each other a sweet kiss before all the guests.
-   > **中文**：他们在所有的婚礼嘉宾面前亲吻了对方。
+10. He kissed her on the cheek.
+   > **中文**：他亲吻了她的脸颊。
 
-11. The bride wore a beautiful traditional white wedding gown.
-   > **中文**：新娘身穿洁白的传统婚纱，看起来非常美丽。
+11. Thank you all for coming.
+   > **中文**：感谢大家的到来。
 
-12. The marriage ceremony was held in the church garden.
-   > **中文**：仪式在教堂的花园里隆重举行。
+12. The flowers will be delivered on time.
+   > **中文**：花会准时送到。
 
-13. The talented musicians played lovely songs at the feast.
-   > **中文**：现场的音乐家们弹奏出了优雅动听的旋律。
+13. This is a traditional wedding.
+   > **中文**：这是一场传统婚礼。
 
-14. He kissed her gently on her left cheek with love.
-   > **中文**：他在表白时轻轻亲了亲她的脸颊。
+14. The decorations are colorful.
+   > **中文**：装饰五彩缤纷。
 
-15. Many relatives came by plane to join this big wedding.
-   > **中文**：多位亲戚专程乘坐飞机赶来参加这场婚礼。
+15. There was a big surprise at the wedding.
+   > **中文**：婚礼上有个大惊喜。
 
-16. Red roses were set in a clear glass vase on the table.
-   > **中文**：桌上摆放着用精致玻璃花瓶盛装的红玫瑰。
+16. The party lasted until midnight.
+   > **中文**：派对持续到了午夜。
 
-17. We prepared an unexpected surprise for the new couple.
-   > **中文**：我们为新人准备了一份意想不到的精致惊喜。
+17. The ceremony is over.
+   > **中文**：仪式结束了。
 
-18. The big wedding party lasted till midnight.
-   > **中文**：这场盛大的婚礼派对一直持续到了午夜。
+18. The bride smiled and greeted the guests.
+   > **中文**：新娘微笑着向宾客致意。
 
-19. The couple decided to exchange wedding rings on stage.
-   > **中文**：新郎新娘在所有宾客面前互相交换了戒指。
+19. My relative is a musician.
+   > **中文**：我的亲戚是一位音乐家。
 
-20. Friends and family gathered to celebrate this special day.
-   > **中文**：亲朋好友们聚在一起共同庆祝这个特殊的日子。
+20. They will celebrate all night.
+   > **中文**：他们会庆祝一整晚。
 
 </quiz-listening>
 
@@ -213,24 +212,35 @@ instead of 表示"而不是"。until / till 表示"直到"。
 | --- | --- |
 | bride | 新娘 |
 | celebrate | 庆祝 |
-| ceremony | 仪式 / 典礼 |
-| cheek | 面颊 / 脸颊 |
-| colorful | 多彩的 |
-| deliver | 递送 / 送达 |
-| engaged | 订婚的 |
+| ceremony | 仪式 |
+| cheek | 脸颊 |
+| colorful | 色彩丰富的 |
+| deliver | 递送 / 发表 |
+| engaged | 已订婚的 |
 | exchange | 交换 |
-| greet | 问候 / 打招呼 |
+| greet | 迎接 / 问候 |
 | groom | 新郎 |
-| instead of | 代替 / 而不是 |
+| instead of | 而不是 |
 | kiss | 亲吻 |
-| last | 持续 |
+| last | 持续 / 最后的 |
 | musician | 音乐家 |
+| over | 结束 / 在……上方 |
 | relative | 亲戚 |
 | rose | 玫瑰 |
-| stood | 站立（stand的过去式） |
+| stood | 站立（stand 的过去式） |
 | surprise | 惊喜 |
+| thank | 感谢 |
+| till | 直到 |
 | traditional | 传统的 |
+| until | 直到 |
+| vase | 花瓶 |
 | wedding | 婚礼 |
+| is | 是（单数） |
+| are | 是（复数） |
+| the | 这 / 那（定冠词） |
+| and | 和 |
+| at | 在（时刻 / 地点） |
+| for | 为了 / 因为 |
 
 </quiz-matching>
 
@@ -238,202 +248,202 @@ instead of 表示"而不是"。until / till 表示"直到"。
 
 ### 1
 
-At the ____ ceremony, the bride and groom exchanged rings.
+The bride and the groom ____ rings.
 
-- [x] wedding
-- [ ] bride
-- [ ] celebrate
+- [x] exchanged
+- [ ] exchange
+- [ ] delivered
 
-> **解析**：**wedding** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：叙述婚礼当天的事用过去式 exchanged；exchange 是原形，delivered 语义不符。
 
 ### 2
 
-The ____ kissed the bride on the cheek in front of relatives.
+They are ____.
 
-- [x] groom
-- [ ] bride
-- [ ] celebrate
+- [x] engaged
+- [ ] engage
+- [ ] engagingly
 
-> **解析**：**groom** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be engaged 是"已订婚"的固定表达；engage 是动词原形，engagingly 是副词。
 
 ### 3
 
-Musicians played ____ music to greet every guest.
+The ____ starts at ten.
 
-- [x] traditional
-- [ ] bride
-- [ ] celebrate
+- [x] ceremony
+- [ ] cheek
+- [ ] vase
 
-> **解析**：**traditional** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：在十点开始的是 ceremony"仪式"；cheek 和 vase 语义不符。
 
 ### 4
 
-We delivered roses in a ____ as a wedding surprise.
+The relatives celebrate ____ midnight.
 
-- [x] vase
-- [ ] bride
-- [ ] celebrate
+- [x] until
+- [ ] instead of
+- [ ] over
 
-> **解析**：**vase** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：表示"到午夜为止"用 until；instead of 表替换，over 表示结束或位置。
 
 ### 5
 
-Relating friends ____ and celebrated until late at night.
+We waited till the ceremony was ____.
 
-- [x] stood
-- [ ] bride
-- [ ] celebrate
+- [x] over
+- [ ] engaged
+- [ ] colorful
 
-> **解析**：**stood** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be over 表示"结束了"；engaged 和 colorful 语义不符。
 
 ### 6
 
-Instead of a plain cake, they had ____ desserts.
+We use roses ____ of lilies.
 
-- [x] colorful
-- [ ] bride
-- [ ] celebrate
+- [x] instead
+- [ ] until
+- [ ] thank
 
-> **解析**：**colorful** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：instead of 是固定搭配"而不是"；until 和 thank 都不构成这个搭配。
 
 ### 7
 
-The ____ ceremony lasted over three hours with joy.
+Please put the roses in the ____.
 
-- [x] wedding
-- [ ] bride
-- [ ] celebrate
+- [x] vase
+- [ ] groom
+- [ ] surprise
 
-> **解析**：**wedding** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：花放进 vase"花瓶"；groom 和 surprise 语义不符。
 
 ### 8
 
-The ____ couple thanked all relatives for coming.
+The musicians played ____ songs.
 
-- [x] engaged
-- [ ] bride
-- [ ] celebrate
+- [x] traditional
+- [ ] tradition
+- [ ] traditionally
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **engaged**。
+> **解析**：名词 songs 前需要形容词 traditional；tradition 是名词，traditionally 是副词。
 
 ### 9
 
-The ____ stood by the altar, looking at his lovely bride.
+The groom ____ beside the bride.
 
-- [x] groom
-- [ ] bride
-- [ ] celebrate
+- [x] stood
+- [ ] stand
+- [ ] standing
 
-> **解析**：**groom** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去用 stand 的过去式 stood（不规则）；stand 是原形，standing 是分词。
 
 ### 10
 
-They gave each other a sweet ____ before all the guests.
+He kissed her on the ____.
 
-- [x] kiss
-- [ ] bride
-- [ ] celebrate
+- [x] cheek
+- [ ] ceremony
+- [ ] musician
 
-> **解析**：**kiss** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：kiss someone on the cheek 是固定表达；ceremony 和 musician 语义不符。
 
 ### 11
 
-The ____ wore a beautiful traditional white wedding gown.
+Thank you all ____ coming.
 
-- [x] bride
-- [ ] celebrate
-- [ ] ceremony
+- [x] for
+- [ ] till
+- [ ] over
 
-> **解析**：**bride** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：thank you for + 动名词是固定搭配；till 和 over 都不构成这个搭配。
 
 ### 12
 
-The marriage ____ was held in the church garden.
+The flowers will be ____ on time.
 
-- [x] ceremony
-- [ ] bride
-- [ ] celebrate
+- [x] delivered
+- [ ] deliver
+- [ ] delivery
 
-> **解析**：**ceremony** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：will be + 过去分词 delivered 构成被动语态；deliver 是原形，delivery 是名词。
 
 ### 13
 
-The talented ____ played lovely songs at the feast.
+This is a traditional ____.
 
-- [x] musicians
-- [ ] bride
-- [ ] celebrate
+- [x] wedding
+- [ ] cheek
+- [ ] rose
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **musicians**。
+> **解析**：traditional 修饰 wedding"婚礼"；cheek 和 rose 语义不符。
 
 ### 14
 
-He kissed her gently on her left ____ with love.
+The decorations are ____.
 
-- [x] cheek
-- [ ] bride
-- [ ] celebrate
+- [x] colorful
+- [ ] color
+- [ ] colorfully
 
-> **解析**：**cheek** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：are 后需要形容词 colorful 作表语；color 是名词，colorfully 是副词。
 
 ### 15
 
-Many relatives came by plane to join this big ____.
+There was a big ____ at the wedding.
 
-- [x] wedding
-- [ ] bride
-- [ ] celebrate
+- [x] surprise
+- [ ] surprising
+- [ ] surprisingly
 
-> **解析**：**wedding** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：a big 后需要名词 surprise；surprising 是形容词，surprisingly 是副词。
 
 ### 16
 
-Red roses were set in a clear glass ____ on the table.
+The party ____ until midnight.
 
-- [x] vase
-- [ ] bride
-- [ ] celebrate
+- [x] lasted
+- [ ] last
+- [ ] lasting
 
-> **解析**：**vase** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去用 last"持续"的过去式 lasted；last 是原形，lasting 是分词。
 
 ### 17
 
-We prepared an unexpected ____ for the new couple.
+We danced instead of ____.
 
-- [x] surprise
-- [ ] bride
-- [ ] celebrate
+- [x] singing
+- [ ] sing
+- [ ] sang
 
-> **解析**：**surprise** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：instead of 是介词短语，后接动名词 singing；sing 是原形，sang 是过去式。
 
 ### 18
 
-The big ____ party lasted till midnight.
+The bride smiled and ____ the guests.
 
-- [x] wedding
-- [ ] bride
-- [ ] celebrate
+- [x] greeted
+- [ ] greet
+- [ ] greeting
 
-> **解析**：**wedding** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：与 smiled 并列的过去式 greeted；greet 是原形，greeting 是分词。
 
 ### 19
 
-The couple decided to ____ wedding rings on stage.
+My relative is a ____.
 
-- [x] exchange
-- [ ] bride
-- [ ] celebrate
+- [x] musician
+- [ ] music
+- [ ] musical
 
-> **解析**：**exchange** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后需要表人的名词 musician；music 是事物名词，musical 是形容词。
 
 ### 20
 
-Friends and family gathered to ____ this special day.
+They will celebrate ____ night.
 
-- [x] celebrate
-- [ ] bride
-- [ ] ceremony
+- [x] all
+- [ ] every
+- [ ] instead
 
-> **解析**：**celebrate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：all night"一整晚"是固定搭配；every 要求可数名词单数，instead 需搭配 of。
 
 </quiz-cloze>

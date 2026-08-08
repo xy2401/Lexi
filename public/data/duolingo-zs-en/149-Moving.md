@@ -10,40 +10,35 @@ air conditioning, alarm, backyard, bathtub, break down, control, convenient, dec
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"谈论处理旧物"展开，以搬家为场景。核心是搬家和家居表达：We need to get rid of the old grill before we move.（搬家前我们得把旧烤架处理掉。）、The new place has air conditioning and a smoke alarm—it's very convenient.（新地方有空调和烟雾报警器——很方便。）、I'm stressed and tired from decorating, but the backyard is worth it.（装修让我又累又有压力，但后院很值得。）、Don't forget to lock the door and switch off the power.（别忘了锁门、关掉电源。）。
+本单元的主题是"谈论如何处理旧物"，场景是搬家前后。词表可以分成三组：房屋设施（air conditioning, backyard, bathtub, grill, lock, smoke alarm, alarm, power, switch）、搬家动作（move, get rid of, recycling, save, make, decorate, control, break down, mail, sheet）、以及感受（stressed, tired, worried）。拼起来就是一段搬家对话：We are moving next month, so I want to get rid of this old chair. Please switch off the power and test the smoke alarm before we leave.
 
-词表里有家居词汇（bathtub, grill, backyard, air conditioning）和搬家动作（get rid of, move, decorate, save）。你可以练习：The alarm went off. / Save the valuable items. / The washing machine broke down. / Put a sheet on the bed.
+语法主线有两个。一是 -ed 形容词表达感受：stressed（有压力的）、tired（疲惫的）、worried（担心的），常用 be + 形容词 + about 结构：I am stressed about the move. 二是短语动词的拆解记忆：get rid of（处理掉）、break down（出故障）、switch off（关掉），动词与小品词的组合要整体记忆。另外 valuable（贵重的）与 convenient（方便的）用来权衡物品的去留：This ring is valuable, but the old lamp is not worth saving.
 
-get rid of = 处理掉/扔掉。break down = 出故障。
+学完这单元，你能用英语谈搬家计划、决定物品去留、描述家电状况和搬家时的心情。
 
 ## Tips
 
-- **get rid of / move / valuable** — 处理掉 / 搬家 / 贵重的。搭配：get rid of old stuff, move to a new place, valuable items。例句：I want to get rid of these boxes. / We're moving next week. / Keep the valuable things safe. 注意 get rid of = 摆脱/扔掉。
+- **air conditioning / power / switch** — 电力三词。air conditioning 空调，缩写 AC。power 电力、电源。switch 开关，也作动词"切换"：switch off the power（关掉电源）。
 
-- **air conditioning / smoke alarm / alarm** — 空调 / 烟雾报警器 / 警报。搭配：turn on the air conditioning, a smoke alarm, set the alarm。例句：The air conditioning is broken. / Install a smoke alarm. / The alarm went off at 6. 注意 smoke alarm 是安全设备。
+- **backyard / grill / bathtub** — 家居三处。backyard 后院（back + yard）。grill 烤架，也作动词烧烤。bathtub 浴缸（bath + tub）。
 
-- **stressed / tired / worried** — 有压力 / 累 / 担心。搭配：feel stressed, get tired, be worried about。例句：I'm so stressed about moving. / I'm tired from packing. / She's worried about the cost. 注意 stressed 和 stressful 的区别。
+- **smoke alarm / alarm / lock** — 安全设备。smoke alarm 烟雾报警器。alarm 警报、闹钟。lock 锁，名词动词同形：Lock the door.
 
-- **decorate / backyard / grill** — 装修 / 后院 / 烤架。搭配：decorate the room, in the backyard, a barbecue grill。例句：We decorated the living room. / The kids play in the backyard. / Let's use the grill tonight. 注意 decorate = 装饰/装修。
+- **move / get rid of** — 搬家核心动词。move 搬家、移动：We are moving next month. get rid of 处理掉、扔掉：get rid of old furniture。rid 表示摆脱。
 
-- **lock / switch / power** — 锁 / 开关 / 电源。搭配：lock the door, switch off, turn off the power。例句：Lock the front door. / Switch off the lights. / The power is out. 注意 switch off = turn off。
+- **recycling / save** — 环保与节省。recycling 回收利用，动词 recycle。save 节省、保存，一词两义：Recycling saves energy. / save old letters.
 
-- **break down / control / convenient** — 出故障 / 控制 / 方便。搭配：break down, under control, very convenient。例句：The heater broke down. / Keep everything under control. / The location is convenient. 注意 break down 指机器故障。
+- **decorate / make / sheet** — decorate 装饰、装修：decorate the living room。make 制作：make a list. sheet 床单，常用复数 sheets：change the sheets.
 
-- **save / recycling / sheet** — 节省 / 回收 / 床单。搭配：save money, recycling bin, a clean sheet。例句：We can save on electricity. / Put it in the recycling. / Change the sheets weekly. 注意 save 可指"节省"也可指"保存"。
+- **break down** — 出故障、停止运转：The washing machine broke down. break-broke-broken 不规则。也可指情绪崩溃或分解。
 
-- **bathtub / mail / make** — 浴缸 / 邮件 / 制作。搭配：a bathtub, check the mail, make a plan。例句：The bathtub is huge. / Is there any mail? / Let's make a moving plan. 注意 mail 在美式指"邮件"（英式 post）。
+- **stressed / tired / worried** — 感受三词，都是 -ed 形容词。be stressed about（对……有压力）、feel tired（感到累）、be worried about（担心……）。✗ I am tiring 应为 ✓ I am tired（tiring 描述让人累的事物）。
 
-- **convenient / stressed / tired** — 方便 / 压力 / 疲惫。搭配：very convenient, stressed out, dead tired。例句：Living near work is convenient. / I'm stressed out. / I'm dead tired from moving. 注意 stressed out = 压力很大。
+- **convenient / valuable** — convenient 方便的：Living near work is convenient. 注意不说 I am convenient（那是"我很方便"的误译）。valuable 贵重的（value + -able）：a valuable ring.
 
-- **get rid of / valuable / save** — 扔掉 / 贵重 / 节省。搭配：get rid of junk, valuable possessions, save space。例句：Get rid of what you don't need. / These are valuable antiques. / Folding saves space. 注意 get rid of 比 throw away 更广泛。
-
-- **alarm / lock / switch** — 警报 / 锁 / 开关。搭配：set the alarm, lock up, switch on/off。例句：Set the alarm for 7 AM. / Did you lock up? / Switch off the power before you leave. 注意 lock up = 锁好（全部）。
-
-- **backyard / grill / air conditioning** — 后院 / 烤架 / 空调。搭配：in the backyard, fire up the grill, central air conditioning。例句：There's a big backyard. / He's grilling in the backyard. / The air conditioning keeps us cool. 注意这些是美式家居常见词汇。
+- **mail / control** — mail 邮件、邮寄：check the mail. control 控制：control the lights with your phone.
 
 ## 练习
 
@@ -61,149 +56,149 @@ get rid of = 处理掉/扔掉。break down = 出故障。
 
 <quiz-sentence-builder>
 
-1. **中文**：在搬家前，我们需要摆脱那些没有价值的破旧家具。  
-   **英文**：Before moving, we need to get rid of useless old furniture.
-   > **解析**：get rid of 表示“摆脱/丢弃”；valuable 表示“有价值的”；move 表示“搬家”。
+1. **中文**：我们下个月搬家。
+   **英文**：We are moving next month.
+   > **解析**：are moving 是现在进行时表将来安排；next month 是时间状语。
 
-2. **中文**：新搬入的房子带有中央空调，生活非常方便。  
-   **英文**：The new house with central air conditioning is convenient.
-   > **解析**：air conditioning 表示“空调”；convenient 表示“方便的/便利的”。
+2. **中文**：我想处理掉这把旧椅子。
+   **英文**：I want to get rid of this old chair.
+   > **解析**：want to 后接动词原形；get rid of 是固定短语。
 
-3. **中文**：请检查后院的烟雾报警器和烧烤架是否正常。  
-   **英文**：Please check if the smoke alarm and grill in backyard work.
-   > **解析**：smoke alarm 表示“烟雾报警器”；grill 表示“烧烤架”；backyard 表示“后院”。
+3. **中文**：空调昨天坏了。
+   **英文**：The air conditioning broke down yesterday.
+   > **解析**：broke down 是 break down 的过去式，表示出故障。
 
-4. **中文**：当电力中断时，电风扇和空调会停止工作。  
-   **英文**：When the electric power breaks down, fans stop working.
-   > **解析**：power 表示“电力/电源”；break down / breaks down 表示“故障/中断”。
+4. **中文**：离开前请关掉电源。
+   **英文**：Please switch off the power before you leave.
+   > **解析**：switch off 是关掉；before 引导时间从句。
 
-5. **中文**：主人在后院摆放了一台方便的烧烤架和浴缸。  
-   **英文**：The owner put a convenient grill and bathtub in backyard.
-   > **解析**：bathtub 表示“浴缸”；grill 表示“烧烤架”；backyard 表示“后院”。
+5. **中文**：每个月测试一次烟雾报警器。
+   **英文**：Test the smoke alarm every month.
+   > **解析**：Test 构成祈使句；every month 是频率状语。
 
-6. **中文**：我们在新的主卧里铺上了干净柔软的床单。  
-   **英文**：We put clean and soft bed sheets in our new bedroom.
-   > **解析**：sheet / bed sheet 表示“床单”；decorate 表示“装饰”。
+6. **中文**：别忘了锁门。
+   **英文**：Don't forget to lock the door.
+   > **解析**：Don't forget 构成否定祈使句；to lock 是不定式。
 
-7. **中文**：别担心，所有的珍贵包裹和信件都已上锁保存。  
-   **英文**：Don't be worried, all valuable mail and boxes are locked.
-   > **解析**：worried 表示“担心的”；valuable 表示“珍贵的/有价值的”；mail 表示“邮件/信件”；lock / locked 表示“上锁的”。
+7. **中文**：我们上周末装饰了客厅。
+   **英文**：We decorated the living room last weekend.
+   > **解析**：decorated 是过去式；last weekend 是时间状语。
 
-8. **中文**：请把主电源开关关掉，以节省电力并确保安全。  
-   **英文**：Please turn off the main power switch to save electricity.
-   > **解析**：switch 表示“开关”；power 表示“电力”；save 表示“节省/保存”。
+8. **中文**：后院很适合放烤架。
+   **英文**：The backyard is perfect for a grill.
+   > **解析**：perfect for 是固定搭配；for a grill 说明用途。
 
-9. **中文**：收拾那些凌乱的旧东西让人感到有些疲惫和压力。  
-   **英文**：Sorting out old stuff makes people feel tired and stressed.
-   > **解析**：tired 表示“疲惫的”；stressed 表示“感到有压力的”。
+9. **中文**：浴缸太小了。
+   **英文**：The bathtub is too small.
+   > **解析**：too 修饰形容词 small；is 与单数主语搭配。
 
-10. **中文**：他们把后院用花卉和彩灯装饰得非常漂亮。  
-   **英文**：They decorated their backyard with flowers and lights.
-   > **解析**：decorate / decorated 表示“装饰”；backyard 表示“后院”。
+10. **中文**：回收利用节省能源。
+   **英文**：Recycling saves energy.
+   > **解析**：Recycling 动名词作主语；saves 按单数处理。
 
-11. **中文**：夏天开着空调在室内休息非常方便舒适。  
-   **英文**：Running the air conditioning in summer is very comfortable.
-   > **解析**：air conditioning 表示“空调”。
+11. **中文**：她把旧信件保存在盒子里。
+   **英文**：She saves old letters in a box.
+   > **解析**：saves 表示保存；in a box 是地点状语。
 
-12. **中文**：每个房间都必须按规定安装烟雾报警器。  
-   **英文**：Every bedroom must have a working smoke alarm.
-   > **解析**：smoke alarm 表示“烟雾报警器”。
+12. **中文**：这枚戒指很贵重。
+   **英文**：This ring is very valuable.
+   > **解析**：valuable 作表语；very 修饰形容词。
 
-13. **中文**：周末全家人在后院举办了愉快的烧烤野餐。  
-   **英文**：The whole family had a BBQ party in the backyard.
-   > **解析**：backyard 表示“后院”。
+13. **中文**：住在工作地点附近很方便。
+   **英文**：Living near work is convenient.
+   > **解析**：Living 动名词短语作主语；convenient 作表语。
 
-14. **中文**：请及时清理掉家里的生活垃圾和废旧杂物。  
-   **英文**：Please get rid of useless garbage in your room.
-   > **解析**：get rid of 表示“摆脱/处理掉”。
+14. **中文**：我对搬家感到有压力。
+   **英文**：I am stressed about the move.
+   > **解析**：stressed 是 -ed 形容词；about the move 说明原因。
 
-15. **中文**：离开房间前，请记得按开关关掉电灯。  
-   **英文**：Remember to press the switch to turn off the light.
-   > **解析**：switch 表示“开关”。
+15. **中文**：打包了一整天后他觉得很累。
+   **英文**：He felt tired after packing all day.
+   > **解析**：felt 是 feel 的过去式；after packing 是时间状语。
 
-16. **中文**：那套昂贵的木质家具是家里最珍贵的财产。  
-   **英文**：That set of furniture is their most valuable item.
-   > **解析**：valuable 表示“珍贵的/有价值的”。
+16. **中文**：她担心信件的事。
+   **英文**：She is worried about the mail.
+   > **解析**：worried 是 -ed 形容词；be worried about 是固定搭配。
 
-17. **中文**：干了一整天的搬家体力活后，他感到精疲力竭。  
-   **英文**：After a whole day of moving work, he felt very tired.
-   > **解析**：tired 表示“疲惫的/累的”。
+17. **中文**：请列一张要卖的东西的清单。
+   **英文**：Please make a list of things to sell.
+   > **解析**：make a list 是固定搭配；to sell 作后置定语。
 
-18. **中文**：母亲总是对独自在外的孩子感到有些担心。  
-   **英文**：Mother is always a bit worried about her children.
-   > **解析**：worried 表示“担心的/焦虑的”。
+18. **中文**：客人到达前换一下床单。
+   **英文**：Change the sheets before the guests arrive.
+   > **解析**：Change 构成祈使句；before 引导时间从句。
 
-19. **中文**：这间公寓的位置离地铁站很近，交通出行很方便。  
-   **英文**：The location of this apartment is very convenient.
-   > **解析**：convenient 表示“方便的/便利的”。
+19. **中文**：洗衣机昨晚又坏了。
+   **英文**：The washing machine broke down again last night.
+   > **解析**：broke down 表示出故障；again 表示再次。
 
-20. **中文**：我们在新家客厅里换上了漂亮温暖的新床单。  
-   **英文**：We put fresh clean sheets on the new bed today.
-   > **解析**：sheets / sheet 表示“床单”。
+20. **中文**：你可以用手机控制灯。
+   **英文**：You can control the lights with your phone.
+   > **解析**：can 后接动词原形 control；with your phone 表示方式。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Before moving, we need to get rid of useless old furniture.
-   > **中文**：在搬家前，我们需要摆脱那些没有价值的破旧家具。
+1. We are moving next month.
+   > **中文**：我们下个月搬家。
 
-2. The new house with central air conditioning is convenient.
-   > **中文**：新搬入的房子带有中央空调，生活非常方便。
+2. I want to get rid of this old chair.
+   > **中文**：我想处理掉这把旧椅子。
 
-3. Please check if the smoke alarm and grill in backyard work.
-   > **中文**：请检查后院的烟雾报警器和烧烤架是否正常。
+3. The air conditioning broke down yesterday.
+   > **中文**：空调昨天坏了。
 
-4. When the electric power breaks down, fans stop working.
-   > **中文**：当电力中断时，电风扇和空调会停止工作。
+4. Please switch off the power before you leave.
+   > **中文**：离开前请关掉电源。
 
-5. The owner put a convenient grill and bathtub in backyard.
-   > **中文**：主人在后院摆放了一台方便的烧烤架和浴缸。
+5. Test the smoke alarm every month.
+   > **中文**：每个月测试一次烟雾报警器。
 
-6. We put clean and soft bed sheets in our new bedroom.
-   > **中文**：我们在新的主卧里铺上了干净柔软的床单。
+6. Don't forget to lock the door.
+   > **中文**：别忘了锁门。
 
-7. Don't be worried, all valuable mail and boxes are locked.
-   > **中文**：别担心，所有的珍贵包裹和信件都已上锁保存。
+7. We decorated the living room last weekend.
+   > **中文**：我们上周末装饰了客厅。
 
-8. Please turn off the main power switch to save electricity.
-   > **中文**：请把主电源开关关掉，以节省电力并确保安全。
+8. The backyard is perfect for a grill.
+   > **中文**：后院很适合放烤架。
 
-9. Sorting out old stuff makes people feel tired and stressed.
-   > **中文**：收拾那些凌乱的旧东西让人感到有些疲惫和压力。
+9. The bathtub is too small.
+   > **中文**：浴缸太小了。
 
-10. They decorated their backyard with flowers and lights.
-   > **中文**：他们把后院用花卉和彩灯装饰得非常漂亮。
+10. Recycling saves energy.
+   > **中文**：回收利用节省能源。
 
-11. Running the air conditioning in summer is very comfortable.
-   > **中文**：夏天开着空调在室内休息非常方便舒适。
+11. She saves old letters in a box.
+   > **中文**：她把旧信件保存在盒子里。
 
-12. Every bedroom must have a working smoke alarm.
-   > **中文**：每个房间都必须按规定安装烟雾报警器。
+12. This ring is very valuable.
+   > **中文**：这枚戒指很贵重。
 
-13. The whole family had a BBQ party in the backyard.
-   > **中文**：周末全家人在后院举办了愉快的烧烤野餐。
+13. Living near work is convenient.
+   > **中文**：住在工作地点附近很方便。
 
-14. Please get rid of useless garbage in your room.
-   > **中文**：请及时清理掉家里的生活垃圾和废旧杂物。
+14. I am stressed about the move.
+   > **中文**：我对搬家感到有压力。
 
-15. Remember to press the switch to turn off the light.
-   > **中文**：离开房间前，请记得按开关关掉电灯。
+15. He felt tired after packing all day.
+   > **中文**：打包了一整天后他觉得很累。
 
-16. That set of furniture is their most valuable item.
-   > **中文**：那套昂贵的木质家具是家里最珍贵的财产。
+16. She is worried about the mail.
+   > **中文**：她担心信件的事。
 
-17. After a whole day of moving work, he felt very tired.
-   > **中文**：干了一整天的搬家体力活后，他感到精疲力竭。
+17. Please make a list of things to sell.
+   > **中文**：请列一张要卖的东西的清单。
 
-18. Mother is always a bit worried about her children.
-   > **中文**：母亲总是对独自在外的孩子感到有些担心。
+18. Change the sheets before the guests arrive.
+   > **中文**：客人到达前换一下床单。
 
-19. The location of this apartment is very convenient.
-   > **中文**：这间公寓的位置离地铁站很近，交通出行很方便。
+19. The washing machine broke down again last night.
+   > **中文**：洗衣机昨晚又坏了。
 
-20. We put fresh clean sheets on the new bed today.
-   > **中文**：我们在新家客厅里换上了漂亮温暖的新床单。
+20. You can control the lights with your phone.
+   > **中文**：你可以用手机控制灯。
 
 </quiz-listening>
 
@@ -212,25 +207,36 @@ get rid of = 处理掉/扔掉。break down = 出故障。
 | 英文单词 | 课文释义 |
 | --- | --- |
 | air conditioning | 空调 |
-| alarm | 警报器 / 闹钟 |
+| alarm | 警报 / 闹钟 |
 | backyard | 后院 |
 | bathtub | 浴缸 |
-| break down | 故障 / 损坏 |
+| break down | 出故障 |
 | control | 控制 |
-| convenient | 方便的 / 便利的 |
+| convenient | 方便的 |
 | decorate | 装饰 |
-| get rid of | 摆脱 / 处理掉 |
-| grill | 烧烤架 / 烤网 |
-| lock | 锁上 |
-| mail | 邮件 / 邮寄 |
+| get rid of | 处理掉 |
+| grill | 烤架 |
+| lock | 锁 |
+| mail | 邮件 |
+| make | 制作 |
 | move | 搬家 / 移动 |
 | power | 电力 / 电源 |
 | recycling | 回收利用 |
-| sheet | 床单 / 纸张 |
+| save | 节省 / 保存 |
+| sheet | 床单 |
 | smoke alarm | 烟雾报警器 |
+| stressed | 有压力的 |
 | switch | 开关 / 切换 |
-| tired | 疲惫的 / 累的 |
-| valuable | 珍贵的 / 有价值的 |
+| tired | 疲惫的 |
+| valuable | 贵重的 |
+| worried | 担心的 |
+| is | 是（单数） |
+| are | 是（复数） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| your | 你的 |
+| before | 在……之前 |
+| with | 用 / 和 |
 
 </quiz-matching>
 
@@ -238,202 +244,202 @@ get rid of = 处理掉/扔掉。break down = 出故障。
 
 ### 1
 
-Before moving, we need to get rid of useless old ____.
+We are ____ next month.
 
-- [x] furniture
-- [ ] air conditioning
-- [ ] alarm
+- [x] moving
+- [ ] move
+- [ ] moves
 
-> **解析**：**furniture** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：are 后用进行时 moving 表将来安排；后两项形式不当。
 
 ### 2
 
-The new house with central air conditioning is ____.
+I want to ____ this old chair.
 
-- [x] convenient
-- [ ] air conditioning
-- [ ] alarm
+- [x] get rid of
+- [ ] get rid
+- [ ] get rid off
 
-> **解析**：**convenient** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get rid of 是固定短语"处理掉"；后两项介词错误。
 
 ### 3
 
-Please check if the smoke ____ and grill in backyard work.
+The air ____ broke down yesterday.
 
-- [x] alarm
-- [ ] air conditioning
-- [ ] backyard
+- [x] conditioning
+- [ ] conditioned
+- [ ] conditions
 
-> **解析**：**alarm** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：air conditioning 是固定复合词"空调"；后两项形式不当。
 
 ### 4
 
-When the electric ____ breaks down, fans stop working.
+Please switch ____ the power before you leave.
 
-- [x] power
-- [ ] air conditioning
-- [ ] alarm
+- [x] off
+- [ ] of
+- [ ] at
 
-> **解析**：**power** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：关掉电源用 switch off；of 和 at 都不构成此短语。
 
 ### 5
 
-The owner put a ____ grill and bathtub in backyard.
+Test the smoke ____ every month.
 
-- [x] convenient
-- [ ] air conditioning
-- [ ] alarm
+- [x] alarm
+- [ ] alarms
+- [ ] alarming
 
-> **解析**：**convenient** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the 后接单数复合词 smoke alarm；alarming 是形容词"惊人的"。
 
 ### 6
 
-We put clean and soft bed sheets in our new ____.
+Don't forget to ____ the door.
 
-- [x] bedroom
-- [ ] air conditioning
-- [ ] alarm
+- [x] lock
+- [ ] locks
+- [ ] locking
 
-> **解析**：**bedroom** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：to 后接动词原形 lock；后两项形式不当。
 
 ### 7
 
-Don't be ____, all valuable mail and boxes are locked.
+We ____ the living room last weekend.
 
-- [x] worried
-- [ ] air conditioning
-- [ ] alarm
+- [x] decorated
+- [ ] decorate
+- [ ] decorating
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **worried**。
+> **解析**：last weekend 用过去式 decorated；decorating 不能单独作谓语。
 
 ### 8
 
-Please turn off the main ____ switch to save electricity.
+The backyard is perfect for a ____.
 
-- [x] power
-- [ ] air conditioning
-- [ ] alarm
+- [x] grill
+- [ ] grills
+- [ ] grilled
 
-> **解析**：**power** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：a 后接单数名词 grill"烤架"；grilled 是形容词"烤的"。
 
 ### 9
 
-Sorting out old stuff makes people feel ____ and stressed.
+The ____ in the bathroom is too small.
 
-- [x] tired
-- [ ] air conditioning
-- [ ] alarm
+- [x] bathtub
+- [ ] bathtubs
+- [ ] bathing
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **tired**。
+> **解析**：is 配单数名词 bathtub；bathing 是动名词。
 
 ### 10
 
-They decorated their ____ with flowers and lights.
+____ saves energy.
 
-- [x] backyard
-- [ ] air conditioning
-- [ ] alarm
+- [x] Recycling
+- [ ] Recycled
+- [ ] Recycles
 
-> **解析**：**backyard** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：动名词 Recycling 作主语；Recycles 不能作主语。
 
 ### 11
 
-Running the air ____ in summer is very comfortable.
+She ____ old letters in a box.
 
-- [x] conditioning
-- [ ] air conditioning
-- [ ] alarm
+- [x] saves
+- [ ] save
+- [ ] saving
 
-> **解析**：**conditioning** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：She 三单主语用 saves；saving 不能单独作谓语。
 
 ### 12
 
-Every bedroom must have a working smoke ____.
+This ring is very ____.
 
-- [x] alarm
-- [ ] air conditioning
-- [ ] backyard
+- [x] valuable
+- [ ] value
+- [ ] valuably
 
-> **解析**：**alarm** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：very 后需要形容词 valuable；value 是名词。
 
 ### 13
 
-The whole family had a BBQ party in the ____.
+Living near work is very ____.
 
-- [x] backyard
-- [ ] air conditioning
-- [ ] alarm
+- [x] convenient
+- [ ] convenience
+- [ ] conveniently
 
-> **解析**：**backyard** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 convenient；后两项分别是名词和副词。
 
 ### 14
 
-Please get rid of ____ garbage in your room.
+I am ____ about the move.
 
-- [x] useless
-- [ ] air conditioning
-- [ ] alarm
+- [x] stressed
+- [ ] stress
+- [ ] stresses
 
-> **解析**：**useless** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：描述人的感受用 -ed 形容词 stressed；stress 是名词或动词。
 
 ### 15
 
-Remember to press the ____ to turn off the light.
+He felt ____ after packing all day.
 
-- [x] switch
-- [ ] air conditioning
-- [ ] alarm
+- [x] tired
+- [ ] tire
+- [ ] tiring
 
-> **解析**：**switch** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：描述人的感受用 tired；tiring 描述让人累的事物。
 
 ### 16
 
-That set of furniture is their most ____ item.
+She is ____ about the mail.
 
-- [x] valuable
-- [ ] air conditioning
-- [ ] alarm
+- [x] worried
+- [ ] worry
+- [ ] worries
 
-> **解析**：**valuable** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be worried about 是固定搭配；worry 是动词原形。
 
 ### 17
 
-After a whole day of moving work, he felt very ____.
+Please ____ a list of things to sell.
 
-- [x] tired
-- [ ] air conditioning
-- [ ] alarm
+- [x] make
+- [ ] makes
+- [ ] making
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **tired**。
+> **解析**：祈使句用动词原形 make；make a list 是固定搭配。
 
 ### 18
 
-Mother is always a bit ____ about her children.
+Change the ____ before the guests arrive.
 
-- [x] worried
-- [ ] air conditioning
-- [ ] alarm
+- [x] sheets
+- [ ] sheeted
+- [ ] sheeting
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **worried**。
+> **解析**：换床单用复数 sheets；后两项不是常用名词形式。
 
 ### 19
 
-The location of this apartment is very ____.
+You can ____ the lights with your phone.
 
-- [x] convenient
-- [ ] air conditioning
-- [ ] alarm
+- [x] control
+- [ ] controls
+- [ ] controlling
 
-> **解析**：**convenient** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：can 后接动词原形 control；后两项形式不当。
 
 ### 20
 
-We put fresh clean ____ on the new bed today.
+The old washing machine ____ again last night.
 
-- [x] sheets
-- [ ] air conditioning
-- [ ] alarm
+- [x] broke down
+- [ ] break down
+- [ ] broken down
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **sheets**。
+> **解析**：last night 用过去式 broke down；broken down 需与助动词连用。
 
 </quiz-cloze>

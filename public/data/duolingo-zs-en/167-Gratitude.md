@@ -10,34 +10,33 @@ appreciate, attitude, awesome, delighted, elderly, expect, friendship, future, g
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的主题是"对帮助表达感激"。场景很生活化：有人帮了你一个忙——也许是帮你照看了小狗，也许是给了你一份意外的礼物——你需要真诚地说声谢谢。It was nice of you to watch my puppy—I'm so grateful! I didn't expect it, and it was such a sweet, unexpected surprise.（你帮我照看小狗真是太好了——我非常感激！我没想到，这真是一个甜蜜的惊喜。）
+本单元的主题是"表达感谢、珍惜善意"。词表可以分成三组：感谢与喜悦（appreciate, grateful, delighted, it was nice of you to, awesome, sweet, unexpected）、品质与态度（generous, positive, proud, attitude, promise, expect, make, handle）、以及人际与生活（friendship, future, elderly, puppy, watch, somehow, it is）。串起来就是一段真挚的致谢：It was nice of you to help. I really appreciate it. I'm so grateful for your friendship.
 
-词表里有大量表达情感的形容词：grateful, delighted, proud, awesome, sweet, positive。这些词构成了"感谢+夸赞"的基本语料。搭配 it was nice of you to 这个句型，你可以自然地表达感激。generous 和 friendship 则把感谢从单次帮忙拉升到对一段关系的珍视：Your generous attitude makes me proud of our friendship.（你慷慨的态度让我为我们的友谊感到自豪。）
+语法主线有三条。第一是感谢的层次表达：appreciate 直接接事物（I appreciate your help），grateful 搭配 for（I am grateful for everything），delighted 表示"高兴的"。第二是 it was nice of you to do 句型——用 it 作形式主语，真正的主语是后面的不定式，of you 点明行为者。第三是 be proud of、be generous with 等"形容词 + 介词"固定搭配。
 
-handle 和 somehow 给场景加了一点叙事感——事情本来不好处理，但对方 somehow 帮你 handle 了。promise 和 future 则指向未来：I promise to return the favor in the future.（我保证将来回报你。）
+学完本单元，你能真诚地表达感谢与赞赏、描述他人的优秀品质、承诺回报善意，也能自然地谈论友谊与未来。
 
 ## Tips
 
-- **appreciate / grateful** — 两者都表感激，但用法不同。appreciate 是动词，主语通常是"人"或形式主语 it：I appreciate your help. / I appreciate it. grateful 是形容词，搭配 be grateful for 或 be grateful to：I'm grateful for your help. / I'm grateful to you. 注意 appreciate 后面不能直接接人（不说 I appreciate you，虽然口语中偶见，但正式写作应避免）。
+- **appreciate / grateful / delighted** — 三个感谢核心词。appreciate 是及物动词，直接接宾语：I appreciate your help. 注意 ✗ I appreciate to you。grateful 搭配 for：I am grateful for everything. delighted 是"非常高兴的"：We are delighted to see you.
 
-- **it was nice of you to** — 感谢类高频句型。结构是 It is/was + 形容词 + of you to + 动词原形。可以替换形容词：It was sweet of you to help. / It was generous of you to share. 注意用 of 而不是 for，因为形容词描述的是"你"的品质。
+- **it was nice of you to** — 感谢的经典句型：It was nice of you to help. it 是形式主语，真正主语是 to help。类似结构还有 It was kind of you to...、It was sweet of you to...。
 
-- **delighted / awesome / sweet** — 三个不同程度的"开心/棒"。delighted 比 happy 更正式、更强烈，常见于书面感谢：I'm delighted with the result. awesome 是口语万能夸赞词。sweet 在口语中常表示"贴心、暖心"：That's so sweet of you!
+- **awesome / sweet / unexpected** — awesome 是口语里的"太棒了"。sweet 除"甜的"外，形容人的行为"贴心的"：What a sweet puppy! unexpected 是"出乎意料的"，un- + expected：The gift was unexpected.
 
-- **generous / attitude / positive** — generous 形容人大方、慷慨，搭配 generous with（对……慷慨）。attitude 常搭配 attitude toward/to。positive attitude 是高频搭配，表示积极态度。
+- **generous / proud / attitude** — generous 是"慷慨的"，be generous with sth.。proud 是"自豪的"，be proud of sb.。attitude 是"态度"：a positive attitude。
 
-- **handle / somehow** — handle 作动词表示"处理、应对"，比 deal with 更简洁：I can handle it. somehow 表示"不知怎么地、以某种方式"，常暗示过程不确定但结果达成了：Somehow, she managed to handle everything.
+- **positive** — "积极的、正面的"，与 negative 相对：Stay positive. positive attitude 是高频搭配。
 
-- **unexpected / expect** — expect 是动词"期望、预料"，unexpected 是其形容词否定形式"出乎意料的"。搭配：an unexpected gift / I didn't expect that. 注意 expect 还可表"怀孕"：She's expecting.（她怀孕了。）
+- **expect / promise / make / handle** — expect 是"期待、预料"：I didn't expect a gift. promise 是"承诺"，promise to do sth.。make 可构成 make sb. + 形容词：You make me happy. handle 是"处理、应付"：I can handle it.
 
-- **proud / promise** — proud 搭配 be proud of：I'm proud of you. promise 既可作名词也可作动词：I promise. / Keep your promise. 注意 promise to do 表示承诺做某事。
+- **friendship / future / elderly / puppy** — friendship 是"友谊"，friend + -ship（表示状态或关系）。future 是"未来"。the elderly 指"老年人群体"，形容词作名词。puppy 是"小狗"。
 
-- **elderly / puppy / watch** — elderly 是"年老的"的礼貌说法，比 old 更得体。puppy 是小狗（成年犬是 dog）。watch 在这里不是"看"，而是"照看、看管"：watch my puppy = 帮我照看小狗。
+- **watch** — 除"观看"外，还可表"照看"：Could you watch my bag? 本单元两种含义都会用到。
 
-- **friendship / future / make** — friendship 由 friend + -ship 构成，-ship 表示状态或关系（类似 leadership, membership）。make 在此搭配 make a promise / make the future better。in the future 是固定搭配。
+- **somehow / it is** — somehow 是"不知怎么地、设法"：Somehow, everything worked out. it is 用于评价句型：It is great to see you.
 
 ## 练习
 
@@ -55,149 +54,149 @@ handle 和 somehow 给场景加了一点叙事感——事情本来不好处理�
 
 <quiz-sentence-builder>
 
-1. **中文**：非常感谢你在我遇到困难时给予的宝贵帮助。
-   **英文**：I really appreciate all the support you gave me during tough times.
-   > **解析**：appreciate 表示“感激/赏识”。
+1. **中文**：我很感激你的帮助。
+   **英文**：I appreciate your help.
+   > **解析**：appreciate 是及物动词，直接接宾语 your help。
 
-2. **中文**：保持积极的生活态度能让你快乐面对每一天。
-   **英文**：Maintaining a positive attitude makes life much happier every day.
-   > **解析**：attitude 表示“态度/心态”。
+2. **中文**：我对一切都心怀感激。
+   **英文**：I am grateful for everything.
+   > **解析**：grateful 搭配介词 for；everything 作宾语。
 
-3. **中文**：感谢你送我这么精美的礼物，这真是太棒了！
-   **英文**：Thank you for the wonderful gift, it is truly awesome!
-   > **解析**：awesome 表示“太棒了/极好的”。
+3. **中文**：见到你我们很高兴。
+   **英文**：We are delighted to see you.
+   > **解析**：delighted 作表语；to see 是不定式说明高兴的原因。
 
-4. **中文**：听说你顺利通过了考试，我们感到非常欣喜。
-   **英文**：We were delighted to hear that you passed your exam.
-   > **解析**：delighted 表示“欣喜的/高高兴兴的”。
+4. **中文**：你能来帮忙真好。
+   **英文**：It was nice of you to help.
+   > **解析**：it 是形式主语，真正主语是 to help；of you 点明行为者。
 
-5. **中文**：多名志愿者正在社区里关爱和照料年长者。
-   **英文**：Volunteers spend time caring for the elderly neighbors nearby.
-   > **解析**：elderly 表示“年长的/老人的”。
+5. **中文**：太棒了！
+   **英文**：That's awesome!
+   > **解析**：awesome 作表语，表示"太棒了"；that's 是 that is 的缩写。
 
-6. **中文**：我们没想到能这么快就收到你的回复。
-   **英文**：We did not expect to receive your reply so quickly.
-   > **解析**：expect 表示“期待/预期”。
+6. **中文**：多可爱的小狗啊！
+   **英文**：What a sweet puppy!
+   > **解析**：what a + 形容词 + 名词构成感叹句。
 
-7. **中文**：他们多年的真挚友谊对彼此来说弥足珍贵。
-   **英文**：Their long-lasting friendship means a lot to both of them.
-   > **解析**：friendship 表示“友谊/友情”。
+7. **中文**：保持积极。
+   **英文**：Stay positive.
+   > **解析**：stay + 形容词表示"保持某种状态"；positive 作表语。
 
-8. **中文**：感谢你慷慨地捐赠图书给社区图书馆。
-   **英文**：Thank you for your generous donation to the neighborhood library.
-   > **解析**：generous 表示“慷慨大方的/热心的”。
+8. **中文**：她非常慷慨。
+   **英文**：She is very generous.
+   > **解析**：generous 作表语；very 修饰形容词。
 
-9. **中文**：对于大家提供的一切帮助，我心存无比感恩。
-   **英文**：I am deeply grateful for everything you have done for us.
-   > **解析**：grateful 表示“感激的/感恩的”。
+9. **中文**：我为你感到骄傲。
+   **英文**：I am proud of you.
+   > **解析**：be proud of 是固定搭配；you 作 of 的宾语。
 
-10. **中文**：别担心，我有足够的经验来妥善处理这个问题。
-   **英文**：Don't worry, I can handle this difficult situation on my own.
-   > **解析**：handle 表示“处理/应对”。
+10. **中文**：他态度很好。
+   **英文**：He has a good attitude.
+   > **解析**：have an attitude 表示"有……态度"；good 修饰 attitude。
 
-11. **中文**：你能在百忙之中抽空来拜访我，真是太好了。
-   **英文**：It was nice of you to stop by and visit us today.
-   > **解析**：it was nice of you to 表示“你太好了……/多谢你……”。
+11. **中文**：我没想到会有礼物。
+   **英文**：I didn't expect a gift.
+   > **解析**：didn't 后接动词原形 expect；a gift 作宾语。
 
-12. **中文**：即便遇到挑战，也要在工作中保持积极的心态。
-   **英文**：Try to stay positive even when facing big challenges at work.
-   > **解析**：positive 表示“积极的/正向的”。
+12. **中文**：我保证会帮忙。
+   **英文**：I promise to help.
+   > **解析**：promise to do 是"承诺做某事"；to help 是不定式。
 
-13. **中文**：我向你保证，明天下午前一定把报告完成。
-   **英文**：I promise I will complete the work before tomorrow afternoon.
-   > **解析**：promise 表示“承诺/保证”。
+13. **中文**：你让我很开心。
+   **英文**：You make me happy.
+   > **解析**：make + 宾语 + 形容词，表示"使某人……"。
 
-14. **中文**：父母为孩子在学业上取得的优秀成绩感到无比骄傲。
-   **英文**：Parents are very proud of their child's remarkable achievement.
-   > **解析**：proud 表示“骄傲的/自豪的”；proud of 意为“为……感到骄傲”。
+14. **中文**：我能搞定。
+   **英文**：I can handle it.
+   > **解析**：handle 是"处理"；it 作宾语，can 后接原形。
 
-15. **中文**：那只可爱的小狗在草地上欢快地追逐小球。
-   **英文**：The playful puppy ran across the yard to catch the ball.
-   > **解析**：puppy 表示“小狗/幼犬”。
+15. **中文**：帮我照看一下包。
+   **英文**：Could you watch my bag?
+   > **解析**：watch 在此是"照看"；could 使请求更礼貌。
 
-16. **中文**：不知怎么地，我们最终在漆黑的森林里找到了出路。
-   **英文**：Somehow, we managed to find our way out of the dark woods.
-   > **解析**：Somehow 表示“不知怎么地/设法”。
+16. **中文**：我们的友谊很重要。
+   **英文**：Our friendship is important.
+   > **解析**：friendship 作主语；important 作表语。
 
-17. **中文**：你能在百忙之中帮我带咖啡，这太贴心了。
-   **英文**：It was so sweet of you to bring me coffee this morning.
-   > **解析**：sweet 表示“贴心的/甜蜜的”。
+17. **中文**：没人知道未来会怎样。
+   **英文**：No one knows what the future will bring.
+   > **解析**：knows 是三单形式；what 引导宾语从句，will bring 表将来。
 
-18. **中文**：昨天老朋友的突然拜访是一个令人意想不到的惊喜。
-   **英文**：Her visit was an unexpected surprise that made my day.
-   > **解析**：unexpected 表示“意想不到的/突如其来的”。
+18. **中文**：他经常帮助老人。
+   **英文**：He often helps the elderly.
+   > **解析**：the elderly 指"老年人群体"，作宾语。
 
-19. **中文**：请仔细观看这段视频展示以了解操作步骤。
-   **英文**：Please watch the video instruction carefully before starting.
-   > **解析**：watch 表示“观看/注意”。
+19. **中文**：不知怎么地，我们做到了。
+   **英文**：Somehow, we made it.
+   > **解析**：somehow 作句首副词；made it 表示"做到了"。
 
-20. **中文**：这些感人的细节使得这次聚会格外温馨和难忘。
-   **英文**：These warm details make the reunion so special and warm.
-   > **解析**：make 表示“使得/让”。
+20. **中文**：见到你真好。
+   **英文**：It is great to see you.
+   > **解析**：it 是形式主语，真正主语是 to see you。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I really appreciate all the support you gave me during tough times.
-   > **中文**：非常感谢你在我遇到困难时给予的宝贵帮助。
+1. I really appreciate it.
+   > **中文**：我真的很感激。
 
-2. Maintaining a positive attitude makes life much happier every day.
-   > **中文**：保持积极的生活态度能让你快乐面对每一天。
+2. I'm grateful for your friendship.
+   > **中文**：我很感激你的友谊。
 
-3. Thank you for the wonderful gift, it is truly awesome!
-   > **中文**：感谢你送我这么精美的礼物，这真是太棒了！
+3. We are delighted.
+   > **中文**：我们非常高兴。
 
-4. We were delighted to hear that you passed your exam.
-   > **中文**：听说你顺利通过了考试，我们感到非常欣喜。
+4. It was nice of you to come.
+   > **中文**：你能来真好。
 
-5. Volunteers spend time caring for the elderly neighbors nearby.
-   > **中文**：多名志愿者正在社区里关爱和照料年长者。
+5. That's awesome!
+   > **中文**：太棒了！
 
-6. We did not expect to receive your reply so quickly.
-   > **中文**：我们没想到能这么快就收到你的回复。
+6. What a sweet puppy!
+   > **中文**：多可爱的小狗啊！
 
-7. Their long-lasting friendship means a lot to both of them.
-   > **中文**：他们多年的真挚友谊对彼此来说弥足珍贵。
+7. Keep a positive attitude.
+   > **中文**：保持积极的态度。
 
-8. Thank you for your generous donation to the neighborhood library.
-   > **中文**：感谢你慷慨地捐赠图书给社区图书馆。
+8. He is generous with his time.
+   > **中文**：他很舍得花时间帮人。
 
-9. I am deeply grateful for everything you have done for us.
-   > **中文**：对于大家提供的一切帮助，我心存无比感恩。
+9. I'm proud of you.
+   > **中文**：我为你骄傲。
 
-10. Don't worry, I can handle this difficult situation on my own.
-   > **中文**：别担心，我有足够的经验来妥善处理这个问题。
+10. What did you expect?
+   > **中文**：你本来期待什么？
 
-11. It was nice of you to stop by and visit us today.
-   > **中文**：你能在百忙之中抽空来拜访我，真是太好了。
+11. I promise I'll be there.
+   > **中文**：我保证我会到。
 
-12. Try to stay positive even when facing big challenges at work.
-   > **中文**：即便遇到挑战，也要在工作中保持积极的心态。
+12. You made my day.
+   > **中文**：你让我今天特别开心。
 
-13. I promise I will complete the work before tomorrow afternoon.
-   > **中文**：我向你保证，明天下午前一定把报告完成。
+13. I can handle this.
+   > **中文**：这事我能搞定。
 
-14. Parents are very proud of their child's remarkable achievement.
-   > **中文**：父母为孩子在学业上取得的优秀成绩感到无比骄傲。
+14. Watch the puppy for a moment.
+   > **中文**：帮我照看一会儿小狗。
 
-15. The playful puppy ran across the yard to catch the ball.
-   > **中文**：那只可爱的小狗在草地上欢快地追逐小球。
+15. Friendship matters.
+   > **中文**：友谊很重要。
 
-16. Somehow, we managed to find our way out of the dark woods.
-   > **中文**：不知怎么地，我们最终在漆黑的森林里找到了出路。
+16. Think about the future.
+   > **中文**：想想未来吧。
 
-17. It was so sweet of you to bring me coffee this morning.
-   > **中文**：你能在百忙之中帮我带咖啡，这太贴心了。
+17. The elderly need our care.
+   > **中文**：老人需要我们的关心。
 
-18. Her visit was an unexpected surprise that made my day.
-   > **中文**：昨天老朋友的突然拜访是一个令人意想不到的惊喜。
+18. The gift was unexpected.
+   > **中文**：这份礼物出乎意料。
 
-19. Please watch the video instruction carefully before starting.
-   > **中文**：请仔细观看这段视频展示以了解操作步骤。
+19. Somehow, everything worked out.
+   > **中文**：不知怎么地，一切都顺利解决了。
 
-20. These warm details make the reunion so special and warm.
-   > **中文**：这些感人的细节使得这次聚会格外温馨和难忘。
+20. It is my pleasure.
+   > **中文**：这是我的荣幸。
 
 </quiz-listening>
 
@@ -205,26 +204,46 @@ handle 和 somehow 给场景加了一点叙事感——事情本来不好处理�
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| appreciate | 感激 / 赏识 |
-| attitude | 态度 / 心态 |
+| appreciate | 感激 |
+| attitude | 态度 |
 | awesome | 太棒了 |
-| delighted | 欣喜的 |
-| elderly | 年长的 / 老人 |
-| expect | 期待 / 预期 |
+| delighted | 高兴的 |
+| elderly | 年长的 / 老年人 |
+| expect | 期待 |
 | friendship | 友谊 |
-| generous | 慷慨大方的 |
-| grateful | 感激的 / 感恩的 |
-| handle | 处理 / 应对 |
-| it was nice of you to | 你太好了…… |
+| future | 未来 |
+| generous | 慷慨的 |
+| grateful | 感激的 |
+| handle | 处理 / 应付 |
+| it is | 它是 / 这是 |
+| it was nice of you to | 你做……真好 |
+| make | 使 / 做 |
 | positive | 积极的 |
-| promise | 承诺 / 保证 |
-| proud | 骄傲的 / 自豪的 |
+| promise | 承诺 |
+| proud | 自豪的 |
 | puppy | 小狗 |
 | somehow | 不知怎么地 |
-| sweet | 贴心的 / 甜蜜的 |
-| unexpected | 意想不到的 |
-| watch | 观看 |
-| make | 使得 / 制作 |
+| sweet | 贴心的 / 甜的 |
+| unexpected | 出乎意料的 |
+| watch | 观看 / 照看 |
+| am | 是（与 I 搭配） |
+| are | 是（复数） |
+| was | 是（过去式） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| your | 你的 |
+| my | 我的 |
+| for | 为了 / 对于 |
+| of | ……的 |
+| to | 到 / 向 |
+| I | 我 |
+| we | 我们 |
+| you | 你 |
+| he | 他 |
+| don't | 不（否定） |
+| what | 什么 |
+| could | 能（礼貌） |
+| stay | 保持 |
 
 </quiz-matching>
 
@@ -232,202 +251,202 @@ handle 和 somehow 给场景加了一点叙事感——事情本来不好处理�
 
 ### 1
 
-I really ____ all the support you gave me during tough times.
+I ____ your help so much.
 
 - [x] appreciate
-- [ ] attitude
-- [ ] awesome
+- [ ] appreciates
+- [ ] appreciating
 
-> **解析**：**appreciate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 I 用动词原形 appreciate；appreciates 用于三单，appreciating 不能单独作谓语。
 
 ### 2
 
-Maintaining a ____ attitude makes life much happier every day.
+I am ____ for everything you did.
 
-- [x] positive
-- [ ] appreciate
-- [ ] attitude
+- [x] grateful
+- [ ] gratefully
+- [ ] gratitude
 
-> **解析**：**positive** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：am 后需要形容词 grateful；gratefully 是副词，gratitude 是名词。
 
 ### 3
 
-Thank you for the wonderful gift, it is truly ____!
+We are ____ to see you.
 
-- [x] awesome
-- [ ] appreciate
-- [ ] attitude
+- [x] delighted
+- [ ] delight
+- [ ] delights
 
-> **解析**：**awesome** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：am/are 后接 delighted 表感受；delight 是名词或动词原形，delights 是三单。
 
 ### 4
 
-We were ____ to hear that you passed your exam.
+It was nice ____ you to help.
 
-- [x] delighted
-- [ ] appreciate
-- [ ] attitude
+- [x] of
+- [ ] at
+- [ ] in
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **delighted**。
+> **解析**：it was nice of you to do 是固定句型；at 和 in 不构成该结构。
 
 ### 5
 
-Volunteers spend time caring for the ____ neighbors nearby.
+That's ____!
 
-- [x] elderly
-- [ ] appreciate
+- [x] awesome
+- [ ] expect
 - [ ] attitude
 
-> **解析**：**elderly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：感叹"太棒了"用 awesome；expect 是动词，attitude 是名词。
 
 ### 6
 
-We did not ____ to receive your reply so quickly.
+What a ____ puppy!
 
-- [x] expect
-- [ ] appreciate
-- [ ] attitude
+- [x] sweet
+- [ ] sweetly
+- [ ] sweetness
 
-> **解析**：**expect** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 puppy 需要形容词 sweet；sweetly 是副词，sweetness 是名词。
 
 ### 7
 
-Their long-lasting ____ means a lot to both of them.
+Keep a positive ____.
 
-- [x] friendship
-- [ ] appreciate
-- [ ] attitude
+- [x] attitude
+- [ ] future
+- [ ] elderly
 
-> **解析**：**friendship** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：positive attitude 是"积极态度"的固定搭配；future 和 elderly 语义不符。
 
 ### 8
 
-Thank you for your ____ donation to the neighborhood library.
+She is ____ with her time.
 
 - [x] generous
-- [ ] appreciate
-- [ ] attitude
+- [ ] generously
+- [ ] generosity
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **generous**。
+> **解析**：is 后需要形容词 generous；generously 是副词，generosity 是名词。
 
 ### 9
 
-I am deeply ____ for everything you have done for us.
+I'm proud ____ you.
 
-- [x] grateful
-- [ ] appreciate
-- [ ] attitude
+- [x] of
+- [ ] for
+- [ ] at
 
-> **解析**：**grateful** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be proud of 是固定搭配；for 和 at 不与 proud 搭配。
 
 ### 10
 
-Don't worry, I can ____ this difficult situation on my own.
+I didn't ____ a gift.
 
-- [x] handle
-- [ ] appreciate
-- [ ] attitude
+- [x] expect
+- [ ] expected
+- [ ] expecting
 
-> **解析**：**handle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：didn't 后接动词原形 expect；expected 会造成双重过去标记。
 
 ### 11
 
-It was nice of you to stop by and ____ us today.
+I ____ to help you move.
 
-- [x] visit
-- [ ] appreciate
-- [ ] attitude
+- [x] promise
+- [ ] promises
+- [ ] promising
 
-> **解析**：**visit** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 I 用动词原形 promise；promises 用于三单，promising 不能单独作谓语。
 
 ### 12
 
-Try to stay ____ even when facing big challenges at work.
+You ____ me so happy.
 
-- [x] positive
-- [ ] appreciate
-- [ ] attitude
+- [x] make
+- [ ] makes
+- [ ] making
 
-> **解析**：**positive** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 you 用动词原形 make；make sb. + 形容词表"使某人……"。
 
 ### 13
 
-I ____ I will complete the work before tomorrow afternoon.
+Don't worry, I can ____ it.
 
-- [x] promise
-- [ ] appreciate
-- [ ] attitude
+- [x] handle
+- [ ] handles
+- [ ] handling
 
-> **解析**：**promise** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：can 后接动词原形 handle；handles 和 handling 形式错误。
 
 ### 14
 
-Parents are very ____ of their child's remarkable achievement.
+Could you ____ my bag?
 
-- [x] proud
-- [ ] appreciate
-- [ ] attitude
+- [x] watch
+- [ ] watches
+- [ ] watching
 
-> **解析**：**proud** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：could 后接动词原形 watch，此处表"照看"；watches 和 watching 形式错误。
 
 ### 15
 
-The playful ____ ran across the yard to catch the ball.
+Our ____ will last forever.
 
-- [x] puppy
-- [ ] appreciate
-- [ ] attitude
+- [x] friendship
+- [ ] future
+- [ ] puppy
 
-> **解析**：**puppy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能"长存"的是友谊 friendship；future 和 puppy 与 last forever 搭配不当。
 
 ### 16
 
-____, we managed to find our way out of the dark woods.
+No one knows what the ____ will bring.
 
-- [x] Somehow
-- [ ] appreciate
-- [ ] attitude
+- [x] future
+- [ ] friendship
+- [ ] puppy
 
-> **解析**：**Somehow** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：带来未知的是未来 future；friendship 和 puppy 语义不符。
 
 ### 17
 
-It was so ____ of you to bring me coffee this morning.
+He volunteers to help the ____.
 
-- [x] sweet
-- [ ] appreciate
-- [ ] attitude
+- [x] elderly
+- [ ] awesome
+- [ ] sweet
 
-> **解析**：**sweet** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the elderly 指老年人群体；awesome 和 sweet 是形容词，不能这样作名词用。
 
 ### 18
 
-Her visit was an ____ surprise that made my day.
+The gift was completely ____.
 
 - [x] unexpected
-- [ ] appreciate
-- [ ] attitude
+- [ ] expect
+- [ ] expecting
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **unexpected**。
+> **解析**：was 后需要形容词 unexpected；expect 和 expecting 是动词形式。
 
 ### 19
 
-Please ____ the video instruction carefully before starting.
+____, everything worked out in the end.
 
-- [x] watch
-- [ ] appreciate
-- [ ] attitude
+- [x] Somehow
+- [ ] Some
+- [ ] Someone
 
-> **解析**：**watch** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰整个句子用副词 somehow；some 是限定词，someone 是代词。
 
 ### 20
 
-These warm details ____ the reunion so special and warm.
+It ____ great to see you again.
 
-- [x] make
-- [ ] appreciate
-- [ ] attitude
+- [x] is
+- [ ] are
+- [ ] be
 
-> **解析**：**make** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：it 搭配 is；are 用于复数，be 不能直接作谓语。
 
 </quiz-cloze>

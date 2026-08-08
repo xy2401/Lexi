@@ -10,40 +10,35 @@ ability, alike, amazed, brilliant, chin, confident, creative, curious about, fai
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"请求帮助完成任务"展开。核心是描述人物特质和请求帮助：Would you mind helping me with this task?（你介意帮我完成这个任务吗？）、She's a creative teenage girl with a brilliant nickname.（她是个有创造力的少女，有个很棒的昵称。）、I'm fairly confident in my ability to finish this.（我相当有信心能完成这个。）、He's unemployed and feeling a bit unlucky lately.（他最近失业了，感觉有点倒霉。）。
+本单元的主题是"请人帮忙完成任务"，词表可以分成三组：请求与描述（would you mind, how, fairly, brilliant, unbelievable）、人的状态与特质（confident, creative, relaxed, relaxing, amazed, unemployed, unlucky, uninteresting, curious about, teenage, ability, feeling）、以及零散名词（nickname, lover, chin, sand, smile, alike）。拼起来就是请求帮助的日常：Would you mind helping me? I'm curious about how this game works. That teenage player is brilliant and confident.
 
-词表里有性格形容词（confident, creative, curious about, relaxed）和否定前缀词（unemployed, uninteresting, unlucky, unbelievable）。你可以练习：The lovers smiled alike. / I'm amazed by his ability. / The sand was relaxing to walk on. / She's curious about everything.
+语法主线有两个。一是 Would you mind + 动名词的礼貌请求：Would you mind opening the door? 回答 No 表示愿意帮忙（不介意）。二是 -ed 与 -ing 形容词的持续对照：relaxed 描述人感到放松（I feel relaxed），relaxing 描述事物让人放松（a relaxing game）；同理 amazed/amazing。另一条线索是 un- 否定前缀家族：unlucky、uninteresting、unemployed。
 
-would you mind + doing 是礼貌请求句型。un- 前缀表示否定。
+学完这单元，你能用英语礼貌地请人帮忙、描述人的能力与状态、评价事情有趣与否。
 
 ## Tips
 
-- **would you mind / ability / confident** — 你介意吗 / 能力 / 自信的。搭配：Would you mind helping? / have the ability, feel confident。例句：Would you mind opening the door? / I have the ability to do this. / She's confident in her skills. 注意 Would you mind + doing（动名词）。
+- **would you mind** — 礼貌请求句型，后接动名词：Would you mind helping me? 字面"你介意……吗"，回答 No, not at all 表示乐意。比 Can you 更客气。
 
-- **creative / curious about / brilliant** — 有创造力的 / 好奇的 / 杰出的。搭配：a creative idea, curious about everything, a brilliant mind。例句：She's very creative. / I'm curious about games. / That's a brilliant plan! 注意 curious about + 名词/动名词。
+- **relaxed / relaxing** — 本单元语法重点。-ed 形容词描述人的感受：I am relaxed. -ing 形容词描述事物性质：The game is relaxing. 同理 amazed（感到惊叹）与 amazing。✗ I am relaxing（意思是"我正在让人放松"）注意别用反。
 
-- **unemployed / unlucky / uninteresting** — 失业的 / 不幸的 / 无趣的。搭配：be unemployed, feel unlucky, an uninteresting book。例句：He's been unemployed for months. / I feel unlucky today. / The movie was uninteresting. 注意 un- 前缀表示"不/无"。
+- **amazed** — 感到惊叹的：I am amazed at his ability. 介词常配 at 或 by。程度比 surprised 强。
 
-- **amazed / unbelievable / fairly** — 惊讶的 / 难以置信的 / 相当。搭配：amazed by, unbelievable! / fairly easy。例句：I'm amazed by her talent! / That's unbelievable! / It's fairly simple. 注意 fairly 比 very 程度弱。
+- **confident / creative** — confident 自信的：be confident about the result。creative 有创造力的：a creative idea。名词 confidence 与 creativity。
 
-- **relaxed / relaxing / feeling** — 放松的 / 令人放松的 / 感觉。搭配：feel relaxed, a relaxing day, a good feeling。例句：I feel relaxed today. / The beach is relaxing. / I have a good feeling about this. 注意 relaxed（人感到）vs relaxing（事物令人）。
+- **unemployed / unlucky / uninteresting** — un- 否定家族。unemployed 失业的。unlucky 倒霉的（lucky 加 un-）。uninteresting 无趣的，语气比 boring 含蓄。
 
-- **teenage / lover / nickname** — 青少年的 / 爱好者 / 昵称。搭配：a teenage boy, a music lover, a nickname。例句：She's a teenage student. / He's a game lover. / My nickname is "Speed". 注意 lover 指"爱好者"（a cat lover = 爱猫人士）。
+- **curious about** — 对……好奇：curious about the rules。名词 curiosity。curious 也可指"古怪的"。
 
-- **smile / chin / sand** — 微笑 / 下巴 / 沙子。搭配：smile at sb, touch one's chin, play in the sand。例句：She smiled at me. / He rubbed his chin. / The kids played in the sand. 注意 smile 可作名词和动词。
+- **ability / feeling / how** — ability 能力：the ability to win。feeling 感觉、感受：a good feeling。how 如何，疑问或从句引导词：how to play。
 
-- **alike / how / fairly** — 相似地 / 怎样 / 相当。搭配：look alike, how to do, fairly good。例句：The twins look alike. / How do I do this? / It's fairly easy. 注意 alike 放在句末（They look alike）。
+- **nickname / lover / teenage** — nickname 昵称。lover 爱好者、热爱者：a music lover（注意单独使用常指恋人，最好带修饰）。teenage 十几岁的，作定语：a teenage player。人是 teenager。
 
-- **confident / ability / creative** — 自信 / 能力 / 创造力。搭配：confident in, the ability to, a creative person。例句：Be confident in yourself. / She has the ability to lead. / He's a creative thinker. 注意 confident in / confident about。
+- **brilliant / fairly / unbelievable** — brilliant 出色的、灿烂的：a brilliant move（妙棋）。fairly 相当，语气比 very 弱：fairly easy。unbelievable 难以置信的：an unbelievable win。
 
-- **unbelievable / amazed / brilliant** — 难以置信 / 惊讶 / 杰出。搭配：absolutely unbelievable, amazed at, a brilliant idea。例句：The score is unbelievable! / I'm amazed at his progress. / What a brilliant idea! 注意这些词表达强烈情感。
-
-- **curious about / feeling / relaxed** — 好奇 / 感受 / 放松。搭配：curious about, a feeling of, feel relaxed。例句：I'm curious about the result. / I have a strange feeling. / Just relax and feel relaxed. 注意 curious about 后接名词或 doing。
-
-- **unemployed / unlucky / uninteresting** — 失业 / 倒霉 / 无聊。搭配：become unemployed, an unlucky day, uninteresting work。例句：He became unemployed last month. / What an unlucky day! / The job is uninteresting. 注意 un- 是最常见的否定前缀。
+- **alike / chin / sand / smile** — alike 相似的，常放句末：The twins look alike. chin 下巴。sand 沙子，不可数。smile 微笑，动词名词同形。
 
 ## 练习
 
@@ -61,149 +56,149 @@ would you mind + doing 是礼貌请求句型。un- 前缀表示否定。
 
 <quiz-sentence-builder>
 
-1. **中文**：这位富有创意的少年对宇宙充满了好奇。  
-   **英文**：The creative teenager was curious about space.
-   > **解析**：creative 表示“富有创意的”；teenage / teenager 表示“十几岁的”；curious about 表示“对……感到好奇”。
+1. **中文**：你介意帮我一下吗？
+   **英文**：Would you mind helping me?
+   > **解析**：Would you mind 后接动名词 helping；这是礼貌请求句型。
 
-2. **中文**：感到自信且放松的年轻人在海滩沙地上嬉戏。  
-   **英文**：Feeling confident and relaxed, the young lovers played in sand.
-   > **解析**：confident 表示“自信的”；relaxed 表示“放松的”；lover / lovers 表示“爱人/情侣”；sand 表示“沙子”。
+2. **中文**：我很好奇这个游戏怎么玩。
+   **英文**：I am curious about how this game works.
+   > **解析**：curious about 后接 how 引导的宾语从句。
 
-3. **中文**：令人难以置信的是，这位天才球员竟然失业了。  
-   **英文**：Unbelievable! This brilliant player was unemployed.
-   > **解析**：unbelievable 表示“令人难以置信的”；brilliant 表示“出色的/天才的”；unemployed 表示“失业的”。
+3. **中文**：那步棋真妙。
+   **英文**：That move was brilliant.
+   > **解析**：brilliant 作表语；was 与单数主语搭配。
 
-4. **中文**：不幸的是，那位玩游戏爱发笑的玩家今天运气不好。  
-   **英文**：Unlucky, the game lover with a nickname lost the match.
-   > **解析**：unlucky 表示“不幸运的”；nickname 表示“昵称/外号”；lover 表示“爱好者”。
+4. **中文**：他对结果很有信心。
+   **英文**：He is confident about the result.
+   > **解析**：be confident about 是固定搭配。
 
-5. **中文**：你介意向我们展示你出色的能力吗？  
-   **英文**：Would you mind showing us your great ability?
-   > **解析**：would you mind doing sth 表示“你介意做某事吗”；ability 表示“能力”。
+5. **中文**：她很有创意。
+   **英文**：She is very creative.
+   > **解析**：creative 作表语；very 修饰形容词。
 
-6. **中文**：这两位非常相似的玩家有着惊人一致的下巴和笑颜。  
-   **英文**：The two alike players had similar chin and smile.
-   > **解析**：alike 表示“相像的/十分相似的”；chin 表示“下巴”；smile 表示“微笑”。
+6. **中文**：比赛结束后我感到很放松。
+   **英文**：I felt relaxed after the game.
+   > **解析**：relaxed 描述人的感受；after the game 是时间状语。
 
-7. **中文**：大家都为他那令人惊叹的精彩表演感到惊奇。  
-   **英文**：Everyone was amazed at his brilliant and creative work.
-   > **解析**：amazed 表示“感到惊奇的/吃惊的”；brilliant 表示“出色的”。
+7. **中文**：这是个令人放松的游戏。
+   **英文**：This is a relaxing game.
+   > **解析**：relaxing 描述事物性质，修饰 game。
 
-8. **中文**：那是一场相当无趣的比赛，大家都觉得有些乏味。  
-   **英文**：It was a fairly uninteresting match that bored fans.
-   > **解析**：fairly 表示“相当/还算”；uninteresting 表示“无趣的/单调的”。
+8. **中文**：我们对他的能力感到惊叹。
+   **英文**：We are amazed at his ability.
+   > **解析**：be amazed at 是固定搭配；his ability 作宾语。
 
-9. **中文**：你介意给我起一个响亮的昵称吗？  
-   **英文**：Would you mind giving me a cool nickname?
-   > **解析**：would you mind 表示“你介意……吗”；nickname 表示“昵称”。
+9. **中文**：他失业了。
+   **英文**：He is unemployed.
+   > **解析**：unemployed 作表语，表示失业状态。
 
-10. **中文**：他在比赛中展现出了非凡的能力和自信。  
-   **英文**：He showed remarkable ability and confidence in games.
-   > **解析**：ability 表示“能力”。
+10. **中文**：那个十几岁的选手很出色。
+   **英文**：The teenage player is brilliant.
+   > **解析**：teenage 作定语修饰 player；brilliant 作表语。
 
-11. **中文**：这位富有创意的设计师设计了许多有趣的游戏。  
-   **英文**：This creative designer built many fun video games.
-   > **解析**：creative 表示“富有创意的”。
+11. **中文**：这本书相当无趣。
+   **英文**：The book is fairly uninteresting.
+   > **解析**：fairly 修饰形容词 uninteresting，语气比 very 弱。
 
-12. **中文**：孩子们对世界上的新事物充满了好奇心。  
-   **英文**：Children are always curious about new things around.
-   > **解析**：curious about 表示“对……感到好奇”。
+12. **中文**：他今天真倒霉。
+   **英文**：He is unlucky today.
+   > **解析**：unlucky 作表语；today 是时间状语。
 
-13. **中文**：她对自己在这次演讲比赛中的表现非常自信。  
-   **英文**：She felt very confident about her performance on stage.
-   > **解析**：confident 表示“自信的”。
+13. **中文**：这场胜利难以置信。
+   **英文**：The win is unbelievable.
+   > **解析**：unbelievable 作表语，表示"难以置信的"。
 
-14. **中文**：令人难以置信的是，我们居然赢得了冠军！  
-   **英文**：It is unbelievable that we won the championship!
-   > **解析**：unbelievable 表示“难以置信的”。
+14. **中文**：他有赢的能力。
+   **英文**：He has the ability to win.
+   > **解析**：the ability to + 动词原形表示"做……的能力"。
 
-15. **中文**：在经历了一轮紧张较量后，他感到非常放松。  
-   **英文**：After a hard match, he felt completely relaxed.
-   > **解析**：relaxed 表示“放松的”。
+15. **中文**：我有一种好预感。
+   **英文**：I have a good feeling about it.
+   > **解析**：a good feeling 作宾语；about it 说明对象。
 
-16. **中文**：他的朋友们都习惯喊他的外号昵称。  
-   **英文**：His friends always call him by his nickname.
-   > **解析**：nickname 表示“外号/昵称”。
+16. **中文**：她的昵称是"闪电"。
+   **英文**：Her nickname is Lightning.
+   > **解析**：nickname 作主语；表语是专有化称呼。
 
-17. **中文**：这俩兄弟长得非常相似，就像双胞胎一样。  
-   **英文**：The two brothers look very much alike in face.
-   > **解析**：alike 表示“相像的/相似的”。
+17. **中文**：这对双胞胎长得很像。
+   **英文**：The twins look alike.
+   > **解析**：alike 作表语放句末，不放在名词前。
 
-18. **中文**：在金色的沙滩上散步能让人心情舒畅。  
-   **英文**：Walking on the warm sand makes people feel relaxed.
-   > **解析**：sand 表示“沙子/沙滩”。
+18. **中文**：孩子们在沙地上玩耍，面带微笑。
+   **英文**：The kids play in the sand with smiles.
+   > **解析**：in the sand 是地点状语；with smiles 表示伴随状态。
 
-19. **中文**：大家都对他那令人叹为观止的艺术作品感到惊奇。  
-   **英文**：We were amazed by his brilliant artistic works.
-   > **解析**：amazed 表示“惊奇的/吃惊的”。
+19. **中文**：他摸了摸下巴。
+   **英文**：He touched his chin.
+   > **解析**：touched 是 touch 的过去式；his chin 作宾语。
 
-20. **中文**：你介意帮我把球拿过来吗？  
-   **英文**：Would you mind helping me pick up the ball?
-   > **解析**：would you mind 表示“你介意……吗”。
+20. **中文**：你介意教我吗？
+   **英文**：Would you mind teaching me?
+   > **解析**：Would you mind 后接动名词 teaching；me 作宾语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The creative teenager was curious about space.
-   > **中文**：这位富有创意的少年对宇宙充满了好奇。
+1. Would you mind helping me?
+   > **中文**：你介意帮我一下吗？
 
-2. Feeling confident and relaxed, the young lovers played in sand.
-   > **中文**：感到自信且放松的年轻人在海滩沙地上嬉戏。
+2. I am curious about how this game works.
+   > **中文**：我很好奇这个游戏怎么玩。
 
-3. Unbelievable! This brilliant player was unemployed.
-   > **中文**：令人难以置信的是，这位天才球员竟然失业了。
+3. That move was brilliant.
+   > **中文**：那步棋真妙。
 
-4. Unlucky, the game lover with a nickname lost the match.
-   > **中文**：不幸的是，那位玩游戏爱发笑的玩家今天运气不好。
+4. He is confident about the result.
+   > **中文**：他对结果很有信心。
 
-5. Would you mind showing us your great ability?
-   > **中文**：你介意向我们展示你出色的能力吗？
+5. She is very creative.
+   > **中文**：她很有创意。
 
-6. The two alike players had similar chin and smile.
-   > **中文**：这两位非常相似的玩家有着惊人一致的下巴和笑颜。
+6. I felt relaxed after the game.
+   > **中文**：比赛结束后我感到很放松。
 
-7. Everyone was amazed at his brilliant and creative work.
-   > **中文**：大家都为他那令人惊叹的精彩表演感到惊奇。
+7. This is a relaxing game.
+   > **中文**：这是个令人放松的游戏。
 
-8. It was a fairly uninteresting match that bored fans.
-   > **中文**：那是一场相当无趣的比赛，大家都觉得有些乏味。
+8. We are amazed at his ability.
+   > **中文**：我们对他的能力感到惊叹。
 
-9. Would you mind giving me a cool nickname?
-   > **中文**：你介意给我起一个响亮的昵称吗？
+9. He is unemployed.
+   > **中文**：他失业了。
 
-10. He showed remarkable ability and confidence in games.
-   > **中文**：他在比赛中展现出了非凡的能力和自信。
+10. The teenage player is brilliant.
+   > **中文**：那个十几岁的选手很出色。
 
-11. This creative designer built many fun video games.
-   > **中文**：这位富有创意的设计师设计了许多有趣的游戏。
+11. The book is fairly uninteresting.
+   > **中文**：这本书相当无趣。
 
-12. Children are always curious about new things around.
-   > **中文**：孩子们对世界上的新事物充满了好奇心。
+12. He is unlucky today.
+   > **中文**：他今天真倒霉。
 
-13. She felt very confident about her performance on stage.
-   > **中文**：她对自己在这次演讲比赛中的表现非常自信。
+13. The win is unbelievable.
+   > **中文**：这场胜利难以置信。
 
-14. It is unbelievable that we won the championship!
-   > **中文**：令人难以置信的是，我们居然赢得了冠军！
+14. He has the ability to win.
+   > **中文**：他有赢的能力。
 
-15. After a hard match, he felt completely relaxed.
-   > **中文**：在经历了一轮紧张较量后，他感到非常放松。
+15. I have a good feeling about it.
+   > **中文**：我有一种好预感。
 
-16. His friends always call him by his nickname.
-   > **中文**：他的朋友们都习惯喊他的外号昵称。
+16. Her nickname is Lightning.
+   > **中文**：她的昵称是"闪电"。
 
-17. The two brothers look very much alike in face.
-   > **中文**：这俩兄弟长得非常相似，就像双胞胎一样。
+17. The twins look alike.
+   > **中文**：这对双胞胎长得很像。
 
-18. Walking on the warm sand makes people feel relaxed.
-   > **中文**：在金色的沙滩上散步能让人心情舒畅。
+18. The kids play in the sand.
+   > **中文**：孩子们在沙地上玩耍。
 
-19. We were amazed by his brilliant artistic works.
-   > **中文**：大家都对他那令人叹为观止的艺术作品感到惊奇。
+19. He touched his chin and smiled.
+   > **中文**：他摸了摸下巴，笑了。
 
-20. Would you mind helping me pick up the ball?
-   > **中文**：你介意帮我把球拿过来吗？
+20. Would you mind teaching me?
+   > **中文**：你介意教我吗？
 
 </quiz-listening>
 
@@ -212,25 +207,35 @@ would you mind + doing 是礼貌请求句型。un- 前缀表示否定。
 | 英文单词 | 课文释义 |
 | --- | --- |
 | ability | 能力 |
-| alike | 相像的 / 相似的 |
-| amazed | 惊奇的 / 吃惊的 |
-| brilliant | 出色的 / 极好的 |
+| alike | 相似的 |
+| amazed | 感到惊叹的 |
+| brilliant | 出色的 |
 | chin | 下巴 |
 | confident | 自信的 |
-| creative | 富有创意的 |
-| curious about | 对……感到好奇 |
-| fairly | 相当地 / 还算 |
-| lover | 爱好者 / 爱人 |
-| nickname | 昵称 / 外号 |
-| relaxed | 放松的 |
+| creative | 有创造力的 |
+| curious about | 对……好奇 |
+| fairly | 相当 |
+| feeling | 感觉 |
+| how | 如何 |
+| lover | 爱好者 |
+| nickname | 昵称 |
+| relaxed | 感到放松的 |
 | relaxing | 令人放松的 |
-| sand | 沙子 / 沙滩 |
+| sand | 沙子 |
 | smile | 微笑 |
-| unbelievable | 令人难以置信的 |
+| teenage | 十几岁的 |
+| unbelievable | 难以置信的 |
 | unemployed | 失业的 |
-| uninteresting | 无趣的 / 单调的 |
-| unlucky | 不幸的 / 运气不好的 |
+| uninteresting | 无趣的 |
+| unlucky | 倒霉的 |
 | would you mind | 你介意……吗 |
+| is | 是（单数） |
+| are | 是（复数） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| his | 他的 |
+| this | 这个 |
+| and | 和 |
 
 </quiz-matching>
 
@@ -238,202 +243,202 @@ would you mind + doing 是礼貌请求句型。un- 前缀表示否定。
 
 ### 1
 
-The ____ teenager was curious about space.
+Would you mind ____ me?
 
-- [x] creative
-- [ ] ability
-- [ ] alike
+- [x] helping
+- [ ] help
+- [ ] to help
 
-> **解析**：**creative** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Would you mind 后接动名词 helping；to help 是该句型不接的形式。
 
 ### 2
 
-____ confident and relaxed, the young lovers played in sand.
+I am curious ____ how this game works.
 
-- [x] Feeling
-- [ ] ability
-- [ ] alike
+- [x] about
+- [ ] of
+- [ ] at
 
-> **解析**：**Feeling** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：curious about 是固定搭配；of 和 at 都不构成这个搭配。
 
 ### 3
 
-____! This brilliant player was unemployed.
+That move was ____.
 
-- [x] Unbelievable
-- [ ] ability
-- [ ] alike
+- [x] brilliant
+- [ ] brilliancy
+- [ ] brilliantly
 
-> **解析**：**Unbelievable** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后需要形容词 brilliant；brilliancy 是名词，brilliantly 是副词。
 
 ### 4
 
-____, the game lover with a nickname lost the match.
+He is confident ____ the result.
 
-- [x] Unlucky
-- [ ] ability
-- [ ] alike
+- [x] about
+- [ ] to
+- [ ] of to
 
-> **解析**：**Unlucky** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be confident about 是固定搭配；of to 结构错误。
 
 ### 5
 
-Would you mind showing us your great ____?
+She is very ____.
 
-- [x] ability
-- [ ] alike
-- [ ] amazed
+- [x] creative
+- [ ] creation
+- [ ] creativity
 
-> **解析**：**ability** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：very 后需要形容词 creative；creation 和 creativity 是名词。
 
 ### 6
 
-The two ____ players had similar chin and smile.
+I felt ____ after the game.
 
-- [x] alike
-- [ ] ability
-- [ ] amazed
+- [x] relaxed
+- [ ] relaxing
+- [ ] relax
 
-> **解析**：**alike** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：描述人的感受用 -ed 形容词 relaxed；relaxing 描述事物。
 
 ### 7
 
-Everyone was ____ at his brilliant and creative work.
+This is a ____ game.
 
-- [x] amazed
-- [ ] ability
-- [ ] alike
+- [x] relaxing
+- [ ] relaxed
+- [ ] relaxes
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **amazed**。
+> **解析**：描述事物性质用 -ing 形容词 relaxing；relaxed 描述人的感受。
 
 ### 8
 
-It was a ____ uninteresting match that bored fans.
+We are amazed ____ his ability.
 
-- [x] fairly
-- [ ] ability
-- [ ] alike
+- [x] at
+- [ ] to
+- [ ] with
 
-> **解析**：**fairly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be amazed at 是固定搭配；to 和 with 都不构成这个搭配。
 
 ### 9
 
-Would you mind giving me a cool ____?
+He is ____.
 
-- [x] nickname
-- [ ] ability
-- [ ] alike
+- [x] unemployed
+- [ ] unemploying
+- [ ] unemployee
 
-> **解析**：**nickname** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 unemployed"失业的"；后两项不是单词。
 
 ### 10
 
-He showed remarkable ____ and confidence in games.
+The ____ player is brilliant.
 
-- [x] ability
-- [ ] alike
-- [ ] amazed
+- [x] teenage
+- [ ] teenager
+- [ ] teenages
 
-> **解析**：**ability** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 player 需要形容词 teenage；teenager 是名词不能直接这样修饰。
 
 ### 11
 
-This ____ designer built many fun video games.
+The book is fairly ____.
 
-- [x] creative
-- [ ] ability
-- [ ] alike
+- [x] uninteresting
+- [ ] uninterested
+- [ ] uninterest
 
-> **解析**：**creative** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：描述书无趣用 uninteresting；uninterested 描述人不感兴趣。
 
 ### 12
 
-____ are always curious about new things around.
+He is ____ today.
 
-- [x] Children
-- [ ] ability
-- [ ] alike
+- [x] unlucky
+- [ ] unluckily
+- [ ] unluckiness
 
-> **解析**：**Children** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 unlucky；unluckily 是副词，unluckiness 是名词。
 
 ### 13
 
-She felt very ____ about her performance on stage.
+The win is ____.
 
-- [x] confident
-- [ ] ability
-- [ ] alike
+- [x] unbelievable
+- [ ] unbelievably
+- [ ] unbelieve
 
-> **解析**：**confident** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 unbelievable；unbelievably 是副词，unbelieve 不是单词。
 
 ### 14
 
-It is ____ that we won the championship!
+He has the ability ____ win.
 
-- [x] unbelievable
-- [ ] ability
-- [ ] alike
+- [x] to
+- [ ] for
+- [ ] of
 
-> **解析**：**unbelievable** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the ability to + 动词原形是固定结构；for 和 of 都不构成这个结构。
 
 ### 15
 
-After a hard match, he felt completely ____.
+I have a good ____ about it.
 
-- [x] relaxed
-- [ ] ability
-- [ ] alike
+- [x] feeling
+- [ ] feel
+- [ ] felt
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **relaxed**。
+> **解析**：a 后需要名词 feeling"感觉"；feel 是动词，felt 是过去式。
 
 ### 16
 
-His friends always call him by his ____.
+Her ____ is Lightning.
 
 - [x] nickname
-- [ ] ability
-- [ ] alike
+- [ ] feeling
+- [ ] chin
 
-> **解析**：**nickname** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：作称呼的是 nickname"昵称"；feeling 和 chin 语义不符。
 
 ### 17
 
-The two brothers look very much ____ in face.
+The twins look ____.
 
 - [x] alike
-- [ ] ability
-- [ ] amazed
+- [ ] relaxed
+- [ ] likely
 
-> **解析**：**alike** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：look alike"长得像"是固定搭配；relaxed 和 likely 语义不符。
 
 ### 18
 
-Walking on the warm ____ makes people feel relaxed.
+The kids play in the ____.
 
 - [x] sand
-- [ ] ability
-- [ ] alike
+- [ ] sands
+- [ ] smile
 
-> **解析**：**sand** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：玩沙用不可数的 sand；smile 语义不符。
 
 ### 19
 
-We were ____ by his brilliant artistic works.
+He touched his ____ and smiled.
 
-- [x] amazed
-- [ ] ability
-- [ ] alike
+- [x] chin
+- [ ] chins
+- [ ] sand
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **amazed**。
+> **解析**：摸的身体部位是 chin"下巴"；sand 语义不符。
 
 ### 20
 
-Would you mind ____ me pick up the ball?
+Would you mind ____ me?
 
-- [x] helping
-- [ ] ability
-- [ ] alike
+- [x] teaching
+- [ ] teach
+- [ ] taught
 
-> **解析**：**helping** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：Would you mind 后接动名词 teaching；taught 是过去式。
 
 </quiz-cloze>

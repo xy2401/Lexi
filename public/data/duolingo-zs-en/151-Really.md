@@ -10,40 +10,39 @@ all right, anything, be, by the way, can't, care, embarrassed, embarrassing, for
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"惊讶并要求解释"展开。核心是惊讶反应和解释请求：No way! Seriously? Guess what just happened!（不会吧！真的吗？猜猜刚发生了什么！）、Hold on—I can't believe you've forgotten our old friend.（等等——我不敢相信你忘了我们的老朋友。）、That's impossible! You must be lying.（那不可能！你一定在撒谎。）、I'm so embarrassed—something embarrassing happened just now.（我太尴尬了——刚才发生了件尴尬的事。）。
+本单元的主题是"表示惊讶、追问解释"。词表可以分成三组：会话反应语（guess what, by the way, hold on, go on, no way, seriously, all right, like this, just now）、情感与态度词（care, embarrassed, embarrassing, impossible, lie, old friend, anything, something）、以及"原谅"一族的动词形式（forgive, forgave, forgiven, forgotten）。把它们组合起来，就是一段完整的"惊讶—追问—原谅"对话：Guess what! I met an old friend just now. No way! Seriously? Go on, tell me everything.
 
-词表里有惊讶表达（no way, seriously, impossible, guess what）和原谅词汇（forgive → forgave → forgiven）。你可以练习：By the way, I saw her. / Go on, tell me more. / I don't care. / All right, I forgive you.
+语法主线有两条。第一条是 -ed/-ing 形容词的区别：embarrassed 描述人的感受（I feel embarrassed），embarrassing 描述事情本身的性质（This is embarrassing）。第二条是情态动词表推测：must be 表示"一定是"，can't be 表示"不可能是"，语气都很强。此外，forgive 的三态（forgive—forgave—forgiven）和 forget 的过去分词 forgotten 是本单元的词形重点，配合 have 构成现在完成时：I have forgiven you.
 
-forgive → forgave → forgiven 是不规则变化。must 表推测（一定）。
+学完本单元，你能对意外消息做出自然的英语反应——表示难以置信、要求对方解释、谈论尴尬往事，并表达原谅。
 
 ## Tips
 
-- **no way / seriously / impossible** — 不会吧 / 真的吗 / 不可能。搭配：No way! / Are you serious? / That's impossible! 例句：No way! You quit your job? / Seriously? Tell me more. / It's impossible to finish in one day. 注意 No way! 是口语中的强烈惊讶。
+- **guess what / by the way** — 两个常用开场白。guess what 用于宣布令人意外的消息，等着对方追问：Guess what! I won the game. by the way 用于顺势插入新话题：By the way, have you spoken to her? 它们后面通常直接接句子。
 
-- **guess what / hold on / go on** — 猜猜 / 等等 / 继续。搭配：Guess what! / Hold on a second, go on。例句：Guess what I found! / Hold on—let me think. / Go on, I'm listening. 注意 Guess what! 用于引出令人兴奋的消息。
+- **hold on / go on** — 会话控制用语。hold on 是"等一下"：Hold on, I have something to say. go on 是"继续说下去"：Go on, I am listening. 两个短语都由动词 + 副词构成，语气比 wait / continue 更口语化。
 
-- **forgive / forgave / forgiven** — 原谅 / 原谅了 / 被原谅。搭配：forgive me, forgave him, have forgiven。例句：Please forgive me. / She forgave him eventually. / I've forgiven you. 注意 forgive → forgave → forgiven。
+- **no way / seriously** — 表示惊讶的反应语。no way 直译"没路"，实际是"不可能！没门！"：No way! That can't be true. seriously 可放在句首表示"说真的？"：Seriously? Tell me more. 注意 ✗ Are you seriously? → ✓ Are you serious?（形容词形式才是 serious）。
 
-- **embarrassed / embarrassing / care** — 尴尬的 / 令人尴尬的 / 在乎。搭配：feel embarrassed, an embarrassing moment, I don't care。例句：I'm so embarrassed! / It was an embarrassing mistake. / I don't care what they think. 注意 embarrassed（人感到）vs embarrassing（事令人）。
+- **all right / like this / just now** — all right 表示"好的、可以"，常用来让步或接受：All right, I forgive you. like this 是"像这样"，示范动作时使用：Do it like this. just now 意为"刚才"，常与过去时连用：I saw him just now.
 
-- **by the way / just now / old friend** — 顺便说 / 刚才 / 老朋友。搭配：by the way, just now, an old friend of mine。例句：By the way, how's your mom? / She called just now. / He's an old friend. 注意 by the way 用于转换话题。
+- **care** — 动词"在意、关心"，常与 about 搭配：Do you care about this? 否定形式 I don't care about anything 是"我什么都不在乎"。care 也可作名词：Take care!（保重！）。
 
-- **can't / must / have** — 不能 / 一定 / 有。搭配：can't believe, must be, have you ever。例句：I can't believe it! / You must be joking. / Have you spoken to her? 注意 must 表推测 = 一定是。
+- **embarrassed / embarrassing** — 同源的一对形容词，分工明确：-ed 结尾描述人的内心感受，-ing 结尾描述事物的性质。✓ I feel embarrassed.（我感到尴尬）✓ This is embarrassing.（这事真尴尬）✗ I am embarrassing.（除非你想说"我是个令人尴尬的人"）。
 
-- **lie / spoken / forgotten** — 谎言 / 说过 / 忘了。搭配：tell a lie, have spoken, have forgotten。例句：Don't lie to me. / I've spoken to the manager. / I've completely forgotten! 注意 speak → spoke → spoken。
+- **forgive / forgave / forgiven** — "原谅"的不规则动词三态：原形 forgive、过去式 forgave、过去分词 forgiven。搭配 forgive sb. for sth.：She forgave me for the lie. 现在完成时用 have/has + forgiven：I have forgiven you.
 
-- **all right / anything / something** — 好吧 / 任何事 / 某事。搭配：all right, anything else, something wrong。例句：All right, let's go. / Is there anything I can do? / Something strange happened. 注意 all right = OK。
+- **forgotten** — forget（忘记）的过去分词，与 have 搭配：Have you forgotten my name? 注意 forget 的三态是 forget—forgot—forgotten，与 forgive 一族同属不规则变化，可以放在一起记。
 
-- **like this / be / have** — 像这样 / 是 / 有。搭配：like this, be careful, have you seen。例句：Don't talk to me like this! / Be honest with me. / Have you seen my phone? 注意 like this = 像这样。
+- **must / can't** — 本单元用它们表示有把握的推测。must be 是"一定是"：He must be at home. can't be 是"不可能是"：That can't be true. 注意表推测时 must 的反面不是 mustn't，而是 can't。
 
-- **seriously / no way / guess what** — 真的 / 不会 / 猜猜。搭配：I'm serious! / No way! / Guess what happened。例句：I'm seriously upset. / No way—really? / Guess what she said! 注意 seriously 可表"认真地"也可表"真的吗"。
+- **anything / something** — 不定代词。something 多用于肯定句：I have something to tell you. anything 多用于否定句和疑问句：I don't care about anything. 修饰形容词时后置：something interesting。
 
-- **forgiven / forgave / forgive** — 被原谅 / 原谅了 / 原谅。搭配：be forgiven, forgave and forgot, forgive me。例句：You are forgiven. / She forgave him years ago. / Forgive me for being late. 注意 forgive 后接 sb for doing。
+- **lie / old friend** — lie 作动词是"撒谎"（过去式 lied），作名词是"谎言"：tell a lie；注意与 lie（躺，lay/lain）区分。old friend 是"老朋友"，old 修饰的是交情而非年龄。
 
-- **embarrassing / embarrassed / impossible** — 尴尬的 / 尴尬 / 不可能。搭配：how embarrassing! / feel embarrassed, absolutely impossible。例句：How embarrassing! / I'm embarrassed to admit it. / It's absolutely impossible. 注意 -ing 形容事物，-ed 形容人的感受。
+- **be / have / spoken / impossible** — be 和 have 是最基本的两个动词，本单元分别用于状态和完成时。spoken 是 speak 的过去分词，spoken English 指"英语口语"，与 written（书面的）相对。impossible 由否定前缀 im- + possible 构成：Nothing is impossible.
 
 ## 练习
 
@@ -61,149 +60,149 @@ forgive → forgave → forgiven 是不规则变化。must 表推测（一定）
 
 <quiz-sentence-builder>
 
-1. **中文**：不会吧！你在咖啡馆遇上了我们的老朋友？
-   **英文**：No way! You ran into our old friend at the cafe?
-   > **解析**：No way 表示“不会吧/不可能”；ran into 表示“偶遇”；old friend 意为“老朋友”。
+1. **中文**：你猜怎么着！我刚才遇到了一位老朋友。
+   **英文**：Guess what! I met an old friend just now.
+   > **解析**：guess what 是固定开场白，后接句子；just now 表示"刚才"，句子用过去时 met。
 
-2. **中文**：真的吗？我不敢相信你竟然忘了他的名字！
-   **英文**：Seriously? I can't believe you've forgotten his name!
-   > **解析**：Seriously 用于口语表示“真的吗”；have forgotten 是 forget 的现在完成时；can't believe 表示“不敢相信”。
+2. **中文**：等一下，我有话要说。
+   **英文**：Hold on, I have something to say.
+   > **解析**：hold on 是"稍等"的固定短语；something 作 have 的宾语，to say 是不定式作后置定语。
 
-3. **中文**：等等，让我稍想一下。
-   **英文**：Hold on, let me think for a second.
-   > **解析**：Hold on 表示“等等/别急”；let me think 表示“让我想想”。
+3. **中文**：没门！那不可能是真的。
+   **英文**：No way! That can't be true.
+   > **解析**：no way 是感叹性短语；can't be 表示"不可能是"，是对现状的否定推测。
 
-4. **中文**：继续，告诉我接下来发生了什么！
-   **英文**：Go on, tell me what happened next!
-   > **解析**：Go on 表示“继续说/接着说”；tell me 后面接宾语从句。
+4. **中文**：说真的？你必须告诉我更多。
+   **英文**：Seriously? You must tell me more.
+   > **解析**：seriously 单独成句表示追问；must 后接动词原形 tell，me 作间接宾语。
 
-5. **中文**：猜猜看！我哥哥刚升职了。
-   **英文**：Guess what! My brother just got promoted.
-   > **解析**：Guess what 用来引出令人惊喜的消息；got promoted 表示“升职了”。
+5. **中文**：顺便问一下，你跟她谈过了吗？
+   **英文**：By the way, have you spoken to her?
+   > **解析**：by the way 用于引入新话题；have + spoken 构成现在完成时的一般疑问句。
 
-6. **中文**：那是不可能的！你一定是在开玩笑。
-   **英文**：That's impossible! You must be joking.
-   > **解析**：impossible 表示“不可能的”；must be 表达肯定的推测，“一定是在……”。
+6. **中文**：她原谅了她的老朋友。
+   **英文**：She forgave her old friend.
+   > **解析**：forgave 是 forgive 的过去式，用于过去发生的事；her old friend 作宾语。
 
-7. **中文**：她刚才打翻咖啡时感到非常尴尬。
-   **英文**：She was so embarrassed when she dropped her coffee just now.
-   > **解析**：embarrassed 形容人“感到尴尬的”；just now 表示“刚才”。
+7. **中文**：我已经原谅你了。
+   **英文**：I have forgiven you.
+   > **解析**：have + forgiven（过去分词）构成现在完成时，表示原谅已经完成。
 
-8. **中文**：那是个让人尴尬的错误，不过现在都挺好的。
-   **英文**：It was an embarrassing mistake, but everything is all right now.
-   > **解析**：embarrassing 意为“令人尴尬的”；all right 表示“完好/没问题”。
+8. **中文**：这真令人尴尬。
+   **英文**：This is embarrassing.
+   > **解析**：-ing 形容词 embarrassing 描述事情的性质，作 is 的表语。
 
-9. **中文**：我不在乎他们怎么评论我们。
-   **英文**：I don't care what they say about us.
-   > **解析**：care 表示“在乎/介意”；don't care 表达不在乎的态度。
+9. **中文**：我为我的谎言感到尴尬。
+   **英文**：I feel embarrassed about my lie.
+   > **解析**：-ed 形容词 embarrassed 描述人的感受；about my lie 说明尴尬的原因。
 
-10. **中文**：顺便问一下，你和经理谈过了吗？
-   **英文**：By the way, have you spoken to the manager yet?
-   > **解析**：By the way 用于转换话题，意为“顺便说/顺便问”；have spoken 是 speak 的现在完成时。
+10. **中文**：继续说，我在听。
+   **英文**：Go on, I am listening.
+   > **解析**：go on 是"继续"的祈使句；am listening 是现在进行时，表示此刻正在进行。
 
-11. **中文**：他原谅了她上周犯的错误。
-   **英文**：He forgave her for the mistake last week.
-   > **解析**：forgave 为 forgive 的过去式；forgive sb for sth 表示“原谅某人某事”。
+11. **中文**：好吧，我们重新开始。
+   **英文**：All right, let's start again.
+   > **解析**：all right 表示接受；let's + 动词原形构成第一人称祈使句。
 
-12. **中文**：请原谅我迟到了这么久。
-   **英文**：Please forgive me for being so late.
-   > **解析**：forgive me 表达“原谅我”；for + v-ing 解释原谅的原因。
+12. **中文**：像这样做。
+   **英文**：Do it like this.
+   > **解析**：祈使句以动词原形 Do 开头；like 在此是介词"像"，this 作其宾语。
 
-13. **中文**：他们已经原谅了他过去的所作所为。
-   **英文**：They have forgiven him for his past actions.
-   > **解析**：forgiven 是 forgive 的过去分词，与 have 构成现在完成时。
+13. **中文**：我什么都不在乎。
+   **英文**：I don't care about anything.
+   > **解析**：否定句中用 anything 而非 something；care about 是固定搭配。
 
-14. **中文**：你忘记我们把车停在哪了吗？
-   **英文**：Have you forgotten where we parked the car?
-   > **解析**：forgotten 为 forget 的过去分词；have you forgotten 表示“你忘了吗”。
+14. **中文**：你忘了我的名字吗？
+   **英文**：Have you forgotten my name?
+   > **解析**：have + forgotten 构成现在完成时疑问句，forgotten 是 forget 的过去分词。
 
-15. **中文**：工作了一整天后，你一定精疲力竭了。
-   **英文**：You must be exhausted after working all day.
-   > **解析**：must be 表示推测“一定……”；exhausted 意为“精疲力竭的”。
+15. **中文**：他现在一定在家。
+   **英文**：He must be at home.
+   > **解析**：must be 表示有把握的肯定推测"一定是"；at home 是固定介词短语。
 
-16. **中文**：不要对我撒谎说你做了什么。
-   **英文**：Don't lie to me about what you did.
-   > **解析**：lie to sb 表示“向某人撒谎”；about 引出撒谎的内容。
+16. **中文**：你为什么对我撒谎？
+   **英文**：Why did you lie to me?
+   > **解析**：why 引导的特殊疑问句用 did + 动词原形 lie；lie to sb. 是"对某人撒谎"。
 
-17. **中文**：你为什么这样看着我？
-   **英文**：Why are you looking at me like this?
-   > **解析**：like this 表示“像这样”；look at 表示“看着”。
+17. **中文**：你必须原谅他。
+   **英文**：You must forgive him.
+   > **解析**：must 后接动词原形 forgive；him 是 he 的宾格，作 forgive 的宾语。
 
-18. **中文**：今天办公室里发生什么奇怪的事了吗？
-   **英文**：Did something strange happen in the office today?
-   > **解析**：something 表示“某事”；形容词 strange 后置修饰不定代词 something。
+18. **中文**：我很在意你。
+   **英文**：I care about you.
+   > **解析**：care about 是"在意"的固定搭配；you 作介词 about 的宾语。
 
-19. **中文**：还有什么事情你想告诉我的吗？
-   **英文**：Is there anything else you want to tell me?
-   > **解析**：anything 用于疑问句表示“任何事”；anything else 意为“其他什么事”。
+19. **中文**：这是不可能的。
+   **英文**：It is impossible.
+   > **解析**：it 作形式主语，is 后接形容词 impossible 作表语。
 
-20. **中文**：你和你的顾问谈过这个计划了吗？
-   **英文**：Have you spoken with your advisor about this plan?
-   > **解析**：spoken 是 speak 的过去分词；spoken with sb about sth 表示“与某人谈论某事”。
+20. **中文**：我刚才跟她说话了。
+   **英文**：I spoke to her just now.
+   > **解析**：just now 表示"刚才"，句子用过去时 spoke（speak 的过去式）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. No way! You ran into our old friend at the cafe?
-   > **中文**：不会吧！你在咖啡馆遇上了我们的老朋友？
+1. Guess what!
+   > **中文**：你猜怎么着！
 
-2. Seriously? I can't believe you've forgotten his name!
-   > **中文**：真的吗？我不敢相信你竟然忘了他的名字！
+2. Hold on a moment.
+   > **中文**：等一下。
 
-3. Hold on, let me think for a second.
-   > **中文**：等等，让我稍想一下。
+3. Go on, I am listening.
+   > **中文**：继续说，我在听。
 
-4. Go on, tell me what happened next!
-   > **中文**：继续，告诉我接下来发生了什么！
+4. By the way, do you care?
+   > **中文**：顺便问一下，你在意吗？
 
-5. Guess what! My brother just got promoted.
-   > **中文**：猜猜看！我哥哥刚升职了。
+5. No way!
+   > **中文**：没门！
 
-6. That's impossible! You must be joking.
-   > **中文**：那是不可能的！你一定是在开玩笑。
+6. Seriously?
+   > **中文**：你是说真的吗？
 
-7. She was so embarrassed when she dropped her coffee just now.
-   > **中文**：她刚才打翻咖啡时感到非常尴尬。
+7. That can't be true.
+   > **中文**：那不可能是真的。
 
-8. It was an embarrassing mistake, but everything is all right now.
-   > **中文**：那是个让人尴尬的错误，不过现在都挺好的。
+8. He must be at home.
+   > **中文**：他现在一定在家。
 
-9. I don't care what they say about us.
-   > **中文**：我不在乎他们怎么评论我们。
+9. I have something to tell you.
+   > **中文**：我有事要告诉你。
 
-10. By the way, have you spoken to the manager yet?
-   > **中文**：顺便问一下，你和经理谈过了吗？
+10. She forgave her old friend.
+   > **中文**：她原谅了她的老朋友。
 
-11. He forgave her for the mistake last week.
-   > **中文**：他原谅了她上周犯的错误。
+11. I have forgiven you.
+   > **中文**：我已经原谅你了。
 
-12. Please forgive me for being so late.
-   > **中文**：请原谅我迟到了这么久。
+12. Have you forgotten my name?
+   > **中文**：你忘了我的名字吗？
 
-13. They have forgiven him for his past actions.
-   > **中文**：他们已经原谅了他过去的所作所为。
+13. This is embarrassing.
+   > **中文**：这真令人尴尬。
 
-14. Have you forgotten where we parked the car?
-   > **中文**：你忘记我们把车停在哪了吗？
+14. I feel embarrassed.
+   > **中文**：我感到很尴尬。
 
-15. You must be exhausted after working all day.
-   > **中文**：工作了一整天后，你一定精疲力竭了。
+15. Why did you lie to me?
+   > **中文**：你为什么对我撒谎？
 
-16. Don't lie to me about what you did.
-   > **中文**：不要对我撒谎说你做了什么。
+16. All right, I forgive you.
+   > **中文**：好吧，我原谅你。
 
-17. Why are you looking at me like this?
-   > **中文**：你为什么这样看着我？
+17. Do it like this.
+   > **中文**：像这样做。
 
-18. Did something strange happen in the office today?
-   > **中文**：今天办公室里发生什么奇怪的事了吗？
+18. I saw her just now.
+   > **中文**：我刚才看见她了。
 
-19. Is there anything else you want to tell me?
-   > **中文**：还有什么事情你想告诉我的吗？
+19. It is impossible.
+   > **中文**：这是不可能的。
 
-20. Have you spoken with your advisor about this plan?
-   > **中文**：你和你的顾问谈过这个计划了吗？
+20. Have you spoken to my old friend?
+   > **中文**：你和我的老朋友说过话吗？
 
 </quiz-listening>
 
@@ -211,26 +210,47 @@ forgive → forgave → forgiven 是不规则变化。must 表推测（一定）
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| all right | 好吧 / 没问题 |
-| anything | 任何事 |
-| by the way | 顺便说 / 顺便问 |
-| can't | 不能 / 无法 |
-| care | 在乎 / 关心 |
+| all right | 好的 / 可以 |
+| anything | 任何事物 |
+| be | 是 / 存在 |
+| by the way | 顺便说一下 |
+| can't | 不可能 / 不能 |
+| care | 在意 / 关心 |
 | embarrassed | 感到尴尬的 |
 | embarrassing | 令人尴尬的 |
-| forgave | 原谅了（forgive的过去式） |
+| forgave | 原谅（过去式） |
 | forgive | 原谅 |
-| forgiven | 被原谅的（forgive的过去分词） |
-| forgotten | 遗忘的（forget的过去分词） |
-| go on | 继续说 / 接着做 |
-| guess what | 猜猜看 |
-| hold on | 等等 / 稍等 |
+| forgiven | 原谅（过去分词） |
+| forgotten | 忘记（过去分词） |
+| go on | 继续 |
+| guess what | 你猜怎么着 |
+| have | 有 / 助动词 |
+| hold on | 等一下 |
 | impossible | 不可能的 |
 | just now | 刚才 |
 | lie | 撒谎 / 谎言 |
 | like this | 像这样 |
-| must | 一定 / 必须 |
-| no way | 不会吧 / 绝不可能 |
+| must | 必须 / 一定 |
+| no way | 没门 / 不可能 |
+| old friend | 老朋友 |
+| seriously | 说真的 / 认真地 |
+| something | 某事 / 某物 |
+| spoken | 说的（口语的） |
+| is | 是（单数） |
+| are | 是（复数 / you） |
+| it | 它 |
+| that | 那个 |
+| this | 这个 |
+| to | 到 / 对 |
+| about | 关于 |
+| me | 我（宾格） |
+| her | 她（宾格）/ 她的 |
+| him | 他（宾格） |
+| my | 我的 |
+| what | 什么 |
+| why | 为什么 |
+| did | （过去时助动词） |
+| do | 做 / 助动词 |
 
 </quiz-matching>
 
@@ -238,202 +258,202 @@ forgive → forgave → forgiven 是不规则变化。must 表推测（一定）
 
 ### 1
 
-No way! You ran into our old ____ at the cafe?
+Guess ____ happened just now!
 
-- [x] friend
-- [ ] all right
-- [ ] anything
+- [x] what
+- [ ] where
+- [ ] who
 
-> **解析**：**friend** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：guess what 是固定开场白，表示"你猜怎么着"；where 和 who 不构成该表达。
 
 ### 2
 
-____? I can't believe you've forgotten his name!
+Hold ____, I have something to say.
 
-- [x] Seriously
-- [ ] all right
-- [ ] anything
+- [x] on
+- [ ] in
+- [ ] at
 
-> **解析**：**Seriously** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：hold on 是"等一下"的固定搭配；hold in 和 hold at 不是该短语。
 
 ### 3
 
-Hold on, let me think for a ____.
+No ____, that can't be true.
 
-- [x] second
-- [ ] all right
-- [ ] anything
+- [x] way
+- [ ] road
+- [ ] street
 
-> **解析**：**second** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：no way 是表示惊讶拒绝的固定短语；road 和 street 虽然也是"路"，但不构成此表达。
 
 ### 4
 
-Go on, tell me what ____ next!
+By the ____, have you spoken to her?
 
-- [x] happened
-- [ ] all right
-- [ ] anything
+- [x] way
+- [ ] day
+- [ ] time
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **happened**。
+> **解析**：by the way 是"顺便说一下"的固定短语；day 和 time 不能构成该表达。
 
 ### 5
 
-Guess what! My brother just got ____.
+She ____ her old friend at last.
 
-- [x] promoted
-- [ ] all right
-- [ ] anything
+- [x] forgave
+- [ ] forgive
+- [ ] forgiven
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **promoted**。
+> **解析**：at last 提示过去的事，用过去式 forgave；forgive 是原形，forgiven 必须搭配 have。
 
 ### 6
 
-That's ____! You must be joking.
+I have ____ you for the lie.
 
-- [x] impossible
-- [ ] all right
-- [ ] anything
+- [x] forgiven
+- [ ] forgave
+- [ ] forgive
 
-> **解析**：**impossible** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：have 后必须接过去分词 forgiven；forgave 是过去式，不能与 have 连用。
 
 ### 7
 
-She was so ____ when she dropped her coffee just now.
+Have you ____ my name?
 
-- [x] embarrassed
-- [ ] all right
-- [ ] anything
+- [x] forgotten
+- [ ] forgot
+- [ ] forget
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **embarrassed**。
+> **解析**：have 构成现在完成时需要过去分词 forgotten；forgot 是过去式，forget 是原形。
 
 ### 8
 
-It was an ____ mistake, but everything is all right now.
+This situation is really ____.
 
 - [x] embarrassing
-- [ ] all right
-- [ ] anything
+- [ ] embarrassed
+- [ ] embarrass
 
-> **解析**：**embarrassing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：描述事情的性质用 -ing 形容词 embarrassing；embarrassed 描述人的感受，embarrass 是动词原形。
 
 ### 9
 
-I don't ____ what they say about us.
+I feel ____ about my mistake.
 
-- [x] care
-- [ ] all right
-- [ ] anything
+- [x] embarrassed
+- [ ] embarrassing
+- [ ] impossible
 
-> **解析**：**care** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：描述人的内心感受用 -ed 形容词 embarrassed；embarrassing 用于描述事物。
 
 ### 10
 
-By the way, ____ you spoken to the manager yet?
+That ____ be true.
 
-- [x] have
-- [ ] all right
-- [ ] anything
+- [x] can't
+- [ ] don't
+- [ ] isn't
 
-> **解析**：**have** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：否定推测用 can't be；don't 不能修饰 be，isn't 与 be 重复。
 
 ### 11
 
-He ____ her for the mistake last week.
+I don't care about ____.
 
-- [x] forgave
-- [ ] all right
-- [ ] anything
+- [x] anything
+- [ ] something
+- [ ] everything
 
-> **解析**：**forgave** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：否定句中用 anything；something 多用于肯定句，everything 与 don't 搭配语义不通。
 
 ### 12
 
-Please ____ me for being so late.
+Do it ____ this.
 
-- [x] forgive
-- [ ] all right
-- [ ] anything
+- [x] like
+- [ ] likes
+- [ ] liking
 
-> **解析**：**forgive** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：like 在此是介词"像"，祈使句中无需变化；likes 和 liking 都不符合介词用法。
 
 ### 13
 
-They ____ forgiven him for his past actions.
+____ are you so quiet?
 
-- [x] have
-- [ ] all right
-- [ ] anything
+- [x] Why
+- [ ] Who
+- [ ] What
 
-> **解析**：**have** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：询问原因用 why；who 问人，what 问事物，均与"你这么安静"不搭配。
 
 ### 14
 
-____ you forgotten where we parked the car?
+Nothing is ____ for us.
 
-- [x] Have
-- [ ] all right
-- [ ] anything
+- [x] impossible
+- [ ] embarrassed
+- [ ] spoken
 
-> **解析**：**Have** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：nothing is impossible 意为"没有什么是不可能的"；embarrassed 描述人的感受，spoken 指口语。
 
 ### 15
 
-You ____ be exhausted after working all day.
+I met an old ____ of mine just now.
 
-- [x] must
-- [ ] all right
+- [x] friend
 - [ ] anything
+- [ ] something
 
-> **解析**：**must** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：old friend 是"老朋友"，friend 是名词；anything 和 something 是代词，不能被 old 这样修饰。
 
 ### 16
 
-Don't ____ to me about what you did.
+____ on, tell me everything.
 
-- [x] lie
-- [ ] all right
-- [ ] anything
+- [x] Go
+- [ ] Have
+- [ ] Must
 
-> **解析**：**lie** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：go on 是"继续说"的固定短语；have on 和 must on 不构成此义。
 
 ### 17
 
-Why are you ____ at me like this?
+You must ____ me.
 
-- [x] looking
-- [ ] all right
-- [ ] anything
+- [x] forgive
+- [ ] forgave
+- [ ] forgiven
 
-> **解析**：**looking** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：must 后接动词原形 forgive；forgave 和 forgiven 都不是原形。
 
 ### 18
 
-Did ____ strange happen in the office today?
+Have you ____ to her?
 
-- [x] something
-- [ ] all right
-- [ ] anything
+- [x] spoken
+- [ ] speaks
+- [ ] speaking
 
-> **解析**：**something** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：have 后需要过去分词 spoken；speaks 和 speaking 都不能与 have 构成完成时。
 
 ### 19
 
-Is there ____ else you want to tell me?
+She told a ____ to her mother.
 
-- [x] anything
-- [ ] all right
-- [ ] be
+- [x] lie
+- [ ] lies
+- [ ] lying
 
-> **解析**：**anything** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：a 后接单数名词 lie；lies 是复数与 a 冲突，lying 是动名词不与 tell a 搭配。
 
 ### 20
 
-____ you spoken with your advisor about this plan?
+I have something to ____ you.
 
-- [x] Have
-- [ ] all right
-- [ ] anything
+- [x] tell
+- [ ] care
+- [ ] forgive
 
-> **解析**：**Have** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：tell 可接双宾语（tell you something）；care 需接 about，forgive 语义不符。
 
 </quiz-cloze>

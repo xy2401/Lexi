@@ -10,40 +10,33 @@ back, busy, close by, come with, crosswalk, drive, driven, drop, drop off, exit,
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"请求搭车"展开，以交通出行为场景。核心是交通和驾驶表达：Can you pick me up on the way to work?（你能在上班路上接我吗？）、I got stuck in a traffic jam during rush hour.（高峰时段我堵在路上了。）、Slow down! The speed limit here is 30.（减速！这里限速30。）、Watch out for the crosswalk—there's a stop sign ahead.（注意人行横道——前面有停车标志。）。
+本单元的主题是"搭车出行"，词表围绕交通展开，可以分成三组：道路设施（crosswalk, lane, exit, stop sign, traffic light, speed limit）、交通状况（busy, rush hour, traffic jam, get stuck, close by）、以及驾驶动作（drive, driven, pick up, drop off, get around, slow down, speed up, slowed, sped up, watch out, come with, back, on the way to）。拼起来就是一次搭车对话：Can you pick me up at seven? We got stuck in a traffic jam during rush hour, so I'll call you on the way to the office.
 
-词表里有交通词汇（traffic jam, rush hour, speed limit, crosswalk）和驾驶动作（speed up, slow down, drop off, pick up）。你可以练习：The traffic light turned red. / Take the next exit. / He sped up on the highway. / The lane is busy.
+语法主线有两个。一是 drive 的不规则三态：drive → drove → driven。driven 是过去分词，与 have/has 连用：She has driven to the city many times. 二是反义短语动词：slow down（减速）与 speed up（加速），它们的过去式 slowed 与 sped up 也要记住。另外大量短语动词描述乘车流程：pick up（接人）、drop off（放下人）、get around（出行）、get stuck（被堵），watch out 提醒小心。
 
-pick up（接人）vs drop off（送人）。get stuck = 被困住。
+学完这单元，你能用英语请人捎你一程、描述堵车与路况、复述行车路线和交通规则。
 
 ## Tips
 
-- **pick up / drop off / come with** — 接人 / 送人 / 一起来。搭配：pick sb up, drop sb off, come with me。例句：Can you pick me up at 8? / Drop me off at the station. / Come with us! 注意 pick up / drop off 的宾语可放中间。
+- **drive / driven / drop** — drive 开车，不规则三态 drive-drove-driven：She has driven for years. drop 放下，构成 drop off（让人下车）：drop me off at the station.
 
-- **traffic jam / rush hour / get stuck** — 堵车 / 高峰期 / 被困。搭配：stuck in a traffic jam, during rush hour, get stuck in traffic。例句：There's a huge traffic jam. / I hate rush hour. / We got stuck for an hour. 注意 rush hour = 上下班高峰。
+- **pick up / come with** — pick up 接人、拾起：pick me up at seven. come with 与……一起来：Can you come with me? 注意代词放在短语中间：pick me up ✓，pick up me ✗。
 
-- **speed limit / speed up / slow down** — 限速 / 加速 / 减速。搭配：the speed limit is, speed up, slow down。例句：The speed limit is 60. / He sped up on the highway. / Slow down near schools. 注意 speed up 的反义是 slow down。
+- **slow down / speed up / slowed / sped up** — 反义一对。slow down 减速，speed up 加速。过去式 slowed（规则）与 sped up（speed 的过去式 sped，不规则）：She slowed at the corner. / The car sped up.
 
-- **crosswalk / stop sign / traffic light** — 人行横道 / 停车标志 / 红绿灯。搭配：at the crosswalk, a stop sign, a red traffic light。例句：Use the crosswalk to cross. / Stop at the stop sign. / The traffic light turned green. 注意这些是道路安全设施。
+- **traffic jam / rush hour / get stuck** — 堵车三词。traffic jam 堵车。rush hour 高峰期（上下班高峰）。get stuck 被卡住、被困：get stuck in a traffic jam.
 
-- **exit / lane / get around** — 出口 / 车道 / 出行。搭配：take the exit, the left lane, get around the city。例句：Take the next exit. / Stay in the right lane. / It's easy to get around by bus. 注意 get around = 四处走动/出行。
+- **traffic light / stop sign / crosswalk** — 路口三设施。traffic light 红绿灯。stop sign 停车标志。crosswalk 人行横道（cross + walk）。
 
-- **on the way to / close by / back** — 在…路上 / 附近 / 回来。搭配：on the way to work, close by, on the way back。例句：I'll call you on the way to the office. / Is there a gas station close by? / On the way back, stop at the store. 注意 on the way to + 地点。
+- **lane / exit / speed limit** — lane 车道：stay in the right lane. exit 出口：take the second exit. speed limit 限速：The speed limit is sixty.
 
-- **drive / driven / drop** — 开车 / 开过 / 放下。搭配：drive to work, have driven, drop by。例句：I drive to work every day. / She's driven 500 miles. / Drop by anytime. 注意 drive → drove → driven。
+- **busy / close by** — busy 繁忙的，形容街道车多：a busy street. close by 就在附近，作表语或副词：The station is close by.
 
-- **watch out / slowed / sped up** — 小心 / 减速了 / 加速了。搭配：watch out for, slowed down, sped up。例句：Watch out for pedestrians! / The car slowed down. / He sped up suddenly. 注意 watch out for = 当心…。
+- **get around / back / on the way to** — get around 出行、四处走动：How do you get around town? back 后面、背部，也可指倒车或返回：look back. on the way to 在去……的路上：on the way to the office.
 
-- **busy / lane / exit** — 繁忙 / 车道 / 出口。搭配：a busy road, change lanes, take the exit。例句：This road is very busy. / Change to the left lane. / The exit is coming up. 注意 busy 形容道路 = 车多。
-
-- **speed limit / traffic light / crosswalk** — 限速 / 红绿灯 / 人行横道。搭配：obey the speed limit, run a traffic light, cross at the crosswalk。例句：Don't exceed the speed limit. / He ran a red traffic light. / Always use the crosswalk. 注意 run a red light = 闯红灯。
-
-- **get stuck / rush hour / traffic jam** — 被困 / 高峰 / 堵车。搭配：get stuck in traffic, avoid rush hour, stuck in a jam。例句：I always get stuck on Monday. / Leave before rush hour. / We sat in a traffic jam for hours. 注意 get stuck 是被动含义。
-
-- **drop off / pick up / on the way to** — 送达 / 接人 / 在路上。搭配：drop off at, pick up from, on the way to。例句：Drop me off at the corner. / Pick me up from school. / It's on the way to my house. 注意这三个是搭车场景核心短语。
+- **watch out** — 小心、当心，后常接 for：Watch out for bikes! 语气比 be careful 更急。
 
 ## 练习
 
@@ -61,149 +54,149 @@ pick up（接人）vs drop off（送人）。get stuck = 被困住。
 
 <quiz-sentence-builder>
 
-1. **中文**：当心！在高峰期开车时，遇到交通拥堵要减速。  
-   **英文**：Watch out! Slow down during rush hour traffic jam.
-   > **解析**：watch out 表示“当心/注意”；slow down 表示“减速”；rush hour 表示“高峰期”；traffic jam 表示“交通拥堵”。
+1. **中文**：你能七点来接我吗？
+   **英文**：Can you pick me up at seven?
+   > **解析**：can 后接动词原形；代词 me 放在 pick 与 up 之间。
 
-2. **中文**：司机在人行横道和停止标志前踩刹车减速。  
-   **英文**：The driver slowed down at the crosswalk and stop sign.
-   > **解析**：slowed down 表示“减速（slow down的过去式）”；crosswalk 表示“人行横道/斑马线”；stop sign 表示“停止标志”。
+2. **中文**：请在车站把我放下。
+   **英文**：Please drop me off at the station.
+   > **解析**：drop off 是让人下车；at the station 是地点状语。
 
-3. **中文**：在去机场的路上，我们的车在车道上限速行驶。  
-   **英文**：On the way to the airport, we drove within speed limit.
-   > **解析**：on the way to 表示“在去……的路上”；speed limit 表示“限速”；lane 表示“车道”。
+3. **中文**：她开车去过市区很多次。
+   **英文**：She has driven to the city many times.
+   > **解析**：has driven 是现在完成时；driven 是 drive 的过去分词。
 
-4. **中文**：小心！车辆在红绿灯路口加速通过。  
-   **英文**：Watch out! The car sped up near the traffic light.
-   > **解析**：watch out 表示“当心/小心”；sped up 是 speed up 的过去式，表示“加速”；traffic light 表示“红绿灯”。
+4. **中文**：我们被堵在了车流里。
+   **英文**：We got stuck in a traffic jam.
+   > **解析**：got stuck 表示被困住；in a traffic jam 是地点状语。
 
-5. **中文**：在去学校的路上，接送孩子的车在路边接送人。  
-   **英文**：On the way to school, parents pick up and drop off kids.
-   > **解析**：pick up 表示“接人”；drop off 表示“送下人/放下人”。
+5. **中文**：高峰期的交通很糟糕。
+   **英文**：The traffic is terrible during rush hour.
+   > **解析**：during rush hour 是时间状语；terrible 作表语。
 
-6. **中文**：我们在严重拥堵的交通状况中卡住无法前行。  
-   **英文**：We got stuck in a heavy traffic jam during rush hour.
-   > **解析**：get stuck / got stuck 表示“卡住/受阻”；traffic jam 表示“交通拥堵”。
+6. **中文**：在下一个红绿灯右转。
+   **英文**：Turn right at the next traffic light.
+   > **解析**：Turn 构成祈使句；at the next traffic light 是地点状语。
 
-7. **中文**：在这个城市里出行乘坐公共交通工具非常便利。  
-   **英文**：It is convenient to get around in this big city.
-   > **解析**：get around 表示“出行/四处走动”。
+7. **中文**：在停车标志处停下。
+   **英文**：Stop at the stop sign.
+   > **解析**：Stop 构成祈使句；at the stop sign 说明位置。
 
-8. **中文**：请减速！前面路口有红灯和停止标志。  
-   **英文**：Please slow down! There is a red traffic light ahead.
-   > **解析**：slow down 表示“减速”。
+8. **中文**：过街请走人行横道。
+   **英文**：Use the crosswalk to cross the street.
+   > **解析**：Use 构成祈使句；to cross 表示目的。
 
-9. **中文**：他在人行横道前停车，让行人先行通过。  
-   **英文**：He stopped before the crosswalk to let people pass.
-   > **解析**：crosswalk 表示“人行横道/斑马线”。
+9. **中文**：从右侧第二个出口驶出。
+   **英文**：Take the second exit on the right.
+   > **解析**：Take 构成祈使句；the second exit 是序数词修饰名词。
 
-10. **中文**：在高峰时段，主干道上的车辆行驶非常缓慢。  
-   **英文**：During rush hour, cars move very slowly on the street.
-   > **解析**：rush hour 表示“高峰期/高峰时段”。
+10. **中文**：保持在右侧车道。
+   **英文**：Stay in the right lane.
+   > **解析**：Stay 构成祈使句；in the right lane 是地点状语。
 
-11. **中文**：当心！前面路上有道路施工和障碍物！  
-   **英文**：Watch out! There is road work on the lane ahead!
-   > **解析**：Watch out 表示“当心/小心”。
+11. **中文**：这里的限速是六十。
+   **英文**：The speed limit here is sixty.
+   > **解析**：speed limit 是固定搭配；is 与单数主语搭配。
 
-12. **中文**：我们不幸在暴风雨中的高速公路上卡住了。  
-   **英文**：Unfortunately, we got stuck on the highway in rain.
-   > **解析**：got stuck 表示“被卡住/受阻”。
+12. **中文**：在学校附近减速。
+   **英文**：Slow down near the school.
+   > **解析**：Slow down 是减速；near the school 是地点状语。
 
-13. **中文**：我会在下午五点准时去学校接你回家。  
-   **英文**：I will pick you up at school at five o'clock.
-   > **解析**：pick...up / pick up 表示“接人”。
+13. **中文**：那辆车在高速公路上加速了。
+   **英文**：The car sped up on the highway.
+   > **解析**：sped 是 speed 的过去式；sped up 表示加速。
 
-14. **中文**：司机在机场航站楼前把乘客送下车。  
-   **英文**：The driver will drop off passengers at the airport.
-   > **解析**：drop off 表示“下车/送到”。
+14. **中文**：她在拐角处减速了。
+   **英文**：She slowed at the corner.
+   > **解析**：slowed 是 slow 的过去式；at the corner 是地点状语。
 
-15. **中文**：城市交通拥堵导致许多上班族迟到了。  
-   **英文**：The heavy traffic jam caused many workers to be late.
-   > **解析**：traffic jam 表示“交通拥堵”。
+15. **中文**：这条街早上非常繁忙。
+   **英文**：This street is very busy in the morning.
+   > **解析**：busy 作表语；in the morning 是时间状语。
 
-16. **中文**：红绿灯由红变绿后，汽车开始缓缓前行。  
-   **英文**：When the traffic light turned green, cars moved.
-   > **解析**：traffic light 表示“红绿灯/交通信号灯”。
+16. **中文**：车站就在附近。
+   **英文**：The station is close by.
+   > **解析**：close by 作表语，表示就在附近。
 
-17. **中文**：在去办公室的路上，他买了一杯热咖啡。  
-   **英文**：On the way to the office, he bought a hot coffee.
-   > **解析**：on the way to 表示“在去……的路上”。
+17. **中文**：你在城里怎么出行？
+   **英文**：How do you get around town?
+   > **解析**：How 引导疑问句；get around 表示出行。
 
-18. **中文**：为了安全起见，驾车时严禁超越法定限速。  
-   **英文**：For safety, never drive beyond the speed limit.
-   > **解析**：speed limit 表示“限速/最高时速”。
+18. **中文**：你能和我一起去车库吗？
+   **英文**：Can you come with me to the garage?
+   > **解析**：can 后接动词原形；come with me 表示同行。
 
-19. **中文**：看到停止标志后，所有车辆都停了下来。  
-   **英文**：All cars stopped when seeing the red stop sign.
-   > **解析**：stop sign 表示“停止标志”。
+19. **中文**：小心自行车！
+   **英文**：Watch out for bikes!
+   > **解析**：Watch out for 是固定搭配，提醒小心某物。
 
-20. **中文**：司机脚踩油门加速，超过了前面的卡车。  
-   **英文**：The driver sped up to pass the big truck ahead.
-   > **解析**：sped up 是 speed up 的过去式，表示“加速”。
+20. **中文**：我会在去办公室的路上给你打电话。
+   **英文**：I will call you on the way to the office.
+   > **解析**：will 后接动词原形；on the way to 是固定短语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Watch out! Slow down during rush hour traffic jam.
-   > **中文**：当心！在高峰期开车时，遇到交通拥堵要减速。
+1. Can you pick me up at seven?
+   > **中文**：你能七点来接我吗？
 
-2. The driver slowed down at the crosswalk and stop sign.
-   > **中文**：司机在人行横道和停止标志前踩刹车减速。
+2. Please drop me off at the station.
+   > **中文**：请在车站把我放下。
 
-3. On the way to the airport, we drove within speed limit.
-   > **中文**：在去机场的路上，我们的车在车道上限速行驶。
+3. She has driven to the city many times.
+   > **中文**：她开车去过市区很多次。
 
-4. Watch out! The car sped up near the traffic light.
-   > **中文**：小心！车辆在红绿灯路口加速通过。
+4. We got stuck in a traffic jam.
+   > **中文**：我们被堵在了车流里。
 
-5. On the way to school, parents pick up and drop off kids.
-   > **中文**：在去学校的路上，接送孩子的车在路边接送人。
+5. The traffic is terrible during rush hour.
+   > **中文**：高峰期的交通很糟糕。
 
-6. We got stuck in a heavy traffic jam during rush hour.
-   > **中文**：我们在严重拥堵的交通状况中卡住无法前行。
+6. Turn right at the next traffic light.
+   > **中文**：在下一个红绿灯右转。
 
-7. It is convenient to get around in this big city.
-   > **中文**：在这个城市里出行乘坐公共交通工具非常便利。
+7. Stop at the stop sign.
+   > **中文**：在停车标志处停下。
 
-8. Please slow down! There is a red traffic light ahead.
-   > **中文**：请减速！前面路口有红灯和停止标志。
+8. Use the crosswalk to cross the street.
+   > **中文**：过街请走人行横道。
 
-9. He stopped before the crosswalk to let people pass.
-   > **中文**：他在人行横道前停车，让行人先行通过。
+9. Take the second exit on the right.
+   > **中文**：从右侧第二个出口驶出。
 
-10. During rush hour, cars move very slowly on the street.
-   > **中文**：在高峰时段，主干道上的车辆行驶非常缓慢。
+10. Stay in the right lane.
+   > **中文**：保持在右侧车道。
 
-11. Watch out! There is road work on the lane ahead!
-   > **中文**：当心！前面路上有道路施工和障碍物！
+11. The speed limit here is sixty.
+   > **中文**：这里的限速是六十。
 
-12. Unfortunately, we got stuck on the highway in rain.
-   > **中文**：我们不幸在暴风雨中的高速公路上卡住了。
+12. Slow down near the school.
+   > **中文**：在学校附近减速。
 
-13. I will pick you up at school at five o'clock.
-   > **中文**：我会在下午五点准时去学校接你回家。
+13. The car sped up on the highway.
+   > **中文**：那辆车在高速公路上加速了。
 
-14. The driver will drop off passengers at the airport.
-   > **中文**：司机在机场航站楼前把乘客送下车。
+14. She slowed at the corner.
+   > **中文**：她在拐角处减速了。
 
-15. The heavy traffic jam caused many workers to be late.
-   > **中文**：城市交通拥堵导致许多上班族迟到了。
+15. This street is very busy in the morning.
+   > **中文**：这条街早上非常繁忙。
 
-16. When the traffic light turned green, cars moved.
-   > **中文**：红绿灯由红变绿后，汽车开始缓缓前行。
+16. The station is close by.
+   > **中文**：车站就在附近。
 
-17. On the way to the office, he bought a hot coffee.
-   > **中文**：在去办公室的路上，他买了一杯热咖啡。
+17. How do you get around town?
+   > **中文**：你在城里怎么出行？
 
-18. For safety, never drive beyond the speed limit.
-   > **中文**：为了安全起见，驾车时严禁超越法定限速。
+18. Can you come with me to the garage?
+   > **中文**：你能和我一起去车库吗？
 
-19. All cars stopped when seeing the red stop sign.
-   > **中文**：看到停止标志后，所有车辆都停了下来。
+19. Watch out for bikes!
+   > **中文**：小心自行车！
 
-20. The driver sped up to pass the big truck ahead.
-   > **中文**：司机脚踩油门加速，超过了前面的卡车。
+20. I will call you on the way to the office.
+   > **中文**：我会在去办公室的路上给你打电话。
 
 </quiz-listening>
 
@@ -211,26 +204,38 @@ pick up（接人）vs drop off（送人）。get stuck = 被困住。
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| close by | 在附近 / 紧邻 |
-| crosswalk | 人行横道 / 斑马线 |
-| drop off | 送下车 / 下车 |
-| get around | 出行 / 四处走动 |
-| get stuck | 卡住 / 受阻 |
+| back | 后面 / 返回 |
+| busy | 繁忙的 |
+| close by | 就在附近 |
+| come with | 与……一起来 |
+| crosswalk | 人行横道 |
+| drive | 开车 |
+| driven | 开过（drive 的过去分词） |
+| drop | 放下 |
+| drop off | 让……下车 |
+| exit | 出口 |
+| get around | 出行 |
+| get stuck | 被堵住 |
 | lane | 车道 |
 | on the way to | 在去……的路上 |
-| pick up | 接人 / 捡起 |
-| rush hour | 高峰期 / 高峰时段 |
+| pick up | 接人 |
+| rush hour | 高峰期 |
 | slow down | 减速 |
-| slowed | 减速了（slow down的过去式） |
-| sped up | 加速了（speed up的过去式） |
+| slowed | 减速了（slow 的过去式） |
+| sped up | 加速了（speed up 的过去式） |
 | speed limit | 限速 |
 | speed up | 加速 |
-| stop sign | 停止标志 |
-| traffic jam | 交通拥堵 |
+| stop sign | 停车标志 |
+| traffic jam | 堵车 |
 | traffic light | 红绿灯 |
-| watch out | 当心 / 小心 |
-| busy | 繁忙的 |
-| exit | 出口 / 退出 |
+| watch out | 小心 |
+| is | 是（单数） |
+| are | 是（复数） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| you | 你 / 你们 |
+| in | 在……里 |
+| at | 在……（地点） |
 
 </quiz-matching>
 
@@ -238,202 +243,202 @@ pick up（接人）vs drop off（送人）。get stuck = 被困住。
 
 ### 1
 
-Watch out! Slow down during rush hour ____ jam.
+Can you ____ me up at seven?
 
-- [x] traffic
-- [ ] back
-- [ ] busy
+- [x] pick
+- [ ] picks
+- [ ] picking
 
-> **解析**：**traffic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：can 后接动词原形 pick；pick up 是固定短语"接人"。
 
 ### 2
 
-The driver ____ down at the crosswalk and stop sign.
+Please ____ me off at the station.
 
-- [x] slowed
-- [ ] back
-- [ ] busy
+- [x] drop
+- [ ] drops
+- [ ] dropping
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **slowed**。
+> **解析**：祈使句用动词原形 drop；drop off 是固定短语"让人下车"。
 
 ### 3
 
-On the way to the ____, we drove within speed limit.
+She has ____ to the city many times.
 
-- [x] airport
-- [ ] back
-- [ ] busy
+- [x] driven
+- [ ] drove
+- [ ] driving
 
-> **解析**：**airport** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：has 后用过去分词 driven；drove 是过去式，不能与 has 连用。
 
 ### 4
 
-Watch out! The car sped up near the ____ light.
+We got ____ in a traffic jam.
 
-- [x] traffic
-- [ ] back
-- [ ] busy
+- [x] stuck
+- [ ] stick
+- [ ] sticking
 
-> **解析**：**traffic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get stuck 是固定搭配"被堵住"；stick 是原形。
 
 ### 5
 
-On the way to school, parents pick up and ____ off kids.
+The traffic is terrible during ____ hour.
 
-- [x] drop
-- [ ] back
-- [ ] busy
+- [x] rush
+- [ ] rushed
+- [ ] rushing
 
-> **解析**：**drop** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：rush hour 是固定复合词"高峰期"；后两项形式不当。
 
 ### 6
 
-We got stuck in a heavy ____ jam during rush hour.
+Turn right at the next traffic ____.
 
-- [x] traffic
-- [ ] back
-- [ ] busy
+- [x] light
+- [ ] lights
+- [ ] lighting
 
-> **解析**：**traffic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the next 后接单数 traffic light"红绿灯"；lighting 指照明。
 
 ### 7
 
-It is ____ to get around in this big city.
+____ at the stop sign.
 
-- [x] convenient
-- [ ] back
-- [ ] busy
+- [x] Stop
+- [ ] Stopped
+- [ ] Stopping
 
-> **解析**：**convenient** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Stop；后两项形式不当。
 
 ### 8
 
-Please slow down! There is a red ____ light ahead.
+Use the ____ to cross the street.
 
-- [x] traffic
-- [ ] back
-- [ ] busy
+- [x] crosswalk
+- [ ] lane
+- [ ] exit
 
-> **解析**：**traffic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：过街用 crosswalk"人行横道"；lane 和 exit 不是行人过街设施。
 
 ### 9
 
-He stopped before the ____ to let people pass.
+Take the second ____ on the right.
 
-- [x] crosswalk
-- [ ] back
-- [ ] busy
+- [x] exit
+- [ ] exits
+- [ ] exiting
 
-> **解析**：**crosswalk** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the second 后接单数名词 exit；exiting 是动名词。
 
 ### 10
 
-____ rush hour, cars move very slowly on the street.
+Stay in the right ____.
 
-- [x] During
-- [ ] back
-- [ ] busy
+- [x] lane
+- [ ] lanes
+- [ ] laned
 
-> **解析**：**During** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：the right 后接单数名词 lane"车道"；laned 不是此义。
 
 ### 11
 
-Watch out! There is road work on the ____ ahead!
+The speed ____ here is sixty.
 
-- [x] lane
-- [ ] back
-- [ ] busy
+- [x] limit
+- [ ] limits
+- [ ] limiting
 
-> **解析**：**lane** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：speed limit 是固定复合词"限速"；is 配单数。
 
 ### 12
 
-____, we got stuck on the highway in rain.
+____ down near the school.
 
-- [x] Unfortunately
-- [ ] back
-- [ ] busy
+- [x] Slow
+- [ ] Slowed
+- [ ] Slowly
 
-> **解析**：**Unfortunately** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Slow down；Slowly 是副词，不能带 down。
 
 ### 13
 
-I will pick you up at school at five ____.
+The car ____ on the highway yesterday.
 
-- [x] o'clock
-- [ ] back
-- [ ] busy
+- [x] sped up
+- [ ] speed up
+- [ ] speeds up
 
-> **解析**：**o'clock** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 用过去式 sped up；后两项是现在时形式。
 
 ### 14
 
-The driver will ____ off passengers at the airport.
+She ____ at the corner.
 
-- [x] drop
-- [ ] back
-- [ ] busy
+- [x] slowed
+- [ ] slow
+- [ ] slowing
 
-> **解析**：**drop** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述已发生的事用过去式 slowed；slowing 不能单独作谓语。
 
 ### 15
 
-The heavy ____ jam caused many workers to be late.
+This street is very ____ in the morning.
 
-- [x] traffic
-- [ ] back
-- [ ] busy
+- [x] busy
+- [ ] busily
+- [ ] buses
 
-> **解析**：**traffic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 busy；busily 是副词，buses 是名词复数。
 
 ### 16
 
-When the ____ light turned green, cars moved.
+The station is ____.
 
-- [x] traffic
-- [ ] back
-- [ ] busy
+- [x] close by
+- [ ] close to
+- [ ] close with
 
-> **解析**：**traffic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：close by 单独作表语表示"就在附近"；close to 后须接宾语。
 
 ### 17
 
-On the way to the ____, he bought a hot coffee.
+How do you ____ around town?
 
-- [x] office
-- [ ] back
-- [ ] busy
+- [x] get
+- [ ] gets
+- [ ] getting
 
-> **解析**：**office** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：do 后接动词原形 get；get around 是固定短语"出行"。
 
 ### 18
 
-For safety, never ____ beyond the speed limit.
+Can you ____ with me to the garage?
 
-- [x] drive
-- [ ] back
-- [ ] busy
+- [x] come
+- [ ] comes
+- [ ] coming
 
-> **解析**：**drive** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：can 后接动词原形 come；come with 表示同行。
 
 ### 19
 
-All cars ____ when seeing the red stop sign.
+____ out for bikes!
 
-- [x] stopped
-- [ ] back
-- [ ] busy
+- [x] Watch
+- [ ] Watched
+- [ ] Watching
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **stopped**。
+> **解析**：祈使句用动词原形 Watch；watch out for 是固定搭配。
 
 ### 20
 
-The ____ sped up to pass the big truck ahead.
+I'll call you on the ____ to the office.
 
-- [x] driver
-- [ ] back
-- [ ] busy
+- [x] way
+- [ ] path
+- [ ] sidewalk
 
-> **解析**：**driver** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：on the way to 是固定短语"在去……的路上"；后两项不构成此搭配。
 
 </quiz-cloze>

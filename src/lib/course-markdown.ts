@@ -123,22 +123,28 @@ export function validateCourseDocument(document: CourseDocument, file = 'course.
   if (listening && (listening.items.length !== 20 || listening.items.some(item => !item.chinese))) {
     add('Listening 必须正好包含 20 道带中文的题目')
   }
-  const sentences = new Set((listening?.items || []).map(item => normalizeSentence(item.english)))
   const builder = document.quizzes.find((quiz): quiz is SentenceBuilderQuiz => quiz.type === 'sentence-builder')
-  if (builder && (builder.items.length !== 20 || builder.items.some(item => !sentences.has(normalizeSentence(item.english))))) {
-    add('Sentence Builder 必须包含 20 题，且每题复用 Listening 句子')
+  if (builder) {
+    if (builder.items.length !== 20) add('Sentence Builder 必须正好包含 20 题')
+    if (new Set(builder.items.map(item => normalizeSentence(item.english))).size !== builder.items.length) {
+      add('Sentence Builder 英文句子不能重复')
+    }
   }
 
   const cloze = document.quizzes.find((quiz): quiz is ClozeQuiz => quiz.type === 'cloze')
   if (cloze) {
     if (cloze.items.length !== 20) add('Cloze 必须正好包含 20 题')
+    const completed: string[] = []
     for (const item of cloze.items) {
       const correct = item.options.find(option => option.correct)?.text || ''
       if ((item.prompt.match(/____/g) || []).length !== 1 || item.options.length !== 3 || item.options.filter(option => option.correct).length !== 1) {
         add('Cloze 每题必须有一个空位、三个选项和一个正确项')
-      } else if (!sentences.has(normalizeSentence(item.prompt.replace('____', correct)))) {
-        add('Cloze 补全后必须匹配 Listening 句子')
+      } else if (correct) {
+        completed.push(normalizeSentence(item.prompt.replace('____', correct)))
       }
+    }
+    if (new Set(completed).size !== completed.length) {
+      add('Cloze 补全后的句子不能重复')
     }
   }
   const matching = document.quizzes.find((quiz): quiz is MatchingQuiz => quiz.type === 'matching')

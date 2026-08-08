@@ -10,44 +10,35 @@ all grown up, any, back in town, can't complain, catch you up on, compliment, de
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是"和老朋友叙旧"，交际任务是"了解彼此的近况"。词表里有重逢时的典型开场白（how long has it been, back in town, run into, all grown up），有描述生活状态的表达（can't complain, so far, on the whole, overall, things），也有具体话题（kindergarten, overseas, forties, design, expecting）。你可以练习这样的对话：How long has it been? I can't believe you're back in town! / I ran into your mom—she said the kids are all grown up and one is expecting! / So far I'm loving my new job in design. / On the whole, life in my forties is great—I can't complain.
+本单元的主题是"与老朋友叙旧"。词表可以分成四组：重逢开场（run into, back in town, how's, how long has it been, it's been, any）、近况询问与回答（things, going, can't complain, so far, on the whole, overall, expecting）、人生阶段（all grown up, kindergarten, forties, overseas, get used to, liking, loving）、以及互动动作（catch you up on, compliment, promise to, design, get）。拼起来就是一段老友重逢：I ran into an old friend. How long has it been? Let me catch you up on things.
 
-词表里有几个表达"总体评价"的词值得注意：can't complain（没什么好抱怨的，即还不错）、on the whole 和 overall（总的来说）、so far（到目前为止）。这些都是英语中回答"最近怎么样"时的高频表达，比 I'm fine 自然得多。get used to 是"习惯于"，描述适应新状态的过程。
+语法主线是"现在完成时谈时间跨度"。How long has it been?（多久没见了？）与 It's been five years.（五年了。）用 has/have been + 时间段表达"从上次到现在"的间隔，是重逢场景的招牌句型。另一条主线是近况表达的组合拳：How's it going?（过得怎样？）— Can't complain.（还不错。）— So far so good.（目前为止挺好。）三个回答构成地道的寒暄链。
+
+学完这单元，你能用英语和老朋友叙旧：感叹时间流逝、聊聊近况、介绍生活变化，还能约定下次见面。
 
 ## Tips
 
-- **how long has it been** — 好久不见的标准开场白。完整形式：How long has it been since we last met? 口语中常简化为 How long has it been! 搭配：It's been ages! / It's been too long! 注意用现在完成时 has been，强调从过去到现在的时长。
+- **run into / back in town** — 重逢两词。run into 是"偶遇"：I ran into her at the mall. back in town 是"回到城里了"：I'm back in town for a week. ✗ run into 的"撞见"义比 meet by chance 更口语。
 
-- **can't complain** — 还不错、没什么好抱怨的。回答"最近怎么样"时的经典表达：How's it going? — Can't complain! 比 I'm fine 更地道、更随和。暗示"不是完美，但挺好的"。注意是 can't complain，不是 I can't complain（虽然两者都可以）。
+- **how long has it been / it's been** — 时间跨度问答。How long has it been? 问"多久没见了"；It's been ages.（好久好久了。）现在完成时 been 表示从过去持续到现在。
 
-- **back in town** — 回来了、回到这个城市了。搭配：be back in town / get back in town / welcome back in town。例句：I heard you're back in town—we should catch up! 注意 town 不一定指小镇，可以指"你所在的城市"。反义：out of town（不在本地）。
+- **how's / things / going** — 寒暄骨架。How's it going?（近况如何？）省略问法 How's everything? things 泛指"事情、生活"：How are things?（最近怎么样？）
 
-- **run into** — 偶遇、碰见。搭配：run into someone / run into an old friend / I ran into her at the store。例句：I ran into your sister yesterday—she looks great! 比 meet by chance 更口语化。注意和 run into problems（遇到问题）的比喻用法。
+- **can't complain / so far** — 回答两式。Can't complain.（还不错，没啥可抱怨的。）so far 是"到目前为止"：So far, it's great. so far 常与现在完成时搭配。
 
-- **all grown up** — 长大了、成年了。搭配：the kids are all grown up / look how you've grown up / all grown up now。例句：Your little boy is all grown up—he's in kindergarten already! 通常用于感叹孩子长得快，带有怀旧和惊讶的语气。
+- **on the whole / overall** — 总结两词，意义相近"总体而言"：On the whole, life is good. / Overall, I'm happy. 两词都用于概括评价。
 
-- **catch you up on** — 跟你聊聊近况、补上错过的消息。搭配：catch you up on everything / let me catch you up / catch up on the news。例句：We have so much to catch up on—where do I start? 注意 catch up 本身就有"叙旧、补上进度"的意思。
+- **all grown up / kindergarten** — 孩子话题。all grown up 是"都长大了"：The kids are all grown up. kindergarten 是幼儿园，源自德语（Kinder 孩子 + Garten 花园），即"孩子的花园"。
 
-- **get used to** — 习惯于、适应。搭配：get used to something / get used to doing / I'm getting used to it。例句：I'm getting used to living overseas. 注意和 used to do（过去常常做）区分：get used to 强调适应过程，used to do 强调过去的习惯（现在不做了）。
+- **forties / overseas / expecting** — 人生状态。in one's forties 是"四十多岁"：He's in his forties. overseas 是"在海外"：She works overseas. expecting 是"怀孕的"：She's expecting.（她要当妈妈了。）委婉说法。
 
-- **on the whole / overall / so far** — 三个评价性表达。on the whole = 总的来说：On the whole, I'm happy here. overall = 整体上：Overall, things are going well. so far = 到目前为止：So far, so good. 三者都用于给出总体评价，语气从随意到正式。
+- **get used to / liking / loving** — 适应与喜爱。get used to 是"逐渐习惯"，后接名词或动名词：I'm getting used to the weather. liking 和 loving 用于进行时强调当下的喜爱：I'm loving my new job. ✗ 传统语法认为 like/love 不用于进行时，但口语中 I'm loving it 已被广泛接受。
 
-- **overseas** — 海外、国外。搭配：live overseas / work overseas / go overseas。例句：She's been living overseas for five years. 注意 overseas 做副词时不加 to：go overseas（不是 go to overseas）。做形容词：overseas experience / overseas job。
+- **catch you up on / compliment** — 叙旧动作。catch sb up on 是"给某人补近况"：Let me catch you up on everything. compliment 是赞美：Thanks for the compliment.
 
-- **forties** — 四十多岁。搭配：in my forties / in her forties / a man in his forties。例句：Life in your forties is different—you're wiser. 注意用复数 forties，前面加 in one's。类似：in my twenties / in his thirties。
-
-- **expecting** — 怀孕了、即将有宝宝。搭配：be expecting / expecting a baby / she's expecting。例句：Did you hear? Sarah is expecting! 比 pregnant 更委婉、更礼貌。注意 expecting 后面通常不直接接宾语（不说 expecting a child 也可以，但更常说 expecting）。
-
-- **kindergarten** — 幼儿园。来自德语（Kinder = 孩子，Garten = 花园），字面意思是"儿童的花园"。搭配：start kindergarten / in kindergarten / a kindergarten teacher。在美国指 5-6 岁儿童的学前班，是正式学校体系的一部分。
-
-- **loving / liking** — 两个表达喜爱的词，但 loving 比 liking 更强烈、更热情。I'm loving my new job!（我超爱我的新工作！）I'm liking the design so far.（我目前挺喜欢这个设计的。）注意 love 和 like 通常不用于进行时，但口语中 I'm loving it 已经非常普遍（麦当劳的 I'm lovin' it 就是例子）。
-
-- **compliment** — 赞美、恭维。搭配：give a compliment / take a compliment / pay someone a compliment。例句：She complimented my design work. 注意和 complement（补充、搭配）拼写相近但意思不同：compliment 有 i，complement 有 e。
-
-- **things** — 这里指"生活状况、近况"（复数）。搭配：How are things? / Things are going well. / Things have been busy. 例句：So, how are things? — Can't complain! 口语中 things 常用来泛指生活的方方面面，比 life 更随意。
+- **promise to / design / any / get** — 收尾功能词。promise to 是"答应做…"：Promise to call me. design 是设计；any 用于疑问否定：Do you have any news? get 万能动词。
 
 ## 练习
 
@@ -65,149 +56,149 @@ all grown up, any, back in town, can't complain, catch you up on, compliment, de
 
 <quiz-sentence-builder>
 
-1. **中文**：自从我们上次见面，过了多久了？
-   **英文**：How long has it been since we last saw each other?
-   > **解析**：how long has it been 常用于句首，表示开场白“好久不见/过了多久了”。
+1. **中文**：我在商场偶遇了一位老朋友。
+   **英文**：I ran into an old friend at the mall.
+   > **解析**：ran 是 run 的过去式；run into 是固定短语"偶遇"。
 
-2. **中文**：我听说你这次假期回到城里了。
-   **英文**：I heard you are back in town for the holiday.
-   > **解析**：back in town 表示回到城市、回来了。
+2. **中文**：我回城待一周。
+   **英文**：I'm back in town for a week.
+   > **解析**：back in town 作表语；for a week 是时间段状语。
 
-3. **中文**：你的新工作最近怎么样？
-   **英文**：How's it going with your new job?
-   > **解析**：How's it going 为口语问候表达，意为“最近怎么样”。
+3. **中文**：我们多久没见了？
+   **英文**：How long has it been?
+   > **解析**：How long 提问时间跨度；has been 是现在完成时。
 
-4. **中文**：我现在的生活挺好的，没什么可抱怨的。
-   **英文**：I can't complain about my life right now.
-   > **解析**：can't complain 相当于生活还不错，没什么可抱怨的。
+4. **中文**：已经五年了。
+   **英文**：It's been five years.
+   > **解析**：It's been 是 It has been 的缩写；five years 作表语。
 
-5. **中文**：我昨天在超市偶遇了你的姐姐。
-   **英文**：I ran into your sister at the supermarket yesterday.
-   > **解析**：run into 表示偶遇、碰见。
+5. **中文**：最近怎么样？
+   **英文**：How's it going?
+   > **解析**：How's 是 How is 的缩写；it going 构成现在进行时寒暄句。
 
-6. **中文**：你的孩子们现在都已经长大了！
-   **英文**：Your children are all grown up now!
-   > **解析**：all grown up 表示全长大了、成年的。
+6. **中文**：还不错。
+   **英文**：Can't complain.
+   > **解析**：省略句，完整为 I can't complain；口语寒暄常用。
 
-7. **中文**：让我来跟你聊聊最近的所有新闻近况吧。
-   **英文**：Let me catch you up on all the recent news.
-   > **解析**：catch someone up on 表示向某人介绍/补上最新消息或近况。
+7. **中文**：到目前为止一切都好。
+   **英文**：So far, things are going well.
+   > **解析**：So far 作状语放句首；things 复数主语搭配 are going。
 
-8. **中文**：我正在慢慢适应乡村安静的生活。
-   **英文**：I am getting used to the quiet life in the countryside.
-   > **解析**：get used to 表示习惯于、适应某事。
+8. **中文**：总体而言，生活不错。
+   **英文**：On the whole, life is good.
+   > **解析**：On the whole 作总结状语；life 是单数主语，用 is。
 
-9. **中文**：她已经在海外生活了五年。
-   **英文**：She has been living overseas for five years.
-   > **解析**：overseas 为副词，意为在海外、在国外。
+9. **中文**：总的来说我很开心。
+   **英文**：Overall, I'm happy.
+   > **解析**：Overall 副词放句首作总结；I'm happy 是主系表结构。
 
-10. **中文**：四十多岁时的生活感觉平静多了。
-   **英文**：Life in my forties feels much more peaceful.
-   > **解析**：forties 加上物主代词表示四十多岁这一年龄段。
+10. **中文**：孩子们都长大了。
+   **英文**：The kids are all grown up.
+   > **解析**：are 与复数主语 kids 搭配；all grown up 作表语。
 
-11. **中文**：你听说莎拉即将有宝宝了吗？
-   **英文**：Did you hear that Sarah is expecting a baby?
-   > **解析**：expecting 委婉地表达“怀孕了、即将有宝宝”。
+11. **中文**：他四十多岁了。
+   **英文**：He is in his forties.
+   > **解析**：in one's forties 是固定表达"四十多岁"；forties 用复数。
 
-12. **中文**：我最小的儿子今年秋天刚上幼儿园。
-   **英文**：My youngest son just started kindergarten this fall.
-   > **解析**：kindergarten 指幼儿园/学前班。
+12. **中文**：她在海外工作。
+   **英文**：She works overseas.
+   > **解析**：works 与 She 一致；overseas 是副词，前面不加介词。
 
-13. **中文**：我非常喜欢我在平面设计领域的新岗位。
-   **英文**：I'm loving my new role in graphic design.
-   > **解析**：loving 口语中表达“超爱、非常喜欢”。
+13. **中文**：她有喜了。
+   **英文**：She is expecting.
+   > **解析**：expecting 作形容词化的现在分词表示"怀孕"；is expecting 构成进行时。
 
-14. **中文**：到目前为止我很喜欢这个新公寓的布局。
-   **英文**：I'm liking the new apartment layout so far.
-   > **解析**：liking 表示“挺喜欢的”。
+14. **中文**：我正在习惯这里的天气。
+   **英文**：I'm getting used to the weather here.
+   > **解析**：get used to 后接名词；getting 表示逐渐变化。
 
-15. **中文**：总的来说，那次旅行取得了巨大成功。
-   **英文**：On the whole, the trip was a huge success.
-   > **解析**：on the whole 表示“总的来说”。
+15. **中文**：我喜欢我的新工作。
+   **英文**：I'm loving my new job.
+   > **解析**：am loving 用进行时强调当下的感受；my new job 作宾语。
 
-16. **中文**：整体上来看，我们的近况都非常好。
-   **英文**：Overall, things are going very well for us.
-   > **解析**：overall 副词，表示整体上、总地来看。
+16. **中文**：让我给你补补近况。
+   **英文**：Let me catch you up on everything.
+   > **解析**：Let me 后接动词原形；catch sb up on 是固定短语。
 
-17. **中文**：到目前为止，一切都在顺畅地进行。
-   **英文**：So far, everything has been going smoothly.
-   > **解析**：so far 表示“到目前为止”。
+17. **中文**：谢谢你的夸奖。
+   **英文**：Thanks for the compliment.
+   > **解析**：Thanks for + 名词表示感谢的原因。
 
-18. **中文**：她对我的演讲给出了非常美好的赞美。
-   **英文**：She gave me a lovely compliment on my presentation.
-   > **解析**：compliment 表示赞美、恭维。
+18. **中文**：答应我给我打电话。
+   **英文**：Promise to call me.
+   > **解析**：祈使句；promise to + 动词原形。
 
-19. **中文**：你和你的家人最近近况如何？
-   **英文**：How are things going with your family?
-   > **解析**：things 在复数形式下常泛指生活近况。
+19. **中文**：她设计了这个花园。
+   **英文**：She designed this garden.
+   > **解析**：designed 是 design 的过去式；this garden 作宾语。
 
-20. **中文**：我答应下次来的时候一定拜访你。
-   **英文**：I promise to visit you the next time I come back.
-   > **解析**：promise to 表示承诺、答应做某事。
+20. **中文**：你有什么新消息吗？
+   **英文**：Do you have any news?
+   > **解析**：一般疑问句 Do 开头；any 用于疑问句修饰 news。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. How long has it been since we last saw each other?
-   > **中文**：自从我们上次见面，过了多久了？
+1. I ran into an old friend at the mall.
+   > **中文**：我在商场偶遇了一位老朋友。
 
-2. I heard you are back in town for the holiday.
-   > **中文**：我听说你这次假期回到城里了。
+2. I'm back in town for a week.
+   > **中文**：我回城待一周。
 
-3. How's it going with your new job?
-   > **中文**：你的新工作最近怎么样？
+3. How long has it been?
+   > **中文**：我们多久没见了？
 
-4. I can't complain about my life right now.
-   > **中文**：我现在的生活挺好的，没什么可抱怨的。
+4. It's been five years.
+   > **中文**：已经五年了。
 
-5. I ran into your sister at the supermarket yesterday.
-   > **中文**：我昨天在超市偶遇了你的姐姐。
+5. How's it going?
+   > **中文**：最近怎么样？
 
-6. Your children are all grown up now!
-   > **中文**：你的孩子们现在都已经长大了！
+6. Can't complain.
+   > **中文**：还不错。
 
-7. Let me catch you up on all the recent news.
-   > **中文**：让我来跟你聊聊最近的所有新闻近况吧。
+7. So far, things are going well.
+   > **中文**：到目前为止一切都好。
 
-8. I am getting used to the quiet life in the countryside.
-   > **中文**：我正在慢慢适应乡村安静的生活。
+8. On the whole, life is good.
+   > **中文**：总体而言，生活不错。
 
-9. She has been living overseas for five years.
-   > **中文**：她已经在海外生活了五年。
+9. Overall, I'm happy with the change.
+   > **中文**：总的来说，我对这个改变很满意。
 
-10. Life in my forties feels much more peaceful.
-   > **中文**：四十多岁时的生活感觉平静多了。
+10. The kids are all grown up.
+   > **中文**：孩子们都长大了。
 
-11. Did you hear that Sarah is expecting a baby?
-   > **中文**：你听说莎拉即将有宝宝了吗？
+11. He is in his forties.
+   > **中文**：他四十多岁了。
 
-12. My youngest son just started kindergarten this fall.
-   > **中文**：我最小的儿子今年秋天刚上幼儿园。
+12. She works overseas.
+   > **中文**：她在海外工作。
 
-13. I'm loving my new role in graphic design.
-   > **中文**：我非常喜欢我在平面设计领域的新岗位。
+13. She is expecting.
+   > **中文**：她有喜了。
 
-14. I'm liking the new apartment layout so far.
-   > **中文**：到目前为止我很喜欢这个新公寓的布局。
+14. I'm getting used to the weather here.
+   > **中文**：我正在习惯这里的天气。
 
-15. On the whole, the trip was a huge success.
-   > **中文**：总的来说，那次旅行取得了巨大成功。
+15. I'm loving my new job.
+   > **中文**：我喜欢我的新工作。
 
-16. Overall, things are going very well for us.
-   > **中文**：整体上来看，我们的近况都非常好。
+16. Let me catch you up on everything.
+   > **中文**：让我给你补补近况。
 
-17. So far, everything has been going smoothly.
-   > **中文**：到目前为止，一切都在顺畅地进行。
+17. Thanks for the compliment.
+   > **中文**：谢谢你的夸奖。
 
-18. She gave me a lovely compliment on my presentation.
-   > **中文**：她对我的演讲给出了非常美好的赞美。
+18. Promise to call me.
+   > **中文**：答应我给我打电话。
 
-19. How are things going with your family?
-   > **中文**：你和你的家人最近近况如何？
+19. She designed this garden.
+   > **中文**：她设计了这个花园。
 
-20. I promise to visit you the next time I come back.
-   > **中文**：我答应下次来的时候一定拜访你。
+20. Do you have any news?
+   > **中文**：你有什么新消息吗？
 
 </quiz-listening>
 
@@ -215,26 +206,40 @@ all grown up, any, back in town, can't complain, catch you up on, compliment, de
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| how long has it been | 多久没见了 / 过了多久 |
-| back in town | 回到城里 / 回来了 |
-| can't complain | 挺好的 / 没什么可抱怨的 |
-| run into | 偶遇 / 碰见 |
-| all grown up | 长大了 / 成年了 |
-| catch you up on | 跟你叙旧 / 聊聊近况 |
-| get used to | 习惯于 / 适应 |
-| overseas | 海外 / 国外 |
-| forties | 四十多岁 |
-| expecting | 怀孕了 / 即将有宝宝 |
-| kindergarten | 幼儿园 |
-| loving | 非常喜欢 |
-| liking | 挺喜欢 |
-| on the whole | 总的来说 |
-| overall | 整体上 / 总地来看 |
-| so far | 到目前为止 |
-| compliment | 赞美 / 恭维 |
-| things | 生活状况 / 近况 |
-| promise to | 承诺做…… / 答应做…… |
+| all grown up | 都长大了 |
+| any | 任何 |
+| back in town | 回到城里 |
+| can't complain | 还不错 |
+| catch you up on | 给你补近况 |
+| compliment | 赞美 |
 | design | 设计 |
+| expecting | 怀孕的 |
+| forties | 四十多岁 |
+| get | 变得 / 得到 |
+| get used to | 逐渐习惯 |
+| going | 进行 / 去 |
+| how long has it been | 多久没…了 |
+| how's | …怎么样 |
+| it's been | 已经…了 |
+| kindergarten | 幼儿园 |
+| liking | 喜欢着 |
+| loving | 热爱着 |
+| on the whole | 总体而言 |
+| overall | 总的来说 |
+| overseas | 在海外 |
+| promise to | 答应做… |
+| run into | 偶遇 |
+| so far | 到目前为止 |
+| things | 事情 / 生活 |
+| is | 是 |
+| the | 这个（定冠词） |
+| friend | 朋友 |
+| mall | 商场 |
+| news | 消息 |
+| job | 工作 |
+| garden | 花园 |
+| kids | 孩子们 |
+| weather | 天气 |
 
 </quiz-matching>
 
@@ -242,202 +247,202 @@ all grown up, any, back in town, can't complain, catch you up on, compliment, de
 
 ### 1
 
-How long has it been ____ we last saw each other?
+I ran ____ an old friend at the mall.
 
-- [x] since
-- [ ] all grown up
-- [ ] any
+- [x] into
+- [ ] in
+- [ ] up
 
-> **解析**：**since** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：run into 是固定短语"偶遇"；run in 和 run up 不合该义。
 
 ### 2
 
-I heard you are back in town for the ____.
+I'm back in ____ for a week.
 
-- [x] holiday
-- [ ] all grown up
-- [ ] any
+- [x] town
+- [ ] forties
+- [ ] things
 
-> **解析**：**holiday** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：back in town（回到城里）是固定搭配；forties 和 things 不合。
 
 ### 3
 
-____ it going with your new job?
+How long has it ____?
 
-- [x] How's
-- [ ] all grown up
-- [ ] any
+- [x] been
+- [ ] be
+- [ ] being
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **How's**。
+> **解析**：has 后接过去分词 been；be 和 being 不合完成时结构。
 
 ### 4
 
-I can't ____ about my life right now.
+It's ____ five years.
 
-- [x] complain
-- [ ] all grown up
-- [ ] any
+- [x] been
+- [ ] going
+- [ ] getting
 
-> **解析**：**complain** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：It's been（已经…了）是现在完成时；going 和 getting 不合该句型。
 
 ### 5
 
-I ran into your sister at the ____ yesterday.
+How's it ____?
 
-- [x] supermarket
-- [ ] all grown up
-- [ ] any
+- [x] going
+- [ ] gone
+- [ ] go
 
-> **解析**：**supermarket** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：How's it going 是固定寒暄句，用进行时 going；gone 和 go 不合。
 
 ### 6
 
-Your ____ are all grown up now!
+So ____, things are going well.
 
-- [x] children
-- [ ] all grown up
-- [ ] any
+- [x] far
+- [ ] long
+- [ ] whole
 
-> **解析**：**children** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：so far（到目前为止）是固定短语；long 和 whole 不合。
 
 ### 7
 
-Let me catch you up on all the ____ news.
+On the ____, life is good.
 
-- [x] recent
-- [ ] all grown up
-- [ ] any
+- [x] whole
+- [ ] all
+- [ ] things
 
-> **解析**：**recent** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：on the whole（总体而言）是固定短语；all 和 things 不合。
 
 ### 8
 
-I am getting used to the quiet life in the ____.
+____, I'm happy with the change.
 
-- [x] countryside
-- [ ] all grown up
-- [ ] any
+- [x] Overall
+- [ ] Overseas
+- [ ] Kindergarten
 
-> **解析**：**countryside** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：作总结状语用 Overall；Overseas 和 Kindergarten 不合句首总结位置。
 
 ### 9
 
-She has been living ____ for five years.
+The kids are all grown ____.
 
-- [x] overseas
-- [ ] all grown up
-- [ ] any
+- [x] up
+- [ ] in
+- [ ] on
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **overseas**。
+> **解析**：grow up 的完成形式 grown up（长大）；in 和 on 不合。
 
 ### 10
 
-Life in my ____ feels much more peaceful.
+He is in his ____.
 
 - [x] forties
-- [ ] all grown up
-- [ ] any
+- [ ] forties year
+- [ ] forty's
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **forties**。
+> **解析**：in one's forties 表"四十多岁"用复数形式；其余形式不成立。
 
 ### 11
 
-Did you hear that Sarah is ____ a baby?
+She works ____.
 
-- [x] expecting
-- [ ] all grown up
-- [ ] any
+- [x] overseas
+- [ ] oversea
+- [ ] over seas
 
-> **解析**：**expecting** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：overseas 作副词固定拼写；其余形式不成立。
 
 ### 12
 
-My youngest son just started ____ this fall.
+She is ____.
 
-- [x] kindergarten
-- [ ] all grown up
-- [ ] any
+- [x] expecting
+- [ ] expect
+- [ ] expected it
 
-> **解析**：**kindergarten** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is expecting 表"怀孕"用进行时；expect 原形不合，expected it 结构不合。
 
 ### 13
 
-I'm ____ my new role in graphic design.
+I'm getting used ____ the weather here.
 
-- [x] loving
-- [ ] all grown up
-- [ ] any
+- [x] to
+- [ ] for
+- [ ] of
 
-> **解析**：**loving** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：get used to 是固定搭配"习惯"；for 和 of 不合。
 
 ### 14
 
-I'm ____ the new apartment layout so far.
+I'm ____ my new job.
 
-- [x] liking
-- [ ] all grown up
-- [ ] any
+- [x] loving
+- [ ] love
+- [ ] loved to
 
-> **解析**：**liking** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：am + 现在分词 loving 构成进行时；love 原形和 loved to 不合。
 
 ### 15
 
-On the whole, the trip was a huge ____.
+Let me catch you up ____ everything.
 
-- [x] success
-- [ ] all grown up
-- [ ] any
+- [x] on
+- [ ] to
+- [ ] for
 
-> **解析**：**success** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：catch sb up on 是固定短语"补近况"；to 和 for 不合。
 
 ### 16
 
-____, things are going very well for us.
+Thanks for the ____.
 
-- [x] Overall
-- [ ] all grown up
-- [ ] any
+- [x] compliment
+- [ ] kindergarten
+- [ ] forties
 
-> **解析**：**Overall** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：感谢的对象是 compliment（赞美）；kindergarten 和 forties 不合语境。
 
 ### 17
 
-So far, everything has been ____ smoothly.
+Promise ____ call me.
 
-- [x] going
-- [ ] all grown up
-- [ ] any
+- [x] to
+- [ ] for
+- [ ] of
 
-> **解析**：**going** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：promise to + 动词原形是固定结构；for 和 of 不合。
 
 ### 18
 
-She gave me a lovely ____ on my presentation.
+She ____ this garden.
 
-- [x] compliment
-- [ ] all grown up
-- [ ] any
+- [x] designed
+- [ ] design
+- [ ] designing
 
-> **解析**：**compliment** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句意需要谓语过去式 designed；design 原形和 designing 不合。
 
 ### 19
 
-How are ____ going with your family?
+Do you have ____ news?
 
-- [x] things
-- [ ] all grown up
-- [ ] any
+- [x] any
+- [ ] some
+- [ ] no
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **things**。
+> **解析**：疑问句用 any；some 用于肯定句，no 与 Do 构成双重否定。
 
 ### 20
 
-I ____ to visit you the next time I come back.
+The little one is in ____.
 
-- [x] promise
-- [ ] all grown up
-- [ ] any
+- [x] kindergarten
+- [ ] forties
+- [ ] overseas
 
-> **解析**：**promise** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：小朋友上的是 kindergarten（幼儿园）；forties 和 overseas 不合。
 
 </quiz-cloze>

@@ -10,32 +10,31 @@ any, anything, beaten, been, choose to, freeze, froze, frozen, hear that, in com
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元让你谈论运动经历，核心是现在完成时的经验表达：Have you ever been beaten in a game? I've never been skiing, but I'd like to start to learn.（你在比赛中输过吗？我从没滑过雪，但想开始学。）Do you have anything in common with the others?（你跟其他人有什么共同点吗？）
+本单元的主题是"聊运动经历与体验"。词表可以分成三组：运动与经历（sports, interest, in common, others, beaten, been, never been）、动作与变化（freeze, froze, frozen, start to, choose to, stop by）、以及语气与功能词（hear that, typically, well, will, any, anything）。串起来就是一段运动闲聊：Have you ever been beaten at tennis? I typically play on weekends, and anything is better than sitting at home.
 
-词表围绕运动和经历展开。beaten 是 beat（打败）的过去分词，been 是 be 的过去分词，两者在完成时中高频出现。freeze / froze / frozen 展示了不规则动词的三态变化，虽然和运动不直接相关，但可能用来描述户外运动中的天气：It froze last night, so the lake is frozen.（昨晚结冰了，所以湖面冻住了。）
+语法主线有两条。第一是现在完成时谈经历：have/has + 过去分词。Have you been to the stadium? I have never been beaten by him. beaten 是 beat 的过去分词（beat—beat—beaten），never been 表示"从未去过/经历过"。第二是不规则动词三态记忆：freeze—froze—frozen，The lake froze in January. My fingers are frozen.
 
-in common 是谈论共同爱好的核心搭配：We have sports in common. typically 表示"通常"，比 usually 更强调典型性。choose to 和 start to 表达意愿和开始：I choose to play sports because it's interesting. hear that 是口语中回应消息的常用语：I heard that you won! Well done!
+学完本单元，你能用英语谈论运动经历、描述天气对运动的影响、表达开始或选择做某事，也能自然地回应"你听说过吗"这类话题。
 
 ## Tips
 
-- **beaten / been** — beaten 是 beat 的过去分词（beat / beat / beaten）：I've never been beaten. been 是 be 的过去分词。在完成时中，have been + 地点 = 去过：Have you been to the gym? 注意区分 have been to（去过已回）和 have gone to（去了未回）。
+- **been / never been / beaten** — 完成时的核心。been 是 be 的过去分词：I have been to the gym. never been 表"从未"：I have never been skiing. beaten 是 beat 的过去分词（beat—beat—beaten）：Our team has never been beaten.
 
-- **freeze / froze / frozen** — 不规则动词三态：freeze（现在）/ froze（过去）/ frozen（过去分词）。The river froze in winter. / The ground is frozen. 也可比喻"愣住"：I froze when I saw the bear.
+- **freeze / froze / frozen** — 不规则三态。freeze 是原形"结冰、冻住"，froze 是过去式：The river froze overnight. frozen 是过去分词，常作形容词：frozen food / My hands are frozen.
 
-- **in common / others** — have something in common = 有共同点。搭配：We have a lot in common. / What do you have in common? others = 其他人/事物，是 other 的复数代词形式，不需要再加名词。
+- **sports / interest / in common** — 运动话题三词。sports 泛指"运动"。interest 是"兴趣"：take an interest in。in common 是"共同点"：We have a lot in common.
 
-- **typically / well** — typically 比 usually 更强调"典型地、有代表性地"：He typically arrives late. well 既可作副词（play well）也可作感叹词（Well, let me think.）或形容词（I'm well = 我身体好）。
+- **choose to / start to** — choose to do 是"选择做"：I choose to run in the morning. start to do 是"开始做"：She started to play tennis last year. 两者后都接不定式。
 
-- **choose to / start to / interest** — choose to 强调主动选择（比 decide to 更突出意愿）。start to = begin to。interest 在此可能是名词：I have an interest in sports. 也可作动词：Sports interest me.
+- **stop by** — "顺道拜访"：Stop by the court after work. 与 stop doing（停止做）不同。
 
-- **never been / any / anything** — never been 是"从没去过/做过"：I've never been surfing. any 和 anything 常用于否定句和疑问句：Do you have any experience? / I haven't done anything like that.
+- **others** — "其他人/其他事物"，泛指：Some like soccer; others prefer tennis. 注意 other（形容词）、others（代词）、the others（其余全部）的区分。
 
-- **stop by / hear that / will** — stop by = 顺便来：Stop by the game sometime! hear that 常用于转述消息：Did you hear that she won? will 在此可表意愿或将来：I will try a new sport.
+- **any / anything** — any 多用于否定句和疑问句：Do you have any equipment? anything 是"任何事物"，常用于疑问和否定：I can't do anything today. 肯定句中 anything 表示"任何一样都行"：Anything is fine.
 
-- **sports** — sport 的复数。美式英语中 sports 更常用（sports fan, sports car），英式英语中单数 sport 也可以：I like sport. 注意 sports 作形容词时不加 s：a sports event（不是 a sport event）。
+- **hear that / typically / well / will** — hear that 是"听说"：I heard that she won. typically 是"通常"。well 作副词是"好"：play well；作感叹词表"嗯、这个嘛"。will 表将来或意愿：I will join you.
 
 ## 练习
 
@@ -53,149 +52,149 @@ in common 是谈论共同爱好的核心搭配：We have sports in common. typic
 
 <quiz-sentence-builder>
 
-1. **中文**：你以前曾经去过纽约市观光吗？
-   **英文**：Have you ever been to New York City for sightseeing?
-   > **解析**：have you ever been to 表示“你以前去过……吗”。
+1. **中文**：你去过那个体育馆吗？
+   **英文**：Have you been to that stadium?
+   > **解析**：现在完成时提问经历；been to 表示"去过"。
 
-2. **中文**：我们队在最后的决胜局中击败了冠军队。
-   **英文**：Our basketball team has beaten the champions in the finals.
-   > **解析**：beaten 是 beat 的过去分词，意为“击败/胜过”。
+2. **中文**：我从没滑过雪。
+   **英文**：I have never been skiing.
+   > **解析**：never 放在 have 和过去分词之间；been skiing 表示经历。
 
-3. **中文**：有些学生选择在寒假期间去图书馆学习。
-   **英文**：Many students choose to study at the library during break.
-   > **解析**：choose to 表示“选择去做……”。
+3. **中文**：我们的队伍从未被击败过。
+   **英文**：Our team has never been beaten.
+   > **解析**：has been beaten 是现在完成时的被动；beaten 是 beat 的过去分词。
 
-4. **中文**：把新鲜的肉类存放在冰箱里以防变质。
-   **英文**：Keep fresh meat in the freezer so it doesn't freeze quickly.
-   > **解析**：freeze 表示“结冰/冻结”。
+4. **中文**：河面一夜之间结冰了。
+   **英文**：The river froze overnight.
+   > **解析**：froze 是 freeze 的过去式；overnight 是时间状语。
 
-5. **中文**：昨天夜里气温骤降，湖水结冰了。
-   **英文**：The water froze completely when temperature dropped overnight.
-   > **解析**：froze 是 freeze 的过去式，表示“结冰了”。
+5. **中文**：我的手冻僵了。
+   **英文**：My hands are frozen.
+   > **解析**：frozen 作形容词表状态；are 是系动词。
 
-6. **中文**：超市售卖各种各样的速冻食品和蔬菜。
-   **英文**：The grocery store sells many kinds of frozen vegetables.
-   > **解析**：frozen 表示“冰冻的/冷冻的”。
+6. **中文**：我选择早上跑步。
+   **英文**：I choose to run in the morning.
+   > **解析**：choose to do 是"选择做某事"；to run 是不定式。
 
-7. **中文**：听说你拿到了全额奖学金，恭喜你！
-   **英文**：I was happy to hear that you won the full scholarship.
-   > **解析**：hear that 表示“听到那个消息/听说”。
+7. **中文**：她去年开始打网球。
+   **英文**：She started to play tennis last year.
+   > **解析**：start to do 是"开始做"；last year 提示过去时。
 
-8. **中文**：我和我的新室友在音乐方面有很多共同之处。
-   **英文**：My roommate and I have a lot in common when it comes to music.
-   > **解析**：in common 表示“共同之处/共通点”。
+8. **中文**：我们有很多共同点。
+   **英文**：We have a lot in common.
+   > **解析**：have ... in common 是固定搭配，表示"有共同点"。
 
-9. **中文**：他对古代中国历史表现出了极大的兴趣。
-   **英文**：He showed a great interest in learning traditional history.
-   > **解析**：interest 表示“兴趣/关注”。
+9. **中文**：他对篮球很感兴趣。
+   **英文**：He takes an interest in basketball.
+   > **解析**：take an interest in 是固定搭配；basketball 作宾语。
 
-10. **中文**：我从来没有去过欧洲，希望明年能去一趟。
-   **英文**：I have never been to Europe, but I hope to visit next year.
-   > **解析**：never been 表示“从未去过”。
+10. **中文**：有些人喜欢足球，其他人喜欢网球。
+   **英文**：Some like soccer; others prefer tennis.
+   > **解析**：others 是代词，泛指"其他人"；分号连接两个并列分句。
 
-11. **中文**：要懂得尊重他人的观点和生活习惯。
-   **英文**：Always show respect for the opinions of others around you.
-   > **解析**：others 表示“其他人/其他人事物”。
+11. **中文**：下班后顺道来球场吧。
+   **英文**：Stop by the court after work.
+   > **解析**：stop by 是"顺道拜访"；祈使句用动词原形。
 
-12. **中文**：参加户外体育运动是保持健康的极佳方式。
-   **英文**：Playing outdoor sports is a fun way to stay healthy.
-   > **解析**：sports 表示“体育运动”。
+12. **中文**：我听说她赢了比赛。
+   **英文**：I heard that she won the match.
+   > **解析**：hear that 引导宾语从句；heard 是过去式。
 
-13. **中文**：当音乐响起时，大家开始跳舞。
-   **英文**：When the music played, people start to dance together.
-   > **解析**：start to 表示“开始做……”。
+13. **中文**：我通常在周末打球。
+   **英文**：I typically play on weekends.
+   > **解析**：typically 是频率副词；on weekends 是时间状语。
 
-14. **中文**：请在今晚下班回家顺路拜访我们家。
-   **英文**：Feel free to stop by our house on your way home.
-   > **解析**：stop by 表示“顺路拜访/串门”。
+14. **中文**：你打得很好。
+   **英文**：You play well.
+   > **解析**：well 是副词，修饰动词 play。
 
-15. **中文**：他通常会在清晨六点准时醒来。
-   **英文**：He typically gets up early at six o'clock every morning.
-   > **解析**：typically 表示“通常地/典型地”。
+15. **中文**：我会加入你们的。
+   **英文**：I will join you.
+   > **解析**：will 表意愿或将来；join 用原形。
 
-16. **中文**：她在公开演讲方面表现得非常好。
-   **英文**：She did very well on her English presentation today.
-   > **解析**：well 表示“很好地/出色地”。
+16. **中文**：你有任何装备吗？
+   **英文**：Do you have any equipment?
+   > **解析**：疑问句中用 any 修饰不可数名词。
 
-17. **中文**：我们下个月将举办一场大型社区文化节。
-   **英文**：We will host a neighborhood festival next month.
-   > **解析**：will 表示“将要/将会”。
+17. **中文**：我今天什么都不能做。
+   **英文**：I can't do anything today.
+   > **解析**：否定句中用 anything；can't 后接原形。
 
-18. **中文**：你今天在办公室里遇到任何困难了吗？
-   **英文**：Did you experience any difficulty during your work today?
-   > **解析**：any 用于疑问句表示“任何”。
+18. **中文**：做任何运动都比待着好。
+   **英文**：Anything is better than doing nothing.
+   > **解析**：anything 作主语表示"任何事"；than 引导比较。
 
-19. **中文**：如果需要任何帮助，请随时告诉我。
-   **英文**：If there is anything I can do, please let me know.
-   > **解析**：anything 表示“任何事/任何东西”。
+19. **中文**：嗯，那听起来不错。
+   **英文**：Well, that sounds good.
+   > **解析**：well 作感叹词开场；sounds 是三单形式。
 
-20. **中文**：他在这个知名公司工作已经是很多年了。
-   **英文**：He has been a reliable employee in this company for years.
-   > **解析**：been 是 be 的过去分词，has been 表示“已经是”。
+20. **中文**：你以前赢过他吗？
+   **英文**：Have you ever beaten him?
+   > **解析**：have beaten 是完成时；ever 加强"曾经"语气。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Have you ever been to New York City for sightseeing?
-   > **中文**：你以前曾经去过纽约市观光吗？
+1. Have you been to the stadium?
+   > **中文**：你去过那个体育馆吗？
 
-2. Our basketball team has beaten the champions in the finals.
-   > **中文**：我们队在最后的决胜局中击败了冠军队。
+2. I have never been skiing.
+   > **中文**：我从没滑过雪。
 
-3. Many students choose to study at the library during break.
-   > **中文**：有些学生选择在寒假期间去图书馆学习。
+3. Our team has never been beaten.
+   > **中文**：我们队从未被击败过。
 
-4. Keep fresh meat in the freezer so it doesn't freeze quickly.
-   > **中文**：把新鲜的肉类存放在冰箱里以防变质。
+4. The lake froze in January.
+   > **中文**：湖面在一月结冰了。
 
-5. The water froze completely when temperature dropped overnight.
-   > **中文**：昨天夜里气温骤降，湖水结冰了。
+5. My fingers are frozen.
+   > **中文**：我的手指冻僵了。
 
-6. The grocery store sells many kinds of frozen vegetables.
-   > **中文**：超市售卖各种各样的速冻食品和蔬菜。
+6. I choose to train early.
+   > **中文**：我选择早训练。
 
-7. I was happy to hear that you won the full scholarship.
-   > **中文**：听说你拿到了全额奖学金，恭喜你！
+7. She started to run last spring.
+   > **中文**：她去年春天开始跑步。
 
-8. My roommate and I have a lot in common when it comes to music.
-   > **中文**：我和我的新室友在音乐方面有很多共同之处。
+8. We have a lot in common.
+   > **中文**：我们有很多共同点。
 
-9. He showed a great interest in learning traditional history.
-   > **中文**：他对古代中国历史表现出了极大的兴趣。
+9. He takes an interest in sports.
+   > **中文**：他对运动很感兴趣。
 
-10. I have never been to Europe, but I hope to visit next year.
-   > **中文**：我从来没有去过欧洲，希望明年能去一趟。
+10. Some swim; others cycle.
+   > **中文**：有些人游泳，其他人骑车。
 
-11. Always show respect for the opinions of others around you.
-   > **中文**：要懂得尊重他人的观点和生活习惯。
+11. Stop by the gym after work.
+   > **中文**：下班后顺道来健身房吧。
 
-12. Playing outdoor sports is a fun way to stay healthy.
-   > **中文**：参加户外体育运动是保持健康的极佳方式。
+12. I heard that he won.
+   > **中文**：我听说他赢了。
 
-13. When the music played, people start to dance together.
-   > **中文**：当音乐响起时，大家开始跳舞。
+13. I typically jog in the park.
+   > **中文**：我通常在公园慢跑。
 
-14. Feel free to stop by our house on your way home.
-   > **中文**：请在今晚下班回家顺路拜访我们家。
+14. She plays tennis well.
+   > **中文**：她网球打得很好。
 
-15. He typically gets up early at six o'clock every morning.
-   > **中文**：他通常会在清晨六点准时醒来。
+15. I will meet you at noon.
+   > **中文**：我中午和你碰面。
 
-16. She did very well on her English presentation today.
-   > **中文**：她在公开演讲方面表现得非常好。
+16. Do you have any plans?
+   > **中文**：你有什么计划吗？
 
-17. We will host a neighborhood festival next month.
-   > **中文**：我们下个月将举办一场大型社区文化节。
+17. I can't eat anything now.
+   > **中文**：我现在什么都吃不下。
 
-18. Did you experience any difficulty during your work today?
-   > **中文**：你今天在办公室里遇到任何困难了吗？
+18. Anything is possible.
+   > **中文**：一切皆有可能。
 
-19. If there is anything I can do, please let me know.
-   > **中文**：如果需要任何帮助，请随时告诉我。
+19. Well, let's play soccer.
+   > **中文**：嗯，我们去踢足球吧。
 
-20. He has been a reliable employee in this company for years.
-   > **中文**：他在这个知名公司工作已经是很多年了。
+20. Have you ever beaten a champion?
+   > **中文**：你击败过冠军吗？
 
 </quiz-listening>
 
@@ -203,26 +202,47 @@ in common 是谈论共同爱好的核心搭配：We have sports in common. typic
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| beaten | 击败（beat的过去分词） |
-| choose to | 选择去做 |
-| freeze | 结冰 / 冻结 |
-| froze | 结冰了（freeze的过去式） |
-| frozen | 冰冻的 / 冷冻的 |
-| hear that | 听到那个消息 |
-| in common | 共同之处 |
+| any | 任何 |
+| anything | 任何事物 |
+| beaten | 击败（过去分词） |
+| been | 是 / 去过（过去分词） |
+| choose to | 选择做 |
+| freeze | 结冰 / 冻住 |
+| froze | 结冰（过去式） |
+| frozen | 冻僵的 / 结冰的 |
+| hear that | 听说 |
+| in common | 共同点 |
 | interest | 兴趣 |
 | never been | 从未去过 |
-| others | 其他人 / 其他事物 |
-| sports | 体育运动 |
+| others | 其他人 |
+| sports | 运动 |
 | start to | 开始做 |
-| stop by | 顺路拜访 |
-| typically | 通常地 |
-| well | 很好地 |
+| stop by | 顺道拜访 |
+| typically | 通常 |
+| well | 好 / 嗯 |
 | will | 将要 |
-| any | 任何 |
-| anything | 任何事 |
-| been | 去过 / 已经是 |
-| sports | 体育运动 |
+| I | 我 |
+| you | 你 |
+| he | 他 |
+| she | 她 |
+| we | 我们 |
+| some | 一些 |
+| is | 是（单数） |
+| are | 是（复数） |
+| has | 有（三单） |
+| have | 有 |
+| the | 这 / 那（定冠词） |
+| to | 到 / 向 |
+| in | 在……里 |
+| on | 在……上 |
+| after | 在……之后 |
+| than | 比 |
+| gym | 健身房 |
+| stadium | 体育场 |
+| play | 打（球） |
+| match | 比赛 |
+| never | 从不 |
+| ever | 曾经 |
 
 </quiz-matching>
 
@@ -230,202 +250,202 @@ in common 是谈论共同爱好的核心搭配：We have sports in common. typic
 
 ### 1
 
-Have you ever ____ to New York City for sightseeing?
+Have you ever ____ to the new stadium?
 
 - [x] been
-- [ ] any
-- [ ] anything
+- [ ] be
+- [ ] being
 
-> **解析**：**been** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：have 后接过去分词 been；be 是原形，being 不能与 have 构成完成时。
 
 ### 2
 
-Our basketball team has ____ the champions in the finals.
+Our team has never been ____.
 
 - [x] beaten
-- [ ] any
-- [ ] anything
+- [ ] beat
+- [ ] beating
 
-> **解析**：**beaten** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：被动结构 has been + 过去分词 beaten；beat 是原形或过去式，beating 是动名词。
 
 ### 3
 
-Many ____ choose to study at the library during break.
+The pond ____ over last night.
 
-- [x] students
-- [ ] any
-- [ ] anything
+- [x] froze
+- [ ] freeze
+- [ ] frozen
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **students**。
+> **解析**：last night 提示过去时 froze；freeze 是原形，frozen 是过去分词需助动词。
 
 ### 4
 
-Keep fresh meat in the freezer so it doesn't ____ quickly.
+My feet are completely ____.
 
-- [x] freeze
-- [ ] any
-- [ ] anything
+- [x] frozen
+- [ ] froze
+- [ ] freezing
 
-> **解析**：**freeze** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：are 后作表语用过去分词 frozen 表状态；froze 是过去式，freezing 表"极冷的"但此处强调被冻僵的结果状态，且与语境最贴切的是 frozen。
 
 ### 5
 
-The water ____ completely when temperature dropped overnight.
+I ____ to train in the morning.
 
-- [x] froze
-- [ ] any
-- [ ] anything
+- [x] choose
+- [ ] choosing
+- [ ] chose to choosing
 
-> **解析**：**froze** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 I 用动词原形 choose；choosing 不能单独作谓语，第三项结构错误。
 
 ### 6
 
-The grocery store sells many kinds of ____ vegetables.
+She started ____ tennis last year.
 
-- [x] frozen
-- [ ] any
-- [ ] anything
+- [x] to play
+- [ ] play
+- [ ] to playing
 
-> **解析**：**frozen** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：start 后接不定式 to play；play 缺 to，to playing 结构错误。
 
 ### 7
 
-I was happy to hear that you won the full ____.
+We have a lot in ____.
 
-- [x] scholarship
-- [ ] any
-- [ ] anything
+- [x] common
+- [ ] commons
+- [ ] community
 
-> **解析**：**scholarship** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：have ... in common 是固定搭配；commons 和 community 不构成该短语。
 
 ### 8
 
-My ____ and I have a lot in common when it comes to music.
+He takes an ____ in soccer.
 
-- [x] roommate
-- [ ] any
-- [ ] anything
+- [x] interest
+- [ ] interested
+- [ ] interesting
 
-> **解析**：**roommate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：an 后接名词 interest；interested 和 interesting 是形容词。
 
 ### 9
 
-He showed a great ____ in learning traditional history.
+Some like swimming; ____ like running.
 
-- [x] interest
-- [ ] any
-- [ ] anything
+- [x] others
+- [ ] other
+- [ ] another
 
-> **解析**：**interest** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：作主语泛指"其他人"用代词 others；other 是形容词需接名词，another 指单数。
 
 ### 10
 
-I have never ____ to Europe, but I hope to visit next year.
+____ the court after work.
 
-- [x] been
-- [ ] any
-- [ ] anything
+- [x] Stop by
+- [ ] Stop in
+- [ ] Stop to
 
-> **解析**：**been** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：顺道拜访用 stop by + 地点；stop in 不接地点宾语，stop to 后接动词。
 
 ### 11
 
-Always show respect for the opinions of ____ around you.
+I ____ that she joined the league.
 
-- [x] others
-- [ ] any
-- [ ] anything
+- [x] heard
+- [ ] hear
+- [ ] hearing
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **others**。
+> **解析**：叙述过去听说的消息用过去式 heard；主语 I 若用 hear 表现在，但 joined 提示从句为过去，heard 更一致；hearing 不能单独作谓语。
 
 ### 12
 
-Playing outdoor ____ is a fun way to stay healthy.
+I ____ play basketball on Saturdays.
 
-- [x] sports
-- [ ] any
-- [ ] anything
+- [x] typically
+- [ ] typical
+- [ ] typicallly
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **sports**。
+> **解析**：修饰动词 play 用副词 typically；typical 是形容词，typicallly 拼写错误。
 
 ### 13
 
-When the music played, people start to dance ____.
+She sings very ____.
 
-- [x] together
-- [ ] any
-- [ ] anything
+- [x] well
+- [ ] good
+- [ ] wellness
 
-> **解析**：**together** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：修饰动词 sings 用副词 well；good 是形容词，wellness 是名词。
 
 ### 14
 
-Feel free to stop by our ____ on your way home.
+I ____ join the team next season.
 
-- [x] house
-- [ ] any
-- [ ] anything
+- [x] will
+- [ ] willing
+- [ ] would to
 
-> **解析**：**house** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：will 后接动词原形 join 表将来；willing 是形容词需 be willing to，would to 结构错误。
 
 ### 15
 
-He ____ gets up early at six o'clock every morning.
+Do you have ____ rackets?
 
-- [x] typically
-- [ ] any
-- [ ] anything
+- [x] any
+- [ ] some
+- [ ] a
 
-> **解析**：**typically** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：疑问句通常用 any；some 多用于肯定句，a 不能修饰复数。
 
 ### 16
 
-She did very ____ on her English presentation today.
+I don't want ____ heavy today.
 
-- [x] well
-- [ ] any
-- [ ] anything
+- [x] anything
+- [ ] anythings
+- [ ] any things
 
-> **解析**：**well** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：不定代词 anything 是一个词；否定句用 anything，其余拼写错误。
 
 ### 17
 
-We ____ host a neighborhood festival next month.
+____ is better than no exercise.
 
-- [x] will
-- [ ] any
-- [ ] anything
+- [x] Anything
+- [ ] Any
+- [ ] Something else
 
-> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：泛指"任何运动"作主语用 Anything；Any 需接名词，Something else 改变了句意且与前文比较结构不符。
 
 ### 18
 
-Did you experience ____ difficulty during your work today?
+____, I think we should start now.
 
-- [x] any
-- [ ] anything
-- [ ] beaten
+- [x] Well
+- [ ] Good
+- [ ] Nice
 
-> **解析**：**any** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句首引出话题用感叹副词 Well；Good 和 Nice 是形容词，不作话语标记。
 
 ### 19
 
-If there is ____ I can do, please let me know.
+Have you ever ____ him at chess?
 
-- [x] anything
-- [ ] any
-- [ ] beaten
+- [x] beaten
+- [ ] beat
+- [ ] beated
 
-> **解析**：**anything** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：have + 过去分词 beaten；beat 是原形，beated 不存在。
 
 ### 20
 
-He has ____ a reliable employee in this company for years.
+I have ____ been to a live game.
 
-- [x] been
-- [ ] any
-- [ ] anything
+- [x] never
+- [ ] never been
+- [ ] not never
 
-> **解析**：**been** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：have 和 been 之间放 never；never been 会重复 been，not never 是双重否定。
 
 </quiz-cloze>

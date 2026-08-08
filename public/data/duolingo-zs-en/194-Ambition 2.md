@@ -10,30 +10,31 @@ advantage, babysit, baker, change, dream job, employment, face to face, had, hai
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"谈论找工作"展开。词表里有各种职业名称（baker, hairdresser, vet）和求职相关词汇（interview, employment, hourly wage, role, dream job）。你可以描述求职场景：I had an interview at a tech company. / She wants to be a baker one day. / What's the hourly wage for this role?
+本单元的主题是"求职与职业梦想"。词表可以分成三组：职业名称词（baker, hairdresser, vet, tech, babysit）、求职流程词（interview, role, employment, hourly wage, advantage, change, face to face）、以及梦想与条件表达（dream job, one day, talent, if, if I, had, make, wouldn't）。拼起来就是求职话题：One day I want to be a vet. If I had the chance, I would take that role. My talent is working with animals.
 
-if I 和 wouldn't 的出现提示这里可以练习条件句——If I had more talent, I wouldn't babysit forever. / If I got the job, I'd make a change. had 在这里既可以是实义动词"有"的过去式，也可以是条件句中的虚拟形式。
+语法主线是 if 引导的真实条件句与虚拟条件句的衔接。真实条件句：If I get the interview, I will be ready.（如果拿到面试，我会准备好。）虚拟延续上一单元：If I had more time, I would practice.（had 表示与现在事实相反）。注意 had 既是 have 的过去式，也是虚拟条件句的标志词。另一条主线是职业构词：baker = bake + -er、hairdresser = hair + dress + -er，"做……的人"用 -er 后缀；vet 是 veterinarian 的口语缩写，tech 是 technology 行业或 technician 的简称。
 
-face to face 描述面试方式，advantage 用来分析利弊。整体来看，这个单元帮你用英语讨论职业规划和求职经历。
+学完这些词，你能用英语讨论求职流程、描述自己的才能与梦想职业，并用条件句表达职业规划。
 
 ## Tips
 
-- **interview / employment / hourly wage** — interview 既是名词也是动词（I have an interview. / They interviewed me.）。employment = 就业（反义词 unemployment）。hourly wage = 时薪，搭配 earn an hourly wage of $15。注意 wage 通常指按小时/天计的报酬，salary 指年薪/月薪。
+- **if / if I / had** — if 引导条件句，真实条件用现在时：If I get the job, I'll move.；虚拟条件用过去式：If I had the chance, I would take it. had 在虚拟句中表示"假如我有"。if I 是本单元高频开头，练习条件句从它入手。
 
-- **baker / hairdresser / vet** — baker = 面包师（bake + -er）。hairdresser = 美发师（hair + dress + -er）。vet = 兽医（veterinarian 的缩写，口语常用）。这类"动词/名词 + -er/-or"构成职业名词是英语的常见构词法。
+- **wouldn't** — would not 的缩写，用于虚拟主句的否定：I wouldn't refuse a dream job.（我不会拒绝梦想工作。）wouldn't 后接动词原形。
 
-- **dream job / role / talent** — dream job = 理想工作（dream 做定语）。role = 职位、角色，搭配 take on a role, a key role。talent = 天赋，搭配 have a talent for, a natural talent。
+- **interview / role / employment** — 求职三词。interview 面试：have an interview（参加面试）；role 职位、角色：apply for the role（申请这个职位）；employment 就业：full-time employment（全职工作）。
 
-- **babysit / make / change** — babysit = 临时照看小孩（baby + sit），过去式 babysat。make 搭配很多：make money, make a living, make a change。change 可作名词也可作动词，a change of career = 转行。
+- **hourly wage / advantage** — hourly wage 时薪（hourly 每小时的 + wage 工资）；advantage 优势：an advantage in the interview（面试中的优势）。与 disadvantage 成对记忆。
 
-- **if I / wouldn't / had** — 这组词提示条件句。If I had a talent for tech, I wouldn't be a hairdresser. 结构：If + 过去式, would/wouldn't + 动词原形（第二类条件句，表与现在事实相反或不太可能的假设）。
+- **dream job / one day / talent** — dream job 梦想工作；one day "总有一天"，用于展望：One day I'll have my own bakery.；talent 才能：a talent for music. have a talent for + 领域 是固定搭配。
 
-- **face to face / one day / advantage** — face to face = 面对面（可作副语：meet face to face；也可加连字符做定语：a face-to-face interview）。one day = 总有一天（指将来）。advantage = 优势，搭配 have an advantage, take advantage of。
+- **baker / hairdresser / vet / tech / babysit** — 五个职业词。baker 面包师（bake + -er）；hairdresser 理发师（hair + dresser）；vet 兽医（口语，正式词 veterinarian）；tech 科技行业/技术人员（口语）；babysit 当临时保姆（baby + sit），动词：babysit for my neighbor.
 
-- **tech** — technology 的口语缩写，指科技行业。搭配：a tech company, work in tech, the tech industry。类似缩写还有 info (information), ad (advertisement)。
+- **face to face** — "面对面地"：a face to face interview（当面面试）。作副词短语用，也可作定语。
+
+- **change / make** — change 改变，名词动词皆可：change jobs（换工作）；make 制造、赚取：make money（赚钱）、make a plan（做计划）。make 的搭配极多，靠积累。
 
 ## 练习
 
@@ -51,149 +52,149 @@ face to face 描述面试方式，advantage 用来分析利弊。整体来看，
 
 <quiz-sentence-builder>
 
-1. **中文**：早起锻炼的一个巨大优势是能让人全天精力充沛。
-   **英文**：Good communication is a main advantage in business.
-   > **解析**：advantage 表示“优势/好处/有利条件”。
+1. **中文**：总有一天我会找到梦想工作。
+   **英文**：One day I will find my dream job.
+   > **解析**：One day 表示"总有一天"，常用于将来展望；will find 是一般将来时。
 
-2. **中文**：周六晚上她经常帮隔壁邻居代看孩子。
-   **英文**：She earns extra money when she babysit for neighbors.
-   > **解析**：babysit 表示“代看孩子/做兼职保姆”。
+2. **中文**：如果我有机会，我会接受这个职位。
+   **英文**：If I had the chance, I would take the role.
+   > **解析**：if I had 是虚拟条件，表示与现在事实相反；主句用 would take。
 
-3. **中文**：当地知名的面包师烘焙出了新鲜好吃的香草蛋糕。
-   **英文**：The skilled baker makes fresh bread every morning.
-   > **解析**：baker 表示“面包师/烘焙师”。
+3. **中文**：如果我得到面试机会，我会做好准备。
+   **英文**：If I get the interview, I will be ready.
+   > **解析**：真实条件句从句用现在时 get；主句用 will。
 
-4. **中文**：找到一份符合兴趣的理想工作是每个人的梦想。
-   **英文**：Working as a pilot has always been his dream job.
-   > **解析**：dream job 表示“理想工作”。
+4. **中文**：我不会拒绝梦想工作。
+   **英文**：I wouldn't refuse a dream job.
+   > **解析**：wouldn't 后接动词原形 refuse；表示虚拟语境中的否定意愿。
 
-5. **中文**：当地政府采取措施以提高大学生的就业率。
-   **英文**：The agency helps graduates find steady employment.
-   > **解析**：employment 表示“就业/雇用”。
+5. **中文**：她的才能在于与动物相处。
+   **英文**：Her talent is working with animals.
+   > **解析**：is 与单数主语搭配；working 是动名词作表语。
 
-6. **中文**：相比于网聊，他更喜欢和客户面对面沟通。
-   **英文**：We held a face to face meeting with the client.
-   > **解析**：face to face 表示“面对面地/当面”。
+6. **中文**：他下星期有一场面试。
+   **英文**：He has an interview next week.
+   > **解析**：has 与主语 He 搭配；an interview 用不定冠词。
 
-7. **中文**：我的理发师给我剪了一个非常清爽的夏日新发型。
-   **英文**：The talented hairdresser styled her hair nicely.
-   > **解析**：hairdresser 表示“理发师/美发师”。
+7. **中文**：她申请了这个职位。
+   **英文**：She applied for the role.
+   > **解析**：applied 是 apply 的过去式；apply for 是固定搭配。
 
-8. **中文**：这家超市给兼职大学生开出很高的时薪。
-   **英文**：The job offers a high hourly wage for students.
-   > **解析**：hourly wage 表示“时薪/按小时计的工资”。
+8. **中文**：全职工作很难找。
+   **英文**：Full-time employment is hard to find.
+   > **解析**：employment 是不可数名词；is 与单数概念搭配。
 
-9. **中文**：明天上午她将去参加一家科技公司的面试。
-   **英文**：He prepared thoroughly for his job interview today.
-   > **解析**：interview 表示“面试/采访”。
+9. **中文**：这份工作的时薪是多少？
+   **英文**：What is the hourly wage for this job?
+   > **解析**：hourly wage 是固定搭配；is 与单数主语搭配。
 
-10. **中文**：只要坚持不懈，总有一天你会实现心中的蓝图。
-   **英文**：I hope to start my own business one day soon.
-   > **解析**：one day 表示“总有一天/有朝一日”。
+10. **中文**：经验是面试中的优势。
+   **英文**：Experience is an advantage in the interview.
+   > **解析**：is 与单数主语搭配；an advantage 用不定冠词。
 
-11. **中文**：她在新项目的团队合作中承担着关键的角色。
-   **英文**：She played an active role in organizing the event.
-   > **解析**：role 表示“角色/职责”。
+11. **中文**：当面面试效果更好。
+   **英文**：A face to face interview works better.
+   > **解析**：face to face 作定语修饰 interview；works 是第三人称单数。
 
-12. **中文**：那位年轻音乐家在钢琴弹奏方面极具才能。
-   **英文**：She showed a natural talent for painting at school.
-   > **解析**：talent 表示“才能/天赋”。
+12. **中文**：我想换工作。
+   **英文**：I want to change jobs.
+   > **解析**：want 后接不定式 to change；jobs 用复数表示"换工作"。
 
-13. **中文**：许多年轻人渴望加入快速发展的科技行业。
-   **英文**：He works in the mobile tech sector in Shenzhen.
-   > **解析**：tech 表示“科技/技术”。
+13. **中文**：面包师清晨工作。
+   **英文**：The baker works early in the morning.
+   > **解析**：works 是第三人称单数形式；early in the morning 是时间状语。
 
-14. **中文**：我们带受伤的猫咪去诊所看有经验的兽医。
-   **英文**：The kind vet treated our sick dog carefully.
-   > **解析**：vet 表示“兽医”。
+14. **中文**：理发师给我剪了头发。
+   **英文**：The hairdresser cut my hair.
+   > **解析**：cut 的过去式仍是 cut；my hair 是宾语。
 
-15. **中文**：要是我有充足的资金，我就不会放弃这个好机会。
-   **英文**：He wouldn't give up his dream job for anything.
-   > **解析**：wouldn't 即 would not。
+15. **中文**：兽医照顾我的狗。
+   **英文**：The vet takes care of my dog.
+   > **解析**：takes 是第三人称单数形式；take care of 是固定短语。
 
-16. **中文**：如果我是你，我会积极参加明天的求职招聘会。
-   **英文**：If I had enough time, I would learn a new language.
-   > **解析**：if I 用于表达假设条件句。
+16. **中文**：我在一家科技公司工作。
+   **英文**：I work at a tech company.
+   > **解析**：work at 表示"在……工作"；tech 作定语修饰 company。
 
-17. **中文**：人生需要适时做出一改变来迎接新机遇。
-   **英文**：A small change can lead to big progress.
-   > **解析**：change 表示“改变/变化”。
+17. **中文**：她周末帮邻居照看孩子。
+   **英文**：She babysits for her neighbor on weekends.
+   > **解析**：babysits 是第三人称单数形式；on weekends 是时间状语。
 
-18. **中文**：努力和天赋能使得一个人在领域内出类拔萃。
-   **英文**：Good practice will make you improve rapidly.
-   > **解析**：make 表示“使得/让”。
+18. **中文**：这份工作能赚钱。
+   **英文**：This job makes good money.
+   > **解析**：makes 是第三人称单数形式；make money 是固定搭配。
 
-19. **中文**：面试官此前已经仔细翻阅了他的个人履历。
-   **英文**：She had already completed the interview preparation.
-   > **解析**：had 构成过去完成时。
+19. **中文**：他以前有过一份工作。
+   **英文**：He had a job before.
+   > **解析**：had 是 have 的过去式；before 是副词，放句末。
 
-20. **中文**：如果明天天气晴朗，我们将如期前往郊外野餐。
-   **英文**：If you need help, feel free to contact us.
-   > **解析**：if 表示“如果/假设”。
+20. **中文**：如果我是你，我会接受这份工作。
+   **英文**：If I were you, I would take this job.
+   > **解析**：If I were you 是固定虚拟表达；主句用 would take。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Good communication is a main advantage in business.
-   > **中文**：早起锻炼的一个巨大优势是能让人全天精力充沛。
+1. One day I will find my dream job.
+   > **中文**：总有一天我会找到梦想工作。
 
-2. She earns extra money when she babysit for neighbors.
-   > **中文**：周六晚上她经常帮隔壁邻居代看孩子。
+2. If I had the chance, I would take the role.
+   > **中文**：如果我有机会，我会接受这个职位。
 
-3. The skilled baker makes fresh bread every morning.
-   > **中文**：当地知名的面包师烘焙出了新鲜好吃的香草蛋糕。
+3. If I get the interview, I will be ready.
+   > **中文**：如果我得到面试机会，我会做好准备。
 
-4. Working as a pilot has always been his dream job.
-   > **中文**：找到一份符合兴趣的理想工作是每个人的梦想。
+4. I wouldn't refuse a dream job.
+   > **中文**：我不会拒绝梦想工作。
 
-5. The agency helps graduates find steady employment.
-   > **中文**：当地政府采取措施以提高大学生的就业率。
+5. Her talent is working with animals.
+   > **中文**：她的才能在于与动物相处。
 
-6. We held a face to face meeting with the client.
-   > **中文**：相比于网聊，他更喜欢和客户面对面沟通。
+6. He has an interview next week.
+   > **中文**：他下星期有一场面试。
 
-7. The talented hairdresser styled her hair nicely.
-   > **中文**：我的理发师给我剪了一个非常清爽的夏日新发型。
+7. She applied for the role.
+   > **中文**：她申请了这个职位。
 
-8. The job offers a high hourly wage for students.
-   > **中文**：这家超市给兼职大学生开出很高的时薪。
+8. Full-time employment is hard to find.
+   > **中文**：全职工作很难找。
 
-9. He prepared thoroughly for his job interview today.
-   > **中文**：明天上午她将去参加一家科技公司的面试。
+9. What is the hourly wage?
+   > **中文**：时薪是多少？
 
-10. I hope to start my own business one day soon.
-   > **中文**：只要坚持不懈，总有一天你会实现心中的蓝图。
+10. Experience is an advantage in the interview.
+   > **中文**：经验是面试中的优势。
 
-11. She played an active role in organizing the event.
-   > **中文**：她在新项目的团队合作中承担着关键的角色。
+11. A face to face interview works better.
+   > **中文**：当面面试效果更好。
 
-12. She showed a natural talent for painting at school.
-   > **中文**：那位年轻音乐家在钢琴弹奏方面极具才能。
+12. I want to change jobs.
+   > **中文**：我想换工作。
 
-13. He works in the mobile tech sector in Shenzhen.
-   > **中文**：许多年轻人渴望加入快速发展的科技行业。
+13. The baker works early in the morning.
+   > **中文**：面包师清晨工作。
 
-14. The kind vet treated our sick dog carefully.
-   > **中文**：我们带受伤的猫咪去诊所看有经验的兽医。
+14. The hairdresser cut my hair.
+   > **中文**：理发师给我剪了头发。
 
-15. He wouldn't give up his dream job for anything.
-   > **中文**：要是我有充足的资金，我就不会放弃这个好机会。
+15. The vet takes care of my dog.
+   > **中文**：兽医照顾我的狗。
 
-16. If I had enough time, I would learn a new language.
-   > **中文**：如果我是你，我会积极参加明天的求职招聘会。
+16. I work at a tech company.
+   > **中文**：我在一家科技公司工作。
 
-17. A small change can lead to big progress.
-   > **中文**：人生需要适时做出一改变来迎接新机遇。
+17. She babysits for her neighbor.
+   > **中文**：她帮邻居照看孩子。
 
-18. Good practice will make you improve rapidly.
-   > **中文**：努力和天赋能使得一个人在领域内出类拔萃。
+18. This job makes good money.
+   > **中文**：这份工作能赚钱。
 
-19. She had already completed the interview preparation.
-   > **中文**：面试官此前已经仔细翻阅了他的个人履历。
+19. He had a job before.
+   > **中文**：他以前有过一份工作。
 
-20. If you need help, feel free to contact us.
-   > **中文**：如果明天天气晴朗，我们将如期前往郊外野餐。
+20. If I were you, I would take this job.
+   > **中文**：如果我是你，我会接受这份工作。
 
 </quiz-listening>
 
@@ -201,26 +202,30 @@ face to face 描述面试方式，advantage 用来分析利弊。整体来看，
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| advantage | 优势 / 好处 |
-| babysit | 代看孩子 |
+| advantage | 优势 |
+| babysit | 照看孩子 |
 | baker | 面包师 |
-| dream job | 理想工作 |
-| employment | 就业 / 雇用 |
-| face to face | 面对面 |
+| change | 改变 / 换 |
+| dream job | 梦想工作 |
+| employment | 就业 |
+| face to face | 面对面地 |
+| had | 有（have 的过去式） |
 | hairdresser | 理发师 |
 | hourly wage | 时薪 |
-| interview | 面试 |
-| one day | 总有一天 |
-| role | 角色 / 职责 |
-| talent | 才能 / 天赋 |
-| tech | 科技 / 技术 |
-| vet | 兽医 |
-| wouldn't | 不会（would not） |
+| if | 如果 |
 | if I | 如果我 |
-| change | 改变 |
-| make | 使得 |
-| had | 有 / 已经 |
-| If | 如果 |
+| interview | 面试 |
+| make | 制作 / 赚取 |
+| one day | 总有一天 |
+| role | 职位 / 角色 |
+| talent | 才能 |
+| tech | 科技 |
+| vet | 兽医 |
+| wouldn't | 不会（would not 缩写） |
+| is | 是（单数） |
+| job | 工作 |
+| the | 这个 / 那个 |
+| would | 会 |
 
 </quiz-matching>
 
@@ -228,202 +233,202 @@ face to face 描述面试方式，advantage 用来分析利弊。整体来看，
 
 ### 1
 
-Good communication is a main ____ in business.
+One day I will find my dream ____.
 
-- [x] advantage
-- [ ] babysit
-- [ ] baker
+- [x] job
+- [ ] dream
+- [ ] employment
 
-> **解析**：**advantage** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：dream job（梦想工作）是固定搭配；employment 不可数且语义不符。
 
 ### 2
 
-She earns extra money when she ____ for neighbors.
+If I ____ the chance, I would take the role.
 
-- [x] babysit
-- [ ] advantage
-- [ ] baker
+- [x] had
+- [ ] have
+- [ ] has
 
-> **解析**：**babysit** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：虚拟条件句用过去式 had；have 用于真实条件句。
 
 ### 3
 
-The skilled ____ makes fresh bread every morning.
+If I get the interview, I ____ be ready.
 
-- [x] baker
-- [ ] advantage
-- [ ] babysit
+- [x] will
+- [ ] would
+- [ ] did
 
-> **解析**：**baker** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：真实条件句的主句用 will；would 用于虚拟条件句。
 
 ### 4
 
-____ as a pilot has always been his dream job.
+I ____ refuse a dream job.
 
-- [x] Working
-- [ ] advantage
-- [ ] babysit
+- [x] wouldn't
+- [ ] don't to
+- [ ] won't to
 
-> **解析**：**Working** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：wouldn't 后接动词原形 refuse；其余选项结构错误。
 
 ### 5
 
-The agency helps graduates find steady ____.
+Her talent is ____ with animals.
 
-- [x] employment
-- [ ] advantage
-- [ ] babysit
+- [x] working
+- [ ] work
+- [ ] works
 
-> **解析**：**employment** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后接动名词 working 作表语；其余形式不合此结构。
 
 ### 6
 
-We held a face to face ____ with the client.
+He has an ____ next week.
 
-- [x] meeting
-- [ ] advantage
-- [ ] babysit
+- [x] interview
+- [ ] interviewing
+- [ ] interviewed
 
-> **解析**：**meeting** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：an 后需要名词 interview；其余是分词形式。
 
 ### 7
 
-The talented ____ styled her hair nicely.
+She applied ____ the role.
 
-- [x] hairdresser
-- [ ] advantage
-- [ ] babysit
+- [x] for
+- [ ] to
+- [ ] at
 
-> **解析**：**hairdresser** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：apply for（申请）是固定搭配；其余介词不成立。
 
 ### 8
 
-The job offers a high hourly wage for ____.
+Full-time ____ is hard to find.
 
-- [x] students
-- [ ] advantage
-- [ ] babysit
+- [x] employment
+- [ ] employ
+- [ ] employing
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **students**。
+> **解析**：句首需要名词 employment；employ 是动词。
 
 ### 9
 
-He prepared thoroughly for his job ____ today.
+What is the hourly ____?
 
-- [x] interview
-- [ ] advantage
-- [ ] babysit
+- [x] wage
+- [ ] wages
+- [ ] wag
 
-> **解析**：**interview** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：hourly wage 是固定搭配，用单数；wag 不是正确词。
 
 ### 10
 
-I hope to start my own ____ one day soon.
+Experience is an ____ in the interview.
 
-- [x] business
-- [ ] advantage
-- [ ] babysit
+- [x] advantage
+- [ ] advance
+- [ ] adventure
 
-> **解析**：**business** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：面试中的优势用 advantage；advance 是前进，adventure 是冒险。
 
 ### 11
 
-She played an active ____ in organizing the event.
+A face to ____ interview works better.
 
-- [x] role
-- [ ] advantage
-- [ ] babysit
+- [x] face
+- [ ] eye
+- [ ] hand
 
-> **解析**：**role** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：face to face（面对面）是固定短语；其余搭配不成立。
 
 ### 12
 
-She showed a natural ____ for painting at school.
+I want to ____ jobs.
 
-- [x] talent
-- [ ] advantage
-- [ ] babysit
+- [x] change
+- [ ] changing
+- [ ] changed
 
-> **解析**：**talent** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：to 后接动词原形 change；其余形式不成立。
 
 ### 13
 
-He works in the mobile ____ sector in Shenzhen.
+The ____ works early in the morning.
 
-- [x] tech
-- [ ] advantage
-- [ ] babysit
+- [x] baker
+- [ ] bake
+- [ ] bakery
 
-> **解析**：**tech** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：works 的主语需要指人的名词 baker；bakery 是面包店。
 
 ### 14
 
-The kind ____ treated our sick dog carefully.
+The hairdresser ____ my hair.
 
-- [x] vet
-- [ ] advantage
-- [ ] babysit
+- [x] cut
+- [ ] cutting
+- [ ] cuts down
 
-> **解析**：**vet** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：cut 的过去式仍是 cut，符合叙述语境；cuts down 是"削减"，语义不合。
 
 ### 15
 
-He ____ give up his dream job for anything.
+The ____ takes care of my dog.
 
-- [x] wouldn't
-- [ ] advantage
-- [ ] babysit
+- [x] vet
+- [ ] very
+- [ ] veterinary of
 
-> **解析**：**wouldn't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：照顾狗的是兽医（vet）；另外两项语法语义均不合。
 
 ### 16
 
-____ I had enough time, I would learn a new language.
+I work ____ a tech company.
 
-- [x] If
-- [ ] advantage
-- [ ] babysit
+- [x] at
+- [ ] on
+- [ ] to
 
-> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：work at + 公司 是固定搭配；其余介词不表此义。
 
 ### 17
 
-A small ____ can lead to big progress.
+She ____ for her neighbor on weekends.
 
-- [x] change
-- [ ] advantage
+- [x] babysits
 - [ ] babysit
+- [ ] babysat for to
 
-> **解析**：**change** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 She 是第三人称单数，用 babysits；on weekends 提示一般现在时。
 
 ### 18
 
-Good practice will ____ you improve rapidly.
+This job ____ good money.
 
-- [x] make
-- [ ] advantage
-- [ ] babysit
+- [x] makes
+- [ ] make
+- [ ] making
 
-> **解析**：**make** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 This job 是第三人称单数，用 makes；make money 是固定搭配。
 
 ### 19
 
-She ____ already completed the interview preparation.
+He ____ a job before.
 
 - [x] had
-- [ ] advantage
-- [ ] babysit
+- [ ] have
+- [ ] having
 
-> **解析**：**had** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：before 提示过去，用 had；having 不能单独作谓语。
 
 ### 20
 
-____ you need help, feel free to contact us.
+If I ____ you, I would take this job.
 
-- [x] If
-- [ ] advantage
-- [ ] babysit
+- [x] were
+- [ ] am
+- [ ] was
 
-> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：If I were you 是固定虚拟表达；am 表真实，was 在正式虚拟中不用。
 
 </quiz-cloze>

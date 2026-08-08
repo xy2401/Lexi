@@ -10,42 +10,31 @@ beneath, block, dashboard, frustrating, get a hold of, go wrong, in a row, keep 
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是"解释你为什么迟到了"，而且显然是一个诸事不顺的日子。词表里有描述车辆故障和道路问题的词汇（motor, leak, pedal, dashboard, pothole, train tracks, pull over, block），有表达道歉和解释的短语（sorry to, keep you waiting, running late, on my way, long story short），也有描述"倒霉透顶"的表达（go wrong, in a row, frustrating, sudden, lose track of time）。你可以练习这样的叙述：Sorry to keep you waiting—I'm running late because everything went wrong. / Long story short, the motor started leaking, so I had to pull over. / I tried to get a hold of you, but I lost track of time beneath the train tracks. / It's been frustrating—one thing after another, three bad days in a row.
+本单元的主题是"解释你为什么迟到了"，场景是一连串倒霉事。词表可以分成四组：开场道歉（sorry to, keep you waiting, running late, on my way, long story, long story short）、车辆故障（motor, leak, pedal, dashboard, pothole, was being, was being fixed）、过程描述（go wrong, sudden, trip, block, train tracks, beneath, pull over）、以及时间状态（get a hold of, lose track of time, in a row, frustrating, long）。拼起来就是一段迟到解释：Sorry to keep you waiting. Long story short, my car was being fixed, so I tripped over a pothole on my way here.
 
-词表里有几个叙事过渡表达特别实用：long story（说来话长）、long story short（长话短说）、go wrong（出问题）、in a row（连续地）。was being fixed 是过去进行时的被动语态，用来描述"当时正在被修理"的状态，在解释迟到原因时非常好用。
+语法主线是"过去进行时的被动语态"。was being fixed 表示"（当时）正在被修理"：My car was being fixed at that time. 这是过去进行时的被动形式（was/were being done），强调过去某时刻正在进行的被动动作。另一条主线是叙事衔接：long story short（长话短说）、go wrong（出岔子）、in a row（接二连三地），把倒霉事串成连贯的故事。
+
+学完这单元，你能用英语解释迟到或其他不顺：道歉开场、概述经过、描述车辆故障与意外，还能表达无奈情绪。
 
 ## Tips
 
-- **long story short** — 长话短说、简而言之。搭配：to make a long story short / long story short, ...。例句：Long story short, my car broke down and I missed the bus. 这是英语口语中最常用的叙事压缩表达，用来跳过细节直接说结果。完整形式是 to make a long story short，口语中常简化为 long story short。
+- **sorry to / keep you waiting** — 道歉开场。Sorry to keep you waiting.（抱歉让你久等。）sorry to + 动词原形；keep sb doing 是"让某人一直…"。
 
-- **running late** — 迟到了、要晚了。搭配：I'm running late / running a bit late / running late for work。例句：Sorry, I'm running late—the traffic was terrible. 注意 running late 比 I'm late 更常用，暗示"正在迟到的过程中"，还没到但肯定会晚。比 be late 更有动态感。
+- **running late / on my way** — 迟到状态。running late 是"要迟到了"：I'm running late.（比 I will be late 更口语。）on my way 是"在路上"：I'm on my way.
 
-- **pull over** — 靠边停车。搭配：pull over to the side / the police pulled me over / pull over and check。例句：The motor started making a noise, so I pulled over. 注意 pull over 是驾驶中的固定表达，指把车从行驶车道移到路边停下。警察让你靠边停车也说 pull over。
+- **long story / long story short** — 叙事衔接。long story 铺垫"说来话长"；long story short 是"长话短说"，直接给结论：Long story short, I missed the bus.
 
-- **go wrong** — 出问题、出错。搭配：something went wrong / everything went wrong / what went wrong? 例句：Everything that could go wrong did go wrong this morning. 注意 go wrong 比 make a mistake 更广泛，可以指机械故障、计划失败、事情变糟等任何"不对劲"的情况。
+- **was being fixed / was being** — 过去进行被动。was being fixed 是"当时正在被修"：My car was being fixed. was being + 形容词可表"当时表现得很…"：He was being strange.（他那会儿怪怪的。）
 
-- **get a hold of** — 联系上、找到（某人）。搭配：get a hold of someone / try to get a hold of / I can't get a hold of him。例句：I tried to get a hold of you, but your phone was off. 等于 reach / contact，但更口语化。注意是 get a hold of，不是 get hold of（虽然两者都有人用）。
+- **motor / leak / pedal / dashboard** — 车辆四词。motor 是发动机；leak 是漏（油/水）：The tank has a leak. pedal 是踏板（油门刹车都是 pedal）；dashboard 是仪表盘。
 
-- **lose track of time** — 忘了时间、没注意时间。搭配：lose track of time / I lost track of time / completely lose track of time。例句：I was fixing the leak and lost track of time. 注意 track 在这里是"踪迹、线索"，lose track of = 失去了对……的追踪。反义：keep track of time（留意时间）。
+- **pothole / train tracks / block / beneath** — 路况词。pothole 是路面坑洞；train tracks 是火车轨道；block 是街区，也作动词"堵住"：The road was blocked. beneath 是"在…下方"（比 under 正式）：The cat is beneath the car.
 
-- **keep you waiting** — 让你久等了。搭配：sorry to keep you waiting / I didn't mean to keep you waiting / hate to keep you waiting。例句：Sorry to keep you waiting—I had a flat tire. 这是道歉时的标准搭配。注意 keep + 宾语 + doing 的结构：keep you waiting / keep me guessing。
+- **pull over / trip / sudden / go wrong** — 意外词。pull over 是"靠边停车"；trip 是绊倒：I tripped over the curb. sudden 是"突然的"（a sudden stop）；go wrong 是"出岔子"：Everything went wrong today.
 
-- **pothole / train tracks / block** — 三个道路相关词。pothole = 路面坑洞：hit a pothole / a huge pothole / dodge a pothole。train tracks = 铁轨：cross the train tracks / stuck at the train tracks / wait for the train tracks to clear。block = 街区；堵塞：two blocks away / a block in the road / traffic block。例句：I hit a pothole, got stuck at the train tracks, and there was a block on my street.
-
-- **dashboard / motor / pedal / leak** — 四个汽车部件词。dashboard = 仪表盘：the dashboard lights / check the dashboard。motor = 发动机、马达：the motor died / a motor problem。pedal = 踏板（油门/刹车）：press the pedal / the brake pedal / the gas pedal。leak = 泄漏：an oil leak / a leak in the engine / the motor was leaking。例句：The dashboard showed a warning, the motor had a leak, and the brake pedal felt soft.
-
-- **in a row** — 连续地、一个接一个。搭配：three days in a row / twice in a row / wins in a row。例句：This is the third bad day in a row! 注意 in a row 强调"不间断的连续"，和 in a line（排成一排）不同。口语中极常用。
-
-- **frustrating / sudden** — frustrating = 令人沮丧的、令人恼火的：a frustrating morning / incredibly frustrating。sudden = 突然的：a sudden noise / all of a sudden / a sudden leak。例句：The sudden leak was incredibly frustrating. 注意 frustrate（动词）→ frustrating（形容词，修饰事物）→ frustrated（形容词，修饰人的感受）。
-
-- **was being / was being fixed** — 过去进行时的被动语态。was being + 过去分词 = 当时正在被……。例句：The road was being fixed, so I had to take a detour. / My car was being repaired. 注意和 was fixed（被修好了，强调结果）区分：was being fixed 强调"当时正在修的过程中"。
-
-- **on my way / sorry to** — on my way = 我在路上了、我马上到：I'm on my way! / I'll be on my way soon。sorry to = 抱歉……：Sorry to keep you waiting. / Sorry to bother you. 例句：I'm on my way—sorry to keep you waiting! 注意 on my way 比 I'm coming 更常用、更自然。
-
-- **beneath / trip** — beneath = 在……下方（比 under 更正式）：beneath the bridge / beneath the train tracks / beneath the surface。trip = 这里指"绊倒"或"出行"：trip over something / a trip to the store / trip on the stairs。例句：I tripped over something beneath the dashboard. 注意 trip 做动词是"绊倒"，做名词是"旅行、出行"。
+- **get a hold of / lose track of time / in a row / frustrating** — 其余词。get a hold of 是"联系上"：I couldn't get a hold of you. lose track of time 是"忘了时间"。in a row 是"连续地"：three days in a row。frustrating 是"令人沮丧的"。
 
 ## 练习
 
@@ -63,149 +52,149 @@ beneath, block, dashboard, frustrating, get a hold of, go wrong, in a row, keep 
 
 <quiz-sentence-builder>
 
-1. **中文**：抱歉让你久等了，我被堵在了拥挤的交通中。
-   **英文**：Sorry to keep you waiting, I got stuck in heavy traffic.
-   > **解析**：keep you waiting 表示“让你久等”。
+1. **中文**：抱歉让你久等了。
+   **英文**：Sorry to keep you waiting.
+   > **解析**：Sorry to 后接动词原形；keep sb doing 结构。
 
-2. **中文**：我要迟到了，因为我的闹钟没响。
-   **英文**：I am running late because my alarm clock failed to ring.
-   > **解析**：running late 表示“迟到、赶时间”。
+2. **中文**：我要迟到了。
+   **英文**：I'm running late.
+   > **解析**：running late 是固定表达；am running 构成进行时。
 
-3. **中文**：别担心，我已经在路上了，很快就会到达。
-   **英文**：Don't worry, I am on my way and will arrive shortly.
-   > **解析**：on my way 表示“在路上”。
+3. **中文**：我已经在路上了。
+   **英文**：I'm on my way.
+   > **解析**：on my way 作表语，表示"在路上"。
 
-4. **中文**：长话短说，我错过了公交车，不得不走路。
-   **英文**：Long story short, I missed the bus and had to walk.
-   > **解析**：Long story short 口语中意为“长话短说”。
+4. **中文**：长话短说，我错过了公交车。
+   **英文**：Long story short, I missed the bus.
+   > **解析**：Long story short 作插入语；missed 是过去式。
 
-5. **中文**：我试着联系上你，但你的电话占线了。
-   **英文**：I tried to get a hold of you, but your line was busy.
-   > **解析**：get a hold of 表示联系上某人。
+5. **中文**：说来话长。
+   **英文**：It's a long story.
+   > **解析**：a long story 作表语；It's 是 It is 的缩写。
 
-6. **中文**：今天早上所有可能出问题的事情全出问题了。
-   **英文**：Everything that could go wrong did go wrong this morning.
-   > **解析**：go wrong 表示出问题、出错。
+6. **中文**：那时候我的车正在被修理。
+   **英文**：My car was being fixed at that time.
+   > **解析**：was being fixed 是过去进行时的被动语态。
 
-7. **中文**：我当时正在读一本迷人的书，忘了时间。
-   **英文**：I was reading a fascinating book and lost track of time.
-   > **解析**：lose track of time 表示“忘了时间”。
+7. **中文**：发动机漏油了。
+   **英文**：The motor had a leak.
+   > **解析**：had 表过去状态；a leak 作宾语。
 
-8. **中文**：当发动机开始冒烟时司机不得不靠边停车。
-   **英文**：The driver had to pull over when the engine started smoking.
-   > **解析**：pull over 指靠边停车。
+8. **中文**：我踩了刹车踏板。
+   **英文**：I pressed the brake pedal.
+   > **解析**：pressed 是过去式；brake 修饰 pedal。
 
-9. **中文**：我的车撞上了一个很深的路面坑洞并损坏了前轮胎。
-   **英文**：My car hit a deep pothole and damaged the front tire.
-   > **解析**：pothole 指路面坑洞。
+9. **中文**：仪表盘上亮起了警示灯。
+   **英文**：A warning light came on the dashboard.
+   > **解析**：came 是 come 的过去式；on the dashboard 是地点状语。
 
-10. **中文**：我们不得不停下来在铁轨处等待货运火车通过。
-   **英文**：We had to stop and wait for a freight train at the train tracks.
-   > **解析**：train tracks 指铁轨。
+10. **中文**：我被路面上的坑绊了一下。
+   **英文**：I tripped over a pothole.
+   > **解析**：tripped 是 trip 的过去式；trip over 是固定搭配。
 
-11. **中文**：一场事故在公路上造成了严重的交通堵塞。
-   **英文**：An accident caused a massive traffic block on the highway.
-   > **解析**：block 表示堵塞或街区。
+11. **中文**：火车轨道堵住了路。
+   **英文**：The train tracks blocked the road.
+   > **解析**：blocked 是 block 的过去式；the road 作宾语。
 
-12. **中文**：汽车仪表盘上的警告灯亮了起来。
-   **英文**：A warning icon illuminated on the car's dashboard.
-   > **解析**：dashboard 指汽车仪表盘。
+12. **中文**：我不得不靠边停车。
+   **英文**：I had to pull over.
+   > **解析**：had to 表"不得不"；pull over 是固定短语。
 
-13. **中文**：电动机发出了异样的嗡嗡声。
-   **英文**：The electric motor made a strange whining noise.
-   > **解析**：motor 指发动机、马达。
+13. **中文**：一切都在今天出了岔子。
+   **英文**：Everything went wrong today.
+   > **解析**：went 是 go 的过去式；go wrong 是固定搭配。
 
-14. **中文**：用力踩下刹车踏板让车停下来。
-   **英文**：Press the brake pedal firmly to bring the car to a stop.
-   > **解析**：pedal 指踏板。
+14. **中文**：那是一个突然的刹车。
+   **英文**：It was a sudden stop.
+   > **解析**：sudden 修饰 stop；It was 表过去。
 
-15. **中文**：我们在发动机舱下方发现了一处液体泄漏。
-   **英文**：We found a fluid leak beneath the engine compartment.
-   > **解析**：leak 表示泄漏。
+15. **中文**：猫在车的下面。
+   **英文**：The cat is beneath the car.
+   > **解析**：beneath 是介词"在…下方"；is 表状态。
 
-16. **中文**：在赶截止时间时技术出现故障是非常令人沮丧的。
-   **英文**：It is very frustrating when technology fails during a deadline.
-   > **解析**：frustrating 表示令人沮丧的、令人恼火的。
+16. **中文**：我联系不上你。
+   **英文**：I couldn't get a hold of you.
+   > **解析**：couldn't 表过去不能；get a hold of 是固定短语。
 
-17. **中文**：车辆在公路上遭遇了突然的故障。
-   **英文**：The vehicle suffered a sudden breakdown on the highway.
-   > **解析**：sudden 表示突然的。
+17. **中文**：我忘了时间了。
+   **英文**：I lost track of time.
+   > **解析**：lost 是 lose 的过去式；lose track of 是固定搭配。
 
-18. **中文**：他今天连续遇到了三次倒霉事。
-   **英文**：He had three bad luck incidents in a row today.
-   > **解析**：in a row 表示连续地。
+18. **中文**：我已经连续三天迟到了。
+   **英文**：I've been late three days in a row.
+   > **解析**：I've been 是现在完成时；in a row 表"连续"。
 
-19. **中文**：坏掉的桥梁当时正在被维修人员修理。
-   **英文**：The broken bridge was being fixed by maintenance crews.
-   > **解析**：was being fixed 是过去进行时的被动语态，意为“当时正在被修理”。
+19. **中文**：这一天真是令人沮丧。
+   **英文**：This day has been so frustrating.
+   > **解析**：has been 是现在完成时；frustrating 作表语。
 
-20. **中文**：积水聚集在厨房渗漏的水槽下方。
-   **英文**：Water pooled beneath the leaky sink in the kitchen.
-   > **解析**：beneath 表示“在……下方”。
+20. **中文**：这次通勤真是一次糟糕的旅程。
+   **英文**：The commute was quite a trip.
+   > **解析**：trip 此处指"一段（波折的）旅程"；was 表过去。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Sorry to keep you waiting, I got stuck in heavy traffic.
-   > **中文**：抱歉让你久等了，我被堵在了拥挤的交通中。
+1. Sorry to keep you waiting.
+   > **中文**：抱歉让你久等了。
 
-2. I am running late because my alarm clock failed to ring.
-   > **中文**：我要迟到了，因为我的闹钟没响。
+2. I'm running late.
+   > **中文**：我要迟到了。
 
-3. Don't worry, I am on my way and will arrive shortly.
-   > **中文**：别担心，我已经在路上了，很快就会到达。
+3. I'm on my way.
+   > **中文**：我已经在路上了。
 
-4. Long story short, I missed the bus and had to walk.
-   > **中文**：长话短说，我错过了公交车，不得不走路。
+4. Long story short, I missed the bus.
+   > **中文**：长话短说，我错过了公交车。
 
-5. I tried to get a hold of you, but your line was busy.
-   > **中文**：我试着联系上你，但你的电话占线了。
+5. It's a long story.
+   > **中文**：说来话长。
 
-6. Everything that could go wrong did go wrong this morning.
-   > **中文**：今天早上所有可能出问题的事情全出问题了。
+6. My car was being fixed at that time.
+   > **中文**：那时候我的车正在被修理。
 
-7. I was reading a fascinating book and lost track of time.
-   > **中文**：我当时正在读一本迷人的书，忘了时间。
+7. The motor had a leak.
+   > **中文**：发动机漏油了。
 
-8. The driver had to pull over when the engine started smoking.
-   > **中文**：当发动机开始冒烟时司机不得不靠边停车。
+8. I pressed the brake pedal.
+   > **中文**：我踩了刹车踏板。
 
-9. My car hit a deep pothole and damaged the front tire.
-   > **中文**：我的车撞上了一个很深的路面坑洞并损坏了前轮胎。
+9. A warning light came on the dashboard.
+   > **中文**：仪表盘上亮起了警示灯。
 
-10. We had to stop and wait for a freight train at the train tracks.
-   > **中文**：我们不得不停下来在铁轨处等待货运火车通过。
+10. I tripped over a pothole.
+   > **中文**：我被路面上的坑绊了一下。
 
-11. An accident caused a massive traffic block on the highway.
-   > **中文**：一场事故在公路上造成了严重的交通堵塞。
+11. The train tracks blocked the road.
+   > **中文**：火车轨道堵住了路。
 
-12. A warning icon illuminated on the car's dashboard.
-   > **中文**：汽车仪表盘上的警告灯亮了起来。
+12. I had to pull over.
+   > **中文**：我不得不靠边停车。
 
-13. The electric motor made a strange whining noise.
-   > **中文**：电动机发出了异样的嗡嗡声。
+13. Everything went wrong today.
+   > **中文**：一切都在今天出了岔子。
 
-14. Press the brake pedal firmly to bring the car to a stop.
-   > **中文**：用力踩下刹车踏板让车停下来。
+14. It was a sudden stop.
+   > **中文**：那是一个突然的刹车。
 
-15. We found a fluid leak beneath the engine compartment.
-   > **中文**：我们在发动机舱下方发现了一处液体泄漏。
+15. The cat is beneath the car.
+   > **中文**：猫在车的下面。
 
-16. It is very frustrating when technology fails during a deadline.
-   > **中文**：在赶截止时间时技术出现故障是非常令人沮丧的。
+16. I couldn't get a hold of you.
+   > **中文**：我联系不上你。
 
-17. The vehicle suffered a sudden breakdown on the highway.
-   > **中文**：车辆在公路上遭遇了突然的故障。
+17. I lost track of time.
+   > **中文**：我忘了时间了。
 
-18. He had three bad luck incidents in a row today.
-   > **中文**：他今天连续遇到了三次倒霉事。
+18. I've been late three days in a row.
+   > **中文**：我已经连续三天迟到了。
 
-19. The broken bridge was being fixed by maintenance crews.
-   > **中文**：坏掉的桥梁当时正在被维修人员修理。
+19. This day has been so frustrating.
+   > **中文**：这一天真是令人沮丧。
 
-20. Water pooled beneath the leaky sink in the kitchen.
-   > **中文**：积水聚集在厨房渗漏的水槽下方。
+20. The commute was quite a trip.
+   > **中文**：这次通勤真是一段波折的旅程。
 
 </quiz-listening>
 
@@ -213,26 +202,39 @@ beneath, block, dashboard, frustrating, get a hold of, go wrong, in a row, keep 
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| keep you waiting | 让你久等 |
-| running late | 迟到 / 赶时间 |
-| on my way | 在路上 |
-| long story short | 长话短说 |
-| get a hold of | 联系上（某人） |
-| go wrong | 出问题 / 出错 |
-| lose track of time | 忘了时间 |
-| pull over | 靠边停车 |
-| pothole | 路面坑洞 |
-| train tracks | 铁轨 |
-| block | 街区 / 堵塞 |
+| beneath | 在…下方 |
+| block | 堵住 / 街区 |
 | dashboard | 仪表盘 |
-| motor | 发动机 / 马达 |
-| pedal | 踏板 |
-| leak | 泄漏 |
-| frustrating | 令人沮丧的 / 令人恼火的 |
-| sudden | 突然的 |
+| frustrating | 令人沮丧的 |
+| get a hold of | 联系上 |
+| go wrong | 出岔子 |
 | in a row | 连续地 |
+| keep you waiting | 让你久等 |
+| leak | 泄漏 |
+| long | 长的 |
+| long story | 说来话长 |
+| long story short | 长话短说 |
+| lose track of time | 忘了时间 |
+| motor | 发动机 |
+| on my way | 在路上 |
+| pedal | 踏板 |
+| pothole | 路面坑洞 |
+| pull over | 靠边停车 |
+| running late | 要迟到了 |
+| sorry to | 抱歉… |
+| sudden | 突然的 |
+| train tracks | 火车轨道 |
+| trip | 绊倒 / 旅程 |
+| was being | 当时正在… |
 | was being fixed | 当时正在被修理 |
-| beneath | 在……下方 |
+| is | 是 |
+| the | 这个（定冠词） |
+| car | 车 |
+| bus | 公交车 |
+| road | 路 |
+| brake | 刹车 |
+| light | 灯 |
+| cat | 猫 |
 
 </quiz-matching>
 
@@ -240,202 +242,202 @@ beneath, block, dashboard, frustrating, get a hold of, go wrong, in a row, keep 
 
 ### 1
 
-Sorry to keep you ____, I got stuck in heavy traffic.
+Sorry to ____ you waiting.
 
-- [x] waiting
-- [ ] beneath
-- [ ] block
+- [x] keep
+- [ ] keeping
+- [ ] kept
 
-> **解析**：**waiting** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：Sorry to 后接动词原形 keep；分词和过去式不合。
 
 ### 2
 
-I am ____ late because my alarm clock failed to ring.
+I'm running ____.
 
-- [x] running
-- [ ] beneath
-- [ ] block
+- [x] late
+- [ ] later of
+- [ ] lately
 
-> **解析**：**running** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：running late（要迟到了）是固定表达；lately 是"最近"，义不合。
 
 ### 3
 
-Don't worry, I am on my way and will arrive ____.
+I'm on my ____ now.
 
-- [x] shortly
-- [ ] beneath
-- [ ] block
+- [x] way
+- [ ] road
+- [ ] street
 
-> **解析**：**shortly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：on my way 是固定短语；road 和 street 不合该搭配。
 
 ### 4
 
-____ story short, I missed the bus and had to walk.
+Long story ____, I missed the bus.
 
-- [x] Long
-- [ ] beneath
-- [ ] block
+- [x] short
+- [ ] shorter
+- [ ] shortly of
 
-> **解析**：**Long** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：long story short 是固定表达；其他形式不合。
 
 ### 5
 
-I ____ to get a hold of you, but your line was busy.
+My car was being ____ at that time.
 
-- [x] tried
-- [ ] beneath
-- [ ] block
+- [x] fixed
+- [ ] fix
+- [ ] fixing
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **tried**。
+> **解析**：was being + 过去分词构成被动进行时；原形和现在分词不合。
 
 ### 6
 
-____ that could go wrong did go wrong this morning.
+The motor had a ____.
 
-- [x] Everything
-- [ ] beneath
-- [ ] block
+- [x] leak
+- [ ] leaking
+- [ ] leaked
 
-> **解析**：**Everything** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：冠词 a 后接名词 leak；分词和过去式不合该位置。
 
 ### 7
 
-I was reading a ____ book and lost track of time.
+I pressed the brake ____.
 
-- [x] fascinating
-- [ ] beneath
-- [ ] block
+- [x] pedal
+- [ ] paddled
+- [ ] pedaling
 
-> **解析**：**fascinating** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：brake pedal（刹车踏板）是固定搭配；其他形式不合。
 
 ### 8
 
-The driver had to pull over when the engine ____ smoking.
+I tripped ____ a pothole.
 
-- [x] started
+- [x] over
+- [ ] on of
 - [ ] beneath
-- [ ] block
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **started**。
+> **解析**：trip over（被…绊倒）是固定搭配；beneath 是"下方"，不合。
 
 ### 9
 
-My car hit a deep ____ and damaged the front tire.
+I had to pull ____.
 
-- [x] pothole
+- [x] over
+- [ ] up of
 - [ ] beneath
-- [ ] block
 
-> **解析**：**pothole** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：pull over（靠边停车）是固定短语；其他不合。
 
 ### 10
 
-We had to stop and wait for a ____ train at the train tracks.
+Everything went ____ today.
 
-- [x] freight
-- [ ] beneath
-- [ ] block
+- [x] wrong
+- [ ] wrongs
+- [ ] wrongly of
 
-> **解析**：**freight** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：go wrong 是固定搭配，wrong 作表语；其他形式不合。
 
 ### 11
 
-An accident caused a massive traffic ____ on the highway.
+It was a ____ stop.
 
-- [x] block
-- [ ] beneath
-- [ ] dashboard
+- [x] sudden
+- [ ] suddenly
+- [ ] suddenness
 
-> **解析**：**block** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰名词 stop 需形容词 sudden；副词和名词不合。
 
 ### 12
 
-A warning icon illuminated on the car's ____.
+The cat is ____ the car.
 
-- [x] dashboard
-- [ ] beneath
-- [ ] block
+- [x] beneath
+- [ ] beneath of
+- [ ] beneath to
 
-> **解析**：**dashboard** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：beneath 直接作介词，不需加词；带 of/to 的形式不合。
 
 ### 13
 
-The electric ____ made a strange whining noise.
+I couldn't get a ____ of you.
 
-- [x] motor
-- [ ] beneath
-- [ ] block
+- [x] hold
+- [ ] hand
+- [ ] hold of
 
-> **解析**：**motor** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get a hold of（联系上）是固定短语；hand 不合，重复 of 的选项多余。
 
 ### 14
 
-Press the brake ____ firmly to bring the car to a stop.
+I lost ____ of time.
 
-- [x] pedal
-- [ ] beneath
-- [ ] block
+- [x] track
+- [ ] truck
+- [ ] trace of
 
-> **解析**：**pedal** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：lose track of（忘了…）是固定搭配；truck 是卡车，不合。
 
 ### 15
 
-We found a fluid ____ beneath the engine compartment.
+I've been late three days in a ____.
 
-- [x] leak
-- [ ] beneath
-- [ ] block
+- [x] row
+- [ ] line
+- [ ] rows
 
-> **解析**：**leak** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：in a row（连续地）是固定短语；line 和复数不合该搭配。
 
 ### 16
 
-It is very ____ when technology fails during a deadline.
+This day has been so ____.
 
 - [x] frustrating
-- [ ] beneath
-- [ ] block
+- [ ] frustrated
+- [ ] frustration
 
-> **解析**：**frustrating** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：形容"一天"的特质用 frustrating；frustrated 修饰人，名词不合。
 
 ### 17
 
-The vehicle suffered a ____ breakdown on the highway.
+The commute was quite a ____.
 
-- [x] sudden
-- [ ] beneath
-- [ ] block
+- [x] trip
+- [ ] trips
+- [ ] tripping
 
-> **解析**：**sudden** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a + 单数名词 trip；复数和分词不合。
 
 ### 18
 
-He had three bad luck ____ in a row today.
+A warning light came on the ____.
 
-- [x] incidents
-- [ ] beneath
-- [ ] block
+- [x] dashboard
+- [ ] dashboards
+- [ ] dashing
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **incidents**。
+> **解析**：the dashboard（仪表盘）用单数；复数和分词不合。
 
 ### 19
 
-The broken bridge was being fixed by ____ crews.
+The train tracks ____ the road.
 
-- [x] maintenance
-- [ ] beneath
-- [ ] block
+- [x] blocked
+- [ ] blocking
+- [ ] blocks
 
-> **解析**：**maintenance** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：描述过去事件用过去式 blocked；分词不合，blocks 与复数主语搭配时态不合。
 
 ### 20
 
-Water pooled ____ the leaky sink in the kitchen.
+He was being ____ this morning.
 
-- [x] beneath
-- [ ] block
-- [ ] dashboard
+- [x] strange
+- [ ] strangely of
+- [ ] stranger
 
-> **解析**：**beneath** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was being + 形容词表"当时表现得很…"；副词形式和名词不合。
 
 </quiz-cloze>

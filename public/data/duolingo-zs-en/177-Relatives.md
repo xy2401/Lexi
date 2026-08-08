@@ -10,30 +10,29 @@ alive, babysitter, close, daughter-in-law, extended family, female, great-grandm
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"亲戚关系和年龄"展开。你需要描述家庭成员的构成和关系：My extended family is quite large—my great-grandmother is still alive, and she had a great-grandson last year.（我的大家庭相当大——我曾祖母还健在，她去年有了曾孙。）My immediate family is smaller: my mother-in-law, my sister-in-law, and my stepfather.（我的直系家庭小一些：婆婆/岳母、嫂子/小姑子和继父。）
+本单元的主题是"聊家庭成员、年龄与家庭变迁"。词表可以分成三组：姻亲与继亲（in-laws, mother-in-law, sister-in-law, daughter-in-law, son-in-law, stepfather, stepmother）、家庭范围与状态（immediate, extended family, close, alive, middle-aged, female, male, great-grandmother, great-grandson, babysitter）、以及变化与动作（had, hadn't, pass away, split, split up, laugh）。串起来就是一段家庭介绍：My extended family is big. My mother-in-law is middle-aged, and my great-grandmother is still alive.
 
-词表里有大量家庭称谓：daughter-in-law, son-in-law, mother-in-law, sister-in-law, in-laws（姻亲）；stepfather, stepmother（继父母）；great-grandmother, great-grandson（曾祖辈/曾孙辈）。这些词通过前缀和后缀构成系统：-in-law 表示姻亲，step- 表示继亲，great- 表示隔一代。
+语法主线有两条。第一是复合亲属词的构词：-in-law 表示姻亲（mother-in-law），step- 表示继亲（stepmother），great- 表示隔代（great-grandmother）。第二是过去完成时 had/hadn't 描述"过去的过去"的家庭经历：She had lost her father before I met her. 注意 pass away 是"去世"的委婉说法，split up 是"分手、分开"。
 
-had / hadn't 是过去完成时，用来讲述家族往事：She hadn't met her son-in-law before the wedding.（婚礼前她还没见过女婿。）pass away 是"去世"的委婉说法。split up 表示"分手/离婚"。alive, middle-aged, male, female 用来描述年龄和性别。close 形容关系亲密：We're a close family.
+学完本单元，你能介绍大家庭与姻亲关系、描述年龄阶段、委婉地谈论家庭变故。
 
 ## Tips
 
-- **-in-law 系列 / in-laws** — -in-law 表示因婚姻产生的亲属关系：mother-in-law（婆婆/岳母）、son-in-law（女婿）、sister-in-law（嫂子/小姑/弟媳）。in-laws 是口语中对所有姻亲的总称：My in-laws are visiting. 注意连字符不能省。
+- **-in-law 家族** — mother-in-law（岳母/婆婆）、sister-in-law（嫂子/小姑/妯娌）、daughter-in-law（儿媳）、son-in-law（女婿）、in-laws（配偶家人统称）。复数变在 -law 前：mothers-in-law，✗ mother-in-laws。
 
-- **step- / great-** — step- 表示继亲关系：stepfather（继父）、stepmother（继母）。great- 表示多隔一代：great-grandmother（曾祖母）、great-grandson（曾孙）。可以叠加：great-great-grandmother（高祖母）。
+- **step- / great-** — stepfather（继父）、stepmother（继母），step- 表示"继"。great-grandmother（曾祖母）、great-grandson（曾孙），great- 表示隔一代。
 
-- **extended family / immediate** — extended family = 大家庭（包括祖父母、叔伯、表亲等）。immediate family = 直系亲属（通常只指父母、配偶、子女）。搭配：my immediate family / close family。
+- **immediate / extended family / close** — immediate family 是"直系亲属"（父母子女兄弟姐妹）。extended family 是"大家庭"（含叔伯祖辈）。close 形容关系"亲近的"：a close family。
 
-- **pass away / alive / split up** — pass away 是 die 的委婉表达：Her grandfather passed away last year. alive = 活着的，通常作表语：She's still alive.（不说 an alive person，要说 a living person。）split up = 分手/离婚：They split up after ten years.
+- **alive / middle-aged / female / male** — alive 是"在世的、活着的"，只作表语：She is still alive. ✗ an alive person → ✓ a living person。middle-aged 是"中年的"。female/male 表"女性/男性"。
 
-- **middle-aged / male / female** — middle-aged = 中年的（大约 45-65 岁）。male / female 是性别形容词/名词，比 man/woman 更正式或用于分类：a male babysitter / female relatives。
+- **great-grandmother / great-grandson / babysitter** — great-grandmother 是"曾祖母"。great-grandson 是"曾孙"。babysitter 是"临时保姆"，babysit + -er。
 
-- **babysitter / close / laugh** — babysitter 是临时照看孩子的人（baby + sit + -er）。close 形容关系时读 /kloʊs/：a close family. laugh 是笑/大笑，名词也是 laugh：We had a good laugh.
+- **pass away / split / split up** — pass away 是"去世"的委婉语，比 die 温和：Her grandmother passed away last year. split 是"分开、分摊"。split up 特指"分手、离异"：They split up in 2019.
 
-- **had / hadn't** — 过去完成时：had + 过去分词。在家族叙事中表示"更早之前"：By the time I was born, my great-grandmother had already had five grandchildren. hadn't = had not。
+- **had / hadn't / laugh** — had 用于过去完成时：We had met before the wedding. hadn't 是 had not。laugh 是"笑"：We laughed a lot.
 
 ## 练习
 
@@ -51,149 +50,149 @@ had / hadn't 是过去完成时，用来讲述家族往事：She hadn't met her 
 
 <quiz-sentence-builder>
 
-1. **中文**：可喜的是，我的百岁曾祖母依然健康地活着。
-   **英文**：My great-grandmother is still alive and well at ninety.
-   > **解析**：alive 表示“活着的/有生气的”。
+1. **中文**：我的曾祖母仍然健在。
+   **英文**：My great-grandmother is still alive.
+   > **解析**：alive 只作表语；still 加强"仍然"。
 
-2. **中文**：我们聘请了一位细心的保姆在周末照看孩子。
-   **英文**：We hired a reliable babysitter for Friday night.
-   > **解析**：babysitter 表示“保姆/临时照看孩子的人”。
+2. **中文**：我和婆婆关系很亲近。
+   **英文**：I am close to my mother-in-law.
+   > **解析**：be close to 是"与……亲近"的固定搭配。
 
-3. **中文**：我的儿媳妇是一位非常有经验的儿科医生。
-   **英文**：My daughter-in-law prepared a fantastic family meal.
-   > **解析**：daughter-in-law 表示“儿媳/儿媳妇”。
+3. **中文**：我的大家庭每年聚会一次。
+   **英文**：My extended family meets once a year.
+   > **解析**：meets 是三单形式；once a year 是频率状语。
 
-4. **中文**：逢年过节时，我们庞大的大家庭都会聚在一起。
-   **英文**：Our extended family gets together every summer.
-   > **解析**：extended family 表示“大家庭/旁系亲友”。
+4. **中文**：我的直系亲属只有三个人。
+   **英文**：My immediate family has only three people.
+   > **解析**：has 是三单形式；immediate family 指直系亲属。
 
-5. **中文**：这间健身房每周三专门为女性会员开班。
-   **英文**：The club opened a new group for female members.
-   > **解析**：female 表示“女性的/女的”。
+5. **中文**：她是一名中年女性。
+   **英文**：She is a middle-aged woman.
+   > **解析**：middle-aged 作定语修饰 woman。
 
-6. **中文**：我的曾祖母常给孩子们讲述过去的老故事。
-   **英文**：My great-grandmother loves to share old stories with us.
-   > **解析**：great-grandmother 表示“曾祖母/外曾祖母”。
+6. **中文**：这位医生是男性。
+   **英文**：The doctor is male.
+   > **解析**：male 作表语，表示性别。
 
-7. **中文**：老人非常疼爱他活泼可爱的曾孙。
-   **英文**：The grandfather is proud of his young great-grandson.
-   > **解析**：great-grandson 表示“曾孙/外曾孙”。
+7. **中文**：我嫂子怀孕了。
+   **英文**：My sister-in-law is pregnant.
+   > **解析**：sister-in-law 是"嫂子/小姑"；pregnant 作表语。
 
-8. **中文**：紧急联系人仅限于你的直系亲属成员。
-   **英文**：He invited only members of his immediate family.
-   > **解析**：immediate family 表示“直系亲属/核心家庭”。
+8. **中文**：他们的儿媳很友好。
+   **英文**：Their daughter-in-law is friendly.
+   > **解析**：daughter-in-law 作主语；friendly 作表语。
 
-9. **中文**：假期里我们要去拜访住在加州的的姻亲公婆。
-   **英文**：We are going to visit our in-laws this holiday season.
-   > **解析**：in-laws 表示“姻亲/公婆/岳父母”。
+9. **中文**：他的女婿是个老师。
+   **英文**：His son-in-law is a teacher.
+   > **解析**：son-in-law 作主语；a teacher 作表语。
 
-10. **中文**：俱乐部里男性成员和女性成员各占一半。
-   **英文**：Both male and female athletes joined the marathon.
-   > **解析**：male 表示“男性的/男的”。
+10. **中文**：我继父很幽默。
+   **英文**：My stepfather has a great sense of humor.
+   > **解析**：stepfather 是"继父"；has 表示"有"。
 
-11. **中文**：那位中年男子是社区公园的志愿者管理者。
-   **英文**：A middle-aged man helped guide us through the park.
-   > **解析**：middle-aged 表示“中年的/中年人的”。
+11. **中文**：继母给我们做了晚餐。
+   **英文**：My stepmother made us dinner.
+   > **解析**：made 是 make 的过去式；make sb. sth. 双宾语结构。
 
-12. **中文**：我的岳母做意式烤肉的厨艺非常棒。
-   **英文**：My mother-in-law baked a delicious cake for my birthday.
-   > **解析**：mother-in-law 表示“岳母/婆婆”。
+12. **中文**：我们雇了个临时保姆。
+   **英文**：We hired a babysitter.
+   > **解析**：hired 是过去式；babysitter 作宾语。
 
-13. **中文**：老爷爷在九十岁高龄时安详地去世了。
-   **英文**：Her grandfather passed away peacefully last night.
-   > **解析**：passed away 表示“去世/过世”。
+13. **中文**：她的祖母去年去世了。
+   **英文**：Her grandmother passed away last year.
+   > **解析**：pass away 是"去世"的委婉说法；passed 是过去式。
 
-14. **中文**：我的嫂子在市中心经营着一家花店。
-   **英文**：My sister-in-law is an experienced interior designer.
-   > **解析**：sister-in-law 表示“嫂子/弟媳/姑子/姨子”。
+14. **中文**：他们 2019 年分手了。
+   **英文**：They split up in 2019.
+   > **解析**：split up 是"分手"；split 的过去式仍为 split。
 
-15. **中文**：他们的女婿在一家国际科技公司担任工程师。
-   **英文**：Their son-in-law works as a software developer.
-   > **解析**：son-in-law 表示“女婿”。
+15. **中文**：账单我们分摊吧。
+   **英文**：Let's split the bill.
+   > **解析**：split 是"分摊"；let's 后接原形。
 
-16. **中文**：经过多年的矛盾，那对夫妻最终决定分手了。
-   **英文**：The couple decided to split up after five years.
-   > **解析**：split up 表示“分手/分居/拆散”。
+16. **中文**：我们笑得很开心。
+   **英文**：We laughed a lot.
+   > **解析**：laughed 是过去式；a lot 修饰动词。
 
-17. **中文**：她的继父对待她就像亲生女儿一样好。
-   **英文**：Her stepfather taught her how to drive a car.
-   > **解析**：stepfather 表示“继父”。
+17. **中文**：我们结婚前就见过面了。
+   **英文**：We had met before the wedding.
+   > **解析**：见面发生在结婚之前，用过去完成时 had met。
 
-18. **中文**：他的继母为他准备了丰盛的生日午餐。
-   **英文**：His stepmother cooks delicious meals for the family.
-   > **解析**：stepmother 表示“继母”。
+18. **中文**：她之前从没去过她婆家。
+   **英文**：She hadn't visited her in-laws before.
+   > **解析**：hadn't 是 had not 的缩写；in-laws 指配偶的家人。
 
-19. **中文**：我和我的几位高中堂兄弟关系非常亲密。
-   **英文**：She is very close with all of her cousins.
-   > **解析**：close 表示“亲密的/近的”。
+19. **中文**：她的曾孙刚出生。
+   **英文**：Her great-grandson was just born.
+   > **解析**：was born 是"出生"的固定表达；just 表"刚刚"。
 
-20. **中文**：听到那个幽默的笑话后，大家开怀大笑。
-   **英文**：The funny joke made everyone in the room laugh out loud.
-   > **解析**：laugh 表示“发笑/笑”。
+20. **中文**：年龄只是个数字。
+   **英文**：Age is just a number.
+   > **解析**：age 作主语；just a number 作表语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. My great-grandmother is still alive and well at ninety.
-   > **中文**：可喜的是，我的百岁曾祖母依然健康地活着。
+1. Is your grandmother still alive?
+   > **中文**：你祖母还健在吗？
 
-2. We hired a reliable babysitter for Friday night.
-   > **中文**：我们聘请了一位细心的保姆在周末照看孩子。
+2. We are a close family.
+   > **中文**：我们是个亲密的家庭。
 
-3. My daughter-in-law prepared a fantastic family meal.
-   > **中文**：我的儿媳妇是一位非常有经验的儿科医生。
+3. My extended family is huge.
+   > **中文**：我的大家庭人很多。
 
-4. Our extended family gets together every summer.
-   > **中文**：逢年过节时，我们庞大的大家庭都会聚在一起。
+4. Her immediate family is small.
+   > **中文**：她的直系亲属很少。
 
-5. The club opened a new group for female members.
-   > **中文**：这间健身房每周三专门为女性会员开班。
+5. He is a middle-aged man.
+   > **中文**：他是一名中年男子。
 
-6. My great-grandmother loves to share old stories with us.
-   > **中文**：我的曾祖母常给孩子们讲述过去的老故事。
+6. The new nurse is female.
+   > **中文**：新来的护士是女性。
 
-7. The grandfather is proud of his young great-grandson.
-   > **中文**：老人非常疼爱他活泼可爱的曾孙。
+7. My brother-in-law is male.
+   > **中文**：我的小舅子是男性。
 
-8. He invited only members of his immediate family.
-   > **中文**：紧急联系人仅限于你的直系亲属成员。
+8. My mother-in-law cooks well.
+   > **中文**：我婆婆做饭很好吃。
 
-9. We are going to visit our in-laws this holiday season.
-   > **中文**：假期里我们要去拜访住在加州的的姻亲公婆。
+9. Her sister-in-law lives nearby.
+   > **中文**：她嫂子住在附近。
 
-10. Both male and female athletes joined the marathon.
-   > **中文**：俱乐部里男性成员和女性成员各占一半。
+10. Their daughter-in-law is kind.
+   > **中文**：他们的儿媳很善良。
 
-11. A middle-aged man helped guide us through the park.
-   > **中文**：那位中年男子是社区公园的志愿者管理者。
+11. Our son-in-law is an engineer.
+   > **中文**：我们的女婿是工程师。
 
-12. My mother-in-law baked a delicious cake for my birthday.
-   > **中文**：我的岳母做意式烤肉的厨艺非常棒。
+12. My stepfather taught me to fish.
+   > **中文**：我继父教我钓鱼。
 
-13. Her grandfather passed away peacefully last night.
-   > **中文**：老爷爷在九十岁高龄时安详地去世了。
+13. The stepmother reads to the kids.
+   > **中文**：继母给孩子们读书。
 
-14. My sister-in-law is an experienced interior designer.
-   > **中文**：我的嫂子在市中心经营着一家花店。
+14. The babysitter arrived at six.
+   > **中文**：保姆六点到了。
 
-15. Their son-in-law works as a software developer.
-   > **中文**：他们的女婿在一家国际科技公司担任工程师。
+15. Her great-grandmother is ninety.
+   > **中文**：她的曾祖母九十岁了。
 
-16. The couple decided to split up after five years.
-   > **中文**：经过多年的矛盾，那对夫妻最终决定分手了。
+16. The great-grandson is two years old.
+   > **中文**：曾孙两岁了。
 
-17. Her stepfather taught her how to drive a car.
-   > **中文**：她的继父对待她就像亲生女儿一样好。
+17. My uncle passed away in spring.
+   > **中文**：我叔叔在春天去世了。
 
-18. His stepmother cooks delicious meals for the family.
-   > **中文**：他的继母为他准备了丰盛的生日午餐。
+18. They split up last year.
+   > **中文**：他们去年分手了。
 
-19. She is very close with all of her cousins.
-   > **中文**：我和我的几位高中堂兄弟关系非常亲密。
+19. We laughed all evening.
+   > **中文**：我们笑了一整晚。
 
-20. The funny joke made everyone in the room laugh out loud.
-   > **中文**：听到那个幽默的笑话后，大家开怀大笑。
+20. She hadn't met them before.
+   > **中文**：她以前没见过他们。
 
 </quiz-listening>
 
@@ -201,26 +200,47 @@ had / hadn't 是过去完成时，用来讲述家族往事：She hadn't met her 
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| alive | 活着的 |
-| babysitter | 保姆 / 代看孩子者 |
+| alive | 在世的 |
+| babysitter | 临时保姆 |
+| close | 亲近的 |
 | daughter-in-law | 儿媳 |
 | extended family | 大家庭 |
-| female | 女性的 |
+| female | 女性 |
 | great-grandmother | 曾祖母 |
 | great-grandson | 曾孙 |
-| immediate family | 直系亲属 |
-| in-laws | 姻亲 / 公婆岳父母 |
-| male | 男性的 |
+| had | 有 / 已经（过去完成时） |
+| hadn't | 没有（过去完成否定） |
+| immediate | 直系的 |
+| in-laws | 配偶的家人 |
+| laugh | 笑 |
+| male | 男性 |
 | middle-aged | 中年的 |
 | mother-in-law | 岳母 / 婆婆 |
-| passed away | 去世（pass away的过去式） |
-| sister-in-law | 嫂子 / 弟媳 / 姑子 |
+| pass away | 去世（委婉语） |
+| sister-in-law | 嫂子 / 小姑 |
 | son-in-law | 女婿 |
-| split up | 分手 / 分居 |
+| split | 分开 / 分摊 |
+| split up | 分手 |
 | stepfather | 继父 |
 | stepmother | 继母 |
-| close | 亲密的 |
-| laugh | 笑 / 发笑 |
+| I | 我 |
+| we | 我们 |
+| she | 她 |
+| he | 他 |
+| they | 他们 |
+| my | 我的 |
+| her | 她的 |
+| his | 他的 |
+| their | 他们的 |
+| is | 是（单数） |
+| was | 是（过去式） |
+| are | 是（复数） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| still | 仍然 |
+| just | 刚刚 / 只是 |
+| before | 在……之前 |
+| year | 年 |
 
 </quiz-matching>
 
@@ -228,202 +248,202 @@ had / hadn't 是过去完成时，用来讲述家族往事：She hadn't met her 
 
 ### 1
 
-My ____ is still alive and well at ninety.
+Her grandmother is still ____.
 
-- [x] great-grandmother
-- [ ] alive
-- [ ] babysitter
+- [x] alive
+- [ ] live
+- [ ] alive's
 
-> **解析**：**great-grandmother** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：is 后作表语用 alive；live 是动词，alive 没有所有格形式。
 
 ### 2
 
-We hired a reliable ____ for Friday night.
+I am very close ____ my aunt.
 
-- [x] babysitter
-- [ ] alive
-- [ ] close
+- [x] to
+- [ ] with
+- [ ] for
 
-> **解析**：**babysitter** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：be close to 是固定搭配；with 和 for 不构成该短语。
 
 ### 3
 
-My ____ prepared a fantastic family meal.
+My ____ family includes uncles and cousins.
 
-- [x] daughter-in-law
-- [ ] alive
-- [ ] babysitter
+- [x] extended
+- [ ] extend
+- [ ] extension
 
-> **解析**：**daughter-in-law** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：大家庭是 extended family；extend 是动词，extension 是名词"延伸"。
 
 ### 4
 
-Our ____ family gets together every summer.
+Her ____ family is just her parents and sister.
 
-- [x] extended
-- [ ] alive
-- [ ] babysitter
+- [x] immediate
+- [ ] immediately
+- [ ] immediate's
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **extended**。
+> **解析**：直系亲属是 immediate family；immediately 是副词。
 
 ### 5
 
-The club opened a new group for ____ members.
+He is a ____ man with two kids.
 
-- [x] female
-- [ ] alive
-- [ ] babysitter
+- [x] middle-aged
+- [ ] middle-age
+- [ ] mid aged
 
-> **解析**：**female** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：中年的固定写法是 middle-aged，带连字符；其余拼写不规范。
 
 ### 6
 
-My ____ loves to share old stories with us.
+The applicant must be ____.
 
-- [x] great-grandmother
-- [ ] alive
-- [ ] babysitter
+- [x] female
+- [ ] feminine
+- [ ] femaleness
 
-> **解析**：**great-grandmother** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：表性别用 female；feminine 指"女性气质的"，femaleness 非常用词。
 
 ### 7
 
-The grandfather is proud of his young ____.
+The newborn baby is ____.
 
-- [x] great-grandson
-- [ ] alive
-- [ ] babysitter
+- [x] male
+- [ ] man
+- [ ] manly
 
-> **解析**：**great-grandson** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：表性别用 male；man 是成年男子，manly 是"有男子气概的"。
 
 ### 8
 
-He invited only members of his ____ family.
+My ____ lives with us and helps with the kids.
 
-- [x] immediate
-- [ ] alive
-- [ ] babysitter
+- [x] mother-in-law
+- [ ] mother in laws
+- [ ] motherlaw
 
-> **解析**：**immediate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：岳母/婆婆的规范写法是 mother-in-law；其余连字符或复数位置错误。
 
 ### 9
 
-We are going to visit our ____ this holiday season.
+Her ____ just got married last month.
 
-- [x] in-laws
-- [ ] alive
-- [ ] babysitter
+- [x] daughter-in-law
+- [ ] daughter in law's
+- [ ] daughterlaw
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **in-laws**。
+> **解析**：儿媳是 daughter-in-law；其余形式拼写错误。
 
 ### 10
 
-Both ____ and female athletes joined the marathon.
+Our ____ visited us over the holiday.
 
-- [x] male
-- [ ] alive
-- [ ] babysitter
+- [x] son-in-law
+- [ ] sons in law's
+- [ ] sonlaw
 
-> **解析**：**male** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：女婿是 son-in-law；其余形式拼写错误。
 
 ### 11
 
-A ____ man helped guide us through the park.
+My ____ raised me after my mother remarried.
 
-- [x] middle-aged
-- [ ] alive
-- [ ] babysitter
+- [x] stepfather
+- [ ] step father's
+- [ ] father-step
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **middle-aged**。
+> **解析**：继父写作 stepfather，一个词；其余形式错误。
 
 ### 12
 
-My ____ baked a delicious cake for my birthday.
+The kids love their ____.
 
-- [x] mother-in-law
-- [ ] alive
-- [ ] babysitter
+- [x] stepmother
+- [ ] step mother's
+- [ ] mother-step
 
-> **解析**：**mother-in-law** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：继母写作 stepmother，一个词；其余形式错误。
 
 ### 13
 
-Her ____ passed away peacefully last night.
+We called the ____ for the evening.
 
-- [x] grandfather
-- [ ] alive
-- [ ] babysitter
+- [x] babysitter
+- [ ] babysit
+- [ ] babysitting
 
-> **解析**：**grandfather** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：指人用 babysitter；babysit 是动词，babysitting 是动名词。
 
 ### 14
 
-My ____ is an experienced interior designer.
+My great-____ just turned ninety-five.
 
-- [x] sister-in-law
-- [ ] alive
-- [ ] babysitter
+- [x] grandmother
+- [ ] grandma's
+- [ ] grand mother
 
-> **解析**：**sister-in-law** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：曾祖母是 great-grandmother；grandma's 是所有格，grand mother 写法错误。
 
 ### 15
 
-Their ____ works as a software developer.
+Her great-____ was born last month.
 
-- [x] son-in-law
-- [ ] alive
-- [ ] babysitter
+- [x] grandson
+- [ ] grandsons
+- [ ] grand son
 
-> **解析**：**son-in-law** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：曾孙是 great-grandson；grandsons 复数与 was 冲突，grand son 写法错误。
 
 ### 16
 
-The couple decided to ____ up after five years.
+His father ____ away two years ago.
 
-- [x] split
-- [ ] alive
-- [ ] babysitter
+- [x] passed
+- [ ] pass
+- [ ] passing
 
-> **解析**：**split** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：two years ago 提示过去时 passed；pass away 是"去世"的委婉说法。
 
 ### 17
 
-Her ____ taught her how to drive a car.
+The couple ____ up after ten years together.
 
-- [x] stepfather
-- [ ] alive
-- [ ] babysitter
+- [x] split
+- [ ] split up's
+- [ ] splat
 
-> **解析**：**stepfather** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：分手用 split up，split 过去式不变；splat 是"啪嗒声"。
 
 ### 18
 
-His ____ cooks delicious meals for the family.
+Let's ____ the cost three ways.
 
-- [x] stepmother
-- [ ] alive
-- [ ] babysitter
+- [x] split
+- [ ] split up
+- [ ] splitting
 
-> **解析**：**stepmother** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：分摊费用用 split；split up 指分手，splitting 不能与 let's 搭配。
 
 ### 19
 
-She is very ____ with all of her cousins.
+We ____ all night at the party.
 
-- [x] close
-- [ ] alive
-- [ ] babysitter
+- [x] laughed
+- [ ] laugh
+- [ ] laughing
 
-> **解析**：**close** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去用过去式 laughed；laughing 不能单独作谓语。
 
 ### 20
 
-The funny joke made everyone in the room ____ out loud.
+She ____ met her husband's family before the wedding.
 
-- [x] laugh
-- [ ] alive
-- [ ] babysitter
+- [x] had
+- [ ] has
+- [ ] having
 
-> **解析**：**laugh** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：婚礼之前发生的事用过去完成时 had met；has 是现在完成时，having 不能单独作助动词。
 
 </quiz-cloze>

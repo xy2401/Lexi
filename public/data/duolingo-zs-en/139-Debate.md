@@ -10,40 +10,33 @@ ahead, argue, at all, chosen, completed, disagree, enemy, extremely, increase, m
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"分享你对解决方案的看法"展开。核心是辩论表达：In my opinion, we need to solve this problem right away.（在我看来，我们需要立刻解决这个问题。）、I completely disagree—I don't think that's necessary at all.（我完全不同意——我觉得那根本没必要。）、The media has made up stories about the enemy.（媒体编造了关于敌人的故事。）、Have you thought about my suggestion?（你考虑过我的建议吗？）。
+本单元的主题是"就解决方案分享想法"，词表可以分成三组：观点表达（opinion, suggestion, thought, mind, disagree, argue, right）、问题解决（solve, solved, completed, chosen, necessary, increase, make up, serious, trouble）、以及语境词（media, enemy, prison, opposite, extremely, at all, ahead, paid）。拼起来就是一场讨论：In my opinion, this suggestion can solve the problem. I disagree with the opposite view, and I have thought about it a lot.
 
-词表里有辩论词汇（argue, disagree, opinion, suggestion）和解决问题词汇（solve, necessary, increase）。你可以练习：We need to think ahead. / The problem has been solved. / It's extremely serious. / He paid for his crimes and went to prison.
+语法主线有两个。一是表达观点的句型：In my opinion...、I disagree with...、Do you mind...?，其中 mind 后接动名词：Do you mind waiting? 二是过去分词作形容词/被动的用法：chosen（被选中的）、completed（已完成的）、solved（已解决的）、paid（已支付的）：The problem is solved. 注意 solve 与 solved 的分工——动词与状态。
 
-disagree with 表示"不同意"。at all 用于加强否定语气。
+学完这单元，你能用英语参与讨论：提出建议、表达同意或反对、描述问题的严重程度、说明方案是否完成。
 
 ## Tips
 
-- **opinion / disagree / argue** — 观点 / 不同意 / 争论。搭配：in my opinion, disagree with, argue about。例句：In my opinion, this is wrong. / I disagree with you. / They argued about politics. 注意 disagree with sb / disagree with an idea。
+- **opinion / suggestion / thought** — 观点三词。opinion 意见：In my opinion。suggestion 建议，动词 suggest：a useful suggestion。thought 想法（think 的名词化）：deep thoughts。提建议常说 make a suggestion。
 
-- **solve / solved / necessary** — 解决 / 解决了 / 必要的。搭配：solve the problem, has been solved, if necessary。例句：We need to solve this issue. / The problem is solved. / Is it really necessary? 注意 solve 比 fix 更正式。
+- **disagree / argue** — disagree 不同意，与 with 连用：I disagree with you. 名词 disagreement。argue 争论：argue about the plan。argue with someone about something。
 
-- **at all / extremely / serious** — 根本 / 极其 / 严重的。搭配：not at all, extremely important, a serious problem。例句：I don't agree at all. / It's extremely serious. / This is a serious issue. 注意 at all 用于否定句加强语气。
+- **mind** — 介意，疑问句常用：Do you mind opening the window? mind 后接动名词。回答注意：No, I don't mind.（不介意）Yes 反而表示介意，中英逻辑相反。
 
-- **media / make up / enemy** — 媒体 / 编造 / 敌人。搭配：the media, make up stories, the enemy。例句：The media reported it. / They made up the whole story. / The enemy was defeated. 注意 make up = 编造/虚构。
+- **solve / solved** — solve 解决，solved 是过去式和过去分词：We solved the problem. / The problem is solved. 名词 solution。
 
-- **suggestion / thought / mind** — 建议 / 想法 / 介意。搭配：a suggestion, have you thought about, Do you mind? 例句：I have a suggestion. / Have you thought about it? / Do you mind if I speak? 注意 suggestion 比 advice 更具体（一条建议）。
+- **necessary / serious** — necessary 必要的：It is necessary to act now. serious 严重的、认真的：a serious problem。副词 seriously。
 
-- **increase / ahead / right** — 增加 / 提前 / 立刻。搭配：increase the budget, think ahead, right away。例句：We need to increase funding. / Think ahead—plan now. / We need to act right away. 注意 right away = immediately。
+- **completed / chosen / paid** — 三个过去分词。complete 完成：The project is completed. choose 选择，不规则 choose → chose → chosen：the chosen plan。pay 支付，pay → paid → paid：The bill is paid.
 
-- **prison / paid / trouble** — 监狱 / 付了 / 麻烦。搭配：go to prison, paid the price, in trouble。例句：He went to prison for his crimes. / She paid the fine. / You're in trouble! 注意 go to prison 不加 the。
+- **increase / make up** — increase 增加：increase the budget。make up 组成、编造、和好：make up a story（编故事）、make up with someone（与某人和好）。
 
-- **chosen / completed / opposite** — 选择了 / 完成了 / 相反的。搭配：the chosen one, completed the task, the opposite。例句：They chose the best solution. / The project is completed. / I think the opposite. 注意 choose → chose → chosen。
+- **media / enemy / prison / opposite** — media 媒体（medium 的复数形式）。enemy 敌人。prison 监狱：go to prison（入狱）。opposite 相反的、对立面：the opposite opinion。
 
-- **mind / necessary / right** — 介意 / 必要 / 正确。搭配：Do you mind? / Is it necessary? / You're right。例句：Do you mind if I add something? / Is this step necessary? / You're absolutely right. 注意 Do you mind if...? 用于礼貌请求。
-
-- **argue / disagree / opinion** — 争论 / 不同意 / 观点。搭配：argue about, disagree with, in my opinion。例句：Let's not argue. / I disagree with that idea. / In my opinion, we should wait. 注意 argue about + 话题。
-
-- **solve / suggestion / thought** — 解决 / 建议 / 想法。搭配：solve a problem, make a suggestion, give it thought。例句：How do we solve this? / I'd like to make a suggestion. / Give it some thought. 注意 give it thought = 好好想想。
-
-- **trouble / serious / extremely** — 麻烦 / 严重 / 极其。搭配：in trouble, a serious issue, extremely difficult。例句：We're in big trouble. / This is a serious matter. / It's extremely complicated. 注意 extremely 比 very 程度更强。
+- **extremely / at all / ahead / right / trouble** — extremely 极其：extremely important。at all 根本（多用于否定）：not at all（一点也不；也用于回应感谢）。ahead 向前：go ahead。right 正确的。trouble 麻烦：in trouble（有麻烦）。
 
 ## 练习
 
@@ -61,149 +54,149 @@ disagree with 表示"不同意"。at all 用于加强否定语气。
 
 <quiz-sentence-builder>
 
-1. **中文**：在辩论赛中，他表达了与对方完全相反的观点。  
-   **英文**：In the debate, he expressed an opposite opinion.
-   > **解析**：opposite 表示“相反的”；opinion 表示“观点/意见”。
+1. **中文**：在我看来，这个建议能解决问题。
+   **英文**：In my opinion, this suggestion can solve the problem.
+   > **解析**：In my opinion 引出观点；can 后接动词原形 solve。
 
-2. **中文**：我完全不同意你在媒体上关于增加监狱税收的提议。  
-   **英文**：I totally disagree with your opinion on media tax in prison.
-   > **解析**：disagree 表示“不同意”；media 表示“媒体”；prison 表示“监狱”。
+2. **中文**：我不同意这个观点。
+   **英文**：I disagree with this opinion.
+   > **解析**：disagree with 是固定搭配；this opinion 作宾语。
 
-3. **中文**：他们一直在争论是否有必要花钱解决麻烦。  
-   **英文**：They argue whether it is necessary to pay to solve trouble.
-   > **解析**：argue 表示“争论/辩论”；necessary 表示“必要的”；solve 表示“解决”；trouble 表示“麻烦”。
+3. **中文**：你们总是争论。
+   **英文**：You always argue about the plan.
+   > **解析**：argue about 表示"就……争论"；always 是频率副词。
 
-4. **中文**：这位被选中的代表下定决心改变他的看法。  
-   **英文**：The chosen representative made up his mind to change.
-   > **解析**：chosen 表示“被选中的”；make up one's mind 表示“下定决心”。
+4. **中文**：你介意等一下吗？
+   **英文**：Do you mind waiting?
+   > **解析**：mind 后接动名词 waiting；Do 提前构成疑问。
 
-5. **中文**：这项已完成的任务极其重要，根本容不得闪失。  
-   **英文**：This completed task is extremely vital, not easy at all.
-   > **解析**：completed 表示“已完成的”；extremely 表示“极其/非常”；at all 表示“根本（不）”。
+5. **中文**：问题解决了。
+   **英文**：The problem is solved.
+   > **解析**：is solved 是被动/状态结构；solved 是过去分词。
 
-6. **中文**：听取了她的有益建议后，问题得到了圆满解决。  
-   **英文**：After taking her helpful suggestion, the issue was solved.
-   > **解析**：suggestion 表示“建议”；solved 是 solve 的过去式，表示“解决”。
+6. **中文**：我们昨天解决了它。
+   **英文**：We solved it yesterday.
+   > **解析**：solved 是过去式；yesterday 与过去时连用。
 
-7. **中文**：媒体对于谁是真正敌人的讨论越来越剧烈。  
-   **英文**：The media has intense discussions about who the enemy is.
-   > **解析**：media 表示“媒体”；enemy 表示“敌人”。
+7. **中文**：现在行动是必要的。
+   **英文**：It is necessary to act now.
+   > **解析**：It 是形式主语，真正主语是 to act；necessary 作表语。
 
-8. **中文**：辩论双方就如何增加预算展开了激烈的辩论。  
-   **英文**：Both sides argue on how to increase the budget.
-   > **解析**：argue 表示“争论/辩论”；increase 表示“增加”。
+8. **中文**：这是一个严重的问题。
+   **英文**：This is a serious problem.
+   > **解析**：serious 修饰 problem；a 放在形容词前。
 
-9. **中文**：我一点也不喜欢参与这种无休止的意见争论。  
-   **英文**：I don't like getting into this opinion argument at all.
-   > **解析**：at all 表示“一点也（不）”。
+9. **中文**：项目已经完成了。
+   **英文**：The project is completed.
+   > **解析**：is completed 表示完成状态；completed 是过去分词。
 
-10. **中文**：经过慎重思考，他下定决心接受挑战。  
-   **英文**：After serious thought, he made up his mind to accept.
-   > **解析**：make up mind 表示“下定决心”；serious 表示“严肃的/认真的”。
+10. **中文**：被选中的计划很好。
+   **英文**：The chosen plan is good.
+   > **解析**：chosen 作定语修饰 plan，表示"被选中的"。
 
-11. **中文**：我尊重你的个人观点，但我持不同看法。  
-   **英文**：I respect your personal opinion, but I disagree.
-   > **解析**：opinion 表示“观点/意见”；disagree 表示“不同意”。
+11. **中文**：账单已经付过了。
+   **英文**：The bill is paid.
+   > **解析**：is paid 表示"已支付"；paid 是 pay 的过去分词。
 
-12. **中文**：双方就合同条款提出了完全相反的意见。  
-   **英文**：Both sides held opposite views during the debate.
-   > **解析**：opposite 表示“相反的”。
+12. **中文**：我们需要增加预算。
+   **英文**：We need to increase the budget.
+   > **解析**：need to + 动词原形 increase；the budget 作宾语。
 
-13. **中文**：请提出一个可行的解决方案来解决这个麻烦。  
-   **英文**：Please give a practical suggestion to solve this trouble.
-   > **解析**：suggestion 表示“建议”；solve 表示“解决”。
+13. **中文**：别编造借口。
+   **英文**：Don't make up excuses.
+   > **解析**：make up 表示"编造"；excuses 用复数。
 
-14. **中文**：他极其认真地对待这次演讲比赛。  
-   **英文**：He took this speech competition extremely seriously.
-   > **解析**：extremely 表示“极其/非常”。
+14. **中文**：媒体报道了这件事。
+   **英文**：The media reported the story.
+   > **解析**：media 作主语；reported 是过去式。
 
-15. **中文**：我们已经完成了全部的前期准备工作。  
-   **英文**：We have completed all the preparation work for the event.
-   > **解析**：completed 表示“完成了”。
+15. **中文**：他的敌人很多。
+   **英文**：He has many enemies.
+   > **解析**：enemies 是 enemy 的复数（y 变 ies）；many 修饰可数复数。
 
-16. **中文**：他在团队中被选为代表发言的队长。  
-   **英文**：He was chosen to be the team captain in the debate.
-   > **解析**：chosen 表示“被选中的”。
+16. **中文**：那个人进了监狱。
+   **英文**：The man went to prison.
+   > **解析**：go to prison 是"入狱"的固定表达。
 
-17. **中文**：主流媒体对这起社会事件进行了详细跟踪报道。  
-   **英文**：Mainstream media covered this social news story in detail.
-   > **解析**：media 表示“媒体”。
+17. **中文**：我有完全相反的意见。
+   **英文**：I have the opposite opinion.
+   > **解析**：opposite 作定语修饰 opinion。
 
-18. **中文**：陷入麻烦时，寻求别人的帮助是明智的。  
-   **英文**：When you are in trouble, asking for help is smart.
-   > **解析**：trouble 表示“麻烦/困境”。
+18. **中文**：这极其重要。
+   **英文**：This is extremely important.
+   > **解析**：extremely 是副词，修饰形容词 important。
 
-19. **中文**：在会议上发表你的真实看法是很有价值的。  
-   **英文**：Expressing your true opinion at the meeting is useful.
-   > **解析**：opinion 表示“看法/观点”。
+19. **中文**：一点也不麻烦。
+   **英文**：It is no trouble at all.
+   > **解析**：not...at all 强调否定；这里是 no trouble at all。
 
-20. **中文**：经过辩论，大家终于下定决心采取行动。  
-   **英文**：After the debate, they made up their mind to take action.
-   > **解析**：made up mind 表示“下定决心”。
+20. **中文**：我想了很多。
+   **英文**：I have thought about it a lot.
+   > **解析**：have thought 是现在完成时；thought 是 think 的过去分词。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In the debate, he expressed an opposite opinion.
-   > **中文**：在辩论赛中，他表达了与对方完全相反的观点。
+1. In my opinion, this suggestion can solve the problem.
+   > **中文**：在我看来，这个建议能解决问题。
 
-2. I totally disagree with your opinion on media tax in prison.
-   > **中文**：我完全不同意你在媒体上关于增加监狱税收的提议。
+2. I disagree with this opinion.
+   > **中文**：我不同意这个观点。
 
-3. They argue whether it is necessary to pay to solve trouble.
-   > **中文**：他们一直在争论是否有必要花钱解决麻烦。
+3. You always argue about the plan.
+   > **中文**：你们总是争论。
 
-4. The chosen representative made up his mind to change.
-   > **中文**：这位被选中的代表下定决心改变他的看法。
+4. Do you mind waiting?
+   > **中文**：你介意等一下吗？
 
-5. This completed task is extremely vital, not easy at all.
-   > **中文**：这项已完成的任务极其重要，根本容不得闪失。
+5. The problem is solved.
+   > **中文**：问题解决了。
 
-6. After taking her helpful suggestion, the issue was solved.
-   > **中文**：听取了她的有益建议后，问题得到了圆满解决。
+6. We solved it yesterday.
+   > **中文**：我们昨天解决了它。
 
-7. The media has intense discussions about who the enemy is.
-   > **中文**：媒体对于谁是真正敌人的讨论越来越剧烈。
+7. It is necessary to act now.
+   > **中文**：现在行动是必要的。
 
-8. Both sides argue on how to increase the budget.
-   > **中文**：辩论双方就如何增加预算展开了激烈的辩论。
+8. This is a serious problem.
+   > **中文**：这是一个严重的问题。
 
-9. I don't like getting into this opinion argument at all.
-   > **中文**：我一点也不喜欢参与这种无休止的意见争论。
+9. The project is completed.
+   > **中文**：项目已经完成了。
 
-10. After serious thought, he made up his mind to accept.
-   > **中文**：经过慎重思考，他下定决心接受挑战。
+10. The chosen plan is good.
+   > **中文**：被选中的计划很好。
 
-11. I respect your personal opinion, but I disagree.
-   > **中文**：我尊重你的个人观点，但我持不同看法。
+11. The bill is paid.
+   > **中文**：账单已经付过了。
 
-12. Both sides held opposite views during the debate.
-   > **中文**：双方就合同条款提出了完全相反的意见。
+12. We need to increase the budget.
+   > **中文**：我们需要增加预算。
 
-13. Please give a practical suggestion to solve this trouble.
-   > **中文**：请提出一个可行的解决方案来解决这个麻烦。
+13. Don't make up excuses.
+   > **中文**：别编造借口。
 
-14. He took this speech competition extremely seriously.
-   > **中文**：他极其认真地对待这次演讲比赛。
+14. The media reported the story.
+   > **中文**：媒体报道了这件事。
 
-15. We have completed all the preparation work for the event.
-   > **中文**：我们已经完成了全部的前期准备工作。
+15. He has many enemies.
+   > **中文**：他的敌人很多。
 
-16. He was chosen to be the team captain in the debate.
-   > **中文**：他在团队中被选为代表发言的队长。
+16. The man went to prison.
+   > **中文**：那个人进了监狱。
 
-17. Mainstream media covered this social news story in detail.
-   > **中文**：主流媒体对这起社会事件进行了详细跟踪报道。
+17. I have the opposite opinion.
+   > **中文**：我有完全相反的意见。
 
-18. When you are in trouble, asking for help is smart.
-   > **中文**：陷入麻烦时，寻求别人的帮助是明智的。
+18. This is extremely important.
+   > **中文**：这极其重要。
 
-19. Expressing your true opinion at the meeting is useful.
-   > **中文**：在会议上发表你的真实看法是很有价值的。
+19. It is no trouble at all.
+   > **中文**：一点也不麻烦。
 
-20. After the debate, they made up their mind to take action.
-   > **中文**：经过辩论，大家终于下定决心采取行动。
+20. Go ahead with your idea.
+   > **中文**：按你的想法去做吧。
 
 </quiz-listening>
 
@@ -211,26 +204,37 @@ disagree with 表示"不同意"。at all 用于加强否定语气。
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| ahead | 在前方 |
-| argue | 争论 / 辩论 |
-| at all | 根本（不） |
+| ahead | 向前 / 提前 |
+| argue | 争论 |
+| at all | 根本 |
 | chosen | 被选中的 |
 | completed | 已完成的 |
 | disagree | 不同意 |
 | enemy | 敌人 |
-| extremely | 极其 / 非常 |
+| extremely | 极其 |
 | increase | 增加 |
-| make up | 组成 / 下定（决心） |
+| make up | 编造 / 组成 / 和好 |
 | media | 媒体 |
-| mind | 心思 / 头脑 |
+| mind | 介意 |
 | necessary | 必要的 |
-| opinion | 观点 / 意见 |
-| opposite | 相反的 |
-| paid | 支付了的 |
+| opinion | 意见 |
+| opposite | 相反的 / 对立面 |
+| paid | 已支付的 |
 | prison | 监狱 |
-| serious | 严肃的 / 认真的 |
+| right | 正确的 |
+| serious | 严重的 / 认真的 |
 | solve | 解决 |
+| solved | 已解决的 |
 | suggestion | 建议 |
+| thought | 想法 |
+| trouble | 麻烦 |
+| is | 是（单数） |
+| the | 这 / 那（定冠词） |
+| with | 和 / 与 |
+| about | 关于 |
+| my | 我的 |
+| this | 这个 |
+| and | 和 |
 
 </quiz-matching>
 
@@ -238,202 +242,202 @@ disagree with 表示"不同意"。at all 用于加强否定语气。
 
 ### 1
 
-In the debate, he expressed an ____ opinion.
+In my ____, this suggestion can solve the problem.
 
-- [x] opposite
-- [ ] ahead
-- [ ] argue
+- [x] opinion
+- [ ] idea of
+- [ ] thought to
 
-> **解析**：**opposite** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：in my opinion 是固定搭配；idea of 和 thought to 结构不当。
 
 ### 2
 
-I totally ____ with your opinion on media tax in prison.
+I disagree ____ this opinion.
 
-- [x] disagree
-- [ ] ahead
-- [ ] argue
+- [x] with
+- [ ] to
+- [ ] against
 
-> **解析**：**disagree** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：disagree with 是固定搭配；to 和 against 都不构成这个搭配。
 
 ### 3
 
-They ____ whether it is necessary to pay to solve trouble.
+You always argue ____ the plan.
 
-- [x] argue
-- [ ] ahead
-- [ ] at all
+- [x] about
+- [ ] to
+- [ ] of
 
-> **解析**：**argue** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：argue about"就……争论"是固定搭配；to 和 of 语义不符。
 
 ### 4
 
-The ____ representative made up his mind to change.
+Do you mind ____?
 
-- [x] chosen
-- [ ] ahead
-- [ ] argue
+- [x] waiting
+- [ ] wait
+- [ ] to wait
 
-> **解析**：**chosen** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：mind 后接动名词 waiting；to wait 是 mind 不接的形式。
 
 ### 5
 
-This ____ task is extremely vital, not easy at all.
+The problem is ____.
 
-- [x] completed
-- [ ] ahead
-- [ ] argue
+- [x] solved
+- [ ] solve
+- [ ] solving
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **completed**。
+> **解析**：is 后需要过去分词 solved 表状态；solve 是原形，solving 需进行时语境。
 
 ### 6
 
-After taking her helpful ____, the issue was solved.
+We ____ it yesterday.
 
-- [x] suggestion
-- [ ] ahead
-- [ ] argue
+- [x] solved
+- [ ] solve
+- [ ] solution
 
-> **解析**：**suggestion** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 用过去式 solved；solution 是名词。
 
 ### 7
 
-The ____ has intense discussions about who the enemy is.
+It is ____ to act now.
 
-- [x] media
-- [ ] ahead
-- [ ] argue
+- [x] necessary
+- [ ] necessarily
+- [ ] necessity
 
-> **解析**：**media** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 necessary；necessarily 是副词，necessity 是名词。
 
 ### 8
 
-Both sides ____ on how to increase the budget.
+This is a ____ problem.
 
-- [x] argue
-- [ ] ahead
-- [ ] at all
+- [x] serious
+- [ ] seriously
+- [ ] seriousness
 
-> **解析**：**argue** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：名词 problem 前需要形容词 serious；后两项分别是副词和名词。
 
 ### 9
 
-I don't like getting into this ____ argument at all.
+The project is ____.
 
-- [x] opinion
-- [ ] ahead
-- [ ] argue
+- [x] completed
+- [ ] complete
+- [ ] completing
 
-> **解析**：**opinion** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is completed 表示"已完成"的状态；complete 是原形或形容词"完整的"，此处需分词。
 
 ### 10
 
-After ____ thought, he made up his mind to accept.
+The ____ plan is good.
 
-- [x] serious
-- [ ] ahead
-- [ ] argue
+- [x] chosen
+- [ ] chose
+- [ ] choose
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **serious**。
+> **解析**：作定语需要过去分词 chosen"被选中的"；chose 是过去式，choose 是原形。
 
 ### 11
 
-I respect your personal ____, but I disagree.
+The bill is ____.
 
-- [x] opinion
-- [ ] ahead
-- [ ] argue
+- [x] paid
+- [ ] payed
+- [ ] paying
 
-> **解析**：**opinion** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：pay 的过去分词是 paid（不规则）；payed 不是正确拼写。
 
 ### 12
 
-Both sides held ____ views during the debate.
+We need to ____ the budget.
 
-- [x] opposite
-- [ ] ahead
-- [ ] argue
+- [x] increase
+- [ ] increased
+- [ ] increasing
 
-> **解析**：**opposite** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：to 后接动词原形 increase；后两项分别是过去式和分词。
 
 ### 13
 
-Please give a practical ____ to solve this trouble.
+Don't make ____ excuses.
 
-- [x] suggestion
-- [ ] ahead
-- [ ] argue
+- [x] up
+- [ ] out
+- [ ] off
 
-> **解析**：**suggestion** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：make up"编造"是固定短语；out 和 off 都不构成这个意思。
 
 ### 14
 
-He took this speech competition ____ seriously.
+The ____ reported the story.
 
-- [x] extremely
-- [ ] ahead
-- [ ] argue
+- [x] media
+- [ ] mediums
+- [ ] enemy
 
-> **解析**：**extremely** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：报道新闻的是 media"媒体"；enemy 语义不符。
 
 ### 15
 
-We have ____ all the preparation work for the event.
+He has many ____.
 
-- [x] completed
-- [ ] ahead
-- [ ] argue
+- [x] enemies
+- [ ] enemy
+- [ ] enemys
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **completed**。
+> **解析**：many 后接复数 enemies（y 变 ies）；enemys 拼写错误。
 
 ### 16
 
-He was ____ to be the team captain in the debate.
+The man went to ____.
 
-- [x] chosen
-- [ ] ahead
-- [ ] argue
+- [x] prison
+- [ ] media
+- [ ] opposite
 
-> **解析**：**chosen** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：go to prison"入狱"是固定表达；media 和 opposite 语义不符。
 
 ### 17
 
-Mainstream ____ covered this social news story in detail.
+I have the ____ opinion.
 
-- [x] media
-- [ ] ahead
-- [ ] argue
+- [x] opposite
+- [ ] oppose
+- [ ] opposition
 
-> **解析**：**media** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 opinion 需要形容词 opposite；oppose 是动词，opposition 是名词。
 
 ### 18
 
-When you are in ____, asking for help is smart.
+This is ____ important.
 
-- [x] trouble
-- [ ] ahead
-- [ ] argue
+- [x] extremely
+- [ ] extreme
+- [ ] extremity
 
-> **解析**：**trouble** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰形容词 important 需要副词 extremely；extreme 是形容词。
 
 ### 19
 
-Expressing your true ____ at the meeting is useful.
+It is no trouble at ____.
 
-- [x] opinion
+- [x] all
+- [ ] any
 - [ ] ahead
-- [ ] argue
 
-> **解析**：**opinion** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：at all 是固定搭配，与否定连用加强语气；any 和 ahead 都不构成这个搭配。
 
 ### 20
 
-After the debate, they made up their ____ to take action.
+I have ____ about it a lot.
 
-- [x] mind
-- [ ] ahead
-- [ ] argue
+- [x] thought
+- [ ] think
+- [ ] thinking
 
-> **解析**：**mind** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：have thought 是现在完成时；think 是原形，thinking 需进行时。
 
 </quiz-cloze>

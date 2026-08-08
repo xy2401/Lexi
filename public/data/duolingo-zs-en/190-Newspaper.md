@@ -10,30 +10,33 @@ against, crash, damage, decrease, explode, flood, happen, has there been, have t
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元让你像新闻记者一样报道近期事件。核心结构是 there has been / there have been 及其否定和疑问形式：There has been a flood in the south. There haven't been any improvements in unemployment. Has there been a crash on the highway?（南方发生了洪水。失业率没有任何改善。高速公路上发生了车祸吗？）
+本单元的主题是"新闻事件报道"。词表可以分成三组：事故与冲突事件词（crash, flood, explode, murder, protest, shoot, shot, damage, warning）、趋势与数据词（increase, decrease, improvement, unemployment）、以及"有没有发生过"的存在句型（there has been, there have been, there hasn't been, there haven't been, has there been, have there been, happen, involve, most of, recent, against）。拼起来就是新闻播报：There has been a car crash on the main road. There have been protests against the new policy. Unemployment has decreased.
 
-词表里有大量新闻事件词汇：crash, flood, explode, murder, protest, shoot / shot, damage, warning。也有趋势类词汇：increase, decrease, improvement, unemployment。这些词构成了"报道发生了什么、趋势如何"的基本语料。
+语法主线是现在完成时的存在句：There has been + 单数/不可数名词，There have been + 复数名词，表示"最近发生过……"。疑问形式把 has/have 提前：Has there been an accident? 否定加 not：There hasn't been any news. 注意 been 与单复数的呼应：has been 配单数，have been 配复数。另一条主线是新闻高频词对：increase/decrease（增/减）、improve → improvement（改善），这类反义与派生词是读懂新闻的关键。
 
-against, involve, most of, recent, happen 提供叙事框架：The protest was against the new law. Most of the damage happened recently. The crash involved three cars.（抗议是针对新法律的。大部分损失是最近发生的。车祸涉及三辆车。）there has been / there have been 是 there be 句型的现在完成时，用来报道"已经发生了某事"。
+学完这些词，你能用英语报道近期发生的事件、描述数据变化趋势，并询问是否发生过某事。
 
 ## Tips
 
-- **there has been / there have been / there hasn't been / there haven't been** — there be 的现在完成时。has been 接单数/不可数：There has been an accident. have been 接复数：There have been protests. 否定：There hasn't been any improvement. 疑问：Has there been a flood?
+- **there has been / there have been** — "发生过……"的存在句。单数或不可数名词用 There has been：There has been a flood.；复数用 There have been：There have been two crashes. 这是本单元语法核心。
 
-- **has there been / have there been** — 疑问形式，将 has/have 提前：Has there been a crash? / Have there been any warnings? 注意 there 仍然保留在句中。
+- **there hasn't been / there haven't been** — 上述句型的否定式：There hasn't been any warning.（没有任何预警。）/ There haven't been any protests. any 常用于否定句。
 
-- **crash / flood / explode / murder** — crash = 车祸/碰撞（也可指飞机坠毁）。flood = 洪水/洪灾。explode = 爆炸。murder = 谋杀（名词/动词）。这些是新闻高频词。搭配：a car crash / a flash flood / a bomb exploded。
+- **has there been / have there been** — 疑问形式，has/have 提前：Has there been an accident? / Have there been any injuries? 回答 Yes, there has. / No, there haven't.
 
-- **shoot / shot / protest / warning** — shoot = 射击（动词），shot 是过去式/过去分词，也可作名词"一枪"。protest = 抗议（名词/动词）：stage a protest. warning = 警告：issue a warning.
+- **crash / explode / flood / damage** — 四个灾害事故词。crash 撞车/坠毁；explode 爆炸；flood 洪水（也可作动词"淹没"）；damage 损害，不可数：cause damage（造成损害）。
 
-- **increase / decrease / improvement / unemployment** — increase = 增加（名词/动词）。decrease = 减少。improvement = 改善（improve + -ment）。unemployment = 失业（un- + employ + -ment）。搭配：an increase in crime / a decrease in unemployment。
+- **murder / shoot / shot / protest** — 四个社会事件词。murder 谋杀；shoot 射击，shot 是 shoot 的过去式与过去分词，也作名词"枪击"：a shot was fired.；protest 抗议，名词动词皆可：protest against something（抗议某事）。
 
-- **against / involve / most of** — against = 反对/对着：protest against the law. involve = 涉及：The crash involved two trucks. most of = 大部分：most of the damage. 注意 most of 后接限定词（the/these/my 等）。
+- **against** — 介词"反对、对抗"：protest against the policy；vote against（投反对票）。与 for（支持）相对。
 
-- **recent / happen / damage** — recent = 近期的：a recent event. happen = 发生（不及物，无被动）：It happened yesterday.（不能说 It was happened.）damage = 损害（不可数名词）：serious damage.
+- **increase / decrease / improvement / unemployment** — 数据趋势四词。increase 增加；decrease 减少；improvement 改善（improve + -ment）；unemployment 失业（率）（employ 雇用 + un- + -ment）。新闻中最常见的增减表达。
+
+- **happen / involve / recent** — happen 发生，不及物动词，无被动：✗ was happened → ✓ happened；involve 涉及：The crash involved three cars.；recent 最近的：a recent event. 与 happen 相关的名词是 event。
+
+- **most of / warning** — most of 表示"大多数的……"：most of the people；注意 most of 后接限定名词，而 most 直接接名词：most people。warning 警告、预警：issue a warning（发布预警）。
 
 ## 练习
 
@@ -51,149 +54,149 @@ against, involve, most of, recent, happen 提供叙事框架：The protest was a
 
 <quiz-sentence-builder>
 
-1. **中文**：两辆汽车在十字路口不幸发生了严重的撞车。
-   **英文**：The sudden car crash blocked main street traffic.
-   > **解析**：crash 表示“撞车/碰撞事故”。
+1. **中文**：主干道上发生了一起车祸。
+   **英文**：There has been a car crash on the main road.
+   > **解析**：There has been + 单数名词表示"发生过"；crash 是可数名词，用 a。
 
-2. **中文**：暴风雨给沿海小镇房屋造成了巨大的损坏。
-   **英文**：The storm caused extensive damage to local buildings.
-   > **解析**：damage 表示“损坏/损失”。
+2. **中文**：最近发生了两次洪水。
+   **英文**：There have been two floods recently.
+   > **解析**：two floods 是复数，用 There have been；recently 是时间状语。
 
-3. **中文**：今年该地区的失业率呈现明显降低趋势。
-   **英文**：There was a sharp decrease in crime rates this year.
-   > **解析**：decrease 表示“减少/降低”。
+3. **中文**：最近没有任何预警。
+   **英文**：There hasn't been any warning.
+   > **解析**：warning 作不可数用法时用 There hasn't been；any 用于否定句。
 
-4. **中文**：工厂里的废弃气罐突然发生了危险的爆炸。
-   **英文**：The old gas tank might explode if heated.
-   > **解析**：explode 表示“爆炸/爆发”。
+4. **中文**：最近有抗议活动吗？
+   **英文**：Have there been any protests?
+   > **解析**：疑问句把 Have 提前；protests 是复数名词，配 have。
 
-5. **中文**：连日暴雨引发的洪水淹没了农田和小路。
-   **英文**：Heavy rains caused a severe flood in the valley.
-   > **解析**：flood 表示“洪水/水灾”。
+5. **中文**：大楼爆炸了。
+   **英文**：The building exploded.
+   > **解析**：exploded 是 explode 的过去式；不及物用法，无宾语。
 
-6. **中文**：市政规划在公共交通设施方面做出了重大改进。
-   **英文**：We noticed a significant improvement in air quality.
-   > **解析**：improvement 表示“改进/改善”。
+6. **中文**：火灾造成了严重损害。
+   **英文**：The fire caused serious damage.
+   > **解析**：cause damage 是固定搭配；damage 不可数，不加冠词。
 
-7. **中文**：城市常住人口在过去五年间持续快速增加。
-   **英文**：There was an increase in tourism sales last season.
-   > **解析**：increase 表示“增加/增长”。
+7. **中文**：失业率下降了。
+   **英文**：Unemployment has decreased.
+   > **解析**：has decreased 是现在完成时；unemployment 是不可数名词，配 has。
 
-8. **中文**：警方调查证实这起事件并不涉及任何犯罪行为。
-   **英文**：The traffic collision did not involve any injuries.
-   > **解析**：involve 表示“涉及/卷入”。
+8. **中文**：销售量增长了。
+   **英文**：Sales have increased.
+   > **解析**：Sales 是复数主语，用 have；increased 是过去分词。
 
-9. **中文**：刑警正在全力搜寻这起恶性谋杀案的线索。
-   **英文**：Detectives are investigating a mysterious murder case.
-   > **解析**：murder 表示“谋杀案/谋杀”。
+9. **中文**：交通状况有了改善。
+   **英文**：There has been an improvement in traffic.
+   > **解析**：improvement 是可数名词，用 an；improvement in + 方面 是固定搭配。
 
-10. **中文**：成千上万的市民聚集在广场上参加和平抗议。
-   **英文**：Hundreds of people joined the peaceful protest outside.
-   > **解析**：protest 表示“抗议/示威”。
+10. **中文**：人们抗议新政策。
+   **英文**：People protested against the new policy.
+   > **解析**：protested 是过去式；protest against 是固定搭配。
 
-11. **中文**：报纸报道了最近发生的重大科技发明成果。
-   **英文**：The article summarizes recent economic progress in town.
-   > **解析**：recent 表示“最近的/近期的”。
+11. **中文**：这起事故涉及三辆车。
+   **英文**：The crash involved three cars.
+   > **解析**：involved 是 involve 的过去式；three cars 是宾语。
 
-12. **中文**：警察在紧急关头朝天开枪示警。
-   **英文**：The guard had to shoot a warning into the air.
-   > **解析**：shoot 表示“开枪/射击”。
+12. **中文**：那起案件是一桩谋杀。
+   **英文**：The case was a murder.
+   > **解析**：was 与单数主语搭配；murder 作可数名词，用 a。
 
-13. **中文**：猎人朝空中开枪打中了飞过的猎物。
-   **英文**：The hunter shot an arrow at the target on tree.
-   > **解析**：shot 是 shoot 的过去式，表示“开枪了/射击了”。
+13. **中文**：警察开了一枪。
+   **英文**：The police fired a shot.
+   > **解析**：fired 是 fire 的过去式；shot 作名词"一枪"，用 a。
 
-14. **中文**：近来在城市里已经有了明显的交通状况改善。
-   **英文**：There has been a big improvement in city transport.
-   > **解析**：there has been 表示“已经有了（单数完成时）”。
+14. **中文**：大多数人都安全。
+   **英文**：Most of the people are safe.
+   > **解析**：most of 后接限定名词 the people；are 与复数主语搭配。
 
-15. **中文**：本季度在该省已经有了多起突发暴雨灾害。
-   **英文**：There have been several protests in the capital city.
-   > **解析**：there have been 表示“已经有了（复数完成时）”。
+15. **中文**：这件事是怎么发生的？
+   **英文**：How did it happen?
+   > **解析**：happen 是不及物动词，疑问句借助 did；it 作主语。
 
-16. **中文**：政府采取了多项有效举措来降低失业率。
-   **英文**：High unemployment remains a serious economic issue.
-   > **解析**：unemployment 表示“失业/失业率”。
+16. **中文**：最近有什么新闻？
+   **英文**：Is there any recent news?
+   > **解析**：news 不可数，用 is；recent 修饰 news。
 
-17. **中文**：气象局发布了针对海风暴潮的紧急预警。
-   **英文**：The weather bureau issued a severe storm warning.
-   > **解析**：warning 表示“警告/预警”。
+17. **中文**：他投了反对票。
+   **英文**：He voted against the plan.
+   > **解析**：voted 是 vote 的过去式；against 表示"反对"。
 
-18. **中文**：许多市民公开发表言论反对建造新化工厂。
-   **英文**：Many people voted against the new tax policy.
-   > **解析**：against 表示“反对/靠着”。
+18. **中文**：警告发出得太晚了。
+   **英文**：The warning came too late.
+   > **解析**：came 是 come 的过去式；too late 表示"太晚"。
 
-19. **中文**：没人能料到今天下午会发生这样的意外撞车。
-   **英文**：Did anything unusual happen in the neighborhood today?
-   > **解析**：happen 表示“发生”。
+19. **中文**：油价涨了。
+   **英文**：The price of oil has gone up.
+   > **解析**：has gone up 是现在完成时；go up 表示"上涨"。
 
-20. **中文**：大部分受访市民对目前的生活质量感到满意。
-   **英文**：Most of the students passed the final history exam.
-   > **解析**：Most of 表示“大部分/大多数”。
+20. **中文**：最近没有发生过洪水。
+   **英文**：There haven't been any floods recently.
+   > **解析**：floods 是复数，用 There haven't been；recently 放句末。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The sudden car crash blocked main street traffic.
-   > **中文**：两辆汽车在十字路口不幸发生了严重的撞车。
+1. There has been a car crash on the main road.
+   > **中文**：主干道上发生了一起车祸。
 
-2. The storm caused extensive damage to local buildings.
-   > **中文**：暴风雨给沿海小镇房屋造成了巨大的损坏。
+2. There have been two floods recently.
+   > **中文**：最近发生了两次洪水。
 
-3. There was a sharp decrease in crime rates this year.
-   > **中文**：今年该地区的失业率呈现明显降低趋势。
+3. There hasn't been any warning.
+   > **中文**：没有任何预警。
 
-4. The old gas tank might explode if heated.
-   > **中文**：工厂里的废弃气罐突然发生了危险的爆炸。
+4. Have there been any protests?
+   > **中文**：有抗议活动吗？
 
-5. Heavy rains caused a severe flood in the valley.
-   > **中文**：连日暴雨引发的洪水淹没了农田和小路。
+5. The building exploded last night.
+   > **中文**：大楼昨晚爆炸了。
 
-6. We noticed a significant improvement in air quality.
-   > **中文**：市政规划在公共交通设施方面做出了重大改进。
+6. The fire caused serious damage.
+   > **中文**：火灾造成了严重损害。
 
-7. There was an increase in tourism sales last season.
-   > **中文**：城市常住人口在过去五年间持续快速增加。
+7. Unemployment has decreased.
+   > **中文**：失业率下降了。
 
-8. The traffic collision did not involve any injuries.
-   > **中文**：警方调查证实这起事件并不涉及任何犯罪行为。
+8. Sales have increased this year.
+   > **中文**：今年销售量增长了。
 
-9. Detectives are investigating a mysterious murder case.
-   > **中文**：刑警正在全力搜寻这起恶性谋杀案的线索。
+9. There has been an improvement in traffic.
+   > **中文**：交通状况有了改善。
 
-10. Hundreds of people joined the peaceful protest outside.
-   > **中文**：成千上万的市民聚集在广场上参加和平抗议。
+10. People protested against the new policy.
+   > **中文**：人们抗议新政策。
 
-11. The article summarizes recent economic progress in town.
-   > **中文**：报纸报道了最近发生的重大科技发明成果。
+11. The crash involved three cars.
+   > **中文**：这起事故涉及三辆车。
 
-12. The guard had to shoot a warning into the air.
-   > **中文**：警察在紧急关头朝天开枪示警。
+12. The case was a murder.
+   > **中文**：那起案件是一桩谋杀。
 
-13. The hunter shot an arrow at the target on tree.
-   > **中文**：猎人朝空中开枪打中了飞过的猎物。
+13. The police fired a shot.
+   > **中文**：警察开了一枪。
 
-14. There has been a big improvement in city transport.
-   > **中文**：近来在城市里已经有了明显的交通状况改善。
+14. Most of the people are safe.
+   > **中文**：大多数人都安全。
 
-15. There have been several protests in the capital city.
-   > **中文**：本季度在该省已经有了多起突发暴雨灾害。
+15. How did it happen?
+   > **中文**：这件事是怎么发生的？
 
-16. High unemployment remains a serious economic issue.
-   > **中文**：政府采取了多项有效举措来降低失业率。
+16. Is there any recent news?
+   > **中文**：最近有什么新闻？
 
-17. The weather bureau issued a severe storm warning.
-   > **中文**：气象局发布了针对海风暴潮的紧急预警。
+17. He voted against the plan.
+   > **中文**：他投了反对票。
 
-18. Many people voted against the new tax policy.
-   > **中文**：许多市民公开发表言论反对建造新化工厂。
+18. The warning came too late.
+   > **中文**：警告发出得太晚了。
 
-19. Did anything unusual happen in the neighborhood today?
-   > **中文**：没人能料到今天下午会发生这样的意外撞车。
+19. The price of oil has gone up.
+   > **中文**：油价涨了。
 
-20. Most of the students passed the final history exam.
-   > **中文**：大部分受访市民对目前的生活质量感到满意。
+20. There haven't been any floods recently.
+   > **中文**：最近没有发生过洪水。
 
 </quiz-listening>
 
@@ -201,26 +204,33 @@ against, involve, most of, recent, happen 提供叙事框架：The protest was a
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| crash | 撞车 / 事故 |
-| damage | 损坏 / 损失 |
-| decrease | 减少 / 降低 |
+| against | 反对 / 对抗 |
+| crash | 撞车 / 坠毁 |
+| damage | 损害 |
+| decrease | 减少 |
 | explode | 爆炸 |
 | flood | 洪水 |
-| improvement | 改进 / 改善 |
-| increase | 增加 / 增长 |
-| involve | 涉及 / 卷入 |
-| murder | 谋杀案 |
-| protest | 抗议 / 示威 |
+| happen | 发生 |
+| has there been | 有过吗（单数） |
+| have there been | 有过吗（复数） |
+| improvement | 改善 |
+| increase | 增加 |
+| involve | 涉及 |
+| most of | 大多数的 |
+| murder | 谋杀 |
+| protest | 抗议 |
 | recent | 最近的 |
 | shoot | 射击 |
-| shot | 射击了（shoot的过去式） |
-| there has been | 已经有了（单数） |
-| there have been | 已经有了（复数） |
-| unemployment | 失业 / 失业率 |
+| shot | 枪击 / shoot 的过去式 |
+| there has been | 发生过（单数） |
+| there hasn't been | 没有发生过（单数） |
+| there have been | 发生过（复数） |
+| there haven't been | 没有发生过（复数） |
+| unemployment | 失业率 |
 | warning | 警告 / 预警 |
-| against | 反对 |
-| happen | 发生 |
-| Most of | 大部分 |
+| any | 任何 |
+| news | 新闻 |
+| police | 警察 |
 
 </quiz-matching>
 
@@ -228,202 +238,202 @@ against, involve, most of, recent, happen 提供叙事框架：The protest was a
 
 ### 1
 
-The sudden car ____ blocked main street traffic.
+There ____ been a car crash on the main road.
 
-- [x] crash
-- [ ] against
-- [ ] damage
+- [x] has
+- [ ] have
+- [ ] was
 
-> **解析**：**crash** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a car crash 是单数，用 has been；have 配复数，was 不与 been 搭配。
 
 ### 2
 
-The storm caused extensive ____ to local buildings.
+There ____ been two floods recently.
 
-- [x] damage
-- [ ] against
-- [ ] crash
+- [x] have
+- [ ] has
+- [ ] is
 
-> **解析**：**damage** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：two floods 是复数，用 have been；has 配单数。
 
 ### 3
 
-There was a sharp ____ in crime rates this year.
+There ____ been any warning.
 
-- [x] decrease
-- [ ] against
-- [ ] crash
+- [x] hasn't
+- [ ] haven't
+- [ ] has
 
-> **解析**：**decrease** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：warning 此处不可数用单数 has；any 提示否定，故用 hasn't。
 
 ### 4
 
-The old gas tank might ____ if heated.
+____ there been any protests?
 
-- [x] explode
-- [ ] against
-- [ ] crash
+- [x] Have
+- [ ] Has
+- [ ] Is
 
-> **解析**：**explode** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：protests 是复数，疑问句用 Have there been；Has 配单数。
 
 ### 5
 
-Heavy rains caused a severe ____ in the valley.
+The building ____ last night.
 
-- [x] flood
-- [ ] against
-- [ ] crash
+- [x] exploded
+- [ ] exploding
+- [ ] explosion
 
-> **解析**：**flood** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：需要过去式 exploded 作谓语；explosion 是名词。
 
 ### 6
 
-We noticed a significant ____ in air quality.
+The fire caused serious ____.
 
-- [x] improvement
-- [ ] against
-- [ ] crash
+- [x] damage
+- [ ] damages
+- [ ] damaging
 
-> **解析**：**improvement** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：damage 不可数，不加复数；damaging 是形容词/分词，不作此宾语。
 
 ### 7
 
-There was an ____ in tourism sales last season.
+Unemployment has ____.
 
-- [x] increase
-- [ ] against
-- [ ] crash
+- [x] decreased
+- [ ] decrease
+- [ ] decreasing
 
-> **解析**：**increase** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：has + 过去分词构成完成时，用 decreased；其余形式不成立。
 
 ### 8
 
-The traffic collision did not ____ any injuries.
+Sales ____ increased this year.
 
-- [x] involve
-- [ ] against
-- [ ] crash
+- [x] have
+- [ ] has
+- [ ] is
 
-> **解析**：**involve** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Sales 是复数主语，用 have；has 配单数。
 
 ### 9
 
-Detectives are investigating a mysterious ____ case.
+There has been an ____ in traffic.
 
-- [x] murder
-- [ ] against
-- [ ] crash
+- [x] improvement
+- [ ] improve
+- [ ] improving
 
-> **解析**：**murder** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：an 后需要名词 improvement；improve 是动词。
 
 ### 10
 
-Hundreds of people joined the peaceful ____ outside.
+People protested ____ the new policy.
 
-- [x] protest
-- [ ] against
-- [ ] crash
+- [x] against
+- [ ] for the
+- [ ] between
 
-> **解析**：**protest** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：protest against（抗议）是固定搭配；其余介词不合语义。
 
 ### 11
 
-The article summarizes ____ economic progress in town.
+The crash ____ three cars.
 
-- [x] recent
-- [ ] against
-- [ ] crash
+- [x] involved
+- [ ] involving
+- [ ] involve
 
-> **解析**：**recent** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：需要过去式 involved 作谓语；主语单数也不能用 involve 原形。
 
 ### 12
 
-The guard had to ____ a warning into the air.
+The case was a ____.
 
-- [x] shoot
-- [ ] against
-- [ ] crash
+- [x] murder
+- [ ] murdered
+- [ ] murdering
 
-> **解析**：**shoot** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后需要名词 murder；murdered 是过去分词。
 
 ### 13
 
-The hunter ____ an arrow at the target on tree.
+The police fired a ____.
 
 - [x] shot
-- [ ] against
-- [ ] crash
+- [ ] shoot
+- [ ] shooting
 
-> **解析**：**shot** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a shot（一枪）是名词用法；shoot 是动词原形。
 
 ### 14
 
-There has been a big ____ in city transport.
+Most ____ the people are safe.
 
-- [x] improvement
-- [ ] against
-- [ ] crash
+- [x] of
+- [ ] in
+- [ ] at
 
-> **解析**：**improvement** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：most of + 限定名词是固定结构；其余介词不成立。
 
 ### 15
 
-There have been several ____ in the capital city.
+How did it ____?
 
-- [x] protests
-- [ ] against
-- [ ] crash
+- [x] happen
+- [ ] happened
+- [ ] happening
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **protests**。
+> **解析**：did 后接动词原形 happen；其余形式不成立。
 
 ### 16
 
-High ____ remains a serious economic issue.
+Is there any ____ news?
 
-- [x] unemployment
-- [ ] against
-- [ ] crash
+- [x] recent
+- [ ] recently
+- [ ] recency
 
-> **解析**：**unemployment** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：news 前需要形容词 recent；recently 是副词。
 
 ### 17
 
-The weather bureau issued a severe storm ____.
+He voted ____ the plan.
 
-- [x] warning
-- [ ] against
-- [ ] crash
+- [x] against
+- [ ] with
+- [ ] into
 
-> **解析**：**warning** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：vote against（投反对票）语义成立；with 表支持，不合"反对"语境。
 
 ### 18
 
-Many people voted ____ the new tax policy.
+The ____ came too late.
 
-- [x] against
-- [ ] crash
-- [ ] damage
+- [x] warning
+- [ ] warn
+- [ ] warned
 
-> **解析**：**against** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The 后需要名词 warning；warn 是动词。
 
 ### 19
 
-Did anything unusual ____ in the neighborhood today?
+The price of oil has gone ____.
 
-- [x] happen
-- [ ] against
-- [ ] crash
+- [x] up
+- [ ] in
+- [ ] at
 
-> **解析**：**happen** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：go up（上涨）是固定短语；其余小品词不表此义。
 
 ### 20
 
-Most of the ____ passed the final history exam.
+There ____ been any floods recently.
 
-- [x] students
-- [ ] against
-- [ ] crash
+- [x] haven't
+- [ ] hasn't
+- [ ] have
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **students**。
+> **解析**：floods 是复数用 have；any 提示否定，故用 haven't。
 
 </quiz-cloze>

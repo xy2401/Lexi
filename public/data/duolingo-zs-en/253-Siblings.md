@@ -10,58 +10,31 @@ a thing, big deal, bound to, bump into, call, chew, feel bad about, go ahead, gu
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是"质疑某人的行为"——兄弟姐妹之间那种"你是不是又动了我的东西"的对话。词表里有大量日常物品和口语表达：gum, keychain, microwave, tons of, big deal。你可以这样质问：What in the world happened to my keychain? Did you chew my gum? It wasn't me—go ahead and see for yourself! I can see through your excuses.（我的钥匙扣到底怎么了？你是不是嚼了我的口香糖？不是我——你自己去看！我能看穿你的借口。）
+本单元的主题是"质问某人的行为"，场景是兄弟姐妹间的拌嘴。词表可以分成四组：质问与否认（what in the world, it wasn't me, my apologies, tell on, see through）、动作与破坏（rip, chew, raise, vanish, bump into, microwave, call）、评价与感受（big deal, a thing, bound to, feel bad about, tolerate）、以及量词与物品（tons of, gum, keychain, hometown, go ahead, hear, see）。拼起来就是一段拌嘴：What in the world did you do to my keychain? It wasn't me! You chewed gum and stuck it on it!
 
-tell on（告状）、see through（看穿）、it wasn't me（不是我）是手足之争的经典表达。bound to（肯定会）、vanish（消失）、rip（撕破）让"案件"更有戏剧性。my apologies 和 feel bad about 则是事后道歉的用语。raise 在这里可能指"提起（话题）"或"抚养"。
+语法主线有两个。一是质问句式 what in the world...，in the world 加强惊讶与不满：What in the world are you doing? 二是责任表达：it wasn't me（不是我干的）、tell on someone（告发）、see through someone（识破）构成"质问—否认—识破"的完整链条。
 
-学完本单元，你能用英语质问家人的"可疑行为"，表达不满，也能在误会解除后道歉。
+学完这个单元，你能用英语质问他人行为、否认指控、道歉或告状，应对日常的小摩擦。
 
 ## Tips
 
-- **what in the world** — "到底、究竟"，加强疑问语气。What in the world are you doing? 比 what 单独使用更有震惊或不满。类似：what on earth / what the heck（更口语）。
+- **what in the world / it wasn't me / my apologies** — 质问与回应三件套。what in the world 加强质问语气：What in the world happened here? it wasn't me 是经典否认；my apologies 是正式道歉：My apologies for the mess.
 
-- **see through** — "看穿、识破"。I can see through your lies. / She saw through him immediately. 画面感：透过表象看到真相。比 figure out 更强调"不被骗"。注意和 see（看见）区分。
+- **tell on / see through** — tell on someone = 告发、打小报告：Don't tell on me! see through someone = 识破某人：I can see through your excuses. through 表示"看透"。
 
-- **tell on** — "告状、打小报告"。Don't tell on me! / He told on his brother. 非常口语化，常用于小孩或手足语境。比 report 更随意，带有"背叛"的意味。
+- **rip / chew / raise** — 三个破坏与动作词。rip = 撕破：rip the bag；chew = 咀嚼：chew gum；raise = 举起、提高，也可指"抚养"：raise a child。
 
-- **it wasn't me** — "不是我"，最经典的否认句式。注意 was 不能省略：It wasn't me, not It not me. 也可以说 It wasn't my fault. 手足争论中的高频句。
+- **vanish / bump into** — vanish = 消失（比 disappear 更神秘）：The cake vanished. bump into = 偶然遇见，也可指撞上：I bumped into my brother at the mall.
 
-- **bound to** — "肯定会、注定会"。He's bound to find out. / It's bound to happen. 比 will 更强调"不可避免"。注意 bound 前通常有 be 动词：is bound to。
+- **big deal / a thing** — big deal 常用否定：It's no big deal.（没什么大不了。）a thing 口语中表示"真实存在的事"：Is that even a thing?（这真的存在吗？）
 
-- **vanish** — "消失、不见"，比 disappear 更有"突然、彻底"的感觉。My keys vanished! / The money vanished. 名词 vanishing。比 go missing 更戏剧化。
+- **bound to / feel bad about / tolerate** — be bound to = 一定会：You are bound to forget. feel bad about = 为……感到抱歉：I feel bad about breaking it. tolerate = 容忍：I can't tolerate this noise.
 
-- **big deal** — "大事、了不起的事"，常用于否定。It's no big deal. = 没什么大不了的。What's the big deal? = 有什么大不了的？口语极高频，常用来淡化或质疑事情的重要性。
+- **tons of / gum / keychain** — tons of = 大量的：tons of homework；gum 是口香糖；keychain = 钥匙链（key + chain）。
 
-- **tons of** — "大量的、非常多的"，口语。tons of homework / tons of fun。比 a lot of 更夸张、更随意。注意 ton 原义是"吨"，这里是夸张用法。类似：loads of（英式）。
-
-- **bump into** — "偶遇、碰见"。I bumped into my old friend at the mall. 比 meet by chance 更地道。也可以指"撞上"：I bumped into the table。一词两义，看语境。
-
-- **chew** — "咀嚼"。chew gum = 嚼口香糖。搭配：chew your food well。注意发音：/tʃuː/。在兄弟姐妹语境下，chew my gum 是经典的"你动了我的东西"场景。
-
-- **gum** — "口香糖；牙龈"。chewing gum = 口香糖。注意 gum 不可数：a piece of gum。在美式口语中，gum 几乎总指口香糖。英式有时说 chewing gum 更完整。
-
-- **keychain** — "钥匙扣、钥匙链"。由 key（钥匙）+ chain（链）组成。美式说法，英式有时说 key ring。在"被动了东西"的语境下，keychain 是常见的个人物品。
-
-- **microwave** — "微波炉"。由 micro-（微小）+ wave（波）组成，指微波加热。动词：microwave the leftovers。注意 wave 在这里是"波"，不是"挥手"。
-
-- **tolerate** — "容忍、忍受"。I can't tolerate this behavior. 比 stand 或 put up with 更正式。名词 tolerance（容忍度/公差）。形容词 tolerant。注意 -ate 结尾。
-
-- **rip** — "撕破、扯裂"。You ripped my poster! / a rip in the paper。比 tear 更猛烈、更突然。也可以指"翻录"：rip a CD。在手足语境中 = 弄坏了我的东西。
-
-- **raise** — 一词多义：① 提起（raise a question）② 抚养（raise a child）③ 加薪（get a raise）。本单元可能是"提起话题"或"抚养"。注意和 rise（上升，不及物）区分。
-
-- **go ahead** — "请便、尽管做"。Go ahead, take it. / —Can I ask? —Go ahead. 在争论中常带讽刺：Go ahead, tell Mom! 也可以表"继续"：Please go ahead with your story.
-
-- **feel bad about** — "对……感到抱歉/内疚"。I feel bad about what I said. 比 regret 更口语、更日常。注意 bad 不是 badly：feel bad（感觉不好），不是 feel badly。
-
-- **my apologies** — "我道歉"，比 I'm sorry 更正式。My apologies for the confusion. 注意用复数 apologies。类似：I apologize. 在手足语境中可能带点讽刺或郑重。
-
-- **hometown** — "家乡、故乡"。my hometown / a small hometown。由 home + town 组成。比 hometown 更常用的说法是 where I'm from。注意是一个词，不是 home town。
-
-- **a thing** — 本单元中可能出现在 It's a thing（这是常事）或 not a thing（什么都没有）中。a thing 在口语中很灵活：It's not a big thing. / She made a thing out of it.
+- **microwave / hometown / go ahead / hear / see / call** — microwave 既是微波炉也可作动词"微波加热"；hometown 是家乡；go ahead = 请便、继续；hear 是听见（强调结果），see 是看见；call 可指打电话或"称为"。
 
 ## 练习
 
@@ -79,176 +52,189 @@ tell on（告状）、see through（看穿）、it wasn't me（不是我）是�
 
 <quiz-sentence-builder>
 
-1. **中文**：我的钥匙扣到底掉到哪里去了？
-   **英文**：What in the world happened to my keychain?
-   > **解析**：what in the world 意为到底、究竟。
+1. **中文**：你到底在这里干了什么？
+   **英文**：What in the world did you do here?
+   > **解析**：What in the world 加强质问语气；did 帮助构成过去时疑问句。
 
-2. **中文**：我能看穿你的借口，所以别对我撒谎。
-   **英文**：I can see through your excuses, so don't lie to me.
-   > **解析**：see through 意为看穿、识破。
+2. **中文**：不是我干的！
+   **英文**：It wasn't me!
+   > **解析**：It wasn't me 是固定否认句式，was 与 it 搭配。
 
-3. **中文**：如果你吃了我的口香糖，我就去向妈妈告状。
-   **英文**：If you ate my gum, I will tell on you to Mom.
-   > **解析**：tell on 意为告状、打小报告。
+3. **中文**：我为这个烂摊子道歉。
+   **英文**：My apologies for the mess.
+   > **解析**：My apologies 是正式道歉用语；for the mess 说明原因。
 
-4. **中文**：不是我弄烂你的海报的，你自己看吧！
-   **英文**：It wasn't me who ripped your poster, look for yourself!
-   > **解析**：it wasn't me 意为不是我。
+4. **中文**：别告我的状。
+   **英文**：Don't tell on me.
+   > **解析**：tell on someone 是固定短语"告发"；否定祈使句用 Don't 开头。
 
-5. **中文**：你把东西乱放，妈妈肯定会生气的。
-   **英文**：Mom is bound to get angry if you leave your stuff around.
-   > **解析**：bound to 意为肯定会、注定会。
+5. **中文**：我识破了你的借口。
+   **英文**：I can see through your excuses.
+   > **解析**：see through 是固定短语"识破"；can 后接动词原形。
 
-6. **中文**：我放在桌上的最后一块口香糖凭空消失了！
-   **英文**：The last piece of gum on the table just vanished into thin air!
-   > **解析**：vanish 意为消失。
+6. **中文**：你撕破了我的书包。
+   **英文**：You ripped my bag.
+   > **解析**：ripped 是 rip 的过去式，双写 p；my bag 作宾语。
 
-7. **中文**：不小心用错微波炉又不是什么了不起的事。
-   **英文**：Using the wrong microwave setting is not a big deal.
-   > **解析**：big deal 意为大事、了不起的事。
+7. **中文**：吃饭时别嚼口香糖。
+   **英文**：Don't chew gum at the table.
+   > **解析**：chew gum 是固定搭配；at the table 是地点状语。
 
-8. **中文**：房里有非常多的零食，你为什么偏偏拿我的？
-   **英文**：There are tons of snacks in the kitchen, why take mine?
-   > **解析**：tons of 意为大量的、非常多的。
+8. **中文**：把他的手举起来。
+   **英文**：Raise your hand.
+   > **解析**：祈使句以动词原形 Raise 开头；raise 是及物动词"举起"。
 
-9. **中文**：我今天在超市偶遇了我的旧朋友。
-   **英文**：I bumped into an old friend at the supermarket today.
-   > **解析**：bump into 意为偶遇。
+9. **中文**：我的钥匙链不见了。
+   **英文**：My keychain vanished.
+   > **解析**：vanished 是过去式，表示"消失无踪"；比 disappeared 更具戏剧性。
 
-10. **中文**：别在说话的时候嚼口香糖，很不礼貌。
-   **英文**：Don't chew gum while talking, it is rude.
-   > **解析**：chew 意为咀嚼。
+10. **中文**：我在商场偶遇了哥哥。
+   **英文**：I bumped into my brother at the mall.
+   > **解析**：bump into 是固定短语"偶遇、撞上"；bumped 是过去式。
 
-11. **中文**：他买了一个带有家乡名字的精美钥匙扣。
-   **英文**：He bought a nice keychain with the name of his hometown.
-   > **解析**：keychain 意为钥匙扣。
+11. **中文**：这没什么大不了的。
+   **英文**：It is no big deal.
+   > **解析**：no big deal 是固定表达"没什么大不了"；常以否定形式出现。
 
-12. **中文**：请把食物放入微波炉里加热两分钟。
-   **英文**：Please put the food in the microwave to heat it up for two minutes.
-   > **解析**：microwave 意为微波炉。
+12. **中文**：这真的算一回事吗？
+   **英文**：Is that even a thing?
+   > **解析**：a thing 在口语中表示"真实存在的事"；even 加强怀疑语气。
 
-13. **中文**：我无法忍受你每天未经允许动我的东西。
-   **英文**：I cannot tolerate your taking my things without permission every day.
-   > **解析**：tolerate 意为容忍。
+13. **中文**：你一定会忘记的。
+   **英文**：You are bound to forget.
+   > **解析**：be bound to + 动词原形表示"一定会"。
 
-14. **中文**：谁把我的英语笔记本给撕破了？
-   **英文**：Who ripped my English notebook into pieces?
-   > **解析**：rip 意为撕破。
+14. **中文**：我为弄坏它感到抱歉。
+   **英文**：I feel bad about breaking it.
+   > **解析**：feel bad about + 动名词表示"为……感到抱歉"。
 
-15. **中文**：请便，拿去用吧，但我用完后需要还给我。
-   **英文**：Go ahead and use it, but return it to me when done.
-   > **解析**：go ahead 意为请便、尽管做。
+15. **中文**：我再也忍受不了这个噪音了。
+   **英文**：I can't tolerate this noise anymore.
+   > **解析**：tolerate 是及物动词"容忍"；anymore 表示"再也（不）"。
 
-16. **中文**：对昨晚对你大喊大叫这件事，我感到很抱歉。
-   **英文**：I feel bad about yelling at you last night.
-   > **解析**：feel bad about 意为对……感到抱歉/内疚。
+16. **中文**：我有成吨的作业。
+   **英文**：I have tons of homework.
+   > **解析**：tons of = 大量的；homework 是不可数名词。
 
-17. **中文**：我就弄乱你的房间向你郑重道歉。
-   **英文**：My apologies for making a mess in your bedroom.
-   > **解析**：my apologies 意为我道歉。
+17. **中文**：请便，用微波炉吧。
+   **英文**：Go ahead and use the microwave.
+   > **解析**：Go ahead 表示"请便、继续"；and 连接另一个祈使句。
 
-18. **中文**：我们在一个美丽的南方家乡小镇长大。
-   **英文**：We grew up in a beautiful southern hometown.
-   > **解析**：hometown 意为家乡。
+18. **中文**：你听到什么了吗？
+   **英文**：Did you hear anything?
+   > **解析**：Did 构成过去时疑问句；anything 用于疑问句。
 
-19. **中文**：请不要在餐桌上提起那个不愉快的话题。
-   **英文**：Please do not raise that unpleasant topic at the dinner table.
-   > **解析**：raise 意为提起（话题）。
+19. **中文**：他回到了家乡。
+   **英文**：He returned to his hometown.
+   > **解析**：returned 是过去式；to his hometown 是方向状语。
 
-20. **中文**：如果你不相信我，你可以亲自过去看。
-   **英文**：If you don't believe me, go ahead and see for yourself.
-   > **解析**：see 意为看、查看。
+20. **中文**：打电话给妈妈。
+   **英文**：Call mom.
+   > **解析**：祈使句以动词原形 Call 开头；mom 作宾语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. What in the world happened to my keychain?
-   > **中文**：我的钥匙扣到底掉到哪里去了？
+1. What in the world is going on?
+   > **中文**：到底发生了什么？
 
-2. I can see through your excuses, so don't lie to me.
-   > **中文**：我能看穿你的借口，所以别对我撒谎。
+2. It wasn't me; ask her.
+   > **中文**：不是我，你去问她。
 
-3. If you ate my gum, I will tell on you to Mom.
-   > **中文**：如果你吃了我的口香糖，我就去向妈妈告状。
+3. My apologies for eating your snack.
+   > **中文**：抱歉吃了你的零食。
 
-4. It wasn't me who ripped your poster, look for yourself!
-   > **中文**：不是我弄烂你的海报的，你自己看吧！
+4. She always tells on me.
+   > **中文**：她总是告我的状。
 
-5. Mom is bound to get angry if you leave your stuff around.
-   > **中文**：你把东西乱放，妈妈肯定会生气的。
+5. Nobody can see through mom.
+   > **中文**：谁也别想瞒过妈妈。
 
-6. The last piece of gum on the table just vanished into thin air!
-   > **中文**：我放在桌上的最后一块口香糖凭空消失了！
+6. Who ripped the poster?
+   > **中文**：谁撕破了海报？
 
-7. Using the wrong microwave setting is not a big deal.
-   > **中文**：不小心用错微波炉又不是什么了不起的事。
+7. He chews gum all day.
+   > **中文**：他整天嚼口香糖。
 
-8. There are tons of snacks in the kitchen, why take mine?
-   > **中文**：房里有非常多的零食，你为什么偏偏拿我的？
+8. Raise your voice a little.
+   > **中文**：把声音提高一点。
 
-9. I bumped into an old friend at the supermarket today.
-   > **中文**：我今天在超市偶遇了我的旧朋友。
+9. All the cookies vanished.
+   > **中文**：饼干全都不见了。
 
-10. Don't chew gum while talking, it is rude.
-   > **中文**：别在说话的时候嚼口香糖，很不礼貌。
+10. We bumped into each other at school.
+   > **中文**：我们在学校碰到了彼此。
 
-11. He bought a nice keychain with the name of his hometown.
-   > **中文**：他买了一个带有家乡名字的精美钥匙扣。
+11. Relax, it is no big deal.
+   > **中文**：放松点，没什么大不了的。
 
-12. Please put the food in the microwave to heat it up for two minutes.
-   > **中文**：请把食物放入微波炉里加热两分钟。
+12. Since when is that a thing?
+   > **中文**：这什么时候算一回事了？
 
-13. I cannot tolerate your taking my things without permission every day.
-   > **中文**：我无法忍受你每天未经允许动我的东西。
+13. He is bound to be angry.
+   > **中文**：他肯定会生气。
 
-14. Who ripped my English notebook into pieces?
-   > **中文**：谁把我的英语笔记本给撕破了？
+14. I feel bad about the lie.
+   > **中文**：我为那个谎言感到内疚。
 
-15. Go ahead and use it, but return it to me when done.
-   > **中文**：请便，拿去用吧，但我用完后需要还给我。
+15. Dad cannot tolerate the mess.
+   > **中文**：爸爸忍受不了这种脏乱。
 
-16. I feel bad about yelling at you last night.
-   > **中文**：对昨晚对你大喊大叫这件事，我感到很抱歉。
+16. There are tons of dishes to wash.
+   > **中文**：有一大堆碗要洗。
 
-17. My apologies for making a mess in your bedroom.
-   > **中文**：我就弄乱你的房间向你郑重道歉。
+17. Go ahead; I am listening.
+   > **中文**：说吧，我在听。
 
-18. We grew up in a beautiful southern hometown.
-   > **中文**：我们在一个美丽的南方家乡小镇长大。
+18. I heard a strange noise upstairs.
+   > **中文**：我听见楼上有奇怪的声音。
 
-19. Please do not raise that unpleasant topic at the dinner table.
-   > **中文**：请不要在餐桌上提起那个不愉快的话题。
+19. Our hometown changed a lot.
+   > **中文**：我们的家乡变化很大。
 
-20. If you don't believe me, go ahead and see for yourself.
-   > **中文**：如果你不相信我，你可以亲自过去看。
+20. She called to say sorry.
+   > **中文**：她打电话来道歉。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| what in the world | 到底；究竟 |
-| see through | 看穿；识破 |
-| tell on | 告状；打小报告 |
-| it wasn't me | 不是我 |
-| bound to | 肯定会；注定会 |
-| vanish | 消失；不见 |
-| big deal | 大事；了不起的事 |
-| tons of | 大量的；非常多的 |
-| bump into | 偶遇；撞上 |
-| chew | 咀嚼；嚼 |
-| gum | 口香糖；牙龈 |
-| keychain | 钥匙扣；钥匙链 |
+| --- | --- |
+| a thing | 真实存在的事 |
+| big deal | 大不了的事 |
+| bound to | 一定会 |
+| bump into | 偶遇 / 撞上 |
+| call | 打电话 / 称为 |
+| chew | 咀嚼 |
+| feel bad about | 为……感到抱歉 |
+| go ahead | 请便 / 继续 |
+| gum | 口香糖 |
+| hear | 听见 |
+| hometown | 家乡 |
+| it wasn't me | 不是我干的 |
+| keychain | 钥匙链 |
 | microwave | 微波炉 |
-| tolerate | 容忍；忍受 |
-| rip | 撕破；扯裂 |
-| raise | 提起；抚养；加薪 |
-| go ahead | 请便；尽管做 |
-| feel bad about | 对……感到抱歉/内疚 |
 | my apologies | 我道歉 |
-| hometown | 家乡；故乡 |
+| raise | 举起 / 提高 |
+| rip | 撕破 |
+| see | 看见 |
+| see through | 识破 |
+| tell on | 告发 |
+| tolerate | 容忍 |
+| tons of | 大量的 |
+| vanish | 消失 |
+| what in the world | 到底 |
+| he | 他 |
+| she | 她 |
+| who | 谁 |
+| each other | 彼此 |
+| upstairs | 楼上 |
+| always | 总是 |
+| nobody | 没有人 |
+| since | 自从 |
+| relax | 放松 |
 
 </quiz-matching>
 
@@ -256,202 +242,202 @@ tell on（告状）、see through（看穿）、it wasn't me（不是我）是�
 
 ### 1
 
-What in the world happened to my ____?
+What in the ____ did you buy this time?
 
-- [x] keychain
-- [ ] a thing
-- [ ] big deal
+- [x] world
+- [ ] worlds
+- [ ] word
 
-> **解析**：**keychain** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：What in the world 是固定加强语气表达；word 是"词"，语义不合。
 
 ### 2
 
-I can ____ through your excuses, so don't lie to me.
+I broke nothing — it ____ me!
 
-- [x] see
-- [ ] a thing
-- [ ] big deal
+- [x] wasn't
+- [ ] weren't
+- [ ] was not being
 
-> **解析**：**see** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：It wasn't me 是固定否认句，it 搭配 was；weren't 用于复数或 you。
 
 ### 3
 
-If you ate my ____, I will tell on you to Mom.
+____ for the broken cup.
 
-- [x] gum
-- [ ] a thing
-- [ ] big deal
+- [x] My apologies
+- [ ] My apology's
+- [ ] My apologize
 
-> **解析**：**gum** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：My apologies 是固定道歉用语，用复数；apologize 是动词，不能这样用。
 
 ### 4
 
-It wasn't me who ripped your poster, look for ____!
+Please don't tell ____ me to dad.
 
-- [x] yourself
-- [ ] a thing
-- [ ] big deal
+- [x] on
+- [ ] at
+- [ ] for
 
-> **解析**：**yourself** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：tell on someone 是固定短语"告发"；at 和 for 不合结构。
 
 ### 5
 
-Mom is bound to get angry if you leave your stuff ____.
+I can see ____ your little trick.
 
-- [x] around
-- [ ] a thing
-- [ ] big deal
+- [x] through
+- [ ] though
+- [ ] thorough
 
-> **解析**：**around** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：see through 是固定短语"识破"；though 是连词，thorough 是形容词。
 
 ### 6
 
-The last piece of ____ on the table just vanished into thin air!
+Be careful not to ____ the photo.
 
-- [x] gum
-- [ ] a thing
-- [ ] big deal
+- [x] rip
+- [ ] ripped
+- [ ] ripping
 
-> **解析**：**gum** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：to 后接动词原形 rip；其余两项不符合不定式要求。
 
 ### 7
 
-Using the wrong ____ setting is not a big deal.
+Please don't ____ with your mouth open.
 
-- [x] microwave
-- [ ] a thing
-- [ ] big deal
+- [x] chew
+- [ ] chews
+- [ ] chewed
 
-> **解析**：**microwave** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：don't 后接动词原形 chew；chew 不带宾语时表"咀嚼"动作。
 
 ### 8
 
-There are tons of snacks in the ____, why take mine?
+____ your hand if you know the answer.
 
-- [x] kitchen
-- [ ] a thing
-- [ ] big deal
+- [x] Raise
+- [ ] Rise
+- [ ] Raising
 
-> **解析**：**kitchen** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：举手用及物动词 Raise；Rise 是不及物动词"升起"，不能接宾语。
 
 ### 9
 
-I bumped into an old friend at the ____ today.
+My homework just ____ from the desk.
 
-- [x] supermarket
-- [ ] a thing
-- [ ] big deal
+- [x] vanished
+- [ ] vanish
+- [ ] vanishing
 
-> **解析**：**supermarket** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去事件用过去式 vanished；其余两项不能单独作谓语。
 
 ### 10
 
-Don't ____ gum while talking, it is rude.
+Guess who I bumped ____ at the park!
 
-- [x] chew
-- [ ] a thing
-- [ ] big deal
+- [x] into
+- [ ] in
+- [ ] onto to
 
-> **解析**：**chew** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：bump into 是固定短语"偶遇、撞上"；其余介词不合搭配。
 
 ### 11
 
-He bought a nice ____ with the name of his hometown.
+Don't worry; it's no big ____.
 
-- [x] keychain
-- [ ] a thing
-- [ ] big deal
+- [x] deal
+- [ ] deals
+- [ ] dealing
 
-> **解析**：**keychain** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：no big deal 是固定表达，deal 用单数；复数和动名词不合结构。
 
 ### 12
 
-Please put the food in the ____ to heat it up for two minutes.
+Is that even ____ thing people actually do?
 
-- [x] microwave
-- [ ] a thing
-- [ ] big deal
+- [x] a
+- [ ] an
+- [ ] the one
 
-> **解析**：**microwave** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：thing 以辅音音素开头，用 a；a thing 在口语中表示"真实存在的事"。
 
 ### 13
 
-I cannot ____ your taking my things without permission every day.
+You are bound ____ forget her birthday.
 
-- [x] tolerate
-- [ ] a thing
-- [ ] big deal
+- [x] to
+- [ ] for
+- [ ] at
 
-> **解析**：**tolerate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be bound to + 动词原形是固定结构"一定会"。
 
 ### 14
 
-Who ripped my English ____ into pieces?
+She felt bad ____ losing the game.
 
-- [x] notebook
-- [ ] a thing
-- [ ] big deal
+- [x] about
+- [ ] for to
+- [ ] at
 
-> **解析**：**notebook** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：feel bad about + 动名词是固定搭配；for to 结构错误。
 
 ### 15
 
-Go ahead and use it, but ____ it to me when done.
+I cannot ____ your rude behavior.
 
-- [x] return
-- [ ] a thing
-- [ ] big deal
+- [x] tolerate
+- [ ] tolerates
+- [ ] tolerated
 
-> **解析**：**return** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：cannot 后接动词原形 tolerate；其余两项不合要求。
 
 ### 16
 
-I feel bad about ____ at you last night.
+There are tons ____ questions to answer.
 
-- [x] yelling
-- [ ] a thing
-- [ ] big deal
+- [x] of
+- [ ] off
+- [ ] for
 
-> **解析**：**yelling** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：tons of 是固定搭配"大量的"；off 和 for 不合结构。
 
 ### 17
 
-My ____ for making a mess in your bedroom.
+____ and tell me what happened.
 
-- [x] apologies
-- [ ] a thing
-- [ ] big deal
+- [x] Go ahead
+- [ ] Goes ahead
+- [ ] Going ahead
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **apologies**。
+> **解析**：祈使句用 Go ahead"请便、说吧"；其余两项不合祈使句结构。
 
 ### 18
 
-We grew up in a beautiful southern ____.
+Did you ____ the announcement?
 
-- [x] hometown
-- [ ] a thing
-- [ ] big deal
+- [x] hear
+- [ ] heard
+- [ ] hearing
 
-> **解析**：**hometown** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Did 后接动词原形 hear；heard 是过去式，与 Did 重复。
 
 ### 19
 
-Please do not ____ that unpleasant topic at the dinner table.
+She left her ____ to find a better job.
 
-- [x] raise
-- [ ] a thing
-- [ ] big deal
+- [x] hometown
+- [ ] home towns
+- [ ] homing town
 
-> **解析**：**raise** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：hometown 是复合名词，用单数；其余两项不是正确形式。
 
 ### 20
 
-If you don't believe me, go ahead and ____ for yourself.
+____ your sister and invite her over.
 
-- [x] see
-- [ ] a thing
-- [ ] big deal
+- [x] Call
+- [ ] Calls
+- [ ] Calling
 
-> **解析**：**see** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句以动词原形 Call 开头；其余两项不合结构。
 
 </quiz-cloze>

@@ -10,30 +10,33 @@ act, argument, be able to, common sense, control, disappoint, drawn, drunk, guil
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"为某个决定表达后悔"展开。核心语法是第三类条件句（对过去的虚拟）：If I hadn't been so stupid, I wouldn't have disappointed everyone. / If she had listened, she would have had a better result. 词表里 had, hadn't, would, would have had, wouldn't have 正是这个结构的骨架。
+本单元的主题是"错误与悔恨"。词表可以分成三组：虚拟条件句骨架（if, had, hadn't, would, would have had, wouldn't have, be able to）、错误与情绪词（mistaken, guilty, stupid, selfish, lucky, disappoint, warn, control, act, argument, loud）、以及判断力词（common sense, promise, drawn, drunk）。拼起来就是悔恨独白：If I hadn't made that decision, I wouldn't have had so many problems. I feel guilty and disappointed. I should have listened to common sense.
 
-词表还有描述错误和情绪的词汇（mistaken, guilty, selfish, stupid, drunk, loud, disappoint）和应对表达（warn, promise, control, common sense, argument）。你可以练习：I should have listened—I was drunk and loud. / He warned me, but I didn't act on it. / I feel guilty; I was selfish. / I promise I'll be able to do better.
+语法主线是第三条件句（与过去事实相反）：If + 主语 + had not + 过去分词, 主语 + would not have + 过去分词。If I hadn't acted so fast, I wouldn't have made that mistake.（hadn't = had not）。这是虚拟语气中时态最"深"的一种，两层完成结构叠加。另一条主线是情绪形容词群：guilty 内疚、disappointed 失望（disappoint 的过去分词作形容词）、selfish 自私、mistaken 弄错的，都用来描述犯错后的感受。
 
-drawn 是 draw 的过去分词，在这里可能指"被吸引"（drawn to）或"被画"。be able to 是 can 的替代形式，用于 can 无法出现的时态中。
+学完这些词，你能用英语表达对过去决定的悔恨、分析错误原因、描述相关情绪，并给出事后的反思。
 
 ## Tips
 
-- **wouldn't have / would have had / hadn't** — 第三类条件句的核心。结构：If + had/hadn't + 过去分词, would/wouldn't have + 过去分词。例句：If I hadn't been drunk, I wouldn't have said that. / If she had warned me, I would have had time. 表示对已发生事情的后悔或假设。
+- **if / had / hadn't / would / wouldn't have / would have had** — 第三条件句全家福。结构：If I had known, I wouldn't have done it. hadn't = had not：If I hadn't been late...（如果我没迟到……）。wouldn't have + 过去分词表"本来不会"；would have had 表示"本来会有"：I would have had more time.（我本来会有更多时间。）
 
-- **guilty / selfish / stupid / mistaken** — guilty = 内疚的（feel guilty about...）。selfish = 自私的（self + -ish）。stupid = 愚蠢的（口语中常见，注意语气较重）。mistaken = 弄错的（I was mistaken. = 我搞错了。），比 wrong 更委婉。
+- **be able to** — "能够"，与 can 近义但有时态变化：I wasn't able to stop him.（我没能拦住他。）can 没有过去完成形式，此时用 been able to 补位。
 
-- **disappoint / warn / promise** — disappoint = 使失望（I don't want to disappoint you.），形容词 disappointing（令人失望的）/ disappointed（感到失望的）。warn = 警告（warn someone about/of something）。promise = 承诺（I promise I won't do it again.）。
+- **guilty / mistaken / stupid / selfish** — 自责四词。guilty 内疚的：feel guilty（感到内疚）；mistaken 弄错的：You are mistaken.（你弄错了。）；stupid 愚蠢的；selfish 自私的。注意 mistaken 与 mistake 的动名对应。
 
-- **drunk / loud / drawn** — drunk = 喝醉的（He was drunk.），drink → drank → drunk。loud = 大声的（Don't be so loud!）。drawn 是 draw 的过去分词，搭配 be drawn to = 被吸引（I was drawn to the noise.）。
+- **disappoint / lucky** — disappoint 使失望，常用过去分词形式：I'm disappointed.（我很失望。）；lucky 幸运的：be lucky（走运）。名词 luck 加 -y 变形容词。
 
-- **common sense / control / argument** — common sense = 常识（Use your common sense!）。control = 控制（lose control, under control）。argument = 争论（have an argument with someone），也可指"论点"。
+- **warn / control / act** — warn 警告：warn someone about something（提醒某人注意）；control 控制：lose control（失控）；act 行动、表现：act quickly（迅速行动），也可指"演戏"。
 
-- **be able to / act / lucky** — be able to = 能够（= can，但能用于更多时态：I will be able to... / I have been able to...）。act = 行动（act now!）也可指"行为"。lucky = 幸运的（You're lucky! / a lucky escape）。
+- **argument / loud / drunk** — argument 争吵：have an argument（吵架）；loud 大声的：a loud voice；drunk 醉的：get drunk（喝醉）。drink → drank → drunk 的过去分词作形容词。
 
-- **if / had / would** — 这三个功能词构成条件句框架。if 引导条件从句，had 做助动词构成过去完成，would 构成主句的虚拟结果。注意 if 从句中不用 would（不说 If I would have...，而说 If I had...）。
+- **common sense** — "常识"：use common sense（用点常识）。sense 感觉 + common 普通，合成"普通人都有的判断力"。
+
+- **promise** — 动词/名词"承诺"：promise to do something；keep a promise（遵守承诺）、break a promise（违背承诺）。犯错后常接 promise：I promise it won't happen again.（我保证不会再发生。）
+
+- **drawn** — draw 的过去分词（draw → drew → drawn），本义"画、拉"。本单元可用于 be drawn into an argument（被卷入争吵），drawn into 表示"被吸引/卷入"。
 
 ## 练习
 
@@ -51,149 +54,149 @@ drawn 是 draw 的过去分词，在这里可能指"被吸引"（drawn to）或"
 
 <quiz-sentence-builder>
 
-1. **中文**：如果我没有那么蠢，我就不会让大家失望了。  
-   **英文**：If I hadn't been so stupid, I wouldn't have disappointed everyone.
-   > **解析**：第三类条件句（If + had + 过去分词, would + have + 过去分词），对过去的后悔虚拟。
+1. **中文**：如果我当时没那么快行动，我就不会犯那个错误。
+   **英文**：If I hadn't acted so fast, I wouldn't have made that mistake.
+   > **解析**：第三条件句：If + hadn't + 过去分词，主句 wouldn't have + 过去分词，表示与过去事实相反。
 
-2. **中文**：如果她当时听了我的劝告，她就会有更好的结果。  
-   **英文**：If she had listened to me, she would have had a better result.
-   > **解析**：would have had 表示过去本可以拥有的结果。
+2. **中文**：如果我当时知道，我本来会有更多时间。
+   **英文**：If I had known, I would have had more time.
+   > **解析**：had known 是过去完成时；would have had 表示"本来会有"。
 
-3. **中文**：如果我当时没有喝醉，我就不会说出那些话。  
-   **英文**：If I hadn't been drunk, I wouldn't have said those words.
-   > **解析**：drunk 作形容词表示“喝醉的”，hadn't been 为过去完成时否定式。
+3. **中文**：我当时没能拦住他。
+   **英文**：I wasn't able to stop him.
+   > **解析**：wasn't able to 是 be able to 的过去否定；can 无此过去结构，故用 be able to。
 
-4. **中文**：他警告过我危险，但我没有采取行动。  
-   **英文**：He warned me about the danger, but I didn't act on it.
-   > **解析**：warn 意为“警告”，act on 表示“针对……采取行动”。
+4. **中文**：我感到内疚。
+   **英文**：I feel guilty.
+   > **解析**：feel 是系动词，后接形容词 guilty 作表语。
 
-5. **中文**：我觉得很内疚，因为我昨天太自私了。  
-   **英文**：I feel guilty because I was very selfish yesterday.
-   > **解析**：guilty 表示“内疚的”，selfish 表示“自私的”。
+5. **中文**：你弄错了。
+   **英文**：You are mistaken.
+   > **解析**：mistaken 作表语形容词，表示"弄错的"；are 与主语 you 搭配。
 
-6. **中文**：我保证下次我能够做得更好。  
-   **英文**：I promise I will be able to do better next time.
-   > **解析**：promise 表示“承诺”，be able to 放在 will 之后表示“能够”。
+6. **中文**：我对结果很失望。
+   **英文**：I am disappointed with the result.
+   > **解析**：disappointed 是过去分词作形容词；disappointed with 表示"对……失望"。
 
-7. **中文**：当大家在睡觉时，不要那么大声。  
-   **英文**：Don't be so loud when people are trying to sleep.
-   > **解析**：loud 表示“大声的、喧闹的”。
+7. **中文**：那样做太愚蠢了。
+   **英文**：It was stupid to do that.
+   > **解析**：It 是形式主语，真正主语是 to do that；stupid 作表语。
 
-8. **中文**：我被屋外神秘的噪音吸引了。  
-   **英文**：I was drawn to the mysterious noise outside the house.
-   > **解析**：drawn 是 draw 的过去分词，be drawn to 表示“被……吸引”。
+8. **中文**：那样做太自私了。
+   **英文**：That was selfish.
+   > **解析**：was 与主语 That 搭配；selfish 作表语。
 
-9. **中文**：在做决定前，你应当使用常识。  
-   **英文**：You should use your common sense before making a decision.
-   > **解析**：common sense 表示“常识”。
+9. **中文**：他很幸运，没有受伤。
+   **英文**：He was lucky not to be hurt.
+   > **解析**：lucky 作表语；not to be hurt 是不定式的否定式。
 
-10. **中文**：司机在结冰的道路上失去了对汽车的控制。  
-   **英文**：The driver lost control of the car on the icy road.
-   > **解析**：lose control of 表示“失去对……的控制”。
+10. **中文**：我警告过他关于那个决定。
+   **英文**：I warned him about the decision.
+   > **解析**：warned 是过去式；warn someone about something 是固定结构。
 
-11. **中文**：他们为了谁该付账单展开了激烈的争论。  
-   **英文**：They had a fierce argument about who should pay the bill.
-   > **解析**：argument 表示“争论”，have an argument about 表示“讨论/争论”。
+11. **中文**：他失去了控制。
+   **英文**：He lost control.
+   > **解析**：lost 是 lose 的过去式；lose control 是固定搭配。
 
-12. **中文**：我误解了他的意图，感到很抱歉。  
-   **英文**：I was mistaken about his intention and felt sorry.
-   > **解析**：mistaken 表示“搞错的、误解的”。
+12. **中文**：我们吵了一架。
+   **英文**：We had an argument.
+   > **解析**：had 是 have 的过去式；have an argument 是固定搭配。
 
-13. **中文**：如果我们早点出发，我们就不会错过公交车了。  
-   **英文**：If we had left earlier, we wouldn't have missed the bus.
-   > **解析**：wouldn't have + 过去分词，表示过去假设结果“本就不会”。
+13. **中文**：别提高嗓门。
+   **英文**：Don't raise your voice.
+   > **解析**：否定祈使句用 Don't；raise your voice 表示"提高嗓门"。
 
-14. **中文**：你能拥有这样一个支持你的家庭，真是太幸运了。  
-   **英文**：You are very lucky to have such a supportive family.
-   > **解析**：lucky 表示“幸运的”。
+14. **中文**：他喝醉了。
+   **英文**：He got drunk.
+   > **解析**：got drunk 表示"喝醉"；drunk 是 drink 的过去分词作形容词。
 
-15. **中文**：如果我早知道真相，我就已经警告你了。  
-   **英文**：If I had known the truth, I would have warned you.
-   > **解析**：would have warned 表示虚拟主句“本就会警告你”。
+15. **中文**：用点常识吧。
+   **英文**：Use common sense.
+   > **解析**：祈使句用动词原形 Use；common sense 是不可数名词。
 
-16. **中文**：如果他当时训练更努力，他就会拿到冠军。  
-   **英文**：If he had trained harder, he would have had the championship.
-   > **解析**：had trained 为条件从句的过去完成时。
+16. **中文**：我保证不会再发生。
+   **英文**：I promise it won't happen again.
+   > **解析**：promise 后接省略 that 的宾语从句；won't happen 是将来否定。
 
-17. **中文**：我并不是故意用成绩让我的父母失望。  
-   **英文**：I didn't mean to disappoint my parents with my grades.
-   > **解析**：disappoint 意为“使失望”。
+17. **中文**：他被卷入了那场争吵。
+   **英文**：He was drawn into the argument.
+   > **解析**：was drawn 是被动语态；drawn into 表示"被卷入"。
 
-18. **中文**：如果她没有迅速采取行动，事故就会发生了。  
-   **英文**：If she hadn't acted so quickly, the accident would have happened.
-   > **解析**：hadn't acted 为条件从句过去的否定假设。
+18. **中文**：如果我当时听了你的建议，结果就会不同。
+   **英文**：If I had listened to you, things would have been different.
+   > **解析**：第三条件句；would have been 表示"本来会是"。
 
-19. **中文**：他承诺过他不会再自私了。  
-   **英文**：He promised that he wouldn't be selfish again.
-   > **解析**：selfish 意为“自私的”。
+19. **中文**：我本来能够控制局面的。
+   **英文**：I would have been able to control the situation.
+   > **解析**：would have been able to 是虚拟语气中的"本来能够"；be able to 补 can 之缺。
 
-20. **中文**：解决这场争论需要常识与自控力。  
-   **英文**：It takes common sense and self control to resolve this argument.
-   > **解析**：argument 意为“争论”。
+20. **中文**：后悔没有用。
+   **英文**：Regret is useless.
+   > **解析**：Regret 作名词主语；useless 作表语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. If I hadn't been so stupid, I wouldn't have disappointed everyone.
-   > **中文**：如果我没有那么蠢，我就不会让大家失望了。
+1. If I hadn't acted so fast, I wouldn't have made that mistake.
+   > **中文**：如果我当时没那么快行动，我就不会犯那个错误。
 
-2. If she had listened to me, she would have had a better result.
-   > **中文**：如果她当时听了我的劝告，她就会有更好的结果。
+2. If I had known, I would have had more time.
+   > **中文**：如果我当时知道，我本来会有更多时间。
 
-3. If I hadn't been drunk, I wouldn't have said those words.
-   > **中文**：如果我当时没有喝醉，我就不会说出那些话。
+3. I wasn't able to stop him.
+   > **中文**：我当时没能拦住他。
 
-4. He warned me about the danger, but I didn't act on it.
-   > **中文**：他警告过我危险，但我没有采取行动。
+4. I feel guilty.
+   > **中文**：我感到内疚。
 
-5. I feel guilty because I was very selfish yesterday.
-   > **中文**：我觉得很内疚，因为我昨天太自私了。
+5. You are mistaken.
+   > **中文**：你弄错了。
 
-6. I promise I will be able to do better next time.
-   > **中文**：我保证下次我能够做得更好。
+6. I am disappointed with the result.
+   > **中文**：我对结果很失望。
 
-7. Don't be so loud when people are trying to sleep.
-   > **中文**：当大家在睡觉时，不要那么大声。
+7. It was stupid to do that.
+   > **中文**：那样做太愚蠢了。
 
-8. I was drawn to the mysterious noise outside the house.
-   > **中文**：我被屋外神秘的噪音吸引了。
+8. That was selfish.
+   > **中文**：那样做太自私了。
 
-9. You should use your common sense before making a decision.
-   > **中文**：在做决定前，你应当使用常识。
+9. He was lucky not to be hurt.
+   > **中文**：他很幸运，没有受伤。
 
-10. The driver lost control of the car on the icy road.
-   > **中文**：司机在结冰的道路上失去了对汽车的控制。
+10. I warned him about the decision.
+   > **中文**：我警告过他关于那个决定。
 
-11. They had a fierce argument about who should pay the bill.
-   > **中文**：他们为了谁该付账单展开了激烈的争论。
+11. He lost control.
+   > **中文**：他失去了控制。
 
-12. I was mistaken about his intention and felt sorry.
-   > **中文**：我误解了他的意图，感到很抱歉。
+12. We had an argument.
+   > **中文**：我们吵了一架。
 
-13. If we had left earlier, we wouldn't have missed the bus.
-   > **中文**：如果我们早点出发，我们就不会错过公交车了。
+13. Don't raise your voice.
+   > **中文**：别提高嗓门。
 
-14. You are very lucky to have such a supportive family.
-   > **中文**：你能拥有这样一个支持你的家庭，真是太幸运了。
+14. He got drunk.
+   > **中文**：他喝醉了。
 
-15. If I had known the truth, I would have warned you.
-   > **中文**：如果我早知道真相，我就已经警告你了。
+15. Use common sense.
+   > **中文**：用点常识吧。
 
-16. If he had trained harder, he would have had the championship.
-   > **中文**：如果他当时训练更努力，他就会拿到冠军。
+16. I promise it won't happen again.
+   > **中文**：我保证不会再发生。
 
-17. I didn't mean to disappoint my parents with my grades.
-   > **中文**：我并不是故意用成绩让我的父母失望。
+17. He was drawn into the argument.
+   > **中文**：他被卷入了那场争吵。
 
-18. If she hadn't acted so quickly, the accident would have happened.
-   > **中文**：如果她没有迅速采取行动，事故就会发生了。
+18. If I had listened to you, things would have been different.
+   > **中文**：如果我当时听了你的建议，结果就会不同。
 
-19. He promised that he wouldn't be selfish again.
-   > **中文**：他承诺过他不会再自私了。
+19. I would have been able to control the situation.
+   > **中文**：我本来能够控制局面的。
 
-20. It takes common sense and self control to resolve this argument.
-   > **中文**：解决这场争论需要常识与自控力。
+20. Regret is useless.
+   > **中文**：后悔没有用。
 
 </quiz-listening>
 
@@ -201,26 +204,32 @@ drawn 是 draw 的过去分词，在这里可能指"被吸引"（drawn to）或"
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| act | 行动；表现 |
-| argument | 争论；论点 |
+| act | 行动 / 表现 |
+| argument | 争吵 |
 | be able to | 能够 |
 | common sense | 常识 |
 | control | 控制 |
 | disappoint | 使失望 |
-| drawn | 被吸引的 |
-| drunk | 喝醉的 |
+| drawn | draw 的过去分词 / 被卷入 |
+| drunk | 醉的 |
 | guilty | 内疚的 |
-| had | （过去完成时助动词）已 |
-| hadn't | （过去完成时否定）未曾 |
+| had | 有（过去式） |
+| hadn't | 没有（had not 缩写） |
 | if | 如果 |
 | loud | 大声的 |
 | lucky | 幸运的 |
-| mistaken | 搞错的；误解的 |
+| mistaken | 弄错的 |
 | promise | 承诺 |
 | selfish | 自私的 |
 | stupid | 愚蠢的 |
 | warn | 警告 |
-| would have had | 本就会拥有 |
+| would | 会 |
+| would have had | 本来会有 |
+| wouldn't have | 本来不会 |
+| is | 是（单数） |
+| the | 这个 / 那个 |
+| mistake | 错误 |
+| voice | 声音 |
 
 </quiz-matching>
 
@@ -228,202 +237,202 @@ drawn 是 draw 的过去分词，在这里可能指"被吸引"（drawn to）或"
 
 ### 1
 
-____ I hadn't been so stupid, I wouldn't have disappointed everyone.
+If I ____ acted so fast, I wouldn't have made that mistake.
 
-- [x] If
-- [ ] act
-- [ ] argument
+- [x] hadn't
+- [ ] haven't
+- [ ] don't
 
-> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：第三条件句从句用过去完成时 hadn't acted；haven't 是现在完成时。
 
 ### 2
 
-____ she had listened to me, she would have had a better result.
+If I had known, I ____ have had more time.
 
-- [x] If
-- [ ] act
-- [ ] argument
+- [x] would
+- [ ] will
+- [ ] did
 
-> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：第三条件句主句用 would have + 过去分词；will 表真实将来。
 
 ### 3
 
-____ I hadn't been drunk, I wouldn't have said those words.
+I wasn't able ____ stop him.
 
-- [x] If
-- [ ] act
-- [ ] argument
+- [x] to
+- [ ] for
+- [ ] at
 
-> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be able to + 动词原形是固定结构；其余介词不成立。
 
 ### 4
 
-He warned me about the danger, but I didn't ____ on it.
+I feel ____.
 
-- [x] act
-- [ ] argument
-- [ ] be able to
+- [x] guilty
+- [ ] guilt
+- [ ] guiltily
 
-> **解析**：**act** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：feel 后接形容词 guilty；guilt 是名词，guiltily 是副词。
 
 ### 5
 
-I feel ____ because I was very selfish yesterday.
+You are ____.
 
-- [x] guilty
-- [ ] act
-- [ ] argument
+- [x] mistaken
+- [ ] mistake
+- [ ] mistaking
 
-> **解析**：**guilty** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：are 后接形容词 mistaken（弄错的）；mistake 是名词/动词原形。
 
 ### 6
 
-I ____ I will be able to do better next time.
+I am disappointed ____ the result.
 
-- [x] promise
-- [ ] act
-- [ ] argument
+- [x] with
+- [ ] at of
+- [ ] in of
 
-> **解析**：**promise** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：disappointed with 是固定搭配；其余结构错误。
 
 ### 7
 
-Don't be so ____ when people are trying to sleep.
+It was ____ to do that.
 
-- [x] loud
-- [ ] act
-- [ ] argument
+- [x] stupid
+- [ ] stupidity of
+- [ ] stupidly
 
-> **解析**：**loud** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后需要形容词 stupid；stupidly 是副词。
 
 ### 8
 
-I was ____ to the mysterious noise outside the house.
+That was ____.
 
-- [x] drawn
-- [ ] act
-- [ ] argument
+- [x] selfish
+- [ ] self
+- [ ] selfishness
 
-> **解析**：**drawn** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后需要形容词 selfish；self 是名词，selfishness 是名词。
 
 ### 9
 
-You should use your common sense before making a ____.
+He was ____ not to be hurt.
 
-- [x] decision
-- [ ] act
-- [ ] argument
+- [x] lucky
+- [ ] luck
+- [ ] luckily
 
-> **解析**：**decision** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后接形容词 lucky；luck 是名词，luckily 是副词。
 
 ### 10
 
-The driver lost ____ of the car on the icy road.
+I warned him ____ the decision.
 
-- [x] control
-- [ ] act
-- [ ] argument
+- [x] about
+- [ ] for the
+- [ ] to
 
-> **解析**：**control** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：warn someone about something 是固定结构；其余介词不成立。
 
 ### 11
 
-They ____ a fierce argument about who should pay the bill.
+He lost ____.
 
-- [x] had
-- [ ] act
-- [ ] argument
+- [x] control
+- [ ] controls of
+- [ ] controlling
 
-> **解析**：**had** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：lose control（失控）是固定搭配；其余形式错误。
 
 ### 12
 
-I was ____ about his intention and felt sorry.
+We had an ____.
 
-- [x] mistaken
-- [ ] act
-- [ ] argument
+- [x] argument
+- [ ] argue
+- [ ] arguing
 
-> **解析**：**mistaken** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：an 后需要名词 argument；argue 是动词。
 
 ### 13
 
-____ we had left earlier, we wouldn't have missed the bus.
+He got ____ last night.
 
-- [x] If
-- [ ] act
-- [ ] argument
+- [x] drunk
+- [ ] drink
+- [ ] drinking
 
-> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get drunk（喝醉）是固定搭配；drunk 是过去分词作形容词。
 
 ### 14
 
-You are very ____ to have such a supportive family.
+Use common ____.
 
-- [x] lucky
-- [ ] act
-- [ ] argument
+- [x] sense
+- [ ] senses of
+- [ ] since
 
-> **解析**：**lucky** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：common sense（常识）是固定短语；since 是连词。
 
 ### 15
 
-____ I had known the truth, I would have warned you.
+I ____ it won't happen again.
 
-- [x] If
-- [ ] act
-- [ ] argument
+- [x] promise
+- [ ] promises
+- [ ] promising
 
-> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 I 后用动词原形 promise；其余形式不成立。
 
 ### 16
 
-____ he had trained harder, he would have had the championship.
+He was drawn ____ the argument.
 
-- [x] If
-- [ ] act
-- [ ] argument
+- [x] into
+- [ ] in to of
+- [ ] onto of
 
-> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：drawn into（被卷入）是固定搭配；其余结构错误。
 
 ### 17
 
-I didn't mean to ____ my parents with my grades.
+If I had listened to you, things would have ____ different.
 
-- [x] disappoint
-- [ ] act
-- [ ] argument
+- [x] been
+- [ ] be
+- [ ] being
 
-> **解析**：**disappoint** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：would have + 过去分词 been；其余形式不成立。
 
 ### 18
 
-____ she hadn't acted so quickly, the accident would have happened.
+I would have been able to ____ the situation.
 
-- [x] If
-- [ ] act
-- [ ] argument
+- [x] control
+- [ ] controlling
+- [ ] controlled
 
-> **解析**：**If** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：to 后接动词原形 control；其余形式不成立。
 
 ### 19
 
-He promised that he wouldn't be ____ again.
+Regret is ____.
 
-- [x] selfish
-- [ ] act
-- [ ] argument
+- [x] useless
+- [ ] use
+- [ ] useful
 
-> **解析**：**selfish** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：后悔没有用，用 useless；useful 语义相反。
 
 ### 20
 
-It takes common sense and self ____ to resolve this argument.
+His voice was too ____.
 
-- [x] control
-- [ ] act
-- [ ] argument
+- [x] loud
+- [ ] loudly of
+- [ ] loudness
 
-> **解析**：**control** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后接形容词 loud；loudness 是名词。
 
 </quiz-cloze>

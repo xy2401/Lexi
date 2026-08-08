@@ -10,58 +10,31 @@ artificial, biggest, boost, both, confidence, did, energy, fortune, functional, 
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是"分享产品的好处"——就像电视购物广告或朋友之间的安利。词表里有大量推销和评价用语：boost, impress, confidence, functional, purchase。你可以这样"卖货"：Not only does it boost your energy, but it also helps you get in shape. Neither artificial flavors nor magic pills—just a functional product that works. Purchase now, otherwise you'll miss the biggest deal of the year!（它不仅提升你的精力，还帮你塑形。没有人工香精，也没有神奇药丸——只是一款真正有效的产品。现在就买，否则你会错过今年最大的优惠！）
+本单元的主题是"分享产品的益处"，场景是一段电视购物广告。词表可以分成四组：卖点动词（boost, impress, get in shape, purchase, snore）、产品特性（artificial, functional, biggest, magic, energy, confidence, fortune, wealthy, smelly, thermometer, toenail）、并列与否定连词（both, neither, nor, not only, not only do, not only is, no）、以及口语与衔接（did, now, otherwise）。拼起来就是一段广告词：Not only is this thermometer functional, it also boosts your confidence! Purchase it now, or otherwise you'll miss the biggest sale of the year.
 
-not only... but also... / neither... nor... / both... and... 是三组并列连词，本单元集中练习"如何列举产品优势"。smelly, snore, toenail 这些"不体面"的词暗示广告可能涉及健康或个护产品。fortune（财富）和 wealthy（富有的）给产品加了"成功人士必备"的光环。
+语法主线是 not only... but also... 的倒装结构：Not only does it save energy, it also looks great. 当 not only 置于句首时，后面的分句要倒装（助动词提前）。not only do / not only is 就是倒装的骨架。另一条主线是 neither... nor... 和 both... and... 的并列否定与肯定搭配。
 
-学完本单元，你能用英语有条理地介绍产品优点，使用并列结构增强说服力。
+学完这个单元，你能用英语介绍产品卖点、使用强调句式，还能掌握并列连词的高级搭配。
 
 ## Tips
 
-- **not only... but also...** — "不仅……而且……"。Not only is it cheap, but it also works well. 注意 not only 放句首时，主句要倒装：Not only does it boost energy... 这是本单元的重点结构。
+- **not only / not only do / not only is** — not only... but also... 连接两个并列成分：It is not only cheap but also durable. 当 not only 放句首时主句倒装：Not only do we deliver fast, we also guarantee quality.（助动词 do 提前）Not only is it light, it is also strong.（is 提前）
 
-- **neither... nor...** — "既不……也不……"。Neither artificial nor expensive. 注意动词就近原则：Neither he nor I am... 比 not... and not... 更简洁有力。反义词组：both... and...
+- **neither / nor / both / no** — neither... nor... = 既不……也不……：Neither the blue nor the red one works. both... and... = 既……又……；no + 名词表示"没有"：no side effects（无副作用）。
 
-- **both... and...** — "两者都……"。It's both functional and affordable. 注意 both 后接的两个成分要平行：both A and B，A 和 B 词性一致。比 and 更强调"两者兼具"。
+- **boost / impress / get in shape / purchase** — 广告动词。boost = 提升：boost energy；impress = 打动：impress your friends；get in shape = 塑形健身；purchase 是正式用词的"购买"，广告里常用。
 
-- **boost** — "提升、增强"。boost your energy / boost confidence / boost sales。比 increase 更有"推一把"的力度感。名词和动词同形。在广告语中极高频。
+- **artificial / functional / biggest** — artificial = 人工的：artificial flavor；functional = 实用的、有功能的；biggest 是 big 的最高级：the biggest discount。
 
-- **get in shape** — "塑形、恢复好身材"。I want to get in shape before summer. 比 lose weight 更全面，包括肌肉和体能。反义：get out of shape（身材走样）。shape = 体型。
+- **energy / confidence / fortune / wealthy** — 好处名词。energy = 精力；confidence = 自信；fortune = 财富、一大笔钱：cost a fortune；wealthy = 富有的。
 
-- **functional** — "功能性的、实用的"。a functional design / a functional product。比 useful 更强调"设计上有特定功能"。名词 function。反义词 decorative（装饰性的）。
+- **snore / smelly / toenail / thermometer** — 广告里的"痛点"词。snore = 打鼾；smelly = 臭的：smelly feet；toenail = 脚趾甲；thermometer = 温度计。广告常先提出尴尬问题再给出产品方案。
 
-- **purchase** — "购买"，比 buy 更正式。Purchase now and save! / a purchase of $50。名词和动词同形。在广告和商务语境中比 buy 更常见。注意 -chase 结尾。
+- **magic / did** — magic 作名词"魔法"、形容词"神奇的"：magic results；did 可强调：It did work!（它真的有用！）广告里常用来回应质疑。
 
-- **otherwise** — "否则、要不然"。Buy now; otherwise, the price will go up. 比 or 更正式，常用于警告或建议。也可以表"在其他方面"：The product is good; otherwise, I wouldn't recommend it.
-
-- **artificial** — "人工的、人造的"。artificial flavors / artificial intelligence (AI)。反义词 natural。比 fake 更中性，fake 带贬义，artificial 只是描述"非天然"。注意 -ficial 结尾。
-
-- **confidence** — "信心、自信"。搭配：have confidence in / boost your confidence / a confidence boost。形容词 confident。注意 -ence 结尾。比 self-esteem 更偏向"对能力的信心"。
-
-- **fortune** — "财富；运气"。make a fortune = 发大财。a small fortune = 一大笔钱（口语夸张）。形容词 fortunate（幸运的）。注意一词两义：财富和运气。
-
-- **wealthy** — "富有的"，比 rich 更正式、更体面。a wealthy businessman / a wealthy neighborhood。名词 wealth。比 rich 更有"殷实、有底蕴"的感觉，不那么直白。
-
-- **impress** — "给……留下印象、打动"。impress your friends / I'm impressed! 名词 impression，形容词 impressive。注意双 s。在广告中：This product will impress everyone.
-
-- **magic** — "魔法、神奇的"。a magic pill / magic results。作形容词时 = 神奇的：a magic solution。比 miraculous 更口语。在广告中常带引号或讽刺：There's no magic fix.
-
-- **energy** — "精力、能量"。搭配：boost your energy / full of energy / energy drink。形容词 energetic。注意 -gy 结尾。在健康产品广告中是核心卖点词。
-
-- **snore** — "打鼾"。He snores loudly. / a snoring problem。比 breathe noisily 更具体。名词和动词同形。在健康产品语境中，snore 常是需要"解决"的问题。
-
-- **toenail** — "脚趾甲"。由 toe（脚趾）+ nail（指甲）组成。搭配：cut your toenails / a toenail fungus。在个护产品广告中常见。注意 finger nail = fingernail（手指甲）。
-
-- **thermometer** — "温度计"。由 thermo-（热）+ meter（测量）组成。搭配：take your temperature with a thermometer。注意拼写：两个 m，-meter 结尾。
-
-- **smelly** — "臭的、有异味的"。smelly shoes / a smelly fridge。比 stinky 更温和，比 odorous 更口语。名词 smell。注意 -y 后缀：smell → smelly。
-
-- **biggest** — "最大的"，big 的最高级。注意双写 g：big → bigger → biggest。搭配：the biggest sale / the biggest benefit。在广告中用来制造"最优惠"的紧迫感。
-
-- **now** — 本单元中 likely 出现在 Purchase now!（现在就买！）这类广告号召语中。now 在广告中 = 立刻、马上，制造紧迫感。比 immediately 更口语、更有冲击力。
+- **now / otherwise** — now 催促行动：Buy now! otherwise = 否则：Order now, otherwise the price will rise.
 
 ## 练习
 
@@ -79,176 +52,190 @@ not only... but also... / neither... nor... / both... and... 是三组并列连�
 
 <quiz-sentence-builder>
 
-1. **中文**：这款饮品不仅提升你的精力，还能增强你的信心。
-   **英文**：This drink not only boosts your energy, but also raises your confidence.
-   > **解析**：not only... but also... 意为不仅……而且……
+1. **中文**：它不仅便宜，而且耐用。
+   **英文**：It is not only cheap but also durable.
+   > **解析**：not only... but also... 连接两个并列形容词 cheap 和 durable。
 
-2. **中文**：这款床垫既没有人工香精成分，也不含有害化学物。
-   **英文**：This mattress contains neither artificial ingredients nor harmful chemicals.
-   > **解析**：neither... nor... 意为既不……也不……
+2. **中文**：我们不仅送货快，还保证质量。
+   **英文**：Not only do we deliver fast, we also guarantee quality.
+   > **解析**：not only 置于句首时主句倒装，助动词 do 提前到主语 we 之前。
 
-3. **中文**：这款跑步鞋既美观又实用。
-   **英文**：Running shoes can be both stylish and functional.
-   > **解析**：both... and... 意为两者都……
+3. **中文**：它不仅轻便，还很结实。
+   **英文**：Not only is it light, it is also strong.
+   > **解析**：not only 置于句首时系动词 is 提前，构成倒装。
 
-4. **中文**：每天使用这款器材能显著提升你的体能。
-   **英文**：Daily use of this equipment will boost your physical fitness.
-   > **解析**：boost 意为提升、增强。
+4. **中文**：蓝色和红色的都好用。
+   **英文**：Both the blue and the red one work well.
+   > **解析**：both... and... 连接两个并列主语，谓语用复数 work。
 
-5. **中文**：我们的健身课程能帮你快速恢复好身材。
-   **英文**：Our workout program helps you get in shape quickly.
-   > **解析**：get in shape 意为塑形、恢复好身材。
+5. **中文**：两种颜色都不好看。
+   **英文**：Neither color looks good.
+   > **解析**：Neither + 单数名词表示"两者都不"；谓语用单数 looks。
 
-6. **中文**：我们设计了一款功能性强且价格实惠的家居产品。
-   **英文**：We designed a highly functional home product at an affordable price.
-   > **解析**：functional 意为功能性的、实用的。
+6. **中文**：他既不吸烟也不喝酒。
+   **英文**：He neither smokes nor drinks.
+   > **解析**：neither... nor... 连接两个并列动词；主语是单三，两个动词都加 s。
 
-7. **中文**：现在购买该产品即可享受半价超级优惠。
-   **英文**：Purchase this item now to get a half-price discount.
-   > **解析**：purchase 意为购买。
+7. **中文**：这款产品能提升你的精力。
+   **英文**：This product boosts your energy.
+   > **解析**：boosts 是单三形式；your energy 作宾语。
 
-8. **中文**：请今天订购，否则你将错过本年度最大的折扣。
-   **英文**：Order today; otherwise, you will miss the biggest discount of the year.
-   > **解析**：otherwise 意为否则、要不然。
+8. **中文**：它会让你朋友印象深刻。
+   **英文**：It will impress your friends.
+   > **解析**：will 后接动词原形 impress；your friends 作宾语。
 
-9. **中文**：我们的产品只含有天然植物成分，绝无人工添加。
-   **英文**：Our product has zero artificial flavors or synthetic preservatives.
-   > **解析**：artificial 意为人工的、人造的。
+9. **中文**：现在购买吧，否则价格会涨。
+   **英文**：Purchase it now, otherwise the price will rise.
+   > **解析**：otherwise 表示"否则"，连接两个分句；Purchase 是正式用词的"购买"。
 
-10. **中文**：穿着优雅的礼服会给你带来满满的自信。
-   **英文**：Wearing an elegant dress will give you immense confidence.
-   > **解析**：confidence 意为信心、自信。
+10. **中文**：这是今年最大的折扣。
+   **英文**：This is the biggest discount of the year.
+   > **解析**：biggest 是最高级，前加 the；of the year 限定范围。
 
-11. **中文**：这款发明为创业团队赢得了巨大的财富。
-   **英文**：This new invention made a small fortune for the startup team.
-   > **解析**：fortune 意为财富。
+11. **中文**：这种人工香料不含副作用。
+   **英文**：This artificial flavor has no side effects.
+   > **解析**：artificial 修饰 flavor；no side effects 表示"没有副作用"。
 
-12. **中文**：许多富有的客户青睐我们高级定制的产品服务。
-   **英文**：Many wealthy clients prefer our customized product services.
-   > **解析**：wealthy 意为富有的。
+12. **中文**：它真的很管用！
+   **英文**：It did work!
+   > **解析**：did + 动词原形强调过去事实"确实有效"，常用于回应质疑。
 
-13. **中文**：这款出色的智能手表一定会打动你的亲朋好友。
-   **英文**：This amazing smartwatch will definitely impress your friends.
-   > **解析**：impress 意为给……留下深刻印象。
+13. **中文**：用我们的产品来塑形吧。
+   **英文**：Get in shape with our product.
+   > **解析**：get in shape 是固定短语"塑形健身"；祈使句用原形开头。
 
-14. **中文**：世界上没有什么能一夜解决问题的神奇药丸。
-   **英文**：There is no magic pill that solves health problems overnight.
-   > **解析**：magic 意为神奇的、魔法的。
+14. **中文**：这双鞋解决了臭脚问题。
+   **英文**：These shoes solve smelly feet.
+   > **解析**：smelly 修饰 feet 作定语；solve 与复数主语搭配。
 
-15. **中文**：喝一杯健康蔬果汁能带给你充沛的精力。
-   **英文**：A glass of fresh juice will give you plenty of energy.
-   > **解析**：energy 意为精力、能量。
+15. **中文**：打鼾让你睡不好吗？
+   **英文**：Does snoring keep you awake?
+   > **解析**：snoring 是动名词作主语，视为单数；Does 帮助构成疑问句。
 
-16. **中文**：这款耳塞能有效解决晚上打鼾引起的噪音。
-   **英文**：These earplugs help reduce noise when people snore.
-   > **解析**：snore 意为打鼾。
+16. **中文**：这支温度计精准又实用。
+   **英文**：The thermometer is accurate and functional.
+   > **解析**：and 连接两个形容词作表语；functional 表示"实用的"。
 
-17. **中文**：该款修甲工具能轻松修剪厚硬的脚趾甲。
-   **英文**：This grooming tool helps trim thick toenails easily.
-   > **解析**：toenail 意为脚趾甲。
+17. **中文**：它能像魔法一样修复指甲。
+   **英文**：It repairs toenails like magic.
+   > **解析**：like magic 是比喻"像变魔术一样"；repairs 是单三形式。
 
-18. **中文**：使用这款精准的数字温度计测量体温。
-   **英文**：Check your body temperature using this digital thermometer.
-   > **解析**：thermometer 意为温度计。
+18. **中文**：这花了她一大笔钱。
+   **英文**：It cost her a fortune.
+   > **解析**：cost a fortune 是固定表达"花一大笔钱"；cost 过去式同形。
 
-19. **中文**：这款除臭喷雾能有效去除发臭鞋子的异味。
-   **英文**：This spray removes bad odors from smelly shoes.
-   > **解析**：smelly 意为发臭的、有异味的。
+19. **中文**： wealthy 的人不一定自信。
+   **英文**：Wealthy people are not always confident.
+   > **解析**：Wealthy 修饰 people；are 与复数主语搭配。
 
-20. **中文**：这是我们店铺今年举办的最大促销活动。
-   **英文**：This is the biggest promotional sale in our store history.
-   > **解析**：biggest 意为最大的。
+20. **中文**：它带给你自信。
+   **英文**：It gives you confidence.
+   > **解析**：give 接双宾语 you 和 confidence；confidence 是不可数名词。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. This drink not only boosts your energy, but also raises your confidence.
-   > **中文**：这款饮品不仅提升你的精力，还能增强你的信心。
+1. Not only is it fast, it is also safe.
+   > **中文**：它不仅快，还安全。
 
-2. This mattress contains neither artificial ingredients nor harmful chemicals.
-   > **中文**：这款床垫既没有人工香精成分，也不含有害化学物。
+2. Not only do we ship free, we ship today.
+   > **中文**：我们不仅免运费，还当天发货。
 
-3. Running shoes can be both stylish and functional.
-   > **中文**：这款跑步鞋既美观又实用。
+3. Both sizes are available.
+   > **中文**：两种尺码都有货。
 
-4. Daily use of this equipment will boost your physical fitness.
-   > **中文**：每天使用这款器材能显著提升你的体能。
+4. Neither option costs much.
+   > **中文**：两个选择都不贵。
 
-5. Our workout program helps you get in shape quickly.
-   > **中文**：我们的健身课程能帮你快速恢复好身材。
+5. He eats neither meat nor fish.
+   > **中文**：他既不吃肉也不吃鱼。
 
-6. We designed a highly functional home product at an affordable price.
-   > **中文**：我们设计了一款功能性强且价格实惠的家居产品。
+6. This tea boosts your energy.
+   > **中文**：这种茶能提升你的精力。
 
-7. Purchase this item now to get a half-price discount.
-   > **中文**：现在购买该产品即可享受半价超级优惠。
+7. The design will impress everyone.
+   > **中文**：这个设计会让所有人印象深刻。
 
-8. Order today; otherwise, you will miss the biggest discount of the year.
-   > **中文**：请今天订购，否则你将错过本年度最大的折扣。
+8. Get in shape in thirty days.
+   > **中文**：三十天内塑造好身材。
 
-9. Our product has zero artificial flavors or synthetic preservatives.
-   > **中文**：我们的产品只含有天然植物成分，绝无人工添加。
+9. Purchase two and get one free.
+   > **中文**：买二送一。
 
-10. Wearing an elegant dress will give you immense confidence.
-   > **中文**：穿着优雅的礼服会给你带来满满的自信。
+10. Buy now, otherwise it will sell out.
+   > **中文**：现在就买，否则会卖光的。
 
-11. This new invention made a small fortune for the startup team.
-   > **中文**：这款发明为创业团队赢得了巨大的财富。
+11. It is the biggest sale of the season.
+   > **中文**：这是本季最大的促销。
 
-12. Many wealthy clients prefer our customized product services.
-   > **中文**：许多富有的客户青睐我们高级定制的产品服务。
+12. The bag is made of artificial leather.
+   > **中文**：这个包是人造皮革做的。
 
-13. This amazing smartwatch will definitely impress your friends.
-   > **中文**：这款出色的智能手表一定会打动你的亲朋好友。
+13. The shelf is simple but functional.
+   > **中文**：这个架子简单但实用。
 
-14. There is no magic pill that solves health problems overnight.
-   > **中文**：世界上没有什么能一夜解决问题的神奇药丸。
+14. The machine did fix the problem.
+   > **中文**：这台机器确实修好了问题。
 
-15. A glass of fresh juice will give you plenty of energy.
-   > **中文**：喝一杯健康蔬果汁能带给你充沛的精力。
+15. The socks stop smelly feet.
+   > **中文**：这双袜子能防脚臭。
 
-16. These earplugs help reduce noise when people snore.
-   > **中文**：这款耳塞能有效解决晚上打鼾引起的噪音。
+16. His snoring is very loud.
+   > **中文**：他的鼾声很大。
 
-17. This grooming tool helps trim thick toenails easily.
-   > **中文**：该款修甲工具能轻松修剪厚硬的脚趾甲。
+17. Check your temperature with the thermometer.
+   > **中文**：用温度计量一下体温。
 
-18. Check your body temperature using this digital thermometer.
-   > **中文**：使用这款精准的数字温度计测量体温。
+18. Trim your toenails regularly.
+   > **中文**：定期修剪脚趾甲。
 
-19. This spray removes bad odors from smelly shoes.
-   > **中文**：这款除臭喷雾能有效去除发臭鞋子的异味。
+19. The treatment works like magic.
+   > **中文**：这个疗法像魔法一样有效。
 
-20. This is the biggest promotional sale in our store history.
-   > **中文**：这是我们店铺今年举办的最大促销活动。
+20. She spent a fortune on the coat.
+   > **中文**：她在那件外套上花了一大笔钱。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| not only... but also... | 不仅……而且…… |
-| neither... nor... | 既不……也不…… |
-| both... and... | 两者都…… |
-| boost | 提升；增强 |
-| get in shape | 塑形；恢复好身材 |
-| functional | 功能性的；实用的 |
-| purchase | 购买 |
-| otherwise | 否则；要不然 |
-| artificial | 人工的；人造的 |
-| confidence | 信心；自信 |
-| fortune | 财富；运气 |
-| wealthy | 富有的 |
-| impress | 给……留下印象；打动 |
-| magic | 魔法；神奇的 |
-| energy | 精力；能量 |
-| snore | 打鼾 |
-| toenail | 脚趾甲 |
-| thermometer | 温度计 |
-| smelly | 臭的；有异味的 |
+| --- | --- |
+| artificial | 人工的 |
 | biggest | 最大的 |
+| boost | 提升 |
+| both | 两者都 |
+| confidence | 自信 |
+| did | （强调）确实 |
+| energy | 精力 |
+| fortune | 一大笔钱 |
+| functional | 实用的 |
+| get in shape | 塑形健身 |
+| impress | 使印象深刻 |
+| magic | 魔法 / 神奇的 |
+| neither | 两者都不 |
+| no | 没有 |
+| nor | 也不 |
+| not only | 不仅 |
+| not only do | 不仅（倒装） |
+| not only is | 不仅（倒装） |
+| now | 现在 |
+| otherwise | 否则 |
+| purchase | 购买 |
+| smelly | 臭的 |
+| snore | 打鼾 |
+| thermometer | 温度计 |
+| toenail | 脚趾甲 |
+| wealthy | 富有的 |
+| it | 它 |
+| we | 我们 |
+| free | 免费 / 自由 |
+| today | 今天 |
+| much | 很多 |
+| one | 一个 |
+| will | 将会 |
+| also | 也 |
 
 </quiz-matching>
 
@@ -256,202 +243,202 @@ not only... but also... / neither... nor... / both... and... 是三组并列连�
 
 ### 1
 
-This drink not only boosts your ____, but also raises your confidence.
+The camera is not only cheap ____ also easy to use.
 
-- [x] energy
-- [ ] artificial
-- [ ] biggest
+- [x] but
+- [ ] and
+- [ ] or
 
-> **解析**：**energy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：not only 与 but also 固定搭配；and 和 or 不能构成该结构。
 
 ### 2
 
-This mattress contains ____ artificial ingredients nor harmful chemicals.
+Not only ____ we answer fast, we also solve problems.
 
-- [x] neither
-- [ ] artificial
-- [ ] biggest
+- [x] do
+- [ ] does
+- [ ] doing
 
-> **解析**：**neither** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：not only 置于句首时倒装，主语 we 用助动词 do；does 用于单三。
 
 ### 3
 
-Running shoes can be ____ stylish and functional.
+Not only ____ the box light, it is also strong.
 
-- [x] both
-- [ ] artificial
-- [ ] biggest
+- [x] is
+- [ ] are
+- [ ] be
 
-> **解析**：**both** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：倒装句中主语 the box 是单数，系动词用 is。
 
 ### 4
 
-Daily use of this equipment will ____ your physical fitness.
+____ the morning and the evening class are full.
 
-- [x] boost
-- [ ] artificial
-- [ ] biggest
+- [x] Both
+- [ ] Neither
+- [ ] Either
 
-> **解析**：**boost** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：两个班都满员用 Both；Neither 表否定，Either 指"之一"与 are 不符。
 
 ### 5
 
-Our ____ program helps you get in shape quickly.
+____ of the two stores sells this model.
 
-- [x] workout
-- [ ] artificial
-- [ ] biggest
+- [x] Neither
+- [ ] Both
+- [ ] All
 
-> **解析**：**workout** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：两者都不卖用 Neither；Both 表肯定，All 用于三者以上。
 
 ### 6
 
-We designed a highly ____ home product at an affordable price.
+She speaks neither English ____ French.
 
-- [x] functional
-- [ ] artificial
-- [ ] biggest
+- [x] nor
+- [ ] or
+- [ ] and
 
-> **解析**：**functional** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：neither 与 nor 固定搭配"既不……也不"；or 和 and 不合结构。
 
 ### 7
 
-____ this item now to get a half-price discount.
+This drink ____ your energy within minutes.
 
-- [x] Purchase
-- [ ] artificial
-- [ ] biggest
+- [x] boosts
+- [ ] boost
+- [ ] boosting
 
-> **解析**：**Purchase** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 drink 是单三，动词用 boosts；其余两项不合主谓一致。
 
 ### 8
 
-Order today; ____, you will miss the biggest discount of the year.
+The new design ____ all the judges.
 
-- [x] otherwise
-- [ ] artificial
-- [ ] biggest
+- [x] impressed
+- [ ] impress
+- [ ] impressing
 
-> **解析**：**otherwise** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去事件用过去式 impressed；其余两项不能单独作谓语。
 
 ### 9
 
-Our product has zero ____ flavors or synthetic preservatives.
+You can get in ____ by walking every day.
 
-- [x] artificial
-- [ ] biggest
-- [ ] boost
+- [x] shape
+- [ ] shapes
+- [ ] shaped
 
-> **解析**：**artificial** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get in shape 是固定搭配"塑形健身"；复数和过去式不合结构。
 
 ### 10
 
-Wearing an elegant dress will give you immense ____.
+You can ____ the item online in seconds.
 
-- [x] confidence
-- [ ] artificial
-- [ ] biggest
+- [x] purchase
+- [ ] purchases
+- [ ] purchasing
 
-> **解析**：**confidence** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：can 后接动词原形 purchase；其余两项不合要求。
 
 ### 11
 
-This new invention made a small ____ for the startup team.
+Order today; ____, the price doubles tomorrow.
 
-- [x] fortune
-- [ ] artificial
-- [ ] biggest
+- [x] otherwise
+- [ ] other
+- [ ] others
 
-> **解析**：**fortune** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：otherwise 表示"否则"连接分句；other 和 others 不能作连接副词。
 
 ### 12
 
-Many ____ clients prefer our customized product services.
+It is the ____ price you will ever find.
 
-- [x] wealthy
-- [ ] artificial
-- [ ] biggest
+- [x] biggest
+- [ ] bigger
+- [ ] big
 
-> **解析**：**wealthy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the 后需要最高级 biggest；bigger 是比较级，不与 the 搭配出最高含义。
 
 ### 13
 
-This amazing smartwatch will definitely ____ your friends.
+The flowers in the shop are ____.
 
-- [x] impress
-- [ ] artificial
-- [ ] biggest
+- [x] artificial
+- [ ] artificially
+- [ ] artifice
 
-> **解析**：**impress** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：are 后需要形容词 artificial；artifice 是名词"诡计"。
 
 ### 14
 
-There is ____ magic pill that solves health problems overnight.
+The lamp is small but highly ____.
 
-- [x] no
-- [ ] artificial
-- [ ] biggest
+- [x] functional
+- [ ] function
+- [ ] functioned
 
-> **解析**：**no** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：but 连接形容词，用 functional；function 是名词或动词。
 
 ### 15
 
-A glass of fresh juice will give you plenty of ____.
+The ad said the pill ____ reduce stress.
 
-- [x] energy
-- [ ] artificial
-- [ ] biggest
+- [x] did
+- [ ] do
+- [ ] does did
 
-> **解析**：**energy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：did + 动词原形表示强调"确实"；does did 结构错误。
 
 ### 16
 
-These earplugs help reduce noise when people ____.
+These insoles prevent ____ shoes.
 
-- [x] snore
-- [ ] artificial
-- [ ] biggest
+- [x] smelly
+- [ ] smell
+- [ ] smelt
 
-> **解析**：**snore** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰名词 shoes 需要形容词 smelly；smell 是名词或动词。
 
 ### 17
 
-This ____ tool helps trim thick toenails easily.
+He ____ so loudly that nobody could sleep.
 
-- [x] grooming
-- [ ] artificial
-- [ ] biggest
+- [x] snored
+- [ ] snore
+- [ ] snoring
 
-> **解析**：**grooming** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：that 从句说明过去的结果，用过去式 snored。
 
 ### 18
 
-Check your body temperature using this digital ____.
+The nurse used a ____ to check my fever.
 
 - [x] thermometer
-- [ ] artificial
-- [ ] biggest
+- [ ] thermometers
+- [ ] thermal
 
-> **解析**：**thermometer** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：a 后接单数名词 thermometer；thermal 是形容词。
 
 ### 19
 
-This spray removes bad odors from ____ shoes.
+The cream promises to fix cracked ____ quickly.
 
-- [x] smelly
-- [ ] artificial
-- [ ] biggest
+- [x] toenails
+- [ ] toenails'
+- [ ] toenailing
 
-> **解析**：**smelly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：泛指脚趾甲用复数 toenails；所有格和动名词不合语义。
 
 ### 20
 
-This is the ____ promotional sale in our store history.
+The idea made her a ____ woman overnight.
 
-- [x] biggest
-- [ ] artificial
-- [ ] boost
+- [x] wealthy
+- [ ] wealth
+- [ ] wealthily
 
-> **解析**：**biggest** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰名词 woman 需要形容词 wealthy；wealth 是名词。
 
 </quiz-cloze>

@@ -10,42 +10,35 @@ a certain, absolutely, as far as I'm concerned, be able to, can, come up with, c
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"说明资质与能力"展开，场景偏向职场面试或工作沟通。词表里有能力与可能性表达（can, could, may, will, should, be able to, likely to, expected to, scheduled to），也有职场核心词汇（qualification, deadline, flexibility, timing, next step）。你可以用这些词谈论工作能力：I'm excited to get started. / I can come up with creative solutions and figure out problems quickly. / As far as I'm concerned, I have the right qualifications. / I'm expected to meet every deadline.
+本单元的主题是"说明任职资格"，场景是职场沟通。词表分成三组：能力与情态表达（can, could, may, will, should, be able to）、职场事务名词（deadline, qualification, flexibility, timing, next step, a certain）、以及高频职场短语（come up with, figure out, get started, feel free, excited to, expected to, scheduled to, likely to, deserve, absolutely, without a doubt, as far as I'm concerned, ly）。拼起来就是一段完整的职场表达：As far as I'm concerned, she is qualified. She will be able to meet the deadline. Let's get started.
 
-这里值得注意这组情态动词和半情态结构的"确定性梯度"：will / absolutely / without a doubt 表高度确定，should / likely to 表较大可能，may / could 表可能性较小，be able to 强调实际能力。另外，-ly 作为后缀出现在词表中，提示副词构成规律（如 absolutely, likely 中的 -ly）。
+语法主线有三条。第一条是能力表达的层次：can/could 直接表能力，be able to 可用于各种时态（will be able to），两者互补。第二条是"预期"类短语：be expected to（被期望）、be scheduled to（被安排在）、be likely to（可能）——都是 be + 形容词/分词 + to do 结构。第三条是语气加强词：absolutely、without a doubt 用来表达毫无保留的肯定。另外，ly 是副词后缀，本单元专门收录，帮助理解 quickly、clearly 这类词的构成。
 
-学完本单元，你可以用英语自信地介绍自己的工作资质、表达对未来工作的期望和安排。
+学完这些词，你能介绍自己的资历、说明工作安排、催进度表决心，也能礼貌地请人放手去做——职场英语的底气就有了。
 
 ## Tips
 
-- **qualification** — 资质、资格。搭配：have the qualifications, meet the qualifications。构词：qualify（动词，使合格）→ qualification（名词）→ qualified（形容词）。I'm qualified for this job.
+- **can / could / be able to** — 能力三表达。can 最常用；could 是过去式或更委婉的语气；be able to 的优势是能用于 will 之后：She will be able to finish it. ✗ She will can finish it，can 没有不定式形式，将来能力必须用 be able to。
 
-- **deadline** — 截止日期。搭配：meet a deadline, miss a deadline, tight deadline。We have a deadline on Friday. 注意搭配用 meet（赶上）或 miss（错过），不用 × finish a deadline。
+- **may / will / should** — may 表许可或可能性：You may start now. will 表将来或意愿：I will meet the deadline. should 表建议或预期：He should be here soon.
 
-- **come up with / figure out** — 都是"想出"，但侧重不同。come up with 强调产生新想法（come up with a plan），figure out 强调弄明白、解决（figure out a problem）。I need to come up with an idea and figure out how to do it.
+- **expected to / scheduled to / likely to / excited to** — 四个 be + 形容词/分词 + to do 结构。be expected to 是"被期望做"；be scheduled to 是"按计划要做"：The meeting is scheduled to start at nine. be likely to 是"可能做"；be excited to 是"兴奋于做"：I'm excited to join the team.
 
-- **as far as I'm concerned** — 就我而言、在我看来。搭配：as far as I'm concerned, ...。As far as I'm concerned, this is the best option. 比 I think 更正式、更有"这是我的立场"的意味。
+- **come up with / figure out / get started** — 职场高频动词短语。come up with 是"想出（方案）"：come up with a plan. figure out 是"搞明白、解决"：figure out the problem. get started 是"开始动手"：Let's get started.
 
-- **be able to / can** — 都表能力，但 be able to 可用于更多时态。can 只有现在和过去（could）：I can do it. / I could do it. be able to 有将来和完成时：I will be able to start Monday. / I've been able to finish.
+- **feel free** — "尽管、随意"，邀请对方行动：Feel free to ask questions. 后接 to do。
 
-- **expected to / scheduled to / likely to** — 三者都涉及未来，但含义不同。expected to = 被期望/预计会（有外部要求）；scheduled to = 按计划安排（有时间表）；likely to = 很可能会（概率判断）。I'm expected to work overtime. / The meeting is scheduled to start at 9. / It's likely to rain.
+- **deadline / qualification / flexibility / timing / next step / a certain** — 职场名词群。deadline 是截止日期，meet a deadline（按时交）；qualification 是资格、资质；flexibility 是灵活性；timing 是时机；next step 是下一步；a certain 是"某个"：a certain skill.
 
-- **flexibility / timing** — flexibility 是灵活性，timing 是时机/时间安排。搭配：need flexibility, the timing is perfect。I appreciate the flexibility of this job. / The timing couldn't be better. 注意 timing 不是"时间"（那是 time），而是"时机是否恰当"。
+- **deserve** — "值得、应得"：You deserve a raise. 后接名词或 to do。
 
-- **deserve** — 值得、应得。搭配：deserve a chance, deserve to do, deserve it。I deserve a promotion. / You deserve to be excited. 注意 × deserve of 是错误的，直接接名词或 to do。
+- **absolutely / without a doubt** — 两个"完全肯定"的表达。absolutely 单独可作答语：Absolutely! without a doubt 是"毫无疑问地"：She is, without a doubt, the best candidate.
 
-- **get started** — 开始、着手。搭配：get started on, let's get started。I'm excited to get started. / Let's get started on the next step. 比 start 更口语化，有"动手干起来"的意味。
+- **as far as I'm concerned** — "就我而言"，引出个人立场，常放句首：As far as I'm concerned, the plan works.
 
-- **feel free** — 请随意、尽管。搭配：feel free to do, feel free to ask。Feel free to ask questions. 这是职场和日常中非常常见的礼貌邀请，比 you can 更热情。
-
-- **without a doubt / absolutely** — 都表"毫无疑问、绝对"。搭配：without a doubt the best, absolutely right。Without a doubt, she's the most qualified. / I'm absolutely ready. 语气从强到弱：absolutely > without a doubt > definitely > certainly。
-
-- **ly** — 副词后缀。大多数形容词加 -ly 变副词：quick → quickly, absolute → absolutely。注意例外：friendly 是形容词不是副词；likely 既可作形容词也可作副词。以 -ly 结尾的不一定是副词。
-
-- **next step** — 下一步。搭配：the next step, take the next step。What's the next step? / The next step is to figure out the timing. 职场中常用于推进项目或面试流程。
+- **ly** — 副词后缀，把形容词变成副词：quick → quickly, clear → clearly, definite → definitely。以 -ly 结尾的词大多是副词，但也有例外（friendly 是形容词）。本单元收录它是为了帮助识别职场文本中大量的副词。
 
 ## 练习
 
@@ -63,176 +56,187 @@ a certain, absolutely, as far as I'm concerned, be able to, can, come up with, c
 
 <quiz-sentence-builder>
 
-1. **中文**：我们需要弄清楚如何赶上项目截止日期。  
-   **英文**：We need to figure out how to meet the project deadline.
-   > **解析**：figure out 表示弄清楚、想明白。
+1. **中文**：她能够按时完成。
+   **英文**：She will be able to finish on time.
+   > **解析**：will 后不能接 can，能力表达必须用 be able to；on time 是"按时"的固定短语。
 
-2. **中文**：你能为这个问题想出一个更好的解决方案吗？  
-   **英文**：Can you come up with a better solution for this issue?
-   > **解析**：come up with 表示想出（办法、主意）。
+2. **中文**：我能在周五前完成。
+   **英文**：I can finish it by Friday.
+   > **解析**：can 后接动词原形 finish；by Friday 表示"不迟于周五"。
 
-3. **中文**：赶上紧迫的截止日期需要团队努力。  
-   **英文**：Meeting the tight deadline requires team effort.
-   > **解析**：deadline 表示截止日期。
+3. **中文**：你现在可以开始了。
+   **英文**：You may start now.
+   > **解析**：may 表示许可，后接动词原形 start；now 是时间状语。
 
-4. **中文**：经过所有努力，她值得一次升职。  
-   **英文**：She deserves a promotion after all her hard work.
-   > **解析**：deserve 表示值得、应得。
+4. **中文**：我们会赶上截止日期的。
+   **英文**：We will meet the deadline.
+   > **解析**：will 后接动词原形 meet；meet the deadline 是"按时完成任务"的固定搭配。
 
-5. **中文**：我们非常兴奋地宣布我们的新营销活动。  
-   **英文**：We are excited to announce our new marketing campaign.
-   > **解析**：excited to do 表示对做某事感到兴奋。
+5. **中文**：他应该很快就到。
+   **英文**：He should be here soon.
+   > **解析**：should 表示预期；soon 是时间副词放句末。
 
-6. **中文**：应聘者预计明天九点到达。  
-   **英文**：The candidate is expected to arrive at nine tomorrow.
-   > **解析**：be expected to 表示预计做某事。
+6. **中文**：期望她来主持这个项目。
+   **英文**：She is expected to lead the project.
+   > **解析**：is expected to 是被动结构"被期望做"；to lead 不定式表示被期望的内容。
 
-7. **中文**：会议预定在十分钟后开始。  
-   **英文**：The meeting is scheduled to start in ten minutes.
-   > **解析**：be scheduled to 表示定于、预定。
+7. **中文**：会议定在九点开始。
+   **英文**：The meeting is scheduled to start at nine.
+   > **解析**：is scheduled to 表示按计划安排；at nine 是具体时间。
 
-8. **中文**：如果您有任何问题，请随时与我联系。  
-   **英文**：Feel free to contact me if you have any questions.
-   > **解析**：feel free to do 表示随时、请随意做某事。
+8. **中文**：她很可能接受这份工作。
+   **英文**：She is likely to accept the job.
+   > **解析**：be likely to do 是固定结构表可能性；to accept 不定式。
 
-9. **中文**：我们马上开始准备演示文稿吧。  
-   **英文**：Let's get started on the presentation right away.
-   > **解析**：get started 表示开始进行。
+9. **中文**：我很高兴加入团队。
+   **英文**：I am excited to join the team.
+   > **解析**：be excited to do 表示对做某事感到兴奋；to join 不定式。
 
-10. **中文**：这个工作岗位在工作时间上提供了极大的灵活性。  
-   **英文**：This job position offers great flexibility in work hours.
-   > **解析**：flexibility 表示灵活性。
+10. **中文**：我想出了一个新方案。
+    **英文**：I came up with a new plan.
+    > **解析**：came up with 是 come up with 的过去式"想出"；a new plan 作宾语。
 
-11. **中文**：他很可能会接受这份新工作的邀约。  
-   **英文**：He is likely to accept the new job offer.
-   > **解析**：be likely to 表示很有可能。
+11. **中文**：我们会搞明白这个问题的。
+    **英文**：We will figure out the problem.
+    > **解析**：will 后接动词原形 figure；figure out 是动词短语，宾语为名词时放 out 后。
 
-12. **中文**：我们面试流程的下一步是什么？  
-   **英文**：What is the next step in our interview process?
-   > **解析**：next step 表示下一步。
+12. **中文**：我们开始吧。
+    **英文**：Let's get started.
+    > **解析**：get started 是"开始动手"的固定表达；Let's 后接原形 get。
 
-13. **中文**：她的学历资格完全符合我们的职位要求。  
-   **英文**：Her educational qualification matches our job requirements perfectly.
-   > **解析**：qualification 表示资格、资历。
+13. **中文**：尽管提问。
+    **英文**：Feel free to ask questions.
+    > **解析**：Feel free to do 是固定邀请表达；questions 用复数泛指。
 
-14. **中文**：产品发布的时机对于成功至关重要。  
-   **英文**：The timing of the product launch is crucial for success.
-   > **解析**：timing 表示时机。
+14. **中文**：你有资格胜任这份工作。
+    **英文**：You are qualified for the job.
+    > **解析**：be qualified for 是"有资格做"的固定搭配；qualification 的形容词形式是 qualified。
 
-15. **中文**：毫无疑问，这对我们公司来说是最好的选择。  
-   **英文**：This is without a doubt the best choice for our company.
-   > **解析**：without a doubt 表示毫无疑问。
+15. **中文**：这个岗位需要一定的灵活性。
+    **英文**：This position requires a certain flexibility.
+    > **解析**：a certain 修饰不可数名词 flexibility 表示"一定的"；requires 是三单形式。
 
-16. **中文**：在我看来，我们应该批准这项预算。  
-   **英文**：As far as I'm concerned, we should approve this budget.
-   > **解析**：as far as I'm concerned 表示在我看来。
+16. **中文**：时机很重要。
+    **英文**：Timing is everything.
+    > **解析**：Timing 动名词作主语；is everything 是惯用强调表达。
 
-17. **中文**：我绝对确定他会成功。  
-   **英文**：I am absolutely certain that he will succeed.
-   > **解析**：absolutely 表示绝对地。
+17. **中文**：下一步是什么？
+    **英文**：What is the next step?
+    > **解析**：What 引导特殊疑问句，is 提前；the next step 作主语。
 
-18. **中文**：通过练习，你将能够掌握这项技能。  
-   **英文**：You will be able to master this skill with practice.
-   > **解析**：be able to 表示能够。
+18. **中文**：你值得加薪。
+    **英文**：You deserve a raise.
+    > **解析**：deserve 后接名词 a raise；主语 You 用动词原形。
 
-19. **中文**：每一项投资都存在一定程度的风险。  
-   **英文**：There is a certain level of risk in every investment.
-   > **解析**：a certain 表示某种、一定的。
+19. **中文**：毫无疑问，她是最佳人选。
+    **英文**：Without a doubt, she is the best candidate.
+    > **解析**：Without a doubt 作插入性状语放句首；the best 是 good 的最高级。
 
-20. **中文**：你可以随时在线提交你的简历。  
-   **英文**：You can submit your resume online anytime.
-   > **解析**：can 表示可以。
+20. **中文**：就我而言，这个计划可行。
+    **英文**：As far as I'm concerned, the plan works.
+    > **解析**：As far as I'm concerned 是固定立场表达；works 表示"行得通"。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We need to figure out how to meet the project deadline.
-   > **中文**：我们需要弄清楚如何赶上项目截止日期。
+1. She will be able to finish on time.
+   > **中文**：她能够按时完成。
 
-2. Can you come up with a better solution for this issue?
-   > **中文**：你能为这个问题想出一个更好的解决方案吗？
+2. I can finish it by Friday.
+   > **中文**：我能在周五前完成。
 
-3. Meeting the tight deadline requires team effort.
-   > **中文**：赶上紧迫的截止日期需要团队努力。
+3. You may start now.
+   > **中文**：你现在可以开始了。
 
-4. She deserves a promotion after all her hard work.
-   > **中文**：经过所有努力，她值得一次升职。
+4. We will meet the deadline.
+   > **中文**：我们会赶上截止日期的。
 
-5. We are excited to announce our new marketing campaign.
-   > **中文**：我们非常兴奋地宣布我们的新营销活动。
+5. He should be here soon.
+   > **中文**：他应该很快就到。
 
-6. The candidate is expected to arrive at nine tomorrow.
-   > **中文**：应聘者预计明天九点到达。
+6. She is expected to lead the project.
+   > **中文**：期望她来主持这个项目。
 
-7. The meeting is scheduled to start in ten minutes.
-   > **中文**：会议预定在十分钟后开始。
+7. The meeting is scheduled to start at nine.
+   > **中文**：会议定在九点开始。
 
-8. Feel free to contact me if you have any questions.
-   > **中文**：如果您有任何问题，请随时与我联系。
+8. She is likely to accept the job.
+   > **中文**：她很可能接受这份工作。
 
-9. Let's get started on the presentation right away.
-   > **中文**：我们马上开始准备演示文稿吧。
+9. I am excited to join the team.
+   > **中文**：我很高兴加入团队。
 
-10. This job position offers great flexibility in work hours.
-   > **中文**：这个工作岗位在工作时间上提供了极大的灵活性。
+10. I came up with a new plan.
+    > **中文**：我想出了一个新方案。
 
-11. He is likely to accept the new job offer.
-   > **中文**：他很可能会接受这份新工作的邀约。
+11. We will figure out the problem.
+    > **中文**：我们会搞明白这个问题的。
 
-12. What is the next step in our interview process?
-   > **中文**：我们面试流程的下一步是什么？
+12. Let's get started.
+    > **中文**：我们开始吧。
 
-13. Her educational qualification matches our job requirements perfectly.
-   > **中文**：她的学历资格完全符合我们的职位要求。
+13. Feel free to ask questions.
+    > **中文**：尽管提问。
 
-14. The timing of the product launch is crucial for success.
-   > **中文**：产品发布的时机对于成功至关重要。
+14. You are qualified for the job.
+    > **中文**：你有资格胜任这份工作。
 
-15. This is without a doubt the best choice for our company.
-   > **中文**：毫无疑问，这对我们公司来说是最好的选择。
+15. This position requires a certain flexibility.
+    > **中文**：这个岗位需要一定的灵活性。
 
-16. As far as I'm concerned, we should approve this budget.
-   > **中文**：在我看来，我们应该批准这项预算。
+16. Timing is everything.
+    > **中文**：时机很重要。
 
-17. I am absolutely certain that he will succeed.
-   > **中文**：我绝对确定他会成功。
+17. What is the next step?
+    > **中文**：下一步是什么？
 
-18. You will be able to master this skill with practice.
-   > **中文**：通过练习，你将能够掌握这项技能。
+18. You deserve a raise.
+    > **中文**：你值得加薪。
 
-19. There is a certain level of risk in every investment.
-   > **中文**：每一项投资都存在一定程度的风险。
+19. Without a doubt, she is the best candidate.
+    > **中文**：毫无疑问，她是最佳人选。
 
-20. You can submit your resume online anytime.
-   > **中文**：你可以随时在线提交你的简历。
+20. As far as I'm concerned, the plan works.
+    > **中文**：就我而言，这个计划可行。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| `a certain` | 某种；一定的 |
-| `absolutely` | 绝对地；完全地 |
-| `as far as I'm concerned` | 就我而言；在我看来 |
-| `be able to` | 能够 |
-| `come up with` | 想出（主意） |
-| `deadline` | 截止日期 |
-| `deserve` | 值得；应得 |
-| `excited to` | 对做……感到兴奋 |
-| `expected to` | 预计做…… |
-| `feel free` | 请随意 |
-| `figure out` | 弄清楚；解决 |
-| `flexibility` | 灵活性 |
-| `get started` | 开始做 |
-| `likely to` | 很可能做…… |
-| `next step` | 下一步 |
-| `qualification` | 资格；资历 |
-| `scheduled to` | 预定做…… |
-| `should` | 应该 |
-| `timing` | 时机；时间安排 |
-| `without a doubt` | 毫无疑问 |
+| --- | --- |
+| a certain | 某个；一定的 |
+| absolutely | 完全地 |
+| as far as I'm concerned | 就我而言 |
+| be able to | 能够 |
+| can | 能 |
+| come up with | 想出 |
+| could | 能够（过去/委婉） |
+| deadline | 截止日期 |
+| deserve | 值得；应得 |
+| excited to | 兴奋于…… |
+| expected to | 被期望…… |
+| feel free | 尽管；随意 |
+| figure out | 搞明白 |
+| flexibility | 灵活性 |
+| get started | 开始动手 |
+| likely to | 可能…… |
+| ly | 副词后缀 |
+| may | 可以；可能 |
+| next step | 下一步 |
+| qualification | 资格 |
+| scheduled to | 被安排在…… |
+| should | 应该 |
+| timing | 时机 |
+| will | 将 |
+| without a doubt | 毫无疑问 |
+| job | 工作 |
+| plan | 方案 |
+| team | 团队 |
+| project | 项目 |
+| meeting | 会议 |
+| raise | 加薪 |
 
 </quiz-matching>
 
@@ -240,202 +244,202 @@ a certain, absolutely, as far as I'm concerned, be able to, can, come up with, c
 
 ### 1
 
-We need to figure out how to meet the project ____.
+She will be ____ to finish on time.
 
-- [x] deadline
-- [ ] a certain
-- [ ] absolutely
+- [x] able
+- [ ] can
+- [ ] may
 
-> **解析**：**deadline** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：will 后必须用 be able to 表达能力，can 和 may 没有不定式形式，不能跟在 will 后。
 
 ### 2
 
-____ you come up with a better solution for this issue?
+I can ____ it by Friday.
 
-- [x] Can
-- [ ] a certain
-- [ ] absolutely
+- [x] finish
+- [ ] finishes
+- [ ] finishing
 
-> **解析**：**Can** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：can 后接动词原形 finish；finishes 是三单形式，finishing 不能跟在 can 后。
 
 ### 3
 
-Meeting the tight ____ requires team effort.
+You ____ start now.
 
-- [x] deadline
-- [ ] a certain
-- [ ] absolutely
+- [x] may
+- [ ] mays
+- [ ] mights
 
-> **解析**：**deadline** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：may 表许可，无变化形式；mays 和 mights 都不存在。
 
 ### 4
 
-She deserves a ____ after all her hard work.
+We will ____ the deadline.
 
-- [x] promotion
-- [ ] a certain
-- [ ] absolutely
+- [x] meet
+- [ ] meets
+- [ ] meeting
 
-> **解析**：**promotion** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：will 后接动词原形 meet；meet the deadline 是固定搭配。
 
 ### 5
 
-We are excited to announce our new ____ campaign.
+He ____ be here soon.
 
-- [x] marketing
-- [ ] a certain
-- [ ] absolutely
+- [x] should
+- [ ] shoulds
+- [ ] shoulded
 
-> **解析**：**marketing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：should 是情态动词表预期，无变化形式。
 
 ### 6
 
-The ____ is expected to arrive at nine tomorrow.
+She is expected to ____ the project.
 
-- [x] candidate
-- [ ] a certain
-- [ ] absolutely
+- [x] lead
+- [ ] leads
+- [ ] led
 
-> **解析**：**candidate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：to 后接动词原形 lead；led 是过去式，不能接在 to 后构成此结构。
 
 ### 7
 
-The meeting is ____ to start in ten minutes.
+The meeting is ____ to start at nine.
 
 - [x] scheduled
-- [ ] a certain
-- [ ] absolutely
+- [ ] schedule
+- [ ] scheduling
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **scheduled**。
+> **解析**：is scheduled to 是被动式固定结构；schedule 是原形，scheduling 不合。
 
 ### 8
 
-Feel free to contact me if you have any ____.
+She is likely to ____ the job.
 
-- [x] questions
-- [ ] a certain
-- [ ] absolutely
+- [x] accept
+- [ ] accepts
+- [ ] accepted
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **questions**。
+> **解析**：be likely to 后接动词原形 accept；accepted 是过去式。
 
 ### 9
 
-Let's get started on the ____ right away.
+I am excited to ____ the team.
 
-- [x] presentation
-- [ ] a certain
-- [ ] absolutely
+- [x] join
+- [ ] joins
+- [ ] joined
 
-> **解析**：**presentation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be excited to 后接动词原形 join；joined 是过去式。
 
 ### 10
 
-This job position offers great ____ in work hours.
+I came ____ with a new plan.
 
-- [x] flexibility
-- [ ] a certain
-- [ ] absolutely
+- [x] up
+- [ ] out
+- [ ] down
 
-> **解析**：**flexibility** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：come up with 是固定短语"想出"；come out with 和 come down with 语义不同。
 
 ### 11
 
-He is ____ to accept the new job offer.
+We will figure ____ the problem.
 
-- [x] likely
-- [ ] a certain
-- [ ] absolutely
+- [x] out
+- [ ] up
+- [ ] off
 
-> **解析**：**likely** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：figure out 是固定短语"搞明白"；figure up 和 figure off 不是此义。
 
 ### 12
 
-What is the next step in our ____ process?
+Let's get ____.
 
-- [x] interview
-- [ ] a certain
-- [ ] absolutely
+- [x] started
+- [ ] start
+- [ ] starting
 
-> **解析**：**interview** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get started 是固定表达"开始动手"；start 和 starting 不构成此短语。
 
 ### 13
 
-Her educational ____ matches our job requirements perfectly.
+Feel ____ to ask questions.
 
-- [x] qualification
-- [ ] a certain
-- [ ] absolutely
+- [x] free
+- [ ] freely
+- [ ] freedom
 
-> **解析**：**qualification** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：feel free to do 是固定表达，free 作形容词补语；freely 是副词，freedom 是名词。
 
 ### 14
 
-The ____ of the product launch is crucial for success.
+You are qualified ____ the job.
 
-- [x] timing
-- [ ] a certain
-- [ ] absolutely
+- [x] for
+- [ ] to
+- [ ] at
 
-> **解析**：**timing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：be qualified for 是固定搭配；to 和 at 不合。
 
 ### 15
 
-This is ____ a doubt the best choice for our company.
+This position requires a certain ____.
 
-- [x] without
-- [ ] a certain
-- [ ] absolutely
+- [x] flexibility
+- [ ] flexible
+- [ ] flexibly
 
-> **解析**：**without** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a certain 后接名词 flexibility；flexible 是形容词，flexibly 是副词。
 
 ### 16
 
-As far as I'm concerned, we ____ approve this budget.
+____ is everything.
 
-- [x] should
-- [ ] a certain
-- [ ] absolutely
+- [x] Timing
+- [ ] Timed
+- [ ] Timer
 
-> **解析**：**should** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Timing 动名词作主语表示"时机"；Timed 是过去式，Timer 指计时器。
 
 ### 17
 
-I am ____ certain that he will succeed.
+What is the next ____?
 
-- [x] absolutely
-- [ ] a certain
-- [ ] as far as I'm concerned
+- [x] step
+- [ ] steps
+- [ ] stepping
 
-> **解析**：**absolutely** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the next step 用单数名词；stepping 是动名词不合。
 
 ### 18
 
-You ____ be able to master this skill with practice.
+You ____ a raise.
 
-- [x] will
-- [ ] a certain
-- [ ] absolutely
+- [x] deserve
+- [ ] deserves
+- [ ] deserving
 
-> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 You 用动词原形 deserve；deserving 不能单独作谓语。
 
 ### 19
 
-There is a certain level of risk in every ____.
+____ a doubt, she is the best candidate.
 
-- [x] investment
-- [ ] a certain
-- [ ] absolutely
+- [x] Without
+- [ ] Within
+- [ ] With
 
-> **解析**：**investment** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Without a doubt 是固定短语"毫无疑问"；Within 和 With 不构成此表达。
 
 ### 20
 
-You ____ submit your resume online anytime.
+As far as I'm ____, the plan works.
 
-- [x] can
-- [ ] a certain
-- [ ] absolutely
+- [x] concerned
+- [ ] concern
+- [ ] concerning
 
-> **解析**：**can** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：As far as I'm concerned 是固定表达；concern 是原形，concerning 不合此结构。
 
 </quiz-cloze>

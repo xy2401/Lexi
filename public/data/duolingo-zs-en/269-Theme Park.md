@@ -10,42 +10,37 @@ after next, all of a sudden, amusement park, cotton candy, ferris wheel, giganti
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是游乐园一日游，核心交际任务是"提议出行计划"。词表里有典型的游乐园元素（roller coaster, ferris wheel, cotton candy, hot dog, stuffed animal），也有描述游玩体验的词（packed, wait in line, upside down, gigantic）。你可以练习提议和商量：I was thinking we could go to the amusement park after next. / I was hoping to ride the roller coaster, but it's temporarily closed. / We were supposed to head to the ferris wheel, but all of a sudden it started to hail!
+本单元的主题是"为一次游乐园之行做计划"。词表可以分成四组：游乐设施与食物（amusement park, roller coaster, ferris wheel, ride, cotton candy, hot dog, stuffed animal）、门票与规则（season pass, wristband, requirement, wait in line, packed）、计划用语（was hoping to, was thinking, were supposed to, wondering where, after next）、以及突发状况（all of a sudden, hail, temporarily, gigantic, upside down, go on, head）。拼起来就是一段游园计划：I was thinking we go to the amusement park after next. I was hoping to ride the roller coaster.
 
-从语法角度看，词表里有几个表达计划和意图的句式值得注意：was hoping to / was thinking / were supposed to 都用过去进行时或过去式来表达"原本打算……"，语气比直接说 I want 更委婉、更留有余地。wondering where 也是类似的软化表达。这些句式在提议计划时特别好用，因为不会显得太强势。
+语法主线是"委婉表达计划"的三种过去式用法。was hoping to 和 was thinking 用过去进行时/过去式软化语气，比 I hope / I think 更客气、更有商量余地；were supposed to 表示"本来应该"：We were supposed to meet at nine.（我们本该九点集合。）这种"用过去式谈现在或将来的打算"是英语提建议时的重要礼貌策略。
+
+学完这单元，你能用英语提议一次游乐园之行：商量时间、安排项目、应对突发天气，还能描述园内的热闹场面。
 
 ## Tips
 
-- **was hoping to / was thinking / were supposed to** — 三个"原本打算"的表达，语气由软到硬。I was hoping to go on the roller coaster（我本来希望能坐过山车——暗示可能没坐成）。I was thinking we could get cotton candy（我在想我们可以买棉花糖——委婉提议）。We were supposed to meet at noon（我们本来说好中午见——暗示计划有变）。用过去式表达未实现的打算，是英语中很常见的语用策略。
+- **amusement park / roller coaster / ferris wheel** — 游乐园三词。amusement park 是游乐园（amusement = 娱乐）；roller coaster 是过山车，字面"翻滚的滑行车"；ferris wheel 是摩天轮，得名于发明者 Ferris。首字母习惯：ferris wheel 常写作 Ferris wheel。
 
-- **roller coaster** — 过山车。roller（滚轮）+ coaster（滑行器），因为早期设计利用重力和滚轮在轨道上滑行。搭配：go on a roller coaster / ride the roller coaster。比喻义：an emotional roller coaster（情绪大起大落）。
+- **ride / go on** — 乘坐两式。ride 作动词"乘坐"：ride the roller coaster；go on 也可表"乘坐（游乐设施）"：go on a ride。✗ 不要说 play the roller coaster。
 
-- **ferris wheel** — 摩天轮。以美国工程师 George Ferris 命名，他在 1893 年芝加哥世博会上建造了第一座大型摩天轮。注意 Ferris 首字母大写，因为是人名。
+- **season pass / wristband / requirement** — 门票规则词。season pass 是季票；wristband 是腕带（wrist 手腕 + band 带子），入园凭证；requirement 是要求：Height is a requirement for this ride.（身高是乘坐本项目的要求。）
 
-- **cotton candy** — 棉花糖（美式）。英式叫 candy floss。cotton（棉花）+ candy（糖果），因为外观像一团粉色棉花。游乐园和马戏团的标志性零食。
+- **wait in line / packed** — 排队与人流。wait in line 是排队（美式说法，英式 queue）；packed 是"挤满人的"：The park is packed. pack 原义"打包"，引申为"塞满"。
 
-- **packed** — 这里不是"打包"，而是"挤满了人"：The park was packed on Saturday. 等于 very crowded。搭配：packed with people / a packed house。口语中极常用。
+- **cotton candy / hot dog / stuffed animal** — 园内消费三件。cotton candy 是棉花糖（美语；英语 candy floss）；hot dog 是热狗；stuffed animal 是毛绒玩具（stuffed = 填充的）。
 
-- **upside down** — 颠倒的、头朝下的。坐过山车时最直观的感受：You go upside down three times on this ride! 也可以比喻"乱七八糟"：My room is upside down.
+- **was hoping to / was thinking** — 委婉提议双式。I was hoping to get season passes.（我本想办季票的。）I was thinking we go tomorrow.（我在想我们明天去。）过去式让语气更柔和，给对方留余地。
 
-- **season pass** — 季票、年卡。season（赛季/季节）+ pass（通行证）。买一张 season pass 可以整个季节无限次入园。搭配：buy a season pass / an annual season pass。
+- **were supposed to / wondering where** — 计划与疑问。We were supposed to meet at the gate.（我们本应在门口集合。）I'm wondering where to buy wristbands.（我在想哪里买腕带。）wondering 后常接 wh- 词。
 
-- **wristband** — 手环、腕带。wrist（手腕）+ band（带子）。游乐园常用纸质或硅胶 wristband 作为入园凭证或年龄标识。搭配：wear a wristband / a paper wristband。
+- **after next** — "下一个之后的"：the week after next（下下周）、the month after next（下下个月）。比说 two weeks later 更地道。
 
-- **stuffed animal** — 毛绒玩具。stuffed（填充的）+ animal（动物），因为里面填了棉花。游乐园里赢来的大熊就是 stuffed animal。注意不说 "plush toy"（那是更正式的商品名称）。
+- **all of a sudden / temporarily** — 突发与暂时。all of a sudden 是"突然间"，= suddenly：All of a sudden, it hailed. temporarily 是"暂时地"（temporary + -ly）：The ride is temporarily closed.
 
-- **all of a sudden** — 突然。等于 suddenly，但更口语化、更有叙事感：All of a sudden, it started to hail! 注意是 all of a sudden，不是 all of the sudden。
+- **hail / upside down / gigantic** — 状况描述词。hail 是冰雹，也可作动词"下冰雹"；upside down 是"上下颠倒"：The coaster turns upside down. gigantic 是"巨大的"（giant + -ic），比 big 夸张得多。
 
-- **wait in line** — 排队。美式英语说 wait in line / stand in line；英式更常说 queue。游乐园里最耗时的活动：We waited in line for two hours. 搭配：a long line / cut in line（插队）。
-
-- **hail** — 冰雹。和 rain, snow 一样是天气现象。做动词：It started to hail. 做名词：a hail storm。注意不要和 hail a taxi（招手叫出租车）混淆——那个 hail 是"招呼、呼叫"的意思。
-
-- **temporarily** — 暂时地。形容词是 temporary。搭配：temporarily closed / temporarily unavailable。游乐园告示上常见：This ride is temporarily closed for maintenance.
-
-- **go on** — 这里指"乘坐（游乐设施）"：go on a ride / go on the roller coaster。不是"继续"的意思。类似表达：get on。注意搭配：go on a ride 但 ride the roller coaster（ride 做动词时不加 on）。
+- **head** — 作动词"前往"：Let's head to the ferris wheel. 比 go 更有方向感，口语高频。
 
 ## 练习
 
@@ -63,149 +58,149 @@ after next, all of a sudden, amusement park, cotton candy, ferris wheel, giganti
 
 <quiz-sentence-builder>
 
-1. **中文**：我原本在想我们可以下下周去游乐园玩。  
-   **英文**：I was thinking we could visit the amusement park the week after next.
-   > **解析**：was thinking 表示原本在想；amusement park 表示游乐园；after next 表示下下个。
+1. **中文**：我在想我们下下个月去游乐园。
+   **英文**：I was thinking we go to the amusement park the month after next.
+   > **解析**：was thinking 委婉引出想法；the month after next 是"下下个月"的固定说法。
 
-2. **中文**：我原本希望能去坐过山车，但它因为维修暂时关闭了。  
-   **英文**：I was hoping to go on the roller coaster, but it's temporarily closed.
-   > **解析**：was hoping to 表示原本希望能；roller coaster 表示过山车；temporarily 表示暂时地。
+2. **中文**：我本来想办一张季票。
+   **英文**：I was hoping to get a season pass.
+   > **解析**：was hoping to + 动词原形表示委婉愿望；a season pass 作 get 的宾语。
 
-3. **中文**：我们原本应该前往巨大的摩天轮，但突然下起了冰雹！  
-   **英文**：We were supposed to head to the gigantic ferris wheel, but all of a sudden it started to hail!
-   > **解析**：were supposed to 表示原本应该；gigantic 表示巨大的；ferris wheel 表示摩天轮；all of a sudden 表示突然；hail 表示冰雹。
+3. **中文**：我们本该九点在门口集合。
+   **英文**：We were supposed to meet at the gate at nine.
+   > **解析**：were supposed to + 动词原形表示"本应"；at the gate 和 at nine 是地点与时间状语。
 
-4. **中文**：游乐园里挤满了人，大家不得不排长队买棉花糖和热狗。  
-   **英文**：The park was packed, so we had to wait in line for cotton candy and hot dogs.
-   > **解析**：packed 表示拥挤的；wait in line 表示排队；cotton candy 表示棉花糖；hot dog 表示热狗。
+4. **中文**：我在想哪里能买到腕带。
+   **英文**：I'm wondering where to buy wristbands.
+   > **解析**：wondering 后接 wh- 词引导的不定式 where to buy；wristbands 用复数。
 
-5. **中文**：只要你戴上入园手环并符合身高要求，就能玩头朝下的过山车。  
-   **英文**：If you wear the wristband and meet the height requirement, you can ride upside down.
-   > **解析**：wristband 表示手环；requirement 表示要求；upside down 表示头朝下。
+5. **中文**：过山车上下颠倒。
+   **英文**：The roller coaster turns upside down.
+   > **解析**：turns 与单数主语搭配；upside down 作状语描述翻转状态。
 
-6. **中文**：凭这张季票，你不仅能无限次入园，还能在游戏中赢取巨大的毛绒玩具。  
-   **英文**：With a season pass, you can enter anytime and win a gigantic stuffed animal.
-   > **解析**：season pass 表示季票；gigantic 表示巨大的；stuffed animal 表示毛绒玩具。
+6. **中文**：摩天轮很巨大。
+   **英文**：The ferris wheel is gigantic.
+   > **解析**：The ferris wheel 是单数主语，用 is；gigantic 作表语。
 
-7. **中文**：我们正在纳闷哪里能买到美味的热狗和棉花糖。  
-   **英文**：We were wondering where we could buy tasty hot dogs and cotton candy.
-   > **解析**：wondering where 表示纳闷……在哪里；hot dog 表示热狗；cotton candy 表示棉花糖。
+7. **中文**：公园里挤满了人。
+   **英文**：The park is packed with people.
+   > **解析**：packed 作表语表示"挤满"；with people 补充挤满的内容。
 
-8. **中文**：这座巨大的摩天轮是整个游乐园里最显眼的标志。  
-   **英文**：This gigantic ferris wheel is the most famous landmark in the amusement park.
-   > **解析**：gigantic 表示巨大的；ferris wheel 表示摩天轮；amusement park 表示游乐园。
+8. **中文**：我们得排队等。
+   **英文**：We have to wait in line.
+   > **解析**：have to 表示客观必要；wait in line 是固定短语"排队"。
 
-9. **中文**：坐过山车时体验头朝下旋转的感觉真是既刺激又疯狂。  
-   **英文**：Going upside down on a fast roller coaster feels totally wild and exciting.
-   > **解析**：upside down 表示头朝下的；roller coaster 表示过山车。
+9. **中文**：突然下起了冰雹。
+   **英文**：All of a sudden, it started to hail.
+   > **解析**：All of a sudden 作状语放句首；it started to hail 中 it 指天气，hail 作动词。
 
-10. **中文**：突然之间，游乐园的天空中下起了大颗的冰雹。  
-   **英文**：All of a sudden, heavy hail fell from the sky over the amusement park.
-   > **解析**：all of a sudden 表示突然；hail 表示冰雹。
+10. **中文**：这个项目暂时关闭了。
+   **英文**：The ride is temporarily closed.
+   > **解析**：temporarily 副词修饰形容词 closed；is closed 表示状态。
 
-11. **中文**：游乐园的周末总是挤满了远道而来的游客。  
-   **英文**：The amusement park is always packed with visitors on warm weekends.
-   > **解析**：packed 表示挤满的；amusement park 表示游乐园。
+11. **中文**：身高是乘坐这个项目的要求。
+   **英文**：Height is a requirement for this ride.
+   > **解析**：Height 作主语用 is；a requirement for 表示"对…的要求"。
 
-12. **中文**：因为安全要求，身高不足的孩子不能乘坐这个游乐设施。  
-   **英文**：Due to safety requirements, young kids cannot go on this fast ride.
-   > **解析**：requirement 表示要求；go on 表示乘坐。
+12. **中文**：我们坐摩天轮吧。
+   **英文**：Let's go on the ferris wheel.
+   > **解析**：let's 后接动词原形；go on 在此表示"乘坐"游乐设施。
 
-13. **中文**：孩子们手里拿着粉红色的棉花糖，高兴地向摩天轮跑去。  
-   **英文**：Kids carrying pink cotton candy ran happily toward the ferris wheel.
-   > **解析**：cotton candy 表示棉花糖；ferris wheel 表示摩天轮。
+13. **中文**：她想要一个毛绒玩具。
+   **英文**：She wants a stuffed animal.
+   > **解析**：She 是第三人称单数，want 加 s；a stuffed animal 作宾语。
 
-14. **中文**：他在游乐园的射击游戏中赢了一个可爱的毛绒玩具。  
-   **英文**：He won a super cute stuffed animal at the park's game booth.
-   > **解析**：stuffed animal 表示毛绒玩具。
+14. **中文**：他吃了一个热狗和棉花糖。
+   **英文**：He ate a hot dog and some cotton candy.
+   > **解析**：ate 是 eat 的过去式；cotton candy 不可数，用 some 修饰。
 
-15. **中文**：我们原本希望能购买一张划算的季票，可惜已经售罄了。  
-   **英文**：We were hoping to buy a discount season pass, but it was sold out.
-   > **解析**：was hoping to 表示原本希望能；season pass 表示季票。
+15. **中文**：我们前往过山车吧。
+   **英文**：Let's head to the roller coaster.
+   > **解析**：head 作动词"前往"，与 to 搭配；let's 后接原形。
 
-16. **中文**：工作人员在入口处为每一位游客戴上了红色的手环。  
-   **英文**：Staff members put a red wristband on each guest at the entrance.
-   > **解析**：wristband 表示手环。
+16. **中文**：我本来想去玩过山车的。
+   **英文**：I was hoping to go on the roller coaster.
+   > **解析**：was hoping to 委婉表达原本愿望；go on the roller coaster 表示乘坐。
 
-17. **中文**：这款热门的过山车设施因为例行检查暂时停止运营。  
-   **英文**：The popular roller coaster is temporarily closed for routine inspection.
-   > **解析**：roller coaster 表示过山车；temporarily 表示暂时地。
+17. **中文**：腕带是入园的要求。
+   **英文**：The wristband is a requirement for entry.
+   > **解析**：The wristband 是单数主语，用 is；for entry 表示"对入园而言"。
 
-18. **中文**：我们原本应该在游乐园主广场的大摩天轮下集合。  
-   **英文**：We were supposed to meet under the big ferris wheel in the central square.
-   > **解析**：were supposed to 表示原本应该；ferris wheel 表示摩天轮。
+18. **中文**：我们本打算排队的。
+   **英文**：We were supposed to wait in line.
+   > **解析**：were supposed to 后接动词原形 wait；wait in line 作整体短语。
 
-19. **中文**：在炎热的天气里排长队等待确实是一件让人头疼的事。  
-   **英文**：Having to wait in line for hours under the sun is really exhausting.
-   > **解析**：wait in line 表示排队。
+19. **中文**：突然之间，演出开始了。
+   **英文**：All of a sudden, the show started.
+   > **解析**：All of a sudden 作插入状语；started 是 start 的过去式。
 
-20. **中文**：游乐园里的香肠热狗是午餐时最受欢迎的快选食物之一。  
-   **英文**：The grilled hot dog is one of the most popular quick lunch foods at the park.
-   > **解析**：hot dog 表示热狗。
+20. **中文**：下下周你会来游乐园吗？
+   **英文**：Will you come to the park the week after next?
+   > **解析**：Will 提前构成一般疑问句；the week after next 是"下下周"。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I was thinking we could visit the amusement park the week after next.
-   > **中文**：我原本在想我们可以下下周去游乐园玩。
+1. I was thinking we go to the amusement park.
+   > **中文**：我在想我们去游乐园吧。
 
-2. I was hoping to go on the roller coaster, but it's temporarily closed.
-   > **中文**：我原本希望能去坐过山车，但它因为维修暂时关闭了。
+2. I was hoping to get a season pass.
+   > **中文**：我本来想办一张季票。
 
-3. We were supposed to head to the gigantic ferris wheel, but all of a sudden it started to hail!
-   > **中文**：我们原本应该前往巨大的摩天轮，但突然下起了冰雹！
+3. We were supposed to meet at the gate.
+   > **中文**：我们本该在门口集合。
 
-4. The park was packed, so we had to wait in line for cotton candy and hot dogs.
-   > **中文**：游乐园里挤满了人，大家不得不排长队买棉花糖和热狗。
+4. I'm wondering where to buy wristbands.
+   > **中文**：我在想哪里能买到腕带。
 
-5. If you wear the wristband and meet the height requirement, you can ride upside down.
-   > **中文**：只要你戴上入园手环并符合身高要求，就能玩头朝下的过山车。
+5. The roller coaster turns upside down.
+   > **中文**：过山车会上下颠倒。
 
-6. With a season pass, you can enter anytime and win a gigantic stuffed animal.
-   > **中文**：凭这张季票，你不仅能无限次入园，还能在游戏中赢取巨大的毛绒玩具。
+6. The ferris wheel is gigantic.
+   > **中文**：摩天轮很巨大。
 
-7. We were wondering where we could buy tasty hot dogs and cotton candy.
-   > **中文**：我们正在纳闷哪里能买到美味的热狗和棉花糖。
+7. The park is packed today.
+   > **中文**：今天公园里挤满了人。
 
-8. This gigantic ferris wheel is the most famous landmark in the amusement park.
-   > **中文**：这座巨大的摩天轮是整个游乐园里最显眼的标志。
+8. We have to wait in line.
+   > **中文**：我们得排队等。
 
-9. Going upside down on a fast roller coaster feels totally wild and exciting.
-   > **中文**：坐过山车时体验头朝下旋转的感觉真是既刺激又疯狂。
+9. All of a sudden, it started to hail.
+   > **中文**：突然下起了冰雹。
 
-10. All of a sudden, heavy hail fell from the sky over the amusement park.
-   > **中文**：突然之间，游乐园的天空中下起了大颗的冰雹。
+10. The ride is temporarily closed.
+   > **中文**：这个项目暂时关闭了。
 
-11. The amusement park is always packed with visitors on warm weekends.
-   > **中文**：游乐园的周末总是挤满了远道而来的游客。
+11. Height is a requirement for this ride.
+   > **中文**：身高是乘坐这个项目的要求。
 
-12. Due to safety requirements, young kids cannot go on this fast ride.
-   > **中文**：因为安全要求，身高不足的孩子不能乘坐这个游乐设施。
+12. Let's go on the ferris wheel.
+   > **中文**：我们坐摩天轮吧。
 
-13. Kids carrying pink cotton candy ran happily toward the ferris wheel.
-   > **中文**：孩子们手里拿着粉红色的棉花糖，高兴地向摩天轮跑去。
+13. She wants a stuffed animal.
+   > **中文**：她想要一个毛绒玩具。
 
-14. He won a super cute stuffed animal at the park's game booth.
-   > **中文**：他在游乐园的射击游戏中赢了一个可爱的毛绒玩具。
+14. He ate a hot dog for lunch.
+   > **中文**：他午饭吃了一个热狗。
 
-15. We were hoping to buy a discount season pass, but it was sold out.
-   > **中文**：我们原本希望能购买一张划算的季票，可惜已经售罄了。
+15. Some cotton candy, please.
+   > **中文**：请来点棉花糖。
 
-16. Staff members put a red wristband on each guest at the entrance.
-   > **中文**：工作人员在入口处为每一位游客戴上了红色的手环。
+16. Let's head to the roller coaster.
+   > **中文**：我们前往过山车吧。
 
-17. The popular roller coaster is temporarily closed for routine inspection.
-   > **中文**：这款热门的过山车设施因为例行检查暂时停止运营。
+17. I was hoping to go on every ride.
+   > **中文**：我本来想每个项目都玩一遍。
 
-18. We were supposed to meet under the big ferris wheel in the central square.
-   > **中文**：我们原本应该在游乐园主广场的大摩天轮下集合。
+18. The week after next works for me.
+   > **中文**：下下周对我来说可以。
 
-19. Having to wait in line for hours under the sun is really exhausting.
-   > **中文**：在炎热的天气里排长队等待确实是一件让人头疼的事。
+19. All of a sudden, the lights went off.
+   > **中文**：突然之间，灯都灭了。
 
-20. The grilled hot dog is one of the most popular quick lunch foods at the park.
-   > **中文**：游乐园里的香肠热狗是午餐时最受欢迎的快选食物之一。
+20. I'm wondering where the hot dog stand is.
+   > **中文**：我在想热狗摊在哪里。
 
 </quiz-listening>
 
@@ -213,26 +208,38 @@ after next, all of a sudden, amusement park, cotton candy, ferris wheel, giganti
 
 | 英文单词 | 课文释义 |
 | --- | --- |
+| after next | 下一个之后的 |
+| all of a sudden | 突然间 |
 | amusement park | 游乐园 |
-| roller coaster | 过山车 |
-| ferris wheel | 摩天轮 |
 | cotton candy | 棉花糖 |
-| hot dog | 热狗 |
-| stuffed animal | 毛绒玩具 |
-| season pass | 季票；年卡 |
-| wristband | 手环；腕带 |
-| upside down | 颠倒的；头朝下的 |
+| ferris wheel | 摩天轮 |
 | gigantic | 巨大的 |
-| packed | 拥挤的；挤满的 |
+| go on | 乘坐 / 继续 |
+| hail | 冰雹 / 下冰雹 |
+| head | 前往 / 头 |
+| hot dog | 热狗 |
+| packed | 挤满的 |
+| requirement | 要求 |
+| ride | 乘坐 / 游乐项目 |
+| roller coaster | 过山车 |
+| season pass | 季票 |
+| stuffed animal | 毛绒玩具 |
 | temporarily | 暂时地 |
-| hail | 冰雹 |
-| all of a sudden | 突然 |
+| upside down | 上下颠倒 |
 | wait in line | 排队 |
-| was hoping to | 原本希望能…… |
-| was thinking | 原本在想…… |
-| were supposed to | 原本应该…… |
-| wondering where | 纳闷……在哪里 |
-| requirement | 要求；条件 |
+| was hoping to | 本来希望 |
+| was thinking | 本来在想 |
+| were supposed to | 本应该 |
+| wondering where | 想知道哪里 |
+| wristband | 腕带 |
+| is | 是 |
+| the | 这个（定冠词） |
+| gate | 门口 |
+| people | 人们 |
+| show | 演出 |
+| lunch | 午餐 |
+| closed | 关闭的 |
+| height | 身高 |
 
 </quiz-matching>
 
@@ -240,202 +247,202 @@ after next, all of a sudden, amusement park, cotton candy, ferris wheel, giganti
 
 ### 1
 
-I was thinking we could visit the ____ park the week after next.
+I was thinking we go to the amusement ____ the month after next.
 
-- [x] amusement
-- [ ] after next
-- [ ] all of a sudden
+- [x] park
+- [ ] pass
+- [ ] line
 
-> **解析**：**amusement** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：amusement park 是固定搭配；pass 和 line 都不构成该短语。
 
 ### 2
 
-I was hoping to go on the roller coaster, but it's ____ closed.
+I was hoping to get a season ____.
 
-- [x] temporarily
-- [ ] after next
-- [ ] all of a sudden
+- [x] pass
+- [ ] wristband
+- [ ] hail
 
-> **解析**：**temporarily** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：season pass（季票）是固定搭配；wristband 和 hail 不合。
 
 ### 3
 
-We were supposed to ____ to the gigantic ferris wheel, but all of a sudden it started to hail!
+We were supposed to ____ at the gate.
 
-- [x] head
-- [ ] after next
-- [ ] all of a sudden
+- [x] meet
+- [ ] met
+- [ ] meeting
 
-> **解析**：**head** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：were supposed to 后接动词原形 meet；met 和 meeting 不合该结构。
 
 ### 4
 
-The park was ____, so we had to wait in line for cotton candy and hot dogs.
+I'm wondering ____ to buy wristbands.
 
-- [x] packed
-- [ ] after next
-- [ ] all of a sudden
+- [x] where
+- [ ] which
+- [ ] what
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **packed**。
+> **解析**：表示"在哪里买"用 where；which 和 what 语义不合。
 
 ### 5
 
-If you wear the ____ and meet the height requirement, you can ride upside down.
+The roller coaster turns upside ____.
 
-- [x] wristband
-- [ ] after next
-- [ ] all of a sudden
+- [x] down
+- [ ] up
+- [ ] off
 
-> **解析**：**wristband** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：upside down 是固定短语"上下颠倒"；up 和 off 不合。
 
 ### 6
 
-With a season pass, you can enter anytime and win a ____ stuffed animal.
+The ferris wheel is ____.
 
 - [x] gigantic
-- [ ] after next
-- [ ] all of a sudden
+- [ ] temporarily
+- [ ] requirement
 
-> **解析**：**gigantic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 gigantic；temporarily 是副词，requirement 是名词。
 
 ### 7
 
-We were ____ where we could buy tasty hot dogs and cotton candy.
+The park is ____ with people today.
 
-- [x] wondering
-- [ ] after next
-- [ ] all of a sudden
+- [x] packed
+- [ ] headed
+- [ ] hailed
 
-> **解析**：**wondering** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：be packed with 是固定搭配"挤满"；headed 和 hailed 不合。
 
 ### 8
 
-This ____ ferris wheel is the most famous landmark in the amusement park.
+We have to wait in ____.
 
-- [x] gigantic
-- [ ] after next
-- [ ] all of a sudden
+- [x] line
+- [ ] pass
+- [ ] ride
 
-> **解析**：**gigantic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：wait in line 是固定短语"排队"；pass 和 ride 不合。
 
 ### 9
 
-Going upside down on a fast roller coaster feels totally wild and ____.
+All of a ____, it started to hail.
 
-- [x] exciting
-- [ ] after next
-- [ ] all of a sudden
+- [x] sudden
+- [ ] moment
+- [ ] cotton
 
-> **解析**：**exciting** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：all of a sudden 是固定短语"突然间"；moment 和 cotton 不构成该搭配。
 
 ### 10
 
-All of a sudden, heavy ____ fell from the sky over the amusement park.
+The ride is ____ closed.
 
-- [x] hail
-- [ ] after next
-- [ ] all of a sudden
+- [x] temporarily
+- [ ] gigantic
+- [ ] packed
 
-> **解析**：**hail** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 closed 需要副词 temporarily；gigantic 和 packed 是形容词。
 
 ### 11
 
-The amusement park is always ____ with visitors on warm weekends.
+Height is a ____ for this ride.
 
-- [x] packed
-- [ ] after next
-- [ ] all of a sudden
+- [x] requirement
+- [ ] wristband
+- [ ] animal
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **packed**。
+> **解析**：身高属于乘坐的"要求"，requirement 成立；wristband 和 animal 不合语境。
 
 ### 12
 
-Due to safety requirements, young kids cannot go on this fast ____.
+Let's go ____ the ferris wheel.
 
-- [x] ride
-- [ ] after next
-- [ ] all of a sudden
+- [x] on
+- [ ] to
+- [ ] in
 
-> **解析**：**ride** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：go on 表示乘坐游乐设施；to 和 in 不合该义。
 
 ### 13
 
-Kids ____ pink cotton candy ran happily toward the ferris wheel.
+She wants a stuffed ____.
 
-- [x] carrying
-- [ ] after next
-- [ ] all of a sudden
+- [x] animal
+- [ ] hail
+- [ ] gate
 
-> **解析**：**carrying** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：stuffed animal（毛绒玩具）是固定搭配；hail 和 gate 不合。
 
 ### 14
 
-He won a super cute ____ animal at the park's game booth.
+He ate a hot dog and some cotton ____.
 
-- [x] stuffed
-- [ ] after next
-- [ ] all of a sudden
+- [x] candy
+- [ ] ride
+- [ ] wheel
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **stuffed**。
+> **解析**：cotton candy（棉花糖）是固定搭配；ride 和 wheel 不合。
 
 ### 15
 
-We were hoping to buy a ____ season pass, but it was sold out.
+Let's head ____ the roller coaster.
 
-- [x] discount
-- [ ] after next
-- [ ] all of a sudden
+- [x] to
+- [ ] of
+- [ ] for wait
 
-> **解析**：**discount** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：head to 表示"前往"；of 不合该搭配。
 
 ### 16
 
-Staff members put a red ____ on each guest at the entrance.
+I was hoping to go on every ____.
 
-- [x] wristband
-- [ ] after next
-- [ ] all of a sudden
+- [x] ride
+- [ ] hail
+- [ ] line
 
-> **解析**：**wristband** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：every 后接单数名词 ride（项目）；hail 和 line 不合语境。
 
 ### 17
 
-The popular roller coaster is ____ closed for routine inspection.
+The week after ____ works for me.
 
-- [x] temporarily
-- [ ] after next
-- [ ] all of a sudden
+- [x] next
+- [ ] now
+- [ ] suddenly
 
-> **解析**：**temporarily** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the week after next 是固定说法"下下周"；now 和 suddenly 不合。
 
 ### 18
 
-We were ____ to meet under the big ferris wheel in the central square.
+All of a sudden, the ____ went off.
 
-- [x] supposed
-- [ ] after next
-- [ ] all of a sudden
+- [x] lights
+- [ ] cotton candy
+- [ ] season pass
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **supposed**。
+> **解析**：能"熄灭"的是 lights；cotton candy 和 season pass 不合语境。
 
 ### 19
 
-Having to wait in line for hours under the sun is really ____.
+I'm wondering where the hot dog ____ is.
 
-- [x] exhausting
-- [ ] after next
-- [ ] all of a sudden
+- [x] stand
+- [ ] wheel
+- [ ] hail
 
-> **解析**：**exhausting** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：hot dog stand（热狗摊）是固定搭配；wheel 和 hail 不合。
 
 ### 20
 
-The ____ hot dog is one of the most popular quick lunch foods at the park.
+It started to ____ all of a sudden.
 
-- [x] grilled
-- [ ] after next
-- [ ] all of a sudden
+- [x] hail
+- [ ] head
+- [ ] pack
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **grilled**。
+> **解析**：与天气搭配的是 hail（下冰雹）；head 和 pack 不合语境。
 
 </quiz-cloze>

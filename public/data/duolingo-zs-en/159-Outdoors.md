@@ -10,40 +10,31 @@ blew, blow, camel, climate, coast, destination, fallen, forecast, grew, have got
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"谈论天气预报"展开，以户外活动为场景。核心是天气和自然表达：What is the forecast for tomorrow? The wind blew hard overnight.（明天的天气预报是什么？昨晚风刮得很猛。）、The climate on the coast is mild—there's sunshine most of the year.（沿海的气候温和——一年大部分时间有阳光。）、We've got to check the weather range before we head to our destination.（我们得在出发去目的地前查看天气范围。）、A whale waved its tail near the coast—I've never seen wildlife like that!（一头鲸鱼在海岸附近摆了尾巴——我从没见过那样的野生动物！）。
+本单元的主题是"户外与天气预报"。词表分成三组：天气表达（forecast, climate, mild, sunshine, overnight, blow, blew, range）、地理方位（northeast, northwest, southeast, southwest, coast, region, destination）、以及户外所见的生物（camel, whale, wildlife, wave）。再加上 fell/fallen、grow/grew、hold/held 等不规则动词的变形，就能描述一次户外旅程：The forecast says sunshine. We have got to travel northeast to the coast.
 
-词表里有天气词汇（forecast, climate, mild, sunshine, blew）和方位词（northeast, northwest, southeast, southwest）。你可以练习：The temperature range is 10-20. / Trees grew here. / Leaves have fallen. / The region is dry.
+语法主线有两条。第一是不规则动词的过去式与过去分词：blow—blew—blown、grow—grew—grown、hold—held—held、fall—fell—fallen。fallen 常与 have 构成完成时，也可作形容词"落下的"。第二是 have got to——口语中表示"必须"，等于 have to：We have got to leave early. 疑问形式把 have 提前：Have you got to go?
 
-have got to = must（必须）。blow → blew → blown。
+学完本单元，你能询问和转述天气预报、描述不同地区的气候，也能谈论旅途中见到的自然景观与动物。
 
 ## Tips
 
-- **forecast / climate / mild** — 预报 / 气候 / 温和。搭配：the weather forecast, a warm climate, a mild winter。例句：What's the forecast for today? / The climate here is tropical. / It's been mild this week. 注意 forecast 可作名词和动词。
+- **forecast / climate / mild / sunshine** — forecast 是"天气预报"：What is the forecast? climate 是"气候"，指一个地区长期的天气特点。mild 形容气候"温和的"：The climate is mild. sunshine 是"阳光"，不可数：lots of sunshine。
 
-- **blew / blow / fallen** — 刮了 / 刮 / 落了。搭配：the wind blew, blow hard, leaves have fallen。例句：The wind blew all night. / It's blowing hard outside. / The leaves have fallen. 注意 blow → blew → blown。
+- **blow / blew / fallen / grew / held** — 一组不规则动词变形。blow（吹）—blew—blown：The wind blew hard. fall（落下）—fell—fallen：The leaves have fallen. grow（生长）—grew—grown：She grew up here. hold（握住）—held—held：He held the map.
 
-- **northeast / northwest / southeast / southwest** — 东北 / 西北 / 东南 / 西南。搭配：in the northeast, northwest wind, southeast coast, southwest region。例句：We're heading northeast. / A northwest wind is coming. / The southeast is humid. / It's drier in the southwest. 注意方位词可作名词、形容词、副词。
+- **have got to** — 口语中的"必须"，等于 have to：We have got to leave early. 否定是 haven't got to / don't have to。注意 got 不能省略成 ✗ We have leave → ✓ We have got to leave。
 
-- **coast / region / destination** — 海岸 / 地区 / 目的地。搭配：on the coast, in this region, reach the destination。例句：We live on the coast. / This region gets a lot of rain. / What's your destination? 注意 coast 指"海岸线"。
+- **northeast / northwest / southeast / southwest** — 四个方位词，由 north/south + east/west 复合而成。可作名词、形容词或副词：the northwest region（形容词）、travel northeast（副词）。
 
-- **sunshine / overnight / range** — 阳光 / 过夜 / 范围。搭配：lots of sunshine, overnight, a temperature range。例句：There's sunshine all day. / It rained overnight. / The range is 15 to 25 degrees. 注意 overnight = 一整夜。
+- **coast / region / range / destination** — coast 是"海岸"：near the coast。region 是"地区"：This region has a dry climate. range 是"范围、幅度"：the temperature range。destination 是"目的地"：Our next destination is the coast.
 
-- **whale / wildlife / camel** — 鲸鱼 / 野生动物 / 骆驼。搭配：a blue whale, local wildlife, a camel ride。例句：We saw a whale! / The wildlife here is amazing. / I rode a camel. 注意 wildlife 是不可数名词。
+- **camel / whale / wildlife / wave** — 户外可见的自然事物。camel 是"骆驼"，whale 是"鲸鱼"，wildlife 是"野生动物"的总称（不可数），wave 是"波浪"。注意 whale 的 wh 发 /w/。
 
-- **have got to / grew / held** — 必须 / 生长了 / 持续了。搭配：have got to go, trees grew, held steady。例句：We've got to leave early. / The plants grew quickly. / The temperature held at 20. 注意 have got to = have to（口语）。
+- **overnight** — "过夜、整夜"，可作副词：It rained overnight. 也可作形容词：an overnight trip。由 over + night 复合而成。
 
-- **wave / what is / coast** — 波浪 / 是什么 / 海岸。搭配：a big wave, what is the forecast, along the coast。例句：A huge wave hit the boat. / What is the weather like? / Walk along the coast. 注意 wave 可指"波浪"也可指"挥手"。
-
-- **climate / region / mild** — 气候 / 地区 / 温和。搭配：a dry climate, a mountainous region, mild weather。例句：The climate is changing. / This region is beautiful. / The weather is mild today. 注意 climate 指长期气候，weather 指短期天气。
-
-- **forecast / overnight / blew** — 预报 / 夜间 / 刮了。搭配：a 7-day forecast, overnight rain, the wind blew。例句：The forecast says rain. / There was overnight snow. / The wind blew the tent away. 注意 forecast 过去式可以是 forecast 或 forecasted。
-
-- **destination / sunshine / wildlife** — 目的地 / 阳光 / 野生动物。搭配：a holiday destination, in the sunshine, protect wildlife。例句：Paris is a popular destination. / I love sitting in the sunshine. / We must protect wildlife. 注意 destination 指旅行目的地。
-
-- **range / grew / fallen** — 范围 / 长了 / 落了。搭配：a wide range, grew up, have fallen。例句：There's a wide range of temperatures. / I grew up in this region. / The temperatures have fallen. 注意 range 可指温度/价格范围。
+- **what is** — 本单元用于询问天气的句型：What is the forecast? What is the climate like? what is 后接名词构成特殊疑问句。
 
 ## 练习
 
@@ -61,149 +52,149 @@ have got to = must（必须）。blow → blew → blown。
 
 <quiz-sentence-builder>
 
-1. **中文**：一整天强烈的海岸风吹过了沙滩。
-   **英文**：A strong coastal wind blew across the sandy beach all day.
-   > **解析**：blew 为 blow 的过去式；blew across 表示“吹过/刮过”。
+1. **中文**：天气预报是什么？
+   **英文**：What is the weather forecast?
+   > **解析**：what is 引导特殊疑问句；weather 修饰 forecast 表示"天气预报"。
 
-2. **中文**：我们在旅行期间骑骆驼穿过了广阔的沙漠沙丘。
-   **英文**：We rode a camel across the vast desert dunes during our trip.
-   > **解析**：camel 表示“骆驼”；desert dunes 意为“沙漠沙丘”。
+2. **中文**：风刮了一整夜。
+   **英文**：The wind blew all night.
+   > **解析**：blew 是 blow 的过去式；all night 是时间状语。
 
-3. **中文**：地中海气候以温暖干燥的夏天而闻名。
-   **英文**：The Mediterranean climate is famous for warm, dry summers.
-   > **解析**：climate 表示“气候”；famous for 意为“以……闻名”。
+3. **中文**：明天会刮大风。
+   **英文**：It will blow hard tomorrow.
+   > **解析**：will 后接动词原形 blow；hard 作副词修饰 blow。
 
-4. **中文**：假期里他们沿着风景如画的太平洋海岸开车。
-   **英文**：They drove along the picturesque Pacific coast during vacation.
-   > **解析**：coast 表示“海岸/海滨”；picturesque 意为“风景如画的”。
+4. **中文**：今天天气温和。
+   **英文**：The weather is mild today.
+   > **解析**：mild 作表语，描述天气"温和"。
 
-5. **中文**：夏威夷是对家庭而言非常受欢迎的旅游目的地。
-   **英文**：Hawaii is a very popular travel destination for families.
-   > **解析**：destination 表示“目的地/终点”；travel destination 意为“旅游目的地”。
+5. **中文**：我们得早点出发。
+   **英文**：We have got to leave early.
+   > **解析**：have got to 表示"必须"，后接动词原形 leave。
 
-6. **中文**：徒步从小路上注意掉落的树枝。
-   **英文**：Watch out for fallen tree branches on the hiking trail.
-   > **解析**：fallen 表示“掉落的/倒下的”；tree branches 意为“树枝”。
+6. **中文**：她在海边长大。
+   **英文**：She grew up near the coast.
+   > **解析**：grew 是 grow 的过去式；grow up 是"长大"，near the coast 是地点状语。
 
-7. **中文**：根据天气预报，明天下午会下雨。
-   **英文**：According to the weather forecast, it will rain tomorrow afternoon.
-   > **解析**：forecast 表示“预报”；weather forecast 意为“天气预报”。
+7. **中文**：树叶落下来了。
+   **英文**：The leaves have fallen.
+   > **解析**：have + fallen 构成现在完成时；fallen 是 fall 的过去分词。
 
-8. **中文**：野生浆果灌木丛沿着森林小径边缘生长。
-   **英文**：Wild berry bushes grew along the edge of the forest path.
-   > **解析**：grew 是 grow 的过去式，表示“生长”。
+8. **中文**：他举着伞。
+   **英文**：He held the umbrella.
+   > **解析**：held 是 hold 的过去式；the umbrella 作宾语。
 
-9. **中文**：与山区相比，山谷里的冬天出奇地温和。
-   **英文**：Winters in the valley are surprisingly mild compared to the mountains.
-   > **解析**：mild 表示“温和的/不严寒的”；compared to 意为“与……相比”。
+9. **中文**：我们参观了西北部地区。
+   **英文**：We visited the northwest region.
+   > **解析**：northwest 作形容词修饰 region；visited 是过去式。
 
-10. **中文**：观光巴士穿过了该州的东北部地区。
-   **英文**：The tour bus traveled through the northeast region of the state.
-   > **解析**：northeast 表示“东北的/东北部”；region 意为“地区”。
+10. **中文**：东南海岸很温暖。
+   **英文**：The southeast coast is warm.
+   > **解析**：southeast 修饰 coast；is 连接表语 warm。
 
-11. **中文**：他们决定在湖边野营过夜。
-   **英文**：They decided to camp overnight near the edge of the lake.
-   > **解析**：overnight 表示“在夜间/整夜”；camp 意为“野营”。
+11. **中文**：这里的温差很大。
+   **英文**：The temperature range is large here.
+   > **解析**：range 指"范围、幅度"；large 修饰 range。
 
-12. **中文**：洛矶山脉为徒步旅行者提供了令人屏息的景象。
-   **英文**：The Rocky Mountain range offers breathtaking views for hikers.
-   > **解析**：range 表示“山脉/范围”；mountain range 意为“山脉”。
+12. **中文**：我们的目的地是海岸。
+   **英文**：Our destination is the coast.
+   > **解析**：destination 作主语；the coast 作表语。
 
-13. **中文**：这个沿海地区自然资源和森林土地丰富。
-   **英文**：This coastal region is rich in natural resources and forest land.
-   > **解析**：region 表示“地区/区域”；coastal 意为“沿海的”。
+13. **中文**：我在海里看到了鲸鱼。
+   **英文**：I saw a whale in the ocean.
+   > **解析**：saw 是 see 的过去式；a whale 作宾语。
 
-14. **中文**：晴朗的夏日早晨，温暖的阳光洒满了草地。
-   **英文**：Warm sunshine filled the meadow on a clear summer morning.
-   > **解析**：sunshine 表示“阳光”；meadow 意为“草地/牧场”。
+14. **中文**：骆驼生活在干燥的气候里。
+   **英文**：Camels live in dry climates.
+   > **解析**：camels 复数主语用动词原形 live；in dry climates 是环境状语。
 
-15. **中文**：高潮期间一朵巨大的海浪卷上了海岸。
-   **英文**：A massive wave swept onto the shore during high tide.
-   > **解析**：wave 表示“海浪/波浪”；swept onto 意为“卷上/扫过”。
+15. **中文**：这里的野生动物很棒。
+   **英文**：The wildlife here is amazing.
+   > **解析**：wildlife 是不可数集合名词，搭配 is；here 作后置定语。
 
-16. **中文**：我们非常幸运地在船附近发现了一头海洋鲸鱼。
-   **英文**：We were lucky enough to spot an ocean whale near the boat.
-   > **解析**：whale 表示“鲸鱼”；spot 意为“发现/目击”。
+16. **中文**：一个大浪打在了船上。
+   **英文**：A big wave hit the boat.
+   > **解析**：hit 的过去式仍为 hit；the boat 作宾语。
 
-17. **中文**：国家公园保护当地的野生动物和自然栖息地。
-   **英文**：The national park protects local wildlife and natural habitats.
-   > **解析**：wildlife 表示“野生动物”；natural habitats 意为“自然栖息地”。
+17. **中文**：今天阳光充足。
+   **英文**：There is lots of sunshine today.
+   > **解析**：sunshine 不可数，用 lots of 修饰；there is 表示存在。
 
-18. **中文**：你一定要从山脊顶部看看落日。
-   **英文**：You have got to see the sunset from the top of the ridge.
-   > **解析**：have got to 表示“必须/一定要”；sunset 意为“落日”。
+18. **中文**：预报说明天会下雨。
+   **英文**：The forecast says it will rain tomorrow.
+   > **解析**：forecast 拟人化搭配 says；it will rain 是宾语从句。
 
-19. **中文**：节日是在自然保护区入口附近举办的。
-   **英文**：The festival was held near the entrance of the nature reserve.
-   > **解析**：held 是 hold 的过去分词，was held 意为“被举办”。
+19. **中文**：夜里下雨了。
+   **英文**：It rained overnight.
+   > **解析**：rained 是过去式；overnight 作副词表示"整夜"。
 
-20. **中文**：秋天阵阵强风吹过狭窄的峡谷。
-   **英文**：Strong gusts of wind blow through the narrow canyon in autumn.
-   > **解析**：blow 表示“吹/刮”；gusts of wind 意为“阵风”。
+20. **中文**：那里的气候怎么样？
+   **英文**：What is the climate like there?
+   > **解析**：what is ... like 是"……怎么样"的固定句型；there 是副词"那里"。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. A strong coastal wind blew across the sandy beach all day.
-   > **中文**：一整天强烈的海岸风吹过了沙滩。
+1. What is the forecast for tomorrow?
+   > **中文**：明天的天气预报是什么？
 
-2. We rode a camel across the vast desert dunes during our trip.
-   > **中文**：我们在旅行期间骑骆驼穿过了广阔的沙漠沙丘。
+2. The wind blew hard.
+   > **中文**：风刮得很猛。
 
-3. The Mediterranean climate is famous for warm, dry summers.
-   > **中文**：地中海气候以温暖干燥的夏天而闻名。
+3. The wind will blow all day.
+   > **中文**：风会刮一整天。
 
-4. They drove along the picturesque Pacific coast during vacation.
-   > **中文**：假期里他们沿着风景如画的太平洋海岸开车。
+4. The climate is mild here.
+   > **中文**：这里的气候很温和。
 
-5. Hawaii is a very popular travel destination for families.
-   > **中文**：夏威夷是对家庭而言非常受欢迎的旅游目的地。
+5. We have got to go now.
+   > **中文**：我们现在得走了。
 
-6. Watch out for fallen tree branches on the hiking trail.
-   > **中文**：徒步从小路上注意掉落的树枝。
+6. She grew up on the coast.
+   > **中文**：她在海边长大。
 
-7. According to the weather forecast, it will rain tomorrow afternoon.
-   > **中文**：根据天气预报，明天下午会下雨。
+7. Many leaves have fallen.
+   > **中文**：很多树叶已经落了。
 
-8. Wild berry bushes grew along the edge of the forest path.
-   > **中文**：野生浆果灌木丛沿着森林小径边缘生长。
+8. He held my hand.
+   > **中文**：他握住了我的手。
 
-9. Winters in the valley are surprisingly mild compared to the mountains.
-   > **中文**：与山区相比，山谷里的冬天出奇地温和。
+9. We are traveling northeast.
+   > **中文**：我们正在向东北方向行进。
 
-10. The tour bus traveled through the northeast region of the state.
-   > **中文**：观光巴士穿过了该州的东北部地区。
+10. The northwest is cold.
+   > **中文**：西北部很冷。
 
-11. They decided to camp overnight near the edge of the lake.
-   > **中文**：他们决定在湖边野营过夜。
+11. This region has lots of sunshine.
+   > **中文**：这个地区阳光充足。
 
-12. The Rocky Mountain range offers breathtaking views for hikers.
-   > **中文**：洛矶山脉为徒步旅行者提供了令人屏息的景象。
+12. The temperature range is large.
+   > **中文**：温差很大。
 
-13. This coastal region is rich in natural resources and forest land.
-   > **中文**：这个沿海地区自然资源和森林土地丰富。
+13. What is our next destination?
+   > **中文**：我们的下一站是哪里？
 
-14. Warm sunshine filled the meadow on a clear summer morning.
-   > **中文**：晴朗的夏日早晨，温暖的阳光洒满了草地。
+14. The whale swam near the boat.
+   > **中文**：鲸鱼在船附近游动。
 
-15. A massive wave swept onto the shore during high tide.
-   > **中文**：高潮期间一朵巨大的海浪卷上了海岸。
+15. The camel walked slowly.
+   > **中文**：骆驼慢慢地走着。
 
-16. We were lucky enough to spot an ocean whale near the boat.
-   > **中文**：我们非常幸运地在船附近发现了一头海洋鲸鱼。
+16. Look at the wildlife.
+   > **中文**：看那些野生动物。
 
-17. The national park protects local wildlife and natural habitats.
-   > **中文**：国家公园保护当地的野生动物和自然栖息地。
+17. A wave came over the boat.
+   > **中文**：一个浪头打过了船身。
 
-18. You have got to see the sunset from the top of the ridge.
-   > **中文**：你一定要从山脊顶部看看落日。
+18. It will rain overnight.
+   > **中文**：夜里会下雨。
 
-19. The festival was held near the entrance of the nature reserve.
-   > **中文**：节日是在自然保护区入口附近举办的。
+19. The southeast is warm in winter.
+   > **中文**：东南部冬天很暖和。
 
-20. Strong gusts of wind blow through the narrow canyon in autumn.
-   > **中文**：秋天阵阵强风吹过狭窄的峡谷。
+20. The southwest has dry weather.
+   > **中文**：西南部天气干燥。
 
 </quiz-listening>
 
@@ -211,26 +202,46 @@ have got to = must（必须）。blow → blew → blown。
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| blew | 吹（blow的过去式） |
+| blew | 吹（过去式） |
+| blow | 吹 |
 | camel | 骆驼 |
 | climate | 气候 |
 | coast | 海岸 |
 | destination | 目的地 |
-| fallen | 掉落的 / 倒下的 |
+| fallen | 落下（过去分词） |
 | forecast | 预报 |
-| grew | 生长（grow的过去式） |
+| grew | 生长（过去式） |
+| have got to | 必须 |
+| held | 握住（过去式） |
 | mild | 温和的 |
-| northeast | 东北部 |
-| overnight | 整夜的 / 在夜间 |
-| range | 山脉 / 范围 |
+| northeast | 东北 |
+| northwest | 西北 |
+| overnight | 整夜 / 过夜 |
+| range | 范围 / 幅度 |
 | region | 地区 |
+| southeast | 东南 |
+| southwest | 西南 |
 | sunshine | 阳光 |
-| wave | 海浪 |
+| wave | 波浪 |
 | whale | 鲸鱼 |
+| what is | ……是什么 |
 | wildlife | 野生动物 |
-| have got to | 必须 / 一定要 |
-| held | 举办（hold的过去式） |
-| blow | 吹 / 刮 |
+| the | 这 / 那（定冠词） |
+| is | 是（单数） |
+| will | 将要 |
+| it | 它 |
+| there | 那里 / 存在 |
+| for | 为了 / 对于 |
+| in | 在……里 |
+| on | 在……上 |
+| our | 我们的 |
+| a | 一（个） |
+| to | 到 / 向 |
+| near | 在……附近 |
+| here | 这里 |
+| lots of | 许多 |
+| rain | 下雨 |
+| up | 向上 |
 
 </quiz-matching>
 
@@ -238,202 +249,202 @@ have got to = must（必须）。blow → blew → blown。
 
 ### 1
 
-A strong coastal wind ____ across the sandy beach all day.
+What ____ the forecast for tomorrow?
 
-- [x] blew
-- [ ] blow
-- [ ] camel
+- [x] is
+- [ ] are
+- [ ] be
 
-> **解析**：**blew** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：forecast 是单数，搭配 is；are 用于复数，be 不能直接作谓语。
 
 ### 2
 
-We rode a ____ across the vast desert dunes during our trip.
+The wind ____ all night yesterday.
 
-- [x] camel
-- [ ] blew
+- [x] blew
 - [ ] blow
+- [ ] blown
 
-> **解析**：**camel** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yesterday 提示过去时，用 blew；blown 需搭配 have。
 
 ### 3
 
-The Mediterranean ____ is famous for warm, dry summers.
+The leaves have ____ from the trees.
 
-- [x] climate
-- [ ] blew
-- [ ] blow
+- [x] fallen
+- [ ] fell
+- [ ] fall
 
-> **解析**：**climate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：have 后需要过去分词 fallen；fell 是过去式，fall 是原形。
 
 ### 4
 
-They drove along the picturesque Pacific ____ during vacation.
+She ____ up near the coast.
 
-- [x] coast
-- [ ] blew
-- [ ] blow
+- [x] grew
+- [ ] grow
+- [ ] grown
 
-> **解析**：**coast** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：讲述过去用 grew（grow 的过去式）；grown 需搭配 have。
 
 ### 5
 
-Hawaii is a very popular travel ____ for families.
+He ____ the door open for us.
 
-- [x] destination
-- [ ] blew
-- [ ] blow
+- [x] held
+- [ ] hold
+- [ ] holding
 
-> **解析**：**destination** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去的事用 held；holding 不能单独作谓语。
 
 ### 6
 
-Watch out for ____ tree branches on the hiking trail.
+The weather is ____ today, not too hot or cold.
 
-- [x] fallen
-- [ ] blew
-- [ ] blow
+- [x] mild
+- [ ] wild
+- [ ] mile
 
-> **解析**：**fallen** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：不冷不热是 mild（温和的）；wild 是"野生的"，mile 是"英里"。
 
 ### 7
 
-According to the weather ____, it will rain tomorrow afternoon.
+There is lots of ____ in this region.
 
-- [x] forecast
-- [ ] blew
-- [ ] blow
+- [x] sunshine
+- [ ] wave
+- [ ] climate
 
-> **解析**：**forecast** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：lots of sunshine（阳光）符合语境；wave 是可数名词，climate 不能被"大量存在"这样描述。
 
 ### 8
 
-Wild berry bushes ____ along the edge of the forest path.
+We have got ____ leave early.
 
-- [x] grew
-- [ ] blew
-- [ ] blow
+- [x] to
+- [ ] for
+- [ ] at
 
-> **解析**：**grew** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：have got to 后接动词原形；for 和 at 不构成该结构。
 
 ### 9
 
-Winters in the valley are surprisingly ____ compared to the mountains.
+They live in the ____ of the country.
 
-- [x] mild
-- [ ] blew
-- [ ] blow
+- [x] northeast
+- [ ] sunshine
+- [ ] camel
 
-> **解析**：**mild** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：国家的方位用 northeast；sunshine 和 camel 不是方位。
 
 ### 10
 
-The tour bus traveled through the ____ region of the state.
+The ____ coast is rainy.
 
-- [x] northeast
-- [ ] blew
-- [ ] blow
+- [x] northwest
+- [ ] whale
+- [ ] range
 
-> **解析**：**northeast** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 coast 需要方位词 northwest；whale 和 range 不能这样修饰。
 
 ### 11
 
-They decided to camp ____ near the edge of the lake.
+The ____ of the island is beautiful.
 
-- [x] overnight
-- [ ] blew
-- [ ] blow
+- [x] coast
+- [ ] forecast
+- [ ] held
 
-> **解析**：**overnight** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：岛屿的海岸 coast 很美；forecast 是预报，held 是动词过去式。
 
 ### 12
 
-The Rocky Mountain ____ offers breathtaking views for hikers.
+This ____ has a dry climate.
 
-- [x] range
-- [ ] blew
+- [x] region
+- [ ] overnight
 - [ ] blow
 
-> **解析**：**range** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：有干燥气候的是地区 region；overnight 是副词，blow 是动词。
 
 ### 13
 
-This coastal ____ is rich in natural resources and forest land.
+The temperature ____ is wide here.
 
-- [x] region
-- [ ] blew
-- [ ] blow
+- [x] range
+- [ ] whale
+- [ ] coast
 
-> **解析**：**region** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：温度幅度用 range；whale 和 coast 与此语境无关。
 
 ### 14
 
-Warm ____ filled the meadow on a clear summer morning.
+Our next ____ is a small town.
 
-- [x] sunshine
-- [ ] blew
+- [x] destination
+- [ ] mild
 - [ ] blow
 
-> **解析**：**sunshine** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：下一站是目的地 destination；mild 是形容词，blow 是动词。
 
 ### 15
 
-A massive ____ swept onto the shore during high tide.
+I saw a ____ in the sea.
 
-- [x] wave
-- [ ] blew
-- [ ] blow
+- [x] whale
+- [ ] wave
+- [ ] while
 
-> **解析**：**wave** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：海里看到的大型动物是 whale（鲸鱼）；wave 是波浪，while 是连词。
 
 ### 16
 
-We were lucky enough to spot an ocean ____ near the boat.
+A big ____ hit the shore.
 
-- [x] whale
-- [ ] blew
-- [ ] blow
+- [x] wave
+- [ ] whale
+- [ ] grew
 
-> **解析**：**whale** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：拍打岸边的是波浪 wave；whale 不合语境，grew 是动词。
 
 ### 17
 
-The national park protects local ____ and natural habitats.
+____ live in the desert.
 
-- [x] wildlife
-- [ ] blew
-- [ ] blow
+- [x] Camels
+- [ ] Wave
+- [ ] Climate
 
-> **解析**：**wildlife** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：生活在沙漠里的是骆驼 camels；wave 和 climate 不是动物。
 
 ### 18
 
-You have got to see the ____ from the top of the ridge.
+The ____ here includes birds and deer.
 
-- [x] sunset
-- [ ] blew
-- [ ] blow
+- [x] wildlife
+- [ ] forecast
+- [ ] held
 
-> **解析**：**sunset** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：包括鸟和鹿的是野生动物 wildlife；forecast 是预报，held 是动词。
 
 ### 19
 
-The festival was ____ near the entrance of the nature reserve.
+It rained ____, so the ground is wet.
 
-- [x] held
-- [ ] blew
-- [ ] blow
+- [x] overnight
+- [ ] northeast
+- [ ] mild
 
-> **解析**：**held** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：整夜下雨用 overnight；northeast 是方位，mild 是形容词。
 
 ### 20
 
-Strong gusts of wind ____ through the narrow canyon in autumn.
+The ____ says it will snow.
 
-- [x] blow
-- [ ] blew
-- [ ] camel
+- [x] forecast
+- [ ] region
+- [ ] range
 
-> **解析**：**blow** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：预报下雪的是 forecast；region 和 range 不能"说"。
 
 </quiz-cloze>

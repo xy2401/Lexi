@@ -10,32 +10,33 @@ agency, atmosphere, been, cave, crew, departure, get into, go on, go through, go
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"旅行中看管好随身物品"展开，同时涉及丰富的旅游活动和场景。词表里有旅行设施和服务（spa, hot tub, massage, golf course, agency）、自然景观（cave, scenery, port）和安全相关表达（life jacket, keep an eye on, in case, stay behind）。
+本单元的主题是"旅行与随身物品"。词表可以分成三组：旅行设施与活动词（agency, port, cave, golf course, spa, hot tub, massage, scenery, kangaroo, crew）、行程动作短语（departure, get into, go on, go through, stay behind, work out, how far, in case, keep an eye on）、以及状态表达（been, there's been, atmosphere, spectacular, tourism, welcome）。拼起来就是旅行团场景：Welcome to the tour! There's been a change to the departure time. Keep an eye on your bag while we go through the cave.
 
-你可以练习描述旅行体验：There's been a change in the departure time. / How far is the cave from the port? / Keep an eye on your bags in case someone gets into them. / The scenery is spectacular—welcome to Australia, home of the kangaroo!
+语法主线是 there's been 与 there have been。there's been 是 there has been 的缩写，表示"已经发生/有"：There's been a change.（有个变动。）there's 后接单数或不可数名词。另一条主线是旅行动词短语群：go on a tour（参加游览）、go through a cave（穿过洞穴）、get into the boat（上船）、stay behind（掉队/留下）。这些短语的方向小品词（on, through, into, behind）决定含义，需要整块记忆。keep an eye on（照看）是本单元的招牌短语。
 
-been 和 there's been 提示现在完成时的使用。go on, go through, get into 这组短语动词让表达更生动。crew 指机组或船员，work out 可以指"解决问题"或"锻炼"。
+学完这些词，你能用英语跟团出行、询问行程与距离、提醒同伴照看随身物品，并描述旅途中的景色与设施。
 
 ## Tips
 
-- **keep an eye on / in case / stay behind** — keep an eye on = 留意、看管（Keep an eye on my bag.）。in case = 以防万一（Take an umbrella in case it rains.）。stay behind = 留下来、留在后面（Don't stay behind—come with us!）。
+- **keep an eye on** — "照看、留意"：Keep an eye on your belongings.（照看好随身物品。）eye 用单数，是固定习惯。旅行安全话题的核心短语。
 
-- **get into / go on / go through** — get into 可指"进入"（get into the car）或"陷入"（get into trouble）。go on = 继续、发生（What's going on?）。go through = 经历、穿过（go through customs 过海关）。这三个短语动词在旅行场景中高频出现。
+- **there's been / been** — there's been = there has been：There's been an accident.（出事了。）/ There's been a change.（有变动。）been 是 be 的过去分词，与 has 构成现在完成时，强调"到目前为止已发生"。
 
-- **scenery / spectacular / atmosphere** — scenery = 风景（不可数名词，不说 a scenery，用 a piece of scenery 或直接 the scenery）。spectacular = 壮观的（a spectacular view）。atmosphere = 氛围、气氛，也可指大气层。
+- **go on / go through / get into / stay behind** — 四个旅行方向短语。go on a tour（参加游览）；go through 穿过：go through the cave；get into 进入：get into the car/boat；stay behind 留下、掉队：Don't stay behind. 小品词决定方向。
 
-- **spa / hot tub / massage / golf course** — spa = 水疗中心。hot tub = 热水浴缸（也叫 Jacuzzi，但 Jacuzzi 是品牌名）。massage = 按摩（注意重音在第二个音节 /məˈsɑːʒ/）。golf course = 高尔夫球场。
+- **how far** — "多远"，问距离：How far is the port? 与 how long（多长时间）区分：how far 问路程，how long 问时长。
 
-- **cave / port / kangaroo** — cave = 洞穴。port = 港口（注意和 airport 区分）。kangaroo = 袋鼠，澳大利亚的标志性动物。搭配：explore a cave, arrive at the port, see kangaroos in the wild。
+- **in case** — "以防、万一"：Take an umbrella in case it rains. in case 引导目的性从句，从句常用现在时。
 
-- **departure / crew / agency** — departure = 出发、起飞（departure time, departure gate）。crew = 全体机组人员/船员（the cabin crew 空乘人员）。agency = 代理机构（a travel agency 旅行社）。
+- **departure / port / crew / agency** — 行程四词。departure 出发、出发时间：departure time；port 港口；crew 机组/全体工作人员；agency 旅行社（travel agency）。
 
-- **life jacket / work out / there's been** — life jacket = 救生衣。work out 含义丰富：锻炼（I work out every day.）、解决（Things will work out.）、算出（work out the cost）。there's been = there has been，现在完成时，表示"已经发生了……"。
+- **spa / hot tub / massage / golf course** — 度假设施四词。spa 水疗中心；hot tub 热水浴缸；massage 按摩，名词动词皆可；golf course 高尔夫球场。
 
-- **welcome / how far / been** — welcome 可作感叹词（Welcome to Sydney!）、形容词（You're welcome.）和动词（We welcome you.）。how far 询问距离（How far is it?）。been 是 be 的过去分词，I've been to... = 我去过……。
+- **cave / kangaroo / scenery** — cave 洞穴；kangaroo 袋鼠（澳洲旅行标志词）；scenery 风景，不可数：beautiful scenery. 注意 scenery 没有复数。
+
+- **spectacular / atmosphere / welcome / tourism / work out** — spectacular 壮观的：a spectacular view；atmosphere 氛围：a relaxed atmosphere；welcome 欢迎：Welcome aboard!（欢迎登机/船！）；tourism 旅游业；work out 锻炼，也可指"解决、顺利"：Everything worked out.（一切顺利。）
 
 ## 练习
 
@@ -53,149 +54,149 @@ been 和 there's been 提示现在完成时的使用。go on, go through, get in
 
 <quiz-sentence-builder>
 
-1. **中文**：我们通过当地著名的旅行机构预订了本次游行程。
-   **英文**：We booked our flight through a travel agency.
-   > **解析**：agency 表示“机构/旅行社”。
+1. **中文**：欢迎参加本次旅行。
+   **英文**：Welcome to the tour.
+   > **解析**：Welcome to + 地点/活动 是固定表达；tour 指有组织的游览。
 
-2. **中文**：这家海滨度假酒店拥有非常轻松愉悦的氛围。
-   **英文**：The resort has a relaxing beach atmosphere.
-   > **解析**：atmosphere 表示“氛围/环境”。
+2. **中文**：出发时间有变动。
+   **英文**：There's been a change to the departure time.
+   > **解析**：there's been = there has been，表示"已发生"；a change 是可数名词单数。
 
-3. **中文**：探险队深入地下探寻了一座神秘的天然山洞。
-   **英文**：The guide led tourists inside a deep limestone cave.
-   > **解析**：cave 表示“山洞/洞穴”。
+3. **中文**：请照看好你的随身物品。
+   **英文**：Please keep an eye on your belongings.
+   > **解析**：keep an eye on 是固定短语；belongings 常用复数，表示随身物品。
 
-4. **中文**：航班机组人员在飞行期间提供了热情周到的服务。
-   **英文**：The flight crew ensured safety for all passengers.
-   > **解析**：crew 表示“机组人员/船员”。
+4. **中文**：我们要穿过洞穴。
+   **英文**：We are going through the cave.
+   > **解析**：are going 是现在进行时表计划；through 表示"穿过内部"。
 
-5. **中文**：请在航班离港起飞前两小时到达国际机场。
-   **英文**：Check the flight board for exact departure time.
-   > **解析**：departure 表示“离港/出发”。
+5. **中文**：上船前请穿上救生衣。
+   **英文**：Please put on the life jacket before you get into the boat.
+   > **解析**：put on 表示"穿上"；get into the boat 表示"上船"。
 
-6. **中文**：度假村内部拥有一个标准标准的十八洞高尔夫球场。
-   **英文**：He enjoys playing at the local golf course.
-   > **解析**：golf course 表示“高尔夫球场”。
+6. **中文**：港口有多远？
+   **英文**：How far is the port?
+   > **解析**：how far 问距离；is 与单数主语 the port 搭配。
 
-7. **中文**：滑雪一整天后，泡在温暖的热水浴缸里极为舒适。
-   **英文**：Relaxing inside a warm hot tub feels great in winter.
-   > **解析**：hot tub 表示“热水浴缸/温泉缸”。
+7. **中文**：带上雨伞以防下雨。
+   **英文**：Take an umbrella in case it rains.
+   > **解析**：in case 引导从句表"以防"；从句用现在时 rains。
 
-8. **中文**：随身携带一把雨伞，以防万一路上突降大雨。
-   **英文**：Take an umbrella in case it rains this afternoon.
-   > **解析**：in case 表示“以防万一/万一”。
+8. **中文**：我们明天去参加游览。
+   **英文**：We will go on the tour tomorrow.
+   > **解析**：will go 是一般将来时；go on the tour 是固定搭配。
 
-9. **中文**：我们在澳大利亚野生动物园看到了跳跃的袋鼠。
-   **英文**：We saw wild kangaroo jumping across the open grass.
-   > **解析**：kangaroo 表示“袋鼠”。
+9. **中文**：别掉队。
+   **英文**：Don't stay behind.
+   > **解析**：否定祈使句用 Don't + 动词原形；stay behind 表示"落在后面"。
 
-10. **中文**：在拥挤的游乐园里，请时刻照看好随行的小孩。
-   **英文**：Please keep an eye on your personal belongings.
-   > **解析**：keep an eye on 表示“照看/留意”。
+10. **中文**：工作人员会帮助你。
+   **英文**：The crew will help you.
+   > **解析**：crew 作整体看待时谓语可用单数 will；help 是及物动词。
 
-11. **中文**：乘船出海前，所有旅客必须正确穿戴好救生衣。
-   **英文**：Wear a life jacket when going out on a boat.
-   > **解析**：life jacket 表示“救生衣”。
+11. **中文**：旅行社安排了行程。
+   **英文**：The agency arranged the trip.
+   > **解析**：arranged 是 arrange 的过去式；the trip 是宾语。
 
-12. **中文**：观光了一整天后，她享受了一次全身舒缓按摩。
-   **英文**：She booked a relaxing foot massage at the spa.
-   > **解析**：massage 表示“按摩/推拿”。
+12. **中文**：这里的风景很壮观。
+   **英文**：The scenery here is spectacular.
+   > **解析**：scenery 是不可数名词，用 is；spectacular 作表语。
 
-13. **中文**：豪华邮轮缓缓驶入了景色优美的自然港口。
-   **英文**：The cruise ship docked at the international port.
-   > **解析**：port 表示“港口/码头”。
+13. **中文**：这家水疗中心的氛围很好。
+   **英文**：The spa has a relaxing atmosphere.
+   > **解析**：has 与单数主语搭配；relaxing 修饰 atmosphere。
 
-14. **中文**：高山上的高空自然风景让人心旷神怡。
-   **英文**：The mountain scenery took our breath away yesterday.
-   > **解析**：scenery 表示“风景/景色”。
+14. **中文**：我想预约一次按摩。
+   **英文**：I want to book a massage.
+   > **解析**：want 后接不定式 to book；a massage 是可数名词单数。
 
-15. **中文**：酒店的温泉水疗中心提供全身护理项目。
-   **英文**：They spent the afternoon relaxing at a luxury spa.
-   > **解析**：spa 表示“水疗/温泉SPA”。
+15. **中文**：热水浴缸在露台上。
+   **英文**：The hot tub is on the terrace.
+   > **解析**：is 与单数主语搭配；on the terrace 是地点状语。
 
-16. **中文**：山顶上的落日景象真是无比壮观的。
-   **英文**：We enjoyed a spectacular view from the ridge top.
-   > **解析**：spectacular 表示“壮观的/引人注目的”。
+16. **中文**：高尔夫球场在海边。
+   **英文**：The golf course is by the sea.
+   > **解析**：is 与单数主语搭配；by the sea 表示"在海边"。
 
-17. **中文**：队伍继续前行，而导游留下来协助落单游客。
-   **英文**：One guide decided to stay behind to help hikers.
-   > **解析**：stay behind 表示“留下来/留在后面”。
+17. **中文**：我们在澳洲看到了袋鼠。
+   **英文**：We saw kangaroos in Australia.
+   > **解析**：saw 是 see 的过去式；kangaroos 用复数。
 
-18. **中文**：生态旅游业为当地居民创造了大量的就业机会。
-   **英文**：Sustainable tourism brings income to local towns.
-   > **解析**：tourism 表示“旅游业/观光业”。
+18. **中文**：旅游业在这里很重要。
+   **英文**：Tourism is important here.
+   > **解析**：tourism 是不可数名词，用 is；here 是副词。
 
-19. **中文**：热情的度假村工作人员热烈欢迎各地游客的到来。
-   **英文**：The hotel staff gave us a warm welcome upon arrival.
-   > **解析**：welcome 表示“欢迎”。
+19. **中文**：一切都顺利解决了。
+   **英文**：Everything worked out.
+   > **解析**：worked out 是过去式；work out 此处表示"顺利、解决"。
 
-20. **中文**：在酒店的健身房里适当锻炼能让人保持活力。
-   **英文**：He likes to work out at the resort gym daily.
-   > **解析**：work out 表示“锻炼/解决”。
+20. **中文**：你以前来过这里吗？
+   **英文**：Have you been here before?
+   > **解析**：have been 表示"来过"；before 是副词，放句末。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We booked our flight through a travel agency.
-   > **中文**：我们通过当地著名的旅行机构预订了本次游行程。
+1. Welcome to the tour.
+   > **中文**：欢迎参加本次旅行。
 
-2. The resort has a relaxing beach atmosphere.
-   > **中文**：这家海滨度假酒店拥有非常轻松愉悦的氛围。
+2. There's been a change to the departure time.
+   > **中文**：出发时间有变动。
 
-3. The guide led tourists inside a deep limestone cave.
-   > **中文**：探险队深入地下探寻了一座神秘的天然山洞。
+3. Please keep an eye on your belongings.
+   > **中文**：请照看好你的随身物品。
 
-4. The flight crew ensured safety for all passengers.
-   > **中文**：航班机组人员在飞行期间提供了热情周到的服务。
+4. We are going through the cave.
+   > **中文**：我们要穿过洞穴。
 
-5. Check the flight board for exact departure time.
-   > **中文**：请在航班离港起飞前两小时到达国际机场。
+5. Put on the life jacket before you get into the boat.
+   > **中文**：上船前请穿上救生衣。
 
-6. He enjoys playing at the local golf course.
-   > **中文**：度假村内部拥有一个标准标准的十八洞高尔夫球场。
+6. How far is the port?
+   > **中文**：港口有多远？
 
-7. Relaxing inside a warm hot tub feels great in winter.
-   > **中文**：滑雪一整天后，泡在温暖的热水浴缸里极为舒适。
+7. Take an umbrella in case it rains.
+   > **中文**：带上雨伞以防下雨。
 
-8. Take an umbrella in case it rains this afternoon.
-   > **中文**：随身携带一把雨伞，以防万一路上突降大雨。
+8. We will go on the tour tomorrow.
+   > **中文**：我们明天去参加游览。
 
-9. We saw wild kangaroo jumping across the open grass.
-   > **中文**：我们在澳大利亚野生动物园看到了跳跃的袋鼠。
+9. Don't stay behind.
+   > **中文**：别掉队。
 
-10. Please keep an eye on your personal belongings.
-   > **中文**：在拥挤的游乐园里，请时刻照看好随行的小孩。
+10. The crew will help you.
+   > **中文**：工作人员会帮助你。
 
-11. Wear a life jacket when going out on a boat.
-   > **中文**：乘船出海前，所有旅客必须正确穿戴好救生衣。
+11. The agency arranged the trip.
+   > **中文**：旅行社安排了行程。
 
-12. She booked a relaxing foot massage at the spa.
-   > **中文**：观光了一整天后，她享受了一次全身舒缓按摩。
+12. The scenery here is spectacular.
+   > **中文**：这里的风景很壮观。
 
-13. The cruise ship docked at the international port.
-   > **中文**：豪华邮轮缓缓驶入了景色优美的自然港口。
+13. The spa has a relaxing atmosphere.
+   > **中文**：这家水疗中心的氛围很好。
 
-14. The mountain scenery took our breath away yesterday.
-   > **中文**：高山上的高空自然风景让人心旷神怡。
+14. I want to book a massage.
+   > **中文**：我想预约一次按摩。
 
-15. They spent the afternoon relaxing at a luxury spa.
-   > **中文**：酒店的温泉水疗中心提供全身护理项目。
+15. The hot tub is on the terrace.
+   > **中文**：热水浴缸在露台上。
 
-16. We enjoyed a spectacular view from the ridge top.
-   > **中文**：山顶上的落日景象真是无比壮观的。
+16. The golf course is by the sea.
+   > **中文**：高尔夫球场在海边。
 
-17. One guide decided to stay behind to help hikers.
-   > **中文**：队伍继续前行，而导游留下来协助落单游客。
+17. We saw kangaroos in Australia.
+   > **中文**：我们在澳洲看到了袋鼠。
 
-18. Sustainable tourism brings income to local towns.
-   > **中文**：生态旅游业为当地居民创造了大量的就业机会。
+18. Tourism is important here.
+   > **中文**：旅游业在这里很重要。
 
-19. The hotel staff gave us a warm welcome upon arrival.
-   > **中文**：热情的度假村工作人员热烈欢迎各地游客的到来。
+19. Everything worked out.
+   > **中文**：一切都顺利解决了。
 
-20. He likes to work out at the resort gym daily.
-   > **中文**：在酒店的健身房里适当锻炼能让人保持活力。
+20. Have you been here before?
+   > **中文**：你以前来过这里吗？
 
 </quiz-listening>
 
@@ -203,26 +204,35 @@ been 和 there's been 提示现在完成时的使用。go on, go through, get in
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| agency | 机构 / 旅行社 |
+| agency | 旅行社 |
 | atmosphere | 氛围 |
-| cave | 山洞 / 洞穴 |
-| crew | 机组人员 |
-| departure | 离港 / 出发 |
+| been | be 的过去分词 |
+| cave | 洞穴 |
+| crew | 工作人员 |
+| departure | 出发 |
+| get into | 进入 |
+| go on | 参加 / 继续 |
+| go through | 穿过 |
 | golf course | 高尔夫球场 |
 | hot tub | 热水浴缸 |
-| in case | 以防万一 |
+| how far | 多远 |
+| in case | 以防 |
 | kangaroo | 袋鼠 |
-| keep an eye on | 照看 / 留意 |
+| keep an eye on | 照看 |
 | life jacket | 救生衣 |
 | massage | 按摩 |
 | port | 港口 |
-| scenery | 风景 / 景色 |
-| spa | 水疗 SPA |
+| scenery | 风景 |
+| spa | 水疗中心 |
 | spectacular | 壮观的 |
-| stay behind | 留下来 |
+| stay behind | 掉队 / 留下 |
+| there's been | 已经有（there has been） |
 | tourism | 旅游业 |
 | welcome | 欢迎 |
-| work out | 锻炼 / 解决 |
+| work out | 锻炼 / 顺利解决 |
+| is | 是（单数） |
+| the | 这个 / 那个 |
+| tour | 游览 |
 
 </quiz-matching>
 
@@ -230,202 +240,202 @@ been 和 there's been 提示现在完成时的使用。go on, go through, get in
 
 ### 1
 
-We booked our flight through a travel ____.
+Welcome ____ the tour.
 
-- [x] agency
-- [ ] atmosphere
-- [ ] been
+- [x] to
+- [ ] at
+- [ ] in
 
-> **解析**：**agency** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Welcome to 是固定搭配；其余介词不成立。
 
 ### 2
 
-The resort has a relaxing beach ____.
+There's ____ a change to the departure time.
 
-- [x] atmosphere
-- [ ] agency
-- [ ] been
+- [x] been
+- [ ] be
+- [ ] being
 
-> **解析**：**atmosphere** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：there's been = there has been，been 是过去分词；其余形式不成立。
 
 ### 3
 
-The guide led tourists inside a deep limestone ____.
+Please keep an ____ on your belongings.
 
-- [x] cave
-- [ ] agency
-- [ ] atmosphere
+- [x] eye
+- [ ] eyes
+- [ ] hand
 
-> **解析**：**cave** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：keep an eye on 是固定短语，eye 用单数；hand 不构成此表达。
 
 ### 4
 
-The flight ____ ensured safety for all passengers.
+We are going ____ the cave.
 
-- [x] crew
-- [ ] agency
-- [ ] atmosphere
+- [x] through
+- [ ] into the
+- [ ] at
 
-> **解析**：**crew** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：穿过洞穴内部用 through；at 不表穿过。
 
 ### 5
 
-Check the flight board for exact ____ time.
+Put on the life jacket before you get ____ the boat.
 
-- [x] departure
-- [ ] agency
-- [ ] atmosphere
+- [x] into
+- [ ] on into
+- [ ] through
 
-> **解析**：**departure** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get into the boat（上船）是固定搭配；through 不合此语境。
 
 ### 6
 
-He enjoys ____ at the local golf course.
+How ____ is the port?
 
-- [x] playing
-- [ ] agency
-- [ ] atmosphere
+- [x] far
+- [ ] long
+- [ ] much
 
-> **解析**：**playing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：问距离用 how far；how long 问时长，how much 问数量。
 
 ### 7
 
-____ inside a warm hot tub feels great in winter.
+Take an umbrella ____ it rains.
 
-- [x] Relaxing
-- [ ] agency
-- [ ] atmosphere
+- [x] in case
+- [ ] because
+- [ ] so
 
-> **解析**：**Relaxing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：in case 表"以防"；because 和 so 表已知因果，不合"预防"语境。
 
 ### 8
 
-Take an umbrella in case it rains this ____.
+We will go ____ the tour tomorrow.
 
-- [x] afternoon
-- [ ] agency
-- [ ] atmosphere
+- [x] on
+- [ ] in
+- [ ] at
 
-> **解析**：**afternoon** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：go on the tour 是固定搭配；其余介词不成立。
 
 ### 9
 
-We saw wild ____ jumping across the open grass.
+Don't ____ behind.
 
-- [x] kangaroo
-- [ ] agency
-- [ ] atmosphere
+- [x] stay
+- [ ] staying
+- [ ] stayed
 
-> **解析**：**kangaroo** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Don't 后接动词原形 stay；其余形式不成立。
 
 ### 10
 
-Please keep an eye on your personal ____.
+The ____ will help you.
 
-- [x] belongings
-- [ ] agency
-- [ ] atmosphere
+- [x] crew
+- [ ] crowd
+- [ ] kangaroo
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **belongings**。
+> **解析**：帮助你的是工作人员（crew）；crowd 是人群，kangaroo 是袋鼠。
 
 ### 11
 
-Wear a life ____ when going out on a boat.
+The ____ arranged the trip.
 
-- [x] jacket
-- [ ] agency
-- [ ] atmosphere
+- [x] agency
+- [ ] agenda
+- [ ] agent of
 
-> **解析**：**jacket** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：旅行社（agency）安排行程语义通顺；agenda 是议程。
 
 ### 12
 
-She booked a relaxing foot ____ at the spa.
+The ____ here is spectacular.
 
-- [x] massage
-- [ ] agency
-- [ ] atmosphere
+- [x] scenery
+- [ ] scene
+- [ ] scenes
 
-> **解析**：**massage** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：风景总称用不可数的 scenery；scene 指具体场景，此处 scenery 更自然。
 
 ### 13
 
-The cruise ship docked at the international ____.
+The spa has a relaxing ____.
 
-- [x] port
-- [ ] agency
-- [ ] atmosphere
+- [x] atmosphere
+- [ ] atmospheres
+- [ ] air of
 
-> **解析**：**port** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a relaxing atmosphere 搭配成立；atmospheres 是复数，与 a 冲突。
 
 ### 14
 
-The mountain ____ took our breath away yesterday.
+I want to book a ____.
 
-- [x] scenery
-- [ ] agency
-- [ ] atmosphere
+- [x] massage
+- [ ] mass
+- [ ] message
 
-> **解析**：**scenery** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：预约按摩（massage）；message 是消息，mass 是大量。
 
 ### 15
 
-They spent the afternoon relaxing at a luxury ____.
+The hot ____ is on the terrace.
 
-- [x] spa
-- [ ] agency
-- [ ] atmosphere
+- [x] tub
+- [ ] tube
+- [ ] cup
 
-> **解析**：**spa** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：hot tub（热水浴缸）是固定搭配；tube 是管子。
 
 ### 16
 
-We enjoyed a ____ view from the ridge top.
+The golf ____ is by the sea.
 
-- [x] spectacular
-- [ ] agency
-- [ ] atmosphere
+- [x] course
+- [ ] court
+- [ ] coarse
 
-> **解析**：**spectacular** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：golf course（高尔夫球场）是固定搭配；court 用于网球等。
 
 ### 17
 
-One guide ____ to stay behind to help hikers.
+We saw ____ in Australia.
 
-- [x] decided
-- [ ] agency
-- [ ] atmosphere
+- [x] kangaroos
+- [ ] kangaroo
+- [ ] kangarooses
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **decided**。
+> **解析**：saw 后接复数 kangaroos；kangarooses 拼写错误。
 
 ### 18
 
-Sustainable ____ brings income to local towns.
+____ is important here.
 
-- [x] tourism
-- [ ] agency
-- [ ] atmosphere
+- [x] Tourism
+- [ ] Tourist
+- [ ] Touring
 
-> **解析**：**tourism** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句首需要名词 Tourism（旅游业）；Tourist 指游客。
 
 ### 19
 
-The hotel staff gave us a warm ____ upon arrival.
+Everything ____ out.
 
-- [x] welcome
-- [ ] agency
-- [ ] atmosphere
+- [x] worked
+- [ ] working
+- [ ] works to
 
-> **解析**：**welcome** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述已发生的事用过去式 worked；work out 表"顺利"。
 
 ### 20
 
-He likes to work out at the ____ gym daily.
+Have you ____ here before?
 
-- [x] resort
-- [ ] agency
-- [ ] atmosphere
+- [x] been
+- [ ] be
+- [ ] being
 
-> **解析**：**resort** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：have been 表示"来过"，been 是过去分词；其余形式不成立。
 
 </quiz-cloze>

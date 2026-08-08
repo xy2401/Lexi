@@ -10,40 +10,33 @@ alarm clock, ambulance, angel, cough, fan, flu, fluffy, hole, lightning, lullaby
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"分享你的梦或噩梦"展开。核心是睡眠和梦境表达：I had a scary nightmare—I was in the dark and heard lightning.（我做了个可怕的噩梦——我在黑暗中听到了闪电。）、The baby fell asleep after the lullaby.（宝宝听完摇篮曲就睡着了。）、Surprisingly, the nightmare wasn't that unpleasant.（ surprisingly，那个噩梦并没有那么不愉快。）、Don't mind the noise next door.（别介意隔壁的噪音。）。
+本单元的主题是"分享梦境与噩梦"，词表可以分成三组：睡眠环境（alarm clock, mattress, sleeping bag, fan, lullaby, tent, next-door）、梦中意象（angel, nightmare, scary, the dark, wing, lightning, surprisingly）、以及身体与感觉（cough, flu, fluffy, smooth, unpleasant, touch, step, silently, hole, mind, ambulance）。拼起来就是一次睡前闲谈：I had a nightmare about lightning. Something touched my sleeping bag silently, and I was scared of the dark.
 
-词表里有睡眠词汇（nightmare, lullaby, sleeping bag, mattress）和声音词汇（silently, lightning, cough）。你可以练习：The alarm clock went off at six. / The angel had a fluffy wing. / I stepped into the tent silently. / The mattress is smooth and comfortable.
+语法主线有两个。一是 scary 与 scared 的对照：scary 描述"吓人的"事物（a scary dream），scared 描述"害怕的"人（I was scared）。二是 mind 的用法——作名词指"头脑"（keep in mind），作动词指"介意"（Do you mind...?）。另外 silently（安静地）与 smoothly（平稳地）这类 -ly 副词让描述更生动，unpleasant（不愉快的）是 pleasant 加否定前缀 un- 的反义词。
 
-nightmare 表示"噩梦"。the dark 表示"黑暗"（特指）。
+学完这单元，你能用英语讲自己的梦和噩梦、描述睡觉的环境与习惯、谈论睡前听到的声音。
 
 ## Tips
 
-- **nightmare / scary / the dark** — 噩梦 / 可怕的 / 黑暗。搭配：have a nightmare, a scary dream, afraid of the dark。例句：I had a terrible nightmare. / The dream was scary. / She's afraid of the dark. 注意 nightmare = bad dream（更强烈）。
+- **alarm clock / lullaby / sleeping bag** — 睡眠三物件。alarm clock 闹钟。lullaby 摇篮曲（lull 安抚 + -aby）。sleeping bag 睡袋，露营必备。
 
-- **lullaby / sleeping bag / mattress** — 摇篮曲 / 睡袋 / 床垫。搭配：sing a lullaby, in a sleeping bag, a soft mattress。例句：Mom sang a lullaby. / I slept in a sleeping bag. / The mattress is too hard. 注意 lullaby 是哄睡的歌。
+- **mattress / fan / tent** — mattress 床垫。fan 风扇、粉丝。tent 帐篷：sleep in a tent。
 
-- **silently / lightning / cough** — 安静地 / 闪电 / 咳嗽。搭配：walk silently, a flash of lightning, a bad cough。例句：She walked silently past the room. / I saw lightning outside. / I have a cough. 注意 silently = without sound。
+- **nightmare / scary** — nightmare 噩梦（night + mare，mare 古义为恶魔）。scary 吓人的，描述事物：a scary nightmare。人害怕是 scared。dream 是普通梦。
 
-- **alarm clock / ambulance / fan** — 闹钟 / 救护车 / 风扇。搭配：the alarm clock went off, an ambulance, turn on the fan。例句：The alarm clock woke me up. / I heard an ambulance. / Turn on the fan—it's hot. 注意 alarm clock 是"闹钟"。
+- **the dark** — 黑暗，the + 形容词表示一类抽象概念：afraid of the dark（怕黑）。同类还有 the unknown（未知）。
 
-- **fluffy / smooth / angel** — 毛茸茸的 / 光滑的 / 天使。搭配：a fluffy pillow, smooth skin, an angel。例句：The blanket is so fluffy. / The sheet is smooth. / I dreamed about an angel. 注意 fluffy 形容柔软蓬松的东西。
+- **angel / wing / lightning** — angel 天使。wing 翅膀，天使与鸟都有 wings。lightning 闪电（不可数），与 thunder（雷声）成对：lightning and thunder。注意拼写，别写成 lightening。
 
-- **tent / step / wing** — 帐篷 / 步骤（踩）/ 翅膀。搭配：in a tent, step carefully, a bird's wing。例句：We slept in a tent. / Step carefully—there's a hole. / The angel had white wings. 注意 step 可作动词（踩/走）。
+- **flu / cough** — flu 流感：catch the flu（得流感）。cough 咳嗽，名词动词同形。生病搭配：have a cough, have the flu。
 
-- **mind / next-door / surprisingly** — 介意 / 隔壁 / 令人惊讶地。搭配：Do you mind? / the next-door neighbor, surprisingly。例句：Do you mind the noise? / The next-door neighbor is loud. / Surprisingly, I slept well. 注意 Do you mind...? 用于礼貌询问。
+- **fluffy / smooth / unpleasant** — fluffy 毛绒绒的（fluff 绒毛 + -y）：a fluffy pillow。smooth 光滑的：a smooth surface。unpleasant 不愉快的（un- + pleasant）。
 
-- **flu / cough / touch** — 流感 / 咳嗽 / 触摸。搭配：have the flu, a cough, don't touch。例句：I have the flu and a cough. / Don't touch the hot fan! 注意 have the flu = 得了流感（加 the）。
+- **touch / step / silently** — touch 触摸：Don't touch the fan. step 脚步、迈步：hear someone's steps。silently 安静地（silent + -ly）：move silently。
 
-- **hole / unpleasant / step** — 洞 / 不愉快的 / 踩。搭配：a hole in the tent, an unpleasant dream, step on。例句：There's a hole in the sleeping bag. / The dream was unpleasant. / I stepped on something. 注意 step on = 踩到。
-
-- **nightmare / lullaby / alarm clock** — 噩梦 / 摇篮曲 / 闹钟。搭配：a bad nightmare, sing a lullaby, set the alarm clock。例句：The nightmare woke me up. / The lullaby was soothing. / I set the alarm clock for six. 注意这些是睡前/睡眠相关词汇。
-
-- **scary / the dark / silently** — 可怕 / 黑暗 / 安静。搭配：a scary story, in the dark, move silently。例句：Tell me a scary story. / I can't sleep in the dark. / She moved silently. 注意 in the dark = 在黑暗中。
-
-- **tent / mattress / sleeping bag** — 帐篷 / 床垫 / 睡袋。搭配：pitch a tent, a comfortable mattress, zip the sleeping bag。例句：We pitched a tent by the lake. / The mattress is too soft. / I zipped up my sleeping bag. 注意这些是露营/睡眠装备。
+- **mind / next-door / surprisingly / ambulance / hole** — mind 头脑、介意。next-door 隔壁的：the next-door neighbor。surprisingly 出人意料地：Surprisingly, the dream was pleasant. ambulance 救护车（发音重音在首音节）。hole 洞：a hole in the tent。
 
 ## 练习
 
@@ -61,149 +54,149 @@ nightmare 表示"噩梦"。the dark 表示"黑暗"（特指）。
 
 <quiz-sentence-builder>
 
-1. **中文**：听到隔壁警报器的声音，救护车闪着灯来了。  
-   **英文**：Hearing the next-door alarm clock, the ambulance came.
-   > **解析**：alarm clock 表示“闹钟”；ambulance 表示“救护车”；next-door 表示“隔壁的”。
+1. **中文**：我做了个噩梦。
+   **英文**：I had a nightmare.
+   > **解析**：had 是 have 的过去式；have a nightmare 是固定搭配。
 
-2. **中文**：在黑夜里，母亲唱着摇篮曲让孩子平稳入睡。  
-   **英文**：In the dark, the mother sang a lullaby silently.
-   > **解析**：the dark 表示“黑暗”；lullaby 表示“摇篮曲”；silently 表示“安静地/无声地”。
+2. **中文**：这个梦很吓人。
+   **英文**：The dream was scary.
+   > **解析**：scary 描述事物，作表语；was 与单数主语搭配。
 
-3. **中文**：睡在毛茸茸的弹簧床垫和睡袋里非常舒适。  
-   **英文**：Sleeping on a fluffy mattress and sleeping bag is cozy.
-   > **解析**：fluffy 表示“毛茸茸的/松软的”；mattress 表示“床垫”；sleeping bag 表示“睡袋”。
+3. **中文**：我怕黑。
+   **英文**：I am afraid of the dark.
+   > **解析**：be afraid of 是固定搭配；the dark 表示黑暗。
 
-4. **中文**：出人意料的是，那阵可怕的雷电把粉丝给吓坏了。  
-   **英文**：Surprisingly, that scary lightning frightened the fan.
-   > **解析**：surprisingly 表示“出人意料地”；scary 表示“可怕的”；lightning 表示“闪电”。
+4. **中文**：闹钟六点响了。
+   **英文**：The alarm clock rang at six.
+   > **解析**：rang 是 ring 的过去式；at six 表示钟点。
 
-5. **中文**：那个有着天使翅膀的小女孩做了一个不愉快的噩梦。  
-   **英文**：The girl with angel wings had an unpleasant nightmare.
-   > **解析**：angel 表示“天使”；wing / wings 表示“翅膀”；unpleasant 表示“令人不快的”；nightmare 表示“噩梦”。
+5. **中文**：妈妈给我唱了摇篮曲。
+   **英文**：Mom sang me a lullaby.
+   > **解析**：sang 是 sing 的过去式；sang + 人 + 物双宾语。
 
-6. **中文**：在露营帐篷里，他踩着光滑的地面轻声走动。  
-   **英文**：In the camping tent, he stepped on the smooth floor.
-   > **解析**：tent 表示“帐篷”；step / stepped 表示“踏步/走”；smooth 表示“光滑的/平整的”。
+6. **中文**：床垫很软。
+   **英文**：The mattress is soft.
+   > **解析**：soft 作表语；The mattress 是单数主语用 is。
 
-7. **中文**：小耗子在离电风扇不远的大木板上打了一个洞。  
-   **英文**：The mouse made a hole in the board near the electric fan.
-   > **解析**：hole 表示“洞/孔”；fan 表示“电风扇”。
+7. **中文**：我睡在帐篷里的睡袋中。
+   **英文**：I slept in a sleeping bag in the tent.
+   > **解析**：slept 是 sleep 的过去式；两个 in 短语层层修饰地点。
 
-8. **中文**：母亲温柔的触摸缓解了孩子咳嗽的不适。  
-   **英文**：Mother's gentle touch relieved the child's cough.
-   > **解析**：touch 表示“触摸/触碰”；cough 表示“咳嗽”。
+8. **中文**：风扇安静地转着。
+   **英文**：The fan runs silently.
+   > **解析**：runs 表示运转；silently 是副词修饰 runs。
 
-9. **中文**：隔壁邻居在有流感的季节里一直在发烧。  
-   **英文**：The next-door neighbor had flu in the cold season.
-   > **解析**：next-door 表示“隔壁的”；flu 表示“流感”。
+9. **中文**：我梦见天使有翅膀。
+   **英文**：I dreamed that the angel had wings.
+   > **解析**：dreamed 后接 that 宾语从句；wings 用复数。
 
-10. **中文**：在漆黑的环境中，任何微小的声音都会让人受惊。  
-   **英文**：In the dark, any small sound can feel scary to us.
-   > **解析**：the dark 表示“黑暗/黑夜”；scary 表示“可怕的”。
+10. **中文**：闪电照亮了天空。
+   **英文**：The lightning lit up the sky.
+   > **解析**：lit 是 light 的过去式；light up 是"照亮"。
 
-11. **中文**：闹钟在早上七点钟按时响了起来。  
-   **英文**：The alarm clock rang on time at seven in the morning.
-   > **解析**：alarm clock 表示“闹钟”。
+11. **中文**：我得了流感，一直在咳嗽。
+   **英文**：I have the flu and keep coughing.
+   > **解析**：have the flu 是固定搭配；keep coughing 表示一直咳嗽。
 
-12. **中文**：这床新做好的羽绒被感到非常蓬松而柔软。  
-   **英文**：This new quilt feels very fluffy and soft to touch.
-   > **解析**：fluffy 表示“蓬松的/毛茸茸的”。
+12. **中文**：枕头毛绒绒的。
+   **英文**：The pillow is fluffy.
+   > **解析**：fluffy 作表语，描述毛绒质感。
 
-13. **中文**：昨晚我做了一个非常可怕的噩梦。  
-   **英文**：I had a very scary nightmare last night in bed.
-   > **解析**：nightmare 表示“噩梦”。
+13. **中文**：床单又光滑又干净。
+   **英文**：The sheets are smooth and clean.
+   > **解析**：The sheets 复数主语用 are；and 连接两个形容词。
 
-14. **中文**：妈妈用温柔的声音给婴儿唱摇篮曲。  
-   **英文**：Mom sang a lullaby to help the baby fall asleep.
-   > **解析**：lullaby 表示“摇篮曲”。
+14. **中文**：有什么东西轻轻碰了我的手臂。
+   **英文**：Something touched my arm softly.
+   > **解析**：touched 是 touch 的过去式；softly 是副词。
 
-15. **中文**：请开风扇，房间里太闷热了。  
-   **英文**：Please turn on the fan, it is very hot in the room.
-   > **解析**：fan 表示“风扇”。
+15. **中文**：我听到了隔壁的脚步声。
+   **英文**：I heard steps next door.
+   > **解析**：heard 是 hear 的过去式；next door 作地点状语。
 
-16. **中文**：出人意料的是，他没有参加昨晚的睡前活动。  
-   **英文**：Surprisingly, he did not join the bedtime party.
-   > **解析**：surprisingly 表示“出人意料地”。
+16. **中文**：帐篷上有个洞。
+   **英文**：There is a hole in the tent.
+   > **解析**：There is 引导单数存在句；in the tent 说明位置。
 
-17. **中文**：他在野外露营时睡在温暖舒适的睡袋里。  
-   **英文**：He slept in a warm sleeping bag inside the tent.
-   > **解析**：sleeping bag 表示“睡袋”。
+17. **中文**：出人意料的是，那个梦很愉快。
+   **英文**：Surprisingly, the dream was pleasant.
+   > **解析**：Surprisingly 是句子副词放句首；pleasant 作表语。
 
-18. **中文**：那个可爱的小女孩画了一只带翅膀的天使。  
-   **英文**：That cute little girl drew an angel with wings.
-   > **解析**：angel 表示“天使”；wing / wings 表示“翅膀”。
+18. **中文**：这次经历不太愉快。
+   **英文**：The experience was unpleasant.
+   > **解析**：unpleasant 是 pleasant 的反义词，作表语。
 
-19. **中文**：那张昂贵的棉床垫非常平整光滑。  
-   **英文**：That expensive cotton mattress feels very smooth.
-   > **解析**：mattress 表示“床垫”；smooth 表示“光滑的”。
+19. **中文**：救护车安静地开走了。
+   **英文**：The ambulance drove away silently.
+   > **解析**：drove 是 drive 的过去式；silently 修饰 drove。
 
-20. **中文**：黑夜里突然刮起的大风听起来有些可怕。  
-   **英文**：The strong wind in the dark sounded very scary.
-   > **解析**：scary 表示“可怕的”。
+20. **中文**：你介意开着风扇睡吗？
+   **英文**：Do you mind sleeping with the fan on?
+   > **解析**：mind 后接动名词 sleeping；with the fan on 表示风扇开着。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Hearing the next-door alarm clock, the ambulance came.
-   > **中文**：听到隔壁警报器的声音，救护车闪着灯来了。
+1. I had a nightmare last night.
+   > **中文**：我昨晚做了个噩梦。
 
-2. In the dark, the mother sang a lullaby silently.
-   > **中文**：在黑夜里，母亲唱着摇篮曲让孩子平稳入睡。
+2. The dream was scary.
+   > **中文**：这个梦很吓人。
 
-3. Sleeping on a fluffy mattress and sleeping bag is cozy.
-   > **中文**：睡在毛茸茸的弹簧床垫和睡袋里非常舒适。
+3. I am afraid of the dark.
+   > **中文**：我怕黑。
 
-4. Surprisingly, that scary lightning frightened the fan.
-   > **中文**：出人意料的是，那阵可怕的雷电把粉丝给吓坏了。
+4. The alarm clock rang at six.
+   > **中文**：闹钟六点响了。
 
-5. The girl with angel wings had an unpleasant nightmare.
-   > **中文**：那个有着天使翅膀的小女孩做了一个不愉快的噩梦。
+5. Mom sang me a lullaby.
+   > **中文**：妈妈给我唱了摇篮曲。
 
-6. In the camping tent, he stepped on the smooth floor.
-   > **中文**：在露营帐篷里，他踩着光滑的地面轻声走动。
+6. The mattress is soft.
+   > **中文**：床垫很软。
 
-7. The mouse made a hole in the board near the electric fan.
-   > **中文**：小耗子在离电风扇不远的大木板上打了一个洞。
+7. I slept in a sleeping bag.
+   > **中文**：我睡在睡袋里。
 
-8. Mother's gentle touch relieved the child's cough.
-   > **中文**：母亲温柔的触摸缓解了孩子咳嗽的不适。
+8. The fan runs silently.
+   > **中文**：风扇安静地转着。
 
-9. The next-door neighbor had flu in the cold season.
-   > **中文**：隔壁邻居在有流感的季节里一直在发烧。
+9. I dreamed that the angel had wings.
+   > **中文**：我梦见天使有翅膀。
 
-10. In the dark, any small sound can feel scary to us.
-   > **中文**：在漆黑的环境中，任何微小的声音都会让人受惊。
+10. The lightning lit up the sky.
+   > **中文**：闪电照亮了天空。
 
-11. The alarm clock rang on time at seven in the morning.
-   > **中文**：闹钟在早上七点钟按时响了起来。
+11. I have the flu and keep coughing.
+   > **中文**：我得了流感，一直在咳嗽。
 
-12. This new quilt feels very fluffy and soft to touch.
-   > **中文**：这床新做好的羽绒被感到非常蓬松而柔软。
+12. The pillow is fluffy.
+   > **中文**：枕头毛绒绒的。
 
-13. I had a very scary nightmare last night in bed.
-   > **中文**：昨晚我做了一个非常可怕的噩梦。
+13. The sheets are smooth.
+   > **中文**：床单很光滑。
 
-14. Mom sang a lullaby to help the baby fall asleep.
-   > **中文**：妈妈用温柔的声音给婴儿唱摇篮曲。
+14. Something touched my arm.
+   > **中文**：有什么东西碰了我的手臂。
 
-15. Please turn on the fan, it is very hot in the room.
-   > **中文**：请开风扇，房间里太闷热了。
+15. I heard steps next door.
+   > **中文**：我听到了隔壁的脚步声。
 
-16. Surprisingly, he did not join the bedtime party.
-   > **中文**：出人意料的是，他没有参加昨晚的睡前活动。
+16. There is a hole in the tent.
+   > **中文**：帐篷上有个洞。
 
-17. He slept in a warm sleeping bag inside the tent.
-   > **中文**：他在野外露营时睡在温暖舒适的睡袋里。
+17. Surprisingly, the dream was pleasant.
+   > **中文**：出人意料的是，那个梦很愉快。
 
-18. That cute little girl drew an angel with wings.
-   > **中文**：那个可爱的小女孩画了一只带翅膀的天使。
+18. The experience was unpleasant.
+   > **中文**：这次经历不太愉快。
 
-19. That expensive cotton mattress feels very smooth.
-   > **中文**：那张昂贵的棉床垫非常平整光滑。
+19. The ambulance drove away silently.
+   > **中文**：救护车安静地开走了。
 
-20. The strong wind in the dark sounded very scary.
-   > **中文**：黑夜里突然刮起的大风听起来有些可怕。
+20. Do you mind sleeping with the fan on?
+   > **中文**：你介意开着风扇睡吗？
 
 </quiz-listening>
 
@@ -217,20 +210,31 @@ nightmare 表示"噩梦"。the dark 表示"黑暗"（特指）。
 | cough | 咳嗽 |
 | fan | 风扇 |
 | flu | 流感 |
-| fluffy | 蓬松的 / 毛茸茸的 |
-| hole | 洞 / 孔 |
+| fluffy | 毛绒绒的 |
+| hole | 洞 |
 | lightning | 闪电 |
 | lullaby | 摇篮曲 |
 | mattress | 床垫 |
+| mind | 头脑 / 介意 |
 | next-door | 隔壁的 |
 | nightmare | 噩梦 |
-| scary | 可怕的 |
-| silently | 无声地 / 安静地 |
+| scary | 吓人的 |
+| silently | 安静地 |
 | sleeping bag | 睡袋 |
-| smooth | 光滑的 / 平整的 |
-| step | 踏步 / 步骤 |
+| smooth | 光滑的 |
+| step | 脚步 / 迈步 |
 | surprisingly | 出人意料地 |
-| the dark | 黑暗 / 黑夜 |
+| tent | 帐篷 |
+| the dark | 黑暗 |
+| touch | 触摸 |
+| unpleasant | 不愉快的 |
+| wing | 翅膀 |
+| is | 是（单数） |
+| was | 是（过去式） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| my | 我的 |
+| and | 和 |
 
 </quiz-matching>
 
@@ -238,202 +242,202 @@ nightmare 表示"噩梦"。the dark 表示"黑暗"（特指）。
 
 ### 1
 
-Hearing the ____ alarm clock, the ambulance came.
+I had a ____ last night.
 
-- [x] next-door
-- [ ] alarm clock
-- [ ] ambulance
+- [x] nightmare
+- [ ] nightmared
+- [ ] nightmaring
 
-> **解析**：**next-door** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后需要名词 nightmare"噩梦"；后两项不是单词。
 
 ### 2
 
-In the dark, the mother sang a ____ silently.
+The dream was ____.
 
-- [x] lullaby
-- [ ] alarm clock
-- [ ] ambulance
+- [x] scary
+- [ ] scared
+- [ ] scariness
 
-> **解析**：**lullaby** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：描述梦"吓人"用 scary；scared 描述人的感受，scariness 非常用名词。
 
 ### 3
 
-Sleeping on a ____ mattress and sleeping bag is cozy.
+I am afraid of the ____.
 
-- [x] fluffy
-- [ ] alarm clock
-- [ ] ambulance
+- [x] dark
+- [ ] darkly
+- [ ] darkness of
 
-> **解析**：**fluffy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the dark 是固定表达"黑暗"；darkly 是副词，darkness of 结构不当。
 
 ### 4
 
-____, that scary lightning frightened the fan.
+The alarm ____ rang at six.
 
-- [x] Surprisingly
-- [ ] alarm clock
-- [ ] ambulance
+- [x] clock
+- [ ] clocks
+- [ ] watch
 
-> **解析**：**Surprisingly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：alarm clock 是固定复合词"闹钟"；watch 是手表。
 
 ### 5
 
-The girl with ____ wings had an unpleasant nightmare.
+Mom sang me a ____.
 
-- [x] angel
-- [ ] alarm clock
-- [ ] ambulance
+- [x] lullaby
+- [ ] mattress
+- [ ] lightning
 
-> **解析**：**angel** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：睡前唱的是 lullaby"摇篮曲"；mattress 和 lightning 语义不符。
 
 ### 6
 
-In the camping ____, he stepped on the smooth floor.
+The ____ is soft.
 
-- [x] tent
-- [ ] alarm clock
-- [ ] ambulance
+- [x] mattress
+- [ ] ambulances
+- [ ] hole
 
-> **解析**：**tent** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：柔软的是 mattress"床垫"；ambulances 和 hole 语义不符。
 
 ### 7
 
-The mouse made a ____ in the board near the electric fan.
+I slept in a sleeping ____.
 
-- [x] hole
-- [ ] alarm clock
-- [ ] ambulance
+- [x] bag
+- [ ] bags
+- [ ] bed
 
-> **解析**：**hole** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后接单数 bag，sleeping bag 是固定复合词；bed 不构成 sleeping bed。
 
 ### 8
 
-Mother's gentle ____ relieved the child's cough.
+The fan runs ____.
 
-- [x] touch
-- [ ] alarm clock
-- [ ] ambulance
+- [x] silently
+- [ ] silent
+- [ ] silence
 
-> **解析**：**touch** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 runs 需要副词 silently；silent 是形容词，silence 是名词。
 
 ### 9
 
-The ____ neighbor had flu in the cold season.
+I dreamed that the angel had ____.
 
-- [x] next-door
-- [ ] alarm clock
-- [ ] ambulance
+- [x] wings
+- [ ] wing
+- [ ] winds
 
-> **解析**：**next-door** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：天使有一双翅膀用复数 wings；winds 是风，语义不符。
 
 ### 10
 
-In the dark, any small sound can feel ____ to us.
+The ____ lit up the sky.
 
-- [x] scary
-- [ ] alarm clock
-- [ ] ambulance
+- [x] lightning
+- [ ] lightening
+- [ ] lighted
 
-> **解析**：**scary** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：闪电是 lightning；lightening 是"变轻"，lighted 是形容词。
 
 ### 11
 
-The alarm clock rang on time at seven in the ____.
+I have the ____ and keep coughing.
 
-- [x] morning
-- [ ] alarm clock
-- [ ] ambulance
+- [x] flu
+- [ ] flues
+- [ ] flow
 
-> **解析**：**morning** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：have the flu"得流感"是固定搭配；flues 是烟道，flow 是流动。
 
 ### 12
 
-This new quilt feels very ____ and soft to touch.
+The pillow is ____.
 
 - [x] fluffy
-- [ ] alarm clock
-- [ ] ambulance
+- [ ] fluff
+- [ ] fluffily
 
-> **解析**：**fluffy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 fluffy；fluff 是名词，fluffily 是副词。
 
 ### 13
 
-I had a very ____ nightmare last night in bed.
+The sheets are ____.
 
-- [x] scary
-- [ ] alarm clock
-- [ ] ambulance
+- [x] smooth
+- [ ] smoothly
+- [ ] smoothness
 
-> **解析**：**scary** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：are 后需要形容词 smooth 作表语；smoothly 是副词，smoothness 是名词。
 
 ### 14
 
-Mom sang a ____ to help the baby fall asleep.
+Something ____ my arm.
 
-- [x] lullaby
-- [ ] alarm clock
-- [ ] ambulance
+- [x] touched
+- [ ] touch
+- [ ] touching
 
-> **解析**：**lullaby** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Something 是第三人称单数，叙述过去用 touched；touch 是原形。
 
 ### 15
 
-Please turn on the ____, it is very hot in the room.
+I heard steps next ____.
 
-- [x] fan
-- [ ] alarm clock
-- [ ] ambulance
+- [x] door
+- [ ] doors
+- [ ] to door
 
-> **解析**：**fan** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：next door 是固定短语"在隔壁"；其余形式都不是这个短语。
 
 ### 16
 
-____, he did not join the bedtime party.
+There is a hole in the ____.
 
-- [x] Surprisingly
-- [ ] alarm clock
-- [ ] ambulance
+- [x] tent
+- [ ] tents
+- [ ] mattress
 
-> **解析**：**Surprisingly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a hole in the tent"帐篷上的洞"搭配自然；mattress 场景不符。
 
 ### 17
 
-He slept in a warm sleeping bag inside the ____.
+____, the dream was pleasant.
 
-- [x] tent
-- [ ] alarm clock
-- [ ] ambulance
+- [x] Surprisingly
+- [ ] Surprise
+- [ ] Surprising
 
-> **解析**：**tent** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句首评注用副词 Surprisingly；Surprise 是名词或动词，Surprising 是形容词。
 
 ### 18
 
-That cute little girl drew an ____ with wings.
+The experience was ____.
 
-- [x] angel
-- [ ] alarm clock
-- [ ] ambulance
+- [x] unpleasant
+- [ ] unpleasantly
+- [ ] unplease
 
-> **解析**：**angel** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后需要形容词 unpleasant；unpleasantly 是副词，unplease 不是单词。
 
 ### 19
 
-That expensive cotton ____ feels very smooth.
+The ambulance drove away ____.
 
-- [x] mattress
-- [ ] alarm clock
-- [ ] ambulance
+- [x] silently
+- [ ] silent
+- [ ] silence
 
-> **解析**：**mattress** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 drove 需要副词 silently；silent 是形容词，silence 是名词。
 
 ### 20
 
-The strong wind in the dark sounded very ____.
+Do you mind ____ with the fan on?
 
-- [x] scary
-- [ ] alarm clock
-- [ ] ambulance
+- [x] sleeping
+- [ ] sleep
+- [ ] to sleep
 
-> **解析**：**scary** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：mind 后接动名词 sleeping；to sleep 是 mind 不接的形式。
 
 </quiz-cloze>

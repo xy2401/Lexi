@@ -10,34 +10,35 @@ apology, besides, blame, disappointed, disappointing, end up, end up in, fault, 
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是"投诉与要求调整"。你需要表达不满、指出问题、提出诉求：What a negative experience! The product is out-of-date, and I'd like a refund. Would it be possible to take it back?（多么糟糕的体验！产品过期了，我想要退款。有可能退回去吗？）I'm disappointed—besides the fault, the service was disappointing. They hung up on me!（我很失望——除了产品问题，服务也令人失望。他们居然挂了我电话！）
+本单元的主题是"提出抱怨、请对方调整"。词表可以分成三组：抱怨与责任（blame, fault, unfair, negative, disappointed, disappointing, apology, refund, refuse）、短语动词（hang/hang up/hang up on, put/put away/put up with, run out/run out of, take/take back, turn/turn up, end up/end up in）、以及礼貌表达（that sounds like, what a, would it be possible, besides）。串起来就是一次投诉：The product is out-of-date, and the service was disappointing. Would it be possible to get a refund?
 
-词表中有大量"动词+小品词"构成的短语动词：hang up / hang up on, put away / put up with, run out / run out of, take back, turn up, end up / end up in。这些短语动词是英语口语的核心，也是本单元的学习重点。
+语法主线有三条。第一是 -ed 与 -ing 形容词的区分：disappointed 修饰人的感受（I am disappointed），disappointing 修饰事物（The result is disappointing）。第二是"动词 + 小品词"短语动词的拆分用法：put away、take back 等可把代词放中间：Put it away. ✗ Put away it。第三是礼貌请求句型 Would it be possible to...？比直接要求更委婉。
 
-情感与评价词汇包括 disappointed / disappointing（人感到失望 / 事令人失望）、blame / fault（责怪/过错）、unfair、negative。apology 是道歉的名词。refuse 和 refund 是投诉场景的关键动作。would it be possible 是礼貌提出请求的高级表达。that sounds like 用来回应和确认对方的描述。
+学完本单元，你能礼貌而明确地提出抱怨、要求退款或调整、指出问题所在，也能区分短语动词的用法。
 
 ## Tips
 
-- **disappointed / disappointing** — 经典的 -ed / -ing 形容词对。disappointed 描述人的感受：I'm disappointed. disappointing 描述事物给人的感觉：The result was disappointing. 规律：-ed 用于"感到……的"（人），-ing 用于"令人……的"（事/物）。
+- **disappointed / disappointing** — 经典 -ed/-ing 对。人感到失望用 disappointed：I am disappointed with the service. 事物令人失望用 disappointing：a disappointing result. ✗ I am disappointing（意思是"我令人失望"）。
 
-- **hang up / hang up on** — hang up = 挂电话。hang up on someone = 挂某人电话（带有不礼貌的意味）：She hung up on me! 注意 hang 本身含义很多（悬挂、绞刑），但 hang up 在电话语境中是固定搭配。
+- **blame / fault / unfair** — blame 是"责怪"：Don't blame me. fault 是"过错"：It's my fault. unfair 是"不公平的"：That's unfair!
 
-- **put away / put up with** — put away = 收起来、放好：Put away your clothes. put up with = 忍受（= tolerate）：I can't put up with this noise! 注意 put up with 是三个词构成的短语动词，不能拆开。
+- **apology / refund / refuse** — apology 是"道歉"，动词是 apologize：I owe you an apology. refund 是"退款"：get a refund。refuse 是"拒绝"：They refused to help.
 
-- **run out / run out of** — run out = 用完（不及物）：The milk ran out. run out of = 用完了某物（及物）：We've run out of milk. 注意主语不同：Time ran out. / I ran out of time.
+- **hang / hang up / hang up on** — hang 是"挂"：hang the coat。hang up 是"挂断电话"：Don't hang up. hang up on sb. 是"挂断某人的电话"，略带怒气：He hung up on me.
 
-- **take back / turn up / end up** — take back = 退回（商品）/ 收回（话）：I want to take this back. turn up = 出现/调大音量：He turned up late. / Turn up the music. end up = 最终处于：We ended up in a bad restaurant.
+- **put / put away / put up with** — put 是"放"。put away 是"收起来"：Put the toys away. 代词放中间：Put them away. put up with 是"忍受"：I can't put up with the noise.
 
-- **blame / fault / unfair** — blame 是动词"责怪"：Don't blame me! fault 是名词"过错"：It's my fault. unfair = 不公平的。搭配：That's unfair! / It's not my fault.
+- **run out / run out of** — run out 不及物：Our time is running out. run out of 接宾语：We ran out of milk.
 
-- **refund / refuse / apology** — refund 是退款（名词/动词）：I'd like a refund. refuse 是拒绝（注意重音在第二音节：/rɪˈfjuːz/）。apology 是道歉名词，动词是 apologize：I owe you an apology.
+- **take / take back** — take 是"拿、带"。take back 是"退回、收回（话）"：I want to take back the shirt. / I take back what I said.
 
-- **would it be possible / what a / that sounds like** — would it be possible to + 动词原形，是极礼貌的请求：Would it be possible to get a refund? what a + 名词 = 多么……：What a mess! that sounds like = 听起来像是：That sounds like a good idea.
+- **turn / turn up** — turn 是"转、调"：turn the volume down。turn up 是"出现、调大"：He never turned up. / Turn up the heat.
 
-- **besides / out-of-date / negative** — besides = 除了……还有（包含关系，区别于 except 排除）。out-of-date = 过时的、过期的（= outdated）。negative 形容体验时表示"负面的、差的"。
+- **end up / end up in** — "最终落得……"：We ended up staying home. end up in + 地点/状态：end up in trouble。
+
+- **besides / that sounds like / what a / would it be possible / negative / out-of-date** — besides 是"再说、而且"。that sounds like 是"听起来像"。what a 构成感叹句：What a mess! would it be possible to... 是超礼貌请求。negative 是"消极的、负面的"。out-of-date 是"过时的"。
 
 ## 练习
 
@@ -55,149 +56,149 @@ apology, besides, blame, disappointed, disappointing, end up, end up in, fault, 
 
 <quiz-sentence-builder>
 
-1. **中文**：对于昨天的无礼举动，他向顾客表达了诚挚的道歉。
-   **英文**：He offered a sincere apology for his late delivery.
-   > **解析**：apology 表示“道歉/抱歉”。
+1. **中文**：这个结果令人失望。
+   **英文**：The result is disappointing.
+   > **解析**：事物令人失望用 -ing 形容词 disappointing。
 
-2. **中文**：除了英语之外，她还能流利地说西班牙语。
-   **英文**：Besides English, she also speaks fluent Spanish.
-   > **解析**：Besides 表示“此外/除……之外还”。
+2. **中文**：我对服务感到失望。
+   **英文**：I am disappointed with the service.
+   > **解析**：人的感受用 -ed 形容词 disappointed；with 引出对象。
 
-3. **中文**：遇到突发事故时，不要互相责怪。
-   **英文**：Don't blame others for mistakes you made yourself.
-   > **解析**：blame 表示“责怪/归咎”。
+3. **中文**：别怪我。
+   **英文**：Don't blame me.
+   > **解析**：否定祈使句用 Don't；blame 是"责怪"。
 
-4. **中文**：看到令人失望的服务后，顾客感到非常失望。
-   **英文**：I was very disappointed with the poor customer service.
-   > **解析**：disappointed 表示“感到失望的”。
+4. **中文**：是我的错。
+   **英文**：It is my fault.
+   > **解析**：It's one's fault 是"是某人的错"的固定表达。
 
-5. **中文**：这次演出取消的通知确实是一个令人失望的消息。
-   **英文**：The sudden cancellation of the show was disappointing news.
-   > **解析**：disappointing 表示“令人失望的”。
+5. **中文**：这不公平！
+   **英文**：That's unfair!
+   > **解析**：unfair 作表语；that's 是 that is 的缩写。
 
-6. **中文**：由于没赶上末班车，我们最终不得不打出租车回家。
-   **英文**：We didn't want to end up in a difficult situation.
-   > **解析**：end up in 表示“最终处于/结果沦为”。
+6. **中文**：我欠你一个道歉。
+   **英文**：I owe you an apology.
+   > **解析**：owe sb. sth. 双宾语结构；apology 是名词。
 
-7. **中文**：这不是你的过错，所以不要自责。
-   **英文**：It was not your fault that the machine stopped working.
-   > **解析**：fault 表示“过错/缺点/故障”。
+7. **中文**：我想要退款。
+   **英文**：I want a refund.
+   > **解析**：refund 作名词"退款"；a 修饰 refund。
 
-8. **中文**：挂断电话前，请确认对方已经听清了关键信息。
-   **英文**：Don't hang up the phone before I finish speaking.
-   > **解析**：hang up 表示“挂断电话”。
+8. **中文**：他们拒绝帮忙。
+   **英文**：They refused to help.
+   > **解析**：refuse to do 是"拒绝做某事"；refused 是过去式。
 
-9. **中文**：消极的抱怨情绪解决不了工作中的具体问题。
-   **英文**：Try to avoid negative thoughts during difficult times.
-   > **解析**：negative 表示“消极的/负面的”。
+9. **中文**：别挂电话。
+   **英文**：Don't hang up.
+   > **解析**：hang up 是"挂断"；祈使句用原形。
 
-10. **中文**：请丢弃这些过期的食品和药品。
-   **英文**：Throw away any out-of-date food products in fridge.
-   > **解析**：out-of-date 表示“过期的/陈旧的”。
+10. **中文**：他挂断了我的电话。
+   **英文**：He hung up on me.
+   > **解析**：hang up on sb. 表示"挂断某人电话"；hung 是过去式。
 
-11. **中文**：把穿完的干净衣服收起来放进衣柜里。
-   **英文**：Please put away your clothes after doing laundry.
-   > **解析**：put away 表示“收起来/放好”。
+11. **中文**：把玩具收起来。
+   **英文**：Put the toys away.
+   > **解析**：put away 是"收起来"；名词宾语可放中间或后面。
 
-12. **中文**：我再也无法忍受办公室里刺耳的噪音了。
-   **英文**：I cannot put up with his noisy behavior any longer.
-   > **解析**：put up with 表示“忍受/容忍”。
+12. **中文**：我受不了这个噪音。
+   **英文**：I can't put up with the noise.
+   > **解析**：put up with 是"忍受"；the noise 作宾语。
 
-13. **中文**：如果商品有瑕疵，商家将全额给您退款。
-   **英文**：The store agreed to issue a full refund for item.
-   > **解析**：refund 表示“退款/退费”。
+13. **中文**：我们的牛奶喝完了。
+   **英文**：We ran out of milk.
+   > **解析**：run out of + 宾语表示"用完"；ran 是过去式。
 
-14. **中文**：经理拒绝签署那份不合理的合同条款。
-   **英文**：He had to refuse the unreasonable request from buyer.
-   > **解析**：refuse 表示“拒绝/不接受”。
+14. **中文**：时间快用完了。
+   **英文**：Our time is running out.
+   > **解析**：run out 不及物，无宾语；现在进行时表当前状态。
 
-15. **中文**：我们快要用完打印纸了，需要订购一些。
-   **英文**：We are about to run out of printer paper in office.
-   > **解析**：run out of 表示“用完/耗尽”。
+15. **中文**：我想把这件衬衫退回去。
+   **英文**：I want to take back the shirt.
+   > **解析**：take back 是"退回"；to take 是不定式。
 
-16. **中文**：如果不满意，你可以在三十天内将商品退货。
-   **英文**：You can take back defective goods to the shop within a week.
-   > **解析**：take back 表示“退货/收回”。
+16. **中文**：把暖气调大点。
+   **英文**：Turn up the heat.
+   > **解析**：turn up 是"调大"；名词宾语可放后面。
 
-17. **中文**：那听起来像是一个很有说服力的借口。
-   **英文**：That sounds like a fair deal to me.
-   > **解析**：that sounds like 表示“那听起来像……”。
+17. **中文**：我们最后待在了家里。
+   **英文**：We ended up staying home.
+   > **解析**：end up + 动名词表示"最终……"；ended 是过去式。
 
-18. **中文**：请把电视机的音量调大一点，我听不清。
-   **英文**：Please turn up the volume so everyone can hear.
-   > **解析**：turn up 表示“调大音量/出现”。
+18. **中文**：再说，这也不贵。
+   **英文**：Besides, it isn't expensive.
+   > **解析**：besides 作句首连接副词，表示"再说、而且"。
 
-19. **中文**：让一个人承担所有的加班工作是不公平的。
-   **英文**：It is totally unfair to blame him for everything.
-   > **解析**：unfair 表示“不公平的/不正当的”。
+19. **中文**：请问有可能换一间房吗？
+   **英文**：Would it be possible to change rooms?
+   > **解析**：would it be possible to do 是委婉请求句型。
 
-20. **中文**：有可能给我们更换一间安静的房间吗？
-   **英文**：Would it be possible to get a refund for this ticket?
-   > **解析**：Would it be possible 表示“有可能……吗”（礼貌询问）。
+20. **中文**：真是一团糟！
+   **英文**：What a mess!
+   > **解析**：what a + 名词构成感叹句。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. He offered a sincere apology for his late delivery.
-   > **中文**：对于昨天的无礼举动，他向顾客表达了诚挚的道歉。
+1. The movie was disappointing.
+   > **中文**：这部电影令人失望。
 
-2. Besides English, she also speaks fluent Spanish.
-   > **中文**：除了英语之外，她还能流利地说西班牙语。
+2. I'm disappointed with the answer.
+   > **中文**：我对这个回答很失望。
 
-3. Don't blame others for mistakes you made yourself.
-   > **中文**：遇到突发事故时，不要互相责怪。
+3. Don't blame yourself.
+   > **中文**：别自责。
 
-4. I was very disappointed with the poor customer service.
-   > **中文**：看到令人失望的服务后，顾客感到非常失望。
+4. It wasn't my fault.
+   > **中文**：那不是我的错。
 
-5. The sudden cancellation of the show was disappointing news.
-   > **中文**：这次演出取消的通知确实是一个令人失望的消息。
+5. The rule is unfair.
+   > **中文**：这条规定不公平。
 
-6. We didn't want to end up in a difficult situation.
-   > **中文**：由于没赶上末班车，我们最终不得不打出租车回家。
+6. Please accept my apology.
+   > **中文**：请接受我的道歉。
 
-7. It was not your fault that the machine stopped working.
-   > **中文**：这不是你的过错，所以不要自责。
+7. They gave me a full refund.
+   > **中文**：他们给了我全额退款。
 
-8. Don't hang up the phone before I finish speaking.
-   > **中文**：挂断电话前，请确认对方已经听清了关键信息。
+8. She refused to comment.
+   > **中文**：她拒绝置评。
 
-9. Try to avoid negative thoughts during difficult times.
-   > **中文**：消极的抱怨情绪解决不了工作中的具体问题。
+9. Please don't hang up.
+   > **中文**：请不要挂断。
 
-10. Throw away any out-of-date food products in fridge.
-   > **中文**：请丢弃这些过期的食品和药品。
+10. He hung up on me again.
+   > **中文**：他又挂断了我的电话。
 
-11. Please put away your clothes after doing laundry.
-   > **中文**：把穿完的干净衣服收起来放进衣柜里。
+11. Hang your coat on the hook.
+   > **中文**：把外套挂在钩子上。
 
-12. I cannot put up with his noisy behavior any longer.
-   > **中文**：我再也无法忍受办公室里刺耳的噪音了。
+12. Put away your books.
+   > **中文**：把书收起来。
 
-13. The store agreed to issue a full refund for item.
-   > **中文**：如果商品有瑕疵，商家将全额给您退款。
+13. I can't put up with it anymore.
+   > **中文**：我再也受不了了。
 
-14. He had to refuse the unreasonable request from buyer.
-   > **中文**：经理拒绝签署那份不合理的合同条款。
+14. We've run out of sugar.
+   > **中文**：我们的糖用完了。
 
-15. We are about to run out of printer paper in office.
-   > **中文**：我们快要用完打印纸了，需要订购一些。
+15. The battery is running out.
+   > **中文**：电池快没电了。
 
-16. You can take back defective goods to the shop within a week.
-   > **中文**：如果不满意，你可以在三十天内将商品退货。
+16. I need to take this back to the store.
+   > **中文**：我得把这个退回商店。
 
-17. That sounds like a fair deal to me.
-   > **中文**：那听起来像是一个很有说服力的借口。
+17. Turn up the music.
+   > **中文**：把音乐调大点。
 
-18. Please turn up the volume so everyone can hear.
-   > **中文**：请把电视机的音量调大一点，我听不清。
+18. We ended up in a small town.
+   > **中文**：我们最后到了一个小城。
 
-19. It is totally unfair to blame him for everything.
-   > **中文**：让一个人承担所有的加班工作是不公平的。
+19. Would it be possible to leave early?
+   > **中文**：有可能早点离开吗？
 
-20. Would it be possible to get a refund for this ticket?
-   > **中文**：有可能给我们更换一间安静的房间吗？
+20. What a surprise!
+   > **中文**：真是个惊喜！
 
 </quiz-listening>
 
@@ -206,25 +207,50 @@ apology, besides, blame, disappointed, disappointing, end up, end up in, fault, 
 | 英文单词 | 课文释义 |
 | --- | --- |
 | apology | 道歉 |
-| besides | 此外 / 除之外 |
-| blame | 责怪 / 归咎 |
-| disappointed | 感到失望的 |
-| disappointing | 令人失望的 |
-| end up in | 最终处于 |
-| fault | 过错 / 故障 |
-| hang up | 挂断电话 |
-| negative | 消极的 / 负面的 |
-| out-of-date | 过期的 |
-| put away | 收起来 / 放好 |
-| put up with | 忍受 / 容忍 |
+| besides | 再说 / 而且 |
+| blame | 责怪 |
+| disappointed | 失望的（人） |
+| disappointing | 令人失望的（事物） |
+| end up | 最终落得 |
+| end up in | 最终到了 |
+| fault | 过错 |
+| hang | 挂 |
+| hang up | 挂断 |
+| hang up on | 挂断某人的电话 |
+| negative | 消极的 |
+| out-of-date | 过时的 |
+| put | 放 |
+| put away | 收起来 |
+| put up with | 忍受 |
 | refund | 退款 |
 | refuse | 拒绝 |
-| run out of | 用完 / 耗尽 |
-| take back | 退货 / 收回 |
-| that sounds like | 那听起来像 |
-| turn up | 调大音量 |
+| run out | 用完（不及物） |
+| run out of | 用完 |
+| take | 拿 / 带 |
+| take back | 退回 / 收回 |
+| that sounds like | 听起来像 |
+| turn | 转 / 调 |
+| turn up | 出现 / 调大 |
 | unfair | 不公平的 |
-| Would it be possible | 有可能……吗 |
+| what a | 多么（感叹） |
+| would it be possible | 是否可能（委婉） |
+| I | 我 |
+| we | 我们 |
+| he | 他 |
+| she | 她 |
+| they | 他们 |
+| you | 你 |
+| is | 是（单数） |
+| was | 是（过去式） |
+| are | 是（复数） |
+| the | 这 / 那（定冠词） |
+| a | 一（个） |
+| my | 我的 |
+| it | 它 |
+| don't | 不（否定） |
+| please | 请 |
+| with | 和 / 与 |
+| for | 为了 |
 
 </quiz-matching>
 
@@ -232,202 +258,202 @@ apology, besides, blame, disappointed, disappointing, end up, end up in, fault, 
 
 ### 1
 
-He offered a sincere ____ for his late delivery.
+The service was really ____.
 
-- [x] apology
-- [ ] besides
-- [ ] blame
+- [x] disappointing
+- [ ] disappointed
+- [ ] disappoint
 
-> **解析**：**apology** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：事物（service）令人失望用 disappointing；disappointed 形容人的感受，disappoint 是动词。
 
 ### 2
 
-____ English, she also speaks fluent Spanish.
+I am ____ with the result.
 
-- [x] Besides
-- [ ] apology
-- [ ] blame
+- [x] disappointed
+- [ ] disappointing
+- [ ] disappointment
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **Besides**。
+> **解析**：人的感受用 disappointed；disappointing 修饰事物，disappointment 是名词。
 
 ### 3
 
-Don't ____ others for mistakes you made yourself.
+Don't ____ me for the delay.
 
 - [x] blame
-- [ ] apology
-- [ ] besides
+- [ ] blaming
+- [ ] blamed
 
-> **解析**：**blame** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：don't 后接动词原形 blame；blamed 是过去式不能与 don't 叠加。
 
 ### 4
 
-I was very ____ with the poor customer service.
+It's not my ____.
 
-- [x] disappointed
-- [ ] apology
-- [ ] besides
+- [x] fault
+- [ ] false
+- [ ] faulty
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **disappointed**。
+> **解析**："过错"用名词 fault；false 是形容词"错误的"，faulty 是"有故障的"。
 
 ### 5
 
-The sudden cancellation of the show was ____ news.
+The decision seems ____.
 
-- [x] disappointing
-- [ ] apology
-- [ ] besides
+- [x] unfair
+- [ ] unfairly
+- [ ] unfairest
 
-> **解析**：**disappointing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：seems 后接形容词 unfair；unfairly 是副词，unfairest 最高级无参照。
 
 ### 6
 
-We didn't want to end up in a ____ situation.
+I owe you an ____.
 
-- [x] difficult
-- [ ] apology
-- [ ] besides
+- [x] apology
+- [ ] apologize
+- [ ] apologetic
 
-> **解析**：**difficult** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：an 后接名词 apology；apologize 是动词，apologetic 是形容词。
 
 ### 7
 
-It was not your ____ that the machine stopped working.
+The store promised a full ____.
 
-- [x] fault
-- [ ] apology
-- [ ] besides
+- [x] refund
+- [ ] refuse
+- [ ] refusal
 
-> **解析**：**fault** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：退款用 refund；refuse 是动词"拒绝"，refusal 是"拒绝"的名词。
 
 ### 8
 
-Don't ____ up the phone before I finish speaking.
+They ____ to answer my question.
 
-- [x] hang
-- [ ] apology
-- [ ] besides
+- [x] refused
+- [ ] refusal
+- [ ] refusing
 
-> **解析**：**hang** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：refuse to do 的过去式 refused；refusal 是名词，refusing 不能单独作谓语。
 
 ### 9
 
-Try to avoid ____ thoughts during difficult times.
+Please don't ____ up while we talk.
 
-- [x] negative
-- [ ] apology
-- [ ] besides
+- [x] hang
+- [ ] hangs
+- [ ] hanging
 
-> **解析**：**negative** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：don't 后接原形 hang；hang up 是"挂断"。
 
 ### 10
 
-Throw away any ____ food products in fridge.
+She ____ up on me yesterday.
 
-- [x] out-of-date
-- [ ] apology
-- [ ] besides
+- [x] hung
+- [ ] hang
+- [ ] hanged
 
-> **解析**：**out-of-date** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：挂断电话的过去式是 hung；hanged 专指"绞死"，hang 是原形。
 
 ### 11
 
-Please ____ away your clothes after doing laundry.
+Put the dishes ____ after dinner.
 
-- [x] put
-- [ ] apology
-- [ ] besides
+- [x] away
+- [ ] up with
+- [ ] out
 
-> **解析**：**put** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：收起来用 put away；put up with 是忍受需接宾语，put out 是熄灭。
 
 ### 12
 
-I cannot ____ up with his noisy behavior any longer.
+I can't put up ____ the noise.
 
-- [x] put
-- [ ] apology
-- [ ] besides
+- [x] with
+- [ ] to
+- [ ] at
 
-> **解析**：**put** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：忍受是 put up with；to 和 at 不构成该短语。
 
 ### 13
 
-The store agreed to issue a full ____ for item.
+We have run out ____ paper.
 
-- [x] refund
-- [ ] apology
-- [ ] besides
+- [x] of
+- [ ] from
+- [ ] with
 
-> **解析**：**refund** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：用完某物用 run out of；from 和 with 不构成该短语。
 
 ### 14
 
-He had to ____ the unreasonable request from buyer.
+Our supplies are running ____.
 
-- [x] refuse
-- [ ] apology
-- [ ] besides
+- [x] out
+- [ ] of
+- [ ] away
 
-> **解析**：**refuse** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：不及物"快用完"用 run out；run away 是逃跑。
 
 ### 15
 
-We are about to run out of ____ paper in office.
+I want to take this jacket ____.
 
-- [x] printer
-- [ ] apology
-- [ ] besides
+- [x] back
+- [ ] up on
+- [ ] on
 
-> **解析**：**printer** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：退回商品用 take back；take on 是承担，take up on 不成立。
 
 ### 16
 
-You can ____ back defective goods to the shop within a week.
+____ the heat; it's cold in here.
 
-- [x] take
-- [ ] apology
-- [ ] besides
+- [x] Turn up
+- [ ] Turn off
+- [ ] Turn in
 
-> **解析**：**take** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：冷的时候调大暖气用 turn up；turn off 是关闭，turn in 是上交。
 
 ### 17
 
-That ____ like a fair deal to me.
+We ended up ____ at home all day.
 
-- [x] sounds
-- [ ] apology
-- [ ] besides
+- [x] staying
+- [ ] stay
+- [ ] stayed
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **sounds**。
+> **解析**：end up + 动名词 staying；stay 是原形，stayed 是过去式。
 
 ### 18
 
-Please ____ up the volume so everyone can hear.
+____, the plan costs almost nothing.
 
-- [x] turn
-- [ ] apology
-- [ ] besides
+- [x] Besides
+- [ ] Beside
+- [ ] Beside of
 
-> **解析**：**turn** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**："再说、而且"用 Besides；Beside 是"在……旁边"，Beside of 不存在。
 
 ### 19
 
-It is totally ____ to blame him for everything.
+Would it be ____ to move the meeting?
 
-- [x] unfair
-- [ ] apology
-- [ ] besides
+- [x] possible
+- [ ] possibly
+- [ ] possibility
 
-> **解析**：**unfair** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be 后接形容词 possible；possibly 是副词，possibility 是名词。
 
 ### 20
 
-Would it be possible to get a ____ for this ticket?
+What a ____ idea!
 
-- [x] refund
-- [ ] apology
-- [ ] besides
+- [x] wonderful
+- [ ] wonder
+- [ ] wonderfully
 
-> **解析**：**refund** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：what a + 形容词 + 名词，用 wonderful；wonder 是名词或动词，wonderfully 是副词。
 
 </quiz-cloze>

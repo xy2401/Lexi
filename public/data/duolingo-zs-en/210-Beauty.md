@@ -10,30 +10,35 @@ appearance, barbershop, cut, do, dye, expert, forehead, get, hairstyle, lip, mak
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"询问美发沙龙"展开，话题是美容、美发和个人形象。词表里有美发相关（barbershop, salon, hairstyle, cut, dye, stylish）、美甲和化妆（nail, nail polish, nails done, makeup done, powder）以及身体修饰（pierced, piercing, tattoo）。
+本单元的主题是"询问美发沙龙"，围绕美容美发场景展开。词表可以分成三组：身体部位（forehead, lip, nail）、美容项目与产品（hairstyle, cut, dye, makeup done, nails done, nail polish, powder, tattoo, piercing, pierced）、以及场所与评价（salon, barbershop, expert, stylish, appearance, get, do, remove）。拼起来就是一套完整的沙龙对话：Where is the salon? I want to get my hair cut. I'd like my nails done too.
 
-你可以练习美容场景对话：I'd like to get my hair cut and dyed. / What hairstyle would suit me? / She's an expert at the salon. / I want to get my nails done—what color nail polish? / Do you have a piercing? / I want to remove this tattoo. / The makeup is done with powder.
+语法主线是 get + 宾语 + 过去分词的"使役"结构，表示"让某事被做"：get my hair cut（剪头发）、get my nails done（做美甲）、get my makeup done（化妆）。这个结构是美容话题的灵魂句型，中文说"我去剪个头"，英文不说 I cut my hair（那是自己剪），而说 I get my hair cut。另一条线索是场所区分：salon 偏女性美发美容，barbershop 偏男性理发。
 
-get + 过去分词（get my hair cut, get my nails done）是"使役/被动"结构，表示"让别人帮我做某事"。appearance = 外表，forehead = 额头，lip = 嘴唇——这些是描述面部的基础词汇。
+学完这些词，你能预约沙龙、描述想做的造型、讨论纹身和耳洞，也能评价别人的新形象——爱美之事，张口就来。
 
 ## Tips
 
-- **salon / barbershop / hairstyle** — salon = 美发沙龙（通常指女性去的美发/美容店）。barbershop = 理发店（传统上指男性理发店）。hairstyle = 发型（a new hairstyle）。搭配：go to a salon, get a haircut at the barbershop。
+- **get / get my hair cut** — get 在这里是使役动词，get + 宾语 + 过去分词表示"请人做某事"：I got my hair cut.（我剪了头发。）✗ I cut my hair（听起来是自己动手剪）。同理 get my nails done、get my makeup done。get 也可表"变得"：My hair is getting long.
 
-- **cut / dye / do** — cut = 剪（get a cut / cut my hair）。dye = 染（dye my hair red / hair dye 染发剂）。do 在这里指"做（头发/指甲）"（do my hair, do my nails）。搭配：get my hair cut and dyed, have my hair done。
+- **do / done** — do 在美容语境中表示"做（造型、护理）"：She does my hair.（她给我做头发。）nails done 指"做好美甲"，makeup done 指"化好妆"，都是 do 的过去分词 done 构成的状态短语。
 
-- **nail / nail polish / nails done** — nail = 指甲。nail polish = 指甲油（也叫 nail color / nail lacquer）。nails done = 做美甲（I want to get my nails done.）。搭配：paint my nails, a nail salon。
+- **salon / barbershop** — salon 是美发美容院，barbershop 是传统理发店（多为男士）。hair salon 专做头发。预约时说 I'd like to make an appointment.
 
-- **makeup done / powder / lip / forehead** — makeup done = 化好妆（get my makeup done）。powder = 粉（face powder 散粉/蜜粉）。lip = 嘴唇（lipstick 口红）。forehead = 额头（注意发音 /ˈfɔːrhɛd/ 或 /ˈfɔːrɪd/）。
+- **hairstyle / cut / dye** — hairstyle 是"发型"；cut 作名词指"剪发/发型"：I like your cut. 作动词是"剪"；dye 是"染"：I want to dye my hair brown. dye 的现在分词是 dyeing（注意别和 dying 混淆）。
 
-- **pierced / piercing / tattoo** — pierced = 穿孔的（Are your ears pierced? / get my ears pierced）。piercing = 穿孔饰品/穿孔行为（a nose piercing）。tattoo = 纹身（get a tattoo / remove a tattoo）。注意 pierce 是动词，piercing 是名词/形容词。
+- **nail / nail polish / nails done** — nail 是指甲；nail polish 是指甲油；nails done 是"美甲完成"的状态。美甲店常说 nail salon。
 
-- **remove / expert / stylish / appearance** — remove = 去除（remove a tattoo / remove makeup）。expert = 专家（She's an expert at coloring.）。stylish = 时髦的（a stylish haircut）。appearance = 外表、外貌（care about your appearance）。
+- **makeup done / powder** — makeup 是化妆品总称，makeup done 指"妆化好了"。powder 是"粉/香粉"，定妆用的蜜粉就叫 face powder。
 
-- **get / do** — get 在本单元大量出现于"get + 名词 + 过去分词"结构：get my hair cut, get my nails done, get my ears pierced。这表示"请别人做"而非自己做。do 类似：do my hair, do my makeup。
+- **tattoo / piercing / pierced** — tattoo 是纹身，可名可动：She got a tattoo. piercing 是穿孔饰品/穿孔行为，如 ear piercing（打耳洞）；pierced 是形容词"打了孔的"：pierced ears。习惯表达 get one's ears pierced。
+
+- **forehead / lip** — 两个面部部位词：forehead 是额头（fore- 前 + head 头，构词一目了然），lip 是嘴唇。注意 forehead 的发音是 /ˈfɔːrhed/，fore 不按常规发音。
+
+- **expert / stylish / appearance** — expert 是"专家、行家"；stylish 是"时髦的"，stylist（造型师）同源；appearance 是"外貌、外表"，动词是 appear。评价新发型：You look stylish! / It changes your whole appearance.
+
+- **remove** — "去除"，remove a tattoo 是"洗纹身"：It's hard to remove a tattoo. 与 put on/take off 同属动作类词汇，但更正式。
 
 ## 练习
 
@@ -51,149 +56,149 @@ get + 过去分词（get my hair cut, get my nails done）是"使役/被动"结�
 
 <quiz-sentence-builder>
 
-1. **中文**：我去了美发沙龙把头发剪了并染成了红色。  
-   **英文**：I went to the salon to get my hair cut and dyed red.
-   > **解析**：salon 表示“美发沙龙”，get my hair cut and dyed 表示使役被动结构“请人理发染发”。
+1. **中文**：我想去剪头发。
+   **英文**：I want to get my hair cut.
+   > **解析**：get + 宾语 + 过去分词表示"请人做某事"；my hair cut 意为"把头发剪了"，cut 作过去分词三态同形。
 
-2. **中文**：她打算做美甲，涂上光泽粉色的指甲油。  
-   **英文**：She is going to get her nails done with glossy pink nail polish.
-   > **解析**：get her nails done 表示“做美甲”，nail polish 表示“指甲油”。
+2. **中文**：她昨天做了美甲。
+   **英文**：She got her nails done yesterday.
+   > **解析**：get 的过去式 got 构成过去时；her nails done 是"让美甲被做好"的使役结构。
 
-3. **中文**：这位造型师是为长发打造时髦发型的专家。  
-   **英文**：The stylist is an expert at creating a stylish hairstyle for long hair.
-   > **解析**：expert 表示“专家”，stylish 表示“时髦的”，hairstyle 表示“发型”。
+3. **中文**：我想把头发染成棕色。
+   **英文**：I want to dye my hair brown.
+   > **解析**：dye + 宾语 + 颜色形容词表示"把……染成某色"；brown 作宾语补足语。
 
-4. **中文**：我需要在晚宴前化好妆。  
-   **英文**：I need to get my makeup done before the evening party.
-   > **解析**：get my makeup done 表示“让人帮我化好妆”。
+4. **中文**：这个发型很适合你。
+   **英文**：This hairstyle suits you very well.
+   > **解析**：suits 是及物动词"适合"，主语 This hairstyle 是第三人称单数；very well 修饰动词。
 
-5. **中文**：他决定把耳朵穿孔并买了一个银质耳饰。  
-   **英文**：He decided to get his ears pierced and bought a silver piercing.
-   > **解析**：pierced 表示“穿孔的”，piercing 表示“穿孔饰品”。
+5. **中文**：沙龙在市中心。
+   **英文**：The salon is in the city center.
+   > **解析**：主语 The salon 是单数，用 is；in the city center 是地点状语。
 
-6. **中文**：医生用激光去除了他手臂上的旧纹身。  
-   **英文**：The doctor used a laser to remove the old tattoo on his arm.
-   > **解析**：remove 表示“去除”，tattoo 表示“纹身”。
+6. **中文**：他每周都去理发店。
+   **英文**：He goes to the barbershop every week.
+   > **解析**：He 是第三人称单数主语，go 变为 goes；every week 是频率状语。
 
-7. **中文**：她涂了散粉和红唇膏以改善她的外表。  
-   **英文**：She applied face powder and red lipstick to improve her appearance.
-   > **解析**：powder 表示“散粉/粉末”，appearance 表示“外表、外貌”。
+7. **中文**：我打算化妆。
+   **英文**：I am going to get my makeup done.
+   > **解析**：be going to 表示打算；get my makeup done 是"请人给我化妆"的使役结构。
 
-8. **中文**：我哥哥通常在当地的理发店理发。  
-   **英文**：My brother usually gets his hair cut at the local barbershop.
-   > **解析**：barbershop 表示“理发店（常指男士理发店）”，cut 意为“剪发”。
+8. **中文**：指甲油是什么颜色的？
+   **英文**：What color is the nail polish?
+   > **解析**：特殊疑问句 What color 放句首，is 提前；nail polish 是不可数名词短语。
 
-9. **中文**：健身期间，他的额头上出现了几滴汗水。  
-   **英文**：A few drops of sweat appeared on his forehead during the workout.
-   > **解析**：forehead 表示“额头”。
+9. **中文**：她打了耳洞。
+   **英文**：She got her ears pierced.
+   > **解析**：get one's ears pierced 是"打耳洞"的固定使役表达；pierced 作过去分词表被动完成。
 
-10. **中文**：你知道如何在家里做自己的头发和指甲吗？  
-   **英文**：Do you know how to do your own hair and nails at home?
-   > **解析**：do 在此处指“整理/做（头发、指甲）”。
+10. **中文**：他有一个新纹身。
+    **英文**：He has a new tattoo.
+    > **解析**：has 表拥有；a new tattoo 中形容词 new 修饰 tattoo。
 
-11. **中文**：她的肩膀上有一个精致的蝴蝶纹身。  
-   **英文**：She has a delicate tattoo of a butterfly on her shoulder.
-   > **解析**：tattoo 表示“纹身”。
+11. **中文**：这位专家很专业。
+    **英文**：The expert is very professional.
+    > **解析**：The expert 是单数主语，用 is；professional 形容词作表语。
 
-12. **中文**：沙龙助手推荐了短发裁剪以获得清新形象。  
-   **英文**：The salon assistant recommended a short cut for a fresh look.
-   > **解析**：cut 作名词表示“剪发、裁剪”。
+12. **中文**：你的新发型很时髦。
+    **英文**：Your new haircut is very stylish.
+    > **解析**：stylish 作表语形容词；Your new haircut 中 your 和 new 依次修饰 haircut。
 
-13. **中文**：去面试时你应该关心你的个人外表。  
-   **英文**：You should care about your personal appearance when going for an interview.
-   > **解析**：appearance 表示“外貌、外表”。
+13. **中文**：粉在桌子上。
+    **英文**：The powder is on the table.
+    > **解析**：powder 不可数，用 the + 单数形式；on the table 是地点状语。
 
-14. **中文**：她涂了深蓝色指甲油以搭配她的晚礼服。  
-   **英文**：She applied dark blue nail polish to match her evening dress.
-   > **解析**：nail polish 表示“指甲油”。
+14. **中文**：我想把纹身去掉。
+    **英文**：I want to remove the tattoo.
+    > **解析**：want to + 动词原形 remove；the tattoo 特指那个纹身。
 
-15. **中文**：他找了一位专家来安全地清洁他的鼻饰穿孔。  
-   **英文**：He went to an expert to get his nose piercing cleaned safely.
-   > **解析**：expert 表示“专家”，piercing 表示“穿孔饰品”。
+15. **中文**：她改变了她的外貌。
+    **英文**：She changed her appearance.
+    > **解析**：changed 是过去式；her appearance 作宾语，appearance 是不可数抽象名词。
 
-16. **中文**：化妆师在她额头上擦了柔和的散粉以减少光泽。  
-   **英文**：The makeup artist put soft powder on her forehead to reduce shine.
-   > **解析**：powder 表示“散粉/粉末”，forehead 表示“额头”。
+16. **中文**：他的额头很高。
+    **英文**：His forehead is high.
+    > **解析**：His forehead 是单数主语，用 is；high 作表语描述额头。
 
-17. **中文**：我想做一下头发参加婚礼仪式。  
-   **英文**：I would like to get my hair done for the wedding ceremony.
-   > **解析**：get my hair done 表示“做头发”。
+17. **中文**：她的嘴唇是红色的。
+    **英文**：Her lips are red.
+    > **解析**：lips 用复数指上下唇，be 动词用 are；red 作表语。
 
-18. **中文**：用温水和洗面奶去除彩妆很容易。  
-   **英文**：It is easy to remove makeup with warm water and cleanser.
-   > **解析**：remove 表示“去除”。
+18. **中文**：这个穿孔疼吗？
+    **英文**：Does the piercing hurt?
+    > **解析**：一般疑问句用 Does 开头，动词恢复原形 hurt；the piercing 指穿孔这件事。
 
-19. **中文**：他穿着时髦的衣服以搭配他现代发型。  
-   **英文**：He wears stylish clothes to match his modern hairstyle.
-   > **解析**：stylish 表示“时髦的”，hairstyle 表示“发型”。
+19. **中文**：我喜欢你的指甲。
+    **英文**：I like your nails.
+    > **解析**：like 后接宾语 your nails；nails 用复数指双手的指甲。
 
-20. **中文**：她的唇色立刻提亮了她的脸部。  
-   **英文**：Her lip color brightened up her face immediately.
-   > **解析**：lip 表示“嘴唇”。
+20. **中文**：你打算什么时候去沙龙？
+    **英文**：When are you going to the salon?
+    > **解析**：When 引导的特殊疑问句，are 提前；be going to + 地点表示将要去某地。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I went to the salon to get my hair cut and dyed red.
-   > **中文**：我去了美发沙龙把头发剪了并染成了红色。
+1. I want to get my hair cut.
+   > **中文**：我想去剪头发。
 
-2. She is going to get her nails done with glossy pink nail polish.
-   > **中文**：她打算做美甲，涂上光泽粉色的指甲油。
+2. She got her nails done yesterday.
+   > **中文**：她昨天做了美甲。
 
-3. The stylist is an expert at creating a stylish hairstyle for long hair.
-   > **中文**：这位造型师是为长发打造时髦发型的专家。
+3. I want to dye my hair brown.
+   > **中文**：我想把头发染成棕色。
 
-4. I need to get my makeup done before the evening party.
-   > **中文**：我需要在晚宴前化好妆。
+4. This hairstyle suits you very well.
+   > **中文**：这个发型很适合你。
 
-5. He decided to get his ears pierced and bought a silver piercing.
-   > **中文**：他决定把耳朵穿孔并买了一个银质耳饰。
+5. The salon is in the city center.
+   > **中文**：沙龙在市中心。
 
-6. The doctor used a laser to remove the old tattoo on his arm.
-   > **中文**：医生用激光去除了他手臂上的旧纹身。
+6. He goes to the barbershop every week.
+   > **中文**：他每周都去理发店。
 
-7. She applied face powder and red lipstick to improve her appearance.
-   > **中文**：她涂了散粉和红唇膏以改善她的外表。
+7. I am going to get my makeup done.
+   > **中文**：我打算化妆。
 
-8. My brother usually gets his hair cut at the local barbershop.
-   > **中文**：我哥哥通常在当地的理发店理发。
+8. What color is the nail polish?
+   > **中文**：指甲油是什么颜色的？
 
-9. A few drops of sweat appeared on his forehead during the workout.
-   > **中文**：健身期间，他的额头上出现了几滴汗水。
+9. She got her ears pierced.
+   > **中文**：她打了耳洞。
 
-10. Do you know how to do your own hair and nails at home?
-   > **中文**：你知道如何在家里做自己的头发和指甲吗？
+10. He has a new tattoo.
+    > **中文**：他有一个新纹身。
 
-11. She has a delicate tattoo of a butterfly on her shoulder.
-   > **中文**：她的肩膀上有一个精致的蝴蝶纹身。
+11. The expert is very professional.
+    > **中文**：这位专家很专业。
 
-12. The salon assistant recommended a short cut for a fresh look.
-   > **中文**：沙龙助手推荐了短发裁剪以获得清新形象。
+12. Your new haircut is very stylish.
+    > **中文**：你的新发型很时髦。
 
-13. You should care about your personal appearance when going for an interview.
-   > **中文**：去面试时你应该关心你的个人外表。
+13. The powder is on the table.
+    > **中文**：粉在桌子上。
 
-14. She applied dark blue nail polish to match her evening dress.
-   > **中文**：她涂了深蓝色指甲油以搭配她的晚礼服。
+14. I want to remove the tattoo.
+    > **中文**：我想把纹身去掉。
 
-15. He went to an expert to get his nose piercing cleaned safely.
-   > **中文**：他找了一位专家来安全地清洁他的鼻饰穿孔。
+15. She changed her appearance.
+    > **中文**：她改变了她的外貌。
 
-16. The makeup artist put soft powder on her forehead to reduce shine.
-   > **中文**：化妆师在她额头上擦了柔和的散粉以减少光泽。
+16. His forehead is high.
+    > **中文**：他的额头很高。
 
-17. I would like to get my hair done for the wedding ceremony.
-   > **中文**：我想做一下头发参加婚礼仪式。
+17. Her lips are red.
+    > **中文**：她的嘴唇是红色的。
 
-18. It is easy to remove makeup with warm water and cleanser.
-   > **中文**：用温水和洗面奶去除彩妆很容易。
+18. Does the piercing hurt?
+    > **中文**：这个穿孔疼吗？
 
-19. He wears stylish clothes to match his modern hairstyle.
-   > **中文**：他穿着时髦的衣服以搭配他现代发型。
+19. I like your nails.
+    > **中文**：我喜欢你的指甲。
 
-20. Her lip color brightened up her face immediately.
-   > **中文**：她的唇色立刻提亮了她的脸部。
+20. When are you going to the salon?
+    > **中文**：你打算什么时候去沙龙？
 
 </quiz-listening>
 
@@ -201,26 +206,36 @@ get + 过去分词（get my hair cut, get my nails done）是"使役/被动"结�
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| appearance | 外表；外貌 |
-| barbershop | 理发店（男士） |
-| cut | 剪；理发 |
-| do | 做；打理（头发指甲等） |
-| dye | 染；染发剂 |
-| expert | 专家；高手 |
+| appearance | 外貌 |
+| barbershop | 理发店 |
+| cut | 剪；发型 |
+| do | 做 |
+| dye | 染（发） |
+| expert | 专家 |
 | forehead | 额头 |
-| get | 使得；请人做（如 get done） |
+| get | 使……被；变得 |
 | hairstyle | 发型 |
 | lip | 嘴唇 |
-| makeup done | 化好妆 |
+| makeup done | 妆化好了 |
 | nail | 指甲 |
 | nail polish | 指甲油 |
-| nails done | 做美甲 |
-| pierced | 穿孔的 |
-| piercing | 穿孔饰品 |
-| powder | 散粉；粉末 |
-| remove | 去除；移走 |
-| salon | 美发沙龙；美容院 |
-| stylish | 时髦的；有型的 |
+| nails done | 美甲做好了 |
+| pierced | 打了孔的 |
+| piercing | 穿孔 |
+| powder | 粉 |
+| remove | 去除 |
+| salon | 沙龙；美容院 |
+| stylish | 时髦的 |
+| tattoo | 纹身 |
+| I | 我 |
+| she | 她 |
+| he | 他 |
+| your | 你的 |
+| new | 新的 |
+| hair | 头发 |
+| very | 非常 |
+| want | 想要 |
+| is | 是（单数） |
 
 </quiz-matching>
 
@@ -228,202 +243,202 @@ get + 过去分词（get my hair cut, get my nails done）是"使役/被动"结�
 
 ### 1
 
-I went to the ____ to get my hair cut and dyed red.
+I want to get my hair ____.
 
-- [x] salon
-- [ ] appearance
-- [ ] barbershop
+- [x] cut
+- [ ] cutting
+- [ ] cuts
 
-> **解析**：**salon** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get + 宾语 + 过去分词，cut 三态同形作过去分词；cutting 和 cuts 都不是使役结构所需形式。
 
 ### 2
 
-She is going to ____ her nails done with glossy pink nail polish.
+She got her nails ____ yesterday.
 
-- [x] get
-- [ ] appearance
-- [ ] barbershop
+- [x] done
+- [ ] do
+- [ ] doing
 
-> **解析**：**get** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get one's nails done 是固定使役表达，用过去分词 done；do 是原形，doing 不合结构。
 
 ### 3
 
-The stylist is an ____ at creating a stylish hairstyle for long hair.
+I want to ____ my hair brown.
 
-- [x] expert
-- [ ] appearance
-- [ ] barbershop
+- [x] dye
+- [ ] die
+- [ ] day
 
-> **解析**：**expert** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：dye 是"染"；die 是"死亡"，day 是"天"，均为同音/近形干扰项。
 
 ### 4
 
-I need to ____ my makeup done before the evening party.
+This hairstyle ____ you very well.
 
-- [x] get
-- [ ] appearance
-- [ ] barbershop
+- [x] suits
+- [ ] suit
+- [ ] suiting
 
-> **解析**：**get** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 This hairstyle 是第三人称单数，动词加 s；suit 是原形，suiting 不能单独作谓语。
 
 ### 5
 
-He decided to ____ his ears pierced and bought a silver piercing.
+The ____ is in the city center.
 
-- [x] get
-- [ ] appearance
-- [ ] barbershop
+- [x] salon
+- [ ] salons
+- [ ] saloon
 
-> **解析**：**get** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 要求单数主语 salon；salons 是复数，saloon 指酒吧/大厅语义不合。
 
 ### 6
 
-The doctor used a laser to ____ the old tattoo on his arm.
+He ____ to the barbershop every week.
 
-- [x] remove
-- [ ] appearance
-- [ ] barbershop
+- [x] goes
+- [ ] go
+- [ ] going
 
-> **解析**：**remove** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：He 是第三人称单数主语，go 变为 goes；going 不能单独作谓语。
 
 ### 7
 
-She applied face ____ and red lipstick to improve her appearance.
+I am going to get my makeup ____.
 
-- [x] powder
-- [ ] appearance
-- [ ] barbershop
+- [x] done
+- [ ] did
+- [ ] does
 
-> **解析**：**powder** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：get my makeup done 用过去分词 done；did 是过去式，does 是三单形式，都不作过去分词。
 
 ### 8
 
-My brother usually gets his hair ____ at the local barbershop.
+What ____ is the nail polish?
 
-- [x] cut
-- [ ] appearance
-- [ ] barbershop
+- [x] color
+- [ ] colors
+- [ ] colored
 
-> **解析**：**cut** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：What color 是询问颜色的固定疑问短语；colors 是复数，colored 是形容词/过去分词。
 
 ### 9
 
-A few drops of sweat appeared on his ____ during the workout.
+She got her ears ____.
 
-- [x] forehead
-- [ ] appearance
-- [ ] barbershop
+- [x] pierced
+- [ ] pierce
+- [ ] piercing
 
-> **解析**：**forehead** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get one's ears pierced 是固定表达，pierced 作过去分词；pierce 是原形，piercing 不合结构。
 
 ### 10
 
-____ you know how to do your own hair and nails at home?
+He has a new ____.
 
-- [x] Do
-- [ ] appearance
-- [ ] barbershop
+- [x] tattoo
+- [ ] tattoos
+- [ ] tattooed
 
-> **解析**：**Do** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a new 后接单数名词 tattoo；tattoos 是复数不与 a 搭配，tattooed 是过去分词。
 
 ### 11
 
-She has a delicate ____ of a butterfly on her shoulder.
+The ____ is very professional.
 
-- [x] tattoo
-- [ ] appearance
-- [ ] barbershop
+- [x] expert
+- [ ] experts
+- [ ] expertise
 
-> **解析**：**tattoo** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 要求单数主语 expert；experts 是复数，expertise 指"专业知识"不合语境。
 
 ### 12
 
-The ____ assistant recommended a short cut for a fresh look.
+Your new haircut is very ____.
 
-- [x] salon
-- [ ] appearance
-- [ ] barbershop
+- [x] stylish
+- [ ] style
+- [ ] stylist
 
-> **解析**：**salon** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：very 修饰形容词 stylish 作表语；style 是名词，stylist 指"造型师"。
 
 ### 13
 
-You should care about your personal ____ when going for an interview.
+The ____ is on the table.
 
-- [x] appearance
-- [ ] barbershop
-- [ ] cut
+- [x] powder
+- [ ] powders
+- [ ] powdered
 
-> **解析**：**appearance** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：powder 不可数，用 the powder；powders 复数不常见，powdered 是形容词。
 
 ### 14
 
-She applied dark blue ____ polish to match her evening dress.
+I want to ____ the tattoo.
 
-- [x] nail
-- [ ] appearance
-- [ ] barbershop
+- [x] remove
+- [ ] removed
+- [ ] removing
 
-> **解析**：**nail** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：want to 后接动词原形 remove；removed 是过去式/分词，removing 不能接在 to 后。
 
 ### 15
 
-He went to an ____ to get his nose piercing cleaned safely.
+She changed her ____.
 
-- [x] expert
-- [ ] appearance
-- [ ] barbershop
+- [x] appearance
+- [ ] appearances
+- [ ] appear
 
-> **解析**：**expert** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：appearance 作"外貌"是不可数名词；appear 是动词，appearances 复数不合此处用法。
 
 ### 16
 
-The makeup artist put soft ____ on her forehead to reduce shine.
+His ____ is high.
 
-- [x] powder
-- [ ] appearance
-- [ ] barbershop
+- [x] forehead
+- [ ] foreheads
+- [ ] head
 
-> **解析**：**powder** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：His 后接单数部位词 forehead 语义准确（额头）；head 是"头"整体，语义与 high 搭配不如 forehead 典型，但核心是 foreheads 复数不合。
 
 ### 17
 
-I would like to ____ my hair done for the wedding ceremony.
+Her lips ____ red.
 
-- [x] get
-- [ ] appearance
-- [ ] barbershop
+- [x] are
+- [ ] is
+- [ ] am
 
-> **解析**：**get** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：lips 是复数主语，be 动词用 are；is 配单数，am 配 I。
 
 ### 18
 
-It is easy to ____ makeup with warm water and cleanser.
+Does the piercing ____?
 
-- [x] remove
-- [ ] appearance
-- [ ] barbershop
+- [x] hurt
+- [ ] hurts
+- [ ] hurting
 
-> **解析**：**remove** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：助动词 Does 后接动词原形 hurt；hurts 是三单形式，hurting 不能单独作谓语。
 
 ### 19
 
-He wears ____ clothes to match his modern hairstyle.
+I like your ____.
 
-- [x] stylish
-- [ ] appearance
-- [ ] barbershop
+- [x] nails
+- [ ] nail's
+- [ ] nailing
 
-> **解析**：**stylish** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：your 后接复数名词 nails 表示双手指甲；nail's 是所有格，nailing 是动名词。
 
 ### 20
 
-Her ____ color brightened up her face immediately.
+When are you ____ to the salon?
 
-- [x] lip
-- [ ] appearance
-- [ ] barbershop
+- [x] going
+- [ ] go
+- [ ] gone
 
-> **解析**：**lip** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：are + going 构成现在进行时表将来安排；go 是原形，gone 是过去分词，都不与进行时搭配。
 
 </quiz-cloze>

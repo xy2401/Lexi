@@ -10,40 +10,33 @@ correct, do you know what i mean, experiment, faculty, feedback, follow, get thr
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"询问专业与兴趣"展开，场景是大学学业。词表里有学术核心词汇（major, thesis, research, experiment, philosophy, faculty, senior, tutor），有学习动作（read, follow, go over, get through, start, outline, notes, reference），也有沟通与反馈表达（feedback, correct, qualified, do you know what I mean, in other words）。你可以用这些词讨论学业：What's your major? / I'm a senior working on my thesis. / My tutor gave me feedback—I need to go over my notes and correct the outline. / Do you know what I mean? In other words, I need to get through this research before the experiment starts.
+本单元的主题是"询问专业与兴趣"，场景从课堂延伸到论文写作。词表分成三组：学术角色与方向（major, faculty, tutor, senior, philosophy, qualified, research, experiment）、学习过程动作（start, follow, read, go over, get through, sitting, notes, outline, thesis, reference, feedback, correct）、以及话语组织短语（in other words, do you know what i mean, it）。拼起来就是一段完整的学业对话：What's your major? Philosophy. My tutor gave me feedback on my thesis outline. In other words, I need to go over it again, do you know what I mean?
 
-这里值得注意 do you know what I mean 和 in other words 都是"解释性"表达——前者确认对方是否理解，后者换一种方式重新说明。go over = 复习/检查，get through = 完成/熬过，这两个短语动词在学业语境中非常高频。
+语法主线有三条。第一条是询问专业的句型：What's your major? / Are you a senior? 以及表达兴趣：I'm interested in... 第二条是动词短语链：follow（跟上）、go over（复习）、get through（熬过、读完）——描述学业进度最实用的三个短语。第三条是话语修补表达：in other words（换句话说）、do you know what I mean（你懂我意思吧），让口语表达有了缓冲与解释的空间。
 
-学完本单元，你可以用英语讨论大学专业、论文进度、导师反馈，并用解释性表达确保沟通清晰。
+学完这些词，你能聊专业、问兴趣、描述论文进度，也能在卡壳时用缓冲短语把话说圆——学术对话的基本盘就搭好了。
 
 ## Tips
 
-- **major / thesis** — major 是专业（大学主修），thesis 是论文（通常指毕业论文）。搭配：major in philosophy, write a thesis, my senior thesis。I'm a philosophy major. / My thesis is due next month. 注意 major 可作名词（专业）也可作动词（主修）：I major in biology.
+- **major** — 学业核心词。作名词是"专业"：My major is philosophy. 也可作动词"主修"：I major in history. 注意与 minor（辅修）对照。
 
-- **faculty / tutor / senior** — faculty 是院系/全体教师，tutor 是导师/家教，senior 是大四学生。搭配：the philosophy faculty, my tutor, a senior。注意 faculty 在美式英语中指"全体教员"，英式也可指"学院"。senior = 大四，junior = 大三。
+- **faculty / tutor / senior** — 校园角色三连。faculty 指"全体教员"；tutor 是"导师、家教"，一对一辅导的那个人；senior 是"大四学生、高年级"，对应 freshman / junior。
 
-- **go over / get through** — go over = 复习、检查、过一遍，get through = 完成、熬过。搭配：go over your notes, get through the reading。Let me go over the outline. / I just need to get through this chapter. 注意 go over 强调"仔细查看"，get through 强调"完成（困难的事）"。
+- **thesis / outline / notes / reference** — 写作四件套。thesis 是"学位论文、论点"；outline 是提纲，写作前先搭框架；notes 是笔记（常用复数）；reference 是"参考资料、引用"：Check the references.
 
-- **feedback / correct** — feedback 是反馈（不可数），correct 是纠正/正确的。搭配：give feedback, correct a mistake。My tutor gave me feedback on my thesis. / I need to correct the errors. 注意 feedback 不可数：× a feedback / × feedbacks。
+- **go over / get through / follow** — 学习动作短语。go over 是"复习、过一遍"：Let's go over the notes. get through 是"熬过、读完"：I can't get through this book. follow 是"跟上、听懂"：I can't follow the lecture.
 
-- **experiment / research** — experiment 是实验（具体的），research 是研究（广义的）。搭配：do an experiment, do research, a research project。Research involves many experiments. 注意 research 不可数：× a research / × researches。
+- **feedback / correct** — feedback 是"反馈"，不可数名词：She gave me useful feedback. correct 可作形容词"正确的"，也可作动词"批改、纠正"：The tutor corrected my draft.
 
-- **outline / notes / reference** — outline 是提纲，notes 是笔记，reference 是参考文献。搭配：write an outline, take notes, check the references。I made an outline before I started writing. / My notes are a mess. 注意 reference 在学术写作中指"引用来源"。
+- **experiment / research / philosophy** — 学术领域词。experiment 是"实验"，run an experiment；research 是"研究"，不可数：do research. philosophy 是"哲学"，也可指个人的"理念"。
 
-- **do you know what I mean** — 你懂我意思吗（确认理解）。搭配：do you know what I mean, you know what I mean。It's hard to explain—do you know what I mean? 口语中常缩写为 you know what I mean? 或 you know? 用于确认对方跟上你的思路。
+- **qualified** — "有资格的、合格的"：He is qualified to teach. 来自 qualify（取得资格）+ -ed。
 
-- **in other words** — 换句话说。搭配：in other words, ...。The thesis is too long. In other words, I need to cut it. 用于用更简单或更精确的方式重新表达。类似：that is to say, put differently。
+- **start / read / sitting / it** — start 是开始，start doing / to do 均可。read 在学术语境常指"研读"。sitting 指"一次就座的时间、一场（考试）"：in one sitting（一口气坐着完成）。it 常指代上文提到的论文、提纲等。
 
-- **philosophy** — 哲学。搭配：study philosophy, a philosophy major, the philosophy of...。Philosophy asks big questions. 注意 philosophy 也可泛指"人生哲学/理念"：My philosophy is to keep it simple.
-
-- **qualified** — 有资格的、合格的。搭配：be qualified for/to do, a qualified tutor。She's qualified to teach philosophy. 构词：qualify（动词）→ qualified（形容词）→ qualification（名词）。注意 qualified 和 good 不同——qualified 强调"达到标准"。
-
-- **follow / start / sitting** — follow 是跟上/理解，start 是开始，sitting 是坐着/一次（考试）。搭配：follow the lecture, start the experiment, a sitting。I can't follow this philosophy lecture. / We read the whole chapter in one sitting. 注意 sitting 可指"一次连续的时间"：in one sitting = 一口气。
-
-- **read / it** — read 在学术语境中常指"研读、阅读（材料）"。搭配：read a paper, read for a class。I have three papers to read. it 在这里可能指代学业中的某件事：I can't get through it. 注意 read 的过去式发音不同：read /riːd/（现在）vs read /rɛd/（过去）。
+- **in other words / do you know what i mean** — 两个话语修补短语。in other words 是"换句话说"，用于解释澄清；do you know what I mean 是"你懂我意思吧"，确认对方理解。口语中用来争取思考时间非常实用。
 
 ## 练习
 
@@ -61,176 +54,185 @@ correct, do you know what i mean, experiment, faculty, feedback, follow, get thr
 
 <quiz-sentence-builder>
 
-1. **中文**：我的导师对我的毕业论文提出了宝贵的反馈。
-   **英文**：My tutor gave me valuable feedback on my senior thesis.
-   > **解析**：senior thesis 指本科毕业论文。
+1. **中文**：你的专业是什么？
+   **英文**：What is your major?
+   > **解析**：What 引导特殊疑问句；major 作名词"专业"，your 修饰。
 
-2. **中文**：考试前我们过一遍讲义笔记吧。
-   **英文**：Let's go over the lecture notes before the exam.
-   > **解析**：go over 意为复习、仔细检查。
+2. **中文**：我主修哲学。
+   **英文**：I major in philosophy.
+   > **解析**：major in 是"主修"的固定搭配；in 后接学科名词。
 
-3. **中文**：我需要阅读更多参考文献来完成提纲。
-   **英文**：I need to read more references to complete the outline.
-   > **解析**：outline 意为提纲、大纲。
+3. **中文**：我是大四学生。
+   **英文**：I am a senior.
+   > **解析**：a senior 作表语表示"大四学生"；I am 系表结构。
 
-4. **中文**：她是哲学专业的大四学生。
-   **英文**：She is a senior majoring in philosophy.
-   > **解析**：philosophy 意为哲学。
+4. **中文**：我的导师给了我很多反馈。
+   **英文**：My tutor gave me a lot of feedback.
+   > **解析**：gave 是 give 的过去式，接双宾语 me / feedback；feedback 是不可数名词。
 
-5. **中文**：该教职工帮助我们进行了科学实验。
-   **英文**：The faculty member helped us conduct the science experiment.
-   > **解析**：faculty 指教职工、全体教师。
+5. **中文**：我正在写我的毕业论文。
+   **英文**：I am working on my thesis.
+   > **解析**：work on 表示"着手做"；be working 现在进行时表当前正在做的事。
 
-6. **中文**：读完所有的阅读材料需要付出很大努力。
-   **英文**：It takes a lot of effort to get through all the reading materials.
-   > **解析**：get through 意为完成、读完。
+6. **中文**：先列个提纲再开始写。
+   **英文**：Make an outline before you start writing.
+   > **解析**：祈使句用原形 Make；before 引导时间从句，start 后接动名词 writing。
 
-7. **中文**：换句话说，我们需要纠正我们的研究方法。
-   **英文**：In other words, we need to correct our research method.
-   > **解析**：in other words 意为换句话说。
+7. **中文**：我们复习一下笔记吧。
+   **英文**：Let's go over our notes.
+   > **解析**：Let's 后接动词原形；go over 是"复习"的固定短语，notes 常用复数。
 
-8. **中文**：他有资格教这门高级课程吗？
-   **英文**：Is he qualified to teach this advanced course?
-   > **解析**：qualified 意为有资格的、合格的。
+8. **中文**：我读不完这篇长文章。
+   **英文**：I can't get through this long article.
+   > **解析**：get through 是"读完、熬过"的短语；can't 后接原形 get。
 
-9. **中文**：很难跟上他的解释，你懂我的意思吗？
-   **英文**：It is difficult to follow his explanation, do you know what I mean?
-   > **解析**：do you know what I mean 用于确认对方理解。
+9. **中文**：我跟不上这个讲座。
+   **英文**：I can't follow the lecture.
+   > **解析**：follow 此处指"听懂、跟上"；the lecture 作宾语。
 
-10. **中文**：我们将一口气读完这份报告。
-   **英文**：We will finish reading the report in one sitting.
-   > **解析**：in one sitting 意为一口气、坐着一次完成。
+10. **中文**：他完全有资格教这门课。
+    **英文**：He is fully qualified to teach this course.
+    > **解析**：qualified 形容词作表语；be qualified to do 是"有资格做"的结构。
 
-11. **中文**：教授要求我们写一份详细的论文提纲。
-   **英文**：The professor asked us to write a detailed thesis outline.
-   > **解析**：thesis 意为论文。
+11. **中文**：这个实验需要三天。
+    **英文**：This experiment takes three days.
+    > **解析**：takes 与单数主语一致；three days 是时间段作宾语。
 
-12. **中文**：她整个下午都在复习她的哲学笔记。
-   **英文**：She spent the entire afternoon reviewing her philosophy notes.
-   > **解析**：notes 意为笔记。
+12. **中文**： faculty 在实验室里做研究。
+    **英文**：The faculty do research in the lab.
+    > **解析**：faculty 是集合名词"全体教员"；do research 是"做研究"的固定搭配。
 
-13. **中文**：我连教科书的第一章都没看透。
-   **英文**：I didn't get through the first chapter of the textbook.
-   > **解析**：get through 表示啃完、读完。
+13. **中文**：换句话说，我们得重新开始。
+    **英文**：In other words, we have to start over.
+    > **解析**：In other words 作插入语表解释澄清；start over 是"重新开始"。
 
-14. **中文**：在提交前，你应该仔细检查每个参考文献。
-   **英文**：You should check every reference carefully before submitting.
-   > **解析**：reference 意为参考文献。
+14. **中文**：你懂我意思吧？
+    **英文**：Do you know what I mean?
+    > **解析**：Do you know 后接 what 引导的宾语从句；mean 用原形。
 
-15. **中文**：我们的导师资历非常高，而且非常支持我们。
-   **英文**：Our tutor is highly qualified and very supportive.
-   > **解析**：tutor 意为导师、家教。
+15. **中文**：请检查一下参考文献。
+    **英文**：Please check the references.
+    > **解析**：Please + 动词原形构成礼貌祈使句；references 用复数表示多条资料。
 
-16. **中文**：换句话说，结果在统计上并不显著。
-   **英文**：In other words, the results were not statistically significant.
-   > **解析**：in other words 意为换言之。
+16. **中文**：这个答案不对。
+    **英文**：This answer is not correct.
+    > **解析**：correct 形容词作表语；is not 构成否定。
 
-17. **中文**：那是一个充满挑战的学期，但我成功熬过来了。
-   **英文**：It was a challenging semester, but I managed to get through it.
-   > **解析**：get through 意为度过、熬过。
+17. **中文**：老师批改了我的作业。
+    **英文**：The teacher corrected my homework.
+    > **解析**：corrected 此处作动词"批改"，一般过去时加 ed。
 
-18. **中文**：当我谈论抽象理论时，你懂我的意思吗？
-   **英文**：Do you know what I mean when I talk about abstract theories?
-   > **解析**：do you know what I mean 确认口语中的理解。
+18. **中文**：我一口气读完了这本书。
+    **英文**：I read this book in one sitting.
+    > **解析**：in one sitting 是"一次坐着一口气完成"的固定表达；read 过去式拼写不变。
 
-19. **中文**：他决定主修计算机科学而不是哲学。
-   **英文**：He decided to major in computer science instead of philosophy.
-   > **解析**：major in 意为主修（某专业）。
+19. **中文**：从这学期开始我就对研究感兴趣。
+    **英文**：I have been interested in research since this semester started.
+    > **解析**：现在完成时表示从过去持续到现在；since 引导时间从句。
 
-20. **中文**：在发表之前，我们必须纠正数据中的错误。
-   **英文**：We must correct the errors in our data before publishing.
-   > **解析**：correct 意为纠正、订正。
+20. **中文**：这很重要，你懂我的意思吧。
+    **英文**：It is important, do you know what I mean?
+    > **解析**：It 指代上文情况；逗号后接确认性问句，是口语常见的补充。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. My tutor gave me valuable feedback on my senior thesis.
-   > **中文**：我的导师对我的毕业论文提出了宝贵的反馈。
+1. What is your major?
+   > **中文**：你的专业是什么？
 
-2. Let's go over the lecture notes before the exam.
-   > **中文**：考试前我们过一遍讲义笔记吧。
+2. I major in philosophy.
+   > **中文**：我主修哲学。
 
-3. I need to read more references to complete the outline.
-   > **中文**：我需要阅读更多参考文献来完成提纲。
+3. I am a senior.
+   > **中文**：我是大四学生。
 
-4. She is a senior majoring in philosophy.
-   > **中文**：她是哲学专业的大四学生。
+4. My tutor gave me a lot of feedback.
+   > **中文**：我的导师给了我很多反馈。
 
-5. The faculty member helped us conduct the science experiment.
-   > **中文**：该教职工帮助我们进行了科学实验。
+5. I am working on my thesis.
+   > **中文**：我正在写我的毕业论文。
 
-6. It takes a lot of effort to get through all the reading materials.
-   > **中文**：读完所有的阅读材料需要付出很大努力。
+6. Make an outline before you start writing.
+   > **中文**：先列个提纲再开始写。
 
-7. In other words, we need to correct our research method.
-   > **中文**：换句话说，我们需要纠正我们的研究方法。
+7. Let's go over our notes.
+   > **中文**：我们复习一下笔记吧。
 
-8. Is he qualified to teach this advanced course?
-   > **中文**：他有资格教这门高级课程吗？
+8. I can't get through this long article.
+   > **中文**：我读不完这篇长文章。
 
-9. It is difficult to follow his explanation, do you know what I mean?
-   > **中文**：很难跟上他的解释，你懂我的意思吗？
+9. I can't follow the lecture.
+   > **中文**：我跟不上这个讲座。
 
-10. We will finish reading the report in one sitting.
-   > **中文**：我们将一口气读完这份报告。
+10. He is fully qualified to teach this course.
+    > **中文**：他完全有资格教这门课。
 
-11. The professor asked us to write a detailed thesis outline.
-   > **中文**：教授要求我们写一份详细的论文提纲。
+11. This experiment takes three days.
+    > **中文**：这个实验需要三天。
 
-12. She spent the entire afternoon reviewing her philosophy notes.
-   > **中文**：她整个下午都在复习她的哲学笔记。
+12. The faculty do research in the lab.
+    > **中文**：全体教员在实验室里做研究。
 
-13. I didn't get through the first chapter of the textbook.
-   > **中文**：我连教科书的第一章都没看透。
+13. In other words, we have to start over.
+    > **中文**：换句话说，我们得重新开始。
 
-14. You should check every reference carefully before submitting.
-   > **中文**：在提交前，你应该仔细检查每个参考文献。
+14. Do you know what I mean?
+    > **中文**：你懂我意思吧？
 
-15. Our tutor is highly qualified and very supportive.
-   > **中文**：我们的导师资历非常高，而且非常支持我们。
+15. Please check the references.
+    > **中文**：请检查一下参考文献。
 
-16. In other words, the results were not statistically significant.
-   > **中文**：换句话说，结果在统计上并不显著。
+16. This answer is not correct.
+    > **中文**：这个答案不对。
 
-17. It was a challenging semester, but I managed to get through it.
-   > **中文**：那是一个充满挑战的学期，但我成功熬过来了。
+17. The teacher corrected my homework.
+    > **中文**：老师批改了我的作业。
 
-18. Do you know what I mean when I talk about abstract theories?
-   > **中文**：当我谈论抽象理论时，你懂我的意思吗？
+18. I read this book in one sitting.
+    > **中文**：我一口气读完了这本书。
 
-19. He decided to major in computer science instead of philosophy.
-   > **中文**：他决定主修计算机科学而不是哲学。
+19. I have been interested in research since this semester started.
+    > **中文**：从这学期开始我就对研究感兴趣。
 
-20. We must correct the errors in our data before publishing.
-   > **中文**：在发表之前，我们必须纠正数据中的错误。
+20. It is important, do you know what I mean?
+    > **中文**：这很重要，你懂我的意思吧。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| thesis | 论文；毕业论文 |
-| tutor | 导师；家教 |
-| faculty | 院系；全体教师 |
-| senior | 大四学生；高年级的 |
-| philosophy | 哲学 |
-| go over | 复习；仔细检查 |
-| get through | 完成；熬过；读完 |
-| feedback | 反馈 |
-| correct | 纠正；正确的 |
+| --- | --- |
+| correct | 正确的；批改 |
+| do you know what i mean | 你懂我意思吧 |
 | experiment | 实验 |
-| research | 研究 |
-| outline | 提纲；大纲 |
-| notes | 笔记 |
-| reference | 参考文献 |
-| do you know what i mean | 你懂我意思吗 |
+| faculty | 全体教员 |
+| feedback | 反馈 |
+| follow | 跟上；听懂 |
+| get through | 读完；熬过 |
+| go over | 复习 |
 | in other words | 换句话说 |
-| qualified | 有资格的；合格的 |
-| major | 主修；专业 |
-| sitting | 一口气；坐着（的时长） |
-| follow | 跟上；理解 |
+| it | 它 |
+| major | 专业；主修 |
+| notes | 笔记 |
+| outline | 提纲 |
+| philosophy | 哲学 |
+| qualified | 有资格的 |
+| read | 阅读 |
+| reference | 参考资料 |
+| research | 研究 |
+| senior | 大四学生 |
+| sitting | 一次就座；一场 |
+| start | 开始 |
+| thesis | 论文 |
+| tutor | 导师 |
+| lecture | 讲座 |
+| lab | 实验室 |
+| homework | 作业 |
+| book | 书 |
+| answer | 答案 |
+| course | 课程 |
 
 </quiz-matching>
 
@@ -238,202 +240,202 @@ correct, do you know what i mean, experiment, faculty, feedback, follow, get thr
 
 ### 1
 
-My ____ gave me valuable feedback on my senior thesis.
+What is your ____?
 
-- [x] tutor
-- [ ] correct
-- [ ] do you know what i mean
+- [x] major
+- [ ] majors
+- [ ] majoring
 
-> **解析**：**tutor** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：your 后接单数名词 major 作表语；majors 复数不合询问单个专业的语境，majoring 是动名词不合此处。
 
 ### 2
 
-Let's go over the lecture ____ before the exam.
+I major ____ philosophy.
 
-- [x] notes
-- [ ] correct
-- [ ] do you know what i mean
+- [x] in
+- [ ] on
+- [ ] at
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **notes**。
+> **解析**：major in 是"主修"的固定搭配；on/at 不构成该短语。
 
 ### 3
 
-I need to ____ more references to complete the outline.
+My tutor gave me a lot of ____.
 
-- [x] read
-- [ ] correct
-- [ ] do you know what i mean
+- [x] feedback
+- [ ] feedbacks
+- [ ] feed
 
-> **解析**：**read** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：feedback 是不可数名词，无复数形式；feed 是动词"喂养"，语义不合。
 
 ### 4
 
-She is a ____ majoring in philosophy.
+I am working on my ____.
 
-- [x] senior
-- [ ] correct
-- [ ] do you know what i mean
+- [x] thesis
+- [ ] theses
+- [ ] thesis's
 
-> **解析**：**senior** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：my 后接单数名词 thesis；theses 是复数与 my 单数语境不符，所有格形式不合此处。
 
 ### 5
 
-The ____ member helped us conduct the science experiment.
+Make an ____ before you start writing.
 
-- [x] faculty
-- [ ] correct
-- [ ] do you know what i mean
+- [x] outline
+- [ ] outlines
+- [ ] outlying
 
-> **解析**：**faculty** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：an 后接单数名词 outline；outlines 复数与 an 冲突，outlying 是形容词"偏远的"。
 
 ### 6
 
-____ takes a lot of effort to get through all the reading materials.
+Let's ____ over our notes.
 
-- [x] It
-- [ ] correct
-- [ ] do you know what i mean
+- [x] go
+- [ ] goes
+- [ ] going
 
-> **解析**：**it** 为第三人称单数代词，指代事物、动物或作形式主语。
+> **解析**：Let's 后接动词原形 go；goes 是三单，going 不合此结构。
 
 ### 7
 
-In other words, we need to ____ our research method.
+I can't get ____ this long article.
 
-- [x] correct
-- [ ] do you know what i mean
-- [ ] experiment
+- [x] through
+- [ ] threw
+- [ ] thought
 
-> **解析**：**correct** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get through 是"读完"的固定短语；threw 是 throw 的过去式，thought 语义不合。
 
 ### 8
 
-Is he ____ to teach this advanced course?
+I can't ____ the lecture.
 
-- [x] qualified
-- [ ] correct
-- [ ] do you know what i mean
+- [x] follow
+- [ ] follows
+- [ ] following
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **qualified**。
+> **解析**：can't 后接动词原形 follow；follows 是三单形式，following 不合此结构。
 
 ### 9
 
-____ is difficult to follow his explanation, do you know what I mean?
+He is fully ____ to teach this course.
 
-- [x] It
-- [ ] correct
-- [ ] do you know what i mean
+- [x] qualified
+- [ ] qualify
+- [ ] qualifying
 
-> **解析**：**it** 为第三人称单数代词，指代事物、动物或作形式主语。
+> **解析**：be qualified to do 是固定结构，用形容词 qualified；qualify 是动词原形，qualifying 不合此处。
 
 ### 10
 
-We will finish reading the report in one ____.
+This ____ takes three days.
 
-- [x] sitting
-- [ ] correct
-- [ ] do you know what i mean
+- [x] experiment
+- [ ] experimental
+- [ ] experiment's
 
-> **解析**：**sitting** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：This 后接单数名词 experiment 作主语；experimental 是形容词，所有格不合此处。
 
 ### 11
 
-The professor asked us to write a detailed ____ outline.
+The faculty do ____ in the lab.
 
-- [x] thesis
-- [ ] correct
-- [ ] do you know what i mean
+- [x] research
+- [ ] researches
+- [ ] researching
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **thesis**。
+> **解析**：do research 是固定搭配，research 不可数；researches 非常规用法，researching 不合此结构。
 
 ### 12
 
-She spent the entire afternoon reviewing her ____ notes.
+____ other words, we have to start over.
 
-- [x] philosophy
-- [ ] correct
-- [ ] do you know what i mean
+- [x] In
+- [ ] On
+- [ ] At
 
-> **解析**：**philosophy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：in other words 是"换句话说"的固定短语；On/At 不构成该表达。
 
 ### 13
 
-I didn't get through the first chapter of the ____.
+Do you know what I ____?
 
-- [x] textbook
-- [ ] correct
-- [ ] do you know what i mean
+- [x] mean
+- [ ] means
+- [ ] meant
 
-> **解析**：**textbook** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：从句主语 I 用动词原形 mean；means 是三单，meant 是过去式与主句现在时不一致。
 
 ### 14
 
-You should check every ____ carefully before submitting.
+Please check the ____.
 
-- [x] reference
-- [ ] correct
-- [ ] do you know what i mean
+- [x] references
+- [ ] reference
+- [ ] refer
 
-> **解析**：**reference** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：文献引用通常多条，用复数 references；reference 单数虽可但不合"检查资料清单"的惯用语境，refer 是动词。
 
 ### 15
 
-Our ____ is highly qualified and very supportive.
+This answer is not ____.
 
-- [x] tutor
-- [ ] correct
-- [ ] do you know what i mean
+- [x] correct
+- [ ] corrects
+- [ ] correction
 
-> **解析**：**tutor** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is not 后接形容词 correct 作表语；corrects 是动词三单，correction 是名词不合系表结构。
 
 ### 16
 
-In other words, the results were not ____ significant.
+The teacher ____ my homework.
 
-- [x] statistically
+- [x] corrected
 - [ ] correct
-- [ ] do you know what i mean
+- [ ] correcting
 
-> **解析**：**statistically** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：一般过去时用 corrected；correct 原形与过去语境不符，correcting 不能单独作谓语。
 
 ### 17
 
-____ was a challenging semester, but I managed to get through it.
+I read this book in one ____.
 
-- [x] It
-- [ ] correct
-- [ ] do you know what i mean
+- [x] sitting
+- [ ] sit
+- [ ] sat
 
-> **解析**：**it** 为第三人称单数代词，指代事物、动物或作形式主语。
+> **解析**：in one sitting 是固定表达"一口气坐着读完"；sit 是动词原形，sat 是过去式，均不合名词位置。
 
 ### 18
 
-Do you know what I mean when I talk about ____ theories?
+I have been interested ____ research.
 
-- [x] abstract
-- [ ] correct
-- [ ] do you know what i mean
+- [x] in
+- [ ] on
+- [ ] at
 
-> **解析**：**abstract** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be interested in 是"对……感兴趣"的固定搭配；on/at 不构成该短语。
 
 ### 19
 
-He decided to ____ in computer science instead of philosophy.
+We have to start ____.
 
-- [x] major
-- [ ] correct
-- [ ] do you know what i mean
+- [x] over
+- [ ] again and
+- [ ] up
 
-> **解析**：**major** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：start over 是"重新开始"的固定短语；start up 是"启动（机器/公司）"，语义不合，again and 不构成完整搭配。
 
 ### 20
 
-We must ____ the errors in our data before publishing.
+It ____ important.
 
-- [x] correct
-- [ ] do you know what i mean
-- [ ] experiment
+- [x] is
+- [ ] are
+- [ ] be
 
-> **解析**：**correct** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：It 是单数主语用 is；are 主谓不一致，be 不能直接作谓语。
 
 </quiz-cloze>

@@ -10,40 +10,39 @@ agree on, ask, behavior, belongings, bird cage, bother to, bring up, chore, clea
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的交际任务是"礼貌地提出室友之间的问题"。场景很具体：两个人合住，需要讨论家务分配（chore, divide, equally）、物品归属（belongings, bird cage, fish tank）和行为规范（behavior, bother to）。词表里有大量用于软化语气的表达：if you could / it would be / please not / promise not to / remind me not to——这些都是把"你太烦了"包装成"能不能麻烦你……"的礼貌策略。
+本单元的主题是"礼貌地提出室友间的问题"。词表可以分成四组：家务与物品（chore, belongings, bird cage, fish tank, divide, equally, take, clear）、沟通动作（bring up, ask, agree on, bother to）、礼貌句式（if you could, it would be, please also stop, please not, promise not to, remind me not to, let's not, let's finally）、以及杂项（behavior, every once in a while, plumber）。拼起来就是一段得体的室友谈话：I'd like to bring up the chores. If you could clear the table, it would be great.
 
-你可以练习这样的对话：Could we agree on how to divide the chores equally? / If you could please not leave your belongings in the kitchen, it would be great. / Let's not bring up old issues—let's finally clear this up. / I hate to bring this up, but every once in a while you don't bother to clean the fish tank.
+语法主线是"礼貌表达"的层层包装。用 if you could... 和 it would be... 这样的虚拟语气软化请求（If you could take out the trash, it would be great.）；用 let's not 提出共同遵守的约定（Let's not leave dishes in the sink.）；用 promise not to / remind me not to 处理否定承诺——注意这些结构中 not 紧跟在不定式 to 前或动词后，位置固定。
 
-bring up 是本单元的核心动词短语，意为"提出（话题）"。搭配 agree on（就……达成一致）和 divide equally（平均分配），构成室友协商的基本框架。
+学完这单元，你能用英语礼貌地和室友谈敏感话题：分配家务、指出问题、提出请求，还不伤和气。
 
 ## Tips
 
-- **bring up** — 提出（话题、问题）：I don't want to bring up the cleaning issue again. 注意和 bring（带来）区分。同义表达：raise a topic / mention。在室友语境中，bring up 往往暗示这个话题有点敏感。
+- **bring up / ask** — 提出话题两式。bring up 是"提出（话题）"：I want to bring up the chore issue. ask 是"询问、请求"：Can I ask you something? ✗ bring up 是动副短语，代词宾语放中间：bring it up。
 
-- **if you could / it would be** — 礼貌请求的经典组合：If you could take out the trash, it would be great. 用 if + could + it would be 把命令变成假设，语气极其委婉。比 Please take out the trash 客气得多。
+- **agree on / divide / equally** — 分配三词。agree on 是"就…达成一致"：Let's agree on a plan. divide 是"分配、划分"：divide the chores。equally 是"平均地"：divide them equally. 三词连用就是室友谈判的核心句。
 
-- **chore** — 家务杂事。通常用复数 chores：do the chores / split the chores / household chores。特指那些重复性的、不太有趣的家务（洗碗、倒垃圾、拖地），不用于指做饭这种可能有乐趣的事。
+- **chore / belongings** — 家务与物品。chore 是家务杂事，常用复数 chores：do the chores。belongings 用复数表示"个人物品"（belong + -ings）：Please move your belongings.
 
-- **divide / equally** — divide 是"分配、划分"，equally 是"平均地"。搭配：divide the chores equally / divide the rent equally。注意 divide 强调把整体分成几份，share 强调共同使用。
+- **bird cage / fish tank** — 宠物设施词对。bird cage 是鸟笼；fish tank 是鱼缸，两者都是复合名词"动物 + 容器"。负责清洁它们是经典室友分工话题。
 
-- **agree on** — 就……达成一致。搭配：agree on a plan / agree on the rules / agree on how to divide。注意介词：agree on + 具体事项，agree with + 人，agree to + 提议。
+- **if you could / it would be** — 礼貌请求黄金组合。If you could clean the fish tank, it would be great. if + could 是虚拟语气软化请求，it would be 给出评价。比直接说 Clean the tank 客气得多。
 
-- **bother to** — 费心去做（常用于否定）：You didn't even bother to clean up. 带有不满语气，暗示"这件事你本应该做但懒得做"。肯定形式 I bothered to call 则强调自己费了心。
+- **please also stop / please not** — 直接但留面子的请求。please also stop 用于叠加请求：Please also stop leaving dishes here. please not 是简化的否定请求：Please not after midnight.（请不要在午夜之后。）
 
-- **belongings** — 个人物品、财物（复数）。比 things 正式，比 possessions 日常。搭配：personal belongings / take your belongings / leave your belongings everywhere。室友矛盾的经典导火索。
+- **promise not to / remind me not to** — 否定承诺结构。not 的位置是关键：promise NOT to do（答应不做），remind me NOT to do（提醒我别做）。✗ promise to not do 也有人用，但教材标准是 promise not to。
 
-- **every once in a while** — 偶尔、时不时。等于 occasionally / from time to time。语气比 sometimes 更随意：Every once in a while, he forgets to lock the door. 注意是 once in a while，不是 once a while。
+- **let's not / let's finally** — 让我们句式。let's not 提出共同避免的事：Let's not argue about this. let's finally 引出期待已久的事：Let's finally fix the schedule.
 
-- **let's not / let's finally** — let's not 用来提议"不要做某事"：Let's not argue about this. let's finally 用来提议"终于该做某事了"：Let's finally agree on a cleaning schedule. 两个都是祈使句的协商形式。
+- **bother to** — "费心去做"，多用于否定：You didn't even bother to ask.（你连问都懒得问。）bother 本意"打扰、费事"。
 
-- **plumber** — 水管工。plumb- 来自拉丁语 plumbum（铅），因为古罗马水管用铅制成。英语中 plumbing（管道系统）也由此而来。注意 b 不发音，读 /ˈplʌmər/。
+- **behavior / clear / take** — 行为与动作。behavior 是"行为"（behave + -ior）；clear 作动词"清理"：clear the table。take 万能动词，本单元搭配 take out the trash（倒垃圾）、take turns（轮流）。
 
-- **promise not to / remind me not to** — 两个室友间的常用句式。Promise not to leave dishes in the sink!（保证别把碗丢水池里！）Remind me not to forget the trash day.（提醒我别忘了倒垃圾的日子。）注意 not to 是不定式的否定形式。
+- **every once in a while** — "偶尔、时不时"：Every once in a while, we eat together. 与 sometimes 同义，但更有生活气息。
 
-- **clear** — 这里做动词，意为"清理、弄清楚"：Let's clear this up. / Clear your stuff off the table. 做形容词时意为"清楚的"：Is that clear? 一词多用，看搭配判断。
+- **plumber** — 水管工（plumb 铅管 + -er）。注意 b 不发音，读 /ˈplʌmər/。报修场景：We need to call a plumber.
 
 ## 练习
 
@@ -61,149 +60,149 @@ bring up 是本单元的核心动词短语，意为"提出（话题）"。搭配
 
 <quiz-sentence-builder>
 
-1. **中文**：我们能就如何平均分配家务杂事达成一致吗？  
-   **英文**：Could we agree on how to divide the chores equally?
-   > **解析**：agree on 表示就……达成一致；divide 表示分配；chore 表示家务；equally 表示平均地。
+1. **中文**：我想提一下家务的问题。
+   **英文**：I'd like to bring up the chore issue.
+   > **解析**：would like to 后接动词原形 bring up；the chore issue 作宾语。
 
-2. **中文**：如果你能请不要把你的个人物品到处乱放，那就太好了。  
-   **英文**：If you could please not leave your belongings everywhere, it would be great.
-   > **解析**：if you could 表示如果你能；please not 表示请不要；belongings 表示个人物品；it would be 表示那就太好了。
+2. **中文**：我们就计划达成一致吧。
+   **英文**：Let's agree on a plan.
+   > **解析**：let's 后接动词原形；agree on 是固定搭配"就…达成一致"。
 
-3. **中文**：我们不要再为旧事争吵了——让我们终于把这件事理清吧。  
-   **英文**：Let's not bring up old issues—let's finally clear this matter up.
-   > **解析**：let's not 表示我们不要；bring up 表示提出/翻旧账；let's finally 表示让我们终于；clear 表示理清。
+3. **中文**：把家务平均分了吧。
+   **英文**：Let's divide the chores equally.
+   > **解析**：divide 是动词"分配"；equally 副词修饰 divide，放句末。
 
-4. **中文**：我讨厌提出这个话题，但你时不时甚至都懒得清理鱼缸和鸟笼。  
-   **英文**：I hate to bring this up, but every once in a while you don't bother to clean the fish tank and bird cage.
-   > **解析**：bring up 表示提出；every once in a while 表示时不时/偶尔；bother to 表示费心做；fish tank 表示鱼缸；bird cage 表示鸟笼。
+4. **中文**：你能清理鱼缸的话就太好了。
+   **英文**：If you could clean the fish tank, it would be great.
+   > **解析**：if + could 虚拟语气软化请求；it would be great 中 it 指代这件事。
 
-5. **中文**：鉴于公共区域的不当行为，请也停止在深夜制造噪音。  
-   **英文**：Considering behavior in common areas, please also stop making noise late at night.
-   > **解析**：behavior 表示行为；please also stop 表示请也停止。
+5. **中文**：请把你的东西从桌上拿走。
+   **英文**：Please take your belongings off the table.
+   > **解析**：Please 开头的祈使句；take... off 表示"从…拿走"。
 
-6. **中文**：浴室的水管坏了，请提醒我不要忘记明天给水管工打电话。  
-   **英文**：The bathroom sink is leaking; remind me not to forget calling the plumber tomorrow.
-   > **解析**：remind me not to 表示提醒我不要；plumber 表示水管工。
+6. **中文**：请不要在午夜之后放音乐。
+   **英文**：Please don't play music after midnight.
+   > **解析**：否定祈使句 Please don't + 动词原形；after midnight 是时间状语。
 
-7. **中文**：请保证不要未经许可擅自拿走室友的物品。  
-   **英文**：Please promise not to take your roommate's things without asking first.
-   > **解析**：promise not to 表示保证不要；take 表示拿走；ask 表示询问/许可。
+7. **中文**：答应我别再把盘子留在水池里。
+   **英文**：Promise not to leave dishes in the sink.
+   > **解析**：promise not to do 是否定承诺结构，not 紧跟 to 前；dishes 用复数。
 
-8. **中文**：我们应该平均分配每月的房租和水电气账单。  
-   **英文**：We ought to divide the monthly rent and utility bills equally among us.
-   > **解析**：divide 表示分配；equally 表示平均地。
+8. **中文**：提醒我别忘叫水管工。
+   **英文**：Remind me not to forget to call the plumber.
+   > **解析**：remind sb not to do 结构，not 放在 to forget 前；call the plumber 是嵌套不定式。
 
-9. **中文**：如果你能清理干净餐桌上的个人物品，那就再好不过了。  
-   **英文**：If you could clear your personal belongings off the table, it would be wonderful.
-   > **解析**：if you could 表示如果你能；clear 表示清理；belongings 表示个人物品；it would be 表示那就太好了。
+9. **中文**：我们别再为这个吵架了。
+   **英文**：Let's not argue about this.
+   > **解析**：let's not 后接动词原形 argue；about this 引出争论对象。
 
-10. **中文**：我们不要再为谁该倒垃圾这种小家务而互相抱怨了。  
-   **英文**：Let's not complain about who should take out the trash chore anymore.
-   > **解析**：let's not 表示我们不要；chore 表示家务。
+10. **中文**：我们终于可以把值日表定下来了。
+   **英文**：Let's finally set the schedule.
+   > **解析**：let's 后接原形 set；finally 副词修饰整个动作。
 
-11. **中文**：让我们终于制定出一个大家都能遵守的日常卫生守则吧。  
-   **英文**：Let's finally agree on a daily cleaning schedule that everyone follows.
-   > **解析**：let's finally 表示让我们终于；agree on 表示就……达成一致。
+11. **中文**：你连问都懒得问。
+   **英文**：You didn't even bother to ask.
+   > **解析**：bother to do 是"费心去做"，常用于否定；even 加强语气。
 
-12. **中文**：他有时候连把脏盘子放进洗碗机里都懒得费心去做。  
-   **英文**：Every once in a while, he doesn't even bother to put dirty dishes in the washer.
-   > **解析**：every once in a while 表示时不时；bother to 表示费心去做。
+12. **中文**：她的行为让我烦恼。
+   **英文**：Her behavior bothers me.
+   > **解析**：Her behavior 是第三人称单数主语，bother 加 s；me 作宾语。
 
-13. **中文**：请也停止在树枝上随意挂放脏乱的鸟笼。  
-   **英文**：Please also stop leaving the dirty bird cage near the window.
-   > **解析**：please also stop 表示请也停止；bird cage 表示鸟笼。
+13. **中文**：鸟笼需要每周清理。
+   **英文**：The bird cage needs cleaning every week.
+   > **解析**：need + doing 表示"需要被…"；every week 是频率状语。
 
-14. **中文**：请不要把湿衣服堆在客厅的沙发上。  
-   **英文**：Please not leave wet clothes piled up on the living room sofa.
-   > **解析**：please not 表示请不要。
+14. **中文**：我们偶尔一起吃饭。
+   **英文**：Every once in a while, we eat together.
+   > **解析**：Every once in a while 作频率状语放句首；together 副词放句末。
 
-15. **中文**：鱼缸里的水需要定期更换，以保持清澈干净。  
-   **英文**：The water in the fish tank needs to be changed regularly to stay clean.
-   > **解析**：fish tank 表示鱼缸；clear/clean 表示清澈干净。
+15. **中文**：请你倒一下垃圾好吗？
+   **英文**：Could you take out the trash, please?
+   > **解析**：Could you... 是礼貌请求句型；take out the trash 是固定短语"倒垃圾"。
 
-16. **中文**：良好的沟通和规范的行为是室友和谐相处的钥匙。  
-   **英文**：Clear communication and respectful behavior are key to living together peacefully.
-   > **解析**：clear 表示清晰的；behavior 表示行为。
+16. **中文**：请也别用我的杯子。
+   **英文**：Please also stop using my cup.
+   > **解析**：please also stop 后接动名词 using；also 表示"也"。
 
-17. **中文**：水管工今天下午会来修好客厅水管漏水的问题。  
-   **英文**：The plumber will come this afternoon to fix the leak in the kitchen pipe.
-   > **解析**：plumber 表示水管工。
+17. **中文**：收拾桌子是我的家务。
+   **英文**：Clearing the table is my chore.
+   > **解析**：动名词短语 Clearing the table 作主语，用单数 is。
 
-18. **中文**：我想提出一个关于如何公平分配周末家务的话题。  
-   **英文**：I'd like to bring up the topic of how to divide weekend chores fairly.
-   > **解析**：bring up 表示提出；divide 表示分配；chore 表示家务。
+18. **中文**：我可以问你一个问题吗？
+   **英文**：Can I ask you a question?
+   > **解析**：Can I... 请求许可；ask + 人 + 物双宾结构。
 
-19. **中文**：请提醒我不要忘记在明天早上之前向室友收取水电费。  
-   **英文**：Remind me not to forget collecting the bill payment from my roommate tomorrow.
-   > **解析**：remind me not to 表示提醒我不要。
+19. **中文**：如果桌子干净了，感觉会很好。
+   **英文**：If the table is clear, it would feel nice.
+   > **解析**：if 引导条件句；clear 作形容词"干净的、空的"。
 
-20. **中文**：请保证不要在未经许可的情况下拿走别人的私人物品。  
-   **英文**：Promise not to take someone else's personal belongings without asking first.
-   > **解析**：promise not to 表示保证不要；take 表示拿走；belongings 表示个人物品。
+20. **中文**：我们轮流打扫鸟笼吧。
+   **英文**：Let's take turns cleaning the bird cage.
+   > **解析**：take turns 是固定短语"轮流"；cleaning 作伴随动名词。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Could we agree on how to divide the chores equally?
-   > **中文**：我们能就如何平均分配家务杂事达成一致吗？
+1. I'd like to bring up the chore issue.
+   > **中文**：我想提一下家务的问题。
 
-2. If you could please not leave your belongings everywhere, it would be great.
-   > **中文**：如果你能请不要把你的个人物品到处乱放，那就太好了。
+2. Let's agree on a plan.
+   > **中文**：我们就计划达成一致吧。
 
-3. Let's not bring up old issues—let's finally clear this matter up.
-   > **中文**：我们不要再为旧事争吵了——让我们终于把这件事理清吧。
+3. Let's divide the chores equally.
+   > **中文**：把家务平均分了吧。
 
-4. I hate to bring this up, but every once in a while you don't bother to clean the fish tank and bird cage.
-   > **中文**：我讨厌提出这个话题，但你时不时甚至都懒得清理鱼缸和鸟笼。
+4. If you could clean the fish tank, it would be great.
+   > **中文**：你能清理鱼缸的话就太好了。
 
-5. Considering behavior in common areas, please also stop making noise late at night.
-   > **中文**：鉴于公共区域的不当行为，请也停止在深夜制造噪音。
+5. Please take your belongings off the table.
+   > **中文**：请把你的东西从桌上拿走。
 
-6. The bathroom sink is leaking; remind me not to forget calling the plumber tomorrow.
-   > **中文**：浴室的水管坏了，请提醒我不要忘记明天给水管工打电话。
+6. Promise not to leave dishes in the sink.
+   > **中文**：答应我别再把盘子留在水池里。
 
-7. Please promise not to take your roommate's things without asking first.
-   > **中文**：请保证不要未经许可擅自拿走室友的物品。
+7. Remind me not to forget the plumber.
+   > **中文**：提醒我别忘了水管工。
 
-8. We ought to divide the monthly rent and utility bills equally among us.
-   > **中文**：我们应该平均分配每月的房租和水电气账单。
+8. Let's not argue about this.
+   > **中文**：我们别再为这个吵架了。
 
-9. If you could clear your personal belongings off the table, it would be wonderful.
-   > **中文**：如果你能清理干净餐桌上的个人物品，那就再好不过了。
+9. Let's finally set the schedule.
+   > **中文**：我们终于可以把值日表定下来了。
 
-10. Let's not complain about who should take out the trash chore anymore.
-   > **中文**：我们不要再为谁该倒垃圾这种小家务而互相抱怨了。
+10. You didn't even bother to ask.
+   > **中文**：你连问都懒得问。
 
-11. Let's finally agree on a daily cleaning schedule that everyone follows.
-   > **中文**：让我们终于制定出一个大家都能遵守的日常卫生守则吧。
+11. Her behavior bothers me.
+   > **中文**：她的行为让我烦恼。
 
-12. Every once in a while, he doesn't even bother to put dirty dishes in the washer.
-   > **中文**：他有时候连把脏盘子放进洗碗机里都懒得费心去做。
+12. The bird cage needs cleaning every week.
+   > **中文**：鸟笼需要每周清理。
 
-13. Please also stop leaving the dirty bird cage near the window.
-   > **中文**：请也停止在树枝上随意挂放脏乱的鸟笼。
+13. Every once in a while, we eat together.
+   > **中文**：我们偶尔一起吃饭。
 
-14. Please not leave wet clothes piled up on the living room sofa.
-   > **中文**：请不要把湿衣服堆在客厅的沙发上。
+14. Could you take out the trash, please?
+   > **中文**：请你倒一下垃圾好吗？
 
-15. The water in the fish tank needs to be changed regularly to stay clean.
-   > **中文**：鱼缸里的水需要定期更换，以保持清澈干净。
+15. Please also stop using my cup.
+   > **中文**：请也别用我的杯子。
 
-16. Clear communication and respectful behavior are key to living together peacefully.
-   > **中文**：良好的沟通和规范的行为是室友和谐相处的钥匙。
+16. Clearing the table is my chore.
+   > **中文**：收拾桌子是我的家务。
 
-17. The plumber will come this afternoon to fix the leak in the kitchen pipe.
-   > **中文**：水管工今天下午会来修好客厅水管漏水的问题。
+17. Can I ask you a question?
+   > **中文**：我可以问你一个问题吗？
 
-18. I'd like to bring up the topic of how to divide weekend chores fairly.
-   > **中文**：我想提出一个关于如何公平分配周末家务的话题。
+18. Please not after midnight.
+   > **中文**：请不要在午夜之后。
 
-19. Remind me not to forget collecting the bill payment from my roommate tomorrow.
-   > **中文**：请提醒我不要忘记在明天早上之前向室友收取水电费。
+19. It would be nice if the table was clear.
+   > **中文**：如果桌子收拾干净了就太好了。
 
-20. Promise not to take someone else's personal belongings without asking first.
-   > **中文**：请保证不要在未经许可的情况下拿走别人的私人物品。
+20. Let's take turns cleaning the bird cage.
+   > **中文**：我们轮流打扫鸟笼吧。
 
 </quiz-listening>
 
@@ -211,26 +210,38 @@ bring up 是本单元的核心动词短语，意为"提出（话题）"。搭配
 
 | 英文单词 | 课文释义 |
 | --- | --- |
+| agree on | 就…达成一致 |
+| ask | 询问 / 请求 |
+| behavior | 行为 |
+| belongings | 个人物品 |
+| bird cage | 鸟笼 |
+| bother to | 费心去做 |
 | bring up | 提出（话题） |
 | chore | 家务杂事 |
-| divide | 分配；划分 |
+| clear | 清理 / 干净的 |
+| divide | 分配 |
 | equally | 平均地 |
-| belongings | 个人物品 |
-| behavior | 行为 |
-| agree on | 就……达成一致 |
-| bother to | 费心去做 |
-| every once in a while | 偶尔；时不时 |
+| every once in a while | 偶尔 |
 | fish tank | 鱼缸 |
-| bird cage | 鸟笼 |
-| plumber | 水管工 |
-| if you could | 如果你能…… |
-| it would be | 那就太好了 |
+| if you could | 如果你能… |
+| it would be | 那将会是 |
+| let's finally | 让我们终于… |
+| let's not | 让我们别… |
+| please also stop | 请也停止 |
 | please not | 请不要 |
-| promise not to | 保证不要 |
-| remind me not to | 提醒我不要 |
-| let's finally | 让我们终于…… |
-| let's not | 我们不要…… |
-| clear | 理清；清理 |
+| plumber | 水管工 |
+| promise not to | 答应不做 |
+| remind me not to | 提醒我别… |
+| take | 拿 / 带走 |
+| is | 是 |
+| the | 这个（定冠词） |
+| table | 桌子 |
+| dishes | 餐具 |
+| trash | 垃圾 |
+| music | 音乐 |
+| schedule | 日程表 |
+| cup | 杯子 |
+| sink | 水池 |
 
 </quiz-matching>
 
@@ -238,202 +249,202 @@ bring up 是本单元的核心动词短语，意为"提出（话题）"。搭配
 
 ### 1
 
-Could we agree on how to ____ the chores equally?
+I'd like to bring ____ the chore issue.
 
-- [x] divide
-- [ ] agree on
-- [ ] ask
+- [x] up
+- [ ] on
+- [ ] in
 
-> **解析**：**divide** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：bring up 是固定短语"提出话题"；bring on 和 bring in 语义不同。
 
 ### 2
 
-If you could please not leave your ____ everywhere, it would be great.
+Let's agree ____ a plan.
 
-- [x] belongings
-- [ ] agree on
-- [ ] ask
+- [x] on
+- [ ] to
+- [ ] with
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **belongings**。
+> **解析**：agree on 表示"就（某事）达成一致"；agree with 后接人，agree to 接提议，此处对象是 plan 内容。
 
 ### 3
 
-Let's not bring up old issues—let's finally ____ this matter up.
+Let's divide the chores ____.
 
-- [x] clear
-- [ ] agree on
-- [ ] ask
+- [x] equally
+- [ ] equal
+- [ ] equality
 
-> **解析**：**clear** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰动词 divide 需要副词 equally；equal 是形容词，equality 是名词。
 
 ### 4
 
-I hate to bring this up, but every once in a while you don't ____ to clean the fish tank and bird cage.
+If you could clean the fish tank, it ____ be great.
 
-- [x] bother
-- [ ] agree on
-- [ ] ask
+- [x] would
+- [ ] will
+- [ ] did
 
-> **解析**：**bother** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：if + could 虚拟语气，主句用 would；will 用于真实条件句，did 不合。
 
 ### 5
 
-Considering ____ in common areas, please also stop making noise late at night.
+Please take your belongings ____ the table.
 
-- [x] behavior
-- [ ] agree on
-- [ ] ask
+- [x] off
+- [ ] up
+- [ ] on
 
-> **解析**：**behavior** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：take... off 表示"从…拿走"；up 和 on 不合该语义。
 
 ### 6
 
-The bathroom sink is leaking; remind me not to forget calling the ____ tomorrow.
+Promise not ____ leave dishes in the sink.
 
-- [x] plumber
-- [ ] agree on
-- [ ] ask
+- [x] to
+- [ ] for
+- [ ] of
 
-> **解析**：**plumber** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：promise not to do 是固定结构；for 和 of 不合。
 
 ### 7
 
-Please promise not to ____ your roommate's things without asking first.
+Remind me not ____ forget the plumber.
 
-- [x] take
-- [ ] agree on
-- [ ] ask
+- [x] to
+- [ ] of
+- [ ] at
 
-> **解析**：**take** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：remind sb not to do 结构中用 to；of 和 at 不合。
 
 ### 8
 
-We ought to ____ the monthly rent and utility bills equally among us.
+Let's ____ argue about this.
 
-- [x] divide
-- [ ] agree on
-- [ ] ask
+- [x] not
+- [ ] no
+- [ ] never to
 
-> **解析**：**divide** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：let's not + 动词原形是固定否定祈使结构；no 不能这样用，never to 不合。
 
 ### 9
 
-If you could ____ your personal belongings off the table, it would be wonderful.
+You didn't even bother ____ ask.
 
-- [x] clear
-- [ ] agree on
-- [ ] ask
+- [x] to
+- [ ] for
+- [ ] and
 
-> **解析**：**clear** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：bother to do 是固定搭配"费心去做"；for 和 and 不合。
 
 ### 10
 
-Let's not complain about who should ____ out the trash chore anymore.
+Her ____ bothers me.
 
-- [x] take
-- [ ] agree on
-- [ ] ask
+- [x] behavior
+- [ ] belongings
+- [ ] bird cage
 
-> **解析**：**take** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能"让人烦恼"的主语是 behavior（行为）；belongings 和 bird cage 不合语境。
 
 ### 11
 
-Let's finally agree on a daily ____ schedule that everyone follows.
+The ____ needs cleaning every week.
 
-- [x] cleaning
-- [ ] agree on
-- [ ] ask
+- [x] bird cage
+- [ ] behavior
+- [ ] chore
 
-> **解析**：**cleaning** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：需要定期清理的设施是 bird cage；behavior 和 chore 不合。
 
 ### 12
 
-Every once in a while, he ____ even bother to put dirty dishes in the washer.
+Every once in a ____, we eat together.
 
-- [x] doesn't
-- [ ] agree on
-- [ ] ask
+- [x] while
+- [ ] time
+- [ ] week
 
-> **解析**：**doesn't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：every once in a while 是固定短语"偶尔"；time 和 week 不构成该搭配。
 
 ### 13
 
-Please also stop ____ the dirty bird cage near the window.
+Could you take ____ the trash, please?
 
-- [x] leaving
-- [ ] agree on
-- [ ] ask
+- [x] out
+- [ ] off
+- [ ] in
 
-> **解析**：**leaving** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：take out the trash 是固定短语"倒垃圾"；take off 是"脱下/起飞"。
 
 ### 14
 
-Please not leave wet ____ piled up on the living room sofa.
+Please also stop ____ my cup.
 
-- [x] clothes
-- [ ] agree on
-- [ ] ask
+- [x] using
+- [ ] use
+- [ ] to using
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **clothes**。
+> **解析**：stop + doing 表示"停止做某事"；use 原形和 to using 不合该结构。
 
 ### 15
 
-The water in the fish tank needs to be changed ____ to stay clean.
+____ the table is my chore.
 
-- [x] regularly
-- [ ] agree on
-- [ ] ask
+- [x] Clearing
+- [ ] Clear
+- [ ] Cleared
 
-> **解析**：**regularly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：动名词 Clearing 作主语；Clear 原形和 Cleared 过去式不能作主语。
 
 ### 16
 
-____ communication and respectful behavior are key to living together peacefully.
+Can I ____ you a question?
 
-- [x] Clear
-- [ ] agree on
-- [ ] ask
+- [x] ask
+- [ ] bring up
+- [ ] divide
 
-> **解析**：**Clear** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：ask sb a question 是固定双宾搭配；bring up 和 divide 不合。
 
 ### 17
 
-The ____ will come this afternoon to fix the leak in the kitchen pipe.
+Please ____ after midnight.
 
-- [x] plumber
-- [ ] agree on
-- [ ] ask
+- [x] not
+- [ ] no
+- [ ] don't to
 
-> **解析**：**plumber** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：简化请求 Please not + 时间状语成立；no 和 don't to 都不合语法。
 
 ### 18
 
-I'd like to bring up the topic of how to ____ weekend chores fairly.
+It would be nice if the table was ____.
 
-- [x] divide
-- [ ] agree on
-- [ ] ask
+- [x] clear
+- [ ] equally
+- [ ] chore
 
-> **解析**：**divide** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后需要形容词 clear（干净的）；equally 是副词，chore 是名词。
 
 ### 19
 
-Remind me not to forget ____ the bill payment from my roommate tomorrow.
+Let's take ____ cleaning the bird cage.
 
-- [x] collecting
-- [ ] agree on
-- [ ] ask
+- [x] turns
+- [ ] turn
+- [ ] turnings
 
-> **解析**：**collecting** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：take turns 是固定短语"轮流"，必须用复数 turns；其余形式不成立。
 
 ### 20
 
-Promise not to ____ someone else's personal belongings without asking first.
+We need to call a ____ about the leak.
 
-- [x] take
-- [ ] agree on
-- [ ] ask
+- [x] plumber
+- [ ] chore
+- [ ] belonging
 
-> **解析**：**take** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：漏水要找 plumber（水管工）；chore 和 belonging 都不是职业。
 
 </quiz-cloze>

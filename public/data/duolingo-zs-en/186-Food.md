@@ -10,30 +10,33 @@ alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit,
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元让你谈论食物偏好。你可以表达喜欢什么、想吃什么、推荐什么：I'd rather have scrambled eggs with bacon than squash. She'd recommend the peach dessert—it's a little bit bitter, but with lime it's great.（我宁愿要炒蛋配培根也不要南瓜。她会推荐桃子甜点——有一点苦，但加了青柠就很棒。）He wouldn't eat takeout; he'd cook with flour and make his own bread.（他不吃外卖；他会用面粉自己做面包。）
+本单元的主题是"谈论食物偏好"。词表可以分成三组：食物与口味词（bacon, peach, lime, squash, scrambled eggs, flour, bitter, alcoholic, silverware, takeout）、饮食与选择词（diet, choice, weight, recommend, rather, little bit）、以及 would 家族（would, wouldn't, he would, he'd, she would, she'd, they'd）。拼起来就是点餐与偏好对话：Would you rather have scrambled eggs or bacon? I'd recommend the peach tea. It's a little bit bitter.
 
-词表里有具体食物：bacon, peach, lime, squash, scrambled eggs, flour。也有饮食相关概念：diet, weight, alcoholic, bitter, choice, takeout, silverware。would / wouldn't / he'd / she'd / they'd / he would / she would 构成了"意愿和偏好"的语法框架。rather 搭配 would rather = 宁愿。recommend 是推荐。little bit = 一点点。
+语法主线是 would rather 与 would like。would rather + 动词原形表示"宁愿"：I would rather stay home.；would like + to do/noun 表示"想要"，比 want 礼貌。he would 缩写成 he'd，she would 缩写成 she'd，they would 缩写成 they'd，否定 wouldn't = would not。另一条主线是口味与程度表达：a little bit bitter（有一点苦），a little bit 修饰形容词，比 very 语气轻。
+
+学完这些词，你能用英语表达食物偏好、推荐菜品、描述口味，并礼貌地做选择。
 
 ## Tips
 
-- **would rather / rather** — would rather + 动词原形 = 宁愿做：I'd rather cook than order takeout. 注意 would rather 后不接 to：I'd rather go（不是 I'd rather to go）。比较：would rather A than B。
+- **would / wouldn't / he would / he'd / she would / she'd / they'd** — would 家族大点兵。would 表意愿与委婉：I would like some tea. 否定 wouldn't：He wouldn't eat that. 缩写形式 he'd/she'd/they'd 只用于口语和非正式书写。注意 'd 也可能是 had 的缩写，靠后面动词形式判断。
 
-- **he'd / she'd / they'd / he would / she would** — 'd 缩写在此代表 would（后接动词原形）：He'd prefer bacon. / She'd like some lime. 如果是 had，后面应接过去分词。wouldn't = would not：He wouldn't eat squash.
+- **rather** — 常用于 would rather（宁愿）：I would rather have soup. would rather + 动词原形，不加 to。也可单独表示"相当"：It's rather cold.
 
-- **scrambled eggs / bacon / squash** — scrambled eggs = 炒蛋（scramble = 搅乱，把蛋搅散炒）。bacon = 培根/熏肉。squash = 南瓜（也可指壁球运动）。注意 egg 的常见做法：scrambled（炒）、fried（煎）、boiled（煮）、poached（水波）。
+- **recommend** — "推荐"：I'd recommend the peach dish. 后接名词或动名词，不接 to do。与 Unit 181 同一用法，注意巩固。
 
-- **bitter / lime / peach** — bitter = 苦的（五味之一：sweet, sour, bitter, salty, umami）。lime = 青柠/酸橙（lemon 是黄柠檬）。peach = 桃子。搭配：a bitter taste / a slice of lime。
+- **bitter / little bit** — bitter 苦的：The tea is bitter. 与 sweet（甜）、sour（酸）并列的口味词。a little bit 表示"有一点"，修饰形容词：a little bit bitter. 比 very 温和，是缓冲语气的好工具。
 
-- **flour / diet / weight** — flour = 面粉（注意和 flower 花 发音相同但拼写不同）。diet = 饮食/节食：go on a diet. weight = 体重/重量：lose weight / gain weight. 注意 weight 的拼写（ei 组合）。
+- **alcoholic** — "含酒精的"：alcoholic drinks（含酒精饮料）。名词 alcohol 酒精 + -ic。与 non-alcoholic（无酒精的）对照记忆。
 
-- **takeout / silverware / choice** — takeout = 外卖（美式，英式：takeaway）。silverware = 银器/餐具（刀叉勺的总称，美式用法）。choice = 选择：a good choice / make a choice.
+- **bacon / scrambled eggs / peach / lime / squash** — 五个食材词。bacon 培根；scrambled eggs 炒蛋（scramble 搅拌）；peach 桃子；lime 青柠；squash 南瓜/西葫芦（也可指壁球运动）。早餐场景常用 bacon and scrambled eggs。
 
-- **alcoholic / little bit / recommend** — alcoholic 形容饮品时表示"含酒精的"：alcoholic drinks. little bit = 一点点（= a little）：a little bit bitter. recommend 后接名词或动名词：I recommend the peach. / I recommend trying it.
+- **flour / silverware** — flour 面粉，不可数，注意与 flower（花）拼写只差一个字母；silverware 餐具（美式），silver 银 + ware 器具，包括刀叉勺。
 
-- **would / wouldn't** — would 在此表意愿或假设偏好：I would like some tea. wouldn't = 不愿意：She wouldn't eat that. 注意 would 也用于礼貌请求：Would you pass the silverware?
+- **takeout** — "外卖"（美式）：order takeout（点外卖）；英式对应词是 takeaway。take + out 合成。
+
+- **diet / weight / choice** — 三个健康管理词。diet 饮食/节食：be on a diet（在节食）；weight 体重：lose weight（减肥）；choice 选择：a healthy choice（健康的选择）。make a choice 是固定搭配。
 
 ## 练习
 
@@ -51,149 +54,149 @@ alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit,
 
 <quiz-sentence-builder>
 
-1. **中文**：餐厅为不饮酒的顾客提供非含酒精的饮料。
-   **英文**：They do not serve alcoholic drinks to minors.
-   > **解析**：alcoholic 表示“含酒精的”。
+1. **中文**：你宁愿吃炒蛋还是培根？
+   **英文**：Would you rather have scrambled eggs or bacon?
+   > **解析**：would rather + 动词原形 have 表示"宁愿"；or 连接两个选择项。
 
-2. **中文**：早饭她喜欢吃香煎培根和金黄的外酥蛋饼。
-   **英文**：He cooked crispy bacon and eggs for Sunday breakfast.
-   > **解析**：bacon 表示“培根/熏肉”。
+2. **中文**：我宁愿点外卖。
+   **英文**：I would rather order takeout.
+   > **解析**：would rather 后接动词原形 order；不加 to。
 
-3. **中文**：这杯黑咖啡尝起来有一股浓郁的苦味。
-   **英文**：The dark chocolate has a slightly bitter taste.
-   > **解析**：bitter 表示“苦味的”。
+3. **中文**：他不吃那个。
+   **英文**：He wouldn't eat that.
+   > **解析**：wouldn't 是 would not 的缩写，后接动词原形 eat；表示拒绝。
 
-4. **中文**：主菜单上有很多健康的素食选择。
-   **英文**：Making a healthy choice is important for your diet.
-   > **解析**：choice 表示“选择”。
+4. **中文**：她会推荐桃子茶的。
+   **英文**：She would recommend the peach tea.
+   > **解析**：would 后接动词原形 recommend；the peach tea 是名词短语作宾语。
 
-5. **中文**：为了保持身材，她最近一直在进行低碳水节食。
-   **英文**：A balanced diet contains vegetables, fruit, and protein.
-   > **解析**：diet 表示“饮食/节食”。
+5. **中文**：他们会想要沙拉的。
+   **英文**：They'd like the salad.
+   > **解析**：they'd 是 they would 的缩写；would like 表示"想要"。
 
-6. **中文**：烘焙面包和蛋糕需要用到优质的小麦面粉。
-   **英文**：Combine the flour and baking powder in a large bowl.
-   > **解析**：flour 表示“面粉”。
+6. **中文**：这茶有一点苦。
+   **英文**：The tea is a little bit bitter.
+   > **解析**：a little bit 修饰形容词 bitter；is 与单数主语搭配。
 
-7. **中文**：在冰爽的鸡尾酒里挤上一挤新鲜的青柠汁。
-   **英文**：Add a slice of fresh lime to your glass of iced water.
-   > **解析**：lime 表示“青柠/酸橙”。
+7. **中文**：我想要一杯含酒精的饮料。
+   **英文**：I would like an alcoholic drink.
+   > **解析**：would like 表委婉意愿；alcoholic 以元音音素开头，冠词用 an。
 
-8. **中文**：请在黑胡椒汤里稍微加一点点盐调味。
-   **英文**：Add a little bit of sugar to balance the sour sauce.
-   > **解析**：little bit 表示“一点点/稍微”。
+8. **中文**：这是一个健康的选择。
+   **英文**：This is a healthy choice.
+   > **解析**：healthy 修饰名词 choice；is 与单数主语搭配。
 
-9. **中文**：夏天的桃子咬起来又香甜又多汁。
-   **英文**：She picked a sweet ripe peach from the garden tree.
-   > **解析**：peach 表示“桃子”。
+9. **中文**：我正在节食。
+   **英文**：I am on a diet.
+   > **解析**：be on a diet 是固定表达，表示"在节食"；介词用 on。
 
-10. **中文**：比起出去吃，我宁愿留在家里做饭。
-   **英文**：I would rather cook dinner at home tonight.
-   > **解析**：rather 表示“宁愿/更愿意”；would rather 意为“宁愿”。
+10. **中文**：她想减轻体重。
+   **英文**：She wants to lose weight.
+   > **解析**：want 后接不定式 to lose；lose weight 是固定搭配，weight 不加冠词。
 
-11. **中文**：服务员向我们推荐了小店的招牌特色菜。
-   **英文**：The waiter recommend trying the grilled seafood.
-   > **解析**：recommend 表示“推荐”。
+11. **中文**：面粉是做面包用的。
+   **英文**：Flour is used to make bread.
+   > **解析**：is used 是被动语态；flour 是不可数名词，作主语不加冠词。
 
-12. **中文**：早饭我喜欢吃软嫩可口的炒鸡蛋配吐司。
-   **英文**：She ordered fluffy scrambled eggs with toast.
-   > **解析**：scrambled eggs 表示“炒鸡蛋”。
+12. **中文**：请把餐具摆好。
+   **英文**：Please set the silverware.
+   > **解析**：祈使句以 Please + 动词原形开头；set the silverware 是摆餐具的习惯说法。
 
-13. **中文**：服务员在用餐前摆放好了干净的银质餐具。
-   **英文**：Please set the silverware on the dining table.
-   > **解析**：silverware 表示“银质餐具/西餐刀叉”。
+13. **中文**：早餐我们吃培根和炒蛋。
+   **英文**：We have bacon and scrambled eggs for breakfast.
+   > **解析**：have 表示"吃"；for breakfast 表示"作为早餐"。
 
-14. **中文**：清炒南瓜是一道口感清甜的营养蔬菜。
-   **英文**：Roasted squash makes a warm and healthy winter dish.
-   > **解析**：squash 表示“南瓜/葫芦”。
+14. **中文**：青柠太酸了。
+   **英文**：The lime is too sour.
+   > **解析**：too 修饰形容词 sour，表示"太……"；is 与单数主语搭配。
 
-15. **中文**：今晚太累了，我们决定点一些外卖食品。
-   **英文**：We ordered Chinese takeout for dinner after work.
-   > **解析**：takeout 表示“外卖食品”。
+15. **中文**：南瓜汤是我的最爱。
+   **英文**：The squash soup is my favorite.
+   > **解析**：squash 作定语修饰 soup；favorite 作名词表"最爱"。
 
-16. **中文**：坚持每日运动有助于维持健康的体重。
-   **英文**：Regular exercise helps you control your body weight.
-   > **解析**：weight 表示“体重/重量”。
+16. **中文**：他想要一杯桃汁。
+   **英文**：He'd like a glass of peach juice.
+   > **解析**：he'd = he would；a glass of 是量词短语。
 
-17. **中文**：如果汤冷了，服务员不会拒绝退换的。
-   **英文**：I wouldn't recommend eating spoiled food products.
-   > **解析**：wouldn't 即 would not。
+17. **中文**：我不推荐这个，它太苦了。
+   **英文**：I wouldn't recommend this, because it is too bitter.
+   > **解析**：wouldn't recommend 表委婉否定；because 引导原因状语从句。
 
-18. **中文**：他说他宁愿要热咖啡，不要冰水。
-   **英文**：He said he'd prefer a glass of fresh orange juice.
-   > **解析**：he'd 表示 he would / he had。
+18. **中文**：你今晚想点什么外卖？
+   **英文**：What takeout would you like tonight?
+   > **解析**：疑问词 What 提前；would you like 是委婉询问句型。
 
-19. **中文**：她说她宁愿选择沙拉作为晚餐的主食。
-   **英文**：She said she'd like to order a fresh garden salad.
-   > **解析**：she'd 表示 she would / she had。
+19. **中文**：她不太饿，只要一点点。
+   **英文**：She isn't very hungry, so she wants just a little bit.
+   > **解析**：so 连接因果分句；a little bit 表示"一点点"。
 
-20. **中文**：他们说他们宁愿走楼梯也不坐拥挤的电梯。
-   **英文**：They said they'd order takeout instead of cooking.
-   > **解析**：they'd 表示 they would / they had。
+20. **中文**：你的选择是什么？
+   **英文**：What is your choice?
+   > **解析**：疑问词 What 提前，is 与单数表语 choice 呼应；your 修饰 choice。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. They do not serve alcoholic drinks to minors.
-   > **中文**：餐厅为不饮酒的顾客提供非含酒精的饮料。
+1. Would you rather have scrambled eggs or bacon?
+   > **中文**：你宁愿吃炒蛋还是培根？
 
-2. He cooked crispy bacon and eggs for Sunday breakfast.
-   > **中文**：早饭她喜欢吃香煎培根和金黄的外酥蛋饼。
+2. I would rather order takeout.
+   > **中文**：我宁愿点外卖。
 
-3. The dark chocolate has a slightly bitter taste.
-   > **中文**：这杯黑咖啡尝起来有一股浓郁的苦味。
+3. He wouldn't eat that.
+   > **中文**：他不会吃那个。
 
-4. Making a healthy choice is important for your diet.
-   > **中文**：主菜单上有很多健康的素食选择。
+4. She would recommend the peach tea.
+   > **中文**：她会推荐桃子茶。
 
-5. A balanced diet contains vegetables, fruit, and protein.
-   > **中文**：为了保持身材，她最近一直在进行低碳水节食。
+5. They'd like the salad.
+   > **中文**：他们会想要沙拉。
 
-6. Combine the flour and baking powder in a large bowl.
-   > **中文**：烘焙面包和蛋糕需要用到优质的小麦面粉。
+6. The tea is a little bit bitter.
+   > **中文**：这茶有一点苦。
 
-7. Add a slice of fresh lime to your glass of iced water.
-   > **中文**：在冰爽的鸡尾酒里挤上一挤新鲜的青柠汁。
+7. I would like an alcoholic drink.
+   > **中文**：我想要一杯含酒精的饮料。
 
-8. Add a little bit of sugar to balance the sour sauce.
-   > **中文**：请在黑胡椒汤里稍微加一点点盐调味。
+8. This is a healthy choice.
+   > **中文**：这是一个健康的选择。
 
-9. She picked a sweet ripe peach from the garden tree.
-   > **中文**：夏天的桃子咬起来又香甜又多汁。
+9. I am on a diet.
+   > **中文**：我正在节食。
 
-10. I would rather cook dinner at home tonight.
-   > **中文**：比起出去吃，我宁愿留在家里做饭。
+10. She wants to lose weight.
+   > **中文**：她想减轻体重。
 
-11. The waiter recommend trying the grilled seafood.
-   > **中文**：服务员向我们推荐了小店的招牌特色菜。
+11. Flour is used to make bread.
+   > **中文**：面粉是用来做面包的。
 
-12. She ordered fluffy scrambled eggs with toast.
-   > **中文**：早饭我喜欢吃软嫩可口的炒鸡蛋配吐司。
+12. Please set the silverware.
+   > **中文**：请把餐具摆好。
 
-13. Please set the silverware on the dining table.
-   > **中文**：服务员在用餐前摆放好了干净的银质餐具。
+13. We have bacon for breakfast.
+   > **中文**：我们早餐吃培根。
 
-14. Roasted squash makes a warm and healthy winter dish.
-   > **中文**：清炒南瓜是一道口感清甜的营养蔬菜。
+14. The lime is too sour.
+   > **中文**：青柠太酸了。
 
-15. We ordered Chinese takeout for dinner after work.
-   > **中文**：今晚太累了，我们决定点一些外卖食品。
+15. The squash soup is delicious.
+   > **中文**：南瓜汤很美味。
 
-16. Regular exercise helps you control your body weight.
-   > **中文**：坚持每日运动有助于维持健康的体重。
+16. He'd like a glass of peach juice.
+   > **中文**：他想要一杯桃汁。
 
-17. I wouldn't recommend eating spoiled food products.
-   > **中文**：如果汤冷了，服务员不会拒绝退换的。
+17. I wouldn't recommend this dish.
+   > **中文**：我不推荐这道菜。
 
-18. He said he'd prefer a glass of fresh orange juice.
-   > **中文**：他说他宁愿要热咖啡，不要冰水。
+18. What takeout would you like tonight?
+   > **中文**：你今晚想点什么外卖？
 
-19. She said she'd like to order a fresh garden salad.
-   > **中文**：她说她宁愿选择沙拉作为晚餐的主食。
+19. She wants just a little bit.
+   > **中文**：她只要一点点。
 
-20. They said they'd order takeout instead of cooking.
-   > **中文**：他们说他们宁愿走楼梯也不坐拥挤的电梯。
+20. What is your choice?
+   > **中文**：你的选择是什么？
 
 </quiz-listening>
 
@@ -203,24 +206,30 @@ alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit,
 | --- | --- |
 | alcoholic | 含酒精的 |
 | bacon | 培根 |
-| bitter | 苦味的 |
+| bitter | 苦的 |
 | choice | 选择 |
 | diet | 饮食 / 节食 |
 | flour | 面粉 |
+| he would | 他会 |
+| he'd | he would 的缩写 |
 | lime | 青柠 |
 | little bit | 一点点 |
 | peach | 桃子 |
-| rather | 宁愿 / 更愿意 |
+| rather | 宁愿 / 相当 |
 | recommend | 推荐 |
-| scrambled eggs | 炒鸡蛋 |
-| silverware | 银质餐具 |
+| scrambled eggs | 炒蛋 |
+| she would | 她会 |
+| she'd | she would 的缩写 |
+| silverware | 餐具 |
 | squash | 南瓜 |
-| takeout | 外卖食品 |
+| takeout | 外卖 |
+| they'd | they would 的缩写 |
 | weight | 体重 |
-| wouldn't | 不会（would not） |
-| he'd | 他会 / 他宁愿 |
-| she'd | 她会 / 她宁愿 |
-| they'd | 他们会 / 他们宁愿 |
+| would | 会 / 想要 |
+| wouldn't | 不会（would not 缩写） |
+| is | 是（单数） |
+| tea | 茶 |
+| like | 喜欢 / 想要 |
 
 </quiz-matching>
 
@@ -228,202 +237,202 @@ alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit,
 
 ### 1
 
-They do not serve ____ drinks to minors.
+Would you ____ have scrambled eggs or bacon?
 
-- [x] alcoholic
-- [ ] bacon
-- [ ] bitter
+- [x] rather
+- [ ] rather to
+- [ ] like
 
-> **解析**：**alcoholic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：would rather + 动词原形是固定结构；like 后需接 to 或名词，语法不符。
 
 ### 2
 
-He cooked crispy ____ and eggs for Sunday breakfast.
+I would rather ____ takeout.
 
-- [x] bacon
-- [ ] alcoholic
-- [ ] bitter
+- [x] order
+- [ ] to order
+- [ ] ordering
 
-> **解析**：**bacon** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：would rather 后接动词原形 order；其余形式不成立。
 
 ### 3
 
-The dark chocolate has a slightly ____ taste.
+He ____ eat that.
 
-- [x] bitter
-- [ ] alcoholic
-- [ ] bacon
+- [x] wouldn't
+- [ ] don't
+- [ ] isn't
 
-> **解析**：**bitter** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：wouldn't 后接动词原形 eat 表拒绝；don't 人称不符，isn't 后不能接动词原形。
 
 ### 4
 
-Making a healthy ____ is important for your diet.
+She would ____ the peach tea.
 
-- [x] choice
-- [ ] alcoholic
-- [ ] bacon
+- [x] recommend
+- [ ] recommends
+- [ ] recommending
 
-> **解析**：**choice** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：would 后接动词原形 recommend；其余形式不能跟在情态动词后。
 
 ### 5
 
-A balanced ____ contains vegetables, fruit, and protein.
+They'd ____ the salad.
 
-- [x] diet
-- [ ] alcoholic
-- [ ] bacon
+- [x] like
+- [ ] liking
+- [ ] liked
 
-> **解析**：**diet** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：they'd = they would，后接动词原形 like。
 
 ### 6
 
-Combine the ____ and baking powder in a large bowl.
+The tea is a little bit ____.
 
-- [x] flour
-- [ ] alcoholic
-- [ ] bacon
+- [x] bitter
+- [ ] bitterness
+- [ ] bitters
 
-> **解析**：**flour** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 bitter 作表语；bitterness 是名词。
 
 ### 7
 
-Add a slice of fresh ____ to your glass of iced water.
+I would like ____ alcoholic drink.
 
-- [x] lime
-- [ ] alcoholic
-- [ ] bacon
+- [x] an
+- [ ] a
+- [ ] the
 
-> **解析**：**lime** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：alcoholic 以元音音素开头，用 an；a 用于辅音音素前。
 
 ### 8
 
-Add a little bit of sugar to ____ the sour sauce.
+This is a healthy ____.
 
-- [x] balance
-- [ ] alcoholic
-- [ ] bacon
+- [x] choice
+- [ ] choose
+- [ ] chose
 
-> **解析**：**balance** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后需要名词 choice；choose 和 chose 是动词形式。
 
 ### 9
 
-She picked a sweet ripe ____ from the garden tree.
+I am ____ a diet.
 
-- [x] peach
-- [ ] alcoholic
-- [ ] bacon
+- [x] on
+- [ ] in
+- [ ] at
 
-> **解析**：**peach** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be on a diet 是固定表达；其余介词不成立。
 
 ### 10
 
-I ____ rather cook dinner at home tonight.
+She wants to lose ____.
 
-- [x] would
-- [ ] alcoholic
-- [ ] bacon
+- [x] weight
+- [ ] weights
+- [ ] weigh
 
-> **解析**：**would** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：lose weight 是固定搭配，weight 不加冠词不加复数；weigh 是动词。
 
 ### 11
 
-The waiter ____ trying the grilled seafood.
+____ is used to make bread.
 
-- [x] recommend
-- [ ] alcoholic
-- [ ] bacon
+- [x] Flour
+- [ ] Flower
+- [ ] Bacon
 
-> **解析**：**recommend** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：做面包用面粉（Flour）；Flower 是花，Bacon 是培根，语义不符。
 
 ### 12
 
-She ordered fluffy ____ eggs with toast.
+Please set the ____.
 
-- [x] scrambled
-- [ ] alcoholic
-- [ ] bacon
+- [x] silverware
+- [ ] silver
+- [ ] takeout
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **scrambled**。
+> **解析**：set the silverware（摆餐具）是习惯说法；silver 指银本身，takeout 是外卖。
 
 ### 13
 
-Please set the ____ on the dining table.
+We have bacon and scrambled ____ for breakfast.
 
-- [x] silverware
-- [ ] alcoholic
-- [ ] bacon
+- [x] eggs
+- [ ] egg
+- [ ] bacons
 
-> **解析**：**silverware** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：scrambled eggs 固定用复数；bacon 不可数，无 bacons。
 
 ### 14
 
-Roasted ____ makes a warm and healthy winter dish.
+The lime is too ____.
 
-- [x] squash
-- [ ] alcoholic
-- [ ] bacon
+- [x] sour
+- [ ] souring
+- [ ] sources
 
-> **解析**：**squash** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：too 后接形容词 sour；其余选项词性语义不符。
 
 ### 15
 
-We ordered Chinese ____ for dinner after work.
+The squash ____ is delicious.
 
-- [x] takeout
-- [ ] alcoholic
-- [ ] bacon
+- [x] soup
+- [ ] fork
+- [ ] diet
 
-> **解析**：**takeout** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：squash soup（南瓜汤）搭配成立；fork 和 diet 语义不通。
 
 ### 16
 
-Regular exercise helps you control your body ____.
+He'd like a glass ____ peach juice.
 
-- [x] weight
-- [ ] alcoholic
-- [ ] bacon
+- [x] of
+- [ ] with
+- [ ] at
 
-> **解析**：**weight** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a glass of 是量词短语固定搭配；其余介词不成立。
 
 ### 17
 
-I ____ recommend eating spoiled food products.
+I wouldn't recommend this, ____ it is too bitter.
 
-- [x] wouldn't
-- [ ] alcoholic
-- [ ] bacon
+- [x] because
+- [ ] but
+- [ ] or
 
-> **解析**：**wouldn't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：because 引导原因状语从句；but 表转折，or 表选择，均不合语境。
 
 ### 18
 
-He said ____ prefer a glass of fresh orange juice.
+What ____ would you like tonight?
 
-- [x] he'd
-- [ ] alcoholic
-- [ ] bacon
+- [x] takeout
+- [ ] flour
+- [ ] weight
 
-> **解析**：**he'd** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：询问外卖选择用 takeout；flour 和 weight 不合点餐语境。
 
 ### 19
 
-She said ____ like to order a fresh garden salad.
+She wants just a little ____.
 
-- [x] she'd
-- [ ] alcoholic
-- [ ] bacon
+- [x] bit
+- [ ] bite
+- [ ] bits
 
-> **解析**：**she'd** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a little bit 是固定短语表示"一点点"；其余选项不构成此表达。
 
 ### 20
 
-They said ____ order takeout instead of cooking.
+What is your ____?
 
-- [x] they'd
-- [ ] alcoholic
-- [ ] bacon
+- [x] choice
+- [ ] choose
+- [ ] choosing
 
-> **解析**：**they'd** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：your 后需要名词 choice；choose 是动词原形，choosing 是动名词，均不作此表语。
 
 </quiz-cloze>

@@ -10,32 +10,35 @@ apologize, ask, ask if, ask whether, care about, condition, condolences, excuse,
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"分享好消息和坏消息"展开，重点是表达同情、歉意和关心。面对坏消息：I'm sorry to hear about your loss. My condolences. I hope you recover soon—get well soon.（听到你的损失我很难过。请接受我的哀悼。希望你早日康复——快点好起来。）面对道歉：I apologize—I messed up. I didn't do it on purpose.（我道歉——我搞砸了。我不是故意的。）
+本单元的主题是"分享与回应好坏消息"。词表可以分成四组：道歉与慰问用语（apologize, excuse, sorry for, sorry that, sorry to hear, condolences, get well soon, too bad）、消息与健康状况（news, loss, funeral, condition, get better, recover）、询问与转述（ask, ask if, ask whether, tell, wonder if, wonder whether）、以及态度短语（care about, mess up, on purpose, sooner, forever）。拼起来就是完整的慰问对话：I'm sorry to hear about your loss. Please accept my condolences. I hope she gets better soon.
 
-词表里有丰富的"道歉/同情"表达：sorry for, sorry that, sorry to hear, apologize, excuse, condolences, too bad。也有"关心/康复"类：get better, get well soon, recover, condition。funeral 和 loss 涉及丧事场景。
+语法主线是 sorry 的三种接续方式：sorry for + 名词/动名词（sorry for the mistake）、sorry that + 从句（sorry that I'm late）、sorry to + 动词原形（sorry to hear that）。三种结构意思相近但语法要求不同，是本单元的重点。另一条主线是 ask/tell/wonder 与 if/whether 的间接问句：He asked if she was okay. I wonder whether it's true.
 
-ask if / ask whether / wonder if / wonder whether 用来间接询问：I wonder if there's anything I can do. She asked whether he was getting better.（我想知道有没有什么我能做的。她问他是否在好转。）tell 和 care about 表达情感连接：Tell me the news. I care about you. on purpose = 故意地，mess up = 搞砸。
+学完这些词，你能在听到坏消息时得体地表达慰问与哀悼，为自己的失误道歉，并询问他人的健康状况。
 
 ## Tips
 
-- **sorry for / sorry that / sorry to hear** — 三种 sorry 结构。sorry for + 名词/动名词：I'm sorry for your loss. sorry that + 从句：I'm sorry that happened. sorry to hear + 内容：I'm sorry to hear that. 注意 sorry for 也可以表示"为……道歉"：I'm sorry for being late.
+- **sorry for / sorry that / sorry to hear** — sorry 的三种结构。sorry for + 名词/动名词：I'm sorry for your loss.；sorry that + 从句：I'm sorry that I messed up.；sorry to hear 听到消息时立刻回应：I'm sorry to hear that. 三种都常用，区别只在后面的成分。
 
-- **condolences / loss / funeral** — condolences = 哀悼（正式用语，常用复数）：My condolences. / Please accept my condolences. loss 在此指"失去亲人"：I'm sorry for your loss. funeral = 葬礼。注意这些词用于非常正式的悲伤场合。
+- **condolences / loss / funeral** — 哀悼三词。condolences 吊唁（常用复数）：Please accept my condolences.；loss 指亲人离世：sorry for your loss.；funeral 葬礼：attend a funeral（参加葬礼）。这是正式场合的得体表达。
 
-- **apologize / excuse / mess up** — apologize = 道歉（比 say sorry 更正式）：I apologize for the mistake. excuse 是借口/原谅：Excuse me. / There's no excuse. mess up = 搞砸（口语）：I really messed up.
+- **get well soon / get better / recover** — 祝康复的三种说法。Get well soon!（早日康复！）是探病常用语；get better 表示"好转"；recover 更正式：recover from the surgery（术后康复）。recover 搭配 from。
 
-- **on purpose / get better / recover** — on purpose = 故意地（反义：by accident）：I didn't do it on purpose! get better = 好转。recover = 康复（比 get better 更正式）：She's recovering from surgery.
+- **apologize / excuse** — apologize 正式道歉：apologize for the delay（为延误道歉）；excuse 用作借口或原谅：Excuse me. / There's no excuse.（没有借口。）apologize 后接 for。
 
-- **get well soon / condition / sooner** — get well soon 是探病时的标准祝愿。condition 指健康状况：His condition is improving. sooner = 更早：The sooner, the better.（越快越好。）
+- **ask / tell / ask if / ask whether** — ask 问、tell 告知，都是双宾动词：ask someone something / tell someone something。引出"是否"用 if 或 whether：She asked if I was okay. wonder if/wonder whether 是"想知道是否"，语气更委婉：I wonder whether he needs help.
 
-- **ask if / ask whether / wonder if / wonder whether** — ask if/whether 用于转述疑问：She asked if he was okay. wonder if/whether 更委婉，表示"想知道"：I wonder if I can help. whether 比 if 更正式。
+- **care about** — "关心、在乎"：I care about you. care about 后接名词或代词；care for 也可表照顾，care about 强调在意。
 
-- **tell / care about / news** — tell 需要接人：Tell me.（不能说 Tell to me.）care about = 关心、在乎：I care about you. news 是不可数名词：some good news（不能说 a news）。
+- **mess up / on purpose** — mess up 口语"搞砸"：I messed up the plan. on purpose 故意地：I didn't do it on purpose.（我不是故意的。）两者常一起出现。
 
-- **too bad / forever** — too bad 口语中表示"太遗憾了"：That's too bad. 也可以表示"太糟糕了"（略带无奈）。forever = 永远：I'll care about you forever. 口语中也可夸张地表示"好久"：It took forever!
+- **too bad** — 口语回应坏消息："太糟糕了、真可惜"：That's too bad. 语气较轻，用于小事的遗憾；重大噩耗请用 sorry to hear 或 condolences。
+
+- **condition / news** — condition 状况、病情：Her condition is stable.（她的病情稳定。）news 消息，不可数：some news, a piece of news. ✗ a news 是常见错误。
+
+- **sooner / forever** — sooner 是 soon 的比较级"更早"：The sooner, the better.（越快越好。）；forever 永远：friends forever（永远的朋友）。
 
 ## 练习
 
@@ -53,149 +56,149 @@ ask if / ask whether / wonder if / wonder whether 用来间接询问：I wonder 
 
 <quiz-sentence-builder>
 
-1. **中文**：在会议上迟到后，他向在场所有人表达了诚挚的道歉。
-   **英文**：I must apologize for the unexpected delay in my reply.
-   > **解析**：apologize 表示“道歉/致歉”。
+1. **中文**：听到这个消息我很难过。
+   **英文**：I'm sorry to hear that.
+   > **解析**：sorry to hear 是听到坏消息时的固定回应；to hear 是不定式，表示原因。
 
-2. **中文**：你必须在日常生活中多去关心自己的身体健康。
-   **英文**：Good managers really care about their employees' well-being.
-   > **解析**：care about 表示“在乎/关心”。
+2. **中文**：对你的失去我深表遗憾。
+   **英文**：I'm sorry for your loss.
+   > **解析**：sorry for 后接名词 your loss；这是哀悼的固定表达。
 
-3. **中文**：二手车的机械状况经过了专业检测。
-   **英文**：The car is in excellent condition after the repair.
-   > **解析**：condition 表示“状况/条件”。
+3. **中文**：很抱歉我把事情搞砸了。
+   **英文**：I'm sorry that I messed up.
+   > **解析**：sorry that 后接从句；messed up 是 mess up 的过去式，表示"搞砸"。
 
-4. **中文**：闻讯他的离世，朋友们纷纷发去切的吊唁。
-   **英文**：Please accept our deepest condolences during this hard time.
-   > **解析**：condolences 表示“吊唁/慰问”。
+4. **中文**：请接受我的哀悼。
+   **英文**：Please accept my condolences.
+   > **解析**：祈使句以 Please 开头；condolences 常用复数形式。
 
-5. **中文**：迟到不是破坏团队整体约定的借口。
-   **英文**：There is no valid excuse for missing such a deadline.
-   > **解析**：excuse 表示“借口/原谅”。
+5. **中文**：祝你早日康复。
+   **英文**：Get well soon!
+   > **解析**：祈使句表示祝愿；get well 表示"康复"，soon 修饰动词。
 
-6. **中文**：这份美好的回忆将永远留存在我们心中。
-   **英文**：His inspiring words will stay in our hearts forever.
-   > **解析**：forever 表示“永远/永久”。
+6. **中文**：她的病情正在好转。
+   **英文**：Her condition is getting better.
+   > **解析**：is getting 是现在进行时，表示变化中的状态；get better 表示"好转"。
 
-7. **中文**：亲友们齐聚一堂参加了尊严庄重的葬礼。
-   **英文**：Family members gathered to attend the funeral service.
-   > **解析**：funeral 表示“葬礼”。
+7. **中文**：他从手术中康复了。
+   **英文**：He recovered from the surgery.
+   > **解析**：recover from 是固定搭配，表示"从……中康复"；recovered 是过去式。
 
-8. **中文**：多休息并按时服药能帮助病人早日好转。
-   **英文**：We hope your grandmother will get better soon.
-   > **解析**：get better 表示“好转/康复”。
+8. **中文**：我为延误道歉。
+   **英文**：I apologize for the delay.
+   > **解析**：apologize for 是固定搭配；主语 I 后动词用原形。
 
-9. **中文**：在祝贺卡片上大家写下了早日康复的祝福。
-   **英文**：We sent a gift card with a get well soon note.
-   > **解析**：get well soon 表示“早日康复”。
+9. **中文**：我不是故意这样做的。
+   **英文**：I didn't do it on purpose.
+   > **解析**：didn't do 是过去时否定；on purpose 是固定短语，表示"故意地"。
 
-10. **中文**：得知老邻居离世的消息，大家感到深深的悲痛与丧失感。
-   **英文**：The sudden loss of his dog made him very sad.
-   > **解析**：loss 表示“损失/丧失/亲人离世”。
+10. **中文**：她问我是否安好。
+   **英文**：She asked if I was okay.
+   > **解析**：asked 后接 if 引导的间接问句；从句用陈述语序 I was okay。
 
-11. **中文**：十分抱歉，我不小心搞砸了展示文档的格式。
-   **英文**：I am sorry that I mess up the schedule today.
-   > **解析**：mess up 表示“搞砸/弄乱”。
+11. **中文**：我想知道他是否需要帮助。
+   **英文**：I wonder whether he needs help.
+   > **解析**：wonder 后接 whether 从句，语气委婉；needs 是第三人称单数形式。
 
-12. **中文**：他绝对不是故意踩到你的脚的。
-   **英文**：I did not break your favourite mug on purpose.
-   > **解析**：on purpose 表示“故意地/有预谋地”。
+12. **中文**：告诉我那个消息。
+   **英文**：Tell me the news.
+   > **解析**：祈使句以动词原形 Tell 开头；tell me the news 是双宾语结构。
 
-13. **中文**：经过两周的修养，他终于从重感冒中恢复了。
-   **英文**：It takes time to recover fully from surgery.
-   > **解析**：recover 表示“恢复/康复”。
+13. **中文**：真可惜。
+   **英文**：That's too bad.
+   > **解析**：too bad 表示"太糟糕了"；That's 是 That is 的缩写。
 
-14. **中文**：如果我们更早地发现问题，就能避免损失。
-   **英文**：The sooner we resolve the problem, the better.
-   > **解析**：sooner 表示“更早地”。
+14. **中文**：我很在乎你。
+   **英文**：I care about you.
+   > **解析**：care about 是固定短语，about 不可省略；you 作介词宾语。
 
-15. **中文**：我为昨天在电话里对你发脾气感到报歉。
-   **英文**：I am so sorry for making a mistake on your order.
-   > **解析**：sorry for 表示“对……感到报歉”。
+15. **中文**：葬礼在下周一举行。
+   **英文**：The funeral is next Monday.
+   > **解析**：is 与单数主语搭配；next Monday 是时间状语，前不加介词。
 
-16. **中文**：听说你祖母生病住院的消息，我感到非常难过。
-   **英文**：I am sorry to hear about your bad news today.
-   > **解析**：sorry to hear 表示“听闻……感到难过”。
+16. **中文**：他们是永远的朋友。
+   **英文**：They are friends forever.
+   > **解析**：are 与复数主语搭配；forever 是副词，修饰整个句子。
 
-17. **中文**：真太可惜了，我们因为堵车没赶上精彩的开场。
-   **英文**：It is too bad that you cannot join us tonight.
-   > **解析**：too bad 表示“太可惜了/太糟了”。
+17. **中文**：这个消息是好是坏？
+   **英文**：Is the news good or bad?
+   > **解析**：news 不可数，用 is；or 连接两个并列形容词。
 
-18. **中文**：我想知道是否明天图书馆会正常开放。
-   **英文**：I wonder if she received my apology message yet.
-   > **解析**：wonder if 表示“想知道是否”。
+18. **中文**：越快越好。
+   **英文**：The sooner, the better.
+   > **解析**：the + 比较级, the + 比较级 表示"越……越……"，是固定句型。
 
-19. **中文**：我想知道是否经理已经批准了假条申请。
-   **英文**：I wonder whether the flight will be canceled.
-   > **解析**：wonder whether 表示“想知道是否”。
+19. **中文**：他问我是否参加了葬礼。
+   **英文**：He asked whether I attended the funeral.
+   > **解析**：whether 引导间接问句；attended 是过去式，与主句时态呼应。
 
-20. **中文**：如果你有任何疑问，可以随时询问前台人员。
-   **英文**：Don't hesitate to ask the doctor any questions.
-   > **解析**：ask 表示“询问/请求”。
+20. **中文**：没有借口。
+   **英文**：There is no excuse.
+   > **解析**：there is 表示"有"；excuse 可数名词单数，no 修饰表示"没有"。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I must apologize for the unexpected delay in my reply.
-   > **中文**：在会议上迟到后，他向在场所有人表达了诚挚的道歉。
+1. I'm sorry to hear that.
+   > **中文**：听到这个我很难过。
 
-2. Good managers really care about their employees' well-being.
-   > **中文**：你必须在日常生活中多去关心自己的身体健康。
+2. I'm sorry for your loss.
+   > **中文**：对你的失去我深表遗憾。
 
-3. The car is in excellent condition after the repair.
-   > **中文**：二手车的机械状况经过了专业检测。
+3. Please accept my condolences.
+   > **中文**：请接受我的哀悼。
 
-4. Please accept our deepest condolences during this hard time.
-   > **中文**：闻讯他的离世，朋友们纷纷发去切的吊唁。
+4. Get well soon!
+   > **中文**：祝早日康复！
 
-5. There is no valid excuse for missing such a deadline.
-   > **中文**：迟到不是破坏团队整体约定的借口。
+5. Her condition is getting better.
+   > **中文**：她的病情正在好转。
 
-6. His inspiring words will stay in our hearts forever.
-   > **中文**：这份美好的回忆将永远留存在我们心中。
+6. He recovered from the surgery.
+   > **中文**：他从手术中康复了。
 
-7. Family members gathered to attend the funeral service.
-   > **中文**：亲友们齐聚一堂参加了尊严庄重的葬礼。
+7. I apologize for the delay.
+   > **中文**：我为延误道歉。
 
-8. We hope your grandmother will get better soon.
-   > **中文**：多休息并按时服药能帮助病人早日好转。
+8. I didn't do it on purpose.
+   > **中文**：我不是故意这样做的。
 
-9. We sent a gift card with a get well soon note.
-   > **中文**：在祝贺卡片上大家写下了早日康复的祝福。
+9. She asked if I was okay.
+   > **中文**：她问我是否安好。
 
-10. The sudden loss of his dog made him very sad.
-   > **中文**：得知老邻居离世的消息，大家感到深深的悲痛与丧失感。
+10. I wonder whether he needs help.
+   > **中文**：我想知道他是否需要帮助。
 
-11. I am sorry that I mess up the schedule today.
-   > **中文**：十分抱歉，我不小心搞砸了展示文档的格式。
+11. Tell me the news.
+   > **中文**：告诉我那个消息。
 
-12. I did not break your favourite mug on purpose.
-   > **中文**：他绝对不是故意踩到你的脚的。
+12. That's too bad.
+   > **中文**：真可惜。
 
-13. It takes time to recover fully from surgery.
-   > **中文**：经过两周的修养，他终于从重感冒中恢复了。
+13. I care about you.
+   > **中文**：我很在乎你。
 
-14. The sooner we resolve the problem, the better.
-   > **中文**：如果我们更早地发现问题，就能避免损失。
+14. The funeral is next Monday.
+   > **中文**：葬礼在下周一。
 
-15. I am so sorry for making a mistake on your order.
-   > **中文**：我为昨天在电话里对你发脾气感到报歉。
+15. I'm sorry that I messed up.
+   > **中文**：很抱歉我把事情搞砸了。
 
-16. I am sorry to hear about your bad news today.
-   > **中文**：听说你祖母生病住院的消息，我感到非常难过。
+16. They are friends forever.
+   > **中文**：他们是永远的朋友。
 
-17. It is too bad that you cannot join us tonight.
-   > **中文**：真太可惜了，我们因为堵车没赶上精彩的开场。
+17. Is the news good or bad?
+   > **中文**：这个消息是好是坏？
 
-18. I wonder if she received my apology message yet.
-   > **中文**：我想知道是否明天图书馆会正常开放。
+18. The sooner, the better.
+   > **中文**：越快越好。
 
-19. I wonder whether the flight will be canceled.
-   > **中文**：我想知道是否经理已经批准了假条申请。
+19. There is no excuse.
+   > **中文**：没有借口。
 
-20. Don't hesitate to ask the doctor any questions.
-   > **中文**：如果你有任何疑问，可以随时询问前台人员。
+20. She asked whether we could come.
+   > **中文**：她问我们能否前来。
 
 </quiz-listening>
 
@@ -204,25 +207,35 @@ ask if / ask whether / wonder if / wonder whether 用来间接询问：I wonder 
 | 英文单词 | 课文释义 |
 | --- | --- |
 | apologize | 道歉 |
-| care about | 在乎 / 关心 |
-| condition | 状况 |
-| condolences | 吊唁 / 慰问 |
-| excuse | 借口 |
+| ask | 问 |
+| ask if | 问是否 |
+| ask whether | 问是否（正式） |
+| care about | 关心 / 在乎 |
+| condition | 状况 / 病情 |
+| condolences | 哀悼 |
+| excuse | 借口 / 原谅 |
 | forever | 永远 |
 | funeral | 葬礼 |
-| get better | 好转 / 康复 |
+| get better | 好转 |
 | get well soon | 早日康复 |
-| loss | 损失 / 丧失 |
+| loss | 失去 / 丧亲 |
 | mess up | 搞砸 |
+| news | 消息 |
 | on purpose | 故意地 |
-| recover | 恢复 / 康复 |
-| sooner | 更早地 |
-| sorry for | 对……感到抱歉 |
-| sorry to hear | 听闻……感到难过 |
-| too bad | 太可惜了 |
+| recover | 康复 |
+| sooner | 更早 |
+| sorry for | 为……抱歉 |
+| sorry that | 抱歉…… |
+| sorry to hear | 听到……很遗憾 |
+| tell | 告诉 |
+| too bad | 太糟了 |
 | wonder if | 想知道是否 |
-| wonder whether | 想知道是否 |
-| ask | 询问 |
+| wonder whether | 想知道是否（正式） |
+| is | 是（单数） |
+| the | 这个 / 那个 |
+| good | 好的 |
+| bad | 坏的 |
+| or | 或者 |
 
 </quiz-matching>
 
@@ -230,202 +243,202 @@ ask if / ask whether / wonder if / wonder whether 用来间接询问：I wonder 
 
 ### 1
 
-I must ____ for the unexpected delay in my reply.
+I'm sorry ____ hear that.
 
-- [x] apologize
-- [ ] ask
-- [ ] ask if
+- [x] to
+- [ ] for
+- [ ] that
 
-> **解析**：**apologize** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：sorry to hear 是固定回应，to + 动词原形；for 后需接名词，that 后需接从句。
 
 ### 2
 
-Good managers really care about their employees' ____.
+I'm sorry for your ____.
 
-- [x] well-being
-- [ ] apologize
-- [ ] ask
+- [x] loss
+- [ ] funeral
+- [ ] excuse
 
-> **解析**：**well-being** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：sorry for your loss 是哀悼固定表达；funeral 和 excuse 不合语境。
 
 ### 3
 
-The car is in excellent ____ after the repair.
+I'm sorry ____ I messed up.
 
-- [x] condition
-- [ ] apologize
-- [ ] ask
+- [x] that
+- [ ] for
+- [ ] to
 
-> **解析**：**condition** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：sorry 后接从句用 that；for 后需接名词或动名词。
 
 ### 4
 
-Please accept our deepest ____ during this hard time.
+Please accept my ____.
 
 - [x] condolences
-- [ ] apologize
-- [ ] ask
+- [ ] news
+- [ ] condition
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **condolences**。
+> **解析**：accept my condolences（接受我的哀悼）是固定表达；另外两项语义不通。
 
 ### 5
 
-There is no valid ____ for missing such a deadline.
+Get ____ soon!
 
-- [x] excuse
-- [ ] apologize
-- [ ] ask
+- [x] well
+- [ ] good
+- [ ] bad
 
-> **解析**：**excuse** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get well 表示"康复"，well 作表语形容词；good 不用于此搭配。
 
 ### 6
 
-His inspiring words will stay in our hearts ____.
+He recovered ____ the surgery.
 
-- [x] forever
-- [ ] apologize
-- [ ] ask
+- [x] from
+- [ ] on
+- [ ] for
 
-> **解析**：**forever** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：recover from 是固定搭配；其余介词不成立。
 
 ### 7
 
-Family members gathered to attend the ____ service.
+I apologize ____ the delay.
 
-- [x] funeral
-- [ ] apologize
-- [ ] ask
+- [x] for
+- [ ] to
+- [ ] with
 
-> **解析**：**funeral** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：apologize for + 事 是固定搭配；apologize to + 人，此处接 the delay 用 for。
 
 ### 8
 
-We hope your ____ will get better soon.
+I didn't do it on ____.
 
-- [x] grandmother
-- [ ] apologize
-- [ ] ask
+- [x] purpose
+- [ ] news
+- [ ] loss
 
-> **解析**：**grandmother** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：on purpose（故意地）是固定短语；另外两项无法构成此义。
 
 ### 9
 
-We ____ a gift card with a get well soon note.
+She asked ____ I was okay.
 
-- [x] sent
-- [ ] apologize
-- [ ] ask
+- [x] if
+- [ ] on
+- [ ] at
 
-> **解析**：**sent** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：ask 后接 if 引导"是否"从句；on 和 at 是介词，不能引导从句。
 
 ### 10
 
-The sudden ____ of his dog made him very sad.
+I wonder ____ he needs help.
 
-- [x] loss
-- [ ] apologize
-- [ ] ask
+- [x] whether
+- [ ] forever
+- [ ] sooner
 
-> **解析**：**loss** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：wonder 后接 whether 从句表示"想知道是否"；另外两项是副词，不能引导从句。
 
 ### 11
 
-I am sorry that I mess up the ____ today.
+____ me the news.
 
-- [x] schedule
-- [ ] apologize
-- [ ] ask
+- [x] Tell
+- [ ] Ask whether
+- [ ] Wonder
 
-> **解析**：**schedule** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：tell someone something 是双宾结构，祈使句用 Tell；另外两项语法不成立。
 
 ### 12
 
-I did not break your ____ mug on purpose.
+That's too ____.
 
-- [x] favourite
-- [ ] apologize
-- [ ] ask
+- [x] bad
+- [ ] badly
+- [ ] worse
 
-> **解析**：**favourite** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：too 后接形容词原级 bad；badly 是副词，worse 是比较级，不合此固定表达。
 
 ### 13
 
-It takes time to ____ fully from surgery.
+I care ____ you.
 
-- [x] recover
-- [ ] apologize
-- [ ] ask
+- [x] about
+- [ ] for the
+- [ ] on
 
-> **解析**：**recover** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：care about 是固定搭配；on 不成立，for the 改变搭配。
 
 ### 14
 
-The ____ we resolve the problem, the better.
+The funeral is ____ Monday.
 
-- [x] sooner
-- [ ] apologize
-- [ ] ask
+- [x] next
+- [ ] on next
+- [ ] at
 
-> **解析**：**sooner** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：next Monday 前不加介词；✗ on next Monday 是常见错误。
 
 ### 15
 
-I am so sorry for making a ____ on your order.
+Her condition is getting ____.
 
-- [x] mistake
-- [ ] apologize
-- [ ] ask
+- [x] better
+- [ ] good
+- [ ] well
 
-> **解析**：**mistake** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get better 表示"好转"，用比较级；good 和 well 不表变化趋势。
 
 ### 16
 
-I am sorry to hear about your bad ____ today.
+They are friends ____.
 
-- [x] news
-- [ ] apologize
-- [ ] ask
+- [x] forever
+- [ ] sooner
+- [ ] on purpose
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **news**。
+> **解析**：forever（永远）修饰朋友关系；sooner 是比较级，on purpose 表故意，语义不符。
 
 ### 17
 
-It is too bad that you cannot join us ____.
+Is the ____ good or bad?
 
-- [x] tonight
+- [x] news
 - [ ] apologize
-- [ ] ask
+- [ ] recover
 
-> **解析**：**tonight** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要名词 news；另外两项是动词。
 
 ### 18
 
-I wonder if she ____ my apology message yet.
+The ____, the better.
 
-- [x] received
-- [ ] apologize
-- [ ] ask
+- [x] sooner
+- [ ] soon
+- [ ] sorry
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **received**。
+> **解析**：the + 比较级 结构中用 sooner；soon 是原级，sorry 是形容词。
 
 ### 19
 
-I wonder whether the flight will be ____.
+There is no ____ for being late.
 
-- [x] canceled
-- [ ] apologize
-- [ ] ask
+- [x] excuse
+- [ ] condolence
+- [ ] condition
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **canceled**。
+> **解析**：no excuse（没有借口）语义通顺；condolence 和 condition 不合语境。
 
 ### 20
 
-Don't hesitate to ____ the doctor any questions.
+She asked whether we could ____.
 
-- [x] ask
-- [ ] apologize
-- [ ] ask if
+- [x] come
+- [ ] coming
+- [ ] came
 
-> **解析**：**ask** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：could 后接动词原形 come；其余形式不能跟在情态动词后。
 
 </quiz-cloze>

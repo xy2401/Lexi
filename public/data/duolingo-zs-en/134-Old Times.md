@@ -10,40 +10,37 @@ accountant, assignment, corn, court, cover, did, didn't use to, favorite, fewer,
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"分享童年记忆"展开。核心是 used to 的否定和疑问：I didn't use to like corn, but now I love it.（我过去不喜欢玉米，但现在很爱吃。）、Did you use to play outdoors?（你过去常在户外玩吗？）、She never used to do her assignments indoors.（她过去从不在室内做作业。）、However, things have changed.（然而，事情已经变了。）。
+本单元的主题是"分享童年回忆"，词表可以分成三组：过去习惯结构（use to, didn't use to, never used to, did, know how to）、户外回忆（outdoors, indoors, stream, rock, corn, fly, sunrise, sweep, swept）、以及今昔事物（web, favorite, fewer, however, inch, cover, accountant, court, assignment, tax, religion）。拼起来就是一段怀旧叙述：I use to remember those days. We used to fly kites outdoors and sweep the court, and we didn't use to know how to use the web.
 
-词表里有童年词汇（outdoors, indoors, stream, rock, fly）和 used to 结构。你可以练习：I didn't use to know how to swim. / We used to sweep the court. / There were fewer buildings. / My favorite thing was watching the sunrise by the stream.
+语法主线是 used to 结构的完整形态：肯定 used to（口语中常说 use to，读音相同）、否定 didn't use to 与 never used to、疑问 Did you use to...?。注意书写细节：肯定式写作 used to，但否定与疑问中因为 did 已经承担过去时标记，动词回到 use to。另一条主线是 few 的比较级 fewer 修饰可数名词：There are fewer kids outdoors now. 不规则动词 sweep → swept 也值得注意：We swept the court every day.
 
-didn't use to 表示"过去不"。sweep → swept（扫）。
+学完这单元，你能用英语对比过去与现在：过去常做什么、不会做什么、如今有什么变化。
 
 ## Tips
 
-- **didn't use to / never used to** — 过去不 / 过去从不。搭配：didn't use to do, never used to do。例句：I didn't use to like vegetables. / She never used to study indoors. 注意 didn't use to（没有 d）= used not to。
+- **use to / didn't use to / never used to** — 三种拼写同属"过去常常"家族。肯定句写作 used to；否定句 didn't use to（✗ didn't used to 是常见拼写错误）；never used to 用 never 直接否定：I never used to watch TV.
 
-- **use to / did...use to** — 过去常常（疑问）。搭配：Did you use to...? / What did you use to do? 例句：Did you use to play outside? / What did you use to do after school? 注意疑问句中用 use to（不是 used to）。
+- **know how to** — "会做某事、知道怎么做"：I know how to swim. 结构是 know + how + 动词原形。过去不会说 didn't know how to：I didn't know how to use the web.
 
-- **outdoors / indoors** — 户外 / 室内。搭配：play outdoors, stay indoors, outdoors activities。例句：We used to play outdoors every day. / It's raining—stay indoors. 注意 outdoors/indoors 是副词（不加 in）。
+- **however** — "然而"，连接转折关系，常放句首加逗号：However, things changed. 比 but 更书面。
 
-- **stream / rock / sunrise** — 小溪 / 石头 / 日出。搭配：by the stream, a big rock, watch the sunrise。例句：We played by the stream. / I sat on a rock. / We watched the sunrise. 注意 stream 是小溪（比 river 小）。
+- **fewer** — few 的比较级，修饰可数名词复数：fewer people。与 less 区分：less 修饰不可数（less water）。✗ less kids → ✓ fewer kids。
 
-- **sweep / swept** — 扫。sweep → swept → swept。搭配：sweep the floor, swept the court。例句：I used to sweep the court. / She swept the floor every morning. 注意 swept 是不规则过去式。
+- **indoors / outdoors** — 一对反义副词：stay indoors（待在室内）、play outdoors（在户外玩）。注意它们是副词，不加介词：✗ play in outdoors → ✓ play outdoors。形容词形式是 indoor/outdoor。
 
-- **fewer / however / favorite** — 更少 / 然而 / 最喜欢的。搭配：fewer people, However, ..., my favorite thing。例句：There were fewer cars back then. / However, times have changed. / My favorite memory is the sunrise. 注意 fewer + 可数名词（less + 不可数）。
+- **sweep / swept** — 打扫、扫，不规则变化 sweep → swept → swept：We swept the court. 名词用法 a quick sweep。
 
-- **fly / corn / cover** — 飞 / 玉米 / 覆盖。搭配：fly a kite, corn field, cover with。例句：We used to fly kites. / There was a corn field nearby. / Snow covered the ground. 注意 fly → flew → flown。
+- **fly** — 飞、放（风筝）、驾驶（飞机）：fly a kite。过去式 flew，过去分词 flown。也是"苍蝇"。
 
-- **know how to / assignment** — 知道如何 / 作业。搭配：know how to swim, do an assignment。例句：I didn't use to know how to swim. / I had to do my assignment. 注意 know how to + 动词原形。
+- **stream / rock / corn / sunrise** — stream 小溪。rock 岩石，也是"摇滚"。corn 玉米，不可数。sunrise 日出（sun + rise），反义词 sunset。
 
-- **accountant / tax / court** — 会计师 / 税 / 球场。搭配：an accountant, pay tax, a basketball court。例句：My dad was an accountant. / Adults have to pay tax. / We played on the court. 注意 court 可指球场或法院。
+- **web / cover / court** — web 网、互联网（the Web）。cover 覆盖、封面：cover the bed with a blanket。court 球场，也可指法庭：a basketball court。
 
-- **religion / web / inch** — 宗教 / 网 / 英寸。搭配：a religion, the web, an inch。例句：Religion was important to them. / I found a spider web. / It grew an inch. 注意 web 可指蜘蛛网或网络（the Web）。
+- **accountant / tax / assignment** — accountant 会计（account + -ant）。tax 税：pay taxes。assignment 任务、作业：finish an assignment。
 
-- **did / outdoors / indoors** — 做了 / 户外 / 室内。搭配：did you use to, play outdoors, stay indoors。例句：Did you use to play outdoors? / We spent more time outdoors than indoors. 注意 did 用于 used to 的疑问和否定。
-
-- **sunrise / stream / rock** — 日出 / 小溪 / 石头。搭配：at sunrise, by the stream, on a rock。例句：We watched the sunrise by the stream. / I sat on a rock and fished. 注意这些词常出现在自然/童年回忆中。
+- **favorite / inch / religion / did** — favorite 最喜欢的：my favorite game。inch 英寸：an inch of snow。religion 宗教。did 是 do 的过去式，也是 used to 疑问句的助动词。
 
 ## 练习
 
@@ -61,149 +58,149 @@ didn't use to 表示"过去不"。sweep → swept（扫）。
 
 <quiz-sentence-builder>
 
-1. **中文**：一位会计师在室内算税，他的任务很繁重。  
-   **英文**：An accountant calculated tax indoors for his assignment.
-   > **解析**：accountant 表示“会计师”；tax 表示“税/税款”；indoors 表示“在室内”；assignment 表示“任务/作业”。
+1. **中文**：我们过去常在户外玩。
+   **英文**：We used to play outdoors.
+   > **解析**：used to 后接动词原形 play；outdoors 是副词不加介词。
 
-2. **中文**：过去人们从不习惯在户外用扫帚扫清玉米地。  
-   **英文**：People never used to sweep corn outdoors with a broom.
-   > **解析**：never used to 表示“过去从不”；sweep 表示“打扫/清扫”；corn 表示“玉米”；outdoors 表示“在户外”。
+2. **中文**：我过去不会用网络。
+   **英文**：I didn't use to know how to use the web.
+   > **解析**：didn't use to 表示过去不常做或不会；know how to 后接动词原形。
 
-3. **中文**：蜘蛛在溪流旁的岩石间清扫并织出了一张蛛网。  
-   **英文**：A spider swept and built a web between rocks near the stream.
-   > **解析**：swept 是 sweep 的过去式；web 表示“蛛网/网”；stream 表示“小溪”；rock 表示“岩石”。
+3. **中文**：我从不去室内打球。
+   **英文**：I never used to play indoors.
+   > **解析**：never used to 表示"过去从不"；indoors 是副词。
 
-4. **中文**：然而，比起在法庭工作，他更喜欢飞往各地探索宗教。  
-   **英文**：However, he preferred to fly and explore religion.
-   > **解析**：however 表示“然而/但是”；fly 表示“飞/飞行”；religion 表示“宗教”。
+4. **中文**：你过去常放风筝吗？
+   **英文**：Did you use to fly kites?
+   > **解析**：used to 的疑问句用 Did 开头，use 不带 d。
 
-5. **中文**：你懂得如何用这本封面厚几英寸的书吗？  
-   **英文**：Do you know how to cover this book a few inches thick?
-   > **解析**：know how to 表示“懂得如何……”；cover 表示“覆盖/封面”；inch / inches 表示“英寸”。
+5. **中文**：如今在户外玩的孩子更少了。
+   **英文**：Fewer kids play outdoors now.
+   > **解析**：fewer 修饰可数复数 kids；now 表示与过去对比。
 
-6. **中文**：我们过去不习惯在日出时分去清扫外面的泥地。  
-   **英文**：We didn't use to sweep the yard at sunrise.
-   > **解析**：didn't use to 表示“过去不习惯/过去未曾”；sunrise 表示“日出”。
+6. **中文**：我们过去每天扫球场。
+   **英文**：We swept the court every day.
+   > **解析**：swept 是 sweep 的不规则过去式；every day 是频率状语。
 
-7. **中文**：那块几英寸宽的石头落在溪流中央。  
-   **英文**：That rock a few inches wide dropped in the stream.
-   > **解析**：rock 表示“石头/岩石”；stream 表示“小溪”。
+7. **中文**：小溪在岩石之间流淌。
+   **英文**：The stream runs between the rocks.
+   > **解析**：runs 表示水流；between the rocks 是地点状语。
 
-8. **中文**：少一些家庭功课，多一些户外运动对健康有益。  
-   **英文**：Fewer homework assignments and more outdoors time help.
-   > **解析**：fewer 表示“更少的”（修饰可数名词）；outdoors 表示“在户外”。
+8. **中文**：我过去常看日出。
+   **英文**：I used to watch the sunrise.
+   > **解析**：watch 用原形接在 used to 后；the sunrise 特指日出景象。
 
-9. **中文**：他最喜欢的活动是在清晨去山间呼吸新鲜空气。  
-   **英文**：His favorite activity was walking near the stream.
-   > **解析**：favorite 表示“最喜爱的”；stream 表示“小溪”。
+9. **中文**：然而，一切都变了。
+   **英文**：However, everything changed.
+   > **解析**：However 放句首表转折，后接逗号；changed 是过去式。
 
-10. **中文**：会计师用毛巾擦去了桌子上的灰尘。  
-   **英文**：The accountant covered the desk with a clean towel.
-   > **解析**：cover / covered 表示“覆盖/遮盖”；accountant 表示“会计师”。
+10. **中文**：我最喜欢的科目是数学。
+   **英文**：My favorite subject was math.
+   > **解析**：favorite 作定语修饰 subject；was 与单数主语搭配。
 
-11. **中文**：他在毕业后成为了一名出色的会计师。  
-   **英文**：He became a qualified accountant after graduation.
-   > **解析**：accountant 表示“会计师”。
+11. **中文**：我叔叔是一名会计。
+   **英文**：My uncle is an accountant.
+   > **解析**：accountant 以元音音素开头，用 an。
 
-12. **中文**：老师给同学们布置了一项新的学习任务。  
-   **英文**：The teacher gave us a new learning assignment.
-   > **解析**：assignment 表示“任务/作业”。
+12. **中文**：他过去常交税。
+   **英文**：He used to pay taxes.
+   > **解析**：pay taxes 是"交税"的固定搭配；pay 用原形。
 
-13. **中文**：农民们在秋天收割了大量的黄玉米。  
-   **英文**：Farmers harvested a lot of yellow corn in autumn.
-   > **解析**：corn 表示“玉米”。
+13. **中文**：我做完了作业。
+   **英文**：I finished the assignment.
+   > **解析**：finished 是 finish 的过去式；the assignment 作宾语。
 
-14. **中文**：在冬天，人们更喜欢待在温暖的室内。  
-   **英文**：In cold winter, people prefer staying indoors.
-   > **解析**：indoors 表示“在室内”。
+14. **中文**：雪有一英寸深。
+   **英文**：The snow is an inch deep.
+   > **解析**：an inch 表示深度；deep 作表语补充说明。
 
-15. **中文**：在晴朗的夏日，孩子们喜欢在户外玩耍。  
-   **英文**：Children love playing outdoors on sunny summer days.
-   > **解析**：outdoors 表示“在户外”。
+15. **中文**：用毯子把床盖上。
+   **英文**：Cover the bed with a blanket.
+   > **解析**：Cover 构成祈使句；with a blanket 表示工具。
 
-16. **中文**：这个木盒子的厚度只有几英寸。  
-   **英文**：The thickness of this wooden box is only two inches.
-   > **解析**：inches 表示“英寸”。
+16. **中文**：玉米长得很高。
+   **英文**：The corn grows tall.
+   > **解析**：corn 是不可数名词，谓语用单数 grows；tall 作表语。
 
-17. **中文**：小溪里的水清澈见底，游着几条小鱼。  
-   **英文**：The water in the stream is very clear and clean.
-   > **解析**：stream 表示“小溪/溪流”。
+17. **中文**：你会游泳吗？
+   **英文**：Do you know how to swim?
+   > **解析**：know how to + 动词原形表示"会做"；Do 提前构成疑问。
 
-18. **中文**：把地板清扫干净是每天早晨的家务之一。  
-   **英文**：To sweep the floor clean is a daily morning chore.
-   > **解析**：sweep 表示“清扫/打扫”。
+18. **中文**：她的信仰很重要。
+   **英文**：Her religion is important to her.
+   > **解析**：religion 作主语；important to someone 表示"对某人重要"。
 
-19. **中文**：他昨晚把院子里的落叶全部清扫干净了。  
-   **英文**：He swept all the fallen leaves in the yard last night.
-   > **解析**：swept 是 sweep 的过去式。自由词组.
+19. **中文**：苍蝇在网里。
+   **英文**：The fly is in the web.
+   > **解析**：fly 作名词指苍蝇；web 是蜘蛛网。
 
-20. **中文**：尊重不同的文化和宗教信仰是重要的。  
-   **英文**：Respecting different cultures and religion is important.
-   > **解析**：religion 表示“宗教”。
+20. **中文**：他们过去常在小溪边钓鱼。
+   **英文**：They used to fish by the stream.
+   > **解析**：fish 作动词"钓鱼"；by the stream 是地点状语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. An accountant calculated tax indoors for his assignment.
-   > **中文**：一位会计师在室内算税，他的任务很繁重。
+1. We used to play outdoors.
+   > **中文**：我们过去常在户外玩。
 
-2. People never used to sweep corn outdoors with a broom.
-   > **中文**：过去人们从不习惯在户外用扫帚扫清玉米地。
+2. I never used to stay indoors on Sundays.
+   > **中文**：我周日从不待在室内。
 
-3. A spider swept and built a web between rocks near the stream.
-   > **中文**：蜘蛛在溪流旁的岩石间清扫并织出了一张蛛网。
+3. Did you use to fly kites?
+   > **中文**：你过去常放风筝吗？
 
-4. However, he preferred to fly and explore religion.
-   > **中文**：然而，比起在法庭工作，他更喜欢飞往各地探索宗教。
+4. Fewer kids play outside now.
+   > **中文**：如今在外面玩的孩子更少了。
 
-5. Do you know how to cover this book a few inches thick?
-   > **中文**：你懂得如何用这本封面厚几英寸的书吗？
+5. We swept the court every day.
+   > **中文**：我们过去每天扫球场。
 
-6. We didn't use to sweep the yard at sunrise.
-   > **中文**：我们过去不习惯在日出时分去清扫外面的泥地。
+6. The stream runs between the rocks.
+   > **中文**：小溪在岩石之间流淌。
 
-7. That rock a few inches wide dropped in the stream.
-   > **中文**：那块几英寸宽的石头落在溪流中央。
+7. I used to watch the sunrise.
+   > **中文**：我过去常看日出。
 
-8. Fewer homework assignments and more outdoors time help.
-   > **中文**：少一些家庭功课，多一些户外运动对健康有益。
+8. However, everything changed.
+   > **中文**：然而，一切都变了。
 
-9. His favorite activity was walking near the stream.
-   > **中文**：他最喜欢的活动是在清晨去山间呼吸新鲜空气。
+9. My favorite subject was math.
+   > **中文**：我最喜欢的科目是数学。
 
-10. The accountant covered the desk with a clean towel.
-   > **中文**：会计师用毛巾擦去了桌子上的灰尘。
+10. My uncle is an accountant.
+   > **中文**：我叔叔是一名会计。
 
-11. He became a qualified accountant after graduation.
-   > **中文**：他在毕业后成为了一名出色的会计师。
+11. I finished the assignment.
+   > **中文**：我做完了作业。
 
-12. The teacher gave us a new learning assignment.
-   > **中文**：老师给同学们布置了一项新的学习任务。
+12. The snow is an inch deep.
+   > **中文**：雪有一英寸深。
 
-13. Farmers harvested a lot of yellow corn in autumn.
-   > **中文**：农民们在秋天收割了大量的黄玉米。
+13. Cover the bed with a blanket.
+   > **中文**：用毯子把床盖上。
 
-14. In cold winter, people prefer staying indoors.
-   > **中文**：在冬天，人们更喜欢待在温暖的室内。
+14. The corn grows tall in summer.
+   > **中文**：玉米在夏天长得很高。
 
-15. Children love playing outdoors on sunny summer days.
-   > **中文**：在晴朗的夏日，孩子们喜欢在户外玩耍。
+15. Do you know how to swim?
+   > **中文**：你会游泳吗？
 
-16. The thickness of this wooden box is only two inches.
-   > **中文**：这个木盒子的厚度只有几英寸。
+16. The fly is in the web.
+   > **中文**：苍蝇在网里。
 
-17. The water in the stream is very clear and clean.
-   > **中文**：小溪里的水清澈见底，游着几条小鱼。
+17. They used to fish by the stream.
+   > **中文**：他们过去常在小溪边钓鱼。
 
-18. To sweep the floor clean is a daily morning chore.
-   > **中文**：把地板清扫干净是每天早晨的家务之一。
+18. I didn't use to know how to use the web.
+   > **中文**：我过去不会用网络。
 
-19. He swept all the fallen leaves in the yard last night.
-   > **中文**：他昨晚把院子里的落叶全部清扫干净了。
+19. He used to pay taxes here.
+   > **中文**：他过去常在这里交税。
 
-20. Respecting different cultures and religion is important.
-   > **中文**：尊重不同的文化和宗教信仰是重要的。
+20. The old court is empty now.
+   > **中文**：那座旧球场现在空了。
 
 </quiz-listening>
 
@@ -211,26 +208,37 @@ didn't use to 表示"过去不"。sweep → swept（扫）。
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| accountant | 会计师 |
+| accountant | 会计 |
 | assignment | 任务 / 作业 |
 | corn | 玉米 |
-| court | 法庭 / 球场 |
+| court | 球场 / 法庭 |
 | cover | 覆盖 / 封面 |
-| didn't use to | 过去不习惯 / 过去未曾 |
-| favorite | 最喜爱的 |
-| fewer | 更少的 |
-| fly | 飞 / 飞行 |
-| however | 然而 / 但是 |
+| did | 做（do 的过去式） |
+| didn't use to | 过去不常做 |
+| favorite | 最喜欢的 |
+| fewer | 更少的（可数） |
+| fly | 飞 / 苍蝇 |
+| however | 然而 |
 | inch | 英寸 |
 | indoors | 在室内 |
-| know how to | 懂得如何 |
+| know how to | 会做 / 知道怎么做 |
 | never used to | 过去从不 |
 | outdoors | 在户外 |
 | religion | 宗教 |
-| rock | 石头 / 岩石 |
-| stream | 小溪 / 溪流 |
+| rock | 岩石 |
+| stream | 小溪 |
 | sunrise | 日出 |
-| sweep | 打扫 / 清扫 |
+| sweep | 打扫 |
+| swept | 打扫过（sweep 的过去式） |
+| tax | 税 |
+| use to | 过去常常 |
+| web | 网 / 互联网 |
+| is | 是（单数） |
+| was | 是（过去式） |
+| we | 我们 |
+| the | 这 / 那（定冠词） |
+| now | 现在 |
+| with | 用 / 和 |
 
 </quiz-matching>
 
@@ -238,202 +246,202 @@ didn't use to 表示"过去不"。sweep → swept（扫）。
 
 ### 1
 
-An ____ calculated tax indoors for his assignment.
+We used to play ____.
 
-- [x] accountant
-- [ ] assignment
-- [ ] corn
+- [x] outdoors
+- [ ] outdoor
+- [ ] outside of
 
-> **解析**：**accountant** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：play outdoors 用副词 outdoors；outdoor 是形容词需修饰名词，outside of 结构不当。
 
 ### 2
 
-People never used to ____ corn outdoors with a broom.
+I didn't ____ to know how to use the web.
 
-- [x] sweep
-- [ ] accountant
-- [ ] assignment
+- [x] use
+- [ ] used
+- [ ] using
 
-> **解析**：**sweep** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：didn't 后用动词原形 use to；used 重复时态标记，using 是分词。
 
 ### 3
 
-A spider ____ and built a web between rocks near the stream.
+I never used to play ____.
 
-- [x] swept
-- [ ] accountant
-- [ ] assignment
+- [x] indoors
+- [ ] indoor
+- [ ] inside to
 
-> **解析**：**swept** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：play indoors 用副词 indoors；indoor 是形容词，inside to 结构不当。
 
 ### 4
 
-____, he preferred to fly and explore religion.
+Did you ____ to fly kites?
 
-- [x] However
-- [ ] accountant
-- [ ] assignment
+- [x] use
+- [ ] used
+- [ ] usage
 
-> **解析**：**However** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：Did 提问时 used to 恢复为 use to；usage 是名词"用法"。
 
 ### 5
 
-Do you know how to ____ this book a few inches thick?
+____ kids play outdoors now.
 
-- [x] cover
-- [ ] accountant
-- [ ] assignment
+- [x] Fewer
+- [ ] Less
+- [ ] Few
 
-> **解析**：**cover** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：修饰可数复数 kids 的比较级用 Fewer；Less 修饰不可数，Few 没有比较含义。
 
 ### 6
 
-We didn't use to ____ the yard at sunrise.
+We ____ the court every day.
 
-- [x] sweep
-- [ ] accountant
-- [ ] assignment
+- [x] swept
+- [ ] sweeped
+- [ ] sweeping
 
-> **解析**：**sweep** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：sweep 的过去式是不规则变化 swept；sweeped 不是单词。
 
 ### 7
 
-That ____ a few inches wide dropped in the stream.
+The stream runs between the ____.
 
-- [x] rock
-- [ ] accountant
-- [ ] assignment
+- [x] rocks
+- [ ] rock
+- [ ] corn
 
-> **解析**：**rock** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：between 需要复数 rocks；corn 是不可数且语义不符。
 
 ### 8
 
-____ homework assignments and more outdoors time help.
+I used to watch the ____.
 
-- [x] Fewer
-- [ ] accountant
-- [ ] assignment
+- [x] sunrise
+- [ ] sunrises
+- [ ] court
 
-> **解析**：**Fewer** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：看日出用 watch the sunrise；court 语义不符。
 
 ### 9
 
-His ____ activity was walking near the stream.
+____, everything changed.
 
-- [x] favorite
-- [ ] accountant
-- [ ] assignment
+- [x] However
+- [ ] Favorite
+- [ ] Religion
 
-> **解析**：**favorite** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：However"然而"引出转折；Favorite 和 Religion 不是连接副词。
 
 ### 10
 
-The ____ covered the desk with a clean towel.
+My ____ subject was math.
 
-- [x] accountant
-- [ ] assignment
-- [ ] corn
+- [x] favorite
+- [ ] fewer
+- [ ] swept
 
-> **解析**：**accountant** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 subject 需要形容词 favorite"最喜欢的"；fewer 修饰可数复数，swept 是动词过去式。
 
 ### 11
 
-He became a qualified ____ after graduation.
+My uncle is ____ accountant.
 
-- [x] accountant
-- [ ] assignment
-- [ ] corn
+- [x] an
+- [ ] a
+- [ ] one
 
-> **解析**：**accountant** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：accountant 以元音音素开头用 an；a 用于辅音音素前，one 强调数量。
 
 ### 12
 
-The teacher gave us a new learning ____.
+He used to pay ____.
 
-- [x] assignment
-- [ ] accountant
-- [ ] corn
+- [x] taxes
+- [ ] taxs
+- [ ] courts
 
-> **解析**：**assignment** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：pay taxes 是固定搭配；taxs 拼写错误，courts 语义不符。
 
 ### 13
 
-Farmers harvested a lot of yellow ____ in autumn.
+I finished the ____.
 
-- [x] corn
-- [ ] accountant
-- [ ] assignment
+- [x] assignment
+- [ ] assign
+- [ ] corn
 
-> **解析**：**corn** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the 后需要名词 assignment"作业"；assign 是动词，corn 语义不符。
 
 ### 14
 
-In cold winter, people prefer staying ____.
+The snow is an ____ deep.
 
-- [x] indoors
-- [ ] accountant
-- [ ] assignment
+- [x] inch
+- [ ] inches
+- [ ] deep
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **indoors**。
+> **解析**：an 后接单数 inch；inches 是复数，deep 重复。
 
 ### 15
 
-Children love playing ____ on sunny summer days.
+____ the bed with a blanket.
 
-- [x] outdoors
-- [ ] accountant
-- [ ] assignment
+- [x] Cover
+- [ ] Covered
+- [ ] Covering
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **outdoors**。
+> **解析**：祈使句用动词原形 Cover；后两项分别是过去式和分词。
 
 ### 16
 
-The ____ of this wooden box is only two inches.
+The corn ____ tall in summer.
 
-- [x] thickness
-- [ ] accountant
-- [ ] assignment
+- [x] grows
+- [ ] grow
+- [ ] grown
 
-> **解析**：**thickness** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：corn 是不可数名词，谓语用单数 grows；grown 是分词需与 have 连用。
 
 ### 17
 
-The water in the ____ is very clear and clean.
+Do you know how to ____?
 
-- [x] stream
-- [ ] accountant
-- [ ] assignment
+- [x] swim
+- [ ] swimming
+- [ ] swam
 
-> **解析**：**stream** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：know how to 后接动词原形 swim；swam 是过去式，swimming 是分词。
 
 ### 18
 
-To ____ the floor clean is a daily morning chore.
+Her religion is important ____ her.
 
-- [x] sweep
-- [ ] accountant
-- [ ] assignment
+- [x] to
+- [ ] for to
+- [ ] at
 
-> **解析**：**sweep** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：important to someone 是固定搭配；for to 结构错误，at 不搭配。
 
 ### 19
 
-He ____ all the fallen leaves in the yard last night.
+The fly is in the ____.
 
-- [x] swept
-- [ ] accountant
-- [ ] assignment
+- [x] web
+- [ ] webs
+- [ ] sweep
 
-> **解析**：**swept** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：苍蝇困在网 web 里；sweep 是动词，webs 与 the 搭配虽可但不如 web 常用此语境。
 
 ### 20
 
-Respecting different cultures and ____ is important.
+They used to fish ____ the stream.
 
-- [x] religion
-- [ ] accountant
-- [ ] assignment
+- [x] by
+- [ ] among
+- [ ] fewer
 
-> **解析**：**religion** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：在小溪边用介词 by；among 用于三者以上之间，fewer 不是介词。
 
 </quiz-cloze>

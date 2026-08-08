@@ -10,60 +10,37 @@ accusation, alibi, argue, as a matter of fact, behind bars, break the law, clien
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是"在案件中出示证据"——一场法庭辩论，有法官、陪审团、被告、证人，还有针锋相对的律师。词表里有大量法律词汇：accusation, alibi, defendant, evidence, sentence, probation, witness。你可以这样陈述：As a matter of fact, the defendant had her car stolen that night—she has an alibi. On the contrary, the evidence suggests it was someone else. Let's remember that the victim is the one who broke the law.（事实上，被告那晚车被偷了——她有不在场证明。恰恰相反，证据表明是别人干的。别忘了，受害者才是违法的那个人。）
+本单元把场景搬进法庭，主题是"在案件中出示证据"。词表可以分成四组：法庭人物（judge, defendant, client, victim, witness, jury duty），法律概念（accusation, alibi, evidence, probation, community service, behind bars, break the law），法庭动作（argue, object, find, sentence），以及辩论用语（as a matter of fact, on the contrary, let's remember that, it was, if he was, if she had, had her car stolen）。拼在一起就是一段庭审陈述：The judge looked at the evidence. The defendant did not break the law.
 
-object（反对）、on the contrary（恰恰相反）、as a matter of fact（事实上）是法庭辩论的经典用语。behind bars（坐牢）、community service（社区服务）、probation（缓刑）是判决结果词汇。jury duty（陪审义务）和 judge（法官）点明了法庭角色。
+语法主线有三条。第一条是法律语境下的动词用法：judge sentences the defendant（法官宣判）、the jury finds him guilty（陪审团裁定），find 在这里不是"找到"而是"裁定"。第二条是使役与被动表达：had her car stolen（她的车被偷了），用 had + 名词 + 过去分词表示"遭遇了某事"。第三条是条件与让步表达：if he was there / if she had an alibi 用 if 引导假设，on the contrary 和 as a matter of fact 用于反驳。
 
-学完本单元，你能用英语模拟法庭场景，陈述证据、提出质疑、进行辩护，并使用正式的法律表达。
+学完这单元，你能用英语描述一起案件：谁被指控、证据是什么、不在场证明站不站得住、法官会怎么判。
 
 ## Tips
 
-- **alibi** — "不在场证明"。搭配：have an alibi / provide an alibi / a solid alibi。来自拉丁语，原义"在别处"。在法律语境中特指"证明嫌疑人案发时不在现场"。注意发音：/ˈælɪbaɪ/。
+- **judge / sentence** — 法庭核心词对。judge 既是"法官"也可作动词"判断"；sentence 日常是"句子"，法律语境里是"判决、判刑"：The judge will sentence him today. 作动词时 directly 接刑期：He was sentenced to probation.
 
-- **defendant** — "被告"。搭配：the defendant pleaded not guilty / defend the defendant。动词 defend。反义词 plaintiff（原告）。注意 -ant 结尾表人。比 accused 更正式，专指法庭上的被告。
+- **defendant / client / victim / witness** — 四个法庭身份。defendant 是被告（defend + -ant，辩护的人）；client 是委托人，律师称自己的当事人为 client；victim 是受害者；witness 是证人。✗ 混淆 defendant 和 client——法庭文件多用 defendant，律师口中多用 client。
 
-- **evidence** — "证据"。搭配：present evidence / evidence suggests that / a piece of evidence。注意 evidence 不可数，不说 an evidence。比 proof 更广义，proof 强调"确凿证明"。
+- **jury duty** — 陪审义务。jury 是陪审团，duty 在这里是"义务"而非"值班"：I have jury duty next week.（我下周要去履行陪审义务。）英美法系中公民被随机抽中参与审判，是常见生活话题。
 
-- **behind bars** — "坐牢、在监狱里"。He's behind bars for robbery. 非常形象的习语：bars = 铁栏杆。比 in prison 更口语、更有画面感。类似：do time / serve time。
+- **evidence / accusation / alibi** — 案件三要素。evidence（证据）是不可数名词：some strong evidence，✗ an evidence → ✓ a piece of evidence。accusation 是"指控"，动词 accuse：accuse him of theft。alibi 是"不在场证明"，源自拉丁语 alibi（在别处）。
 
-- **break the law** — "违法"。搭配：break the law / a lawbreaker。比 violate the law 更口语。注意 break 在这里不是"打破"，而是"违反"。类似：bend the rules（打擦边球）。
+- **argue / object** — 两个法庭动作。argue 是"争辩、论证"：The lawyers argue about the evidence. object 作动词读作 /əbˈdʒekt/，意思是"反对"，法庭上喊一声 Object! 就是"我反对"，常与 to 搭配：I object to this accusation.
 
-- **on the contrary** — "恰恰相反"，用来强烈反驳。—He's lazy. —On the contrary, he works very hard. 比 actually 或 in fact 语气强得多。注意 contrary 发音：/ˈkɑːntreri/。
+- **find** — 法律语境中的特殊用法：find someone guilty/not guilty（裁定有罪/无罪）。It was hard to find the truth. 里的 find 才是普通的"找到"。两种用法都要掌握。
 
-- **as a matter of fact** — "事实上、实际上"。As a matter of fact, I was there that night. 比 in fact 更正式、更有"纠正误解"的意味。口语中常缩写为 matter of fact。
+- **break the law / behind bars** — 违法与坐牢的地道说法。break the law 字面"打破法律"；behind bars 字面"在铁栏杆后面"，指入狱：He ended up behind bars. 比说 in prison 更有画面感。
 
-- **let's remember that** — "别忘了、请记住"，法庭辩论中用来提醒关键事实。Let's remember that the witness lied. 比 don't forget 更正式、更有权威感。类似：bear in mind that...
+- **probation / community service** — 两种较轻的处罚。probation 是缓刑，期内受监管；community service 是社区服务：The sentence was six months of probation. 两者常作为监禁的替代方案出现。
 
-- **object** — "反对"，法庭用语。Objection, Your Honor!（反对，法官大人！）动词：I object to this line of questioning. 注意动词重音在第二音节 /əbˈdʒekt/，名词在第一音节 /ˈɑːbdʒekt/。
+- **as a matter of fact / on the contrary** — 两个反驳短语。as a matter of fact（事实上）用于补充或纠正：As a matter of fact, it was not him. on the contrary（恰恰相反）语气更强，直接否定对方说法。✗ 把 on the contrary 当"另一方面"用——那是 on the other hand。
 
-- **probation** — "缓刑、试用期"。搭配：on probation / a probation officer / three years' probation。比 parole（假释）更指"判决后的监督期"。注意 -tion 结尾。
+- **had her car stolen / if he was / if she had / it was** — 本单元的句型碎片，用来讲案件经过。had her car stolen = had + 宾语 + 过去分词，表示"遭遇某事（多为不愉快）"。if he was there 引出假设，it was 用于指认：It was the witness.
 
-- **sentence** — "判决；句子"。搭配：a prison sentence / sentence someone to five years。在法律语境中 = 判刑。一词两义：语法中 = 句子。注意 -ence 结尾。
-
-- **community service** — "社区服务"，一种刑罚。搭配：do community service / sentenced to 100 hours of community service。比 prison 轻，让犯人为社区无偿劳动。注意 service 不可数。
-
-- **jury duty** — "陪审义务"。搭配：called for jury duty / serve on jury duty。美国公民可能被随机抽中参与陪审。jury = 陪审团，duty = 义务。注意 jury 发音：/ˈdʒʊri/。
-
-- **witness** — "证人；目击"。搭配：a key witness / witness a crime / a witness stand。动词：I witnessed the accident。注意 -ness 后缀。在法律语境中 = 出庭作证的人。
-
-- **victim** — "受害者"。搭配：a crime victim / the victim of a scam。比 sufferer 更常用于犯罪和事故语境。注意 -tim 结尾。形容词 victimless（无受害者的）。
-
-- **accusation** — "指控、控告"。搭配：make an accusation / deny the accusation。动词 accuse。比 charge（正式起诉）更广义，可以指任何指责。注意 -tion 结尾。
-
-- **argue** — "争论、主张"。argue a case / argue that he's innocent。在法律语境中 = 提出论点，不一定是"吵架"。名词 argument。注意 -gue 结尾。
-
-- **client** — "客户、当事人"。搭配：a lawyer's client / represent a client。比 customer 更正式，常用于法律、咨询等专业服务。注意 -ent 结尾。
-
-- **judge** — "法官；判断"。搭配：Your Honor（对法官的尊称）/ the judge ruled that...。动词：Don't judge me. 注意 -dge 结尾。在法律语境中特指"主持审判的法官"。
-
-- **find** — 本单元中 likely 指"裁定、判决"。The jury found her guilty. / find someone not guilty。在法律语境中，find = 正式裁定。比 decide 更正式，专指陪审团或法官的裁决。
-
-- **had her car stolen** — "车被偷了"，have something done 结构。She had her car stolen. = 她的车被偷了（她遭遇了这件事）。注意这不是"她让人偷了车"，而是"她遭受了车被偷"。have + 宾语 + 过去分词。
-
-- **if he was / if she had** — 条件句结构。if he was = 如果他是（真实条件或虚拟）；if she had = 如果她有/如果她已经（虚拟语气）。在法律辩论中用来构建假设：If she had been there, she would have seen it.
+- **let's remember that** — 辩论中的提醒句式：Let's remember that he has no record.（别忘了他没有任何记录。）let's 后接动词原形，that 引出从句，陈述、写作中都能用。
 
 ## 练习
 
@@ -81,149 +58,149 @@ object（反对）、on the contrary（恰恰相反）、as a matter of fact（�
 
 <quiz-sentence-builder>
 
-1. **中文**：事实上，被告在那晚有十分确凿的不在场证明。  
-   **英文**：As a matter of fact, the defendant has a solid alibi for that night.
-   > **解析**：as a matter of fact 表示事实上；defendant 表示被告；alibi 表示不在场证明。
+1. **中文**：法官看了证据。
+   **英文**：The judge looked at the evidence.
+   > **解析**：The judge 是单数主语，look 用过去式 looked；look at 是固定搭配，at 后接宾语 the evidence。
 
-2. **中文**：证人向法官出示了关键证据来支持辩护。  
-   **英文**：The witness presented key evidence to the judge to support the defense.
-   > **解析**：witness 表示证人；evidence 表示证据；judge 表示法官。
+2. **中文**：被告没有违法。
+   **英文**：The defendant did not break the law.
+   > **解析**：一般过去时的否定用 did not + 动词原形 break；break the law 是固定短语"违法"。
 
-3. **中文**：恰恰相反，控方的指控完全缺乏事实依据。  
-   **英文**：On the contrary, the prosecution's accusation lacks any factual basis.
-   > **解析**：on the contrary 表示恰恰相反；accusation 表示指控。
+3. **中文**：我的当事人有很强的不在场证明。
+   **英文**：My client has a strong alibi.
+   > **解析**：My client 是第三人称单数主语，have 变为 has；a strong alibi 中形容词 strong 修饰名词 alibi。
 
-4. **中文**：律师反对这一提问，主张他的当事人是无辜的。  
-   **英文**：The lawyer objected and argued that his client was innocent.
-   > **解析**：object 表示反对；argue 表示主张/辩论；client 表示当事人。
+4. **中文**：证人看到了一切。
+   **英文**：The witness saw everything.
+   > **解析**：saw 是 see 的过去式；everything 是不定代词作宾语。
 
-5. **中文**：别忘了，受害者才是那起案件中被违法侵害的人。  
-   **英文**：Let's remember that the victim was the one harmed when someone broke the law.
-   > **解析**：let's remember that 表示别忘了；victim 表示受害者；break the law 表示违法。
+5. **中文**：她的车被偷了。
+   **英文**：She had her car stolen.
+   > **解析**：had + 宾语 her car + 过去分词 stolen 构成使役/遭遇结构，表示"遭遇了某事"。
 
-6. **中文**：犯下严重罪行的罪犯最终将被关进监狱坐牢。  
-   **英文**：The criminal who committed serious offenses will end up behind bars.
-   > **解析**：behind bars 表示坐牢/在监狱里。
+6. **中文**：如果他当时在场，我们需要证据。
+   **英文**：If he was there, we need evidence.
+   > **解析**：if 引导条件状语从句；主句 we need evidence 中 need 用原形，evidence 是不可数名词。
 
-7. **中文**：法官判处被告完成一百个小时的社区服务。  
-   **英文**：The judge sentenced the defendant to complete 100 hours of community service.
-   > **解析**：judge 表示法官；sentence 表示判处；community service 表示社区服务。
+7. **中文**：我有陪审义务。
+   **英文**：I have jury duty next week.
+   > **解析**：have 表示"有（安排）"；jury duty 是固定搭配"陪审义务"，next week 作时间状语放句末。
 
-8. **中文**：经过审判，被告被判处两年缓刑而非监禁。  
-   **英文**：After trial, the defendant was given two years of probation instead of prison.
-   > **解析**：defendant 表示被告；probation 表示缓刑。
+8. **中文**：我反对这项指控。
+   **英文**：I object to this accusation.
+   > **解析**：object 作动词与 to 搭配，后接反对的对象；this 修饰 accusation。
 
-9. **中文**：我上周被抽中履行陪审义务，必须前往法院出庭。  
-   **英文**：I was called for jury duty last week and had to attend court.
-   > **解析**：jury duty 表示陪审义务。
+9. **中文**：法官今天会宣判。
+   **英文**：The judge will sentence him today.
+   > **解析**：will 后接动词原形 sentence（判决）；him 是宾格代词作宾语。
 
-10. **中文**：那位年轻女士那晚车被偷了，因此无法准时赶到现场。  
-   **英文**：The young woman had her car stolen that night and couldn't arrive on time.
-   > **解析**：had her car stolen 表示车被偷了。
+10. **中文**：他可能得到缓刑而不是入狱。
+   **英文**：He may get probation instead of time behind bars.
+   > **解析**：may 是情态动词，后接动词原形 get；instead of 是介词短语"而不是"，后接名词性成分。
 
-11. **中文**：如果他是目击证人，他就应该如实在法庭上作证。  
-   **英文**：If he was a key witness, he should have testified truthfully in court.
-   > **解析**：witness 表示证人；if he was 表示如果他是。
+11. **中文**：事实上，那不是他。
+   **英文**：As a matter of fact, it was not him.
+   > **解析**：As a matter of fact 是固定插入语，用逗号隔开；it was not him 是强调指认的句式。
 
-12. **中文**：如果她有完整的不在场证明，指控就会被立即撤销。  
-   **英文**：If she had a complete alibi, the accusation would be dropped immediately.
-   > **解析**：alibi 表示不在场证明；accusation 表示指控。
+12. **中文**：恰恰相反，证据很充分。
+   **英文**：On the contrary, the evidence is strong.
+   > **解析**：On the contrary 是反驳用语，后用逗号；evidence 不可数，作主语时谓语用单数 is。
 
-13. **中文**：律师向法官辩称，当时是另一个人违反了法律。  
-   **英文**：The lawyer argued to the judge that someone else broke the law.
-   > **解析**：argue 表示辩称/主张；judge 表示法官；break the law 表示违法。
+13. **中文**：别忘了她是受害者。
+   **英文**：Let's remember that she is the victim.
+   > **解析**：let's 后接动词原形 remember；that 引导宾语从句，从句保持正常语序 she is。
 
-14. **中文**：辩护律师站起来向法官喊道：“反对，法官大人！”  
-   **英文**：The defense lawyer stood up and said, "I object, Your Honor!"
-   > **解析**：object 表示反对。
+14. **中文**：社区服务比入狱好。
+   **英文**：Community service is better than time behind bars.
+   > **解析**：good 的比较级 better 与 than 搭配构成比较结构；两个被比较项都是名词性成分。
 
-15. **中文**：陪审团宣布裁定，认定被告无罪。  
-   **英文**：The jury came back to find the defendant not guilty of the crime.
-   > **解析**：find 表示裁定/判定；defendant 表示被告。
+15. **中文**：律师们争论这份证据。
+   **英文**：The lawyers argue about the evidence.
+   > **解析**：The lawyers 是复数主语，argue 用原形；argue about 表示"就某事争论"。
 
-16. **中文**：事实上，受害者并不认识向她提出虚假指控的人。  
-   **英文**：As a matter of fact, the victim didn't know the person who made the accusation.
-   > **解析**：as a matter of fact 表示事实上；victim 表示受害者；accusation 表示指控。
+16. **中文**：陪审团裁定他有罪。
+   **英文**：The jury found him guilty.
+   > **解析**：find 的法律用法 find + 人 + 形容词，表示"裁定某人…"；found 是 find 的过去式。
 
-17. **中文**：任何违法的人都必须接受正义法庭的公正判决。  
-   **英文**：Anyone who breaks the law must face a fair sentence from the court.
-   > **解析**：break the law 表示违法；sentence 表示判决。
+17. **中文**：这是她第一次违法。
+   **英文**：It was her first time to break the law.
+   > **解析**：It was... 引出说明；her first time to do something 是"第一次做某事"的常用结构。
 
-18. **中文**：律师正在竭尽全力保护他的当事人的合法权益。  
-   **英文**：The attorney is working hard to represent and protect his client.
-   > **解析**：client 表示当事人/客户。
+18. **中文**：如果她有律师，她就没问题。
+   **英文**：If she had a lawyer, she was fine.
+   > **解析**：if 引导条件从句，had 表示过去"拥有"；主句 she was fine 用 was 与 she 搭配。
 
-19. **中文**：别忘了，强有力的证据是证明清白的最佳手段。  
-   **英文**：Let's remember that strong evidence is the best way to prove innocence.
-   > **解析**：let's remember that 表示别忘了；evidence 表示证据。
+19. **中文**：指控是假的。
+   **英文**：The accusation is false.
+   > **解析**：The accusation 是单数主语，用 is；false 作表语表示"虚假的"。
 
-20. **中文**：那个屡教不改的罪犯再次违法后被重判坐牢。  
-   **英文**：After breaking the law again, the repeat offender was put behind bars.
-   > **解析**：break the law 表示违法；behind bars 表示坐牢。
+20. **中文**：法官问证人看到了什么。
+   **英文**：The judge asked the witness what he saw.
+   > **解析**：ask + 人 + 从句；what he saw 是宾语从句，从句用陈述语序 he saw。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. As a matter of fact, the defendant has a solid alibi for that night.
-   > **中文**：事实上，被告在那晚有十分确凿的不在场证明。
+1. The judge listened to the evidence.
+   > **中文**：法官听取了证据。
 
-2. The witness presented key evidence to the judge to support the defense.
-   > **中文**：证人向法官出示了关键证据来支持辩护。
+2. The defendant did not break the law.
+   > **中文**：被告没有违法。
 
-3. On the contrary, the prosecution's accusation lacks any factual basis.
-   > **中文**：恰恰相反，控方的指控完全缺乏事实依据。
+3. My client has a strong alibi.
+   > **中文**：我的当事人有很强的不在场证明。
 
-4. The lawyer objected and argued that his client was innocent.
-   > **中文**：律师反对这一提问，主张他的当事人是无辜的。
+4. The witness saw it all.
+   > **中文**：证人看到了一切。
 
-5. Let's remember that the victim was the one harmed when someone broke the law.
-   > **中文**：别忘了，受害者才是那起案件中被违法侵害的人。
+5. She had her car stolen yesterday.
+   > **中文**：她昨天车被偷了。
 
-6. The criminal who committed serious offenses will end up behind bars.
-   > **中文**：犯下严重罪行的罪犯最终将被关进监狱坐牢。
+6. If he was there, we need evidence.
+   > **中文**：如果他当时在场，我们需要证据。
 
-7. The judge sentenced the defendant to complete 100 hours of community service.
-   > **中文**：法官判处被告完成一百个小时的社区服务。
+7. If she had an alibi, the judge would listen.
+   > **中文**：如果她有不在场证明，法官会听取。
 
-8. After trial, the defendant was given two years of probation instead of prison.
-   > **中文**：经过审判，被告被判处两年缓刑而非监禁。
+8. As a matter of fact, it was the witness.
+   > **中文**：事实上，是那位证人。
 
-9. I was called for jury duty last week and had to attend court.
-   > **中文**：我上周被抽中履行陪审义务，必须前往法院出庭。
+9. On the contrary, the accusation is weak.
+   > **中文**：恰恰相反，这项指控很薄弱。
 
-10. The young woman had her car stolen that night and couldn't arrive on time.
-   > **中文**：那位年轻女士那晚车被偷了，因此无法准时赶到现场。
+10. Let's remember that he is the client.
+   > **中文**：别忘了他是当事人。
 
-11. If he was a key witness, he should have testified truthfully in court.
-   > **中文**：如果他是目击证人，他就应该如实在法庭上作证。
+11. I have jury duty next week.
+   > **中文**：我下周要去履行陪审义务。
 
-12. If she had a complete alibi, the accusation would be dropped immediately.
-   > **中文**：如果她有完整的不在场证明，指控就会被立即撤销。
+12. I object to the accusation.
+   > **中文**：我反对这项指控。
 
-13. The lawyer argued to the judge that someone else broke the law.
-   > **中文**：律师向法官辩称，当时是另一个人违反了法律。
+13. The judge will sentence him today.
+   > **中文**：法官今天会宣判。
 
-14. The defense lawyer stood up and said, "I object, Your Honor!"
-   > **中文**：辩护律师站起来向法官喊道：“反对，法官大人！”
+14. He may get probation, not time behind bars.
+   > **中文**：他可能得到缓刑，而不是入狱。
 
-15. The jury came back to find the defendant not guilty of the crime.
-   > **中文**：陪审团宣布裁定，认定被告无罪。
+15. Community service is better than time behind bars.
+   > **中文**：社区服务比入狱好。
 
-16. As a matter of fact, the victim didn't know the person who made the accusation.
-   > **中文**：事实上，受害者并不认识向她提出虚假指控的人。
+16. It was his first time to break the law.
+   > **中文**：这是他第一次违法。
 
-17. Anyone who breaks the law must face a fair sentence from the court.
-   > **中文**：任何违法的人都必须接受正义法庭的公正判决。
+17. The lawyers argue about the evidence.
+   > **中文**：律师们争论这份证据。
 
-18. The attorney is working hard to represent and protect his client.
-   > **中文**：律师正在竭尽全力保护他的当事人的合法权益。
+18. If he was at home, his alibi is strong.
+   > **中文**：如果他当时在家，他的不在场证明就很充分。
 
-19. Let's remember that strong evidence is the best way to prove innocence.
-   > **中文**：别忘了，强有力的证据是证明清白的最佳手段。
+19. She found the evidence in his car.
+   > **中文**：她在他的车里找到了证据。
 
-20. After breaking the law again, the repeat offender was put behind bars.
-   > **中文**：那个屡教不改的罪犯再次违法后被重判坐牢。
+20. The sentence was community service.
+   > **中文**：判决是社区服务。
 
 </quiz-listening>
 
@@ -231,26 +208,38 @@ object（反对）、on the contrary（恰恰相反）、as a matter of fact（�
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| judge | 法官 |
-| defendant | 被告 |
-| victim | 受害者 |
-| witness | 证人 |
-| evidence | 证据 |
-| alibi | 不在场证明 |
 | accusation | 指控 |
-| client | 当事人 |
-| behind bars | 坐牢 |
+| alibi | 不在场证明 |
+| argue | 争辩 / 论证 |
+| as a matter of fact | 事实上 |
+| behind bars | 入狱 / 坐牢 |
 | break the law | 违法 |
-| probation | 缓刑 |
+| client | 当事人 / 委托人 |
 | community service | 社区服务 |
-| sentence | 判决 |
+| defendant | 被告 |
+| evidence | 证据 |
+| find | 找到 / 裁定 |
+| had her car stolen | 她的车被偷了 |
+| if he was | 如果他当时是 |
+| if she had | 如果她有 |
+| it was | 那是 / 是… |
+| judge | 法官 / 判断 |
 | jury duty | 陪审义务 |
+| let's remember that | 别忘了… |
 | object | 反对 |
 | on the contrary | 恰恰相反 |
-| as a matter of fact | 事实上 |
-| let's remember that | 别忘了 |
-| argue | 主张；辩论 |
-| had her car stolen | 车被偷了 |
+| probation | 缓刑 |
+| sentence | 判决 / 句子 |
+| victim | 受害者 |
+| witness | 证人 |
+| the | 这个（定冠词） |
+| not | 不 |
+| his | 他的 |
+| lawyer | 律师 |
+| today | 今天 |
+| next week | 下周 |
+| instead of | 而不是 |
+| false | 虚假的 |
 
 </quiz-matching>
 
@@ -258,202 +247,202 @@ object（反对）、on the contrary（恰恰相反）、as a matter of fact（�
 
 ### 1
 
-As a matter of fact, the ____ has a solid alibi for that night.
+The judge looked at the ____.
 
-- [x] defendant
-- [ ] accusation
-- [ ] alibi
+- [x] evidence
+- [ ] argue
+- [ ] object
 
-> **解析**：**defendant** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the 后需要名词，evidence（证据）成立；argue 和 object 在此处为动词，不能作 looked at 的宾语。
 
 ### 2
 
-The ____ presented key evidence to the judge to support the defense.
+The defendant did not break the ____.
 
-- [x] witness
-- [ ] accusation
-- [ ] alibi
+- [x] law
+- [ ] judge
+- [ ] client
 
-> **解析**：**witness** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：break the law 是固定短语"违法"；judge 和 client 是人，不能被"打破"。
 
 ### 3
 
-On the contrary, the prosecution's ____ lacks any factual basis.
+My ____ has a strong alibi.
 
-- [x] accusation
-- [ ] alibi
-- [ ] argue
+- [x] client
+- [ ] accusation
+- [ ] probation
 
-> **解析**：**accusation** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：My 后需要指人的名词 client（当事人）；accusation 和 probation 都不是人。
 
 ### 4
 
-The lawyer objected and argued that his ____ was innocent.
+I object to this ____.
 
-- [x] client
-- [ ] accusation
-- [ ] alibi
+- [x] accusation
+- [ ] jury duty
+- [ ] community service
 
-> **解析**：**client** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：object to 后接被反对的对象，accusation（指控）符合法庭语境；jury duty 和 community service 不是法庭上反对的对象。
 
 ### 5
 
-Let's remember that the ____ was the one harmed when someone broke the law.
+She had her car ____ yesterday.
 
-- [x] victim
-- [ ] accusation
-- [ ] alibi
+- [x] stolen
+- [ ] break
+- [ ] argue
 
-> **解析**：**victim** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：had + 宾语 + 过去分词构成遭遇结构，stolen 是 steal 的过去分词；break 和 argue 是动词原形，不合结构。
 
 ### 6
 
-The criminal who ____ serious offenses will end up behind bars.
+The judge will ____ him today.
 
-- [x] committed
-- [ ] accusation
-- [ ] alibi
+- [x] sentence
+- [ ] victim
+- [ ] witness
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **committed**。
+> **解析**：will 后需要动词原形 sentence（宣判）；victim 和 witness 是名词。
 
 ### 7
 
-The ____ sentenced the defendant to complete 100 hours of community service.
+On the ____, the evidence is strong.
 
-- [x] judge
-- [ ] accusation
-- [ ] alibi
+- [x] contrary
+- [ ] judge
+- [ ] bars
 
-> **解析**：**judge** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：on the contrary 是固定短语"恰恰相反"；judge 和 bars 都不能构成该搭配。
 
 ### 8
 
-After trial, the ____ was given two years of probation instead of prison.
+Let's ____ that he is the client.
 
-- [x] defendant
-- [ ] accusation
-- [ ] alibi
+- [x] remember
+- [ ] object
+- [ ] probation
 
-> **解析**：**defendant** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：let's 后接动词原形 remember；object 语义不符（"让我们反对"不通），probation 是名词。
 
 ### 9
 
-I was ____ for jury duty last week and had to attend court.
+He may get ____ instead of time behind bars.
 
-- [x] called
+- [x] probation
 - [ ] accusation
-- [ ] alibi
+- [ ] defendant
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **called**。
+> **解析**：get 后接处罚名称，probation（缓刑）与 behind bars 构成对比；accusation 和 defendant 不是处罚。
 
 ### 10
 
-The young woman had her car stolen that night and ____ arrive on time.
+I have jury ____ next week.
 
-- [x] couldn't
-- [ ] accusation
-- [ ] alibi
+- [x] duty
+- [ ] law
+- [ ] fact
 
-> **解析**：**couldn't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：jury duty 是固定搭配"陪审义务"；law 和 fact 都与 jury 不构成该短语。
 
 ### 11
 
-If he was a key ____, he should have testified truthfully in court.
+The ____ saw it all.
 
 - [x] witness
-- [ ] accusation
-- [ ] alibi
+- [ ] evidence
+- [ ] sentence
 
-> **解析**：**witness** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The 后需要指人的名词 witness 才能"看见"；evidence 和 sentence 不能作"看见"的主语。
 
 ### 12
 
-If she had a complete ____, the accusation would be dropped immediately.
+As a matter of ____, it was the witness.
 
-- [x] alibi
-- [ ] accusation
-- [ ] argue
+- [x] fact
+- [ ] law
+- [ ] judge
 
-> **解析**：**alibi** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：as a matter of fact 是固定短语"事实上"；law 和 judge 都不能构成该搭配。
 
 ### 13
 
-The lawyer argued to the ____ that someone else broke the law.
+____ service is better than time behind bars.
 
-- [x] judge
-- [ ] accusation
-- [ ] alibi
+- [x] Community
+- [ ] Jury
+- [ ] Client
 
-> **解析**：**judge** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：community service（社区服务）是固定搭配；jury service 不是本单元用法，client 不能修饰 service。
 
 ### 14
 
-The defense lawyer stood up and said, "I ____, Your Honor!"
+The lawyers argue about the ____.
 
-- [x] object
-- [ ] accusation
-- [ ] alibi
+- [x] evidence
+- [ ] behind bars
+- [ ] it was
 
-> **解析**：**object** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：argue about 后接名词 evidence；behind bars 是介词短语，it was 是句式碎片，都不成立。
 
 ### 15
 
-The jury came back to ____ the defendant not guilty of the crime.
+If he was at home, his ____ is strong.
 
-- [x] find
-- [ ] accusation
-- [ ] alibi
+- [x] alibi
+- [ ] judge
+- [ ] victim
 
-> **解析**：**find** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：与"当时在家"呼应的法律概念是 alibi（不在场证明）；judge 和 victim 语义不符。
 
 ### 16
 
-As a matter of fact, the ____ didn't know the person who made the accusation.
+It was his first time to ____ the law.
 
-- [x] victim
-- [ ] accusation
-- [ ] alibi
+- [x] break
+- [ ] find
+- [ ] object
 
-> **解析**：**victim** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：to 后接动词原形，break the law 是固定短语；find 和 object 都不能与 the law 构成该搭配。
 
 ### 17
 
-Anyone who breaks the law must face a fair ____ from the court.
+The jury found him ____.
 
-- [x] sentence
-- [ ] accusation
-- [ ] alibi
+- [x] guilty
+- [ ] witness
+- [ ] sentence
 
-> **解析**：**sentence** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：find + 人 + 形容词表示裁定，guilty（有罪的）成立；witness 和 sentence 都不是裁定结论。
 
 ### 18
 
-The attorney is working hard to represent and protect his ____.
+The ____ was community service.
 
-- [x] client
-- [ ] accusation
+- [x] sentence
 - [ ] alibi
+- [ ] accusation
 
-> **解析**：**client** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：community service 是一种判决结果，主语选 sentence；alibi 和 accusation 都不是判决。
 
 ### 19
 
-Let's remember that strong ____ is the best way to prove innocence.
+She ____ the evidence in his car.
 
-- [x] evidence
-- [ ] accusation
-- [ ] alibi
+- [x] found
+- [ ] objected
+- [ ] probation
 
-> **解析**：**evidence** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句中需要谓语动词过去式，found（找到）成立；objected 与语义不符，probation 是名词。
 
 ### 20
 
-After ____ the law again, the repeat offender was put behind bars.
+Let's remember ____ she is the victim.
 
-- [x] breaking
-- [ ] accusation
-- [ ] alibi
+- [x] that
+- [ ] to
+- [ ] of
 
-> **解析**：**breaking** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：remember 后接 that 引导的宾语从句；to 后应接动词原形，of 不能引导从句。
 
 </quiz-cloze>

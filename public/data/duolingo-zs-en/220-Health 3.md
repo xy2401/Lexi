@@ -10,42 +10,35 @@ apparently, at risk, bad for you, could, enough, enough to, have trouble, heal, 
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"谈论身体不适"展开。词表里有身体部位（hip, lung, muscle, wrist）和健康相关词汇（infection, swollen, heal, vaccine, vitamin, side effect），也有描述状态的表达（under the weather, at risk, have trouble, bad for you）。你可以用这些词描述症状和就医场景：I've been feeling under the weather. / My wrist is swollen and I have trouble moving it. / Apparently it's an infection—supposedly the vaccine could help.
+本单元的主题是"谈论身体不适"，是健康话题的第三课。词表分成三组：身体部位与症状（hip, lung, muscle, wrist, swollen, infection, yawn, heal）、医疗措施（vaccine, vitamin, side effect, at risk）、以及传闻与推测表达（apparently, supposedly, they say, impression, could, enough, enough to, have trouble, under the weather, bad for you）。拼起来就是完整的病况描述：I'm feeling under the weather. My wrist is swollen. Apparently, it's an infection.
 
-这里值得注意 apparently、supposedly、they say 这组"传闻"表达。它们都表示"据说、听别人说"，说话者对信息的确信度不同：apparently 较中性（显然/据说），supposedly 带一点怀疑（据称），they say 最口语化（人家都说）。Enough to 表程度足够：The infection is bad enough to need a vaccine.
+语法主线有三条。第一条是"据说"类表达：apparently、supposedly、they say 都用来转述未经证实的信息：Apparently, the flu is spreading. / They say stress is bad for you. 第二条是程度表达：enough 放形容词后（old enough），enough to do 表示"足以……"；have trouble doing 表示"做某事有困难"。第三条是身体习语：under the weather（不舒服）、at risk（处于风险中）、bad for you（对你有害）。
 
-学完本单元，你可以用英语描述身体不适、转述他人的健康建议，并对信息的可靠性表达不同程度的确信。
+学完这些词，你能描述症状、转述医嘱与传闻、讨论疫苗与副作用——身体抱恙时的全套表达都齐了。
 
 ## Tips
 
-- **under the weather** — 身体不适、有点不舒服。搭配：feel under the weather。I'm feeling a bit under the weather today. 这是一个非常常用的口语表达，通常指小病（感冒、疲倦），不用于严重疾病。
+- **apparently / supposedly / they say** — "据说"三兄弟。apparently 表示"据我所知、显然"，常放句首：Apparently, he is sick. supposedly 表示"据说、按理说"，带一点怀疑：It's supposedly safe. they say 是最口语的转述：They say sleep is the best medicine. 三者都比直接断言更谨慎。
 
-- **apparently / supposedly / they say** — 三者都表"据说"，但语气不同。apparently = 看起来显然如此（较确信）；supposedly = 据称（带怀疑）；they say = 人们常说（最随意）。Apparently he's sick. / Supposedly this vitamin helps. / They say yawning is contagious.
+- **under the weather** — 身体习语的经典："不舒服、有点不对劲"。I'm feeling a bit under the weather. 来源说法与航海有关——生病的水手被安置在甲板下方避风处。
 
-- **side effect** — 副作用。搭配：side effects of a vaccine/medicine, have side effects。Every medicine has side effects. 注意通常用复数 side effects。
+- **at risk / bad for you / side effect** — at risk 是"处于风险中"：Old people are at risk. bad for you 与 good for you 相对：Smoking is bad for you. side effect 是（药物）副作用：a common side effect.
 
-- **swollen** — 肿胀的。搭配：a swollen wrist/ankle, get swollen。My ankle is swollen. 来自动词 swell（膨胀）。注意发音：/ˈswoʊlən/，不是 /swɒlən/。
+- **vaccine / vitamin** — 两个形近词别混淆：vaccine 是疫苗（get a vaccine），vitamin 是维生素（take vitamins）。拼写上 vaccine 有 cc，vitamin 有 t。
 
-- **have trouble** — 有困难、做某事费劲。搭配：have trouble doing sth, have trouble with。I have trouble breathing. / She has trouble with her hip. 注意后接 doing（不是 to do）。
+- **swollen / heal / infection** — swollen 是"肿胀的"，swell 的过去分词作形容词：My wrist is swollen. heal 是"愈合"：The wound will heal soon. infection 是"感染"：an ear infection.
 
-- **heal** — 愈合、恢复。搭配：the wound heals, heal quickly。It takes time to heal. 注意 heal 和 cure 的区别：heal 强调自然恢复过程，cure 强调治愈疾病。
+- **hip / lung / muscle / wrist** — 四个身体部位：hip 髋部；lung 肺；muscle 肌肉；wrist 手腕。注意 lung 和 muscle 的发音陷阱：lung 的 g 发音，muscle 的 c 不发音。
 
-- **vaccine / vitamin** — 疫苗 / 维生素。搭配：get a vaccine, take vitamins。注意 vaccine 的发音：/vækˈsiːn/。vitamin 美式读 /ˈvaɪtəmɪn/，英式读 /ˈvɪtəmɪn/。
+- **have trouble / enough / enough to** — have trouble doing 是"做某事有困难"：I have trouble breathing. enough 修饰形容词时放后面：strong enough. enough to do 表示"足以做"：He is strong enough to lift it.
 
-- **at risk** — 处于危险中。搭配：be at risk, at risk of。Smokers are at risk of lung problems. 注意 at risk 后接 of + 名词/动名词。
+- **could** — 情态动词，可表可能性：It could be the flu.（可能是流感。）也可表能力或委婉请求。本单元主要用其"可能"义。
 
-- **infection** — 感染。搭配：get an infection, a lung infection, treat an infection。构词：infect（动词）→ infection（名词）→ infectious（形容词，有传染性的）。
+- **yawn** — 打哈欠，可名可动：I can't stop yawning. 习惯上 yawn 与困倦、无聊相关。
 
-- **enough to** — 足够……以至于……。搭配：adj + enough to do, enough + n + to do。The muscle pain is bad enough to keep me up. / He's strong enough to lift it. 注意 enough 修饰形容词时放后面（bad enough），修饰名词时放前面（enough time）。
-
-- **bad for you** — 对你有害。搭配：be bad for you/your health。Smoking is bad for you. 反义：good for you。口语中 Bad for you! 也可表"对你不好哦"的轻微警告。
-
-- **impression** — 印象。搭配：make an impression, get the impression that。I get the impression that he's not feeling well. 注意 impression 和 impress 的关系：impress（动词）→ impression（名词）→ impressive（形容词）。
-
-- **yawn** — 打哈欠。搭配：yawn loudly, make me yawn。Yawning is contagious.（打哈欠会传染。）这虽然是民间说法，但确实很多人有此体验。
+- **impression** — "印象"：get the impression that...（觉得……）。动词是 impress。在健康语境中：I get the impression it's nothing serious.
 
 ## 练习
 
@@ -63,149 +56,149 @@ apparently, at risk, bad for you, could, enough, enough to, have trouble, heal, 
 
 <quiz-sentence-builder>
 
-1. **中文**：我今天感觉身体有些微恙，想在家休息。
-   **英文**：I am feeling a bit under the weather today, so I'll rest at home.
-   > **解析**：under the weather 表示身体不适、微恙。
+1. **中文**：我感觉有点不舒服。
+   **英文**：I'm feeling a bit under the weather.
+   > **解析**：under the weather 是固定习语"不舒服"，作表语；a bit 修饰程度。
 
-2. **中文**：伤口发炎导致她的手腕变得十分肿胀。
-   **英文**：An infection caused her wrist to become very swollen.
-   > **解析**：infection 表示感染；swollen 表示肿胀的；wrist 表示手腕。
+2. **中文**：我的手腕肿了。
+   **英文**：My wrist is swollen.
+   > **解析**：swollen 是 swell 的过去分词作形容词，表状态；My wrist 是单数主语用 is。
 
-3. **中文**：医生建议接种这种新型疫苗以预防病毒。
-   **英文**：The doctor recommended getting the new vaccine to prevent viruses.
-   > **解析**：vaccine 表示疫苗。
+3. **中文**：据说流感正在蔓延。
+   **英文**：Apparently, the flu is spreading.
+   > **解析**：Apparently 作副词放句首，修饰整句；is spreading 是现在进行时。
 
-4. **中文**：这种止痛药可能会产生轻微的副作用。
-   **英文**：This painkiller might cause some mild side effects such as drowsiness.
-   > **解析**：side effect 表示副作用。
+4. **中文**：他们说压力对身体有害。
+   **英文**：They say stress is bad for you.
+   > **解析**：They say 是传闻转述的固定开场；bad for you 作从句表语。
 
-5. **中文**：适当的休息有助于摔伤的骨骼快速愈合。
-   **英文**：Proper rest helps the injured bone heal much faster.
-   > **解析**：heal 表示愈合、治愈。
+5. **中文**：这可能是流感。
+   **英文**：It could be the flu.
+   > **解析**：could 表示可能性；be 是动词原形接在情态动词后。
 
-6. **中文**：吸烟对你的肺部健康非常有害。
-   **英文**：Smoking is extremely bad for your lungs and overall health.
-   > **解析**：lung 表示肺部；bad for you 表示对有害。
+6. **中文**：我呼吸困难。
+   **英文**：I have trouble breathing.
+   > **解析**：have trouble doing 是固定结构，breathing 是动名词；trouble 不可数。
 
-7. **中文**：经过激烈的训练后，他的腿部肌肉感到很酸痛。
-   **英文**：His leg muscles felt sore after the intense workout.
-   > **解析**：muscle 表示肌肉。
+7. **中文**：据说这种疫苗是安全的。
+   **英文**：The vaccine is supposedly safe.
+   > **解析**：supposedly 是副词，修饰形容词 safe，放在 be 动词后；表示"据说"带轻微保留。
 
-8. **中文**：老年人在结冰的地面上行走很容易伤到髋部。
-   **英文**：Elderly people walking on icy roads may hurt their hips.
-   > **解析**：hip 表示髋部。
+8. **中文**：老人处于风险之中。
+   **英文**：Old people are at risk.
+   > **解析**：at risk 是固定短语作表语；Old people 是复数主语用 are。
 
-9. **中文**：补充充足的维他命C有助于增强免疫力。
-   **英文**：Taking enough vitamin C helps strengthen your immune system.
-   > **解析**：vitamin 表示维他命。
+9. **中文**：伤口很快就会愈合。
+   **英文**：The wound will heal soon.
+   > **解析**：will 后接动词原形 heal；soon 是时间副词放句末。
 
-10. **中文**：患有慢性病的人感染后处于较高的风险中。
-   **英文**：People with chronic conditions are at risk of severe complications.
-   > **解析**：at risk 表示处于风险之中。
+10. **中文**：他肺部有感染。
+    **英文**：He has an infection in his lung.
+    > **解析**：has 表"患有"；an infection 可数名词用 an；in his lung 是部位状语。
 
-11. **中文**：睡前看手机经常导致他夜间入睡困难。
-   **英文**：Looking at phones before bed makes him have trouble falling asleep.
-   > **解析**：have trouble 表示在做……方面有困难。
+11. **中文**：这种药有副作用。
+    **英文**：This medicine has side effects.
+    > **解析**：side effects 用复数表示多种副作用；This medicine 是三单主语用 has。
 
-12. **中文**：显而易见，这种新药的疗效比旧药好很多。
-   **英文**：Apparently, this new remedy is much more effective than the old one.
-   > **解析**：apparently 表示显而易见地、据了解。
+12. **中文**：服用维生素可能有帮助。
+    **英文**：Taking vitamins could help.
+    > **解析**：Taking vitamins 动名词短语作主语；could 表示可能性，后接动词原形 help。
 
-13. **中文**：据称这种草药能缓解肌肉疲劳。
-   **英文**：Supposedly, this herbal tea can relieve muscle soreness.
-   > **解析**：supposedly 表示据称、据推测。
+13. **中文**：我忍不住打哈欠。
+    **英文**：I can't stop yawning.
+    > **解析**：can't stop doing 是"忍不住一直做某事"；yawning 是动名词作 stop 的宾语。
 
-14. **中文**：疲惫的工人在漫长的讲座中忍不住打了个哈欠。
-   **英文**：The tired worker couldn't help but yawn during the long lecture.
-   > **解析**：yawn 表示打哈欠。
+14. **中文**：他的肌肉拉伤了。
+    **英文**：He pulled a muscle.
+    > **解析**：pull a muscle 是"拉伤肌肉"的固定表达；pulled 是过去式。
 
-15. **中文**：经常熬夜吃垃圾食品对你的身体有害。
-   **英文**：Staying up late and eating fast food is bad for you.
-   > **解析**：bad for you 表示对你有害。
+15. **中文**：她的髋部疼。
+    **英文**：Her hip hurts.
+    > **解析**：Her hip 是三单主语，hurt 加 s；hurts 表示"疼痛"。
 
-16. **中文**：人们说每天步行八千步能延年益寿。
-   **英文**：They say walking eight thousand steps daily improves longevity.
-   > **解析**：they say 表示人们说、听说。
+16. **中文**：她足够强壮，能搬动它。
+    **英文**：She is strong enough to lift it.
+    > **解析**：enough 放形容词 strong 之后；to lift 不定式表结果。
 
-17. **中文**：医生给我的印象是他对病人非常耐性和专业。
-   **英文**：My impression of the doctor was that he was patient and professional.
-   > **解析**：impression 表示印象。
+17. **中文**：我没睡够。
+    **英文**：I didn't get enough sleep.
+    > **解析**：enough 修饰名词 sleep 时放在名词前；didn't get 是过去时否定。
 
-18. **中文**：她的伤势恢复得足够快，可以参加明天的比赛了。
-   **英文**：Her injury recovered fast enough to participate in tomorrow's game.
-   > **解析**：enough to 表示足够以致于……
+18. **中文**：我感觉这不是什么严重的事。
+    **英文**：I get the impression it's nothing serious.
+    > **解析**：get the impression 后接省略 that 的同位语从句；nothing serious 中形容词后置修饰 nothing。
 
-19. **中文**：这种新疗法可能会带来更好的康复效果。
-   **英文**：This new medical treatment could lead to a faster recovery.
-   > **解析**：could 表示可能（情态动词表推测）。
+19. **中文**：吸烟对你有害。
+    **英文**：Smoking is bad for you.
+    > **解析**：Smoking 动名词作主语，谓语用单数 is；bad for you 是固定短语。
 
-20. **中文**：跌倒时用手臂支撑地面导致了他的手腕扭伤。
-   **英文**：Falling on the ice caused a sprain in his right wrist.
-   > **解析**：wrist 表示手腕。
+20. **中文**：你应该打疫苗。
+    **英文**：You should get the vaccine.
+    > **解析**：should 后接动词原形 get；get the vaccine 是"接种疫苗"的常用表达。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I am feeling a bit under the weather today, so I'll rest at home.
-   > **中文**：我今天感觉身体有些微恙，想在家休息。
+1. I'm feeling a bit under the weather.
+   > **中文**：我感觉有点不舒服。
 
-2. An infection caused her wrist to become very swollen.
-   > **中文**：伤口发炎导致她的手腕变得十分肿胀。
+2. My wrist is swollen.
+   > **中文**：我的手腕肿了。
 
-3. The doctor recommended getting the new vaccine to prevent viruses.
-   > **中文**：医生建议接种这种新型疫苗以预防病毒。
+3. Apparently, the flu is spreading.
+   > **中文**：据说流感正在蔓延。
 
-4. This painkiller might cause some mild side effects such as drowsiness.
-   > **中文**：这种止痛药可能会产生轻微的副作用。
+4. They say stress is bad for you.
+   > **中文**：他们说压力对身体有害。
 
-5. Proper rest helps the injured bone heal much faster.
-   > **中文**：适当的休息有助于摔伤的骨骼快速愈合。
+5. It could be the flu.
+   > **中文**：这可能是流感。
 
-6. Smoking is extremely bad for your lungs and overall health.
-   > **中文**：吸烟对你的肺部健康非常有害。
+6. I have trouble breathing.
+   > **中文**：我呼吸困难。
 
-7. His leg muscles felt sore after the intense workout.
-   > **中文**：经过激烈的训练后，他的腿部肌肉感到很酸痛。
+7. The vaccine is supposedly safe.
+   > **中文**：据说这种疫苗是安全的。
 
-8. Elderly people walking on icy roads may hurt their hips.
-   > **中文**：老年人在结冰的地面上行走很容易伤到髋部。
+8. Old people are at risk.
+   > **中文**：老人处于风险之中。
 
-9. Taking enough vitamin C helps strengthen your immune system.
-   > **中文**：补充充足的维他命C有助于增强免疫力。
+9. The wound will heal soon.
+   > **中文**：伤口很快就会愈合。
 
-10. People with chronic conditions are at risk of severe complications.
-   > **中文**：患有慢性病的人感染后处于较高的风险中。
+10. He has an infection in his lung.
+    > **中文**：他肺部有感染。
 
-11. Looking at phones before bed makes him have trouble falling asleep.
-   > **中文**：睡前看手机经常导致他夜间入睡困难。
+11. This medicine has side effects.
+    > **中文**：这种药有副作用。
 
-12. Apparently, this new remedy is much more effective than the old one.
-   > **中文**：显而易见，这种新药的疗效比旧药好很多。
+12. Taking vitamins could help.
+    > **中文**：服用维生素可能有帮助。
 
-13. Supposedly, this herbal tea can relieve muscle soreness.
-   > **中文**：据称这种草药能缓解肌肉疲劳。
+13. I can't stop yawning.
+    > **中文**：我忍不住打哈欠。
 
-14. The tired worker couldn't help but yawn during the long lecture.
-   > **中文**：疲惫的工人在漫长的讲座中忍不住打了个哈欠。
+14. He pulled a muscle.
+    > **中文**：他的肌肉拉伤了。
 
-15. Staying up late and eating fast food is bad for you.
-   > **中文**：经常熬夜吃垃圾食品对你的身体有害。
+15. Her hip hurts.
+    > **中文**：她的髋部疼。
 
-16. They say walking eight thousand steps daily improves longevity.
-   > **中文**：人们说每天步行八千步能延年益寿。
+16. She is strong enough to lift it.
+    > **中文**：她足够强壮，能搬动它。
 
-17. My impression of the doctor was that he was patient and professional.
-   > **中文**：医生给我的印象是他对病人非常耐性和专业。
+17. I didn't get enough sleep.
+    > **中文**：我没睡够。
 
-18. Her injury recovered fast enough to participate in tomorrow's game.
-   > **中文**：她的伤势恢复得足够快，可以参加明天的比赛了。
+18. I get the impression it's nothing serious.
+    > **中文**：我感觉这不是什么严重的事。
 
-19. This new medical treatment could lead to a faster recovery.
-   > **中文**：这种新疗法可能会带来更好的康复效果。
+19. Smoking is bad for you.
+    > **中文**：吸烟对你有害。
 
-20. Falling on the ice caused a sprain in his right wrist.
-   > **中文**：跌倒时用手臂支撑地面导致了他的手腕扭伤。
+20. You should get the vaccine.
+    > **中文**：你应该打疫苗。
 
 </quiz-listening>
 
@@ -213,26 +206,36 @@ apparently, at risk, bad for you, could, enough, enough to, have trouble, heal, 
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| under the weather | 身体不适；微恙 |
+| apparently | 据说；显然 |
+| at risk | 处于风险中 |
+| bad for you | 对你有害 |
+| could | 可能；能 |
+| enough | 足够 |
+| enough to | 足以…… |
+| have trouble | 做……有困难 |
+| heal | 愈合 |
+| hip | 髋部 |
+| impression | 印象 |
 | infection | 感染 |
-| swollen | 肿胀的 |
-| heal | 愈合；治愈 |
-| side effect | 副作用 |
-| vaccine | 疫苗 |
-| lung | 肺；肺部 |
+| lung | 肺 |
 | muscle | 肌肉 |
-| hip | 髋部；臀部 |
+| side effect | 副作用 |
+| supposedly | 据说 |
+| swollen | 肿胀的 |
+| they say | 据说；人们说 |
+| under the weather | 不舒服 |
+| vaccine | 疫苗 |
+| vitamin | 维生素 |
 | wrist | 手腕 |
 | yawn | 打哈欠 |
-| vitamin | 维他命；维生素 |
-| at risk | 处于危险之中；有风险 |
-| bad for you | 对有害 |
-| have trouble | 做……有困难 |
-| enough to | 足够以致于…… |
-| apparently | 显而易见地；据了解 |
-| supposedly | 据说；据称 |
-| impression | 印象；感觉 |
-| they say | 人们说；听说 |
+| flu | 流感 |
+| stress | 压力 |
+| medicine | 药 |
+| sleep | 睡眠 |
+| wound | 伤口 |
+| should | 应该 |
+| you | 你 |
+| soon | 很快 |
 
 </quiz-matching>
 
@@ -240,202 +243,202 @@ apparently, at risk, bad for you, could, enough, enough to, have trouble, heal, 
 
 ### 1
 
-I am ____ a bit under the weather today, so I'll rest at home.
+I'm feeling a bit under the ____.
 
-- [x] feeling
-- [ ] apparently
-- [ ] at risk
+- [x] weather
+- [ ] climate
+- [ ] season
 
-> **解析**：**feeling** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：under the weather 是固定习语"不舒服"；climate 和 season 不构成此表达。
 
 ### 2
 
-An ____ caused her wrist to become very swollen.
+My wrist is ____.
 
-- [x] infection
-- [ ] apparently
-- [ ] at risk
+- [x] swollen
+- [ ] swell
+- [ ] swelling
 
-> **解析**：**infection** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后接形容词化的过去分词 swollen 表状态；swell 是原形，swelling 强调进行中动作不合此处状态描述。
 
 ### 3
 
-The doctor recommended getting the new ____ to prevent viruses.
+____, the flu is spreading.
 
-- [x] vaccine
-- [ ] apparently
-- [ ] at risk
+- [x] Apparently
+- [ ] Apparent
+- [ ] Apparitions
 
-> **解析**：**vaccine** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句首修饰整句需要副词 Apparently；Apparent 是形容词，Apparitions 是"幽灵"语义不合。
 
 ### 4
 
-This ____ might cause some mild side effects such as drowsiness.
+They ____ stress is bad for you.
 
-- [x] painkiller
-- [ ] apparently
-- [ ] at risk
+- [x] say
+- [ ] says
+- [ ] saying
 
-> **解析**：**painkiller** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：They 复数主语用动词原形 say；They say 是传闻转述固定开场。
 
 ### 5
 
-Proper rest helps the injured bone ____ much faster.
+It ____ be the flu.
 
-- [x] heal
-- [ ] apparently
-- [ ] at risk
+- [x] could
+- [ ] coulds
+- [ ] coulding
 
-> **解析**：**heal** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：could 是情态动词表可能性，无变化形式；coulds 和 coulding 都不存在。
 
 ### 6
 
-Smoking is ____ bad for your lungs and overall health.
+I have trouble ____.
 
-- [x] extremely
-- [ ] apparently
-- [ ] at risk
+- [x] breathing
+- [ ] breathe
+- [ ] breathed
 
-> **解析**：**extremely** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：have trouble doing 是固定结构，用动名词 breathing；breathe 是原形，breathed 是过去式。
 
 ### 7
 
-His leg ____ felt sore after the intense workout.
+The vaccine is ____ safe.
 
-- [x] muscles
-- [ ] apparently
-- [ ] at risk
+- [x] supposedly
+- [ ] suppose
+- [ ] supposition
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **muscles**。
+> **解析**：修饰形容词 safe 需要副词 supposedly；suppose 是动词，supposition 是名词。
 
 ### 8
 
-____ people walking on icy roads may hurt their hips.
+Old people are at ____.
 
-- [x] Elderly
-- [ ] apparently
-- [ ] at risk
+- [x] risk
+- [ ] risks
+- [ ] risky
 
-> **解析**：**Elderly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：at risk 是固定短语，risk 用单数；risky 是形容词不作介词宾语。
 
 ### 9
 
-Taking ____ vitamin C helps strengthen your immune system.
+The wound will ____ soon.
 
-- [x] enough
-- [ ] apparently
-- [ ] at risk
+- [x] heal
+- [ ] heals
+- [ ] healed
 
-> **解析**：**enough** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：will 后接动词原形 heal；healed 是过去式，不能跟在 will 后。
 
 ### 10
 
-People with chronic conditions are at risk of severe ____.
+He has an ____ in his lung.
 
-- [x] complications
-- [ ] apparently
-- [ ] at risk
+- [x] infection
+- [ ] infections
+- [ ] infect
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **complications**。
+> **解析**：an 后接单数名词 infection；infect 是动词，infections 复数不与 an 搭配。
 
 ### 11
 
-____ at phones before bed makes him have trouble falling asleep.
+This medicine has side ____.
 
-- [x] Looking
-- [ ] apparently
-- [ ] at risk
+- [x] effects
+- [ ] effect
+- [ ] effecting
 
-> **解析**：**Looking** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：side effects 习惯用复数表示各种副作用；effecting 是动名词。
 
 ### 12
 
-____, this new remedy is much more effective than the old one.
+Taking vitamins could ____.
 
-- [x] Apparently
-- [ ] at risk
-- [ ] bad for you
+- [x] help
+- [ ] helps
+- [ ] helping
 
-> **解析**：**Apparently** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：could 后接动词原形 help；helps 是三单形式，helping 不能跟在 could 后。
 
 ### 13
 
-____, this herbal tea can relieve muscle soreness.
+I can't stop ____.
 
-- [x] Supposedly
-- [ ] apparently
-- [ ] at risk
+- [x] yawning
+- [ ] yawn
+- [ ] yawned
 
-> **解析**：**Supposedly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：stop doing 表示停止/忍住某行为，用动名词 yawning；yawn 是原形，yawned 是过去式。
 
 ### 14
 
-The tired worker couldn't help but ____ during the long lecture.
+He pulled a ____.
 
-- [x] yawn
-- [ ] apparently
-- [ ] at risk
+- [x] muscle
+- [ ] muscles
+- [ ] muscular
 
-> **解析**：**yawn** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：pull a muscle 是固定表达"拉伤肌肉"；muscular 是形容词。
 
 ### 15
 
-____ up late and eating fast food is bad for you.
+Her hip ____.
 
-- [x] Staying
-- [ ] apparently
-- [ ] at risk
+- [x] hurts
+- [ ] hurt
+- [ ] hurting
 
-> **解析**：**Staying** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：Her hip 是三单主语，hurt 加 s；hurting 不能单独作谓语。
 
 ### 16
 
-They say walking eight thousand steps daily improves ____.
+She is strong ____ to lift it.
 
-- [x] longevity
-- [ ] apparently
-- [ ] at risk
+- [x] enough
+- [ ] enoughly
+- [ ] sufficient
 
-> **解析**：**longevity** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：enough 修饰形容词时后置：strong enough；sufficient 虽是同义词但需放形容词前，语法位置不合。
 
 ### 17
 
-My ____ of the doctor was that he was patient and professional.
+I didn't get ____ sleep.
 
-- [x] impression
-- [ ] apparently
-- [ ] at risk
+- [x] enough
+- [ ] many
+- [ ] a few
 
-> **解析**：**impression** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：sleep 不可数，用 enough 修饰；many 和 a few 只修饰可数名词复数。
 
 ### 18
 
-Her injury recovered fast ____ to participate in tomorrow's game.
+I get the ____ it's nothing serious.
 
-- [x] enough
-- [ ] apparently
-- [ ] at risk
+- [x] impression
+- [ ] impressions
+- [ ] impress
 
-> **解析**：**enough** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get the impression 是固定搭配，impression 用单数；impress 是动词。
 
 ### 19
 
-This new medical treatment ____ lead to a faster recovery.
+Smoking is bad ____ you.
 
-- [x] could
-- [ ] apparently
-- [ ] at risk
+- [x] for
+- [ ] to
+- [ ] at
 
-> **解析**：**could** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：bad for you 是固定搭配；to 和 at 不合。
 
 ### 20
 
-Falling on the ice caused a sprain in his right ____.
+You should get the ____.
 
-- [x] wrist
-- [ ] apparently
-- [ ] at risk
+- [x] vaccine
+- [ ] vaccines
+- [ ] vaccination's
 
-> **解析**：**wrist** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the vaccine 特指该疫苗，用单数；vaccination's 是所有格不合。
 
 </quiz-cloze>

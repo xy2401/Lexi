@@ -10,40 +10,35 @@ bug, card, caught, childhood, come over, dirt, do, frog, frying pan, hide, joke,
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"分享童年故事"展开。核心是回忆表达：I used to catch frogs and bugs in the neighborhood.（我过去常在社区里抓青蛙和虫子。）、She never used to eat spinach, but now she loves it.（她以前从来不吃菠菜，但现在很爱吃。）、We used to come over and play cards.（我们过去常来玩牌。）、My parents were very strict.（我父母很严格。）。
+本单元的主题是"分享童年故事"，词表可以分成三组：童年玩法与物件（hide, caught, kicked, bug, frog, card, frying pan, pie, trumpet）、童年的人与地方（childhood, neighborhood, shy, strict, stay, come over）、以及回忆的语法骨架（used to, never used to, do, now, up, dirt, joke, knee, spinach）。拼起来就是一段地道的怀旧：I used to catch bugs in the neighborhood. My strict teacher never used to joke with us.
 
-词表里有童年词汇（childhood, neighborhood, bug, frog）和 used to 结构。你可以练习：I used to be so shy. / He kicked the ball and hurt his knee. / She hid behind the door as a joke. / I used to play the trumpet.
+语法主线是 used to 表示"过去常常（现在不了）"：I used to play cards. 否定形式 never used to（或 didn't use to）：I never used to eat spinach. 注意 ✗ I used to playing → ✓ I used to play，used to 后接动词原形。另一条对比是 now 与 used to 的呼应：I used to be shy, but now I am not.
 
-used to + 动词原形表示"过去常常"（现在不做了）。never used to 表示"过去从不"。
+学完这单元，你能用英语讲童年趣事：过去常做什么、和谁玩、住在哪里、那时的自己什么样。
 
 ## Tips
 
-- **used to / never used to** — 过去常常 / 过去从不。搭配：used to do, never used to do, used to be。例句：I used to play outside every day. / She never used to eat vegetables. 注意 used to 表示过去的习惯（现在已改变）。
+- **used to / never used to** — 本单元语法核心。used to + 动词原形表示过去常常、现在不再：I used to hide in the garden. 否定用 never used to：He never used to share his cards. 疑问句 Did you use to...?（注意 to 不再加 d）。✗ I used to went → ✓ I used to go。
 
-- **childhood / neighborhood** — 童年 / 社区。搭配：in my childhood, a nice neighborhood, childhood memories。例句：In my childhood, I played in the neighborhood. / I have great childhood memories. 注意 childhood 不可数。
+- **childhood / neighborhood** — childhood 童年（child + -hood，后缀 -hood 表示时期或状态，如 adulthood）。neighborhood 街区、邻里（neighbor + -hood）。回忆常说 in my childhood, in my neighborhood。
 
-- **catch / caught / bug / frog** — 抓 / 抓了 / 虫子 / 青蛙。搭配：catch bugs, caught a frog。例句：I used to catch bugs in the garden. / He caught a frog! 注意 catch → caught → caught。
+- **hide / caught** — hide 躲藏，不规则变化 hide → hid → hidden。caught 是 catch 的过去式（不规则）：We caught frogs by the stream. 捉迷藏就是 hide-and-seek。
 
-- **come over / stay / hide** — 来（我家）/ 待 / 藏。搭配：come over to my house, stay over, hide behind。例句：My friends used to come over after school. / She hid behind the door. 注意 come over = 来某人家里。
+- **kicked / knee** — kick 踢，规则加 -ed：I kicked the ball. knee 膝盖，k 不发音（kn- 组合中 k 静默），同类还有 know、knife。
 
-- **strict / shy / now** — 严格的 / 害羞的 / 现在。搭配：strict parents, very shy, but now。例句：My dad was very strict. / I used to be shy, but now I'm not. 注意 strict 搭配 with（strict with kids）。
+- **bug / frog** — 两个小生物。bug 泛指小虫，frog 青蛙。童年抓虫：catch bugs。注意 bug 在口语里也指"程序漏洞"。
 
-- **kicked / knee / dirt** — 踢了 / 膝盖 / 泥土。搭配：kicked the ball, hurt my knee, in the dirt。例句：He kicked the ball too hard. / I fell and hurt my knee. / We played in the dirt. 注意 kick → kicked（规则变化）。
+- **card / frying pan / pie / trumpet** — 物件词。card 卡片，玩牌 play cards。frying pan 平底煎锅（fry + -ing + pan）。pie 馅饼。trumpet 小号，乐器：play the trumpet（乐器前加 the）。
 
-- **spinach / pie / frying pan** — 菠菜 / 派 / 煎锅。搭配：eat spinach, a pie, a frying pan。例句：I never used to eat spinach. / Grandma made a pie. / She cooked in a frying pan. 注意 spinach 不可数。
+- **shy / strict** — 两个性格形容词。shy 害羞的：I used to be shy. strict 严格的：a strict teacher。搭配 be strict with someone（对某人严格）。
 
-- **joke / card / trumpet** — 笑话 / 牌 / 小号。搭配：tell a joke, play cards, play the trumpet。例句：He told a joke and we laughed. / We used to play cards. / I used to play the trumpet. 注意乐器前加 the。
+- **stay / come over** — stay 停留、待着：stay at home。come over 过来串门，口语常用：My friends used to come over after school.
 
-- **do / up / now** — 做 / 起来 / 现在。搭配：used to do, get up, but now。例句：What did you use to do? / Get up! It's morning. / I used to hate it, but now I like it. 注意 used to 的疑问句：Did you use to...?
+- **do / now** — do 作助动词构成 used to 的疑问与否定：Did you use to...? now"现在"与 used to 形成今昔对比：Now I live in the city.
 
-- **come over / childhood / neighborhood** — 来玩 / 童年 / 社区。搭配：come over after school, in my childhood, around the neighborhood。例句：Friends used to come over. / In my childhood, the neighborhood was quiet. 注意这些词常一起出现在童年回忆中。
-
-- **hide / caught / shy** — 藏 / 抓 / 害羞。搭配：hide and seek, got caught, feel shy。例句：We used to play hide and seek. / I got caught! / I was too shy to talk. 注意 hide → hid → hidden。
-
-- **strict / used to / never** — 严格 / 过去常 / 从不。搭配：strict rules, used to be, never used to。例句：My mom was strict about bedtime. / I used to be scared of bugs. / I never used to like spinach.
+- **dirt / joke / spinach / up** — dirt 泥土（形容词 dirty）。joke 玩笑，既是名词也是动词：He never used to joke. spinach 菠菜，不可数。up 向上，搭配 get up、clean up、grow up（长大）。
 
 ## 练习
 
@@ -61,149 +56,149 @@ used to + 动词原形表示"过去常常"（现在不做了）。never used to 
 
 <quiz-sentence-builder>
 
-1. **中文**：在我的童年时期，邻居们经常过来我们家串门。  
-   **英文**：In my childhood, neighbors used to come over to our house.
-   > **解析**：childhood 表示“童年”；used to 表示“过去常常”；come over 表示“过来串门/拜访”；neighborhood 表示“街区/邻里”。
+1. **中文**：我过去常在街区里捉虫子。
+   **英文**：I used to catch bugs in the neighborhood.
+   > **解析**：used to 后接动词原形 catch；in the neighborhood 是地点状语。
 
-2. **中文**：那个害羞的男孩过去从不习惯在泥土里抓青蛙和虫子。  
-   **英文**：The shy boy never used to catch frogs and bugs in dirt.
-   > **解析**：shy 表示“害羞的”；never used to 表示“过去从不”；frog 表示“青蛙”；bug 表示“虫子”；dirt 表示“泥土”。
+2. **中文**：我从不吃菠菜。
+   **英文**：I never used to eat spinach.
+   > **解析**：never used to 表示"过去从不"；eat 用原形。
 
-3. **中文**：我们在院子里踢了球，我不小心弄伤了膝盖。  
-   **英文**：We kicked the ball in the yard, and I hurt my knee.
-   > **解析**：kicked 是 kick 的过去式，表示“踢”；knee 表示“膝盖”。
+3. **中文**：我们过去常玩牌。
+   **英文**：We used to play cards.
+   > **解析**：used to + 动词原形 play；cards 用复数表示一副牌的游戏。
 
-4. **中文**：妈妈用平底煎锅做菠菜派，那是个有趣的玩笑。  
-   **英文**：Mom cooked a spinach pie in a frying pan, funny joke!
-   > **解析**：spinach 表示“菠菜”；pie 表示“派/馅饼”；frying pan 表示“平底煎锅”；joke 表示“玩笑”。
+4. **中文**：他过去很害羞。
+   **英文**：He used to be shy.
+   > **解析**：used to 后接 be 动词原形；shy 作表语。
 
-5. **中文**：严格的老师抓住并在全班同学面前表演了吹小号。  
-   **英文**：The strict teacher caught him playing the trumpet.
-   > **解析**：strict 表示“严格的”；caught 是 catch 的过去式；trumpet 表示“小号”。
+5. **中文**：我的老师很严格。
+   **英文**：My teacher was strict.
+   > **解析**：was 是 is 的过去式，与单数主语搭配；strict 作表语。
 
-6. **中文**：他过去常常在树林里躲藏，躲避小昆虫。  
-   **英文**：He used to hide in the woods to stay away from bugs.
-   > **解析**：used to 表示“过去常常”；hide 表示“躲藏”；bug / bugs 表示“虫子”。
+6. **中文**：我的朋友们过去常在放学后过来串门。
+   **英文**：My friends used to come over after school.
+   > **解析**：come over 是"过来串门"的短语动词；after school 是时间状语。
 
-7. **中文**：如今，我不再像小时候那样害怕吃菠菜了。  
-   **英文**：Now, I am no longer afraid of eating spinach.
-   > **解析**：now 表示“如今/现在”；spinach 表示“菠菜”。
+7. **中文**：我们在溪边捉到了一只青蛙。
+   **英文**：We caught a frog by the stream.
+   > **解析**：caught 是 catch 的不规则过去式；by the stream 表示"在溪边"。
 
-8. **中文**：我们在邻里街区玩游戏，度过了难忘的岁月。  
-   **英文**：We played games in the neighborhood during our youth.
-   > **解析**：neighborhood 表示“邻里/街区”。
+8. **中文**：我踢了球，摔破了膝盖。
+   **英文**：I kicked the ball and hurt my knee.
+   > **解析**：kicked 与 hurt 是并列过去式；hurt 过去式与原形同形。
 
-9. **中文**：我的好朋友昨天下午过来我家一起听音乐。  
-   **英文**：My best friend decided to come over yesterday afternoon.
-   > **解析**：come over 表示“过来/来访”。
+9. **中文**：我过去常躲在我家附近。
+   **英文**：I used to hide near my home.
+   > **解析**：hide 用原形接在 used to 后；near my home 是地点状语。
 
-10. **中文**：他过去常常练习吹小号，声音非常响亮。  
-   **英文**：He used to practice playing the trumpet very loudly.
-   > **解析**：used to 表示“过去常常”；trumpet 表示“小号”。
+10. **中文**：她过去常烤馅饼。
+   **英文**：She used to bake pies.
+   > **解析**：used to + 动词原形 bake；pies 用复数表泛指。
 
-11. **中文**：童年时光充满了欢声笑语和纯真快乐。  
-   **英文**：Childhood memories are full of laughter and joy.
-   > **解析**：childhood 表示“童年”。
+11. **中文**：他过去常吹小号。
+   **英文**：He used to play the trumpet.
+   > **解析**：演奏乐器用 play the + 乐器名；the trumpet 前加 the。
 
-12. **中文**：池塘边有一只绿色的青蛙在跳跃。  
-   **英文**：A green frog was jumping near the pond in the yard.
-   > **解析**：frog 表示“青蛙”。
+12. **中文**：我过去常用平底锅煎蛋。
+   **英文**：I used to cook eggs in a frying pan.
+   > **解析**：in a frying pan 是方式状语；cook 用原形。
 
-13. **中文**：孩子们在泥土里玩耍，把衣服弄脏了。  
-   **英文**：The children played in the dirt and got dirty clothes.
-   > **解析**：dirt 表示“泥土/泥巴”。
+13. **中文**：我的童年很快乐。
+   **英文**：My childhood was happy.
+   > **解析**：childhood 是单数主语，用 was；happy 作表语。
 
-14. **中文**：用平底煎锅煎出来的蛋味道很香。  
-   **英文**：Eggs cooked in a frying pan taste very delicious.
-   > **解析**：frying pan 表示“平底煎锅”。
+14. **中文**：他现在住在城里。
+   **英文**：Now he lives in the city.
+   > **解析**：Now 放句首强调现在；lives 是一般现在时第三人称单数。
 
-15. **中文**：他因为害羞，在陌生人面前不敢说话。  
-   **英文**：He felt very shy and couldn't speak in front of strangers.
-   > **解析**：shy 表示“害羞的”。
+15. **中文**：他过去从不和我们一起玩牌。
+   **英文**：He never used to play cards with us.
+   > **解析**：never used to 表示过去从不；with us 是伴随状语。
 
-16. **中文**：足球比赛中他不小心踢到了同伴的膝盖。  
-   **英文**：He accidentally kicked his teammate's knee in the game.
-   > **解析**：knee 表示“膝盖”；kicked 表示“踢”。
+16. **中文**：你过去住在这里吗？
+   **英文**：Did you use to live here?
+   > **解析**：used to 的疑问句用 Did 开头，use 恢复原形不带 d。
 
-17. **中文**：那只是一个无心的玩笑，别放在心上。  
-   **英文**：That was just a silly joke, so don't be mad.
-   > **解析**：joke 表示“玩笑/笑话”。
+17. **中文**：我过去常在家待着。
+   **英文**：I used to stay at home.
+   > **解析**：stay at home 是固定搭配；stay 用原形。
 
-18. **中文**：多吃菠菜有助于补充铁质，保持健康。  
-   **英文**：Eating more spinach helps keep your body healthy.
-   > **解析**：spinach 表示“菠菜”。
+18. **中文**：他讲了个笑话，我们都笑了。
+   **英文**：He told a joke and we all laughed.
+   > **解析**：told 是 tell 的过去式；laughed 是 laugh 的过去式。
 
-19. **中文**：那个年轻人在树后躲藏了起来。  
-   **英文**：The young boy decided to hide behind the big tree.
-   > **解析**：hide 表示“躲藏/隐藏”。
+19. **中文**：我们过去常在泥地里玩耍。
+   **英文**：We used to play in the dirt.
+   > **解析**：in the dirt 表示在泥土中；play 用原形。
 
-20. **中文**：他过去从不习惯早起，但现在养成了好习惯。  
-   **英文**：He never used to get up early, but now he does.
-   > **解析**：never used to 表示“过去从不”。
+20. **中文**：我长大了，不再害羞了。
+   **英文**：I grew up and I am not shy now.
+   > **解析**：grew up 是 grow up 的过去式；now 与过去的 shy 形成对比。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. In my childhood, neighbors used to come over to our house.
-   > **中文**：在我的童年时期，邻居们经常过来我们家串门。
+1. I used to catch bugs.
+   > **中文**：我过去常捉虫子。
 
-2. The shy boy never used to catch frogs and bugs in dirt.
-   > **中文**：那个害羞的男孩过去从不习惯在泥土里抓青蛙和虫子。
+2. We used to play cards after school.
+   > **中文**：我们过去常在放学后玩牌。
 
-3. We kicked the ball in the yard, and I hurt my knee.
-   > **中文**：我们在院子里踢了球，我不小心弄伤了膝盖。
+3. She never used to eat spinach.
+   > **中文**：她从不吃菠菜。
 
-4. Mom cooked a spinach pie in a frying pan, funny joke!
-   > **中文**：妈妈用平底煎锅做菠菜派，那是个有趣的玩笑。
+4. He used to be shy.
+   > **中文**：他过去很害羞。
 
-5. The strict teacher caught him playing the trumpet.
-   > **中文**：严格的老师抓住并在全班同学面前表演了吹小号。
+5. My strict teacher never used to joke.
+   > **中文**：我严格的老师从不开玩笑。
 
-6. He used to hide in the woods to stay away from bugs.
-   > **中文**：他过去常常在树林里躲藏，躲避小昆虫。
+6. My childhood was fun.
+   > **中文**：我的童年很有趣。
 
-7. Now, I am no longer afraid of eating spinach.
-   > **中文**：如今，我不再像小时候那样害怕吃菠菜了。
+7. They used to come over on weekends.
+   > **中文**：他们过去常在周末过来串门。
 
-8. We played games in the neighborhood during our youth.
-   > **中文**：我们在邻里街区玩游戏，度过了难忘的岁月。
+8. I caught a frog yesterday.
+   > **中文**：我昨天捉到了一只青蛙。
 
-9. My best friend decided to come over yesterday afternoon.
-   > **中文**：我的好朋友昨天下午过来我家一起听音乐。
+9. She kicked the ball high.
+   > **中文**：她把球踢得很高。
 
-10. He used to practice playing the trumpet very loudly.
-   > **中文**：他过去常常练习吹小号，声音非常响亮。
+10. I hurt my knee in the dirt.
+   > **中文**：我在泥地里弄伤了膝盖。
 
-11. Childhood memories are full of laughter and joy.
-   > **中文**：童年时光充满了欢声笑语和纯真快乐。
+11. He used to play the trumpet.
+   > **中文**：他过去常吹小号。
 
-12. A green frog was jumping near the pond in the yard.
-   > **中文**：池塘边有一只绿色的青蛙在跳跃。
+12. We used to hide behind the trees.
+   > **中文**：我们过去常躲在树后。
 
-13. The children played in the dirt and got dirty clothes.
-   > **中文**：孩子们在泥土里玩耍，把衣服弄脏了。
+13. My grandmother used to bake pies.
+   > **中文**：我奶奶过去常烤馅饼。
 
-14. Eggs cooked in a frying pan taste very delicious.
-   > **中文**：用平底煎锅煎出来的蛋味道很香。
+14. Did you use to live in this neighborhood?
+   > **中文**：你过去住在这个街区吗？
 
-15. He felt very shy and couldn't speak in front of strangers.
-   > **中文**：他因为害羞，在陌生人面前不敢说话。
+15. I used to stay up late.
+   > **中文**：我过去常熬夜。
 
-16. He accidentally kicked his teammate's knee in the game.
-   > **中文**：足球比赛中他不小心踢到了同伴的膝盖。
+16. Now I get up early.
+   > **中文**：现在我早起。
 
-17. That was just a silly joke, so don't be mad.
-   > **中文**：那只是一个无心的玩笑，别放在心上。
+17. He used to cook with a frying pan.
+   > **中文**：他过去常用平底锅做饭。
 
-18. Eating more spinach helps keep your body healthy.
-   > **中文**：多吃菠菜有助于补充铁质，保持健康。
+18. The kids told jokes all day.
+   > **中文**：孩子们讲了一整天的笑话。
 
-19. The young boy decided to hide behind the big tree.
-   > **中文**：那个年轻人在树后躲藏了起来。
+19. She was strict but kind.
+   > **中文**：她很严格但很和善。
 
-20. He never used to get up early, but now he does.
-   > **中文**：他过去从不习惯早起，但现在养成了好习惯。
+20. I am not shy now.
+   > **中文**：我现在不害羞了。
 
 </quiz-listening>
 
@@ -211,26 +206,37 @@ used to + 动词原形表示"过去常常"（现在不做了）。never used to 
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| bug | 虫子 / 小昆虫 |
+| bug | 小虫 |
+| card | 卡片 / 纸牌 |
+| caught | 捉到（catch 的过去式） |
 | childhood | 童年 |
-| come over | 过来串门 / 拜访 |
-| dirt | 泥土 / 泥巴 |
+| come over | 过来串门 |
+| dirt | 泥土 |
+| do | 做 / 助动词 |
 | frog | 青蛙 |
 | frying pan | 平底煎锅 |
-| hide | 躲藏 / 隐藏 |
-| joke | 玩笑 / 笑话 |
-| kicked | 踢了（kick的过去式） |
+| hide | 躲藏 |
+| joke | 玩笑 |
+| kicked | 踢（kick 的过去式） |
 | knee | 膝盖 |
-| neighborhood | 邻里 / 街区 |
+| neighborhood | 街区 / 邻里 |
 | never used to | 过去从不 |
-| pie | 派 / 馅饼 |
+| now | 现在 |
+| pie | 馅饼 |
 | shy | 害羞的 |
 | spinach | 菠菜 |
-| stay | 停留 / 保持 |
+| stay | 停留 / 待着 |
 | strict | 严格的 |
-| trumpet | 小号 |
+| trumpet | 小号（乐器） |
+| up | 向上 |
 | used to | 过去常常 |
-| caught | 抓住了（catch的过去式） |
+| is | 是（单数） |
+| was | 是（过去式） |
+| we | 我们 |
+| he | 他 |
+| she | 她 |
+| the | 这 / 那（定冠词） |
+| after | 在……之后 |
 
 </quiz-matching>
 
@@ -238,202 +244,202 @@ used to + 动词原形表示"过去常常"（现在不做了）。never used to 
 
 ### 1
 
-In my ____, neighbors used to come over to our house.
+I used to ____ bugs in the neighborhood.
 
-- [x] childhood
-- [ ] bug
-- [ ] card
+- [x] catch
+- [ ] caught
+- [ ] catching
 
-> **解析**：**childhood** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：used to 后接动词原形 catch；caught 是过去式，catching 是现在分词。
 
 ### 2
 
-The ____ boy never used to catch frogs and bugs in dirt.
+I never used to eat ____.
 
-- [x] shy
-- [ ] bug
-- [ ] card
+- [x] spinach
+- [ ] trumpet
+- [ ] knee
 
-> **解析**：**shy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：eat 后需要食物名词 spinach；trumpet 和 knee 语义不符。
 
 ### 3
 
-We ____ the ball in the yard, and I hurt my knee.
+We used to play ____.
 
-- [x] kicked
-- [ ] bug
+- [x] cards
 - [ ] card
+- [ ] dirt
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **kicked**。
+> **解析**：玩牌用复数 cards；单数 card 不成游戏，dirt 语义不符。
 
 ### 4
 
-Mom cooked a ____ pie in a frying pan, funny joke!
+He used to ____ shy.
 
-- [x] spinach
-- [ ] bug
-- [ ] card
+- [x] be
+- [ ] was
+- [ ] being
 
-> **解析**：**spinach** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：used to 后接动词原形 be；was 是过去式，being 是现在分词。
 
 ### 5
 
-The ____ teacher caught him playing the trumpet.
+My teacher was ____.
 
 - [x] strict
-- [ ] bug
-- [ ] card
+- [ ] strictly
+- [ ] strictness
 
-> **解析**：**strict** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后需要形容词 strict 作表语；strictly 是副词，strictness 是名词。
 
 ### 6
 
-He used to ____ in the woods to stay away from bugs.
+My friends used to come ____ after school.
 
-- [x] hide
-- [ ] bug
-- [ ] card
+- [x] over
+- [ ] catch
+- [ ] up to
 
-> **解析**：**hide** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：come over 是固定短语"过来串门"；catch 是动词，up to 不构成此义。
 
 ### 7
 
-____, I am no longer afraid of eating spinach.
+We ____ a frog by the stream.
 
-- [x] Now
-- [ ] bug
-- [ ] card
+- [x] caught
+- [ ] catch
+- [ ] catched
 
-> **解析**：**Now** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：叙述过去用 catch 的不规则过去式 caught；catched 不是单词。
 
 ### 8
 
-We played games in the ____ during our youth.
+I kicked the ball and hurt my ____.
 
-- [x] neighborhood
-- [ ] bug
+- [x] knee
+- [ ] pie
 - [ ] card
 
-> **解析**：**neighborhood** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：受伤的身体部位是 knee"膝盖"；pie 和 card 语义不符。
 
 ### 9
 
-My best friend decided to come over ____ afternoon.
+I used to ____ near my home.
 
-- [x] yesterday
-- [ ] bug
-- [ ] card
+- [x] hide
+- [ ] hid
+- [ ] hidden
 
-> **解析**：**yesterday** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：used to 后接动词原形 hide；hid 是过去式，hidden 是过去分词。
 
 ### 10
 
-He used to practice playing the ____ very loudly.
+She used to bake ____.
 
-- [x] trumpet
-- [ ] bug
-- [ ] card
+- [x] pies
+- [ ] bugs
+- [ ] dirt
 
-> **解析**：**trumpet** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：bake 烘焙的对象是 pies"馅饼"；bugs 和 dirt 语义不符。
 
 ### 11
 
-____ memories are full of laughter and joy.
+He used to play the ____.
 
-- [x] Childhood
-- [ ] bug
-- [ ] card
+- [x] trumpet
+- [ ] frog
+- [ ] knee
 
-> **解析**：**Childhood** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：play the + 乐器，trumpet"小号"成立；frog 和 knee 不是乐器。
 
 ### 12
 
-A green ____ was jumping near the pond in the yard.
+My ____ was happy.
 
-- [x] frog
-- [ ] bug
-- [ ] card
+- [x] childhood
+- [ ] frying pan
+- [ ] spinach
 
-> **解析**：**frog** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：作主语的是童年 childhood；frying pan 和 spinach 语义不符。
 
 ### 13
 
-The children played in the ____ and got dirty clothes.
+____ he lives in the city.
 
-- [x] dirt
-- [ ] bug
-- [ ] card
+- [x] Now
+- [ ] Used to
+- [ ] Never
 
-> **解析**：**dirt** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Now 与 used to 的过去形成今昔对比；Used to 不能作句首状语，Never 位置不当。
 
 ### 14
 
-Eggs cooked in a frying pan taste very ____.
+Did you ____ to live here?
 
-- [x] delicious
-- [ ] bug
-- [ ] card
+- [x] use
+- [ ] used
+- [ ] using
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **delicious**。
+> **解析**：Did 提问时 used to 恢复为 use to；used 重复了时态标记，using 是分词。
 
 ### 15
 
-He felt very ____ and couldn't speak in front of strangers.
+I used to stay ____ home.
 
-- [x] shy
-- [ ] bug
-- [ ] card
+- [x] at
+- [ ] on
+- [ ] in to
 
-> **解析**：**shy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：stay at home 是固定搭配；on 和 in to 都不构成这个搭配。
 
 ### 16
 
-He accidentally ____ his teammate's knee in the game.
+He told a ____ and we all laughed.
 
-- [x] kicked
-- [ ] bug
+- [x] joke
 - [ ] card
+- [ ] pie
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **kicked**。
+> **解析**：told 后需要名词 joke"笑话"，tell a joke 是固定搭配；card 和 pie 都不能与 tell 搭配逗笑人。
 
 ### 17
 
-That was just a silly ____, so don't be mad.
+We used to play in the ____.
 
-- [x] joke
-- [ ] bug
-- [ ] card
+- [x] dirt
+- [ ] trumpet
+- [ ] pie
 
-> **解析**：**joke** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：在泥土 dirt 里玩耍；trumpet 和 pie 语义不符。
 
 ### 18
 
-Eating more ____ helps keep your body healthy.
+She used to cook eggs in a frying ____.
 
-- [x] spinach
-- [ ] bug
+- [x] pan
 - [ ] card
+- [ ] bug
 
-> **解析**：**spinach** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：frying pan 是固定复合词"平底煎锅"；card 和 bug 都不构成这个搭配。
 
 ### 19
 
-The young boy decided to ____ behind the big tree.
+He never used to ____ his cards.
 
-- [x] hide
-- [ ] bug
-- [ ] card
+- [x] share
+- [ ] shared
+- [ ] sharing
 
-> **解析**：**hide** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：used to 后接动词原形 share；shared 是过去式，sharing 是现在分词。
 
 ### 20
 
-He never used to get ____ early, but now he does.
+I grew ____ and left my neighborhood.
 
 - [x] up
-- [ ] bug
-- [ ] card
+- [ ] out
+- [ ] off
 
-> **解析**：**up** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：grow up 是固定短语"长大"；out 和 off 都不构成这个意思。
 
 </quiz-cloze>

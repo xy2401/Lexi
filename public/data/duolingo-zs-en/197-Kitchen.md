@@ -10,30 +10,33 @@ a bit of, basket, boil, burn, cucumber, dozen, dressing, fry, grill, half-, nood
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"谈论食谱和烹饪"展开。词表里有大量烹饪动词（boil, fry, grill, stir, pour, shake, burn）和食材/调料（cucumber, noodle, spice, dressing, organic）。你可以描述做菜过程：Boil the noodles. / Fry the cucumber with a bit of spice. / Pour the dressing and stir. / Don't burn it—smell that? It's sticky!
+本单元的主题是"厨房与烹饪"。词表可以分成三组：烹饪动作词（boil, fry, grill, stir, pour, shake, burn, taste, smell）、食材与调味词（cucumber, noodle, spice, dressing, organic, raw, sparkling water, sticky）、以及量词与容器（a bit of, half-, dozen, basket, yum）。拼起来就是完整的做菜流程：First, boil the noodles. Then fry the cucumber with a bit of spice. Pour the dressing, stir, and taste it. Yum!
 
-感官动词 smell 和 taste 在这里很关键——Smell the spice. / Taste the dressing. / Yum! 这些词既可以作及物动词（Taste this.），也可以作系动词（It tastes good. / It smells nice.）。
+语法主线是烹饪步骤的祈使句表达。菜谱用动词原形开头：Boil the water. Stir the soup. Pour in the dressing. 这是祈使句最实用的应用场景。另一条主线是量的表达：a bit of（一点儿）修饰不可数名词；dozen（一打，十二个）用于可数名词：a dozen eggs；half- 是前缀"一半"：half an hour（半小时）。注意 taste 和 smell 既可作动词（尝/闻），也可作名词（味道/气味），一词两义。
 
-half- 是前缀，构成 half-cooked（半熟的）之类的表达。dozen = 一打（12 个），a dozen eggs。sparkling water = 气泡水。整体来看，这个单元帮你用英语完成从备料到出锅的完整厨房对话。
+学完这些词，你能用英语读菜谱、描述做菜步骤、评价食物味道，并在厨房里自如交流。
 
 ## Tips
 
-- **boil / fry / grill / stir** — 四种基本烹饪方式。boil = 水煮（Boil the water. / boiled eggs）。fry = 油煎/炸（fry an egg, fried rice）。grill = 烧烤（grill the meat, a grilled sandwich）。stir = 搅拌（stir the soup, stir-fry = 翻炒）。
+- **boil / fry / grill / stir** — 四种烹饪方式。boil 水煮：boil the noodles；fry 油煎/炒：fry the vegetables；grill 烧烤：grill the fish；stir 搅拌：stir the soup. stir-fry 是"翻炒"，两个词合体。
 
-- **pour / shake / burn** — pour = 倒（液体）（Pour the dressing. / pour a glass of water）。shake = 摇（Shake the bottle. / Shake well before use.）。burn = 烧焦（Don't burn the noodles! / I burnt the toast.），过去式 burnt 或 burned。
+- **pour / shake** — pour 倒：pour the water into the pot；shake 摇晃：shake the bottle. 都是厨房常见动作，shake 的过去式是 shook。
 
-- **smell / taste / yum** — smell 和 taste 既可作动作（Smell this. / Taste it.），也可作系动词后接形容词（It smells good. / It tastes salty.），注意系动词用法不用进行时。yum = 好吃！（口语感叹词，也可说 yummy）。
+- **burn / sticky / raw** — burn 烧焦：Don't burn the bread.（别把面包烤糊了。）；sticky 黏的：The sauce is sticky.；raw 生的：raw fish（生鱼）。与 cooked（熟的）相对。
 
-- **cucumber / noodle / spice / dressing** — cucumber = 黄瓜。noodle 常用复数 noodles。spice = 香料（不可数或可数），spicy = 辣的。dressing = 调味汁（salad dressing 沙拉酱）。
+- **taste / smell** — 感官双义词。taste 动词"尝"：Taste the soup. 名词"味道"：It has a good taste.；smell 动词"闻"：Smell this spice. 名词"气味"。感官动词后接形容词：It tastes good.（✗ tastes well）。
 
-- **organic / raw / sticky** — organic = 有机的（organic vegetables）。raw = 生的、未煮的（raw fish, raw meat）。sticky = 黏的（sticky rice 糯米, The sauce is sticky.）。
+- **cucumber / noodle / spice / dressing** — 食材四词。cucumber 黄瓜；noodle 面条，常用复数 noodles；spice 香料；dressing 调味汁（沙拉酱 salad dressing）。
 
-- **a bit of / dozen / half-** — a bit of = 一点（a bit of spice, a bit of salt），比 a little 更口语。dozen = 一打 = 12 个（a dozen eggs, two dozen roses）。half- 是前缀"半"（half-cooked, half-full）。
+- **organic / sparkling water** — organic 有机的：organic vegetables（有机蔬菜）；sparkling water 气泡水（sparkle 闪光 + -ing），与 still water（无气水）相对。
 
-- **sparkling water / basket** — sparkling water = 气泡水（sparkling = 冒泡的），对比 still water = 静止水/普通水。basket = 篮子（a basket of vegetables, a shopping basket）。
+- **a bit of / half- / dozen** — 量的表达三件套。a bit of 一点儿：a bit of salt；half- 前缀"一半"：half a cup（半杯）；dozen 一打：a dozen eggs. 注意 ✗ a dozen of eggs → ✓ a dozen eggs。
+
+- **basket** — "篮子"：a basket of vegetables（一篮蔬菜）。量词搭配 a basket of。
+
+- **yum** — 感叹词"好吃！"，口语中表达美味。完整形式 yummy。尝到好吃的就说 Yum!
 
 ## 练习
 
@@ -51,149 +54,149 @@ half- 是前缀，构成 half-cooked（半熟的）之类的表达。dozen = 一
 
 <quiz-sentence-builder>
 
-1. **中文**：请在沙拉调味汁里加一点点新鲜的橄榄油。
-   **英文**：Add a bit of black pepper to the hot soup.
-   > **解析**：a bit of 表示“一点点/少量”。
+1. **中文**：先煮面条。
+   **英文**：First, boil the noodles.
+   > **解析**：祈使句以动词原形 boil 开头；noodles 通常用复数。
 
-2. **中文**：她从花园里采摘了一竹篮新鲜的蔬菜。
-   **英文**：Put the fresh green apples inside the fruit basket.
-   > **解析**：basket 表示“篮子/筐”。
+2. **中文**：加一点香料。
+   **英文**：Add a bit of spice.
+   > **解析**：a bit of 修饰不可数名词 spice；Add 是祈使句动词。
 
-3. **中文**：水已经大火水煮烧开了，可以放入面条了。
-   **英文**：Wait until the water begins to boil completely.
-   > **解析**：boil 表示“水煮/沸腾/烧开”。
+3. **中文**：烤那条鱼。
+   **英文**：Grill the fish.
+   > **解析**：祈使句用动词原形 Grill；the fish 单复数同形。
 
-4. **中文**：注意不要把吐司面包在烤箱里烤焦了。
-   **英文**：Don't burn the garlic bread inside the hot oven.
-   > **解析**：burn 表示“烧焦/烧糊/烧伤”。
+4. **中文**：搅拌汤。
+   **英文**：Stir the soup.
+   > **解析**：祈使句用动词原形 Stir；the soup 是宾语。
 
-5. **中文**：做凉拌沙拉时可以切一些爽口的黄瓜片。
-   **英文**：Slice a fresh cucumber for the green salad.
-   > **解析**：cucumber 表示“黄瓜”。
+5. **中文**：把调味汁倒进去。
+   **英文**：Pour in the dressing.
+   > **解析**：pour in 是动词短语；dressing 指调味汁。
 
-6. **中文**：我们在烘焙店买了一打新鲜鸡蛋。
-   **英文**：She bought a dozen fresh eggs from the market.
-   > **解析**：dozen 表示“一打（12个）”。
+6. **中文**：摇匀瓶子。
+   **英文**：Shake the bottle well.
+   > **解析**：祈使句用动词原形 Shake；well 是副词，修饰 Shake。
 
-7. **中文**：意式沙拉调味汁让生菜变得格外鲜美。
-   **英文**：Pour the delicious salad dressing over the vegetables.
-   > **解析**：dressing 表示“调味汁/沙拉酱”。
+7. **中文**：别把面包烤糊了。
+   **英文**：Don't burn the bread.
+   > **解析**：否定祈使句用 Don't + 动词原形；burn 表"烧焦"。
 
-8. **中文**：用平底锅香煎马铃薯块作为早餐配菜。
-   **英文**：Heat the pan with vegetable oil to fry fish.
-   > **解析**：fry 表示“煎/炸/炒”。
+8. **中文**：尝尝这个汤。
+   **英文**：Taste this soup.
+   > **解析**：祈使句用动词原形 Taste；this 修饰 soup。
 
-9. **中文**：夏天大家喜欢在后院户外烧烤牛肉串。
-   **英文**：They love to grill chicken on sunny afternoons.
-   > **解析**：grill 表示“烧烤/网烤”。
+9. **中文**：闻闻这种香料。
+   **英文**：Smell this spice.
+   > **解析**：祈使句用动词原形 Smell；spice 是可数名词，此处特指用 this。
 
-10. **中文**：晚餐主食她烹饪了一大碗牛肉汤面条。
-   **英文**：He cooked delicious homemade noodle soup for lunch.
-   > **解析**：noodle 表示“面条”。
+10. **中文**：这汤尝起来不错。
+   **英文**：The soup tastes good.
+   > **解析**：taste 作感官动词，后接形容词 good；主语单数加 s。
 
-11. **中文**：超市里摆满了品质优良的有机农产品。
-   **英文**：We prefer buying fresh organic vegetables daily.
-   > **解析**：organic 表示“有机的/无公害的”。
+11. **中文**：这些蔬菜是有机的。
+   **英文**：These vegetables are organic.
+   > **解析**：are 与复数主语搭配；organic 作表语。
 
-12. **中文**：请把烧开的热水倾倒进茶壶里去。
-   **英文**：Slowly pour the hot milk into your coffee cup.
-   > **解析**：pour 表示“倾倒/倒出”。
+12. **中文**：我要一杯气泡水。
+   **英文**：I'd like a glass of sparkling water.
+   > **解析**：I'd like 表委婉意愿；a glass of 是量词短语。
 
-13. **中文**：新鲜的生的三文鱼切片可以做成美味的刺身。
-   **英文**：Never eat raw meat without cooking it properly.
-   > **解析**：raw 表示“生的/未加工的”。
+13. **中文**：我需要一打鸡蛋。
+   **英文**：I need a dozen eggs.
+   > **解析**：a dozen 直接修饰复数名词 eggs，不加 of。
 
-14. **中文**：在饮用之前，请先用力摇晃瓶子。
-   **英文**：Remember to shake the salad dressing bottle well.
-   > **解析**：shake 表示“摇晃/摇动”。
+14. **中文**：篮子里有一根黄瓜。
+   **英文**：There is a cucumber in the basket.
+   > **解析**：there is 表示"有"；in the basket 是地点状语。
 
-15. **中文**：厨房里飘散出一股浓郁的刚烤好的面包气味。
-   **英文**：The fresh soup has a delicious herbal smell.
-   > **解析**：smell 表示“气味/闻起来”。
+15. **中文**：鱼还是生的。
+   **英文**：The fish is still raw.
+   > **解析**：is 与单数主语搭配；still 强调"仍然"。
 
-16. **中文**：餐厅为客人免费提供带有柠檬片的冰镇气泡水。
-   **英文**：Order a glass of cold sparkling water with ice.
-   > **解析**：sparkling water 表示“气泡水”。
+16. **中文**：酱汁很黏。
+   **英文**：The sauce is sticky.
+   > **解析**：is 与单数主语搭配；sticky 作表语。
 
-17. **中文**：印度咖喱里加入了多种芳香的传统香料。
-   **英文**：Add exotic spice to give the sauce a kick.
-   > **解析**：spice 表示“香料/调料”。
+17. **中文**：再加半杯水。
+   **英文**：Add half a cup of water.
+   > **解析**：half a cup of 是量词短语；Add 是祈使句动词。
 
-18. **中文**：糯米甜点表面有一层粘的糖浆。
-   **英文**：Clean off the sticky sauce from the counter table.
-   > **解析**：sticky 表示“粘的/粘性大的”。
+18. **中文**：好吃！
+   **英文**：Yum!
+   > **解析**：yum 是感叹词，单独成句表达美味。
 
-19. **中文**：用汤匙轻轻搅拌调味汁使其混合均匀。
-   **英文**：Use a spoon to stir the boiling soup gently.
-   > **解析**：stir 表示“搅拌/搅动”。
+19. **中文**：这气味闻起来很香。
+   **英文**：It smells great.
+   > **解析**：smell 作感官动词，后接形容词 great；主语 It 加 s。
 
-20. **中文**：真美味！这道烘焙西点尝起来太棒了。
-   **英文**：Yum! This homemade apple pie tastes fantastic!
-   > **解析**：Yum 是口语感叹词，表示“真美味/好吃”。
+20. **中文**：食谱需要一点油。
+   **英文**：The recipe needs a bit of oil.
+   > **解析**：needs 是第三人称单数形式；a bit of 修饰不可数名词 oil。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Add a bit of black pepper to the hot soup.
-   > **中文**：请在沙拉调味汁里加一点点新鲜的橄榄油。
+1. First, boil the noodles.
+   > **中文**：先煮面条。
 
-2. Put the fresh green apples inside the fruit basket.
-   > **中文**：她从花园里采摘了一竹篮新鲜的蔬菜。
+2. Add a bit of spice.
+   > **中文**：加一点香料。
 
-3. Wait until the water begins to boil completely.
-   > **中文**：水已经大火水煮烧开了，可以放入面条了。
+3. Fry the cucumber in oil.
+   > **中文**：用油煎黄瓜。
 
-4. Don't burn the garlic bread inside the hot oven.
-   > **中文**：注意不要把吐司面包在烤箱里烤焦了。
+4. Grill the fish.
+   > **中文**：烤那条鱼。
 
-5. Slice a fresh cucumber for the green salad.
-   > **中文**：做凉拌沙拉时可以切一些爽口的黄瓜片。
+5. Stir the soup.
+   > **中文**：搅拌汤。
 
-6. She bought a dozen fresh eggs from the market.
-   > **中文**：我们在烘焙店买了一打新鲜鸡蛋。
+6. Pour in the dressing.
+   > **中文**：把调味汁倒进去。
 
-7. Pour the delicious salad dressing over the vegetables.
-   > **中文**：意式沙拉调味汁让生菜变得格外鲜美。
+7. Shake the bottle well.
+   > **中文**：摇匀瓶子。
 
-8. Heat the pan with vegetable oil to fry fish.
-   > **中文**：用平底锅香煎马铃薯块作为早餐配菜。
+8. Don't burn the bread.
+   > **中文**：别把面包烤糊了。
 
-9. They love to grill chicken on sunny afternoons.
-   > **中文**：夏天大家喜欢在后院户外烧烤牛肉串。
+9. Taste this soup.
+   > **中文**：尝尝这个汤。
 
-10. He cooked delicious homemade noodle soup for lunch.
-   > **中文**：晚餐主食她烹饪了一大碗牛肉汤面条。
+10. Smell this spice.
+   > **中文**：闻闻这种香料。
 
-11. We prefer buying fresh organic vegetables daily.
-   > **中文**：超市里摆满了品质优良的有机农产品。
+11. The soup tastes good.
+   > **中文**：这汤尝起来不错。
 
-12. Slowly pour the hot milk into your coffee cup.
-   > **中文**：请把烧开的热水倾倒进茶壶里去。
+12. These vegetables are organic.
+   > **中文**：这些蔬菜是有机的。
 
-13. Never eat raw meat without cooking it properly.
-   > **中文**：新鲜的生的三文鱼切片可以做成美味的刺身。
+13. I'd like a glass of sparkling water.
+   > **中文**：我要一杯气泡水。
 
-14. Remember to shake the salad dressing bottle well.
-   > **中文**：在饮用之前，请先用力摇晃瓶子。
+14. I need a dozen eggs.
+   > **中文**：我需要一打鸡蛋。
 
-15. The fresh soup has a delicious herbal smell.
-   > **中文**：厨房里飘散出一股浓郁的刚烤好的面包气味。
+15. There is a cucumber in the basket.
+   > **中文**：篮子里有一根黄瓜。
 
-16. Order a glass of cold sparkling water with ice.
-   > **中文**：餐厅为客人免费提供带有柠檬片的冰镇气泡水。
+16. The fish is still raw.
+   > **中文**：鱼还是生的。
 
-17. Add exotic spice to give the sauce a kick.
-   > **中文**：印度咖喱里加入了多种芳香的传统香料。
+17. The sauce is sticky.
+   > **中文**：酱汁很黏。
 
-18. Clean off the sticky sauce from the counter table.
-   > **中文**：糯米甜点表面有一层粘的糖浆。
+18. Add half a cup of water.
+   > **中文**：再加半杯水。
 
-19. Use a spoon to stir the boiling soup gently.
-   > **中文**：用汤匙轻轻搅拌调味汁使其混合均匀。
+19. It smells great.
+   > **中文**：这气味闻起来很香。
 
-20. Yum! This homemade apple pie tastes fantastic!
-   > **中文**：真美味！这道烘焙西点尝起来太棒了。
+20. The recipe needs a bit of oil.
+   > **中文**：食谱需要一点油。
 
 </quiz-listening>
 
@@ -201,26 +204,32 @@ half- 是前缀，构成 half-cooked（半熟的）之类的表达。dozen = 一
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| a bit of | 一点点 |
+| a bit of | 一点儿 |
 | basket | 篮子 |
-| boil | 水煮 / 烧开 |
+| boil | 水煮 |
 | burn | 烧焦 |
 | cucumber | 黄瓜 |
 | dozen | 一打 |
-| dressing | 沙拉酱 |
-| fry | 煎 / 炸 |
+| dressing | 调味汁 |
+| fry | 油煎 / 炒 |
 | grill | 烧烤 |
+| half- | 一半的 |
 | noodle | 面条 |
 | organic | 有机的 |
-| pour | 倾倒 |
+| pour | 倒 |
 | raw | 生的 |
 | shake | 摇晃 |
-| smell | 气味 / 闻起来 |
+| smell | 闻 / 气味 |
 | sparkling water | 气泡水 |
 | spice | 香料 |
-| sticky | 粘的 |
+| sticky | 黏的 |
 | stir | 搅拌 |
-| Yum | 真美味 |
+| taste | 尝 / 味道 |
+| yum | 好吃 |
+| is | 是（单数） |
+| the | 这个 / 那个 |
+| soup | 汤 |
+| add | 添加 |
 
 </quiz-matching>
 
@@ -228,202 +237,202 @@ half- 是前缀，构成 half-cooked（半熟的）之类的表达。dozen = 一
 
 ### 1
 
-Add a bit of black ____ to the hot soup.
+First, ____ the noodles.
 
-- [x] pepper
-- [ ] a bit of
-- [ ] basket
+- [x] boil
+- [ ] boiling
+- [ ] boiled
 
-> **解析**：**pepper** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：祈使句用动词原形 boil；其余形式不成立。
 
 ### 2
 
-Put the fresh green apples inside the fruit ____.
+Add a bit ____ spice.
 
-- [x] basket
-- [ ] a bit of
-- [ ] boil
+- [x] of
+- [ ] for
+- [ ] with
 
-> **解析**：**basket** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a bit of 是固定短语；其余介词不成立。
 
 ### 3
 
-Wait until the water begins to ____ completely.
+____ the cucumber in oil.
 
-- [x] boil
-- [ ] a bit of
-- [ ] basket
+- [x] Fry
+- [ ] Fried
+- [ ] Fries
 
-> **解析**：**boil** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Fry；其余形式不成立。
 
 ### 4
 
-Don't ____ the garlic bread inside the hot oven.
+____ the fish.
 
-- [x] burn
-- [ ] a bit of
-- [ ] basket
+- [x] Grill
+- [ ] Grilled
+- [ ] Grills
 
-> **解析**：**burn** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Grill；其余形式不成立。
 
 ### 5
 
-Slice a fresh ____ for the green salad.
+____ the soup.
 
-- [x] cucumber
-- [ ] a bit of
-- [ ] basket
+- [x] Stir
+- [ ] Stirred
+- [ ] Stirs
 
-> **解析**：**cucumber** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：祈使句用动词原形 Stir；其余形式不成立。
 
 ### 6
 
-She bought a ____ fresh eggs from the market.
+Pour ____ the dressing.
 
-- [x] dozen
-- [ ] a bit of
-- [ ] basket
+- [x] in
+- [ ] at
+- [ ] on in
 
-> **解析**：**dozen** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：pour in（倒入）是固定短语；其余介词不成立。
 
 ### 7
 
-____ the delicious salad dressing over the vegetables.
+____ the bottle well.
 
-- [x] Pour
-- [ ] a bit of
-- [ ] basket
+- [x] Shake
+- [ ] Shook
+- [ ] Shaken
 
-> **解析**：**Pour** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Shake；Shook 和 Shaken 是过去式/分词。
 
 ### 8
 
-Heat the pan with vegetable oil to ____ fish.
+Don't ____ the bread.
 
-- [x] fry
-- [ ] a bit of
-- [ ] basket
+- [x] burn
+- [ ] burning
+- [ ] burned
 
-> **解析**：**fry** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Don't 后接动词原形 burn；其余形式不成立。
 
 ### 9
 
-They love to ____ chicken on sunny afternoons.
+____ this soup.
 
-- [x] grill
-- [ ] a bit of
-- [ ] basket
+- [x] Taste
+- [ ] Tastes
+- [ ] Tasted
 
-> **解析**：**grill** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Taste；其余形式不成立。
 
 ### 10
 
-He cooked delicious homemade ____ soup for lunch.
+The soup ____ good.
 
-- [x] noodle
-- [ ] a bit of
-- [ ] basket
+- [x] tastes
+- [ ] taste
+- [ ] tasting
 
-> **解析**：**noodle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 soup 是第三人称单数，用 tastes；tasting 不能单独作谓语。
 
 ### 11
 
-We prefer buying fresh ____ vegetables daily.
+These vegetables are ____.
 
 - [x] organic
-- [ ] a bit of
-- [ ] basket
+- [ ] organism
+- [ ] organize
 
-> **解析**：**organic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：are 后需要形容词 organic；organism 是名词"生物"，organize 是动词。
 
 ### 12
 
-Slowly ____ the hot milk into your coffee cup.
+I'd like a glass of ____ water.
 
-- [x] pour
-- [ ] a bit of
-- [ ] basket
+- [x] sparkling
+- [ ] sparkle
+- [ ] sparkled
 
-> **解析**：**pour** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：sparkling water（气泡水）是固定搭配；其余形式不成立。
 
 ### 13
 
-Never eat ____ meat without cooking it properly.
+I need a ____ eggs.
 
-- [x] raw
-- [ ] a bit of
-- [ ] basket
+- [x] dozen
+- [ ] dozen of
+- [ ] dozens
 
-> **解析**：**raw** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a dozen + 复数名词，不加 of；dozens 需配 of（dozens of）。
 
 ### 14
 
-Remember to ____ the salad dressing bottle well.
+There is a cucumber in the ____.
 
-- [x] shake
-- [ ] a bit of
-- [ ] basket
+- [x] basket
+- [ ] baskets
+- [ ] bask
 
-> **解析**：**shake** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：the 后接单数名词 basket；bask 是"晒太阳"。
 
 ### 15
 
-The fresh soup has a delicious herbal ____.
+The fish is still ____.
 
-- [x] smell
-- [ ] a bit of
-- [ ] basket
+- [x] raw
+- [ ] row
+- [ ] rare in
 
-> **解析**：**smell** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：生食用 raw；row 是排/划船，语义不符。
 
 ### 16
 
-Order a glass of cold ____ water with ice.
+The sauce is ____.
 
-- [x] sparkling
-- [ ] a bit of
-- [ ] basket
+- [x] sticky
+- [ ] stick
+- [ ] sticks
 
-> **解析**：**sparkling** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：is 后需要形容词 sticky；stick 是名词/动词。
 
 ### 17
 
-Add exotic ____ to give the sauce a kick.
+Add ____ a cup of water.
 
-- [x] spice
-- [ ] a bit of
-- [ ] basket
+- [x] half
+- [ ] half of
+- [ ] halves
 
-> **解析**：**spice** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：half a cup of 是固定量词短语；half of a 语序不同，此处 half 最自然。
 
 ### 18
 
-Clean off the ____ sauce from the counter table.
+It ____ great.
 
-- [x] sticky
-- [ ] a bit of
-- [ ] basket
+- [x] smells
+- [ ] smell
+- [ ] smelling
 
-> **解析**：**sticky** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 It 是第三人称单数，用 smells；smelling 不能单独作谓语。
 
 ### 19
 
-Use a spoon to ____ the boiling soup gently.
+The recipe needs a bit of ____.
 
-- [x] stir
-- [ ] a bit of
-- [ ] basket
+- [x] oil
+- [ ] oils of
+- [ ] oily
 
-> **解析**：**stir** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a bit of 后接不可数名词 oil；oily 是形容词。
 
 ### 20
 
-____! This homemade apple pie tastes fantastic!
+The dish is ready. ____!
 
 - [x] Yum
-- [ ] a bit of
-- [ ] basket
+- [ ] Yums
+- [ ] Yumming
 
-> **解析**：**Yum** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：yum 是感叹词，单独成句；无动词变化形式。
 
 </quiz-cloze>

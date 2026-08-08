@@ -10,42 +10,33 @@ almost a, almost all, audition, chances are, critic, full house, highly, impress
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕戏剧和试镜展开，交际任务是"分享对试镜的感受"。词表覆盖了从排练到首演的完整戏剧流程：audition（试镜）→ rehearsal（排练）→ script（剧本）→ set（布景）→ spotlight（聚光灯）→ opening night（首演之夜）→ full house（满座）。你可以练习表达期待和紧张：Chances are she'll get the role—there's no question she's talented. / I'm pretty sure I forgot a line during the audition. / The critic was highly impressed by the production.
+本单元的主题是"分享对试镜的感受"，场景是剧院排演。词表可以分成四组：戏剧元素（audition, role, script, line, set, spotlight, production, rehearsal）、演出节点（opening night, full house）、评价与把握（impressed, highly, critic, chances are, pretty sure, there's no question, may be, might not be）、以及程度短语（almost a, almost all, quite a）。拼起来就是一段试镜感受：There's no question she's impressed by his audition. Chances are he gets the role.
 
-词表里有几组表达"可能性"的短语值得注意：chances are（很可能）、may be（也许是）、might not be（也许不是）、pretty sure（相当确定）、there's no question（毫无疑问）。它们从不确定到确定排列，是表达判断和预测的实用工具。almost a 和 almost all 中的 almost 表示"几乎"，quite a 表示"相当一个……"，都是口语中高频的程度修饰。
+语法主线是"表达把握程度"的阶梯。从最肯定到最不确定：there's no question（毫无疑问）→ pretty sure（相当肯定）→ chances are（很可能）→ may be（也许）→ might not be（也许不）。这组词正好覆盖推测的全光谱，是谈论试镜结果时的核心工具。另一条主线是程度修饰：almost a、almost all、quite a、highly 都在调节语气强弱。
+
+学完这单元，你能用英语聊试镜和演出：描述准备过程、预测结果、评价表演，还能谈论首演夜的紧张与期待。
 
 ## Tips
 
-- **audition** — 试镜、试演。演员为争取角色而进行的表演考核。搭配：have an audition / go to an audition / pass the audition / a successful audition。动词用法：She auditioned for the lead role. 注意拼写：au-di-tion。
+- **audition / role** — 试镜与角色。audition 是试镜：She has an audition tomorrow. role 是角色：get the role（拿到角色）。词源上 audition 来自拉丁语 audire（听），最初指"听演员念台词"。
 
-- **stage fright** — 怯场。stage（舞台）+ fright（惊吓），字面意思就是"被舞台吓到"。搭配：have stage fright / get stage fright / overcome stage fright。不只用于演戏，演讲、演奏前的紧张都可以说 stage fright。
+- **script / line** — 剧本与台词。script 是剧本；line 是"一行台词"：learn your lines（背台词）。line 的"台词"义是戏剧特有，背台词不说 learn words 而说 learn lines。
 
-- **full house** — 满座、全场爆满。house 在戏剧界指"观众席"，不指房子。搭配：play to a full house / a full house on opening night。类似表达：sold out / packed house。
+- **rehearsal / opening night / full house** — 演出时间轴。rehearsal 是排练；opening night 是首演夜；full house 是满座（house 在剧场里指"观众席"）。三个词连起来就是一部剧从排练到成功的完整故事。
 
-- **opening night** — 首演之夜。一部剧正式对公众开放的第一场演出。搭配：on opening night / opening night jitters（首演紧张）。比 premiere 更侧重戏剧，premiere 更常用于电影。
+- **set / spotlight / production** — 舞台三词。set 是布景；spotlight 是聚光灯（spot + light），in the spotlight 引申为"成为焦点"；production 是整部制作/剧目。
 
-- **chances are** — 很可能、大概率是。口语中极常用的推测表达：Chances are he'll be late. / Chances are she got the part. 等于 It's likely that... 注意 chances 用复数。
+- **stage fright** — 怯场（fright = 惊吓）：He has stage fright. 类似词：writer's block（写作瓶颈）。
 
-- **rehearsal** — 排练、彩排。动词是 rehearse。搭配：have a rehearsal / dress rehearsal（带妆彩排）/ go to rehearsal。注意拼写：rehears-al，不要和 rehearsal 的动词形式 rehearse 混淆。
+- **impressed / highly / critic** — 评价三词。impressed 是"印象深刻的"：I'm impressed!（厉害啊！）highly 是高度地：highly recommended。critic 是评论家，戏剧评论家叫 theater critic，注意与 critical（挑剔的/关键的）区分。
 
-- **script / line** — script 是完整剧本，line 是台词（一句或几句）。搭配：read the script / memorize your lines / forget a line / learn your lines。注意 line 在戏剧语境中特指台词，不是"线条"。
+- **chances are / pretty sure / there's no question** — 把握阶梯。Chances are he gets the role.（很可能他拿到角色。）I'm pretty sure it's her.（我相当肯定是她。）There's no question she can sing.（毫无疑问她唱得好。）把握依次增强。
 
-- **critic** — 评论家、批评家。戏剧/电影/音乐评论人。搭配：a theater critic / a film critic / the critics loved it。注意和 critical（批评的、关键的）和 criticism（批评）的词族关系。
+- **may be / might not be** — 不确定两式。may be 是"也许是"：It may be his big break. might not be 是"也许不是"：She might not be ready. might 比 may 把握更小一点。
 
-- **impressed / highly** — impressed 表示"印象深刻"，highly 是程度副词"高度地"。搭配：highly impressed / deeply impressed / impressed by her performance。注意 impressed 后接 by 或 with：I'm impressed by his talent.
-
-- **spotlight** — 聚光灯。spot（点）+ light（光），舞台上聚焦在演员身上的那束光。搭配：in the spotlight / under the spotlight / steal the spotlight。比喻义：成为焦点、受到关注。
-
-- **production** — 这里指"制作、剧目"，即一部戏剧的整体呈现。搭配：a new production / a Broadway production / the school's production of Hamlet。比 show 更正式，强调制作过程和艺术水准。
-
-- **quite a / almost a** — quite a 表示"相当一个"，带有赞叹或强调：She's quite a performer! almost a 表示"几乎是一个"：It was almost a full house. 注意 quite 和 quiet 拼写相近但意思完全不同。
-
-- **set** — 这里指舞台布景。搭配：the set design / build the set / on the set。在戏剧中指舞台上的背景装置；在电影中指拍摄现场（on set）。一词多义，看语境。
-
-- **there's no question** — 毫无疑问。比 no doubt 语气更强：There's no question she's the best actress in the school. 类似表达：without question / unquestionably。注意 question 这里是"疑问"而非"问题"。
+- **almost a / almost all / quite a** — 程度短语。almost a year（差不多一年）；almost all the actors（几乎所有演员）；quite a performance（相当精彩的表演）。quite a + 名词是赞叹常用结构。
 
 ## 练习
 
@@ -63,176 +54,184 @@ almost a, almost all, audition, chances are, critic, full house, highly, impress
 
 <quiz-sentence-builder>
 
-1. **中文**：她去参加了主角的试镜。
-   **英文**：She went to the audition for the lead role.
-   > **解析**：audition 意为试镜、试演。
+1. **中文**：她明天有一场试镜。
+   **英文**：She has an audition tomorrow.
+   > **解析**：She 是第三人称单数，have 变 has；an audition 中 an 用于元音音开头。
 
-2. **中文**：演员在走上舞台前克服了怯场。
-   **英文**：The actor overcame his stage fright before stepping onto the stage.
-   > **解析**：stage fright 意为怯场、舞台恐惧。
+2. **中文**：他拿到了主角。
+   **英文**：He got the lead role.
+   > **解析**：got 是 get 的过去式；the lead role 中 lead 作定语修饰 role。
 
-3. **中文**：首演之夜吸引了满座的观众。
-   **英文**：Opening night attracted a full house of excited theater fans.
-   > **解析**：full house 意为满座、全场爆满。
+3. **中文**：我今晚得背台词。
+   **英文**：I have to learn my lines tonight.
+   > **解析**：have to 表必要；lines 用复数表示多句台词。
 
-4. **中文**：每个人都为首演之夜感到非常兴奋。
-   **英文**：Everyone was very excited for the opening night of the show.
-   > **解析**：opening night 意为首演之夜。
+4. **中文**：剧本太棒了。
+   **英文**：The script is amazing.
+   > **解析**：The script 是单数主语，用 is；amazing 作表语。
 
-5. **中文**：很可能她会得到她一直想要的角色。
-   **英文**：Chances are she will get the role she always wanted.
-   > **解析**：chances are 意为很可能、大概率。
+5. **中文**：排练在六点钟开始。
+   **英文**：Rehearsal starts at six.
+   > **解析**：Rehearsal 是单数主语，start 加 s；at six 是时间状语。
 
-6. **中文**：我们今晚将针对第二幕进行彩排。
-   **英文**：We will have a rehearsal for the second act tonight.
-   > **解析**：rehearsal 意为排练、彩排。
+6. **中文**：首演夜观众满座。
+   **英文**：Opening night was a full house.
+   > **解析**：was 与 Opening night 搭配；a full house 作表语表示满座。
 
-7. **中文**：导演让所有人在午饭前通读剧本。
-   **英文**：The director asked everyone to read the script before lunch.
-   > **解析**：script 意为剧本。
+7. **中文**：聚光灯打在她身上。
+   **英文**：The spotlight is on her.
+   > **解析**：The spotlight 是单数主语，用 is；on her 是介词短语作表语。
 
-8. **中文**：我在第三场表演中差点忘记了一句台词。
-   **英文**：I almost forgot a line during the third scene of the play.
-   > **解析**：line 意为台词。
+8. **中文**：布景看起来很真实。
+   **英文**：The set looks real.
+   > **解析**：look 是系动词"看起来"；The set 是单数主语，look 加 s。
 
-9. **中文**：那位著名的戏剧评论家给这个新剧目写了极高的评价。
-   **英文**：The famous theater critic wrote a great review for the new show.
-   > **解析**：critic 意为评论家、批评家。
+9. **中文**：这部制作获得了很高的评价。
+   **英文**：The production was highly praised.
+   > **解析**：was praised 是被动语态；highly 副词修饰 praised。
 
-10. **中文**：导演对后起之秀出色的演技印象深刻。
-    **英文**：The director was impressed by the young actor's performance.
-    > **解析**：impressed 意为印象深刻的。
+10. **中文**：评委对她的表演印象深刻。
+   **英文**：The critic was impressed by her acting.
+   > **解析**：was impressed 是被动结构；by 引出施动方。
 
-11. **中文**：这部戏剧获得了当地社区的高度评价。
-    **英文**：The new play was highly recommended by the local community.
-    > **解析**：highly 意为高度地、非常。
+11. **中文**：他很可能拿到这个角色。
+   **英文**：Chances are he gets the role.
+   > **解析**：Chances are 后直接接从句，表示"很可能"；从句用一般现在时表将来安排。
 
-12. **中文**：当他走到聚光灯下时，全场顿时安静了下来。
-    **英文**：When he stepped into the spotlight, the audience became quiet.
-    > **解析**：spotlight 意为聚光灯。
+12. **中文**：我相当肯定她会成功。
+   **英文**：I'm pretty sure she will make it.
+   > **解析**：pretty sure 中 pretty 作副词修饰 sure；she will make it 是宾语从句。
 
-13. **中文**：这是一部出色的百老汇风格戏剧制作。
-    **英文**：This was a wonderful theater production with impressive costumes.
-    > **解析**：production 意为制作、剧目。
+13. **中文**：毫无疑问他能唱歌。
+   **英文**：There's no question he can sing.
+   > **解析**：There's no question 后接从句表示"毫无疑问"；can 后接动词原形 sing。
 
-14. **中文**：团队化了三天时间构建舞台布景。
-    **英文**：The team spent three days building the wooden set for the show.
-    > **解析**：set 意为舞台布景。
+14. **中文**：这可能是他的重大突破。
+   **英文**：It may be his big break.
+   > **解析**：may be 表示"也许是"；his big break 作表语。
 
-15. **中文**：她在这部音乐剧里扮演主唱的角色。
-    **英文**：She is playing the leading role in this romantic musical.
-    > **解析**：role 意为角色。
+15. **中文**：她也许还没准备好。
+   **英文**：She might not be ready yet.
+   > **解析**：might not be 表示"也许不是"；yet 放句末表示"还"。
 
-16. **中文**：对于一位新人演员来说，那真是一场精彩的演出。
-    **英文**：That was quite a performance for a beginner actor.
-    > **解析**：quite a 意为相当一个、非同寻常的。
+16. **中文**：他怯场了。
+   **英文**：He has stage fright.
+   > **解析**：has 与 He 搭配；stage fright 是固定短语作宾语。
 
-17. **中文**：几乎所有的座位都被期待首演的观众坐满了。
-    **英文**：Almost all seats were filled with people waiting for the show.
-    > **解析**：almost all 意为几乎所有的。
+17. **中文**：差不多一年了，我们一直在排练。
+   **英文**：We've been rehearsing for almost a year.
+   > **解析**：现在完成进行时 have been rehearsing 表示持续至今；almost a year 是时间段。
 
-18. **中文**：我相当确定我们能在明晚前记熟所有台词。
-    **英文**：I am pretty sure we can memorize all the lines by tomorrow.
-    > **解析**：pretty sure 意为相当确定、很确定。
+18. **中文**：几乎所有演员都到了。
+   **英文**：Almost all the actors are here.
+   > **解析**：Almost all the actors 是复数主语，用 are；here 作表语。
 
-19. **中文**：毫无疑问她是剧组里最有天赋的舞者。
-    **英文**：There's no question that she is the most talented dancer in the crew.
-    > **解析**：there's no question 意为毫无疑问。
+19. **中文**：真是相当精彩的一场演出。
+   **英文**：It was quite a performance.
+   > **解析**：quite a + 名词是赞叹结构；was 与 It 搭配。
 
-20. **中文**：这个结果也许不像我们之前预想的那么糟糕。
-    **英文**：The result might not be as bad as we thought earlier.
-    > **解析**：might not be 意为也许不是、可能不。
+20. **中文**：评论家们高度评价这部制作。
+   **英文**：Critics highly rate this production.
+   > **解析**：Critics 复数主语，rate 用原形；highly 副词修饰 rate。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. She went to the audition for the lead role.
-   > **中文**：她去参加了主角的试镜。
+1. She has an audition tomorrow.
+   > **中文**：她明天有一场试镜。
 
-2. The actor overcame his stage fright before stepping onto the stage.
-   > **中文**：演员在走上舞台前克服了怯场。
+2. He got the lead role.
+   > **中文**：他拿到了主角。
 
-3. Opening night attracted a full house of excited theater fans.
-   > **中文**：首演之夜吸引了满座的观众。
+3. I have to learn my lines tonight.
+   > **中文**：我今晚得背台词。
 
-4. Everyone was very excited for the opening night of the show.
-   > **中文**：每个人都为首演之夜感到非常兴奋。
+4. The script is amazing.
+   > **中文**：剧本太棒了。
 
-5. Chances are she will get the role she always wanted.
-   > **中文**：很可能她会得到她一直想要的角色。
+5. Rehearsal starts at six.
+   > **中文**：排练在六点钟开始。
 
-6. We will have a rehearsal for the second act tonight.
-   > **中文**：我们今晚将针对第二幕进行彩排。
+6. Opening night was a full house.
+   > **中文**：首演夜观众满座。
 
-7. The director asked everyone to read the script before lunch.
-   > **中文**：导演让所有人在午饭前通读剧本。
+7. The spotlight is on her now.
+   > **中文**：聚光灯现在打在她身上。
 
-8. I almost forgot a line during the third scene of the play.
-   > **中文**：我在第三场表演中差点忘记了一句台词。
+8. The set looks real.
+   > **中文**：布景看起来很真实。
 
-9. The famous theater critic wrote a great review for the new show.
-   > **中文**：那位著名的戏剧评论家给这个新剧目写了极高的评价。
+9. The production was highly praised.
+   > **中文**：这部制作获得了很高的评价。
 
-10. The director was impressed by the young actor's performance.
-   > **中文**：导演对后起之秀出色的演技印象深刻。
+10. The critic was impressed by her acting.
+   > **中文**：评论家对她的表演印象深刻。
 
-11. The new play was highly recommended by the local community.
-   > **中文**：这部戏剧获得了当地社区的高度评价。
+11. Chances are he gets the role.
+   > **中文**：他很可能拿到这个角色。
 
-12. When he stepped into the spotlight, the audience became quiet.
-   > **中文**：当他走到聚光灯下时，全场顿时安静了下来。
+12. I'm pretty sure she will make it.
+   > **中文**：我相当肯定她会成功。
 
-13. This was a wonderful theater production with impressive costumes.
-   > **中文**：这是一部出色的百老汇风格戏剧制作。
+13. There's no question he can sing.
+   > **中文**：毫无疑问他能唱歌。
 
-14. The team spent three days building the wooden set for the show.
-   > **中文**：团队化了三天时间构建舞台布景。
+14. It may be his big break.
+   > **中文**：这可能是他的重大突破。
 
-15. She is playing the leading role in this romantic musical.
-   > **中文**：她在这部音乐剧里扮演主唱的角色。
+15. She might not be ready yet.
+   > **中文**：她也许还没准备好。
 
-16. That was quite a performance for a beginner actor.
-   > **中文**：对于一位新人演员来说，那真是一场精彩的演出。
+16. He has stage fright before every show.
+   > **中文**：他每场演出前都怯场。
 
-17. Almost all seats were filled with people waiting for the show.
-   > **中文**：几乎所有的座位都被期待首演的观众坐满了。
+17. We've been rehearsing for almost a year.
+   > **中文**：我们差不多排练一年了。
 
-18. I am pretty sure we can memorize all the lines by tomorrow.
-   > **中文**：我相当确定我们能在明晚前记熟所有台词。
+18. Almost all the actors are here.
+   > **中文**：几乎所有演员都到了。
 
-19. There's no question that she is the most talented dancer in the crew.
-   > **中文**：毫无疑问她是剧组里最有天赋的舞者。
+19. It was quite a performance.
+   > **中文**：真是相当精彩的一场演出。
 
-20. The result might not be as bad as we thought earlier.
-   > **中文**：这个结果也许不像我们之前预想的那么糟糕。
+20. Critics highly rate this production.
+   > **中文**：评论家们高度评价这部制作。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| audition | 试镜；试演 |
-| stage fright | 怯场；舞台恐惧 |
-| full house | 满座；全场爆满 |
-| opening night | 首演之夜 |
-| chances are | 很可能；大概率 |
-| rehearsal | 排练；彩排 |
-| script | 剧本 |
-| line | 台词 |
-| critic | 评论家；批评家 |
+| --- | --- |
+| almost a | 差不多一个… |
+| almost all | 几乎所有 |
+| audition | 试镜 |
+| chances are | 很可能 |
+| critic | 评论家 |
+| full house | 满座 |
+| highly | 高度地 |
 | impressed | 印象深刻的 |
-| highly | 高度地；非常 |
-| spotlight | 聚光灯；焦点 |
-| production | 制作；剧目 |
-| set | 舞台布景 |
+| line | 台词 / 行 |
+| may be | 也许是 |
+| might not be | 也许不是 |
+| opening night | 首演夜 |
+| pretty sure | 相当肯定 |
+| production | 制作 / 剧目 |
+| quite a | 相当一个… |
+| rehearsal | 排练 |
 | role | 角色 |
-| quite a | 相当一个；非同寻常的 |
-| almost all | 几乎所有的 |
-| pretty sure | 相当确定；很确定 |
+| script | 剧本 |
+| set | 布景 |
+| spotlight | 聚光灯 |
+| stage fright | 怯场 |
 | there's no question | 毫无疑问 |
-| might not be | 也许不是；可能不 |
+| is | 是 |
+| the | 这个（定冠词） |
+| actors | 演员们 |
+| performance | 演出 |
+| singing | 唱歌 |
+| break | 突破 |
 
 </quiz-matching>
 
@@ -240,202 +239,202 @@ almost a, almost all, audition, chances are, critic, full house, highly, impress
 
 ### 1
 
-She went to the ____ for the lead role.
+She has an ____ tomorrow.
 
 - [x] audition
-- [ ] almost a
-- [ ] almost all
+- [ ] set
+- [ ] spotlight
 
-> **解析**：**audition** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：an 后接元音音开头的名词 audition（试镜）；set 和 spotlight 不合语境。
 
 ### 2
 
-The actor ____ his stage fright before stepping onto the stage.
+He got the lead ____.
 
-- [x] overcame
-- [ ] almost a
-- [ ] almost all
+- [x] role
+- [ ] house
+- [ ] fright
 
-> **解析**：**overcame** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：lead role（主角）是固定搭配；house 和 fright 不合。
 
 ### 3
 
-Opening night ____ a full house of excited theater fans.
+I have to learn my ____ tonight.
 
-- [x] attracted
-- [ ] almost a
-- [ ] almost all
+- [x] lines
+- [ ] sets
+- [ ] houses
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **attracted**。
+> **解析**：learn one's lines（背台词）是固定搭配；sets 和 houses 不合。
 
 ### 4
 
-____ was very excited for the opening night of the show.
+The ____ is amazing.
 
-- [x] Everyone
-- [ ] almost a
-- [ ] almost all
+- [x] script
+- [ ] spotlight
+- [ ] stage fright
 
-> **解析**：**Everyone** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能"精彩"评价的文本是 script（剧本）；spotlight 和 stage fright 不合。
 
 ### 5
 
-Chances are she will get the ____ she always wanted.
+____ starts at six.
 
-- [x] role
-- [ ] almost a
-- [ ] almost all
+- [x] Rehearsal
+- [ ] Critic
+- [ ] Line
 
-> **解析**：**role** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能"六点开始"的活动是 Rehearsal（排练）；Critic 和 Line 不合。
 
 ### 6
 
-We will have a ____ for the second act tonight.
+Opening night was a full ____.
 
-- [x] rehearsal
-- [ ] almost a
-- [ ] almost all
+- [x] house
+- [ ] role
+- [ ] script
 
-> **解析**：**rehearsal** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：full house（满座）是固定搭配；role 和 script 不合。
 
 ### 7
 
-The director asked everyone to read the ____ before lunch.
+The ____ is on her now.
 
-- [x] script
-- [ ] almost a
-- [ ] almost all
+- [x] spotlight
+- [ ] question
+- [ ] rehearsal
 
-> **解析**：**script** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能"打在某人身上"的是 spotlight（聚光灯）；question 和 rehearsal 不合。
 
 ### 8
 
-I almost forgot a ____ during the third scene of the play.
+The set ____ real.
 
-- [x] line
-- [ ] almost a
-- [ ] almost all
+- [x] looks
+- [ ] look
+- [ ] looking
 
-> **解析**：**line** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：The set 是单数主语，系动词 look 加 s；look 原形和 looking 不合。
 
 ### 9
 
-The famous theater ____ wrote a great review for the new show.
+The production was ____ praised.
 
-- [x] critic
-- [ ] almost a
-- [ ] almost all
+- [x] highly
+- [ ] almost
+- [ ] quite a
 
-> **解析**：**critic** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰过去分词 praised 需要副词 highly；almost 和 quite a 不合该位置。
 
 ### 10
 
-The director was ____ by the young actor's performance.
+The critic was ____ by her acting.
 
 - [x] impressed
-- [ ] almost a
-- [ ] almost all
+- [ ] impression
+- [ ] impressive to
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **impressed**。
+> **解析**：was impressed by 是被动结构"被…打动"；impression 是名词，impressive to 不合该结构。
 
 ### 11
 
-The new play was ____ recommended by the local community.
+Chances ____ he gets the role.
 
-- [x] highly
-- [ ] almost a
-- [ ] almost all
+- [x] are
+- [ ] is
+- [ ] was
 
-> **解析**：**highly** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：chances 复数主语搭配 are，Chances are 是固定开头；is 和 was 不合。
 
 ### 12
 
-When he stepped into the ____, the audience became quiet.
+I'm pretty ____ she will make it.
 
-- [x] spotlight
-- [ ] almost a
-- [ ] almost all
+- [x] sure
+- [ ] impressed
+- [ ] full
 
-> **解析**：**spotlight** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：pretty sure 是固定搭配"相当肯定"；impressed 和 full 不合该结构。
 
 ### 13
 
-This was a wonderful theater ____ with impressive costumes.
+There's no ____ he can sing.
 
-- [x] production
-- [ ] almost a
-- [ ] almost all
+- [x] question
+- [ ] house
+- [ ] line
 
-> **解析**：**production** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：There's no question 是固定短语"毫无疑问"；house 和 line 不合。
 
 ### 14
 
-The team spent three days building the wooden ____ for the show.
+It may ____ his big break.
 
-- [x] set
-- [ ] almost a
-- [ ] almost all
+- [x] be
+- [ ] been
+- [ ] being
 
-> **解析**：**set** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：may 后接动词原形 be；been 和 being 不合情态动词结构。
 
 ### 15
 
-She is playing the leading ____ in this romantic musical.
+She might not ____ ready yet.
 
-- [x] role
-- [ ] almost a
-- [ ] almost all
+- [x] be
+- [ ] is
+- [ ] to
 
-> **解析**：**role** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：might not 后接动词原形 be；is 和 to 不合情态动词结构。
 
 ### 16
 
-That was quite a ____ for a beginner actor.
+He has stage ____ before every show.
 
-- [x] performance
-- [ ] almost a
-- [ ] almost all
+- [x] fright
+- [ ] house
+- [ ] script
 
-> **解析**：**performance** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：stage fright（怯场）是固定搭配；house 和 script 不合。
 
 ### 17
 
-Almost all seats were filled with people ____ for the show.
+We've been rehearsing for almost a ____.
 
-- [x] waiting
-- [ ] almost a
-- [ ] almost all
+- [x] year
+- [ ] line
+- [ ] spotlight
 
-> **解析**：**waiting** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：时间段用 year；line 和 spotlight 不是时间单位。
 
 ### 18
 
-I am pretty sure we can ____ all the lines by tomorrow.
+Almost all the ____ are here.
 
-- [x] memorize
-- [ ] almost a
-- [ ] almost all
+- [x] actors
+- [ ] script
+- [ ] spotlight
 
-> **解析**：**memorize** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：are 复数搭配指人名词 actors；script 和 spotlight 不合。
 
 ### 19
 
-There's no ____ that she is the most talented dancer in the crew.
+It was quite a ____.
 
-- [x] question
-- [ ] almost a
-- [ ] almost all
+- [x] performance
+- [ ] question
+- [ ] rehearsal starts
 
-> **解析**：**question** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：quite a 后接单数名词 performance（演出）；question 语义不符，rehearsal starts 不是名词短语。
 
 ### 20
 
-The result might not be as bad as we ____ earlier.
+Critics highly ____ this production.
 
-- [x] thought
-- [ ] almost a
-- [ ] almost all
+- [x] rate
+- [ ] rates
+- [ ] rating
 
-> **解析**：**thought** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Critics 复数主语，动词用原形 rate；rates 是单数形式，rating 不合。
 
 </quiz-cloze>

@@ -10,30 +10,29 @@ browser, device, frequent, get used to, giant, graphics, install, key, locate, l
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"比较新旧科技"展开。词表里有互联网和电脑词汇（browser, device, server, install, restart, log out of, user, webcam, microphone, graphics）和描述使用习惯的表达（used to, get used to, frequent, once a）。
+本单元的主题是"新旧科技对比"。词表可以分成三组：软硬件名词（browser, device, graphics, microphone, webcam, robot, server, user, key, switch）、操作动词（install, restart, press, locate, log out of, take a look）、以及习惯表达（used to, get used to, frequent, once a, giant）。拼起来就是科技话题：I used to use a giant computer, but now everything is on my device. You need to install the browser and log out of the server when you finish.
 
-你可以练习科技话题：I used to have a giant computer, but now I use a small device. / You'll get used to the new browser. / Press the key to restart. / Log out of the server when you're done. / Once a week, I take a look at the graphics settings. / Where's the microphone? I can't locate it.
+语法主线是 used to 与 get used to 的区分。used to + 动词原形表示"过去常常"（现在不再）：I used to play games on it.（我过去常在上面玩游戏。）get used to + 名词/动名词表示"逐渐习惯"：I'm getting used to the new phone. 两者长得像，意思完全不同，是本单元最大的易混点。另一条主线是操作指令的祈使句：Press the key. Restart the device. Install the app. 科技说明文的典型句式。
 
-used to（过去常常）和 get used to（逐渐习惯）是本单元的重要语法点。used to + 动词原形表示过去的习惯（I used to play games.），get used to + 名词/动名词表示适应过程（I'm getting used to this robot.）。
+学完这些词，你能用英语对比新旧设备、描述操作步骤、谈论使用习惯，并在需要帮助时看懂简单指令。
 
 ## Tips
 
-- **used to / get used to** — used to + 动词原形 = 过去常常（现在已经不做了）：I used to use a giant phone. get used to + 名词/-ing = 逐渐习惯：I'm getting used to the new device. 注意区分：be used to = 已经习惯了（状态）。三者形式相近但含义不同。
+- **used to / get used to** — 本单元语法核心。used to do 表"过去常常"：She used to work here.（她曾在这里工作。）get used to doing 表"变得习惯"：I'm getting used to typing fast. 注意 ✗ I used to the phone 混淆两者：used to 后接动词原形表过去习惯，be/get used to 后接名词/动名词表习惯状态。
 
-- **browser / server / user** — browser = 浏览器（Chrome, Firefox 都是 browser）。server = 服务器（存储和提供数据的计算机）。user = 用户。搭配：open a browser, connect to a server, a new user。三者都和互联网使用直接相关。
+- **browser / server / user** — 网络三词。browser 浏览器（browse 浏览 + -er）；server 服务器；user 用户。三者都是 -er 构词，表示"做……的东西/人"。
 
-- **install / restart / log out of / press** — install = 安装（install an app / a program）。restart = 重启（restart the computer）。log out of = 退出登录（log out of your account）。press = 按（press the button / press Enter）。这些是电脑操作的基本动词。
+- **device / robot / webcam / microphone** — 设备四词。device 设备（泛指）；robot 机器人；webcam 网络摄像头（web + cam）；microphone 麦克风（micro- 小 + phone 声音）。
 
-- **device / webcam / microphone / graphics** — device = 设备（泛指任何电子设备）。webcam = 网络摄像头（web + camera）。microphone = 麦克风（缩写 mic /mɪk/）。graphics = 图形、画面（graphics card 显卡, game graphics）。
+- **graphics / giant / key / switch** — graphics 图形、画面（常用复数）：The graphics are amazing.（画面很棒。）；giant 巨大的：a giant screen；key 按键、钥匙；switch 开关（名词）、切换（动词）。
 
-- **frequent / once a / giant** — frequent = 频繁的（a frequent user, frequent updates）。once a = 每……一次（once a day, once a week）。giant = 巨大的（a giant screen），比 big 更有画面感，接近 huge。
+- **install / restart / press / locate** — 操作四动词。install 安装；restart 重启（re- + start）；press 按：press the button；locate 定位、找到：locate the file（找到文件）。都是科技场景高频动词。
 
-- **robot / switch / key / locate** — robot = 机器人。switch 作动词"切换"（switch to a new browser），作名词"开关"。key = 按键（press a key）或"钥匙"。locate = 找到、定位（I can't locate the file.），比 find 更正式。
+- **log out of / take a look** — log out of 登出：log out of the account（登出账户）；log in 是登入。take a look 看一看：Take a look at this.（看看这个。）比 look 更随意的说法。
 
-- **take a look** — take a look = 看一看（= have a look / look），比单独用 look 更口语、更随意。搭配：Take a look at this. / Let me take a look. 类似结构：take a break, take a walk。
+- **frequent / once a** — frequent 频繁的：a frequent user（常用用户）；once a 每周/每天一次的结构：once a week, once a day. a 后接时间单位。
 
 ## 练习
 
@@ -51,149 +50,149 @@ used to（过去常常）和 get used to（逐渐习惯）是本单元的重要�
 
 <quiz-sentence-builder>
 
-1. **中文**：在使用公共电脑时你应当退出你的账号。  
-   **英文**：You should log out of your account when using a public computer.
-   > **解析**：log out of 表示“退出（账号）”。
+1. **中文**：我过去常用这台巨大的电脑。
+   **英文**：I used to use this giant computer.
+   > **解析**：used to + 动词原形表示"过去常常"；giant 修饰 computer。
 
-2. **中文**：如果应用程序再次崩溃，请重启你的设备。  
-   **英文**：Please restart your device if the application crashes again.
-   > **解析**：restart 表示“重启”，device 表示“设备”。
+2. **中文**：我正在习惯新手机。
+   **英文**：I am getting used to the new phone.
+   > **解析**：get used to + 名词表示"逐渐习惯"；am getting 是现在进行时。
 
-3. **中文**：我需要在我的笔记本电脑上安装一个新浏览器。  
-   **英文**：I need to install a new browser on my laptop.
-   > **解析**：install 表示“安装”，browser 表示“浏览器”。
+3. **中文**：安装这个浏览器。
+   **英文**：Install this browser.
+   > **解析**：祈使句用动词原形 Install；this browser 是宾语。
 
-4. **中文**：该用户频繁访问这个视频网站。  
-   **英文**：The user made frequent visits to this video website.
-   > **解析**：user 表示“用户”，frequent 表示“频繁的”。
+4. **中文**：重启设备。
+   **英文**：Restart the device.
+   > **解析**：祈使句用动词原形 Restart；restart = re- + start。
 
-5. **中文**：在在线会议期间你将会习惯使用麦克风。  
-   **英文**：You will get used to using a microphone during online meetings.
-   > **解析**：get used to + V-ing 表示“习惯于……”，microphone 表示“麦克风”。
+5. **中文**：按下这个键。
+   **英文**：Press this key.
+   > **解析**：祈使句用动词原形 Press；this key 是宾语。
 
-6. **中文**：按下红键来开启房间里的巨大服务器。  
-   **英文**：Press the red key to turn on the giant server in the room.
-   > **解析**：press 表示“按下”，key 表示“按键”，giant 表示“巨大的”，server 表示“服务器”。
+6. **中文**：完成后请登出服务器。
+   **英文**：Please log out of the server when you finish.
+   > **解析**：log out of 是固定短语；when 引导时间状语从句。
 
-7. **中文**：你能看一下我屏幕上的图形吗？  
-   **英文**：Can you take a look at the graphics on my screen?
-   > **解析**：take a look at 表示“看一眼”，graphics 表示“图形、图像”。
+7. **中文**：你能找到那个文件吗？
+   **英文**：Can you locate the file?
+   > **解析**：Can you 表请求；locate 是及物动词。
 
-8. **中文**：我过去曾在旧工厂与一个简单的机器人一起工作。  
-   **英文**：I used to work with a simple robot in the old factory.
-   > **解析**：used to + 原形表示“过去常常”，robot 表示“机器人”。
+8. **中文**：看看这个画面。
+   **英文**：Take a look at the graphics.
+   > **解析**：take a look at 是固定短语；graphics 常用复数。
 
-9. **中文**：网络摄像头会在视频通话时自动定位你的脸部。  
-   **英文**：The webcam will automatically locate your face for video calls.
-   > **解析**：webcam 表示“网络摄像头”，locate 表示“定位”。
+9. **中文**：这个游戏的画面很棒。
+   **英文**：The graphics of this game are amazing.
+   > **解析**：graphics 作复数主语，用 are；of this game 表所属。
 
-10. **中文**：如果连接缓慢，请切换到另一个服务器。  
-   **英文**：Please switch to another server if the connection is slow.
-   > **解析**：switch to 表示“切换到”。
+10. **中文**：机器人会做很多事。
+   **英文**：The robot can do many things.
+   > **解析**：can 后接动词原形 do；many 修饰复数 things。
 
-11. **中文**：他买了一个巨大屏幕以获得更好的图形质量。  
-   **英文**：He bought a giant screen for better graphics quality.
-   > **解析**：giant 表示“巨大的”，graphics 表示“图形”。
+11. **中文**：打开麦克风。
+   **英文**：Turn on the microphone.
+   > **解析**：turn on 是动词短语"打开"；祈使句用动词原形。
 
-12. **中文**：我每天检查一次电子邮件以保持最新动态。  
-   **英文**：I check my email once a day to stay updated.
-   > **解析**：once a day 表示“一天一次”。
+12. **中文**：网络摄像头在屏幕上方。
+   **英文**：The webcam is above the screen.
+   > **解析**：is 与单数主语搭配；above 表示"在……上方"。
 
-13. **中文**：你知道如何安装这个新软件设备吗？  
-   **英文**：Do you know how to install this new software device?
-   > **解析**：install 意为“安装”。
+13. **中文**：他是常用用户。
+   **英文**：He is a frequent user.
+   > **解析**：frequent 修饰 user；a 修饰可数名词单数。
 
-14. **中文**：她是社交媒体应用程序的频繁使用者。  
-   **英文**：She is a frequent user of social media applications.
-   > **解析**：user 表示“使用者、用户”。
+14. **中文**：我每周备份一次。
+   **英文**：I back up my files once a week.
+   > **解析**：back up 是动词短语"备份"；once a week 表示频率。
 
-15. **中文**：看一下地图以定位服务器中心。  
-   **英文**：Take a look at the map to locate the server center.
-   > **解析**：locate 表示“确定……的位置/定位”。
+15. **中文**：切换开关。
+   **英文**：Flip the switch.
+   > **解析**：祈使句用动词原形 Flip；flip the switch 是拨动开关的习惯说法。
 
-16. **中文**：我还没有习惯这个新键盘设计。  
-   **英文**：I haven't got used to the new keyboard design yet.
-   > **解析**：haven't got used to 表示“尚未习惯”。
+16. **中文**：服务器现在很慢。
+   **英文**：The server is very slow now.
+   > **解析**：is 与单数主语搭配；now 是时间状语。
 
-17. **中文**：当你不在说话时请关掉麦克风。  
-   **英文**：Turn off the microphone when you are not speaking.
-   > **解析**：microphone 表示“麦克风”。
+17. **中文**：你以前用拨号上网吗？
+   **英文**：Did you use dial-up before?
+   > **解析**：did 用于过去时疑问句；use 恢复原形。
 
-18. **中文**：按下键盘上的任意键来开始游戏。  
-   **英文**：Press any key on the keyboard to start the game.
-   > **解析**：press 表示“按下”，key 表示“按键”。
+18. **中文**：新设备更小。
+   **英文**：The new device is smaller.
+   > **解析**：is 与单数主语搭配；smaller 是比较级。
 
-19. **中文**：他过去每天晚上都会退出电脑账号。  
-   **英文**：He used to log out of the computer every evening.
-   > **解析**：used to 过去常常，log out of 退出。
+19. **中文**：用户需要一把钥匙。
+   **英文**：The user needs a key.
+   > **解析**：needs 是第三人称单数形式；a key 是可数名词单数。
 
-20. **中文**：公司将切换到更快的大型网络服务器。  
-   **英文**：The company will switch to a faster giant web server.
-   > **解析**：restart, switch to, giant, server 综合运用。
+20. **中文**：我习惯了这台设备。
+   **英文**：I am used to this device.
+   > **解析**：be used to + 名词表示"习惯于"；am 与 I 搭配。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. You should log out of your account when using a public computer.
-   > **中文**：在使用公共电脑时你应当退出你的账号。
+1. I used to use this giant computer.
+   > **中文**：我过去常用这台巨大的电脑。
 
-2. Please restart your device if the application crashes again.
-   > **中文**：如果应用程序再次崩溃，请重启你的设备。
+2. I am getting used to the new phone.
+   > **中文**：我正在习惯新手机。
 
-3. I need to install a new browser on my laptop.
-   > **中文**：我需要在我的笔记本电脑上安装一个新浏览器。
+3. Install this browser.
+   > **中文**：安装这个浏览器。
 
-4. The user made frequent visits to this video website.
-   > **中文**：该用户频繁访问这个视频网站。
+4. Restart the device.
+   > **中文**：重启设备。
 
-5. You will get used to using a microphone during online meetings.
-   > **中文**：在在线会议期间你将会习惯使用麦克风。
+5. Press this key.
+   > **中文**：按下这个键。
 
-6. Press the red key to turn on the giant server in the room.
-   > **中文**：按下红键来开启房间里的巨大服务器。
+6. Please log out of the server when you finish.
+   > **中文**：完成后请登出服务器。
 
-7. Can you take a look at the graphics on my screen?
-   > **中文**：你能看一下我屏幕上的图形吗？
+7. Can you locate the file?
+   > **中文**：你能找到那个文件吗？
 
-8. I used to work with a simple robot in the old factory.
-   > **中文**：我过去曾在旧工厂与一个简单的机器人一起工作。
+8. Take a look at the graphics.
+   > **中文**：看看这个画面。
 
-9. The webcam will automatically locate your face for video calls.
-   > **中文**：网络摄像头会在视频通话时自动定位你的脸部。
+9. The graphics are amazing.
+   > **中文**：画面很棒。
 
-10. Please switch to another server if the connection is slow.
-   > **中文**：如果连接缓慢，请切换到另一个服务器。
+10. The robot can do many things.
+   > **中文**：机器人会做很多事。
 
-11. He bought a giant screen for better graphics quality.
-   > **中文**：他买了一个巨大屏幕以获得更好的图形质量。
+11. Turn on the microphone.
+   > **中文**：打开麦克风。
 
-12. I check my email once a day to stay updated.
-   > **中文**：我每天检查一次电子邮件以保持最新动态。
+12. The webcam is above the screen.
+   > **中文**：网络摄像头在屏幕上方。
 
-13. Do you know how to install this new software device?
-   > **中文**：你知道如何安装这个新软件设备吗？
+13. He is a frequent user.
+   > **中文**：他是常用用户。
 
-14. She is a frequent user of social media applications.
-   > **中文**：她是社交媒体应用程序的频繁使用者。
+14. I back up my files once a week.
+   > **中文**：我每周备份一次。
 
-15. Take a look at the map to locate the server center.
-   > **中文**：看一下地图以定位服务器中心。
+15. Flip the switch.
+   > **中文**：切换开关。
 
-16. I haven't got used to the new keyboard design yet.
-   > **中文**：我还没有习惯这个新键盘设计。
+16. The server is very slow now.
+   > **中文**：服务器现在很慢。
 
-17. Turn off the microphone when you are not speaking.
-   > **中文**：当你不在说话时请关掉麦克风。
+17. Did you use dial-up before?
+   > **中文**：你以前用拨号上网吗？
 
-18. Press any key on the keyboard to start the game.
-   > **中文**：按下键盘上的任意键来开始游戏。
+18. The new device is smaller.
+   > **中文**：新设备更小。
 
-19. He used to log out of the computer every evening.
-   > **中文**：他过去每天晚上都会退出电脑账号。
+19. The user needs a key.
+   > **中文**：用户需要一把钥匙。
 
-20. The company will switch to a faster giant web server.
-   > **中文**：公司将切换到更快的大型网络服务器。
+20. I am used to this device.
+   > **中文**：我习惯了这台设备。
 
 </quiz-listening>
 
@@ -202,26 +201,30 @@ used to（过去常常）和 get used to（逐渐习惯）是本单元的重要�
 | 英文单词 | 课文释义 |
 | --- | --- |
 | browser | 浏览器 |
-| device | 设备；装置 |
+| device | 设备 |
 | frequent | 频繁的 |
-| get used to | 习惯于 |
+| get used to | 逐渐习惯 |
 | giant | 巨大的 |
-| graphics | 图形；图像 |
+| graphics | 图形 / 画面 |
 | install | 安装 |
-| key | 按键；钥匙 |
-| locate | 定位；找到 |
-| log out of | 退出（账号/系统） |
-| microphone | 麦克风；话筒 |
-| once a | 一次（如 once a day） |
-| press | 按；压 |
+| key | 按键 / 钥匙 |
+| locate | 定位 / 找到 |
+| log out of | 登出 |
+| microphone | 麦克风 |
+| once a | 每……一次 |
+| press | 按 |
 | restart | 重启 |
 | robot | 机器人 |
 | server | 服务器 |
-| switch | 切换；开关 |
+| switch | 开关 / 切换 |
 | take a look | 看一看 |
 | used to | 过去常常 |
 | user | 用户 |
 | webcam | 网络摄像头 |
+| is | 是（单数） |
+| the | 这个 / 那个 |
+| screen | 屏幕 |
+| file | 文件 |
 
 </quiz-matching>
 
@@ -229,202 +232,202 @@ used to（过去常常）和 get used to（逐渐习惯）是本单元的重要�
 
 ### 1
 
-You should log out of your account when using a public ____.
+I ____ to use this giant computer.
 
-- [x] computer
-- [ ] browser
-- [ ] device
+- [x] used
+- [ ] use
+- [ ] using
 
-> **解析**：**computer** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：used to + 动词原形表示"过去常常"；其余形式不成立。
 
 ### 2
 
-Please ____ your device if the application crashes again.
+I am getting used ____ the new phone.
 
-- [x] restart
-- [ ] browser
-- [ ] device
+- [x] to
+- [ ] for
+- [ ] with
 
-> **解析**：**restart** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get used to + 名词 表示"逐渐习惯"；其余介词不成立。
 
 ### 3
 
-I need to ____ a new browser on my laptop.
+____ this browser.
 
-- [x] install
-- [ ] browser
-- [ ] device
+- [x] Install
+- [ ] Installed
+- [ ] Installing
 
-> **解析**：**install** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Install；其余形式不成立。
 
 ### 4
 
-The ____ made frequent visits to this video website.
+____ the device.
 
-- [x] user
-- [ ] browser
-- [ ] device
+- [x] Restart
+- [ ] Restarted
+- [ ] Restarting
 
-> **解析**：**user** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Restart；其余形式不成立。
 
 ### 5
 
-You will get used to using a ____ during online meetings.
+Press this ____.
 
-- [x] microphone
-- [ ] browser
-- [ ] device
+- [x] key
+- [ ] keys
+- [ ] keyed
 
-> **解析**：**microphone** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：this 后接单数名词 key；keys 是复数，与 this 冲突。
 
 ### 6
 
-____ the red key to turn on the giant server in the room.
+Please log ____ of the server.
 
-- [x] Press
-- [ ] browser
-- [ ] device
+- [x] out
+- [ ] off
+- [ ] away
 
-> **解析**：**Press** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：log out of（登出）是固定短语；log off 存在但不接 of，此处 out 正确。
 
 ### 7
 
-Can you take a look at the ____ on my screen?
+Can you ____ the file?
 
-- [x] graphics
-- [ ] browser
-- [ ] device
+- [x] locate
+- [ ] location
+- [ ] located to
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **graphics**。
+> **解析**：Can 后接动词原形 locate；location 是名词。
 
 ### 8
 
-I used to work with a simple ____ in the old factory.
+Take a ____ at the graphics.
 
-- [x] robot
-- [ ] browser
-- [ ] device
+- [x] look
+- [ ] looking
+- [ ] looks
 
-> **解析**：**robot** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：take a look 是固定短语；其余形式不成立。
 
 ### 9
 
-The ____ will automatically locate your face for video calls.
+The graphics ____ amazing.
 
-- [x] webcam
-- [ ] browser
-- [ ] device
+- [x] are
+- [ ] is
+- [ ] was
 
-> **解析**：**webcam** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：graphics 作复数主语，用 are；is 和 was 配单数。
 
 ### 10
 
-Please ____ to another server if the connection is slow.
+The robot can ____ many things.
 
-- [x] switch
-- [ ] browser
-- [ ] device
+- [x] do
+- [ ] does
+- [ ] doing
 
-> **解析**：**switch** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：can 后接动词原形 do；其余形式不成立。
 
 ### 11
 
-He bought a ____ screen for better graphics quality.
+Turn on the ____.
 
-- [x] giant
-- [ ] browser
-- [ ] device
+- [x] microphone
+- [ ] microphones of
+- [ ] micro
 
-> **解析**：**giant** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：打开麦克风（microphone）语义通顺；其余形式错误。
 
 ### 12
 
-I check my email once a day to stay ____.
+The webcam is ____ the screen.
 
-- [x] updated
-- [ ] browser
-- [ ] device
+- [x] above
+- [ ] above of
+- [ ] up to of
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **updated**。
+> **解析**：above 表示"在……上方"；其余结构错误。
 
 ### 13
 
-Do you know how to ____ this new software device?
+He is a ____ user.
 
-- [x] install
-- [ ] browser
-- [ ] device
+- [x] frequent
+- [ ] frequently
+- [ ] frequency
 
-> **解析**：**install** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：user 前需要形容词 frequent；frequently 是副词。
 
 ### 14
 
-She is a ____ user of social media applications.
+I back up my files once a ____.
 
-- [x] frequent
-- [ ] browser
-- [ ] device
+- [x] week
+- [ ] weeks
+- [ ] weekly of
 
-> **解析**：**frequent** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：once a week 是固定频率表达，单位用单数；其余形式错误。
 
 ### 15
 
-Take a look at the map to ____ the server center.
+Flip the ____.
 
-- [x] locate
-- [ ] browser
-- [ ] device
+- [x] switch
+- [ ] switches of
+- [ ] switching
 
-> **解析**：**locate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：flip the switch（拨动开关）是固定搭配；the 后接单数。
 
 ### 16
 
-I haven't got used to the new ____ design yet.
+The server ____ very slow now.
 
-- [x] keyboard
-- [ ] browser
-- [ ] device
+- [x] is
+- [ ] are
+- [ ] were
 
-> **解析**：**keyboard** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 server 是单数，now 提示现在时，用 is。
 
 ### 17
 
-Turn off the ____ when you are not speaking.
+Did you ____ dial-up before?
 
-- [x] microphone
-- [ ] browser
-- [ ] device
+- [x] use
+- [ ] used
+- [ ] using
 
-> **解析**：**microphone** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：did 后接动词原形 use；used 重复了过去标记。
 
 ### 18
 
-____ any key on the keyboard to start the game.
+The new device is ____.
 
-- [x] Press
-- [ ] browser
-- [ ] device
+- [x] smaller
+- [ ] small
+- [ ] smallest
 
-> **解析**：**Press** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：新旧对比用比较级 smaller；最高级需 the。
 
 ### 19
 
-He used to log out of the ____ every evening.
+The user needs a ____.
 
-- [x] computer
-- [ ] browser
-- [ ] device
+- [x] key
+- [ ] keys
+- [ ] keyed
 
-> **解析**：**computer** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后接单数名词 key；keys 与 a 冲突。
 
 ### 20
 
-The company will ____ to a faster giant web server.
+I am used ____ this device.
 
-- [x] switch
-- [ ] browser
-- [ ] device
+- [x] to
+- [ ] for
+- [ ] at
 
-> **解析**：**switch** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be used to + 名词表示"习惯于"；其余介词不成立。
 
 </quiz-cloze>

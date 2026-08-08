@@ -10,40 +10,33 @@ all the way, any time, can always call, express, going-away party, guest of hono
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是为即将离开的朋友筹办一场 going-away party（送别派对）。词表里有派对相关的表达（throw a party, guest of honor），有离别和距离的词汇（leave town, move away, permanently, time difference），也有表达祝福和维系感情的短语（stay in touch, wish you the best, regards, warmth）。你可以练习这样的叙述：We're going to throw a going-away party before she leaves town. / You'll always be the guest of honor. / I wish you weren't moving away, but I wish you the best—stay in touch, and you can always call, any time, despite the time difference.
+本单元的主题是"筹划一场欢送派对"。词表可以分成四组：派对本身（going-away party, guest of honor, throw）、离别与距离（leave town, move, move away, permanently, time difference, all the way）、保持联系（stay in touch, phone call, can always call, any time, occasionally）、以及情感表达（express, passion, warmth, regards, wish you the best, wish you were, wish you weren't, stop you from）。拼起来就是一段欢送辞：We're going to throw a going-away party for you. You're the guest of honor.
 
-词表里有一组 wish 的表达值得注意：wish you the best（祝你一切顺利）、wish you were（希望你在——暗示你不在）、wish you weren't（希望你不要——暗示你要做某事）。这三个 wish 分别表达祝福、遗憾和不舍，情感层次很丰富。throw 在这里不是"扔"，而是"举办（派对）"。
+语法主线是 wish 的三种用法。wish you the best 是"祝你一切顺利"（wish + 人 + 名词，真实祝愿）；wish you were here 是"真希望你在"（wish + 过去式，与现在事实相反的愿望）；wish you weren't leaving 是"真希望你别走"（wish + 过去进行时的否定）。同一个 wish，因为结构不同，表达真实的祝福或虚拟的遗憾。
+
+学完这单元，你能用英语筹办欢送会、致欢送辞、表达对离别的不舍，还能和朋友约定以后如何保持联系。
 
 ## Tips
 
-- **throw** — 这里指"举办（派对）"：throw a party / throw a going-away party / throw a surprise party。不是"扔"的意思。同义表达：have a party / host a party / give a party。throw 更口语化、更有"张罗、操办"的动感。
+- **going-away party / throw / guest of honor** — 欢送会三词。going-away party 是欢送派对（going away = 离开）；throw a party 是"办派对"，throw 此处不是"扔"；guest of honor 是主角贵宾。✗ make a party → ✓ throw/give a party。
 
-- **going-away party** — 送别派对。going away（离开）+ party。为即将搬走、出国、换城市的朋友举办的告别聚会。搭配：throw a going-away party / a going-away gift（临别礼物）。注意连字符。
+- **leave town / move / move away** — 离开三式。leave town 是"离开这座城市"；move 是搬家：We're moving in June. move away 强调"搬走、搬远"：She moved away last year.
 
-- **guest of honor** — 主宾、贵宾。派对或宴会中被特别致敬的那个人。搭配：the guest of honor / seat the guest of honor / a toast to the guest of honor。在送别派对中，即将离开的人就是 guest of honor。
+- **permanently / occasionally** — 频率副词对照。permanently 是"永久地"（permanent + -ly）：Is he leaving permanently? occasionally 是"偶尔"：We still meet occasionally. 一长一短，正好描述离别与相聚。
 
-- **stay in touch** — 保持联系。搭配：stay in touch with someone / keep in touch / let's stay in touch。反义：lose touch（失去联系）。离别时最常用的叮嘱之一：Don't be a stranger—stay in touch!
+- **stay in touch / phone call / can always call** — 联系三词。stay in touch 是"保持联系"：Let's stay in touch. phone call 是电话通话；can always call 安慰对方：You can always call me. any time 配合使用：Call me any time.
 
-- **wish you the best / wish you were / wish you weren't** — 三个 wish 句式表达不同情感。I wish you the best = 祝你一切顺利（祝福）。I wish you were here = 我希望你在这里（遗憾你不在）。I wish you weren't leaving = 我希望你别走（不舍）。注意 wish + 过去式表达与事实相反的愿望。
+- **time difference / all the way** — 距离表达。time difference 是时差：The time difference is twelve hours. all the way 是"一路、整整"：You came all the way to say goodbye.（你专程赶来道别。）
 
-- **move / move away / leave town** — 三个"离开"的表达。move 最中性，指搬家；move away 强调搬远、搬离；leave town 更口语化，指离开这个城市。例句：She's moving to Chicago. / He moved away after college. / I can't believe you're leaving town!
+- **wish you the best / wish you were / wish you weren't** — wish 三式。wish you the best 是祝福；wish you were here 用过去式表虚拟愿望；wish you weren't leaving 用过去进行时虚拟。✗ I wish you will be happy → ✓ I wish you happiness，wish + 人 + 名词才表祝福。
 
-- **permanently** — 永久地。形容词是 permanent。搭配：move permanently / stay permanently / permanently closed。反义：temporarily（暂时地）。在送别语境中，permanently 让离别显得格外沉重。
+- **express / passion / warmth** — 情感名词组。express 是动词"表达"：express your feelings。passion 是热情；warmth 是温暖：Her words were full of warmth. 词根 warm + -th 构成抽象名词，类似 depth、strength。
 
-- **time difference** — 时差。搭配：a big time difference / the time difference between here and there / despite the time difference。跨国友谊的最大敌人：It's hard to stay in touch with a 12-hour time difference.
+- **regards** — 问候，常用复数：Give my regards to your family.（替我问候你的家人。）信件结尾 Best regards（致以问候）。
 
-- **regards / warmth** — regards 是"问候、致意"，常用于书信结尾：Give my regards to your family. / Best regards. warmth 是"温暖、热情"：She spoke with great warmth. 两者都可以表达对远方朋友的感情。
-
-- **stop you from** — 阻止你做某事。搭配：stop someone from doing something / nothing can stop you from going。例句：I can't stop you from moving away, but I'll miss you. 注意 from 后接动名词。
-
-- **passion / express** — passion 是"热情、激情"：a passion for travel / follow your passion。express 是"表达"：express your feelings / express gratitude。搭配：express warmth / express regards。在送别语境中，express 常接感情类名词。
-
-- **occasionally / any time** — occasionally 是"偶尔"：We still meet occasionally. any time 是"任何时候"：You can call me any time. 两者在送别语境中搭配使用：Even if we only talk occasionally, you can call any time.
-
-- **all the way** — 一路、完全。搭配：all the way to the airport / drive all the way / support you all the way。例句：We drove all the way to say goodbye. 强调距离之远或程度之深。
+- **stop you from** — "阻止你做…"：Nothing can stop you from chasing your dreams. stop sb from doing 是固定结构，from 后接动名词。
 
 ## 练习
 
@@ -61,176 +54,188 @@ all the way, any time, can always call, express, going-away party, guest of hono
 
 <quiz-sentence-builder>
 
-1. **中文**：我们正在为下周搬走的同事筹办送别派对。
-   **英文**：We are planning a going-away party for our colleague moving next week.
-   > **解析**：going-away party 意为送别派对。
+1. **中文**：我们要为你办一场欢送派对。
+   **英文**：We're going to throw a going-away party for you.
+   > **解析**：be going to 后接动词原形 throw；throw a party 是固定搭配，for you 说明对象。
 
-2. **中文**：让我们在她离开小镇前为她举办一场惊喜派对吧。
-   **英文**：Let's throw a surprise party for her before she leaves town.
-   > **解析**：throw 意为举办（派对）。
+2. **中文**：你是今晚的主角。
+   **英文**：You are the guest of honor tonight.
+   > **解析**：You 搭配 are；the guest of honor 是固定短语作表语。
 
-3. **中文**：作为主宾，他得到了全场朋友的祝贺。
-   **英文**：As the guest of honor, he received warm wishes from all his friends.
-   > **解析**：guest of honor 意为主宾、贵宾。
+3. **中文**：她下个月要离开这座城市。
+   **英文**：She will leave town next month.
+   > **解析**：will 后接动词原形 leave；next month 是时间状语。
 
-4. **中文**：就算你搬到了另一个城市，我们也一定要保持联系。
-   **英文**：Even if you move to another city, we must stay in touch.
-   > **解析**：stay in touch 意为保持联系。
+4. **中文**：他们六月搬家。
+   **英文**：They are moving in June.
+   > **解析**：现在进行时 are moving 表示已定的将来安排；in June 是时间状语。
 
-5. **中文**：我们都会想念你，并祝你在新工作中一切顺利。
-   **英文**：We will all miss you and wish you the best in your new job.
-   > **解析**：wish you the best 意为祝你一切顺利。
+5. **中文**：她去年搬走了。
+   **英文**：She moved away last year.
+   > **解析**：moved 是 move 的过去式；away 表示"离开原地"。
 
-6. **中文**：我希望你不用搬去那么远的地方。
-   **英文**：I wish you weren't moving to such a distant place.
-   > **解析**：wish you weren't 意为希望你没有/不要（做某事）。
+6. **中文**：他是永久离开吗？
+   **英文**：Is he leaving permanently?
+   > **解析**：一般疑问句把 is 提前；permanently 副词修饰 leaving。
 
-7. **中文**：这里的风景很美，我希望你也能在这里。
-   **英文**：The view here is beautiful, and I wish you were here with us.
-   > **解析**：wish you were 意为希望你在（某处）。
+7. **中文**：时差是十二个小时。
+   **英文**：The time difference is twelve hours.
+   > **解析**：The time difference 是单数主语，用 is；twelve hours 作表语。
 
-8. **中文**：他上个月搬走了，但我们仍然经常沟通。
-   **英文**：He moved away last month, but we still communicate frequently.
-   > **解析**：move away 意为搬走、搬离。
+8. **中文**：你专程赶来道别。
+   **英文**：You came all the way to say goodbye.
+   > **解析**：came 是 come 的过去式；all the way 作状语强调"一路、专程"。
 
-9. **中文**：她计划在下周一离开小镇去追求她的梦想。
-   **英文**：She plans to leave town next Monday to pursue her dreams.
-   > **解析**：leave town 意为离开小镇、离开城市。
+9. **中文**：我们保持联系吧。
+   **英文**：Let's stay in touch.
+   > **解析**：let's 后接动词原形；stay in touch 是固定短语。
 
-10. **中文**：他决定在海外永久定居。
-   **英文**：He decided to settle down overseas permanently.
-   > **解析**：permanently 意为永久地。
+10. **中文**：你可以随时给我打电话。
+   **英文**：You can always call me any time.
+   > **解析**：can 后接动词原形 call；always 和 any time 强调"随时"。
 
-11. **中文**：尽管存在时差，我们依然每周都在网上聊天。
-   **英文**：Despite the time difference, we still chat online every week.
-   > **解析**：time difference 意为时差。
+11. **中文**：我昨晚给她打了个电话。
+   **英文**：I gave her a phone call last night.
+   > **解析**：gave 是 give 的过去式；give sb a phone call 是双宾结构。
 
-12. **中文**：请代我向你的家人表达诚挚的问候。
-   **英文**：Please send my warm regards to your family.
-   > **解析**：regards 意为问候、致意。
+12. **中文**：我们偶尔还会见面。
+   **英文**：We still meet occasionally.
+   > **解析**：still 表示"仍然"；occasionally 副词放句末。
 
-13. **中文**：大家的关怀与热情让他深受感动。
-   **英文**：He was deeply moved by the care and warmth of his friends.
-   > **解析**：warmth 意为温暖、热情。
+13. **中文**：我想表达我的感受。
+   **英文**：I want to express my feelings.
+   > **解析**：want to 后接动词原形 express；my feelings 作宾语。
 
-14. **中文**：没有什么能阻止你追求自己的热情与梦想。
-   **英文**：Nothing can stop you from pursuing your passion and dreams.
-   > **解析**：stop you from 意为阻止你做某事。
+14. **中文**：她对音乐充满热情。
+   **英文**：She is full of passion for music.
+   > **解析**：full of 后接名词 passion；for music 引出热情的对象。
 
-15. **中文**：她对艺术有着极大的热情，并决定以此为事业。
-   **英文**：She has a strong passion for art and chose to pursue it.
-   > **解析**：passion 意为热情、激情。
+15. **中文**：她的话充满温暖。
+   **英文**：Her words were full of warmth.
+   > **解析**：were 与复数主语 words 搭配；warmth 是不可数名词。
 
-16. **中文**：他很难用语言表达此刻的不舍之情。
-   **英文**：It was hard for him to express his feelings of sadness.
-   > **解析**：express 意为表达。
+16. **中文**：替我向你的家人问好。
+   **英文**：Give my regards to your family.
+   > **解析**：give sth to sb 结构；regards 用复数表问候。
 
-17. **中文**：就算我们只能偶尔联系，我也永远视你为好朋友。
-   **英文**：Even if we only talk occasionally, you will always be a good friend.
-   > **解析**：occasionally 意为偶尔地。
+17. **中文**：祝你一切顺利。
+   **英文**：We wish you the best.
+   > **解析**：wish + 人 + 名词表示祝福；the best 作祝愿内容。
 
-18. **中文**：如果你需要帮助，随时可以联系我。
-   **英文**：You can reach out to me any time if you need help.
-   > **解析**：any time 意为在任何时候。
+18. **中文**：真希望你在这里。
+   **英文**：I wish you were here.
+   > **解析**：wish 后的从句用过去式 were 表示与现在相反的愿望。
 
-19. **中文**：记住，无论何时你想聊聊，你随时可以打电话给我。
-   **英文**：Remember, you can always call me whenever you want to talk.
-   > **解析**：can always call 意为随时可以打电话。
+19. **中文**：真希望你不是要离开。
+   **英文**：I wish you weren't leaving.
+   > **解析**：wish 后用过去进行时 weren't leaving，虚拟一个正在发生的事。
 
-20. **中文**：他特意一路远道而来参加这场送别派对。
-   **英文**：He came all the way to attend this going-away party.
-   > **解析**：all the way 意为一路、千里迢迢。
+20. **中文**：什么都无法阻止你追梦。
+   **英文**：Nothing can stop you from chasing your dreams.
+   > **解析**：stop sb from doing 结构，from 后接动名词 chasing；dreams 用复数。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We are planning a going-away party for our colleague moving next week.
-   > **中文**：我们正在为下周搬走的同事筹办送别派对。
+1. We're going to throw a going-away party for you.
+   > **中文**：我们要为你办一场欢送派对。
 
-2. Let's throw a surprise party for her before she leaves town.
-   > **中文**：让我们在她离开小镇前为她举办一场惊喜派对吧。
+2. You are the guest of honor tonight.
+   > **中文**：你是今晚的主角。
 
-3. As the guest of honor, he received warm wishes from all his friends.
-   > **中文**：作为主宾，他得到了全场朋友的祝贺。
+3. She will leave town next month.
+   > **中文**：她下个月要离开这座城市。
 
-4. Even if you move to another city, we must stay in touch.
-   > **中文**：就算你搬到了另一个城市，我们也一定要保持联系。
+4. They are moving in June.
+   > **中文**：他们六月搬家。
 
-5. We will all miss you and wish you the best in your new job.
-   > **中文**：我们都会想念你，并祝你在新工作中一切顺利。
+5. She moved away last year.
+   > **中文**：她去年搬走了。
 
-6. I wish you weren't moving to such a distant place.
-   > **中文**：我希望你不用搬去那么远的地方。
+6. Is he leaving permanently?
+   > **中文**：他是永久离开吗？
 
-7. The view here is beautiful, and I wish you were here with us.
-   > **中文**：这里的风景很美，我希望你也能在这里。
+7. The time difference is twelve hours.
+   > **中文**：时差是十二个小时。
 
-8. He moved away last month, but we still communicate frequently.
-   > **中文**：他上个月搬走了，但我们仍然经常沟通。
+8. You came all the way to say goodbye.
+   > **中文**：你专程赶来道别。
 
-9. She plans to leave town next Monday to pursue her dreams.
-   > **中文**：她计划在下周一离开小镇去追求她的梦想。
+9. Let's stay in touch.
+   > **中文**：我们保持联系吧。
 
-10. He decided to settle down overseas permanently.
-   > **中文**：他决定在海外永久定居。
+10. You can always call me any time.
+   > **中文**：你可以随时给我打电话。
 
-11. Despite the time difference, we still chat online every week.
-   > **中文**：尽管存在时差，我们依然每周都在网上聊天。
+11. I gave her a phone call last night.
+   > **中文**：我昨晚给她打了个电话。
 
-12. Please send my warm regards to your family.
-   > **中文**：请代我向你的家人表达诚挚的问候。
+12. We still meet occasionally.
+   > **中文**：我们偶尔还会见面。
 
-13. He was deeply moved by the care and warmth of his friends.
-   > **中文**：大家的关怀与热情让他深受感动。
+13. I want to express my feelings.
+   > **中文**：我想表达我的感受。
 
-14. Nothing can stop you from pursuing your passion and dreams.
-   > **中文**：没有什么能阻止你追求自己的热情与梦想。
+14. She is full of passion for music.
+   > **中文**：她对音乐充满热情。
 
-15. She has a strong passion for art and chose to pursue it.
-   > **中文**：她对艺术有着极大的热情，并决定以此为事业。
+15. Her words were full of warmth.
+   > **中文**：她的话充满温暖。
 
-16. It was hard for him to express his feelings of sadness.
-   > **中文**：他很难用语言表达此刻的不舍之情。
+16. Give my regards to your family.
+   > **中文**：替我向你的家人问好。
 
-17. Even if we only talk occasionally, you will always be a good friend.
-   > **中文**：就算我们只能偶尔联系，我也永远视你为好朋友。
+17. We wish you the best.
+   > **中文**：祝你一切顺利。
 
-18. You can reach out to me any time if you need help.
-   > **中文**：如果你需要帮助，随时可以联系我。
+18. I wish you were here.
+   > **中文**：真希望你在这里。
 
-19. Remember, you can always call me whenever you want to talk.
-   > **中文**：记住，无论何时你想聊聊，你随时可以打电话给我。
+19. I wish you weren't leaving.
+   > **中文**：真希望你不是要离开。
 
-20. He came all the way to attend this going-away party.
-   > **中文**：他特意一路远道而来参加这场送别派对。
+20. Nothing can stop you from chasing your dreams.
+   > **中文**：什么都无法阻止你追梦。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| going-away party | 送别派对 |
-| throw | 举办（派对） |
-| guest of honor | 主宾；贵宾 |
-| stay in touch | 保持联系 |
-| wish you the best | 祝你一切顺利 |
-| wish you weren't | 希望你没有/不要…… |
-| wish you were | 希望你在…… |
-| moved away | 搬走；搬离 |
-| leave town | 离开小镇；离开这个城市 |
-| permanently | 永久地 |
-| time difference | 时差 |
-| regards | 问候；致意 |
-| warmth | 温暖；热情 |
-| stop you from | 阻止你做…… |
-| passion | 热情；激情 |
+| --- | --- |
+| all the way | 一路 / 专程 |
+| any time | 随时 |
+| can always call | 总能打电话 |
 | express | 表达 |
+| going-away party | 欢送派对 |
+| guest of honor | 主角贵宾 |
+| leave town | 离开城市 |
+| move | 搬家 |
+| move away | 搬走 |
 | occasionally | 偶尔 |
-| any time | 任何时候 |
-| can always call | 随时可以打电话 |
-| all the way | 一路；特意远道而来 |
+| passion | 热情 |
+| permanently | 永久地 |
+| phone call | 电话通话 |
+| regards | 问候 |
+| stay in touch | 保持联系 |
+| stop you from | 阻止你… |
+| throw | 举办（派对）/ 扔 |
+| time difference | 时差 |
+| warmth | 温暖 |
+| wish you the best | 祝你一切顺利 |
+| wish you were | 真希望你是 / 在 |
+| wish you weren't | 真希望你不是 |
+| is | 是 |
+| the | 这个（定冠词） |
+| family | 家人 |
+| music | 音乐 |
+| dreams | 梦想 |
+| goodbye | 再见 |
+| last night | 昨晚 |
+| June | 六月 |
+| feelings | 感受 |
+| hours | 小时 |
 
 </quiz-matching>
 
@@ -238,202 +243,202 @@ all the way, any time, can always call, express, going-away party, guest of hono
 
 ### 1
 
-We are planning a ____ party for our colleague moving next week.
+We're going to ____ a going-away party for you.
 
-- [x] going-away
-- [ ] all the way
-- [ ] any time
+- [x] throw
+- [ ] express
+- [ ] move
 
-> **解析**：**going-away** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：throw a party 是固定搭配"办派对"；express 和 move 不合该搭配。
 
 ### 2
 
-Let's ____ a surprise party for her before she leaves town.
+You are the guest of ____ tonight.
 
-- [x] throw
-- [ ] all the way
-- [ ] any time
+- [x] honor
+- [ ] passion
+- [ ] regards
 
-> **解析**：**throw** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：guest of honor（主角贵宾）是固定搭配；passion 和 regards 不合。
 
 ### 3
 
-As the guest of honor, he ____ warm wishes from all his friends.
+She will leave ____ next month.
 
-- [x] received
-- [ ] all the way
-- [ ] any time
+- [x] town
+- [ ] warmth
+- [ ] touch
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **received**。
+> **解析**：leave town 是固定短语"离开城市"；warmth 和 touch 不合。
 
 ### 4
 
-Even if you ____ to another city, we must stay in touch.
+They are ____ in June.
 
-- [x] move
-- [ ] all the way
-- [ ] any time
+- [x] moving
+- [ ] move
+- [ ] moved
 
-> **解析**：**move** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：are 后接现在分词 moving 构成进行时表将来；move 和 moved 不合。
 
 ### 5
 
-We ____ all miss you and wish you the best in your new job.
+She moved ____ last year.
 
-- [x] will
-- [ ] all the way
-- [ ] any time
+- [x] away
+- [ ] up
+- [ ] of
 
-> **解析**：**will** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：move away 表示"搬走"；move up（升职）语义不同，of 不合。
 
 ### 6
 
-I wish you ____ moving to such a distant place.
+Is he leaving ____?
 
-- [x] weren't
-- [ ] all the way
-- [ ] any time
+- [x] permanently
+- [ ] occasionally
+- [ ] passion
 
-> **解析**：**weren't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：问是否"永久离开"用 permanently；occasionally（偶尔）语义相反，passion 是名词。
 
 ### 7
 
-The view here is ____, and I wish you were here with us.
+The time ____ is twelve hours.
 
-- [x] beautiful
-- [ ] all the way
-- [ ] any time
+- [x] difference
+- [ ] call
+- [ ] party
 
-> **解析**：**beautiful** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：time difference（时差）是固定搭配；call 和 party 不合。
 
 ### 8
 
-He moved away last month, but we still ____ frequently.
+You came all the ____ to say goodbye.
 
-- [x] communicate
-- [ ] all the way
-- [ ] any time
+- [x] way
+- [ ] time
+- [ ] town
 
-> **解析**：**communicate** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：all the way 是固定短语"一路、专程"；time 和 town 不合。
 
 ### 9
 
-She plans to leave town next ____ to pursue her dreams.
+Let's stay in ____.
 
-- [x] Monday
-- [ ] all the way
-- [ ] any time
+- [x] touch
+- [ ] honor
+- [ ] warmth
 
-> **解析**：**Monday** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：stay in touch 是固定短语"保持联系"；honor 和 warmth 不合。
 
 ### 10
 
-He decided to settle down overseas ____.
+You can always call me any ____.
 
-- [x] permanently
-- [ ] all the way
-- [ ] any time
+- [x] time
+- [ ] way
+- [ ] regards
 
-> **解析**：**permanently** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：any time（随时）是固定搭配；way 和 regards 不合。
 
 ### 11
 
-Despite the time ____, we still chat online every week.
+I gave her a phone ____ last night.
 
-- [x] difference
-- [ ] all the way
-- [ ] any time
+- [x] call
+- [ ] party
+- [ ] passion
 
-> **解析**：**difference** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：phone call（电话）是固定搭配；party 和 passion 不合。
 
 ### 12
 
-Please send my warm ____ to your family.
+We still meet ____.
 
-- [x] regards
+- [x] occasionally
+- [ ] permanently
 - [ ] all the way
-- [ ] any time
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **regards**。
+> **解析**：与"仍然见面"搭配的频率副词是 occasionally；permanently 不合语境，all the way 不是频率词。
 
 ### 13
 
-He was deeply moved by the care and ____ of his friends.
+I want to ____ my feelings.
 
-- [x] warmth
-- [ ] all the way
-- [ ] any time
+- [x] express
+- [ ] throw
+- [ ] stay
 
-> **解析**：**warmth** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：express feelings（表达感受）搭配成立；throw 和 stay 不合。
 
 ### 14
 
-Nothing can stop you from pursuing your ____ and dreams.
+She is full of ____ for music.
 
 - [x] passion
-- [ ] all the way
-- [ ] any time
+- [ ] town
+- [ ] touch
 
-> **解析**：**passion** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：full of passion（充满热情）成立；town 和 touch 不合。
 
 ### 15
 
-She has a strong ____ for art and chose to pursue it.
+Her words were full of ____.
 
-- [x] passion
-- [ ] all the way
-- [ ] any time
+- [x] warmth
+- [ ] party
+- [ ] phone
 
-> **解析**：**passion** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：full of warmth（充满温暖）成立；party 和 phone 不合语境。
 
 ### 16
 
-It was hard for him to ____ his feelings of sadness.
+Give my ____ to your family.
 
-- [x] express
-- [ ] all the way
-- [ ] any time
+- [x] regards
+- [ ] warmth
+- [ ] regard
 
-> **解析**：**express** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：问候用复数 regards，是固定用法；warmth 语义不合，单数 regard 不作问候语。
 
 ### 17
 
-Even if we only talk ____, you will always be a good friend.
+We wish you the ____.
 
-- [x] occasionally
-- [ ] all the way
-- [ ] any time
+- [x] best
+- [ ] town
+- [ ] way
 
-> **解析**：**occasionally** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：wish you the best 是固定祝福；town 和 way 不合。
 
 ### 18
 
-You can ____ out to me any time if you need help.
+I wish you ____ here.
 
-- [x] reach
-- [ ] all the way
-- [ ] any time
+- [x] were
+- [ ] are
+- [ ] be
 
-> **解析**：**reach** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：wish 后的从句用过去式 were 表示虚拟；are 和 be 不合该结构。
 
 ### 19
 
-____, you can always call me whenever you want to talk.
+I wish you ____ leaving.
 
-- [x] Remember
-- [ ] all the way
-- [ ] any time
+- [x] weren't
+- [ ] aren't
+- [ ] don't
 
-> **解析**：**Remember** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：wish 后用过去进行时 weren't leaving 表虚拟；aren't 和 don't 不合该结构。
 
 ### 20
 
-He came all the way to attend this ____ party.
+Nothing can stop you ____ chasing your dreams.
 
-- [x] going-away
-- [ ] all the way
-- [ ] any time
+- [x] from
+- [ ] to
+- [ ] of
 
-> **解析**：**going-away** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：stop sb from doing 是固定结构；to 和 of 不合。
 
 </quiz-cloze>

@@ -10,40 +10,37 @@ annoying, author, barber, blind, british, date, divorced, dream, firefighter, ga
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"描述你身边的关系"展开。核心是人际关系表达：My nephew is a successful lawyer.（我侄子是个成功的律师。）、She's getting a haircut at the barber's.（她在理发店剪头发。）、They trust and respect each other in their relationship.（他们在关系中互相信任和尊重。）、My niece's dream is to be a firefighter.（我侄女的梦想是当消防员。）。
+本单元的主题是"描述身边的人和关系"，词表可以分成三组：职业身份（author, barber, firefighter, lawyer）、关系与状态（spouse, nephew, niece, marriage, divorced, date, relationship, gay, lesbian）、以及评价与态度（annoying, honest, huge, successful, respect, trust, blind, dream, haircut, british, where, retire）。拼起来就能介绍身边的人：My nephew is a successful lawyer. My aunt is divorced. I respect honest people.
 
-词表里有亲属词汇（nephew, niece, spouse）和职业词汇（lawyer, firefighter, barber, author）。你可以练习：They got divorced last year. / He's an honest and successful author. / Where does your niece work? / She's blind but very independent.
+语法主线有两个。一是 where 引导的定语从句与疑问句：Where did you meet? / The barber where I get my haircut. 二是 -ing 与 -ed 形容词的区分：annoying 描述"令人烦的"事物或人，而"感到烦"要说 annoyed。另外注意国籍词 british 书写时首字母大写 British，既可作形容词（a British author）也可与 the 连用指整体人群。
 
-nephew（侄子/外甥）和 niece（侄女/外甥女）区分性别。spouse 是"配偶"（不分性别）。
+学完这单元，你能用英语介绍亲友的职业与关系状态，评价身边人的品质，表达对人的尊重与信任。
 
 ## Tips
 
-- **nephew / niece / spouse** — 侄子 / 侄女 / 配偶。搭配：my nephew, my niece, my spouse。例句：My nephew is a lawyer. / My niece is getting married. / My spouse works at a hospital. 注意 spouse 不分性别（比 husband/wife 更中性）。
+- **spouse / marriage / divorced** — 婚姻三词。spouse 配偶（性别中立，表格常见词）。marriage 婚姻，动词 marry。divorced 已离婚的：They are divorced. 关系状态词常与 be 连用。
 
-- **relationship / trust / respect** — 关系 / 信任 / 尊重。搭配：a good relationship, trust each other, respect each other。例句：They have a great relationship. / I trust her completely. / Respect is important. 注意 relationship 比 relation 更常用（指人际关系）。
+- **nephew / niece** — 侄子/外甥与侄女/外甥女，英语不分父系母系。对应长辈是 uncle/aunt。注意发音：nephew /ˈnefjuː/。
 
-- **divorced / marriage / date** — 离婚 / 婚姻 / 约会。搭配：get divorced, a happy marriage, go on a date。例句：They got divorced last year. / Their marriage is strong. / She's on a date tonight. 注意 divorced 是形容词状态。
+- **relationship / date** — relationship 关系，既可指恋爱也可泛指人际关联。date 约会（名词）或约会对象：They are on a date. 动词 go on a date。
 
-- **lawyer / firefighter / barber** — 律师 / 消防员 / 理发师。搭配：a successful lawyer, a brave firefighter, at the barber's。例句：My nephew is a lawyer. / She wants to be a firefighter. / I'm going to the barber's. 注意 barber 通常指男性理发师。
+- **gay / lesbian** — gay 指男同性恋（也可泛指同性恋），lesbian 指女同性恋。描述关系状态的中性说法是 in a relationship。
 
-- **author / successful / dream** — 作家 / 成功的 / 梦想。搭配：a famous author, a successful career, my dream is to...。例句：She's a successful author. / His dream is to write a novel. 注意 author 比 writer 更正式（通常指出版过书的）。
+- **author / barber / firefighter / lawyer** — 四个职业。author 作者（强调书的创作者，writer 更泛指）。barber 理发师，常指男士理发。firefighter 消防员（取代了旧词 fireman，性别中立）。lawyer 律师。-er/-or 和 -ist 都是"做……的人"的后缀。
 
-- **honest / annoying / huge** — 诚实的 / 烦人的 / 巨大的。搭配：an honest person, so annoying, a huge problem。例句：He's very honest. / My neighbor is annoying. / There's a huge difference. 注意 honest 的 h 不发音（用 an）。
+- **annoying** — 令人厌烦的，-ing 形容词描述让人产生感受的对象：an annoying colleague。对比 annoyed（感到厌烦的）：I am annoyed. ✗ I am annoying 意思是"我这人真讨人嫌"，注意别用反。
 
-- **blind / gay / lesbian** — 失明的 / 男同性恋 / 女同性恋。搭配：blind people, a gay couple, a lesbian couple。例句：She's blind but lives independently. / They're a gay couple. 注意这些词描述身份，使用时注意尊重。
+- **honest / trust / respect** — 品质三词。honest 诚实的，注意 h 不发音，所以搭配用 an honest man。trust 信任（动词/名词）：I trust him. respect 尊重：respect each other。
 
-- **retire / haircut / british** — 退休 / 理发 / 英国的。搭配：retire from work, get a haircut, British English。例句：My uncle is going to retire. / I need a haircut. / She's British. 注意 retire = 退休（不再工作）。
+- **successful / retire** — successful 成功的（success + -ful）。retire 退休：My uncle retired last year. 名词 retirement。
 
-- **where / trust / respect** — 哪里 / 信任 / 尊重。搭配：Where does he work? / trust sb, respect sb。例句：Where does your nephew work? / I trust my spouse. / We respect each other. 注意 where 引导地点疑问。
+- **blind / dream** — blind 失明的，blind date 是"相亲"（互相不认识的约会）。dream 梦想，名词动词同形：Her dream is to be a lawyer.
 
-- **marriage / divorced / spouse** — 婚姻 / 离婚 / 配偶。搭配：a long marriage, get divorced, my spouse。例句：Their marriage lasted twenty years. / They're divorced now. / My spouse is a teacher. 注意 marriage 是名词，marry 是动词。
+- **haircut / where** — haircut 理发（名词）：get a haircut。where 在哪里，疑问副词：Where did you get your haircut?
 
-- **nephew / niece / firefighter** — 侄子 / 侄女 / 消防员。搭配：my nephew, my niece, a firefighter。例句：My nephew wants to be a firefighter. / My niece is studying law. 注意 nephew 是男性，niece 是女性。
-
-- **author / honest / successful** — 作家 / 诚实 / 成功。搭配：a famous author, honest and kind, very successful。例句：She's an honest and successful author. / He's a successful lawyer. 注意 successful 搭配 in（successful in business）。
+- **british / huge** — British 英国的、英国人的，首字母大写。huge 巨大的，比 big 程度强：a huge house。
 
 ## 练习
 
@@ -61,149 +58,149 @@ nephew（侄子/外甥）和 niece（侄女/外甥女）区分性别。spouse �
 
 <quiz-sentence-builder>
 
-1. **中文**：这位成功的英国作者写了一本关于同性恋婚姻的巨著。  
-   **英文**：The successful British author wrote a huge book on gay marriage.
-   > **解析**：successful 表示“成功的”；British 表示“英国的”；author 表示“作者”；huge 表示“巨大的”；gay 表示“同性恋的”；marriage 表示“婚姻”。
+1. **中文**：我的侄子是一位成功的律师。
+   **英文**：My nephew is a successful lawyer.
+   > **解析**：successful 修饰 lawyer 作定语；a 放在形容词前。
 
-2. **中文**：我的侄子是一名勇敢的消防员，我的侄女是一位优秀的律师。  
-   **英文**：My nephew is a brave firefighter, and my niece is a lawyer.
-   > **解析**：nephew 表示“侄子/外甥”；firefighter 表示“消防员”；niece 表示“侄女/外甥女”；lawyer 表示“律师”。
+2. **中文**：我的侄女是一名消防员。
+   **英文**：My niece is a firefighter.
+   > **解析**：a firefighter 是表语名词；firefighter 是性别中立的职业词。
 
-3. **中文**：那位理发师为他的同性恋配偶理了一个很棒的新发型。  
-   **英文**：The barber gave his lesbian spouse a cool haircut.
-   > **解析**：barber 表示“理发师”；lesbian 表示“女同性恋的”；spouse 表示“配偶”；haircut 表示“剪发/发型”。
+3. **中文**：他们去年结婚了。
+   **英文**：They got married last year.
+   > **解析**：get married 表示"结婚"这个动作；last year 是时间状语。
 
-4. **中文**：相互信任与尊重是维系长久健康人际关系的基石。  
-   **英文**：Mutual trust and respect are vital in a healthy relationship.
-   > **解析**：trust 表示“信任”；respect 表示“尊重”；relationship 表示“人际关系/亲密关系”。
+4. **中文**：我的阿姨离婚了。
+   **英文**：My aunt is divorced.
+   > **解析**：divorced 是形容词作表语，描述婚姻状态。
 
-5. **中文**：那位令人烦人的盲人老人决定在明年正式退休。  
-   **英文**：The annoying blind man decided to retire next year.
-   > **解析**：annoying 表示“令人烦人的”；blind 表示“盲的/失明的”；retire 表示“退休”。
+5. **中文**：他们在相亲中认识的。
+   **英文**：They met on a blind date.
+   > **解析**：met 是 meet 的过去式；on a blind date 表示场合。
 
-6. **中文**：老实说，他们的离婚并没有影响到彼此间的尊重。  
-   **英文**：Honest speaking, their divorce did not destroy their respect.
-   > **解析**：honest 表示“诚实的”；divorce / divorced 表示“离婚”；respect 表示“尊重”。
+6. **中文**：这段关系很重要。
+   **英文**：This relationship is important.
+   > **解析**：This relationship 是单数主语，用 is；important 作表语。
 
-7. **中文**：他梦想着能找到一个值得信任与依赖的伴侣去约会。  
-   **英文**：He dreams of finding a trustworthy date for a relationship.
-   > **解析**：dream / dreams 表示“梦想”；date 表示“约会对象/约会”。
+7. **中文**：他的配偶是一名作家。
+   **英文**：His spouse is an author.
+   > **解析**：author 以元音音素开头，冠词用 an；spouse 性别中立。
 
-8. **中文**：我的侄子在退休后出版了他的第一部小说。  
-   **英文**：My nephew published his first novel after he retired.
-   > **解析**：nephew 表示“侄子”；retire / retired 表示“退休”。
+8. **中文**：我尊重诚实的人。
+   **英文**：I respect honest people.
+   > **解析**：respect 是及物动词直接接宾语；honest 的 h 不发音。
 
-9. **中文**：我的侄女非常尊重那位在消防队工作的勇敢叔叔。  
-   **英文**：My niece respects her brave uncle who works in fire station.
-   > **解析**：niece 表示“侄女/外甥女”；respect / respects 表示“尊重”。
+9. **中文**：我信任我的理发师。
+   **英文**：I trust my barber.
+   > **解析**：trust 是及物动词；my barber 作宾语。
 
-10. **中文**：这是一位在职业生涯中获得巨大成功的优秀律师。  
-   **英文**：This is a very successful lawyer who won huge respect.
-   > **解析**：successful 表示“成功的”；lawyer 表示“律师”；huge 表示“巨大的”。
+10. **中文**：我叔叔去年退休了。
+   **英文**：My uncle retired last year.
+   > **解析**：retired 是 retire 的过去式；last year 与过去时连用。
 
-11. **中文**：这位知名作者在全世界拥有无数的读者。  
-   **英文**：This famous author has millions of readers worldwide.
-   > **解析**：author 表示“作者/作家”。
+11. **中文**：那个同事真烦人。
+   **英文**：That colleague is annoying.
+   > **解析**：annoying 是 -ing 形容词，描述让人产生感受的人。
 
-12. **中文**：理发师在理发店里熟练地为顾客修剪头发。  
-   **英文**：The barber trimmed the customer's hair in the barbershop.
-   > **解析**：barber 表示“理发师”。
+12. **中文**：她的梦想是成为一名律师。
+   **英文**：Her dream is to be a lawyer.
+   > **解析**：to be 是不定式作表语，说明梦想的内容。
 
-13. **中文**：建立长久的信任需要双方共同付出努力。  
-   **英文**：Building deep trust between partners requires effort.
-   > **解析**：trust 表示“信任”。
+13. **中文**：你在哪里理的发？
+   **英文**：Where did you get your haircut?
+   > **解析**：Where 引导疑问句；did 提前构成过去时疑问。
 
-14. **中文**：我们应该懂得尊重每一位劳动者的辛勤付出。  
-   **英文**：We should learn to respect every worker's hard work.
-   > **解析**：respect 表示“尊重/敬佩”。
+14. **中文**：那位英国作家很有名。
+   **英文**：The British author is famous.
+   > **解析**：British 作定语修饰 author，首字母大写；famous 作表语。
 
-15. **中文**：他的配偶是一位非常善良且体贴的医生。  
-   **英文**：His spouse is a very kind and thoughtful doctor.
-   > **解析**：spouse 表示“配偶”。
+15. **中文**：他们有一栋大房子。
+   **英文**：They have a huge house.
+   > **解析**：huge 修饰 house；have 与复数主语 They 搭配用原形。
 
-16. **中文**：这对夫妇的幸福婚姻持续了四十年之久。  
-   **英文**：The happy marriage of this couple lasted for forty years.
-   > **解析**：marriage 表示“婚姻”。
+16. **中文**：我的侄子和侄女在玩。
+   **英文**：My nephew and my niece are playing.
+   > **解析**：and 连接并列主语，整体复数用 are；are playing 是现在进行时。
 
-17. **中文**：经过多年的辛勤工作，他终于决定退休享受生活。  
-   **英文**：After years of hard work, he decided to retire.
-   > **解析**：retire 表示“退休”。
+17. **中文**：他看不见，但他很成功。
+   **英文**：He is blind, but he is successful.
+   > **解析**：but 连接两个转折分句；blind 和 successful 都作表语。
 
-18. **中文**：消防员冲进火场救出了被困的人员。  
-   **英文**：The brave firefighter rushed in to save people.
-   > **解析**：firefighter 表示“消防员”。
+18. **中文**：婚姻需要尊重与信任。
+   **英文**：Marriage needs respect and trust.
+   > **解析**：Marriage 是第三人称单数，need 加 s；and 连接两个并列宾语。
 
-19. **中文**：请问你们今晚打算去哪里进行晚餐约会？  
-   **英文**：Where do you plan to go for your dinner date tonight?
-   > **解析**：date 表示“约会”；where 表示“在哪里”。
+19. **中文**：他们正在约会。
+   **英文**：They are on a date.
+   > **解析**：be on a date 是"在约会"的习惯表达。
 
-20. **中文**：那场突如其来的噪声感到非常令人烦人。  
-   **英文**：That sudden loud noise felt extremely annoying to us.
-   > **解析**：annoying 表示“令人烦人的/讨人厌的”。
+20. **中文**：你认识那位消防员吗？
+   **英文**：Do you know the firefighter?
+   > **解析**：含实义动词的疑问句用 Do 开头；know 用原形。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The successful British author wrote a huge book on gay marriage.
-   > **中文**：这位成功的英国作者写了一本关于同性恋婚姻的巨著。
+1. Her nephew is a lawyer.
+   > **中文**：她的侄子是一名律师。
 
-2. My nephew is a brave firefighter, and my niece is a lawyer.
-   > **中文**：我的侄子是一名勇敢的消防员，我的侄女是一位优秀的律师。
+2. The firefighter is brave.
+   > **中文**：那位消防员很勇敢。
 
-3. The barber gave his lesbian spouse a cool haircut.
-   > **中文**：那位理发师为他的同性恋配偶理了一个很棒的新发型。
+3. My niece is getting a haircut.
+   > **中文**：我的侄女在理发。
 
-4. Mutual trust and respect are vital in a healthy relationship.
-   > **中文**：相互信任与尊重是维系长久健康人际关系的基石。
+4. They are divorced now.
+   > **中文**：他们现在离婚了。
 
-5. The annoying blind man decided to retire next year.
-   > **中文**：那位令人烦人的盲人老人决定在明年正式退休。
+5. She went on a blind date.
+   > **中文**：她去相亲了。
 
-6. Honest speaking, their divorce did not destroy their respect.
-   > **中文**：老实说，他们的离婚并没有影响到彼此间的尊重。
+6. Their relationship is strong.
+   > **中文**：他们的关系很牢固。
 
-7. He dreams of finding a trustworthy date for a relationship.
-   > **中文**：他梦想着能找到一个值得信任与依赖的伴侣去约会。
+7. His spouse is British.
+   > **中文**：他的配偶是英国人。
 
-8. My nephew published his first novel after he retired.
-   > **中文**：我的侄子在退休后出版了他的第一部小说。
+8. The author wrote a huge book.
+   > **中文**：那位作家写了一本巨著。
 
-9. My niece respects her brave uncle who works in fire station.
-   > **中文**：我的侄女非常尊重那位在消防队工作的勇敢叔叔。
+9. Be honest with me.
+   > **中文**：对我坦诚一点。
 
-10. This is a very successful lawyer who won huge respect.
-   > **中文**：这是一位在职业生涯中获得巨大成功的优秀律师。
+10. I respect my barber.
+   > **中文**：我尊重我的理发师。
 
-11. This famous author has millions of readers worldwide.
-   > **中文**：这位知名作者在全世界拥有无数的读者。
+11. They trust each other.
+   > **中文**：他们互相信任。
 
-12. The barber trimmed the customer's hair in the barbershop.
-   > **中文**：理发师在理发店里熟练地为顾客修剪头发。
+12. My father retired at sixty.
+   > **中文**：我父亲六十岁退休了。
 
-13. Building deep trust between partners requires effort.
-   > **中文**：建立长久的信任需要双方共同付出努力。
+13. This song is annoying.
+   > **中文**：这首歌真烦人。
 
-14. We should learn to respect every worker's hard work.
-   > **中文**：我们应该懂得尊重每一位劳动者的辛勤付出。
+14. Her dream came true.
+   > **中文**：她的梦想实现了。
 
-15. His spouse is a very kind and thoughtful doctor.
-   > **中文**：他的配偶是一位非常善良且体贴的医生。
+15. Where is the barber shop?
+   > **中文**：理发店在哪里？
 
-16. The happy marriage of this couple lasted for forty years.
-   > **中文**：这对夫妇的幸福婚姻持续了四十年之久。
+16. My lesbian friend is an author.
+   > **中文**：我的女同性恋朋友是一位作家。
 
-17. After years of hard work, he decided to retire.
-   > **中文**：经过多年的辛勤工作，他终于决定退休享受生活。
+17. Their marriage lasted fifty years.
+   > **中文**：他们的婚姻持续了五十年。
 
-18. The brave firefighter rushed in to save people.
-   > **中文**：消防员冲进火场救出了被困的人员。
+18. He is a successful barber.
+   > **中文**：他是一位成功的理发师。
 
-19. Where do you plan to go for your dinner date tonight?
-   > **中文**：请问你们今晚打算去哪里进行晚餐约会？
+19. The gay couple just got married.
+   > **中文**：那对男同性恋伴侣刚结婚。
 
-20. That sudden loud noise felt extremely annoying to us.
-   > **中文**：那场突如其来的噪声感到非常令人烦人。
+20. Where did they meet?
+   > **中文**：他们是在哪里认识的？
 
 </quiz-listening>
 
@@ -211,16 +208,17 @@ nephew（侄子/外甥）和 niece（侄女/外甥女）区分性别。spouse �
 
 | 英文单词 | 课文释义 |
 | --- | --- |
-| annoying | 令人烦人的 |
-| author | 作者 / 作家 |
+| annoying | 令人厌烦的 |
+| author | 作者 |
 | barber | 理发师 |
-| blind | 盲的 / 失明的 |
-| british | 英国的 |
-| date | 约会 / 约会对象 |
-| divorced | 离婚的 |
+| blind | 失明的 |
+| british | 英国的 / 英国人的 |
+| date | 约会 |
+| divorced | 已离婚的 |
+| dream | 梦想 |
 | firefighter | 消防员 |
-| gay | 同性恋的（男） |
-| haircut | 理发 / 发型 |
+| gay | 男同性恋的 |
+| haircut | 理发 |
 | honest | 诚实的 |
 | huge | 巨大的 |
 | lawyer | 律师 |
@@ -228,9 +226,19 @@ nephew（侄子/外甥）和 niece（侄女/外甥女）区分性别。spouse �
 | marriage | 婚姻 |
 | nephew | 侄子 / 外甥 |
 | niece | 侄女 / 外甥女 |
-| relationship | 人际关系 / 亲密关系 |
+| relationship | 关系 |
 | respect | 尊重 |
 | retire | 退休 |
+| spouse | 配偶 |
+| successful | 成功的 |
+| trust | 信任 |
+| where | 在哪里 |
+| is | 是（单数） |
+| are | 是（复数） |
+| a | 一（个） |
+| my | 我的 |
+| they | 他们 |
+| and | 和 |
 
 </quiz-matching>
 
@@ -238,202 +246,202 @@ nephew（侄子/外甥）和 niece（侄女/外甥女）区分性别。spouse �
 
 ### 1
 
-The ____ British author wrote a huge book on gay marriage.
+My nephew is a successful ____.
 
-- [x] successful
-- [ ] annoying
-- [ ] author
+- [x] lawyer
+- [ ] haircut
+- [ ] marriage
 
-> **解析**：**successful** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：successful 修饰职业名词 lawyer；haircut 和 marriage 不是职业。
 
 ### 2
 
-My ____ is a brave firefighter, and my niece is a lawyer.
+My niece is a ____.
 
-- [x] nephew
-- [ ] annoying
-- [ ] author
+- [x] firefighter
+- [ ] fire
+- [ ] dream
 
-> **解析**：**nephew** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a 后需要表人的职业名词 firefighter；fire 是事物，dream 语义不符。
 
 ### 3
 
-The ____ gave his lesbian spouse a cool haircut.
+They got ____ last year.
 
-- [x] barber
-- [ ] annoying
-- [ ] author
+- [x] married
+- [ ] marry
+- [ ] marriage
 
-> **解析**：**barber** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：get married 是固定搭配；marry 是动词原形，marriage 是名词。
 
 ### 4
 
-Mutual ____ and respect are vital in a healthy relationship.
+My aunt is ____.
 
-- [x] trust
-- [ ] annoying
-- [ ] author
+- [x] divorced
+- [ ] divorce
+- [ ] divorcing
 
-> **解析**：**trust** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 divorced 表示状态；divorce 是名词或动词原形，divorcing 是现在分词。
 
 ### 5
 
-The ____ blind man decided to retire next year.
+They met on a blind ____.
 
-- [x] annoying
-- [ ] author
-- [ ] barber
+- [x] date
+- [ ] dream
+- [ ] haircut
 
-> **解析**：**annoying** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：blind date 是固定搭配"相亲"；dream 和 haircut 都不构成这个搭配。
 
 ### 6
 
-____ speaking, their divorce did not destroy their respect.
+This ____ is important.
 
-- [x] Honest
-- [ ] annoying
-- [ ] author
+- [x] relationship
+- [ ] barber
+- [ ] nephew
 
-> **解析**：**Honest** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：important 修饰关系 relationship；barber 和 nephew 是人，与"重要关系"语境不符。
 
 ### 7
 
-He dreams of finding a trustworthy ____ for a relationship.
+His spouse is ____ author.
 
-- [x] date
-- [ ] annoying
-- [ ] author
+- [x] an
+- [ ] a
+- [ ] one
 
-> **解析**：**date** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：author 以元音音素开头，用 an；a 用于辅音音素前，one 强调数量"一个"。
 
 ### 8
 
-My ____ published his first novel after he retired.
+I respect ____ people.
 
-- [x] nephew
-- [ ] annoying
-- [ ] author
+- [x] honest
+- [ ] honesty
+- [ ] honestly
 
-> **解析**：**nephew** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：名词 people 前需要形容词 honest；honesty 是名词，honestly 是副词。
 
 ### 9
 
-My ____ respects her brave uncle who works in fire station.
+I ____ my barber.
 
-- [x] niece
-- [ ] annoying
-- [ ] author
+- [x] trust
+- [ ] trustful
+- [ ] trusty
 
-> **解析**：**niece** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：主语 I 后需要动词 trust；trustful 和 trusty 是形容词。
 
 ### 10
 
-This is a very ____ lawyer who won huge respect.
+My uncle ____ last year.
 
-- [x] successful
-- [ ] annoying
-- [ ] author
+- [x] retired
+- [ ] retire
+- [ ] retiring
 
-> **解析**：**successful** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：last year 表示过去，用过去式 retired；retire 是原形，retiring 是分词。
 
 ### 11
 
-This famous ____ has millions of readers worldwide.
+That colleague is ____.
 
-- [x] author
-- [ ] annoying
-- [ ] barber
+- [x] annoying
+- [ ] annoyed
+- [ ] annoy
 
-> **解析**：**author** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：描述"令人烦的"人用 -ing 形容词 annoying；annoyed 描述自己的感受，annoy 是动词。
 
 ### 12
 
-The ____ trimmed the customer's hair in the barbershop.
+Her dream is ____ be a lawyer.
 
-- [x] barber
-- [ ] annoying
-- [ ] author
+- [x] to
+- [ ] for
+- [ ] of
 
-> **解析**：**barber** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：is 后接不定式 to be 作表语；for 和 of 都不能构成不定式。
 
 ### 13
 
-Building deep ____ between partners requires effort.
+____ did you get your haircut?
 
-- [x] trust
-- [ ] annoying
-- [ ] author
+- [x] Where
+- [ ] Who
+- [ ] Which
 
-> **解析**：**trust** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：询问地点用 Where；Who 问人，Which 问选择。
 
 ### 14
 
-We should learn to ____ every worker's hard work.
+The ____ author is famous.
 
-- [x] respect
-- [ ] annoying
-- [ ] author
+- [x] British
+- [ ] british
+- [ ] Britain
 
-> **解析**：**respect** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：国籍形容词首字母大写 British；小写形式不规范，Britain 是国家名不能直接修饰。
 
 ### 15
 
-His ____ is a very kind and thoughtful doctor.
+They have a ____ house.
 
-- [x] spouse
-- [ ] annoying
-- [ ] author
+- [x] huge
+- [ ] hugely
+- [ ] hug
 
-> **解析**：**spouse** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：名词 house 前需要形容词 huge；hugely 是副词，hug 是动词。
 
 ### 16
 
-The happy ____ of this couple lasted for forty years.
+My nephew and my niece ____ playing.
 
-- [x] marriage
-- [ ] annoying
-- [ ] author
+- [x] are
+- [ ] is
+- [ ] be
 
-> **解析**：**marriage** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：and 连接的并列主语是复数，用 are；is 用于单数，be 是原形。
 
 ### 17
 
-After years of hard work, he decided to ____.
+He is blind, ____ he is successful.
 
-- [x] retire
-- [ ] annoying
-- [ ] author
+- [x] but
+- [ ] and
+- [ ] so
 
-> **解析**：**retire** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：前后语义转折用 but；and 表并列，so 表结果。
 
 ### 18
 
-The brave ____ rushed in to save people.
+Marriage needs respect and ____.
 
-- [x] firefighter
-- [ ] annoying
-- [ ] author
+- [x] trust
+- [ ] date
+- [ ] haircut
 
-> **解析**：**firefighter** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：与 respect 并列的品质名词是 trust；date 和 haircut 语义不符。
 
 ### 19
 
-____ do you plan to go for your dinner date tonight?
+They are on a ____.
 
-- [x] Where
-- [ ] annoying
-- [ ] author
+- [x] date
+- [ ] barber
+- [ ] spouse
 
-> **解析**：**Where** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be on a date 是固定表达"在约会"；barber 和 spouse 语义不符。
 
 ### 20
 
-That sudden loud noise felt extremely ____ to us.
+Do you know ____ firefighter?
 
-- [x] annoying
-- [ ] author
-- [ ] barber
+- [x] the
+- [ ] a
+- [ ] many
 
-> **解析**：**annoying** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：特指某位消防员用定冠词 the；a 表泛指，many 要求复数。
 
 </quiz-cloze>

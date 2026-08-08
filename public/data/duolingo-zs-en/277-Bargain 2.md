@@ -10,44 +10,35 @@ a steal, bargain hunter, been, been worn, deal, do you happen to, dusty, empty o
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"整理杂物、淘便宜货"展开，交际任务是"分享你清理杂物的计划"。词表里有描述旧物状态的词（dusty, been worn, junk, unwanted, shape），有交易和讨价还价的表达（a steal, deal, final offer, reasonably priced, purchase, bargain hunter），也有清理和整理的动作（empty out, restore, store）。你可以练习这样的叙述：I'm planning to empty out the garage—there's so much junk I haven't touched in years. / This old fur coat has been worn to pieces, but someone might restore it. / I'm a bargain hunter, and this is a steal—my final offer is five dollars.
+本单元的主题是"分享清理旧物的计划"，场景是二手交易与跳蚤市场。词表可以分成四组：旧物（junk, unwanted, dusty, fur, lid, handle, piece, been worn）、清理动作（empty out, restore, store, purchase, raise, last）、讨价还价（deal, a steal, bargain hunter, reasonably priced, final offer, do you happen to）、以及疑问句型（wondering, been）。拼起来就是一段清仓对话：I'm emptying out the attic. This jacket has been worn once. It's a steal!
 
-词表里有几个和"物品状态"相关的表达值得注意：been worn 是被动语态（被穿过/磨损过），shape 指物品的完好程度（in good shape / in bad shape），restore 是"修复、恢复原状"。do you happen to 和 wondering 都是软化语气的表达，让询问和请求听起来不那么直接。
+语法主线是现在完成时的被动语态 has/have been + 过去分词。been worn 表示"被穿过"：These shoes have been worn twice.（这双鞋被穿过两次。）这是二手交易中最核心的句型，用来描述物品成色。另一条主线是讨价还价的地道表达：a steal（便宜得像白捡）、reasonably priced（定价合理）、final offer（最后出价），构成完整的砍价词库。
+
+学完这单元，你能用英语规划断舍离：清点旧物、描述成色、给二手物品定价，还能在交易里礼貌砍价。
 
 ## Tips
 
-- **a steal** — 极便宜的东西、捡了大便宜。口语中极常用：This coat is a steal—only ten dollars! 字面意思是"偷来的"，引申为"便宜得像偷来的"。同义表达：a bargain / a great deal。注意是 a steal，不可数用法不常见。
+- **junk / unwanted / dusty** — 旧物三连。junk 是"没用的破烂"；unwanted 是"不再想要的"（un- + wanted）：unwanted clothes。dusty 是"积灰的"（dust + -y）。清仓前先给物品分类：keep, sell, or junk it.
 
-- **bargain hunter** — 淘便宜货的人。bargain（便宜货）+ hunter（猎人），形象地描绘在二手店、打折区搜寻好货的人。搭配：a seasoned bargain hunter / go bargain hunting。动词形式：bargain hunt / hunt for bargains。
+- **empty out / restore / store** — 清理三动词。empty out 是"清空"：empty out the box。restore 是"修复、恢复原貌"：restore an old chair。store 作动词"存放"：store the boxes in the garage。注意 store 名词是"商店"，动词是"储存"。
 
-- **empty out** — 清空、倒空。搭配：empty out a closet / empty out the garage / empty out a drawer。比 empty 更强调"彻底清出来"的过程。例句：I spent the whole weekend empty out my old bedroom. 注意 out 可以省略，但加了更有画面感。
+- **been worn / been** — 被动完成时核心。been 是 be 的过去分词；been worn 表示"被穿过"：This coat has been worn a few times. 二手描述必备：has been worn / has been used（被使用过）。
 
-- **been worn** — 被穿过、被磨损过。被动语态：This jacket has been worn for years. / These shoes have been worn to pieces. 注意 wear 的过去分词是 worn（不是 weared）。搭配：well-worn（穿旧了的）、worn out（磨坏了）。
+- **a steal / deal / reasonably priced** — 价格评价词。a steal 是"便宜得像偷来的"，即超值：Ten dollars? That's a steal! deal 是交易/划算买卖：a good deal。reasonably priced 是"定价合理"：These are reasonably priced.
 
-- **restore** — 修复、恢复原状。搭配：restore old furniture / restore a painting / restore a house。比 fix / repair 更强调"恢复到原来的好状态"，常用于古董、老物件。例句：She bought a dusty old chair and restored it beautifully.
+- **bargain hunter** — "淘便宜货的人"（bargain 便宜货 + hunter 猎手）。词源上 bargain 来自法语 bargaignier（讨价还价）。
 
-- **reasonably priced** — 价格合理的。reasonably（合理地）+ priced（定价的）。搭配：a reasonably priced restaurant / reasonably priced items。反义：overpriced（定价过高的）。比 cheap 更正面——cheap 可能暗示质量差，reasonably priced 强调性价比。
+- **final offer / raise** — 出价两词。final offer 是最后出价：My final offer is twenty. raise 作动词"加价"：I'll raise it to fifteen. 拍卖场景中 raise 是高频词。
 
-- **final offer** — 最终报价、最后出价。谈判用语，暗示"不再让步了"。搭配：make a final offer / my final offer is... / accept the final offer。例句：Five dollars is my final offer—take it or leave it. 在二手交易和讨价还价中极常用。
+- **do you happen to / wondering** — 礼貌询问双式。Do you happen to know the price?（你碰巧知道价格吗？）happen to 让问题更客气。I'm wondering about this piece.（我想了解一下这件。）wondering 后接 about 或 wh- 从句。
 
-- **junk** — 垃圾、废物、没用的东西。比 trash / garbage 更口语化，特指那些"留着没用、扔了可惜"的杂物。搭配：a pile of junk / junk in the garage / throw out the junk。引申：junk food（垃圾食品）、junk mail（垃圾邮件）。
+- **piece / fur / lid / handle** — 物品细节词。piece 是"一件"：a nice piece of furniture。fur 是毛皮；lid 是盖子；handle 是把手。验货时专看这些部位：Check the lid and handle.
 
-- **dusty** — 积满灰尘的。名词是 dust。搭配：a dusty old box / dusty shelves / get dusty。例句：I found a dusty lid on top of the shelf. 在清理杂物的语境中，dusty 暗示东西很久没动过了。
+- **shape / last** — 成色与坚持。shape 指"状况"：in good shape（状况良好）。last 作动词"持续、撑得住"：The boots will last for years. 也可作形容词"最后的"：the last piece。
 
-- **do you happen to / wondering** — 两个软化语气的表达。Do you happen to have a spare lid?（你碰巧有个多余的盖子吗？）比 Do you have... 更客气、更不给对方压力。I was wondering if...（我在想是否……）比 I want to know... 更委婉。两者都是礼貌策略。
-
-- **shape** — 这里指物品的"状态、完好程度"。搭配：in good shape / in bad shape / in perfect shape。例句：The table is old but still in great shape. 不是"形状"的意思（那是另一个义项）。注意 in shape 也可以指人"身材好"。
-
-- **fur** — 毛皮、皮草。搭配：a fur coat / a fur collar / fake fur（人造皮草）。例句：She found an old fur coat in the closet. 注意 fur 做不可数名词时指"毛皮材质"，做可数名词时可以指"一件皮草"。
-
-- **lid / handle / piece** — 三个物品部件词。lid 是盖子（a jar lid / the lid of a box）；handle 是把手（a door handle / a mug handle）；piece 是"一片、一件"（a piece of furniture / in pieces）。例句：The lid is dusty but the handle is still in good shape.
-
-- **purchase / store** — purchase 是"购买"（比 buy 正式）：purchase a ticket / a recent purchase。store 做动词是"储存、存放"：store old clothes in the attic / store things in boxes。注意 store 做名词是"商店"，做动词是"储存"——一词两义。
-
-- **unwanted** — 不想要的、多余的。un- + wanted。搭配：unwanted items / unwanted gifts / unwanted clothes。例句：I'm selling all my unwanted stuff online. 比 things I don't want 更简洁，常用于二手交易语境。
+- **purchase** — 购买，比 buy 正式：a good purchase（划算的购买）。名词动词同形。
 
 ## 练习
 
@@ -65,176 +56,189 @@ a steal, bargain hunter, been, been worn, deal, do you happen to, dusty, empty o
 
 <quiz-sentence-builder>
 
-1. **中文**：这件复古大衣只要十美元，简直太便宜了！
-   **英文**：This vintage coat cost only ten dollars, so it was a steal.
-   > **解析**：a steal 意为极便宜的东西、捡了大便宜。
+1. **中文**：我正在清空阁楼。
+   **英文**：I'm emptying out the attic.
+   > **解析**：现在进行时 am emptying；empty out 是动副短语"清空"。
 
-2. **中文**：作为一名资深淘宝客，她总能在跳蚤市场找到好东西。
-   **英文**：As an experienced bargain hunter, she always finds treasures at flea markets.
-   > **解析**：bargain hunter 意为淘便宜货的人。
+2. **中文**：这件外套被穿过几次。
+   **英文**：This coat has been worn a few times.
+   > **解析**：has been worn 是现在完成时的被动语态；a few times 是频率状语。
 
-3. **中文**：我打算这周末把车库里的旧杂物全部清空。
-   **英文**：I plan to empty out all the old stuff from the garage this weekend.
-   > **解析**：empty out 意为清空、倒空。
+3. **中文**：这便宜得像白捡的。
+   **英文**：That's a steal.
+   > **解析**：That 作主语用 is；a steal 作表语，固定表达"超值"。
 
-4. **中文**：这双旧靴子已经被穿过很多次了，但依然很坚固。
-   **英文**：These old boots have been worn many times, but they remain sturdy.
-   > **解析**：been worn 意为被穿过。
+4. **中文**：真是笔好买卖。
+   **英文**：It was a good deal.
+   > **解析**：was 与 It 搭配；a good deal 作表语。
 
-5. **中文**：他买下了一把积灰的老椅子，并把它完美修复了。
-   **英文**：He bought a dusty old chair and managed to restore it.
-   > **解析**：restore 意为修复、恢复原状。
+5. **中文**：这些商品价格合理。
+   **英文**：These are reasonably priced.
+   > **解析**：These 复数主语用 are；reasonably 副词修饰 priced（定价的）。
 
-6. **中文**：这家二手店里的所有物品都定价非常合理。
-   **英文**：All the items in this second-hand shop are reasonably priced.
-   > **解析**：reasonably priced 意为价格合理的。
+6. **中文**：她是个淘便宜货的高手。
+   **英文**：She is a real bargain hunter.
+   > **解析**：a real bargain hunter 作表语；real 修饰复合名词。
 
-7. **中文**：五十美元是我的最终报价，不能再便宜了。
-   **英文**：Fifty dollars is my final offer, I cannot go any lower.
-   > **解析**：final offer 意为最终报价。
+7. **中文**：你碰巧知道价格吗？
+   **英文**：Do you happen to know the price?
+   > **解析**：happen to + 动词原形表示"碰巧"；疑问句 Do 开头。
 
-8. **中文**：阁楼里塞满了我们多年没有动过的旧杂物。
-   **英文**：The attic is filled with old junk we haven't touched in years.
-   > **解析**：junk 意为杂物、废旧物品。
+8. **中文**：我想了解一下这件家具。
+   **英文**：I'm wondering about this piece.
+   > **解析**：现在进行时 am wondering；about this piece 引出对象。
 
-9. **中文**：他在架子最顶层发现了一个积满灰尘的旧盒子。
-   **英文**：He found a dusty old box on the very top of the shelf.
-   > **解析**：dusty 意为积满灰尘的。
+9. **中文**：这些盒子积满了灰。
+   **英文**：These boxes are dusty.
+   > **解析**：These boxes 复数主语用 are；dusty 作表语。
 
-10. **中文**：请问你碰巧有这个旧罐子的备用盖子吗？
-   **英文**：Do you happen to have a spare lid for this old jar?
-   > **解析**：do you happen to 意为“你碰巧……吗”。
+10. **中文**：他修复了那把旧椅子。
+   **英文**：He restored the old chair.
+   > **解析**：restored 是 restore 的过去式；the old chair 作宾语。
 
-11. **中文**：这张木桌虽然有些年头，但状况依然保持得很好。
-   **英文**：Although this wooden table is old, it is still in good shape.
-   > **解析**：shape 意为状况、完好程度。
+11. **中文**：把箱子存放在车库里。
+   **英文**：Store the boxes in the garage.
+   > **解析**：祈使句，store 作动词"存放"；in the garage 是地点状语。
 
-12. **中文**：她在衣柜深处清理出了一件旧皮草大衣。
-   **英文**：She cleaned out an old fur coat from the back of the closet.
-   > **解析**：fur 意为皮草、毛皮。
+12. **中文**：这件皮草没人想要了。
+   **英文**：The fur coat is unwanted now.
+   > **解析**：The fur coat 是单数主语，用 is；unwanted 作表语。
 
-13. **中文**：在把盒子里装满东西前，确保把盖子盖紧。
-   **英文**：Make sure the lid is tight before storing the box away.
-   > **解析**：lid 意为盖子。
+13. **中文**：检查一下盖子和把手。
+   **英文**：Check the lid and the handle.
+   > **解析**：祈使句 Check 开头；and 连接两个宾语。
 
-14. **中文**：我们决定把所有不需要的物品捐赠给慈善机构。
-   **英文**：We decided to donate all our unwanted items to charity.
-   > **解析**：unwanted 意为不需要的、多余的。
+14. **中文**：我的最后出价是二十。
+   **英文**：My final offer is twenty.
+   > **解析**：My final offer 是单数主语，用 is；twenty 作表语表示金额。
 
-15. **中文**：我想知道你是否愿意买下这套旧书籍。
-   **英文**：I was wondering if you would like to buy this book set.
-   > **解析**：wondering (was wondering) 意为在想、不知是否。
+15. **中文**：我把它加到十五。
+   **英文**：I'll raise it to fifteen.
+   > **解析**：I'll 后接动词原形 raise；to fifteen 表示加到的数额。
 
-16. **中文**：如果你买下两件，我就给你一个很划算的价格。
-   **英文**：If you buy two items, I will give you a great deal.
-   > **解析**：deal 意为交易、好划算的价格。
+16. **中文**：这件状况很好。
+   **英文**：This piece is in good shape.
+   > **解析**：in good shape 是固定短语作表语"状况良好"。
 
-17. **中文**：我对今天在二手市场上买到的东西感到非常满意。
-   **英文**：I am very satisfied with my purchase at the market today.
-   > **解析**：purchase 意为购买的物品、采购。
+17. **中文**：这双靴子能穿很多年。
+   **英文**：These boots will last for years.
+   > **解析**：will 后接动词原形 last（持续）；for years 是时间段。
 
-18. **中文**：我们把这些整理好的杂物存放在地下室里。
-   **英文**：We will store these organized boxes in the basement.
-   > **解析**：store 意为储存、存放。
+18. **中文**：这是一次不错的购买。
+   **英文**：It was a good purchase.
+   > **解析**：purchase 作名词"购买之物"；a good purchase 作表语。
 
-19. **中文**：这件古董虽然破碎成几块，但依然很有价值。
-   **英文**：Even though this antique was in pieces, it was still valuable.
-   > **解析**：piece (in pieces) 意为碎片、块。
+19. **中文**：最后一件多少钱？
+   **英文**：How much is the last piece?
+   > **解析**：How much 问价格；the last piece 是单数主语，用 is。
 
-20. **中文**：这只瓷水壶的把手稍微有一点松动了。
-   **英文**：The handle on this ceramic teapot is a little bit loose.
-   > **解析**：handle 意为把手、手柄。
+20. **中文**：我在想这些垃圾该扔哪里。
+   **英文**：I'm wondering where to throw this junk.
+   > **解析**：wondering 后接 wh- 词引导的不定式 where to throw；junk 不可数。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. This vintage coat cost only ten dollars, so it was a steal.
-   > **中文**：这件复古大衣只要十美元，简直太便宜了！
+1. I'm emptying out the attic.
+   > **中文**：我正在清空阁楼。
 
-2. As an experienced bargain hunter, she always finds treasures at flea markets.
-   > **中文**：作为一名资深淘宝客，她总能在跳蚤市场找到好东西。
+2. This coat has been worn a few times.
+   > **中文**：这件外套被穿过几次。
 
-3. I plan to empty out all the old stuff from the garage this weekend.
-   > **中文**：我打算这周末把车库里的旧杂物全部清空。
+3. That's a steal.
+   > **中文**：这便宜得像白捡的。
 
-4. These old boots have been worn many times, but they remain sturdy.
-   > **中文**：这双旧靴子已经被穿过很多次了，但依然很坚固。
+4. It was a good deal.
+   > **中文**：真是笔好买卖。
 
-5. He bought a dusty old chair and managed to restore it.
-   > **中文**：他买下了一把积灰的老椅子，并把它完美修复了。
+5. These are reasonably priced.
+   > **中文**：这些商品价格合理。
 
-6. All the items in this second-hand shop are reasonably priced.
-   > **中文**：这家二手店里的所有物品都定价非常合理。
+6. She is a real bargain hunter.
+   > **中文**：她是个淘便宜货的高手。
 
-7. Fifty dollars is my final offer, I cannot go any lower.
-   > **中文**：五十美元是我的最终报价，不能再便宜了。
+7. Do you happen to know the price?
+   > **中文**：你碰巧知道价格吗？
 
-8. The attic is filled with old junk we haven't touched in years.
-   > **中文**：阁楼里塞满了我们多年没有动过的旧杂物。
+8. I'm wondering about this piece.
+   > **中文**：我想了解一下这件。
 
-9. He found a dusty old box on the very top of the shelf.
-   > **中文**：他在架子最顶层发现了一个积满灰尘的旧盒子。
+9. These boxes are dusty.
+   > **中文**：这些盒子积满了灰。
 
-10. Do you happen to have a spare lid for this old jar?
-   > **中文**：请问你碰巧有这个旧罐子的备用盖子吗？
+10. He restored the old chair.
+   > **中文**：他修复了那把旧椅子。
 
-11. Although this wooden table is old, it is still in good shape.
-   > **中文**：这张木桌虽然有些年头，但状况依然保持得很好。
+11. Store the boxes in the garage.
+   > **中文**：把箱子存放在车库里。
 
-12. She cleaned out an old fur coat from the back of the closet.
-   > **中文**：她在衣柜深处清理出了一件旧皮草大衣。
+12. The fur coat is unwanted now.
+   > **中文**：这件皮草没人想要了。
 
-13. Make sure the lid is tight before storing the box away.
-   > **中文**：在把盒子里装满东西前，确保把盖子盖紧。
+13. Check the lid and the handle.
+   > **中文**：检查一下盖子和把手。
 
-14. We decided to donate all our unwanted items to charity.
-   > **中文**：我们决定把所有不需要的物品捐赠给慈善机构。
+14. My final offer is twenty.
+   > **中文**：我的最后出价是二十。
 
-15. I was wondering if you would like to buy this book set.
-   > **中文**：我想知道你是否愿意买下这套旧书籍。
+15. I'll raise it to fifteen.
+   > **中文**：我把它加到十五。
 
-16. If you buy two items, I will give you a great deal.
-   > **中文**：如果你买下两件，我就给你一个很划算的价格。
+16. This piece is in good shape.
+   > **中文**：这件状况很好。
 
-17. I am very satisfied with my purchase at the market today.
-   > **中文**：我对今天在二手市场上买到的东西感到非常满意。
+17. These boots will last for years.
+   > **中文**：这双靴子能穿很多年。
 
-18. We will store these organized boxes in the basement.
-   > **中文**：我们把这些整理好的杂物存放在地下室里。
+18. It was a good purchase.
+   > **中文**：这是一次不错的购买。
 
-19. Even though this antique was in pieces, it was still valuable.
-   > **中文**：这件古董虽然破碎成几块，但依然很有价值。
+19. How much is the last piece?
+   > **中文**：最后一件多少钱？
 
-20. The handle on this ceramic teapot is a little bit loose.
-   > **中文**：这只瓷水壶的把手稍微有一点松动了。
+20. I'm wondering where to throw this junk.
+   > **中文**：我在想这些垃圾该扔哪里。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| a steal | 捡大便宜；极便宜的东西 |
+| --- | --- |
+| a steal | 超值的东西 |
 | bargain hunter | 淘便宜货的人 |
-| empty out | 清空；倒空 |
+| been | 是 / 在（过去分词） |
 | been worn | 被穿过 |
-| restore | 修复；恢复原状 |
-| reasonably priced | 价格合理的 |
-| final offer | 最终报价 |
-| junk | 杂物；废旧物品 |
-| dusty | 积满灰尘的 |
-| do you happen to | 你碰巧……吗 |
-| shape | 完好状况；状态 |
-| fur | 皮草；毛皮 |
+| deal | 交易 / 划算买卖 |
+| do you happen to | 你碰巧…吗 |
+| dusty | 积灰的 |
+| empty out | 清空 |
+| final offer | 最后出价 |
+| fur | 毛皮 |
+| handle | 把手 |
+| junk | 破烂 / 垃圾 |
+| last | 最后的 / 持续 |
 | lid | 盖子 |
-| unwanted | 不需要；多余的 |
-| wondering | 纳闷；在想 |
-| deal | 交易；好划算的价格 |
-| purchase | 购买；购得之物 |
-| store | 储存；存放 |
-| pieces | 件；块；碎片 |
-| handle | 把手；手柄 |
+| piece | 一件 |
+| purchase | 购买 |
+| raise | 加价 / 提高 |
+| reasonably priced | 定价合理 |
+| restore | 修复 |
+| shape | 形状 / 状况 |
+| store | 存放 / 商店 |
+| unwanted | 不再想要的 |
+| wondering | 想知道 |
+| is | 是 |
+| the | 这个（定冠词） |
+| attic | 阁楼 |
+| coat | 外套 |
+| price | 价格 |
+| chair | 椅子 |
+| garage | 车库 |
+| boots | 靴子 |
+| boxes | 盒子 |
+| years | 年 |
 
 </quiz-matching>
 
@@ -242,202 +246,202 @@ a steal, bargain hunter, been, been worn, deal, do you happen to, dusty, empty o
 
 ### 1
 
-This ____ coat cost only ten dollars, so it was a steal.
+I'm emptying ____ the attic.
 
-- [x] vintage
-- [ ] a steal
-- [ ] bargain hunter
+- [x] out
+- [ ] in
+- [ ] of
 
-> **解析**：**vintage** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：empty out 是固定短语"清空"；in 语义相反，of 不合该搭配。
 
 ### 2
 
-As an ____ bargain hunter, she always finds treasures at flea markets.
+This coat has been ____ a few times.
 
-- [x] experienced
-- [ ] a steal
-- [ ] bargain hunter
+- [x] worn
+- [ ] wear
+- [ ] wearing
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **experienced**。
+> **解析**：has been + 过去分词构成被动，worn 是 wear 的过去分词；wear 和 wearing 不合。
 
 ### 3
 
-I plan to empty out all the old stuff from the garage this ____.
+Ten dollars? That's a ____.
 
-- [x] weekend
-- [ ] a steal
-- [ ] bargain hunter
+- [x] steal
+- [ ] deal
+- [ ] lid
 
-> **解析**：**weekend** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a steal 是固定表达"超值"；deal 需搭配 good，lid 不合语境。
 
 ### 4
 
-These old boots have ____ worn many times, but they remain sturdy.
+It was a good ____.
 
-- [x] been
-- [ ] a steal
-- [ ] bargain hunter
+- [x] deal
+- [ ] dusty
+- [ ] restore
 
-> **解析**：**been** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a good deal（划算买卖）是固定搭配；dusty 是形容词，restore 是动词。
 
 ### 5
 
-He bought a ____ old chair and managed to restore it.
+These are reasonably ____.
 
-- [x] dusty
-- [ ] a steal
-- [ ] bargain hunter
+- [x] priced
+- [ ] price
+- [ ] pricing
 
-> **解析**：**dusty** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：be reasonably priced 是固定搭配，用过去分词 priced；price 是名词，pricing 不合。
 
 ### 6
 
-All the items in this ____ shop are reasonably priced.
+She is a real bargain ____.
 
-- [x] second-hand
-- [ ] a steal
-- [ ] bargain hunter
+- [x] hunter
+- [ ] hunting
+- [ ] hunt
 
-> **解析**：**second-hand** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：bargain hunter（淘便宜货的人）是固定复合名词；hunting 和 hunt 不合。
 
 ### 7
 
-Fifty ____ is my final offer, I cannot go any lower.
+Do you happen ____ know the price?
 
-- [x] dollars
-- [ ] a steal
-- [ ] bargain hunter
+- [x] to
+- [ ] for
+- [ ] of
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **dollars**。
+> **解析**：happen to + 动词原形是固定结构；for 和 of 不合。
 
 ### 8
 
-The attic is filled with old ____ we haven't touched in years.
+I'm wondering ____ this piece.
 
-- [x] junk
-- [ ] a steal
-- [ ] bargain hunter
+- [x] about
+- [ ] to
+- [ ] at
 
-> **解析**：**junk** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：wonder about 是固定搭配；to 后需接动词原形，at 不合该用法。
 
 ### 9
 
-He found a ____ old box on the very top of the shelf.
+These boxes are ____.
 
 - [x] dusty
-- [ ] a steal
-- [ ] bargain hunter
+- [ ] dust
+- [ ] deal
 
-> **解析**：**dusty** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：are 后需要形容词 dusty；dust 是名词，deal 不合语境。
 
 ### 10
 
-Do you happen to have a spare ____ for this old jar?
+He ____ the old chair.
 
-- [x] lid
-- [ ] a steal
-- [ ] bargain hunter
+- [x] restored
+- [ ] restore
+- [ ] restoring
 
-> **解析**：**lid** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句意需要谓语过去式 restored；restore 原形和 restoring 不合。
 
 ### 11
 
-Although this wooden table is old, it is still in good ____.
+____ the boxes in the garage.
 
-- [x] shape
-- [ ] a steal
-- [ ] bargain hunter
+- [x] Store
+- [ ] Worn
+- [ ] Been
 
-> **解析**：**shape** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：祈使句用动词原形 Store（存放）；Worn 和 Been 是过去分词，不能作祈使句谓语。
 
 ### 12
 
-She cleaned out an old ____ coat from the back of the closet.
+The fur coat is ____ now.
 
-- [x] fur
-- [ ] a steal
-- [ ] bargain hunter
+- [x] unwanted
+- [ ] want
+- [ ] wanting
 
-> **解析**：**fur** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 unwanted；want 和 wanting 不合。
 
 ### 13
 
-Make sure the ____ is tight before storing the box away.
+Check the ____ and the handle.
 
 - [x] lid
-- [ ] a steal
-- [ ] bargain hunter
+- [ ] shape
+- [ ] steal
 
-> **解析**：**lid** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：与 handle 并列的部件是 lid（盖子）；shape 和 steal 不是部件。
 
 ### 14
 
-We decided to donate all our ____ items to charity.
+My final ____ is twenty.
 
-- [x] unwanted
-- [ ] a steal
-- [ ] bargain hunter
+- [x] offer
+- [ ] shape
+- [ ] dust
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **unwanted**。
+> **解析**：My final offer（我的最后出价）搭配成立；shape 和 dust 语义不合。
 
 ### 15
 
-I was ____ if you would like to buy this book set.
+I'll raise ____ to fifteen.
 
-- [x] wondering
-- [ ] a steal
-- [ ] bargain hunter
+- [x] it
+- [ ] its
+- [ ] they
 
-> **解析**：**wondering** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：raise 的宾语用宾格代词 it；its 是物主代词，they 是主格。
 
 ### 16
 
-If you buy two items, I will give you a great ____.
+This piece is in good ____.
 
-- [x] deal
-- [ ] a steal
-- [ ] bargain hunter
+- [x] shape
+- [ ] lid
+- [ ] junk
 
-> **解析**：**deal** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：in good shape（状况良好）是固定短语；lid 和 junk 不合。
 
 ### 17
 
-I am very satisfied with my ____ at the market today.
+These boots will ____ for years.
 
-- [x] purchase
-- [ ] a steal
-- [ ] bargain hunter
+- [x] last
+- [ ] lasted
+- [ ] lasting
 
-> **解析**：**purchase** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：will 后接动词原形 last（持续）；lasted 和 lasting 不合。
 
 ### 18
 
-We will ____ these organized boxes in the basement.
+It was a good ____.
 
-- [x] store
-- [ ] a steal
-- [ ] bargain hunter
+- [x] purchase
+- [ ] dusty
+- [ ] been
 
-> **解析**：**store** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：a good purchase（不错的购买）成立；dusty 是形容词，been 不合。
 
 ### 19
 
-Even though this antique was in pieces, it was still ____.
+How much is the ____ piece?
 
-- [x] valuable
-- [ ] a steal
-- [ ] bargain hunter
+- [x] last
+- [ ] lasted
+- [ ] lasting
 
-> **解析**：**valuable** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 piece 需要形容词 last（最后的）；lasted 和 lasting 不合该位置。
 
 ### 20
 
-The ____ on this ceramic teapot is a little bit loose.
+I'm wondering where to throw this ____.
 
-- [x] handle
-- [ ] a steal
-- [ ] bargain hunter
+- [x] junk
+- [ ] bargain
+- [ ] raise
 
-> **解析**：**handle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：要扔的是 junk（垃圾）；bargain 和 raise 不合语境。
 
 </quiz-cloze>

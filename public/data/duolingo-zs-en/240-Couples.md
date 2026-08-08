@@ -10,38 +10,35 @@ a whole lot, agreement, an open mind, envy, eventually, frustration, gossip, in 
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元围绕"表达事情如何改变了"展开，场景是伴侣或亲密关系中的沟通。词表里有情感与态度词汇（frustration, envy, offensive, ridiculous, understandable, unreasonable），有建议与判断表达（should, ought to, might as well, tend to, used to, practically, eventually），也有关系与沟通词汇（therapist, therapy, agreement, gossip, yell, look down on, an open mind）。你可以用这些词谈论关系变化：We used to agree on everything, but eventually the frustration built up. / I ought to keep an open mind, but I tend to yell when I'm upset. / It's ridiculous—who cares what the gossip says? / In that case, we might as well see a therapist. / I take your word for it, but I can't help feeling envy. / It's understandable to feel that way, but it's unreasonable to look down on me.
+本单元的主题是"表达事情的变化"，场景围绕伴侣与亲密关系。词表可以分成四组：变化与习惯（used to, tend to, eventually, a whole lot）、情绪与评价（frustration, envy, offensive, ridiculous, unreasonable, understandable）、建议与态度（should, ought to, might as well, an open mind, who cares, look down on）、以及沟通与解决（agreement, gossip, need, yell, therapist, therapy, take your word for it, in that case, practically）。拼起来就是一段典型的关系对话：You used to listen to me, but now you yell. In that case, we should try therapy.
 
-这里值得注意 used to 和 tend to 的对比：used to 表"过去常常（现在不了）"，tend to 表"倾向于（现在的习惯）"。另外，ought to 和 should 基本同义，但 ought to 语气稍强，更强调"道义上应该"。
+语法主线是 used to 与 tend to 的对比：used to 表示"过去常常、现在已经不这样"（used to go out a lot），tend to 表示"现在的倾向"（We tend to argue about money）。另一条主线是建议表达的情态动词阶梯：should（应该）→ ought to（应当，稍正式）→ might as well（不妨、只好）。
 
-学完本单元，你可以用英语表达关系中的变化、不满和建议，并讨论寻求帮助的可能性。
+学完这个单元，你能用英语描述关系中的变化、表达情绪、给出建议，并讨论寻求帮助的选项。
 
 ## Tips
 
-- **used to / tend to** — used to = 过去常常（现在不了），tend to = 倾向于（现在的习惯）。搭配：used to do, tend to do。We used to get along. / I tend to yell when I'm frustrated. 注意 used to 后接动词原形，不要和 be used to（习惯于）混淆：I'm used to the noise.
+- **used to / tend to** — 本单元核心对比。used to + 动词原形表示过去持续的习惯，如今已改变：We used to go out every weekend. tend to 表示一贯倾向：They tend to arrive late. 注意 ✗ I use to go → ✓ I used to go，否定是 didn't use to。
 
-- **ought to / should / might as well** — ought to 和 should 都表"应该"，ought to 更强调道义/责任。might as well = 不妨、干脆。搭配：You ought to apologize. / You should talk to a therapist. / We might as well try therapy. 注意 might as well 带有"反正也没更好的选择"的意味。
+- **should / ought to / might as well** — 三层建议语气。should 最常用：You should talk to her. ought to 同义但更正式：You ought to apologize. might as well 表示"反正不妨、只好"：We might as well leave.
 
-- **therapist / therapy** — therapist 是治疗师/心理咨询师，therapy 是治疗/心理治疗。搭配：see a therapist, go to therapy, couples therapy。We're seeing a therapist. / Therapy helps. 注意 therapist 比 counselor 更专业，通常指有执照的心理治疗师。
+- **a whole lot / practically / eventually** — 三个程度与时间副词。a whole lot 加强比较级或动词：Things changed a whole lot. practically = 几乎：We practically never go out. eventually = 最终、迟早：Eventually, things got better.
 
-- **frustration / envy / offensive** — frustration 是挫败感，envy 是嫉妒，offensive 是冒犯的。搭配：feel frustration, out of envy, find sth offensive。My frustration is building up. / I feel envy when I see them. / That comment is offensive. 注意 envy 和 jealousy 的区别：envy 是"想要别人有的"，jealousy 是"怕失去自己有的"。
+- **frustration / envy / unreasonable / understandable** — 情绪与评价词。frustration 是挫败感；envy 是羡慕或嫉妒；unreasonable 指要求"不讲理的"，understandable 指情绪"可以理解的"。-able 后缀表示"可以……的"。
 
-- **understandable / unreasonable / ridiculous** — understandable = 可以理解的，unreasonable = 不讲理的，ridiculous = 荒谬的。搭配：It's understandable, be unreasonable, that's ridiculous。It's understandable to feel frustrated. / You're being unreasonable. / This gossip is ridiculous. 注意这三个词常用于评价对方或自己的行为。
+- **offensive / ridiculous** — 两个负面评价形容词。offensive = 冒犯人的：That joke was offensive. ridiculous = 荒唐可笑的：The rule is ridiculous.
 
-- **look down on / who cares** — look down on = 看不起，who cares = 谁在乎（口语，表不屑）。搭配：look down on sb, who cares about...。Don't look down on me. / Who cares what they think? 注意 look down on 是贬义的，比 disagree with 更伤人。
+- **look down on / who cares** — look down on = 看不起：Don't look down on him. who cares 是口语反问"谁在乎呢"，表示不在乎：Who cares what they say?
 
-- **take your word for it** — 相信你说的话、信你。搭配：I'll take your word for it, take my word for it。I'll take your word for it—but I still feel uneasy. 注意 take your word for it 暗示"我没有亲自验证，但选择相信"。
+- **an open mind / take your word for it** — keep an open mind = 保持开放心态；take your word for it = 相信你的话、听你说的算：I'll take your word for it.
 
-- **an open mind / agreement** — an open mind = 开放的心态，agreement = 一致/协议。搭配：keep an open mind, reach an agreement, in agreement。Try to keep an open mind. / We can't reach an agreement. 注意 open mind 搭配 keep / have / with：with an open mind。
+- **agreement / gossip / yell / need** — agreement 是"一致、协议"，动词 agree；gossip 是"八卦"，也可作动词；yell 是"大喊"：Don't yell at me. need 直接接名词或 to do。
 
-- **gossip / yell / practically** — gossip 是八卦/闲话，yell 是大喊，practically 是几乎/实际上。搭配：spread gossip, yell at sb, practically impossible。I'm tired of the gossip. / Don't yell at me! / We practically never agree anymore. 注意 practically 在口语中常 = almost：practically everyone。
+- **therapist / therapy** — therapist 是治疗师、心理咨询师；therapy 是治疗本身：couples therapy（伴侣咨询）。两词同源，-ist 指人，-y 指事。
 
-- **eventually / in that case / a whole lot** — eventually = 最终，in that case = 那样的话，a whole lot = 非常多。搭配：eventually we'll figure it out, in that case..., a whole lot better。Eventually, things changed. / In that case, let's try therapy. / I love you a whole lot. 注意 eventually 强调"经过一段时间后最终"。
-
-- **need / should** — need 表"需要"（必要性），should 表"应该"（建议）。搭配：need to do, should do。We need to talk. / You should apologize. 注意 need 比 should 更强调必要性：You need to stop yelling.（比 should 更紧迫）
+- **in that case** — "那样的话"，承接上文的假设：If you're tired, in that case let's stay home. 对话中用来顺势调整计划。
 
 ## 练习
 
@@ -59,176 +56,189 @@ a whole lot, agreement, an open mind, envy, eventually, frustration, gossip, in 
 
 <quiz-sentence-builder>
 
-1. **中文**：我们过去常常频繁争吵，但现在我们去看关系咨询师。
-   **英文**：We used to argue a whole lot, but now we see a relationship therapist.
-   > **解析**：therapist 意为治疗师、心理咨询师。
+1. **中文**：我们过去常常一起外出。
+   **英文**：We used to go out together.
+   > **解析**：used to + 动词原形表示过去的习惯；together 作副词修饰 go out。
 
-2. **中文**：情侣心理治疗帮助我们取得了相互的一致意见。
-   **英文**：Couples therapy helped us reach a mutual agreement.
-   > **解析**：therapy 意为心理治疗、咨询。
+2. **中文**：事情变化很大。
+   **英文**：Things have changed a whole lot.
+   > **解析**：现在完成时 have changed 表示变化已经发生；a whole lot 作程度状语。
 
-3. **中文**：你应该保持开放的心态，而不是快速做出判断。
-   **英文**：You ought to keep an open mind instead of making quick judgments.
-   > **解析**：an open mind 意为开放的心态。
+3. **中文**：他们倾向于为钱争吵。
+   **英文**：They tend to argue about money.
+   > **解析**：tend to + 动词原形表示"倾向于"；argue about 是固定搭配"就……争吵"。
 
-4. **中文**：她的挫败感是可以理解的，但她的要求是不讲理的。
-   **英文**：Her frustration was understandable, but her demand was unreasonable.
-   > **解析**：unreasonable 意为不讲理的。
+4. **中文**：最终，一切都好转了。
+   **英文**：Eventually, everything got better.
+   > **解析**：Eventually 作副词置于句首，用逗号隔开；got 是 get 的过去式。
 
-5. **中文**：我们不妨停止传播关于邻居的八卦。
-   **英文**：We might as well stop spreading gossip about our neighbors.
-   > **解析**：gossip 意为八卦、闲话。
+5. **中文**：你应该和她谈谈。
+   **英文**：You should talk to her.
+   > **解析**：should 后接动词原形；talk to 是固定搭配"与……交谈"。
 
-6. **中文**：那样的话，这次我就相信你说的话。
-   **英文**：In that case, I will take your word for it this time.
-   > **解析**：take your word for it 意为相信你说的话。
+6. **中文**：你应当道歉。
+   **英文**：You ought to apologize.
+   > **解析**：ought to 与 should 同义但更正式，后接动词原形 apologize。
 
-7. **中文**：人们往往会看不起那些经常对伴侣大喊大叫的人。
-   **英文**：People tend to look down on those who constantly yell at their partners.
-   > **解析**：look down on 意为看不起、蔑视。
+7. **中文**：我们不妨待在家里。
+   **英文**：We might as well stay home.
+   > **解析**：might as well 表示"不妨"，后接动词原形；home 作副词，前面不加介词。
 
-8. **中文**：谁在乎别人对我们的生活方式选择怎么看？
-   **英文**：Who cares what others think about our lifestyle choices?
-   > **解析**：who cares 意为谁在乎。
+8. **中文**：别看不起他。
+   **英文**：Don't look down on him.
+   > **解析**：否定祈使句用 Don't 开头；look down on 是固定短语"看不起"。
 
-9. **中文**：觉得他的言论具有冒犯性，她实际上拒绝和他说话。
-   **英文**：Finding his comments offensive, she practically refused to talk to him.
-   > **解析**：offensive 意为冒犯的。
+9. **中文**：谁在乎他们怎么说？
+   **英文**：Who cares what they say?
+   > **解析**：Who 作主语，谓语用单三 cares；what they say 是宾语从句。
 
-10. **中文**：对别人的成功感到嫉妒是荒谬的。
-   **英文**：It is ridiculous to feel envy over someone else's success.
-   > **解析**：ridiculous 意为荒谬的。
+10. **中文**：对那种玩笑我感到被冒犯了。
+   **英文**：I find that joke offensive.
+   > **解析**：find + 宾语 + 宾补结构；offensive 是形容词作补语。
 
-11. **中文**：最终，我们意识到我们应该更坦诚地沟通。
-   **英文**：Eventually, we realized that we should communicate more openly.
-   > **解析**：eventually 意为最终。
+11. **中文**：他的要求不讲理。
+   **英文**：His request is unreasonable.
+   > **解析**：unreasonable = un- + reasonable；is 连接主语和表语。
 
-12. **中文**：我们需要和平解决这个冲突，而不是大喊大叫。
-   **英文**：We need to solve this conflict peacefully without yelling.
-   > **解析**：yell 意为大喊大叫。
+12. **中文**：你的沮丧是可以理解的。
+   **英文**：Your frustration is understandable.
+   > **解析**：understandable 是形容词"可以理解的"；frustration 是不可数名词。
 
-13. **中文**：我过去认为情侣咨询是没有必要的。
-   **英文**：I used to think couples therapy was unnecessary.
-   > **解析**：used to 意为过去常常。
+13. **中文**：别冲我大喊大叫。
+   **英文**：Don't yell at me.
+   > **解析**：yell at 是固定搭配"冲……喊"；否定祈使句用 Don't 开头。
 
-14. **中文**：你不应该看不起寻求帮助的人。
-   **英文**：You should not look down on people who ask for help.
-   > **解析**：look down on 意为看不起。
+14. **中文**：我们相信你的话。
+   **英文**：We will take your word for it.
+   > **解析**：take your word for it 是固定短语"相信你的话"；will 后接动词原形。
 
-15. **中文**：那样的话，我们不妨今天给治疗师打电话。
-   **英文**：In that case, we might as well call the therapist today.
-   > **解析**：might as well 意为不妨、干脆。
+15. **中文**：那样的话，我们就晚点去。
+   **英文**：In that case, we will go later.
+   > **解析**：In that case 作衔接语置于句首；later 是 late 的比较级。
 
-16. **中文**：在讨论过程中，她感受到了极大的挫败感。
-   **英文**：She felt a whole lot of frustration during the discussion.
-   > **解析**：frustration 意为挫败感。
+16. **中文**：我们几乎从不吵架了。
+   **英文**：We practically never argue.
+   > **解析**：practically 修饰 never，表示"几乎从不"；argue 用原形与复数主语搭配。
 
-17. **中文**：期望任何人完美都是不切实际的。
-   **英文**：It is unreasonable to expect perfection from anyone.
-   > **解析**：unreasonable 意为不理智的、不切实际的。
+17. **中文**：这个规定太荒唐了。
+   **英文**：This rule is ridiculous.
+   > **解析**：ridiculous 是形容词作表语；单数主语搭配 is。
 
-18. **中文**：经过长时间的交谈，他们达成了一致意见。
-   **英文**：They reached an agreement after a long conversation.
-   > **解析**：agreement 意为一致意见、协议。
+18. **中文**：他们达成了协议。
+   **英文**：They reached an agreement.
+   > **解析**：reach an agreement 是固定搭配"达成协议"；an 用于元音音素开头的 agreement 前。
 
-19. **中文**：他往往通过讽刺性的言辞来表达他的嫉妒。
-   **英文**：He tends to express his envy through sarcastic remarks.
-   > **解析**：envy 意为嫉妒。
+19. **中文**：她正在接受伴侣咨询。
+   **英文**：She is in therapy with a therapist.
+   > **解析**：be in therapy 表示"正在接受治疗"；with a therapist 说明对象。
 
-20. **中文**：谁在乎一开始听起来是不是有点荒谬呢？
-   **英文**：Who cares if it sounds a bit ridiculous at first?
-   > **解析**：ridiculous 意为荒谬的。
+20. **中文**：保持开放的心态吧。
+   **英文**：Keep an open mind.
+   > **解析**：keep an open mind 是固定表达"保持开放心态"；祈使句以动词原形开头。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We used to argue a whole lot, but now we see a relationship therapist.
-   > **中文**：我们过去常常频繁争吵，但现在我们去看关系咨询师。
+1. We used to talk every night.
+   > **中文**：我们过去每晚都聊天。
 
-2. Couples therapy helped us reach a mutual agreement.
-   > **中文**：情侣心理治疗帮助我们取得了相互的一致意见。
+2. Things changed a whole lot.
+   > **中文**：事情变化很大。
 
-3. You ought to keep an open mind instead of making quick judgments.
-   > **中文**：你应该保持开放的心态，而不是快速做出判断。
+3. I tend to worry about money.
+   > **中文**：我总是为钱发愁。
 
-4. Her frustration was understandable, but her demand was unreasonable.
-   > **中文**：她的挫败感是可以理解的，但她的要求是不讲理的。
+4. Eventually, she told the truth.
+   > **中文**：最终，她说出了真相。
 
-5. We might as well stop spreading gossip about our neighbors.
-   > **中文**：我们不妨停止传播关于邻居的八卦。
+5. You should listen more.
+   > **中文**：你应该多听听。
 
-6. In that case, I will take your word for it this time.
-   > **中文**：那样的话，这次我就相信你说的话。
+6. You ought to say sorry.
+   > **中文**：你应当道歉。
 
-7. People tend to look down on those who constantly yell at their partners.
-   > **中文**：人们往往会看不起那些经常对伴侣大喊大叫的人。
+7. We might as well stay in.
+   > **中文**：我们不妨待在家里。
 
-8. Who cares what others think about our lifestyle choices?
-   > **中文**：谁在乎别人对我们的生活方式选择怎么看？
+8. Don't look down on me.
+   > **中文**：别看不起我。
 
-9. Finding his comments offensive, she practically refused to talk to him.
-   > **中文**：觉得他的言论具有冒犯性，她实际上拒绝和他说话。
+9. Who cares what they think?
+   > **中文**：谁在乎他们怎么想？
 
-10. It is ridiculous to feel envy over someone else's success.
-   > **中文**：对别人的成功感到嫉妒是荒谬的。
+10. That comment was offensive.
+   > **中文**：那条评论很冒犯人。
 
-11. Eventually, we realized that we should communicate more openly.
-   > **中文**：最终，我们意识到我们应该更坦诚地沟通。
+11. His demands are unreasonable.
+   > **中文**：他的要求不讲理。
 
-12. We need to solve this conflict peacefully without yelling.
-   > **中文**：我们需要和平解决这个冲突，而不是大喊大叫。
+12. Your feelings are understandable.
+   > **中文**：你的感受是可以理解的。
 
-13. I used to think couples therapy was unnecessary.
-   > **中文**：我过去认为情侣咨询是没有必要的。
+13. Stop yelling at me.
+   > **中文**：别再冲我大喊大叫。
 
-14. You should not look down on people who ask for help.
-   > **中文**：你不应该看不起寻求帮助的人。
+14. I will take your word for it.
+   > **中文**：我相信你的话。
 
-15. In that case, we might as well call the therapist today.
-   > **中文**：那样的话，我们不妨今天给治疗师打电话。
+15. In that case, let's wait.
+   > **中文**：那样的话，我们就等等吧。
 
-16. She felt a whole lot of frustration during the discussion.
-   > **中文**：在讨论过程中，她感受到了极大的挫败感。
+16. We practically never go out.
+   > **中文**：我们几乎从不外出了。
 
-17. It is unreasonable to expect perfection from anyone.
-   > **中文**：期望任何人完美都是不切实际的。
+17. This argument is ridiculous.
+   > **中文**：这场争吵太荒唐了。
 
-18. They reached an agreement after a long conversation.
-   > **中文**：经过长时间的交谈，他们达成了一致意见。
+18. We finally reached an agreement.
+   > **中文**：我们终于达成了一致。
 
-19. He tends to express his envy through sarcastic remarks.
-   > **中文**：他往往通过讽刺性的言辞来表达他的嫉妒。
+19. I need some time alone.
+   > **中文**：我需要一点独处的时间。
 
-20. Who cares if it sounds a bit ridiculous at first?
-   > **中文**：谁在乎一开始听起来是不是有点荒谬呢？
+20. Try to keep an open mind.
+   > **中文**：尽量保持开放的心态。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| used to | 过去常常 |
-| tend to | 倾向于；往往 |
-| ought to | 应该 |
-| might as well | 不妨；干脆 |
-| therapist | 治疗师；心理咨询师 |
-| therapy | 治疗；心理咨询 |
-| frustration | 挫败感；沮丧 |
-| envy | 嫉妒；羡慕 |
-| offensive | 冒犯的；无礼的 |
-| understandable | 可以理解的 |
-| unreasonable | 不讲理的；过分的 |
-| ridiculous | 荒谬的；可笑的 |
-| look down on | 看不起；轻视 |
-| who cares | 谁在乎 |
-| take your word for it | 相信你说的话 |
+| --- | --- |
+| a whole lot | 非常 / 很多 |
+| agreement | 一致 / 协议 |
 | an open mind | 开放的心态 |
-| agreement | 一致；协议 |
-| gossip | 八卦；闲话 |
-| yell | 大喊大叫 |
-| practically | 实际上；几乎 |
+| envy | 羡慕 / 嫉妒 |
+| eventually | 最终 |
+| frustration | 沮丧 / 挫败感 |
+| gossip | 八卦 |
+| in that case | 那样的话 |
+| look down on | 看不起 |
+| might as well | 不妨 |
+| need | 需要 |
+| offensive | 冒犯人的 |
+| ought to | 应当 |
+| practically | 几乎 |
+| ridiculous | 荒唐的 |
+| should | 应该 |
+| take your word for it | 相信你的话 |
+| tend to | 倾向于 |
+| therapist | 治疗师 |
+| therapy | 治疗 / 咨询 |
+| understandable | 可以理解的 |
+| unreasonable | 不讲理的 |
+| used to | 过去常常 |
+| who cares | 谁在乎 |
+| yell | 大喊 |
+| we | 我们 |
+| they | 他们 |
+| him | 他 |
+| her | 她 |
+| me | 我 |
+| finally | 终于 |
+| stop | 停止 |
+| try | 尝试 |
 
 </quiz-matching>
 
@@ -236,202 +246,202 @@ a whole lot, agreement, an open mind, envy, eventually, frustration, gossip, in 
 
 ### 1
 
-We used to argue a whole lot, but now we see a relationship ____.
+We ____ to eat out every Friday before we had kids.
 
-- [x] therapist
-- [ ] a whole lot
-- [ ] agreement
+- [x] used
+- [ ] use
+- [ ] using
 
-> **解析**：**therapist** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：表示过去的习惯用 used to + 动词原形；use to 是常见拼写错误，using 不合结构。
 
 ### 2
 
-Couples ____ helped us reach a mutual agreement.
+They tend ____ arrive late for dinner.
 
-- [x] therapy
-- [ ] a whole lot
-- [ ] agreement
+- [x] to
+- [ ] for
+- [ ] at
 
-> **解析**：**therapy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：tend to + 动词原形是固定结构；for 和 at 不能接动词原形。
 
 ### 3
 
-You ought to keep an open mind instead of making quick ____.
+Things have changed a whole ____ since last year.
 
-- [x] judgments
-- [ ] a whole lot
-- [ ] agreement
+- [x] lot
+- [ ] lots
+- [ ] little
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **judgments**。
+> **解析**：a whole lot 是固定搭配；a whole lots 和 a whole little 都不成立。
 
 ### 4
 
-Her ____ was understandable, but her demand was unreasonable.
+____, they learned to talk calmly.
 
-- [x] frustration
-- [ ] a whole lot
-- [ ] agreement
+- [x] Eventually
+- [ ] Eventual
+- [ ] Event
 
-> **解析**：**frustration** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句首需要副词 Eventually；Eventual 是形容词，Event 是名词。
 
 ### 5
 
-We might as well stop spreading ____ about our neighbors.
+You ____ talk to her about it right away.
 
-- [x] gossip
-- [ ] a whole lot
-- [ ] agreement
+- [x] should
+- [ ] should to
+- [ ] shoulds
 
-> **解析**：**gossip** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：should 后直接接动词原形，不加 to，也没有单三变化。
 
 ### 6
 
-In ____ case, I will take your word for it this time.
+You ought ____ apologize to her.
 
-- [x] that
-- [ ] a whole lot
-- [ ] agreement
+- [x] to
+- [ ] for
+- [ ] and
 
-> **解析**：**that** 为指示代词/限定词，指代单数远指事物，表示“那个”。
+> **解析**：ought to + 动词原形是固定结构；for 和 and 不能构成此搭配。
 
 ### 7
 
-People tend to look down on those who constantly ____ at their partners.
+We might ____ well order dinner at home.
 
-- [x] yell
-- [ ] a whole lot
-- [ ] agreement
+- [x] as
+- [ ] so
+- [ ] or
 
-> **解析**：**yell** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：might as well 是固定短语"不妨"；so 和 or 不能进入该结构。
 
 ### 8
 
-Who cares what others think about our ____ choices?
+Don't look down ____ people who disagree with you.
 
-- [x] lifestyle
-- [ ] a whole lot
-- [ ] agreement
+- [x] on
+- [ ] at
+- [ ] in
 
-> **解析**：**lifestyle** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：look down on 是固定搭配"看不起"；look down at 仅表示"向下看"。
 
 ### 9
 
-Finding his comments ____, she practically refused to talk to him.
+Who ____ what they think about us?
 
-- [x] offensive
-- [ ] a whole lot
-- [ ] agreement
+- [x] cares
+- [ ] care
+- [ ] caring
 
-> **解析**：**offensive** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Who 作主语视为单数，谓语用 cares；care 缺 s，caring 不能单独作谓语。
 
 ### 10
 
-It is ____ to feel envy over someone else's success.
+That kind of joke is really ____.
 
-- [x] ridiculous
-- [ ] a whole lot
-- [ ] agreement
+- [x] offensive
+- [ ] offense
+- [ ] offensively
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **ridiculous**。
+> **解析**：is 后需要形容词 offensive 作表语；offense 是名词，offensively 是副词。
 
 ### 11
 
-____, we realized that we should communicate more openly.
+Asking her to quit the job is ____.
 
-- [x] Eventually
-- [ ] a whole lot
-- [ ] agreement
+- [x] unreasonable
+- [ ] unreason
+- [ ] unreasoning
 
-> **解析**：**Eventually** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 unreasonable；unreason 不是正确构词，unreasoning 意为"不理智的"但搭配对象不同。
 
 ### 12
 
-We ____ to solve this conflict peacefully without yelling.
+Her sadness after the breakup is ____.
 
-- [x] need
-- [ ] a whole lot
-- [ ] agreement
+- [x] understandable
+- [ ] understand
+- [ ] understanding
 
-> **解析**：**need** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：is 后需要形容词 understandable；understand 是动词，understanding 作形容词时指人"善解人意的"。
 
 ### 13
 
-I used to think couples ____ was unnecessary.
+Please don't ____ at me when you are angry.
 
-- [x] therapy
-- [ ] a whole lot
-- [ ] agreement
+- [x] yell
+- [ ] yelled
+- [ ] yelling
 
-> **解析**：**therapy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：don't 后接动词原形 yell；yell at 表示"冲……喊"。
 
 ### 14
 
-You ____ not look down on people who ask for help.
+I don't know if it's true, but I'll take your ____ for it.
 
-- [x] should
-- [ ] a whole lot
-- [ ] agreement
+- [x] word
+- [ ] words
+- [ ] wording
 
-> **解析**：**should** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：take your word for it 是固定搭配，word 用单数；words 和 wording 不能构成该短语。
 
 ### 15
 
-In that case, we might as well call the ____ today.
+If he's busy, ____ that case, we can meet tomorrow.
 
-- [x] therapist
-- [ ] a whole lot
-- [ ] agreement
+- [x] in
+- [ ] on
+- [ ] at
 
-> **解析**：**therapist** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：in that case 是固定搭配"那样的话"；on 和 at 不能构成此表达。
 
 ### 16
 
-She felt a whole lot of ____ during the discussion.
+We ____ never see each other these days.
 
-- [x] frustration
-- [ ] a whole lot
-- [ ] agreement
+- [x] practically
+- [ ] practical
+- [ ] practice
 
-> **解析**：**frustration** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：修饰 never 需要副词 practically；practical 是形容词，practice 是名词。
 
 ### 17
 
-It is ____ to expect perfection from anyone.
+Their argument about the remote was ____.
 
-- [x] unreasonable
-- [ ] a whole lot
-- [ ] agreement
+- [x] ridiculous
+- [ ] ridicule
+- [ ] ridiculously
 
-> **解析**：**unreasonable** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：was 后需要形容词 ridiculous；ridicule 是名词或动词，ridiculously 是副词。
 
 ### 18
 
-They reached an ____ after a long conversation.
+After a long talk, they reached an ____.
 
 - [x] agreement
-- [ ] a whole lot
-- [ ] an open mind
+- [ ] agree
+- [ ] agreeing
 
-> **解析**：**agreement** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：an 后需要名词 agreement；agree 是动词，agreeing 是动名词。
 
 ### 19
 
-He tends to express his ____ through sarcastic remarks.
+Their marriage got better after six months of ____.
 
-- [x] envy
-- [ ] a whole lot
-- [ ] agreement
+- [x] therapy
+- [ ] therapist
+- [ ] therapies
 
-> **解析**：**envy** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：of 后需要不可数用法的名词 therapy（治疗过程）；therapist 是人，复数 therapies 不合语境。
 
 ### 20
 
-Who cares if it sounds a bit ____ at first?
+Try to keep ____ open mind about his idea.
 
-- [x] ridiculous
-- [ ] a whole lot
-- [ ] agreement
+- [x] an
+- [ ] a
+- [ ] the
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **ridiculous**。
+> **解析**：open 以元音音素开头，用 an；keep an open mind 是固定表达。
 
 </quiz-cloze>

@@ -10,44 +10,33 @@ all in all, away, blinds, company, draw attention, dust, get, goes without sayin
 
 </quiz-word-list>
 
-
 ## 单元讲解
 
-本单元的场景是"有客人要来，赶紧打扫"，交际任务是"为迎接访客做准备"。词表里有清洁动作（tidy up, scrub, dust, throw out, pack），有清洁用品（paper towels, toilet paper, blinds），也有描述标准和评价的表达（good enough, professionally, impression, goes without saying）。你可以练习这样的叙述：We have company coming over, so we need to tidy up—scrub the bathroom, dust the shelves, and throw out the junk. / It goes without saying that the toilet paper and paper towels need to be stocked. / All in all, it doesn't have to be perfect, just good enough to make a good impression.
+本单元的主题是"为来访者做准备"，场景是客人来之前的大扫除。词表可以分成四组：清洁动作（tidy up, dust, scrub, throw out, pack, get, away）、清洁用品与对象（blinds, paper towels, toilet paper, household, dust）、时间与评价（in time, good enough, good thinking, all in all, goes without saying, professionally, impression）、以及待办与要求（to-do list, think it over, have to be, need to be, without, company, draw attention）。拼起来就是一段迎客准备：Company is coming. We have to tidy up in time. Let's start with the to-do list.
 
-词表里有几组表达"必要性"的结构：have to be / need to be 都是被动语态的必要性表达（The bathroom needs to be scrubbed.）。goes without saying 是"不言而喻"，用来强调某事理所当然。good thinking 是口语中的赞同表达，相当于"好主意、想得周到"。
+语法主线有两条。第一条是"义务 + 状态"：have to be / need to be 后接形容词或被动形式，描述必须达到的状态：The bathroom needs to be spotless.（浴室得一尘不染。）第二条是副词修饰动作：clean professionally（专业地打扫）、finish in time（及时完成），副词位置与含义是本单元的隐形重点。company 的"客人"义也是关键：We have company tonight.（今晚有客人。）
+
+学完这单元，你能用英语安排迎客大扫除：列待办清单、分配清洁任务、评价打扫效果，还能讨论给客人留下什么印象。
 
 ## Tips
 
-- **tidy up** — 整理、收拾。搭配：tidy up the living room / tidy up before guests arrive / a quick tidy-up。比 clean 更侧重"把东西归位、让空间看起来整齐"，而不是深度清洁。例句：Let's tidy up—company is coming in an hour!
+- **company / impression** — 迎客核心词。company 除了"公司"，还有"客人、陪伴"义：We're expecting company.（我们在等客人。）impression 是印象：make a good impression（留下好印象）。两词构成迎客逻辑：客人来，印象很重要。
 
-- **scrub** — 用力擦洗。搭配：scrub the floor / scrub the bathroom / scrub a stain。比 wash 和 clean 更强调"用力、费劲地擦"，通常用于顽固污渍或需要使劲的表面。例句：I had to scrub the kitchen for an hour.
+- **tidy up / dust / scrub / throw out** — 清洁四动词。tidy up 是整理（tidy + up）；dust 作动词是"除尘"（注意：给家具除尘是 dust the furniture）；scrub 是用力擦洗：scrub the floor。throw out 是扔掉：throw out the junk。
 
-- **dust** — 除尘、擦灰。做动词：dust the shelves / dust the furniture。做名词：a layer of dust / full of dust。注意 dust 做动词时意思是"擦掉灰尘"，不是"撒上灰尘"（那是 dust with sugar 之类的用法）。
+- **blinds / paper towels / toilet paper** — 家居用品。blinds 是百叶窗，常用复数；paper towels 是厨房纸巾；toilet paper 是卫生纸。paper 复合词是生活英语高频。
 
-- **throw out** — 扔掉、丢弃。搭配：throw out the trash / throw out old stuff / throw out the junk。等于 throw away。例句：We need to throw out all these old magazines before the guests arrive. 注意和 throw up（呕吐）区分。
+- **to-do list / think it over** — 待办两词。to-do list 是待办清单（to do + list，连字符连接）；think it over 是"仔细考虑"，代词宾语 it 必须放中间。
 
-- **goes without saying** — 不言而喻、不用说也知道。搭配：It goes without saying that... / As goes without saying...。例句：It goes without saying that the bathroom needs to be clean. 用来强调某事太明显了，不需要特别提。
+- **have to be / need to be** — 义务两式。have to be 强调客观要求：Everything has to be perfect. need to be 强调需要：The towels need to be clean. 两者后都接形容词或过去分词。
 
-- **company** — 这里指"客人、访客"，不是"公司"。搭配：have company / expect company / company is coming。例句：We're having company tonight, so let's clean up. 注意这个义项中 company 不可数，不说 a company（那是"一家公司"）。
+- **in time / professionally / all in all** — 时间与评价。in time 是"及时"（赶在截止前），与 on time（准时）不同；professionally 是"专业地"：clean professionally。all in all 是"总的来说"：All in all, it looks great.
 
-- **impression** — 印象。搭配：make a good impression / first impression / leave an impression。例句：A clean house makes a great first impression. 注意 make an impression on someone（给某人留下印象）。动词是 impress。
+- **good enough / good thinking / goes without saying** — 评价三语。good enough 是"够好了"，enough 后置；Good thinking!（好主意！）是口语称赞；It goes without saying.（不言而喻。）
 
-- **blinds** — 百叶窗。通常用复数。搭配：close the blinds / open the blinds / window blinds。例句：The blinds are dusty—let's wipe them down. 注意和 curtains（窗帘，布艺的）区分：blinds 是硬质的（塑料、金属、木质），curtains 是软布。
+- **household / draw attention** — 家庭与注意。household 是"家庭、家用的"：household chores。draw attention 是"吸引注意"：The stain draws attention.（污渍太显眼了。）
 
-- **good enough / professionally** — good enough = 足够好、过得去：It doesn't have to be perfect, just good enough. professionally = 专业地、像专业人士一样：She cleans professionally. / The house was professionally cleaned. 两者在语境中形成对比：自己打扫到 good enough 就行，不必 professionally。
-
-- **to-do list** — 待办事项清单。搭配：make a to-do list / check off the to-do list / a long to-do list。例句：My to-do list: scrub the bathroom, dust the shelves, pack away the clutter. 注意有连字符，口语中常说 to-do list。
-
-- **paper towels / toilet paper** — 厨房纸巾和卫生纸。paper towels 是擦手、擦台面用的厚纸巾；toilet paper 是卫生间用的卷纸。搭配：a roll of paper towels / a roll of toilet paper / stock up on paper towels。注意两者不可互换。
-
-- **all in all** — 总的来说、总而言之。搭配：All in all, it was a good day. / All in all, the house looks decent. 用于总结性评价。例句：All in all, the place is good enough for a quick visit. 类似表达：overall / on the whole / all things considered。
-
-- **think it over** — 仔细考虑、想一想。搭配：think it over / take your time and think it over / I'll think it over。例句：Do we need to clean the garage too? Let me think it over. 比 think about 更强调"花时间认真考虑"。
-
-- **draw attention** — 引起注意。搭配：draw attention to something / draw attention away from。例句：A messy entryway draws attention—let's tidy it up first. 反义：avoid drawing attention（避免引人注目）。注意 draw 这里是"吸引"，不是"画画"。
-
-- **household** — 家庭的、家用的。搭配：household chores / household items / a household name。例句：We need more household supplies—paper towels, toilet paper, and cleaning products. 做名词时指"一家人、住户"：a household of four。
+- **pack / get / away / without** — 功能词组。pack 是打包；get... away 表示"把…收走"：Get these boxes away. without 是"没有"：without help。
 
 ## 练习
 
@@ -65,176 +54,190 @@ all in all, away, blinds, company, draw attention, dust, get, goes without sayin
 
 <quiz-sentence-builder>
 
-1. **中文**：客人半小时后就要到了，我们赶紧把客厅整理一下。
-   **英文**：Company is coming in half an hour, so let's tidy up the living room.
-   > **解析**：tidy up 意为整理、收拾。
+1. **中文**：今晚有客人要来。
+   **英文**：We have company tonight.
+   > **解析**：company 在此指"客人"；tonight 作时间状语放句末。
 
-2. **中文**：我花了半个小时用劲擦洗浴室地板上的污渍。
-   **英文**：I spent half an hour scrubbing the tough stains on the floor.
-   > **解析**：scrub 意为用力擦洗。
+2. **中文**：一切必须及时准备好。
+   **英文**：Everything has to be ready in time.
+   > **解析**：has to be 后接形容词 ready；in time 表示"及时"。
 
-3. **中文**：请拿一块湿布给架子和桌子擦掉灰尘。
-   **英文**：Please use a damp cloth to dust the shelves and table.
-   > **解析**：dust 意为除尘、擦灰。
+3. **中文**：浴室需要一尘不染。
+   **英文**：The bathroom needs to be spotless.
+   > **解析**：needs to be 后接形容词 spotless；The bathroom 是单数主语，need 加 s。
 
-4. **中文**：我们必须在朋友们来之前把这些旧报纸扔掉。
-   **英文**：We must throw out these old newspapers before friends arrive.
-   > **解析**：throw out 意为扔掉、丢弃。
+4. **中文**：先把待办清单列出来。
+   **英文**：Let's make the to-do list first.
+   > **解析**：let's 后接动词原形 make；the to-do list 作宾语。
 
-5. **中文**：不言而喻，卫生间在客人来访前必须保持干净。
-   **英文**：It goes without saying that the bathroom needs to be clean.
-   > **解析**：goes without saying 意为不言而喻、不用说。
+5. **中文**：先把客厅整理一下。
+   **英文**：Tidy up the living room first.
+   > **解析**：祈使句 Tidy up 开头；the living room 作宾语。
 
-6. **中文**：我们今晚家里有客人要来，所以要把房子打扫干净。
-   **英文**：We are having company tonight, so we must clean the house.
-   > **解析**：company 意为客人、访客。
+6. **中文**：我给家具除尘。
+   **英文**：I'll dust the furniture.
+   > **解析**：I'll 后接动词原形 dust（除尘）；the furniture 是不可数名词。
 
-7. **中文**：干净整洁的房屋能给到访的客人留下良好的第一印象。
-   **英文**：A clean house will make a good first impression on visitors.
-   > **解析**：impression 意为印象。
+7. **中文**：他用力擦洗了地板。
+   **英文**：He scrubbed the floor hard.
+   > **解析**：scrubbed 是 scrub 的过去式；hard 副词修饰 scrubbed。
 
-8. **中文**：百叶窗上积了不少灰尘，我们把它 wipe down 一下吧。
-   **英文**：The window blinds are dusty, so let me wipe them down.
-   > **解析**：blinds 意为百叶窗。
+8. **中文**：把这些旧杂志扔掉。
+   **英文**：Throw out these old magazines.
+   > **解析**：祈使句；throw out 是动副短语，名词宾语放后面。
 
-9. **中文**：房屋不需要打扫得完美无瑕，过得去就可以了。
-   **英文**：The place doesn't have to be perfect, just good enough.
-   > **解析**：good enough 意为足够好、过得去。
+9. **中文**：把这些箱子收走。
+   **英文**：Get these boxes away.
+   > **解析**：祈使句；get... away 表示"把…收走"，these boxes 作宾语。
 
-10. **中文**：我们不需要请专业保洁，自己快速收拾一下就行。
-   **英文**：We don't need the house cleaned professionally, just a quick sweep.
-   > **解析**：professionally 意为专业地。
+10. **中文**：把百叶窗拉起来。
+   **英文**：Open the blinds, please.
+   > **解析**：祈使句；the blinds 常用复数；please 放句末表礼貌。
 
-11. **中文**：我列出了一份打扫待办事项清单，方便我们分工合作。
-   **英文**：I made a cleaning to-do list so we can share the tasks.
-   > **解析**：to-do list 意为待办事项清单。
+11. **中文**：我们没纸巾了。
+   **英文**：We're out of paper towels.
+   > **解析**：be out of 是固定短语"用完了"；paper towels 用复数。
 
-12. **中文**：我们需要去超市买一卷厨房纸巾来擦拭台面。
-   **英文**：We need to buy a roll of paper towels to wipe the counter.
-   > **解析**：paper towels 意为厨房纸巾。
+12. **中文**：别忘了买卫生纸。
+   **英文**：Don't forget to buy toilet paper.
+   > **解析**：否定祈使句 Don't forget；to buy 是不定式，toilet paper 不可数。
 
-13. **中文**：别忘了检查卫生间里的卫生纸是否充足。
-   **英文**：Don't forget to check if there is enough toilet paper in the bathroom.
-   > **解析**：toilet paper 意为卫生纸。
+13. **中文**：污渍太显眼了。
+   **英文**：The stain draws attention.
+   > **解析**：draws 与单数主语 The stain 一致；draw attention 是固定搭配。
 
-14. **中文**：总而言之，我们在客人到达之前把家里收拾得井井有条。
-   **英文**：All in all, we organized the house well before guests arrived.
-   > **解析**：all in all 意为总而言之。
+14. **中文**：我们想给客人留下好印象。
+   **英文**：We want to make a good impression.
+   > **解析**：want to 后接动词原形；make a good impression 是固定搭配。
 
-15. **中文**：提醒我先补充卫生纸真是想得周到！
-   **英文**：Reminding me to restock paper towels was good thinking!
-   > **解析**：good thinking 意为想得周到、好主意。
+15. **中文**：她打扫得很专业。
+   **英文**：She cleans professionally.
+   > **解析**：cleans 与 She 一致；professionally 副词修饰 cleans。
 
-16. **中文**：把这些角落里的杂物收起来，不要吸引客人的注意。
-   **英文**：Put away the clutter so it doesn't draw attention.
-   > **解析**：draw attention 意为吸引注意。
+16. **中文**：总的来说，看起来很不错。
+   **英文**：All in all, it looks great.
+   > **解析**：All in all 作总结状语放句首；looks 是系动词，great 作表语。
 
-17. **中文**：我们必须在客人到达前及时完成卫生间的打扫。
-   **英文**：We must finish cleaning the bathroom in time before company arrives.
-   > **解析**：in time 意为及时。
+17. **中文**：这就够好了。
+   **英文**：That's good enough.
+   > **解析**：enough 作副词放在形容词 good 之后。
 
-18. **中文**：在买昂贵的清洁工具之前，你应该先仔细考虑一下。
-   **英文**：You should think it over before buying expensive cleaning tools.
-   > **解析**：think it over 意为仔细考虑。
+18. **中文**：好主意！
+   **英文**：Good thinking!
+   > **解析**：口语称赞用语，thinking 在此是名词化的动名词"想法"。
 
-19. **中文**：桌子上的碗碟需要在客人到之前洗干净。
-   **英文**：The dishes on the table need to be washed before guests arrive.
-   > **解析**：need to be 意为需要被……。
+19. **中文**：不言而喻，厨房必须干净。
+   **英文**：It goes without saying that the kitchen has to be clean.
+   > **解析**：It goes without saying that... 是固定句型，that 引出真正内容。
 
-20. **中文**：每个人都在分担家庭打扫的家务活。
-   **英文**：Everyone is helping with the daily household chores.
-   > **解析**：household 意为家庭的。
+20. **中文**：你好好考虑一下这个计划。
+   **英文**：Think it over before you decide.
+   > **解析**：think over 是动副短语，代词 it 必须放中间；before 引导时间状语从句。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Company is coming in half an hour, so let's tidy up the living room.
-   > **中文**：客人半小时后就要到了，我们赶紧把客厅整理一下。
+1. We have company tonight.
+   > **中文**：今晚有客人要来。
 
-2. I spent half an hour scrubbing the tough stains on the floor.
-   > **中文**：我花了半个小时用劲擦洗浴室地板上的污渍。
+2. Everything has to be ready in time.
+   > **中文**：一切必须及时准备好。
 
-3. Please use a damp cloth to dust the shelves and table.
-   > **中文**：请拿一块湿布给架子和桌子擦掉灰尘。
+3. The bathroom needs to be spotless.
+   > **中文**：浴室需要一尘不染。
 
-4. We must throw out these old newspapers before friends arrive.
-   > **中文**：我们必须在朋友们来之前把这些旧报纸扔掉。
+4. Let's make the to-do list first.
+   > **中文**：先把待办清单列出来。
 
-5. It goes without saying that the bathroom needs to be clean.
-   > **中文**：不言而喻，卫生间在客人来访前必须保持干净。
+5. Tidy up the living room first.
+   > **中文**：先把客厅整理一下。
 
-6. We are having company tonight, so we must clean the house.
-   > **中文**：我们今晚家里有客人要来，所以要把房子打扫干净。
+6. I'll dust the furniture.
+   > **中文**：我给家具除尘。
 
-7. A clean house will make a good first impression on visitors.
-   > **中文**：干净整洁的房屋能给到访的客人留下良好的第一印象。
+7. He scrubbed the floor hard.
+   > **中文**：他用力擦洗了地板。
 
-8. The window blinds are dusty, so let me wipe them down.
-   > **中文**：百叶窗上积了不少灰尘，我们把它 wipe down 一下吧。
+8. Throw out these old magazines.
+   > **中文**：把这些旧杂志扔掉。
 
-9. The place doesn't have to be perfect, just good enough.
-   > **中文**：房屋不需要打扫得完美无瑕，过得去就可以了。
+9. Get these boxes away.
+   > **中文**：把这些箱子收走。
 
-10. We don't need the house cleaned professionally, just a quick sweep.
-   > **中文**：我们不需要请专业保洁，自己快速收拾一下就行。
+10. Open the blinds, please.
+   > **中文**：把百叶窗拉起来。
 
-11. I made a cleaning to-do list so we can share the tasks.
-   > **中文**：我列出了一份打扫待办事项清单，方便我们分工合作。
+11. We're out of paper towels.
+   > **中文**：我们没纸巾了。
 
-12. We need to buy a roll of paper towels to wipe the counter.
-   > **中文**：我们需要去超市买一卷厨房纸巾来擦拭台面。
+12. Don't forget to buy toilet paper.
+   > **中文**：别忘了买卫生纸。
 
-13. Don't forget to check if there is enough toilet paper in the bathroom.
-   > **中文**：别忘了检查卫生间里的卫生纸是否充足。
+13. The stain draws attention.
+   > **中文**：污渍太显眼了。
 
-14. All in all, we organized the house well before guests arrived.
-   > **中文**：总而言之，我们在客人到达之前把家里收拾得井井有条。
+14. We want to make a good impression.
+   > **中文**：我们想给客人留下好印象。
 
-15. Reminding me to restock paper towels was good thinking!
-   > **中文**：提醒我先补充卫生纸真是想得周到！
+15. She cleans professionally.
+   > **中文**：她打扫得很专业。
 
-16. Put away the clutter so it doesn't draw attention.
-   > **中文**：把这些角落里的杂物收起来，不要吸引客人的注意。
+16. All in all, it looks great.
+   > **中文**：总的来说，看起来很不错。
 
-17. We must finish cleaning the bathroom in time before company arrives.
-   > **中文**：我们必须在客人到达前及时完成卫生间的打扫。
+17. That's good enough for today.
+   > **中文**：今天就够好了。
 
-18. You should think it over before buying expensive cleaning tools.
-   > **中文**：在买昂贵的清洁工具之前，你应该先仔细考虑一下。
+18. Good thinking!
+   > **中文**：好主意！
 
-19. The dishes on the table need to be washed before guests arrive.
-   > **中文**：桌子上的碗碟需要在客人到之前洗干净。
+19. It goes without saying that the kitchen has to be clean.
+   > **中文**：不言而喻，厨房必须干净。
 
-20. Everyone is helping with the daily household chores.
-   > **中文**：每个人都在分担家庭打扫的家务活。
+20. Think it over before you decide.
+   > **中文**：你好好考虑一下再决定。
 
 </quiz-listening>
 
 <quiz-matching>
 
 | 英文单词 | 课文释义 |
-| :--- | :--- |
-| tidy up | 整理；收拾 |
-| scrubbing | 用力擦洗 |
-| dust | 除尘；擦灰 |
-| throw out | 扔掉；丢弃 |
-| goes without saying | 不言而喻；不用说 |
-| company | 客人；访客 |
-| impression | 印象 |
+| --- | --- |
+| all in all | 总的来说 |
+| away | 离开 / 收走 |
 | blinds | 百叶窗 |
-| good enough | 足够好；过得去 |
-| professionally | 专业地 |
-| to-do list | 待办事项清单 |
-| paper towels | 厨房纸巾 |
-| toilet paper | 卫生纸 |
-| All in all | 总而言之 |
-| good thinking | 想得周到；好主意 |
-| draw | 吸引注意 |
+| company | 客人 / 公司 |
+| draw attention | 吸引注意 |
+| dust | 灰尘 / 除尘 |
+| get | 得到 / 使… |
+| goes without saying | 不言而喻 |
+| good enough | 够好 |
+| good thinking | 好主意 |
+| have to be | 必须是 |
+| household | 家庭的 / 家用的 |
+| impression | 印象 |
 | in time | 及时 |
+| need to be | 需要是 |
+| pack | 打包 |
+| paper towels | 纸巾 |
+| professionally | 专业地 |
+| scrub | 用力擦洗 |
 | think it over | 仔细考虑 |
-| need to be | 需要被…… |
-| household | 家庭的 |
+| throw out | 扔掉 |
+| tidy up | 整理 |
+| to-do list | 待办清单 |
+| toilet paper | 卫生纸 |
+| without | 没有 |
+| is | 是 |
+| the | 这个（定冠词） |
+| floor | 地板 |
+| kitchen | 厨房 |
+| bathroom | 浴室 |
+| magazines | 杂志 |
+| boxes | 箱子 |
+| clean | 干净的 |
+| spotless | 一尘不染的 |
 
 </quiz-matching>
 
@@ -242,202 +245,202 @@ all in all, away, blinds, company, draw attention, dust, get, goes without sayin
 
 ### 1
 
-____ is coming in half an hour, so let's tidy up the living room.
+We have ____ tonight.
 
-- [x] Company
-- [ ] all in all
-- [ ] away
+- [x] company
+- [ ] impression
+- [ ] blinds
 
-> **解析**：**Company** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：have company 表示"有客人"；impression 和 blinds 不合该搭配。
 
 ### 2
 
-I spent half an hour ____ the tough stains on the floor.
+Everything has to be ready in ____.
 
-- [x] scrubbing
-- [ ] all in all
-- [ ] away
+- [x] time
+- [ ] list
+- [ ] attention
 
-> **解析**：**scrubbing** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：in time（及时）是固定短语；list 和 attention 不合。
 
 ### 3
 
-Please use a damp cloth to ____ the shelves and table.
+The bathroom needs to be ____.
 
-- [x] dust
-- [ ] all in all
-- [ ] away
+- [x] spotless
+- [ ] household
+- [ ] to-do
 
-> **解析**：**dust** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：needs to be 后接形容词 spotless；household 语义不合，to-do 不是形容词。
 
 ### 4
 
-We must throw out these old ____ before friends arrive.
+Let's make the to-____ list first.
 
-- [x] newspapers
-- [ ] all in all
-- [ ] away
+- [x] do
+- [ ] did
+- [ ] done
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **newspapers**。
+> **解析**：to-do list（待办清单）是固定搭配；did 和 done 不合。
 
 ### 5
 
-It goes ____ saying that the bathroom needs to be clean.
+____ up the living room first.
 
-- [x] without
-- [ ] all in all
-- [ ] away
+- [x] Tidy
+- [ ] Dust
+- [ ] Pack
 
-> **解析**：**without** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：tidy up（整理）是固定短语；dust 和 pack 不与 up 构成该义。
 
 ### 6
 
-We are having ____ tonight, so we must clean the house.
+I'll ____ the furniture.
 
-- [x] company
-- [ ] all in all
-- [ ] away
+- [x] dust
+- [ ] dusty
+- [ ] dusts
 
-> **解析**：**company** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：I'll 后接动词原形 dust（除尘）；dusty 是形容词，dusts 是单三形式。
 
 ### 7
 
-A clean house will make a good first ____ on visitors.
+He ____ the floor hard.
 
-- [x] impression
-- [ ] all in all
-- [ ] away
+- [x] scrubbed
+- [ ] scrub
+- [ ] scrubbing
 
-> **解析**：**impression** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：句意需要谓语过去式 scrubbed；scrub 原形和 scrubbing 不合。
 
 ### 8
 
-The window ____ are dusty, so let me wipe them down.
+Throw ____ these old magazines.
 
-- [x] blinds
-- [ ] all in all
-- [ ] away
+- [x] out
+- [ ] up
+- [ ] in
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **blinds**。
+> **解析**：throw out 是固定短语"扔掉"；throw up 是"呕吐"，语义不同。
 
 ### 9
 
-The place ____ have to be perfect, just good enough.
+Get these boxes ____.
 
-- [x] doesn't
-- [ ] all in all
-- [ ] away
+- [x] away
+- [ ] enough
+- [ ] saying
 
-> **解析**：**doesn't** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：get... away 表示"把…收走"；enough 和 saying 不合。
 
 ### 10
 
-We don't need the house cleaned ____, just a quick sweep.
+Open the ____, please.
 
-- [x] professionally
-- [ ] all in all
-- [ ] away
+- [x] blinds
+- [ ] stain
+- [ ] thinking
 
-> **解析**：**professionally** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：能"拉开"的是 blinds（百叶窗）；stain 和 thinking 不合。
 
 ### 11
 
-I made a ____ to-do list so we can share the tasks.
+We're out of paper ____.
 
-- [x] cleaning
-- [ ] all in all
-- [ ] away
+- [x] towels
+- [ ] blinds
+- [ ] papers
 
-> **解析**：**cleaning** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：paper towels（纸巾）是固定搭配；blinds 和 papers 不合。
 
 ### 12
 
-We need to buy a roll of paper towels to wipe the ____.
+Don't forget to buy toilet ____.
 
-- [x] counter
-- [ ] all in all
-- [ ] away
+- [x] paper
+- [ ] towel
+- [ ] list
 
-> **解析**：**counter** 为形容词/副词比较级，用于两者之间的对比。
+> **解析**：toilet paper（卫生纸）是固定搭配；towel 和 list 不合。
 
 ### 13
 
-Don't forget to check if there is enough toilet paper in the ____.
+The stain draws ____.
 
-- [x] bathroom
-- [ ] all in all
-- [ ] away
+- [x] attention
+- [ ] impression
+- [ ] company
 
-> **解析**：**bathroom** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：draw attention（吸引注意）是固定搭配；impression 和 company 不合。
 
 ### 14
 
-All in all, we ____ the house well before guests arrived.
+We want to make a good ____.
 
-- [x] organized
-- [ ] all in all
-- [ ] away
+- [x] impression
+- [ ] attention
+- [ ] household
 
-> **解析**：句中描述过去发生的事情，谓语动词使用过去式 **organized**。
+> **解析**：make a good impression（留下好印象）是固定搭配；attention 和 household 不合。
 
 ### 15
 
-____ me to restock paper towels was good thinking!
+She cleans ____.
 
-- [x] Reminding
-- [ ] all in all
-- [ ] away
+- [x] professionally
+- [ ] professional
+- [ ] profession
 
-> **解析**：**Reminding** 为动词的现在分词/动名词形式，配合句中语法结构。
+> **解析**：修饰动词 cleans 需要副词 professionally；professional 是形容词，profession 是名词。
 
 ### 16
 
-Put ____ the clutter so it doesn't draw attention.
+All in ____, it looks great.
 
-- [x] away
-- [ ] all in all
-- [ ] blinds
+- [x] all
+- [ ] away
+- [ ] time
 
-> **解析**：**away** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：all in all（总的来说）是固定短语；away 和 time 不合该搭配。
 
 ### 17
 
-We must finish cleaning the bathroom in time before ____ arrives.
+That's good ____.
 
-- [x] company
-- [ ] all in all
-- [ ] away
+- [x] enough
+- [ ] thinking
+- [ ] saying
 
-> **解析**：**company** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：good enough（够好）中 enough 后置；thinking 和 saying 不合。
 
 ### 18
 
-You should think it over before buying ____ cleaning tools.
+Good ____!
 
-- [x] expensive
-- [ ] all in all
-- [ ] away
+- [x] thinking
+- [ ] think
+- [ ] thinks
 
-> **解析**：**expensive** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：Good thinking（好主意）是固定称赞语，thinking 名词化；think 和 thinks 是动词形式，不合。
 
 ### 19
 
-The ____ on the table need to be washed before guests arrive.
+It goes without ____ that the kitchen has to be clean.
 
-- [x] dishes
-- [ ] all in all
-- [ ] away
+- [x] saying
+- [ ] say
+- [ ] said
 
-> **解析**：主语为第三人称单数，谓语动词使用单三形式 **dishes**。
+> **解析**：goes without saying（不言而喻）是固定短语；say 和 said 不合。
 
 ### 20
 
-Everyone is helping with the daily ____ chores.
+Think it ____ before you decide.
 
-- [x] household
-- [ ] all in all
-- [ ] away
+- [x] over
+- [ ] out
+- [ ] up
 
-> **解析**：**household** 符合句意表达，作为句中的核心词汇补全句子。
+> **解析**：think over 是固定短语"仔细考虑"；think out 和 think up（编造）语义不同。
 
 </quiz-cloze>
