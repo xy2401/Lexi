@@ -30,11 +30,12 @@ const searchQuery = ref('')
 const currentPage = ref(1)
 const pageSize = ref(20)
 
-// 规则多选开关 (默认全部未勾选：不展示常规变化)
-const showS = ref(false)     // -s / -es
-const showEd = ref(false)    // -ed / -d
-const showIng = ref(false)   // -ing
-const showIes = ref(false)   // y -> ies / ied
+// 规则多选开关 (非常规派生默认选中，常规派生默认未选中)
+const showIrregular = ref(true) // 非常规派生 / 不规则
+const showS = ref(false)         // -s / -es
+const showEd = ref(false)        // -ed / -d
+const showIng = ref(false)       // -ing
+const showIes = ref(false)       // y -> ies / ied
 
 onMounted(async () => {
   try {
@@ -51,36 +52,41 @@ onMounted(async () => {
   }
 })
 
-// 判定某个变体在当前多选设置下是否可见
-function isVariantVisible(type: string): boolean {
-  if (type === 'irregular' || type === 'same') return true
-  if (type === 's' && showS.value) return true
-  if (type === 'ed' && showEd.value) return true
-  if (type === 'ing' && showIng.value) return true
-  if (type === 'ies' && showIes.value) return true
+// 检查某个词族是否满足当前勾选的类型规则
+function shouldShowFamily(entry: LemmaEntry): boolean {
+  if (entry.variants.length === 0) return showIrregular.value
+
+  for (const v of entry.variants) {
+    if ((v.type === 'irregular' || v.type === 'same') && showIrregular.value) return true
+    if (v.type === 's' && showS.value) return true
+    if (v.type === 'ed' && showEd.value) return true
+    if (v.type === 'ing' && showIng.value) return true
+    if (v.type === 'ies' && showIes.value) return true
+  }
   return false
 }
 
-// 得到某词族在当前过滤规则下的有效变体列表
+// 得到某词族下的完整变体列表（匹配的词族内部派生 100% 完整展示，不再二次过滤）
 function getVisibleVariants(entry: LemmaEntry): LemmaVariant[] {
-  return entry.variants.filter(v => isVariantVisible(v.type))
+  return entry.variants
 }
 
 // 过滤后的词族列表
 const filteredEntries = computed(() => {
   const q = searchQuery.value.trim().toLowerCase()
-  if (!q) return entries.value
-
-  // 支持双向反查：查看 search 词是否在 reverseMap 中映射到某个原词
-  const mappedLemma = reverseMap.value[q]
+  const mappedLemma = searchQuery.value ? reverseMap.value[q] : null
 
   return entries.value.filter(item => {
+    // 1. 先进行规则筛选：如果该词族完全不包含已勾选的规则，则隐藏该词族
+    if (!shouldShowFamily(item)) return false
+
+    // 2. 无搜索词时，直接通过规则筛选
+    if (!q) return true
+
+    // 3. 有搜索词时，检查原词、映射词或变体词匹配
     const lemmaLower = item.lemma.toLowerCase()
-    // 直接匹配原词
     if (lemmaLower.includes(q)) return true
-    // 匹配映射的原词
     if (mappedLemma && lemmaLower === mappedLemma.toLowerCase()) return true
-    // 匹配变体词
     return item.variants.some(v => v.word.toLowerCase().includes(q))
   })
 })
@@ -107,12 +113,11 @@ function speak(word: string, e: Event) {
 
 function getTypeLabel(type: string): string {
   switch (type) {
-    case 'irregular': return '不规则/派生'
-    case 's': return '复数/单三 (-s)'
-    case 'ed': return '过去式 (-ed)'
-    case 'ing': return '进行时 (-ing)'
-    case 'ies': return 'y变ies/ied'
-    default: return '变体'
+    case 's': return '-s'
+    case 'ed': return '-ed'
+    case 'ing': return '-ing'
+    case 'ies': return '-ies'
+    default: return ''
   }
 }
 </script>
@@ -133,25 +138,29 @@ function getTypeLabel(type: string): string {
         <button v-if="searchQuery" class="clear-btn" @click="searchQuery = ''; resetPagination()">&times;</button>
       </div>
 
-      <!-- 规则多选过滤栏 (默认全未勾选) -->
+      <!-- 规则多选过滤栏 -->
       <div class="rules-filter-bar">
-        <span class="rules-title">常规变形显示开关 (默认已隐藏常规变化):</span>
+        <span class="rules-title">词族筛选条件 (包含已勾选规则的词族才会在列表中展示):</span>
         <div class="checkboxes-group">
+          <label class="checkbox-label highlight">
+            <input type="checkbox" v-model="showIrregular" @change="resetPagination" />
+            <span>包含非常规派生 / 不规则 (默认选中)</span>
+          </label>
           <label class="checkbox-label">
             <input type="checkbox" v-model="showS" @change="resetPagination" />
-            <span>常规复数/单三 (-s / -es)</span>
+            <span>包含常规复数/单三 (-s / -es)</span>
           </label>
           <label class="checkbox-label">
             <input type="checkbox" v-model="showEd" @change="resetPagination" />
-            <span>常规过去式 (-ed / -d)</span>
+            <span>包含常规过去式 (-ed / -d)</span>
           </label>
           <label class="checkbox-label">
             <input type="checkbox" v-model="showIng" @change="resetPagination" />
-            <span>常规进行时 (-ing)</span>
+            <span>包含常规进行时 (-ing)</span>
           </label>
           <label class="checkbox-label">
             <input type="checkbox" v-model="showIes" @change="resetPagination" />
-            <span>y 变 ies / ied (-ies / -ied)</span>
+            <span>包含 y 变 ies / ied (-ies / -ied)</span>
           </label>
         </div>
       </div>
@@ -160,7 +169,7 @@ function getTypeLabel(type: string): string {
     <!-- 状态指示 -->
     <div v-if="loading" class="status-box">加载词族演变库中...</div>
     <div v-else-if="error" class="status-box error">{{ error }}</div>
-    <div v-else-if="filteredEntries.length === 0" class="status-box">未找到匹配的词族</div>
+    <div v-else-if="filteredEntries.length === 0" class="status-box">未找到匹配的词族（您可以勾选更多规则多选框以展开更多词族）</div>
 
     <!-- 词族卡片列表 -->
     <div v-else class="cards-list">
@@ -177,19 +186,15 @@ function getTypeLabel(type: string): string {
 
         <!-- 变体拓扑网格 -->
         <div class="card-body">
-          <div v-if="getVisibleVariants(item).length === 0" class="no-variants-hint">
-            该词族在此过滤规则下暂无特殊/不规则变体（勾选上方多选框可展开常规变体）
-          </div>
-
-          <div v-else class="variant-grid">
+          <div class="variant-grid">
             <div
-              v-for="v in getVisibleVariants(item)"
+              v-for="v in item.variants"
               :key="v.word"
               :class="['variant-chip', v.type]"
               @click="selectWord(v.word)"
             >
               <span class="v-word">{{ v.word }}</span>
-              <span class="v-type">{{ getTypeLabel(v.type) }}</span>
+              <span class="v-type" v-if="getTypeLabel(v.type)">{{ getTypeLabel(v.type) }}</span>
             </div>
           </div>
         </div>
