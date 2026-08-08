@@ -51,83 +51,176 @@ had / hadn't 是过去完成时，用来讲述家族往事：She hadn't met her 
 
 <quiz-sentence-builder>
 
-1. **中文**：我的曾祖母在九十五岁高龄时依然健康健在。  
-   **英文**：My great-grandmother is still healthy and alive at ninety-five years old.
-   > **解析**：alive 为表语形容词，意为“活着的、健在的”，通常作表语修饰主语（is still alive）。
+1. **中文**：可喜的是，我的百岁曾祖母依然健康地活着。
+   **英文**：My great-grandmother is still alive and well at ninety.
+   > **解析**：alive 表示“活着的/有生气的”。
 
-2. **中文**：我母亲像对待亲生女儿一样对待她的儿媳妇。  
-   **英文**：My mother treated her daughter-in-law like her own daughter.
-   > **解析**：daughter-in-law 为复合名词，意为“儿媳妇”，复数形式为 daughters-in-law。
+2. **中文**：我们聘请了一位细心的保姆在周末照看孩子。
+   **英文**：We hired a reliable babysitter for Friday night.
+   > **解析**：babysitter 表示“保姆/临时照看孩子的人”。
 
-3. **中文**：这位老人怀抱他刚出生的曾孙子，感到激动不已。  
-   **英文**：The elderly man was thrilled to hold his newborn great-grandson in his arms.
-   > **解析**：great-grandson 为复合名词，意为“曾孙、外曾孙”。
+3. **中文**：我的儿媳妇是一位非常有经验的儿科医生。
+   **英文**：My daughter-in-law prepared a fantastic family meal.
+   > **解析**：daughter-in-law 表示“儿媳/儿媳妇”。
 
-4. **中文**：只有直系亲属成员被邀请参加了这次私人周年纪念晚餐。  
-   **英文**：Only members of the immediate family were invited to the private anniversary dinner.
-   > **解析**：immediate 在此处作定语，immediate family 意为“直系亲属/近亲”（指父母、配偶、子女、同胞）。
+4. **中文**：逢年过节时，我们庞大的大家庭都会聚在一起。
+   **英文**：Our extended family gets together every summer.
+   > **解析**：extended family 表示“大家庭/旁系亲友”。
 
-5. **中文**：家庭聚会上的大多数客人都是中年成年人。  
-   **英文**：Most of the guests at the family reunion were middle-aged adults.
-   > **解析**：middle-aged 为复合形容词，意为“中年的”（通常指 40 到 60 岁），修饰 adults。
+5. **中文**：这间健身房每周三专门为女性会员开班。
+   **英文**：The club opened a new group for female members.
+   > **解析**：female 表示“女性的/女的”。
 
-6. **中文**：我哥哥和我嫂子（弟媳）刚刚搬进了我们父母附近的新房子。  
-   **英文**：My brother and my sister-in-law just moved into a new house near our parents.
-   > **解析**：sister-in-law 为复合名词，意为“嫂子、弟媳、教姐、教妹”，复数 sisters-in-law。
+6. **中文**：我的曾祖母常给孩子们讲述过去的老故事。
+   **英文**：My great-grandmother loves to share old stories with us.
+   > **解析**：great-grandmother 表示“曾祖母/外曾祖母”。
 
-7. **中文**：自从她还是个小孩起，她的继父就一直在支持她的教育。  
-   **英文**：Her stepfather has been supporting her education since she was a little child.
-   > **解析**：stepfather 为可数名词，意为“继父”，指母亲后结婚的丈夫。
+7. **中文**：老人非常疼爱他活泼可爱的曾孙。
+   **英文**：The grandfather is proud of his young great-grandson.
+   > **解析**：great-grandson 表示“曾孙/外曾孙”。
 
-8. **中文**：在我们外出时，我们请了一位值得信赖的临时保姆照看我们的孩子。  
-   **英文**：We hired a trusted babysitter to look after our children while we went out.
-   > **解析**：babysitter 为可数名词，意为“看护小孩者、临时保姆”。
+8. **中文**：紧急联系人仅限于你的直系亲属成员。
+   **英文**：He invited only members of his immediate family.
+   > **解析**：immediate family 表示“直系亲属/核心家庭”。
 
-9. **中文**：每年春天我们家族所有的女性亲属都会聚在一起度过传统的烘焙日。  
-   **英文**：All female relatives in our family gather every spring for a traditional baking day.
-   > **解析**：female 在此处作形容词，意为“女性的”，修饰复数名词 relatives。
+9. **中文**：假期里我们要去拜访住在加州的的姻亲公婆。
+   **英文**：We are going to visit our in-laws this holiday season.
+   > **解析**：in-laws 表示“姻亲/公婆/岳父母”。
 
-10. **中文**：我叔叔在四十岁时就已经有了三个孩子。  
-   **英文**：My uncle had three children by the time he reached forty years old.
-   > **解析**：had 是 have 的过去式，在此处表示过去拥有的家庭状况（had three children）。
+10. **中文**：俱乐部里男性成员和女性成员各占一半。
+   **英文**：Both male and female athletes joined the marathon.
+   > **解析**：male 表示“男性的/男的”。
+
+11. **中文**：那位中年男子是社区公园的志愿者管理者。
+   **英文**：A middle-aged man helped guide us through the park.
+   > **解析**：middle-aged 表示“中年的/中年人的”。
+
+12. **中文**：我的岳母做意式烤肉的厨艺非常棒。
+   **英文**：My mother-in-law baked a delicious cake for my birthday.
+   > **解析**：mother-in-law 表示“岳母/婆婆”。
+
+13. **中文**：老爷爷在九十岁高龄时安详地去世了。
+   **英文**：Her grandfather passed away peacefully last night.
+   > **解析**：passed away 表示“去世/过世”。
+
+14. **中文**：我的嫂子在市中心经营着一家花店。
+   **英文**：My sister-in-law is an experienced interior designer.
+   > **解析**：sister-in-law 表示“嫂子/弟媳/姑子/姨子”。
+
+15. **中文**：他们的女婿在一家国际科技公司担任工程师。
+   **英文**：Their son-in-law works as a software developer.
+   > **解析**：son-in-law 表示“女婿”。
+
+16. **中文**：经过多年的矛盾，那对夫妻最终决定分手了。
+   **英文**：The couple decided to split up after five years.
+   > **解析**：split up 表示“分手/分居/拆散”。
+
+17. **中文**：她的继父对待她就像亲生女儿一样好。
+   **英文**：Her stepfather taught her how to drive a car.
+   > **解析**：stepfather 表示“继父”。
+
+18. **中文**：他的继母为他准备了丰盛的生日午餐。
+   **英文**：His stepmother cooks delicious meals for the family.
+   > **解析**：stepmother 表示“继母”。
+
+19. **中文**：我和我的几位高中堂兄弟关系非常亲密。
+   **英文**：She is very close with all of her cousins.
+   > **解析**：close 表示“亲密的/近的”。
+
+20. **中文**：听到那个幽默的笑话后，大家开怀大笑。
+   **英文**：The funny joke made everyone in the room laugh out loud.
+   > **解析**：laugh 表示“发笑/笑”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. My great-grandmother is still healthy and alive at ninety-five years old.
-   > **中文**：我的曾祖母在九十五岁高龄时依然健康健在。
+1. My great-grandmother is still alive and well at ninety.
+   > **中文**：可喜的是，我的百岁曾祖母依然健康地活着。
 
-2. My mother treated her daughter-in-law like her own daughter.
-   > **中文**：我母亲像对待亲生女儿一样对待她的儿媳妇。
+2. We hired a reliable babysitter for Friday night.
+   > **中文**：我们聘请了一位细心的保姆在周末照看孩子。
 
-3. The elderly man was thrilled to hold his newborn great-grandson in his arms.
-   > **中文**：这位老人怀抱他刚出生的曾孙子，感到激动不已。
+3. My daughter-in-law prepared a fantastic family meal.
+   > **中文**：我的儿媳妇是一位非常有经验的儿科医生。
 
-4. Only members of the immediate family were invited to the private anniversary dinner.
-   > **中文**：只有直系亲属成员被邀请参加了这次私人周年纪念晚餐。
+4. Our extended family gets together every summer.
+   > **中文**：逢年过节时，我们庞大的大家庭都会聚在一起。
 
-5. Most of the guests at the family reunion were middle-aged adults.
-   > **中文**：家庭聚会上的大多数客人都是中年成年人。
+5. The club opened a new group for female members.
+   > **中文**：这间健身房每周三专门为女性会员开班。
 
-6. My brother and my sister-in-law just moved into a new house near our parents.
-   > **中文**：我哥哥和我嫂子（弟媳）刚刚搬进了我们父母附近的新房子。
+6. My great-grandmother loves to share old stories with us.
+   > **中文**：我的曾祖母常给孩子们讲述过去的老故事。
 
-7. Her stepfather has been supporting her education since she was a little child.
-   > **中文**：自从她还是个小孩起，她的继父就一直在支持她的教育。
+7. The grandfather is proud of his young great-grandson.
+   > **中文**：老人非常疼爱他活泼可爱的曾孙。
 
-8. We hired a trusted babysitter to look after our children while we went out.
-   > **中文**：在我们外出时，我们请了一位值得信赖的临时保姆照看我们的孩子。
+8. He invited only members of his immediate family.
+   > **中文**：紧急联系人仅限于你的直系亲属成员。
 
-9. All female relatives in our family gather every spring for a traditional baking day.
-   > **中文**：每年春天我们家族所有的女性亲属都会聚在一起度过传统的烘焙日。
+9. We are going to visit our in-laws this holiday season.
+   > **中文**：假期里我们要去拜访住在加州的的姻亲公婆。
 
-10. My uncle had three children by the time he reached forty years old.
-   > **中文**：我叔叔在四十岁时就已经有了三个孩子。
+10. Both male and female athletes joined the marathon.
+   > **中文**：俱乐部里男性成员和女性成员各占一半。
+
+11. A middle-aged man helped guide us through the park.
+   > **中文**：那位中年男子是社区公园的志愿者管理者。
+
+12. My mother-in-law baked a delicious cake for my birthday.
+   > **中文**：我的岳母做意式烤肉的厨艺非常棒。
+
+13. Her grandfather passed away peacefully last night.
+   > **中文**：老爷爷在九十岁高龄时安详地去世了。
+
+14. My sister-in-law is an experienced interior designer.
+   > **中文**：我的嫂子在市中心经营着一家花店。
+
+15. Their son-in-law works as a software developer.
+   > **中文**：他们的女婿在一家国际科技公司担任工程师。
+
+16. The couple decided to split up after five years.
+   > **中文**：经过多年的矛盾，那对夫妻最终决定分手了。
+
+17. Her stepfather taught her how to drive a car.
+   > **中文**：她的继父对待她就像亲生女儿一样好。
+
+18. His stepmother cooks delicious meals for the family.
+   > **中文**：他的继母为他准备了丰盛的生日午餐。
+
+19. She is very close with all of her cousins.
+   > **中文**：我和我的几位高中堂兄弟关系非常亲密。
+
+20. The funny joke made everyone in the room laugh out loud.
+   > **中文**：听到那个幽默的笑话后，大家开怀大笑。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| alive | 活着的 |
+| babysitter | 保姆 / 代看孩子者 |
+| daughter-in-law | 儿媳 |
+| extended family | 大家庭 |
+| female | 女性的 |
+| great-grandmother | 曾祖母 |
+| great-grandson | 曾孙 |
+| immediate family | 直系亲属 |
+| in-laws | 姻亲 / 公婆岳父母 |
+| male | 男性的 |
+| middle-aged | 中年的 |
+| mother-in-law | 岳母 / 婆婆 |
+| passed away | 去世（pass away的过去式） |
+| sister-in-law | 嫂子 / 弟媳 / 姑子 |
+| son-in-law | 女婿 |
+| split up | 分手 / 分居 |
+| stepfather | 继父 |
+| stepmother | 继母 |
+| close | 亲密的 |
+| laugh | 笑 / 发笑 |
 
 </quiz-matching>
 
@@ -135,102 +228,202 @@ had / hadn't 是过去完成时，用来讲述家族往事：She hadn't met her 
 
 ### 1
 
-My great-grandmother is still healthy and `____` at ninety-five years old.
+My ____ is still alive and well at ninety.
 
-- [x] alive
+- [x] great-grandmother
+- [ ] alive
 - [ ] babysitter
-- [ ] female
 
-> **解析**：alive 为表语形容词，意为“活着的、健在的”，通常作表语修饰主语（is still alive）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-My mother treated her `____` like her own daughter.
+We hired a reliable ____ for Friday night.
 
-- [x] daughter-in-law
-- [ ] babysitter
-- [ ] great-grandmother
+- [x] babysitter
+- [ ] alive
+- [ ] close
 
-> **解析**：daughter-in-law 为复合名词，意为“儿媳妇”，复数形式为 daughters-in-law。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The elderly man was thrilled to hold his newborn `____` in his arms.
+My ____ prepared a fantastic family meal.
 
-- [x] great-grandson
-- [ ] close
-- [ ] great-grandmother
+- [x] daughter-in-law
+- [ ] alive
+- [ ] babysitter
 
-> **解析**：great-grandson 为复合名词，意为“曾孙、外曾孙”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Only members of the `____` family were invited to the private anniversary dinner.
+Our ____ family gets together every summer.
 
-- [x] immediate
-- [ ] daughter-in-law
-- [ ] great-grandson
+- [x] extended
+- [ ] alive
+- [ ] babysitter
 
-> **解析**：immediate 在此处作定语，immediate family 意为“直系亲属/近亲”（指父母、配偶、子女、同胞）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Most of the guests at the family reunion were `____` adults.
+The club opened a new group for ____ members.
 
-- [x] middle-aged
-- [ ] extended family
-- [ ] had
+- [x] female
+- [ ] alive
+- [ ] babysitter
 
-> **解析**：middle-aged 为复合形容词，意为“中年的”（通常指 40 到 60 岁），修饰 adults。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-My brother and my `____` just moved into a new house near our parents.
+My ____ loves to share old stories with us.
 
-- [x] sister-in-law
-- [ ] female
-- [ ] hadn't
+- [x] great-grandmother
+- [ ] alive
+- [ ] babysitter
 
-> **解析**：sister-in-law 为复合名词，意为“嫂子、弟媳、教姐、教妹”，复数 sisters-in-law。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Her `____` has been supporting her education since she was a little child.
+The grandfather is proud of his young ____.
 
-- [x] stepfather
-- [ ] great-grandmother
-- [ ] immediate
+- [x] great-grandson
+- [ ] alive
+- [ ] babysitter
 
-> **解析**：stepfather 为可数名词，意为“继父”，指母亲后结婚的丈夫。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-We hired a trusted `____` to look after our children while we went out.
+He invited only members of his ____ family.
 
-- [x] babysitter
-- [ ] had
-- [ ] laugh
+- [x] immediate
+- [ ] alive
+- [ ] babysitter
 
-> **解析**：babysitter 为可数名词，意为“看护小孩者、临时保姆”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-All `____` relatives in our family gather every spring for a traditional baking day.
+We are going to visit our ____ this holiday season.
 
-- [x] female
-- [ ] hadn't
-- [ ] male
+- [x] in-laws
+- [ ] alive
+- [ ] babysitter
 
-> **解析**：female 在此处作形容词，意为“女性的”，修饰复数名词 relatives。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-My uncle `____` three children by the time he reached forty years old.
+Both ____ and female athletes joined the marathon.
 
-- [x] had
-- [ ] immediate
-- [ ] middle-aged
+- [x] male
+- [ ] alive
+- [ ] babysitter
 
-> **解析**：had 是 have 的过去式，在此处表示过去拥有的家庭状况（had three children）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+A ____ man helped guide us through the park.
+
+- [x] middle-aged
+- [ ] alive
+- [ ] babysitter
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+My ____ baked a delicious cake for my birthday.
+
+- [x] mother-in-law
+- [ ] alive
+- [ ] babysitter
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Her ____ passed away peacefully last night.
+
+- [x] grandfather
+- [ ] alive
+- [ ] babysitter
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+My ____ is an experienced interior designer.
+
+- [x] sister-in-law
+- [ ] alive
+- [ ] babysitter
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Their ____ works as a software developer.
+
+- [x] son-in-law
+- [ ] alive
+- [ ] babysitter
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The couple decided to ____ up after five years.
+
+- [x] split
+- [ ] alive
+- [ ] babysitter
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Her ____ taught her how to drive a car.
+
+- [x] stepfather
+- [ ] alive
+- [ ] babysitter
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+His ____ cooks delicious meals for the family.
+
+- [x] stepmother
+- [ ] alive
+- [ ] babysitter
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+She is very ____ with all of her cousins.
+
+- [x] close
+- [ ] alive
+- [ ] babysitter
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+The funny joke made everyone in the room ____ out loud.
+
+- [x] laugh
+- [ ] alive
+- [ ] babysitter
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

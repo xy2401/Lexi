@@ -61,83 +61,176 @@ on the other hand 表示"另一方面"（用于对比）。farther / farthest �
 
 <quiz-sentence-builder>
 
-1. **中文**：独自旅行让你能够完全自由地规划每日行程。  
-   **英文**：Traveling solo gives you complete freedom to plan your daily schedule.
-   > **解析**：solo 作形容词/副词，意为“单独的，独自的”。travel solo 表示“独自旅行”。
+1. **中文**：作为一名单人旅行者，他第一次独自踏上了前往另一个大洲的旅程。  
+   **英文**：As a solo traveler, he landed on another continent for the first time.
+   > **解析**：solo traveler 表示“单人旅行者/独行客”；for the first time 表示“第一次”；continent 表示“大洲/大陆”。
 
-2. **中文**：经验丰富的旅行者总是轻装简行并妥善保管证件。  
-   **英文**：An experienced traveler always packs light and keeps documents safe.
-   > **解析**：traveler 作可数名词，意为“旅行者，游客”。在句中作主语。
+2. **中文**：到达机场后，我们需要通过护照检查窗口。  
+   **英文**：Upon arrival at the airport, we went through passport control.
+   > **解析**：arrival 表示“到达/抵达”；passport control 表示“护照检查/边检”。
 
-3. **中文**：跟团游很有条理；另一方面，独自旅行更加灵活。  
-   **英文**：Group tours are organized; on the other hand, solo trips are more flexible.
-   > **解析**：on the other hand 为固定短语，作连接副词意为“另一方面”，用于对比。
+3. **中文**：你可以乘坐免费接驳车前往附近的酒店。  
+   **英文**：You can take a free shuttle to the nearby hotel.
+   > **解析**：shuttle 表示“接驳车/班车”；nearby 表示“附近的”。
 
-4. **中文**：航班降落后，我们在护照检查处接受了签证检查。  
-   **英文**：We had our visas checked at passport control after our flight landed.
-   > **解析**：passport control 为名词短语，意为“护照检查处，边检”。
+4. **中文**：另一方面，在异国他乡旅行时他偶尔会感到想家。  
+   **英文**：On the other hand, he felt homesick while traveling abroad.
+   > **解析**：on the other hand 表示“另一方面”；homesick 表示“想家的/思乡的”。
 
-5. **中文**：请查看机场航站楼的到达告示牌获取登机口信息。  
-   **英文**：Please check the arrival board at the airport terminal for gate information.
-   > **解析**：arrival 作名词，意为“到达，到达区”。arrival board 指“到达航班告示牌”。
+5. **中文**：请在阳台上放松一下，我来帮你拆行李。  
+   **英文**：Please relax on the patio over there while I unpack the bags.
+   > **解析**：patio 表示“露台/天井”；over there 表示“在那边”；unpack 表示“打开包裹/拆行李”。
 
-6. **中文**：在旅游旺季提前预订酒店房间是明智之举。  
-   **英文**：It is wise to reserve your hotel room in advance during peak season.
-   > **解析**：reserve 作及物动词，意为“预订，保留”。reserve a room 意为“订房间”。
+6. **中文**：你需要提前预订公共交通的票以节省费用。  
+   **英文**：You should reserve public transportation tickets in advance.
+   > **解析**：reserve 表示“预订”；public transportation 表示“公共交通”。
 
-7. **中文**：我们乘坐免费的酒店接驳车直接从机场到达房间。  
-   **英文**：We took the complimentary hotel shuttle from the airport directly to our room.
-   > **解析**：shuttle (shuttle bus) 作名词，意为“接驳车，班车”。
+7. **中文**：飞机即将降落，请支付额外的行李票价。  
+   **英文**：The plane will land soon, so pay the extra luggage fare.
+   > **解析**：land 表示“降落/着陆”；fare 表示“票价/费用”；extra 表示“额外的”。
 
-8. **中文**：我们决定沿着海滩走得更远一些，寻找一块安宁的地方。  
-   **英文**：We decided to walk farther down the beach to find a peaceful spot.
-   > **解析**：farther 作 far 的比较级副词，意为“更远地（物理距离）”。
+8. **中文**：酒店里有自动洗衣房，供旅行者清洗衣物。  
+   **英文**：The hotel has a laundry room for every traveler.
+   > **解析**：laundry 表示“洗衣/洗涤”；traveler 表示“旅行者”。
 
-9. **中文**：在出国留学的第一个星期里，她感觉有点想家。  
-   **英文**：She felt a little homesick during her first week studying abroad.
-   > **解析**：homesick 作形容词，意为“想家的，思乡的”。feel homesick 意为“想家”。
+9. **中文**：在所有国家中，他最喜欢探索大自然和文化历史。  
+   **英文**：Among all countries, he likes best to explore nature and history.
+   > **解析**：like best 表示“最喜欢”。
 
-10. **中文**：乘坐公共交通是在城市各处游览的一种划算方式。  
-   **英文**：Taking public transportation is an affordable way to travel around the city.
-   > **解析**：public transportation 为不可数名词短语，意为“公共交通”。
+10. **中文**：那个古老城镇距离这里更远，是旅程的最远点。  
+   **英文**：That ancient town is farther, making it the farthest point.
+   > **解析**：farther 表示“更远的”；farthest 表示“最远的”。
+
+11. **中文**：航班到达时间延迟了一个小时。  
+   **英文**：The plane arrival was delayed by an hour.
+   > **解析**：arrival 表示“到达/抵达”。
+
+12. **中文**：你可以向左看，那边的街角有一家便利店。  
+   **英文**：Look over there, there is a store on the street corner.
+   > **解析**：over there 表示“在那边”。
+
+13. **中文**：请打开你的行李箱并把衣物整理好。  
+   **英文**：Please unpack your suitcase and put away your clothes.
+   > **解析**：unpack 表示“拆包/收拾行李”。
+
+14. **中文**：城市里的公共交通系统非常便利。  
+   **英文**：The public transportation system in this city is convenient.
+   > **解析**：public transportation 表示“公共交通”。
+
+15. **中文**：我们预订了一间带有海景阳台的房间。  
+   **英文**：We decided to reserve a hotel room with an ocean view.
+   > **解析**：reserve 表示“预订”。
+
+16. **中文**：在大学的第一个学期，他感到非常想家。  
+   **英文**：He felt very homesick during his first semester at college.
+   > **解析**：homesick 表示“思乡的/想家的”。
+
+17. **中文**：这趟免费接驳车每十五分钟发车一次。  
+   **英文**：This free shuttle leaves every fifteen minutes.
+   > **解析**：shuttle 表示“班车/接驳车”。
+
+18. **中文**：亚洲是世界上人口最多的大洲。  
+   **英文**：Asia is the largest continent in terms of population.
+   > **解析**：continent 表示“大洲”。
+
+19. **中文**：请出示您的护照以完成护照检查。  
+   **英文**：Please show your passport at the passport control.
+   > **解析**：passport control 表示“护照检查/边检”。
+
+20. **中文**：你可以去酒店的洗衣房洗涤你的衣服。  
+   **英文**：You can use the hotel laundry to wash your clothes.
+   > **解析**：laundry 表示“洗涤/洗衣房”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Traveling solo gives you complete freedom to plan your daily schedule.
-   > **中文**：独自旅行让你能够完全自由地规划每日行程。
+1. As a solo traveler, he landed on another continent for the first time.
+   > **中文**：作为一名单人旅行者，他第一次独自踏上了前往另一个大洲的旅程。
 
-2. An experienced traveler always packs light and keeps documents safe.
-   > **中文**：经验丰富的旅行者总是轻装简行并妥善保管证件。
+2. Upon arrival at the airport, we went through passport control.
+   > **中文**：到达机场后，我们需要通过护照检查窗口。
 
-3. Group tours are organized; on the other hand, solo trips are more flexible.
-   > **中文**：跟团游很有条理；另一方面，独自旅行更加灵活。
+3. You can take a free shuttle to the nearby hotel.
+   > **中文**：你可以乘坐免费接驳车前往附近的酒店。
 
-4. We had our visas checked at passport control after our flight landed.
-   > **中文**：航班降落后，我们在护照检查处接受了签证检查。
+4. On the other hand, he felt homesick while traveling abroad.
+   > **中文**：另一方面，在异国他乡旅行时他偶尔会感到想家。
 
-5. Please check the arrival board at the airport terminal for gate information.
-   > **中文**：请查看机场航站楼的到达告示牌获取登机口信息。
+5. Please relax on the patio over there while I unpack the bags.
+   > **中文**：请在阳台上放松一下，我来帮你拆行李。
 
-6. It is wise to reserve your hotel room in advance during peak season.
-   > **中文**：在旅游旺季提前预订酒店房间是明智之举。
+6. You should reserve public transportation tickets in advance.
+   > **中文**：你需要提前预订公共交通的票以节省费用。
 
-7. We took the complimentary hotel shuttle from the airport directly to our room.
-   > **中文**：我们乘坐免费的酒店接驳车直接从机场到达房间。
+7. The plane will land soon, so pay the extra luggage fare.
+   > **中文**：飞机即将降落，请支付额外的行李票价。
 
-8. We decided to walk farther down the beach to find a peaceful spot.
-   > **中文**：我们决定沿着海滩走得更远一些，寻找一块安宁的地方。
+8. The hotel has a laundry room for every traveler.
+   > **中文**：酒店里有自动洗衣房，供旅行者清洗衣物。
 
-9. She felt a little homesick during her first week studying abroad.
-   > **中文**：在出国留学的第一个星期里，她感觉有点想家。
+9. Among all countries, he likes best to explore nature and history.
+   > **中文**：在所有国家中，他最喜欢探索大自然和文化历史。
 
-10. Taking public transportation is an affordable way to travel around the city.
-   > **中文**：乘坐公共交通是在城市各处游览的一种划算方式。
+10. That ancient town is farther, making it the farthest point.
+   > **中文**：那个古老城镇距离这里更远，是旅程的最远点。
+
+11. The plane arrival was delayed by an hour.
+   > **中文**：航班到达时间延迟了一个小时。
+
+12. Look over there, there is a store on the street corner.
+   > **中文**：你可以向左看，那边的街角有一家便利店。
+
+13. Please unpack your suitcase and put away your clothes.
+   > **中文**：请打开你的行李箱并把衣物整理好。
+
+14. The public transportation system in this city is convenient.
+   > **中文**：城市里的公共交通系统非常便利。
+
+15. We decided to reserve a hotel room with an ocean view.
+   > **中文**：我们预订了一间带有海景阳台的房间。
+
+16. He felt very homesick during his first semester at college.
+   > **中文**：在大学的第一个学期，他感到非常想家。
+
+17. This free shuttle leaves every fifteen minutes.
+   > **中文**：这趟免费接驳车每十五分钟发车一次。
+
+18. Asia is the largest continent in terms of population.
+   > **中文**：亚洲是世界上人口最多的大洲。
+
+19. Please show your passport at the passport control.
+   > **中文**：请出示您的护照以完成护照检查。
+
+20. You can use the hotel laundry to wash your clothes.
+   > **中文**：你可以去酒店的洗衣房洗涤你的衣服。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| arrival | 到达 / 抵达 |
+| continent | 大洲 / 大陆 |
+| fare | 票价 / 费用 |
+| farther | 更远的 |
+| farthest | 最远的 |
+| for the first time | 第一次 |
+| homesick | 想家的 / 思乡的 |
+| land | 降落 / 着陆 / 土地 |
+| laundry | 洗衣 / 洗衣房 |
+| like best | 最喜欢 |
+| on the other hand | 另一方面 |
+| over there | 在那边 |
+| passport control | 护照检查 / 边检 |
+| patio | 露台 / 天井 |
+| public transportation | 公共交通 |
+| reserve | 预订 |
+| shuttle | 接驳车 / 班车 |
+| solo | 单人的 / 独唱 |
+| traveler | 旅行者 / 游客 |
+| unpack | 拆行李 / 打开包裹 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ on the other hand 表示"另一方面"（用于对比）。farther / farthest �
 
 ### 1
 
-Traveling solo gives you comp`____`e freedom to plan your daily schedule.
+As a ____ traveler, he landed on another continent for the first time.
 
-- [x] let
+- [x] solo
 - [ ] arrival
-- [ ] farther
+- [ ] continent
 
-> **解析**：solo 作形容词/副词，意为“单独的，独自的”。travel solo 表示“独自旅行”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-An experienced `____` always packs light and keeps documents safe.
+Upon ____ at the airport, we went through passport control.
 
-- [x] traveler
+- [x] arrival
 - [ ] continent
-- [ ] farthest
+- [ ] extra
 
-> **解析**：traveler 作可数名词，意为“旅行者，游客”。在句中作主语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Group tours are organized; `____`, solo trips are more flexible.
+You can take a free ____ to the nearby hotel.
 
-- [x] on the other hand
-- [ ] extra
-- [ ] for the first time
+- [x] shuttle
+- [ ] arrival
+- [ ] continent
 
-> **解析**：on the other hand 为固定短语，作连接副词意为“另一方面”，用于对比。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-We had our visas checked at passport control after our flight `____`ed.
+On the other hand, he felt ____ while traveling abroad.
 
-- [x] land
-- [ ] fare
-- [ ] homesick
+- [x] homesick
+- [ ] arrival
+- [ ] continent
 
-> **解析**：passport control 为名词短语，意为“护照检查处，边检”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Please check the `____` board at the airport terminal for gate information.
+Please relax on the ____ over there while I unpack the bags.
 
-- [x] arrival
-- [ ] farthest
-- [ ] laundry
+- [x] patio
+- [ ] arrival
+- [ ] continent
 
-> **解析**：arrival 作名词，意为“到达，到达区”。arrival board 指“到达航班告示牌”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-It is wise to `____` your hotel room in advance during peak season.
+You should ____ public transportation tickets in advance.
 
 - [x] reserve
-- [ ] farthest
-- [ ] laundry
+- [ ] arrival
+- [ ] continent
 
-> **解析**：reserve 作及物动词，意为“预订，保留”。reserve a room 意为“订房间”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-We took the complimentary hotel `____` from the airport directly to our room.
+The plane will ____ soon, so pay the extra luggage fare.
 
-- [x] shuttle
-- [ ] for the first time
-- [ ] let
+- [x] land
+- [ ] arrival
+- [ ] continent
 
-> **解析**：shuttle (shuttle bus) 作名词，意为“接驳车，班车”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-We decided to walk `____` down the beach to find a peaceful spot.
+The hotel has a ____ room for every traveler.
 
-- [x] farther
-- [ ] land
-- [ ] much
+- [x] laundry
+- [ ] arrival
+- [ ] continent
 
-> **解析**：farther 作 far 的比较级副词，意为“更远地（物理距离）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-She felt a little `____` during her first week studying abroad.
+Among all ____, he likes best to explore nature and history.
 
-- [x] homesick
-- [ ] laundry
-- [ ] nearby
+- [x] countries
+- [ ] arrival
+- [ ] continent
 
-> **解析**：homesick 作形容词，意为“想家的，思乡的”。feel homesick 意为“想家”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Taking `____` is an affordable way to travel around the city.
+That ancient town is ____, making it the farthest point.
 
-- [x] public transportation
-- [ ] laundry
-- [ ] nearby
+- [x] farther
+- [ ] arrival
+- [ ] continent
 
-> **解析**：public transportation 为不可数名词短语，意为“公共交通”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The plane ____ was delayed by an hour.
+
+- [x] arrival
+- [ ] continent
+- [ ] extra
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Look over there, there is a store on the ____ corner.
+
+- [x] street
+- [ ] arrival
+- [ ] continent
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Please ____ your suitcase and put away your clothes.
+
+- [x] unpack
+- [ ] arrival
+- [ ] continent
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The public ____ system in this city is convenient.
+
+- [x] transportation
+- [ ] arrival
+- [ ] continent
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+We decided to ____ a hotel room with an ocean view.
+
+- [x] reserve
+- [ ] arrival
+- [ ] continent
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+He felt very ____ during his first semester at college.
+
+- [x] homesick
+- [ ] arrival
+- [ ] continent
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+This free ____ leaves every fifteen minutes.
+
+- [x] shuttle
+- [ ] arrival
+- [ ] continent
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Asia is the largest ____ in terms of population.
+
+- [x] continent
+- [ ] arrival
+- [ ] extra
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Please show your ____ at the passport control.
+
+- [x] passport
+- [ ] arrival
+- [ ] continent
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+You can use the hotel ____ to wash your clothes.
+
+- [x] laundry
+- [ ] arrival
+- [ ] continent
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

@@ -61,83 +61,176 @@ about to = 即将。put off = postpone（推迟）。
 
 <quiz-sentence-builder>
 
-1. **中文**：我正准备离开办公室，这时朋友打来电话邀请我吃午饭。  
-   **英文**：I was about to leave the office when my friend called to invite me.
-   > **解析**：be about to 为固定结构，意为“正要、正打算做某事”，后接动词原形（be about to leave）。
+1. **中文**：电影即将开始，请尽快就座。
+   **英文**：The movie is about to start, so please take your seat.
+   > **解析**：about to 表示“即将/正准备”；take your seat 意为“就座”。
 
-2. **中文**：这个星期天休假我得去参加家庭聚会。  
-   **英文**：I have to attend a family reunion on my day off this Sunday.
-   > **解析**：family reunion 为名词短语，意为“家庭聚会、亲友团聚”。
+2. **中文**：她每个月都会参加社区举办的读书会。
+   **英文**：She attends her local book club meeting once every month.
+   > **解析**：book club 表示“读书会/书友会”；monthly 意为“每月”。
 
-3. **中文**：明天下班后你愿意和我们一起出去吃晚饭吗？  
-   **英文**：Would you like to go out with us for dinner after work tomorrow.
-   > **解析**：go out with 为动词短语，意为“与某人一起外出（娱乐/就餐）”。
+3. **中文**：我们全队打进决赛并赢下了本年度锦标赛。
+   **英文**：Our team reached the finals and won the annual championship.
+   > **解析**：championship 表示“锦标赛/冠军”。
 
-4. **中文**：我们下午两点左右在市中心的咖啡馆聚聚吧。  
-   **英文**：Let's meet up at the downtown coffee shop around two o'clock.
-   > **解析**：meet up 为不及物动词短语，口语中常用，意为“见面、聚会”，后可接 at + 地点。
+4. **中文**：在这个地方，拜访朋友前送礼物是一项风俗。
+   **英文**：It is a traditional custom to bring gifts when visiting friends.
+   > **解析**：custom 表示“风俗/习俗”；traditional 意为“传统的”。
 
-5. **中文**：请把你的名字写在宾客名单上，这样我们可以给你留个座位。  
-   **英文**：Please put your name on the guest list so we can save a seat for you.
-   > **解析**：put 在此处作动词，意为“放置、书写登记”。常用搭配 put one's name on a list。
+5. **中文**：每年感恩节我们全家都会举办大型家庭聚会。
+   **英文**：We host a big family reunion every year during Thanksgiving.
+   > **解析**：family reunion 表示“家庭聚会/全家团聚”。
 
-6. **中文**：既然我们周末都休息，为什么不一起规划个一日游呢？  
-   **英文**：Since we both have the weekend off, why don't we plan a day trip together.
-   > **解析**：since 在此处用作连词，引导原因状语从句，意为“既然、鉴于”。
+6. **中文**：你今天下午什么时候可以下班歇息？
+   **英文**：What time will you get off work this afternoon?
+   > **解析**：get off 表示“下班/离开”。
 
-7. **中文**：我们可以乘早班列车前往海滨小镇开展我们的一日游。  
-   **英文**：We can take the morning train to the seaside town for our day trip.
-   > **解析**：train 为可数名词，意为“火车、列车”。take the train 表示“乘坐火车”。
+7. **中文**：周六晚上他打算和几位老朋友出去聚聚。
+   **英文**：He plans to go out with some high school friends on Saturday.
+   > **解析**：go out with 表示“与……出去/约会”。
 
-8. **中文**：你有兴趣加入我们周末的读书会讨论新小说吗？  
-   **英文**：Are you interested in joining our weekend book club to discuss new novels? (go out with) about championship.
-   > **解析**：book club 为名词短语，意为“读书会、读书俱乐部”。
+8. **中文**：她是负责这次周末露营活动的负责人。
+   **英文**：She is in charge of organizing the weekend camping trip.
+   > **解析**：in charge of 表示“负责/掌管”。
 
-9. **中文**：我一做完家务，就去公园跟你汇合。  
-   **英文**：As soon as I finish my housework, I will meet you at the park.
-   > **解析**：finish 为及物动词，意为“完成、做完”，后接名词或动名词（finish my housework）。
+9. **中文**：如果你现在出发，还能赶上最后那班火车。
+   **英文**：If you leave right now, you can make it to the last train.
+   > **解析**：make it 表示“赶上/成功到达”。
 
-10. **中文**：在休息日，我喜欢学习如何烘焙手工面包。  
-   **英文**：On my days off, I love to learn how to bake homemade bread.
-   > **解析**：learn 为动词，意为“学习、学会”。常用结构 learn to do sth. 或 learn how to do sth.。
+10. **中文**：休息日我们经常在市中心的咖啡馆聚会。
+   **英文**：We often meet up at a coffee shop on our day off.
+   > **解析**：meet up 表示“聚会/会面”；day off 意为“休息日”。
+
+11. **中文**：公司管理层每月都会举行一次工作汇报会议。
+   **英文**：Company managers hold a monthly progress meeting every month.
+   > **解析**：monthly 表示“每月的/按月”。
+
+12. **中文**：永远不要把你今天就能完成的工作推迟到明天。
+   **英文**：Never put off until tomorrow what you can complete today.
+   > **解析**：put off 表示“推迟/延期”。
+
+13. **中文**：早起运动是我每日晨间常规的一部分。
+   **英文**：Morning exercise is an essential part of my daily routine.
+   > **解析**：routine 表示“常规/日常习惯”。
+
+14. **中文**：下周的项目日程安排非常紧凑。
+   **英文**：The work schedule for next week looks extremely busy.
+   > **解析**：schedule 表示“日程安排/时间表”。
+
+15. **中文**：自从搬到这个新城市后，我结识了很多朋友。
+   **英文**：I have made many friends since I moved to this city.
+   > **解析**：since 表示“自从……以来”；后接过去时句子。
+
+16. **中文**：他是个活泼且善于社交的人，喜欢参加派对。
+   **英文**：He is a very sociable person who enjoys going to parties.
+   > **解析**：sociable 表示“善于社交的/随和的”。
+
+17. **中文**：周末他们全部都去公园野餐了。
+   **英文**：They all went to the park for a sunny afternoon picnic.
+   > **解析**：they all 表示“他们全部/大家都”。
+
+18. **中文**：为了参加下月的马拉松，运动员每天都在刻苦训练。
+   **英文**：Athletes train hard every day for the upcoming marathon.
+   > **解析**：train 表示“训练/锻炼”。
+
+19. **中文**：除非天气变糟糕，否则我们明天会按计划去海滩。
+   **英文**：We will go to the beach tomorrow unless it rains heavily.
+   > **解析**：unless 表示“除非/如果不”。
+
+20. **中文**：周末我们大家都很乐意留在家里看看书。
+   **英文**：We all love spending quiet weekends reading books at home.
+   > **解析**：we all 表示“我们大家/我们全部”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I was about to leave the office when my friend called to invite me.
-   > **中文**：我正准备离开办公室，这时朋友打来电话邀请我吃午饭。
+1. The movie is about to start, so please take your seat.
+   > **中文**：电影即将开始，请尽快就座。
 
-2. I have to attend a family reunion on my day off this Sunday.
-   > **中文**：这个星期天休假我得去参加家庭聚会。
+2. She attends her local book club meeting once every month.
+   > **中文**：她每个月都会参加社区举办的读书会。
 
-3. Would you like to go out with us for dinner after work tomorrow.
-   > **中文**：明天下班后你愿意和我们一起出去吃晚饭吗？
+3. Our team reached the finals and won the annual championship.
+   > **中文**：我们全队打进决赛并赢下了本年度锦标赛。
 
-4. Let's meet up at the downtown coffee shop around two o'clock.
-   > **中文**：我们下午两点左右在市中心的咖啡馆聚聚吧。
+4. It is a traditional custom to bring gifts when visiting friends.
+   > **中文**：在这个地方，拜访朋友前送礼物是一项风俗。
 
-5. Please put your name on the guest list so we can save a seat for you.
-   > **中文**：请把你的名字写在宾客名单上，这样我们可以给你留个座位。
+5. We host a big family reunion every year during Thanksgiving.
+   > **中文**：每年感恩节我们全家都会举办大型家庭聚会。
 
-6. Since we both have the weekend off, why don't we plan a day trip together.
-   > **中文**：既然我们周末都休息，为什么不一起规划个一日游呢？
+6. What time will you get off work this afternoon?
+   > **中文**：你今天下午什么时候可以下班歇息？
 
-7. We can take the morning train to the seaside town for our day trip.
-   > **中文**：我们可以乘早班列车前往海滨小镇开展我们的一日游。
+7. He plans to go out with some high school friends on Saturday.
+   > **中文**：周六晚上他打算和几位老朋友出去聚聚。
 
-8. Are you interested in joining our weekend book club to discuss new novels? (go out with) about championship.
-   > **中文**：你有兴趣加入我们周末的读书会讨论新小说吗？
+8. She is in charge of organizing the weekend camping trip.
+   > **中文**：她是负责这次周末露营活动的负责人。
 
-9. As soon as I finish my housework, I will meet you at the park.
-   > **中文**：我一做完家务，就去公园跟你汇合。
+9. If you leave right now, you can make it to the last train.
+   > **中文**：如果你现在出发，还能赶上最后那班火车。
 
-10. On my days off, I love to learn how to bake homemade bread.
-   > **中文**：在休息日，我喜欢学习如何烘焙手工面包。
+10. We often meet up at a coffee shop on our day off.
+   > **中文**：休息日我们经常在市中心的咖啡馆聚会。
+
+11. Company managers hold a monthly progress meeting every month.
+   > **中文**：公司管理层每月都会举行一次工作汇报会议。
+
+12. Never put off until tomorrow what you can complete today.
+   > **中文**：永远不要把你今天就能完成的工作推迟到明天。
+
+13. Morning exercise is an essential part of my daily routine.
+   > **中文**：早起运动是我每日晨间常规的一部分。
+
+14. The work schedule for next week looks extremely busy.
+   > **中文**：下周的项目日程安排非常紧凑。
+
+15. I have made many friends since I moved to this city.
+   > **中文**：自从搬到这个新城市后，我结识了很多朋友。
+
+16. He is a very sociable person who enjoys going to parties.
+   > **中文**：他是个活泼且善于社交的人，喜欢参加派对。
+
+17. They all went to the park for a sunny afternoon picnic.
+   > **中文**：周末他们全部都去公园野餐了。
+
+18. Athletes train hard every day for the upcoming marathon.
+   > **中文**：为了参加下月的马拉松，运动员每天都在刻苦训练。
+
+19. We will go to the beach tomorrow unless it rains heavily.
+   > **中文**：除非天气变糟糕，否则我们明天会按计划去海滩。
+
+20. We all love spending quiet weekends reading books at home.
+   > **中文**：周末我们大家都很乐意留在家里看看书。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| about to | 即将 / 正准备 |
+| book club | 读书会 |
+| championship | 锦标赛 / 冠军 |
+| custom | 风俗 / 习惯 |
+| family reunion | 家庭聚会 |
+| get off | 下班 / 下车 |
+| go out with | 与……出去 |
+| in charge of | 负责 / 掌管 |
+| make it | 赶上 / 成功做到 |
+| meet up | 聚会 / 会面 |
+| monthly | 每月的 |
+| put off | 推迟 / 延期 |
+| routine | 日常常规 |
+| schedule | 日程安排 |
+| since | 自从 / 既然 |
+| sociable | 善于社交的 |
+| they all | 他们全部 |
+| train | 训练 |
+| unless | 除非 |
+| we all | 我们大家 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ about to = 即将。put off = postpone（推迟）。
 
 ### 1
 
-I was `____` leave the office when my friend called to invite me.
+The movie is about to start, so ____ take your seat.
 
-- [x] about to
+- [x] please
+- [ ] about to
 - [ ] book club
-- [ ] finish
 
-> **解析**：be about to 为固定结构，意为“正要、正打算做某事”，后接动词原形（be about to leave）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-I have to attend a `____` on my day off this Sunday.
+She ____ her local book club meeting once every month.
 
-- [x] family reunion
+- [x] attends
+- [ ] about to
 - [ ] book club
-- [ ] get off
 
-> **解析**：family reunion 为名词短语，意为“家庭聚会、亲友团聚”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Would you like to `____` us for dinner after work tomorrow.
+Our team reached the finals and won the annual ____.
 
-- [x] go out with
-- [ ] championship
-- [ ] get off
+- [x] championship
+- [ ] about to
+- [ ] book club
 
-> **解析**：go out with 为动词短语，意为“与某人一起外出（娱乐/就餐）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Let's `____` at the downtown coffee shop around two o'clock.
+It is a traditional ____ to bring gifts when visiting friends.
 
-- [x] meet up
-- [ ] custom
-- [ ] go out with
+- [x] custom
+- [ ] about to
+- [ ] book club
 
-> **解析**：meet up 为不及物动词短语，口语中常用，意为“见面、聚会”，后可接 at + 地点。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Please `____` your name on the guest list so we can save a seat for you.
+We host a big family reunion every year during ____.
 
-- [x] put
-- [ ] family reunion
-- [ ] in charge of
+- [x] Thanksgiving
+- [ ] about to
+- [ ] book club
 
-> **解析**：put 在此处作动词，意为“放置、书写登记”。常用搭配 put one's name on a list。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Since we both have the weekend `____`, why don't we plan a day trip together.
+What time will you get ____ work this afternoon?
 
 - [x] off
-- [ ] finish
-- [ ] learn
+- [ ] about to
+- [ ] book club
 
-> **解析**：since 在此处用作连词，引导原因状语从句，意为“既然、鉴于”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-We can take the morning `____` to the seaside town for our day trip.
+He plans to go out with some high school friends on ____.
 
-- [x] train
-- [ ] get off
-- [ ] make it
+- [x] Saturday
+- [ ] about to
+- [ ] book club
 
-> **解析**：train 为可数名词，意为“火车、列车”。take the train 表示“乘坐火车”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Are you interested in joining our weekend `____` to discuss new novels? (go out with) about championship.
+She is in charge of ____ the weekend camping trip.
 
-- [x] book club
-- [ ] in charge of
-- [ ] monthly
+- [x] organizing
+- [ ] about to
+- [ ] book club
 
-> **解析**：book club 为名词短语，意为“读书会、读书俱乐部”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-As soon as I `____` my housework, I will meet you at the park.
+If you leave right now, you can make it to the last ____.
 
-- [x] finish
-- [ ] learn
-- [ ] off
+- [x] train
+- [ ] about to
+- [ ] book club
 
-> **解析**：finish 为及物动词，意为“完成、做完”，后接名词或动名词（finish my housework）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-On my days off, I love to `____` how to bake homemade bread.
+We often meet up at a coffee shop on our day ____.
 
-- [x] learn
-- [ ] make it
-- [ ] put
+- [x] off
+- [ ] about to
+- [ ] book club
 
-> **解析**：learn 为动词，意为“学习、学会”。常用结构 learn to do sth. 或 learn how to do sth.。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Company managers hold a ____ progress meeting every month.
+
+- [x] monthly
+- [ ] about to
+- [ ] book club
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Never ____ off until tomorrow what you can complete today.
+
+- [x] put
+- [ ] about to
+- [ ] book club
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Morning exercise is an essential part of my daily ____.
+
+- [x] routine
+- [ ] about to
+- [ ] book club
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The work ____ for next week looks extremely busy.
+
+- [x] schedule
+- [ ] about to
+- [ ] book club
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+I have made many friends ____ I moved to this city.
+
+- [x] since
+- [ ] about to
+- [ ] book club
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+He is a very ____ person who enjoys going to parties.
+
+- [x] sociable
+- [ ] about to
+- [ ] book club
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+They all went to the park for a sunny ____ picnic.
+
+- [x] afternoon
+- [ ] about to
+- [ ] book club
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Athletes ____ hard every day for the upcoming marathon.
+
+- [x] train
+- [ ] about to
+- [ ] book club
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+We will go to the beach tomorrow ____ it rains heavily.
+
+- [x] unless
+- [ ] about to
+- [ ] book club
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+We all love ____ quiet weekends reading books at home.
+
+- [x] spending
+- [ ] about to
+- [ ] book club
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

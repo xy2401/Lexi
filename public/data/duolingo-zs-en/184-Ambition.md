@@ -53,83 +53,176 @@ as soon as 是时间连接词，表示"一……就……"。out of work = 失�
 
 <quiz-sentence-builder>
 
-1. **中文**：如果你努力工作并保持专注，你就能实现你所有的职业目标。  
-   **英文**：If you work hard and stay focused, you can achieve all your career goals.
-   > **解析**：achieve 及物动词，意为“实现；达到”，宾语常为 goal、dream、success 等。
+1. **中文**：只要付出努力，你就能实现你的职业目标。
+   **英文**：Hard work helped her achieve great success in business.
+   > **解析**：achieve 表示“实现/达到”。
 
-2. **中文**：获得年度最佳员工奖对她来说是一项重大成就。  
-   **英文**：Winning the employee of the year award was a major achievement.
-   > **解析**：achievement 名词，意为“成就；功绩”，由动词 achieve 加后缀 -ment 构成。
+2. **中文**：获得这项国际创新奖是她的重大成就。
+   **英文**：Winning the prize was a remarkable achievement for him.
+   > **解析**：achievement 表示“成就/成绩”。
 
-3. **中文**：经过三年的勤奋工作，她获得了晋升为高级经理的机会。  
-   **英文**：After three years of diligent work, she earned a promotion to senior manager.
-   > **解析**：promotion 可数/不可数名词，意为“升职；晋升”，动词形式为 promote。
+3. **中文**：我们非常钦佩她面对困难时的勇气与毅力。
+   **英文**：I really admire her dedication to scientific research.
+   > **解析**：admire 表示“钦佩/赏识”。
 
-4. **中文**：在完成这个大项目后，他向经理提出了加薪要求。  
-   **英文**：He asked his manager for a salary raise after completing the big project.
-   > **解析**：raise 可数名词，在此意为“加薪”（美式英语），英式英语常用 pay rise。
+4. **中文**：一收到面试通知，他就立刻准备简历。
+   **英文**：Call me as soon as you finish your training session.
+   > **解析**：as soon as 表示“一……就……”。
 
-5. **中文**：担任领导职务是一项巨大的挑战，但它能帮助你成长。  
-   **英文**：Taking on a leadership role is a great challenge, but it helps you grow.
-   > **解析**：challenge 可数名词，意为“挑战”，作动词时意为“向……挑战”。
+5. **中文**：他出色的工程学背景使他在招聘中胜出。
+   **英文**：She has a strong educational background in science.
+   > **解析**：background 表示“背景/履历”。
 
-6. **中文**：她计划从大学毕业并获得计算机科学学位。  
-   **英文**：She plans to graduate from university with a degree in computer science.
-   > **解析**：graduate 动词，意为“毕业”，短语 graduate from 表示“从……毕业”。
+6. **中文**：参加这项专业技能培训将使你大有裨益。
+   **英文**：The new health policy will benefit all employees.
+   > **解析**：benefit 表示“好处/益处/使受益”。
 
-7. **中文**：科技行业为年轻人提供了许多令人兴奋的职业机会。  
-   **英文**：The tech industry offers many exciting career opportunities for young people.
-   > **解析**：industry 可数/不可数名词，意为“行业；工业”，如 tech industry（科技业）。
+7. **中文**：接手这个大型新项目是一项巨大的挑战。
+   **英文**：Leading the team was an exciting challenge for her.
+   > **解析**：challenge 表示“挑战”。
 
-8. **中文**：工厂倒闭后，许多工人失业了。  
-   **英文**：After the factory closed down, many workers were left out of work.
-   > **解析**：out of work 形容词短语，意为“失业的；没有工作的”，等同于 unemployed。
+8. **中文**：多名专家出席了在芝加哥举办的年度行业研讨会。
+   **英文**：She gave a presentation at an international conference.
+   > **解析**：conference 表示“研讨会/会议”。
 
-9. **中文**：他对工程学有着浓厚的兴趣，想设计太阳能汽车。  
-   **英文**：He has a passionate interest in engineering and wants to design solar cars.
-   > **解析**：engineering 不可数名词，意为“工程学；工程领域”，衍生自 engineer。
+9. **中文**：你目前的薪资和职位满足你的职业规划吗？
+   **英文**：What is your current role in the company?
+   > **解析**：current 表示“当前的/现行的”。
 
-10. **中文**：她在市场营销方面的雄厚背景使她非常适合这个职位。  
-   **英文**：Her strong background in marketing makes her ideal for the position.
-   > **解析**：background 可数名词，在此意为“学历背景；工作经历”，常搭配介词 in。
+10. **中文**：在全队的共同努力下，工程按期竣工了。
+   **英文**：It takes continuous effort to master a new skill.
+   > **解析**：effort 表示“努力/付出”。
+
+11. **中文**：他获得了名牌大学的工程学学士学位。
+   **英文**：She studied software engineering at university.
+   > **解析**：engineering 表示“工程学”。
+
+12. **中文**：参与实践操作能让你获得宝贵的工作经验。
+   **英文**：Internships help students gain practical experience.
+   > **解析**：gain 表示“获得/赢取”。
+
+13. **中文**：她打算在今年夏天从法学院毕业。
+   **英文**：He will graduate from college next summer.
+   > **解析**：graduate 表示“毕业”；graduate from 意为“从……毕业”。
+
+14. **中文**：爱因斯坦被公认为历史上面最伟大的科学家之一。
+   **英文**：His greatest strength is his ability to solve problems.
+   > **解析**：greatest 表示“最伟大的/最大的”。
+
+15. **中文**：汽车制造业是当地经济发展的核心支柱行业。
+   **英文**：The tech industry is growing rapidly worldwide.
+   > **解析**：industry 表示“行业/工业”。
+
+16. **中文**：由于工厂倒闭，许多工人不幸处于失业状态。
+   **英文**：He was out of work for six months before finding a job.
+   > **解析**：out of work 表示“失业/待业”。
+
+17. **中文**：她在公司申请到了高级软件架构师的职位。
+   **英文**：She applied for a managerial position in sales.
+   > **解析**：position 表示“职位/位置”。
+
+18. **中文**：经过出色的绩效考核，她获得了职位提拔。
+   **英文**：Hard work earned him a well-deserved promotion.
+   > **解析**：promotion 表示“提拔/晋升”。
+
+19. **中文**：老板决定下月起为表现优异的员工加薪。
+   **英文**：The manager gave her a salary raise last month.
+   > **解析**：raise 表示“加薪/提高”。
+
+20. **中文**：那些研究基因工程的科学家获得了重大突破。
+   **英文**：A team of scientist published their discovery yesterday.
+   > **解析**：scientist 表示“科学家”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. If you work hard and stay focused, you can achieve all your career goals.
-   > **中文**：如果你努力工作并保持专注，你就能实现你所有的职业目标。
+1. Hard work helped her achieve great success in business.
+   > **中文**：只要付出努力，你就能实现你的职业目标。
 
-2. Winning the employee of the year award was a major achievement.
-   > **中文**：获得年度最佳员工奖对她来说是一项重大成就。
+2. Winning the prize was a remarkable achievement for him.
+   > **中文**：获得这项国际创新奖是她的重大成就。
 
-3. After three years of diligent work, she earned a promotion to senior manager.
-   > **中文**：经过三年的勤奋工作，她获得了晋升为高级经理的机会。
+3. I really admire her dedication to scientific research.
+   > **中文**：我们非常钦佩她面对困难时的勇气与毅力。
 
-4. He asked his manager for a salary raise after completing the big project.
-   > **中文**：在完成这个大项目后，他向经理提出了加薪要求。
+4. Call me as soon as you finish your training session.
+   > **中文**：一收到面试通知，他就立刻准备简历。
 
-5. Taking on a leadership role is a great challenge, but it helps you grow.
-   > **中文**：担任领导职务是一项巨大的挑战，但它能帮助你成长。
+5. She has a strong educational background in science.
+   > **中文**：他出色的工程学背景使他在招聘中胜出。
 
-6. She plans to graduate from university with a degree in computer science.
-   > **中文**：她计划从大学毕业并获得计算机科学学位。
+6. The new health policy will benefit all employees.
+   > **中文**：参加这项专业技能培训将使你大有裨益。
 
-7. The tech industry offers many exciting career opportunities for young people.
-   > **中文**：科技行业为年轻人提供了许多令人兴奋的职业机会。
+7. Leading the team was an exciting challenge for her.
+   > **中文**：接手这个大型新项目是一项巨大的挑战。
 
-8. After the factory closed down, many workers were left out of work.
-   > **中文**：工厂倒闭后，许多工人失业了。
+8. She gave a presentation at an international conference.
+   > **中文**：多名专家出席了在芝加哥举办的年度行业研讨会。
 
-9. He has a passionate interest in engineering and wants to design solar cars.
-   > **中文**：他对工程学有着浓厚的兴趣，想设计太阳能汽车。
+9. What is your current role in the company?
+   > **中文**：你目前的薪资和职位满足你的职业规划吗？
 
-10. Her strong background in marketing makes her ideal for the position.
-   > **中文**：她在市场营销方面的雄厚背景使她非常适合这个职位。
+10. It takes continuous effort to master a new skill.
+   > **中文**：在全队的共同努力下，工程按期竣工了。
+
+11. She studied software engineering at university.
+   > **中文**：他获得了名牌大学的工程学学士学位。
+
+12. Internships help students gain practical experience.
+   > **中文**：参与实践操作能让你获得宝贵的工作经验。
+
+13. He will graduate from college next summer.
+   > **中文**：她打算在今年夏天从法学院毕业。
+
+14. His greatest strength is his ability to solve problems.
+   > **中文**：爱因斯坦被公认为历史上面最伟大的科学家之一。
+
+15. The tech industry is growing rapidly worldwide.
+   > **中文**：汽车制造业是当地经济发展的核心支柱行业。
+
+16. He was out of work for six months before finding a job.
+   > **中文**：由于工厂倒闭，许多工人不幸处于失业状态。
+
+17. She applied for a managerial position in sales.
+   > **中文**：她在公司申请到了高级软件架构师的职位。
+
+18. Hard work earned him a well-deserved promotion.
+   > **中文**：经过出色的绩效考核，她获得了职位提拔。
+
+19. The manager gave her a salary raise last month.
+   > **中文**：老板决定下月起为表现优异的员工加薪。
+
+20. A team of scientist published their discovery yesterday.
+   > **中文**：那些研究基因工程的科学家获得了重大突破。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| achieve | 实现 / 达到 |
+| achievement | 成就 |
+| admire | 钦佩 / 赏识 |
+| as soon as | 一……就…… |
+| background | 背景 |
+| benefit | 好处 / 使受益 |
+| challenge | 挑战 |
+| conference | 研讨会 / 会议 |
+| current | 当前的 |
+| effort | 努力 |
+| engineering | 工程学 |
+| gain | 获得 |
+| graduate | 毕业 |
+| greatest | 最伟大的 |
+| industry | 行业 / 工业 |
+| out of work | 失业 |
+| position | 职位 |
+| promotion | 提拔 / 晋升 |
+| raise | 加薪 / 提高 |
+| scientist | 科学家 |
 
 </quiz-matching>
 
@@ -137,102 +230,202 @@ as soon as 是时间连接词，表示"一……就……"。out of work = 失�
 
 ### 1
 
-If you work hard and stay focused, you can `____` all your career goals.
+Hard work helped her ____ great success in business.
 
 - [x] achieve
 - [ ] achievement
-- [ ] benefit
+- [ ] admire
 
-> **解析**：achieve 及物动词，意为“实现；达到”，宾语常为 goal、dream、success 等。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Winning the employee of the year award was a major `____`.
+Winning the prize was a remarkable ____ for him.
 
 - [x] achievement
+- [ ] achieve
 - [ ] admire
-- [ ] challenge
 
-> **解析**：achievement 名词，意为“成就；功绩”，由动词 achieve 加后缀 -ment 构成。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-After three years of diligent work, she earned a `____` to senior manager.
+I really ____ her dedication to scientific research.
 
-- [x] promotion
-- [ ] admire
-- [ ] challenge
+- [x] admire
+- [ ] achieve
+- [ ] achievement
 
-> **解析**：promotion 可数/不可数名词，意为“升职；晋升”，动词形式为 promote。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-He asked his manager for a salary `____` after completing the big project.
+Call me as soon as you finish your ____ session.
 
-- [x] raise
-- [ ] as soon as
-- [ ] conference
+- [x] training
+- [ ] achieve
+- [ ] achievement
 
-> **解析**：raise 可数名词，在此意为“加薪”（美式英语），英式英语常用 pay rise。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Taking on a leadership role is a great `____`, but it helps you grow.
+She has a strong educational ____ in science.
 
-- [x] challenge
-- [ ] background
-- [ ] effort
+- [x] background
+- [ ] achieve
+- [ ] achievement
 
-> **解析**：challenge 可数名词，意为“挑战”，作动词时意为“向……挑战”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-She plans to `____` from university with a degree in computer science.
+The new health policy will ____ all employees.
 
-- [x] graduate
-- [ ] benefit
-- [ ] effort
+- [x] benefit
+- [ ] achieve
+- [ ] achievement
 
-> **解析**：graduate 动词，意为“毕业”，短语 graduate from 表示“从……毕业”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The tech `____` offers many exciting career opportunities for young people.
+Leading the team was an exciting ____ for her.
 
-- [x] industry
-- [ ] challenge
-- [ ] engineering
+- [x] challenge
+- [ ] achieve
+- [ ] achievement
 
-> **解析**：industry 可数/不可数名词，意为“行业；工业”，如 tech industry（科技业）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-After the factory closed down, many workers were left `____`.
+She gave a presentation at an international ____.
 
-- [x] out of work
-- [ ] conference
-- [ ] gain
+- [x] conference
+- [ ] achieve
+- [ ] achievement
 
-> **解析**：out of work 形容词短语，意为“失业的；没有工作的”，等同于 unemployed。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-He has a passionate interest in `____` and wants to design solar cars.
+What is your ____ role in the company?
 
-- [x] engineering
-- [ ] current
-- [ ] greatest
+- [x] current
+- [ ] achieve
+- [ ] achievement
 
-> **解析**：engineering 不可数名词，意为“工程学；工程领域”，衍生自 engineer。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Her strong `____` in marketing makes her ideal for the position.
+It takes continuous ____ to master a new skill.
 
-- [x] background
-- [ ] engineering
-- [ ] industry
+- [x] effort
+- [ ] achieve
+- [ ] achievement
 
-> **解析**：background 可数名词，在此意为“学历背景；工作经历”，常搭配介词 in。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+She studied software ____ at university.
+
+- [x] engineering
+- [ ] achieve
+- [ ] achievement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Internships help students ____ practical experience.
+
+- [x] gain
+- [ ] achieve
+- [ ] achievement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+He will ____ from college next summer.
+
+- [x] graduate
+- [ ] achieve
+- [ ] achievement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+His ____ strength is his ability to solve problems.
+
+- [x] greatest
+- [ ] achieve
+- [ ] achievement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The tech ____ is growing rapidly worldwide.
+
+- [x] industry
+- [ ] achieve
+- [ ] achievement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+He was out of work for six months before ____ a job.
+
+- [x] finding
+- [ ] achieve
+- [ ] achievement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+She applied for a managerial ____ in sales.
+
+- [x] position
+- [ ] achieve
+- [ ] achievement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Hard work earned him a well-deserved ____.
+
+- [x] promotion
+- [ ] achieve
+- [ ] achievement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The manager gave her a salary ____ last month.
+
+- [x] raise
+- [ ] achieve
+- [ ] achievement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+A team of ____ published their discovery yesterday.
+
+- [x] scientist
+- [ ] achieve
+- [ ] achievement
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

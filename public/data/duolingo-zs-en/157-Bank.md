@@ -61,83 +61,176 @@ afford = 负担得起。lent 是 lend 的过去式。
 
 <quiz-sentence-builder>
 
-1. **中文**：如果不向银行贷款，我买不起那辆昂贵的汽车。  
-   **英文**：I can't afford to buy that expensive car without taking out a bank loan.
-   > **解析**：afford 为及物动词，意为“买得起、负担得起”，常与 can / can't 连用，后接不定式（afford to do sth.）。
+1. **中文**：我目前买不起一辆全新的汽车。
+   **英文**：I cannot afford to buy a brand new car right now.
+   > **解析**：afford 表示“负担得起/买得起”；afford to do sth 意为“有能力做某事”。
 
-2. **中文**：她开设了一个新的商业账户来管理公司的日常财务。  
-   **英文**：She opened a new business account to manage her company's daily finances.
-   > **解析**：business 在此处作定语，修饰 account（business account 商业账户/企业账户）。
+2. **中文**：你可以使用银行应用查看你的账户余额。
+   **英文**：You can check your account balance using the banking app.
+   > **解析**：balance 表示“余额”；account balance 意为“账户余额”。
 
-3. **中文**：我们需要去当地分行把这张支票存入我的账户。  
-   **英文**：I need to visit the local branch to deposit this check into my account.
-   > **解析**：deposit 为动词，意为“存入（资金）”。常用搭配 deposit money/check into an account。
+3. **中文**：那位有礼貌的银行出纳员帮我开了一个新账户。
+   **英文**：The polite bank teller helped me open a new account.
+   > **解析**：bank teller 表示“银行出纳员/柜员”。
 
-4. **中文**：你可以使用银行的移动应用程序进行即时转账。  
-   **英文**：You can transfer money instantly using the bank's mobile application.
-   > **解析**：mobile 为形容词，意为“移动的、手机的”。mobile application/banking 指移动应用/移动银行。
+4. **中文**：我们需要为我们每月的开支制定一个严格的预算。
+   **英文**：We need to create a strict budget for our monthly expenses.
+   > **解析**：budget 表示“预算”；monthly expenses 意为“每月开支”。
 
-5. **中文**：切勿将您的手机银行密码透漏给任何人，以保护您的资金。  
-   **英文**：Never share your mobile banking password with anyone to protect your funds.
-   > **解析**：password 为可数名词，意为“密码”。在银行安全语境中，指登录或验证身份的口令。
+5. **中文**：她把钱直接存入了自己的活期存款账户。
+   **英文**：She deposited money directly into her checking account.
+   > **解析**：checking account 表示“活期存款账户/支票账户”。
 
-6. **中文**：他查看了银行账单，注意到自己在外出就餐上花得太多了。  
-   **英文**：He checked his bank statement and noticed he had spent too much on dining out.
-   > **解析**：spent 是动词 spend 的过去式/过去分词，常用搭配 spend money on sth.（在某物上花钱）。
+6. **中文**：你应该考虑把你储蓄的一部分用于投资。
+   **英文**：You should consider investing a portion of your savings.
+   > **解析**：consider 表示“考虑”；consider doing sth 意为“考虑做某事”。
 
-7. **中文**：银行发送了一条短信通知，以确认在线交易成功。  
-   **英文**：The bank sent an SMS notification to confirm the successful online transaction.
-   > **解析**：transaction 为可数名词，意为“交易、业务办理”。online transaction 指网络交易。
+7. **中文**：我需要在当地分行存一笔现金。
+   **英文**：I need to make a cash deposit at the local branch.
+   > **解析**：deposit 表示“存款/保证金”；cash deposit 意为“现金存款”。
 
-8. **中文**：登录银行应用程序以查询您当前的账户余额。  
-   **英文**：Log in to the banking app to check your current account balance.
-   > **解析**：balance 为名词，意为“余额、结余”。account balance 指账户余额。
+8. **中文**：取款前请出示有效的带照片身份证。
+   **英文**：Please show a valid photo ID before withdrawing funds.
+   > **解析**：ID 表示“身份证/身份证明”；valid 意为“有效的”。
 
-9. **中文**：我想开一个活期存款账户（支票账户）用于日常开销。  
-   **英文**：I would like to open a checking account for my daily expenses about budget.
-   > **解析**：checking account 为名词短语，指“活期存款账户/支票账户”，常用于日常存取与支付。
+9. **中文**：我的挚友借给了我一些钱来支付账单。
+   **英文**：My close friend lent me some money to cover the bill.
+   > **解析**：lent 是 lend 的过去式，表示“借给/借出”。
 
-10. **中文**：银行贷款给他必要的资金来购买他的第一套房子。  
-   **英文**：The bank lent him the necessary funds to purchase his first home.
-   > **解析**：lent 是 lend 的过去式，意为“借出、贷款给”。常用结构 lend sb. sth. 或 lend sth. to sb.。
+10. **中文**：自动取款机每日取款限额为五百美元。
+   **英文**：There is a daily withdrawal limit of five hundred dollars at the ATM.
+   > **解析**：limit 表示“限额/限制”；withdrawal limit 意为“取款限额”。
+
+11. **中文**：移动银行让你随时随地管理你的财务。
+   **英文**：Mobile banking allows you to manage your finances anywhere.
+   > **解析**：Mobile banking 表示“移动银行/手机银行”。
+
+12. **中文**：获得贷款前你必须完成所有必要的文件准备。
+   **英文**：You must complete all the necessary paperwork before getting the loan.
+   > **解析**：paperwork 表示“文件工作/文书作业”。
+
+13. **中文**：切勿与他人共享你的网上银行密码。
+   **英文**：Never share your online banking password with anyone else.
+   > **解析**：password 表示“密码”；online banking 意为“网上银行”。
+
+14. **中文**：你每月的房屋抵押贷款应在每月一号支付。
+   **英文**：Your monthly mortgage payment is due on the first of each month.
+   > **解析**：payment 表示“付款/支付”；mortgage payment 意为“房贷月供”。
+
+15. **中文**：如果你的银行卡丢失了，请立即向银行报告。
+   **英文**：If your card is lost, report it to the bank right away.
+   > **解析**：right away 表示“立即/马上”。
+
+16. **中文**：他把大部分工资都花在了房租和杂货上。
+   **英文**：He spent most of his paycheck on rent and groceries.
+   > **解析**：spent 是 spend 的过去式，表示“花费/消耗”。
+
+17. **中文**：客服代表给了我一张临时卡。
+   **英文**：The customer service representative gave me a temporary card.
+   > **解析**：temporary 表示“临时的/暂时的”。
+
+18. **中文**：电汇在两个工作小时内处理完毕了。
+   **英文**：The wire transfer was processed within two business hours.
+   > **解析**：transfer 表示“转账/汇款”；wire transfer 意为“电汇”。
+
+19. **中文**：每笔金融交易都安全地记录在你的历史记录中。
+   **英文**：Each financial transaction is recorded securely in your history.
+   > **解析**：transaction 表示“交易/业务”；financial 意为“金融的”。
+
+20. **中文**：时刻保持你的账户联系方式是最新的。
+   **英文**：Keep your account contact details up-to-date at all times.
+   > **解析**：up-to-date 表示“最新的/保持最新状态的”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I can't afford to buy that expensive car without taking out a bank loan.
-   > **中文**：如果不向银行贷款，我买不起那辆昂贵的汽车。
+1. I cannot afford to buy a brand new car right now.
+   > **中文**：我目前买不起一辆全新的汽车。
 
-2. She opened a new business account to manage her company's daily finances.
-   > **中文**：她开设了一个新的商业账户来管理公司的日常财务。
+2. You can check your account balance using the banking app.
+   > **中文**：你可以使用银行应用查看你的账户余额。
 
-3. I need to visit the local branch to deposit this check into my account.
-   > **中文**：我们需要去当地分行把这张支票存入我的账户。
+3. The polite bank teller helped me open a new account.
+   > **中文**：那位有礼貌的银行出纳员帮我开了一个新账户。
 
-4. You can transfer money instantly using the bank's mobile application.
-   > **中文**：你可以使用银行的移动应用程序进行即时转账。
+4. We need to create a strict budget for our monthly expenses.
+   > **中文**：我们需要为我们每月的开支制定一个严格的预算。
 
-5. Never share your mobile banking password with anyone to protect your funds.
-   > **中文**：切勿将您的手机银行密码透漏给任何人，以保护您的资金。
+5. She deposited money directly into her checking account.
+   > **中文**：她把钱直接存入了自己的活期存款账户。
 
-6. He checked his bank statement and noticed he had spent too much on dining out.
-   > **中文**：他查看了银行账单，注意到自己在外出就餐上花得太多了。
+6. You should consider investing a portion of your savings.
+   > **中文**：你应该考虑把你储蓄的一部分用于投资。
 
-7. The bank sent an SMS notification to confirm the successful online transaction.
-   > **中文**：银行发送了一条短信通知，以确认在线交易成功。
+7. I need to make a cash deposit at the local branch.
+   > **中文**：我需要在当地分行存一笔现金。
 
-8. Log in to the banking app to check your current account balance.
-   > **中文**：登录银行应用程序以查询您当前的账户余额。
+8. Please show a valid photo ID before withdrawing funds.
+   > **中文**：取款前请出示有效的带照片身份证。
 
-9. I would like to open a checking account for my daily expenses about budget.
-   > **中文**：我想开一个活期存款账户（支票账户）用于日常开销。
+9. My close friend lent me some money to cover the bill.
+   > **中文**：我的挚友借给了我一些钱来支付账单。
 
-10. The bank lent him the necessary funds to purchase his first home.
-   > **中文**：银行贷款给他必要的资金来购买他的第一套房子。
+10. There is a daily withdrawal limit of five hundred dollars at the ATM.
+   > **中文**：自动取款机每日取款限额为五百美元。
+
+11. Mobile banking allows you to manage your finances anywhere.
+   > **中文**：移动银行让你随时随地管理你的财务。
+
+12. You must complete all the necessary paperwork before getting the loan.
+   > **中文**：获得贷款前你必须完成所有必要的文件准备。
+
+13. Never share your online banking password with anyone else.
+   > **中文**：切勿与他人共享你的网上银行密码。
+
+14. Your monthly mortgage payment is due on the first of each month.
+   > **中文**：你每月的房屋抵押贷款应在每月一号支付。
+
+15. If your card is lost, report it to the bank right away.
+   > **中文**：如果你的银行卡丢失了，请立即向银行报告。
+
+16. He spent most of his paycheck on rent and groceries.
+   > **中文**：他把大部分工资都花在了房租和杂货上。
+
+17. The customer service representative gave me a temporary card.
+   > **中文**：客服代表给了我一张临时卡。
+
+18. The wire transfer was processed within two business hours.
+   > **中文**：电汇在两个工作小时内处理完毕了。
+
+19. Each financial transaction is recorded securely in your history.
+   > **中文**：每笔金融交易都安全地记录在你的历史记录中。
+
+20. Keep your account contact details up-to-date at all times.
+   > **中文**：时刻保持你的账户联系方式是最新的。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| afford | 负担得起 / 买得起 |
+| balance | 余额 |
+| bank teller | 银行出纳员 |
+| budget | 预算 |
+| checking account | 活期存款账户 |
+| consider | 考虑 |
+| deposit | 存款 / 保证金 |
+| ID | 身份证件 |
+| lent | 借出（lend的过去式） |
+| limit | 限额 / 限制 |
+| Mobile | 移动的 / 手机的 |
+| paperwork | 文件工作 / 文书 |
+| password | 密码 |
+| payment | 付款 / 支付 |
+| right away | 立即 / 马上 |
+| spent | 花费了（spend的过去式） |
+| temporary | 临时的 |
+| transfer | 转账 / 汇款 |
+| transaction | 交易 / 业务 |
+| up-to-date | 最新的 / 维持最新的 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ afford = 负担得起。lent 是 lend 的过去式。
 
 ### 1
 
-I can't `____` to buy that expensive car without taking out a bank loan.
+I cannot ____ to buy a brand new car right now.
 
 - [x] afford
 - [ ] balance
-- [ ] checking account
+- [ ] bank teller
 
-> **解析**：afford 为及物动词，意为“买得起、负担得起”，常与 can / can't 连用，后接不定式（afford to do sth.）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-She opened a new `____` account to manage her company's daily finances.
+You can check your account ____ using the banking app.
 
-- [x] business
-- [ ] balance
-- [ ] consider
+- [x] balance
+- [ ] afford
+- [ ] bank teller
 
-> **解析**：business 在此处作定语，修饰 account（business account 商业账户/企业账户）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-I need to visit the local branch to `____` this check into my account.
+The polite bank teller helped me open a new ____.
 
-- [x] deposit
-- [ ] bank teller
-- [ ] consider
+- [x] account
+- [ ] afford
+- [ ] balance
 
-> **解析**：deposit 为动词，意为“存入（资金）”。常用搭配 deposit money/check into an account。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-You can transfer money instantly using the bank's `____` application.
+We need to create a strict ____ for our monthly expenses.
 
-- [x] mobile
-- [ ] budget
-- [ ] deposit
+- [x] budget
+- [ ] afford
+- [ ] balance
 
-> **解析**：mobile 为形容词，意为“移动的、手机的”。mobile application/banking 指移动应用/移动银行。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Never share your mobile banking `____` with anyone to protect your funds.
+She ____ money directly into her checking account.
 
-- [x] password
-- [ ] business
-- [ ] id
+- [x] deposited
+- [ ] afford
+- [ ] balance
 
-> **解析**：password 为可数名词，意为“密码”。在银行安全语境中，指登录或验证身份的口令。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-He checked his bank statement and `____`iced he had spent too much on dining out.
+You should ____ investing a portion of your savings.
 
-- [x] not
-- [ ] checking account
-- [ ] lent
+- [x] consider
+- [ ] afford
+- [ ] balance
 
-> **解析**：spent 是动词 spend 的过去式/过去分词，常用搭配 spend money on sth.（在某物上花钱）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The bank sent an SMS notification to confirm the successful online `____`.
+I need to make a cash ____ at the local branch.
 
-- [x] transaction
-- [ ] consider
-- [ ] limit
+- [x] deposit
+- [ ] afford
+- [ ] balance
 
-> **解析**：transaction 为可数名词，意为“交易、业务办理”。online transaction 指网络交易。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Log in to the banking app to check your current account `____`.
+Please show a valid photo ____ before withdrawing funds.
 
-- [x] balance
-- [ ] id
-- [ ] not
+- [x] ID
+- [ ] afford
+- [ ] balance
 
-> **解析**：balance 为名词，意为“余额、结余”。account balance 指账户余额。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-I would like to open a checking account for my daily expenses about `____`.
+My close friend ____ me some money to cover the bill.
 
-- [x] budget
-- [ ] lent
-- [ ] not to
+- [x] lent
+- [ ] afford
+- [ ] balance
 
-> **解析**：checking account 为名词短语，指“活期存款账户/支票账户”，常用于日常存取与支付。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The bank `____` him the necessary funds to purchase his first home.
+There is a daily withdrawal ____ of five hundred dollars at the ATM.
 
-- [x] lent
-- [ ] limit
-- [ ] paperwork
+- [x] limit
+- [ ] afford
+- [ ] balance
 
-> **解析**：lent 是 lend 的过去式，意为“借出、贷款给”。常用结构 lend sb. sth. 或 lend sth. to sb.。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+____ banking allows you to manage your finances anywhere.
+
+- [x] Mobile
+- [ ] afford
+- [ ] balance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+You must complete all the necessary ____ before getting the loan.
+
+- [x] paperwork
+- [ ] afford
+- [ ] balance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Never share your online banking ____ with anyone else.
+
+- [x] password
+- [ ] afford
+- [ ] balance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Your monthly mortgage ____ is due on the first of each month.
+
+- [x] payment
+- [ ] afford
+- [ ] balance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+If your card is lost, ____ it to the bank right away.
+
+- [x] report
+- [ ] afford
+- [ ] balance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+He ____ most of his paycheck on rent and groceries.
+
+- [x] spent
+- [ ] afford
+- [ ] balance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The customer service representative gave me a ____ card.
+
+- [x] temporary
+- [ ] afford
+- [ ] balance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+The wire ____ was processed within two business hours.
+
+- [x] transfer
+- [ ] afford
+- [ ] balance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Each financial ____ is recorded securely in your history.
+
+- [x] transaction
+- [ ] afford
+- [ ] balance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Keep your account contact details ____ at all times.
+
+- [x] up-to-date
+- [ ] afford
+- [ ] balance
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

@@ -61,83 +61,176 @@ will / won't 表将来/意愿。wherever = no matter where。
 
 <quiz-sentence-builder>
 
-1. **中文**：乘客在登上游轮前应出示护照。  
-   **英文**：Passengers should present their passports before they board the cruise ship.
-   > **解析**：board 为及物动词，意为“登上（船/飞机/车）”。board the ship/plane 表示登船/登机。
+1. **中文**：在航班离港前半小时，旅客开始登机。
+   **英文**：Passengers began to board the plane half an hour before departure.
+   > **解析**：board 表示“登机/登船”。
 
-2. **中文**：你可以在机场到达大厅旁边找到外币兑换处。  
-   **英文**：You can find a currency exchange office right next to the airport arrival hall.
-   > **解析**：currency exchange 为名词短语，指“外币兑换”。currency exchange office 指货币兑换处。
+2. **中文**：建议大家在旅游旺季提前预订酒店房间。
+   **英文**：It is best to book your hotel room well in advance during peak season.
+   > **解析**：book 表示“预订/订房”。
 
-3. **中文**：我们乘坐了风景优美的摆渡船穿过港口前往小岛。  
-   **英文**：We took a scenic ferry ride across the harbor to reach the island.
-   > **解析**：ferry 为可数名词，意为“渡船、摆渡车”。ferry ride 指乘渡船出行。
+3. **中文**：他们报名参加了一为期七天的加勒比海豪华邮轮游。
+   **英文**：They went on a seven-day luxury Caribbean cruise last winter.
+   > **解析**：cruise 表示“邮轮游/巡航”。
 
-4. **中文**：在他的大学时代，他更喜欢搭顺风车游览欧洲。  
-   **英文**：Back in his college days, he preferred to hitchhike across Europe.
-   > **解析**：hitchhike 为不及物动词，意为“搭顺风车旅行”。
+4. **中文**：你可以在机场航站楼内的货币兑换处换一些外币。
+   **英文**：You can exchange cash at the currency exchange desk in the airport.
+   > **解析**：currency exchange 表示“货币兑换/外币兑换”。
 
-5. **中文**：他们在海滩边的一家五星级奢华酒店度过了蜜月。  
-   **英文**：They spent their honeymoon staying at a five-star luxury hotel by the beach.
-   > **解析**：luxury 在此处作定语，意为“奢华的、豪华的”（luxury hotel 奢华酒店）。
+5. **中文**：从北京飞往纽约的航班将于今晚八点准时起飞离港。
+   **英文**：The flight to New York will depart at eight o'clock tonight.
+   > **解析**：depart 表示“起飞/离开/出发”。
 
-6. **中文**：沿着海岸小径骑自行车骑行是一项极好的观光活动。  
-   **英文**：Enjoying a bike ride along the coastal path is a wonderful tourist activity.
-   > **解析**：ride 在此处作名词，意为“骑行、乘坐”。bike ride 即骑自行车。
+6. **中文**：这是一趟直达航班，中途没有任何停靠。
+   **英文**：This is a direct flight with no layover stops on the way.
+   > **解析**：direct 表示“直达的/直接的”。
 
-7. **中文**：导游将在游览过程中讲解这座古堡的历史。  
-   **英文**：The tour guide will explain the history of the ancient castle during the tour.
-   > **解析**：will 为情态动词，用于构成一般将来时（will explain），表达计划或必然发生的动作。
+7. **中文**：游客们喜欢漫步在古老的小巷里探索这座历史名城。
+   **英文**：Tourists love to explore the old streets and historic markets.
+   > **解析**：explore 表示“探索/勘探”。
 
-8. **中文**：建议在旅游旺季提前预约预订火车票。  
-   **英文**：It is advisable to book your train tickets well in advance during peak season.
-   > **解析**：book 为及物动词，意为“预订、订购”。常用搭配 book tickets / book a room。
+8. **中文**：我们乘坐渡轮横渡海峡前往对岸的小岛。
+   **英文**：We took a morning ferry across the channel to the island.
+   > **解析**：ferry 表示“渡轮/摆渡船”。
 
-9. **中文**：有从伦敦直飞东京且没有任何中途停留的直达航班吗？  
-   **英文**：Is there a direct flight from London to Tokyo without any layovers.
-   > **解析**：direct 在此处作形容词，意为“直达的、不中转的”。direct flight 即直飞航班。
+9. **中文**：年轻旅行者为了省钱喜欢去各省背包游。
+   **英文**：Young travelers love to go backpacking through Europe in summer.
+   > **解析**：go backpacking 表示“去背包游/去穷游”。
 
-10. **中文**：从车站到历史悠久的市中心需要花费我们多长时间？  
-   **英文**：How long will it take us to get to the historic city center from the station?
-   > **解析**：get 短语 get to 意为“到达某地”，常用于询问交通抵达时间（get to a place）。
+10. **中文**：在有些地方，背包客会沿途搭顺风车前往下一个镇。
+   **英文**：Some travelers try to hitchhike along the highway to save money.
+   > **解析**：hitchhike 表示“搭顺风车/搭便车”。
+
+11. **中文**：入住青年旅舍是认识来自世界各地新朋友的好方法。
+   **英文**：Staying in a local hostel is a great way to meet travelers.
+   > **解析**：hostel 表示“青年旅舍/旅社”。
+
+12. **中文**：在国际转机过程中，我们在东京有四个小时的中途停留。
+   **英文**：We have a four-hour layover in Tokyo before our next flight.
+   > **解析**：layover 表示“中途停留/转机等待”。
+
+13. **中文**：这家五星级海滨度假村提供豪华的客房和温泉服务。
+   **英文**：The resort offers luxury rooms and private beach access.
+   > **解析**：luxury 表示“奢华的/豪华的”。
+
+14. **中文**：如果今晚赶不上班车，我们第二天早上再出发。
+   **英文**：We will leave the next day if we miss the evening bus.
+   > **解析**：next day 表示“第二天/次日”。
+
+15. **中文**：我只需要买一张前往芝加哥的单程机票。
+   **英文**：I only need to buy a one-way ticket for this trip.
+   > **解析**：one-way 表示“单程的”。
+
+16. **中文**：你需要买一张往返机票还是单程机票？
+   **英文**：Would you prefer a round-trip ticket or a single journey?
+   > **解析**：round-trip 表示“往返的”。
+
+17. **中文**：不好意思，刚才太吵了，你能再说一遍吗？
+   **英文**：Could you say that again? I couldn't hear you clearly.
+   > **解析**：say that again 表示“再说一遍/重说一遍”。
+
+18. **中文**：无论你去哪里旅行，都要妥善保管好护照。
+   **英文**：Wherever you travel, keep your passport in a safe place.
+   > **解析**：Wherever 表示“无论哪里/无论去哪”。
+
+19. **中文**：下个月我们将前往云南开展一次难忘的观光旅游。
+   **英文**：We will embark on a sightseeing tour next month.
+   > **解析**：will 表示“将要/将会”。
+
+20. **中文**：如果没有有效签证，你将无法顺利入境登机。
+   **英文**：You won't be able to enter without a valid passport visa.
+   > **解析**：won't 即 will not，表示“将不会”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Passengers should present their passports before they board the cruise ship.
-   > **中文**：乘客在登上游轮前应出示护照。
+1. Passengers began to board the plane half an hour before departure.
+   > **中文**：在航班离港前半小时，旅客开始登机。
 
-2. You can find a currency exchange office right next to the airport arrival hall.
-   > **中文**：你可以在机场到达大厅旁边找到外币兑换处。
+2. It is best to book your hotel room well in advance during peak season.
+   > **中文**：建议大家在旅游旺季提前预订酒店房间。
 
-3. We took a scenic ferry ride across the harbor to reach the island.
-   > **中文**：我们乘坐了风景优美的摆渡船穿过港口前往小岛。
+3. They went on a seven-day luxury Caribbean cruise last winter.
+   > **中文**：他们报名参加了一为期七天的加勒比海豪华邮轮游。
 
-4. Back in his college days, he preferred to hitchhike across Europe.
-   > **中文**：在他的大学时代，他更喜欢搭顺风车游览欧洲。
+4. You can exchange cash at the currency exchange desk in the airport.
+   > **中文**：你可以在机场航站楼内的货币兑换处换一些外币。
 
-5. They spent their honeymoon staying at a five-star luxury hotel by the beach.
-   > **中文**：他们在海滩边的一家五星级奢华酒店度过了蜜月。
+5. The flight to New York will depart at eight o'clock tonight.
+   > **中文**：从北京飞往纽约的航班将于今晚八点准时起飞离港。
 
-6. Enjoying a bike ride along the coastal path is a wonderful tourist activity.
-   > **中文**：沿着海岸小径骑自行车骑行是一项极好的观光活动。
+6. This is a direct flight with no layover stops on the way.
+   > **中文**：这是一趟直达航班，中途没有任何停靠。
 
-7. The tour guide will explain the history of the ancient castle during the tour.
-   > **中文**：导游将在游览过程中讲解这座古堡的历史。
+7. Tourists love to explore the old streets and historic markets.
+   > **中文**：游客们喜欢漫步在古老的小巷里探索这座历史名城。
 
-8. It is advisable to book your train tickets well in advance during peak season.
-   > **中文**：建议在旅游旺季提前预约预订火车票。
+8. We took a morning ferry across the channel to the island.
+   > **中文**：我们乘坐渡轮横渡海峡前往对岸的小岛。
 
-9. Is there a direct flight from London to Tokyo without any layovers.
-   > **中文**：有从伦敦直飞东京且没有任何中途停留的直达航班吗？
+9. Young travelers love to go backpacking through Europe in summer.
+   > **中文**：年轻旅行者为了省钱喜欢去各省背包游。
 
-10. How long will it take us to get to the historic city center from the station?
-   > **中文**：从车站到历史悠久的市中心需要花费我们多长时间？
+10. Some travelers try to hitchhike along the highway to save money.
+   > **中文**：在有些地方，背包客会沿途搭顺风车前往下一个镇。
+
+11. Staying in a local hostel is a great way to meet travelers.
+   > **中文**：入住青年旅舍是认识来自世界各地新朋友的好方法。
+
+12. We have a four-hour layover in Tokyo before our next flight.
+   > **中文**：在国际转机过程中，我们在东京有四个小时的中途停留。
+
+13. The resort offers luxury rooms and private beach access.
+   > **中文**：这家五星级海滨度假村提供豪华的客房和温泉服务。
+
+14. We will leave the next day if we miss the evening bus.
+   > **中文**：如果今晚赶不上班车，我们第二天早上再出发。
+
+15. I only need to buy a one-way ticket for this trip.
+   > **中文**：我只需要买一张前往芝加哥的单程机票。
+
+16. Would you prefer a round-trip ticket or a single journey?
+   > **中文**：你需要买一张往返机票还是单程机票？
+
+17. Could you say that again? I couldn't hear you clearly.
+   > **中文**：不好意思，刚才太吵了，你能再说一遍吗？
+
+18. Wherever you travel, keep your passport in a safe place.
+   > **中文**：无论你去哪里旅行，都要妥善保管好护照。
+
+19. We will embark on a sightseeing tour next month.
+   > **中文**：下个月我们将前往云南开展一次难忘的观光旅游。
+
+20. You won't be able to enter without a valid passport visa.
+   > **中文**：如果没有有效签证，你将无法顺利入境登机。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| board | 登机 / 登船 |
+| book | 预订 |
+| cruise | 邮轮游 |
+| currency exchange | 货币兑换 |
+| depart | 出发 / 启程 |
+| direct | 直达的 |
+| explore | 探索 |
+| ferry | 渡轮 |
+| go backpacking | 去背包游 |
+| hitchhike | 搭顺风车 |
+| hostel | 青年旅舍 |
+| layover | 中途停留 |
+| luxury | 奢华的 |
+| next day | 第二天 |
+| one-way | 单程的 |
+| round-trip | 往返的 |
+| say that again | 再说一遍 |
+| wherever | 无论哪里 |
+| will | 将要 |
+| won't | 将不会 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ will / won't 表将来/意愿。wherever = no matter where。
 
 ### 1
 
-Passengers should present their passports before they `____` the cruise ship.
+Passengers began to ____ the plane half an hour before departure.
 
 - [x] board
 - [ ] book
-- [ ] direct
+- [ ] cruise
 
-> **解析**：board 为及物动词，意为“登上（船/飞机/车）”。board the ship/plane 表示登船/登机。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-You can find a `____` office right next to the airport arrival hall.
+It is best to ____ your hotel room well in advance during peak season.
 
-- [x] currency exchange
-- [ ] book
-- [ ] explore
+- [x] book
+- [ ] board
+- [ ] cruise
 
-> **解析**：currency exchange 为名词短语，指“外币兑换”。currency exchange office 指货币兑换处。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-We took a scenic `____` ride across the harbor to reach the island.
+They went on a seven-day ____ Caribbean cruise last winter.
 
-- [x] ferry
-- [ ] cruise
-- [ ] explore
+- [x] luxury
+- [ ] board
+- [ ] book
 
-> **解析**：ferry 为可数名词，意为“渡船、摆渡车”。ferry ride 指乘渡船出行。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Back in his college days, he preferred to `____` across Europe.
+You can ____ cash at the currency exchange desk in the airport.
 
-- [x] hitchhike
-- [ ] currency exchange
-- [ ] ferry
+- [x] exchange
+- [ ] board
+- [ ] book
 
-> **解析**：hitchhike 为不及物动词，意为“搭顺风车旅行”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-They spent their honeymoon staying at a five-star `____` hotel by the beach.
+The flight to New York ____ depart at eight o'clock tonight.
 
-- [x] luxury
-- [ ] depart
-- [ ] get
+- [x] will
+- [ ] board
+- [ ] book
 
-> **解析**：luxury 在此处作定语，意为“奢华的、豪华的”（luxury hotel 奢华酒店）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Enjoying a bike `____` along the coastal path is a wonderful tourist activity.
+This is a ____ flight with no layover stops on the way.
 
-- [x] ride
-- [ ] direct
-- [ ] go backpacking
+- [x] direct
+- [ ] board
+- [ ] book
 
-> **解析**：ride 在此处作名词，意为“骑行、乘坐”。bike ride 即骑自行车。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The tour guide `____` explain the history of the ancient castle during the tour.
+Tourists love to ____ the old streets and historic markets.
 
-- [x] will
-- [ ] explore
-- [ ] hitchhike
+- [x] explore
+- [ ] board
+- [ ] book
 
-> **解析**：will 为情态动词，用于构成一般将来时（will explain），表达计划或必然发生的动作。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-It is advisable to `____` your train tickets well in advance during peak season.
+We took a morning ____ across the channel to the island.
 
-- [x] book
-- [ ] get
-- [ ] if
+- [x] ferry
+- [ ] board
+- [ ] book
 
-> **解析**：book 为及物动词，意为“预订、订购”。常用搭配 book tickets / book a room。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Is there a `____` flight from London to Tokyo without any layovers.
+Young travelers love to go ____ through Europe in summer.
 
-- [x] direct
-- [ ] go backpacking
-- [ ] layover
+- [x] backpacking
+- [ ] board
+- [ ] book
 
-> **解析**：direct 在此处作形容词，意为“直达的、不中转的”。direct flight 即直飞航班。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-How long will it take us to `____` to the historic city center from the station?
+Some travelers try to ____ along the highway to save money.
 
-- [x] get
-- [ ] hitchhike
-- [ ] luxury
+- [x] hitchhike
+- [ ] board
+- [ ] book
 
-> **解析**：get 短语 get to 意为“到达某地”，常用于询问交通抵达时间（get to a place）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Staying in a local ____ is a great way to meet travelers.
+
+- [x] hostel
+- [ ] board
+- [ ] book
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+We have a four-hour ____ in Tokyo before our next flight.
+
+- [x] layover
+- [ ] board
+- [ ] book
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The resort offers ____ rooms and private beach access.
+
+- [x] luxury
+- [ ] board
+- [ ] book
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+We ____ leave the next day if we miss the evening bus.
+
+- [x] will
+- [ ] board
+- [ ] book
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+I only need to buy a ____ ticket for this trip.
+
+- [x] one-way
+- [ ] board
+- [ ] book
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Would you prefer a ____ ticket or a single journey?
+
+- [x] round-trip
+- [ ] board
+- [ ] book
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Could you say that again? I ____ hear you clearly.
+
+- [x] couldn't
+- [ ] board
+- [ ] book
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+____ you travel, keep your passport in a safe place.
+
+- [x] Wherever
+- [ ] board
+- [ ] book
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+We ____ embark on a sightseeing tour next month.
+
+- [x] will
+- [ ] board
+- [ ] book
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+You ____ be able to enter without a valid passport visa.
+
+- [x] won't
+- [ ] board
+- [ ] book
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

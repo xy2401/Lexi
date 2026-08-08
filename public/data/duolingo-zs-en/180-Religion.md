@@ -53,83 +53,176 @@ Buddhist, Christian, Hindu, Jewish, Muslim, atheist, become, believe in, bible, 
 
 <quiz-sentence-builder>
 
-1. **中文**：山上的古老佛教寺庙每年都吸引着宁静的朝圣者。  
-   **英文**：The ancient Buddhist temple on the mountain attracts peaceful pilgrims every year.
-   > **解析**：Buddhist 在此处作形容词，意为“佛教的”，修饰 temple（Buddhist temple 佛教寺庙）。
+1. **中文**：许多玄奘故事与佛教徒的传统息息相关。
+   **英文**：The monk was a devoted Buddhist who lived in temple.
+   > **解析**：Buddhist 表示“佛教徒/佛教的”。
 
-2. **中文**：穆斯林传统在宗教节日期间强调好客与慈善。  
-   **英文**：Muslim traditions emphasize hospitality and charity during religious holidays.
-   > **解析**：Muslim 在此处作形容词，意为“伊斯兰教的、穆斯林的”，修饰 traditions。
+2. **中文**：平安夜全球数以亿计的基督教徒前往教堂。
+   **英文**：Many Christian families attend church on Christmas Eve.
+   > **解析**：Christian 表示“基督教徒/基督教的”。
 
-3. **中文**：那本历史悠久的皮装圣经在博物馆档案室中被精心保存。  
-   **英文**：The historic leather-bound bible was preserved carefully in the museum archive.
-   > **解析**：bible 为名词，指基督教的《圣经》，在此处为文化与历史专有名词。
+3. **中文**：印度教徒视排灯节为最盛大的传统节日。
+   **英文**：Diwali is an important festival for Hindu communities.
+   > **解析**：Hindu 表示“印度教徒/印度教的”。
 
-4. **中文**：在许多古代文化中，死亡被视为通往另一个领域的精神过渡。  
-   **英文**：In many ancient cultures, death was viewed as a spiritual transition into another realm.
-   > **解析**：death 为名词，意为“死亡、逝世”，作句子的主语。
+4. **中文**：犹太人的传统节日包含光明节等重要日子。
+   **英文**：Traditional Jewish customs have a very rich history.
+   > **解析**：Jewish 表示“犹太人的/犹太教的”。
 
-5. **中文**：人们树立雕像以纪念古代智慧与战争女神。  
-   **英文**：Statues were erected to honor the ancient goddess of wisdom and war.
-   > **解析**：goddess 为可数名词，意为“女神”，与 god（男神）对应。
+5. **中文**：穆斯林在斋月期间遵守日间禁食的规定。
+   **英文**：Muslim communities celebrate Eid after Ramadan.
+   > **解析**：Muslim 表示“穆斯林/伊斯兰教徒”。
 
-6. **中文**：村民们在日落时分聚集在一起，为丰收与健康默默祈祷。  
-   **英文**：Villagers gathered at sunset to offer a quiet prayer for good harvest and health.
-   > **解析**：prayer 为名词，意为“祈祷、祷告”。offer a prayer 意为“做出祈祷”。
+6. **中文**：作为无神论者，他不信仰任何具体的宗教神明。
+   **英文**：An atheist does not hold a belief in any deity.
+   > **解析**：atheist 表示“无神论者”。
 
-7. **中文**：根据习俗，社区举办了节日活动来庆祝春天的回归。  
-   **英文**：The community held a festival to celebrate the return of spring according to custom.
-   > **解析**：return 在此处作名词，意为“归来、回归”。the return of spring 指春天的回归。
+7. **中文**：数百万信徒信仰神明能给人带来心灵平安。
+   **英文**：Many religious people believe in a high power.
+   > **解析**：believe in 表示“信仰/相信……的存在”。
 
-8. **中文**：圣诞节是一个主要的基督教节日，全世界都用音乐和家庭聚会来庆祝。  
-   **英文**：Christmas is a major Christian holiday celebrated with music and family gatherings worldwide.
-   > **解析**：Christian 在此处作形容词，意为“基督教的”，修饰 holiday（Christian holiday）。
+8. **中文**：神父在星期天的仪式上诵读圣经章节。
+   **英文**：The priest read a passage from the holy bible.
+   > **解析**：bible 表示“圣经”。
 
-9. **中文**：无神论者是指不相信存在任何神灵或上帝的人。  
-   **英文**：An atheist is someone who does not believe in the existence of any deity or God.
-   > **解析**：atheist 为可数名词，指“无神论者”，由否定前缀 a- 与 deity/theist 构词。
+9. **中文**：那座老教堂属于天主教教区的遗产建筑。
+   **英文**：They attended a traditional Catholic mass service.
+   > **解析**：Catholic 表示“天主教的”。
 
-10. **中文**：这座大教堂是几百年前建造的哥特式天主教建筑的著名代表。  
-   **英文**：The cathedral is a famous example of gothic catholic architecture built centuries ago.
-   > **解析**：catholic 在此处作形容词，意为“天主教的”，修饰 architecture（catholic architecture）。
+10. **中文**：教堂屋顶耸立着一座庄严的金色十字架。
+   **英文**：A wooden cross stood on top of the old church.
+   > **解析**：cross 表示“十字架/跨越”。
+
+11. **中文**：在许多文化中，人们对死亡怀有敬畏之心。
+   **英文**：They mourned the unexpected death of their leader.
+   > **解析**：death 表示“死亡/逝世”。
+
+12. **中文**：毋庸置疑，他的诚实赢得了大家的信任。
+   **英文**：There is no doubt that peace is essential for all.
+   > **解析**：doubt 表示“怀疑/疑虑”；no doubt 意为“毫无疑问”。
+
+13. **中文**：他们祈求神保佑这片土地风调雨顺。
+   **英文**：People pray to God for health and protection.
+   > **解析**：God 表示“神/上帝”。
+
+14. **中文**：古希腊神话中包含许多关于女神的传说。
+   **英文**：The ancient temple was built to honor a goddess.
+   > **解析**：goddess 表示“女神”。
+
+15. **中文**：真正的幸福来自于内心的宁静与满足。
+   **英文**：True happiness comes from love, peace, and faith.
+   > **解析**：happiness 表示“幸福/快乐”。
+
+16. **中文**：信徒们每天早晨在神前作虔诚的祈祷。
+   **英文**：She said a quiet prayer before going to sleep.
+   > **解析**：prayer 表示“祈祷/祷告”。
+
+17. **中文**：尊敬的神父给新人主持了神圣的婚礼。
+   **英文**：The parish priest gave a blessing to the couple.
+   > **解析**：priest 表示“神父/牧师”。
+
+18. **中文**：该历史遗址吸引了许多宗教朝圣者。
+   **英文**：The mountain is considered a sacred religious site.
+   > **解析**：religious 表示“宗教的/虔诚的”。
+
+19. **中文**：要时刻尊重不同人群的信仰和文化背景。
+   **英文**：We must respect different beliefs and traditions.
+   > **解析**：respect 表示“尊重/敬佩”。
+
+20. **中文**：游客们脱鞋进入这座古老的古代寺庙。
+   **英文**：They visited a famous Buddhist temple in Kyoto.
+   > **解析**：temple 表示“寺庙/殿堂”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The ancient Buddhist temple on the mountain attracts peaceful pilgrims every year.
-   > **中文**：山上的古老佛教寺庙每年都吸引着宁静的朝圣者。
+1. The monk was a devoted Buddhist who lived in temple.
+   > **中文**：许多玄奘故事与佛教徒的传统息息相关。
 
-2. Muslim traditions emphasize hospitality and charity during religious holidays.
-   > **中文**：穆斯林传统在宗教节日期间强调好客与慈善。
+2. Many Christian families attend church on Christmas Eve.
+   > **中文**：平安夜全球数以亿计的基督教徒前往教堂。
 
-3. The historic leather-bound bible was preserved carefully in the museum archive.
-   > **中文**：那本历史悠久的皮装圣经在博物馆档案室中被精心保存。
+3. Diwali is an important festival for Hindu communities.
+   > **中文**：印度教徒视排灯节为最盛大的传统节日。
 
-4. In many ancient cultures, death was viewed as a spiritual transition into another realm.
-   > **中文**：在许多古代文化中，死亡被视为通往另一个领域的精神过渡。
+4. Traditional Jewish customs have a very rich history.
+   > **中文**：犹太人的传统节日包含光明节等重要日子。
 
-5. Statues were erected to honor the ancient goddess of wisdom and war.
-   > **中文**：人们树立雕像以纪念古代智慧与战争女神。
+5. Muslim communities celebrate Eid after Ramadan.
+   > **中文**：穆斯林在斋月期间遵守日间禁食的规定。
 
-6. Villagers gathered at sunset to offer a quiet prayer for good harvest and health.
-   > **中文**：村民们在日落时分聚集在一起，为丰收与健康默默祈祷。
+6. An atheist does not hold a belief in any deity.
+   > **中文**：作为无神论者，他不信仰任何具体的宗教神明。
 
-7. The community held a festival to celebrate the return of spring according to custom.
-   > **中文**：根据习俗，社区举办了节日活动来庆祝春天的回归。
+7. Many religious people believe in a high power.
+   > **中文**：数百万信徒信仰神明能给人带来心灵平安。
 
-8. Christmas is a major Christian holiday celebrated with music and family gatherings worldwide.
-   > **中文**：圣诞节是一个主要的基督教节日，全世界都用音乐和家庭聚会来庆祝。
+8. The priest read a passage from the holy bible.
+   > **中文**：神父在星期天的仪式上诵读圣经章节。
 
-9. An atheist is someone who does not believe in the existence of any deity or God.
-   > **中文**：无神论者是指不相信存在任何神灵或上帝的人。
+9. They attended a traditional Catholic mass service.
+   > **中文**：那座老教堂属于天主教教区的遗产建筑。
 
-10. The cathedral is a famous example of gothic catholic architecture built centuries ago.
-   > **中文**：这座大教堂是几百年前建造的哥特式天主教建筑的著名代表。
+10. A wooden cross stood on top of the old church.
+   > **中文**：教堂屋顶耸立着一座庄严的金色十字架。
+
+11. They mourned the unexpected death of their leader.
+   > **中文**：在许多文化中，人们对死亡怀有敬畏之心。
+
+12. There is no doubt that peace is essential for all.
+   > **中文**：毋庸置疑，他的诚实赢得了大家的信任。
+
+13. People pray to God for health and protection.
+   > **中文**：他们祈求神保佑这片土地风调雨顺。
+
+14. The ancient temple was built to honor a goddess.
+   > **中文**：古希腊神话中包含许多关于女神的传说。
+
+15. True happiness comes from love, peace, and faith.
+   > **中文**：真正的幸福来自于内心的宁静与满足。
+
+16. She said a quiet prayer before going to sleep.
+   > **中文**：信徒们每天早晨在神前作虔诚的祈祷。
+
+17. The parish priest gave a blessing to the couple.
+   > **中文**：尊敬的神父给新人主持了神圣的婚礼。
+
+18. The mountain is considered a sacred religious site.
+   > **中文**：该历史遗址吸引了许多宗教朝圣者。
+
+19. We must respect different beliefs and traditions.
+   > **中文**：要时刻尊重不同人群的信仰和文化背景。
+
+20. They visited a famous Buddhist temple in Kyoto.
+   > **中文**：游客们脱鞋进入这座古老的古代寺庙。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| Buddhist | 佛教徒 |
+| Christian | 基督教徒 |
+| Hindu | 印度教徒 |
+| Jewish | 犹太人的 |
+| Muslim | 穆斯林 |
+| atheist | 无神论者 |
+| believe in | 信仰 / 相信 |
+| bible | 圣经 |
+| Catholic | 天主教的 |
+| cross | 十字架 |
+| death | 死亡 |
+| doubt | 怀疑 |
+| God | 神 / 上帝 |
+| goddess | 女神 |
+| happiness | 幸福 |
+| prayer | 祈祷 / 祷告 |
+| priest | 神父 / 牧师 |
+| religious | 宗教的 |
+| respect | 尊重 |
+| temple | 寺庙 |
 
 </quiz-matching>
 
@@ -137,102 +230,202 @@ Buddhist, Christian, Hindu, Jewish, Muslim, atheist, become, believe in, bible, 
 
 ### 1
 
-The ancient `____` temple on the mountain attracts peaceful pilgrims every year.
+The monk was a devoted ____ who lived in temple.
 
 - [x] Buddhist
 - [ ] Christian
-- [ ] atheist
+- [ ] Hindu
 
-> **解析**：Buddhist 在此处作形容词，意为“佛教的”，修饰 temple（Buddhist temple 佛教寺庙）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-`____` traditions emphasize hospitality and charity during religious holidays.
+Many ____ families attend church on Christmas Eve.
 
-- [x] Muslim
-- [ ] Christian
-- [ ] become
+- [x] Christian
+- [ ] Buddhist
+- [ ] Hindu
 
-> **解析**：Muslim 在此处作形容词，意为“伊斯兰教的、穆斯林的”，修饰 traditions。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The historic leather-bound `____` was preserved carefully in the museum archive.
+Diwali is an important festival for ____ communities.
 
-- [x] bible
-- [ ] Hindu
-- [ ] become
+- [x] Hindu
+- [ ] Buddhist
+- [ ] Christian
 
-> **解析**：bible 为名词，指基督教的《圣经》，在此处为文化与历史专有名词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-In many ancient cultures, `____` was viewed as a spiritual transition into another realm.
+Traditional ____ customs have a very rich history.
 
-- [x] death
-- [ ] Jewish
-- [ ] believe in
+- [x] Jewish
+- [ ] Buddhist
+- [ ] Christian
 
-> **解析**：death 为名词，意为“死亡、逝世”，作句子的主语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Statues were erected to honor the ancient `____`dess of wisdom and war.
+____ communities celebrate Eid after Ramadan.
 
-- [x] god
-- [ ] Muslim
-- [ ] bible
+- [x] Muslim
+- [ ] Buddhist
+- [ ] Christian
 
-> **解析**：goddess 为可数名词，意为“女神”，与 god（男神）对应。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Villagers gathered at sunset to offer a quiet `____` for good harvest and health.
+An ____ does not hold a belief in any deity.
 
-- [x] prayer
-- [ ] atheist
-- [ ] catholic
+- [x] atheist
+- [ ] Buddhist
+- [ ] Christian
 
-> **解析**：prayer 为名词，意为“祈祷、祷告”。offer a prayer 意为“做出祈祷”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The community held a festival to celebrate the `____` of spring according to custom.
+Many ____ people believe in a high power.
 
-- [x] return
-- [ ] become
-- [ ] cross
+- [x] religious
+- [ ] Buddhist
+- [ ] Christian
 
-> **解析**：return 在此处作名词，意为“归来、回归”。the return of spring 指春天的回归。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Christmas is a major `____` holiday celebrated with music and family gatherings worldwide.
+The ____ read a passage from the holy bible.
 
-- [x] Christian
-- [ ] bible
-- [ ] doubt
+- [x] priest
+- [ ] Buddhist
+- [ ] Christian
 
-> **解析**：Christian 在此处作形容词，意为“基督教的”，修饰 holiday（Christian holiday）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-An `____` is someone who does not believe in the existence of any deity or God.
+They attended a traditional ____ mass service.
 
-- [x] atheist
-- [ ] catholic
-- [ ] ghost
+- [x] Catholic
+- [ ] Buddhist
+- [ ] Christian
 
-> **解析**：atheist 为可数名词，指“无神论者”，由否定前缀 a- 与 deity/theist 构词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The cathedral is a famous example of gothic `____` architecture built centuries ago.
+A wooden ____ stood on top of the old church.
 
-- [x] catholic
-- [ ] cross
-- [ ] god
+- [x] cross
+- [ ] Buddhist
+- [ ] Christian
 
-> **解析**：catholic 在此处作形容词，意为“天主教的”，修饰 architecture（catholic architecture）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+They mourned the unexpected ____ of their leader.
+
+- [x] death
+- [ ] Buddhist
+- [ ] Christian
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+There is no ____ that peace is essential for all.
+
+- [x] doubt
+- [ ] Buddhist
+- [ ] Christian
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+People pray to ____ for health and protection.
+
+- [x] God
+- [ ] Buddhist
+- [ ] Christian
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The ancient ____ was built to honor a goddess.
+
+- [x] temple
+- [ ] Buddhist
+- [ ] Christian
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+True ____ comes from love, peace, and faith.
+
+- [x] happiness
+- [ ] Buddhist
+- [ ] Christian
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+She said a quiet ____ before going to sleep.
+
+- [x] prayer
+- [ ] Buddhist
+- [ ] Christian
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The parish ____ gave a blessing to the couple.
+
+- [x] priest
+- [ ] Buddhist
+- [ ] Christian
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+The mountain is considered a sacred ____ site.
+
+- [x] religious
+- [ ] Buddhist
+- [ ] Christian
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+We must ____ different beliefs and traditions.
+
+- [x] respect
+- [ ] Buddhist
+- [ ] Christian
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+They visited a famous ____ temple in Kyoto.
+
+- [x] Buddhist
+- [ ] Christian
+- [ ] Hindu
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

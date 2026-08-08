@@ -61,83 +61,176 @@ can't / couldn't / won't 是情态动词的否定。canceled 表示"被取消"�
 
 <quiz-sentence-builder>
 
-1. **中文**：乘客需要在航班起飞时间前至少两小时办理登机手续。  
-   **英文**：Passengers need to check in at least two hours before the flight departure time.
-   > **解析**：check in 为动词短语，在机场语境中意为“办理登机手续/报到”。departure time 意为“起飞时间”。
+1. **中文**：作为一名外国公民，你需要持有有效签证才能进入大使馆。  
+   **英文**：As a foreign citizen, you need a valid visa for the embassy.
+   > **解析**：citizen 表示“公民”；visa 表示“签证”；embassy 表示“大使馆”。
 
-2. **中文**：请确保您的托运行李不超过二十公斤的重量限制。  
-   **英文**：Make sure your checked baggage does not exceed the weight limit of twenty kilograms.
-   > **解析**：baggage 为不可数名词，意为“行李”（美式，英式常用 luggage）。checked baggage 表示“托运行李”。
+2. **中文**：办理登机手续后，请前往安检窗口检查行李。  
+   **英文**：After you check in, go through security for baggage check.
+   > **解析**：check in 表示“办理登机手续”；security 表示“安检”；baggage 表示“行李”。
 
-3. **中文**：在通过机场安检检票口时，你必须脱下夹克。  
-   **英文**：You must take off your jacket when passing through airport security checkpoint.
-   > **解析**：security 为名词，在此处作定语修饰 checkpoint，security checkpoint 表示“安检检查站”。
+3. **中文**：我困惑于为什么他们取消了我的免费接送班车预订。  
+   **英文**：I was confused why they canceled my shuttle reservations.
+   > **解析**：confused 表示“困惑的”；canceled 表示“被取消的”；reservations 表示“预订”。
 
-4. **中文**：游客在预订国际航班之前需要申请旅游签证。  
-   **英文**：Travelers need to apply for a tourist visa before booking their international flights.
-   > **解析**：visa 为名词，意为“签证”。apply for a visa 表示“申请签证”。tourist visa 指“旅游签证”。
+4. **中文**：出国旅行时，请在前门带好备用钥匙和护照。  
+   **英文**：When traveling abroad, keep a spare key near the front door.
+   > **解析**：abroad 表示“在国外”；spare 表示“备用的”；front door 表示“前门”。
 
-5. **中文**：在起飞前一天在线确认您的航班预订是明智的。  
-   **英文**：It is wise to confirm your flight reservations online the day before departure.
-   > **解析**：reservations 为名词复数，意为“预订、预约”。confirm flight reservations 表示“确认航班预订”。
+5. **中文**：机场安检人员要求我们展示所有的备用物品。  
+   **英文**：Airport security officers asked us to show all spare items.
+   > **解析**：security 表示“安检/安全”；spare 表示“备用的”。
 
-6. **中文**：由于大雪，航空公司取消了早晨的几趟航班。  
-   **英文**：Due to heavy snow, several morning flights were canceled by the airline.
-   > **解析**：canceled 为动词 cancel 的过去分词，在句中构成被动语态（were canceled），意为“被取消”。美式拼写为 canceled，英式为 cancelled。
+6. **中文**：进入候机大厅后，你可以乘坐机场内部交通工具。  
+   **英文**：After you get in, you can take airport transportation.
+   > **解析**：get in 表示“进入”；transportation 表示“交通工具/运输”。
 
-7. **中文**：在国外留学给学生们提供了体验不同文化的绝佳机会。  
-   **英文**：Studying abroad offers students a wonderful opportunity to experience different cultures.
-   > **解析**：abroad 为副词，意为“在国外、到国外”。study abroad 表示“出国留学”。修饰动词动名词 studying。
+7. **中文**：你必须支付额外的行李超重费用。  
+   **英文**：You must pay an extra baggage fee at the airport desk.
+   > **解析**：fee 表示“费用”；baggage 表示“行李”。
 
-8. **中文**：如果你在国外遗失了护照，应当立即前往你的大使馆。  
-   **英文**：If you lose your passport in another country, you should visit your embassy immediately.
-   > **解析**：embassy 为名词，意为“大使馆”。前面接物主代词 your，或冠词 an（an embassy）。
+8. **中文**：似乎我们需要翻译这份官方入境文件。  
+   **英文**：It seems that we need to translate this entry document.
+   > **解析**：seem / seems 表示“似乎/看起来”；translate 表示“翻译”。
 
-9. **中文**：乘客可能需要为超大行李物品支付额外费用。  
-   **英文**：Passengers may have to pay an extra fee for oversized luggage items.
-   > **解析**：fee 为可数名词，意为“费用、服务费”。an extra fee 表示“额外费用”。oversized 表示“超大号的”。
+9. **中文**：告诉我，你拿到了去美国的大使馆签证吗？  
+   **英文**：Tell me, did you get your visa from the US embassy?
+   > **解析**：tell 表示“告诉”；visa 表示“签证”；embassy 表示“大使馆”。
 
-10. **中文**：从机场到市中心的公共交通非常快速方便。  
-   **英文**：Public transportation from the airport to the city center is fast and convenient.
-   > **解析**：transportation 为不可数名词，意为“交通工具、运输”。public transportation 表示“公共交通”。
+10. **中文**：我不应该把备用钥匙留在大楼的前门。  
+   **英文**：I shouldn't leave the spare key at the front door.
+   > **解析**：shouldn't 表示“不应该”；front door 表示“前门”。
+
+11. **中文**：出境前请在柜台办理登机手续。  
+   **英文**：Please check in at the counter before going abroad.
+   > **解析**：check in 表示“办理登机/入住手续”。
+
+12. **中文**：作为该国公民，你有权享受公共交通服务。  
+   **英文**：As a citizen, you can use public transportation services.
+   > **解析**：citizen 表示“公民”。
+
+13. **中文**：请保管好你的个人行李，不要离身。  
+   **英文**：Please take good care of your personal baggage.
+   > **解析**：baggage 表示“行李”。
+
+14. **中文**：大使馆的工作人员非常耐心地为我们办理手续。  
+   **英文**：The staff at the embassy helped us patiently.
+   > **解析**：embassy 表示“大使馆”。
+
+15. **中文**：因为暴风雨，机场取消了今天的全部航班。  
+   **英文**：The airport canceled all flights due to the storm.
+   > **解析**：canceled 表示“取消了”。
+
+16. **中文**：请出示你的预订凭证和有效身份证明。  
+   **英文**：Please present your flight reservations at the desk.
+   > **解析**：reservations 表示“预订/预约”。
+
+17. **中文**：多余的备用钥匙放在前门旁的抽屉里。  
+   **英文**：The spare key is in the drawer by the front door.
+   > **解析**：spare 表示“备用的”；front door 表示“前门”。
+
+18. **中文**：你能帮我把这些日文说明翻译成英文吗？  
+   **英文**：Can you help me translate these words into English?
+   > **解析**：translate 表示“翻译”。
+
+19. **中文**：去国外留学是一次非常宝贵的人生经历。  
+   **英文**：Studying abroad is a very valuable life experience.
+   > **解析**：abroad 表示“在国外/出国”。
+
+20. **中文**：他们似乎在安检处遇到了一些小麻烦。  
+   **英文**：They seem to have a little trouble at airport security.
+   > **解析**：seem 表示“似乎/看起来”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Passengers need to check in at least two hours before the flight departure time.
-   > **中文**：乘客需要在航班起飞时间前至少两小时办理登机手续。
+1. As a foreign citizen, you need a valid visa for the embassy.
+   > **中文**：作为一名外国公民，你需要持有有效签证才能进入大使馆。
 
-2. Make sure your checked baggage does not exceed the weight limit of twenty kilograms.
-   > **中文**：请确保您的托运行李不超过二十公斤的重量限制。
+2. After you check in, go through security for baggage check.
+   > **中文**：办理登机手续后，请前往安检窗口检查行李。
 
-3. You must take off your jacket when passing through airport security checkpoint.
-   > **中文**：在通过机场安检检票口时，你必须脱下夹克。
+3. I was confused why they canceled my shuttle reservations.
+   > **中文**：我困惑于为什么他们取消了我的免费接送班车预订。
 
-4. Travelers need to apply for a tourist visa before booking their international flights.
-   > **中文**：游客在预订国际航班之前需要申请旅游签证。
+4. When traveling abroad, keep a spare key near the front door.
+   > **中文**：出国旅行时，请在前门带好备用钥匙和护照。
 
-5. It is wise to confirm your flight reservations online the day before departure.
-   > **中文**：在起飞前一天在线确认您的航班预订是明智的。
+5. Airport security officers asked us to show all spare items.
+   > **中文**：机场安检人员要求我们展示所有的备用物品。
 
-6. Due to heavy snow, several morning flights were canceled by the airline.
-   > **中文**：由于大雪，航空公司取消了早晨的几趟航班。
+6. After you get in, you can take airport transportation.
+   > **中文**：进入候机大厅后，你可以乘坐机场内部交通工具。
 
-7. Studying abroad offers students a wonderful opportunity to experience different cultures.
-   > **中文**：在国外留学给学生们提供了体验不同文化的绝佳机会。
+7. You must pay an extra baggage fee at the airport desk.
+   > **中文**：你必须支付额外的行李超重费用。
 
-8. If you lose your passport in another country, you should visit your embassy immediately.
-   > **中文**：如果你在国外遗失了护照，应当立即前往你的大使馆。
+8. It seems that we need to translate this entry document.
+   > **中文**：似乎我们需要翻译这份官方入境文件。
 
-9. Passengers may have to pay an extra fee for oversized luggage items.
-   > **中文**：乘客可能需要为超大行李物品支付额外费用。
+9. Tell me, did you get your visa from the US embassy?
+   > **中文**：告诉我，你拿到了去美国的大使馆签证吗？
 
-10. Public transportation from the airport to the city center is fast and convenient.
-   > **中文**：从机场到市中心的公共交通非常快速方便。
+10. I shouldn't leave the spare key at the front door.
+   > **中文**：我不应该把备用钥匙留在大楼的前门。
+
+11. Please check in at the counter before going abroad.
+   > **中文**：出境前请在柜台办理登机手续。
+
+12. As a citizen, you can use public transportation services.
+   > **中文**：作为该国公民，你有权享受公共交通服务。
+
+13. Please take good care of your personal baggage.
+   > **中文**：请保管好你的个人行李，不要离身。
+
+14. The staff at the embassy helped us patiently.
+   > **中文**：大使馆的工作人员非常耐心地为我们办理手续。
+
+15. The airport canceled all flights due to the storm.
+   > **中文**：因为暴风雨，机场取消了今天的全部航班。
+
+16. Please present your flight reservations at the desk.
+   > **中文**：请出示你的预订凭证和有效身份证明。
+
+17. The spare key is in the drawer by the front door.
+   > **中文**：多余的备用钥匙放在前门旁的抽屉里。
+
+18. Can you help me translate these words into English?
+   > **中文**：你能帮我把这些日文说明翻译成英文吗？
+
+19. Studying abroad is a very valuable life experience.
+   > **中文**：去国外留学是一次非常宝贵的人生经历。
+
+20. They seem to have a little trouble at airport security.
+   > **中文**：他们似乎在安检处遇到了一些小麻烦。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| abroad | 在国外 / 出国 |
+| baggage | 行李 |
+| can't | 不能 / 无法 |
+| cancel | 取消 |
+| canceled | 已取消的 |
+| check in | 办理登机 / 入住 |
+| citizen | 公民 |
+| confused | 困惑的 |
+| embassy | 大使馆 |
+| fee | 费用 |
+| front door | 前门 |
+| get in | 进入 |
+| pass | 通关 / 护照 |
+| reservations | 预订 / 预约 |
+| security | 安检 / 安全 |
+| seem | 似乎 / 看起来 |
+| shouldn't | 不应该 |
+| spare | 备用的 |
+| tell | 告诉 |
+| translate | 翻译 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ can't / couldn't / won't 是情态动词的否定。canceled 表示"被取消"�
 
 ### 1
 
-Passengers need to `____` at least two hours before the flight departure time.
+As a foreign ____, you need a valid visa for the embassy.
 
-- [x] check in
+- [x] citizen
 - [ ] abroad
-- [ ] canceled
+- [ ] baggage
 
-> **解析**：check in 为动词短语，在机场语境中意为“办理登机手续/报到”。departure time 意为“起飞时间”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Make sure your checked `____` does not exceed the weight limit of twenty kilograms.
+After ____ check in, go through security for baggage check.
 
-- [x] baggage
-- [ ] can't
-- [ ] citizen
+- [x] you
+- [ ] abroad
+- [ ] baggage
 
-> **解析**：baggage 为不可数名词，意为“行李”（美式，英式常用 luggage）。checked baggage 表示“托运行李”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-You must take off your jacket when `____`ing through airport security checkpoint.
+I was ____ why they canceled my shuttle reservations.
 
-- [x] pass
-- [ ] can't
-- [ ] citizen
+- [x] confused
+- [ ] abroad
+- [ ] baggage
 
-> **解析**：security 为名词，在此处作定语修饰 checkpoint，security checkpoint 表示“安检检查站”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Travelers need to apply for a tourist `____` before booking their international flights.
+When traveling ____, keep a spare key near the front door.
 
-- [x] visa
-- [ ] cancel
-- [ ] confused
+- [x] abroad
+- [ ] baggage
+- [ ] can't
 
-> **解析**：visa 为名词，意为“签证”。apply for a visa 表示“申请签证”。tourist visa 指“旅游签证”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-It is wise to confirm your flight `____` online the day before departure.
+Airport ____ officers asked us to show all spare items.
 
-- [x] reservations
-- [ ] canceled
-- [ ] couldn't
+- [x] security
+- [ ] abroad
+- [ ] baggage
 
-> **解析**：reservations 为名词复数，意为“预订、预约”。confirm flight reservations 表示“确认航班预订”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Due to heavy snow, several morning flights were `____`ed by the airline.
+After ____ get in, you can take airport transportation.
 
-- [x] cancel
-- [ ] citizen
-- [ ] fee
+- [x] you
+- [ ] abroad
+- [ ] baggage
 
-> **解析**：canceled 为动词 cancel 的过去分词，在句中构成被动语态（were canceled），意为“被取消”。美式拼写为 canceled，英式为 cancelled。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Studying `____` offers students a wonderful opportunity to experience different cultures.
+____ must pay an extra baggage fee at the airport desk.
 
-- [x] abroad
-- [ ] confused
-- [ ] front door
+- [x] You
+- [ ] abroad
+- [ ] baggage
 
-> **解析**：abroad 为副词，意为“在国外、到国外”。study abroad 表示“出国留学”。修饰动词动名词 studying。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-If you lose your passport in another country, you should visit your `____` immediately.
+It seems that we need to ____ this entry document.
 
-- [x] embassy
-- [ ] confused
-- [ ] get in
+- [x] translate
+- [ ] abroad
+- [ ] baggage
 
-> **解析**：embassy 为名词，意为“大使馆”。前面接物主代词 your，或冠词 an（an embassy）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Passengers may have to pay an extra `____` for oversized luggage items.
+____ me, did you get your visa from the US embassy?
 
-- [x] fee
-- [ ] couldn't
-- [ ] pass
+- [x] Tell
+- [ ] abroad
+- [ ] baggage
 
-> **解析**：fee 为可数名词，意为“费用、服务费”。an extra fee 表示“额外费用”。oversized 表示“超大号的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Public `____` from the airport to the city center is fast and convenient.
+I ____ leave the spare key at the front door.
 
-- [x] transportation
-- [ ] embassy
-- [ ] pass
+- [x] shouldn't
+- [ ] abroad
+- [ ] baggage
 
-> **解析**：transportation 为不可数名词，意为“交通工具、运输”。public transportation 表示“公共交通”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Please check in at the counter before going ____.
+
+- [x] abroad
+- [ ] baggage
+- [ ] can't
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+As a ____, you can use public transportation services.
+
+- [x] citizen
+- [ ] abroad
+- [ ] baggage
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Please take good care of your personal ____.
+
+- [x] baggage
+- [ ] abroad
+- [ ] can't
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The staff at the ____ helped us patiently.
+
+- [x] embassy
+- [ ] abroad
+- [ ] baggage
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The airport ____ all flights due to the storm.
+
+- [x] canceled
+- [ ] abroad
+- [ ] baggage
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Please present your flight ____ at the desk.
+
+- [x] reservations
+- [ ] abroad
+- [ ] baggage
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The ____ key is in the drawer by the front door.
+
+- [x] spare
+- [ ] abroad
+- [ ] baggage
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Can ____ help me translate these words into English?
+
+- [x] you
+- [ ] abroad
+- [ ] baggage
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Studying ____ is a very valuable life experience.
+
+- [x] abroad
+- [ ] baggage
+- [ ] can't
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+They ____ to have a little trouble at airport security.
+
+- [x] seem
+- [ ] abroad
+- [ ] baggage
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

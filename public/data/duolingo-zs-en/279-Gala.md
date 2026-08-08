@@ -65,83 +65,176 @@ black tie, care for, couldn't possibly, dress code, fabulous, filmmaker, free, g
 
 <quiz-sentence-builder>
 
-1. **中文**：数百名尊贵嘉宾参加了在大饭店举行的一年一度的慈善晚会。  
-   **英文**：Hundreds of distinguished guests attended the annual charity gala at the grand hotel.
-   > **解析**：`gala` 指“盛大晚会、庆典活动”，在句中作名词修饰 `charity gala`（慈善晚会）。
+1. **中文**：我们获得了参加今晚慈善盛大晚宴的邀请。
+   **英文**：We received an invitation to attend tonight's charity gala.
+   > **解析**：gala 意为正式晚宴、盛大庆典。
 
-2. **中文**：邀请函上明确说明当晚的活动将是一场穿正装打黑领结的正式场合。  
-   **英文**：The invitation specifies that the evening event will be a formal black tie affair.
-   > **解析**：`black tie` 作形容词或名词，意为“黑领结的、要求穿大礼服正装的”，指极高级别的正装要求。
+2. **中文**：这是一场黑领结级别的晚宴，因此宾客必须穿着正装。
+   **英文**：This is a black tie event, so guests must wear formal clothes.
+   > **解析**：black tie 意为黑领结着装要求、正式场合。
 
-3. **中文**：所有与会人员均须严格遵守该活动优雅着装规范。  
-   **英文**：All attendees are required to strictly follow the event's elegant dress code.
-   > **解析**：`dress code` 是名词短语，意为“着装规范、穿衣要求”。
+3. **中文**：请在参加晚会前仔细核对邀请函上的着装规范。
+   **英文**：Please check the dress code on the invitation before attending.
+   > **解析**：dress code 意为着装规范。
 
-4. **中文**：她穿了一件令人惊艳的及地丝绸礼服长裙去参加年度颁奖典礼。  
-   **英文**：She wore a stunning floor-length silk gown to the annual awards ceremony.
-   > **解析**：`gown` 特指女子在正式晚宴或盛会穿的“晚礼服长裙”，区别于普通的 `dress`。
+4. **中文**：她穿了一件极具优雅气质的优雅长晚礼服出席晚宴。
+   **英文**：She wore an elegant evening gown to the anniversary dinner.
+   > **解析**：gown 意为晚礼服。
 
-5. **中文**：服务员走来走去，为宾客们递上香槟和美味的开胃小吃。  
-   **英文**：Waiters walked around serving champagne and delicious hors d'oeuvres to the guests.
-   > **解析**：`hors d'oeuvres` 源自法语，意为“开胃小吃、餐前点心”，属于复数名词短语。
+5. **中文**：服务员在开场时为宾客们端上了精致的餐前开胃小食。
+   **英文**：The waiters served delicious hors d'oeuvres during the reception.
+   > **解析**：hors d'oeuvres 意为开胃小食、餐前小点。
 
-6. **中文**：主人鼓励客人在鸡尾酒会环节互相交流并拓展人脉。  
-   **英文**：The hosts encouraged the guests to mingle and network during the cocktail hour.
-   > **解析**：`mingle` 是动词，意为“交际、应酬、融入人群”，在句中与 `network` 并列。
+6. **中文**：致辞结束后，大家一边品尝饮品一边走动社交寒暄。
+   **英文**：After the speech, everyone began to mingle over drinks.
+   > **解析**：mingle 意为社交、寒暄。
 
-7. **中文**：宴会厅里装饰着精美典雅的花艺作品和水晶灯。  
-   **英文**：The ballroom was decorated with sophisticated floral arrangements and crystal chandeliers.
-   > **解析**：`sophisticated` 是形容词，在此意为“精美典雅的、高级有品位的”。
+7. **中文**：我们能受邀参加这场盛大的庆典活动感到非常荣幸。
+   **英文**：We feel deeply honored to be invited to this grand event.
+   > **解析**：honored to 意为感到荣幸。
 
-8. **中文**：我深感荣幸能为今晚的特邀嘉宾颁发成就奖。  
-   **英文**：I am deeply honored to present the achievement award to tonight's special guest.
-   > **解析**：`be honored to do sth.` 是正式社交礼貌表达，意为“很荣幸能做某事”，后接不定式。
+8. **中文**：我由于日程冲突实在不可能按时赶过去。
+   **英文**：I couldn't possibly make it on time due to a schedule conflict.
+   > **解析**：couldn't possibly 意为实在不可能。
 
-9. **中文**：大家在这处绝美的场馆里度过了一段极好的周年庆祝时光。  
-   **英文**：Everyone had a fabulous time celebrating the anniversary at the breathtaking venue.
-   > **解析**：`fabulous` 是形容词，意为“极好的、绝妙的、极棒的”，带有赞叹色彩。
+9. **中文**：她不得不婉拒了今晚晚宴的邀请。
+   **英文**：She had to turn down the invitation to tonight's dinner.
+   > **解析**：turn down 意为婉拒。
 
-10. **中文**：拒绝参加如此高端晚宴的邀请会是不礼貌的。  
-   **英文**：It would be impolite to turn down an invitation to such a prestigious dinner party.
-   > **解析**：`turn down` 是动词短语，在此意为“拒绝（邀请、提议）”，在句中作动词 `turn down` 的宾语。
+10. **中文**：我今晚实在抽不出空，咱们改天再聚吧。
+   **英文**：I am busy tonight, so let's meet up some other time.
+   > **解析**：some other time 意为改天吧。
+
+11. **中文**：尽管我去不了，但还是非常感谢你的邀请。
+   **英文**：I cannot make it, but thanks anyway for the invitation!
+   > **解析**：thanks anyway 意为还是谢谢你。
+
+12. **中文**：你今晚的服装看起来真是太令人惊艳了！
+   **英文**：You look absolutely fabulous in your formal outfit tonight!
+   > **解析**：fabulous 意为极好的、惊艳的。
+
+13. **中文**：主办方在晚宴上准备的食品和服务简直是一流的。
+   **英文**：The food and service at the gala were absolutely superb.
+   > **解析**：superb 意为卓越的、一流的。
+
+14. **中文**：晚宴现场布置得非常优雅且富有精致品位。
+   **英文**：The atmosphere at the gala was high-class and sophisticated.
+   > **解析**：sophisticated 意为精致的、有品位的。
+
+15. **中文**：我今晚没什么心情去参加热闹的晚会。
+   **英文**：I am not really in the mood for a noisy party tonight.
+   > **解析**：in the mood 意为有心情。
+
+16. **中文**：请问您想要尝尝看特调的餐前鸡尾酒吗？
+   **英文**：Would you care for some of our special welcome drinks?
+   > **解析**：care for 意为想要、喜爱（礼貌表达）。
+
+17. **中文**：晚宴由于突如其来的暴风雨而推迟了。
+   **英文**：The gala was delayed on account of a sudden storm.
+   > **解析**：on account of 意为由于、因为。
+
+18. **中文**：时间不早了，我们该动身前往大厅了。
+   **英文**：It is getting late, so we should get going to the main hall.
+   > **解析**：get going 意为动身、出发。
+
+19. **中文**：大厅里有点太闷热了，我想走到外面透透气。
+   **英文**：It was warm inside, so I decided to step outside for fresh air.
+   > **解析**：step outside 意为走到外面。
+
+20. **中文**：我们在活动中遇到了一位非常有名的电影制作人。
+   **英文**：We met a famous filmmaker at the formal evening event.
+   > **解析**：filmmaker 意为电影制作人。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Hundreds of distinguished guests attended the annual charity gala at the grand hotel.
-   > **中文**：数百名尊贵嘉宾参加了在大饭店举行的一年一度的慈善晚会。
+1. We received an invitation to attend tonight's charity gala.
+   > **中文**：我们获得了参加今晚慈善盛大晚宴的邀请。
 
-2. The invitation specifies that the evening event will be a formal black tie affair.
-   > **中文**：邀请函上明确说明当晚的活动将是一场穿正装打黑领结的正式场合。
+2. This is a black tie event, so guests must wear formal clothes.
+   > **中文**：这是一场黑领结级别的晚宴，因此宾客必须穿着正装。
 
-3. All attendees are required to strictly follow the event's elegant dress code.
-   > **中文**：所有与会人员均须严格遵守该活动优雅着装规范。
+3. Please check the dress code on the invitation before attending.
+   > **中文**：请在参加晚会前仔细核对邀请函上的着装规范。
 
-4. She wore a stunning floor-length silk gown to the annual awards ceremony.
-   > **中文**：她穿了一件令人惊艳的及地丝绸礼服长裙去参加年度颁奖典礼。
+4. She wore an elegant evening gown to the anniversary dinner.
+   > **中文**：她穿了一件极具优雅气质的优雅长晚礼服出席晚宴。
 
-5. Waiters walked around serving champagne and delicious hors d'oeuvres to the guests.
-   > **中文**：服务员走来走去，为宾客们递上香槟和美味的开胃小吃。
+5. The waiters served delicious hors d'oeuvres during the reception.
+   > **中文**：服务员在开场时为宾客们端上了精致的餐前开胃小食。
 
-6. The hosts encouraged the guests to mingle and network during the cocktail hour.
-   > **中文**：主人鼓励客人在鸡尾酒会环节互相交流并拓展人脉。
+6. After the speech, everyone began to mingle over drinks.
+   > **中文**：致辞结束后，大家一边品尝饮品一边走动社交寒暄。
 
-7. The ballroom was decorated with sophisticated floral arrangements and crystal chandeliers.
-   > **中文**：宴会厅里装饰着精美典雅的花艺作品和水晶灯。
+7. We feel deeply honored to be invited to this grand event.
+   > **中文**：我们能受邀参加这场盛大的庆典活动感到非常荣幸。
 
-8. I am deeply honored to present the achievement award to tonight's special guest.
-   > **中文**：我深感荣幸能为今晚的特邀嘉宾颁发成就奖。
+8. I couldn't possibly make it on time due to a schedule conflict.
+   > **中文**：我由于日程冲突实在不可能按时赶过去。
 
-9. Everyone had a fabulous time celebrating the anniversary at the breathtaking venue.
-   > **中文**：大家在这处绝美的场馆里度过了一段极好的周年庆祝时光。
+9. She had to turn down the invitation to tonight's dinner.
+   > **中文**：她不得不婉拒了今晚晚宴的邀请。
 
-10. It would be impolite to turn down an invitation to such a prestigious dinner party.
-   > **中文**：拒绝参加如此高端晚宴的邀请会是不礼貌的。
+10. I am busy tonight, so let's meet up some other time.
+   > **中文**：我今晚实在抽不出空，咱们改天再聚吧。
+
+11. I cannot make it, but thanks anyway for the invitation!
+   > **中文**：尽管我去不了，但还是非常感谢你的邀请。
+
+12. You look absolutely fabulous in your formal outfit tonight!
+   > **中文**：你今晚的服装看起来真是太令人惊艳了！
+
+13. The food and service at the gala were absolutely superb.
+   > **中文**：主办方在晚宴上准备的食品和服务简直是一流的。
+
+14. The atmosphere at the gala was high-class and sophisticated.
+   > **中文**：晚宴现场布置得非常优雅且富有精致品位。
+
+15. I am not really in the mood for a noisy party tonight.
+   > **中文**：我今晚没什么心情去参加热闹的晚会。
+
+16. Would you care for some of our special welcome drinks?
+   > **中文**：请问您想要尝尝看特调的餐前鸡尾酒吗？
+
+17. The gala was delayed on account of a sudden storm.
+   > **中文**：晚宴由于突如其来的暴风雨而推迟了。
+
+18. It is getting late, so we should get going to the main hall.
+   > **中文**：时间不早了，我们该动身前往大厅了。
+
+19. It was warm inside, so I decided to step outside for fresh air.
+   > **中文**：大厅里有点太闷热了，我想走到外面透透气。
+
+20. We met a famous filmmaker at the formal evening event.
+   > **中文**：我们在活动中遇到了一位非常有名的电影制作人。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| gala | 正式晚宴；盛大庆典 |
+| black tie | 黑领结（正式着装要求） |
+| dress code | 着装规范 |
+| gown | 晚礼服 |
+| hors d'oeuvres | 开胃小食；餐前小点 |
+| mingle | 社交；寒暄 |
+| honored to | 感到荣幸 |
+| couldn't possibly | 实在不可能 |
+| turn down | 婉拒 |
+| some other time | 改天吧 |
+| thanks anyway | 还是谢谢你 |
+| fabulous | 极好的；惊艳的 |
+| superb | 卓越的；一流的 |
+| sophisticated | 精致的；有品位的 |
+| in the mood | 有心情 |
+| care for | 想要；喜爱 |
+| on account of | 由于；因为 |
+| get going | 动身；出发 |
+| step outside | 走到外面 |
+| filmmaker | 电影制作人 |
 
 </quiz-matching>
 
@@ -149,102 +242,202 @@ black tie, care for, couldn't possibly, dress code, fabulous, filmmaker, free, g
 
 ### 1
 
-Hundreds of distinguished guests attended the annual charity `____` at the grand hotel.
+We received an invitation to attend tonight's charity ____.
 
 - [x] gala
 - [ ] black tie
-- [ ] fabulous
+- [ ] care for
 
-> **解析**：`gala` 指“盛大晚会、庆典活动”，在句中作名词修饰 `charity gala`（慈善晚会）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The invitation specifies that the evening event will be a formal `____` affair.
+This is a black tie event, so guests must wear formal ____.
 
-- [x] black tie
-- [ ] couldn't possibly
-- [ ] free
+- [x] clothes
+- [ ] black tie
+- [ ] care for
 
-> **解析**：`black tie` 作形容词或名词，意为“黑领结的、要求穿大礼服正装的”，指极高级别的正装要求。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-All attendees are required to strictly follow the event's elegant `____`.
+Please check the dress code on the ____ before attending.
 
-- [x] dress code
-- [ ] couldn't possibly
-- [ ] gala
+- [x] invitation
+- [ ] black tie
+- [ ] care for
 
-> **解析**：`dress code` 是名词短语，意为“着装规范、穿衣要求”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-She wore a stunning floor-length silk `____` to the annual awards ceremony.
+She wore an elegant evening ____ to the anniversary dinner.
 
 - [x] gown
-- [ ] dress code
-- [ ] gala
+- [ ] black tie
+- [ ] care for
 
-> **解析**：`gown` 特指女子在正式晚宴或盛会穿的“晚礼服长裙”，区别于普通的 `dress`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Waiters walked around serving champagne and delicious `____` to the guests.
+The waiters served ____ hors d'oeuvres during the reception.
 
-- [x] hors d'oeuvres
-- [ ] fabulous
-- [ ] get going
+- [x] delicious
+- [ ] black tie
+- [ ] care for
 
-> **解析**：`hors d'oeuvres` 源自法语，意为“开胃小吃、餐前点心”，属于复数名词短语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The hosts encouraged the guests to `____` and network during the cocktail hour.
+After the speech, everyone began to ____ over drinks.
 
 - [x] mingle
-- [ ] filmmaker
-- [ ] gown
+- [ ] black tie
+- [ ] care for
 
-> **解析**：`mingle` 是动词，意为“交际、应酬、融入人群”，在句中与 `network` 并列。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The ballroom was decorated with `____` floral arrangements and crystal chandeliers.
+We feel deeply ____ to be invited to this grand event.
 
-- [x] sophisticated
-- [ ] free
-- [ ] have
+- [x] honored
+- [ ] black tie
+- [ ] care for
 
-> **解析**：`sophisticated` 是形容词，在此意为“精美典雅的、高级有品位的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-I am deeply `____` present the achievement award to tonight's special guest.
+I ____ possibly make it on time due to a schedule conflict.
 
-- [x] honored to
-- [ ] gala
-- [ ] hors d'oeuvres
+- [x] couldn't
+- [ ] black tie
+- [ ] care for
 
-> **解析**：`be honored to do sth.` 是正式社交礼貌表达，意为“很荣幸能做某事”，后接不定式。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Everyone had a `____` time celebrating the anniversary at the breathtaking venue.
+She had to turn down the ____ to tonight's dinner.
 
-- [x] fabulous
-- [ ] gown
-- [ ] in the mood
+- [x] invitation
+- [ ] black tie
+- [ ] care for
 
-> **解析**：`fabulous` 是形容词，意为“极好的、绝妙的、极棒的”，带有赞叹色彩。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-It would be impolite to `____` an invitation to such a prestigious dinner party.
+I am busy ____, so let's meet up some other time.
 
-- [x] turn down
-- [ ] gown
-- [ ] in the mood
+- [x] tonight
+- [ ] black tie
+- [ ] care for
 
-> **解析**：`turn down` 是动词短语，在此意为“拒绝（邀请、提议）”，在句中作动词 `turn down` 的宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+I cannot make it, but thanks anyway for the ____!
+
+- [x] invitation
+- [ ] black tie
+- [ ] care for
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+You look absolutely ____ in your formal outfit tonight!
+
+- [x] fabulous
+- [ ] black tie
+- [ ] care for
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The food and service at the ____ were absolutely superb.
+
+- [x] gala
+- [ ] black tie
+- [ ] care for
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The atmosphere at the ____ was high-class and sophisticated.
+
+- [x] gala
+- [ ] black tie
+- [ ] care for
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+I am not really in the mood for a noisy party ____.
+
+- [x] tonight
+- [ ] black tie
+- [ ] care for
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Would you care for some of our ____ welcome drinks?
+
+- [x] special
+- [ ] black tie
+- [ ] care for
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The ____ was delayed on account of a sudden storm.
+
+- [x] gala
+- [ ] black tie
+- [ ] care for
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+It is ____ late, so we should get going to the main hall.
+
+- [x] getting
+- [ ] black tie
+- [ ] care for
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+It was warm inside, so I ____ to step outside for fresh air.
+
+- [x] decided
+- [ ] black tie
+- [ ] care for
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+We met a famous ____ at the formal evening event.
+
+- [x] filmmaker
+- [ ] black tie
+- [ ] care for
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

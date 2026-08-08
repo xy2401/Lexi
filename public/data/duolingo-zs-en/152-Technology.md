@@ -61,83 +61,176 @@ phrasal verbs（短语动词）是本单元重点：plug in, set up, sign up, ba
 
 <quiz-sentence-builder>
 
-1. **中文**：我在网上搜索文件时，不小心删除了该文档。  
-   **英文**：I accidentally deleted the document while searching for the file online.
-   > **解析**：accidentally 是副词，意为“偶然地、意外地”，在此处修饰动词 deleted，说明动作发生的非故意性。
+1. **中文**：我不小心从笔记本电脑上删除了那份重要文件。
+   **英文**：I accidentally deleted the important document from my laptop.
+   > **解析**：accidentally 表示“不小心地/意外地”；delete from 表示“从……中删除”。
 
-2. **中文**：点击页面底部的蓝色按钮提交你的申请。  
-   **英文**：Click the blue button at the bottom of the page to submit your application.
-   > **解析**：button 为可数名词，意为“按钮”。在网页或软件界面中，常见搭配 click the button（点击按钮）。
+2. **中文**：发邮件前请把报告附上。
+   **英文**：Please attach the report to your email before sending it.
+   > **解析**：attach...to... 表示“将……附在……上”；report 指报告。
 
-3. **中文**：许多科技初创公司都使用 dot com 域名注册了公司名称。  
-   **英文**：Many tech start-ups registered their company names with a dot com domain.
-   > **解析**：dot com（.com）在互联网语境中指商业域名后缀，常用于形容网络商业公司或网址结尾。
+3. **中文**：别忘了每周把你的文件备份到云端。
+   **英文**：Don't forget to back up your files to the cloud every week.
+   > **解析**：back up 表示“备份”；files 意为“文件”。
 
-4. **中文**：当你尝试打开网页时，有注意到错误提示信息吗？  
-   **英文**：Did you notice the error message when you tried to open the web page?
-   > **解析**：notice 是及物动词，意为“注意到、察觉到”。后面直接接名词或名词短语（the error message）作宾语。
+4. **中文**：按下绿色按钮开始系统升级。
+   **英文**：Press the green button to start the system upgrade.
+   > **解析**：button 表示“按钮”；system upgrade 表示“系统升级”。
 
-5. **中文**：设置新的在线邮箱账户只需要五分钟。  
-   **英文**：It takes only five minutes to set up your new online email account.
-   > **解析**：set up 是动词短语，意为“设置、安装、创建”。在网络服务中常指进行初始设定（set up an account）。
+5. **中文**：你能帮我连接到办公室的无线网络吗？
+   **英文**：Can you help me connect to the office Wi-Fi network?
+   > **解析**：connect to 表示“连接到……”；Wi-Fi network 意为“无线网络”。
 
-6. **中文**：你可以使用智能手机轻松查询火车时刻表。  
-   **英文**：You can easily check the train schedule using your smartphone.
-   > **解析**：smartphone 为可数名词，意为“智能手机”。在技术主题中，常作介词 using 或 with 的宾语。
+6. **中文**：这款新手机型号要多少钱？
+   **英文**：How much does this new smartphone model cost?
+   > **解析**：cost 作动词表示“花费/价值”；smartphone 指智能手机。
 
-7. **中文**：请输入您注册的用户名和密码登录网站。  
-   **英文**：Please enter your registered username and password to log in to the website.
-   > **解析**：username 为可数名词，意为“用户名”，是网络登录时的凭证名称，常与 password 连用。
+7. **中文**：我们公司的新网站结尾是 dot com。
+   **英文**：Our new company website ends in dot com.
+   > **解析**：dot com 表示“域名后缀 .com”；website 意为“网站”。
 
-8. **中文**：发邮件前别忘了附上所要求的报告文件。  
-   **英文**：Don't forget to attach the requested report to your email before sending it.
-   > **解析**：attach 为及物动词，意为“附上、附加”。在电子公文及邮件语境中，常用结构 attach A to B（把A附在B上）。
+8. **中文**：你应该关注我们的官方页面以获取最新更新。
+   **英文**：You should follow our official page for the latest updates.
+   > **解析**：follow 表示“关注”；official page 意为“官方页面”。
 
-9. **中文**：计算机未能连接上图书馆的无线网络。  
-   **英文**：The computer failed to connect to the Wi-Fi network in the library.
-   > **解析**：connect 是动词，意为“连接”。常见结构为 connect to sth.（连接到某网络或设备）。
+9. **中文**：你可以在网上查阅这个术语的定义。
+   **英文**：You can look up the definition of this term online.
+   > **解析**：look up 表示“查阅/检索”；definition 意为“定义”。
 
-10. **中文**：我会在官方网站上查找这些技术定义。  
-   **英文**：I will look up the technical definitions on the official website.
-   > **解析**：look 短语 look up 意为“在参考书或网络中查阅（信息）”，结构为 look up sth. 或 look sth. up。
+10. **中文**：你注意到屏幕亮度的突然变化了吗？
+   **英文**：Did you notice the sudden change in screen brightness?
+   > **解析**：notice 表示“注意到”；screen brightness 表示“屏幕亮度”。
+
+11. **中文**：记得在电池耗尽前插上充电器。
+   **英文**：Remember to plug in your charger before the battery dies.
+   > **解析**：plug in 表示“插上电源/插入”；charger 意为“充电器”。
+
+12. **中文**：设置你的新账户只需要五分钟。
+   **英文**：It takes only five minutes to set up your new account.
+   > **解析**：set up 表示“设置/安装”；account 意为“账户”。
+
+13. **中文**：你需要用有效的电子邮件地址注册。
+   **英文**：You need to sign up with a valid email address.
+   > **解析**：sign up 表示“注册/签约”；valid 意为“有效的”。
+
+14. **中文**：我的新智能手机有快速处理器和清晰的摄像头。
+   **英文**：My new smartphone has a fast processor and a clear camera.
+   > **解析**：smartphone 表示“智能手机”；clear camera 表示“清晰的摄像头”。
+
+15. **中文**：这个新软件起初有点复杂难用。
+   **英文**：The new software is sort of complicated to use at first.
+   > **解析**：sort of 为口语表达，意为“稍微/有点”；complicated 表示“复杂的”。
+
+16. **中文**：务必将你的应用更新到最新版本。
+   **英文**：Make sure to update your app to the latest version.
+   > **解析**：update 表示“更新”；latest version 意为“最新版本”。
+
+17. **中文**：我们决定这个月升级我们的家用电脑系统。
+   **英文**：We decided to upgrade our home computer system this month.
+   > **解析**：upgrade 表示“升级”；computer system 意为“电脑系统”。
+
+18. **中文**：请输入你的用户名以登录数据库。
+   **英文**：Please enter your username to log into the database.
+   > **解析**：username 表示“用户名”；log into 意为“登录”。
+
+19. **中文**：他留了一条简短的语音留言，因为我没接电话。
+   **英文**：He left a quick voicemail because I couldn't answer the phone.
+   > **解析**：voicemail 表示“语音留言”；leave a voicemail 意为“留语音”。
+
+20. **中文**：调小音量，这样你就不会打扰到其他人。
+   **英文**：Turn down the volume so you don't disturb others.
+   > **解析**：volume 表示“音量”；turn down 表示“调小/关小”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I accidentally deleted the document while searching for the file online.
-   > **中文**：我在网上搜索文件时，不小心删除了该文档。
+1. I accidentally deleted the important document from my laptop.
+   > **中文**：我不小心从笔记本电脑上删除了那份重要文件。
 
-2. Click the blue button at the bottom of the page to submit your application.
-   > **中文**：点击页面底部的蓝色按钮提交你的申请。
+2. Please attach the report to your email before sending it.
+   > **中文**：发邮件前请把报告附上。
 
-3. Many tech start-ups registered their company names with a dot com domain.
-   > **中文**：许多科技初创公司都使用 dot com 域名注册了公司名称。
+3. Don't forget to back up your files to the cloud every week.
+   > **中文**：别忘了每周把你的文件备份到云端。
 
-4. Did you notice the error message when you tried to open the web page?
-   > **中文**：当你尝试打开网页时，有注意到错误提示信息吗？
+4. Press the green button to start the system upgrade.
+   > **中文**：按下绿色按钮开始系统升级。
 
-5. It takes only five minutes to set up your new online email account.
-   > **中文**：设置新的在线邮箱账户只需要五分钟。
+5. Can you help me connect to the office Wi-Fi network?
+   > **中文**：你能帮我连接到办公室的无线网络吗？
 
-6. You can easily check the train schedule using your smartphone.
-   > **中文**：你可以使用智能手机轻松查询火车时刻表。
+6. How much does this new smartphone model cost?
+   > **中文**：这款新手机型号要多少钱？
 
-7. Please enter your registered username and password to log in to the website.
-   > **中文**：请输入您注册的用户名和密码登录网站。
+7. Our new company website ends in dot com.
+   > **中文**：我们公司的新网站结尾是 dot com。
 
-8. Don't forget to attach the requested report to your email before sending it.
-   > **中文**：发邮件前别忘了附上所要求的报告文件。
+8. You should follow our official page for the latest updates.
+   > **中文**：你应该关注我们的官方页面以获取最新更新。
 
-9. The computer failed to connect to the Wi-Fi network in the library.
-   > **中文**：计算机未能连接上图书馆的无线网络。
+9. You can look up the definition of this term online.
+   > **中文**：你可以在网上查阅这个术语的定义。
 
-10. I will look up the technical definitions on the official website.
-   > **中文**：我会在官方网站上查找这些技术定义。
+10. Did you notice the sudden change in screen brightness?
+   > **中文**：你注意到屏幕亮度的突然变化了吗？
+
+11. Remember to plug in your charger before the battery dies.
+   > **中文**：记得在电池耗尽前插上充电器。
+
+12. It takes only five minutes to set up your new account.
+   > **中文**：设置你的新账户只需要五分钟。
+
+13. You need to sign up with a valid email address.
+   > **中文**：你需要用有效的电子邮件地址注册。
+
+14. My new smartphone has a fast processor and a clear camera.
+   > **中文**：我的新智能手机有快速处理器和清晰的摄像头。
+
+15. The new software is sort of complicated to use at first.
+   > **中文**：这个新软件起初有点复杂难用。
+
+16. Make sure to update your app to the latest version.
+   > **中文**：务必将你的应用更新到最新版本。
+
+17. We decided to upgrade our home computer system this month.
+   > **中文**：我们决定这个月升级我们的家用电脑系统。
+
+18. Please enter your username to log into the database.
+   > **中文**：请输入你的用户名以登录数据库。
+
+19. He left a quick voicemail because I couldn't answer the phone.
+   > **中文**：他留了一条简短的语音留言，因为我没接电话。
+
+20. Turn down the volume so you don't disturb others.
+   > **中文**：调小音量，这样你就不会打扰到其他人。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| accidentally | 意外地 / 不小心地 |
+| attach | 附上 / 附加 |
+| back up | 备份 |
+| button | 按钮 |
+| connect | 连接 |
+| cost | 花费 / 成本 |
+| dot com | 网络域名.com |
+| follow | 关注 / 跟踪 |
+| look up | 查阅 / 检索 |
+| notice | 注意到 / 告示 |
+| plug in | 插上电源 |
+| set up | 设置 / 安装 |
+| sign up | 注册 / 报名 |
+| smartphone | 智能手机 |
+| sort of | 有点 / 稍微 |
+| update | 更新 |
+| upgrade | 升级 |
+| username | 用户名 |
+| voicemail | 语音留言 |
+| volume | 音量 / 体积 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ phrasal verbs（短语动词）是本单元重点：plug in, set up, sign up, ba
 
 ### 1
 
-I `____` deleted the document while searching for the file online.
+I ____ deleted the important document from my laptop.
 
 - [x] accidentally
 - [ ] attach
-- [ ] connect
+- [ ] back
 
-> **解析**：accidentally 是副词，意为“偶然地、意外地”，在此处修饰动词 deleted，说明动作发生的非故意性。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Click the blue `____` at the bottom of the page to submit your application.
+Please ____ the report to your email before sending it.
 
-- [x] button
-- [ ] attach
-- [ ] cost
+- [x] attach
+- [ ] accidentally
+- [ ] back
 
-> **解析**：button 为可数名词，意为“按钮”。在网页或软件界面中，常见搭配 click the button（点击按钮）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Many tech start-ups registered their company names with a `____` domain.
+Don't forget to ____ up your files to the cloud every week.
 
-- [x] dot com
-- [ ] back
-- [ ] cost
+- [x] back
+- [ ] accidentally
+- [ ] attach
 
-> **解析**：dot com（.com）在互联网语境中指商业域名后缀，常用于形容网络商业公司或网址结尾。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Did you `____` the error message when you tried to open the web page?
+Press the green ____ to start the system upgrade.
 
-- [x] notice
-- [ ] back up
-- [ ] dot com
+- [x] button
+- [ ] accidentally
+- [ ] attach
 
-> **解析**：notice 是及物动词，意为“注意到、察觉到”。后面直接接名词或名词短语（the error message）作宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-It takes only five minutes to `____` up your new online email account.
+Can you help me ____ to the office Wi-Fi network?
 
-- [x] set
-- [ ] button
-- [ ] follow
+- [x] connect
+- [ ] accidentally
+- [ ] attach
 
-> **解析**：set up 是动词短语，意为“设置、安装、创建”。在网络服务中常指进行初始设定（set up an account）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-You can easily check the train schedule using your `____`.
+How much does this new ____ model cost?
 
 - [x] smartphone
-- [ ] connect
-- [ ] look
+- [ ] accidentally
+- [ ] attach
 
-> **解析**：smartphone 为可数名词，意为“智能手机”。在技术主题中，常作介词 using 或 with 的宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Please enter your registered `____` and password to log in to the website.
+Our new ____ website ends in dot com.
 
-- [x] username
-- [ ] cost
-- [ ] look up
+- [x] company
+- [ ] accidentally
+- [ ] attach
 
-> **解析**：username 为可数名词，意为“用户名”，是网络登录时的凭证名称，常与 password 连用。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Don't forget to `____` the requested report to your email before sending it.
+You should ____ our official page for the latest updates.
 
-- [x] attach
-- [ ] follow
-- [ ] plug
+- [x] follow
+- [ ] accidentally
+- [ ] attach
 
-> **解析**：attach 为及物动词，意为“附上、附加”。在电子公文及邮件语境中，常用结构 attach A to B（把A附在B上）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The computer failed to `____` to the Wi-Fi network in the library.
+You can ____ up the definition of this term online.
 
-- [x] connect
-- [ ] look
-- [ ] plug in
+- [x] look
+- [ ] accidentally
+- [ ] attach
 
-> **解析**：connect 是动词，意为“连接”。常见结构为 connect to sth.（连接到某网络或设备）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-I will `____` up the technical definitions on the official website.
+Did you ____ the sudden change in screen brightness?
 
-- [x] look
-- [ ] look up
-- [ ] set
+- [x] notice
+- [ ] accidentally
+- [ ] attach
 
-> **解析**：look 短语 look up 意为“在参考书或网络中查阅（信息）”，结构为 look up sth. 或 look sth. up。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Remember to ____ in your charger before the battery dies.
+
+- [x] plug
+- [ ] accidentally
+- [ ] attach
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+It takes only five minutes to ____ up your new account.
+
+- [x] set
+- [ ] accidentally
+- [ ] attach
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+You need to ____ up with a valid email address.
+
+- [x] sign
+- [ ] accidentally
+- [ ] attach
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+My new ____ has a fast processor and a clear camera.
+
+- [x] smartphone
+- [ ] accidentally
+- [ ] attach
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The new software is sort of ____ to use at first.
+
+- [x] complicated
+- [ ] accidentally
+- [ ] attach
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Make sure to ____ your app to the latest version.
+
+- [x] update
+- [ ] accidentally
+- [ ] attach
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+We decided to ____ our home computer system this month.
+
+- [x] upgrade
+- [ ] accidentally
+- [ ] attach
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Please enter your ____ to log into the database.
+
+- [x] username
+- [ ] accidentally
+- [ ] attach
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+He left a quick ____ because I couldn't answer the phone.
+
+- [x] voicemail
+- [ ] accidentally
+- [ ] attach
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Turn down the ____ so you don't disturb others.
+
+- [x] volume
+- [ ] accidentally
+- [ ] attach
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

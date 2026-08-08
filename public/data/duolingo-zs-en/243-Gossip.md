@@ -77,83 +77,176 @@ go on（发生）、fit in with（融入）、out of control（失控）这些�
 
 <quiz-sentence-builder>
 
-1. **中文**：当听到关于那位沉稳经理的新闻时，大家都感到震惊。  
-   **英文**：Everyone was astonished when they heard the news about the quiet manager.
-   > **解析**：`astonished` 是形容词，意为“十分震惊的、惊愕的”，在句中作表语。
+1. **中文**：听到那个关于知名明星的八卦消息后，大家都感到非常震惊。
+   **英文**：Everyone was astonished to hear the latest gossip about the celebrity.
+   > **解析**：astonished 表示吃惊的、震惊的。
 
-2. **中文**：在他发表那个怪异的言论后，现场一片尴尬的沉默。  
-   **英文**：There was an awkward silence after he made that strange comment.
-   > **解析**：`awkward` 是形容词，意为“尴尬的、别扭的”，修饰名词 `silence`。
+2. **中文**：当他在人群中偶遇前女友时，气氛变得十分尴尬。
+   **英文**：The room felt very awkward when he bumped into his ex-girlfriend.
+   > **解析**：awkward 表示尴尬的。
 
-3. **中文**：奇妙的是，没人注意到坐在角落里的那位知名歌手。  
-   **英文**：Strangely enough, nobody noticed the famous singer sitting in the corner.
-   > **解析**：`strangely enough` 是插入语短语，意为“说来奇怪、奇妙的是”，置于句首。
+3. **中文**：办公室里流传着一个非常古怪的谣言。
+   **英文**：There was an odd rumor circulating around the office today.
+   > **解析**：odd 表示奇怪的、古怪的。
 
-4. **中文**：办公室里的谣言很快彻底失去了控制。  
-   **英文**：The rumors in the office quickly spiraled out of control.
-   > **解析**：`out of control` 是介词短语，意为“失去控制”，作补语修饰 `spiraled`。
+4. **中文**：那只是一起微小的误会，没必要放大成冲突。
+   **英文**：It was just a minor misunderstanding, so don't make a big deal out of it.
+   > **解析**：minor 表示微小的、次要的。
 
-5. **中文**：如果我告诉你这个秘密，请你保守秘密。  
-   **英文**：If I tell you this secret, please keep it to yourself.
-   > **解析**：`keep it to yourself` 是常用口语表达，意为“保守秘密、别告诉别人”。
+5. **中文**：派对上的谣言很快就彻底失去控制了。
+   **英文**：The gossip at the party got completely out of control by midnight.
+   > **解析**：out of control 表示失去控制。
 
-6. **中文**：头条新闻结果只不过是无根据的八卦闲话。  
-   **英文**：The headline news turned out to be nothing but baseless gossip.
-   > **解析**：`nothing but` 意为“只不过、仅仅是”，相当于 `only` 或 `merely`。
+6. **中文**：他声称自己目击到了整个事件的经过。
+   **英文**：He claimed that he saw the whole incident with his own eyes.
+   > **解析**：claim 表示声称、断言。
 
-7. **中文**：除了几个微小的细节外，这个传言完全是假的。  
-   **英文**：Aside from a few minor details, the rumor was completely false.
-   > **解析**：`aside from` 是介词短语，意为“除了……之外”，在句中引导状语。
+7. **中文**：我发誓我绝对没有向任何人泄露这个秘密。
+   **英文**：I swear I didn't tell a single soul about the confidential news.
+   > **解析**：swear 表示发誓。
 
-8. **中文**：她买了一份八卦报纸，想阅读最新的名人丑闻。  
-   **英文**：She bought a tabloid to read about the latest celebrity scandal.
-   > **解析**：`tabloid` 是名词，意为“通俗小报、八卦报纸”。
+8. **中文**：这本八卦小报经常刊登未经证实的虚假新闻。
+   **英文**：This tabloid often publishes dramatic stories about famous people.
+   > **解析**：tabloid 表示八卦小报。
 
-9. **中文**：这篇文章声称这对知名情侣上周分手了。  
-   **英文**：The article claims that the famous couple broke up last week.
-   > **解析**：`claim` 作及物动词，意为“声称、主张”，后接 `that` 引导的宾语从句。
+9. **中文**：他们被发现在商场的美食广场里亲密牵手。
+   **英文**：They were spotted holding hands in the mall's crowded food court.
+   > **解析**：hold hands 表示牵手；food court 表示美食广场。
 
-10. **中文**：他注意到今天团队会议期间有几种怪异的行为。  
-   **英文**：He noticed several odd behaviors during the team meeting today.
-   > **解析**：`odd` 是形容词，意为“古怪的、异常的”，修饰复数名词 `behaviors`。
+10. **中文**：侦探在搜查过程中没有找到任何有价值的线索。
+   **英文**：The detective couldn't find a single clue about who leaked the document.
+   > **解析**：clue 表示线索。
+
+11. **中文**：这件事纯粹是无稽之谈，根本不值得讨论。
+   **英文**：The whole story is nothing but complete nonsense and wild rumors.
+   > **解析**：nothing but 表示只有、纯粹是。
+
+12. **中文**：说也奇怪，居然没人注意到昨天发生的异样。
+   **英文**：Strangely enough, nobody noticed the strange behavior yesterday.
+   > **解析**：strangely enough 表示说也奇怪。
+
+13. **中文**：除了这几条传言外，我们没有任何确凿事实。
+   **英文**：Aside from a few rumors, we have no hard facts about the company.
+   > **解析**：aside from 表示除了……之外。
+
+14. **中文**：请千万保密，不要把这件事情告诉其他人。
+   **英文**：This is a top secret, so please keep it to yourself.
+   > **解析**：keep it to yourself 表示保密、别说出去。
+
+15. **中文**：因涉嫌泄露公司机密，他被暂时停职调查。
+   **英文**：He was suspended from his job while management investigated the leak.
+   > **解析**：suspend 表示停职、暂停。
+
+16. **中文**：他对追踪明星隐私有一种近乎病态的痴迷。
+   **英文**：He has an obsession with reading juicy stories about celebrities.
+   > **解析**：obsession 表示痴迷、执念。
+
+17. **中文**：这场未经证实的风波让整家公司的氛围变得一塌糊涂。
+   **英文**：The false accusation created a total mess in the workplace.
+   > **解析**：mess 表示混乱、一塌糊涂。
+
+18. **中文**：你能想象他居然会说出那样的话吗？
+   **英文**：Can you imagine that he would actually say something like that?
+   > **解析**：imagine 表示想象。
+
+19. **中文**：新来的员工很努力地想要融入团队的文化。
+   **英文**：The new employee tried hard to fit in with the office culture.
+   > **解析**：fit in with 表示融入、适应。
+
+20. **中文**：究竟发生了什么事？为什么大家都在私下讨论？
+   **英文**：What is going on here? Why is everyone whispering in the corner?
+   > **解析**：go on 表示发生、继续。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Everyone was astonished when they heard the news about the quiet manager.
-   > **中文**：当听到关于那位沉稳经理的新闻时，大家都感到震惊。
+1. Everyone was astonished to hear the latest gossip about the celebrity.
+   > **中文**：听到那个关于知名明星的八卦消息后，大家都感到非常震惊。
 
-2. There was an awkward silence after he made that strange comment.
-   > **中文**：在他发表那个怪异的言论后，现场一片尴尬的沉默。
+2. The room felt very awkward when he bumped into his ex-girlfriend.
+   > **中文**：当他在人群中偶遇前女友时，气氛变得十分尴尬。
 
-3. Strangely enough, nobody noticed the famous singer sitting in the corner.
-   > **中文**：奇妙的是，没人注意到坐在角落里的那位知名歌手。
+3. There was an odd rumor circulating around the office today.
+   > **中文**：办公室里流传着一个非常古怪的谣言。
 
-4. The rumors in the office quickly spiraled out of control.
-   > **中文**：办公室里的谣言很快彻底失去了控制。
+4. It was just a minor misunderstanding, so don't make a big deal out of it.
+   > **中文**：那只是一起微小的误会，没必要放大成冲突。
 
-5. If I tell you this secret, please keep it to yourself.
-   > **中文**：如果我告诉你这个秘密，请你保守秘密。
+5. The gossip at the party got completely out of control by midnight.
+   > **中文**：派对上的谣言很快就彻底失去控制了。
 
-6. The headline news turned out to be nothing but baseless gossip.
-   > **中文**：头条新闻结果只不过是无根据的八卦闲话。
+6. He claimed that he saw the whole incident with his own eyes.
+   > **中文**：他声称自己目击到了整个事件的经过。
 
-7. Aside from a few minor details, the rumor was completely false.
-   > **中文**：除了几个微小的细节外，这个传言完全是假的。
+7. I swear I didn't tell a single soul about the confidential news.
+   > **中文**：我发誓我绝对没有向任何人泄露这个秘密。
 
-8. She bought a tabloid to read about the latest celebrity scandal.
-   > **中文**：她买了一份八卦报纸，想阅读最新的名人丑闻。
+8. This tabloid often publishes dramatic stories about famous people.
+   > **中文**：这本八卦小报经常刊登未经证实的虚假新闻。
 
-9. The article claims that the famous couple broke up last week.
-   > **中文**：这篇文章声称这对知名情侣上周分手了。
+9. They were spotted holding hands in the mall's crowded food court.
+   > **中文**：他们被发现在商场的美食广场里亲密牵手。
 
-10. He noticed several odd behaviors during the team meeting today.
-   > **中文**：他注意到今天团队会议期间有几种怪异的行为。
+10. The detective couldn't find a single clue about who leaked the document.
+   > **中文**：侦探在搜查过程中没有找到任何有价值的线索。
+
+11. The whole story is nothing but complete nonsense and wild rumors.
+   > **中文**：这件事纯粹是无稽之谈，根本不值得讨论。
+
+12. Strangely enough, nobody noticed the strange behavior yesterday.
+   > **中文**：说也奇怪，居然没人注意到昨天发生的异样。
+
+13. Aside from a few rumors, we have no hard facts about the company.
+   > **中文**：除了这几条传言外，我们没有任何确凿事实。
+
+14. This is a top secret, so please keep it to yourself.
+   > **中文**：请千万保密，不要把这件事情告诉其他人。
+
+15. He was suspended from his job while management investigated the leak.
+   > **中文**：因涉嫌泄露公司机密，他被暂时停职调查。
+
+16. He has an obsession with reading juicy stories about celebrities.
+   > **中文**：他对追踪明星隐私有一种近乎病态的痴迷。
+
+17. The false accusation created a total mess in the workplace.
+   > **中文**：这场未经证实的风波让整家公司的氛围变得一塌糊涂。
+
+18. Can you imagine that he would actually say something like that?
+   > **中文**：你能想象他居然会说出那样的话吗？
+
+19. The new employee tried hard to fit in with the office culture.
+   > **中文**：新来的员工很努力地想要融入团队的文化。
+
+20. What is going on here? Why is everyone whispering in the corner?
+   > **中文**：究竟发生了什么事？为什么大家都在私下讨论？
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| astonished | 吃惊的；震惊的 |
+| awkward | 尴尬的 |
+| odd | 奇怪的；古怪的 |
+| minor | 微小的；次要的 |
+| out of control | 失去控制 |
+| claim | 声称；断言 |
+| swear | 发誓；保证 |
+| imagine | 想象 |
+| suspend | 停职；暂停 |
+| fit in with | 融入；符合 |
+| hold hands | 牵手 |
+| go on | 继续；发生 |
+| tabloid | 八卦小报 |
+| food court | 美食广场 |
+| clue | 线索；提示 |
+| mess | 混乱；烂摊子 |
+| obsession | 痴迷；执念 |
+| strangely enough | 说也奇怪；怪的是 |
+| keep it to yourself | 别说出去；保密 |
+| nothing but | 只有；纯粹是 |
 
 </quiz-matching>
 
@@ -161,102 +254,202 @@ go on（发生）、fit in with（融入）、out of control（失控）这些�
 
 ### 1
 
-Everyone was `____` when they heard the news about the quiet manager.
+Everyone was ____ to hear the latest gossip about the celebrity.
 
 - [x] astonished
 - [ ] aside from
-- [ ] clue
+- [ ] awkward
 
-> **解析**：`astonished` 是形容词，意为“十分震惊的、惊愕的”，在句中作表语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-There was an `____` silence after he made that strange comment.
+The room felt very ____ when he bumped into his ex-girlfriend.
 
 - [x] awkward
+- [ ] aside from
 - [ ] astonished
-- [ ] did
 
-> **解析**：`awkward` 是形容词，意为“尴尬的、别扭的”，修饰名词 `silence`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-`____`, nobody noticed the famous singer sitting in the corner.
+There was an ____ rumor circulating around the office today.
 
-- [x] strangely enough
-- [ ] awkward
-- [ ] did
+- [x] odd
+- [ ] aside from
+- [ ] astonished
 
-> **解析**：`strangely enough` 是插入语短语，意为“说来奇怪、奇妙的是”，置于句首。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The rumors in the office quickly spiraled `____`.
+It was just a ____ misunderstanding, so don't make a big deal out of it.
 
-- [x] out of control
-- [ ] before
-- [ ] even
+- [x] minor
+- [ ] aside from
+- [ ] astonished
 
-> **解析**：`out of control` 是介词短语，意为“失去控制”，作补语修饰 `spiraled`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-If I tell you this secret, please `____`.
+The gossip at the party got ____ out of control by midnight.
 
-- [x] keep it to yourself
-- [ ] claim
-- [ ] fit in with
+- [x] completely
+- [ ] aside from
+- [ ] astonished
 
-> **解析**：`keep it to yourself` 是常用口语表达，意为“保守秘密、别告诉别人”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The headline news turned out to be `____` baseless gossip.
+He claimed that he saw the whole ____ with his own eyes.
 
-- [x] nothing but
-- [ ] clue
-- [ ] food court
+- [x] incident
+- [ ] aside from
+- [ ] astonished
 
-> **解析**：`nothing but` 意为“只不过、仅仅是”，相当于 `only` 或 `merely`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-`____` a few minor details, the rumor was completely false.
+I ____ I didn't tell a single soul about the confidential news.
 
-- [x] aside from
-- [ ] even
-- [ ] hold hands
+- [x] swear
+- [ ] aside from
+- [ ] astonished
 
-> **解析**：`aside from` 是介词短语，意为“除了……之外”，在句中引导状语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-She bought a `____` to read about the latest celebrity scandal.
+This ____ often publishes dramatic stories about famous people.
 
 - [x] tabloid
-- [ ] even
-- [ ] hold hands
+- [ ] aside from
+- [ ] astonished
 
-> **解析**：`tabloid` 是名词，意为“通俗小报、八卦报纸”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The article `____`s that the famous couple broke up last week.
+They were ____ holding hands in the mall's crowded food court.
 
-- [x] claim
-- [ ] food court
-- [ ] keep it to yourself
+- [x] spotted
+- [ ] aside from
+- [ ] astonished
 
-> **解析**：`claim` 作及物动词，意为“声称、主张”，后接 `that` 引导的宾语从句。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-He noticed several `____` behaviors during the team meeting today.
+The detective couldn't find a single ____ about who leaked the document.
 
-- [x] odd
-- [ ] food court
-- [ ] keep it to yourself
+- [x] clue
+- [ ] aside from
+- [ ] astonished
 
-> **解析**：`odd` 是形容词，意为“古怪的、异常的”，修饰复数名词 `behaviors`。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The whole story is nothing but ____ nonsense and wild rumors.
+
+- [x] complete
+- [ ] aside from
+- [ ] astonished
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+____ enough, nobody noticed the strange behavior yesterday.
+
+- [x] Strangely
+- [ ] aside from
+- [ ] astonished
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Aside from a few rumors, we have no hard facts about the ____.
+
+- [x] company
+- [ ] aside from
+- [ ] astonished
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+This is a top secret, so please keep it to ____.
+
+- [x] yourself
+- [ ] aside from
+- [ ] astonished
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+He was suspended from his job while management ____ the leak.
+
+- [x] investigated
+- [ ] aside from
+- [ ] astonished
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+He has an ____ with reading juicy stories about celebrities.
+
+- [x] obsession
+- [ ] aside from
+- [ ] astonished
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The false accusation created a total ____ in the workplace.
+
+- [x] mess
+- [ ] aside from
+- [ ] astonished
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Can you ____ that he would actually say something like that?
+
+- [x] imagine
+- [ ] aside from
+- [ ] astonished
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The new ____ tried hard to fit in with the office culture.
+
+- [x] employee
+- [ ] aside from
+- [ ] astonished
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+What is going on here? Why is everyone ____ in the corner?
+
+- [x] whispering
+- [ ] aside from
+- [ ] astonished
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

@@ -65,83 +65,176 @@ anticipated, australian, brazilian, break, bronze, close, determination, expecte
 
 <quiz-sentence-builder>
 
-1. **中文**：这名游泳运动员在刷新国家速度纪录后赢得了金牌。  
-   **英文**：The swimmer won a gold medal after setting a new national speed record about anticipated.
-   > **解析**：`gold medal` 是名词短语，意为“金牌”。常用搭配 `win a gold medal`。
+1. **中文**：冠军骄傲地站在领奖台上接受她的金牌。
+   **英文**：The winner stood proudly on the podium to receive her gold medal.
+   > **解析**：podium 在体育语境中指领奖台。
 
-2. **中文**：每位职业运动员都花数年时间为奥运会艰苦训练。  
-   **英文**：Every professional athlete spends years training hard for the Olympic Games.
-   > **解析**：`athlete` 是可数名词，意为“运动员”，形容词形式为 `athletic`。
+2. **中文**：她成为了她的国家历史上最年轻的奥运奖牌获得者。
+   **英文**：She became the youngest Olympic medalist in her country's history.
+   > **解析**：medalist 指奖牌获得者。
 
-3. **中文**：她在两小时内跑完了马拉松，打破了世界纪录。  
-   **英文**：She broke the world record by finishing the marathon in under two hours about brazilian.
-   > **解析**：`world record` 是名词短语，意为“世界纪录”，搭配 `break a world record`。
+3. **中文**：当国歌开始奏响时，全场观众都站了起来。
+   **英文**：Everyone stood up when the national anthem started playing.
+   > **解析**：national anthem 表示国歌。
 
-4. **中文**：站在领奖台的最高一级是他职业生涯中最自豪的时刻。  
-   **英文**：Standing on the top step of the podium was the proudest moment of his career.
-   > **解析**：`podium` 指颁奖或演讲用的“领奖台、讲台”，作介词 `of` 的宾语。
+4. **中文**：数以百万计的人观看了这场壮观的开幕式。
+   **英文**：Millions of people watched the spectacular opening ceremony.
+   > **解析**：opening ceremony 表示开幕式。
 
-5. **中文**：赢得冠军需要多年的高度投入与不懈坚持。  
-   **英文**：Winning the championship required years of intense dedication and perseverance about bronze.
-   > **解析**：`perseverance` 是不可数名词，意为“坚持不懈、坚韧不拔”，由动词 `persevere` 派生。
+5. **中文**：他专注于像百米短跑这样的田径项目。
+   **英文**：He specializes in track and field events like the hundred-meter dash.
+   > **解析**：track and field 表示田径运动。
 
-6. **中文**：代表自己的国家参加全球运动会对她来说是极大的荣幸。  
-   **英文**：It is a great honor for her to represent her country at the global games about close.
-   > **解析**：`represent` 是动词，意为“代表（国家/团队）”，后接国家或机构作宾语。
+6. **中文**：她刻苦训练以取得参加奥运会的资格。
+   **英文**：She trained hard to qualify for the Olympic Games.
+   > **解析**：qualify 在体育中指达标、获得参赛资格。
 
-7. **中文**：这名跑者通过帮助受伤的对手跨过终点线展现出了令人难以置信的体育精神。  
-   **英文**：The runner showed incredible sportsmanship by helping his injured competitor cross the finish line about determination.
-   > **解析**：`sportsmanship` 是不可数名词，意为“体育精神、运动员风范”。
+7. **中文**：这场比赛是今年备受期待的体育赛事。
+   **英文**：This match is the most anticipated sporting event of the year.
+   > **解析**：anticipated 表示备受期待的。
 
-8. **中文**：她一整个赛季都在不知疲倦地拼搏，以取得奥运决赛的资格。  
-   **英文**：She worked tirelessly all season to qualify for the Olympic final event.
-   > **解析**：`qualify (for sth.)` 是动词，意为“取得资格、符合条件”。
+8. **中文**：预计这位跑步选手今天能再赢得一枚奖牌。
+   **英文**：The runner is expected to win another medal today.
+   > **解析**：expected to 表示“预计会……”。
 
-9. **中文**：数以千计激动的观众挤满了体育场观看开幕式。  
-   **英文**：Thousands of excited spectators filled the stadium to watch the opening ceremony.
-   > **解析**：`spectator` 是名词，特指比赛或表演的“现场观众”，作主语 `spectators`。
+9. **中文**：该团队已经准备好明天在决赛阶段展开竞争。
+   **英文**：The team is set to compete in the final round tomorrow.
+   > **解析**：set to 表示准备好要、即将做某事。
 
-10. **中文**：他们出乎意料的胜利被欢庆为该团队历史性的伟大胜利。  
-   **英文**：Their unexpected victory was celebrated as a historic triumph for the team about gather.
-   > **解析**：`triumph` 作名词，意为“巨大胜利、辉煌成就”，比一般的 `victory` 语气更盛大。
+10. **中文**：粉丝们正在期待即将来临的冬季锦标赛。
+   **英文**：Fans are looking forward to the upcoming winter tournament.
+   > **解析**：upcoming 表示即将到来的。
+
+11. **中文**：巨大的变化和新的人才即将来临/初露端倪。
+   **英文**：Great changes and new talents are on the horizon.
+   > **解析**：on the horizon 形象地指即将出现、初露端倪。
+
+12. **中文**：她令人难以置信的决心促使她战胜了伤病。
+   **英文**：Her incredible determination led her to overcome injuries.
+   > **解析**：determination 表示决心、毅力。
+
+13. **中文**：他的复出故事对全世界的年轻运动员都非常鼓舞人心。
+   **英文**：His comeback story was inspiring to young athletes around the world.
+   > **解析**：inspiring 表示鼓舞人心的。
+
+14. **中文**：她在决赛中成功打破了世界纪录。
+   **英文**：She managed to break the world record in the finals.
+   > **解析**：break 在这里表示“打破（纪录）”。
+
+15. **中文**：比赛开始前运动员们在奥运村里集合。
+   **英文**：Athletes gathered in the village before the competition began.
+   > **解析**：gather 动词，表示聚集、集合。
+
+16. **中文**：赢得奖牌是每一位参赛者的终极目标。
+   **英文**：Winning a medal is the ultimate goal of every competitor.
+   > **解析**：ultimate 表示终极的、最高的。
+
+17. **中文**：他很高兴能为他的国家赢得一枚铜牌。
+   **英文**：He was thrilled to win a bronze medal for his country.
+   > **解析**：bronze 指铜牌、青铜。
+
+18. **中文**：既然她已经康复了，她就可以恢复训练了。
+   **英文**：Now that she has recovered, she can return to training.
+   > **解析**：Now that 表示“既然、现在”。
+
+19. **中文**：展望明年，团队计划增加新的教练。
+   **英文**：Looking ahead to next year, the team plans to add new coaches.
+   > **解析**：Looking ahead to 表示展望未来。
+
+20. **中文**：在短短几个月的刻苦训练中，她提升了自己的速度。
+   **英文**：She improved her speed in a few short months of hard work.
+   > **解析**：in a few short 表示“在短短……之内”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The swimmer won a gold medal after setting a new national speed record about anticipated.
-   > **中文**：这名游泳运动员在刷新国家速度纪录后赢得了金牌。
+1. The winner stood proudly on the podium to receive her gold medal.
+   > **中文**：冠军骄傲地站在领奖台上接受她的金牌。
 
-2. Every professional athlete spends years training hard for the Olympic Games.
-   > **中文**：每位职业运动员都花数年时间为奥运会艰苦训练。
+2. She became the youngest Olympic medalist in her country's history.
+   > **中文**：她成为了她的国家历史上最年轻的奥运奖牌获得者。
 
-3. She broke the world record by finishing the marathon in under two hours about brazilian.
-   > **中文**：她在两小时内跑完了马拉松，打破了世界纪录。
+3. Everyone stood up when the national anthem started playing.
+   > **中文**：当国歌开始奏响时，全场观众都站了起来。
 
-4. Standing on the top step of the podium was the proudest moment of his career.
-   > **中文**：站在领奖台的最高一级是他职业生涯中最自豪的时刻。
+4. Millions of people watched the spectacular opening ceremony.
+   > **中文**：数以百万计的人观看了这场壮观的开幕式。
 
-5. Winning the championship required years of intense dedication and perseverance about bronze.
-   > **中文**：赢得冠军需要多年的高度投入与不懈坚持。
+5. He specializes in track and field events like the hundred-meter dash.
+   > **中文**：他专注于像百米短跑这样的田径项目。
 
-6. It is a great honor for her to represent her country at the global games about close.
-   > **中文**：代表自己的国家参加全球运动会对她来说是极大的荣幸。
+6. She trained hard to qualify for the Olympic Games.
+   > **中文**：她刻苦训练以取得参加奥运会的资格。
 
-7. The runner showed incredible sportsmanship by helping his injured competitor cross the finish line about determination.
-   > **中文**：这名跑者通过帮助受伤的对手跨过终点线展现出了令人难以置信的体育精神。
+7. This match is the most anticipated sporting event of the year.
+   > **中文**：这场比赛是今年备受期待的体育赛事。
 
-8. She worked tirelessly all season to qualify for the Olympic final event.
-   > **中文**：她一整个赛季都在不知疲倦地拼搏，以取得奥运决赛的资格。
+8. The runner is expected to win another medal today.
+   > **中文**：预计这位跑步选手今天能再赢得一枚奖牌。
 
-9. Thousands of excited spectators filled the stadium to watch the opening ceremony.
-   > **中文**：数以千计激动的观众挤满了体育场观看开幕式。
+9. The team is set to compete in the final round tomorrow.
+   > **中文**：该团队已经准备好明天在决赛阶段展开竞争。
 
-10. Their unexpected victory was celebrated as a historic triumph for the team about gather.
-   > **中文**：他们出乎意料的胜利被欢庆为该团队历史性的伟大胜利。
+10. Fans are looking forward to the upcoming winter tournament.
+   > **中文**：粉丝们正在期待即将来临的冬季锦标赛。
+
+11. Great changes and new talents are on the horizon.
+   > **中文**：巨大的变化和新的人才即将来临/初露端倪。
+
+12. Her incredible determination led her to overcome injuries.
+   > **中文**：她令人难以置信的决心促使她战胜了伤病。
+
+13. His comeback story was inspiring to young athletes around the world.
+   > **中文**：他的复出故事对全世界的年轻运动员都非常鼓舞人心。
+
+14. She managed to break the world record in the finals.
+   > **中文**：她在决赛中成功打破了世界纪录。
+
+15. Athletes gathered in the village before the competition began.
+   > **中文**：比赛开始前运动员们在奥运村里集合。
+
+16. Winning a medal is the ultimate goal of every competitor.
+   > **中文**：赢得奖牌是每一位参赛者的终极目标。
+
+17. He was thrilled to win a bronze medal for his country.
+   > **中文**：他很高兴能为他的国家赢得一枚铜牌。
+
+18. Now that she has recovered, she can return to training.
+   > **中文**：既然她已经康复了，她就可以恢复训练了。
+
+19. Looking ahead to next year, the team plans to add new coaches.
+   > **中文**：展望明年，团队计划增加新的教练。
+
+20. She improved her speed in a few short months of hard work.
+   > **中文**：在短短几个月的刻苦训练中，她提升了自己的速度。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| podium | 领奖台 |
+| medalist | 奖牌获得者 |
+| national anthem | 国歌 |
+| opening ceremony | 开幕式 |
+| track and field | 田径运动 |
+| qualify | 获得资格 / 达标 |
+| anticipated | 备受期待的 |
+| expected to | 预计会…… |
+| set to | 准备好要…… / 即将…… |
+| upcoming | 即将到来的 |
+| on the horizon | 初露端倪的 / 即将出现的 |
+| determination | 决心 / 毅力 |
+| inspiring | 鼓舞人心的 |
+| break | 打破（纪录） |
+| gather | 聚集 / 集合 |
+| ultimate | 最终的 / 最高的 |
+| bronze | 铜牌 / 青铜 |
+| now that | 既然 / 现在 |
+| looking ahead to | 展望…… |
+| in a few short | 在短短……之内 |
 
 </quiz-matching>
 
@@ -149,102 +242,202 @@ anticipated, australian, brazilian, break, bronze, close, determination, expecte
 
 ### 1
 
-The swimmer won a gold medal after setting a new national speed record about `____`.
+The winner stood proudly on the ____ to receive her gold medal.
 
-- [x] anticipated
+- [x] podium
+- [ ] anticipated
 - [ ] australian
-- [ ] close
 
-> **解析**：`gold medal` 是名词短语，意为“金牌”。常用搭配 `win a gold medal`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Every professional athlete spends years training hard for the `____` Games.
+She became the youngest ____ medalist in her country's history.
 
-- [x] olympic
+- [x] Olympic
+- [ ] anticipated
 - [ ] australian
-- [ ] close
 
-> **解析**：`athlete` 是可数名词，意为“运动员”，形容词形式为 `athletic`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-She broke the world record by finishing the marathon in under two hours about `____`.
+____ stood up when the national anthem started playing.
 
-- [x] brazilian
-- [ ] break
-- [ ] expected to
+- [x] Everyone
+- [ ] anticipated
+- [ ] australian
 
-> **解析**：`world record` 是名词短语，意为“世界纪录”，搭配 `break a world record`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Standing on the top step of the `____` was the proudest moment of his career.
+Millions of people watched the ____ opening ceremony.
 
-- [x] podium
-- [ ] break
-- [ ] expected to
+- [x] spectacular
+- [ ] anticipated
+- [ ] australian
 
-> **解析**：`podium` 指颁奖或演讲用的“领奖台、讲台”，作介词 `of` 的宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Winning the championship required years of intense dedication and perseverance about `____`.
+He specializes in track and field events like the ____ dash.
 
-- [x] bronze
-- [ ] close
-- [ ] gather
+- [x] hundred-meter
+- [ ] anticipated
+- [ ] australian
 
-> **解析**：`perseverance` 是不可数名词，意为“坚持不懈、坚韧不拔”，由动词 `persevere` 派生。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-It is a great honor for her to represent her country at the global games about `____`.
+She trained hard to ____ for the Olympic Games.
 
-- [x] close
-- [ ] determination
-- [ ] in a few short
+- [x] qualify
+- [ ] anticipated
+- [ ] australian
 
-> **解析**：`represent` 是动词，意为“代表（国家/团队）”，后接国家或机构作宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The runner showed incredible sportsmanship by helping his injured competitor cross the finish line about `____`.
+This match is the most ____ sporting event of the year.
 
-- [x] determination
-- [ ] expected to
-- [ ] inspiring
+- [x] anticipated
+- [ ] australian
+- [ ] brazilian
 
-> **解析**：`sportsmanship` 是不可数名词，意为“体育精神、运动员风范”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-She worked tirelessly all season to `____` for the Olympic final event.
+The runner is ____ to win another medal today.
 
-- [x] qualify
-- [ ] expected to
-- [ ] inspiring
+- [x] expected
+- [ ] anticipated
+- [ ] australian
 
-> **解析**：`qualify (for sth.)` 是动词，意为“取得资格、符合条件”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Thousands of excited spectators filled the stadium to watch the `____`.
+The team is set to compete in the final round ____.
 
-- [x] opening ceremony
-- [ ] following
-- [ ] looking ahead to
+- [x] tomorrow
+- [ ] anticipated
+- [ ] australian
 
-> **解析**：`spectator` 是名词，特指比赛或表演的“现场观众”，作主语 `spectators`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Their unexpected victory was celebrated as a historic triumph for the team about `____`.
+Fans are looking forward to the ____ winter tournament.
 
-- [x] gather
-- [ ] in a few short
-- [ ] national anthem
+- [x] upcoming
+- [ ] anticipated
+- [ ] australian
 
-> **解析**：`triumph` 作名词，意为“巨大胜利、辉煌成就”，比一般的 `victory` 语气更盛大。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Great ____ and new talents are on the horizon.
+
+- [x] changes
+- [ ] anticipated
+- [ ] australian
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Her incredible ____ led her to overcome injuries.
+
+- [x] determination
+- [ ] anticipated
+- [ ] australian
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+His comeback story was ____ to young athletes around the world.
+
+- [x] inspiring
+- [ ] anticipated
+- [ ] australian
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+She managed to ____ the world record in the finals.
+
+- [x] break
+- [ ] anticipated
+- [ ] australian
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Athletes gathered in the village before the ____ began.
+
+- [x] competition
+- [ ] anticipated
+- [ ] australian
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Winning a medal is the ____ goal of every competitor.
+
+- [x] ultimate
+- [ ] anticipated
+- [ ] australian
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+He was thrilled to win a ____ medal for his country.
+
+- [x] bronze
+- [ ] anticipated
+- [ ] australian
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Now that she has ____, she can return to training.
+
+- [x] recovered
+- [ ] anticipated
+- [ ] australian
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+____ ahead to next year, the team plans to add new coaches.
+
+- [x] Looking
+- [ ] anticipated
+- [ ] australian
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+She ____ her speed in a few short months of hard work.
+
+- [x] improved
+- [ ] anticipated
+- [ ] australian
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

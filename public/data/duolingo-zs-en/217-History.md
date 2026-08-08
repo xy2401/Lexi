@@ -61,83 +61,176 @@ agree to, civilization, conquer, defeat, despite, develop, disappear, even thoug
 
 <quiz-sentence-builder>
 
-1. **中文**：两国同意签署一项具有历史意义的和平条约，以结束数十年的冲突。  
-   **英文**：The two nations agreed to sign a historic peace treaty ending the decades of conflict agree to.
-   > **解析**：`agree to do sth.` 为固定搭配，意为“同意做某事”，后接动词原形。
+1. **中文**：古埃及文明在尼罗河流域繁衍生息了数千年。
+   **英文**：Ancient Egyptian civilization flourished along the Nile River for thousands of years.
+   > **解析**：civilization 表示文明。
 
-2. **中文**：尽管冬天气候恶劣，古老的军队仍然跨越山脉向前进发。  
-   **英文**：Despite the harsh winter conditions, the ancient army marched forward across the mountains.
-   > **解析**：`despite` 介词，意为“尽管；虽然”，后接名词、代词或动名词短语，不能接从句（对比连词 `although`）。
+2. **中文**：勇敢的士兵们在关键战役中取得了辉煌的胜利。
+   **英文**：The brave soldiers achieved a decisive victory in the battlefield.
+   > **解析**：soldier 表示士兵；victory 表示胜利。
 
-3. **中文**：历史学家发现了证据，表明在这个山谷中曾经存在过一个未知的部落。  
-   **英文**：Historians discovered evidence that an unknown tribe used to exist in this valley.
-   > **解析**：`exist` 不及物动词，意为“存在；生存”，常与 `used to` 或 `there` 连用（如 `there exists...`）。
+3. **中文**：军队成功击败了入侵的敌人并保卫了城池。
+   **英文**：The army managed to defeat the invading enemy and protect the city.
+   > **解析**：defeat 表示击败、战胜。
 
-4. **中文**：语言是人类文明最显著的成就之一。  
-   **英文**：Language is one of the most remarkable achievements of human civilization.
-   > **解析**：`human` 在此处作形容词，意为“人类的”，修饰名词 `civilization`。
+4. **中文**：历史上，许多强大的帝国企图征服整个欧洲。
+   **英文**：Historically, powerful empires attempted to conquer all of Europe.
+   > **解析**：conquer 表示征服。
 
-5. **中文**：那位著名的海盗船长花了多年时间在加勒比海寻找隐藏的宝藏。  
-   **英文**：The famous pirate captain spent years searching for hidden treasure in the Caribbean.
-   > **解析**：`pirate` 在此处作名词修饰语或形容词，意为“海盗的”，短语 `pirate captain`（海盗船长）。
+5. **中文**：传说中，海盗在遥远的无人岛上埋藏了大量的宝藏。
+   **英文**：Legend says that pirates buried treasure on a deserted island.
+   > **解析**：pirate 表示海盗。
 
-6. **中文**：古代工匠开发出一种用于制作耐用陶器的先进技术。  
-   **英文**：Ancient artisans developed an advanced technique for crafting durable pottery.
-   > **解析**：`technique` 可数名词，意为“技巧；技术；工艺”，强调需要技能或特定方法的具体操作。
+6. **中文**：两个邻国因领土争端最终决定开战。
+   **英文**：The two neighboring countries eventually decided to go to war.
+   > **解析**：go to war 表示开战、参战。
 
-7. **中文**：将军在击败入侵的敌军后庆祝了一场决定性的胜利。  
-   **英文**：The general celebrated a decisive victory after defeating the invading enemy forces.
-   > **解析**：`victory` 名词，意为“胜利；战胜”。常用搭配 `celebrate a victory`（庆祝胜利）。
+7. **中文**：考古学家发现了古代人类使用的石器工具。
+   **英文**：Archaeologists discovered stone tools used by early humans.
+   > **解析**：tool 表示工具。
 
-8. **中文**：罗马帝国在塑造西方文明方面发挥了关键作用。  
-   **英文**：The Roman Empire played a pivotal role in the shaping of Western civilization conquer.
-   > **解析**：`civilization` 名词，意为“文明；文化领域”。`Western civilization`（西方文明）。
+8. **中文**：丝绸之路推动了东西方文明之间的文化与商品贸易。
+   **英文**：The Silk Road promoted trade of goods and ideas between regions.
+   > **解析**：trade 表示贸易、交易。
 
-9. **中文**：早期人类开始发展农业以获取稳定的粮食供应。  
-   **英文**：Early humans began to develop agriculture to secure a stable supply of food.
-   > **解析**：`develop` 及物/不及物动词，意为“发展；开发；培养”。作及物动词时接宾语 `agriculture`。
+9. **中文**：早期移民跨越海洋来到新大陆定居。
+   **英文**：Early settlers immigrated across the ocean to build a new life.
+   > **解析**：immigrated 表示移民（移入）；settle 表示定居。
 
-10. **中文**：士兵们在城堡塔顶高高升起了国旗。  
-   **英文**：Soldiers raised their national flag high on top of the castle tower.
-   > **解析**：`flag` 可数名词，意为“旗帜；国旗”。短语 `national flag`（国旗）。
+10. **中文**：随着时间的推移，这种古老的建筑技术逐渐消失了。
+   **英文**：Over time, this ancient building technique slowly disappeared.
+   > **解析**：technique 表示技术；disappear 表示消失。
+
+11. **中文**：即使面临重重艰难，古代探险者依然没有放弃。
+   **英文**：Even though they faced extreme weather, the explorers kept moving.
+   > **解析**：even though 表示即使、虽然。
+
+12. **中文**：尽管缺乏充足的补给，部队仍然守住了防线。
+   **英文**：Despite a severe lack of supplies, the garrison held the fortress.
+   > **解析**：despite 表示尽管；lack 表示缺乏。
+
+13. **中文**：既然战争已经结束，人们开始重建家园。
+   **英文**：Now that the conflict has ended, people are rebuilding their homes.
+   > **解析**：now that 表示既然、由于。
+
+14. **中文**：自从那个帝国灭亡以来，那座城堡就一直无人居住。
+   **英文**：Since the fall of the empire, the castle has remained empty.
+   > **解析**：since 表示自……以来。
+
+15. **中文**：战士们在要塞上方高高升起了国家旗帜。
+   **英文**：The warriors raised the national flag high above the fortress.
+   > **解析**：flag 表示旗帜。
+
+16. **中文**：两国领导人最终同意签署停战和平条约。
+   **英文**：Leaders of both nations agreed to sign a peace treaty.
+   > **解析**：agree to 表示同意。
+
+17. **中文**：现代历史学家仍在研究那些在数千年前就已经存在的部落。
+   **英文**：Historians still study tribes that existed thousands of years ago.
+   > **解析**：exist 表示存在。
+
+18. **中文**：在一些地方，传统耕作方式和现代机器同时被使用。
+   **英文**：Traditional methods are used alongside modern tools in agriculture.
+   > **解析**：use 表示使用。
+
+19. **中文**：该王国在发展科技的同时也保留了传统文化。
+   **英文**：The kingdom developed technology while preserving unique customs.
+   > **解析**：develop 表示发展；while 表示在……的同时。
+
+20. **中文**：然而，关于该古文明灭亡的真实原因至今仍未定论。
+   **英文**：Yet, the true reason for the collapse of the city remains mysterious.
+   > **解析**：yet 表示然而、但是。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The two nations agreed to sign a historic peace treaty ending the decades of conflict agree to.
-   > **中文**：两国同意签署一项具有历史意义的和平条约，以结束数十年的冲突。
+1. Ancient Egyptian civilization flourished along the Nile River for thousands of years.
+   > **中文**：古埃及文明在尼罗河流域繁衍生息了数千年。
 
-2. Despite the harsh winter conditions, the ancient army marched forward across the mountains.
-   > **中文**：尽管冬天气候恶劣，古老的军队仍然跨越山脉向前进发。
+2. The brave soldiers achieved a decisive victory in the battlefield.
+   > **中文**：勇敢的士兵们在关键战役中取得了辉煌的胜利。
 
-3. Historians discovered evidence that an unknown tribe used to exist in this valley.
-   > **中文**：历史学家发现了证据，表明在这个山谷中曾经存在过一个未知的部落。
+3. The army managed to defeat the invading enemy and protect the city.
+   > **中文**：军队成功击败了入侵的敌人并保卫了城池。
 
-4. Language is one of the most remarkable achievements of human civilization.
-   > **中文**：语言是人类文明最显著的成就之一。
+4. Historically, powerful empires attempted to conquer all of Europe.
+   > **中文**：历史上，许多强大的帝国企图征服整个欧洲。
 
-5. The famous pirate captain spent years searching for hidden treasure in the Caribbean.
-   > **中文**：那位著名的海盗船长花了多年时间在加勒比海寻找隐藏的宝藏。
+5. Legend says that pirates buried treasure on a deserted island.
+   > **中文**：传说中，海盗在遥远的无人岛上埋藏了大量的宝藏。
 
-6. Ancient artisans developed an advanced technique for crafting durable pottery.
-   > **中文**：古代工匠开发出一种用于制作耐用陶器的先进技术。
+6. The two neighboring countries eventually decided to go to war.
+   > **中文**：两个邻国因领土争端最终决定开战。
 
-7. The general celebrated a decisive victory after defeating the invading enemy forces.
-   > **中文**：将军在击败入侵的敌军后庆祝了一场决定性的胜利。
+7. Archaeologists discovered stone tools used by early humans.
+   > **中文**：考古学家发现了古代人类使用的石器工具。
 
-8. The Roman Empire played a pivotal role in the shaping of Western civilization conquer.
-   > **中文**：罗马帝国在塑造西方文明方面发挥了关键作用。
+8. The Silk Road promoted trade of goods and ideas between regions.
+   > **中文**：丝绸之路推动了东西方文明之间的文化与商品贸易。
 
-9. Early humans began to develop agriculture to secure a stable supply of food.
-   > **中文**：早期人类开始发展农业以获取稳定的粮食供应。
+9. Early settlers immigrated across the ocean to build a new life.
+   > **中文**：早期移民跨越海洋来到新大陆定居。
 
-10. Soldiers raised their national flag high on top of the castle tower.
-   > **中文**：士兵们在城堡塔顶高高升起了国旗。
+10. Over time, this ancient building technique slowly disappeared.
+   > **中文**：随着时间的推移，这种古老的建筑技术逐渐消失了。
+
+11. Even though they faced extreme weather, the explorers kept moving.
+   > **中文**：即使面临重重艰难，古代探险者依然没有放弃。
+
+12. Despite a severe lack of supplies, the garrison held the fortress.
+   > **中文**：尽管缺乏充足的补给，部队仍然守住了防线。
+
+13. Now that the conflict has ended, people are rebuilding their homes.
+   > **中文**：既然战争已经结束，人们开始重建家园。
+
+14. Since the fall of the empire, the castle has remained empty.
+   > **中文**：自从那个帝国灭亡以来，那座城堡就一直无人居住。
+
+15. The warriors raised the national flag high above the fortress.
+   > **中文**：战士们在要塞上方高高升起了国家旗帜。
+
+16. Leaders of both nations agreed to sign a peace treaty.
+   > **中文**：两国领导人最终同意签署停战和平条约。
+
+17. Historians still study tribes that existed thousands of years ago.
+   > **中文**：现代历史学家仍在研究那些在数千年前就已经存在的部落。
+
+18. Traditional methods are used alongside modern tools in agriculture.
+   > **中文**：在一些地方，传统耕作方式和现代机器同时被使用。
+
+19. The kingdom developed technology while preserving unique customs.
+   > **中文**：该王国在发展科技的同时也保留了传统文化。
+
+20. Yet, the true reason for the collapse of the city remains mysterious.
+   > **中文**：然而，关于该古文明灭亡的真实原因至今仍未定论。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| civilization | 文明 |
+| conquer | 征服 |
+| defeat | 击败；战胜 |
+| victory | 胜利 |
+| soldier | 士兵 |
+| pirate | 海盗 |
+| go to war | 开战；参战 |
+| develop | 发展；开发 |
+| disappear | 消失 |
+| exist | 存在 |
+| settle | 定居；解决 |
+| immigrate | 移民（移入） |
+| trade | 贸易；交易 |
+| technique | 技术；技巧 |
+| tool | 工具 |
+| flag | 旗帜 |
+| despite | 尽管；虽然 |
+| even though | 即使；虽然 |
+| now that | 既然；由于 |
+| agree to | 同意；达成一致 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ agree to, civilization, conquer, defeat, despite, develop, disappear, even thoug
 
 ### 1
 
-The two nations agreed to sign a historic peace treaty ending the decades of conflict `____`.
+Ancient Egyptian ____ flourished along the Nile River for thousands of years.
 
-- [x] agree to
-- [ ] civilization
-- [ ] develop
+- [x] civilization
+- [ ] agree to
+- [ ] conquer
 
-> **解析**：`agree to do sth.` 为固定搭配，意为“同意做某事”，后接动词原形。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-`____` the harsh winter conditions, the ancient army marched forward across the mountains.
+The brave soldiers achieved a decisive ____ in the battlefield.
 
-- [x] despite
+- [x] victory
+- [ ] agree to
 - [ ] civilization
-- [ ] disappear
 
-> **解析**：`despite` 介词，意为“尽管；虽然”，后接名词、代词或动名词短语，不能接从句（对比连词 `although`）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Historians discovered evidence that an unknown tribe used to `____` in this valley.
+The army managed to ____ the invading enemy and protect the city.
 
-- [x] exist
-- [ ] conquer
-- [ ] disappear
+- [x] defeat
+- [ ] agree to
+- [ ] civilization
 
-> **解析**：`exist` 不及物动词，意为“存在；生存”，常与 `used to` 或 `there` 连用（如 `there exists...`）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Language is one of the most remarkable achievements of human `____`.
+Historically, powerful empires attempted to ____ all of Europe.
 
-- [x] civilization
-- [ ] despite
-- [ ] exist
+- [x] conquer
+- [ ] agree to
+- [ ] civilization
 
-> **解析**：`human` 在此处作形容词，意为“人类的”，修饰名词 `civilization`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The famous `____` captain spent years searching for hidden treasure in the Caribbean.
+Legend says that pirates buried ____ on a deserted island.
 
-- [x] pirate
-- [ ] despite
-- [ ] exist
+- [x] treasure
+- [ ] agree to
+- [ ] civilization
 
-> **解析**：`pirate` 在此处作名词修饰语或形容词，意为“海盗的”，短语 `pirate captain`（海盗船长）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Ancient artisans `____`ed an advanced technique for crafting durable pottery.
+The two ____ countries eventually decided to go to war.
 
-- [x] develop
-- [ ] disappear
-- [ ] go to war
+- [x] neighboring
+- [ ] agree to
+- [ ] civilization
 
-> **解析**：`technique` 可数名词，意为“技巧；技术；工艺”，强调需要技能或特定方法的具体操作。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The general celebrated a decisive victory after `____`ing the invading enemy forces.
+____ discovered stone tools used by early humans.
 
-- [x] defeat
-- [ ] even though
-- [ ] human
+- [x] Archaeologists
+- [ ] agree to
+- [ ] civilization
 
-> **解析**：`victory` 名词，意为“胜利；战胜”。常用搭配 `celebrate a victory`（庆祝胜利）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The Roman Empire played a pivotal role in the shaping of Western civilization `____`.
+The Silk Road promoted ____ of goods and ideas between regions.
 
-- [x] conquer
-- [ ] exist
-- [ ] immigrate
+- [x] trade
+- [ ] agree to
+- [ ] civilization
 
-> **解析**：`civilization` 名词，意为“文明；文化领域”。`Western civilization`（西方文明）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Early `____`s began to develop agriculture to secure a stable supply of food.
+Early settlers ____ across the ocean to build a new life.
 
-- [x] human
-- [ ] exist
-- [ ] lack
+- [x] immigrated
+- [ ] agree to
+- [ ] civilization
 
-> **解析**：`develop` 及物/不及物动词，意为“发展；开发；培养”。作及物动词时接宾语 `agriculture`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Soldiers raised their national `____` high on top of the castle tower.
+Over time, this ancient building ____ slowly disappeared.
+
+- [x] technique
+- [ ] agree to
+- [ ] civilization
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Even though they faced extreme weather, the ____ kept moving.
+
+- [x] explorers
+- [ ] agree to
+- [ ] civilization
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+____ a severe lack of supplies, the garrison held the fortress.
+
+- [x] Despite
+- [ ] agree to
+- [ ] civilization
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Now that the conflict has ended, people are ____ their homes.
+
+- [x] rebuilding
+- [ ] agree to
+- [ ] civilization
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+____ the fall of the empire, the castle has remained empty.
+
+- [x] Since
+- [ ] agree to
+- [ ] civilization
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The warriors raised the national ____ high above the fortress.
 
 - [x] flag
-- [ ] go to war
-- [ ] now that
+- [ ] agree to
+- [ ] civilization
 
-> **解析**：`flag` 可数名词，意为“旗帜；国旗”。短语 `national flag`（国旗）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+____ of both nations agreed to sign a peace treaty.
+
+- [x] Leaders
+- [ ] agree to
+- [ ] civilization
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+____ still study tribes that existed thousands of years ago.
+
+- [x] Historians
+- [ ] agree to
+- [ ] civilization
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+____ methods are used alongside modern tools in agriculture.
+
+- [x] Traditional
+- [ ] agree to
+- [ ] civilization
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The kingdom developed technology ____ preserving unique customs.
+
+- [x] while
+- [ ] agree to
+- [ ] civilization
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+____, the true reason for the collapse of the city remains mysterious.
+
+- [x] Yet
+- [ ] agree to
+- [ ] civilization
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

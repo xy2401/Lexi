@@ -63,83 +63,176 @@ appealing, appropriately, by, can't get enough of, can't wait, catch up, don't, 
 
 <quiz-sentence-builder>
 
-1. **中文**：温暖的灯光和木质家具使你的客厅看起来极其吸引人。  
-   **英文**：The warm lighting and wooden furniture make your living room look immensely appealing.
-   > **解析**：`appealing` 形容词，意为“有吸引力的；动人的”。在系动词 `look` 后作表语。
+1. **中文**：你做的大美味自制饼干我怎么吃也吃不够。
+   **英文**：I can't get enough of your delicious homemade cookies.
+   > **解析**：can't get enough of 意为非常喜欢、吃不够。
 
-2. **中文**：请进坐下；我们有好多近况要叙旧/交流！  
-   **英文**：Please come inside and sit down; we have so much to catch up on.
-   > **解析**：`catch up on sth.` 动词短语，意为“叙旧；跟上（近况/消息）”。
+2. **中文**：她最近沉迷于虚拟现实游戏。
+   **英文**：She is obsessed with virtual reality games these days.
+   > **解析**：virtual reality 意为虚拟现实（VR）。
 
-3. **中文**：谢谢你邀请我们；这道美味的自制苹果派太棒了！  
-   **英文**：Thank you for inviting us; this delicious homemade apple pie is fantastic.
-   > **解析**：`homemade` 形容词，意为“自制的；家常的”。
+3. **中文**：感谢邀请我参加你的乔迁派对！
+   **英文**：Thanks for inviting me to your housewarming party!
+   > **解析**：housewarming 意为乔迁派对。
 
-4. **中文**：你把新公寓装饰得非常有品味/风格高雅，每面墙上都有优雅的艺术品。  
-   **英文**：You decorated your new apartment in style, with elegant art pieces on every wall.
-   > **解析**：`in style` 介词短语作状语/表语，意为“有品味的；时髦地；富有风格地”。
+4. **中文**：客厅装饰得得体而时尚。
+   **英文**：The living room is decorated appropriately and in style.
+   > **解析**：in style 意为时尚地、有格调地。
 
-5. **中文**：你不应该错过探索后院漂亮花园的机会。  
-   **英文**：You shouldn't miss out on exploring the lovely garden in the backyard.
-   > **解析**：`miss out on sth.` 动词短语，意为“错过（好机会、乐趣等）”。
+5. **中文**：这个独特的艺术展品多么令人印象深刻啊！
+   **英文**：How impressive this unique art display is!
+   > **解析**：impressive 意为令人印象深刻的。
 
-6. **中文**：下周日举办暖房烧烤听起来是个极好的主意！  
-   **英文**：Hosting a housewarming barbecue next Sunday sounds like a wonderful idea.
-   > **解析**：`sounds` 连系动词 `sound` 的第三人称单数，搭配 `sound like + 名词`（听起来像……）。
+6. **中文**：我们没有死板的计划，所以到时候见机行事吧。
+   **英文**：We don't have a rigid plan, so let's play it by ear.
+   > **解析**：play it by ear 意为见机行事、到时候再说。
 
-7. **中文**：自从搬进这栋宽敞的郊区房子后，你最近都在忙些什么？  
-   **英文**：What have you been up to since moving into this spacious suburban home.
-   > **解析**：`be up to sth.` 为习惯短语，意为“在忙于做某事；从事”。问句 `What have you been up to?` 为常用问候语。
+7. **中文**：我迫不及待想在今晚和大家叙叙旧。
+   **英文**：I can't wait to catch up with everyone tonight.
+   > **解析**：catch up 意为叙旧、聚聚。
 
-8. **中文**：所有色彩鲜艳的靠垫都摆放得恰到好处，以衬托沙发的设计。  
-   **英文**：All the colorful cushions are placed appropriately to complement the sofa design.
-   > **解析**：`appropriately` 副词，意为“合适地；恰当地”，修饰动词 `placed`。
+8. **中文**：如果你不早点赶到，你就会错过好戏。
+   **英文**：If you don't show up early, you will miss out on the fun.
+   > **解析**：miss out on 意为错过（好机会/乐趣）。
 
-9. **中文**：如果你需要续茶，请随时开口，不必犹豫。  
-   **英文**：Don't hesitate to ask if you need a refill for your tea.
-   > **解析**：`don't` 助动词否定形式，用于否定祈使句开头（`don't hesitate`）。
+9. **中文**：这个现代花园设计对你来说难道不具有吸引力吗？
+   **英文**：Isn't this modern garden design appealing to you?
+   > **解析**：appealing 意为有吸引力的。
 
-10. **中文**：你新翻修的厨房感觉是多么舒适和温馨啊！  
-   **英文**：How cozy and welcoming your newly renovated kitchen feels.
-   > **解析**：`how` 引导感叹句，结构为 `How + 形容词 + 主语 + 谓语！`，用以极力夸赞和赞美。
+10. **中文**：这场演出出乎意料地具有娱乐性。
+   **英文**：The performance was surprisingly entertaining.
+   > **解析**：entertaining 意为有趣的、有娱乐性的。
+
+11. **中文**：如果事情不够完美，不要对自己太苛刻。
+   **英文**：Don't be too hard on yourself if things aren't perfect.
+   > **解析**：be too hard on 意为对自己/他人太苛刻。
+
+12. **中文**：由你来决定哪种颜色最适合这个房间。
+   **英文**：It is up to you to decide which color suits the room best.
+   > **解析**：be up to 意为由……决定。
+
+13. **中文**：听起来那是一个很棒的周末主意。
+   **英文**：That sounds like a lovely idea for the weekend.
+   > **解析**：lovely 意为美好的、可爱的。
+
+14. **中文**：你不会相信从阳台上看到的景色有多美。
+   **英文**：You won't believe how beautiful the view is from the balcony.
+   > **解析**：balcony 意为阳台。
+
+15. **中文**：她带了一个可爱的自制蛋糕来参加派对。
+   **英文**：She brought a lovely homemade cake to the party.
+   > **解析**：homemade 意为自制的。
+
+16. **中文**：他对现代家具设计很着迷。
+   **英文**：He is obsessed with modern furniture design.
+   > **解析**：obsessed with 意为对……着迷。
+
+17. **中文**：那部电影听起来超级有趣！
+   **英文**：That movie sounds super entertaining!
+   > **解析**：sounds 意为听起来。
+
+18. **中文**：这个周末我们应该喝咖啡聚聚叙旧。
+   **英文**：We should catch up over coffee this weekend.
+   > **解析**：catch up 意为叙旧。
+
+19. **中文**：找到这样一个独特的房子并不容易。
+   **英文**：It isn't easy to find such a unique house.
+   > **解析**：unique 意为独特的。
+
+20. **中文**：你的新公寓看起来多么漂亮啊！
+   **英文**：How lovely your new apartment looks!
+   > **解析**：How 用于感叹句修饰形容词。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The warm lighting and wooden furniture make your living room look immensely appealing.
-   > **中文**：温暖的灯光和木质家具使你的客厅看起来极其吸引人。
+1. I can't get enough of your delicious homemade cookies.
+   > **中文**：你做的大美味自制饼干我怎么吃也吃不够。
 
-2. Please come inside and sit down; we have so much to catch up on.
-   > **中文**：请进坐下；我们有好多近况要叙旧/交流！
+2. She is obsessed with virtual reality games these days.
+   > **中文**：她最近沉迷于虚拟现实游戏。
 
-3. Thank you for inviting us; this delicious homemade apple pie is fantastic.
-   > **中文**：谢谢你邀请我们；这道美味的自制苹果派太棒了！
+3. Thanks for inviting me to your housewarming party!
+   > **中文**：感谢邀请我参加你的乔迁派对！
 
-4. You decorated your new apartment in style, with elegant art pieces on every wall.
-   > **中文**：你把新公寓装饰得非常有品味/风格高雅，每面墙上都有优雅的艺术品。
+4. The living room is decorated appropriately and in style.
+   > **中文**：客厅装饰得得体而时尚。
 
-5. You shouldn't miss out on exploring the lovely garden in the backyard.
-   > **中文**：你不应该错过探索后院漂亮花园的机会。
+5. How impressive this unique art display is!
+   > **中文**：这个独特的艺术展品多么令人印象深刻啊！
 
-6. Hosting a housewarming barbecue next Sunday sounds like a wonderful idea.
-   > **中文**：下周日举办暖房烧烤听起来是个极好的主意！
+6. We don't have a rigid plan, so let's play it by ear.
+   > **中文**：我们没有死板的计划，所以到时候见机行事吧。
 
-7. What have you been up to since moving into this spacious suburban home.
-   > **中文**：自从搬进这栋宽敞的郊区房子后，你最近都在忙些什么？
+7. I can't wait to catch up with everyone tonight.
+   > **中文**：我迫不及待想在今晚和大家叙叙旧。
 
-8. All the colorful cushions are placed appropriately to complement the sofa design.
-   > **中文**：所有色彩鲜艳的靠垫都摆放得恰到好处，以衬托沙发的设计。
+8. If you don't show up early, you will miss out on the fun.
+   > **中文**：如果你不早点赶到，你就会错过好戏。
 
-9. Don't hesitate to ask if you need a refill for your tea.
-   > **中文**：如果你需要续茶，请随时开口，不必犹豫。
+9. Isn't this modern garden design appealing to you?
+   > **中文**：这个现代花园设计对你来说难道不具有吸引力吗？
 
-10. How cozy and welcoming your newly renovated kitchen feels.
-   > **中文**：你新翻修的厨房感觉是多么舒适和温馨啊！
+10. The performance was surprisingly entertaining.
+   > **中文**：这场演出出乎意料地具有娱乐性。
+
+11. Don't be too hard on yourself if things aren't perfect.
+   > **中文**：如果事情不够完美，不要对自己太苛刻。
+
+12. It is up to you to decide which color suits the room best.
+   > **中文**：由你来决定哪种颜色最适合这个房间。
+
+13. That sounds like a lovely idea for the weekend.
+   > **中文**：听起来那是一个很棒的周末主意。
+
+14. You won't believe how beautiful the view is from the balcony.
+   > **中文**：你不会相信从阳台上看到的景色有多美。
+
+15. She brought a lovely homemade cake to the party.
+   > **中文**：她带了一个可爱的自制蛋糕来参加派对。
+
+16. He is obsessed with modern furniture design.
+   > **中文**：他对现代家具设计很着迷。
+
+17. That movie sounds super entertaining!
+   > **中文**：那部电影听起来超级有趣！
+
+18. We should catch up over coffee this weekend.
+   > **中文**：这个周末我们应该喝咖啡聚聚叙旧。
+
+19. It isn't easy to find such a unique house.
+   > **中文**：找到这样一个独特的房子并不容易。
+
+20. How lovely your new apartment looks!
+   > **中文**：你的新公寓看起来多么漂亮啊！
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| housewarming | 乔迁派对 |
+| can't get enough of | 非常喜欢；吃/看不够 |
+| obsessed with | 对……着迷 |
+| play it by ear | 见机行事；到时候再说 |
+| show up | 出现；到场 |
+| catch up | 叙旧；赶上 |
+| miss out | 错过（机会/乐趣） |
+| lovely | 美好的；可爱的 |
+| impressive | 令人印象深刻的 |
+| appealing | 有吸引力的 |
+| homemade | 自制的 |
+| in style | 时尚地；有格调地 |
+| unique | 独特的 |
+| entertaining | 有趣的；有娱乐性的 |
+| can't wait | 迫不及待 |
+| too hard on | 对……太苛刻 |
+| up to | 由……决定 |
+| virtual reality | 虚拟现实 |
+| appropriately | 恰当地；得体地 |
+| sounds | 听起来 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ appealing, appropriately, by, can't get enough of, can't wait, catch up, don't, 
 
 ### 1
 
-The warm lighting and wooden furniture make your living room look immensely `____`.
+I can't get enough of your delicious ____ cookies.
 
-- [x] appealing
+- [x] homemade
+- [ ] appealing
 - [ ] appropriately
-- [ ] catch up
 
-> **解析**：`appealing` 形容词，意为“有吸引力的；动人的”。在系动词 `look` 后作表语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Please come inside and sit down; we have so much to `____` on.
+She is ____ with virtual reality games these days.
 
-- [x] catch up
+- [x] obsessed
+- [ ] appealing
 - [ ] appropriately
-- [ ] don't
 
-> **解析**：`catch up on sth.` 动词短语，意为“叙旧；跟上（近况/消息）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Thank you for inviting us; this delicious `____` apple pie is fantastic.
+Thanks for inviting me to your ____ party!
 
-- [x] homemade
-- [ ] by
-- [ ] don't
+- [x] housewarming
+- [ ] appealing
+- [ ] appropriately
 
-> **解析**：`homemade` 形容词，意为“自制的；家常的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-You decorated your new apartment `____`, with elegant art pieces on every wall.
+The living room is decorated ____ and in style.
 
-- [x] in style
-- [ ] can't get enough of
-- [ ] entertaining
+- [x] appropriately
+- [ ] appealing
+- [ ] by
 
-> **解析**：`in style` 介词短语作状语/表语，意为“有品味的；时髦地；富有风格地”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-You shouldn't miss out on exploring the `____` garden in the backyard.
+____ impressive this unique art display is!
 
-- [x] lovely
-- [ ] can't wait
-- [ ] homemade
+- [x] How
+- [ ] appealing
+- [ ] appropriately
 
-> **解析**：`miss out on sth.` 动词短语，意为“错过（好机会、乐趣等）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Hosting a `____` barbecue next Sunday sounds like a wonderful idea.
+We ____ have a rigid plan, so let's play it by ear.
 
-- [x] housewarming
-- [ ] catch up
-- [ ] how
+- [x] don't
+- [ ] appealing
+- [ ] appropriately
 
-> **解析**：`sounds` 连系动词 `sound` 的第三人称单数，搭配 `sound like + 名词`（听起来像……）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-What have you been `____` since moving into this spacious suburban home.
+I can't wait to catch up with ____ tonight.
 
-- [x] up to
-- [ ] don't
-- [ ] how
+- [x] everyone
+- [ ] appealing
+- [ ] appropriately
 
-> **解析**：`be up to sth.` 为习惯短语，意为“在忙于做某事；从事”。问句 `What have you been up to?` 为常用问候语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-All the colorful cushions are placed `____` to complement the sofa design.
+If you ____ show up early, you will miss out on the fun.
 
-- [x] appropriately
-- [ ] homemade
-- [ ] in style
+- [x] don't
+- [ ] appealing
+- [ ] appropriately
 
-> **解析**：`appropriately` 副词，意为“合适地；恰当地”，修饰动词 `placed`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-`____` hesitate to ask if you need a refill for your tea.
+____ this modern garden design appealing to you?
 
-- [x] don't
-- [ ] housewarming
-- [ ] isn't
+- [x] Isn't
+- [ ] appealing
+- [ ] appropriately
 
-> **解析**：`don't` 助动词否定形式，用于否定祈使句开头（`don't hesitate`）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-`____` cozy and welcoming your newly renovated kitchen feels.
+The performance was surprisingly ____.
 
-- [x] how
-- [ ] housewarming
-- [ ] lovely
+- [x] entertaining
+- [ ] appealing
+- [ ] appropriately
 
-> **解析**：`how` 引导感叹句，结构为 `How + 形容词 + 主语 + 谓语！`，用以极力夸赞和赞美。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+____ be too hard on yourself if things aren't perfect.
+
+- [x] Don't
+- [ ] appealing
+- [ ] appropriately
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+It is up to you to ____ which color suits the room best.
+
+- [x] decide
+- [ ] appealing
+- [ ] appropriately
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+That ____ like a lovely idea for the weekend.
+
+- [x] sounds
+- [ ] appealing
+- [ ] appropriately
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+You ____ believe how beautiful the view is from the balcony.
+
+- [x] won't
+- [ ] appealing
+- [ ] appropriately
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+She brought a ____ homemade cake to the party.
+
+- [x] lovely
+- [ ] appealing
+- [ ] appropriately
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+He is obsessed with modern ____ design.
+
+- [x] furniture
+- [ ] appealing
+- [ ] appropriately
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+That movie ____ super entertaining!
+
+- [x] sounds
+- [ ] appealing
+- [ ] appropriately
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+We should catch up over coffee this ____.
+
+- [x] weekend
+- [ ] appealing
+- [ ] appropriately
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+It ____ easy to find such a unique house.
+
+- [x] isn't
+- [ ] appealing
+- [ ] appropriately
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+____ lovely your new apartment looks!
+
+- [x] How
+- [ ] appealing
+- [ ] appropriately
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

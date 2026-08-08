@@ -55,83 +55,176 @@ architecture, been, collection, cycling, ever since, go for a run, has been, hav
 
 <quiz-sentence-builder>
 
-1. **中文**：自从加入骑行俱乐部，他就一直坚持每周骑车。
-   **英文**：He has been cycling every week ever since he joined the club.
-   > **解析**：**cycling** 是 cycle 的动名词/名词形式，意为"骑自行车运动"；has been cycling 构成现在完成进行时，强调从过去持续至今的习惯；ever since 引出起点时间。
+1. **中文**：他对古典建筑学和城市设计怀有浓厚的兴趣。
+   **英文**：He has a deep interest in ancient architecture and history.
+   > **解析**：architecture 表示“建筑学/建筑风格”。
 
-2. **中文**：说实话，我觉得坚持规律锻炼比改变饮食更难。
-   **英文**：Honestly, I find it harder to exercise regularly than to change my diet.
-   > **解析**：**honestly** 作句首评注性副词，意为"坦白说、说实话"，常用于口语中引出真实看法；**regularly** 作副词意为"有规律地、定期地"，修饰动词 exercise。
+2. **中文**：他的私人艺术收藏品包含了许多稀有的名画。
+   **英文**：His private art collection contains many rare oil paintings.
+   > **解析**：collection 表示“收藏品/收集”。
 
-3. **中文**：你练瑜伽多久了？大约两年了。
-   **英文**：How long have you been doing yoga? About two years now.
-   > **解析**：**how long** 用于询问持续时间，与现在完成进行时 have been doing 搭配；**yoga** 是名词，指瑜伽运动，来自梵语，do yoga 是常见搭配。
+3. **中文**：周末去郊外骑自行车运动是一项很好的健身方式。
+   **英文**：Cycling in the countryside is a great workout for weekends.
+   > **解析**：cycling 表示“骑自行车运动”。
 
-4. **中文**：她每天早晨出门慢跑，风雨无阻。
-   **英文**：She goes out to jog every morning, rain or shine.
-   > **解析**：**jog** 作不及物动词意为"慢跑"，比 run 速度更慢、更轻松；go out to jog 表示"出门去慢跑"，rain or shine 是固定表达，意为"不管什么天气"。
+4. **中文**：自从小时候起，他就一直在收集旧邮票。
+   **英文**：He has been collecting stamps ever since he was a kid.
+   > **解析**：ever since 表示“自……以来一直”。
 
-5. **中文**：由于工作繁忙，她去健身房的次数比以前少了。
-   **英文**：She goes to the gym less often now because of her busy work schedule.
-   > **解析**：**less often** 是频率比较级短语，意为"较少地、不那么频繁"，是 often 的降级比较；与 more often（更频繁）相对，用于表达频率的变化。
+5. **中文**：我每天早晨起床后都会去公园里去跑步。
+   **英文**：I like to go for a run in the park every morning.
+   > **解析**：go for a run 表示“去跑步”。
 
-6. **中文**：他除了踢足球，还喜欢读诗歌和参观历史建筑。
-   **英文**：Besides playing football, he enjoys reading poetry and visiting historic architecture.
-   > **解析**：**poetry** 作不可数名词意为"诗歌（总称）"，一首诗用 a poem；**architecture** 作不可数名词意为"建筑学/建筑风格/建筑群"，visiting architecture 指参观建筑。
+6. **中文**：老实说，我没有太多时间看电视。
+   **英文**：Honestly, I don't have much free time to watch television.
+   > **解析**：Honestly 表示“老实说/说真的”。
 
-7. **中文**：你有没有尝试过水肺潜水？那真的是一种非常难忘的体验。
-   **英文**：Have you ever tried scuba diving? It is a truly unforgettable experience.
-   > **解析**：**scuba dive** 作动词短语意为"水肺潜水"，动名词形式为 scuba diving；Have you ever... 是现在完成时的常见疑问句型，used to ask about life experiences。
+7. **中文**：你练习瑜伽这项运动练习了多长时间了？
+   **英文**：How long have you been practicing yoga at home?
+   > **解析**：How long 用来询问时间跨度“多长时间”。
 
-8. **中文**：她自从大学毕业后就一直把邮票收藏作为自己的业余爱好。
-   **英文**：She has been building her stamp collection ever since she graduated from college.
-   > **解析**：**collection** 作可数名词意为"收藏品、收藏集"，常见搭配有 stamp collection（邮票收藏）、art collection（艺术品收藏）；**ever since** 引导时间状语，说明持续行为的起点。
+8. **中文**：每天早饭前慢跑三公里能让人精神充沛。
+   **英文**：Jogging three miles before breakfast gives me great energy.
+   > **解析**：Jogging 表示“慢跑”。
 
-9. **中文**：天气好的时候，他们喜欢沿着河边跑步。
-   **英文**：When the weather is nice, they like to go for a run along the river.
-   > **解析**：**go for a run** 是固定动词短语，意为"去跑步/去跑一圈"，强调一次具体的跑步活动；与 jog（持续慢跑）相比，更侧重"出去跑一趟"的动作。
+9. **中文**：我们当地的足球队在社区业余联赛中夺得了第一名。
+   **英文**：Our local soccer team plays in the amateur league.
+   > **解析**：league 表示“联赛/联盟”。
 
-10. **中文**：他喜欢读诗、学建筑，还有那一类文艺的事情。
-    **英文**：He is into reading poetry, studying architecture, and that sort of thing.
-    > **解析**：**that sort of thing** 是口语中的固定表达，意为"诸如此类/那类东西"，用来模糊概括同类事物，避免逐一列举；be into sth 意为"对……感兴趣"。
+10. **中文**：打高尔夫球是他最喜欢的业余休闲活动。
+   **英文**：Playing golf is his favorite pastime during leisure time.
+   > **解析**：leisure 表示“休闲/空闲”。
+
+11. **中文**：如今工作变忙了后，他比以前较少发生去健身房了。
+   **英文**：He visits the gym less often now due to a busy schedule.
+   > **解析**：less often 表示“较少/不常”。
+
+12. **中文**：为了保持健康，你应当更频繁地参加体育锻炼。
+   **英文**：You should exercise more often to stay fit and strong.
+   > **解析**：more often 表示“更频繁地/更多地”。
+
+13. **中文**：除了看书之外，此外我还非常热爱烹饪美食。
+   **英文**：I enjoy reading history, plus I love cooking for friends.
+   > **解析**：plus 表示“此外/加之”。
+
+14. **中文**：她闲暇时喜欢创作现代诗歌并在网上分享。
+   **英文**：She writes beautiful poetry and shares it online.
+   > **解析**：poetry 表示“诗歌/诗作”。
+
+15. **中文**：他每周定期地去游泳馆进行游泳训练。
+   **英文**：He goes to the local swimming pool regularly every week.
+   > **解析**：regularly 表示“定期地/有规律地”。
+
+16. **中文**：假期里他们去三亚尝试了热带水肺潜水。
+   **英文**：They plan to scuba dive in the clear tropical ocean.
+   > **解析**：scuba dive 表示“水肺潜水”。
+
+17. **中文**：我喜欢户外运动，比如徒步、露营诸如此类的事情。
+   **英文**：I love outdoor sports like hiking, camping, and that sort of thing.
+   > **解析**：that sort of thing 表示“诸如此类的事/之类的”。
+
+18. **中文**：每天练习半小时瑜伽有助于舒缓身心压力。
+   **英文**：Doing yoga daily helps improve flexibility and relieve stress.
+   > **解析**：yoga 表示“瑜伽”。
+
+19. **中文**：她在这个合唱团里已经是团员五年了。
+   **英文**：She has been a dedicated member of the choir for five years.
+   > **解析**：has been 为现在完成时，表示“已经是/一直都是”。
+
+20. **中文**：我们从去年开始就一直在参加这个读书俱乐部。
+   **英文**：We have been active members of this club since last year.
+   > **解析**：have been 为现在完成时复数形式。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. He has been cycling every week ever since he joined the club.
-   > **中文**：自从加入骑行俱乐部，他就一直坚持每周骑车。
+1. He has a deep interest in ancient architecture and history.
+   > **中文**：他对古典建筑学和城市设计怀有浓厚的兴趣。
 
-2. Honestly, I find it harder to exercise regularly than to change my diet.
-   > **中文**：说实话，我觉得坚持规律锻炼比改变饮食更难。
+2. His private art collection contains many rare oil paintings.
+   > **中文**：他的私人艺术收藏品包含了许多稀有的名画。
 
-3. How long have you been doing yoga? About two years now.
-   > **中文**：你练瑜伽多久了？大约两年了。
+3. Cycling in the countryside is a great workout for weekends.
+   > **中文**：周末去郊外骑自行车运动是一项很好的健身方式。
 
-4. She goes out to jog every morning, rain or shine.
-   > **中文**：她每天早晨出门慢跑，风雨无阻。
+4. He has been collecting stamps ever since he was a kid.
+   > **中文**：自从小时候起，他就一直在收集旧邮票。
 
-5. She goes to the gym less often now because of her busy work schedule.
-   > **中文**：由于工作繁忙，她去健身房的次数比以前少了。
+5. I like to go for a run in the park every morning.
+   > **中文**：我每天早晨起床后都会去公园里去跑步。
 
-6. Besides playing football, he enjoys reading poetry and visiting historic architecture.
-   > **中文**：他除了踢足球，还喜欢读诗歌和参观历史建筑。
+6. Honestly, I don't have much free time to watch television.
+   > **中文**：老实说，我没有太多时间看电视。
 
-7. Have you ever tried scuba diving? It is a truly unforgettable experience.
-   > **中文**：你有没有尝试过水肺潜水？那真的是一种非常难忘的体验。
+7. How long have you been practicing yoga at home?
+   > **中文**：你练习瑜伽这项运动练习了多长时间了？
 
-8. She has been building her stamp collection ever since she graduated from college.
-   > **中文**：她自从大学毕业后就一直把邮票收藏作为自己的业余爱好。
+8. Jogging three miles before breakfast gives me great energy.
+   > **中文**：每天早饭前慢跑三公里能让人精神充沛。
 
-9. When the weather is nice, they like to go for a run along the river.
-   > **中文**：天气好的时候，他们喜欢沿着河边跑步。
+9. Our local soccer team plays in the amateur league.
+   > **中文**：我们当地的足球队在社区业余联赛中夺得了第一名。
 
-10. He is into reading poetry, studying architecture, and that sort of thing.
-    > **中文**：他喜欢读诗、学建筑，还有那一类文艺的事情。
+10. Playing golf is his favorite pastime during leisure time.
+   > **中文**：打高尔夫球是他最喜欢的业余休闲活动。
+
+11. He visits the gym less often now due to a busy schedule.
+   > **中文**：如今工作变忙了后，他比以前较少发生去健身房了。
+
+12. You should exercise more often to stay fit and strong.
+   > **中文**：为了保持健康，你应当更频繁地参加体育锻炼。
+
+13. I enjoy reading history, plus I love cooking for friends.
+   > **中文**：除了看书之外，此外我还非常热爱烹饪美食。
+
+14. She writes beautiful poetry and shares it online.
+   > **中文**：她闲暇时喜欢创作现代诗歌并在网上分享。
+
+15. He goes to the local swimming pool regularly every week.
+   > **中文**：他每周定期地去游泳馆进行游泳训练。
+
+16. They plan to scuba dive in the clear tropical ocean.
+   > **中文**：假期里他们去三亚尝试了热带水肺潜水。
+
+17. I love outdoor sports like hiking, camping, and that sort of thing.
+   > **中文**：我喜欢户外运动，比如徒步、露营诸如此类的事情。
+
+18. Doing yoga daily helps improve flexibility and relieve stress.
+   > **中文**：每天练习半小时瑜伽有助于舒缓身心压力。
+
+19. She has been a dedicated member of the choir for five years.
+   > **中文**：她在这个合唱团里已经是团员五年了。
+
+20. We have been active members of this club since last year.
+   > **中文**：我们从去年开始就一直在参加这个读书俱乐部。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| architecture | 建筑学 |
+| collection | 收藏品 |
+| cycling | 骑自行车运动 |
+| ever since | 从那以后一直 |
+| go for a run | 去跑步 |
+| honestly | 老实说 |
+| how long | 多长时间 |
+| jog | 慢跑 |
+| league | 联赛 / 联盟 |
+| leisure | 休闲 / 空闲 |
+| less often | 较少地 |
+| more often | 更频繁地 |
+| plus | 此外 / 加 |
+| poetry | 诗歌 |
+| regularly | 定期地 |
+| scuba dive | 水肺潜水 |
+| that sort of thing | 诸如此类的事情 |
+| yoga | 瑜伽 |
+| has been | 已经是（单数） |
+| have been | 已经是（复数） |
 
 </quiz-matching>
 
@@ -139,102 +232,202 @@ architecture, been, collection, cycling, ever since, go for a run, has been, hav
 
 ### 1
 
-He has been `____` every week ever since he joined the club.
+He has a deep interest in ancient ____ and history.
 
-- [x] cycling
-- [ ] jogging
+- [x] architecture
 - [ ] been
+- [ ] collection
 
-> **解析**：**cycling** 是 cycle 的动名词/名词形式，意为"骑自行车运动"；has been cycling 构成现在完成进行时，强调从过去持续至今的习惯；ever since 引出起点时间。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-`____`, I find it harder to exercise regularly than to change my diet.
+His private art ____ contains many rare oil paintings.
 
-- [x] honestly
-- [ ] plus
-- [ ] very long
+- [x] collection
+- [ ] architecture
+- [ ] been
 
-> **解析**：**honestly** 作句首评注性副词，意为"坦白说、说实话"，常用于口语中引出真实看法；**regularly** 作副词意为"有规律地、定期地"，修饰动词 exercise。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-`____` have you been doing yoga? About two years now.
+____ in the countryside is a great workout for weekends.
 
-- [x] how long
-- [ ] ever since
-- [ ] have been
+- [x] Cycling
+- [ ] architecture
+- [ ] been
 
-> **解析**：**how long** 用于询问持续时间，与现在完成进行时 have been doing 搭配；**yoga** 是名词，指瑜伽运动，来自梵语，do yoga 是常见搭配。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-She goes out to `____` every morning, rain or shine.
+He has ____ collecting stamps ever since he was a kid.
 
-- [x] jog
-- [ ] go for a run
-- [ ] scuba dive
+- [x] been
+- [ ] architecture
+- [ ] collection
 
-> **解析**：**jog** 作不及物动词意为"慢跑"，比 run 速度更慢、更轻松；go out to jog 表示"出门去慢跑"，rain or shine 是固定表达，意为"不管什么天气"。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-She goes to the gym `____` now because of her busy work schedule.
+I like to go for a run in the park every ____.
 
-- [x] less often
-- [ ] more often
-- [ ] regularly
+- [x] morning
+- [ ] architecture
+- [ ] been
 
-> **解析**：**less often** 是频率比较级短语，意为"较少地、不那么频繁"，是 often 的降级比较；与 more often（更频繁）相对，用于表达频率的变化。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Besides playing football, he enjoys reading `____` and visiting historic architecture.
+____, I don't have much free time to watch television.
 
-- [x] poetry
-- [ ] collection
-- [ ] leisure
+- [x] Honestly
+- [ ] architecture
+- [ ] been
 
-> **解析**：**poetry** 作不可数名词意为"诗歌（总称）"，一首诗用 a poem；**architecture** 作不可数名词意为"建筑学/建筑风格/建筑群"，visiting architecture 指参观建筑。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Have you ever tried `____`? It is a truly unforgettable experience.
+How long have you ____ practicing yoga at home?
 
-- [x] scuba diving
-- [ ] cycling
-- [ ] yoga
+- [x] been
+- [ ] architecture
+- [ ] collection
 
-> **解析**：**scuba dive** 作动词短语意为"水肺潜水"，动名词形式为 scuba diving；Have you ever... 是现在完成时的常见疑问句型，used to ask about life experiences。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-She has been building her stamp `____` ever since she graduated from college.
+Jogging three miles before ____ gives me great energy.
 
-- [x] collection
-- [ ] league
-- [ ] leisure
+- [x] breakfast
+- [ ] architecture
+- [ ] been
 
-> **解析**：**collection** 作可数名词意为"收藏品、收藏集"，常见搭配有 stamp collection（邮票收藏）、art collection（艺术品收藏）；**ever since** 引导时间状语，说明持续行为的起点。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-When the weather is nice, they like to `____` along the river.
+Our local soccer team plays in the amateur ____.
 
-- [x] go for a run
-- [ ] jog
-- [ ] scuba dive
+- [x] league
+- [ ] architecture
+- [ ] been
 
-> **解析**：**go for a run** 是固定动词短语，意为"去跑步/去跑一圈"，强调一次具体的跑步活动；与 jog（持续慢跑）相比，更侧重"出去跑一趟"的动作。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-He is into reading poetry, studying architecture, and `____`.
+Playing golf is his favorite pastime during ____ time.
 
-- [x] that sort of thing
-- [ ] very long
-- [ ] plus
+- [x] leisure
+- [ ] architecture
+- [ ] been
 
-> **解析**：**that sort of thing** 是口语中的固定表达，意为"诸如此类/那类东西"，用来模糊概括同类事物，避免逐一列举；be into sth 意为"对……感兴趣"。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+He visits the gym less often now due to a busy ____.
+
+- [x] schedule
+- [ ] architecture
+- [ ] been
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+You should ____ more often to stay fit and strong.
+
+- [x] exercise
+- [ ] architecture
+- [ ] been
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+I enjoy reading history, ____ I love cooking for friends.
+
+- [x] plus
+- [ ] architecture
+- [ ] been
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+She writes beautiful ____ and shares it online.
+
+- [x] poetry
+- [ ] architecture
+- [ ] been
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+He goes to the local swimming pool ____ every week.
+
+- [x] regularly
+- [ ] architecture
+- [ ] been
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+They plan to scuba dive in the clear ____ ocean.
+
+- [x] tropical
+- [ ] architecture
+- [ ] been
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+I love ____ sports like hiking, camping, and that sort of thing.
+
+- [x] outdoor
+- [ ] architecture
+- [ ] been
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Doing ____ daily helps improve flexibility and relieve stress.
+
+- [x] yoga
+- [ ] architecture
+- [ ] been
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+She has ____ a dedicated member of the choir for five years.
+
+- [x] been
+- [ ] architecture
+- [ ] collection
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+We have ____ active members of this club since last year.
+
+- [x] been
+- [ ] architecture
+- [ ] collection
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

@@ -63,83 +63,176 @@ clear up, compared to, ever, find it, flood, freezing, frost, get cold, humidity
 
 <quiz-sentence-builder>
 
-1. **中文**：根据天气预报，强降雨应该会在中午前后放晴。  
-   **英文**：According to the weather forecast, the heavy rain should clear up by midday.
-   > **解析**：`clear up` 不及物动词短语，意为“（天气）放晴；转晴”。
+1. **中文**：阵雨过后天空将会放晴。  
+   **英文**：The sky will clear up after the rain shower passes.
+   > **解析**：clear up 表示（天气）放晴。
 
-2. **中文**：持续的倾盆大雨导致附近的河流泛滥并淹没了街道。  
-   **英文**：Continuous torrential rainfall caused the nearby river to overflow and flood the streets.
-   > **解析**：`flood` 动词，意为“淹没；泛滥”；亦可作可数/不可数名词（洪水）。
+2. **中文**：外面极度寒冷，所以穿上一件厚重的冬季大衣。  
+   **英文**：It's freezing outside, so put on a heavy winter coat.
+   > **解析**：freezing 表示极冷、结冰的。
 
-3. **中文**：务必带上一件厚外套，因为太阳落山后天气会变冷。  
-   **英文**：Make sure to bring a thick coat because it will get cold after the sun sets.
-   > **解析**：`get cold` 为“连系动词 `get` + 形容词 `cold`”，意为“变冷；天气转凉”。
+3. **中文**：清晨的霜盖满了院子里的绿草。  
+   **英文**：Morning frost covered the green grass in the yard.
+   > **解析**：frost 表示霜。
 
-4. **中文**：看看窗外；山上正下着大雪。  
-   **英文**：Look outside the window; it's snowing heavily on the mountains.
-   > **解析**：`it's` 为 `it is` 或 `it has` 的缩写。在天气表达中作无人称主语 `it`。
+4. **中文**：夏季的高湿度让人感觉天气更加炎热。  
+   **英文**：The high humidity in summer makes it feel hotter.
+   > **解析**：humidity 表示湿度。
 
-5. **中文**：这家餐厅定期更新菜单，以主打新鲜的季节性食材。  
-   **英文**：The restaurant updates its menu regularly to feature fresh seasonal ingredients.
-   > **解析**：`seasonal` 形容词，意为“季节性的；随季节变化的”。`seasonal ingredients`（季节性食材）。
+5. **中文**：强降雨导致主干道上突然引发洪水。  
+   **英文**：Heavy rain caused a sudden flood on main street.
+   > **解析**：flood 表示洪水。
 
-6. **中文**：今天学校停课了，所以所有的孩子都为意外的雪假感到激动。  
-   **英文**：School was cancelled today, so all the children were excited for an unexpected snow day.
-   > **解析**：`snow day` 可数名词短语，意为“因大雪停课/停工的假”。
+6. **中文**：预警系统发布了龙卷风警报。  
+   **英文**：The warning system issued an alert for a tornado.
+   > **解析**：tornado 表示龙卷风。
 
-7. **中文**：晚秋期间，枫树上的叶子变成了鲜红色。  
-   **英文**：During late autumn, the leaves on the maple trees turn bright red.
-   > **解析**：`turn` 连系动词，意为“变成；转变为”，后接颜色形容词 `bright red`。
+7. **中文**：暴风雨过后，天空中出现了一道美丽的彩虹。  
+   **英文**：A beautiful rainbow appeared in the sky after the storm.
+   > **解析**：rainbow 表示彩虹。
 
-8. **中文**：与结冰的北方相比，南方城市的冬天相对温和。  
-   **英文**：Winters in southern cities are relatively mild compared to the frozen north (get cold) about ever.
-   > **解析**：`compared to` 为介词短语，意为“与……相比”，在句中作状语。
+8. **中文**：璀璨的阳光透过客厅窗户照了进来。  
+   **英文**：Bright sunlight shone through the living room window.
+   > **解析**：sunlight 表示阳光。
 
-9. **中文**：今天早晨吹过湖面来的风简直冻死人了/极度寒冷。  
-   **英文**：The wind blowing off the lake was absolutely freezing this morning.
-   > **解析**：`freezing` 形容词，意为“极冷的；严寒的”。常被 `absolutely / completely` 修饰。
+9. **中文**：坐在荫凉的橡树下保持凉爽。  
+   **英文**：Sit under the shady oak tree to stay cool.
+   > **解析**：shady 表示荫凉的。
 
-10. **中文**：气候变化是一个关键的全球性议题，需要所有国家的立即关注。  
-   **英文**：Climate change is a critical global issue that requires immediate attention from all countries.
-   > **解析**：`issue` 可数名词，意为“议题；问题；焦点”。`global issue`（全球性问题）。
+10. **中文**：由于暴风雪，学校宣布停课雪假一天。  
+   **英文**：The school announced a snow day due to the blizzard.
+   > **解析**：snow day 指因大雪放假停课的日子。
+
+11. **中文**：孩子们喜欢从积雪的山坡上滑雪橇。  
+   **英文**：Kids love going sledding down the snowy hill.
+   > **解析**：sledding 指滑雪橇。
+
+12. **中文**：过敏症状是春季常见的季节性问题。  
+   **英文**：Allergy symptoms are a common seasonal issue in spring.
+   > **解析**：seasonal 表示季节性的。
+
+13. **中文**：空气污染是这里一个主要的环境问题。  
+   **英文**：Air pollution is a major environmental issue here.
+   > **解析**：issue 表示问题、议题。
+
+14. **中文**：下午有百分之五十的下雨概率。  
+   **英文**：There is a fifty percent chance of rain afternoon.
+   > **解析**：percent chance of 表示百分之……的几率。
+
+15. **中文**：如果那些乌云涌过来，肯定会下雨的。  
+   **英文**：It is sure to rain if those dark clouds roll in.
+   > **解析**：be sure to... 表示必然、肯定会……
+
+16. **中文**：树叶将在深秋变黄。  
+   **英文**：The leaves will turn yellow in late autumn.
+   > **解析**：turn 表示变成、转变。
+
+17. **中文**：随着傍晚临近，天气开始变冷。  
+   **英文**：It begins to get cold as evening approaches.
+   > **解析**：get cold 表示变冷。
+
+18. **中文**：与昨天极冷的天气相比，今天挺温暖的。  
+   **英文**：Today is warm compared to yesterday's freezing weather.
+   > **解析**：compared to 表示与……相比。
+
+19. **中文**：小心点，因为今天外面风很大。  
+   **英文**：Be careful because it's windy out there today.
+   > **解析**：out there 表示外面。
+
+20. **中文**：我发现在大雪中开汽车非常困难。  
+   **英文**：I find it difficult to drive in heavy snow.
+   > **解析**：find it + adj + to do 表示发现做某事很……
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. According to the weather forecast, the heavy rain should clear up by midday.
-   > **中文**：根据天气预报，强降雨应该会在中午前后放晴。
+1. The sky will clear up after the rain shower passes.
+   > **中文**：阵雨过后天空将会放晴。
 
-2. Continuous torrential rainfall caused the nearby river to overflow and flood the streets.
-   > **中文**：持续的倾盆大雨导致附近的河流泛滥并淹没了街道。
+2. It's freezing outside, so put on a heavy winter coat.
+   > **中文**：外面极度寒冷，所以穿上一件厚重的冬季大衣。
 
-3. Make sure to bring a thick coat because it will get cold after the sun sets.
-   > **中文**：务必带上一件厚外套，因为太阳落山后天气会变冷。
+3. Morning frost covered the green grass in the yard.
+   > **中文**：清晨的霜盖满了院子里的绿草。
 
-4. Look outside the window; it's snowing heavily on the mountains.
-   > **中文**：看看窗外；山上正下着大雪。
+4. The high humidity in summer makes it feel hotter.
+   > **中文**：夏季的高湿度让人感觉天气更加炎热。
 
-5. The restaurant updates its menu regularly to feature fresh seasonal ingredients.
-   > **中文**：这家餐厅定期更新菜单，以主打新鲜的季节性食材。
+5. Heavy rain caused a sudden flood on main street.
+   > **中文**：强降雨导致主干道上突然引发洪水。
 
-6. School was cancelled today, so all the children were excited for an unexpected snow day.
-   > **中文**：今天学校停课了，所以所有的孩子都为意外的雪假感到激动。
+6. The warning system issued an alert for a tornado.
+   > **中文**：预警系统发布了龙卷风警报。
 
-7. During late autumn, the leaves on the maple trees turn bright red.
-   > **中文**：晚秋期间，枫树上的叶子变成了鲜红色。
+7. A beautiful rainbow appeared in the sky after the storm.
+   > **中文**：暴风雨过后，天空中出现了一道美丽的彩虹。
 
-8. Winters in southern cities are relatively mild compared to the frozen north (get cold) about ever.
-   > **中文**：与结冰的北方相比，南方城市的冬天相对温和。
+8. Bright sunlight shone through the living room window.
+   > **中文**：璀璨的阳光透过客厅窗户照了进来。
 
-9. The wind blowing off the lake was absolutely freezing this morning.
-   > **中文**：今天早晨吹过湖面来的风简直冻死人了/极度寒冷。
+9. Sit under the shady oak tree to stay cool.
+   > **中文**：坐在荫凉的橡树下保持凉爽。
 
-10. Climate change is a critical global issue that requires immediate attention from all countries.
-   > **中文**：气候变化是一个关键的全球性议题，需要所有国家的立即关注。
+10. The school announced a snow day due to the blizzard.
+   > **中文**：由于暴风雪，学校宣布停课雪假一天。
+
+11. Kids love going sledding down the snowy hill.
+   > **中文**：孩子们喜欢从积雪的山坡上滑雪橇。
+
+12. Allergy symptoms are a common seasonal issue in spring.
+   > **中文**：过敏症状是春季常见的季节性问题。
+
+13. Air pollution is a major environmental issue here.
+   > **中文**：空气污染是这里一个主要的环境问题。
+
+14. There is a fifty percent chance of rain afternoon.
+   > **中文**：下午有百分之五十的下雨概率。
+
+15. It is sure to rain if those dark clouds roll in.
+   > **中文**：如果那些乌云涌过来，肯定会下雨的。
+
+16. The leaves will turn yellow in late autumn.
+   > **中文**：树叶将在深秋变黄。
+
+17. It begins to get cold as evening approaches.
+   > **中文**：随着傍晚临近，天气开始变冷。
+
+18. Today is warm compared to yesterday's freezing weather.
+   > **中文**：与昨天极冷的天气相比，今天挺温暖的。
+
+19. Be careful because it's windy out there today.
+   > **中文**：小心点，因为今天外面风很大。
+
+20. I find it difficult to drive in heavy snow.
+   > **中文**：我发现在大雪中开汽车非常困难。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| `clear up` | 放晴；放晴 |
+| `compared to` | 与……相比 |
+| `flood` | 洪水 |
+| `freezing` | 极冷的；结冰的 |
+| `frost` | 霜 |
+| `get cold` | 变冷 |
+| `humidity` | 湿度 |
+| `issue` | 问题；议题 |
+| `out there` | 在外面 |
+| `percent chance of` | 百分之……的概率 |
+| `rainbow` | 彩虹 |
+| `seasonal` | 季节性的 |
+| `shady` | 荫凉的 |
+| `sledding` | 滑雪橇 |
+| `snow day` | 因雪停课假 |
+| `sunlight` | 阳光 |
+| `sure to` | 肯定会；必然 |
+| `tornado` | 龙卷风 |
+| `turn` | 变成；转变 |
+| `will be` | 将会是 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ clear up, compared to, ever, find it, flood, freezing, frost, get cold, humidity
 
 ### 1
 
-According to the weather forecast, the heavy rain should `____` by midday.
+The sky ____ clear up after the rain shower passes.
 
-- [x] clear up
+- [x] will
+- [ ] clear up
 - [ ] compared to
-- [ ] freezing
 
-> **解析**：`clear up` 不及物动词短语，意为“（天气）放晴；转晴”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Continuous torrential rainfall caused the nearby river to overflow and `____` the streets.
+____ freezing outside, so put on a heavy winter coat.
 
-- [x] flood
+- [x] It's
+- [ ] clear up
 - [ ] compared to
-- [ ] frost
 
-> **解析**：`flood` 动词，意为“淹没；泛滥”；亦可作可数/不可数名词（洪水）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Make sure to bring a thick coat because it will `____` after the sun sets.
+Morning ____ covered the green grass in the yard.
 
-- [x] get cold
-- [ ] ever
-- [ ] frost
+- [x] frost
+- [ ] clear up
+- [ ] compared to
 
-> **解析**：`get cold` 为“连系动词 `get` + 形容词 `cold`”，意为“变冷；天气转凉”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Look outside the window; `____` snowing heavily on the mountains.
+The high ____ in summer makes it feel hotter.
 
-- [x] it's
-- [ ] find it
-- [ ] get cold
+- [x] humidity
+- [ ] clear up
+- [ ] compared to
 
-> **解析**：`it's` 为 `it is` 或 `it has` 的缩写。在天气表达中作无人称主语 `it`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The restaurant updates its menu regularly to feature fresh `____` ingredients.
+Heavy rain caused a sudden ____ on main street.
 
-- [x] seasonal
-- [ ] flood
-- [ ] humidity
+- [x] flood
+- [ ] clear up
+- [ ] compared to
 
-> **解析**：`seasonal` 形容词，意为“季节性的；随季节变化的”。`seasonal ingredients`（季节性食材）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-School was cancelled today, so all the children were excited for an unexpected `____`.
+The warning system issued an alert for a ____.
 
-- [x] snow day
-- [ ] freezing
-- [ ] issue
+- [x] tornado
+- [ ] clear up
+- [ ] compared to
 
-> **解析**：`snow day` 可数名词短语，意为“因大雪停课/停工的假”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-During late autumn, the leaves on the maple trees `____` bright red.
+A beautiful ____ appeared in the sky after the storm.
 
-- [x] turn
-- [ ] frost
-- [ ] it'd
+- [x] rainbow
+- [ ] clear up
+- [ ] compared to
 
-> **解析**：`turn` 连系动词，意为“变成；转变为”，后接颜色形容词 `bright red`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Winters in southern cities are relatively mild `____` the frozen north (get cold) about ever.
+Bright ____ shone through the living room window.
 
-- [x] compared to
-- [ ] humidity
-- [ ] out there
+- [x] sunlight
+- [ ] clear up
+- [ ] compared to
 
-> **解析**：`compared to` 为介词短语，意为“与……相比”，在句中作状语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The wind blowing off the lake was absolutely `____` this morning.
+Sit under the ____ oak tree to stay cool.
 
-- [x] freezing
-- [ ] issue
-- [ ] percent chance of
+- [x] shady
+- [ ] clear up
+- [ ] compared to
 
-> **解析**：`freezing` 形容词，意为“极冷的；严寒的”。常被 `absolutely / completely` 修饰。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Climate change is a critical global `____` that requires immediate attention from all countries.
+The school ____ a snow day due to the blizzard.
+
+- [x] announced
+- [ ] clear up
+- [ ] compared to
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Kids love going ____ down the snowy hill.
+
+- [x] sledding
+- [ ] clear up
+- [ ] compared to
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Allergy symptoms are a common ____ issue in spring.
+
+- [x] seasonal
+- [ ] clear up
+- [ ] compared to
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Air pollution is a major environmental ____ here.
 
 - [x] issue
-- [ ] it'd
-- [ ] rainbow
+- [ ] clear up
+- [ ] compared to
 
-> **解析**：`issue` 可数名词，意为“议题；问题；焦点”。`global issue`（全球性问题）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+There is a fifty percent chance of rain ____.
+
+- [x] afternoon
+- [ ] clear up
+- [ ] compared to
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+It is sure to rain if those dark ____ roll in.
+
+- [x] clouds
+- [ ] clear up
+- [ ] compared to
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The leaves ____ turn yellow in late autumn.
+
+- [x] will
+- [ ] clear up
+- [ ] compared to
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+It begins to get cold as evening ____.
+
+- [x] approaches
+- [ ] clear up
+- [ ] compared to
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Today is warm compared to yesterday's ____ weather.
+
+- [x] freezing
+- [ ] clear up
+- [ ] compared to
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Be careful because ____ windy out there today.
+
+- [x] it's
+- [ ] clear up
+- [ ] compared to
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+I find it ____ to drive in heavy snow.
+
+- [x] difficult
+- [ ] clear up
+- [ ] compared to
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

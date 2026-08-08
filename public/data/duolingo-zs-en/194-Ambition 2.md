@@ -51,83 +51,176 @@ face to face 描述面试方式，advantage 用来分析利弊。整体来看，
 
 <quiz-sentence-builder>
 
-1. **中文**：获得高级软件设计师的职位是她的理想工作。  
-   **英文**：Landing a position as a senior software designer is her dream job.
-   > **解析**：dream job 名词短语，意为“梦寐以求的工作；理想工作”。
+1. **中文**：早起锻炼的一个巨大优势是能让人全天精力充沛。
+   **英文**：Good communication is a main advantage in business.
+   > **解析**：advantage 表示“优势/好处/有利条件”。
 
-2. **中文**：周一的求职面试她穿了一套专业西装。  
-   **英文**：She wore a professional suit for her job interview on Monday.
-   > **解析**：interview 可数名词/动词，在此作名词意为“面试；访谈”。
+2. **中文**：周六晚上她经常帮隔壁邻居代看孩子。
+   **英文**：She earns extra money when she babysit for neighbors.
+   > **解析**：babysit 表示“代看孩子/做兼职保姆”。
 
-3. **中文**：该公司提供有竞争力的时薪和灵活的工作时间。  
-   **英文**：The company offers a competitive hourly wage and flexible work hours.
-   > **解析**：hourly wage 名词短语，意为“小时工资；时薪”。
+3. **中文**：当地知名的面包师烘焙出了新鲜好吃的香草蛋糕。
+   **英文**：The skilled baker makes fresh bread every morning.
+   > **解析**：baker 表示“面包师/烘焙师”。
 
-4. **中文**：流利的英语技能使候选人在跨国公司中具有明显的优势。  
-   **英文**：Fluent English skills give candidates a distinct advantage in international companies.
-   > **解析**：advantage 可数/不可数名词，意为“优势；有利条件”，常与 give 或 have 搭配。
+4. **中文**：找到一份符合兴趣的理想工作是每个人的梦想。
+   **英文**：Working as a pilot has always been his dream job.
+   > **解析**：dream job 表示“理想工作”。
 
-5. **中文**：官方报告显示青年就业呈现积极增长趋势。  
-   **英文**：The official report showed a positive growth trend in youth employment.
-   > **解析**：employment 不可数名词，意为“就业；雇用”，动词形式为 employ。
+5. **中文**：当地政府采取措施以提高大学生的就业率。
+   **英文**：The agency helps graduates find steady employment.
+   > **解析**：employment 表示“就业/雇用”。
 
-6. **中文**：技术娴熟的理发师在求职面试前为她剪理了头发。  
-   **英文**：The skilled hairdresser cut and styled her hair before the job interview.
-   > **解析**：hairdresser 可数名词，意为“理发师；美发师”。
+6. **中文**：相比于网聊，他更喜欢和客户面对面沟通。
+   **英文**：We held a face to face meeting with the client.
+   > **解析**：face to face 表示“面对面地/当面”。
 
-7. **中文**：友善的面包师每天大清早起床准备新鲜面包。  
-   **英文**：The friendly baker wakes up early every morning to prepare fresh bread.
-   > **解析**：baker 可数名词，意为“面包师”，来自于动词 bake。
+7. **中文**：我的理发师给我剪了一个非常清爽的夏日新发型。
+   **英文**：The talented hairdresser styled her hair nicely.
+   > **解析**：hairdresser 表示“理发师/美发师”。
 
-8. **中文**：如果你喜欢照顾动物，成为一名兽医可能是个绝佳选择。  
-   **英文**：If you love caring for animals, becoming a vet might be a great choice.
-   > **解析**：vet 可数名词，意为“兽医”，为 veterinarian 的简写形式。
+8. **中文**：这家超市给兼职大学生开出很高的时薪。
+   **英文**：The job offers a high hourly wage for students.
+   > **解析**：hourly wage 表示“时薪/按小时计的工资”。
 
-9. **中文**：经理更倾向于面对面进行第二次面试。  
-   **英文**：The manager preferred to hold the second interview face to face.
-   > **解析**：face to face 副词/形容词短语，意为“面对面地”。
+9. **中文**：明天上午她将去参加一家科技公司的面试。
+   **英文**：He prepared thoroughly for his job interview today.
+   > **解析**：interview 表示“面试/采访”。
 
-10. **中文**：她决定给邻居的孩子当临时保姆以赚取额外零花钱。  
-   **英文**：She decided to babysit for her neighbor's kids to earn extra pocket money.
-   > **解析**：babysit 不及物/及物动词，意为“做临时保姆；照看婴儿”。
+10. **中文**：只要坚持不懈，总有一天你会实现心中的蓝图。
+   **英文**：I hope to start my own business one day soon.
+   > **解析**：one day 表示“总有一天/有朝一日”。
+
+11. **中文**：她在新项目的团队合作中承担着关键的角色。
+   **英文**：She played an active role in organizing the event.
+   > **解析**：role 表示“角色/职责”。
+
+12. **中文**：那位年轻音乐家在钢琴弹奏方面极具才能。
+   **英文**：She showed a natural talent for painting at school.
+   > **解析**：talent 表示“才能/天赋”。
+
+13. **中文**：许多年轻人渴望加入快速发展的科技行业。
+   **英文**：He works in the mobile tech sector in Shenzhen.
+   > **解析**：tech 表示“科技/技术”。
+
+14. **中文**：我们带受伤的猫咪去诊所看有经验的兽医。
+   **英文**：The kind vet treated our sick dog carefully.
+   > **解析**：vet 表示“兽医”。
+
+15. **中文**：要是我有充足的资金，我就不会放弃这个好机会。
+   **英文**：He wouldn't give up his dream job for anything.
+   > **解析**：wouldn't 即 would not。
+
+16. **中文**：如果我是你，我会积极参加明天的求职招聘会。
+   **英文**：If I had enough time, I would learn a new language.
+   > **解析**：if I 用于表达假设条件句。
+
+17. **中文**：人生需要适时做出一改变来迎接新机遇。
+   **英文**：A small change can lead to big progress.
+   > **解析**：change 表示“改变/变化”。
+
+18. **中文**：努力和天赋能使得一个人在领域内出类拔萃。
+   **英文**：Good practice will make you improve rapidly.
+   > **解析**：make 表示“使得/让”。
+
+19. **中文**：面试官此前已经仔细翻阅了他的个人履历。
+   **英文**：She had already completed the interview preparation.
+   > **解析**：had 构成过去完成时。
+
+20. **中文**：如果明天天气晴朗，我们将如期前往郊外野餐。
+   **英文**：If you need help, feel free to contact us.
+   > **解析**：if 表示“如果/假设”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Landing a position as a senior software designer is her dream job.
-   > **中文**：获得高级软件设计师的职位是她的理想工作。
+1. Good communication is a main advantage in business.
+   > **中文**：早起锻炼的一个巨大优势是能让人全天精力充沛。
 
-2. She wore a professional suit for her job interview on Monday.
-   > **中文**：周一的求职面试她穿了一套专业西装。
+2. She earns extra money when she babysit for neighbors.
+   > **中文**：周六晚上她经常帮隔壁邻居代看孩子。
 
-3. The company offers a competitive hourly wage and flexible work hours.
-   > **中文**：该公司提供有竞争力的时薪和灵活的工作时间。
+3. The skilled baker makes fresh bread every morning.
+   > **中文**：当地知名的面包师烘焙出了新鲜好吃的香草蛋糕。
 
-4. Fluent English skills give candidates a distinct advantage in international companies.
-   > **中文**：流利的英语技能使候选人在跨国公司中具有明显的优势。
+4. Working as a pilot has always been his dream job.
+   > **中文**：找到一份符合兴趣的理想工作是每个人的梦想。
 
-5. The official report showed a positive growth trend in youth employment.
-   > **中文**：官方报告显示青年就业呈现积极增长趋势。
+5. The agency helps graduates find steady employment.
+   > **中文**：当地政府采取措施以提高大学生的就业率。
 
-6. The skilled hairdresser cut and styled her hair before the job interview.
-   > **中文**：技术娴熟的理发师在求职面试前为她剪理了头发。
+6. We held a face to face meeting with the client.
+   > **中文**：相比于网聊，他更喜欢和客户面对面沟通。
 
-7. The friendly baker wakes up early every morning to prepare fresh bread.
-   > **中文**：友善的面包师每天大清早起床准备新鲜面包。
+7. The talented hairdresser styled her hair nicely.
+   > **中文**：我的理发师给我剪了一个非常清爽的夏日新发型。
 
-8. If you love caring for animals, becoming a vet might be a great choice.
-   > **中文**：如果你喜欢照顾动物，成为一名兽医可能是个绝佳选择。
+8. The job offers a high hourly wage for students.
+   > **中文**：这家超市给兼职大学生开出很高的时薪。
 
-9. The manager preferred to hold the second interview face to face.
-   > **中文**：经理更倾向于面对面进行第二次面试。
+9. He prepared thoroughly for his job interview today.
+   > **中文**：明天上午她将去参加一家科技公司的面试。
 
-10. She decided to babysit for her neighbor's kids to earn extra pocket money.
-   > **中文**：她决定给邻居的孩子当临时保姆以赚取额外零花钱。
+10. I hope to start my own business one day soon.
+   > **中文**：只要坚持不懈，总有一天你会实现心中的蓝图。
+
+11. She played an active role in organizing the event.
+   > **中文**：她在新项目的团队合作中承担着关键的角色。
+
+12. She showed a natural talent for painting at school.
+   > **中文**：那位年轻音乐家在钢琴弹奏方面极具才能。
+
+13. He works in the mobile tech sector in Shenzhen.
+   > **中文**：许多年轻人渴望加入快速发展的科技行业。
+
+14. The kind vet treated our sick dog carefully.
+   > **中文**：我们带受伤的猫咪去诊所看有经验的兽医。
+
+15. He wouldn't give up his dream job for anything.
+   > **中文**：要是我有充足的资金，我就不会放弃这个好机会。
+
+16. If I had enough time, I would learn a new language.
+   > **中文**：如果我是你，我会积极参加明天的求职招聘会。
+
+17. A small change can lead to big progress.
+   > **中文**：人生需要适时做出一改变来迎接新机遇。
+
+18. Good practice will make you improve rapidly.
+   > **中文**：努力和天赋能使得一个人在领域内出类拔萃。
+
+19. She had already completed the interview preparation.
+   > **中文**：面试官此前已经仔细翻阅了他的个人履历。
+
+20. If you need help, feel free to contact us.
+   > **中文**：如果明天天气晴朗，我们将如期前往郊外野餐。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| advantage | 优势 / 好处 |
+| babysit | 代看孩子 |
+| baker | 面包师 |
+| dream job | 理想工作 |
+| employment | 就业 / 雇用 |
+| face to face | 面对面 |
+| hairdresser | 理发师 |
+| hourly wage | 时薪 |
+| interview | 面试 |
+| one day | 总有一天 |
+| role | 角色 / 职责 |
+| talent | 才能 / 天赋 |
+| tech | 科技 / 技术 |
+| vet | 兽医 |
+| wouldn't | 不会（would not） |
+| if I | 如果我 |
+| change | 改变 |
+| make | 使得 |
+| had | 有 / 已经 |
+| If | 如果 |
 
 </quiz-matching>
 
@@ -135,102 +228,202 @@ face to face 描述面试方式，advantage 用来分析利弊。整体来看，
 
 ### 1
 
-Landing a position as a senior software designer is her `____`.
+Good communication is a main ____ in business.
 
-- [x] dream job
-- [ ] advantage
-- [ ] employment
+- [x] advantage
+- [ ] babysit
+- [ ] baker
 
-> **解析**：dream job 名词短语，意为“梦寐以求的工作；理想工作”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-She wore a professional suit for her job `____` on Monday.
+She earns extra money when she ____ for neighbors.
 
-- [x] interview
-- [ ] babysit
-- [ ] employment
+- [x] babysit
+- [ ] advantage
+- [ ] baker
 
-> **解析**：interview 可数名词/动词，在此作名词意为“面试；访谈”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The company offers a competitive `____` and flexible work hours.
+The skilled ____ makes fresh bread every morning.
 
-- [x] hourly wage
-- [ ] baker
-- [ ] face to face
+- [x] baker
+- [ ] advantage
+- [ ] babysit
 
-> **解析**：hourly wage 名词短语，意为“小时工资；时薪”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Fluent English skills give candidates a distinct `____` in international companies.
+____ as a pilot has always been his dream job.
 
-- [x] advantage
-- [ ] dream job
-- [ ] hairdresser
+- [x] Working
+- [ ] advantage
+- [ ] babysit
 
-> **解析**：advantage 可数/不可数名词，意为“优势；有利条件”，常与 give 或 have 搭配。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The official report showed a positive growth trend in youth `____`.
+The agency helps graduates find steady ____.
 
 - [x] employment
-- [ ] dream job
-- [ ] hourly wage
+- [ ] advantage
+- [ ] babysit
 
-> **解析**：employment 不可数名词，意为“就业；雇用”，动词形式为 employ。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The skilled `____` cut and styled her hair before the job interview.
+We held a face to face ____ with the client.
 
-- [x] hairdresser
-- [ ] employment
-- [ ] if
+- [x] meeting
+- [ ] advantage
+- [ ] babysit
 
-> **解析**：hairdresser 可数名词，意为“理发师；美发师”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The friendly `____` wakes up early every morning to prepare fresh bread.
+The talented ____ styled her hair nicely.
 
-- [x] baker
-- [ ] had
-- [ ] if I
+- [x] hairdresser
+- [ ] advantage
+- [ ] babysit
 
-> **解析**：baker 可数名词，意为“面包师”，来自于动词 bake。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-`____` you love caring for animals, becoming a vet might be a great choice.
+The job offers a high hourly wage for ____.
 
-- [x] if
-- [ ] had
-- [ ] interview
+- [x] students
+- [ ] advantage
+- [ ] babysit
 
-> **解析**：vet 可数名词，意为“兽医”，为 veterinarian 的简写形式。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The manager preferred to hold the second interview `____`.
+He prepared thoroughly for his job ____ today.
 
-- [x] face to face
-- [ ] hourly wage
-- [ ] make
+- [x] interview
+- [ ] advantage
+- [ ] babysit
 
-> **解析**：face to face 副词/形容词短语，意为“面对面地”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-She decided to `____` for her neighbor's kids to earn extra pocket money.
+I hope to start my own ____ one day soon.
 
-- [x] babysit
-- [ ] if
-- [ ] one day
+- [x] business
+- [ ] advantage
+- [ ] babysit
 
-> **解析**：babysit 不及物/及物动词，意为“做临时保姆；照看婴儿”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+She played an active ____ in organizing the event.
+
+- [x] role
+- [ ] advantage
+- [ ] babysit
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+She showed a natural ____ for painting at school.
+
+- [x] talent
+- [ ] advantage
+- [ ] babysit
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+He works in the mobile ____ sector in Shenzhen.
+
+- [x] tech
+- [ ] advantage
+- [ ] babysit
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The kind ____ treated our sick dog carefully.
+
+- [x] vet
+- [ ] advantage
+- [ ] babysit
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+He ____ give up his dream job for anything.
+
+- [x] wouldn't
+- [ ] advantage
+- [ ] babysit
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+____ I had enough time, I would learn a new language.
+
+- [x] If
+- [ ] advantage
+- [ ] babysit
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+A small ____ can lead to big progress.
+
+- [x] change
+- [ ] advantage
+- [ ] babysit
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Good practice will ____ you improve rapidly.
+
+- [x] make
+- [ ] advantage
+- [ ] babysit
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+She ____ already completed the interview preparation.
+
+- [x] had
+- [ ] advantage
+- [ ] babysit
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+____ you need help, feel free to contact us.
+
+- [x] If
+- [ ] advantage
+- [ ] babysit
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

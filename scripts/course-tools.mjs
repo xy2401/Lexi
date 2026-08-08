@@ -156,13 +156,13 @@ function validateUnit(filename, source) {
 
   const matchingBlock = blocks.find(block => block.name === 'quiz-matching')
   const matchingPairs = parseMatching(matchingBlock?.body || '')
-  if (matchingBlock?.body && matchingPairs.length < 10) {
-    errors.push(`${filename}:${matchingBlock.line} 显式 Matching 至少需要 10 组配对`)
+  if (matchingBlock?.body && matchingPairs.length < 20) {
+    errors.push(`${filename}:${matchingBlock.line} 显式 Matching 至少需要 20 组配对`)
   }
 
   const listeningBlock = blocks.find(block => block.name === 'quiz-listening')
   const listening = parseListening(listeningBlock?.body || '')
-  if (listening.length !== 10) errors.push(`${filename}:${listeningBlock?.line || 1} Listening 必须正好 10 题`)
+  if (listening.length !== 20) errors.push(`${filename}:${listeningBlock?.line || 1} Listening 必须正好 20 题`)
   if (listening.some(item => !item.chinese)) errors.push(`${filename}:${listeningBlock?.line || 1} Listening 每题必须有中文`)
   if (new Set(listening.map(item => normalizeSentence(item.english))).size !== listening.length) {
     errors.push(`${filename}:${listeningBlock?.line || 1} Listening 英文句子不能重复`)
@@ -170,8 +170,8 @@ function validateUnit(filename, source) {
 
   const builder = blocks.find(block => block.name === 'quiz-sentence-builder')
   const builderItems = parseSentenceBuilder(builder?.body || '')
-  if (builderItems.length !== 10 || builderItems.some(item => !item.english || !item.chinese)) {
-    errors.push(`${filename}:${builder?.line || 1} Sentence Builder 必须正好 10 题且每题有中英文`)
+  if (builderItems.length !== 20 || builderItems.some(item => !item.english || !item.chinese)) {
+    errors.push(`${filename}:${builder?.line || 1} Sentence Builder 必须正好 20 题且每题有中英文`)
   }
   if (builderItems.some(item => !listening.some(listeningItem => normalizeSentence(listeningItem.english) === normalizeSentence(item.english)))) {
     errors.push(`${filename}:${builder?.line || 1} Sentence Builder 必须复用 Listening 句子`)
@@ -179,7 +179,7 @@ function validateUnit(filename, source) {
 
   const cloze = blocks.find(block => block.name === 'quiz-cloze')
   const clozeItems = parseCloze(cloze?.body || '')
-  if (clozeItems.length !== 10) errors.push(`${filename}:${cloze?.line || 1} Cloze 必须正好 10 题`)
+  if (clozeItems.length !== 20) errors.push(`${filename}:${cloze?.line || 1} Cloze 必须正好 20 题`)
   for (const item of clozeItems) {
     if ((item.prompt.match(/____/g) || []).length !== 1) errors.push(`${filename}:${cloze?.line || 1} Cloze 每题必须正好一个空位`)
     if (item.options.length !== 3 || item.options.filter(option => option.correct).length !== 1) {
@@ -236,7 +236,7 @@ function collectCourse() {
   const totalWords = units.reduce((sum, unit) => sum + unit.words.length, 0)
   if (units.length !== 290) errors.push(`课程必须正好 290 个单元，当前 ${units.length}`)
   if (quizCount !== 2030) errors.push(`课程必须正好 2030 个关卡，当前 ${quizCount}`)
-  if (listeningCount !== 2900) errors.push(`课程必须正好 2900 道听写，当前 ${listeningCount}`)
+  if (listeningCount !== 5800) errors.push(`课程必须正好 5800 道听写，当前 ${listeningCount}`)
   if (totalWords !== 7611) errors.push(`课程词条总数应为 7611，当前 ${totalWords}`)
   units.forEach((unit, index) => {
     if (unit.id !== index + 1) errors.push(`${unit.file}: 单元编号应为 ${index + 1}`)

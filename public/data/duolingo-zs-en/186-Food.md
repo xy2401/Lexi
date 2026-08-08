@@ -51,83 +51,176 @@ alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit,
 
 <quiz-sentence-builder>
 
-1. **中文**：星期天较轻的早餐我通常点炒鸡蛋和吐司。  
-   **英文**：I usually order scrambled eggs and toast for a light Sunday breakfast.
-   > **解析**：scrambled eggs 名词短语，意为“美式炒蛋”，scrambled 是动词 scramble 的过去分词作定语。
+1. **中文**：餐厅为不饮酒的顾客提供非含酒精的饮料。
+   **英文**：They do not serve alcoholic drinks to minors.
+   > **解析**：alcoholic 表示“含酒精的”。
 
-2. **中文**：服务员送上了香脆的培根肉和新鲜的热煎饼。  
-   **英文**：The waiter served crispy bacon along with fresh hot pancakes.
-   > **解析**：bacon 不可数名词，意为“培根；腌猪肉”，经常作为早餐食品。
+2. **中文**：早饭她喜欢吃香煎培根和金黄的外酥蛋饼。
+   **英文**：He cooked crispy bacon and eggs for Sunday breakfast.
+   > **解析**：bacon 表示“培根/熏肉”。
 
-3. **中文**：她喜欢吃多汁成熟的桃子作为清爽的夏天零食。  
-   **英文**：She loves eating a juicy ripe peach as a refreshing summer snack.
-   > **解析**：peach 可数名词，意为“桃子”，复数形式为 peaches。
+3. **中文**：这杯黑咖啡尝起来有一股浓郁的苦味。
+   **英文**：The dark chocolate has a slightly bitter taste.
+   > **解析**：bitter 表示“苦味的”。
 
-4. **中文**：把新鲜青柠挤在海鲜上以提升其天然风味。  
-   **英文**：Squeeze a fresh lime over the seafood to enhance its natural flavor.
-   > **解析**：lime 可数/不可数名词，意为“酸橙；青柠”，常用于调味或饮料。
+4. **中文**：主菜单上有很多健康的素食选择。
+   **英文**：Making a healthy choice is important for your diet.
+   > **解析**：choice 表示“选择”。
 
-5. **中文**：烘焙这面包你需要两杯小麦面粉。  
-   **英文**：You will need two cups of wheat flour to bake this loaf of bread.
-   > **解析**：flour 不可数名词，意为“面粉”，注意发音与 flower 相同（/flaʊər/）。
+5. **中文**：为了保持身材，她最近一直在进行低碳水节食。
+   **英文**：A balanced diet contains vegetables, fruit, and protein.
+   > **解析**：diet 表示“饮食/节食”。
 
-6. **中文**：保持包含大量蔬菜的均衡饮食对健康有益。  
-   **英文**：Maintaining a balanced diet with lots of vegetables is good.
-   > **解析**：diet 名词，意为“日常饮食”，短语 a balanced diet 意为“均衡饮食”。
+6. **中文**：烘焙面包和蛋糕需要用到优质的小麦面粉。
+   **英文**：Combine the flour and baking powder in a large bowl.
+   > **解析**：flour 表示“面粉”。
 
-7. **中文**：服务员用闪利的餐具把餐桌摆得干干净净。  
-   **英文**：The server set the table neatly with shiny cutlery and silverware.
-   > **解析**：silverware 不可数名词，意为“银餐具；餐具”（美式），含刀叉匙等。
+7. **中文**：在冰爽的鸡尾酒里挤上一挤新鲜的青柠汁。
+   **英文**：Add a slice of fresh lime to your glass of iced water.
+   > **解析**：lime 表示“青柠/酸橙”。
 
-8. **中文**：我们累得不想做饭，所以晚餐点了中国外卖。  
-   **英文**：We were too tired to cook, so we ordered Chinese takeout.
-   > **解析**：takeout 名词/形容词，在此作名词意为“外卖食物”（美式），英式为 takeaway。
+8. **中文**：请在黑胡椒汤里稍微加一点点盐调味。
+   **英文**：Add a little bit of sugar to balance the sour sauce.
+   > **解析**：little bit 表示“一点点/稍微”。
 
-9. **中文**：这家餐厅提供丰富的新鲜沙拉和甜点选择。  
-   **英文**：The restaurant offers a wide choice of fresh salads and desserts.
-   > **解析**：choice 名词，意为“选择；挑选”，a wide choice of ... 表示“丰富多样选择的……”。
+9. **中文**：夏天的桃子咬起来又香甜又多汁。
+   **英文**：She picked a sweet ripe peach from the garden tree.
+   > **解析**：peach 表示“桃子”。
 
-10. **中文**：这款果汁宾治是不含酒精的，所以孩子们可以随意饮用。  
-   **英文**：This fruit punch is non-alcoholic, so kids can enjoy it freely.
-   > **解析**：alcoholic 形容词，意为“含酒精的”，前缀 non- 构成 non-alcoholic（不含酒精的）。
+10. **中文**：比起出去吃，我宁愿留在家里做饭。
+   **英文**：I would rather cook dinner at home tonight.
+   > **解析**：rather 表示“宁愿/更愿意”；would rather 意为“宁愿”。
+
+11. **中文**：服务员向我们推荐了小店的招牌特色菜。
+   **英文**：The waiter recommend trying the grilled seafood.
+   > **解析**：recommend 表示“推荐”。
+
+12. **中文**：早饭我喜欢吃软嫩可口的炒鸡蛋配吐司。
+   **英文**：She ordered fluffy scrambled eggs with toast.
+   > **解析**：scrambled eggs 表示“炒鸡蛋”。
+
+13. **中文**：服务员在用餐前摆放好了干净的银质餐具。
+   **英文**：Please set the silverware on the dining table.
+   > **解析**：silverware 表示“银质餐具/西餐刀叉”。
+
+14. **中文**：清炒南瓜是一道口感清甜的营养蔬菜。
+   **英文**：Roasted squash makes a warm and healthy winter dish.
+   > **解析**：squash 表示“南瓜/葫芦”。
+
+15. **中文**：今晚太累了，我们决定点一些外卖食品。
+   **英文**：We ordered Chinese takeout for dinner after work.
+   > **解析**：takeout 表示“外卖食品”。
+
+16. **中文**：坚持每日运动有助于维持健康的体重。
+   **英文**：Regular exercise helps you control your body weight.
+   > **解析**：weight 表示“体重/重量”。
+
+17. **中文**：如果汤冷了，服务员不会拒绝退换的。
+   **英文**：I wouldn't recommend eating spoiled food products.
+   > **解析**：wouldn't 即 would not。
+
+18. **中文**：他说他宁愿要热咖啡，不要冰水。
+   **英文**：He said he'd prefer a glass of fresh orange juice.
+   > **解析**：he'd 表示 he would / he had。
+
+19. **中文**：她说她宁愿选择沙拉作为晚餐的主食。
+   **英文**：She said she'd like to order a fresh garden salad.
+   > **解析**：she'd 表示 she would / she had。
+
+20. **中文**：他们说他们宁愿走楼梯也不坐拥挤的电梯。
+   **英文**：They said they'd order takeout instead of cooking.
+   > **解析**：they'd 表示 they would / they had。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I usually order scrambled eggs and toast for a light Sunday breakfast.
-   > **中文**：星期天较轻的早餐我通常点炒鸡蛋和吐司。
+1. They do not serve alcoholic drinks to minors.
+   > **中文**：餐厅为不饮酒的顾客提供非含酒精的饮料。
 
-2. The waiter served crispy bacon along with fresh hot pancakes.
-   > **中文**：服务员送上了香脆的培根肉和新鲜的热煎饼。
+2. He cooked crispy bacon and eggs for Sunday breakfast.
+   > **中文**：早饭她喜欢吃香煎培根和金黄的外酥蛋饼。
 
-3. She loves eating a juicy ripe peach as a refreshing summer snack.
-   > **中文**：她喜欢吃多汁成熟的桃子作为清爽的夏天零食。
+3. The dark chocolate has a slightly bitter taste.
+   > **中文**：这杯黑咖啡尝起来有一股浓郁的苦味。
 
-4. Squeeze a fresh lime over the seafood to enhance its natural flavor.
-   > **中文**：把新鲜青柠挤在海鲜上以提升其天然风味。
+4. Making a healthy choice is important for your diet.
+   > **中文**：主菜单上有很多健康的素食选择。
 
-5. You will need two cups of wheat flour to bake this loaf of bread.
-   > **中文**：烘焙这面包你需要两杯小麦面粉。
+5. A balanced diet contains vegetables, fruit, and protein.
+   > **中文**：为了保持身材，她最近一直在进行低碳水节食。
 
-6. Maintaining a balanced diet with lots of vegetables is good.
-   > **中文**：保持包含大量蔬菜的均衡饮食对健康有益。
+6. Combine the flour and baking powder in a large bowl.
+   > **中文**：烘焙面包和蛋糕需要用到优质的小麦面粉。
 
-7. The server set the table neatly with shiny cutlery and silverware.
-   > **中文**：服务员用闪利的餐具把餐桌摆得干干净净。
+7. Add a slice of fresh lime to your glass of iced water.
+   > **中文**：在冰爽的鸡尾酒里挤上一挤新鲜的青柠汁。
 
-8. We were too tired to cook, so we ordered Chinese takeout.
-   > **中文**：我们累得不想做饭，所以晚餐点了中国外卖。
+8. Add a little bit of sugar to balance the sour sauce.
+   > **中文**：请在黑胡椒汤里稍微加一点点盐调味。
 
-9. The restaurant offers a wide choice of fresh salads and desserts.
-   > **中文**：这家餐厅提供丰富的新鲜沙拉和甜点选择。
+9. She picked a sweet ripe peach from the garden tree.
+   > **中文**：夏天的桃子咬起来又香甜又多汁。
 
-10. This fruit punch is non-alcoholic, so kids can enjoy it freely.
-   > **中文**：这款果汁宾治是不含酒精的，所以孩子们可以随意饮用。
+10. I would rather cook dinner at home tonight.
+   > **中文**：比起出去吃，我宁愿留在家里做饭。
+
+11. The waiter recommend trying the grilled seafood.
+   > **中文**：服务员向我们推荐了小店的招牌特色菜。
+
+12. She ordered fluffy scrambled eggs with toast.
+   > **中文**：早饭我喜欢吃软嫩可口的炒鸡蛋配吐司。
+
+13. Please set the silverware on the dining table.
+   > **中文**：服务员在用餐前摆放好了干净的银质餐具。
+
+14. Roasted squash makes a warm and healthy winter dish.
+   > **中文**：清炒南瓜是一道口感清甜的营养蔬菜。
+
+15. We ordered Chinese takeout for dinner after work.
+   > **中文**：今晚太累了，我们决定点一些外卖食品。
+
+16. Regular exercise helps you control your body weight.
+   > **中文**：坚持每日运动有助于维持健康的体重。
+
+17. I wouldn't recommend eating spoiled food products.
+   > **中文**：如果汤冷了，服务员不会拒绝退换的。
+
+18. He said he'd prefer a glass of fresh orange juice.
+   > **中文**：他说他宁愿要热咖啡，不要冰水。
+
+19. She said she'd like to order a fresh garden salad.
+   > **中文**：她说她宁愿选择沙拉作为晚餐的主食。
+
+20. They said they'd order takeout instead of cooking.
+   > **中文**：他们说他们宁愿走楼梯也不坐拥挤的电梯。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| alcoholic | 含酒精的 |
+| bacon | 培根 |
+| bitter | 苦味的 |
+| choice | 选择 |
+| diet | 饮食 / 节食 |
+| flour | 面粉 |
+| lime | 青柠 |
+| little bit | 一点点 |
+| peach | 桃子 |
+| rather | 宁愿 / 更愿意 |
+| recommend | 推荐 |
+| scrambled eggs | 炒鸡蛋 |
+| silverware | 银质餐具 |
+| squash | 南瓜 |
+| takeout | 外卖食品 |
+| weight | 体重 |
+| wouldn't | 不会（would not） |
+| he'd | 他会 / 他宁愿 |
+| she'd | 她会 / 她宁愿 |
+| they'd | 他们会 / 他们宁愿 |
 
 </quiz-matching>
 
@@ -135,102 +228,202 @@ alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit,
 
 ### 1
 
-I usually order `____` and toast for a light Sunday breakfast.
+They do not serve ____ drinks to minors.
 
-- [x] scrambled eggs
-- [ ] alcoholic
-- [ ] diet
+- [x] alcoholic
+- [ ] bacon
+- [ ] bitter
 
-> **解析**：scrambled eggs 名词短语，意为“美式炒蛋”，scrambled 是动词 scramble 的过去分词作定语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The waiter served crispy `____` along with fresh hot pancakes.
+He cooked crispy ____ and eggs for Sunday breakfast.
 
 - [x] bacon
+- [ ] alcoholic
 - [ ] bitter
-- [ ] he would
 
-> **解析**：bacon 不可数名词，意为“培根；腌猪肉”，经常作为早餐食品。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-She loves eating a juicy ripe `____` as a refreshing summer snack.
+The dark chocolate has a slightly ____ taste.
 
-- [x] peach
-- [ ] bitter
-- [ ] he would
+- [x] bitter
+- [ ] alcoholic
+- [ ] bacon
 
-> **解析**：peach 可数名词，意为“桃子”，复数形式为 peaches。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Squeeze a fresh `____` over the seafood to enhance its natural flavor.
+Making a healthy ____ is important for your diet.
 
-- [x] lime
-- [ ] choice
-- [ ] he'd
+- [x] choice
+- [ ] alcoholic
+- [ ] bacon
 
-> **解析**：lime 可数/不可数名词，意为“酸橙；青柠”，常用于调味或饮料。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-You will need two cups of wheat `____` to bake this loaf of bread.
+A balanced ____ contains vegetables, fruit, and protein.
 
-- [x] flour
-- [ ] diet
-- [ ] little bit
+- [x] diet
+- [ ] alcoholic
+- [ ] bacon
 
-> **解析**：flour 不可数名词，意为“面粉”，注意发音与 flower 相同（/flaʊər/）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Maintaining a balanced `____` with lots of vegetables is good.
+Combine the ____ and baking powder in a large bowl.
 
-- [x] diet
-- [ ] he would
-- [ ] peach
+- [x] flour
+- [ ] alcoholic
+- [ ] bacon
 
-> **解析**：diet 名词，意为“日常饮食”，短语 a balanced diet 意为“均衡饮食”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The server set the table neatly with shiny cutlery and `____`.
+Add a slice of fresh ____ to your glass of iced water.
 
-- [x] silverware
-- [ ] he would
-- [ ] peach
+- [x] lime
+- [ ] alcoholic
+- [ ] bacon
 
-> **解析**：silverware 不可数名词，意为“银餐具；餐具”（美式），含刀叉匙等。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-We were too tired to cook, so we ordered Chinese `____`.
+Add a little bit of sugar to ____ the sour sauce.
 
-- [x] takeout
-- [ ] he'd
-- [ ] rather
+- [x] balance
+- [ ] alcoholic
+- [ ] bacon
 
-> **解析**：takeout 名词/形容词，在此作名词意为“外卖食物”（美式），英式为 takeaway。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The restaurant offers a wide `____` of fresh salads and desserts.
+She picked a sweet ripe ____ from the garden tree.
 
-- [x] choice
-- [ ] little bit
-- [ ] scrambled eggs
+- [x] peach
+- [ ] alcoholic
+- [ ] bacon
 
-> **解析**：choice 名词，意为“选择；挑选”，a wide choice of ... 表示“丰富多样选择的……”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-This fruit punch is non-`____`, so kids can enjoy it freely.
+I ____ rather cook dinner at home tonight.
 
-- [x] alcoholic
-- [ ] peach
-- [ ] she would
+- [x] would
+- [ ] alcoholic
+- [ ] bacon
 
-> **解析**：alcoholic 形容词，意为“含酒精的”，前缀 non- 构成 non-alcoholic（不含酒精的）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The waiter ____ trying the grilled seafood.
+
+- [x] recommend
+- [ ] alcoholic
+- [ ] bacon
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+She ordered fluffy ____ eggs with toast.
+
+- [x] scrambled
+- [ ] alcoholic
+- [ ] bacon
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Please set the ____ on the dining table.
+
+- [x] silverware
+- [ ] alcoholic
+- [ ] bacon
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Roasted ____ makes a warm and healthy winter dish.
+
+- [x] squash
+- [ ] alcoholic
+- [ ] bacon
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+We ordered Chinese ____ for dinner after work.
+
+- [x] takeout
+- [ ] alcoholic
+- [ ] bacon
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Regular exercise helps you control your body ____.
+
+- [x] weight
+- [ ] alcoholic
+- [ ] bacon
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+I ____ recommend eating spoiled food products.
+
+- [x] wouldn't
+- [ ] alcoholic
+- [ ] bacon
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+He said ____ prefer a glass of fresh orange juice.
+
+- [x] he'd
+- [ ] alcoholic
+- [ ] bacon
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+She said ____ like to order a fresh garden salad.
+
+- [x] she'd
+- [ ] alcoholic
+- [ ] bacon
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+They said ____ order takeout instead of cooking.
+
+- [x] they'd
+- [ ] alcoholic
+- [ ] bacon
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

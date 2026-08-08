@@ -53,83 +53,176 @@ athletic, clap, curriculum, dangerously, fancy, foreigner, goalkeeper, if he wer
 
 <quiz-sentence-builder>
 
-1. **中文**：如果我是校长，我会减少所有学生的日常作业。  
-   **英文**：If I were the principal, I would reduce daily homework for all students about athletic.
-   > **解析**：if I were 是虚拟语气结构，表示与现在事实相反的假想，be 动词统一用 were。
+1. **中文**：那个擅长运动的女孩在学校田径队表现优异。
+   **英文**：He is very athletic and plays basketball well.
+   > **解析**：athletic 表示“擅长运动的/健壮的”。
 
-2. **中文**：如果你负责这家公司，你会做出什么改变？  
-   **英文**：What changes would you make if you were in charge of this company.
-   > **解析**：if you were 在虚拟条件句中表示对“你”身份的假设，主句使用 would + 动词原形。
+2. **中文**：演出精彩结束时，全场观众纷纷鼓掌。
+   **英文**：The audience began to clap loudly after the show.
+   > **解析**：clap 表示“鼓掌/拍手”。
 
-3. **中文**：学校引入了现代科学课程体系以激发学生的兴趣。  
-   **英文**：The school introduced a modern science curriculum to spark student interest.
-   > **解析**：curriculum 可数名词，意为“课程体系；全部课程”，复数形式可为 curricula 或 curriculums。
+3. **中文**：学校管理层更新了本学期的教学课程体系。
+   **英文**：The school updated its science curriculum recently.
+   > **解析**：curriculum 表示“课程体系/课程表”。
 
-4. **中文**：在证明了自己卓越的能力后，她接受了高管职位。  
-   **英文**：She accepted the executive position after proving her outstanding skills.
-   > **解析**：position 可数名词，在此意为“职位；岗位”。
+4. **中文**：我们去市中心那家昂贵的西餐厅庆祝生日。
+   **英文**：They went to a fancy French restaurant last night.
+   > **解析**：fancy 表示“昂贵的/华丽的/高档的”。
 
-5. **中文**：在修改官方文件之前，你必须获得书面许可。  
-   **英文**：You must ask for written permission before editing the official documents.
-   > **解析**：permission 不可数名词，意为“允许；许可”，来自动词 permit。
+5. **中文**：那位来访的外国人能说一口流利的汉语。
+   **英文**：The friendly foreigner spoke fluent Mandarin Chinese.
+   > **解析**：foreigner 表示“外国人”。
 
-6. **中文**：市议会不允许建筑物高度超过五层。  
-   **英文**：The city council will not permit building height to exceed five stories.
-   > **解析**：permit 在此作动词，意为“允许；准许”，常用结构 permit doing 或 permit somebody to do。
+6. **中文**：足球队的守门员扑出了关键的扑球。
+   **英文**：The goalkeeper made a brilliant save in the match.
+   > **解析**：goalkeeper 表示“守门员”。
 
-7. **中文**：司机为小城研学设计了一条沿海风景优美的路线。  
-   **英文**：The driver planned a scenic route along the coast for the field trip.
-   > **解析**：route 可数名词，意为“路线；航线”，读作 /ruːt/ 或 /raʊt/。
+7. **中文**：如果他是你的话，他一定会接受这份工作邀请。
+   **英文**：If he were you, he would accept the job offer.
+   > **解析**：if he were 用虚拟语气，表示“如果他是……”。
 
-8. **中文**：作为新城市的外籍人士，他向当地居民询问路线。  
-   **英文**：As a foreigner in the new city, he asked local residents for directions.
-   > **解析**：foreigner 可数名词，意为“外国客人；外国人”，来自形容词 foreign。
+8. **中文**：如果她是负责人的话，她会做出不同的选择。
+   **英文**：If she were here, she would help us clean.
+   > **解析**：if she were 用虚拟语气，表示“如果她是……”。
 
-9. **中文**：由于非常有运动天赋，她加入了足球队和田径队。  
-   **英文**：Being very athletic, she joined both the soccer and track teams clap.
-   > **解析**：athletic 形容词，意为“有运动天赋的；健壮的”，来自 athlete。
+9. **中文**：如果他们是教练的话，他们会调整比赛策略。
+   **英文**：If they were ready, they would start the game.
+   > **解析**：if they were 用虚拟语气，表示“如果他们是……”。
 
-10. **中文**：警觉的门将在决赛中扑出了三个难度极高的射门。  
-   **英文**：The alert goalkeeper saved three difficult shots during the final match.
-   > **解析**：goalkeeper 可数名词，意为“守门员；门将”（足球/冰球等）。
+10. **中文**：如果我们是你的话，我们不会在雨天开车。
+   **英文**：If we were rich, we would travel the world.
+   > **解析**：if we were 用虚拟语气，表示“如果我们是……”。
+
+11. **中文**：如果我是你的话，我会听取医生的忠告。
+   **英文**：If you were in my place, what would you do?
+   > **解析**：if you were 用虚拟语气，表示“如果你是……”。
+
+12. **中文**：独自一人搬到新城市有时会感到有些孤独。
+   **英文**：Living alone in a big city can feel lonely at times.
+   > **解析**：lonely 表示“孤独的/寂寞的”。
+
+13. **中文**：她显而易见地是团队中经验最丰富的成员。
+   **英文**：She is obviously qualified for the manager role.
+   > **解析**：obviously 表示“显而易见地/明显地”。
+
+14. **中文**：未获得官方许可严禁进入机密办公区。
+   **英文**：You need official permission to park your car here.
+   > **解析**：permission 表示“许可/允许”。
+
+15. **中文**：市政部门核发了施工许可证给建筑公司。
+   **英文**：They got a work permit to operate in the city.
+   > **解析**：permit 表示“许可证/执照”。
+
+16. **中文**：导游为我们规划了一条最佳观光路线。
+   **英文**：We chose the shortest scenic route to the lake.
+   > **解析**：route 表示“路线/路途”。
+
+17. **中文**：为了省钱，他在网上买了一本二手交易的教科书。
+   **英文**：He bought a second-hand bicycle for daily commuting.
+   > **解析**：second-hand 表示“二手交易的/旧的”。
+
+18. **中文**：她独特的服装搭配展现了优雅的时尚风格。
+   **英文**：She dressed in a stylish modern fashion style.
+   > **解析**：style 表示“风格/款式”。
+
+19. **中文**：对了，那提醒了我明天早晨还有个开会。
+   **英文**：Oh, that reminds me to buy fresh milk today.
+   > **解析**：that reminds me 表示“那提醒了我/说到这我想起来了”。
+
+20. **中文**：不要对服务人员做出无礼刻薄的举动。
+   **英文**：Don't be mean to your younger brother.
+   > **解析**：mean 表示“刻薄的/小气的”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. If I were the principal, I would reduce daily homework for all students about athletic.
-   > **中文**：如果我是校长，我会减少所有学生的日常作业。
+1. He is very athletic and plays basketball well.
+   > **中文**：那个擅长运动的女孩在学校田径队表现优异。
 
-2. What changes would you make if you were in charge of this company.
-   > **中文**：如果你负责这家公司，你会做出什么改变？
+2. The audience began to clap loudly after the show.
+   > **中文**：演出精彩结束时，全场观众纷纷鼓掌。
 
-3. The school introduced a modern science curriculum to spark student interest.
-   > **中文**：学校引入了现代科学课程体系以激发学生的兴趣。
+3. The school updated its science curriculum recently.
+   > **中文**：学校管理层更新了本学期的教学课程体系。
 
-4. She accepted the executive position after proving her outstanding skills.
-   > **中文**：在证明了自己卓越的能力后，她接受了高管职位。
+4. They went to a fancy French restaurant last night.
+   > **中文**：我们去市中心那家昂贵的西餐厅庆祝生日。
 
-5. You must ask for written permission before editing the official documents.
-   > **中文**：在修改官方文件之前，你必须获得书面许可。
+5. The friendly foreigner spoke fluent Mandarin Chinese.
+   > **中文**：那位来访的外国人能说一口流利的汉语。
 
-6. The city council will not permit building height to exceed five stories.
-   > **中文**：市议会不允许建筑物高度超过五层。
+6. The goalkeeper made a brilliant save in the match.
+   > **中文**：足球队的守门员扑出了关键的扑球。
 
-7. The driver planned a scenic route along the coast for the field trip.
-   > **中文**：司机为小城研学设计了一条沿海风景优美的路线。
+7. If he were you, he would accept the job offer.
+   > **中文**：如果他是你的话，他一定会接受这份工作邀请。
 
-8. As a foreigner in the new city, he asked local residents for directions.
-   > **中文**：作为新城市的外籍人士，他向当地居民询问路线。
+8. If she were here, she would help us clean.
+   > **中文**：如果她是负责人的话，她会做出不同的选择。
 
-9. Being very athletic, she joined both the soccer and track teams clap.
-   > **中文**：由于非常有运动天赋，她加入了足球队和田径队。
+9. If they were ready, they would start the game.
+   > **中文**：如果他们是教练的话，他们会调整比赛策略。
 
-10. The alert goalkeeper saved three difficult shots during the final match.
-   > **中文**：警觉的门将在决赛中扑出了三个难度极高的射门。
+10. If we were rich, we would travel the world.
+   > **中文**：如果我们是你的话，我们不会在雨天开车。
+
+11. If you were in my place, what would you do?
+   > **中文**：如果我是你的话，我会听取医生的忠告。
+
+12. Living alone in a big city can feel lonely at times.
+   > **中文**：独自一人搬到新城市有时会感到有些孤独。
+
+13. She is obviously qualified for the manager role.
+   > **中文**：她显而易见地是团队中经验最丰富的成员。
+
+14. You need official permission to park your car here.
+   > **中文**：未获得官方许可严禁进入机密办公区。
+
+15. They got a work permit to operate in the city.
+   > **中文**：市政部门核发了施工许可证给建筑公司。
+
+16. We chose the shortest scenic route to the lake.
+   > **中文**：导游为我们规划了一条最佳观光路线。
+
+17. He bought a second-hand bicycle for daily commuting.
+   > **中文**：为了省钱，他在网上买了一本二手交易的教科书。
+
+18. She dressed in a stylish modern fashion style.
+   > **中文**：她独特的服装搭配展现了优雅的时尚风格。
+
+19. Oh, that reminds me to buy fresh milk today.
+   > **中文**：对了，那提醒了我明天早晨还有个开会。
+
+20. Don't be mean to your younger brother.
+   > **中文**：不要对服务人员做出无礼刻薄的举动。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| athletic | 擅长运动的 |
+| clap | 鼓掌 |
+| curriculum | 课程体系 |
+| fancy | 昂贵的 / 华丽的 |
+| foreigner | 外国人 |
+| goalkeeper | 守门员 |
+| if he were | 如果他是 |
+| if she were | 如果她是 |
+| if they were | 如果他们是 |
+| if we were | 如果我们是 |
+| if you were | 如果你是 |
+| lonely | 孤独的 |
+| obviously | 显而易见地 |
+| permission | 许可 |
+| permit | 许可证 |
+| route | 路线 |
+| second-hand | 二手的 |
+| style | 风格 |
+| that reminds me | 那提醒了我 |
+| mean | 刻薄的 / 小气的 |
 
 </quiz-matching>
 
@@ -137,102 +230,202 @@ athletic, clap, curriculum, dangerously, fancy, foreigner, goalkeeper, if he wer
 
 ### 1
 
-If I were the principal, I would reduce daily homework for all students about `____`.
+He is very ____ and plays basketball well.
 
 - [x] athletic
 - [ ] clap
-- [ ] foreigner
+- [ ] curriculum
 
-> **解析**：if I were 是虚拟语气结构，表示与现在事实相反的假想，be 动词统一用 were。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-What changes would you make `____` in charge of this company.
+The audience began to ____ loudly after the show.
 
-- [x] if you were
-- [ ] clap
-- [ ] foreigner
+- [x] clap
+- [ ] athletic
+- [ ] curriculum
 
-> **解析**：if you were 在虚拟条件句中表示对“你”身份的假设，主句使用 would + 动词原形。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The school introduced a modern science `____` to spark student interest.
+The school updated its science ____ recently.
 
 - [x] curriculum
-- [ ] dangerously
-- [ ] if he were
+- [ ] athletic
+- [ ] clap
 
-> **解析**：curriculum 可数名词，意为“课程体系；全部课程”，复数形式可为 curricula 或 curriculums。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-She accepted the executive `____` after proving her outstanding skills.
+They went to a ____ French restaurant last night.
 
-- [x] position
-- [ ] dangerously
-- [ ] if he were
+- [x] fancy
+- [ ] athletic
+- [ ] clap
 
-> **解析**：position 可数名词，在此意为“职位；岗位”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-You must ask for written `____` before editing the official documents.
+The friendly ____ spoke fluent Mandarin Chinese.
 
-- [x] permission
-- [ ] fancy
-- [ ] if she were
+- [x] foreigner
+- [ ] athletic
+- [ ] clap
 
-> **解析**：permission 不可数名词，意为“允许；许可”，来自动词 permit。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The city council will not `____` building height to exceed five stories.
+The ____ made a brilliant save in the match.
 
-- [x] permit
-- [ ] foreigner
-- [ ] if they were
+- [x] goalkeeper
+- [ ] athletic
+- [ ] clap
 
-> **解析**：permit 在此作动词，意为“允许；准许”，常用结构 permit doing 或 permit somebody to do。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The driver planned a scenic `____` along the coast for the field trip.
+If he were you, he would ____ the job offer.
 
-- [x] route
-- [ ] goalkeeper
-- [ ] if we were
+- [x] accept
+- [ ] athletic
+- [ ] clap
 
-> **解析**：route 可数名词，意为“路线；航线”，读作 /ruːt/ 或 /raʊt/。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-As a `____` in the new city, he asked local residents for directions.
+If she were here, she ____ help us clean.
 
-- [x] foreigner
-- [ ] if she were
-- [ ] lonely
+- [x] would
+- [ ] athletic
+- [ ] clap
 
-> **解析**：foreigner 可数名词，意为“外国客人；外国人”，来自形容词 foreign。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Being very athletic, she joined both the soccer and track teams `____`.
+If they were ____, they would start the game.
 
-- [x] clap
-- [ ] if they were
-- [ ] mean
+- [x] ready
+- [ ] athletic
+- [ ] clap
 
-> **解析**：athletic 形容词，意为“有运动天赋的；健壮的”，来自 athlete。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The alert `____` saved three difficult shots during the final match.
+If we were rich, we would ____ the world.
 
-- [x] goalkeeper
-- [ ] if we were
-- [ ] obviously
+- [x] travel
+- [ ] athletic
+- [ ] clap
 
-> **解析**：goalkeeper 可数名词，意为“守门员；门将”（足球/冰球等）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+If you were in my ____, what would you do?
+
+- [x] place
+- [ ] athletic
+- [ ] clap
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Living alone in a big city can feel ____ at times.
+
+- [x] lonely
+- [ ] athletic
+- [ ] clap
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+She is ____ qualified for the manager role.
+
+- [x] obviously
+- [ ] athletic
+- [ ] clap
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+You need official ____ to park your car here.
+
+- [x] permission
+- [ ] athletic
+- [ ] clap
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+They got a work ____ to operate in the city.
+
+- [x] permit
+- [ ] athletic
+- [ ] clap
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+We chose the shortest scenic ____ to the lake.
+
+- [x] route
+- [ ] athletic
+- [ ] clap
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+He bought a ____ bicycle for daily commuting.
+
+- [x] second-hand
+- [ ] athletic
+- [ ] clap
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+She dressed in a stylish modern fashion ____.
+
+- [x] style
+- [ ] athletic
+- [ ] clap
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Oh, that ____ me to buy fresh milk today.
+
+- [x] reminds
+- [ ] athletic
+- [ ] clap
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Don't be ____ to your younger brother.
+
+- [x] mean
+- [ ] athletic
+- [ ] clap
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

@@ -77,83 +77,176 @@ bad guy, chase, punch, save the day 是超级英雄叙事的经典元素。marti
 
 <quiz-sentence-builder>
 
-1. **中文**：如果你可以选择任何超能力，你会选择隐身还是飞行？  
-   **英文**：If you could choose any superpower, would you pick invisibility or flight?
-   > **解析**：`superpower` 是可数名词，意为“超能力”，前半句为虚拟语气条件句。
+1. **中文**：如果你拥有选择任何超能力的特权，那会怎样？
+   **英文**：What if you had the power to choose any superpower?
+   > **解析**：what if 意为如果……会怎样。
 
-2. **中文**：飞行英雄及时赶到，挽救了局势/拯救了大家。  
-   **英文**：The flying hero arrived just in time to save the day.
-   > **解析**：`save the day` 是习惯用语，意为“扭转乾坤、挽救局势、拯救危局”。
+2. **中文**：在电影的最后时刻，超级英雄挽救了局面。
+   **英文**：At the last minute of the movie, the superhero saved the day.
+   > **解析**：save the day 意为挽救局面。
 
-3. **中文**：如果你有看穿人心思的能力会怎样呢？  
-   **英文**：What if you had the ability to read people's minds.
-   > **解析**：`What if...` 常用语引导假设性疑问句，意为“要是……会怎么样呢”。
+3. **中文**：如果你能拥有一种超能力，你会选哪一种？
+   **英文**：If you could have one superpower, which one would you choose?
+   > **解析**：superpower 意为超能力。
 
-4. **中文**：超级英雄在狭窄的小巷里追赶那个坏蛋。  
-   **英文**：The superhero chased the bad guy through the narrow alleyways.
-   > **解析**：`bad guy` 表示“反派、坏人”，在影视小说的常见名词短语。
+4. **中文**：那个反派试图逃跑，但超级英雄抓住了他。
+   **英文**：The bad guy tried to run away, but the superhero caught him.
+   > **解析**：bad guy 意为坏人、反派。
 
-5. **中文**：如果你是一名超级英雄，你会如何保护你的秘密身份？  
-   **英文**：If you were a superhero, how would you protect your secret identity?
-   > **解析**：`If you were...` 是对现在事实的虚拟语气条件从句，主句用 `would + 动词原形`。
+5. **中文**：如果他不那么冲动，他就不会被抓了。
+   **英文**：If he had been careful, he wouldn't have gotten caught.
+   > **解析**：get caught 意为被抓。
 
-6. **中文**：如果他以前训练更努力的话，他本可以轻易击败反派。  
-   **英文**：If he had trained harder, he would have defeated the villain easily.
-   > **解析**：`would have + 过去分词` 是对过去事实的虚拟语气主句搭配。
+6. **中文**：这位英雄从小就每天练习武术。
+   **英文**：The hero practiced martial arts every day since childhood.
+   > **解析**：martial arts 意为武术。
 
-7. **中文**：她掌握了古老的武术，不用武器就能击败敌人。  
-   **英文**：She mastered ancient martial arts to defeat her enemy without weapons.
-   > **解析**：`martial arts` 是复数名词短语，意为“武术、格斗术”。
+7. **中文**：他反复观看了这部惊险的超级英雄电影。
+   **英文**：He watched this exciting superhero movie over and over.
+   > **解析**：over and over 意为反复地。
 
-8. **中文**：警官们沿着街道追赶嫌疑人。  
-   **英文**：The police officers chased the suspect down the street.
-   > **解析**：`chase` 作及物动词，意为“追赶、追捕”，宾语为 `the suspect`。
+8. **中文**：警官注意到那个在街角徘徊的可疑男子。
+   **英文**：The officer noticed a suspicious man walking on the street corner.
+   > **解析**：suspicious 意为可疑的。
 
-9. **中文**：反派身穿黑色披风，使他看起来非常可疑。  
-   **英文**：The villain wore a dark cloak, making him look very suspicious.
-   > **解析**：`suspicious` 是形容词，意为“可疑的、引起怀疑的”，作表语补语。
+9. **中文**：电影里暴力的打斗场面不适合幼童观看。
+   **英文**：Violent fight scenes in the movie are not suitable for young kids.
+   > **解析**：violent 意为暴力的。
 
-10. **中文**：聪明的反派会极其小心，以免被当局抓获。  
-   **英文**：A smart villain will take extreme care not to get caught by the authorities.
-   > **解析**：`get caught` 是被动结构，意为“被抓住、被逮捕”。
+10. **中文**：英雄在繁忙的市中心街道上追赶反派。
+   **英文**：The hero had to chase the villain through busy city streets.
+   > **解析**：chase 意为追逐、追赶。
+
+11. **中文**：他一拳打倒了那个袭击者，拯救了同伴。
+   **英文**：He knocked down the attacker with a heavy punch.
+   > **解析**：punch 意为一拳、用拳猛击。
+
+12. **中文**：这部卖座电影的续集将于明年夏天上映。
+   **英文**：The sequel to the hit movie will come out next summer.
+   > **解析**：sequel 意为续集。
+
+13. **中文**：那个角色的超能力来源于神秘狼的基因。
+   **英文**：That character's power came from a mysterious wolf.
+   > **解析**：wolf 意为狼。
+
+14. **中文**：她的服饰像羽毛一样轻盈，帮助她飞翔。
+   **英文**：Her costume was as light as a feather, helping her fly.
+   > **解析**：feather 意为羽毛。
+
+15. **中文**：邪恶的反派向水供应系统中投毒。
+   **英文**：The evil villain put poison into the water supply.
+   > **解析**：poison 意为毒药。
+
+16. **中文**：如果她是隐形人，她就能偷听到阴谋。
+   **英文**：If she were invisible, she could overhear the secret plan.
+   > **解析**：if she were 意为如果她是……（虚拟语气）。
+
+17. **中文**：如果他听取了警告，他本来能拯救这座城市。
+   **英文**：If he had listened to advice, he would have saved the city.
+   > **解析**：would have 意为本来会……
+
+18. **中文**：如果你是超级英雄，你会隐藏真实身份吗？
+   **英文**：If you were a superhero, would you hide your real identity?
+   > **解析**：if you were 意为如果你是……
+
+19. **中文**：如果她没有及时离开，她就会被困住。
+   **英文**：If she hadn't left in time, she would have been trapped.
+   > **解析**：if she hadn't 意为如果她没有……
+
+20. **中文**：那头野兽摆动着长尾巴，警惕地看着四周。
+   **英文**：The creature swung its long tail and looked around carefully.
+   > **解析**：tail 意为尾巴。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. If you could choose any superpower, would you pick invisibility or flight?
-   > **中文**：如果你可以选择任何超能力，你会选择隐身还是飞行？
+1. What if you had the power to choose any superpower?
+   > **中文**：如果你拥有选择任何超能力的特权，那会怎样？
 
-2. The flying hero arrived just in time to save the day.
-   > **中文**：飞行英雄及时赶到，挽救了局势/拯救了大家。
+2. At the last minute of the movie, the superhero saved the day.
+   > **中文**：在电影的最后时刻，超级英雄挽救了局面。
 
-3. What if you had the ability to read people's minds.
-   > **中文**：如果你有看穿人心思的能力会怎样呢？
+3. If you could have one superpower, which one would you choose?
+   > **中文**：如果你能拥有一种超能力，你会选哪一种？
 
-4. The superhero chased the bad guy through the narrow alleyways.
-   > **中文**：超级英雄在狭窄的小巷里追赶那个坏蛋。
+4. The bad guy tried to run away, but the superhero caught him.
+   > **中文**：那个反派试图逃跑，但超级英雄抓住了他。
 
-5. If you were a superhero, how would you protect your secret identity?
-   > **中文**：如果你是一名超级英雄，你会如何保护你的秘密身份？
+5. If he had been careful, he wouldn't have gotten caught.
+   > **中文**：如果他不那么冲动，他就不会被抓了。
 
-6. If he had trained harder, he would have defeated the villain easily.
-   > **中文**：如果他以前训练更努力的话，他本可以轻易击败反派。
+6. The hero practiced martial arts every day since childhood.
+   > **中文**：这位英雄从小就每天练习武术。
 
-7. She mastered ancient martial arts to defeat her enemy without weapons.
-   > **中文**：她掌握了古老的武术，不用武器就能击败敌人。
+7. He watched this exciting superhero movie over and over.
+   > **中文**：他反复观看了这部惊险的超级英雄电影。
 
-8. The police officers chased the suspect down the street.
-   > **中文**：警官们沿着街道追赶嫌疑人。
+8. The officer noticed a suspicious man walking on the street corner.
+   > **中文**：警官注意到那个在街角徘徊的可疑男子。
 
-9. The villain wore a dark cloak, making him look very suspicious.
-   > **中文**：反派身穿黑色披风，使他看起来非常可疑。
+9. Violent fight scenes in the movie are not suitable for young kids.
+   > **中文**：电影里暴力的打斗场面不适合幼童观看。
 
-10. A smart villain will take extreme care not to get caught by the authorities.
-   > **中文**：聪明的反派会极其小心，以免被当局抓获。
+10. The hero had to chase the villain through busy city streets.
+   > **中文**：英雄在繁忙的市中心街道上追赶反派。
+
+11. He knocked down the attacker with a heavy punch.
+   > **中文**：他一拳打倒了那个袭击者，拯救了同伴。
+
+12. The sequel to the hit movie will come out next summer.
+   > **中文**：这部卖座电影的续集将于明年夏天上映。
+
+13. That character's power came from a mysterious wolf.
+   > **中文**：那个角色的超能力来源于神秘狼的基因。
+
+14. Her costume was as light as a feather, helping her fly.
+   > **中文**：她的服饰像羽毛一样轻盈，帮助她飞翔。
+
+15. The evil villain put poison into the water supply.
+   > **中文**：邪恶的反派向水供应系统中投毒。
+
+16. If she were invisible, she could overhear the secret plan.
+   > **中文**：如果她是隐形人，她就能偷听到阴谋。
+
+17. If he had listened to advice, he would have saved the city.
+   > **中文**：如果他听取了警告，他本来能拯救这座城市。
+
+18. If you were a superhero, would you hide your real identity?
+   > **中文**：如果你是超级英雄，你会隐藏真实身份吗？
+
+19. If she hadn't left in time, she would have been trapped.
+   > **中文**：如果她没有及时离开，她就会被困住。
+
+20. The creature swung its long tail and looked around carefully.
+   > **中文**：那头野兽摆动着长尾巴，警惕地看着四周。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| what if | 如果……会怎样 |
+| save the day | 挽救局面；力挽狂澜 |
+| superpower | 超能力 |
+| superhero | 超级英雄 |
+| bad guy | 坏人；反派 |
+| get caught | 被抓；被抓住 |
+| martial arts | 武术 |
+| over and over | 反复地；一次又一次 |
+| suspicious | 可疑的；多疑的 |
+| violent | 暴力的 |
+| chase | 追逐；追赶 |
+| punch | 用拳猛击；一拳 |
+| sequel | 续集 |
+| wolf | 狼 |
+| feather | 羽毛 |
+| tail | 尾巴 |
+| poison | 毒药；下毒 |
+| would have | 本来会…… |
+| if you were | 如果你是…… |
+| if you could | 如果你能…… |
 
 </quiz-matching>
 
@@ -161,102 +254,202 @@ bad guy, chase, punch, save the day 是超级英雄叙事的经典元素。marti
 
 ### 1
 
-`____` choose any superpower, would you pick invisibility or flight?
+What if you had the power to choose any ____?
 
-- [x] if you could
+- [x] superpower
 - [ ] bad guy
-- [ ] if he didn't
+- [ ] chase
 
-> **解析**：`superpower` 是可数名词，意为“超能力”，前半句为虚拟语气条件句。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The flying hero arrived just in time to `____`.
+At the last minute of the movie, the ____ saved the day.
 
-- [x] save the day
+- [x] superhero
+- [ ] bad guy
 - [ ] chase
-- [ ] if he had
 
-> **解析**：`save the day` 是习惯用语，意为“扭转乾坤、挽救局势、拯救危局”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-What if you had the abil`____`y to read people's minds.
+If you could have one ____, which one would you choose?
 
-- [x] it
-- [ ] feather
-- [ ] if he wasn't
+- [x] superpower
+- [ ] bad guy
+- [ ] chase
 
-> **解析**：`What if...` 常用语引导假设性疑问句，意为“要是……会怎么样呢”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The superhero chased the `____` through the narrow alleyways.
+The bad guy tried to run away, but the ____ caught him.
 
-- [x] bad guy
-- [ ] if he didn't
-- [ ] if you could
+- [x] superhero
+- [ ] bad guy
+- [ ] chase
 
-> **解析**：`bad guy` 表示“反派、坏人”，在影视小说的常见名词短语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-`____` a superhero, how would you protect your secret identity?
+If he had been careful, he ____ have gotten caught.
 
-- [x] if you were
-- [ ] if he didn't
-- [ ] if you could
+- [x] wouldn't
+- [ ] bad guy
+- [ ] chase
 
-> **解析**：`If you were...` 是对现在事实的虚拟语气条件从句，主句用 `would + 动词原形`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-`____` trained harder, he would have defeated the villain easily.
+The hero ____ martial arts every day since childhood.
 
-- [x] if he had
-- [ ] if he wasn't
-- [ ] it
+- [x] practiced
+- [ ] bad guy
+- [ ] chase
 
-> **解析**：`would have + 过去分词` 是对过去事实的虚拟语气主句搭配。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-She mastered ancient `____` to defeat her enemy without weapons.
+He watched this exciting ____ movie over and over.
 
-- [x] martial arts
-- [ ] if he wasn't
-- [ ] it
+- [x] superhero
+- [ ] bad guy
+- [ ] chase
 
-> **解析**：`martial arts` 是复数名词短语，意为“武术、格斗术”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The police officers `____`d the suspect down the street.
+The officer noticed a ____ man walking on the street corner.
 
-- [x] chase
-- [ ] if you could
-- [ ] over and over
+- [x] suspicious
+- [ ] bad guy
+- [ ] chase
 
-> **解析**：`chase` 作及物动词，意为“追赶、追捕”，宾语为 `the suspect`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The villain wore a dark cloak, making him look very `____`.
+____ fight scenes in the movie are not suitable for young kids.
 
-- [x] suspicious
-- [ ] if you could
-- [ ] over and over
+- [x] Violent
+- [ ] bad guy
+- [ ] chase
 
-> **解析**：`suspicious` 是形容词，意为“可疑的、引起怀疑的”，作表语补语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-A smart villain will take extreme care not to `____` by the authorities.
+The hero had to ____ the villain through busy city streets.
 
-- [x] get caught
-- [ ] it
-- [ ] punch
+- [x] chase
+- [ ] bad guy
+- [ ] feather
 
-> **解析**：`get caught` 是被动结构，意为“被抓住、被逮捕”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+He knocked down the attacker with a heavy ____.
+
+- [x] punch
+- [ ] bad guy
+- [ ] chase
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The ____ to the hit movie will come out next summer.
+
+- [x] sequel
+- [ ] bad guy
+- [ ] chase
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+That character's power came from a mysterious ____.
+
+- [x] wolf
+- [ ] bad guy
+- [ ] chase
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Her costume was as light as a ____, helping her fly.
+
+- [x] feather
+- [ ] bad guy
+- [ ] chase
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The evil villain put ____ into the water supply.
+
+- [x] poison
+- [ ] bad guy
+- [ ] chase
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+If she were ____, she could overhear the secret plan.
+
+- [x] invisible
+- [ ] bad guy
+- [ ] chase
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+If he had ____ to advice, he would have saved the city.
+
+- [x] listened
+- [ ] bad guy
+- [ ] chase
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+If you were a ____, would you hide your real identity?
+
+- [x] superhero
+- [ ] bad guy
+- [ ] chase
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+If she hadn't left in time, she would have been ____.
+
+- [x] trapped
+- [ ] bad guy
+- [ ] chase
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+The creature swung its long ____ and looked around carefully.
+
+- [x] tail
+- [ ] bad guy
+- [ ] chase
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

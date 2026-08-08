@@ -61,83 +61,176 @@ thief → thieves（复数变化）。take place = happen。
 
 <quiz-sentence-builder>
 
-1. **中文**：警察迅速赶到犯罪现场逮捕了嫌疑人。  
-   **英文**：The police arrived quickly at the crime scene to arrest the suspect.
-   > **解析**：arrest 为及物动词，意为“逮捕、拘留”。常用结构 arrest the suspect（逮捕嫌疑人）。
+1. **中文**：警察昨晚依法逮捕了那名抢劫嫌疑人。
+   **英文**：Police officers came to arrest the robbery suspect last night.
+   > **解析**：arrest 表示“逮捕”；suspect 意为“嫌疑人”。
 
-2. **中文**：如果你目击了抢劫案，应该立即报警。  
-   **英文**：If you witness a robbery, you should immediately call the police.
-   > **解析**：call the police 为固定短语，意为“打电话给警察/报警”。
+2. **中文**：昨晚市中心附近发生了一起突发的恐慌袭击。
+   **英文**：A sudden attack happened near the city center last night.
+   > **解析**：attack 表示“袭击/攻击”；sudden 意为“突发的”。
 
-3. **中文**：受害者前往当地警察局提交了正式的警情报告。  
-   **英文**：The victim went to the local station to file an official police report.
-   > **解析**：file 为及物动词，意为“提交、备案”。file a report 意为“提交报告/立案”。
+3. **中文**：如果你在附近看到可疑人员，请立刻拨打报警电话。
+   **英文**：If you see a suspicious person nearby, call the police immediately.
+   > **解析**：call the police 表示“报警/叫警察”；suspicious 意为“可疑的”。
 
-4. **中文**：幸运的是，在今天早上的银行抢劫案中没有人受伤。  
-   **英文**：Luckily, nobody was injured during the bank robbery this morning.
-   > **解析**：luckily 为句首副词，意为“幸运地是”，用作评注性状语修饰整个句子。
+4. **中文**：警方目前尚不确定嫌疑人当时驾驶哪辆车。
+   **英文**：The police are not certain which vehicle the suspect was driving.
+   > **解析**：certain 表示“确定的/有把握的”；suspect 意为“嫌疑人”。
 
-5. **中文**：商店外面安装了监控摄像头以保护财产。  
-   **英文**：Security cameras were installed outside the store to protect the property.
-   > **解析**：protect 为及物动词，意为“保护、防护”。to protect the property 作目的状语。
+5. **中文**：任何人都不应该因任何理由去犯罪。
+   **英文**：No one should ever commit a crime for any reason.
+   > **解析**：commit a crime 表示“犯罪/作案”。
 
-6. **中文**：商店抢劫案发生在全体员工离开后的深夜。  
-   **英文**：The store robbery took place late at night after all staff had left.
-   > **解析**：take place 为不及物动词短语，意为“发生”，不可用于被动语态，相当于 happen。
+6. **中文**：拨打九一一是遇到严重紧急情况时的最佳方法。
+   **英文**：Calling 911 is the fastest option during a medical emergency.
+   > **解析**：emergency 表示“紧急情况”；medical emergency 意为“医疗急救”。
 
-7. **中文**：蒙面小偷的被盗身份对调查人员来说仍是一个谜。  
-   **英文**：The stolen identity of the masked thief remains unknown to investigators.
-   > **解析**：unknown 为形容词，意为“未知的、不明的”，在此处作表语（remains unknown）。
+7. **中文**：警官协助受害者当场填写了书面记录。
+   **英文**：The officer helped the victim file an official report.
+   > **解析**：file 表示“提交/记录（文件）”；official report 意为“官方报告”。
 
-8. **中文**：劫匪试图用武器袭击保安。  
-   **英文**：The robber tried to attack the security guard with a weapon.
-   > **解析**：attack 为及物动词，意为“袭击、攻击”，后接被攻击的对象（attack the security guard）。
+8. **中文**：幸好没有人受伤，大家对此都感到非常高兴。
+   **英文**：Everyone was glad that nobody got injured in the accident.
+   > **解析**：glad 表示“高兴的/庆幸的”；injured 意为“受伤”。
 
-9. **中文**：在任何国家犯持械抢劫罪都是严重的犯罪行为。  
-   **英文**：It is a serious crime to commit armed robbery in any country.
-   > **解析**：commit 为及物动词，意为“犯（罪/错）”。常用搭配 commit a crime / commit robbery。
+9. **中文**：法官在法庭审判后宣布被告无罪。
+   **英文**：The judge declared that the defendant was innocent after trial.
+   > **解析**：innocent 表示“无罪的/清白的”；judge 意为“法官”。
 
-10. **中文**：我们很高兴失窃的物品被安全归还给了原主。  
-   **英文**：We are glad that the lost stolen items were returned safely to their owner.
-   > **解析**：glad 为形容词，意为“高兴的、欣慰的”，常用结构 receive be glad that + 从句。
+10. **中文**：幸运的是，警察在犯人逃跑前将其当场抓获。
+   **英文**：Luckily, the police caught the offender before he could escape.
+   > **解析**：Luckily 表示“幸运地”；offender 意为“违法者”。
+
+11. **中文**：劫匪戴着黑色的面具遮住了脸部。
+   **英文**：The robber wore a black mask to hide his facial features.
+   > **解析**：mask 表示“面具/口罩”；facial features 意为“面部特征”。
+
+12. **中文**：遇到急救或犯罪请立即拨打九一一紧急电话。
+   **英文**：Dial nine-one-one immediately if you need emergency help.
+   > **解析**：nine-one-one 表示“911紧急电话”；dial 意为“拨打”。
+
+13. **中文**：报警后受害者去警局提交了一份一份警情报告。
+   **英文**：The victim went to the station to submit a police report.
+   > **解析**：police report 表示“警方报告/报案记录”。
+
+14. **中文**：保安的职责是保护商店资产和顾客安全。
+   **英文**：The guard's duty is to protect the store and its customers.
+   > **解析**：protect 表示“保护/防护”；customers 意为“顾客”。
+
+15. **中文**：警方正在全力调查发生在珠宝店的重大抢劫案。
+   **英文**：Detectives are investigating the major robbery at the jewelry store.
+   > **解析**：robbery 表示“抢劫案/抢劫”；detectives 意为“侦探/刑警”。
+
+16. **中文**：多名警员正在附近街区搜寻丢失的财物。
+   **英文**：Officers search for the missing items in the surrounding neighborhood.
+   > **解析**：search for 表示“搜寻/寻找”；missing items 意为“失物”。
+
+17. **中文**：事件发生时附近刚好有一位目击者。
+   **英文**：The incident will take place near the downtown park tomorrow.
+   > **解析**：take place 表示“发生/举行”。
+
+18. **中文**：那个小偷悄悄溜进房间偷走了皮包。
+   **英文**：The thief quietly sneaked into the room and stole the handbag.
+   > **解析**：thief 表示“小偷/贼”；stole 为 steal 的过去式。
+
+19. **中文**：警方在火车站抓住了那两名逃跑的小偷。
+   **英文**：The police caught the two thieves running away from the station.
+   > **解析**：thieves 是 thief 的复数形式，意为“小偷们”。
+
+20. **中文**：嫌疑人驾驶一辆可疑的黑色卡车逃离了现场。
+   **英文**：The suspect escaped from the scene in a dark truck.
+   > **解析**：truck 表示“卡车/货车”；suspect 意为“嫌疑人”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The police arrived quickly at the crime scene to arrest the suspect.
-   > **中文**：警察迅速赶到犯罪现场逮捕了嫌疑人。
+1. Police officers came to arrest the robbery suspect last night.
+   > **中文**：警察昨晚依法逮捕了那名抢劫嫌疑人。
 
-2. If you witness a robbery, you should immediately call the police.
-   > **中文**：如果你目击了抢劫案，应该立即报警。
+2. A sudden attack happened near the city center last night.
+   > **中文**：昨晚市中心附近发生了一起突发的恐慌袭击。
 
-3. The victim went to the local station to file an official police report.
-   > **中文**：受害者前往当地警察局提交了正式的警情报告。
+3. If you see a suspicious person nearby, call the police immediately.
+   > **中文**：如果你在附近看到可疑人员，请立刻拨打报警电话。
 
-4. Luckily, nobody was injured during the bank robbery this morning.
-   > **中文**：幸运的是，在今天早上的银行抢劫案中没有人受伤。
+4. The police are not certain which vehicle the suspect was driving.
+   > **中文**：警方目前尚不确定嫌疑人当时驾驶哪辆车。
 
-5. Security cameras were installed outside the store to protect the property.
-   > **中文**：商店外面安装了监控摄像头以保护财产。
+5. No one should ever commit a crime for any reason.
+   > **中文**：任何人都不应该因任何理由去犯罪。
 
-6. The store robbery took place late at night after all staff had left.
-   > **中文**：商店抢劫案发生在全体员工离开后的深夜。
+6. Calling 911 is the fastest option during a medical emergency.
+   > **中文**：拨打九一一是遇到严重紧急情况时的最佳方法。
 
-7. The stolen identity of the masked thief remains unknown to investigators.
-   > **中文**：蒙面小偷的被盗身份对调查人员来说仍是一个谜。
+7. The officer helped the victim file an official report.
+   > **中文**：警官协助受害者当场填写了书面记录。
 
-8. The robber tried to attack the security guard with a weapon.
-   > **中文**：劫匪试图用武器袭击保安。
+8. Everyone was glad that nobody got injured in the accident.
+   > **中文**：幸好没有人受伤，大家对此都感到非常高兴。
 
-9. It is a serious crime to commit armed robbery in any country.
-   > **中文**：在任何国家犯持械抢劫罪都是严重的犯罪行为。
+9. The judge declared that the defendant was innocent after trial.
+   > **中文**：法官在法庭审判后宣布被告无罪。
 
-10. We are glad that the lost stolen items were returned safely to their owner.
-   > **中文**：我们很高兴失窃的物品被安全归还给了原主。
+10. Luckily, the police caught the offender before he could escape.
+   > **中文**：幸运的是，警察在犯人逃跑前将其当场抓获。
+
+11. The robber wore a black mask to hide his facial features.
+   > **中文**：劫匪戴着黑色的面具遮住了脸部。
+
+12. Dial nine-one-one immediately if you need emergency help.
+   > **中文**：遇到急救或犯罪请立即拨打九一一紧急电话。
+
+13. The victim went to the station to submit a police report.
+   > **中文**：报警后受害者去警局提交了一份一份警情报告。
+
+14. The guard's duty is to protect the store and its customers.
+   > **中文**：保安的职责是保护商店资产和顾客安全。
+
+15. Detectives are investigating the major robbery at the jewelry store.
+   > **中文**：警方正在全力调查发生在珠宝店的重大抢劫案。
+
+16. Officers search for the missing items in the surrounding neighborhood.
+   > **中文**：多名警员正在附近街区搜寻丢失的财物。
+
+17. The incident will take place near the downtown park tomorrow.
+   > **中文**：事件发生时附近刚好有一位目击者。
+
+18. The thief quietly sneaked into the room and stole the handbag.
+   > **中文**：那个小偷悄悄溜进房间偷走了皮包。
+
+19. The police caught the two thieves running away from the station.
+   > **中文**：警方在火车站抓住了那两名逃跑的小偷。
+
+20. The suspect escaped from the scene in a dark truck.
+   > **中文**：嫌疑人驾驶一辆可疑的黑色卡车逃离了现场。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| arrest | 逮捕 |
+| attack | 袭击 / 攻击 |
+| call the police | 报警 / 叫警察 |
+| certain | 确定的 / 某些 |
+| commit | 犯（罪） |
+| emergency | 紧急情况 |
+| file | 提交 / 案卷 |
+| glad | 高兴的 |
+| innocent | 无辜的 / 清白的 |
+| luckily | 幸运地 |
+| mask | 面具 / 口罩 |
+| nine-one-one | 911紧急电话 |
+| police report | 警方报告 |
+| protect | 保护 |
+| robbery | 抢劫案 |
+| search for | 搜寻 / 寻找 |
+| take place | 发生 |
+| thief | 小偷 |
+| thieves | 小偷们 |
+| truck | 卡车 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ thief → thieves（复数变化）。take place = happen。
 
 ### 1
 
-The police arrived quickly at the crime scene to `____` the suspect.
+Police officers came to ____ the robbery suspect last night.
 
 - [x] arrest
 - [ ] attack
-- [ ] commit
+- [ ] bomb
 
-> **解析**：arrest 为及物动词，意为“逮捕、拘留”。常用结构 arrest the suspect（逮捕嫌疑人）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-If you witness a robbery, you should immediately `____`.
+A sudden ____ happened near the city center last night.
 
-- [x] call the police
-- [ ] attack
-- [ ] emergency
+- [x] attack
+- [ ] arrest
+- [ ] bomb
 
-> **解析**：call the police 为固定短语，意为“打电话给警察/报警”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The victim went to the local station to `____` an official police report.
+If you see a suspicious person nearby, call the police ____.
 
-- [x] file
-- [ ] bomb
-- [ ] emergency
+- [x] immediately
+- [ ] arrest
+- [ ] attack
 
-> **解析**：file 为及物动词，意为“提交、备案”。file a report 意为“提交报告/立案”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-`____`, nobody was injured during the bank robbery this morning.
+The police are not ____ which vehicle the suspect was driving.
 
-- [x] luckily
-- [ ] call the police
-- [ ] file
+- [x] certain
+- [ ] arrest
+- [ ] attack
 
-> **解析**：luckily 为句首副词，意为“幸运地是”，用作评注性状语修饰整个句子。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Security cameras were installed outside the store to `____` the property.
+No one should ever ____ a crime for any reason.
 
-- [x] protect
-- [ ] certain
-- [ ] glad
+- [x] commit
+- [ ] arrest
+- [ ] attack
 
-> **解析**：protect 为及物动词，意为“保护、防护”。to protect the property 作目的状语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The store `____` took place late at night after all staff had left.
+Calling 911 is the fastest option during a medical ____.
 
-- [x] robbery
-- [ ] commit
-- [ ] innocent
+- [x] emergency
+- [ ] arrest
+- [ ] attack
 
-> **解析**：take place 为不及物动词短语，意为“发生”，不可用于被动语态，相当于 happen。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The stolen identity of the `____`ed thief remains unknown to investigators.
+The officer helped the victim ____ an official report.
 
-- [x] mask
-- [ ] emergency
-- [ ] luckily
+- [x] file
+- [ ] arrest
+- [ ] attack
 
-> **解析**：unknown 为形容词，意为“未知的、不明的”，在此处作表语（remains unknown）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The robber tried to `____` the security guard with a weapon.
+Everyone was ____ that nobody got injured in the accident.
 
-- [x] attack
-- [ ] glad
-- [ ] nine-one-one
+- [x] glad
+- [ ] arrest
+- [ ] attack
 
-> **解析**：attack 为及物动词，意为“袭击、攻击”，后接被攻击的对象（attack the security guard）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-It is a serious crime to `____` armed robbery in any country.
+The judge declared that the defendant was ____ after trial.
 
-- [x] commit
-- [ ] innocent
-- [ ] police report
+- [x] innocent
+- [ ] arrest
+- [ ] attack
 
-> **解析**：commit 为及物动词，意为“犯（罪/错）”。常用搭配 commit a crime / commit robbery。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-We are `____` that the lost stolen items were returned safely to their owner.
+____, the police caught the offender before he could escape.
 
-- [x] glad
-- [ ] luckily
-- [ ] protect
+- [x] Luckily
+- [ ] arrest
+- [ ] attack
 
-> **解析**：glad 为形容词，意为“高兴的、欣慰的”，常用结构 receive be glad that + 从句。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The robber wore a black ____ to hide his facial features.
+
+- [x] mask
+- [ ] arrest
+- [ ] attack
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Dial ____ immediately if you need emergency help.
+
+- [x] nine-one-one
+- [ ] arrest
+- [ ] attack
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The victim went to the ____ to submit a police report.
+
+- [x] station
+- [ ] arrest
+- [ ] attack
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The guard's duty is to ____ the store and its customers.
+
+- [x] protect
+- [ ] arrest
+- [ ] attack
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Detectives are investigating the major ____ at the jewelry store.
+
+- [x] robbery
+- [ ] arrest
+- [ ] attack
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Officers search for the missing items in the surrounding ____.
+
+- [x] neighborhood
+- [ ] arrest
+- [ ] attack
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The ____ will take place near the downtown park tomorrow.
+
+- [x] incident
+- [ ] arrest
+- [ ] attack
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+The ____ quietly sneaked into the room and stole the handbag.
+
+- [x] thief
+- [ ] arrest
+- [ ] attack
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The police caught the two ____ running away from the station.
+
+- [x] thieves
+- [ ] arrest
+- [ ] attack
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+The suspect escaped from the scene in a dark ____.
+
+- [x] truck
+- [ ] arrest
+- [ ] attack
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

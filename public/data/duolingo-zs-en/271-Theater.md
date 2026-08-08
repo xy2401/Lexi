@@ -63,83 +63,176 @@ almost a, almost all, audition, chances are, critic, full house, highly, impress
 
 <quiz-sentence-builder>
 
-1. **中文**：在音乐剧女主角的试镜前，她感到非常紧张。  
-   **英文**：She was nervous before her audition for the lead role in the musical.
-   > **解析**：`audition` 在此用作名词，意为“试镜、试演”。常用搭配 `audition for + 角色` 表示“参加某角色的试镜”，在句中作介词 `before` 的宾语。
+1. **中文**：她去参加了主角的试镜。
+   **英文**：She went to the audition for the lead role.
+   > **解析**：audition 意为试镜、试演。
 
-2. **中文**：那个年轻演员在走上舞台前成功克服了怯场情绪。  
-   **英文**：The young actor managed to overcome his stage fright before stepping onto the stage.
-   > **解析**：`stage fright` 是由名词组合成的复合名词，意为“怯场、舞台恐惧”，属于不可数名词。动词短语 `overcome stage fright` 表示“克服怯场”。
+2. **中文**：演员在走上舞台前克服了怯场。
+   **英文**：The actor overcame his stage fright before stepping onto the stage.
+   > **解析**：stage fright 意为怯场、舞台恐惧。
 
-3. **中文**：剧院在首演之夜座无虚席，因为门票很快就售罄了。  
-   **英文**：The theater had a full house on opening night because the tickets sold out fast.
-   > **解析**：`full house` 是名词短语，在戏剧语境中意为“全场爆满、座无虚席”，其中 `house` 特指“观众席”。
+3. **中文**：首演之夜吸引了满座的观众。
+   **英文**：Opening night attracted a full house of excited theater fans.
+   > **解析**：full house 意为满座、全场爆满。
 
-4. **中文**：剧组里的每个人都对这部新剧的首演之夜感到无比兴奋。  
-   **英文**：Everyone in the cast was excited for the opening night of the new play.
-   > **解析**：`opening night` 指戏剧或表演的“首演之夜”，作介词 `for` 的宾语。固定搭配 `on opening night` 表示“在首演之夜”。
+4. **中文**：每个人都为首演之夜感到非常兴奋。
+   **英文**：Everyone was very excited for the opening night of the show.
+   > **解析**：opening night 意为首演之夜。
 
-5. **中文**：戏剧社今年很可能会赢得地区比赛。  
-   **英文**：Chances are that the drama club will win the regional competition this year about audition.
-   > **解析**：`chances are (that)...` 是口语中高频使用的推测句式，意为“很可能……”，后接同位语从句表达可能性或推测。
+5. **中文**：很可能她会得到她一直想要的角色。
+   **英文**：Chances are she will get the role she always wanted.
+   > **解析**：chances are 意为很可能、大概率。
 
-6. **中文**：他们在彩排中花了四个小时来完善动作和台词。  
-   **英文**：They spent four hours at the dress rehearsal perfecting their movement and lines.
-   > **解析**：`rehearsal` 是名词，意为“排练、彩排”，动词形式为 `rehearse`。短语 `dress rehearsal` 特指“带妆彩排”。
+6. **中文**：我们今晚将针对第二幕进行彩排。
+   **英文**：We will have a rehearsal for the second act tonight.
+   > **解析**：rehearsal 意为排练、彩排。
 
-7. **中文**：他在最后一次排练前背熟了剧本里的每一句台词。  
-   **英文**：He memorized every single line in the script before the final rehearsal.
-   > **解析**：`script` 指戏剧或电影的“剧本”，在句中作介词 `in` 的宾语。搭配 `lines in the script` 表示“剧本中的台词”。
+7. **中文**：导演让所有人在午饭前通读剧本。
+   **英文**：The director asked everyone to read the script before lunch.
+   > **解析**：script 意为剧本。
 
-8. **中文**：这位著名的戏剧评论家赞扬了这位年轻女演员充满情感的表演。  
-   **英文**：The famous theater critic praised the young actress for her emotional performance.
-   > **解析**：`critic` 是可数名词，意为“评论家、批评家”。注意与形容词 `critical`（批评的）及名词 `criticism`（批评）的区别。
+8. **中文**：我在第三场表演中差点忘记了一句台词。
+   **英文**：I almost forgot a line during the third scene of the play.
+   > **解析**：line 意为台词。
 
-9. **中文**：导演对她在试镜期间表现出的自然自信留下了深刻印象。  
-   **英文**：The director was highly impressed by her natural confidence during the audition.
-   > **解析**：`impressed` 是形容词，意为“印象深刻的”。固定搭配 `be impressed by/with...` 表示“对……印象深刻”，副词 `highly` 作状语修饰形容词。
+9. **中文**：那位著名的戏剧评论家给这个新剧目写了极高的评价。
+   **英文**：The famous theater critic wrote a great review for the new show.
+   > **解析**：critic 意为评论家、批评家。
 
-10. **中文**：她一走出来，聚光灯就跟着她在舞台上移动。  
-   **英文**：As soon as she walked out, the spotlight followed her across the stage.
-   > **解析**：`spotlight` 指舞台上的“聚光灯”，由 `spot`（地点/点）与 `light`（灯光）复合而成。引申表达 `in the spotlight` 表示“成为焦点”。
+10. **中文**：导演对后起之秀出色的演技印象深刻。
+    **英文**：The director was impressed by the young actor's performance.
+    > **解析**：impressed 意为印象深刻的。
+
+11. **中文**：这部戏剧获得了当地社区的高度评价。
+    **英文**：The new play was highly recommended by the local community.
+    > **解析**：highly 意为高度地、非常。
+
+12. **中文**：当他走到聚光灯下时，全场顿时安静了下来。
+    **英文**：When he stepped into the spotlight, the audience became quiet.
+    > **解析**：spotlight 意为聚光灯。
+
+13. **中文**：这是一部出色的百老汇风格戏剧制作。
+    **英文**：This was a wonderful theater production with impressive costumes.
+    > **解析**：production 意为制作、剧目。
+
+14. **中文**：团队化了三天时间构建舞台布景。
+    **英文**：The team spent three days building the wooden set for the show.
+    > **解析**：set 意为舞台布景。
+
+15. **中文**：她在这部音乐剧里扮演主唱的角色。
+    **英文**：She is playing the leading role in this romantic musical.
+    > **解析**：role 意为角色。
+
+16. **中文**：对于一位新人演员来说，那真是一场精彩的演出。
+    **英文**：That was quite a performance for a beginner actor.
+    > **解析**：quite a 意为相当一个、非同寻常的。
+
+17. **中文**：几乎所有的座位都被期待首演的观众坐满了。
+    **英文**：Almost all seats were filled with people waiting for the show.
+    > **解析**：almost all 意为几乎所有的。
+
+18. **中文**：我相当确定我们能在明晚前记熟所有台词。
+    **英文**：I am pretty sure we can memorize all the lines by tomorrow.
+    > **解析**：pretty sure 意为相当确定、很确定。
+
+19. **中文**：毫无疑问她是剧组里最有天赋的舞者。
+    **英文**：There's no question that she is the most talented dancer in the crew.
+    > **解析**：there's no question 意为毫无疑问。
+
+20. **中文**：这个结果也许不像我们之前预想的那么糟糕。
+    **英文**：The result might not be as bad as we thought earlier.
+    > **解析**：might not be 意为也许不是、可能不。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. She was nervous before her audition for the lead role in the musical.
-   > **中文**：在音乐剧女主角的试镜前，她感到非常紧张。
+1. She went to the audition for the lead role.
+   > **中文**：她去参加了主角的试镜。
 
-2. The young actor managed to overcome his stage fright before stepping onto the stage.
-   > **中文**：那个年轻演员在走上舞台前成功克服了怯场情绪。
+2. The actor overcame his stage fright before stepping onto the stage.
+   > **中文**：演员在走上舞台前克服了怯场。
 
-3. The theater had a full house on opening night because the tickets sold out fast.
-   > **中文**：剧院在首演之夜座无虚席，因为门票很快就售罄了。
+3. Opening night attracted a full house of excited theater fans.
+   > **中文**：首演之夜吸引了满座的观众。
 
-4. Everyone in the cast was excited for the opening night of the new play.
-   > **中文**：剧组里的每个人都对这部新剧的首演之夜感到无比兴奋。
+4. Everyone was very excited for the opening night of the show.
+   > **中文**：每个人都为首演之夜感到非常兴奋。
 
-5. Chances are that the drama club will win the regional competition this year about audition.
-   > **中文**：戏剧社今年很可能会赢得地区比赛。
+5. Chances are she will get the role she always wanted.
+   > **中文**：很可能她会得到她一直想要的角色。
 
-6. They spent four hours at the dress rehearsal perfecting their movement and lines.
-   > **中文**：他们在彩排中花了四个小时来完善动作和台词。
+6. We will have a rehearsal for the second act tonight.
+   > **中文**：我们今晚将针对第二幕进行彩排。
 
-7. He memorized every single line in the script before the final rehearsal.
-   > **中文**：他在最后一次排练前背熟了剧本里的每一句台词。
+7. The director asked everyone to read the script before lunch.
+   > **中文**：导演让所有人在午饭前通读剧本。
 
-8. The famous theater critic praised the young actress for her emotional performance.
-   > **中文**：这位著名的戏剧评论家赞扬了这位年轻女演员充满情感的表演。
+8. I almost forgot a line during the third scene of the play.
+   > **中文**：我在第三场表演中差点忘记了一句台词。
 
-9. The director was highly impressed by her natural confidence during the audition.
-   > **中文**：导演对她在试镜期间表现出的自然自信留下了深刻印象。
+9. The famous theater critic wrote a great review for the new show.
+   > **中文**：那位著名的戏剧评论家给这个新剧目写了极高的评价。
 
-10. As soon as she walked out, the spotlight followed her across the stage.
-   > **中文**：她一走出来，聚光灯就跟着她在舞台上移动。
+10. The director was impressed by the young actor's performance.
+   > **中文**：导演对后起之秀出色的演技印象深刻。
+
+11. The new play was highly recommended by the local community.
+   > **中文**：这部戏剧获得了当地社区的高度评价。
+
+12. When he stepped into the spotlight, the audience became quiet.
+   > **中文**：当他走到聚光灯下时，全场顿时安静了下来。
+
+13. This was a wonderful theater production with impressive costumes.
+   > **中文**：这是一部出色的百老汇风格戏剧制作。
+
+14. The team spent three days building the wooden set for the show.
+   > **中文**：团队化了三天时间构建舞台布景。
+
+15. She is playing the leading role in this romantic musical.
+   > **中文**：她在这部音乐剧里扮演主唱的角色。
+
+16. That was quite a performance for a beginner actor.
+   > **中文**：对于一位新人演员来说，那真是一场精彩的演出。
+
+17. Almost all seats were filled with people waiting for the show.
+   > **中文**：几乎所有的座位都被期待首演的观众坐满了。
+
+18. I am pretty sure we can memorize all the lines by tomorrow.
+   > **中文**：我相当确定我们能在明晚前记熟所有台词。
+
+19. There's no question that she is the most talented dancer in the crew.
+   > **中文**：毫无疑问她是剧组里最有天赋的舞者。
+
+20. The result might not be as bad as we thought earlier.
+   > **中文**：这个结果也许不像我们之前预想的那么糟糕。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| audition | 试镜；试演 |
+| stage fright | 怯场；舞台恐惧 |
+| full house | 满座；全场爆满 |
+| opening night | 首演之夜 |
+| chances are | 很可能；大概率 |
+| rehearsal | 排练；彩排 |
+| script | 剧本 |
+| line | 台词 |
+| critic | 评论家；批评家 |
+| impressed | 印象深刻的 |
+| highly | 高度地；非常 |
+| spotlight | 聚光灯；焦点 |
+| production | 制作；剧目 |
+| set | 舞台布景 |
+| role | 角色 |
+| quite a | 相当一个；非同寻常的 |
+| almost all | 几乎所有的 |
+| pretty sure | 相当确定；很确定 |
+| there's no question | 毫无疑问 |
+| might not be | 也许不是；可能不 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ almost a, almost all, audition, chances are, critic, full house, highly, impress
 
 ### 1
 
-She was nervous before her `____` for the lead role in the musical.
+She went to the ____ for the lead role.
 
 - [x] audition
 - [ ] almost a
-- [ ] full house
+- [ ] almost all
 
-> **解析**：`audition` 在此用作名词，意为“试镜、试演”。常用搭配 `audition for + 角色` 表示“参加某角色的试镜”，在句中作介词 `before` 的宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The young actor managed to overcome his `____` before stepping onto the stage.
+The actor ____ his stage fright before stepping onto the stage.
 
-- [x] stage fright
+- [x] overcame
+- [ ] almost a
 - [ ] almost all
-- [ ] full house
 
-> **解析**：`stage fright` 是由名词组合成的复合名词，意为“怯场、舞台恐惧”，属于不可数名词。动词短语 `overcome stage fright` 表示“克服怯场”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The theater had a `____` on opening night because the tickets sold out fast.
+Opening night ____ a full house of excited theater fans.
 
-- [x] full house
-- [ ] audition
-- [ ] impressed
+- [x] attracted
+- [ ] almost a
+- [ ] almost all
 
-> **解析**：`full house` 是名词短语，在戏剧语境中意为“全场爆满、座无虚席”，其中 `house` 特指“观众席”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Everyone in the cast was excited for the `____` of the new play.
+____ was very excited for the opening night of the show.
 
-- [x] opening night
-- [ ] chances are
-- [ ] impressed
+- [x] Everyone
+- [ ] almost a
+- [ ] almost all
 
-> **解析**：`opening night` 指戏剧或表演的“首演之夜”，作介词 `for` 的宾语。固定搭配 `on opening night` 表示“在首演之夜”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-`____` that the drama club will win the regional competition this year about audition.
+Chances are she will get the ____ she always wanted.
 
-- [x] chances are
-- [ ] full house
-- [ ] may be
+- [x] role
+- [ ] almost a
+- [ ] almost all
 
-> **解析**：`chances are (that)...` 是口语中高频使用的推测句式，意为“很可能……”，后接同位语从句表达可能性或推测。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-They spent four hours at the dress rehearsal perfecting their movement and `____`s.
+We will have a ____ for the second act tonight.
 
-- [x] line
-- [ ] full house
-- [ ] might not be
+- [x] rehearsal
+- [ ] almost a
+- [ ] almost all
 
-> **解析**：`rehearsal` 是名词，意为“排练、彩排”，动词形式为 `rehearse`。短语 `dress rehearsal` 特指“带妆彩排”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-He memorized every single line in the script before the final `____`.
+The director asked everyone to read the ____ before lunch.
 
-- [x] rehearsal
-- [ ] highly
-- [ ] might not be
+- [x] script
+- [ ] almost a
+- [ ] almost all
 
-> **解析**：`script` 指戏剧或电影的“剧本”，在句中作介词 `in` 的宾语。搭配 `lines in the script` 表示“剧本中的台词”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The famous theater `____` praised the young actress for her emotional performance.
+I almost forgot a ____ during the third scene of the play.
 
-- [x] critic
-- [ ] line
-- [ ] pretty sure
+- [x] line
+- [ ] almost a
+- [ ] almost all
 
-> **解析**：`critic` 是可数名词，意为“评论家、批评家”。注意与形容词 `critical`（批评的）及名词 `criticism`（批评）的区别。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The director was `____` impressed by her natural confidence during the audition.
+The famous theater ____ wrote a great review for the new show.
 
-- [x] highly
-- [ ] may be
-- [ ] production
+- [x] critic
+- [ ] almost a
+- [ ] almost all
 
-> **解析**：`impressed` 是形容词，意为“印象深刻的”。固定搭配 `be impressed by/with...` 表示“对……印象深刻”，副词 `highly` 作状语修饰形容词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-As soon as she walked out, the `____` followed her across the stage.
+The director was ____ by the young actor's performance.
+
+- [x] impressed
+- [ ] almost a
+- [ ] almost all
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The new play was ____ recommended by the local community.
+
+- [x] highly
+- [ ] almost a
+- [ ] almost all
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+When he stepped into the ____, the audience became quiet.
 
 - [x] spotlight
-- [ ] may be
-- [ ] production
+- [ ] almost a
+- [ ] almost all
 
-> **解析**：`spotlight` 指舞台上的“聚光灯”，由 `spot`（地点/点）与 `light`（灯光）复合而成。引申表达 `in the spotlight` 表示“成为焦点”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+This was a wonderful theater ____ with impressive costumes.
+
+- [x] production
+- [ ] almost a
+- [ ] almost all
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The team spent three days building the wooden ____ for the show.
+
+- [x] set
+- [ ] almost a
+- [ ] almost all
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+She is playing the leading ____ in this romantic musical.
+
+- [x] role
+- [ ] almost a
+- [ ] almost all
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+That was quite a ____ for a beginner actor.
+
+- [x] performance
+- [ ] almost a
+- [ ] almost all
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Almost all seats were filled with people ____ for the show.
+
+- [x] waiting
+- [ ] almost a
+- [ ] almost all
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+I am pretty sure we can ____ all the lines by tomorrow.
+
+- [x] memorize
+- [ ] almost a
+- [ ] almost all
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+There's no ____ that she is the most talented dancer in the crew.
+
+- [x] question
+- [ ] almost a
+- [ ] almost all
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+The result might not be as bad as we ____ earlier.
+
+- [x] thought
+- [ ] almost a
+- [ ] almost all
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

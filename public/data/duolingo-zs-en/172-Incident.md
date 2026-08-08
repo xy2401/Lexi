@@ -53,83 +53,176 @@ already, always, amazingly, before, briefly, brochure, cabin, comment, complain,
 
 <quiz-sentence-builder>
 
-1. **中文**：在我意识到丢失钱包之前，我已经托运了行李。  
-   **英文**：I had already checked in my luggage before I realized I lost my wallet.
-   > **解析**：already 为副词，意为“已经”，常置于助动词 had 与过去分词 checked 之间（had already checked in）。
+1. **中文**：当我们赶到车站时，火车已经开走了。
+   **英文**：When we arrived at the station, the train had already left.
+   > **解析**：already 表示“已经”（常用于完成时）。
 
-2. **中文**：由于发动机检查，列车在边境小镇短暂停靠。  
-   **英文**：The train stopped briefly at the border town due to a engine inspection.
-   > **解析**：briefly 为副词，意为“短暂地、简短地”，修饰不及物动词 stopped。
+2. **中文**：令人惊叹地是，无人在这场严重的碰撞事故中受伤。
+   **英文**：Amazingly, no one was injured during the car accident.
+   > **解析**：Amazingly 表示“令人惊叹地/神奇地”。
 
-3. **中文**：旅游总监拒绝就恶劣天气造成的延误发表评论。  
-   **英文**：The tour director refused to comment on the delay caused by the bad weather.
-   > **解析**：comment 为动词/名词，此处作不及物动词（comment on sth.），意为“对某事发表评论”。
+3. **中文**：会议开始前，发言人简短地介绍了背景情况。
+   **英文**：The manager spoke briefly about the project before starting.
+   > **解析**：briefly 表示“简短地/简要地”。
 
-4. **中文**：旅客在通过机场海关时必须申报所有进口商品。  
-   **英文**：Travelers must declare all imported goods when passing through airport customs.
-   > **解析**：customs 为复数名词，意为“海关”。pass through customs 意为“通过海关检查”。
+4. **中文**：游客在前台领取了一份免费的景点宣传册。
+   **英文**：The tourist picked up a colorful travel brochure at the counter.
+   > **解析**：brochure 表示“宣传册/小册子”。
 
-5. **中文**：我们原打算在那家偏远酒店待不超过一个晚上。  
-   **英文**：We did not intend to stay in that remote hotel for more than one night.
-   > **解析**：intend 为及物动词，意为“打算、计划”。常见结构 intend to do sth.（打算做某事）。
+5. **中文**：我们在高山森林深处租了一间温馨的木屋。
+   **英文**：We rented a quiet wooden cabin in the mountains for vacation.
+   > **解析**：cabin 表示“木屋/客舱”。
 
-6. **中文**：在我一生中，我从未经历过如此可怕的飞行颠簸。  
-   **英文**：I have never experienced such terrible flight turbulence in my life.
-   > **解析**：never 为频度副词，意为“从未”，在现在完成时中置于 have/has 与过去分词之间（have never experienced）。
+6. **中文**：请在下方留言区留下你的宝贵评论。
+   **英文**：Feel free to leave a helpful comment on our forum post.
+   > **解析**：comment 表示“评论/意见”。
 
-7. **中文**：在紧急情况下，当地大使馆为滞留游客提供了全程支持。  
-   **英文**：The local embassy provided full support to the stranded tourists during the emergency.
-   > **解析**：support 为不可数/可数名词，意为“支持、协助”。provide support to sb. 意为“给某人提供支持”。
+7. **中文**：多名乘客就严重的误点向航空公司提出了投诉。
+   **英文**：Passengers went to complain about the long flight delay.
+   > **解析**：complain 表示“投诉/抱怨”。
 
-8. **中文**：他在出国旅行时总是随身携带一份打印的行程单副本。  
-   **英文**：He always carries a printed copy of his itinerary while traveling abroad.
-   > **解析**：always 为频度副词，意为“总是、始终”，置于实义动词 carries 之前。
+8. **中文**：经经理核实后，客户取消了那份正式投诉信。
+   **英文**：The customer filed a formal complaint with customer service.
+   > **解析**：complaint 表示“投诉信/抱怨”。
 
-9. **中文**：她在咨询台拿了一份旅游宣传手册以查看当地景点。  
-   **英文**：She picked up a travel brochure at the information counter to check local sights.
-   > **解析**：brochure 为可数名词，意为“宣传册、小册子”。travel brochure 即旅游宣传册。
+9. **中文**：她凭借优异的摄影作品在这次比赛中获得了一等奖。
+   **英文**：She won first prize in the national photo contest yesterday.
+   > **解析**：contest 表示“比赛/竞赛”。
 
-10. **中文**：该乘客就行李丢失事件提出了正式投诉。  
-   **英文**：The passenger filed a formal complaint regarding the lost baggage incident.
-   > **解析**：complaint 为可数名词，意为“投诉、抱怨”。file a complaint 意为“提出投诉”。
+10. **中文**：在入境前，所有入境旅客必须通过海关检查。
+   **英文**：All passengers must pass through customs after landing.
+   > **解析**：customs 表示“海关/海关检查”。
+
+11. **中文**：大家就新项目预算展开了一场深入的讨论。
+   **英文**：We had a long discussion about the upcoming event schedule.
+   > **解析**：discussion 表示“讨论/商讨”。
+
+12. **中文**：站在山顶上，你可以看清远处的城市全景。
+   **英文**：You can see the mountain top clearly from a distance.
+   > **解析**：distance 表示“距离/远方”；from a distance 意为“从远处”。
+
+13. **中文**：我并不打算在此次会议上提出这个敏感话题。
+   **英文**：I do not intend to change my travel plans this week.
+   > **解析**：intend 表示“打算/想要”。
+
+14. **中文**：该品牌的产品在国际上获得了广泛的认可。
+   **英文**：This electronics brand is well known internationally.
+   > **解析**：internationally 表示“在国际上/全球范围地”。
+
+15. **中文**：我以前有一次去过那家著名的法式餐厅。
+   **英文**：I have visited that museum once before with my family.
+   > **解析**：once before 表示“以前有一次”。
+
+16. **中文**：在经历了漫长的暴风雪后，驾驶员安全地回到了家中。
+   **英文**：After the severe storm, everyone arrived home safely.
+   > **解析**：safely 表示“安全地”。
+
+17. **中文**：在旅行期间，我们打算在这家宾馆停留三天。
+   **英文**：We plan to stay at a coastal hotel for three nights.
+   > **解析**：stay 表示“停留/住宿”。
+
+18. **中文**：非常感谢你在我创业初期给予的无私支持。
+   **英文**：Thank you for all your support during the project.
+   > **解析**：support 表示“支持/赞助”。
+
+19. **中文**：虽然时间紧迫，但他还没有完成这篇报告。
+   **英文**：He has not finished writing his final report yet.
+   > **解析**：yet 用于完成时否定句，意为“还/尚未”。
+
+20. **中文**：我刚刚接到客服打来的确认电话。
+   **英文**：I have just received a message from the travel manager.
+   > **解析**：just 表示“刚刚/刚才”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I had already checked in my luggage before I realized I lost my wallet.
-   > **中文**：在我意识到丢失钱包之前，我已经托运了行李。
+1. When we arrived at the station, the train had already left.
+   > **中文**：当我们赶到车站时，火车已经开走了。
 
-2. The train stopped briefly at the border town due to a engine inspection.
-   > **中文**：由于发动机检查，列车在边境小镇短暂停靠。
+2. Amazingly, no one was injured during the car accident.
+   > **中文**：令人惊叹地是，无人在这场严重的碰撞事故中受伤。
 
-3. The tour director refused to comment on the delay caused by the bad weather.
-   > **中文**：旅游总监拒绝就恶劣天气造成的延误发表评论。
+3. The manager spoke briefly about the project before starting.
+   > **中文**：会议开始前，发言人简短地介绍了背景情况。
 
-4. Travelers must declare all imported goods when passing through airport customs.
-   > **中文**：旅客在通过机场海关时必须申报所有进口商品。
+4. The tourist picked up a colorful travel brochure at the counter.
+   > **中文**：游客在前台领取了一份免费的景点宣传册。
 
-5. We did not intend to stay in that remote hotel for more than one night.
-   > **中文**：我们原打算在那家偏远酒店待不超过一个晚上。
+5. We rented a quiet wooden cabin in the mountains for vacation.
+   > **中文**：我们在高山森林深处租了一间温馨的木屋。
 
-6. I have never experienced such terrible flight turbulence in my life.
-   > **中文**：在我一生中，我从未经历过如此可怕的飞行颠簸。
+6. Feel free to leave a helpful comment on our forum post.
+   > **中文**：请在下方留言区留下你的宝贵评论。
 
-7. The local embassy provided full support to the stranded tourists during the emergency.
-   > **中文**：在紧急情况下，当地大使馆为滞留游客提供了全程支持。
+7. Passengers went to complain about the long flight delay.
+   > **中文**：多名乘客就严重的误点向航空公司提出了投诉。
 
-8. He always carries a printed copy of his itinerary while traveling abroad.
-   > **中文**：他在出国旅行时总是随身携带一份打印的行程单副本。
+8. The customer filed a formal complaint with customer service.
+   > **中文**：经经理核实后，客户取消了那份正式投诉信。
 
-9. She picked up a travel brochure at the information counter to check local sights.
-   > **中文**：她在咨询台拿了一份旅游宣传手册以查看当地景点。
+9. She won first prize in the national photo contest yesterday.
+   > **中文**：她凭借优异的摄影作品在这次比赛中获得了一等奖。
 
-10. The passenger filed a formal complaint regarding the lost baggage incident.
-   > **中文**：该乘客就行李丢失事件提出了正式投诉。
+10. All passengers must pass through customs after landing.
+   > **中文**：在入境前，所有入境旅客必须通过海关检查。
+
+11. We had a long discussion about the upcoming event schedule.
+   > **中文**：大家就新项目预算展开了一场深入的讨论。
+
+12. You can see the mountain top clearly from a distance.
+   > **中文**：站在山顶上，你可以看清远处的城市全景。
+
+13. I do not intend to change my travel plans this week.
+   > **中文**：我并不打算在此次会议上提出这个敏感话题。
+
+14. This electronics brand is well known internationally.
+   > **中文**：该品牌的产品在国际上获得了广泛的认可。
+
+15. I have visited that museum once before with my family.
+   > **中文**：我以前有一次去过那家著名的法式餐厅。
+
+16. After the severe storm, everyone arrived home safely.
+   > **中文**：在经历了漫长的暴风雪后，驾驶员安全地回到了家中。
+
+17. We plan to stay at a coastal hotel for three nights.
+   > **中文**：在旅行期间，我们打算在这家宾馆停留三天。
+
+18. Thank you for all your support during the project.
+   > **中文**：非常感谢你在我创业初期给予的无私支持。
+
+19. He has not finished writing his final report yet.
+   > **中文**：虽然时间紧迫，但他还没有完成这篇报告。
+
+20. I have just received a message from the travel manager.
+   > **中文**：我刚刚接到客服打来的确认电话。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| already | 已经 |
+| amazingly | 惊人地 |
+| briefly | 简短地 |
+| brochure | 宣传册 |
+| cabin | 木屋 / 客舱 |
+| comment | 评论 |
+| complain | 投诉 / 抱怨 |
+| complaint | 投诉信 |
+| contest | 竞赛 / 比赛 |
+| customs | 海关 |
+| discussion | 讨论 |
+| distance | 距离 |
+| intend | 打算 / 想要 |
+| internationally | 在国际上 |
+| once before | 以前有一次 |
+| safely | 安全地 |
+| stay | 停留 / 住宿 |
+| support | 支持 |
+| yet | 还（否定句） |
+| just | 刚刚 |
 
 </quiz-matching>
 
@@ -137,102 +230,202 @@ already, always, amazingly, before, briefly, brochure, cabin, comment, complain,
 
 ### 1
 
-I had `____` checked in my luggage before I realized I lost my wallet.
+____ we arrived at the station, the train had already left.
 
-- [x] already
+- [x] When
+- [ ] already
 - [ ] always
-- [ ] brochure
 
-> **解析**：already 为副词，意为“已经”，常置于助动词 had 与过去分词 checked 之间（had already checked in）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The train stopped `____` at the border town due to a engine inspection.
+____, no one was injured during the car accident.
 
-- [x] briefly
+- [x] Amazingly
+- [ ] already
 - [ ] always
-- [ ] cabin
 
-> **解析**：briefly 为副词，意为“短暂地、简短地”，修饰不及物动词 stopped。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The tour director refused to `____` on the delay caused by the bad weather.
+The manager spoke ____ about the project before starting.
 
-- [x] comment
-- [ ] amazingly
-- [ ] cabin
+- [x] briefly
+- [ ] already
+- [ ] always
 
-> **解析**：comment 为动词/名词，此处作不及物动词（comment on sth.），意为“对某事发表评论”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Travelers must declare all imported goods when passing through airport `____`.
+The tourist picked up a colorful travel ____ at the counter.
 
-- [x] customs
-- [ ] before
-- [ ] comment
+- [x] brochure
+- [ ] already
+- [ ] always
 
-> **解析**：customs 为复数名词，意为“海关”。pass through customs 意为“通过海关检查”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-We did not `____` to stay in that remote hotel for more than one night.
+We rented a quiet wooden ____ in the mountains for vacation.
 
-- [x] intend
-- [ ] briefly
-- [ ] complain
+- [x] cabin
+- [ ] already
+- [ ] always
 
-> **解析**：intend 为及物动词，意为“打算、计划”。常见结构 intend to do sth.（打算做某事）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-I have n`____` experienced such terrible flight turbulence in my life.
+Feel free to leave a helpful ____ on our forum post.
 
-- [x] ever
-- [ ] brochure
-- [ ] complaint
+- [x] comment
+- [ ] already
+- [ ] always
 
-> **解析**：never 为频度副词，意为“从未”，在现在完成时中置于 have/has 与过去分词之间（have never experienced）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The local embassy provided full `____` to the stranded tourists during the emergency.
+Passengers went to ____ about the long flight delay.
 
-- [x] support
-- [ ] cabin
-- [ ] contest
+- [x] complain
+- [ ] already
+- [ ] always
 
-> **解析**：support 为不可数/可数名词，意为“支持、协助”。provide support to sb. 意为“给某人提供支持”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-He `____` carries a printed copy of his itinerary while traveling abroad.
+The customer filed a formal ____ with customer service.
 
-- [x] always
-- [ ] complain
-- [ ] discussion
+- [x] complaint
+- [ ] already
+- [ ] always
 
-> **解析**：always 为频度副词，意为“总是、始终”，置于实义动词 carries 之前。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-She picked up a travel `____` at the information counter to check local sights.
+She won first prize in the national photo ____ yesterday.
 
-- [x] brochure
-- [ ] complaint
-- [ ] distance
+- [x] contest
+- [ ] already
+- [ ] always
 
-> **解析**：brochure 为可数名词，意为“宣传册、小册子”。travel brochure 即旅游宣传册。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The passenger filed a formal `____`t regarding the lost baggage incident.
+All passengers must pass through ____ after landing.
 
-- [x] complain
-- [ ] contest
-- [ ] ever
+- [x] customs
+- [ ] already
+- [ ] always
 
-> **解析**：complaint 为可数名词，意为“投诉、抱怨”。file a complaint 意为“提出投诉”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+We had a long ____ about the upcoming event schedule.
+
+- [x] discussion
+- [ ] already
+- [ ] always
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+You can see the mountain top clearly from a ____.
+
+- [x] distance
+- [ ] already
+- [ ] always
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+I do not ____ to change my travel plans this week.
+
+- [x] intend
+- [ ] already
+- [ ] always
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+This electronics brand is well known ____.
+
+- [x] internationally
+- [ ] already
+- [ ] always
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+I have visited that museum once ____ with my family.
+
+- [x] before
+- [ ] already
+- [ ] always
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+After the severe storm, everyone arrived home ____.
+
+- [x] safely
+- [ ] already
+- [ ] always
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+We plan to ____ at a coastal hotel for three nights.
+
+- [x] stay
+- [ ] already
+- [ ] always
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Thank you for all your ____ during the project.
+
+- [x] support
+- [ ] already
+- [ ] always
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+He has not finished writing his final report ____.
+
+- [x] yet
+- [ ] already
+- [ ] always
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+I have ____ received a message from the travel manager.
+
+- [x] just
+- [ ] already
+- [ ] always
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

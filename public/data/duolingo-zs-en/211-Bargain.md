@@ -49,83 +49,176 @@ what to / which / whatever / that 这组疑问词和关系词帮你表达选择�
 
 <quiz-sentence-builder>
 
-1. **中文**：我非常喜欢这件设计师款夹克，但我负担不起按原价购买。  
-   **英文**：I really like this designer jacket, but I cannot afford to buy it at full price.
-   > **解析**：`afford to` 为固定动词短语，后接动词原形（如 `afford to buy`），常与 `can / can't` 或 `could / couldn't` 连用，表示在经济条件或能力上“负担得起做某事”。
+1. **中文**：我负担不起那个奢侈品牌的衣服，太贵了。
+   **英文**：I cannot afford to buy clothes from that luxury brand.
+   > **解析**：afford to 表示负担得起；brand 表示品牌。
 
-2. **中文**：结账时别忘了输入优惠代码以获得折扣。  
-   **英文**：Don't forget to enter the promotional code at checkout to get a discount.
-   > **解析**：`code` 在此处用作可数名词，意为“代码；优惠码”。在购物场景中常与 `promotional` 或 `coupon` 搭配（如 `promo code / coupon code`）。
+2. **中文**：请在5号货架上寻找打折的日用品。
+   **英文**：Please look for items on sale in aisle 5.
+   > **解析**：aisle 表示货架走道；sale 表示促销。
 
-3. **中文**：她穿了一件舒适的复古针织毛衣，在凉爽的秋天里保暖。  
-   **英文**：She wore a cozy vintage knit sweater to keep warm in the cool autumn weather.
-   > **解析**：`knit` 在此处用作前置定语（形容词/名词修饰语），意为“针织的”。`knit sweater` 指“针织毛衣”，亦可作动词表示“编织”。
+3. **中文**：结账时输入这个优惠码可以获得免费配送。
+   **英文**：Enter this coupon code at checkout to get free shipping.
+   > **解析**：coupon code 表示优惠码；shipping 表示运费、发货。
 
-4. **中文**：我先试了一件大码外套，但中号对我来说更合适。  
-   **英文**：I tried on a large coat first, but the medium size fits me much better.
-   > **解析**：`medium` 在此处用作形容词修饰 `size`，表示“中号的；中等的”。在服装号型中常与 `small`（小号）和 `large`（大号）对应。
+4. **中文**：用这个折后价格买到这件夹克真是一笔划算的买卖。
+   **英文**：Buying this jacket at a discount was a really good deal.
+   > **解析**：good deal 表示划算的交易。
 
-5. **中文**：所有冬季鞋款目前都在促销打折，最高享有五折优惠。  
-   **英文**：All winter shoes are currently on sale with up to fifty percent off.
-   > **解析**：`sale` 意为“特卖；促销”。短语 `on sale` 表示“正在打折/促销”，注意与 `for sale`（待售；出售）在含义上的区别。
+5. **中文**：这家店铺的服饰价格非常合理。
+   **英文**：The clothing prices in this shop are very reasonable.
+   > **解析**：reasonable 表示价格合理的。
 
-6. **中文**：这家二手精品店销售来自20世纪80年代的正宗复古服饰。  
-   **英文**：This secondhand boutique sells authentic vintage clothes from the 1980s.
-   > **解析**：`vintage` 在此处用作形容词，表示“复古的；经典的；有年代价值的”，通常指经过岁月沉淀且品质优良的服装或物品。
+6. **中文**：这款复古毛衣的袖口上印有品牌标志。
+   **英文**：The brand logo is printed on the sleeve of this vintage sweater.
+   > **解析**：vintage 表示复古的；logo 表示标志。
 
-7. **中文**：只要有折扣，你可以挑选任何你喜欢的衬衫。  
-   **英文**：You can pick whatever shirt you prefer as long as it is on discount.
-   > **解析**：`whatever` 为关系代词/限定词，表示“无论什么；任何……”。在此处修饰 `shirt` 引导宾语从句，表达毫无限制的选择。
+7. **中文**：这件限量版衬衫不值哪怕一分钱。
+   **英文**：This limited edition shirt is not worth a single penny.
+   > **解析**：limited 表示限量的；penny 表示一分钱。
 
-8. **中文**：你可以在面包区旁边的四号货架通道找到有机食品。  
-   **英文**：You can find organic food products in aisle four next to the bakery section.
-   > **解析**：`aisle` 名词，意为“货架通道；过道”（注意发音中字母 s 不发音 /aɪl/）。在超市、客机或剧院中常用来标示区域号。
+8. **中文**：保安站在服装店的出口附近。
+   **英文**：The security guard stood near the exit of the clothing store.
+   > **解析**：security guard 表示保安。
 
-9. **中文**：请在把洗干净的衣服放入衣柜前整齐地叠好。  
-   **英文**：Please fold your clean laundry neatly before putting it into the wardrobe.
-   > **解析**：`fold` 在此处用作及物动词，意为“折叠；叠好”。常与副词 `neatly`（整齐地）连用，作祈使句谓语。
+9. **中文**：我祖母决定为我缝制一条漂亮的棉布裙子。
+   **英文**：My grandmother decided to sew a beautiful cotton dress for me.
+   > **解析**：sew 表示缝纫、缝制。
 
-10. **中文**：这家商店今天对所有真皮手提包提供限时特惠。  
-   **英文**：The store is offering a limited time offer on all leather handbags today.
-   > **解析**：`limited` 为过去分词转化为形容词，意为“有限的；限量的”。短语 `limited time offer` 意为“限时特惠”。
+10. **中文**：她冬天喜欢在家给家人编织围巾。
+   **英文**：She likes to knit scarves for her family during winter.
+   > **解析**：knit 表示编织。
+
+11. **中文**：放回衣柜之前，请先把干净的衣服折叠好。
+   **英文**：Please fold the clean clothes neatly before putting them away.
+   > **解析**：fold 表示折叠。
+
+12. **中文**：这件中号的夹克对我来说刚刚好。
+   **英文**：This medium jacket fits me perfectly.
+   > **解析**：medium 表示中号的。
+
+13. **中文**：在大打折期间我真的不知道该买些什么。
+   **英文**：I really don't know what to buy during the big sale.
+   > **解析**：what to 后面接动词原形，表示该做什么/买什么。
+
+14. **中文**：无论你选择哪件衬衫，我都觉得很好看。
+   **英文**：Whatever shirt you choose, I think it will look great.
+   > **解析**：whatever 表示无论什么。
+
+15. **中文**：你知道这两款型号中哪一个性价比更高吗？
+   **英文**：Do you know which of these two models is the better offer?
+   > **解析**：which 用于有限选项中的选择，表示哪一个。
+
+16. **中文**：商店提供整周的限时特卖折扣。
+   **英文**：The store offers a limited discount for the entire week.
+   > **解析**：limited 表示有限的、限量的。
+
+17. **中文**：我们在付款前仔细检查了优惠券的有效日期。
+   **英文**：We checked the expiration date on the coupon before paying.
+   > **解析**：coupon 表示优惠券。
+
+18. **中文**：那家知名品牌在市中心开了一家新旗舰店。
+   **英文**：That well-known brand opened a new store downtown.
+   > **解析**：brand 表示品牌。
+
+19. **中文**：这间二手小店里有很多精致的复古物品。
+   **英文**：There are many exquisite vintage items in this secondhand shop.
+   > **解析**：vintage 表示复古的、老式的。
+
+20. **中文**：请把折叠好的外套放在那个大号纸箱里。
+   **英文**：Please put that folded coat into the cardboard box.
+   > **解析**：that 用作指示代词，表示那个。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I really like this designer jacket, but I cannot afford to buy it at full price.
-   > **中文**：我非常喜欢这件设计师款夹克，但我负担不起按原价购买。
+1. I cannot afford to buy clothes from that luxury brand.
+   > **中文**：我负担不起那个奢侈品牌的衣服，太贵了。
 
-2. Don't forget to enter the promotional code at checkout to get a discount.
-   > **中文**：结账时别忘了输入优惠代码以获得折扣。
+2. Please look for items on sale in aisle 5.
+   > **中文**：请在5号货架上寻找打折的日用品。
 
-3. She wore a cozy vintage knit sweater to keep warm in the cool autumn weather.
-   > **中文**：她穿了一件舒适的复古针织毛衣，在凉爽的秋天里保暖。
+3. Enter this coupon code at checkout to get free shipping.
+   > **中文**：结账时输入这个优惠码可以获得免费配送。
 
-4. I tried on a large coat first, but the medium size fits me much better.
-   > **中文**：我先试了一件大码外套，但中号对我来说更合适。
+4. Buying this jacket at a discount was a really good deal.
+   > **中文**：用这个折后价格买到这件夹克真是一笔划算的买卖。
 
-5. All winter shoes are currently on sale with up to fifty percent off.
-   > **中文**：所有冬季鞋款目前都在促销打折，最高享有五折优惠。
+5. The clothing prices in this shop are very reasonable.
+   > **中文**：这家店铺的服饰价格非常合理。
 
-6. This secondhand boutique sells authentic vintage clothes from the 1980s.
-   > **中文**：这家二手精品店销售来自20世纪80年代的正宗复古服饰。
+6. The brand logo is printed on the sleeve of this vintage sweater.
+   > **中文**：这款复古毛衣的袖口上印有品牌标志。
 
-7. You can pick whatever shirt you prefer as long as it is on discount.
-   > **中文**：只要有折扣，你可以挑选任何你喜欢的衬衫。
+7. This limited edition shirt is not worth a single penny.
+   > **中文**：这件限量版衬衫不值哪怕一分钱。
 
-8. You can find organic food products in aisle four next to the bakery section.
-   > **中文**：你可以在面包区旁边的四号货架通道找到有机食品。
+8. The security guard stood near the exit of the clothing store.
+   > **中文**：保安站在服装店的出口附近。
 
-9. Please fold your clean laundry neatly before putting it into the wardrobe.
-   > **中文**：请在把洗干净的衣服放入衣柜前整齐地叠好。
+9. My grandmother decided to sew a beautiful cotton dress for me.
+   > **中文**：我祖母决定为我缝制一条漂亮的棉布裙子。
 
-10. The store is offering a limited time offer on all leather handbags today.
-   > **中文**：这家商店今天对所有真皮手提包提供限时特惠。
+10. She likes to knit scarves for her family during winter.
+   > **中文**：她冬天喜欢在家给家人编织围巾。
+
+11. Please fold the clean clothes neatly before putting them away.
+   > **中文**：放回衣柜之前，请先把干净的衣服折叠好。
+
+12. This medium jacket fits me perfectly.
+   > **中文**：这件中号的夹克对我来说刚刚好。
+
+13. I really don't know what to buy during the big sale.
+   > **中文**：在大打折期间我真的不知道该买些什么。
+
+14. Whatever shirt you choose, I think it will look great.
+   > **中文**：无论你选择哪件衬衫，我都觉得很好看。
+
+15. Do you know which of these two models is the better offer?
+   > **中文**：你知道这两款型号中哪一个性价比更高吗？
+
+16. The store offers a limited discount for the entire week.
+   > **中文**：商店提供整周的限时特卖折扣。
+
+17. We checked the expiration date on the coupon before paying.
+   > **中文**：我们在付款前仔细检查了优惠券的有效日期。
+
+18. That well-known brand opened a new store downtown.
+   > **中文**：那家知名品牌在市中心开了一家新旗舰店。
+
+19. There are many exquisite vintage items in this secondhand shop.
+   > **中文**：这间二手小店里有很多精致的复古物品。
+
+20. Please put that folded coat into the cardboard box.
+   > **中文**：请把折叠好的外套放在那个大号纸箱里。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| afford to | 负担得起 |
+| aisle | 通道；货架走道 |
+| brand | 品牌 |
+| coupon | 优惠券 |
+| good deal | 划算的交易 |
+| logo | 标志；商标 |
+| reasonable | 合理的 |
+| sale | 促销；特卖 |
+| shipping | 运费；发货 |
+| vintage | 复古的；经典的 |
+| security guard | 保安 |
+| knit | 编织；针织 |
+| sew | 缝纫；缝补 |
+| fold | 折叠 |
+| limited | 限量的；有限的 |
+| penny | 分币；一分钱 |
+| medium | 中号的 |
+| whatever | 无论什么 |
+| what to | 该做什么/买什么 |
+| code | 代码；优惠码 |
 
 </quiz-matching>
 
@@ -133,102 +226,202 @@ what to / which / whatever / that 这组疑问词和关系词帮你表达选择�
 
 ### 1
 
-I really like this designer jacket, but I cannot `____` buy it at full price.
+I cannot afford to buy clothes from ____ luxury brand.
 
-- [x] afford to
+- [x] that
+- [ ] afford to
 - [ ] aisle
-- [ ] fold
 
-> **解析**：`afford to` 为固定动词短语，后接动词原形（如 `afford to buy`），常与 `can / can't` 或 `could / couldn't` 连用，表示在经济条件或能力上“负担得起做某事”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Don't forget to enter the promotional `____` at checkout to get a discount.
+Please look for items on ____ in aisle 5.
 
-- [x] code
+- [x] sale
+- [ ] afford to
 - [ ] aisle
-- [ ] good deal
 
-> **解析**：`code` 在此处用作可数名词，意为“代码；优惠码”。在购物场景中常与 `promotional` 或 `coupon` 搭配（如 `promo code / coupon code`）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-She wore a cozy vintage `____` sweater to keep warm in the cool autumn weather.
+Enter this ____ code at checkout to get free shipping.
 
-- [x] knit
-- [ ] brand
-- [ ] good deal
+- [x] coupon
+- [ ] afford to
+- [ ] aisle
 
-> **解析**：`knit` 在此处用作前置定语（形容词/名词修饰语），意为“针织的”。`knit sweater` 指“针织毛衣”，亦可作动词表示“编织”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-I tried on a large coat first, but the `____` size fits me much better.
+Buying this jacket at a ____ was a really good deal.
 
-- [x] medium
-- [ ] code
-- [ ] knit
+- [x] discount
+- [ ] afford to
+- [ ] aisle
 
-> **解析**：`medium` 在此处用作形容词修饰 `size`，表示“中号的；中等的”。在服装号型中常与 `small`（小号）和 `large`（大号）对应。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-All winter shoes are currently on `____` with up to fifty percent off.
+The clothing prices in this shop are very ____.
 
-- [x] sale
-- [ ] coupon
-- [ ] limited
+- [x] reasonable
+- [ ] afford to
+- [ ] aisle
 
-> **解析**：`sale` 意为“特卖；促销”。短语 `on sale` 表示“正在打折/促销”，注意与 `for sale`（待售；出售）在含义上的区别。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-This secondhand boutique sells authentic `____` clothes from the 1980s.
+The ____ logo is printed on the sleeve of this vintage sweater.
 
-- [x] vintage
-- [ ] fold
-- [ ] logo
+- [x] brand
+- [ ] afford to
+- [ ] aisle
 
-> **解析**：`vintage` 在此处用作形容词，表示“复古的；经典的；有年代价值的”，通常指经过岁月沉淀且品质优良的服装或物品。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-You can pick `____`ever shirt you prefer as long as it is on discount.
+This ____ edition shirt is not worth a single penny.
 
-- [x] what
-- [ ] good deal
-- [ ] medium
+- [x] limited
+- [ ] afford to
+- [ ] aisle
 
-> **解析**：`whatever` 为关系代词/限定词，表示“无论什么；任何……”。在此处修饰 `shirt` 引导宾语从句，表达毫无限制的选择。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-You can find organic food products in `____` four next to the bakery section.
+The ____ guard stood near the exit of the clothing store.
 
-- [x] aisle
-- [ ] limited
-- [ ] reasonable
+- [x] security
+- [ ] afford to
+- [ ] aisle
 
-> **解析**：`aisle` 名词，意为“货架通道；过道”（注意发音中字母 s 不发音 /aɪl/）。在超市、客机或剧院中常用来标示区域号。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Please `____` your clean laundry neatly before putting it into the wardrobe.
+My grandmother decided to ____ a beautiful cotton dress for me.
 
-- [x] fold
-- [ ] logo
-- [ ] sale
+- [x] sew
+- [ ] afford to
+- [ ] aisle
 
-> **解析**：`fold` 在此处用作及物动词，意为“折叠；叠好”。常与副词 `neatly`（整齐地）连用，作祈使句谓语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The store is offering a `____` time offer on all leather handbags today.
+She likes to ____ scarves for her family during winter.
+
+- [x] knit
+- [ ] afford to
+- [ ] aisle
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Please ____ the clean clothes neatly before putting them away.
+
+- [x] fold
+- [ ] afford to
+- [ ] aisle
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+This ____ jacket fits me perfectly.
+
+- [x] medium
+- [ ] afford to
+- [ ] aisle
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+I really don't know ____ to buy during the big sale.
+
+- [x] what
+- [ ] afford to
+- [ ] aisle
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+____ shirt you choose, I think it will look great.
+
+- [x] Whatever
+- [ ] afford to
+- [ ] aisle
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Do you know ____ of these two models is the better offer?
+
+- [x] which
+- [ ] afford to
+- [ ] aisle
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The store offers a ____ discount for the entire week.
 
 - [x] limited
-- [ ] medium
-- [ ] security guard
+- [ ] afford to
+- [ ] aisle
 
-> **解析**：`limited` 为过去分词转化为形容词，意为“有限的；限量的”。短语 `limited time offer` 意为“限时特惠”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+We checked the expiration date on the ____ before paying.
+
+- [x] coupon
+- [ ] afford to
+- [ ] aisle
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+____ well-known brand opened a new store downtown.
+
+- [x] That
+- [ ] afford to
+- [ ] aisle
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+There are many exquisite ____ items in this secondhand shop.
+
+- [x] vintage
+- [ ] afford to
+- [ ] aisle
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Please put ____ folded coat into the cardboard box.
+
+- [x] that
+- [ ] afford to
+- [ ] aisle
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

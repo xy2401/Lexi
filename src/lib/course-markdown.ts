@@ -120,18 +120,18 @@ export function validateCourseDocument(document: CourseDocument, file = 'course.
   if (document.quizzes.length !== 7) add(`每个单元必须正好有 7 个关卡，当前 ${document.quizzes.length}`)
 
   const listening = document.quizzes.find((quiz): quiz is ListeningQuiz => quiz.type === 'listening')
-  if (listening && (listening.items.length !== 10 || listening.items.some(item => !item.chinese))) {
-    add('Listening 必须正好包含 10 道带中文的题目')
+  if (listening && (listening.items.length !== 20 || listening.items.some(item => !item.chinese))) {
+    add('Listening 必须正好包含 20 道带中文的题目')
   }
   const sentences = new Set((listening?.items || []).map(item => normalizeSentence(item.english)))
   const builder = document.quizzes.find((quiz): quiz is SentenceBuilderQuiz => quiz.type === 'sentence-builder')
-  if (builder && (builder.items.length !== 10 || builder.items.some(item => !sentences.has(normalizeSentence(item.english))))) {
-    add('Sentence Builder 必须包含 10 题，且每题复用 Listening 句子')
+  if (builder && (builder.items.length !== 20 || builder.items.some(item => !sentences.has(normalizeSentence(item.english))))) {
+    add('Sentence Builder 必须包含 20 题，且每题复用 Listening 句子')
   }
 
   const cloze = document.quizzes.find((quiz): quiz is ClozeQuiz => quiz.type === 'cloze')
   if (cloze) {
-    if (cloze.items.length !== 10) add('Cloze 必须正好包含 10 题')
+    if (cloze.items.length !== 20) add('Cloze 必须正好包含 20 题')
     for (const item of cloze.items) {
       const correct = item.options.find(option => option.correct)?.text || ''
       if ((item.prompt.match(/____/g) || []).length !== 1 || item.options.length !== 3 || item.options.filter(option => option.correct).length !== 1) {
@@ -142,7 +142,7 @@ export function validateCourseDocument(document: CourseDocument, file = 'course.
     }
   }
   const matching = document.quizzes.find((quiz): quiz is MatchingQuiz => quiz.type === 'matching')
-  if (matching && matching.itemCount < 10) add('Matching 至少需要 10 组配对')
+  if (matching && matching.itemCount < 20) add('Matching 至少需要 20 组配对')
   return errors
 }
 
@@ -352,8 +352,8 @@ export function parseCourseMarkdown(source: string, filename = 'course.md'): Cou
 
     if (type === 'listening') {
       const items = parseListening(block.body)
-      if (items.length !== 10 || items.some(item => !item.chinese)) {
-        diagnostics.push(`${filename}:${block.line} 听音辨句需要正好 10 道含中文释义的题目`)
+      if (items.length !== 20 || items.some(item => !item.chinese)) {
+        diagnostics.push(`${filename}:${block.line} 听音辨句需要正好 20 道含中文释义的题目`)
       }
       quizzes.push({ ...makeBase(type, index, items.length), type, items })
       continue
@@ -361,7 +361,7 @@ export function parseCourseMarkdown(source: string, filename = 'course.md'): Cou
 
     if (type === 'matching') {
       const pairs = parseMatching(block.body)
-      if (block.body && pairs.length < 10) diagnostics.push(`${filename}:${block.line} Matching 至少需要 10 组配对`)
+      if (block.body && pairs.length < 20) diagnostics.push(`${filename}:${block.line} Matching 至少需要 20 组配对`)
       quizzes.push({
         ...makeBase(type, index, pairs.length || Math.min(10, words.length)),
         type,

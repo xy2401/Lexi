@@ -79,83 +79,176 @@ the trouble with（……的问题在于）、point of view（观点）、play a
 
 <quiz-sentence-builder>
 
-1. **中文**：在没有提供明确证据的情况下，你不能指责他撒谎。  
-   **英文**：You cannot accuse him of lying without providing clear proof.
-   > **解析**：`accuse sb of doing sth` 是固定搭配，意为“指控/指责某人做了某事”。
+1. **中文**：不要未经证实就公开指责朋友背叛信任。
+   **英文**：You shouldn't accuse your best friend of betraying your trust without proof.
+   > **解析**：accuse 表示指责、控告。
 
-2. **中文**：他最终承认是他打破了窗户。  
-   **英文**：He finally confessed that he was the one who broke the window.
-   > **解析**：`confess` 作动词，意为“承认、供认”，后接 `that` 引导的宾语从句。
+2. **中文**：经历漫长的心态挣扎后，他终于决定坦白真相。
+   **英文**：After hiding the secret for weeks, he decided to confess everything.
+   > **解析**：confess 表示坦白、承认。
 
-3. **中文**：她厌倦了他无休止的借口，决定离开。  
-   **英文**：She was fed up with his endless excuses and decided to leave.
-   > **解析**：`be fed up with sth/sb` 是形容词短语，意为“对……感到厌烦/受够了”。
+3. **中文**：他在一个浪漫的晚宴上向相恋多年的女朋友求婚。
+   **英文**：He decided to propose to his girlfriend during a candlelit dinner.
+   > **解析**：propose 表示求婚、提议。
 
-4. **中文**：就我所知，经理还没有做出最终决定。  
-   **英文**：As far as I know, the manager has not made a final decision yet.
-   > **解析**：`as far as I know` 是限定短语，意为“据我所知”，说明信息来源有限。
+4. **中文**：面对不合理的要求，她果断地选择了拒绝。
+   **英文**：She had every right to refuse to cooperate with unreasonable demands.
+   > **解析**：refuse 表示拒绝。
 
-5. **中文**：在我看来，双方都提出了合理的论点。  
-   **英文**：From my point of view, both sides made reasonable arguments.
-   > **解析**：`from one's point of view` 是固定介词短语，意为“从某人的角度/观点来看”。
+5. **中文**：关于他们分手的传言在朋友之间迅速传播开来。
+   **英文**：A sudden rumor about their painful breakup spread among mutual friends.
+   > **解析**：rumor 表示传言；breakup 表示分手。
 
-6. **中文**：在这样恶劣的环境中工作对你的心理健康有害。  
-   **英文**：Working in such a toxic environment is bad for your mental health.
-   > **解析**：`toxic` 此处引申为“恶劣的、有毒的（环境/关系）”。
+6. **中文**：摆脱一段有害的感情关系对身心健康至关重要。
+   **英文**：Walking away from a toxic relationship is essential for mental health.
+   > **解析**：toxic 表示有害的、不良的。
 
-7. **中文**：他拒绝回答有关那篇争议帖子的任何问题。  
-   **英文**：He refused to answer any questions regarding the controversial post.
-   > **解析**：`refuse to do sth` 是动词搭配，意为“拒绝做某事”。
+7. **中文**：我对自己未经考证的解释持高度怀疑的态度。
+   **英文**：I remain deeply doubtful about the explanation offered by management.
+   > **解析**：doubtful 表示怀疑的、不确定的。
 
-8. **中文**：她立场的突然转变引发了同事们的怀疑。  
-   **英文**：Her sudden change of opinion raised suspicion among her colleagues.
-   > **解析**：`suspicion` 是名词，意为“怀疑、猜疑”，搭配 `raise suspicion`。
+8. **中文**：他对自己这种反复无常的态度已经彻底受够了。
+   **英文**：She was completely fed up with his endless excuses for being late.
+   > **解析**：fed up 表示受够了、厌烦。
 
-9. **中文**：团队能否在截止日期前完成项目是令人怀疑的。  
-   **英文**：It is doubtful whether the team can finish the project before deadline.
-   > **解析**：`doubtful` 是形容词，句型 `It is doubtful whether...`（……令人怀疑）。
+9. **中文**：你提出的这个观点在讨论中是非常合理有效的。
+   **英文**：You raised a very valid point that deserves careful consideration.
+   > **解析**：valid 表示合理的、有效的；consideration 表示考虑。
 
-10. **中文**：他的问题在于他从不承担责任。  
-   **英文**：The trouble with him is that he never takes responsibility.
-   > **解析**：`the trouble with sb is that...` 是用于指出问题所在的主从复合句型。
+10. **中文**：获得父母的赞同能让他们在做决定时更有信心。
+   **英文**：Getting their parents' approval gave the couple great confidence.
+   > **解析**：approval 表示赞同、批准。
+
+11. **中文**：误会引发的强烈猜疑破坏了原本融洽的友情。
+   **英文**：Constant suspicion destroyed the trust between the business partners.
+   > **解析**：suspicion 表示猜疑、怀疑。
+
+12. **中文**：站在对方的观点立场思考有助于化解日常矛盾。
+   **英文**：Trying to see things from her point of view helps resolve conflict.
+   > **解析**：point of view 表示观点、立场。
+
+13. **中文**：误解与沟通不畅在这次冲突中起到了推波助澜的作用。
+   **英文**：Miscommunication played a part in making the argument escalate.
+   > **解析**：play a part 表示起作用、扮演角色。
+
+14. **中文**：这种沟通方式的麻烦在于双方都不愿先倾听。
+   **英文**：The trouble with this argument is that neither side listens.
+   > **解析**：the trouble with 表示……的麻烦在于。
+
+15. **中文**：据我所知，他们俩最近已经重新合好了。
+   **英文**：As far as I know, they have already made up after the fight.
+   > **解析**：as far as i know 表示据我所知。
+
+16. **中文**：这个问题其实已经困扰团队好长一段时间了。
+   **英文**：This issue has been causing friction for a while now.
+   > **解析**：for a while now 表示已经有一段时间了。
+
+17. **中文**：只有我这样觉得吗？这出剧的剧情走向太令人意外了。
+   **英文**：Is it just me, or is the dialogue in this scene super dramatic?
+   > **解析**：is it just me 用于询问他人是否也有同感，意为只有我这样觉得吗。
+
+18. **中文**：经过长谈之后，你对目前的情况感觉好一些了吗？
+   **英文**：Do you feel any better about the decision after speaking with her?
+   > **解析**：feel any better about 表示对……感觉好一些。
+
+19. **中文**：只要是关于这件事的一切，我都愿意如实说明。
+   **英文**：I am ready to clarify everything that happened during the meeting.
+   > **解析**：everything that 表示关于……的一切。
+
+20. **中文**：在了解全部事实之前，我们不应当做出任何断言。
+   **英文**：We shouldn't jump to conclusions without knowing anything solid.
+   > **解析**：anything 表示任何事物。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. You cannot accuse him of lying without providing clear proof.
-   > **中文**：在没有提供明确证据的情况下，你不能指责他撒谎。
+1. You shouldn't accuse your best friend of betraying your trust without proof.
+   > **中文**：不要未经证实就公开指责朋友背叛信任。
 
-2. He finally confessed that he was the one who broke the window.
-   > **中文**：他最终承认是他打破了窗户。
+2. After hiding the secret for weeks, he decided to confess everything.
+   > **中文**：经历漫长的心态挣扎后，他终于决定坦白真相。
 
-3. She was fed up with his endless excuses and decided to leave.
-   > **中文**：她厌倦了他无休止的借口，决定离开。
+3. He decided to propose to his girlfriend during a candlelit dinner.
+   > **中文**：他在一个浪漫的晚宴上向相恋多年的女朋友求婚。
 
-4. As far as I know, the manager has not made a final decision yet.
-   > **中文**：就我所知，经理还没有做出最终决定。
+4. She had every right to refuse to cooperate with unreasonable demands.
+   > **中文**：面对不合理的要求，她果断地选择了拒绝。
 
-5. From my point of view, both sides made reasonable arguments.
-   > **中文**：在我看来，双方都提出了合理的论点。
+5. A sudden rumor about their painful breakup spread among mutual friends.
+   > **中文**：关于他们分手的传言在朋友之间迅速传播开来。
 
-6. Working in such a toxic environment is bad for your mental health.
-   > **中文**：在这样恶劣的环境中工作对你的心理健康有害。
+6. Walking away from a toxic relationship is essential for mental health.
+   > **中文**：摆脱一段有害的感情关系对身心健康至关重要。
 
-7. He refused to answer any questions regarding the controversial post.
-   > **中文**：他拒绝回答有关那篇争议帖子的任何问题。
+7. I remain deeply doubtful about the explanation offered by management.
+   > **中文**：我对自己未经考证的解释持高度怀疑的态度。
 
-8. Her sudden change of opinion raised suspicion among her colleagues.
-   > **中文**：她立场的突然转变引发了同事们的怀疑。
+8. She was completely fed up with his endless excuses for being late.
+   > **中文**：他对自己这种反复无常的态度已经彻底受够了。
 
-9. It is doubtful whether the team can finish the project before deadline.
-   > **中文**：团队能否在截止日期前完成项目是令人怀疑的。
+9. You raised a very valid point that deserves careful consideration.
+   > **中文**：你提出的这个观点在讨论中是非常合理有效的。
 
-10. The trouble with him is that he never takes responsibility.
-   > **中文**：他的问题在于他从不承担责任。
+10. Getting their parents' approval gave the couple great confidence.
+   > **中文**：获得父母的赞同能让他们在做决定时更有信心。
+
+11. Constant suspicion destroyed the trust between the business partners.
+   > **中文**：误会引发的强烈猜疑破坏了原本融洽的友情。
+
+12. Trying to see things from her point of view helps resolve conflict.
+   > **中文**：站在对方的观点立场思考有助于化解日常矛盾。
+
+13. Miscommunication played a part in making the argument escalate.
+   > **中文**：误解与沟通不畅在这次冲突中起到了推波助澜的作用。
+
+14. The trouble with this argument is that neither side listens.
+   > **中文**：这种沟通方式的麻烦在于双方都不愿先倾听。
+
+15. As far as I know, they have already made up after the fight.
+   > **中文**：据我所知，他们俩最近已经重新合好了。
+
+16. This issue has been causing friction for a while now.
+   > **中文**：这个问题其实已经困扰团队好长一段时间了。
+
+17. Is it just me, or is the dialogue in this scene super dramatic?
+   > **中文**：只有我这样觉得吗？这出剧的剧情走向太令人意外了。
+
+18. Do you feel any better about the decision after speaking with her?
+   > **中文**：经过长谈之后，你对目前的情况感觉好一些了吗？
+
+19. I am ready to clarify everything that happened during the meeting.
+   > **中文**：只要是关于这件事的一切，我都愿意如实说明。
+
+20. We shouldn't jump to conclusions without knowing anything solid.
+   > **中文**：在了解全部事实之前，我们不应当做出任何断言。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| accuse | 指责；控告 |
+| confess | 坦白；承认 |
+| propose | 提议；求婚 |
+| refuse | 拒绝 |
+| rumor | 传闻；谣言 |
+| breakup | 分手；破裂 |
+| toxic | 有毒的；有害的（关系） |
+| doubtful | 怀疑的；不确定的 |
+| fed up | 受够了；厌烦 |
+| valid | 有效的；合理的 |
+| approval | 赞同；批准 |
+| consideration | 考虑；体谅 |
+| suspicion | 怀疑；猜疑 |
+| point of view | 观点；立场 |
+| play a part | 起作用；扮演角色 |
+| the trouble with | ……的麻烦在于 |
+| as far as i know | 据我所知 |
+| for a while now | 已经有一段时间了 |
+| is it just me | 只有我这样觉得吗 |
+| feel any better about | 对……感觉好一些 |
 
 </quiz-matching>
 
@@ -163,102 +256,202 @@ the trouble with（……的问题在于）、point of view（观点）、play a
 
 ### 1
 
-You cannot `____` him of lying without providing clear proof.
+You shouldn't ____ your best friend of betraying your trust without proof.
 
 - [x] accuse
 - [ ] anything
-- [ ] confess
+- [ ] approval
 
-> **解析**：`accuse sb of doing sth` 是固定搭配，意为“指控/指责某人做了某事”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-He finally `____`ed that he was the one who broke the window.
+After hiding the secret for weeks, he decided to ____ everything.
 
 - [x] confess
+- [ ] accuse
 - [ ] anything
-- [ ] consideration
 
-> **解析**：`confess` 作动词，意为“承认、供认”，后接 `that` 引导的宾语从句。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-She was `____` with his endless excuses and decided to leave.
+He decided to ____ to his girlfriend during a candlelit dinner.
 
-- [x] fed up
-- [ ] approval
-- [ ] consideration
+- [x] propose
+- [ ] accuse
+- [ ] anything
 
-> **解析**：`be fed up with sth/sb` 是形容词短语，意为“对……感到厌烦/受够了”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-`____`, the manager has not made a final decision yet.
+She had every right to ____ to cooperate with unreasonable demands.
 
-- [x] as far as i know
-- [ ] breakup
-- [ ] everything that
+- [x] refuse
+- [ ] accuse
+- [ ] anything
 
-> **解析**：`as far as I know` 是限定短语，意为“据我所知”，说明信息来源有限。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-From my `____`, both sides made reasonable arguments.
+A sudden ____ about their painful breakup spread among mutual friends.
 
-- [x] point of view
-- [ ] breakup
-- [ ] everything that
+- [x] rumor
+- [ ] accuse
+- [ ] anything
 
-> **解析**：`from one's point of view` 是固定介词短语，意为“从某人的角度/观点来看”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Working in such a `____` environment is bad for your mental health.
+Walking away from a ____ relationship is essential for mental health.
 
 - [x] toxic
-- [ ] confess
-- [ ] fed up
+- [ ] accuse
+- [ ] anything
 
-> **解析**：`toxic` 此处引申为“恶劣的、有毒的（环境/关系）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-He refused to answer any questions regarding the contr`____`sial post.
+I remain deeply ____ about the explanation offered by management.
 
-- [x] over
-- [ ] consideration
-- [ ] feel any better about
+- [x] doubtful
+- [ ] accuse
+- [ ] anything
 
-> **解析**：`refuse to do sth` 是动词搭配，意为“拒绝做某事”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Her sudden change of opinion raised `____` among her colleagues.
+She was ____ fed up with his endless excuses for being late.
 
-- [x] suspicion
-- [ ] doubtful
-- [ ] for a while now
+- [x] completely
+- [ ] accuse
+- [ ] anything
 
-> **解析**：`suspicion` 是名词，意为“怀疑、猜疑”，搭配 `raise suspicion`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-It is `____` whether the team can finish the project before deadline.
+You raised a very ____ point that deserves careful consideration.
 
-- [x] doubtful
-- [ ] fed up
-- [ ] nothing
+- [x] valid
+- [ ] accuse
+- [ ] anything
 
-> **解析**：`doubtful` 是形容词，句型 `It is doubtful whether...`（……令人怀疑）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-`____` him is that he never takes responsibility.
+Getting their parents' ____ gave the couple great confidence.
 
-- [x] the trouble with
-- [ ] fed up
-- [ ] nothing
+- [x] approval
+- [ ] accuse
+- [ ] anything
 
-> **解析**：`the trouble with sb is that...` 是用于指出问题所在的主从复合句型。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Constant ____ destroyed the trust between the business partners.
+
+- [x] suspicion
+- [ ] accuse
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Trying to see things from her point of view helps resolve ____.
+
+- [x] conflict
+- [ ] accuse
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+____ played a part in making the argument escalate.
+
+- [x] Miscommunication
+- [ ] accuse
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The trouble with this ____ is that neither side listens.
+
+- [x] argument
+- [ ] accuse
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+As far as I know, they have ____ made up after the fight.
+
+- [x] already
+- [ ] accuse
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+This issue has been causing ____ for a while now.
+
+- [x] friction
+- [ ] accuse
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Is it just me, or is the ____ in this scene super dramatic?
+
+- [x] dialogue
+- [ ] accuse
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Do you feel any better about the ____ after speaking with her?
+
+- [x] decision
+- [ ] accuse
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+I am ready to clarify ____ that happened during the meeting.
+
+- [x] everything
+- [ ] accuse
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+We shouldn't jump to conclusions without knowing ____ solid.
+
+- [x] anything
+- [ ] accuse
+- [ ] approval
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

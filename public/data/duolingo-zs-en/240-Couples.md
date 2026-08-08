@@ -59,83 +59,176 @@ a whole lot, agreement, an open mind, envy, eventually, frustration, gossip, in 
 
 <quiz-sentence-builder>
 
-1. **中文**：在我们开始坦诚交流后，我们之间的沟通改善了许多（一大截）。  
-   **英文**：Communication between us has improved a whole lot after we started talking openly.
-   > **解析**：`a whole lot` 为口语强调副词短语，意为“许多；非常”，修饰动词 `improved`。
+1. **中文**：我们过去常常频繁争吵，但现在我们去看关系咨询师。
+   **英文**：We used to argue a whole lot, but now we see a relationship therapist.
+   > **解析**：therapist 意为治疗师、心理咨询师。
 
-2. **中文**：通过耐心与理解，他们最终化解了长久以来的冲突。  
-   **英文**：Through patience and understanding, they eventually resolved their long-standing conflicts.
-   > **解析**：`eventually` 副词，意为“最终；终于”，强调经过努力或漫长过程后的结果。
+2. **中文**：情侣心理治疗帮助我们取得了相互的一致意见。
+   **英文**：Couples therapy helped us reach a mutual agreement.
+   > **解析**：therapy 意为心理治疗、咨询。
 
-3. **中文**：如果你今天感到精疲力竭，既然那样，我们可以留在家中点外卖。  
-   **英文**：If you feel exhausted today, in that case, we can stay home and order takeout.
-   > **解析**：`in that case` 为条件插入表达，意为“既然那样；如果是那种情况的话”。
+3. **中文**：你应该保持开放的心态，而不是快速做出判断。
+   **英文**：You ought to keep an open mind instead of making quick judgments.
+   > **解析**：an open mind 意为开放的心态。
 
-4. **中文**：他为昨天激烈争吵中做出的冒犯性言论真诚道歉。  
-   **英文**：He apologized sincerely for his offensive remark during yesterday's heated argument.
-   > **解析**：`offensive` 形容词，意为“冒犯的；无礼的；令人不快的”。修饰 `remark`。
+4. **中文**：她的挫败感是可以理解的，但她的要求是不讲理的。
+   **英文**：Her frustration was understandable, but her demand was unreasonable.
+   > **解析**：unreasonable 意为不讲理的。
 
-5. **中文**：夫妻/伴侣之间应当带着同理心倾听对方，而不是接连打断。  
-   **英文**：Couples should listen to each other with empathy rather than interrupting constantly.
-   > **解析**：`should` 情态动词，用于给出关于相处与关系的建设性建议（意为“应当；应该”）。
+5. **中文**：我们不妨停止传播关于邻居的八卦。
+   **英文**：We might as well stop spreading gossip about our neighbors.
+   > **解析**：gossip 意为八卦、闲话。
 
-6. **中文**：他们决定咨询专业的婚姻治疗师以化解他们的分歧。  
-   **英文**：They decided to consult a professional marriage therapist to work through their differences.
-   > **解析**：`therapist` 可数名词，意为“治疗师；心理咨询师”。`marriage therapist`（婚姻治疗师）。
+6. **中文**：那样的话，这次我就相信你说的话。
+   **英文**：In that case, I will take your word for it this time.
+   > **解析**：take your word for it 意为相信你说的话。
 
-7. **中文**：我们过去常常为微小的家务争吵，但现在我们平均分担责任。  
-   **英文**：We used to argue over small household chores, but now we split responsibilities evenly.
-   > **解析**：`used to do sth.` 结构，表示过去经常做某事或过去习惯的状态（现在已不再如此）。
+7. **中文**：人们往往会看不起那些经常对伴侣大喊大叫的人。
+   **英文**：People tend to look down on those who constantly yell at their partners.
+   > **解析**：look down on 意为看不起、蔑视。
 
-8. **中文**：这对夫妇达成了一致协议，每个周末都陪伴对方度过优质时光。  
-   **英文**：The couple reached a mutual agreement to spend quality time together every weekend.
-   > **解析**：`agreement` 可数/不可数名词，意为“协议；一致”。搭配 `reach an agreement`（达成协议）。
+8. **中文**：谁在乎别人对我们的生活方式选择怎么看？
+   **英文**：Who cares what others think about our lifestyle choices?
+   > **解析**：who cares 意为谁在乎。
 
-9. **中文**：平静地表达你的挫败感/沮丧有助于防止微小的误解演变成大问题。  
-   **英文**：Expressing your frustration calmly helps prevent small misunderstandings from blowing up.
-   > **解析**：`frustration` 不可数/可数名词，意为“挫败感；沮丧；烦恼”。
+9. **中文**：觉得他的言论具有冒犯性，她实际上拒绝和他说话。
+   **英文**：Finding his comments offensive, she practically refused to talk to him.
+   > **解析**：offensive 意为冒犯的。
 
-10. **中文**：既然我们今晚都有空，我们不妨出去吃一顿浪漫的晚餐。  
-   **英文**：Since we are both free tonight, we might as well go out for a romantic dinner.
-   > **解析**：`might as well do sth.` 为固定结构，意为“不妨做某事；还不如去做某事”，表示提出一种自然顺理成章的合理提议。
+10. **中文**：对别人的成功感到嫉妒是荒谬的。
+   **英文**：It is ridiculous to feel envy over someone else's success.
+   > **解析**：ridiculous 意为荒谬的。
+
+11. **中文**：最终，我们意识到我们应该更坦诚地沟通。
+   **英文**：Eventually, we realized that we should communicate more openly.
+   > **解析**：eventually 意为最终。
+
+12. **中文**：我们需要和平解决这个冲突，而不是大喊大叫。
+   **英文**：We need to solve this conflict peacefully without yelling.
+   > **解析**：yell 意为大喊大叫。
+
+13. **中文**：我过去认为情侣咨询是没有必要的。
+   **英文**：I used to think couples therapy was unnecessary.
+   > **解析**：used to 意为过去常常。
+
+14. **中文**：你不应该看不起寻求帮助的人。
+   **英文**：You should not look down on people who ask for help.
+   > **解析**：look down on 意为看不起。
+
+15. **中文**：那样的话，我们不妨今天给治疗师打电话。
+   **英文**：In that case, we might as well call the therapist today.
+   > **解析**：might as well 意为不妨、干脆。
+
+16. **中文**：在讨论过程中，她感受到了极大的挫败感。
+   **英文**：She felt a whole lot of frustration during the discussion.
+   > **解析**：frustration 意为挫败感。
+
+17. **中文**：期望任何人完美都是不切实际的。
+   **英文**：It is unreasonable to expect perfection from anyone.
+   > **解析**：unreasonable 意为不理智的、不切实际的。
+
+18. **中文**：经过长时间的交谈，他们达成了一致意见。
+   **英文**：They reached an agreement after a long conversation.
+   > **解析**：agreement 意为一致意见、协议。
+
+19. **中文**：他往往通过讽刺性的言辞来表达他的嫉妒。
+   **英文**：He tends to express his envy through sarcastic remarks.
+   > **解析**：envy 意为嫉妒。
+
+20. **中文**：谁在乎一开始听起来是不是有点荒谬呢？
+   **英文**：Who cares if it sounds a bit ridiculous at first?
+   > **解析**：ridiculous 意为荒谬的。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Communication between us has improved a whole lot after we started talking openly.
-   > **中文**：在我们开始坦诚交流后，我们之间的沟通改善了许多（一大截）。
+1. We used to argue a whole lot, but now we see a relationship therapist.
+   > **中文**：我们过去常常频繁争吵，但现在我们去看关系咨询师。
 
-2. Through patience and understanding, they eventually resolved their long-standing conflicts.
-   > **中文**：通过耐心与理解，他们最终化解了长久以来的冲突。
+2. Couples therapy helped us reach a mutual agreement.
+   > **中文**：情侣心理治疗帮助我们取得了相互的一致意见。
 
-3. If you feel exhausted today, in that case, we can stay home and order takeout.
-   > **中文**：如果你今天感到精疲力竭，既然那样，我们可以留在家中点外卖。
+3. You ought to keep an open mind instead of making quick judgments.
+   > **中文**：你应该保持开放的心态，而不是快速做出判断。
 
-4. He apologized sincerely for his offensive remark during yesterday's heated argument.
-   > **中文**：他为昨天激烈争吵中做出的冒犯性言论真诚道歉。
+4. Her frustration was understandable, but her demand was unreasonable.
+   > **中文**：她的挫败感是可以理解的，但她的要求是不讲理的。
 
-5. Couples should listen to each other with empathy rather than interrupting constantly.
-   > **中文**：夫妻/伴侣之间应当带着同理心倾听对方，而不是接连打断。
+5. We might as well stop spreading gossip about our neighbors.
+   > **中文**：我们不妨停止传播关于邻居的八卦。
 
-6. They decided to consult a professional marriage therapist to work through their differences.
-   > **中文**：他们决定咨询专业的婚姻治疗师以化解他们的分歧。
+6. In that case, I will take your word for it this time.
+   > **中文**：那样的话，这次我就相信你说的话。
 
-7. We used to argue over small household chores, but now we split responsibilities evenly.
-   > **中文**：我们过去常常为微小的家务争吵，但现在我们平均分担责任。
+7. People tend to look down on those who constantly yell at their partners.
+   > **中文**：人们往往会看不起那些经常对伴侣大喊大叫的人。
 
-8. The couple reached a mutual agreement to spend quality time together every weekend.
-   > **中文**：这对夫妇达成了一致协议，每个周末都陪伴对方度过优质时光。
+8. Who cares what others think about our lifestyle choices?
+   > **中文**：谁在乎别人对我们的生活方式选择怎么看？
 
-9. Expressing your frustration calmly helps prevent small misunderstandings from blowing up.
-   > **中文**：平静地表达你的挫败感/沮丧有助于防止微小的误解演变成大问题。
+9. Finding his comments offensive, she practically refused to talk to him.
+   > **中文**：觉得他的言论具有冒犯性，她实际上拒绝和他说话。
 
-10. Since we are both free tonight, we might as well go out for a romantic dinner.
-   > **中文**：既然我们今晚都有空，我们不妨出去吃一顿浪漫的晚餐。
+10. It is ridiculous to feel envy over someone else's success.
+   > **中文**：对别人的成功感到嫉妒是荒谬的。
+
+11. Eventually, we realized that we should communicate more openly.
+   > **中文**：最终，我们意识到我们应该更坦诚地沟通。
+
+12. We need to solve this conflict peacefully without yelling.
+   > **中文**：我们需要和平解决这个冲突，而不是大喊大叫。
+
+13. I used to think couples therapy was unnecessary.
+   > **中文**：我过去认为情侣咨询是没有必要的。
+
+14. You should not look down on people who ask for help.
+   > **中文**：你不应该看不起寻求帮助的人。
+
+15. In that case, we might as well call the therapist today.
+   > **中文**：那样的话，我们不妨今天给治疗师打电话。
+
+16. She felt a whole lot of frustration during the discussion.
+   > **中文**：在讨论过程中，她感受到了极大的挫败感。
+
+17. It is unreasonable to expect perfection from anyone.
+   > **中文**：期望任何人完美都是不切实际的。
+
+18. They reached an agreement after a long conversation.
+   > **中文**：经过长时间的交谈，他们达成了一致意见。
+
+19. He tends to express his envy through sarcastic remarks.
+   > **中文**：他往往通过讽刺性的言辞来表达他的嫉妒。
+
+20. Who cares if it sounds a bit ridiculous at first?
+   > **中文**：谁在乎一开始听起来是不是有点荒谬呢？
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| used to | 过去常常 |
+| tend to | 倾向于；往往 |
+| ought to | 应该 |
+| might as well | 不妨；干脆 |
+| therapist | 治疗师；心理咨询师 |
+| therapy | 治疗；心理咨询 |
+| frustration | 挫败感；沮丧 |
+| envy | 嫉妒；羡慕 |
+| offensive | 冒犯的；无礼的 |
+| understandable | 可以理解的 |
+| unreasonable | 不讲理的；过分的 |
+| ridiculous | 荒谬的；可笑的 |
+| look down on | 看不起；轻视 |
+| who cares | 谁在乎 |
+| take your word for it | 相信你说的话 |
+| an open mind | 开放的心态 |
+| agreement | 一致；协议 |
+| gossip | 八卦；闲话 |
+| yell | 大喊大叫 |
+| practically | 实际上；几乎 |
 
 </quiz-matching>
 
@@ -143,102 +236,202 @@ a whole lot, agreement, an open mind, envy, eventually, frustration, gossip, in 
 
 ### 1
 
-Communication between us has improved `____` after we started talking openly.
+We used to argue a whole lot, but now we see a relationship ____.
 
-- [x] a whole lot
+- [x] therapist
+- [ ] a whole lot
 - [ ] agreement
-- [ ] frustration
 
-> **解析**：`a whole lot` 为口语强调副词短语，意为“许多；非常”，修饰动词 `improved`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Through patience and understanding, they `____` resolved their long-standing conflicts.
+Couples ____ helped us reach a mutual agreement.
 
-- [x] eventually
+- [x] therapy
+- [ ] a whole lot
 - [ ] agreement
-- [ ] gossip
 
-> **解析**：`eventually` 副词，意为“最终；终于”，强调经过努力或漫长过程后的结果。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-If you feel exhausted today, `____`, we can stay home and order takeout.
+You ought to keep an open mind instead of making quick ____.
 
-- [x] in that case
-- [ ] an open mind
-- [ ] gossip
+- [x] judgments
+- [ ] a whole lot
+- [ ] agreement
 
-> **解析**：`in that case` 为条件插入表达，意为“既然那样；如果是那种情况的话”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-He apologized sincerely for his `____` remark during yesterday's heated argument.
+Her ____ was understandable, but her demand was unreasonable.
 
-- [x] offensive
-- [ ] envy
-- [ ] in that case
+- [x] frustration
+- [ ] a whole lot
+- [ ] agreement
 
-> **解析**：`offensive` 形容词，意为“冒犯的；无礼的；令人不快的”。修饰 `remark`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Couples `____` listen to each other with empathy rather than interrupting constantly.
+We might as well stop spreading ____ about our neighbors.
 
-- [x] should
-- [ ] eventually
-- [ ] look down on
+- [x] gossip
+- [ ] a whole lot
+- [ ] agreement
 
-> **解析**：`should` 情态动词，用于给出关于相处与关系的建设性建议（意为“应当；应该”）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-They decided to consult a professional marriage `____` to work through their differences.
+In ____ case, I will take your word for it this time.
 
-- [x] therapist
-- [ ] frustration
-- [ ] might as well
+- [x] that
+- [ ] a whole lot
+- [ ] agreement
 
-> **解析**：`therapist` 可数名词，意为“治疗师；心理咨询师”。`marriage therapist`（婚姻治疗师）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-We `____` argue over small household chores, but now we split responsibilities evenly.
+People tend to look down on those who constantly ____ at their partners.
 
-- [x] used to
-- [ ] gossip
-- [ ] need
+- [x] yell
+- [ ] a whole lot
+- [ ] agreement
 
-> **解析**：`used to do sth.` 结构，表示过去经常做某事或过去习惯的状态（现在已不再如此）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The couple reached a mutual `____` to spend quality time together every weekend.
+Who cares what others think about our ____ choices?
 
-- [x] agreement
-- [ ] look down on
-- [ ] ought to
+- [x] lifestyle
+- [ ] a whole lot
+- [ ] agreement
 
-> **解析**：`agreement` 可数/不可数名词，意为“协议；一致”。搭配 `reach an agreement`（达成协议）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Expressing your `____` calmly helps prevent small misunderstandings from blowing up.
+Finding his comments ____, she practically refused to talk to him.
 
-- [x] frustration
-- [ ] might as well
-- [ ] practically
+- [x] offensive
+- [ ] a whole lot
+- [ ] agreement
 
-> **解析**：`frustration` 不可数/可数名词，意为“挫败感；沮丧；烦恼”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Since we are both free tonight, we `____` go out for a romantic dinner.
+It is ____ to feel envy over someone else's success.
 
-- [x] might as well
-- [ ] need
-- [ ] ridiculous
+- [x] ridiculous
+- [ ] a whole lot
+- [ ] agreement
 
-> **解析**：`might as well do sth.` 为固定结构，意为“不妨做某事；还不如去做某事”，表示提出一种自然顺理成章的合理提议。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+____, we realized that we should communicate more openly.
+
+- [x] Eventually
+- [ ] a whole lot
+- [ ] agreement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+We ____ to solve this conflict peacefully without yelling.
+
+- [x] need
+- [ ] a whole lot
+- [ ] agreement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+I used to think couples ____ was unnecessary.
+
+- [x] therapy
+- [ ] a whole lot
+- [ ] agreement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+You ____ not look down on people who ask for help.
+
+- [x] should
+- [ ] a whole lot
+- [ ] agreement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+In that case, we might as well call the ____ today.
+
+- [x] therapist
+- [ ] a whole lot
+- [ ] agreement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+She felt a whole lot of ____ during the discussion.
+
+- [x] frustration
+- [ ] a whole lot
+- [ ] agreement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+It is ____ to expect perfection from anyone.
+
+- [x] unreasonable
+- [ ] a whole lot
+- [ ] agreement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+They reached an ____ after a long conversation.
+
+- [x] agreement
+- [ ] a whole lot
+- [ ] an open mind
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+He tends to express his ____ through sarcastic remarks.
+
+- [x] envy
+- [ ] a whole lot
+- [ ] agreement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Who cares if it sounds a bit ____ at first?
+
+- [x] ridiculous
+- [ ] a whole lot
+- [ ] agreement
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

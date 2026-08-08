@@ -63,83 +63,176 @@ afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if o
 
 <quiz-sentence-builder>
 
-1. **中文**：我恐怕我们今天没有足够的时间去参观博物馆了。  
-   **英文**：I am afraid that we will not have enough time to visit the museum today.
-   > **解析**：`be afraid that...` 为固定句型，用于礼貌地表达担心、遗憾或不便。
+1. **中文**：我希望我有更多时间去环游世界。
+   **英文**：I wish I had more free time to travel around the world.
+   > **解析**：wish 后面从句常用虚拟语气，表达难以实现的愿望。
 
-2. **中文**：如果你努力工作，你出国留学的梦想一定会实现。  
-   **英文**：If you work hard, your dream of studying abroad will surely come true.
-   > **解析**：`come true` 为固定动词短语，意为“（梦想、预言等）实现；成为现实”。主语通常为 `dream`, `wish`, `hope` 等。
+2. **中文**：要是我当时接受了那份工作邀请就好了。
+   **英文**：If only I had accepted that job offer when I had the chance.
+   > **解析**：if only 表达强烈的遗憾或假想。
 
-3. **中文**：睡前阅读半小时是一个值得培养的好习惯。  
-   **英文**：Reading for thirty minutes before bedtime is a great habit to cultivate.
-   > **解析**：`habit` 可数名词，意为“习惯”。搭配 `cultivate a habit / form a habit`（养成习惯）。
+3. **中文**：只要你坚持努力，你的所有梦想终将实现。
+   **英文**：If you keep working hard, all your dreams will come true.
+   > **解析**：come true 表示梦想等实现。
 
-4. **中文**：要是当时给我那个机会时我抓住了该有多好啊！  
-   **英文**：If only I had taken that opportunity when it was offered to me.
-   > **解析**：`if only` 为固定连词短语，引导虚拟语气感叹句，表达对过去事的强烈的遗憾与愿望（意为“要是……就好了”）。
+4. **中文**：尽管遇到了困难，我们依然对未来抱有希望。
+   **英文**：Despite the difficulties, we remain hopeful about the future.
+   > **解析**：hopeful 表示抱有希望的。
 
-5. **中文**：唉，算了，我们今天输掉了比赛，但下周我们可以再试一次。  
-   **英文**：Oh well, we lost the match today, but we can try again next week.
-   > **解析**：`oh well` 为常用口语感叹短语，用于表示无奈接受既成事实或安慰自己（意为“唉，算了；好吧”）。
+5. **中文**：他非常后悔没有在大学期间认真学习外语。
+   **英文**：He deeply regrets not studying foreign languages in college.
+   > **解析**：regret 表示后悔、遗憾。
 
-6. **中文**：每天采取微小的行动是迈向实现长期目标的重要一步。  
-   **英文**：Taking small daily action is an important step toward achieving long-term goals.
-   > **解析**：`step` 名词，意为“步骤；脚印；阶梯”。搭配 `a step toward(s)...`（迈向……的一步）。
+6. **中文**：顾客对我们的服务质量感到非常满意。
+   **英文**：The client felt completely satisfied with our service quality.
+   > **解析**：satisfied 表示满意的。
 
-7. **中文**：我希望我能穿越回过去去体验古代罗马文化。  
-   **英文**：I wish I could travel back in time to experience ancient Roman culture.
-   > **解析**：`wish` 及物动词，引导宾语从句时从句需用虚拟语气（如 `could travel`），表达难以实现或与事实相反的愿望。
+7. **中文**：中彩票特等奖的可能性非常小。
+   **英文**：Winning the grand prize in the lottery is extremely unlikely.
+   > **解析**：lottery 表示彩票；unlikely 表示不大可能的。
 
-8. **中文**：不要错过这个申请大学奖学金的难得机会。  
-   **英文**：Don't miss this rare chance to apply for a university scholarship.
-   > **解析**：`chance` 可数名词，意为“机会；概率”。搭配 `miss a chance`（错过机会）或 `a chance to do sth.`。
+8. **中文**：老师总是鼓励学生们勇敢追求自己的目标。
+   **英文**：Teachers always encourage students to pursue their goals bravely.
+   > **解析**：encourage 表示鼓励。
 
-9. **中文**：老师应该始终鼓励学生在课堂上自由表达想法。  
-   **英文**：Teachers should always encourage students to express their ideas freely in class.
-   > **解析**：`encourage` 及物动词，搭配 `encourage sb. to do sth.`（鼓励某人做某事）。
+9. **中文**：你应该抓住并充分利用这个宝贵的出访机会。
+   **英文**：You should take advantage of this rare study opportunity.
+   > **解析**：take advantage 表示利用、充分利用。
 
-10. **中文**：尽管有暂时的挫折，我们对项目的最终结果仍抱有希望。  
-   **英文**：Despite the temporary setback, we remain hopeful about our project's outcome.
-   > **解析**：`hopeful` 形容词，意为“充满希望的；乐观的”。常与系动词 `remain / feel / be` 连用，搭配 `be hopeful about sth.`。
+10. **中文**：养成良好的阅读习惯是迈向成功的重要一步。
+   **英文**：Developing good reading habits is a vital step toward success.
+   > **解析**：habit 表示习惯；step 表示步骤。
+
+11. **中文**：每一个细小的努力在追求梦想的路上都算数。
+   **英文**：Every small effort counts on the path to achieving your goals.
+   > **解析**：count 表示有价值、算数。
+
+12. **中文**：他们计划在今年秋天举行婚礼并结婚。
+   **英文**：They plan to marry and hold a ceremony this coming autumn.
+   > **解析**：marry 表示结婚。
+
+13. **中文**：别为那些无足轻重的傻念头感到沮丧。
+   **英文**：Don't feel discouraged over such a silly mistake.
+   > **解析**：silly 表示傻的、糊涂的。
+
+14. **中文**：唉，好吧，既然下雨了我们就改天去野餐吧。
+   **英文**：Oh well, since it is raining, we can picnic another day.
+   > **解析**：oh well 表达无奈接受现实，意为唉、好吧。
+
+15. **中文**：我害怕如果我不试一下，以后会更加后悔。
+   **英文**：I am afraid that I will regret it more if I don't try.
+   > **解析**：afraid 表示害怕的、担心的。
+
+16. **中文**：只有抓住机会，你才能证明自己的能力。
+   **英文**：Only by taking a chance can you prove your full potential.
+   > **解析**：chance 表示机会。
+
+17. **中文**：他希望今年夏天能够和家人一起去海边度假。
+   **英文**：He hopes to go on a beach vacation with his family this summer.
+   > **解析**：hope 后面常接不定式或that从句，表达可实现的愿望。
+
+18. **中文**：这一步对于达成最后的愿望至关重要。
+   **英文**：Taking this key step is essential to fulfilling your wish.
+   > **解析**：step 表示步骤。
+
+19. **中文**：报名参加这次挑战的人数和上次一样多。
+   **英文**：There were as many applicants for this challenge as last time.
+   > **解析**：as many ... as 表示和……一样多。
+
+20. **中文**：突然放弃项目看起来是不大可能发生的。
+   **英文**：It is highly unlikely that the project will be cancelled now.
+   > **解析**：unlikely 表示不大可能的。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I am afraid that we will not have enough time to visit the museum today.
-   > **中文**：我恐怕我们今天没有足够的时间去参观博物馆了。
+1. I wish I had more free time to travel around the world.
+   > **中文**：我希望我有更多时间去环游世界。
 
-2. If you work hard, your dream of studying abroad will surely come true.
-   > **中文**：如果你努力工作，你出国留学的梦想一定会实现。
+2. If only I had accepted that job offer when I had the chance.
+   > **中文**：要是我当时接受了那份工作邀请就好了。
 
-3. Reading for thirty minutes before bedtime is a great habit to cultivate.
-   > **中文**：睡前阅读半小时是一个值得培养的好习惯。
+3. If you keep working hard, all your dreams will come true.
+   > **中文**：只要你坚持努力，你的所有梦想终将实现。
 
-4. If only I had taken that opportunity when it was offered to me.
-   > **中文**：要是当时给我那个机会时我抓住了该有多好啊！
+4. Despite the difficulties, we remain hopeful about the future.
+   > **中文**：尽管遇到了困难，我们依然对未来抱有希望。
 
-5. Oh well, we lost the match today, but we can try again next week.
-   > **中文**：唉，算了，我们今天输掉了比赛，但下周我们可以再试一次。
+5. He deeply regrets not studying foreign languages in college.
+   > **中文**：他非常后悔没有在大学期间认真学习外语。
 
-6. Taking small daily action is an important step toward achieving long-term goals.
-   > **中文**：每天采取微小的行动是迈向实现长期目标的重要一步。
+6. The client felt completely satisfied with our service quality.
+   > **中文**：顾客对我们的服务质量感到非常满意。
 
-7. I wish I could travel back in time to experience ancient Roman culture.
-   > **中文**：我希望我能穿越回过去去体验古代罗马文化。
+7. Winning the grand prize in the lottery is extremely unlikely.
+   > **中文**：中彩票特等奖的可能性非常小。
 
-8. Don't miss this rare chance to apply for a university scholarship.
-   > **中文**：不要错过这个申请大学奖学金的难得机会。
+8. Teachers always encourage students to pursue their goals bravely.
+   > **中文**：老师总是鼓励学生们勇敢追求自己的目标。
 
-9. Teachers should always encourage students to express their ideas freely in class.
-   > **中文**：老师应该始终鼓励学生在课堂上自由表达想法。
+9. You should take advantage of this rare study opportunity.
+   > **中文**：你应该抓住并充分利用这个宝贵的出访机会。
 
-10. Despite the temporary setback, we remain hopeful about our project's outcome.
-   > **中文**：尽管有暂时的挫折，我们对项目的最终结果仍抱有希望。
+10. Developing good reading habits is a vital step toward success.
+   > **中文**：养成良好的阅读习惯是迈向成功的重要一步。
+
+11. Every small effort counts on the path to achieving your goals.
+   > **中文**：每一个细小的努力在追求梦想的路上都算数。
+
+12. They plan to marry and hold a ceremony this coming autumn.
+   > **中文**：他们计划在今年秋天举行婚礼并结婚。
+
+13. Don't feel discouraged over such a silly mistake.
+   > **中文**：别为那些无足轻重的傻念头感到沮丧。
+
+14. Oh well, since it is raining, we can picnic another day.
+   > **中文**：唉，好吧，既然下雨了我们就改天去野餐吧。
+
+15. I am afraid that I will regret it more if I don't try.
+   > **中文**：我害怕如果我不试一下，以后会更加后悔。
+
+16. Only by taking a chance can you prove your full potential.
+   > **中文**：只有抓住机会，你才能证明自己的能力。
+
+17. He hopes to go on a beach vacation with his family this summer.
+   > **中文**：他希望今年夏天能够和家人一起去海边度假。
+
+18. Taking this key step is essential to fulfilling your wish.
+   > **中文**：这一步对于达成最后的愿望至关重要。
+
+19. There were as many applicants for this challenge as last time.
+   > **中文**：报名参加这次挑战的人数和上次一样多。
+
+20. It is highly unlikely that the project will be cancelled now.
+   > **中文**：突然放弃项目看起来是不大可能发生的。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| wish | 愿望；希望（虚拟语气） |
+| if only | 要是……就好了 |
+| come true | （梦想等）实现 |
+| hopeful | 抱有希望的 |
+| regret | 后悔；遗憾 |
+| satisfied | 满意的 |
+| lottery | 彩票 |
+| chance | 机会；可能性 |
+| unlikely | 不大可能的 |
+| encourage | 鼓励 |
+| take advantage | 利用；充分利用 |
+| step | 步骤；脚印 |
+| habit | 习惯 |
+| count | 算数；有价值 |
+| marry | 结婚；娶；嫁 |
+| silly | 傻的；糊涂的 |
+| afraid | 害怕的；担心的 |
+| oh well | 唉；好吧（表示无奈） |
+| as many | 一样多 |
+| hope | 希望 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if o
 
 ### 1
 
-I am `____` that we will not have enough time to visit the museum today.
+I ____ I had more free time to travel around the world.
 
-- [x] afraid
+- [x] wish
+- [ ] afraid
 - [ ] as many
-- [ ] encourage
 
-> **解析**：`be afraid that...` 为固定句型，用于礼貌地表达担心、遗憾或不便。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-If you work hard, your dream of studying abroad will surely `____`.
+If only I had accepted that job offer when I had the ____.
 
-- [x] come true
+- [x] chance
+- [ ] afraid
 - [ ] as many
-- [ ] habit
 
-> **解析**：`come true` 为固定动词短语，意为“（梦想、预言等）实现；成为现实”。主语通常为 `dream`, `wish`, `hope` 等。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Reading for thirty minutes before bedtime is a great `____` to cultivate.
+If you keep ____ hard, all your dreams will come true.
 
-- [x] habit
-- [ ] chance
-- [ ] hope
+- [x] working
+- [ ] afraid
+- [ ] as many
 
-> **解析**：`habit` 可数名词，意为“习惯”。搭配 `cultivate a habit / form a habit`（养成习惯）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-`____` I had taken that opportunity when it was offered to me.
+Despite the difficulties, we remain ____ about the future.
 
-- [x] if only
-- [ ] come true
-- [ ] hope
+- [x] hopeful
+- [ ] afraid
+- [ ] as many
 
-> **解析**：`if only` 为固定连词短语，引导虚拟语气感叹句，表达对过去事的强烈的遗憾与愿望（意为“要是……就好了”）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-`____`, we lost the match today, but we can try again next week.
+He deeply regrets not studying foreign ____ in college.
 
-- [x] oh well
-- [ ] count
-- [ ] hopeful
+- [x] languages
+- [ ] afraid
+- [ ] as many
 
-> **解析**：`oh well` 为常用口语感叹短语，用于表示无奈接受既成事实或安慰自己（意为“唉，算了；好吧”）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Taking small daily action is an important `____` toward achieving long-term goals.
+The client felt completely ____ with our service quality.
 
-- [x] step
-- [ ] encourage
-- [ ] if only
+- [x] satisfied
+- [ ] afraid
+- [ ] as many
 
-> **解析**：`step` 名词，意为“步骤；脚印；阶梯”。搭配 `a step toward(s)...`（迈向……的一步）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-I `____` I could travel back in time to experience ancient Roman culture.
+Winning the grand prize in the ____ is extremely unlikely.
 
-- [x] wish
-- [ ] habit
-- [ ] lottery
+- [x] lottery
+- [ ] afraid
+- [ ] as many
 
-> **解析**：`wish` 及物动词，引导宾语从句时从句需用虚拟语气（如 `could travel`），表达难以实现或与事实相反的愿望。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Don't miss this rare `____` to apply for a university scholarship.
+Teachers always ____ students to pursue their goals bravely.
 
-- [x] chance
-- [ ] hopeful
-- [ ] oh well
+- [x] encourage
+- [ ] afraid
+- [ ] as many
 
-> **解析**：`chance` 可数名词，意为“机会；概率”。搭配 `miss a chance`（错过机会）或 `a chance to do sth.`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Teachers should always `____` students to express their ideas freely in class.
+You should take advantage of this rare study ____.
 
-- [x] encourage
-- [ ] if only
-- [ ] regret
+- [x] opportunity
+- [ ] afraid
+- [ ] as many
 
-> **解析**：`encourage` 及物动词，搭配 `encourage sb. to do sth.`（鼓励某人做某事）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Despite the temporary setback, we remain `____`ful about our project's outcome.
+Developing good reading habits is a vital ____ toward success.
 
-- [x] hope
-- [ ] lottery
-- [ ] satisfied
+- [x] step
+- [ ] afraid
+- [ ] as many
 
-> **解析**：`hopeful` 形容词，意为“充满希望的；乐观的”。常与系动词 `remain / feel / be` 连用，搭配 `be hopeful about sth.`。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Every small effort counts on the path to ____ your goals.
+
+- [x] achieving
+- [ ] afraid
+- [ ] as many
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+They plan to ____ and hold a ceremony this coming autumn.
+
+- [x] marry
+- [ ] afraid
+- [ ] as many
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Don't feel discouraged over such a ____ mistake.
+
+- [x] silly
+- [ ] afraid
+- [ ] as many
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Oh well, since it is ____, we can picnic another day.
+
+- [x] raining
+- [ ] afraid
+- [ ] as many
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+I am ____ that I will regret it more if I don't try.
+
+- [x] afraid
+- [ ] as many
+- [ ] chance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Only by taking a ____ can you prove your full potential.
+
+- [x] chance
+- [ ] afraid
+- [ ] as many
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+He hopes to go on a beach ____ with his family this summer.
+
+- [x] vacation
+- [ ] afraid
+- [ ] as many
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Taking this key ____ is essential to fulfilling your wish.
+
+- [x] step
+- [ ] afraid
+- [ ] as many
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+There were as many ____ for this challenge as last time.
+
+- [x] applicants
+- [ ] afraid
+- [ ] as many
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+It is highly ____ that the project will be cancelled now.
+
+- [x] unlikely
+- [ ] afraid
+- [ ] as many
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

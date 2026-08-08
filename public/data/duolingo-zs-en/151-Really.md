@@ -61,83 +61,176 @@ forgive → forgave → forgiven 是不规则变化。must 表推测（一定）
 
 <quiz-sentence-builder>
 
-1. **中文**：好吧，跟我解释一下你为什么没通知任何人就缺席了会议。  
-   **英文**：All right, explain to me why you skipped the meeting without telling anyone.
-   > **解析**：all right 在此处用作感叹词/口语过渡词，表示“好吧、行”，用于引出追问或要求对方说明原因。
+1. **中文**：不会吧！你在咖啡馆遇上了我们的老朋友？
+   **英文**：No way! You ran into our old friend at the cafe?
+   > **解析**：No way 表示“不会吧/不可能”；ran into 表示“偶遇”；old friend 意为“老朋友”。
 
-2. **中文**：我不关心你的借口；我只想听听真正的真相。  
-   **英文**：I don't care about your excuses; I just want to hear the real truth.
-   > **解析**：care 在此处作动词，意为“在乎、关心”。常用否定搭配 don't care about sth.（不在乎某事）。
+2. **中文**：真的吗？我不敢相信你竟然忘了他的名字！
+   **英文**：Seriously? I can't believe you've forgotten his name!
+   > **解析**：Seriously 用于口语表示“真的吗”；have forgotten 是 forget 的现在完成时；can't believe 表示“不敢相信”。
 
-3. **中文**：在他真诚道歉后，她原谅了他弄丢钥匙的事。  
-   **英文**：She forgave him for losing the keys after he sincerely apologized.
-   > **解析**：forgave 是动词 forgive 的过去式，意为“原谅”。常用结构 forgive sb. for sth./doing sth.。
+3. **中文**：等等，让我稍想一下。
+   **英文**：Hold on, let me think for a second.
+   > **解析**：Hold on 表示“等等/别急”；let me think 表示“让我想想”。
 
-4. **中文**：继续说，你打开那个神秘包裹之后发生什么了？  
-   **英文**：Go on, tell me what happened after you opened the mysterious package.
-   > **解析**：go on 在此处为短语动词，用作祈使句，意为“继续说下去”，常用于鼓励说话者提供更多细节。
+4. **中文**：继续，告诉我接下来发生了什么！
+   **英文**：Go on, tell me what happened next!
+   > **解析**：Go on 表示“继续说/接着说”；tell me 后面接宾语从句。
 
-5. **中文**：那完全不可能，因为我今天早上亲自把文件交给了他！  
-   **英文**：That's completely impossible, because I personally handed the documents to him this morning.
-   > **解析**：impossible 为形容词，意为“不可能的”。在表强烈惊讶时常用作表语（That's impossible!）。
+5. **中文**：猜猜看！我哥哥刚升职了。
+   **英文**：Guess what! My brother just got promoted.
+   > **解析**：Guess what 用来引出令人惊喜的消息；got promoted 表示“升职了”。
 
-6. **中文**：你为什么这样看着我，好像我做了什么可怕的事情一样？  
-   **英文**：Why are you looking at me like this, as if I did something terrible.
-   > **解析**：like this 在此处作副词性短语，意为“像这样”，修饰动词 look，表达对对方眼神或态度的惊讶与质疑。
+6. **中文**：那是不可能的！你一定是在开玩笑。
+   **英文**：That's impossible! You must be joking.
+   > **解析**：impossible 表示“不可能的”；must be 表达肯定的推测，“一定是在……”。
 
-7. **中文**：真的吗，你是说活动在最后时刻被取消了吗？  
-   **英文**：Seriously, are you telling me that the event was canceled at the last minute.
-   > **解析**：seriously 在此处用作句首副词，表示“说真的、真的吗”，用于表达对意外消息的不可思议与要求确认。
+7. **中文**：她刚才打翻咖啡时感到非常尴尬。
+   **英文**：She was so embarrassed when she dropped her coffee just now.
+   > **解析**：embarrassed 形容人“感到尴尬的”；just now 表示“刚才”。
 
-8. **中文**：你走进空无一人的办公室时，有注意到什么不寻常的事吗？  
-   **英文**：Did you notice anything unusual when you walked into the empty office.
-   > **解析**：anything 为不定代词，意为“任何事物”。在疑问句中通常替代 something，后面后置形容词修饰（anything unusual）。
+8. **中文**：那是个让人尴尬的错误，不过现在都挺好的。
+   **英文**：It was an embarrassing mistake, but everything is all right now.
+   > **解析**：embarrassing 意为“令人尴尬的”；all right 表示“完好/没问题”。
 
-9. **中文**：当他意识到自己把咖啡洒得满衬衫都是时，感到非常尴尬。  
-   **英文**：He felt deeply embarrassed when he realized he had spilled coffee all over his shirt.
-   > **解析**：embarrassed 是形容词，指“人感到尴尬的”，常用搭配 feel/be embarrassed，主语通常为人。
+9. **中文**：我不在乎他们怎么评论我们。
+   **英文**：I don't care what they say about us.
+   > **解析**：care 表示“在乎/介意”；don't care 表达不在乎的态度。
 
-10. **中文**：虽然你犯了错，但你已经得到了全队的原谅。  
-   **英文**：Although you made a mistake, you have been forgiven by the entire team.
-   > **解析**：forgiven 是动词 forgive 的过去分词，在此处与助动词 combined 构成现在完成时的被动语态（have been forgiven）。
+10. **中文**：顺便问一下，你和经理谈过了吗？
+   **英文**：By the way, have you spoken to the manager yet?
+   > **解析**：By the way 用于转换话题，意为“顺便说/顺便问”；have spoken 是 speak 的现在完成时。
+
+11. **中文**：他原谅了她上周犯的错误。
+   **英文**：He forgave her for the mistake last week.
+   > **解析**：forgave 为 forgive 的过去式；forgive sb for sth 表示“原谅某人某事”。
+
+12. **中文**：请原谅我迟到了这么久。
+   **英文**：Please forgive me for being so late.
+   > **解析**：forgive me 表达“原谅我”；for + v-ing 解释原谅的原因。
+
+13. **中文**：他们已经原谅了他过去的所作所为。
+   **英文**：They have forgiven him for his past actions.
+   > **解析**：forgiven 是 forgive 的过去分词，与 have 构成现在完成时。
+
+14. **中文**：你忘记我们把车停在哪了吗？
+   **英文**：Have you forgotten where we parked the car?
+   > **解析**：forgotten 为 forget 的过去分词；have you forgotten 表示“你忘了吗”。
+
+15. **中文**：工作了一整天后，你一定精疲力竭了。
+   **英文**：You must be exhausted after working all day.
+   > **解析**：must be 表示推测“一定……”；exhausted 意为“精疲力竭的”。
+
+16. **中文**：不要对我撒谎说你做了什么。
+   **英文**：Don't lie to me about what you did.
+   > **解析**：lie to sb 表示“向某人撒谎”；about 引出撒谎的内容。
+
+17. **中文**：你为什么这样看着我？
+   **英文**：Why are you looking at me like this?
+   > **解析**：like this 表示“像这样”；look at 表示“看着”。
+
+18. **中文**：今天办公室里发生什么奇怪的事了吗？
+   **英文**：Did something strange happen in the office today?
+   > **解析**：something 表示“某事”；形容词 strange 后置修饰不定代词 something。
+
+19. **中文**：还有什么事情你想告诉我的吗？
+   **英文**：Is there anything else you want to tell me?
+   > **解析**：anything 用于疑问句表示“任何事”；anything else 意为“其他什么事”。
+
+20. **中文**：你和你的顾问谈过这个计划了吗？
+   **英文**：Have you spoken with your advisor about this plan?
+   > **解析**：spoken 是 speak 的过去分词；spoken with sb about sth 表示“与某人谈论某事”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. All right, explain to me why you skipped the meeting without telling anyone.
-   > **中文**：好吧，跟我解释一下你为什么没通知任何人就缺席了会议。
+1. No way! You ran into our old friend at the cafe?
+   > **中文**：不会吧！你在咖啡馆遇上了我们的老朋友？
 
-2. I don't care about your excuses; I just want to hear the real truth.
-   > **中文**：我不关心你的借口；我只想听听真正的真相。
+2. Seriously? I can't believe you've forgotten his name!
+   > **中文**：真的吗？我不敢相信你竟然忘了他的名字！
 
-3. She forgave him for losing the keys after he sincerely apologized.
-   > **中文**：在他真诚道歉后，她原谅了他弄丢钥匙的事。
+3. Hold on, let me think for a second.
+   > **中文**：等等，让我稍想一下。
 
-4. Go on, tell me what happened after you opened the mysterious package.
-   > **中文**：继续说，你打开那个神秘包裹之后发生什么了？
+4. Go on, tell me what happened next!
+   > **中文**：继续，告诉我接下来发生了什么！
 
-5. That's completely impossible, because I personally handed the documents to him this morning.
-   > **中文**：那完全不可能，因为我今天早上亲自把文件交给了他！
+5. Guess what! My brother just got promoted.
+   > **中文**：猜猜看！我哥哥刚升职了。
 
-6. Why are you looking at me like this, as if I did something terrible.
-   > **中文**：你为什么这样看着我，好像我做了什么可怕的事情一样？
+6. That's impossible! You must be joking.
+   > **中文**：那是不可能的！你一定是在开玩笑。
 
-7. Seriously, are you telling me that the event was canceled at the last minute.
-   > **中文**：真的吗，你是说活动在最后时刻被取消了吗？
+7. She was so embarrassed when she dropped her coffee just now.
+   > **中文**：她刚才打翻咖啡时感到非常尴尬。
 
-8. Did you notice anything unusual when you walked into the empty office.
-   > **中文**：你走进空无一人的办公室时，有注意到什么不寻常的事吗？
+8. It was an embarrassing mistake, but everything is all right now.
+   > **中文**：那是个让人尴尬的错误，不过现在都挺好的。
 
-9. He felt deeply embarrassed when he realized he had spilled coffee all over his shirt.
-   > **中文**：当他意识到自己把咖啡洒得满衬衫都是时，感到非常尴尬。
+9. I don't care what they say about us.
+   > **中文**：我不在乎他们怎么评论我们。
 
-10. Although you made a mistake, you have been forgiven by the entire team.
-   > **中文**：虽然你犯了错，但你已经得到了全队的原谅。
+10. By the way, have you spoken to the manager yet?
+   > **中文**：顺便问一下，你和经理谈过了吗？
+
+11. He forgave her for the mistake last week.
+   > **中文**：他原谅了她上周犯的错误。
+
+12. Please forgive me for being so late.
+   > **中文**：请原谅我迟到了这么久。
+
+13. They have forgiven him for his past actions.
+   > **中文**：他们已经原谅了他过去的所作所为。
+
+14. Have you forgotten where we parked the car?
+   > **中文**：你忘记我们把车停在哪了吗？
+
+15. You must be exhausted after working all day.
+   > **中文**：工作了一整天后，你一定精疲力竭了。
+
+16. Don't lie to me about what you did.
+   > **中文**：不要对我撒谎说你做了什么。
+
+17. Why are you looking at me like this?
+   > **中文**：你为什么这样看着我？
+
+18. Did something strange happen in the office today?
+   > **中文**：今天办公室里发生什么奇怪的事了吗？
+
+19. Is there anything else you want to tell me?
+   > **中文**：还有什么事情你想告诉我的吗？
+
+20. Have you spoken with your advisor about this plan?
+   > **中文**：你和你的顾问谈过这个计划了吗？
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| all right | 好吧 / 没问题 |
+| anything | 任何事 |
+| by the way | 顺便说 / 顺便问 |
+| can't | 不能 / 无法 |
+| care | 在乎 / 关心 |
+| embarrassed | 感到尴尬的 |
+| embarrassing | 令人尴尬的 |
+| forgave | 原谅了（forgive的过去式） |
+| forgive | 原谅 |
+| forgiven | 被原谅的（forgive的过去分词） |
+| forgotten | 遗忘的（forget的过去分词） |
+| go on | 继续说 / 接着做 |
+| guess what | 猜猜看 |
+| hold on | 等等 / 稍等 |
+| impossible | 不可能的 |
+| just now | 刚才 |
+| lie | 撒谎 / 谎言 |
+| like this | 像这样 |
+| must | 一定 / 必须 |
+| no way | 不会吧 / 绝不可能 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ forgive → forgave → forgiven 是不规则变化。must 表推测（一定）
 
 ### 1
 
-`____`, explain to me why you skipped the meeting without telling anyone.
+No way! You ran into our old ____ at the cafe?
 
-- [x] all right
+- [x] friend
+- [ ] all right
 - [ ] anything
-- [ ] care
 
-> **解析**：all right 在此处用作感叹词/口语过渡词，表示“好吧、行”，用于引出追问或要求对方说明原因。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-I don't `____` about your excuses; I just want to hear the real truth.
+____? I can't believe you've forgotten his name!
 
-- [x] care
+- [x] Seriously
+- [ ] all right
 - [ ] anything
-- [ ] embarrassed
 
-> **解析**：care 在此处作动词，意为“在乎、关心”。常用否定搭配 don't care about sth.（不在乎某事）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-She `____` him for losing the keys after he sincerely apologized.
+Hold on, let me think for a ____.
 
-- [x] forgave
-- [ ] be
-- [ ] embarrassed
+- [x] second
+- [ ] all right
+- [ ] anything
 
-> **解析**：forgave 是动词 forgive 的过去式，意为“原谅”。常用结构 forgive sb. for sth./doing sth.。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-`____`, tell me what happened after you opened the mysterious package.
+Go on, tell me what ____ next!
 
-- [x] go on
-- [ ] by the way
-- [ ] embarrassing
+- [x] happened
+- [ ] all right
+- [ ] anything
 
-> **解析**：go on 在此处为短语动词，用作祈使句，意为“继续说下去”，常用于鼓励说话者提供更多细节。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-That's completely impossible, `____`cause I personally handed the documents to him this morning.
+Guess what! My brother just got ____.
 
-- [x] be
-- [ ] care
-- [ ] forgive
+- [x] promoted
+- [ ] all right
+- [ ] anything
 
-> **解析**：impossible 为形容词，意为“不可能的”。在表强烈惊讶时常用作表语（That's impossible!）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Why are you looking at me `____`, as if I did something terrible.
+That's ____! You must be joking.
 
-- [x] like this
-- [ ] care
-- [ ] forgive
+- [x] impossible
+- [ ] all right
+- [ ] anything
 
-> **解析**：like this 在此处作副词性短语，意为“像这样”，修饰动词 look，表达对对方眼神或态度的惊讶与质疑。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-`____`, are you telling me that the event was canceled at the last minute.
+She was so ____ when she dropped her coffee just now.
 
-- [x] seriously
-- [ ] embarrassed
-- [ ] forgiven
+- [x] embarrassed
+- [ ] all right
+- [ ] anything
 
-> **解析**：seriously 在此处用作句首副词，表示“说真的、真的吗”，用于表达对意外消息的不可思议与要求确认。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Did you notice `____` unusual when you walked into the empty office.
+It was an ____ mistake, but everything is all right now.
 
-- [x] anything
-- [ ] forgave
-- [ ] go on
+- [x] embarrassing
+- [ ] all right
+- [ ] anything
 
-> **解析**：anything 为不定代词，意为“任何事物”。在疑问句中通常替代 something，后面后置形容词修饰（anything unusual）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-He felt deeply `____` when he realized he had spilled coffee all over his shirt.
+I don't ____ what they say about us.
 
-- [x] embarrassed
-- [ ] forgive
-- [ ] guess what
+- [x] care
+- [ ] all right
+- [ ] anything
 
-> **解析**：embarrassed 是形容词，指“人感到尴尬的”，常用搭配 feel/be embarrassed，主语通常为人。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Although you made a mistake, you have been `____`n by the entire team.
+By the way, ____ you spoken to the manager yet?
+
+- [x] have
+- [ ] all right
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+He ____ her for the mistake last week.
+
+- [x] forgave
+- [ ] all right
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Please ____ me for being so late.
 
 - [x] forgive
-- [ ] forgiven
-- [ ] have
+- [ ] all right
+- [ ] anything
 
-> **解析**：forgiven 是动词 forgive 的过去分词，在此处与助动词 combined 构成现在完成时的被动语态（have been forgiven）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+They ____ forgiven him for his past actions.
+
+- [x] have
+- [ ] all right
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+____ you forgotten where we parked the car?
+
+- [x] Have
+- [ ] all right
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+You ____ be exhausted after working all day.
+
+- [x] must
+- [ ] all right
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Don't ____ to me about what you did.
+
+- [x] lie
+- [ ] all right
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Why are you ____ at me like this?
+
+- [x] looking
+- [ ] all right
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Did ____ strange happen in the office today?
+
+- [x] something
+- [ ] all right
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Is there ____ else you want to tell me?
+
+- [x] anything
+- [ ] all right
+- [ ] be
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+____ you spoken with your advisor about this plan?
+
+- [x] Have
+- [ ] all right
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

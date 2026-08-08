@@ -53,83 +53,176 @@ ask if / ask whether / wonder if / wonder whether 用来间接询问：I wonder 
 
 <quiz-sentence-builder>
 
-1. **中文**：我想为今天早上错过了员工会议向您道歉。  
-   **英文**：I want to apologize for missing the staff meeting this morning.
-   > **解析**：apologize 不及物动词，表示“道歉”，常用结构为 apologize to somebody for something。
+1. **中文**：在会议上迟到后，他向在场所有人表达了诚挚的道歉。
+   **英文**：I must apologize for the unexpected delay in my reply.
+   > **解析**：apologize 表示“道歉/致歉”。
 
-2. **中文**：请接受我对您祖父去世最深切的吊唁与慰问。  
-   **英文**：Please accept my deepest condolences on the passing of your grandfather.
-   > **解析**：condolences 常用复数名词，意为“吊唁；慰问”，表达哀悼常用 accept my condolences。
+2. **中文**：你必须在日常生活中多去关心自己的身体健康。
+   **英文**：Good managers really care about their employees' well-being.
+   > **解析**：care about 表示“在乎/关心”。
 
-3. **中文**：许多朋友和同事参加了葬礼上的悼念仪式。  
-   **英文**：Many friends and colleagues attended the memorial service at the funeral.
-   > **解析**：funeral 可数名词，意为“葬礼；丧礼”，常用于表达悼念或告知坏消息的语境。
+3. **中文**：二手车的机械状况经过了专业检测。
+   **英文**：The car is in excellent condition after the repair.
+   > **解析**：condition 表示“状况/条件”。
 
-4. **中文**：我们都希望她能从膝盖手术中快速康复。  
-   **英文**：We all hope that she will recover quickly from her knee surgery.
-   > **解析**：recover 不及物动词，意为“康复；恢复健康”，常与介词 from 连用（recover from）。
+4. **中文**：闻讯他的离世，朋友们纷纷发去切的吊唁。
+   **英文**：Please accept our deepest condolences during this hard time.
+   > **解析**：condolences 表示“吊唁/慰问”。
 
-5. **中文**：非常抱歉我今天把演示日程搞砸了。  
-   **英文**：I am really sorry that I messed up the presentation schedules today.
-   > **解析**：mess up 口语短语动词，意为“搞砸；弄乱”，此处作过去时 messed up。
+5. **中文**：迟到不是破坏团队整体约定的借口。
+   **英文**：There is no valid excuse for missing such a deadline.
+   > **解析**：excuse 表示“借口/原谅”。
 
-6. **中文**：优秀的管理者真心关心地心员工的健康与福祉。  
-   **英文**：Good managers genuinely care about the health and well-being of their staff about ask if.
-   > **解析**：care about 动词短语，意为“关心；在意”，后接关心的人或事物。
+6. **中文**：这份美好的回忆将永远留存在我们心中。
+   **英文**：His inspiring words will stay in our hearts forever.
+   > **解析**：forever 表示“永远/永久”。
 
-7. **中文**：他发信息表示很抱歉延迟回复。  
-   **英文**：He sent a text message saying he was sorry for the delay in replying.
-   > **解析**：be sorry for ... 常用固定句型，意为“为……感到抱歉”，介词 for 后接名词或动名词。
+7. **中文**：亲友们齐聚一堂参加了尊严庄重的葬礼。
+   **英文**：Family members gathered to attend the funeral service.
+   > **解析**：funeral 表示“葬礼”。
 
-8. **中文**：听说你生病我很难过，但很高兴你在休息。  
-   **英文**：I was so sorry to hear about your illness, but I am glad you are resting.
-   > **解析**：be sorry to hear ... 表达同情或慰问的常用句型，意为“很遗憾/难过听说……”。
+8. **中文**：多休息并按时服药能帮助病人早日好转。
+   **英文**：We hope your grandmother will get better soon.
+   > **解析**：get better 表示“好转/康复”。
 
-9. **中文**：我们给她送去了一个漂亮的花篮，上面附着写有“早日康复”的卡片。  
-   **英文**：We sent her a lovely flower basket with a card that read "Get well soon".
-   > **解析**：get well soon 常用祝福语，意为“早日康复”，get well 表示“恢复健康”。
+9. **中文**：在祝贺卡片上大家写下了早日康复的祝福。
+   **英文**：We sent a gift card with a get well soon note.
+   > **解析**：get well soon 表示“早日康复”。
 
-10. **中文**：医生向我们保证病人的状况每天都在改善。  
-   **英文**：The doctor reassured us that the patient's condition is improving daily.
-   > **解析**：condition 名词，在此意为“健康状况；病情”，可用以指代人的身体健康状态。
+10. **中文**：得知老邻居离世的消息，大家感到深深的悲痛与丧失感。
+   **英文**：The sudden loss of his dog made him very sad.
+   > **解析**：loss 表示“损失/丧失/亲人离世”。
+
+11. **中文**：十分抱歉，我不小心搞砸了展示文档的格式。
+   **英文**：I am sorry that I mess up the schedule today.
+   > **解析**：mess up 表示“搞砸/弄乱”。
+
+12. **中文**：他绝对不是故意踩到你的脚的。
+   **英文**：I did not break your favourite mug on purpose.
+   > **解析**：on purpose 表示“故意地/有预谋地”。
+
+13. **中文**：经过两周的修养，他终于从重感冒中恢复了。
+   **英文**：It takes time to recover fully from surgery.
+   > **解析**：recover 表示“恢复/康复”。
+
+14. **中文**：如果我们更早地发现问题，就能避免损失。
+   **英文**：The sooner we resolve the problem, the better.
+   > **解析**：sooner 表示“更早地”。
+
+15. **中文**：我为昨天在电话里对你发脾气感到报歉。
+   **英文**：I am so sorry for making a mistake on your order.
+   > **解析**：sorry for 表示“对……感到报歉”。
+
+16. **中文**：听说你祖母生病住院的消息，我感到非常难过。
+   **英文**：I am sorry to hear about your bad news today.
+   > **解析**：sorry to hear 表示“听闻……感到难过”。
+
+17. **中文**：真太可惜了，我们因为堵车没赶上精彩的开场。
+   **英文**：It is too bad that you cannot join us tonight.
+   > **解析**：too bad 表示“太可惜了/太糟了”。
+
+18. **中文**：我想知道是否明天图书馆会正常开放。
+   **英文**：I wonder if she received my apology message yet.
+   > **解析**：wonder if 表示“想知道是否”。
+
+19. **中文**：我想知道是否经理已经批准了假条申请。
+   **英文**：I wonder whether the flight will be canceled.
+   > **解析**：wonder whether 表示“想知道是否”。
+
+20. **中文**：如果你有任何疑问，可以随时询问前台人员。
+   **英文**：Don't hesitate to ask the doctor any questions.
+   > **解析**：ask 表示“询问/请求”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I want to apologize for missing the staff meeting this morning.
-   > **中文**：我想为今天早上错过了员工会议向您道歉。
+1. I must apologize for the unexpected delay in my reply.
+   > **中文**：在会议上迟到后，他向在场所有人表达了诚挚的道歉。
 
-2. Please accept my deepest condolences on the passing of your grandfather.
-   > **中文**：请接受我对您祖父去世最深切的吊唁与慰问。
+2. Good managers really care about their employees' well-being.
+   > **中文**：你必须在日常生活中多去关心自己的身体健康。
 
-3. Many friends and colleagues attended the memorial service at the funeral.
-   > **中文**：许多朋友和同事参加了葬礼上的悼念仪式。
+3. The car is in excellent condition after the repair.
+   > **中文**：二手车的机械状况经过了专业检测。
 
-4. We all hope that she will recover quickly from her knee surgery.
-   > **中文**：我们都希望她能从膝盖手术中快速康复。
+4. Please accept our deepest condolences during this hard time.
+   > **中文**：闻讯他的离世，朋友们纷纷发去切的吊唁。
 
-5. I am really sorry that I messed up the presentation schedules today.
-   > **中文**：非常抱歉我今天把演示日程搞砸了。
+5. There is no valid excuse for missing such a deadline.
+   > **中文**：迟到不是破坏团队整体约定的借口。
 
-6. Good managers genuinely care about the health and well-being of their staff about ask if.
-   > **中文**：优秀的管理者真心关心地心员工的健康与福祉。
+6. His inspiring words will stay in our hearts forever.
+   > **中文**：这份美好的回忆将永远留存在我们心中。
 
-7. He sent a text message saying he was sorry for the delay in replying.
-   > **中文**：他发信息表示很抱歉延迟回复。
+7. Family members gathered to attend the funeral service.
+   > **中文**：亲友们齐聚一堂参加了尊严庄重的葬礼。
 
-8. I was so sorry to hear about your illness, but I am glad you are resting.
-   > **中文**：听说你生病我很难过，但很高兴你在休息。
+8. We hope your grandmother will get better soon.
+   > **中文**：多休息并按时服药能帮助病人早日好转。
 
-9. We sent her a lovely flower basket with a card that read "Get well soon".
-   > **中文**：我们给她送去了一个漂亮的花篮，上面附着写有“早日康复”的卡片。
+9. We sent a gift card with a get well soon note.
+   > **中文**：在祝贺卡片上大家写下了早日康复的祝福。
 
-10. The doctor reassured us that the patient's condition is improving daily.
-   > **中文**：医生向我们保证病人的状况每天都在改善。
+10. The sudden loss of his dog made him very sad.
+   > **中文**：得知老邻居离世的消息，大家感到深深的悲痛与丧失感。
+
+11. I am sorry that I mess up the schedule today.
+   > **中文**：十分抱歉，我不小心搞砸了展示文档的格式。
+
+12. I did not break your favourite mug on purpose.
+   > **中文**：他绝对不是故意踩到你的脚的。
+
+13. It takes time to recover fully from surgery.
+   > **中文**：经过两周的修养，他终于从重感冒中恢复了。
+
+14. The sooner we resolve the problem, the better.
+   > **中文**：如果我们更早地发现问题，就能避免损失。
+
+15. I am so sorry for making a mistake on your order.
+   > **中文**：我为昨天在电话里对你发脾气感到报歉。
+
+16. I am sorry to hear about your bad news today.
+   > **中文**：听说你祖母生病住院的消息，我感到非常难过。
+
+17. It is too bad that you cannot join us tonight.
+   > **中文**：真太可惜了，我们因为堵车没赶上精彩的开场。
+
+18. I wonder if she received my apology message yet.
+   > **中文**：我想知道是否明天图书馆会正常开放。
+
+19. I wonder whether the flight will be canceled.
+   > **中文**：我想知道是否经理已经批准了假条申请。
+
+20. Don't hesitate to ask the doctor any questions.
+   > **中文**：如果你有任何疑问，可以随时询问前台人员。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| apologize | 道歉 |
+| care about | 在乎 / 关心 |
+| condition | 状况 |
+| condolences | 吊唁 / 慰问 |
+| excuse | 借口 |
+| forever | 永远 |
+| funeral | 葬礼 |
+| get better | 好转 / 康复 |
+| get well soon | 早日康复 |
+| loss | 损失 / 丧失 |
+| mess up | 搞砸 |
+| on purpose | 故意地 |
+| recover | 恢复 / 康复 |
+| sooner | 更早地 |
+| sorry for | 对……感到抱歉 |
+| sorry to hear | 听闻……感到难过 |
+| too bad | 太可惜了 |
+| wonder if | 想知道是否 |
+| wonder whether | 想知道是否 |
+| ask | 询问 |
 
 </quiz-matching>
 
@@ -137,102 +230,202 @@ ask if / ask whether / wonder if / wonder whether 用来间接询问：I wonder 
 
 ### 1
 
-I want to `____` for missing the staff meeting this morning.
+I must ____ for the unexpected delay in my reply.
 
 - [x] apologize
 - [ ] ask
-- [ ] condition
+- [ ] ask if
 
-> **解析**：apologize 不及物动词，表示“道歉”，常用结构为 apologize to somebody for something。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Please accept my deepest `____` on the passing of your grandfather.
+Good managers really care about their employees' ____.
 
-- [x] condolences
+- [x] well-being
+- [ ] apologize
 - [ ] ask
-- [ ] condition
 
-> **解析**：condolences 常用复数名词，意为“吊唁；慰问”，表达哀悼常用 accept my condolences。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Many friends and colleagues attended the memorial service at the `____`.
+The car is in excellent ____ after the repair.
 
-- [x] funeral
-- [ ] ask if
-- [ ] condolences
+- [x] condition
+- [ ] apologize
+- [ ] ask
 
-> **解析**：funeral 可数名词，意为“葬礼；丧礼”，常用于表达悼念或告知坏消息的语境。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-We all hope that she will `____` quickly from her knee surgery.
+Please accept our deepest ____ during this hard time.
 
-- [x] recover
-- [ ] ask whether
-- [ ] excuse
+- [x] condolences
+- [ ] apologize
+- [ ] ask
 
-> **解析**：recover 不及物动词，意为“康复；恢复健康”，常与介词 from 连用（recover from）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-I am really `____` I messed up the presentation schedules today.
+There is no valid ____ for missing such a deadline.
 
-- [x] sorry that
-- [ ] care about
-- [ ] forever
+- [x] excuse
+- [ ] apologize
+- [ ] ask
 
-> **解析**：mess up 口语短语动词，意为“搞砸；弄乱”，此处作过去时 messed up。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Good managers genuinely care about the health and well-being of their staff about `____` if.
+His inspiring words will stay in our hearts ____.
 
-- [x] ask
-- [ ] condolences
-- [ ] get better
+- [x] forever
+- [ ] apologize
+- [ ] ask
 
-> **解析**：care about 动词短语，意为“关心；在意”，后接关心的人或事物。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-He sent a text message saying he was `____` the delay in replying.
+Family members gathered to attend the ____ service.
 
-- [x] sorry for
-- [ ] condolences
-- [ ] get better
+- [x] funeral
+- [ ] apologize
+- [ ] ask
 
-> **解析**：be sorry for ... 常用固定句型，意为“为……感到抱歉”，介词 for 后接名词或动名词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-I was so `____` about your illness, but I am glad you are resting.
+We hope your ____ will get better soon.
 
-- [x] sorry to hear
-- [ ] excuse
-- [ ] get well soon
+- [x] grandmother
+- [ ] apologize
+- [ ] ask
 
-> **解析**：be sorry to hear ... 表达同情或慰问的常用句型，意为“很遗憾/难过听说……”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-We sent her a lovely flower basket with a card that read "`____`".
+We ____ a gift card with a get well soon note.
 
-- [x] get well soon
-- [ ] forever
-- [ ] mess up
+- [x] sent
+- [ ] apologize
+- [ ] ask
 
-> **解析**：get well soon 常用祝福语，意为“早日康复”，get well 表示“恢复健康”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The doctor reassured us that the patient's `____` is improving daily.
+The sudden ____ of his dog made him very sad.
 
-- [x] condition
-- [ ] get better
-- [ ] news
+- [x] loss
+- [ ] apologize
+- [ ] ask
 
-> **解析**：condition 名词，在此意为“健康状况；病情”，可用以指代人的身体健康状态。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+I am sorry that I mess up the ____ today.
+
+- [x] schedule
+- [ ] apologize
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+I did not break your ____ mug on purpose.
+
+- [x] favourite
+- [ ] apologize
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+It takes time to ____ fully from surgery.
+
+- [x] recover
+- [ ] apologize
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The ____ we resolve the problem, the better.
+
+- [x] sooner
+- [ ] apologize
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+I am so sorry for making a ____ on your order.
+
+- [x] mistake
+- [ ] apologize
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+I am sorry to hear about your bad ____ today.
+
+- [x] news
+- [ ] apologize
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+It is too bad that you cannot join us ____.
+
+- [x] tonight
+- [ ] apologize
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+I wonder if she ____ my apology message yet.
+
+- [x] received
+- [ ] apologize
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+I wonder whether the flight will be ____.
+
+- [x] canceled
+- [ ] apologize
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Don't hesitate to ____ the doctor any questions.
+
+- [x] ask
+- [ ] apologize
+- [ ] ask if
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

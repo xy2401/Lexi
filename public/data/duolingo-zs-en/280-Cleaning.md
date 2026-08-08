@@ -65,83 +65,176 @@ all in all, away, blinds, company, draw attention, dust, get, goes without sayin
 
 <quiz-sentence-builder>
 
-1. **中文**：在今天下午客人到达之前，我们需要快速收拾一下客厅。  
-   **英文**：We need to quickly tidy up the living room before our guests arrive this afternoon.
-   > **解析**：`tidy up` 是动词短语，意为“收拾、整理”，在句中作不定式 `to tidy up` 的核心动词。
+1. **中文**：客人半小时后就要到了，我们赶紧把客厅整理一下。
+   **英文**：Company is coming in half an hour, so let's tidy up the living room.
+   > **解析**：tidy up 意为整理、收拾。
 
-2. **中文**：经过两个小时的辛勤劳动，厨房地板变得一尘不染、异常干净。  
-   **英文**：After two hours of hard work, the kitchen floor was completely clean and spotless about away.
-   > **解析**：`spotless` 是形容词，由 `spot`（污点）+ `-less`（无）构成，意为“极干净的、一尘不染的”。
+2. **中文**：我花了半个小时用劲擦洗浴室地板上的污渍。
+   **英文**：I spent half an hour scrubbing the tough stains on the floor.
+   > **解析**：scrub 意为用力擦洗。
 
-3. **中文**：她用新的无线吸尘器吸干净了房子里的所有地毯。  
-   **英文**：She used the new cordless machine to vacuum all the carpets in the house about blinds.
-   > **解析**：`vacuum` 在此作动词，意为“用吸尘器清扫”，宾语为 `all the carpets`。
+3. **中文**：请拿一块湿布给架子和桌子擦掉灰尘。
+   **英文**：Please use a damp cloth to dust the shelves and table.
+   > **解析**：dust 意为除尘、擦灰。
 
-4. **中文**：吃完午饭后，请用湿抹布擦干净餐桌。  
-   **英文**：Please wipe the dining table with a damp cloth after finishing lunch about company.
-   > **解析**：`wipe` 是动词，意为“擦拭、抹干净”。常用搭配 `wipe A with B`（用B擦拭A）。
+4. **中文**：我们必须在朋友们来之前把这些旧报纸扔掉。
+   **英文**：We must throw out these old newspapers before friends arrive.
+   > **解析**：throw out 意为扔掉、丢弃。
 
-5. **中文**：打翻了一杯橙汁后，他不得不拖干净厨房地板。  
-   **英文**：He had to mop the kitchen floor after spilling a glass of orange juice all in all.
-   > **解析**：`mop` 在此作动词，意为“用拖把拖（地）”，在句中作动词 `had to` 的谓语。
+5. **中文**：不言而喻，卫生间在客人来访前必须保持干净。
+   **英文**：It goes without saying that the bathroom needs to be clean.
+   > **解析**：goes without saying 意为不言而喻、不用说。
 
-6. **中文**：她把周日下午的时间花在整理书架和办公文件上。  
-   **英文**：She spent her Sunday afternoon organizing her bookshelves and office documents about dust.
-   > **解析**：`organize` 是动词，意为“整理、把……组织得井井有条”，在句中接动名词 `organizing`。
+6. **中文**：我们今晚家里有客人要来，所以要把房子打扫干净。
+   **英文**：We are having company tonight, so we must clean the house.
+   > **解析**：company 意为客人、访客。
 
-7. **中文**：你需要一把硬毛刷来刷洗掉浴室瓷砖上的顽固污渍。  
-   **英文**：You need a hard brush to scrub the stubborn stains off the bathroom tiles.
-   > **解析**：`scrub` 是动词，意为“用力刷洗、擦洗”，常带出用力清洁的意味。
+7. **中文**：干净整洁的房屋能给到访的客人留下良好的第一印象。
+   **英文**：A clean house will make a good first impression on visitors.
+   > **解析**：impression 意为印象。
 
-8. **中文**：清理掉桌面上的所有杂乱物品，让人更容易集中精力工作。  
-   **英文**：Clearing away all the desktop clutter makes it much easier to focus on work draw attention.
-   > **解析**：`clutter` 作名词，意为“杂乱物品、乱七八糟的东西”，属于不可数名词。
+8. **中文**：百叶窗上积了不少灰尘，我们把它 wipe down 一下吧。
+   **英文**：The window blinds are dusty, so let me wipe them down.
+   > **解析**：blinds 意为百叶窗。
 
-9. **中文**：开窗通风有助于在家人来访前让客房空气保持清新。  
-   **英文**：Opening the window helps freshen up the guest room before family visits get.
-   > **解析**：`freshen up` 是动词短语，意为“整理使清新、焕然一新/通风梳洗”。
+9. **中文**：房屋不需要打扫得完美无瑕，过得去就可以了。
+   **英文**：The place doesn't have to be perfect, just good enough.
+   > **解析**：good enough 意为足够好、过得去。
 
-10. **中文**：他们在假期开始前对整座房子进行了一次大扫除/深度清洁。  
-   **英文**：They gave the entire house a deep clean right before the holidays started goes without saying.
-   > **解析**：`deep clean` 作名词或动词，意为“深度清洁、彻底大扫除”，搭配 `give sth. a deep clean`。
+10. **中文**：我们不需要请专业保洁，自己快速收拾一下就行。
+   **英文**：We don't need the house cleaned professionally, just a quick sweep.
+   > **解析**：professionally 意为专业地。
+
+11. **中文**：我列出了一份打扫待办事项清单，方便我们分工合作。
+   **英文**：I made a cleaning to-do list so we can share the tasks.
+   > **解析**：to-do list 意为待办事项清单。
+
+12. **中文**：我们需要去超市买一卷厨房纸巾来擦拭台面。
+   **英文**：We need to buy a roll of paper towels to wipe the counter.
+   > **解析**：paper towels 意为厨房纸巾。
+
+13. **中文**：别忘了检查卫生间里的卫生纸是否充足。
+   **英文**：Don't forget to check if there is enough toilet paper in the bathroom.
+   > **解析**：toilet paper 意为卫生纸。
+
+14. **中文**：总而言之，我们在客人到达之前把家里收拾得井井有条。
+   **英文**：All in all, we organized the house well before guests arrived.
+   > **解析**：all in all 意为总而言之。
+
+15. **中文**：提醒我先补充卫生纸真是想得周到！
+   **英文**：Reminding me to restock paper towels was good thinking!
+   > **解析**：good thinking 意为想得周到、好主意。
+
+16. **中文**：把这些角落里的杂物收起来，不要吸引客人的注意。
+   **英文**：Put away the clutter so it doesn't draw attention.
+   > **解析**：draw attention 意为吸引注意。
+
+17. **中文**：我们必须在客人到达前及时完成卫生间的打扫。
+   **英文**：We must finish cleaning the bathroom in time before company arrives.
+   > **解析**：in time 意为及时。
+
+18. **中文**：在买昂贵的清洁工具之前，你应该先仔细考虑一下。
+   **英文**：You should think it over before buying expensive cleaning tools.
+   > **解析**：think it over 意为仔细考虑。
+
+19. **中文**：桌子上的碗碟需要在客人到之前洗干净。
+   **英文**：The dishes on the table need to be washed before guests arrive.
+   > **解析**：need to be 意为需要被……。
+
+20. **中文**：每个人都在分担家庭打扫的家务活。
+   **英文**：Everyone is helping with the daily household chores.
+   > **解析**：household 意为家庭的。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We need to quickly tidy up the living room before our guests arrive this afternoon.
-   > **中文**：在今天下午客人到达之前，我们需要快速收拾一下客厅。
+1. Company is coming in half an hour, so let's tidy up the living room.
+   > **中文**：客人半小时后就要到了，我们赶紧把客厅整理一下。
 
-2. After two hours of hard work, the kitchen floor was completely clean and spotless about away.
-   > **中文**：经过两个小时的辛勤劳动，厨房地板变得一尘不染、异常干净。
+2. I spent half an hour scrubbing the tough stains on the floor.
+   > **中文**：我花了半个小时用劲擦洗浴室地板上的污渍。
 
-3. She used the new cordless machine to vacuum all the carpets in the house about blinds.
-   > **中文**：她用新的无线吸尘器吸干净了房子里的所有地毯。
+3. Please use a damp cloth to dust the shelves and table.
+   > **中文**：请拿一块湿布给架子和桌子擦掉灰尘。
 
-4. Please wipe the dining table with a damp cloth after finishing lunch about company.
-   > **中文**：吃完午饭后，请用湿抹布擦干净餐桌。
+4. We must throw out these old newspapers before friends arrive.
+   > **中文**：我们必须在朋友们来之前把这些旧报纸扔掉。
 
-5. He had to mop the kitchen floor after spilling a glass of orange juice all in all.
-   > **中文**：打翻了一杯橙汁后，他不得不拖干净厨房地板。
+5. It goes without saying that the bathroom needs to be clean.
+   > **中文**：不言而喻，卫生间在客人来访前必须保持干净。
 
-6. She spent her Sunday afternoon organizing her bookshelves and office documents about dust.
-   > **中文**：她把周日下午的时间花在整理书架和办公文件上。
+6. We are having company tonight, so we must clean the house.
+   > **中文**：我们今晚家里有客人要来，所以要把房子打扫干净。
 
-7. You need a hard brush to scrub the stubborn stains off the bathroom tiles.
-   > **中文**：你需要一把硬毛刷来刷洗掉浴室瓷砖上的顽固污渍。
+7. A clean house will make a good first impression on visitors.
+   > **中文**：干净整洁的房屋能给到访的客人留下良好的第一印象。
 
-8. Clearing away all the desktop clutter makes it much easier to focus on work draw attention.
-   > **中文**：清理掉桌面上的所有杂乱物品，让人更容易集中精力工作。
+8. The window blinds are dusty, so let me wipe them down.
+   > **中文**：百叶窗上积了不少灰尘，我们把它 wipe down 一下吧。
 
-9. Opening the window helps freshen up the guest room before family visits get.
-   > **中文**：开窗通风有助于在家人来访前让客房空气保持清新。
+9. The place doesn't have to be perfect, just good enough.
+   > **中文**：房屋不需要打扫得完美无瑕，过得去就可以了。
 
-10. They gave the entire house a deep clean right before the holidays started goes without saying.
-   > **中文**：他们在假期开始前对整座房子进行了一次大扫除/深度清洁。
+10. We don't need the house cleaned professionally, just a quick sweep.
+   > **中文**：我们不需要请专业保洁，自己快速收拾一下就行。
+
+11. I made a cleaning to-do list so we can share the tasks.
+   > **中文**：我列出了一份打扫待办事项清单，方便我们分工合作。
+
+12. We need to buy a roll of paper towels to wipe the counter.
+   > **中文**：我们需要去超市买一卷厨房纸巾来擦拭台面。
+
+13. Don't forget to check if there is enough toilet paper in the bathroom.
+   > **中文**：别忘了检查卫生间里的卫生纸是否充足。
+
+14. All in all, we organized the house well before guests arrived.
+   > **中文**：总而言之，我们在客人到达之前把家里收拾得井井有条。
+
+15. Reminding me to restock paper towels was good thinking!
+   > **中文**：提醒我先补充卫生纸真是想得周到！
+
+16. Put away the clutter so it doesn't draw attention.
+   > **中文**：把这些角落里的杂物收起来，不要吸引客人的注意。
+
+17. We must finish cleaning the bathroom in time before company arrives.
+   > **中文**：我们必须在客人到达前及时完成卫生间的打扫。
+
+18. You should think it over before buying expensive cleaning tools.
+   > **中文**：在买昂贵的清洁工具之前，你应该先仔细考虑一下。
+
+19. The dishes on the table need to be washed before guests arrive.
+   > **中文**：桌子上的碗碟需要在客人到之前洗干净。
+
+20. Everyone is helping with the daily household chores.
+   > **中文**：每个人都在分担家庭打扫的家务活。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| tidy up | 整理；收拾 |
+| scrubbing | 用力擦洗 |
+| dust | 除尘；擦灰 |
+| throw out | 扔掉；丢弃 |
+| goes without saying | 不言而喻；不用说 |
+| company | 客人；访客 |
+| impression | 印象 |
+| blinds | 百叶窗 |
+| good enough | 足够好；过得去 |
+| professionally | 专业地 |
+| to-do list | 待办事项清单 |
+| paper towels | 厨房纸巾 |
+| toilet paper | 卫生纸 |
+| All in all | 总而言之 |
+| good thinking | 想得周到；好主意 |
+| draw | 吸引注意 |
+| in time | 及时 |
+| think it over | 仔细考虑 |
+| need to be | 需要被…… |
+| household | 家庭的 |
 
 </quiz-matching>
 
@@ -149,102 +242,202 @@ all in all, away, blinds, company, draw attention, dust, get, goes without sayin
 
 ### 1
 
-We need to quickly `____` the living room before our guests arrive this afternoon.
+____ is coming in half an hour, so let's tidy up the living room.
 
-- [x] tidy up
+- [x] Company
 - [ ] all in all
-- [ ] draw attention
+- [ ] away
 
-> **解析**：`tidy up` 是动词短语，意为“收拾、整理”，在句中作不定式 `to tidy up` 的核心动词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-After two hours of hard work, the kitchen floor was completely clean and spotless about `____`.
+I spent half an hour ____ the tough stains on the floor.
 
-- [x] away
-- [ ] blinds
-- [ ] get
+- [x] scrubbing
+- [ ] all in all
+- [ ] away
 
-> **解析**：`spotless` 是形容词，由 `spot`（污点）+ `-less`（无）构成，意为“极干净的、一尘不染的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-She used the new cordless machine to vacuum all the carpets in the house about `____`.
+Please use a damp cloth to ____ the shelves and table.
 
-- [x] blinds
-- [ ] company
-- [ ] goes without saying
+- [x] dust
+- [ ] all in all
+- [ ] away
 
-> **解析**：`vacuum` 在此作动词，意为“用吸尘器清扫”，宾语为 `all the carpets`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Please wipe the dining table with a damp cloth after finishing lunch about `____`.
+We must throw out these old ____ before friends arrive.
 
-- [x] company
-- [ ] draw attention
-- [ ] good enough
+- [x] newspapers
+- [ ] all in all
+- [ ] away
 
-> **解析**：`wipe` 是动词，意为“擦拭、抹干净”。常用搭配 `wipe A with B`（用B擦拭A）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-He had to mop the kitchen floor after spilling a glass of orange juice `____`.
+It goes ____ saying that the bathroom needs to be clean.
 
-- [x] all in all
-- [ ] dust
-- [ ] good thinking
+- [x] without
+- [ ] all in all
+- [ ] away
 
-> **解析**：`mop` 在此作动词，意为“用拖把拖（地）”，在句中作动词 `had to` 的谓语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-She spent her Sunday afternoon organizing her bookshelves and office documents about `____`.
+We are having ____ tonight, so we must clean the house.
 
-- [x] dust
-- [ ] get
-- [ ] have to be
+- [x] company
+- [ ] all in all
+- [ ] away
 
-> **解析**：`organize` 是动词，意为“整理、把……组织得井井有条”，在句中接动名词 `organizing`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-You need a hard brush to `____` the stubborn stains off the bathroom tiles.
+A clean house will make a good first ____ on visitors.
 
-- [x] scrub
-- [ ] get
-- [ ] have to be
+- [x] impression
+- [ ] all in all
+- [ ] away
 
-> **解析**：`scrub` 是动词，意为“用力刷洗、擦洗”，常带出用力清洁的意味。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Clearing away all the desktop clutter makes it much easier to focus on work `____`.
+The window ____ are dusty, so let me wipe them down.
 
-- [x] draw attention
-- [ ] good enough
-- [ ] impression
+- [x] blinds
+- [ ] all in all
+- [ ] away
 
-> **解析**：`clutter` 作名词，意为“杂乱物品、乱七八糟的东西”，属于不可数名词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Opening the window helps freshen up the guest room before family visits `____`.
+The place ____ have to be perfect, just good enough.
 
-- [x] get
-- [ ] good thinking
-- [ ] in time
+- [x] doesn't
+- [ ] all in all
+- [ ] away
 
-> **解析**：`freshen up` 是动词短语，意为“整理使清新、焕然一新/通风梳洗”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-They gave the entire house a deep clean right before the holidays started `____`.
+We don't need the house cleaned ____, just a quick sweep.
 
-- [x] goes without saying
-- [ ] have to be
-- [ ] need to be
+- [x] professionally
+- [ ] all in all
+- [ ] away
 
-> **解析**：`deep clean` 作名词或动词，意为“深度清洁、彻底大扫除”，搭配 `give sth. a deep clean`。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+I made a ____ to-do list so we can share the tasks.
+
+- [x] cleaning
+- [ ] all in all
+- [ ] away
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+We need to buy a roll of paper towels to wipe the ____.
+
+- [x] counter
+- [ ] all in all
+- [ ] away
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Don't forget to check if there is enough toilet paper in the ____.
+
+- [x] bathroom
+- [ ] all in all
+- [ ] away
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+All in all, we ____ the house well before guests arrived.
+
+- [x] organized
+- [ ] all in all
+- [ ] away
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+____ me to restock paper towels was good thinking!
+
+- [x] Reminding
+- [ ] all in all
+- [ ] away
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Put ____ the clutter so it doesn't draw attention.
+
+- [x] away
+- [ ] all in all
+- [ ] blinds
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+We must finish cleaning the bathroom in time before ____ arrives.
+
+- [x] company
+- [ ] all in all
+- [ ] away
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+You should think it over before buying ____ cleaning tools.
+
+- [x] expensive
+- [ ] all in all
+- [ ] away
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The ____ on the table need to be washed before guests arrive.
+
+- [x] dishes
+- [ ] all in all
+- [ ] away
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Everyone is helping with the daily ____ chores.
+
+- [x] household
+- [ ] all in all
+- [ ] away
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

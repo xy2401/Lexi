@@ -59,83 +59,176 @@ approach, arrow, beyond, bury, collect, deep, evil, fate, get out of, instantly,
 
 <quiz-sentence-builder>
 
-1. **中文**：勇敢的骑士慢慢靠近古老的城堡大门。  
-   **英文**：The brave knight slowly approached the ancient castle gate.
-   > **解析**：`approach` 在本句中作及物动词，意为“靠近、接近”，直接后接宾语 `the ancient castle gate`，无需加介词 `to`。
+1. **中文**：勇敢的骑士挥舞着宝剑对抗邪恶的巫师。
+   **英文**：The brave knight brandished his sword against the evil wizard.
+   > **解析**：sword 表示宝剑；evil 表示邪恶的。
 
-2. **中文**：旅行者们在攀登高山前积聚了力量。  
-   **英文**：The travelers collected their strength before climbing the high mountain.
-   > **解析**：`collect` 在此处作动词，意为“聚集、积聚”，短语 `collect one's strength` 表示“积蓄力量/鼓起勇气”。
+2. **中文**：弓箭手向空中射出一支带有魔法光芒的箭。
+   **英文**：The archer shot a glowing arrow high into the night sky.
+   > **解析**：arrow 表示箭；magical 表示神奇的、有魔力的。
 
-3. **中文**：我们必须找到一条隐蔽的路径脱离这片黑森林。  
-   **英文**：We must find a secret path to get out of this dark forest.
-   > **解析**：`get out of` 是固定动词短语，意为“从……离开/逃离”，后接地点名词 `this dark forest`。
+3. **中文**：探险家们穿越神秘的森林去寻找埋藏的宝藏。
+   **英文**：Explorers traveled through the mysterious forest to find buried treasure.
+   > **解析**：mysterious 表示神秘的；treasure 表示宝藏。
 
-4. **中文**：正当太阳西沉之际，一条神秘的巨龙出现在空中。  
-   **英文**：Just as the sun was setting, a mysterious dragon appeared in the sky.
-   > **解析**：`just as` 用作从属连词，引导时间状语从句，强调“恰好在……的时候”，画面感强。
+4. **中文**：这个古老的传说讲述了一个拯救王国的年轻英雄。
+   **英文**：This ancient legend tells the story of a hero who saved the kingdom.
+   > **解析**：legend 表示传说。
 
-5. **中文**：一位神秘的陌生人递给英雄一张有魔力的地图。  
-   **英文**：A mysterious stranger gave the hero a magical map.
-   > **解析**：`mysterious` 是形容词，意为“神秘的”，在句中作前置定语修饰名词 `stranger`。
+5. **中文**：他们相信命运将引导他们完成这趟艰险的旅程。
+   **英文**：They believed that fate would guide them through the long journey.
+   > **解析**：fate 表示命运；journey 表示旅程。
 
-6. **中文**：她凝聚了全身的力量从石头中拔出宝剑。  
-   **英文**：She gathered all her strength to pull the sword from the stone.
-   > **解析**：`strength` 是不可数名词，意为“力量、体力”，句中作动词 `gathered` 的宾语。
+6. **中文**：当队伍靠近古老的城堡时，大门自动缓缓打开。
+   **英文**：As the heroes began to approach the castle, the gates opened.
+   > **解析**：approach 表示靠近、接近。
 
-7. **中文**：传说珍贵的皇家宝藏深埋地下。  
-   **英文**：The legend says that a royal treasure is buried deep underground.
-   > **解析**：`treasure` 是名词，意为“宝藏”，在从句中作主语，与过去分词 `buried` 构成被动结构 `is buried`。
+7. **中文**：海盗们决定将金币埋藏在深山洞穴之中。
+   **英文**：Pirates chose to bury gold coins inside a deep mountain cave.
+   > **解析**：bury 表示埋藏；deep 表示深的。
 
-8. **中文**：精灵精确定向射出一支箭命中目标。  
-   **英文**：The elf shot an arrow with precision to hit the target.
-   > **解析**：`arrow` 是可数名词，意为“箭”，搭配 `shoot an arrow` 表示“射出一支箭”。
+8. **中文**：喝下药水后，巨人的力量瞬间得到了成倍增长。
+   **英文**：After drinking the potion, his strength increased instantly.
+   > **解析**：strength 表示力量；instantly 表示立即、瞬间。
 
-9. **中文**：他们走入魔幻森林的深处寻找答案。  
-   **英文**：They walked deep into the magical woods searching for answers (get out of) about beyond.
-   > **解析**：`deep` 此处用作副词，意为“深深地、深入地”，修饰介词短语 `into the magical woods`。
+9. **中文**：城堡前方不远处有一座横跨大峡谷的吊桥。
+   **英文**：There was a narrow wooden bridge over the canyon up ahead.
+   > **解析**：up ahead 表示前方、前方不远处。
 
-10. **中文**：当钟声响起时，邪恶的诅咒瞬间被破除了。  
-   **英文**：The wicked curse was instantly broken when the bell rang.
-   > **解析**：`instantly` 是副词，意为“立即、瞬间”，放在助动词 `was` 和过去分词 `broken` 之间作状语。
+10. **中文**：森林深处的景象超越了任何人的想象力。
+   **英文**：The scenery inside the forest was beyond anyone's wild imagination.
+   > **解析**：beyond 表示超越、在……之外。
+
+11. **中文**：怪物一个接一个地被英雄们击退了。
+   **英文**：The shadowy monsters were defeated one by one by the heroes.
+   > **解析**：one by one 表示一个接一个地。
+
+12. **中文**：那条可怕的巨龙不再威胁附近的村民了。
+   **英文**：The terrifying dragon no longer threatened the peaceful villagers.
+   > **解析**：no longer 表示不再。
+
+13. **中文**：前途充满了未知的危险；尽管如此，他们依然勇敢前行。
+   **英文**：Danger lay ahead; nevertheless, the adventurers pushed forward bravely.
+   > **解析**：nevertheless 表示尽管如此、然而。
+
+14. **中文**：救出公主后，摆脱魔咒成了他们最不担心的事。
+   **英文**：Escaping the dark cave was the least of their worries now.
+   > **解析**：the least of 表示最不……的。
+
+15. **中文**：随着魔法显现，周围变得越来越明亮。
+   **英文**：As the magic sparkled, the dark room grew more and more luminous.
+   > **解析**：more and more 表示越来越……
+
+16. **中文**：英雄必须找到拯救被困臣民的方法并逃离城堡。
+   **英文**：The hero needed to find a way to get out of the castle.
+   > **解析**：get out of 表示逃离、摆脱。
+
+17. **中文**：正当巫师念动咒语时，闪电划破了天空。
+   **英文**：Just as the wizard chanted the spell, lightning struck the tower.
+   > **解析**：just as 表示正当……之时。
+
+18. **中文**：奶奶每晚都会给孩子们讲述生动的童话故事。
+   **英文**：Grandma reads an enchanting fairytale to the kids every evening.
+   > **解析**：tale 表示故事、童话。
+
+19. **中文**：探险队员们在途中收集了许多神奇的草药。
+   **英文**：The group managed to collect magical herbs along the riverbank.
+   > **解析**：collect 表示收集。
+
+20. **中文**：别担心，善良的力量终将战胜黑暗。
+   **英文**：Don't worry, the force of good will eventually conquer dark magic.
+   > **解析**：worry 表示担心。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The brave knight slowly approached the ancient castle gate.
-   > **中文**：勇敢的骑士慢慢靠近古老的城堡大门。
+1. The brave knight brandished his sword against the evil wizard.
+   > **中文**：勇敢的骑士挥舞着宝剑对抗邪恶的巫师。
 
-2. The travelers collected their strength before climbing the high mountain.
-   > **中文**：旅行者们在攀登高山前积聚了力量。
+2. The archer shot a glowing arrow high into the night sky.
+   > **中文**：弓箭手向空中射出一支带有魔法光芒的箭。
 
-3. We must find a secret path to get out of this dark forest.
-   > **中文**：我们必须找到一条隐蔽的路径脱离这片黑森林。
+3. Explorers traveled through the mysterious forest to find buried treasure.
+   > **中文**：探险家们穿越神秘的森林去寻找埋藏的宝藏。
 
-4. Just as the sun was setting, a mysterious dragon appeared in the sky.
-   > **中文**：正当太阳西沉之际，一条神秘的巨龙出现在空中。
+4. This ancient legend tells the story of a hero who saved the kingdom.
+   > **中文**：这个古老的传说讲述了一个拯救王国的年轻英雄。
 
-5. A mysterious stranger gave the hero a magical map.
-   > **中文**：一位神秘的陌生人递给英雄一张有魔力的地图。
+5. They believed that fate would guide them through the long journey.
+   > **中文**：他们相信命运将引导他们完成这趟艰险的旅程。
 
-6. She gathered all her strength to pull the sword from the stone.
-   > **中文**：她凝聚了全身的力量从石头中拔出宝剑。
+6. As the heroes began to approach the castle, the gates opened.
+   > **中文**：当队伍靠近古老的城堡时，大门自动缓缓打开。
 
-7. The legend says that a royal treasure is buried deep underground.
-   > **中文**：传说珍贵的皇家宝藏深埋地下。
+7. Pirates chose to bury gold coins inside a deep mountain cave.
+   > **中文**：海盗们决定将金币埋藏在深山洞穴之中。
 
-8. The elf shot an arrow with precision to hit the target.
-   > **中文**：精灵精确定向射出一支箭命中目标。
+8. After drinking the potion, his strength increased instantly.
+   > **中文**：喝下药水后，巨人的力量瞬间得到了成倍增长。
 
-9. They walked deep into the magical woods searching for answers (get out of) about beyond.
-   > **中文**：他们走入魔幻森林的深处寻找答案。
+9. There was a narrow wooden bridge over the canyon up ahead.
+   > **中文**：城堡前方不远处有一座横跨大峡谷的吊桥。
 
-10. The wicked curse was instantly broken when the bell rang.
-   > **中文**：当钟声响起时，邪恶的诅咒瞬间被破除了。
+10. The scenery inside the forest was beyond anyone's wild imagination.
+   > **中文**：森林深处的景象超越了任何人的想象力。
+
+11. The shadowy monsters were defeated one by one by the heroes.
+   > **中文**：怪物一个接一个地被英雄们击退了。
+
+12. The terrifying dragon no longer threatened the peaceful villagers.
+   > **中文**：那条可怕的巨龙不再威胁附近的村民了。
+
+13. Danger lay ahead; nevertheless, the adventurers pushed forward bravely.
+   > **中文**：前途充满了未知的危险；尽管如此，他们依然勇敢前行。
+
+14. Escaping the dark cave was the least of their worries now.
+   > **中文**：救出公主后，摆脱魔咒成了他们最不担心的事。
+
+15. As the magic sparkled, the dark room grew more and more luminous.
+   > **中文**：随着魔法显现，周围变得越来越明亮。
+
+16. The hero needed to find a way to get out of the castle.
+   > **中文**：英雄必须找到拯救被困臣民的方法并逃离城堡。
+
+17. Just as the wizard chanted the spell, lightning struck the tower.
+   > **中文**：正当巫师念动咒语时，闪电划破了天空。
+
+18. Grandma reads an enchanting fairytale to the kids every evening.
+   > **中文**：奶奶每晚都会给孩子们讲述生动的童话故事。
+
+19. The group managed to collect magical herbs along the riverbank.
+   > **中文**：探险队员们在途中收集了许多神奇的草药。
+
+20. Don't worry, the force of good will eventually conquer dark magic.
+   > **中文**：别担心，善良的力量终将战胜黑暗。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| legend | 传说 |
+| tale | 故事；童话 |
+| magical | 神奇的；有魔力的 |
+| mysterious | 神秘的 |
+| evil | 邪恶的 |
+| fate | 命运 |
+| sword | 剑；宝剑 |
+| arrow | 箭；弓箭 |
+| treasure | 宝藏 |
+| journey | 旅程；征途 |
+| approach | 靠近；接近 |
+| bury | 埋藏；掩埋 |
+| strength | 力量；体力 |
+| up ahead | 前方；前方不远处 |
+| beyond | 在……之外；越过 |
+| instantly | 立即；瞬间 |
+| no longer | 不再 |
+| one by one | 一个接一个地 |
+| nevertheless | 尽管如此；然而 |
+| get out of | 逃离；摆脱 |
 
 </quiz-matching>
 
@@ -143,102 +236,202 @@ approach, arrow, beyond, bury, collect, deep, evil, fate, get out of, instantly,
 
 ### 1
 
-The brave knight slowly `____`ed the ancient castle gate.
+The brave knight brandished his ____ against the evil wizard.
 
-- [x] approach
+- [x] sword
+- [ ] approach
 - [ ] arrow
-- [ ] deep
 
-> **解析**：`approach` 在本句中作及物动词，意为“靠近、接近”，直接后接宾语 `the ancient castle gate`，无需加介词 `to`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The travelers `____`ed their strength before climbing the high mountain.
+The archer shot a glowing ____ high into the night sky.
 
-- [x] collect
-- [ ] arrow
-- [ ] evil
+- [x] arrow
+- [ ] approach
+- [ ] beyond
 
-> **解析**：`collect` 在此处作动词，意为“聚集、积聚”，短语 `collect one's strength` 表示“积蓄力量/鼓起勇气”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-We must find a secret path to `____` this dark forest.
+Explorers traveled through the ____ forest to find buried treasure.
 
-- [x] get out of
-- [ ] beyond
-- [ ] evil
+- [x] mysterious
+- [ ] approach
+- [ ] arrow
 
-> **解析**：`get out of` 是固定动词短语，意为“从……离开/逃离”，后接地点名词 `this dark forest`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-`____` the sun was setting, a mysterious dragon appeared in the sky.
+This ancient ____ tells the story of a hero who saved the kingdom.
 
-- [x] just as
-- [ ] bury
-- [ ] fate
+- [x] legend
+- [ ] approach
+- [ ] arrow
 
-> **解析**：`just as` 用作从属连词，引导时间状语从句，强调“恰好在……的时候”，画面感强。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-A mysterious stranger gave the hero a `____` map.
+They believed that ____ would guide them through the long journey.
 
-- [x] magical
-- [ ] collect
-- [ ] get out of
+- [x] fate
+- [ ] approach
+- [ ] arrow
 
-> **解析**：`mysterious` 是形容词，意为“神秘的”，在句中作前置定语修饰名词 `stranger`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-She gathered all her `____` to pull the sword from the stone.
+As the heroes began to ____ the castle, the gates opened.
 
-- [x] strength
-- [ ] deep
-- [ ] instantly
+- [x] approach
+- [ ] arrow
+- [ ] beyond
 
-> **解析**：`strength` 是不可数名词，意为“力量、体力”，句中作动词 `gathered` 的宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The legend says that a royal treasure is buried `____` underground.
+Pirates chose to ____ gold coins inside a deep mountain cave.
 
-- [x] deep
-- [ ] fate
-- [ ] just as
+- [x] bury
+- [ ] approach
+- [ ] arrow
 
-> **解析**：`treasure` 是名词，意为“宝藏”，在从句中作主语，与过去分词 `buried` 构成被动结构 `is buried`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The elf shot an `____` with precision to hit the target.
+After drinking the potion, his ____ increased instantly.
 
-- [x] arrow
-- [ ] get out of
-- [ ] legend
+- [x] strength
+- [ ] approach
+- [ ] arrow
 
-> **解析**：`arrow` 是可数名词，意为“箭”，搭配 `shoot an arrow` 表示“射出一支箭”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-They walked deep into the magical woods searching for answers (get out of) about `____`.
+There was a ____ wooden bridge over the canyon up ahead.
 
-- [x] beyond
-- [ ] instantly
-- [ ] magical
+- [x] narrow
+- [ ] approach
+- [ ] arrow
 
-> **解析**：`deep` 此处用作副词，意为“深深地、深入地”，修饰介词短语 `into the magical woods`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The wicked curse was `____` broken when the bell rang.
+The scenery inside the forest was ____ anyone's wild imagination.
 
-- [x] instantly
-- [ ] journey
-- [ ] more and more
+- [x] beyond
+- [ ] approach
+- [ ] arrow
 
-> **解析**：`instantly` 是副词，意为“立即、瞬间”，放在助动词 `was` 和过去分词 `broken` 之间作状语。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The shadowy ____ were defeated one by one by the heroes.
+
+- [x] monsters
+- [ ] approach
+- [ ] arrow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The ____ dragon no longer threatened the peaceful villagers.
+
+- [x] terrifying
+- [ ] approach
+- [ ] arrow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Danger lay ahead; ____, the adventurers pushed forward bravely.
+
+- [x] nevertheless
+- [ ] approach
+- [ ] arrow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+____ the dark cave was the least of their worries now.
+
+- [x] Escaping
+- [ ] approach
+- [ ] arrow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+As the magic ____, the dark room grew more and more luminous.
+
+- [x] sparkled
+- [ ] approach
+- [ ] arrow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The hero ____ to find a way to get out of the castle.
+
+- [x] needed
+- [ ] approach
+- [ ] arrow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Just as the wizard chanted the spell, ____ struck the tower.
+
+- [x] lightning
+- [ ] approach
+- [ ] arrow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Grandma reads an ____ fairytale to the kids every evening.
+
+- [x] enchanting
+- [ ] approach
+- [ ] arrow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The group managed to ____ magical herbs along the riverbank.
+
+- [x] collect
+- [ ] approach
+- [ ] arrow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Don't ____, the force of good will eventually conquer dark magic.
+
+- [x] worry
+- [ ] approach
+- [ ] arrow
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

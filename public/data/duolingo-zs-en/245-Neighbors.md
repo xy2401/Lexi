@@ -79,83 +79,176 @@ the problem is / the issue is 是引出抱怨的经典句式。get carried away�
 
 <quiz-sentence-builder>
 
-1. **中文**：我们的隔壁邻居有个午夜给草坪浇水的怪异习惯。  
-   **英文**：Our next-door neighbor has a bizarre habit of watering his lawn at midnight.
-   > **解析**：`bizarre` 是形容词，意为“极其古怪的、怪诞的”，修饰 `habit`。
+1. **中文**：邻居家深夜发出的噪音真是令人难以忍受。
+   **英文**：The loud party noise coming from next door was simply outrageous.
+   > **解析**：outrageous 表示令人不能容忍的、过分的。
 
-2. **中文**：她经常在深夜播放大声的音乐。  
-   **英文**：She constantly plays loud music late into the night.
-   > **解析**：`constantly` 是副词，意为“不断地、经常地”，修饰动词 `plays`。
+2. **中文**：隔壁养的狗整天无休止地对着信箱狂吠。
+   **英文**：The dog next door barks endlessly at the metal mailbox all day.
+   > **解析**：endlessly 表示无休止地；mailbox 表示信箱。
 
-3. **中文**：在工作日晚上制造这么大的噪音简直是令人不能容忍。  
-   **英文**：Making so much noise on a weekday evening is simply outrageous.
-   > **解析**：`outrageous` 是形容词，意为“令人不能容忍的、过分的”，作表语。
+3. **中文**：坦白地说，我觉得这种行为严重侵犯了我们的隐私。
+   **英文**：Frankly, I think this behavior invades our personal privacy.
+   > **解析**：frankly 表示坦白地说；privacy 表示隐私。
 
-4. **中文**：我们安装了木栅栏以保护我们家庭的隐私。  
-   **英文**：We installed a wooden fence to protect our family's privacy.
-   > **解析**：`privacy` 是不可数名词，意为“隐私”，搭配 `protect privacy`。
+4. **中文**：对方将车直接停在了我家私人车道的出口处。
+   **英文**：He parked his sports car right in front of my driveway entrance.
+   > **解析**：driveway 表示车道。
 
-5. **中文**：坦白讲，我不明白他为什么对每个人都态度如此挑衅。  
-   **英文**：Frankly, I don't understand why he acts so aggressively towards everyone.
-   > **解析**：`frankly` 是评注性副词，意为“坦白说、老实说”，常置于句首。
+5. **中文**：发生烟雾报警后，居民们立刻联系了消防队。
+   **英文**：After seeing smoke, neighbors called the local fire department.
+   > **解析**：fire department 表示消防队。
 
-6. **中文**：问题在于他的狗整天叫个不停。  
-   **英文**：The problem is that his dog barks all day long without stopping.
-   > **解析**：`the problem is that...` 是用于指出问题所在的主从复合句型。
+6. **中文**：在争吵变得不可开交之前，大家需要先冷静下来。
+   **英文**：Everyone needs to cool down before discussing the noise complaint.
+   > **解析**：cool down 表示冷静下来。
 
-7. **中文**：他在争吵中情绪失控，开始在车道上大喊大叫。  
-   **英文**：He got carried away during the argument and started shouting at the driveway.
-   > **解析**：`get carried away` 是固定短语，意为“情绪失控、做过头”。
+7. **中文**：请深呼吸，不要因为一时冲动做出激进的事情。
+   **英文**：Take a deep breath and avoid getting carried away during the argument.
+   > **解析**：take a deep breath 表示深呼吸；get carried away 表示一时冲动。
 
-8. **中文**：邻居们应当为保持公共区域的清洁承担责任。  
-   **英文**：Neighbors should take responsibility for keeping the shared area clean.
-   > **解析**：`take responsibility for...` 是固定短语，意为“对……承担责任”。
+8. **中文**：造成破坏的人应当勇敢站出来承担责任。
+   **英文**：Whoever damaged the fence should take responsibility for repairs.
+   > **解析**：take responsibility 表示承担责任。
 
-9. **中文**：自昨天起，一辆奇怪的红色轿车就一直停在我们的车道上。  
-   **英文**：A strange red car has been parked on our driveway since yesterday a piece of.
-   > **解析**：`driveway` 是名词，意为“私人车道”，介词用 `on`。
+9. **中文**：这种恶劣的宠物行为破坏了社区原本的宁静。
+   **英文**：Untrained pets can ruin the peaceful atmosphere of the neighborhood.
+   > **解析**：ruin 表示破坏、毁掉。
 
-10. **中文**：如果您能把电视音量调小一点，我将不胜感激。  
-   **英文**：I would appreciate it if you could turn down the volume of your TV.
-   > **解析**：`would appreciate it if...` 是极具礼貌委婉色彩的常用请求句型。
+10. **中文**：那个奇怪的装置看起来极其怪异，让人摸不着头脑。
+   **英文**：The unusual machine placed in the yard looked completely bizarre.
+   > **解析**：bizarre 表示极其怪异的。
+
+11. **中文**：受到委屈的邻居在交流过程中难过得掉下了眼泪。
+   **英文**：The elderly resident was in tears while explaining her distress.
+   > **解析**：in tears 表示哭泣着、掉眼泪。
+
+12. **中文**：问题在于，双方都拒绝就物业边界做出让步。
+   **英文**：The issue is that neither party is willing to compromise on property lines.
+   > **解析**：the issue is 表示问题在于。
+
+13. **中文**：如果你们能把音乐音量调小一点，我们将不胜感激。
+   **英文**：We would appreciate it if you could turn down the stereo music.
+   > **解析**：would appreciate it 表示（如果……）将不胜感激。
+
+14. **中文**：几乎所有的社区居民都同意建立公共垃圾分类站。
+   **英文**：Pretty much all neighbors agree to set up a shared recycling bin.
+   > **解析**：pretty much 表示几乎、基本上。
+
+15. **中文**：他的院子里堆满了杂物，更不用说那些破旧的家具了。
+   **英文**：His lawn is full of trash, not to mention broken garden chairs.
+   > **解析**：not to mention 表示更不用说。
+
+16. **中文**：那一定就是快递员刚刚送来的社区包裹。
+   **英文**：That must be the delivery driver dropping off a package outside.
+   > **解析**：that must be 表示那一定就是……
+
+17. **中文**：他不断地抱怨隔壁割草机发出的巨响。
+   **英文**：He complains constantly about the loud sound of the lawnmower.
+   > **解析**：constantly 表示不断地、经常。
+
+18. **中文**：这种无休止的争吵严重影响了大家的居住体验。
+   **英文**：This endless bickering destroys any hope for community harmony.
+   > **解析**：endless 表示无休止的。
+
+19. **中文**：我不认为直接报警是解决此类纠纷的首选方式。
+   **英文**：I don't think calling the police right away is the best option.
+   > **解析**：i don't think 表示我不认为……
+
+20. **中文**：请把这块关于保护绿地的告示牌设立在花园入口。
+   **英文**：Please set this reminder sign near the entrance of the garden.
+   > **解析**：set 表示设立、放置。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Our next-door neighbor has a bizarre habit of watering his lawn at midnight.
-   > **中文**：我们的隔壁邻居有个午夜给草坪浇水的怪异习惯。
+1. The loud party noise coming from next door was simply outrageous.
+   > **中文**：邻居家深夜发出的噪音真是令人难以忍受。
 
-2. She constantly plays loud music late into the night.
-   > **中文**：她经常在深夜播放大声的音乐。
+2. The dog next door barks endlessly at the metal mailbox all day.
+   > **中文**：隔壁养的狗整天无休止地对着信箱狂吠。
 
-3. Making so much noise on a weekday evening is simply outrageous.
-   > **中文**：在工作日晚上制造这么大的噪音简直是令人不能容忍。
+3. Frankly, I think this behavior invades our personal privacy.
+   > **中文**：坦白地说，我觉得这种行为严重侵犯了我们的隐私。
 
-4. We installed a wooden fence to protect our family's privacy.
-   > **中文**：我们安装了木栅栏以保护我们家庭的隐私。
+4. He parked his sports car right in front of my driveway entrance.
+   > **中文**：对方将车直接停在了我家私人车道的出口处。
 
-5. Frankly, I don't understand why he acts so aggressively towards everyone.
-   > **中文**：坦白讲，我不明白他为什么对每个人都态度如此挑衅。
+5. After seeing smoke, neighbors called the local fire department.
+   > **中文**：发生烟雾报警后，居民们立刻联系了消防队。
 
-6. The problem is that his dog barks all day long without stopping.
-   > **中文**：问题在于他的狗整天叫个不停。
+6. Everyone needs to cool down before discussing the noise complaint.
+   > **中文**：在争吵变得不可开交之前，大家需要先冷静下来。
 
-7. He got carried away during the argument and started shouting at the driveway.
-   > **中文**：他在争吵中情绪失控，开始在车道上大喊大叫。
+7. Take a deep breath and avoid getting carried away during the argument.
+   > **中文**：请深呼吸，不要因为一时冲动做出激进的事情。
 
-8. Neighbors should take responsibility for keeping the shared area clean.
-   > **中文**：邻居们应当为保持公共区域的清洁承担责任。
+8. Whoever damaged the fence should take responsibility for repairs.
+   > **中文**：造成破坏的人应当勇敢站出来承担责任。
 
-9. A strange red car has been parked on our driveway since yesterday a piece of.
-   > **中文**：自昨天起，一辆奇怪的红色轿车就一直停在我们的车道上。
+9. Untrained pets can ruin the peaceful atmosphere of the neighborhood.
+   > **中文**：这种恶劣的宠物行为破坏了社区原本的宁静。
 
-10. I would appreciate it if you could turn down the volume of your TV.
-   > **中文**：如果您能把电视音量调小一点，我将不胜感激。
+10. The unusual machine placed in the yard looked completely bizarre.
+   > **中文**：那个奇怪的装置看起来极其怪异，让人摸不着头脑。
+
+11. The elderly resident was in tears while explaining her distress.
+   > **中文**：受到委屈的邻居在交流过程中难过得掉下了眼泪。
+
+12. The issue is that neither party is willing to compromise on property lines.
+   > **中文**：问题在于，双方都拒绝就物业边界做出让步。
+
+13. We would appreciate it if you could turn down the stereo music.
+   > **中文**：如果你们能把音乐音量调小一点，我们将不胜感激。
+
+14. Pretty much all neighbors agree to set up a shared recycling bin.
+   > **中文**：几乎所有的社区居民都同意建立公共垃圾分类站。
+
+15. His lawn is full of trash, not to mention broken garden chairs.
+   > **中文**：他的院子里堆满了杂物，更不用说那些破旧的家具了。
+
+16. That must be the delivery driver dropping off a package outside.
+   > **中文**：那一定就是快递员刚刚送来的社区包裹。
+
+17. He complains constantly about the loud sound of the lawnmower.
+   > **中文**：他不断地抱怨隔壁割草机发出的巨响。
+
+18. This endless bickering destroys any hope for community harmony.
+   > **中文**：这种无休止的争吵严重影响了大家的居住体验。
+
+19. I don't think calling the police right away is the best option.
+   > **中文**：我不认为直接报警是解决此类纠纷的首选方式。
+
+20. Please set this reminder sign near the entrance of the garden.
+   > **中文**：请把这块关于保护绿地的告示牌设立在花园入口。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| bizarre | 极其怪异的 |
+| outrageous | 令人不能容忍的；过分的 |
+| endless | 无休止的；无穷无尽的 |
+| constantly | 不断地；经常 |
+| in tears | 掉眼泪；哭泣着 |
+| driveway | 车道 |
+| mailbox | 信箱 |
+| fire department | 消防局；消防队 |
+| privacy | 隐私 |
+| cool down | 冷静下来 |
+| get carried away | 忘乎所以；一时冲动 |
+| take a deep breath | 深呼吸 |
+| take responsibility | 承担责任 |
+| ruin | 破坏；毁掉 |
+| frankly | 坦白地说 |
+| pretty much | 几乎；基本上 |
+| not to mention | 更不用说 |
+| the issue is | 问题在于 |
+| would appreciate it | （如果……）将不胜感激 |
+| that must be | 那一定就是…… |
 
 </quiz-matching>
 
@@ -163,102 +256,202 @@ the problem is / the issue is 是引出抱怨的经典句式。get carried away�
 
 ### 1
 
-Our next-door neighbor has a `____` habit of watering his lawn at midnight.
+The loud party noise coming from next door was simply ____.
 
-- [x] bizarre
+- [x] outrageous
 - [ ] a piece of
-- [ ] endless
+- [ ] bizarre
 
-> **解析**：`bizarre` 是形容词，意为“极其古怪的、怪诞的”，修饰 `habit`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-She `____` plays loud music late into the night.
+The dog next door barks endlessly at the metal ____ all day.
 
-- [x] constantly
+- [x] mailbox
+- [ ] a piece of
 - [ ] bizarre
-- [ ] fire department
 
-> **解析**：`constantly` 是副词，意为“不断地、经常地”，修饰动词 `plays`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Making so much noise on a weekday evening is simply `____`.
+____, I think this behavior invades our personal privacy.
 
-- [x] outrageous
-- [ ] constantly
-- [ ] fire department
+- [x] Frankly
+- [ ] a piece of
+- [ ] bizarre
 
-> **解析**：`outrageous` 是形容词，意为“令人不能容忍的、过分的”，作表语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-We installed a wooden fence to protect our family's `____`.
+He parked his sports car right in front of my ____ entrance.
 
-- [x] privacy
-- [ ] cool down
-- [ ] frankly
+- [x] driveway
+- [ ] a piece of
+- [ ] bizarre
 
-> **解析**：`privacy` 是不可数名词，意为“隐私”，搭配 `protect privacy`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-`____`, I don't understand why he acts so aggressively towards everyone.
+After seeing smoke, neighbors called the local fire ____.
 
-- [x] frankly
-- [ ] driveway
-- [ ] i don't think
+- [x] department
+- [ ] a piece of
+- [ ] bizarre
 
-> **解析**：`frankly` 是评注性副词，意为“坦白说、老实说”，常置于句首。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-`____` that his dog barks all day long without stopping.
+Everyone needs to cool down before ____ the noise complaint.
 
-- [x] the problem is
-- [ ] endless
-- [ ] i don't think
+- [x] discussing
+- [ ] a piece of
+- [ ] bizarre
 
-> **解析**：`the problem is that...` 是用于指出问题所在的主从复合句型。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-He got carried away during the argument and started shouting at the `____`.
+Take a deep breath and avoid getting carried away during the ____.
 
-- [x] driveway
-- [ ] frankly
-- [ ] keep
+- [x] argument
+- [ ] a piece of
+- [ ] bizarre
 
-> **解析**：`get carried away` 是固定短语，意为“情绪失控、做过头”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Neighbors should take responsibility for `____`ing the shared area clean.
+Whoever damaged the fence should take ____ for repairs.
 
-- [x] keep
-- [ ] frankly
-- [ ] mailbox
+- [x] responsibility
+- [ ] a piece of
+- [ ] bizarre
 
-> **解析**：`take responsibility for...` 是固定短语，意为“对……承担责任”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-A strange red car has been parked on our driveway since yesterday `____`.
+Untrained pets can ____ the peaceful atmosphere of the neighborhood.
 
-- [x] a piece of
-- [ ] i don't think
-- [ ] not to mention
+- [x] ruin
+- [ ] a piece of
+- [ ] bizarre
 
-> **解析**：`driveway` 是名词，意为“私人车道”，介词用 `on`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-I `____` if you could turn down the volume of your TV.
+The unusual machine placed in the yard looked completely ____.
 
-- [x] would appreciate it
-- [ ] i don't think
-- [ ] not to mention
+- [x] bizarre
+- [ ] a piece of
+- [ ] constantly
 
-> **解析**：`would appreciate it if...` 是极具礼貌委婉色彩的常用请求句型。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The elderly resident was in tears while ____ her distress.
+
+- [x] explaining
+- [ ] a piece of
+- [ ] bizarre
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The issue is that neither party is willing to ____ on property lines.
+
+- [x] compromise
+- [ ] a piece of
+- [ ] bizarre
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+We would ____ it if you could turn down the stereo music.
+
+- [x] appreciate
+- [ ] a piece of
+- [ ] bizarre
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Pretty much all neighbors agree to ____ up a shared recycling bin.
+
+- [x] set
+- [ ] a piece of
+- [ ] bizarre
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+His lawn is full of trash, not to ____ broken garden chairs.
+
+- [x] mention
+- [ ] a piece of
+- [ ] bizarre
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+That must be the ____ driver dropping off a package outside.
+
+- [x] delivery
+- [ ] a piece of
+- [ ] bizarre
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+He complains ____ about the loud sound of the lawnmower.
+
+- [x] constantly
+- [ ] a piece of
+- [ ] bizarre
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+This ____ bickering destroys any hope for community harmony.
+
+- [x] endless
+- [ ] a piece of
+- [ ] bizarre
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+I don't think ____ the police right away is the best option.
+
+- [x] calling
+- [ ] a piece of
+- [ ] bizarre
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Please ____ this reminder sign near the entrance of the garden.
+
+- [x] set
+- [ ] a piece of
+- [ ] bizarre
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

@@ -81,83 +81,176 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
 
 <quiz-sentence-builder>
 
-1. **中文**：大学毕业后，他决定搬回老家以节省开支。  
-   **英文**：After graduating from university, he decided to move back home to save money.
-   > **解析**：`move back home` 动词短语，意为“搬回老家/搬回父母家”，`home` 作副词不用介词。
+1. **中文**：考虑到高昂的租金，他决定搬回老家与父母同住。
+   **英文**：Given high rent, he decided to move back home to save money.
+   > **解析**：move back home 表示搬回老家/父母家。
 
-2. **中文**：在城里找新工作期间，她花光了自己所有的积蓄。  
-   **英文**：She used up all her savings while looking for a new job in the city.
-   > **解析**：`savings` 常用复数形式，意为“存款、积蓄”。
+2. **中文**：清偿掉所有信用卡债务后，他感到无比轻松。
+   **英文**：After paying off his student loan debt, he felt a huge relief.
+   > **解析**：debt 表示债务。
 
-3. **中文**：在内心深处，我知道离开大城市对我来说是正确的选择。  
-   **英文**：Deep down, I knew that leaving the big city was the right choice.
-   > **解析**：`deep down` 是副词短语，意为“在内心深处”，置于句首作状语。
+3. **中文**：良好的家庭养育教给了他尊重他人与勤奋的品质。
+   **英文**：His strict upbringing taught him the value of honesty and hard work.
+   > **解析**：upbringing 表示养育、成长背景。
 
-4. **中文**：大都市的高昂租金迫使许多年轻打工人陷入债务。  
-   **英文**：High rent in the metropolis forced many young workers into debt.
-   > **解析**：`into debt` 是介词短语，意为“陷入债务”，与 `force` 搭配。
+4. **中文**：在大城市失业的那段日子让他感到非常痛苦。
+   **英文**：Living alone without a job made him feel miserable every day.
+   > **解析**：miserable 表示痛苦的、沮丧的。
 
-5. **中文**：在找到稳定职位之前，我不得不依靠我的父母。  
-   **英文**：I had to rely on my parents until I secured a stable position.
-   > **解析**：`rely on` 是不及物短语动词，意为“依赖、依靠”，后接人或物。
+5. **中文**：面对频繁延误的航班，乘客们变得格外烦躁。
+   **英文**：The flight delays made passengers increasingly irritated.
+   > **解析**：irritated 表示恼火的、烦躁的。
 
-6. **中文**：由于经济下滑，许多公司缩减了招聘预算。  
-   **英文**：As a result of the economic downturn, many companies cut their hiring budget about appear.
-   > **解析**：`as a result of` 是复合介词，意为“由于、因为”，后接名词短语。
+6. **中文**：制定合理的时间表能让每天的工作变得更有成效。
+   **英文**：Planning your schedule daily helps you stay productive.
+   > **解析**：productive 表示富有成效的。
 
-7. **中文**：她仍然决心一步一步重建自己的事业。  
-   **英文**：She remains determined to rebuild her career step by step.
-   > **解析**：`determined` 是形容词，搭配 `be/remain determined to do sth`（下定决心做某事）。
+7. **中文**：她下定决心要在新领域开辟属于自己的事业。
+   **英文**：She was determined to build a successful new career from scratch.
+   > **解析**：determined 表示坚定的、下定决心的。
 
-8. **中文**：我们不应该把与家人同住的舒适视为理所当然。  
-   **英文**：We shouldn't take the comfort of living with family for granted.
-   > **解析**：`take sth for granted` 是固定短语，意为“把……视为理所当然”。
+8. **中文**：辞去不满意的工作并重新开始需要巨大的勇气。
+   **英文**：It takes immense courage to quit a stable job and restart.
+   > **解析**：courage 表示勇气。
 
-9. **中文**：搬回老家住让他有时间反思自己的职业选择。  
-   **英文**：Living back home gave him time to reflect on his career choices.
-   > **解析**：`reflect` 不及物动词，搭配介词 `on`（`reflect on sth`）表示“反思/思考某事”。
+9. **中文**：处理复杂的过渡期需要极大的耐心与细心。
+   **英文**：Navigating career changes requires a great deal of patience.
+   > **解析**：patience 表示耐心。
 
-10. **中文**：只要你保持专注并努力工作，一切都会顺利解决的。  
-   **英文**：Everything will work out as long as you stay focused and work hard.
-   > **解析**：`work out` 是不及物短语动词，在此处意为“顺利解决、结果变好”。
+10. **中文**：我们不应该把父母给予的无私关爱视为理所当然。
+   **英文**：We shouldn't take family support for granted when facing challenges.
+   > **解析**：for granted 表示认为……理所当然。
+
+11. **中文**：在内心深处，他知道回老家是一个明智的选择。
+   **英文**：Deep down, he knew that returning to his hometown was right.
+   > **解析**：deep down 表示在内心深处。
+
+12. **中文**：只要我们共同努力，相信一切困难都会顺利解决。
+   **英文**：With persistence, I am confident things will work out eventually.
+   > **解析**：work out 表示事情顺利解决。
+
+13. **中文**：由于经济不景气的结果，许多小公司被迫关门。
+   **英文**：As a result of economic changes, many businesses shut down.
+   > **解析**：as a result of 表示由于……的结果。
+
+14. **中文**：不久之后，他便在新社区里结识了一群新朋友。
+   **英文**：Before long, he settled into his routine and made new friends.
+   > **解析**：before long 表示不久之后。
+
+15. **中文**：他之前兼职做调酒师来赚取日常的生活费。
+   **英文**：He worked as a bartender to earn a living during college.
+   > **解析**：bartender 表示调酒师；living 表示生活费/生计。
+
+16. **中文**：拥有足够的应急存款能让人在危机时刻更有底气。
+   **英文**：Having personal savings gives you peace of mind during transitions.
+   > **解析**：savings 表示存款、积蓄。
+
+17. **中文**：我们不能总是依赖父母来为我们解决人生难题。
+   **英文**：You cannot always rely on your family to fix your problems.
+   > **解析**：rely on 表示依赖、依靠。
+
+18. **中文**：静下心来认真反思过去能帮助你做出更好的选择。
+   **英文**：Taking time to reflect on past experiences aids growth.
+   > **解析**：reflect
+
+19. **中文**：感觉自己陷入困境时，试着换个角度思考问题。
+   **英文**：Feeling stuck in a career trap requires fresh perspectives.
+   > **解析**：trap 表示困境、陷阱。
+
+20. **中文**：结果，他的努力得到了回报，获得了更好的职位。
+   **英文**：Consequently, his hard work was recognized with a promotion.
+   > **解析**：consequently 表示结果、因此。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. After graduating from university, he decided to move back home to save money.
-   > **中文**：大学毕业后，他决定搬回老家以节省开支。
+1. Given high rent, he decided to move back home to save money.
+   > **中文**：考虑到高昂的租金，他决定搬回老家与父母同住。
 
-2. She used up all her savings while looking for a new job in the city.
-   > **中文**：在城里找新工作期间，她花光了自己所有的积蓄。
+2. After paying off his student loan debt, he felt a huge relief.
+   > **中文**：清偿掉所有信用卡债务后，他感到无比轻松。
 
-3. Deep down, I knew that leaving the big city was the right choice.
-   > **中文**：在内心深处，我知道离开大城市对我来说是正确的选择。
+3. His strict upbringing taught him the value of honesty and hard work.
+   > **中文**：良好的家庭养育教给了他尊重他人与勤奋的品质。
 
-4. High rent in the metropolis forced many young workers into debt.
-   > **中文**：大都市的高昂租金迫使许多年轻打工人陷入债务。
+4. Living alone without a job made him feel miserable every day.
+   > **中文**：在大城市失业的那段日子让他感到非常痛苦。
 
-5. I had to rely on my parents until I secured a stable position.
-   > **中文**：在找到稳定职位之前，我不得不依靠我的父母。
+5. The flight delays made passengers increasingly irritated.
+   > **中文**：面对频繁延误的航班，乘客们变得格外烦躁。
 
-6. As a result of the economic downturn, many companies cut their hiring budget about appear.
-   > **中文**：由于经济下滑，许多公司缩减了招聘预算。
+6. Planning your schedule daily helps you stay productive.
+   > **中文**：制定合理的时间表能让每天的工作变得更有成效。
 
-7. She remains determined to rebuild her career step by step.
-   > **中文**：她仍然决心一步一步重建自己的事业。
+7. She was determined to build a successful new career from scratch.
+   > **中文**：她下定决心要在新领域开辟属于自己的事业。
 
-8. We shouldn't take the comfort of living with family for granted.
-   > **中文**：我们不应该把与家人同住的舒适视为理所当然。
+8. It takes immense courage to quit a stable job and restart.
+   > **中文**：辞去不满意的工作并重新开始需要巨大的勇气。
 
-9. Living back home gave him time to reflect on his career choices.
-   > **中文**：搬回老家住让他有时间反思自己的职业选择。
+9. Navigating career changes requires a great deal of patience.
+   > **中文**：处理复杂的过渡期需要极大的耐心与细心。
 
-10. Everything will work out as long as you stay focused and work hard.
-   > **中文**：只要你保持专注并努力工作，一切都会顺利解决的。
+10. We shouldn't take family support for granted when facing challenges.
+   > **中文**：我们不应该把父母给予的无私关爱视为理所当然。
+
+11. Deep down, he knew that returning to his hometown was right.
+   > **中文**：在内心深处，他知道回老家是一个明智的选择。
+
+12. With persistence, I am confident things will work out eventually.
+   > **中文**：只要我们共同努力，相信一切困难都会顺利解决。
+
+13. As a result of economic changes, many businesses shut down.
+   > **中文**：由于经济不景气的结果，许多小公司被迫关门。
+
+14. Before long, he settled into his routine and made new friends.
+   > **中文**：不久之后，他便在新社区里结识了一群新朋友。
+
+15. He worked as a bartender to earn a living during college.
+   > **中文**：他之前兼职做调酒师来赚取日常的生活费。
+
+16. Having personal savings gives you peace of mind during transitions.
+   > **中文**：拥有足够的应急存款能让人在危机时刻更有底气。
+
+17. You cannot always rely on your family to fix your problems.
+   > **中文**：我们不能总是依赖父母来为我们解决人生难题。
+
+18. Taking time to reflect on past experiences aids growth.
+   > **中文**：静下心来认真反思过去能帮助你做出更好的选择。
+
+19. Feeling stuck in a career trap requires fresh perspectives.
+   > **中文**：感觉自己陷入困境时，试着换个角度思考问题。
+
+20. Consequently, his hard work was recognized with a promotion.
+   > **中文**：结果，他的努力得到了回报，获得了更好的职位。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| move back home | 搬回老家/父母家 |
+| savings | 积蓄；存款 |
+| debt | 债务 |
+| upbringing | 养育；成长背景 |
+| miserable | 痛苦的；沮丧的 |
+| irritated | 恼火的；烦躁的 |
+| productive | 富有成效的 |
+| determined | 坚定的；下定决心的 |
+| courage | 勇气 |
+| patience | 耐心 |
+| rely on | 依赖；依靠 |
+| for granted | 认为……理所当然 |
+| deep down | 在内心深处 |
+| reflect | 反思；深思 |
+| work out | （事情）顺利解决；按计划发展 |
+| trap | 困境；陷阱 |
+| bartender | 调酒师；酒吧侍者 |
+| as a result of | 由于……的结果 |
+| consequently | 结果；因此 |
+| before long | 不久之后 |
 
 </quiz-matching>
 
@@ -165,102 +258,202 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
 
 ### 1
 
-After graduating from university, he decided to `____` to save money.
+Given high rent, he ____ to move back home to save money.
 
-- [x] move back home
+- [x] decided
 - [ ] appear
-- [ ] consequently
+- [ ] as a result of
 
-> **解析**：`move back home` 动词短语，意为“搬回老家/搬回父母家”，`home` 作副词不用介词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-She used up all her `____` while looking for a new job in the city.
+After paying off his student loan ____, he felt a huge relief.
 
-- [x] savings
+- [x] debt
+- [ ] appear
 - [ ] as a result of
-- [ ] courage
 
-> **解析**：`savings` 常用复数形式，意为“存款、积蓄”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-`____`, I knew that leaving the big city was the right choice.
+His strict ____ taught him the value of honesty and hard work.
 
-- [x] deep down
-- [ ] bartender
-- [ ] debt
+- [x] upbringing
+- [ ] appear
+- [ ] as a result of
 
-> **解析**：`deep down` 是副词短语，意为“在内心深处”，置于句首作状语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-High rent in the metropolis forced many young workers into `____`.
+____ alone without a job made him feel miserable every day.
 
-- [x] debt
-- [ ] before long
-- [ ] determined
+- [x] Living
+- [ ] appear
+- [ ] as a result of
 
-> **解析**：`into debt` 是介词短语，意为“陷入债务”，与 `force` 搭配。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-I had to `____` my parents until I secured a stable position.
+The flight delays made passengers increasingly ____.
 
-- [x] rely on
-- [ ] consequently
-- [ ] determined
+- [x] irritated
+- [ ] appear
+- [ ] as a result of
 
-> **解析**：`rely on` 是不及物短语动词，意为“依赖、依靠”，后接人或物。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-As a result of the economic downturn, many companies cut their hiring budget about `____`.
+Planning your schedule daily helps you stay ____.
 
-- [x] appear
-- [ ] debt
-- [ ] impact
+- [x] productive
+- [ ] appear
+- [ ] as a result of
 
-> **解析**：`as a result of` 是复合介词，意为“由于、因为”，后接名词短语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-She remains `____` to rebuild her career step by step.
+She was ____ to build a successful new career from scratch.
 
 - [x] determined
-- [ ] debt
-- [ ] irritated
+- [ ] appear
+- [ ] as a result of
 
-> **解析**：`determined` 是形容词，搭配 `be/remain determined to do sth`（下定决心做某事）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-We shouldn't take the comfort of living with family `____`.
+It takes immense ____ to quit a stable job and restart.
 
-- [x] for granted
-- [ ] deep down
-- [ ] just
+- [x] courage
+- [ ] appear
+- [ ] as a result of
 
-> **解析**：`take sth for granted` 是固定短语，意为“把……视为理所当然”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-`____` back home gave him time to reflect on his career choices.
+Navigating career changes requires a great deal of ____.
 
-- [x] living
-- [ ] determined
-- [ ] just
+- [x] patience
+- [ ] appear
+- [ ] as a result of
 
-> **解析**：`reflect` 不及物动词，搭配介词 `on`（`reflect on sth`）表示“反思/思考某事”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Everything will `____` as long as you stay focused and work hard.
+We shouldn't take family support for granted when facing ____.
 
-- [x] work out
-- [ ] for granted
-- [ ] living
+- [x] challenges
+- [ ] appear
+- [ ] as a result of
 
-> **解析**：`work out` 是不及物短语动词，在此处意为“顺利解决、结果变好”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Deep down, he knew that ____ to his hometown was right.
+
+- [x] returning
+- [ ] appear
+- [ ] as a result of
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+With ____, I am confident things will work out eventually.
+
+- [x] persistence
+- [ ] appear
+- [ ] as a result of
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+As a result of economic changes, many ____ shut down.
+
+- [x] businesses
+- [ ] appear
+- [ ] as a result of
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Before long, he ____ into his routine and made new friends.
+
+- [x] settled
+- [ ] appear
+- [ ] as a result of
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+He worked as a ____ to earn a living during college.
+
+- [x] bartender
+- [ ] appear
+- [ ] as a result of
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Having personal ____ gives you peace of mind during transitions.
+
+- [x] savings
+- [ ] appear
+- [ ] as a result of
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+You cannot always rely on your family to fix your ____.
+
+- [x] problems
+- [ ] appear
+- [ ] as a result of
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Taking time to ____ on past experiences aids growth.
+
+- [x] reflect
+- [ ] appear
+- [ ] as a result of
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Feeling stuck in a career ____ requires fresh perspectives.
+
+- [x] trap
+- [ ] appear
+- [ ] as a result of
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+____, his hard work was recognized with a promotion.
+
+- [x] Consequently
+- [ ] appear
+- [ ] as a result of
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

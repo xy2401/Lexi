@@ -63,83 +63,176 @@ accommodations, along the way, alternate, connection, considerably, end up, in o
 
 <quiz-sentence-builder>
 
-1. **中文**：在启程前往亚洲旅行之前，她起草了一份详细的旅行行程单。  
-   **英文**：She drafted a detailed travel itinerary before embarking on her trip to Asia about accommodations.
-   > **解析**：`itinerary` 是名词，指“行程安排、旅行路线图”。在句中作动词 `drafted` 的直接宾语。
+1. **中文**：我们需要提前在网上预订好行程中的住宿。
+   **英文**：We need to book our accommodations online well in advance.
+   > **解析**：accommodations 意为住宿、住处。
 
-2. **中文**：在转乘接驳航班之前，我们在东京中途停留了三个小时。  
-   **英文**：We had a three-hour layover in Tokyo before catching our connecting flight along the way.
-   > **解析**：`layover` 是名词，特指飞行途中的“中途停留/中转等待时间”。搭配 `have a layover in + 地名`。
+2. **中文**：我们在丹佛有一个转机，只有四十分钟的时间。
+   **英文**：We have a connection in Denver with only forty minutes to wait.
+   > **解析**：connection 意为转机、转车。
 
-3. **中文**：巴黎依然是世界上最受欢迎的旅游目的地之一。  
-   **英文**：Paris remains one of the most popular travel destinations in the world about alternate.
-   > **解析**：`destination` 指“目的地、终点”。短语 `travel destination` 表示“旅游目的地”。
+3. **中文**：如果天气变坏，我们准备了备选路线。
+   **英文**：We prepared an alternate route in case the weather turns bad.
+   > **解析**：alternate 意为备选的、替代的。
 
-4. **中文**：他们乘坐观光火车穿过了风景如画的雪山。  
-   **英文**：They took a scenic train ride through the breathtaking snow-covered mountains about connection.
-   > **解析**：`scenic` 是形容词，意为“风景优美的、观光的”，由名词 `scene`（风景）派生而来。
+4. **中文**：如果你提前规划，往往能省下一大笔旅行开销。
+   **英文**：If you plan ahead, you can save a lot on travel expenses.
+   > **解析**：plan ahead 意为提前规划。
 
-5. **中文**：他喜欢只带一只小型手提行李包旅行，以节省在机场的时间。  
-   **英文**：He prefers to travel with just a small carry-on bag to save time at the airport about considerably.
-   > **解析**：`carry-on` 作形容词或名词，意为“随身携带的（行李）”。短语 `carry-on bag` 指随身行李箱包。
+5. **中文**：我打算在海边的小城镇里待上三天。
+   **英文**：I am planning on staying in the coastal town for three days.
+   > **解析**：planning on 意为打算做某事。
 
-6. **中文**：埃菲尔铁塔是一座标志性地标，每年吸引数以百万计的游客。  
-   **英文**：The Eiffel Tower is an iconic landmark that attracts millions of visitors each year end up.
-   > **解析**：`landmark` 是名词，意为“地标、标志性建筑”。复合词由 `land` + `mark` 构成。
+6. **中文**：我们正在考虑租一辆车沿着海岸线自驾游。
+   **英文**：We are thinking of renting a car to drive along the coast.
+   > **解析**：thinking of 意为考虑做某事。
 
-7. **中文**：我母亲教我每当周末旅行时都要轻装简行。  
-   **英文**：My mother taught me to travel light whenever I go on weekend trips in order to.
-   > **解析**：`travel light` 是固定动词短语，意为“轻装出行、少带行李”，其中 `light` 作副词修饰 `travel`。
+7. **中文**：我们打算在出发前参观当地著名的博物馆。
+   **英文**：We intend to visit the famous local museum before leaving.
+   > **解析**：intend to 意为打算/意图做某事。
 
-8. **中文**：她内心对漫游的渴望驱使她去了三十多个国家旅行。  
-   **英文**：Her deep sense of wanderlust inspired her to travel to over thirty countries intend to.
-   > **解析**：`wanderlust` 是名词，指“漫游癖、对旅行和探索强烈的渴望”，属于不可数名词。
+8. **中文**：我原本打算坐飞机去，但后来决定坐火车观光。
+   **英文**：I was going to fly, but I decided to take the train for the view.
+   > **解析**：was going to 意为原本打算。
 
-9. **中文**：在到达登机口之前，请务必准备好您的电子登机牌。  
-   **英文**：Make sure to keep your electronic boarding pass ready before arriving at the gate it's time.
-   > **解析**：`boarding pass` 是名词短语，意为“登机牌”，由动名词 `boarding` 修饰 `pass`。
+9. **中文**：今晚我会深入了解一下当地的酒店价格和选项。
+   **英文**：I will look into the local hotel prices and options tonight.
+   > **解析**：look into 意为调查、了解。
 
-10. **中文**：在邮轮旅行期间，他们预订了一天的远足游览去参观一座古老的海岸遗迹。  
-   **英文**：During their cruise, they booked a one-day excursion to an ancient coastal ruin look into.
-   > **解析**：`excursion` 指“短途旅行、远足游览”，通常为团体或有组织的小型旅游活动。
+10. **中文**：我们走错了一条路，最终来到了一个小渔村。
+   **英文**：We took a wrong turn and ended up in a small fishing village.
+   > **解析**：end up 意为最终到达、最终处于。
+
+11. **中文**：凌晨四点的航班可不是我心目中理想的度假体验。
+   **英文**：A four a.m. flight is not my idea of a fun vacation.
+   > **解析**：not my idea of 意为“不是我心目中的……”。
+
+12. **中文**：提前预订机票会让价格便宜得多。
+   **英文**：Booking flights early will make the tickets considerably cheaper.
+   > **解析**：considerably 意为相当地、非常。
+
+13. **中文**：从这里开车到国家公园大约需要三个小时。
+   **英文**：Driving from here to the national park takes roughly three hours.
+   > **解析**：roughly 意为大约、粗略地。
+
+14. **中文**：航班出现了轻微延误，但并不会影响我们的转机。
+   **英文**：There was a slight delay in our flight, but we didn't miss our connection.
+   > **解析**：slight 意为轻微的。
+
+15. **中文**：山路在下雨时可能会潜在存在危险。
+   **英文**：The mountain road can be potentially dangerous during heavy rain.
+   > **解析**：potentially 意为潜在地、可能。
+
+16. **中文**：在预算范围内做出明智的选择是非常重要的。
+   **英文**：Making a sensible choice within our budget is very important.
+   > **解析**：sensible 意为明智的、合理的。
+
+17. **中文**：为了节省时间，我们决定直接走高速公路。
+   **英文**：In order to save time, we decided to take the highway.
+   > **解析**：in order to 意为为了。
+
+18. **中文**：你对于住宿是更喜欢酒店还是民宿？
+   **英文**：Do you have a personal preference between hotels and apartments?
+   > **解析**：preference 意为偏好、喜好。
+
+19. **中文**：我们发现走错方向后立刻掉头返回。
+   **英文**：We realized we were lost and had to turn around.
+   > **解析**：turn around 意为掉头、返回。
+
+20. **中文**：我们可以在沿途风景优美的地方停下来拍照。
+   **英文**：We can stop and take pictures at pretty spots along the way.
+   > **解析**：along the way 意为沿途、一路上。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. She drafted a detailed travel itinerary before embarking on her trip to Asia about accommodations.
-   > **中文**：在启程前往亚洲旅行之前，她起草了一份详细的旅行行程单。
+1. We need to book our accommodations online well in advance.
+   > **中文**：我们需要提前在网上预订好行程中的住宿。
 
-2. We had a three-hour layover in Tokyo before catching our connecting flight along the way.
-   > **中文**：在转乘接驳航班之前，我们在东京中途停留了三个小时。
+2. We have a connection in Denver with only forty minutes to wait.
+   > **中文**：我们在丹佛有一个转机，只有四十分钟的时间。
 
-3. Paris remains one of the most popular travel destinations in the world about alternate.
-   > **中文**：巴黎依然是世界上最受欢迎的旅游目的地之一。
+3. We prepared an alternate route in case the weather turns bad.
+   > **中文**：如果天气变坏，我们准备了备选路线。
 
-4. They took a scenic train ride through the breathtaking snow-covered mountains about connection.
-   > **中文**：他们乘坐观光火车穿过了风景如画的雪山。
+4. If you plan ahead, you can save a lot on travel expenses.
+   > **中文**：如果你提前规划，往往能省下一大笔旅行开销。
 
-5. He prefers to travel with just a small carry-on bag to save time at the airport about considerably.
-   > **中文**：他喜欢只带一只小型手提行李包旅行，以节省在机场的时间。
+5. I am planning on staying in the coastal town for three days.
+   > **中文**：我打算在海边的小城镇里待上三天。
 
-6. The Eiffel Tower is an iconic landmark that attracts millions of visitors each year end up.
-   > **中文**：埃菲尔铁塔是一座标志性地标，每年吸引数以百万计的游客。
+6. We are thinking of renting a car to drive along the coast.
+   > **中文**：我们正在考虑租一辆车沿着海岸线自驾游。
 
-7. My mother taught me to travel light whenever I go on weekend trips in order to.
-   > **中文**：我母亲教我每当周末旅行时都要轻装简行。
+7. We intend to visit the famous local museum before leaving.
+   > **中文**：我们打算在出发前参观当地著名的博物馆。
 
-8. Her deep sense of wanderlust inspired her to travel to over thirty countries intend to.
-   > **中文**：她内心对漫游的渴望驱使她去了三十多个国家旅行。
+8. I was going to fly, but I decided to take the train for the view.
+   > **中文**：我原本打算坐飞机去，但后来决定坐火车观光。
 
-9. Make sure to keep your electronic boarding pass ready before arriving at the gate it's time.
-   > **中文**：在到达登机口之前，请务必准备好您的电子登机牌。
+9. I will look into the local hotel prices and options tonight.
+   > **中文**：今晚我会深入了解一下当地的酒店价格和选项。
 
-10. During their cruise, they booked a one-day excursion to an ancient coastal ruin look into.
-   > **中文**：在邮轮旅行期间，他们预订了一天的远足游览去参观一座古老的海岸遗迹。
+10. We took a wrong turn and ended up in a small fishing village.
+   > **中文**：我们走错了一条路，最终来到了一个小渔村。
+
+11. A four a.m. flight is not my idea of a fun vacation.
+   > **中文**：凌晨四点的航班可不是我心目中理想的度假体验。
+
+12. Booking flights early will make the tickets considerably cheaper.
+   > **中文**：提前预订机票会让价格便宜得多。
+
+13. Driving from here to the national park takes roughly three hours.
+   > **中文**：从这里开车到国家公园大约需要三个小时。
+
+14. There was a slight delay in our flight, but we didn't miss our connection.
+   > **中文**：航班出现了轻微延误，但并不会影响我们的转机。
+
+15. The mountain road can be potentially dangerous during heavy rain.
+   > **中文**：山路在下雨时可能会潜在存在危险。
+
+16. Making a sensible choice within our budget is very important.
+   > **中文**：在预算范围内做出明智的选择是非常重要的。
+
+17. In order to save time, we decided to take the highway.
+   > **中文**：为了节省时间，我们决定直接走高速公路。
+
+18. Do you have a personal preference between hotels and apartments?
+   > **中文**：你对于住宿是更喜欢酒店还是民宿？
+
+19. We realized we were lost and had to turn around.
+   > **中文**：我们发现走错方向后立刻掉头返回。
+
+20. We can stop and take pictures at pretty spots along the way.
+   > **中文**：我们可以在沿途风景优美的地方停下来拍照。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| accommodations | 住宿；住处 |
+| connection | 转机；转车 |
+| alternate | 备选的；替代的 |
+| plan ahead | 提前规划 |
+| planning on | 打算做…… |
+| thinking of | 考虑做…… |
+| intend to | 打算做…… |
+| was going to | 原本打算…… |
+| look into | 调查；了解 |
+| ended up | 最终到达；最终处于 |
+| not my idea of | 不是我心目中的…… |
+| considerably | 相当地；非常 |
+| roughly | 大约；粗略地 |
+| slight | 轻微的 |
+| potentially | 潜在地；可能 |
+| sensible | 明智的；合理的 |
+| In order to | 为了 |
+| preference | 偏好；喜好 |
+| turn around | 掉头；返回 |
+| along the way | 沿途；一路上 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ accommodations, along the way, alternate, connection, considerably, end up, in o
 
 ### 1
 
-She drafted a detailed travel itinerary before embarking on her trip to Asia about `____`.
+We need to book our ____ online well in advance.
 
 - [x] accommodations
 - [ ] along the way
-- [ ] end up
+- [ ] alternate
 
-> **解析**：`itinerary` 是名词，指“行程安排、旅行路线图”。在句中作动词 `drafted` 的直接宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-We had a three-hour layover in Tokyo before catching our connecting flight `____`.
+We have a ____ in Denver with only forty minutes to wait.
 
-- [x] along the way
-- [ ] alternate
-- [ ] in order to
+- [x] connection
+- [ ] accommodations
+- [ ] along the way
 
-> **解析**：`layover` 是名词，特指飞行途中的“中途停留/中转等待时间”。搭配 `have a layover in + 地名`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Paris remains one of the most popular travel destinations in the world about `____`.
+We prepared an ____ route in case the weather turns bad.
 
 - [x] alternate
-- [ ] connection
-- [ ] intend to
+- [ ] accommodations
+- [ ] along the way
 
-> **解析**：`destination` 指“目的地、终点”。短语 `travel destination` 表示“旅游目的地”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-They took a scenic train ride through the breathtaking snow-covered mountains about `____`.
+If you plan ahead, you can save a lot on travel ____.
 
-- [x] connection
-- [ ] considerably
-- [ ] it's time
+- [x] expenses
+- [ ] accommodations
+- [ ] along the way
 
-> **解析**：`scenic` 是形容词，意为“风景优美的、观光的”，由名词 `scene`（风景）派生而来。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-He prefers to travel with just a small carry-on bag to save time at the airport about `____`.
+I am ____ on staying in the coastal town for three days.
 
-- [x] considerably
-- [ ] end up
-- [ ] look into
+- [x] planning
+- [ ] accommodations
+- [ ] along the way
 
-> **解析**：`carry-on` 作形容词或名词，意为“随身携带的（行李）”。短语 `carry-on bag` 指随身行李箱包。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The Eiffel Tower is an iconic landmark that attracts millions of visitors each year `____`.
+We are ____ of renting a car to drive along the coast.
 
-- [x] end up
-- [ ] in order to
-- [ ] next
+- [x] thinking
+- [ ] accommodations
+- [ ] along the way
 
-> **解析**：`landmark` 是名词，意为“地标、标志性建筑”。复合词由 `land` + `mark` 构成。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-My mother taught me to travel light whenever I go on weekend trips `____`.
+We intend to visit the famous local museum before ____.
 
-- [x] in order to
-- [ ] intend to
-- [ ] not my idea of
+- [x] leaving
+- [ ] accommodations
+- [ ] along the way
 
-> **解析**：`travel light` 是固定动词短语，意为“轻装出行、少带行李”，其中 `light` 作副词修饰 `travel`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Her deep sense of wanderlust inspired her to travel to over thirty countries `____`.
+I was going to fly, but I ____ to take the train for the view.
 
-- [x] intend to
-- [ ] it's time
-- [ ] original
+- [x] decided
+- [ ] accommodations
+- [ ] along the way
 
-> **解析**：`wanderlust` 是名词，指“漫游癖、对旅行和探索强烈的渴望”，属于不可数名词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Make sure to keep your electronic boarding pass ready before arriving at the gate `____`.
+I will look into the local hotel prices and ____ tonight.
 
-- [x] it's time
-- [ ] look into
-- [ ] plan ahead
+- [x] options
+- [ ] accommodations
+- [ ] along the way
 
-> **解析**：`boarding pass` 是名词短语，意为“登机牌”，由动名词 `boarding` 修饰 `pass`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-During their cruise, they booked a one-day excursion to an ancient coastal ruin `____`.
+We took a wrong turn and ended up in a small ____ village.
 
-- [x] look into
-- [ ] next
-- [ ] planning on
+- [x] fishing
+- [ ] accommodations
+- [ ] along the way
 
-> **解析**：`excursion` 指“短途旅行、远足游览”，通常为团体或有组织的小型旅游活动。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+A four a.m. flight is not my idea of a fun ____.
+
+- [x] vacation
+- [ ] accommodations
+- [ ] along the way
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Booking flights early will make the tickets ____ cheaper.
+
+- [x] considerably
+- [ ] accommodations
+- [ ] along the way
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Driving from here to the national park takes ____ three hours.
+
+- [x] roughly
+- [ ] accommodations
+- [ ] along the way
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+There was a ____ delay in our flight, but we didn't miss our connection.
+
+- [x] slight
+- [ ] accommodations
+- [ ] along the way
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The mountain road can be ____ dangerous during heavy rain.
+
+- [x] potentially
+- [ ] accommodations
+- [ ] along the way
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Making a ____ choice within our budget is very important.
+
+- [x] sensible
+- [ ] accommodations
+- [ ] along the way
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+In order to save time, we ____ to take the highway.
+
+- [x] decided
+- [ ] accommodations
+- [ ] along the way
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Do you have a personal ____ between hotels and apartments?
+
+- [x] preference
+- [ ] accommodations
+- [ ] along the way
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+We ____ we were lost and had to turn around.
+
+- [x] realized
+- [ ] accommodations
+- [ ] along the way
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+We can stop and take ____ at pretty spots along the way.
+
+- [x] pictures
+- [ ] accommodations
+- [ ] along the way
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

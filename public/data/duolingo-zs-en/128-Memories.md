@@ -61,83 +61,176 @@ used to + 动词原形表示"过去常常"（现在不做了）。never used to 
 
 <quiz-sentence-builder>
 
-1. **中文**：翻阅旧照片勾起了我童年的美好回忆。  
-   **英文**：Looking through old photos brought back wonderful memories of my childhood.
-   > **解析**：childhood 为名词，意为“童年时期”。由 child + -hood 构成。bring back memories 表示“勾起回忆”。
+1. **中文**：在我的童年时期，邻居们经常过来我们家串门。  
+   **英文**：In my childhood, neighbors used to come over to our house.
+   > **解析**：childhood 表示“童年”；used to 表示“过去常常”；come over 表示“过来串门/拜访”；neighborhood 表示“街区/邻里”。
 
-2. **中文**：在漫长的暑假里，我们过去常常在后院盖树屋。  
-   **英文**：We used to build treehouses in the backyard during long summer vacations.
-   > **解析**：used to 为情态动词结构，后接动词原形（build），意为“过去常常做某事（现在已不再做）”。
+2. **中文**：那个害羞的男孩过去从不习惯在泥土里抓青蛙和虫子。  
+   **英文**：The shy boy never used to catch frogs and bugs in dirt.
+   > **解析**：shy 表示“害羞的”；never used to 表示“过去从不”；frog 表示“青蛙”；bug 表示“虫子”；dirt 表示“泥土”。
 
-3. **中文**：我们街区的小孩放学后总是一起玩捉迷藏。  
-   **英文**：Children in our neighborhood always played hide-and-seek together after school.
-   > **解析**：neighborhood 为名词，意为“街区、邻里”。play hide-and-seek 意为“玩捉迷藏”。
+3. **中文**：我们在院子里踢了球，我不小心弄伤了膝盖。  
+   **英文**：We kicked the ball in the yard, and I hurt my knee.
+   > **解析**：kicked 是 kick 的过去式，表示“踢”；knee 表示“膝盖”。
 
-4. **中文**：我父母在看电视之前必须完成作业这一点上非常严格。  
-   **英文**：My parents were quite strict about finishing homework before watching television.
-   > **解析**：strict 为形容词，意为“严格的”。常见搭配 be strict about sth.（对某事严格）或 be strict with sb.（对某人严格）。
+4. **中文**：妈妈用平底煎锅做菠菜派，那是个有趣的玩笑。  
+   **英文**：Mom cooked a spinach pie in a frying pan, funny joke!
+   > **解析**：spinach 表示“菠菜”；pie 表示“派/馅饼”；frying pan 表示“平底煎锅”；joke 表示“玩笑”。
 
-5. **中文**：虽然她小时候非常害害羞，但长大后却成了一位自信的演讲者。  
-   **英文**：Although she was very shy as a child, she grew up to be a confident speaker.
-   > **解析**：shy 为形容词，意为“害羞的、怯生的”。grow up to be 表示“长大后成为...”。
+5. **中文**：严格的老师抓住并在全班同学面前表演了吹小号。  
+   **英文**：The strict teacher caught him playing the trumpet.
+   > **解析**：strict 表示“严格的”；caught 是 catch 的过去式；trumpet 表示“小号”。
 
-6. **中文**：我邻居过去常在周末串门到我家玩桌游。  
-   **英文**：My neighbor used to come over to my house to play board games on weekends about bug.
-   > **解析**：come over 为动词短语，意为“过来串门/拜访”。come over to one's house 指“去某人家里”。
+6. **中文**：他过去常常在树林里躲藏，躲避小昆虫。  
+   **英文**：He used to hide in the woods to stay away from bugs.
+   > **解析**：used to 表示“过去常常”；hide 表示“躲藏”；bug / bugs 表示“虫子”。
 
-7. **中文**：在炎热的夏夜，我们在玻璃罐里抓萤火虫。  
-   **英文**：We caught fireflies in glass jars during warm summer evenings.
-   > **解析**：caught 为动词 catch 的过去式和过去分词，意为“抓住、捕捉”。catch fireflies 意为“抓萤火虫”。
+7. **中文**：如今，我不再像小时候那样害怕吃菠菜了。  
+   **英文**：Now, I am no longer afraid of eating spinach.
+   > **解析**：now 表示“如今/现在”；spinach 表示“菠菜”。
 
-8. **中文**：我哥哥有一次在泥泞的池塘边找到了一只绿色小青蛙。  
-   **英文**：My brother once found a small green frog near the muddy pond.
-   > **解析**：frog 为名词，意为“青蛙”。pond 意为“池塘”。
+8. **中文**：我们在邻里街区玩游戏，度过了难忘的岁月。  
+   **英文**：We played games in the neighborhood during our youth.
+   > **解析**：neighborhood 表示“邻里/街区”。
 
-9. **中文**：孩子们在游戏时试图躲在大橡树后面。  
-   **英文**：The kids tried to hide behind the large oak tree during their game card.
-   > **解析**：hide 为动词，意为“躲藏、隐藏”。过去式为 hid，过去分词为 hidden。hide behind 表示“躲在...后面”。
+9. **中文**：我的好朋友昨天下午过来我家一起听音乐。  
+   **英文**：My best friend decided to come over yesterday afternoon.
+   > **解析**：come over 表示“过来/来访”。
 
-10. **中文**：我过去从不喜欢吃蔬菜，但现在我却很喜欢新鲜沙拉。  
-   **英文**：I never used to like eating vegetables, but now I enjoy fresh salads.
-   > **解析**：never used to 为 used to 的否定表达之一，意为“过去从不/以前不曾”。后接动词原形（like）。
+10. **中文**：他过去常常练习吹小号，声音非常响亮。  
+   **英文**：He used to practice playing the trumpet very loudly.
+   > **解析**：used to 表示“过去常常”；trumpet 表示“小号”。
+
+11. **中文**：童年时光充满了欢声笑语和纯真快乐。  
+   **英文**：Childhood memories are full of laughter and joy.
+   > **解析**：childhood 表示“童年”。
+
+12. **中文**：池塘边有一只绿色的青蛙在跳跃。  
+   **英文**：A green frog was jumping near the pond in the yard.
+   > **解析**：frog 表示“青蛙”。
+
+13. **中文**：孩子们在泥土里玩耍，把衣服弄脏了。  
+   **英文**：The children played in the dirt and got dirty clothes.
+   > **解析**：dirt 表示“泥土/泥巴”。
+
+14. **中文**：用平底煎锅煎出来的蛋味道很香。  
+   **英文**：Eggs cooked in a frying pan taste very delicious.
+   > **解析**：frying pan 表示“平底煎锅”。
+
+15. **中文**：他因为害羞，在陌生人面前不敢说话。  
+   **英文**：He felt very shy and couldn't speak in front of strangers.
+   > **解析**：shy 表示“害羞的”。
+
+16. **中文**：足球比赛中他不小心踢到了同伴的膝盖。  
+   **英文**：He accidentally kicked his teammate's knee in the game.
+   > **解析**：knee 表示“膝盖”；kicked 表示“踢”。
+
+17. **中文**：那只是一个无心的玩笑，别放在心上。  
+   **英文**：That was just a silly joke, so don't be mad.
+   > **解析**：joke 表示“玩笑/笑话”。
+
+18. **中文**：多吃菠菜有助于补充铁质，保持健康。  
+   **英文**：Eating more spinach helps keep your body healthy.
+   > **解析**：spinach 表示“菠菜”。
+
+19. **中文**：那个年轻人在树后躲藏了起来。  
+   **英文**：The young boy decided to hide behind the big tree.
+   > **解析**：hide 表示“躲藏/隐藏”。
+
+20. **中文**：他过去从不习惯早起，但现在养成了好习惯。  
+   **英文**：He never used to get up early, but now he does.
+   > **解析**：never used to 表示“过去从不”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Looking through old photos brought back wonderful memories of my childhood.
-   > **中文**：翻阅旧照片勾起了我童年的美好回忆。
+1. In my childhood, neighbors used to come over to our house.
+   > **中文**：在我的童年时期，邻居们经常过来我们家串门。
 
-2. We used to build treehouses in the backyard during long summer vacations.
-   > **中文**：在漫长的暑假里，我们过去常常在后院盖树屋。
+2. The shy boy never used to catch frogs and bugs in dirt.
+   > **中文**：那个害羞的男孩过去从不习惯在泥土里抓青蛙和虫子。
 
-3. Children in our neighborhood always played hide-and-seek together after school.
-   > **中文**：我们街区的小孩放学后总是一起玩捉迷藏。
+3. We kicked the ball in the yard, and I hurt my knee.
+   > **中文**：我们在院子里踢了球，我不小心弄伤了膝盖。
 
-4. My parents were quite strict about finishing homework before watching television.
-   > **中文**：我父母在看电视之前必须完成作业这一点上非常严格。
+4. Mom cooked a spinach pie in a frying pan, funny joke!
+   > **中文**：妈妈用平底煎锅做菠菜派，那是个有趣的玩笑。
 
-5. Although she was very shy as a child, she grew up to be a confident speaker.
-   > **中文**：虽然她小时候非常害害羞，但长大后却成了一位自信的演讲者。
+5. The strict teacher caught him playing the trumpet.
+   > **中文**：严格的老师抓住并在全班同学面前表演了吹小号。
 
-6. My neighbor used to come over to my house to play board games on weekends about bug.
-   > **中文**：我邻居过去常在周末串门到我家玩桌游。
+6. He used to hide in the woods to stay away from bugs.
+   > **中文**：他过去常常在树林里躲藏，躲避小昆虫。
 
-7. We caught fireflies in glass jars during warm summer evenings.
-   > **中文**：在炎热的夏夜，我们在玻璃罐里抓萤火虫。
+7. Now, I am no longer afraid of eating spinach.
+   > **中文**：如今，我不再像小时候那样害怕吃菠菜了。
 
-8. My brother once found a small green frog near the muddy pond.
-   > **中文**：我哥哥有一次在泥泞的池塘边找到了一只绿色小青蛙。
+8. We played games in the neighborhood during our youth.
+   > **中文**：我们在邻里街区玩游戏，度过了难忘的岁月。
 
-9. The kids tried to hide behind the large oak tree during their game card.
-   > **中文**：孩子们在游戏时试图躲在大橡树后面。
+9. My best friend decided to come over yesterday afternoon.
+   > **中文**：我的好朋友昨天下午过来我家一起听音乐。
 
-10. I never used to like eating vegetables, but now I enjoy fresh salads.
-   > **中文**：我过去从不喜欢吃蔬菜，但现在我却很喜欢新鲜沙拉。
+10. He used to practice playing the trumpet very loudly.
+   > **中文**：他过去常常练习吹小号，声音非常响亮。
+
+11. Childhood memories are full of laughter and joy.
+   > **中文**：童年时光充满了欢声笑语和纯真快乐。
+
+12. A green frog was jumping near the pond in the yard.
+   > **中文**：池塘边有一只绿色的青蛙在跳跃。
+
+13. The children played in the dirt and got dirty clothes.
+   > **中文**：孩子们在泥土里玩耍，把衣服弄脏了。
+
+14. Eggs cooked in a frying pan taste very delicious.
+   > **中文**：用平底煎锅煎出来的蛋味道很香。
+
+15. He felt very shy and couldn't speak in front of strangers.
+   > **中文**：他因为害羞，在陌生人面前不敢说话。
+
+16. He accidentally kicked his teammate's knee in the game.
+   > **中文**：足球比赛中他不小心踢到了同伴的膝盖。
+
+17. That was just a silly joke, so don't be mad.
+   > **中文**：那只是一个无心的玩笑，别放在心上。
+
+18. Eating more spinach helps keep your body healthy.
+   > **中文**：多吃菠菜有助于补充铁质，保持健康。
+
+19. The young boy decided to hide behind the big tree.
+   > **中文**：那个年轻人在树后躲藏了起来。
+
+20. He never used to get up early, but now he does.
+   > **中文**：他过去从不习惯早起，但现在养成了好习惯。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| bug | 虫子 / 小昆虫 |
+| childhood | 童年 |
+| come over | 过来串门 / 拜访 |
+| dirt | 泥土 / 泥巴 |
+| frog | 青蛙 |
+| frying pan | 平底煎锅 |
+| hide | 躲藏 / 隐藏 |
+| joke | 玩笑 / 笑话 |
+| kicked | 踢了（kick的过去式） |
+| knee | 膝盖 |
+| neighborhood | 邻里 / 街区 |
+| never used to | 过去从不 |
+| pie | 派 / 馅饼 |
+| shy | 害羞的 |
+| spinach | 菠菜 |
+| stay | 停留 / 保持 |
+| strict | 严格的 |
+| trumpet | 小号 |
+| used to | 过去常常 |
+| caught | 抓住了（catch的过去式） |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ used to + 动词原形表示"过去常常"（现在不做了）。never used to 
 
 ### 1
 
-Looking through old photos brought back wonderful memories of my `____`.
+In my ____, neighbors used to come over to our house.
 
 - [x] childhood
 - [ ] bug
-- [ ] dirt
+- [ ] card
 
-> **解析**：childhood 为名词，意为“童年时期”。由 child + -hood 构成。bring back memories 表示“勾起回忆”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-We `____` build treehouses in the backyard during long summer vacations.
+The ____ boy never used to catch frogs and bugs in dirt.
 
-- [x] used to
+- [x] shy
+- [ ] bug
 - [ ] card
-- [ ] dirt
 
-> **解析**：used to 为情态动词结构，后接动词原形（build），意为“过去常常做某事（现在已不再做）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Children in our neighborhood always played `____`-and-seek together after school.
+We ____ the ball in the yard, and I hurt my knee.
 
-- [x] hide
-- [ ] caught
-- [ ] do
+- [x] kicked
+- [ ] bug
+- [ ] card
 
-> **解析**：neighborhood 为名词，意为“街区、邻里”。play hide-and-seek 意为“玩捉迷藏”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-My parents were quite `____` about finishing homework before watching television.
+Mom cooked a ____ pie in a frying pan, funny joke!
 
-- [x] strict
-- [ ] childhood
-- [ ] frog
+- [x] spinach
+- [ ] bug
+- [ ] card
 
-> **解析**：strict 为形容词，意为“严格的”。常见搭配 be strict about sth.（对某事严格）或 be strict with sb.（对某人严格）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Although she was very `____` as a child, she grew up to be a confident speaker.
+The ____ teacher caught him playing the trumpet.
 
-- [x] shy
-- [ ] come over
-- [ ] frying pan
+- [x] strict
+- [ ] bug
+- [ ] card
 
-> **解析**：shy 为形容词，意为“害羞的、怯生的”。grow up to be 表示“长大后成为...”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-My neighbor used to come over to my house to play board games on weekends about `____`.
+He used to ____ in the woods to stay away from bugs.
 
-- [x] bug
-- [ ] do
-- [ ] joke
+- [x] hide
+- [ ] bug
+- [ ] card
 
-> **解析**：come over 为动词短语，意为“过来串门/拜访”。come over to one's house 指“去某人家里”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-We `____` fireflies in glass jars during warm summer evenings.
+____, I am no longer afraid of eating spinach.
 
-- [x] caught
-- [ ] frog
-- [ ] kicked
+- [x] Now
+- [ ] bug
+- [ ] card
 
-> **解析**：caught 为动词 catch 的过去式和过去分词，意为“抓住、捕捉”。catch fireflies 意为“抓萤火虫”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-My brother once found a small green `____` near the muddy pond.
+We played games in the ____ during our youth.
 
-- [x] frog
-- [ ] frying pan
-- [ ] knee
+- [x] neighborhood
+- [ ] bug
+- [ ] card
 
-> **解析**：frog 为名词，意为“青蛙”。pond 意为“池塘”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The kids tried to hide behind the large oak tree during their game `____`.
+My best friend decided to come over ____ afternoon.
 
-- [x] card
-- [ ] hide
-- [ ] neighborhood
+- [x] yesterday
+- [ ] bug
+- [ ] card
 
-> **解析**：hide 为动词，意为“躲藏、隐藏”。过去式为 hid，过去分词为 hidden。hide behind 表示“躲在...后面”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-I `____` like eating vegetables, but now I enjoy fresh salads.
+He used to practice playing the ____ very loudly.
 
-- [x] never used to
-- [ ] hide
-- [ ] neighborhood
+- [x] trumpet
+- [ ] bug
+- [ ] card
 
-> **解析**：never used to 为 used to 的否定表达之一，意为“过去从不/以前不曾”。后接动词原形（like）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+____ memories are full of laughter and joy.
+
+- [x] Childhood
+- [ ] bug
+- [ ] card
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+A green ____ was jumping near the pond in the yard.
+
+- [x] frog
+- [ ] bug
+- [ ] card
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The children played in the ____ and got dirty clothes.
+
+- [x] dirt
+- [ ] bug
+- [ ] card
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Eggs cooked in a frying pan taste very ____.
+
+- [x] delicious
+- [ ] bug
+- [ ] card
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+He felt very ____ and couldn't speak in front of strangers.
+
+- [x] shy
+- [ ] bug
+- [ ] card
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+He accidentally ____ his teammate's knee in the game.
+
+- [x] kicked
+- [ ] bug
+- [ ] card
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+That was just a silly ____, so don't be mad.
+
+- [x] joke
+- [ ] bug
+- [ ] card
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Eating more ____ helps keep your body healthy.
+
+- [x] spinach
+- [ ] bug
+- [ ] card
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The young boy decided to ____ behind the big tree.
+
+- [x] hide
+- [ ] bug
+- [ ] card
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+He never used to get ____ early, but now he does.
+
+- [x] up
+- [ ] bug
+- [ ] card
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

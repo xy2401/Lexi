@@ -61,83 +61,176 @@ would you mind + doing 是礼貌请求句型。un- 前缀表示否定。
 
 <quiz-sentence-builder>
 
-1. **中文**：晚餐后你介意帮我通关这个困难的游戏关卡吗？  
-   **英文**：Would you mind helping me pass this difficult game level after dinner.
-   > **解析**：would you mind 为礼貌请求的固定表达，意为“你介意...吗”。后接动名词形式（helping me...）。
+1. **中文**：这位富有创意的少年对宇宙充满了好奇。  
+   **英文**：The creative teenager was curious about space.
+   > **解析**：creative 表示“富有创意的”；teenage / teenager 表示“十几岁的”；curious about 表示“对……感到好奇”。
 
-2. **中文**：熟能生巧，现在他对赢得比赛感到充满信心。  
-   **英文**：Practice makes perfect, and now he feels confident about winning the match.
-   > **解析**：confident 为形容词，意为“自信的、有把握的”。feel confident about sth. 表示“对某事感到自信”。
+2. **中文**：感到自信且放松的年轻人在海滩沙地上嬉戏。  
+   **英文**：Feeling confident and relaxed, the young lovers played in sand.
+   > **解析**：confident 表示“自信的”；relaxed 表示“放松的”；lover / lovers 表示“爱人/情侣”；sand 表示“沙子”。
 
-3. **中文**：她想出了一个绝妙的策略，带领我们的游戏团队取得了胜利。  
-   **英文**：She came up with a brilliant strategy that led our gaming team to victory.
-   > **解析**：brilliant 为形容词，意为“绝妙的、极聪明的”。修饰 strategy（策略）。lead sb. to victory 表示“带领某人走向胜利”。
+3. **中文**：令人难以置信的是，这位天才球员竟然失业了。  
+   **英文**：Unbelievable! This brilliant player was unemployed.
+   > **解析**：unbelievable 表示“令人难以置信的”；brilliant 表示“出色的/天才的”；unemployed 表示“失业的”。
 
-4. **中文**：这位年轻玩家对高手如何解开秘密谜题感到好奇。  
-   **英文**：The young player was curious about how the expert solved the secret puzzle.
-   > **解析**：curious about 为形容词短语，意为“对...感到好奇”。后接名词或疑问词引导的从句（how the expert solved...）。
+4. **中文**：不幸的是，那位玩游戏爱发笑的玩家今天运气不好。  
+   **英文**：Unlucky, the game lover with a nickname lost the match.
+   > **解析**：unlucky 表示“不幸运的”；nickname 表示“昵称/外号”；lover 表示“爱好者”。
 
-5. **中文**：下班后玩休闲电子游戏让我感觉完全放松下来。  
-   **英文**：Playing casual video games after work makes me feel completely relaxed.
-   > **解析**：relaxed 为形容词，修饰人，意为“放松的、轻松的”。make me feel relaxed 表示“让我感到放松”。
+5. **中文**：你介意向我们展示你出色的能力吗？  
+   **英文**：Would you mind showing us your great ability?
+   > **解析**：would you mind doing sth 表示“你介意做某事吗”；ability 表示“能力”。
 
-6. **中文**：在沙盒游戏中构建自定义世界需要高度富有创造力的思维方式。  
-   **英文**：Building custom worlds in sandbox games requires a highly creative mindset.
-   > **解析**：creative 为形容词，意为“富有创造力的”。修饰 mindset（思维/心态）。名词形式为 creativity。
+6. **中文**：这两位非常相似的玩家有着惊人一致的下巴和笑颜。  
+   **英文**：The two alike players had similar chin and smile.
+   > **解析**：alike 表示“相像的/十分相似的”；chin 表示“下巴”；smile 表示“微笑”。
 
-7. **中文**：在最后三秒钟内扭转比赛局势简直难以置信！  
-   **英文**：Turning the match around in the final three seconds was truly unbelievable.
-   > **解析**：unbelievable 为形容词，意为“难以置信的、奇迹般的”。turn around 意为“扭转”。
+7. **中文**：大家都为他那令人惊叹的精彩表演感到惊奇。  
+   **英文**：Everyone was amazed at his brilliant and creative work.
+   > **解析**：amazed 表示“感到惊奇的/吃惊的”；brilliant 表示“出色的”。
 
-8. **中文**：游戏玩家使用专门的训练软件来提高他们的快速反应能力。  
-   **英文**：Gamers use special training software to improve their fast reaction ability.
-   > **解析**：ability 为名词，意为“能力、本领”。fast reaction ability 指“快速反应能力”。
+8. **中文**：那是一场相当无趣的比赛，大家都觉得有些乏味。  
+   **英文**：It was a fairly uninteresting match that bored fans.
+   > **解析**：fairly 表示“相当/还算”；uninteresting 表示“无趣的/单调的”。
 
-9. **中文**：观众们对该玩家非凡的手速和精准度感到惊叹不已。  
-   **英文**：Spectators were amazed by the player's extraordinary hand speed and accuracy.
-   > **解析**：amazed 为形容词，修饰人，意为“感到惊讶/惊叹的”。be amazed by sth. 表示“对某事感到惊叹”。
+9. **中文**：你介意给我起一个响亮的昵称吗？  
+   **英文**：Would you mind giving me a cool nickname?
+   > **解析**：would you mind 表示“你介意……吗”；nickname 表示“昵称”。
 
-10. **中文**：在线游戏社区里的每个人都通过他酷炫的昵称认识他。  
-   **英文**：Everyone in the online gaming community knows him by his cool nickname.
-   > **解析**：nickname 为名词，意为“昵称、绰号”。know sb. by one's nickname 表示“通过昵称认识某人”。
+10. **中文**：他在比赛中展现出了非凡的能力和自信。  
+   **英文**：He showed remarkable ability and confidence in games.
+   > **解析**：ability 表示“能力”。
+
+11. **中文**：这位富有创意的设计师设计了许多有趣的游戏。  
+   **英文**：This creative designer built many fun video games.
+   > **解析**：creative 表示“富有创意的”。
+
+12. **中文**：孩子们对世界上的新事物充满了好奇心。  
+   **英文**：Children are always curious about new things around.
+   > **解析**：curious about 表示“对……感到好奇”。
+
+13. **中文**：她对自己在这次演讲比赛中的表现非常自信。  
+   **英文**：She felt very confident about her performance on stage.
+   > **解析**：confident 表示“自信的”。
+
+14. **中文**：令人难以置信的是，我们居然赢得了冠军！  
+   **英文**：It is unbelievable that we won the championship!
+   > **解析**：unbelievable 表示“难以置信的”。
+
+15. **中文**：在经历了一轮紧张较量后，他感到非常放松。  
+   **英文**：After a hard match, he felt completely relaxed.
+   > **解析**：relaxed 表示“放松的”。
+
+16. **中文**：他的朋友们都习惯喊他的外号昵称。  
+   **英文**：His friends always call him by his nickname.
+   > **解析**：nickname 表示“外号/昵称”。
+
+17. **中文**：这俩兄弟长得非常相似，就像双胞胎一样。  
+   **英文**：The two brothers look very much alike in face.
+   > **解析**：alike 表示“相像的/相似的”。
+
+18. **中文**：在金色的沙滩上散步能让人心情舒畅。  
+   **英文**：Walking on the warm sand makes people feel relaxed.
+   > **解析**：sand 表示“沙子/沙滩”。
+
+19. **中文**：大家都对他那令人叹为观止的艺术作品感到惊奇。  
+   **英文**：We were amazed by his brilliant artistic works.
+   > **解析**：amazed 表示“惊奇的/吃惊的”。
+
+20. **中文**：你介意帮我把球拿过来吗？  
+   **英文**：Would you mind helping me pick up the ball?
+   > **解析**：would you mind 表示“你介意……吗”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Would you mind helping me pass this difficult game level after dinner.
-   > **中文**：晚餐后你介意帮我通关这个困难的游戏关卡吗？
+1. The creative teenager was curious about space.
+   > **中文**：这位富有创意的少年对宇宙充满了好奇。
 
-2. Practice makes perfect, and now he feels confident about winning the match.
-   > **中文**：熟能生巧，现在他对赢得比赛感到充满信心。
+2. Feeling confident and relaxed, the young lovers played in sand.
+   > **中文**：感到自信且放松的年轻人在海滩沙地上嬉戏。
 
-3. She came up with a brilliant strategy that led our gaming team to victory.
-   > **中文**：她想出了一个绝妙的策略，带领我们的游戏团队取得了胜利。
+3. Unbelievable! This brilliant player was unemployed.
+   > **中文**：令人难以置信的是，这位天才球员竟然失业了。
 
-4. The young player was curious about how the expert solved the secret puzzle.
-   > **中文**：这位年轻玩家对高手如何解开秘密谜题感到好奇。
+4. Unlucky, the game lover with a nickname lost the match.
+   > **中文**：不幸的是，那位玩游戏爱发笑的玩家今天运气不好。
 
-5. Playing casual video games after work makes me feel completely relaxed.
-   > **中文**：下班后玩休闲电子游戏让我感觉完全放松下来。
+5. Would you mind showing us your great ability?
+   > **中文**：你介意向我们展示你出色的能力吗？
 
-6. Building custom worlds in sandbox games requires a highly creative mindset.
-   > **中文**：在沙盒游戏中构建自定义世界需要高度富有创造力的思维方式。
+6. The two alike players had similar chin and smile.
+   > **中文**：这两位非常相似的玩家有着惊人一致的下巴和笑颜。
 
-7. Turning the match around in the final three seconds was truly unbelievable.
-   > **中文**：在最后三秒钟内扭转比赛局势简直难以置信！
+7. Everyone was amazed at his brilliant and creative work.
+   > **中文**：大家都为他那令人惊叹的精彩表演感到惊奇。
 
-8. Gamers use special training software to improve their fast reaction ability.
-   > **中文**：游戏玩家使用专门的训练软件来提高他们的快速反应能力。
+8. It was a fairly uninteresting match that bored fans.
+   > **中文**：那是一场相当无趣的比赛，大家都觉得有些乏味。
 
-9. Spectators were amazed by the player's extraordinary hand speed and accuracy.
-   > **中文**：观众们对该玩家非凡的手速和精准度感到惊叹不已。
+9. Would you mind giving me a cool nickname?
+   > **中文**：你介意给我起一个响亮的昵称吗？
 
-10. Everyone in the online gaming community knows him by his cool nickname.
-   > **中文**：在线游戏社区里的每个人都通过他酷炫的昵称认识他。
+10. He showed remarkable ability and confidence in games.
+   > **中文**：他在比赛中展现出了非凡的能力和自信。
+
+11. This creative designer built many fun video games.
+   > **中文**：这位富有创意的设计师设计了许多有趣的游戏。
+
+12. Children are always curious about new things around.
+   > **中文**：孩子们对世界上的新事物充满了好奇心。
+
+13. She felt very confident about her performance on stage.
+   > **中文**：她对自己在这次演讲比赛中的表现非常自信。
+
+14. It is unbelievable that we won the championship!
+   > **中文**：令人难以置信的是，我们居然赢得了冠军！
+
+15. After a hard match, he felt completely relaxed.
+   > **中文**：在经历了一轮紧张较量后，他感到非常放松。
+
+16. His friends always call him by his nickname.
+   > **中文**：他的朋友们都习惯喊他的外号昵称。
+
+17. The two brothers look very much alike in face.
+   > **中文**：这俩兄弟长得非常相似，就像双胞胎一样。
+
+18. Walking on the warm sand makes people feel relaxed.
+   > **中文**：在金色的沙滩上散步能让人心情舒畅。
+
+19. We were amazed by his brilliant artistic works.
+   > **中文**：大家都对他那令人叹为观止的艺术作品感到惊奇。
+
+20. Would you mind helping me pick up the ball?
+   > **中文**：你介意帮我把球拿过来吗？
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| ability | 能力 |
+| alike | 相像的 / 相似的 |
+| amazed | 惊奇的 / 吃惊的 |
+| brilliant | 出色的 / 极好的 |
+| chin | 下巴 |
+| confident | 自信的 |
+| creative | 富有创意的 |
+| curious about | 对……感到好奇 |
+| fairly | 相当地 / 还算 |
+| lover | 爱好者 / 爱人 |
+| nickname | 昵称 / 外号 |
+| relaxed | 放松的 |
+| relaxing | 令人放松的 |
+| sand | 沙子 / 沙滩 |
+| smile | 微笑 |
+| unbelievable | 令人难以置信的 |
+| unemployed | 失业的 |
+| uninteresting | 无趣的 / 单调的 |
+| unlucky | 不幸的 / 运气不好的 |
+| would you mind | 你介意……吗 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ would you mind + doing 是礼貌请求句型。un- 前缀表示否定。
 
 ### 1
 
-`____` helping me pass this difficult game level after dinner.
+The ____ teenager was curious about space.
 
-- [x] would you mind
+- [x] creative
 - [ ] ability
-- [ ] chin
+- [ ] alike
 
-> **解析**：would you mind 为礼貌请求的固定表达，意为“你介意...吗”。后接动名词形式（helping me...）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Practice makes perfect, and now he feels `____` about winning the match.
+____ confident and relaxed, the young lovers played in sand.
 
-- [x] confident
+- [x] Feeling
+- [ ] ability
 - [ ] alike
-- [ ] creative
 
-> **解析**：confident 为形容词，意为“自信的、有把握的”。feel confident about sth. 表示“对某事感到自信”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-She came up with a `____` strategy that led our gaming team to victory.
+____! This brilliant player was unemployed.
 
-- [x] brilliant
-- [ ] amazed
-- [ ] curious about
+- [x] Unbelievable
+- [ ] ability
+- [ ] alike
 
-> **解析**：brilliant 为形容词，意为“绝妙的、极聪明的”。修饰 strategy（策略）。lead sb. to victory 表示“带领某人走向胜利”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The young player was `____` how the expert solved the secret puzzle.
+____, the game lover with a nickname lost the match.
 
-- [x] curious about
-- [ ] brilliant
-- [ ] fairly
+- [x] Unlucky
+- [ ] ability
+- [ ] alike
 
-> **解析**：curious about 为形容词短语，意为“对...感到好奇”。后接名词或疑问词引导的从句（how the expert solved...）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Playing casual video games after work makes me feel completely `____`.
+Would you mind showing us your great ____?
 
-- [x] relaxed
-- [ ] chin
-- [ ] fairly
+- [x] ability
+- [ ] alike
+- [ ] amazed
 
-> **解析**：relaxed 为形容词，修饰人，意为“放松的、轻松的”。make me feel relaxed 表示“让我感到放松”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Building custom worlds in sandbox games requires a highly `____` mindset.
+The two ____ players had similar chin and smile.
 
-- [x] creative
-- [ ] confident
-- [ ] how
+- [x] alike
+- [ ] ability
+- [ ] amazed
 
-> **解析**：creative 为形容词，意为“富有创造力的”。修饰 mindset（思维/心态）。名词形式为 creativity。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Turning the match around in the final three seconds was truly `____`.
+Everyone was ____ at his brilliant and creative work.
 
-- [x] unbelievable
-- [ ] creative
-- [ ] how
+- [x] amazed
+- [ ] ability
+- [ ] alike
 
-> **解析**：unbelievable 为形容词，意为“难以置信的、奇迹般的”。turn around 意为“扭转”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Gamers use special training software to improve their fast reaction `____`.
+It was a ____ uninteresting match that bored fans.
 
-- [x] ability
-- [ ] fairly
-- [ ] nickname
+- [x] fairly
+- [ ] ability
+- [ ] alike
 
-> **解析**：ability 为名词，意为“能力、本领”。fast reaction ability 指“快速反应能力”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Spectators were `____` by the player's extraordinary hand speed and accuracy.
+Would you mind giving me a cool ____?
 
-- [x] amazed
-- [ ] feeling
-- [ ] relaxed
+- [x] nickname
+- [ ] ability
+- [ ] alike
 
-> **解析**：amazed 为形容词，修饰人，意为“感到惊讶/惊叹的”。be amazed by sth. 表示“对某事感到惊叹”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Everyone in the online gaming community knows him by his cool `____`.
+He showed remarkable ____ and confidence in games.
+
+- [x] ability
+- [ ] alike
+- [ ] amazed
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+This ____ designer built many fun video games.
+
+- [x] creative
+- [ ] ability
+- [ ] alike
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+____ are always curious about new things around.
+
+- [x] Children
+- [ ] ability
+- [ ] alike
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+She felt very ____ about her performance on stage.
+
+- [x] confident
+- [ ] ability
+- [ ] alike
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+It is ____ that we won the championship!
+
+- [x] unbelievable
+- [ ] ability
+- [ ] alike
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+After a hard match, he felt completely ____.
+
+- [x] relaxed
+- [ ] ability
+- [ ] alike
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+His friends always call him by his ____.
 
 - [x] nickname
-- [ ] feeling
-- [ ] relaxing
+- [ ] ability
+- [ ] alike
 
-> **解析**：nickname 为名词，意为“昵称、绰号”。know sb. by one's nickname 表示“通过昵称认识某人”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The two brothers look very much ____ in face.
+
+- [x] alike
+- [ ] ability
+- [ ] amazed
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Walking on the warm ____ makes people feel relaxed.
+
+- [x] sand
+- [ ] ability
+- [ ] alike
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+We were ____ by his brilliant artistic works.
+
+- [x] amazed
+- [ ] ability
+- [ ] alike
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Would you mind ____ me pick up the ball?
+
+- [x] helping
+- [ ] ability
+- [ ] alike
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

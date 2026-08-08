@@ -51,83 +51,176 @@ drawn 是 draw 的过去分词，在这里可能指"被吸引"（drawn to）或"
 
 <quiz-sentence-builder>
 
-1. **中文**：我非常后悔昨天和我哥哥发生激烈的争吵。  
-   **英文**：I deeply regret getting into a heated argument with my brother yesterday.
-   > **解析**：argument 可数名词，意为“争吵；争论”，动词为 argue。
+1. **中文**：如果我没有那么蠢，我就不会让大家失望了。  
+   **英文**：If I hadn't been so stupid, I wouldn't have disappointed everyone.
+   > **解析**：第三类条件句（If + had + 过去分词, would + have + 过去分词），对过去的后悔虚拟。
 
-2. **中文**：她因驾驶考试不及格而对自己感到无比失望。  
-   **英文**：She felt extremely disappointed with herself for failing the driving exam.
-   > **解析**：disappointed 形容词，意为“感到失望的”，修饰人，常搭配 with 或 at。
+2. **中文**：如果她当时听了我的劝告，她就会有更好的结果。  
+   **英文**：If she had listened to me, she would have had a better result.
+   > **解析**：would have had 表示过去本可以拥有的结果。
 
-3. **中文**：他因忘记母亲的生日晚餐而感到内疚。  
-   **英文**：He felt guilty about forgetting his mother's birthday dinner.
-   > **解析**：guilty 形容词，意为“内疚的；有罪的”，常用 feel guilty about doing something。
+3. **中文**：如果我当时没有喝醉，我就不会说出那些话。  
+   **英文**：If I hadn't been drunk, I wouldn't have said those words.
+   > **解析**：drunk 作形容词表示“喝醉的”，hadn't been 为过去完成时否定式。
 
-4. **中文**：凭常识本可以避免这个愚蠢的错误。  
-   **英文**：Using common sense would have prevented this silly mistake.
-   > **解析**：common sense 不可数名词短语，意为“常识”。
+4. **中文**：他警告过我危险，但我没有采取行动。  
+   **英文**：He warned me about the danger, but I didn't act on it.
+   > **解析**：warn 意为“警告”，act on 表示“针对……采取行动”。
 
-5. **中文**：如果我早知道商店关门了，我就不会一路走过去了。  
-   **英文**：If I had known the store was closed, I wouldn't have walked all the way there.
-   > **解析**：wouldn't have + 过去分词，用于虚拟语气表示“（过去）本不会做某事”。
+5. **中文**：我觉得很内疚，因为我昨天太自私了。  
+   **英文**：I feel guilty because I was very selfish yesterday.
+   > **解析**：guilty 表示“内疚的”，selfish 表示“自私的”。
 
-6. **中文**：如果我们早点出发，我们本会有充足的时间赶上火车。  
-   **英文**：If we had left earlier, we would have had enough time to catch the train.
-   > **解析**：would have had 是 would have + have 的过去分词 had，意为“本会有……”。
+6. **中文**：我保证下次我能够做得更好。  
+   **英文**：I promise I will be able to do better next time.
+   > **解析**：promise 表示“承诺”，be able to 放在 will 之后表示“能够”。
 
-7. **中文**：我的同事曾试图警告我注意即将到来的截止日期，但我忽略了。  
-   **英文**：My coworker tried to warn me about the upcoming deadline, but I ignored it.
-   > **解析**：warn 及物动词，意为“警告；提醒”，常用 warn somebody about/against something。
+7. **中文**：当大家在睡觉时，不要那么大声。  
+   **英文**：Don't be so loud when people are trying to sleep.
+   > **解析**：loud 表示“大声的、喧闹的”。
 
-8. **中文**：酒后驾车是能毁掉生命的危险决定。  
-   **英文**：Driving while drunk is a dangerous decision that can destroy lives.
-   > **解析**：drunk 形容词，意为“酒醉的”，作表语；drive drunk 意为酒后驾车。
+8. **中文**：我被屋外神秘的噪音吸引了。  
+   **英文**：I was drawn to the mysterious noise outside the house.
+   > **解析**：drawn 是 draw 的过去分词，be drawn to 表示“被……吸引”。
 
-9. **中文**：意识到自己的决定很自私后，她向整个团队道歉。  
-   **英文**：Realizing her decision was selfish, she apologized to her entire team.
-   > **解析**：selfish 形容词，意为“自私的”，反义词为 unselfish / generous。
+9. **中文**：在做决定前，你应当使用常识。  
+   **英文**：You should use your common sense before making a decision.
+   > **解析**：common sense 表示“常识”。
 
-10. **中文**：他在会议期间失去了对情绪的控制并大声喊叫。  
-   **英文**：He lost control of his emotions and shouted during the meeting.
-   > **解析**：control 不可数/可数名词，意为“控制；克制”，短语 lose control of ... 意为对……失去控制。
+10. **中文**：司机在结冰的道路上失去了对汽车的控制。  
+   **英文**：The driver lost control of the car on the icy road.
+   > **解析**：lose control of 表示“失去对……的控制”。
+
+11. **中文**：他们为了谁该付账单展开了激烈的争论。  
+   **英文**：They had a fierce argument about who should pay the bill.
+   > **解析**：argument 表示“争论”，have an argument about 表示“讨论/争论”。
+
+12. **中文**：我误解了他的意图，感到很抱歉。  
+   **英文**：I was mistaken about his intention and felt sorry.
+   > **解析**：mistaken 表示“搞错的、误解的”。
+
+13. **中文**：如果我们早点出发，我们就不会错过公交车了。  
+   **英文**：If we had left earlier, we wouldn't have missed the bus.
+   > **解析**：wouldn't have + 过去分词，表示过去假设结果“本就不会”。
+
+14. **中文**：你能拥有这样一个支持你的家庭，真是太幸运了。  
+   **英文**：You are very lucky to have such a supportive family.
+   > **解析**：lucky 表示“幸运的”。
+
+15. **中文**：如果我早知道真相，我就已经警告你了。  
+   **英文**：If I had known the truth, I would have warned you.
+   > **解析**：would have warned 表示虚拟主句“本就会警告你”。
+
+16. **中文**：如果他当时训练更努力，他就会拿到冠军。  
+   **英文**：If he had trained harder, he would have had the championship.
+   > **解析**：had trained 为条件从句的过去完成时。
+
+17. **中文**：我并不是故意用成绩让我的父母失望。  
+   **英文**：I didn't mean to disappoint my parents with my grades.
+   > **解析**：disappoint 意为“使失望”。
+
+18. **中文**：如果她没有迅速采取行动，事故就会发生了。  
+   **英文**：If she hadn't acted so quickly, the accident would have happened.
+   > **解析**：hadn't acted 为条件从句过去的否定假设。
+
+19. **中文**：他承诺过他不会再自私了。  
+   **英文**：He promised that he wouldn't be selfish again.
+   > **解析**：selfish 意为“自私的”。
+
+20. **中文**：解决这场争论需要常识与自控力。  
+   **英文**：It takes common sense and self control to resolve this argument.
+   > **解析**：argument 意为“争论”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I deeply regret getting into a heated argument with my brother yesterday.
-   > **中文**：我非常后悔昨天和我哥哥发生激烈的争吵。
+1. If I hadn't been so stupid, I wouldn't have disappointed everyone.
+   > **中文**：如果我没有那么蠢，我就不会让大家失望了。
 
-2. She felt extremely disappointed with herself for failing the driving exam.
-   > **中文**：她因驾驶考试不及格而对自己感到无比失望。
+2. If she had listened to me, she would have had a better result.
+   > **中文**：如果她当时听了我的劝告，她就会有更好的结果。
 
-3. He felt guilty about forgetting his mother's birthday dinner.
-   > **中文**：他因忘记母亲的生日晚餐而感到内疚。
+3. If I hadn't been drunk, I wouldn't have said those words.
+   > **中文**：如果我当时没有喝醉，我就不会说出那些话。
 
-4. Using common sense would have prevented this silly mistake.
-   > **中文**：凭常识本可以避免这个愚蠢的错误。
+4. He warned me about the danger, but I didn't act on it.
+   > **中文**：他警告过我危险，但我没有采取行动。
 
-5. If I had known the store was closed, I wouldn't have walked all the way there.
-   > **中文**：如果我早知道商店关门了，我就不会一路走过去了。
+5. I feel guilty because I was very selfish yesterday.
+   > **中文**：我觉得很内疚，因为我昨天太自私了。
 
-6. If we had left earlier, we would have had enough time to catch the train.
-   > **中文**：如果我们早点出发，我们本会有充足的时间赶上火车。
+6. I promise I will be able to do better next time.
+   > **中文**：我保证下次我能够做得更好。
 
-7. My coworker tried to warn me about the upcoming deadline, but I ignored it.
-   > **中文**：我的同事曾试图警告我注意即将到来的截止日期，但我忽略了。
+7. Don't be so loud when people are trying to sleep.
+   > **中文**：当大家在睡觉时，不要那么大声。
 
-8. Driving while drunk is a dangerous decision that can destroy lives.
-   > **中文**：酒后驾车是能毁掉生命的危险决定。
+8. I was drawn to the mysterious noise outside the house.
+   > **中文**：我被屋外神秘的噪音吸引了。
 
-9. Realizing her decision was selfish, she apologized to her entire team.
-   > **中文**：意识到自己的决定很自私后，她向整个团队道歉。
+9. You should use your common sense before making a decision.
+   > **中文**：在做决定前，你应当使用常识。
 
-10. He lost control of his emotions and shouted during the meeting.
-   > **中文**：他在会议期间失去了对情绪的控制并大声喊叫。
+10. The driver lost control of the car on the icy road.
+   > **中文**：司机在结冰的道路上失去了对汽车的控制。
+
+11. They had a fierce argument about who should pay the bill.
+   > **中文**：他们为了谁该付账单展开了激烈的争论。
+
+12. I was mistaken about his intention and felt sorry.
+   > **中文**：我误解了他的意图，感到很抱歉。
+
+13. If we had left earlier, we wouldn't have missed the bus.
+   > **中文**：如果我们早点出发，我们就不会错过公交车了。
+
+14. You are very lucky to have such a supportive family.
+   > **中文**：你能拥有这样一个支持你的家庭，真是太幸运了。
+
+15. If I had known the truth, I would have warned you.
+   > **中文**：如果我早知道真相，我就已经警告你了。
+
+16. If he had trained harder, he would have had the championship.
+   > **中文**：如果他当时训练更努力，他就会拿到冠军。
+
+17. I didn't mean to disappoint my parents with my grades.
+   > **中文**：我并不是故意用成绩让我的父母失望。
+
+18. If she hadn't acted so quickly, the accident would have happened.
+   > **中文**：如果她没有迅速采取行动，事故就会发生了。
+
+19. He promised that he wouldn't be selfish again.
+   > **中文**：他承诺过他不会再自私了。
+
+20. It takes common sense and self control to resolve this argument.
+   > **中文**：解决这场争论需要常识与自控力。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| act | 行动；表现 |
+| argument | 争论；论点 |
+| be able to | 能够 |
+| common sense | 常识 |
+| control | 控制 |
+| disappoint | 使失望 |
+| drawn | 被吸引的 |
+| drunk | 喝醉的 |
+| guilty | 内疚的 |
+| had | （过去完成时助动词）已 |
+| hadn't | （过去完成时否定）未曾 |
+| if | 如果 |
+| loud | 大声的 |
+| lucky | 幸运的 |
+| mistaken | 搞错的；误解的 |
+| promise | 承诺 |
+| selfish | 自私的 |
+| stupid | 愚蠢的 |
+| warn | 警告 |
+| would have had | 本就会拥有 |
 
 </quiz-matching>
 
@@ -135,102 +228,202 @@ drawn 是 draw 的过去分词，在这里可能指"被吸引"（drawn to）或"
 
 ### 1
 
-I deeply regret getting into a heated `____` with my brother yesterday.
+____ I hadn't been so stupid, I wouldn't have disappointed everyone.
 
-- [x] argument
+- [x] If
 - [ ] act
-- [ ] disappoint
+- [ ] argument
 
-> **解析**：argument 可数名词，意为“争吵；争论”，动词为 argue。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-She felt extremely `____`ed with herself for failing the driving exam.
+____ she had listened to me, she would have had a better result.
 
-- [x] disappoint
+- [x] If
+- [ ] act
 - [ ] argument
-- [ ] drawn
 
-> **解析**：disappointed 形容词，意为“感到失望的”，修饰人，常搭配 with 或 at。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-He felt `____` about forgetting his mother's birthday dinner.
+____ I hadn't been drunk, I wouldn't have said those words.
 
-- [x] guilty
-- [ ] be able to
-- [ ] drawn
+- [x] If
+- [ ] act
+- [ ] argument
 
-> **解析**：guilty 形容词，意为“内疚的；有罪的”，常用 feel guilty about doing something。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Using `____` would have prevented this silly mistake.
+He warned me about the danger, but I didn't ____ on it.
 
-- [x] common sense
-- [ ] control
-- [ ] guilty
+- [x] act
+- [ ] argument
+- [ ] be able to
 
-> **解析**：common sense 不可数名词短语，意为“常识”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-If I `____` known the store was closed, I wouldn't have walked all the way there.
+I feel ____ because I was very selfish yesterday.
 
-- [x] had
-- [ ] control
-- [ ] guilty
+- [x] guilty
+- [ ] act
+- [ ] argument
 
-> **解析**：wouldn't have + 过去分词，用于虚拟语气表示“（过去）本不会做某事”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-`____` we had left earlier, we would have had enough time to catch the train.
+I ____ I will be able to do better next time.
 
-- [x] if
-- [ ] disappoint
-- [ ] had
+- [x] promise
+- [ ] act
+- [ ] argument
 
-> **解析**：would have had 是 would have + have 的过去分词 had，意为“本会有……”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-My coworker tried to `____` me about the upcoming deadline, but I ignored it.
+Don't be so ____ when people are trying to sleep.
 
-- [x] warn
-- [ ] drawn
-- [ ] hadn't
+- [x] loud
+- [ ] act
+- [ ] argument
 
-> **解析**：warn 及物动词，意为“警告；提醒”，常用 warn somebody about/against something。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Driving while `____` is a dangerous decision that can destroy lives.
+I was ____ to the mysterious noise outside the house.
 
-- [x] drunk
-- [ ] guilty
-- [ ] loud
+- [x] drawn
+- [ ] act
+- [ ] argument
 
-> **解析**：drunk 形容词，意为“酒醉的”，作表语；drive drunk 意为酒后驾车。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Realizing her decision was `____`, she apologized to her entire team.
+You should use your common sense before making a ____.
 
-- [x] selfish
-- [ ] guilty
-- [ ] loud
+- [x] decision
+- [ ] act
+- [ ] argument
 
-> **解析**：selfish 形容词，意为“自私的”，反义词为 unselfish / generous。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-He lost `____` of his emotions and shouted during the meeting.
+The driver lost ____ of the car on the icy road.
 
 - [x] control
-- [ ] hadn't
-- [ ] mistaken
+- [ ] act
+- [ ] argument
 
-> **解析**：control 不可数/可数名词，意为“控制；克制”，短语 lose control of ... 意为对……失去控制。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+They ____ a fierce argument about who should pay the bill.
+
+- [x] had
+- [ ] act
+- [ ] argument
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+I was ____ about his intention and felt sorry.
+
+- [x] mistaken
+- [ ] act
+- [ ] argument
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+____ we had left earlier, we wouldn't have missed the bus.
+
+- [x] If
+- [ ] act
+- [ ] argument
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+You are very ____ to have such a supportive family.
+
+- [x] lucky
+- [ ] act
+- [ ] argument
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+____ I had known the truth, I would have warned you.
+
+- [x] If
+- [ ] act
+- [ ] argument
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+____ he had trained harder, he would have had the championship.
+
+- [x] If
+- [ ] act
+- [ ] argument
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+I didn't mean to ____ my parents with my grades.
+
+- [x] disappoint
+- [ ] act
+- [ ] argument
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+____ she hadn't acted so quickly, the accident would have happened.
+
+- [x] If
+- [ ] act
+- [ ] argument
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+He promised that he wouldn't be ____ again.
+
+- [x] selfish
+- [ ] act
+- [ ] argument
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+It takes common sense and self ____ to resolve this argument.
+
+- [x] control
+- [ ] act
+- [ ] argument
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

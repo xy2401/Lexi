@@ -61,83 +61,176 @@ availability, call in sick, cooperate, cut, decline, in the long run, itself, le
 
 <quiz-sentence-builder>
 
-1. **中文**：在安排会议之前，请查看团队日历确认每个人的时间空闲/可配合程度。  
-   **英文**：Please check the team calendar for everyone's availability before scheduling the meeting.
-   > **解析**：`availability` 不可数名词，意为“可获得性；可配合的时间/空闲”。在办公和日程安排中常指“空闲时间”。
+1. **中文**：我们不得不解雇他的原因是他的业绩表现差。
+   **英文**：The reason that we had to let him go was his poor performance.
+   > **解析**：let go 委婉表示解雇。
 
-2. **中文**：管理层决定谢绝/拒绝该提议，因为其超出了部门预算。  
-   **英文**：Management decided to decline the proposal because it exceeded the department budget.
-   > **解析**：`decline` 及物动词，在此处意为“礼貌地拒绝；谢绝”。对比 `reject`，`decline` 语气更为体面正式。
+2. **中文**：关键是长远来看我们必须削减成本。
+   **英文**：The point is that we must cut costs in the long run.
+   > **解析**：in the long run 意为从长远来看。
 
-3. **中文**：由于公司重组，该公司不得不解雇/裁减几名初级员工。  
-   **英文**：Due to company restructuring, the firm had to let go of several junior employees.
-   > **解析**：`let go of` 为动词短语，在职场场景中指“解雇；裁员（与 `lay off` 类似）”。
+3. **中文**：问题是我们的商业伙伴最近一直不可靠。
+   **英文**：The thing is that our business partner has been unreliable lately.
+   > **解析**：unreliable 意为不可靠的。
 
-4. **中文**：我们公司同意与一家当地技术公司合作开发该应用程序。  
-   **英文**：Our company agreed to partner with a local technology firm to develop the application.
-   > **解析**：`partner` 动词，意为“合伙；合作”。固定搭配 `partner with sb. / a company`。
+4. **中文**：要是有几个员工在同一天请病假怎么办？
+   **英文**：What if several employees call in sick on the same day?
+   > **解析**：call in sick 意为打电话请病假。
 
-5. **中文**：会计将所有财务数据整齐地组织存放在 Excel 电子表格中。  
-   **英文**：The accountant organized all financial data neatly into an Excel spreadsheet.
-   > **解析**：`spreadsheet` 可数名词，意为“电子表格”。
+5. **中文**：那提醒了我，我需要检查大家轮班的空闲时间。
+   **英文**：That reminds me, I need to check everyone's availability for the shift.
+   > **解析**：availability 意为可用时间、是否有空。
 
-6. **中文**：这提醒了我，我们仍然需要在五点前提交我们每月的费用报告。  
-   **英文**：That reminds me, we still need to submit our monthly expense reports by five o'clock.
-   > **解析**：`that reminds me` 为口语过渡短语，意为“这提醒了我；想起了一件事”，用于由当前话题联想到另一件需要处理的事项。
+6. **中文**：除了日常职责外，他还必须更新电子表格。
+   **英文**：On top of his daily duties, he had to update the spreadsheet.
+   > **解析**：spreadsheet 意为电子表格。
 
-7. **中文**：在本公司，未提前通知而错过项目截止日期是完全不可接受的。  
-   **英文**：Missing project deadlines without advance notice is completely unacceptable in this firm.
-   > **解析**：`unacceptable` 形容词，意为“无法接受的；不容许的”，由前缀 `un-` + `acceptable` 构成。
+7. **中文**：一旦我们在新策略上达成一致，我们就可以继续前进了。
+   **英文**：Once we agree on the new strategy, we can move on.
+   > **解析**：strategy 意为策略、战略。
 
-8. **中文**：如果你发烧醒来，你应该打电话请病假并留在家中休息。  
-   **英文**：If you wake up with a fever, you should call in sick and rest at home (let go) about cooperate.
-   > **解析**：`call in sick` 动词短语，意为“打电话请病假”。
+8. **中文**：在这个公司里，不可接受的行为绝不会被容忍。
+   **英文**：Unacceptable behavior will not be tolerated in this company.
+   > **解析**：unacceptable 意为不可接受的。
 
-9. **中文**：从长远来看，投资高质量的办公设备将会节省资金。  
-   **英文**：Investing in high-quality office equipment will save money in the long run.
-   > **解析**：`in the long run` 介词短语作状语，意为“从长远来看；终究”。
+9. **中文**：软件产品本身不错，但支持不足。
+   **英文**：The software product itself is good, but the support is lacking.
+   > **解析**：itself 为反身代词，意为它自己/本身。
 
-10. **中文**：除了管理预算之外，她还负责培训新员工。  
-   **英文**：On top of managing the budget, she is also responsible for training new staff members.
-   > **解析**：`on top of` 介词短语，意为“除了……之外；加上”，后接动名词 `managing`。
+10. **中文**：由于即将退休，她决定拒绝这个提议。
+   **英文**：She decided to decline the offer because of her upcoming retirement.
+   > **解析**：decline 意为婉言拒绝。
+
+11. **中文**：我们需要所有部门在这个项目上密切合作。
+   **英文**：We need all departments to cooperate closely on this project.
+   > **解析**：cooperate 意为合作。
+
+12. **中文**：他决定本周上夜班。
+   **英文**：He decided to take a night shift this week.
+   > **解析**：shift 意为轮班。
+
+13. **中文**：从长远来看，质量比速度更重要。
+   **英文**：In the long run, quality is more important than speed.
+   > **解析**：in the long run 意为长远来看。
+
+14. **中文**：出于个人原因，他被迫拒绝了升职。
+   **英文**：He was forced to decline the promotion for personal reasons.
+   > **解析**：decline 意为拒绝。
+
+15. **中文**：在我们的投资中，她一直是一个不可靠的合作伙伴。
+   **英文**：She has been an unreliable partner in our investment.
+   > **解析**：partner 意为合作伙伴。
+
+16. **中文**：那提醒了我，我们还没有付账单。
+   **英文**：That reminds me that we haven't paid the bills yet.
+   > **解析**：that reminds me 意为那提醒了我。
+
+17. **中文**：要是我彻底改变我们的营销策略会怎样？
+   **英文**：What if we change our marketing strategy completely?
+   > **解析**：what if 意为要是我……会怎样。
+
+18. **中文**：这个季度他的业绩有了显著改善。
+   **英文**：His performance has improved significantly this quarter.
+   > **解析**：performance 意为业绩、表现。
+
+19. **中文**：电子表格准备好后，请发给我。
+   **英文**：Once the spreadsheet is ready, please send it to me.
+   > **解析**：once 意为一旦。
+
+20. **中文**：是时候转到我们的下一个业务议题了。
+   **英文**：It is time to move on to our next business topic.
+   > **解析**：move on 意为继续前进、转入下一主题。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Please check the team calendar for everyone's availability before scheduling the meeting.
-   > **中文**：在安排会议之前，请查看团队日历确认每个人的时间空闲/可配合程度。
+1. The reason that we had to let him go was his poor performance.
+   > **中文**：我们不得不解雇他的原因是他的业绩表现差。
 
-2. Management decided to decline the proposal because it exceeded the department budget.
-   > **中文**：管理层决定谢绝/拒绝该提议，因为其超出了部门预算。
+2. The point is that we must cut costs in the long run.
+   > **中文**：关键是长远来看我们必须削减成本。
 
-3. Due to company restructuring, the firm had to let go of several junior employees.
-   > **中文**：由于公司重组，该公司不得不解雇/裁减几名初级员工。
+3. The thing is that our business partner has been unreliable lately.
+   > **中文**：问题是我们的商业伙伴最近一直不可靠。
 
-4. Our company agreed to partner with a local technology firm to develop the application.
-   > **中文**：我们公司同意与一家当地技术公司合作开发该应用程序。
+4. What if several employees call in sick on the same day?
+   > **中文**：要是有几个员工在同一天请病假怎么办？
 
-5. The accountant organized all financial data neatly into an Excel spreadsheet.
-   > **中文**：会计将所有财务数据整齐地组织存放在 Excel 电子表格中。
+5. That reminds me, I need to check everyone's availability for the shift.
+   > **中文**：那提醒了我，我需要检查大家轮班的空闲时间。
 
-6. That reminds me, we still need to submit our monthly expense reports by five o'clock.
-   > **中文**：这提醒了我，我们仍然需要在五点前提交我们每月的费用报告。
+6. On top of his daily duties, he had to update the spreadsheet.
+   > **中文**：除了日常职责外，他还必须更新电子表格。
 
-7. Missing project deadlines without advance notice is completely unacceptable in this firm.
-   > **中文**：在本公司，未提前通知而错过项目截止日期是完全不可接受的。
+7. Once we agree on the new strategy, we can move on.
+   > **中文**：一旦我们在新策略上达成一致，我们就可以继续前进了。
 
-8. If you wake up with a fever, you should call in sick and rest at home (let go) about cooperate.
-   > **中文**：如果你发烧醒来，你应该打电话请病假并留在家中休息。
+8. Unacceptable behavior will not be tolerated in this company.
+   > **中文**：在这个公司里，不可接受的行为绝不会被容忍。
 
-9. Investing in high-quality office equipment will save money in the long run.
-   > **中文**：从长远来看，投资高质量的办公设备将会节省资金。
+9. The software product itself is good, but the support is lacking.
+   > **中文**：软件产品本身不错，但支持不足。
 
-10. On top of managing the budget, she is also responsible for training new staff members.
-   > **中文**：除了管理预算之外，她还负责培训新员工。
+10. She decided to decline the offer because of her upcoming retirement.
+   > **中文**：由于即将退休，她决定拒绝这个提议。
+
+11. We need all departments to cooperate closely on this project.
+   > **中文**：我们需要所有部门在这个项目上密切合作。
+
+12. He decided to take a night shift this week.
+   > **中文**：他决定本周上夜班。
+
+13. In the long run, quality is more important than speed.
+   > **中文**：从长远来看，质量比速度更重要。
+
+14. He was forced to decline the promotion for personal reasons.
+   > **中文**：出于个人原因，他被迫拒绝了升职。
+
+15. She has been an unreliable partner in our investment.
+   > **中文**：在我们的投资中，她一直是一个不可靠的合作伙伴。
+
+16. That reminds me that we haven't paid the bills yet.
+   > **中文**：那提醒了我，我们还没有付账单。
+
+17. What if we change our marketing strategy completely?
+   > **中文**：要是我彻底改变我们的营销策略会怎样？
+
+18. His performance has improved significantly this quarter.
+   > **中文**：这个季度他的业绩有了显著改善。
+
+19. Once the spreadsheet is ready, please send it to me.
+   > **中文**：电子表格准备好后，请发给我。
+
+20. It is time to move on to our next business topic.
+   > **中文**：是时候转到我们的下一个业务议题了。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| let go | 解雇（委婉语） |
+| call in sick | 打电话请病假 |
+| in the long run | 从长远来看 |
+| the reason that | 原因是…… |
+| the point is that | 关键是…… |
+| the thing is that | 问题是…… |
+| performance | 业绩；表现 |
+| strategy | 策略；战略 |
+| spreadsheet | 电子表格 |
+| unacceptable | 不可接受的 |
+| unreliable | 不可靠的 |
+| on top of | 除……之外（还有） |
+| move on | 继续前进；翻篇 |
+| decline | 拒绝；下降 |
+| cut | 削减；剪切 |
+| shift | 轮班；转变 |
+| availability | 可用时间；是否有空 |
+| retirement | 退休 |
+| that reminds me | 那提醒我了 |
+| what if | 如果……怎么办 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ availability, call in sick, cooperate, cut, decline, in the long run, itself, le
 
 ### 1
 
-Please check the team calendar for everyone's `____` before scheduling the meeting.
+The reason that we had to let him go was his poor ____.
 
-- [x] availability
+- [x] performance
+- [ ] availability
 - [ ] call in sick
-- [ ] in the long run
 
-> **解析**：`availability` 不可数名词，意为“可获得性；可配合的时间/空闲”。在办公和日程安排中常指“空闲时间”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Management decided to `____` the proposal because it exceeded the department budget.
+The point is that we must ____ costs in the long run.
 
-- [x] decline
+- [x] cut
+- [ ] availability
 - [ ] call in sick
-- [ ] itself
 
-> **解析**：`decline` 及物动词，在此处意为“礼貌地拒绝；谢绝”。对比 `reject`，`decline` 语气更为体面正式。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Due to company restructuring, the firm had to `____` of several junior employees.
+The thing is that our business ____ has been unreliable lately.
 
-- [x] let go
-- [ ] cooperate
-- [ ] itself
+- [x] partner
+- [ ] availability
+- [ ] call in sick
 
-> **解析**：`let go of` 为动词短语，在职场场景中指“解雇；裁员（与 `lay off` 类似）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Our company agreed to `____` with a local technology firm to develop the application.
+What if several ____ call in sick on the same day?
 
-- [x] partner
-- [ ] cut
-- [ ] let go
+- [x] employees
+- [ ] availability
+- [ ] call in sick
 
-> **解析**：`partner` 动词，意为“合伙；合作”。固定搭配 `partner with sb. / a company`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The accountant organized all financial data neatly into an Excel `____`.
+That reminds me, I need to check everyone's ____ for the shift.
 
-- [x] spreadsheet
-- [ ] decline
-- [ ] move on
+- [x] availability
+- [ ] call in sick
+- [ ] cooperate
 
-> **解析**：`spreadsheet` 可数名词，意为“电子表格”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-`____`, we still need to submit our monthly expense reports by five o'clock.
+On top of his daily duties, he had to update the ____.
 
-- [x] that reminds me
-- [ ] in the long run
-- [ ] on top of
+- [x] spreadsheet
+- [ ] availability
+- [ ] call in sick
 
-> **解析**：`that reminds me` 为口语过渡短语，意为“这提醒了我；想起了一件事”，用于由当前话题联想到另一件需要处理的事项。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Missing project deadlines without advance notice is completely `____` in this firm.
+____ we agree on the new strategy, we can move on.
 
-- [x] unacceptable
-- [ ] itself
-- [ ] once
+- [x] Once
+- [ ] availability
+- [ ] call in sick
 
-> **解析**：`unacceptable` 形容词，意为“无法接受的；不容许的”，由前缀 `un-` + `acceptable` 构成。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-If you wake up with a fever, you should `____` and rest at home (let go) about cooperate.
+____ behavior will not be tolerated in this company.
 
-- [x] call in sick
-- [ ] move on
-- [ ] performance
+- [x] Unacceptable
+- [ ] availability
+- [ ] call in sick
 
-> **解析**：`call in sick` 动词短语，意为“打电话请病假”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Investing in high-quality office equipment will save money `____`.
+The software product ____ is good, but the support is lacking.
 
-- [x] in the long run
-- [ ] on top of
-- [ ] retirement
+- [x] itself
+- [ ] availability
+- [ ] call in sick
 
-> **解析**：`in the long run` 介词短语作状语，意为“从长远来看；终究”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-`____` managing the budget, she is also responsible for training new staff members.
+She decided to ____ the offer because of her upcoming retirement.
 
-- [x] on top of
-- [ ] once
-- [ ] shift
+- [x] decline
+- [ ] availability
+- [ ] call in sick
 
-> **解析**：`on top of` 介词短语，意为“除了……之外；加上”，后接动名词 `managing`。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+We need all departments to ____ closely on this project.
+
+- [x] cooperate
+- [ ] availability
+- [ ] call in sick
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+He decided to ____ a night shift this week.
+
+- [x] take
+- [ ] availability
+- [ ] call in sick
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+In the long run, quality is more ____ than speed.
+
+- [x] important
+- [ ] availability
+- [ ] call in sick
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+He was forced to ____ the promotion for personal reasons.
+
+- [x] decline
+- [ ] availability
+- [ ] call in sick
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+She has been an ____ partner in our investment.
+
+- [x] unreliable
+- [ ] availability
+- [ ] call in sick
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+That ____ me that we haven't paid the bills yet.
+
+- [x] reminds
+- [ ] availability
+- [ ] call in sick
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+What if we change our marketing ____ completely?
+
+- [x] strategy
+- [ ] availability
+- [ ] call in sick
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+His ____ has improved significantly this quarter.
+
+- [x] performance
+- [ ] availability
+- [ ] call in sick
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+____ the spreadsheet is ready, please send it to me.
+
+- [x] Once
+- [ ] availability
+- [ ] call in sick
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+It is time to move on to our next ____ topic.
+
+- [x] business
+- [ ] availability
+- [ ] call in sick
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

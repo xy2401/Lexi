@@ -49,83 +49,176 @@
 
 <quiz-sentence-builder>
 
-1. **中文**：这家科技公司于 1984 年推出了其革命性的个人计算机。  
-   **英文**：The technological company launched its revolutionary personal computer in 1984.
-   > **解析**：1984 为年份，读作 nineteen eighty-four。
+1. **中文**：经历过多次失败后，他终于成功拿到了项目许可。
+   **英文**：At last, we arrived at our hotel after a long travel.
+   > **解析**：At last 表示“终于/最终”。
 
-2. **中文**：经过几十年的艰苦努力，这位科学家终于实现了他的梦想研究突破。  
-   **英文**：After decades of hard work, the scientist achieved his dream research breakthrough at last.
-   > **解析**：at last 为介词短语，意为“终于、最终”，相当于 finally。
+2. **中文**：到我们到达电影院的时候，电影已经放映了半小时。
+   **英文**：By the time we got to the show, it had started.
+   > **解析**：By the time 表示“到……的时候为止”（主句常接完成时）。
 
-3. **中文**：在目标截止日期到来之前，他们已经完成了空间站项目。  
-   **英文**：They had completed the space station project before the target deadline arrived.
-   > **解析**：had 在此处作助动词，与过去分词 completed 构成过去完成时（had completed）。
+3. **中文**：这项科技突破起源于十八世纪的欧洲。
+   **英文**：That historical discovery occurred in the eighteenth century.
+   > **解析**：eighteenth 表示“第十八/18世纪”。
 
-4. **中文**：这位勇敢的消防员因在灾难中拯救生命而被尊为国家英雄。  
-   **英文**：The brave firefighter was honored as a national hero for saving lives during the disaster.
-   > **解析**：hero 为可数名词，意为“英雄”，复数形式为 heroes。
+4. **中文**：在海外工作的多年经验极大地拓展了他的视野。
+   **英文**：She has broad work experience in international marketing.
+   > **解析**：experience 表示“经验/经历”。
 
-5. **中文**：科学界花了许多年的时间才认可她的重大成就。  
-   **英文**：It took many years for the scientific community to recognize her major achievement.
-   > **解析**：recognize 为及物动词，意为“认可、承认、认出”。接名词作宾语（recognize her achievement）。
+5. **中文**：那位勇敢的消防员在火灾中救人，成为了人们心中的英雄。
+   **英文**：The firefighter became a national hero after saving people.
+   > **解析**：hero 表示“英雄/主角”。
 
-6. **中文**：该国的经济状况在这十年间得到了显着改善。  
-   **英文**：The economic situation in the country improved significantly over the decade.
-   > **解析**：situation 为可数名词，意为“局势、状况、情势”。economic situation 指经济状况。
+6. **中文**：发明家们不断创造新技术来改善人们的生活。
+   **英文**：Scientists work hard to invent eco-friendly tools.
+   > **解析**：invent 表示“发明/创造”。
 
-7. **中文**：我们从未想象过我们的小初创公司会成长为跨国企业。  
-   **英文**：We'd never imagined that our small startup company would grow into a global enterprise.
-   > **解析**：we'd 是 we had 或 we would 的缩写，在此处代表 we had（We had never imagined...）。
+7. **中文**：气象专家成功预测到了本周末的暴风雪。
+   **英文**：Experts can predict weather changes using radar systems.
+   > **解析**：predict 表示“预测/预言”。
 
-8. **中文**：新建的交通公路系统于 2005 年正式向公众开放。  
-   **英文**：The new transit highway system was officially opened to the public in 2005.
-   > **解析**：2005 为年份数字，英文读作 two thousand and five 或 twenty oh five。
+8. **中文**：根据我们先前的约定，会议将在周一如期举行。
+   **英文**：We reviewed data from our previous research project.
+   > **解析**：previous 表示“先前的/之前的”。
 
-9. **中文**：该大学上个月庆祝了建校十八周年。  
-   **英文**：The university celebrated its eighteenth anniversary of foundation last month.
-   > **解析**：eighteenth 为序数词，意为“第十八的”。eighteenth anniversary 指十八周年纪念。
+9. **中文**：换了新发型后，我戴着帽子几乎没认出他。
+   **英文**：I couldn't recognize him at first in his new suit.
+   > **解析**：recognize 表示“认出/识别”。
 
-10. **中文**：当她提交参评作品时，她没想到自己会赢得一等奖。  
-   **英文**：She hadn't expected to win the first prize when she submitted her entry.
-   > **解析**：hadn't 是 had not 的缩写，在此处构成过去完成时的否定式（hadn't expected）。
+10. **中文**：在七十年代，复古流行服装曾风靡一时。
+   **英文**：Disco music was very popular back in the seventies.
+   > **解析**：seventies 表示“七十年代（1970s）”。
+
+11. **中文**：警察到达现场后很快控制住了危险的局势。
+   **英文**：The manager handled the difficult situation calmly.
+   > **解析**：situation 表示“局势/情况/局面”。
+
+12. **中文**：经过持续努力，她终于成功通过了资格考试。
+   **英文**：She managed to succeed in passing the bar exam.
+   > **解析**：succeed in 表示“在……取得成功”。
+
+13. **中文**：在晚宴的前一天，我们把所有的食材都准备好了。
+   **英文**：We prepared everything on the day before the party.
+   > **解析**：the day before 表示“前一天/头一天”。
+
+14. **中文**：在离开前，他已经完成了所有的文件签署。
+   **英文**：He had finished his work before the boss arrived.
+   > **解析**：had 构成过去完成时（had done）。
+
+15. **中文**：在我们到达时，他们还没有收到确认通知。
+   **英文**：They hadn't received the package when I called.
+   > **解析**：hadn't 即 had not。
+
+16. **中文**：他说他过去常去那家老餐馆用餐。
+   **英文**：He said he'd like to join us for dinner.
+   > **解析**：he'd 表示 he had 或 he would。
+
+17. **中文**：她说她之前已经看过了那本小说。
+   **英文**：She said she'd already finished reading the book.
+   > **解析**：she'd 表示 she had 或 she would。
+
+18. **中文**：他们说他们过去会很乐意提供协助。
+   **英文**：They said they'd help us clean up the yard.
+   > **解析**：they'd 表示 they had 或 they would。
+
+19. **中文**：我们说过我们之前已经做好了充分准备。
+   **英文**：We said we'd arrive on time for the meeting.
+   > **解析**：we'd 表示 we had 或 we would。
+
+20. **中文**：要是你去过那里，你过去也会感到无比震撼的。
+   **英文**：I knew you'd enjoy the live performance tonight.
+   > **解析**：you'd 表示 you had 或 you would。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The technological company launched its revolutionary personal computer in 1984.
-   > **中文**：这家科技公司于 1984 年推出了其革命性的个人计算机。
+1. At last, we arrived at our hotel after a long travel.
+   > **中文**：经历过多次失败后，他终于成功拿到了项目许可。
 
-2. After decades of hard work, the scientist achieved his dream research breakthrough at last.
-   > **中文**：经过几十年的艰苦努力，这位科学家终于实现了他的梦想研究突破。
+2. By the time we got to the show, it had started.
+   > **中文**：到我们到达电影院的时候，电影已经放映了半小时。
 
-3. They had completed the space station project before the target deadline arrived.
-   > **中文**：在目标截止日期到来之前，他们已经完成了空间站项目。
+3. That historical discovery occurred in the eighteenth century.
+   > **中文**：这项科技突破起源于十八世纪的欧洲。
 
-4. The brave firefighter was honored as a national hero for saving lives during the disaster.
-   > **中文**：这位勇敢的消防员因在灾难中拯救生命而被尊为国家英雄。
+4. She has broad work experience in international marketing.
+   > **中文**：在海外工作的多年经验极大地拓展了他的视野。
 
-5. It took many years for the scientific community to recognize her major achievement.
-   > **中文**：科学界花了许多年的时间才认可她的重大成就。
+5. The firefighter became a national hero after saving people.
+   > **中文**：那位勇敢的消防员在火灾中救人，成为了人们心中的英雄。
 
-6. The economic situation in the country improved significantly over the decade.
-   > **中文**：该国的经济状况在这十年间得到了显着改善。
+6. Scientists work hard to invent eco-friendly tools.
+   > **中文**：发明家们不断创造新技术来改善人们的生活。
 
-7. We'd never imagined that our small startup company would grow into a global enterprise.
-   > **中文**：我们从未想象过我们的小初创公司会成长为跨国企业。
+7. Experts can predict weather changes using radar systems.
+   > **中文**：气象专家成功预测到了本周末的暴风雪。
 
-8. The new transit highway system was officially opened to the public in 2005.
-   > **中文**：新建的交通公路系统于 2005 年正式向公众开放。
+8. We reviewed data from our previous research project.
+   > **中文**：根据我们先前的约定，会议将在周一如期举行。
 
-9. The university celebrated its eighteenth anniversary of foundation last month.
-   > **中文**：该大学上个月庆祝了建校十八周年。
+9. I couldn't recognize him at first in his new suit.
+   > **中文**：换了新发型后，我戴着帽子几乎没认出他。
 
-10. She hadn't expected to win the first prize when she submitted her entry.
-   > **中文**：当她提交参评作品时，她没想到自己会赢得一等奖。
+10. Disco music was very popular back in the seventies.
+   > **中文**：在七十年代，复古流行服装曾风靡一时。
+
+11. The manager handled the difficult situation calmly.
+   > **中文**：警察到达现场后很快控制住了危险的局势。
+
+12. She managed to succeed in passing the bar exam.
+   > **中文**：经过持续努力，她终于成功通过了资格考试。
+
+13. We prepared everything on the day before the party.
+   > **中文**：在晚宴的前一天，我们把所有的食材都准备好了。
+
+14. He had finished his work before the boss arrived.
+   > **中文**：在离开前，他已经完成了所有的文件签署。
+
+15. They hadn't received the package when I called.
+   > **中文**：在我们到达时，他们还没有收到确认通知。
+
+16. He said he'd like to join us for dinner.
+   > **中文**：他说他过去常去那家老餐馆用餐。
+
+17. She said she'd already finished reading the book.
+   > **中文**：她说她之前已经看过了那本小说。
+
+18. They said they'd help us clean up the yard.
+   > **中文**：他们说他们过去会很乐意提供协助。
+
+19. We said we'd arrive on time for the meeting.
+   > **中文**：我们说过我们之前已经做好了充分准备。
+
+20. I knew you'd enjoy the live performance tonight.
+   > **中文**：要是你去过那里，你过去也会感到无比震撼的。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| at last | 终于 / 最终 |
+| by the time | 到……的时候为止 |
+| eighteenth | 第十八 / 18世纪 |
+| experience | 经验 / 经历 |
+| hero | 英雄 / 主角 |
+| invent | 发明 |
+| predict | 预测 / 预言 |
+| previous | 先前的 / 之前的 |
+| recognize | 认出 / 识别 |
+| seventies | 七十年代 |
+| situation | 局势 / 情况 |
+| succeed in | 成功于…… |
+| the day before | 前一天 |
+| had | 已经（过去完成时） |
+| hadn't | 没有（had not） |
+| he'd | 他过去会 / 他已经 |
+| she'd | 她过去会 / 她已经 |
+| they'd | 他们过去会 / 他们已经 |
+| we'd | 我们过去会 / 我们已经 |
+| you'd | 你过去会 / 你已经 |
 
 </quiz-matching>
 
@@ -133,102 +226,202 @@
 
 ### 1
 
-The technological company launched its revolutionary personal computer in `____`.
+At last, we ____ at our hotel after a long travel.
 
-- [x] 1984
+- [x] arrived
+- [ ] 1984
 - [ ] 2005
-- [ ] eighteenth
 
-> **解析**：1984 为年份，读作 nineteen eighty-four。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-After decades of hard work, the scientist achieved his dream research breakthrough `____`.
+By the time we got to the show, it ____ started.
 
-- [x] at last
+- [x] had
+- [ ] 1984
 - [ ] 2005
-- [ ] experience
 
-> **解析**：at last 为介词短语，意为“终于、最终”，相当于 finally。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-They `____` completed the space station project before the target deadline arrived.
+That historical discovery occurred in the ____ century.
 
-- [x] had
-- [ ] 2020
-- [ ] experience
+- [x] eighteenth
+- [ ] 1984
+- [ ] 2005
 
-> **解析**：had 在此处作助动词，与过去分词 completed 构成过去完成时（had completed）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The brave firefighter was honored as a national `____` for saving lives during the disaster.
+She has broad work ____ in international marketing.
 
-- [x] hero
-- [ ] at last
-- [ ] had
+- [x] experience
+- [ ] 1984
+- [ ] 2005
 
-> **解析**：hero 为可数名词，意为“英雄”，复数形式为 heroes。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-It took many years for the scientific community to `____` her major achievement.
+The firefighter became a national ____ after saving people.
 
-- [x] recognize
-- [ ] by the time
-- [ ] hadn't
+- [x] hero
+- [ ] 1984
+- [ ] 2005
 
-> **解析**：recognize 为及物动词，意为“认可、承认、认出”。接名词作宾语（recognize her achievement）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The economic `____` in the country improved significantly over the decade.
+Scientists work hard to ____ eco-friendly tools.
 
-- [x] situation
-- [ ] eighteenth
-- [ ] he'd
+- [x] invent
+- [ ] 1984
+- [ ] 2005
 
-> **解析**：situation 为可数名词，意为“局势、状况、情势”。economic situation 指经济状况。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-`____` never imagined that our small startup company would grow into a global enterprise.
+Experts can ____ weather changes using radar systems.
 
-- [x] we'd
-- [ ] experience
-- [ ] hero
+- [x] predict
+- [ ] 1984
+- [ ] 2005
 
-> **解析**：we'd 是 we had 或 we would 的缩写，在此处代表 we had（We had never imagined...）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The new transit highway system was officially opened to the public in `____`.
+We reviewed data from our ____ research project.
 
-- [x] 2005
-- [ ] hadn't
-- [ ] predict
+- [x] previous
+- [ ] 1984
+- [ ] 2005
 
-> **解析**：2005 为年份数字，英文读作 two thousand and five 或 twenty oh five。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The university celebrated its `____` anniversary of foundation last month.
+I couldn't ____ him at first in his new suit.
 
-- [x] eighteenth
-- [ ] he'd
-- [ ] previous
+- [x] recognize
+- [ ] 1984
+- [ ] 2005
 
-> **解析**：eighteenth 为序数词，意为“第十八的”。eighteenth anniversary 指十八周年纪念。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-She `____` expected to win the first prize when she submitted her entry.
+Disco music was very popular back in the ____.
+
+- [x] seventies
+- [ ] 1984
+- [ ] 2005
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The manager handled the difficult ____ calmly.
+
+- [x] situation
+- [ ] 1984
+- [ ] 2005
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+She ____ to succeed in passing the bar exam.
+
+- [x] managed
+- [ ] 1984
+- [ ] 2005
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+We prepared ____ on the day before the party.
+
+- [x] everything
+- [ ] 1984
+- [ ] 2005
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+He ____ finished his work before the boss arrived.
+
+- [x] had
+- [ ] 1984
+- [ ] 2005
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+They ____ received the package when I called.
 
 - [x] hadn't
-- [ ] hero
-- [ ] recognize
+- [ ] 1984
+- [ ] 2005
 
-> **解析**：hadn't 是 had not 的缩写，在此处构成过去完成时的否定式（hadn't expected）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+He said ____ like to join us for dinner.
+
+- [x] he'd
+- [ ] 1984
+- [ ] 2005
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+She said ____ already finished reading the book.
+
+- [x] she'd
+- [ ] 1984
+- [ ] 2005
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+They said ____ help us clean up the yard.
+
+- [x] they'd
+- [ ] 1984
+- [ ] 2005
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+We said ____ arrive on time for the meeting.
+
+- [x] we'd
+- [ ] 1984
+- [ ] 2005
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+I knew ____ enjoy the live performance tonight.
+
+- [x] you'd
+- [ ] 1984
+- [ ] 2005
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

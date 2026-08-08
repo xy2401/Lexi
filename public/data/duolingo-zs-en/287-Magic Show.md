@@ -63,83 +63,176 @@ a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief
 
 <quiz-sentence-builder>
 
-1. **中文**：话不多说，让我们欢迎我们的魔术大师上台。  
-   **英文**：Without further ado, let us welcome our master magician to the stage.
-   > **解析**：`without further ado` 是习惯口语短语，意为“闲话少说、言归正传”，在主持中极高频。
+1. **中文**：话不多说，让我们欢迎今晚的特别嘉宾。
+   **英文**：Without further ado, let us welcome tonight's special guest.
+   > **解析**：Without further ado 舞台主持人常用语，意为“话不多说、闲话少叙”。
 
-2. **中文**：请为我们来自观众席的勇敢志愿者送上热烈的掌声。  
-   **英文**：Please give a warm round of applause to our brave volunteer from the audience.
-   > **解析**：`a round of applause` 是固定名词短语，意为“一轮掌声”，作动词 `give` 的直接宾语。
+2. **中文**：请给我们的表演者们一阵热烈的掌声！
+   **英文**：Please give a big round of applause for our performers!
+   > **解析**：round of applause 表示一阵掌声。
 
-3. **中文**：这位有才华的魔术师凭空变走了大硬币，让所有人惊叹不已。  
-   **英文**：The talented magician amazed everyone by making a large coin disappear into thin air a round of applause.
-   > **解析**：`magician` 是名词，意为“魔术师”，派生自 `magic` + `-ian`。
+3. **中文**：魔术师利用镜子和光线制造了聪明的幻象。
+   **英文**：The magician created a clever illusion using mirrors and light.
+   > **解析**：illusion 表示幻象、错觉。
 
-4. **中文**：镜子道具在舞台上制造了令人信服的光学错觉。  
-   **英文**：The mirror trick created a convincing optical illusion on stage.
-   > **解析**：`illusion` 是名词，意为“错觉、幻象”，常用搭配 `optical illusion`（光学错觉）。
+4. **中文**：他用一副扑克牌展示了一个经典的魔术戏法。
+   **英文**：He demonstrated a classic magic trick with a deck of cards.
+   > **解析**：trick 表示戏法、魔术。
 
-5. **中文**：魔术师在猜观众写的数字时是被蒙上双眼的。  
-   **英文**：The magician was blindfolded while guessing the numbers written by audience members.
-   > **解析**：`blindfolded` 是形容词/副词，意为“被蒙住眼睛的”，由 `blind` + `fold` + `-ed` 构成。
+5. **中文**：魔术师在十秒钟内成功摆脱了金属手铐。
+   **英文**：The magician managed to escape from metal handcuffs in ten seconds.
+   > **解析**：handcuffs 表示手铐。
 
-6. **中文**：当助手从箱子里消失时，观众发出了响亮的惊呼声。  
-   **英文**：The audience let out a loud gasp when the assistant vanished from the box.
-   > **解析**：`gasp` 作名词，意为“倒吸一口凉气、惊呼”，短语 `let out a gasp`（发出惊呼）。
+6. **中文**：她从空帽子里拉出了一块彩色丝绸手帕。
+   **英文**：She pulled a colorful silk handkerchief out of an empty hat.
+   > **解析**：handkerchief 表示手帕。
 
-7. **中文**：他向任何人发起挑战，看能否在十秒内解开缠在他手上的紧结。  
-   **英文**：He challenged anyone to untie the tight knots around his hands in under ten seconds.
-   > **解析**：`untie` 是动词，前缀 `un-` + `tie`，意为“解开（绳结）”。
+7. **中文**：他在木箱周围打了一个牢固的结。
+   **英文**：He tied a tight knot around the wooden box.
+   > **解析**：knot 表示结。
 
-8. **中文**：这场令人惊心动魄的表演完全达到了观众的高预期。  
-   **英文**：The thrilling show completely lived up to the high expectations of the audience about incredibly.
-   > **解析**：`live up to` 是动词短语，意为“符合、达到（预期/标准）”，接 `expectations`。
+8. **中文**：你能只用一只手解开这条绳子吗？
+   **英文**：Can you untie this rope with only one hand?
+   > **解析**：untie 表示解开结/绳子。
 
-9. **中文**：一位勇敢的志愿者从前排走上前去协助表演绳索魔术。  
-   **英文**：A brave volunteer stepped forward from the front row to assist with the rope trick.
-   > **解析**：`brave volunteer` 是形容词+名词结构，意为“勇敢的志愿者”，常用于舞台互动语境。
+9. **中文**：助手在从牌堆中挑选扑克牌前被蒙上了眼睛。
+   **英文**：The assistant was blindfolded before selecting a card from the deck.
+   > **解析**：blindfolded 表示被蒙上眼睛的。
 
-10. **中文**：戏剧性的背景音乐在高潮到来前营造出高度悬疑紧张的气氛。  
-   **英文**：The dramatic background music created a highly suspenseful atmosphere before the climax.
-   > **解析**：`suspenseful` 是形容词，由 `suspense`（悬念）+ `-ful` 构成，意为“悬念重重的、充满悬疑的”。
+10. **中文**：全场观众发出了很大的一声惊呼。
+   **英文**：The entire audience let out a loud gasp of astonishment.
+   > **解析**：gasp 表示倒吸一口气、惊呼。
+
+11. **中文**：音乐使得气氛感觉紧张且悬念迭起。
+   **英文**：The music made the atmosphere feel tense and suspenseful.
+   > **解析**：suspenseful 表示悬念迭起的、紧张的。
+
+12. **中文**：我们需要观众中有一位勇敢的志愿者走上舞台。
+   **英文**：We need a brave volunteer from the audience to step up on stage.
+   > **解析**：brave volunteer 舞台固定搭配，意为“勇敢的志愿者”。
+
+13. **中文**：让我们对这位著名的表演家表示热烈欢迎！
+   **英文**：Let's give a warm welcome to the famous entertainer!
+   > **解析**：warm welcome 表示热烈欢迎。
+
+14. **中文**：在接下来的节目中我们可以拥有您的全神贯注吗？
+   **英文**：May we have your complete attention for the next act?
+   > **解析**：May we 为极具礼貌的正式邀请句式。
+
+15. **中文**：能否请您在前排就座？
+   **英文**：Would you kindly take a seat in the front row?
+   > **解析**：Would you kindly 是非常客气的请求句式。
+
+16. **中文**：这场演出没能达到所有的宣传炒作和高期待。
+   **英文**：The show failed to live up to all the hype and high expectations.
+   > **解析**：live up to 表示达到（预期）、不辜负。
+
+17. **中文**：那是一场难以置信地让人震撼的表演！
+   **英文**：That was an incredibly mind-blowing performance!
+   > **解析**：incredibly 副词，表示难以置信地。
+
+18. **中文**：时钟在恰好十二点钟的时候敲响了午夜。
+   **英文**：The clock struck midnight at precisely twelve o'clock.
+   > **解析**：precisely 表示精确地、恰好。
+
+19. **中文**：搓一搓神灯三次来召唤神灯精灵。
+   **英文**：Rub the magic lamp three times to summon the genie.
+   > **解析**：Rub 动词，表示摩擦、搓。
+
+20. **中文**：那个扑克牌戏法太神奇了，不是吗？
+   **英文**：That card trick was totally amazing, wasn't it?
+   > **解析**：wasn't it 为反问尾句，用于寻求认可。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Without further ado, let us welcome our master magician to the stage.
-   > **中文**：话不多说，让我们欢迎我们的魔术大师上台。
+1. Without further ado, let us welcome tonight's special guest.
+   > **中文**：话不多说，让我们欢迎今晚的特别嘉宾。
 
-2. Please give a warm round of applause to our brave volunteer from the audience.
-   > **中文**：请为我们来自观众席的勇敢志愿者送上热烈的掌声。
+2. Please give a big round of applause for our performers!
+   > **中文**：请给我们的表演者们一阵热烈的掌声！
 
-3. The talented magician amazed everyone by making a large coin disappear into thin air a round of applause.
-   > **中文**：这位有才华的魔术师凭空变走了大硬币，让所有人惊叹不已。
+3. The magician created a clever illusion using mirrors and light.
+   > **中文**：魔术师利用镜子和光线制造了聪明的幻象。
 
-4. The mirror trick created a convincing optical illusion on stage.
-   > **中文**：镜子道具在舞台上制造了令人信服的光学错觉。
+4. He demonstrated a classic magic trick with a deck of cards.
+   > **中文**：他用一副扑克牌展示了一个经典的魔术戏法。
 
-5. The magician was blindfolded while guessing the numbers written by audience members.
-   > **中文**：魔术师在猜观众写的数字时是被蒙上双眼的。
+5. The magician managed to escape from metal handcuffs in ten seconds.
+   > **中文**：魔术师在十秒钟内成功摆脱了金属手铐。
 
-6. The audience let out a loud gasp when the assistant vanished from the box.
-   > **中文**：当助手从箱子里消失时，观众发出了响亮的惊呼声。
+6. She pulled a colorful silk handkerchief out of an empty hat.
+   > **中文**：她从空帽子里拉出了一块彩色丝绸手帕。
 
-7. He challenged anyone to untie the tight knots around his hands in under ten seconds.
-   > **中文**：他向任何人发起挑战，看能否在十秒内解开缠在他手上的紧结。
+7. He tied a tight knot around the wooden box.
+   > **中文**：他在木箱周围打了一个牢固的结。
 
-8. The thrilling show completely lived up to the high expectations of the audience about incredibly.
-   > **中文**：这场令人惊心动魄的表演完全达到了观众的高预期。
+8. Can you untie this rope with only one hand?
+   > **中文**：你能只用一只手解开这条绳子吗？
 
-9. A brave volunteer stepped forward from the front row to assist with the rope trick.
-   > **中文**：一位勇敢的志愿者从前排走上前去协助表演绳索魔术。
+9. The assistant was blindfolded before selecting a card from the deck.
+   > **中文**：助手在从牌堆中挑选扑克牌前被蒙上了眼睛。
 
-10. The dramatic background music created a highly suspenseful atmosphere before the climax.
-   > **中文**：戏剧性的背景音乐在高潮到来前营造出高度悬疑紧张的气氛。
+10. The entire audience let out a loud gasp of astonishment.
+   > **中文**：全场观众发出了很大的一声惊呼。
+
+11. The music made the atmosphere feel tense and suspenseful.
+   > **中文**：音乐使得气氛感觉紧张且悬念迭起。
+
+12. We need a brave volunteer from the audience to step up on stage.
+   > **中文**：我们需要观众中有一位勇敢的志愿者走上舞台。
+
+13. Let's give a warm welcome to the famous entertainer!
+   > **中文**：让我们对这位著名的表演家表示热烈欢迎！
+
+14. May we have your complete attention for the next act?
+   > **中文**：在接下来的节目中我们可以拥有您的全神贯注吗？
+
+15. Would you kindly take a seat in the front row?
+   > **中文**：能否请您在前排就座？
+
+16. The show failed to live up to all the hype and high expectations.
+   > **中文**：这场演出没能达到所有的宣传炒作和高期待。
+
+17. That was an incredibly mind-blowing performance!
+   > **中文**：那是一场难以置信地让人震撼的表演！
+
+18. The clock struck midnight at precisely twelve o'clock.
+   > **中文**：时钟在恰好十二点钟的时候敲响了午夜。
+
+19. Rub the magic lamp three times to summon the genie.
+   > **中文**：搓一搓神灯三次来召唤神灯精灵。
+
+20. That card trick was totally amazing, wasn't it?
+   > **中文**：那个扑克牌戏法太神奇了，不是吗？
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| without further ado | 话不多说 / 闲话少叙 |
+| round of applause | 一阵掌声 |
+| illusion | 幻象 / 错觉 |
+| trick | 戏法 / 魔术 |
+| handcuffs | 手铐 |
+| handkerchief | 手帕 |
+| knot | 结 |
+| untie | 解开 |
+| blindfolded | 被蒙上眼睛的 |
+| gasp | 倒吸一口气 / 惊呼 |
+| suspenseful | 悬念迭起的 / 紧张的 |
+| brave volunteer | 勇敢的志愿者 |
+| warm welcome | 热烈欢迎 |
+| may we | 我们可以……吗 |
+| would you kindly | 能否请您…… |
+| live up to | 达到 / 不辜负 |
+| incredibly | 难以置信地 |
+| precisely | 精确地 / 正是 |
+| rub | 摩擦 / 搓 |
+| wasn't it | 不是吗 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief
 
 ### 1
 
-Without further ado, let us welcome our master `____` to the stage.
+Without further ado, let us welcome ____ special guest.
 
-- [x] magician
+- [x] tonight's
 - [ ] a round of applause
-- [ ] handcuffs
+- [ ] blindfolded
 
-> **解析**：`without further ado` 是习惯口语短语，意为“闲话少说、言归正传”，在主持中极高频。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Please give a warm round of applause to our `____` from the audience.
+Please give a big round of applause for our ____!
 
-- [x] brave volunteer
+- [x] performers
+- [ ] a round of applause
 - [ ] blindfolded
-- [ ] illusion
 
-> **解析**：`a round of applause` 是固定名词短语，意为“一轮掌声”，作动词 `give` 的直接宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The talented magician amazed everyone by making a large coin disappear into thin air `____`.
+The ____ created a clever illusion using mirrors and light.
 
-- [x] a round of applause
-- [ ] gasp
-- [ ] incredibly
+- [x] magician
+- [ ] a round of applause
+- [ ] blindfolded
 
-> **解析**：`magician` 是名词，意为“魔术师”，派生自 `magic` + `-ian`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The mirror trick created a convincing optical `____` on stage.
+He demonstrated a classic magic ____ with a deck of cards.
 
-- [x] illusion
-- [ ] gasp
-- [ ] knot
+- [x] trick
+- [ ] a round of applause
+- [ ] blindfolded
 
-> **解析**：`illusion` 是名词，意为“错觉、幻象”，常用搭配 `optical illusion`（光学错觉）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The magician was `____` while guessing the numbers written by audience members.
+The ____ managed to escape from metal handcuffs in ten seconds.
 
-- [x] blindfolded
-- [ ] handkerchief
-- [ ] live up to
+- [x] magician
+- [ ] a round of applause
+- [ ] blindfolded
 
-> **解析**：`blindfolded` 是形容词/副词，意为“被蒙住眼睛的”，由 `blind` + `fold` + `-ed` 构成。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The audience let out a loud `____` when the assistant vanished from the box.
+She pulled a colorful silk ____ out of an empty hat.
 
-- [x] gasp
-- [ ] illusion
-- [ ] magic show
+- [x] handkerchief
+- [ ] a round of applause
+- [ ] blindfolded
 
-> **解析**：`gasp` 作名词，意为“倒吸一口凉气、惊呼”，短语 `let out a gasp`（发出惊呼）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-He challenged anyone to untie the tight `____`s around his hands in under ten seconds.
+He tied a tight ____ around the wooden box.
 
 - [x] knot
-- [ ] illusion
-- [ ] magician
+- [ ] a round of applause
+- [ ] blindfolded
 
-> **解析**：`untie` 是动词，前缀 `un-` + `tie`，意为“解开（绳结）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The thrilling show completely lived up to the high expectations of the audience about `____`.
+Can you ____ this rope with only one hand?
 
-- [x] incredibly
-- [ ] knot
-- [ ] make
+- [x] untie
+- [ ] a round of applause
+- [ ] blindfolded
 
-> **解析**：`live up to` 是动词短语，意为“符合、达到（预期/标准）”，接 `expectations`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-A brave volunteer stepped forward from the front row to assist with the rope `____`.
+The assistant was ____ before selecting a card from the deck.
 
-- [x] trick
-- [ ] knot
-- [ ] make
+- [x] blindfolded
+- [ ] a round of applause
+- [ ] brave volunteer
 
-> **解析**：`brave volunteer` 是形容词+名词结构，意为“勇敢的志愿者”，常用于舞台互动语境。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The dramatic background music created a highly `____` atmosphere before the climax.
+The entire audience let out a loud ____ of astonishment.
+
+- [x] gasp
+- [ ] a round of applause
+- [ ] blindfolded
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The music made the atmosphere feel tense and ____.
 
 - [x] suspenseful
-- [ ] live up to
-- [ ] may we
+- [ ] a round of applause
+- [ ] blindfolded
 
-> **解析**：`suspenseful` 是形容词，由 `suspense`（悬念）+ `-ful` 构成，意为“悬念重重的、充满悬疑的”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+We need a brave ____ from the audience to step up on stage.
+
+- [x] volunteer
+- [ ] a round of applause
+- [ ] blindfolded
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Let's give a warm welcome to the famous ____!
+
+- [x] entertainer
+- [ ] a round of applause
+- [ ] blindfolded
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+May we have your complete ____ for the next act?
+
+- [x] attention
+- [ ] a round of applause
+- [ ] blindfolded
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Would you ____ take a seat in the front row?
+
+- [x] kindly
+- [ ] a round of applause
+- [ ] blindfolded
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The show failed to live up to all the hype and high ____.
+
+- [x] expectations
+- [ ] a round of applause
+- [ ] blindfolded
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+That was an ____ mind-blowing performance!
+
+- [x] incredibly
+- [ ] a round of applause
+- [ ] blindfolded
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+The clock struck midnight at ____ twelve o'clock.
+
+- [x] precisely
+- [ ] a round of applause
+- [ ] blindfolded
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+____ the magic lamp three times to summon the genie.
+
+- [x] Rub
+- [ ] a round of applause
+- [ ] blindfolded
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+That card ____ was totally amazing, wasn't it?
+
+- [x] trick
+- [ ] a round of applause
+- [ ] blindfolded
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

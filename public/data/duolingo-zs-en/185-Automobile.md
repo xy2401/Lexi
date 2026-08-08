@@ -53,83 +53,176 @@ have been / have not been / haven't been / has / been 构成现在完成时，�
 
 <quiz-sentence-builder>
 
-1. **中文**：我们需要在下一个加油站停靠加满油箱。  
-   **英文**：We need to stop at the next gas station to fill up the tank.
-   > **解析**：gas station 名词短语，意为“加油站”（美式英语），英式英语多用 petrol station。
+1. **中文**：孩子们坐在轿车的后排座位上系好了安全带。
+   **英文**：The children sat quietly in the back seat during drive.
+   > **解析**：back seat 表示“后排座位”。
 
-2. **中文**：司机注意到轮胎爆胎了，便把车停在了路边。  
-   **英文**：The driver noticed a flat tire and pulled over to the side of the road.
-   > **解析**：flat tire 名词短语，意为“漏气的轮胎；爆胎”，flat 意为“瘪的”。
+2. **中文**：看到前方红灯，司机立刻踩下了刹车。
+   **英文**：He hit the brake quickly to avoid the obstacle.
+   > **解析**：brake 表示“刹车/制动器”。
 
-3. **中文**：请把你所有的沉重行李放进汽车后备箱。  
-   **英文**：Please put all your heavy luggage into the trunk of the car.
-   > **解析**：trunk 可数名词，在此意为“汽车后备箱”（美式），英式为 boot。
+3. **中文**：长途自驾游后，他把车开去洗车店做全面洗车。
+   **英文**：We took our dusty vehicle to the car wash.
+   > **解析**：car wash 表示“洗车/洗车店”。
 
-4. **中文**：接近红灯时，请轻踩煞车踏板。  
-   **英文**：Press the brake pedal gently when you approach the red traffic light.
-   > **解析**：brake 可作名词或动词，在此作名词意为“刹车；制动器”。
+4. **中文**：不幸的是，我们的车在半路上遇到了爆胎。
+   **英文**：We had a flat tire while driving on the highway.
+   > **解析**：flat tire 表示“爆胎/扁平轮胎”。
 
-5. **中文**：他用雨刷清理前挡风玻璃上的雨水。  
-   **英文**：He used the wipers to clear the rain off the front windshield.
-   > **解析**：windshield 可数名词，意为“（汽车的前）挡风玻璃”（美式），英式为 windscreen。
+5. **中文**：乘客坐在前排座位上帮驾驶员查看导航。
+   **英文**：She prefers to sit in the front seat next to driver.
+   > **解析**：front seat 表示“前排座位”。
 
-6. **中文**：在左转之前，记得使用你的转向灯。  
-   **英文**：Remember to use your turn signal before making a left turn.
-   > **解析**：turn signal 名词短语，意为“转向灯；指示灯”（美式），英式常用 indicator。
+6. **中文**：车子快没油了，我们需要找一家加油站。
+   **英文**：We stopped at a gas station to fill up the tank.
+   > **解析**：gas station 表示“加油站”。
 
-7. **中文**：穿过黑暗隧道时，你应该打开车前大灯。  
-   **英文**：You should turn on your headlights when driving through the dark tunnel.
-   > **解析**：headlight 可数名词，常用复数 headlights，意为“（汽车）前大灯”。
+7. **中文**：夜间在乡村小路上驾驶时请打开车前灯。
+   **英文**：Turn on your headlight when driving in the dark.
+   > **解析**：headlight 表示“车前灯/大灯”。
 
-8. **中文**：我们在机场服务柜台领取了租来的汽车。  
-   **英文**：We picked up our rental car at the airport service counter.
-   > **解析**：rental car 名词短语，意为“租赁汽车；出租车”，rental 作定语修饰 car。
+8. **中文**：每年购买汽车保险能为车主提供风险保障。
+   **英文**：You must show proof of car insurance to rent.
+   > **解析**：insurance 表示“保险”。
 
-9. **中文**：机修工建议每五千英里做一次定期机油更换。  
-   **英文**：The mechanic recommended a regular oil change every five thousand miles.
-   > **解析**：oil change 名词短语，意为“更换机油”，oil 意为机油，change 表示更换。
+9. **中文**：汽车每行驶五千公里建议做一次更换机油保养。
+   **英文**：It is time for an oil change and general service.
+   > **解析**：oil change 表示“更换机油”。
 
-10. **中文**：在长途公路旅行后，我们把脏车开到了洗车场。  
-   **英文**：After the long road trip, we took our dirty vehicle to the car wash.
-   > **解析**：car wash 组合名词，意为“洗车场；洗车服务”。
+10. **中文**：在异地度假期间，我们在机场租了一辆租来的汽车。
+   **英文**：We picked up our rental car at the airport terminal.
+   > **解析**：rental car 表示“租来的汽车/租赁车”。
+
+11. **中文**：技师花了两个小时来维修好受损的发动机。
+   **英文**：The mechanic will repair the damaged engine today.
+   > **解析**：repair 表示“维修/修理”。
+
+12. **中文**：请摇下车窗，让清凉的清风吹进车里。
+   **英文**：He decided to roll down the window for fresh air.
+   > **解析**：roll down 表示“摇下（车窗）”。
+
+13. **中文**：开始下雨了，请把车窗摇上。
+   **英文**：Please roll up your window before it rains hard.
+   > **解析**：roll up 表示“摇上（车窗）”。
+
+14. **中文**：行人应当沿着安全的人行道行走。
+   **英文**：Walk on the sidewalk instead of in the middle street.
+   > **解析**：sidewalk 表示“人行道”。
+
+15. **中文**：把汽车的油箱加满需要大约五十美元。
+   **英文**：The gas tank is completely full now.
+   > **解析**：tank 表示“油箱/水槽”。
+
+16. **中文**：请把我们大号的旅行行李箱放进汽车后备箱。
+   **英文**：Put your luggage inside the car trunk please.
+   > **解析**：trunk 表示“（汽车）后备箱”。
+
+17. **中文**：转弯前别忘了打转向灯提醒后车。
+   **英文**：Use your turn signal before changing lanes on road.
+   > **解析**：turn signal 表示“转向灯”。
+
+18. **中文**：下大雨时雨刷器在挡风玻璃上不停扫动。
+   **英文**：The heavy rain splashed against the car windshield.
+   > **解析**：windshield 表示“挡风玻璃”。
+
+19. **中文**：他最近还没有去过那家新建的自动化洗车店。
+   **英文**：I haven't been to that auto repair shop before.
+   > **解析**：haven't been 表示“还没去过/还没到过”。
+
+20. **中文**：我和家人去过加州多次自驾游。
+   **英文**：They have been to the coast several times this year.
+   > **解析**：have been 表示“去过/到过”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We need to stop at the next gas station to fill up the tank.
-   > **中文**：我们需要在下一个加油站停靠加满油箱。
+1. The children sat quietly in the back seat during drive.
+   > **中文**：孩子们坐在轿车的后排座位上系好了安全带。
 
-2. The driver noticed a flat tire and pulled over to the side of the road.
-   > **中文**：司机注意到轮胎爆胎了，便把车停在了路边。
+2. He hit the brake quickly to avoid the obstacle.
+   > **中文**：看到前方红灯，司机立刻踩下了刹车。
 
-3. Please put all your heavy luggage into the trunk of the car.
-   > **中文**：请把你所有的沉重行李放进汽车后备箱。
+3. We took our dusty vehicle to the car wash.
+   > **中文**：长途自驾游后，他把车开去洗车店做全面洗车。
 
-4. Press the brake pedal gently when you approach the red traffic light.
-   > **中文**：接近红灯时，请轻踩煞车踏板。
+4. We had a flat tire while driving on the highway.
+   > **中文**：不幸的是，我们的车在半路上遇到了爆胎。
 
-5. He used the wipers to clear the rain off the front windshield.
-   > **中文**：他用雨刷清理前挡风玻璃上的雨水。
+5. She prefers to sit in the front seat next to driver.
+   > **中文**：乘客坐在前排座位上帮驾驶员查看导航。
 
-6. Remember to use your turn signal before making a left turn.
-   > **中文**：在左转之前，记得使用你的转向灯。
+6. We stopped at a gas station to fill up the tank.
+   > **中文**：车子快没油了，我们需要找一家加油站。
 
-7. You should turn on your headlights when driving through the dark tunnel.
-   > **中文**：穿过黑暗隧道时，你应该打开车前大灯。
+7. Turn on your headlight when driving in the dark.
+   > **中文**：夜间在乡村小路上驾驶时请打开车前灯。
 
-8. We picked up our rental car at the airport service counter.
-   > **中文**：我们在机场服务柜台领取了租来的汽车。
+8. You must show proof of car insurance to rent.
+   > **中文**：每年购买汽车保险能为车主提供风险保障。
 
-9. The mechanic recommended a regular oil change every five thousand miles.
-   > **中文**：机修工建议每五千英里做一次定期机油更换。
+9. It is time for an oil change and general service.
+   > **中文**：汽车每行驶五千公里建议做一次更换机油保养。
 
-10. After the long road trip, we took our dirty vehicle to the car wash.
-   > **中文**：在长途公路旅行后，我们把脏车开到了洗车场。
+10. We picked up our rental car at the airport terminal.
+   > **中文**：在异地度假期间，我们在机场租了一辆租来的汽车。
+
+11. The mechanic will repair the damaged engine today.
+   > **中文**：技师花了两个小时来维修好受损的发动机。
+
+12. He decided to roll down the window for fresh air.
+   > **中文**：请摇下车窗，让清凉的清风吹进车里。
+
+13. Please roll up your window before it rains hard.
+   > **中文**：开始下雨了，请把车窗摇上。
+
+14. Walk on the sidewalk instead of in the middle street.
+   > **中文**：行人应当沿着安全的人行道行走。
+
+15. The gas tank is completely full now.
+   > **中文**：把汽车的油箱加满需要大约五十美元。
+
+16. Put your luggage inside the car trunk please.
+   > **中文**：请把我们大号的旅行行李箱放进汽车后备箱。
+
+17. Use your turn signal before changing lanes on road.
+   > **中文**：转弯前别忘了打转向灯提醒后车。
+
+18. The heavy rain splashed against the car windshield.
+   > **中文**：下大雨时雨刷器在挡风玻璃上不停扫动。
+
+19. I haven't been to that auto repair shop before.
+   > **中文**：他最近还没有去过那家新建的自动化洗车店。
+
+20. They have been to the coast several times this year.
+   > **中文**：我和家人去过加州多次自驾游。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| back seat | 后排座位 |
+| brake | 刹车 |
+| car wash | 洗车 |
+| flat tire | 爆胎 |
+| front seat | 前排座位 |
+| gas station | 加油站 |
+| headlight | 车前灯 |
+| insurance | 保险 |
+| oil change | 更换机油 |
+| rental car | 租来的汽车 |
+| repair | 维修 |
+| roll down | 摇下车窗 |
+| roll up | 摇上车窗 |
+| sidewalk | 人行道 |
+| tank | 油箱 |
+| trunk | 后备箱 |
+| turn signal | 转向灯 |
+| windshield | 挡风玻璃 |
+| haven't been | 还没有去过 |
+| have been | 去过 / 已经去 |
 
 </quiz-matching>
 
@@ -137,102 +230,202 @@ have been / have not been / haven't been / has / been 构成现在完成时，�
 
 ### 1
 
-We need to stop at the next `____` to fill up the tank.
+The ____ sat quietly in the back seat during drive.
 
-- [x] gas station
+- [x] children
 - [ ] back seat
-- [ ] flat tire
+- [ ] been
 
-> **解析**：gas station 名词短语，意为“加油站”（美式英语），英式英语多用 petrol station。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The driver noticed a `____` and pulled over to the side of the road.
+He hit the ____ quickly to avoid the obstacle.
 
-- [x] flat tire
+- [x] brake
+- [ ] back seat
 - [ ] been
-- [ ] gas station
 
-> **解析**：flat tire 名词短语，意为“漏气的轮胎；爆胎”，flat 意为“瘪的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Please put all your heavy luggage into the `____` of the car.
+We took our dusty ____ to the car wash.
 
-- [x] trunk
-- [ ] brake
-- [ ] gas station
+- [x] vehicle
+- [ ] back seat
+- [ ] been
 
-> **解析**：trunk 可数名词，在此意为“汽车后备箱”（美式），英式为 boot。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Press the `____` pedal gently when you approach the red traffic light.
+We had a flat tire while ____ on the highway.
 
-- [x] brake
-- [ ] flat tire
-- [ ] have been
+- [x] driving
+- [ ] back seat
+- [ ] been
 
-> **解析**：brake 可作名词或动词，在此作名词意为“刹车；制动器”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-He used the wipers to clear the rain off the front `____`.
+She ____ to sit in the front seat next to driver.
 
-- [x] windshield
-- [ ] flat tire
-- [ ] have been
+- [x] prefers
+- [ ] back seat
+- [ ] been
 
-> **解析**：windshield 可数名词，意为“（汽车的前）挡风玻璃”（美式），英式为 windscreen。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Remember to use your `____` before making a left turn.
+We stopped at a gas station to fill up the ____.
 
-- [x] turn signal
-- [ ] front seat
-- [ ] have not been
+- [x] tank
+- [ ] back seat
+- [ ] been
 
-> **解析**：turn signal 名词短语，意为“转向灯；指示灯”（美式），英式常用 indicator。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-You should turn on your `____`s when driving through the dark tunnel.
+Turn on your ____ when driving in the dark.
 
 - [x] headlight
-- [ ] gas station
-- [ ] haven't been
+- [ ] back seat
+- [ ] been
 
-> **解析**：headlight 可数名词，常用复数 headlights，意为“（汽车）前大灯”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-We picked up our `____` at the airport service counter.
+You must show proof of car ____ to rent.
 
-- [x] rental car
-- [ ] has
-- [ ] headlight
+- [x] insurance
+- [ ] back seat
+- [ ] been
 
-> **解析**：rental car 名词短语，意为“租赁汽车；出租车”，rental 作定语修饰 car。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The mechanic recommended a regular `____` every five thousand miles.
+It is time for an oil change and ____ service.
 
-- [x] oil change
-- [ ] have been
-- [ ] insurance
+- [x] general
+- [ ] back seat
+- [ ] been
 
-> **解析**：oil change 名词短语，意为“更换机油”，oil 意为机油，change 表示更换。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-After the long road trip, we took our dirty vehicle to the `____`.
+We picked up our rental car at the airport ____.
 
-- [x] car wash
-- [ ] haven't been
-- [ ] rental car
+- [x] terminal
+- [ ] back seat
+- [ ] been
 
-> **解析**：car wash 组合名词，意为“洗车场；洗车服务”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The mechanic will ____ the damaged engine today.
+
+- [x] repair
+- [ ] back seat
+- [ ] been
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+He ____ to roll down the window for fresh air.
+
+- [x] decided
+- [ ] back seat
+- [ ] been
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+____ roll up your window before it rains hard.
+
+- [x] Please
+- [ ] back seat
+- [ ] been
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Walk on the ____ instead of in the middle street.
+
+- [x] sidewalk
+- [ ] back seat
+- [ ] been
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The gas ____ is completely full now.
+
+- [x] tank
+- [ ] back seat
+- [ ] been
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Put your luggage inside the car ____ please.
+
+- [x] trunk
+- [ ] back seat
+- [ ] been
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Use your turn signal before ____ lanes on road.
+
+- [x] changing
+- [ ] back seat
+- [ ] been
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+The heavy rain splashed against the car ____.
+
+- [x] windshield
+- [ ] back seat
+- [ ] been
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+I haven't ____ to that auto repair shop before.
+
+- [x] been
+- [ ] back seat
+- [ ] brake
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+They have ____ to the coast several times this year.
+
+- [x] been
+- [ ] back seat
+- [ ] brake
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

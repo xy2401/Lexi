@@ -68,10 +68,11 @@ interface SentenceTile {
 }
 
 const sentenceQuiz = computed(() => props.quiz as SentenceBuilderQuiz)
+const activeSentenceItems = ref<SentenceBuilderItem[]>([])
 const sentenceIndex = ref(0)
 const sentenceAnswered = ref(0)
 const sentenceLocked = ref(false)
-const currentSentence = computed(() => sentenceQuiz.value.items[sentenceIndex.value])
+const currentSentence = computed(() => activeSentenceItems.value[sentenceIndex.value])
 const answerTokens = computed(() => currentSentence.value?.english.match(/[A-Za-z][A-Za-z'-]*(?:[.,!?;:])?/g) || [])
 const sentenceTiles = ref<SentenceTile[]>([])
 const selectedTiles = ref<SentenceTile[]>([])
@@ -83,6 +84,8 @@ let suppressSentenceTileClick = false
 
 function initSentenceBuilder() {
   if (props.quiz.type !== 'sentence-builder') return
+  const raw = sentenceQuiz.value?.items || []
+  activeSentenceItems.value = raw.length > 10 ? shuffle([...raw]).slice(0, 10) : raw
   sentenceIndex.value = 0
   sentenceAnswered.value = 0
   sentenceLocked.value = false
@@ -206,7 +209,7 @@ function checkSentence() {
       if (advanced) return
       advanced = true
       sentenceIndex.value++
-      if (sentenceIndex.value >= sentenceQuiz.value.items.length) {
+      if (sentenceIndex.value >= activeSentenceItems.value.length) {
         completeQuiz()
         return
       }
@@ -226,6 +229,7 @@ function checkSentence() {
 
 // Listening
 const listeningQuiz = computed(() => props.quiz as ListeningQuiz)
+const activeListeningItems = ref<ListeningItem[]>([])
 const listeningQueue = ref<number[]>([])
 const listeningIndex = ref(0)
 const listeningAnswered = ref(0)
@@ -236,7 +240,7 @@ const listeningInputRefs = ref<HTMLInputElement[]>([])
 
 const currentListeningItem = computed(() => {
   const itemIndex = listeningQueue.value[listeningIndex.value]
-  return listeningQuiz.value.items[itemIndex]
+  return activeListeningItems.value[itemIndex]
 })
 
 function normalizeListeningWord(value: string) {
@@ -250,123 +254,178 @@ function listeningWords(): ListeningWordSegment[] {
   return listeningSegments.value.filter((segment): segment is ListeningWordSegment => segment.kind === 'word')
 }
 
+function setListeningInputRef(element: Element | null, index: number) {
+  if (element instanceof HTMLInputElement) {
+    listeningInputRefs.value[index] = element
+  }
+}
+
+function focusListeningInput(index: number) {
+  nextTick(() => {
+    listeningInputRefs.value[index]?.focus()
+  })
+}
+
 function prepareListeningItem() {
-  listeningSegments.value = currentListeningItem.value
-    ? createListeningSegments(currentListeningItem.value.english)
-    : []
-  listeningInputRefs.value = []
-  listeningAnswer.value = ''
+  listeningAnswered.value = listeningIndex.value
   listeningLocked.value = false
   feedback.value = null
+
+  const target = currentListeningItem.value
+  if (!target) return
+  listeningAnswer.value = target.english
+  listeningInputRefs.value = []
+
+  const tokens = target.english.match(/[A-Za-z][A-Za-z'-]*|[^A-Za-z\s]+/g) || []
+  let wordIndex = 0
+
+  listeningSegments.value = tokens.map(token => {
+    if (/[A-Za-z][A-Za-z'-]*/.test(token)) {
+      const segment: ListeningWordSegment = {
+        kind: 'word',
+        wordIndex,
+        answer: token,
+        value: '',
+        status: 'idle',
+      }
+      wordIndex++
+      return segment
+    }
+    return {
+      kind: 'separator',
+      text: token,
+    }
+  })
+
+  focusListeningInput(0)
 }
 
-function setListeningInputRef(element: Element | null, wordIndex: number) {
-  if (element instanceof HTMLInputElement) listeningInputRefs.value[wordIndex] = element
-}
-
-function focusListeningWord(wordIndex: number) {
-  nextTick(() => listeningInputRefs.value[wordIndex]?.focus())
+function replayListening() {
+  if (currentListeningItem.value) {
+    speak(currentListeningItem.value.english)
+  }
 }
 
 function handleListeningInput(segment: ListeningWordSegment) {
-  segment.status = 'idle'
+  if (listeningLocked.value) return
+  segment.value = segment.value.slice(0, segment.answer.length)
+  if (segment.status === 'wrong') {
+    segment.status = 'idle'
+  }
+
   if (segment.value.length >= segment.answer.length) {
-    focusListeningWord(segment.wordIndex + 1)
+    const words = listeningWords()
+    if (segment.wordIndex < words.length - 1) {
+      focusListeningInput(segment.wordIndex + 1)
+    }
   }
 }
 
 function handleListeningKeydown(event: KeyboardEvent, segment: ListeningWordSegment) {
+  if (listeningLocked.value) return
+  if (event.key === 'Backspace' && !segment.value && segment.wordIndex > 0) {
+    event.preventDefault()
+    focusListeningInput(segment.wordIndex - 1)
+  }
   if (event.key === 'Enter') {
     event.preventDefault()
     submitListening()
-    return
-  }
-  if (event.key === ' ' || (event.key === 'Tab' && !event.shiftKey)) {
-    event.preventDefault()
-    focusListeningWord(segment.wordIndex + 1)
-    return
-  }
-  if (event.key === 'Backspace' && !segment.value && segment.wordIndex > 0) {
-    event.preventDefault()
-    focusListeningWord(segment.wordIndex - 1)
   }
 }
 
 function handleListeningPaste(event: ClipboardEvent) {
-  const pastedWords = (event.clipboardData?.getData('text') || '').match(/[A-Za-z][A-Za-z'-]*/g)
-  if (!pastedWords?.length) return
-  event.preventDefault()
+  if (listeningLocked.value) return
+  const text = event.clipboardData?.getData('text') || ''
+  if (!text) return
   const words = listeningWords()
-  pastedWords.slice(0, words.length).forEach((value, index) => {
-    words[index].value = value
-    words[index].status = 'idle'
-  })
-  focusListeningWord(Math.min(pastedWords.length, words.length - 1))
-}
+  const pastedTokens = text.match(/[A-Za-z][A-Za-z'-]*/g) || []
+  if (!pastedTokens.length) return
 
-function replayListening() {
-  if (currentListeningItem.value) speak(currentListeningItem.value.english)
+  event.preventDefault()
+  words.forEach((segment, index) => {
+    segment.value = (pastedTokens[index] || '').slice(0, segment.answer.length)
+  })
+  const nextIndex = Math.min(pastedTokens.length, words.length - 1)
+  focusListeningInput(nextIndex)
 }
 
 function submitListening() {
-  if (!currentListeningItem.value || listeningLocked.value) return
+  if (finished.value || listeningLocked.value || !currentListeningItem.value) return
   const words = listeningWords()
-  const firstEmpty = words.find(segment => !segment.value.trim())
-  if (firstEmpty) {
-    focusListeningWord(firstEmpty.wordIndex)
-    return
-  }
-  const results = words.map(segment => {
-    const wordCorrect = normalizeListeningWord(segment.value) === normalizeListeningWord(segment.answer)
-    segment.status = wordCorrect ? 'correct' : 'wrong'
-    return wordCorrect
-  })
-  const correct = results.every(Boolean)
-  listeningLocked.value = true
-  listeningAnswer.value = currentListeningItem.value.english
-  feedback.value = correct ? 'correct' : 'wrong'
-  if (correct) listeningAnswered.value++
-  else listeningQueue.value.push(listeningQueue.value[listeningIndex.value])
+  let allCorrect = true
 
-  window.setTimeout(() => {
-    listeningIndex.value++
-    if (listeningIndex.value >= listeningQueue.value.length) {
-      completeQuiz()
-      return
+  words.forEach(segment => {
+    const isMatch = normalizeListeningWord(segment.value) === normalizeListeningWord(segment.answer)
+    segment.status = isMatch ? 'correct' : 'wrong'
+    if (!isMatch) allCorrect = false
+  })
+
+  if (allCorrect) {
+    listeningLocked.value = true
+    listeningAnswered.value++
+    feedback.value = 'correct'
+
+    let advanced = false
+    const advanceNext = () => {
+      if (advanced) return
+      advanced = true
+      listeningIndex.value++
+      if (listeningIndex.value >= listeningQueue.value.length) {
+        completeQuiz()
+        return
+      }
+      prepareListeningItem()
+      replayListening()
     }
-    prepareListeningItem()
-    nextTick(replayListening)
-  }, correct ? CORRECT_ADVANCE_MS : WRONG_ADVANCE_MS)
+
+    speak(currentListeningItem.value.english, undefined, () => {
+      window.setTimeout(advanceNext, 350)
+    })
+    window.setTimeout(advanceNext, 5000)
+  } else {
+    speak(currentListeningItem.value.english)
+    feedback.value = 'wrong'
+  }
 }
 
 // Matching
-type MatchingMode = 'text-chinese' | 'audio-chinese' | 'audio-english'
 const matchingQuiz = computed(() => props.quiz as MatchingQuiz)
 const matchingMode = ref<MatchingMode>('text-chinese')
-const matchingPairs = ref<Array<MatchingPair & { id: number }>>([])
-const matchingRight = ref<Array<{ id: number; text: string }>>([])
 const selectedLeft = ref<number | null>(null)
 const selectedRight = ref<number | null>(null)
 const matchedIds = ref<number[]>([])
-const wrongPair = ref(false)
+const wrongPair = ref<boolean>(false)
+const matchingRight = ref<{ id: number; text: string }[]>([])
 
-function firstTranslation(entry: WordEntry): string {
-  return (entry.translation || '')
-    .split(/\\n|\n/)[0]
-    .replace(/^[a-z]+\.\s*/i, '')
-    .trim()
-    .slice(0, 12)
-}
+const matchingPairs = computed<Array<MatchingPair & { id: number }>>(() => {
+  if (matchingQuiz.value.source === 'explicit' && matchingQuiz.value.pairs?.length) {
+    return matchingQuiz.value.pairs.map((pair, index) => ({ ...pair, id: index + 1 }))
+  }
+
+  const result: Array<MatchingPair & { id: number }> = []
+  let idCounter = 1
+  for (const word of props.words) {
+    const entry = props.entries[word.toLowerCase()]
+    const chinese = entry?.definition || ''
+    if (chinese) {
+      result.push({ id: idCounter++, english: word, chinese })
+    }
+  }
+  return result
+})
+
+const matchingModeLabel = computed(() => {
+  if (matchingMode.value === 'text-chinese') return '英文 ➔ 中文'
+  if (matchingMode.value === 'audio-chinese') return '发音 ➔ 中文'
+  return '发音 ➔ 英文'
+})
 
 function initMatching() {
   if (props.quiz.type !== 'matching') return
-  const sourcePairs = matchingQuiz.value.source === 'explicit'
-    ? matchingQuiz.value.pairs
-    : props.entries
-      .map(entry => ({ english: entry.word, chinese: firstTranslation(entry) }))
-      .filter(pair => pair.chinese)
-      .slice(0, 10)
-  matchingPairs.value = sourcePairs.map((pair, id) => ({ ...pair, id }))
+  matchedIds.value = []
+  selectedLeft.value = null
+  selectedRight.value = null
+  wrongPair.value = false
   matchingMode.value = shuffle<MatchingMode>(['text-chinese', 'audio-chinese', 'audio-english'])[0]
   matchingRight.value = shuffle(matchingPairs.value.map(pair => ({
     id: pair.id,
@@ -410,21 +469,19 @@ function checkMatchingPair() {
   }
 }
 
-const matchingModeLabel = computed(() => ({
-  'text-chinese': '英文 ↔ 中文',
-  'audio-chinese': '发音 ↔ 中文',
-  'audio-english': '发音 ↔ 英文',
-})[matchingMode.value])
-
 // Cloze
 const clozeQuiz = computed(() => props.quiz as ClozeQuiz)
+const activeClozeItems = ref<ClozeItem[]>([])
 const clozeIndex = ref(0)
 const clozeAnswered = ref(0)
 const clozeLocked = ref(false)
-const currentCloze = computed(() => clozeQuiz.value.items[clozeIndex.value])
+const currentCloze = computed(() => activeClozeItems.value[clozeIndex.value])
 const selectedCloze = ref<string | null>(null)
 
 function initCloze() {
+  if (props.quiz.type !== 'cloze') return
+  const raw = clozeQuiz.value?.items || []
+  activeClozeItems.value = raw.length > 10 ? shuffle([...raw]).slice(0, 10) : raw
   clozeIndex.value = 0
   clozeAnswered.value = 0
   prepareClozeItem()
@@ -450,7 +507,7 @@ function chooseCloze(text: string, correct: boolean) {
       if (advanced) return
       advanced = true
       clozeIndex.value++
-      if (clozeIndex.value >= clozeQuiz.value.items.length) {
+      if (clozeIndex.value >= activeClozeItems.value.length) {
         completeQuiz()
         return
       }
@@ -474,7 +531,9 @@ const clozeAnswer = computed(() => currentCloze.value?.options.find(option => op
 
 if (props.quiz.type === 'sentence-builder') initSentenceBuilder()
 if (props.quiz.type === 'listening') {
-  listeningQueue.value = props.quiz.items.map((_, index) => index)
+  const raw = listeningQuiz.value?.items || []
+  activeListeningItems.value = raw.length > 10 ? shuffle([...raw]).slice(0, 10) : raw
+  listeningQueue.value = activeListeningItems.value.map((_, index) => index)
   prepareListeningItem()
   nextTick(replayListening)
 }
@@ -504,9 +563,9 @@ if (props.quiz.type === 'cloze') initCloze()
 
     <div v-else-if="quiz.type === 'sentence-builder'" class="game-stack">
       <div class="mini-progress">
-        <div :style="{ width: `${sentenceAnswered / sentenceQuiz.items.length * 100}%` }"></div>
+        <div :style="{ width: `${sentenceAnswered / activeSentenceItems.length * 100}%` }"></div>
       </div>
-      <div class="progress-copy">{{ Math.min(sentenceAnswered + 1, sentenceQuiz.items.length) }} / {{ sentenceQuiz.items.length }}</div>
+      <div class="progress-copy">{{ Math.min(sentenceAnswered + 1, activeSentenceItems.length) }} / {{ activeSentenceItems.length }}</div>
       <div class="question-translation">{{ currentSentence?.chinese }}</div>
       <div class="sentence-slot" :class="feedback">
         <button
@@ -546,9 +605,9 @@ if (props.quiz.type === 'cloze') initCloze()
 
     <div v-else-if="quiz.type === 'listening'" class="game-stack">
       <div class="mini-progress">
-        <div :style="{ width: `${listeningAnswered / listeningQuiz.items.length * 100}%` }"></div>
+        <div :style="{ width: `${listeningAnswered / activeListeningItems.length * 100}%` }"></div>
       </div>
-      <div class="progress-copy">{{ Math.min(listeningAnswered + 1, listeningQuiz.items.length) }} / {{ listeningQuiz.items.length }}</div>
+      <div class="progress-copy">{{ Math.min(listeningAnswered + 1, activeListeningItems.length) }} / {{ activeListeningItems.length }}</div>
       <button class="sound-prompt" @click="replayListening">🔊 播放句子</button>
       <div class="listening-blanks" @paste="handleListeningPaste">
         <template v-for="(segment, index) in listeningSegments" :key="index">
@@ -610,9 +669,9 @@ if (props.quiz.type === 'cloze') initCloze()
 
     <div v-else-if="quiz.type === 'cloze'" class="game-stack">
       <div class="mini-progress">
-        <div :style="{ width: `${clozeAnswered / clozeQuiz.items.length * 100}%` }"></div>
+        <div :style="{ width: `${clozeAnswered / activeClozeItems.length * 100}%` }"></div>
       </div>
-      <div class="progress-copy">{{ Math.min(clozeAnswered + 1, clozeQuiz.items.length) }} / {{ clozeQuiz.items.length }}</div>
+      <div class="progress-copy">{{ Math.min(clozeAnswered + 1, activeClozeItems.length) }} / {{ activeClozeItems.length }}</div>
       <div class="cloze-prompt">
         {{ currentCloze?.prompt.replace('____', feedback === 'correct' ? clozeAnswer : '______') }}
       </div>

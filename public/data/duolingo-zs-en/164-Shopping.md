@@ -61,83 +61,176 @@ worth = 值得。can / can't 表能力/可能。
 
 <quiz-sentence-builder>
 
-1. **中文**：在换季大促期间，她在衣服上花了大笔资金。  
-   **英文**：She spent a considerable amount of money on clothing during the seasonal sale.
-   > **解析**：amount 为名词，意为“数量、金额”。常用搭配 a considerable amount of + 不可数名词（money）。
+1. **中文**：发票上显示的总金额超出了我们的预期。
+   **英文**：The total amount on the invoice was higher than we expected.
+   > **解析**：amount 表示“数量/金额”；invoice 意为“发票/账单”。
 
-2. **中文**：我无法决定这两件夹克中哪一件我穿起来更好看。  
-   **英文**：I can't decide which of these two jackets looks better on me.
-   > **解析**：can't 为情态动词 can 的否定缩写，表示“不能、无法”，后接动词原形 decide。
+2. **中文**：在这个老跳蚤市场里你可以找到很多划算的商品。
+   **英文**：You can find a real bargain at the old flea market.
+   > **解析**：bargain 表示“划算的商品/便宜货”。
 
-3. **中文**：这双皮鞋非常合脚，所以我要买了。  
-   **英文**：These leather shoes fit perfectly, so I will take them.
-   > **解析**：fit 在此处作不及物动词，意为“合身、合适”。修饰词为副词 perfectly。
+3. **中文**：服务员把用餐账单放到了餐桌上。
+   **英文**：The waiter brought the final bill to our table.
+   > **解析**：bill 表示“账单/结账单”。
 
-4. **中文**：店内每件折扣商品均附带两年保修期。  
-   **英文**：Every discounted item in the store comes with a two-year warranty.
-   > **解析**：item 为可数名词，指“单件商品、物品”。discounted item 指折扣商品。
+4. **中文**：请把所有想买的杂货放到购物车里。
+   **英文**：Put all your groceries inside the shopping cart.
+   > **解析**：cart 表示“购物车/推车”。
 
-5. **中文**：抓紧时间，因为适合你尺码的黑色大衣只剩下两件了！  
-   **英文**：Hurry up because there are only two black coats left in your size.
-   > **解析**：left 是 leave 的过去分词，在此处用作后置定语，意为“剩下的”（there are only two left）。
+5. **中文**：在买这件夹克之前，你可以先去试衣间试穿一下。
+   **英文**：You can try on the jacket inside the fitting room first.
+   > **解析**：fitting room 表示“试衣间”；try on 意为“试穿”。
 
-6. **中文**：这张手工木桌要多少钱？  
-   **英文**：How much does this handcrafted wooden table cost.
-   > **解析**：much 在此处用于疑问短语 how much，用于询问不可数概念的价格或数量。
+6. **中文**：这家商店以出售高质量的手工艺品而知名。
+   **英文**：This shop is famous for selling high quality hand-made goods.
+   > **解析**：high quality 表示“高质量的”；goods 意为“商品”。
 
-7. **中文**：你不应该把所有积蓄都花在奢侈设计师商品上。  
-   **英文**：You shouldn't spend all your savings on luxury designer goods.
-   > **解析**：shouldn't 为情态动词 should not 的缩写，表示“不应该”，用于提出购物建议。
+7. **中文**：这些棉质衬衫质量好而且价格便宜。
+   **英文**：These comfortable cotton shirts are stylish yet inexpensive.
+   > **解析**：inexpensive 表示“便宜的/不贵的”。
 
-8. **中文**：以半价买到这部全新手机真是太划算了！  
-   **英文**：Getting this brand-new phone at half price was a real bargain.
-   > **解析**：bargain 在此处作可数名词，意为“便宜货、划算的买卖”。a real bargain 意为“真划算”。
+8. **中文**：购物车里的最后一件商品正在打折促销。
+   **英文**：The last item in your cart is currently on sale.
+   > **解析**：item 表示“商品/物品/单品”。
 
-9. **中文**：请将您喜欢的商品添加到您的在线购物车中。  
-   **英文**：Please add the items you like to your online shopping cart.
-   > **解析**：cart 为可数名词，意为“手推车、购物车”。shopping cart 即购物车。
+9. **中文**：他们走进市中心那家豪华的珠宝店挑选戒指。
+   **英文**：They walked into the luxury jewelry store to pick out rings.
+   > **解析**：jewelry store 表示“珠宝店”；pick out 意为“挑选”。
 
-10. **中文**：我更喜欢买能穿很多年的高品质衣服。  
-   **英文**：I prefer to buy high quality clothes that last.
-   > **解析**：high quality 为复合形容词/名词短语，意为“高质量的/优质的”，作前置定语修饰 clothes。
+10. **中文**：避免购买低质量的塑料玩具，因为容易坏。
+   **英文**：Avoid buying low quality plastic toys because they break easily.
+   > **解析**：low quality 表示“低质量的/劣质的”。
+
+11. **中文**：这种高档面料摸起来非常柔软舒适。
+   **英文**：This premium shirt material feels extremely soft and smooth.
+   > **解析**：material 表示“材质/布料/材料”。
+
+12. **中文**：购买了这么多文具后，我目前欠我朋友十美元。
+   **英文**：I owe my friend ten dollars after shopping together.
+   > **解析**：owe 表示“欠（钱/情）”。
+
+13. **中文**：我们打算这周末去百货公司选购新衣服。
+   **英文**：We plan to shop for winter clothes at the mall this weekend.
+   > **解析**：shop for 表示“选购/购买”。
+
+14. **中文**：买东西时不应该花超出预算的钱。
+   **英文**：You shouldn't spend more money than your monthly budget.
+   > **解析**：shouldn't 表示“不应该”。
+
+15. **中文**：那包皮质皮包虽然昂贵，但完全物有所值。
+   **英文**：That leather bag is expensive, but it is totally worth it.
+   > **解析**：worth 表示“值得的/有价值的”。
+
+16. **中文**：外套上的拉链卡住了，需要修一下。
+   **英文**：The metal zipper on my winter coat got stuck yesterday.
+   > **解析**：zipper 表示“拉链”。
+
+17. **中文**：这双新鞋穿起来大小正合身。
+   **英文**：These new running shoes fit my feet perfectly.
+   > **解析**：fit 表示“合身/适合”。
+
+18. **中文**：离开商店前请核对发票上的小计。
+   **英文**：Please check your receipt before leaving the grocery store.
+   > **解析**：check 表示“核对/检查”。
+
+19. **中文**：你可以选择使用信用卡或现金结账。
+   **英文**：You can pay by credit card or cash for these items.
+   > **解析**：can 表示“能够/可以”。
+
+20. **中文**：这种高档商品在这个折扣价下太划算了。
+   **英文**：This high quality product is cheap at such a low price.
+   > **解析**：high quality 表示“高质量的”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. She spent a considerable amount of money on clothing during the seasonal sale.
-   > **中文**：在换季大促期间，她在衣服上花了大笔资金。
+1. The total amount on the invoice was higher than we expected.
+   > **中文**：发票上显示的总金额超出了我们的预期。
 
-2. I can't decide which of these two jackets looks better on me.
-   > **中文**：我无法决定这两件夹克中哪一件我穿起来更好看。
+2. You can find a real bargain at the old flea market.
+   > **中文**：在这个老跳蚤市场里你可以找到很多划算的商品。
 
-3. These leather shoes fit perfectly, so I will take them.
-   > **中文**：这双皮鞋非常合脚，所以我要买了。
+3. The waiter brought the final bill to our table.
+   > **中文**：服务员把用餐账单放到了餐桌上。
 
-4. Every discounted item in the store comes with a two-year warranty.
-   > **中文**：店内每件折扣商品均附带两年保修期。
+4. Put all your groceries inside the shopping cart.
+   > **中文**：请把所有想买的杂货放到购物车里。
 
-5. Hurry up because there are only two black coats left in your size.
-   > **中文**：抓紧时间，因为适合你尺码的黑色大衣只剩下两件了！
+5. You can try on the jacket inside the fitting room first.
+   > **中文**：在买这件夹克之前，你可以先去试衣间试穿一下。
 
-6. How much does this handcrafted wooden table cost.
-   > **中文**：这张手工木桌要多少钱？
+6. This shop is famous for selling high quality hand-made goods.
+   > **中文**：这家商店以出售高质量的手工艺品而知名。
 
-7. You shouldn't spend all your savings on luxury designer goods.
-   > **中文**：你不应该把所有积蓄都花在奢侈设计师商品上。
+7. These comfortable cotton shirts are stylish yet inexpensive.
+   > **中文**：这些棉质衬衫质量好而且价格便宜。
 
-8. Getting this brand-new phone at half price was a real bargain.
-   > **中文**：以半价买到这部全新手机真是太划算了！
+8. The last item in your cart is currently on sale.
+   > **中文**：购物车里的最后一件商品正在打折促销。
 
-9. Please add the items you like to your online shopping cart.
-   > **中文**：请将您喜欢的商品添加到您的在线购物车中。
+9. They walked into the luxury jewelry store to pick out rings.
+   > **中文**：他们走进市中心那家豪华的珠宝店挑选戒指。
 
-10. I prefer to buy high quality clothes that last.
-   > **中文**：我更喜欢买能穿很多年的高品质衣服。
+10. Avoid buying low quality plastic toys because they break easily.
+   > **中文**：避免购买低质量的塑料玩具，因为容易坏。
+
+11. This premium shirt material feels extremely soft and smooth.
+   > **中文**：这种高档面料摸起来非常柔软舒适。
+
+12. I owe my friend ten dollars after shopping together.
+   > **中文**：购买了这么多文具后，我目前欠我朋友十美元。
+
+13. We plan to shop for winter clothes at the mall this weekend.
+   > **中文**：我们打算这周末去百货公司选购新衣服。
+
+14. You shouldn't spend more money than your monthly budget.
+   > **中文**：买东西时不应该花超出预算的钱。
+
+15. That leather bag is expensive, but it is totally worth it.
+   > **中文**：那包皮质皮包虽然昂贵，但完全物有所值。
+
+16. The metal zipper on my winter coat got stuck yesterday.
+   > **中文**：外套上的拉链卡住了，需要修一下。
+
+17. These new running shoes fit my feet perfectly.
+   > **中文**：这双新鞋穿起来大小正合身。
+
+18. Please check your receipt before leaving the grocery store.
+   > **中文**：离开商店前请核对发票上的小计。
+
+19. You can pay by credit card or cash for these items.
+   > **中文**：你可以选择使用信用卡或现金结账。
+
+20. This high quality product is cheap at such a low price.
+   > **中文**：这种高档商品在这个折扣价下太划算了。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| amount | 数量 / 金额 |
+| bargain | 划算商品 / 便宜货 |
+| bill | 账单 |
+| cart | 购物车 |
+| fitting room | 试衣间 |
+| high quality | 高质量的 |
+| inexpensive | 便宜的 / 不贵的 |
+| item | 商品 / 物品 |
+| jewelry store | 珠宝店 |
+| low quality | 低质量的 |
+| material | 材质 / 布料 |
+| owe | 欠（钱） |
+| shop for | 选购 / 购买 |
+| shouldn't | 不应该 |
+| worth | 值得的 |
+| zipper | 拉链 |
+| fit | 合身 / 适合 |
+| check | 核对 / 检查 |
+| can | 可以 / 能够 |
+| shouldn't | 不应该 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ worth = 值得。can / can't 表能力/可能。
 
 ### 1
 
-She spent a considerable `____` of money on clothing during the seasonal sale.
+The total ____ on the invoice was higher than we expected.
 
 - [x] amount
 - [ ] bargain
-- [ ] cart
+- [ ] bill
 
-> **解析**：amount 为名词，意为“数量、金额”。常用搭配 a considerable amount of + 不可数名词（money）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-I `____`'t decide which of these two jackets looks better on me.
+____ can find a real bargain at the old flea market.
 
-- [x] can
+- [x] You
+- [ ] amount
 - [ ] bargain
-- [ ] check
 
-> **解析**：can't 为情态动词 can 的否定缩写，表示“不能、无法”，后接动词原形 decide。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-These leather shoes `____` perfectly, so I will take them.
+The waiter brought the final ____ to our table.
 
-- [x] fit
-- [ ] bill
-- [ ] check
+- [x] bill
+- [ ] amount
+- [ ] bargain
 
-> **解析**：fit 在此处作不及物动词，意为“合身、合适”。修饰词为副词 perfectly。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Every discounted `____` in the store comes with a two-year warranty.
+Put all your groceries inside the shopping ____.
 
-- [x] item
-- [ ] can
-- [ ] fit
+- [x] cart
+- [ ] amount
+- [ ] bargain
 
-> **解析**：item 为可数名词，指“单件商品、物品”。discounted item 指折扣商品。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Hurry up because there are only two black coats `____` in your size.
+____ can try on the jacket inside the fitting room first.
 
-- [x] left
-- [ ] can't
-- [ ] fitting room
+- [x] You
+- [ ] amount
+- [ ] bargain
 
-> **解析**：left 是 leave 的过去分词，在此处用作后置定语，意为“剩下的”（there are only two left）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-How `____` does this handcrafted wooden table cost.
+This shop is famous for selling high quality ____ goods.
 
-- [x] much
-- [ ] cart
-- [ ] high quality
+- [x] hand-made
+- [ ] amount
+- [ ] bargain
 
-> **解析**：much 在此处用于疑问短语 how much，用于询问不可数概念的价格或数量。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-You `____` spend all your savings on luxury designer goods.
+These comfortable cotton shirts are stylish yet ____.
 
-- [x] shouldn't
-- [ ] check
-- [ ] inexpensive
+- [x] inexpensive
+- [ ] amount
+- [ ] bargain
 
-> **解析**：shouldn't 为情态动词 should not 的缩写，表示“不应该”，用于提出购物建议。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Getting this brand-new phone at half price was a real `____`.
+The last ____ in your cart is currently on sale.
 
-- [x] bargain
-- [ ] fitting room
-- [ ] jewelry store
+- [x] item
+- [ ] amount
+- [ ] bargain
 
-> **解析**：bargain 在此处作可数名词，意为“便宜货、划算的买卖”。a real bargain 意为“真划算”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Please add the items you like to your online shopping `____`.
+They walked into the luxury ____ store to pick out rings.
 
-- [x] cart
-- [ ] high quality
-- [ ] knowing
+- [x] jewelry
+- [ ] amount
+- [ ] bargain
 
-> **解析**：cart 为可数名词，意为“手推车、购物车”。shopping cart 即购物车。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-I prefer to buy `____` clothes that last.
+Avoid buying low ____ plastic toys because they break easily.
 
-- [x] high quality
-- [ ] inexpensive
-- [ ] left
+- [x] quality
+- [ ] amount
+- [ ] bargain
 
-> **解析**：high quality 为复合形容词/名词短语，意为“高质量的/优质的”，作前置定语修饰 clothes。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+This premium shirt ____ feels extremely soft and smooth.
+
+- [x] material
+- [ ] amount
+- [ ] bargain
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+I ____ my friend ten dollars after shopping together.
+
+- [x] owe
+- [ ] amount
+- [ ] bargain
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+We plan to shop for winter ____ at the mall this weekend.
+
+- [x] clothes
+- [ ] amount
+- [ ] bargain
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+____ shouldn't spend more money than your monthly budget.
+
+- [x] You
+- [ ] amount
+- [ ] bargain
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+That leather bag is expensive, but it is totally ____ it.
+
+- [x] worth
+- [ ] amount
+- [ ] bargain
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The metal ____ on my winter coat got stuck yesterday.
+
+- [x] zipper
+- [ ] amount
+- [ ] bargain
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+These new running shoes ____ my feet perfectly.
+
+- [x] fit
+- [ ] amount
+- [ ] bargain
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Please ____ your receipt before leaving the grocery store.
+
+- [x] check
+- [ ] amount
+- [ ] bargain
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+____ can pay by credit card or cash for these items.
+
+- [x] You
+- [ ] amount
+- [ ] bargain
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+This high ____ product is cheap at such a low price.
+
+- [x] quality
+- [ ] amount
+- [ ] bargain
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

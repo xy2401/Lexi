@@ -61,83 +61,176 @@ be scared of / be terrified of 表恐惧。used to 表过去习惯。
 
 <quiz-sentence-builder>
 
-1. **中文**：在大众面前讲话让她感到极其焦虑不安。  
-   **英文**：She felt extremely anxious about speaking in front of a large audience.
-   > **解析**：anxious 为形容词，意为“焦虑的、不安的”。常见搭配 be/feel anxious about sth.（对某事感到焦虑）。
+1. **中文**：每当她必须公开演讲时，她都会感到焦虑。
+   **英文**：She feels anxious whenever she has to speak in public.
+   > **解析**：anxious 表示“焦虑的/紧张的”；in public 意为“公开地”。
 
-2. **中文**：在做出决定前，深深吸一口气并尝试冷静下来。  
-   **英文**：Take a deep breath and try to calm down before making a decision.
-   > **解析**：calm down 为短语动词，意为“平静下来、镇定”。可用作不及物动词，也可用作及物动词（calm sb. down）。
+2. **中文**：请冷静下来，深呼吸。
+   **英文**：Please calm down and take a deep breath.
+   > **解析**：calm down 表示“冷静下来”；take a deep breath 意为“深呼吸”。
 
-3. **中文**：我通常很喜欢夜间散步，但今晚静悄悄的街道让人感觉怪异。  
-   **英文**：I usually enjoy night walks, but tonight the quiet street feels spooky.
-   > **解析**：enjoy 为及物动词，意为“喜欢、享受”。后接名词或动名词（enjoy doing sth.）。
+3. **中文**：在陡峭悬崖边缘行走让他感到头晕。
+   **英文**：Walking near the edge of the steep cliff made him dizzy.
+   > **解析**：cliff 表示“悬崖/峭壁”；steep 意为“陡峭的”。
 
-4. **中文**：我绝对讨厌被独自留在漆黑的环境中。  
-   **英文**：I absolutely hate being left alone in total darkness.
-   > **解析**：hate 为及物动词，意为“讨厌、憎恨”。后接动名词（doing）或不定式（to do），在此处表长期厌恶。
+4. **中文**：森林里那栋废弃的老房子看起来真的很让人毛骨悚然。
+   **英文**：That old abandoned house in the forest looks really creepy.
+   > **解析**：creepy 表示“令人毛骨悚然的/怪异的”；abandoned 意为“废弃的”。
 
-5. **中文**：我弟弟害怕蜘蛛和黑暗的空间。  
-   **英文**：My younger brother is scared of spiders and dark spaces.
-   > **解析**：scared of 为固定形容词短语，意为“害怕……”，主语为人，后接名词、代词或动名词（scared of heights/spiders）。
+5. **中文**：昨天突发地震时，大家都跑到了外面。
+   **英文**：Everyone ran outside during the sudden earthquake yesterday.
+   > **解析**：earthquake 表示“地震”；sudden 意为“突然的”。
 
-6. **中文**：准备期末考试总是能把我压力拉满、让我紧张透顶。  
-   **英文**：Preparing for the final examinations always manages to stress me out about creepy.
-   > **解析**：stress out 为短语动词，意为“使过度紧张、使压力山大”。常作及物动词使用（stress sb. out）。
+6. **中文**：他试图克服对公开演讲的恐惧。
+   **英文**：He tried to overcome his fear of public speaking.
+   > **解析**：fear 表示“恐惧/害怕”；overcome fear 意为“克服恐惧”。
 
-7. **中文**：我过去很害怕坐飞机，但在乘坐了几次航班后我克服了它。  
-   **英文**：I used to be afraid of flying, but I got over it after taking several flights.
-   > **解析**：used to 意为“过去常常/曾经”，后接动词原形（used to be），表示过去存在的状态或习惯，现已改变。
+7. **中文**：适应在大城市的生活需要时间。
+   **英文**：It takes time to get used to living in a big city.
+   > **解析**：get used to 表示“习惯于……”；to 后接 v-ing 形式。
 
-8. **中文**：当电梯突然停在楼层之间时，她经历了恐慌发作。  
-   **英文**：She suffered a panic attack when the elevator suddenly stopped between floors.
-   > **解析**：attack 在此处作名词，意为“（疾病或恐慌的）发作”，如 panic attack（恐慌发作/惊恐发作）。
+8. **中文**：我很抱歉打扰，但我们真的遇到了紧急情况。
+   **英文**：I hate to interrupt, but we have a real emergency.
+   > **解析**：hate to 表示“抱歉/不情愿去做……”；interrupt 意为“打扰”。
 
-9. **中文**：路尽头那栋破旧废弃的房子看起来真的很令人毛骨悚然。  
-   **英文**：The old abandoned house at the end of the road looks really creepy about bee.
-   > **解析**：creepy 为形容词，意为“令人毛骨悚然的、怪异恐怖的”，常用来形容事物、声音或场所给人带来的恐惧感。
+9. **中文**：看完恐怖电影后，她做了一个可怕的噩梦。
+   **英文**：She had a terrible nightmare after watching the horror film.
+   > **解析**：nightmare 表示“噩梦”；horror film 意为“恐怖电影”。
 
-10. **中文**：在登山过程中，他尽最大努力去克服对高处的恐惧。  
-   **英文**：He tried his best to overcome his fear of heights during the mountain climb.
-   > **解析**：fear 为名词，意为“恐惧、害怕”。常见搭配 overcome one's fear of sth.（克服对……的恐惧）。
+10. **中文**：你害怕蜘蛛和小昆虫吗？
+   **英文**：Are you scared of spiders and small insects?
+   > **解析**：scared of 表示“害怕……”；spiders 意为“蜘蛛”。
+
+11. **中文**：游泳者被警告在海滩附近发现了鲨鱼。
+   **英文**：Swimmers were warned that a shark was spotted near the beach.
+   > **解析**：shark 表示“鲨鱼”；was spotted 意为“被发现/被目击”。
+
+12. **中文**：别让那些小问题把你压得喘不过气来。
+   **英文**：Don't let small problems stress you out like that.
+   > **解析**：stress you out 表示“使紧张/使压力山大”。
+
+13. **中文**：你以前游泳穿过这条宽阔的河流吗？
+   **英文**：Have you ever swum across this wide river before?
+   > **解析**：swum 是 swim 的过去分词；swum across 表示“游泳横渡”。
+
+14. **中文**：灯突然熄灭时，她感到非常害怕。
+   **英文**：She was terrified when the lights went out suddenly.
+   > **解析**：terrified 表示“极其害怕的/恐慌的”；went out 意为“熄灭”。
+
+15. **中文**：谢天谢地，大家在暴风雨到来前都安全到家了。
+   **英文**：Thank goodness everyone arrived home safely before the storm.
+   > **解析**：Thank goodness 表示感叹“谢天谢地/幸好”。
+
+16. **中文**：我小时候曾经害怕黑暗。
+   **英文**：I used to be afraid of the dark when I was a child.
+   > **解析**：used to 表示“过去常常/过去曾经”；afraid of 意为“害怕”。
+
+17. **中文**：哎呀！小路上的那条蛇差点咬到我的鞋。
+   **英文**：Yikes! That snake on the path almost bit my shoe.
+   > **解析**：Yikes 是口语感叹词，表示“哎呀/吓死人了”。
+
+18. **中文**：一只小蜜蜂在花园里色彩鲜艳的花朵旁嗡嗡飞过。
+   **英文**：A little bee buzzed around the colorful flowers in the garden.
+   > **解析**：bee 表示“蜜蜂”；buzzed 意为“发嗡嗡声”。
+
+19. **中文**：突发恐慌可能会引发严重的哮喘发作。
+   **英文**：Sudden panics can trigger a severe asthma attack.
+   > **解析**：attack 表示“发作/袭击”；trigger 意为“触发”。
+
+20. **中文**：继续往前走，尽量不要往下看。
+   **英文**：Keep walking straight and try not to look down.
+   > **解析**：Keep walking 表示“保持行走/继续走”；look down 意为“向下看”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. She felt extremely anxious about speaking in front of a large audience.
-   > **中文**：在大众面前讲话让她感到极其焦虑不安。
+1. She feels anxious whenever she has to speak in public.
+   > **中文**：每当她必须公开演讲时，她都会感到焦虑。
 
-2. Take a deep breath and try to calm down before making a decision.
-   > **中文**：在做出决定前，深深吸一口气并尝试冷静下来。
+2. Please calm down and take a deep breath.
+   > **中文**：请冷静下来，深呼吸。
 
-3. I usually enjoy night walks, but tonight the quiet street feels spooky.
-   > **中文**：我通常很喜欢夜间散步，但今晚静悄悄的街道让人感觉怪异。
+3. Walking near the edge of the steep cliff made him dizzy.
+   > **中文**：在陡峭悬崖边缘行走让他感到头晕。
 
-4. I absolutely hate being left alone in total darkness.
-   > **中文**：我绝对讨厌被独自留在漆黑的环境中。
+4. That old abandoned house in the forest looks really creepy.
+   > **中文**：森林里那栋废弃的老房子看起来真的很让人毛骨悚然。
 
-5. My younger brother is scared of spiders and dark spaces.
-   > **中文**：我弟弟害怕蜘蛛和黑暗的空间。
+5. Everyone ran outside during the sudden earthquake yesterday.
+   > **中文**：昨天突发地震时，大家都跑到了外面。
 
-6. Preparing for the final examinations always manages to stress me out about creepy.
-   > **中文**：准备期末考试总是能把我压力拉满、让我紧张透顶。
+6. He tried to overcome his fear of public speaking.
+   > **中文**：他试图克服对公开演讲的恐惧。
 
-7. I used to be afraid of flying, but I got over it after taking several flights.
-   > **中文**：我过去很害怕坐飞机，但在乘坐了几次航班后我克服了它。
+7. It takes time to get used to living in a big city.
+   > **中文**：适应在大城市的生活需要时间。
 
-8. She suffered a panic attack when the elevator suddenly stopped between floors.
-   > **中文**：当电梯突然停在楼层之间时，她经历了恐慌发作。
+8. I hate to interrupt, but we have a real emergency.
+   > **中文**：我很抱歉打扰，但我们真的遇到了紧急情况。
 
-9. The old abandoned house at the end of the road looks really creepy about bee.
-   > **中文**：路尽头那栋破旧废弃的房子看起来真的很令人毛骨悚然。
+9. She had a terrible nightmare after watching the horror film.
+   > **中文**：看完恐怖电影后，她做了一个可怕的噩梦。
 
-10. He tried his best to overcome his fear of heights during the mountain climb.
-   > **中文**：在登山过程中，他尽最大努力去克服对高处的恐惧。
+10. Are you scared of spiders and small insects?
+   > **中文**：你害怕蜘蛛和小昆虫吗？
+
+11. Swimmers were warned that a shark was spotted near the beach.
+   > **中文**：游泳者被警告在海滩附近发现了鲨鱼。
+
+12. Don't let small problems stress you out like that.
+   > **中文**：别让那些小问题把你压得喘不过气来。
+
+13. Have you ever swum across this wide river before?
+   > **中文**：你以前游泳穿过这条宽阔的河流吗？
+
+14. She was terrified when the lights went out suddenly.
+   > **中文**：灯突然熄灭时，她感到非常害怕。
+
+15. Thank goodness everyone arrived home safely before the storm.
+   > **中文**：谢天谢地，大家在暴风雨到来前都安全到家了。
+
+16. I used to be afraid of the dark when I was a child.
+   > **中文**：我小时候曾经害怕黑暗。
+
+17. Yikes! That snake on the path almost bit my shoe.
+   > **中文**：哎呀！小路上的那条蛇差点咬到我的鞋。
+
+18. A little bee buzzed around the colorful flowers in the garden.
+   > **中文**：一只小蜜蜂在花园里色彩鲜艳的花朵旁嗡嗡飞过。
+
+19. Sudden panics can trigger a severe asthma attack.
+   > **中文**：突发恐慌可能会引发严重的哮喘发作。
+
+20. Keep walking straight and try not to look down.
+   > **中文**：继续往前走，尽量不要往下看。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| anxious | 焦虑的 / 紧张的 |
+| attack | 发作 / 袭击 |
+| bee | 蜜蜂 |
+| calm down | 冷静下来 |
+| cliff | 悬崖 |
+| creepy | 令人毛骨悚然的 |
+| earthquake | 地震 |
+| fear | 恐惧 |
+| get used to | 习惯于 |
+| hate to | 不情愿 / 抱歉做 |
+| nightmare | 噩梦 |
+| scared of | 害怕 |
+| shark | 鲨鱼 |
+| stress out | 压力山大 / 使紧张 |
+| swum | 游泳（swim的过去分词） |
+| terrified | 极其害怕的 |
+| thank goodness | 谢天谢地 |
+| used to | 过去常常 |
+| yikes | 哎呀（惊叹词） |
+| keep | 保持 / 经常做 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ be scared of / be terrified of 表恐惧。used to 表过去习惯。
 
 ### 1
 
-She felt extremely `____` about speaking in front of a large audience.
+She feels ____ whenever she has to speak in public.
 
 - [x] anxious
 - [ ] attack
-- [ ] creepy
+- [ ] bee
 
-> **解析**：anxious 为形容词，意为“焦虑的、不安的”。常见搭配 be/feel anxious about sth.（对某事感到焦虑）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Take a deep breath and try to `____` before making a decision.
+____ calm down and take a deep breath.
 
-- [x] calm down
+- [x] Please
+- [ ] anxious
 - [ ] attack
-- [ ] earthquake
 
-> **解析**：calm down 为短语动词，意为“平静下来、镇定”。可用作不及物动词，也可用作及物动词（calm sb. down）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-I usually `____` night walks, but tonight the quiet street feels spooky.
+Walking near the edge of the steep ____ made him dizzy.
 
-- [x] enjoy
-- [ ] bee
-- [ ] earthquake
+- [x] cliff
+- [ ] anxious
+- [ ] attack
 
-> **解析**：enjoy 为及物动词，意为“喜欢、享受”。后接名词或动名词（enjoy doing sth.）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-I absolutely `____` being left alone in total darkness.
+That old abandoned house in the forest looks really ____.
 
-- [x] hate
-- [ ] calm down
-- [ ] enjoy
+- [x] creepy
+- [ ] anxious
+- [ ] attack
 
-> **解析**：hate 为及物动词，意为“讨厌、憎恨”。后接动名词（doing）或不定式（to do），在此处表长期厌恶。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-My younger brother is `____` spiders and dark spaces.
+Everyone ran outside during the sudden ____ yesterday.
 
-- [x] scared of
-- [ ] cliff
-- [ ] fear
+- [x] earthquake
+- [ ] anxious
+- [ ] attack
 
-> **解析**：scared of 为固定形容词短语，意为“害怕……”，主语为人，后接名词、代词或动名词（scared of heights/spiders）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Preparing for the final examinations always manages to stress me out about `____`.
+He tried to overcome his ____ of public speaking.
 
-- [x] creepy
-- [ ] earthquake
-- [ ] hate
+- [x] fear
+- [ ] anxious
+- [ ] attack
 
-> **解析**：stress out 为短语动词，意为“使过度紧张、使压力山大”。常作及物动词使用（stress sb. out）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-I `____` be afraid of flying, but I got over it after taking several flights.
+It takes time to get used to ____ in a big city.
 
-- [x] used to
-- [ ] earthquake
-- [ ] hate
+- [x] living
+- [ ] anxious
+- [ ] attack
 
-> **解析**：used to 意为“过去常常/曾经”，后接动词原形（used to be），表示过去存在的状态或习惯，现已改变。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-She suffered a panic `____` when the elevator suddenly stopped between floors.
+I ____ to interrupt, but we have a real emergency.
 
-- [x] attack
-- [ ] fear
-- [ ] keep
+- [x] hate
+- [ ] anxious
+- [ ] attack
 
-> **解析**：attack 在此处作名词，意为“（疾病或恐慌的）发作”，如 panic attack（恐慌发作/惊恐发作）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The old abandoned house at the end of the road looks really creepy about `____`.
+She had a terrible ____ after watching the horror film.
 
-- [x] bee
-- [ ] get used to
-- [ ] nightmare
+- [x] nightmare
+- [ ] anxious
+- [ ] attack
 
-> **解析**：creepy 为形容词，意为“令人毛骨悚然的、怪异恐怖的”，常用来形容事物、声音或场所给人带来的恐惧感。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-He tried his best to overcome his `____` of heights during the mountain climb.
+Are you scared of ____ and small insects?
 
-- [x] fear
-- [ ] hate
-- [ ] scared of
+- [x] spiders
+- [ ] anxious
+- [ ] attack
 
-> **解析**：fear 为名词，意为“恐惧、害怕”。常见搭配 overcome one's fear of sth.（克服对……的恐惧）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Swimmers were warned that a ____ was spotted near the beach.
+
+- [x] shark
+- [ ] anxious
+- [ ] attack
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Don't let small ____ stress you out like that.
+
+- [x] problems
+- [ ] anxious
+- [ ] attack
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Have you ever ____ across this wide river before?
+
+- [x] swum
+- [ ] anxious
+- [ ] attack
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+She was ____ when the lights went out suddenly.
+
+- [x] terrified
+- [ ] anxious
+- [ ] attack
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Thank ____ everyone arrived home safely before the storm.
+
+- [x] goodness
+- [ ] anxious
+- [ ] attack
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+I used to be ____ of the dark when I was a child.
+
+- [x] afraid
+- [ ] anxious
+- [ ] attack
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+____! That snake on the path almost bit my shoe.
+
+- [x] Yikes
+- [ ] anxious
+- [ ] attack
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+A little ____ buzzed around the colorful flowers in the garden.
+
+- [x] bee
+- [ ] anxious
+- [ ] attack
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Sudden panics can trigger a severe asthma ____.
+
+- [x] attack
+- [ ] anxious
+- [ ] bee
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+____ walking straight and try not to look down.
+
+- [x] Keep
+- [ ] anxious
+- [ ] attack
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

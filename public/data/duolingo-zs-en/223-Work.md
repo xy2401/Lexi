@@ -63,83 +63,176 @@ a certain, absolutely, as far as I'm concerned, be able to, can, come up with, c
 
 <quiz-sentence-builder>
 
-1. **中文**：这个职位要求应聘者具备一定水平的技术专业知识。  
-   **英文**：This position requires candidates to possess a certain level of technical expertise.
-   > **解析**：`a certain` 为限定短语，意为“某种；一定程度的”，修饰单数名词或抽象名词。
+1. **中文**：我们需要弄清楚如何赶上项目截止日期。  
+   **英文**：We need to figure out how to meet the project deadline.
+   > **解析**：figure out 表示弄清楚、想明白。
 
-2. **中文**：展现出主动性的员工能够承担更复杂的管理任务。  
-   **英文**：Employees who demonstrate initiative can take on more complex managerial tasks.
-   > **解析**：`can` 情态动词，表示能力或可能性（意为“能够；可以”），后接动词原形。
+2. **中文**：你能为这个问题想出一个更好的解决方案吗？  
+   **英文**：Can you come up with a better solution for this issue?
+   > **解析**：come up with 表示想出（办法、主意）。
 
-3. **中文**：项目团队加班赶工，以在严格的截止日期前完成设计。  
-   **英文**：The project team worked overtime to complete the design before the strict deadline.
-   > **解析**：`deadline` 可数名词，意为“截止日期”。短语 `meet a deadline`（赶上截止日期）/ `miss a deadline`（错过截止日期）。
+3. **中文**：赶上紧迫的截止日期需要团队努力。  
+   **英文**：Meeting the tight deadline requires team effort.
+   > **解析**：deadline 表示截止日期。
 
-4. **中文**：如果您对报告有任何疑问，请随时给我发电子邮件。  
-   **英文**：If you have any questions regarding the report, please feel free to email me.
-   > **解析**：`feel free to do sth.` 为商务及日常沟通中礼貌邀请的固定表达（意为“请随意做某事；随时做某事”）。
+4. **中文**：经过所有努力，她值得一次升职。  
+   **英文**：She deserves a promotion after all her hard work.
+   > **解析**：deserve 表示值得、应得。
 
-5. **中文**：表现优异的员工更有可能获得年度奖金和晋升。  
-   **英文**：High-performing staff members are more likely to receive annual bonuses and promotions.
-   > **解析**：`be likely to do sth.` 固定搭配，意为“很有可能做某事”。
+5. **中文**：我们非常兴奋地宣布我们的新营销活动。  
+   **英文**：We are excited to announce our new marketing campaign.
+   > **解析**：excited to do 表示对做某事感到兴奋。
 
-6. **中文**：提交职位申请后，下一步是与人力资源部门进行电话面试。  
-   **英文**：After submitting your job application, the next step is a phone interview with HR.
-   > **解析**：`next step` 名词短语，意为“下一步骤；下一阶段工作”。
+6. **中文**：应聘者预计明天九点到达。  
+   **英文**：The candidate is expected to arrive at nine tomorrow.
+   > **解析**：be expected to 表示预计做某事。
 
-7. **中文**：在竞争激烈的市场中推出新产品时，完美的时机至关重要。  
-   **英文**：Perfect timing is crucial when launching a new product in a competitive market.
-   > **解析**：`timing` 不可数名词，意为“时机选择；时间安排”。
+7. **中文**：会议预定在十分钟后开始。  
+   **英文**：The meeting is scheduled to start in ten minutes.
+   > **解析**：be scheduled to 表示定于、预定。
 
-8. **中文**：清晰的沟通对于远程团队成员高效工作来说绝对是必不可少的。  
-   **英文**：Clear communication is absolutely essential for remote team members to work efficiently.
-   > **解析**：`absolutely` 副词，意为“绝对地；完全地”，用以增强形容词 `essential` 的修饰语气。
+8. **中文**：如果您有任何问题，请随时与我联系。  
+   **英文**：Feel free to contact me if you have any questions.
+   > **解析**：feel free to do 表示随时、请随意做某事。
 
-9. **中文**：这位创意设计师成功提出了三个不同的品牌概念。  
-   **英文**：The creative designer managed to come up with three distinct branding concepts about could.
-   > **解析**：`come up with` 为固定及物动词短语，意为“想出；提出（主意、方案等）”。
+9. **中文**：我们马上开始准备演示文稿吧。  
+   **英文**：Let's get started on the presentation right away.
+   > **解析**：get started 表示开始进行。
 
-10. **中文**：我们的团队对于宣布软件升级的正式发布感到非常激动。  
-   **英文**：Our team is extremely excited to announce the official release of the software upgrade.
-   > **解析**：`be excited to do sth.` 形容词搭配，意为“对做某事感到极其兴奋/激动”。
+10. **中文**：这个工作岗位在工作时间上提供了极大的灵活性。  
+   **英文**：This job position offers great flexibility in work hours.
+   > **解析**：flexibility 表示灵活性。
+
+11. **中文**：他很可能会接受这份新工作的邀约。  
+   **英文**：He is likely to accept the new job offer.
+   > **解析**：be likely to 表示很有可能。
+
+12. **中文**：我们面试流程的下一步是什么？  
+   **英文**：What is the next step in our interview process?
+   > **解析**：next step 表示下一步。
+
+13. **中文**：她的学历资格完全符合我们的职位要求。  
+   **英文**：Her educational qualification matches our job requirements perfectly.
+   > **解析**：qualification 表示资格、资历。
+
+14. **中文**：产品发布的时机对于成功至关重要。  
+   **英文**：The timing of the product launch is crucial for success.
+   > **解析**：timing 表示时机。
+
+15. **中文**：毫无疑问，这对我们公司来说是最好的选择。  
+   **英文**：This is without a doubt the best choice for our company.
+   > **解析**：without a doubt 表示毫无疑问。
+
+16. **中文**：在我看来，我们应该批准这项预算。  
+   **英文**：As far as I'm concerned, we should approve this budget.
+   > **解析**：as far as I'm concerned 表示在我看来。
+
+17. **中文**：我绝对确定他会成功。  
+   **英文**：I am absolutely certain that he will succeed.
+   > **解析**：absolutely 表示绝对地。
+
+18. **中文**：通过练习，你将能够掌握这项技能。  
+   **英文**：You will be able to master this skill with practice.
+   > **解析**：be able to 表示能够。
+
+19. **中文**：每一项投资都存在一定程度的风险。  
+   **英文**：There is a certain level of risk in every investment.
+   > **解析**：a certain 表示某种、一定的。
+
+20. **中文**：你可以随时在线提交你的简历。  
+   **英文**：You can submit your resume online anytime.
+   > **解析**：can 表示可以。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. This position requires candidates to possess a certain level of technical expertise.
-   > **中文**：这个职位要求应聘者具备一定水平的技术专业知识。
+1. We need to figure out how to meet the project deadline.
+   > **中文**：我们需要弄清楚如何赶上项目截止日期。
 
-2. Employees who demonstrate initiative can take on more complex managerial tasks.
-   > **中文**：展现出主动性的员工能够承担更复杂的管理任务。
+2. Can you come up with a better solution for this issue?
+   > **中文**：你能为这个问题想出一个更好的解决方案吗？
 
-3. The project team worked overtime to complete the design before the strict deadline.
-   > **中文**：项目团队加班赶工，以在严格的截止日期前完成设计。
+3. Meeting the tight deadline requires team effort.
+   > **中文**：赶上紧迫的截止日期需要团队努力。
 
-4. If you have any questions regarding the report, please feel free to email me.
-   > **中文**：如果您对报告有任何疑问，请随时给我发电子邮件。
+4. She deserves a promotion after all her hard work.
+   > **中文**：经过所有努力，她值得一次升职。
 
-5. High-performing staff members are more likely to receive annual bonuses and promotions.
-   > **中文**：表现优异的员工更有可能获得年度奖金和晋升。
+5. We are excited to announce our new marketing campaign.
+   > **中文**：我们非常兴奋地宣布我们的新营销活动。
 
-6. After submitting your job application, the next step is a phone interview with HR.
-   > **中文**：提交职位申请后，下一步是与人力资源部门进行电话面试。
+6. The candidate is expected to arrive at nine tomorrow.
+   > **中文**：应聘者预计明天九点到达。
 
-7. Perfect timing is crucial when launching a new product in a competitive market.
-   > **中文**：在竞争激烈的市场中推出新产品时，完美的时机至关重要。
+7. The meeting is scheduled to start in ten minutes.
+   > **中文**：会议预定在十分钟后开始。
 
-8. Clear communication is absolutely essential for remote team members to work efficiently.
-   > **中文**：清晰的沟通对于远程团队成员高效工作来说绝对是必不可少的。
+8. Feel free to contact me if you have any questions.
+   > **中文**：如果您有任何问题，请随时与我联系。
 
-9. The creative designer managed to come up with three distinct branding concepts about could.
-   > **中文**：这位创意设计师成功提出了三个不同的品牌概念。
+9. Let's get started on the presentation right away.
+   > **中文**：我们马上开始准备演示文稿吧。
 
-10. Our team is extremely excited to announce the official release of the software upgrade.
-   > **中文**：我们的团队对于宣布软件升级的正式发布感到非常激动。
+10. This job position offers great flexibility in work hours.
+   > **中文**：这个工作岗位在工作时间上提供了极大的灵活性。
+
+11. He is likely to accept the new job offer.
+   > **中文**：他很可能会接受这份新工作的邀约。
+
+12. What is the next step in our interview process?
+   > **中文**：我们面试流程的下一步是什么？
+
+13. Her educational qualification matches our job requirements perfectly.
+   > **中文**：她的学历资格完全符合我们的职位要求。
+
+14. The timing of the product launch is crucial for success.
+   > **中文**：产品发布的时机对于成功至关重要。
+
+15. This is without a doubt the best choice for our company.
+   > **中文**：毫无疑问，这对我们公司来说是最好的选择。
+
+16. As far as I'm concerned, we should approve this budget.
+   > **中文**：在我看来，我们应该批准这项预算。
+
+17. I am absolutely certain that he will succeed.
+   > **中文**：我绝对确定他会成功。
+
+18. You will be able to master this skill with practice.
+   > **中文**：通过练习，你将能够掌握这项技能。
+
+19. There is a certain level of risk in every investment.
+   > **中文**：每一项投资都存在一定程度的风险。
+
+20. You can submit your resume online anytime.
+   > **中文**：你可以随时在线提交你的简历。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| `a certain` | 某种；一定的 |
+| `absolutely` | 绝对地；完全地 |
+| `as far as I'm concerned` | 就我而言；在我看来 |
+| `be able to` | 能够 |
+| `come up with` | 想出（主意） |
+| `deadline` | 截止日期 |
+| `deserve` | 值得；应得 |
+| `excited to` | 对做……感到兴奋 |
+| `expected to` | 预计做…… |
+| `feel free` | 请随意 |
+| `figure out` | 弄清楚；解决 |
+| `flexibility` | 灵活性 |
+| `get started` | 开始做 |
+| `likely to` | 很可能做…… |
+| `next step` | 下一步 |
+| `qualification` | 资格；资历 |
+| `scheduled to` | 预定做…… |
+| `should` | 应该 |
+| `timing` | 时机；时间安排 |
+| `without a doubt` | 毫无疑问 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ a certain, absolutely, as far as I'm concerned, be able to, can, come up with, c
 
 ### 1
 
-This position requires candidates to possess `____` level of technical expertise.
+We need to figure out how to meet the project ____.
 
-- [x] a certain
+- [x] deadline
+- [ ] a certain
 - [ ] absolutely
-- [ ] come up with
 
-> **解析**：`a certain` 为限定短语，意为“某种；一定程度的”，修饰单数名词或抽象名词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Employees who demonstrate initiative `____` take on more complex managerial tasks.
+____ you come up with a better solution for this issue?
 
-- [x] can
+- [x] Can
+- [ ] a certain
 - [ ] absolutely
-- [ ] could
 
-> **解析**：`can` 情态动词，表示能力或可能性（意为“能够；可以”），后接动词原形。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The project team worked overtime to complete the design before the strict `____`.
+Meeting the tight ____ requires team effort.
 
 - [x] deadline
-- [ ] as far as I'm concerned
-- [ ] could
+- [ ] a certain
+- [ ] absolutely
 
-> **解析**：`deadline` 可数名词，意为“截止日期”。短语 `meet a deadline`（赶上截止日期）/ `miss a deadline`（错过截止日期）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-If you have any questions regarding the report, please `____` to email me.
+She deserves a ____ after all her hard work.
 
-- [x] feel free
-- [ ] be able to
-- [ ] deadline
+- [x] promotion
+- [ ] a certain
+- [ ] absolutely
 
-> **解析**：`feel free to do sth.` 为商务及日常沟通中礼貌邀请的固定表达（意为“请随意做某事；随时做某事”）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-High-performing staff members are more `____` receive annual bonuses and promotions.
+We are excited to announce our new ____ campaign.
 
-- [x] likely to
-- [ ] can
-- [ ] deserve
+- [x] marketing
+- [ ] a certain
+- [ ] absolutely
 
-> **解析**：`be likely to do sth.` 固定搭配，意为“很有可能做某事”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-After submitting your job application, the `____` is a phone interview with HR.
+The ____ is expected to arrive at nine tomorrow.
 
-- [x] next step
-- [ ] come up with
-- [ ] excited to
+- [x] candidate
+- [ ] a certain
+- [ ] absolutely
 
-> **解析**：`next step` 名词短语，意为“下一步骤；下一阶段工作”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Perfect `____` is crucial when launching a new product in a competitive market.
+The meeting is ____ to start in ten minutes.
 
-- [x] timing
-- [ ] could
-- [ ] expected to
+- [x] scheduled
+- [ ] a certain
+- [ ] absolutely
 
-> **解析**：`timing` 不可数名词，意为“时机选择；时间安排”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Clear communication is `____` essential for remote team members to work efficiently.
+Feel free to contact me if you have any ____.
 
-- [x] absolutely
-- [ ] deserve
-- [ ] figure out
+- [x] questions
+- [ ] a certain
+- [ ] absolutely
 
-> **解析**：`absolutely` 副词，意为“绝对地；完全地”，用以增强形容词 `essential` 的修饰语气。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The creative designer managed to `____` three distinct branding concepts about could.
+Let's get started on the ____ right away.
 
-- [x] come up with
-- [ ] excited to
-- [ ] flexibility
+- [x] presentation
+- [ ] a certain
+- [ ] absolutely
 
-> **解析**：`come up with` 为固定及物动词短语，意为“想出；提出（主意、方案等）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Our team is extremely `____` announce the official release of the software upgrade.
+This job position offers great ____ in work hours.
 
-- [x] excited to
-- [ ] expected to
-- [ ] get started
+- [x] flexibility
+- [ ] a certain
+- [ ] absolutely
 
-> **解析**：`be excited to do sth.` 形容词搭配，意为“对做某事感到极其兴奋/激动”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+He is ____ to accept the new job offer.
+
+- [x] likely
+- [ ] a certain
+- [ ] absolutely
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+What is the next step in our ____ process?
+
+- [x] interview
+- [ ] a certain
+- [ ] absolutely
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Her educational ____ matches our job requirements perfectly.
+
+- [x] qualification
+- [ ] a certain
+- [ ] absolutely
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The ____ of the product launch is crucial for success.
+
+- [x] timing
+- [ ] a certain
+- [ ] absolutely
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+This is ____ a doubt the best choice for our company.
+
+- [x] without
+- [ ] a certain
+- [ ] absolutely
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+As far as I'm concerned, we ____ approve this budget.
+
+- [x] should
+- [ ] a certain
+- [ ] absolutely
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+I am ____ certain that he will succeed.
+
+- [x] absolutely
+- [ ] a certain
+- [ ] as far as I'm concerned
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+You ____ be able to master this skill with practice.
+
+- [x] will
+- [ ] a certain
+- [ ] absolutely
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+There is a certain level of risk in every ____.
+
+- [x] investment
+- [ ] a certain
+- [ ] absolutely
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+You ____ submit your resume online anytime.
+
+- [x] can
+- [ ] a certain
+- [ ] absolutely
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

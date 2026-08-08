@@ -79,83 +79,176 @@ i don't buy it（我不信）、there's no way（不可能）、nonsense（胡�
 
 <quiz-sentence-builder>
 
-1. **中文**：坐在露天看台的前排能让你拥有观赏比赛的最佳视野。  
-   **英文**：Sitting in the front row of the bleachers gives you the best view of the game.
-   > **解析**：`bleachers` 是复数名词，意为“（体育场的）露天看台、露天座位”。
+1. **中文**：快点！我们得在露天看台坐满之前找到停车位。  
+   **英文**：Come on! We need to find a parking spot before the bleachers fill up.
+   > **解析**：come on 表示快点；parking spot 表示停车位；bleachers 表示露天看台。
 
-2. **中文**：让我们在中场休息期间去买些零食和饮料吧。  
-   **英文**：Let's go buy some snacks and drinks during the halftime break.
-   > **解析**：`halftime` 是名词，意为“（体育比赛的）中场休息”。
+2. **中文**：我们开赛前在停车场开派对，冷藏箱里装满了饮料。  
+   **英文**：We started tailgating with a cooler full of drinks before the game.
+   > **解析**：tailgating 表示赛前停车场派对；cooler 表示冷藏箱。
 
-3. **中文**：裁判吹响哨子表示技术犯规。  
-   **英文**：The referee blew his whistle to indicate a technical foul.
-   > **解析**：`referee` 是名词，意为“裁判员”。
+3. **中文**：裁判吹响了哨子，并判了一次技术犯规。  
+   **英文**：The referee blew his whistle and called a technical foul.
+   > **解析**：referee 表示裁判；whistle 表示哨子；foul 表示犯规。
 
-4. **中文**：开球前在体育场停车场进行车尾派对是球迷的传统。  
-   **英文**：Tailgating in the stadium parking lot before kickoff is a fan tradition.
-   > **解析**：`tailgating` 在体育语境中指“在车尾箱旁露天聚会喝饮品吃烧烤的球迷活动”。
+4. **中文**：我不信！裁判绝对不可能吹那个犯规。  
+   **英文**：I don't buy it! There's no way the referee called that foul.
+   > **解析**：I don't buy it 表示我不信；there's no way 表示不可能；foul 表示犯规。
 
-5. **中文**：关键在于低区座位的视野清晰得多。  
-   **英文**：The point is that the lower section seats offer much clearer visibility.
-   > **解析**：`the point is that...` 是阐述关键论点的常用句型。
+5. **中文**：球员们在第四节穿上了特制的纪念球衣。  
+   **英文**：The players wore special jerseys in the fourth quarter.
+   > **解析**：jersey 表示球衣；quarter 表示节（比赛阶段）。
 
-6. **中文**：如果我们不早点到的话，绝不可能买到好票。  
-   **英文**：There's no way we can get good tickets if we don't arrive early.
-   > **解析**：`there's no way (that)...` 是强调“绝对不可能”的口语句型。
+6. **中文**：可爱的团队吉祥物在中场休息时在球场上表演。  
+   **英文**：The cute team mascot performed on the field during halftime.
+   > **解析**：mascot 表示吉祥物；halftime 表示中场休息。
 
-7. **中文**：那只巨大的狮子吉祥物通过在场地上跳舞来逗乐孩子们。  
-   **英文**：The giant lion mascot entertained the kids by dancing on the field.
-   > **解析**：`mascot` 是名词，意为“吉祥物”。
+7. **中文**：关键是，我们必须赢得这场季后赛才能晋级。  
+   **英文**：The point is, we need to win this playoff game to move forward.
+   > **解析**：the point is 表示关键是；playoff 表示季后赛。
 
-8. **中文**：冠军季后赛的门票在五分钟内就被售罄了。  
-   **英文**：Tickets for the championship playoff game sold out within five minutes.
-   > **解析**：`playoff` 是名词，意为“季后赛、决胜赛”。
+8. **中文**：原本的想法是在第二节结束前领先十分。  
+   **英文**：The idea was that we would lead by ten points before the second quarter.
+   > **解析**：the idea was that 表示原本的想法是；quarter 表示节。
 
-9. **中文**：他说那个座位有人坐了，但我才不信呢。  
-   **英文**：He says the seat is occupied, but I don't buy it about call.
-   > **解析**：`I don't buy it` 是地道口语，意为“我不相信/我才不买账呢”。
+9. **中文**：这会儿，球场外面的露天看台应该已经坐满了球迷。  
+   **英文**：By now, the bleachers outside should be packed with cheering fans.
+   > **解析**：by now 表示到现在；bleachers 表示露天看台。
 
-10. **中文**：别忘了带上装满冷饮的冰酷箱。  
-   **英文**：Don't forget to bring the ice cooler filled with cold beverages.
-   > **解析**：`cooler` 是名词，意为“冰盒、便携冷藏箱”。
+10. **中文**：那简直是胡说！我们的队伍根本没有故意犯规。  
+   **英文**：That's complete nonsense! Our team didn't commit a foul on purpose.
+   > **解析**：nonsense 表示胡说；foul 表示犯规。
+
+11. **中文**：绝不可能！他们不可能在最后几秒钟逆转比分。  
+   **英文**：There's no way they can turn the game around in the last few seconds.
+   > **解析**：there's no way 表示不可能。
+
+12. **中文**：不完全是那样；这只是一场普通的季前赛而非季后赛。  
+   **英文**：Not exactly; this is just a regular game, not a playoff match.
+   > **解析**：not exactly 表示不完全是那样；playoff 表示季后赛。
+
+13. **中文**：我看中场休息时的舞蹈表演和去年完全一样。  
+   **英文**：The halftime dance show looks just the same as last year's.
+   > **解析**：halftime 表示中场休息；the same 表示一样。
+
+14. **中文**：裁判再次吹起哨子，叫停了场上的激烈争执。  
+   **英文**：The referee blew the whistle again to stop the fight on the field.
+   > **解析**：whistle 表示哨子；referee 表示裁判。
+
+15. **中文**：他在体育馆附近找了一个非常方便的停车位。  
+   **英文**：He found a convenient parking spot right near the stadium entrance.
+   > **解析**：parking spot 表示停车位。
+
+16. **中文**：得了吧！不要再因为裁判的判罚而抱怨了。  
+   **英文**：Come on! Stop complaining about the referee's tough call.
+   > **解析**：come on 表示得了吧/快点；referee 表示裁判。
+
+17. **中文**：我们在冷藏箱里装了冷饮，带到了露天看台。  
+   **英文**：We carried a cooler of cold drinks up to the bleachers.
+   > **解析**：cooler 表示冷藏箱；bleachers 表示露天看台。
+
+18. **中文**：吉祥物穿着10号球衣在球场边缘为球队加油。  
+   **英文**：The mascot wore jersey number ten and cheered on the sidelines.
+   > **解析**：mascot 表示吉祥物；jersey 表示球衣。
+
+19. **中文**：裁判在第三节比赛中做出了几次关键的犯规判罚。  
+   **英文**：The referee made several key foul calls during the third quarter.
+   > **解析**：foul 表示犯规；quarter 表示节。
+
+20. **中文**：赛前在停车场开派对是这项体育运动的标志性传统。  
+   **英文**：Tailgating before the match is a signature tradition for this sport.
+   > **解析**：tailgating 表示赛前停车场派对。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Sitting in the front row of the bleachers gives you the best view of the game.
-   > **中文**：坐在露天看台的前排能让你拥有观赏比赛的最佳视野。
+1. Come on! We need to find a parking spot before the bleachers fill up.
+   > **中文**：快点！我们得在露天看台坐满之前找到停车位。
 
-2. Let's go buy some snacks and drinks during the halftime break.
-   > **中文**：让我们在中场休息期间去买些零食和饮料吧。
+2. We started tailgating with a cooler full of drinks before the game.
+   > **中文**：我们开赛前在停车场开派对，冷藏箱里装满了饮料。
 
-3. The referee blew his whistle to indicate a technical foul.
-   > **中文**：裁判吹响哨子表示技术犯规。
+3. The referee blew his whistle and called a technical foul.
+   > **中文**：裁判吹响了哨子，并判了一次技术犯规。
 
-4. Tailgating in the stadium parking lot before kickoff is a fan tradition.
-   > **中文**：开球前在体育场停车场进行车尾派对是球迷的传统。
+4. I don't buy it! There's no way the referee called that foul.
+   > **中文**：我不信！裁判绝对不可能吹那个犯规。
 
-5. The point is that the lower section seats offer much clearer visibility.
-   > **中文**：关键在于低区座位的视野清晰得多。
+5. The players wore special jerseys in the fourth quarter.
+   > **中文**：球员们在第四节穿上了特制的纪念球衣。
 
-6. There's no way we can get good tickets if we don't arrive early.
-   > **中文**：如果我们不早点到的话，绝不可能买到好票。
+6. The cute team mascot performed on the field during halftime.
+   > **中文**：可爱的团队吉祥物在中场休息时在球场上表演。
 
-7. The giant lion mascot entertained the kids by dancing on the field.
-   > **中文**：那只巨大的狮子吉祥物通过在场地上跳舞来逗乐孩子们。
+7. The point is, we need to win this playoff game to move forward.
+   > **中文**：关键是，我们必须赢得这场季后赛才能晋级。
 
-8. Tickets for the championship playoff game sold out within five minutes.
-   > **中文**：冠军季后赛的门票在五分钟内就被售罄了。
+8. The idea was that we would lead by ten points before the second quarter.
+   > **中文**：原本的想法是在第二节结束前领先十分。
 
-9. He says the seat is occupied, but I don't buy it about call.
-   > **中文**：他说那个座位有人坐了，但我才不信呢。
+9. By now, the bleachers outside should be packed with cheering fans.
+   > **中文**：这会儿，球场外面的露天看台应该已经坐满了球迷。
 
-10. Don't forget to bring the ice cooler filled with cold beverages.
-   > **中文**：别忘了带上装满冷饮的冰酷箱。
+10. That's complete nonsense! Our team didn't commit a foul on purpose.
+   > **中文**：那简直是胡说！我们的队伍根本没有故意犯规。
+
+11. There's no way they can turn the game around in the last few seconds.
+   > **中文**：绝不可能！他们不可能在最后几秒钟逆转比分。
+
+12. Not exactly; this is just a regular game, not a playoff match.
+   > **中文**：不完全是那样；这只是一场普通的季前赛而非季后赛。
+
+13. The halftime dance show looks just the same as last year's.
+   > **中文**：我看中场休息时的舞蹈表演和去年完全一样。
+
+14. The referee blew the whistle again to stop the fight on the field.
+   > **中文**：裁判再次吹起哨子，叫停了场上的激烈争执。
+
+15. He found a convenient parking spot right near the stadium entrance.
+   > **中文**：他在体育馆附近找了一个非常方便的停车位。
+
+16. Come on! Stop complaining about the referee's tough call.
+   > **中文**：得了吧！不要再因为裁判的判罚而抱怨了。
+
+17. We carried a cooler of cold drinks up to the bleachers.
+   > **中文**：我们在冷藏箱里装了冷饮，带到了露天看台。
+
+18. The mascot wore jersey number ten and cheered on the sidelines.
+   > **中文**：吉祥物穿着10号球衣在球场边缘为球队加油。
+
+19. The referee made several key foul calls during the third quarter.
+   > **中文**：裁判在第三节比赛中做出了几次关键的犯规判罚。
+
+20. Tailgating before the match is a signature tradition for this sport.
+   > **中文**：赛前在停车场开派对是这项体育运动的标志性传统。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| bleachers | 露天看台 |
+| referee | 裁判 |
+| foul | 犯规 |
+| whistle | 哨子 |
+| halftime | 中场休息 |
+| playoff | 季后赛 |
+| quarter | 节（比赛阶段） |
+| jersey | 球衣 |
+| mascot | 吉祥物 |
+| cooler | 冷藏箱 |
+| tailgating | 赛前停车场派对 |
+| parking spot | 停车位 |
+| nonsense | 胡说 |
+| i don't buy it | 我不信 |
+| there's no way | 不可能 |
+| not exactly | 不完全是 |
+| the point is | 关键是 |
+| the idea was that | 原本的想法是 |
+| by now | 到现在 |
+| come on | 快点；得了吧 |
 
 </quiz-matching>
 
@@ -163,102 +256,202 @@ i don't buy it（我不信）、there's no way（不可能）、nonsense（胡�
 
 ### 1
 
-Sitting in the front row of the `____` gives you the best view of the game.
+Come on! We need to find a parking spot before the ____ fill up.
 
 - [x] bleachers
 - [ ] by now
-- [ ] foul
+- [ ] call
 
-> **解析**：`bleachers` 是复数名词，意为“（体育场的）露天看台、露天座位”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Let's go buy some snacks and drinks during the `____` break.
+We started ____ with a cooler full of drinks before the game.
 
-- [x] halftime
+- [x] tailgating
+- [ ] bleachers
 - [ ] by now
-- [ ] foul
 
-> **解析**：`halftime` 是名词，意为“（体育比赛的）中场休息”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The referee blew his whistle to indicate a technical `____`.
+The ____ blew his whistle and called a technical foul.
 
-- [x] foul
-- [ ] call
-- [ ] i don't buy it
+- [x] referee
+- [ ] bleachers
+- [ ] by now
 
-> **解析**：`referee` 是名词，意为“裁判员”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Tailgating in the stadium parking lot before kickoff is a fan trad`____`ion.
+I don't buy ____! There's no way the referee called that foul.
 
 - [x] it
-- [ ] come on
-- [ ] i don't buy it
+- [ ] bleachers
+- [ ] by now
 
-> **解析**：`tailgating` 在体育语境中指“在车尾箱旁露天聚会喝饮品吃烧烤的球迷活动”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-`____` that the lower section seats offer much clearer visibility.
+The players wore special jerseys in the fourth ____.
 
-- [x] the point is
-- [ ] cooler
-- [ ] it
+- [x] quarter
+- [ ] bleachers
+- [ ] by now
 
-> **解析**：`the point is that...` 是阐述关键论点的常用句型。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-`____` we can get good tickets if we don't arrive early.
+The cute team ____ performed on the field during halftime.
 
-- [x] there's no way
-- [ ] foul
-- [ ] jersey
+- [x] mascot
+- [ ] bleachers
+- [ ] by now
 
-> **解析**：`there's no way (that)...` 是强调“绝对不可能”的口语句型。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The giant lion `____` entertained the kids by dancing on the field.
+The point is, we need to win this ____ game to move forward.
 
-- [x] mascot
-- [ ] halftime
-- [ ] nonsense
+- [x] playoff
+- [ ] bleachers
+- [ ] by now
 
-> **解析**：`mascot` 是名词，意为“吉祥物”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Tickets for the championship `____` game sold out within five minutes.
+The idea was that we would lead by ten points before the second ____.
 
-- [x] playoff
-- [ ] i don't buy it
-- [ ] nonsense
+- [x] quarter
+- [ ] bleachers
+- [ ] by now
 
-> **解析**：`playoff` 是名词，意为“季后赛、决胜赛”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-He says the seat is occupied, but I don't buy it about `____`.
+By now, the ____ outside should be packed with cheering fans.
 
-- [x] call
-- [ ] jersey
-- [ ] parking spot
+- [x] bleachers
+- [ ] by now
+- [ ] call
 
-> **解析**：`I don't buy it` 是地道口语，意为“我不相信/我才不买账呢”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Don't forget to bring the ice `____` filled with cold beverages.
+That's complete ____! Our team didn't commit a foul on purpose.
+
+- [x] nonsense
+- [ ] bleachers
+- [ ] by now
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+____ no way they can turn the game around in the last few seconds.
+
+- [x] There's
+- [ ] bleachers
+- [ ] by now
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Not exactly; this is just a regular game, not a ____ match.
+
+- [x] playoff
+- [ ] bleachers
+- [ ] by now
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The ____ dance show looks just the same as last year's.
+
+- [x] halftime
+- [ ] bleachers
+- [ ] by now
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The ____ blew the whistle again to stop the fight on the field.
+
+- [x] referee
+- [ ] bleachers
+- [ ] by now
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+He found a ____ parking spot right near the stadium entrance.
+
+- [x] convenient
+- [ ] bleachers
+- [ ] by now
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Come on! Stop complaining about the referee's tough ____.
+
+- [x] call
+- [ ] bleachers
+- [ ] by now
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+We carried a ____ of cold drinks up to the bleachers.
 
 - [x] cooler
-- [ ] mascot
-- [ ] playoff
+- [ ] bleachers
+- [ ] by now
 
-> **解析**：`cooler` 是名词，意为“冰盒、便携冷藏箱”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+The ____ wore jersey number ten and cheered on the sidelines.
+
+- [x] mascot
+- [ ] bleachers
+- [ ] by now
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The ____ made several key foul calls during the third quarter.
+
+- [x] referee
+- [ ] bleachers
+- [ ] by now
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+____ before the match is a signature tradition for this sport.
+
+- [x] Tailgating
+- [ ] bleachers
+- [ ] by now
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

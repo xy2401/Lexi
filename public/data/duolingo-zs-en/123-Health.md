@@ -61,83 +61,176 @@ have got 表示"有"（口语）。has got / have got 的区别在于主语单�
 
 <quiz-sentence-builder>
 
-1. **中文**：医生测量了我的体温，确认我发烧烧得很高。  
-   **英文**：The doctor measured my temperature and confirmed that I had a high fever.
-   > **解析**：fever 为名词，意为“发烧、发热”。搭配动词 have / run a fever（发烧）。have a high fever 表示“发高烧”。
+1. **中文**：幸运的是，他在诊所看病后拿到了药方。  
+   **英文**：Fortunately, he got a prescription after visiting the clinic.
+   > **解析**：fortunately 表示“幸运地”；prescription 表示“处方/药方”；clinic 表示“诊所”。
 
-2. **中文**：药剂师核对了医生的处方后把药品递给了我。  
-   **英文**：The pharmacist handed me the medication after checking the doctor's prescription.
-   > **解析**：prescription 为名词，意为“处方、药方”。由动词 prescribe 派生而来。a doctor's prescription 表示“医生开具的处方”。
+2. **中文**：这位病人发着高烧，喉咙和肘部都很痛。  
+   **英文**：The patient had a high fever and a sore throat and elbow.
+   > **解析**：fever 表示“发烧”；sore 表示“酸痛的”；throat 表示“喉咙”；elbow 表示“肘部”。
 
-3. **中文**：我今天喉咙痛，几乎咽不下任何干燥的食物。  
-   **英文**：I have a sore throat and can hardly swallow any dry food today.
-   > **解析**：sore 为形容词，意为“酸痛的、疼痛的”。常用结构为 have a sore + 身体部位（如 sore throat 喉咙痛, sore muscle 肌肉酸痛）。
+3. **中文**：她的体温高达40度，需要多休息。  
+   **英文**：Her body temperature reached 40 degrees, requiring rest.
+   > **解析**：temperature 表示“体温/温度”；degree 表示“度/度数”；rest 表示“休息”。
 
-4. **中文**：你可以在拐角处的药房取你的止咳糖浆。  
-   **英文**：You can pick up your cough syrup at the pharmacy around the corner.
-   > **解析**：pharmacy 为名词，意为“药房、药店”（美式常与 drugstore 通用）。pick up 在此处表示“提取/购买”。
+4. **中文**：由于剧烈咳嗽和流血，他感到筋疲力尽。  
+   **英文**：Due to a bad cough and bleeding, he felt exhausted.
+   > **解析**：cough 表示“咳嗽”；bleed 表示“流血”；exhausted 表示“筋疲力尽的”。
 
-5. **中文**：在连续上了三个夜班之后，这位护士感觉筋疲力尽。  
-   **英文**：After working three night shifts in a row, the nurse felt completely exhausted.
-   > **解析**：exhausted 为形容词，意为“筋疲力尽的”。修饰人，表示极度疲惫（比 tired 程度更深）。修饰语可以用 completely / totally。
+5. **中文**：请遵医嘱，并去药房拿阿司匹林。  
+   **英文**：Please follow doctor's advice and get aspirin at the pharmacy.
+   > **解析**：follow 表示“遵照/跟随”；aspirin 表示“阿司匹林”；pharmacy 表示“药房/药店”。
 
-6. **中文**：如果你的症状到明天还没有好转，你应该去社区诊所看医生。  
-   **英文**：If your symptoms do not improve by tomorrow, you should visit the community clinic.
-   > **解析**：clinic 为名词，意为“诊所、门诊部”。比 hospital 规模小，通常提供日常基础诊疗服务。
+6. **中文**：请拿一张纸巾擦拭你流血的手肘。  
+   **英文**：Please take a tissue to wipe your bleeding elbow.
+   > **解析**：tissue 表示“纸巾/面巾纸”；elbow 表示“肘部”；bleed 表示“流血”。
 
-7. **中文**：吃一片阿司匹林半小时内就帮她缓解了严重的头痛。  
-   **英文**：Taking an aspirin helped relieve her severe headache within half an hour.
-   > **解析**：aspirin 为名词，意为“阿司匹林（止痛退烧药）”。take an aspirin 表示“服用一片阿司匹林”。
+7. **中文**：他得了严重感冒，有一阵剧烈的咳嗽和头痛。  
+   **英文**：He got a severe cold with a bad cough and headache.
+   > **解析**：cough 表示“咳嗽”；has got / have got 表示“患有/有”。
 
-8. **中文**：他喝了温蜂蜜水来缓解持续的干咳。  
-   **英文**：He drank warm honey water to soothe his persistent dry cough about badly.
-   > **解析**：cough 在此处用作名词，意为“咳嗽”。dry cough 指“干咳”。cough 也可以作动词（如 He is coughing）。
+8. **中文**：幸运的是，做完检查后他的脚伤得并不严重。  
+   **英文**：Fortunately, his foot was not badly hurt after examination.
+   > **解析**：fortunately 表示“幸运地”；badly hurt 表示“受重伤”。
 
-9. **中文**：幸运的是，检查结果显示没有严重的感染。  
-   **英文**：Fortunately, the medical test results showed that there was no serious infection.
-   > **解析**：fortunately 为副词，置于句首作为句子状语，意为“幸运地、好在”。其反义词为 unfortunately（不幸地）。
+9. **中文**：他手头有一包阿司匹林来缓解发烧。  
+   **英文**：He has got a pack of aspirin to treat his fever.
+   > **解析**：has got 表示“有/患有”；aspirin 表示“阿司匹林”。
 
-10. **中文**：用干净的纸巾压住小伤口以防止它流血。  
-   **英文**：Press a clean paper towel on the small cut to stop it from bleeding.
-   > **解析**：bleed 为动词，意为“流血”。过去式和过去分词为 bled。stop sth. from bleeding 表示“阻止……流血”。
+10. **中文**：你必须遵照这些健康指导来保护心脏。  
+   **英文**：You must follow these health tips to protect your heart.
+   > **解析**：follow 表示“遵守/遵照”。
+
+11. **中文**：去药房憑处方取药是非常正规的。  
+   **英文**：It is standard to get medicine with a prescription at a pharmacy.
+   > **解析**：prescription 表示“处方/药方”。
+
+12. **中文**：咳嗽和喉咙痛是感冒的常见症状。  
+   **英文**：Coughing and a sore throat are common symptoms of cold.
+   > **解析**：sore throat 表示“喉咙痛”。
+
+13. **中文**：护士测量了他的体温，发现他在发烧。  
+   **英文**：The nurse took his temperature and found he had a fever.
+   > **解析**：temperature 表示“体温”；fever 表示“发烧”。
+
+14. **中文**：在经历了一整天的忙碌后，他感到精疲力竭。  
+   **英文**：After a long busy day at work, he felt completely exhausted.
+   > **解析**：exhausted 表示“精疲力竭的”。
+
+15. **中文**：这间小诊所每天为数十名病人提供医疗服务。  
+   **英文**：This small clinic serves dozens of patients daily.
+   > **解析**：clinic 表示“诊所”。
+
+16. **中文**：请递给我一张纸巾来擦鼻涕。  
+   **英文**：Please hand me a tissue to blow my nose.
+   > **解析**：tissue 表示“纸巾”。
+
+17. **中文**：伤口在流血，护士立刻用纱布包扎。  
+   **英文**：The cut was starting to bleed, so the nurse bandaged it.
+   > **解析**：bleed 表示“流血/出血”。
+
+18. **中文**：我的右肘部在打羽毛球时弄伤了。  
+   **英文**：My right elbow got hurt while playing badminton.
+   > **解析**：elbow 表示“肘部/肘关节”。
+
+19. **中文**：医生建议他卧床休息三天以恢复体力。  
+   **英文**：The doctor advised him to rest in bed for three days.
+   > **解析**：rest 表示“休息”。
+
+20. **中文**：今天的气温升高了几度。  
+   **英文**：Today's temperature rose by several degrees.
+   > **解析**：degree 表示“度/度数”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The doctor measured my temperature and confirmed that I had a high fever.
-   > **中文**：医生测量了我的体温，确认我发烧烧得很高。
+1. Fortunately, he got a prescription after visiting the clinic.
+   > **中文**：幸运的是，他在诊所看病后拿到了药方。
 
-2. The pharmacist handed me the medication after checking the doctor's prescription.
-   > **中文**：药剂师核对了医生的处方后把药品递给了我。
+2. The patient had a high fever and a sore throat and elbow.
+   > **中文**：这位病人发着高烧，喉咙和肘部都很痛。
 
-3. I have a sore throat and can hardly swallow any dry food today.
-   > **中文**：我今天喉咙痛，几乎咽不下任何干燥的食物。
+3. Her body temperature reached 40 degrees, requiring rest.
+   > **中文**：她的体温高达40度，需要多休息。
 
-4. You can pick up your cough syrup at the pharmacy around the corner.
-   > **中文**：你可以在拐角处的药房取你的止咳糖浆。
+4. Due to a bad cough and bleeding, he felt exhausted.
+   > **中文**：由于剧烈咳嗽和流血，他感到筋疲力尽。
 
-5. After working three night shifts in a row, the nurse felt completely exhausted.
-   > **中文**：在连续上了三个夜班之后，这位护士感觉筋疲力尽。
+5. Please follow doctor's advice and get aspirin at the pharmacy.
+   > **中文**：请遵医嘱，并去药房拿阿司匹林。
 
-6. If your symptoms do not improve by tomorrow, you should visit the community clinic.
-   > **中文**：如果你的症状到明天还没有好转，你应该去社区诊所看医生。
+6. Please take a tissue to wipe your bleeding elbow.
+   > **中文**：请拿一张纸巾擦拭你流血的手肘。
 
-7. Taking an aspirin helped relieve her severe headache within half an hour.
-   > **中文**：吃一片阿司匹林半小时内就帮她缓解了严重的头痛。
+7. He got a severe cold with a bad cough and headache.
+   > **中文**：他得了严重感冒，有一阵剧烈的咳嗽和头痛。
 
-8. He drank warm honey water to soothe his persistent dry cough about badly.
-   > **中文**：他喝了温蜂蜜水来缓解持续的干咳。
+8. Fortunately, his foot was not badly hurt after examination.
+   > **中文**：幸运的是，做完检查后他的脚伤得并不严重。
 
-9. Fortunately, the medical test results showed that there was no serious infection.
-   > **中文**：幸运的是，检查结果显示没有严重的感染。
+9. He has got a pack of aspirin to treat his fever.
+   > **中文**：他手头有一包阿司匹林来缓解发烧。
 
-10. Press a clean paper towel on the small cut to stop it from bleeding.
-   > **中文**：用干净的纸巾压住小伤口以防止它流血。
+10. You must follow these health tips to protect your heart.
+   > **中文**：你必须遵照这些健康指导来保护心脏。
+
+11. It is standard to get medicine with a prescription at a pharmacy.
+   > **中文**：去药房憑处方取药是非常正规的。
+
+12. Coughing and a sore throat are common symptoms of cold.
+   > **中文**：咳嗽和喉咙痛是感冒的常见症状。
+
+13. The nurse took his temperature and found he had a fever.
+   > **中文**：护士测量了他的体温，发现他在发烧。
+
+14. After a long busy day at work, he felt completely exhausted.
+   > **中文**：在经历了一整天的忙碌后，他感到精疲力竭。
+
+15. This small clinic serves dozens of patients daily.
+   > **中文**：这间小诊所每天为数十名病人提供医疗服务。
+
+16. Please hand me a tissue to blow my nose.
+   > **中文**：请递给我一张纸巾来擦鼻涕。
+
+17. The cut was starting to bleed, so the nurse bandaged it.
+   > **中文**：伤口在流血，护士立刻用纱布包扎。
+
+18. My right elbow got hurt while playing badminton.
+   > **中文**：我的右肘部在打羽毛球时弄伤了。
+
+19. The doctor advised him to rest in bed for three days.
+   > **中文**：医生建议他卧床休息三天以恢复体力。
+
+20. Today's temperature rose by several degrees.
+   > **中文**：今天的气温升高了几度。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| aspirin | 阿司匹林 |
+| badly | 严重地 |
+| bleed | 流血 |
+| clinic | 诊所 |
+| cough | 咳嗽 |
+| degree | 度 / 度数 |
+| elbow | 肘部 |
+| exhausted | 筋疲力尽的 |
+| fever | 发烧 |
+| follow | 遵照 / 遵循 |
+| fortunately | 幸运地 |
+| has got | 有 / 患有 |
+| have got | 有 / 患有 |
+| hurt | 受伤 / 疼痛 |
+| pharmacy | 药房 / 药店 |
+| prescription | 处方 / 药方 |
+| rest | 休息 |
+| sore | 酸痛的 |
+| temperature | 体温 / 温度 |
+| tissue | 纸巾 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ have got 表示"有"（口语）。has got / have got 的区别在于主语单�
 
 ### 1
 
-The `____`ctor measured my temperature and confirmed that I had a high fever.
+____, he got a prescription after visiting the clinic.
 
-- [x] do
+- [x] Fortunately
 - [ ] aspirin
-- [ ] cough
+- [ ] badly
 
-> **解析**：fever 为名词，意为“发烧、发热”。搭配动词 have / run a fever（发烧）。have a high fever 表示“发高烧”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The pharmacist handed me the medication after checking the doctor's `____`.
+The patient had a high ____ and a sore throat and elbow.
 
-- [x] prescription
+- [x] fever
+- [ ] aspirin
 - [ ] badly
-- [ ] degree
 
-> **解析**：prescription 为名词，意为“处方、药方”。由动词 prescribe 派生而来。a doctor's prescription 表示“医生开具的处方”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-I have a `____` throat and can hardly swallow any dry food today.
+Her body ____ reached 40 degrees, requiring rest.
 
-- [x] sore
-- [ ] bleed
-- [ ] do
+- [x] temperature
+- [ ] aspirin
+- [ ] badly
 
-> **解析**：sore 为形容词，意为“酸痛的、疼痛的”。常用结构为 have a sore + 身体部位（如 sore throat 喉咙痛, sore muscle 肌肉酸痛）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-You can pick up your `____` syrup at the pharmacy around the corner.
+Due to a bad ____ and bleeding, he felt exhausted.
 
 - [x] cough
-- [ ] clinic
-- [ ] doesn't
+- [ ] aspirin
+- [ ] badly
 
-> **解析**：pharmacy 为名词，意为“药房、药店”（美式常与 drugstore 通用）。pick up 在此处表示“提取/购买”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-After working three night shifts in a row, the nurse felt completely `____`.
+Please ____ doctor's advice and get aspirin at the pharmacy.
 
-- [x] exhausted
-- [ ] cough
-- [ ] doesn't
+- [x] follow
+- [ ] aspirin
+- [ ] badly
 
-> **解析**：exhausted 为形容词，意为“筋疲力尽的”。修饰人，表示极度疲惫（比 tired 程度更深）。修饰语可以用 completely / totally。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-If your symptoms do not improve by tomorrow, you should visit the community `____`.
+Please take a ____ to wipe your bleeding elbow.
 
-- [x] clinic
-- [ ] do
-- [ ] elbow
+- [x] tissue
+- [ ] aspirin
+- [ ] badly
 
-> **解析**：clinic 为名词，意为“诊所、门诊部”。比 hospital 规模小，通常提供日常基础诊疗服务。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Taking an `____` helped relieve her severe headache within half an hour.
+He got a severe cold with a bad ____ and headache.
 
-- [x] aspirin
-- [ ] does
-- [ ] exhausted
+- [x] cough
+- [ ] aspirin
+- [ ] badly
 
-> **解析**：aspirin 为名词，意为“阿司匹林（止痛退烧药）”。take an aspirin 表示“服用一片阿司匹林”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-He drank warm honey water to soothe his persistent dry cough about `____`.
+____, his foot was not badly hurt after examination.
 
-- [x] badly
-- [ ] doesn't
-- [ ] fever
+- [x] Fortunately
+- [ ] aspirin
+- [ ] badly
 
-> **解析**：cough 在此处用作名词，意为“咳嗽”。dry cough 指“干咳”。cough 也可以作动词（如 He is coughing）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-`____`, the medical test results showed that there was no serious infection.
+He has got a pack of ____ to treat his fever.
 
-- [x] fortunately
-- [ ] doesn't
-- [ ] fever
+- [x] aspirin
+- [ ] badly
+- [ ] bleed
 
-> **解析**：fortunately 为副词，置于句首作为句子状语，意为“幸运地、好在”。其反义词为 unfortunately（不幸地）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Press a clean paper towel on the small cut to stop it from `____`ing.
+You must ____ these health tips to protect your heart.
+
+- [x] follow
+- [ ] aspirin
+- [ ] badly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+It is standard to get medicine with a ____ at a pharmacy.
+
+- [x] prescription
+- [ ] aspirin
+- [ ] badly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Coughing and a ____ throat are common symptoms of cold.
+
+- [x] sore
+- [ ] aspirin
+- [ ] badly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The nurse took his ____ and found he had a fever.
+
+- [x] temperature
+- [ ] aspirin
+- [ ] badly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+After a long busy day at work, he felt completely ____.
+
+- [x] exhausted
+- [ ] aspirin
+- [ ] badly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+This small ____ serves dozens of patients daily.
+
+- [x] clinic
+- [ ] aspirin
+- [ ] badly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Please hand me a ____ to blow my nose.
+
+- [x] tissue
+- [ ] aspirin
+- [ ] badly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The cut was starting to ____, so the nurse bandaged it.
 
 - [x] bleed
-- [ ] elbow
-- [ ] fortunately
+- [ ] aspirin
+- [ ] badly
 
-> **解析**：bleed 为动词，意为“流血”。过去式和过去分词为 bled。stop sth. from bleeding 表示“阻止……流血”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+My right ____ got hurt while playing badminton.
+
+- [x] elbow
+- [ ] aspirin
+- [ ] badly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The doctor advised him to ____ in bed for three days.
+
+- [x] rest
+- [ ] aspirin
+- [ ] badly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Today's ____ rose by several degrees.
+
+- [x] temperature
+- [ ] aspirin
+- [ ] badly
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

@@ -61,83 +61,176 @@ didn't use to 表示"过去不"。sweep → swept（扫）。
 
 <quiz-sentence-builder>
 
-1. **中文**：我祖父母年轻的时候过去常常没有空调。  
-   **英文**：My grandparents didn't use to have air conditioning when they were young.
-   > **解析**：didn't use to 为 used to 的否定表达，后接动词原形（have），表示“过去习惯不……/以前不曾……”。
+1. **中文**：一位会计师在室内算税，他的任务很繁重。  
+   **英文**：An accountant calculated tax indoors for his assignment.
+   > **解析**：accountant 表示“会计师”；tax 表示“税/税款”；indoors 表示“在室内”；assignment 表示“任务/作业”。
 
-2. **中文**：几十年前的孩子们周末下午大部分时间都在室外玩耍。  
-   **英文**：Children decades ago spent most of their weekend afternoon playing outdoors.
-   > **解析**：outdoors 为副词，意为“在室外、在户外的自然环境中”。修饰动词 playing。反义词为 indoors。
+2. **中文**：过去人们从不习惯在户外用扫帚扫清玉米地。  
+   **英文**：People never used to sweep corn outdoors with a broom.
+   > **解析**：never used to 表示“过去从不”；sweep 表示“打扫/清扫”；corn 表示“玉米”；outdoors 表示“在户外”。
 
-3. **中文**：在下雨天，我们不得不待在室内一起打扑克牌。  
-   **英文**：On rainy days, we had to stay indoors and play card games together.
-   > **解析**：indoors 为副词，意为“在室内、在屋里”。stay indoors 表示“待在室内”。
+3. **中文**：蜘蛛在溪流旁的岩石间清扫并织出了一张蛛网。  
+   **英文**：A spider swept and built a web between rocks near the stream.
+   > **解析**：swept 是 sweep 的过去式；web 表示“蛛网/网”；stream 表示“小溪”；rock 表示“岩石”。
 
-4. **中文**：我们过去常在我们村子后面的清澈淡水小溪里抓小鱼。  
-   **英文**：We used to catch small fish in the clear freshwater stream behind our village.
-   > **解析**：stream 为名词，意为“小溪、溪流”。freshwater stream 表示“淡水溪流”。
+4. **中文**：然而，比起在法庭工作，他更喜欢飞往各地探索宗教。  
+   **英文**：However, he preferred to fly and explore religion.
+   > **解析**：however 表示“然而/但是”；fly 表示“飞/飞行”；religion 表示“宗教”。
 
-5. **中文**：清晨，我爷爷很早醒来观看日出。  
-   **英文**：Early in the morning, my grandfather woke up early to watch the sunrise.
-   > **解析**：sunrise 为名词，意为“日出”。watch the sunrise 意为“看日出”。反义词为 sunset（日落）。
+5. **中文**：你懂得如何用这本封面厚几英寸的书吗？  
+   **英文**：Do you know how to cover this book a few inches thick?
+   > **解析**：know how to 表示“懂得如何……”；cover 表示“覆盖/封面”；inch / inches 表示“英寸”。
 
-6. **中文**：过去的年轻人确实知道如何修理自己的自行车。  
-   **英文**：Young people in the past did know how to repair their own bicycles.
-   > **解析**：know how to do sth. 为固定表达，意为“知道如何做某事、掌握某种技能”。
+6. **中文**：我们过去不习惯在日出时分去清扫外面的泥地。  
+   **英文**：We didn't use to sweep the yard at sunrise.
+   > **解析**：didn't use to 表示“过去不习惯/过去未曾”；sunrise 表示“日出”。
 
-7. **中文**：与今天相比，五十年前道路上的汽车要少得多。  
-   **英文**：There were fewer cars on the roads fifty years ago compared to today.
-   > **解析**：fewer 为 few 的比较级，后接可数名词复数（cars），意为“更少的”。比较级句式常与 compared to 或 than 连用。
+7. **中文**：那块几英寸宽的石头落在溪流中央。  
+   **英文**：That rock a few inches wide dropped in the stream.
+   > **解析**：rock 表示“石头/岩石”；stream 表示“小溪”。
 
-8. **中文**：过去学生们必须用墨水笔手写完成每天的家庭作业任务。  
-   **英文**：Students had to write their daily homework assignments by hand using ink pens.
-   > **解析**：assignment 为名词，意为“作业、分配的任务”。by hand 表示“手写”。
+8. **中文**：少一些家庭功课，多一些户外运动对健康有益。  
+   **英文**：Fewer homework assignments and more outdoors time help.
+   > **解析**：fewer 表示“更少的”（修饰可数名词）；outdoors 表示“在户外”。
 
-9. **中文**：在电子计算机出现之前，我父亲担任首席会计师。  
-   **英文**：Before electronic computers existed, my father worked as a chief accountant.
-   > **解析**：accountant 为名词，意为“会计、会计师”。work as an accountant 意为“担任会计工作”。
+9. **中文**：他最喜欢的活动是在清晨去山间呼吸新鲜空气。  
+   **英文**：His favorite activity was walking near the stream.
+   > **解析**：favorite 表示“最喜爱的”；stream 表示“小溪”。
 
-10. **中文**：几十年前的生活很简单；然而，医疗条件要局限得多。  
-   **英文**：Life was simple decades ago; however, medical conditions were much limited.
-   > **解析**：however 为副词/连接副词，表示转折关系“然而、不过”。置于句中通常前后用分号或逗号隔开。
+10. **中文**：会计师用毛巾擦去了桌子上的灰尘。  
+   **英文**：The accountant covered the desk with a clean towel.
+   > **解析**：cover / covered 表示“覆盖/遮盖”；accountant 表示“会计师”。
+
+11. **中文**：他在毕业后成为了一名出色的会计师。  
+   **英文**：He became a qualified accountant after graduation.
+   > **解析**：accountant 表示“会计师”。
+
+12. **中文**：老师给同学们布置了一项新的学习任务。  
+   **英文**：The teacher gave us a new learning assignment.
+   > **解析**：assignment 表示“任务/作业”。
+
+13. **中文**：农民们在秋天收割了大量的黄玉米。  
+   **英文**：Farmers harvested a lot of yellow corn in autumn.
+   > **解析**：corn 表示“玉米”。
+
+14. **中文**：在冬天，人们更喜欢待在温暖的室内。  
+   **英文**：In cold winter, people prefer staying indoors.
+   > **解析**：indoors 表示“在室内”。
+
+15. **中文**：在晴朗的夏日，孩子们喜欢在户外玩耍。  
+   **英文**：Children love playing outdoors on sunny summer days.
+   > **解析**：outdoors 表示“在户外”。
+
+16. **中文**：这个木盒子的厚度只有几英寸。  
+   **英文**：The thickness of this wooden box is only two inches.
+   > **解析**：inches 表示“英寸”。
+
+17. **中文**：小溪里的水清澈见底，游着几条小鱼。  
+   **英文**：The water in the stream is very clear and clean.
+   > **解析**：stream 表示“小溪/溪流”。
+
+18. **中文**：把地板清扫干净是每天早晨的家务之一。  
+   **英文**：To sweep the floor clean is a daily morning chore.
+   > **解析**：sweep 表示“清扫/打扫”。
+
+19. **中文**：他昨晚把院子里的落叶全部清扫干净了。  
+   **英文**：He swept all the fallen leaves in the yard last night.
+   > **解析**：swept 是 sweep 的过去式。自由词组.
+
+20. **中文**：尊重不同的文化和宗教信仰是重要的。  
+   **英文**：Respecting different cultures and religion is important.
+   > **解析**：religion 表示“宗教”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. My grandparents didn't use to have air conditioning when they were young.
-   > **中文**：我祖父母年轻的时候过去常常没有空调。
+1. An accountant calculated tax indoors for his assignment.
+   > **中文**：一位会计师在室内算税，他的任务很繁重。
 
-2. Children decades ago spent most of their weekend afternoon playing outdoors.
-   > **中文**：几十年前的孩子们周末下午大部分时间都在室外玩耍。
+2. People never used to sweep corn outdoors with a broom.
+   > **中文**：过去人们从不习惯在户外用扫帚扫清玉米地。
 
-3. On rainy days, we had to stay indoors and play card games together.
-   > **中文**：在下雨天，我们不得不待在室内一起打扑克牌。
+3. A spider swept and built a web between rocks near the stream.
+   > **中文**：蜘蛛在溪流旁的岩石间清扫并织出了一张蛛网。
 
-4. We used to catch small fish in the clear freshwater stream behind our village.
-   > **中文**：我们过去常在我们村子后面的清澈淡水小溪里抓小鱼。
+4. However, he preferred to fly and explore religion.
+   > **中文**：然而，比起在法庭工作，他更喜欢飞往各地探索宗教。
 
-5. Early in the morning, my grandfather woke up early to watch the sunrise.
-   > **中文**：清晨，我爷爷很早醒来观看日出。
+5. Do you know how to cover this book a few inches thick?
+   > **中文**：你懂得如何用这本封面厚几英寸的书吗？
 
-6. Young people in the past did know how to repair their own bicycles.
-   > **中文**：过去的年轻人确实知道如何修理自己的自行车。
+6. We didn't use to sweep the yard at sunrise.
+   > **中文**：我们过去不习惯在日出时分去清扫外面的泥地。
 
-7. There were fewer cars on the roads fifty years ago compared to today.
-   > **中文**：与今天相比，五十年前道路上的汽车要少得多。
+7. That rock a few inches wide dropped in the stream.
+   > **中文**：那块几英寸宽的石头落在溪流中央。
 
-8. Students had to write their daily homework assignments by hand using ink pens.
-   > **中文**：过去学生们必须用墨水笔手写完成每天的家庭作业任务。
+8. Fewer homework assignments and more outdoors time help.
+   > **中文**：少一些家庭功课，多一些户外运动对健康有益。
 
-9. Before electronic computers existed, my father worked as a chief accountant.
-   > **中文**：在电子计算机出现之前，我父亲担任首席会计师。
+9. His favorite activity was walking near the stream.
+   > **中文**：他最喜欢的活动是在清晨去山间呼吸新鲜空气。
 
-10. Life was simple decades ago; however, medical conditions were much limited.
-   > **中文**：几十年前的生活很简单；然而，医疗条件要局限得多。
+10. The accountant covered the desk with a clean towel.
+   > **中文**：会计师用毛巾擦去了桌子上的灰尘。
+
+11. He became a qualified accountant after graduation.
+   > **中文**：他在毕业后成为了一名出色的会计师。
+
+12. The teacher gave us a new learning assignment.
+   > **中文**：老师给同学们布置了一项新的学习任务。
+
+13. Farmers harvested a lot of yellow corn in autumn.
+   > **中文**：农民们在秋天收割了大量的黄玉米。
+
+14. In cold winter, people prefer staying indoors.
+   > **中文**：在冬天，人们更喜欢待在温暖的室内。
+
+15. Children love playing outdoors on sunny summer days.
+   > **中文**：在晴朗的夏日，孩子们喜欢在户外玩耍。
+
+16. The thickness of this wooden box is only two inches.
+   > **中文**：这个木盒子的厚度只有几英寸。
+
+17. The water in the stream is very clear and clean.
+   > **中文**：小溪里的水清澈见底，游着几条小鱼。
+
+18. To sweep the floor clean is a daily morning chore.
+   > **中文**：把地板清扫干净是每天早晨的家务之一。
+
+19. He swept all the fallen leaves in the yard last night.
+   > **中文**：他昨晚把院子里的落叶全部清扫干净了。
+
+20. Respecting different cultures and religion is important.
+   > **中文**：尊重不同的文化和宗教信仰是重要的。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| accountant | 会计师 |
+| assignment | 任务 / 作业 |
+| corn | 玉米 |
+| court | 法庭 / 球场 |
+| cover | 覆盖 / 封面 |
+| didn't use to | 过去不习惯 / 过去未曾 |
+| favorite | 最喜爱的 |
+| fewer | 更少的 |
+| fly | 飞 / 飞行 |
+| however | 然而 / 但是 |
+| inch | 英寸 |
+| indoors | 在室内 |
+| know how to | 懂得如何 |
+| never used to | 过去从不 |
+| outdoors | 在户外 |
+| religion | 宗教 |
+| rock | 石头 / 岩石 |
+| stream | 小溪 / 溪流 |
+| sunrise | 日出 |
+| sweep | 打扫 / 清扫 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ didn't use to 表示"过去不"。sweep → swept（扫）。
 
 ### 1
 
-My grandparents `____`n't use to have air conditioning when they were young.
+An ____ calculated tax indoors for his assignment.
 
-- [x] did
-- [ ] accountant
-- [ ] cover
+- [x] accountant
+- [ ] assignment
+- [ ] corn
 
-> **解析**：didn't use to 为 used to 的否定表达，后接动词原形（have），表示“过去习惯不……/以前不曾……”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Children decades ago spent most of their weekend afternoon playing `____`.
+People never used to ____ corn outdoors with a broom.
 
-- [x] outdoors
+- [x] sweep
+- [ ] accountant
 - [ ] assignment
-- [ ] did
 
-> **解析**：outdoors 为副词，意为“在室外、在户外的自然环境中”。修饰动词 playing。反义词为 indoors。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-On rainy days, we had to stay `____` and play card games together.
+A spider ____ and built a web between rocks near the stream.
 
-- [x] indoors
-- [ ] corn
-- [ ] didn't use to
+- [x] swept
+- [ ] accountant
+- [ ] assignment
 
-> **解析**：indoors 为副词，意为“在室内、在屋里”。stay indoors 表示“待在室内”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-We used to catch small fish in the clear freshwater `____` behind our village.
+____, he preferred to fly and explore religion.
 
-- [x] stream
-- [ ] court
-- [ ] favorite
+- [x] However
+- [ ] accountant
+- [ ] assignment
 
-> **解析**：stream 为名词，意为“小溪、溪流”。freshwater stream 表示“淡水溪流”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Early in the morning, my grandfather woke up early to watch the `____`.
+Do you know how to ____ this book a few inches thick?
 
-- [x] sunrise
-- [ ] cover
-- [ ] fewer
+- [x] cover
+- [ ] accountant
+- [ ] assignment
 
-> **解析**：sunrise 为名词，意为“日出”。watch the sunrise 意为“看日出”。反义词为 sunset（日落）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Young people in the past did `____` repair their own bicycles.
+We didn't use to ____ the yard at sunrise.
 
-- [x] know how to
-- [ ] did
-- [ ] fly
+- [x] sweep
+- [ ] accountant
+- [ ] assignment
 
-> **解析**：know how to do sth. 为固定表达，意为“知道如何做某事、掌握某种技能”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-There were `____` cars on the roads fifty years ago compared to today.
+That ____ a few inches wide dropped in the stream.
 
-- [x] fewer
-- [ ] didn't use to
-- [ ] inch
+- [x] rock
+- [ ] accountant
+- [ ] assignment
 
-> **解析**：fewer 为 few 的比较级，后接可数名词复数（cars），意为“更少的”。比较级句式常与 compared to 或 than 连用。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Students had to write their daily homework `____`s by hand using ink pens.
+____ homework assignments and more outdoors time help.
 
-- [x] assignment
-- [ ] fewer
-- [ ] indoors
+- [x] Fewer
+- [ ] accountant
+- [ ] assignment
 
-> **解析**：assignment 为名词，意为“作业、分配的任务”。by hand 表示“手写”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Before electronic computers existed, my father worked as a chief `____`.
+His ____ activity was walking near the stream.
 
-- [x] accountant
-- [ ] fly
-- [ ] know how to
+- [x] favorite
+- [ ] accountant
+- [ ] assignment
 
-> **解析**：accountant 为名词，意为“会计、会计师”。work as an accountant 意为“担任会计工作”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Life was simple decades ago; `____`, medical conditions were much limited.
+The ____ covered the desk with a clean towel.
 
-- [x] however
-- [ ] fly
-- [ ] never used to
+- [x] accountant
+- [ ] assignment
+- [ ] corn
 
-> **解析**：however 为副词/连接副词，表示转折关系“然而、不过”。置于句中通常前后用分号或逗号隔开。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+He became a qualified ____ after graduation.
+
+- [x] accountant
+- [ ] assignment
+- [ ] corn
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The teacher gave us a new learning ____.
+
+- [x] assignment
+- [ ] accountant
+- [ ] corn
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Farmers harvested a lot of yellow ____ in autumn.
+
+- [x] corn
+- [ ] accountant
+- [ ] assignment
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+In cold winter, people prefer staying ____.
+
+- [x] indoors
+- [ ] accountant
+- [ ] assignment
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Children love playing ____ on sunny summer days.
+
+- [x] outdoors
+- [ ] accountant
+- [ ] assignment
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The ____ of this wooden box is only two inches.
+
+- [x] thickness
+- [ ] accountant
+- [ ] assignment
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The water in the ____ is very clear and clean.
+
+- [x] stream
+- [ ] accountant
+- [ ] assignment
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+To ____ the floor clean is a daily morning chore.
+
+- [x] sweep
+- [ ] accountant
+- [ ] assignment
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+He ____ all the fallen leaves in the yard last night.
+
+- [x] swept
+- [ ] accountant
+- [ ] assignment
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Respecting different cultures and ____ is important.
+
+- [x] religion
+- [ ] accountant
+- [ ] assignment
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

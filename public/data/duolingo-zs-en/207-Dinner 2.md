@@ -51,83 +51,176 @@ have been 是现在完成时（Have you been here before? / I have been to this 
 
 <quiz-sentence-builder>
 
-1. **中文**：在等餐时，我们点了一盘大蒜面包作为开胃菜。  
-   **英文**：We ordered a plate of garlic bread as an appetizer while waiting for our meals.
-   > **解析**：appetizer 可数名词，意为“开胃菜；前菜”（美式），英式为 starter。
+1. **中文**：我想要一份主菜配一份薯条。  
+   **英文**：I would like a main course with a side of French fries.
+   > **解析**：main course 表示“主菜”，a side of 表示“一份配菜”。
 
-2. **中文**：主菜她选择了配芦笋的烤三文鱼。  
-   **英文**：For the main course, she chose the grilled salmon served with asparagus.
-   > **解析**：main course 名词短语，意为“主菜”。
+2. **中文**：服务员已经安排你就座了吗？  
+   **英文**：Have you been seated by the waiter yet?
+   > **解析**：have you been ... 表示现在完成时，seated 表示“就座”。
 
-3. **中文**：我的牛排想要配一份烤土豆副菜。  
-   **英文**：I would like to order a side of roasted potatoes with my steak.
-   > **解析**：a side of ... 短语，意为“一份……配菜/副菜”。
+3. **中文**：这蘑菇汤里有任何乳制品吗？  
+   **英文**：Is there any dairy product in this mushroom soup?
+   > **解析**：any 用于疑问句，dairy 表示“乳制品的”。
 
-4. **中文**：如果您对乳制品过敏，请告知服务员。  
-   **英文**：Please let the server know if you have an allergy to dairy products.
-   > **解析**：dairy 不可数名词/形容词，意为“乳制品；牛奶的”。
+4. **中文**：我吃得太饱了，吃不下甜点了。  
+   **英文**：I am so full that I cannot finish the dessert.
+   > **解析**：full 作形容词表示“饱的”。
 
-5. **中文**：这家餐厅很大方，因为每道餐份量都很大。  
-   **英文**：The restaurant is generous because each meal comes with a large portion.
-   > **解析**：portion 可数名词，在此指“（食物的）一份；份量”。
+5. **中文**：你注意到有一笔额外的服务费吗？  
+   **英文**：Did you notice that there is an extra service charge?
+   > **解析**：notice 表示“注意到”，charge 表示“费用、收费”。
 
-6. **中文**：索要额外沙拉酱需要额外收费吗？  
-   **英文**：Is there an extra charge for requesting extra salad dressing.
-   > **解析**：charge 可数/不可数名词，在此意为“费用；收费”；也可作动词。
+6. **中文**：在吃饭前请把干净的餐巾放在腿上。  
+   **英文**：Please put a clean napkin on your lap before eating.
+   > **解析**：put 表示“放置”，napkin 表示“餐巾”。
 
-7. **中文**：开始就餐前，他把布餐巾放在了大腿上。  
-   **英文**：He placed the cloth napkin on his lap before starting his dinner.
-   > **解析**：napkin 可数名词，意为“餐巾；餐巾纸”。
+7. **中文**：这烤鱼闻起来太棒了，尝起来很美味。  
+   **英文**：The grilled fish smells fantastic and tastes delicious.
+   > **解析**：smells 意为“闻起来”。
 
-8. **中文**：我们一到达就被礼貌地引座到窗边。  
-   **英文**：We were politely seated by the window as soon as we arrived.
-   > **解析**：seated 动词 seat 的过去分词，常用 be seated 表示“入座；被引座”。
+8. **中文**：这家餐厅因其出色的开胃菜而获得了奖项。  
+   **英文**：The restaurant won an award for its excellent appetizers.
+   > **解析**：award 表示“奖项”，appetizer 表示“开胃菜”。
 
-9. **中文**：你有没有注意到菜单上是否包含无麸质选择？  
-   **英文**：Did you notice whether the menu includes any gluten-free options.
-   > **解析**：notice 及物动词，意为“注意到；察觉到”。
+9. **中文**：对于这个价格来说，分量只是有一点点小。  
+   **英文**：The portion size is only a bit small for the price.
+   > **解析**：portion 表示“分量”，only a bit 表示“只有一点点”。
 
-10. **中文**：食客因为他的牛排全熟且放凉了而感到生气。  
-   **英文**：The diner was angry that his steak was overcooked and cold about appetizer.
-   > **解析**：be angry that ... 引导从句，意为“因……感到生气”。
+10. **中文**：我很生气他们把错误的菜品端到了我们桌上。  
+   **英文**：I am angry that they brought the wrong order to our table.
+   > **解析**：angry that 表示“对……感到生气”。
+
+11. **中文**：你应当尝尝这位获奖厨师的招牌菜。  
+   **英文**：You should try the award-winning chef's special dish.
+   > **解析**：should 表示“应该、应当”。
+
+12. **中文**：我这周已经去过这家意式餐馆两次了。  
+   **英文**：I have been to this Italian diner twice this week.
+   > **解析**：have been to 表示“去过某地”。
+
+13. **中文**：你的牛排要加任何额外的酱汁吗？  
+   **英文**：Would you like any extra sauce with your steak?
+   > **解析**：any 用于疑问句表示“任何”。
+
+14. **中文**：把玻璃杯放在盘子的右侧。  
+   **英文**：Put the glasses on the right side of the plate.
+   > **解析**：put 意为“放置”。
+
+15. **中文**：他被安排坐在窗户附近以欣赏海景。  
+   **英文**：He was seated near the window to enjoy the ocean view.
+   > **解析**：was seated 表示“被安排就座”。
+
+16. **中文**：开胃菜在主菜之前很快就上桌了。  
+   **英文**：The appetizer came out quickly before the main course.
+   > **解析**：appetizer 意为“开胃菜”，main course 意为“主菜”。
+
+17. **中文**：我没有注意到这两道菜之间有任何区别。  
+   **英文**：I didn't notice any difference between the two dishes.
+   > **解析**：notice 意为“注意到”。
+
+18. **中文**：她对乳制品过敏，所以她避免食用黄油和奶酪。  
+   **英文**：She is allergic to dairy, so she avoids butter and cheese.
+   > **解析**：dairy 意为“乳制品”。
+
+19. **中文**：我们应当向服务员再要一张餐巾。  
+   **英文**：We should ask for another napkin from the server.
+   > **解析**：napkin 意为“餐巾”。
+
+20. **中文**：厨房里闻起来像新鲜草药和烤蒜的味道。  
+   **英文**：It smells like fresh herbs and roasted garlic in the kitchen.
+   > **解析**：smells like 表示“闻起来像”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We ordered a plate of garlic bread as an appetizer while waiting for our meals.
-   > **中文**：在等餐时，我们点了一盘大蒜面包作为开胃菜。
+1. I would like a main course with a side of French fries.
+   > **中文**：我想要一份主菜配一份薯条。
 
-2. For the main course, she chose the grilled salmon served with asparagus.
-   > **中文**：主菜她选择了配芦笋的烤三文鱼。
+2. Have you been seated by the waiter yet?
+   > **中文**：服务员已经安排你就座了吗？
 
-3. I would like to order a side of roasted potatoes with my steak.
-   > **中文**：我的牛排想要配一份烤土豆副菜。
+3. Is there any dairy product in this mushroom soup?
+   > **中文**：这蘑菇汤里有任何乳制品吗？
 
-4. Please let the server know if you have an allergy to dairy products.
-   > **中文**：如果您对乳制品过敏，请告知服务员。
+4. I am so full that I cannot finish the dessert.
+   > **中文**：我吃得太饱了，吃不下甜点了。
 
-5. The restaurant is generous because each meal comes with a large portion.
-   > **中文**：这家餐厅很大方，因为每道餐份量都很大。
+5. Did you notice that there is an extra service charge?
+   > **中文**：你注意到有一笔额外的服务费吗？
 
-6. Is there an extra charge for requesting extra salad dressing.
-   > **中文**：索要额外沙拉酱需要额外收费吗？
+6. Please put a clean napkin on your lap before eating.
+   > **中文**：在吃饭前请把干净的餐巾放在腿上。
 
-7. He placed the cloth napkin on his lap before starting his dinner.
-   > **中文**：开始就餐前，他把布餐巾放在了大腿上。
+7. The grilled fish smells fantastic and tastes delicious.
+   > **中文**：这烤鱼闻起来太棒了，尝起来很美味。
 
-8. We were politely seated by the window as soon as we arrived.
-   > **中文**：我们一到达就被礼貌地引座到窗边。
+8. The restaurant won an award for its excellent appetizers.
+   > **中文**：这家餐厅因其出色的开胃菜而获得了奖项。
 
-9. Did you notice whether the menu includes any gluten-free options.
-   > **中文**：你有没有注意到菜单上是否包含无麸质选择？
+9. The portion size is only a bit small for the price.
+   > **中文**：对于这个价格来说，分量只是有一点点小。
 
-10. The diner was angry that his steak was overcooked and cold about appetizer.
-   > **中文**：食客因为他的牛排全熟且放凉了而感到生气。
+10. I am angry that they brought the wrong order to our table.
+   > **中文**：我很生气他们把错误的菜品端到了我们桌上。
+
+11. You should try the award-winning chef's special dish.
+   > **中文**：你应当尝尝这位获奖厨师的招牌菜。
+
+12. I have been to this Italian diner twice this week.
+   > **中文**：我这周已经去过这家意式餐馆两次了。
+
+13. Would you like any extra sauce with your steak?
+   > **中文**：你的牛排要加任何额外的酱汁吗？
+
+14. Put the glasses on the right side of the plate.
+   > **中文**：把玻璃杯放在盘子的右侧。
+
+15. He was seated near the window to enjoy the ocean view.
+   > **中文**：他被安排坐在窗户附近以欣赏海景。
+
+16. The appetizer came out quickly before the main course.
+   > **中文**：开胃菜在主菜之前很快就上桌了。
+
+17. I didn't notice any difference between the two dishes.
+   > **中文**：我没有注意到这两道菜之间有任何区别。
+
+18. She is allergic to dairy, so she avoids butter and cheese.
+   > **中文**：她对乳制品过敏，所以她避免食用黄油和奶酪。
+
+19. We should ask for another napkin from the server.
+   > **中文**：我们应当向服务员再要一张餐巾。
+
+20. It smells like fresh herbs and roasted garlic in the kitchen.
+   > **中文**：厨房里闻起来像新鲜草药和烤蒜的味道。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| a side of | 一份配菜 |
+| angry that | 对……生气 |
+| any | 任何；一些 |
+| appetizer | 开胃菜；前菜 |
+| award | 奖项；奖品 |
+| be | 在；是（动词原形） |
+| been | 在；是（过去分词） |
+| bit | 一点点 |
+| charge | 收费；费用 |
+| dairy | 乳制品 |
+| full | 饱的；满的 |
+| have been | 去过；已经（现在完成时） |
+| like | 喜欢；像 |
+| main course | 主菜 |
+| napkin | 餐巾 |
+| notice | 注意到；通知 |
+| only | 只有；仅 |
+| portion | 分量；一份 |
+| put | 放置；放 |
+| seated | 就座的 |
 
 </quiz-matching>
 
@@ -135,102 +228,202 @@ have been 是现在完成时（Have you been here before? / I have been to this 
 
 ### 1
 
-We ordered a plate of garlic bread as an `____` while waiting for our meals.
+I would ____ a main course with a side of French fries.
 
-- [x] appetizer
+- [x] like
 - [ ] a side of
-- [ ] be
+- [ ] angry that
 
-> **解析**：appetizer 可数名词，意为“开胃菜；前菜”（美式），英式为 starter。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-For the `____`, she chose the grilled salmon served with asparagus.
+Have you ____ seated by the waiter yet?
 
-- [x] main course
+- [x] been
+- [ ] a side of
 - [ ] angry that
-- [ ] be
 
-> **解析**：main course 名词短语，意为“主菜”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-I would like to order `____` roasted potatoes with my steak.
+Is there ____ dairy product in this mushroom soup?
 
-- [x] a side of
-- [ ] appetizer
-- [ ] bit
+- [x] any
+- [ ] a side of
+- [ ] angry that
 
-> **解析**：a side of ... 短语，意为“一份……配菜/副菜”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Please let the server know if you have an allergy to `____` products.
+I am so ____ that I cannot finish the dessert.
 
-- [x] dairy
-- [ ] appetizer
-- [ ] bit
+- [x] full
+- [ ] a side of
+- [ ] angry that
 
-> **解析**：dairy 不可数名词/形容词，意为“乳制品；牛奶的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The restaurant is generous `____`cause each meal comes with a large portion.
+Did you ____ that there is an extra service charge?
 
-- [x] be
-- [ ] award
-- [ ] dairy
+- [x] notice
+- [ ] a side of
+- [ ] angry that
 
-> **解析**：portion 可数名词，在此指“（食物的）一份；份量”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Is there an extra `____` for requesting extra salad dressing.
+Please ____ a clean napkin on your lap before eating.
 
-- [x] charge
-- [ ] be
-- [ ] full
+- [x] put
+- [ ] a side of
+- [ ] angry that
 
-> **解析**：charge 可数/不可数名词，在此意为“费用；收费”；也可作动词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-He placed the cloth `____` on his lap before starting his dinner.
+The grilled fish smells ____ and tastes delicious.
 
-- [x] napkin
-- [ ] been
-- [ ] full
+- [x] fantastic
+- [ ] a side of
+- [ ] angry that
 
-> **解析**：napkin 可数名词，意为“餐巾；餐巾纸”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-We were politely `____` by the window as soon as we arrived.
+The restaurant won an ____ for its excellent appetizers.
 
-- [x] seated
-- [ ] bit
-- [ ] have been
+- [x] award
+- [ ] a side of
+- [ ] angry that
 
-> **解析**：seated 动词 seat 的过去分词，常用 be seated 表示“入座；被引座”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Did you notice whether the menu includes `____` gluten-free options.
+The ____ size is only a bit small for the price.
 
-- [x] any
-- [ ] dairy
-- [ ] main course
+- [x] portion
+- [ ] a side of
+- [ ] angry that
 
-> **解析**：notice 及物动词，意为“注意到；察觉到”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The diner was `____` his steak was overcooked and cold about appetizer.
+I am angry that they ____ the wrong order to our table.
 
-- [x] angry that
-- [ ] full
-- [ ] napkin
+- [x] brought
+- [ ] a side of
+- [ ] angry that
 
-> **解析**：be angry that ... 引导从句，意为“因……感到生气”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+You ____ try the award-winning chef's special dish.
+
+- [x] should
+- [ ] a side of
+- [ ] angry that
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+I have ____ to this Italian diner twice this week.
+
+- [x] been
+- [ ] a side of
+- [ ] angry that
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Would you ____ any extra sauce with your steak?
+
+- [x] like
+- [ ] a side of
+- [ ] angry that
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+____ the glasses on the right side of the plate.
+
+- [x] Put
+- [ ] a side of
+- [ ] angry that
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+He was ____ near the window to enjoy the ocean view.
+
+- [x] seated
+- [ ] a side of
+- [ ] angry that
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The ____ came out quickly before the main course.
+
+- [x] appetizer
+- [ ] a side of
+- [ ] angry that
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+I didn't ____ any difference between the two dishes.
+
+- [x] notice
+- [ ] a side of
+- [ ] angry that
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+She is allergic to ____, so she avoids butter and cheese.
+
+- [x] dairy
+- [ ] a side of
+- [ ] angry that
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+We ____ ask for another napkin from the server.
+
+- [x] should
+- [ ] a side of
+- [ ] angry that
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+It smells ____ fresh herbs and roasted garlic in the kitchen.
+
+- [x] like
+- [ ] a side of
+- [ ] angry that
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

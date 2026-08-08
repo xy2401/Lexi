@@ -53,83 +53,176 @@ seem 用来表达"看起来、似乎"（You seem tired. / It seems serious.）�
 
 <quiz-sentence-builder>
 
-1. **中文**：你应该就你持续的咳嗽咨询医生的专业建议。  
-   **英文**：You should ask your doctor for professional advice about your persistent cough.
-   > **解析**：`ask` 及物动词，搭配 `ask sb. for sth.` 表示“向某人寻求/索取某物”。在此处用于表达寻求医疗建议。
+1. **中文**：医生建议他每天测量血压。
+   **英文**：The doctor advised him to measure his blood pressure every day.
+   > **解析**：blood pressure 表示血压。
 
-2. **中文**：医学研究人员正在努力寻找治愈这种疾病的有效方法。  
-   **英文**：Medical researchers are working hard to find an effective cure for the disease.
-   > **解析**：`cure` 可数名词，意为“治愈方法；药物”。常用搭配 `a cure for...`（针对……的治愈方案），注意介词要用 `for`。
+2. **中文**：保持健康的饮食有助于预防心脏病。
+   **英文**：Maintaining a healthy diet helps prevent heart disease.
+   > **解析**：heart disease 表示心脏病。
 
-3. **中文**：均衡饮食和每天运动对你的健康非常有好处。  
-   **英文**：Eating a balanced diet and exercising daily is extremely good about cancer.
-   > **解析**：`good for you` 为固定表语短语，意为“对你有好处”。其中 `be good for` 表示“对……有益”。
+3. **中文**：科学家们正在努力寻找治愈这种新型疾病的方法。
+   **英文**：Scientists are working hard to find a cure for this new illness.
+   > **解析**：cure 表示治愈、疗法。
 
-4. **中文**：发高烧时要喝大量清澈的液体以保持水分。  
-   **英文**：Drink plenty of clear liquid when you have a high fever to stay hydrated.
-   > **解析**：`liquid` 名词，意为“液体；流质”。在医疗护理场景中，常指水、清汤等有助于补充水分的液体。
+4. **中文**：每年进行一次全面体检对老年人很重要。
+   **英文**：Having an annual health check-up is very important for seniors.
+   > **解析**：check-up 表示体检、健康检查。
 
-5. **中文**：外科医生向患者解释了该医疗手术过程的每一个步骤。  
-   **英文**：The surgeon explained every step of the medical procedure to the patient.
-   > **解析**：`procedure` 名词，意为“程序；手术；医疗步骤”。短语 `medical procedure` 常指具体的医疗或外科操作。
+5. **中文**：护士带他去放射科拍了胸部X光片。
+   **英文**：The nurse took him to radiology to get a chest x-ray.
+   > **解析**：x-ray 表示X光片、X射线。
 
-6. **中文**：如果你的胸部出现任何剧烈疼痛，请立即告诉我。  
-   **英文**：Please tell me immediately if you experience any sharp pain in your chest.
-   > **解析**：`tell` 双宾语动词，搭配 `tell sb. sth.` 表示“告诉某人某事”。在医患交流中用于要求患者如实告知症状。
+6. **中文**：医生解释说这只是一项微创的小手术。
+   **英文**：The doctor explained that it was just a simple medical procedure.
+   > **解析**：procedure 表示医疗手续、手术程序。
 
-7. **中文**：护士会在体检前称你的体重并测量你的身高。  
-   **英文**：The nurse will weigh you and measure your height before the checkup.
-   > **解析**：`weigh` 及物动词，意为“称……的重量”。对应名词形式为 `weight`（体重）。
+7. **中文**：政府正致力于改善偏远地区的医疗保健条件。
+   **英文**：The government is trying to improve healthcare in remote areas.
+   > **解析**：healthcare 表示医疗保健。
 
-8. **中文**：定期运动有助于将你的血压保持在健康水平。  
-   **英文**：Regular exercise can help keep your blood pressure at a healthy level.
-   > **解析**：`blood pressure` 为名词短语，意为“血压”。在医学健康中常与动词 `check / measure / monitor` 连用。
+8. **中文**：因为发烧，他今天向公司请了一天病假。
+   **英文**：He took a sick day today because he had a high fever.
+   > **解析**：sick day 表示病假天。
 
-9. **中文**：加入当地的俱乐部是提高你整体身体素质的好方法。  
-   **英文**：Joining a local club is a great way to improve your overall fitness.
-   > **解析**：`fitness` 不及物/抽象名词，意为“健康；身体素质；适合”，由形容词 `fit` 加名词后缀 `-ness` 派生而来。
+9. **中文**：每天早晨进行半小时的锻炼能提升身体素能。
+   **英文**：A thirty-minute workout every morning can boost your fitness.
+   > **解析**：workout 表示健身锻炼；fitness 表示健康状态。
 
-10. **中文**：低盐饮食可以降低未来患心血管疾病的风险。  
-   **英文**：A low-salt diet reduces the risk of developing heart disease in the future.
-   > **解析**：`heart disease` 名词短语，意为“心脏病”。在健康医学情境中，常作为动词 `develop / prevent` 的宾语。
+10. **中文**：服药期间，请多喝温水等清淡液体。
+   **英文**：Drink plenty of warm liquid while you are taking the medicine.
+   > **解析**：liquid 表示液体。
+
+11. **中文**：为了健康，无论多难你都不应该放弃运动。
+   **英文**：For your health, you should never give up exercising.
+   > **解析**：give up 表示放弃。
+
+12. **中文**：护士在体检前要求我先称一下体重。
+   **英文**：The nurse asked me to weigh myself before the exam.
+   > **解析**：weigh 表示称重、量体重。
+
+13. **中文**：医生让我伸出舌头检查口腔状况。
+   **英文**：The doctor asked me to stick out my tongue for inspection.
+   > **解析**：tongue 表示舌头。
+
+14. **中文**：每天吃新鲜水果和蔬菜对你的健康有好处。
+   **英文**：Eating fresh fruits and vegetables is really good for you.
+   > **解析**：good for you 表示对你有好处。
+
+15. **中文**：诊所为所有社区居民提供免费咨询服务。
+   **英文**：The clinic will provide free consultations for all local residents.
+   > **解析**：provide 表示提供。
+
+16. **中文**：他今天看起来精神状态好多了。
+   **英文**：He seems to feel much better and more energetic today.
+   > **解析**：seem 表示看起来、似乎。
+
+17. **中文**：我们需要在手术前为病人做好全面的准备。
+   **英文**：We need to prepare the patient thoroughly before surgery.
+   > **解析**：prepare 表示准备。
+
+18. **中文**：现代医学极大地提高了癌症的生存率。
+   **英文**：Modern medicine has greatly improved survival rates for cancer.
+   > **解析**：cancer 表示癌症。
+
+19. **中文**：护士告诉病人请在候诊室稍作等待。
+   **英文**：The nurse asked the patients to wait in the lobby.
+   > **解析**：wait 表示等待。
+
+20. **中文**：良好的身体健身习惯能让你长期受益。
+   **英文**：Good physical fitness habits can benefit you for a lifetime.
+   > **解析**：fitness 表示身体健康、健身。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. You should ask your doctor for professional advice about your persistent cough.
-   > **中文**：你应该就你持续的咳嗽咨询医生的专业建议。
+1. The doctor advised him to measure his blood pressure every day.
+   > **中文**：医生建议他每天测量血压。
 
-2. Medical researchers are working hard to find an effective cure for the disease.
-   > **中文**：医学研究人员正在努力寻找治愈这种疾病的有效方法。
+2. Maintaining a healthy diet helps prevent heart disease.
+   > **中文**：保持健康的饮食有助于预防心脏病。
 
-3. Eating a balanced diet and exercising daily is extremely good about cancer.
-   > **中文**：均衡饮食和每天运动对你的健康非常有好处。
+3. Scientists are working hard to find a cure for this new illness.
+   > **中文**：科学家们正在努力寻找治愈这种新型疾病的方法。
 
-4. Drink plenty of clear liquid when you have a high fever to stay hydrated.
-   > **中文**：发高烧时要喝大量清澈的液体以保持水分。
+4. Having an annual health check-up is very important for seniors.
+   > **中文**：每年进行一次全面体检对老年人很重要。
 
-5. The surgeon explained every step of the medical procedure to the patient.
-   > **中文**：外科医生向患者解释了该医疗手术过程的每一个步骤。
+5. The nurse took him to radiology to get a chest x-ray.
+   > **中文**：护士带他去放射科拍了胸部X光片。
 
-6. Please tell me immediately if you experience any sharp pain in your chest.
-   > **中文**：如果你的胸部出现任何剧烈疼痛，请立即告诉我。
+6. The doctor explained that it was just a simple medical procedure.
+   > **中文**：医生解释说这只是一项微创的小手术。
 
-7. The nurse will weigh you and measure your height before the checkup.
-   > **中文**：护士会在体检前称你的体重并测量你的身高。
+7. The government is trying to improve healthcare in remote areas.
+   > **中文**：政府正致力于改善偏远地区的医疗保健条件。
 
-8. Regular exercise can help keep your blood pressure at a healthy level.
-   > **中文**：定期运动有助于将你的血压保持在健康水平。
+8. He took a sick day today because he had a high fever.
+   > **中文**：因为发烧，他今天向公司请了一天病假。
 
-9. Joining a local club is a great way to improve your overall fitness.
-   > **中文**：加入当地的俱乐部是提高你整体身体素质的好方法。
+9. A thirty-minute workout every morning can boost your fitness.
+   > **中文**：每天早晨进行半小时的锻炼能提升身体素能。
 
-10. A low-salt diet reduces the risk of developing heart disease in the future.
-   > **中文**：低盐饮食可以降低未来患心血管疾病的风险。
+10. Drink plenty of warm liquid while you are taking the medicine.
+   > **中文**：服药期间，请多喝温水等清淡液体。
+
+11. For your health, you should never give up exercising.
+   > **中文**：为了健康，无论多难你都不应该放弃运动。
+
+12. The nurse asked me to weigh myself before the exam.
+   > **中文**：护士在体检前要求我先称一下体重。
+
+13. The doctor asked me to stick out my tongue for inspection.
+   > **中文**：医生让我伸出舌头检查口腔状况。
+
+14. Eating fresh fruits and vegetables is really good for you.
+   > **中文**：每天吃新鲜水果和蔬菜对你的健康有好处。
+
+15. The clinic will provide free consultations for all local residents.
+   > **中文**：诊所为所有社区居民提供免费咨询服务。
+
+16. He seems to feel much better and more energetic today.
+   > **中文**：他今天看起来精神状态好多了。
+
+17. We need to prepare the patient thoroughly before surgery.
+   > **中文**：我们需要在手术前为病人做好全面的准备。
+
+18. Modern medicine has greatly improved survival rates for cancer.
+   > **中文**：现代医学极大地提高了癌症的生存率。
+
+19. The nurse asked the patients to wait in the lobby.
+   > **中文**：护士告诉病人请在候诊室稍作等待。
+
+20. Good physical fitness habits can benefit you for a lifetime.
+   > **中文**：良好的身体健身习惯能让你长期受益。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| blood pressure | 血压 |
+| heart disease | 心脏病 |
+| cancer | 癌症 |
+| x-ray | X光检查 |
+| check-up | 体检；健康检查 |
+| procedure | 手术程序；医疗步骤 |
+| healthcare | 医疗保健 |
+| cure | 治愈；疗法 |
+| sick day | 病假（天） |
+| workout | 健身训练；锻炼 |
+| fitness | 身体健康；健身 |
+| liquid | 液体；液态的 |
+| give up | 放弃 |
+| weigh | 称重；量体重 |
+| prepare | 准备 |
+| provide | 提供 |
+| seem | 似乎；看起来 |
+| tongue | 舌头 |
+| good for you | 对你有好处 |
+| ask | 询问；要求 |
 
 </quiz-matching>
 
@@ -137,102 +230,202 @@ seem 用来表达"看起来、似乎"（You seem tired. / It seems serious.）�
 
 ### 1
 
-You should `____` your doctor for professional advice about your persistent cough.
+The doctor advised him to measure his blood ____ every day.
 
-- [x] ask
+- [x] pressure
+- [ ] ask
 - [ ] blood pressure
-- [ ] fitness
 
-> **解析**：`ask` 及物动词，搭配 `ask sb. for sth.` 表示“向某人寻求/索取某物”。在此处用于表达寻求医疗建议。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Medical researchers are working hard to find an effective `____` for the disease.
+____ a healthy diet helps prevent heart disease.
 
-- [x] cure
+- [x] Maintaining
+- [ ] ask
 - [ ] blood pressure
-- [ ] give up
 
-> **解析**：`cure` 可数名词，意为“治愈方法；药物”。常用搭配 `a cure for...`（针对……的治愈方案），注意介词要用 `for`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Eating a balanced diet and exercising daily is extremely good about `____`.
+Scientists are working hard to find a ____ for this new illness.
 
-- [x] cancer
-- [ ] check-up
-- [ ] good for you
+- [x] cure
+- [ ] ask
+- [ ] blood pressure
 
-> **解析**：`good for you` 为固定表语短语，意为“对你有好处”。其中 `be good for` 表示“对……有益”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Drink plenty of clear `____` when you have a high fever to stay hydrated.
+Having an annual health ____ is very important for seniors.
 
-- [x] liquid
-- [ ] check-up
-- [ ] good for you
+- [x] check-up
+- [ ] ask
+- [ ] blood pressure
 
-> **解析**：`liquid` 名词，意为“液体；流质”。在医疗护理场景中，常指水、清汤等有助于补充水分的液体。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The surgeon explained every step of the medical `____` to the patient.
+The nurse took him to radiology to get a chest ____.
 
-- [x] procedure
-- [ ] cure
-- [ ] healthcare
+- [x] x-ray
+- [ ] ask
+- [ ] blood pressure
 
-> **解析**：`procedure` 名词，意为“程序；手术；医疗步骤”。短语 `medical procedure` 常指具体的医疗或外科操作。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Please `____` me immediately if you experience any sharp pain in your chest.
+The doctor explained that it was just a simple medical ____.
 
-- [x] tell
-- [ ] fitness
-- [ ] heart disease
+- [x] procedure
+- [ ] ask
+- [ ] blood pressure
 
-> **解析**：`tell` 双宾语动词，搭配 `tell sb. sth.` 表示“告诉某人某事”。在医患交流中用于要求患者如实告知症状。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The nurse will `____` you and measure your height before the checkup.
+The government is trying to improve ____ in remote areas.
 
-- [x] weigh
-- [ ] give up
-- [ ] into
+- [x] healthcare
+- [ ] ask
+- [ ] blood pressure
 
-> **解析**：`weigh` 及物动词，意为“称……的重量”。对应名词形式为 `weight`（体重）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Regular exercise can help keep your `____` at a healthy level.
+He took a sick day today ____ he had a high fever.
 
-- [x] blood pressure
-- [ ] healthcare
-- [ ] not
+- [x] because
+- [ ] ask
+- [ ] blood pressure
 
-> **解析**：`blood pressure` 为名词短语，意为“血压”。在医学健康中常与动词 `check / measure / monitor` 连用。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Joining a local club is a great way to improve your overall `____`.
+A thirty-minute ____ every morning can boost your fitness.
 
-- [x] fitness
-- [ ] heart disease
-- [ ] prepare
+- [x] workout
+- [ ] ask
+- [ ] blood pressure
 
-> **解析**：`fitness` 不及物/抽象名词，意为“健康；身体素质；适合”，由形容词 `fit` 加名词后缀 `-ness` 派生而来。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-A low-salt diet reduces the risk of developing `____` in the future.
+Drink plenty of warm ____ while you are taking the medicine.
 
-- [x] heart disease
-- [ ] into
-- [ ] procedure
+- [x] liquid
+- [ ] ask
+- [ ] blood pressure
 
-> **解析**：`heart disease` 名词短语，意为“心脏病”。在健康医学情境中，常作为动词 `develop / prevent` 的宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+For your health, you should never give up ____.
+
+- [x] exercising
+- [ ] ask
+- [ ] blood pressure
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The nurse asked me to ____ myself before the exam.
+
+- [x] weigh
+- [ ] ask
+- [ ] blood pressure
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The doctor asked me to stick out my ____ for inspection.
+
+- [x] tongue
+- [ ] ask
+- [ ] blood pressure
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Eating fresh fruits and ____ is really good for you.
+
+- [x] vegetables
+- [ ] ask
+- [ ] blood pressure
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The clinic will ____ free consultations for all local residents.
+
+- [x] provide
+- [ ] ask
+- [ ] blood pressure
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+He seems to feel much better and more ____ today.
+
+- [x] energetic
+- [ ] ask
+- [ ] blood pressure
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+We need to ____ the patient thoroughly before surgery.
+
+- [x] prepare
+- [ ] ask
+- [ ] blood pressure
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Modern medicine has greatly improved survival rates for ____.
+
+- [x] cancer
+- [ ] ask
+- [ ] blood pressure
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The nurse asked the patients to ____ in the lobby.
+
+- [x] wait
+- [ ] ask
+- [ ] blood pressure
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Good physical ____ habits can benefit you for a lifetime.
+
+- [x] fitness
+- [ ] ask
+- [ ] blood pressure
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

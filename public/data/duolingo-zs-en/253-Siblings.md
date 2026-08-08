@@ -79,83 +79,176 @@ tell on（告状）、see through（看穿）、it wasn't me（不是我）是�
 
 <quiz-sentence-builder>
 
-1. **中文**：如果你把鞋留在地板上，肯定会有人被绊倒的。  
-   **英文**：If you leave your shoes on the floor, someone is bound to trip over them.
-   > **解析**：`be bound to do sth` 是固定短语，意为“必然做某事、注定会发生”。
+1. **中文**：我的钥匙扣到底掉到哪里去了？
+   **英文**：What in the world happened to my keychain?
+   > **解析**：what in the world 意为到底、究竟。
 
-2. **中文**：不要把这样的小错夸大成什么大事。  
-   **英文**：Don't make a big deal out of such a minor mistake.
-   > **解析**：`make a big deal out of sth` 是常用短语，意为“把某事当作大事/夸大其词”。
+2. **中文**：我能看穿你的借口，所以别对我撒谎。
+   **英文**：I can see through your excuses, so don't lie to me.
+   > **解析**：see through 意为看穿、识破。
 
-3. **中文**：我弟弟威胁说，如果我不分给他零食，他就去向父母告状。  
-   **英文**：My younger brother threatened to tell on me if I didn't share my snack.
-   > **解析**：`tell on sb` 是儿童/口语常用短语，意为“告状、打小报告”。
+3. **中文**：如果你吃了我的口香糖，我就去向妈妈告状。
+   **英文**：If you ate my gum, I will tell on you to Mom.
+   > **解析**：tell on 意为告状、打小报告。
 
-4. **中文**：我绝不会容忍你在客人面前的无礼行为。  
-   **英文**：I will not tolerate your rude behavior in front of our guests.
-   > **解析**：`tolerate` 作及物动词，意为“容忍、忍受”，后接宾语 `your rude behavior`。
+4. **中文**：不是我弄烂你的海报的，你自己看吧！
+   **英文**：It wasn't me who ripped your poster, look for yourself!
+   > **解析**：it wasn't me 意为不是我。
 
-5. **中文**：我最喜欢的毛衣一夜之间从衣柜里彻底失踪了。  
-   **英文**：My favorite sweater completely vanished from the closet overnight.
-   > **解析**：`vanish` 是不及物动词，意为“突然消失、失踪”。
+5. **中文**：你把东西乱放，妈妈肯定会生气的。
+   **英文**：Mom is bound to get angry if you leave your stuff around.
+   > **解析**：bound to 意为肯定会、注定会。
 
-6. **中文**：你没打招呼就借走我的车，到底是怎么想的？  
-   **英文**：What in the world were you thinking when you borrowed my car without asking.
-   > **解析**：`what in the world` 用于感叹或疑问句中加强语气，意为“到底、究竟”。
+6. **中文**：我放在桌上的最后一块口香糖凭空消失了！
+   **英文**：The last piece of gum on the table just vanished into thin air!
+   > **解析**：vanish 意为消失。
 
-7. **中文**：既然他忘了你的生日，你不必为忘记他的生日而自责。  
-   **英文**：You shouldn't feel bad about forgetting his birthday since he forgot yours.
-   > **解析**：`feel bad about sth/doing sth` 意为“对某事感到内疚/难过”。
+7. **中文**：不小心用错微波炉又不是什么了不起的事。
+   **英文**：Using the wrong microwave setting is not a big deal.
+   > **解析**：big deal 意为大事、了不起的事。
 
-8. **中文**：她能轻易看穿她弟弟那拙劣的借口。  
-   **英文**：She could easily see through her brother's weak excuse.
-   > **解析**：`see through sth/sb` 是短语动词，意为“看穿、识破（谎言/借口）”。
+8. **中文**：房里有非常多的零食，你为什么偏偏拿我的？
+   **英文**：There are tons of snacks in the kitchen, why take mine?
+   > **解析**：tons of 意为大量的、非常多的。
 
-9. **中文**：露营回来后，我们有一大堆衣服要洗。  
-   **英文**：We have tons of laundry to do after coming back from the camping trip.
-   > **解析**：`tons of` 是口语短语，意为“大量的、许许多多的”，修饰名词。
+9. **中文**：我今天在超市偶遇了我的旧朋友。
+   **英文**：I bumped into an old friend at the supermarket today.
+   > **解析**：bump into 意为偶遇。
 
-10. **中文**：猜猜我今天在当地超市偶遇了谁！  
-   **英文**：Guess who I bumped into at the local supermarket today about hear.
-   > **解析**：`bump into sb` 是短语动词，意为“偶遇、无意中碰到某人”。
+10. **中文**：别在说话的时候嚼口香糖，很不礼貌。
+   **英文**：Don't chew gum while talking, it is rude.
+   > **解析**：chew 意为咀嚼。
+
+11. **中文**：他买了一个带有家乡名字的精美钥匙扣。
+   **英文**：He bought a nice keychain with the name of his hometown.
+   > **解析**：keychain 意为钥匙扣。
+
+12. **中文**：请把食物放入微波炉里加热两分钟。
+   **英文**：Please put the food in the microwave to heat it up for two minutes.
+   > **解析**：microwave 意为微波炉。
+
+13. **中文**：我无法忍受你每天未经允许动我的东西。
+   **英文**：I cannot tolerate your taking my things without permission every day.
+   > **解析**：tolerate 意为容忍。
+
+14. **中文**：谁把我的英语笔记本给撕破了？
+   **英文**：Who ripped my English notebook into pieces?
+   > **解析**：rip 意为撕破。
+
+15. **中文**：请便，拿去用吧，但我用完后需要还给我。
+   **英文**：Go ahead and use it, but return it to me when done.
+   > **解析**：go ahead 意为请便、尽管做。
+
+16. **中文**：对昨晚对你大喊大叫这件事，我感到很抱歉。
+   **英文**：I feel bad about yelling at you last night.
+   > **解析**：feel bad about 意为对……感到抱歉/内疚。
+
+17. **中文**：我就弄乱你的房间向你郑重道歉。
+   **英文**：My apologies for making a mess in your bedroom.
+   > **解析**：my apologies 意为我道歉。
+
+18. **中文**：我们在一个美丽的南方家乡小镇长大。
+   **英文**：We grew up in a beautiful southern hometown.
+   > **解析**：hometown 意为家乡。
+
+19. **中文**：请不要在餐桌上提起那个不愉快的话题。
+   **英文**：Please do not raise that unpleasant topic at the dinner table.
+   > **解析**：raise 意为提起（话题）。
+
+20. **中文**：如果你不相信我，你可以亲自过去看。
+   **英文**：If you don't believe me, go ahead and see for yourself.
+   > **解析**：see 意为看、查看。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. If you leave your shoes on the floor, someone is bound to trip over them.
-   > **中文**：如果你把鞋留在地板上，肯定会有人被绊倒的。
+1. What in the world happened to my keychain?
+   > **中文**：我的钥匙扣到底掉到哪里去了？
 
-2. Don't make a big deal out of such a minor mistake.
-   > **中文**：不要把这样的小错夸大成什么大事。
+2. I can see through your excuses, so don't lie to me.
+   > **中文**：我能看穿你的借口，所以别对我撒谎。
 
-3. My younger brother threatened to tell on me if I didn't share my snack.
-   > **中文**：我弟弟威胁说，如果我不分给他零食，他就去向父母告状。
+3. If you ate my gum, I will tell on you to Mom.
+   > **中文**：如果你吃了我的口香糖，我就去向妈妈告状。
 
-4. I will not tolerate your rude behavior in front of our guests.
-   > **中文**：我绝不会容忍你在客人面前的无礼行为。
+4. It wasn't me who ripped your poster, look for yourself!
+   > **中文**：不是我弄烂你的海报的，你自己看吧！
 
-5. My favorite sweater completely vanished from the closet overnight.
-   > **中文**：我最喜欢的毛衣一夜之间从衣柜里彻底失踪了。
+5. Mom is bound to get angry if you leave your stuff around.
+   > **中文**：你把东西乱放，妈妈肯定会生气的。
 
-6. What in the world were you thinking when you borrowed my car without asking.
-   > **中文**：你没打招呼就借走我的车，到底是怎么想的？
+6. The last piece of gum on the table just vanished into thin air!
+   > **中文**：我放在桌上的最后一块口香糖凭空消失了！
 
-7. You shouldn't feel bad about forgetting his birthday since he forgot yours.
-   > **中文**：既然他忘了你的生日，你不必为忘记他的生日而自责。
+7. Using the wrong microwave setting is not a big deal.
+   > **中文**：不小心用错微波炉又不是什么了不起的事。
 
-8. She could easily see through her brother's weak excuse.
-   > **中文**：她能轻易看穿她弟弟那拙劣的借口。
+8. There are tons of snacks in the kitchen, why take mine?
+   > **中文**：房里有非常多的零食，你为什么偏偏拿我的？
 
-9. We have tons of laundry to do after coming back from the camping trip.
-   > **中文**：露营回来后，我们有一大堆衣服要洗。
+9. I bumped into an old friend at the supermarket today.
+   > **中文**：我今天在超市偶遇了我的旧朋友。
 
-10. Guess who I bumped into at the local supermarket today about hear.
-   > **中文**：猜猜我今天在当地超市偶遇了谁！
+10. Don't chew gum while talking, it is rude.
+   > **中文**：别在说话的时候嚼口香糖，很不礼貌。
+
+11. He bought a nice keychain with the name of his hometown.
+   > **中文**：他买了一个带有家乡名字的精美钥匙扣。
+
+12. Please put the food in the microwave to heat it up for two minutes.
+   > **中文**：请把食物放入微波炉里加热两分钟。
+
+13. I cannot tolerate your taking my things without permission every day.
+   > **中文**：我无法忍受你每天未经允许动我的东西。
+
+14. Who ripped my English notebook into pieces?
+   > **中文**：谁把我的英语笔记本给撕破了？
+
+15. Go ahead and use it, but return it to me when done.
+   > **中文**：请便，拿去用吧，但我用完后需要还给我。
+
+16. I feel bad about yelling at you last night.
+   > **中文**：对昨晚对你大喊大叫这件事，我感到很抱歉。
+
+17. My apologies for making a mess in your bedroom.
+   > **中文**：我就弄乱你的房间向你郑重道歉。
+
+18. We grew up in a beautiful southern hometown.
+   > **中文**：我们在一个美丽的南方家乡小镇长大。
+
+19. Please do not raise that unpleasant topic at the dinner table.
+   > **中文**：请不要在餐桌上提起那个不愉快的话题。
+
+20. If you don't believe me, go ahead and see for yourself.
+   > **中文**：如果你不相信我，你可以亲自过去看。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| what in the world | 到底；究竟 |
+| see through | 看穿；识破 |
+| tell on | 告状；打小报告 |
+| it wasn't me | 不是我 |
+| bound to | 肯定会；注定会 |
+| vanish | 消失；不见 |
+| big deal | 大事；了不起的事 |
+| tons of | 大量的；非常多的 |
+| bump into | 偶遇；撞上 |
+| chew | 咀嚼；嚼 |
+| gum | 口香糖；牙龈 |
+| keychain | 钥匙扣；钥匙链 |
+| microwave | 微波炉 |
+| tolerate | 容忍；忍受 |
+| rip | 撕破；扯裂 |
+| raise | 提起；抚养；加薪 |
+| go ahead | 请便；尽管做 |
+| feel bad about | 对……感到抱歉/内疚 |
+| my apologies | 我道歉 |
+| hometown | 家乡；故乡 |
 
 </quiz-matching>
 
@@ -163,102 +256,202 @@ tell on（告状）、see through（看穿）、it wasn't me（不是我）是�
 
 ### 1
 
-If you leave your shoes on the floor, someone is `____` trip over them.
+What in the world happened to my ____?
 
-- [x] bound to
+- [x] keychain
 - [ ] a thing
-- [ ] chew
+- [ ] big deal
 
-> **解析**：`be bound to do sth` 是固定短语，意为“必然做某事、注定会发生”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Don't make a `____` out of such a minor mistake.
+I can ____ through your excuses, so don't lie to me.
 
-- [x] big deal
-- [ ] bound to
-- [ ] feel bad about
+- [x] see
+- [ ] a thing
+- [ ] big deal
 
-> **解析**：`make a big deal out of sth` 是常用短语，意为“把某事当作大事/夸大其词”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-My younger brother threatened to `____` me if I didn't share my snack.
+If you ate my ____, I will tell on you to Mom.
 
-- [x] tell on
-- [ ] bound to
-- [ ] feel bad about
+- [x] gum
+- [ ] a thing
+- [ ] big deal
 
-> **解析**：`tell on sb` 是儿童/口语常用短语，意为“告状、打小报告”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-I will not `____` your rude behavior in front of our guests.
+It wasn't me who ripped your poster, look for ____!
 
-- [x] tolerate
-- [ ] bump into
-- [ ] go ahead
+- [x] yourself
+- [ ] a thing
+- [ ] big deal
 
-> **解析**：`tolerate` 作及物动词，意为“容忍、忍受”，后接宾语 `your rude behavior`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-My favorite sweater completely `____`ed from the closet overnight.
+Mom is bound to get angry if you leave your stuff ____.
 
-- [x] vanish
-- [ ] call
-- [ ] gum
+- [x] around
+- [ ] a thing
+- [ ] big deal
 
-> **解析**：`vanish` 是不及物动词，意为“突然消失、失踪”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-`____` were you thinking when you borrowed my car without asking.
+The last piece of ____ on the table just vanished into thin air!
 
-- [x] what in the world
-- [ ] chew
-- [ ] hear
+- [x] gum
+- [ ] a thing
+- [ ] big deal
 
-> **解析**：`what in the world` 用于感叹或疑问句中加强语气，意为“到底、究竟”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-You shouldn't `____` forgetting his birthday since he forgot yours.
+Using the wrong ____ setting is not a big deal.
 
-- [x] feel bad about
-- [ ] go ahead
-- [ ] it wasn't me
+- [x] microwave
+- [ ] a thing
+- [ ] big deal
 
-> **解析**：`feel bad about sth/doing sth` 意为“对某事感到内疚/难过”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-She could easily `____` through her brother's weak excuse.
+There are tons of snacks in the ____, why take mine?
 
-- [x] see
-- [ ] go ahead
-- [ ] it wasn't me
+- [x] kitchen
+- [ ] a thing
+- [ ] big deal
 
-> **解析**：`see through sth/sb` 是短语动词，意为“看穿、识破（谎言/借口）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-We have tons of laundry to do after coming back from the camping t`____`.
+I bumped into an old friend at the ____ today.
 
-- [x] rip
-- [ ] gum
-- [ ] keychain
+- [x] supermarket
+- [ ] a thing
+- [ ] big deal
 
-> **解析**：`tons of` 是口语短语，意为“大量的、许许多多的”，修饰名词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Guess who I bumped into at the local supermarket today about `____`.
+Don't ____ gum while talking, it is rude.
 
-- [x] hear
-- [ ] hometown
-- [ ] my apologies
+- [x] chew
+- [ ] a thing
+- [ ] big deal
 
-> **解析**：`bump into sb` 是短语动词，意为“偶遇、无意中碰到某人”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+He bought a nice ____ with the name of his hometown.
+
+- [x] keychain
+- [ ] a thing
+- [ ] big deal
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Please put the food in the ____ to heat it up for two minutes.
+
+- [x] microwave
+- [ ] a thing
+- [ ] big deal
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+I cannot ____ your taking my things without permission every day.
+
+- [x] tolerate
+- [ ] a thing
+- [ ] big deal
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Who ripped my English ____ into pieces?
+
+- [x] notebook
+- [ ] a thing
+- [ ] big deal
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Go ahead and use it, but ____ it to me when done.
+
+- [x] return
+- [ ] a thing
+- [ ] big deal
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+I feel bad about ____ at you last night.
+
+- [x] yelling
+- [ ] a thing
+- [ ] big deal
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+My ____ for making a mess in your bedroom.
+
+- [x] apologies
+- [ ] a thing
+- [ ] big deal
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+We grew up in a beautiful southern ____.
+
+- [x] hometown
+- [ ] a thing
+- [ ] big deal
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Please do not ____ that unpleasant topic at the dinner table.
+
+- [x] raise
+- [ ] a thing
+- [ ] big deal
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+If you don't believe me, go ahead and ____ for yourself.
+
+- [x] see
+- [ ] a thing
+- [ ] big deal
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

@@ -59,83 +59,176 @@ a hand, admittedly, all over again, brick, by far, can't get over, can't take, c
 
 <quiz-sentence-builder>
 
-1. **中文**：你能帮我伸手搭把手，把这个沉重的暖气片抬到走廊里吗？  
-   **英文**：Could you give me a hand with lifting this heavy radiator into the hallway?
-   > **解析**：`give sb. a hand` 为常用口语短语，意为“给某人帮个忙/搭把手”。
+1. **中文**：我们买了一套待修缮的旧房，但水管系统堵塞严重。
+   **英文**：We bought a fixer-upper house, but the plumbing is severely clogged.
+   > **解析**：fixer-upper 意为待修缮的房子。
 
-2. **中文**：屋顶漏水是目前为止这栋老房子最严重的结构问题。  
-   **英文**：Leaking in the roof is by far the most serious structural issue with this old house.
-   > **解析**：`by far` 强调程度副词短语，意为“迄今为止；显然”，修饰最高级 `the most serious`。
+2. **中文**：我对这道墙壁裂缝需要这么多修补工作感到惊叹。
+   **英文**：I can't get over how much work this wall crack requires.
+   > **解析**：can't get over 意为对……感到惊叹/无法释怀。
 
-3. **中文**：厨房水槽被油脂和食物残渣彻底堵塞了。  
-   **英文**：The kitchen sink became completely clogged with grease and food residues.
-   > **解析**：`clogged` 形容词/过去分词，意为“堵塞的；阻塞的”。搭配 `clogged with...`。
+3. **中文**：我再也受不了地下室里的潮湿气味了。
+   **英文**：I can't take the damp smell in the basement any longer.
+   > **解析**：can't take 意为受不了。
 
-4. **中文**：大雨过后，我们注意到一条细小的裂缝沿着地下室墙壁蔓延。  
-   **英文**：We noticed a thin crack spreading along the basement wall after the heavy rain.
-   > **解析**：`crack` 可数名词，意为“裂缝；裂纹”。
+4. **中文**：更有甚者，屋顶漏水可能会导致天花板坍塌。
+   **英文**：On top of that, the roof leak could cause the ceiling to collapse.
+   > **解析**：collapse 意为坍塌。
 
-5. **中文**：修理老旧屋顶对于这处房产来说是一笔昂贵但必要的投资。  
-   **英文**：Fixing the old roof was an expensive but necessary investment for the property.
-   > **解析**：`investment` 可数/不可数名词，意为“投资；投入”。
+5. **中文**：无可否认，购买这栋砖房是一项有风险的投资。
+   **英文**：Admittedly, buying this brick house was a risky investment.
+   > **解析**：admittedly 意为无可否认地。
 
-6. **中文**：在购买新窗帘之前，一定要测量好窗户的准确尺寸。  
-   **英文**：Before buying new curtains, be sure to measure the exact window dimensions.
-   > **解析**：`measure` 及物动词，意为“测量；度量”。
+6. **中文**：到目前为止，屋顶维护是施工中最昂贵的部分。
+   **英文**：By far, roof maintenance is the most expensive part of construction.
+   > **解析**：by far 意为明显地、到目前为止（修饰最高级）。
 
-7. **中文**：一位有经验的电工修理了线路，但我们仍然需要一名专家来修理水管管道系统。  
-   **英文**：An experienced electrician fixed the wiring, but we still need a specialist for the plumbing.
-   > **解析**：`plumbing` 不可数名词，意为“水管管道系统；管道工活”。
+7. **中文**：天哪，我们可能不得不把地基工程从头再来一遍！
+   **英文**：Oh man, we might have to start the foundation work all over again!
+   > **解析**：all over again 意为从头再来。
 
-8. **中文**：无可否认/诚然，修复这座维多利亚风格的别墅需要大量的时间和精力。  
-   **英文**：Admittedly, restoring this Victorian villa requires a substantial amount of time and effort.
-   > **解析**：`admittedly` 副词作句首状语，意为“无可否认地；诚然”，用于承认某种不便或不利的事实。
+8. **中文**：在专业人员测量了房间尺寸后，我感到如释重负。
+   **英文**：I felt relieved after the professional measured the room dimensions.
+   > **解析**：relieved 意为如释重负的。
 
-9. **中文**：我对我们通过自己给室内房间刷漆节省了这么多钱感到难以置信/惊喜万分。  
-   **英文**：I can't get over how much money we saved by painting the interior rooms ourselves about brick.
-   > **解析**：`can't get over sth.` 习惯表达，意为“对某事感到难以置信；对某事极为惊讶/感叹”。
+9. **中文**：不要为关于房屋安全的令人担忧的报告感到压力山大。
+   **英文**：Don't stress out over the concerning report on house safety.
+   > **解析**：concerning 意为令人担忧的。
 
-10. **中文**：工程师在房屋地基中发现了几处令人担忧的水损害迹象。  
-   **英文**：The engineer found several concerning signs of water damage in the foundation.
-   > **解析**：`concerning` 形容词，意为“令人担忧的；引起关切的”。修饰 `signs`。
+10. **中文**：你能搭把手帮我扩建户外露台吗？
+   **英文**：Could you give me a hand to extend the outdoor patio?
+   > **解析**：give me a hand 意为帮我个忙/搭把手。
+
+11. **中文**：情况毕竟没那么糟糕。
+   **英文**：The situation is not so bad after all.
+   > **解析**：not so bad 意为没那么糟糕。
+
+12. **中文**：我们需要检查砖墙是否有任何隐蔽的裂缝。
+   **英文**：We need to check the brick walls for any hidden crack.
+   > **解析**：crack 意为裂缝。
+
+13. **中文**：房屋内部潮湿的空气可能会导致健康问题。
+   **英文**：Damp air inside the house can cause health problems.
+   > **解析**：damp 意为潮湿的。
+
+14. **中文**：水管问题在老房子里非常普遍。
+   **英文**：Plumbing problems are very common in older houses.
+   > **解析**：plumbing 意为水管系统。
+
+15. **中文**：听说屋顶不会坍塌，他松了一口气。
+   **英文**：He was relieved to hear that the roof wouldn't collapse.
+   > **解析**：relieved 意为松了一口气的。
+
+16. **中文**：这个房屋项目显然是我们一生中最大的投资。
+   **英文**：This house project is by far the biggest investment of our lives.
+   > **解析**：investment 意为投资。
+
+17. **中文**：天哪，浴室里的下水道又堵了！
+   **英文**：Oh man, the drain in the bathroom is clogged again!
+   > **解析**：clogged 意为堵塞的。
+
+18. **中文**：在购买橱柜之前，我们必须测量厨房空间。
+   **英文**：We have to measure the kitchen space before buying cabinets.
+   > **解析**：measure 意为测量。
+
+19. **中文**：定期维护可以防止严重的屋顶漏水。
+   **英文**：Regular maintenance can prevent serious roof leaks.
+   > **解析**：maintenance 意为维护、保养。
+
+20. **中文**：他需要人搭把手来完成房屋建设工程。
+   **英文**：He needs a hand to finish the home construction project.
+   > **解析**：construction 意为施工、建设。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Could you give me a hand with lifting this heavy radiator into the hallway?
-   > **中文**：你能帮我伸手搭把手，把这个沉重的暖气片抬到走廊里吗？
+1. We bought a fixer-upper house, but the plumbing is severely clogged.
+   > **中文**：我们买了一套待修缮的旧房，但水管系统堵塞严重。
 
-2. Leaking in the roof is by far the most serious structural issue with this old house.
-   > **中文**：屋顶漏水是目前为止这栋老房子最严重的结构问题。
+2. I can't get over how much work this wall crack requires.
+   > **中文**：我对这道墙壁裂缝需要这么多修补工作感到惊叹。
 
-3. The kitchen sink became completely clogged with grease and food residues.
-   > **中文**：厨房水槽被油脂和食物残渣彻底堵塞了。
+3. I can't take the damp smell in the basement any longer.
+   > **中文**：我再也受不了地下室里的潮湿气味了。
 
-4. We noticed a thin crack spreading along the basement wall after the heavy rain.
-   > **中文**：大雨过后，我们注意到一条细小的裂缝沿着地下室墙壁蔓延。
+4. On top of that, the roof leak could cause the ceiling to collapse.
+   > **中文**：更有甚者，屋顶漏水可能会导致天花板坍塌。
 
-5. Fixing the old roof was an expensive but necessary investment for the property.
-   > **中文**：修理老旧屋顶对于这处房产来说是一笔昂贵但必要的投资。
+5. Admittedly, buying this brick house was a risky investment.
+   > **中文**：无可否认，购买这栋砖房是一项有风险的投资。
 
-6. Before buying new curtains, be sure to measure the exact window dimensions.
-   > **中文**：在购买新窗帘之前，一定要测量好窗户的准确尺寸。
+6. By far, roof maintenance is the most expensive part of construction.
+   > **中文**：到目前为止，屋顶维护是施工中最昂贵的部分。
 
-7. An experienced electrician fixed the wiring, but we still need a specialist for the plumbing.
-   > **中文**：一位有经验的电工修理了线路，但我们仍然需要一名专家来修理水管管道系统。
+7. Oh man, we might have to start the foundation work all over again!
+   > **中文**：天哪，我们可能不得不把地基工程从头再来一遍！
 
-8. Admittedly, restoring this Victorian villa requires a substantial amount of time and effort.
-   > **中文**：无可否认/诚然，修复这座维多利亚风格的别墅需要大量的时间和精力。
+8. I felt relieved after the professional measured the room dimensions.
+   > **中文**：在专业人员测量了房间尺寸后，我感到如释重负。
 
-9. I can't get over how much money we saved by painting the interior rooms ourselves about brick.
-   > **中文**：我对我们通过自己给室内房间刷漆节省了这么多钱感到难以置信/惊喜万分。
+9. Don't stress out over the concerning report on house safety.
+   > **中文**：不要为关于房屋安全的令人担忧的报告感到压力山大。
 
-10. The engineer found several concerning signs of water damage in the foundation.
-   > **中文**：工程师在房屋地基中发现了几处令人担忧的水损害迹象。
+10. Could you give me a hand to extend the outdoor patio?
+   > **中文**：你能搭把手帮我扩建户外露台吗？
+
+11. The situation is not so bad after all.
+   > **中文**：情况毕竟没那么糟糕。
+
+12. We need to check the brick walls for any hidden crack.
+   > **中文**：我们需要检查砖墙是否有任何隐蔽的裂缝。
+
+13. Damp air inside the house can cause health problems.
+   > **中文**：房屋内部潮湿的空气可能会导致健康问题。
+
+14. Plumbing problems are very common in older houses.
+   > **中文**：水管问题在老房子里非常普遍。
+
+15. He was relieved to hear that the roof wouldn't collapse.
+   > **中文**：听说屋顶不会坍塌，他松了一口气。
+
+16. This house project is by far the biggest investment of our lives.
+   > **中文**：这个房屋项目显然是我们一生中最大的投资。
+
+17. Oh man, the drain in the bathroom is clogged again!
+   > **中文**：天哪，浴室里的下水道又堵了！
+
+18. We have to measure the kitchen space before buying cabinets.
+   > **中文**：在购买橱柜之前，我们必须测量厨房空间。
+
+19. Regular maintenance can prevent serious roof leaks.
+   > **中文**：定期维护可以防止严重的屋顶漏水。
+
+20. He needs a hand to finish the home construction project.
+   > **中文**：他需要人搭把手来完成房屋建设工程。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| fixer-upper | 待修缮的房子 |
+| plumbing | 水管系统 |
+| clogged | 堵塞的 |
+| leak | 漏水；泄漏 |
+| crack | 裂缝 |
+| damp | 潮湿的 |
+| collapse | 坍塌 |
+| by far | 显然；到目前为止 |
+| admittedly | 无可否认地 |
+| not so bad | 没那么糟糕 |
+| can't take | 受不了 |
+| can't get over | 对……惊叹/无法释怀 |
+| stress out | 压力很大 |
+| on top of that | 更有甚者；除此之外 |
+| investment | 投资 |
+| maintenance | 维护；保养 |
+| construction | 施工；建设 |
+| brick | 砖 |
+| extend | 扩展；延伸 |
+| relieved | 如释重负的 |
 
 </quiz-matching>
 
@@ -143,102 +236,202 @@ a hand, admittedly, all over again, brick, by far, can't get over, can't take, c
 
 ### 1
 
-Could you give me `____` with lifting this heavy radiator into the hallway?
+We bought a ____ house, but the plumbing is severely clogged.
 
-- [x] a hand
+- [x] fixer-upper
+- [ ] a hand
 - [ ] admittedly
-- [ ] can't get over
 
-> **解析**：`give sb. a hand` 为常用口语短语，意为“给某人帮个忙/搭把手”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Leaking in the roof is `____` the most serious structural issue with this old house.
+I can't get over how much work this wall ____ requires.
 
-- [x] by far
+- [x] crack
+- [ ] a hand
 - [ ] admittedly
-- [ ] can't take
 
-> **解析**：`by far` 强调程度副词短语，意为“迄今为止；显然”，修饰最高级 `the most serious`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The kitchen sink became completely `____` with grease and food residues.
+I can't take the ____ smell in the basement any longer.
 
-- [x] clogged
-- [ ] all over again
-- [ ] can't take
+- [x] damp
+- [ ] a hand
+- [ ] admittedly
 
-> **解析**：`clogged` 形容词/过去分词，意为“堵塞的；阻塞的”。搭配 `clogged with...`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-We noticed a thin `____` spreading along the basement wall after the heavy rain.
+On top of that, the roof ____ could cause the ceiling to collapse.
 
-- [x] crack
-- [ ] brick
-- [ ] clogged
+- [x] leak
+- [ ] a hand
+- [ ] admittedly
 
-> **解析**：`crack` 可数名词，意为“裂缝；裂纹”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Fixing the old roof was an expensive but necessary `____` for the property.
+____, buying this brick house was a risky investment.
 
-- [x] investment
-- [ ] by far
-- [ ] collapse
+- [x] Admittedly
+- [ ] a hand
+- [ ] all over again
 
-> **解析**：`investment` 可数/不可数名词，意为“投资；投入”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Before buying new curtains, be sure to `____` the exact window dimensions.
+By far, roof ____ is the most expensive part of construction.
 
-- [x] measure
-- [ ] can't get over
-- [ ] concerning
+- [x] maintenance
+- [ ] a hand
+- [ ] admittedly
 
-> **解析**：`measure` 及物动词，意为“测量；度量”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-An experienced electrician fixed the wiring, but we still need a specialist for the `____`.
+Oh man, we might have to start the ____ work all over again!
 
-- [x] plumbing
-- [ ] can't take
-- [ ] construction
+- [x] foundation
+- [ ] a hand
+- [ ] admittedly
 
-> **解析**：`plumbing` 不可数名词，意为“水管管道系统；管道工活”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-`____`, restoring this Victorian villa requires a substantial amount of time and effort.
+I felt ____ after the professional measured the room dimensions.
 
-- [x] admittedly
-- [ ] collapse
-- [ ] damp
+- [x] relieved
+- [ ] a hand
+- [ ] admittedly
 
-> **解析**：`admittedly` 副词作句首状语，意为“无可否认地；诚然”，用于承认某种不便或不利的事实。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-I can't get over how much money we saved by painting the interior rooms ourselves about `____`.
+Don't stress out over the ____ report on house safety.
 
-- [x] brick
-- [ ] concerning
-- [ ] extend
+- [x] concerning
+- [ ] a hand
+- [ ] admittedly
 
-> **解析**：`can't get over sth.` 习惯表达，意为“对某事感到难以置信；对某事极为惊讶/感叹”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The engineer found several `____` signs of water damage in the foundation.
+Could you give me a hand to ____ the outdoor patio?
 
-- [x] concerning
-- [ ] construction
-- [ ] fixer-upper
+- [x] extend
+- [ ] a hand
+- [ ] admittedly
 
-> **解析**：`concerning` 形容词，意为“令人担忧的；引起关切的”。修饰 `signs`。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The ____ is not so bad after all.
+
+- [x] situation
+- [ ] a hand
+- [ ] admittedly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+We need to check the ____ walls for any hidden crack.
+
+- [x] brick
+- [ ] a hand
+- [ ] admittedly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+____ air inside the house can cause health problems.
+
+- [x] Damp
+- [ ] a hand
+- [ ] admittedly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+____ problems are very common in older houses.
+
+- [x] Plumbing
+- [ ] a hand
+- [ ] admittedly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+He was ____ to hear that the roof wouldn't collapse.
+
+- [x] relieved
+- [ ] a hand
+- [ ] admittedly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+This house project is by far the biggest ____ of our lives.
+
+- [x] investment
+- [ ] a hand
+- [ ] admittedly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Oh man, the drain in the bathroom is ____ again!
+
+- [x] clogged
+- [ ] a hand
+- [ ] admittedly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+We have to ____ the kitchen space before buying cabinets.
+
+- [x] measure
+- [ ] a hand
+- [ ] admittedly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Regular ____ can prevent serious roof leaks.
+
+- [x] maintenance
+- [ ] a hand
+- [ ] admittedly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+He needs a hand to finish the home ____ project.
+
+- [x] construction
+- [ ] a hand
+- [ ] admittedly
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

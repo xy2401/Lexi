@@ -75,83 +75,176 @@ must have / must not have 是对过去事情的推测："一定是……""一定
 
 <quiz-sentence-builder>
 
-1. **中文**：微小的会计错误可能引发巨大的财务损失。  
-   **英文**：Small accounting errors can lead to big financial losses.
-   > **解析**：`error` 是可数名词，意为“错误、失误”，作主语。
+1. **中文**：我一不小心把热咖啡泼在了新衬衫上，留下了难看的水渍。
+   **英文**：I accidentally spilled hot coffee and left a big stain on my shirt.
+   > **解析**：stain 表示污渍。
 
-2. **中文**：机器运行得很糟糕，因为它一直没有得到保养。  
-   **英文**：The machine performed badly because it had not been serviced.
-   > **解析**：`badly` 是副词，修饰不及物动词 `performed`，意为“糟糕地”。
+2. **中文**：服务员递咖啡时手滑了，托盘上的杯子全碎了。
+   **英文**：The server slipped and dropped the heavy food tray on the floor.
+   > **解析**：tray 表示托盘。
 
-3. **中文**：你一定是无意中把钥匙忘在办公室桌上了。  
-   **英文**：You must have left your keys on the office desk by mistake.
-   > **解析**：`must have + 过去分词` 表示对过去事情的肯定推测（一定做过）。
+3. **中文**：考试时我的计算器突然没电了，真是糟糕的一天。
+   **英文**：My financial calculator ran out of battery during the exam.
+   > **解析**：calculator 表示计算器。
 
-4. **中文**：我们所有人偶尔都会犯些小错，所以不要泄气。  
-   **英文**：We all make minor mistakes from time to time, so don't be discouraged.
-   > **解析**：`from time to time` 是时间副词短语，意为“偶尔、有时”。
+4. **中文**：报告里一个微小的计算错误导致整个结果都错了。
+   **英文**：A tiny calculation error ruined the entire accounting report.
+   > **解析**：error 表示错误。
 
-5. **中文**：我好几年没打网球了，所以现在完全生疏了。  
-   **英文**：I haven't played tennis for years, so I am completely out of practice.
-   > **解析**：`be out of practice` 是固定短语，意为“生疏的、缺少练习的”。
+5. **中文**：尽管付出了巨大努力，他依然没有按时赶上末班车。
+   **英文**：Despite making a great effort, he still missed the last bus.
+   > **解析**：effort 表示努力。
 
-6. **中文**：今天早上她费了好大劲才找到丢失的报告。  
-   **英文**：She had a hard time finding the missing report this morning.
-   > **解析**：`have a hard time doing sth` 是固定搭配，意为“做某事很费劲/有困难”。
+6. **中文**：每个人在生活中都会经历一段艰难的时光。
+   **英文**：Everybody goes through a hard time at some point in life.
+   > **解析**：hard time 表示艰难时光；everybody 表示每个人。
 
-7. **中文**：幸好我们在服务器崩溃前备份了文件。  
-   **英文**：It's a good thing that we backed up the files before the server crashed.
-   > **解析**：`it's a good thing that...` 是口语习惯表达，意为“幸亏/幸好……”。
+7. **中文**：他的脚踝在比赛中严重受了伤。
+   **英文**：He hurt his left ankle badly while playing basketball today.
+   > **解析**：badly 表示严重地、糟糕地。
 
-8. **中文**：尽管他尽了最大努力，但他没能修好那个坏掉的托盘。  
-   **英文**：Despite his best efforts, he couldn't fix the broken tray.
-   > **解析**：`effort` 作名词，意为“努力”，短语 `despite one's best efforts`。
+8. **中文**：今天真是艰难的一天，但我们需要保持乐观。
+   **英文**：Today was a really tough day, but we need to stay optimistic.
+   > **解析**：tough 表示艰难的。
 
-9. **中文**：今天对客服团队来说是艰难的一天。  
-   **英文**：It has been a tough day for the customer service team.
-   > **解析**：`tough` 是形容词，意为“艰难的、棘手的”，修饰名词 `day`。
+9. **中文**：因为太久没弹钢琴，他的指法显得有些生疏。
+   **英文**：Because he hadn't played for years, he was out of practice.
+   > **解析**：out of practice 表示疏于练习、生疏的。
 
-10. **中文**：那个可怜的小家伙整个早晨都在寒雨中发抖。  
-   **英文**：The poor thing was shivering in the cold rain all morning.
-   > **解析**：`poor thing` 是日常口语表达，意为“可怜的人/可怜的小家伙”。
+10. **中文**：可怜的人，他今天把钥匙和钱包都落在了出租车上。
+   **英文**：Poor thing, she left her keys and wallet in the taxi.
+   > **解析**：poor thing 表示可怜的人/小家伙。
+
+11. **中文**：别难过了，吃点甜品振作起来吧！
+   **英文**：Don't stay sad! Have a piece of cake to cheer yourself up!
+   > **解析**：cheer 表示振作、欢呼。
+
+12. **中文**：幸好我出门前带了把伞，不然就被淋成落汤鸡了。
+   **英文**：It's a good thing I brought an umbrella before the heavy rain started.
+   > **解析**：it's a good thing 表示幸好、幸亏。
+
+13. **中文**：每个人都会偶尔遇到倒霉的小意外。
+   **英文**：Everyone encounters minor bad luck from time to time.
+   > **解析**：from time to time 表示偶尔、不时。
+
+14. **中文**：你一定是早晨忙着出门，所以落下了重要文件。
+   **英文**：You must have been in a hurry and left the file at home.
+   > **解析**：must have 用于对过去发生的动作做肯定推测，意为一定曾经……
+
+15. **中文**：他一定是没有收到通知，所以今天才没有出席会议。
+   **英文**：He must not have received the invitation email in time.
+   > **解析**：must not have 用于对过去动作做否定推测，意为一定没有……
+
+16. **中文**：这项任务还没有完全完成，我们还需要半小时。
+   **英文**：The task is not quite finished yet, so give us thirty minutes.
+   > **解析**：not quite 表示不完全是、尚未完全。
+
+17. **中文**：走廊里没有任何人，大家都在会议室里开会。
+   **英文**：There was no one in the office when the alarm rang.
+   > **解析**：no one 表示没有人。
+
+18. **中文**：如果有任何人看到我的计算器，请告诉我。
+   **英文**：If anybody sees my missing calculator, please let me know.
+   > **解析**：anybody 表示任何人。
+
+19. **中文**：我在这个学期里努力追赶漏掉的课程进度。
+   **英文**：I had to work late to catch up on missed school assignments.
+   > **解析**：catch up 表示追赶、赶上。
+
+20. **中文**：我不小心摔坏了朋友借给我的玻璃杯。
+   **英文**：I accidentally broke the drinking glass my friend lent me.
+   > **解析**：break (broke) 表示弄坏、打破。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Small accounting errors can lead to big financial losses.
-   > **中文**：微小的会计错误可能引发巨大的财务损失。
+1. I accidentally spilled hot coffee and left a big stain on my shirt.
+   > **中文**：我一不小心把热咖啡泼在了新衬衫上，留下了难看的水渍。
 
-2. The machine performed badly because it had not been serviced.
-   > **中文**：机器运行得很糟糕，因为它一直没有得到保养。
+2. The server slipped and dropped the heavy food tray on the floor.
+   > **中文**：服务员递咖啡时手滑了，托盘上的杯子全碎了。
 
-3. You must have left your keys on the office desk by mistake.
-   > **中文**：你一定是无意中把钥匙忘在办公室桌上了。
+3. My financial calculator ran out of battery during the exam.
+   > **中文**：考试时我的计算器突然没电了，真是糟糕的一天。
 
-4. We all make minor mistakes from time to time, so don't be discouraged.
-   > **中文**：我们所有人偶尔都会犯些小错，所以不要泄气。
+4. A tiny calculation error ruined the entire accounting report.
+   > **中文**：报告里一个微小的计算错误导致整个结果都错了。
 
-5. I haven't played tennis for years, so I am completely out of practice.
-   > **中文**：我好几年没打网球了，所以现在完全生疏了。
+5. Despite making a great effort, he still missed the last bus.
+   > **中文**：尽管付出了巨大努力，他依然没有按时赶上末班车。
 
-6. She had a hard time finding the missing report this morning.
-   > **中文**：今天早上她费了好大劲才找到丢失的报告。
+6. Everybody goes through a hard time at some point in life.
+   > **中文**：每个人在生活中都会经历一段艰难的时光。
 
-7. It's a good thing that we backed up the files before the server crashed.
-   > **中文**：幸好我们在服务器崩溃前备份了文件。
+7. He hurt his left ankle badly while playing basketball today.
+   > **中文**：他的脚踝在比赛中严重受了伤。
 
-8. Despite his best efforts, he couldn't fix the broken tray.
-   > **中文**：尽管他尽了最大努力，但他没能修好那个坏掉的托盘。
+8. Today was a really tough day, but we need to stay optimistic.
+   > **中文**：今天真是艰难的一天，但我们需要保持乐观。
 
-9. It has been a tough day for the customer service team.
-   > **中文**：今天对客服团队来说是艰难的一天。
+9. Because he hadn't played for years, he was out of practice.
+   > **中文**：因为太久没弹钢琴，他的指法显得有些生疏。
 
-10. The poor thing was shivering in the cold rain all morning.
-   > **中文**：那个可怜的小家伙整个早晨都在寒雨中发抖。
+10. Poor thing, she left her keys and wallet in the taxi.
+   > **中文**：可怜的人，他今天把钥匙和钱包都落在了出租车上。
+
+11. Don't stay sad! Have a piece of cake to cheer yourself up!
+   > **中文**：别难过了，吃点甜品振作起来吧！
+
+12. It's a good thing I brought an umbrella before the heavy rain started.
+   > **中文**：幸好我出门前带了把伞，不然就被淋成落汤鸡了。
+
+13. Everyone encounters minor bad luck from time to time.
+   > **中文**：每个人都会偶尔遇到倒霉的小意外。
+
+14. You must have been in a hurry and left the file at home.
+   > **中文**：你一定是早晨忙着出门，所以落下了重要文件。
+
+15. He must not have received the invitation email in time.
+   > **中文**：他一定是没有收到通知，所以今天才没有出席会议。
+
+16. The task is not quite finished yet, so give us thirty minutes.
+   > **中文**：这项任务还没有完全完成，我们还需要半小时。
+
+17. There was no one in the office when the alarm rang.
+   > **中文**：走廊里没有任何人，大家都在会议室里开会。
+
+18. If anybody sees my missing calculator, please let me know.
+   > **中文**：如果有任何人看到我的计算器，请告诉我。
+
+19. I had to work late to catch up on missed school assignments.
+   > **中文**：我在这个学期里努力追赶漏掉的课程进度。
+
+20. I accidentally broke the drinking glass my friend lent me.
+   > **中文**：我不小心摔坏了朋友借给我的玻璃杯。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| stain | 污渍；玷污 |
+| tray | 托盘 |
+| calculator | 计算器 |
+| error | 错误 |
+| effort | 努力；付出 |
+| hard time | 艰难时光；困境 |
+| badly | 严重地；糟糕地 |
+| tough | 艰难的；坚韧的 |
+| out of practice | 疏于练习；生疏的 |
+| poor thing | 可怜的小家伙/可怜的人 |
+| catch up | 赶上；追平 |
+| cheer | 振作；欢呼 |
+| break | 弄坏；休息 |
+| must have | 一定曾经（对过去的肯定推测） |
+| must not have | 一定没有（对过去的否定推测） |
+| it's a good thing | 幸好；幸亏 |
+| from time to time | 偶尔；不时 |
+| not quite | 不完全是；尚未完全 |
+| no one | 没有人 |
+| anybody | 任何人 |
 
 </quiz-matching>
 
@@ -159,102 +252,202 @@ must have / must not have 是对过去事情的推测："一定是……""一定
 
 ### 1
 
-Small accounting `____`s can lead to big financial losses.
+I accidentally spilled hot coffee and left a big ____ on my shirt.
 
-- [x] error
+- [x] stain
 - [ ] anybody
-- [ ] catch up
+- [ ] badly
 
-> **解析**：`error` 是可数名词，意为“错误、失误”，作主语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The machine performed `____` because it had not been serviced.
+The server slipped and dropped the heavy food ____ on the floor.
 
-- [x] badly
-- [ ] break
-- [ ] effort
+- [x] tray
+- [ ] anybody
+- [ ] badly
 
-> **解析**：`badly` 是副词，修饰不及物动词 `performed`，意为“糟糕地”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-You `____` have left your keys on the office desk by mistake.
+My financial ____ ran out of battery during the exam.
 
-- [x] must
-- [ ] break
-- [ ] effort
+- [x] calculator
+- [ ] anybody
+- [ ] badly
 
-> **解析**：`must have + 过去分词` 表示对过去事情的肯定推测（一定做过）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-We all make minor mistakes `____`, so don't be discouraged.
+A tiny calculation ____ ruined the entire accounting report.
 
-- [x] from time to time
-- [ ] calculator
-- [ ] error
+- [x] error
+- [ ] anybody
+- [ ] badly
 
-> **解析**：`from time to time` 是时间副词短语，意为“偶尔、有时”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-I haven't played tennis for years, so I am completely `____`.
+Despite making a great ____, he still missed the last bus.
 
-- [x] out of practice
-- [ ] catch up
-- [ ] everybody
+- [x] effort
+- [ ] anybody
+- [ ] badly
 
-> **解析**：`be out of practice` 是固定短语，意为“生疏的、缺少练习的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-She had a `____` finding the missing report this morning.
+____ goes through a hard time at some point in life.
 
-- [x] hard time
-- [ ] cheer
-- [ ] from time to time
+- [x] Everybody
+- [ ] anybody
+- [ ] badly
 
-> **解析**：`have a hard time doing sth` 是固定搭配，意为“做某事很费劲/有困难”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-`____` that we backed up the files before the server crashed.
+He hurt his left ankle ____ while playing basketball today.
 
-- [x] it's a good thing
-- [ ] effort
-- [ ] hard time
+- [x] badly
+- [ ] anybody
+- [ ] break
 
-> **解析**：`it's a good thing that...` 是口语习惯表达，意为“幸亏/幸好……”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Despite his best `____`s, he couldn't fix the broken tray.
+Today was a really ____ day, but we need to stay optimistic.
 
-- [x] effort
-- [ ] everybody
-- [ ] it's a good thing
+- [x] tough
+- [ ] anybody
+- [ ] badly
 
-> **解析**：`effort` 作名词，意为“努力”，短语 `despite one's best efforts`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-It has been a `____` day for the customer service team.
+Because he hadn't played for years, he was out of ____.
 
-- [x] tough
-- [ ] everybody
-- [ ] it's a good thing
+- [x] practice
+- [ ] anybody
+- [ ] badly
 
-> **解析**：`tough` 是形容词，意为“艰难的、棘手的”，修饰名词 `day`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The `____` was shivering in the cold rain all morning.
+Poor thing, she left her keys and ____ in the taxi.
 
-- [x] poor thing
-- [ ] from time to time
-- [ ] must
+- [x] wallet
+- [ ] anybody
+- [ ] badly
 
-> **解析**：`poor thing` 是日常口语表达，意为“可怜的人/可怜的小家伙”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Don't stay sad! Have a piece of cake to ____ yourself up!
+
+- [x] cheer
+- [ ] anybody
+- [ ] badly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+It's a good thing I brought an ____ before the heavy rain started.
+
+- [x] umbrella
+- [ ] anybody
+- [ ] badly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Everyone ____ minor bad luck from time to time.
+
+- [x] encounters
+- [ ] anybody
+- [ ] badly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+You ____ have been in a hurry and left the file at home.
+
+- [x] must
+- [ ] anybody
+- [ ] badly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+He ____ not have received the invitation email in time.
+
+- [x] must
+- [ ] anybody
+- [ ] badly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The task is not quite ____ yet, so give us thirty minutes.
+
+- [x] finished
+- [ ] anybody
+- [ ] badly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+There was no one in the ____ when the alarm rang.
+
+- [x] office
+- [ ] anybody
+- [ ] badly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+If ____ sees my missing calculator, please let me know.
+
+- [x] anybody
+- [ ] badly
+- [ ] break
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+I had to work late to catch up on missed school ____.
+
+- [x] assignments
+- [ ] anybody
+- [ ] badly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+I ____ broke the drinking glass my friend lent me.
+
+- [x] accidentally
+- [ ] anybody
+- [ ] badly
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

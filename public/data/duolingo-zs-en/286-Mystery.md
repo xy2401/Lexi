@@ -63,83 +63,176 @@ alien, archeologist, classified, coincidence, conclusion, convinced, couldn't, f
 
 <quiz-sentence-builder>
 
-1. **中文**：科学家们提出了一种新理论来解释古金字塔是如何建造的。  
-   **英文**：Scientists have proposed a new theory to explain how the ancient pyramids were built.
-   > **解析**：`theory` 是名词，意为“理论、学说”，常用搭配 `propose a theory`（提出理论）。
+1. **中文**：为了讨论方便，我们姑且假设这个理论是真的。
+   **英文**：For the sake of argument, let's suppose the theory is true.
+   > **解析**：for the sake of argument 表示“为了讨论方便、姑且假设”。
 
-2. **中文**：首席考古学家在沙漠废墟深处发现了一座隐藏的坟墓。  
-   **英文**：The lead archeologist discovered a hidden tomb deep inside the desert ruins.
-   > **解析**：`archeologist`（亦可拼作 `archaeologist`）是名词，意为“考古学家”。
+2. **中文**：我对外星人建造了古代建筑的说法持怀疑态度。
+   **英文**：I am skeptical about claims that aliens built the ancient structures.
+   > **解析**：skeptical 表示怀疑的。
 
-3. **中文**：许多历史学家对外星人参与的说法依然持怀疑态度。  
-   **英文**：Many historians remain skeptical about the claims of alien involvement.
-   > **解析**：`skeptical` 是形容词，意为“怀疑的、不轻信的”，常用搭配 `be skeptical about...`。
+3. **中文**：科学家确信存在一个符合逻辑的解释。
+   **英文**：The scientist is convinced that there is a logical explanation.
+   > **解析**：convinced 表示确信的。
 
-4. **中文**：在审查了证据之后，她完全确信这份文件是真的。  
-   **英文**：After reviewing the evidence, she was fully convinced that the document was real.
-   > **解析**：`convinced` 是形容词，意为“确信的、信服的”，常用搭配 `be convinced that...`。
+4. **中文**：考古学家在墓地附近发掘出了一件木制文物。
+   **英文**：The archeologist unearthed a wooden artifact near the burial site.
+   > **解析**：archeologist 表示考古学家。
 
-5. **中文**：在不同国家找到两件相似的手工艺品是一个非同寻常的巧合。  
-   **英文**：Finding two similar artifacts in different countries was an extraordinary coincidence.
-   > **解析**：`coincidence` 是名词，意为“巧合”，由 `co-` + `incidence` 构成。
+5. **中文**：科学家们测试了一个关于月球起源的新理论。
+   **英文**：Scientists tested a new theory regarding the origin of the moon.
+   > **解析**：theory 表示理论、假说。
 
-6. **中文**：有关这一谜团的政府文件被保密了几十年。  
-   **英文**：The government documents regarding the mystery were kept classified.
-   > **解析**：`classified` 是形容词，在此意为“保密的、机密的”，原意为“分类的”。
+6. **中文**：在得出可靠结论前我们需要更多证据。
+   **英文**：We need more evidence before we can draw a solid conclusion.
+   > **解析**：conclusion 表示结论。
 
-7. **中文**：为了讨论起见，我们假设这张古地图是真的。  
-   **英文**：Let's assume, for the sake of argument, that the ancient map is authentic.
-   > **解析**：`for the sake of argument` 是固定短语，意为“为了讨论/争论起见（假设某种前提）”。
+7. **中文**：没有装备人类极不可能在火星上生存。
+   **英文**：It is highly improbable that humans could live on Mars without gear.
+   > **解析**：improbable 表示不太可能的。
 
-8. **中文**：尽管可能性极低，一些研究人员仍在这项稀奇的假说中进行探索。  
-   **英文**：Although it is highly improbable, some researchers still explore the strange hypothesis.
-   > **解析**：`improbable` 是形容词，前缀 `im-` + `probable`，意为“不太可能的、不大可能发生的”。
+8. **中文**：他们在同一时刻到达完全是个巧合。
+   **英文**：It is pure coincidence that they arrived at the same moment.
+   > **解析**：coincidence 表示巧合。
 
-9. **中文**：埃及雄伟的金字塔继续惊艳着来自世界各地的游客。  
-   **英文**：The majestic pyramids of Egypt continue to amaze visitors from around the world about conclusion.
-   > **解析**：`pyramids` 是复数名词，特指“金字塔”，作句中的主语。
+9. **中文**：我们的太阳系由太阳和八大行星组成。
+   **英文**：Our solar system consists of the sun and eight planets.
+   > **解析**：solar system 表示太阳系。
 
-10. **中文**：我常常纳闷为建造这座纪念碑的工人当年的生活是什么样的。  
-   **英文**：I often wonder what life was like for the workers who constructed the monument.
-   > **解析**：`wonder` 在此作动词，意为“感到好奇、想知道”，后接宾语从句。
+10. **中文**：银河系只是宇宙中数以十亿计星系中的一个。
+   **英文**：The Milky Way is just one galaxy among billions in the universe.
+   > **解析**：galaxy 表示星系。
+
+11. **中文**：飞行员报告在空中看见了一个不明飞行物。
+   **英文**：The pilot reported seeing an unknown ufo in the sky.
+   > **解析**：ufo 是 unidentified flying object（不明飞行物）的缩写。
+
+12. **中文**：在科幻电影里，宇航员乘坐未来感的宇宙飞船穿梭太空。
+   **英文**：In sci-fi movies, astronauts travel across space in a futuristic spaceship.
+   > **解析**：spaceship 表示宇宙飞船。
+
+13. **中文**：埃及金字塔是作为古代法老王陵墓建造的。
+   **英文**：The Egyptian pyramids were built as tombs for ancient pharaohs.
+   > **解析**：pyramids 表示金字塔。
+
+14. **中文**：游客们喜欢探索神庙的古老遗迹。
+   **英文**：Tourists love exploring the ancient ruins of the temple.
+   > **解析**：ruins 复数形式，表示遗迹、废墟。
+
+15. **中文**：假设我们穿越回过去，你会改变什么？
+   **英文**：Suppose we travel back in time, what would you change?
+   > **解析**：Suppose 用于提出假设，意为“假设”。
+
+16. **中文**：比方说你赢得了奖项，你会怎么花这笔钱？
+   **英文**：Let's say you win the prize, how would you spend it?
+   > **解析**：Let's say 口语表达，意为“比方说”。
+
+17. **中文**：如果我们假设数学计算是正确的，这个结果就合理了。
+   **英文**：If we assume the math is correct, the result makes sense.
+   > **解析**：If we assume 表达“如果我们假设”。
+
+18. **中文**：该文件被标记为机密并保存在安全保险库中。
+   **英文**：The file was marked as classified and kept in a secure vault.
+   > **解析**：classified 表示机密的、保密的。
+
+19. **中文**：我想知道我们是否能解开这个历史谜团。
+   **英文**：I wonder if we will ever solve this historical enigma.
+   > **解析**：wonder 动词，表示“想知道、好奇”。
+
+20. **中文**：如果是这样的话，那么我们需要立即改变假说。
+   **英文**：If so, then we need to change our hypothesis immediately.
+   > **解析**：If so 表示“如果是这样的话”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Scientists have proposed a new theory to explain how the ancient pyramids were built.
-   > **中文**：科学家们提出了一种新理论来解释古金字塔是如何建造的。
+1. For the sake of argument, let's suppose the theory is true.
+   > **中文**：为了讨论方便，我们姑且假设这个理论是真的。
 
-2. The lead archeologist discovered a hidden tomb deep inside the desert ruins.
-   > **中文**：首席考古学家在沙漠废墟深处发现了一座隐藏的坟墓。
+2. I am skeptical about claims that aliens built the ancient structures.
+   > **中文**：我对外星人建造了古代建筑的说法持怀疑态度。
 
-3. Many historians remain skeptical about the claims of alien involvement.
-   > **中文**：许多历史学家对外星人参与的说法依然持怀疑态度。
+3. The scientist is convinced that there is a logical explanation.
+   > **中文**：科学家确信存在一个符合逻辑的解释。
 
-4. After reviewing the evidence, she was fully convinced that the document was real.
-   > **中文**：在审查了证据之后，她完全确信这份文件是真的。
+4. The archeologist unearthed a wooden artifact near the burial site.
+   > **中文**：考古学家在墓地附近发掘出了一件木制文物。
 
-5. Finding two similar artifacts in different countries was an extraordinary coincidence.
-   > **中文**：在不同国家找到两件相似的手工艺品是一个非同寻常的巧合。
+5. Scientists tested a new theory regarding the origin of the moon.
+   > **中文**：科学家们测试了一个关于月球起源的新理论。
 
-6. The government documents regarding the mystery were kept classified.
-   > **中文**：有关这一谜团的政府文件被保密了几十年。
+6. We need more evidence before we can draw a solid conclusion.
+   > **中文**：在得出可靠结论前我们需要更多证据。
 
-7. Let's assume, for the sake of argument, that the ancient map is authentic.
-   > **中文**：为了讨论起见，我们假设这张古地图是真的。
+7. It is highly improbable that humans could live on Mars without gear.
+   > **中文**：没有装备人类极不可能在火星上生存。
 
-8. Although it is highly improbable, some researchers still explore the strange hypothesis.
-   > **中文**：尽管可能性极低，一些研究人员仍在这项稀奇的假说中进行探索。
+8. It is pure coincidence that they arrived at the same moment.
+   > **中文**：他们在同一时刻到达完全是个巧合。
 
-9. The majestic pyramids of Egypt continue to amaze visitors from around the world about conclusion.
-   > **中文**：埃及雄伟的金字塔继续惊艳着来自世界各地的游客。
+9. Our solar system consists of the sun and eight planets.
+   > **中文**：我们的太阳系由太阳和八大行星组成。
 
-10. I often wonder what life was like for the workers who constructed the monument.
-   > **中文**：我常常纳闷为建造这座纪念碑的工人当年的生活是什么样的。
+10. The Milky Way is just one galaxy among billions in the universe.
+   > **中文**：银河系只是宇宙中数以十亿计星系中的一个。
+
+11. The pilot reported seeing an unknown ufo in the sky.
+   > **中文**：飞行员报告在空中看见了一个不明飞行物。
+
+12. In sci-fi movies, astronauts travel across space in a futuristic spaceship.
+   > **中文**：在科幻电影里，宇航员乘坐未来感的宇宙飞船穿梭太空。
+
+13. The Egyptian pyramids were built as tombs for ancient pharaohs.
+   > **中文**：埃及金字塔是作为古代法老王陵墓建造的。
+
+14. Tourists love exploring the ancient ruins of the temple.
+   > **中文**：游客们喜欢探索神庙的古老遗迹。
+
+15. Suppose we travel back in time, what would you change?
+   > **中文**：假设我们穿越回过去，你会改变什么？
+
+16. Let's say you win the prize, how would you spend it?
+   > **中文**：比方说你赢得了奖项，你会怎么花这笔钱？
+
+17. If we assume the math is correct, the result makes sense.
+   > **中文**：如果我们假设数学计算是正确的，这个结果就合理了。
+
+18. The file was marked as classified and kept in a secure vault.
+   > **中文**：该文件被标记为机密并保存在安全保险库中。
+
+19. I wonder if we will ever solve this historical enigma.
+   > **中文**：我想知道我们是否能解开这个历史谜团。
+
+20. If so, then we need to change our hypothesis immediately.
+   > **中文**：如果是这样的话，那么我们需要立即改变假说。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| for the sake of argument | 为了讨论方便 / 姑且假设 |
+| skeptical | 怀疑的 |
+| convinced | 确信的 |
+| archeologist | 考古学家 |
+| theory | 理论 / 假说 |
+| conclusion | 结论 |
+| improbable | 不太可能的 |
+| coincidence | 巧合 |
+| solar system | 太阳系 |
+| galaxy | 星系 |
+| ufo | 不明飞行物 |
+| spaceship | 宇宙飞船 |
+| pyramids | 金字塔 |
+| ruins | 遗迹 / 废墟 |
+| suppose | 假设 / 假定 |
+| let's say | 比方说 |
+| if we assume | 如果我们假设 |
+| classified | 机密的 / 保密的 |
+| wonder | 想知道 / 好奇 |
+| if so | 如果是这样的话 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ alien, archeologist, classified, coincidence, conclusion, convinced, couldn't, f
 
 ### 1
 
-Scientists have proposed a new theory to explain how the ancient `____` were built.
+For the sake of argument, let's ____ the theory is true.
 
-- [x] pyramids
+- [x] suppose
 - [ ] alien
-- [ ] conclusion
+- [ ] archeologist
 
-> **解析**：`theory` 是名词，意为“理论、学说”，常用搭配 `propose a theory`（提出理论）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The lead `____` discovered a hidden tomb deep inside the desert ruins.
+I am ____ about claims that aliens built the ancient structures.
 
-- [x] archeologist
-- [ ] classified
-- [ ] couldn't
+- [x] skeptical
+- [ ] alien
+- [ ] archeologist
 
-> **解析**：`archeologist`（亦可拼作 `archaeologist`）是名词，意为“考古学家”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Many historians remain skeptical about the claims of `____` involvement.
+The scientist is ____ that there is a logical explanation.
 
-- [x] alien
-- [ ] coincidence
-- [ ] for the sake of argument
+- [x] convinced
+- [ ] alien
+- [ ] archeologist
 
-> **解析**：`skeptical` 是形容词，意为“怀疑的、不轻信的”，常用搭配 `be skeptical about...`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-After reviewing the evidence, she was fully `____` that the document was real.
+The ____ unearthed a wooden artifact near the burial site.
 
-- [x] convinced
-- [ ] coincidence
-- [ ] galaxy
+- [x] archeologist
+- [ ] alien
+- [ ] classified
 
-> **解析**：`convinced` 是形容词，意为“确信的、信服的”，常用搭配 `be convinced that...`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Finding two similar artifacts in different countries was an extraordinary `____`.
+Scientists tested a new ____ regarding the origin of the moon.
 
-- [x] coincidence
-- [ ] convinced
-- [ ] have been
+- [x] theory
+- [ ] alien
+- [ ] archeologist
 
-> **解析**：`coincidence` 是名词，意为“巧合”，由 `co-` + `incidence` 构成。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The government documents regarding the mystery were kept `____`.
+We need more evidence before we can draw a solid ____.
 
-- [x] classified
-- [ ] couldn't
-- [ ] if so
+- [x] conclusion
+- [ ] alien
+- [ ] archeologist
 
-> **解析**：`classified` 是形容词，在此意为“保密的、机密的”，原意为“分类的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Let's assume, `____`, that the ancient map is authentic.
+It is highly ____ that humans could live on Mars without gear.
 
-- [x] for the sake of argument
-- [ ] couldn't
-- [ ] if we assume
+- [x] improbable
+- [ ] alien
+- [ ] archeologist
 
-> **解析**：`for the sake of argument` 是固定短语，意为“为了讨论/争论起见（假设某种前提）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Although it is highly `____`, some researchers still explore the strange hypothesis.
+It is pure ____ that they arrived at the same moment.
 
-- [x] improbable
-- [ ] for the sake of argument
-- [ ] if we assume
+- [x] coincidence
+- [ ] alien
+- [ ] archeologist
 
-> **解析**：`improbable` 是形容词，前缀 `im-` + `probable`，意为“不太可能的、不大可能发生的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The majestic pyramids of Egypt continue to amaze visitors from around the world about `____`.
+Our solar system ____ of the sun and eight planets.
 
-- [x] conclusion
-- [ ] have been
-- [ ] let's say
+- [x] consists
+- [ ] alien
+- [ ] archeologist
 
-> **解析**：`pyramids` 是复数名词，特指“金字塔”，作句中的主语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-I often `____` what life was like for the workers who constructed the monument.
+The Milky Way is just one ____ among billions in the universe.
+
+- [x] galaxy
+- [ ] alien
+- [ ] archeologist
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The pilot reported seeing an unknown ____ in the sky.
+
+- [x] ufo
+- [ ] alien
+- [ ] archeologist
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+In sci-fi movies, astronauts travel across space in a futuristic ____.
+
+- [x] spaceship
+- [ ] alien
+- [ ] archeologist
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The Egyptian ____ were built as tombs for ancient pharaohs.
+
+- [x] pyramids
+- [ ] alien
+- [ ] archeologist
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Tourists love exploring the ancient ____ of the temple.
+
+- [x] ruins
+- [ ] alien
+- [ ] archeologist
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+____ we travel back in time, what would you change?
+
+- [x] Suppose
+- [ ] alien
+- [ ] archeologist
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+____ say you win the prize, how would you spend it?
+
+- [x] Let's
+- [ ] alien
+- [ ] archeologist
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+If we assume the math is ____, the result makes sense.
+
+- [x] correct
+- [ ] alien
+- [ ] archeologist
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+The file was marked as ____ and kept in a secure vault.
+
+- [x] classified
+- [ ] alien
+- [ ] archeologist
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+I ____ if we will ever solve this historical enigma.
 
 - [x] wonder
-- [ ] have been
-- [ ] let's say
+- [ ] alien
+- [ ] archeologist
 
-> **解析**：`wonder` 在此作动词，意为“感到好奇、想知道”，后接宾语从句。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+If so, then we need to change our hypothesis ____.
+
+- [x] immediately
+- [ ] alien
+- [ ] archeologist
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

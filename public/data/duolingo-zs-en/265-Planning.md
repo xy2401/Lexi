@@ -85,83 +85,176 @@ hear me out（听我说完）、I'd say（我觉得）、suggestion that we（�
 
 <quiz-sentence-builder>
 
-1. **中文**：我们需要在确定活动日期之前预订一个合适的场地。  
-   **英文**：We need to book a suitable venue before finalizing the event date.
-   > **解析**：`venue` 是名词，意为“活动场地、举办场所”，`book a venue`（预订场地）。
+1. **中文**：听我说完！在策划交易泡汤之前，我觉得我们应该先把场地订好。  
+   **英文**：Hear me out! Before our planning falls through, I'd say we book the venue.
+   > **解析**：hear me out 表示听我说完；fall through 表示泡汤/落空；I'd say 表示我觉得；venue 表示场地。
 
-2. **中文**：委员会聘请了一家顶尖的餐饮服务公司来提供晚餐。  
-   **英文**：The committee hired a top-rated catering company to provide dinner.
-   > **解析**：`catering` 是名词，意为“餐饮服务、包办宴席”。
+2. **中文**：我的建议是我们选一个龙虾晚宴主题，并安排好优质的餐饮服务。  
+   **英文**：My suggestion that we choose a lobster theme includes good catering.
+   > **解析**：suggestion that we 表示建议我们；lobster 表示龙虾；theme 表示主题；catering 表示餐饮。
 
-3. **中文**：在拒绝提议的团队建设预算之前，请听我把话说完。  
-   **英文**：Please hear me out before rejecting the proposed team-building budget.
-   > **解析**：`hear me out` 是口语短语，意为“听我把话说完、听我解释”。
+3. **中文**：最终，委员会需要达成一个折中妥协的方案，否则所有的努力就白费了。  
+   **英文**：In the end, the committee needs a compromise, or all work is for nothing.
+   > **解析**：in the end 表示最终；committee 表示委员会；compromise 表示妥协；for nothing 表示白费。
 
-4. **中文**：要我说的话，在海边举办年会是一个极好的主意。  
-   **英文**：I'd say that hosting the annual party by the beach is a fantastic idea about appreciation.
-   > **解析**：`I'd say (that)...` 是表达个人提议或估计的常用口语开场白。
+4. **中文**：请不要搞砸座位安排，因为这是一个非常棘手的问题。  
+   **英文**：Please don't mess up the seating plan, as it is a very tricky matter.
+   > **解析**：mess up 表示搞砸；seating 表示座位安排；tricky 表示棘手的。
 
-5. **中文**：规划大型活动需要双方团队达成合理的妥协方案。  
-   **英文**：Planning a big event requires both teams to reach a fair compromise.
-   > **解析**：`compromise` 作名词，意为“妥协、折中方案”，搭配 `reach a compromise`。
+5. **中文**：每个人都赞同我的提议，即我们不应该在不受欢迎的想法上浪费预算。  
+   **英文**：Everyone agrees with my suggestion that we shouldn't waste the budget.
+   > **解析**：agree with 表示同意；waste 表示浪费。
 
-6. **中文**：如果供应商取消合作，我们整个户外行程可能会泡汤。  
-   **英文**：If the vendor cancels, our entire outdoor schedule might fall through.
-   > **解析**：`fall through` 是不及物短语动词，意为“（计划/方案）落空、泡汤”。
+6. **中文**：这位志愿者非常乐意为晚宴筹备工作提供无偿帮助。  
+   **英文**：The volunteer was happy to help with the event preparations for free.
+   > **解析**：volunteer 表示志愿者。
 
-7. **中文**：委员会为慈善晚宴之夜选择了一个复古八十年代的主题。  
-   **英文**：The committee chose a retro eighties theme for the charity gala night.
-   > **解析**：`theme` 是名词，意为“主题、主旨”。
+7. **中文**：表达我们的深切感激之情是举办这次年度聚会的理想初衷。  
+   **英文**：Showing our deep appreciation is the ideal goal for hosting this party.
+   > **解析**：appreciation 表示感激；ideal 表示理想的。
 
-8. **中文**：宽敞的酒店宴会厅是举办此次会议的理想地点。  
-   **英文**：The spacious hotel ballroom is an ideal location for the conference.
-   > **解析**：`ideal` 是形容词，意为“理想的、完美的”，修饰 `location`。
+8. **中文**：我非得参加那场在不受欢迎的地点举办的委员会会议吗？  
+   **英文**：Must I attend the committee meeting at that unpopular venue?
+   > **解析**：must I 表示我非得……吗；committee 表示委员会；unpopular 表示不受欢迎的；venue 表示场地。
 
-9. **中文**：几名员工自告奋勇协助客人签到登记。  
-   **英文**：Several employees volunteered to assist with guest registration.
-   > **解析**：`volunteer` 作动词，意为“自愿做、志愿协助”，搭配 `volunteer to do sth`。
+9. **中文**：我们不能再继续拖延了，必须立刻敲定晚宴的主题。  
+   **英文**：We cannot delay any longer; we must decide on the party theme right away.
+   > **解析**：any longer 表示不再/不能再；theme 表示主题。
 
-10. **中文**：辩论了几个小时后，我们最终决定坚守预算。  
-   **英文**：After debating for hours, we decided in the end to stick to our budget.
-   > **解析**：`in the end` 是副词短语，意为“最终、最后”，相当于 `finally`。
+10. **中文**：对我来说，要在两个不同的餐饮服务商之间做出选择确实挺难的。  
+   **英文**：It is tricky for me to choose between the two catering suppliers.
+   > **解析**：for me to 表示对我来说；tricky 表示棘手的；catering 表示餐饮。
+
+11. **中文**：听我说完，我觉得龙虾主题是这次庆祝活动最理想的选择。  
+   **英文**：Hear me out, I'd say the lobster theme is ideal for our celebration.
+   > **解析**：hear me out 表示听我说完；I'd say 表示我觉得；lobster 表示龙虾；ideal 表示理想的。
+
+12. **中文**：委员会最终否决了那个极其不受欢迎的座位策划方案。  
+   **英文**：In the end, the committee rejected the very unpopular seating plan.
+   > **解析**：in the end 表示最终；committee 表示委员会；unpopular 表示不受欢迎的；seating 表示座位安排。
+
+13. **中文**：如果活动策划因为沟通不畅而泡汤，所有人的心血就白费了。  
+   **英文**：If the event falls through, everyone's hard work will be for nothing.
+   > **解析**：fall through 表示泡汤；for nothing 表示白费。
+
+14. **中文**：我同意你的看法，搞砸餐饮服务会极大地降低宾客的体验感。  
+   **英文**：I agree with you that messing up the catering will ruin the party.
+   > **解析**：agree with 表示同意；catering 表示餐饮。
+
+15. **中文**：为答谢志愿者的无私奉献，筹备组专门准备了一顿丰盛的龙虾大餐。  
+   **英文**：To show appreciation to each volunteer, we served a lobster dinner.
+   > **解析**：appreciation 表示感激；volunteer 表示志愿者；lobster 表示龙虾。
+
+16. **中文**：寻找一个容纳所有宾客的理想场地是一项相当棘手的任务。  
+   **英文**：Finding an ideal venue to seat all guests is quite a tricky task.
+   > **解析**：ideal 表示理想的；venue 表示场地；tricky 表示棘手的。
+
+17. **中文**：我们非得在这个不受欢迎的主题上浪费这么多时间和精力吗？  
+   **英文**：Must I waste so much time and energy on this unpopular theme?
+   > **解析**：must I 表示非得……吗；waste 表示浪费；unpopular 表示不受欢迎的；theme 表示主题。
+
+18. **中文**：经过长时间讨论，大家终于做出了妥协，敲定了最终场地。  
+   **英文**：After long discussions, we reached a compromise on the final venue.
+   > **解析**：compromise 表示妥协；venue 表示场地。
+
+19. **中文**：委员会提出了一个建议，即我们应当重新调整座位布局。  
+   **英文**：The committee made a suggestion that we should adjust the seating layout.
+   > **解析**：committee 表示委员会；suggestion that we 表示建议我们；seating 表示座位安排。
+
+20. **中文**：最终，我们不再为微小的细节争吵，而是高效完成了所有策划。  
+   **英文**：In the end, we did not argue any longer and finished all planning.
+   > **解析**：in the end 表示最终；any longer 表示不再。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We need to book a suitable venue before finalizing the event date.
-   > **中文**：我们需要在确定活动日期之前预订一个合适的场地。
+1. Hear me out! Before our planning falls through, I'd say we book the venue.
+   > **中文**：听我说完！在策划交易泡汤之前，我觉得我们应该先把场地订好。
 
-2. The committee hired a top-rated catering company to provide dinner.
-   > **中文**：委员会聘请了一家顶尖的餐饮服务公司来提供晚餐。
+2. My suggestion that we choose a lobster theme includes good catering.
+   > **中文**：我的建议是我们选一个龙虾晚宴主题，并安排好优质的餐饮服务。
 
-3. Please hear me out before rejecting the proposed team-building budget.
-   > **中文**：在拒绝提议的团队建设预算之前，请听我把话说完。
+3. In the end, the committee needs a compromise, or all work is for nothing.
+   > **中文**：最终，委员会需要达成一个折中妥协的方案，否则所有的努力就白费了。
 
-4. I'd say that hosting the annual party by the beach is a fantastic idea about appreciation.
-   > **中文**：要我说的话，在海边举办年会是一个极好的主意。
+4. Please don't mess up the seating plan, as it is a very tricky matter.
+   > **中文**：请不要搞砸座位安排，因为这是一个非常棘手的问题。
 
-5. Planning a big event requires both teams to reach a fair compromise.
-   > **中文**：规划大型活动需要双方团队达成合理的妥协方案。
+5. Everyone agrees with my suggestion that we shouldn't waste the budget.
+   > **中文**：每个人都赞同我的提议，即我们不应该在不受欢迎的想法上浪费预算。
 
-6. If the vendor cancels, our entire outdoor schedule might fall through.
-   > **中文**：如果供应商取消合作，我们整个户外行程可能会泡汤。
+6. The volunteer was happy to help with the event preparations for free.
+   > **中文**：这位志愿者非常乐意为晚宴筹备工作提供无偿帮助。
 
-7. The committee chose a retro eighties theme for the charity gala night.
-   > **中文**：委员会为慈善晚宴之夜选择了一个复古八十年代的主题。
+7. Showing our deep appreciation is the ideal goal for hosting this party.
+   > **中文**：表达我们的深切感激之情是举办这次年度聚会的理想初衷。
 
-8. The spacious hotel ballroom is an ideal location for the conference.
-   > **中文**：宽敞的酒店宴会厅是举办此次会议的理想地点。
+8. Must I attend the committee meeting at that unpopular venue?
+   > **中文**：我非得参加那场在不受欢迎的地点举办的委员会会议吗？
 
-9. Several employees volunteered to assist with guest registration.
-   > **中文**：几名员工自告奋勇协助客人签到登记。
+9. We cannot delay any longer; we must decide on the party theme right away.
+   > **中文**：我们不能再继续拖延了，必须立刻敲定晚宴的主题。
 
-10. After debating for hours, we decided in the end to stick to our budget.
-   > **中文**：辩论了几个小时后，我们最终决定坚守预算。
+10. It is tricky for me to choose between the two catering suppliers.
+   > **中文**：对我来说，要在两个不同的餐饮服务商之间做出选择确实挺难的。
+
+11. Hear me out, I'd say the lobster theme is ideal for our celebration.
+   > **中文**：听我说完，我觉得龙虾主题是这次庆祝活动最理想的选择。
+
+12. In the end, the committee rejected the very unpopular seating plan.
+   > **中文**：委员会最终否决了那个极其不受欢迎的座位策划方案。
+
+13. If the event falls through, everyone's hard work will be for nothing.
+   > **中文**：如果活动策划因为沟通不畅而泡汤，所有人的心血就白费了。
+
+14. I agree with you that messing up the catering will ruin the party.
+   > **中文**：我同意你的看法，搞砸餐饮服务会极大地降低宾客的体验感。
+
+15. To show appreciation to each volunteer, we served a lobster dinner.
+   > **中文**：为答谢志愿者的无私奉献，筹备组专门准备了一顿丰盛的龙虾大餐。
+
+16. Finding an ideal venue to seat all guests is quite a tricky task.
+   > **中文**：寻找一个容纳所有宾客的理想场地是一项相当棘手的任务。
+
+17. Must I waste so much time and energy on this unpopular theme?
+   > **中文**：我们非得在这个不受欢迎的主题上浪费这么多时间和精力吗？
+
+18. After long discussions, we reached a compromise on the final venue.
+   > **中文**：经过长时间讨论，大家终于做出了妥协，敲定了最终场地。
+
+19. The committee made a suggestion that we should adjust the seating layout.
+   > **中文**：委员会提出了一个建议，即我们应当重新调整座位布局。
+
+20. In the end, we did not argue any longer and finished all planning.
+   > **中文**：最终，我们不再为微小的细节争吵，而是高效完成了所有策划。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| venue | 场地 |
+| catering | 餐饮服务 |
+| theme | 主题 |
+| seating | 座位安排 |
+| committee | 委员会 |
+| volunteer | 志愿者 |
+| compromise | 妥协 |
+| fall through | 泡汤；落空 |
+| mess up | 搞砸 |
+| hear me out | 听我说完 |
+| I'd say | 我觉得 |
+| for nothing | 白费 |
+| tricky | 棘手的 |
+| unpopular | 不受欢迎的 |
+| appreciation | 感激；欣赏 |
+| ideal | 理想的 |
+| in the end | 最终 |
+| lobster | 龙虾 |
+| waste | 浪费 |
+| agree with | 同意 |
 
 </quiz-matching>
 
@@ -169,102 +262,202 @@ hear me out（听我说完）、I'd say（我觉得）、suggestion that we（�
 
 ### 1
 
-We need to book a suitable `____` before finalizing the event date.
+Hear me out! Before our planning falls through, I'd say we book the ____.
 
 - [x] venue
 - [ ] I'd say
-- [ ] catering
+- [ ] agree with
 
-> **解析**：`venue` 是名词，意为“活动场地、举办场所”，`book a venue`（预订场地）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The committee hired a top-rated `____` company to provide dinner.
+My suggestion that we choose a ____ theme includes good catering.
 
-- [x] catering
+- [x] lobster
+- [ ] I'd say
 - [ ] agree with
-- [ ] compromise
 
-> **解析**：`catering` 是名词，意为“餐饮服务、包办宴席”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Please `____` before rejecting the proposed team-building budget.
+In the end, the ____ needs a compromise, or all work is for nothing.
 
-- [x] hear me out
-- [ ] any longer
-- [ ] compromise
+- [x] committee
+- [ ] I'd say
+- [ ] agree with
 
-> **解析**：`hear me out` 是口语短语，意为“听我把话说完、听我解释”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-`____` that hosting the annual party by the beach is a fantastic idea about appreciation.
+Please don't mess up the ____ plan, as it is a very tricky matter.
 
-- [x] I'd say
-- [ ] catering
-- [ ] for me to
+- [x] seating
+- [ ] I'd say
+- [ ] agree with
 
-> **解析**：`I'd say (that)...` 是表达个人提议或估计的常用口语开场白。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Planning a big event requires both teams to reach a fair `____`.
+Everyone agrees with my suggestion that we shouldn't ____ the budget.
 
-- [x] compromise
-- [ ] catering
-- [ ] for nothing
+- [x] waste
+- [ ] I'd say
+- [ ] agree with
 
-> **解析**：`compromise` 作名词，意为“妥协、折中方案”，搭配 `reach a compromise`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-If the vendor cancels, our entire outdoor schedule might `____`.
+The ____ was happy to help with the event preparations for free.
 
-- [x] fall through
-- [ ] committee
-- [ ] hear me out
+- [x] volunteer
+- [ ] I'd say
+- [ ] agree with
 
-> **解析**：`fall through` 是不及物短语动词，意为“（计划/方案）落空、泡汤”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The `____` chose a retro eighties theme for the charity gala night.
+Showing our deep ____ is the ideal goal for hosting this party.
 
-- [x] committee
-- [ ] fall through
-- [ ] ideal
+- [x] appreciation
+- [ ] I'd say
+- [ ] agree with
 
-> **解析**：`theme` 是名词，意为“主题、主旨”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The spacious hotel ballroom is an `____` location for the conference.
+Must I attend the ____ meeting at that unpopular venue?
 
-- [x] ideal
-- [ ] fall through
-- [ ] in the end
+- [x] committee
+- [ ] I'd say
+- [ ] agree with
 
-> **解析**：`ideal` 是形容词，意为“理想的、完美的”，修饰 `location`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Several employees `____`ed to assist with guest registration.
+We cannot delay any longer; we must decide on the party ____ right away.
 
-- [x] volunteer
-- [ ] for me to
-- [ ] in the end
+- [x] theme
+- [ ] I'd say
+- [ ] agree with
 
-> **解析**：`volunteer` 作动词，意为“自愿做、志愿协助”，搭配 `volunteer to do sth`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-After debating for hours, we decided `____` to stick to our budget.
+It is ____ for me to choose between the two catering suppliers.
 
-- [x] in the end
-- [ ] for nothing
-- [ ] mess up
+- [x] tricky
+- [ ] I'd say
+- [ ] agree with
 
-> **解析**：`in the end` 是副词短语，意为“最终、最后”，相当于 `finally`。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Hear me out, I'd say the ____ theme is ideal for our celebration.
+
+- [x] lobster
+- [ ] I'd say
+- [ ] agree with
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+In the end, the ____ rejected the very unpopular seating plan.
+
+- [x] committee
+- [ ] I'd say
+- [ ] agree with
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+If the event falls through, ____ hard work will be for nothing.
+
+- [x] everyone's
+- [ ] I'd say
+- [ ] agree with
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+I agree with you that messing up the ____ will ruin the party.
+
+- [x] catering
+- [ ] I'd say
+- [ ] agree with
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+To show ____ to each volunteer, we served a lobster dinner.
+
+- [x] appreciation
+- [ ] I'd say
+- [ ] agree with
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Finding an ____ venue to seat all guests is quite a tricky task.
+
+- [x] ideal
+- [ ] I'd say
+- [ ] agree with
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Must I ____ so much time and energy on this unpopular theme?
+
+- [x] waste
+- [ ] I'd say
+- [ ] agree with
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+After long discussions, we reached a ____ on the final venue.
+
+- [x] compromise
+- [ ] I'd say
+- [ ] agree with
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The ____ made a suggestion that we should adjust the seating layout.
+
+- [x] committee
+- [ ] I'd say
+- [ ] agree with
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+In the end, we did not argue any longer and ____ all planning.
+
+- [x] finished
+- [ ] I'd say
+- [ ] agree with
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

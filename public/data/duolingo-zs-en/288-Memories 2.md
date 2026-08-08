@@ -61,83 +61,176 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
 
 <quiz-sentence-builder>
 
-1. **中文**：在暑假期间，我们过去常常在外面玩到日落。  
-   **英文**：We used to play outside until sunset during summer vacations.
-   > **解析**：`used to + 动词原形` 表示过去习惯性发生而现在已不再进行的动作，意为“过去常常”。
+1. **中文**：过去我们总是在公园里玩到日落。
+   **英文**：We always used to play in the park until sunset.
+   > **解析**：always used to 表示过去总是做某事。
 
-2. **中文**：孩子们一整个下午都在后院玩捉迷藏。  
-   **英文**：The children spent the whole afternoon playing hide and seek in the backyard.
-   > **解析**：`hide and seek` 是经典儿童游戏名词，意为“捉迷藏”，在句中作动词 `playing` 的宾语。
+2. **中文**：暑假期间我们过去通常会聚集在湖边。
+   **英文**：We would usually gather near the lake during summer breaks.
+   > **解析**：would usually 表达过去反复发生的习惯动作。
 
-3. **中文**：看到这些复古玩具让我对童年产生了深深的怀旧感。  
-   **英文**：Seeing these vintage toys made me feel deeply nostalgic about my childhood.
-   > **解析**：`nostalgic` 是形容词，意为“怀旧的、追忆往事的”，常用搭配 `feel nostalgic about...`。
+3. **中文**：他们过去总是为了谁能骑自行车而争吵。
+   **英文**：They were always arguing about who got to ride the bicycle.
+   > **解析**：were always + doing 强调过去总是做某事，带有叙事感情。
 
-4. **中文**：在学校课间休息时，每个人都跑到操场上去跳绳。  
-   **英文**：During school recess, everyone ran to the playground to play jump rope.
-   > **解析**：`recess` 在学校语境中指“课间休息”，常用搭配 `during recess`。
+4. **中文**：我小时候过去常常养一只宠物仓鼠。
+   **英文**：I used to have a pet hamster when I was a child.
+   > **解析**：used to 强调过去常常做，现在不做了。
 
-5. **中文**：她对在祖父母农场度过的假期留有非常美好的回忆。  
-   **英文**：She has very fond memories of spending holidays at her grandparents' farm.
-   > **解析**：`fond` 是形容词，在句中作定语修饰 `memories`，短语 `fond memories` 表示“美好的回忆”。
+5. **中文**：孩子们喜欢在后院里玩捉迷藏。
+   **英文**：Children love playing hide and seek in the backyard.
+   > **解析**：hide and seek 表达捉迷藏游戏。
 
-6. **中文**：我爸爸在院子里的那棵大橡树上建了一个结实的木制树屋。  
-   **英文**：My dad built a sturdy wooden tree house in the large oak tree in our yard.
-   > **解析**：`tree house` 是复合名词，意为“树屋”，由 `tree` + `house` 构成。
+6. **中文**：我们在课间到处奔跑玩抓人游戏。
+   **英文**：We ran around playing tag during the school break.
+   > **解析**：tag 不可数名词，指抓人游戏。
 
-7. **中文**：小孩子们喜欢吹泡泡并在公园里追着泡泡跑。  
-   **英文**：Little kids love to blow bubbles and chase them around the park.
-   > **解析**：`blow bubbles` 是动词短语，意为“吹泡泡”，在句中作不定式 `to blow bubbles` 的核心。
+7. **中文**：男孩们每周五都在体育馆里打躲避球。
+   **英文**：The boys played dodgeball in the gymnasium every Friday.
+   > **解析**：dodgeball 指躲避球游戏。
 
-8. **中文**：我们在草地上玩追赶抓人游戏，直到累得筋疲力尽。  
-   **英文**：We played a game of tag on the grass until we were completely tired out.
-   > **解析**：`tag` 作为传统儿童游戏意为“捉人游戏/抓人游戏”，常用搭配 `play a game of tag`。
+8. **中文**：女孩们过去经常在庭院里一起跳绳。
+   **英文**：Girls would often jump rope together in the courtyard.
+   > **解析**：jump rope 表示跳绳活动。
 
-9. **中文**：我的祖父母花了几个小时畅谈他们年轻时的美好昔日。  
-   **英文**：My grandparents spent hours talking about the good old days of their youth.
-   > **解析**：`good old days` 是固定短语，意为“昔日好时光、过去的辉煌岁月”，前面常加 `the`。
+9. **中文**：孩子们喜欢用肥皂和水吹泡泡。
+   **英文**：Kids like to blow bubbles with soap and water.
+   > **解析**：blow bubbles 表示吹泡泡。
 
-10. **中文**：他们围坐在餐桌旁追忆高中的冒险经历。  
-   **英文**：They gathered around the kitchen table to reminisce about their high school adventures.
-   > **解析**：`reminisce` 是动词，意为“追忆、说起往事”，常用介词 `about` 引导追忆的内容。
+10. **中文**：他展示了他最喜欢的红色溜溜球的玩耍技巧。
+   **英文**：He showed off tricks with his favorite red yo-yo.
+   > **解析**：yo-yo 指溜溜球。
+
+11. **中文**：那个男孩嚼着泡泡糖并吹出了一个巨大的泡泡。
+   **英文**：The boy chewed bubble gum and blew a huge bubble.
+   > **解析**：bubble gum 指泡泡糖。
+
+12. **中文**：我奶奶在午饭后给了我一支草莓味的棒棒糖。
+   **英文**：My grandmother gave me a strawberry lollipop after lunch.
+   > **解析**：lollipop 表示棒棒糖。
+
+13. **中文**：孩子们在森林里采摘新鲜的野生浆果。
+   **英文**：The kids picked fresh wild berries in the forest.
+   > **解析**：berries 指浆果。
+
+14. **中文**：课间休息一开始学生们就跑出去玩了。
+   **英文**：Students ran outside to play as soon as recess began.
+   > **解析**：recess 在美式英语中指课间休息。
+
+15. **中文**：听老歌让我感到深深的怀旧。
+   **英文**：Listening to old songs makes me feel deeply nostalgic.
+   > **解析**：nostalgic 形容词，意为怀旧的。
+
+16. **中文**：我对在那个小镇长大的岁月有着美好的回忆。
+   **英文**：I have fond memories of growing up in that small town.
+   > **解析**：fond 形容词，与 memories 搭配表示美好的、深情的。
+
+17. **中文**：老朋友们坐在火堆旁追忆他们的青春岁月的往事。
+   **英文**：The old friends sat by the fire to reminisce about their youth.
+   > **解析**：reminisce 表示追忆、回忆往事。
+
+18. **中文**：我们花了无数个小时搭建了一个秘密树屋。
+   **英文**：We spent endless hours building a secret tree house.
+   > **解析**：tree house 指树屋。
+
+19. **中文**：啊，我怀念过去美好的岁月，那时生活多么简单！
+   **英文**：Ah, I miss the good old days when life was so simple!
+   > **解析**：good old days 表达过去的美好时光。
+
+20. **中文**：为了叙旧，我时不时会去参观我的小学。
+   **英文**：Every so often, I visit my elementary school for old time's sake.
+   > **解析**：Every so often 表示“偶尔、时不时”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We used to play outside until sunset during summer vacations.
-   > **中文**：在暑假期间，我们过去常常在外面玩到日落。
+1. We always used to play in the park until sunset.
+   > **中文**：过去我们总是在公园里玩到日落。
 
-2. The children spent the whole afternoon playing hide and seek in the backyard.
-   > **中文**：孩子们一整个下午都在后院玩捉迷藏。
+2. We would usually gather near the lake during summer breaks.
+   > **中文**：暑假期间我们过去通常会聚集在湖边。
 
-3. Seeing these vintage toys made me feel deeply nostalgic about my childhood.
-   > **中文**：看到这些复古玩具让我对童年产生了深深的怀旧感。
+3. They were always arguing about who got to ride the bicycle.
+   > **中文**：他们过去总是为了谁能骑自行车而争吵。
 
-4. During school recess, everyone ran to the playground to play jump rope.
-   > **中文**：在学校课间休息时，每个人都跑到操场上去跳绳。
+4. I used to have a pet hamster when I was a child.
+   > **中文**：我小时候过去常常养一只宠物仓鼠。
 
-5. She has very fond memories of spending holidays at her grandparents' farm.
-   > **中文**：她对在祖父母农场度过的假期留有非常美好的回忆。
+5. Children love playing hide and seek in the backyard.
+   > **中文**：孩子们喜欢在后院里玩捉迷藏。
 
-6. My dad built a sturdy wooden tree house in the large oak tree in our yard.
-   > **中文**：我爸爸在院子里的那棵大橡树上建了一个结实的木制树屋。
+6. We ran around playing tag during the school break.
+   > **中文**：我们在课间到处奔跑玩抓人游戏。
 
-7. Little kids love to blow bubbles and chase them around the park.
-   > **中文**：小孩子们喜欢吹泡泡并在公园里追着泡泡跑。
+7. The boys played dodgeball in the gymnasium every Friday.
+   > **中文**：男孩们每周五都在体育馆里打躲避球。
 
-8. We played a game of tag on the grass until we were completely tired out.
-   > **中文**：我们在草地上玩追赶抓人游戏，直到累得筋疲力尽。
+8. Girls would often jump rope together in the courtyard.
+   > **中文**：女孩们过去经常在庭院里一起跳绳。
 
-9. My grandparents spent hours talking about the good old days of their youth.
-   > **中文**：我的祖父母花了几个小时畅谈他们年轻时的美好昔日。
+9. Kids like to blow bubbles with soap and water.
+   > **中文**：孩子们喜欢用肥皂和水吹泡泡。
 
-10. They gathered around the kitchen table to reminisce about their high school adventures.
-   > **中文**：他们围坐在餐桌旁追忆高中的冒险经历。
+10. He showed off tricks with his favorite red yo-yo.
+   > **中文**：他展示了他最喜欢的红色溜溜球的玩耍技巧。
+
+11. The boy chewed bubble gum and blew a huge bubble.
+   > **中文**：那个男孩嚼着泡泡糖并吹出了一个巨大的泡泡。
+
+12. My grandmother gave me a strawberry lollipop after lunch.
+   > **中文**：我奶奶在午饭后给了我一支草莓味的棒棒糖。
+
+13. The kids picked fresh wild berries in the forest.
+   > **中文**：孩子们在森林里采摘新鲜的野生浆果。
+
+14. Students ran outside to play as soon as recess began.
+   > **中文**：课间休息一开始学生们就跑出去玩了。
+
+15. Listening to old songs makes me feel deeply nostalgic.
+   > **中文**：听老歌让我感到深深的怀旧。
+
+16. I have fond memories of growing up in that small town.
+   > **中文**：我对在那个小镇长大的岁月有着美好的回忆。
+
+17. The old friends sat by the fire to reminisce about their youth.
+   > **中文**：老朋友们坐在火堆旁追忆他们的青春岁月的往事。
+
+18. We spent endless hours building a secret tree house.
+   > **中文**：我们花了无数个小时搭建了一个秘密树屋。
+
+19. Ah, I miss the good old days when life was so simple!
+   > **中文**：啊，我怀念过去美好的岁月，那时生活多么简单！
+
+20. Every so often, I visit my elementary school for old time's sake.
+   > **中文**：为了叙旧，我时不时会去参观我的小学。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| always used to | 过去总是 |
+| would usually | 过去通常会 |
+| were always | 过去总是（进行时） |
+| used to | 过去常常 |
+| hide and seek | 捉迷藏 |
+| tag | 抓人游戏 |
+| dodgeball | 躲避球 |
+| jump rope | 跳绳 |
+| blow bubbles | 吹泡泡 |
+| yo-yo | 溜溜球 |
+| bubble gum | 泡泡糖 |
+| lollipop | 棒棒糖 |
+| berries | 浆果 |
+| recess | 课间休息 |
+| nostalgic | 怀旧的 |
+| fond | 喜爱的 / 深情的 |
+| reminisce | 追忆 / 回忆 |
+| tree house | 树屋 |
+| good old days | 过去的岁月 / 美好时光 |
+| every so often | 偶尔 / 时不时 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
 
 ### 1
 
-We `____` play outside until sunset during summer vacations.
+We ____ used to play in the park until sunset.
 
-- [x] used to
+- [x] always
 - [ ] always used to
-- [ ] bubble gum
+- [ ] another thing
 
-> **解析**：`used to + 动词原形` 表示过去习惯性发生而现在已不再进行的动作，意为“过去常常”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The children spent the whole afternoon playing `____` in the backyard.
+We ____ usually gather near the lake during summer breaks.
 
-- [x] hide and seek
+- [x] would
+- [ ] always used to
 - [ ] another thing
-- [ ] dodgeball
 
-> **解析**：`hide and seek` 是经典儿童游戏名词，意为“捉迷藏”，在句中作动词 `playing` 的宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Seeing these vintage toys made me feel deeply `____` about my childhood.
+They were always ____ about who got to ride the bicycle.
 
-- [x] nostalgic
-- [ ] berries
-- [ ] every so often
+- [x] arguing
+- [ ] always used to
+- [ ] another thing
 
-> **解析**：`nostalgic` 是形容词，意为“怀旧的、追忆往事的”，常用搭配 `feel nostalgic about...`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-During school recess, everyone ran to the playground to play `____`.
+I used to have a pet ____ when I was a child.
 
-- [x] jump rope
-- [ ] blow bubbles
-- [ ] fond
+- [x] hamster
+- [ ] always used to
+- [ ] another thing
 
-> **解析**：`recess` 在学校语境中指“课间休息”，常用搭配 `during recess`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-She has very `____` memories of spending holidays at her grandparents' farm.
+____ love playing hide and seek in the backyard.
 
-- [x] fond
-- [ ] bubble gum
-- [ ] hide and seek
+- [x] Children
+- [ ] always used to
+- [ ] another thing
 
-> **解析**：`fond` 是形容词，在句中作定语修饰 `memories`，短语 `fond memories` 表示“美好的回忆”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-My dad built a sturdy wooden `____` in the large oak tree in our yard.
+We ran around playing ____ during the school break.
 
-- [x] tree house
-- [ ] dodgeball
-- [ ] hide and seek
+- [x] tag
+- [ ] always used to
+- [ ] another thing
 
-> **解析**：`tree house` 是复合名词，意为“树屋”，由 `tree` + `house` 构成。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Little kids love to `____` and chase them around the park.
+The boys played ____ in the gymnasium every Friday.
 
-- [x] blow bubbles
-- [ ] fond
-- [ ] lollipop
+- [x] dodgeball
+- [ ] always used to
+- [ ] another thing
 
-> **解析**：`blow bubbles` 是动词短语，意为“吹泡泡”，在句中作不定式 `to blow bubbles` 的核心。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-We played a game of `____` on the grass until we were completely tired out.
+Girls ____ often jump rope together in the courtyard.
 
-- [x] tag
-- [ ] fond
-- [ ] lollipop
+- [x] would
+- [ ] always used to
+- [ ] another thing
 
-> **解析**：`tag` 作为传统儿童游戏意为“捉人游戏/抓人游戏”，常用搭配 `play a game of tag`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-My grandparents spent hours talking about the `____` of their youth.
+Kids like to blow ____ with soap and water.
 
-- [x] good old days
-- [ ] hide and seek
-- [ ] recess
+- [x] bubbles
+- [ ] always used to
+- [ ] another thing
 
-> **解析**：`good old days` 是固定短语，意为“昔日好时光、过去的辉煌岁月”，前面常加 `the`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-They gathered around the kitchen table to `____` about their high school adventures.
+He showed off tricks with his favorite red ____.
+
+- [x] yo-yo
+- [ ] always used to
+- [ ] another thing
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The boy ____ bubble gum and blew a huge bubble.
+
+- [x] chewed
+- [ ] always used to
+- [ ] another thing
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+My grandmother gave me a strawberry ____ after lunch.
+
+- [x] lollipop
+- [ ] always used to
+- [ ] another thing
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The kids picked fresh wild ____ in the forest.
+
+- [x] berries
+- [ ] always used to
+- [ ] another thing
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Students ran outside to play as soon as ____ began.
+
+- [x] recess
+- [ ] always used to
+- [ ] another thing
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Listening to old songs makes me feel deeply ____.
+
+- [x] nostalgic
+- [ ] always used to
+- [ ] another thing
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+I have ____ memories of growing up in that small town.
+
+- [x] fond
+- [ ] always used to
+- [ ] another thing
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The old friends sat by the fire to ____ about their youth.
 
 - [x] reminisce
-- [ ] hide and seek
-- [ ] recess
+- [ ] always used to
+- [ ] another thing
 
-> **解析**：`reminisce` 是动词，意为“追忆、说起往事”，常用介词 `about` 引导追忆的内容。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+We spent endless hours ____ a secret tree house.
+
+- [x] building
+- [ ] always used to
+- [ ] another thing
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Ah, I miss the good old days when life was so ____!
+
+- [x] simple
+- [ ] always used to
+- [ ] another thing
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Every so often, I visit my ____ school for old time's sake.
+
+- [x] elementary
+- [ ] always used to
+- [ ] another thing
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

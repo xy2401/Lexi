@@ -61,83 +61,176 @@ didn't / doesn't / don't 是否定助动词。wasn't / weren't 是 be 动词的�
 
 <quiz-sentence-builder>
 
-1. **中文**：虽然这件夹克很贵，但它的面料质量特别好。  
-   **英文**：Although this jacket is expensive, its material is of exceptionally high quality.
-   > **解析**：quality 为名词，意为“质量、品质”。be of high quality 表示“具备高品质”。high/low quality 分别指高质量和低质量。
+1. **中文**：事后，她在收银台结账时买了一件可爱的短袖卫衣。  
+   **英文**：Afterward, she bought a cute sweatshirt with short sleeves.
+   > **解析**：afterward 表示“事后/后来”；cash register / checkout 表示“收银台/结账处”；sweatshirt 表示“卫衣”；sleeve 表示“袖子”。
 
-2. **中文**：纯棉制成的衬衫在炎热天气里感觉既舒适又透气。  
-   **英文**：Shirts made of pure cotton feel comfortable and breathable in hot weather.
-   > **解析**：cotton 为名词，意为“棉花、纯棉”。made of pure cotton 为过去分词短语作后置定语修饰 shirts。
+2. **中文**：这件由纯棉制成的高品质衬衫打九折卖。  
+   **英文**：This high quality shirt made of cotton is ten percent off.
+   > **解析**：quality 表示“品质/质量”；cotton 表示“棉花/纯棉”；percent 表示“百分之……/折”。
 
-3. **中文**：在出去进行傍晚慢跑前，他穿上了一件温暖的连帽卫衣。  
-   **英文**：He put on a warm hooded sweatshirt before going out for his evening jog.
-   > **解析**：sweatshirt 为名词，指“无领长袖运动衫、卫衣”。hooded sweatshirt 表示“连帽卫衣”。
+3. **中文**：看这件衣服的袖子有多短，它的价格相当低！  
+   **英文**：Look how short the sleeve is, and its price is pretty low!
+   > **解析**：sleeve 表示“袖子”；pretty low 表示“相当低的”。
 
-4. **中文**：顾客可以在结账柜台使用移动支付购买商品。  
-   **英文**：Customers can pay for their items using mobile pay at the checkout counter.
-   > **解析**：checkout 在句中作定语修饰 counter，checkout counter 表示“结账柜台”。checkout 亦可作名词指“结账”。
+4. **中文**：请把那些质量低劣且丑陋的内衣扔掉。  
+   **英文**：Please throw away those low quality, ugly underwear.
+   > **解析**：ugly 表示“丑陋的”；underwear 表示“内衣”；thrown / throw away 表示“扔掉”。
 
-5. **中文**：店长打开收银机给买家找零钱。  
-   **英文**：The store manager opened the cash register to give the buyer her change.
-   > **解析**：cash register 为名词短语，意为“收银机”。change 在此处作名词表示“零钱”。
+5. **中文**：收银员在收银机前忙着帮顾客清点衣物物品。  
+   **英文**：The clerk at the cash register was busy counting stuff.
+   > **解析**：cash register 表示“收银机”；stuff 表示“物品/东西”。
 
-6. **中文**：卷起你的袖子，这样你在画画时就不会把它们弄脏了。  
-   **英文**：Roll up your sleeves so you do not get them dirty while painting.
-   > **解析**：sleeve 为名词，意为“袖子”。roll up one's sleeves 表示“卷起袖子”，也是准备干活的常用俗语。
+6. **中文**：穿上这件印有微小图案的可爱卫衣拍个自拍吧。  
+   **英文**：Take a selfie wearing this cute sweatshirt with tiny dots.
+   > **解析**：selfie 表示“自拍”；sweatshirt 表示“卫衣”；tiny 表示“微小的/极小的”。
 
-7. **中文**：大家都觉得那个小女孩穿上她的新粉色连衣裙看起来极其可爱。  
-   **英文**：Everyone thought the little girl looked extremely cute in her new pink dress.
-   > **解析**：cute 为形容词，意为“可爱的、讨人喜欢的”。在句中作系动词 looked 的表语。
+7. **中文**：她把换洗下来的旧衣服扔进了衣物箱里。  
+   **英文**：She had thrown her old clothes into the laundry box.
+   > **解析**：thrown 是 throw 的过去分词，表示“扔了”。
 
-8. **中文**：这家商店今天对所有冬衣提供百分之二十的折扣。  
-   **英文**：This store is offering a twenty percent discount on all winter coats today.
-   > **解析**：percent 为名词/副词，意为“百分之...”。twenty percent 表示“百分之二十”。discount 意为“折扣”。
+8. **中文**：那家服装店里的商品折后价格相当便宜。  
+   **英文**：The stuff in that store was sold at a pretty low price.
+   > **解析**：stuff 表示“东西/物品”；pretty low 表示“相当低的”。
 
-9. **中文**：我们在商场买了一些新衣服，之后去看了一场电影。  
-   **英文**：We bought some new clothes at the mall and went to a movie afterward.
-   > **解析**：afterward(s) 为副词，意为“后来、随后、之后”。在句中作时间状语，修饰动词 went。
+9. **中文**：这件内衣是由百分之百纯棉面料制成的。  
+   **英文**：This underwear is made of one hundred percent cotton.
+   > **解析**：percent 表示“百分之……”；cotton 表示“棉花/棉布”。
 
-10. **中文**：请在前往机场之前把你的个人物品装进行李箱。  
-   **英文**：Please pack your personal stuff into the suitcase before we head to the airport.
-   > **解析**：stuff 为不可数名词，意为“东西、物品”（口语常用）。pack stuff into... 表示“把物品打包进...”。
+10. **中文**：结账后，我们在商场门口合影自拍。  
+   **英文**：After checkout, we took a nice selfie at the entrance.
+   > **解析**：checkout 表示“结账/付款台”；selfie 表示“自拍”。
+
+11. **中文**：这件卫衣的布料非常柔软舒服。  
+   **英文**：The cotton material of this sweatshirt feels very soft.
+   > **解析**：sweatshirt 表示“卫衣”。
+
+12. **中文**：事后，我们去商场买了一些生活必需用品。  
+   **英文**：Afterward, we went to the mall to buy some daily stuff.
+   > **解析**：afterward 表示“事后/后来”。
+
+13. **中文**：收银员递给我购物发票和找零的零钱。  
+   **英文**：The cashier at the cash register gave me my change.
+   > **解析**：cash register 表示“收银机/收银台”。
+
+14. **中文**：这件衬衫的长袖子可以卷起来。  
+   **英文**：The long sleeves of this shirt can be rolled up.
+   > **解析**：sleeves 表示“袖子”。
+
+15. **中文**：高品质的服饰穿着时间更加持久。  
+   **英文**：High quality clothing lasts much longer time to wear.
+   > **解析**：quality 表示“品质/质量”。
+
+16. **中文**：这件极其丑陋的大衣在清仓大甩卖。  
+   **英文**：This ugly coat was put on clear sale yesterday.
+   > **解析**：ugly 表示“丑陋的/难看的”。
+
+17. **中文**：衣服上有一块微小的污渍，但并不明显。  
+   **英文**：There is a tiny spot on the sleeve, but not clear.
+   > **解析**：tiny 表示“极小的/微小的”。
+
+18. **中文**：这种纯棉面料透气性好，适合夏天穿。  
+   **英文**：This pure cotton fabric is breathable for summer wear.
+   > **解析**：cotton 表示“棉/棉花”。
+
+19. **中文**：请在离开服装店前去结账台买单。  
+   **英文**：Please go to the checkout counter to pay for items.
+   > **解析**：checkout 表示“结账处/付款台”。
+
+20. **中文**：她喜欢在旅行时用手机拍许多漂亮的自拍照。  
+   **英文**：She loves taking selfies with her phone while traveling.
+   > **解析**：selfies / selfie 表示“自拍”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Although this jacket is expensive, its material is of exceptionally high quality.
-   > **中文**：虽然这件夹克很贵，但它的面料质量特别好。
+1. Afterward, she bought a cute sweatshirt with short sleeves.
+   > **中文**：事后，她在收银台结账时买了一件可爱的短袖卫衣。
 
-2. Shirts made of pure cotton feel comfortable and breathable in hot weather.
-   > **中文**：纯棉制成的衬衫在炎热天气里感觉既舒适又透气。
+2. This high quality shirt made of cotton is ten percent off.
+   > **中文**：这件由纯棉制成的高品质衬衫打九折卖。
 
-3. He put on a warm hooded sweatshirt before going out for his evening jog.
-   > **中文**：在出去进行傍晚慢跑前，他穿上了一件温暖的连帽卫衣。
+3. Look how short the sleeve is, and its price is pretty low!
+   > **中文**：看这件衣服的袖子有多短，它的价格相当低！
 
-4. Customers can pay for their items using mobile pay at the checkout counter.
-   > **中文**：顾客可以在结账柜台使用移动支付购买商品。
+4. Please throw away those low quality, ugly underwear.
+   > **中文**：请把那些质量低劣且丑陋的内衣扔掉。
 
-5. The store manager opened the cash register to give the buyer her change.
-   > **中文**：店长打开收银机给买家找零钱。
+5. The clerk at the cash register was busy counting stuff.
+   > **中文**：收银员在收银机前忙着帮顾客清点衣物物品。
 
-6. Roll up your sleeves so you do not get them dirty while painting.
-   > **中文**：卷起你的袖子，这样你在画画时就不会把它们弄脏了。
+6. Take a selfie wearing this cute sweatshirt with tiny dots.
+   > **中文**：穿上这件印有微小图案的可爱卫衣拍个自拍吧。
 
-7. Everyone thought the little girl looked extremely cute in her new pink dress.
-   > **中文**：大家都觉得那个小女孩穿上她的新粉色连衣裙看起来极其可爱。
+7. She had thrown her old clothes into the laundry box.
+   > **中文**：她把换洗下来的旧衣服扔进了衣物箱里。
 
-8. This store is offering a twenty percent discount on all winter coats today.
-   > **中文**：这家商店今天对所有冬衣提供百分之二十的折扣。
+8. The stuff in that store was sold at a pretty low price.
+   > **中文**：那家服装店里的商品折后价格相当便宜。
 
-9. We bought some new clothes at the mall and went to a movie afterward.
-   > **中文**：我们在商场买了一些新衣服，之后去看了一场电影。
+9. This underwear is made of one hundred percent cotton.
+   > **中文**：这件内衣是由百分之百纯棉面料制成的。
 
-10. Please pack your personal stuff into the suitcase before we head to the airport.
-   > **中文**：请在前往机场之前把你的个人物品装进行李箱。
+10. After checkout, we took a nice selfie at the entrance.
+   > **中文**：结账后，我们在商场门口合影自拍。
+
+11. The cotton material of this sweatshirt feels very soft.
+   > **中文**：这件卫衣的布料非常柔软舒服。
+
+12. Afterward, we went to the mall to buy some daily stuff.
+   > **中文**：事后，我们去商场买了一些生活必需用品。
+
+13. The cashier at the cash register gave me my change.
+   > **中文**：收银员递给我购物发票和找零的零钱。
+
+14. The long sleeves of this shirt can be rolled up.
+   > **中文**：这件衬衫的长袖子可以卷起来。
+
+15. High quality clothing lasts much longer time to wear.
+   > **中文**：高品质的服饰穿着时间更加持久。
+
+16. This ugly coat was put on clear sale yesterday.
+   > **中文**：这件极其丑陋的大衣在清仓大甩卖。
+
+17. There is a tiny spot on the sleeve, but not clear.
+   > **中文**：衣服上有一块微小的污渍，但并不明显。
+
+18. This pure cotton fabric is breathable for summer wear.
+   > **中文**：这种纯棉面料透气性好，适合夏天穿。
+
+19. Please go to the checkout counter to pay for items.
+   > **中文**：请在离开服装店前去结账台买单。
+
+20. She loves taking selfies with her phone while traveling.
+   > **中文**：她喜欢在旅行时用手机拍许多漂亮的自拍照。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| afterward | 事后 / 后来 |
+| cash register | 收银机 / 收银台 |
+| checkout | 结账处 / 付款台 |
+| cotton | 棉花 / 纯棉 |
+| cute | 可爱的 |
+| high | 高的 |
+| low | 低的 |
+| percent | 百分之…… |
+| pretty | 相当地 / 漂亮的 |
+| quality | 品质 / 质量 |
+| selfie | 自拍 |
+| sleeve | 袖子 |
+| stuff | 东西 / 物品 |
+| sweatshirt | 卫衣 |
+| thrown | 扔了（throw的过去分词） |
+| tiny | 极小的 / 微小的 |
+| ugly | 丑陋的 / 难看的 |
+| underwear | 内衣 |
+| wasn't | 不是（was not的缩写） |
+| weren't | 不是（were not的缩写） |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ didn't / doesn't / don't 是否定助动词。wasn't / weren't 是 be 动词的�
 
 ### 1
 
-Although this jacket is expensive, its material is of exceptionally `____` quality.
+____, she bought a cute sweatshirt with short sleeves.
 
-- [x] high
-- [ ] afterward
-- [ ] checkout
+- [x] Afterward
+- [ ] away
+- [ ] cash register
 
-> **解析**：quality 为名词，意为“质量、品质”。be of high quality 表示“具备高品质”。high/low quality 分别指高质量和低质量。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Shirts made of pure `____` feel comfortable and breathable in hot weather.
+This ____ quality shirt made of cotton is ten percent off.
 
-- [x] cotton
+- [x] high
+- [ ] afterward
 - [ ] away
-- [ ] cute
 
-> **解析**：cotton 为名词，意为“棉花、纯棉”。made of pure cotton 为过去分词短语作后置定语修饰 shirts。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-He put on a warm hooded `____` before going out for his evening jog.
+Look how short the ____ is, and its price is pretty low!
 
-- [x] sweatshirt
-- [ ] cash register
-- [ ] cute
+- [x] sleeve
+- [ ] afterward
+- [ ] away
 
-> **解析**：sweatshirt 为名词，指“无领长袖运动衫、卫衣”。hooded sweatshirt 表示“连帽卫衣”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Customers can pay for their items using mobile pay at the `____` counter.
+Please throw ____ those low quality, ugly underwear.
 
-- [x] checkout
-- [ ] change
-- [ ] doesn't
+- [x] away
+- [ ] afterward
+- [ ] cash register
 
-> **解析**：checkout 在句中作定语修饰 counter，checkout counter 表示“结账柜台”。checkout 亦可作名词指“结账”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The store manager opened the `____` to give the buyer her change.
+The clerk at the cash register was busy counting ____.
 
-- [x] cash register
-- [ ] cotton
-- [ ] don't
+- [x] stuff
+- [ ] afterward
+- [ ] away
 
-> **解析**：cash register 为名词短语，意为“收银机”。change 在此处作名词表示“零钱”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Roll up your `____`s so you do not get them dirty while painting.
+Take a ____ wearing this cute sweatshirt with tiny dots.
 
-- [x] sleeve
-- [ ] cotton
-- [ ] don't
+- [x] selfie
+- [ ] afterward
+- [ ] away
 
-> **解析**：sleeve 为名词，意为“袖子”。roll up one's sleeves 表示“卷起袖子”，也是准备干活的常用俗语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Everyone thought the little girl looked extremely `____` in her new pink dress.
+She had ____ her old clothes into the laundry box.
 
-- [x] cute
-- [ ] didn't
-- [ ] low
+- [x] thrown
+- [ ] afterward
+- [ ] away
 
-> **解析**：cute 为形容词，意为“可爱的、讨人喜欢的”。在句中作系动词 looked 的表语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-This store is offering a twenty `____` discount on all winter coats today.
+The ____ in that store was sold at a pretty low price.
 
-- [x] percent
-- [ ] didn't
-- [ ] low
+- [x] stuff
+- [ ] afterward
+- [ ] away
 
-> **解析**：percent 为名词/副词，意为“百分之...”。twenty percent 表示“百分之二十”。discount 意为“折扣”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-We bought some new clothes at the mall and went to a movie `____`.
+This ____ is made of one hundred percent cotton.
 
-- [x] afterward
-- [ ] don't
-- [ ] pretty
+- [x] underwear
+- [ ] afterward
+- [ ] away
 
-> **解析**：afterward(s) 为副词，意为“后来、随后、之后”。在句中作时间状语，修饰动词 went。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Please pack your personal `____` into the suitcase before we head to the airport.
+After ____, we took a nice selfie at the entrance.
 
-- [x] stuff
-- [ ] don't
-- [ ] pretty
+- [x] checkout
+- [ ] afterward
+- [ ] away
 
-> **解析**：stuff 为不可数名词，意为“东西、物品”（口语常用）。pack stuff into... 表示“把物品打包进...”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The ____ material of this sweatshirt feels very soft.
+
+- [x] cotton
+- [ ] afterward
+- [ ] away
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+____, we went to the mall to buy some daily stuff.
+
+- [x] Afterward
+- [ ] away
+- [ ] cash register
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The cashier at the cash register gave me my ____.
+
+- [x] change
+- [ ] afterward
+- [ ] away
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The long ____ of this shirt can be rolled up.
+
+- [x] sleeves
+- [ ] afterward
+- [ ] away
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+____ quality clothing lasts much longer time to wear.
+
+- [x] High
+- [ ] afterward
+- [ ] away
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+This ____ coat was put on clear sale yesterday.
+
+- [x] ugly
+- [ ] afterward
+- [ ] away
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+There is a ____ spot on the sleeve, but not clear.
+
+- [x] tiny
+- [ ] afterward
+- [ ] away
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+This pure ____ fabric is breathable for summer wear.
+
+- [x] cotton
+- [ ] afterward
+- [ ] away
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Please go to the ____ counter to pay for items.
+
+- [x] checkout
+- [ ] afterward
+- [ ] away
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+She loves taking selfies with her phone while ____.
+
+- [x] traveling
+- [ ] afterward
+- [ ] away
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

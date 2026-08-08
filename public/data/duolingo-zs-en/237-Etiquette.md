@@ -61,83 +61,176 @@ after being, after having, arrangement, as for, bouquet, depending on, do withou
 
 <quiz-sentence-builder>
 
-1. **中文**：在被邀请参加慈善晚会后，她立即确认了出席。  
-   **英文**：After being invited to the charity gala, she promptly confirmed her attendance.
-   > **解析**：`after being + 过去分词` 为“介词 + 动名词被动语态”结构，表示主语在“被……之后”。
+1. **中文**：请在周五前回复，以便主人敲定座次安排。
+   **英文**：Please RSVP by Friday so the host can finalize the table arrangement.
+   > **解析**：RSVP 请回复（请帖用语）。
 
-2. **中文**：客人带来了一束绚丽的新鲜玫瑰花束作为送给主人的礼物。  
-   **英文**：The guest brought a gorgeous bouquet of fresh roses as a gift for the host.
-   > **解析**：`bouquet` 可数名词，在此读作 /buːˈkeɪ/，意为“花束”。`bouquet of flowers`（花束）。
+2. **中文**：婚礼招待会是为庆祝这对新人而举办的。
+   **英文**：The wedding reception was held in honor of the newlyweds.
+   > **解析**：in honor of 向……致敬、为庆祝……。
 
-3. **中文**：请柬上明确说明男士应穿西装打领带等正式服装。  
-   **英文**：The invitation specifies that gentlemen should wear formal attire such as a suit and tie.
-   > **解析**：`formal` 形容词，意为“正式的；合乎礼仪的”。修饰名词 `attire / dress`。
+3. **中文**：被邀请参加新娘送礼派对后，她买了一份精美的礼物。
+   **英文**：After being invited to the bridal shower, she bought a lovely gift.
+   > **解析**：after being + p.p. 表示被动完成。
 
-4. **中文**：派对为同事们在工作之余互相交流/互动提供了一个绝佳的机会。  
-   **英文**：The party provided a wonderful opportunity for colleagues to interact outside of work.
-   > **解析**：`interact` 不及物动词，意为“交流；互动”。搭配 `interact with sb.`。
+4. **中文**：在完成演讲后，主人感谢了所有来宾。
+   **英文**：After having finished the speech, the host thanked all the guests.
+   > **解析**：after having + p.p. 表示主动完成。
 
-5. **中文**：每个晚餐座位上都摆放了一张个性化的席位卡，以引导客人就座。  
-   **英文**：A personalized place card was set at each dinner seat to guide guests.
-   > **解析**：`place` 在此处用作名词修饰语，短语 `place card`（席位卡/名卡）。
+5. **中文**：拿不准的时候，最好直接向主人询问着装要求。
+   **英文**：When in doubt, it is best to ask the host directly about the dress code.
+   > **解析**：when in doubt 意为拿不准时、有疑问时。
 
-6. **中文**：在摆放餐具前，她在餐桌上铺了一块平整洁白的桌布。  
-   **英文**：She spread a crisp white tablecloth over the dining table before setting the dishes.
-   > **解析**：`tablecloth` 可数/不可数名词，意为“桌布；台布”。
+6. **中文**：你是否穿正装取决于场地。
+   **英文**：Whether or not you wear formal attire depends on the venue.
+   > **解析**：whether or not 意为无论是否。
 
-7. **中文**：是否携带男伴/女伴参加晚间婚礼招待会取决于你。  
-   **英文**：It is up to you whether to bring a guest to the evening wedding reception.
-   > **解析**：`be up to sb.` 为固定短语，意为“取决于某人；由某人决定”。
+7. **中文**：至于装饰，没有丝绸桌布我们也行。
+   **英文**：As for the decorations, we can do without a silk tablecloth.
+   > **解析**：do without 意为没有也行、将就。
 
-8. **中文**：在收到正式请柬后，我们立即发出了回复。  
-   **英文**：After having received the formal invitation, we immediately sent our RSVP.
-   > **解析**：`after having + 过去分词` 为“介词 + 动名词完成时”结构，强调动作发生在主句之前。
+8. **中文**：首先，布置场地是一项繁重的任务。
+   **英文**：To begin with, setting up the venue is a demanding task.
+   > **解析**：to begin with 意为首先。
 
-9. **中文**：着装要求可能会有所不同，这取决于活动是在室内还是室外举办。  
-   **英文**：Dress code expectations may vary depending on whether the event is held indoors or outdoors about arrangement.
-   > **解析**：`depending on` 介词短语，意为“取决于；根据”，在句中作状语。
+9. **中文**：由你决定是带一束花还是一份礼物。
+   **英文**：It is up to you whether to bring a bouquet of flowers or a gift.
+   > **解析**：bouquet 意为花束。
 
-10. **中文**：主人举办了一场盛大的晚宴，以向来访的大使表示敬意/为来访的大使祝贺。  
-   **英文**：The host organized a grand dinner party in honor of the visiting ambassador.
-   > **解析**：`in honor of` 介词短语，意为“为了向……表示敬意；为纪念/祝贺……”。
+10. **中文**：她打电话询问最后一刻的座位调整。
+   **英文**：She called to inquire about the last-minute seating change.
+   > **解析**：inquire 意为询问（正式）。
+
+11. **中文**：主人鼓励所有来宾互相互动并拍照。
+   **英文**：The host encouraged all guests to interact and take photographs.
+   > **解析**：interact 意为互动。
+
+12. **中文**：根据天气情况，招待会可能会在户外举行。
+   **英文**：Depending on the weather, the reception might be held outdoors.
+   > **解析**：depending on 意为取决于、根据。
+
+13. **中文**：我们不得不对派对计划做出最后一刻的调整。
+   **英文**：We had to make a last-minute adjustment to the party plan.
+   > **解析**：last-minute 意为最后一刻的、临时的。
+
+14. **中文**：至于音乐，主人雇用了一位专业的 DJ。
+   **英文**：As for the music, the host hired a professional DJ.
+   > **解析**：as for 意为至于。
+
+15. **中文**：拿不准的时候，活动结束后发一封感谢信。
+   **英文**：When in doubt, send a thank-you note after the event.
+   > **解析**：when in doubt 拿不准时。
+
+16. **中文**：她拍摄了一张美丽花卉摆设的照片。
+   **英文**：She took a photograph of the beautiful floral arrangement.
+   > **解析**：photograph 意为照片。
+
+17. **中文**：首先，我们需要发出所有正式请柬。
+   **英文**：To begin with, we need to send out all the formal invitations.
+   > **解析**：formal 意为正式的。
+
+18. **中文**：派对上没有大桌布我们可以将就吗？
+   **英文**：Can we do without a big tablecloth for the party?
+   > **解析**：tablecloth 意为桌布。
+
+19. **中文**：他带着一盒尿布去了迎婴派对。
+   **英文**：He went to the baby shower with a box of diapers.
+   > **解析**：shower 在这里指送礼派对（如 baby shower）。
+
+20. **中文**：在正式餐桌上摆放每个餐位需要花费时间。
+   **英文**：Setting each place on the formal dining table takes time.
+   > **解析**：place 在这里指餐位。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. After being invited to the charity gala, she promptly confirmed her attendance.
-   > **中文**：在被邀请参加慈善晚会后，她立即确认了出席。
+1. Please RSVP by Friday so the host can finalize the table arrangement.
+   > **中文**：请在周五前回复，以便主人敲定座次安排。
 
-2. The guest brought a gorgeous bouquet of fresh roses as a gift for the host.
-   > **中文**：客人带来了一束绚丽的新鲜玫瑰花束作为送给主人的礼物。
+2. The wedding reception was held in honor of the newlyweds.
+   > **中文**：婚礼招待会是为庆祝这对新人而举办的。
 
-3. The invitation specifies that gentlemen should wear formal attire such as a suit and tie.
-   > **中文**：请柬上明确说明男士应穿西装打领带等正式服装。
+3. After being invited to the bridal shower, she bought a lovely gift.
+   > **中文**：被邀请参加新娘送礼派对后，她买了一份精美的礼物。
 
-4. The party provided a wonderful opportunity for colleagues to interact outside of work.
-   > **中文**：派对为同事们在工作之余互相交流/互动提供了一个绝佳的机会。
+4. After having finished the speech, the host thanked all the guests.
+   > **中文**：在完成演讲后，主人感谢了所有来宾。
 
-5. A personalized place card was set at each dinner seat to guide guests.
-   > **中文**：每个晚餐座位上都摆放了一张个性化的席位卡，以引导客人就座。
+5. When in doubt, it is best to ask the host directly about the dress code.
+   > **中文**：拿不准的时候，最好直接向主人询问着装要求。
 
-6. She spread a crisp white tablecloth over the dining table before setting the dishes.
-   > **中文**：在摆放餐具前，她在餐桌上铺了一块平整洁白的桌布。
+6. Whether or not you wear formal attire depends on the venue.
+   > **中文**：你是否穿正装取决于场地。
 
-7. It is up to you whether to bring a guest to the evening wedding reception.
-   > **中文**：是否携带男伴/女伴参加晚间婚礼招待会取决于你。
+7. As for the decorations, we can do without a silk tablecloth.
+   > **中文**：至于装饰，没有丝绸桌布我们也行。
 
-8. After having received the formal invitation, we immediately sent our RSVP.
-   > **中文**：在收到正式请柬后，我们立即发出了回复。
+8. To begin with, setting up the venue is a demanding task.
+   > **中文**：首先，布置场地是一项繁重的任务。
 
-9. Dress code expectations may vary depending on whether the event is held indoors or outdoors about arrangement.
-   > **中文**：着装要求可能会有所不同，这取决于活动是在室内还是室外举办。
+9. It is up to you whether to bring a bouquet of flowers or a gift.
+   > **中文**：由你决定是带一束花还是一份礼物。
 
-10. The host organized a grand dinner party in honor of the visiting ambassador.
-   > **中文**：主人举办了一场盛大的晚宴，以向来访的大使表示敬意/为来访的大使祝贺。
+10. She called to inquire about the last-minute seating change.
+   > **中文**：她打电话询问最后一刻的座位调整。
+
+11. The host encouraged all guests to interact and take photographs.
+   > **中文**：主人鼓励所有来宾互相互动并拍照。
+
+12. Depending on the weather, the reception might be held outdoors.
+   > **中文**：根据天气情况，招待会可能会在户外举行。
+
+13. We had to make a last-minute adjustment to the party plan.
+   > **中文**：我们不得不对派对计划做出最后一刻的调整。
+
+14. As for the music, the host hired a professional DJ.
+   > **中文**：至于音乐，主人雇用了一位专业的 DJ。
+
+15. When in doubt, send a thank-you note after the event.
+   > **中文**：拿不准的时候，活动结束后发一封感谢信。
+
+16. She took a photograph of the beautiful floral arrangement.
+   > **中文**：她拍摄了一张美丽花卉摆设的照片。
+
+17. To begin with, we need to send out all the formal invitations.
+   > **中文**：首先，我们需要发出所有正式请柬。
+
+18. Can we do without a big tablecloth for the party?
+   > **中文**：派对上没有大桌布我们可以将就吗？
+
+19. He went to the baby shower with a box of diapers.
+   > **中文**：他带着一盒尿布去了迎婴派对。
+
+20. Setting each place on the formal dining table takes time.
+   > **中文**：在正式餐桌上摆放每个餐位需要花费时间。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| rsvp | 请回复（请帖用语） |
+| reception | 招待会；宴会 |
+| shower | 送礼派对（如迎婴派对） |
+| in honor of | 为纪念/庆祝……；向……致敬 |
+| after being | 被……之后 |
+| after having | 完成……之后 |
+| when in doubt | 拿不准的时候；有疑问时 |
+| whether or not | 无论是否 |
+| depending on | 取决于；根据 |
+| do without | 没有也行；将就 |
+| last-minute | 最后一刻的；临时的 |
+| formal | 正式的 |
+| host | 主人；主办方 |
+| arrangement | 安排；摆设 |
+| bouquet | 花束 |
+| tablecloth | 桌布 |
+| photograph | 照片 |
+| inquire | 询问 |
+| interact | 互动 |
+| to begin with | 首先；一开始 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ after being, after having, arrangement, as for, bouquet, depending on, do withou
 
 ### 1
 
-`____` invited to the charity gala, she promptly confirmed her attendance.
+Please ____ by Friday so the host can finalize the table arrangement.
 
-- [x] after being
+- [x] RSVP
+- [ ] after being
 - [ ] after having
-- [ ] depending on
 
-> **解析**：`after being + 过去分词` 为“介词 + 动名词被动语态”结构，表示主语在“被……之后”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The guest brought a gorgeous `____` of fresh roses as a gift for the host.
+The wedding ____ was held in honor of the newlyweds.
 
-- [x] bouquet
+- [x] reception
+- [ ] after being
 - [ ] after having
-- [ ] do without
 
-> **解析**：`bouquet` 可数名词，在此读作 /buːˈkeɪ/，意为“花束”。`bouquet of flowers`（花束）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The invitation specifies that gentlemen should wear `____` attire such as a suit and tie.
+After being invited to the bridal ____, she bought a lovely gift.
 
-- [x] formal
-- [ ] arrangement
-- [ ] do without
+- [x] shower
+- [ ] after being
+- [ ] after having
 
-> **解析**：`formal` 形容词，意为“正式的；合乎礼仪的”。修饰名词 `attire / dress`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The party provided a wonderful opportunity for colleagues to `____` outside of work.
+After having finished the speech, the ____ thanked all the guests.
 
-- [x] interact
-- [ ] as for
-- [ ] formal
+- [x] host
+- [ ] after being
+- [ ] after having
 
-> **解析**：`interact` 不及物动词，意为“交流；互动”。搭配 `interact with sb.`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-A personalized `____` card was set at each dinner seat to guide guests.
+When in doubt, it is best to ask the ____ directly about the dress code.
 
-- [x] place
-- [ ] bouquet
-- [ ] host
+- [x] host
+- [ ] after being
+- [ ] after having
 
-> **解析**：`place` 在此处用作名词修饰语，短语 `place card`（席位卡/名卡）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-She spread a crisp white `____` over the dining table before setting the dishes.
+Whether or not you wear ____ attire depends on the venue.
 
-- [x] tablecloth
-- [ ] depending on
-- [ ] in honor of
+- [x] formal
+- [ ] after being
+- [ ] after having
 
-> **解析**：`tablecloth` 可数/不可数名词，意为“桌布；台布”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-It is up to you whether to bring a guest to the evening wedding `____`.
+As for the decorations, we can do without a silk ____.
 
-- [x] reception
-- [ ] do without
-- [ ] inquire
+- [x] tablecloth
+- [ ] after being
+- [ ] after having
 
-> **解析**：`be up to sb.` 为固定短语，意为“取决于某人；由某人决定”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-`____` received the formal invitation, we immediately sent our RSVP.
+To begin with, setting up the venue is a demanding ____.
 
-- [x] after having
-- [ ] host
-- [ ] last-minute
+- [x] task
+- [ ] after being
+- [ ] after having
 
-> **解析**：`after having + 过去分词` 为“介词 + 动名词完成时”结构，强调动作发生在主句之前。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Dress code expectations may vary depending on whether the event is held indoors or outdoors about `____`.
+It is up to you whether to bring a ____ of flowers or a gift.
 
-- [x] arrangement
-- [ ] in honor of
-- [ ] photograph
+- [x] bouquet
+- [ ] after being
+- [ ] after having
 
-> **解析**：`depending on` 介词短语，意为“取决于；根据”，在句中作状语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The `____` organized a grand dinner party in honor of the visiting ambassador.
+She called to ____ about the last-minute seating change.
+
+- [x] inquire
+- [ ] after being
+- [ ] after having
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The ____ encouraged all guests to interact and take photographs.
 
 - [x] host
-- [ ] inquire
-- [ ] place
+- [ ] after being
+- [ ] after having
 
-> **解析**：`in honor of` 介词短语，意为“为了向……表示敬意；为纪念/祝贺……”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Depending on the weather, the ____ might be held outdoors.
+
+- [x] reception
+- [ ] after being
+- [ ] after having
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+We had to make a ____ adjustment to the party plan.
+
+- [x] last-minute
+- [ ] after being
+- [ ] after having
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+As for the music, the ____ hired a professional DJ.
+
+- [x] host
+- [ ] after being
+- [ ] after having
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+When in doubt, send a ____ note after the event.
+
+- [x] thank-you
+- [ ] after being
+- [ ] after having
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+She took a ____ of the beautiful floral arrangement.
+
+- [x] photograph
+- [ ] after being
+- [ ] after having
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+To begin with, we need to send out all the ____ invitations.
+
+- [x] formal
+- [ ] after being
+- [ ] after having
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Can we do without a big ____ for the party?
+
+- [x] tablecloth
+- [ ] after being
+- [ ] after having
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+He went to the baby ____ with a box of diapers.
+
+- [x] shower
+- [ ] after being
+- [ ] after having
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Setting each ____ on the formal dining table takes time.
+
+- [x] place
+- [ ] after being
+- [ ] after having
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

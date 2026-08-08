@@ -53,83 +53,176 @@ had / hadn't 提示过去完成时（Had you reserved...? / I hadn't known...）
 
 <quiz-sentence-builder>
 
-1. **中文**：在假期高峰期提前预订火车票是明智的。  
-   **英文**：It is wise to reserve your train tickets ahead of time during peak holiday seasons.
-   > **解析**：`ahead of time` 为时间副词短语，意为“提前；事先”。作状语修饰动词 `reserve`，同义词为 `in advance`。
+1. **中文**：我们在伦敦郊区预订了一家非常温馨的民宿。
+   **英文**：We booked a cozy bed and breakfast in the countryside.
+   > **解析**：bed and breakfast 表示民宿、含早餐旅馆。
 
-2. **中文**：我们的酒店地理位置优越，位于靠近火车站的中心城区。  
-   **英文**：Our hotel is conveniently located in the central district near the main station.
-   > **解析**：`central` 形容词，意为“中央的；中心区域的”，修饰名词 `district`。
+2. **中文**：空中乘务员提醒大家在起飞前系好安全带。
+   **英文**：The flight attendant reminded passengers to fasten their seatbelts.
+   > **解析**：flight attendant 表示空中乘务员；fasten 表示系紧。
 
-3. **中文**：在飞机准备起飞时，请系紧您的安全带。  
-   **英文**：Please fasten your seatbelts securely as the plane prepares for takeoff.
-   > **解析**：`fasten` 及物动词，意为“系紧；扣牢”。航空旅行场景中最常用于 `fasten your seatbelt`（系好安全带）。
+3. **中文**：请确保您的随身行李符合航空公司的尺寸限制。
+   **英文**：Make sure your carry-on bag meets the airline size limit.
+   > **解析**：carry-on
 
-4. **中文**：请随意享用休息室里的免费点心和饮料。  
-   **英文**：Please help yourself to the complimentary snacks and drinks in the lounge.
-   > **解析**：`help yourself to` 为礼貌动词短语，意为“请自便/随意享用（食物、饮料等）”。后接具体供给物品。
+4. **中文**：酒店的大堂电梯目前正在维修，处于故障状态。
+   **英文**：The hotel lobby elevator is currently out of order for maintenance.
+   > **解析**：out of order 表示故障、损坏。
 
-5. **中文**：大堂附近的电梯坏了，所以我们不得不走楼梯。  
-   **英文**：The elevator near the lobby is out of order, so we have to use the stairs.
-   > **解析**：`out of order` 为介词短语作表语，意为“发生故障；失灵”。常用于公共设施（如电梯、售票机）故障提示。
+5. **中文**：餐厅提供丰富的自助早餐供客人享用。
+   **英文**：The dining area offers a self-service breakfast buffet for guests.
+   > **解析**：self-service 表示自助服务的。
 
-6. **中文**：经济舱前排有充裕的腿部空间。  
-   **英文**：There is plenty of leg room in the front row of the economy cabin.
-   > **解析**：`room` 在此处用作不可数名词，意为“空间；空隙”。短语 `leg room` 特指脚部伸展空间。
+6. **中文**：建议旅客提前两小时到达机场办理登机。
+   **英文**：Travelers are advised to arrive at the airport ahead of time.
+   > **解析**：ahead of time 表示提前、事先。
 
-7. **中文**：他们在餐厅要求分开结账。  
-   **英文**：They requested separate checks for their meals at the restaurant.
-   > **解析**：`separate` 形容词，在此处读作 /ˈsɛpərət/，意为“分开的；单独的”。`separate checks` 指“各自买单/分开付账”。
+7. **中文**：请随意享用休息室里的新鲜水果和饮料。
+   **英文**：Please help yourself to the fresh fruit and drinks in the lounge.
+   > **解析**：help yourself to 表示请自便、随意享用。
 
-8. **中文**：乘客被允许携带一件随身行李登机。  
-   **英文**：Passengers are allowed to bring one carry-on bag aboard the flight.
-   > **解析**：`carry-on` 作前置形容词修饰 `bag`，意为“随身的；可带上飞机的”。也可单独做名词 `a carry-on`（随身行李）。
+8. **中文**：这家租车公司以提供可靠的车况和优质服务而闻名。
+   **英文**：This car rental agency is known for providing reliable vehicles.
+   > **解析**：reliable 表示可靠的。
 
-9. **中文**：乘务员说行李很快就会在三号传送带上出来。  
-   **英文**：The flight attendant said the luggage would come out on carousel three shortly.
-   > **解析**：`come out` 不及物动词短语，意为“出来；出现”。在机场场景中常指行李从输送带传送出来。
+9. **中文**：这间酒店位于交通便利的市中心区域。
+   **英文**：This hotel is conveniently located in the central district.
+   > **解析**：central 表示市中心的、中央的。
 
-10. **中文**：我们在探索古老城市的旧街巷时度过了一段美好的时光。  
-   **英文**：We had a wonderful time exploring the ancient streets of the old city.
-   > **解析**：`had` 动词 `have` 的过去式，与 `a wonderful time` 搭配表示“度过了（一段时光）”。
+10. **中文**：如果同行亲友需要分房住，我们可以准备单独的房间。
+   **英文**：We can prepare separate rooms if guests prefer privacy.
+   > **解析**：separate 表示分开的、单独的。
+
+11. **中文**：在我到达航站楼之前，航班就已经起飞了。
+   **英文**：Before I arrived at the terminal, the flight had already taken off.
+   > **解析**：had 用于过去完成时，表示在过去某一时间前已经发生。
+
+12. **中文**：我们去海滩之前还没检查过天气预报。
+   **英文**：We hadn't checked the forecast before heading to the beach.
+   > **解析**：hadn't 用于过去完成时否定，表示当时尚未……
+
+13. **中文**：他在日本居住多年后获得了永久居民身份。
+   **英文**：He obtained his status as a permanent resident after years of living there.
+   > **解析**：permanent resident 表示永久居民。
+
+14. **中文**：这座城市吸引了许多来自世界各地的年轻移民。
+   **英文**：The city attracts many young immigrants from around the world.
+   > **解析**：immigrant 表示移民。
+
+15. **中文**：请从菜单中选择您喜欢的晚餐套餐。
+   **英文**：Please select your preferred dinner option from the menu.
+   > **解析**：select 表示选择、挑选。
+
+16. **中文**：前台接待员帮我们核对了预订信息。
+   **英文**：The receptionist helped us check our reservation details carefully.
+   > **解析**：check 表示核对、检查。
+
+17. **中文**：他经常为了商务合作去欧洲各个国家旅行。
+   **英文**：He often travels across European countries for business.
+   > **解析**：travels 表示旅行（第三人称单数）。
+
+18. **中文**：太阳从云层后面升起，天气变得格外晴朗。
+   **英文**：The sun came out from behind the clouds and it brightened up.
+   > **解析**：come out 表示出来、露面。
+
+19. **中文**：你是怎样在没有导航的情况下找到这家特色旅馆的？
+   **英文**：How did you find this boutique hotel without using navigation?
+   > **解析**：how did 用于询问过去动作的方式。
+
+20. **中文**：飞机降落前请将您的随身小包妥善安放。
+   **英文**：Please store your small baggage safely in the extra room.
+   > **解析**：room 表示空间。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. It is wise to reserve your train tickets ahead of time during peak holiday seasons.
-   > **中文**：在假期高峰期提前预订火车票是明智的。
+1. We booked a cozy bed and breakfast in the countryside.
+   > **中文**：我们在伦敦郊区预订了一家非常温馨的民宿。
 
-2. Our hotel is conveniently located in the central district near the main station.
-   > **中文**：我们的酒店地理位置优越，位于靠近火车站的中心城区。
+2. The flight attendant reminded passengers to fasten their seatbelts.
+   > **中文**：空中乘务员提醒大家在起飞前系好安全带。
 
-3. Please fasten your seatbelts securely as the plane prepares for takeoff.
-   > **中文**：在飞机准备起飞时，请系紧您的安全带。
+3. Make sure your carry-on bag meets the airline size limit.
+   > **中文**：请确保您的随身行李符合航空公司的尺寸限制。
 
-4. Please help yourself to the complimentary snacks and drinks in the lounge.
-   > **中文**：请随意享用休息室里的免费点心和饮料。
+4. The hotel lobby elevator is currently out of order for maintenance.
+   > **中文**：酒店的大堂电梯目前正在维修，处于故障状态。
 
-5. The elevator near the lobby is out of order, so we have to use the stairs.
-   > **中文**：大堂附近的电梯坏了，所以我们不得不走楼梯。
+5. The dining area offers a self-service breakfast buffet for guests.
+   > **中文**：餐厅提供丰富的自助早餐供客人享用。
 
-6. There is plenty of leg room in the front row of the economy cabin.
-   > **中文**：经济舱前排有充裕的腿部空间。
+6. Travelers are advised to arrive at the airport ahead of time.
+   > **中文**：建议旅客提前两小时到达机场办理登机。
 
-7. They requested separate checks for their meals at the restaurant.
-   > **中文**：他们在餐厅要求分开结账。
+7. Please help yourself to the fresh fruit and drinks in the lounge.
+   > **中文**：请随意享用休息室里的新鲜水果和饮料。
 
-8. Passengers are allowed to bring one carry-on bag aboard the flight.
-   > **中文**：乘客被允许携带一件随身行李登机。
+8. This car rental agency is known for providing reliable vehicles.
+   > **中文**：这家租车公司以提供可靠的车况和优质服务而闻名。
 
-9. The flight attendant said the luggage would come out on carousel three shortly.
-   > **中文**：乘务员说行李很快就会在三号传送带上出来。
+9. This hotel is conveniently located in the central district.
+   > **中文**：这间酒店位于交通便利的市中心区域。
 
-10. We had a wonderful time exploring the ancient streets of the old city.
-   > **中文**：我们在探索古老城市的旧街巷时度过了一段美好的时光。
+10. We can prepare separate rooms if guests prefer privacy.
+   > **中文**：如果同行亲友需要分房住，我们可以准备单独的房间。
+
+11. Before I arrived at the terminal, the flight had already taken off.
+   > **中文**：在我到达航站楼之前，航班就已经起飞了。
+
+12. We hadn't checked the forecast before heading to the beach.
+   > **中文**：我们去海滩之前还没检查过天气预报。
+
+13. He obtained his status as a permanent resident after years of living there.
+   > **中文**：他在日本居住多年后获得了永久居民身份。
+
+14. The city attracts many young immigrants from around the world.
+   > **中文**：这座城市吸引了许多来自世界各地的年轻移民。
+
+15. Please select your preferred dinner option from the menu.
+   > **中文**：请从菜单中选择您喜欢的晚餐套餐。
+
+16. The receptionist helped us check our reservation details carefully.
+   > **中文**：前台接待员帮我们核对了预订信息。
+
+17. He often travels across European countries for business.
+   > **中文**：他经常为了商务合作去欧洲各个国家旅行。
+
+18. The sun came out from behind the clouds and it brightened up.
+   > **中文**：太阳从云层后面升起，天气变得格外晴朗。
+
+19. How did you find this boutique hotel without using navigation?
+   > **中文**：你是怎样在没有导航的情况下找到这家特色旅馆的？
+
+20. Please store your small baggage safely in the extra room.
+   > **中文**：飞机降落前请将您的随身小包妥善安放。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| bed and breakfast | 民宿；含早餐旅馆 |
+| flight attendant | 空中乘务员；空姐 |
+| carry-on | 随身行李 |
+| permanent resident | 永久居民 |
+| immigrant | 移民 |
+| out of order | 故障；损坏 |
+| self-service | 自助服务的 |
+| reliable | 可靠的 |
+| central | 市中心的；中央的 |
+| separate | 分开的；单独的 |
+| ahead of time | 提前；事先 |
+| help yourself to | 请自便；随意享用 |
+| fasten | 系紧；扣紧 |
+| select | 选择；挑选 |
+| check | 检查；核对 |
+| room | 房间；空间 |
+| travels | 旅行 |
+| come out | 出来；出版 |
+| had | 已经（过去完成时助动词） |
+| hadn't | 尚未（过去完成时否定助动词） |
 
 </quiz-matching>
 
@@ -137,102 +230,202 @@ had / hadn't 提示过去完成时（Had you reserved...? / I hadn't known...）
 
 ### 1
 
-It is wise to reserve your train tickets `____` during peak holiday seasons.
+We booked a cozy bed and breakfast in the ____.
 
-- [x] ahead of time
+- [x] countryside
+- [ ] ahead of time
 - [ ] as
-- [ ] check
 
-> **解析**：`ahead of time` 为时间副词短语，意为“提前；事先”。作状语修饰动词 `reserve`，同义词为 `in advance`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Our hotel is conveniently located in the `____` district near the main station.
+The flight attendant reminded passengers ____ fasten their seatbelts.
 
-- [x] central
+- [x] to
+- [ ] ahead of time
 - [ ] as
-- [ ] come out
 
-> **解析**：`central` 形容词，意为“中央的；中心区域的”，修饰名词 `district`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Please fasten your seatbelts securely `____` the plane prepares for takeoff.
+Make sure your ____ bag meets the airline size limit.
 
-- [x] as
-- [ ] carry-on
-- [ ] fasten
+- [x] carry-on
+- [ ] ahead of time
+- [ ] as
 
-> **解析**：`fasten` 及物动词，意为“系紧；扣牢”。航空旅行场景中最常用于 `fasten your seatbelt`（系好安全带）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Please `____` the complimentary snacks and drinks in the lounge.
+The hotel lobby elevator is currently out of order ____ maintenance.
 
-- [x] help yourself to
-- [ ] carry-on
-- [ ] fasten
+- [x] for
+- [ ] ahead of time
+- [ ] as
 
-> **解析**：`help yourself to` 为礼貌动词短语，意为“请自便/随意享用（食物、饮料等）”。后接具体供给物品。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The elevator near the lobby is `____`, so we have to use the stairs.
+The dining area offers a ____ breakfast buffet for guests.
 
-- [x] out of order
-- [ ] central
-- [ ] flight attendant
+- [x] self-service
+- [ ] ahead of time
+- [ ] as
 
-> **解析**：`out of order` 为介词短语作表语，意为“发生故障；失灵”。常用于公共设施（如电梯、售票机）故障提示。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-There is plenty of leg `____` in the front row of the economy cabin.
+Travelers are advised ____ arrive at the airport ahead of time.
 
-- [x] room
-- [ ] check
-- [ ] for
+- [x] to
+- [ ] ahead of time
+- [ ] as
 
-> **解析**：`room` 在此处用作不可数名词，意为“空间；空隙”。短语 `leg room` 特指脚部伸展空间。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-They requested separate `____`s for their meals at the restaurant.
+Please help yourself ____ the fresh fruit and drinks in the lounge.
 
-- [x] check
-- [ ] fasten
-- [ ] hadn't
+- [x] to
+- [ ] ahead of time
+- [ ] as
 
-> **解析**：`separate` 形容词，在此处读作 /ˈsɛpərət/，意为“分开的；单独的”。`separate checks` 指“各自买单/分开付账”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Passengers are allowed to bring one `____` bag aboard the flight.
+This car rental agency is known ____ providing reliable vehicles.
 
-- [x] carry-on
-- [ ] flight attendant
-- [ ] help yourself to
+- [x] for
+- [ ] ahead of time
+- [ ] as
 
-> **解析**：`carry-on` 作前置形容词修饰 `bag`，意为“随身的；可带上飞机的”。也可单独做名词 `a carry-on`（随身行李）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The flight attendant said the luggage would `____` on carousel three shortly.
+This hotel is conveniently located in the ____ district.
 
-- [x] come out
-- [ ] for
-- [ ] how did
+- [x] central
+- [ ] ahead of time
+- [ ] as
 
-> **解析**：`come out` 不及物动词短语，意为“出来；出现”。在机场场景中常指行李从输送带传送出来。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-We `____` a wonderful time exploring the ancient streets of the old city.
+We can prepare ____ rooms if guests prefer privacy.
+
+- [x] separate
+- [ ] ahead of time
+- [ ] as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Before I arrived at the terminal, the flight ____ already taken off.
 
 - [x] had
-- [ ] for
-- [ ] immigrant
+- [ ] ahead of time
+- [ ] as
 
-> **解析**：`had` 动词 `have` 的过去式，与 `a wonderful time` 搭配表示“度过了（一段时光）”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+We ____ checked the forecast before heading to the beach.
+
+- [x] hadn't
+- [ ] ahead of time
+- [ ] as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+He obtained his status ____ a permanent resident after years of living there.
+
+- [x] as
+- [ ] ahead of time
+- [ ] bed and breakfast
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The city attracts many young ____ from around the world.
+
+- [x] immigrants
+- [ ] ahead of time
+- [ ] as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Please ____ your preferred dinner option from the menu.
+
+- [x] select
+- [ ] ahead of time
+- [ ] as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The receptionist helped us ____ our reservation details carefully.
+
+- [x] check
+- [ ] ahead of time
+- [ ] as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+He often ____ across European countries for business.
+
+- [x] travels
+- [ ] ahead of time
+- [ ] as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+The sun came out from behind the clouds and it ____ up.
+
+- [x] brightened
+- [ ] ahead of time
+- [ ] as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+How did you find this boutique hotel without using ____?
+
+- [x] navigation
+- [ ] ahead of time
+- [ ] as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Please store your small baggage safely in the extra ____.
+
+- [x] room
+- [ ] ahead of time
+- [ ] as
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

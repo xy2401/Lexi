@@ -51,83 +51,176 @@ there might be / there can't be / there should not be 这组结构用来表达�
 
 <quiz-sentence-builder>
 
-1. **中文**：作为队长，他发表了一番鼓舞人心的演讲以提高大家的信心。  
-   **英文**：As the team captain, he gave an inspiring speech to boost everyone's confidence.
-   > **解析**：`captain` 名词，意为“队长；领队”。在前置介词短语 `As the team captain` 中作身份说明。
+1. **中文**：队长带领全队赢得了这场重要的比赛。
+   **英文**：The captain led the team to win this important match.
+   > **解析**：captain 表示队长。
 
-2. **中文**：她在昨天的十米跳台跳水比赛中赢得了金牌。  
-   **英文**：She won a gold medal in the ten-meter platform diving competition yesterday.
-   > **解析**：`diving` 动名词，意为“跳水运动；潜水”。在此处用作名词修饰语，说明比赛项目的类型。
+2. **中文**：专业骑手在训练时总是戴着安全头盔。
+   **英文**：The cyclist always wears a safety helmet during training.
+   > **解析**：cyclist 表示自行车手；helmet 表示头盔。
 
-3. **中文**：体操运动需要柔韧性、精准的平衡力以及非凡的力量。  
-   **英文**：Gymnastics requires flexibility, precise balance, and exceptional strength.
-   > **解析**：`gymnastics` 名词，意为“体操；体操运动”。形式虽为复数形式（以 -s 结尾），但作为学科或运动项目名称时作不可数名词，谓语动词用单数形式 `requires`。
+3. **中文**：游泳运动员跳入泳池并打破了全国记录。
+   **英文**：The swimmer jumped into the pool and broke the national record.
+   > **解析**：swimmer 表示游泳运动员；record 表示记录。
 
-4. **中文**：野生动物经常在日出前的大早晨捕猎食物。  
-   **英文**：Wild animals often hunt for food early in the morning before sunrise.
-   > **解析**：`hunt` 不及物动词，意为“打猎；搜寻”。搭配 `hunt for food` 表示“寻找/捕食”。
+4. **中文**：他们的团队在这场比赛中的防守做得非常好。
+   **英文**：Their team played amazing defense during the game.
+   > **解析**：defense 表示防守。
 
-5. **中文**：这名跑步运动员打破了二百米短跑项目的国家纪录。  
-   **英文**：The runner broke the national record in the two-hundred-meter dash event.
-   > **解析**：`record` 名词，在此处读作 /ˈrɛkərd/，意为“纪录；记载”。动词短语 `break a record` 表示“打破纪录”。
+5. **中文**：教练要求队员在下半场加强进攻。
+   **英文**：The coach asked the players to strengthen their offense in the second half.
+   > **解析**：offense 表示进攻。
 
-6. **中文**：那位年轻的游泳运动员每天早晨训练整整三个小时。  
-   **英文**：The young swimmer trained for three hours every single morning.
-   > **解析**：`swimmer` 可数名词，意为“游泳者；游泳运动员”，由动词 `swim` 加后缀 `-mer` 派生而来。
+6. **中文**：练习体操需要昂贵的专业装备。
+   **英文**：Practicing gymnastics requires specialized and safe equipment.
+   > **解析**：gymnastics 表示体操；equipment 表示装备。
 
-7. **中文**：如果雨一直下，今天可能就不会有任何户外比赛了。  
-   **英文**：If it keeps raining, there might not be any outdoor games today.
-   > **解析**：`there might not be` 为 `there be` 句型与情态动词 `might` 的否定形式连用，表达对存在情况的推测：“可能不会有……”。
+7. **中文**：她在跳水比赛中完美地完成了那个高难度动作。
+   **英文**：She completed the difficult move perfectly during the diving competition.
+   > **解析**：perfectly 表示完美地；diving 表示跳水。
 
-8. **中文**：加油，坚持推向终点线！  
-   **英文**：Come on, keep pushing until you reach the finish line about cyclist.
-   > **解析**：`come on` 为常用口语短语，在此处作感叹语，意为“加油；快点”，用以鼓舞士气或催促对方。
+8. **中文**：选手们正在室外跑道上为决赛做准备。
+   **英文**：Athletes are preparing for the final on the outdoor track.
+   > **解析**：track 表示跑道；final 表示决赛。
 
-9. **中文**：专业体育器材必须符合严格的安全标准。  
-   **英文**：Professional sports equipment must meet strict safety standards.
-   > **解析**：`equipment` 为不可数名词，意为“设备；器材；装备”。注意不能加 `-s`，也不能用 `an equipment`，若需表达一件装备需用 `a piece of equipment`。
+9. **中文**：我希望在今年冬天去雪山滑雪。
+   **英文**：I hope to ski in the mountains this winter.
+   > **解析**：hope to 表示希望做某事；ski 表示滑雪。
 
-10. **中文**：骑自行车下坡时，你应该始终佩戴防护头盔。  
-   **英文**：You should always wear a protective helmet when riding a bicycle downhill.
-   > **解析**：`helmet` 可数名词，意为“头盔；安全帽”。作为及物动词 `wear` 的宾语，常与形容词 `protective`（防护的）连用。
+10. **中文**：我们预计明天会有很多观赛的球迷。
+   **英文**：We expect to see a huge crowd of fans tomorrow.
+   > **解析**：expect to 表示预计；期望。
+
+11. **中文**：他喜欢在周末带上单板去滑雪场。
+   **英文**：He likes to take his snowboard to the resort on weekends.
+   > **解析**：snowboard 表示单板滑雪。
+
+12. **中文**：这个看台太高了，我不建议从这里看球。
+   **英文**：This seat is too high up for a clear view of the field.
+   > **解析**：high 表示高的。
+
+13. **中文**：别放弃，加油！你可以赢得这次赛跑！
+   **英文**：Don't give up, come on! You can win this race!
+   > **解析**：come on 表示加油、来吧；race 表示赛跑、比赛。
+
+14. **中文**：球队管理层正在寻找一位经验丰富的新教练。
+   **英文**：The team management is on a hunt for an experienced coach.
+   > **解析**：hunt 表示寻找。
+
+15. **中文**：体育馆里不可能没有任何安全装备。
+   **英文**：There can't be any missing safety equipment in the gym.
+   > **解析**：there can't be 表示不可能有。
+
+16. **中文**：赛场外可能有一些未发售的门票。
+   **英文**：There might be some remaining tickets available outside the stadium.
+   > **解析**：there might be 表示可能有。
+
+17. **中文**：比赛期间观众席上不应该有任何噪音。
+   **英文**：There shouldn't be any loud noise in the spectator area during performance.
+   > **解析**：there shouldn't be 表示不应该有。
+
+18. **中文**：明天可能没有雨，我们可以照常在室外比赛。
+   **英文**：There may not be any rain tomorrow, so we can play outside.
+   > **解析**：there may not be 表示可能没有。
+
+19. **中文**：这位滑雪健儿在决赛中创造了新的赛道记录。
+   **英文**：The skier set a new course record in the final round.
+   > **解析**：final 表示决赛。
+
+20. **中文**：骑自行车时佩戴头盔是保护自己的关键。
+   **英文**：Wearing a helmet while riding is essential for protection.
+   > **解析**：helmet 表示头盔。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. As the team captain, he gave an inspiring speech to boost everyone's confidence.
-   > **中文**：作为队长，他发表了一番鼓舞人心的演讲以提高大家的信心。
+1. The captain led the team to win this important match.
+   > **中文**：队长带领全队赢得了这场重要的比赛。
 
-2. She won a gold medal in the ten-meter platform diving competition yesterday.
-   > **中文**：她在昨天的十米跳台跳水比赛中赢得了金牌。
+2. The cyclist always wears a safety helmet during training.
+   > **中文**：专业骑手在训练时总是戴着安全头盔。
 
-3. Gymnastics requires flexibility, precise balance, and exceptional strength.
-   > **中文**：体操运动需要柔韧性、精准的平衡力以及非凡的力量。
+3. The swimmer jumped into the pool and broke the national record.
+   > **中文**：游泳运动员跳入泳池并打破了全国记录。
 
-4. Wild animals often hunt for food early in the morning before sunrise.
-   > **中文**：野生动物经常在日出前的大早晨捕猎食物。
+4. Their team played amazing defense during the game.
+   > **中文**：他们的团队在这场比赛中的防守做得非常好。
 
-5. The runner broke the national record in the two-hundred-meter dash event.
-   > **中文**：这名跑步运动员打破了二百米短跑项目的国家纪录。
+5. The coach asked the players to strengthen their offense in the second half.
+   > **中文**：教练要求队员在下半场加强进攻。
 
-6. The young swimmer trained for three hours every single morning.
-   > **中文**：那位年轻的游泳运动员每天早晨训练整整三个小时。
+6. Practicing gymnastics requires specialized and safe equipment.
+   > **中文**：练习体操需要昂贵的专业装备。
 
-7. If it keeps raining, there might not be any outdoor games today.
-   > **中文**：如果雨一直下，今天可能就不会有任何户外比赛了。
+7. She completed the difficult move perfectly during the diving competition.
+   > **中文**：她在跳水比赛中完美地完成了那个高难度动作。
 
-8. Come on, keep pushing until you reach the finish line about cyclist.
-   > **中文**：加油，坚持推向终点线！
+8. Athletes are preparing for the final on the outdoor track.
+   > **中文**：选手们正在室外跑道上为决赛做准备。
 
-9. Professional sports equipment must meet strict safety standards.
-   > **中文**：专业体育器材必须符合严格的安全标准。
+9. I hope to ski in the mountains this winter.
+   > **中文**：我希望在今年冬天去雪山滑雪。
 
-10. You should always wear a protective helmet when riding a bicycle downhill.
-   > **中文**：骑自行车下坡时，你应该始终佩戴防护头盔。
+10. We expect to see a huge crowd of fans tomorrow.
+   > **中文**：我们预计明天会有很多观赛的球迷。
+
+11. He likes to take his snowboard to the resort on weekends.
+   > **中文**：他喜欢在周末带上单板去滑雪场。
+
+12. This seat is too high up for a clear view of the field.
+   > **中文**：这个看台太高了，我不建议从这里看球。
+
+13. Don't give up, come on! You can win this race!
+   > **中文**：别放弃，加油！你可以赢得这次赛跑！
+
+14. The team management is on a hunt for an experienced coach.
+   > **中文**：球队管理层正在寻找一位经验丰富的新教练。
+
+15. There can't be any missing safety equipment in the gym.
+   > **中文**：体育馆里不可能没有任何安全装备。
+
+16. There might be some remaining tickets available outside the stadium.
+   > **中文**：赛场外可能有一些未发售的门票。
+
+17. There shouldn't be any loud noise in the spectator area during performance.
+   > **中文**：比赛期间观众席上不应该有任何噪音。
+
+18. There may not be any rain tomorrow, so we can play outside.
+   > **中文**：明天可能没有雨，我们可以照常在室外比赛。
+
+19. The skier set a new course record in the final round.
+   > **中文**：这位滑雪健儿在决赛中创造了新的赛道记录。
+
+20. Wearing a helmet while riding is essential for protection.
+   > **中文**：骑自行车时佩戴头盔是保护自己的关键。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| captain | 队长 |
+| cyclist | 自行车手 |
+| swimmer | 游泳者；游泳运动员 |
+| defense | 防守 |
+| offense | 进攻 |
+| helmet | 头盔 |
+| equipment | 装备；设备 |
+| gymnastics | 体操 |
+| diving | 跳水 |
+| track | 跑道；田径 |
+| race | 比赛；赛跑 |
+| record | 记录 |
+| ski | 滑雪（板） |
+| snowboard | 单板滑雪 |
+| hunt | 寻找；猎捕 |
+| expect to | 预计；期望 |
+| hope to | 希望 |
+| come on | 来吧；加油 |
+| perfectly | 完美地 |
+| high | 高的；高处 |
 
 </quiz-matching>
 
@@ -135,102 +228,202 @@ there might be / there can't be / there should not be 这组结构用来表达�
 
 ### 1
 
-As the team `____`, he gave an inspiring speech to boost everyone's confidence.
+The ____ led the team to win this important match.
 
 - [x] captain
 - [ ] come on
-- [ ] equipment
+- [ ] cyclist
 
-> **解析**：`captain` 名词，意为“队长；领队”。在前置介词短语 `As the team captain` 中作身份说明。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-She won a gold medal in the ten-meter platform `____` competition yesterday.
+The ____ always wears a safety helmet during training.
 
-- [x] diving
+- [x] cyclist
+- [ ] captain
 - [ ] come on
-- [ ] expect to
 
-> **解析**：`diving` 动名词，意为“跳水运动；潜水”。在此处用作名词修饰语，说明比赛项目的类型。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-`____` requires flexibility, precise balance, and exceptional strength.
+The ____ jumped into the pool and broke the national record.
 
-- [x] gymnastics
-- [ ] cyclist
-- [ ] expect to
+- [x] swimmer
+- [ ] captain
+- [ ] come on
 
-> **解析**：`gymnastics` 名词，意为“体操；体操运动”。形式虽为复数形式（以 -s 结尾），但作为学科或运动项目名称时作不可数名词，谓语动词用单数形式 `requires`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Wild animals often `____` for food early in the morning before sunrise.
+Their team played amazing ____ during the game.
 
-- [x] hunt
-- [ ] defense
-- [ ] final
+- [x] defense
+- [ ] captain
+- [ ] come on
 
-> **解析**：`hunt` 不及物动词，意为“打猎；搜寻”。搭配 `hunt for food` 表示“寻找/捕食”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The runner broke the national `____` in the two-hundred-meter dash event.
+The coach asked the players to strengthen their ____ in the second half.
 
-- [x] record
-- [ ] diving
-- [ ] gymnastics
+- [x] offense
+- [ ] captain
+- [ ] come on
 
-> **解析**：`record` 名词，在此处读作 /ˈrɛkərd/，意为“纪录；记载”。动词短语 `break a record` 表示“打破纪录”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The young `____` trained for three hours every single morning.
+Practicing ____ requires specialized and safe equipment.
 
-- [x] swimmer
-- [ ] equipment
-- [ ] helmet
+- [x] gymnastics
+- [ ] captain
+- [ ] come on
 
-> **解析**：`swimmer` 可数名词，意为“游泳者；游泳运动员”，由动词 `swim` 加后缀 `-mer` 派生而来。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-If it keeps raining, `____` any outdoor games today.
+She completed the difficult move ____ during the diving competition.
 
-- [x] there might not be
-- [ ] expect to
-- [ ] high
+- [x] perfectly
+- [ ] captain
+- [ ] come on
 
-> **解析**：`there might not be` 为 `there be` 句型与情态动词 `might` 的否定形式连用，表达对存在情况的推测：“可能不会有……”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-`____`, keep pushing until you reach the finish line about cyclist.
+Athletes are preparing for the ____ on the outdoor track.
 
-- [x] come on
-- [ ] gymnastics
-- [ ] hunt
+- [x] final
+- [ ] captain
+- [ ] come on
 
-> **解析**：`come on` 为常用口语短语，在此处作感叹语，意为“加油；快点”，用以鼓舞士气或催促对方。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Professional sports `____` must meet strict safety standards.
+I hope to ____ in the mountains this winter.
 
-- [x] equipment
-- [ ] helmet
-- [ ] offense
+- [x] ski
+- [ ] captain
+- [ ] come on
 
-> **解析**：`equipment` 为不可数名词，意为“设备；器材；装备”。注意不能加 `-s`，也不能用 `an equipment`，若需表达一件装备需用 `a piece of equipment`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-You should always wear a protective `____` when riding a bicycle downhill.
+We expect to see a huge crowd of fans ____.
+
+- [x] tomorrow
+- [ ] captain
+- [ ] come on
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+He likes to take his ____ to the resort on weekends.
+
+- [x] snowboard
+- [ ] captain
+- [ ] come on
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+This seat is too ____ up for a clear view of the field.
+
+- [x] high
+- [ ] captain
+- [ ] come on
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Don't give up, come on! You can win this ____!
+
+- [x] race
+- [ ] captain
+- [ ] come on
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The team management is on a ____ for an experienced coach.
+
+- [x] hunt
+- [ ] captain
+- [ ] come on
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+There can't be any missing safety ____ in the gym.
+
+- [x] equipment
+- [ ] captain
+- [ ] come on
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+There might be some ____ tickets available outside the stadium.
+
+- [x] remaining
+- [ ] captain
+- [ ] come on
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+There shouldn't be any loud noise in the spectator area during ____.
+
+- [x] performance
+- [ ] captain
+- [ ] come on
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+There may not be any rain ____, so we can play outside.
+
+- [x] tomorrow
+- [ ] captain
+- [ ] come on
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The skier set a new course ____ in the final round.
+
+- [x] record
+- [ ] captain
+- [ ] come on
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Wearing a ____ while riding is essential for protection.
 
 - [x] helmet
-- [ ] high
-- [ ] perfectly
+- [ ] captain
+- [ ] come on
 
-> **解析**：`helmet` 可数名词，意为“头盔；安全帽”。作为及物动词 `wear` 的宾语，常与形容词 `protective`（防护的）连用。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

@@ -63,83 +63,176 @@ after next, all of a sudden, amusement park, cotton candy, ferris wheel, giganti
 
 <quiz-sentence-builder>
 
-1. **中文**：搭乘刺激的高速过山车是我们这次行程的亮点。  
-   **英文**：Riding the thrilling high-speed roller coaster was the highlight of our trip.
-   > **解析**：`roller coaster` 是名词短语，意为“过山车”。
+1. **中文**：我原本在想我们可以下下周去游乐园玩。  
+   **英文**：I was thinking we could visit the amusement park the week after next.
+   > **解析**：was thinking 表示原本在想；amusement park 表示游乐园；after next 表示下下个。
 
-2. **中文**：新建的游乐园拥有灵感源自热门电影的游乐设施。  
-   **英文**：The new amusement park features rides inspired by popular movies.
-   > **解析**：`amusement park` 意为“游乐园、主题公园”。
+2. **中文**：我原本希望能去坐过山车，但它因为维修暂时关闭了。  
+   **英文**：I was hoping to go on the roller coaster, but it's temporarily closed.
+   > **解析**：was hoping to 表示原本希望能；roller coaster 表示过山车；temporarily 表示暂时地。
 
-3. **中文**：为了体验巨型摩天轮，我们不得不排队等候了一个多小时。  
-   **英文**：We had to wait in line for over an hour to try the giant Ferris wheel.
-   > **解析**：`wait in line` 是固定动词短语，意为“排队等候”。
+3. **中文**：我们原本应该前往巨大的摩天轮，但突然下起了冰雹！  
+   **英文**：We were supposed to head to the gigantic ferris wheel, but all of a sudden it started to hail!
+   > **解析**：were supposed to 表示原本应该；gigantic 表示巨大的；ferris wheel 表示摩天轮；all of a sudden 表示突然；hail 表示冰雹。
 
-4. **中文**：从巨型摩天轮的顶部你可以鸟瞰全城的景色。  
-   **英文**：You can see the whole city view from the top of the giant ferris wheel after next.
-   > **解析**：`ferris wheel` 是专有名词短语，意为“摩天轮”。
+4. **中文**：游乐园里挤满了人，大家不得不排长队买棉花糖和热狗。  
+   **英文**：The park was packed, so we had to wait in line for cotton candy and hot dogs.
+   > **解析**：packed 表示拥挤的；wait in line 表示排队；cotton candy 表示棉花糖；hot dog 表示热狗。
 
-5. **中文**：主题公园在周六下午挤满了游客。  
-   **英文**：The theme park was completely packed with visitors on Saturday afternoon.
-   > **解析**：`packed` 是形容词，意为“拥挤的、塞满的”，搭配 `be packed with...`。
+5. **中文**：只要你戴上入园手环并符合身高要求，就能玩头朝下的过山车。  
+   **英文**：If you wear the wristband and meet the height requirement, you can ride upside down.
+   > **解析**：wristband 表示手环；requirement 表示要求；upside down 表示头朝下。
 
-6. **中文**：购买一张年度季票可以为你节省大量的门票费用。  
-   **英文**：Buying an annual season pass saves you a lot of ticket money.
-   > **解析**：`season pass` 意为“季票、年票”。
+6. **中文**：凭这张季票，你不仅能无限次入园，还能在游戏中赢取巨大的毛绒玩具。  
+   **英文**：With a season pass, you can enter anytime and win a gigantic stuffed animal.
+   > **解析**：season pass 表示季票；gigantic 表示巨大的；stuffed animal 表示毛绒玩具。
 
-7. **中文**：突然之间，由于雷暴天气，户外水上游乐项目停止运行了。  
-   **英文**：All of a sudden, the outdoor water ride stopped due to a thunderstorm.
-   > **解析**：`all of a sudden` 是副词短语，意为“突然之间”，相当于 `suddenly`。
+7. **中文**：我们正在纳闷哪里能买到美味的热狗和棉花糖。  
+   **英文**：We were wondering where we could buy tasty hot dogs and cotton candy.
+   > **解析**：wondering where 表示纳闷……在哪里；hot dog 表示热狗；cotton candy 表示棉花糖。
 
-8. **中文**：我刚才在想我们可以早点去主题公园，以避开人群。  
-   **英文**：I was thinking we could head to the theme park early to avoid crowds.
-   > **解析**：`I was thinking (that)...` 是委婉提出建议的常用口语表达。
+8. **中文**：这座巨大的摩天轮是整个游乐园里最显眼的标志。  
+   **英文**：This gigantic ferris wheel is the most famous landmark in the amusement park.
+   > **解析**：gigantic 表示巨大的；ferris wheel 表示摩天轮；amusement park 表示游乐园。
 
-9. **中文**：孩子们喜欢在园区散步时吃蓬松的粉色棉花糖。  
-   **英文**：Kids love eating fluffy pink cotton candy while walking around the park about gigantic.
-   > **解析**：`cotton candy` 是名词短语，意为“棉花糖”。
+9. **中文**：坐过山车时体验头朝下旋转的感觉真是既刺激又疯狂。  
+   **英文**：Going upside down on a fast roller coaster feels totally wild and exciting.
+   > **解析**：upside down 表示头朝下的；roller coaster 表示过山车。
 
-10. **中文**：安保人员在允许我们进入游乐设施前扫描了我们的手环。  
-   **英文**：Security officers scanned our wristbands before letting us enter the ride.
-   > **解析**：`wristband` 是名词，意为“手环、腕带”。
+10. **中文**：突然之间，游乐园的天空中下起了大颗的冰雹。  
+   **英文**：All of a sudden, heavy hail fell from the sky over the amusement park.
+   > **解析**：all of a sudden 表示突然；hail 表示冰雹。
+
+11. **中文**：游乐园的周末总是挤满了远道而来的游客。  
+   **英文**：The amusement park is always packed with visitors on warm weekends.
+   > **解析**：packed 表示挤满的；amusement park 表示游乐园。
+
+12. **中文**：因为安全要求，身高不足的孩子不能乘坐这个游乐设施。  
+   **英文**：Due to safety requirements, young kids cannot go on this fast ride.
+   > **解析**：requirement 表示要求；go on 表示乘坐。
+
+13. **中文**：孩子们手里拿着粉红色的棉花糖，高兴地向摩天轮跑去。  
+   **英文**：Kids carrying pink cotton candy ran happily toward the ferris wheel.
+   > **解析**：cotton candy 表示棉花糖；ferris wheel 表示摩天轮。
+
+14. **中文**：他在游乐园的射击游戏中赢了一个可爱的毛绒玩具。  
+   **英文**：He won a super cute stuffed animal at the park's game booth.
+   > **解析**：stuffed animal 表示毛绒玩具。
+
+15. **中文**：我们原本希望能购买一张划算的季票，可惜已经售罄了。  
+   **英文**：We were hoping to buy a discount season pass, but it was sold out.
+   > **解析**：was hoping to 表示原本希望能；season pass 表示季票。
+
+16. **中文**：工作人员在入口处为每一位游客戴上了红色的手环。  
+   **英文**：Staff members put a red wristband on each guest at the entrance.
+   > **解析**：wristband 表示手环。
+
+17. **中文**：这款热门的过山车设施因为例行检查暂时停止运营。  
+   **英文**：The popular roller coaster is temporarily closed for routine inspection.
+   > **解析**：roller coaster 表示过山车；temporarily 表示暂时地。
+
+18. **中文**：我们原本应该在游乐园主广场的大摩天轮下集合。  
+   **英文**：We were supposed to meet under the big ferris wheel in the central square.
+   > **解析**：were supposed to 表示原本应该；ferris wheel 表示摩天轮。
+
+19. **中文**：在炎热的天气里排长队等待确实是一件让人头疼的事。  
+   **英文**：Having to wait in line for hours under the sun is really exhausting.
+   > **解析**：wait in line 表示排队。
+
+20. **中文**：游乐园里的香肠热狗是午餐时最受欢迎的快选食物之一。  
+   **英文**：The grilled hot dog is one of the most popular quick lunch foods at the park.
+   > **解析**：hot dog 表示热狗。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Riding the thrilling high-speed roller coaster was the highlight of our trip.
-   > **中文**：搭乘刺激的高速过山车是我们这次行程的亮点。
+1. I was thinking we could visit the amusement park the week after next.
+   > **中文**：我原本在想我们可以下下周去游乐园玩。
 
-2. The new amusement park features rides inspired by popular movies.
-   > **中文**：新建的游乐园拥有灵感源自热门电影的游乐设施。
+2. I was hoping to go on the roller coaster, but it's temporarily closed.
+   > **中文**：我原本希望能去坐过山车，但它因为维修暂时关闭了。
 
-3. We had to wait in line for over an hour to try the giant Ferris wheel.
-   > **中文**：为了体验巨型摩天轮，我们不得不排队等候了一个多小时。
+3. We were supposed to head to the gigantic ferris wheel, but all of a sudden it started to hail!
+   > **中文**：我们原本应该前往巨大的摩天轮，但突然下起了冰雹！
 
-4. You can see the whole city view from the top of the giant ferris wheel after next.
-   > **中文**：从巨型摩天轮的顶部你可以鸟瞰全城的景色。
+4. The park was packed, so we had to wait in line for cotton candy and hot dogs.
+   > **中文**：游乐园里挤满了人，大家不得不排长队买棉花糖和热狗。
 
-5. The theme park was completely packed with visitors on Saturday afternoon.
-   > **中文**：主题公园在周六下午挤满了游客。
+5. If you wear the wristband and meet the height requirement, you can ride upside down.
+   > **中文**：只要你戴上入园手环并符合身高要求，就能玩头朝下的过山车。
 
-6. Buying an annual season pass saves you a lot of ticket money.
-   > **中文**：购买一张年度季票可以为你节省大量的门票费用。
+6. With a season pass, you can enter anytime and win a gigantic stuffed animal.
+   > **中文**：凭这张季票，你不仅能无限次入园，还能在游戏中赢取巨大的毛绒玩具。
 
-7. All of a sudden, the outdoor water ride stopped due to a thunderstorm.
-   > **中文**：突然之间，由于雷暴天气，户外水上游乐项目停止运行了。
+7. We were wondering where we could buy tasty hot dogs and cotton candy.
+   > **中文**：我们正在纳闷哪里能买到美味的热狗和棉花糖。
 
-8. I was thinking we could head to the theme park early to avoid crowds.
-   > **中文**：我刚才在想我们可以早点去主题公园，以避开人群。
+8. This gigantic ferris wheel is the most famous landmark in the amusement park.
+   > **中文**：这座巨大的摩天轮是整个游乐园里最显眼的标志。
 
-9. Kids love eating fluffy pink cotton candy while walking around the park about gigantic.
-   > **中文**：孩子们喜欢在园区散步时吃蓬松的粉色棉花糖。
+9. Going upside down on a fast roller coaster feels totally wild and exciting.
+   > **中文**：坐过山车时体验头朝下旋转的感觉真是既刺激又疯狂。
 
-10. Security officers scanned our wristbands before letting us enter the ride.
-   > **中文**：安保人员在允许我们进入游乐设施前扫描了我们的手环。
+10. All of a sudden, heavy hail fell from the sky over the amusement park.
+   > **中文**：突然之间，游乐园的天空中下起了大颗的冰雹。
+
+11. The amusement park is always packed with visitors on warm weekends.
+   > **中文**：游乐园的周末总是挤满了远道而来的游客。
+
+12. Due to safety requirements, young kids cannot go on this fast ride.
+   > **中文**：因为安全要求，身高不足的孩子不能乘坐这个游乐设施。
+
+13. Kids carrying pink cotton candy ran happily toward the ferris wheel.
+   > **中文**：孩子们手里拿着粉红色的棉花糖，高兴地向摩天轮跑去。
+
+14. He won a super cute stuffed animal at the park's game booth.
+   > **中文**：他在游乐园的射击游戏中赢了一个可爱的毛绒玩具。
+
+15. We were hoping to buy a discount season pass, but it was sold out.
+   > **中文**：我们原本希望能购买一张划算的季票，可惜已经售罄了。
+
+16. Staff members put a red wristband on each guest at the entrance.
+   > **中文**：工作人员在入口处为每一位游客戴上了红色的手环。
+
+17. The popular roller coaster is temporarily closed for routine inspection.
+   > **中文**：这款热门的过山车设施因为例行检查暂时停止运营。
+
+18. We were supposed to meet under the big ferris wheel in the central square.
+   > **中文**：我们原本应该在游乐园主广场的大摩天轮下集合。
+
+19. Having to wait in line for hours under the sun is really exhausting.
+   > **中文**：在炎热的天气里排长队等待确实是一件让人头疼的事。
+
+20. The grilled hot dog is one of the most popular quick lunch foods at the park.
+   > **中文**：游乐园里的香肠热狗是午餐时最受欢迎的快选食物之一。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| amusement park | 游乐园 |
+| roller coaster | 过山车 |
+| ferris wheel | 摩天轮 |
+| cotton candy | 棉花糖 |
+| hot dog | 热狗 |
+| stuffed animal | 毛绒玩具 |
+| season pass | 季票；年卡 |
+| wristband | 手环；腕带 |
+| upside down | 颠倒的；头朝下的 |
+| gigantic | 巨大的 |
+| packed | 拥挤的；挤满的 |
+| temporarily | 暂时地 |
+| hail | 冰雹 |
+| all of a sudden | 突然 |
+| wait in line | 排队 |
+| was hoping to | 原本希望能…… |
+| was thinking | 原本在想…… |
+| were supposed to | 原本应该…… |
+| wondering where | 纳闷……在哪里 |
+| requirement | 要求；条件 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ after next, all of a sudden, amusement park, cotton candy, ferris wheel, giganti
 
 ### 1
 
-Riding the thrilling high-speed `____` was the highlight of our trip.
+I was thinking we could visit the ____ park the week after next.
 
-- [x] roller coaster
+- [x] amusement
 - [ ] after next
-- [ ] ferris wheel
+- [ ] all of a sudden
 
-> **解析**：`roller coaster` 是名词短语，意为“过山车”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The new `____` features rides inspired by popular movies.
+I was hoping to go on the roller coaster, but it's ____ closed.
 
-- [x] amusement park
+- [x] temporarily
+- [ ] after next
 - [ ] all of a sudden
-- [ ] go on
 
-> **解析**：`amusement park` 意为“游乐园、主题公园”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-We had to wait in line for over an hour to try the giant `____`.
+We were supposed to ____ to the gigantic ferris wheel, but all of a sudden it started to hail!
 
-- [x] ferris wheel
-- [ ] amusement park
-- [ ] hail
+- [x] head
+- [ ] after next
+- [ ] all of a sudden
 
-> **解析**：`wait in line` 是固定动词短语，意为“排队等候”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-You can see the whole city view from the top of the giant ferris wheel `____`.
+The park was ____, so we had to wait in line for cotton candy and hot dogs.
 
-- [x] after next
-- [ ] ferris wheel
-- [ ] head
+- [x] packed
+- [ ] after next
+- [ ] all of a sudden
 
-> **解析**：`ferris wheel` 是专有名词短语，意为“摩天轮”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The theme park was completely `____` with visitors on Saturday afternoon.
+If you wear the ____ and meet the height requirement, you can ride upside down.
 
-- [x] packed
-- [ ] ferris wheel
-- [ ] head
+- [x] wristband
+- [ ] after next
+- [ ] all of a sudden
 
-> **解析**：`packed` 是形容词，意为“拥挤的、塞满的”，搭配 `be packed with...`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Buying an annual `____` saves you a lot of ticket money.
+With a season pass, you can enter anytime and win a ____ stuffed animal.
 
-- [x] season pass
-- [ ] gigantic
-- [ ] hot dog
+- [x] gigantic
+- [ ] after next
+- [ ] all of a sudden
 
-> **解析**：`season pass` 意为“季票、年票”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-`____`, the outdoor water ride stopped due to a thunderstorm.
+We were ____ where we could buy tasty hot dogs and cotton candy.
 
-- [x] all of a sudden
-- [ ] hail
-- [ ] requirement
+- [x] wondering
+- [ ] after next
+- [ ] all of a sudden
 
-> **解析**：`all of a sudden` 是副词短语，意为“突然之间”，相当于 `suddenly`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-I was thinking we could `____` to the theme park early to avoid crowds.
+This ____ ferris wheel is the most famous landmark in the amusement park.
 
-- [x] head
-- [ ] hail
-- [ ] ride
+- [x] gigantic
+- [ ] after next
+- [ ] all of a sudden
 
-> **解析**：`I was thinking (that)...` 是委婉提出建议的常用口语表达。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Kids love eating fluffy pink `____` while walking around the park about gigantic.
+Going upside down on a fast roller coaster feels totally wild and ____.
 
-- [x] cotton candy
-- [ ] hot dog
-- [ ] roller coaster
+- [x] exciting
+- [ ] after next
+- [ ] all of a sudden
 
-> **解析**：`cotton candy` 是名词短语，意为“棉花糖”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Security officers scanned our wristbands before letting us enter the `____`.
+All of a sudden, heavy ____ fell from the sky over the amusement park.
+
+- [x] hail
+- [ ] after next
+- [ ] all of a sudden
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The amusement park is always ____ with visitors on warm weekends.
+
+- [x] packed
+- [ ] after next
+- [ ] all of a sudden
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Due to safety requirements, young kids cannot go on this fast ____.
 
 - [x] ride
-- [ ] hot dog
-- [ ] season pass
+- [ ] after next
+- [ ] all of a sudden
 
-> **解析**：`wristband` 是名词，意为“手环、腕带”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Kids ____ pink cotton candy ran happily toward the ferris wheel.
+
+- [x] carrying
+- [ ] after next
+- [ ] all of a sudden
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+He won a super cute ____ animal at the park's game booth.
+
+- [x] stuffed
+- [ ] after next
+- [ ] all of a sudden
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+We were hoping to buy a ____ season pass, but it was sold out.
+
+- [x] discount
+- [ ] after next
+- [ ] all of a sudden
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Staff members put a red ____ on each guest at the entrance.
+
+- [x] wristband
+- [ ] after next
+- [ ] all of a sudden
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The popular roller coaster is ____ closed for routine inspection.
+
+- [x] temporarily
+- [ ] after next
+- [ ] all of a sudden
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+We were ____ to meet under the big ferris wheel in the central square.
+
+- [x] supposed
+- [ ] after next
+- [ ] all of a sudden
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Having to wait in line for hours under the sun is really ____.
+
+- [x] exhausting
+- [ ] after next
+- [ ] all of a sudden
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+The ____ hot dog is one of the most popular quick lunch foods at the park.
+
+- [x] grilled
+- [ ] after next
+- [ ] all of a sudden
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

@@ -61,83 +61,176 @@ there could/might be 表推测。mean → meant（意思是）。
 
 <quiz-sentence-builder>
 
-1. **中文**：我读了一篇关于政府近期经济政策的有趣新闻文章。  
-   **英文**：I read an interesting news article about the recent government economic policy.
-   > **解析**：article 为可数名词，意为“文章、报道”。在政治或新闻话题中，指报纸或网络上的新闻分析文章。
+1. **中文**：我读了一篇关于即将到来的地方选举的有趣文章。
+   **英文**：I read an interesting article about the upcoming local election.
+   > **解析**：article 表示“文章/报道”；upcoming 意为“即将来临的”。
 
-2. **中文**：政府正在出台新举措以刺激国家经济发展。  
-   **英文**：The government is introducing new measures to boost the national economy.
-   > **解析**：economy 为名词，意为“经济、经济状况”。常与动词 boost, improve, grow 搭配使用。
+2. **中文**：言论自由是民主的基本组成部分。
+   **英文**：Freedom of expression is a fundamental part of democracy.
+   > **解析**：democracy 表示“民主/民主制度”；fundamental 意为“基本的”。
 
-3. **中文**：前任总统在国际论坛上发表了激情的演讲。  
-   **英文**：The former president delivered a passionate speech at the international forum.
-   > **解析**：former 为形容词，意为“前任的、以前的”，常置于名词前修饰头衔（former president/minister）。
+3. **中文**：我受不了政治家打破他们的承诺。
+   **英文**：I can't stand it when politicians break their promises.
+   > **解析**：can't stand 表示“无法忍受/受不了”；politician 意为“政治家”。
 
-4. **中文**：这些新的税收法规对普通纳税人来说意味着什么？  
-   **英文**：What do these new tax regulations mean for ordinary taxpayers.
-   > **解析**：mean 为及物动词，意为“意味着、意指”。常见询问句型 What does X mean for Y?。
+4. **中文**：本周本国货币兑美元有所下跌。
+   **英文**：The national currency weakened against the dollar this week.
+   > **解析**：currency 表示“货币”；weakened 意为“削弱/下跌”。
 
-5. **中文**：市长发表了一场长篇演讲，探讨社会住房问题。  
-   **英文**：The mayor gave a long speech addressing the social housing problem.
-   > **解析**：speech 为名词，意为“演讲、致辞”。常见动词搭配 give/make/deliver a speech（发表演讲）。
+5. **中文**：经过艰难的一年，当地经济正在复苏。
+   **英文**：The local economy is recovering after a difficult year.
+   > **解析**：economy 表示“经济”；recovering 意为“复苏/恢复”。
 
-6. **中文**：许多市民无法忍受低效的官僚程序。  
-   **英文**：Many citizens can't stand the inefficient bureaucratic procedures about currency.
-   > **解析**：can't stand 为固定动词短语，意为“无法忍受、极讨厌”，后接名词、代词或动名词（doing sth.）。
+6. **中文**：市民将于本周二投票选出新市长。
+   **英文**：Citizens will vote for the new mayor this Tuesday.
+   > **解析**：vote for 表示“投票给……”；mayor 意为“市长”。
 
-7. **中文**：即将到来的大选将决定该国的政治走向。  
-   **英文**：The upcoming general election will determine the country's political direction.
-   > **解析**：election 为名词，意为“选举、大选”。常用搭配 general election（大选）、presidential election（总统选举）。
+7. **中文**：环境政策对年轻选民来说变得越来越重要。
+   **英文**：Environmental policies are becoming more important to young voters.
+   > **解析**：environmental 表示“环境的”；voters 意为“选民”。
 
-8. **中文**：议会昨天就新的移民法案举行了辩论。  
-   **英文**：The parliament held a debate on the new immigration laws yesterday.
-   > **解析**：immigration 为不可数名词，意为“移民、移居”。在政治语境中，常用于 immigration policy/laws（移民政策/法律）。
+8. **中文**：前任总统在大学发表了一场令人难忘的演讲。
+   **英文**：The former president gave a memorable speech at the university.
+   > **解析**：former 表示“前任的”；speech 意为“演讲”。
 
-9. **中文**：在选票统计完毕后，可能会有重大政治变革。  
-   **英文**：There might be significant political changes after the votes are counted.
-   > **解析**：there might be 表示对存在性的猜测，意为“可能会有/存在”，might 表达不确定的推测语气。
+9. **中文**：委员会昨天不得不修改税收提案。
+   **英文**：The committee had to revise the tax proposal yesterday.
+   > **解析**：had to 表示“不得不/必须”；tax proposal 意为“税收提案”。
 
-10. **中文**：他不赞成拟建的高速公路建设项目。  
-   **英文**：He is not in favor of the proposed highway construction project.
-   > **解析**：not 为否定副词，在句中与动词 be 连用（be not in favor of），构成对某种政治立场的否定。
+10. **中文**：辩论期间讨论了严格的移民法。
+   **英文**：Strict immigration laws were discussed during the debate.
+   > **解析**：immigration 表示“移民/移居”；debate 意为“辩论/讨论”。
+
+11. **中文**：地方议会批准了建设一个新公园。
+   **英文**：The local council approved the construction of a new park.
+   > **解析**：local 表示“当地的/地方的”；council 意为“议会/委员会”。
+
+12. **中文**：州长那个表态是什么意思？
+   **英文**：What did the governor mean by that statement?
+   > **解析**：mean 表示“意思是/意味着”；governor 意为“州长”。
+
+13. **中文**：她本意是要支持这项新教育法。
+   **英文**：She meant to support the new education law.
+   > **解析**：meant 是 mean 的过去式，meant to do 表示“本意要做……”。
+
+14. **中文**：演讲者有提到新的贸易协定吗？
+   **英文**：Did the speaker mention the new trade agreement?
+   > **解析**：mention 表示“提及/提到”；trade agreement 意为“贸易协定”。
+
+15. **中文**：这位有经验的政治家给记者做出了明确的回答。
+   **英文**：The experienced politician gave a clear answer to the reporter.
+   > **解析**：politician 表示“政治家/政客”；experienced 意为“有经验的”。
+
+16. **中文**：她决定从事地方政治事业。
+   **英文**：She decided to pursue a career in local politics.
+   > **解析**：politics 表示“政治/政治学”；pursue a career 意为“追求事业”。
+
+17. **中文**：部长突然辞职确实令人震惊。
+   **英文**：The sudden resignation of the minister was truly shocking.
+   > **解析**：shocking 表示“令人震惊的”；resignation 意为“辞职”。
+
+18. **中文**：市长向公众发表了一场鼓舞人心的演讲。
+   **英文**：The mayor delivered an inspiring speech to the public.
+   > **解析**：speech 表示“演讲/致辞”；deliver a speech 意为“发表演讲”。
+
+19. **中文**：每个州对选举都有自己具体的规定。
+   **英文**：Each state has its own specific regulations on elections.
+   > **解析**：state 表示“州/国家”；regulations 意为“规定/法规”。
+
+20. **中文**：在法庭上出庭作证时一定要说出真相。
+   **英文**：Always tell the truth when testifying in court.
+   > **解析**：truth 表示“真相/事实”；tell the truth 意为“说实话”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I read an interesting news article about the recent government economic policy.
-   > **中文**：我读了一篇关于政府近期经济政策的有趣新闻文章。
+1. I read an interesting article about the upcoming local election.
+   > **中文**：我读了一篇关于即将到来的地方选举的有趣文章。
 
-2. The government is introducing new measures to boost the national economy.
-   > **中文**：政府正在出台新举措以刺激国家经济发展。
+2. Freedom of expression is a fundamental part of democracy.
+   > **中文**：言论自由是民主的基本组成部分。
 
-3. The former president delivered a passionate speech at the international forum.
-   > **中文**：前任总统在国际论坛上发表了激情的演讲。
+3. I can't stand it when politicians break their promises.
+   > **中文**：我受不了政治家打破他们的承诺。
 
-4. What do these new tax regulations mean for ordinary taxpayers.
-   > **中文**：这些新的税收法规对普通纳税人来说意味着什么？
+4. The national currency weakened against the dollar this week.
+   > **中文**：本周本国货币兑美元有所下跌。
 
-5. The mayor gave a long speech addressing the social housing problem.
-   > **中文**：市长发表了一场长篇演讲，探讨社会住房问题。
+5. The local economy is recovering after a difficult year.
+   > **中文**：经过艰难的一年，当地经济正在复苏。
 
-6. Many citizens can't stand the inefficient bureaucratic procedures about currency.
-   > **中文**：许多市民无法忍受低效的官僚程序。
+6. Citizens will vote for the new mayor this Tuesday.
+   > **中文**：市民将于本周二投票选出新市长。
 
-7. The upcoming general election will determine the country's political direction.
-   > **中文**：即将到来的大选将决定该国的政治走向。
+7. Environmental policies are becoming more important to young voters.
+   > **中文**：环境政策对年轻选民来说变得越来越重要。
 
-8. The parliament held a debate on the new immigration laws yesterday.
-   > **中文**：议会昨天就新的移民法案举行了辩论。
+8. The former president gave a memorable speech at the university.
+   > **中文**：前任总统在大学发表了一场令人难忘的演讲。
 
-9. There might be significant political changes after the votes are counted.
-   > **中文**：在选票统计完毕后，可能会有重大政治变革。
+9. The committee had to revise the tax proposal yesterday.
+   > **中文**：委员会昨天不得不修改税收提案。
 
-10. He is not in favor of the proposed highway construction project.
-   > **中文**：他不赞成拟建的高速公路建设项目。
+10. Strict immigration laws were discussed during the debate.
+   > **中文**：辩论期间讨论了严格的移民法。
+
+11. The local council approved the construction of a new park.
+   > **中文**：地方议会批准了建设一个新公园。
+
+12. What did the governor mean by that statement?
+   > **中文**：州长那个表态是什么意思？
+
+13. She meant to support the new education law.
+   > **中文**：她本意是要支持这项新教育法。
+
+14. Did the speaker mention the new trade agreement?
+   > **中文**：演讲者有提到新的贸易协定吗？
+
+15. The experienced politician gave a clear answer to the reporter.
+   > **中文**：这位有经验的政治家给记者做出了明确的回答。
+
+16. She decided to pursue a career in local politics.
+   > **中文**：她决定从事地方政治事业。
+
+17. The sudden resignation of the minister was truly shocking.
+   > **中文**：部长突然辞职确实令人震惊。
+
+18. The mayor delivered an inspiring speech to the public.
+   > **中文**：市长向公众发表了一场鼓舞人心的演讲。
+
+19. Each state has its own specific regulations on elections.
+   > **中文**：每个州对选举都有自己具体的规定。
+
+20. Always tell the truth when testifying in court.
+   > **中文**：在法庭上出庭作证时一定要说出真相。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| article | 文章 / 报道 |
+| can't stand | 无法忍受 |
+| currency | 货币 |
+| democracy | 民主 / 民主制度 |
+| economy | 经济 |
+| election | 选举 |
+| environmental | 环境的 |
+| former | 前任的 / 之前的 |
+| had to | 不得不（have to的过去式） |
+| immigration | 移民 |
+| local | 当地的 / 地方的 |
+| mean | 意思是 / 意图 |
+| meant | 意思是（mean的过去式） |
+| mention | 提到 / 提及 |
+| politician | 政治家 / 政客 |
+| politics | 政治 |
+| shocking | 令人震惊的 |
+| speech | 演讲 / 演讲稿 |
+| state | 州 / 国家 |
+| truth | 真相 / 事实 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ there could/might be 表推测。mean → meant（意思是）。
 
 ### 1
 
-I read an interesting news `____` about the recent government economic policy.
+I read an interesting ____ about the upcoming local election.
 
 - [x] article
 - [ ] as
-- [ ] economy
+- [ ] can't stand
 
-> **解析**：article 为可数名词，意为“文章、报道”。在政治或新闻话题中，指报纸或网络上的新闻分析文章。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The government is introducing new me`____`ures to boost the national economy.
+Freedom of expression is a fundamental part of ____.
 
-- [x] as
-- [ ] can't stand
-- [ ] election
+- [x] democracy
+- [ ] article
+- [ ] as
 
-> **解析**：economy 为名词，意为“经济、经济状况”。常与动词 boost, improve, grow 搭配使用。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The `____` president delivered a passionate speech at the international forum.
+I can't stand it when ____ break their promises.
 
-- [x] former
-- [ ] can't stand
-- [ ] election
+- [x] politicians
+- [ ] article
+- [ ] as
 
-> **解析**：former 为形容词，意为“前任的、以前的”，常置于名词前修饰头衔（former president/minister）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-What do these new tax regulations `____` for ordinary taxpayers.
+The national ____ weakened against the dollar this week.
 
-- [x] mean
-- [ ] currency
-- [ ] environmental
+- [x] currency
+- [ ] article
+- [ ] as
 
-> **解析**：mean 为及物动词，意为“意味着、意指”。常见询问句型 What does X mean for Y?。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The mayor gave a long `____` addressing the social housing problem.
+The ____ economy is recovering after a difficult year.
 
-- [x] speech
-- [ ] democracy
-- [ ] former
+- [x] local
+- [ ] article
+- [ ] as
 
-> **解析**：speech 为名词，意为“演讲、致辞”。常见动词搭配 give/make/deliver a speech（发表演讲）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Many citizens `____` the inefficient bureaucratic procedures about currency.
+Citizens will ____ for the new mayor this Tuesday.
 
-- [x] can't stand
-- [ ] election
-- [ ] immigration
+- [x] vote
+- [ ] article
+- [ ] as
 
-> **解析**：can't stand 为固定动词短语，意为“无法忍受、极讨厌”，后接名词、代词或动名词（doing sth.）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The upcoming general `____` will determine the country's political direction.
+____ policies are becoming more important to young voters.
 
-- [x] election
-- [ ] environmental
-- [ ] local
+- [x] Environmental
+- [ ] article
+- [ ] as
 
-> **解析**：election 为名词，意为“选举、大选”。常用搭配 general election（大选）、presidential election（总统选举）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The parliament held a debate on the new `____` laws yesterday.
+The ____ president gave a memorable speech at the university.
 
-- [x] immigration
-- [ ] environmental
-- [ ] mean
+- [x] former
+- [ ] article
+- [ ] as
 
-> **解析**：immigration 为不可数名词，意为“移民、移居”。在政治语境中，常用于 immigration policy/laws（移民政策/法律）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-`____` significant political changes after the votes are counted.
+The ____ had to revise the tax proposal yesterday.
 
-- [x] there might be
-- [ ] former
-- [ ] mean
+- [x] committee
+- [ ] article
+- [ ] as
 
-> **解析**：there might be 表示对存在性的猜测，意为“可能会有/存在”，might 表达不确定的推测语气。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-He is `____` in favor of the proposed highway construction project.
+Strict ____ laws were discussed during the debate.
 
-- [x] not
-- [ ] had to
-- [ ] meant
+- [x] immigration
+- [ ] article
+- [ ] as
 
-> **解析**：not 为否定副词，在句中与动词 be 连用（be not in favor of），构成对某种政治立场的否定。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The ____ council approved the construction of a new park.
+
+- [x] local
+- [ ] article
+- [ ] as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+What did the governor ____ by that statement?
+
+- [x] mean
+- [ ] article
+- [ ] as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+She ____ to support the new education law.
+
+- [x] meant
+- [ ] article
+- [ ] as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Did the speaker ____ the new trade agreement?
+
+- [x] mention
+- [ ] article
+- [ ] as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The experienced ____ gave a clear answer to the reporter.
+
+- [x] politician
+- [ ] article
+- [ ] as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+She decided to pursue a career in ____ politics.
+
+- [x] local
+- [ ] article
+- [ ] as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The sudden resignation of the minister was truly ____.
+
+- [x] shocking
+- [ ] article
+- [ ] as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+The mayor delivered an inspiring ____ to the public.
+
+- [x] speech
+- [ ] article
+- [ ] as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Each ____ has its own specific regulations on elections.
+
+- [x] state
+- [ ] article
+- [ ] as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Always tell the ____ when testifying in court.
+
+- [x] truth
+- [ ] article
+- [ ] as
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

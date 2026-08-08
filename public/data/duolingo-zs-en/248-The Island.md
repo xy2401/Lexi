@@ -81,83 +81,176 @@ despite the fact that / in spite of / in spite of the fact that 是三个表"尽
 
 <quiz-sentence-builder>
 
-1. **中文**：滞留的游客们设法在荒岛上生存了两周。  
-   **英文**：The stranded tourists managed to survive on the deserted island for two weeks.
-   > **解析**：`survive` 作不及物动词，意为“生存、幸存”，后接地点短语。
+1. **中文**：幸存者们在经历船难后艰难地爬上了无名荒岛。
+   **英文**：The survivors managed to stay alive after the terrible shipwreck.
+   > **解析**：shipwreck 表示船难；survive (survivors) 表示幸存者。
 
-2. **中文**：他们用竹子和棕榈叶建造了一个临时庇护所。  
-   **英文**：They built a temporary shelter using bamboo and palm leaves.
-   > **解析**：`shelter` 是名词，意为“庇护所、遮蔽处”，作宾语。
+2. **中文**：强烈的飓风毁坏了救援飞机的发动机。
+   **英文**：The powerful hurricane damaged the engine of the rescue aircraft.
+   > **解析**：hurricane 表示飓风；aircraft 表示飞机。
 
-3. **中文**：一场具有毁灭性的飓风在海岸附近摧毁了他们的木船。  
-   **英文**：A devastating hurricane destroyed their wooden boat near the coast.
-   > **解析**：`hurricane` 是名词，意为“飓风”，指强热带气旋。
+3. **中文**：他们用树枝和绳索搭起了一个简易的避难所。
+   **英文**：They built a crude shelter using wooden sticks and strong rope.
+   > **解析**：shelter 表示避难所；rope 表示绳索。
 
-4. **中文**：尽管大雨倾盆且浓雾弥漫，他们仍继续向前迈进。  
-   **英文**：They kept walking forward in spite of the pouring rain and thick fog.
-   > **解析**：`in spite of` 是复合介词，意为“尽管、虽然”，后接名词短语。
+4. **中文**：幸存者靠在沙滩上抓螃蟹和收集雨水维持生命。
+   **英文**：Survivors gathered crabs along the shore to satisfy their hunger.
+   > **解析**：crab (crabs) 表示螃蟹。
 
-5. **中文**：他们不得不连续几天配给饮用水。  
-   **英文**：They had to ration their drinking water for days on end.
-   > **解析**：`for days on end` 是固定时间状语短语，意为“接连数天、连续几天”。
+5. **中文**：点燃堆积的干草升起浓烟是向外界求救的信号。
+   **英文**：Lighting damp leaves created heavy smoke to signal passing ships.
+   > **解析**：smoke 表示烟雾。
 
-6. **中文**：船只失事后，幸存者们游泳朝岸边靠拢。  
-   **英文**：After the shipwreck, the survivors swam to head for the shore.
-   > **解析**：`head for` 是短语动词，意为“朝……前进、前往”，后接目的地名词。
+6. **中文**：岛上生活着一些对陌生人持戒备态度的当地土著。
+   **英文**：The island was inhabited by native tribes who knew the terrain well.
+   > **解析**：native 表示本地的、土著。
 
-7. **中文**：这个岛屿是几种致命毒蛇的栖息地。  
-   **英文**：The island is home to several species of deadly snakes.
-   > **解析**：`deadly` 是形容词，意为“致命的、剧毒的”，修饰 `snakes`。
+7. **中文**：岛上的森林里栖息着几种带有剧毒的致命蛇类。
+   **英文**：The rainforest was home to several deadly species of poisonous snakes.
+   > **解析**：deadly 表示致命的。
 
-8. **中文**：在探索丛林时，他们遇到了许多意想不到的困难。  
-   **英文**：They encountered many unforeseen difficulties while exploring the jungle.
-   > **解析**：`encounter` 作及物动词，意为“遭遇、遇到”，宾语为 `difficulties`。
+8. **中文**：设备的损坏和故障让无线电通讯彻底中断了。
+   **英文**：Communication failed due to a faulty radio receiver on board.
+   > **解析**：faulty 表示有故障的、损坏的。
 
-9. **中文**：那艘古老的失事船只遗骸被一支深海潜水团队发现。  
-   **英文**：The ancient shipwreck was discovered by a team of deep-sea divers.
-   > **解析**：`shipwreck` 是名词，意为“海难、失事船只遗骸”。
+9. **中文**：医护人员为在风暴中受伤的船员进行了包扎。
+   **英文**：The medical crew tended to injured sailors after the storm passed.
+   > **解析**：injured 表示受伤的。
 
-10. **中文**：他们围绕着营火一起唱老歌来消磨时光。  
-   **英文**：They sang old songs together around the campfire to pass the time.
-   > **解析**：`pass the time` 是固定短语，意为“消磨时间、打发时光”。
+10. **中文**：尽管经历了重重痛苦，大家依然保持着生存的信念。
+   **英文**：Despite immense suffering, they never lost hope of returning home.
+   > **解析**：suffering 表示痛苦、折磨。
+
+11. **中文**：缺乏干净的饮用水是探险队目前最大的担忧。
+   **英文**：The lack of fresh drinking water was their main concern on the island.
+   > **解析**：concern 表示担忧、关切。
+
+12. **中文**：在极端环境下生存下来需要顽强的意志力。
+   **英文**：Knowing how to survive in harsh conditions requires vital skills.
+   > **解析**：survive 表示生存、幸存。
+
+13. **中文**：他们在深入丛林探险时遭遇了一群野兽。
+   **英文**：They didn't expect to encounter dangerous animals inside the jungle.
+   > **解析**：encounter 表示遭遇、遇到。
+
+14. **中文**：队长决定亲自去调查岛屿中央冒出烟雾的地方。
+   **英文**：The leader decided to investigate the source of smoke on the hill.
+   > **解析**：investigate 表示调查、探索。
+
+15. **中文**：整理好装备后，大家开始朝海岸线方向前进。
+   **英文**：After packing supplies, the team prepared to head for the shore.
+   > **解析**：head for 表示朝……前进。
+
+16. **中文**：在等待救援的日子里，他们靠讲故事来消磨时间。
+   **英文**：They played simple word games to pass the time during dark nights.
+   > **解析**：pass the time 表示消磨时间。
+
+17. **中文**：救援队连续好多天在附近海域展开搜救。
+   **英文**：Search helicopters patrolled the ocean area for days on end.
+   > **解析**：for days on end 表示连续好多天。
+
+18. **中文**：尽管天气恶劣，搜救船只依然坚持出航。
+   **英文**：In spite of rough seas, the rescue boat continued its mission.
+   > **解析**：in spite of 表示尽管。
+
+19. **中文**：尽管事实是资源有限，他们还是建好了坚固的庇护所。
+   **英文**：Despite the fact that tools were limited, they built a sturdy cabin.
+   > **解析**：despite the fact that 表示尽管事实是……
+
+20. **中文**：历经重重磨难之后，他们终于重获新生。
+   **英文**：Having had to go through terrible hardship, they were finally saved.
+   > **解析**：go through 表示经历、经受。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The stranded tourists managed to survive on the deserted island for two weeks.
-   > **中文**：滞留的游客们设法在荒岛上生存了两周。
+1. The survivors managed to stay alive after the terrible shipwreck.
+   > **中文**：幸存者们在经历船难后艰难地爬上了无名荒岛。
 
-2. They built a temporary shelter using bamboo and palm leaves.
-   > **中文**：他们用竹子和棕榈叶建造了一个临时庇护所。
+2. The powerful hurricane damaged the engine of the rescue aircraft.
+   > **中文**：强烈的飓风毁坏了救援飞机的发动机。
 
-3. A devastating hurricane destroyed their wooden boat near the coast.
-   > **中文**：一场具有毁灭性的飓风在海岸附近摧毁了他们的木船。
+3. They built a crude shelter using wooden sticks and strong rope.
+   > **中文**：他们用树枝和绳索搭起了一个简易的避难所。
 
-4. They kept walking forward in spite of the pouring rain and thick fog.
-   > **中文**：尽管大雨倾盆且浓雾弥漫，他们仍继续向前迈进。
+4. Survivors gathered crabs along the shore to satisfy their hunger.
+   > **中文**：幸存者靠在沙滩上抓螃蟹和收集雨水维持生命。
 
-5. They had to ration their drinking water for days on end.
-   > **中文**：他们不得不连续几天配给饮用水。
+5. Lighting damp leaves created heavy smoke to signal passing ships.
+   > **中文**：点燃堆积的干草升起浓烟是向外界求救的信号。
 
-6. After the shipwreck, the survivors swam to head for the shore.
-   > **中文**：船只失事后，幸存者们游泳朝岸边靠拢。
+6. The island was inhabited by native tribes who knew the terrain well.
+   > **中文**：岛上生活着一些对陌生人持戒备态度的当地土著。
 
-7. The island is home to several species of deadly snakes.
-   > **中文**：这个岛屿是几种致命毒蛇的栖息地。
+7. The rainforest was home to several deadly species of poisonous snakes.
+   > **中文**：岛上的森林里栖息着几种带有剧毒的致命蛇类。
 
-8. They encountered many unforeseen difficulties while exploring the jungle.
-   > **中文**：在探索丛林时，他们遇到了许多意想不到的困难。
+8. Communication failed due to a faulty radio receiver on board.
+   > **中文**：设备的损坏和故障让无线电通讯彻底中断了。
 
-9. The ancient shipwreck was discovered by a team of deep-sea divers.
-   > **中文**：那艘古老的失事船只遗骸被一支深海潜水团队发现。
+9. The medical crew tended to injured sailors after the storm passed.
+   > **中文**：医护人员为在风暴中受伤的船员进行了包扎。
 
-10. They sang old songs together around the campfire to pass the time.
-   > **中文**：他们围绕着营火一起唱老歌来消磨时光。
+10. Despite immense suffering, they never lost hope of returning home.
+   > **中文**：尽管经历了重重痛苦，大家依然保持着生存的信念。
+
+11. The lack of fresh drinking water was their main concern on the island.
+   > **中文**：缺乏干净的饮用水是探险队目前最大的担忧。
+
+12. Knowing how to survive in harsh conditions requires vital skills.
+   > **中文**：在极端环境下生存下来需要顽强的意志力。
+
+13. They didn't expect to encounter dangerous animals inside the jungle.
+   > **中文**：他们在深入丛林探险时遭遇了一群野兽。
+
+14. The leader decided to investigate the source of smoke on the hill.
+   > **中文**：队长决定亲自去调查岛屿中央冒出烟雾的地方。
+
+15. After packing supplies, the team prepared to head for the shore.
+   > **中文**：整理好装备后，大家开始朝海岸线方向前进。
+
+16. They played simple word games to pass the time during dark nights.
+   > **中文**：在等待救援的日子里，他们靠讲故事来消磨时间。
+
+17. Search helicopters patrolled the ocean area for days on end.
+   > **中文**：救援队连续好多天在附近海域展开搜救。
+
+18. In spite of rough seas, the rescue boat continued its mission.
+   > **中文**：尽管天气恶劣，搜救船只依然坚持出航。
+
+19. Despite the fact that tools were limited, they built a sturdy cabin.
+   > **中文**：尽管事实是资源有限，他们还是建好了坚固的庇护所。
+
+20. Having had to go through terrible hardship, they were finally saved.
+   > **中文**：历经重重磨难之后，他们终于重获新生。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| shipwreck | 船难；沉船 |
+| hurricane | 飓风 |
+| shelter | 避难所；庇护所 |
+| aircraft | 飞机；飞行器 |
+| crab | 螃蟹 |
+| native | 本地人；土著 |
+| rope | 绳索 |
+| smoke | 烟雾 |
+| deadly | 致命的 |
+| faulty | 有故障的；损坏的 |
+| injured | 受伤的 |
+| suffering | 痛苦；折磨 |
+| concern | 担忧；关切 |
+| survive | 幸存；生存 |
+| encounter | 遭遇；遇到 |
+| investigate | 调查；探索 |
+| head for | 朝……前进 |
+| pass the time | 消磨时间 |
+| for days on end | 连续好多天 |
+| in spite of | 尽管 |
 
 </quiz-matching>
 
@@ -165,102 +258,202 @@ despite the fact that / in spite of / in spite of the fact that 是三个表"尽
 
 ### 1
 
-The stranded tourists managed to `____` on the deserted island for two weeks.
+The survivors managed to stay alive after the terrible ____.
 
-- [x] survive
+- [x] shipwreck
 - [ ] aircraft
-- [ ] deadly
+- [ ] circumstance
 
-> **解析**：`survive` 作不及物动词，意为“生存、幸存”，后接地点短语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-They built a temporary `____` using bamboo and palm leaves.
+The powerful ____ damaged the engine of the rescue aircraft.
 
-- [x] shelter
+- [x] hurricane
+- [ ] aircraft
 - [ ] circumstance
-- [ ] despite the fact that
 
-> **解析**：`shelter` 是名词，意为“庇护所、遮蔽处”，作宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-A devastating `____` destroyed their wooden boat near the coast.
+They built a crude ____ using wooden sticks and strong rope.
 
-- [x] hurricane
-- [ ] concern
-- [ ] encounter
+- [x] shelter
+- [ ] aircraft
+- [ ] circumstance
 
-> **解析**：`hurricane` 是名词，意为“飓风”，指强热带气旋。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-They kept walking forward `____` the pouring rain and thick fog.
+____ gathered crabs along the shore to satisfy their hunger.
 
-- [x] in spite of
-- [ ] crab
-- [ ] faulty
+- [x] Survivors
+- [ ] aircraft
+- [ ] circumstance
 
-> **解析**：`in spite of` 是复合介词，意为“尽管、虽然”，后接名词短语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-They had to ration their drinking water `____`.
+Lighting damp leaves created heavy ____ to signal passing ships.
 
-- [x] for days on end
-- [ ] deadly
-- [ ] go through
+- [x] smoke
+- [ ] aircraft
+- [ ] circumstance
 
-> **解析**：`for days on end` 是固定时间状语短语，意为“接连数天、连续几天”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-After the shipwreck, the survivors swam to `____` the shore.
+The island was inhabited by ____ tribes who knew the terrain well.
 
-- [x] head for
-- [ ] despite the fact that
-- [ ] go through
+- [x] native
+- [ ] aircraft
+- [ ] circumstance
 
-> **解析**：`head for` 是短语动词，意为“朝……前进、前往”，后接目的地名词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The island is home to several species of `____` snakes.
+The rainforest was home to several ____ species of poisonous snakes.
 
 - [x] deadly
-- [ ] faulty
-- [ ] hurricane
+- [ ] aircraft
+- [ ] circumstance
 
-> **解析**：`deadly` 是形容词，意为“致命的、剧毒的”，修饰 `snakes`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-They `____`ed many unforeseen difficulties while exploring the jungle.
+Communication failed due to a ____ radio receiver on board.
 
-- [x] encounter
-- [ ] for days on end
-- [ ] in spite of
+- [x] faulty
+- [ ] aircraft
+- [ ] circumstance
 
-> **解析**：`encounter` 作及物动词，意为“遭遇、遇到”，宾语为 `difficulties`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The ancient `____` was discovered by a team of deep-sea divers.
+The medical crew tended to ____ sailors after the storm passed.
 
-- [x] shipwreck
-- [ ] for days on end
-- [ ] in spite of
+- [x] injured
+- [ ] aircraft
+- [ ] circumstance
 
-> **解析**：`shipwreck` 是名词，意为“海难、失事船只遗骸”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-They sang old songs together around the campfire to `____`.
+Despite immense ____, they never lost hope of returning home.
 
-- [x] pass the time
-- [ ] go through
-- [ ] in spite of the fact that
+- [x] suffering
+- [ ] aircraft
+- [ ] circumstance
 
-> **解析**：`pass the time` 是固定短语，意为“消磨时间、打发时光”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The lack of fresh drinking water was their main ____ on the island.
+
+- [x] concern
+- [ ] aircraft
+- [ ] circumstance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Knowing how to ____ in harsh conditions requires vital skills.
+
+- [x] survive
+- [ ] aircraft
+- [ ] circumstance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+They didn't expect to ____ dangerous animals inside the jungle.
+
+- [x] encounter
+- [ ] aircraft
+- [ ] circumstance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The leader decided to ____ the source of smoke on the hill.
+
+- [x] investigate
+- [ ] aircraft
+- [ ] circumstance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+After packing ____, the team prepared to head for the shore.
+
+- [x] supplies
+- [ ] aircraft
+- [ ] circumstance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+They ____ simple word games to pass the time during dark nights.
+
+- [x] played
+- [ ] aircraft
+- [ ] circumstance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Search ____ patrolled the ocean area for days on end.
+
+- [x] helicopters
+- [ ] aircraft
+- [ ] circumstance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+In spite of rough seas, the rescue boat ____ its mission.
+
+- [x] continued
+- [ ] aircraft
+- [ ] circumstance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Despite the fact ____ tools were limited, they built a sturdy cabin.
+
+- [x] that
+- [ ] aircraft
+- [ ] circumstance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Having had to go through ____ hardship, they were finally saved.
+
+- [x] terrible
+- [ ] aircraft
+- [ ] circumstance
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

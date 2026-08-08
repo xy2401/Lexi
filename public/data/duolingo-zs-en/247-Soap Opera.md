@@ -81,83 +81,176 @@ hooked on（上瘾）、rewatch（重看）表达观剧热情。affair（婚外�
 
 <quiz-sentence-builder>
 
-1. **中文**：这部电视剧的季终集出现了一个震惊观众的戏剧性剧情转折。  
-   **英文**：The finale of the TV show featured a dramatic plot twist that shocked audience.
-   > **解析**：`dramatic` 是形容词，意为“戏剧性的、引人注目的”，修饰 `plot twist`。
+1. **中文**：剧中那个贪婪的反派为了遗产企图篡改遗嘱。
+   **英文**：The greedy villain tried to alter the rich man's will for money.
+   > **解析**：greedy 表示贪婪的；villain 表示反派；will 表示遗嘱。
 
-2. **中文**：在昨天的剧集中，反派向所有人透露了他的真实身份。  
-   **英文**：In yesterday's episode, the villain revealed his true identity to everyone.
-   > **解析**：`reveal` 作及物动词，意为“揭露、透露”，宾语为 `his true identity`。
+2. **中文**：主角从小是个孤儿，后来成为了顶尖的秘密特工。
+   **英文**：The hero was an orphan who later became a skilled secret agent.
+   > **解析**：orphan 表示孤儿；secret agent 表示秘密特工。
 
-3. **中文**：我妈妈完全沉迷于这部新的西班牙肥皂剧。  
-   **英文**：My mother is completely hooked on this new Spanish soap opera.
-   > **解析**：`be hooked on sth` 是口语表达，意为“对……沉迷/上瘾”。
+3. **中文**：剧组在旧公墓里拍摄了一场极其戏剧性的剧情。
+   **英文**：The team shot a dramatic scene inside an old cemetery.
+   > **解析**：dramatic 表示戏剧性的；cemetery 表示公墓、墓地。
 
-4. **中文**：主角试图欺骗她的丈夫以守护她的秘密。  
-   **英文**：The main character tried to deceive her husband to protect her secret.
-   > **解析**：`deceive` 作及物动词，意为“欺骗、误导”，后接宾语 `her husband`。
+4. **中文**：观众们被这部肥皂剧扣人心弦的情节彻底吸引上瘾了。
+   **英文**：Viewers are completely hooked on this popular soap opera.
+   > **解析**：hooked on 表示着迷、上瘾。
 
-5. **中文**：每部经典戏剧都需要一个引人入胜的反派角色来推动剧情发展。  
-   **英文**：Every classic drama needs a compelling villain to drive the storyline.
-   > **解析**：`villain` 是名词，意为“反派角色、坏人”，与 `hero` 相对。
+5. **中文**：表面上他们是好友，但反派一直在暗中欺骗大家。
+   **英文**：On the surface they were friends, but he continued to deceive them.
+   > **解析**：on the surface 表示表面上；deceive 表示欺骗。
 
-6. **中文**：关于他地下私情的丑闻毁掉了那位政治家的事业。  
-   **英文**：The scandal about his secret affair ruined the politician's career.
-   > **解析**：`affair` 此处指“婚外情、桃色丑闻”，作名词。
+6. **中文**：大结局终于揭露了当年那起外遇背后的真相。
+   **英文**：The final episode will reveal the truth about the secret affair.
+   > **解析**：reveal 表示揭露；affair 表示外遇、秘事。
 
-7. **中文**：尽管遭遇了所有背叛，保镖依然忠诚于老板。  
-   **英文**：Despite all the betrayal, the bodyguard remained loyal to the boss.
-   > **解析**：`loyal` 是形容词，意为“忠诚的”，搭配 `be/remain loyal to sb`。
+7. **中文**：忠诚的保镖发誓要保护主人不受对手的威胁。
+   **英文**：The loyal bodyguard vowed to protect his master from threats.
+   > **解析**：loyal 表示忠诚的；threaten 表示威胁。
 
-8. **中文**：表面上看，他们似乎是一对幸福的伴侣，但实际上他们不断争吵。  
-   **英文**：On the surface, they seem like a happy couple, but they argue constantly.
-   > **解析**：`on the surface` 是介词短语，意为“在表面上、表面看来”，引出对比。
+8. **中文**：没人相信那个看似善良的角色居然能做出下毒这种事。
+   **英文**：Nobody believed he was capable of putting poison in the drink.
+   > **解析**：capable of 表示有能力/做得出……；poison 表示毒药。
 
-9. **中文**：没人相信那个文静的医生有能力犯下罪行。  
-   **英文**：Nobody believed that quiet doctor was capable of committing a crime.
-   > **解析**：`be capable of doing sth` 是固定短语，意为“有能力做某事/干出某事”。
+9. **中文**：这部热门剧集的演员阵容包括许多实力派演员。
+   **英文**：The star-studded cast of the show delivered great performances.
+   > **解析**：cast 表示演员阵容。
 
-10. **中文**：恐吓者威胁说要在网上公开保密照片。  
-   **英文**：The blackmailer threatened to release the confidential photos online.
-   > **解析**：`threaten` 作动词，意为“威胁、恐吓”，搭配 `threaten to do sth`。
+10. **中文**：观众对男主角令人意想不到的逆袭做出了热烈反应。
+   **英文**：The audience had a strong reaction to the hero's unexpected twist.
+   > **解析**：reaction 表示反应。
+
+11. **中文**：这部连续剧太精彩了，我决定周末再重看一遍。
+   **英文**：This drama was so good that I plan to rewatch the series.
+   > **解析**：rewatch 表示重看、重温。
+
+12. **中文**：那个反派威胁要公开女主角试图隐藏的所有秘密。
+   **英文**：The villain threatened to leak all confidential documents.
+   > **解析**：threatened 表示威胁。
+
+13. **中文**：这出充满反转的戏码有点像经典的老式剧情片。
+   **英文**：This plot twist is kind of like a classic old melodrama.
+   > **解析**：kind of like 表示有点像。
+
+14. **中文**：那个叫什么名字来着的人演活了这个反派角色。
+   **英文**：What's-his-name played the role of the sinister boss so well.
+   > **解析**：what's-his-name 用于一时想不起名字时，意为那个叫什么名字的人。
+
+15. **中文**：反正大结局一定会给所有观众一个满意的交代。
+   **英文**：Anyhow, the series finale promises to satisfy all loyal fans.
+   > **解析**：anyhow 表示反正、无论如何。
+
+16. **中文**：那个被遗嘱提及的受害者正是村里唯一富有的男爵。
+   **英文**：The one whose fortune was left in the will passed away.
+   > **解析**：the one whose 表示那个其……的人。
+
+17. **中文**：有个不认识的家伙在公墓门口徘徊并打听消息。
+   **英文**：Some guy was seen walking near the entrance of the cemetery.
+   > **解析**：some guy 表示某个家伙/不认识的人。
+
+18. **中文**：这个角色的性格有点复杂，让人又爱又恨。
+   **英文**：His character is sort of mysterious, making it hard to predict.
+   > **解析**：sort of 表示稍微、有点。
+
+19. **中文**：恶毒的妇人暗中在对手的茶水里添加了剧毒。
+   **英文**：The wicked rival slipped poison into the glass without being seen.
+   > **解析**：poison 表示毒药。
+
+20. **中文**：律师公布了富豪在临终前签署的最后遗嘱。
+   **英文**：The attorney read the final will in front of the assembled family.
+   > **解析**：will 表示遗嘱。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The finale of the TV show featured a dramatic plot twist that shocked audience.
-   > **中文**：这部电视剧的季终集出现了一个震惊观众的戏剧性剧情转折。
+1. The greedy villain tried to alter the rich man's will for money.
+   > **中文**：剧中那个贪婪的反派为了遗产企图篡改遗嘱。
 
-2. In yesterday's episode, the villain revealed his true identity to everyone.
-   > **中文**：在昨天的剧集中，反派向所有人透露了他的真实身份。
+2. The hero was an orphan who later became a skilled secret agent.
+   > **中文**：主角从小是个孤儿，后来成为了顶尖的秘密特工。
 
-3. My mother is completely hooked on this new Spanish soap opera.
-   > **中文**：我妈妈完全沉迷于这部新的西班牙肥皂剧。
+3. The team shot a dramatic scene inside an old cemetery.
+   > **中文**：剧组在旧公墓里拍摄了一场极其戏剧性的剧情。
 
-4. The main character tried to deceive her husband to protect her secret.
-   > **中文**：主角试图欺骗她的丈夫以守护她的秘密。
+4. Viewers are completely hooked on this popular soap opera.
+   > **中文**：观众们被这部肥皂剧扣人心弦的情节彻底吸引上瘾了。
 
-5. Every classic drama needs a compelling villain to drive the storyline.
-   > **中文**：每部经典戏剧都需要一个引人入胜的反派角色来推动剧情发展。
+5. On the surface they were friends, but he continued to deceive them.
+   > **中文**：表面上他们是好友，但反派一直在暗中欺骗大家。
 
-6. The scandal about his secret affair ruined the politician's career.
-   > **中文**：关于他地下私情的丑闻毁掉了那位政治家的事业。
+6. The final episode will reveal the truth about the secret affair.
+   > **中文**：大结局终于揭露了当年那起外遇背后的真相。
 
-7. Despite all the betrayal, the bodyguard remained loyal to the boss.
-   > **中文**：尽管遭遇了所有背叛，保镖依然忠诚于老板。
+7. The loyal bodyguard vowed to protect his master from threats.
+   > **中文**：忠诚的保镖发誓要保护主人不受对手的威胁。
 
-8. On the surface, they seem like a happy couple, but they argue constantly.
-   > **中文**：表面上看，他们似乎是一对幸福的伴侣，但实际上他们不断争吵。
+8. Nobody believed he was capable of putting poison in the drink.
+   > **中文**：没人相信那个看似善良的角色居然能做出下毒这种事。
 
-9. Nobody believed that quiet doctor was capable of committing a crime.
-   > **中文**：没人相信那个文静的医生有能力犯下罪行。
+9. The star-studded cast of the show delivered great performances.
+   > **中文**：这部热门剧集的演员阵容包括许多实力派演员。
 
-10. The blackmailer threatened to release the confidential photos online.
-   > **中文**：恐吓者威胁说要在网上公开保密照片。
+10. The audience had a strong reaction to the hero's unexpected twist.
+   > **中文**：观众对男主角令人意想不到的逆袭做出了热烈反应。
+
+11. This drama was so good that I plan to rewatch the series.
+   > **中文**：这部连续剧太精彩了，我决定周末再重看一遍。
+
+12. The villain threatened to leak all confidential documents.
+   > **中文**：那个反派威胁要公开女主角试图隐藏的所有秘密。
+
+13. This plot twist is kind of like a classic old melodrama.
+   > **中文**：这出充满反转的戏码有点像经典的老式剧情片。
+
+14. What's-his-name played the role of the sinister boss so well.
+   > **中文**：那个叫什么名字来着的人演活了这个反派角色。
+
+15. Anyhow, the series finale promises to satisfy all loyal fans.
+   > **中文**：反正大结局一定会给所有观众一个满意的交代。
+
+16. The one whose fortune was left in the will passed away.
+   > **中文**：那个被遗嘱提及的受害者正是村里唯一富有的男爵。
+
+17. Some guy was seen walking near the entrance of the cemetery.
+   > **中文**：有个不认识的家伙在公墓门口徘徊并打听消息。
+
+18. His character is sort of mysterious, making it hard to predict.
+   > **中文**：这个角色的性格有点复杂，让人又爱又恨。
+
+19. The wicked rival slipped poison into the glass without being seen.
+   > **中文**：恶毒的妇人暗中在对手的茶水里添加了剧毒。
+
+20. The attorney read the final will in front of the assembled family.
+   > **中文**：律师公布了富豪在临终前签署的最后遗嘱。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| villain | 反派；恶棍 |
+| orphan | 孤儿 |
+| secret agent | 秘密特工；间谍 |
+| cast | 演员阵容 |
+| cemetery | 墓地；公墓 |
+| affair | 外遇；事务 |
+| poison | 毒药；下毒 |
+| will | 遗嘱；意愿 |
+| dramatic | 戏剧性的 |
+| greedy | 贪婪的 |
+| loyal | 忠诚的 |
+| capable of | 有能力做……的；能做出……的 |
+| hooked on | 上瘾；着迷 |
+| deceive | 欺骗 |
+| reveal | 揭露；透露 |
+| threaten | 威胁 |
+| rewatch | 重温；重看 |
+| on the surface | 表面上 |
+| kind of like | 有点像 |
+| what's-his-name | 那个叫什么名字来着的人 |
 
 </quiz-matching>
 
@@ -165,102 +258,202 @@ hooked on（上瘾）、rewatch（重看）表达观剧热情。affair（婚外�
 
 ### 1
 
-The finale of the TV show featured a `____` plot twist that shocked audience.
+The ____ villain tried to alter the rich man's will for money.
 
-- [x] dramatic
+- [x] greedy
 - [ ] affair
-- [ ] cemetery
+- [ ] anyhow
 
-> **解析**：`dramatic` 是形容词，意为“戏剧性的、引人注目的”，修饰 `plot twist`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-In yesterday's episode, the villain `____`ed his true identity to everyone.
+The hero was an ____ who later became a skilled secret agent.
 
-- [x] reveal
+- [x] orphan
+- [ ] affair
 - [ ] anyhow
-- [ ] deceive
 
-> **解析**：`reveal` 作及物动词，意为“揭露、透露”，宾语为 `his true identity`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-My mother is completely `____` this new Spanish soap opera.
+The team shot a ____ scene inside an old cemetery.
 
-- [x] hooked on
-- [ ] capable of
-- [ ] dramatic
+- [x] dramatic
+- [ ] affair
+- [ ] anyhow
 
-> **解析**：`be hooked on sth` 是口语表达，意为“对……沉迷/上瘾”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The main character tried to `____` her husband to protect her secret.
+Viewers are ____ hooked on this popular soap opera.
 
-- [x] deceive
-- [ ] cast
-- [ ] hooked on
+- [x] completely
+- [ ] affair
+- [ ] anyhow
 
-> **解析**：`deceive` 作及物动词，意为“欺骗、误导”，后接宾语 `her husband`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Every classic drama needs a compelling `____` to drive the storyline.
+On the surface they were friends, but he continued to ____ them.
 
-- [x] villain
-- [ ] cemetery
-- [ ] hooked on
+- [x] deceive
+- [ ] affair
+- [ ] anyhow
 
-> **解析**：`villain` 是名词，意为“反派角色、坏人”，与 `hero` 相对。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The scandal about his secret `____` ruined the politician's career.
+The final episode ____ reveal the truth about the secret affair.
 
-- [x] affair
-- [ ] dramatic
-- [ ] loyal
+- [x] will
+- [ ] affair
+- [ ] anyhow
 
-> **解析**：`affair` 此处指“婚外情、桃色丑闻”，作名词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Despite all the betrayal, the bodyguard remained `____` to the boss.
+The ____ bodyguard vowed to protect his master from threats.
 
 - [x] loyal
-- [ ] dramatic
-- [ ] on the surface
+- [ ] affair
+- [ ] anyhow
 
-> **解析**：`loyal` 是形容词，意为“忠诚的”，搭配 `be/remain loyal to sb`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-`____`, they seem like a happy couple, but they argue constantly.
+Nobody believed he was capable of putting ____ in the drink.
 
-- [x] on the surface
-- [ ] greedy
-- [ ] orphan
+- [x] poison
+- [ ] affair
+- [ ] anyhow
 
-> **解析**：`on the surface` 是介词短语，意为“在表面上、表面看来”，引出对比。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Nobody believed that quiet doctor was `____` committing a crime.
+The star-studded ____ of the show delivered great performances.
 
-- [x] capable of
-- [ ] kind of like
-- [ ] poison
+- [x] cast
+- [ ] affair
+- [ ] anyhow
 
-> **解析**：`be capable of doing sth` 是固定短语，意为“有能力做某事/干出某事”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The blackmailer `____`ed to release the confidential photos online.
+The audience had a strong ____ to the hero's unexpected twist.
 
-- [x] threaten
-- [ ] kind of like
-- [ ] poison
+- [x] reaction
+- [ ] affair
+- [ ] anyhow
 
-> **解析**：`threaten` 作动词，意为“威胁、恐吓”，搭配 `threaten to do sth`。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+This drama was so good that I plan to ____ the series.
+
+- [x] rewatch
+- [ ] affair
+- [ ] anyhow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The ____ threatened to leak all confidential documents.
+
+- [x] villain
+- [ ] affair
+- [ ] anyhow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+This plot twist is kind of like a classic old ____.
+
+- [x] melodrama
+- [ ] affair
+- [ ] anyhow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+____ played the role of the sinister boss so well.
+
+- [x] What's-his-name
+- [ ] affair
+- [ ] anyhow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+____, the series finale promises to satisfy all loyal fans.
+
+- [x] Anyhow
+- [ ] affair
+- [ ] capable of
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The one whose fortune was left in the ____ passed away.
+
+- [x] will
+- [ ] affair
+- [ ] anyhow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Some guy was seen walking near the entrance of the ____.
+
+- [x] cemetery
+- [ ] affair
+- [ ] anyhow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+His character is sort of ____, making it hard to predict.
+
+- [x] mysterious
+- [ ] affair
+- [ ] anyhow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The wicked rival slipped ____ into the glass without being seen.
+
+- [x] poison
+- [ ] affair
+- [ ] anyhow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+The attorney read the final ____ in front of the assembled family.
+
+- [x] will
+- [ ] affair
+- [ ] anyhow
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

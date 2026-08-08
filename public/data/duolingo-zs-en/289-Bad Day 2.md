@@ -63,83 +63,176 @@ beneath, block, dashboard, frustrating, get a hold of, go wrong, in a row, keep 
 
 <quiz-sentence-builder>
 
-1. **中文**：我要迟到了，因为早晨的交通比平时拥堵得多。  
-   **英文**：I am running late because the morning traffic was far heavier than usual.
-   > **解析**：`be running late` 是口语高频短语，意为“迟到、赶时间”，表示正在走向迟到的状态。
+1. **中文**：抱歉让你久等了，我被堵在了拥挤的交通中。
+   **英文**：Sorry to keep you waiting, I got stuck in heavy traffic.
+   > **解析**：keep you waiting 表示“让你久等”。
 
-2. **中文**：长话短说，我的车坏了，我不得不坐公交车。  
-   **英文**：Long story short, my car broke down and I had to take a bus.
-   > **解析**：`long story short` 是习惯口语短语，意为“长话短说、长话短说总而言之”，常作为句首插入语。
+2. **中文**：我要迟到了，因为我的闹钟没响。
+   **英文**：I am running late because my alarm clock failed to ring.
+   > **解析**：running late 表示“迟到、赶时间”。
 
-3. **中文**：非常抱歉让你在寒风中等了我半个多小时。  
-   **英文**：I am so sorry to keep you waiting for over half an hour in the cold.
-   > **解析**：`keep sb. waiting` 是习惯搭配，意为“让某人久等”，动词 `keep` 后接“人 + 现在分词”。
+3. **中文**：别担心，我已经在路上了，很快就会到达。
+   **英文**：Don't worry, I am on my way and will arrive shortly.
+   > **解析**：on my way 表示“在路上”。
 
-4. **中文**：轮胎爆裂时，司机不得不把车停靠到路肩上。  
-   **英文**：The driver had to pull over onto the shoulder when the tire popped.
-   > **解析**：`pull over` 是动词短语，意为“（驾驶车辆）靠边停车”。
+4. **中文**：长话短说，我错过了公交车，不得不走路。
+   **英文**：Long story short, I missed the bus and had to walk.
+   > **解析**：Long story short 口语中意为“长话短说”。
 
-5. **中文**：我在处理这份紧急项目报告时完全忘记了时间。  
-   **英文**：I completely lost track of time while working on the urgent project report beneath.
-   > **解析**：`lose track of time` 是固定短语，意为“失去对时间的注意、忘记时间”。
+5. **中文**：我试着联系上你，但你的电话占线了。
+   **英文**：I tried to get a hold of you, but your line was busy.
+   > **解析**：get a hold of 表示联系上某人。
 
-6. **中文**：这是一个令人非常沮丧的早晨，因为所有可能出差错的事情都出错了。  
-   **英文**：It was a very frustrating morning because everything that could go wrong did go wrong.
-   > **解析**：`frustrating` 是形容词，意为“令人沮丧的、令人气馁的”，修饰事物或处境。
+6. **中文**：今天早上所有可能出问题的事情全出问题了。
+   **英文**：Everything that could go wrong did go wrong this morning.
+   > **解析**：go wrong 表示出问题、出错。
 
-7. **中文**：在主干道上撞到一个深坑导致我的自行车轮胎扁了。  
-   **英文**：Hitting a deep pothole on the main road caused a flat tire on my bicycle.
-   > **解析**：`pothole` 指路面上的“坑洼、坑洞”，由 `pot` + `hole` 构成。
+7. **中文**：我当时正在读一本迷人的书，忘了时间。
+   **英文**：I was reading a fascinating book and lost track of time.
+   > **解析**：lose track of time 表示“忘了时间”。
 
-8. **中文**：我试图联系上你，但你的手机关机了。  
-   **英文**：I tried to get a hold of you, but your mobile phone was turned off (keep you waiting) about beneath.
-   > **解析**：`get a hold of sb.` 是口语短语，意为“联系上某人、找到某人”。
+8. **中文**：当发动机开始冒烟时司机不得不靠边停车。
+   **英文**：The driver had to pull over when the engine started smoking.
+   > **解析**：pull over 指靠边停车。
 
-9. **中文**：从早晨闹钟没响的那一刻起，似乎一切事情都出差错。  
-   **英文**：Everything seemed to go wrong from the moment my morning alarm failed to ring.
-   > **解析**：`go wrong` 是动词短语，意为“出差错、出故障”。
+9. **中文**：我的车撞上了一个很深的路面坑洞并损坏了前轮胎。
+   **英文**：My car hit a deep pothole and damaged the front tire.
+   > **解析**：pothole 指路面坑洞。
 
-10. **中文**：别担心，我已经在路上了，应该十分钟内到达。  
-   **英文**：Don't worry, I am already on my way and should arrive in ten minutes.
-   > **解析**：`be on one's way` 是固定短语，意为“在路上、正赶去”。
+10. **中文**：我们不得不停下来在铁轨处等待货运火车通过。
+   **英文**：We had to stop and wait for a freight train at the train tracks.
+   > **解析**：train tracks 指铁轨。
+
+11. **中文**：一场事故在公路上造成了严重的交通堵塞。
+   **英文**：An accident caused a massive traffic block on the highway.
+   > **解析**：block 表示堵塞或街区。
+
+12. **中文**：汽车仪表盘上的警告灯亮了起来。
+   **英文**：A warning icon illuminated on the car's dashboard.
+   > **解析**：dashboard 指汽车仪表盘。
+
+13. **中文**：电动机发出了异样的嗡嗡声。
+   **英文**：The electric motor made a strange whining noise.
+   > **解析**：motor 指发动机、马达。
+
+14. **中文**：用力踩下刹车踏板让车停下来。
+   **英文**：Press the brake pedal firmly to bring the car to a stop.
+   > **解析**：pedal 指踏板。
+
+15. **中文**：我们在发动机舱下方发现了一处液体泄漏。
+   **英文**：We found a fluid leak beneath the engine compartment.
+   > **解析**：leak 表示泄漏。
+
+16. **中文**：在赶截止时间时技术出现故障是非常令人沮丧的。
+   **英文**：It is very frustrating when technology fails during a deadline.
+   > **解析**：frustrating 表示令人沮丧的、令人恼火的。
+
+17. **中文**：车辆在公路上遭遇了突然的故障。
+   **英文**：The vehicle suffered a sudden breakdown on the highway.
+   > **解析**：sudden 表示突然的。
+
+18. **中文**：他今天连续遇到了三次倒霉事。
+   **英文**：He had three bad luck incidents in a row today.
+   > **解析**：in a row 表示连续地。
+
+19. **中文**：坏掉的桥梁当时正在被维修人员修理。
+   **英文**：The broken bridge was being fixed by maintenance crews.
+   > **解析**：was being fixed 是过去进行时的被动语态，意为“当时正在被修理”。
+
+20. **中文**：积水聚集在厨房渗漏的水槽下方。
+   **英文**：Water pooled beneath the leaky sink in the kitchen.
+   > **解析**：beneath 表示“在……下方”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I am running late because the morning traffic was far heavier than usual.
-   > **中文**：我要迟到了，因为早晨的交通比平时拥堵得多。
+1. Sorry to keep you waiting, I got stuck in heavy traffic.
+   > **中文**：抱歉让你久等了，我被堵在了拥挤的交通中。
 
-2. Long story short, my car broke down and I had to take a bus.
-   > **中文**：长话短说，我的车坏了，我不得不坐公交车。
+2. I am running late because my alarm clock failed to ring.
+   > **中文**：我要迟到了，因为我的闹钟没响。
 
-3. I am so sorry to keep you waiting for over half an hour in the cold.
-   > **中文**：非常抱歉让你在寒风中等了我半个多小时。
+3. Don't worry, I am on my way and will arrive shortly.
+   > **中文**：别担心，我已经在路上了，很快就会到达。
 
-4. The driver had to pull over onto the shoulder when the tire popped.
-   > **中文**：轮胎爆裂时，司机不得不把车停靠到路肩上。
+4. Long story short, I missed the bus and had to walk.
+   > **中文**：长话短说，我错过了公交车，不得不走路。
 
-5. I completely lost track of time while working on the urgent project report beneath.
-   > **中文**：我在处理这份紧急项目报告时完全忘记了时间。
+5. I tried to get a hold of you, but your line was busy.
+   > **中文**：我试着联系上你，但你的电话占线了。
 
-6. It was a very frustrating morning because everything that could go wrong did go wrong.
-   > **中文**：这是一个令人非常沮丧的早晨，因为所有可能出差错的事情都出错了。
+6. Everything that could go wrong did go wrong this morning.
+   > **中文**：今天早上所有可能出问题的事情全出问题了。
 
-7. Hitting a deep pothole on the main road caused a flat tire on my bicycle.
-   > **中文**：在主干道上撞到一个深坑导致我的自行车轮胎扁了。
+7. I was reading a fascinating book and lost track of time.
+   > **中文**：我当时正在读一本迷人的书，忘了时间。
 
-8. I tried to get a hold of you, but your mobile phone was turned off (keep you waiting) about beneath.
-   > **中文**：我试图联系上你，但你的手机关机了。
+8. The driver had to pull over when the engine started smoking.
+   > **中文**：当发动机开始冒烟时司机不得不靠边停车。
 
-9. Everything seemed to go wrong from the moment my morning alarm failed to ring.
-   > **中文**：从早晨闹钟没响的那一刻起，似乎一切事情都出差错。
+9. My car hit a deep pothole and damaged the front tire.
+   > **中文**：我的车撞上了一个很深的路面坑洞并损坏了前轮胎。
 
-10. Don't worry, I am already on my way and should arrive in ten minutes.
-   > **中文**：别担心，我已经在路上了，应该十分钟内到达。
+10. We had to stop and wait for a freight train at the train tracks.
+   > **中文**：我们不得不停下来在铁轨处等待货运火车通过。
+
+11. An accident caused a massive traffic block on the highway.
+   > **中文**：一场事故在公路上造成了严重的交通堵塞。
+
+12. A warning icon illuminated on the car's dashboard.
+   > **中文**：汽车仪表盘上的警告灯亮了起来。
+
+13. The electric motor made a strange whining noise.
+   > **中文**：电动机发出了异样的嗡嗡声。
+
+14. Press the brake pedal firmly to bring the car to a stop.
+   > **中文**：用力踩下刹车踏板让车停下来。
+
+15. We found a fluid leak beneath the engine compartment.
+   > **中文**：我们在发动机舱下方发现了一处液体泄漏。
+
+16. It is very frustrating when technology fails during a deadline.
+   > **中文**：在赶截止时间时技术出现故障是非常令人沮丧的。
+
+17. The vehicle suffered a sudden breakdown on the highway.
+   > **中文**：车辆在公路上遭遇了突然的故障。
+
+18. He had three bad luck incidents in a row today.
+   > **中文**：他今天连续遇到了三次倒霉事。
+
+19. The broken bridge was being fixed by maintenance crews.
+   > **中文**：坏掉的桥梁当时正在被维修人员修理。
+
+20. Water pooled beneath the leaky sink in the kitchen.
+   > **中文**：积水聚集在厨房渗漏的水槽下方。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| keep you waiting | 让你久等 |
+| running late | 迟到 / 赶时间 |
+| on my way | 在路上 |
+| long story short | 长话短说 |
+| get a hold of | 联系上（某人） |
+| go wrong | 出问题 / 出错 |
+| lose track of time | 忘了时间 |
+| pull over | 靠边停车 |
+| pothole | 路面坑洞 |
+| train tracks | 铁轨 |
+| block | 街区 / 堵塞 |
+| dashboard | 仪表盘 |
+| motor | 发动机 / 马达 |
+| pedal | 踏板 |
+| leak | 泄漏 |
+| frustrating | 令人沮丧的 / 令人恼火的 |
+| sudden | 突然的 |
+| in a row | 连续地 |
+| was being fixed | 当时正在被修理 |
+| beneath | 在……下方 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ beneath, block, dashboard, frustrating, get a hold of, go wrong, in a row, keep 
 
 ### 1
 
-I am `____` because the morning traffic was far heavier than usual.
+Sorry to keep you ____, I got stuck in heavy traffic.
 
-- [x] running late
+- [x] waiting
 - [ ] beneath
-- [ ] get a hold of
+- [ ] block
 
-> **解析**：`be running late` 是口语高频短语，意为“迟到、赶时间”，表示正在走向迟到的状态。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-`____` story short, my car broke down and I had to take a bus.
+I am ____ late because my alarm clock failed to ring.
 
-- [x] long
+- [x] running
+- [ ] beneath
 - [ ] block
-- [ ] go wrong
 
-> **解析**：`long story short` 是习惯口语短语，意为“长话短说、长话短说总而言之”，常作为句首插入语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-I am so sorry to `____` for over half an hour in the cold.
+Don't worry, I am on my way and will arrive ____.
 
-- [x] keep you waiting
-- [ ] dashboard
-- [ ] in a row
+- [x] shortly
+- [ ] beneath
+- [ ] block
 
-> **解析**：`keep sb. waiting` 是习惯搭配，意为“让某人久等”，动词 `keep` 后接“人 + 现在分词”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The driver had to `____` onto the shoulder when the tire popped.
+____ story short, I missed the bus and had to walk.
 
-- [x] pull over
-- [ ] frustrating
-- [ ] keep you waiting
+- [x] Long
+- [ ] beneath
+- [ ] block
 
-> **解析**：`pull over` 是动词短语，意为“（驾驶车辆）靠边停车”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-I completely lost track of time while working on the urgent project report `____`.
+I ____ to get a hold of you, but your line was busy.
 
-- [x] beneath
-- [ ] go wrong
-- [ ] long
+- [x] tried
+- [ ] beneath
+- [ ] block
 
-> **解析**：`lose track of time` 是固定短语，意为“失去对时间的注意、忘记时间”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-It was a very `____` morning because everything that could go wrong did go wrong.
+____ that could go wrong did go wrong this morning.
 
-- [x] frustrating
-- [ ] in a row
-- [ ] long story
+- [x] Everything
+- [ ] beneath
+- [ ] block
 
-> **解析**：`frustrating` 是形容词，意为“令人沮丧的、令人气馁的”，修饰事物或处境。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Hitting a deep `____` on the main road caused a flat tire on my bicycle.
+I was reading a ____ book and lost track of time.
 
-- [x] pothole
-- [ ] in a row
-- [ ] long story
+- [x] fascinating
+- [ ] beneath
+- [ ] block
 
-> **解析**：`pothole` 指路面上的“坑洼、坑洞”，由 `pot` + `hole` 构成。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-I tried to `____` you, but your mobile phone was turned off (keep you waiting) about beneath.
+The driver had to pull over when the engine ____ smoking.
 
-- [x] get a hold of
-- [ ] leak
-- [ ] lose track of time
+- [x] started
+- [ ] beneath
+- [ ] block
 
-> **解析**：`get a hold of sb.` 是口语短语，意为“联系上某人、找到某人”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Everything seemed to `____` from the moment my morning alarm failed to ring.
+My car hit a deep ____ and damaged the front tire.
 
-- [x] go wrong
-- [ ] long
-- [ ] motor
+- [x] pothole
+- [ ] beneath
+- [ ] block
 
-> **解析**：`go wrong` 是动词短语，意为“出差错、出故障”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Don't worry, I am already `____` and should arrive in ten minutes.
+We had to stop and wait for a ____ train at the train tracks.
 
-- [x] on my way
-- [ ] long
-- [ ] motor
+- [x] freight
+- [ ] beneath
+- [ ] block
 
-> **解析**：`be on one's way` 是固定短语，意为“在路上、正赶去”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+An accident caused a massive traffic ____ on the highway.
+
+- [x] block
+- [ ] beneath
+- [ ] dashboard
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+A warning icon illuminated on the car's ____.
+
+- [x] dashboard
+- [ ] beneath
+- [ ] block
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The electric ____ made a strange whining noise.
+
+- [x] motor
+- [ ] beneath
+- [ ] block
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Press the brake ____ firmly to bring the car to a stop.
+
+- [x] pedal
+- [ ] beneath
+- [ ] block
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+We found a fluid ____ beneath the engine compartment.
+
+- [x] leak
+- [ ] beneath
+- [ ] block
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+It is very ____ when technology fails during a deadline.
+
+- [x] frustrating
+- [ ] beneath
+- [ ] block
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The vehicle suffered a ____ breakdown on the highway.
+
+- [x] sudden
+- [ ] beneath
+- [ ] block
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+He had three bad luck ____ in a row today.
+
+- [x] incidents
+- [ ] beneath
+- [ ] block
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The broken bridge was being fixed by ____ crews.
+
+- [x] maintenance
+- [ ] beneath
+- [ ] block
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Water pooled ____ the leaky sink in the kitchen.
+
+- [x] beneath
+- [ ] block
+- [ ] dashboard
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

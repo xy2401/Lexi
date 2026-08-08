@@ -63,83 +63,176 @@ backup plan, deck, diner, get away, hike, in the middle of nowhere, itinerary, j
 
 <quiz-sentence-builder>
 
-1. **中文**：由于冬季航班经常延误，准备一个备用计划是明智的。  
-   **英文**：Since flights get delayed often in winter, it is smart to have a backup plan.
-   > **解析**：`backup plan` 可数名词短语，意为“备用计划；后备方案”。
+1. **中文**：出国旅行时一定要准备一份备用计划。  
+   **英文**：Always prepare a backup plan when traveling abroad.
+   > **解析**：backup plan 表示备用计划。
 
-2. **中文**：我们决定进行一次周末旅行，远离喧嚣的城市生活。  
-   **英文**：We decided to take a weekend trip to get away from the noisy city life.
-   > **解析**：`get away` 不及物动词短语，意为“度假；逃离；远离”。搭配 `get away from...`。
+2. **中文**：离开酒店前检查一下你的每日行程安排。  
+   **英文**：Check your daily itinerary before leaving the hotel.
+   > **解析**：itinerary 表示行程安排。
 
-3. **中文**：随身在背包里放一件应急雨衣，以防万一。  
-   **英文**：Always pack an emergency rain poncho in your backpack, just in case.
-   > **解析**：`just in case` 为时间/条件副词短语，意为“以防万一”，常放在句末作状语。
+3. **中文**：我们在偏僻荒凉的地方发现了一个安静的小村庄。  
+   **英文**：We found a small quiet village in the middle of nowhere.
+   > **解析**：in the middle of nowhere 表示偏僻的地方。
 
-4. **中文**：这个热带小岛位于距离佛罗里达海岸二十英里的海面上。  
-   **英文**：The small tropical island is located twenty miles off the coast of Florida.
-   > **解析**：`off the coast of` 为方位介词短语，意为“在……海岸线外的大海上”。
+4. **中文**：随身带把伞，以防万一下雨。  
+   **英文**：Bring an umbrella with you just in case it rains.
+   > **解析**：just in case 表示以防万一。
 
-5. **中文**：他们收拾好行李，在没有预订酒店的情况下进行了一次说走就走的公路旅行。  
-   **英文**：They packed their bags and took a spontaneous road trip without booking hotels.
-   > **解析**：`spontaneous` 形容词，意为“自发的；即兴的；说走就走的”。修饰名词 `road trip`。
+5. **中文**：该度假村位于城市的郊区外围。  
+   **英文**：The resort is located on the outskirts of the city.
+   > **解析**：outskirts 表示郊区、市郊。
 
-6. **中文**：我们从机场开车到海滨度假胜地需要多长时间？  
-   **英文**：How long will it take us to drive from the airport to the seaside resort?
-   > **解析**：`take` 在句型 `it takes sb. time to do sth.` 中表示“花费（某人时间）”。
+6. **中文**：这个小岛位于意大利海岸附近海域。  
+   **英文**：The small island lies off the coast of Italy.
+   > **解析**：off the coast of 表示在……海岸附近的切向海域。
 
-7. **中文**：山区的天气可能非常不可预测，因此请带上保暖的衣物。  
-   **英文**：Mountain weather can be highly unpredictable, so bring warm layers of clothing.
-   > **解析**：`unpredictable` 形容词，意为“无法预测的；多变的”，由前缀 `un-` + `predictable` 构成。
+7. **中文**：节日周末的所有机票都已售罄。  
+   **英文**：All plane tickets for the holiday weekend are sold out.
+   > **解析**：sold out 表示售罄。
 
-8. **中文**：乘客们站在邮轮的上层甲板上欣赏海上日落。  
-   **英文**：Passengers stood on the upper deck of the cruise ship to admire the ocean sunset.
-   > **解析**：`deck` 可数名词，意为“（船的）甲板；露天平台”。`upper deck`（上层甲板）。
+8. **中文**：我们临时起意决定周末驾车旅行。  
+   **英文**：We made a spontaneous decision to take a weekend road trip.
+   > **解析**：spontaneous 表示自发的、即兴的。
 
-9. **中文**：那座小木屋位于偏僻荒凉的角落，完全没有手机信号。  
-   **英文**：The cabin was located in the middle of nowhere with no cellular reception at all about diner.
-   > **解析**：`in the middle of nowhere` 为常用习惯表达，意为“在人烟稀少的地方；偏僻荒芜之所”。
+9. **中文**：我需要离开城市几天出去放松一下。  
+   **英文**：I need to get away from the city for a few days.
+   > **解析**：get away 表示外出度假、离开。
 
-10. **中文**：在明天回家之前，我们需要为朋友们购买更多的纪念品。  
-   **英文**：We need to buy more souvenirs for our friends before returning home tomorrow.
-   > **解析**：`more` 限定词/代词，意为“更多的”，在此修饰复数名词 `souvenirs`。
+10. **中文**：我们计划明天沿着绿色的山径去徒步旅行。  
+   **英文**：We plan to hike up the green mountain trail tomorrow.
+   > **解析**：hike 表示徒步旅行。
+
+11. **中文**：我们停在一家舒适的路边小餐馆吃午饭。  
+   **英文**：We stopped at a cozy roadside diner for lunch.
+   > **解析**：diner 表示路边小餐馆。
+
+12. **中文**：在游船甲板上放松的同时欣赏海景。  
+   **英文**：Enjoy the ocean view while relaxing on the ship deck.
+   > **解析**：deck 表示甲板。
+
+13. **中文**：航班因暴风雨天气条件而延误。  
+   **英文**：The flight was delayed due to stormy weather conditions.
+   > **解析**：stormy 表示暴风雨的。
+
+14. **中文**：热带天气可能会非常炎热且不可预测。  
+   **英文**：Tropical weather can be very warm and unpredictable.
+   > **解析**：tropical 表示热带的。
+
+15. **中文**：春季的高山天气往往不可预测。  
+   **英文**：Mountain weather is often unpredictable during spring.
+   > **解析**：unpredictable 表示不可预测的。
+
+16. **中文**：涂抹防晒霜以避免被晒伤引发疼痛。  
+   **英文**：Put on sunscreen to avoid getting a painful sunburn.
+   > **解析**：sunburn 表示晒伤。
+
+17. **中文**：活火山喷发吸引了许多游客。  
+   **英文**：The active volcano erupted and drew many tourists.
+   > **解析**：volcano 表示火山。
+
+18. **中文**：这次假期不仅价格实惠，而且令人难忘。  
+   **英文**：This vacation was not only affordable but also unforgettable.
+   > **解析**：not only... but also... 表示不仅……而且……
+
+19. **中文**：探索新地方比留在家中更有趣。  
+   **英文**：Exploring new places is more exciting than staying home.
+   > **解析**：more... than... 表示比……更……
+
+20. **中文**：我们在纪念品商店稍作停留吧。  
+   **英文**：Let's make a short stop at the souvenir shop.
+   > **解析**：stop 表示停留、中途停靠。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Since flights get delayed often in winter, it is smart to have a backup plan.
-   > **中文**：由于冬季航班经常延误，准备一个备用计划是明智的。
+1. Always prepare a backup plan when traveling abroad.
+   > **中文**：出国旅行时一定要准备一份备用计划。
 
-2. We decided to take a weekend trip to get away from the noisy city life.
-   > **中文**：我们决定进行一次周末旅行，远离喧嚣的城市生活。
+2. Check your daily itinerary before leaving the hotel.
+   > **中文**：离开酒店前检查一下你的每日行程安排。
 
-3. Always pack an emergency rain poncho in your backpack, just in case.
-   > **中文**：随身在背包里放一件应急雨衣，以防万一。
+3. We found a small quiet village in the middle of nowhere.
+   > **中文**：我们在偏僻荒凉的地方发现了一个安静的小村庄。
 
-4. The small tropical island is located twenty miles off the coast of Florida.
-   > **中文**：这个热带小岛位于距离佛罗里达海岸二十英里的海面上。
+4. Bring an umbrella with you just in case it rains.
+   > **中文**：随身带把伞，以防万一下雨。
 
-5. They packed their bags and took a spontaneous road trip without booking hotels.
-   > **中文**：他们收拾好行李，在没有预订酒店的情况下进行了一次说走就走的公路旅行。
+5. The resort is located on the outskirts of the city.
+   > **中文**：该度假村位于城市的郊区外围。
 
-6. How long will it take us to drive from the airport to the seaside resort?
-   > **中文**：我们从机场开车到海滨度假胜地需要多长时间？
+6. The small island lies off the coast of Italy.
+   > **中文**：这个小岛位于意大利海岸附近海域。
 
-7. Mountain weather can be highly unpredictable, so bring warm layers of clothing.
-   > **中文**：山区的天气可能非常不可预测，因此请带上保暖的衣物。
+7. All plane tickets for the holiday weekend are sold out.
+   > **中文**：节日周末的所有机票都已售罄。
 
-8. Passengers stood on the upper deck of the cruise ship to admire the ocean sunset.
-   > **中文**：乘客们站在邮轮的上层甲板上欣赏海上日落。
+8. We made a spontaneous decision to take a weekend road trip.
+   > **中文**：我们临时起意决定周末驾车旅行。
 
-9. The cabin was located in the middle of nowhere with no cellular reception at all about diner.
-   > **中文**：那座小木屋位于偏僻荒凉的角落，完全没有手机信号。
+9. I need to get away from the city for a few days.
+   > **中文**：我需要离开城市几天出去放松一下。
 
-10. We need to buy more souvenirs for our friends before returning home tomorrow.
-   > **中文**：在明天回家之前，我们需要为朋友们购买更多的纪念品。
+10. We plan to hike up the green mountain trail tomorrow.
+   > **中文**：我们计划明天沿着绿色的山径去徒步旅行。
+
+11. We stopped at a cozy roadside diner for lunch.
+   > **中文**：我们停在一家舒适的路边小餐馆吃午饭。
+
+12. Enjoy the ocean view while relaxing on the ship deck.
+   > **中文**：在游船甲板上放松的同时欣赏海景。
+
+13. The flight was delayed due to stormy weather conditions.
+   > **中文**：航班因暴风雨天气条件而延误。
+
+14. Tropical weather can be very warm and unpredictable.
+   > **中文**：热带天气可能会非常炎热且不可预测。
+
+15. Mountain weather is often unpredictable during spring.
+   > **中文**：春季的高山天气往往不可预测。
+
+16. Put on sunscreen to avoid getting a painful sunburn.
+   > **中文**：涂抹防晒霜以避免被晒伤引发疼痛。
+
+17. The active volcano erupted and drew many tourists.
+   > **中文**：活火山喷发吸引了许多游客。
+
+18. This vacation was not only affordable but also unforgettable.
+   > **中文**：这次假期不仅价格实惠，而且令人难忘。
+
+19. Exploring new places is more exciting than staying home.
+   > **中文**：探索新地方比留在家中更有趣。
+
+20. Let's make a short stop at the souvenir shop.
+   > **中文**：我们在纪念品商店稍作停留吧。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| `backup plan` | 备用计划 |
+| `deck` | 甲板 |
+| `diner` | 路边小餐馆 |
+| `get away` | 外出度假；离开 |
+| `hike` | 徒步旅行 |
+| `in the middle of nowhere` | 偏僻荒凉之地 |
+| `itinerary` | 行程安排 |
+| `just in case` | 以防万一 |
+| `not only` | 不仅 |
+| `off the coast of` | 在……海岸附近的切向海域 |
+| `outskirts` | 郊区；市郊 |
+| `sold out` | 售罄 |
+| `spontaneous` | 即兴的；自发的 |
+| `stop` | 停留；中途停靠 |
+| `stormy` | 暴风雨的 |
+| `sunburn` | 晒伤 |
+| `tropical` | 热带的 |
+| `unpredictable` | 不可预测的 |
+| `volcano` | 火山 |
+| `more` | 更 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ backup plan, deck, diner, get away, hike, in the middle of nowhere, itinerary, j
 
 ### 1
 
-Since flights get delayed often in winter, it is smart to have a `____`.
+Always prepare a backup plan when ____ abroad.
 
-- [x] backup plan
+- [x] traveling
+- [ ] backup plan
 - [ ] deck
-- [ ] in the middle of nowhere
 
-> **解析**：`backup plan` 可数名词短语，意为“备用计划；后备方案”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-We decided to take a weekend trip to `____` from the noisy city life.
+Check your daily ____ before leaving the hotel.
 
-- [x] get away
+- [x] itinerary
+- [ ] backup plan
 - [ ] deck
-- [ ] itinerary
 
-> **解析**：`get away` 不及物动词短语，意为“度假；逃离；远离”。搭配 `get away from...`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Always pack an emergency rain poncho in your backpack, `____`.
+We found a small quiet ____ in the middle of nowhere.
 
-- [x] just in case
-- [ ] diner
-- [ ] itinerary
+- [x] village
+- [ ] backup plan
+- [ ] deck
 
-> **解析**：`just in case` 为时间/条件副词短语，意为“以防万一”，常放在句末作状语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The small tropical island is located twenty miles `____` Florida.
+Bring an ____ with you just in case it rains.
 
-- [x] off the coast of
-- [ ] get away
-- [ ] just in case
+- [x] umbrella
+- [ ] backup plan
+- [ ] deck
 
-> **解析**：`off the coast of` 为方位介词短语，意为“在……海岸线外的大海上”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-They packed their bags and took a `____` road trip without booking hotels.
+The resort is located on the ____ of the city.
 
-- [x] spontaneous
-- [ ] hike
-- [ ] more
+- [x] outskirts
+- [ ] backup plan
+- [ ] deck
 
-> **解析**：`spontaneous` 形容词，意为“自发的；即兴的；说走就走的”。修饰名词 `road trip`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-How long will it `____` us to drive from the airport to the seaside resort?
+The small ____ lies off the coast of Italy.
 
-- [x] take
-- [ ] in the middle of nowhere
-- [ ] not only
+- [x] island
+- [ ] backup plan
+- [ ] deck
 
-> **解析**：`take` 在句型 `it takes sb. time to do sth.` 中表示“花费（某人时间）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Mountain weather can be highly `____`, so bring warm layers of clothing.
+All plane ____ for the holiday weekend are sold out.
 
-- [x] unpredictable
-- [ ] itinerary
-- [ ] off the coast of
+- [x] tickets
+- [ ] backup plan
+- [ ] deck
 
-> **解析**：`unpredictable` 形容词，意为“无法预测的；多变的”，由前缀 `un-` + `predictable` 构成。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Passengers stood on the upper `____` of the cruise ship to admire the ocean sunset.
+We made a ____ decision to take a weekend road trip.
 
-- [x] deck
-- [ ] more
-- [ ] sold out
+- [x] spontaneous
+- [ ] backup plan
+- [ ] deck
 
-> **解析**：`deck` 可数名词，意为“（船的）甲板；露天平台”。`upper deck`（上层甲板）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The cabin was located in the middle of nowhere with no cellular reception at all about `____`.
+I ____ to get away from the city for a few days.
 
-- [x] diner
-- [ ] not only
-- [ ] spontaneous
+- [x] need
+- [ ] backup plan
+- [ ] deck
 
-> **解析**：`in the middle of nowhere` 为常用习惯表达，意为“在人烟稀少的地方；偏僻荒芜之所”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-We need to buy `____` souvenirs for our friends before returning home tomorrow.
+We plan to ____ up the green mountain trail tomorrow.
+
+- [x] hike
+- [ ] backup plan
+- [ ] deck
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+We stopped at a cozy roadside ____ for lunch.
+
+- [x] diner
+- [ ] backup plan
+- [ ] deck
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Enjoy the ocean view while relaxing on the ship ____.
+
+- [x] deck
+- [ ] backup plan
+- [ ] diner
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The flight was delayed due to ____ weather conditions.
+
+- [x] stormy
+- [ ] backup plan
+- [ ] deck
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+____ weather can be very warm and unpredictable.
+
+- [x] Tropical
+- [ ] backup plan
+- [ ] deck
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Mountain weather is often ____ during spring.
+
+- [x] unpredictable
+- [ ] backup plan
+- [ ] deck
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Put on sunscreen to avoid getting a painful ____.
+
+- [x] sunburn
+- [ ] backup plan
+- [ ] deck
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The active ____ erupted and drew many tourists.
+
+- [x] volcano
+- [ ] backup plan
+- [ ] deck
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+This vacation was not only affordable but also ____.
+
+- [x] unforgettable
+- [ ] backup plan
+- [ ] deck
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Exploring new places is ____ exciting than staying home.
 
 - [x] more
-- [ ] off the coast of
-- [ ] stop
+- [ ] backup plan
+- [ ] deck
 
-> **解析**：`more` 限定词/代词，意为“更多的”，在此修饰复数名词 `souvenirs`。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Let's make a short ____ at the souvenir shop.
+
+- [x] stop
+- [ ] backup plan
+- [ ] deck
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

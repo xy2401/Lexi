@@ -61,83 +61,176 @@ ache, act, as if, as though, bite, bruise, cautious, have, honey, itch, pass out
 
 <quiz-sentence-builder>
 
-1. **中文**：背部持续的肌肉酸痛可以通过热敷来缓解。  
-   **英文**：Constant muscle ache in your back can be relieved by applying a warm compress.
-   > **解析**：`ache` 动词/可数名词，意为“酸痛；疼痛”。常用短语 `muscle ache`（肌肉酸痛）/ `headache`（头痛）。
+1. **中文**：我觉得我仿佛快要因为这剧烈的隐痛而晕过去了。
+   **英文**：I feel as if I am going to pass out from this severe ache.
+   > **解析**：pass out 意为晕倒。
 
-2. **中文**：在蚊子叮咬处涂抹防腐止痒膏以消红肿。  
-   **英文**：Apply an antiseptic cream to the mosquito bite to stop the red swelling.
-   > **解析**：`bite` 可数名词，在此处意为“叮咬伤痕；咬伤”。`mosquito bite`（蚊虫叮咬伤）。
+2. **中文**：他表现得好像他根本没有任何虚弱似的。
+   **英文**：He acted as though he had no weakness at all.
+   > **解析**：as though 意为仿佛、好像。
 
-3. **中文**：如果你发高烧和咽喉痛，你应该留在家中。  
-   **英文**：You should stay home if you have a high fever and a sore throat.
-   > **解析**：`have` 动词，在医疗症状描述中与疾病名词搭配（如 `have a fever / cold / headache`）。
+3. **中文**：病人被带进急救室时处于无意识状态。
+   **英文**：The patient was unconscious when brought into the emergency room.
+   > **解析**：unconscious 意为失去意识的。
 
-4. **中文**：充分的休息和有营养的膳食对于迅速医疗康复至关重要。  
-   **英文**：Adequate rest and nutritious meals are essential for a speedy medical recovery.
-   > **解析**：`recovery` 可数/不可数名词，意为“康复；痊愈”，由动词 `recover` 派生而来。
+4. **中文**：她冒冷汗，整晚发冷打寒战。
+   **英文**：She broke out in a cold sweat and had the chills all night.
+   > **解析**：the chills 意为发冷、寒战。
 
-5. **中文**：发高烧经常导致患者在夜间剧烈流汗。  
-   **英文**：A high fever often causes patients to sweat heavily during the night.
-   > **解析**：`sweat` 不及物动词/名词，意为“出汗；汗水”。
+5. **中文**：医生仔细包扎了他腿上的深伤口。
+   **英文**：The doctor wrapped the deep wound on his leg carefully.
+   > **解析**：wrap 意为包扎。
 
-6. **中文**：突然的视力模糊需要眼科专家立即进行检查。  
-   **英文**：Sudden blurry vision requires immediate examination by an eye specialist.
-   > **解析**：`vision` 不可数名词，在此处意为“视力；视觉”。短语 `blurry vision`（视力模糊）。
+6. **中文**：止痛药将在大约四小时后逐渐消退。
+   **英文**：The painkiller will wear off in about four hours.
+   > **解析**：wear off 意为（药效）逐渐消退。
 
-7. **中文**：局部麻醉药会在两到三小时后开始失效/消退。  
-   **英文**：The local anesthetic will begin to wear off after two or three hours.
-   > **解析**：`wear off` 不及物动词短语，意为“（药效、感觉等）逐渐消退；失效”。
+7. **中文**：他正遭受视力模糊和胃部不适的折磨。
+   **英文**：He is suffering from blurred vision and stomach upset.
+   > **解析**：vision 意为视力。
 
-8. **中文**：如果有人展现出严重过敏反应的迹象，你必须迅速采取行动。  
-   **英文**：You must act quickly if someone shows signs of a severe allergic reaction.
-   > **解析**：`act` 不及物动词，意为“采取行动；做行动”。
+8. **中文**：喝带蜂蜜的温茶有助于舒缓咽喉痛。
+   **英文**：Drinking warm tea with honey can help soothe a sore throat.
+   > **解析**：honey 意为蜂蜜。
 
-9. **中文**：从自行车上摔下来后，他的膝盖上出现了一个深蓝色的淤青。  
-   **英文**：He developed a dark blue bruise on his knee after falling off the bicycle.
-   > **解析**：`bruise` 可数名词，意为“淤青；伤痕”。
+9. **中文**：我们在拥挤的候诊室里等了一个多小时。
+   **英文**：We waited in the crowded waiting room for over an hour.
+   > **解析**：waiting room 意为候诊室。
 
-10. **中文**：这款舒缓乳液将有助于缓解你手臂上皮肤干燥引起的发痒。  
-   **英文**：This soothing lotion will help relieve the dry skin itch on your arms.
-   > **解析**：`itch` 动词/名词，意为“发痒；痒感”。
+10. **中文**：如果你的皮肤开始发痒，要小心昆虫叮咬。
+   **英文**：Be cautious with insect bites if your skin begins to itch.
+   > **解析**：cautious 意为谨慎的、小心的。
+
+11. **中文**：摔倒后，他的手臂上有一大块瘀伤。
+   **英文**：He had a large bruise on his arm after the fall.
+   > **解析**：bruise 意为瘀伤。
+
+12. **中文**：我们祝愿他早日完全康复。
+   **英文**：We wish him a speedy and complete recovery.
+   > **解析**：recovery 意为康复、恢复。
+
+13. **中文**：跑完马拉松后，她感到双腿无力。
+   **英文**：She felt weakness in her legs after running the marathon.
+   > **解析**：weakness 意为虚弱、无力。
+
+14. **中文**：她手臂上的那个看起来像蚊子叮咬。
+   **英文**：It looked like a mosquito bite on her arm.
+   > **解析**：bite 意为叮咬。
+
+15. **中文**：剧烈的胃痛使他难以集中注意力。
+   **英文**：The severe stomach ache made it hard for him to focus.
+   > **解析**：ache 意为持续隐痛。
+
+16. **中文**：药效过了一段时间才消退。
+   **英文**：The medicine took a while to wear off.
+   > **解析**：wear off 意为消退。
+
+17. **中文**：他发高烧，出了一身汗。
+   **英文**：He had a high fever and broke out in a sweat.
+   > **解析**：sweat 意为出汗、汗水。
+
+18. **中文**：她对意想不到的医疗检查结果感到不安。
+   **英文**：She was upset about the unexpected medical test results.
+   > **解析**：upset 意为不安的、难过的。
+
+19. **中文**：他感觉自己仿佛已经从流感中康复了。
+   **英文**：He felt as though he had recovered from the flu.
+   > **解析**：as though 意为仿佛。
+
+20. **中文**：仔细清洗伤口以防感染。
+   **英文**：Clean the wound carefully to prevent infection.
+   > **解析**：wound 意为伤口。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Constant muscle ache in your back can be relieved by applying a warm compress.
-   > **中文**：背部持续的肌肉酸痛可以通过热敷来缓解。
+1. I feel as if I am going to pass out from this severe ache.
+   > **中文**：我觉得我仿佛快要因为这剧烈的隐痛而晕过去了。
 
-2. Apply an antiseptic cream to the mosquito bite to stop the red swelling.
-   > **中文**：在蚊子叮咬处涂抹防腐止痒膏以消红肿。
+2. He acted as though he had no weakness at all.
+   > **中文**：他表现得好像他根本没有任何虚弱似的。
 
-3. You should stay home if you have a high fever and a sore throat.
-   > **中文**：如果你发高烧和咽喉痛，你应该留在家中。
+3. The patient was unconscious when brought into the emergency room.
+   > **中文**：病人被带进急救室时处于无意识状态。
 
-4. Adequate rest and nutritious meals are essential for a speedy medical recovery.
-   > **中文**：充分的休息和有营养的膳食对于迅速医疗康复至关重要。
+4. She broke out in a cold sweat and had the chills all night.
+   > **中文**：她冒冷汗，整晚发冷打寒战。
 
-5. A high fever often causes patients to sweat heavily during the night.
-   > **中文**：发高烧经常导致患者在夜间剧烈流汗。
+5. The doctor wrapped the deep wound on his leg carefully.
+   > **中文**：医生仔细包扎了他腿上的深伤口。
 
-6. Sudden blurry vision requires immediate examination by an eye specialist.
-   > **中文**：突然的视力模糊需要眼科专家立即进行检查。
+6. The painkiller will wear off in about four hours.
+   > **中文**：止痛药将在大约四小时后逐渐消退。
 
-7. The local anesthetic will begin to wear off after two or three hours.
-   > **中文**：局部麻醉药会在两到三小时后开始失效/消退。
+7. He is suffering from blurred vision and stomach upset.
+   > **中文**：他正遭受视力模糊和胃部不适的折磨。
 
-8. You must act quickly if someone shows signs of a severe allergic reaction.
-   > **中文**：如果有人展现出严重过敏反应的迹象，你必须迅速采取行动。
+8. Drinking warm tea with honey can help soothe a sore throat.
+   > **中文**：喝带蜂蜜的温茶有助于舒缓咽喉痛。
 
-9. He developed a dark blue bruise on his knee after falling off the bicycle.
-   > **中文**：从自行车上摔下来后，他的膝盖上出现了一个深蓝色的淤青。
+9. We waited in the crowded waiting room for over an hour.
+   > **中文**：我们在拥挤的候诊室里等了一个多小时。
 
-10. This soothing lotion will help relieve the dry skin itch on your arms.
-   > **中文**：这款舒缓乳液将有助于缓解你手臂上皮肤干燥引起的发痒。
+10. Be cautious with insect bites if your skin begins to itch.
+   > **中文**：如果你的皮肤开始发痒，要小心昆虫叮咬。
+
+11. He had a large bruise on his arm after the fall.
+   > **中文**：摔倒后，他的手臂上有一大块瘀伤。
+
+12. We wish him a speedy and complete recovery.
+   > **中文**：我们祝愿他早日完全康复。
+
+13. She felt weakness in her legs after running the marathon.
+   > **中文**：跑完马拉松后，她感到双腿无力。
+
+14. It looked like a mosquito bite on her arm.
+   > **中文**：她手臂上的那个看起来像蚊子叮咬。
+
+15. The severe stomach ache made it hard for him to focus.
+   > **中文**：剧烈的胃痛使他难以集中注意力。
+
+16. The medicine took a while to wear off.
+   > **中文**：药效过了一段时间才消退。
+
+17. He had a high fever and broke out in a sweat.
+   > **中文**：他发高烧，出了一身汗。
+
+18. She was upset about the unexpected medical test results.
+   > **中文**：她对意想不到的医疗检查结果感到不安。
+
+19. He felt as though he had recovered from the flu.
+   > **中文**：他感觉自己仿佛已经从流感中康复了。
+
+20. Clean the wound carefully to prevent infection.
+   > **中文**：仔细清洗伤口以防感染。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| ache | 持续隐痛；疼痛 |
+| bruise | 瘀伤；青肿 |
+| itch | 发痒 |
+| as if | 好像；仿佛 |
+| as though | 仿佛；似乎 |
+| pass out | 晕倒 |
+| unconscious | 失去意识的 |
+| the chills | 发冷；寒战 |
+| sweat | 出汗；汗水 |
+| severe | 严重的；剧烈的 |
+| suffer | 遭受；受苦 |
+| recovery | 康复；恢复 |
+| wear off | （药效/感觉）逐渐消退 |
+| wound | 伤口 |
+| wrap | 包扎；包裹 |
+| bite | 叮咬；咬伤 |
+| vision | 视力；视觉 |
+| weakness | 虚弱；无力 |
+| waiting room | 候诊室 |
+| cautious | 谨慎的；小心的 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ ache, act, as if, as though, bite, bruise, cautious, have, honey, itch, pass out
 
 ### 1
 
-Constant muscle `____` in your back can be relieved by applying a warm compress.
+I feel as if I am going to pass out from this ____ ache.
 
-- [x] ache
+- [x] severe
+- [ ] ache
 - [ ] act
-- [ ] bruise
 
-> **解析**：`ache` 动词/可数名词，意为“酸痛；疼痛”。常用短语 `muscle ache`（肌肉酸痛）/ `headache`（头痛）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Apply an antiseptic cream to the mosquito `____` to stop the red swelling.
+He acted as though he had no ____ at all.
 
-- [x] bite
+- [x] weakness
+- [ ] ache
 - [ ] act
-- [ ] cautious
 
-> **解析**：`bite` 可数名词，在此处意为“叮咬伤痕；咬伤”。`mosquito bite`（蚊虫叮咬伤）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-You should stay home if you `____` a high fever and a sore throat.
+The patient was ____ when brought into the emergency room.
 
-- [x] have
-- [ ] as if
-- [ ] cautious
+- [x] unconscious
+- [ ] ache
+- [ ] act
 
-> **解析**：`have` 动词，在医疗症状描述中与疾病名词搭配（如 `have a fever / cold / headache`）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Adequate rest and nutritious meals are essential for a speedy medical `____`.
+She broke out in a cold ____ and had the chills all night.
 
-- [x] recovery
-- [ ] as though
-- [ ] have
+- [x] sweat
+- [ ] ache
+- [ ] act
 
-> **解析**：`recovery` 可数/不可数名词，意为“康复；痊愈”，由动词 `recover` 派生而来。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-A high fever often causes patients to `____` heavily during the night.
+The doctor wrapped the deep ____ on his leg carefully.
 
-- [x] sweat
-- [ ] bite
-- [ ] honey
+- [x] wound
+- [ ] ache
+- [ ] act
 
-> **解析**：`sweat` 不及物动词/名词，意为“出汗；汗水”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Sudden blurry `____` requires immediate examination by an eye specialist.
+The ____ will wear off in about four hours.
 
-- [x] vision
-- [ ] bruise
-- [ ] itch
+- [x] painkiller
+- [ ] ache
+- [ ] act
 
-> **解析**：`vision` 不可数名词，在此处意为“视力；视觉”。短语 `blurry vision`（视力模糊）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The local anesthetic will begin to `____` after two or three hours.
+He is suffering from blurred ____ and stomach upset.
 
-- [x] wear off
-- [ ] cautious
-- [ ] pass out
+- [x] vision
+- [ ] ache
+- [ ] act
 
-> **解析**：`wear off` 不及物动词短语，意为“（药效、感觉等）逐渐消退；失效”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-You must `____` quickly if someone shows signs of a severe allergic reaction.
+Drinking warm tea with ____ can help soothe a sore throat.
 
-- [x] act
-- [ ] honey
-- [ ] severe
+- [x] honey
+- [ ] ache
+- [ ] act
 
-> **解析**：`act` 不及物动词，意为“采取行动；做行动”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-He developed a dark blue `____` on his knee after falling off the bicycle.
+We waited in the ____ waiting room for over an hour.
 
-- [x] bruise
-- [ ] itch
-- [ ] suffer
+- [x] crowded
+- [ ] ache
+- [ ] act
 
-> **解析**：`bruise` 可数名词，意为“淤青；伤痕”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-This soothing lotion will help relieve the dry skin `____` on your arms.
+Be ____ with insect bites if your skin begins to itch.
 
-- [x] itch
-- [ ] pass out
-- [ ] sweat
+- [x] cautious
+- [ ] ache
+- [ ] act
 
-> **解析**：`itch` 动词/名词，意为“发痒；痒感”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+He had a large ____ on his arm after the fall.
+
+- [x] bruise
+- [ ] ache
+- [ ] act
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+We wish him a speedy and complete ____.
+
+- [x] recovery
+- [ ] ache
+- [ ] act
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+She felt ____ in her legs after running the marathon.
+
+- [x] weakness
+- [ ] ache
+- [ ] act
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+It looked like a mosquito ____ on her arm.
+
+- [x] bite
+- [ ] ache
+- [ ] act
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The ____ stomach ache made it hard for him to focus.
+
+- [x] severe
+- [ ] ache
+- [ ] act
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The ____ took a while to wear off.
+
+- [x] medicine
+- [ ] ache
+- [ ] act
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+He had a high fever and broke out in a ____.
+
+- [x] sweat
+- [ ] ache
+- [ ] act
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+She was ____ about the unexpected medical test results.
+
+- [x] upset
+- [ ] ache
+- [ ] act
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+He felt as though he had ____ from the flu.
+
+- [x] recovered
+- [ ] ache
+- [ ] act
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Clean the ____ carefully to prevent infection.
+
+- [x] wound
+- [ ] ache
+- [ ] act
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

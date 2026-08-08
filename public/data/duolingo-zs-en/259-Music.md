@@ -77,83 +77,176 @@ date back（追溯到）、in those days（在那个年代）、lifetime（一�
 
 <quiz-sentence-builder>
 
-1. **中文**：古典钢琴音乐启发了他创作属于自己的歌曲。  
-   **英文**：Classical piano music inspired him to write his own songs.
-   > **解析**：`inspire` 作及物动词，意为“启发、鼓舞”，常用结构 `inspire sb to do sth`。
+1. **中文**：摇滚乐在二十世纪中叶彻底改变了流行文化。
+   **英文**：Rock and roll completely changed pop culture in the mid-20th century.
+   > **解析**：rock and roll 意为摇滚乐。
 
-2. **中文**：这种传统民族乐器可以追溯到十七世纪。  
-   **英文**：This traditional folk instrument dates back to the seventeenth century alternative.
-   > **解析**：`date back to...` 是固定动词短语，意为“追溯到（某时期）”。
+2. **中文**：这首经典古老的民谣歌曲可以追溯到十九世纪。
+   **英文**：This classic folk song can date back to the 19th century.
+   > **解析**：date back 意为追溯到。
 
-3. **中文**：这部电影的原声带在全世界范围内大受欢迎。  
-   **英文**：The movie's soundtrack became immensely popular around the world.
-   > **解析**：`soundtrack` 是名词，意为“（电影/电视）原声音乐带”。
+3. **中文**：在那个年代，人们习惯听黑胶唱片而不是数字音乐。
+   **英文**：In those days, people listened to vinyl records instead of digital music.
+   > **解析**：in those days 意为在那个年代。
 
-4. **中文**：那支传奇摇滚乐队在流行文化中极其富有影响力。  
-   **英文**：That legendary rock band was extremely influential in pop culture.
-   > **解析**：`influential` 是形容词，意为“有影响力的”，修饰词为 `extremely`。
+4. **中文**：这位音乐家被认为是时代最有影响力的作曲家之一。
+   **英文**：This musician is considered one of the most influential composers.
+   > **解析**：influential 意为有影响力的。
 
-5. **中文**：这位独立音乐创作人计划下个月发行她的新专辑。  
-   **英文**：The independent songwriter plans to release her new album next month.
-   > **解析**：`release` 作动词，意为“发行、发布（唱片/图书等）”。
+5. **中文**：她的音乐继续启发着世界各地的年轻创作人。
+   **英文**：Her music continues to inspire young songwriters around the world.
+   > **解析**：inspire 意为启发、激励。
 
-6. **中文**：舞曲通常依赖于快速且稳定的节奏。  
-   **英文**：Dance music usually relies on a fast and steady rhythm.
-   > **解析**：`rhythm` 是名词，意为“节奏、韵律”，注意拼写 `rhythm`。
+6. **中文**：这位天才词曲作者为这部新电影创作了所有歌曲。
+   **英文**：The talented songwriter wrote all the songs for the new movie.
+   > **解析**：songwriter 意为词曲作者。
 
-7. **中文**：嘻哈音乐已成为现代流行文化的主要组成部分。  
-   **英文**：Hip-hop music has become a major part of modern pop culture.
-   > **解析**：`pop culture` 是专有名词短语，意为“流行文化”。
+7. **中文**：这部电影的官方原声音乐在世界范围内非常受欢迎。
+   **英文**：The official soundtrack of the movie became popular worldwide.
+   > **解析**：soundtrack 意为原声音乐。
 
-8. **中文**：在我看来，现场演唱会演出比录制的单曲好得多。  
-   **英文**：In my eyes, live concert performances are much better than recorded tracks about alternative.
-   > **解析**：`in my eyes` 是观点表达短语，意为“在我看来/在我的眼里”。
+8. **中文**：乐队计划在下个月发行他们的第二张专辑。
+   **英文**：The band plans to release their second album next month.
+   > **解析**：release 意为发行、发布。
 
-9. **中文**：这位知名歌手在推出首支单曲后赢得了世界范围的名声。  
-   **英文**：The famous singer achieved worldwide fame after her debut single.
-   > **解析**：`worldwide` 作形容词或副词，意为“全世界的、全球范围的”。
+9. **中文**：这首歌具有强烈的节奏，让人忍不住想跳舞。
+   **英文**：The song has a strong rhythm that makes everyone want to dance.
+   > **解析**：rhythm 意为节奏、韵律。
 
-10. **中文**：比起主流流行音乐，他们更喜欢听另类摇滚。  
-   **英文**：They prefer listening to alternative rock rather than mainstream pop music about electronic.
-   > **解析**：`alternative` 作形容词，意为“非传统的、另类的”。
+10. **中文**：嬉皮士运动对二十世纪六十年代的音乐产生了深远影响。
+   **英文**：The hippie movement had a deep effect on music in the 1960s.
+   > **解析**：hippie 意为嬉皮士。
+
+11. **中文**：披头士乐队对全球流行文化的发展产生了重大影响。
+   **英文**：The Beatles had a major impact on global pop culture.
+   > **解析**：pop culture 意为流行文化。
+
+12. **中文**：这首动听的歌曲在世界各地都广为人知。
+   **英文**：This beautiful song is known and loved worldwide.
+   > **解析**：worldwide 意为全世界的、遍及全球的。
+
+13. **中文**：他喜欢听另类摇滚乐而不是大众流行音乐。
+   **英文**：He prefers listening to alternative rock over mainstream pop.
+   > **解析**：alternative 意为另类的、非主流的。
+
+14. **中文**：电子音乐在年轻一代俱乐部文化中非常流行。
+   **英文**：Electronic music is hugely popular in modern youth clubs.
+   > **解析**：electronic 意为电子的。
+
+15. **中文**：他一定是在受到旅行启发后写出了那首名曲。
+   **英文**：He must have written that famous song after his travels.
+   > **解析**：must have 意为一定（做过）。
+
+16. **中文**：在我看来，这是本世纪最出色的音乐作品。
+   **英文**：In my eyes, this is the finest piece of music of the century.
+   > **解析**：in my eyes 意为在我看来。
+
+17. **中文**：赢得这项成就大奖是他毕生音乐生涯的荣耀。
+   **英文**：Winning the award was the honor of his lifetime in music.
+   > **解析**：lifetime 意为一生、终生。
+
+18. **中文**：这一切都始于他在地下室里买的第一把旧吉他。
+   **英文**：It all started with his first old guitar bought in a basement.
+   > **解析**：it all 意为这一切。
+
+19. **中文**：爵士乐对现代乐坛产生了举足轻重的影响。
+   **英文**：Jazz has had a huge influence on modern music styles.
+   > **解析**：influence 意为影响。
+
+20. **中文**：那是一首多么美妙动听的旋律啊！
+   **英文**：What a beautiful and memorable melody that is!
+   > **解析**：what 意为多么（感叹句）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Classical piano music inspired him to write his own songs.
-   > **中文**：古典钢琴音乐启发了他创作属于自己的歌曲。
+1. Rock and roll completely changed pop culture in the mid-20th century.
+   > **中文**：摇滚乐在二十世纪中叶彻底改变了流行文化。
 
-2. This traditional folk instrument dates back to the seventeenth century alternative.
-   > **中文**：这种传统民族乐器可以追溯到十七世纪。
+2. This classic folk song can date back to the 19th century.
+   > **中文**：这首经典古老的民谣歌曲可以追溯到十九世纪。
 
-3. The movie's soundtrack became immensely popular around the world.
-   > **中文**：这部电影的原声带在全世界范围内大受欢迎。
+3. In those days, people listened to vinyl records instead of digital music.
+   > **中文**：在那个年代，人们习惯听黑胶唱片而不是数字音乐。
 
-4. That legendary rock band was extremely influential in pop culture.
-   > **中文**：那支传奇摇滚乐队在流行文化中极其富有影响力。
+4. This musician is considered one of the most influential composers.
+   > **中文**：这位音乐家被认为是时代最有影响力的作曲家之一。
 
-5. The independent songwriter plans to release her new album next month.
-   > **中文**：这位独立音乐创作人计划下个月发行她的新专辑。
+5. Her music continues to inspire young songwriters around the world.
+   > **中文**：她的音乐继续启发着世界各地的年轻创作人。
 
-6. Dance music usually relies on a fast and steady rhythm.
-   > **中文**：舞曲通常依赖于快速且稳定的节奏。
+6. The talented songwriter wrote all the songs for the new movie.
+   > **中文**：这位天才词曲作者为这部新电影创作了所有歌曲。
 
-7. Hip-hop music has become a major part of modern pop culture.
-   > **中文**：嘻哈音乐已成为现代流行文化的主要组成部分。
+7. The official soundtrack of the movie became popular worldwide.
+   > **中文**：这部电影的官方原声音乐在世界范围内非常受欢迎。
 
-8. In my eyes, live concert performances are much better than recorded tracks about alternative.
-   > **中文**：在我看来，现场演唱会演出比录制的单曲好得多。
+8. The band plans to release their second album next month.
+   > **中文**：乐队计划在下个月发行他们的第二张专辑。
 
-9. The famous singer achieved worldwide fame after her debut single.
-   > **中文**：这位知名歌手在推出首支单曲后赢得了世界范围的名声。
+9. The song has a strong rhythm that makes everyone want to dance.
+   > **中文**：这首歌具有强烈的节奏，让人忍不住想跳舞。
 
-10. They prefer listening to alternative rock rather than mainstream pop music about electronic.
-   > **中文**：比起主流流行音乐，他们更喜欢听另类摇滚。
+10. The hippie movement had a deep effect on music in the 1960s.
+   > **中文**：嬉皮士运动对二十世纪六十年代的音乐产生了深远影响。
+
+11. The Beatles had a major impact on global pop culture.
+   > **中文**：披头士乐队对全球流行文化的发展产生了重大影响。
+
+12. This beautiful song is known and loved worldwide.
+   > **中文**：这首动听的歌曲在世界各地都广为人知。
+
+13. He prefers listening to alternative rock over mainstream pop.
+   > **中文**：他喜欢听另类摇滚乐而不是大众流行音乐。
+
+14. Electronic music is hugely popular in modern youth clubs.
+   > **中文**：电子音乐在年轻一代俱乐部文化中非常流行。
+
+15. He must have written that famous song after his travels.
+   > **中文**：他一定是在受到旅行启发后写出了那首名曲。
+
+16. In my eyes, this is the finest piece of music of the century.
+   > **中文**：在我看来，这是本世纪最出色的音乐作品。
+
+17. Winning the award was the honor of his lifetime in music.
+   > **中文**：赢得这项成就大奖是他毕生音乐生涯的荣耀。
+
+18. It all started with his first old guitar bought in a basement.
+   > **中文**：这一切都始于他在地下室里买的第一把旧吉他。
+
+19. Jazz has had a huge influence on modern music styles.
+   > **中文**：爵士乐对现代乐坛产生了举足轻重的影响。
+
+20. What a beautiful and memorable melody that is!
+   > **中文**：那是一首多么美妙动听的旋律啊！
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| rock and roll | 摇滚乐 |
+| date back | 追溯到 |
+| in those days | 在那个年代；那时候 |
+| influential | 有影响力的 |
+| inspire | 启发；激励 |
+| songwriter | 词曲作者 |
+| soundtrack | 原声音乐；电影配乐 |
+| release | 发行；发布 |
+| rhythm | 节奏；韵律 |
+| hippie | 嬉皮士 |
+| pop culture | 流行文化 |
+| worldwide | 全世界的；遍及全球的 |
+| alternative | 另类的；非主流的 |
+| electronic | 电子的 |
+| must have | 一定（做过） |
+| in my eyes | 在我看来；在我眼中 |
+| lifetime | 一生；终生 |
+| it all | 这一切 |
+| influence | 影响 |
+| what | 多么；什么 |
 
 </quiz-matching>
 
@@ -161,102 +254,202 @@ date back（追溯到）、in those days（在那个年代）、lifetime（一�
 
 ### 1
 
-Classical piano music `____`d him to write his own songs.
+Rock and roll ____ changed pop culture in the mid-20th century.
 
-- [x] inspire
+- [x] completely
 - [ ] alternative
-- [ ] hippie
+- [ ] and had
 
-> **解析**：`inspire` 作及物动词，意为“启发、鼓舞”，常用结构 `inspire sb to do sth`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-This traditional folk instrument dates back to the seventeenth century `____`.
+This ____ folk song can date back to the 19th century.
 
-- [x] alternative
-- [ ] date back
-- [ ] in those days
+- [x] classic
+- [ ] alternative
+- [ ] and had
 
-> **解析**：`date back to...` 是固定动词短语，意为“追溯到（某时期）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The movie's `____` became immensely popular around the world.
+In those days, people ____ to vinyl records instead of digital music.
 
-- [x] soundtrack
-- [ ] date back
-- [ ] in those days
+- [x] listened
+- [ ] alternative
+- [ ] and had
 
-> **解析**：`soundtrack` 是名词，意为“（电影/电视）原声音乐带”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-That legendary rock band was extremely `____` in pop culture.
+This musician is considered one of the most ____ composers.
 
 - [x] influential
-- [ ] electronic
-- [ ] influence
+- [ ] alternative
+- [ ] and had
 
-> **解析**：`influential` 是形容词，意为“有影响力的”，修饰词为 `extremely`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The independent songwriter plans to `____` her new album next month.
+Her music continues to ____ young songwriters around the world.
 
-- [x] release
-- [ ] hippie
-- [ ] influential
+- [x] inspire
+- [ ] alternative
+- [ ] and had
 
-> **解析**：`release` 作动词，意为“发行、发布（唱片/图书等）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Dance music usually relies on a fast and steady `____`.
+The talented ____ wrote all the songs for the new movie.
 
-- [x] rhythm
-- [ ] in my eyes
-- [ ] inspire
+- [x] songwriter
+- [ ] alternative
+- [ ] and had
 
-> **解析**：`rhythm` 是名词，意为“节奏、韵律”，注意拼写 `rhythm`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Hip-hop music has become a major part of modern `____`.
+The official ____ of the movie became popular worldwide.
 
-- [x] pop culture
-- [ ] in those days
-- [ ] it all
+- [x] soundtrack
+- [ ] alternative
+- [ ] and had
 
-> **解析**：`pop culture` 是专有名词短语，意为“流行文化”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-`____`, live concert performances are much better than recorded tracks about alternative.
+The band plans to ____ their second album next month.
 
-- [x] in my eyes
-- [ ] influential
-- [ ] must have
+- [x] release
+- [ ] alternative
+- [ ] and had
 
-> **解析**：`in my eyes` 是观点表达短语，意为“在我看来/在我的眼里”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The famous singer achieved `____` fame after her debut single.
+The song has a strong ____ that makes everyone want to dance.
 
-- [x] worldwide
-- [ ] influential
-- [ ] must have
+- [x] rhythm
+- [ ] alternative
+- [ ] and had
 
-> **解析**：`worldwide` 作形容词或副词，意为“全世界的、全球范围的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-They prefer listening to alternative rock rather than mainstream pop music about `____`.
+The ____ movement had a deep effect on music in the 1960s.
 
-- [x] electronic
-- [ ] it all
-- [ ] release
+- [x] hippie
+- [ ] alternative
+- [ ] and had
 
-> **解析**：`alternative` 作形容词，意为“非传统的、另类的”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The ____ had a major impact on global pop culture.
+
+- [x] Beatles
+- [ ] alternative
+- [ ] and had
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+This beautiful song is known and loved ____.
+
+- [x] worldwide
+- [ ] alternative
+- [ ] and had
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+He prefers listening to ____ rock over mainstream pop.
+
+- [x] alternative
+- [ ] and had
+- [ ] date back
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+____ music is hugely popular in modern youth clubs.
+
+- [x] Electronic
+- [ ] alternative
+- [ ] and had
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+He must have ____ that famous song after his travels.
+
+- [x] written
+- [ ] alternative
+- [ ] and had
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+In my eyes, this is the finest piece of music of the ____.
+
+- [x] century
+- [ ] alternative
+- [ ] and had
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Winning the award was the honor of his ____ in music.
+
+- [x] lifetime
+- [ ] alternative
+- [ ] and had
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+It all started with his first old guitar bought in a ____.
+
+- [x] basement
+- [ ] alternative
+- [ ] and had
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Jazz has had a huge ____ on modern music styles.
+
+- [x] influence
+- [ ] alternative
+- [ ] and had
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+____ a beautiful and memorable melody that is!
+
+- [x] What
+- [ ] alternative
+- [ ] and had
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

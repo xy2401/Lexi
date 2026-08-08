@@ -53,43 +53,83 @@ would have / would've 是"would + have + 过去分词"的缩写形式，可以�
 
 1. **中文**：离开卧室之前，你应当关掉空调。  
    **英文**：You should turn off the air conditioner before leaving the bedroom.
-   > **解析**：air conditioner 可数名词短语，意为“空调设备”。
+   > **解析**：air conditioner 意为“空调”，在句中作动词短语 turn off 的宾语。
 
-2. **中文**：如果厨房水龙头在滴水，你应该更换橡胶垫圈。  
+2. **中文**：拿一个塑料水桶去接从天花板滴下来的水。  
+   **英文**：Grab a plastic bucket to catch the water dripping from the ceiling.
+   > **解析**：bucket 意为“水桶”，dripping from... 是现在分词短语作后置定语修饰 water。
+
+3. **中文**：把干净的餐具收进厨房的上橱柜里。  
+   **英文**：Put the clean dishes away in the upper kitchen cupboard.
+   > **解析**：cupboard 意为“橱柜；碗柜”，put away 表示“收好；放回原处”。
+
+4. **中文**：我们需要在花园里挖一个坑来立篱笆柱。  
+   **英文**：We need to dig a hole in the garden for the fence post.
+   > **解析**：dig 意为“挖；掘”，dig a hole 即“挖坑”。
+
+5. **中文**：对于复杂的电路维修，务必聘请持证电工。  
+   **英文**：Always call a licensed electrician for complex electrical repairs.
+   > **解析**：electrical 意为“电力的；电气的”，修饰名词 repairs。
+
+6. **中文**：如果厨房水龙头在滴水，你应该更换橡胶垫圈。  
    **英文**：If the kitchen faucet is dripping, you ought to replace the rubber washer.
-   > **解析**：faucet 可数名词，意为“水龙头”（美式），英式为 tap。
+   > **解析**：faucet 意为“水龙头”（美式英语），ought to 表示“应当”。
 
-3. **中文**：我们需要在走廊灯上安装一颗新 LED 电灯泡。  
-   **英文**：We need to install a new LED light bulb in the hallway lamp.
-   > **解析**：light bulb 可数名词短语，意为“电灯泡”。
+7. **中文**：入口处的走廊大约有六英尺宽，非常宽敞。  
+   **英文**：The entrance hallway is about six feet wide and very spacious.
+   > **解析**：feet wide 意为“英尺宽”，用于描述建筑或物品的宽度尺寸。
 
-4. **中文**：把干净的陶瓷碗碟收进厨房的上碗柜里。  
-   **英文**：Put the clean ceramic dishes away in the upper kitchen cupboard.
-   > **解析**：cupboard 可数名词，意为“橱柜；碗柜”，发音为 /ˈkʌbərd/。
+8. **中文**：仔细测量空间，确保新冰箱能够放得下。  
+   **英文**：Measure the space carefully to make sure the new refrigerator will fit.
+   > **解析**：fit 意为“合适；装得下”，在此作不及物动词。
 
-5. **中文**：往塑料水桶里倒满温水来拖厨房地板。  
-   **英文**：Fill the plastic bucket with warm water to mop the kitchen floor.
-   > **解析**：bucket 可数名词，意为“水桶；提桶”。
+9. **中文**：他挑选了一个坚固的木制相框来挂全家福。  
+   **英文**：He selected a sturdy wooden frame to hang the family photo.
+   > **解析**：frame 意为“框架；相框”，wooden 为形容词“木制的”。
 
-6. **中文**：对于家中严重的电路维修，务必请有资质的专业人士。  
-   **英文**：Always call a certified professional for serious electrical repairs at home.
-   > **解析**：electrical 形容词，意为“电力的；电气的”，修饰名词 repairs。
+10. **中文**：在修理管道炉灶之前，你必须切断燃气供应。  
+    **英文**：You must turn off the gas supply before fixing the stove.
+    > **解析**：gas 意为“燃气；气体”，gas supply 指“燃气供应”。
 
-7. **中文**：他用坚固的木质相框把全家福挂在墙上。  
-   **英文**：He used a sturdy wooden frame to hang the family picture on the wall.
-   > **解析**：frame 可数名词，意为“框架；相框”。
+11. **中文**：如果当时我有梯子，我本来会自己安装灯具的。  
+    **英文**：I would have installed the light fixture myself if I had a ladder.
+    > **解析**：i would have 表示“我本来会……”，用于与过去事实相反的虚拟语气。
 
-8. **中文**：水槽下方漏水的水管造成了厨房轻微积水。  
-   **英文**：A leaking water pipe under the sink caused minor flooding in the kitchen.
-   > **解析**：pipe 可数名词，在此指“水管；管道”。
+12. **中文**：这张木板只有三英寸宽，对于搁板来说太窄了。  
+    **英文**：This wooden board is only three inches wide, which is too narrow for a shelf.
+    > **解析**：inches wide 意为“英寸宽”，which 引导非限制性定语从句。
 
-9. **中文**：如果我有合适的工具，我早就会把损坏的书架修好了。  
-   **英文**：I would have repaired the broken shelf earlier if I had the right tools.
-   > **解析**：would have 用于虚拟语气，结构为 would have done，表示与过去事实相反的假想。
+13. **中文**：我们需要在走廊灯上安装一颗新的电灯泡。  
+    **英文**：We need to install a new light bulb in the hallway lamp.
+    > **解析**：light bulb 意为“电灯泡”，install 意为“安装”。
 
-10. **中文**：你可以在后院花园里挖一个小坑来栽种花球茎。  
-   **英文**：You can dig a small hole in the backyard garden to plant the flower bulbs.
-   > **解析**：dig 及物/不及物动词，意为“挖；掘”。
+14. **中文**：水槽下方漏水的水管造成了厨房轻微积水。  
+    **英文**：A leaking water pipe under the sink caused minor flooding in the kitchen.
+    > **解析**：pipe 意为“管道；水管”，water pipe 即“水管”。
+
+15. **中文**：这根金属梁足够长，可以支撑客厅的大屋顶。  
+    **英文**：This metal beam is long enough to support the living room roof.
+    > **解析**：metal 意为“金属”，long 为形容词“长的”，long enough 意为“足够长”。
+
+16. **中文**：客厅角落里的那盏落地灯有多高？  
+    **英文**：How tall is the floor lamp in the living room corner?
+    > **解析**：tall 意为“高的”，用于询问物品或人的高度。
+
+17. **中文**：修好漏水点后，你需要清理墙壁上的水渍。  
+    **英文**：You need to clean the water stains on the wall after fixing the leak.
+    > **解析**：water 意为“水”，water stains 指“水渍”。
+
+18. **中文**：如果她早点知道水管破裂，她本来会关掉主阀门的。  
+    **英文**：She would have shut off the main valve if she had known about the burst pipe earlier.
+    > **解析**：would have 表示“本来会……”，shut off 表示“关闭（阀门/开关）”。
+
+19. **中文**：如果水管堵塞了，她本来会打电话给水管工吗？  
+    **英文**：Would she have called a plumber if the pipe had been clogged?
+    > **解析**：would she have 用于疑问句中的虚拟推测，“她当时会……吗？”。
+
+20. **中文**：如果你在地下室发现湿气，你会怎么办？  
+    **英文**：What would you have done if you found moisture in the basement?
+    > **解析**：would you have 用于询问过去假设情况下的行动，“你当时会怎么做？”。
 
 </quiz-sentence-builder>
 
@@ -98,36 +138,89 @@ would have / would've 是"would + have + 过去分词"的缩写形式，可以�
 1. You should turn off the air conditioner before leaving the bedroom.
    > **中文**：离开卧室之前，你应当关掉空调。
 
-2. If the kitchen faucet is dripping, you ought to replace the rubber washer.
+2. Grab a plastic bucket to catch the water dripping from the ceiling.
+   > **中文**：拿一个塑料水桶去接从天花板滴下来的水。
+
+3. Put the clean dishes away in the upper kitchen cupboard.
+   > **中文**：把干净的餐具收进厨房的上橱柜里。
+
+4. We need to dig a hole in the garden for the fence post.
+   > **中文**：我们需要在花园里挖一个坑来立篱笆柱。
+
+5. Always call a licensed electrician for complex electrical repairs.
+   > **中文**：对于复杂的电路维修，务必聘请持证电工。
+
+6. If the kitchen faucet is dripping, you ought to replace the rubber washer.
    > **中文**：如果厨房水龙头在滴水，你应该更换橡胶垫圈。
 
-3. We need to install a new LED light bulb in the hallway lamp.
-   > **中文**：我们需要在走廊灯上安装一颗新 LED 电灯泡。
+7. The entrance hallway is about six feet wide and very spacious.
+   > **中文**：入口处的走廊大约有六英尺宽，非常宽敞。
 
-4. Put the clean ceramic dishes away in the upper kitchen cupboard.
-   > **中文**：把干净的陶瓷碗碟收进厨房的上碗柜里。
+8. Measure the space carefully to make sure the new refrigerator will fit.
+   > **中文**：仔细测量空间，确保新冰箱能够放得下。
 
-5. Fill the plastic bucket with warm water to mop the kitchen floor.
-   > **中文**：往塑料水桶里倒满温水来拖厨房地板。
+9. He selected a sturdy wooden frame to hang the family photo.
+   > **中文**：他挑选了一个坚固的木制相框来挂全家福。
 
-6. Always call a certified professional for serious electrical repairs at home.
-   > **中文**：对于家中严重的电路维修，务必请有资质的专业人士。
+10. You must turn off the gas supply before fixing the stove.
+   > **中文**：在修理管道炉灶之前，你必须切断燃气供应。
 
-7. He used a sturdy wooden frame to hang the family picture on the wall.
-   > **中文**：他用坚固的木质相框把全家福挂在墙上。
+11. I would have installed the light fixture myself if I had a ladder.
+   > **中文**：如果当时我有梯子，我本来会自己安装灯具的。
 
-8. A leaking water pipe under the sink caused minor flooding in the kitchen.
+12. This wooden board is only three inches wide, which is too narrow for a shelf.
+   > **中文**：这张木板只有三英寸宽，对于搁板来说太窄了。
+
+13. We need to install a new light bulb in the hallway lamp.
+   > **中文**：我们需要在走廊灯上安装一颗新的电灯泡。
+
+14. A leaking water pipe under the sink caused minor flooding in the kitchen.
    > **中文**：水槽下方漏水的水管造成了厨房轻微积水。
 
-9. I would have repaired the broken shelf earlier if I had the right tools.
-   > **中文**：如果我有合适的工具，我早就会把损坏的书架修好了。
+15. This metal beam is long enough to support the living room roof.
+   > **中文**：这根金属梁足够长，可以支撑客厅的大屋顶。
 
-10. You can dig a small hole in the backyard garden to plant the flower bulbs.
-   > **中文**：你可以在后院花园里挖一个小坑来栽种花球茎。
+16. How tall is the floor lamp in the living room corner?
+   > **中文**：客厅角落里的那盏落地灯有多高？
+
+17. You need to clean the water stains on the wall after fixing the leak.
+   > **中文**：修好漏水点后，你需要清理墙壁上的水渍。
+
+18. She would have shut off the main valve if she had known about the burst pipe earlier.
+   > **中文**：如果她早点知道水管破裂，她本来会关掉主阀门的。
+
+19. Would she have called a plumber if the pipe had been clogged?
+   > **中文**：如果水管堵塞了，她本来会打电话给水管工吗？
+
+20. What would you have done if you found moisture in the basement?
+   > **中文**：如果你在地下室发现湿气，你会怎么办？
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| `air conditioner` | 空调 |
+| `bucket` | 水桶 |
+| `cupboard` | 橱柜；碗柜 |
+| `dig` | 挖；掘 |
+| `electrical` | 电力的；电气的 |
+| `faucet` | 水龙头 |
+| `feet wide` | 英尺宽 |
+| `fit` | 合适；装得下 |
+| `frame` | 框架；相框 |
+| `gas` | 燃气；气体 |
+| `i would have` | 我本来会 |
+| `inches wide` | 英寸宽 |
+| `light bulb` | 电灯泡 |
+| `long` | 长的 |
+| `metal` | 金属 |
+| `pipe` | 管道；水管 |
+| `tall` | 高的 |
+| `water` | 水 |
+| `would have` | 本来会 |
+| `would she have` | 她本来会吗 |
 
 </quiz-matching>
 
@@ -135,102 +228,202 @@ would have / would've 是"would + have + 过去分词"的缩写形式，可以�
 
 ### 1
 
-You should turn off the `____` before leaving the bedroom.
+You should turn off the air ____ before leaving the bedroom.
 
-- [x] air conditioner
+- [x] conditioner
+- [ ] air conditioner
 - [ ] bucket
-- [ ] faucet
 
-> **解析**：air conditioner 可数名词短语，意为“空调设备”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-If the kitchen `____` is dripping, you ought to replace the rubber washer.
+Grab a plastic ____ to catch the water dripping from the ceiling.
 
-- [x] faucet
-- [ ] bucket
-- [ ] feet wide
+- [x] bucket
+- [ ] air conditioner
+- [ ] cupboard
 
-> **解析**：faucet 可数名词，意为“水龙头”（美式），英式为 tap。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-We need to install a new LED `____` in the hallway lamp.
+Put the clean dishes away in the upper kitchen ____.
 
-- [x] light bulb
-- [ ] cupboard
-- [ ] feet wide
+- [x] cupboard
+- [ ] air conditioner
+- [ ] bucket
 
-> **解析**：light bulb 可数名词短语，意为“电灯泡”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Put the clean ceramic dishes away in the upper kitchen `____`.
+We need to ____ a hole in the garden for the fence post.
 
-- [x] cupboard
-- [ ] electrical
-- [ ] frame
+- [x] dig
+- [ ] air conditioner
+- [ ] bucket
 
-> **解析**：cupboard 可数名词，意为“橱柜；碗柜”，发音为 /ˈkʌbərd/。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Fill the plastic `____` with warm water to mop the kitchen floor.
+Always call a licensed electrician for complex ____ repairs.
 
-- [x] bucket
-- [ ] faucet
-- [ ] gas
+- [x] electrical
+- [ ] air conditioner
+- [ ] bucket
 
-> **解析**：bucket 可数名词，意为“水桶；提桶”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Always call a certified professional for serious `____` repairs at home.
+If the kitchen ____ is dripping, you ought to replace the rubber washer.
 
-- [x] electrical
-- [ ] feet wide
-- [ ] i would have
+- [x] faucet
+- [ ] air conditioner
+- [ ] bucket
 
-> **解析**：electrical 形容词，意为“电力的；电气的”，修饰名词 repairs。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-He used a sturdy wooden `____` to hang the family picture on the wall.
+The ____ hallway is about six feet wide and very spacious.
 
-- [x] frame
-- [ ] feet wide
-- [ ] inches wide
+- [x] entrance
+- [ ] air conditioner
+- [ ] bucket
 
-> **解析**：frame 可数名词，意为“框架；相框”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-A leaking water `____` under the sink caused minor flooding in the kitchen.
+Measure the space carefully to make sure the new refrigerator will ____.
 
-- [x] pipe
-- [ ] fit
-- [ ] inches wide
+- [x] fit
+- [ ] air conditioner
+- [ ] bucket
 
-> **解析**：pipe 可数名词，在此指“水管；管道”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-`____` repaired the broken shelf earlier if I had the right tools.
+He selected a sturdy wooden ____ to hang the family photo.
 
-- [x] i would have
-- [ ] frame
-- [ ] long
+- [x] frame
+- [ ] air conditioner
+- [ ] bucket
 
-> **解析**：would have 用于虚拟语气，结构为 would have done，表示与过去事实相反的假想。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-You can `____` a small hole in the backyard garden to plant the flower bulbs.
+You must turn off the ____ supply before fixing the stove.
 
-- [x] dig
-- [ ] i would have
-- [ ] metal
+- [x] gas
+- [ ] air conditioner
+- [ ] bucket
 
-> **解析**：dig 及物/不及物动词，意为“挖；掘”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+I would have ____ the light fixture myself if I had a ladder.
+
+- [x] installed
+- [ ] air conditioner
+- [ ] bucket
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+This ____ board is only three inches wide, which is too narrow for a shelf.
+
+- [x] wooden
+- [ ] air conditioner
+- [ ] bucket
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+We need to ____ a new light bulb in the hallway lamp.
+
+- [x] install
+- [ ] air conditioner
+- [ ] bucket
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+A leaking ____ pipe under the sink caused minor flooding in the kitchen.
+
+- [x] water
+- [ ] air conditioner
+- [ ] bucket
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+This ____ beam is long enough to support the living room roof.
+
+- [x] metal
+- [ ] air conditioner
+- [ ] bucket
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+How ____ is the floor lamp in the living room corner?
+
+- [x] tall
+- [ ] air conditioner
+- [ ] bucket
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+You need to clean the ____ stains on the wall after fixing the leak.
+
+- [x] water
+- [ ] air conditioner
+- [ ] bucket
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+She would have shut off the main valve if she had known about the burst ____ earlier.
+
+- [x] pipe
+- [ ] air conditioner
+- [ ] bucket
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Would she have called a plumber if the ____ had been clogged?
+
+- [x] pipe
+- [ ] air conditioner
+- [ ] bucket
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+What would you have done if you found ____ in the basement?
+
+- [x] moisture
+- [ ] air conditioner
+- [ ] bucket
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

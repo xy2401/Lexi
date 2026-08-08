@@ -79,83 +79,176 @@ had been 是过去完成进行时，用来讲"在那之前一直在做什么"，
 
 <quiz-sentence-builder>
 
-1. **中文**：当地人相信山上那座废弃的房子闹鬼。  
-   **英文**：Locals believe the abandoned house on the hill is haunted.
-   > **解析**：`haunted` 是形容词，意为“闹鬼的、有鬼魂出没的”，在句中作表语。
+1. **中文**：传说山顶上那栋废弃的老房子是闹鬼的。
+   **英文**：Legend has it that the abandoned house on the hill is haunted.
+   > **解析**：haunted 表示闹鬼的；abandon 表示废弃。
 
-2. **中文**：一股奇特的冷风吹过了锁着的房间。  
-   **英文**：A peculiar cold breeze blew through the locked room.
-   > **解析**：`peculiar` 是形容词，意为“奇特的、古怪的”，作前置定语修饰 `breeze`。
+2. **中文**：我们在大门前犹豫，不确定屋内是否有幽灵存在。
+   **英文**：We stood at the entrance, wondering if a ghost or spirit lived inside.
+   > **解析**：spirit 表示幽灵、灵魂。
 
-3. **中文**：当听到身后沉重的脚步声时，我吓得僵住了。  
-   **英文**：I froze in terror when I heard heavy footsteps behind me.
-   > **解析**：`footstep` 是名词，常用复数 `footsteps` 表示脚步声。
+3. **中文**：探险者在破旧的地下室角落发现了一具骨架。
+   **英文**：The explorer found a skeleton in the corner of the cellar.
+   > **解析**：skeleton 表示骨架、白骨。
 
-4. **中文**：在黑暗的走廊里，她有一种被窥视的奇怪感觉。  
-   **英文**：She felt a strange sensation of being watched in the dark corridor.
-   > **解析**：`sensation` 是名词，意为“感觉、感知”，短语 `a sensation of...`。
+4. **中文**：寂静的走廊里突然传来了清晰的脚步声。
+   **英文**：Heavy footsteps echoed clearly down the empty corridor.
+   > **解析**：footsteps 表示脚步声。
 
-5. **中文**：他试图保持镇静，但当灯光闪烁熄灭时，恐慌占据了上风。  
-   **英文**：He tried to stay calm, but panic took over when the lights flickered out.
-   > **解析**：`panic` 是名词，意为“恐慌”，`panic took over` 表示恐慌占据主导。
+5. **中文**：我打开手电筒，照亮了那条狭窄而曲折的走廊。
+   **英文**：I turned on my flashlight to illuminate the narrow, winding hallway.
+   > **解析**：flashlight 表示手电筒；winding 表示曲折的、盘旋的。
 
-6. **中文**：他打开手电筒检查黑暗的地下室。  
-   **英文**：He turned on his flashlight to inspect the dark basement.
-   > **解析**：`flashlight` 是名词，意为“手电筒”，动词搭配 `turn on a flashlight`。
+6. **中文**：突然一阵寒意袭来，给人一种古怪的感觉。
+   **英文**：A sudden chill gave everyone a peculiar sensation on their back.
+   > **解析**：peculiar 表示古怪的；sensation 表示感觉。
 
-7. **中文**：他们试图打开卡住的门，但徒劳无功。  
-   **英文**：They tried to open the jammed door, but it was no use.
-   > **解析**：`it was no use` 是固定表达，意为“徒劳无功、没有用”。
+7. **中文**：这栋屋子由于多年无人居住，屋顶正逐渐破败。
+   **英文**：The old wooden cabin has begun to fall apart over the decades.
+   > **解析**：fall apart 表示破败、坍塌。
 
-8. **中文**：感觉到危险后，他们决定立刻朝出口走去。  
-   **英文**：Sensing danger, they decided to make for the exit immediately.
-   > **解析**：`make for` 是短语动词，意为“朝……走去、前往”，后接目的地名词。
+8. **中文**：当黑影出现时，门锁卡住了，大家陷入了恐慌。
+   **英文**：Everyone began to panic when the front door unexpectedly locked itself.
+   > **解析**：panic 表示恐慌、惊慌。
 
-9. **中文**：惨剧发生后，这座老宅在几十年前就被废弃了。  
-   **英文**：The old mansion was abandoned decades ago after the tragic event about by.
-   > **解析**：`abandon` 此处用被动语态 `was abandoned`，意为“被废弃”。
+9. **中文**：我们小心翼翼地沿着狭窄的通道向前爬行。
+   **英文**：We had to crawl through a very tight stone passage in the dark.
+   > **解析**：crawl 表示爬行；tight 表示狭窄的。
 
-10. **中文**：根据传说，一个善意的灵魂保佑着这个村庄。  
-   **英文**：According to the story, a benevolent spirit protects the village.
-   > **解析**：`spirit` 是名词，意为“灵魂、鬼魂”，形容词 `benevolent` 修饰它。
+10. **中文**：看到怪异的景象后，大家拔腿朝出口奔去。
+   **英文**：Terrified by the shadow, they began to make for the exit quickly.
+   > **解析**：make for 表示朝……走去/奔去。
+
+11. **中文**：我们试图强行撬开那扇铁门，但发现一切都是徒劳。
+   **英文**：We tried to push the rusty door open, but it was no use.
+   > **解析**：it was no use 表示当时一切都是徒劳。
+
+12. **中文**：你应该明白事理，大半夜不要独自进入那栋古宅。
+   **英文**：You should know better than to enter a dark old house alone at night.
+   > **解析**：know better 表示明白事理、不至于做出蠢事。
+
+13. **中文**：在行动前，我们需要仔细考虑潜在的危险。
+   **英文**：We ought to think through the risk before investigating the attic.
+   > **解析**：think through 表示仔细考虑。
+
+14. **中文**：呼啸的寒风顺着古老的大烟囱吹进房间。
+   **英文**：Cold wind whistled loudly as it blew down the old chimney.
+   > **解析**：chimney 表示烟囱。
+
+15. **中文**：被困在迷宫里的探险队急于找到出路逃离。
+   **英文**：The trapped team was desperate to find a way to get away safely.
+   > **解析**：get away 表示逃离、逃脱。
+
+16. **中文**：在手电筒熄灭前，我们已经在古宅里搜寻了一小时。
+   **英文**：We had been searching the house for an hour before lights went off.
+   > **解析**：had been 用于过去完成进行时，表示过去的持续动作。
+
+17. **中文**：那家屋主在几十年前就废弃了这栋大宅。
+   **英文**：The owner decided to abandon the property many years ago.
+   > **解析**：abandon 表示废弃。
+
+18. **中文**：寒风吹过树枝，发出奇特的怪声音。
+   **英文**：Wind blowing through branches made a peculiar whistling noise.
+   > **解析**：peculiar 表示奇特的、古怪的。
+
+19. **中文**：狭窄的旧台阶随着脚步骤降发出嘎吱声。
+   **英文**：The wooden stairs were very tight and creaked with every step.
+   > **解析**：tight 表示狭窄的、紧密的。
+
+20. **中文**：穿过盘旋的楼梯后，我们终于来到了楼顶。
+   **英文**：After climbing the winding staircase, we reached the top floor.
+   > **解析**：winding 表示盘旋的、曲折的。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Locals believe the abandoned house on the hill is haunted.
-   > **中文**：当地人相信山上那座废弃的房子闹鬼。
+1. Legend has it that the abandoned house on the hill is haunted.
+   > **中文**：传说山顶上那栋废弃的老房子是闹鬼的。
 
-2. A peculiar cold breeze blew through the locked room.
-   > **中文**：一股奇特的冷风吹过了锁着的房间。
+2. We stood at the entrance, wondering if a ghost or spirit lived inside.
+   > **中文**：我们在大门前犹豫，不确定屋内是否有幽灵存在。
 
-3. I froze in terror when I heard heavy footsteps behind me.
-   > **中文**：当听到身后沉重的脚步声时，我吓得僵住了。
+3. The explorer found a skeleton in the corner of the cellar.
+   > **中文**：探险者在破旧的地下室角落发现了一具骨架。
 
-4. She felt a strange sensation of being watched in the dark corridor.
-   > **中文**：在黑暗的走廊里，她有一种被窥视的奇怪感觉。
+4. Heavy footsteps echoed clearly down the empty corridor.
+   > **中文**：寂静的走廊里突然传来了清晰的脚步声。
 
-5. He tried to stay calm, but panic took over when the lights flickered out.
-   > **中文**：他试图保持镇静，但当灯光闪烁熄灭时，恐慌占据了上风。
+5. I turned on my flashlight to illuminate the narrow, winding hallway.
+   > **中文**：我打开手电筒，照亮了那条狭窄而曲折的走廊。
 
-6. He turned on his flashlight to inspect the dark basement.
-   > **中文**：他打开手电筒检查黑暗的地下室。
+6. A sudden chill gave everyone a peculiar sensation on their back.
+   > **中文**：突然一阵寒意袭来，给人一种古怪的感觉。
 
-7. They tried to open the jammed door, but it was no use.
-   > **中文**：他们试图打开卡住的门，但徒劳无功。
+7. The old wooden cabin has begun to fall apart over the decades.
+   > **中文**：这栋屋子由于多年无人居住，屋顶正逐渐破败。
 
-8. Sensing danger, they decided to make for the exit immediately.
-   > **中文**：感觉到危险后，他们决定立刻朝出口走去。
+8. Everyone began to panic when the front door unexpectedly locked itself.
+   > **中文**：当黑影出现时，门锁卡住了，大家陷入了恐慌。
 
-9. The old mansion was abandoned decades ago after the tragic event about by.
-   > **中文**：惨剧发生后，这座老宅在几十年前就被废弃了。
+9. We had to crawl through a very tight stone passage in the dark.
+   > **中文**：我们小心翼翼地沿着狭窄的通道向前爬行。
 
-10. According to the story, a benevolent spirit protects the village.
-   > **中文**：根据传说，一个善意的灵魂保佑着这个村庄。
+10. Terrified by the shadow, they began to make for the exit quickly.
+   > **中文**：看到怪异的景象后，大家拔腿朝出口奔去。
+
+11. We tried to push the rusty door open, but it was no use.
+   > **中文**：我们试图强行撬开那扇铁门，但发现一切都是徒劳。
+
+12. You should know better than to enter a dark old house alone at night.
+   > **中文**：你应该明白事理，大半夜不要独自进入那栋古宅。
+
+13. We ought to think through the risk before investigating the attic.
+   > **中文**：在行动前，我们需要仔细考虑潜在的危险。
+
+14. Cold wind whistled loudly as it blew down the old chimney.
+   > **中文**：呼啸的寒风顺着古老的大烟囱吹进房间。
+
+15. The trapped team was desperate to find a way to get away safely.
+   > **中文**：被困在迷宫里的探险队急于找到出路逃离。
+
+16. We had been searching the house for an hour before lights went off.
+   > **中文**：在手电筒熄灭前，我们已经在古宅里搜寻了一小时。
+
+17. The owner decided to abandon the property many years ago.
+   > **中文**：那家屋主在几十年前就废弃了这栋大宅。
+
+18. Wind blowing through branches made a peculiar whistling noise.
+   > **中文**：寒风吹过树枝，发出奇特的怪声音。
+
+19. The wooden stairs were very tight and creaked with every step.
+   > **中文**：狭窄的旧台阶随着脚步骤降发出嘎吱声。
+
+20. After climbing the winding staircase, we reached the top floor.
+   > **中文**：穿过盘旋的楼梯后，我们终于来到了楼顶。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| haunted | 闹鬼的 |
+| spirit | 幽灵；精神 |
+| skeleton | 白骨；骨架 |
+| chimney | 烟囱 |
+| footstep | 脚步声；脚印 |
+| flashlight | 手电筒 |
+| sensation | 感觉；轰动 |
+| peculiar | 古怪的；奇特的 |
+| abandon | 废弃；放弃 |
+| fall apart | 破败；坍塌 |
+| crawl | 爬行；缓慢爬动 |
+| make for | 朝……走去 |
+| get away | 逃跑；逃离 |
+| panic | 恐慌；惊慌 |
+| winding | 盘旋的；曲折的 |
+| tight | 狭窄的；紧的 |
+| know better | 明白事理；不至于那么傻 |
+| it was no use | （当时）徒劳无功；没用 |
+| think through | 仔细考虑 |
+| had been | （过去完成进行时/过去完成时助动词） |
 
 </quiz-matching>
 
@@ -163,102 +256,202 @@ had been 是过去完成进行时，用来讲"在那之前一直在做什么"，
 
 ### 1
 
-Locals believe the `____`ed house on the hill is haunted.
+Legend has it that the abandoned house on the hill is ____.
 
-- [x] abandon
+- [x] haunted
+- [ ] abandon
 - [ ] by
-- [ ] flashlight
 
-> **解析**：`haunted` 是形容词，意为“闹鬼的、有鬼魂出没的”，在句中作表语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-A `____` cold breeze blew through the locked room.
+We stood at the entrance, wondering if a ghost or ____ lived inside.
 
-- [x] peculiar
+- [x] spirit
+- [ ] abandon
 - [ ] by
-- [ ] flashlight
 
-> **解析**：`peculiar` 是形容词，意为“奇特的、古怪的”，作前置定语修饰 `breeze`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-I froze in terror when I heard heavy `____`s behind me.
+The explorer found a ____ in the corner of the cellar.
 
-- [x] footstep
-- [ ] chimney
-- [ ] get away
+- [x] skeleton
+- [ ] abandon
+- [ ] by
 
-> **解析**：`footstep` 是名词，常用复数 `footsteps` 表示脚步声。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-She felt a strange `____` of being watched in the dark corridor.
+Heavy ____ echoed clearly down the empty corridor.
 
-- [x] sensation
-- [ ] crawl
-- [ ] get away
+- [x] footsteps
+- [ ] abandon
+- [ ] by
 
-> **解析**：`sensation` 是名词，意为“感觉、感知”，短语 `a sensation of...`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-He tried to stay calm, but `____` took over when the lights flickered out.
+I turned on my ____ to illuminate the narrow, winding hallway.
 
-- [x] panic
-- [ ] fall apart
-- [ ] had
+- [x] flashlight
+- [ ] abandon
+- [ ] by
 
-> **解析**：`panic` 是名词，意为“恐慌”，`panic took over` 表示恐慌占据主导。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-He turned on his `____` to inspect the dark basement.
+A sudden chill gave everyone a ____ sensation on their back.
 
-- [x] flashlight
-- [ ] footstep
-- [ ] haunted
+- [x] peculiar
+- [ ] abandon
+- [ ] by
 
-> **解析**：`flashlight` 是名词，意为“手电筒”，动词搭配 `turn on a flashlight`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-They tried to open the jammed door, but `____`.
+The old wooden cabin has begun to fall apart over the ____.
 
-- [x] it was no use
-- [ ] footstep
-- [ ] haunted
+- [x] decades
+- [ ] abandon
+- [ ] by
 
-> **解析**：`it was no use` 是固定表达，意为“徒劳无功、没有用”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Sensing danger, they decided to `____` the exit immediately.
+Everyone began to ____ when the front door unexpectedly locked itself.
 
-- [x] make for
-- [ ] get away
-- [ ] it was no use
+- [x] panic
+- [ ] abandon
+- [ ] by
 
-> **解析**：`make for` 是短语动词，意为“朝……走去、前往”，后接目的地名词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The old mansion was abandoned decades ago after the tragic event about `____`.
+We ____ to crawl through a very tight stone passage in the dark.
 
-- [x] by
-- [ ] had been
-- [ ] make for
+- [x] had
+- [ ] abandon
+- [ ] by
 
-> **解析**：`abandon` 此处用被动语态 `was abandoned`，意为“被废弃”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-According to the story, a benevolent `____` protects the village.
+Terrified ____ the shadow, they began to make for the exit quickly.
 
-- [x] spirit
-- [ ] had been
-- [ ] make for
+- [x] by
+- [ ] abandon
+- [ ] chimney
 
-> **解析**：`spirit` 是名词，意为“灵魂、鬼魂”，形容词 `benevolent` 修饰它。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+We ____ to push the rusty door open, but it was no use.
+
+- [x] tried
+- [ ] abandon
+- [ ] by
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+You ____ know better than to enter a dark old house alone at night.
+
+- [x] should
+- [ ] abandon
+- [ ] by
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+We ought to think through the risk before ____ the attic.
+
+- [x] investigating
+- [ ] abandon
+- [ ] by
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Cold wind whistled loudly as it blew down the old ____.
+
+- [x] chimney
+- [ ] abandon
+- [ ] by
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The trapped team was ____ to find a way to get away safely.
+
+- [x] desperate
+- [ ] abandon
+- [ ] by
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+We ____ been searching the house for an hour before lights went off.
+
+- [x] had
+- [ ] abandon
+- [ ] by
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The owner decided to ____ the property many years ago.
+
+- [x] abandon
+- [ ] by
+- [ ] chimney
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Wind blowing through branches made a ____ whistling noise.
+
+- [x] peculiar
+- [ ] abandon
+- [ ] by
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The wooden stairs were very ____ and creaked with every step.
+
+- [x] tight
+- [ ] abandon
+- [ ] by
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+After climbing the ____ staircase, we reached the top floor.
+
+- [x] winding
+- [ ] abandon
+- [ ] by
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

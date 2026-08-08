@@ -79,83 +79,176 @@ not only... but also... / neither... nor... / both... and... 是三组并列连�
 
 <quiz-sentence-builder>
 
-1. **中文**：每天早上喝这种新鲜果汁会提升你一天的活力水平。  
-   **英文**：Drinking this fresh juice every morning will boost your daily energy level.
-   > **解析**：`boost` 作及物动词，意为“提升、增加、促进”，宾语为 `energy level`。
+1. **中文**：这款饮品不仅提升你的精力，还能增强你的信心。
+   **英文**：This drink not only boosts your energy, but also raises your confidence.
+   > **解析**：not only... but also... 意为不仅……而且……
 
-2. **中文**：这款新的健身应用程序帮助忙碌的职场人士在家轻松塑造好身材。  
-   **英文**：This new fitness app helps busy professionals get in shape easily at home.
-   > **解析**：`get in shape` 是固定短语，意为“保持强健体魄、塑造好身材”。
+2. **中文**：这款床垫既没有人工香精成分，也不含有害化学物。
+   **英文**：This mattress contains neither artificial ingredients nor harmful chemicals.
+   > **解析**：neither... nor... 意为既不……也不……
 
-3. **中文**：使用这款天然护肤品让她在公众场合更有自信。  
-   **英文**：Using this natural skincare product gave her more confidence in public.
-   > **解析**：`confidence` 是不可数名词，意为“自信心”，与动词 `give` 搭配。
+3. **中文**：这款跑步鞋既美观又实用。
+   **英文**：Running shoes can be both stylish and functional.
+   > **解析**：both... and... 意为两者都……
 
-4. **中文**：您今天可以在线购买这款多功能搅拌机，享受八折优惠。  
-   **英文**：You can purchase this multi-functional blender online with a 20% discount today.
-   > **解析**：`purchase` 是动词，意为“购买”，比 `buy` 更正规商业化。
+4. **中文**：每天使用这款器材能显著提升你的体能。
+   **英文**：Daily use of this equipment will boost your physical fitness.
+   > **解析**：boost 意为提升、增强。
 
-5. **中文**：这款吸尘器不仅吸力强劲，而且极其安静。  
-   **英文**：Not only is this vacuum cleaner powerful, but it is also extremely quiet.
-   > **解析**：`Not only is...` 句首倒装结构：当 `Not only` 置于句首时，主句系动词倒装。
+5. **中文**：我们的健身课程能帮你快速恢复好身材。
+   **英文**：Our workout program helps you get in shape quickly.
+   > **解析**：get in shape 意为塑形、恢复好身材。
 
-6. **中文**：这款有机零食不含任何人工风味或防腐剂。  
-   **英文**：This organic snack contains no artificial flavors or preservatives.
-   > **解析**：`artificial` 是形容词，意为“人工的、人造的”，修饰名词 `flavors`。
+6. **中文**：我们设计了一款功能性强且价格实惠的家居产品。
+   **英文**：We designed a highly functional home product at an affordable price.
+   > **解析**：functional 意为功能性的、实用的。
 
-7. **中文**：您现在就应该下单；否则，折扣优惠很快就会到期。  
-   **英文**：You should order now; otherwise, the discount offer will expire soon.
-   > **解析**：`otherwise` 是副词/连词，意为“否则、要不然”，引导后果。
+7. **中文**：现在购买该产品即可享受半价超级优惠。
+   **英文**：Purchase this item now to get a half-price discount.
+   > **解析**：purchase 意为购买。
 
-8. **中文**：这款家具的设计既时尚又高度实用。  
-   **英文**：The design of this furniture is both stylish and highly functional.
-   > **解析**：`functional` 是形容词，意为“实用的、功能性的”，在系动词后作表语。
+8. **中文**：请今天订购，否则你将错过本年度最大的折扣。
+   **英文**：Order today; otherwise, you will miss the biggest discount of the year.
+   > **解析**：otherwise 意为否则、要不然。
 
-9. **中文**：我们的产品既不使用误导性承诺，也不使用劣质材料。  
-   **英文**：Neither misleading promises nor low-quality materials are used in our products.
-   > **解析**：`neither... nor...` 意为“既不……也不……”，连接并列主语。
+9. **中文**：我们的产品只含有天然植物成分，绝无人工添加。
+   **英文**：Our product has zero artificial flavors or synthetic preservatives.
+   > **解析**：artificial 意为人工的、人造的。
 
-10. **中文**：这款新手机的卓越品质一定会给消费者留下深刻印象。  
-   **英文**：The outstanding quality of the new phone will certainly impress consumers.
-   > **解析**：`impress` 作及物动词，意为“给……留下深刻印象”，宾语为 `consumers`。
+10. **中文**：穿着优雅的礼服会给你带来满满的自信。
+   **英文**：Wearing an elegant dress will give you immense confidence.
+   > **解析**：confidence 意为信心、自信。
+
+11. **中文**：这款发明为创业团队赢得了巨大的财富。
+   **英文**：This new invention made a small fortune for the startup team.
+   > **解析**：fortune 意为财富。
+
+12. **中文**：许多富有的客户青睐我们高级定制的产品服务。
+   **英文**：Many wealthy clients prefer our customized product services.
+   > **解析**：wealthy 意为富有的。
+
+13. **中文**：这款出色的智能手表一定会打动你的亲朋好友。
+   **英文**：This amazing smartwatch will definitely impress your friends.
+   > **解析**：impress 意为给……留下深刻印象。
+
+14. **中文**：世界上没有什么能一夜解决问题的神奇药丸。
+   **英文**：There is no magic pill that solves health problems overnight.
+   > **解析**：magic 意为神奇的、魔法的。
+
+15. **中文**：喝一杯健康蔬果汁能带给你充沛的精力。
+   **英文**：A glass of fresh juice will give you plenty of energy.
+   > **解析**：energy 意为精力、能量。
+
+16. **中文**：这款耳塞能有效解决晚上打鼾引起的噪音。
+   **英文**：These earplugs help reduce noise when people snore.
+   > **解析**：snore 意为打鼾。
+
+17. **中文**：该款修甲工具能轻松修剪厚硬的脚趾甲。
+   **英文**：This grooming tool helps trim thick toenails easily.
+   > **解析**：toenail 意为脚趾甲。
+
+18. **中文**：使用这款精准的数字温度计测量体温。
+   **英文**：Check your body temperature using this digital thermometer.
+   > **解析**：thermometer 意为温度计。
+
+19. **中文**：这款除臭喷雾能有效去除发臭鞋子的异味。
+   **英文**：This spray removes bad odors from smelly shoes.
+   > **解析**：smelly 意为发臭的、有异味的。
+
+20. **中文**：这是我们店铺今年举办的最大促销活动。
+   **英文**：This is the biggest promotional sale in our store history.
+   > **解析**：biggest 意为最大的。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Drinking this fresh juice every morning will boost your daily energy level.
-   > **中文**：每天早上喝这种新鲜果汁会提升你一天的活力水平。
+1. This drink not only boosts your energy, but also raises your confidence.
+   > **中文**：这款饮品不仅提升你的精力，还能增强你的信心。
 
-2. This new fitness app helps busy professionals get in shape easily at home.
-   > **中文**：这款新的健身应用程序帮助忙碌的职场人士在家轻松塑造好身材。
+2. This mattress contains neither artificial ingredients nor harmful chemicals.
+   > **中文**：这款床垫既没有人工香精成分，也不含有害化学物。
 
-3. Using this natural skincare product gave her more confidence in public.
-   > **中文**：使用这款天然护肤品让她在公众场合更有自信。
+3. Running shoes can be both stylish and functional.
+   > **中文**：这款跑步鞋既美观又实用。
 
-4. You can purchase this multi-functional blender online with a 20% discount today.
-   > **中文**：您今天可以在线购买这款多功能搅拌机，享受八折优惠。
+4. Daily use of this equipment will boost your physical fitness.
+   > **中文**：每天使用这款器材能显著提升你的体能。
 
-5. Not only is this vacuum cleaner powerful, but it is also extremely quiet.
-   > **中文**：这款吸尘器不仅吸力强劲，而且极其安静。
+5. Our workout program helps you get in shape quickly.
+   > **中文**：我们的健身课程能帮你快速恢复好身材。
 
-6. This organic snack contains no artificial flavors or preservatives.
-   > **中文**：这款有机零食不含任何人工风味或防腐剂。
+6. We designed a highly functional home product at an affordable price.
+   > **中文**：我们设计了一款功能性强且价格实惠的家居产品。
 
-7. You should order now; otherwise, the discount offer will expire soon.
-   > **中文**：您现在就应该下单；否则，折扣优惠很快就会到期。
+7. Purchase this item now to get a half-price discount.
+   > **中文**：现在购买该产品即可享受半价超级优惠。
 
-8. The design of this furniture is both stylish and highly functional.
-   > **中文**：这款家具的设计既时尚又高度实用。
+8. Order today; otherwise, you will miss the biggest discount of the year.
+   > **中文**：请今天订购，否则你将错过本年度最大的折扣。
 
-9. Neither misleading promises nor low-quality materials are used in our products.
-   > **中文**：我们的产品既不使用误导性承诺，也不使用劣质材料。
+9. Our product has zero artificial flavors or synthetic preservatives.
+   > **中文**：我们的产品只含有天然植物成分，绝无人工添加。
 
-10. The outstanding quality of the new phone will certainly impress consumers.
-   > **中文**：这款新手机的卓越品质一定会给消费者留下深刻印象。
+10. Wearing an elegant dress will give you immense confidence.
+   > **中文**：穿着优雅的礼服会给你带来满满的自信。
+
+11. This new invention made a small fortune for the startup team.
+   > **中文**：这款发明为创业团队赢得了巨大的财富。
+
+12. Many wealthy clients prefer our customized product services.
+   > **中文**：许多富有的客户青睐我们高级定制的产品服务。
+
+13. This amazing smartwatch will definitely impress your friends.
+   > **中文**：这款出色的智能手表一定会打动你的亲朋好友。
+
+14. There is no magic pill that solves health problems overnight.
+   > **中文**：世界上没有什么能一夜解决问题的神奇药丸。
+
+15. A glass of fresh juice will give you plenty of energy.
+   > **中文**：喝一杯健康蔬果汁能带给你充沛的精力。
+
+16. These earplugs help reduce noise when people snore.
+   > **中文**：这款耳塞能有效解决晚上打鼾引起的噪音。
+
+17. This grooming tool helps trim thick toenails easily.
+   > **中文**：该款修甲工具能轻松修剪厚硬的脚趾甲。
+
+18. Check your body temperature using this digital thermometer.
+   > **中文**：使用这款精准的数字温度计测量体温。
+
+19. This spray removes bad odors from smelly shoes.
+   > **中文**：这款除臭喷雾能有效去除发臭鞋子的异味。
+
+20. This is the biggest promotional sale in our store history.
+   > **中文**：这是我们店铺今年举办的最大促销活动。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| not only... but also... | 不仅……而且…… |
+| neither... nor... | 既不……也不…… |
+| both... and... | 两者都…… |
+| boost | 提升；增强 |
+| get in shape | 塑形；恢复好身材 |
+| functional | 功能性的；实用的 |
+| purchase | 购买 |
+| otherwise | 否则；要不然 |
+| artificial | 人工的；人造的 |
+| confidence | 信心；自信 |
+| fortune | 财富；运气 |
+| wealthy | 富有的 |
+| impress | 给……留下印象；打动 |
+| magic | 魔法；神奇的 |
+| energy | 精力；能量 |
+| snore | 打鼾 |
+| toenail | 脚趾甲 |
+| thermometer | 温度计 |
+| smelly | 臭的；有异味的 |
+| biggest | 最大的 |
 
 </quiz-matching>
 
@@ -163,102 +256,202 @@ not only... but also... / neither... nor... / both... and... 是三组并列连�
 
 ### 1
 
-Drinking this fresh juice every morning will `____` your daily energy level.
+This drink not only boosts your ____, but also raises your confidence.
 
-- [x] boost
+- [x] energy
 - [ ] artificial
-- [ ] did
+- [ ] biggest
 
-> **解析**：`boost` 作及物动词，意为“提升、增加、促进”，宾语为 `energy level`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-This new fitness app helps busy professionals `____` easily at home.
+This mattress contains ____ artificial ingredients nor harmful chemicals.
 
-- [x] get in shape
+- [x] neither
+- [ ] artificial
 - [ ] biggest
-- [ ] did
 
-> **解析**：`get in shape` 是固定短语，意为“保持强健体魄、塑造好身材”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Using this natural skincare product gave her more `____` in public.
+Running shoes can be ____ stylish and functional.
 
-- [x] confidence
-- [ ] boost
-- [ ] fortune
+- [x] both
+- [ ] artificial
+- [ ] biggest
 
-> **解析**：`confidence` 是不可数名词，意为“自信心”，与动词 `give` 搭配。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-You can purchase this multi-`____` blender online with a 20% discount today.
+Daily use of this equipment will ____ your physical fitness.
 
-- [x] functional
-- [ ] both
-- [ ] fortune
+- [x] boost
+- [ ] artificial
+- [ ] biggest
 
-> **解析**：`purchase` 是动词，意为“购买”，比 `buy` 更正规商业化。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-`____`t only is this vacuum cleaner powerful, but it is also extremely quiet.
+Our ____ program helps you get in shape quickly.
 
-- [x] no
-- [ ] confidence
-- [ ] functional
+- [x] workout
+- [ ] artificial
+- [ ] biggest
 
-> **解析**：`Not only is...` 句首倒装结构：当 `Not only` 置于句首时，主句系动词倒装。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-This organic snack contains no `____` flavors or preservatives.
+We designed a highly ____ home product at an affordable price.
 
-- [x] artificial
-- [ ] energy
-- [ ] impress
+- [x] functional
+- [ ] artificial
+- [ ] biggest
 
-> **解析**：`artificial` 是形容词，意为“人工的、人造的”，修饰名词 `flavors`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-You should order `____`; otherwise, the discount offer will expire soon.
+____ this item now to get a half-price discount.
 
-- [x] now
-- [ ] energy
-- [ ] impress
+- [x] Purchase
+- [ ] artificial
+- [ ] biggest
 
-> **解析**：`otherwise` 是副词/连词，意为“否则、要不然”，引导后果。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The design of this furniture is `____` stylish and highly functional.
+Order today; ____, you will miss the biggest discount of the year.
 
-- [x] both
-- [ ] functional
-- [ ] neither
+- [x] otherwise
+- [ ] artificial
+- [ ] biggest
 
-> **解析**：`functional` 是形容词，意为“实用的、功能性的”，在系动词后作表语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-`____` misleading promises nor low-quality materials are used in our products.
+Our product has zero ____ flavors or synthetic preservatives.
 
-- [x] neither
-- [ ] functional
-- [ ] no
+- [x] artificial
+- [ ] biggest
+- [ ] boost
 
-> **解析**：`neither... nor...` 意为“既不……也不……”，连接并列主语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The outstanding quality of the new phone will certainly `____` consumers.
+Wearing an elegant dress will give you immense ____.
+
+- [x] confidence
+- [ ] artificial
+- [ ] biggest
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+This new invention made a small ____ for the startup team.
+
+- [x] fortune
+- [ ] artificial
+- [ ] biggest
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Many ____ clients prefer our customized product services.
+
+- [x] wealthy
+- [ ] artificial
+- [ ] biggest
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+This amazing smartwatch will definitely ____ your friends.
 
 - [x] impress
-- [ ] get in shape
-- [ ] nor
+- [ ] artificial
+- [ ] biggest
 
-> **解析**：`impress` 作及物动词，意为“给……留下深刻印象”，宾语为 `consumers`。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+There is ____ magic pill that solves health problems overnight.
+
+- [x] no
+- [ ] artificial
+- [ ] biggest
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+A glass of fresh juice will give you plenty of ____.
+
+- [x] energy
+- [ ] artificial
+- [ ] biggest
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+These earplugs help reduce noise when people ____.
+
+- [x] snore
+- [ ] artificial
+- [ ] biggest
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+This ____ tool helps trim thick toenails easily.
+
+- [x] grooming
+- [ ] artificial
+- [ ] biggest
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Check your body temperature using this digital ____.
+
+- [x] thermometer
+- [ ] artificial
+- [ ] biggest
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+This spray removes bad odors from ____ shoes.
+
+- [x] smelly
+- [ ] artificial
+- [ ] biggest
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+This is the ____ promotional sale in our store history.
+
+- [x] biggest
+- [ ] artificial
+- [ ] boost
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

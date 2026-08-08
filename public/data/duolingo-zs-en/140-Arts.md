@@ -61,83 +61,176 @@ perform → performance（表演 → 演出）。publish 表示"出版"。
 
 <quiz-sentence-builder>
 
-1. **中文**：她最新的历史小说在出版一周内就成了畅销书。  
-   **英文**：Her latest historical novel became a bestseller within a week of its release.
-   > **解析**：novel 为名词，意为“长篇小说”。historical novel 指“历史小说”。bestseller 意为“畅销书”。
+1. **中文**：在电影院里观看一部关于著名名人的商业喜剧体验极棒。  
+   **英文**：Watching a commercial comedy in cinema was a great experience.
+   > **解析**：cinema 表示“电影院”；comedy 表示“喜剧”；commercial 表示“商业的/商业广告”；experience 表示“体验/经历”。
 
-2. **中文**：他喜欢读科幻小说，因为它探索了富有想象力的未来世界。  
-   **英文**：He enjoys reading science fiction because it explores imaginative futuristic worlds.
-   > **解析**：fiction 为不可数名词，意为“虚构文学、小说”。science fiction 意为“科幻小说”。非虚构文学为 non-fiction。
+2. **中文**：交响乐团在大剧院大声演奏了精彩的古典乐曲。  
+   **英文**：The orchestra performed classical music loudly in theater.
+   > **解析**：orchestra 表示“交响乐团”；performed / perform 表示“演奏/表演”；loudly 表示“大声地”。
 
-3. **中文**：这位作者希望在今年年底前出版她的新诗集。  
-   **英文**：The author hopes to publish her new book of poetry by the end of this year.
-   > **解析**：publish 为动词，意为“出版、发表”。publish a book 表示“出版一本书”。名词为 publication/publisher。
+3. **中文**：这位出色的表演者在舞台上表演了一场打斗动作戏。  
+   **英文**：The performer acted in a fight scene on the stage.
+   > **解析**：performer 表示“表演者”；acted / act 表示“表演/扮演”；fight 表示“打斗”。
 
-4. **中文**：这位演员因在剧中的杰出表演获得了全场起立鼓掌。  
-   **英文**：The actor received a standing ovation for his outstanding performance in the play.
-   > **解析**：performance 为名词，意为“表演、演出”。standing ovation 意为“起立鼓掌”。动词形式为 perform。
+4. **中文**：出版社出版了一本标题为《科幻传奇》的新小说。  
+   **英文**：The publisher published a fiction novel with a cool title.
+   > **解析**：publish / published 表示“出版”；fiction 表示“小说/虚构作品”；novel 表示“小说”；title 表示“标题/书名”。
 
-5. **中文**：交响乐团演奏了由莫扎特和贝多芬创作的古典乐曲。  
-   **英文**：The symphony orchestra played classical pieces composed by Mozart and Beethoven.
-   > **解析**：orchestra 为名词，意为“管弦乐队、交响乐团”。symphony orchestra 指“交响乐团”。
+5. **中文**：他在网上下载了一部关于文化与雕塑的评论纪录片。  
+   **英文**：He downloaded a video review on culture and sculpture.
+   > **解析**：download / downloaded 表示“下载”；review 表示“评论”；culture 表示“文化”；sculpture 表示“雕塑”。
 
-6. **中文**：参观者们赞叹展示在艺术馆中央的汉白玉雕塑。  
-   **英文**：Visitors admired the marble sculpture displayed in the center of the art gallery.
-   > **解析**：sculpture 为名词，意为“雕塑、雕刻品”。marble sculpture 指“大理石雕塑”。
+6. **中文**：创造出富有文化内涵的艺术作品需要丰富的经验。  
+   **英文**：Creating cultural art pieces requires lots of experience.
+   > **解析**：create / Creating 表示“创造”；culture 表示“文化”；experience 表示“经验”。
 
-7. **中文**：我们决定在一周长途劳顿后看一部浪漫喜剧来放松一下。  
-   **英文**：We decided to watch a romantic comedy to unwind after a long busy week.
-   > **解析**：comedy 为名词，意为“喜剧”。romantic comedy 指“浪漫喜剧”。反义词为 tragedy（悲剧）。
+7. **中文**：英雄在电影中与恶势力展开了激烈的搏斗。  
+   **英文**：The hero fought against evil forces in the movie film.
+   > **解析**：fought 是 fight 的过去式；film 表示“电影”。
 
-8. **中文**：阅读经典文学是了解一个国家深厚文化的好途径。  
-   **英文**：Reading classic literature is a great way to understand a country's deep culture.
-   > **解析**：culture 为名词，意为“文化”。classic literature 意为“经典文学”。
+8. **中文**：你可以在线阅读影评人对这部新科幻电影的评论。  
+   **英文**：You can read the review for this new science fiction film.
+   > **解析**：review 表示“评论/影评”；fiction 表示“科幻/虚构”。
 
-9. **中文**：这位知名名人今晚在电影首映式上惊喜亮相。  
-   **英文**：The famous celebrity made a surprise appearance at the movie premiere tonight.
-   > **解析**：celebrity 为名词，意为“名人、明星”。movie premiere 意为“电影首映式”。
+9. **中文**：这部商业搞笑剧的标题吸引了数以万计的观众。  
+   **英文**：The title of this commercial comedy attracted many fans.
+   > **解析**：title 表示“标题”；comedy 表示“喜剧”。
 
-10. **中文**：艺术家们使用不同的媒介来创作令人产生灵感的富有表现力的艺术品。  
-   **英文**：Artists use different mediums to create expressive artworks that inspire viewers.
-   > **解析**：create 为动词，意为“创作、创造”。create artworks 意为“创作艺术品”。名词形式为 creation/creativity。
+10. **中文**：观众在交响乐团演出的尾声热烈掌声并欢呼。  
+   **英文**：The audience cheered loudly for the orchestra performance.
+   > **解析**：orchestra 表示“交响乐团”；loudly 表示“大声地”。
+
+11. **中文**：今晚我们去电影院看最新的动作大片吧。  
+   **英文**：Let's go to the cinema to watch the latest action film.
+   > **解析**：cinema 表示“电影院”。
+
+12. **中文**：这部轻松幽默的喜剧让全场观众捧腹大笑。  
+   **英文**：This funny comedy made the entire audience laugh.
+   > **解析**：comedy 表示“喜剧”。
+
+13. **中文**：这是一部关于探索太空的科幻惊悚小说。  
+   **英文**：This is a great science fiction novel about space.
+   > **解析**：fiction 表示“小说/虚构作品”；novel 表示“长篇小说”。
+
+14. **中文**：这位著名的作家下个月将出版他的第三部新书。  
+   **英文**：The famous author will publish his third new book.
+   > **解析**：publish 表示“出版/发行”。
+
+15. **中文**：表演者们在舞台上的精彩演出赢得了热烈的掌声。  
+   **英文**：The performers delivered a great stage performance.
+   > **解析**：performer / performers 表示“表演者”。
+
+16. **中文**：了解不同的文化有助于拓宽我们的国际视野。  
+   **英文**：Learning about different culture broadens our minds.
+   > **解析**：culture 表示“文化”。
+
+17. **中文**：你可以从官方网站免费下载这首高清音乐。  
+   **英文**：You can download this high-quality song for free.
+   > **解析**：download 表示“下载”。
+
+18. **中文**：在美术馆里，那尊现代雕塑作品非常醒目。  
+   **英文**：That modern sculpture in the gallery is eye-catching.
+   > **解析**：sculpture 表示“雕塑/雕刻”。
+
+19. **中文**：艺术家运用灵感创造出了一幅幅震撼心灵的画卷。  
+   **英文**：Artists use inspiration to create stunning artwork.
+   > **解析**：create 表示“创造”。
+
+20. **中文**：这段难忘的旅行经历将永远印在他的脑海里。  
+   **英文**：This unforgettable travel experience will stay in mind.
+   > **解析**：experience 表示“经历/体验”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Her latest historical novel became a bestseller within a week of its release.
-   > **中文**：她最新的历史小说在出版一周内就成了畅销书。
+1. Watching a commercial comedy in cinema was a great experience.
+   > **中文**：在电影院里观看一部关于著名名人的商业喜剧体验极棒。
 
-2. He enjoys reading science fiction because it explores imaginative futuristic worlds.
-   > **中文**：他喜欢读科幻小说，因为它探索了富有想象力的未来世界。
+2. The orchestra performed classical music loudly in theater.
+   > **中文**：交响乐团在大剧院大声演奏了精彩的古典乐曲。
 
-3. The author hopes to publish her new book of poetry by the end of this year.
-   > **中文**：这位作者希望在今年年底前出版她的新诗集。
+3. The performer acted in a fight scene on the stage.
+   > **中文**：这位出色的表演者在舞台上表演了一场打斗动作戏。
 
-4. The actor received a standing ovation for his outstanding performance in the play.
-   > **中文**：这位演员因在剧中的杰出表演获得了全场起立鼓掌。
+4. The publisher published a fiction novel with a cool title.
+   > **中文**：出版社出版了一本标题为《科幻传奇》的新小说。
 
-5. The symphony orchestra played classical pieces composed by Mozart and Beethoven.
-   > **中文**：交响乐团演奏了由莫扎特和贝多芬创作的古典乐曲。
+5. He downloaded a video review on culture and sculpture.
+   > **中文**：他在网上下载了一部关于文化与雕塑的评论纪录片。
 
-6. Visitors admired the marble sculpture displayed in the center of the art gallery.
-   > **中文**：参观者们赞叹展示在艺术馆中央的汉白玉雕塑。
+6. Creating cultural art pieces requires lots of experience.
+   > **中文**：创造出富有文化内涵的艺术作品需要丰富的经验。
 
-7. We decided to watch a romantic comedy to unwind after a long busy week.
-   > **中文**：我们决定在一周长途劳顿后看一部浪漫喜剧来放松一下。
+7. The hero fought against evil forces in the movie film.
+   > **中文**：英雄在电影中与恶势力展开了激烈的搏斗。
 
-8. Reading classic literature is a great way to understand a country's deep culture.
-   > **中文**：阅读经典文学是了解一个国家深厚文化的好途径。
+8. You can read the review for this new science fiction film.
+   > **中文**：你可以在线阅读影评人对这部新科幻电影的评论。
 
-9. The famous celebrity made a surprise appearance at the movie premiere tonight.
-   > **中文**：这位知名名人今晚在电影首映式上惊喜亮相。
+9. The title of this commercial comedy attracted many fans.
+   > **中文**：这部商业搞笑剧的标题吸引了数以万计的观众。
 
-10. Artists use different mediums to create expressive artworks that inspire viewers.
-   > **中文**：艺术家们使用不同的媒介来创作令人产生灵感的富有表现力的艺术品。
+10. The audience cheered loudly for the orchestra performance.
+   > **中文**：观众在交响乐团演出的尾声热烈掌声并欢呼。
+
+11. Let's go to the cinema to watch the latest action film.
+   > **中文**：今晚我们去电影院看最新的动作大片吧。
+
+12. This funny comedy made the entire audience laugh.
+   > **中文**：这部轻松幽默的喜剧让全场观众捧腹大笑。
+
+13. This is a great science fiction novel about space.
+   > **中文**：这是一部关于探索太空的科幻惊悚小说。
+
+14. The famous author will publish his third new book.
+   > **中文**：这位著名的作家下个月将出版他的第三部新书。
+
+15. The performers delivered a great stage performance.
+   > **中文**：表演者们在舞台上的精彩演出赢得了热烈的掌声。
+
+16. Learning about different culture broadens our minds.
+   > **中文**：了解不同的文化有助于拓宽我们的国际视野。
+
+17. You can download this high-quality song for free.
+   > **中文**：你可以从官方网站免费下载这首高清音乐。
+
+18. That modern sculpture in the gallery is eye-catching.
+   > **中文**：在美术馆里，那尊现代雕塑作品非常醒目。
+
+19. Artists use inspiration to create stunning artwork.
+   > **中文**：艺术家运用灵感创造出了一幅幅震撼心灵的画卷。
+
+20. This unforgettable travel experience will stay in mind.
+   > **中文**：这段难忘的旅行经历将永远印在他的脑海里。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| act | 表演 / 扮演 |
+| action | 动作 / 行动 |
+| celebrity | 名人 |
+| cinema | 电影院 |
+| comedy | 喜剧 |
+| commercial | 商业的 / 商业广告 |
+| create | 创造 |
+| culture | 文化 |
+| download | 下载 |
+| experience | 体验 / 经历 |
+| fiction | 小说 / 虚构作品 |
+| fight | 打斗 / 战斗 |
+| film | 电影 / 胶片 |
+| fought | 打斗了（fight的过去式） |
+| loudly | 大声地 |
+| novel | 长篇小说 |
+| orchestra | 交响乐团 |
+| perform | 表演 |
+| performer | 表演者 |
+| publish | 出版 / 发行 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ perform → performance（表演 → 演出）。publish 表示"出版"。
 
 ### 1
 
-Her latest historical `____` became a bestseller within a week of its release.
+Watching a ____ comedy in cinema was a great experience.
 
-- [x] novel
+- [x] commercial
 - [ ] act
-- [ ] comedy
+- [ ] action
 
-> **解析**：novel 为名词，意为“长篇小说”。historical novel 指“历史小说”。bestseller 意为“畅销书”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-He enjoys reading science `____` because it explores imaginative futuristic worlds.
+The ____ performed classical music loudly in theater.
 
-- [x] fiction
+- [x] orchestra
+- [ ] act
 - [ ] action
-- [ ] commercial
 
-> **解析**：fiction 为不可数名词，意为“虚构文学、小说”。science fiction 意为“科幻小说”。非虚构文学为 non-fiction。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The author hopes to `____` her new book of poetry by the end of this year.
+The ____ acted in a fight scene on the stage.
 
-- [x] publish
-- [ ] celebrity
-- [ ] create
+- [x] performer
+- [ ] act
+- [ ] action
 
-> **解析**：publish 为动词，意为“出版、发表”。publish a book 表示“出版一本书”。名词为 publication/publisher。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The `____`or received a standing ovation for his outstanding performance in the play.
+The publisher published a ____ novel with a cool title.
 
-- [x] act
-- [ ] comedy
-- [ ] download
+- [x] fiction
+- [ ] act
+- [ ] action
 
-> **解析**：performance 为名词，意为“表演、演出”。standing ovation 意为“起立鼓掌”。动词形式为 perform。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The symphony `____` played classical pieces composed by Mozart and Beethoven.
+He downloaded a video ____ on culture and sculpture.
 
-- [x] orchestra
-- [ ] comedy
-- [ ] download
+- [x] review
+- [ ] act
+- [ ] action
 
-> **解析**：orchestra 为名词，意为“管弦乐队、交响乐团”。symphony orchestra 指“交响乐团”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Visitors admired the marble `____` displayed in the center of the art gallery.
+Creating cultural art pieces requires lots of ____.
 
-- [x] sculpture
-- [ ] commercial
-- [ ] experience
+- [x] experience
+- [ ] act
+- [ ] action
 
-> **解析**：sculpture 为名词，意为“雕塑、雕刻品”。marble sculpture 指“大理石雕塑”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-We decided to watch a romantic `____` to unwind after a long busy week.
+The hero ____ against evil forces in the movie film.
 
-- [x] comedy
-- [ ] culture
-- [ ] fight
+- [x] fought
+- [ ] act
+- [ ] action
 
-> **解析**：comedy 为名词，意为“喜剧”。romantic comedy 指“浪漫喜剧”。反义词为 tragedy（悲剧）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Reading classic literature is a great way to understand a country's deep `____`.
+You can read the ____ for this new science fiction film.
 
-- [x] culture
-- [ ] download
-- [ ] film
+- [x] review
+- [ ] act
+- [ ] action
 
-> **解析**：culture 为名词，意为“文化”。classic literature 意为“经典文学”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The famous `____` made a surprise appearance at the movie premiere tonight.
+The ____ of this commercial comedy attracted many fans.
 
-- [x] celebrity
-- [ ] experience
-- [ ] fought
+- [x] title
+- [ ] act
+- [ ] action
 
-> **解析**：celebrity 为名词，意为“名人、明星”。movie premiere 意为“电影首映式”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Artists use different mediums to `____` expressive artworks that inspire viewers.
+The audience cheered ____ for the orchestra performance.
+
+- [x] loudly
+- [ ] act
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Let's go to the ____ to watch the latest action film.
+
+- [x] cinema
+- [ ] act
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+This funny ____ made the entire audience laugh.
+
+- [x] comedy
+- [ ] act
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+This is a great science ____ novel about space.
+
+- [x] fiction
+- [ ] act
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The famous author will ____ his third new book.
+
+- [x] publish
+- [ ] act
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The performers delivered a great stage ____.
+
+- [x] performance
+- [ ] act
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Learning about different ____ broadens our minds.
+
+- [x] culture
+- [ ] act
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+You can ____ this high-quality song for free.
+
+- [x] download
+- [ ] act
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+That modern ____ in the gallery is eye-catching.
+
+- [x] sculpture
+- [ ] act
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Artists use inspiration to ____ stunning artwork.
 
 - [x] create
-- [ ] fiction
-- [ ] loudly
+- [ ] act
+- [ ] action
 
-> **解析**：create 为动词，意为“创作、创造”。create artworks 意为“创作艺术品”。名词形式为 creation/creativity。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+This unforgettable travel ____ will stay in mind.
+
+- [x] experience
+- [ ] act
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

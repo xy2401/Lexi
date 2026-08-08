@@ -65,83 +65,176 @@ appliance, attic, brand new, commute, compromise, dream, fence, fireplace, go wi
 
 <quiz-sentence-builder>
 
-1. **中文**：节能型家用电器型号可以显著降低你每月的电费支出。  
-   **英文**：Energy-efficient household appliance models can significantly reduce your monthly electricity bills.
-   > **解析**：`appliance` 可数名词，意为“器具；家用电器”。`household appliance` 指“家用电器”。
+1. **中文**：房东同意为我们降低每月租金。  
+   **英文**：The landlord agreed to lower the monthly rent for us.
+   > **解析**：landlord 指房东。
 
-2. **中文**：在选择新公寓时，我们不得不选择在预算和地理位置之间做出妥协。  
-   **英文**：When choosing a new apartment, we had to compromise between budget and location.
-   > **解析**：`compromise` 不及物动词，意为“妥协；让步”。常与介词 `between` 或 `on` 搭配。
+2. **中文**：我们决定搬到一个安静的住宅区。  
+   **英文**：We decided to move to a quiet residential area.
+   > **解析**：residential 表示住宅区的。
 
-3. **中文**：端着一杯热巧克力坐在温暖的壁炉旁是我冬天最喜欢的日常。  
-   **英文**：Sitting by the warm fireplace with a cup of hot chocolate is my favorite winter routine.
-   > **解析**：`fireplace` 可数名词，意为“壁炉”。在住宅房屋描述中十分常见。
+3. **中文**：住在郊区意味着每天要花更长时间通勤。  
+   **英文**：Living in the suburbs means having a longer daily commute.
+   > **解析**：suburbs 指郊区。
 
-4. **中文**：我们的房东同意明天早晨修理浴室渗水的水管。  
-   **英文**：Our landlord agreed to repair the leaking water pipe in the bathroom tomorrow morning.
-   > **解析**：`landlord` 可数名词，意为“房东；地主”。对应女性房东名词为 `landlady`。
+4. **中文**：这栋两层住宅有充足的储藏空间。  
+   **英文**：This two-story house has plenty of storage space.
+   > **解析**：story 此处指楼层。
 
-5. **中文**：面对整栋房子翻新的这项巨任务，她感到彻底不堪重负。  
-   **英文**：She felt completely overwhelmed by the daunting task of renovating the entire house.
-   > **解析**：`overwhelmed` 形容词，意为“感到不堪重负的；受打击的”。常用结构 `be / feel overwhelmed by sth.`。
+5. **中文**：他们把旧书箱寄存在阁楼里。  
+   **英文**：They stored old boxes of books in the attic.
+   > **解析**：attic 指阁楼。
 
-6. **中文**：他们购买了一栋位于安静郊区社区、富有魅力的两层房屋。  
-   **英文**：They purchased a charming two-story house located in a quiet suburban neighborhood.
-   > **解析**：`story`（美式拼写，英式为 `storey`）名词，在此处意为“楼层；层”。在复合形容词中（如 `two-story`）作楼层单位。
+6. **中文**：舒适的壁炉让整个客厅保持温暖。  
+   **英文**：The cozy fireplace keeps the whole living room warm.
+   > **解析**：fireplace 指壁炉。
 
-7. **中文**：这间市中心单身公寓的月租金对学生来说太高了。  
-   **英文**：The monthly rent for this downtown studio apartment is way too high.
-   > **解析**：`way too` 为口语强调程度副词短语，意为“太……；过于……”，修饰形容词 `high`。
+7. **中文**：我们在后院周围立起了木篱笆。  
+   **英文**：We put up a wooden fence around the backyard.
+   > **解析**：fence 指篱笆、栅栏。
 
-8. **中文**：我们把所有的旧相册和节日装饰品都存在了阁楼里。  
-   **英文**：We stored all our old photo albums and holiday decorations up in the attic.
-   > **解析**：`attic` 可数名词，意为“阁楼；顶楼房间”。介词短语 `in the attic`（在阁楼里）。
+8. **中文**：这套公寓里的每件厨房家电都是全新的。  
+   **英文**：Every kitchen appliance in this apartment is brand new.
+   > **解析**：appliance 指家用电器。
 
-9. **中文**：亲自设计一个宽敞的厨房十多年来一直是她的梦想。  
-   **英文**：Designing her own spacious kitchen has been her dream for over ten years.
-   > **解析**：`dream` 名词，意为“梦想；愿望”。在住宅情境中常指“理想中的房子/设施”。
+9. **中文**：这套公寓对我们一家人来说实在太小了。  
+   **英文**：The apartment is way too small for our family.
+   > **解析**：way too 表示实在太……
 
-10. **中文**：你应该保持你的生活空间干净整洁，以维持健康的家庭环境。  
-   **英文**：You should keep your living space clean and tidy to maintain a healthy home environment.
-   > **解析**：`keep` 动词，后接“宾语 + 形容词作宾语补足语”（如 `keep your living space clean`），意为“使……保持某种状态”。
+10. **中文**：购买这栋联排别墅对他们来说是梦想成真。  
+   **英文**：Buying this townhouse is a dream come true for them.
+   > **解析**：dream 表示梦想。
+
+11. **中文**：后院要是有个花园难道不好吗？  
+   **英文**：Wouldn't it be nice to have a garden in the back?
+   > **解析**：Wouldn't it be... 表示“难道不好/不大合适吗？”
+
+12. **中文**：难道你不希望住得离工作地点更近一点吗？  
+   **英文**：Wouldn't you prefer living closer to your workplace?
+   > **解析**：Wouldn't you... 表示“难道你不……吗？”
+
+13. **中文**：你应该记住，停车位是另外收费的。  
+   **英文**：You should keep in mind that parking is extra.
+   > **解析**：keep in mind 表示牢记、记住。
+
+14. **中文**：面对所有搬家琐事，我感到手足无措。  
+   **英文**：I feel overwhelmed by all the moving tasks.
+   > **解析**：overwhelmed 表示不堪重负的。
+
+15. **中文**：我们不得不对价格做出妥协。  
+   **英文**：We had to make a compromise on the price.
+   > **解析**：compromise 表示妥协、折中。
+
+16. **中文**：我们应该选择现代设计还是经典款式？  
+   **英文**：Should we go with the modern design or the classic one?
+   > **解析**：go with 表示选择、采用。
+
+17. **中文**：我想这套采光明亮的公寓就是最适合我们的那套。  
+   **英文**：I think this bright apartment is the one for us.
+   > **解析**：the one 指最合适的那一个。
+
+18. **中文**：我们可以在中午前赶到房屋开放参观活动。  
+   **英文**：We can make it to the open house before noon.
+   > **解析**：make it 表示赶上、及时到达。
+
+19. **中文**：周边区域绿树成荫，公园环绕。  
+   **英文**：The surrounding area is filled with green trees and parks.
+   > **解析**：surrounding 表示周围的、环境的。
+
+20. **中文**：夜间请务必保持后门处于锁闭状态。  
+   **英文**：Please keep the back door locked at night.
+   > **解析**：keep 表示保持某种状态。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Energy-efficient household appliance models can significantly reduce your monthly electricity bills.
-   > **中文**：节能型家用电器型号可以显著降低你每月的电费支出。
+1. The landlord agreed to lower the monthly rent for us.
+   > **中文**：房东同意为我们降低每月租金。
 
-2. When choosing a new apartment, we had to compromise between budget and location.
-   > **中文**：在选择新公寓时，我们不得不选择在预算和地理位置之间做出妥协。
+2. We decided to move to a quiet residential area.
+   > **中文**：我们决定搬到一个安静的住宅区。
 
-3. Sitting by the warm fireplace with a cup of hot chocolate is my favorite winter routine.
-   > **中文**：端着一杯热巧克力坐在温暖的壁炉旁是我冬天最喜欢的日常。
+3. Living in the suburbs means having a longer daily commute.
+   > **中文**：住在郊区意味着每天要花更长时间通勤。
 
-4. Our landlord agreed to repair the leaking water pipe in the bathroom tomorrow morning.
-   > **中文**：我们的房东同意明天早晨修理浴室渗水的水管。
+4. This two-story house has plenty of storage space.
+   > **中文**：这栋两层住宅有充足的储藏空间。
 
-5. She felt completely overwhelmed by the daunting task of renovating the entire house.
-   > **中文**：面对整栋房子翻新的这项巨任务，她感到彻底不堪重负。
+5. They stored old boxes of books in the attic.
+   > **中文**：他们把旧书箱寄存在阁楼里。
 
-6. They purchased a charming two-story house located in a quiet suburban neighborhood.
-   > **中文**：他们购买了一栋位于安静郊区社区、富有魅力的两层房屋。
+6. The cozy fireplace keeps the whole living room warm.
+   > **中文**：舒适的壁炉让整个客厅保持温暖。
 
-7. The monthly rent for this downtown studio apartment is way too high.
-   > **中文**：这间市中心单身公寓的月租金对学生来说太高了。
+7. We put up a wooden fence around the backyard.
+   > **中文**：我们在后院周围立起了木篱笆。
 
-8. We stored all our old photo albums and holiday decorations up in the attic.
-   > **中文**：我们把所有的旧相册和节日装饰品都存在了阁楼里。
+8. Every kitchen appliance in this apartment is brand new.
+   > **中文**：这套公寓里的每件厨房家电都是全新的。
 
-9. Designing her own spacious kitchen has been her dream for over ten years.
-   > **中文**：亲自设计一个宽敞的厨房十多年来一直是她的梦想。
+9. The apartment is way too small for our family.
+   > **中文**：这套公寓对我们一家人来说实在太小了。
 
-10. You should keep your living space clean and tidy to maintain a healthy home environment.
-   > **中文**：你应该保持你的生活空间干净整洁，以维持健康的家庭环境。
+10. Buying this townhouse is a dream come true for them.
+   > **中文**：购买这栋联排别墅对他们来说是梦想成真。
+
+11. Wouldn't it be nice to have a garden in the back?
+   > **中文**：后院要是有个花园难道不好吗？
+
+12. Wouldn't you prefer living closer to your workplace?
+   > **中文**：难道你不希望住得离工作地点更近一点吗？
+
+13. You should keep in mind that parking is extra.
+   > **中文**：你应该记住，停车位是另外收费的。
+
+14. I feel overwhelmed by all the moving tasks.
+   > **中文**：面对所有搬家琐事，我感到手足无措。
+
+15. We had to make a compromise on the price.
+   > **中文**：我们不得不对价格做出妥协。
+
+16. Should we go with the modern design or the classic one?
+   > **中文**：我们应该选择现代设计还是经典款式？
+
+17. I think this bright apartment is the one for us.
+   > **中文**：我想这套采光明亮的公寓就是最适合我们的那套。
+
+18. We can make it to the open house before noon.
+   > **中文**：我们可以在中午前赶到房屋开放参观活动。
+
+19. The surrounding area is filled with green trees and parks.
+   > **中文**：周边区域绿树成荫，公园环绕。
+
+20. Please keep the back door locked at night.
+   > **中文**：夜间请务必保持后门处于锁闭状态。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| `appliance` | 家用电器 |
+| `attic` | 阁楼 |
+| `brand new` | 全新的 |
+| `commute` | 上下班通勤 |
+| `compromise` | 妥协；折中 |
+| `dream` | 梦想 |
+| `fence` | 篱笆；栅栏 |
+| `fireplace` | 壁炉 |
+| `go with` | 选择；采用 |
+| `keep` | 保持；保存 |
+| `keep in mind` | 记住；铭记 |
+| `landlord` | 房东 |
+| `make it` | 赶上；成功 |
+| `overwhelmed` | 不堪重负的 |
+| `residential` | 住宅区的 |
+| `storage` | 储藏；储物 |
+| `story` | 楼层 |
+| `suburbs` | 郊区 |
+| `surrounding` | 周围的 |
+| `the one` | 最合适的那一个 |
 
 </quiz-matching>
 
@@ -149,102 +242,202 @@ appliance, attic, brand new, commute, compromise, dream, fence, fireplace, go wi
 
 ### 1
 
-Energy-efficient household `____` models can significantly reduce your monthly electricity bills.
+The ____ agreed to lower the monthly rent for us.
 
-- [x] appliance
+- [x] landlord
+- [ ] appliance
 - [ ] attic
-- [ ] dream
 
-> **解析**：`appliance` 可数名词，意为“器具；家用电器”。`household appliance` 指“家用电器”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-When choosing a new apartment, we had to `____` between budget and location.
+We decided to move to a quiet ____ area.
 
-- [x] compromise
+- [x] residential
+- [ ] appliance
 - [ ] attic
-- [ ] fence
 
-> **解析**：`compromise` 不及物动词，意为“妥协；让步”。常与介词 `between` 或 `on` 搭配。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Sitting by the warm `____` with a cup of hot chocolate is my favorite winter routine.
+Living in the ____ means having a longer daily commute.
 
-- [x] fireplace
-- [ ] brand new
-- [ ] fence
+- [x] suburbs
+- [ ] appliance
+- [ ] attic
 
-> **解析**：`fireplace` 可数名词，意为“壁炉”。在住宅房屋描述中十分常见。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Our `____` agreed to repair the leaking water pipe in the bathroom tomorrow morning.
+This two-story house has plenty of ____ space.
 
-- [x] landlord
-- [ ] commute
-- [ ] fireplace
+- [x] storage
+- [ ] appliance
+- [ ] attic
 
-> **解析**：`landlord` 可数名词，意为“房东；地主”。对应女性房东名词为 `landlady`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-She felt completely `____` by the daunting task of renovating the entire house.
+They stored old boxes of books in the ____.
 
-- [x] overwhelmed
-- [ ] compromise
-- [ ] go with
+- [x] attic
+- [ ] appliance
+- [ ] brand new
 
-> **解析**：`overwhelmed` 形容词，意为“感到不堪重负的；受打击的”。常用结构 `be / feel overwhelmed by sth.`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-They purchased a charming two-`____` house located in a quiet suburban neighborhood.
+The cozy ____ keeps the whole living room warm.
 
-- [x] story
-- [ ] dream
-- [ ] keep
+- [x] fireplace
+- [ ] appliance
+- [ ] attic
 
-> **解析**：`story`（美式拼写，英式为 `storey`）名词，在此处意为“楼层；层”。在复合形容词中（如 `two-story`）作楼层单位。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The monthly rent for this downtown studio apartment is `____` high.
+We put up a wooden ____ around the backyard.
 
-- [x] way too
-- [ ] fence
-- [ ] keep in mind
+- [x] fence
+- [ ] appliance
+- [ ] attic
 
-> **解析**：`way too` 为口语强调程度副词短语，意为“太……；过于……”，修饰形容词 `high`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-We stored all our old photo albums and holiday decorations up in the `____`.
+Every kitchen ____ in this apartment is brand new.
 
-- [x] attic
-- [ ] go with
-- [ ] make it
+- [x] appliance
+- [ ] attic
+- [ ] brand new
 
-> **解析**：`attic` 可数名词，意为“阁楼；顶楼房间”。介词短语 `in the attic`（在阁楼里）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Designing her own spacious kitchen has been her `____` for over ten years.
+The ____ is way too small for our family.
 
-- [x] dream
-- [ ] keep
-- [ ] not
+- [x] apartment
+- [ ] appliance
+- [ ] attic
 
-> **解析**：`dream` 名词，意为“梦想；愿望”。在住宅情境中常指“理想中的房子/设施”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-You should `____` your living space clean and tidy to maintain a healthy home environment.
+Buying this townhouse is a ____ come true for them.
+
+- [x] dream
+- [ ] appliance
+- [ ] attic
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+____ it be nice to have a garden in the back?
+
+- [x] Wouldn't
+- [ ] appliance
+- [ ] attic
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Wouldn't you prefer living closer to your ____?
+
+- [x] workplace
+- [ ] appliance
+- [ ] attic
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+You should ____ in mind that parking is extra.
 
 - [x] keep
-- [ ] keep in mind
-- [ ] one
+- [ ] appliance
+- [ ] attic
 
-> **解析**：`keep` 动词，后接“宾语 + 形容词作宾语补足语”（如 `keep your living space clean`），意为“使……保持某种状态”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+I feel ____ by all the moving tasks.
+
+- [x] overwhelmed
+- [ ] appliance
+- [ ] attic
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+We had to make a ____ on the price.
+
+- [x] compromise
+- [ ] appliance
+- [ ] attic
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Should we go with the modern design or the classic ____?
+
+- [x] one
+- [ ] appliance
+- [ ] attic
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+I think this bright apartment is the ____ for us.
+
+- [x] one
+- [ ] appliance
+- [ ] attic
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+We can make it to the open house ____ noon.
+
+- [x] before
+- [ ] appliance
+- [ ] attic
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The ____ area is filled with green trees and parks.
+
+- [x] surrounding
+- [ ] appliance
+- [ ] attic
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Please ____ the back door locked at night.
+
+- [x] keep
+- [ ] appliance
+- [ ] attic
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

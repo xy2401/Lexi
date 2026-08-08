@@ -51,83 +51,176 @@ against, involve, most of, recent, happen 提供叙事框架：The protest was a
 
 <quiz-sentence-builder>
 
-1. **中文**：昨天的强降雨在低洼的河谷引发了严重的水灾。  
-   **英文**：Heavy rains caused a severe flood in the low-lying river valley yesterday.
-   > **解析**：flood 可数/不可数名词，意为“水灾；洪水”；也可作动词表示“淹没”。
+1. **中文**：两辆汽车在十字路口不幸发生了严重的撞车。
+   **英文**：The sudden car crash blocked main street traffic.
+   > **解析**：crash 表示“撞车/碰撞事故”。
 
-2. **中文**：晨间新闻报道了一起涉及三辆汽车的高速公路交通事故。  
-   **英文**：The morning news reported a highway traffic crash involving three vehicles.
-   > **解析**：crash 可数名词，在此意为“（车辆等）碰撞；坠毁事故”。
+2. **中文**：暴风雨给沿海小镇房屋造成了巨大的损坏。
+   **英文**：The storm caused extensive damage to local buildings.
+   > **解析**：damage 表示“损坏/损失”。
 
-3. **中文**：消防员在天然气管道可能发生爆炸前赶到了现场。  
-   **英文**：Firefighters rushed to the gas pipeline before it could explode.
-   > **解析**：explode 不及物/及物动词，意为“爆炸；爆裂”，名词形式为 explosion。
+3. **中文**：今年该地区的失业率呈现明显降低趋势。
+   **英文**：There was a sharp decrease in crime rates this year.
+   > **解析**：decrease 表示“减少/降低”。
 
-4. **中文**：报告显示全市犯罪率显著下降。  
-   **英文**：The report showed a significant decrease in crime rates across the city.
-   > **解析**：decrease 可数/不可数名词，意为“减少；下降”，作动词时读作 /dɪˈkriːs/。
+4. **中文**：工厂里的废弃气罐突然发生了危险的爆炸。
+   **英文**：The old gas tank might explode if heated.
+   > **解析**：explode 表示“爆炸/爆发”。
 
-5. **中文**：当地报纸报道了今年住房价值的迅速增长。  
-   **英文**：Local newspapers reported a rapid increase in home values this year.
-   > **解析**：increase 可数/不可数名词，意为“增加；增长”，与 decrease 互为反义词。
+5. **中文**：连日暴雨引发的洪水淹没了农田和小路。
+   **英文**：Heavy rains caused a severe flood in the valley.
+   > **解析**：flood 表示“洪水/水灾”。
 
-6. **中文**：气象站针对沿海地区发布了强风暴预警。  
-   **英文**：The weather station issued a severe storm warning for coastal areas.
-   > **解析**：warning 可数/不可数名词，意为“警告；预警”，由动词 warn 衍生而来。
+6. **中文**：市政规划在公共交通设施方面做出了重大改进。
+   **英文**：We noticed a significant improvement in air quality.
+   > **解析**：improvement 表示“改进/改善”。
 
-7. **中文**：政府推出了新的培训计划以应对高失业率。  
-   **英文**：The government launched new training programs to combat high unemployment.
-   > **解析**：unemployment 不可数名词，意为“失业；失业率”，前缀 un- 表示否定。
+7. **中文**：城市常住人口在过去五年间持续快速增加。
+   **英文**：There was an increase in tourism sales last season.
+   > **解析**：increase 表示“增加/增长”。
 
-8. **中文**：数百名市民聚集在市政厅外举行和平抗议。  
-   **英文**：Hundreds of citizens gathered outside city hall to hold a peaceful protest.
-   > **解析**：protest 可数名词，意为“抗议；示威”；作动词时意为“对……提出抗议”。
+8. **中文**：警方调查证实这起事件并不涉及任何犯罪行为。
+   **英文**：The traffic collision did not involve any injuries.
+   > **解析**：involve 表示“涉及/卷入”。
 
-9. **中文**：侦探们正在调查昨晚报道的一起神秘谋杀案。  
-   **英文**：Detectives are investigating a mysterious murder case reported last night.
-   > **解析**：murder 名词/动词，在此作名词意为“谋杀；谋杀案”。
+9. **中文**：刑警正在全力搜寻这起恶性谋杀案的线索。
+   **英文**：Detectives are investigating a mysterious murder case.
+   > **解析**：murder 表示“谋杀案/谋杀”。
 
-10. **中文**：该镇在公共交通安全方面取得了巨大的改善。  
-   **英文**：The town has seen a dramatic improvement in public transportation safety.
-   > **解析**：improvement 可数/不可数名词，意为“改进；改善”，来自动词 improve。
+10. **中文**：成千上万的市民聚集在广场上参加和平抗议。
+   **英文**：Hundreds of people joined the peaceful protest outside.
+   > **解析**：protest 表示“抗议/示威”。
+
+11. **中文**：报纸报道了最近发生的重大科技发明成果。
+   **英文**：The article summarizes recent economic progress in town.
+   > **解析**：recent 表示“最近的/近期的”。
+
+12. **中文**：警察在紧急关头朝天开枪示警。
+   **英文**：The guard had to shoot a warning into the air.
+   > **解析**：shoot 表示“开枪/射击”。
+
+13. **中文**：猎人朝空中开枪打中了飞过的猎物。
+   **英文**：The hunter shot an arrow at the target on tree.
+   > **解析**：shot 是 shoot 的过去式，表示“开枪了/射击了”。
+
+14. **中文**：近来在城市里已经有了明显的交通状况改善。
+   **英文**：There has been a big improvement in city transport.
+   > **解析**：there has been 表示“已经有了（单数完成时）”。
+
+15. **中文**：本季度在该省已经有了多起突发暴雨灾害。
+   **英文**：There have been several protests in the capital city.
+   > **解析**：there have been 表示“已经有了（复数完成时）”。
+
+16. **中文**：政府采取了多项有效举措来降低失业率。
+   **英文**：High unemployment remains a serious economic issue.
+   > **解析**：unemployment 表示“失业/失业率”。
+
+17. **中文**：气象局发布了针对海风暴潮的紧急预警。
+   **英文**：The weather bureau issued a severe storm warning.
+   > **解析**：warning 表示“警告/预警”。
+
+18. **中文**：许多市民公开发表言论反对建造新化工厂。
+   **英文**：Many people voted against the new tax policy.
+   > **解析**：against 表示“反对/靠着”。
+
+19. **中文**：没人能料到今天下午会发生这样的意外撞车。
+   **英文**：Did anything unusual happen in the neighborhood today?
+   > **解析**：happen 表示“发生”。
+
+20. **中文**：大部分受访市民对目前的生活质量感到满意。
+   **英文**：Most of the students passed the final history exam.
+   > **解析**：Most of 表示“大部分/大多数”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Heavy rains caused a severe flood in the low-lying river valley yesterday.
-   > **中文**：昨天的强降雨在低洼的河谷引发了严重的水灾。
+1. The sudden car crash blocked main street traffic.
+   > **中文**：两辆汽车在十字路口不幸发生了严重的撞车。
 
-2. The morning news reported a highway traffic crash involving three vehicles.
-   > **中文**：晨间新闻报道了一起涉及三辆汽车的高速公路交通事故。
+2. The storm caused extensive damage to local buildings.
+   > **中文**：暴风雨给沿海小镇房屋造成了巨大的损坏。
 
-3. Firefighters rushed to the gas pipeline before it could explode.
-   > **中文**：消防员在天然气管道可能发生爆炸前赶到了现场。
+3. There was a sharp decrease in crime rates this year.
+   > **中文**：今年该地区的失业率呈现明显降低趋势。
 
-4. The report showed a significant decrease in crime rates across the city.
-   > **中文**：报告显示全市犯罪率显著下降。
+4. The old gas tank might explode if heated.
+   > **中文**：工厂里的废弃气罐突然发生了危险的爆炸。
 
-5. Local newspapers reported a rapid increase in home values this year.
-   > **中文**：当地报纸报道了今年住房价值的迅速增长。
+5. Heavy rains caused a severe flood in the valley.
+   > **中文**：连日暴雨引发的洪水淹没了农田和小路。
 
-6. The weather station issued a severe storm warning for coastal areas.
-   > **中文**：气象站针对沿海地区发布了强风暴预警。
+6. We noticed a significant improvement in air quality.
+   > **中文**：市政规划在公共交通设施方面做出了重大改进。
 
-7. The government launched new training programs to combat high unemployment.
-   > **中文**：政府推出了新的培训计划以应对高失业率。
+7. There was an increase in tourism sales last season.
+   > **中文**：城市常住人口在过去五年间持续快速增加。
 
-8. Hundreds of citizens gathered outside city hall to hold a peaceful protest.
-   > **中文**：数百名市民聚集在市政厅外举行和平抗议。
+8. The traffic collision did not involve any injuries.
+   > **中文**：警方调查证实这起事件并不涉及任何犯罪行为。
 
-9. Detectives are investigating a mysterious murder case reported last night.
-   > **中文**：侦探们正在调查昨晚报道的一起神秘谋杀案。
+9. Detectives are investigating a mysterious murder case.
+   > **中文**：刑警正在全力搜寻这起恶性谋杀案的线索。
 
-10. The town has seen a dramatic improvement in public transportation safety.
-   > **中文**：该镇在公共交通安全方面取得了巨大的改善。
+10. Hundreds of people joined the peaceful protest outside.
+   > **中文**：成千上万的市民聚集在广场上参加和平抗议。
+
+11. The article summarizes recent economic progress in town.
+   > **中文**：报纸报道了最近发生的重大科技发明成果。
+
+12. The guard had to shoot a warning into the air.
+   > **中文**：警察在紧急关头朝天开枪示警。
+
+13. The hunter shot an arrow at the target on tree.
+   > **中文**：猎人朝空中开枪打中了飞过的猎物。
+
+14. There has been a big improvement in city transport.
+   > **中文**：近来在城市里已经有了明显的交通状况改善。
+
+15. There have been several protests in the capital city.
+   > **中文**：本季度在该省已经有了多起突发暴雨灾害。
+
+16. High unemployment remains a serious economic issue.
+   > **中文**：政府采取了多项有效举措来降低失业率。
+
+17. The weather bureau issued a severe storm warning.
+   > **中文**：气象局发布了针对海风暴潮的紧急预警。
+
+18. Many people voted against the new tax policy.
+   > **中文**：许多市民公开发表言论反对建造新化工厂。
+
+19. Did anything unusual happen in the neighborhood today?
+   > **中文**：没人能料到今天下午会发生这样的意外撞车。
+
+20. Most of the students passed the final history exam.
+   > **中文**：大部分受访市民对目前的生活质量感到满意。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| crash | 撞车 / 事故 |
+| damage | 损坏 / 损失 |
+| decrease | 减少 / 降低 |
+| explode | 爆炸 |
+| flood | 洪水 |
+| improvement | 改进 / 改善 |
+| increase | 增加 / 增长 |
+| involve | 涉及 / 卷入 |
+| murder | 谋杀案 |
+| protest | 抗议 / 示威 |
+| recent | 最近的 |
+| shoot | 射击 |
+| shot | 射击了（shoot的过去式） |
+| there has been | 已经有了（单数） |
+| there have been | 已经有了（复数） |
+| unemployment | 失业 / 失业率 |
+| warning | 警告 / 预警 |
+| against | 反对 |
+| happen | 发生 |
+| Most of | 大部分 |
 
 </quiz-matching>
 
@@ -135,102 +228,202 @@ against, involve, most of, recent, happen 提供叙事框架：The protest was a
 
 ### 1
 
-Heavy rains caused a severe `____` in the low-lying river valley yesterday.
+The sudden car ____ blocked main street traffic.
 
-- [x] flood
+- [x] crash
 - [ ] against
-- [ ] explode
+- [ ] damage
 
-> **解析**：flood 可数/不可数名词，意为“水灾；洪水”；也可作动词表示“淹没”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The morning news reported a highway traffic `____` involving three vehicles.
+The storm caused extensive ____ to local buildings.
 
-- [x] crash
-- [ ] damage
-- [ ] happen
+- [x] damage
+- [ ] against
+- [ ] crash
 
-> **解析**：crash 可数名词，在此意为“（车辆等）碰撞；坠毁事故”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Firefighters rushed to the gas pipeline before it could `____`.
+There was a sharp ____ in crime rates this year.
 
-- [x] explode
-- [ ] damage
-- [ ] has there been
+- [x] decrease
+- [ ] against
+- [ ] crash
 
-> **解析**：explode 不及物/及物动词，意为“爆炸；爆裂”，名词形式为 explosion。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The report showed a significant `____` in crime rates across the city.
+The old gas tank might ____ if heated.
 
-- [x] decrease
-- [ ] explode
-- [ ] have there been
+- [x] explode
+- [ ] against
+- [ ] crash
 
-> **解析**：decrease 可数/不可数名词，意为“减少；下降”，作动词时读作 /dɪˈkriːs/。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Local newspapers reported a rapid `____` in home values this year.
+Heavy rains caused a severe ____ in the valley.
 
-- [x] increase
-- [ ] explode
-- [ ] have there been
+- [x] flood
+- [ ] against
+- [ ] crash
 
-> **解析**：increase 可数/不可数名词，意为“增加；增长”，与 decrease 互为反义词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The weather station issued a severe storm `____` for coastal areas.
+We noticed a significant ____ in air quality.
 
-- [x] warning
-- [ ] flood
-- [ ] improvement
+- [x] improvement
+- [ ] against
+- [ ] crash
 
-> **解析**：warning 可数/不可数名词，意为“警告；预警”，由动词 warn 衍生而来。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The government launched new training programs to combat high `____`.
+There was an ____ in tourism sales last season.
 
-- [x] unemployment
-- [ ] happen
-- [ ] increase
+- [x] increase
+- [ ] against
+- [ ] crash
 
-> **解析**：unemployment 不可数名词，意为“失业；失业率”，前缀 un- 表示否定。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Hundreds of citizens gathered outside city hall to hold a peaceful `____`.
+The traffic collision did not ____ any injuries.
 
-- [x] protest
-- [ ] has there been
-- [ ] involve
+- [x] involve
+- [ ] against
+- [ ] crash
 
-> **解析**：protest 可数名词，意为“抗议；示威”；作动词时意为“对……提出抗议”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Detectives are investigating a mysterious `____` case reported last night.
+Detectives are investigating a mysterious ____ case.
 
 - [x] murder
-- [ ] have there been
-- [ ] most of
+- [ ] against
+- [ ] crash
 
-> **解析**：murder 名词/动词，在此作名词意为“谋杀；谋杀案”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The town has seen a dramatic `____` in public transportation safety.
+Hundreds of people joined the peaceful ____ outside.
+
+- [x] protest
+- [ ] against
+- [ ] crash
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The article summarizes ____ economic progress in town.
+
+- [x] recent
+- [ ] against
+- [ ] crash
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The guard had to ____ a warning into the air.
+
+- [x] shoot
+- [ ] against
+- [ ] crash
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The hunter ____ an arrow at the target on tree.
+
+- [x] shot
+- [ ] against
+- [ ] crash
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+There has been a big ____ in city transport.
 
 - [x] improvement
-- [ ] increase
-- [ ] protest
+- [ ] against
+- [ ] crash
 
-> **解析**：improvement 可数/不可数名词，意为“改进；改善”，来自动词 improve。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+There have been several ____ in the capital city.
+
+- [x] protests
+- [ ] against
+- [ ] crash
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+High ____ remains a serious economic issue.
+
+- [x] unemployment
+- [ ] against
+- [ ] crash
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The weather bureau issued a severe storm ____.
+
+- [x] warning
+- [ ] against
+- [ ] crash
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Many people voted ____ the new tax policy.
+
+- [x] against
+- [ ] crash
+- [ ] damage
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Did anything unusual ____ in the neighborhood today?
+
+- [x] happen
+- [ ] against
+- [ ] crash
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Most of the ____ passed the final history exam.
+
+- [x] students
+- [ ] against
+- [ ] crash
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

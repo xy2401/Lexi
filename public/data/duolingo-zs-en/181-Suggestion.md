@@ -53,83 +53,176 @@ but, by, convince, could, doubt that, lamb, option, point, politely, progress, r
 
 <quiz-sentence-builder>
 
-1. **中文**：我推荐点烤羊肉，因为这是这里的招牌菜。  
-   **英文**：I would recommend ordering the grilled lamb because it is the specialty here.
-   > **解析**：recommend 动词，意为“推荐”，后可接名词、代词或动名词（doing），常用于提出餐饮建议；句中 would 增加委婉客气的礼貌语气。
+1. **中文**：你可以选择乘坐观光巴士或者徒步游览山谷。
+   **英文**：Taking a guided bus tour is a great option for tourists.
+   > **解析**：option 表示“选择/选项”。
 
-2. **中文**：如果你喜欢嫩肉，香草烤羊肉是个极佳的选择。  
-   **英文**：If you enjoy tender meat, the roast lamb with herbs is an excellent choice about but.
-   > **解析**：lamb 名词，指“羊肉”（不可数）或“小羊”（可数），在餐饮语境中常用作主菜说明。
+2. **中文**：导游向我们强烈推荐那家老字号素食餐厅。
+   **英文**：I strongly recommend visiting the famous waterfall.
+   > **解析**：recommend 表示“推荐”。
 
-3. **中文**：我们的菜单为纯素食者提供几种美味的素食选择。  
-   **英文**：Our menu features several delicious vegetarian options for plant-based diets.
-   > **解析**：vegetarian 可作形容词“素食的”或名词“素食主义者”，在此作形容词修饰名词 options。
+3. **中文**：那座豪华的海滨度假胜地吸引了无数游客。
+   **英文**：They stayed at a luxury beach resort during vacation.
+   > **解析**：resort 表示“度假胜地”。
 
-4. **中文**：如果你喜欢更清淡的餐食，新鲜的花园沙拉是另一个健康的选择。  
-   **英文**：If you prefer a lighter meal, a fresh garden salad is another healthy option about by.
-   > **解析**：option 可数名词，表示“选择；可选项”，比 choice 更强调供挑选的具体项目。
+4. **中文**：我们在纪念品商店买了一些精美的涂鸦手工艺品。
+   **英文**：She bought a handmade souvenir at the local gift shop.
+   > **解析**：souvenir 表示“纪念品”。
 
-5. **中文**：服务员成功说服我们尝尝他们的招牌甜点。  
-   **英文**：The server managed to convince us to try their signature dessert.
-   > **解析**：convince 动词，意为“说服”，常用结构为 convince somebody to do something（说服某人做某事）。
+5. **中文**：这家餐馆专门为素食主义者提供特制菜单。
+   **英文**：The chef prepared a healthy vegetarian dish for us.
+   > **解析**：vegetarian 表示“素食主义者/素食的”。
 
-6. **中文**：我怀疑如果没有提前预订，他们是否还会有空桌。  
-   **英文**：I doubt that they will have any open tables without a prior reservation.
-   > **解析**：doubt that 为常用宾语从句句型，意为“怀疑……；认为……未必”，表达对某种可能性的怀疑。
+6. **中文**：湍急的瀑布从高耸的峭壁上飞流直下。
+   **英文**：A beautiful waterfall cascades down the steep mountain cliff.
+   > **解析**：waterfall 表示“瀑布”。
 
-7. **中文**：这座海滨度假村以新鲜的海鲜和浪漫的风景而闻名。  
-   **英文**：This seaside resort is famous for its fresh seafood and romantic views.
-   > **解析**：resort 名词，意为“度假胜地；度假村”，常与 seaside、beach 等连用说明类型。
+7. **中文**：他试图在会议上说服大家接受新方案。
+   **英文**：He tried to convince his manager to accept the proposal.
+   > **解析**：convince 表示“说服/使信服”。
 
-8. **中文**：女服务员礼貌地推荐了主厨今日特例汤品。  
-   **英文**：The waitress politely recommended the chef's special soup of the day.
-   > **解析**：politely 副词，意为“礼貌地”，由形容词 polite 加后缀 -ly 构成，修饰动词 recommended。
+8. **中文**：我严重怀疑他能否在今晚前按时赶回来。
+   **英文**：I doubt that the rain will stop before this afternoon.
+   > **解析**：doubt that 表示“怀疑某事”。
 
-9. **中文**：在离开山庄度假村之前，我们买了一件漂亮的手工纪念品。  
-   **英文**：Before leaving the mountain resort, we bought a beautiful handmade souvenir.
-   > **解析**：souvenir 可数名词，意为“纪念品”，来源于法语，指留作纪念的物品。
+9. **中文**：主厨精心准备了一道香烤烤羊肉大餐。
+   **英文**：The waiter served roasted lamb with fresh vegetables.
+   > **解析**：lamb 表示“羊肉/小羊”。
 
-10. **中文**：她提出了很有道理的一点，即我们应该先查看饮品价格。  
-   **英文**：She made a valid point that we should check the drink prices first.
-   > **解析**：point 名词，在此意为“观点；要点”，短语 make a point 表示“提出观点/看法”。
+10. **中文**：发言人在演说中阐述了几个关键的要点。
+   **英文**：She made an interesting point during the lively debate.
+   > **解析**：point 表示“要点/观点”。
+
+11. **中文**：当向陌生人寻路时，请务必礼貌地提问。
+   **英文**：He answered all the interviewer's questions politely.
+   > **解析**：politely 表示“礼貌地”。
+
+12. **中文**：我们在项目筹备方面取得了巨大的进展。
+   **英文**：The team made steady progress toward their yearly goals.
+   > **解析**：progress 表示“进步/进展”。
+
+13. **中文**：在大庭广众之下打断别人说话是非常无礼的。
+   **英文**：It is rude to speak loudly inside the quiet library.
+   > **解析**：rude 表示“无礼的/不礼貌的”。
+
+14. **中文**：导游说最精彩的风景位于山脊的顶端。
+   **英文**：The guide said that the view from the top is amazing.
+   > **解析**：say / said 表示“说”。
+
+15. **中文**：这道烤鱼口感鲜美，所以大家都非常喜欢。
+   **英文**：The dish is delicious, so we ordered a second portion.
+   > **解析**：so 表示“因此/所以”。
+
+16. **中文**：你可以采取这个有效的建议来改善你的演讲。
+   **英文**：You can take this helpful advice to improve your speech.
+   > **解析**：take 表示“采取/接受”。
+
+17. **中文**：如果我们早点出发，我们本可以避开拥堵的高峰期。
+   **英文**：We could see the magnificent waterfall from the bridge.
+   > **解析**：could 表示“能够/可以”。
+
+18. **中文**：你愿意这周末和我们一起去参观艺术展吗？
+   **英文**：Would you like to try some of this traditional dish?
+   > **解析**：Would you 表示“你愿意……吗”（礼貌邀请）。
+
+19. **中文**：我们过去很乐意在假期去那座海岛露营。
+   **英文**：We'd love to visit the national park this summer.
+   > **解析**：we'd 表示 we would / we had。
+
+20. **中文**：要是我处在你的位置，我也过去很乐意接受这工作。
+   **英文**：I knew you'd enjoy the scenic mountain trail.
+   > **解析**：you'd 表示 you would / you had。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I would recommend ordering the grilled lamb because it is the specialty here.
-   > **中文**：我推荐点烤羊肉，因为这是这里的招牌菜。
+1. Taking a guided bus tour is a great option for tourists.
+   > **中文**：你可以选择乘坐观光巴士或者徒步游览山谷。
 
-2. If you enjoy tender meat, the roast lamb with herbs is an excellent choice about but.
-   > **中文**：如果你喜欢嫩肉，香草烤羊肉是个极佳的选择。
+2. I strongly recommend visiting the famous waterfall.
+   > **中文**：导游向我们强烈推荐那家老字号素食餐厅。
 
-3. Our menu features several delicious vegetarian options for plant-based diets.
-   > **中文**：我们的菜单为纯素食者提供几种美味的素食选择。
+3. They stayed at a luxury beach resort during vacation.
+   > **中文**：那座豪华的海滨度假胜地吸引了无数游客。
 
-4. If you prefer a lighter meal, a fresh garden salad is another healthy option about by.
-   > **中文**：如果你喜欢更清淡的餐食，新鲜的花园沙拉是另一个健康的选择。
+4. She bought a handmade souvenir at the local gift shop.
+   > **中文**：我们在纪念品商店买了一些精美的涂鸦手工艺品。
 
-5. The server managed to convince us to try their signature dessert.
-   > **中文**：服务员成功说服我们尝尝他们的招牌甜点。
+5. The chef prepared a healthy vegetarian dish for us.
+   > **中文**：这家餐馆专门为素食主义者提供特制菜单。
 
-6. I doubt that they will have any open tables without a prior reservation.
-   > **中文**：我怀疑如果没有提前预订，他们是否还会有空桌。
+6. A beautiful waterfall cascades down the steep mountain cliff.
+   > **中文**：湍急的瀑布从高耸的峭壁上飞流直下。
 
-7. This seaside resort is famous for its fresh seafood and romantic views.
-   > **中文**：这座海滨度假村以新鲜的海鲜和浪漫的风景而闻名。
+7. He tried to convince his manager to accept the proposal.
+   > **中文**：他试图在会议上说服大家接受新方案。
 
-8. The waitress politely recommended the chef's special soup of the day.
-   > **中文**：女服务员礼貌地推荐了主厨今日特例汤品。
+8. I doubt that the rain will stop before this afternoon.
+   > **中文**：我严重怀疑他能否在今晚前按时赶回来。
 
-9. Before leaving the mountain resort, we bought a beautiful handmade souvenir.
-   > **中文**：在离开山庄度假村之前，我们买了一件漂亮的手工纪念品。
+9. The waiter served roasted lamb with fresh vegetables.
+   > **中文**：主厨精心准备了一道香烤烤羊肉大餐。
 
-10. She made a valid point that we should check the drink prices first.
-   > **中文**：她提出了很有道理的一点，即我们应该先查看饮品价格。
+10. She made an interesting point during the lively debate.
+   > **中文**：发言人在演说中阐述了几个关键的要点。
+
+11. He answered all the interviewer's questions politely.
+   > **中文**：当向陌生人寻路时，请务必礼貌地提问。
+
+12. The team made steady progress toward their yearly goals.
+   > **中文**：我们在项目筹备方面取得了巨大的进展。
+
+13. It is rude to speak loudly inside the quiet library.
+   > **中文**：在大庭广众之下打断别人说话是非常无礼的。
+
+14. The guide said that the view from the top is amazing.
+   > **中文**：导游说最精彩的风景位于山脊的顶端。
+
+15. The dish is delicious, so we ordered a second portion.
+   > **中文**：这道烤鱼口感鲜美，所以大家都非常喜欢。
+
+16. You can take this helpful advice to improve your speech.
+   > **中文**：你可以采取这个有效的建议来改善你的演讲。
+
+17. We could see the magnificent waterfall from the bridge.
+   > **中文**：如果我们早点出发，我们本可以避开拥堵的高峰期。
+
+18. Would you like to try some of this traditional dish?
+   > **中文**：你愿意这周末和我们一起去参观艺术展吗？
+
+19. We'd love to visit the national park this summer.
+   > **中文**：我们过去很乐意在假期去那座海岛露营。
+
+20. I knew you'd enjoy the scenic mountain trail.
+   > **中文**：要是我处在你的位置，我也过去很乐意接受这工作。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| convince | 说服 |
+| doubt that | 怀疑某事 |
+| lamb | 羊肉 |
+| option | 选择 / 选项 |
+| point | 要点 / 观点 |
+| politely | 礼貌地 |
+| recommend | 推荐 |
+| resort | 度假胜地 |
+| souvenir | 纪念品 |
+| vegetarian | 素食主义者 |
+| waterfall | 瀑布 |
+| we'd | 我们过去会 / 想要 |
+| you'd | 你过去会 / 想要 |
+| rude | 无礼的 |
+| progress | 进步 |
+| said | 说了（say的过去式） |
+| take | 采取 / 拿 |
+| could | 能够 |
+| so | 因此 / 所以 |
+| Would you | 你愿意……吗 |
 
 </quiz-matching>
 
@@ -137,102 +230,202 @@ but, by, convince, could, doubt that, lamb, option, point, politely, progress, r
 
 ### 1
 
-I would recommend ordering the grilled `____` because it is the specialty here.
+Taking a guided bus tour is a great ____ for tourists.
 
-- [x] lamb
+- [x] option
 - [ ] but
-- [ ] doubt that
+- [ ] by
 
-> **解析**：recommend 动词，意为“推荐”，后可接名词、代词或动名词（doing），常用于提出餐饮建议；句中 would 增加委婉客气的礼貌语气。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-If you enjoy tender meat, the roast lamb with herbs is an excellent choice about `____`.
+I strongly ____ visiting the famous waterfall.
 
-- [x] but
-- [ ] convince
-- [ ] option
+- [x] recommend
+- [ ] but
+- [ ] by
 
-> **解析**：lamb 名词，指“羊肉”（不可数）或“小羊”（可数），在餐饮语境中常用作主菜说明。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Our menu features several delicious vegetarian `____`s for plant-based diets.
+They stayed at a luxury beach ____ during vacation.
 
-- [x] option
-- [ ] convince
-- [ ] point
+- [x] resort
+- [ ] but
+- [ ] by
 
-> **解析**：vegetarian 可作形容词“素食的”或名词“素食主义者”，在此作形容词修饰名词 options。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-If you prefer a lighter meal, a fresh garden salad is another healthy option about `____`.
+She bought a handmade ____ at the local gift shop.
 
-- [x] by
-- [ ] doubt that
-- [ ] politely
+- [x] souvenir
+- [ ] but
+- [ ] by
 
-> **解析**：option 可数名词，表示“选择；可选项”，比 choice 更强调供挑选的具体项目。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The server managed to `____` us to try their signature dessert.
+The chef prepared a healthy ____ dish for us.
 
-- [x] convince
-- [ ] lamb
-- [ ] progress
+- [x] vegetarian
+- [ ] but
+- [ ] by
 
-> **解析**：convince 动词，意为“说服”，常用结构为 convince somebody to do something（说服某人做某事）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-I `____` they will have any open tables without a prior reservation.
+A beautiful ____ cascades down the steep mountain cliff.
 
-- [x] doubt that
-- [ ] option
-- [ ] recommend
+- [x] waterfall
+- [ ] but
+- [ ] by
 
-> **解析**：doubt that 为常用宾语从句句型，意为“怀疑……；认为……未必”，表达对某种可能性的怀疑。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-This seaside `____` is famous for its fresh seafood and romantic views.
+He tried to ____ his manager to accept the proposal.
 
-- [x] resort
-- [ ] option
-- [ ] recommend
+- [x] convince
+- [ ] but
+- [ ] by
 
-> **解析**：resort 名词，意为“度假胜地；度假村”，常与 seaside、beach 等连用说明类型。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The waitress `____` recommended the chef's special soup of the day.
+I doubt that the rain will stop before this ____.
 
-- [x] politely
-- [ ] point
-- [ ] rude
+- [x] afternoon
+- [ ] but
+- [ ] by
 
-> **解析**：politely 副词，意为“礼貌地”，由形容词 polite 加后缀 -ly 构成，修饰动词 recommended。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Before leaving the mountain re`____`rt, we bought a beautiful handmade souvenir.
+The waiter served roasted ____ with fresh vegetables.
 
-- [x] so
-- [ ] politely
-- [ ] rude
+- [x] lamb
+- [ ] but
+- [ ] by
 
-> **解析**：souvenir 可数名词，意为“纪念品”，来源于法语，指留作纪念的物品。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-She made a valid `____` that we should check the drink prices first.
+She made an interesting ____ during the lively debate.
 
 - [x] point
-- [ ] recommend
-- [ ] so
+- [ ] but
+- [ ] by
 
-> **解析**：point 名词，在此意为“观点；要点”，短语 make a point 表示“提出观点/看法”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+He answered all the interviewer's questions ____.
+
+- [x] politely
+- [ ] but
+- [ ] by
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The team made steady ____ toward their yearly goals.
+
+- [x] progress
+- [ ] but
+- [ ] by
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+It is ____ to speak loudly inside the quiet library.
+
+- [x] rude
+- [ ] but
+- [ ] by
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The guide said that the view from the top is ____.
+
+- [x] amazing
+- [ ] but
+- [ ] by
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The dish is delicious, ____ we ordered a second portion.
+
+- [x] so
+- [ ] but
+- [ ] by
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+You can ____ this helpful advice to improve your speech.
+
+- [x] take
+- [ ] but
+- [ ] by
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+We ____ see the magnificent waterfall from the bridge.
+
+- [x] could
+- [ ] but
+- [ ] by
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Would you like to try some of this ____ dish?
+
+- [x] traditional
+- [ ] but
+- [ ] by
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+____ love to visit the national park this summer.
+
+- [x] We'd
+- [ ] but
+- [ ] by
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+I knew ____ enjoy the scenic mountain trail.
+
+- [x] you'd
+- [ ] but
+- [ ] by
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

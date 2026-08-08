@@ -63,83 +63,176 @@ all over the place, allowance, any chance, arrange, bedtime, cardboard, clear th
 
 <quiz-sentence-builder>
 
-1. **中文**：请整理一下你的卧室；你的衣服到处都是/散得满地都是。  
-   **英文**：Please tidy up your bedroom; your clothes are scattered all over the place.
-   > **解析**：`all over the place` 为副词短语，意为“到处；到处乱七八糟地”。
+1. **中文**：你的主要责任是饭后收拾桌子。  
+   **英文**：Your main responsibility is to clear the table after dinner.
+   > **解析**：is to... 表示被要求、规则规定做某事。
 
-2. **中文**：你能帮我把这些文件按时间顺序排列好吗？  
-   **英文**：Can you help me arrange these files in chronological order.
-   > **解析**：`arrange` 及物动词，意为“安排；排列”。搭配 `arrange sth. in order`（按顺序排列某物）。
+2. **中文**：在你出门前，厨房台面应该保持干净。  
+   **英文**：The kitchen counter should be clean before you go out.
+   > **解析**：should be 表示理应、应该。
 
-3. **中文**：我们需要赶快打扫客厅，因为今天晚上我们家里有客人来。  
-   **英文**：We need to clean the living room quickly because we are having company over tonight.
-   > **解析**：`company` 在此处为不可数名词，意为“客人；陪伴”。短语 `have company over`（有客人来访）。
+3. **中文**：孩子们通过做家务赚取他们的每周零花钱。  
+   **英文**：Children earn their weekly allowance by doing home chores.
+   > **解析**：allowance 指零花钱。
 
-4. **中文**：我家里的老人们/双亲这周末要来拜访我们，帮我们搭建新的花园棚子。  
-   **英文**：My folks are visiting us this weekend to help set up the new garden shed.
-   > **解析**：`folks` 复数名词，口语中意为“家人；亲人；大伙儿”。
+4. **中文**：请收拾餐桌并将大碗洗干净。  
+   **英文**：Please clear the table and wash the large bowls.
+   > **解析**：clear the table 表示收拾餐桌。
 
-5. **中文**：你今天早晨的主要职责是复核所有进货包裹。  
-   **英文**：Your main duty for this morning is to double check all incoming packages.
-   > **解析**：`be + to do` 结构，表示预定、职责或指令（意为“职责是做某事”）。
+5. **中文**：每天晚上遛狗是你的责任吗？  
+   **英文**：Is it your responsibility to walk the dog every evening?
+   > **解析**：walk the dog 表示遛狗。
 
-6. **中文**：哎呀！我我不小心把几滴咖啡溅到了干净的桌布上。  
-   **英文**：Oops! I accidentally spilled a few drops of coffee on the fresh tablecloth.
-   > **解析**：`oops` 感叹词，意为“哎呀！糟糕！”，用于对小意外或无心之失表示惊叹。
+6. **中文**：帮我把脏碗碟装入洗碗机。  
+   **英文**：Help me load the dirty dishes into the dishwasher.
+   > **解析**：load 表示把……装入。
 
-7. **中文**：所有洗净的餐具都应该被放回厨房最上层的柜子里。  
-   **英文**：All the cleaned dishes should be placed back into the top kitchen cabinet.
-   > **解析**：`should be + 过去分词` 表示被动语态指令或推测（意为“应当被……”）。
+7. **中文**：我需要在杂货店关门前去跑个腿办事。  
+   **英文**：I need to run an errand before the grocery store closes.
+   > **解析**：errand 表示差事、跑腿。
 
-8. **中文**：孩子们通过完成日常家务劳动来赚取每周的零花钱。  
-   **英文**：The children earn a weekly allowance by completing their daily household chores.
-   > **解析**：`allowance` 可数名词，意为“津贴；零花钱”。短语 `weekly allowance`（每周零用钱）。
+8. **中文**：你能跑一趟超市买些鸡蛋吗？  
+   **英文**：Can you run to the supermarket and buy some eggs?
+   > **解析**：run to 表示跑一趟去（某处）。
 
-9. **中文**：在把所有空纸板箱扔进回收桶之前，先把它们压平。  
-   **英文**：Flatten all the empty cardboard boxes before dropping them into the recycling bin.
-   > **解析**：`cardboard` 不可数名词/形容词修饰语，意为“纸板；硬纸板”。`cardboard box`（纸箱）。
+9. **中文**：在就寝时间给幼儿读一段让人平静的故事。  
+   **英文**：Read a calming story to the toddlers at bedtime.
+   > **解析**：bedtime 表示就寝时间。
 
-10. **中文**：这项家务要花多长时间取决于有多少人帮忙。  
-   **英文**：How long the chore takes will depend on how many people help out.
-   > **解析**：`depend on` 固定动词短语，意为“取决于；依赖”。后接名词或从句。
+10. **中文**：午后小睡片刻会让你恢复精力。  
+   **英文**：Taking a short afternoon nap will refresh your energy.
+   > **解析**：nap 指白天小睡。
+
+11. **中文**：玩具在客厅里丢得到处都是。  
+   **英文**：Toys were scattered all over the place in the living room.
+   > **解析**：all over the place 表示到处都是、乱七八糟。
+
+12. **中文**：在回收重纸板箱之前先把它们压平。  
+   **英文**：Flatten the heavy cardboard boxes before recycling them.
+   > **解析**：cardboard 指纸板、硬纸板。
+
+13. **中文**：使用后将每件工具放回原处。  
+   **英文**：Put every tool back in its proper place after use.
+   > **解析**：place 指合适的位置、地方。
+
+14. **中文**：我们准备举办一次友好的社区聚会。  
+   **英文**：We are going to host a friendly neighborhood get-together.
+   > **解析**：host 表示主持、举办。
+
+15. **中文**：大家都非常喜欢这个热热闹闹的周末聚会。  
+   **英文**：Everyone enjoyed the lively weekend get-together.
+   > **解析**：get-together 指非正式聚会。
+
+16. **中文**：今晚我们有意想不到的客人要来吃晚饭。  
+   **英文**：We have unexpected company coming over for dinner tonight.
+   > **解析**：company 在此作不可数名词，指客人。
+
+17. **中文**：大家晚上好，欢迎来到我们的家庭晚宴！  
+   **英文**：Good evening folks, welcome to our family dinner party!
+   > **解析**：folks 口语表示大家、各位。
+
+18. **中文**：我们的周末计划取决于晴朗的天气状况。  
+   **英文**：Our weekend plans depend on the sunny weather condition.
+   > **解析**：depend on 表示取决于、依赖。
+
+19. **中文**：我们需要把椅子整齐地安排围成一个圈。  
+   **英文**：We need to arrange the chairs nicely in a circle.
+   > **解析**：arrange 表示整理、安排。
+
+20. **中文**：你有没有可能现在帮我收拾一下桌子？  
+   **英文**：Any chance you could help me clear the table now?
+   > **解析**：Any chance... 随意试探问“有没有可能……”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Please tidy up your bedroom; your clothes are scattered all over the place.
-   > **中文**：请整理一下你的卧室；你的衣服到处都是/散得满地都是。
+1. Your main responsibility is to clear the table after dinner.
+   > **中文**：你的主要责任是饭后收拾桌子。
 
-2. Can you help me arrange these files in chronological order.
-   > **中文**：你能帮我把这些文件按时间顺序排列好吗？
+2. The kitchen counter should be clean before you go out.
+   > **中文**：在你出门前，厨房台面应该保持干净。
 
-3. We need to clean the living room quickly because we are having company over tonight.
-   > **中文**：我们需要赶快打扫客厅，因为今天晚上我们家里有客人来。
+3. Children earn their weekly allowance by doing home chores.
+   > **中文**：孩子们通过做家务赚取他们的每周零花钱。
 
-4. My folks are visiting us this weekend to help set up the new garden shed.
-   > **中文**：我家里的老人们/双亲这周末要来拜访我们，帮我们搭建新的花园棚子。
+4. Please clear the table and wash the large bowls.
+   > **中文**：请收拾餐桌并将大碗洗干净。
 
-5. Your main duty for this morning is to double check all incoming packages.
-   > **中文**：你今天早晨的主要职责是复核所有进货包裹。
+5. Is it your responsibility to walk the dog every evening?
+   > **中文**：每天晚上遛狗是你的责任吗？
 
-6. Oops! I accidentally spilled a few drops of coffee on the fresh tablecloth.
-   > **中文**：哎呀！我我不小心把几滴咖啡溅到了干净的桌布上。
+6. Help me load the dirty dishes into the dishwasher.
+   > **中文**：帮我把脏碗碟装入洗碗机。
 
-7. All the cleaned dishes should be placed back into the top kitchen cabinet.
-   > **中文**：所有洗净的餐具都应该被放回厨房最上层的柜子里。
+7. I need to run an errand before the grocery store closes.
+   > **中文**：我需要在杂货店关门前去跑个腿办事。
 
-8. The children earn a weekly allowance by completing their daily household chores.
-   > **中文**：孩子们通过完成日常家务劳动来赚取每周的零花钱。
+8. Can you run to the supermarket and buy some eggs?
+   > **中文**：你能跑一趟超市买些鸡蛋吗？
 
-9. Flatten all the empty cardboard boxes before dropping them into the recycling bin.
-   > **中文**：在把所有空纸板箱扔进回收桶之前，先把它们压平。
+9. Read a calming story to the toddlers at bedtime.
+   > **中文**：在就寝时间给幼儿读一段让人平静的故事。
 
-10. How long the chore takes will depend on how many people help out.
-   > **中文**：这项家务要花多长时间取决于有多少人帮忙。
+10. Taking a short afternoon nap will refresh your energy.
+   > **中文**：午后小睡片刻会让你恢复精力。
+
+11. Toys were scattered all over the place in the living room.
+   > **中文**：玩具在客厅里丢得到处都是。
+
+12. Flatten the heavy cardboard boxes before recycling them.
+   > **中文**：在回收重纸板箱之前先把它们压平。
+
+13. Put every tool back in its proper place after use.
+   > **中文**：使用后将每件工具放回原处。
+
+14. We are going to host a friendly neighborhood get-together.
+   > **中文**：我们准备举办一次友好的社区聚会。
+
+15. Everyone enjoyed the lively weekend get-together.
+   > **中文**：大家都非常喜欢这个热热闹闹的周末聚会。
+
+16. We have unexpected company coming over for dinner tonight.
+   > **中文**：今晚我们有意想不到的客人要来吃晚饭。
+
+17. Good evening folks, welcome to our family dinner party!
+   > **中文**：大家晚上好，欢迎来到我们的家庭晚宴！
+
+18. Our weekend plans depend on the sunny weather condition.
+   > **中文**：我们的周末计划取决于晴朗的天气状况。
+
+19. We need to arrange the chairs nicely in a circle.
+   > **中文**：我们需要把椅子整齐地安排围成一个圈。
+
+20. Any chance you could help me clear the table now?
+   > **中文**：你有没有可能现在帮我收拾一下桌子？
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| `all over the place` | 到处都是；乱七八糟 |
+| `allowance` | 零花钱 |
+| `any chance` | 有没有可能 |
+| `arrange` | 安排；整理 |
+| `bedtime` | 就寝时间 |
+| `cardboard` | 纸板 |
+| `clear the table` | 收拾餐桌 |
+| `company` | 客人；陪伴 |
+| `depend on` | 取决于；依赖 |
+| `errand` | 差事；跑腿 |
+| `folks` | 大家；各位 |
+| `get-together` | 聚会 |
+| `host` | 举办；主持 |
+| `is to` | 被要求；应该 |
+| `load` | 装载；装入 |
+| `nap` | 小睡 |
+| `place` | 地方；位置 |
+| `responsibility` | 责任 |
+| `run to` | 跑一趟去 |
+| `walk the dog` | 遛狗 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ all over the place, allowance, any chance, arrange, bedtime, cardboard, clear th
 
 ### 1
 
-Please tidy up your bedroom; your clothes are scattered `____`.
+Your main ____ is to clear the table after dinner.
 
-- [x] all over the place
+- [x] responsibility
+- [ ] all over the place
 - [ ] allowance
-- [ ] cardboard
 
-> **解析**：`all over the place` 为副词短语，意为“到处；到处乱七八糟地”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Can you help me `____` these files in chronological order.
+The ____ counter should be clean before you go out.
 
-- [x] arrange
+- [x] kitchen
+- [ ] all over the place
 - [ ] allowance
-- [ ] clear the table
 
-> **解析**：`arrange` 及物动词，意为“安排；排列”。搭配 `arrange sth. in order`（按顺序排列某物）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-We need to clean the living room quickly because we are having `____` over tonight.
+Children earn their weekly ____ by doing home chores.
 
-- [x] company
+- [x] allowance
+- [ ] all over the place
 - [ ] any chance
-- [ ] clear the table
 
-> **解析**：`company` 在此处为不可数名词，意为“客人；陪伴”。短语 `have company over`（有客人来访）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-My `____` are visiting us this weekend to help set up the new garden shed.
+____ clear the table and wash the large bowls.
 
-- [x] folks
-- [ ] arrange
-- [ ] company
+- [x] Please
+- [ ] all over the place
+- [ ] allowance
 
-> **解析**：`folks` 复数名词，口语中意为“家人；亲人；大伙儿”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Your main duty for this morning `____` double check all incoming packages.
+Is it your ____ to walk the dog every evening?
 
-- [x] is to
-- [ ] bedtime
-- [ ] depend on
+- [x] responsibility
+- [ ] all over the place
+- [ ] allowance
 
-> **解析**：`be + to do` 结构，表示预定、职责或指令（意为“职责是做某事”）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-`____`! I accidentally spilled a few drops of coffee on the fresh tablecloth.
+Help me ____ the dirty dishes into the dishwasher.
 
-- [x] oops
-- [ ] cardboard
-- [ ] errand
+- [x] load
+- [ ] all over the place
+- [ ] allowance
 
-> **解析**：`oops` 感叹词，意为“哎呀！糟糕！”，用于对小意外或无心之失表示惊叹。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-All the cleaned dishes should be `____`d back into the top kitchen cabinet.
+I need to run an ____ before the grocery store closes.
 
-- [x] place
-- [ ] clear the table
-- [ ] folks
+- [x] errand
+- [ ] all over the place
+- [ ] allowance
 
-> **解析**：`should be + 过去分词` 表示被动语态指令或推测（意为“应当被……”）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The children earn a weekly `____` by completing their daily household chores.
+Can you run to the ____ and buy some eggs?
 
-- [x] allowance
-- [ ] depend on
-- [ ] get-together
+- [x] supermarket
+- [ ] all over the place
+- [ ] allowance
 
-> **解析**：`allowance` 可数名词，意为“津贴；零花钱”。短语 `weekly allowance`（每周零用钱）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Flatten all the empty `____` boxes before dropping them into the recycling bin.
+Read a calming story to the toddlers at ____.
 
-- [x] cardboard
-- [ ] errand
-- [ ] host
+- [x] bedtime
+- [ ] all over the place
+- [ ] allowance
 
-> **解析**：`cardboard` 不可数名词/形容词修饰语，意为“纸板；硬纸板”。`cardboard box`（纸箱）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-How long the chore takes will `____` how many people help out.
+Taking a short afternoon ____ will refresh your energy.
 
-- [x] depend on
-- [ ] folks
-- [ ] is to
+- [x] nap
+- [ ] all over the place
+- [ ] allowance
 
-> **解析**：`depend on` 固定动词短语，意为“取决于；依赖”。后接名词或从句。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Toys were scattered all over the ____ in the living room.
+
+- [x] place
+- [ ] all over the place
+- [ ] allowance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Flatten the heavy ____ boxes before recycling them.
+
+- [x] cardboard
+- [ ] all over the place
+- [ ] allowance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Put every tool back in its proper ____ after use.
+
+- [x] place
+- [ ] all over the place
+- [ ] allowance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+We are going to ____ a friendly neighborhood get-together.
+
+- [x] host
+- [ ] all over the place
+- [ ] allowance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Everyone enjoyed the lively weekend ____.
+
+- [x] get-together
+- [ ] all over the place
+- [ ] allowance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+We have unexpected ____ coming over for dinner tonight.
+
+- [x] company
+- [ ] all over the place
+- [ ] allowance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Good evening ____, welcome to our family dinner party!
+
+- [x] folks
+- [ ] all over the place
+- [ ] allowance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Our weekend plans depend on the sunny weather ____.
+
+- [x] condition
+- [ ] all over the place
+- [ ] allowance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+We need to ____ the chairs nicely in a circle.
+
+- [x] arrange
+- [ ] all over the place
+- [ ] allowance
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Any ____ you could help me clear the table now?
+
+- [x] chance
+- [ ] all over the place
+- [ ] allowance
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

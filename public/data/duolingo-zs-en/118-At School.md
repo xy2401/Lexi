@@ -61,83 +61,176 @@ confusing 描述事物（令人困惑），confused 描述人（感到困惑）�
 
 <quiz-sentence-builder>
 
-1. **中文**：我需要为生物课写一篇三页的关于环境保护的论文。  
-   **英文**：I need to write a three-page essay on environmental protection for biology class.
-   > **解析**：essay 作可数名词，意为“论文，短文”。在句中作 write 的宾语。
+1. **中文**：快点！我们必须快点去化学实验室听讲座。  
+   **英文**：Hurry up! We must attend the lecture in the laboratory.
+   > **解析**：hurry up 表示“快点”；attend 表示“参加/出席”；lecture 表示“讲座”；laboratory 表示“实验室”。
 
-2. **中文**：请在参加明天的课程之前阅读教科书的第五章。  
-   **英文**：Please read chapter five of the textbook before attending tomorrow's class.
-   > **解析**：chapter 作可数名词，意为“章节，篇章”。chapter five 表示“第五章”。
+2. **中文**：在校园里，食堂和学生宿舍挨得很近。  
+   **英文**：On campus, the dining hall and the dorm are side by side.
+   > **解析**：campus 表示“校园”；dining hall 表示“食堂”；dorm 表示“宿舍”。
 
-3. **中文**：这个数学公式有点令人困惑，所以我向老师寻求帮助。  
-   **英文**：The math formula was a bit confusing, so I asked the teacher.
-   > **解析**：confusing 作形容词，意为“令人困惑的，难懂的”。作表语。
+3. **中文**：教授要求我们复习第三章并写一篇短论文。  
+   **英文**：The professor asked us to review Chapter 3 and write an essay.
+   > **解析**：review 表示“复习/审查”；chapter 表示“章节”；essay 表示“论文/短文”。
 
-4. **中文**：教授指出了我作业里的错误答案。  
-   **英文**：The professor pointed out the incorrect answer in my assignment.
-   > **解析**：incorrect 作形容词，意为“不正确的，错误的”。修饰 answer。
+4. **中文**：这项科学研究的结果令人感到非常困惑。  
+   **英文**：The research result of this science test was confusing.
+   > **解析**：research 表示“研究”；result 表示“结果”；confusing 表示“令人困惑的”。
 
-5. **中文**：米勒博士做了一场关于欧洲现代史的精彩讲座。  
-   **英文**：Dr. Miller delivered an engaging lecture on modern European history.
-   > **解析**：lecture 作可数名词，意为“讲座，演讲”。deliver a lecture 意为“做讲座”。
+5. **中文**：你能翻译一下画下划线的这段话的意思吗？  
+   **英文**：Can you translate the meaning of the underlined sentence?
+   > **解析**：translate 表示“翻译”；meaning 表示“意思”；underline / underlined 表示“画下划线的”。
 
-6. **中文**：理科生在大学实验室里做化学实验。  
-   **英文**：Science students conduct chemistry experiments in the university laboratory.
-   > **解析**：laboratory (简称 lab) 作名词，意为“实验室”。
+6. **中文**：挑选出带有错误描述的选项并予以纠正。  
+   **英文**：Pick out the option with an incorrect description.
+   > **解析**：pick out 表示“挑选”；incorrect 表示“不正确的/错误的”；description 表示“描述”。
 
-7. **中文**：我和室友在我们的宿舍房间里复习期中考试。  
-   **英文**：My roommate and I studied for the mid-term exam in our dorm room.
-   > **解析**：dorm 作名词，意为“宿舍”。dorm room 表示“宿舍房间”。
+7. **中文**：修完这门中级课程后，你将获得结业证书。  
+   **英文**：After finishing the intermediate course, you get a certificate.
+   > **解析**：intermediate 表示“中级的”；certificate 表示“证书”。
 
-8. **中文**：快点，否则我们听历史讲座就要迟到了！  
-   **英文**：Hurry up or we will be late for the history lecture.
-   > **解析**：hurry up 为常用短语祈使句，意为“抓紧，快点”。
+8. **中文**：坐在第一排的那位学生写了一篇优秀的书面报告。  
+   **英文**：The student sitting in the front row wrote a nice written report.
+   > **解析**：row 表示“排/行”；written 表示“书面的”。
 
-9. **中文**：你能帮我把这个句子翻译成地道的英语吗？  
-   **英文**：Could you help me translate this sentence into natural English.
-   > **解析**：translate 作及物动词，意为“翻译”。translate A into B 意为“把A翻译成B”。
+9. **中文**：你知道这是谁的书面作业和研究报告吗？  
+   **英文**：Whose written essay and research work is this on the desk?
+   > **解析**：whose 表示“谁的”；written 表示“书面的”。
 
-10. **中文**：在字典里查找生词的意思以丰富知识。  
-   **英文**：Look up the meaning of unfamiliar words in a dictionary to expand your knowledge.
-   > **解析**：meaning 作名词，意为“意思，含义”。meaning of words 表示“单词的意思”。
+10. **中文**：这两篇关于校园生活的文章结构非常相似。  
+   **英文**：These two essays about campus life are very similar.
+   > **解析**：similar 表示“相似的/类似的”；essay 表示“论文”。
+
+11. **中文**：所有学生都被要求按时参加这门必修讲座。  
+   **英文**：All students are required to attend this lecture on time.
+   > **解析**：attend 表示“参加/出席”；lecture 表示“讲座”。
+
+12. **中文**：我们学校的校园环境非常美丽宜人。  
+   **英文**：The environment on our school campus is very beautiful.
+   > **解析**：campus 表示“校园”。
+
+13. **中文**：做完实验后，学生们在实验室里讨论结果。  
+   **英文**：Students discussed the results in the chemistry laboratory.
+   > **解析**：laboratory 表示“实验室”。
+
+14. **中文**：请仔细阅读说明，不要给出不正确的答案。  
+   **英文**：Read carefully and do not give an incorrect answer.
+   > **解析**：incorrect 表示“不正确的/错误的”。
+
+15. **中文**：老师让我们复习前两章的重点单词。  
+   **英文**：The teacher asked us to review the key words of Chapter two.
+   > **解析**：review 表示“复习”；chapter 表示“章节”。
+
+16. **中文**：如果你想通过中级考试，你必须努力学习。  
+   **英文**：If you want to pass the intermediate exam, work hard.
+   > **解析**：intermediate 表示“中级的”。
+
+17. **中文**：请在重点词汇下方画一条下划线。  
+   **英文**：Please draw a line to underline the key vocabulary.
+   > **解析**：underline 表示“在……下方画下划线”。
+
+18. **中文**：这篇论文对该课题做出了详尽的描述。  
+   **英文**：This essay gave a clear description of the research.
+   > **解析**：description 表示“描述/描写”。
+
+19. **中文**：快点！电影就要开始上映了！  
+   **英文**：Hurry up! The movie is about to start soon!
+   > **解析**：hurry up 表示“快点/赶快”。
+
+20. **中文**：他在研究考试结果后获得了荣誉证书。  
+   **英文**：He earned a certificate after getting good test results.
+   > **解析**：certificate 表示“证书/证明”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I need to write a three-page essay on environmental protection for biology class.
-   > **中文**：我需要为生物课写一篇三页的关于环境保护的论文。
+1. Hurry up! We must attend the lecture in the laboratory.
+   > **中文**：快点！我们必须快点去化学实验室听讲座。
 
-2. Please read chapter five of the textbook before attending tomorrow's class.
-   > **中文**：请在参加明天的课程之前阅读教科书的第五章。
+2. On campus, the dining hall and the dorm are side by side.
+   > **中文**：在校园里，食堂和学生宿舍挨得很近。
 
-3. The math formula was a bit confusing, so I asked the teacher.
-   > **中文**：这个数学公式有点令人困惑，所以我向老师寻求帮助。
+3. The professor asked us to review Chapter 3 and write an essay.
+   > **中文**：教授要求我们复习第三章并写一篇短论文。
 
-4. The professor pointed out the incorrect answer in my assignment.
-   > **中文**：教授指出了我作业里的错误答案。
+4. The research result of this science test was confusing.
+   > **中文**：这项科学研究的结果令人感到非常困惑。
 
-5. Dr. Miller delivered an engaging lecture on modern European history.
-   > **中文**：米勒博士做了一场关于欧洲现代史的精彩讲座。
+5. Can you translate the meaning of the underlined sentence?
+   > **中文**：你能翻译一下画下划线的这段话的意思吗？
 
-6. Science students conduct chemistry experiments in the university laboratory.
-   > **中文**：理科生在大学实验室里做化学实验。
+6. Pick out the option with an incorrect description.
+   > **中文**：挑选出带有错误描述的选项并予以纠正。
 
-7. My roommate and I studied for the mid-term exam in our dorm room.
-   > **中文**：我和室友在我们的宿舍房间里复习期中考试。
+7. After finishing the intermediate course, you get a certificate.
+   > **中文**：修完这门中级课程后，你将获得结业证书。
 
-8. Hurry up or we will be late for the history lecture.
-   > **中文**：快点，否则我们听历史讲座就要迟到了！
+8. The student sitting in the front row wrote a nice written report.
+   > **中文**：坐在第一排的那位学生写了一篇优秀的书面报告。
 
-9. Could you help me translate this sentence into natural English.
-   > **中文**：你能帮我把这个句子翻译成地道的英语吗？
+9. Whose written essay and research work is this on the desk?
+   > **中文**：你知道这是谁的书面作业和研究报告吗？
 
-10. Look up the meaning of unfamiliar words in a dictionary to expand your knowledge.
-   > **中文**：在字典里查找生词的意思以丰富知识。
+10. These two essays about campus life are very similar.
+   > **中文**：这两篇关于校园生活的文章结构非常相似。
+
+11. All students are required to attend this lecture on time.
+   > **中文**：所有学生都被要求按时参加这门必修讲座。
+
+12. The environment on our school campus is very beautiful.
+   > **中文**：我们学校的校园环境非常美丽宜人。
+
+13. Students discussed the results in the chemistry laboratory.
+   > **中文**：做完实验后，学生们在实验室里讨论结果。
+
+14. Read carefully and do not give an incorrect answer.
+   > **中文**：请仔细阅读说明，不要给出不正确的答案。
+
+15. The teacher asked us to review the key words of Chapter two.
+   > **中文**：老师让我们复习前两章的重点单词。
+
+16. If you want to pass the intermediate exam, work hard.
+   > **中文**：如果你想通过中级考试，你必须努力学习。
+
+17. Please draw a line to underline the key vocabulary.
+   > **中文**：请在重点词汇下方画一条下划线。
+
+18. This essay gave a clear description of the research.
+   > **中文**：这篇论文对该课题做出了详尽的描述。
+
+19. Hurry up! The movie is about to start soon!
+   > **中文**：快点！电影就要开始上映了！
+
+20. He earned a certificate after getting good test results.
+   > **中文**：他在研究考试结果后获得了荣誉证书。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| attend | 出席 / 参加 |
+| campus | 校园 |
+| certificate | 证书 / 证明 |
+| chapter | 章节 |
+| confusing | 令人困惑的 |
+| description | 描述 / 描写 |
+| essay | 论文 / 短文 |
+| hurry up | 快点 / 赶快 |
+| incorrect | 不正确的 / 错误的 |
+| intermediate | 中级的 |
+| laboratory | 实验室 |
+| lecture | 讲座 / 授课 |
+| meaning | 意思 / 含义 |
+| pick | 挑选 / 摘 |
+| research | 研究 / 调查 |
+| result | 结果 / 成绩 |
+| review | 复习 / 评审 |
+| row | 排 / 行 |
+| similar | 相似的 / 类似的 |
+| underline | 画下划线 / 强调 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ confusing 描述事物（令人困惑），confused 描述人（感到困惑）�
 
 ### 1
 
-I need to write a three-page `____` on environmental protection for biology class.
+Hurry up! We must ____ the lecture in the laboratory.
 
-- [x] essay
-- [ ] attend
-- [ ] confusing
+- [x] attend
+- [ ] campus
+- [ ] certificate
 
-> **解析**：essay 作可数名词，意为“论文，短文”。在句中作 write 的宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Please read chapter five of the textbook before `____`ing tomorrow's class.
+On ____, the dining hall and the dorm are side by side.
 
-- [x] attend
+- [x] campus
+- [ ] attend
 - [ ] certificate
-- [ ] dining hall
 
-> **解析**：chapter 作可数名词，意为“章节，篇章”。chapter five 表示“第五章”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The math formula was a bit `____`, so I asked the teacher.
+The professor asked us to ____ Chapter 3 and write an essay.
 
-- [x] confusing
-- [ ] certificate
-- [ ] dorm
+- [x] review
+- [ ] attend
+- [ ] campus
 
-> **解析**：confusing 作形容词，意为“令人困惑的，难懂的”。作表语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The professor pointed out the `____` answer in my assignment.
+The ____ result of this science test was confusing.
 
-- [x] incorrect
-- [ ] chapter
-- [ ] dorm
+- [x] research
+- [ ] attend
+- [ ] campus
 
-> **解析**：incorrect 作形容词，意为“不正确的，错误的”。修饰 answer。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Dr. Miller delivered an engaging `____` on modern European history.
+Can you ____ the meaning of the underlined sentence?
 
-- [x] lecture
-- [ ] confusing
-- [ ] essay
+- [x] translate
+- [ ] attend
+- [ ] campus
 
-> **解析**：lecture 作可数名词，意为“讲座，演讲”。deliver a lecture 意为“做讲座”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Science students conduct chemistry experiments in the university `____`.
+____ out the option with an incorrect description.
 
-- [x] laboratory
-- [ ] description
-- [ ] hurry up
+- [x] Pick
+- [ ] attend
+- [ ] campus
 
-> **解析**：laboratory (简称 lab) 作名词，意为“实验室”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-My roommate and I studied for the mid-term exam in our `____` room.
+After finishing the ____ course, you get a certificate.
 
-- [x] dorm
-- [ ] dining hall
-- [ ] intermediate
+- [x] intermediate
+- [ ] attend
+- [ ] campus
 
-> **解析**：dorm 作名词，意为“宿舍”。dorm room 表示“宿舍房间”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-`____` or we will be late for the history lecture.
+The student sitting in the front ____ wrote a nice written report.
 
-- [x] hurry up
-- [ ] dorm
-- [ ] laboratory
+- [x] row
+- [ ] attend
+- [ ] campus
 
-> **解析**：hurry up 为常用短语祈使句，意为“抓紧，快点”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Could you help me `____` this sentence into natural English.
+____ written essay and research work is this on the desk?
 
-- [x] translate
-- [ ] essay
-- [ ] laboratory
+- [x] Whose
+- [ ] attend
+- [ ] campus
 
-> **解析**：translate 作及物动词，意为“翻译”。translate A into B 意为“把A翻译成B”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Look up the `____` of unfamiliar words in a dictionary to expand your knowledge.
+These two essays about ____ life are very similar.
 
-- [x] meaning
-- [ ] hurry up
-- [ ] lecture
+- [x] campus
+- [ ] attend
+- [ ] certificate
 
-> **解析**：meaning 作名词，意为“意思，含义”。meaning of words 表示“单词的意思”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+All students are required to ____ this lecture on time.
+
+- [x] attend
+- [ ] campus
+- [ ] certificate
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The environment on our school ____ is very beautiful.
+
+- [x] campus
+- [ ] attend
+- [ ] certificate
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Students discussed the results in the chemistry ____.
+
+- [x] laboratory
+- [ ] attend
+- [ ] campus
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Read carefully and do not give an ____ answer.
+
+- [x] incorrect
+- [ ] attend
+- [ ] campus
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The teacher asked us to ____ the key words of Chapter two.
+
+- [x] review
+- [ ] attend
+- [ ] campus
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+If you want to pass the ____ exam, work hard.
+
+- [x] intermediate
+- [ ] attend
+- [ ] campus
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Please draw a line to ____ the key vocabulary.
+
+- [x] underline
+- [ ] attend
+- [ ] campus
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+This ____ gave a clear description of the research.
+
+- [x] essay
+- [ ] attend
+- [ ] campus
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+____ up! The movie is about to start soon!
+
+- [x] Hurry
+- [ ] attend
+- [ ] campus
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+He earned a ____ after getting good test results.
+
+- [x] certificate
+- [ ] attend
+- [ ] campus
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

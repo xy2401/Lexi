@@ -51,83 +51,176 @@ across, antique, basement, coffee table, compare, damage, did, do, does, don't, 
 
 <quiz-sentence-builder>
 
-1. **中文**：我们决定签一份公园附近公寓的两年租约。  
-   **英文**：We decided to sign a two-year lease for the apartment near the park.
-   > **解析**：lease 可作名词或动词，在此作名词意为“租约；租赁合同”，常与 sign、renew 等动词搭配。
+1. **中文**：他在客厅里放了一架珍贵的古董钢琴。
+   **英文**：My grandmother owns a piece of valuable antique furniture.
+   > **解析**：antique 表示“古董/古老的”。
 
-2. **中文**：新房子有一个宽敞的地下室，可以用作家庭健身房。  
-   **英文**：The new house has a spacious basement that can be used as a home gym.
-   > **解析**：basement 可数名词，意为“地下室”，通常位于建筑物的地下一层。
+2. **中文**：我们把暂不使用的储物箱存放在地下室里。
+   **英文**：They store old boxes down inside the basement.
+   > **解析**：basement 表示“地下室”。
 
-3. **中文**：我的祖父母更喜欢住在地面层（一楼），以避免爬楼梯。  
-   **英文**：My grandparents prefer living on the ground floor to avoid taking stairs.
-   > **解析**：ground floor 名词短语，指“建筑物的第一层/地面层”，介词用 on（on the ground floor）。
+3. **中文**：请把茶水杯放在客厅的这架茶几上。
+   **英文**：Put your coffee cup on the wooden coffee table.
+   > **解析**：coffee table 表示“茶几”。
 
-4. **中文**：搬家卡车大清早抵达，卸下我们的家具。  
-   **英文**：The moving truck arrived early in the morning to unload our furniture.
-   > **解析**：moving truck 名词短语，意为“搬家卡车/货车”，moving 为动名词作定语修饰 truck。
+4. **中文**：租房前不妨仔细比较几家公寓的租金价格。
+   **英文**：It is wise to compare prices before renting a room.
+   > **解析**：compare 表示“比较/对比”。
 
-5. **中文**：我们的房产中介带我们看了安静社区里的三栋宽敞房子。  
-   **英文**：Our real estate agent showed us three spacious houses in a quiet area.
-   > **解析**：real estate agent 名词短语，表示“房产经纪人/中介”，real estate 意为“房地产”。
+5. **中文**：暴风雨对那座住宅的屋外墙造成了严重损坏。
+   **英文**：The storm caused major damage to the roof of the house.
+   > **解析**：damage 表示“损坏/伤害”。
 
-6. **中文**：我们买了一张漂亮的木质茶几摆在沙发前面。  
-   **英文**：We bought a lovely wooden coffee table to place in front of the sofa about across.
-   > **解析**：coffee table 组合名词，意为“茶几；咖啡桌”，指放在客厅沙发前的矮桌。
+6. **中文**：老人为了方便居住，特意选了一楼的套房。
+   **英文**：Their new apartment is located on the ground floor.
+   > **解析**：ground floor 表示“一楼/首层”。
 
-7. **中文**：我们喜欢在温暖的夏夜坐在前门廊上。  
-   **英文**：We love sitting on the front porch during warm summer evenings.
-   > **解析**：porch 可数名词，意为“门廊；阳台”，常搭配介词 on（on the porch）。
+7. **中文**：租客在上周和房东签署了为期一年的租约。
+   **英文**：We signed a one-year lease for the new apartment.
+   > **解析**：lease 表示“租约/租赁”。
 
-8. **中文**：她用家族传下来的古董家具装饰客厅。  
-   **英文**：She decorates her living room with antique furniture passed down from her family.
-   > **解析**：antique 可作形容词“古董的；古老的”或名词“古董”，在此作形容词修饰 furniture。
+8. **中文**：我们下个月准备正式搬进新房子里去。
+   **英文**：They plan to move into their new house next weekend.
+   > **解析**：move into 表示“搬进”。
 
-9. **中文**：我们很高兴下个周末搬进新公寓。  
-   **英文**：We are excited to move into our new apartment next weekend.
-   > **解析**：move into 短语动词，意为“搬入/迁入（新居）”，后接表示地点的名词。
+9. **中文**：原租客将在本月底前完全搬出这座大楼。
+   **英文**：The previous tenant will move out at the end of month.
+   > **解析**：move out 表示“搬出”。
 
-10. **中文**：搬运重箱子时要小心，不要损坏木地板。  
-   **英文**：Be careful not to damage the wooden floor when moving heavy boxes.
-   > **解析**：damage 动词/名词，在此作动词表示“损坏；破坏”，后接宾语 the wooden floor。
+10. **中文**：搬家公司派了一辆大型搬家卡车前来帮忙。
+   **英文**：The workers loaded all our furniture onto the moving truck.
+   > **解析**：moving truck 表示“搬家卡车”。
+
+11. **中文**：“我不喜欢嘈杂的居住环境。”“我也不会。”
+   **英文**：I don't like loud noise, and neither do I like rain.
+   > **解析**：neither do I 表示“我也不会/我也不”。
+
+12. **中文**：房屋房东定期派人来检查水电设施。
+   **英文**：The house owner promised to fix the broken shower.
+   > **解析**：owner 表示“房东/所有者”。
+
+13. **中文**：夏天的夜晚，我们喜欢坐在前门的门廊上纳凉。
+   **英文**：We love sitting on the front porch in the evening.
+   > **解析**：porch 表示“门廊/走廊”。
+
+14. **中文**：房地产中介带我们参观了三套待租的公寓。
+   **英文**：The real estate agent showed us three rental properties.
+   > **解析**：real estate agent 表示“房地产中介”。
+
+15. **中文**：“我很喜欢带阳台的房间。”“我也一样。”
+   **英文**：I love spacious kitchens, and so do I prefer balconies.
+   > **解析**：so do I 表示“我也一样”。
+
+16. **中文**：每月房租里已经包含了水电气实用设施费用。
+   **英文**：Monthly rent includes all basic utilities like water and gas.
+   > **解析**：utilities 表示“水电气实用设施”。
+
+17. **中文**：本次搬家的总计费用在预算范围之内。
+   **英文**：The total cost of the move was lower than estimated.
+   > **解析**：total 表示“总计的/全部的”。
+
+18. **中文**：他们在这片安静的街区拥有属于自己的住宅。
+   **英文**：They own a cozy small house near the seaside.
+   > **解析**：own 表示“拥有/自己的”。
+
+19. **中文**：大楼安装了先进的安全防盗系统。
+   **英文**：The security system in the building works very well.
+   > **解析**：system 表示“系统”。
+
+20. **中文**：整栋房子最主要的主卧室位于二楼。
+   **英文**：The main bedroom has a large walk-in closet.
+   > **解析**：main 表示“主要的”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We decided to sign a two-year lease for the apartment near the park.
-   > **中文**：我们决定签一份公园附近公寓的两年租约。
+1. My grandmother owns a piece of valuable antique furniture.
+   > **中文**：他在客厅里放了一架珍贵的古董钢琴。
 
-2. The new house has a spacious basement that can be used as a home gym.
-   > **中文**：新房子有一个宽敞的地下室，可以用作家庭健身房。
+2. They store old boxes down inside the basement.
+   > **中文**：我们把暂不使用的储物箱存放在地下室里。
 
-3. My grandparents prefer living on the ground floor to avoid taking stairs.
-   > **中文**：我的祖父母更喜欢住在地面层（一楼），以避免爬楼梯。
+3. Put your coffee cup on the wooden coffee table.
+   > **中文**：请把茶水杯放在客厅的这架茶几上。
 
-4. The moving truck arrived early in the morning to unload our furniture.
-   > **中文**：搬家卡车大清早抵达，卸下我们的家具。
+4. It is wise to compare prices before renting a room.
+   > **中文**：租房前不妨仔细比较几家公寓的租金价格。
 
-5. Our real estate agent showed us three spacious houses in a quiet area.
-   > **中文**：我们的房产中介带我们看了安静社区里的三栋宽敞房子。
+5. The storm caused major damage to the roof of the house.
+   > **中文**：暴风雨对那座住宅的屋外墙造成了严重损坏。
 
-6. We bought a lovely wooden coffee table to place in front of the sofa about across.
-   > **中文**：我们买了一张漂亮的木质茶几摆在沙发前面。
+6. Their new apartment is located on the ground floor.
+   > **中文**：老人为了方便居住，特意选了一楼的套房。
 
-7. We love sitting on the front porch during warm summer evenings.
-   > **中文**：我们喜欢在温暖的夏夜坐在前门廊上。
+7. We signed a one-year lease for the new apartment.
+   > **中文**：租客在上周和房东签署了为期一年的租约。
 
-8. She decorates her living room with antique furniture passed down from her family.
-   > **中文**：她用家族传下来的古董家具装饰客厅。
+8. They plan to move into their new house next weekend.
+   > **中文**：我们下个月准备正式搬进新房子里去。
 
-9. We are excited to move into our new apartment next weekend.
-   > **中文**：我们很高兴下个周末搬进新公寓。
+9. The previous tenant will move out at the end of month.
+   > **中文**：原租客将在本月底前完全搬出这座大楼。
 
-10. Be careful not to damage the wooden floor when moving heavy boxes.
-   > **中文**：搬运重箱子时要小心，不要损坏木地板。
+10. The workers loaded all our furniture onto the moving truck.
+   > **中文**：搬家公司派了一辆大型搬家卡车前来帮忙。
+
+11. I don't like loud noise, and neither do I like rain.
+   > **中文**：“我不喜欢嘈杂的居住环境。”“我也不会。”
+
+12. The house owner promised to fix the broken shower.
+   > **中文**：房屋房东定期派人来检查水电设施。
+
+13. We love sitting on the front porch in the evening.
+   > **中文**：夏天的夜晚，我们喜欢坐在前门的门廊上纳凉。
+
+14. The real estate agent showed us three rental properties.
+   > **中文**：房地产中介带我们参观了三套待租的公寓。
+
+15. I love spacious kitchens, and so do I prefer balconies.
+   > **中文**：“我很喜欢带阳台的房间。”“我也一样。”
+
+16. Monthly rent includes all basic utilities like water and gas.
+   > **中文**：每月房租里已经包含了水电气实用设施费用。
+
+17. The total cost of the move was lower than estimated.
+   > **中文**：本次搬家的总计费用在预算范围之内。
+
+18. They own a cozy small house near the seaside.
+   > **中文**：他们在这片安静的街区拥有属于自己的住宅。
+
+19. The security system in the building works very well.
+   > **中文**：大楼安装了先进的安全防盗系统。
+
+20. The main bedroom has a large walk-in closet.
+   > **中文**：整栋房子最主要的主卧室位于二楼。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| antique | 古董 |
+| basement | 地下室 |
+| coffee table | 茶几 |
+| compare | 比较 |
+| damage | 损坏 |
+| ground floor | 一楼 / 首层 |
+| lease | 租约 |
+| move into | 搬进 |
+| move out | 搬出 |
+| moving truck | 搬家卡车 |
+| neither do I | 我也不会 |
+| owner | 房东 / 所有者 |
+| porch | 门廊 |
+| real estate agent | 房地产中介 |
+| so do I | 我也一样 |
+| utilities | 水电气设施 |
+| total | 总计的 |
+| own | 拥有 |
+| system | 系统 |
+| main | 主要的 |
 
 </quiz-matching>
 
@@ -135,102 +228,202 @@ across, antique, basement, coffee table, compare, damage, did, do, does, don't, 
 
 ### 1
 
-We decided to sign a two-year `____` for the apartment near the park.
+My grandmother owns a piece of valuable ____ furniture.
 
-- [x] lease
+- [x] antique
 - [ ] across
-- [ ] compare
+- [ ] basement
 
-> **解析**：lease 可作名词或动词，在此作名词意为“租约；租赁合同”，常与 sign、renew 等动词搭配。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The new house has a spacious `____` that can be used as a home gym.
+They store old boxes down inside the ____.
 
 - [x] basement
+- [ ] across
 - [ ] antique
-- [ ] did
 
-> **解析**：basement 可数名词，意为“地下室”，通常位于建筑物的地下一层。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-My grandparents prefer living on the `____` to avoid taking stairs.
+Put your ____ cup on the wooden coffee table.
 
-- [x] ground floor
-- [ ] basement
-- [ ] did
+- [x] coffee
+- [ ] across
+- [ ] antique
 
-> **解析**：ground floor 名词短语，指“建筑物的第一层/地面层”，介词用 on（on the ground floor）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The `____` arrived early in the morning to unload our furniture.
+It is wise to ____ prices before renting a room.
 
-- [x] moving truck
-- [ ] coffee table
-- [ ] do
+- [x] compare
+- [ ] across
+- [ ] antique
 
-> **解析**：moving truck 名词短语，意为“搬家卡车/货车”，moving 为动名词作定语修饰 truck。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Our `____` showed us three spacious houses in a quiet area.
+The storm caused major ____ to the roof of the house.
 
-- [x] real estate agent
-- [ ] compare
-- [ ] does
+- [x] damage
+- [ ] across
+- [ ] antique
 
-> **解析**：real estate agent 名词短语，表示“房产经纪人/中介”，real estate 意为“房地产”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-We bought a lovely wooden coffee table to place in front of the sofa about `____`.
+Their new ____ is located on the ground floor.
 
-- [x] across
-- [ ] did
-- [ ] ground floor
+- [x] apartment
+- [ ] across
+- [ ] antique
 
-> **解析**：coffee table 组合名词，意为“茶几；咖啡桌”，指放在客厅沙发前的矮桌。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-We love sitting on the front `____` during warm summer evenings.
+We signed a one-year ____ for the new apartment.
 
-- [x] porch
-- [ ] did
-- [ ] ground floor
+- [x] lease
+- [ ] across
+- [ ] antique
 
-> **解析**：porch 可数名词，意为“门廊；阳台”，常搭配介词 on（on the porch）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-She decorates her living room with `____` furniture passed down from her family.
+They plan to move into their new house next ____.
 
-- [x] antique
-- [ ] does
-- [ ] main
+- [x] weekend
+- [ ] across
+- [ ] antique
 
-> **解析**：antique 可作形容词“古董的；古老的”或名词“古董”，在此作形容词修饰 furniture。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-We are excited to `____` our new apartment next weekend.
+The ____ tenant will move out at the end of month.
 
-- [x] move into
-- [ ] does
-- [ ] main
+- [x] previous
+- [ ] across
+- [ ] antique
 
-> **解析**：move into 短语动词，意为“搬入/迁入（新居）”，后接表示地点的名词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Be careful not to `____` the wooden floor when moving heavy boxes.
+The workers loaded all our ____ onto the moving truck.
 
-- [x] damage
-- [ ] ground floor
-- [ ] move out
+- [x] furniture
+- [ ] across
+- [ ] antique
 
-> **解析**：damage 动词/名词，在此作动词表示“损坏；破坏”，后接宾语 the wooden floor。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+I ____ like loud noise, and neither do I like rain.
+
+- [x] don't
+- [ ] across
+- [ ] antique
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The house ____ promised to fix the broken shower.
+
+- [x] owner
+- [ ] across
+- [ ] antique
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+We love sitting on the front ____ in the evening.
+
+- [x] porch
+- [ ] across
+- [ ] antique
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The real estate agent showed us three rental ____.
+
+- [x] properties
+- [ ] across
+- [ ] antique
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+I love spacious kitchens, and so ____ I prefer balconies.
+
+- [x] do
+- [ ] across
+- [ ] antique
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Monthly rent includes all basic ____ like water and gas.
+
+- [x] utilities
+- [ ] across
+- [ ] antique
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The ____ cost of the move was lower than estimated.
+
+- [x] total
+- [ ] across
+- [ ] antique
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+They ____ a cozy small house near the seaside.
+
+- [x] own
+- [ ] across
+- [ ] antique
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The security ____ in the building works very well.
+
+- [x] system
+- [ ] across
+- [ ] antique
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+The ____ bedroom has a large walk-in closet.
+
+- [x] main
+- [ ] across
+- [ ] antique
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

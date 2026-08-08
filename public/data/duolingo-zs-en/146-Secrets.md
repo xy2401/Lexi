@@ -61,83 +61,176 @@ has been / have been 是现在完成进行时。by the time 引导时间状语�
 
 <quiz-sentence-builder>
 
-1. **中文**：我信任他并把我的私密秘密告诉了他，但他却透露给了所有人。  
-   **英文**：I trusted him with my private secret, but he revealed it to everyone.
-   > **解析**：secret 在句中作名词，意为“秘密”。trust sb. with sth. 意为“用某事信任某人/把某事托付给某人”。reveal 意为“透露”。
+1. **中文**：根据警察的说法，那个罪犯试图破门闯入大楼。  
+   **英文**：According to the police, the criminal tried to break into the house.
+   > **解析**：according to 表示“根据……”；criminal 表示“罪犯”；break into 表示“破门而入/强行闯入”。
 
-2. **中文**：很明显，当他声称对遗失的钥匙一无所知时，他说了谎。  
-   **英文**：It is clear that he told a lie when he claimed he knew nothing about the lost keys.
-   > **解析**：lie 在句中作名词，意为“谎言”。tell a lie 表示“撒谎”。claim 意为“声称”。
+2. **中文**：起初，没有任何人注意到黑夜里角落中的暗影。  
+   **英文**：At first, nobody noticed the mysterious shadow in the corner.
+   > **解析**：at first 表示“起初/最初”；notice / noticed 表示“注意到”；shadow 表示“阴影/暗影”。
 
-3. **中文**：她突然意识到她的朋友一直以来都在对她撒谎。  
-   **英文**：She suddenly realized that her friend had been lying to her all along.
-   > **解析**：realize 为动词，意为“意识到、发觉”。that 引导宾语从句。had been lying 为过去完成进行时。
+3. **中文**：当她突然意识到有人秘密跟踪她时，她发出了尖叫。  
+   **英文**：She screamed when she suddenly realized someone followed her in secret.
+   > **解析**：screamed 表示“尖叫了”；suddenly 表示“突然”；realized 表示“意识到”；in secret 表示“秘密地”。
 
-4. **中文**：当我们问起失踪的文件时，你注意到他的举止有多紧张了吗？  
-   **英文**：Did you notice how nervous he acted when we asked about the missing file.
-   > **解析**：notice 为动词，意为“注意到、察觉到”。how 引导宾语从句。act 意为“举止/表现”。
+4. **中文**：到那个罪犯出现的时候，警察已经赶到了现场。  
+   **英文**：By the time the criminal appeared, police had been there.
+   > **解析**：by the time 表示“到……的时候”；appear / appeared 表示“出现”；criminal 表示“罪犯”。
 
-5. **中文**：竞争对手们秘密会面，以规划他们下一步的商业举措。  
-   **英文**：The competitors met in secret to plan their next business move.
-   > **解析**：in secret 为固定介词短语，作状语修饰 met，意为“秘密地、私下”。与 secretly 同义。
+5. **中文**：那个小偷试图抓走珠宝并毁灭证据。  
+   **英文**：The thief tried to grab the jewelry and destroy evidence.
+   > **解析**：grab 表示“抓取/一把抓过”；destroy 表示“毁灭/破坏”。
 
-6. **中文**：突然，灯熄灭了，有人悄悄推开了房间门。  
-   **英文**：Suddenly, the lights turned off and someone opened the room door quietly.
-   > **解析**：suddenly 为副词，置于句首作状语，意为“突然、忽然”。表示意外发生的动作。
+6. **中文**：她保守着那个秘密，没有对任何人撒谎。  
+   **英文**：She kept that secret and did not lie to anyone about it.
+   > **解析**：secret 表示“秘密”；lie 表示“撒谎/躺”。
 
-7. **中文**：根据这份报告，嫌疑人在午夜前不久离开了大楼。  
-   **英文**：According to the report, the suspect left the building shortly before midnight.
-   > **解析**：according to 为复合介词，意为“根据、依据”。后接名词或名词短语（the report）。
+7. **中文**：过去的经历让她警惕，不再轻易相信陌生人。  
+   **英文**：Her past experience made her very careful with strangers.
+   > **解析**：past 表示“过去的”；experience 表示“经历”。
 
-8. **中文**：窃贼试图在周末大家回家后强行闯入办公室。  
-   **英文**：Thieves tried to break into the office after everyone went home for the weekend about appear.
-   > **解析**：break into 为动词短语，意为“强行闯入、盗窃”。break into the office 意为“闯入办公室”。
+8. **中文**：他突然大叫一声，吸引了周围所有人的注意。  
+   **英文**：He suddenly let out a loud scream in the quiet hall.
+   > **解析**：suddenly 表示“突然”；scream 表示“尖叫/大喊”。
 
-9. **中文**：当陌生人走过时，一道神秘的影子投射在墙壁上。  
-   **英文**：A mysterious shadow stretched across the wall as the stranger walked past.
-   > **解析**：shadow 为名词，意为“阴影、影子”。stretch across 意为“延伸/投射横跨”。
+9. **中文**：那伙贼设法破坏防盗锁并闯入了珠宝店。  
+   **英文**：The thieves managed to break into the jewelry shop.
+   > **解析**：break into 表示“闯入/破门而入”。
 
-10. **中文**：警方在跟踪追踪到该危险罪犯的位置后逮捕了他。  
-   **英文**：The police arrested the dangerous criminal after tracing his location.
-   > **解析**：criminal 为名词，意为“罪犯、刑事犯”。arrest 意为“逮捕”。trace location 意为“追踪位置”。
+10. **中文**：她抓起她的包包，飞快地跑出了房间。  
+   **英文**：She grabbed her handbag and ran out of the room quickly.
+   > **解析**：grabbed 表示“抓起/夺过”。
+
+11. **中文**：根据最新新闻报道，嫌疑人已被警方控制。  
+   **英文**：According to news, the suspect is now in police control.
+   > **解析**：according to 表示“根据/依据”。
+
+12. **中文**：起初大家都以为那只是一场误会。  
+   **英文**：At first, everyone believed it was just a misunderstanding.
+   > **解析**：at first 表示“起初/最初”。
+
+13. **中文**：那个不法分子破坏了公共设施，面临法律惩罚。  
+   **英文**：The criminal destroyed public property and faced law.
+   > **解析**：criminal 表示“罪犯”；destroyed 表示“破坏了/毁灭了”。
+
+14. **中文**：他们一直在秘密策划这场生日惊喜活动。  
+   **英文**：They have been planning this surprise event in secret.
+   > **解析**：in secret 表示“秘密地/暗中”。
+
+15. **中文**：墙上的阴影随着灯光的闪烁而摇晃。  
+   **英文**：The shadow on the wall moved as the light flickered.
+   > **解析**：shadow 表示“阴影/影子”。
+
+16. **中文**：当她听到这个令人震惊的消息时，她发出了尖叫。  
+   **英文**：She screamed when she heard the shocking news.
+   > **解析**：screamed 表示“尖叫”。
+
+17. **中文**：我直到刚才才突然意识到我的钱包丢了。  
+   **英文**：I suddenly realized my wallet was missing just now.
+   > **解析**：realized 表示“意识到/明白”。
+
+18. **中文**：大雾消散后，山顶的轮廓显现了出来。  
+   **英文**：After fog cleared, the mountain peak started to appear.
+   > **解析**：appear 表示“出现/显现”。
+
+19. **中文**：请对你的朋友保持诚实，永远不要撒谎。  
+   **英文**：Be honest with your friends and never lie to them.
+   > **解析**：lie 表示“撒谎”。
+
+20. **中文**：这是一个不能对外公开的商业秘密。  
+   **英文**：This is a company secret that cannot be made public.
+   > **解析**：secret 表示“秘密”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I trusted him with my private secret, but he revealed it to everyone.
-   > **中文**：我信任他并把我的私密秘密告诉了他，但他却透露给了所有人。
+1. According to the police, the criminal tried to break into the house.
+   > **中文**：根据警察的说法，那个罪犯试图破门闯入大楼。
 
-2. It is clear that he told a lie when he claimed he knew nothing about the lost keys.
-   > **中文**：很明显，当他声称对遗失的钥匙一无所知时，他说了谎。
+2. At first, nobody noticed the mysterious shadow in the corner.
+   > **中文**：起初，没有任何人注意到黑夜里角落中的暗影。
 
-3. She suddenly realized that her friend had been lying to her all along.
-   > **中文**：她突然意识到她的朋友一直以来都在对她撒谎。
+3. She screamed when she suddenly realized someone followed her in secret.
+   > **中文**：当她突然意识到有人秘密跟踪她时，她发出了尖叫。
 
-4. Did you notice how nervous he acted when we asked about the missing file.
-   > **中文**：当我们问起失踪的文件时，你注意到他的举止有多紧张了吗？
+4. By the time the criminal appeared, police had been there.
+   > **中文**：到那个罪犯出现的时候，警察已经赶到了现场。
 
-5. The competitors met in secret to plan their next business move.
-   > **中文**：竞争对手们秘密会面，以规划他们下一步的商业举措。
+5. The thief tried to grab the jewelry and destroy evidence.
+   > **中文**：那个小偷试图抓走珠宝并毁灭证据。
 
-6. Suddenly, the lights turned off and someone opened the room door quietly.
-   > **中文**：突然，灯熄灭了，有人悄悄推开了房间门。
+6. She kept that secret and did not lie to anyone about it.
+   > **中文**：她保守着那个秘密，没有对任何人撒谎。
 
-7. According to the report, the suspect left the building shortly before midnight.
-   > **中文**：根据这份报告，嫌疑人在午夜前不久离开了大楼。
+7. Her past experience made her very careful with strangers.
+   > **中文**：过去的经历让她警惕，不再轻易相信陌生人。
 
-8. Thieves tried to break into the office after everyone went home for the weekend about appear.
-   > **中文**：窃贼试图在周末大家回家后强行闯入办公室。
+8. He suddenly let out a loud scream in the quiet hall.
+   > **中文**：他突然大叫一声，吸引了周围所有人的注意。
 
-9. A mysterious shadow stretched across the wall as the stranger walked past.
-   > **中文**：当陌生人走过时，一道神秘的影子投射在墙壁上。
+9. The thieves managed to break into the jewelry shop.
+   > **中文**：那伙贼设法破坏防盗锁并闯入了珠宝店。
 
-10. The police arrested the dangerous criminal after tracing his location.
-   > **中文**：警方在跟踪追踪到该危险罪犯的位置后逮捕了他。
+10. She grabbed her handbag and ran out of the room quickly.
+   > **中文**：她抓起她的包包，飞快地跑出了房间。
+
+11. According to news, the suspect is now in police control.
+   > **中文**：根据最新新闻报道，嫌疑人已被警方控制。
+
+12. At first, everyone believed it was just a misunderstanding.
+   > **中文**：起初大家都以为那只是一场误会。
+
+13. The criminal destroyed public property and faced law.
+   > **中文**：那个不法分子破坏了公共设施，面临法律惩罚。
+
+14. They have been planning this surprise event in secret.
+   > **中文**：他们一直在秘密策划这场生日惊喜活动。
+
+15. The shadow on the wall moved as the light flickered.
+   > **中文**：墙上的阴影随着灯光的闪烁而摇晃。
+
+16. She screamed when she heard the shocking news.
+   > **中文**：当她听到这个令人震惊的消息时，她发出了尖叫。
+
+17. I suddenly realized my wallet was missing just now.
+   > **中文**：我直到刚才才突然意识到我的钱包丢了。
+
+18. After fog cleared, the mountain peak started to appear.
+   > **中文**：大雾消散后，山顶的轮廓显现了出来。
+
+19. Be honest with your friends and never lie to them.
+   > **中文**：请对你的朋友保持诚实，永远不要撒谎。
+
+20. This is a company secret that cannot be made public.
+   > **中文**：这是一个不能对外公开的商业秘密。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| according to | 根据 / 依据 |
+| appear | 出现 / 显现 |
+| at first | 起初 / 最初 |
+| break into | 闯入 / 破门而入 |
+| by the time | 到……的时候 |
+| criminal | 罪犯 / 刑事的 |
+| destroy | 破坏 / 毁灭 |
+| grab | 抓取 / 夺过 |
+| in secret | 秘密地 / 暗中 |
+| lie | 撒谎 / 躺 |
+| notice | 注意到 / 通知 |
+| past | 过去的 / 过去 |
+| realize | 意识到 / 实现 |
+| scream | 尖叫 / 大喊 |
+| secret | 秘密 |
+| shadow | 阴影 / 影子 |
+| suddenly | 突然 |
+| been | 是/在（be的过去分词） |
+| has been | 已经是 |
+| have been | 已经是 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ has been / have been 是现在完成进行时。by the time 引导时间状语�
 
 ### 1
 
-I trusted him with my private `____`, but he revealed it to everyone.
+According to the police, the ____ tried to break into the house.
 
-- [x] secret
+- [x] criminal
 - [ ] according to
-- [ ] break into
+- [ ] appear
 
-> **解析**：secret 在句中作名词，意为“秘密”。trust sb. with sth. 意为“用某事信任某人/把某事托付给某人”。reveal 意为“透露”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-It is clear that he told a `____` when he claimed he knew nothing about the lost keys.
+At first, nobody noticed the mysterious ____ in the corner.
 
-- [x] lie
+- [x] shadow
+- [ ] according to
 - [ ] appear
-- [ ] by
 
-> **解析**：lie 在句中作名词，意为“谎言”。tell a lie 表示“撒谎”。claim 意为“声称”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-She suddenly realized that her friend had `____` lying to her all along.
+She screamed when she ____ realized someone followed her in secret.
 
-- [x] been
-- [ ] at first
-- [ ] criminal
+- [x] suddenly
+- [ ] according to
+- [ ] appear
 
-> **解析**：realize 为动词，意为“意识到、发觉”。that 引导宾语从句。had been lying 为过去完成进行时。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Did you `____` how nervous he acted when we asked about the missing file.
+____ the time the criminal appeared, police had been there.
 
-- [x] notice
-- [ ] been
-- [ ] criminal
+- [x] By
+- [ ] according to
+- [ ] appear
 
-> **解析**：notice 为动词，意为“注意到、察觉到”。how 引导宾语从句。act 意为“举止/表现”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The competitors met `____` to plan their next business move.
+The thief tried to ____ the jewelry and destroy evidence.
 
-- [x] in secret
-- [ ] break into
-- [ ] destroy
+- [x] grab
+- [ ] according to
+- [ ] appear
 
-> **解析**：in secret 为固定介词短语，作状语修饰 met，意为“秘密地、私下”。与 secretly 同义。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-`____`, the lights turned off and someone opened the room door quietly.
+She kept that ____ and did not lie to anyone about it.
 
-- [x] suddenly
-- [ ] by
-- [ ] grab
+- [x] secret
+- [ ] according to
+- [ ] appear
 
-> **解析**：suddenly 为副词，置于句首作状语，意为“突然、忽然”。表示意外发生的动作。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-`____` the report, the suspect left the building shortly before midnight.
+Her ____ experience made her very careful with strangers.
 
-- [x] according to
-- [ ] criminal
-- [ ] have been
+- [x] past
+- [ ] according to
+- [ ] appear
 
-> **解析**：according to 为复合介词，意为“根据、依据”。后接名词或名词短语（the report）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Thieves tried to break into the office after everyone went home for the weekend about `____`.
+He ____ let out a loud scream in the quiet hall.
 
-- [x] appear
-- [ ] destroy
-- [ ] in secret
+- [x] suddenly
+- [ ] according to
+- [ ] appear
 
-> **解析**：break into 为动词短语，意为“强行闯入、盗窃”。break into the office 意为“闯入办公室”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-A mysterious shadow stretched across the wall as the stranger walked `____`.
+The ____ managed to break into the jewelry shop.
 
-- [x] past
-- [ ] destroy
-- [ ] in secret
+- [x] thieves
+- [ ] according to
+- [ ] appear
 
-> **解析**：shadow 为名词，意为“阴影、影子”。stretch across 意为“延伸/投射横跨”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The police arrested the dangerous `____` after tracing his location.
+She ____ her handbag and ran out of the room quickly.
+
+- [x] grabbed
+- [ ] according to
+- [ ] appear
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+____ to news, the suspect is now in police control.
+
+- [x] According
+- [ ] according to
+- [ ] appear
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+At first, everyone believed it was just a ____.
+
+- [x] misunderstanding
+- [ ] according to
+- [ ] appear
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The ____ destroyed public property and faced law.
 
 - [x] criminal
-- [ ] has been
-- [ ] notice
+- [ ] according to
+- [ ] appear
 
-> **解析**：criminal 为名词，意为“罪犯、刑事犯”。arrest 意为“逮捕”。trace location 意为“追踪位置”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+They have ____ planning this surprise event in secret.
+
+- [x] been
+- [ ] according to
+- [ ] appear
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The ____ on the wall moved as the light flickered.
+
+- [x] shadow
+- [ ] according to
+- [ ] appear
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+She ____ when she heard the shocking news.
+
+- [x] screamed
+- [ ] according to
+- [ ] appear
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+I ____ realized my wallet was missing just now.
+
+- [x] suddenly
+- [ ] according to
+- [ ] appear
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+After fog cleared, the mountain peak started to ____.
+
+- [x] appear
+- [ ] according to
+- [ ] at first
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Be honest with your friends and never ____ to them.
+
+- [x] lie
+- [ ] according to
+- [ ] appear
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+This is a company ____ that cannot be made public.
+
+- [x] secret
+- [ ] according to
+- [ ] appear
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

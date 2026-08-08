@@ -63,83 +63,176 @@ back, camp, clearly, get, hit it off, homesick, irresponsible, junk food, long-d
 
 <quiz-sentence-builder>
 
-1. **中文**：回顾老相册总是能带回温暖的童年回忆。  
-   **英文**：Looking back at old photograph albums always brings back warm childhood memories.
-   > **解析**：`back` 副词，在短语 `look back at / bring back` 中表示“向后；勾起回忆”。
+1. **中文**：还记得我们过去常常在晚上偷偷溜出夏营吗？
+   **英文**：Remember when we used to sneak out of camp at night?
+   > **解析**：sneak out 意为偷偷溜出去。
 
-2. **中文**：当我们在夏令营第一次见面时，我们立刻一见如故/合得来，成为了最好的朋友。  
-   **英文**：When we first met at summer camp, we immediately hit it off and became best friends.
-   > **解析**：`hit it off` 习惯动词短语，意为“一见如故；投缘；合得来”。
+2. **中文**：还记得那次我们整晚不睡吃垃圾食品吗？
+   **英文**：Remember that time we stayed up all night eating junk food?
+   > **解析**：junk food 意为垃圾食品。
 
-3. **中文**：我们以前常常在暑假里熬夜吃垃圾食品、看电影。  
-   **英文**：We used to stay up late eating junk food and watching movies during summer breaks.
-   > **解析**：`junk food` 不可数名词短语，指“垃圾食品；无营养食品”。
+3. **中文**：我们过去常轮流在篝火旁讲鬼故事。
+   **英文**：We'd take turns telling ghost stories around the campfire.
+   > **解析**：take turns 意为轮流。
 
-4. **中文**：我们全家的海滨小镇之旅是我年轻时最难忘的经历之一。  
-   **英文**：Our family trip to the coastal village was one of the most memorable experiences of my youth.
-   > **解析**：`memorable` 形容词，意为“难忘的；值得纪念的”。
+4. **中文**：虽然一开始我们没有任何共同点，但我们立刻就一见如故。
+   **英文**：We hit it off right away, even though we had nothing in common at first.
+   > **解析**：hit it off 意为一见如故、相处融洽。
 
-5. **中文**：每年国庆节，全镇人都聚集在主街观看游行。  
-   **英文**：Every year on National Day, the whole town gathered on Main Street to watch the parade.
-   > **解析**：`parade` 可数名词，意为“游行；检阅”。常用搭配 `watch a parade`。
+5. **中文**：当你搬到另一个城市时，很容易失去联系。
+   **英文**：It's easy to lose touch when you move to another city.
+   > **解析**：lose touch 意为失去联系。
 
-6. **中文**：十几岁时，我们过去常在半夜偷溜出房间去看星星。  
-   **英文**：As teenagers, we used to sneak out of the house to watch the stars at midnight.
-   > **解析**：`sneak out` 不及物动词短语，意为“偷偷溜出去”。搭配 `sneak out of + 场所`。
+6. **中文**：难怪你在夏令营的第一周感到想家。
+   **英文**：No wonder you felt homesick during your first week at camp.
+   > **解析**：homesick 意为想家的。
 
-7. **中文**：我爷爷教过我如何用扑克牌表演一个简单的魔术技巧。  
-   **英文**：My grandfather taught me how to perform a simple magic trick with playing cards.
-   > **解析**：`trick` 可数名词，意为“戏法；技巧；恶作剧”。`magic trick`（魔术戏法）。
+7. **中文**：回想起来，我们当时是如此鲁莽和不负责任。
+   **英文**：Looking back, we were so reckless and irresponsible.
+   > **解析**：irresponsible 意为不负责任的。
 
-8. **中文**：我对夏令营里围坐在篝火旁唱歌有着美好的回忆。  
-   **英文**：I have fond memories of sitting around the campfire at summer camp singing songs (junk food) about clearly.
-   > **解析**：`camp` 可数/不可数名词，在此处指“露营地；夏令营（summer camp）”。
+8. **中文**：我清晰地记得和家人一起观看年度游行。
+   **英文**：I clearly remember watching the annual parade with my family.
+   > **解析**：parade 意为游行、巡游。
 
-9. **中文**：当我第一次去寄宿学校时，头一个月我感到非常想家。  
-   **英文**：When I first went away to boarding school, I felt extremely homesick for the first month.
-   > **解析**：`homesick` 形容词，意为“思乡的；想家的”。常用搭配 `feel homesick`。
+9. **中文**：高中时我们有很多难忘的时刻。
+   **英文**：We had so many memorable moments back in high school.
+   > **解析**：memorable 意为难忘的。
 
-10. **中文**：毕业后，与高中的熟人逐渐失去联系是很常见的。  
-   **英文**：After graduation, it is easy to gradually lose touch with high school acquaintances.
-   > **解析**：`lose touch` 动词短语，意为“失去联系”。搭配 `lose touch with sb.`。
+10. **中文**：我们过去常在长途电话里聊上几个小时。
+   **英文**：We used to talk for hours on long-distance calls.
+   > **解析**：long-distance 意为长途的。
+
+11. **中文**：在捉弄邻居的时候，我忘了时间。
+   **英文**：I lost track of time while playing tricks on my neighbors.
+   > **解析**：lose track 意为失去追踪、忘记（时间）。
+
+12. **中文**：尽管面临挑战，她总是保持积极的态度。
+   **英文**：She always kept a positive attitude despite the challenges.
+   > **解析**：positive 意为积极的、正面的。
+
+13. **中文**：我们过去整夏天都在湖边夏令营度过。
+   **英文**：We'd spend all summer at the lake camp.
+   > **解析**：camp 意为夏令营、营地。
+
+14. **中文**：难怪他们成了最好的朋友。
+   **英文**：It is no wonder that they became best friends.
+   > **解析**：no wonder 意为难怪、怪不得。
+
+15. **中文**：离开家后的第一个月，我感到想家。
+   **英文**：I felt homesick during my first month away from home.
+   > **解析**：homesick 意为想家的。
+
+16. **中文**：长途自驾游时他们会轮流开车。
+   **英文**：They would take turns driving on long road trips.
+   > **解析**：would 在回忆语境中表过去常常。
+
+17. **中文**：他对室友耍了个搞笑的恶作剧。
+   **英文**：He played a funny trick on his roommate.
+   > **解析**：trick 意为恶作剧、把戏。
+
+18. **中文**：我们第一次见面时没有任何共同点。
+   **英文**：We had nothing in common when we first met.
+   > **解析**：nothing in common 意为没有共同点。
+
+19. **中文**：过去，我们没有智能手机。
+   **英文**：Back in the day, we did not have smartphones.
+   > **解析**：back in the day 意为过去、以前。
+
+20. **中文**：我清楚地记得那次旅行的每一个细节。
+   **英文**：I clearly recall every single details of that trip.
+   > **解析**：clearly 意为清楚地、明确地。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Looking back at old photograph albums always brings back warm childhood memories.
-   > **中文**：回顾老相册总是能带回温暖的童年回忆。
+1. Remember when we used to sneak out of camp at night?
+   > **中文**：还记得我们过去常常在晚上偷偷溜出夏营吗？
 
-2. When we first met at summer camp, we immediately hit it off and became best friends.
-   > **中文**：当我们在夏令营第一次见面时，我们立刻一见如故/合得来，成为了最好的朋友。
+2. Remember that time we stayed up all night eating junk food?
+   > **中文**：还记得那次我们整晚不睡吃垃圾食品吗？
 
-3. We used to stay up late eating junk food and watching movies during summer breaks.
-   > **中文**：我们以前常常在暑假里熬夜吃垃圾食品、看电影。
+3. We'd take turns telling ghost stories around the campfire.
+   > **中文**：我们过去常轮流在篝火旁讲鬼故事。
 
-4. Our family trip to the coastal village was one of the most memorable experiences of my youth.
-   > **中文**：我们全家的海滨小镇之旅是我年轻时最难忘的经历之一。
+4. We hit it off right away, even though we had nothing in common at first.
+   > **中文**：虽然一开始我们没有任何共同点，但我们立刻就一见如故。
 
-5. Every year on National Day, the whole town gathered on Main Street to watch the parade.
-   > **中文**：每年国庆节，全镇人都聚集在主街观看游行。
+5. It's easy to lose touch when you move to another city.
+   > **中文**：当你搬到另一个城市时，很容易失去联系。
 
-6. As teenagers, we used to sneak out of the house to watch the stars at midnight.
-   > **中文**：十几岁时，我们过去常在半夜偷溜出房间去看星星。
+6. No wonder you felt homesick during your first week at camp.
+   > **中文**：难怪你在夏令营的第一周感到想家。
 
-7. My grandfather taught me how to perform a simple magic trick with playing cards.
-   > **中文**：我爷爷教过我如何用扑克牌表演一个简单的魔术技巧。
+7. Looking back, we were so reckless and irresponsible.
+   > **中文**：回想起来，我们当时是如此鲁莽和不负责任。
 
-8. I have fond memories of sitting around the campfire at summer camp singing songs (junk food) about clearly.
-   > **中文**：我对夏令营里围坐在篝火旁唱歌有着美好的回忆。
+8. I clearly remember watching the annual parade with my family.
+   > **中文**：我清晰地记得和家人一起观看年度游行。
 
-9. When I first went away to boarding school, I felt extremely homesick for the first month.
-   > **中文**：当我第一次去寄宿学校时，头一个月我感到非常想家。
+9. We had so many memorable moments back in high school.
+   > **中文**：高中时我们有很多难忘的时刻。
 
-10. After graduation, it is easy to gradually lose touch with high school acquaintances.
-   > **中文**：毕业后，与高中的熟人逐渐失去联系是很常见的。
+10. We used to talk for hours on long-distance calls.
+   > **中文**：我们过去常在长途电话里聊上几个小时。
+
+11. I lost track of time while playing tricks on my neighbors.
+   > **中文**：在捉弄邻居的时候，我忘了时间。
+
+12. She always kept a positive attitude despite the challenges.
+   > **中文**：尽管面临挑战，她总是保持积极的态度。
+
+13. We'd spend all summer at the lake camp.
+   > **中文**：我们过去整夏天都在湖边夏令营度过。
+
+14. It is no wonder that they became best friends.
+   > **中文**：难怪他们成了最好的朋友。
+
+15. I felt homesick during my first month away from home.
+   > **中文**：离开家后的第一个月，我感到想家。
+
+16. They would take turns driving on long road trips.
+   > **中文**：长途自驾游时他们会轮流开车。
+
+17. He played a funny trick on his roommate.
+   > **中文**：他对室友耍了个搞笑的恶作剧。
+
+18. We had nothing in common when we first met.
+   > **中文**：我们第一次见面时没有任何共同点。
+
+19. Back in the day, we did not have smartphones.
+   > **中文**：过去，我们没有智能手机。
+
+20. I clearly recall every single details of that trip.
+   > **中文**：我清楚地记得那次旅行的每一个细节。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| remember when | 还记得……的时候吗 |
+| remember that time | 还记得那次……吗 |
+| hit it off | 一见如故；合得来 |
+| lose touch | 失去联系 |
+| lose track | 忘记（时间）；失去追踪 |
+| sneak out | 偷偷溜出去 |
+| homesick | 想家的 |
+| irresponsible | 不负责任的 |
+| junk food | 垃圾食品 |
+| parade | 游行；巡游 |
+| no wonder | 难怪；怪不得 |
+| nothing in common | 没有共同点 |
+| memorable | 难忘的 |
+| positive | 积极的；正面的 |
+| take turns | 轮流 |
+| clearly | 清楚地 |
+| camp | 夏令营；营地 |
+| trick | 恶作剧；把戏 |
+| long-distance | 长途的 |
+| back | 过去；以前 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ back, camp, clearly, get, hit it off, homesick, irresponsible, junk food, long-d
 
 ### 1
 
-Looking `____` at old photograph albums always brings back warm childhood memories.
+Remember when we used to sneak out of ____ at night?
 
-- [x] back
-- [ ] camp
-- [ ] homesick
+- [x] camp
+- [ ] back
+- [ ] clearly
 
-> **解析**：`back` 副词，在短语 `look back at / bring back` 中表示“向后；勾起回忆”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-When we first met at summer `____`, we immediately hit it off and became best friends.
+____ that time we stayed up all night eating junk food?
 
-- [x] camp
-- [ ] clearly
-- [ ] irresponsible
+- [x] Remember
+- [ ] back
+- [ ] camp
 
-> **解析**：`hit it off` 习惯动词短语，意为“一见如故；投缘；合得来”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-We used to stay up late eating `____` and watching movies during summer breaks.
+____ take turns telling ghost stories around the campfire.
 
-- [x] junk food
-- [ ] clearly
-- [ ] irresponsible
+- [x] We'd
+- [ ] back
+- [ ] camp
 
-> **解析**：`junk food` 不可数名词短语，指“垃圾食品；无营养食品”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Our family trip to the coastal village was one of the most `____` experiences of my youth.
+We hit it off right away, even though we had ____ in common at first.
 
-- [x] memorable
-- [ ] get
-- [ ] junk food
+- [x] nothing
+- [ ] back
+- [ ] camp
 
-> **解析**：`memorable` 形容词，意为“难忘的；值得纪念的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Every year on National Day, the whole town gathered on Main Street to watch the `____`.
+It's easy to lose touch when you move to ____ city.
 
-- [x] parade
-- [ ] hit it off
-- [ ] long-distance
+- [x] another
+- [ ] back
+- [ ] camp
 
-> **解析**：`parade` 可数名词，意为“游行；检阅”。常用搭配 `watch a parade`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-As teenagers, we used to `____` of the house to watch the stars at midnight.
+No wonder you felt ____ during your first week at camp.
 
-- [x] sneak out
-- [ ] homesick
-- [ ] lose touch
+- [x] homesick
+- [ ] back
+- [ ] camp
 
-> **解析**：`sneak out` 不及物动词短语，意为“偷偷溜出去”。搭配 `sneak out of + 场所`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-My grandfather taught me how to perform a simple magic `____` with playing cards.
+Looking ____, we were so reckless and irresponsible.
 
-- [x] trick
-- [ ] irresponsible
-- [ ] lose track
+- [x] back
+- [ ] camp
+- [ ] clearly
 
-> **解析**：`trick` 可数名词，意为“戏法；技巧；恶作剧”。`magic trick`（魔术戏法）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-I have fond memories of sitting around the campfire at summer camp singing songs (junk food) about `____`.
+I ____ remember watching the annual parade with my family.
 
 - [x] clearly
-- [ ] long-distance
-- [ ] no wonder
+- [ ] back
+- [ ] camp
 
-> **解析**：`camp` 可数/不可数名词，在此处指“露营地；夏令营（summer camp）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-When I first went away to boarding school, I felt extremely `____` for the first month.
+We had so many ____ moments back in high school.
 
-- [x] homesick
-- [ ] lose touch
-- [ ] nothing in common
+- [x] memorable
+- [ ] back
+- [ ] camp
 
-> **解析**：`homesick` 形容词，意为“思乡的；想家的”。常用搭配 `feel homesick`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-After graduation, it is easy to gradually `____` with high school acquaintances.
+We used to ____ for hours on long-distance calls.
 
-- [x] lose touch
-- [ ] lose track
-- [ ] parade
+- [x] talk
+- [ ] back
+- [ ] camp
 
-> **解析**：`lose touch` 动词短语，意为“失去联系”。搭配 `lose touch with sb.`。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+I lost track of time while playing tricks on my ____.
+
+- [x] neighbors
+- [ ] back
+- [ ] camp
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+She always kept a ____ attitude despite the challenges.
+
+- [x] positive
+- [ ] back
+- [ ] camp
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+____ spend all summer at the lake camp.
+
+- [x] We'd
+- [ ] back
+- [ ] camp
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+It is no wonder that they became best ____.
+
+- [x] friends
+- [ ] back
+- [ ] camp
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+I felt ____ during my first month away from home.
+
+- [x] homesick
+- [ ] back
+- [ ] camp
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+They ____ take turns driving on long road trips.
+
+- [x] would
+- [ ] back
+- [ ] camp
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+He played a funny ____ on his roommate.
+
+- [x] trick
+- [ ] back
+- [ ] camp
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+We had ____ in common when we first met.
+
+- [x] nothing
+- [ ] back
+- [ ] camp
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+____ in the day, we did not have smartphones.
+
+- [x] Back
+- [ ] camp
+- [ ] clearly
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+I ____ recall every single details of that trip.
+
+- [x] clearly
+- [ ] back
+- [ ] camp
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

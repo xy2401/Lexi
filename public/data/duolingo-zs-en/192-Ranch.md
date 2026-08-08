@@ -55,83 +55,176 @@ blow away / blown 涉及风的描写——The wind blown across the flat land. H
 
 <quiz-sentence-builder>
 
-1. **中文**：我叔叔在蒙大拿州经营着一个拥有辽阔绿色草场的养牛农场。  
-   **英文**：My uncle runs a cattle ranch with vast green fields in Montana.
-   > **解析**：ranch 可数名词，意为“（大）农场；牧场”，特指养殖牛羊等牲畜的场所。
+1. **中文**：草地上那头强壮的公牛正吃着青草。
+   **英文**：A large bull was grazing quietly in the pasture.
+   > **解析**：bull 表示“公牛”。
 
-2. **中文**：牛仔在安静的河岸附近放牧着一群牛。  
-   **英文**：The cowboy grazed a herd of cattle near the quiet riverbank blow away.
-   > **解析**：cattle 集合名词，复数概念，意为“牛；牲畜”，谓语动词用复数。
+2. **中文**：母牛正在草地上关爱地照顾它的小牛。
+   **英文**：The cow was nursing her young calf in the barn.
+   > **解析**：calf 表示“小牛/幼犊”。
 
-3. **中文**：小牛羔紧紧依偎在木制牛棚里的妈妈身边。  
-   **英文**：The young calf stayed close to its mother in the wooden barn.
-   > **解析**：calf 可数名词，意为“小牛；幼犊”，复数形式为 calves。
+3. **中文**：农场主养了一大群小牛们在草场奔跑。
+   **英文**：Farmer raised ten small calves on his private ranch.
+   > **解析**：calves 是 calf 的复数形式，意为“小牛们”。
 
-4. **中文**：那只友善的驴子驮着沉重的粮袋上了小山丘。  
-   **英文**：The friendly donkey carried heavy sacks of grain up the small hill.
-   > **解析**：donkey 可数名词，意为“驴”，复数形式直接加 -s 为 donkeys。
+4. **中文**：牛仔骑着马把大群牛群赶回牛棚。
+   **英文**：The cowboys herded the cattle across the river.
+   > **解析**：cattle 表示“牛群/家牛”。
 
-5. **中文**：我们看见一只小山羊正在牧场的岩石斜坡上攀爬。  
-   **英文**：We saw a small goat climbing the rocky slope on the ranch.
-   > **解析**：goat 可数名词，意为“山羊”。
+5. **中文**：呼吸着新鲜空气，广阔的乡村风景让人陶醉。
+   **英文**：Living in the peaceful countryside is very relaxing.
+   > **解析**：countryside 表示“乡村/郊外”。
 
-6. **中文**：参观农场的游客可以在下午体验有导游带领的骑马活动。  
-   **英文**：Tourists visiting the ranch can enjoy guided horseback riding in the afternoon.
-   > **解析**：horseback riding 不可数名词短语，意为“骑马活动”。
+6. **中文**：小驴拉着满载粮草的货车走在小路上。
+   **英文**：The little donkey carried a heavy bag of feed.
+   > **解析**：donkey 表示“驴/小驴”。
 
-7. **中文**：住在宁静的乡村带给人一种新鲜的平静感。  
-   **英文**：Living in the quiet countryside brings a fresh sense of peace.
-   > **解析**：countryside 不可数名词，意为“乡村；郊外”，通常与定冠词 the 连用。
+7. **中文**：每天清晨农夫都会去马厩给动物喂养食物。
+   **英文**：Farmers feed the animals every morning at dawn.
+   > **解析**：feed 表示“喂养/饲料”。
 
-8. **中文**：日出时开阔的农场风景看起来令人叹为观止。  
-   **英文**：The open ranch landscape looks breathtaking at sunrise.
-   > **解析**：landscape 可数/不可数名词，意为“风景；景色；地貌”。
+8. **中文**：那只活泼的山羊轻松跳上了石堆。
+   **英文**：A white goat climbed up the rocky hill easily.
+   > **解析**：goat 表示“山羊”。
 
-9. **中文**：农场的土地大部分平坦，很方便马匹奔跑。  
-   **英文**：The ranch land is mostly flat, making it easy for horses to run.
-   > **解析**：flat 形容词，在此意为“平坦的；平的”。
+9. **中文**：游客们在牧场里体验了刺激的骑马活动。
+   **英文**：We went horseback riding across the grassy meadow.
+   > **解析**：horseback riding 表示“骑马活动”。
 
-10. **中文**：农场动物在大橡树的树荫下休息。  
-   **英文**：The farm animals rested under the shade of the big oak tree.
-   > **解析**：shade 不可数名词，意为“阴凉处；树荫”，介词常用 under（under the shade）。
+10. **中文**：从山顶俯瞰，整片自然风景美不胜收。
+   **英文**：The autumn landscape looked picturesque in sunshine.
+   > **解析**：landscape 表示“风景/地貌”。
+
+11. **中文**：他在德克萨斯州经营着一家大型私人牧场。
+   **英文**：His family owns a cattle ranch in the west.
+   > **解析**：ranch 表示“大农场/牧场”。
+
+12. **中文**：我们在沙质的海滩沙丘上发现了一些贝壳。
+   **英文**：The sandy beach stretched for miles along the coast.
+   > **解析**：sandy 表示“沙质的/多沙的”。
+
+13. **中文**：夏日大热天，农夫坐在大树的树荫下休息。
+   **英文**：We sat in the cool shade of the big oak tree.
+   > **解析**：shade 表示“树荫/阴凉处”。
+
+14. **中文**：小船缓缓靠向了平静的湖泊湖畔。
+   **英文**：Waves washed gently against the rocky shore.
+   > **解析**：shore 表示“海岸/湖畔”。
+
+15. **中文**：强风把牧场上的草帽给吹走了。
+   **英文**：Strong wind threatened to blow away the paper hat.
+   > **解析**：blow away 表示“吹走/刮走”。
+
+16. **中文**：一阵大风过后，地上的树叶都被吹走了。
+   **英文**：Her hat was blown away by the strong sea gust.
+   > **解析**：blown 是 blow 的过去分词，was blown 意为“被吹走”。
+
+17. **中文**：这片平坦的草地非常适合建立露营帐篷。
+   **英文**：The land near the river is smooth and flat.
+   > **解析**：flat 表示“平坦的”。
+
+18. **中文**：牧场位于该州的东部平原地区。
+   **英文**：They live in the eastern part of the province.
+   > **解析**：eastern 表示“东部的”。
+
+19. **中文**：北部的山区冬季常降大雪。
+   **英文**：Cold winds blow across the northern border.
+   > **解析**：northern 表示“北部的”。
+
+20. **中文**：南部的海岸线吸引了无数度假游客。
+   **英文**：We spent vacation in a quiet southern coastal town.
+   > **解析**：southern 表示“南部的”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. My uncle runs a cattle ranch with vast green fields in Montana.
-   > **中文**：我叔叔在蒙大拿州经营着一个拥有辽阔绿色草场的养牛农场。
+1. A large bull was grazing quietly in the pasture.
+   > **中文**：草地上那头强壮的公牛正吃着青草。
 
-2. The cowboy grazed a herd of cattle near the quiet riverbank blow away.
-   > **中文**：牛仔在安静的河岸附近放牧着一群牛。
+2. The cow was nursing her young calf in the barn.
+   > **中文**：母牛正在草地上关爱地照顾它的小牛。
 
-3. The young calf stayed close to its mother in the wooden barn.
-   > **中文**：小牛羔紧紧依偎在木制牛棚里的妈妈身边。
+3. Farmer raised ten small calves on his private ranch.
+   > **中文**：农场主养了一大群小牛们在草场奔跑。
 
-4. The friendly donkey carried heavy sacks of grain up the small hill.
-   > **中文**：那只友善的驴子驮着沉重的粮袋上了小山丘。
+4. The cowboys herded the cattle across the river.
+   > **中文**：牛仔骑着马把大群牛群赶回牛棚。
 
-5. We saw a small goat climbing the rocky slope on the ranch.
-   > **中文**：我们看见一只小山羊正在牧场的岩石斜坡上攀爬。
+5. Living in the peaceful countryside is very relaxing.
+   > **中文**：呼吸着新鲜空气，广阔的乡村风景让人陶醉。
 
-6. Tourists visiting the ranch can enjoy guided horseback riding in the afternoon.
-   > **中文**：参观农场的游客可以在下午体验有导游带领的骑马活动。
+6. The little donkey carried a heavy bag of feed.
+   > **中文**：小驴拉着满载粮草的货车走在小路上。
 
-7. Living in the quiet countryside brings a fresh sense of peace.
-   > **中文**：住在宁静的乡村带给人一种新鲜的平静感。
+7. Farmers feed the animals every morning at dawn.
+   > **中文**：每天清晨农夫都会去马厩给动物喂养食物。
 
-8. The open ranch landscape looks breathtaking at sunrise.
-   > **中文**：日出时开阔的农场风景看起来令人叹为观止。
+8. A white goat climbed up the rocky hill easily.
+   > **中文**：那只活泼的山羊轻松跳上了石堆。
 
-9. The ranch land is mostly flat, making it easy for horses to run.
-   > **中文**：农场的土地大部分平坦，很方便马匹奔跑。
+9. We went horseback riding across the grassy meadow.
+   > **中文**：游客们在牧场里体验了刺激的骑马活动。
 
-10. The farm animals rested under the shade of the big oak tree.
-   > **中文**：农场动物在大橡树的树荫下休息。
+10. The autumn landscape looked picturesque in sunshine.
+   > **中文**：从山顶俯瞰，整片自然风景美不胜收。
+
+11. His family owns a cattle ranch in the west.
+   > **中文**：他在德克萨斯州经营着一家大型私人牧场。
+
+12. The sandy beach stretched for miles along the coast.
+   > **中文**：我们在沙质的海滩沙丘上发现了一些贝壳。
+
+13. We sat in the cool shade of the big oak tree.
+   > **中文**：夏日大热天，农夫坐在大树的树荫下休息。
+
+14. Waves washed gently against the rocky shore.
+   > **中文**：小船缓缓靠向了平静的湖泊湖畔。
+
+15. Strong wind threatened to blow away the paper hat.
+   > **中文**：强风把牧场上的草帽给吹走了。
+
+16. Her hat was blown away by the strong sea gust.
+   > **中文**：一阵大风过后，地上的树叶都被吹走了。
+
+17. The land near the river is smooth and flat.
+   > **中文**：这片平坦的草地非常适合建立露营帐篷。
+
+18. They live in the eastern part of the province.
+   > **中文**：牧场位于该州的东部平原地区。
+
+19. Cold winds blow across the northern border.
+   > **中文**：北部的山区冬季常降大雪。
+
+20. We spent vacation in a quiet southern coastal town.
+   > **中文**：南部的海岸线吸引了无数度假游客。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| bull | 公牛 |
+| calf | 小牛 |
+| calves | 小牛们 |
+| cattle | 牛群 |
+| countryside | 乡村 |
+| donkey | 驴 |
+| feed | 喂养 / 饲料 |
+| goat | 山羊 |
+| horseback riding | 骑马 |
+| landscape | 风景 / 地貌 |
+| ranch | 牧场 |
+| sandy | 沙质的 |
+| shade | 树荫 / 阴凉处 |
+| shore | 海岸 / 湖畔 |
+| blow away | 吹走 |
+| blown | 吹走（blow的过去分词） |
+| flat | 平坦的 |
+| eastern | 东部的 |
+| northern | 北部的 |
+| southern | 南部的 |
 
 </quiz-matching>
 
@@ -139,102 +232,202 @@ blow away / blown 涉及风的描写——The wind blown across the flat land. H
 
 ### 1
 
-My uncle runs a `____` ranch with vast green fields in Montana.
+A large ____ was grazing quietly in the pasture.
 
-- [x] cattle
+- [x] bull
 - [ ] blow away
-- [ ] calves
+- [ ] blown
 
-> **解析**：ranch 可数名词，意为“（大）农场；牧场”，特指养殖牛羊等牲畜的场所。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The cowboy grazed a herd of cattle near the quiet riverbank `____`.
+The cow was nursing her young ____ in the barn.
 
-- [x] blow away
-- [ ] bull
-- [ ] countryside
+- [x] calf
+- [ ] blow away
+- [ ] blown
 
-> **解析**：cattle 集合名词，复数概念，意为“牛；牲畜”，谓语动词用复数。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The young `____` stayed close to its mother in the wooden barn.
+Farmer raised ten small ____ on his private ranch.
 
-- [x] calf
-- [ ] bull
-- [ ] donkey
+- [x] calves
+- [ ] blow away
+- [ ] blown
 
-> **解析**：calf 可数名词，意为“小牛；幼犊”，复数形式为 calves。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The friendly `____` carried heavy sacks of grain up the small hill.
+The cowboys herded the ____ across the river.
 
-- [x] donkey
-- [ ] calf
-- [ ] eastern
+- [x] cattle
+- [ ] blow away
+- [ ] blown
 
-> **解析**：donkey 可数名词，意为“驴”，复数形式直接加 -s 为 donkeys。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-We saw a small `____` climbing the rocky slope on the ranch.
+Living in the peaceful ____ is very relaxing.
 
-- [x] goat
-- [ ] calves
-- [ ] eastern
+- [x] countryside
+- [ ] blow away
+- [ ] blown
 
-> **解析**：goat 可数名词，意为“山羊”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Tourists visiting the ranch can enjoy guided `____` in the afternoon.
+The little ____ carried a heavy bag of feed.
 
-- [x] horseback riding
-- [ ] cattle
-- [ ] feed
+- [x] donkey
+- [ ] blow away
+- [ ] blown
 
-> **解析**：horseback riding 不可数名词短语，意为“骑马活动”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Living in the quiet `____` brings a fresh sense of peace.
+Farmers ____ the animals every morning at dawn.
 
-- [x] countryside
-- [ ] donkey
-- [ ] goat
+- [x] feed
+- [ ] blow away
+- [ ] blown
 
-> **解析**：countryside 不可数名词，意为“乡村；郊外”，通常与定冠词 the 连用。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The open ranch `____`scape looks breathtaking at sunrise.
+A white ____ climbed up the rocky hill easily.
 
-- [x] land
-- [ ] donkey
-- [ ] goat
+- [x] goat
+- [ ] blow away
+- [ ] blown
 
-> **解析**：landscape 可数/不可数名词，意为“风景；景色；地貌”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The ranch land is mostly `____`, making it easy for horses to run.
+We went ____ riding across the grassy meadow.
 
-- [x] flat
-- [ ] eastern
-- [ ] land
+- [x] horseback
+- [ ] blow away
+- [ ] blown
 
-> **解析**：flat 形容词，在此意为“平坦的；平的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The farm animals rested under the `____` of the big oak tree.
+The autumn ____ looked picturesque in sunshine.
+
+- [x] landscape
+- [ ] blow away
+- [ ] blown
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+His family owns a ____ ranch in the west.
+
+- [x] cattle
+- [ ] blow away
+- [ ] blown
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The ____ beach stretched for miles along the coast.
+
+- [x] sandy
+- [ ] blow away
+- [ ] blown
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+We sat in the cool ____ of the big oak tree.
 
 - [x] shade
-- [ ] feed
-- [ ] land
+- [ ] blow away
+- [ ] blown
 
-> **解析**：shade 不可数名词，意为“阴凉处；树荫”，介词常用 under（under the shade）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Waves washed gently against the rocky ____.
+
+- [x] shore
+- [ ] blow away
+- [ ] blown
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Strong wind ____ to blow away the paper hat.
+
+- [x] threatened
+- [ ] blow away
+- [ ] blown
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Her hat was ____ away by the strong sea gust.
+
+- [x] blown
+- [ ] blow away
+- [ ] bull
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The ____ near the river is smooth and flat.
+
+- [x] land
+- [ ] blow away
+- [ ] blown
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+They live in the ____ part of the province.
+
+- [x] eastern
+- [ ] blow away
+- [ ] blown
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Cold winds blow across the ____ border.
+
+- [x] northern
+- [ ] blow away
+- [ ] blown
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+We spent vacation in a quiet ____ coastal town.
+
+- [x] southern
+- [ ] blow away
+- [ ] blown
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

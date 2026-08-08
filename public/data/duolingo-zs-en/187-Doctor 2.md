@@ -53,83 +53,176 @@ have to be / need to be / want to be / will be 这组结构表达了义务、需
 
 <quiz-sentence-builder>
 
-1. **中文**：发烧和持续咳嗽是流感感染的常见症状。  
-   **英文**：Fever and a persistent cough are common symptoms of a flu infection.
-   > **解析**：symptom 可数名词，意为“（疾病的）症状”，复数形式加 -s。
+1. **中文**：打篮球时不小心扭伤了右脚脚踝。
+   **英文**：He twisted his right ankle while playing basketball.
+   > **解析**：ankle 表示“脚踝”。
 
-2. **中文**：去诊所就诊时一定要带上你的医疗保险卡。  
-   **英文**：Make sure to bring your health insurance card when visiting the clinic.
-   > **解析**：health insurance 名词短语，意为“医疗保险”，不可数名词。
+2. **中文**：伤口在医生包扎前流血了很久。
+   **英文**：The deep cut bled for a few minutes before stopping.
+   > **解析**：bled 是 bleed 的过去式，表示“流血了”。
 
-3. **中文**：那个小男孩因剧烈的耳朵痛醒来，无法入睡。  
-   **英文**：The little boy woke up with a sharp earache and could not sleep.
-   > **解析**：earache 可数/不可数名词，意为“耳朵痛”，由 ear（耳朵）+ ache（疼痛）合成。
+3. **中文**：孩子因为急性中耳炎发作而患了耳朵痛。
+   **英文**：The child woke up with a painful earache last night.
+   > **解析**：earache 表示“耳朵痛/耳痛”。
 
-4. **中文**：她在打网球时扭伤了脚踝，需要休息。  
-   **英文**：She twisted her ankle while playing tennis and needs to rest it.
-   > **解析**：ankle 可数名词，意为“脚踝；踝关节”，twist one's ankle 意为扭伤脚踝。
+4. **中文**：看医生前请确认你的医疗保险覆盖范围。
+   **英文**：Make sure your health insurance covers emergency visits.
+   > **解析**：health insurance 表示“医疗保险”。
 
-5. **中文**：外科医生为受伤的运动员成功进行了膝关节手术。  
-   **英文**：The surgeon performed a successful knee surgery on the injured athlete.
-   > **解析**：surgery 不可数/可数名词，意为“外科手术”，动词搭配常用 perform 或 undergo。
+5. **中文**：滑雪时不慎摔倒使他的左臂受伤了。
+   **英文**：He did not injure himself during the bicycle fall.
+   > **解析**：injure 表示“使受伤/伤害”。
 
-6. **中文**：物理治疗是针对慢性背痛的有效治疗方法。  
-   **英文**：Physical therapy is an effective treatment for chronic back pain.
-   > **解析**：treatment 可数/不可数名词，意为“治疗；疗法”，来自动词 treat。
+6. **中文**：医生耐心地回答了病人提出的每一个问题。
+   **英文**：The kind doctor examined the patient carefully.
+   > **解析**：patient 表示“病人/患者”。
 
-7. **中文**：医生花了三十分钟仔细倾听病人的诉说。  
-   **英文**：The doctor spent thirty minutes listening carefully to the patient.
-   > **解析**：patient 在此作名词，意为“病人；患者”；也可作形容词表示“有耐心的”。
+7. **中文**：那位孕妇定期去医院做产前检查。
+   **英文**：The pregnant woman visited the clinic for a checkup.
+   > **解析**：pregnant 表示“怀孕的/孕妇的”。
 
-8. **中文**：这位孕妇预约了医生进行定期健康检查。  
-   **英文**：The pregnant woman scheduled a regular health checkup with her doctor.
-   > **解析**：pregnant 形容词，意为“怀孕的”，作定语修饰 woman 或作表语。
+8. **中文**：患者向诊所申请了开具一份正式的诊断证明。
+   **英文**：She made a formal request for her medical records.
+   > **解析**：request 表示“请求/申请”。
 
-9. **中文**：昨天跑完马拉松后，他的肌肉开始发酸发痛。  
-   **英文**：His muscles began to ache after running a full marathon yesterday (health insurance) about bled.
-   > **解析**：ache 动词/名词，在此作动词意为“疼痛；酸痛”，主语为身体部位或肌肉。
+9. **中文**：由于突发急诊，医生不得不重新安排时间你的门诊。
+   **英文**：I need to reschedule my doctor appointment for Friday.
+   > **解析**：reschedule 表示“重新安排时间/改期”。
 
-10. **中文**：在冰上要小心，以免跌倒伤到背部。  
-   **英文**：Be careful on the ice so you do not fall and injure your back about cover.
-   > **解析**：injure 及物动词，意为“伤害；使受伤”，形容词为 injured。
+10. **中文**：外外科手术团队成功救治了重伤患者的生命。
+   **英文**：Surgeons worked hard to save the patient's life.
+   > **解析**：save 表示“救治/挽救”。
+
+11. **中文**：这种外用药膏有助于舒缓干燥受损的皮肤。
+   **英文**：Apply the soothing cream to dry skin twice daily.
+   > **解析**：skin 表示“皮肤”。
+
+12. **中文**：主治医师顺利完成了一场复杂的外科手术。
+   **英文**：The knee surgery was successful and took two hours.
+   > **解析**：surgery 表示“外科手术”。
+
+13. **中文**：持续高烧是感冒感染的常见症状之一。
+   **英文**：A high fever is a common symptom of the flu.
+   > **解析**：symptom 表示“症状/征兆”。
+
+14. **中文**：切菜时不小心用锋利的菜刀切伤了大拇指。
+   **英文**：He cut his thumb while chopping vegetables in kitchen.
+   > **解析**：thumb 表示“大拇指”。
+
+15. **中文**：医生为患有关节炎的病人制定了最佳治疗方案。
+   **英文**：The doctor prescribed effective treatment for the illness.
+   > **解析**：treatment 表示“治疗/疗法”。
+
+16. **中文**：大病初愈后，他的身体感到稍微有些虚弱。
+   **英文**：She felt very weak after recovering from the fever.
+   > **解析**：weak 表示“虚弱的/无力的”。
+
+17. **中文**：护士推着受伤腿骨的患者坐着轮椅出来。
+   **英文**：The patient used a wheelchair to move around clinic.
+   > **解析**：wheelchair 表示“轮椅”。
+
+18. **中文**：医生说所有病人在手术前必须是空腹状态。
+   **英文**：Patients have to be careful after taking this medication.
+   > **解析**：have to be 表示“必须是”。
+
+19. **中文**：此项检查需要是清晨空腹进行的。
+   **英文**：Medical tools need to be sterilized before surgery.
+   > **解析**：need to be 表示“需要是/必须被”。
+
+20. **中文**：手术后你将会是健康完全康复的状态。
+   **英文**：You will be feeling much better after a night's rest.
+   > **解析**：will be 表示“将会是”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Fever and a persistent cough are common symptoms of a flu infection.
-   > **中文**：发烧和持续咳嗽是流感感染的常见症状。
+1. He twisted his right ankle while playing basketball.
+   > **中文**：打篮球时不小心扭伤了右脚脚踝。
 
-2. Make sure to bring your health insurance card when visiting the clinic.
-   > **中文**：去诊所就诊时一定要带上你的医疗保险卡。
+2. The deep cut bled for a few minutes before stopping.
+   > **中文**：伤口在医生包扎前流血了很久。
 
-3. The little boy woke up with a sharp earache and could not sleep.
-   > **中文**：那个小男孩因剧烈的耳朵痛醒来，无法入睡。
+3. The child woke up with a painful earache last night.
+   > **中文**：孩子因为急性中耳炎发作而患了耳朵痛。
 
-4. She twisted her ankle while playing tennis and needs to rest it.
-   > **中文**：她在打网球时扭伤了脚踝，需要休息。
+4. Make sure your health insurance covers emergency visits.
+   > **中文**：看医生前请确认你的医疗保险覆盖范围。
 
-5. The surgeon performed a successful knee surgery on the injured athlete.
-   > **中文**：外科医生为受伤的运动员成功进行了膝关节手术。
+5. He did not injure himself during the bicycle fall.
+   > **中文**：滑雪时不慎摔倒使他的左臂受伤了。
 
-6. Physical therapy is an effective treatment for chronic back pain.
-   > **中文**：物理治疗是针对慢性背痛的有效治疗方法。
+6. The kind doctor examined the patient carefully.
+   > **中文**：医生耐心地回答了病人提出的每一个问题。
 
-7. The doctor spent thirty minutes listening carefully to the patient.
-   > **中文**：医生花了三十分钟仔细倾听病人的诉说。
+7. The pregnant woman visited the clinic for a checkup.
+   > **中文**：那位孕妇定期去医院做产前检查。
 
-8. The pregnant woman scheduled a regular health checkup with her doctor.
-   > **中文**：这位孕妇预约了医生进行定期健康检查。
+8. She made a formal request for her medical records.
+   > **中文**：患者向诊所申请了开具一份正式的诊断证明。
 
-9. His muscles began to ache after running a full marathon yesterday (health insurance) about bled.
-   > **中文**：昨天跑完马拉松后，他的肌肉开始发酸发痛。
+9. I need to reschedule my doctor appointment for Friday.
+   > **中文**：由于突发急诊，医生不得不重新安排时间你的门诊。
 
-10. Be careful on the ice so you do not fall and injure your back about cover.
-   > **中文**：在冰上要小心，以免跌倒伤到背部。
+10. Surgeons worked hard to save the patient's life.
+   > **中文**：外外科手术团队成功救治了重伤患者的生命。
+
+11. Apply the soothing cream to dry skin twice daily.
+   > **中文**：这种外用药膏有助于舒缓干燥受损的皮肤。
+
+12. The knee surgery was successful and took two hours.
+   > **中文**：主治医师顺利完成了一场复杂的外科手术。
+
+13. A high fever is a common symptom of the flu.
+   > **中文**：持续高烧是感冒感染的常见症状之一。
+
+14. He cut his thumb while chopping vegetables in kitchen.
+   > **中文**：切菜时不小心用锋利的菜刀切伤了大拇指。
+
+15. The doctor prescribed effective treatment for the illness.
+   > **中文**：医生为患有关节炎的病人制定了最佳治疗方案。
+
+16. She felt very weak after recovering from the fever.
+   > **中文**：大病初愈后，他的身体感到稍微有些虚弱。
+
+17. The patient used a wheelchair to move around clinic.
+   > **中文**：护士推着受伤腿骨的患者坐着轮椅出来。
+
+18. Patients have to be careful after taking this medication.
+   > **中文**：医生说所有病人在手术前必须是空腹状态。
+
+19. Medical tools need to be sterilized before surgery.
+   > **中文**：此项检查需要是清晨空腹进行的。
+
+20. You will be feeling much better after a night's rest.
+   > **中文**：手术后你将会是健康完全康复的状态。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| ankle | 脚踝 |
+| bled | 流血（bleed的过去式） |
+| earache | 耳朵痛 |
+| health insurance | 医疗保险 |
+| injure | 使受伤 |
+| patient | 病人 |
+| pregnant | 怀孕的 |
+| request | 请求 / 申请 |
+| reschedule | 重新安排时间 |
+| save | 救治 / 挽救 |
+| skin | 皮肤 |
+| surgery | 外科手术 |
+| symptom | 症状 |
+| thumb | 大拇指 |
+| treatment | 治疗 / 疗法 |
+| weak | 虚弱的 |
+| wheelchair | 轮椅 |
+| have to be | 必须是 |
+| need to be | 需要是 |
+| will be | 将会是 |
 
 </quiz-matching>
 
@@ -137,102 +230,202 @@ have to be / need to be / want to be / will be 这组结构表达了义务、需
 
 ### 1
 
-Fever and a persistent cough are common `____`s of a flu infection.
+He twisted his right ____ while playing basketball.
 
-- [x] symptom
+- [x] ankle
 - [ ] ache
-- [ ] cover
+- [ ] be
 
-> **解析**：symptom 可数名词，意为“（疾病的）症状”，复数形式加 -s。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Make sure to bring your `____` card when visiting the clinic.
+The deep cut ____ for a few minutes before stopping.
 
-- [x] health insurance
+- [x] bled
+- [ ] ache
 - [ ] ankle
-- [ ] ear
 
-> **解析**：health insurance 名词短语，意为“医疗保险”，不可数名词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The little boy woke up with a sharp ear`____` and could not sleep.
+The child woke up with a painful ____ last night.
 
-- [x] ache
-- [ ] bled
-- [ ] have to be
+- [x] earache
+- [ ] ache
+- [ ] ankle
 
-> **解析**：earache 可数/不可数名词，意为“耳朵痛”，由 ear（耳朵）+ ache（疼痛）合成。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-She twisted her `____` while playing tennis and needs to rest it.
+Make sure your health ____ covers emergency visits.
 
-- [x] ankle
-- [ ] cover
-- [ ] health insurance
+- [x] insurance
+- [ ] ache
+- [ ] ankle
 
-> **解析**：ankle 可数名词，意为“脚踝；踝关节”，twist one's ankle 意为扭伤脚踝。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The surgeon performed a successful knee surgery on the `____`d athlete.
+He did not ____ himself during the bicycle fall.
 
 - [x] injure
-- [ ] cover
-- [ ] health insurance
+- [ ] ache
+- [ ] ankle
 
-> **解析**：surgery 不可数/可数名词，意为“外科手术”，动词搭配常用 perform 或 undergo。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Physical therapy is an effective `____` for chronic back pain.
+The kind doctor examined the ____ carefully.
 
-- [x] treatment
-- [ ] ear
-- [ ] injure
+- [x] patient
+- [ ] ache
+- [ ] ankle
 
-> **解析**：treatment 可数/不可数名词，意为“治疗；疗法”，来自动词 treat。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The doctor spent thirty minutes listening carefully to the `____`.
+The ____ woman visited the clinic for a checkup.
 
-- [x] patient
-- [ ] earache
-- [ ] need to be
+- [x] pregnant
+- [ ] ache
+- [ ] ankle
 
-> **解析**：patient 在此作名词，意为“病人；患者”；也可作形容词表示“有耐心的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The `____` woman scheduled a regular health checkup with her doctor.
+She made a formal ____ for her medical records.
 
-- [x] pregnant
-- [ ] have to be
-- [ ] patient
+- [x] request
+- [ ] ache
+- [ ] ankle
 
-> **解析**：pregnant 形容词，意为“怀孕的”，作定语修饰 woman 或作表语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-His muscles `____`gan to ache after running a full marathon yesterday (health insurance) about bled.
+I need to ____ my doctor appointment for Friday.
 
-- [x] be
-- [ ] injure
-- [ ] request
+- [x] reschedule
+- [ ] ache
+- [ ] ankle
 
-> **解析**：ache 动词/名词，在此作动词意为“疼痛；酸痛”，主语为身体部位或肌肉。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Be careful on the ice so you do not fall and injure your back about `____`.
+Surgeons worked hard to ____ the patient's life.
 
-- [x] cover
-- [ ] need to be
-- [ ] reschedule
+- [x] save
+- [ ] ache
+- [ ] ankle
 
-> **解析**：injure 及物动词，意为“伤害；使受伤”，形容词为 injured。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Apply the soothing cream to dry ____ twice daily.
+
+- [x] skin
+- [ ] ache
+- [ ] ankle
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The knee ____ was successful and took two hours.
+
+- [x] surgery
+- [ ] ache
+- [ ] ankle
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+A high fever is a common ____ of the flu.
+
+- [x] symptom
+- [ ] ache
+- [ ] ankle
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+He cut his ____ while chopping vegetables in kitchen.
+
+- [x] thumb
+- [ ] ache
+- [ ] ankle
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The doctor prescribed effective ____ for the illness.
+
+- [x] treatment
+- [ ] ache
+- [ ] ankle
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+She felt very ____ after recovering from the fever.
+
+- [x] weak
+- [ ] ache
+- [ ] ankle
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The ____ used a wheelchair to move around clinic.
+
+- [x] patient
+- [ ] ache
+- [ ] ankle
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Patients have to ____ careful after taking this medication.
+
+- [x] be
+- [ ] ache
+- [ ] ankle
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Medical tools need to ____ sterilized before surgery.
+
+- [x] be
+- [ ] ache
+- [ ] ankle
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+You will ____ feeling much better after a night's rest.
+
+- [x] be
+- [ ] ache
+- [ ] ankle
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

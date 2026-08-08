@@ -63,83 +63,176 @@ best bet, bush, could, cut down, gardener, green thumb, ground, have to be, hire
 
 <quiz-sentence-builder>
 
-1. **中文**：购买本地植物是你打造低维护花园的最佳选择。  
-   **英文**：Buying native plants is your best bet for keeping a low-maintenance garden.
-   > **解析**：`best bet` 为常用口语短语，意为“最佳选择；最明智的做法”。
+1. **中文**：雇用一名专业园丁是你拥有漂亮草坪的最佳选择。  
+   **英文**：Hiring a professional gardener is your best bet for a nice lawn.
+   > **解析**：best bet 表示最佳选择、最稳妥的做法。
 
-2. **中文**：有经验的园丁确切地知道何时修剪果树以获得最佳产量。  
-   **英文**：An experienced gardener knows exactly when to prune fruit trees for optimal yield.
-   > **解析**：`gardener` 可数名词，意为“园丁；花匠”，由 `garden` 派生而来。
+2. **中文**：她很有园艺天赋，培育出了美丽的玫瑰。  
+   **英文**：She has a green thumb and grows beautiful roses.
+   > **解析**：green thumb 表示园艺天赋。
 
-3. **中文**：我们决定雇佣一名专业的景观设计师来改造我们的后院草坪。  
-   **英文**：We decided to hire a professional landscaper to remodel our backyard lawn.
-   > **解析**：`hire` 及物动词，意为“雇佣；聘请”。搭配 `hire sb. to do sth.`。
+3. **中文**：我们这周末需要修剪过长的草坪。  
+   **英文**：We need to mow the overgrown lawn this weekend.
+   > **解析**：mow 表示修剪（草坪）。
 
-4. **中文**：她整个早晨都在园艺中心寻找新鲜的有机种子。  
-   **英文**：She spent the morning looking for fresh organic seeds at the garden center.
-   > **解析**：`looking` 动名词/分词形式，搭配 `look for` 表示“寻找”。短语 `spend time doing sth.`。
+4. **中文**：把番茄种子播种在肥沃的黑土里。  
+   **英文**：Plant the tomato seeds in rich dark soil.
+   > **解析**：soil 表示土壤。
 
-5. **中文**：我喜欢在阳光明媚的周末独自一人照顾花坛。  
-   **英文**：I enjoy spending sunny weekends taking care of the flowerbeds all by myself.
-   > **解析**：`myself` 为反身代词。短语 `all by myself` 意为“完全靠我自己；独自一人”。
+5. **中文**：他们决定雇用一名园丁来修剪高树。  
+   **英文**：They decided to hire a gardener to trim the tall trees.
+   > **解析**：hire 表示雇用。
 
-6. **中文**：你应该在清晨给西红柿浇水，而不是在烈日灼热的时候。  
-   **英文**：You should water your tomatoes early in the morning rather than under the scorching sun.
-   > **解析**：`should` 情态动词，用于给出园艺或日常生活的合理建议（意为“应当；应该”）。
+6. **中文**：我们必须在那棵老死树倒下前砍倒它。  
+   **英文**：We must cut down that old dying tree before it falls.
+   > **解析**：cut down 表示砍倒。
 
-7. **中文**：注意不要在可食用的蔬菜床附近喷洒有害化学农药。  
-   **英文**：Be careful not to spray harmful chemical pesticides near edible vegetable beds.
-   > **解析**：`spray` 及物动词，意为“喷洒；喷涂”。搭配 `spray sth. on / near sth.`。
+7. **中文**：园丁在小池塘附近种上了色彩斑斓的花朵。  
+   **英文**：The gardener planted colorful flowers near the small pond.
+   > **解析**：pond 表示池塘。
 
-8. **中文**：他沿着装饰性的花园篱笆种了一排玫瑰灌木。  
-   **英文**：He planted a row of rose bush plants along the decorative garden fence.
-   > **解析**：`bush` 可数名词，意为“灌木；矮树”，复数形式为 `bushes`。
+8. **中文**：把这盆花放在露台上阳光充足的地方。  
+   **英文**：Place this potted plant in a sunny spot on the patio.
+   > **解析**：spot 表示地点、位置。
 
-9. **中文**：我的祖母有精湛的园艺技能（绿手指）；她种植的一切都长得非常茂盛。  
-   **英文**：My grandmother has a green thumb; everything she plants grows abundantly about could.
-   > **解析**：`green thumb`（美式英语习惯用语，英式常用 `green fingers`）名词短语，意为“园艺天赋；高超的种花技能”。
+9. **中文**：修剪这丛茂密的玫瑰灌木以帮助它生长得更好。  
+   **英文**：Trim the thick rose bush to help it grow better.
+   > **解析**：bush 表示灌木。
 
-10. **中文**：看起来土壤需要更多的有机堆肥才能保持丰富的营养。  
-   **英文**：It seems like the soil needs more organic compost to stay rich in nutrients.
-   > **解析**：`it seems like...` 为口语判断短语，意为“似乎/看起来……”，引导表象推断从句。
+10. **中文**：雨水让花园的土壤变得非常泥泞。  
+   **英文**：The rainwater made the garden soil very muddy.
+   > **解析**：muddy 表示泥泞的。
+
+11. **中文**：在菜园里仔细地播下种子。  
+   **英文**：Plant the seeds carefully in the vegetable garden.
+   > **解析**：seed 表示种子。
+
+12. **中文**：我在我的菜园里种植了这些新鲜的有机番茄。  
+   **英文**：I grew these fresh organic tomatoes in my vegetable garden.
+   > **解析**：vegetable garden 表示菜园。
+
+13. **中文**：每天早晨用清水喷洒植物的叶子。  
+   **英文**：Spray the plant leaves with clean water every morning.
+   > **解析**：spray 表示喷洒。
+
+14. **中文**：花茎在强风暴中折断了。  
+   **英文**：The flower stem broke during the strong wind storm.
+   > **解析**：stem 表示植物的茎。
+
+15. **中文**：将生长中的植物移植到一个更大的陶土花盆里。  
+   **英文**：Transfer the growing plant into a larger clay pot.
+   > **解析**：pot 表示花盆。
+
+16. **中文**：湿漉漉的地面上落满了秋叶。  
+   **英文**：The wet ground was covered with fallen autumn leaves.
+   > **解析**：ground 表示地面。
+
+17. **中文**：看起来这些花朵需要更多的阳光。  
+   **英文**：It seems like the flowers need more sunlight.
+   > **解析**：It seems like 表示看起来、似乎。
+
+18. **中文**：这些幼苗必须一天浇两次水。  
+   **英文**：These small plants have to be watered twice a day.
+   > **解析**：have to be 表示必须被……
+
+19. **中文**：干燥的花园不应该长时间缺水。  
+   **英文**：The dry garden shouldn't be left without water for long.
+   > **解析**：shouldn't be 表示不应该被……
+
+20. **中文**：我完全靠自己建造了这个木制高架花坛。  
+   **英文**：I built this wooden raised flower bed all by myself.
+   > **解析**：myself 表示我自己。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Buying native plants is your best bet for keeping a low-maintenance garden.
-   > **中文**：购买本地植物是你打造低维护花园的最佳选择。
+1. Hiring a professional gardener is your best bet for a nice lawn.
+   > **中文**：雇用一名专业园丁是你拥有漂亮草坪的最佳选择。
 
-2. An experienced gardener knows exactly when to prune fruit trees for optimal yield.
-   > **中文**：有经验的园丁确切地知道何时修剪果树以获得最佳产量。
+2. She has a green thumb and grows beautiful roses.
+   > **中文**：她很有园艺天赋，培育出了美丽的玫瑰。
 
-3. We decided to hire a professional landscaper to remodel our backyard lawn.
-   > **中文**：我们决定雇佣一名专业的景观设计师来改造我们的后院草坪。
+3. We need to mow the overgrown lawn this weekend.
+   > **中文**：我们这周末需要修剪过长的草坪。
 
-4. She spent the morning looking for fresh organic seeds at the garden center.
-   > **中文**：她整个早晨都在园艺中心寻找新鲜的有机种子。
+4. Plant the tomato seeds in rich dark soil.
+   > **中文**：把番茄种子播种在肥沃的黑土里。
 
-5. I enjoy spending sunny weekends taking care of the flowerbeds all by myself.
-   > **中文**：我喜欢在阳光明媚的周末独自一人照顾花坛。
+5. They decided to hire a gardener to trim the tall trees.
+   > **中文**：他们决定雇用一名园丁来修剪高树。
 
-6. You should water your tomatoes early in the morning rather than under the scorching sun.
-   > **中文**：你应该在清晨给西红柿浇水，而不是在烈日灼热的时候。
+6. We must cut down that old dying tree before it falls.
+   > **中文**：我们必须在那棵老死树倒下前砍倒它。
 
-7. Be careful not to spray harmful chemical pesticides near edible vegetable beds.
-   > **中文**：注意不要在可食用的蔬菜床附近喷洒有害化学农药。
+7. The gardener planted colorful flowers near the small pond.
+   > **中文**：园丁在小池塘附近种上了色彩斑斓的花朵。
 
-8. He planted a row of rose bush plants along the decorative garden fence.
-   > **中文**：他沿着装饰性的花园篱笆种了一排玫瑰灌木。
+8. Place this potted plant in a sunny spot on the patio.
+   > **中文**：把这盆花放在露台上阳光充足的地方。
 
-9. My grandmother has a green thumb; everything she plants grows abundantly about could.
-   > **中文**：我的祖母有精湛的园艺技能（绿手指）；她种植的一切都长得非常茂盛。
+9. Trim the thick rose bush to help it grow better.
+   > **中文**：修剪这丛茂密的玫瑰灌木以帮助它生长得更好。
 
-10. It seems like the soil needs more organic compost to stay rich in nutrients.
-   > **中文**：看起来土壤需要更多的有机堆肥才能保持丰富的营养。
+10. The rainwater made the garden soil very muddy.
+   > **中文**：雨水让花园的土壤变得非常泥泞。
+
+11. Plant the seeds carefully in the vegetable garden.
+   > **中文**：在菜园里仔细地播下种子。
+
+12. I grew these fresh organic tomatoes in my vegetable garden.
+   > **中文**：我在我的菜园里种植了这些新鲜的有机番茄。
+
+13. Spray the plant leaves with clean water every morning.
+   > **中文**：每天早晨用清水喷洒植物的叶子。
+
+14. The flower stem broke during the strong wind storm.
+   > **中文**：花茎在强风暴中折断了。
+
+15. Transfer the growing plant into a larger clay pot.
+   > **中文**：将生长中的植物移植到一个更大的陶土花盆里。
+
+16. The wet ground was covered with fallen autumn leaves.
+   > **中文**：湿漉漉的地面上落满了秋叶。
+
+17. It seems like the flowers need more sunlight.
+   > **中文**：看起来这些花朵需要更多的阳光。
+
+18. These small plants have to be watered twice a day.
+   > **中文**：这些幼苗必须一天浇两次水。
+
+19. The dry garden shouldn't be left without water for long.
+   > **中文**：干燥的花园不应该长时间缺水。
+
+20. I built this wooden raised flower bed all by myself.
+   > **中文**：我完全靠自己建造了这个木制高架花坛。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| `best bet` | 最佳选择 |
+| `bush` | 灌木 |
+| `cut down` | 砍倒 |
+| `gardener` | 园丁 |
+| `green thumb` | 园艺天赋 |
+| `ground` | 地面 |
+| `have to be` | 必须被…… |
+| `hire` | 雇用 |
+| `it seems like` | 看起来；似乎 |
+| `lawn` | 草坪 |
+| `mow` | 修剪（草坪） |
+| `muddy` | 泥泞的 |
+| `myself` | 我自己 |
+| `pond` | 池塘 |
+| `pot` | 花盆 |
+| `seed` | 种子 |
+| `shouldn't be` | 不应该被…… |
+| `soil` | 土壤 |
+| `spot` | 地点；位置 |
+| `spray` | 喷洒 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ best bet, bush, could, cut down, gardener, green thumb, ground, have to be, hire
 
 ### 1
 
-Buying native plants is your `____` for keeping a low-maintenance garden.
+Hiring a professional ____ is your best bet for a nice lawn.
 
-- [x] best bet
+- [x] gardener
+- [ ] best bet
 - [ ] bush
-- [ ] green thumb
 
-> **解析**：`best bet` 为常用口语短语，意为“最佳选择；最明智的做法”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-An experienced `____` knows exactly when to prune fruit trees for optimal yield.
+She has a green thumb and grows ____ roses.
 
-- [x] gardener
+- [x] beautiful
+- [ ] best bet
 - [ ] bush
-- [ ] ground
 
-> **解析**：`gardener` 可数名词，意为“园丁；花匠”，由 `garden` 派生而来。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-We decided to `____` a professional landscaper to remodel our backyard lawn.
+We need to ____ the overgrown lawn this weekend.
 
-- [x] hire
-- [ ] could
-- [ ] ground
+- [x] mow
+- [ ] best bet
+- [ ] bush
 
-> **解析**：`hire` 及物动词，意为“雇佣；聘请”。搭配 `hire sb. to do sth.`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-She spent the morning `____` for fresh organic seeds at the garden center.
+Plant the tomato seeds in rich dark ____.
 
-- [x] looking
-- [ ] cut down
-- [ ] have to be
+- [x] soil
+- [ ] best bet
+- [ ] bush
 
-> **解析**：`looking` 动名词/分词形式，搭配 `look for` 表示“寻找”。短语 `spend time doing sth.`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-I enjoy spending sunny weekends taking care of the flowerbeds all by `____`.
+They decided to ____ a gardener to trim the tall trees.
 
-- [x] myself
-- [ ] gardener
-- [ ] hire
+- [x] hire
+- [ ] best bet
+- [ ] bush
 
-> **解析**：`myself` 为反身代词。短语 `all by myself` 意为“完全靠我自己；独自一人”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-You `____` water your tomatoes early in the morning rather than under the scorching sun.
+We must cut down that old dying tree ____ it falls.
 
-- [x] should
-- [ ] green thumb
-- [ ] it seems like
+- [x] before
+- [ ] best bet
+- [ ] bush
 
-> **解析**：`should` 情态动词，用于给出园艺或日常生活的合理建议（意为“应当；应该”）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Be careful not to `____` harmful chemical pesticides near edible vegetable beds.
+The ____ planted colorful flowers near the small pond.
 
-- [x] spray
-- [ ] ground
-- [ ] lawn
+- [x] gardener
+- [ ] best bet
+- [ ] bush
 
-> **解析**：`spray` 及物动词，意为“喷洒；喷涂”。搭配 `spray sth. on / near sth.`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-He planted a row of rose `____` plants along the decorative garden fence.
+Place this potted plant in a sunny ____ on the patio.
 
-- [x] bush
-- [ ] hire
-- [ ] may
+- [x] spot
+- [ ] best bet
+- [ ] bush
 
-> **解析**：`bush` 可数名词，意为“灌木；矮树”，复数形式为 `bushes`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-My grandmother has a green thumb; everything she plants grows abundantly about `____`.
+Trim the thick rose ____ to help it grow better.
 
-- [x] could
-- [ ] it seems like
-- [ ] mow
+- [x] bush
+- [ ] best bet
+- [ ] could
 
-> **解析**：`green thumb`（美式英语习惯用语，英式常用 `green fingers`）名词短语，意为“园艺天赋；高超的种花技能”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-`____` the soil needs more organic compost to stay rich in nutrients.
+The rainwater made the garden ____ very muddy.
 
-- [x] it seems like
-- [ ] lawn
-- [ ] muddy
+- [x] soil
+- [ ] best bet
+- [ ] bush
 
-> **解析**：`it seems like...` 为口语判断短语，意为“似乎/看起来……”，引导表象推断从句。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Plant the seeds ____ in the vegetable garden.
+
+- [x] carefully
+- [ ] best bet
+- [ ] bush
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+I grew these fresh organic tomatoes in my ____ garden.
+
+- [x] vegetable
+- [ ] best bet
+- [ ] bush
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+____ the plant leaves with clean water every morning.
+
+- [x] Spray
+- [ ] best bet
+- [ ] bush
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The flower ____ broke during the strong wind storm.
+
+- [x] stem
+- [ ] best bet
+- [ ] bush
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Transfer the growing plant into a larger clay ____.
+
+- [x] pot
+- [ ] best bet
+- [ ] bush
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The wet ____ was covered with fallen autumn leaves.
+
+- [x] ground
+- [ ] best bet
+- [ ] bush
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+It seems like the flowers need more ____.
+
+- [x] sunlight
+- [ ] best bet
+- [ ] bush
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+These small plants have to be ____ twice a day.
+
+- [x] watered
+- [ ] best bet
+- [ ] bush
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The dry garden ____ be left without water for long.
+
+- [x] shouldn't
+- [ ] best bet
+- [ ] bush
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+I built this wooden raised flower bed all by ____.
+
+- [x] myself
+- [ ] best bet
+- [ ] bush
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

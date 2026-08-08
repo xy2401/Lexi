@@ -61,83 +61,176 @@ apply for 表示"申请"。since 搭配现在完成时。
 
 <quiz-sentence-builder>
 
-1. **中文**：她决定向银行申请财务分析师的职位。  
-   **英文**：She decided to apply for the position of financial analyst at the bank.
-   > **解析**：apply for... 为固定动词短语，意为“申请……（职位/学校等）”。
+1. **中文**：自毕业以来，他一直在申请各家航空公司的全职工作。  
+   **英文**：Since graduation, he has applied for full-time jobs at airlines.
+   > **解析**：apply for 表示“申请”；airline 表示“航空公司”；full-time 表示“全职的”；since 表示“自……以来”。
 
-2. **中文**：在为求职面试做了充分准备后，他感觉很有信心。  
-   **英文**：He felt confident after preparing thoroughly for his job interview.
-   > **解析**：interview 作可数名词，意为“面试，访谈”。job interview 指“求职面试”。
+2. **中文**：在这场面试中，面试官询问了他的教育背景和专业技能。  
+   **英文**：In the interview, the interviewer asked about his skills and education.
+   > **解析**：interview 表示“面试”；skill 表示“技能”；education 表示“教育”。
 
-3. **中文**：请务必在你更新的简历中突出你的相关成就。  
-   **英文**：Make sure to highlight your relevant achievements on your updated résumé.
-   > **解析**：résumé 作名词，意为“简历，履历”。作介词 on 的宾语。
+3. **中文**：在展示了出色的简历后，他接到了接受录取通知的联系。  
+   **英文**：After showing his résumé, he got contact to accept the job offer.
+   > **解析**：résumé 表示“简历”；contact 表示“联系”；accept 表示“接受”。
 
-4. **中文**：选择一条契合你热情的职业道路会带来工作满足感。  
-   **英文**：Choosing a career path that aligns with your passions brings job satisfaction.
-   > **解析**：career 作名词，意为“职业，事业”。career path 指“职业路线”。
+4. **中文**：负责工程部门的主管做出了录用他的决定。  
+   **英文**：The manager responsible for engineering made the hiring decision.
+   > **解析**：responsible for 表示“对……负责的”；engineering 表示“工程学”；decision 表示“决定”。
 
-5. **中文**：这家科技公司提供吸引人的员工福利，包括医疗保险。  
-   **英文**：The tech company offers attractive employee benefits including health care insurance.
-   > **解析**：benefits (常用复数) 作名词，意为“福利，津贴”。employee benefits 表示“员工福利”。
+5. **中文**：他决定辞去那份兼职，转而开始他的职业生涯发展。  
+   **英文**：He decided to quit his part-time job to start his career.
+   > **解析**：quit 表示“辞职/放弃”；part-time 表示“兼职的”；career 表示“职业/事业”。
 
-6. **中文**：作为项目经理，她负责主持每周的团队会议。  
-   **英文**：As a project manager, she is responsible for leading weekly team meetings.
-   > **解析**：be responsible for... 意为“对……负责”，后接动名词 leading。
+6. **中文**：这听起来像是一个带有良好福利待遇的理想职位。  
+   **英文**：This sounds like a dream position with great company benefits.
+   > **解析**：sounds like 表示“听起来像”；benefits 表示“福利待遇”。
 
-7. **中文**：他从一名实习生晋升为一名全职软件开发人员。  
-   **英文**：He was promoted from an intern to a full-time software developer.
-   > **解析**：full-time 作形容词/副词，意为“全职的”。a full-time developer 指“全职开发人员”。
+7. **中文**：面试已经开始，他有种感觉自己表现得很出色。  
+   **英文**：The interview has begun, and he has a feeling he did well.
+   > **解析**：begun 是 begin 的过去分词；feeling 表示“感觉”。
 
-8. **中文**：他决定辞职返回大学继续深造。  
-   **英文**：He decided to quit his job to return to university for further studies.
-   > **解析**：quit 作及物/不及物动词，意为“辞职，放弃”。quit one's job 意为“辞职”。
+8. **中文**：他完全理解了合同条款，并在上面签下了名字。  
+   **英文**：He fully understood the terms and decided to sign the contract.
+   > **解析**：understood 是 understand 的过去式；sign 表示“签署”。
 
-9. **中文**：在做出最终决定前，花足够的时间权衡利弊。  
-   **英文**：Take enough time to weigh the pros and cons before making your final decision.
-   > **解析**：decision 作名词，意为“决定”。make a decision 意为“做决定”。
+9. **中文**：距离他离开上家公司已经过去三个月了。  
+   **英文**：It has been three months since he was away from his last job.
+   > **解析**：away 表示“离开/远离”；since 表示“自……以来”。
 
-10. **中文**：招聘经理表示她会在周五前与胜出的候选人联系。  
-   **英文**：The hiring manager said she would contact successful candidates by Friday.
-   > **解析**：contact 作及物动词，意为“联系，联络”。后直接接宾语 candidates。
+10. **中文**：做完这项任务后，他放下了手中的工作。  
+   **英文**：Having done all the work, he was feeling relaxed and happy.
+   > **解析**：done 是 do 的过去分词；feeling 表示“感觉”。
+
+11. **中文**：如果你决定接受这个职位，请在合同上签字。  
+   **英文**：If you decide to accept the offer, please sign here.
+   > **解析**：accept 表示“接受”；sign 表示“签字”。
+
+12. **中文**：她拥有一份成功的航空管理职业生涯。  
+   **英文**：She built a successful career in airline management.
+   > **解析**：career 表示“职业/事业”；airline 表示“航空公司”。
+
+13. **中文**：经过深思熟虑，经理终于做出了最终决定。  
+   **英文**：After careful thought, the manager made a final decision.
+   > **解析**：decision 表示“决定”。
+
+14. **中文**：这听起来像是一个非常有挑战性的工作机会。  
+   **英文**：That sounds like a very challenging job opportunity.
+   > **解析**：sounds like 表示“听起来像”。
+
+15. **中文**：请在您的个人简历中列出您所有的工作技能。  
+   **英文**：Please list all your work skills on your résumé.
+   > **解析**：skill 表示“技能”；résumé 表示“简历”。
+
+16. **中文**：他因为健康原因决定辞去目前的职位。  
+   **英文**：He decided to quit his current position due to health.
+   > **解析**：quit 表示“辞职/退出”。
+
+17. **中文**：公司为所有全职员工提供良好的医疗福利。  
+   **英文**：The company offers health benefits to all full-time workers.
+   > **解析**：benefits 表示“福利”；full-time 表示“全职的”。
+
+18. **中文**：如果你有任何问题，请随时与人力资源部门联系。  
+   **英文**：If you have questions, please contact the HR office.
+   > **解析**：contact 表示“联系/联络”。
+
+19. **中文**：良好的教育背景有助于你在面试中取得成功。  
+   **英文**：Good education helps you succeed in a job interview.
+   > **解析**：education 表示“教育”；interview 表示“面试”。
+
+20. **中文**：他负责管理项目团队并确保按时交工。  
+   **英文**：He is responsible for managing the project team.
+   > **解析**：responsible for 表示“对……负责”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. She decided to apply for the position of financial analyst at the bank.
-   > **中文**：她决定向银行申请财务分析师的职位。
+1. Since graduation, he has applied for full-time jobs at airlines.
+   > **中文**：自毕业以来，他一直在申请各家航空公司的全职工作。
 
-2. He felt confident after preparing thoroughly for his job interview.
-   > **中文**：在为求职面试做了充分准备后，他感觉很有信心。
+2. In the interview, the interviewer asked about his skills and education.
+   > **中文**：在这场面试中，面试官询问了他的教育背景和专业技能。
 
-3. Make sure to highlight your relevant achievements on your updated résumé.
-   > **中文**：请务必在你更新的简历中突出你的相关成就。
+3. After showing his résumé, he got contact to accept the job offer.
+   > **中文**：在展示了出色的简历后，他接到了接受录取通知的联系。
 
-4. Choosing a career path that aligns with your passions brings job satisfaction.
-   > **中文**：选择一条契合你热情的职业道路会带来工作满足感。
+4. The manager responsible for engineering made the hiring decision.
+   > **中文**：负责工程部门的主管做出了录用他的决定。
 
-5. The tech company offers attractive employee benefits including health care insurance.
-   > **中文**：这家科技公司提供吸引人的员工福利，包括医疗保险。
+5. He decided to quit his part-time job to start his career.
+   > **中文**：他决定辞去那份兼职，转而开始他的职业生涯发展。
 
-6. As a project manager, she is responsible for leading weekly team meetings.
-   > **中文**：作为项目经理，她负责主持每周的团队会议。
+6. This sounds like a dream position with great company benefits.
+   > **中文**：这听起来像是一个带有良好福利待遇的理想职位。
 
-7. He was promoted from an intern to a full-time software developer.
-   > **中文**：他从一名实习生晋升为一名全职软件开发人员。
+7. The interview has begun, and he has a feeling he did well.
+   > **中文**：面试已经开始，他有种感觉自己表现得很出色。
 
-8. He decided to quit his job to return to university for further studies.
-   > **中文**：他决定辞职返回大学继续深造。
+8. He fully understood the terms and decided to sign the contract.
+   > **中文**：他完全理解了合同条款，并在上面签下了名字。
 
-9. Take enough time to weigh the pros and cons before making your final decision.
-   > **中文**：在做出最终决定前，花足够的时间权衡利弊。
+9. It has been three months since he was away from his last job.
+   > **中文**：距离他离开上家公司已经过去三个月了。
 
-10. The hiring manager said she would contact successful candidates by Friday.
-   > **中文**：招聘经理表示她会在周五前与胜出的候选人联系。
+10. Having done all the work, he was feeling relaxed and happy.
+   > **中文**：做完这项任务后，他放下了手中的工作。
+
+11. If you decide to accept the offer, please sign here.
+   > **中文**：如果你决定接受这个职位，请在合同上签字。
+
+12. She built a successful career in airline management.
+   > **中文**：她拥有一份成功的航空管理职业生涯。
+
+13. After careful thought, the manager made a final decision.
+   > **中文**：经过深思熟虑，经理终于做出了最终决定。
+
+14. That sounds like a very challenging job opportunity.
+   > **中文**：这听起来像是一个非常有挑战性的工作机会。
+
+15. Please list all your work skills on your résumé.
+   > **中文**：请在您的个人简历中列出您所有的工作技能。
+
+16. He decided to quit his current position due to health.
+   > **中文**：他因为健康原因决定辞去目前的职位。
+
+17. The company offers health benefits to all full-time workers.
+   > **中文**：公司为所有全职员工提供良好的医疗福利。
+
+18. If you have questions, please contact the HR office.
+   > **中文**：如果你有任何问题，请随时与人力资源部门联系。
+
+19. Good education helps you succeed in a job interview.
+   > **中文**：良好的教育背景有助于你在面试中取得成功。
+
+20. He is responsible for managing the project team.
+   > **中文**：他负责管理项目团队并确保按时交工。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| accept | 接受 |
+| airline | 航空公司 |
+| apply | 申请 |
+| benefits | 福利待遇 |
+| career | 职业 / 事业 |
+| contact | 联系 / 联络 |
+| decision | 决定 |
+| education | 教育 |
+| full-time | 全职的 |
+| interview | 面试 |
+| part-time | 兼职的 |
+| quit | 辞职 / 退出 |
+| responsible | 负责的 |
+| résumé | 简历 |
+| sign | 签字 / 签署 |
+| since | 自……以来 |
+| skill | 技能 |
+| sounds like | 听起来像 |
+| understood | 理解了（understand的过去式） |
+| done | 做完了（do的过去分词） |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ apply for 表示"申请"。since 搭配现在完成时。
 
 ### 1
 
-She decided to `____` for the position of financial analyst at the bank.
+____ graduation, he has applied for full-time jobs at airlines.
 
-- [x] apply
+- [x] Since
 - [ ] accept
-- [ ] benefits
+- [ ] airline
 
-> **解析**：apply for... 为固定动词短语，意为“申请……（职位/学校等）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-He felt confident after preparing thoroughly for his job `____`.
+In the ____, the interviewer asked about his skills and education.
 
 - [x] interview
+- [ ] accept
 - [ ] airline
-- [ ] benefits
 
-> **解析**：interview 作可数名词，意为“面试，访谈”。job interview 指“求职面试”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Make sure to highlight your relevant achievements on your updated `____`.
+After showing his résumé, he got ____ to accept the job offer.
 
-- [x] résumé
-- [ ] apply
-- [ ] career
+- [x] contact
+- [ ] accept
+- [ ] airline
 
-> **解析**：résumé 作名词，意为“简历，履历”。作介词 on 的宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Choosing a `____` path that aligns with your passions brings job satisfaction.
+The manager ____ for engineering made the hiring decision.
 
-- [x] career
-- [ ] away
-- [ ] decision
+- [x] responsible
+- [ ] accept
+- [ ] airline
 
-> **解析**：career 作名词，意为“职业，事业”。career path 指“职业路线”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The tech company offers attractive employee `____` including health care insurance.
+He decided to ____ his part-time job to start his career.
 
-- [x] benefits
-- [ ] begun
-- [ ] done
+- [x] quit
+- [ ] accept
+- [ ] airline
 
-> **解析**：benefits (常用复数) 作名词，意为“福利，津贴”。employee benefits 表示“员工福利”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-As a project manager, she is `____` for leading weekly team meetings.
+This sounds like a dream position with great company ____.
 
-- [x] responsible
-- [ ] benefits
-- [ ] done
+- [x] benefits
+- [ ] accept
+- [ ] airline
 
-> **解析**：be responsible for... 意为“对……负责”，后接动名词 leading。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-He was promoted from an intern to a `____` software developer.
+The ____ has begun, and he has a feeling he did well.
 
-- [x] full-time
-- [ ] career
-- [ ] education
+- [x] interview
+- [ ] accept
+- [ ] airline
 
-> **解析**：full-time 作形容词/副词，意为“全职的”。a full-time developer 指“全职开发人员”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-He decided to `____` his job to return to university for further studies.
+He fully ____ the terms and decided to sign the contract.
 
-- [x] quit
-- [ ] contact
-- [ ] engineering
+- [x] understood
+- [ ] accept
+- [ ] airline
 
-> **解析**：quit 作及物/不及物动词，意为“辞职，放弃”。quit one's job 意为“辞职”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Take enough time to weigh the pros and cons before making your final `____`.
+It has been three months ____ he was away from his last job.
 
-- [x] decision
-- [ ] done
-- [ ] full-time
+- [x] since
+- [ ] accept
+- [ ] airline
 
-> **解析**：decision 作名词，意为“决定”。make a decision 意为“做决定”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The hiring manager said she would `____` successful candidates by Friday.
+Having ____ all the work, he was feeling relaxed and happy.
+
+- [x] done
+- [ ] accept
+- [ ] airline
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+If you decide to ____ the offer, please sign here.
+
+- [x] accept
+- [ ] airline
+- [ ] apply
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+She built a successful ____ in airline management.
+
+- [x] career
+- [ ] accept
+- [ ] airline
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+After careful thought, the manager made a final ____.
+
+- [x] decision
+- [ ] accept
+- [ ] airline
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+That sounds like a very ____ job opportunity.
+
+- [x] challenging
+- [ ] accept
+- [ ] airline
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+____ list all your work skills on your résumé.
+
+- [x] Please
+- [ ] accept
+- [ ] airline
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+He decided to ____ his current position due to health.
+
+- [x] quit
+- [ ] accept
+- [ ] airline
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The company offers health ____ to all full-time workers.
+
+- [x] benefits
+- [ ] accept
+- [ ] airline
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+If you have questions, please ____ the HR office.
 
 - [x] contact
-- [ ] education
-- [ ] interview
+- [ ] accept
+- [ ] airline
 
-> **解析**：contact 作及物动词，意为“联系，联络”。后直接接宾语 candidates。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Good ____ helps you succeed in a job interview.
+
+- [x] education
+- [ ] accept
+- [ ] airline
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+He is ____ for managing the project team.
+
+- [x] responsible
+- [ ] accept
+- [ ] airline
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

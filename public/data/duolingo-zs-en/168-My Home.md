@@ -57,83 +57,176 @@ used to（词表中写作 use to，在否定和疑问中体现为 didn't use to�
 
 <quiz-sentence-builder>
 
-1. **中文**：我们家决定从当地动物收容所领养一只收容猫。  
-   **英文**：Our family decided to adopt a rescue cat from the local animal shelter.
-   > **解析**：adopt 为及物动词，意为“领养、收养”。adopt a cat/pet 指领养宠物。
+1. **中文**：他们决定从动物收容所领养一只可爱的小狗。
+   **英文**：They decided to adopt a puppy from the local shelter.
+   > **解析**：adopt 表示“领养/收养”。
 
-2. **中文**：我们为到访的亲戚准备了楼上的客房。  
-   **英文**：We prepared the upstairs guest room for our visiting relatives.
-   > **解析**：guest room 为名词短语，指“客房、备用客卧”。
+2. **中文**：那对年轻夫妻上周刚搬进了隔壁的公寓。
+   **英文**：The young couple moved into the apartment next door last week.
+   > **解析**：couple 表示“夫妻/一对”；next door 意为“隔壁”。
 
-3. **中文**：晚饭前请把干净的桌布铺在餐桌上。  
-   **英文**：Please lay the clean tablecloth on the dining table before dinner.
-   > **解析**：lay 为及物动词，意为“铺放、平放”，后面须接宾语（the clean tablecloth）。
+3. **中文**：我的新室友性格非常随和，极易相处。
+   **英文**：My new roommate is very easygoing and helpful around the house.
+   > **解析**：easygoing 表示“随和的/好相处的”。
 
-4. **中文**：住在隔壁的友好邻居邀请我们过去喝下午茶。  
-   **英文**：The friendly neighbors living next door invited us over for afternoon tea.
-   > **解析**：next door 为副词性短语，意为“在隔壁、隔壁地”，作后置定语修饰 neighbors。
+4. **中文**：我们把二楼最大的房间布置成了客房。
+   **英文**：We set up the largest room upstairs as a guest room.
+   > **解析**：guest room 表示“客房”；upstairs 意为“楼上”。
 
-5. **中文**：房地产中介向我们展示了一处靠近湖边的美丽住宅房产。  
-   **英文**：The real estate agent showed us a beautiful residential property near the lake.
-   > **解析**：property 为名词，意为“房产、地产、资产”。residential property 即住宅房产。
+5. **中文**：请用电水壶烧开水来冲泡热茶。
+   **英文**：Use the electric kettle to boil water for tea.
+   > **解析**：kettle 表示“水壶/烧水壶”。
 
-6. **中文**：当你独自在家时，不应该给陌生人开门。  
-   **英文**：You shouldn't open the front door to a total stranger when you are home alone.
-   > **解析**：stranger 为可数名词，意为“陌生人”。a total stranger 指完全陌生的人。
+6. **中文**：工人爬上木梯去清理屋顶上的树叶。
+   **英文**：The worker climbed the wooden ladder to clean the roof.
+   > **解析**：ladder 表示“梯子”。
 
-7. **中文**：居民被要求将机动车辆停放在指定车库内。  
-   **英文**：Residents are requested to park their motor vehicle inside the designated garage.
-   > **解析**：vehicle 为可数名词，意为“车辆、交通工具”。motor vehicle 指机动车。
+7. **中文**：住在隔壁的那位亲切的女士常帮我们收快递。
+   **英文**：The kind lady who lives next door often helps collect packages.
+   > **解析**：lady 表示“女士/淑女”。
 
-8. **中文**：一对新婚年轻夫妇搬进了走廊对面的公寓。  
-   **英文**：A young newlywed couple moved into the apartment across the hallway.
-   > **解析**：couple 为可数名词，意为“夫妻、情侣、一对”。a couple 指一对夫妇。
+8. **中文**：住在隔壁的邻居经常在大热天请我们吃冰淇淋。
+   **英文**：Our neighbor next door invited us over for lunch today.
+   > **解析**：next door 表示“隔壁/在隔壁”。
 
-9. **中文**：我用电水壶烧水泡了一壶热茶。  
-   **英文**：I boiled water in the electric kettle to make a pot of hot tea.
-   > **解析**：kettle 为可数名词，指“水壶、烧水壶”。electric kettle 即电水壶。
+9. **中文**：在正常情况下，我们会在晚上七点吃晚餐。
+   **英文**：Normally, we have dinner together at seven in the evening.
+   > **解析**：Normally 表示“通常/正常情况下”。
 
-10. **中文**：在一整天的房屋打扫之后，我只想躺在舒适的沙发上。  
-   **英文**：After a long day of house cleaning, I just want to lie down on the comfortable sofa.
-   > **解析**：lie 为不及物动词，意为“躺、平卧”。lie down 意为“躺下พัก息”，过去式为 lay。
+10. **中文**：为庆祝这一特别场合，我们在家里举办了晚宴。
+   **英文**：We held a family dinner party to mark the special occasion.
+   > **解析**：occasion 表示“场合/时机”。
+
+11. **中文**：她外向开朗的个性使她在小区里大受欢迎。
+   **英文**：Her warm personality makes her popular among all the neighbors.
+   > **解析**：personality 表示“个性/性格/人格”。
+
+12. **中文**：这片地产包含一栋大房子和一个漂亮的私人花园。
+   **英文**：The residential property includes a big house and a garden.
+   > **解析**：property 表示“房产/地产/资产”。
+
+13. **中文**：他出色的幽默感总能让客厅里充满欢声笑语。
+   **英文**：His great sense of humor always makes everyone in the room laugh.
+   > **解析**：sense of humor 表示“幽默感”。
+
+14. **中文**：你今晚下班回家路上有空顺道拜访我家吗？
+   **英文**：Can you stop by my place on your way home tonight?
+   > **解析**：stop by 表示“顺道拜访/串门”。
+
+15. **中文**：请不要轻易给敲门的陌生人开门。
+   **英文**：Never open the front door to a complete stranger.
+   > **解析**：stranger 表示“陌生人”。
+
+16. **中文**：她拿着扫帚把落叶打扫干净了。
+   **英文**：She swept the patio floor clean with a broom yesterday.
+   > **解析**：swept 是 sweep 的过去式，表示“打扫/扫除”。
+
+17. **中文**：孩子们正在楼上的卧室里高兴地玩游戏。
+   **英文**：The children are playing games upstairs in their bedroom.
+   > **解析**：upstairs 表示“楼上/在楼上”。
+
+18. **中文**：请把你的车辆停放在指定的车道上。
+   **英文**：Park your motor vehicle inside the designated driveway.
+   > **解析**：vehicle 表示“车辆/交通工具”。
+
+19. **中文**：闹钟每天早晨六点半准时叫醒我。
+   **英文**：My alarm clock wakes me up at six-thirty every morning.
+   > **解析**：wakes...up / wake up 表示“醒来/叫醒”。
+
+20. **中文**：今天清晨我是被窗外清脆的鸟鸣声叫醒的。
+   **英文**：I was woken up early this morning by birds singing outside.
+   > **解析**：woken up 是 wake up 的被动/完成形式。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Our family decided to adopt a rescue cat from the local animal shelter.
-   > **中文**：我们家决定从当地动物收容所领养一只收容猫。
+1. They decided to adopt a puppy from the local shelter.
+   > **中文**：他们决定从动物收容所领养一只可爱的小狗。
 
-2. We prepared the upstairs guest room for our visiting relatives.
-   > **中文**：我们为到访的亲戚准备了楼上的客房。
+2. The young couple moved into the apartment next door last week.
+   > **中文**：那对年轻夫妻上周刚搬进了隔壁的公寓。
 
-3. Please lay the clean tablecloth on the dining table before dinner.
-   > **中文**：晚饭前请把干净的桌布铺在餐桌上。
+3. My new roommate is very easygoing and helpful around the house.
+   > **中文**：我的新室友性格非常随和，极易相处。
 
-4. The friendly neighbors living next door invited us over for afternoon tea.
-   > **中文**：住在隔壁的友好邻居邀请我们过去喝下午茶。
+4. We set up the largest room upstairs as a guest room.
+   > **中文**：我们把二楼最大的房间布置成了客房。
 
-5. The real estate agent showed us a beautiful residential property near the lake.
-   > **中文**：房地产中介向我们展示了一处靠近湖边的美丽住宅房产。
+5. Use the electric kettle to boil water for tea.
+   > **中文**：请用电水壶烧开水来冲泡热茶。
 
-6. You shouldn't open the front door to a total stranger when you are home alone.
-   > **中文**：当你独自在家时，不应该给陌生人开门。
+6. The worker climbed the wooden ladder to clean the roof.
+   > **中文**：工人爬上木梯去清理屋顶上的树叶。
 
-7. Residents are requested to park their motor vehicle inside the designated garage.
-   > **中文**：居民被要求将机动车辆停放在指定车库内。
+7. The kind lady who lives next door often helps collect packages.
+   > **中文**：住在隔壁的那位亲切的女士常帮我们收快递。
 
-8. A young newlywed couple moved into the apartment across the hallway.
-   > **中文**：一对新婚年轻夫妇搬进了走廊对面的公寓。
+8. Our neighbor next door invited us over for lunch today.
+   > **中文**：住在隔壁的邻居经常在大热天请我们吃冰淇淋。
 
-9. I boiled water in the electric kettle to make a pot of hot tea.
-   > **中文**：我用电水壶烧水泡了一壶热茶。
+9. Normally, we have dinner together at seven in the evening.
+   > **中文**：在正常情况下，我们会在晚上七点吃晚餐。
 
-10. After a long day of house cleaning, I just want to lie down on the comfortable sofa.
-   > **中文**：在一整天的房屋打扫之后，我只想躺在舒适的沙发上。
+10. We held a family dinner party to mark the special occasion.
+   > **中文**：为庆祝这一特别场合，我们在家里举办了晚宴。
+
+11. Her warm personality makes her popular among all the neighbors.
+   > **中文**：她外向开朗的个性使她在小区里大受欢迎。
+
+12. The residential property includes a big house and a garden.
+   > **中文**：这片地产包含一栋大房子和一个漂亮的私人花园。
+
+13. His great sense of humor always makes everyone in the room laugh.
+   > **中文**：他出色的幽默感总能让客厅里充满欢声笑语。
+
+14. Can you stop by my place on your way home tonight?
+   > **中文**：你今晚下班回家路上有空顺道拜访我家吗？
+
+15. Never open the front door to a complete stranger.
+   > **中文**：请不要轻易给敲门的陌生人开门。
+
+16. She swept the patio floor clean with a broom yesterday.
+   > **中文**：她拿着扫帚把落叶打扫干净了。
+
+17. The children are playing games upstairs in their bedroom.
+   > **中文**：孩子们正在楼上的卧室里高兴地玩游戏。
+
+18. Park your motor vehicle inside the designated driveway.
+   > **中文**：请把你的车辆停放在指定的车道上。
+
+19. My alarm clock wakes me up at six-thirty every morning.
+   > **中文**：闹钟每天早晨六点半准时叫醒我。
+
+20. I was woken up early this morning by birds singing outside.
+   > **中文**：今天清晨我是被窗外清脆的鸟鸣声叫醒的。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| adopt | 领养 / 收养 |
+| couple | 夫妻 / 一对 |
+| easygoing | 随和的 |
+| guest room | 客房 |
+| kettle | 水壶 |
+| ladder | 梯子 |
+| lady | 女士 |
+| next door | 隔壁 |
+| normally | 通常 |
+| occasion | 场合 / 时机 |
+| personality | 个性 / 性格 |
+| property | 房产 / 资产 |
+| sense of humor | 幽默感 |
+| stop by | 顺道拜访 |
+| stranger | 陌生人 |
+| swept | 打扫了（sweep的过去式） |
+| upstairs | 楼上 |
+| vehicle | 车辆 / 交通工具 |
+| wake up | 醒来 / 叫醒 |
+| woken up | 被叫醒（wake up的过去分词） |
 
 </quiz-matching>
 
@@ -141,102 +234,202 @@ used to（词表中写作 use to，在否定和疑问中体现为 didn't use to�
 
 ### 1
 
-Our family decided to `____` a rescue cat from the local animal shelter.
+They decided to ____ a puppy from the local shelter.
 
 - [x] adopt
 - [ ] couple
-- [ ] kettle
+- [ ] didn't
 
-> **解析**：adopt 为及物动词，意为“领养、收养”。adopt a cat/pet 指领养宠物。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-We prepared the upstairs `____` for our visiting relatives.
+The young ____ moved into the apartment next door last week.
 
-- [x] guest room
-- [ ] couple
-- [ ] ladder
+- [x] couple
+- [ ] adopt
+- [ ] didn't
 
-> **解析**：guest room 为名词短语，指“客房、备用客卧”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Please `____` the clean tablecloth on the dining table before dinner.
+My new roommate is very ____ and helpful around the house.
 
-- [x] lay
-- [ ] didn't
-- [ ] ladder
+- [x] easygoing
+- [ ] adopt
+- [ ] couple
 
-> **解析**：lay 为及物动词，意为“铺放、平放”，后面须接宾语（the clean tablecloth）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The friendly neighbors living `____` invited us over for afternoon tea.
+We ____ up the largest room upstairs as a guest room.
 
-- [x] next door
-- [ ] easygoing
-- [ ] lady
+- [x] set
+- [ ] adopt
+- [ ] couple
 
-> **解析**：next door 为副词性短语，意为“在隔壁、隔壁地”，作后置定语修饰 neighbors。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The real estate agent showed us a beautiful residential `____` near the lake.
+Use the electric ____ to boil water for tea.
 
-- [x] property
-- [ ] guest room
-- [ ] lay
+- [x] kettle
+- [ ] adopt
+- [ ] couple
 
-> **解析**：property 为名词，意为“房产、地产、资产”。residential property 即住宅房产。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-You shouldn't open the front door to a total `____` when you are home alone.
+The worker climbed the wooden ____ to clean the roof.
 
-- [x] stranger
-- [ ] kettle
-- [ ] lie
+- [x] ladder
+- [ ] adopt
+- [ ] couple
 
-> **解析**：stranger 为可数名词，意为“陌生人”。a total stranger 指完全陌生的人。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Residents are requested to park their motor `____` inside the designated garage.
+The kind ____ who lives next door often helps collect packages.
 
-- [x] vehicle
-- [ ] ladder
-- [ ] make
+- [x] lady
+- [ ] adopt
+- [ ] couple
 
-> **解析**：vehicle 为可数名词，意为“车辆、交通工具”。motor vehicle 指机动车。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-A young newlywed `____` moved into the apartment across the hallway.
+Our ____ next door invited us over for lunch today.
 
-- [x] couple
-- [ ] lay
-- [ ] normally
+- [x] neighbor
+- [ ] adopt
+- [ ] couple
 
-> **解析**：couple 为可数名词，意为“夫妻、情侣、一对”。a couple 指一对夫妇。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-I boiled water in the electric `____` to make a pot of hot tea.
+____, we have dinner together at seven in the evening.
 
-- [x] kettle
-- [ ] lie
-- [ ] occasion
+- [x] Normally
+- [ ] adopt
+- [ ] couple
 
-> **解析**：kettle 为可数名词，指“水壶、烧水壶”。electric kettle 即电水壶。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-After a long day of house cleaning, I just want to `____` down on the comfortable sofa.
+We held a family dinner party to mark the special ____.
 
-- [x] lie
-- [ ] make
-- [ ] personality
+- [x] occasion
+- [ ] adopt
+- [ ] couple
 
-> **解析**：lie 为不及物动词，意为“躺、平卧”。lie down 意为“躺下พัก息”，过去式为 lay。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Her warm ____ makes her popular among all the neighbors.
+
+- [x] personality
+- [ ] adopt
+- [ ] couple
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The residential ____ includes a big house and a garden.
+
+- [x] property
+- [ ] adopt
+- [ ] couple
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+His great sense of humor always makes ____ in the room laugh.
+
+- [x] everyone
+- [ ] adopt
+- [ ] couple
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Can you stop by my place on your way home ____?
+
+- [x] tonight
+- [ ] adopt
+- [ ] couple
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Never open the front door to a complete ____.
+
+- [x] stranger
+- [ ] adopt
+- [ ] couple
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+She ____ the patio floor clean with a broom yesterday.
+
+- [x] swept
+- [ ] adopt
+- [ ] couple
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The children are playing games ____ in their bedroom.
+
+- [x] upstairs
+- [ ] adopt
+- [ ] couple
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Park your motor ____ inside the designated driveway.
+
+- [x] vehicle
+- [ ] adopt
+- [ ] couple
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+My alarm clock wakes me up at ____ every morning.
+
+- [x] six-thirty
+- [ ] adopt
+- [ ] couple
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+I was woken up early this ____ by birds singing outside.
+
+- [x] morning
+- [ ] adopt
+- [ ] couple
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

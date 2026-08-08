@@ -63,83 +63,176 @@ Bigfoot, burst into, campfire, cliffhanger, darkness, dead, dying to, edge of my
 
 <quiz-sentence-builder>
 
-1. **中文**：聚在温暖的营火旁分享故事是露营中最棒的部分。  
-   **英文**：Gathering around the warm campfire to share stories is the best part of camping.
-   > **解析**：`campfire` 是名词，意为“营火、篝火”。
+1. **中文**：我们围坐在篝火旁烤棉花糖，做美味的夹心甜点。  
+   **英文**：We sat around the campfire to roast marshmallows and make s'mores.
+   > **解析**：campfire 表示篝火；marshmallow 表示棉花糖；s'mores 表示夹心甜点。
 
-2. **中文**：他讲了一个如此吓人的恐怖故事，以至于大家都害怕离开帐篷。  
-   **英文**：He told such a scary story that everyone was afraid to leave the tent.
-   > **解析**：`scary story` 意为“恐怖故事、鬼故事”，搭配 `tell a scary story`。
+2. **中文**：那个阴森的恐怖故事给我起了一身的鸡皮疙瘩。  
+   **英文**：That spooky scary story gave me goosebumps all over my arms.
+   > **解析**：spooky 表示阴森的；scary story 表示恐怖故事；goosebumps 表示鸡皮疙瘩。
 
-3. **中文**：树林里幽深可怖的声音让我浑身起鸡皮疙瘩。  
-   **英文**：The spooky sound in the woods gave me goosebumps all over.
-   > **解析**：`goosebumps` 是复数名词，意为“鸡皮疙瘩”，短语 `give sb goosebumps`。
+3. **中文**：我紧张得坐在椅子边缘，急切地想听故事接下来的发展。  
+   **英文**：I was on the edge of my seat and dying to hear what happened next.
+   > **解析**：edge of my seat 表示紧张坐立不安；dying to 表示极想。
 
-4. **中文**：他戏剧性的讲述让我整晚都全神贯注/紧扣心弦。  
-   **英文**：His dramatic storytelling kept me on the edge of my seat the whole night.
-   > **解析**：`on the edge of one's seat` 是成语短语，意为“全神贯注、坐立不安”。
+4. **中文**：故事停在一个惊人的悬念结尾处，全场突然爆发出一阵尖叫。  
+   **英文**：The tale ended on a cliffhanger, and everyone burst into screams.
+   > **解析**：cliffhanger 表示悬念结尾；burst into 表示突然爆发。
 
-5. **中文**：我们迫不及待地想去参加即将在国家公园举行的周末露营之旅。  
-   **英文**：We are dying to go on our upcoming weekend camping trip in the national park.
-   > **解析**：`be dying to do sth` 是口语极度渴望表达，意为“迫不及待做某事”。
+5. **中文**：我刚在黑暗中闭上眼睛，就听见猫头鹰在树上啼叫。  
+   **英文**：No sooner had I closed my eyes in darkness than an owl hooted.
+   > **解析**：no sooner had 表示刚……就；darkness 表示黑暗；owl 表示猫头鹰。
 
-6. **中文**：在昏暗的月光下，静谧的森林显得极其阴森可怖。  
-   **英文**：The quiet forest felt extremely spooky under the dim moonlight.
-   > **解析**：`spooky` 是形容词，意为“阴森可怖的、怪异的”。
+6. **中文**：大家对这次野外露营以及讲狼人和大脚怪的传说感到非常兴奋。  
+   **英文**：Everyone was excited for the trip and stories of werewolf and Bigfoot.
+   > **解析**：excited for 表示对……感到兴奋；werewolf 表示狼人；Bigfoot 表示大脚怪。
 
-7. **中文**：在明火上烤棉花糖是一道传统的户外美食。  
-   **英文**：Roasting marshmallows over the open fire is a traditional outdoor treat.
-   > **解析**：`marshmallow` 是名词，意为“棉花糖”，`roast marshmallows`。
+7. **中文**：一只灰熊在森林深处悄无声息地穿过黑夜。  
+   **英文**：A large grizzly bear walked silently through the deep dark forest.
+   > **解析**：grizzly bear 表示灰熊；silently 表示无声地。
 
-8. **中文**：有趣笑话刚讲完，营火旁的每个人都爆发出一阵大笑。  
-   **英文**：As soon as the funny joke ended, everyone burst into laughter around the fire (edge of my seat) about Bigfoot.
-   > **解析**：`burst into + 名词`（如 `laughter`）意为“突然爆发/化作……”。
+8. **中文**：听到外面的怪异声音时，我的心跳飞快，根本无法入睡。  
+   **英文**：With my heart racing from the noise, I couldn't go to sleep at all.
+   > **解析**：racing 表示（心跳）飞快；go to sleep 表示去睡觉。
 
-9. **中文**：我们刚搭好帐篷，天空就下起了倾盆大雨。  
-   **英文**：No sooner had we pitched the tent than it started to pour rain.
-   > **解析**：`No sooner had... than...` 是固定倒装句型，意为“刚一……就……”。
+9. **中文**：讲故事的人说了一个关于林中杀手和一只小松鼠的绝佳故事。  
+   **英文**：The narrator told a killer story about a forest killer and a squirrel.
+   > **解析**：killer 表示极好的/杀手；squirrel 表示松鼠。
 
-10. **中文**：所有的孩子都对明天的徒步冒险超级兴奋。  
-   **英文**：All the kids are super excited for tomorrow's hiking adventure.
-   > **解析**：`be excited for sth` 意为“对……感到兴奋/期待”。
+10. **中文**：悬挂在树枝上的阴影在漆黑的夜晚显得尤为阴森恐怖。  
+   **英文**：The branch hanging in the dark looked spooky in the late night.
+   > **解析**：hanging 表示悬挂的；spooky 表示阴森的。
+
+11. **中文**：我们极想在篝火旁吃烤棉花糖。  
+   **英文**：We are dying to eat roasted marshmallows by the campfire.
+   > **解析**：dying to 表示极想；marshmallow 表示棉花糖。
+
+12. **中文**：那段悬念重重的恐怖故事让大家都紧绷着神经。  
+   **英文**：That scary story with a suspenseful cliffhanger kept us thrilled.
+   > **解析**：scary story 表示恐怖故事；cliffhanger 表示悬念结尾。
+
+13. **中文**：听到大脚怪的传说后，大家突然爆发出狂热的讨论。  
+   **英文**：After hearing the Bigfoot legend, everyone burst into excited talk.
+   > **解析**：Bigfoot 表示大脚怪；burst into 表示突然爆发。
+
+14. **中文**：黑暗中一只猫头鹰悄悄飞过，大家浑身都起了鸡皮疙瘩。  
+   **英文**：An owl flew silently in the darkness, giving us all goosebumps.
+   > **解析**：darkness 表示黑暗；owl 表示猫头鹰；goosebumps 表示鸡皮疙瘩。
+
+15. **中文**：我对今晚在篝火旁做美味的夹心饼干甜点感到非常期待。  
+   **英文**：I am excited for making tasty s'mores around the warm campfire tonight.
+   > **解析**：excited for 表示对……感到兴奋；s'mores 表示夹心甜点；campfire 表示篝火。
+
+16. **中文**：我刚走近森林，就看到一只松鼠敏捷地爬上了大树。  
+   **英文**：No sooner had I approached the woods than a squirrel ran up a tree.
+   > **解析**：no sooner had 表示刚……就；squirrel 表示松鼠。
+
+17. **中文**：传说中在满月之夜出现的狼人是一个极其阴森的角色。  
+   **英文**：The werewolf that appears under the full moon is a spooky character.
+   > **解析**：werewolf 表示狼人；spooky 表示阴森的。
+
+18. **中文**：听到帐篷外的脚步声，我的心跳飞快，完全无法入睡。  
+   **英文**：Hearing steps outside, my heart was racing and I couldn't go to sleep.
+   > **解析**：racing 表示（心跳）飞快；go to sleep 表示去睡觉。
+
+19. **中文**：那个悬念重重的结尾让所有的听众都紧张得坐在椅子边缘。  
+   **英文**：The thrilling cliffhanger left every listener on the edge of their seat.
+   > **解析**：cliffhanger 表示悬念结尾；edge of my seat 表示紧张坐立不安。
+
+20. **中文**：大家都说刚才那个关于灰熊的篝火故事简直太精彩了。  
+   **英文**：Everyone agreed that the campfire story about the grizzly bear was killer.
+   > **解析**：campfire 表示篝火；grizzly bear 表示灰熊；killer 表示极好的。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Gathering around the warm campfire to share stories is the best part of camping.
-   > **中文**：聚在温暖的营火旁分享故事是露营中最棒的部分。
+1. We sat around the campfire to roast marshmallows and make s'mores.
+   > **中文**：我们围坐在篝火旁烤棉花糖，做美味的夹心甜点。
 
-2. He told such a scary story that everyone was afraid to leave the tent.
-   > **中文**：他讲了一个如此吓人的恐怖故事，以至于大家都害怕离开帐篷。
+2. That spooky scary story gave me goosebumps all over my arms.
+   > **中文**：那个阴森的恐怖故事给我起了一身的鸡皮疙瘩。
 
-3. The spooky sound in the woods gave me goosebumps all over.
-   > **中文**：树林里幽深可怖的声音让我浑身起鸡皮疙瘩。
+3. I was on the edge of my seat and dying to hear what happened next.
+   > **中文**：我紧张得坐在椅子边缘，急切地想听故事接下来的发展。
 
-4. His dramatic storytelling kept me on the edge of my seat the whole night.
-   > **中文**：他戏剧性的讲述让我整晚都全神贯注/紧扣心弦。
+4. The tale ended on a cliffhanger, and everyone burst into screams.
+   > **中文**：故事停在一个惊人的悬念结尾处，全场突然爆发出一阵尖叫。
 
-5. We are dying to go on our upcoming weekend camping trip in the national park.
-   > **中文**：我们迫不及待地想去参加即将在国家公园举行的周末露营之旅。
+5. No sooner had I closed my eyes in darkness than an owl hooted.
+   > **中文**：我刚在黑暗中闭上眼睛，就听见猫头鹰在树上啼叫。
 
-6. The quiet forest felt extremely spooky under the dim moonlight.
-   > **中文**：在昏暗的月光下，静谧的森林显得极其阴森可怖。
+6. Everyone was excited for the trip and stories of werewolf and Bigfoot.
+   > **中文**：大家对这次野外露营以及讲狼人和大脚怪的传说感到非常兴奋。
 
-7. Roasting marshmallows over the open fire is a traditional outdoor treat.
-   > **中文**：在明火上烤棉花糖是一道传统的户外美食。
+7. A large grizzly bear walked silently through the deep dark forest.
+   > **中文**：一只灰熊在森林深处悄无声息地穿过黑夜。
 
-8. As soon as the funny joke ended, everyone burst into laughter around the fire (edge of my seat) about Bigfoot.
-   > **中文**：有趣笑话刚讲完，营火旁的每个人都爆发出一阵大笑。
+8. With my heart racing from the noise, I couldn't go to sleep at all.
+   > **中文**：听到外面的怪异声音时，我的心跳飞快，根本无法入睡。
 
-9. No sooner had we pitched the tent than it started to pour rain.
-   > **中文**：我们刚搭好帐篷，天空就下起了倾盆大雨。
+9. The narrator told a killer story about a forest killer and a squirrel.
+   > **中文**：讲故事的人说了一个关于林中杀手和一只小松鼠的绝佳故事。
 
-10. All the kids are super excited for tomorrow's hiking adventure.
-   > **中文**：所有的孩子都对明天的徒步冒险超级兴奋。
+10. The branch hanging in the dark looked spooky in the late night.
+   > **中文**：悬挂在树枝上的阴影在漆黑的夜晚显得尤为阴森恐怖。
+
+11. We are dying to eat roasted marshmallows by the campfire.
+   > **中文**：我们极想在篝火旁吃烤棉花糖。
+
+12. That scary story with a suspenseful cliffhanger kept us thrilled.
+   > **中文**：那段悬念重重的恐怖故事让大家都紧绷着神经。
+
+13. After hearing the Bigfoot legend, everyone burst into excited talk.
+   > **中文**：听到大脚怪的传说后，大家突然爆发出狂热的讨论。
+
+14. An owl flew silently in the darkness, giving us all goosebumps.
+   > **中文**：黑暗中一只猫头鹰悄悄飞过，大家浑身都起了鸡皮疙瘩。
+
+15. I am excited for making tasty s'mores around the warm campfire tonight.
+   > **中文**：我对今晚在篝火旁做美味的夹心饼干甜点感到非常期待。
+
+16. No sooner had I approached the woods than a squirrel ran up a tree.
+   > **中文**：我刚走近森林，就看到一只松鼠敏捷地爬上了大树。
+
+17. The werewolf that appears under the full moon is a spooky character.
+   > **中文**：传说中在满月之夜出现的狼人是一个极其阴森的角色。
+
+18. Hearing steps outside, my heart was racing and I couldn't go to sleep.
+   > **中文**：听到帐篷外的脚步声，我的心跳飞快，完全无法入睡。
+
+19. The thrilling cliffhanger left every listener on the edge of their seat.
+   > **中文**：那个悬念重重的结尾让所有的听众都紧张得坐在椅子边缘。
+
+20. Everyone agreed that the campfire story about the grizzly bear was killer.
+   > **中文**：大家都说刚才那个关于灰熊的篝火故事简直太精彩了。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| campfire | 篝火 |
+| marshmallow | 棉花糖 |
+| s'mores | 夹心甜点 |
+| scary story | 恐怖故事 |
+| goosebumps | 鸡皮疙瘩 |
+| edge of my seat | 紧张坐立不安 |
+| cliffhanger | 悬念结尾 |
+| burst into | 突然爆发 |
+| dying to | 极想；渴望 |
+| excited for | 对……感到兴奋 |
+| no sooner had | 刚……就…… |
+| grizzly bear | 灰熊 |
+| werewolf | 狼人 |
+| Bigfoot | 大脚怪 |
+| spooky | 阴森的 |
+| darkness | 黑暗 |
+| owl | 猫头鹰 |
+| silently | 无声地 |
+| racing | （心跳）飞快 |
+| killer | 极好的；杀手 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ Bigfoot, burst into, campfire, cliffhanger, darkness, dead, dying to, edge of my
 
 ### 1
 
-Gathering around the warm `____` to share stories is the best part of camping.
+We sat around the ____ to roast marshmallows and make s'mores.
 
 - [x] campfire
 - [ ] Bigfoot
-- [ ] dead
+- [ ] burst into
 
-> **解析**：`campfire` 是名词，意为“营火、篝火”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-He told such a `____` that everyone was afraid to leave the tent.
+That ____ scary story gave me goosebumps all over my arms.
 
-- [x] scary story
+- [x] spooky
+- [ ] Bigfoot
 - [ ] burst into
-- [ ] dead
 
-> **解析**：`scary story` 意为“恐怖故事、鬼故事”，搭配 `tell a scary story`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The spooky sound in the woods gave me `____` all over.
+I was on the edge of my seat and dying to hear what ____ next.
 
-- [x] goosebumps
-- [ ] campfire
-- [ ] dying to
+- [x] happened
+- [ ] Bigfoot
+- [ ] burst into
 
-> **解析**：`goosebumps` 是复数名词，意为“鸡皮疙瘩”，短语 `give sb goosebumps`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-His dramatic storytelling kept me on the `____` the whole night.
+The tale ended on a ____, and everyone burst into screams.
 
-- [x] edge of my seat
-- [ ] cliffhanger
-- [ ] excited for
+- [x] cliffhanger
+- [ ] Bigfoot
+- [ ] burst into
 
-> **解析**：`on the edge of one's seat` 是成语短语，意为“全神贯注、坐立不安”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-We are `____` go on our upcoming weekend camping trip in the national park.
+No sooner had I closed my eyes in ____ than an owl hooted.
 
-- [x] dying to
-- [ ] darkness
-- [ ] go to sleep
+- [x] darkness
+- [ ] Bigfoot
+- [ ] burst into
 
-> **解析**：`be dying to do sth` 是口语极度渴望表达，意为“迫不及待做某事”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The quiet forest felt extremely `____` under the dim moonlight.
+Everyone was excited for the trip and stories of ____ and Bigfoot.
 
-- [x] spooky
-- [ ] dead
-- [ ] go to sleep
+- [x] werewolf
+- [ ] Bigfoot
+- [ ] burst into
 
-> **解析**：`spooky` 是形容词，意为“阴森可怖的、怪异的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Roasting `____`s over the open fire is a traditional outdoor treat.
+A large grizzly bear walked ____ through the deep dark forest.
 
-- [x] marshmallow
-- [ ] dying to
-- [ ] goosebumps
+- [x] silently
+- [ ] Bigfoot
+- [ ] burst into
 
-> **解析**：`marshmallow` 是名词，意为“棉花糖”，`roast marshmallows`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-As soon as the funny joke ended, everyone burst into laughter around the fire (edge of my seat) about `____`.
+With my heart ____ from the noise, I couldn't go to sleep at all.
 
-- [x] Bigfoot
-- [ ] excited for
-- [ ] hanging
+- [x] racing
+- [ ] Bigfoot
+- [ ] burst into
 
-> **解析**：`burst into + 名词`（如 `laughter`）意为“突然爆发/化作……”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-`____` we pitched the tent than it started to pour rain.
+The narrator told a ____ story about a forest killer and a squirrel.
 
-- [x] no sooner had
-- [ ] excited for
-- [ ] hanging
+- [x] killer
+- [ ] Bigfoot
+- [ ] burst into
 
-> **解析**：`No sooner had... than...` 是固定倒装句型，意为“刚一……就……”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-All the kids are super `____` tomorrow's hiking adventure.
+The branch ____ in the dark looked spooky in the late night.
 
-- [x] excited for
-- [ ] goosebumps
-- [ ] marshmallow
+- [x] hanging
+- [ ] Bigfoot
+- [ ] burst into
 
-> **解析**：`be excited for sth` 意为“对……感到兴奋/期待”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+We are dying to eat roasted marshmallows by the ____.
+
+- [x] campfire
+- [ ] Bigfoot
+- [ ] burst into
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+That scary story with a suspenseful ____ kept us thrilled.
+
+- [x] cliffhanger
+- [ ] Bigfoot
+- [ ] burst into
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+After hearing the ____ legend, everyone burst into excited talk.
+
+- [x] Bigfoot
+- [ ] burst into
+- [ ] campfire
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+An ____ flew silently in the darkness, giving us all goosebumps.
+
+- [x] owl
+- [ ] Bigfoot
+- [ ] burst into
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+I am excited for making tasty ____ around the warm campfire tonight.
+
+- [x] s'mores
+- [ ] Bigfoot
+- [ ] burst into
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+No sooner had I approached the woods than a ____ ran up a tree.
+
+- [x] squirrel
+- [ ] Bigfoot
+- [ ] burst into
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The ____ that appears under the full moon is a spooky character.
+
+- [x] werewolf
+- [ ] Bigfoot
+- [ ] burst into
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Hearing steps outside, my heart was ____ and I couldn't go to sleep.
+
+- [x] racing
+- [ ] Bigfoot
+- [ ] burst into
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The thrilling ____ left every listener on the edge of their seat.
+
+- [x] cliffhanger
+- [ ] Bigfoot
+- [ ] burst into
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Everyone agreed that the ____ story about the grizzly bear was killer.
+
+- [x] campfire
+- [ ] Bigfoot
+- [ ] burst into
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

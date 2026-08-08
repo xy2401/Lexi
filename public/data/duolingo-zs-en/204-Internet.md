@@ -51,83 +51,177 @@ used to（过去常常）和 get used to（逐渐习惯）是本单元的重要�
 
 <quiz-sentence-builder>
 
-1. **中文**：你需要一个更新过的网页浏览器来顺畅加载高清视频内容。  
-   **英文**：You need an updated web browser to load high-definition video content smoothly.
-   > **解析**：browser 可数名词，在此指“网页浏览器”（如 Chrome、Safari）。
+1. **中文**：在使用公共电脑时你应当退出你的账号。  
+   **英文**：You should log out of your account when using a public computer.
+   > **解析**：log out of 表示“退出（账号）”。
 
-2. **中文**：智能手机是一种用于通信和学习的多功能便携设备。  
-   **英文**：A smartphone is a versatile portable device used for communication and learning.
-   > **解析**：device 可数名词，意为“设备；装置”。
+2. **中文**：如果应用程序再次崩溃，请重启你的设备。  
+   **英文**：Please restart your device if the application crashes again.
+   > **解析**：restart 表示“重启”，device 表示“设备”。
 
-3. **中文**：在过去，人们过去常寄纸质信件而不是发送即时消息。  
-   **英文**：In the past, people used to send paper letters instead of sending instant messages.
-   > **解析**：used to 常用情态短语，后接动词原形，表示过去常常做某事（现已不做了）。
+3. **中文**：我需要在我的笔记本电脑上安装一个新浏览器。  
+   **英文**：I need to install a new browser on my laptop.
+   > **解析**：install 表示“安装”，browser 表示“浏览器”。
 
-4. **中文**：我花了几周时间才习惯在触控屏上工作。  
-   **英文**：It took me a few weeks to get used to working on a touch screen.
-   > **解析**：get used to 动词短语，意为“习惯于……”，介词 to 后接名词或动名词（doing）。
+4. **中文**：该用户频繁访问这个视频网站。  
+   **英文**：The user made frequent visits to this video website.
+   > **解析**：user 表示“用户”，frequent 表示“频繁的”。
 
-5. **中文**：现代计算机游戏以逼真的三维图形为特色。  
-   **英文**：Modern computer games feature realistic three-dimensional graphics.
-   > **解析**：graphics 常用复数名词，意为“图像；图形”。
+5. **中文**：在在线会议期间你将会习惯使用麦克风。  
+   **英文**：You will get used to using a microphone during online meetings.
+   > **解析**：get used to + V-ing 表示“习惯于……”，microphone 表示“麦克风”。
 
-6. **中文**：点击此处在你的笔记本电脑上安装最新的软件更新。  
-   **英文**：Click here to install the latest software update on your laptop.
-   > **解析**：install 及物动词，意为“安装（软件/设备）”。
+6. **中文**：按下红键来开启房间里的巨大服务器。  
+   **英文**：Press the red key to turn on the giant server in the room.
+   > **解析**：press 表示“按下”，key 表示“按键”，giant 表示“巨大的”，server 表示“服务器”。
 
-7. **中文**：完成交易后务必退出你的网上银行账户。  
-   **英文**：Always log out of your online banking account after finishing your transaction.
-   > **解析**：log out of 动词短语，意为“从……退出登录”。
+7. **中文**：你能看一下我屏幕上的图形吗？  
+   **英文**：Can you take a look at the graphics on my screen?
+   > **解析**：take a look at 表示“看一眼”，graphics 表示“图形、图像”。
 
-8. **中文**：如果屏幕卡住，请尝试重新启动你的计算机系统。  
-   **英文**：If the screen freezes, try to restart your computer system.
-   > **解析**：restart 及物/不及物动词，意为“重新启动”，前缀 re- 表示重新。
+8. **中文**：我过去曾在旧工厂与一个简单的机器人一起工作。  
+   **英文**：I used to work with a simple robot in the old factory.
+   > **解析**：used to + 原形表示“过去常常”，robot 表示“机器人”。
 
-9. **中文**：公司服务器因例行技术维护暂时离线了。  
-   **英文**：The company server went offline temporarily for routine technical maintenance.
-   > **解析**：server 可数名词，在计算机领域指“服务器”。
+9. **中文**：网络摄像头会在视频通话时自动定位你的脸部。  
+   **英文**：The webcam will automatically locate your face for video calls.
+   > **解析**：webcam 表示“网络摄像头”，locate 表示“定位”。
 
-10. **中文**：她打开了摄像头，以便视频会议期间大家都能看到她。  
-   **英文**：She turned on her webcam so everyone could see her during the video meeting.
-   > **解析**：webcam 可数名词，意为“网络摄像头”，由 web + camera 合成。
+10. **中文**：如果连接缓慢，请切换到另一个服务器。  
+   **英文**：Please switch to another server if the connection is slow.
+   > **解析**：switch to 表示“切换到”。
+
+11. **中文**：他买了一个巨大屏幕以获得更好的图形质量。  
+   **英文**：He bought a giant screen for better graphics quality.
+   > **解析**：giant 表示“巨大的”，graphics 表示“图形”。
+
+12. **中文**：我每天检查一次电子邮件以保持最新动态。  
+   **英文**：I check my email once a day to stay updated.
+   > **解析**：once a day 表示“一天一次”。
+
+13. **中文**：你知道如何安装这个新软件设备吗？  
+   **英文**：Do you know how to install this new software device?
+   > **解析**：install 意为“安装”。
+
+14. **中文**：她是社交媒体应用程序的频繁使用者。  
+   **英文**：She is a frequent user of social media applications.
+   > **解析**：user 表示“使用者、用户”。
+
+15. **中文**：看一下地图以定位服务器中心。  
+   **英文**：Take a look at the map to locate the server center.
+   > **解析**：locate 表示“确定……的位置/定位”。
+
+16. **中文**：我还没有习惯这个新键盘设计。  
+   **英文**：I haven't got used to the new keyboard design yet.
+   > **解析**：haven't got used to 表示“尚未习惯”。
+
+17. **中文**：当你不在说话时请关掉麦克风。  
+   **英文**：Turn off the microphone when you are not speaking.
+   > **解析**：microphone 表示“麦克风”。
+
+18. **中文**：按下键盘上的任意键来开始游戏。  
+   **英文**：Press any key on the keyboard to start the game.
+   > **解析**：press 表示“按下”，key 表示“按键”。
+
+19. **中文**：他过去每天晚上都会退出电脑账号。  
+   **英文**：He used to log out of the computer every evening.
+   > **解析**：used to 过去常常，log out of 退出。
+
+20. **中文**：公司将切换到更快的大型网络服务器。  
+   **英文**：The company will switch to a faster giant web server.
+   > **解析**：restart, switch to, giant, server 综合运用。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. You need an updated web browser to load high-definition video content smoothly.
-   > **中文**：你需要一个更新过的网页浏览器来顺畅加载高清视频内容。
+1. You should log out of your account when using a public computer.
+   > **中文**：在使用公共电脑时你应当退出你的账号。
 
-2. A smartphone is a versatile portable device used for communication and learning.
-   > **中文**：智能手机是一种用于通信和学习的多功能便携设备。
+2. Please restart your device if the application crashes again.
+   > **中文**：如果应用程序再次崩溃，请重启你的设备。
 
-3. In the past, people used to send paper letters instead of sending instant messages.
-   > **中文**：在过去，人们过去常寄纸质信件而不是发送即时消息。
+3. I need to install a new browser on my laptop.
+   > **中文**：我需要在我的笔记本电脑上安装一个新浏览器。
 
-4. It took me a few weeks to get used to working on a touch screen.
-   > **中文**：我花了几周时间才习惯在触控屏上工作。
+4. The user made frequent visits to this video website.
+   > **中文**：该用户频繁访问这个视频网站。
 
-5. Modern computer games feature realistic three-dimensional graphics.
-   > **中文**：现代计算机游戏以逼真的三维图形为特色。
+5. You will get used to using a microphone during online meetings.
+   > **中文**：在在线会议期间你将会习惯使用麦克风。
 
-6. Click here to install the latest software update on your laptop.
-   > **中文**：点击此处在你的笔记本电脑上安装最新的软件更新。
+6. Press the red key to turn on the giant server in the room.
+   > **中文**：按下红键来开启房间里的巨大服务器。
 
-7. Always log out of your online banking account after finishing your transaction.
-   > **中文**：完成交易后务必退出你的网上银行账户。
+7. Can you take a look at the graphics on my screen?
+   > **中文**：你能看一下我屏幕上的图形吗？
 
-8. If the screen freezes, try to restart your computer system.
-   > **中文**：如果屏幕卡住，请尝试重新启动你的计算机系统。
+8. I used to work with a simple robot in the old factory.
+   > **中文**：我过去曾在旧工厂与一个简单的机器人一起工作。
 
-9. The company server went offline temporarily for routine technical maintenance.
-   > **中文**：公司服务器因例行技术维护暂时离线了。
+9. The webcam will automatically locate your face for video calls.
+   > **中文**：网络摄像头会在视频通话时自动定位你的脸部。
 
-10. She turned on her webcam so everyone could see her during the video meeting.
-   > **中文**：她打开了摄像头，以便视频会议期间大家都能看到她。
+10. Please switch to another server if the connection is slow.
+   > **中文**：如果连接缓慢，请切换到另一个服务器。
+
+11. He bought a giant screen for better graphics quality.
+   > **中文**：他买了一个巨大屏幕以获得更好的图形质量。
+
+12. I check my email once a day to stay updated.
+   > **中文**：我每天检查一次电子邮件以保持最新动态。
+
+13. Do you know how to install this new software device?
+   > **中文**：你知道如何安装这个新软件设备吗？
+
+14. She is a frequent user of social media applications.
+   > **中文**：她是社交媒体应用程序的频繁使用者。
+
+15. Take a look at the map to locate the server center.
+   > **中文**：看一下地图以定位服务器中心。
+
+16. I haven't got used to the new keyboard design yet.
+   > **中文**：我还没有习惯这个新键盘设计。
+
+17. Turn off the microphone when you are not speaking.
+   > **中文**：当你不在说话时请关掉麦克风。
+
+18. Press any key on the keyboard to start the game.
+   > **中文**：按下键盘上的任意键来开始游戏。
+
+19. He used to log out of the computer every evening.
+   > **中文**：他过去每天晚上都会退出电脑账号。
+
+20. The company will switch to a faster giant web server.
+   > **中文**：公司将切换到更快的大型网络服务器。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| browser | 浏览器 |
+| device | 设备；装置 |
+| frequent | 频繁的 |
+| get used to | 习惯于 |
+| giant | 巨大的 |
+| graphics | 图形；图像 |
+| install | 安装 |
+| key | 按键；钥匙 |
+| locate | 定位；找到 |
+| log out of | 退出（账号/系统） |
+| microphone | 麦克风；话筒 |
+| once a | 一次（如 once a day） |
+| press | 按；压 |
+| restart | 重启 |
+| robot | 机器人 |
+| server | 服务器 |
+| switch | 切换；开关 |
+| take a look | 看一看 |
+| used to | 过去常常 |
+| user | 用户 |
+| webcam | 网络摄像头 |
 
 </quiz-matching>
 
@@ -135,102 +229,202 @@ used to（过去常常）和 get used to（逐渐习惯）是本单元的重要�
 
 ### 1
 
-You need an updated web `____` to load high-definition video content smoothly.
+You should log out of your account when using a public ____.
 
-- [x] browser
+- [x] computer
+- [ ] browser
 - [ ] device
-- [ ] graphics
 
-> **解析**：browser 可数名词，在此指“网页浏览器”（如 Chrome、Safari）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-A smartphone is a versatile portable `____` used for communication and learning.
+Please ____ your device if the application crashes again.
 
-- [x] device
-- [ ] frequent
-- [ ] install
+- [x] restart
+- [ ] browser
+- [ ] device
 
-> **解析**：device 可数名词，意为“设备；装置”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-In the past, people `____` send paper letters instead of sending instant messages.
+I need to ____ a new browser on my laptop.
 
-- [x] used to
-- [ ] frequent
-- [ ] install
+- [x] install
+- [ ] browser
+- [ ] device
 
-> **解析**：used to 常用情态短语，后接动词原形，表示过去常常做某事（现已不做了）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-It took me a few weeks to `____` working on a touch screen.
+The ____ made frequent visits to this video website.
 
-- [x] get used to
-- [ ] giant
-- [ ] locate
+- [x] user
+- [ ] browser
+- [ ] device
 
-> **解析**：get used to 动词短语，意为“习惯于……”，介词 to 后接名词或动名词（doing）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Modern computer games feature realistic three-dimensional `____`.
+You will get used to using a ____ during online meetings.
 
-- [x] graphics
-- [ ] giant
-- [ ] log out of
+- [x] microphone
+- [ ] browser
+- [ ] device
 
-> **解析**：graphics 常用复数名词，意为“图像；图形”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Click here to `____` the latest software update on your laptop.
+____ the red key to turn on the giant server in the room.
 
-- [x] install
-- [ ] graphics
-- [ ] microphone
+- [x] Press
+- [ ] browser
+- [ ] device
 
-> **解析**：install 及物动词，意为“安装（软件/设备）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Always `____` your online banking account after finishing your transaction.
+Can you take a look at the ____ on my screen?
 
-- [x] log out of
-- [ ] install
-- [ ] once a
+- [x] graphics
+- [ ] browser
+- [ ] device
 
-> **解析**：log out of 动词短语，意为“从……退出登录”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-If the screen freezes, try to `____` your computer system.
+I used to work with a simple ____ in the old factory.
 
-- [x] restart
-- [ ] key
-- [ ] once a
+- [x] robot
+- [ ] browser
+- [ ] device
 
-> **解析**：restart 及物/不及物动词，意为“重新启动”，前缀 re- 表示重新。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The company `____` went offline temporarily for routine technical maintenance.
+The ____ will automatically locate your face for video calls.
 
-- [x] server
-- [ ] locate
-- [ ] press
+- [x] webcam
+- [ ] browser
+- [ ] device
 
-> **解析**：server 可数名词，在计算机领域指“服务器”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-She turned on her `____` so everyone could see her during the video meeting.
+Please ____ to another server if the connection is slow.
 
-- [x] webcam
-- [ ] log out of
-- [ ] restart
+- [x] switch
+- [ ] browser
+- [ ] device
 
-> **解析**：webcam 可数名词，意为“网络摄像头”，由 web + camera 合成。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+He bought a ____ screen for better graphics quality.
+
+- [x] giant
+- [ ] browser
+- [ ] device
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+I check my email once a day to stay ____.
+
+- [x] updated
+- [ ] browser
+- [ ] device
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Do you know how to ____ this new software device?
+
+- [x] install
+- [ ] browser
+- [ ] device
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+She is a ____ user of social media applications.
+
+- [x] frequent
+- [ ] browser
+- [ ] device
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Take a look at the map to ____ the server center.
+
+- [x] locate
+- [ ] browser
+- [ ] device
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+I haven't got used to the new ____ design yet.
+
+- [x] keyboard
+- [ ] browser
+- [ ] device
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Turn off the ____ when you are not speaking.
+
+- [x] microphone
+- [ ] browser
+- [ ] device
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+____ any key on the keyboard to start the game.
+
+- [x] Press
+- [ ] browser
+- [ ] device
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+He used to log out of the ____ every evening.
+
+- [x] computer
+- [ ] browser
+- [ ] device
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+The company will ____ to a faster giant web server.
+
+- [x] switch
+- [ ] browser
+- [ ] device
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

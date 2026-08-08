@@ -61,83 +61,176 @@ after-party, afterwards, ask, asked her who had, bow tie, chaperone, clothing, c
 
 <quiz-sentence-builder>
 
-1. **中文**：他决定为高中舞会租一套经典的黑色晚礼服。  
-   **英文**：He decided to rent a classic black tuxedo for the high school prom.
-   > **解析**：`tuxedo`（口语中常简写为 `tux`）指男士在正式场合穿的“晚礼服、无尾半正式礼服”，作动词 `rent` 的宾语。
+1. **中文**：你打算下个周末去参加高中舞会吗？
+   **英文**：Are you planning to go to the high school prom next weekend?
+   > **解析**：prom 意为高中舞会。
 
-2. **中文**：她手腕上戴着一朵精致的佩花，与她的晚礼服很搭配。  
-   **英文**：She wore a delicate flower corsage on her wrist to match her evening dress about afterwards.
-   > **解析**：`corsage` 特指女子在舞会或正式场合佩戴在手腕或胸前的“小花束/手腕花”，在句中作动词 `wore` 的直接宾语。
+2. **中文**：他穿了一身黑色的燕尾服礼服去参加舞会。
+   **英文**：He wore a black tuxedo to the formal dance.
+   > **解析**：tuxedo 意为男士无尾礼服、燕尾服。
 
-3. **中文**：摄影师让他把红玫瑰胸花针扣在西装翻领上。  
-   **英文**：The photographer asked him to pin the red rose boutonniere onto his lapel.
-   > **解析**：`boutonniere` 指男士在正式场合佩戴在西装翻领上的“胸花”，源自法语，在句中作动词 `pin` 的宾语。
+3. **中文**：戴领结能让你的礼服看起来更正式。
+   **英文**：Wearing a bow tie makes your suit look much more formal.
+   > **解析**：bow tie 意为蝴蝶结领结。
 
-4. **中文**：他们把钱凑在一起，租了一辆白色豪华轿车去参加当晚的活动。  
-   **英文**：They pooled their money together to hire a white limousine for the evening.
-   > **解析**：`limousine`（口语常简称 `limo`）指“加长豪华轿车”，在句中作动词 `hire` 的宾语。
+4. **中文**：我们合租了一辆加长豪华轿车去参加舞会。
+   **英文**：We rented a stretch limo to go to the dance together.
+   > **解析**：limo 意为豪华轿车。
 
-5. **中文**：在去参加舞会之前，她在沙龙花了两个小时做发型。  
-   **英文**：She spent two hours getting her hair done at the salon before heading to the dance after-party.
-   > **解析**：`get one's hair done` 是使役结构 `get + sth. + done` 的习惯用法，意为“（让别人给自己）做发型”，表示由专业人员提供服务。
+5. **中文**：大家都在热切地等待舞会皇后的宣布。
+   **英文**：Everyone was eagerly waiting for the announcement of the prom queen.
+   > **解析**：prom queen 意为舞会皇后。
 
-6. **中文**：高中毕业班学生参加一年一度的毕业舞会是一项悠久的传统习俗。  
-   **英文**：It is a longstanding custom for high school seniors to attend the annual prom about after-party asked her who had.
-   > **解析**：`custom` 在此作名词，意为“风俗、传统习俗”。注意其与 `habit`（个人习惯）的区别。
+6. **中文**：舞会皇后戴上了闪亮皇冠并微笑着。
+   **英文**：The prom queen wore a shiny crown and smiled at everyone.
+   > **解析**：crown 意为皇冠。
 
-7. **中文**：活动开始前，专业摄影师为每一对伴侣拍照。  
-   **英文**：The professional photographer took pictures of the couples before the event began about clothing.
-   > **解析**：`photographer` 是可数名词，意为“摄影师”，由动词 `photograph` 加上表示人的后缀 `-er` 构成。
+7. **中文**：当音乐响起时，大家都冲向了舞池。
+   **英文**：When the music started, everyone ran to the dance floor.
+   > **解析**：dance floor 意为舞池。
 
-8. **中文**：许多学生选择租用正装，而不是购买新衣服。  
-   **英文**：Many students choose to rent their formal wear instead of buying new clothes bow tie.
-   > **解析**：`rent` 在此作动词，意为“租用、租赁”。搭配 `rent formal wear` 表示“租用礼服/正装”。
+8. **中文**：故意迟到一会儿在舞会上其实很流行。
+   **英文**：Arriving fashionably late is actually quite popular at the party.
+   > **解析**：fashionably late 意为故意迟到以显得时髦。
 
-9. **中文**：要是我们一起打车去舞会场地省点钱怎么样？  
-   **英文**：What if we share a taxi to the prom venue to save money about chaperone.
-   > **解析**：`What if we...?` 是提出建议或设想的常用口语句式，意为“如果我们……怎么样？”，后接动词原形从句。
+9. **中文**：几位老师在舞会上担任监督陪同。
+   **英文**：Several teachers served as chaperones during the school dance.
+   > **解析**：chaperone 意为（活动中的）陪同人员、监护人。
 
-10. **中文**：如果我们小组今晚赢得舞蹈比赛，那岂不是很棒？  
-   **英文**：Wouldn't it be amazing if our group won the dance contest tonight.
-   > **解析**：`Wouldn't it be + adj. + if...?` 是带委婉语气的反问句，意为“如果……难道不是很……吗？”，用于引发对方的认同与共鸣。
+10. **中文**：她穿着礼服的样子看起来真是令人惊艳。
+   **英文**：She looked absolutely stunning in her elegant evening dress.
+   > **解析**：stunning 意为令人惊艳的、极美的。
+
+11. **中文**：舞会结束后，我们打算去参加派对后的后半场聚会。
+   **英文**：After the dance ended, we went to an after-party at a friend's house.
+   > **解析**：after-party 意为（活动结束后的）续场派对。
+
+12. **中文**：我们先拍照，之后一起去吃宵夜。
+   **英文**：We took photos first, and afterwards we went for a late-night snack.
+   > **解析**：afterwards 意为之后、后来。
+
+13. **中文**：你已经邀请某人作为你的舞会舞伴了吗？
+   **英文**：Have you already asked someone to be your date for the dance?
+   > **解析**：date 意为舞伴、约会对象。
+
+14. **中文**：他们在摄影师面前摆姿势合影留念。
+   **英文**：They posed for a photograph in front of the romantic backdrop.
+   > **解析**：pose 意为摆姿势。
+
+15. **中文**：我还在等待豪华轿车预订的确认信息。
+   **英文**：I am still waiting for confirmation on our limo reservation.
+   > **解析**：confirmation 意为确认、确认信。
+
+16. **中文**：我原本打算租一套燕尾服，但时间来不及了。
+   **英文**：I was going to rent a tuxedo, but I ran out of time.
+   > **解析**：was going to 意为原本打算做某事。
+
+17. **中文**：你之前不是打算邀请她去参加舞会吗？
+   **英文**：Weren't you going to ask her to go to the dance with you?
+   > **解析**：weren't you going to 意为“你之前难道不打算……吗”。
+
+18. **中文**：每个人都在讨论即将到来的毕业舞会。
+   **英文**：Everyone is talking about the graduation dance that is coming up soon.
+   > **解析**：coming up 意为即将到来。
+
+19. **中文**：我听说你选到了心仪的服装，是真的吗？
+   **英文**：I heard you found your favorite outfit, is that right?
+   > **解析**：is that right 意为“那是真的吗 / 对吗”。
+
+20. **中文**：这家商店专门售卖正式的晚会服装。
+   **英文**：This shop specializes in selling formal clothing for special occasions.
+   > **解析**：clothing 意为服装。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. He decided to rent a classic black tuxedo for the high school prom.
-   > **中文**：他决定为高中舞会租一套经典的黑色晚礼服。
+1. Are you planning to go to the high school prom next weekend?
+   > **中文**：你打算下个周末去参加高中舞会吗？
 
-2. She wore a delicate flower corsage on her wrist to match her evening dress about afterwards.
-   > **中文**：她手腕上戴着一朵精致的佩花，与她的晚礼服很搭配。
+2. He wore a black tuxedo to the formal dance.
+   > **中文**：他穿了一身黑色的燕尾服礼服去参加舞会。
 
-3. The photographer asked him to pin the red rose boutonniere onto his lapel.
-   > **中文**：摄影师让他把红玫瑰胸花针扣在西装翻领上。
+3. Wearing a bow tie makes your suit look much more formal.
+   > **中文**：戴领结能让你的礼服看起来更正式。
 
-4. They pooled their money together to hire a white limousine for the evening.
-   > **中文**：他们把钱凑在一起，租了一辆白色豪华轿车去参加当晚的活动。
+4. We rented a stretch limo to go to the dance together.
+   > **中文**：我们合租了一辆加长豪华轿车去参加舞会。
 
-5. She spent two hours getting her hair done at the salon before heading to the dance after-party.
-   > **中文**：在去参加舞会之前，她在沙龙花了两个小时做发型。
+5. Everyone was eagerly waiting for the announcement of the prom queen.
+   > **中文**：大家都在热切地等待舞会皇后的宣布。
 
-6. It is a longstanding custom for high school seniors to attend the annual prom about after-party asked her who had.
-   > **中文**：高中毕业班学生参加一年一度的毕业舞会是一项悠久的传统习俗。
+6. The prom queen wore a shiny crown and smiled at everyone.
+   > **中文**：舞会皇后戴上了闪亮皇冠并微笑着。
 
-7. The professional photographer took pictures of the couples before the event began about clothing.
-   > **中文**：活动开始前，专业摄影师为每一对伴侣拍照。
+7. When the music started, everyone ran to the dance floor.
+   > **中文**：当音乐响起时，大家都冲向了舞池。
 
-8. Many students choose to rent their formal wear instead of buying new clothes bow tie.
-   > **中文**：许多学生选择租用正装，而不是购买新衣服。
+8. Arriving fashionably late is actually quite popular at the party.
+   > **中文**：故意迟到一会儿在舞会上其实很流行。
 
-9. What if we share a taxi to the prom venue to save money about chaperone.
-   > **中文**：要是我们一起打车去舞会场地省点钱怎么样？
+9. Several teachers served as chaperones during the school dance.
+   > **中文**：几位老师在舞会上担任监督陪同。
 
-10. Wouldn't it be amazing if our group won the dance contest tonight.
-   > **中文**：如果我们小组今晚赢得舞蹈比赛，那岂不是很棒？
+10. She looked absolutely stunning in her elegant evening dress.
+   > **中文**：她穿着礼服的样子看起来真是令人惊艳。
+
+11. After the dance ended, we went to an after-party at a friend's house.
+   > **中文**：舞会结束后，我们打算去参加派对后的后半场聚会。
+
+12. We took photos first, and afterwards we went for a late-night snack.
+   > **中文**：我们先拍照，之后一起去吃宵夜。
+
+13. Have you already asked someone to be your date for the dance?
+   > **中文**：你已经邀请某人作为你的舞会舞伴了吗？
+
+14. They posed for a photograph in front of the romantic backdrop.
+   > **中文**：他们在摄影师面前摆姿势合影留念。
+
+15. I am still waiting for confirmation on our limo reservation.
+   > **中文**：我还在等待豪华轿车预订的确认信息。
+
+16. I was going to rent a tuxedo, but I ran out of time.
+   > **中文**：我原本打算租一套燕尾服，但时间来不及了。
+
+17. Weren't you going to ask her to go to the dance with you?
+   > **中文**：你之前不是打算邀请她去参加舞会吗？
+
+18. Everyone is talking about the graduation dance that is coming up soon.
+   > **中文**：每个人都在讨论即将到来的毕业舞会。
+
+19. I heard you found your favorite outfit, is that right?
+   > **中文**：我听说你选到了心仪的服装，是真的吗？
+
+20. This shop specializes in selling formal clothing for special occasions.
+   > **中文**：这家商店专门售卖正式的晚会服装。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| prom | 高中舞会 |
+| tuxedo | 男士礼服；燕尾服 |
+| bow tie | 领结 |
+| limo | 豪华轿车 |
+| prom queen | 舞会皇后 |
+| crown | 皇冠 |
+| dance floor | 舞池 |
+| fashionably late | 故意迟到以显派头 |
+| chaperones | 陪同人员；监护人 |
+| stunning | 令人惊艳的；极美的 |
+| after-party | 续场派对 |
+| afterwards | 之后；后来 |
+| date | 舞伴；约会对象 |
+| posed | 摆姿势 |
+| confirmation | 确认；确认信 |
+| was going to | 原本打算做…… |
+| weren't you going to | 你难道原本不打算……吗 |
+| coming up | 即将到来 |
+| is that right | 是真的吗；对吗 |
+| clothing | 服装 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ after-party, afterwards, ask, asked her who had, bow tie, chaperone, clothing, c
 
 ### 1
 
-He decided to rent a classic black tuxedo for the high school `____`.
+Are you planning to go to the high school ____ next weekend?
 
 - [x] prom
 - [ ] after-party
-- [ ] bow tie
+- [ ] afterwards
 
-> **解析**：`tuxedo`（口语中常简写为 `tux`）指男士在正式场合穿的“晚礼服、无尾半正式礼服”，作动词 `rent` 的宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-She wore a delicate flower corsage on her wrist to match her evening dress about `____`.
+He wore a black ____ to the formal dance.
 
-- [x] afterwards
-- [ ] ask
-- [ ] clothing
+- [x] tuxedo
+- [ ] after-party
+- [ ] afterwards
 
-> **解析**：`corsage` 特指女子在舞会或正式场合佩戴在手腕或胸前的“小花束/手腕花”，在句中作动词 `wore` 的直接宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The photographer `____`ed him to pin the red rose boutonniere onto his lapel.
+____ a bow tie makes your suit look much more formal.
 
-- [x] ask
-- [ ] asked her who had
-- [ ] coming up
+- [x] Wearing
+- [ ] after-party
+- [ ] afterwards
 
-> **解析**：`boutonniere` 指男士在正式场合佩戴在西装翻领上的“胸花”，源自法语，在句中作动词 `pin` 的宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-They pooled their money together to hire a white `____`usine for the evening.
+We rented a stretch ____ to go to the dance together.
 
 - [x] limo
-- [ ] asked her who had
-- [ ] coming up
+- [ ] after-party
+- [ ] afterwards
 
-> **解析**：`limousine`（口语常简称 `limo`）指“加长豪华轿车”，在句中作动词 `hire` 的宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-She spent two hours getting her hair done at the salon before heading to the dance `____`.
+Everyone was eagerly waiting for the announcement of the ____ queen.
 
-- [x] after-party
-- [ ] chaperone
-- [ ] crown
+- [x] prom
+- [ ] after-party
+- [ ] afterwards
 
-> **解析**：`get one's hair done` 是使役结构 `get + sth. + done` 的习惯用法，意为“（让别人给自己）做发型”，表示由专业人员提供服务。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-It is a longstanding custom for high school seniors to attend the annual prom about after-party `____`.
+The ____ queen wore a shiny crown and smiled at everyone.
 
-- [x] asked her who had
-- [ ] clothing
-- [ ] dance floor
+- [x] prom
+- [ ] after-party
+- [ ] afterwards
 
-> **解析**：`custom` 在此作名词，意为“风俗、传统习俗”。注意其与 `habit`（个人习惯）的区别。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The professional photographer took pictures of the couples before the event began about `____`.
+When the music started, ____ ran to the dance floor.
 
-- [x] clothing
-- [ ] coming up
-- [ ] date
+- [x] everyone
+- [ ] after-party
+- [ ] afterwards
 
-> **解析**：`photographer` 是可数名词，意为“摄影师”，由动词 `photograph` 加上表示人的后缀 `-er` 构成。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Many students choose to rent their formal wear instead of buying new clothes `____`.
+Arriving ____ late is actually quite popular at the party.
 
-- [x] bow tie
-- [ ] confirmation
-- [ ] fashionably late
+- [x] fashionably
+- [ ] after-party
+- [ ] afterwards
 
-> **解析**：`rent` 在此作动词，意为“租用、租赁”。搭配 `rent formal wear` 表示“租用礼服/正装”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-What if we share a taxi to the prom venue to save money about `____`.
+Several teachers served as ____ during the school dance.
 
-- [x] chaperone
-- [ ] crown
-- [ ] is that right
+- [x] chaperones
+- [ ] after-party
+- [ ] afterwards
 
-> **解析**：`What if we...?` 是提出建议或设想的常用口语句式，意为“如果我们……怎么样？”，后接动词原形从句。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-`____`n't it be amazing if our group won the dance contest tonight.
+She looked absolutely ____ in her elegant evening dress.
 
-- [x] would
-- [ ] crown
-- [ ] is that right
+- [x] stunning
+- [ ] after-party
+- [ ] afterwards
 
-> **解析**：`Wouldn't it be + adj. + if...?` 是带委婉语气的反问句，意为“如果……难道不是很……吗？”，用于引发对方的认同与共鸣。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+After the dance ended, we went to an ____ at a friend's house.
+
+- [x] after-party
+- [ ] afterwards
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+We took photos first, and ____ we went for a late-night snack.
+
+- [x] afterwards
+- [ ] after-party
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Have you already asked someone to be your ____ for the dance?
+
+- [x] date
+- [ ] after-party
+- [ ] afterwards
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+They posed for a ____ in front of the romantic backdrop.
+
+- [x] photograph
+- [ ] after-party
+- [ ] afterwards
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+I am still waiting for ____ on our limo reservation.
+
+- [x] confirmation
+- [ ] after-party
+- [ ] afterwards
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+I was going to rent a ____, but I ran out of time.
+
+- [x] tuxedo
+- [ ] after-party
+- [ ] afterwards
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Weren't you going to ____ her to go to the dance with you?
+
+- [x] ask
+- [ ] after-party
+- [ ] afterwards
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Everyone is talking about the ____ dance that is coming up soon.
+
+- [x] graduation
+- [ ] after-party
+- [ ] afterwards
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+I heard you found your ____ outfit, is that right?
+
+- [x] favorite
+- [ ] after-party
+- [ ] afterwards
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+This shop specializes in selling formal ____ for special occasions.
+
+- [x] clothing
+- [ ] after-party
+- [ ] afterwards
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

@@ -63,83 +63,176 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
 
 <quiz-sentence-builder>
 
-1. **中文**：绝对不行！没有有效的驾驶执照你绝不能开车。  
-   **英文**：Absolutely not! You cannot drive the car without a valid driver's license.
-   > **解析**：`absolutely not` 为强烈的拒绝副词短语，意为“绝对不行；决不可以”，在日常口语中用于坚决拒绝对方的许可请求。
+1. **中文**：父母规定我在上学晚不能在外停留超过九点。
+   **英文**：My parents don't allow me to stay out late on a school night.
+   > **解析**：stay out 表示在外停留；school night 表示上学晚。
 
-2. **中文**：这栋房子里的青少年必须遵守规则，在十点宵禁前返回。  
-   **英文**：Teenagers in this house must follow the rule and return before the ten o'clock curfew.
-   > **解析**：`curfew` 可数名词，意为“宵禁；归宿时间限制”。句中 `ten o'clock curfew` 指晚上十点的最晚归家时间。
+2. **中文**：我能去朋友家参加本周六的过夜派对吗？
+   **英文**：May I go to my friend's house for a sleepover this Saturday?
+   > **解析**：sleepover 表示过夜派对。
 
-3. **中文**：如果是那样的话，我们将不得不调整户外野餐的计划。  
-   **英文**：If that's the case, we will have to adjust our plans for the outdoor picnic.
-   > **解析**：`if that's the case` 为固定假设短语，意为“如果是这样/那样的话”，根据上文提及的情形引出相应的对策。
+3. **中文**：严格的归宿时间是晚上十点，不要太晚回家。
+   **英文**：The strict curfew for weekend nights is ten o'clock sharp.
+   > **解析**：curfew 表示归宿时间、宵禁。
 
-4. **中文**：当你告诉父母你的旅行计划时，他们作何反应？  
-   **英文**：How did your parents react when you told them about your travel plans.
-   > **解析**：`react` 不及物动词，意为“反应；做出回应”。常用搭配 `react to sth.`（对……做出反应）。
+4. **中文**：恳求父母允许我参加音乐节没有任何效果。
+   **英文**：It is no use trying to beg for permission to go to the festival.
+   > **解析**：beg 表示恳求、乞求。
 
-5. **中文**：你被允许去参加聚会，但你不能在外面逗留到午夜之后。  
-   **英文**：You are allowed to go to the party, but you cannot stay out past midnight.
-   > **解析**：`stay out` 为不及物动词短语，意为“（夜晚）在户外逗留；不回家”。
+5. **中文**：我们需要在做出最后决定前仔细商量一下。
+   **英文**：We need to talk it over together before making a decision.
+   > **解析**：talk it over 表示商量、讨论。
 
-6. **中文**：如果你能帮我提这些重行李，那将太好了。  
-   **英文**：If you could help me carry these heavy bags, that would be wonderful.
-   > **解析**：`that would be` 为虚拟语气表达，在假设情景下礼貌地对未来的帮助表示赞赏或设想。
+6. **中文**：当父母得知这个消息时，他们会做出什么反应？
+   **英文**：How will your parents react when they hear about the plan?
+   > **解析**：react 表示反应。
 
-7. **中文**：如果我们在预订前先征求经理的许可怎么样？  
-   **英文**：What about if we ask the manager for permission before making a reservation?
-   > **解析**：`what about if...` 为口语建议句型，意为“要是……怎么样？”，引导提议从句。
+7. **中文**：请务必在离开房间前锁好大门。
+   **英文**：Please make sure to lock the front door before leaving.
+   > **解析**：make sure 表示确保、务必。
 
-8. **中文**：只要你在日落前归还，你就可以借用我的自行车。  
-   **英文**：You can borrow my bicycle as long as you return it before sunset (if that's the case) about beg.
-   > **解析**：`as long as` 为条件连词短语，意为“只要”，引导条件状语从句。
+8. **中文**：绝对不行！你今晚不能开我的车出去。
+   **英文**：Absolutely not! You cannot borrow my car tonight.
+   > **解析**：absolutely not 表示绝对不行，强烈否定。
 
-9. **中文**：你认为我今天能提早离开去参加家庭预约吗？  
-   **英文**：Do you think I'd be able to leave early today to attend a family appointment?
-   > **解析**：`do you think I'd be able to...` 为委婉、礼貌地向他人请求许可的句型（意为“你觉得我能不能……？”）。
+9. **中文**：只要你按时完成作业，你就可以出去玩。
+   **英文**：You can go out as long as you finish your homework first.
+   > **解析**：as long as 表示只要。
 
-10. **中文**：我警告过他没有成年人监管不要在河里游泳。  
-   **英文**：I warned him not to swim in the river without adult supervision about curfew beg.
-   > **解析**：`not` 为否定副词，在动词不定式前构成否定式 `not to do sth.`（不要做某事）。
+10. **中文**：如果是那样的话，那我们只能取消明天的露营了。
+   **英文**：If that's the case, we have no choice but to cancel the trip.
+   > **解析**：if that's the case 表示如果是那样的话。
+
+11. **中文**：问题是，我答应了妈妈今晚留在家里。
+   **英文**：The thing is, I promised my mom I would stay home tonight.
+   > **解析**：the thing is 用于引出核心问题或原因，意为问题是。
+
+12. **中文**：能得到你的许可，那真是太棒了。
+   **英文**：If you agree, that would be really wonderful for all of us.
+   > **解析**：that would be 表示那将会是……。
+
+13. **中文**：你认为我这周末能借用一下你的吉他吗？
+   **英文**：Do you think I'd be able to borrow your guitar this weekend?
+   > **解析**：do you think i'd be able to 用于委婉询问许可。
+
+14. **中文**：如果我们把会议改到明天下午举行怎么样？
+   **英文**：How about if we reschedule the meeting for tomorrow afternoon?
+   > **解析**：how about if 用于提出建议或请求。
+
+15. **中文**：要是我们先完成这部分工作再休息会怎样？
+   **英文**：What about if we complete this task before taking a break?
+   > **解析**：what about if 用于询问建议。
+
+16. **中文**：你愿意开车载我一程去火车站吗？
+   **英文**：Would you be willing to give me a ride to the train station?
+   > **解析**：would you 用于礼貌请求对方做某事。
+
+17. **中文**：请问你能帮我把这个重箱子搬到楼上去吗？
+   **英文**：Will you help me carry this heavy box upstairs, please?
+   > **解析**：will you 用于请求协助。
+
+18. **中文**：已经过了午夜十二点，大家必须安静下来。
+   **英文**：It is past midnight, so everyone must keep quiet.
+   > **解析**：past 表示超过、过（时间）。
+
+19. **中文**：那么，让我们明天早上八点在校门口集合吧。
+   **英文**：Then, let's meet at the school gate tomorrow morning at eight.
+   > **解析**：then 表示那么、接着。
+
+20. **中文**：既然在上学晚不能太晚睡觉，我们早点回家吧。
+   **英文**：Since it's a school night, we should go home early.
+   > **解析**：school night 表示上学晚。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Absolutely not! You cannot drive the car without a valid driver's license.
-   > **中文**：绝对不行！没有有效的驾驶执照你绝不能开车。
+1. My parents don't allow me to stay out late on a school night.
+   > **中文**：父母规定我在上学晚不能在外停留超过九点。
 
-2. Teenagers in this house must follow the rule and return before the ten o'clock curfew.
-   > **中文**：这栋房子里的青少年必须遵守规则，在十点宵禁前返回。
+2. May I go to my friend's house for a sleepover this Saturday?
+   > **中文**：我能去朋友家参加本周六的过夜派对吗？
 
-3. If that's the case, we will have to adjust our plans for the outdoor picnic.
-   > **中文**：如果是那样的话，我们将不得不调整户外野餐的计划。
+3. The strict curfew for weekend nights is ten o'clock sharp.
+   > **中文**：严格的归宿时间是晚上十点，不要太晚回家。
 
-4. How did your parents react when you told them about your travel plans.
-   > **中文**：当你告诉父母你的旅行计划时，他们作何反应？
+4. It is no use trying to beg for permission to go to the festival.
+   > **中文**：恳求父母允许我参加音乐节没有任何效果。
 
-5. You are allowed to go to the party, but you cannot stay out past midnight.
-   > **中文**：你被允许去参加聚会，但你不能在外面逗留到午夜之后。
+5. We need to talk it over together before making a decision.
+   > **中文**：我们需要在做出最后决定前仔细商量一下。
 
-6. If you could help me carry these heavy bags, that would be wonderful.
-   > **中文**：如果你能帮我提这些重行李，那将太好了。
+6. How will your parents react when they hear about the plan?
+   > **中文**：当父母得知这个消息时，他们会做出什么反应？
 
-7. What about if we ask the manager for permission before making a reservation?
-   > **中文**：如果我们在预订前先征求经理的许可怎么样？
+7. Please make sure to lock the front door before leaving.
+   > **中文**：请务必在离开房间前锁好大门。
 
-8. You can borrow my bicycle as long as you return it before sunset (if that's the case) about beg.
-   > **中文**：只要你在日落前归还，你就可以借用我的自行车。
+8. Absolutely not! You cannot borrow my car tonight.
+   > **中文**：绝对不行！你今晚不能开我的车出去。
 
-9. Do you think I'd be able to leave early today to attend a family appointment?
-   > **中文**：你认为我今天能提早离开去参加家庭预约吗？
+9. You can go out as long as you finish your homework first.
+   > **中文**：只要你按时完成作业，你就可以出去玩。
 
-10. I warned him not to swim in the river without adult supervision about curfew beg.
-   > **中文**：我警告过他没有成年人监管不要在河里游泳。
+10. If that's the case, we have no choice but to cancel the trip.
+   > **中文**：如果是那样的话，那我们只能取消明天的露营了。
+
+11. The thing is, I promised my mom I would stay home tonight.
+   > **中文**：问题是，我答应了妈妈今晚留在家里。
+
+12. If you agree, that would be really wonderful for all of us.
+   > **中文**：能得到你的许可，那真是太棒了。
+
+13. Do you think I'd be able to borrow your guitar this weekend?
+   > **中文**：你认为我这周末能借用一下你的吉他吗？
+
+14. How about if we reschedule the meeting for tomorrow afternoon?
+   > **中文**：如果我们把会议改到明天下午举行怎么样？
+
+15. What about if we complete this task before taking a break?
+   > **中文**：要是我们先完成这部分工作再休息会怎样？
+
+16. Would you be willing to give me a ride to the train station?
+   > **中文**：你愿意开车载我一程去火车站吗？
+
+17. Will you help me carry this heavy box upstairs, please?
+   > **中文**：请问你能帮我把这个重箱子搬到楼上去吗？
+
+18. It is past midnight, so everyone must keep quiet.
+   > **中文**：已经过了午夜十二点，大家必须安静下来。
+
+19. Then, let's meet at the school gate tomorrow morning at eight.
+   > **中文**：那么，让我们明天早上八点在校门口集合吧。
+
+20. Since it's a school night, we should go home early.
+   > **中文**：既然在上学晚不能太晚睡觉，我们早点回家吧。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| curfew | 宵禁；归宿时间 |
+| sleepover | 过夜派对 |
+| stay out | 在外停留；晚归 |
+| school night | 上学日的前夜（上学晚） |
+| beg | 乞求；恳求 |
+| talk it over | 商量；讨论 |
+| react | 反应；回应 |
+| make sure | 确保；务必 |
+| absolutely not | 绝对不行 |
+| as long as | 只要 |
+| if that's the case | 如果是那样的话 |
+| the thing is | 问题是；实际情况是 |
+| that would be | 那将会是…… |
+| do you think i'd be able to | 你认为我能……吗 |
+| how about if | 如果……怎么样 |
+| what about if | 要是……会怎样 |
+| would you | 你愿意……吗 |
+| will you | 你能/会……吗 |
+| past | 超过；过 |
+| then | 那么 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
 
 ### 1
 
-`____`! You cannot drive the car without a valid driver's license.
+My ____ don't allow me to stay out late on a school night.
 
-- [x] absolutely not
+- [x] parents
+- [ ] absolutely not
 - [ ] as long as
-- [ ] do you think i'd be able to
 
-> **解析**：`absolutely not` 为强烈的拒绝副词短语，意为“绝对不行；决不可以”，在日常口语中用于坚决拒绝对方的许可请求。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Teenagers in this house must follow the rule and return before the ten o'clock `____`.
+May I go to my friend's house for a ____ this Saturday?
 
-- [x] curfew
+- [x] sleepover
+- [ ] absolutely not
 - [ ] as long as
-- [ ] how about if
 
-> **解析**：`curfew` 可数名词，意为“宵禁；归宿时间限制”。句中 `ten o'clock curfew` 指晚上十点的最晚归家时间。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-`____`, we will have to adjust our plans for the outdoor picnic.
+The strict ____ for weekend nights is ten o'clock sharp.
 
-- [x] if that's the case
-- [ ] ask
-- [ ] how about if
+- [x] curfew
+- [ ] absolutely not
+- [ ] as long as
 
-> **解析**：`if that's the case` 为固定假设短语，意为“如果是这样/那样的话”，根据上文提及的情形引出相应的对策。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-How did your parents `____` when you told them about your travel plans.
+It is no use trying to ____ for permission to go to the festival.
 
-- [x] react
-- [ ] beg
-- [ ] if that's the case
+- [x] beg
+- [ ] absolutely not
+- [ ] as long as
 
-> **解析**：`react` 不及物动词，意为“反应；做出回应”。常用搭配 `react to sth.`（对……做出反应）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-You are allowed to go to the party, but you can`____` stay out past midnight.
+We need to talk it over ____ before making a decision.
 
-- [x] not
-- [ ] curfew
-- [ ] make sure
+- [x] together
+- [ ] absolutely not
+- [ ] as long as
 
-> **解析**：`stay out` 为不及物动词短语，意为“（夜晚）在户外逗留；不回家”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-If you could help me carry these heavy bags, `____` wonderful.
+How will your parents ____ when they hear about the plan?
 
-- [x] that would be
-- [ ] do you think i'd be able to
-- [ ] not
+- [x] react
+- [ ] absolutely not
+- [ ] as long as
 
-> **解析**：`that would be` 为虚拟语气表达，在假设情景下礼貌地对未来的帮助表示赞赏或设想。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-What about if we `____` the manager for permission before making a reservation?
+Please make sure to lock the front door before ____.
 
-- [x] ask
-- [ ] if that's the case
-- [ ] react
+- [x] leaving
+- [ ] absolutely not
+- [ ] as long as
 
-> **解析**：`what about if...` 为口语建议句型，意为“要是……怎么样？”，引导提议从句。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-You can borrow my bicycle `____` you return it before sunset (if that's the case) about beg.
+Absolutely ____! You cannot borrow my car tonight.
 
-- [x] as long as
-- [ ] make sure
-- [ ] school night
+- [x] not
+- [ ] absolutely not
+- [ ] as long as
 
-> **解析**：`as long as` 为条件连词短语，意为“只要”，引导条件状语从句。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-`____` leave early today to attend a family appointment?
+You can go out as long as you finish your ____ first.
 
-- [x] do you think i'd be able to
-- [ ] not
-- [ ] sleepover
+- [x] homework
+- [ ] absolutely not
+- [ ] as long as
 
-> **解析**：`do you think I'd be able to...` 为委婉、礼貌地向他人请求许可的句型（意为“你觉得我能不能……？”）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-I warned him not to swim in the river without adult supervision about curfew `____`.
+If ____ the case, we have no choice but to cancel the trip.
 
-- [x] beg
-- [ ] past
-- [ ] stay out
+- [x] that's
+- [ ] absolutely not
+- [ ] as long as
 
-> **解析**：`not` 为否定副词，在动词不定式前构成否定式 `not to do sth.`（不要做某事）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The thing is, I ____ my mom I would stay home tonight.
+
+- [x] promised
+- [ ] absolutely not
+- [ ] as long as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+If you agree, that would be really ____ for all of us.
+
+- [x] wonderful
+- [ ] absolutely not
+- [ ] as long as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Do you think I'd be able to borrow your guitar this ____?
+
+- [x] weekend
+- [ ] absolutely not
+- [ ] as long as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+How about if we ____ the meeting for tomorrow afternoon?
+
+- [x] reschedule
+- [ ] absolutely not
+- [ ] as long as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+What about if we ____ this task before taking a break?
+
+- [x] complete
+- [ ] absolutely not
+- [ ] as long as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Would you be ____ to give me a ride to the train station?
+
+- [x] willing
+- [ ] absolutely not
+- [ ] as long as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Will you help me carry this heavy box ____, please?
+
+- [x] upstairs
+- [ ] absolutely not
+- [ ] as long as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+It is ____ midnight, so everyone must keep quiet.
+
+- [x] past
+- [ ] absolutely not
+- [ ] as long as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+____, let's meet at the school gate tomorrow morning at eight.
+
+- [x] Then
+- [ ] absolutely not
+- [ ] as long as
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Since it's a ____ night, we should go home early.
+
+- [x] school
+- [ ] absolutely not
+- [ ] as long as
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

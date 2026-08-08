@@ -61,83 +61,176 @@ correct, do you know what i mean, experiment, faculty, feedback, follow, get thr
 
 <quiz-sentence-builder>
 
-1. **中文**：请核实你的研究论文中的所有统计数据是否正确。  
-   **英文**：Please verify that all the statistical data in your research paper is correct.
-   > **解析**：`correct` 形容词，意为“正确的；无误的”。
+1. **中文**：我的导师对我的毕业论文提出了宝贵的反馈。
+   **英文**：My tutor gave me valuable feedback on my senior thesis.
+   > **解析**：senior thesis 指本科毕业论文。
 
-2. **中文**：她作为哲学助理教授加入了学术教职人员队伍。  
-   **英文**：She joined the academic faculty as an assistant professor of philosophy.
-   > **解析**：`faculty` 集合名词，意为“（大学的）全体教员；学院/系”。
+2. **中文**：考试前我们过一遍讲义笔记吧。
+   **英文**：Let's go over the lecture notes before the exam.
+   > **解析**：go over 意为复习、仔细检查。
 
-3. **中文**：在开始新话题之前，让我们温习/复习一下昨天讲座要点。  
-   **英文**：Let's go over the main points of yesterday's lecture before starting the new topic.
-   > **解析**：`go over` 固定及物短语，意为“复习；仔细检查”。
+3. **中文**：我需要阅读更多参考文献来完成提纲。
+   **英文**：I need to read more references to complete the outline.
+   > **解析**：outline 意为提纲、大纲。
 
-4. **中文**：我借了她详尽的学习笔记来备考即将到来的期末考试。  
-   **英文**：I borrowed her comprehensive study notes to prepare for the upcoming final exam.
-   > **解析**：`notes` 复数名词，意为“笔记；记录”。搭配 `take notes`（做笔记）。
+4. **中文**：她是哲学专业的大四学生。
+   **英文**：She is a senior majoring in philosophy.
+   > **解析**：philosophy 意为哲学。
 
-5. **中文**：完成硕士学位后，他完全有资格教授高等物理。  
-   **英文**：After completing his master's degree, he was fully qualified to teach advanced physics.
-   > **解析**：`qualified` 形容词，意为“有资格的；合格的”。搭配 `be qualified to do sth.`。
+5. **中文**：该教职工帮助我们进行了科学实验。
+   **英文**：The faculty member helped us conduct the science experiment.
+   > **解析**：faculty 指教职工、全体教师。
 
-6. **中文**：作为一名大四学生，她目前正忙着写她的毕业设计。  
-   **英文**：As a senior student, she is currently busy writing her graduation project.
-   > **解析**：`senior` 在美国大学/高中里指“大四学生/高三学生”（四年级学生）。
+6. **中文**：读完所有的阅读材料需要付出很大努力。
+   **英文**：It takes a lot of effort to get through all the reading materials.
+   > **解析**：get through 意为完成、读完。
 
-7. **中文**：他花了八个月时间为他的博士论文进行田野调查。  
-   **英文**：He spent eight months conducting field research for his doctoral thesis.
-   > **解析**：`thesis` 可数名词，意为“毕业论文；学位论文”，复数形式为 `theses`。
+7. **中文**：换句话说，我们需要纠正我们的研究方法。
+   **英文**：In other words, we need to correct our research method.
+   > **解析**：in other words 意为换句话说。
 
-8. **中文**：学术写作需要严密的逻辑而不是情绪化的语言，你明白我的意思吗？  
-   **英文**：Academic writing requires rigorous logic rather than emotional language, do you know what i mean? (go over) about experiment.
-   > **解析**：`do you know what I mean?` 为常用口语询问短语，用于确认对方是否理解自己的阐述。
+8. **中文**：他有资格教这门高级课程吗？
+   **英文**：Is he qualified to teach this advanced course?
+   > **解析**：qualified 意为有资格的、合格的。
 
-9. **中文**：你能放慢一点速度，以便大家能跟上你的讲解吗？  
-   **英文**：Could you slow down a little bit so that everyone can follow your explanation?
-   > **解析**：`follow` 及物动词，在此处意为“听懂；跟上（思绪、讲解）”。
+9. **中文**：很难跟上他的解释，你懂我的意思吗？
+   **英文**：It is difficult to follow his explanation, do you know what I mean?
+   > **解析**：do you know what I mean 用于确认对方理解。
 
-10. **中文**：实验未能产生显著结果；换句话说，我们的假设是不正确的。  
-   **英文**：The experiment failed to produce significant results; in other words, our hypothesis was incorrect.
-   > **解析**：`in other words` 插入语短语，意为“换句话说”，用于重新表述或总结前文。
+10. **中文**：我们将一口气读完这份报告。
+   **英文**：We will finish reading the report in one sitting.
+   > **解析**：in one sitting 意为一口气、坐着一次完成。
+
+11. **中文**：教授要求我们写一份详细的论文提纲。
+   **英文**：The professor asked us to write a detailed thesis outline.
+   > **解析**：thesis 意为论文。
+
+12. **中文**：她整个下午都在复习她的哲学笔记。
+   **英文**：She spent the entire afternoon reviewing her philosophy notes.
+   > **解析**：notes 意为笔记。
+
+13. **中文**：我连教科书的第一章都没看透。
+   **英文**：I didn't get through the first chapter of the textbook.
+   > **解析**：get through 表示啃完、读完。
+
+14. **中文**：在提交前，你应该仔细检查每个参考文献。
+   **英文**：You should check every reference carefully before submitting.
+   > **解析**：reference 意为参考文献。
+
+15. **中文**：我们的导师资历非常高，而且非常支持我们。
+   **英文**：Our tutor is highly qualified and very supportive.
+   > **解析**：tutor 意为导师、家教。
+
+16. **中文**：换句话说，结果在统计上并不显著。
+   **英文**：In other words, the results were not statistically significant.
+   > **解析**：in other words 意为换言之。
+
+17. **中文**：那是一个充满挑战的学期，但我成功熬过来了。
+   **英文**：It was a challenging semester, but I managed to get through it.
+   > **解析**：get through 意为度过、熬过。
+
+18. **中文**：当我谈论抽象理论时，你懂我的意思吗？
+   **英文**：Do you know what I mean when I talk about abstract theories?
+   > **解析**：do you know what I mean 确认口语中的理解。
+
+19. **中文**：他决定主修计算机科学而不是哲学。
+   **英文**：He decided to major in computer science instead of philosophy.
+   > **解析**：major in 意为主修（某专业）。
+
+20. **中文**：在发表之前，我们必须纠正数据中的错误。
+   **英文**：We must correct the errors in our data before publishing.
+   > **解析**：correct 意为纠正、订正。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Please verify that all the statistical data in your research paper is correct.
-   > **中文**：请核实你的研究论文中的所有统计数据是否正确。
+1. My tutor gave me valuable feedback on my senior thesis.
+   > **中文**：我的导师对我的毕业论文提出了宝贵的反馈。
 
-2. She joined the academic faculty as an assistant professor of philosophy.
-   > **中文**：她作为哲学助理教授加入了学术教职人员队伍。
+2. Let's go over the lecture notes before the exam.
+   > **中文**：考试前我们过一遍讲义笔记吧。
 
-3. Let's go over the main points of yesterday's lecture before starting the new topic.
-   > **中文**：在开始新话题之前，让我们温习/复习一下昨天讲座要点。
+3. I need to read more references to complete the outline.
+   > **中文**：我需要阅读更多参考文献来完成提纲。
 
-4. I borrowed her comprehensive study notes to prepare for the upcoming final exam.
-   > **中文**：我借了她详尽的学习笔记来备考即将到来的期末考试。
+4. She is a senior majoring in philosophy.
+   > **中文**：她是哲学专业的大四学生。
 
-5. After completing his master's degree, he was fully qualified to teach advanced physics.
-   > **中文**：完成硕士学位后，他完全有资格教授高等物理。
+5. The faculty member helped us conduct the science experiment.
+   > **中文**：该教职工帮助我们进行了科学实验。
 
-6. As a senior student, she is currently busy writing her graduation project.
-   > **中文**：作为一名大四学生，她目前正忙着写她的毕业设计。
+6. It takes a lot of effort to get through all the reading materials.
+   > **中文**：读完所有的阅读材料需要付出很大努力。
 
-7. He spent eight months conducting field research for his doctoral thesis.
-   > **中文**：他花了八个月时间为他的博士论文进行田野调查。
+7. In other words, we need to correct our research method.
+   > **中文**：换句话说，我们需要纠正我们的研究方法。
 
-8. Academic writing requires rigorous logic rather than emotional language, do you know what i mean? (go over) about experiment.
-   > **中文**：学术写作需要严密的逻辑而不是情绪化的语言，你明白我的意思吗？
+8. Is he qualified to teach this advanced course?
+   > **中文**：他有资格教这门高级课程吗？
 
-9. Could you slow down a little bit so that everyone can follow your explanation?
-   > **中文**：你能放慢一点速度，以便大家能跟上你的讲解吗？
+9. It is difficult to follow his explanation, do you know what I mean?
+   > **中文**：很难跟上他的解释，你懂我的意思吗？
 
-10. The experiment failed to produce significant results; in other words, our hypothesis was incorrect.
-   > **中文**：实验未能产生显著结果；换句话说，我们的假设是不正确的。
+10. We will finish reading the report in one sitting.
+   > **中文**：我们将一口气读完这份报告。
+
+11. The professor asked us to write a detailed thesis outline.
+   > **中文**：教授要求我们写一份详细的论文提纲。
+
+12. She spent the entire afternoon reviewing her philosophy notes.
+   > **中文**：她整个下午都在复习她的哲学笔记。
+
+13. I didn't get through the first chapter of the textbook.
+   > **中文**：我连教科书的第一章都没看透。
+
+14. You should check every reference carefully before submitting.
+   > **中文**：在提交前，你应该仔细检查每个参考文献。
+
+15. Our tutor is highly qualified and very supportive.
+   > **中文**：我们的导师资历非常高，而且非常支持我们。
+
+16. In other words, the results were not statistically significant.
+   > **中文**：换句话说，结果在统计上并不显著。
+
+17. It was a challenging semester, but I managed to get through it.
+   > **中文**：那是一个充满挑战的学期，但我成功熬过来了。
+
+18. Do you know what I mean when I talk about abstract theories?
+   > **中文**：当我谈论抽象理论时，你懂我的意思吗？
+
+19. He decided to major in computer science instead of philosophy.
+   > **中文**：他决定主修计算机科学而不是哲学。
+
+20. We must correct the errors in our data before publishing.
+   > **中文**：在发表之前，我们必须纠正数据中的错误。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| thesis | 论文；毕业论文 |
+| tutor | 导师；家教 |
+| faculty | 院系；全体教师 |
+| senior | 大四学生；高年级的 |
+| philosophy | 哲学 |
+| go over | 复习；仔细检查 |
+| get through | 完成；熬过；读完 |
+| feedback | 反馈 |
+| correct | 纠正；正确的 |
+| experiment | 实验 |
+| research | 研究 |
+| outline | 提纲；大纲 |
+| notes | 笔记 |
+| reference | 参考文献 |
+| do you know what i mean | 你懂我意思吗 |
+| in other words | 换句话说 |
+| qualified | 有资格的；合格的 |
+| major | 主修；专业 |
+| sitting | 一口气；坐着（的时长） |
+| follow | 跟上；理解 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ correct, do you know what i mean, experiment, faculty, feedback, follow, get thr
 
 ### 1
 
-Please verify that all the statistical data in your research paper is `____`.
+My ____ gave me valuable feedback on my senior thesis.
 
-- [x] correct
+- [x] tutor
+- [ ] correct
 - [ ] do you know what i mean
-- [ ] follow
 
-> **解析**：`correct` 形容词，意为“正确的；无误的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-She joined the academic `____` as an assistant professor of philosophy.
+Let's go over the lecture ____ before the exam.
 
-- [x] faculty
+- [x] notes
+- [ ] correct
 - [ ] do you know what i mean
-- [ ] get through
 
-> **解析**：`faculty` 集合名词，意为“（大学的）全体教员；学院/系”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Let's `____` the main points of yesterday's lecture before starting the new topic.
+I need to ____ more references to complete the outline.
 
-- [x] go over
-- [ ] experiment
-- [ ] get through
+- [x] read
+- [ ] correct
+- [ ] do you know what i mean
 
-> **解析**：`go over` 固定及物短语，意为“复习；仔细检查”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-I borrowed her comprehensive study `____` to prepare for the upcoming final exam.
+She is a ____ majoring in philosophy.
 
-- [x] notes
-- [ ] faculty
-- [ ] go over
+- [x] senior
+- [ ] correct
+- [ ] do you know what i mean
 
-> **解析**：`notes` 复数名词，意为“笔记；记录”。搭配 `take notes`（做笔记）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-After completing his master's degree, he was fully `____` to teach advanced physics.
+The ____ member helped us conduct the science experiment.
 
-- [x] qualified
-- [ ] feedback
-- [ ] in other words
+- [x] faculty
+- [ ] correct
+- [ ] do you know what i mean
 
-> **解析**：`qualified` 形容词，意为“有资格的；合格的”。搭配 `be qualified to do sth.`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-As a senior student, she is currently busy wr`____`ing her graduation project.
+____ takes a lot of effort to get through all the reading materials.
 
-- [x] it
-- [ ] follow
-- [ ] major
+- [x] It
+- [ ] correct
+- [ ] do you know what i mean
 
-> **解析**：`senior` 在美国大学/高中里指“大四学生/高三学生”（四年级学生）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-He spent eight months conducting field `____` for his doctoral thesis.
+In other words, we need to ____ our research method.
 
-- [x] research
-- [ ] get through
-- [ ] major
+- [x] correct
+- [ ] do you know what i mean
+- [ ] experiment
 
-> **解析**：`thesis` 可数名词，意为“毕业论文；学位论文”，复数形式为 `theses`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Academic writing requires rigorous logic rather than emotional language, `____`? (go over) about experiment.
+Is he ____ to teach this advanced course?
 
-- [x] do you know what i mean
-- [ ] in other words
-- [ ] outline
+- [x] qualified
+- [ ] correct
+- [ ] do you know what i mean
 
-> **解析**：`do you know what I mean?` 为常用口语询问短语，用于确认对方是否理解自己的阐述。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Could you slow down a little bit so that everyone can `____` your explanation?
+____ is difficult to follow his explanation, do you know what I mean?
 
-- [x] follow
-- [ ] it
-- [ ] philosophy
+- [x] It
+- [ ] correct
+- [ ] do you know what i mean
 
-> **解析**：`follow` 及物动词，在此处意为“听懂；跟上（思绪、讲解）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The `____` failed to produce significant results; in other words, our hypothesis was incorrect.
+We will finish reading the report in one ____.
 
-- [x] experiment
-- [ ] major
-- [ ] qualified
+- [x] sitting
+- [ ] correct
+- [ ] do you know what i mean
 
-> **解析**：`in other words` 插入语短语，意为“换句话说”，用于重新表述或总结前文。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The professor asked us to write a detailed ____ outline.
+
+- [x] thesis
+- [ ] correct
+- [ ] do you know what i mean
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+She spent the entire afternoon reviewing her ____ notes.
+
+- [x] philosophy
+- [ ] correct
+- [ ] do you know what i mean
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+I didn't get through the first chapter of the ____.
+
+- [x] textbook
+- [ ] correct
+- [ ] do you know what i mean
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+You should check every ____ carefully before submitting.
+
+- [x] reference
+- [ ] correct
+- [ ] do you know what i mean
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Our ____ is highly qualified and very supportive.
+
+- [x] tutor
+- [ ] correct
+- [ ] do you know what i mean
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+In other words, the results were not ____ significant.
+
+- [x] statistically
+- [ ] correct
+- [ ] do you know what i mean
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+____ was a challenging semester, but I managed to get through it.
+
+- [x] It
+- [ ] correct
+- [ ] do you know what i mean
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Do you know what I mean when I talk about ____ theories?
+
+- [x] abstract
+- [ ] correct
+- [ ] do you know what i mean
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+He decided to ____ in computer science instead of philosophy.
+
+- [x] major
+- [ ] correct
+- [ ] do you know what i mean
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+We must ____ the errors in our data before publishing.
+
+- [x] correct
+- [ ] do you know what i mean
+- [ ] experiment
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

@@ -51,83 +51,176 @@ adapt, are being, are not being, being, cause, endangered, global warming, green
 
 <quiz-sentence-builder>
 
-1. **中文**：警告气候变化的科学家们强调全球变暖的威胁。  
-   **英文**：Scientists warning about climate change emphasize the threats of global warming.
-   > **解析**：global warming 不可数名词短语，意为“全球变暖”。
+1. **中文**：海龟的自然栖息地正在被沿海开发破坏。  
+   **英文**：The sea turtle's natural habitat is being destroyed by coastal development.
+   > **解析**：sea turtle 表示“海龟”，habitat 表示“栖息地”，is being destroyed 为被动语态进行时“正在被破坏”。
 
-2. **中文**：人们正在努力保护濒危物种免于灭绝。  
-   **英文**：Efforts are being made to protect endangered species from extinction.
-   > **解析**：endangered 形容词，意为“濒危的”，修饰 species、animals 等。
+2. **中文**：在我们的星球上，正在采取什么行动来保护濒危物种？  
+   **英文**：What is being done to protect endangered species on our planet?
+   > **解析**：what is being done 表示“正在采取什么行动”，endangered species 表示“濒危物种”，planet 表示“星球”。
 
-3. **中文**：砍伐森林破坏了野生鸟类和动物的自然栖息地。  
-   **英文**：Deforestation destroys the natural habitat of wild birds and animals.
-   > **解析**：habitat 可数/不可数名词，意为“（动植物的）栖息地；自然环境”。
+3. **中文**：工厂污染河流，这导致全球变暖进一步恶化。  
+   **英文**：Factories pollute rivers, which causes global warming to get worse.
+   > **解析**：pollute 表示“污染”，global warming 表示“全球变暖”，cause 表示“导致”。
 
-4. **中文**：工厂决不能用有害化学废料污染附近的河流。  
-   **英文**：Factories must not pollute nearby rivers with harmful chemical waste.
-   > **解析**：pollute 及物动词，意为“污染”，名词形式为 pollution。
+4. **中文**：塑料垃圾必须被回收以保持海洋清洁。  
+   **英文**：Plastic trash must be recycled to keep the ocean clean.
+   > **解析**：must be + 过去分词表达“必须被……”。
 
-5. **中文**：海洋中的塑料垃圾对海龟构成了严重危险。  
-   **英文**：Plastic waste in the ocean poses a serious danger to the sea turtle.
-   > **解析**：turtle 可数名词，意为“海龟；龟”。
+5. **中文**：许多绿树正在被种植在陡峭的山坡附近。  
+   **英文**：Many green trees are being planted near the steep mountain side.
+   > **解析**：are being planted 为复数现在进行时被动，steep 表示“陡峭的”，plant 表示“种植”。
 
-6. **中文**：保护我们共享的地球需要国际合作与付出。  
-   **英文**：Protecting our shared planet requires international cooperation and dedication.
-   > **解析**：planet 可数名词，在此特指“地球”。
+6. **中文**：野生动物需要适应变化的自然环境。  
+   **英文**：Wild animals need to adapt to changing natural conditions.
+   > **解析**：adapt to 表示“适应……”，need to be/adapt 表达需要。
 
-7. **中文**：过度的工业排放是空气污染的主要原因。  
-   **英文**：Excessive industrial emissions are a main cause of air pollution.
-   > **解析**：cause 可数名词，意为“原因；起因”；也可作动词表示“引起”。
+7. **中文**：这座历史悠久的老村庄被浓密的绿色森林环绕。  
+   **英文**：The historical old village is surrounded by dense green forests.
+   > **解析**：surround 表示“环绕”，green 表示“绿色的/环保的”。
 
-8. **中文**：野生动物必须适应不断变化的气温才能生存。  
-   **英文**：Wild animals must adapt to changing temperatures to survive.
-   > **解析**：adapt 不及物/及物动词，意为“适应”，常用 adapt to something。
+8. **中文**：某些公司没有严格遵守空气质量规定。  
+   **英文**：Air quality rules are not being followed strictly by some companies.
+   > **解析**：are not being followed 为现在进行时被动的否定式。
 
-9. **中文**：转向绿色能源可以显著减少我们的碳足迹。  
-   **英文**：Switching to green energy sources reduces our carbon footprint significantly.
-   > **解析**：green 在此作形容词，意为“环保的；绿色生态的”。
+9. **中文**：未来将会有更多的可再生能源被开发。  
+   **英文**：More renewable energy sources will be developed in the future.
+   > **解析**：will be + 过去分词表示“将来会被……”。
 
-10. **中文**：全球政府必须立即采取环保行动。  
-   **英文**：Immediate environmental actions must be taken by governments worldwide.
-   > **解析**：must be + 过去分词，构成被动语态情态表达，意为“必须被……”。
+10. **中文**：宇宙中每个政府都应当优先考虑环境保护。  
+   **英文**：Environmental protection should be prioritized by every government in the universe.
+   > **解析**：should be + 过去分词表达“应当被……”，universe 表示“宇宙”。
+
+11. **中文**：重型交通必须被控制以减少碳排放。  
+   **英文**：Heavy traffic has to be controlled to reduce carbon emissions.
+   > **解析**：has to be / have to be + 过去分词表示“必须被……”。
+
+12. **中文**：人类活动对稀有植物物种造成严重破坏。  
+   **英文**：Human activities cause serious damage to rare plant species.
+   > **解析**：cause 表示“导致、引起”，plant 表示“植物”，species 表示“物种”。
+
+13. **中文**：人类与数百万种动物物种共享这个地球。  
+   **英文**：Human beings share this planet with millions of animal species.
+   > **解析**：planet 表示“地球/星球”，species 表示“物种”。
+
+14. **中文**：小海龟正在被海洋保护主义者营救。  
+   **英文**：The baby turtle is being rescued by marine conservationists.
+   > **解析**：turtle 表示“海龟”，is being rescued 为进行时被动。
+
+15. **中文**：环境问题必须在全球峰会上讨论。  
+   **英文**：Environmental issues must be discussed in global summits.
+   > **解析**：must be 表达“必须被”。
+
+16. **中文**：树木应当受到保护，而不是被粗心地砍伐。  
+   **英文**：Trees should be protected rather than being cut down carelessly.
+   > **解析**：should be 表示“应当被”，being 表示现在的动名词/分词形式。
+
+17. **中文**：陡峭的山坡正被草地覆盖以防止水土流失。  
+   **英文**：The steep hill slopes are being covered with grass to prevent soil loss.
+   > **解析**：steep 表示“陡峭的”，are being covered 表示“正被覆盖”。
+
+18. **中文**：是什么导致了野外稀有物种的灭绝？  
+   **英文**：What causes the extinction of rare species in the wild?
+   > **解析**：cause 表示“导致”，species 表示“物种”。
+
+19. **中文**：我们必须小心不要污染我们的饮用水源。  
+   **英文**：We have to be careful not to pollute our drinking water sources.
+   > **解析**：have to be 表示“必须是”，pollute 表示“污染”。
+
+20. **中文**：科学家研究不同物种如何适应环境变化。  
+   **英文**：Scientists study how different species adapt to environmental changes.
+   > **解析**：species 表示“物种”，adapt to 表示“适应”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Scientists warning about climate change emphasize the threats of global warming.
-   > **中文**：警告气候变化的科学家们强调全球变暖的威胁。
+1. The sea turtle's natural habitat is being destroyed by coastal development.
+   > **中文**：海龟的自然栖息地正在被沿海开发破坏。
 
-2. Efforts are being made to protect endangered species from extinction.
-   > **中文**：人们正在努力保护濒危物种免于灭绝。
+2. What is being done to protect endangered species on our planet?
+   > **中文**：在我们的星球上，正在采取什么行动来保护濒危物种？
 
-3. Deforestation destroys the natural habitat of wild birds and animals.
-   > **中文**：砍伐森林破坏了野生鸟类和动物的自然栖息地。
+3. Factories pollute rivers, which causes global warming to get worse.
+   > **中文**：工厂污染河流，这导致全球变暖进一步恶化。
 
-4. Factories must not pollute nearby rivers with harmful chemical waste.
-   > **中文**：工厂决不能用有害化学废料污染附近的河流。
+4. Plastic trash must be recycled to keep the ocean clean.
+   > **中文**：塑料垃圾必须被回收以保持海洋清洁。
 
-5. Plastic waste in the ocean poses a serious danger to the sea turtle.
-   > **中文**：海洋中的塑料垃圾对海龟构成了严重危险。
+5. Many green trees are being planted near the steep mountain side.
+   > **中文**：许多绿树正在被种植在陡峭的山坡附近。
 
-6. Protecting our shared planet requires international cooperation and dedication.
-   > **中文**：保护我们共享的地球需要国际合作与付出。
+6. Wild animals need to adapt to changing natural conditions.
+   > **中文**：野生动物需要适应变化的自然环境。
 
-7. Excessive industrial emissions are a main cause of air pollution.
-   > **中文**：过度的工业排放是空气污染的主要原因。
+7. The historical old village is surrounded by dense green forests.
+   > **中文**：这座历史悠久的老村庄被浓密的绿色森林环绕。
 
-8. Wild animals must adapt to changing temperatures to survive.
-   > **中文**：野生动物必须适应不断变化的气温才能生存。
+8. Air quality rules are not being followed strictly by some companies.
+   > **中文**：某些公司没有严格遵守空气质量规定。
 
-9. Switching to green energy sources reduces our carbon footprint significantly.
-   > **中文**：转向绿色能源可以显著减少我们的碳足迹。
+9. More renewable energy sources will be developed in the future.
+   > **中文**：未来将会有更多的可再生能源被开发。
 
-10. Immediate environmental actions must be taken by governments worldwide.
-   > **中文**：全球政府必须立即采取环保行动。
+10. Environmental protection should be prioritized by every government in the universe.
+   > **中文**：宇宙中每个政府都应当优先考虑环境保护。
+
+11. Heavy traffic has to be controlled to reduce carbon emissions.
+   > **中文**：重型交通必须被控制以减少碳排放。
+
+12. Human activities cause serious damage to rare plant species.
+   > **中文**：人类活动对稀有植物物种造成严重破坏。
+
+13. Human beings share this planet with millions of animal species.
+   > **中文**：人类与数百万种动物物种共享这个地球。
+
+14. The baby turtle is being rescued by marine conservationists.
+   > **中文**：小海龟正在被海洋保护主义者营救。
+
+15. Environmental issues must be discussed in global summits.
+   > **中文**：环境问题必须在全球峰会上讨论。
+
+16. Trees should be protected rather than being cut down carelessly.
+   > **中文**：树木应当受到保护，而不是被粗心地砍伐。
+
+17. The steep hill slopes are being covered with grass to prevent soil loss.
+   > **中文**：陡峭的山坡正被草地覆盖以防止水土流失。
+
+18. What causes the extinction of rare species in the wild?
+   > **中文**：是什么导致了野外稀有物种的灭绝？
+
+19. We have to be careful not to pollute our drinking water sources.
+   > **中文**：我们必须小心不要污染我们的饮用水源。
+
+20. Scientists study how different species adapt to environmental changes.
+   > **中文**：科学家研究不同物种如何适应环境变化。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| adapt | 适应 |
+| are being | 正在被（复数） |
+| are not being | 没有正在被（复数否定） |
+| being | 被……（现在分词/动名词） |
+| cause | 导致；原因 |
+| endangered | 濒危的 |
+| global warming | 全球变暖 |
+| green | 绿色的；环保的 |
+| habitat | 栖息地 |
+| have to be | 必须被；不得不 |
+| is being | 正在被（单数） |
+| must be | 必须被 |
+| need to be | 需要被 |
+| planet | 星球；地球 |
+| plant | 植物；种植 |
+| pollute | 污染 |
+| should be | 应当被 |
+| species | 物种（单复同形） |
+| steep | 陡峭的；急剧的 |
+| surround | 环绕；围绕 |
 
 </quiz-matching>
 
@@ -135,102 +228,202 @@ adapt, are being, are not being, being, cause, endangered, global warming, green
 
 ### 1
 
-Scientists warning about climate change emphasize the threats of `____`.
+The sea turtle's natural ____ is being destroyed by coastal development.
 
-- [x] global warming
+- [x] habitat
 - [ ] adapt
-- [ ] cause
+- [ ] are being
 
-> **解析**：global warming 不可数名词短语，意为“全球变暖”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Efforts `____` made to protect endangered species from extinction.
+What is ____ done to protect endangered species on our planet?
 
-- [x] are being
-- [ ] are not being
-- [ ] global warming
+- [x] being
+- [ ] adapt
+- [ ] are being
 
-> **解析**：endangered 形容词，意为“濒危的”，修饰 species、animals 等。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Deforestation destroys the natural `____` of wild birds and animals.
+Factories ____ rivers, which causes global warming to get worse.
 
-- [x] habitat
-- [ ] are not being
-- [ ] global warming
+- [x] pollute
+- [ ] adapt
+- [ ] are being
 
-> **解析**：habitat 可数/不可数名词，意为“（动植物的）栖息地；自然环境”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Factories must not `____` nearby rivers with harmful chemical waste.
+Plastic trash must be ____ to keep the ocean clean.
 
-- [x] pollute
-- [ ] being
-- [ ] green
+- [x] recycled
+- [ ] adapt
+- [ ] are being
 
-> **解析**：pollute 及物动词，意为“污染”，名词形式为 pollution。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Plastic waste in the ocean poses a serious danger to the sea `____`.
+Many ____ trees are being planted near the steep mountain side.
 
-- [x] turtle
-- [ ] cause
-- [ ] habitat
+- [x] green
+- [ ] adapt
+- [ ] are being
 
-> **解析**：turtle 可数名词，意为“海龟；龟”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Protecting our shared `____` requires international cooperation and dedication.
+Wild animals need to ____ to changing natural conditions.
 
-- [x] planet
-- [ ] endangered
-- [ ] have to be
+- [x] adapt
+- [ ] are being
+- [ ] are not being
 
-> **解析**：planet 可数名词，在此特指“地球”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Excessive industrial emissions are a main `____` of air pollution.
+The historical old village is surrounded by dense ____ forests.
 
-- [x] cause
-- [ ] green
-- [ ] must be
+- [x] green
+- [ ] adapt
+- [ ] are being
 
-> **解析**：cause 可数名词，意为“原因；起因”；也可作动词表示“引起”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Wild animals must `____` to changing temperatures to survive.
+Air quality rules are not ____ followed strictly by some companies.
 
-- [x] adapt
-- [ ] habitat
-- [ ] need to be
+- [x] being
+- [ ] adapt
+- [ ] are being
 
-> **解析**：adapt 不及物/及物动词，意为“适应”，常用 adapt to something。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Switching to `____` energy sources reduces our carbon footprint significantly.
+More ____ energy sources will be developed in the future.
 
-- [x] green
-- [ ] have to be
-- [ ] planet
+- [x] renewable
+- [ ] adapt
+- [ ] are being
 
-> **解析**：green 在此作形容词，意为“环保的；绿色生态的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Immediate environmental actions `____` taken by governments worldwide.
+Environmental protection should be prioritized by every government in the ____.
 
-- [x] must be
-- [ ] have to be
-- [ ] plant
+- [x] universe
+- [ ] adapt
+- [ ] are being
 
-> **解析**：must be + 过去分词，构成被动语态情态表达，意为“必须被……”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Heavy traffic has to be ____ to reduce carbon emissions.
+
+- [x] controlled
+- [ ] adapt
+- [ ] are being
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Human activities ____ serious damage to rare plant species.
+
+- [x] cause
+- [ ] adapt
+- [ ] are being
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Human beings share this ____ with millions of animal species.
+
+- [x] planet
+- [ ] adapt
+- [ ] are being
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The baby ____ is being rescued by marine conservationists.
+
+- [x] turtle
+- [ ] adapt
+- [ ] are being
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+____ issues must be discussed in global summits.
+
+- [x] Environmental
+- [ ] adapt
+- [ ] are being
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Trees should be protected rather than ____ cut down carelessly.
+
+- [x] being
+- [ ] adapt
+- [ ] are being
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The ____ hill slopes are being covered with grass to prevent soil loss.
+
+- [x] steep
+- [ ] adapt
+- [ ] are being
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+What causes the extinction of rare ____ in the wild?
+
+- [x] species
+- [ ] adapt
+- [ ] are being
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+We have to be careful not to ____ our drinking water sources.
+
+- [x] pollute
+- [ ] adapt
+- [ ] are being
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Scientists study how different ____ adapt to environmental changes.
+
+- [x] species
+- [ ] adapt
+- [ ] are being
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

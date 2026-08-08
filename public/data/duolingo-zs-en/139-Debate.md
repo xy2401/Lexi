@@ -61,83 +61,176 @@ disagree with 表示"不同意"。at all 用于加强否定语气。
 
 <quiz-sentence-builder>
 
-1. **中文**：会议上的每个人都被邀请分享他们对该问题的个人观点。  
-   **英文**：Everyone in the meeting was invited to share their personal opinion on the issue.
-   > **解析**：opinion 为名词，意为“观点、意见”。opinion on/about sth. 表示“关于某事的观点”。
+1. **中文**：在辩论赛中，他表达了与对方完全相反的观点。  
+   **英文**：In the debate, he expressed an opposite opinion.
+   > **解析**：opposite 表示“相反的”；opinion 表示“观点/意见”。
 
-2. **中文**：团队成员在辩论中持有不同意见是完全正常的。  
-   **英文**：It is completely normal for team members to disagree during a debate.
-   > **解析**：disagree 为动词，前缀 dis- 表示否定，意为“不同意、持异议”。disagree with sb. 表示“不同意某人”。
+2. **中文**：我完全不同意你在媒体上关于增加监狱税收的提议。  
+   **英文**：I totally disagree with your opinion on media tax in prison.
+   > **解析**：disagree 表示“不同意”；media 表示“媒体”；prison 表示“监狱”。
 
-3. **中文**：我们必须共同努力来解决我们城市所面临的环境挑战。  
-   **英文**：We must work together to solve the environmental challenges facing our city.
-   > **解析**：solve 为动词，意为“解决、解答”。solve a problem/challenge 表示“解决问题/挑战”。名词形式为 solution。
+3. **中文**：他们一直在争论是否有必要花钱解决麻烦。  
+   **英文**：They argue whether it is necessary to pay to solve trouble.
+   > **解析**：argue 表示“争论/辩论”；necessary 表示“必要的”；solve 表示“解决”；trouble 表示“麻烦”。
 
-4. **中文**：经理欢迎任何用以提高工作效率的建设性建议。  
-   **英文**：The manager welcomed any constructive suggestion to improve workplace efficiency.
-   > **解析**：suggestion 为可数名词，意为“建议、提议”。constructive suggestion 表示“建设性建议”。动词形式为 suggest。
+4. **中文**：这位被选中的代表下定决心改变他的看法。  
+   **英文**：The chosen representative made up his mind to change.
+   > **解析**：chosen 表示“被选中的”；make up one's mind 表示“下定决心”。
 
-5. **中文**：水污染已经成为一个需要立即采取行动的严重问题。  
-   **英文**：Water pollution has become a serious problem that requires immediate action.
-   > **解析**：serious 为形容词，意为“严重的、严肃的”。修饰名词 problem。serious problem 意为“严重问题”。
+5. **中文**：这项已完成的任务极其重要，根本容不得闪失。  
+   **英文**：This completed task is extremely vital, not easy at all.
+   > **解析**：completed 表示“已完成的”；extremely 表示“极其/非常”；at all 表示“根本（不）”。
 
-6. **中文**：专家们继续就该政策的长期经济影响展开争论。  
-   **英文**：Experts continue to argue about the long-term economic impact of the policy.
-   > **解析**：argue 为动词，意为“争论、辩论”。argue about/over sth. 表示“就某事展开争论”。名词形式为 argument。
+6. **中文**：听取了她的有益建议后，问题得到了圆满解决。  
+   **英文**：After taking her helpful suggestion, the issue was solved.
+   > **解析**：suggestion 表示“建议”；solved 是 solve 的过去式，表示“解决”。
 
-7. **中文**：提议的解决方案在减少公司不必要成本方面极其有效。  
-   **英文**：The proposed solution is extremely effective in reducing unnecessary company costs.
-   > **解析**：extremely 为副词，意为“极其、非常”。修饰形容词 effective，起到加强语气的程度副词作用。
+7. **中文**：媒体对于谁是真正敌人的讨论越来越剧烈。  
+   **英文**：The media has intense discussions about who the enemy is.
+   > **解析**：media 表示“媒体”；enemy 表示“敌人”。
 
-8. **中文**：关于项目应当如何管理，我的同事持截然相反的看法。  
-   **英文**：My colleague held the opposite view regarding how the project should be managed.
-   > **解析**：opposite 为形容词，意为“相反的、对立的”。opposite view 意为“相反的观点”。
+8. **中文**：辩论双方就如何增加预算展开了激烈的辩论。  
+   **英文**：Both sides argue on how to increase the budget.
+   > **解析**：argue 表示“争论/辩论”；increase 表示“增加”。
 
-9. **中文**：在做出最终决定之前，收集所有相关数据是很有必要的。  
-   **英文**：It is necessary to gather all relevant data before making a final decision.
-   > **解析**：necessary 为形容词，意为“必要的、必须的”。常用形式主语结构 It is necessary to do sth.。
+9. **中文**：我一点也不喜欢参与这种无休止的意见争论。  
+   **英文**：I don't like getting into this opinion argument at all.
+   > **解析**：at all 表示“一点也（不）”。
 
-10. **中文**：在一场激烈的辩论之后，两位对手决定和好并合作。  
-   **英文**：After a heated debate, the two opponents decided to make up and work together.
-   > **解析**：make up 在此处为动词短语，意为“和解、和好”。make up 亦可表示“捏造、组成”。
+10. **中文**：经过慎重思考，他下定决心接受挑战。  
+   **英文**：After serious thought, he made up his mind to accept.
+   > **解析**：make up mind 表示“下定决心”；serious 表示“严肃的/认真的”。
+
+11. **中文**：我尊重你的个人观点，但我持不同看法。  
+   **英文**：I respect your personal opinion, but I disagree.
+   > **解析**：opinion 表示“观点/意见”；disagree 表示“不同意”。
+
+12. **中文**：双方就合同条款提出了完全相反的意见。  
+   **英文**：Both sides held opposite views during the debate.
+   > **解析**：opposite 表示“相反的”。
+
+13. **中文**：请提出一个可行的解决方案来解决这个麻烦。  
+   **英文**：Please give a practical suggestion to solve this trouble.
+   > **解析**：suggestion 表示“建议”；solve 表示“解决”。
+
+14. **中文**：他极其认真地对待这次演讲比赛。  
+   **英文**：He took this speech competition extremely seriously.
+   > **解析**：extremely 表示“极其/非常”。
+
+15. **中文**：我们已经完成了全部的前期准备工作。  
+   **英文**：We have completed all the preparation work for the event.
+   > **解析**：completed 表示“完成了”。
+
+16. **中文**：他在团队中被选为代表发言的队长。  
+   **英文**：He was chosen to be the team captain in the debate.
+   > **解析**：chosen 表示“被选中的”。
+
+17. **中文**：主流媒体对这起社会事件进行了详细跟踪报道。  
+   **英文**：Mainstream media covered this social news story in detail.
+   > **解析**：media 表示“媒体”。
+
+18. **中文**：陷入麻烦时，寻求别人的帮助是明智的。  
+   **英文**：When you are in trouble, asking for help is smart.
+   > **解析**：trouble 表示“麻烦/困境”。
+
+19. **中文**：在会议上发表你的真实看法是很有价值的。  
+   **英文**：Expressing your true opinion at the meeting is useful.
+   > **解析**：opinion 表示“看法/观点”。
+
+20. **中文**：经过辩论，大家终于下定决心采取行动。  
+   **英文**：After the debate, they made up their mind to take action.
+   > **解析**：made up mind 表示“下定决心”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Everyone in the meeting was invited to share their personal opinion on the issue.
-   > **中文**：会议上的每个人都被邀请分享他们对该问题的个人观点。
+1. In the debate, he expressed an opposite opinion.
+   > **中文**：在辩论赛中，他表达了与对方完全相反的观点。
 
-2. It is completely normal for team members to disagree during a debate.
-   > **中文**：团队成员在辩论中持有不同意见是完全正常的。
+2. I totally disagree with your opinion on media tax in prison.
+   > **中文**：我完全不同意你在媒体上关于增加监狱税收的提议。
 
-3. We must work together to solve the environmental challenges facing our city.
-   > **中文**：我们必须共同努力来解决我们城市所面临的环境挑战。
+3. They argue whether it is necessary to pay to solve trouble.
+   > **中文**：他们一直在争论是否有必要花钱解决麻烦。
 
-4. The manager welcomed any constructive suggestion to improve workplace efficiency.
-   > **中文**：经理欢迎任何用以提高工作效率的建设性建议。
+4. The chosen representative made up his mind to change.
+   > **中文**：这位被选中的代表下定决心改变他的看法。
 
-5. Water pollution has become a serious problem that requires immediate action.
-   > **中文**：水污染已经成为一个需要立即采取行动的严重问题。
+5. This completed task is extremely vital, not easy at all.
+   > **中文**：这项已完成的任务极其重要，根本容不得闪失。
 
-6. Experts continue to argue about the long-term economic impact of the policy.
-   > **中文**：专家们继续就该政策的长期经济影响展开争论。
+6. After taking her helpful suggestion, the issue was solved.
+   > **中文**：听取了她的有益建议后，问题得到了圆满解决。
 
-7. The proposed solution is extremely effective in reducing unnecessary company costs.
-   > **中文**：提议的解决方案在减少公司不必要成本方面极其有效。
+7. The media has intense discussions about who the enemy is.
+   > **中文**：媒体对于谁是真正敌人的讨论越来越剧烈。
 
-8. My colleague held the opposite view regarding how the project should be managed.
-   > **中文**：关于项目应当如何管理，我的同事持截然相反的看法。
+8. Both sides argue on how to increase the budget.
+   > **中文**：辩论双方就如何增加预算展开了激烈的辩论。
 
-9. It is necessary to gather all relevant data before making a final decision.
-   > **中文**：在做出最终决定之前，收集所有相关数据是很有必要的。
+9. I don't like getting into this opinion argument at all.
+   > **中文**：我一点也不喜欢参与这种无休止的意见争论。
 
-10. After a heated debate, the two opponents decided to make up and work together.
-   > **中文**：在一场激烈的辩论之后，两位对手决定和好并合作。
+10. After serious thought, he made up his mind to accept.
+   > **中文**：经过慎重思考，他下定决心接受挑战。
+
+11. I respect your personal opinion, but I disagree.
+   > **中文**：我尊重你的个人观点，但我持不同看法。
+
+12. Both sides held opposite views during the debate.
+   > **中文**：双方就合同条款提出了完全相反的意见。
+
+13. Please give a practical suggestion to solve this trouble.
+   > **中文**：请提出一个可行的解决方案来解决这个麻烦。
+
+14. He took this speech competition extremely seriously.
+   > **中文**：他极其认真地对待这次演讲比赛。
+
+15. We have completed all the preparation work for the event.
+   > **中文**：我们已经完成了全部的前期准备工作。
+
+16. He was chosen to be the team captain in the debate.
+   > **中文**：他在团队中被选为代表发言的队长。
+
+17. Mainstream media covered this social news story in detail.
+   > **中文**：主流媒体对这起社会事件进行了详细跟踪报道。
+
+18. When you are in trouble, asking for help is smart.
+   > **中文**：陷入麻烦时，寻求别人的帮助是明智的。
+
+19. Expressing your true opinion at the meeting is useful.
+   > **中文**：在会议上发表你的真实看法是很有价值的。
+
+20. After the debate, they made up their mind to take action.
+   > **中文**：经过辩论，大家终于下定决心采取行动。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| ahead | 在前方 |
+| argue | 争论 / 辩论 |
+| at all | 根本（不） |
+| chosen | 被选中的 |
+| completed | 已完成的 |
+| disagree | 不同意 |
+| enemy | 敌人 |
+| extremely | 极其 / 非常 |
+| increase | 增加 |
+| make up | 组成 / 下定（决心） |
+| media | 媒体 |
+| mind | 心思 / 头脑 |
+| necessary | 必要的 |
+| opinion | 观点 / 意见 |
+| opposite | 相反的 |
+| paid | 支付了的 |
+| prison | 监狱 |
+| serious | 严肃的 / 认真的 |
+| solve | 解决 |
+| suggestion | 建议 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ disagree with 表示"不同意"。at all 用于加强否定语气。
 
 ### 1
 
-Everyone in the meeting was invited to share their personal `____` on the issue.
+In the debate, he expressed an ____ opinion.
 
-- [x] opinion
+- [x] opposite
 - [ ] ahead
-- [ ] completed
+- [ ] argue
 
-> **解析**：opinion 为名词，意为“观点、意见”。opinion on/about sth. 表示“关于某事的观点”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-It is completely normal for team members to `____` during a debate.
+I totally ____ with your opinion on media tax in prison.
 
 - [x] disagree
+- [ ] ahead
 - [ ] argue
-- [ ] enemy
 
-> **解析**：disagree 为动词，前缀 dis- 表示否定，意为“不同意、持异议”。disagree with sb. 表示“不同意某人”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-We must work together to `____` the environmental challenges facing our city.
+They ____ whether it is necessary to pay to solve trouble.
 
-- [x] solve
+- [x] argue
+- [ ] ahead
 - [ ] at all
-- [ ] enemy
 
-> **解析**：solve 为动词，意为“解决、解答”。solve a problem/challenge 表示“解决问题/挑战”。名词形式为 solution。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The manager welcomed any constructive `____` to improve workplace efficiency.
+The ____ representative made up his mind to change.
 
-- [x] suggestion
-- [ ] chosen
-- [ ] extremely
+- [x] chosen
+- [ ] ahead
+- [ ] argue
 
-> **解析**：suggestion 为可数名词，意为“建议、提议”。constructive suggestion 表示“建设性建议”。动词形式为 suggest。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Water pollution has become a serious problem that requires im`____`te action.
+This ____ task is extremely vital, not easy at all.
 
-- [x] media
-- [ ] completed
-- [ ] increase
+- [x] completed
+- [ ] ahead
+- [ ] argue
 
-> **解析**：serious 为形容词，意为“严重的、严肃的”。修饰名词 problem。serious problem 意为“严重问题”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Experts continue to `____` about the long-term economic impact of the policy.
+After taking her helpful ____, the issue was solved.
 
-- [x] argue
-- [ ] enemy
-- [ ] media
+- [x] suggestion
+- [ ] ahead
+- [ ] argue
 
-> **解析**：argue 为动词，意为“争论、辩论”。argue about/over sth. 表示“就某事展开争论”。名词形式为 argument。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The proposed solution is `____` effective in reducing unnecessary company costs.
+The ____ has intense discussions about who the enemy is.
 
-- [x] extremely
-- [ ] enemy
-- [ ] mind
+- [x] media
+- [ ] ahead
+- [ ] argue
 
-> **解析**：extremely 为副词，意为“极其、非常”。修饰形容词 effective，起到加强语气的程度副词作用。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-My colleague held the `____` view regarding how the project should be managed.
+Both sides ____ on how to increase the budget.
 
-- [x] opposite
-- [ ] extremely
-- [ ] mind
+- [x] argue
+- [ ] ahead
+- [ ] at all
 
-> **解析**：opposite 为形容词，意为“相反的、对立的”。opposite view 意为“相反的观点”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-It is `____` to gather all relevant data before making a final decision.
+I don't like getting into this ____ argument at all.
 
-- [x] necessary
-- [ ] increase
-- [ ] opinion
+- [x] opinion
+- [ ] ahead
+- [ ] argue
 
-> **解析**：necessary 为形容词，意为“必要的、必须的”。常用形式主语结构 It is necessary to do sth.。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-After a heated debate, the two opponents decided to `____` and work together.
+After ____ thought, he made up his mind to accept.
 
-- [x] make up
-- [ ] media
-- [ ] opposite
+- [x] serious
+- [ ] ahead
+- [ ] argue
 
-> **解析**：make up 在此处为动词短语，意为“和解、和好”。make up 亦可表示“捏造、组成”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+I respect your personal ____, but I disagree.
+
+- [x] opinion
+- [ ] ahead
+- [ ] argue
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Both sides held ____ views during the debate.
+
+- [x] opposite
+- [ ] ahead
+- [ ] argue
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Please give a practical ____ to solve this trouble.
+
+- [x] suggestion
+- [ ] ahead
+- [ ] argue
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+He took this speech competition ____ seriously.
+
+- [x] extremely
+- [ ] ahead
+- [ ] argue
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+We have ____ all the preparation work for the event.
+
+- [x] completed
+- [ ] ahead
+- [ ] argue
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+He was ____ to be the team captain in the debate.
+
+- [x] chosen
+- [ ] ahead
+- [ ] argue
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Mainstream ____ covered this social news story in detail.
+
+- [x] media
+- [ ] ahead
+- [ ] argue
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+When you are in ____, asking for help is smart.
+
+- [x] trouble
+- [ ] ahead
+- [ ] argue
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Expressing your true ____ at the meeting is useful.
+
+- [x] opinion
+- [ ] ahead
+- [ ] argue
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+After the debate, they made up their ____ to take action.
+
+- [x] mind
+- [ ] ahead
+- [ ] argue
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

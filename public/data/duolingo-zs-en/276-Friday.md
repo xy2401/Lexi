@@ -63,83 +63,176 @@ bite to eat, dominoes, fond of, french fries, game night, go bowling, go for, ho
 
 <quiz-sentence-builder>
 
-1. **中文**：听柔和的爵士乐是她在长达一周的工作后最喜欢的放松方式。  
-   **英文**：Listening to soft jazz is her favorite way to unwind after a long week of work bite to eat.
-   > **解析**：`unwind` 是动词，意为“放松身心、解压”，常用于描述结束忙碌工作后的休闲状态。
+1. **中文**：我今晚更想待在家里，而不是出去人挤人。
+   **英文**：I would rather stay home tonight than go out to a crowded place.
+   > **解析**：rather (would rather) 意为宁愿、更想。
 
-2. **中文**：周六早晨，我喜欢睡懒觉睡到十点钟。  
-   **英文**：On Saturday morning, I love to sleep in until ten o'clock about dominoes.
-   > **解析**：`sleep in` 是动词短语，意为“睡懒觉、赖床”，指比平时晚起，注意与 `oversleep`（睡过头/迟到）区分。
+2. **中文**：我们去买点披萨当晚饭吧，你觉得怎么样？
+   **英文**：Let's go for some pizza for dinner, what do you think?
+   > **解析**：go for 意为选择、想要。
 
-3. **中文**：今晚别做饭了，我们直接点些中式外卖吧。  
-   **英文**：Instead of cooking dinner tonight, let's just order some Chinese takeout fond of.
-   > **解析**：`takeout` 是名词，意为“外卖食物”。常用搭配 `order takeout` 表示“点外卖”。
+3. **中文**：我非常喜欢和朋友们一起参加周五桌游之夜。
+   **英文**：I am very fond of joining Friday game night with my friends.
+   > **解析**：fond of 意为喜爱、喜欢。
 
-4. **中文**：他们通常选择在周五晚上去一家不错的餐厅就餐。  
-   **英文**：They usually choose to dine out at a nice restaurant on Friday evenings french fries.
-   > **解析**：`dine out` 是动词短语，意为“在外面就餐、出去吃饭”，比 `eat out` 更稍微正式一些。
+4. **中文**：我们在去看电影之前先随便吃点东西吧。
+   **英文**：Let's grab a quick bite to eat before we watch the movie.
+   > **解析**：bite to eat 意为随便吃点东西。
 
-5. **中文**：我今晚真的很想在家看一部喜剧电影。  
-   **英文**：I really feel like watching a comedy movie at home tonight game night.
-   > **解析**：`feel like + doing sth.` 是常用口语表达，意为“想要做某事、有某种意向”，在句中接动名词 `watching`。
+5. **中文**：这个周五晚上轮到我们家举办游戏之夜了。
+   **英文**：It's our turn to host game night this Friday evening.
+   > **解析**：game night 意为游戏之夜。
 
-6. **中文**：我们决定举办一场电影连播活动，连续看三部经典影片。  
-   **英文**：We decided to host a movie marathon and watch three classics in a row go bowling.
-   > **解析**：`movie marathon` 指“电影马拉松/连续看多部电影的活动”，`marathon` 比喻长时间持续进行的活动。
+6. **中文**：他们围坐在桌子旁玩了一整晚的多米诺骨牌。
+   **英文**：They sat around the table and played dominoes all evening.
+   > **解析**：dominoes 意为多米诺骨牌。
 
-7. **中文**：完成这个大项目后，她买了一份精美的甜点犒劳自己。  
-   **英文**：After finishing the big project, she bought a nice dessert to treat herself go for.
-   > **解析**：`treat oneself (to sth.)` 意为“犒劳自己、享受某物”，在句中作目的状语。
+7. **中文**：无论你什么时候想玩游戏，随时叫我一声就行。
+   **英文**：Whenever you want to play a game, just call me.
+   > **解析**：whenever 意为无论何时。
 
-8. **中文**：他们在公园附近一家温馨舒适的咖啡馆里度过了寒冷的周五晚上。  
-   **英文**：They spent the cold Friday evening in a cozy cafe near the park about however.
-   > **解析**：`cozy` 是形容词，意为“舒适的、温馨的”，多用来形容房间、气氛或环境令人感到温暖放松。
+8. **中文**：无论你选择哪家餐馆，我都乐意陪你去。
+   **英文**：Whichever restaurant you choose, I am happy to go with you.
+   > **解析**：whichever 意为无论哪个。
 
-9. **中文**：我们家里的每个人在选择就餐地点时都有不同的偏好。  
-   **英文**：Everyone in our family has a different preference when choosing dinner spots if we went.
-   > **解析**：`preference` 是名词，意为“偏好、喜爱”，动词形式为 `prefer`。常用搭配 `have a preference for...`。
+9. **中文**：无论是谁输了这场比赛，都要负责洗盘子。
+   **英文**：Whoever loses this round of the game has to wash the dishes.
+   > **解析**：whoever 意为无论是谁。
 
-10. **中文**：这家咖啡馆有一种令人放松的氛围，让人感觉宾至如归。  
-   **英文**：This coffee shop has a relaxed vibe that makes people feel right at home in mind.
-   > **解析**：`vibe` 是口语高频名词，意为“氛围、格调、感觉”，在句中作动词 `has` 的宾语。
+10. **中文**：请问现在轮到谁掷骰子走下一步了？
+   **英文**：Can someone tell me whose turn it is to roll the dice next?
+   > **解析**：whose turn 意为轮到谁。
+
+11. **中文**：周五晚上天气不好，我们干脆留在家里吧。
+   **英文**：The weather is terrible, so let's just stay in this Friday night.
+   > **解析**：stay in 意为待在家里。
+
+12. **中文**：如果太晚了，你可以今晚留在我家过夜。
+   **英文**：If it gets too late, you can stay over at my apartment tonight.
+   > **解析**：stay over 意为留宿、过夜。
+
+13. **中文**：我太累了，今晚想跳过保龄球局直接休息。
+   **英文**：I am too tired, so I want to skip bowling tonight and rest.
+   > **解析**：skip 意为跳过、不去。
+
+14. **中文**：这些炸薯条虽然有点咸，但是味道真的很棒。
+   **英文**：These fries are a bit salty, but they taste really great.
+   > **解析**：salty 意为咸的。
+
+15. **中文**：我点了一份汉堡和一盘热腾腾的炸薯条。
+   **英文**：I ordered a burger with a side of hot french fries.
+   > **解析**：french fries 意为薯条。
+
+16. **中文**：我们打算这周五晚上和朋友们一起去打保龄球。
+   **英文**：We are planning to go bowling with our friends this Friday.
+   > **解析**：go bowling 意为去打保龄球。
+
+17. **中文**：我都可以，由你来决定今晚我们吃什么。
+   **英文**：I don't mind at all, it's your choice what we eat tonight.
+   > **解析**：it's your choice 意为由你决定。
+
+18. **中文**：对于今晚的活动安排，你心里有什么具体的想法吗？
+   **英文**：Do you have a specific plan in mind for tonight's activity?
+   > **解析**：in mind 意为在考虑中、心里想到的。
+
+19. **中文**：我没有特定的喜好，任何你推荐的地方都可以。
+   **英文**：I don't have a specific preference, any place you suggest is fine.
+   > **解析**：specific 意为具体的、特定的。
+
+20. **中文**：无论这盘薯条有多咸，我都想尝尝看。
+   **英文**：However salty the french fries are, I still want a bite to eat.
+   > **解析**：however 意为无论多么（引导让步状语）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Listening to soft jazz is her favorite way to unwind after a long week of work bite to eat.
-   > **中文**：听柔和的爵士乐是她在长达一周的工作后最喜欢的放松方式。
+1. I would rather stay home tonight than go out to a crowded place.
+   > **中文**：我今晚更想待在家里，而不是出去人挤人。
 
-2. On Saturday morning, I love to sleep in until ten o'clock about dominoes.
-   > **中文**：周六早晨，我喜欢睡懒觉睡到十点钟。
+2. Let's go for some pizza for dinner, what do you think?
+   > **中文**：我们去买点披萨当晚饭吧，你觉得怎么样？
 
-3. Instead of cooking dinner tonight, let's just order some Chinese takeout fond of.
-   > **中文**：今晚别做饭了，我们直接点些中式外卖吧。
+3. I am very fond of joining Friday game night with my friends.
+   > **中文**：我非常喜欢和朋友们一起参加周五桌游之夜。
 
-4. They usually choose to dine out at a nice restaurant on Friday evenings french fries.
-   > **中文**：他们通常选择在周五晚上去一家不错的餐厅就餐。
+4. Let's grab a quick bite to eat before we watch the movie.
+   > **中文**：我们在去看电影之前先随便吃点东西吧。
 
-5. I really feel like watching a comedy movie at home tonight game night.
-   > **中文**：我今晚真的很想在家看一部喜剧电影。
+5. It's our turn to host game night this Friday evening.
+   > **中文**：这个周五晚上轮到我们家举办游戏之夜了。
 
-6. We decided to host a movie marathon and watch three classics in a row go bowling.
-   > **中文**：我们决定举办一场电影连播活动，连续看三部经典影片。
+6. They sat around the table and played dominoes all evening.
+   > **中文**：他们围坐在桌子旁玩了一整晚的多米诺骨牌。
 
-7. After finishing the big project, she bought a nice dessert to treat herself go for.
-   > **中文**：完成这个大项目后，她买了一份精美的甜点犒劳自己。
+7. Whenever you want to play a game, just call me.
+   > **中文**：无论你什么时候想玩游戏，随时叫我一声就行。
 
-8. They spent the cold Friday evening in a cozy cafe near the park about however.
-   > **中文**：他们在公园附近一家温馨舒适的咖啡馆里度过了寒冷的周五晚上。
+8. Whichever restaurant you choose, I am happy to go with you.
+   > **中文**：无论你选择哪家餐馆，我都乐意陪你去。
 
-9. Everyone in our family has a different preference when choosing dinner spots if we went.
-   > **中文**：我们家里的每个人在选择就餐地点时都有不同的偏好。
+9. Whoever loses this round of the game has to wash the dishes.
+   > **中文**：无论是谁输了这场比赛，都要负责洗盘子。
 
-10. This coffee shop has a relaxed vibe that makes people feel right at home in mind.
-   > **中文**：这家咖啡馆有一种令人放松的氛围，让人感觉宾至如归。
+10. Can someone tell me whose turn it is to roll the dice next?
+   > **中文**：请问现在轮到谁掷骰子走下一步了？
+
+11. The weather is terrible, so let's just stay in this Friday night.
+   > **中文**：周五晚上天气不好，我们干脆留在家里吧。
+
+12. If it gets too late, you can stay over at my apartment tonight.
+   > **中文**：如果太晚了，你可以今晚留在我家过夜。
+
+13. I am too tired, so I want to skip bowling tonight and rest.
+   > **中文**：我太累了，今晚想跳过保龄球局直接休息。
+
+14. These fries are a bit salty, but they taste really great.
+   > **中文**：这些炸薯条虽然有点咸，但是味道真的很棒。
+
+15. I ordered a burger with a side of hot french fries.
+   > **中文**：我点了一份汉堡和一盘热腾腾的炸薯条。
+
+16. We are planning to go bowling with our friends this Friday.
+   > **中文**：我们打算这周五晚上和朋友们一起去打保龄球。
+
+17. I don't mind at all, it's your choice what we eat tonight.
+   > **中文**：我都可以，由你来决定今晚我们吃什么。
+
+18. Do you have a specific plan in mind for tonight's activity?
+   > **中文**：对于今晚的活动安排，你心里有什么具体的想法吗？
+
+19. I don't have a specific preference, any place you suggest is fine.
+   > **中文**：我没有特定的喜好，任何你推荐的地方都可以。
+
+20. However salty the french fries are, I still want a bite to eat.
+   > **中文**：无论这盘薯条有多咸，我都想尝尝看。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| rather | 宁愿；更想 |
+| go for | 选择；想要 |
+| fond of | 喜爱；喜欢 |
+| bite to eat | 随便吃点东西 |
+| game night | 游戏之夜 |
+| dominoes | 多米诺骨牌 |
+| whenever | 无论何时 |
+| whichever | 无论哪个 |
+| whoever | 无论是谁 |
+| whose turn | 轮到谁 |
+| stay in | 待在家里 |
+| stay over | 留宿；过夜 |
+| skip | 跳过；不去 |
+| salty | 咸的 |
+| french fries | 薯条 |
+| go bowling | 去打保龄球 |
+| it's your choice | 由你决定；你来选 |
+| in mind | 心里想到的；在考虑的 |
+| specific | 具体的；特定的 |
+| however | 无论多么；然而 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ bite to eat, dominoes, fond of, french fries, game night, go bowling, go for, ho
 
 ### 1
 
-Listening to soft jazz is her favorite way to unwind after a long week of work `____`.
+I would ____ stay home tonight than go out to a crowded place.
 
-- [x] bite to eat
+- [x] rather
+- [ ] bite to eat
 - [ ] dominoes
-- [ ] go bowling
 
-> **解析**：`unwind` 是动词，意为“放松身心、解压”，常用于描述结束忙碌工作后的休闲状态。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-On Saturday morning, I love to sleep in until ten o'clock about `____`.
+Let's go for some pizza for ____, what do you think?
 
-- [x] dominoes
-- [ ] fond of
-- [ ] go for
+- [x] dinner
+- [ ] bite to eat
+- [ ] dominoes
 
-> **解析**：`sleep in` 是动词短语，意为“睡懒觉、赖床”，指比平时晚起，注意与 `oversleep`（睡过头/迟到）区分。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Instead of cooking dinner tonight, let's just order some Chinese takeout `____`.
+I am very fond of ____ Friday game night with my friends.
 
-- [x] fond of
-- [ ] french fries
-- [ ] however
+- [x] joining
+- [ ] bite to eat
+- [ ] dominoes
 
-> **解析**：`takeout` 是名词，意为“外卖食物”。常用搭配 `order takeout` 表示“点外卖”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-They usually choose to dine out at a nice restaurant on Friday evenings `____`.
+Let's grab a quick bite to eat ____ we watch the movie.
 
-- [x] french fries
-- [ ] game night
-- [ ] if we went
+- [x] before
+- [ ] bite to eat
+- [ ] dominoes
 
-> **解析**：`dine out` 是动词短语，意为“在外面就餐、出去吃饭”，比 `eat out` 更稍微正式一些。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-I really feel like watching a comedy movie at home tonight `____`.
+It's our turn to host game night this Friday ____.
 
-- [x] game night
-- [ ] go bowling
-- [ ] in mind
+- [x] evening
+- [ ] bite to eat
+- [ ] dominoes
 
-> **解析**：`feel like + doing sth.` 是常用口语表达，意为“想要做某事、有某种意向”，在句中接动名词 `watching`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-We decided to host a movie marathon and watch three classics in a row `____`.
+They sat around the table and played ____ all evening.
 
-- [x] go bowling
-- [ ] go for
-- [ ] it's your choice
+- [x] dominoes
+- [ ] bite to eat
+- [ ] fond of
 
-> **解析**：`movie marathon` 指“电影马拉松/连续看多部电影的活动”，`marathon` 比喻长时间持续进行的活动。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-After finishing the big project, she bought a nice dessert to treat herself `____`.
+____ you want to play a game, just call me.
 
-- [x] go for
-- [ ] however
-- [ ] place
+- [x] Whenever
+- [ ] bite to eat
+- [ ] dominoes
 
-> **解析**：`treat oneself (to sth.)` 意为“犒劳自己、享受某物”，在句中作目的状语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-They spent the cold Friday evening in a cozy cafe near the park about `____`.
+____ restaurant you choose, I am happy to go with you.
 
-- [x] however
-- [ ] if we went
-- [ ] rather
+- [x] Whichever
+- [ ] bite to eat
+- [ ] dominoes
 
-> **解析**：`cozy` 是形容词，意为“舒适的、温馨的”，多用来形容房间、气氛或环境令人感到温暖放松。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Everyone in our family has a different preference when choosing dinner spots `____`.
+____ loses this round of the game has to wash the dishes.
 
-- [x] if we went
-- [ ] in mind
-- [ ] record
+- [x] Whoever
+- [ ] bite to eat
+- [ ] dominoes
 
-> **解析**：`preference` 是名词，意为“偏好、喜爱”，动词形式为 `prefer`。常用搭配 `have a preference for...`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-This coffee shop has a relaxed vibe that makes people feel right at home `____`.
+Can ____ tell me whose turn it is to roll the dice next?
 
-- [x] in mind
-- [ ] it's your choice
-- [ ] salty
+- [x] someone
+- [ ] bite to eat
+- [ ] dominoes
 
-> **解析**：`vibe` 是口语高频名词，意为“氛围、格调、感觉”，在句中作动词 `has` 的宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The weather is ____, so let's just stay in this Friday night.
+
+- [x] terrible
+- [ ] bite to eat
+- [ ] dominoes
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+If it gets too late, you can stay over at my ____ tonight.
+
+- [x] apartment
+- [ ] bite to eat
+- [ ] dominoes
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+I am too tired, so I want to ____ bowling tonight and rest.
+
+- [x] skip
+- [ ] bite to eat
+- [ ] dominoes
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+These fries are a bit ____, but they taste really great.
+
+- [x] salty
+- [ ] bite to eat
+- [ ] dominoes
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+I ____ a burger with a side of hot french fries.
+
+- [x] ordered
+- [ ] bite to eat
+- [ ] dominoes
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+We are ____ to go bowling with our friends this Friday.
+
+- [x] planning
+- [ ] bite to eat
+- [ ] dominoes
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+I don't mind at all, it's your choice what we eat ____.
+
+- [x] tonight
+- [ ] bite to eat
+- [ ] dominoes
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Do you have a ____ plan in mind for tonight's activity?
+
+- [x] specific
+- [ ] bite to eat
+- [ ] dominoes
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+I don't have a ____ preference, any place you suggest is fine.
+
+- [x] specific
+- [ ] bite to eat
+- [ ] dominoes
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+____ salty the french fries are, I still want a bite to eat.
+
+- [x] However
+- [ ] bite to eat
+- [ ] dominoes
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

@@ -61,83 +61,176 @@ get together 表示"聚会"。现在完成时（have gotten together, have given
 
 <quiz-sentence-builder>
 
-1. **中文**：我们公司每年十二月都会为所有员工举办一次年度聚会。  
-   **英文**：Our company hosts an annual reunion party every December for all employees.
-   > **解析**：annual 为形容词，意为“每年的、年度的”。在句中作定语修饰名词 reunion party。表达“一年一度的活动”常搭配 annual event / annual meeting / annual party。
+1. **中文**：在毕业聚会上，多年未见的老朋友们相聚一堂。  
+   **英文**：At the graduation reunion, old friends got together.
+   > **解析**：graduation 表示“毕业”；got together 是 get together 的过去式，表示“聚在一起”。
 
-2. **中文**：同学们通常每个夏天聚在一起庆祝他们的友谊。  
-   **英文**：Classmates usually get together every summer to celebrate their friendship.
-   > **解析**：get together 为动词短语，意为“聚会、聚集”。It has been... since... 句型中也常表达老同学聚会。
+2. **中文**：真可惜！我的这位老朋友决定放弃去游览。  
+   **英文**：What a shame! A friend of mine decided to give up the visit.
+   > **解析**：what a shame 表示“真可惜/太遗憾了”；a friend of mine 表示“我的一个朋友”；give up 表示“放弃”。
 
-3. **中文**：她邀请了所有的亲密好友来庆祝她的大学毕业。  
-   **英文**：She invited all her close friends to celebrate her university graduation.
-   > **解析**：graduation 为名词，意为“毕业、毕业典礼”。派生自动词 graduate。graduation party 表示“毕业派对”。
+3. **中文**：我们一直保持联系，经常在一起闲逛。  
+   **英文**：We stayed in contact and often hung out together.
+   > **解析**：in contact 表示“保持联系”；hung out 是 hang out 的过去式，表示“聚聚/闲逛”。
 
-4. **中文**：即使搬到了不同的城市，我们依然设法保持着联系。  
-   **英文**：Even after moving to different cities, we managed to stay in contact.
-   > **解析**：in contact 为介词短语，常与 stay / keep / be 搭配连用，表示“保持联系”。stay in contact with sb. 表示“与某人保持联系”。
+4. **中文**：到了该互相拥抱并道声干杯的时候了！  
+   **英文**：It's time to hug each other and say cheers!
+   > **解析**：it's time to... 表示“到……的时候了”；hug 表示“拥抱”；cheers 表示“干杯”。
 
-5. **中文**：每当我回到老家，我都喜欢和童年的朋友们一起叙旧逛街。  
-   **英文**：Whenever I visit my hometown, I love to hang out with my childhood friends.
-   > **解析**：hang out 为动词短语，意为“闲逛、聚在一起玩/叙旧”。常与介词 with 搭配（hang out with sb.）。
+5. **中文**：这位开朗的DJ为聚会带来了很棒的音乐。  
+   **英文**：The outgoing DJ brought awesome music to the annual party.
+   > **解析**：outgoing 表示“开朗的/外向的”；DJ 表示“音乐 DJ”；annual 表示“一年一度的”。
 
-6. **中文**：我哥哥性格非常外向，在社交场合很容易结交新朋友。  
-   **英文**：My brother is very outgoing and makes new friends easily at social gatherings.
-   > **解析**：outgoing 为形容词，意为“外向的、开朗的”。在句中作表语，修饰人（My brother）。其反义词为 reserved 或 shy。
+6. **中文**：那位留着卷发、没有脱发的女士是一位素食主义者。  
+   **英文**：The lady with curly hair who wasn't bald is a vegetarian.
+   > **解析**：curly 表示“卷曲的”；bald 表示“秃顶的”；vegetarian 表示“素食主义者”。
 
-7. **中文**：萨拉没能赶来参加我们一年一度的家庭聚会，真是太可惜了。  
-   **英文**：It is a shame that Sarah could not make it to our annual family reunion.
-   > **解析**：a shame 为固定短语，意为“令人遗憾的事、可惜”。常用句型 It is a shame that... 引导主语从句，表达对某种情况的遗憾。
+7. **中文**：除了偶尔有点忙之外，大家都很高兴能重新见面。  
+   **英文**：Except that everyone was busy, we enjoyed the reunion.
+   > **解析**：except that 表示“除了……之外”；reunion 表示“重聚/团聚”。
 
-8. **中文**：让我向派对上的所有人介绍一下我以前的室友。  
-   **英文**：Let me introduce my former roommate to everyone at the party.
-   > **解析**：introduce 为动词，意为“介绍”。常见用法为 introduce sb. to sb.（向某人介绍某人）。Let me introduce... 为礼貌的介绍句型。
+8. **中文**：嗨！最近怎么样？快来让我把你介绍给其他人。  
+   **英文**：Hey honey, what's up? Let me introduce you to the team.
+   > **解析**：what's up 表示“最近怎么样/怎么了”；introduce 表示“介绍”。
 
-9. **中文**：请准备一些素食菜肴，因为我们的客人中有两位是素食主义者。  
-   **英文**：Please prepare some plant-based dishes because two of our guests are vegetarian.
-   > **解析**：vegetarian 在此处用作名词，意为“素食主义者”。也可以用作形容词（如 vegetarian food 素食）。
+9. **中文**：自毕业以来，他们从未放弃过他们的梦想。  
+   **英文**：Since graduation, they have never given up on their dream.
+   > **解析**：given up 是 give up 的过去分词，表示“放弃”。
 
-10. **中文**：当他们在机场到达大厅相见时，互相给了一个温暖的拥抱。  
-   **英文**：They gave each other a warm hug when they met at the airport arrival hall.
-   > **解析**：hug 在句中作可数名词，意为“拥抱”。give sb. a hug 表示“拥抱某人”。hug 也可以作动词（hugged）。
+10. **中文**：很高兴能参加一年一度的返校聚会！  
+   **英文**：It is great to visit the annual school reunion!
+   > **解析**：annual 表示“一年一度的”；visit 表示“拜访/参加”。
+
+11. **中文**：在毕业聚会上，大家开心举杯干杯。  
+   **英文**：Everyone raised their glasses and said cheers at the party.
+   > **解析**：cheers 表示“干杯”。
+
+12. **中文**：他拥有一头漂亮的黑色卷发。  
+   **英文**：He has beautiful dark curly hair and a big smile.
+   > **解析**：curly 表示“卷曲的”。
+
+13. **中文**：这位外向的女孩很快和所有人成为了朋友。  
+   **英文**：This outgoing girl made friends with everyone easily.
+   > **解析**：outgoing 表示“外向的/开朗的”。
+
+14. **中文**：我的一位朋友送给我一张毕业贺卡。  
+   **英文**：A friend of mine sent me a nice graduation card.
+   > **解析**：of mine 表示“我的（双重所有格）”。
+
+15. **中文**：他在毕业后依然和老同学们保持联系。  
+   **英文**：He stays in contact with old classmates after school.
+   > **解析**：in contact 表示“保持联系”。
+
+16. **中文**：真可惜，由于暴风雨聚会被迫取消了。  
+   **英文**：It is a shame that the reunion was canceled.
+   > **解析**：a shame 表示“遗憾的事/可惜的事”。
+
+17. **中文**：朋友见面时热情地互相拥抱。  
+   **英文**：The friends gave each other a warm hug when meeting.
+   > **解析**：hug 表示“拥抱”。
+
+18. **中文**：现在到了该开始我们一年一度聚会的时候了。  
+   **英文**：It's time to start our annual reunion event.
+   > **解析**：it's time 表示“到了……的时候了”。
+
+19. **中文**：这位素食主义者在聚会上点了蔬菜沙拉。  
+   **英文**：The vegetarian ordered a big bowl of green salad.
+   > **解析**：vegetarian 表示“素食主义者”。
+
+20. **中文**：我们周末经常在一起聚聚闲逛。  
+   **英文**：We used to hang out together at the coffee shop.
+   > **解析**：hang out 表示“闲逛/聚聚”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Our company hosts an annual reunion party every December for all employees.
-   > **中文**：我们公司每年十二月都会为所有员工举办一次年度聚会。
+1. At the graduation reunion, old friends got together.
+   > **中文**：在毕业聚会上，多年未见的老朋友们相聚一堂。
 
-2. Classmates usually get together every summer to celebrate their friendship.
-   > **中文**：同学们通常每个夏天聚在一起庆祝他们的友谊。
+2. What a shame! A friend of mine decided to give up the visit.
+   > **中文**：真可惜！我的这位老朋友决定放弃去游览。
 
-3. She invited all her close friends to celebrate her university graduation.
-   > **中文**：她邀请了所有的亲密好友来庆祝她的大学毕业。
+3. We stayed in contact and often hung out together.
+   > **中文**：我们一直保持联系，经常在一起闲逛。
 
-4. Even after moving to different cities, we managed to stay in contact.
-   > **中文**：即使搬到了不同的城市，我们依然设法保持着联系。
+4. It's time to hug each other and say cheers!
+   > **中文**：到了该互相拥抱并道声干杯的时候了！
 
-5. Whenever I visit my hometown, I love to hang out with my childhood friends.
-   > **中文**：每当我回到老家，我都喜欢和童年的朋友们一起叙旧逛街。
+5. The outgoing DJ brought awesome music to the annual party.
+   > **中文**：这位开朗的DJ为聚会带来了很棒的音乐。
 
-6. My brother is very outgoing and makes new friends easily at social gatherings.
-   > **中文**：我哥哥性格非常外向，在社交场合很容易结交新朋友。
+6. The lady with curly hair who wasn't bald is a vegetarian.
+   > **中文**：那位留着卷发、没有脱发的女士是一位素食主义者。
 
-7. It is a shame that Sarah could not make it to our annual family reunion.
-   > **中文**：萨拉没能赶来参加我们一年一度的家庭聚会，真是太可惜了。
+7. Except that everyone was busy, we enjoyed the reunion.
+   > **中文**：除了偶尔有点忙之外，大家都很高兴能重新见面。
 
-8. Let me introduce my former roommate to everyone at the party.
-   > **中文**：让我向派对上的所有人介绍一下我以前的室友。
+8. Hey honey, what's up? Let me introduce you to the team.
+   > **中文**：嗨！最近怎么样？快来让我把你介绍给其他人。
 
-9. Please prepare some plant-based dishes because two of our guests are vegetarian.
-   > **中文**：请准备一些素食菜肴，因为我们的客人中有两位是素食主义者。
+9. Since graduation, they have never given up on their dream.
+   > **中文**：自毕业以来，他们从未放弃过他们的梦想。
 
-10. They gave each other a warm hug when they met at the airport arrival hall.
-   > **中文**：当他们在机场到达大厅相见时，互相给了一个温暖的拥抱。
+10. It is great to visit the annual school reunion!
+   > **中文**：很高兴能参加一年一度的返校聚会！
+
+11. Everyone raised their glasses and said cheers at the party.
+   > **中文**：在毕业聚会上，大家开心举杯干杯。
+
+12. He has beautiful dark curly hair and a big smile.
+   > **中文**：他拥有一头漂亮的黑色卷发。
+
+13. This outgoing girl made friends with everyone easily.
+   > **中文**：这位外向的女孩很快和所有人成为了朋友。
+
+14. A friend of mine sent me a nice graduation card.
+   > **中文**：我的一位朋友送给我一张毕业贺卡。
+
+15. He stays in contact with old classmates after school.
+   > **中文**：他在毕业后依然和老同学们保持联系。
+
+16. It is a shame that the reunion was canceled.
+   > **中文**：真可惜，由于暴风雨聚会被迫取消了。
+
+17. The friends gave each other a warm hug when meeting.
+   > **中文**：朋友见面时热情地互相拥抱。
+
+18. It's time to start our annual reunion event.
+   > **中文**：现在到了该开始我们一年一度聚会的时候了。
+
+19. The vegetarian ordered a big bowl of green salad.
+   > **中文**：这位素食主义者在聚会上点了蔬菜沙拉。
+
+20. We used to hang out together at the coffee shop.
+   > **中文**：我们周末经常在一起聚聚闲逛。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| a shame | 真可惜 / 遗憾的事 |
+| annual | 一年一度的 |
+| bald | 秃顶的 |
+| cheers | 干杯 |
+| curly | 卷曲的 |
+| dj | 音乐DJ |
+| except that | 除了……之外 |
+| get together | 聚在一起 |
+| give up | 放弃 |
+| given up | 放弃了（give up的过去分词） |
+| gotten together | 聚在一起了 |
+| graduation | 毕业 |
+| hang out | 闲逛 / 聚聚 |
+| hug | 拥抱 |
+| in contact | 保持联系 |
+| introduce | 介绍 |
+| it's time | 是时候了 |
+| of mine | 我的（双重物主） |
+| outgoing | 外向的 / 开朗的 |
+| vegetarian | 素食主义者 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ get together 表示"聚会"。现在完成时（have gotten together, have given
 
 ### 1
 
-Our company hosts an `____` reunion party every December for all employees.
+At the ____ reunion, old friends got together.
 
-- [x] annual
+- [x] graduation
 - [ ] a shame
-- [ ] dj
+- [ ] annual
 
-> **解析**：annual 为形容词，意为“每年的、年度的”。在句中作定语修饰名词 reunion party。表达“一年一度的活动”常搭配 annual event / annual meeting / annual party。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Classmates usually `____` every summer to celebrate their friendship.
+What a shame! A friend of mine decided to give up the ____.
 
-- [x] get together
+- [x] visit
+- [ ] a shame
 - [ ] annual
-- [ ] dj
 
-> **解析**：get together 为动词短语，意为“聚会、聚集”。It has been... since... 句型中也常表达老同学聚会。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-She invited all her close friends to celebrate her university `____`.
+We stayed in contact and often hung out ____.
 
-- [x] graduation
-- [ ] bald
-- [ ] except that
+- [x] together
+- [ ] a shame
+- [ ] annual
 
-> **解析**：graduation 为名词，意为“毕业、毕业典礼”。派生自动词 graduate。graduation party 表示“毕业派对”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Even after moving to different cities, we managed to stay `____`.
+It's time to ____ each other and say cheers!
 
-- [x] in contact
-- [ ] cheers
-- [ ] get together
+- [x] hug
+- [ ] a shame
+- [ ] annual
 
-> **解析**：in contact 为介词短语，常与 stay / keep / be 搭配连用，表示“保持联系”。stay in contact with sb. 表示“与某人保持联系”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Whenever I visit my hometown, I love to `____` with my childhood friends.
+The ____ DJ brought awesome music to the annual party.
 
-- [x] hang out
-- [ ] curly
-- [ ] give up
+- [x] outgoing
+- [ ] a shame
+- [ ] annual
 
-> **解析**：hang out 为动词短语，意为“闲逛、聚在一起玩/叙旧”。常与介词 with 搭配（hang out with sb.）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-My brother is very `____` and makes new friends easily at social gatherings.
+The lady with ____ hair who wasn't bald is a vegetarian.
 
-- [x] outgoing
-- [ ] dj
-- [ ] given up
+- [x] curly
+- [ ] a shame
+- [ ] annual
 
-> **解析**：outgoing 为形容词，意为“外向的、开朗的”。在句中作表语，修饰人（My brother）。其反义词为 reserved 或 shy。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-It is `____` that Sarah could not make it to our annual family reunion.
+Except that ____ was busy, we enjoyed the reunion.
 
-- [x] a shame
-- [ ] get together
-- [ ] graduation
+- [x] everyone
+- [ ] a shame
+- [ ] annual
 
-> **解析**：a shame 为固定短语，意为“令人遗憾的事、可惜”。常用句型 It is a shame that... 引导主语从句，表达对某种情况的遗憾。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Let me `____` my former roommate to everyone at the party.
+Hey ____, what's up? Let me introduce you to the team.
 
-- [x] introduce
-- [ ] get together
-- [ ] graduation
+- [x] honey
+- [ ] a shame
+- [ ] annual
 
-> **解析**：introduce 为动词，意为“介绍”。常见用法为 introduce sb. to sb.（向某人介绍某人）。Let me introduce... 为礼貌的介绍句型。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Please prepare some plant-based dishes because two of our guests are `____`.
+Since ____, they have never given up on their dream.
 
-- [x] vegetarian
-- [ ] give up
-- [ ] hang out
+- [x] graduation
+- [ ] a shame
+- [ ] annual
 
-> **解析**：vegetarian 在此处用作名词，意为“素食主义者”。也可以用作形容词（如 vegetarian food 素食）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-They gave each other a warm `____` when they met at the airport arrival hall.
+It is great to ____ the annual school reunion!
+
+- [x] visit
+- [ ] a shame
+- [ ] annual
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Everyone raised their glasses and said ____ at the party.
+
+- [x] cheers
+- [ ] a shame
+- [ ] annual
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+He has beautiful dark ____ hair and a big smile.
+
+- [x] curly
+- [ ] a shame
+- [ ] annual
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+This ____ girl made friends with everyone easily.
+
+- [x] outgoing
+- [ ] a shame
+- [ ] annual
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+A friend of mine sent me a nice ____ card.
+
+- [x] graduation
+- [ ] a shame
+- [ ] annual
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+He stays in contact with old ____ after school.
+
+- [x] classmates
+- [ ] a shame
+- [ ] annual
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+It is a shame that the reunion was ____.
+
+- [x] canceled
+- [ ] a shame
+- [ ] annual
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The friends gave each other a warm ____ when meeting.
 
 - [x] hug
-- [ ] given up
-- [ ] honey
+- [ ] a shame
+- [ ] annual
 
-> **解析**：hug 在句中作可数名词，意为“拥抱”。give sb. a hug 表示“拥抱某人”。hug 也可以作动词（hugged）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+It's time to start our ____ reunion event.
+
+- [x] annual
+- [ ] a shame
+- [ ] bald
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The ____ ordered a big bowl of green salad.
+
+- [x] vegetarian
+- [ ] a shame
+- [ ] annual
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+We used to hang out ____ at the coffee shop.
+
+- [x] together
+- [ ] a shame
+- [ ] annual
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

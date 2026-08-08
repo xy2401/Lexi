@@ -51,83 +51,176 @@ frightened（感到害怕的）和 frightening（令人害怕的）是典型的 
 
 <quiz-sentence-builder>
 
-1. **中文**：别害怕；我就在这里帮助你度过暴风雨。  
-   **英文**：Don't be frightened; I am right here to help you through the storm.
-   > **解析**：frightened 形容词，意为“害怕的；受惊的”，修饰人。
+1. **中文**：别害怕，让我帮过这条黑暗的走廊。  
+   **英文**：Don't get scared, let me help you through this dark corridor.
+   > **解析**：get scared 表示“感到害怕”，let me 表示“让我做某事”。
 
-2. **中文**：在黑暗中听到雷声对幼童来说可能是个吓人的体验。  
-   **英文**：Hearing thunder in the dark can be a frightening experience for young kids.
-   > **解析**：frightening 形容词，意为“令人害怕的；吓人的”，修饰事物或体验。
+2. **中文**：深呼吸，离我近一点。  
+   **英文**：Breathe deeply and come a bit closer to me.
+   > **解析**：breathe 为动词“呼吸”，closer 表示“更近”。
 
-3. **中文**：有些人晚上看恐怖电影时很容易感到害怕。  
-   **英文**：Some people get scared easily when watching horror movies at night.
-   > **解析**：get scared 动词短语，意为“感到害怕；变害怕”，get 为系动词。
+3. **中文**：那只是一只怪异的生物；它不会咬你的。  
+   **英文**：It is just a weird creature; it won't bite you.
+   > **解析**：weird 表示“怪异的”，creature 表示“生物”，bite 表示“咬”。
 
-4. **中文**：勇敢的消防员成功救出了困在屋顶上的猫。  
-   **英文**：The brave firefighters managed to rescue the cat trapped on the roof.
-   > **解析**：rescue 及物动词/名词，意为“拯救；救援”。
+4. **中文**：那只蜘蛛是我见过的最恶心的东西。  
+   **英文**：That spider is the grossest thing I have ever seen.
+   > **解析**：grossest 是 gross 的最高级形式，意为“最恶心的”。
 
-5. **中文**：那只微小的海洋生物在幽深黑暗的水中发出柔和的光芒。  
-   **英文**：The tiny sea creature glowed softly in the deep dark water.
-   > **解析**：creature 可数名词，意为“生物；动物”。
+5. **中文**：渔船沉没了，但消防员营救了所有人。  
+   **英文**：The fishing boat sank, but the firefighters rescued everyone.
+   > **解析**：sank 是 sink 的过去式，rescued 是 rescue 的过去式。
 
-6. **中文**：她俯下身在她害怕的女儿耳边耳语安抚的言语。  
-   **英文**：She leaned over to whisper reassuring words in her frightened daughter's ear.
-   > **解析**：whisper 动词/名词，意为“低语；耳语”。
+6. **中文**：有一阵短暂的沉默，然后我们听到一声尖叫。  
+   **英文**：There was a moment of silence, and then we heard a loud scream.
+   > **解析**：silence 表示“沉默”，scream 表示“尖叫”。
 
-7. **中文**：那只敏捷的兔子成功逃脱了饥饿狐狸的追捕。  
-   **英文**：The quick rabbit managed to escape from the hungry fox.
-   > **解析**：escape 不及物/及物动词，意为“逃跑；逃脱”，常与介词 from 连用。
+7. **中文**：今晚一个人走那条黑暗小路是最冒险的选择。  
+   **英文**：Taking that dark path alone is the riskiest choice tonight.
+   > **解析**：riskiest 是 risky 的最高级，意为“最冒风险的”。
 
-8. **中文**：别担心；这只友善的狗不会咬任何人。  
-   **英文**：Do not worry; the friendly dog will not bite anyone.
-   > **解析**：bite 动词/名词，在此作动词意为“咬”。
+8. **中文**：他被森林里令人恐惧的声音吓坏了。  
+   **英文**：He was frightened by the frightening sound in the forest.
+   > **解析**：frightened（感到的害怕）与 frightening（令人害怕的）的用法区别。
 
-9. **中文**：佩戴口罩有助于保护你免受有害病毒感染。  
-   **英文**：Wearing a mask can help protect you from catching a harmful virus.
-   > **解析**：virus 可数名词，意为“病毒”，复数形式为 viruses。
+9. **中文**：那个罪犯试图在城市里摆脱警察逃跑。  
+   **英文**：The criminal tried to escape from the police in the city.
+   > **解析**：escape from 表示“从……逃脱”。
 
-10. **中文**：紧紧抓住栏杆，这样你就不会从梯子上掉下来。  
-   **英文**：Hold on tightly to the railing so you do not fall off the ladder.
-   > **解析**：fall off 动词短语，意为“从……摔下；掉落”。
+10. **中文**：她在我的耳边低语了一个秘密，以便没有其他人能听到。  
+   **英文**：She whispered a secret in my ear so nobody else could hear.
+   > **解析**：whispered 表示“耳语、低声说”。
+
+11. **中文**：你应当面对你的恐惧而不是逃跑。  
+   **英文**：You should face your fears instead of running away.
+   > **解析**：face 作动词表示“面对”。
+
+12. **中文**：小心不要从陡峭的悬崖上摔下来。  
+   **英文**：Be careful not to fall off the steep cliff.
+   > **解析**：fall off 表示“从……摔落”。
+
+13. **中文**：空气中有一种危险的病毒传播。  
+   **英文**：There is a dangerous virus spread in the air.
+   > **解析**：virus 表示“病毒”。
+
+14. **中文**：在如此糟糕的天气里快速驾驶是冒险的。  
+   **英文**：It is risky to drive fast in such bad weather.
+   > **解析**：risky 意为“有风险的”。
+
+15. **中文**：当他走过院子时，一只小狗咬了他的腿。  
+   **英文**：A little dog bit his leg when he walked past the yard.
+   > **解析**：bit 是 bite 的过去式。
+
+16. **中文**：如果船只吸入太多水，它们就会沉没。  
+   **英文**：Ships will sink if they take in too much water.
+   > **解析**：sink 意为“沉没”。
+
+17. **中文**：看看沙滩上留下的恶心垃圾。  
+   **英文**：Look at the gross trash left on the beach.
+   > **解析**：gross 意为“恶心的”。
+
+18. **中文**：当她听到奇怪的声音时，脸色变得有点苍白。  
+   **英文**：She turned a bit pale when she heard the weird noise.
+   > **解析**：a bit 表示“一点”，weird 表示“怪异的”。
+
+19. **中文**：让我检查一下盒子里是否有东西。  
+   **英文**：Let me check if there is anything in the box.
+   > **解析**：let me 表示“让我……”。
+
+20. **中文**：警察赶来营救被困的乘客。  
+   **英文**：The police came to rescue the trapped passengers.
+   > **解析**：rescue 表示“营救、救援”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Don't be frightened; I am right here to help you through the storm.
-   > **中文**：别害怕；我就在这里帮助你度过暴风雨。
+1. Don't get scared, let me help you through this dark corridor.
+   > **中文**：别害怕，让我帮过这条黑暗的走廊。
 
-2. Hearing thunder in the dark can be a frightening experience for young kids.
-   > **中文**：在黑暗中听到雷声对幼童来说可能是个吓人的体验。
+2. Breathe deeply and come a bit closer to me.
+   > **中文**：深呼吸，离我近一点。
 
-3. Some people get scared easily when watching horror movies at night.
-   > **中文**：有些人晚上看恐怖电影时很容易感到害怕。
+3. It is just a weird creature; it won't bite you.
+   > **中文**：那只是一只怪异的生物；它不会咬你的。
 
-4. The brave firefighters managed to rescue the cat trapped on the roof.
-   > **中文**：勇敢的消防员成功救出了困在屋顶上的猫。
+4. That spider is the grossest thing I have ever seen.
+   > **中文**：那只蜘蛛是我见过的最恶心的东西。
 
-5. The tiny sea creature glowed softly in the deep dark water.
-   > **中文**：那只微小的海洋生物在幽深黑暗的水中发出柔和的光芒。
+5. The fishing boat sank, but the firefighters rescued everyone.
+   > **中文**：渔船沉没了，但消防员营救了所有人。
 
-6. She leaned over to whisper reassuring words in her frightened daughter's ear.
-   > **中文**：她俯下身在她害怕的女儿耳边耳语安抚的言语。
+6. There was a moment of silence, and then we heard a loud scream.
+   > **中文**：有一阵短暂的沉默，然后我们听到一声尖叫。
 
-7. The quick rabbit managed to escape from the hungry fox.
-   > **中文**：那只敏捷的兔子成功逃脱了饥饿狐狸的追捕。
+7. Taking that dark path alone is the riskiest choice tonight.
+   > **中文**：今晚一个人走那条黑暗小路是最冒险的选择。
 
-8. Do not worry; the friendly dog will not bite anyone.
-   > **中文**：别担心；这只友善的狗不会咬任何人。
+8. He was frightened by the frightening sound in the forest.
+   > **中文**：他被森林里令人恐惧的声音吓坏了。
 
-9. Wearing a mask can help protect you from catching a harmful virus.
-   > **中文**：佩戴口罩有助于保护你免受有害病毒感染。
+9. The criminal tried to escape from the police in the city.
+   > **中文**：那个罪犯试图在城市里摆脱警察逃跑。
 
-10. Hold on tightly to the railing so you do not fall off the ladder.
-   > **中文**：紧紧抓住栏杆，这样你就不会从梯子上掉下来。
+10. She whispered a secret in my ear so nobody else could hear.
+   > **中文**：她在我的耳边低语了一个秘密，以便没有其他人能听到。
+
+11. You should face your fears instead of running away.
+   > **中文**：你应当面对你的恐惧而不是逃跑。
+
+12. Be careful not to fall off the steep cliff.
+   > **中文**：小心不要从陡峭的悬崖上摔下来。
+
+13. There is a dangerous virus spread in the air.
+   > **中文**：空气中有一种危险的病毒传播。
+
+14. It is risky to drive fast in such bad weather.
+   > **中文**：在如此糟糕的天气里快速驾驶是冒险的。
+
+15. A little dog bit his leg when he walked past the yard.
+   > **中文**：当他走过院子时，一只小狗咬了他的腿。
+
+16. Ships will sink if they take in too much water.
+   > **中文**：如果船只吸入太多水，它们就会沉没。
+
+17. Look at the gross trash left on the beach.
+   > **中文**：看看沙滩上留下的恶心垃圾。
+
+18. She turned a bit pale when she heard the weird noise.
+   > **中文**：当她听到奇怪的声音时，脸色变得有点苍白。
+
+19. Let me check if there is anything in the box.
+   > **中文**：让我检查一下盒子里是否有东西。
+
+20. The police came to rescue the trapped passengers.
+   > **中文**：警察赶来营救被困的乘客。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| bit | 咬（bite的过去式） |
+| bite | 咬 |
+| breathe | 呼吸 |
+| closer | 更近的 |
+| creature | 生物；怪物 |
+| escape | 逃跑；逃脱 |
+| face | 面对；面孔 |
+| fall off | 跌落；掉下 |
+| frightened | 感到害怕的 |
+| frightening | 令人害怕的 |
+| get scared | 感到害怕 |
+| gross | 恶心的 |
+| grossest | 最恶心的 |
+| let me | 让我 |
+| rescue | 营救；救援 |
+| riskiest | 最冒险的 |
+| risky | 有风险的 |
+| sank | 沉没（sink的过去式） |
+| scream | 尖叫 |
+| silence | 沉默；寂静 |
 
 </quiz-matching>
 
@@ -135,102 +228,202 @@ frightened（感到害怕的）和 frightening（令人害怕的）是典型的 
 
 ### 1
 
-Don't be `____`; I am right here to help you through the storm.
+Don't get scared, let me help you through this dark ____.
 
-- [x] frightened
+- [x] corridor
 - [ ] bit
-- [ ] creature
+- [ ] bite
 
-> **解析**：frightened 形容词，意为“害怕的；受惊的”，修饰人。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Hearing thunder in the dark can be a `____` experience for young kids.
+____ deeply and come a bit closer to me.
 
-- [x] frightening
+- [x] Breathe
+- [ ] bit
 - [ ] bite
-- [ ] escape
 
-> **解析**：frightening 形容词，意为“令人害怕的；吓人的”，修饰事物或体验。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Some people `____` easily when watching horror movies at night.
+It is just a ____ creature; it won't bite you.
 
-- [x] get scared
-- [ ] breathe
-- [ ] face
+- [x] weird
+- [ ] bit
+- [ ] bite
 
-> **解析**：get scared 动词短语，意为“感到害怕；变害怕”，get 为系动词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The brave firefighters managed to `____` the cat trapped on the roof.
+That spider is the ____ thing I have ever seen.
 
-- [x] rescue
-- [ ] closer
-- [ ] fall off
+- [x] grossest
+- [ ] bit
+- [ ] bite
 
-> **解析**：rescue 及物动词/名词，意为“拯救；救援”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The tiny sea `____` glowed softly in the deep dark water.
+The fishing boat ____, but the firefighters rescued everyone.
 
-- [x] creature
-- [ ] escape
-- [ ] frightening
+- [x] sank
+- [ ] bit
+- [ ] bite
 
-> **解析**：creature 可数名词，意为“生物；动物”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-She leaned over to whisper reassuring words `____` her frightened daughter's ear.
+There was a moment of ____, and then we heard a loud scream.
 
-- [x] in
-- [ ] escape
-- [ ] frightening
+- [x] silence
+- [ ] bit
+- [ ] bite
 
-> **解析**：whisper 动词/名词，意为“低语；耳语”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The quick rab`____` managed to escape from the hungry fox.
+Taking that dark path alone is the ____ choice tonight.
 
-- [x] bit
-- [ ] fall off
-- [ ] gross
+- [x] riskiest
+- [ ] bit
+- [ ] bite
 
-> **解析**：escape 不及物/及物动词，意为“逃跑；逃脱”，常与介词 from 连用。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Do not worry; the friendly dog will not `____` anyone.
+He was ____ by the frightening sound in the forest.
 
-- [x] bite
-- [ ] frightened
-- [ ] grossest
+- [x] frightened
+- [ ] bit
+- [ ] bite
 
-> **解析**：bite 动词/名词，在此作动词意为“咬”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Wearing a mask can help protect you from catching a harmful `____`.
+The criminal tried to ____ from the police in the city.
 
-- [x] virus
-- [ ] frightened
-- [ ] grossest
+- [x] escape
+- [ ] bit
+- [ ] bite
 
-> **解析**：virus 可数名词，意为“病毒”，复数形式为 viruses。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Hold on tightly to the railing so you do not `____` the ladder.
+She whispered a secret ____ my ear so nobody else could hear.
 
-- [x] fall off
-- [ ] get scared
-- [ ] let me
+- [x] in
+- [ ] bit
+- [ ] bite
 
-> **解析**：fall off 动词短语，意为“从……摔下；掉落”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+You should ____ your fears instead of running away.
+
+- [x] face
+- [ ] bit
+- [ ] bite
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Be ____ not to fall off the steep cliff.
+
+- [x] careful
+- [ ] bit
+- [ ] bite
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+There is a dangerous ____ spread in the air.
+
+- [x] virus
+- [ ] bit
+- [ ] bite
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+It is ____ to drive fast in such bad weather.
+
+- [x] risky
+- [ ] bit
+- [ ] bite
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+A little dog ____ his leg when he walked past the yard.
+
+- [x] bit
+- [ ] bite
+- [ ] breathe
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Ships will ____ if they take in too much water.
+
+- [x] sink
+- [ ] bit
+- [ ] bite
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Look at the ____ trash left on the beach.
+
+- [x] gross
+- [ ] bit
+- [ ] bite
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+She turned a ____ pale when she heard the weird noise.
+
+- [x] bit
+- [ ] bite
+- [ ] breathe
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Let me check if there is anything ____ the box.
+
+- [x] in
+- [ ] bit
+- [ ] bite
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+The police came to ____ the trapped passengers.
+
+- [x] rescue
+- [ ] bit
+- [ ] bite
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

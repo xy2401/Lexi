@@ -61,83 +61,176 @@ get + 过去分词（get hurt, get lost, get stolen）表示"变得……/遭遇
 
 <quiz-sentence-builder>
 
-1. **中文**：勇敢的骑士骑马进入黑暗森林去营救失踪的王子。  
-   **英文**：The brave knight rode into the dark forest to rescue the lost prince.
-   > **解析**：brave 为形容词，意为“勇敢的”。在句中作定语修饰名词 knight（骑士）。名词形式为 bravery。
+1. **中文**：勇敢的王子在城堡皇宫里与凶恶的怪兽搏斗。  
+   **英文**：The brave prince fought the fierce monster in the palace.
+   > **解析**：brave 表示“勇敢的”；prince 表示“王子”；fought 是 fight 的过去式；monster 表示“怪兽”；palace 表示“皇宫/宫殿”。
 
-2. **中文**：探险家们深入丛林去发现那座古老的隐藏神庙。  
-   **英文**：Explorers went deep into the jungle to discover the ancient hidden temple.
-   > **解析**：discover 为动词，意为“发现、发掘”。指发现本来存在但未被为人所知的事物。名词形式为 discovery。
+2. **中文**：美丽的女王在喷泉边发现了一个熠熠生辉的宝箱。  
+   **英文**：The princess discovered a shiny object by the fountain.
+   > **解析**：princess 表示“公主/王妃”；discover / discovered 表示“发现”；shiny 表示“熠熠生辉的/闪光的”；fountain 表示“喷泉”。
 
-3. **中文**：在山里一定要带指南针，这样你才不会迷路。  
-   **英文**：Always carry a compass in the mountains so that you do not get lost.
-   > **解析**：get lost 为动词短语，意为“迷路”。get 在此处为系动词，与过去分词 lost 连用构成系表结构。
+3. **中文**：在庆祝活动中，大家朝着天空发射了五彩缤纷的烟花。  
+   **英文**：During the celebration, fireworks were launched toward the sky.
+   > **解析**：celebration 表示“庆祝活动”；fireworks 表示“烟花”；toward 表示“朝向/向”。
 
-4. **中文**：皇室家族生活在一座带有巨大庭院的宏伟宫殿里。  
-   **英文**：The royal family lives in a magnificent palace with a large courtyard.
-   > **解析**：palace 为名词，意为“宫殿、王宫”。magnificent palace 表示“宏伟的宫殿”。
+4. **中文**：当心！那个怪兽正挥动着肩膀朝我们走来！  
+   **英文**：Look out! The monster is waving its arms on its shoulder!
+   > **解析**：look out 表示“当心/小心”；wave 表示“挥动”；shoulder 表示“肩膀”。
 
-5. **中文**：在童话故事里，公主解开了三个棘手的谜题救了自己的王国。  
-   **英文**：In the fairy tale, the princess solved three tricky riddles to save her kingdom.
-   > **解析**：princess 为名词，意为“公主”。王子为 prince。fairy tale 意为“童话故事”。
+5. **中文**：除了那些闪光的宝石，皇宫里还有许多精致的靠垫。  
+   **英文**：Besides shiny gems, there are cushions in the palace.
+   > **解析**：besides 表示“除……之外”；cushions 表示“靠垫/垫子”。
 
-6. **中文**：当讲故事的人描述一只神话中的怪物时，孩子们听得津津有味。  
-   **英文**：The children listened intently as the storyteller described a mythical monster.
-   > **解析**：monster 为名词，意为“怪物、怪兽”。mythical monster 表示“神话怪物”。
+6. **中文**：在黑暗中点燃蜡烛，小心不要在战斗中受伤或迷路。  
+   **英文**：Light the candle, and don't get hurt or get lost in battle.
+   > **解析**：candle 表示“蜡烛”；get hurt 表示“受伤”；get lost 表示“迷路”。
 
-7. **中文**：节日结束时，壮观的烟花表演照亮了夜空。  
-   **英文**：Spectacular firework displays lit up the night sky at the end of the festival.
-   > **解析**：firework 为名词，常使用复数形式 fireworks，意为“烟花、礼花”。firework display 表示“烟火表演”。
+7. **中文**：无论发生什么，勇敢的战士们都会兴奋地迎接挑战。  
+   **英文**：Whatever happens, brave heroes get excited for the quest.
+   > **解析**：whatever 表示“无论什么”；get excited 表示“感到兴奋/激动”。
 
-8. **中文**：胜利庆祝活动将数千名快乐的市民聚集在广场上。  
-   **英文**：The victory celebration brought together thousands of happy citizens in the square.
-   > **解析**：celebration 为名词，由动词 celebrate 派生而来，意为“庆祝活动、典礼”。bring together 意为“召集/聚集”。
+8. **中文**：防止你的财物被偷，在人群中要多加小心。  
+   **英文**：To keep items from getting stolen, watch your bag closely.
+   > **解析**：get stolen 表示“被偷窃/丢失”。
 
-9. **中文**：恶龙守护着一个装满闪闪发光的金币和珍贵宝石的箱子。  
-   **英文**：The dragon guarded a chest filled with shiny gold coins and precious gems.
-   > **解析**：shiny 为形容词，意为“闪亮的、光亮的”。修饰名词 gold coins。由名词 shine 变化而来。
+9. **中文**：勇士在城堡外击败了巨型怪兽。  
+   **英文**：The brave knight fought and defeated the giant monster.
+   > **解析**：fought 是 fight 的过去式；monster 表示“怪兽”。
 
-10. **中文**：当心！一块巨大的落石正朝山路直冲过来！  
-   **英文**：Look out! A huge falling rock is heading straight toward the mountain path.
-   > **解析**：look out 为动词短语，用作感叹句表示“小心、当心”。与 watch out 同义，常用于紧急提醒。
+10. **中文**：美丽的公主微笑着在皇宫庭院里散步。  
+   **英文**：The pretty princess walked happily in the palace yard.
+   > **解析**：princess 表示“公主”；palace 表示“皇宫”。
+
+11. **中文**：这位年轻的王子继承了王国的所有财富。  
+   **英文**：The young prince inherited all the royal treasure.
+   > **解析**：prince 表示“王子”。
+
+12. **中文**：在古老的遗迹中，考古学家们发现了一件神秘的神秘物件。  
+   **英文**：In the ancient ruins, they discovered a mysterious object.
+   > **解析**：discovered 表示“发现了”；object 表示“物件/物体”。
+
+13. **中文**：那颗闪闪发光的钻石在阳光下极为抢眼。  
+   **英文**：That shiny diamond sparkled brightly under the sunlight.
+   > **解析**：shiny 表示“闪光的/耀眼的”。
+
+14. **中文**：看哪！夜空中正放着绚丽的烟花！  
+   **英文**：Look! Beautiful fireworks are lighting up the night sky!
+   > **解析**：fireworks 表示“烟花/烟火”。
+
+15. **中文**：当心！前面的路面很滑，容易摔倒受伤！  
+   **英文**：Look out! The icy road makes it easy to get hurt!
+   > **解析**：look out 表示“小心/当心”；get hurt 表示“受伤”。
+
+16. **中文**：他们在深山老林里迷路了，直到救援队赶来。  
+   **英文**：They managed not to get lost in the deep mountain forest.
+   > **解析**：get lost 表示“迷路”。
+
+17. **中文**：王子朝着那座宏伟的皇宫城堡走去。  
+   **英文**：The brave prince walked toward the grand palace castle.
+   > **解析**：toward 表示“朝向/向”。
+
+18. **中文**：不管你选择什么，我都全力支持你的决定。  
+   **英文**：Whatever you choose, I will fully support your choice.
+   > **解析**：whatever 表示“无论什么”。
+
+19. **中文**：他在沙发上放了一个非常舒适的靠垫。  
+   **英文**：He put a soft cushion on the sofa for comfortable rest.
+   > **解析**：cushion 表示“靠垫/坐垫”。
+
+20. **中文**：蜡烛在柔和的微风中摇曳生姿。  
+   **英文**：The candle flickered gently in the soft evening breeze.
+   > **解析**：candle 表示“蜡烛”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The brave knight rode into the dark forest to rescue the lost prince.
-   > **中文**：勇敢的骑士骑马进入黑暗森林去营救失踪的王子。
+1. The brave prince fought the fierce monster in the palace.
+   > **中文**：勇敢的王子在城堡皇宫里与凶恶的怪兽搏斗。
 
-2. Explorers went deep into the jungle to discover the ancient hidden temple.
-   > **中文**：探险家们深入丛林去发现那座古老的隐藏神庙。
+2. The princess discovered a shiny object by the fountain.
+   > **中文**：美丽的女王在喷泉边发现了一个熠熠生辉的宝箱。
 
-3. Always carry a compass in the mountains so that you do not get lost.
-   > **中文**：在山里一定要带指南针，这样你才不会迷路。
+3. During the celebration, fireworks were launched toward the sky.
+   > **中文**：在庆祝活动中，大家朝着天空发射了五彩缤纷的烟花。
 
-4. The royal family lives in a magnificent palace with a large courtyard.
-   > **中文**：皇室家族生活在一座带有巨大庭院的宏伟宫殿里。
+4. Look out! The monster is waving its arms on its shoulder!
+   > **中文**：当心！那个怪兽正挥动着肩膀朝我们走来！
 
-5. In the fairy tale, the princess solved three tricky riddles to save her kingdom.
-   > **中文**：在童话故事里，公主解开了三个棘手的谜题救了自己的王国。
+5. Besides shiny gems, there are cushions in the palace.
+   > **中文**：除了那些闪光的宝石，皇宫里还有许多精致的靠垫。
 
-6. The children listened intently as the storyteller described a mythical monster.
-   > **中文**：当讲故事的人描述一只神话中的怪物时，孩子们听得津津有味。
+6. Light the candle, and don't get hurt or get lost in battle.
+   > **中文**：在黑暗中点燃蜡烛，小心不要在战斗中受伤或迷路。
 
-7. Spectacular firework displays lit up the night sky at the end of the festival.
-   > **中文**：节日结束时，壮观的烟花表演照亮了夜空。
+7. Whatever happens, brave heroes get excited for the quest.
+   > **中文**：无论发生什么，勇敢的战士们都会兴奋地迎接挑战。
 
-8. The victory celebration brought together thousands of happy citizens in the square.
-   > **中文**：胜利庆祝活动将数千名快乐的市民聚集在广场上。
+8. To keep items from getting stolen, watch your bag closely.
+   > **中文**：防止你的财物被偷，在人群中要多加小心。
 
-9. The dragon guarded a chest filled with shiny gold coins and precious gems.
-   > **中文**：恶龙守护着一个装满闪闪发光的金币和珍贵宝石的箱子。
+9. The brave knight fought and defeated the giant monster.
+   > **中文**：勇士在城堡外击败了巨型怪兽。
 
-10. Look out! A huge falling rock is heading straight toward the mountain path.
-   > **中文**：当心！一块巨大的落石正朝山路直冲过来！
+10. The pretty princess walked happily in the palace yard.
+   > **中文**：美丽的公主微笑着在皇宫庭院里散步。
+
+11. The young prince inherited all the royal treasure.
+   > **中文**：这位年轻的王子继承了王国的所有财富。
+
+12. In the ancient ruins, they discovered a mysterious object.
+   > **中文**：在古老的遗迹中，考古学家们发现了一件神秘的神秘物件。
+
+13. That shiny diamond sparkled brightly under the sunlight.
+   > **中文**：那颗闪闪发光的钻石在阳光下极为抢眼。
+
+14. Look! Beautiful fireworks are lighting up the night sky!
+   > **中文**：看哪！夜空中正放着绚丽的烟花！
+
+15. Look out! The icy road makes it easy to get hurt!
+   > **中文**：当心！前面的路面很滑，容易摔倒受伤！
+
+16. They managed not to get lost in the deep mountain forest.
+   > **中文**：他们在深山老林里迷路了，直到救援队赶来。
+
+17. The brave prince walked toward the grand palace castle.
+   > **中文**：王子朝着那座宏伟的皇宫城堡走去。
+
+18. Whatever you choose, I will fully support your choice.
+   > **中文**：不管你选择什么，我都全力支持你的决定。
+
+19. He put a soft cushion on the sofa for comfortable rest.
+   > **中文**：他在沙发上放了一个非常舒适的靠垫。
+
+20. The candle flickered gently in the soft evening breeze.
+   > **中文**：蜡烛在柔和的微风中摇曳生姿。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| besides | 除……之外 |
+| brave | 勇敢的 |
+| candle | 蜡烛 |
+| celebration | 庆祝活动 |
+| cushion | 靠垫 / 坐垫 |
+| discover | 发现 |
+| fight | 战斗 / 打架 |
+| firework | 烟花 |
+| fought | 战斗了（fight的过去式） |
+| fountain | 喷泉 |
+| get excited | 感到兴奋 |
+| get hurt | 受伤 |
+| get lost | 迷路 |
+| get stolen | 被偷 |
+| look out | 当心 / 小心 |
+| monster | 怪兽 / 怪物 |
+| object | 物件 / 物体 |
+| palace | 皇宫 / 宫殿 |
+| prince | 王子 |
+| princess | 公主 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ get + 过去分词（get hurt, get lost, get stolen）表示"变得……/遭遇
 
 ### 1
 
-The `____` knight rode into the dark forest to rescue the lost prince.
+The ____ prince fought the fierce monster in the palace.
 
 - [x] brave
 - [ ] besides
-- [ ] discover
+- [ ] candle
 
-> **解析**：brave 为形容词，意为“勇敢的”。在句中作定语修饰名词 knight（骑士）。名词形式为 bravery。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Explorers went deep into the jungle to `____` the ancient hidden temple.
+The ____ discovered a shiny object by the fountain.
 
-- [x] discover
+- [x] princess
+- [ ] besides
 - [ ] brave
-- [ ] fight
 
-> **解析**：discover 为动词，意为“发现、发掘”。指发现本来存在但未被为人所知的事物。名词形式为 discovery。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Always carry a compass in the mountains so that you do not `____` lost.
+During the ____, fireworks were launched toward the sky.
 
-- [x] get
-- [ ] candle
-- [ ] fight
+- [x] celebration
+- [ ] besides
+- [ ] brave
 
-> **解析**：get lost 为动词短语，意为“迷路”。get 在此处为系动词，与过去分词 lost 连用构成系表结构。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The royal family lives in a magnificent `____` with a large courtyard.
+Look out! The ____ is waving its arms on its shoulder!
 
-- [x] palace
-- [ ] celebration
-- [ ] firework
+- [x] monster
+- [ ] besides
+- [ ] brave
 
-> **解析**：palace 为名词，意为“宫殿、王宫”。magnificent palace 表示“宏伟的宫殿”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-In the fairy tale, the `____`ss solved three tricky riddles to save her kingdom.
+____ shiny gems, there are cushions in the palace.
 
-- [x] prince
-- [ ] cushion
-- [ ] fought
+- [x] Besides
+- [ ] brave
+- [ ] candle
 
-> **解析**：princess 为名词，意为“公主”。王子为 prince。fairy tale 意为“童话故事”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The children listened intently as the storyteller described a mythical `____`.
+Light the ____, and don't get hurt or get lost in battle.
 
-- [x] monster
-- [ ] discover
-- [ ] fountain
+- [x] candle
+- [ ] besides
+- [ ] brave
 
-> **解析**：monster 为名词，意为“怪物、怪兽”。mythical monster 表示“神话怪物”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Spectacular `____` displays lit up the night sky at the end of the festival.
+____ happens, brave heroes get excited for the quest.
 
-- [x] firework
-- [ ] fight
-- [ ] get excited
+- [x] Whatever
+- [ ] besides
+- [ ] brave
 
-> **解析**：firework 为名词，常使用复数形式 fireworks，意为“烟花、礼花”。firework display 表示“烟火表演”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The victory `____` brought together thousands of happy citizens in the square.
+To keep items from ____ stolen, watch your bag closely.
 
-- [x] celebration
-- [ ] fought
-- [ ] get hurt
+- [x] getting
+- [ ] besides
+- [ ] brave
 
-> **解析**：celebration 为名词，由动词 celebrate 派生而来，意为“庆祝活动、典礼”。bring together 意为“召集/聚集”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The dragon guarded a chest filled with `____` gold coins and precious gems.
+The ____ knight fought and defeated the giant monster.
 
-- [x] shiny
-- [ ] fought
-- [ ] get hurt
+- [x] brave
+- [ ] besides
+- [ ] candle
 
-> **解析**：shiny 为形容词，意为“闪亮的、光亮的”。修饰名词 gold coins。由名词 shine 变化而来。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-`____`! A huge falling rock is heading straight toward the mountain path.
+The pretty ____ walked happily in the palace yard.
 
-- [x] look out
-- [ ] fountain
-- [ ] get lost
+- [x] princess
+- [ ] besides
+- [ ] brave
 
-> **解析**：look out 为动词短语，用作感叹句表示“小心、当心”。与 watch out 同义，常用于紧急提醒。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The young ____ inherited all the royal treasure.
+
+- [x] prince
+- [ ] besides
+- [ ] brave
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+In the ancient ruins, they discovered a mysterious ____.
+
+- [x] object
+- [ ] besides
+- [ ] brave
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+That ____ diamond sparkled brightly under the sunlight.
+
+- [x] shiny
+- [ ] besides
+- [ ] brave
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Look! ____ fireworks are lighting up the night sky!
+
+- [x] Beautiful
+- [ ] besides
+- [ ] brave
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Look out! The icy road makes it easy to ____ hurt!
+
+- [x] get
+- [ ] besides
+- [ ] brave
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+They managed not to ____ lost in the deep mountain forest.
+
+- [x] get
+- [ ] besides
+- [ ] brave
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The ____ prince walked toward the grand palace castle.
+
+- [x] brave
+- [ ] besides
+- [ ] candle
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+____ you choose, I will fully support your choice.
+
+- [x] Whatever
+- [ ] besides
+- [ ] brave
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+He put a soft ____ on the sofa for comfortable rest.
+
+- [x] cushion
+- [ ] besides
+- [ ] brave
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+The ____ flickered gently in the soft evening breeze.
+
+- [x] candle
+- [ ] besides
+- [ ] brave
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

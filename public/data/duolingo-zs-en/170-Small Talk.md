@@ -53,83 +53,176 @@ hardly 和 interrupt 给场景加了一点礼貌维度：Sorry to interrupt, but
 
 <quiz-sentence-builder>
 
-1. **中文**：你对附近好的咖啡馆有什么推荐吗？  
-   **英文**：Do you have any recommendations for good coffee shops nearby?
-   > **解析**：any 在疑问句中作限定词，修饰复数名词 recommendations，意为“任何、一些”。
+1. **中文**：那位著名的建筑师设计了市中心那座现代大楼。
+   **英文**：The famous architect designed the modern museum downtown.
+   > **解析**：architect 表示“建筑师”。
 
-2. **中文**：了解当地文化能让与国际同事闲聊变得容易得多。  
-   **英文**：Learning about local culture makes small talk with international colleagues much easier.
-   > **解析**：culture 为名词，意为“文化”。local culture 指当地文化。
+2. **中文**：我迫不及待想要放假去海边度假了！
+   **英文**：I can't wait for summer vacation to begin next week!
+   > **解析**：can't wait for 表示“迫不及待想要……”。
 
-3. **中文**：我几乎没认出他来，因为他彻底改换了发型。  
-   **英文**：I hardly recognized him because he changed his hairstyle completely.
-   > **解析**：hardly 为半否定副词，意为“几乎不、几乎没有”，修饰动词 recognized。
+3. **中文**：旅行是体验不同国家独特文化的好途径。
+   **英文**：Traveling is a great way to experience foreign culture.
+   > **解析**：culture 表示“文化”。
 
-4. **中文**：认识一下我的朋友莎拉吧，她在一家全国性报社担任资深记者。  
-   **英文**：Meet my friend Sarah, who works as a senior journalist for a national newspaper.
-   > **解析**：journalist 为可数名词，意为“新闻记者”。work as a journalist 意为“从事记者工作”。
+4. **中文**：他的面孔看起来非常眼熟，我们以前见过吗？
+   **英文**：His face looks very familiar, but I can't recall his name.
+   > **解析**：familiar 表示“熟悉的/眼熟的”。
 
-5. **中文**：让我把你介绍给我们设计部的几位同事认识一下。  
-   **英文**：Let me introduce you to some colleagues from our design department.
-   > **解析**：some 为限定词，在肯定句中修饰复数名词 colleagues，意为“一些、若干”。
+5. **中文**：稍等一下，我拿个笔记本把你的话记下来。
+   **英文**：Hang on a second while I grab a pen to write this down.
+   > **解析**：Hang on 表示“稍等/等等”。
 
-6. **中文**：说到周末计划，你听说过即将举行的艺术展吗？  
-   **英文**：Speaking of weekend plans, have you heard about the upcoming art exhibition.
-   > **解析**：speaking of 为常用闲聊介词短语，意为“说到……、谈及……”，用于转换或接续话题。
+6. **中文**：他最近太忙了，几乎不怎么参加社交聚会。
+   **英文**：He is so busy that he hardly has time to watch television.
+   > **解析**：hardly 表示“几乎不/几乎没有”。
 
-7. **中文**：参加这次社交活动绝对是值得的，因为我结识了许多行业专家。  
-   **英文**：Attending the networking event was definitely worth it because I met many industry experts.
-   > **解析**：worth it 为固定口语形容词短语，意为“值得的、有价值的”，作表语（was worth it）。
+7. **中文**：在别人发言时插嘴是不礼貌的习惯。
+   **英文**：It is impolite to interrupt people when they are talking.
+   > **解析**：interrupt 表示“打断/插嘴”。
 
-8. **中文**：我迫不及待地期待年度公司年会，以便与老朋友们聚聚了。  
-   **英文**：I can't wait for the annual company conference to catch up with old friends about architect.
-   > **解析**：can't wait for 为固定短语，意为“迫不及待等待……”，后接名词或代词。
+8. **中文**：请允许我向大家介绍我们新来的同事。
+   **英文**：Allow me to introduce our new team member to everyone.
+   > **解析**：introduce 表示“介绍/引见”。
 
-9. **中文**：稍等片刻，我从大衣口袋里拿一下我的名片。  
-   **英文**：Hang on a second while I fetch my business card from my coat pocket.
-   > **解析**：hang on 为常用口语短语，意为“稍等、等等”，常用于社交交流中中断片刻时的提示。
+9. **中文**：那位年轻的新闻记者就事件采访了目击者。
+   **英文**：The curious journalist interviewed the eyewitness about the fire.
+   > **解析**：journalist 表示“新闻记者/报人”。
 
-10. **中文**：请允许我向今天在场的各位介绍我以前的同学马克。  
-   **英文**：Allow me to introduce my former classmate, Mark, to everyone present today about familiar.
-   > **解析**：introduce 为及物动词，意为“介绍”。常用结构 introduce A to B（把A介绍给B）。
+10. **中文**：这周末如果你有空，我很非常乐意和你一起去喝咖啡。
+   **英文**：I would love to join you for coffee this afternoon.
+   > **解析**：love to 表示“非常乐意/很想”。
+
+11. **中文**：我们找个时间一起聚聚喝杯茶聊聊天吧。
+   **英文**：Let's get together for lunch sometime next week.
+   > **解析**：sometime 表示“某个时候/择日”。
+
+12. **中文**：说到旅行，你今年夏天打算去哪里度假？
+   **英文**：Speaking of movies, have you seen the latest sci-fi hit?
+   > **解析**：Speaking of 表示“说到……/提起……”（转换话题）。
+
+13. **中文**：长时间加班工作给他的健康带来了巨大压力。
+   **英文**：Working long hours created immense stress for his mental health.
+   > **解析**：stress 表示“压力/紧张”。
+
+14. **中文**：她和她的双胞胎姐妹长得一模一样。
+   **英文**：She looks almost identical to her twin sister.
+   > **解析**：twin 表示“双胞胎之一/双胞胎的”。
+
+15. **中文**：排长队买这张演唱会门票完全是值得的。
+   **英文**：Waiting in line for hours was totally worth it in the end.
+   > **解析**：worth it 表示“值得的/划算的”。
+
+16. **中文**：今天天气非常令人愉快，适合出去散步。
+   **英文**：It is a nice day to go for a walk outside.
+   > **解析**：nice 表示“令人愉快的/美好的”。
+
+17. **中文**：桌子上有一些新鲜的水果供大家享用。
+   **英文**：There are some delicious apples on the kitchen table.
+   > **解析**：some 表示“一些/若干”。
+
+18. **中文**：你今天在办公室里遇到任何困难了吗？
+   **英文**：Did you encounter any problems during the system setup?
+   > **解析**：any 表示“任何/一些”（用于疑问/否定句）。
+
+19. **中文**：这是一本非常实用的英语听说练习手册。
+   **英文**：This is a useful English practice book for beginners.
+   > **解析**：a 用于单数可数名词前，意为“一个”。
+
+20. **中文**：你对这个新软件的操作界面感到熟悉吗？
+   **英文**：Are you familiar with the new user interface?
+   > **解析**：familiar with 表示“对……熟悉”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Do you have any recommendations for good coffee shops nearby?
-   > **中文**：你对附近好的咖啡馆有什么推荐吗？
+1. The famous architect designed the modern museum downtown.
+   > **中文**：那位著名的建筑师设计了市中心那座现代大楼。
 
-2. Learning about local culture makes small talk with international colleagues much easier.
-   > **中文**：了解当地文化能让与国际同事闲聊变得容易得多。
+2. I can't wait for summer vacation to begin next week!
+   > **中文**：我迫不及待想要放假去海边度假了！
 
-3. I hardly recognized him because he changed his hairstyle completely.
-   > **中文**：我几乎没认出他来，因为他彻底改换了发型。
+3. Traveling is a great way to experience foreign culture.
+   > **中文**：旅行是体验不同国家独特文化的好途径。
 
-4. Meet my friend Sarah, who works as a senior journalist for a national newspaper.
-   > **中文**：认识一下我的朋友莎拉吧，她在一家全国性报社担任资深记者。
+4. His face looks very familiar, but I can't recall his name.
+   > **中文**：他的面孔看起来非常眼熟，我们以前见过吗？
 
-5. Let me introduce you to some colleagues from our design department.
-   > **中文**：让我把你介绍给我们设计部的几位同事认识一下。
+5. Hang on a second while I grab a pen to write this down.
+   > **中文**：稍等一下，我拿个笔记本把你的话记下来。
 
-6. Speaking of weekend plans, have you heard about the upcoming art exhibition.
-   > **中文**：说到周末计划，你听说过即将举行的艺术展吗？
+6. He is so busy that he hardly has time to watch television.
+   > **中文**：他最近太忙了，几乎不怎么参加社交聚会。
 
-7. Attending the networking event was definitely worth it because I met many industry experts.
-   > **中文**：参加这次社交活动绝对是值得的，因为我结识了许多行业专家。
+7. It is impolite to interrupt people when they are talking.
+   > **中文**：在别人发言时插嘴是不礼貌的习惯。
 
-8. I can't wait for the annual company conference to catch up with old friends about architect.
-   > **中文**：我迫不及待地期待年度公司年会，以便与老朋友们聚聚了。
+8. Allow me to introduce our new team member to everyone.
+   > **中文**：请允许我向大家介绍我们新来的同事。
 
-9. Hang on a second while I fetch my business card from my coat pocket.
-   > **中文**：稍等片刻，我从大衣口袋里拿一下我的名片。
+9. The curious journalist interviewed the eyewitness about the fire.
+   > **中文**：那位年轻的新闻记者就事件采访了目击者。
 
-10. Allow me to introduce my former classmate, Mark, to everyone present today about familiar.
-   > **中文**：请允许我向今天在场的各位介绍我以前的同学马克。
+10. I would love to join you for coffee this afternoon.
+   > **中文**：这周末如果你有空，我很非常乐意和你一起去喝咖啡。
+
+11. Let's get together for lunch sometime next week.
+   > **中文**：我们找个时间一起聚聚喝杯茶聊聊天吧。
+
+12. Speaking of movies, have you seen the latest sci-fi hit?
+   > **中文**：说到旅行，你今年夏天打算去哪里度假？
+
+13. Working long hours created immense stress for his mental health.
+   > **中文**：长时间加班工作给他的健康带来了巨大压力。
+
+14. She looks almost identical to her twin sister.
+   > **中文**：她和她的双胞胎姐妹长得一模一样。
+
+15. Waiting in line for hours was totally worth it in the end.
+   > **中文**：排长队买这张演唱会门票完全是值得的。
+
+16. It is a nice day to go for a walk outside.
+   > **中文**：今天天气非常令人愉快，适合出去散步。
+
+17. There are some delicious apples on the kitchen table.
+   > **中文**：桌子上有一些新鲜的水果供大家享用。
+
+18. Did you encounter any problems during the system setup?
+   > **中文**：你今天在办公室里遇到任何困难了吗？
+
+19. This is a useful English practice book for beginners.
+   > **中文**：这是一本非常实用的英语听说练习手册。
+
+20. Are you familiar with the new user interface?
+   > **中文**：你对这个新软件的操作界面感到熟悉吗？
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| architect | 建筑师 |
+| can't wait for | 迫不及待想要 |
+| culture | 文化 |
+| familiar | 熟悉的 |
+| hang on | 稍等 |
+| hardly | 几乎不 |
+| interrupt | 打断 / 插嘴 |
+| introduce | 介绍 |
+| journalist | 新闻记者 |
+| love to | 非常乐意 |
+| sometime | 某个时候 |
+| speaking of | 说到…… / 提起…… |
+| stress | 压力 |
+| twin | 双胞胎之一 |
+| worth it | 值得的 |
+| nice | 令人愉快的 |
+| some | 一些 |
+| any | 任何 |
+| a | 一个 |
+| familiar | 熟悉的 |
 
 </quiz-matching>
 
@@ -137,102 +230,202 @@ hardly 和 interrupt 给场景加了一点礼貌维度：Sorry to interrupt, but
 
 ### 1
 
-Do you h`____`ve any recommendations for good coffee shops nearby?
+The famous ____ designed the modern museum downtown.
 
-- [x] a
+- [x] architect
+- [ ] a
 - [ ] any
-- [ ] familiar
 
-> **解析**：any 在疑问句中作限定词，修饰复数名词 recommendations，意为“任何、一些”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Learning about local `____` makes small talk with international colleagues much easier.
+I can't wait for summer ____ to begin next week!
 
-- [x] culture
+- [x] vacation
+- [ ] a
 - [ ] any
-- [ ] hang on
 
-> **解析**：culture 为名词，意为“文化”。local culture 指当地文化。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-I `____` recognized him because he changed his hairstyle completely.
+Traveling is ____ great way to experience foreign culture.
 
-- [x] hardly
+- [x] a
+- [ ] any
 - [ ] architect
-- [ ] hang on
 
-> **解析**：hardly 为半否定副词，意为“几乎不、几乎没有”，修饰动词 recognized。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Meet my friend Sarah, who works as a senior `____` for a national newspaper.
+His face looks very ____, but I can't recall his name.
 
-- [x] journalist
-- [ ] can't wait for
-- [ ] hardly
+- [x] familiar
+- [ ] a
+- [ ] any
 
-> **解析**：journalist 为可数名词，意为“新闻记者”。work as a journalist 意为“从事记者工作”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Let me `____` you to some colleagues from our design department.
+Hang on ____ second while I grab a pen to write this down.
 
-- [x] introduce
-- [ ] culture
-- [ ] interrupt
+- [x] a
+- [ ] any
+- [ ] architect
 
-> **解析**：some 为限定词，在肯定句中修饰复数名词 colleagues，意为“一些、若干”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-`____` weekend plans, have you heard about the upcoming art exhibition.
+He is so busy that he ____ has time to watch television.
 
-- [x] speaking of
-- [ ] familiar
-- [ ] introduce
+- [x] hardly
+- [ ] a
+- [ ] any
 
-> **解析**：speaking of 为常用闲聊介词短语，意为“说到……、谈及……”，用于转换或接续话题。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Attending the networking event was definitely worth it because I met m`____` industry experts.
+It is impolite to ____ people when they are talking.
 
-- [x] any
-- [ ] hardly
-- [ ] love to
+- [x] interrupt
+- [ ] a
+- [ ] any
 
-> **解析**：worth it 为固定口语形容词短语，意为“值得的、有价值的”，作表语（was worth it）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-I can't wait for the annual company conference to catch up with old friends about `____`.
+Allow me to ____ our new team member to everyone.
 
-- [x] architect
-- [ ] interrupt
-- [ ] nice
+- [x] introduce
+- [ ] a
+- [ ] any
 
-> **解析**：can't wait for 为固定短语，意为“迫不及待等待……”，后接名词或代词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-`____` a second while I fetch my business card from my coat pocket.
+The curious ____ interviewed the eyewitness about the fire.
 
-- [x] hang on
-- [ ] introduce
-- [ ] some
+- [x] journalist
+- [ ] a
+- [ ] any
 
-> **解析**：hang on 为常用口语短语，意为“稍等、等等”，常用于社交交流中中断片刻时的提示。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Allow me to introduce my former classmate, Mark, to everyone present today about `____`.
+I would love to join you for coffee this ____.
+
+- [x] afternoon
+- [ ] a
+- [ ] any
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Let's get together for lunch ____ next week.
+
+- [x] sometime
+- [ ] a
+- [ ] any
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+____ of movies, have you seen the latest sci-fi hit?
+
+- [x] Speaking
+- [ ] a
+- [ ] any
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Working long hours created immense ____ for his mental health.
+
+- [x] stress
+- [ ] a
+- [ ] any
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+She looks almost identical to her ____ sister.
+
+- [x] twin
+- [ ] a
+- [ ] any
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+____ in line for hours was totally worth it in the end.
+
+- [x] Waiting
+- [ ] a
+- [ ] any
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+It is ____ nice day to go for a walk outside.
+
+- [x] a
+- [ ] any
+- [ ] architect
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+There are ____ delicious apples on the kitchen table.
+
+- [x] some
+- [ ] a
+- [ ] any
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Did you encounter ____ problems during the system setup?
+
+- [x] any
+- [ ] a
+- [ ] architect
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+This is ____ useful English practice book for beginners.
+
+- [x] a
+- [ ] any
+- [ ] architect
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Are you ____ with the new user interface?
 
 - [x] familiar
-- [ ] journalist
-- [ ] sometime
+- [ ] a
+- [ ] any
 
-> **解析**：introduce 为及物动词，意为“介绍”。常用结构 introduce A to B（把A介绍给B）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

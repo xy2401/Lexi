@@ -51,83 +51,176 @@ get → gotten 是美式英语的过去分词形式（He has gotten away with it
 
 <quiz-sentence-builder>
 
-1. **中文**：两支法律团队终于就一项公平的和解方案达成了一致。  
-   **英文**：The two legal teams finally managed to agree on a fair settlement.
-   > **解析**：`agree` 不及物动词，搭配 `agree on sth.` 表示“就某事达成协议/一致意见”。
+1. **中文**：陪审团在听取所有证据后做出了公正的判决。
+   **英文**：The jury reached a fair verdict after listening to all the evidence.
+   > **解析**：jury 表示陪审团。
 
-2. **中文**：司机因在学校区域超速行驶而必须支付高额罚款。  
-   **英文**：The driver had to pay a heavy fine for exceeding the speed limit in the school zone.
-   > **解析**：`fine` 在此处作可数名词，意为“罚款”。搭配 `pay a fine`（缴纳罚款）。
+2. **中文**：律师正在竭尽全力为法庭上的被告辩护。
+   **英文**：The lawyer is doing his best to defend the client in court.
+   > **解析**：defend 表示为……辩护。
 
-3. **中文**：每个人类都拥有必须受法律保护的基本权利。  
-   **英文**：Every human being has fundamental rights that must be protected by law.
-   > **解析**：`human being` 为名词短语，意为“人类；人”，相较于 `human` 强调人的个体生命属性与尊严。
+3. **中文**：警方的调查揭露了地方官员的重大腐败行为。
+   **英文**：The investigation uncovered serious corruption among local officials.
+   > **解析**：corruption 表示腐败；official 表示官员。
 
-4. **中文**：在警方收集到足够证据后，嫌疑人很可能会面临刑事指控。  
-   **英文**：The suspect is likely to face criminal charges after the police gather enough evidence.
-   > **解析**：`likely` 形容词，意为“可能的”。固定搭配 `be likely to do sth.`（很有可能做某事）。
+4. **中文**：检察官需要出示有力的证据来证明被告有罪。
+   **英文**：The prosecutor needs clear proof to prove the suspect guilty.
+   > **解析**：proof 表示证据；prove 表示证明。
 
-5. **中文**：法律对这种性质的严重违法行为规定了至少五年的最低刑期。  
-   **英文**：The law sets a minimum sentence of five years for serious offences of this nature.
-   > **解析**：`minimum` 在此处作形容词修饰 `sentence`，意为“最低的；最小限度的”。
+5. **中文**：法律应当严厉惩罚违法犯罪行为。
+   **英文**：The law should strictly punish illegal behavior to ensure safety.
+   > **解析**：punish 表示惩罚。
 
-6. **中文**：检察官出示了将被告与犯罪现场直接联系起来的确凿证据。  
-   **英文**：The prosecutor presented solid proof that connected the defendant directly to the crime scene.
-   > **解析**：`proof` 名词，意为“证明；证据”（常作不可数或可数名词）。动词形式为 `prove`（证明）。
+6. **中文**：这项罪行的最高刑罚是十年监禁。
+   **英文**：The maximum penalty for this crime is ten years in prison.
+   > **解析**：maximum 表示最高的、最大限度。
 
-7. **中文**：侦探秘密监听了嫌疑人的电话以揭露阴谋。  
-   **英文**：The detective secretly monitored the suspect's phone calls to uncover the conspiracy.
-   > **解析**：`secretly` 副词，意为“秘密地；暗中”，修饰动词 `monitored`。
+7. **中文**：犯人由于表现良好获得了保释资格。
+   **英文**：The prisoner was granted parole because of good behavior.
+   > **解析**：prisoner 表示囚犯、犯人。
 
-8. **中文**：新法规旨在消除公共服务中的受贿与官方腐败现象。  
-   **英文**：The new regulations aim to eradicate bribery and official corruption in public services.
-   > **解析**：`corruption` 不可数名词，意为“腐败；贪污；堕落”。
+8. **中文**：法官判定被告支付五千美元的违规罚款。
+   **英文**：The judge ordered the defendant to pay a heavy fine.
+   > **解析**：fine 表示罚款。
 
-9. **中文**：如果你屡次违反交通规则，你将会卷入严重的法律麻烦。  
-   **英文**：If you break traffic rules repeatedly, you will get into serious legal trouble.
-   > **解析**：`get` 在此处用作连系/动作动词，短语 `get into trouble` 表示“陷入麻烦/困境”。
+9. **中文**：公众表达了对打击犯罪新政策的强烈支持。
+   **英文**：There is strong public support for the new anti-crime policy.
+   > **解析**：support for 表示对……的支持。
 
-10. **中文**：陪审团审议了数小时，随后作出了有罪的判定。  
-   **英文**：The jury deliberated for several hours before delivering a unanimous verdict of guilty.
-   > **解析**：`jury` 名词，意为“陪审团”。在法庭裁决中作为整体时谓语动词可作单数处理。
+10. **中文**：警官要求目击者立即如实通报现场情况。
+   **英文**：The officer asked the witness to inform the police immediately.
+   > **解析**：inform 表示通知、告知。
+
+11. **中文**：每一个人类都享有基本的法律尊严与权利。
+   **英文**：Every human being deserves basic legal dignity and rights.
+   > **解析**：human being 表示人类。
+
+12. **中文**：嫌疑人秘密地在海外账户里转移了非法资产。
+   **英文**：The suspect secretly transferred illegal assets to offshore accounts.
+   > **解析**：secretly 表示秘密地。
+
+13. **中文**：这一结果部分是因为侦探及时发现了新的线索。
+   **英文**：This successful outcome is partly due to new evidence found by detectives.
+   > **解析**：partly 表示部分地。
+
+14. **中文**：法庭下达了该违法行为的最低罚金数额。
+   **英文**：The court set the minimum amount required for bail.
+   > **解析**：minimum 表示最低的、最低限度。
+
+15. **中文**：辩方律师很可能会申请延期审理该案。
+   **英文**：The defense lawyer is likely to ask for a trial delay.
+   > **解析**：likely 表示可能的、很可能的。
+
+16. **中文**：警方搜集到了关于犯罪嫌疑人身份的已知线索。
+   **英文**：Police gathered information about the suspect's known aliases.
+   > **解析**：known 表示已知的。
+
+17. **中文**：在侦探展开调查的同时，证人受到了严密的保护。
+   **英文**：Meanwhile, the witness was put under police protection during investigation.
+   > **解析**：meanwhile 表示与此同时。
+
+18. **中文**：受害者家属要求司法机关给予合理的交代。
+   **英文**：The victim's family demands a complete and fair explanation from justice.
+   > **解析**：demand 表示要求。
+
+19. **中文**：警方已经拿到了法官签署的搜查令。
+   **英文**：The police have gotten a search warrant signed by the judge.
+   > **解析**：gotten 表示获得、拿到（get的过去分词）。
+
+20. **中文**：官方声明证实案件正在进一步调查中。
+   **英文**：An official statement confirmed that the case is still under investigation.
+   > **解析**：official 表示官方的、正式的。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The two legal teams finally managed to agree on a fair settlement.
-   > **中文**：两支法律团队终于就一项公平的和解方案达成了一致。
+1. The jury reached a fair verdict after listening to all the evidence.
+   > **中文**：陪审团在听取所有证据后做出了公正的判决。
 
-2. The driver had to pay a heavy fine for exceeding the speed limit in the school zone.
-   > **中文**：司机因在学校区域超速行驶而必须支付高额罚款。
+2. The lawyer is doing his best to defend the client in court.
+   > **中文**：律师正在竭尽全力为法庭上的被告辩护。
 
-3. Every human being has fundamental rights that must be protected by law.
-   > **中文**：每个人类都拥有必须受法律保护的基本权利。
+3. The investigation uncovered serious corruption among local officials.
+   > **中文**：警方的调查揭露了地方官员的重大腐败行为。
 
-4. The suspect is likely to face criminal charges after the police gather enough evidence.
-   > **中文**：在警方收集到足够证据后，嫌疑人很可能会面临刑事指控。
+4. The prosecutor needs clear proof to prove the suspect guilty.
+   > **中文**：检察官需要出示有力的证据来证明被告有罪。
 
-5. The law sets a minimum sentence of five years for serious offences of this nature.
-   > **中文**：法律对这种性质的严重违法行为规定了至少五年的最低刑期。
+5. The law should strictly punish illegal behavior to ensure safety.
+   > **中文**：法律应当严厉惩罚违法犯罪行为。
 
-6. The prosecutor presented solid proof that connected the defendant directly to the crime scene.
-   > **中文**：检察官出示了将被告与犯罪现场直接联系起来的确凿证据。
+6. The maximum penalty for this crime is ten years in prison.
+   > **中文**：这项罪行的最高刑罚是十年监禁。
 
-7. The detective secretly monitored the suspect's phone calls to uncover the conspiracy.
-   > **中文**：侦探秘密监听了嫌疑人的电话以揭露阴谋。
+7. The prisoner was granted parole because of good behavior.
+   > **中文**：犯人由于表现良好获得了保释资格。
 
-8. The new regulations aim to eradicate bribery and official corruption in public services.
-   > **中文**：新法规旨在消除公共服务中的受贿与官方腐败现象。
+8. The judge ordered the defendant to pay a heavy fine.
+   > **中文**：法官判定被告支付五千美元的违规罚款。
 
-9. If you break traffic rules repeatedly, you will get into serious legal trouble.
-   > **中文**：如果你屡次违反交通规则，你将会卷入严重的法律麻烦。
+9. There is strong public support for the new anti-crime policy.
+   > **中文**：公众表达了对打击犯罪新政策的强烈支持。
 
-10. The jury deliberated for several hours before delivering a unanimous verdict of guilty.
-   > **中文**：陪审团审议了数小时，随后作出了有罪的判定。
+10. The officer asked the witness to inform the police immediately.
+   > **中文**：警官要求目击者立即如实通报现场情况。
+
+11. Every human being deserves basic legal dignity and rights.
+   > **中文**：每一个人类都享有基本的法律尊严与权利。
+
+12. The suspect secretly transferred illegal assets to offshore accounts.
+   > **中文**：嫌疑人秘密地在海外账户里转移了非法资产。
+
+13. This successful outcome is partly due to new evidence found by detectives.
+   > **中文**：这一结果部分是因为侦探及时发现了新的线索。
+
+14. The court set the minimum amount required for bail.
+   > **中文**：法庭下达了该违法行为的最低罚金数额。
+
+15. The defense lawyer is likely to ask for a trial delay.
+   > **中文**：辩方律师很可能会申请延期审理该案。
+
+16. Police gathered information about the suspect's known aliases.
+   > **中文**：警方搜集到了关于犯罪嫌疑人身份的已知线索。
+
+17. Meanwhile, the witness was put under police protection during investigation.
+   > **中文**：在侦探展开调查的同时，证人受到了严密的保护。
+
+18. The victim's family demands a complete and fair explanation from justice.
+   > **中文**：受害者家属要求司法机关给予合理的交代。
+
+19. The police have gotten a search warrant signed by the judge.
+   > **中文**：警方已经拿到了法官签署的搜查令。
+
+20. An official statement confirmed that the case is still under investigation.
+   > **中文**：官方声明证实案件正在进一步调查中。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| corruption | 腐败；贪污 |
+| jury | 陪审团 |
+| prisoner | 囚犯 |
+| proof | 证据；证明 |
+| defend | 为……辩护 |
+| prove | 证明 |
+| punish | 惩罚 |
+| demand | 要求 |
+| inform | 通知；告知 |
+| fine | 罚款 |
+| official | 官员；官方的 |
+| maximum | 最高限度；最大的 |
+| minimum | 最低限度；最小的 |
+| likely | 可能的 |
+| partly | 部分地 |
+| secretly | 秘密地 |
+| human being | 人类 |
+| support for | 对……的支持 |
+| meanwhile | 与此同时 |
+| gotten | 得到；获得（get的过去分词） |
 
 </quiz-matching>
 
@@ -135,102 +228,202 @@ get → gotten 是美式英语的过去分词形式（He has gotten away with it
 
 ### 1
 
-The two legal teams finally managed to `____` on a fair settlement.
+The ____ reached a fair verdict after listening to all the evidence.
 
-- [x] agree
+- [x] jury
+- [ ] agree
 - [ ] corruption
-- [ ] get
 
-> **解析**：`agree` 不及物动词，搭配 `agree on sth.` 表示“就某事达成协议/一致意见”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The driver had to pay a heavy `____` for exceeding the speed limit in the school zone.
+The lawyer is doing his best to ____ the client in court.
 
-- [x] fine
+- [x] defend
+- [ ] agree
 - [ ] corruption
-- [ ] gotten
 
-> **解析**：`fine` 在此处作可数名词，意为“罚款”。搭配 `pay a fine`（缴纳罚款）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Every `____` has fundamental rights that must be protected by law.
+The investigation uncovered serious ____ among local officials.
 
-- [x] human being
+- [x] corruption
+- [ ] agree
 - [ ] defend
-- [ ] gotten
 
-> **解析**：`human being` 为名词短语，意为“人类；人”，相较于 `human` 强调人的个体生命属性与尊严。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The suspect is `____` to face criminal charges after the police gather enough evidence.
+The prosecutor needs clear ____ to prove the suspect guilty.
 
-- [x] likely
-- [ ] demand
-- [ ] human being
+- [x] proof
+- [ ] agree
+- [ ] corruption
 
-> **解析**：`likely` 形容词，意为“可能的”。固定搭配 `be likely to do sth.`（很有可能做某事）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The law sets a `____` sentence of five years for serious offences of this nature.
+The law should strictly ____ illegal behavior to ensure safety.
 
-- [x] minimum
-- [ ] fine
-- [ ] inform
+- [x] punish
+- [ ] agree
+- [ ] corruption
 
-> **解析**：`minimum` 在此处作形容词修饰 `sentence`，意为“最低的；最小限度的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The prosecutor presented solid proof that connected the `____`ant directly to the crime scene.
+The ____ penalty for this crime is ten years in prison.
 
-- [x] defend
-- [ ] gotten
-- [ ] known
+- [x] maximum
+- [ ] agree
+- [ ] corruption
 
-> **解析**：`proof` 名词，意为“证明；证据”（常作不可数或可数名词）。动词形式为 `prove`（证明）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The detective `____` monitored the suspect's phone calls to uncover the conspiracy.
+The ____ was granted parole because of good behavior.
 
-- [x] secretly
-- [ ] gotten
-- [ ] known
+- [x] prisoner
+- [ ] agree
+- [ ] corruption
 
-> **解析**：`secretly` 副词，意为“秘密地；暗中”，修饰动词 `monitored`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The new regulations aim to eradicate bribery and official `____` in public services.
+The judge ordered the defendant to pay a heavy ____.
 
-- [x] corruption
-- [ ] inform
-- [ ] maximum
+- [x] fine
+- [ ] agree
+- [ ] corruption
 
-> **解析**：`corruption` 不可数名词，意为“腐败；贪污；堕落”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-If you break traffic rules repeatedly, you will `____` into serious legal trouble.
+There is strong public support for the new ____ policy.
 
-- [x] get
-- [ ] jury
-- [ ] meanwhile
+- [x] anti-crime
+- [ ] agree
+- [ ] corruption
 
-> **解析**：`get` 在此处用作连系/动作动词，短语 `get into trouble` 表示“陷入麻烦/困境”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The `____` deliberated for several hours before delivering a unanimous verdict of guilty.
+The officer asked the witness to ____ the police immediately.
 
-- [x] jury
-- [ ] known
-- [ ] minimum
+- [x] inform
+- [ ] agree
+- [ ] corruption
 
-> **解析**：`jury` 名词，意为“陪审团”。在法庭裁决中作为整体时谓语动词可作单数处理。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Every human being ____ basic legal dignity and rights.
+
+- [x] deserves
+- [ ] agree
+- [ ] corruption
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The suspect ____ transferred illegal assets to offshore accounts.
+
+- [x] secretly
+- [ ] agree
+- [ ] corruption
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+This successful outcome is ____ due to new evidence found by detectives.
+
+- [x] partly
+- [ ] agree
+- [ ] corruption
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The court set the ____ amount required for bail.
+
+- [x] minimum
+- [ ] agree
+- [ ] corruption
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The defense lawyer is ____ to ask for a trial delay.
+
+- [x] likely
+- [ ] agree
+- [ ] corruption
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Police gathered information about the suspect's ____ aliases.
+
+- [x] known
+- [ ] agree
+- [ ] corruption
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+____, the witness was put under police protection during investigation.
+
+- [x] Meanwhile
+- [ ] agree
+- [ ] corruption
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+The victim's family demands a complete and fair ____ from justice.
+
+- [x] explanation
+- [ ] agree
+- [ ] corruption
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The police have ____ a search warrant signed by the judge.
+
+- [x] gotten
+- [ ] agree
+- [ ] corruption
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+An ____ statement confirmed that the case is still under investigation.
+
+- [x] official
+- [ ] agree
+- [ ] corruption
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

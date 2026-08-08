@@ -61,83 +61,176 @@ instead of 表示"而不是"。until / till 表示"直到"。
 
 <quiz-sentence-builder>
 
-1. **中文**：新娘穿着定制的白色婚纱，看起来美得令人屏息。  
-   **英文**：The bride looked breathtaking in her custom white wedding gown.
-   > **解析**：bride 为名词，意为“新娘”。新郎为 groom。bride and groom 合称“新婚夫妇”。
+1. **中文**：在新颖的婚礼仪式上，新娘和新郎互相交换了戒指。  
+   **英文**：At the wedding ceremony, the bride and groom exchanged rings.
+   > **解析**：wedding ceremony 表示“婚礼仪式”；bride 表示“新娘”；groom 表示“新郎”；exchange 表示“交换”。
 
-2. **中文**：新郎在圣坛前紧张地等待着他的新娘走向红毯。  
-   **英文**：The groom waited nervously at the altar for his bride to walk down the aisle.
-   > **解析**：groom 为名词，意为“新郎”。walk down the aisle 意为“走上结婚红毯/步入婚姻殿堂”。
+2. **中文**：新郎在亲戚面前亲吻了新娘的面颊以示爱意。  
+   **英文**：The groom kissed the bride on the cheek in front of relatives.
+   > **解析**：groom 表示“新郎”；cheek 表示“面颊/脸颊”；relative 表示“亲戚”。
 
-3. **中文**：婚礼仪式在湖边一个优雅的户外花园里举行。  
-   **英文**：The wedding ceremony took place in an elegant outdoor garden near the lake.
-   > **解析**：ceremony 为名词，意为“仪式、典礼”。take place 意为“举行”。wedding ceremony 表示“婚礼仪式”。
+3. **中文**：音乐家们演奏起传统的乐曲来亲切问候每一位来宾。  
+   **英文**：Musicians played traditional music to greet every guest.
+   > **解析**：musician 表示“音乐家”；traditional 表示“传统的”；greet 表示“问候/打招呼”。
 
-4. **中文**：在约会三年之后，这对幸福的情侣终于在昨晚订婚了。  
-   **英文**：After dating for three years, the happy couple finally got engaged last night.
-   > **解析**：engaged 为形容词，意为“已订婚的”。get engaged 表示“订婚”。get engaged to sb. 表示“与某人订婚”。
+4. **中文**：我们决定送上一瓶鲜花和花瓶作为给他们的婚礼惊喜。  
+   **英文**：We delivered roses in a vase as a wedding surprise.
+   > **解析**：deliver 表示“递送/送达”；rose 表示“玫瑰”；vase 表示“花瓶”；surprise 表示“惊喜”。
 
-5. **中文**：新人在许下誓言时交换结婚戒指是一项甜蜜的传统。  
-   **英文**：It is a sweet tradition for the couple to exchange wedding rings during the vows.
-   > **解析**：exchange 为动词，意为“交换”。exchange rings 表示“交换戒指”。tradition 用作名词意为“传统”。
+5. **中文**：亲朋好友们在现场热情庆祝，直到深夜时分。  
+   **英文**：Relating friends stood and celebrated until late at night.
+   > **解析**：celebrate 表示“庆祝”；stood 是 stand 的过去式；until / till 表示“直到……为止”。
 
-6. **中文**：他们选择穿着代表其文化遗产的传统服饰。  
-   **英文**：They chose to wear traditional garments that represent their cultural heritage.
-   > **解析**：traditional 为形容词，意为“传统的”。修饰名词 garments（服装）。名词形式为 tradition。
+6. **中文**：他们没有点普通的蛋糕，而是准备了多彩的甜点。  
+   **英文**：Instead of a plain cake, they had colorful desserts.
+   > **解析**：instead of 表示“代替/而不是”；colorful 表示“多彩的/绚丽的”。
 
-7. **中文**：来自全国各地的亲戚聚在一起参加宴会。  
-   **英文**：Relatives from all over the country gathered together to attend the banquet.
-   > **解析**：relative 为名词，意为“亲戚、亲属”。gather together 意为“聚集”。attend the banquet 意为“出席宴会”。
+7. **中文**：婚礼欢庆活动持续了三个小时，现场充满了欢声笑语。  
+   **英文**：The wedding ceremony lasted over three hours with joy.
+   > **解析**：last / lasted 表示“持续”；over 表示“超过/多于”；wedding 表示“婚礼”。
 
-8. **中文**：一群有才华的音乐家整个晚上都在演奏浪漫的爵士乐曲。  
-   **英文**：A group of talented musicians played romantic jazz songs throughout the evening.
-   > **解析**：musician 为名词，意为“音乐家、乐手”。由 music + -ian 构成。throughout 用作介词，意为“贯穿/整整”。
+8. **中文**：这对刚订婚的新人衷心感谢了每一位远道而来的亲戚。  
+   **英文**：The engaged couple thanked all relatives for coming.
+   > **解析**：engaged 表示“订婚的”；thanked 表示“感谢了”；relative 表示“亲戚”。
 
-9. **中文**：朋友和家人举杯庆祝这对新人的特别日子。  
-   **英文**：Friends and family raised their glasses to celebrate the couple's special day.
-   > **解析**：celebrate 为动词，意为“庆祝”。raise glasses 表示“举杯”。to celebrate 引导目的状语从句。
+9. **中文**：新郎站在台前，深情地注视着走来的新娘。  
+   **英文**：The groom stood by the altar, looking at his lovely bride.
+   > **解析**：groom 表示“新郎”；stood 表示“站立”。
 
-10. **中文**：这对新人请求以慈善捐款代替传统的婚礼礼物。  
-   **英文**：The couple asked for charity donations instead of traditional wedding gifts.
-   > **解析**：instead of 为复合介词，意为“代替、而不是”。后面接名词、代词或动名词（charity donations）。
+10. **中文**：他们在所有的婚礼嘉宾面前亲吻了对方。  
+   **英文**：They gave each other a sweet kiss before all the guests.
+   > **解析**：kiss 表示“亲吻”；wedding 表示“婚礼”。
+
+11. **中文**：新娘身穿洁白的传统婚纱，看起来非常美丽。  
+   **英文**：The bride wore a beautiful traditional white wedding gown.
+   > **解析**：bride 表示“新娘”；traditional 表示“传统的”。
+
+12. **中文**：仪式在教堂的花园里隆重举行。  
+   **英文**：The marriage ceremony was held in the church garden.
+   > **解析**：ceremony 表示“仪式/典礼”。
+
+13. **中文**：现场的音乐家们弹奏出了优雅动听的旋律。  
+   **英文**：The talented musicians played lovely songs at the feast.
+   > **解析**：musician 表示“音乐家”。
+
+14. **中文**：他在表白时轻轻亲了亲她的脸颊。  
+   **英文**：He kissed her gently on her left cheek with love.
+   > **解析**：cheek 表示“面颊/脸颊”。
+
+15. **中文**：多位亲戚专程乘坐飞机赶来参加这场婚礼。  
+   **英文**：Many relatives came by plane to join this big wedding.
+   > **解析**：relative / relatives 表示“亲戚”。
+
+16. **中文**：桌上摆放着用精致玻璃花瓶盛装的红玫瑰。  
+   **英文**：Red roses were set in a clear glass vase on the table.
+   > **解析**：rose 表示“玫瑰”；vase 表示“花瓶”。
+
+17. **中文**：我们为新人准备了一份意想不到的精致惊喜。  
+   **英文**：We prepared an unexpected surprise for the new couple.
+   > **解析**：surprise 表示“惊喜”。
+
+18. **中文**：这场盛大的婚礼派对一直持续到了午夜。  
+   **英文**：The big wedding party lasted till midnight.
+   > **解析**：till 表示“直到……为止”；lasted 表示“持续”。
+
+19. **中文**：新郎新娘在所有宾客面前互相交换了戒指。  
+   **英文**：The couple decided to exchange wedding rings on stage.
+   > **解析**：exchange 表示“交换”。
+
+20. **中文**：亲朋好友们聚在一起共同庆祝这个特殊的日子。  
+   **英文**：Friends and family gathered to celebrate this special day.
+   > **解析**：celebrate 表示“庆祝”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The bride looked breathtaking in her custom white wedding gown.
-   > **中文**：新娘穿着定制的白色婚纱，看起来美得令人屏息。
+1. At the wedding ceremony, the bride and groom exchanged rings.
+   > **中文**：在新颖的婚礼仪式上，新娘和新郎互相交换了戒指。
 
-2. The groom waited nervously at the altar for his bride to walk down the aisle.
-   > **中文**：新郎在圣坛前紧张地等待着他的新娘走向红毯。
+2. The groom kissed the bride on the cheek in front of relatives.
+   > **中文**：新郎在亲戚面前亲吻了新娘的面颊以示爱意。
 
-3. The wedding ceremony took place in an elegant outdoor garden near the lake.
-   > **中文**：婚礼仪式在湖边一个优雅的户外花园里举行。
+3. Musicians played traditional music to greet every guest.
+   > **中文**：音乐家们演奏起传统的乐曲来亲切问候每一位来宾。
 
-4. After dating for three years, the happy couple finally got engaged last night.
-   > **中文**：在约会三年之后，这对幸福的情侣终于在昨晚订婚了。
+4. We delivered roses in a vase as a wedding surprise.
+   > **中文**：我们决定送上一瓶鲜花和花瓶作为给他们的婚礼惊喜。
 
-5. It is a sweet tradition for the couple to exchange wedding rings during the vows.
-   > **中文**：新人在许下誓言时交换结婚戒指是一项甜蜜的传统。
+5. Relating friends stood and celebrated until late at night.
+   > **中文**：亲朋好友们在现场热情庆祝，直到深夜时分。
 
-6. They chose to wear traditional garments that represent their cultural heritage.
-   > **中文**：他们选择穿着代表其文化遗产的传统服饰。
+6. Instead of a plain cake, they had colorful desserts.
+   > **中文**：他们没有点普通的蛋糕，而是准备了多彩的甜点。
 
-7. Relatives from all over the country gathered together to attend the banquet.
-   > **中文**：来自全国各地的亲戚聚在一起参加宴会。
+7. The wedding ceremony lasted over three hours with joy.
+   > **中文**：婚礼欢庆活动持续了三个小时，现场充满了欢声笑语。
 
-8. A group of talented musicians played romantic jazz songs throughout the evening.
-   > **中文**：一群有才华的音乐家整个晚上都在演奏浪漫的爵士乐曲。
+8. The engaged couple thanked all relatives for coming.
+   > **中文**：这对刚订婚的新人衷心感谢了每一位远道而来的亲戚。
 
-9. Friends and family raised their glasses to celebrate the couple's special day.
-   > **中文**：朋友和家人举杯庆祝这对新人的特别日子。
+9. The groom stood by the altar, looking at his lovely bride.
+   > **中文**：新郎站在台前，深情地注视着走来的新娘。
 
-10. The couple asked for charity donations instead of traditional wedding gifts.
-   > **中文**：这对新人请求以慈善捐款代替传统的婚礼礼物。
+10. They gave each other a sweet kiss before all the guests.
+   > **中文**：他们在所有的婚礼嘉宾面前亲吻了对方。
+
+11. The bride wore a beautiful traditional white wedding gown.
+   > **中文**：新娘身穿洁白的传统婚纱，看起来非常美丽。
+
+12. The marriage ceremony was held in the church garden.
+   > **中文**：仪式在教堂的花园里隆重举行。
+
+13. The talented musicians played lovely songs at the feast.
+   > **中文**：现场的音乐家们弹奏出了优雅动听的旋律。
+
+14. He kissed her gently on her left cheek with love.
+   > **中文**：他在表白时轻轻亲了亲她的脸颊。
+
+15. Many relatives came by plane to join this big wedding.
+   > **中文**：多位亲戚专程乘坐飞机赶来参加这场婚礼。
+
+16. Red roses were set in a clear glass vase on the table.
+   > **中文**：桌上摆放着用精致玻璃花瓶盛装的红玫瑰。
+
+17. We prepared an unexpected surprise for the new couple.
+   > **中文**：我们为新人准备了一份意想不到的精致惊喜。
+
+18. The big wedding party lasted till midnight.
+   > **中文**：这场盛大的婚礼派对一直持续到了午夜。
+
+19. The couple decided to exchange wedding rings on stage.
+   > **中文**：新郎新娘在所有宾客面前互相交换了戒指。
+
+20. Friends and family gathered to celebrate this special day.
+   > **中文**：亲朋好友们聚在一起共同庆祝这个特殊的日子。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| bride | 新娘 |
+| celebrate | 庆祝 |
+| ceremony | 仪式 / 典礼 |
+| cheek | 面颊 / 脸颊 |
+| colorful | 多彩的 |
+| deliver | 递送 / 送达 |
+| engaged | 订婚的 |
+| exchange | 交换 |
+| greet | 问候 / 打招呼 |
+| groom | 新郎 |
+| instead of | 代替 / 而不是 |
+| kiss | 亲吻 |
+| last | 持续 |
+| musician | 音乐家 |
+| relative | 亲戚 |
+| rose | 玫瑰 |
+| stood | 站立（stand的过去式） |
+| surprise | 惊喜 |
+| traditional | 传统的 |
+| wedding | 婚礼 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ instead of 表示"而不是"。until / till 表示"直到"。
 
 ### 1
 
-The `____` looked breathtaking in her custom white wedding gown.
+At the ____ ceremony, the bride and groom exchanged rings.
 
-- [x] bride
+- [x] wedding
+- [ ] bride
 - [ ] celebrate
-- [ ] deliver
 
-> **解析**：bride 为名词，意为“新娘”。新郎为 groom。bride and groom 合称“新婚夫妇”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The `____` waited nervously at the altar for his bride to walk down the aisle.
+The ____ kissed the bride on the cheek in front of relatives.
 
 - [x] groom
+- [ ] bride
 - [ ] celebrate
-- [ ] deliver
 
-> **解析**：groom 为名词，意为“新郎”。walk down the aisle 意为“走上结婚红毯/步入婚姻殿堂”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The wedding `____` took place in an elegant outdoor garden near the lake.
+Musicians played ____ music to greet every guest.
 
-- [x] ceremony
-- [ ] cheek
-- [ ] exchange
+- [x] traditional
+- [ ] bride
+- [ ] celebrate
 
-> **解析**：ceremony 为名词，意为“仪式、典礼”。take place 意为“举行”。wedding ceremony 表示“婚礼仪式”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-After dating for three years, the happy couple finally got `____` last night.
+We delivered roses in a ____ as a wedding surprise.
 
-- [x] engaged
-- [ ] cheek
-- [ ] greet
+- [x] vase
+- [ ] bride
+- [ ] celebrate
 
-> **解析**：engaged 为形容词，意为“已订婚的”。get engaged 表示“订婚”。get engaged to sb. 表示“与某人订婚”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-It is a sweet tradition for the couple to `____` wedding rings during the vows.
+Relating friends ____ and celebrated until late at night.
 
-- [x] exchange
-- [ ] colorful
-- [ ] groom
+- [x] stood
+- [ ] bride
+- [ ] celebrate
 
-> **解析**：exchange 为动词，意为“交换”。exchange rings 表示“交换戒指”。tradition 用作名词意为“传统”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-They chose to wear `____` garments that represent their cultural heritage.
+Instead of a plain cake, they had ____ desserts.
 
-- [x] traditional
-- [ ] deliver
-- [ ] groom
+- [x] colorful
+- [ ] bride
+- [ ] celebrate
 
-> **解析**：traditional 为形容词，意为“传统的”。修饰名词 garments（服装）。名词形式为 tradition。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Relatives from all `____` the country gathered together to attend the banquet.
+The ____ ceremony lasted over three hours with joy.
 
-- [x] over
-- [ ] engaged
-- [ ] instead of
+- [x] wedding
+- [ ] bride
+- [ ] celebrate
 
-> **解析**：relative 为名词，意为“亲戚、亲属”。gather together 意为“聚集”。attend the banquet 意为“出席宴会”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-A group of talented `____`s played romantic jazz songs throughout the evening.
+The ____ couple thanked all relatives for coming.
 
-- [x] musician
-- [ ] exchange
-- [ ] kiss
+- [x] engaged
+- [ ] bride
+- [ ] celebrate
 
-> **解析**：musician 为名词，意为“音乐家、乐手”。由 music + -ian 构成。throughout 用作介词，意为“贯穿/整整”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Friends and family raised their glasses to `____` the couple's special day.
+The ____ stood by the altar, looking at his lovely bride.
 
-- [x] celebrate
-- [ ] groom
-- [ ] musician
+- [x] groom
+- [ ] bride
+- [ ] celebrate
 
-> **解析**：celebrate 为动词，意为“庆祝”。raise glasses 表示“举杯”。to celebrate 引导目的状语从句。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The couple asked for charity donations `____` traditional wedding gifts.
+They gave each other a sweet ____ before all the guests.
 
-- [x] instead of
-- [ ] groom
-- [ ] over
+- [x] kiss
+- [ ] bride
+- [ ] celebrate
 
-> **解析**：instead of 为复合介词，意为“代替、而不是”。后面接名词、代词或动名词（charity donations）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The ____ wore a beautiful traditional white wedding gown.
+
+- [x] bride
+- [ ] celebrate
+- [ ] ceremony
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The marriage ____ was held in the church garden.
+
+- [x] ceremony
+- [ ] bride
+- [ ] celebrate
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The talented ____ played lovely songs at the feast.
+
+- [x] musicians
+- [ ] bride
+- [ ] celebrate
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+He kissed her gently on her left ____ with love.
+
+- [x] cheek
+- [ ] bride
+- [ ] celebrate
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Many relatives came by plane to join this big ____.
+
+- [x] wedding
+- [ ] bride
+- [ ] celebrate
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Red roses were set in a clear glass ____ on the table.
+
+- [x] vase
+- [ ] bride
+- [ ] celebrate
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+We prepared an unexpected ____ for the new couple.
+
+- [x] surprise
+- [ ] bride
+- [ ] celebrate
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+The big ____ party lasted till midnight.
+
+- [x] wedding
+- [ ] bride
+- [ ] celebrate
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The couple decided to ____ wedding rings on stage.
+
+- [x] exchange
+- [ ] bride
+- [ ] celebrate
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Friends and family gathered to ____ this special day.
+
+- [x] celebrate
+- [ ] bride
+- [ ] ceremony
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

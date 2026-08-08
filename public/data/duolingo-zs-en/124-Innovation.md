@@ -61,83 +61,176 @@ by accident 表示"偶然、不小心"。in general 表示"总的来说"。
 
 <quiz-sentence-builder>
 
-1. **中文**：请查阅电子邮件附件中的详细项目方案。  
-   **英文**：Please review the detailed project proposal in the email attachment.
-   > **解析**：attachment 为名词，意为“附件”。在电子邮件语境中，in the attachment 或 attached file 意为“在附件中”。动词形式为 attach。
+1. **中文**：我不小心误删了这封带有邮件附件的私密博客。  
+   **英文**：By accident, I deleted a private blog with an attachment.
+   > **解析**：by accident 表示“偶然地/不小心”；delete / deleted 表示“删除”；private 表示“私密的”；attachment 表示“附件”。
 
-2. **中文**：许多公司利用社交媒体平台与客户进行互动。  
-   **英文**：Many companies use social media platforms to interact with their customers.
-   > **解析**：social media 为名词短语，意为“社交媒体”。通常作为不可数名词或复数概念使用。platform 指“平台”。
+2. **中文**：在社交媒体上发布关于现代科技的话题非常普遍。  
+   **英文**：Posting on social media about technology topic is common.
+   > **解析**：social media 表示“社交媒体”；technology 表示“科技”；topic 表示“话题/主题”。
 
-3. **中文**：现代即时通讯软件使团队成员之间的即时沟通变得非常容易。  
-   **英文**：Modern messaging apps make it easy to communicate with team members instantly.
-   > **解析**：communicate 为动词，意为“沟通、交流”。搭配 communicate with sb.（与某人沟通）。make it easy to do 中的 it 为形式宾语。
+3. **中文**：总的来说，这个新软件的通信效果令人惊讶。  
+   **英文**：In general, the communication effect of this tool is surprising.
+   > **解析**：in general 表示“总地来说”；effect 表示“效果/影响”；surprising 表示“令人惊讶的”。
 
-4. **中文**：注意不要从共享文件夹中删除任何重要文档。  
-   **英文**：Be careful not to delete any important documents from the shared folder.
-   > **解析**：delete 为动词，意为“删除”。delete sth. from... 表示“从……中删除某物”。名词形式为 deletion。
+4. **中文**：请在退出应用程序前回复关于该问题的最新链接。  
+   **英文**：Please reply to the link about the issue before you exit.
+   > **解析**：reply 表示“回复”；link 表示“链接”；issue 表示“问题/争议”；exit 表示“退出”。
 
-5. **中文**：点击短信中提供的链接来重置你的账户密码。  
-   **英文**：Click on the link provided in the message to reset your account password.
-   > **解析**：link 为名词，意为“网络链接”。click on the link 表示“点击链接”。provided 在此处为过去分词短语作后置定语。
+5. **中文**：我没有在搜索栏中听到或打出任何私人信息。  
+   **英文**：I did not hear or type any private info in the search box.
+   > **解析**：type 表示“打字/输入”；search 表示“搜索/查找”；private 表示“私人的”。
 
-6. **中文**：我今天早上发了一份咨询，但目前还没有收到回复。  
-   **英文**：I sent an inquiry this morning, but I have not received a reply yet.
-   > **解析**：reply 在此处用作名词，意为“回复、答复”。receive a reply 表示“收到回复”。reply 亦可作动词（reply to an email）。
+6. **中文**：他们完全沟通好了关于新项目的技术细节。  
+   **英文**：They completely communicated about technology details.
+   > **解析**：completely 表示“完全地”；communicate 表示“沟通/交流”。
 
-7. **中文**：他在清理电脑空间时不小心误删了那个文件。  
-   **英文**：He deleted the file by accident while clearing space on his computer.
-   > **解析**：by accident 为介词短语作状语，意为“偶然、不小心、意外地”。与 by mistake 或 accidentally 同义。
+7. **中文**：没有一个人对这条新闻的令人惊讶的效果感到意外。  
+   **英文**：None of us was surprised by the surprising effect of news.
+   > **解析**：none 表示“没有一个”；surprising 表示“令人惊讶的”。
 
-8. **中文**：总体而言，新网站上的用户体验非常积极。  
-   **英文**：In general, user experience on the new website has been very positive.
-   > **解析**：in general 为介词短语，置于句首作状语，意为“总体而言、一般说来”。与 generally speaking 同义。
+8. **中文**：他在个人博客上发布了一篇关于现代创新的文章。  
+   **英文**：He posted an article about modern innovation on his blog.
+   > **解析**：blog 表示“博客”；post 表示“发布/发帖”。
 
-9. **中文**：你应当对你的个人密码和账户设置保密。  
-   **英文**：You should keep your personal password and account settings private.
-   > **解析**：private 为形容词，意为“私密的、保密的”。在句中作宾语补足语（keep sth. private 保持某物私密）。
+9. **中文**：请点击下方链接以查阅邮件附件内容。  
+   **英文**：Please click the link below to view the file attachment.
+   > **解析**：link 表示“链接”；attachment 表示“附件”。
 
-10. **中文**：科技的飞速发展改变了人们处理数字信息的方式。  
-   **英文**：Rapid advances in technology have changed how people process digital information.
-   > **解析**：technology 为名词，意为“科技、技术”。advances in technology 意为“技术进步”。how 引导宾语从句。
+10. **中文**：我不小心按了删除键，清除了那条记录。  
+   **英文**：I pressed delete key by accident and cleared that record.
+   > **解析**：delete 表示“删除”。
+
+11. **中文**：社交媒体改变了人们相互沟通交流的方式。  
+   **英文**：Social media has changed how people communicate with each other.
+   > **解析**：communicate 表示“沟通/交流”。
+
+12. **中文**：请输入你的密码以登录你的私人账户。  
+   **英文**：Please type your password to enter your private account.
+   > **解析**：type 表示“打字/输入”；private 表示“私人的”。
+
+13. **中文**：这篇文章探讨了技术对日常生活的积极影响。  
+   **英文**：This article discusses the positive effect of technology.
+   > **解析**：effect 表示“影响/效果”；technology 表示“技术/科技”。
+
+14. **中文**：你可以搜索关于该主题的更多公开信息。  
+   **英文**：You can search for more public information on this topic.
+   > **解析**：topic 表示“话题/主题”；search 表示“搜索”。
+
+15. **中文**：请及时回复我发送给你的电子元邮件。  
+   **英文**：Please reply to the message I sent you as soon as possible.
+   > **解析**：reply 表示“回复/答复”。
+
+16. **中文**：如果你遇到系统故障问题，请点击退出。  
+   **英文**：If you meet a system issue, click here to exit.
+   > **解析**：issue 表示“问题/故障”；exit 表示“退出”。
+
+17. **中文**：总的来说，这款新手机的电池寿命相当长。  
+   **英文**：In general, the battery life of this new phone is long.
+   > **解析**：in general 表示“总地来说”。
+
+18. **中文**：他不小心把手机掉进了水里。  
+   **英文**：He dropped his smartphone into the water by accident.
+   > **解析**：by accident 表示“不小心/偶然”。
+
+19. **中文**：这是一个非常私人的话题，请勿外传。  
+   **英文**：This is a very private topic, so please do not share it.
+   > **解析**：private 表示“私密的/私人的”。
+
+20. **中文**：他在社交媒体上拥有数百万粉丝。  
+   **英文**：He has millions of followers on social media platforms.
+   > **解析**：social media 表示“社交媒体”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Please review the detailed project proposal in the email attachment.
-   > **中文**：请查阅电子邮件附件中的详细项目方案。
+1. By accident, I deleted a private blog with an attachment.
+   > **中文**：我不小心误删了这封带有邮件附件的私密博客。
 
-2. Many companies use social media platforms to interact with their customers.
-   > **中文**：许多公司利用社交媒体平台与客户进行互动。
+2. Posting on social media about technology topic is common.
+   > **中文**：在社交媒体上发布关于现代科技的话题非常普遍。
 
-3. Modern messaging apps make it easy to communicate with team members instantly.
-   > **中文**：现代即时通讯软件使团队成员之间的即时沟通变得非常容易。
+3. In general, the communication effect of this tool is surprising.
+   > **中文**：总的来说，这个新软件的通信效果令人惊讶。
 
-4. Be careful not to delete any important documents from the shared folder.
-   > **中文**：注意不要从共享文件夹中删除任何重要文档。
+4. Please reply to the link about the issue before you exit.
+   > **中文**：请在退出应用程序前回复关于该问题的最新链接。
 
-5. Click on the link provided in the message to reset your account password.
-   > **中文**：点击短信中提供的链接来重置你的账户密码。
+5. I did not hear or type any private info in the search box.
+   > **中文**：我没有在搜索栏中听到或打出任何私人信息。
 
-6. I sent an inquiry this morning, but I have not received a reply yet.
-   > **中文**：我今天早上发了一份咨询，但目前还没有收到回复。
+6. They completely communicated about technology details.
+   > **中文**：他们完全沟通好了关于新项目的技术细节。
 
-7. He deleted the file by accident while clearing space on his computer.
-   > **中文**：他在清理电脑空间时不小心误删了那个文件。
+7. None of us was surprised by the surprising effect of news.
+   > **中文**：没有一个人对这条新闻的令人惊讶的效果感到意外。
 
-8. In general, user experience on the new website has been very positive.
-   > **中文**：总体而言，新网站上的用户体验非常积极。
+8. He posted an article about modern innovation on his blog.
+   > **中文**：他在个人博客上发布了一篇关于现代创新的文章。
 
-9. You should keep your personal password and account settings private.
-   > **中文**：你应当对你的个人密码和账户设置保密。
+9. Please click the link below to view the file attachment.
+   > **中文**：请点击下方链接以查阅邮件附件内容。
 
-10. Rapid advances in technology have changed how people process digital information.
-   > **中文**：科技的飞速发展改变了人们处理数字信息的方式。
+10. I pressed delete key by accident and cleared that record.
+   > **中文**：我不小心按了删除键，清除了那条记录。
+
+11. Social media has changed how people communicate with each other.
+   > **中文**：社交媒体改变了人们相互沟通交流的方式。
+
+12. Please type your password to enter your private account.
+   > **中文**：请输入你的密码以登录你的私人账户。
+
+13. This article discusses the positive effect of technology.
+   > **中文**：这篇文章探讨了技术对日常生活的积极影响。
+
+14. You can search for more public information on this topic.
+   > **中文**：你可以搜索关于该主题的更多公开信息。
+
+15. Please reply to the message I sent you as soon as possible.
+   > **中文**：请及时回复我发送给你的电子元邮件。
+
+16. If you meet a system issue, click here to exit.
+   > **中文**：如果你遇到系统故障问题，请点击退出。
+
+17. In general, the battery life of this new phone is long.
+   > **中文**：总的来说，这款新手机的电池寿命相当长。
+
+18. He dropped his smartphone into the water by accident.
+   > **中文**：他不小心把手机掉进了水里。
+
+19. This is a very private topic, so please do not share it.
+   > **中文**：这是一个非常私人的话题，请勿外传。
+
+20. He has millions of followers on social media platforms.
+   > **中文**：他在社交媒体上拥有数百万粉丝。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| attachment | 附件 |
+| blog | 博客 |
+| by accident | 偶然地 / 不小心 |
+| communicate | 沟通 / 交流 |
+| completely | 完全地 |
+| delete | 删除 |
+| effect | 效果 / 影响 |
+| exit | 退出 / 出口 |
+| in general | 总地来说 |
+| issue | 问题 / 争议 |
+| link | 链接 |
+| none | 没有一个 |
+| post | 发布 / 发帖 |
+| private | 私密的 / 私人的 |
+| reply | 回复 / 答复 |
+| search | 搜索 / 查找 |
+| social media | 社交媒体 |
+| surprising | 令人惊讶的 |
+| technology | 科技 / 技术 |
+| topic | 话题 / 主题 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ by accident 表示"偶然、不小心"。in general 表示"总的来说"。
 
 ### 1
 
-Please review the detailed project proposal in the email `____`.
+By accident, I deleted a ____ blog with an attachment.
 
-- [x] attachment
+- [x] private
 - [ ] after
-- [ ] completely
+- [ ] attachment
 
-> **解析**：attachment 为名词，意为“附件”。在电子邮件语境中，in the attachment 或 attached file 意为“在附件中”。动词形式为 attach。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Many companies use `____` platforms to interact with their customers.
+Posting on social media about ____ topic is common.
 
-- [x] social media
+- [x] technology
+- [ ] after
 - [ ] attachment
-- [ ] completely
 
-> **解析**：social media 为名词短语，意为“社交媒体”。通常作为不可数名词或复数概念使用。platform 指“平台”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Modern messaging apps make it easy to `____` with team members instantly.
+In general, the communication ____ of this tool is surprising.
 
-- [x] communicate
-- [ ] blog
-- [ ] effect
+- [x] effect
+- [ ] after
+- [ ] attachment
 
-> **解析**：communicate 为动词，意为“沟通、交流”。搭配 communicate with sb.（与某人沟通）。make it easy to do 中的 it 为形式宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Be careful not to `____` any important documents from the shared folder.
+Please ____ to the link about the issue before you exit.
 
-- [x] delete
-- [ ] by accident
-- [ ] exit
+- [x] reply
+- [ ] after
+- [ ] attachment
 
-> **解析**：delete 为动词，意为“删除”。delete sth. from... 表示“从……中删除某物”。名词形式为 deletion。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Click on the `____` provided in the message to reset your account password.
+I did not ____ or type any private info in the search box.
 
-- [x] link
-- [ ] communicate
-- [ ] exit
+- [x] hear
+- [ ] after
+- [ ] attachment
 
-> **解析**：link 为名词，意为“网络链接”。click on the link 表示“点击链接”。provided 在此处为过去分词短语作后置定语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-I sent an inquiry this morning, but I have not received a `____` yet.
+They ____ communicated about technology details.
 
-- [x] reply
-- [ ] completely
-- [ ] hear
+- [x] completely
+- [ ] after
+- [ ] attachment
 
-> **解析**：reply 在此处用作名词，意为“回复、答复”。receive a reply 表示“收到回复”。reply 亦可作动词（reply to an email）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-He deleted the file `____` while clearing space on his computer.
+____ of us was surprised by the surprising effect of news.
 
-- [x] by accident
-- [ ] effect
-- [ ] in general
+- [x] None
+- [ ] after
+- [ ] attachment
 
-> **解析**：by accident 为介词短语作状语，意为“偶然、不小心、意外地”。与 by mistake 或 accidentally 同义。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-`____`, user experience on the new website has been very positive.
+He posted an article about modern innovation on his ____.
 
-- [x] in general
-- [ ] effect
-- [ ] issue
+- [x] blog
+- [ ] after
+- [ ] attachment
 
-> **解析**：in general 为介词短语，置于句首作状语，意为“总体而言、一般说来”。与 generally speaking 同义。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-You should keep your personal password and account settings `____`.
+Please click the ____ below to view the file attachment.
 
-- [x] private
-- [ ] exit
-- [ ] issue
+- [x] link
+- [ ] after
+- [ ] attachment
 
-> **解析**：private 为形容词，意为“私密的、保密的”。在句中作宾语补足语（keep sth. private 保持某物私密）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Rapid advances in `____` have changed how people process digital information.
+I pressed ____ key by accident and cleared that record.
 
-- [x] technology
-- [ ] hear
-- [ ] link
+- [x] delete
+- [ ] after
+- [ ] attachment
 
-> **解析**：technology 为名词，意为“科技、技术”。advances in technology 意为“技术进步”。how 引导宾语从句。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Social media has changed how people ____ with each other.
+
+- [x] communicate
+- [ ] after
+- [ ] attachment
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Please ____ your password to enter your private account.
+
+- [x] type
+- [ ] after
+- [ ] attachment
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+This article discusses the positive ____ of technology.
+
+- [x] effect
+- [ ] after
+- [ ] attachment
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+You can ____ for more public information on this topic.
+
+- [x] search
+- [ ] after
+- [ ] attachment
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Please ____ to the message I sent you as soon as possible.
+
+- [x] reply
+- [ ] after
+- [ ] attachment
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+If you meet a system ____, click here to exit.
+
+- [x] issue
+- [ ] after
+- [ ] attachment
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+In ____, the battery life of this new phone is long.
+
+- [x] general
+- [ ] after
+- [ ] attachment
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+He dropped his ____ into the water by accident.
+
+- [x] smartphone
+- [ ] after
+- [ ] attachment
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+This is a very ____ topic, so please do not share it.
+
+- [x] private
+- [ ] after
+- [ ] attachment
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+He has millions of ____ on social media platforms.
+
+- [x] followers
+- [ ] after
+- [ ] attachment
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

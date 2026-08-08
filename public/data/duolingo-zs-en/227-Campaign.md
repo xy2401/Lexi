@@ -63,83 +63,176 @@ bill, by then, campaign, candidate, elect, furthermore, going to be, opponent, p
 
 <quiz-sentence-builder>
 
-1. **中文**：议会昨天下午投票通过了这项新的环境保护法案。  
-   **英文**：Parliament voted to pass the new environmental protection bill yesterday afternoon.
-   > **解析**：`bill` 在政治与法律情境中指“法案；议案”。搭配 `pass a bill`（通过法案）。
+1. **中文**：选举候选人承诺降低财产税。  
+   **英文**：The election candidate promises to lower property taxes.
+   > **解析**：candidate 表示候选人。
 
-2. **中文**：每位总统候选人都在电视辩论中阐述了自己的政策纲领。  
-   **英文**：Each presidential candidate presented their policy platform during the televised debate.
-   > **解析**：`candidate` 可数名词，意为“候选人；应试者”。
+2. **中文**：市民们将在下个月选举出一名新市长。  
+   **英文**：Citizens will elect a new city mayor next month.
+   > **解析**：elect 表示选举。
 
-3. **中文**：她在发表胜利演讲前与她的主要政治对手握手。  
-   **英文**：She shook hands with her main political opponent before delivering her victory speech.
-   > **解析**：`opponent` 可数名词，意为“对手；反对者”。
+3. **中文**：她的政治竞选活动专注于改善公共教育。  
+   **英文**：Her political campaign focused on improving public education.
+   > **解析**：campaign 表示竞选活动。
 
-4. **中文**：竞选经理回答了几个关于候选人医疗保健策略的问题。  
-   **英文**：The campaign manager answered several questions regarding the candidate's healthcare strategy.
-   > **解析**：`regarding` 介词，意为“关于；至于”，相当于 `about` 或 `concerning`。
+4. **中文**：辩论者强烈批评了她的主要竞争对手。  
+   **英文**：The debater strongly criticized her main opponent.
+   > **解析**：opponent 表示对手。
 
-5. **中文**：气候变化对世界各地的沿海社区构成了严重的威胁。  
-   **英文**：Climate change poses a severe threat to coastal communities around the world.
-   > **解析**：`threat` 名词，意为“威胁；恐吓”。固定搭配 `pose a threat to...`（对……构成威胁）。
+5. **中文**：当地代表昨天发表了一篇鼓舞人心的演讲。  
+   **英文**：The local representative gave an inspiring speech yesterday.
+   > **解析**：representative 表示代表。
 
-6. **中文**：到这次竞选活动结束时，我们党将准备好实施重大税收改革。  
-   **英文**：By the end of this campaign, our party will be ready to implement major tax reforms.
-   > **解析**：`will be` 为一般将来时结构，表示将来发生的动作或状态。
+6. **中文**：国会表决通过了新的医疗保健法案。  
+   **英文**：Congress voted to pass the new healthcare bill.
+   > **解析**：bill 表示法案。
 
-7. **中文**：没有公众支持，该候选人将没有足够的选票来确保胜利。  
-   **英文**：Without public support, the candidate won't have enough votes to secure victory.
-   > **解析**：`won't have` 为 `will not have` 的缩略形式，表将来否定的持有状态。
+7. **中文**：他们希望议会将通过这项环境法律。  
+   **英文**：They hope the council will pass this environment law.
+   > **解析**：pass 表示通过（法律）。
 
-8. **中文**：选举结果将于今晚公布，到那时每个人都会知道赢家是谁。  
-   **英文**：The election results will be announced tonight, and by then everyone will know the winner.
-   > **解析**：`by then` 为时间副词短语，意为“到那时”，常用于主句为将来时或完成时的语境中。
+8. **中文**：我们需要一位敢于为工人权益站出来据理力争的领导者。  
+   **英文**：We need a leader who will stand up for worker rights.
+   > **解析**：stand up for 表示维护、站出来支持。
 
-9. **中文**：该政策将创造就业机会；此外，它还将促进小微企业投资。  
-   **英文**：The policy will create jobs; furthermore, it will boost small business investments.
-   > **解析**：`furthermore` 递进副词，意为“此外；而且”，用于连接两个递进关系的并列句。
+9. **中文**：言论自由是一项基本人权。  
+   **英文**：Freedom of speech is a fundamental human right.
+   > **解析**：right 表示权利。
 
-10. **中文**：市长承诺市议会将通过经济适用房立法。  
-   **英文**：The mayor promised that the city council would pass the affordable housing legislation.
-   > **解析**：`pass` 及物动词，在法律与选举中意为“通过（法律、议案）”。
+10. **中文**：我写信给您是关于当地公园建议案事宜。  
+   **英文**：I am writing to you regarding the local park proposal.
+   > **解析**：regarding 表示关于。
+
+11. **中文**：该税收计划是不公平的；此外，它还将损害小企业。  
+   **英文**：The tax plan is unfair; furthermore, it will harm small businesses.
+   > **解析**：furthermore 表示此外、而且。
+
+12. **中文**：气候变化对沿海城市构成了严重威胁。  
+   **英文**：Climate change poses a severe threat to coastal cities.
+   > **解析**：threat 表示威胁。
+
+13. **中文**：社区联合起来反对城市中的家庭暴力。  
+   **英文**：The community rallied against domestic violence in the city.
+   > **解析**：violence 表示暴力。
+
+14. **中文**：警方向公众保证局势已在控制之中。  
+   **英文**：Police assured the public that the situation is under control.
+   > **解析**：under control 表示在控制之中。
+
+15. **中文**：到那时，投票结果将已经公布。  
+   **英文**：By then, the voting results will already be announced.
+   > **解析**：by then 表示到那时。
+
+16. **中文**：明天晚上将有一场热烈的辩论。  
+   **英文**：There is going to be a lively debate tomorrow evening.
+   > **解析**：going to be 表示将会有。
+
+17. **中文**：新州长将于下周二就职。  
+   **英文**：The new governor will be inaugurated next Tuesday.
+   > **解析**：will be 表示将会。
+
+18. **中文**：到明年，市长将已经服满整整两届任期。  
+   **英文**：By next year, the mayor will have served two full terms.
+   > **解析**：will have done 表示将来完成时。
+
+19. **中文**：你今晚会参加政治集会吗？  
+   **英文**：Will you be attending the political rally tonight?
+   > **解析**：Will you be doing... 表示“你届时会做……吗？”
+
+20. **中文**：该候选人将没有足够的选票在初选中胜出。  
+   **英文**：The candidate won't have enough votes to win the primary.
+   > **解析**：won't have 表示将没有。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Parliament voted to pass the new environmental protection bill yesterday afternoon.
-   > **中文**：议会昨天下午投票通过了这项新的环境保护法案。
+1. The election candidate promises to lower property taxes.
+   > **中文**：选举候选人承诺降低财产税。
 
-2. Each presidential candidate presented their policy platform during the televised debate.
-   > **中文**：每位总统候选人都在电视辩论中阐述了自己的政策纲领。
+2. Citizens will elect a new city mayor next month.
+   > **中文**：市民们将在下个月选举出一名新市长。
 
-3. She shook hands with her main political opponent before delivering her victory speech.
-   > **中文**：她在发表胜利演讲前与她的主要政治对手握手。
+3. Her political campaign focused on improving public education.
+   > **中文**：她的政治竞选活动专注于改善公共教育。
 
-4. The campaign manager answered several questions regarding the candidate's healthcare strategy.
-   > **中文**：竞选经理回答了几个关于候选人医疗保健策略的问题。
+4. The debater strongly criticized her main opponent.
+   > **中文**：辩论者强烈批评了她的主要竞争对手。
 
-5. Climate change poses a severe threat to coastal communities around the world.
-   > **中文**：气候变化对世界各地的沿海社区构成了严重的威胁。
+5. The local representative gave an inspiring speech yesterday.
+   > **中文**：当地代表昨天发表了一篇鼓舞人心的演讲。
 
-6. By the end of this campaign, our party will be ready to implement major tax reforms.
-   > **中文**：到这次竞选活动结束时，我们党将准备好实施重大税收改革。
+6. Congress voted to pass the new healthcare bill.
+   > **中文**：国会表决通过了新的医疗保健法案。
 
-7. Without public support, the candidate won't have enough votes to secure victory.
-   > **中文**：没有公众支持，该候选人将没有足够的选票来确保胜利。
+7. They hope the council will pass this environment law.
+   > **中文**：他们希望议会将通过这项环境法律。
 
-8. The election results will be announced tonight, and by then everyone will know the winner.
-   > **中文**：选举结果将于今晚公布，到那时每个人都会知道赢家是谁。
+8. We need a leader who will stand up for worker rights.
+   > **中文**：我们需要一位敢于为工人权益站出来据理力争的领导者。
 
-9. The policy will create jobs; furthermore, it will boost small business investments.
-   > **中文**：该政策将创造就业机会；此外，它还将促进小微企业投资。
+9. Freedom of speech is a fundamental human right.
+   > **中文**：言论自由是一项基本人权。
 
-10. The mayor promised that the city council would pass the affordable housing legislation.
-   > **中文**：市长承诺市议会将通过经济适用房立法。
+10. I am writing to you regarding the local park proposal.
+   > **中文**：我写信给您是关于当地公园建议案事宜。
+
+11. The tax plan is unfair; furthermore, it will harm small businesses.
+   > **中文**：该税收计划是不公平的；此外，它还将损害小企业。
+
+12. Climate change poses a severe threat to coastal cities.
+   > **中文**：气候变化对沿海城市构成了严重威胁。
+
+13. The community rallied against domestic violence in the city.
+   > **中文**：社区联合起来反对城市中的家庭暴力。
+
+14. Police assured the public that the situation is under control.
+   > **中文**：警方向公众保证局势已在控制之中。
+
+15. By then, the voting results will already be announced.
+   > **中文**：到那时，投票结果将已经公布。
+
+16. There is going to be a lively debate tomorrow evening.
+   > **中文**：明天晚上将有一场热烈的辩论。
+
+17. The new governor will be inaugurated next Tuesday.
+   > **中文**：新州长将于下周二就职。
+
+18. By next year, the mayor will have served two full terms.
+   > **中文**：到明年，市长将已经服满整整两届任期。
+
+19. Will you be attending the political rally tonight?
+   > **中文**：你今晚会参加政治集会吗？
+
+20. The candidate won't have enough votes to win the primary.
+   > **中文**：该候选人将没有足够的选票在初选中胜出。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| `bill` | 法案 |
+| `by then` | 到那时 |
+| `campaign` | 竞选活动 |
+| `candidate` | 候选人 |
+| `elect` | 选举 |
+| `furthermore` | 此外；而且 |
+| `going to be` | 将会有 |
+| `opponent` | 竞争对手 |
+| `pass` | 通过（法律） |
+| `regarding` | 关于 |
+| `representative` | 代表 |
+| `right` | 权利 |
+| `stand up for` | 为……站出来支持/据理力争 |
+| `threat` | 威胁 |
+| `under control` | 在控制之中 |
+| `violence` | 暴力 |
+| `will be` | 将会是 |
+| `will have` | 将会拥有/已经完成 |
+| `will you be` | 你届时会……吗 |
+| `won't have` | 将没有 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ bill, by then, campaign, candidate, elect, furthermore, going to be, opponent, p
 
 ### 1
 
-Parliament voted to pass the new environmental protection `____` yesterday afternoon.
+The election ____ promises to lower property taxes.
 
-- [x] bill
+- [x] candidate
+- [ ] bill
 - [ ] by then
-- [ ] furthermore
 
-> **解析**：`bill` 在政治与法律情境中指“法案；议案”。搭配 `pass a bill`（通过法案）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Each presidential `____` presented their policy platform during the televised debate.
+Citizens will ____ a new city mayor next month.
 
-- [x] candidate
+- [x] elect
+- [ ] bill
 - [ ] by then
-- [ ] going to be
 
-> **解析**：`candidate` 可数名词，意为“候选人；应试者”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-She shook hands with her main political `____` before delivering her victory speech.
+Her political ____ focused on improving public education.
 
-- [x] opponent
-- [ ] campaign
-- [ ] going to be
+- [x] campaign
+- [ ] bill
+- [ ] by then
 
-> **解析**：`opponent` 可数名词，意为“对手；反对者”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The `____` manager answered several questions regarding the candidate's healthcare strategy.
+The debater strongly criticized her main ____.
 
-- [x] campaign
-- [ ] elect
-- [ ] pass
+- [x] opponent
+- [ ] bill
+- [ ] by then
 
-> **解析**：`regarding` 介词，意为“关于；至于”，相当于 `about` 或 `concerning`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Climate change poses a severe `____` to coastal communities around the world.
+The local ____ gave an inspiring speech yesterday.
 
-- [x] threat
-- [ ] elect
-- [ ] pass
+- [x] representative
+- [ ] bill
+- [ ] by then
 
-> **解析**：`threat` 名词，意为“威胁；恐吓”。固定搭配 `pose a threat to...`（对……构成威胁）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-By the end of this campaign, our party `____` ready to implement major tax reforms.
+Congress voted to ____ the new healthcare bill.
 
-- [x] will be
-- [ ] furthermore
-- [ ] put
+- [x] pass
+- [ ] bill
+- [ ] by then
 
-> **解析**：`will be` 为一般将来时结构，表示将来发生的动作或状态。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Without public support, the candidate `____` enough votes to secure victory.
+They hope the council will ____ this environment law.
 
-- [x] won't have
-- [ ] going to be
-- [ ] regarding
+- [x] pass
+- [ ] bill
+- [ ] by then
 
-> **解析**：`won't have` 为 `will not have` 的缩略形式，表将来否定的持有状态。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The election results will be announced tonight, and `____` everyone will know the winner.
+We need a ____ who will stand up for worker rights.
 
-- [x] by then
-- [ ] pass
-- [ ] right
+- [x] leader
+- [ ] bill
+- [ ] by then
 
-> **解析**：`by then` 为时间副词短语，意为“到那时”，常用于主句为将来时或完成时的语境中。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The policy will create jobs; `____`, it will boost small business investments.
+Freedom of speech is a fundamental human ____.
 
-- [x] furthermore
-- [ ] put
-- [ ] stand up for
+- [x] right
+- [ ] bill
+- [ ] by then
 
-> **解析**：`furthermore` 递进副词，意为“此外；而且”，用于连接两个递进关系的并列句。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The mayor promised that the city council would `____` the affordable housing legislation.
+I am writing to you ____ the local park proposal.
 
-- [x] pass
-- [ ] regarding
-- [ ] threat
+- [x] regarding
+- [ ] bill
+- [ ] by then
 
-> **解析**：`pass` 及物动词，在法律与选举中意为“通过（法律、议案）”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The tax plan is unfair; ____, it will harm small businesses.
+
+- [x] furthermore
+- [ ] bill
+- [ ] by then
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Climate change poses a severe ____ to coastal cities.
+
+- [x] threat
+- [ ] bill
+- [ ] by then
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The community rallied against domestic ____ in the city.
+
+- [x] violence
+- [ ] bill
+- [ ] by then
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Police assured the public that the ____ is under control.
+
+- [x] situation
+- [ ] bill
+- [ ] by then
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+By then, the voting results will already be ____.
+
+- [x] announced
+- [ ] bill
+- [ ] by then
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+There is going to be a lively debate ____ evening.
+
+- [x] tomorrow
+- [ ] bill
+- [ ] by then
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The new governor will be ____ next Tuesday.
+
+- [x] inaugurated
+- [ ] bill
+- [ ] by then
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+By next year, the mayor will have ____ two full terms.
+
+- [x] served
+- [ ] bill
+- [ ] by then
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Will you be ____ the political rally tonight?
+
+- [x] attending
+- [ ] bill
+- [ ] by then
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+The ____ won't have enough votes to win the primary.
+
+- [x] candidate
+- [ ] bill
+- [ ] by then
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

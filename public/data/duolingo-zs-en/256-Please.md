@@ -79,83 +79,176 @@ too much to ask（要求太过分）、inconvenient（不方便）、trouble（�
 
 <quiz-sentence-builder>
 
-1. **中文**：我出差期间，您是否愿意考虑照顾一下我的猫？  
-   **英文**：Would you consider taking care of my cat while I am out of town.
-   > **解析**：`Would you consider doing sth` 是极其礼貌委婉的提议/请求句型。
+1. **中文**：你愿意考虑周末帮我照顾宠物吗？
+   **英文**：Would you consider looking after my pet this weekend?
+   > **解析**：would you consider 意为你愿意考虑一下吗。
 
-2. **中文**：我的邻居主动提出这周末帮我浇花园。  
-   **英文**：My neighbor offered to help out with watering my garden this weekend.
-   > **解析**：`help out` 是短语动词，意为“帮忙、分担难题”。
+2. **中文**：我在想，你这周六是否有空帮我个忙。
+   **英文**：I was wondering if you had time to do me a favor this Saturday.
+   > **解析**：I was wondering 意为我在想……
 
-3. **中文**：如果您需要任何协助，请毫不犹豫地给我打电话。  
-   **英文**：Please do not hesitate to call me if you need any assistance.
-   > **解析**：`hesitate` 作不及物动词，固定搭配 `do not hesitate to do sth`。
+3. **中文**：别有压力，但如果你能帮忙的话我会非常感激。
+   **英文**：No pressure, but I would really appreciate it if you could help.
+   > **解析**：no pressure 意为别有压力、不勉强。
 
-4. **中文**：下次你需要帮忙搬家时，我一定会还你这个人情。  
-   **英文**：I will definitely return the favor next time you need help with moving.
-   > **解析**：`return the favor` 是固定短语，意为“报答恩情、还人情”。
+4. **中文**：我希望要求你顺路接我一下不会太过于过分。
+   **英文**：I hope it is not too much to ask for a ride home.
+   > **解析**：too much to ask 意为要求太过分。
 
-5. **中文**：我们非常希望你能来参加晚宴，但如果你忙的话也没关系，不要有压力。  
-   **英文**：We would love to have you at the dinner party, but no pressure if you're busy.
-   > **解析**：`no pressure` 是口语贴心表达，意为“没有压力、不必勉强”。
+5. **中文**：感谢你的帮助，我下周一定会还你这个人情的。
+   **英文**：Thank you for your help; I will return the favor next week.
+   > **解析**：return the favor 意为回报、还人情。
 
-6. **中文**：如果明天早上开会不方便的话，请告诉我。  
-   **英文**：Let me know if tomorrow morning is inconvenient for our meeting.
-   > **解析**：`inconvenient` 是形容词，意为“不方便的、麻烦的”，作表语。
+6. **中文**：我会请你吃晚饭来弥补给你带来的困扰。
+   **英文**：I will buy you dinner to make up for the inconvenience.
+   > **解析**：make up for 意为补偿、弥补。
 
-7. **中文**：我明天请你吃午饭，以弥补我今天迟到的过失。  
-   **英文**：I will buy you lunch tomorrow to make up for my late arrival today.
-   > **解析**：`make up for sth` 是固定短语动词，意为“弥补、补偿”。
+7. **中文**：你能在我们准备派对的时候搭把手吗？
+   **英文**：Can you help out while we prepare for the birthday party?
+   > **解析**：help out 意为帮忙、搭把手。
 
-8. **中文**：我想知道您是否能把梯子借给我用几个小时。  
-   **英文**：I was wondering if you could lend me your ladder for a few hours.
-   > **解析**：`I was wondering if...` 是非常地道和有礼貌的请求句型。
+8. **中文**：如果你需要任何协助，请随时提出，不要犹豫。
+   **英文**：Please do not hesitate to ask if you need further assistance.
+   > **解析**：hesitate 意为犹豫。
 
-9. **中文**：戴维斯先生因公出差在外地，直到下周四才回来。  
-   **英文**：Mr. Davis will be out of town on business until next Thursday (make up for) about alternatively.
-   > **解析**：`out of town` 是介词短语，意为“在出差/不在城里”。
+9. **中文**：如果现在提这个问题太不方便，我们可以改天再谈。
+   **英文**：If it is inconvenient right now, we can talk another time.
+   > **解析**：inconvenient 意为不方便的。
 
-10. **中文**：有没有可能把我们的预约改期到周三下午？  
-   **英文**：Is it possible to rearrange our appointment to Wednesday afternoon?
-   > **解析**：`rearrange` 作动词，意为“重新安排、改期”，宾语为 `appointment`。
+10. **中文**：抱歉给你添麻烦了，非常感谢你的耐心。
+   **英文**：Sorry for the trouble, and thank you so much for your patience.
+   > **解析**：trouble 意为麻烦。
+
+11. **中文**：我能请你帮个小忙吗，就几分钟时间。
+   **英文**：Could you do me a quick favor for just a few minutes?
+   > **解析**：favor 意为帮忙、恩惠。
+
+12. **中文**：或者，我们可以重新安排时间在周日见面。
+   **英文**：Alternatively, we could rearrange our schedule to meet on Sunday.
+   > **解析**：alternatively 意为或者、作为替代。
+
+13. **中文**：我需要重新安排行程以配合你的时间。
+   **英文**：I need to rearrange my schedule to match your free time.
+   > **解析**：rearrange 意为重新安排。
+
+14. **中文**：我花了很长时间才说服他参加这次活动。
+   **英文**：It took me a long time to persuade him to join the event.
+   > **解析**：persuade 意为说服。
+
+15. **中文**：别担心，我们会想办法解决这个棘手的问题。
+   **英文**：Don't worry, we will figure out a solution to this problem.
+   > **解析**：figure 意为想办法、弄清楚。
+
+16. **中文**：我下周要出远门，所以需要有人帮忙浇花。
+   **英文**：I will be out of town next week, so I need help watering plants.
+   > **解析**：out of town 意为不在城里、出远门。
+
+17. **中文**：你还给我买了一杯咖啡，真是太体贴了。
+   **英文**：It was very thoughtful of you to bring me a cup of coffee.
+   > **解析**：thoughtful 意为体贴的、周到的。
+
+18. **中文**：我在出远门期间需要有人帮忙做些园艺活。
+   **英文**：I need someone to help with gardening while I am away.
+   > **解析**：gardening 意为园艺、打理花园。
+
+19. **中文**：你能帮我开一下大门锁吗，我的双手拿满了东西。
+   **英文**：Could you unlock the front door for me since my hands are full?
+   > **解析**：unlock 意为开锁、解锁。
+
+20. **中文**：你是否可能今晚抽空查收一下我发给你的电子邮件？
+   **英文**：Might you have time to check the email I sent you tonight?
+   > **解析**：might you 意为你是否可能……
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Would you consider taking care of my cat while I am out of town.
-   > **中文**：我出差期间，您是否愿意考虑照顾一下我的猫？
+1. Would you consider looking after my pet this weekend?
+   > **中文**：你愿意考虑周末帮我照顾宠物吗？
 
-2. My neighbor offered to help out with watering my garden this weekend.
-   > **中文**：我的邻居主动提出这周末帮我浇花园。
+2. I was wondering if you had time to do me a favor this Saturday.
+   > **中文**：我在想，你这周六是否有空帮我个忙。
 
-3. Please do not hesitate to call me if you need any assistance.
-   > **中文**：如果您需要任何协助，请毫不犹豫地给我打电话。
+3. No pressure, but I would really appreciate it if you could help.
+   > **中文**：别有压力，但如果你能帮忙的话我会非常感激。
 
-4. I will definitely return the favor next time you need help with moving.
-   > **中文**：下次你需要帮忙搬家时，我一定会还你这个人情。
+4. I hope it is not too much to ask for a ride home.
+   > **中文**：我希望要求你顺路接我一下不会太过于过分。
 
-5. We would love to have you at the dinner party, but no pressure if you're busy.
-   > **中文**：我们非常希望你能来参加晚宴，但如果你忙的话也没关系，不要有压力。
+5. Thank you for your help; I will return the favor next week.
+   > **中文**：感谢你的帮助，我下周一定会还你这个人情的。
 
-6. Let me know if tomorrow morning is inconvenient for our meeting.
-   > **中文**：如果明天早上开会不方便的话，请告诉我。
+6. I will buy you dinner to make up for the inconvenience.
+   > **中文**：我会请你吃晚饭来弥补给你带来的困扰。
 
-7. I will buy you lunch tomorrow to make up for my late arrival today.
-   > **中文**：我明天请你吃午饭，以弥补我今天迟到的过失。
+7. Can you help out while we prepare for the birthday party?
+   > **中文**：你能在我们准备派对的时候搭把手吗？
 
-8. I was wondering if you could lend me your ladder for a few hours.
-   > **中文**：我想知道您是否能把梯子借给我用几个小时。
+8. Please do not hesitate to ask if you need further assistance.
+   > **中文**：如果你需要任何协助，请随时提出，不要犹豫。
 
-9. Mr. Davis will be out of town on business until next Thursday (make up for) about alternatively.
-   > **中文**：戴维斯先生因公出差在外地，直到下周四才回来。
+9. If it is inconvenient right now, we can talk another time.
+   > **中文**：如果现在提这个问题太不方便，我们可以改天再谈。
 
-10. Is it possible to rearrange our appointment to Wednesday afternoon?
-   > **中文**：有没有可能把我们的预约改期到周三下午？
+10. Sorry for the trouble, and thank you so much for your patience.
+   > **中文**：抱歉给你添麻烦了，非常感谢你的耐心。
+
+11. Could you do me a quick favor for just a few minutes?
+   > **中文**：我能请你帮个小忙吗，就几分钟时间。
+
+12. Alternatively, we could rearrange our schedule to meet on Sunday.
+   > **中文**：或者，我们可以重新安排时间在周日见面。
+
+13. I need to rearrange my schedule to match your free time.
+   > **中文**：我需要重新安排行程以配合你的时间。
+
+14. It took me a long time to persuade him to join the event.
+   > **中文**：我花了很长时间才说服他参加这次活动。
+
+15. Don't worry, we will figure out a solution to this problem.
+   > **中文**：别担心，我们会想办法解决这个棘手的问题。
+
+16. I will be out of town next week, so I need help watering plants.
+   > **中文**：我下周要出远门，所以需要有人帮忙浇花。
+
+17. It was very thoughtful of you to bring me a cup of coffee.
+   > **中文**：你还给我买了一杯咖啡，真是太体贴了。
+
+18. I need someone to help with gardening while I am away.
+   > **中文**：我在出远门期间需要有人帮忙做些园艺活。
+
+19. Could you unlock the front door for me since my hands are full?
+   > **中文**：你能帮我开一下大门锁吗，我的双手拿满了东西。
+
+20. Might you have time to check the email I sent you tonight?
+   > **中文**：你是否可能今晚抽空查收一下我发给你的电子邮件？
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| would you consider | 你愿意考虑一下吗 |
+| I was wondering | 我在想…… |
+| might you | 你是否可能…… |
+| no pressure | 别有压力；不勉强 |
+| too much to ask | 要求太过分 |
+| return the favor | 回报；还人情 |
+| make up for | 补偿；弥补 |
+| help out | 帮忙；搭把手 |
+| hesitate | 犹豫 |
+| inconvenient | 不方便的 |
+| trouble | 麻烦 |
+| favor | 帮忙；恩惠 |
+| alternatively | 或者；作为替代 |
+| rearrange | 重新安排 |
+| persuade | 说服 |
+| figure | 想办法；弄清楚 |
+| out of town | 不在城里；出远门 |
+| thoughtful | 体贴的；周到的 |
+| gardening | 园艺；打理花园 |
+| unlock | 开锁；解锁 |
 
 </quiz-matching>
 
@@ -163,102 +256,202 @@ too much to ask（要求太过分）、inconvenient（不方便）、trouble（�
 
 ### 1
 
-Would you consider taking care of my cat while I am `____`.
+Would you ____ looking after my pet this weekend?
 
-- [x] out of town
+- [x] consider
 - [ ] alternatively
-- [ ] gardening
+- [ ] ever
 
-> **解析**：`Would you consider doing sth` 是极其礼貌委婉的提议/请求句型。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-My neighbor offered to `____` with watering my garden this weekend.
+I was ____ if you had time to do me a favor this Saturday.
 
-- [x] help out
+- [x] wondering
+- [ ] alternatively
 - [ ] ever
-- [ ] hesitate
 
-> **解析**：`help out` 是短语动词，意为“帮忙、分担难题”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Please do not `____` to call me if you need any assistance.
+No pressure, but I would ____ appreciate it if you could help.
 
-- [x] hesitate
-- [ ] favor
-- [ ] inconvenient
+- [x] really
+- [ ] alternatively
+- [ ] ever
 
-> **解析**：`hesitate` 作不及物动词，固定搭配 `do not hesitate to do sth`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-I will definitely return the `____` next time you need help with moving.
+I ____ it is not too much to ask for a ride home.
 
-- [x] favor
-- [ ] gardening
-- [ ] make up for
+- [x] hope
+- [ ] alternatively
+- [ ] ever
 
-> **解析**：`return the favor` 是固定短语，意为“报答恩情、还人情”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-We would love to have you at the dinner party, but `____` if you're busy.
+Thank you for your help; I will return the ____ next week.
 
-- [x] no pressure
-- [ ] gardening
-- [ ] make up for
+- [x] favor
+- [ ] alternatively
+- [ ] ever
 
-> **解析**：`no pressure` 是口语贴心表达，意为“没有压力、不必勉强”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Let me know if tomorrow morning is `____` for our meeting.
+I will buy you dinner to make up for the ____.
 
-- [x] inconvenient
-- [ ] help out
-- [ ] no pressure
+- [x] inconvenience
+- [ ] alternatively
+- [ ] ever
 
-> **解析**：`inconvenient` 是形容词，意为“不方便的、麻烦的”，作表语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-I will buy you lunch tomorrow to `____` my late arrival today.
+Can you help out while we prepare for the ____ party?
 
-- [x] make up for
-- [ ] hesitate
-- [ ] of me
+- [x] birthday
+- [ ] alternatively
+- [ ] ever
 
-> **解析**：`make up for sth` 是固定短语动词，意为“弥补、补偿”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-I was `____` if you could lend me your ladder for a few hours.
+Please do not ____ to ask if you need further assistance.
 
-- [x] wondering
-- [ ] inconvenient
-- [ ] of me
+- [x] hesitate
+- [ ] alternatively
+- [ ] ever
 
-> **解析**：`I was wondering if...` 是非常地道和有礼貌的请求句型。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Mr. Davis will be out of town on business until next Thursday (make up for) about `____`.
+If it is ____ right now, we can talk another time.
 
-- [x] alternatively
-- [ ] might you
-- [ ] persuade
+- [x] inconvenient
+- [ ] alternatively
+- [ ] ever
 
-> **解析**：`out of town` 是介词短语，意为“在出差/不在城里”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Is it possible to `____` our appointment to Wednesday afternoon?
+Sorry for the ____, and thank you so much for your patience.
+
+- [x] trouble
+- [ ] alternatively
+- [ ] ever
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Could you do me a quick ____ for just a few minutes?
+
+- [x] favor
+- [ ] alternatively
+- [ ] ever
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+____, we could rearrange our schedule to meet on Sunday.
+
+- [x] Alternatively
+- [ ] ever
+- [ ] favor
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+I need to ____ my schedule to match your free time.
 
 - [x] rearrange
-- [ ] might you
-- [ ] persuade
+- [ ] alternatively
+- [ ] ever
 
-> **解析**：`rearrange` 作动词，意为“重新安排、改期”，宾语为 `appointment`。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+It took me a long time to ____ him to join the event.
+
+- [x] persuade
+- [ ] alternatively
+- [ ] ever
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Don't worry, we will ____ out a solution to this problem.
+
+- [x] figure
+- [ ] alternatively
+- [ ] ever
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+I will be out of town next week, so I need help ____ plants.
+
+- [x] watering
+- [ ] alternatively
+- [ ] ever
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+It was very ____ of you to bring me a cup of coffee.
+
+- [x] thoughtful
+- [ ] alternatively
+- [ ] ever
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+I need someone to help with ____ while I am away.
+
+- [x] gardening
+- [ ] alternatively
+- [ ] ever
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Could you ____ the front door for me since my hands are full?
+
+- [x] unlock
+- [ ] alternatively
+- [ ] ever
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Might you have time to check the email I sent you ____?
+
+- [x] tonight
+- [ ] alternatively
+- [ ] ever
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

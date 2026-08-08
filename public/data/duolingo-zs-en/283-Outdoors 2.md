@@ -65,83 +65,176 @@ assuming that, attempt, attempt to, be able to, canyon, conditions, daylight, de
 
 <quiz-sentence-builder>
 
-1. **中文**：我们决定沿着这条风景优美的山路徒步旅行一天。  
-   **英文**：We decided to take a day hike along the scenic mountain trail.
-   > **解析**：`hike` 在此作名词（也可作动词），意为“徒步旅行、远足”。短语 `day hike` 指“一日徒步”。
+1. **中文**：只要天气保持晴朗，我们明天就可以开始徒步。
+   **英文**：Provided the weather stays clear, we can start our hike tomorrow.
+   > **解析**：Provided 表示“只要、前提是”。
 
-2. **中文**：他们在河边找了一块平地搭起了帐篷。  
-   **英文**：They found a flat piece of land near the river to pitch a tent about attempt.
-   > **解析**：`pitch a tent` 是固定动词短语，意为“搭帐篷”，其中 `pitch` 意为“搭建/立起”。
+2. **中文**：只要我们紧跟在一起，就不会迷路。
+   **英文**：So long as we stick together, we won't lose our way.
+   > **解析**：So long as 表达前提条件，意为“只要”。
 
-3. **中文**：到达崖顶可以俯瞰山谷令人屏息的优美景色。  
-   **英文**：Reaching the top of the cliff offered a breathtaking scenic view of the valley assuming that.
-   > **解析**：`scenic view` 是名词短语，意为“优美风光、景观视角”，作句中的宾语。
+3. **中文**：假设步道是开放的，我们将在中午前到达。
+   **英文**：Assuming that the trail is open, we will arrive by noon.
+   > **解析**：Assuming that 表示“假设、假定”。
 
-4. **中文**：这座国家公园是许多受保护野生动植物的家园。  
-   **英文**：The national park is home to a wide variety of protected wildlife.
-   > **解析**：`wildlife` 是不可数名词，意为“野生动植物”，由 `wild` + `life` 复合而成。
+4. **中文**：我们这周末去河上漂流怎么样？
+   **英文**：How about we go rafting on the river this weekend?
+   > **解析**：rafting 表示漂流活动。
 
-5. **中文**：围坐在温暖的篝火旁，他们在星空下唱起了歌。  
-   **英文**：Sitting around the warm campfire, they sang songs under the starry sky about canyon.
-   > **解析**：`campfire` 是名词，意为“篝火、营火”，由 `camp` + `fire` 构成。
+5. **中文**：他们决定去穿越整条山脉徒步旅行。
+   **英文**：They decided to go trekking across the mountain range.
+   > **解析**：trekking 表示徒步旅行、长途跋涉。
 
-6. **中文**：租一艘皮划艇可以让你探索沿湖隐藏的宁静溶洞。  
-   **英文**：Renting a kayak allows you to explore the peaceful hidden caves along the lake about conditions.
-   > **解析**：`kayak` 在此作名词，意为“皮划艇/独木舟”；亦可作动词表示“划皮划艇”。
+6. **中文**：我们在非洲游猎观赏野生动物时看见了一头野生花豹。
+   **英文**：We saw a wild leopard while on safari in Africa.
+   > **解析**：safari 专指野外观赏野生动物的旅行。
 
-7. **中文**：经过六个小时的持续攀登，登山者们终于到达了山顶。  
-   **英文**：After six hours of steady climbing, the hikers finally reached the mountain summit.
-   > **解析**：`summit` 是名词，意为“山顶、顶峰”，也可引申为政治上的“峰会”。
+7. **中文**：登山者们尝试登顶山峰。
+   **英文**：The climbers made an attempt to reach the summit.
+   > **解析**：reach the summit 表示达到顶峰、登顶。
 
-8. **中文**：穿越未经开发的荒野徒步背包旅行需要妥善的安全装备与准备。  
-   **英文**：Backpacking through the untouched wilderness requires proper safety gear and preparation.
-   > **解析**：`wilderness` 是名词，意为“荒野、原野”，指天然未破坏的野外环境。
+8. **中文**：这条河流穿过一条又深又窄的峡谷。
+   **英文**：The river flows through a deep and narrow canyon.
+   > **解析**：canyon 指两侧峭壁陡峭的峡谷。
 
-9. **中文**：下班后去外面散散步是享受新鲜空气的好方法。  
-   **英文**：Taking a walk outside is a great way to enjoy some fresh air after work attempt to.
-   > **解析**：`fresh air` 是名词短语，意为“新鲜空气”，作动词 `enjoy` 的宾语。
+9. **中文**：一定要喝水，这样你才不会脱水。
+   **英文**：Make sure to drink water so you don't get dehydrated.
+   > **解析**：dehydrated 表示脱水的。
 
-10. **中文**：仔细沿着标记好的小路走，这样你才不会在森林里迷路。  
-   **英文**：Follow the marked trail carefully so that you do not get lost in the forest be able to.
-   > **解析**：`trail` 是名词，意为“小径、山路”，常用搭配 `marked trail`（带标记的小路）。
+10. **中文**：经常休息，这样你就不会运动过头。
+   **英文**：Take breaks frequently so that you don't overdo it.
+   > **解析**：overdo it 表示做事过头、太拼命。
+
+11. **中文**：小心点，因为这个灌木丛上的某些浆果是有毒的。
+   **英文**：Be careful because some berries on this bush are poisonous.
+   > **解析**：poisonous 表示有毒的。
+
+12. **中文**：出发前仔细检查你的露营装备。
+   **英文**：Double-check your camping gear before setting off.
+   > **解析**：gear 不可数名词，指装备、器材。
+
+13. **中文**：这座山村展现出了山谷风光如画的景观。
+   **英文**：The mountain village offers a picturesque view of the valley.
+   > **解析**：picturesque 形容风景像画一样美丽。
+
+14. **中文**：我们需要在仍有日光的时候尽早出发。
+   **英文**：We need to set off early while there is still daylight.
+   > **解析**：daylight 指日光、白天。
+
+15. **中文**：你必须足够强壮才能背动自己的背包。
+   **英文**：You must be strong enough to carry your own backpack.
+   > **解析**：enough to 表示“足够……以至于可以做某事”。
+
+16. **中文**：我们应当能够在日落前到达营地。
+   **英文**：We should be able to reach the camp before sunset.
+   > **解析**：be able to 表示“能够”。
+
+17. **中文**：阳光太刺眼了，不戴太阳镜根本无法行走。
+   **英文**：The sun is too bright to walk without sunglasses.
+   > **解析**：too... to... 表示“太……以至于不能……”。
+
+18. **中文**：在步道上你绝不应该喂食野生动物。
+   **英文**：You should never feed wild animals on the trail.
+   > **解析**：wild 形容词，表示野生的。
+
+19. **中文**：雨后步道的状况出人意料地良好。
+   **英文**：The trail conditions were surprisingly good after the rain.
+   > **解析**：conditions 常用复数，表示路况、环境状况。
+
+20. **中文**：紧跟标记好的步道，这样你在森林里才能保持安全。
+   **英文**：Follow the marked trail so you stay safe in the forest.
+   > **解析**：trail 表示山路、步道。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We decided to take a day hike along the scenic mountain trail.
-   > **中文**：我们决定沿着这条风景优美的山路徒步旅行一天。
+1. Provided the weather stays clear, we can start our hike tomorrow.
+   > **中文**：只要天气保持晴朗，我们明天就可以开始徒步。
 
-2. They found a flat piece of land near the river to pitch a tent about attempt.
-   > **中文**：他们在河边找了一块平地搭起了帐篷。
+2. So long as we stick together, we won't lose our way.
+   > **中文**：只要我们紧跟在一起，就不会迷路。
 
-3. Reaching the top of the cliff offered a breathtaking scenic view of the valley assuming that.
-   > **中文**：到达崖顶可以俯瞰山谷令人屏息的优美景色。
+3. Assuming that the trail is open, we will arrive by noon.
+   > **中文**：假设步道是开放的，我们将在中午前到达。
 
-4. The national park is home to a wide variety of protected wildlife.
-   > **中文**：这座国家公园是许多受保护野生动植物的家园。
+4. How about we go rafting on the river this weekend?
+   > **中文**：我们这周末去河上漂流怎么样？
 
-5. Sitting around the warm campfire, they sang songs under the starry sky about canyon.
-   > **中文**：围坐在温暖的篝火旁，他们在星空下唱起了歌。
+5. They decided to go trekking across the mountain range.
+   > **中文**：他们决定去穿越整条山脉徒步旅行。
 
-6. Renting a kayak allows you to explore the peaceful hidden caves along the lake about conditions.
-   > **中文**：租一艘皮划艇可以让你探索沿湖隐藏的宁静溶洞。
+6. We saw a wild leopard while on safari in Africa.
+   > **中文**：我们在非洲游猎观赏野生动物时看见了一头野生花豹。
 
-7. After six hours of steady climbing, the hikers finally reached the mountain summit.
-   > **中文**：经过六个小时的持续攀登，登山者们终于到达了山顶。
+7. The climbers made an attempt to reach the summit.
+   > **中文**：登山者们尝试登顶山峰。
 
-8. Backpacking through the untouched wilderness requires proper safety gear and preparation.
-   > **中文**：穿越未经开发的荒野徒步背包旅行需要妥善的安全装备与准备。
+8. The river flows through a deep and narrow canyon.
+   > **中文**：这条河流穿过一条又深又窄的峡谷。
 
-9. Taking a walk outside is a great way to enjoy some fresh air after work attempt to.
-   > **中文**：下班后去外面散散步是享受新鲜空气的好方法。
+9. Make sure to drink water so you don't get dehydrated.
+   > **中文**：一定要喝水，这样你才不会脱水。
 
-10. Follow the marked trail carefully so that you do not get lost in the forest be able to.
-   > **中文**：仔细沿着标记好的小路走，这样你才不会在森林里迷路。
+10. Take breaks frequently so that you don't overdo it.
+   > **中文**：经常休息，这样你就不会运动过头。
+
+11. Be careful because some berries on this bush are poisonous.
+   > **中文**：小心点，因为这个灌木丛上的某些浆果是有毒的。
+
+12. Double-check your camping gear before setting off.
+   > **中文**：出发前仔细检查你的露营装备。
+
+13. The mountain village offers a picturesque view of the valley.
+   > **中文**：这座山村展现出了山谷风光如画的景观。
+
+14. We need to set off early while there is still daylight.
+   > **中文**：我们需要在仍有日光的时候尽早出发。
+
+15. You must be strong enough to carry your own backpack.
+   > **中文**：你必须足够强壮才能背动自己的背包。
+
+16. We should be able to reach the camp before sunset.
+   > **中文**：我们应当能够在日落前到达营地。
+
+17. The sun is too bright to walk without sunglasses.
+   > **中文**：阳光太刺眼了，不戴太阳镜根本无法行走。
+
+18. You should never feed wild animals on the trail.
+   > **中文**：在步道上你绝不应该喂食野生动物。
+
+19. The trail conditions were surprisingly good after the rain.
+   > **中文**：雨后步道的状况出人意料地良好。
+
+20. Follow the marked trail so you stay safe in the forest.
+   > **中文**：紧跟标记好的步道，这样你在森林里才能保持安全。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| provided | 只要 / 在……条件下 |
+| so long as | 只要 |
+| assuming that | 假设 / 假定 |
+| rafting | 漂流 |
+| trekking | 徒步旅行 |
+| safari | 野生动物观赏之旅 |
+| summit | 顶峰 / 山顶 |
+| canyon | 峡谷 |
+| dehydrated | 脱水的 |
+| overdo it | 做过头 / 太拼命 |
+| poisonous | 有毒的 |
+| gear | 装备 / 器材 |
+| picturesque | 风景如画的 |
+| daylight | 日光 / 白天 |
+| attempt to | 尝试做…… |
+| be able to | 能够做…… |
+| wild | 野生的 |
+| conditions | 条件 / 状况 |
+| trail | 小径 / 步道 |
+| leopard | 豹子 |
 
 </quiz-matching>
 
@@ -149,102 +242,202 @@ assuming that, attempt, attempt to, be able to, canyon, conditions, daylight, de
 
 ### 1
 
-We decided to take a day hike along the scenic mountain `____`.
+____ the weather stays clear, we can start our hike tomorrow.
 
-- [x] trail
+- [x] Provided
 - [ ] assuming that
-- [ ] canyon
+- [ ] attempt
 
-> **解析**：`hike` 在此作名词（也可作动词），意为“徒步旅行、远足”。短语 `day hike` 指“一日徒步”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-They found a flat piece of land near the river to pitch a tent about `____`.
+So long as we stick ____, we won't lose our way.
 
-- [x] attempt
-- [ ] attempt to
-- [ ] daylight
+- [x] together
+- [ ] assuming that
+- [ ] attempt
 
-> **解析**：`pitch a tent` 是固定动词短语，意为“搭帐篷”，其中 `pitch` 意为“搭建/立起”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Reaching the top of the cliff offered a breathtaking scenic view of the valley `____`.
+Assuming that the ____ is open, we will arrive by noon.
 
-- [x] assuming that
-- [ ] be able to
-- [ ] dehydrated
+- [x] trail
+- [ ] assuming that
+- [ ] attempt
 
-> **解析**：`scenic view` 是名词短语，意为“优美风光、景观视角”，作句中的宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The national park is home to a wide variety of protected `____`life.
+How about we go ____ on the river this weekend?
 
-- [x] wild
-- [ ] be able to
-- [ ] dehydrated
+- [x] rafting
+- [ ] assuming that
+- [ ] attempt
 
-> **解析**：`wildlife` 是不可数名词，意为“野生动植物”，由 `wild` + `life` 复合而成。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Sitting around the warm campfire, they sang songs under the starry sky about `____`.
+They decided to go ____ across the mountain range.
 
-- [x] canyon
-- [ ] conditions
-- [ ] gear
+- [x] trekking
+- [ ] assuming that
+- [ ] attempt
 
-> **解析**：`campfire` 是名词，意为“篝火、营火”，由 `camp` + `fire` 构成。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Renting a kayak allows you to explore the peaceful hidden caves along the lake about `____`.
+We saw a ____ leopard while on safari in Africa.
 
-- [x] conditions
-- [ ] daylight
-- [ ] how about we
+- [x] wild
+- [ ] assuming that
+- [ ] attempt
 
-> **解析**：`kayak` 在此作名词，意为“皮划艇/独木舟”；亦可作动词表示“划皮划艇”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-After six hours of steady climbing, the hikers finally reached the mountain `____`.
+The climbers made an ____ to reach the summit.
 
-- [x] summit
-- [ ] daylight
-- [ ] how about we
+- [x] attempt
+- [ ] assuming that
+- [ ] attempt to
 
-> **解析**：`summit` 是名词，意为“山顶、顶峰”，也可引申为政治上的“峰会”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Backpacking through the untouched wilderness requires proper safety `____` and preparation.
+The river flows through a deep and narrow ____.
 
-- [x] gear
-- [ ] dehydrated
-- [ ] overdo it
+- [x] canyon
+- [ ] assuming that
+- [ ] attempt
 
-> **解析**：`wilderness` 是名词，意为“荒野、原野”，指天然未破坏的野外环境。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Taking a walk outside is a great way to enjoy some fresh air after work `____`.
+Make sure to drink water so you don't get ____.
 
-- [x] attempt to
-- [ ] gear
-- [ ] picturesque
+- [x] dehydrated
+- [ ] assuming that
+- [ ] attempt
 
-> **解析**：`fresh air` 是名词短语，意为“新鲜空气”，作动词 `enjoy` 的宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Follow the marked trail carefully so that you do not get lost in the forest `____`.
+Take breaks ____ so that you don't overdo it.
 
-- [x] be able to
-- [ ] how about we
-- [ ] poisonous
+- [x] frequently
+- [ ] assuming that
+- [ ] attempt
 
-> **解析**：`trail` 是名词，意为“小径、山路”，常用搭配 `marked trail`（带标记的小路）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Be careful because some berries on this bush are ____.
+
+- [x] poisonous
+- [ ] assuming that
+- [ ] attempt
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Double-check your camping ____ before setting off.
+
+- [x] gear
+- [ ] assuming that
+- [ ] attempt
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The mountain village offers a ____ view of the valley.
+
+- [x] picturesque
+- [ ] assuming that
+- [ ] attempt
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+We need to set off early while there is still ____.
+
+- [x] daylight
+- [ ] assuming that
+- [ ] attempt
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+You must be strong enough to carry your own ____.
+
+- [x] backpack
+- [ ] assuming that
+- [ ] attempt
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+We ____ be able to reach the camp before sunset.
+
+- [x] should
+- [ ] assuming that
+- [ ] attempt
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The sun is ____ bright to walk without sunglasses.
+
+- [x] too
+- [ ] assuming that
+- [ ] attempt
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+You should never feed ____ animals on the trail.
+
+- [x] wild
+- [ ] assuming that
+- [ ] attempt
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The ____ conditions were surprisingly good after the rain.
+
+- [x] trail
+- [ ] assuming that
+- [ ] attempt
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Follow the marked ____ so you stay safe in the forest.
+
+- [x] trail
+- [ ] assuming that
+- [ ] attempt
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

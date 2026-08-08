@@ -49,83 +49,176 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
 
 <quiz-sentence-builder>
 
-1. **中文**：博物馆展览展出了一首由著名作者手写的诗歌。  
-   **英文**：The museum exhibition featured a handwritten poem by a famous author.
-   > **解析**：poem 可数名词，意为“诗；诗歌”。
+1. **中文**：我们打算在剧院看一出浪漫的情节。  
+   **英文**：We are going to watch a romantic scene in the theater.
+   > **解析**：going to 表示“将要/打算”，scene 表示“场景、一幕”。
 
-2. **中文**：博物馆导游朗诵了一位著名国家诗人创作的诗句。  
-   **英文**：The museum guide recited lines composed by a celebrated national poet.
-   > **解析**：poet 可数名词，意为“诗人”。
+2. **中文**：能与一位老诗人成为朋友真好。  
+   **英文**：It's good to be friends with an old poet.
+   > **解析**：it's good to 表示“做……真好”，be friends with 表示“与……成为朋友”，poet 表示“诗人”。
 
-3. **中文**：在戏剧的中场休息期间，博物馆嘉宾在画廊里散步。  
-   **英文**：During the intermission of the play, museum guests walked around the gallery.
-   > **解析**：intermission 可数名词，意为“中场休息；幕间休息”。
+3. **中文**：在二十分钟的中场休息期间将提供茶点。  
+   **英文**：Refreshments will be served during the twenty minute intermission.
+   > **解析**：refreshments 表示“茶点”，intermission 表示“（戏剧等的）中场休息”。
 
-4. **中文**：休息室里供应茶水和饼干等简便茶点。  
-   **英文**：Light refreshments such as tea and biscuits were served in the lounge.
-   > **解析**：refreshments 常用复数名词，意为“茶点；点心饮料”。
+4. **中文**：天哪，这是一部绝妙的文学作品！  
+   **英文**：Oh my gosh, this is a marvelous literary work!
+   > **解析**：oh my gosh 表达惊叹“天哪”，work 可作“作品”。
 
-5. **中文**：这幅油画描绘了春天宁静的乡村景象。  
-   **英文**：This oil painting depicts a peaceful countryside scene in spring.
-   > **解析**：scene 可数名词，在此意为“景象；风景；场景”。
+5. **中文**：你应该在演出前阅读英文译本。  
+   **英文**：You are supposed to read the English translation before the show.
+   > **解析**：be supposed to 表示“应该”，translation 表示“翻译、译本”。
 
-6. **中文**：古文本旁边紧挨着展示着一份英文翻译。  
-   **英文**：An English translation was displayed right next to the ancient text.
-   > **解析**：translation 可数/不可数名词，意为“翻译；译本”，动词为 translate。
+6. **中文**：这位演员经过专门训练来朗诵一首著名的诗。  
+   **英文**：The actor is specially trained to recite a famous poem.
+   > **解析**：specially 表示“专门地”，poem 表示“诗歌”。
 
-7. **中文**：参观者不应当触摸展出的历史文物。  
-   **英文**：Visitors are not supposed to touch the historical artifacts on display.
-   > **解析**：be supposed to 常用短语，在此否定形式 be not supposed to 表示“不应当；被禁止”。
+7. **中文**：请用一块干净的桌布把桌子盖上。  
+   **英文**：Please cover the table with a clean cloth.
+   > **解析**：cover ... with ... 表示“用……盖住”。
 
-8. **中文**：玻璃罩旨在覆盖并保护这件珍贵的文物。  
-   **英文**：The glass case was designed to cover and protect the rare artifact.
-   > **解析**：cover 及物动词，在此意为“覆盖；遮盖”。
+8. **中文**：复印一份剧本以便大家练习。  
+   **英文**：Make a copy of the script so everyone can practice.
+   > **解析**：copy 作名词表示“复印件、副本”。
 
-9. **中文**：礼品店出售这尊著名古代雕塑的精美复制品。  
-   **英文**：The gift shop sells an exact replica copy of the famous ancient sculpture.
-   > **解析**：copy 可数名词，意为“复制品；副本”。
+9. **中文**：你想在阳台上喝点饮料吗？  
+   **英文**：Would you like some drinks on the balcony?
+   > **解析**：on the balcony 表示“在阳台上”，would you like 表示“你想要……吗”。
 
-10. **中文**：这个房间是专门为保存珍贵的历史文献而设计的。  
-   **英文**：This room was specially designed to preserve delicate historical documents.
-   > **解析**：specially 副词，意为“专门地；特地”，修饰动词 designed。
+10. **中文**：他打算与那位有才华的导演成为朋友。  
+   **英文**：He is going to be friends with the talented director.
+   > **解析**：going to + 原形，be friends with 成为朋友。
+
+11. **中文**：在一整天的工作之后享用茶点真好。  
+   **英文**：It's good to enjoy refreshments after a long day of work.
+   > **解析**：it's good to 表示“做……真好”，refreshments 意为“茶点”。
+
+12. **中文**：这位诗人花了数年时间撰写他最后的杰作。  
+   **英文**：The poet spent years writing his final master work.
+   > **解析**：poet 意为“诗人”，work 意为“作品”。
+
+13. **中文**：我本应该在官方网站上买票。  
+   **英文**：I am supposed to buy tickets on the official website.
+   > **解析**：be supposed to 表示“应当、本该”。
+
+14. **中文**：看主舞台上那出戏剧性的场景。  
+   **英文**：Look at the dramatic scene on the main stage.
+   > **解析**：scene 意为“场面、一幕”。
+
+15. **中文**：天哪，我忘了带官方译本！  
+   **英文**：Oh my gosh, I forgot to bring the official translation!
+   > **解析**：translation 意为“翻译、译本”。
+
+16. **中文**：这些座位是专门为我们的贵宾预留的。  
+   **英文**：The seats were specially reserved for our honored guests.
+   > **解析**：specially 意为“专门地、特地”。
+
+17. **中文**：我们可以在大厅的中场休息期间聊天。  
+   **英文**：We can chat during the intermission in the lobby.
+   > **解析**：intermission 意为“中场休息”。
+
+18. **中文**：他写了一首关于自然与和平的优美诗歌。  
+   **英文**：He wrote a beautiful poem about nature and peace.
+   > **解析**：poem 意为“诗歌”。
+
+19. **中文**：当你完成时请盖上电脑好吗？  
+   **英文**：Would you please cover the computer when you finish?
+   > **解析**：cover 意为“盖上”。
+
+20. **中文**：我会把所有文件复制到优盘上。  
+   **英文**：I will copy all the files onto the USB flash drive.
+   > **解析**：copy 意为“复制”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The museum exhibition featured a handwritten poem by a famous author.
-   > **中文**：博物馆展览展出了一首由著名作者手写的诗歌。
+1. We are going to watch a romantic scene in the theater.
+   > **中文**：我们打算在剧院看一出浪漫的情节。
 
-2. The museum guide recited lines composed by a celebrated national poet.
-   > **中文**：博物馆导游朗诵了一位著名国家诗人创作的诗句。
+2. It's good to be friends with an old poet.
+   > **中文**：能与一位老诗人成为朋友真好。
 
-3. During the intermission of the play, museum guests walked around the gallery.
-   > **中文**：在戏剧的中场休息期间，博物馆嘉宾在画廊里散步。
+3. Refreshments will be served during the twenty minute intermission.
+   > **中文**：在二十分钟的中场休息期间将提供茶点。
 
-4. Light refreshments such as tea and biscuits were served in the lounge.
-   > **中文**：休息室里供应茶水和饼干等简便茶点。
+4. Oh my gosh, this is a marvelous literary work!
+   > **中文**：天哪，这是一部绝妙的文学作品！
 
-5. This oil painting depicts a peaceful countryside scene in spring.
-   > **中文**：这幅油画描绘了春天宁静的乡村景象。
+5. You are supposed to read the English translation before the show.
+   > **中文**：你应该在演出前阅读英文译本。
 
-6. An English translation was displayed right next to the ancient text.
-   > **中文**：古文本旁边紧挨着展示着一份英文翻译。
+6. The actor is specially trained to recite a famous poem.
+   > **中文**：这位演员经过专门训练来朗诵一首著名的诗。
 
-7. Visitors are not supposed to touch the historical artifacts on display.
-   > **中文**：参观者不应当触摸展出的历史文物。
+7. Please cover the table with a clean cloth.
+   > **中文**：请用一块干净的桌布把桌子盖上。
 
-8. The glass case was designed to cover and protect the rare artifact.
-   > **中文**：玻璃罩旨在覆盖并保护这件珍贵的文物。
+8. Make a copy of the script so everyone can practice.
+   > **中文**：复印一份剧本以便大家练习。
 
-9. The gift shop sells an exact replica copy of the famous ancient sculpture.
-   > **中文**：礼品店出售这尊著名古代雕塑的精美复制品。
+9. Would you like some drinks on the balcony?
+   > **中文**：你想在阳台上喝点饮料吗？
 
-10. This room was specially designed to preserve delicate historical documents.
-   > **中文**：这个房间是专门为保存珍贵的历史文献而设计的。
+10. He is going to be friends with the talented director.
+   > **中文**：他打算与那位有才华的导演成为朋友。
+
+11. It's good to enjoy refreshments after a long day of work.
+   > **中文**：在一整天的工作之后享用茶点真好。
+
+12. The poet spent years writing his final master work.
+   > **中文**：这位诗人花了数年时间撰写他最后的杰作。
+
+13. I am supposed to buy tickets on the official website.
+   > **中文**：我本应该在官方网站上买票。
+
+14. Look at the dramatic scene on the main stage.
+   > **中文**：看主舞台上那出戏剧性的场景。
+
+15. Oh my gosh, I forgot to bring the official translation!
+   > **中文**：天哪，我忘了带官方译本！
+
+16. The seats were specially reserved for our honored guests.
+   > **中文**：这些座位是专门为我们的贵宾预留的。
+
+17. We can chat during the intermission in the lobby.
+   > **中文**：我们可以在大厅的中场休息期间聊天。
+
+18. He wrote a beautiful poem about nature and peace.
+   > **中文**：他写了一首关于自然与和平的优美诗歌。
+
+19. Would you please cover the computer when you finish?
+   > **中文**：当你完成时请盖上电脑好吗？
+
+20. I will copy all the files onto the USB flash drive.
+   > **中文**：我会把所有文件复制到优盘上。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| be friends with | 与……成为朋友 |
+| copy | 复制；副本 |
+| cover | 盖住；覆盖 |
+| going to | 将要；打算 |
+| intermission | 中场休息 |
+| it's good to | 做……真好 |
+| oh my gosh | 天哪（惊叹） |
+| on the | 在……上 |
+| poem | 诗歌 |
+| poet | 诗人 |
+| refreshments | 茶点；小吃 |
+| scene | 场景；一幕 |
+| specially | 专门地；特地 |
+| supposed to | 应当；本该 |
+| translation | 翻译；译本 |
+| work | 作品；工作 |
+| would | 将要；愿意（情态动词） |
+| be supposed to | 应该；本打算 |
+| theatrical scene | 戏剧场景 |
+| literary work | 文学作品 |
 
 </quiz-matching>
 
@@ -133,102 +226,202 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
 
 ### 1
 
-The museum exhibition featured a handwritten `____` by a famous author.
+We are going to watch a romantic ____ in the theater.
 
-- [x] poem
+- [x] scene
 - [ ] be friends with
-- [ ] intermission
+- [ ] copy
 
-> **解析**：poem 可数名词，意为“诗；诗歌”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The museum guide recited lines composed by a celebrated national `____`.
+It's good to be friends with an old ____.
 
 - [x] poet
+- [ ] be friends with
 - [ ] copy
-- [ ] it's good to
 
-> **解析**：poet 可数名词，意为“诗人”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-During the `____` of the play, museum guests walked around the gallery.
+____ will be served during the twenty minute intermission.
 
-- [x] intermission
-- [ ] cover
-- [ ] on the
+- [x] Refreshments
+- [ ] be friends with
+- [ ] copy
 
-> **解析**：intermission 可数名词，意为“中场休息；幕间休息”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Light `____` such as tea and biscuits were served in the lounge.
+Oh my gosh, this is a marvelous literary ____!
 
-- [x] refreshments
-- [ ] going to
-- [ ] on the
+- [x] work
+- [ ] be friends with
+- [ ] copy
 
-> **解析**：refreshments 常用复数名词，意为“茶点；点心饮料”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-This oil painting depicts a peaceful countryside `____` in spring.
+You are supposed to read the English ____ before the show.
 
-- [x] scene
-- [ ] intermission
-- [ ] poem
+- [x] translation
+- [ ] be friends with
+- [ ] copy
 
-> **解析**：scene 可数名词，在此意为“景象；风景；场景”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-An English `____` was displayed right next to the ancient text.
+The actor is ____ trained to recite a famous poem.
 
-- [x] translation
-- [ ] it's good to
-- [ ] poet
+- [x] specially
+- [ ] be friends with
+- [ ] copy
 
-> **解析**：translation 可数/不可数名词，意为“翻译；译本”，动词为 translate。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Visitors are not `____` touch the historical artifacts on display.
+Please ____ the table with a clean cloth.
 
-- [x] supposed to
-- [ ] oh my gosh
-- [ ] refreshments
+- [x] cover
+- [ ] be friends with
+- [ ] copy
 
-> **解析**：be supposed to 常用短语，在此否定形式 be not supposed to 表示“不应当；被禁止”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The glass case was designed to `____` and protect the rare artifact.
+Make a ____ of the script so everyone can practice.
 
-- [x] cover
-- [ ] poem
-- [ ] specially
+- [x] copy
+- [ ] be friends with
+- [ ] cover
 
-> **解析**：cover 及物动词，在此意为“覆盖；遮盖”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The gift shop sells an exact replica `____` of the famous ancient sculpture.
+____ you like some drinks on the balcony?
 
-- [x] copy
-- [ ] poet
-- [ ] supposed to
+- [x] Would
+- [ ] be friends with
+- [ ] copy
 
-> **解析**：copy 可数名词，意为“复制品；副本”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-This room was `____` designed to preserve delicate historical documents.
+He is going to be friends with the ____ director.
+
+- [x] talented
+- [ ] be friends with
+- [ ] copy
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+It's good to enjoy ____ after a long day of work.
+
+- [x] refreshments
+- [ ] be friends with
+- [ ] copy
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The ____ spent years writing his final master work.
+
+- [x] poet
+- [ ] be friends with
+- [ ] copy
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+I am ____ to buy tickets on the official website.
+
+- [x] supposed
+- [ ] be friends with
+- [ ] copy
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Look at the dramatic ____ on the main stage.
+
+- [x] scene
+- [ ] be friends with
+- [ ] copy
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Oh my gosh, I forgot to bring the official ____!
+
+- [x] translation
+- [ ] be friends with
+- [ ] copy
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The seats were ____ reserved for our honored guests.
 
 - [x] specially
-- [ ] poet
-- [ ] translation
+- [ ] be friends with
+- [ ] copy
 
-> **解析**：specially 副词，意为“专门地；特地”，修饰动词 designed。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+We can chat during the ____ in the lobby.
+
+- [x] intermission
+- [ ] be friends with
+- [ ] copy
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+He wrote a beautiful ____ about nature and peace.
+
+- [x] poem
+- [ ] be friends with
+- [ ] copy
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+____ you please cover the computer when you finish?
+
+- [x] Would
+- [ ] be friends with
+- [ ] copy
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+I will ____ all the files onto the USB flash drive.
+
+- [x] copy
+- [ ] be friends with
+- [ ] cover
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

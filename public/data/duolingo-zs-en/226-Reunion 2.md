@@ -63,83 +63,176 @@ ages, back then, bond, campus, find out, fluent, get, get over, happy hour, infl
 
 <quiz-sentence-builder>
 
-1. **中文**：我有好长时间（几年）没见到大学室友了，所以对聚会感到非常激动。  
-   **英文**：I haven't seen my college roommate for ages, so I'm thrilled about the reunion.
-   > **解析**：`for ages` 为固定时间习惯表达，意为“长久地；好几年；很久”。相当于 `for a very long time`。
+1. **中文**：我好久没有见到我的大学同学了。  
+   **英文**：I haven't seen my college classmates for ages.
+   > **解析**：for ages 表示很久、许久。
 
-2. **中文**：我们决定在中央图书馆附近的老大学校园见面。  
-   **英文**：We decided to meet at the old university campus near the central library.
-   > **解析**：`campus` 可数名词，意为“校园；校区”。短语 `university campus`（大学校园）。
+2. **中文**：那时候我们常常一聊就是几个小时。  
+   **英文**：We used to spend hours talking back then.
+   > **解析**：back then 表示那时候。
 
-3. **中文**：太棒了，我们所有的昔日同班同学在十年后能够聚在一起。  
-   **英文**：It's wonderful that all our former classmates could get together after ten years.
-   > **解析**：`get` 不及物/连系动词，短语 `get together` 表示“聚会；聚集”。
+3. **中文**：我们昨天在欢乐时光打折时段于酒吧相聚。  
+   **英文**：We met at the bar during happy hour yesterday.
+   > **解析**：happy hour 指（酒吧等的）欢乐时光打折时段。
 
-4. **中文**：当我们回顾高中时代时，我们总是会对那些傻乎乎的回忆发笑。  
-   **英文**：When we look back on our high school days, we always laugh at those silly memories.
-   > **解析**：`look back on` 为固定动词短语，意为“回顾；回想（过去的事）”。
+4. **中文**：走在大学校园里勾起了过去的回忆。  
+   **英文**：Walking around the university campus brought back old memories.
+   > **解析**：campus 指校园。
 
-5. **中文**：令人惊讶的是，我们发现我们的两位前任老师实际上是有姻亲关系的。  
-   **英文**：Surprisingly, we discovered that two of our former teachers are actually related by marriage.
-   > **解析**：`related` 形容词，意为“有亲戚关系的；相关的”。短语 `be related to / by...`。
+5. **中文**：他们在读书期间建立了深厚的纽带。  
+   **英文**：They formed a strong bond during their school years.
+   > **解析**：bond 指感情纽带、联系。
 
-6. **中文**：自从我们的青少年时代以来，每个人的音乐品味都发生了相当大的变化。  
-   **英文**：Everyone's music taste has changed quite a lot since our teenage years.
-   > **解析**：`taste` 名词，在此处意为“品味；鉴赏力；喜好”。短语 `music taste`（音乐品味）。
+6. **中文**：当我回顾我的年轻时光，我充满感激。  
+   **英文**：When I look back on my youth, I feel grateful.
+   > **解析**：look back on 表示回顾、回首。
 
-7. **中文**：无论是谁组织了这次盛大的重聚派对，都做了一项极其出色工作。  
-   **英文**：Whoever organized this grand reunion party did a truly remarkable job.
-   > **解析**：`whoever` 关系代词，意为“无论是谁；任何人”。在主语从句中充当主语。
+7. **中文**：我惊讶地发现我们就住在附近。  
+   **英文**：I was surprised to find out that we live nearby.
+   > **解析**：find out 表示发现、打听到。
 
-8. **中文**：分享童年故事帮助老朋友们迅速建立了深厚的感情纽带。  
-   **英文**：Sharing childhood stories helped the old friends quickly form a strong emotional bond.
-   > **解析**：`bond` 可数名词，意为“纽带；联系；关系”。短语 `emotional bond`（情感纽带）。
+8. **中文**：结果发现他是我的表弟的好朋友。  
+   **英文**：It turned out that he is my cousin's good friend.
+   > **解析**：turn out 表示结果发现是……
 
-9. **中文**：在东京生活了五年之后，她的日语变得非常流利。  
-   **英文**：After living in Tokyo for five years, she became completely fluent in Japanese.
-   > **解析**：`fluent` 形容词，意为“流利的；流畅的”。固定搭配 `be fluent in + 语言`。
+9. **中文**：她花了很长时间才走出了失落。  
+   **英文**：It took her a long time to get over the loss.
+   > **解析**：get over 表示克服、走出（阴影）。
 
-10. **中文**：楼下的餐厅在五点到七点提供开胃菜的欢乐时光特别优惠。  
-   **英文**：The restaurant downstairs offers a special happy hour discount on appetizers from five to seven.
-   > **解析**：`happy hour` 名词短语，意为“（酒吧/餐厅的）优惠时段；欢乐时光”。
+10. **中文**：不要在家庭聚会上出糗。  
+   **英文**：Don't make a fool of yourself at the family party.
+   > **解析**：make a fool of oneself 表示出糗、扮蠢。
+
+11. **中文**：她的红裙子使她在人群中脱颖而出。  
+   **英文**：Her red dress made her stand out in the crowd.
+   > **解析**：stand out 表示出众、显眼。
+
+12. **中文**：他的性格真的很像他的祖父。  
+   **英文**：He really takes after his grandfather in personality.
+   > **解析**：take after 表示（长相或性格）像（长辈）。
+
+13. **中文**：他们俩都不记得聚会的确切日期了。  
+   **英文**：Neither of them remembered the exact date of the party.
+   > **解析**：neither of... 表示“两者都不……”。
+
+14. **中文**：她现在精通三门外语。  
+   **英文**：She is fluent in three foreign languages now.
+   > **解析**：fluent 表示流利的、精通的。
+
+15. **中文**：我想知道他们之间是否有亲戚关系。  
+   **英文**：I wonder if they are related to each other.
+   > **解析**：related 表示有亲属关系的。
+
+16. **中文**：我祖母对我职业选择有着巨大影响。  
+   **英文**：My grandmother had a great influence on my career choice.
+   > **解析**：influence 表示影响。
+
+17. **中文**：我们在传统音乐方面有着相似的品味。  
+   **英文**：We share a similar taste in traditional music.
+   > **解析**：taste 表示品味。
+
+18. **中文**：你知道谁参加了同学聚会吗？  
+   **英文**：Do you know who came to the reunion party?
+   > **解析**：who 疑问代词表示“谁”。
+
+19. **中文**：无论是谁先到都应该把大门打开。  
+   **英文**：Whoever arrives first should open the entrance door.
+   > **解析**：whoever 表示无论是谁。
+
+20. **中文**：猜猜谁的照片展示在了公告栏上？  
+   **英文**：Guess whose photo was displayed on the bulletin board?
+   > **解析**：whose 表示“谁的”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I haven't seen my college roommate for ages, so I'm thrilled about the reunion.
-   > **中文**：我有好长时间（几年）没见到大学室友了，所以对聚会感到非常激动。
+1. I haven't seen my college classmates for ages.
+   > **中文**：我好久没有见到我的大学同学了。
 
-2. We decided to meet at the old university campus near the central library.
-   > **中文**：我们决定在中央图书馆附近的老大学校园见面。
+2. We used to spend hours talking back then.
+   > **中文**：那时候我们常常一聊就是几个小时。
 
-3. It's wonderful that all our former classmates could get together after ten years.
-   > **中文**：太棒了，我们所有的昔日同班同学在十年后能够聚在一起。
+3. We met at the bar during happy hour yesterday.
+   > **中文**：我们昨天在欢乐时光打折时段于酒吧相聚。
 
-4. When we look back on our high school days, we always laugh at those silly memories.
-   > **中文**：当我们回顾高中时代时，我们总是会对那些傻乎乎的回忆发笑。
+4. Walking around the university campus brought back old memories.
+   > **中文**：走在大学校园里勾起了过去的回忆。
 
-5. Surprisingly, we discovered that two of our former teachers are actually related by marriage.
-   > **中文**：令人惊讶的是，我们发现我们的两位前任老师实际上是有姻亲关系的。
+5. They formed a strong bond during their school years.
+   > **中文**：他们在读书期间建立了深厚的纽带。
 
-6. Everyone's music taste has changed quite a lot since our teenage years.
-   > **中文**：自从我们的青少年时代以来，每个人的音乐品味都发生了相当大的变化。
+6. When I look back on my youth, I feel grateful.
+   > **中文**：当我回顾我的年轻时光，我充满感激。
 
-7. Whoever organized this grand reunion party did a truly remarkable job.
-   > **中文**：无论是谁组织了这次盛大的重聚派对，都做了一项极其出色工作。
+7. I was surprised to find out that we live nearby.
+   > **中文**：我惊讶地发现我们就住在附近。
 
-8. Sharing childhood stories helped the old friends quickly form a strong emotional bond.
-   > **中文**：分享童年故事帮助老朋友们迅速建立了深厚的感情纽带。
+8. It turned out that he is my cousin's good friend.
+   > **中文**：结果发现他是我的表弟的好朋友。
 
-9. After living in Tokyo for five years, she became completely fluent in Japanese.
-   > **中文**：在东京生活了五年之后，她的日语变得非常流利。
+9. It took her a long time to get over the loss.
+   > **中文**：她花了很长时间才走出了失落。
 
-10. The restaurant downstairs offers a special happy hour discount on appetizers from five to seven.
-   > **中文**：楼下的餐厅在五点到七点提供开胃菜的欢乐时光特别优惠。
+10. Don't make a fool of yourself at the family party.
+   > **中文**：不要在家庭聚会上出糗。
+
+11. Her red dress made her stand out in the crowd.
+   > **中文**：她的红裙子使她在人群中脱颖而出。
+
+12. He really takes after his grandfather in personality.
+   > **中文**：他的性格真的很像他的祖父。
+
+13. Neither of them remembered the exact date of the party.
+   > **中文**：他们俩都不记得聚会的确切日期了。
+
+14. She is fluent in three foreign languages now.
+   > **中文**：她现在精通三门外语。
+
+15. I wonder if they are related to each other.
+   > **中文**：我想知道他们之间是否有亲戚关系。
+
+16. My grandmother had a great influence on my career choice.
+   > **中文**：我祖母对我职业选择有着巨大影响。
+
+17. We share a similar taste in traditional music.
+   > **中文**：我们在传统音乐方面有着相似的品味。
+
+18. Do you know who came to the reunion party?
+   > **中文**：你知道谁参加了同学聚会吗？
+
+19. Whoever arrives first should open the entrance door.
+   > **中文**：无论是谁先到都应该把大门打开。
+
+20. Guess whose photo was displayed on the bulletin board?
+   > **中文**：猜猜谁的照片展示在了公告栏上？
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| `ages` | 很长时间 |
+| `back then` | 那时候 |
+| `bond` | 纽带；联系 |
+| `campus` | 校园 |
+| `find out` | 发现；查明 |
+| `fluent` | 流利的 |
+| `get over` | 走出（阴影）；克服 |
+| `happy hour` | 欢乐时光打折时段 |
+| `influence` | 影响 |
+| `look back on` | 回顾；回首 |
+| `make a fool` | 出糗 |
+| `neither of` | 两者都不 |
+| `related` | 有亲属关系的 |
+| `stand out` | 脱颖而出；显眼 |
+| `take after` | 长得像（长辈） |
+| `taste` | 品味 |
+| `turn out` | 结果发现是 |
+| `who` | 谁 |
+| `whoever` | 无论是谁 |
+| `whose` | 谁的 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ ages, back then, bond, campus, find out, fluent, get, get over, happy hour, infl
 
 ### 1
 
-I haven't seen my college roommate for `____`, so I'm thrilled about the reunion.
+I haven't seen my college classmates for ____.
 
 - [x] ages
 - [ ] back then
-- [ ] fluent
+- [ ] bond
 
-> **解析**：`for ages` 为固定时间习惯表达，意为“长久地；好几年；很久”。相当于 `for a very long time`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-We decided to meet at the old university `____` near the central library.
+We used to spend hours ____ back then.
 
-- [x] campus
+- [x] talking
+- [ ] ages
 - [ ] back then
-- [ ] get
 
-> **解析**：`campus` 可数名词，意为“校园；校区”。短语 `university campus`（大学校园）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-It's wonderful that all our former classmates could `____` together after ten years.
+We met at ____ bar during happy hour yesterday.
 
-- [x] get
-- [ ] bond
-- [ ] get over
+- [x] the
+- [ ] ages
+- [ ] back then
 
-> **解析**：`get` 不及物/连系动词，短语 `get together` 表示“聚会；聚集”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-When we `____` our high school days, we always laugh at those silly memories.
+Walking around ____ university campus brought back old memories.
 
-- [x] look back on
-- [ ] campus
-- [ ] get over
+- [x] the
+- [ ] ages
+- [ ] back then
 
-> **解析**：`look back on` 为固定动词短语，意为“回顾；回想（过去的事）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Surprisingly, we discovered that two of our former teachers are actually `____` by marriage.
+They formed a strong ____ during their school years.
 
-- [x] related
-- [ ] find out
-- [ ] happy hour
+- [x] bond
+- [ ] ages
+- [ ] back then
 
-> **解析**：`related` 形容词，意为“有亲戚关系的；相关的”。短语 `be related to / by...`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Everyone's music `____` has changed quite a lot since our teenage years.
+When I look back on my youth, I feel ____.
 
-- [x] taste
-- [ ] fluent
-- [ ] influence
+- [x] grateful
+- [ ] ages
+- [ ] back then
 
-> **解析**：`taste` 名词，在此处意为“品味；鉴赏力；喜好”。短语 `music taste`（音乐品味）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-`____`ever organized this grand reunion party did a truly remarkable job.
+I was ____ to find out that we live nearby.
 
-- [x] who
-- [ ] get
-- [ ] look back on
+- [x] surprised
+- [ ] ages
+- [ ] back then
 
-> **解析**：`whoever` 关系代词，意为“无论是谁；任何人”。在主语从句中充当主语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Sharing childhood stories helped the old friends quickly form a strong emotional `____`.
+It turned out that he is my ____ good friend.
 
-- [x] bond
-- [ ] happy hour
-- [ ] neither of
+- [x] cousin's
+- [ ] ages
+- [ ] back then
 
-> **解析**：`bond` 可数名词，意为“纽带；联系；关系”。短语 `emotional bond`（情感纽带）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-After living in Tokyo for five years, she became completely `____` in Japanese.
+It took her a long time to ____ over the loss.
 
-- [x] fluent
-- [ ] influence
-- [ ] related
+- [x] get
+- [ ] ages
+- [ ] back then
 
-> **解析**：`fluent` 形容词，意为“流利的；流畅的”。固定搭配 `be fluent in + 语言`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The restaurant downstairs offers a special `____` discount on appetizers from five to seven.
+Don't make a fool of yourself at ____ family party.
 
-- [x] happy hour
-- [ ] look back on
-- [ ] stand out
+- [x] the
+- [ ] ages
+- [ ] back then
 
-> **解析**：`happy hour` 名词短语，意为“（酒吧/餐厅的）优惠时段；欢乐时光”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Her red dress made her stand out in ____ crowd.
+
+- [x] the
+- [ ] ages
+- [ ] back then
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+He really takes after his ____ in personality.
+
+- [x] grandfather
+- [ ] ages
+- [ ] back then
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Neither of them remembered ____ exact date of the party.
+
+- [x] the
+- [ ] ages
+- [ ] back then
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+She is ____ in three foreign languages now.
+
+- [x] fluent
+- [ ] ages
+- [ ] back then
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+I wonder if they are ____ to each other.
+
+- [x] related
+- [ ] ages
+- [ ] back then
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+My grandmother had a great ____ on my career choice.
+
+- [x] influence
+- [ ] ages
+- [ ] back then
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+We share a similar ____ in traditional music.
+
+- [x] taste
+- [ ] ages
+- [ ] back then
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Do you know ____ came to the reunion party?
+
+- [x] who
+- [ ] ages
+- [ ] back then
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+____ arrives first should open the entrance door.
+
+- [x] Whoever
+- [ ] ages
+- [ ] back then
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Guess ____ photo was displayed on the bulletin board?
+
+- [x] whose
+- [ ] ages
+- [ ] back then
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

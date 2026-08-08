@@ -53,83 +53,176 @@ both, bother, do, even, get, got to, guys, have, have on, instead, make it, must
 
 <quiz-sentence-builder>
 
-1. **中文**：既然我们今天下午都有空，我们去街角咖啡馆喝杯咖啡吧。  
-   **英文**：Since we are both free this afternoon, let's grab coffee at the corner cafe.
-   > **解析**：both 为代词/限定词，在此处作主语同位语（we are both free），意为“两者都”。
+1. **中文**：我们两个人都非常期待参加周六的同学聚会。
+   **英文**：We both want to attend the high school reunion.
+   > **解析**：both 表示“两者都”。
 
-2. **中文**：在我们能出去玩电子游戏之前，我必须先完成这项作业。  
-   **英文**：I've got to finish this assignment before we can go out to play video games.
-   > **解析**：have got to 为口语动词短语，意为“必须、不得不”，后接动词原形（got to finish）。
+2. **中文**：别让那些小挫折去烦恼你的心情。
+   **英文**：Don't let minor issues bother you so much.
+   > **解析**：bother 表示“打扰/烦恼/使不安”。
 
-3. **中文**：今晚的晚餐聚会上你穿着哪件时尚夹克？  
-   **英文**：What stylish jacket do you have on for tonight's dinner party?
-   > **解析**：have on 为动词短语，意为“穿着、佩戴着”（have sth. on），描述处于穿着状态。
+3. **中文**：大伙儿，这周末我们要不要一起去郊游？
+   **英文**：Hey guys, let me know if you want to go camping.
+   > **解析**：guys 用于口语招呼“大伙儿/大家”。
 
-4. **中文**：电影时间对我来说不太方便，我们能改到七点吗？  
-   **英文**：The movie time is not quite convenient for me, can we change it to seven o'clock?
-   > **解析**：not quite 为副词短语，意为“不完全、不太”，用来委婉修饰形容词 convenient。
+4. **中文**：她今天穿着一件优雅的黑色晚礼服。
+   **英文**：She has on a beautiful blue dress for the party.
+   > **解析**：has on 表示“穿着/戴着”。
 
-5. **中文**：周末和朋友聚会时，我更喜欢穿一件简素素色的T恤。  
-   **英文**：I prefer to wear a plain t-shirt when hanging out with friends on weekends.
-   > **解析**：plain 在此处作形容词，意为“朴素的、单色的、无图案的”，修饰 t-shirt。
+5. **中文**：我们今晚留在家中做饭，而不是出去吃。
+   **英文**：Let's stay home and cook instead of eating out.
+   > **解析**：instead 表示“反而/替代/顶替”。
 
-6. **中文**：我们真的应该近期找个时间聚聚吃个饭！  
-   **英文**：We really ought to get together for dinner sometime soon.
-   > **解析**：sometime soon 为时间副词短语，口语中意为“近期某个时间、快点”，常用于发出聚会邀请。
+6. **中文**：如果你加快速度，你就能赶上今晚这趟班车。
+   **英文**：If we hurry up, we can make it to the concert.
+   > **解析**：make it 表示“赶上/成功出席”。
 
-7. **中文**：我们这个星期六晚上为什么不一起去打保龄球呢？  
-   **英文**：Why don't we go bowling together this Saturday evening.
-   > **解析**：why don't 句型用于提出建议，结构为 Why don't we + 动词原形（Why don't we go...）。
+7. **中文**：在图书馆内绝对不能大声喧哗打扰他人。
+   **英文**：You must not speak loudly inside the reading room.
+   > **解析**：must not 表示“绝不能/禁止”。
 
-8. **中文**：不用费心带零食了，因为我会为我们的野餐准备好一切。  
-   **英文**：Don't bother bringing snacks because I will prepare everything for our picnic.
-   > **解析**：bother 为动词，Don't bother doing sth. 意为“不必费心做某事”，表达客气的关心与建议。
+8. **中文**：事情的情况不太像你想的那样复杂。
+   **英文**：The project is not quite ready for launch yet.
+   > **解析**：not quite 表示“不太像/不完全是”。
 
-9. **中文**：嘿大伙儿，你们对周末的自驾游感到激动吗？  
-   **英文**：Hey guys, are you excited about the weekend road trip?
-   > **解析**：guys 为复数名词，口语中称呼“大家、大伙儿”，不论性别均可通用。
+9. **中文**：你的近况一直挂在我的心上，希望你一切都好。
+   **英文**：Your advice has been on my mind all day.
+   > **解析**：on my mind 表示“挂在心上/萦绕在脑海”。
 
-10. **中文**：我太高兴你能准时赶来参加我的生日派对！  
-   **英文**：I am so glad you could make it to my birthday party on time.
-   > **解析**：make it 为固定口语动词短语，在此处意为“赶到、及时出席”（make it to a party）。
+10. **中文**：改天有空我们一定要好好聚一聚聊聊天。
+   **英文**：We should grab lunch together one of these days.
+   > **解析**：one of these days 表示“改天/近来某天”。
+
+11. **中文**：她穿着一件款式朴素的白色棉质衬衫。
+   **英文**：She wore a plain white T-shirt to the casual meeting.
+   > **解析**：plain 表示“朴素的/简单无花纹的”。
+
+12. **中文**：请代我向你的家人致以最诚挚的问候。
+   **英文**：Please give my best regards to your family.
+   > **解析**：regards 表示“问候/致意”。
+
+13. **中文**：得知突发降薪的消息后，大家都感到非常震惊。
+   **英文**：Everyone was shocked by the news of the company closing.
+   > **解析**：shocked 表示“震惊的/吃惊的”。
+
+14. **中文**：我们找个安静的地方坐下来喝杯咖啡吧。
+   **英文**：Let's find someplace quiet to sit and talk.
+   > **解析**：someplace 表示“某个地方/某处”。
+
+15. **中文**：希望不久后的某个时间我们能在北京再次相聚。
+   **英文**：I hope to see you again sometime soon in town.
+   > **解析**：sometime soon 表示“不久后的某个时间/尽快”。
+
+16. **中文**：只要你需要协助，我非常愿意随时提供帮助。
+   **英文**：She is willing to help us organize the event.
+   > **解析**：willing 表示“愿意的/乐意的”。
+
+17. **中文**：我们为什么不这周末一起去山里徒步呢？
+   **英文**：Why don't we go for a walk in the park?
+   > **解析**：Why don't 表示“为什么不……/不如……”。
+
+18. **中文**：你必须亲自去品尝一下这家店的招牌招牌甜点！
+   **英文**：You've got to try this delicious chocolate cake!
+   > **解析**：You've got to 表示“你必须……/你一定要……”。
+
+19. **中文**：今天天冷，记得出门要穿上一件厚外套。
+   **英文**：Remember to wear a warm jacket when you go out.
+   > **解析**：wear 表示“穿/戴”。
+
+20. **中文**：非常抱歉让你在此久等了。
+   **英文**：I am so sorry for keeping you waiting so long.
+   > **解析**：sorry 表示“抱歉的/内疚的”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Since we are both free this afternoon, let's grab coffee at the corner cafe.
-   > **中文**：既然我们今天下午都有空，我们去街角咖啡馆喝杯咖啡吧。
+1. We both want to attend the high school reunion.
+   > **中文**：我们两个人都非常期待参加周六的同学聚会。
 
-2. I've got to finish this assignment before we can go out to play video games.
-   > **中文**：在我们能出去玩电子游戏之前，我必须先完成这项作业。
+2. Don't let minor issues bother you so much.
+   > **中文**：别让那些小挫折去烦恼你的心情。
 
-3. What stylish jacket do you have on for tonight's dinner party?
-   > **中文**：今晚的晚餐聚会上你穿着哪件时尚夹克？
+3. Hey guys, let me know if you want to go camping.
+   > **中文**：大伙儿，这周末我们要不要一起去郊游？
 
-4. The movie time is not quite convenient for me, can we change it to seven o'clock?
-   > **中文**：电影时间对我来说不太方便，我们能改到七点吗？
+4. She has on a beautiful blue dress for the party.
+   > **中文**：她今天穿着一件优雅的黑色晚礼服。
 
-5. I prefer to wear a plain t-shirt when hanging out with friends on weekends.
-   > **中文**：周末和朋友聚会时，我更喜欢穿一件简素素色的T恤。
+5. Let's stay home and cook instead of eating out.
+   > **中文**：我们今晚留在家中做饭，而不是出去吃。
 
-6. We really ought to get together for dinner sometime soon.
-   > **中文**：我们真的应该近期找个时间聚聚吃个饭！
+6. If we hurry up, we can make it to the concert.
+   > **中文**：如果你加快速度，你就能赶上今晚这趟班车。
 
-7. Why don't we go bowling together this Saturday evening.
-   > **中文**：我们这个星期六晚上为什么不一起去打保龄球呢？
+7. You must not speak loudly inside the reading room.
+   > **中文**：在图书馆内绝对不能大声喧哗打扰他人。
 
-8. Don't bother bringing snacks because I will prepare everything for our picnic.
-   > **中文**：不用费心带零食了，因为我会为我们的野餐准备好一切。
+8. The project is not quite ready for launch yet.
+   > **中文**：事情的情况不太像你想的那样复杂。
 
-9. Hey guys, are you excited about the weekend road trip?
-   > **中文**：嘿大伙儿，你们对周末的自驾游感到激动吗？
+9. Your advice has been on my mind all day.
+   > **中文**：你的近况一直挂在我的心上，希望你一切都好。
 
-10. I am so glad you could make it to my birthday party on time.
-   > **中文**：我太高兴你能准时赶来参加我的生日派对！
+10. We should grab lunch together one of these days.
+   > **中文**：改天有空我们一定要好好聚一聚聊聊天。
+
+11. She wore a plain white T-shirt to the casual meeting.
+   > **中文**：她穿着一件款式朴素的白色棉质衬衫。
+
+12. Please give my best regards to your family.
+   > **中文**：请代我向你的家人致以最诚挚的问候。
+
+13. Everyone was shocked by the news of the company closing.
+   > **中文**：得知突发降薪的消息后，大家都感到非常震惊。
+
+14. Let's find someplace quiet to sit and talk.
+   > **中文**：我们找个安静的地方坐下来喝杯咖啡吧。
+
+15. I hope to see you again sometime soon in town.
+   > **中文**：希望不久后的某个时间我们能在北京再次相聚。
+
+16. She is willing to help us organize the event.
+   > **中文**：只要你需要协助，我非常愿意随时提供帮助。
+
+17. Why don't we go for a walk in the park?
+   > **中文**：我们为什么不这周末一起去山里徒步呢？
+
+18. You've got to try this delicious chocolate cake!
+   > **中文**：你必须亲自去品尝一下这家店的招牌招牌甜点！
+
+19. Remember to wear a warm jacket when you go out.
+   > **中文**：今天天冷，记得出门要穿上一件厚外套。
+
+20. I am so sorry for keeping you waiting so long.
+   > **中文**：非常抱歉让你在此久等了。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| both | 两者都 |
+| bother | 打扰 / 烦恼 |
+| guys | 大伙儿 |
+| have on | 穿着 / 戴着 |
+| instead | 反而 / 代替 |
+| make it | 赶上 / 成功出席 |
+| must not | 绝不能 |
+| not quite | 不太像 / 不完全是 |
+| on my mind | 挂在心上 |
+| one of these days | 改天 |
+| plain | 朴素的 / 简单的 |
+| regards | 问候 / 致意 |
+| shocked | 震惊的 |
+| someplace | 某个地方 |
+| sometime soon | 不久后的某个时间 |
+| willing | 愿意的 |
+| why don't | 为什么不…… |
+| you've got to | 你必须…… |
+| wear | 穿 / 戴 |
+| sorry | 抱歉的 |
 
 </quiz-matching>
 
@@ -137,102 +230,202 @@ both, bother, do, even, get, got to, guys, have, have on, instead, make it, must
 
 ### 1
 
-Since we are `____` free this afternoon, let's grab coffee at the corner cafe.
+We ____ want to attend the high school reunion.
 
 - [x] both
 - [ ] bother
-- [ ] got to
+- [ ] do
 
-> **解析**：both 为代词/限定词，在此处作主语同位语（we are both free），意为“两者都”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-I've `____` finish this assignment before we can go out to play video games.
+Don't let minor issues ____ you so much.
 
-- [x] got to
-- [ ] bother
-- [ ] guys
+- [x] bother
+- [ ] both
+- [ ] do
 
-> **解析**：have got to 为口语动词短语，意为“必须、不得不”，后接动词原形（got to finish）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-What stylish jacket `____` you have on for tonight's dinner party?
+Hey ____, let me know if you want to go camping.
 
-- [x] do
-- [ ] even
-- [ ] have
+- [x] guys
+- [ ] both
+- [ ] bother
 
-> **解析**：have on 为动词短语，意为“穿着、佩戴着”（have sth. on），描述处于穿着状态。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The movie time is not quite convenient for me, can we change it to s`____` o'clock?
+She has on a ____ blue dress for the party.
 
-- [x] even
-- [ ] get
-- [ ] have on
+- [x] beautiful
+- [ ] both
+- [ ] bother
 
-> **解析**：not quite 为副词短语，意为“不完全、不太”，用来委婉修饰形容词 convenient。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-I prefer to wear a `____` t-shirt when hanging out with friends on weekends.
+Let's stay home and cook ____ of eating out.
 
-- [x] plain
-- [ ] get
-- [ ] have on
+- [x] instead
+- [ ] both
+- [ ] bother
 
-> **解析**：plain 在此处作形容词，意为“朴素的、单色的、无图案的”，修饰 t-shirt。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-We really ought to `____` together for dinner sometime soon.
+If we hurry up, we can make it to the ____.
 
-- [x] get
-- [ ] guys
-- [ ] make it
+- [x] concert
+- [ ] both
+- [ ] bother
 
-> **解析**：sometime soon 为时间副词短语，口语中意为“近期某个时间、快点”，常用于发出聚会邀请。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-`____` we go bowling together this Saturday evening.
+You must not speak loudly inside the ____ room.
 
-- [x] why don't
-- [ ] guys
-- [ ] make it
+- [x] reading
+- [ ] both
+- [ ] bother
 
-> **解析**：why don't 句型用于提出建议，结构为 Why don't we + 动词原形（Why don't we go...）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Don't `____` bringing snacks because I will prepare everything for our picnic.
+The ____ is not quite ready for launch yet.
 
-- [x] bother
-- [ ] have on
-- [ ] not quite
+- [x] project
+- [ ] both
+- [ ] bother
 
-> **解析**：bother 为动词，Don't bother doing sth. 意为“不必费心做某事”，表达客气的关心与建议。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Hey `____`, are you excited about the weekend road trip?
+Your ____ has been on my mind all day.
 
-- [x] guys
-- [ ] instead
-- [ ] on my mind
+- [x] advice
+- [ ] both
+- [ ] bother
 
-> **解析**：guys 为复数名词，口语中称呼“大家、大伙儿”，不论性别均可通用。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-I am so glad you could `____` to my birthday party on time.
+We should grab lunch ____ one of these days.
 
-- [x] make it
-- [ ] instead
-- [ ] one of these days
+- [x] together
+- [ ] both
+- [ ] bother
 
-> **解析**：make it 为固定口语动词短语，在此处意为“赶到、及时出席”（make it to a party）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+She wore a ____ white T-shirt to the casual meeting.
+
+- [x] plain
+- [ ] both
+- [ ] bother
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Please give my best ____ to your family.
+
+- [x] regards
+- [ ] both
+- [ ] bother
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Everyone was ____ by the news of the company closing.
+
+- [x] shocked
+- [ ] both
+- [ ] bother
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Let's find ____ quiet to sit and talk.
+
+- [x] someplace
+- [ ] both
+- [ ] bother
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+I hope to see you again ____ soon in town.
+
+- [x] sometime
+- [ ] both
+- [ ] bother
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+She is ____ to help us organize the event.
+
+- [x] willing
+- [ ] both
+- [ ] bother
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Why ____ we go for a walk in the park?
+
+- [x] don't
+- [ ] both
+- [ ] bother
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+You've got to try this ____ chocolate cake!
+
+- [x] delicious
+- [ ] both
+- [ ] bother
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Remember to ____ a warm jacket when you go out.
+
+- [x] wear
+- [ ] both
+- [ ] bother
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+I am so ____ for keeping you waiting so long.
+
+- [x] sorry
+- [ ] both
+- [ ] bother
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

@@ -61,83 +61,176 @@ get rid of = 处理掉/扔掉。break down = 出故障。
 
 <quiz-sentence-builder>
 
-1. **中文**：在搬到一个较小的公寓之前，我们必须处理掉不想要的家具。  
-   **英文**：Before moving to a smaller apartment, we must get rid of unwanted furniture.
-   > **解析**：get rid of 为固定动词短语，意为“处理掉、摆脱、扔掉”。后接名词或动名词（unwanted furniture）。
+1. **中文**：在搬家前，我们需要摆脱那些没有价值的破旧家具。  
+   **英文**：Before moving, we need to get rid of useless old furniture.
+   > **解析**：get rid of 表示“摆脱/丢弃”；valuable 表示“有价值的”；move 表示“搬家”。
 
-2. **中文**：住在地铁站附近使得日常通勤方便得多。  
-   **英文**：Living near a subway station makes daily commuting much more convenient.
-   > **解析**：convenient 为形容词，意为“方便的、便利的”。作宾语补足语（makes daily commuting convenient）。主语常为事物而非人。
+2. **中文**：新搬入的房子带有中央空调，生活非常方便。  
+   **英文**：The new house with central air conditioning is convenient.
+   > **解析**：air conditioning 表示“空调”；convenient 表示“方便的/便利的”。
 
-3. **中文**：把你的贵重物品（如珠宝和官方文件）打包装进随身提包里。  
-   **英文**：Pack your valuable items such as jewelry and official documents in your carry-on bag.
-   > **解析**：valuable 为形容词，意为“宝贵的、贵重的”。valuable items 指“贵重物品”。也可作复数名词 valuables（贵重物品）。
+3. **中文**：请检查后院的烟雾报警器和烧烤架是否正常。  
+   **英文**：Please check if the smoke alarm and grill in backyard work.
+   > **解析**：smoke alarm 表示“烟雾报警器”；grill 表示“烧烤架”；backyard 表示“后院”。
 
-4. **中文**：这套新公寓配有中央空调，在夏天能保持房间凉爽。  
-   **英文**：The new apartment has central air conditioning that keeps the rooms cool in summer about alarm.
-   > **解析**：air conditioning 为不可数名词短语，意为“空调”。central air conditioning 表示“中央空调”。
+4. **中文**：当电力中断时，电风扇和空调会停止工作。  
+   **英文**：When the electric power breaks down, fans stop working.
+   > **解析**：power 表示“电力/电源”；break down / breaks down 表示“故障/中断”。
 
-5. **中文**：搬家后，拥有一个可以在里面玩耍的大后院让孩子们非常激动。  
-   **英文**：The children were thrilled to have a big backyard to play in after moving house.
-   > **解析**：backyard 为名词，意为“后院”。thrilled 意为“非常激动/欣喜的”。
+5. **中文**：主人在后院摆放了一台方便的烧烤架和浴缸。  
+   **英文**：The owner put a convenient grill and bathtub in backyard.
+   > **解析**：bathtub 表示“浴缸”；grill 表示“烧烤架”；backyard 表示“后院”。
 
-6. **中文**：我们聘请了一位室内设计师来帮我们装饰客厅的墙壁。  
-   **英文**：We hired an interior designer to help us decorate the living room walls.
-   > **解析**：decorate 为动词，意为“装饰、布置”。decorate the walls 表示“装饰墙壁”。名词为 decoration。
+6. **中文**：我们在新的主卧里铺上了干净柔软的床单。  
+   **英文**：We put clean and soft bed sheets in our new bedroom.
+   > **解析**：sheet / bed sheet 表示“床单”；decorate 表示“装饰”。
 
-7. **中文**：检查房子里每个烟雾报警器的电池，以确保家庭安全。  
-   **英文**：Check the battery of every smoke alarm in the house to ensure family safety.
-   > **解析**：smoke alarm 为名词短语，意为“烟雾报警器、感烟探测器”。ensure safety 表示“确保安全”。
+7. **中文**：别担心，所有的珍贵包裹和信件都已上锁保存。  
+   **英文**：Don't be worried, all valuable mail and boxes are locked.
+   > **解析**：worried 表示“担心的”；valuable 表示“珍贵的/有价值的”；mail 表示“邮件/信件”；lock / locked 表示“上锁的”。
 
-8. **中文**：旧洗衣机在经过多年高强度使用后往往会发生故障。  
-   **英文**：Old washing machines often break down after years of heavy use.
-   > **解析**：break down 为动词短语，意为“（机械/车辆）故障、损坏”。
+8. **中文**：请把主电源开关关掉，以节省电力并确保安全。  
+   **英文**：Please turn off the main power switch to save electricity.
+   > **解析**：switch 表示“开关”；power 表示“电力”；save 表示“节省/保存”。
 
-9. **中文**：把所有的塑料瓶和纸板箱放进蓝色回收箱里。  
-   **英文**：Put all plastic bottles and cardboard boxes into the blue recycling bin.
-   > **解析**：recycling 在句中作定语修饰 bin，recycling bin 表示“垃圾回收箱”。recycling 为不可数名词，意为“回收利用”。
+9. **中文**：收拾那些凌乱的旧东西让人感到有些疲惫和压力。  
+   **英文**：Sorting out old stuff makes people feel tired and stressed.
+   > **解析**：tired 表示“疲惫的”；stressed 表示“感到有压力的”。
 
-10. **中文**：翻新后的浴室配有一个深白色的浴缸，供人洗放松的温水澡。  
-   **英文**：The renovated bathroom features a deep white bathtub for relaxing warm baths.
-   > **解析**：bathtub 为名词，意为“浴缸”。renovated 意为“翻新修缮的”。
+10. **中文**：他们把后院用花卉和彩灯装饰得非常漂亮。  
+   **英文**：They decorated their backyard with flowers and lights.
+   > **解析**：decorate / decorated 表示“装饰”；backyard 表示“后院”。
+
+11. **中文**：夏天开着空调在室内休息非常方便舒适。  
+   **英文**：Running the air conditioning in summer is very comfortable.
+   > **解析**：air conditioning 表示“空调”。
+
+12. **中文**：每个房间都必须按规定安装烟雾报警器。  
+   **英文**：Every bedroom must have a working smoke alarm.
+   > **解析**：smoke alarm 表示“烟雾报警器”。
+
+13. **中文**：周末全家人在后院举办了愉快的烧烤野餐。  
+   **英文**：The whole family had a BBQ party in the backyard.
+   > **解析**：backyard 表示“后院”。
+
+14. **中文**：请及时清理掉家里的生活垃圾和废旧杂物。  
+   **英文**：Please get rid of useless garbage in your room.
+   > **解析**：get rid of 表示“摆脱/处理掉”。
+
+15. **中文**：离开房间前，请记得按开关关掉电灯。  
+   **英文**：Remember to press the switch to turn off the light.
+   > **解析**：switch 表示“开关”。
+
+16. **中文**：那套昂贵的木质家具是家里最珍贵的财产。  
+   **英文**：That set of furniture is their most valuable item.
+   > **解析**：valuable 表示“珍贵的/有价值的”。
+
+17. **中文**：干了一整天的搬家体力活后，他感到精疲力竭。  
+   **英文**：After a whole day of moving work, he felt very tired.
+   > **解析**：tired 表示“疲惫的/累的”。
+
+18. **中文**：母亲总是对独自在外的孩子感到有些担心。  
+   **英文**：Mother is always a bit worried about her children.
+   > **解析**：worried 表示“担心的/焦虑的”。
+
+19. **中文**：这间公寓的位置离地铁站很近，交通出行很方便。  
+   **英文**：The location of this apartment is very convenient.
+   > **解析**：convenient 表示“方便的/便利的”。
+
+20. **中文**：我们在新家客厅里换上了漂亮温暖的新床单。  
+   **英文**：We put fresh clean sheets on the new bed today.
+   > **解析**：sheets / sheet 表示“床单”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Before moving to a smaller apartment, we must get rid of unwanted furniture.
-   > **中文**：在搬到一个较小的公寓之前，我们必须处理掉不想要的家具。
+1. Before moving, we need to get rid of useless old furniture.
+   > **中文**：在搬家前，我们需要摆脱那些没有价值的破旧家具。
 
-2. Living near a subway station makes daily commuting much more convenient.
-   > **中文**：住在地铁站附近使得日常通勤方便得多。
+2. The new house with central air conditioning is convenient.
+   > **中文**：新搬入的房子带有中央空调，生活非常方便。
 
-3. Pack your valuable items such as jewelry and official documents in your carry-on bag.
-   > **中文**：把你的贵重物品（如珠宝和官方文件）打包装进随身提包里。
+3. Please check if the smoke alarm and grill in backyard work.
+   > **中文**：请检查后院的烟雾报警器和烧烤架是否正常。
 
-4. The new apartment has central air conditioning that keeps the rooms cool in summer about alarm.
-   > **中文**：这套新公寓配有中央空调，在夏天能保持房间凉爽。
+4. When the electric power breaks down, fans stop working.
+   > **中文**：当电力中断时，电风扇和空调会停止工作。
 
-5. The children were thrilled to have a big backyard to play in after moving house.
-   > **中文**：搬家后，拥有一个可以在里面玩耍的大后院让孩子们非常激动。
+5. The owner put a convenient grill and bathtub in backyard.
+   > **中文**：主人在后院摆放了一台方便的烧烤架和浴缸。
 
-6. We hired an interior designer to help us decorate the living room walls.
-   > **中文**：我们聘请了一位室内设计师来帮我们装饰客厅的墙壁。
+6. We put clean and soft bed sheets in our new bedroom.
+   > **中文**：我们在新的主卧里铺上了干净柔软的床单。
 
-7. Check the battery of every smoke alarm in the house to ensure family safety.
-   > **中文**：检查房子里每个烟雾报警器的电池，以确保家庭安全。
+7. Don't be worried, all valuable mail and boxes are locked.
+   > **中文**：别担心，所有的珍贵包裹和信件都已上锁保存。
 
-8. Old washing machines often break down after years of heavy use.
-   > **中文**：旧洗衣机在经过多年高强度使用后往往会发生故障。
+8. Please turn off the main power switch to save electricity.
+   > **中文**：请把主电源开关关掉，以节省电力并确保安全。
 
-9. Put all plastic bottles and cardboard boxes into the blue recycling bin.
-   > **中文**：把所有的塑料瓶和纸板箱放进蓝色回收箱里。
+9. Sorting out old stuff makes people feel tired and stressed.
+   > **中文**：收拾那些凌乱的旧东西让人感到有些疲惫和压力。
 
-10. The renovated bathroom features a deep white bathtub for relaxing warm baths.
-   > **中文**：翻新后的浴室配有一个深白色的浴缸，供人洗放松的温水澡。
+10. They decorated their backyard with flowers and lights.
+   > **中文**：他们把后院用花卉和彩灯装饰得非常漂亮。
+
+11. Running the air conditioning in summer is very comfortable.
+   > **中文**：夏天开着空调在室内休息非常方便舒适。
+
+12. Every bedroom must have a working smoke alarm.
+   > **中文**：每个房间都必须按规定安装烟雾报警器。
+
+13. The whole family had a BBQ party in the backyard.
+   > **中文**：周末全家人在后院举办了愉快的烧烤野餐。
+
+14. Please get rid of useless garbage in your room.
+   > **中文**：请及时清理掉家里的生活垃圾和废旧杂物。
+
+15. Remember to press the switch to turn off the light.
+   > **中文**：离开房间前，请记得按开关关掉电灯。
+
+16. That set of furniture is their most valuable item.
+   > **中文**：那套昂贵的木质家具是家里最珍贵的财产。
+
+17. After a whole day of moving work, he felt very tired.
+   > **中文**：干了一整天的搬家体力活后，他感到精疲力竭。
+
+18. Mother is always a bit worried about her children.
+   > **中文**：母亲总是对独自在外的孩子感到有些担心。
+
+19. The location of this apartment is very convenient.
+   > **中文**：这间公寓的位置离地铁站很近，交通出行很方便。
+
+20. We put fresh clean sheets on the new bed today.
+   > **中文**：我们在新家客厅里换上了漂亮温暖的新床单。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| air conditioning | 空调 |
+| alarm | 警报器 / 闹钟 |
+| backyard | 后院 |
+| bathtub | 浴缸 |
+| break down | 故障 / 损坏 |
+| control | 控制 |
+| convenient | 方便的 / 便利的 |
+| decorate | 装饰 |
+| get rid of | 摆脱 / 处理掉 |
+| grill | 烧烤架 / 烤网 |
+| lock | 锁上 |
+| mail | 邮件 / 邮寄 |
+| move | 搬家 / 移动 |
+| power | 电力 / 电源 |
+| recycling | 回收利用 |
+| sheet | 床单 / 纸张 |
+| smoke alarm | 烟雾报警器 |
+| switch | 开关 / 切换 |
+| tired | 疲惫的 / 累的 |
+| valuable | 珍贵的 / 有价值的 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ get rid of = 处理掉/扔掉。break down = 出故障。
 
 ### 1
 
-Before moving to a smaller apartment, we must `____` unwanted furniture.
+Before moving, we need to get rid of useless old ____.
 
-- [x] get rid of
+- [x] furniture
 - [ ] air conditioning
-- [ ] break down
+- [ ] alarm
 
-> **解析**：get rid of 为固定动词短语，意为“处理掉、摆脱、扔掉”。后接名词或动名词（unwanted furniture）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Living near a subway station makes daily commuting much more `____`.
+The new house with central air conditioning is ____.
 
 - [x] convenient
+- [ ] air conditioning
 - [ ] alarm
-- [ ] control
 
-> **解析**：convenient 为形容词，意为“方便的、便利的”。作宾语补足语（makes daily commuting convenient）。主语常为事物而非人。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Pack your `____` items such as jewelry and official documents in your carry-on bag.
+Please check if the smoke ____ and grill in backyard work.
 
-- [x] valuable
+- [x] alarm
+- [ ] air conditioning
 - [ ] backyard
-- [ ] convenient
 
-> **解析**：valuable 为形容词，意为“宝贵的、贵重的”。valuable items 指“贵重物品”。也可作复数名词 valuables（贵重物品）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The new apartment has central `____` that keeps the rooms cool in summer about alarm.
+When the electric ____ breaks down, fans stop working.
 
-- [x] air conditioning
-- [ ] break down
-- [ ] get rid of
+- [x] power
+- [ ] air conditioning
+- [ ] alarm
 
-> **解析**：air conditioning 为不可数名词短语，意为“空调”。central air conditioning 表示“中央空调”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The children were thrilled to have a big `____` to play in after moving house.
+The owner put a ____ grill and bathtub in backyard.
 
-- [x] backyard
-- [ ] control
-- [ ] grill
+- [x] convenient
+- [ ] air conditioning
+- [ ] alarm
 
-> **解析**：backyard 为名词，意为“后院”。thrilled 意为“非常激动/欣喜的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-We hired an interior designer to help us `____` the living room walls.
+We put clean and soft bed sheets in our new ____.
 
-- [x] decorate
-- [ ] control
-- [ ] lock
+- [x] bedroom
+- [ ] air conditioning
+- [ ] alarm
 
-> **解析**：decorate 为动词，意为“装饰、布置”。decorate the walls 表示“装饰墙壁”。名词为 decoration。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Check the battery of every smoke `____` in the house to ensure family safety.
+Don't be ____, all valuable mail and boxes are locked.
 
-- [x] alarm
-- [ ] decorate
-- [ ] mail
+- [x] worried
+- [ ] air conditioning
+- [ ] alarm
 
-> **解析**：smoke alarm 为名词短语，意为“烟雾报警器、感烟探测器”。ensure safety 表示“确保安全”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Old washing machines often `____` after years of heavy use.
+Please turn off the main ____ switch to save electricity.
 
-- [x] break down
-- [ ] get rid of
-- [ ] make
+- [x] power
+- [ ] air conditioning
+- [ ] alarm
 
-> **解析**：break down 为动词短语，意为“（机械/车辆）故障、损坏”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Put all plastic bottles and cardboard boxes into the blue `____` bin.
+Sorting out old stuff makes people feel ____ and stressed.
 
-- [x] recycling
-- [ ] get rid of
-- [ ] make
+- [x] tired
+- [ ] air conditioning
+- [ ] alarm
 
-> **解析**：recycling 在句中作定语修饰 bin，recycling bin 表示“垃圾回收箱”。recycling 为不可数名词，意为“回收利用”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The renovated bathroom features a deep white `____` for relaxing warm baths.
+They decorated their ____ with flowers and lights.
 
-- [x] bathtub
-- [ ] lock
-- [ ] power
+- [x] backyard
+- [ ] air conditioning
+- [ ] alarm
 
-> **解析**：bathtub 为名词，意为“浴缸”。renovated 意为“翻新修缮的”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Running the air ____ in summer is very comfortable.
+
+- [x] conditioning
+- [ ] air conditioning
+- [ ] alarm
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Every bedroom must have a working smoke ____.
+
+- [x] alarm
+- [ ] air conditioning
+- [ ] backyard
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The whole family had a BBQ party in the ____.
+
+- [x] backyard
+- [ ] air conditioning
+- [ ] alarm
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Please get rid of ____ garbage in your room.
+
+- [x] useless
+- [ ] air conditioning
+- [ ] alarm
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Remember to press the ____ to turn off the light.
+
+- [x] switch
+- [ ] air conditioning
+- [ ] alarm
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+That set of furniture is their most ____ item.
+
+- [x] valuable
+- [ ] air conditioning
+- [ ] alarm
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+After a whole day of moving work, he felt very ____.
+
+- [x] tired
+- [ ] air conditioning
+- [ ] alarm
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Mother is always a bit ____ about her children.
+
+- [x] worried
+- [ ] air conditioning
+- [ ] alarm
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The location of this apartment is very ____.
+
+- [x] convenient
+- [ ] air conditioning
+- [ ] alarm
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+We put fresh clean ____ on the new bed today.
+
+- [x] sheets
+- [ ] air conditioning
+- [ ] alarm
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

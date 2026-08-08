@@ -61,83 +61,176 @@ Hollywood, adjust, agriculture, artistic, best way to learn, best way to meet, b
 
 <quiz-sentence-builder>
 
-1. **中文**：搬到大城市为她提供了全新的职业路线和文化体验。  
-   **英文**：Moving to the big city offered her new career paths and cultural experiences.
-   > **解析**：`the big city` 意为“大都市、大城市”，作介词 `to` 的宾语。
+1. **中文**：她离开远离家乡的小镇前往大城市，希望在演艺界闯出名堂。  
+   **英文**：Leaving her town far from her home, she moved to the big city to make it in show business.
+   > **解析**：far from her home 表示远离家乡；the big city 表示大城市；make it 表示成功/闯出名堂；show business 表示演艺界。
 
-2. **中文**：适应大快节奏的大都市生活需要时间。  
-   **英文**：It takes time to adjust to the fast pace of living in a metropolis.
-   > **解析**：`adjust` 不及物动词，搭配介词 `to`（`adjust to sth`）意为“适应某事”。
+2. **中文**：大城市充满了独特的机会，但你必须敢于冒险并给它一个机会。  
+   **英文**：The big city is full of unique opportunities, but you must take a risk and give it a chance.
+   > **解析**：full of unique opportunities 表示充满独特机会；take a risk 表示冒险；give it a chance 表示试试看。
 
-3. **中文**：生活在芝加哥对于年轻艺术家来说充满了独特的机遇。  
-   **英文**：Living in Chicago is full of unique opportunities for creative young artists.
-   > **解析**：`be full of unique opportunities` 意为“充满了独特的机遇”。
+3. **中文**：适应新环境可能会让人感到不确定，特别是在远离家乡的时候。  
+   **英文**：Adjusting to new surroundings can feel uncertain, especially far from her home.
+   > **解析**：adjust 表示适应；surroundings 表示环境；uncertain 表示不确定的；far from her home 表示远离家乡。
 
-4. **中文**：不要立刻拒绝城市生活；你首先应该给它一个机会试试。  
-   **英文**：Don't reject city life right away; you should give it a chance first.
-   > **解析**：`give sth/it a chance` 是常用表达，意为“给……一个机会”。
+4. **中文**：勤劳的父母保留着传统观念，而她却追求有艺术气质的生活。  
+   **英文**：Her hardworking parents hold conventional values, while she pursues an artistic life.
+   > **解析**：hardworking 表示勤劳的；conventional 表示传统的；values 表示价值观；artistic 表示有艺术气质的。
 
-5. **中文**：离开安静的老家去演艺界追梦是一个巨大的风险。  
-   **英文**：Leaving your quiet hometown to pursue a dream in showbiz is a big risk Hollywood.
-   > **解析**：`take a risk` 意为“冒风险、承担风险”。
+5. **中文**：打算前往好莱坞发展的年轻人应该充分利用每一次试镜机会。  
+   **英文**：Anyone looking to move to Hollywood should make the most of every audition.
+   > **解析**：looking to 表示打算；Hollywood 表示好莱坞；make the most 表示充分利用。
 
-6. **中文**：我家乡的人们以友好和勤劳而闻名。  
-   **英文**：People in my hometown are known for being friendly and hardworking.
-   > **解析**：`hardworking` 是形容词，意为“勤劳的、努力工作的”。
+6. **中文**：在拐角处的熟食店买个三明治是在这里结识朋友的最佳方式。  
+   **英文**：Grabbing lunch at the local deli is the best way to meet friendly neighbors.
+   > **解析**：deli 表示熟食店；best way to meet 表示结识……的最佳方式。
 
-7. **中文**：你应当充分利用这座城市丰富的文化资源。  
-   **英文**：You should make the most of the rich cultural resources in the city.
-   > **解析**：`make the most of sth` 是固定短语，意为“充分利用/善用某物”。
+7. **中文**：这间靠近自助洗衣店的公寓可能并不完全符合你的高标准。  
+   **英文**：The apartment near the laundromat might not be quite up to your standards.
+   > **解析**：laundromat 表示自助洗衣店；up to your standards 表示达到你的标准。
 
-8. **中文**：她喜欢回到家乡，欣赏安详宁静的周围环境。  
-   **英文**：She enjoys returning home to admire the peaceful green surroundings.
-   > **解析**：`surroundings` 常用复数，意为“环境、周围事物”。
+8. **中文**：观看百老汇音乐剧是了解纽约都市文化的最佳学习方式。  
+   **英文**：Watching a broadway musical is the best way to learn about New York culture.
+   > **解析**：broadway musical 表示百老汇音乐剧；best way to learn 表示最佳学习方式。
 
-9. **中文**：我的家乡虽小但风景如画，拥有令人惊叹的山景。  
-   **英文**：My hometown is small but beautiful with breathtaking mountain scenery.
-   > **解析**：`small but beautiful` 意为“小巧而美丽、精致秀丽”。
+9. **中文**：虽然她的家乡小巧而美丽，但那里的主要经济来源是农业。  
+   **英文**：Although her hometown was small but beautiful, its economy depended on agriculture.
+   > **解析**：small but beautiful 表示小巧而美丽的；agriculture 表示农业。
 
-10. **中文**：市中心的住房质量可能达不到你的标准。  
-   **英文**：The housing quality in the city center may not be up to your standards.
-   > **解析**：`up to one's standards` 意为“达到某人的标准”。
+10. **中文**：尽管未来充满了不确定性，他依然渴望在大城市打拼。  
+   **英文**：Even though the future seemed uncertain, he was eager to work in the big city.
+   > **解析**：uncertain 表示不确定的；the big city 表示大城市。
+
+11. **中文**：在这片充满独特机会的新土地上，你需要时间去适应周围的环境。  
+   **英文**：In a city full of unique opportunities, you need time to adjust to your surroundings.
+   > **解析**：full of unique opportunities 表示充满独特机会；adjust 表示适应；surroundings 表示环境。
+
+12. **中文**：他正打算在演艺界寻找一份新的工作。  
+   **英文**：He is looking to find a new job in the show business industry.
+   > **解析**：looking to 表示打算/寻找；show business 表示演艺界。
+
+13. **中文**：不妨给大城市的生活一个机会，你可能会爱上这里的节奏。  
+   **英文**：Why not give it a chance and see if you enjoy big city life?
+   > **解析**：give it a chance 表示给它一个机会/试试看。
+
+14. **中文**：只要你足够勤劳，就一定能在好莱坞闯出一片天地。  
+   **英文**：As long as you are hardworking, you can make it in Hollywood.
+   > **解析**：hardworking 表示勤劳的；make it 表示成功；Hollywood 表示好莱坞。
+
+15. **中文**：传统家庭培养出来的孩子往往拥有非常端正的价值观。  
+   **英文**：Children raised in conventional families often hold strong personal values.
+   > **解析**：conventional 表示传统的；values 表示价值观。
+
+16. **中文**：充分利用在自助洗衣店等待的时间读书是一个好习惯。  
+   **英文**：Making the most of waiting time at the laundromat is a good habit.
+   > **解析**：make the most 表示充分利用；laundromat 表示自助洗衣店。
+
+17. **中文**：离开小巧而美丽的家乡去大城市发展需要莫大的勇气。  
+   **英文**：Leaving a small but beautiful town for the big city takes great courage.
+   > **解析**：small but beautiful 表示小巧而美的；the big city 表示大城市。
+
+18. **中文**：这家熟食店提供的食物和服务绝对能达到你的标准。  
+   **英文**：The fresh food provided at this deli is definitely up to your standards.
+   > **解析**：deli 表示熟食店；up to your standards 表示达到你的标准。
+
+19. **中文**：欣赏一场百老汇音乐剧是感受艺术气息的最佳体验。  
+   **英文**：Attending a broadway musical is a great way to experience artistic charm.
+   > **解析**：broadway musical 表示百老汇音乐剧；artistic 表示艺术的。
+
+20. **中文**：敢于在年轻时冒险是许多成功者的共同特质。  
+   **英文**：Willingness to take a risk when young is a shared trait among successful people.
+   > **解析**：take a risk 表示冒险。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Moving to the big city offered her new career paths and cultural experiences.
-   > **中文**：搬到大城市为她提供了全新的职业路线和文化体验。
+1. Leaving her town far from her home, she moved to the big city to make it in show business.
+   > **中文**：她离开远离家乡的小镇前往大城市，希望在演艺界闯出名堂。
 
-2. It takes time to adjust to the fast pace of living in a metropolis.
-   > **中文**：适应大快节奏的大都市生活需要时间。
+2. The big city is full of unique opportunities, but you must take a risk and give it a chance.
+   > **中文**：大城市充满了独特的机会，但你必须敢于冒险并给它一个机会。
 
-3. Living in Chicago is full of unique opportunities for creative young artists.
-   > **中文**：生活在芝加哥对于年轻艺术家来说充满了独特的机遇。
+3. Adjusting to new surroundings can feel uncertain, especially far from her home.
+   > **中文**：适应新环境可能会让人感到不确定，特别是在远离家乡的时候。
 
-4. Don't reject city life right away; you should give it a chance first.
-   > **中文**：不要立刻拒绝城市生活；你首先应该给它一个机会试试。
+4. Her hardworking parents hold conventional values, while she pursues an artistic life.
+   > **中文**：勤劳的父母保留着传统观念，而她却追求有艺术气质的生活。
 
-5. Leaving your quiet hometown to pursue a dream in showbiz is a big risk Hollywood.
-   > **中文**：离开安静的老家去演艺界追梦是一个巨大的风险。
+5. Anyone looking to move to Hollywood should make the most of every audition.
+   > **中文**：打算前往好莱坞发展的年轻人应该充分利用每一次试镜机会。
 
-6. People in my hometown are known for being friendly and hardworking.
-   > **中文**：我家乡的人们以友好和勤劳而闻名。
+6. Grabbing lunch at the local deli is the best way to meet friendly neighbors.
+   > **中文**：在拐角处的熟食店买个三明治是在这里结识朋友的最佳方式。
 
-7. You should make the most of the rich cultural resources in the city.
-   > **中文**：你应当充分利用这座城市丰富的文化资源。
+7. The apartment near the laundromat might not be quite up to your standards.
+   > **中文**：这间靠近自助洗衣店的公寓可能并不完全符合你的高标准。
 
-8. She enjoys returning home to admire the peaceful green surroundings.
-   > **中文**：她喜欢回到家乡，欣赏安详宁静的周围环境。
+8. Watching a broadway musical is the best way to learn about New York culture.
+   > **中文**：观看百老汇音乐剧是了解纽约都市文化的最佳学习方式。
 
-9. My hometown is small but beautiful with breathtaking mountain scenery.
-   > **中文**：我的家乡虽小但风景如画，拥有令人惊叹的山景。
+9. Although her hometown was small but beautiful, its economy depended on agriculture.
+   > **中文**：虽然她的家乡小巧而美丽，但那里的主要经济来源是农业。
 
-10. The housing quality in the city center may not be up to your standards.
-   > **中文**：市中心的住房质量可能达不到你的标准。
+10. Even though the future seemed uncertain, he was eager to work in the big city.
+   > **中文**：尽管未来充满了不确定性，他依然渴望在大城市打拼。
+
+11. In a city full of unique opportunities, you need time to adjust to your surroundings.
+   > **中文**：在这片充满独特机会的新土地上，你需要时间去适应周围的环境。
+
+12. He is looking to find a new job in the show business industry.
+   > **中文**：他正打算在演艺界寻找一份新的工作。
+
+13. Why not give it a chance and see if you enjoy big city life?
+   > **中文**：不妨给大城市的生活一个机会，你可能会爱上这里的节奏。
+
+14. As long as you are hardworking, you can make it in Hollywood.
+   > **中文**：只要你足够勤劳，就一定能在好莱坞闯出一片天地。
+
+15. Children raised in conventional families often hold strong personal values.
+   > **中文**：传统家庭培养出来的孩子往往拥有非常端正的价值观。
+
+16. Making the most of waiting time at the laundromat is a good habit.
+   > **中文**：充分利用在自助洗衣店等待的时间读书是一个好习惯。
+
+17. Leaving a small but beautiful town for the big city takes great courage.
+   > **中文**：离开小巧而美丽的家乡去大城市发展需要莫大的勇气。
+
+18. The fresh food provided at this deli is definitely up to your standards.
+   > **中文**：这家熟食店提供的食物和服务绝对能达到你的标准。
+
+19. Attending a broadway musical is a great way to experience artistic charm.
+   > **中文**：欣赏一场百老汇音乐剧是感受艺术气息的最佳体验。
+
+20. Willingness to take a risk when young is a shared trait among successful people.
+   > **中文**：敢于在年轻时冒险是许多成功者的共同特质。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| the big city | 大城市 |
+| show business | 演艺界 |
+| Hollywood | 好莱坞 |
+| broadway musical | 百老汇音乐剧 |
+| deli | 熟食店 |
+| laundromat | 自助洗衣店 |
+| conventional | 传统的；循规蹈矩的 |
+| artistic | 有艺术气质的 |
+| hardworking | 勤劳的 |
+| agriculture | 农业 |
+| surroundings | 环境 |
+| values | 价值观 |
+| uncertain | 不确定的 |
+| make it | 成功；闯出名堂 |
+| make the most | 充分利用 |
+| take a risk | 冒险 |
+| give it a chance | 给个机会；试试看 |
+| adjust | 适应 |
+| looking to | 打算；寻求 |
+| up to your standards | 达到你的标准 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ Hollywood, adjust, agriculture, artistic, best way to learn, best way to meet, b
 
 ### 1
 
-Moving to `____` offered her new career paths and cultural experiences.
+Leaving her town far from her home, she moved to the big city to make it in show ____.
 
-- [x] the big city
+- [x] business
 - [ ] Hollywood
-- [ ] best way to learn
+- [ ] adjust
 
-> **解析**：`the big city` 意为“大都市、大城市”，作介词 `to` 的宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-It takes time to `____` to the fast pace of living in a metropolis.
+The big city is full of unique ____, but you must take a risk and give it a chance.
 
-- [x] adjust
-- [ ] agriculture
-- [ ] broadway musical
+- [x] opportunities
+- [ ] Hollywood
+- [ ] adjust
 
-> **解析**：`adjust` 不及物动词，搭配介词 `to`（`adjust to sth`）意为“适应某事”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Living in Chicago is `____` for creative young artists.
+Adjusting to new ____ can feel uncertain, especially far from her home.
 
-- [x] full of unique opportunities
-- [ ] agriculture
-- [ ] broadway musical
+- [x] surroundings
+- [ ] Hollywood
+- [ ] adjust
 
-> **解析**：`be full of unique opportunities` 意为“充满了独特的机遇”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Don't reject city life right away; you should `____` first.
+Her ____ parents hold conventional values, while she pursues an artistic life.
 
-- [x] give it a chance
-- [ ] artistic
-- [ ] conventional
+- [x] hardworking
+- [ ] Hollywood
+- [ ] adjust
 
-> **解析**：`give sth/it a chance` 是常用表达，意为“给……一个机会”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Leaving your quiet hometown to pursue a dream in showbiz is a big risk `____`.
+Anyone looking to move to ____ should make the most of every audition.
 
 - [x] Hollywood
-- [ ] best way to meet
-- [ ] far from her home
+- [ ] adjust
+- [ ] agriculture
 
-> **解析**：`take a risk` 意为“冒风险、承担风险”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-People in my hometown are known for being friendly and `____`.
+Grabbing lunch at the local ____ is the best way to meet friendly neighbors.
 
-- [x] hardworking
-- [ ] best way to meet
-- [ ] far from her home
+- [x] deli
+- [ ] Hollywood
+- [ ] adjust
 
-> **解析**：`hardworking` 是形容词，意为“勤劳的、努力工作的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-You should `____` of the rich cultural resources in the city.
+The apartment near the ____ might not be quite up to your standards.
 
-- [x] make the most
-- [ ] broadway musical
-- [ ] full of unique opportunities
+- [x] laundromat
+- [ ] Hollywood
+- [ ] adjust
 
-> **解析**：`make the most of sth` 是固定短语，意为“充分利用/善用某物”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-She enjoys returning home to admire the peaceful green `____`.
+____ a broadway musical is the best way to learn about New York culture.
 
-- [x] surroundings
-- [ ] conventional
-- [ ] give it a chance
+- [x] Watching
+- [ ] Hollywood
+- [ ] adjust
 
-> **解析**：`surroundings` 常用复数，意为“环境、周围事物”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-My hometown is `____` with breathtaking mountain scenery.
+Although her hometown was small but beautiful, its economy depended on ____.
 
-- [x] small but beautiful
-- [ ] deli
-- [ ] hardworking
+- [x] agriculture
+- [ ] Hollywood
+- [ ] adjust
 
-> **解析**：`small but beautiful` 意为“小巧而美丽、精致秀丽”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The housing quality in the city center may not be `____`.
+Even though the future seemed ____, he was eager to work in the big city.
 
-- [x] up to your standards
-- [ ] far from her home
-- [ ] laundromat
+- [x] uncertain
+- [ ] Hollywood
+- [ ] adjust
 
-> **解析**：`up to one's standards` 意为“达到某人的标准”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+In a city full of unique opportunities, you need time to ____ to your surroundings.
+
+- [x] adjust
+- [ ] Hollywood
+- [ ] agriculture
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+He is looking to find a new job in the show ____ industry.
+
+- [x] business
+- [ ] Hollywood
+- [ ] adjust
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Why not give it a ____ and see if you enjoy big city life?
+
+- [x] chance
+- [ ] Hollywood
+- [ ] adjust
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+As long as you are ____, you can make it in Hollywood.
+
+- [x] hardworking
+- [ ] Hollywood
+- [ ] adjust
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Children raised in ____ families often hold strong personal values.
+
+- [x] conventional
+- [ ] Hollywood
+- [ ] adjust
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Making the most of waiting time at the ____ is a good habit.
+
+- [x] laundromat
+- [ ] Hollywood
+- [ ] adjust
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Leaving a small but ____ town for the big city takes great courage.
+
+- [x] beautiful
+- [ ] Hollywood
+- [ ] adjust
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+The fresh food provided at this ____ is definitely up to your standards.
+
+- [x] deli
+- [ ] Hollywood
+- [ ] adjust
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Attending a broadway musical is a great way to experience ____ charm.
+
+- [x] artistic
+- [ ] Hollywood
+- [ ] adjust
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+____ to take a risk when young is a shared trait among successful people.
+
+- [x] Willingness
+- [ ] Hollywood
+- [ ] adjust
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

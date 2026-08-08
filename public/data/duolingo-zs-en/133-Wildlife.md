@@ -61,83 +61,176 @@ ridden 是 ride 的过去分词。the environment 表示"环境"。
 
 <quiz-sentence-builder>
 
-1. **中文**：茂密的植被和高湿度使得在丛林中穿行十分困难。  
-   **英文**：Dense vegetation and high humidity make navigating through the jungle difficult.
-   > **解析**：jungle 为名词，意为“热带丛林”。navigate through 指“在...中穿行/导航”。
+1. **中文**：在潮湿的丛林深处，老虎和斑马在泥土上前行。  
+   **英文**：In the humid jungle, the tiger and zebra walked on dirt.
+   > **解析**：humid 表示“潮湿的”；jungle 表示“丛林”；tiger 表示“老虎”；zebra 表示“斑马”；dirt 表示“泥土”。
 
-2. **中文**：热带雨林天气在夏季月份极其炎热潮湿。  
-   **英文**：The tropical rainforest weather is extremely hot and humid during the summer months about ahead.
-   > **解析**：humid 为形容词，意为“潮湿的、湿热的”。用于描述天气或气候（humid air/weather）。名词形式为 humidity。
+2. **中文**：大声歌唱的鹦鹉站在亮绿色的树叶旁。  
+   **英文**：The parrot singing loudly sat beside a bright leaf.
+   > **解析**：parrot 表示“鹦鹉”；loudly 表示“大声地”；beside 表示“在……旁”；bright 表示“明亮的”；leaf 表示“树叶”。
 
-3. **中文**：长颈鹿用它长长的脖子去够树顶上的树叶。  
-   **英文**：The giraffe used its long neck to reach leaves at the very top of the tree.
-   > **解析**：giraffe 为名词，意为“长颈鹿”。reach leaves 表示“够到树叶”。
+3. **中文**：看！前方那只长颈鹿正静静地吃着树叶。  
+   **英文**：Look ahead! That giraffe is quietly eating green leaves.
+   > **解析**：ahead 表示“在前方”；giraffe 表示“长颈鹿”；quietly 表示“安静地”。
 
-4. **中文**：一只野老虎在高达的草丛中静静移动以寻找猎物。  
-   **英文**：A wild tiger moved silently through the tall grass in search of prey.
-   > **解析**：tiger 为名词，意为“老虎”。in search of 意为“寻找”。silently 为副词修饰 moved。
+4. **中文**：企鹅在冰冷的岩石上摇摇晃晃地行走。  
+   **英文**：The penguin walked wobbly on the cold stone.
+   > **解析**：penguin 表示“企鹅”；stone 表示“岩石/石头”。
 
-5. **中文**：那只色彩斑斓的鹦鹉栖息在树枝上，大声地模仿人类说话。  
-   **英文**：The colorful parrot perched on a branch and imitated human speech loudly.
-   > **解析**：parrot 为名词，意为“鹦鹉”。perch on 表示“栖息于”。imitate human speech 意为“模仿人类说话”。
+5. **中文**：海豚在蔚蓝的大海里嬉戏，嗅闻着海洋的气息。  
+   **英文**：The dolphin played in the sea, smelling the water breeze.
+   > **解析**：dolphin 表示“海豚”；smell / smelling 表示“嗅闻/闻到”。
 
-6. **中文**：盲目砍伐树木会破坏自然栖息地并损害环境。  
-   **英文**：Cutting down trees blindly destroys the natural habitat and harms the environment.
-   > **解析**：the environment 为名词短语，特指“自然环境”。通常前面带定冠词 the。harm the environment 意为“损害环境”。
+6. **中文**：保护地球大自然环境是所有人的责任。  
+   **英文**：Protecting the environment of Earth is our duty.
+   > **解析**：the environment 表示“自然环境”；Earth 表示“地球”。
 
-7. **中文**：野生动物摄影师静静地坐在灌木丛后，以免惊吓到鸟类。  
-   **英文**：The wildlife photographer sat quietly behind the bushes to avoid scaring the birds.
-   > **解析**：quietly 为副词，意为“安静地、悄悄地”。修饰动词 sat。avoid scaring 表示“避免惊吓”。
+7. **中文**：我们骑过骆驼后，决定返回营地。  
+   **英文**：Having ridden the camels, we decided to go back.
+   > **解析**：ridden 是 ride 的过去分词；go back 表示“返回”。
 
-8. **中文**：吼猴在树冠层大声沟通，以此标示它们的领地。  
-   **英文**：Howler monkeys communicate loudly across the canopy to mark their territory beside.
-   > **解析**：loudly 为副词，意为“大声地、喧闹地”。修饰动词 communicate。mark territory 意为“标示领地”。
+8. **中文**：树林里的鸟儿发出清脆悦耳的声音，闻起来满是泥土香。  
+   **英文**：Birds in the forest sang as the air smelled like dirt.
+   > **解析**：smell / smelled 表示“闻起来”；dirt 表示“泥土”。
 
-9. **中文**：河岸上盖满了被流水冲刷得光滑的灰色石头。  
-   **英文**：The river bank was covered with smooth gray stones shaped by flowing water.
-   > **解析**：stone 为名词，意为“石头”。smooth 意为“光滑的”。shaped by 为过去分词短语作后置定语。
+9. **中文**：在湛蓝的天空下，那顶鲜艳的遮阳帽显得格外明亮。  
+   **英文**：Under the blue sky, that hat looked very bright.
+   > **解析**：bright 表示“鲜艳的/明亮的”。
 
-10. **中文**：导游劝告徒步旅行者为了安全在黄昏前返回。  
-   **英文**：The tour guide advised the hikers to go back before nightfall about beside.
-   > **解析**：go back 为动词短语，意为“返回、回去”。advise sb. to do sth. 表示“劝告某人做某事”。
+10. **中文**：你知道为什么长颈鹿脖子长、斑马身上有条纹吗？  
+   **英文**：Do you know why giraffes have long necks and zebras stripes?
+   > **解析**：why 引导疑问句“为什么”；zebra / zebras 表示“斑马”。
+
+11. **中文**：海豚是一种非常聪明且对人类友善的海洋哺乳动物。  
+   **英文**：The dolphin is a very smart marine animal.
+   > **解析**：dolphin 表示“海豚”。
+
+12. **中文**：企鹅主要生活在地球南半球的冰雪世界。  
+   **英文**：Penguins mainly live in cold areas on Earth.
+   > **解析**：penguin / penguins 表示“企鹅”；Earth 表示“地球”。
+
+13. **中文**：热带雨林里的空气总是非常潮湿。  
+   **英文**：The air in the tropical jungle is always very humid.
+   > **解析**：humid 表示“潮湿的”；jungle 表示“丛林”。
+
+14. **中文**：那只彩色鹦鹉能模仿人类说话的声音。  
+   **英文**：That colorful parrot can copy human sounds loudly.
+   > **解析**：parrot 表示“鹦鹉”；loudly 表示“大声地”。
+
+15. **中文**：一只凶猛的老虎正在草丛里静悄悄地潜行。  
+   **英文**：A fierce tiger was crawling quietly in the tall grass.
+   > **解析**：tiger 表示“老虎”；quietly 表示“安静地”。
+
+16. **中文**：长颈鹿伸长脖子去吃高处大树上的叶子。  
+   **英文**：The giraffe reached up to eat leaves from the tall tree.
+   > **解析**：leaf / leaves 表示“树叶”；giraffe 表示“长颈鹿”。
+
+17. **中文**：请向前看，前方有一群斑马在奔跑。  
+   **英文**：Look ahead, a group of zebras is running by.
+   > **解析**：ahead 表示“在前方/向前”；zebra / zebras 表示“斑马”。
+
+18. **中文**：这块石头表面长满了绿色的苔藓。  
+   **英文**：This stone is covered with green moss in nature.
+   > **解析**：stone 表示“石头/岩石”。
+
+19. **中文**：我们应该共同携手保护人类赖以生存的自然环境。  
+   **英文**：We should work together to protect the environment.
+   > **解析**：the environment 表示“自然环境”。
+
+20. **中文**：导游领着大家停在了一条清澈的小溪旁边。  
+   **英文**：The guide stopped the group right beside a clear stream.
+   > **解析**：beside 表示“在……旁”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Dense vegetation and high humidity make navigating through the jungle difficult.
-   > **中文**：茂密的植被和高湿度使得在丛林中穿行十分困难。
+1. In the humid jungle, the tiger and zebra walked on dirt.
+   > **中文**：在潮湿的丛林深处，老虎和斑马在泥土上前行。
 
-2. The tropical rainforest weather is extremely hot and humid during the summer months about ahead.
-   > **中文**：热带雨林天气在夏季月份极其炎热潮湿。
+2. The parrot singing loudly sat beside a bright leaf.
+   > **中文**：大声歌唱的鹦鹉站在亮绿色的树叶旁。
 
-3. The giraffe used its long neck to reach leaves at the very top of the tree.
-   > **中文**：长颈鹿用它长长的脖子去够树顶上的树叶。
+3. Look ahead! That giraffe is quietly eating green leaves.
+   > **中文**：看！前方那只长颈鹿正静静地吃着树叶。
 
-4. A wild tiger moved silently through the tall grass in search of prey.
-   > **中文**：一只野老虎在高达的草丛中静静移动以寻找猎物。
+4. The penguin walked wobbly on the cold stone.
+   > **中文**：企鹅在冰冷的岩石上摇摇晃晃地行走。
 
-5. The colorful parrot perched on a branch and imitated human speech loudly.
-   > **中文**：那只色彩斑斓的鹦鹉栖息在树枝上，大声地模仿人类说话。
+5. The dolphin played in the sea, smelling the water breeze.
+   > **中文**：海豚在蔚蓝的大海里嬉戏，嗅闻着海洋的气息。
 
-6. Cutting down trees blindly destroys the natural habitat and harms the environment.
-   > **中文**：盲目砍伐树木会破坏自然栖息地并损害环境。
+6. Protecting the environment of Earth is our duty.
+   > **中文**：保护地球大自然环境是所有人的责任。
 
-7. The wildlife photographer sat quietly behind the bushes to avoid scaring the birds.
-   > **中文**：野生动物摄影师静静地坐在灌木丛后，以免惊吓到鸟类。
+7. Having ridden the camels, we decided to go back.
+   > **中文**：我们骑过骆驼后，决定返回营地。
 
-8. Howler monkeys communicate loudly across the canopy to mark their territory beside.
-   > **中文**：吼猴在树冠层大声沟通，以此标示它们的领地。
+8. Birds in the forest sang as the air smelled like dirt.
+   > **中文**：树林里的鸟儿发出清脆悦耳的声音，闻起来满是泥土香。
 
-9. The river bank was covered with smooth gray stones shaped by flowing water.
-   > **中文**：河岸上盖满了被流水冲刷得光滑的灰色石头。
+9. Under the blue sky, that hat looked very bright.
+   > **中文**：在湛蓝的天空下，那顶鲜艳的遮阳帽显得格外明亮。
 
-10. The tour guide advised the hikers to go back before nightfall about beside.
-   > **中文**：导游劝告徒步旅行者为了安全在黄昏前返回。
+10. Do you know why giraffes have long necks and zebras stripes?
+   > **中文**：你知道为什么长颈鹿脖子长、斑马身上有条纹吗？
+
+11. The dolphin is a very smart marine animal.
+   > **中文**：海豚是一种非常聪明且对人类友善的海洋哺乳动物。
+
+12. Penguins mainly live in cold areas on Earth.
+   > **中文**：企鹅主要生活在地球南半球的冰雪世界。
+
+13. The air in the tropical jungle is always very humid.
+   > **中文**：热带雨林里的空气总是非常潮湿。
+
+14. That colorful parrot can copy human sounds loudly.
+   > **中文**：那只彩色鹦鹉能模仿人类说话的声音。
+
+15. A fierce tiger was crawling quietly in the tall grass.
+   > **中文**：一只凶猛的老虎正在草丛里静悄悄地潜行。
+
+16. The giraffe reached up to eat leaves from the tall tree.
+   > **中文**：长颈鹿伸长脖子去吃高处大树上的叶子。
+
+17. Look ahead, a group of zebras is running by.
+   > **中文**：请向前看，前方有一群斑马在奔跑。
+
+18. This stone is covered with green moss in nature.
+   > **中文**：这块石头表面长满了绿色的苔藓。
+
+19. We should work together to protect the environment.
+   > **中文**：我们应该共同携手保护人类赖以生存的自然环境。
+
+20. The guide stopped the group right beside a clear stream.
+   > **中文**：导游领着大家停在了一条清澈的小溪旁边。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| ahead | 在前方 |
+| beside | 在……旁 |
+| bright | 明亮的 / 鲜艳的 |
+| dirt | 泥土 |
+| dolphin | 海豚 |
+| earth | 地球 / 土地 |
+| giraffe | 长颈鹿 |
+| go back | 返回 |
+| humid | 潮湿的 |
+| jungle | 丛林 |
+| leaf | 树叶 |
+| loudly | 大声地 |
+| parrot | 鹦鹉 |
+| penguin | 企鹅 |
+| quietly | 安静地 |
+| ridden | 骑（ride的过去分词） |
+| smell | 闻 / 气味 |
+| stone | 石头 / 岩石 |
+| the environment | 自然环境 |
+| tiger | 老虎 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ ridden 是 ride 的过去分词。the environment 表示"环境"。
 
 ### 1
 
-Dense vegetation and high `____`ity make navigating through the jungle difficult.
+In the ____ jungle, the tiger and zebra walked on dirt.
 
 - [x] humid
 - [ ] ahead
-- [ ] dolphin
+- [ ] beside
 
-> **解析**：jungle 为名词，意为“热带丛林”。navigate through 指“在...中穿行/导航”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The tropical rainforest weather is extremely hot and humid during the summer months about `____`.
+The ____ singing loudly sat beside a bright leaf.
 
-- [x] ahead
-- [ ] bright
-- [ ] giraffe
+- [x] parrot
+- [ ] ahead
+- [ ] beside
 
-> **解析**：humid 为形容词，意为“潮湿的、湿热的”。用于描述天气或气候（humid air/weather）。名词形式为 humidity。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The `____` used its long neck to reach leaves at the very top of the tree.
+Look ____! That giraffe is quietly eating green leaves.
 
-- [x] giraffe
+- [x] ahead
+- [ ] beside
 - [ ] bright
-- [ ] go back
 
-> **解析**：giraffe 为名词，意为“长颈鹿”。reach leaves 表示“够到树叶”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-A wild `____` moved silently through the tall grass in search of prey.
+The ____ walked wobbly on the cold stone.
 
-- [x] tiger
-- [ ] dirt
-- [ ] go back
+- [x] penguin
+- [ ] ahead
+- [ ] beside
 
-> **解析**：tiger 为名词，意为“老虎”。in search of 意为“寻找”。silently 为副词修饰 moved。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The colorful parrot perched on a branch and imitated human speech `____`.
+The ____ played in the sea, smelling the water breeze.
 
-- [x] loudly
-- [ ] dolphin
-- [ ] humid
+- [x] dolphin
+- [ ] ahead
+- [ ] beside
 
-> **解析**：parrot 为名词，意为“鹦鹉”。perch on 表示“栖息于”。imitate human speech 意为“模仿人类说话”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Cutting down trees blindly destroys the natural habitat and harms `____`.
+Protecting the environment of ____ is our duty.
 
-- [x] the environment
-- [ ] earth
-- [ ] jungle
+- [x] Earth
+- [ ] ahead
+- [ ] beside
 
-> **解析**：the environment 为名词短语，特指“自然环境”。通常前面带定冠词 the。harm the environment 意为“损害环境”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The wildlife photographer sat `____` behind the bushes to avoid scaring the birds.
+Having ____ the camels, we decided to go back.
 
-- [x] quietly
-- [ ] giraffe
-- [ ] just
+- [x] ridden
+- [ ] ahead
+- [ ] beside
 
-> **解析**：quietly 为副词，意为“安静地、悄悄地”。修饰动词 sat。avoid scaring 表示“避免惊吓”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Howler monkeys communicate loudly across the canopy to mark their territory `____`.
+Birds in the forest sang as the air smelled like ____.
 
-- [x] beside
-- [ ] humid
-- [ ] loudly
+- [x] dirt
+- [ ] ahead
+- [ ] beside
 
-> **解析**：loudly 为副词，意为“大声地、喧闹地”。修饰动词 communicate。mark territory 意为“标示领地”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The river bank was covered with smooth gray `____`s shaped by flowing water.
+Under the blue sky, that hat looked very ____.
 
-- [x] stone
-- [ ] humid
-- [ ] loudly
+- [x] bright
+- [ ] ahead
+- [ ] beside
 
-> **解析**：stone 为名词，意为“石头”。smooth 意为“光滑的”。shaped by 为过去分词短语作后置定语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The tour guide advised the hikers to `____` before nightfall about beside.
+Do you know ____ giraffes have long necks and zebras stripes?
 
-- [x] go back
-- [ ] just
-- [ ] penguin
+- [x] why
+- [ ] ahead
+- [ ] beside
 
-> **解析**：go back 为动词短语，意为“返回、回去”。advise sb. to do sth. 表示“劝告某人做某事”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The ____ is a very smart marine animal.
+
+- [x] dolphin
+- [ ] ahead
+- [ ] beside
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Penguins mainly live in cold areas on ____.
+
+- [x] Earth
+- [ ] ahead
+- [ ] beside
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The air in the tropical ____ is always very humid.
+
+- [x] jungle
+- [ ] ahead
+- [ ] beside
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+That colorful ____ can copy human sounds loudly.
+
+- [x] parrot
+- [ ] ahead
+- [ ] beside
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+A fierce ____ was crawling quietly in the tall grass.
+
+- [x] tiger
+- [ ] ahead
+- [ ] beside
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The ____ reached up to eat leaves from the tall tree.
+
+- [x] giraffe
+- [ ] ahead
+- [ ] beside
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Look ____, a group of zebras is running by.
+
+- [x] ahead
+- [ ] beside
+- [ ] bright
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+This ____ is covered with green moss in nature.
+
+- [x] stone
+- [ ] ahead
+- [ ] beside
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+We should work together to protect the ____.
+
+- [x] environment
+- [ ] ahead
+- [ ] beside
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+The guide stopped the group right ____ a clear stream.
+
+- [x] beside
+- [ ] ahead
+- [ ] bright
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

@@ -53,83 +53,176 @@ in common 是谈论共同爱好的核心搭配：We have sports in common. typic
 
 <quiz-sentence-builder>
 
-1. **中文**：你以前曾参加过任何专业的水上运动项目吗？  
-   **英文**：Have you ever played any professional water sports before?
-   > **解析**：any 在疑问句中用作限定词，修饰复数名词 sports，意为“任何、一些”。
+1. **中文**：你以前曾经去过纽约市观光吗？
+   **英文**：Have you ever been to New York City for sightseeing?
+   > **解析**：have you ever been to 表示“你以前去过……吗”。
 
-2. **中文**：你冬天去过国家级的滑雪度假胜地吗？  
-   **英文**：Have you ever been to a national skiing resort in winter.
-   > **解析**：been 是 be 的过去分词，Have you ever been to... 结构用于询问过去的经历（是否去过某地）。
+2. **中文**：我们队在最后的决胜局中击败了冠军队。
+   **英文**：Our basketball team has beaten the champions in the finals.
+   > **解析**：beaten 是 beat 的过去分词，意为“击败/胜过”。
 
-3. **中文**：去年冬天湖面完全结冰了，人们可以安全地在上面滑冰。  
-   **英文**：The lake surface froze completely last winter, allowing people to ice skate safely.
-   > **解析**：froze 是 freeze 的一般过去式，意为“结冰、冻结”，描述过去发生的事实。
+3. **中文**：有些学生选择在寒假期间去图书馆学习。
+   **英文**：Many students choose to study at the library during break.
+   > **解析**：choose to 表示“选择去做……”。
 
-4. **中文**：这两位运动员有很多共同点，包括他们对篮球的热狂热投入。  
-   **英文**：Both athletes have a lot in common, including their passionate devotion to basketball.
-   > **解析**：in common 为固定介词短语，常用结构 have sth. in common（有共同点/共同之处）。
+4. **中文**：把新鲜的肉类存放在冰箱里以防变质。
+   **英文**：Keep fresh meat in the freezer so it doesn't freeze quickly.
+   > **解析**：freeze 表示“结冰/冻结”。
 
-5. **中文**：一些队员喜欢游泳，而其他人则喜欢在户外打网球。  
-   **英文**：Some team members prefer swimming while others like playing tennis outdoors.
-   > **解析**：others 为代名词，常与 some 对应使用（some... others... 意为“一些人……其他人……”）。
+5. **中文**：昨天夜里气温骤降，湖水结冰了。
+   **英文**：The water froze completely when temperature dropped overnight.
+   > **解析**：froze 是 freeze 的过去式，表示“结冰了”。
 
-6. **中文**：如果你想参加我们的篮球练习，稍后随时顺道来体育馆看看。  
-   **英文**：Feel free to stop by the gym later if you want to join our basketball practice.
-   > **解析**：stop by 为动词短语，口语中意为“顺路拜访、顺便去”，后接地点名词（stop by the gym）。
+6. **中文**：超市售卖各种各样的速冻食品和蔬菜。
+   **英文**：The grocery store sells many kinds of frozen vegetables.
+   > **解析**：frozen 表示“冰冻的/冷冻的”。
 
-7. **中文**：我们的网球俱乐部将于下周六上午举办一场友谊比赛。  
-   **英文**：Our tennis club will host a friendly tournament next Saturday morning.
-   > **解析**：will 为情态动词，用于表示将要发生的计划或安排（will host）。
+7. **中文**：听说你拿到了全额奖学金，恭喜你！
+   **英文**：I was happy to hear that you won the full scholarship.
+   > **解析**：hear that 表示“听到那个消息/听说”。
 
-8. **中文**：你曾经在羽毛球竞技比赛中击败过冠军选手吗？  
-   **英文**：Have you ever beaten a championship player in a competitive badminton match.
-   > **解析**：beaten 是 beat 的过去分词，与 Have 构成现在完成时（Have you ever beaten...），意为“击败/战胜”。
+8. **中文**：我和我的新室友在音乐方面有很多共同之处。
+   **英文**：My roommate and I have a lot in common when it comes to music.
+   > **解析**：in common 表示“共同之处/共通点”。
 
-9. **中文**：当环境温度降至摄氏零度时，水就会结冰。  
-   **英文**：Water will freeze when the ambient temperature falls to zero degrees Celsius.
-   > **解析**：freeze 为动词原形，意为“结冰、凝固”，作不及物动词使用。
+9. **中文**：他对古代中国历史表现出了极大的兴趣。
+   **英文**：He showed a great interest in learning traditional history.
+   > **解析**：interest 表示“兴趣/关注”。
 
-10. **中文**：你听说我们学校的马拉松跑者打破了官方纪录吗？  
-   **英文**：Did you hear that our school marathon runner broke the official record?
-   > **解析**：hear that 意为“听说……”，that 引导宾语从句说明听说的内容（our runner broke the record）。
+10. **中文**：我从来没有去过欧洲，希望明年能去一趟。
+   **英文**：I have never been to Europe, but I hope to visit next year.
+   > **解析**：never been 表示“从未去过”。
+
+11. **中文**：要懂得尊重他人的观点和生活习惯。
+   **英文**：Always show respect for the opinions of others around you.
+   > **解析**：others 表示“其他人/其他人事物”。
+
+12. **中文**：参加户外体育运动是保持健康的极佳方式。
+   **英文**：Playing outdoor sports is a fun way to stay healthy.
+   > **解析**：sports 表示“体育运动”。
+
+13. **中文**：当音乐响起时，大家开始跳舞。
+   **英文**：When the music played, people start to dance together.
+   > **解析**：start to 表示“开始做……”。
+
+14. **中文**：请在今晚下班回家顺路拜访我们家。
+   **英文**：Feel free to stop by our house on your way home.
+   > **解析**：stop by 表示“顺路拜访/串门”。
+
+15. **中文**：他通常会在清晨六点准时醒来。
+   **英文**：He typically gets up early at six o'clock every morning.
+   > **解析**：typically 表示“通常地/典型地”。
+
+16. **中文**：她在公开演讲方面表现得非常好。
+   **英文**：She did very well on her English presentation today.
+   > **解析**：well 表示“很好地/出色地”。
+
+17. **中文**：我们下个月将举办一场大型社区文化节。
+   **英文**：We will host a neighborhood festival next month.
+   > **解析**：will 表示“将要/将会”。
+
+18. **中文**：你今天在办公室里遇到任何困难了吗？
+   **英文**：Did you experience any difficulty during your work today?
+   > **解析**：any 用于疑问句表示“任何”。
+
+19. **中文**：如果需要任何帮助，请随时告诉我。
+   **英文**：If there is anything I can do, please let me know.
+   > **解析**：anything 表示“任何事/任何东西”。
+
+20. **中文**：他在这个知名公司工作已经是很多年了。
+   **英文**：He has been a reliable employee in this company for years.
+   > **解析**：been 是 be 的过去分词，has been 表示“已经是”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Have you ever played any professional water sports before?
-   > **中文**：你以前曾参加过任何专业的水上运动项目吗？
+1. Have you ever been to New York City for sightseeing?
+   > **中文**：你以前曾经去过纽约市观光吗？
 
-2. Have you ever been to a national skiing resort in winter.
-   > **中文**：你冬天去过国家级的滑雪度假胜地吗？
+2. Our basketball team has beaten the champions in the finals.
+   > **中文**：我们队在最后的决胜局中击败了冠军队。
 
-3. The lake surface froze completely last winter, allowing people to ice skate safely.
-   > **中文**：去年冬天湖面完全结冰了，人们可以安全地在上面滑冰。
+3. Many students choose to study at the library during break.
+   > **中文**：有些学生选择在寒假期间去图书馆学习。
 
-4. Both athletes have a lot in common, including their passionate devotion to basketball.
-   > **中文**：这两位运动员有很多共同点，包括他们对篮球的热狂热投入。
+4. Keep fresh meat in the freezer so it doesn't freeze quickly.
+   > **中文**：把新鲜的肉类存放在冰箱里以防变质。
 
-5. Some team members prefer swimming while others like playing tennis outdoors.
-   > **中文**：一些队员喜欢游泳，而其他人则喜欢在户外打网球。
+5. The water froze completely when temperature dropped overnight.
+   > **中文**：昨天夜里气温骤降，湖水结冰了。
 
-6. Feel free to stop by the gym later if you want to join our basketball practice.
-   > **中文**：如果你想参加我们的篮球练习，稍后随时顺道来体育馆看看。
+6. The grocery store sells many kinds of frozen vegetables.
+   > **中文**：超市售卖各种各样的速冻食品和蔬菜。
 
-7. Our tennis club will host a friendly tournament next Saturday morning.
-   > **中文**：我们的网球俱乐部将于下周六上午举办一场友谊比赛。
+7. I was happy to hear that you won the full scholarship.
+   > **中文**：听说你拿到了全额奖学金，恭喜你！
 
-8. Have you ever beaten a championship player in a competitive badminton match.
-   > **中文**：你曾经在羽毛球竞技比赛中击败过冠军选手吗？
+8. My roommate and I have a lot in common when it comes to music.
+   > **中文**：我和我的新室友在音乐方面有很多共同之处。
 
-9. Water will freeze when the ambient temperature falls to zero degrees Celsius.
-   > **中文**：当环境温度降至摄氏零度时，水就会结冰。
+9. He showed a great interest in learning traditional history.
+   > **中文**：他对古代中国历史表现出了极大的兴趣。
 
-10. Did you hear that our school marathon runner broke the official record?
-   > **中文**：你听说我们学校的马拉松跑者打破了官方纪录吗？
+10. I have never been to Europe, but I hope to visit next year.
+   > **中文**：我从来没有去过欧洲，希望明年能去一趟。
+
+11. Always show respect for the opinions of others around you.
+   > **中文**：要懂得尊重他人的观点和生活习惯。
+
+12. Playing outdoor sports is a fun way to stay healthy.
+   > **中文**：参加户外体育运动是保持健康的极佳方式。
+
+13. When the music played, people start to dance together.
+   > **中文**：当音乐响起时，大家开始跳舞。
+
+14. Feel free to stop by our house on your way home.
+   > **中文**：请在今晚下班回家顺路拜访我们家。
+
+15. He typically gets up early at six o'clock every morning.
+   > **中文**：他通常会在清晨六点准时醒来。
+
+16. She did very well on her English presentation today.
+   > **中文**：她在公开演讲方面表现得非常好。
+
+17. We will host a neighborhood festival next month.
+   > **中文**：我们下个月将举办一场大型社区文化节。
+
+18. Did you experience any difficulty during your work today?
+   > **中文**：你今天在办公室里遇到任何困难了吗？
+
+19. If there is anything I can do, please let me know.
+   > **中文**：如果需要任何帮助，请随时告诉我。
+
+20. He has been a reliable employee in this company for years.
+   > **中文**：他在这个知名公司工作已经是很多年了。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| beaten | 击败（beat的过去分词） |
+| choose to | 选择去做 |
+| freeze | 结冰 / 冻结 |
+| froze | 结冰了（freeze的过去式） |
+| frozen | 冰冻的 / 冷冻的 |
+| hear that | 听到那个消息 |
+| in common | 共同之处 |
+| interest | 兴趣 |
+| never been | 从未去过 |
+| others | 其他人 / 其他事物 |
+| sports | 体育运动 |
+| start to | 开始做 |
+| stop by | 顺路拜访 |
+| typically | 通常地 |
+| well | 很好地 |
+| will | 将要 |
+| any | 任何 |
+| anything | 任何事 |
+| been | 去过 / 已经是 |
+| sports | 体育运动 |
 
 </quiz-matching>
 
@@ -137,102 +230,202 @@ in common 是谈论共同爱好的核心搭配：We have sports in common. typic
 
 ### 1
 
-Have you ever played `____` professional water sports before?
+Have you ever ____ to New York City for sightseeing?
 
-- [x] any
+- [x] been
+- [ ] any
 - [ ] anything
-- [ ] freeze
 
-> **解析**：any 在疑问句中用作限定词，修饰复数名词 sports，意为“任何、一些”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Have you ever `____` to a national skiing resort in winter.
+Our basketball team has ____ the champions in the finals.
 
-- [x] been
+- [x] beaten
+- [ ] any
 - [ ] anything
-- [ ] froze
 
-> **解析**：been 是 be 的过去分词，Have you ever been to... 结构用于询问过去的经历（是否去过某地）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The lake surface `____` completely last winter, allowing people to ice skate safely.
+Many ____ choose to study at the library during break.
 
-- [x] froze
-- [ ] beaten
-- [ ] frozen
+- [x] students
+- [ ] any
+- [ ] anything
 
-> **解析**：froze 是 freeze 的一般过去式，意为“结冰、冻结”，描述过去发生的事实。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Both athletes have a lot `____`, including their passionate devotion to basketball.
+Keep fresh meat in the freezer so it doesn't ____ quickly.
 
-- [x] in common
-- [ ] been
-- [ ] frozen
+- [x] freeze
+- [ ] any
+- [ ] anything
 
-> **解析**：in common 为固定介词短语，常用结构 have sth. in common（有共同点/共同之处）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Some team members prefer swimming while `____` like playing tennis outdoors.
+The water ____ completely when temperature dropped overnight.
 
-- [x] others
-- [ ] choose to
-- [ ] hear that
+- [x] froze
+- [ ] any
+- [ ] anything
 
-> **解析**：others 为代名词，常与 some 对应使用（some... others... 意为“一些人……其他人……”）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Feel free to `____` the gym later if you want to join our basketball practice.
+The grocery store sells many kinds of ____ vegetables.
 
-- [x] stop by
-- [ ] freeze
-- [ ] in common
+- [x] frozen
+- [ ] any
+- [ ] anything
 
-> **解析**：stop by 为动词短语，口语中意为“顺路拜访、顺便去”，后接地点名词（stop by the gym）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Our tennis club `____` host a friendly tournament next Saturday morning.
+I was happy to hear that you won the full ____.
 
-- [x] will
-- [ ] froze
-- [ ] interest
+- [x] scholarship
+- [ ] any
+- [ ] anything
 
-> **解析**：will 为情态动词，用于表示将要发生的计划或安排（will host）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Have you ever `____` a championship player in a competitive badminton match.
+My ____ and I have a lot in common when it comes to music.
 
-- [x] beaten
-- [ ] hear that
-- [ ] others
+- [x] roommate
+- [ ] any
+- [ ] anything
 
-> **解析**：beaten 是 beat 的过去分词，与 Have 构成现在完成时（Have you ever beaten...），意为“击败/战胜”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Water will `____` when the ambient temperature falls to zero degrees Celsius.
+He showed a great ____ in learning traditional history.
 
-- [x] freeze
-- [ ] in common
-- [ ] sports
+- [x] interest
+- [ ] any
+- [ ] anything
 
-> **解析**：freeze 为动词原形，意为“结冰、凝固”，作不及物动词使用。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Did you `____` our school marathon runner broke the official record?
+I have never ____ to Europe, but I hope to visit next year.
 
-- [x] hear that
-- [ ] interest
-- [ ] start to
+- [x] been
+- [ ] any
+- [ ] anything
 
-> **解析**：hear that 意为“听说……”，that 引导宾语从句说明听说的内容（our runner broke the record）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Always show respect for the opinions of ____ around you.
+
+- [x] others
+- [ ] any
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Playing outdoor ____ is a fun way to stay healthy.
+
+- [x] sports
+- [ ] any
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+When the music played, people start to dance ____.
+
+- [x] together
+- [ ] any
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Feel free to stop by our ____ on your way home.
+
+- [x] house
+- [ ] any
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+He ____ gets up early at six o'clock every morning.
+
+- [x] typically
+- [ ] any
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+She did very ____ on her English presentation today.
+
+- [x] well
+- [ ] any
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+We ____ host a neighborhood festival next month.
+
+- [x] will
+- [ ] any
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Did you experience ____ difficulty during your work today?
+
+- [x] any
+- [ ] anything
+- [ ] beaten
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+If there is ____ I can do, please let me know.
+
+- [x] anything
+- [ ] any
+- [ ] beaten
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+He has ____ a reliable employee in this company for years.
+
+- [x] been
+- [ ] any
+- [ ] anything
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

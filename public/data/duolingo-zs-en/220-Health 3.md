@@ -63,83 +63,176 @@ apparently, at risk, bad for you, could, enough, enough to, have trouble, heal, 
 
 <quiz-sentence-builder>
 
-1. **中文**：显而易见/据了解，这种药物需要随餐服用才能正常发挥疗效。  
-   **英文**：Apparently, the medication needs to be taken with meals to work properly.
-   > **解析**：`apparently` 副词，意为“显然；据了解；似乎”，用于说明所获取的信息或根据迹象作出的推断。
+1. **中文**：我今天感觉身体有些微恙，想在家休息。
+   **英文**：I am feeling a bit under the weather today, so I'll rest at home.
+   > **解析**：under the weather 表示身体不适、微恙。
 
-2. **中文**：你可以尝试让眼睛休息二十分钟来缓解头痛。  
-   **英文**：You could try resting your eyes for twenty minutes to relieve the headache.
-   > **解析**：`could` 为情态动词，在此处表示委婉的建议或可能性（意为“可以；不妨”）。
+2. **中文**：伤口发炎导致她的手腕变得十分肿胀。
+   **英文**：An infection caused her wrist to become very swollen.
+   > **解析**：infection 表示感染；swollen 表示肿胀的；wrist 表示手腕。
 
-3. **中文**：轻微的割伤和划伤通常会在几天内自然愈合。  
-   **英文**：Minor cuts and scratches usually heal naturally within a few days.
-   > **解析**：`heal` 动词，意为“（伤口、疾病）愈合；治愈”。
+3. **中文**：医生建议接种这种新型疫苗以预防病毒。
+   **英文**：The doctor recommended getting the new vaccine to prevent viruses.
+   > **解析**：vaccine 表示疫苗。
 
-4. **中文**：医生开具了抗生素来治疗他耳部的细菌感染。  
-   **英文**：The doctor prescribed antibiotics to treat the bacterial infection in his ear.
-   > **解析**：`infection` 可数/不可数名词，意为“感染；传染病”。常用搭配 `bacterial infection`（细菌感染）。
+4. **中文**：这种止痛药可能会产生轻微的副作用。
+   **英文**：This painkiller might cause some mild side effects such as drowsiness.
+   > **解析**：side effect 表示副作用。
 
-5. **中文**：嗜睡是服用这种抗组胺药物的常见副作用。  
-   **英文**：Drowsiness is a common side effect of taking this antihistamine medication.
-   > **解析**：`side effect` 名词短语，意为“副作用”。在药物和医疗说明中极其常用。
+5. **中文**：适当的休息有助于摔伤的骨骼快速愈合。
+   **英文**：Proper rest helps the injured bone heal much faster.
+   > **解析**：heal 表示愈合、治愈。
 
-6. **中文**：我今天感觉身体有些不适/有点不舒服，所以我决定留在家中休息。  
-   **英文**：I feel a bit under the weather today, so I decided to stay home and rest.
-   > **解析**：`under the weather` 为常用习惯用语，意为“身体不适；有点小病”，常在句中作表语（如 `feel under the weather`）。
+6. **中文**：吸烟对你的肺部健康非常有害。
+   **英文**：Smoking is extremely bad for your lungs and overall health.
+   > **解析**：lung 表示肺部；bad for you 表示对有害。
 
-7. **中文**：她在网球练习中弄伤手腕后戴上了防护护腕。  
-   **英文**：She wore a supportive brace after injuring her wrist during tennis practice.
-   > **解析**：`wrist` 可数名词，意为“手腕；腕关节”。解剖身体部位词汇。
+7. **中文**：经过激烈的训练后，他的腿部肌肉感到很酸痛。
+   **英文**：His leg muscles felt sore after the intense workout.
+   > **解析**：muscle 表示肌肉。
 
-8. **中文**：老年人和幼儿在极端热浪期间面临更大的风险。  
-   **英文**：Elderly people and young children are more at risk during extreme heatwaves about could.
-   > **解析**：`at risk` 为介词短语作表语，意为“处于危险之中；面临风险”。搭配 `be at risk of sth.`。
+8. **中文**：老年人在结冰的地面上行走很容易伤到髋部。
+   **英文**：Elderly people walking on icy roads may hurt their hips.
+   > **解析**：hip 表示髋部。
 
-9. **中文**：手术康复后，他的体力足够支撑他在公园里散步。  
-   **英文**：He is strong enough to walk around the park after recovering from surgery.
-   > **解析**：`enough to` 为结构“形容词/副词 + `enough to do sth.`”，意为“足够……以至于能做某事”。
+9. **中文**：补充充足的维他命C有助于增强免疫力。
+   **英文**：Taking enough vitamin C helps strengthen your immune system.
+   > **解析**：vitamin 表示维他命。
 
-10. **中文**：这位老患者接受了成功的手术以置换他骨折的髋关节。  
-   **英文**：The elderly patient had a successful surgery to replace his fractured hip joint.
-   > **解析**：`hip` 名词，意为“臀部；髋部”。`hip joint` 指“髋关节”。
+10. **中文**：患有慢性病的人感染后处于较高的风险中。
+   **英文**：People with chronic conditions are at risk of severe complications.
+   > **解析**：at risk 表示处于风险之中。
+
+11. **中文**：睡前看手机经常导致他夜间入睡困难。
+   **英文**：Looking at phones before bed makes him have trouble falling asleep.
+   > **解析**：have trouble 表示在做……方面有困难。
+
+12. **中文**：显而易见，这种新药的疗效比旧药好很多。
+   **英文**：Apparently, this new remedy is much more effective than the old one.
+   > **解析**：apparently 表示显而易见地、据了解。
+
+13. **中文**：据称这种草药能缓解肌肉疲劳。
+   **英文**：Supposedly, this herbal tea can relieve muscle soreness.
+   > **解析**：supposedly 表示据称、据推测。
+
+14. **中文**：疲惫的工人在漫长的讲座中忍不住打了个哈欠。
+   **英文**：The tired worker couldn't help but yawn during the long lecture.
+   > **解析**：yawn 表示打哈欠。
+
+15. **中文**：经常熬夜吃垃圾食品对你的身体有害。
+   **英文**：Staying up late and eating fast food is bad for you.
+   > **解析**：bad for you 表示对你有害。
+
+16. **中文**：人们说每天步行八千步能延年益寿。
+   **英文**：They say walking eight thousand steps daily improves longevity.
+   > **解析**：they say 表示人们说、听说。
+
+17. **中文**：医生给我的印象是他对病人非常耐性和专业。
+   **英文**：My impression of the doctor was that he was patient and professional.
+   > **解析**：impression 表示印象。
+
+18. **中文**：她的伤势恢复得足够快，可以参加明天的比赛了。
+   **英文**：Her injury recovered fast enough to participate in tomorrow's game.
+   > **解析**：enough to 表示足够以致于……
+
+19. **中文**：这种新疗法可能会带来更好的康复效果。
+   **英文**：This new medical treatment could lead to a faster recovery.
+   > **解析**：could 表示可能（情态动词表推测）。
+
+20. **中文**：跌倒时用手臂支撑地面导致了他的手腕扭伤。
+   **英文**：Falling on the ice caused a sprain in his right wrist.
+   > **解析**：wrist 表示手腕。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Apparently, the medication needs to be taken with meals to work properly.
-   > **中文**：显而易见/据了解，这种药物需要随餐服用才能正常发挥疗效。
+1. I am feeling a bit under the weather today, so I'll rest at home.
+   > **中文**：我今天感觉身体有些微恙，想在家休息。
 
-2. You could try resting your eyes for twenty minutes to relieve the headache.
-   > **中文**：你可以尝试让眼睛休息二十分钟来缓解头痛。
+2. An infection caused her wrist to become very swollen.
+   > **中文**：伤口发炎导致她的手腕变得十分肿胀。
 
-3. Minor cuts and scratches usually heal naturally within a few days.
-   > **中文**：轻微的割伤和划伤通常会在几天内自然愈合。
+3. The doctor recommended getting the new vaccine to prevent viruses.
+   > **中文**：医生建议接种这种新型疫苗以预防病毒。
 
-4. The doctor prescribed antibiotics to treat the bacterial infection in his ear.
-   > **中文**：医生开具了抗生素来治疗他耳部的细菌感染。
+4. This painkiller might cause some mild side effects such as drowsiness.
+   > **中文**：这种止痛药可能会产生轻微的副作用。
 
-5. Drowsiness is a common side effect of taking this antihistamine medication.
-   > **中文**：嗜睡是服用这种抗组胺药物的常见副作用。
+5. Proper rest helps the injured bone heal much faster.
+   > **中文**：适当的休息有助于摔伤的骨骼快速愈合。
 
-6. I feel a bit under the weather today, so I decided to stay home and rest.
-   > **中文**：我今天感觉身体有些不适/有点不舒服，所以我决定留在家中休息。
+6. Smoking is extremely bad for your lungs and overall health.
+   > **中文**：吸烟对你的肺部健康非常有害。
 
-7. She wore a supportive brace after injuring her wrist during tennis practice.
-   > **中文**：她在网球练习中弄伤手腕后戴上了防护护腕。
+7. His leg muscles felt sore after the intense workout.
+   > **中文**：经过激烈的训练后，他的腿部肌肉感到很酸痛。
 
-8. Elderly people and young children are more at risk during extreme heatwaves about could.
-   > **中文**：老年人和幼儿在极端热浪期间面临更大的风险。
+8. Elderly people walking on icy roads may hurt their hips.
+   > **中文**：老年人在结冰的地面上行走很容易伤到髋部。
 
-9. He is strong enough to walk around the park after recovering from surgery.
-   > **中文**：手术康复后，他的体力足够支撑他在公园里散步。
+9. Taking enough vitamin C helps strengthen your immune system.
+   > **中文**：补充充足的维他命C有助于增强免疫力。
 
-10. The elderly patient had a successful surgery to replace his fractured hip joint.
-   > **中文**：这位老患者接受了成功的手术以置换他骨折的髋关节。
+10. People with chronic conditions are at risk of severe complications.
+   > **中文**：患有慢性病的人感染后处于较高的风险中。
+
+11. Looking at phones before bed makes him have trouble falling asleep.
+   > **中文**：睡前看手机经常导致他夜间入睡困难。
+
+12. Apparently, this new remedy is much more effective than the old one.
+   > **中文**：显而易见，这种新药的疗效比旧药好很多。
+
+13. Supposedly, this herbal tea can relieve muscle soreness.
+   > **中文**：据称这种草药能缓解肌肉疲劳。
+
+14. The tired worker couldn't help but yawn during the long lecture.
+   > **中文**：疲惫的工人在漫长的讲座中忍不住打了个哈欠。
+
+15. Staying up late and eating fast food is bad for you.
+   > **中文**：经常熬夜吃垃圾食品对你的身体有害。
+
+16. They say walking eight thousand steps daily improves longevity.
+   > **中文**：人们说每天步行八千步能延年益寿。
+
+17. My impression of the doctor was that he was patient and professional.
+   > **中文**：医生给我的印象是他对病人非常耐性和专业。
+
+18. Her injury recovered fast enough to participate in tomorrow's game.
+   > **中文**：她的伤势恢复得足够快，可以参加明天的比赛了。
+
+19. This new medical treatment could lead to a faster recovery.
+   > **中文**：这种新疗法可能会带来更好的康复效果。
+
+20. Falling on the ice caused a sprain in his right wrist.
+   > **中文**：跌倒时用手臂支撑地面导致了他的手腕扭伤。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| under the weather | 身体不适；微恙 |
+| infection | 感染 |
+| swollen | 肿胀的 |
+| heal | 愈合；治愈 |
+| side effect | 副作用 |
+| vaccine | 疫苗 |
+| lung | 肺；肺部 |
+| muscle | 肌肉 |
+| hip | 髋部；臀部 |
+| wrist | 手腕 |
+| yawn | 打哈欠 |
+| vitamin | 维他命；维生素 |
+| at risk | 处于危险之中；有风险 |
+| bad for you | 对有害 |
+| have trouble | 做……有困难 |
+| enough to | 足够以致于…… |
+| apparently | 显而易见地；据了解 |
+| supposedly | 据说；据称 |
+| impression | 印象；感觉 |
+| they say | 人们说；听说 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ apparently, at risk, bad for you, could, enough, enough to, have trouble, heal, 
 
 ### 1
 
-`____`, the medication needs to be taken with meals to work properly.
+I am ____ a bit under the weather today, so I'll rest at home.
 
-- [x] apparently
+- [x] feeling
+- [ ] apparently
 - [ ] at risk
-- [ ] enough to
 
-> **解析**：`apparently` 副词，意为“显然；据了解；似乎”，用于说明所获取的信息或根据迹象作出的推断。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-You `____` try resting your eyes for twenty minutes to relieve the headache.
+An ____ caused her wrist to become very swollen.
 
-- [x] could
+- [x] infection
+- [ ] apparently
 - [ ] at risk
-- [ ] have trouble
 
-> **解析**：`could` 为情态动词，在此处表示委婉的建议或可能性（意为“可以；不妨”）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Minor cuts and scratches usually `____` naturally within a few days.
+The doctor recommended getting the new ____ to prevent viruses.
 
-- [x] heal
-- [ ] bad for you
-- [ ] have trouble
+- [x] vaccine
+- [ ] apparently
+- [ ] at risk
 
-> **解析**：`heal` 动词，意为“（伤口、疾病）愈合；治愈”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The doctor prescribed antibiotics to treat the bacterial `____` in his ear.
+This ____ might cause some mild side effects such as drowsiness.
 
-- [x] infection
-- [ ] could
-- [ ] heal
+- [x] painkiller
+- [ ] apparently
+- [ ] at risk
 
-> **解析**：`infection` 可数/不可数名词，意为“感染；传染病”。常用搭配 `bacterial infection`（细菌感染）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Drowsiness is a common `____` of taking this antihistamine medication.
+Proper rest helps the injured bone ____ much faster.
 
-- [x] side effect
-- [ ] enough
-- [ ] hip
+- [x] heal
+- [ ] apparently
+- [ ] at risk
 
-> **解析**：`side effect` 名词短语，意为“副作用”。在药物和医疗说明中极其常用。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-I feel a bit `____` today, so I decided to stay home and rest.
+Smoking is ____ bad for your lungs and overall health.
 
-- [x] under the weather
-- [ ] enough to
-- [ ] impression
+- [x] extremely
+- [ ] apparently
+- [ ] at risk
 
-> **解析**：`under the weather` 为常用习惯用语，意为“身体不适；有点小病”，常在句中作表语（如 `feel under the weather`）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-She wore a supportive brace after injuring her `____` during tennis practice.
+His leg ____ felt sore after the intense workout.
 
-- [x] wrist
-- [ ] have trouble
-- [ ] infection
+- [x] muscles
+- [ ] apparently
+- [ ] at risk
 
-> **解析**：`wrist` 可数名词，意为“手腕；腕关节”。解剖身体部位词汇。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Elderly people and young children are more `____` during extreme heatwaves about could.
+____ people walking on icy roads may hurt their hips.
 
-- [x] at risk
-- [ ] hip
-- [ ] muscle
+- [x] Elderly
+- [ ] apparently
+- [ ] at risk
 
-> **解析**：`at risk` 为介词短语作表语，意为“处于危险之中；面临风险”。搭配 `be at risk of sth.`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-He is strong `____` to walk around the park after recovering from surgery.
+Taking ____ vitamin C helps strengthen your immune system.
 
 - [x] enough
-- [ ] impression
-- [ ] side effect
+- [ ] apparently
+- [ ] at risk
 
-> **解析**：`enough to` 为结构“形容词/副词 + `enough to do sth.`”，意为“足够……以至于能做某事”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The elderly patient had a successful surgery to replace his fractured `____` joint.
+People with chronic conditions are at risk of severe ____.
 
-- [x] hip
-- [ ] infection
-- [ ] supposedly
+- [x] complications
+- [ ] apparently
+- [ ] at risk
 
-> **解析**：`hip` 名词，意为“臀部；髋部”。`hip joint` 指“髋关节”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+____ at phones before bed makes him have trouble falling asleep.
+
+- [x] Looking
+- [ ] apparently
+- [ ] at risk
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+____, this new remedy is much more effective than the old one.
+
+- [x] Apparently
+- [ ] at risk
+- [ ] bad for you
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+____, this herbal tea can relieve muscle soreness.
+
+- [x] Supposedly
+- [ ] apparently
+- [ ] at risk
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The tired worker couldn't help but ____ during the long lecture.
+
+- [x] yawn
+- [ ] apparently
+- [ ] at risk
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+____ up late and eating fast food is bad for you.
+
+- [x] Staying
+- [ ] apparently
+- [ ] at risk
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+They say walking eight thousand steps daily improves ____.
+
+- [x] longevity
+- [ ] apparently
+- [ ] at risk
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+My ____ of the doctor was that he was patient and professional.
+
+- [x] impression
+- [ ] apparently
+- [ ] at risk
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Her injury recovered fast ____ to participate in tomorrow's game.
+
+- [x] enough
+- [ ] apparently
+- [ ] at risk
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+This new medical treatment ____ lead to a faster recovery.
+
+- [x] could
+- [ ] apparently
+- [ ] at risk
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Falling on the ice caused a sprain in his right ____.
+
+- [x] wrist
+- [ ] apparently
+- [ ] at risk
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

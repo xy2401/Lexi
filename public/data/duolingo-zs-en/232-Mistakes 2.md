@@ -63,83 +63,176 @@ ambitious, disagreement, embarrassment, feeling, get, had, hadn't, if only, it t
 
 <quiz-sentence-builder>
 
-1. **中文**：一次性承担三个重大项目是一个过于雄心勃勃（缺乏现实考量）的决定。  
-   **英文**：Taking on three major projects at once was an overly ambitious decision.
-   > **解析**：`ambitious` 形容词，意为“有雄心的；抱负不凡的”。修饰 `decision`。
+1. **中文**：要是我早点听你的建议就好了。
+   **英文**：If only I had listened to your advice earlier.
+   > **解析**：if only 用于表示对过去的遗憾（感叹语气）。
 
-2. **中文**：我有一种糟糕的直觉，觉得我没锁前门。  
-   **英文**：I had a bad feeling that I had left the front door unlocked.
-   > **解析**：`feeling` 名词，意为“感觉；直觉”。搭配 `have a bad feeling that...`。
+2. **中文**：我希望我没有对他逼得太紧。
+   **英文**：I wish I hadn't pushed him so hard.
+   > **解析**：hadn't 与 wish 连用表示对过去行为的后悔。
 
-3. **中文**：要是我在寄出机密包裹之前核对过两次地址就好了！  
-   **英文**：If only I had double-checked the address before sending the confidential package.
-   > **解析**：`if only` 引导虚拟语气从句，表达对过去错误的深刻遗憾。
+3. **中文**：事实证明这跟我一点关系也没有。
+   **英文**：It turns out that it had nothing to do with me.
+   > **解析**：nothing to do with 意为与……无关。
 
-4. **中文**：从他安静的反应来看，他显然对反馈感到不满。  
-   **英文**：Judging by his quiet reaction, he was clearly unhappy with the feedback.
-   > **解析**：`judging by / from...` 介词短语作状语，意为“根据……来判断”。
+4. **中文**：从她脸上的表情来看，她很难过。
+   **英文**：Judging by the look on her face, she was upset.
+   > **解析**：judging by 意为根据……判断。
 
-5. **中文**：我的错误与缺乏努力无关，而是源于单纯的误解。  
-   **英文**：My mistake had nothing to do with a lack of effort, but rather a simple misunderstanding.
-   > **解析**：`have nothing to do with...` 为固定动词短语，意为“与……毫无关系”。
+5. **中文**：这就是为什么我们最终产生了严重的失和。
+   **英文**：That's why we ended up having a serious disagreement.
+   > **解析**：that's why 用于引出原因导致的后果。
 
-6. **中文**：他未能回复客户的紧急邮件，这使我们失去了这个客户账号。  
-   **英文**：He failed to respond to the client's urgent email, which cost us the account.
-   > **解析**：`respond` 不及物动词，搭配 `respond to sth.`（回复/回应某事）。
+6. **中文**：我太有野心了，低估了项目的难度。
+   **英文**：I was too ambitious and underestimated the difficulty of the project.
+   > **解析**：underestimate 意为低估。
 
-7. **中文**：绝不要低估完成一份全面报告所需的时间。  
-   **英文**：Never underestimate the amount of time required to complete a comprehensive report.
-   > **解析**：`underestimate` 及物动词，意为“低估；看轻”。反义词为 `overestimate`。
+7. **中文**：他在会议期间叫我闭嘴。
+   **英文**：He told me to shut up during the meeting.
+   > **解析**：shut up 意为闭嘴（语气粗鲁）。
 
-8. **中文**：团队成员之间微小的意见分歧演变成了严重的分歧推迟。  
-   **英文**：A minor disagreement between team members escalated into a heated delay.
-   > **解析**：`disagreement` 可数/不可数名词，意为“意见不合；分歧”。
+8. **中文**：我对我造成的尴尬感觉深感后悔。
+   **英文**：I deeply regret the feeling of embarrassment I caused.
+   > **解析**：embarrassment 意为尴尬。
 
-9. **中文**：如果我们早些审查这些统计数据，我们就不会犯这个错误了。  
-   **英文**：If we had reviewed the statistics earlier, we would not have made this error embarrassment.
-   > **解析**：`had + 过去分词` 在虚拟条件从句中表示对过去事实的假想（过去完成时）。
+9. **中文**：如果我们不跳过任何重要步骤会更好。
+   **英文**：It'd be better if we didn't skip any important steps.
+   > **解析**：skip 意为跳过、遗漏。
 
-10. **中文**：事实证明/原来，缺失的文件被不小心归档到了错误的文件夹中。  
-   **英文**：It turns out that the missing document was accidentally filed in the wrong folder about embarrassment.
-   > **解析**：`it turns out that...` 句型，意为“事实证明；原来是”，引出事后发现的真相。
+10. **中文**：你误会我在电话里说的话了吗？
+   **英文**：Did you misunderstand what I said on the phone?
+   > **解析**：misunderstand 意为误解。
+
+11. **中文**：她选择不对无礼的评论做出回应。
+   **英文**：She chose not to respond to the rude comment.
+   > **解析**：respond 意为回应、回答。
+
+12. **中文**：即使事情变困难，我们也应该继续努力。
+   **英文**：We should keep trying even when things get difficult.
+   > **解析**：keep + v-ing 意为保持、继续做。
+
+13. **中文**：我根本不知道你当时正经历如此艰难的时期。
+   **英文**：I had no idea that you were going through such a hard time.
+   > **解析**：had no idea 意为当时完全不知道。
+
+14. **中文**：事实证明她一直是对的。
+   **英文**：It turns out that she was right all along.
+   > **解析**：it turns out that 意为结果是、事实证明。
+
+15. **中文**：不要低估这项工作需要多少精力。
+   **英文**：Don't underestimate how much work this will require.
+   > **解析**：underestimate 意为低估。
+
+16. **中文**：我希望我能再有一次解释的机会。
+   **英文**：I wish I could get another chance to explain.
+   > **解析**：wish 表示虚拟愿望。
+
+17. **中文**：尽管感到尴尬，他还是试图装作平静。
+   **英文**：He tried to play it cool despite his embarrassment.
+   > **解析**：play it cool 意为装作冷静/从容。
+
+18. **中文**：要是我们当时没有忽视警告信号就好了。
+   **英文**：If only we hadn't skipped the warning signs.
+   > **解析**：hadn't + p.p. 用于 if only 虚拟语气。
+
+19. **中文**：这与你的表现毫无关系。
+   **英文**：It had nothing to do with your performance.
+   > **解析**：nothing to do with 意为与……无关。
+
+20. **中文**：从他的反应来看，他没有料到这个消息。
+   **英文**：Judging by his reaction, he did not expect the news.
+   > **解析**：judging by 意为根据……判定。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Taking on three major projects at once was an overly ambitious decision.
-   > **中文**：一次性承担三个重大项目是一个过于雄心勃勃（缺乏现实考量）的决定。
+1. If only I had listened to your advice earlier.
+   > **中文**：要是我早点听你的建议就好了。
 
-2. I had a bad feeling that I had left the front door unlocked.
-   > **中文**：我有一种糟糕的直觉，觉得我没锁前门。
+2. I wish I hadn't pushed him so hard.
+   > **中文**：我希望我没有对他逼得太紧。
 
-3. If only I had double-checked the address before sending the confidential package.
-   > **中文**：要是我在寄出机密包裹之前核对过两次地址就好了！
+3. It turns out that it had nothing to do with me.
+   > **中文**：事实证明这跟我一点关系也没有。
 
-4. Judging by his quiet reaction, he was clearly unhappy with the feedback.
-   > **中文**：从他安静的反应来看，他显然对反馈感到不满。
+4. Judging by the look on her face, she was upset.
+   > **中文**：从她脸上的表情来看，她很难过。
 
-5. My mistake had nothing to do with a lack of effort, but rather a simple misunderstanding.
-   > **中文**：我的错误与缺乏努力无关，而是源于单纯的误解。
+5. That's why we ended up having a serious disagreement.
+   > **中文**：这就是为什么我们最终产生了严重的失和。
 
-6. He failed to respond to the client's urgent email, which cost us the account.
-   > **中文**：他未能回复客户的紧急邮件，这使我们失去了这个客户账号。
+6. I was too ambitious and underestimated the difficulty of the project.
+   > **中文**：我太有野心了，低估了项目的难度。
 
-7. Never underestimate the amount of time required to complete a comprehensive report.
-   > **中文**：绝不要低估完成一份全面报告所需的时间。
+7. He told me to shut up during the meeting.
+   > **中文**：他在会议期间叫我闭嘴。
 
-8. A minor disagreement between team members escalated into a heated delay.
-   > **中文**：团队成员之间微小的意见分歧演变成了严重的分歧推迟。
+8. I deeply regret the feeling of embarrassment I caused.
+   > **中文**：我对我造成的尴尬感觉深感后悔。
 
-9. If we had reviewed the statistics earlier, we would not have made this error embarrassment.
-   > **中文**：如果我们早些审查这些统计数据，我们就不会犯这个错误了。
+9. It'd be better if we didn't skip any important steps.
+   > **中文**：如果我们不跳过任何重要步骤会更好。
 
-10. It turns out that the missing document was accidentally filed in the wrong folder about embarrassment.
-   > **中文**：事实证明/原来，缺失的文件被不小心归档到了错误的文件夹中。
+10. Did you misunderstand what I said on the phone?
+   > **中文**：你误会我在电话里说的话了吗？
+
+11. She chose not to respond to the rude comment.
+   > **中文**：她选择不对无礼的评论做出回应。
+
+12. We should keep trying even when things get difficult.
+   > **中文**：即使事情变困难，我们也应该继续努力。
+
+13. I had no idea that you were going through such a hard time.
+   > **中文**：我根本不知道你当时正经历如此艰难的时期。
+
+14. It turns out that she was right all along.
+   > **中文**：事实证明她一直是对的。
+
+15. Don't underestimate how much work this will require.
+   > **中文**：不要低估这项工作需要多少精力。
+
+16. I wish I could get another chance to explain.
+   > **中文**：我希望我能再有一次解释的机会。
+
+17. He tried to play it cool despite his embarrassment.
+   > **中文**：尽管感到尴尬，他还是试图装作平静。
+
+18. If only we hadn't skipped the warning signs.
+   > **中文**：要是我们当时没有忽视警告信号就好了。
+
+19. It had nothing to do with your performance.
+   > **中文**：这与你的表现毫无关系。
+
+20. Judging by his reaction, he did not expect the news.
+   > **中文**：从他的反应来看，他没有料到这个消息。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| ambitious | 有野心的；雄心勃勃的 |
+| disagreement | 分歧；失和 |
+| embarrassment | 尴尬；窘迫 |
+| feeling | 感觉；感受 |
+| if only | 要是……就好了 |
+| it turns out that | 事实证明；结果是 |
+| judging by | 根据……来判断 |
+| misunderstand | 误解 |
+| nothing to do with | 与……无关 |
+| shut up | 闭嘴 |
+| skip | 跳过；遗漏 |
+| that's why | 那就是为什么 |
+| underestimate | 低估 |
+| wish | 希望；但愿 |
+| push | 逼迫；推动 |
+| respond | 回应；回答 |
+| keep | 保持；继续 |
+| hadn't | 当时没有（had not） |
+| it'd | 那将会/本来会（it would / it had） |
+| look | 表情；神色 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ ambitious, disagreement, embarrassment, feeling, get, had, hadn't, if only, it t
 
 ### 1
 
-Taking on three major projects at once was an overly `____` decision.
+If only I ____ listened to your advice earlier.
 
-- [x] ambitious
+- [x] had
+- [ ] ambitious
 - [ ] disagreement
-- [ ] had
 
-> **解析**：`ambitious` 形容词，意为“有雄心的；抱负不凡的”。修饰 `decision`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-I had a bad `____` that I had left the front door unlocked.
+I ____ I hadn't pushed him so hard.
 
-- [x] feeling
+- [x] wish
+- [ ] ambitious
 - [ ] disagreement
-- [ ] hadn't
 
-> **解析**：`feeling` 名词，意为“感觉；直觉”。搭配 `have a bad feeling that...`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-If only I `____` double-checked the address before sending the confidential package.
+It turns out that it ____ nothing to do with me.
 
 - [x] had
-- [ ] embarrassment
-- [ ] if only
+- [ ] ambitious
+- [ ] disagreement
 
-> **解析**：`if only` 引导虚拟语气从句，表达对过去错误的深刻遗憾。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-`____` his quiet reaction, he was clearly unhappy with the feedback.
+Judging by the ____ on her face, she was upset.
 
-- [x] judging by
-- [ ] feeling
-- [ ] if only
+- [x] look
+- [ ] ambitious
+- [ ] disagreement
 
-> **解析**：`judging by / from...` 介词短语作状语，意为“根据……来判断”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-My mistake had nothing to do with a lack of effort, but rather a simple `____`ing.
+That's why we ended up having a serious ____.
 
-- [x] misunderstand
-- [ ] get
-- [ ] it turns out that
+- [x] disagreement
+- [ ] ambitious
+- [ ] embarrassment
 
-> **解析**：`have nothing to do with...` 为固定动词短语，意为“与……毫无关系”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-He failed to `____` to the client's urgent email, which cost us the account.
+I was too ____ and underestimated the difficulty of the project.
 
-- [x] respond
-- [ ] had
-- [ ] it'd
+- [x] ambitious
+- [ ] disagreement
+- [ ] embarrassment
 
-> **解析**：`respond` 不及物动词，搭配 `respond to sth.`（回复/回应某事）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Never `____` the amount of time required to complete a comprehensive report.
+He told me to shut up during the ____.
 
-- [x] underestimate
-- [ ] hadn't
-- [ ] judging by
+- [x] meeting
+- [ ] ambitious
+- [ ] disagreement
 
-> **解析**：`underestimate` 及物动词，意为“低估；看轻”。反义词为 `overestimate`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-A minor `____` between team members escalated into a heated delay.
+I deeply regret the ____ of embarrassment I caused.
 
-- [x] disagreement
-- [ ] it turns out that
-- [ ] look
+- [x] feeling
+- [ ] ambitious
+- [ ] disagreement
 
-> **解析**：`disagreement` 可数/不可数名词，意为“意见不合；分歧”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-If we had reviewed the statistics earlier, we would not have made this error `____`.
+____ be better if we didn't skip any important steps.
 
-- [x] embarrassment
-- [ ] it'd
-- [ ] misunderstand
+- [x] It'd
+- [ ] ambitious
+- [ ] disagreement
 
-> **解析**：`had + 过去分词` 在虚拟条件从句中表示对过去事实的假想（过去完成时）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-`____` the missing document was accidentally filed in the wrong folder about embarrassment.
+Did you ____ what I said on the phone?
 
-- [x] it turns out that
-- [ ] judging by
-- [ ] nothing to do with
+- [x] misunderstand
+- [ ] ambitious
+- [ ] disagreement
 
-> **解析**：`it turns out that...` 句型，意为“事实证明；原来是”，引出事后发现的真相。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+She chose not to ____ to the rude comment.
+
+- [x] respond
+- [ ] ambitious
+- [ ] disagreement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+We should ____ trying even when things get difficult.
+
+- [x] keep
+- [ ] ambitious
+- [ ] disagreement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+I ____ no idea that you were going through such a hard time.
+
+- [x] had
+- [ ] ambitious
+- [ ] disagreement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+It ____ out that she was right all along.
+
+- [x] turns
+- [ ] ambitious
+- [ ] disagreement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Don't ____ how much work this will require.
+
+- [x] underestimate
+- [ ] ambitious
+- [ ] disagreement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+I ____ I could get another chance to explain.
+
+- [x] wish
+- [ ] ambitious
+- [ ] disagreement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+He tried to ____ it cool despite his embarrassment.
+
+- [x] play
+- [ ] ambitious
+- [ ] disagreement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+If only we ____ skipped the warning signs.
+
+- [x] hadn't
+- [ ] ambitious
+- [ ] disagreement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+It ____ nothing to do with your performance.
+
+- [x] had
+- [ ] ambitious
+- [ ] disagreement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Judging by his ____, he did not expect the news.
+
+- [x] reaction
+- [ ] ambitious
+- [ ] disagreement
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

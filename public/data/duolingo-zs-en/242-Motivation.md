@@ -81,83 +81,176 @@ in theory 和 no longer 构成一种"理想与现实"的对比：In theory, it's
 
 <quiz-sentence-builder>
 
-1. **中文**：最初，她与恐惧作斗争，但她从未放弃。  
-   **英文**：Initially, she struggled with fear, but she never gave up.
-   > **解析**：`initially` 是副词，意为“最初、起初”，置于句首作句首状语，引出初始状态。
+1. **中文**：内在动机是推动人们长期坚持的关键因素。
+   **英文**：Internal motivation is key to keeping people committed for the long term.
+   > **解析**：internal 表示内在的。
 
-2. **中文**：许多人难以平衡日常生活与抱负。  
-   **英文**：Many people struggle to balance their daily life and ambition.
-   > **解析**：`struggle` 在此处作动词，搭配 `struggle to do sth` 表示“艰难地做某事”。
+2. **中文**：这项关于心理学的研究取得了显著的进展。
+   **英文**：This study on human motivation made a significant breakthrough.
+   > **解析**：significant 表示显著的、重大的。
 
-3. **中文**：在困难时期，你需要保持积极的态度。  
-   **英文**：You need to maintain a positive attitude during difficult times.
-   > **解析**：`maintain` 作及物动词，意为“保持、维持”，宾语为 `a positive attitude`。
+3. **中文**：即使是最聪明的人也需要在实践中不断努力。
+   **英文**：Even the most intelligent people must work hard to achieve success.
+   > **解析**：intelligent 表示聪明的；work at 表示在……上努力。
 
-4. **中文**：战胜这一障碍对他来说是一个重大的里程碑。  
-   **英文**：Overcoming this obstacle was a significant milestone.
-   > **解析**：`significant` 是形容词，意为“重大的、有意义的”，作前置定语修饰 `milestone`。
+4. **中文**：每一个单独的目标都应该设定明确的完成期限。
+   **英文**：Every single goal should have a clear deadline for execution.
+   > **解析**：single 表示单个的、单一的。
 
-5. **中文**：理论上，这个计划听起来简单，但执行需要艰苦努力。  
-   **英文**：In theory, the plan sounds simple, but execution requires hard work.
-   > **解析**：`in theory` 是介词短语，意为“理论上”，作句首状语，与实际对比。
+5. **中文**：许多学生在刚入学时很难适应高强度的课程。
+   **英文**：Many students struggle to adapt to the heavy workload at first.
+   > **解析**：struggle 表示挣扎、困难重重。
 
-6. **中文**：立即采取行动是战胜拖延症的关键。  
-   **英文**：Taking immediate action is the key to overcoming procrastination.
-   > **解析**：`action` 是名词，搭配 `take action`（采取行动），动名词短语作主语。
+6. **中文**：制定目标时不要仓促决定，要给自己充分的思考时间。
+   **英文**：Don't rush into making major career decisions without thinking.
+   > **解析**：rush 表示仓促、急冲。
 
-7. **中文**：她被导师的话真正地鼓舞到了。  
-   **英文**：She was truly inspired by her mentor's words.
-   > **解析**：`truly` 是副词，意为“真正地、真诚地”，修饰过去分词 `inspired`。
+7. **中文**：保持积极的心态有助于克服日常生活中的挫折。
+   **英文**：Maintaining a positive mindset helps overcome daily obstacles.
+   > **解析**：maintain 表示维持、保持。
 
-8. **中文**：如果你每天致力于磨练技能，你一定会取得进步。  
-   **英文**：If you work at your skills every day, you will surely improve.
-   > **解析**：`work at` 是短语动词，意为“致力于、努力改善（某事）”，后接名词 `your skills`。
+8. **中文**：经过多年的努力，她终于达到了事业的顶峰。
+   **英文**：After years of effort, she finally reached the peak of her career.
+   > **解析**：reach 表示达到。
 
-9. **中文**：你练习得越多，就会变得越自信。  
-   **英文**：The more you practice, the more confident you will become.
-   > **解析**：`the more..., the more...` 结构表示“越……，就越……”，是英语比较级双重句型。
+9. **中文**：积极采取行动比光是在脑海里构思重要得多。
+   **英文**：Taking concrete action matters much more than just having ideas.
+   > **解析**：action 表示行动。
 
-10. **中文**：他努力工作，以实现今年的职业目标。  
-   **英文**：He worked hard to reach his professional goals this year.
-   > **解析**：`reach` 作及物动词，意为“达到、实现”，搭配 `reach one's goals`（达成目标）。
+10. **中文**：理论上这个方案可行，但实际操作中存在诸多变数。
+   **英文**：In theory the design works well, but practical tests are needed.
+   > **解析**：in theory 表示理论上。
+
+11. **中文**：起初，他没有意识到自己的习惯会带来多大影响。
+   **英文**：Initially, he didn't realize how much his habit would affect him.
+   > **解析**：initially 表示起初；affect 表示影响。
+
+12. **中文**：无论发生什么，我们都不会放弃，绝无例外！
+   **英文**：We will not accept failure under any circumstances, period!
+   > **解析**：period 在句末作强调，意为绝无例外、到此为止。
+
+13. **中文**：只有不断向前看，你才能战胜过去的遗憾。
+   **英文**：Only by looking forward can you overcome past disappointment.
+   > **解析**：forward 表示向前。
+
+14. **中文**：已经有许多实验证明了赞美对士气的提升作用。
+   **英文**：A number of studies have proven the power of positive reinforcement.
+   > **解析**：a number of 表示许多、若干。
+
+15. **中文**：你越努力地致力于这项技能，成果就越出色。
+   **英文**：The more you work at this skill, the better your results will be.
+   > **解析**：the more ... the more ... 表示越……就越……。
+
+16. **中文**：不要假装一切都很完美，勇敢面对存在的问题。
+   **英文**：Don't pretend that everything is fine when changes are needed.
+   > **解析**：pretend 表示假装、伪装。
+
+17. **中文**：他真正地关爱着团队中的每一位小组成员。
+   **英文**：He truly cares about the personal growth of every team member.
+   > **解析**：truly 表示真正地。
+
+18. **中文**：善待他人不仅能带来好人缘，也能让自己感到快乐。
+   **英文**：Learning to treat others with respect brings lasting self-satisfaction.
+   > **解析**：treat 表示对待。
+
+19. **中文**：致力于提升个人能力需要持之以恒的毅力。
+   **英文**：If you work at your skills daily, progress will naturally follow.
+   > **解析**：work at 表示在……上努力。
+
+20. **中文**：成功需要自由探索的空间和不断的自我驱动。
+   **英文**：Having free time to explore passions boosts creative output.
+   > **解析**：free 表示自由的。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Initially, she struggled with fear, but she never gave up.
-   > **中文**：最初，她与恐惧作斗争，但她从未放弃。
+1. Internal motivation is key to keeping people committed for the long term.
+   > **中文**：内在动机是推动人们长期坚持的关键因素。
 
-2. Many people struggle to balance their daily life and ambition.
-   > **中文**：许多人难以平衡日常生活与抱负。
+2. This study on human motivation made a significant breakthrough.
+   > **中文**：这项关于心理学的研究取得了显著的进展。
 
-3. You need to maintain a positive attitude during difficult times.
-   > **中文**：在困难时期，你需要保持积极的态度。
+3. Even the most intelligent people must work hard to achieve success.
+   > **中文**：即使是最聪明的人也需要在实践中不断努力。
 
-4. Overcoming this obstacle was a significant milestone.
-   > **中文**：战胜这一障碍对他来说是一个重大的里程碑。
+4. Every single goal should have a clear deadline for execution.
+   > **中文**：每一个单独的目标都应该设定明确的完成期限。
 
-5. In theory, the plan sounds simple, but execution requires hard work.
-   > **中文**：理论上，这个计划听起来简单，但执行需要艰苦努力。
+5. Many students struggle to adapt to the heavy workload at first.
+   > **中文**：许多学生在刚入学时很难适应高强度的课程。
 
-6. Taking immediate action is the key to overcoming procrastination.
-   > **中文**：立即采取行动是战胜拖延症的关键。
+6. Don't rush into making major career decisions without thinking.
+   > **中文**：制定目标时不要仓促决定，要给自己充分的思考时间。
 
-7. She was truly inspired by her mentor's words.
-   > **中文**：她被导师的话真正地鼓舞到了。
+7. Maintaining a positive mindset helps overcome daily obstacles.
+   > **中文**：保持积极的心态有助于克服日常生活中的挫折。
 
-8. If you work at your skills every day, you will surely improve.
-   > **中文**：如果你每天致力于磨练技能，你一定会取得进步。
+8. After years of effort, she finally reached the peak of her career.
+   > **中文**：经过多年的努力，她终于达到了事业的顶峰。
 
-9. The more you practice, the more confident you will become.
-   > **中文**：你练习得越多，就会变得越自信。
+9. Taking concrete action matters much more than just having ideas.
+   > **中文**：积极采取行动比光是在脑海里构思重要得多。
 
-10. He worked hard to reach his professional goals this year.
-   > **中文**：他努力工作，以实现今年的职业目标。
+10. In theory the design works well, but practical tests are needed.
+   > **中文**：理论上这个方案可行，但实际操作中存在诸多变数。
+
+11. Initially, he didn't realize how much his habit would affect him.
+   > **中文**：起初，他没有意识到自己的习惯会带来多大影响。
+
+12. We will not accept failure under any circumstances, period!
+   > **中文**：无论发生什么，我们都不会放弃，绝无例外！
+
+13. Only by looking forward can you overcome past disappointment.
+   > **中文**：只有不断向前看，你才能战胜过去的遗憾。
+
+14. A number of studies have proven the power of positive reinforcement.
+   > **中文**：已经有许多实验证明了赞美对士气的提升作用。
+
+15. The more you work at this skill, the better your results will be.
+   > **中文**：你越努力地致力于这项技能，成果就越出色。
+
+16. Don't pretend that everything is fine when changes are needed.
+   > **中文**：不要假装一切都很完美，勇敢面对存在的问题。
+
+17. He truly cares about the personal growth of every team member.
+   > **中文**：他真正地关爱着团队中的每一位小组成员。
+
+18. Learning to treat others with respect brings lasting self-satisfaction.
+   > **中文**：善待他人不仅能带来好人缘，也能让自己感到快乐。
+
+19. If you work at your skills daily, progress will naturally follow.
+   > **中文**：致力于提升个人能力需要持之以恒的毅力。
+
+20. Having free time to explore passions boosts creative output.
+   > **中文**：成功需要自由探索的空间和不断的自我驱动。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| internal | 内在的；内部的 |
+| intelligent | 聪明的；有智慧的 |
+| significant | 显著的；重大的 |
+| single | 单个的；单一的 |
+| struggle | 挣扎；努力奋斗 |
+| rush | 仓促；冲 |
+| maintain | 维持；保持 |
+| reach | 达到；够到 |
+| work at | 致力于；在……上努力 |
+| affect | 影响 |
+| treat | 对待；对待某人 |
+| in theory | 理论上 |
+| initially | 最初；起初 |
+| period | 句号；时期（口语表“到此为止/绝无例外”） |
+| forward | 向前 |
+| action | 行动 |
+| a number of | 许多；若干 |
+| pretend | 伪装；假装 |
+| truly | 真正地 |
+| the more | 越…… |
 
 </quiz-matching>
 
@@ -165,102 +258,202 @@ in theory 和 no longer 构成一种"理想与现实"的对比：In theory, it's
 
 ### 1
 
-`____`, she struggled with fear, but she never gave up.
+____ motivation is key to keeping people committed for the long term.
 
-- [x] initially
+- [x] Internal
 - [ ] a number of
-- [ ] forward
+- [ ] action
 
-> **解析**：`initially` 是副词，意为“最初、起初”，置于句首作句首状语，引出初始状态。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Many people `____` to balance their daily life and ambition.
+This study on human motivation made a ____ breakthrough.
 
-- [x] struggle
+- [x] significant
+- [ ] a number of
 - [ ] action
-- [ ] free
 
-> **解析**：`struggle` 在此处作动词，搭配 `struggle to do sth` 表示“艰难地做某事”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-You need to `____` a positive attitude during difficult times.
+Even the most ____ people must work hard to achieve success.
 
-- [x] maintain
-- [ ] affect
-- [ ] in theory
+- [x] intelligent
+- [ ] a number of
+- [ ] action
 
-> **解析**：`maintain` 作及物动词，意为“保持、维持”，宾语为 `a positive attitude`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Overcoming this obstacle was a `____` milestone.
+Every ____ goal should have a clear deadline for execution.
 
-- [x] significant
-- [ ] find
-- [ ] initially
+- [x] single
+- [ ] a number of
+- [ ] action
 
-> **解析**：`significant` 是形容词，意为“重大的、有意义的”，作前置定语修饰 `milestone`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-`____`, the plan sounds simple, but execution requires hard work.
+Many students ____ to adapt to the heavy workload at first.
 
-- [x] in theory
-- [ ] forward
-- [ ] internal
+- [x] struggle
+- [ ] a number of
+- [ ] action
 
-> **解析**：`in theory` 是介词短语，意为“理论上”，作句首状语，与实际对比。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Taking immediate `____` is the key to overcoming procrastination.
+Don't ____ into making major career decisions without thinking.
 
-- [x] action
-- [ ] in theory
-- [ ] maintain
+- [x] rush
+- [ ] a number of
+- [ ] action
 
-> **解析**：`action` 是名词，搭配 `take action`（采取行动），动名词短语作主语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-She was `____` inspired by her mentor's words.
+____ a positive mindset helps overcome daily obstacles.
 
-- [x] truly
-- [ ] in theory
-- [ ] maintain
+- [x] Maintaining
+- [ ] a number of
+- [ ] action
 
-> **解析**：`truly` 是副词，意为“真正地、真诚地”，修饰过去分词 `inspired`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-If you `____` your skills every day, you will surely improve.
+After years of effort, she ____ reached the peak of her career.
 
-- [x] work at
-- [ ] initially
-- [ ] no longer
+- [x] finally
+- [ ] a number of
+- [ ] action
 
-> **解析**：`work at` 是短语动词，意为“致力于、努力改善（某事）”，后接名词 `your skills`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-`____` you practice, the more confident you will become.
+Taking concrete ____ matters much more than just having ideas.
 
-- [x] the more
-- [ ] intelligent
-- [ ] period
+- [x] action
+- [ ] a number of
+- [ ] affect
 
-> **解析**：`the more..., the more...` 结构表示“越……，就越……”，是英语比较级双重句型。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-He worked hard to `____` his professional goals this year.
+In theory the design works well, but ____ tests are needed.
 
-- [x] reach
-- [ ] internal
-- [ ] pretend
+- [x] practical
+- [ ] a number of
+- [ ] action
 
-> **解析**：`reach` 作及物动词，意为“达到、实现”，搭配 `reach one's goals`（达成目标）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+____, he didn't realize how much his habit would affect him.
+
+- [x] Initially
+- [ ] a number of
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+We will not accept failure under any circumstances, ____!
+
+- [x] period
+- [ ] a number of
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Only by looking ____ can you overcome past disappointment.
+
+- [x] forward
+- [ ] a number of
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+A number of studies have proven the power of positive ____.
+
+- [x] reinforcement
+- [ ] a number of
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The more you work at this skill, the better your ____ will be.
+
+- [x] results
+- [ ] a number of
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Don't ____ that everything is fine when changes are needed.
+
+- [x] pretend
+- [ ] a number of
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+He ____ cares about the personal growth of every team member.
+
+- [x] truly
+- [ ] a number of
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Learning to ____ others with respect brings lasting self-satisfaction.
+
+- [x] treat
+- [ ] a number of
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+If you work at your skills daily, progress will ____ follow.
+
+- [x] naturally
+- [ ] a number of
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Having ____ time to explore passions boosts creative output.
+
+- [x] free
+- [ ] a number of
+- [ ] action
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

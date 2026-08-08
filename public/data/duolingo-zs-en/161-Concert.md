@@ -61,83 +61,176 @@ sing → sang → sung。do/does/did 构成疑问和否定。
 
 <quiz-sentence-builder>
 
-1. **中文**：现场摇滚音乐会的普通入场券在数分钟内售罄。  
-   **英文**：General admission tickets for the live rock concert sold out within minutes.
-   > **解析**：admission 为名词，意为“入场、门票”。general admission 指不设固定座位的普通入场票。
+1. **中文**：如果你提前买票，门票会便宜得多。
+   **英文**：Admission is much cheaper if you buy tickets in advance.
+   > **解析**：admission 表示“门票/入场费”；in advance 意为“提前”。
 
-2. **中文**：我爷爷一直都是经典乡村音乐的大粉丝。  
-   **英文**：My grandfather has always been a big fan of classic country music.
-   > **解析**：country 在此处作定语，修饰 music（country music 乡村音乐），指一种传统音乐风格。
+2. **中文**：我们在后排找了座位，因为前排全满了。
+   **英文**：We found seats in the back row because the front was full.
+   > **解析**：back row 表示“后排”；front 表示“前排”。
 
-3. **中文**：她喜欢流行歌曲，她的妹妹也一样喜欢。  
-   **英文**：She loves pop songs, and so does her younger sister.
-   > **解析**：does 为助动词，在此处引导倒装结构 so does sb.，意为“某人也一样”。
+3. **中文**：站在看台上看整个演唱会舞台视野极佳。
+   **英文**：Sitting in the balcony offers a great view of the concert stage.
+   > **解析**：balcony 表示“看台/阳台”；stage 意为“舞台”。
 
-4. **中文**：主音吉他手在最后安可演出中演奏了一段令人惊叹的独奏。  
-   **英文**：The lead guitarist played an amazing solo during the final encore performance.
-   > **解析**：guitarist 为可数名词，意为“吉他手”。lead guitarist 即主音吉他手。
+4. **中文**：主唱在演出现场优美地演唱了那首经典歌曲。
+   **英文**：The lead singer sang that classic song beautifully live on stage.
+   > **解析**：beautifully 表示“优美地/精彩地”；sang 为 sing 的过去式。
 
-5. **中文**：管弦乐队今晚在这座具有历史意义的剧院里演奏了一首著名的交响曲。  
-   **英文**：The orchestra performed a famous symphony in this historic theater tonight.
-   > **解析**：historic 为形容词，意为“有历史意义的、历史悠久的”，常修饰 building, venue, theater。
+5. **中文**：我爷爷非常喜欢听乡村音乐和民间吉他演奏。
+   **英文**：My grandfather loves listening to country music and acoustic guitar.
+   > **解析**：country 表示“乡村音乐”；acoustic 意为“原声的”。
 
-6. **中文**：你能一边弹原声吉他一边一起唱歌吗？  
-   **英文**：Can you play the acoustic guitar and sing along at the same time.
-   > **解析**：play 在此处作及物动词，意为“演奏（乐器）”。接乐器时乐器前通常加定冠词或限定词（play the guitar）。
+6. **中文**：那个巨大的体育馆今晚能容纳五万名歌迷。
+   **英文**：The enormous stadium can hold fifty thousand music fans tonight.
+   > **解析**：enormous 表示“巨大的/庞大的”；stadium 意为“体育馆”。
 
-7. **中文**：那首浪漫情歌由主唱倾情优美地演唱。  
-   **英文**：That romantic ballad was beautifully sung by the lead singer.
-   > **解析**：sung 是 sing 的过去分词，在此处与 was 构成一般过去时的被动语态（was sung）。
+7. **中文**：那位有才华的吉他手演奏了一段精彩的独奏。
+   **英文**：The talented guitarist played a solo during the rock concert.
+   > **解析**：guitarist 表示“吉他手”；solo 意为“独奏”。
 
-8. **中文**：即使在后排的座位上，音乐厅的声音效果依然极佳。  
-   **英文**：Even from our seats in the back row, the acoustics of the concert hall were great about balcony.
-   > **解析**：back row 为名词短语，意为“后排”。in the back row 意为“在后排座位”。
+8. **中文**：他们年轻时都非常喜欢听重摇滚音乐。
+   **英文**：They enjoyed listening to hard rock music when they were young.
+   > **解析**：hard rock 表示“重摇滚”；enjoyed 意为“喜爱”。
 
-9. **中文**：你有成功买到音乐节前排的门票吗？  
-   **英文**：Did you manage to get front row tickets for the music festival.
-   > **解析**：did 为助动词，在此处构成一般过去时的疑问句句型（Did you + V.?）。
+9. **中文**：今晚在音乐节上大家一定要玩得开心！
+   **英文**：Make sure to have fun at the music festival tonight!
+   > **解析**：have fun 表示“玩得开心/过得愉快”。
 
-10. **中文**：我学习时通常听不惯重金属音乐。  
-   **英文**：I don't usually listen to heavy metal music when studying.
-   > **解析**：don't 为助动词 do not 的缩写，在此处否定行为动词 listen to。
+10. **中文**：乐队在市中心的一座历史悠久的剧院里演出。
+   **英文**：The band performed in a historic theater located downtown.
+   > **解析**：historic 表示“历史悠久的/有历史意义的”。
+
+11. **中文**：他们的新单曲在上周登上了音乐榜单的榜首，成为了轰动大金曲。
+   **英文**：Their new single became a hit on the music charts last week.
+   > **解析**：hit 表示“热门歌曲/轰动”；music charts 意为“音乐榜单”。
+
+12. **中文**：强烈建议提前预订演唱会门票。
+   **英文**：It is strongly recommended to book concert tickets in advance.
+   > **解析**：in advance 表示“提前/预先”；recommended 意为“推荐”。
+
+13. **中文**：我们的座位位于舞台正前方那片最热闹的区域。
+   **英文**：Our seats are located in the center section near the stage.
+   > **解析**：section 表示“区域/板块”；located 意为“位于”。
+
+14. **中文**：那是全场观众一起合唱过的最难忘的歌曲。
+   **英文**：That was the most famous anthem sung by the crowd.
+   > **解析**：sung 是 sing 的过去分词；anthem 意为“赞歌/名曲”。
+
+15. **中文**：昨晚的现场灯光秀是一场难忘的体验。
+   **英文**：The live light show last night was an unforgettable experience.
+   > **解析**：unforgettable 表示“难忘的”；experience 意为“体验”。
+
+16. **中文**：上层看台的门票价格比VIP区便宜很多。
+   **英文**：Tickets for the upper level are much cheaper than VIP seats.
+   > **解析**：upper level 表示“上层看台”；VIP seats 意为“贵宾席”。
+
+17. **中文**：主唱登台前，音乐家们正在弹奏自己的乐器。
+   **英文**：The musicians play their instruments before the singer comes out.
+   > **解析**：play 表示“演奏/弹奏”；instruments 意为“乐器”。
+
+18. **中文**：全场歌迷跟着最喜欢的摇滚乐队一起唱歌。
+   **英文**：Fans love to sing along with their favorite rock band.
+   > **解析**：sing along with 表示“跟着……一起唱歌”。
+
+19. **中文**：他们最终买到那场热门演唱会的门票了吗？
+   **英文**：Did they manage to get tickets for the sold-out show?
+   > **解析**：did 为助动词过去式；manage to 意为“成功做到”。
+
+20. **中文**：她昨晚没有参加演唱会，因为她生病了。
+   **英文**：She didn't attend the concert last night because she was sick.
+   > **解析**：didn't 即 did not，表示否定过去式。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. General admission tickets for the live rock concert sold out within minutes.
-   > **中文**：现场摇滚音乐会的普通入场券在数分钟内售罄。
+1. Admission is much cheaper if you buy tickets in advance.
+   > **中文**：如果你提前买票，门票会便宜得多。
 
-2. My grandfather has always been a big fan of classic country music.
-   > **中文**：我爷爷一直都是经典乡村音乐的大粉丝。
+2. We found seats in the back row because the front was full.
+   > **中文**：我们在后排找了座位，因为前排全满了。
 
-3. She loves pop songs, and so does her younger sister.
-   > **中文**：她喜欢流行歌曲，她的妹妹也一样喜欢。
+3. Sitting in the balcony offers a great view of the concert stage.
+   > **中文**：站在看台上看整个演唱会舞台视野极佳。
 
-4. The lead guitarist played an amazing solo during the final encore performance.
-   > **中文**：主音吉他手在最后安可演出中演奏了一段令人惊叹的独奏。
+4. The lead singer sang that classic song beautifully live on stage.
+   > **中文**：主唱在演出现场优美地演唱了那首经典歌曲。
 
-5. The orchestra performed a famous symphony in this historic theater tonight.
-   > **中文**：管弦乐队今晚在这座具有历史意义的剧院里演奏了一首著名的交响曲。
+5. My grandfather loves listening to country music and acoustic guitar.
+   > **中文**：我爷爷非常喜欢听乡村音乐和民间吉他演奏。
 
-6. Can you play the acoustic guitar and sing along at the same time.
-   > **中文**：你能一边弹原声吉他一边一起唱歌吗？
+6. The enormous stadium can hold fifty thousand music fans tonight.
+   > **中文**：那个巨大的体育馆今晚能容纳五万名歌迷。
 
-7. That romantic ballad was beautifully sung by the lead singer.
-   > **中文**：那首浪漫情歌由主唱倾情优美地演唱。
+7. The talented guitarist played a solo during the rock concert.
+   > **中文**：那位有才华的吉他手演奏了一段精彩的独奏。
 
-8. Even from our seats in the back row, the acoustics of the concert hall were great about balcony.
-   > **中文**：即使在后排的座位上，音乐厅的声音效果依然极佳。
+8. They enjoyed listening to hard rock music when they were young.
+   > **中文**：他们年轻时都非常喜欢听重摇滚音乐。
 
-9. Did you manage to get front row tickets for the music festival.
-   > **中文**：你有成功买到音乐节前排的门票吗？
+9. Make sure to have fun at the music festival tonight!
+   > **中文**：今晚在音乐节上大家一定要玩得开心！
 
-10. I don't usually listen to heavy metal music when studying.
-   > **中文**：我学习时通常听不惯重金属音乐。
+10. The band performed in a historic theater located downtown.
+   > **中文**：乐队在市中心的一座历史悠久的剧院里演出。
+
+11. Their new single became a hit on the music charts last week.
+   > **中文**：他们的新单曲在上周登上了音乐榜单的榜首，成为了轰动大金曲。
+
+12. It is strongly recommended to book concert tickets in advance.
+   > **中文**：强烈建议提前预订演唱会门票。
+
+13. Our seats are located in the center section near the stage.
+   > **中文**：我们的座位位于舞台正前方那片最热闹的区域。
+
+14. That was the most famous anthem sung by the crowd.
+   > **中文**：那是全场观众一起合唱过的最难忘的歌曲。
+
+15. The live light show last night was an unforgettable experience.
+   > **中文**：昨晚的现场灯光秀是一场难忘的体验。
+
+16. Tickets for the upper level are much cheaper than VIP seats.
+   > **中文**：上层看台的门票价格比VIP区便宜很多。
+
+17. The musicians play their instruments before the singer comes out.
+   > **中文**：主唱登台前，音乐家们正在弹奏自己的乐器。
+
+18. Fans love to sing along with their favorite rock band.
+   > **中文**：全场歌迷跟着最喜欢的摇滚乐队一起唱歌。
+
+19. Did they manage to get tickets for the sold-out show?
+   > **中文**：他们最终买到那场热门演唱会的门票了吗？
+
+20. She didn't attend the concert last night because she was sick.
+   > **中文**：她昨晚没有参加演唱会，因为她生病了。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| admission | 门票 / 入场费 |
+| back row | 后排 |
+| balcony | 看台 / 阳台 |
+| beautifully | 优美地 / 精彩地 |
+| country | 乡村音乐 |
+| enormous | 巨大的 / 庞大的 |
+| guitarist | 吉他手 |
+| hard rock | 重摇滚 |
+| have fun | 玩得开心 |
+| historic | 历史悠久的 |
+| hit | 热门歌曲 / 轰动 |
+| in advance | 提前 / 预先 |
+| section | 区域 / 板块 |
+| sung | 演唱（sing的过去分词） |
+| unforgettable | 难忘的 |
+| upper level | 上层看台 |
+| play | 演奏 / 弹奏 |
+| sing | 唱歌 |
+| did | 做了（助动词） |
+| didn't | 没有（did not） |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ sing → sang → sung。do/does/did 构成疑问和否定。
 
 ### 1
 
-General `____` tickets for the live rock concert sold out within minutes.
+____ is much cheaper if you buy tickets in advance.
 
-- [x] admission
+- [x] Admission
 - [ ] back row
-- [ ] did
+- [ ] balcony
 
-> **解析**：admission 为名词，意为“入场、门票”。general admission 指不设固定座位的普通入场票。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-My grandfather has always been a big fan of classic `____` music.
+We found seats in the back row ____ the front was full.
 
-- [x] country
+- [x] because
+- [ ] admission
 - [ ] back row
-- [ ] didn't
 
-> **解析**：country 在此处作定语，修饰 music（country music 乡村音乐），指一种传统音乐风格。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-She loves pop songs, and so `____`es her younger sister.
+Sitting in the ____ offers a great view of the concert stage.
 
-- [x] do
-- [ ] balcony
-- [ ] didn't
+- [x] balcony
+- [ ] admission
+- [ ] back row
 
-> **解析**：does 为助动词，在此处引导倒装结构 so does sb.，意为“某人也一样”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The lead `____` played an amazing solo during the final encore performance.
+The lead singer sang that classic song ____ live on stage.
 
-- [x] guitarist
-- [ ] beautifully
-- [ ] do
+- [x] beautifully
+- [ ] admission
+- [ ] back row
 
-> **解析**：guitarist 为可数名词，意为“吉他手”。lead guitarist 即主音吉他手。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The orchestra performed a famous symphony in this `____` theater tonight.
+My grandfather loves listening to ____ music and acoustic guitar.
 
-- [x] historic
-- [ ] country
-- [ ] does
+- [x] country
+- [ ] admission
+- [ ] back row
 
-> **解析**：historic 为形容词，意为“有历史意义的、历史悠久的”，常修饰 building, venue, theater。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Can you `____` the acoustic guitar and sing along at the same time.
+The ____ stadium can hold fifty thousand music fans tonight.
 
-- [x] play
-- [ ] did
-- [ ] doesn't
+- [x] enormous
+- [ ] admission
+- [ ] back row
 
-> **解析**：play 在此处作及物动词，意为“演奏（乐器）”。接乐器时乐器前通常加定冠词或限定词（play the guitar）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-That romantic ballad was `____` sung by the lead singer.
+The talented ____ played a solo during the rock concert.
 
-- [x] beautifully
-- [ ] do
-- [ ] enormous
+- [x] guitarist
+- [ ] admission
+- [ ] back row
 
-> **解析**：sung 是 sing 的过去分词，在此处与 was 构成一般过去时的被动语态（was sung）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Even from our seats in the `____`, the acoustics of the concert hall were great about balcony.
+They enjoyed ____ to hard rock music when they were young.
 
-- [x] back row
-- [ ] does
-- [ ] guitarist
+- [x] listening
+- [ ] admission
+- [ ] back row
 
-> **解析**：back row 为名词短语，意为“后排”。in the back row 意为“在后排座位”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-`____` you manage to get front row tickets for the music festival.
+Make sure to have fun at the music ____ tonight!
 
-- [x] did
-- [ ] doesn't
-- [ ] hard rock
+- [x] festival
+- [ ] admission
+- [ ] back row
 
-> **解析**：did 为助动词，在此处构成一般过去时的疑问句句型（Did you + V.?）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-I `____` usually listen to heavy metal music when studying.
+The band performed in a ____ theater located downtown.
 
-- [x] don't
-- [ ] doesn't
-- [ ] have fun
+- [x] historic
+- [ ] admission
+- [ ] back row
 
-> **解析**：don't 为助动词 do not 的缩写，在此处否定行为动词 listen to。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Their new single became a ____ on the music charts last week.
+
+- [x] hit
+- [ ] admission
+- [ ] back row
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+It is strongly ____ to book concert tickets in advance.
+
+- [x] recommended
+- [ ] admission
+- [ ] back row
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Our seats are located in the center ____ near the stage.
+
+- [x] section
+- [ ] admission
+- [ ] back row
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+That was the most famous anthem ____ by the crowd.
+
+- [x] sung
+- [ ] admission
+- [ ] back row
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The live light show last night was an ____ experience.
+
+- [x] unforgettable
+- [ ] admission
+- [ ] back row
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+____ for the upper level are much cheaper than VIP seats.
+
+- [x] Tickets
+- [ ] admission
+- [ ] back row
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The musicians ____ their instruments before the singer comes out.
+
+- [x] play
+- [ ] admission
+- [ ] back row
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Fans love to ____ along with their favorite rock band.
+
+- [x] sing
+- [ ] admission
+- [ ] back row
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+____ they manage to get tickets for the sold-out show?
+
+- [x] Did
+- [ ] admission
+- [ ] back row
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+She ____ attend the concert last night because she was sick.
+
+- [x] didn't
+- [ ] admission
+- [ ] back row
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

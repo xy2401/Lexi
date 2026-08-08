@@ -63,83 +63,176 @@ careful, consequence, don't you dare, edge, embarrass, fire, from now on, get, g
 
 <quiz-sentence-builder>
 
-1. **中文**：在滑的悬崖边远足时请务必小心。  
-   **英文**：Please be careful when hiking near the slippery cliff edge.
-   > **解析**：`careful` 形容词，意为“小心的；谨慎的”。常用祈使句结构 `be careful when...`。
+1. **中文**：你敢碰那个烫手的锅试试！  
+   **英文**：Don't you dare touch that burning pan!
+   > **解析**：Don't you dare... 表示强烈的警告“你敢……！”
 
-2. **中文**：你不应该在公共场合取笑你的朋友；那只会让他难堪。  
-   **英文**：You shouldn't make fun of your friend in public; it will only embarrass him.
-   > **解析**：`embarrass` 及物动词，意为“使窘迫；使难堪”。
+2. **中文**：你破坏学校规则是逃脱不了惩罚的。  
+   **英文**：You cannot get away with breaking the school rule.
+   > **解析**：get away with 表示做了坏事逃脱惩罚。
 
-3. **中文**：如果你在薄冰上滑冰，你可能会受到非常严重的伤害。  
-   **英文**：If you skate on thin ice, you could get hurt very badly.
-   > **解析**：`get` 连系动词，用于“get + 过去分词”（如 `get hurt`），表示被动或状态的改变。
+3. **中文**：如果你作弊，你会在老师那里惹上麻烦。  
+   **英文**：If you cheat, you will get in trouble with the teacher.
+   > **解析**：get in trouble 表示惹上麻烦。
 
-4. **中文**：窗户碎裂后，要注意地板上的碎玻璃。  
-   **英文**：Be cautious of broken glass on the floor after the window shattered.
-   > **解析**：`glass` 不可数名词，意为“玻璃”；作可数名词时指“玻璃杯”。
+4. **中文**：那个青少年因很晚回家而被禁足了。  
+   **英文**：The teenager was grounded for coming home late.
+   > **解析**：grounded 表示被禁足的。
 
-5. **中文**：无意冒犯，但我觉得你的计划还不够安全，无法执行。  
-   **英文**：No offense, but I don't think your plan is safe enough to execute.
-   > **解析**：`no offense` 口语短语，意为“无意冒犯；别介意”，用于在发表可能引起尴尬或反感的不同意见前进行垫铺。
+5. **中文**：离危险的悬崖边缘远一点！  
+   **英文**：Stand back from the dangerous edge of the cliff!
+   > **解析**：Stand back 表示退后、站远点。
 
-6. **中文**：为了拍一张冒风险的照片而拿自己的安全冒风险是愚蠢的。  
-   **英文**：It is foolish to risk your safety for a single adventurous photo.
-   > **解析**：`risk` 动词，意为“冒……的风险”。搭配 `risk sth. for sth.`（为了某事而冒某事险）。
+6. **中文**：慢慢转过身来，把手放在我能看到的地方。  
+   **英文**：Turn around slowly and put your hands where I can see them.
+   > **解析**：Turn around 表示转身。
 
-7. **中文**：黑暗暴风雨开始了，更糟的是，我们弄丢了手电筒。  
-   **英文**：The dark storm began, and to make matters worse, we lost our flashlights.
-   > **解析**：`to make matters worse` 插入语短语，意为“更糟糕的是；雪上加霜的是”。
+7. **中文**：不要站得离锋利的刀刃太近。  
+   **英文**：Don't stand too close to the sharp knife edge.
+   > **解析**：sharp 表示锋利的。
 
-8. **中文**：鲁莽驾驶可能会对所有相关人员造成悲剧性的后果。  
-   **英文**：Driving recklessly can lead to tragic consequences for everyone involved.
-   > **解析**：`consequence` 可数名词，意为“后果；结果”。搭配 `lead to consequences`（导致后果）。
+8. **中文**：当心那个破损的玻璃窗。  
+   **英文**：Be careful with that broken glass window.
+   > **解析**：glass 表示玻璃。
 
-9. **中文**：在干草附近玩火柴可能会引发危险的野火。  
-   **英文**：Playing with matches near dry grass can spark a dangerous wild fire.
-   > **解析**：`fire` 名词，意为“火；火灾”。`wild fire`（野火；山火）。
+9. **中文**：每一个冒险的选择都伴随着严重的后果。  
+   **英文**：Every risky choice carries a serious consequence.
+   > **解析**：consequence 表示后果。
 
-10. **中文**：如果你侵入私有财产，你将会陷入与管理当局的麻烦中。  
-   **英文**：You will get in trouble with the authorities if you trespass on private property.
-   > **解析**：`get in trouble` 为固定动词短语，意为“惹上麻烦；陷入困境”。搭配 `get in trouble with sb.`。
+10. **中文**：让这次失败成为你一个宝贵的教训吧。  
+   **英文**：Let this failure be a valuable lesson to you.
+   > **解析**：lesson 表示教训。
+
+11. **中文**：他太固执了，听不进任何建议。  
+   **英文**：He was too stubborn to listen to any advice.
+   > **解析**：stubborn 表示固执的、倔强的。
+
+12. **中文**：我丢了钱包，雪上加霜的是，我还错过了公交车。  
+   **英文**：I lost my wallet, and to make matters worse, I missed the bus.
+   > **解析**：to make matters worse 表示雪上加霜的是。
+
+13. **中文**：一只野生鹿不知从哪里突然跳到了马路上。  
+   **英文**：A wild deer jumped onto the road out of nowhere.
+   > **解析**：out of nowhere 表示不知从何处突然出现。
+
+14. **中文**：从今往后，你骑车时必须佩戴安全头盔。  
+   **英文**：From now on, you must wear a safety helmet when riding.
+   > **解析**：from now on 表示从今往后。
+
+15. **中文**：无意冒犯，但你的行为确实相当鲁莽。  
+   **英文**：No offense, but your action was quite reckless.
+   > **解析**：No offense 表示无意冒犯。
+
+16. **中文**：注意你的言辞；这不关你的事。  
+   **英文**：Mind your own words; it is none of your business.
+   > **解析**：none of your business 表示不关你的事。
+
+17. **中文**：相信我，你不会想冒那个不必要的风险的。  
+   **英文**：Trust me, you do not want to take that unnecessary risk.
+   > **解析**：trust 表示信任、相信。
+
+18. **中文**：不要因发表虚假声明而让自己难堪。  
+   **英文**：Don't embarrass yourself by making false claims.
+   > **解析**：embarrass 表示使难堪、使尴尬。
+
+19. **中文**：在干枯叶子附近玩火是极其危险的。  
+   **英文**：Playing with fire near dry leaves is extremely dangerous.
+   > **解析**：fire 表示火。
+
+20. **中文**：比赛期间小心不要让自己受伤。  
+   **英文**：Be careful not to get yourself injured during the match.
+   > **解析**：careful 表示小心的。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Please be careful when hiking near the slippery cliff edge.
-   > **中文**：在滑的悬崖边远足时请务必小心。
+1. Don't you dare touch that burning pan!
+   > **中文**：你敢碰那个烫手的锅试试！
 
-2. You shouldn't make fun of your friend in public; it will only embarrass him.
-   > **中文**：你不应该在公共场合取笑你的朋友；那只会让他难堪。
+2. You cannot get away with breaking the school rule.
+   > **中文**：你破坏学校规则是逃脱不了惩罚的。
 
-3. If you skate on thin ice, you could get hurt very badly.
-   > **中文**：如果你在薄冰上滑冰，你可能会受到非常严重的伤害。
+3. If you cheat, you will get in trouble with the teacher.
+   > **中文**：如果你作弊，你会在老师那里惹上麻烦。
 
-4. Be cautious of broken glass on the floor after the window shattered.
-   > **中文**：窗户碎裂后，要注意地板上的碎玻璃。
+4. The teenager was grounded for coming home late.
+   > **中文**：那个青少年因很晚回家而被禁足了。
 
-5. No offense, but I don't think your plan is safe enough to execute.
-   > **中文**：无意冒犯，但我觉得你的计划还不够安全，无法执行。
+5. Stand back from the dangerous edge of the cliff!
+   > **中文**：离危险的悬崖边缘远一点！
 
-6. It is foolish to risk your safety for a single adventurous photo.
-   > **中文**：为了拍一张冒风险的照片而拿自己的安全冒风险是愚蠢的。
+6. Turn around slowly and put your hands where I can see them.
+   > **中文**：慢慢转过身来，把手放在我能看到的地方。
 
-7. The dark storm began, and to make matters worse, we lost our flashlights.
-   > **中文**：黑暗暴风雨开始了，更糟的是，我们弄丢了手电筒。
+7. Don't stand too close to the sharp knife edge.
+   > **中文**：不要站得离锋利的刀刃太近。
 
-8. Driving recklessly can lead to tragic consequences for everyone involved.
-   > **中文**：鲁莽驾驶可能会对所有相关人员造成悲剧性的后果。
+8. Be careful with that broken glass window.
+   > **中文**：当心那个破损的玻璃窗。
 
-9. Playing with matches near dry grass can spark a dangerous wild fire.
-   > **中文**：在干草附近玩火柴可能会引发危险的野火。
+9. Every risky choice carries a serious consequence.
+   > **中文**：每一个冒险的选择都伴随着严重的后果。
 
-10. You will get in trouble with the authorities if you trespass on private property.
-   > **中文**：如果你侵入私有财产，你将会陷入与管理当局的麻烦中。
+10. Let this failure be a valuable lesson to you.
+   > **中文**：让这次失败成为你一个宝贵的教训吧。
+
+11. He was too stubborn to listen to any advice.
+   > **中文**：他太固执了，听不进任何建议。
+
+12. I lost my wallet, and to make matters worse, I missed the bus.
+   > **中文**：我丢了钱包，雪上加霜的是，我还错过了公交车。
+
+13. A wild deer jumped onto the road out of nowhere.
+   > **中文**：一只野生鹿不知从哪里突然跳到了马路上。
+
+14. From now on, you must wear a safety helmet when riding.
+   > **中文**：从今往后，你骑车时必须佩戴安全头盔。
+
+15. No offense, but your action was quite reckless.
+   > **中文**：无意冒犯，但你的行为确实相当鲁莽。
+
+16. Mind your own words; it is none of your business.
+   > **中文**：注意你的言辞；这不关你的事。
+
+17. Trust me, you do not want to take that unnecessary risk.
+   > **中文**：相信我，你不会想冒那个不必要的风险的。
+
+18. Don't embarrass yourself by making false claims.
+   > **中文**：不要因发表虚假声明而让自己难堪。
+
+19. Playing with fire near dry leaves is extremely dangerous.
+   > **中文**：在干枯叶子附近玩火是极其危险的。
+
+20. Be careful not to get yourself injured during the match.
+   > **中文**：比赛期间小心不要让自己受伤。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| `careful` | 小心的 |
+| `consequence` | 后果 |
+| `don't you dare` | 你敢！ |
+| `edge` | 边缘；刀刃 |
+| `embarrass` | 使难堪 |
+| `fire` | 火 |
+| `from now on` | 从今往后 |
+| `get away with` | 逃脱惩罚 |
+| `get in trouble` | 惹上麻烦 |
+| `glass` | 玻璃 |
+| `grounded` | 被禁足的 |
+| `lesson` | 教训 |
+| `no offense` | 无意冒犯 |
+| `none of your business` | 不关你的事 |
+| `out of nowhere` | 突然；不知从何处 |
+| `risk` | 风险 |
+| `sharp` | 锋利的 |
+| `stand back` | 退后；站远点 |
+| `stubborn` | 固执的 |
+| `to make matters worse` | 雪上加霜的是 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ careful, consequence, don't you dare, edge, embarrass, fire, from now on, get, g
 
 ### 1
 
-Please be `____` when hiking near the slippery cliff edge.
+Don't you dare touch that ____ pan!
 
-- [x] careful
+- [x] burning
+- [ ] careful
 - [ ] consequence
-- [ ] fire
 
-> **解析**：`careful` 形容词，意为“小心的；谨慎的”。常用祈使句结构 `be careful when...`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-You shouldn't make fun of your friend in public; it will only `____` him.
+You cannot ____ away with breaking the school rule.
 
-- [x] embarrass
+- [x] get
+- [ ] careful
 - [ ] consequence
-- [ ] from now on
 
-> **解析**：`embarrass` 及物动词，意为“使窘迫；使难堪”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-If you skate on thin ice, you could `____` hurt very badly.
+If you cheat, you will ____ in trouble with the teacher.
 
 - [x] get
-- [ ] don't you dare
-- [ ] from now on
+- [ ] careful
+- [ ] consequence
 
-> **解析**：`get` 连系动词，用于“get + 过去分词”（如 `get hurt`），表示被动或状态的改变。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Be cautious of broken `____` on the floor after the window shattered.
+The teenager was ____ for coming home late.
 
-- [x] glass
-- [ ] edge
-- [ ] get
+- [x] grounded
+- [ ] careful
+- [ ] consequence
 
-> **解析**：`glass` 不可数名词，意为“玻璃”；作可数名词时指“玻璃杯”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-`____`, but I don't think your plan is safe enough to execute.
+Stand back from the dangerous ____ of the cliff!
 
-- [x] no offense
-- [ ] embarrass
-- [ ] get away with
+- [x] edge
+- [ ] careful
+- [ ] consequence
 
-> **解析**：`no offense` 口语短语，意为“无意冒犯；别介意”，用于在发表可能引起尴尬或反感的不同意见前进行垫铺。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-It is foolish to `____` your safety for a single adventurous photo.
+Turn ____ slowly and put your hands where I can see them.
 
-- [x] risk
-- [ ] fire
-- [ ] get in trouble
+- [x] around
+- [ ] careful
+- [ ] consequence
 
-> **解析**：`risk` 动词，意为“冒……的风险”。搭配 `risk sth. for sth.`（为了某事而冒某事险）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The dark storm began, and `____`, we lost our flashlights.
+Don't stand too close to the ____ knife edge.
 
-- [x] to make matters worse
-- [ ] from now on
-- [ ] get yourself
+- [x] sharp
+- [ ] careful
+- [ ] consequence
 
-> **解析**：`to make matters worse` 插入语短语，意为“更糟糕的是；雪上加霜的是”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Driving recklessly can lead to tragic `____`s for everyone involved.
+Be ____ with that broken glass window.
 
-- [x] consequence
-- [ ] get away with
-- [ ] grounded
+- [x] careful
+- [ ] consequence
+- [ ] don't you dare
 
-> **解析**：`consequence` 可数名词，意为“后果；结果”。搭配 `lead to consequences`（导致后果）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Playing with matches near dry grass can spark a dangerous wild `____`.
+Every risky choice carries a serious ____.
 
-- [x] fire
-- [ ] get in trouble
-- [ ] kill
+- [x] consequence
+- [ ] careful
+- [ ] don't you dare
 
-> **解析**：`fire` 名词，意为“火；火灾”。`wild fire`（野火；山火）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-You will `____` with the authorities if you trespass on private property.
+Let this failure be a valuable ____ to you.
 
-- [x] get in trouble
-- [ ] get yourself
-- [ ] lesson
+- [x] lesson
+- [ ] careful
+- [ ] consequence
 
-> **解析**：`get in trouble` 为固定动词短语，意为“惹上麻烦；陷入困境”。搭配 `get in trouble with sb.`。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+He was too ____ to listen to any advice.
+
+- [x] stubborn
+- [ ] careful
+- [ ] consequence
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+I lost my wallet, and to make ____ worse, I missed the bus.
+
+- [x] matters
+- [ ] careful
+- [ ] consequence
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+A wild deer jumped onto the road out of ____.
+
+- [x] nowhere
+- [ ] careful
+- [ ] consequence
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+From now on, you must wear a ____ helmet when riding.
+
+- [x] safety
+- [ ] careful
+- [ ] consequence
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+No offense, but your action was quite ____.
+
+- [x] reckless
+- [ ] careful
+- [ ] consequence
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Mind your own words; it is none of your ____.
+
+- [x] business
+- [ ] careful
+- [ ] consequence
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+____ me, you do not want to take that unnecessary risk.
+
+- [x] Trust
+- [ ] careful
+- [ ] consequence
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Don't ____ yourself by making false claims.
+
+- [x] embarrass
+- [ ] careful
+- [ ] consequence
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Playing with ____ near dry leaves is extremely dangerous.
+
+- [x] fire
+- [ ] careful
+- [ ] consequence
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Be ____ not to get yourself injured during the match.
+
+- [x] careful
+- [ ] consequence
+- [ ] don't you dare
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

@@ -61,83 +61,176 @@ all the way, any time, can always call, express, going-away party, guest of hono
 
 <quiz-sentence-builder>
 
-1. **中文**：我们为即将在海外定居的同事举办了一场温馨的告别派对。  
-   **英文**：We hosted a warm farewell party for our colleague who is moving overseas all the way.
-   > **解析**：`farewell` 作形容词或名词，意为“告别的、欢送的”。短语 `farewell party` 特指“欢送会、告别派对”。
+1. **中文**：我们正在为下周搬走的同事筹办送别派对。
+   **英文**：We are planning a going-away party for our colleague moving next week.
+   > **解析**：going-away party 意为送别派对。
 
-2. **中文**：团队组织了一顿惊喜晚餐，以表达对她十年服务的敬意。  
-   **英文**：The team organized a surprise dinner in honor of her ten years of service any time.
-   > **解析**：`in honor of` 是介词短语，意为“为了向……表示敬意、为了纪念/庆祝……”，在句中作状语。
+2. **中文**：让我们在她离开小镇前为她举办一场惊喜派对吧。
+   **英文**：Let's throw a surprise party for her before she leaves town.
+   > **解析**：throw 意为举办（派对）。
 
-3. **中文**：请检查一下客人名单，确保每个人都接到了邀请。  
-   **英文**：Please check the guest list to make sure everyone was invited can always call.
-   > **解析**：`guest list` 是复合名词，意为“宾客名单”，在句中作动词 `check` 的宾语。
+3. **中文**：作为主宾，他得到了全场朋友的祝贺。
+   **英文**：As the guest of honor, he received warm wishes from all his friends.
+   > **解析**：guest of honor 意为主宾、贵宾。
 
-4. **中文**：大家都同意每人凑十美元，买一份贴心的退休礼物。  
-   **英文**：Everyone agreed to pitch in ten dollars to buy a thoughtful retirement gift about express.
-   > **解析**：`pitch in` 是口语动词短语，意为“共同凑钱、协力分摊”，常用于筹集资金或共同完成某任务。
+4. **中文**：就算你搬到了另一个城市，我们也一定要保持联系。
+   **英文**：Even if you move to another city, we must stay in touch.
+   > **解析**：stay in touch 意为保持联系。
 
-5. **中文**：因为这是一次百家宴晚餐，每位客人都带了一道家常菜来分享。  
-   **英文**：Since it was a potluck dinner, every guest brought a homemade dish to share going-away party.
-   > **解析**：`potluck`（或 `potluck dinner`）指“各自带菜的聚餐/百家宴”，作名词修饰语或独立名词。
+5. **中文**：我们都会想念你，并祝你在新工作中一切顺利。
+   **英文**：We will all miss you and wish you the best in your new job.
+   > **解析**：wish you the best 意为祝你一切顺利。
 
-6. **中文**：我们决定雇用当地的一家餐饮公司为当晚的活动提供餐饮服务。  
-   **英文**：We decided to hire a local company to cater the evening event guest of honor.
-   > **解析**：`cater` 是动词，意为“提供餐饮/包办宴席”。动词搭配 `cater an event` 表示“为活动提供餐饮”。
+6. **中文**：我希望你不用搬去那么远的地方。
+   **英文**：I wish you weren't moving to such a distant place.
+   > **解析**：wish you weren't 意为希望你没有/不要（做某事）。
 
-7. **中文**：事实证明，屋顶花园是这次夏日派对的绝佳场地。  
-   **英文**：The rooftop garden proved to be the perfect venue for the summer party leave town.
-   > **解析**：`venue` 指活动、会议或派对的“举办地点、场地”，作句中的表语。
+7. **中文**：这里的风景很美，我希望你也能在这里。
+   **英文**：The view here is beautiful, and I wish you were here with us.
+   > **解析**：wish you were 意为希望你在（某处）。
 
-8. **中文**：经理提议干杯，庆祝他成功的职业转型。  
-   **英文**：The manager proposed a toast to celebrate his successful career transition about move.
-   > **解析**：`toast` 在此作名词，意为“祝酒、干杯”。固定短语 `propose a toast to...` 表示“向……提议干杯”。
+8. **中文**：他上个月搬走了，但我们仍然经常沟通。
+   **英文**：He moved away last month, but we still communicate frequently.
+   > **解析**：move away 意为搬走、搬离。
 
-9. **中文**：我收到一条消息，说她今晚赶不及来参加派对了。  
-   **英文**：I received a message saying she can't make it to the party tonight move away.
-   > **解析**：`can't make it` 是习惯口语表达，意为“无法出席、赶不上”，`make it` 表示“按时到达/成功做到”。
+9. **中文**：她计划在下周一离开小镇去追求她的梦想。
+   **英文**：She plans to leave town next Monday to pursue her dreams.
+   > **解析**：leave town 意为离开小镇、离开城市。
 
-10. **中文**：他是一位极好的队友，大家一定会深深怀念他。  
-   **英文**：He was such a wonderful teammate, and he will truly be missed by everyone about occasionally.
-   > **解析**：`will be missed` 是被动语态，意为“将会被怀念/想念”，表达依依不舍之情。
+10. **中文**：他决定在海外永久定居。
+   **英文**：He decided to settle down overseas permanently.
+   > **解析**：permanently 意为永久地。
+
+11. **中文**：尽管存在时差，我们依然每周都在网上聊天。
+   **英文**：Despite the time difference, we still chat online every week.
+   > **解析**：time difference 意为时差。
+
+12. **中文**：请代我向你的家人表达诚挚的问候。
+   **英文**：Please send my warm regards to your family.
+   > **解析**：regards 意为问候、致意。
+
+13. **中文**：大家的关怀与热情让他深受感动。
+   **英文**：He was deeply moved by the care and warmth of his friends.
+   > **解析**：warmth 意为温暖、热情。
+
+14. **中文**：没有什么能阻止你追求自己的热情与梦想。
+   **英文**：Nothing can stop you from pursuing your passion and dreams.
+   > **解析**：stop you from 意为阻止你做某事。
+
+15. **中文**：她对艺术有着极大的热情，并决定以此为事业。
+   **英文**：She has a strong passion for art and chose to pursue it.
+   > **解析**：passion 意为热情、激情。
+
+16. **中文**：他很难用语言表达此刻的不舍之情。
+   **英文**：It was hard for him to express his feelings of sadness.
+   > **解析**：express 意为表达。
+
+17. **中文**：就算我们只能偶尔联系，我也永远视你为好朋友。
+   **英文**：Even if we only talk occasionally, you will always be a good friend.
+   > **解析**：occasionally 意为偶尔地。
+
+18. **中文**：如果你需要帮助，随时可以联系我。
+   **英文**：You can reach out to me any time if you need help.
+   > **解析**：any time 意为在任何时候。
+
+19. **中文**：记住，无论何时你想聊聊，你随时可以打电话给我。
+   **英文**：Remember, you can always call me whenever you want to talk.
+   > **解析**：can always call 意为随时可以打电话。
+
+20. **中文**：他特意一路远道而来参加这场送别派对。
+   **英文**：He came all the way to attend this going-away party.
+   > **解析**：all the way 意为一路、千里迢迢。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We hosted a warm farewell party for our colleague who is moving overseas all the way.
-   > **中文**：我们为即将在海外定居的同事举办了一场温馨的告别派对。
+1. We are planning a going-away party for our colleague moving next week.
+   > **中文**：我们正在为下周搬走的同事筹办送别派对。
 
-2. The team organized a surprise dinner in honor of her ten years of service any time.
-   > **中文**：团队组织了一顿惊喜晚餐，以表达对她十年服务的敬意。
+2. Let's throw a surprise party for her before she leaves town.
+   > **中文**：让我们在她离开小镇前为她举办一场惊喜派对吧。
 
-3. Please check the guest list to make sure everyone was invited can always call.
-   > **中文**：请检查一下客人名单，确保每个人都接到了邀请。
+3. As the guest of honor, he received warm wishes from all his friends.
+   > **中文**：作为主宾，他得到了全场朋友的祝贺。
 
-4. Everyone agreed to pitch in ten dollars to buy a thoughtful retirement gift about express.
-   > **中文**：大家都同意每人凑十美元，买一份贴心的退休礼物。
+4. Even if you move to another city, we must stay in touch.
+   > **中文**：就算你搬到了另一个城市，我们也一定要保持联系。
 
-5. Since it was a potluck dinner, every guest brought a homemade dish to share going-away party.
-   > **中文**：因为这是一次百家宴晚餐，每位客人都带了一道家常菜来分享。
+5. We will all miss you and wish you the best in your new job.
+   > **中文**：我们都会想念你，并祝你在新工作中一切顺利。
 
-6. We decided to hire a local company to cater the evening event guest of honor.
-   > **中文**：我们决定雇用当地的一家餐饮公司为当晚的活动提供餐饮服务。
+6. I wish you weren't moving to such a distant place.
+   > **中文**：我希望你不用搬去那么远的地方。
 
-7. The rooftop garden proved to be the perfect venue for the summer party leave town.
-   > **中文**：事实证明，屋顶花园是这次夏日派对的绝佳场地。
+7. The view here is beautiful, and I wish you were here with us.
+   > **中文**：这里的风景很美，我希望你也能在这里。
 
-8. The manager proposed a toast to celebrate his successful career transition about move.
-   > **中文**：经理提议干杯，庆祝他成功的职业转型。
+8. He moved away last month, but we still communicate frequently.
+   > **中文**：他上个月搬走了，但我们仍然经常沟通。
 
-9. I received a message saying she can't make it to the party tonight move away.
-   > **中文**：我收到一条消息，说她今晚赶不及来参加派对了。
+9. She plans to leave town next Monday to pursue her dreams.
+   > **中文**：她计划在下周一离开小镇去追求她的梦想。
 
-10. He was such a wonderful teammate, and he will truly be missed by everyone about occasionally.
-   > **中文**：他是一位极好的队友，大家一定会深深怀念他。
+10. He decided to settle down overseas permanently.
+   > **中文**：他决定在海外永久定居。
+
+11. Despite the time difference, we still chat online every week.
+   > **中文**：尽管存在时差，我们依然每周都在网上聊天。
+
+12. Please send my warm regards to your family.
+   > **中文**：请代我向你的家人表达诚挚的问候。
+
+13. He was deeply moved by the care and warmth of his friends.
+   > **中文**：大家的关怀与热情让他深受感动。
+
+14. Nothing can stop you from pursuing your passion and dreams.
+   > **中文**：没有什么能阻止你追求自己的热情与梦想。
+
+15. She has a strong passion for art and chose to pursue it.
+   > **中文**：她对艺术有着极大的热情，并决定以此为事业。
+
+16. It was hard for him to express his feelings of sadness.
+   > **中文**：他很难用语言表达此刻的不舍之情。
+
+17. Even if we only talk occasionally, you will always be a good friend.
+   > **中文**：就算我们只能偶尔联系，我也永远视你为好朋友。
+
+18. You can reach out to me any time if you need help.
+   > **中文**：如果你需要帮助，随时可以联系我。
+
+19. Remember, you can always call me whenever you want to talk.
+   > **中文**：记住，无论何时你想聊聊，你随时可以打电话给我。
+
+20. He came all the way to attend this going-away party.
+   > **中文**：他特意一路远道而来参加这场送别派对。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| going-away party | 送别派对 |
+| throw | 举办（派对） |
+| guest of honor | 主宾；贵宾 |
+| stay in touch | 保持联系 |
+| wish you the best | 祝你一切顺利 |
+| wish you weren't | 希望你没有/不要…… |
+| wish you were | 希望你在…… |
+| moved away | 搬走；搬离 |
+| leave town | 离开小镇；离开这个城市 |
+| permanently | 永久地 |
+| time difference | 时差 |
+| regards | 问候；致意 |
+| warmth | 温暖；热情 |
+| stop you from | 阻止你做…… |
+| passion | 热情；激情 |
+| express | 表达 |
+| occasionally | 偶尔 |
+| any time | 任何时候 |
+| can always call | 随时可以打电话 |
+| all the way | 一路；特意远道而来 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ all the way, any time, can always call, express, going-away party, guest of hono
 
 ### 1
 
-We hosted a warm farewell party for our colleague who is moving overseas `____`.
+We are planning a ____ party for our colleague moving next week.
 
-- [x] all the way
+- [x] going-away
+- [ ] all the way
 - [ ] any time
-- [ ] guest of honor
 
-> **解析**：`farewell` 作形容词或名词，意为“告别的、欢送的”。短语 `farewell party` 特指“欢送会、告别派对”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The team organized a surprise dinner in honor of her ten years of service `____`.
+Let's ____ a surprise party for her before she leaves town.
 
-- [x] any time
-- [ ] can always call
-- [ ] leave town
+- [x] throw
+- [ ] all the way
+- [ ] any time
 
-> **解析**：`in honor of` 是介词短语，意为“为了向……表示敬意、为了纪念/庆祝……”，在句中作状语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Please check the guest list to make sure everyone was invited `____`.
+As the guest of honor, he ____ warm wishes from all his friends.
 
-- [x] can always call
-- [ ] express
-- [ ] move
+- [x] received
+- [ ] all the way
+- [ ] any time
 
-> **解析**：`guest list` 是复合名词，意为“宾客名单”，在句中作动词 `check` 的宾语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Everyone agreed to pitch in ten dollars to buy a thoughtful retirement gift about `____`.
+Even if you ____ to another city, we must stay in touch.
 
-- [x] express
-- [ ] going-away party
-- [ ] move away
+- [x] move
+- [ ] all the way
+- [ ] any time
 
-> **解析**：`pitch in` 是口语动词短语，意为“共同凑钱、协力分摊”，常用于筹集资金或共同完成某任务。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Since it was a potluck dinner, every guest brought a homemade dish to share `____`.
+We ____ all miss you and wish you the best in your new job.
 
-- [x] going-away party
-- [ ] guest of honor
-- [ ] occasionally
+- [x] will
+- [ ] all the way
+- [ ] any time
 
-> **解析**：`potluck`（或 `potluck dinner`）指“各自带菜的聚餐/百家宴”，作名词修饰语或独立名词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-We decided to hire a local company to cater the evening event `____`.
+I wish you ____ moving to such a distant place.
 
-- [x] guest of honor
-- [ ] leave town
-- [ ] passion
+- [x] weren't
+- [ ] all the way
+- [ ] any time
 
-> **解析**：`cater` 是动词，意为“提供餐饮/包办宴席”。动词搭配 `cater an event` 表示“为活动提供餐饮”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The rooftop garden proved to be the perfect venue for the summer party `____`.
+The view here is ____, and I wish you were here with us.
 
-- [x] leave town
-- [ ] move
-- [ ] permanently
+- [x] beautiful
+- [ ] all the way
+- [ ] any time
 
-> **解析**：`venue` 指活动、会议或派对的“举办地点、场地”，作句中的表语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The manager proposed a toast to celebrate his successful career transition about `____`.
+He moved away last month, but we still ____ frequently.
 
-- [x] move
-- [ ] move away
-- [ ] phone call
+- [x] communicate
+- [ ] all the way
+- [ ] any time
 
-> **解析**：`toast` 在此作名词，意为“祝酒、干杯”。固定短语 `propose a toast to...` 表示“向……提议干杯”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-I received a message saying she can't make it to the party tonight `____`.
+She plans to leave town next ____ to pursue her dreams.
 
-- [x] move away
-- [ ] occasionally
-- [ ] regards
+- [x] Monday
+- [ ] all the way
+- [ ] any time
 
-> **解析**：`can't make it` 是习惯口语表达，意为“无法出席、赶不上”，`make it` 表示“按时到达/成功做到”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-He was such a wonderful teammate, and he will truly be missed by everyone about `____`.
+He decided to settle down overseas ____.
+
+- [x] permanently
+- [ ] all the way
+- [ ] any time
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Despite the time ____, we still chat online every week.
+
+- [x] difference
+- [ ] all the way
+- [ ] any time
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Please send my warm ____ to your family.
+
+- [x] regards
+- [ ] all the way
+- [ ] any time
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+He was deeply moved by the care and ____ of his friends.
+
+- [x] warmth
+- [ ] all the way
+- [ ] any time
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Nothing can stop you from pursuing your ____ and dreams.
+
+- [x] passion
+- [ ] all the way
+- [ ] any time
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+She has a strong ____ for art and chose to pursue it.
+
+- [x] passion
+- [ ] all the way
+- [ ] any time
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+It was hard for him to ____ his feelings of sadness.
+
+- [x] express
+- [ ] all the way
+- [ ] any time
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Even if we only talk ____, you will always be a good friend.
 
 - [x] occasionally
-- [ ] passion
-- [ ] stay in touch
+- [ ] all the way
+- [ ] any time
 
-> **解析**：`will be missed` 是被动语态，意为“将会被怀念/想念”，表达依依不舍之情。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+You can ____ out to me any time if you need help.
+
+- [x] reach
+- [ ] all the way
+- [ ] any time
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+____, you can always call me whenever you want to talk.
+
+- [x] Remember
+- [ ] all the way
+- [ ] any time
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+He came all the way to attend this ____ party.
+
+- [x] going-away
+- [ ] all the way
+- [ ] any time
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

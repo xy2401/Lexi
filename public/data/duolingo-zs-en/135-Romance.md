@@ -61,83 +61,176 @@ break up 表示"分手"。pay attention to 表示"注意"。
 
 <quiz-sentence-builder>
 
-1. **中文**：他在烛光闪烁的海边安排了一顿浪漫的晚餐来庆祝他们的结婚纪念日。  
-   **英文**：He arranged a romantic dinner by the candlelit seaside for their wedding anniversary.
-   > **解析**：romantic 为形容词，意为“浪漫的”。修饰名词 dinner。candlelit 意为“烛光照明的”。
+1. **中文**：在浪漫的夜店里，他耐心地向那位聪明的女孩求婚。  
+   **英文**：At a romantic nightclub, he proposed to the clever girl.
+   > **解析**：romantic 表示“浪漫的”；nightclub 表示“夜店/夜总会”；clever 表示“聪明的”。
 
-2. **中文**：他们非常享受第一次约会，以至于在咖啡馆里聊了好几个小时。  
-   **英文**：They enjoyed their first date so much that they talked for hours at the cafe.
-   > **解析**：date 在句中作可数名词，意为“约会”。first date 指“第一次约会”。so... that... 引导结果状语从句。
+2. **中文**：请保持冷静，在赶时间时避免犯下粗心的错误。  
+   **英文**：Keep calm and avoid careless mistakes when in a hurry.
+   > **解析**：calm 表示“冷静的”；avoid 表示“避免”；careless 表示“粗心的”；in a hurry 表示“赶时间/匆忙”。
 
-3. **中文**：在经历异地挑战后，他们决定和平分手是最好的选择。  
-   **英文**：After long-distance challenges, they decided it was best to break up peacefully about avoid.
-   > **解析**：break up 为动词短语，意为“分手、结束恋爱关系”。peacefully 为副词修饰 break up。
+3. **中文**：在约会时，你需要多集中注意力听对方说话。  
+   **英文**：During a date, you should pay attention to your partner.
+   > **解析**：date 表示“约会”；pay attention 表示“集中注意力/留心”。
 
-4. **中文**：这对情侣在一家受欢迎的夜总会里跟着欢快的音乐跳舞直到午夜。  
-   **英文**：The couple danced to lively music at a popular nightclub until midnight.
-   > **解析**：nightclub 为名词，意为“夜总会、酒吧俱乐部”。until midnight 表示“直到午夜”。
+4. **中文**：那位热心的男孩在夜生活丰富的街道上非常乐于助人。  
+   **英文**：The social boy was very helpful in the nightlife area.
+   > **解析**：social 表示“善于交际的”；helpful 表示“乐于助人的”；nightlife 表示“夜生活”。
 
-5. **中文**：在浪漫的约会中，专注倾听倾诉伴侣的话至关重要。  
-   **英文**：During a romantic date, it is vital to pay attention to what your partner says.
-   > **解析**：pay attention 为动词短语，意为“注意、专心”。搭配 pay attention to sth./sb.。
+5. **中文**：她是一位性格温和且对孩子极具耐心的母亲。  
+   **英文**：She is a quiet lady who is very patient with her kid.
+   > **解析**：quiet 表示“安静的/温和的”；patient 表示“有耐心的”；kid 表示“孩子”。
 
-6. **中文**：有耐心的倾听者能在交谈中让伴侣感到被重视和理解。  
-   **英文**：A patient listener makes their partner feel valued and understood during conversations.
-   > **解析**：patient 为形容词，意为“有耐心的”。修饰名词 listener。make sb. feel... 表示“使某人感到...”。
+6. **中文**：他毫无疑问会避开那些吵闹喧嚣的酒吧。  
+   **英文**：He will definitely avoid those noisy nightclubs.
+   > **解析**：definitely 表示“毫无疑问/肯定”；avoid 表示“避开/避免”。
 
-7. **中文**：在意见不合时保持冷静的语气有助于情侣轻松解决冲突。  
-   **英文**：Keeping a calm tone during disagreement helps couples resolve conflicts easily.
-   > **解析**：calm 为形容词，意为“冷静的、镇静的”。修饰名词 tone（语气）。keep a calm tone 表示“保持冷静语气”。
+7. **中文**：我们为什么要在忙碌的夜生活中如此匆忙？  
+   **英文**：Why are we in a hurry during our rich nightlife?
+   > **解析**：why 引导疑问句“为什么”；in a hurry 表示“匆忙/赶时间”。
 
-8. **中文**：他匆忙离开了餐厅，因为他把车钥匙忘在里面了。  
-   **英文**：He left the restaurant in a hurry because he forgot his car key inside.
-   > **解析**：in a hurry 为固定介词短语，作状语修饰 left，意为“匆忙地、急急忙忙地”。
+8. **中文**：在嘈杂的夜店里，大家都在尽情欢跳庆祝。  
+   **英文**：People dance happily in the vibrant nightclub.
+   > **解析**：nightclub 表示“夜店/夜总会”。
 
-9. **中文**：当你在浪漫约会时，尽量避免提起令人压抑的工作话题。  
-   **英文**：Try to avoid bringing up stressful work topics when you are on a romantic date about careless.
-   > **解析**：avoid 为动词，意为“避免”。后接动名词形式（avoid bringing up...）。bring up 意为“提起/谈及”。
+9. **中文**：他是一位非常聪明且反应敏捷的年轻人。  
+   **英文**：He is a very clever and quick-minded young man.
+   > **解析**：clever 表示“聪明的/机灵的”。
 
-10. **中文**：她想出了一个聪明的计划，在他生日时给男友一个惊喜。  
-   **英文**：She came up with a clever plan to surprise her boyfriend on his birthday.
-   > **解析**：clever 为形容词，意为“聪明的、巧妙的”。come up with 意为“想出”。surprise 在此处作动词意为“给...惊喜”。
+10. **中文**：在遇到紧急状况时，首先要保持镇定与冷静。  
+   **英文**：When facing emergencies, try your best to stay calm.
+   > **解析**：calm 表示“冷静的/镇定的”。
+
+11. **中文**：为了避免在考试中粗心大意，你需要仔细复查。  
+   **英文**：To avoid careless mistakes, check your work carefully.
+   > **解析**：avoid 表示“避免”；careless 表示“粗心的”。
+
+12. **中文**：她是一位极具耐心且富有同情心的好老师。  
+   **英文**：She is a very patient and compassionate teacher.
+   > **解析**：patient 表示“有耐心的”。
+
+13. **中文**：请集中注意力看黑板上的重点语法点。  
+   **英文**：Please pay attention to the key grammar on the board.
+   > **解析**：pay attention 表示“注意/集中注意力”。
+
+14. **中文**：这座城市的夜生活非常丰富多彩。  
+   **英文**：The nightlife in this modern city is lively and rich.
+   > **解析**：nightlife 表示“夜生活”。
+
+15. **中文**：他毫无疑问是这次演讲比赛的最佳选手。  
+   **英文**：He is definitely the best speaker in this debate.
+   > **解析**：definitely 表示“毫无疑问/确定”。
+
+16. **中文**：他做了一件非常浪漫的事，给妻子送了一束鲜花。  
+   **英文**：He did a very romantic thing by sending his wife roses.
+   > **解析**：romantic 表示“浪漫的”。
+
+17. **中文**：那个善于社交的小女孩有很多好朋友。  
+   **英文**：That social little girl has many good friends.
+   > **解析**：social 表示“善于交际的/社交的”。
+
+18. **中文**：邻居们非常乐于助人，总是随时伸出援助之手。  
+   **英文**：The neighbors are very helpful whenever we need aid.
+   > **解析**：helpful 表示“乐于助人的/有帮助的”。
+
+19. **中文**：因为赶时间，他差点落下了随身携带的钥匙。  
+   **英文**：Because he was in a hurry, he nearly left his keys.
+   > **解析**：in a hurry 表示“匆忙/赶时间”。
+
+20. **中文**：那个可爱的小孩子在公园里玩得不亦乐乎。  
+   **英文**：That cute little kid was playing happily in the park.
+   > **解析**：kid 表示“孩子/小孩”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. He arranged a romantic dinner by the candlelit seaside for their wedding anniversary.
-   > **中文**：他在烛光闪烁的海边安排了一顿浪漫的晚餐来庆祝他们的结婚纪念日。
+1. At a romantic nightclub, he proposed to the clever girl.
+   > **中文**：在浪漫的夜店里，他耐心地向那位聪明的女孩求婚。
 
-2. They enjoyed their first date so much that they talked for hours at the cafe.
-   > **中文**：他们非常享受第一次约会，以至于在咖啡馆里聊了好几个小时。
+2. Keep calm and avoid careless mistakes when in a hurry.
+   > **中文**：请保持冷静，在赶时间时避免犯下粗心的错误。
 
-3. After long-distance challenges, they decided it was best to break up peacefully about avoid.
-   > **中文**：在经历异地挑战后，他们决定和平分手是最好的选择。
+3. During a date, you should pay attention to your partner.
+   > **中文**：在约会时，你需要多集中注意力听对方说话。
 
-4. The couple danced to lively music at a popular nightclub until midnight.
-   > **中文**：这对情侣在一家受欢迎的夜总会里跟着欢快的音乐跳舞直到午夜。
+4. The social boy was very helpful in the nightlife area.
+   > **中文**：那位热心的男孩在夜生活丰富的街道上非常乐于助人。
 
-5. During a romantic date, it is vital to pay attention to what your partner says.
-   > **中文**：在浪漫的约会中，专注倾听倾诉伴侣的话至关重要。
+5. She is a quiet lady who is very patient with her kid.
+   > **中文**：她是一位性格温和且对孩子极具耐心的母亲。
 
-6. A patient listener makes their partner feel valued and understood during conversations.
-   > **中文**：有耐心的倾听者能在交谈中让伴侣感到被重视和理解。
+6. He will definitely avoid those noisy nightclubs.
+   > **中文**：他毫无疑问会避开那些吵闹喧嚣的酒吧。
 
-7. Keeping a calm tone during disagreement helps couples resolve conflicts easily.
-   > **中文**：在意见不合时保持冷静的语气有助于情侣轻松解决冲突。
+7. Why are we in a hurry during our rich nightlife?
+   > **中文**：我们为什么要在忙碌的夜生活中如此匆忙？
 
-8. He left the restaurant in a hurry because he forgot his car key inside.
-   > **中文**：他匆忙离开了餐厅，因为他把车钥匙忘在里面了。
+8. People dance happily in the vibrant nightclub.
+   > **中文**：在嘈杂的夜店里，大家都在尽情欢跳庆祝。
 
-9. Try to avoid bringing up stressful work topics when you are on a romantic date about careless.
-   > **中文**：当你在浪漫约会时，尽量避免提起令人压抑的工作话题。
+9. He is a very clever and quick-minded young man.
+   > **中文**：他是一位非常聪明且反应敏捷的年轻人。
 
-10. She came up with a clever plan to surprise her boyfriend on his birthday.
-   > **中文**：她想出了一个聪明的计划，在他生日时给男友一个惊喜。
+10. When facing emergencies, try your best to stay calm.
+   > **中文**：在遇到紧急状况时，首先要保持镇定与冷静。
+
+11. To avoid careless mistakes, check your work carefully.
+   > **中文**：为了避免在考试中粗心大意，你需要仔细复查。
+
+12. She is a very patient and compassionate teacher.
+   > **中文**：她是一位极具耐心且富有同情心的好老师。
+
+13. Please pay attention to the key grammar on the board.
+   > **中文**：请集中注意力看黑板上的重点语法点。
+
+14. The nightlife in this modern city is lively and rich.
+   > **中文**：这座城市的夜生活非常丰富多彩。
+
+15. He is definitely the best speaker in this debate.
+   > **中文**：他毫无疑问是这次演讲比赛的最佳选手。
+
+16. He did a very romantic thing by sending his wife roses.
+   > **中文**：他做了一件非常浪漫的事，给妻子送了一束鲜花。
+
+17. That social little girl has many good friends.
+   > **中文**：那个善于社交的小女孩有很多好朋友。
+
+18. The neighbors are very helpful whenever we need aid.
+   > **中文**：邻居们非常乐于助人，总是随时伸出援助之手。
+
+19. Because he was in a hurry, he nearly left his keys.
+   > **中文**：因为赶时间，他差点落下了随身携带的钥匙。
+
+20. That cute little kid was playing happily in the park.
+   > **中文**：那个可爱的小孩子在公园里玩得不亦乐乎。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| avoid | 避免 / 避开 |
+| break up | 分手 / 打碎 |
+| calm | 冷静的 / 镇定的 |
+| careless | 粗心的 |
+| clever | 聪明的 |
+| date | 约会 / 约会对象 |
+| definitely | 毫无疑问 / 确定 |
+| helpful | 乐于助人的 / 有帮助的 |
+| in a hurry | 匆忙 / 赶时间 |
+| kid | 孩子 / 小孩 |
+| nightclub | 夜店 / 夜总会 |
+| nightlife | 夜生活 |
+| patient | 有耐心的 |
+| pay attention | 集中注意力 / 留心 |
+| quiet | 安静的 |
+| romantic | 浪漫的 |
+| social | 善于交际的 / 社交的 |
+| make | 制作 |
+| over | 结束 / 越过 |
+| what | 什么 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ break up 表示"分手"。pay attention to 表示"注意"。
 
 ### 1
 
-He arranged a `____` dinner by the candlelit seaside for their wedding anniversary.
+At a ____ nightclub, he proposed to the clever girl.
 
 - [x] romantic
 - [ ] avoid
-- [ ] clever
+- [ ] break up
 
-> **解析**：romantic 为形容词，意为“浪漫的”。修饰名词 dinner。candlelit 意为“烛光照明的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-They enjoyed their first `____` so much that they talked for hours at the cafe.
+Keep ____ and avoid careless mistakes when in a hurry.
 
-- [x] date
+- [x] calm
+- [ ] avoid
 - [ ] break up
-- [ ] definitely
 
-> **解析**：date 在句中作可数名词，意为“约会”。first date 指“第一次约会”。so... that... 引导结果状语从句。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-After long-distance challenges, they decided it was best to break up peacefully about `____`.
+During a ____, you should pay attention to your partner.
 
-- [x] avoid
-- [ ] careless
-- [ ] helpful
+- [x] date
+- [ ] avoid
+- [ ] break up
 
-> **解析**：break up 为动词短语，意为“分手、结束恋爱关系”。peacefully 为副词修饰 break up。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The couple danced to lively music at a popular `____` until midnight.
+The ____ boy was very helpful in the nightlife area.
 
-- [x] nightclub
-- [ ] careless
-- [ ] helpful
+- [x] social
+- [ ] avoid
+- [ ] break up
 
-> **解析**：nightclub 为名词，意为“夜总会、酒吧俱乐部”。until midnight 表示“直到午夜”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-During a romantic date, it is vital to `____` to what your partner says.
+She is a ____ lady who is very patient with her kid.
 
-- [x] pay attention
-- [ ] clever
-- [ ] how
+- [x] quiet
+- [ ] avoid
+- [ ] break up
 
-> **解析**：pay attention 为动词短语，意为“注意、专心”。搭配 pay attention to sth./sb.。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-A patient listener `____`s their partner feel valued and understood during conversations.
+He will ____ avoid those noisy nightclubs.
 
-- [x] make
-- [ ] date
-- [ ] in a hurry
+- [x] definitely
+- [ ] avoid
+- [ ] break up
 
-> **解析**：patient 为形容词，意为“有耐心的”。修饰名词 listener。make sb. feel... 表示“使某人感到...”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Keeping a `____` tone during disagreement helps couples resolve conflicts easily.
+____ are we in a hurry during our rich nightlife?
 
-- [x] calm
-- [ ] helpful
-- [ ] make
+- [x] Why
+- [ ] avoid
+- [ ] break up
 
-> **解析**：calm 为形容词，意为“冷静的、镇静的”。修饰名词 tone（语气）。keep a calm tone 表示“保持冷静语气”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-He left the restaurant `____` because he forgot his car key inside.
+People dance happily in the vibrant ____.
 
-- [x] in a hurry
-- [ ] helpful
-- [ ] nightclub
+- [x] nightclub
+- [ ] avoid
+- [ ] break up
 
-> **解析**：in a hurry 为固定介词短语，作状语修饰 left，意为“匆忙地、急急忙忙地”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Try to avoid bringing up stressful work topics when you are on a romantic date about `____`.
+He is a very ____ and quick-minded young man.
 
-- [x] careless
-- [ ] in a hurry
-- [ ] nightlife
+- [x] clever
+- [ ] avoid
+- [ ] break up
 
-> **解析**：avoid 为动词，意为“避免”。后接动名词形式（avoid bringing up...）。bring up 意为“提起/谈及”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-She came up with a `____` plan to surprise her boyfriend on his birthday.
+When facing emergencies, try your best to stay ____.
 
-- [x] clever
-- [ ] kid
-- [ ] over
+- [x] calm
+- [ ] avoid
+- [ ] break up
 
-> **解析**：clever 为形容词，意为“聪明的、巧妙的”。come up with 意为“想出”。surprise 在此处作动词意为“给...惊喜”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+To ____ careless mistakes, check your work carefully.
+
+- [x] avoid
+- [ ] break up
+- [ ] calm
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+She is a very ____ and compassionate teacher.
+
+- [x] patient
+- [ ] avoid
+- [ ] break up
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Please pay ____ to the key grammar on the board.
+
+- [x] attention
+- [ ] avoid
+- [ ] break up
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The ____ in this modern city is lively and rich.
+
+- [x] nightlife
+- [ ] avoid
+- [ ] break up
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+He is ____ the best speaker in this debate.
+
+- [x] definitely
+- [ ] avoid
+- [ ] break up
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+He did a very ____ thing by sending his wife roses.
+
+- [x] romantic
+- [ ] avoid
+- [ ] break up
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+That ____ little girl has many good friends.
+
+- [x] social
+- [ ] avoid
+- [ ] break up
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+The neighbors are very ____ whenever we need aid.
+
+- [x] helpful
+- [ ] avoid
+- [ ] break up
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+____ he was in a hurry, he nearly left his keys.
+
+- [x] Because
+- [ ] avoid
+- [ ] break up
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+That cute little ____ was playing happily in the park.
+
+- [x] kid
+- [ ] avoid
+- [ ] break up
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

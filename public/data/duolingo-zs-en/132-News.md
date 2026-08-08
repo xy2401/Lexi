@@ -61,83 +61,176 @@ though 表示"虽然"（放句末更口语）。in jail 表示"在监狱里"。
 
 <quiz-sentence-builder>
 
-1. **中文**：当地政府在新闻发布会上宣布了一项新的环保政策。  
-   **英文**：The local government announced a new environmental policy during the press conference.
-   > **解析**：government 为名词，意为“政府”。local government 表示“地方政府”。press conference 指“新闻发布会”。
+1. **中文**：新闻头条在头版报道了政府逮捕间谍的消息。  
+   **英文**：The headline on the front page reported the spy caught by government.
+   > **解析**：front page 表示“头版”；headline 表示“头条”；spy 表示“间谍”；government 表示“政府”。
 
-2. **中文**：世界各国领导人会聚一堂，讨论应对全球经济挑战的解决方案。  
-   **英文**：World leaders met to discuss solutions for global economic challenges.
-   > **解析**：leader 为名词，意为“领导人、领袖”。world leaders 指“世界领袖”。solution for 表示“……的解决方案”。
+2. **中文**：那位持枪抢劫银行的罪犯在法庭上接受审判。  
+   **英文**：The criminal who used a gun in bank crime was in court.
+   > **解析**：gun 表示“枪”；crime 表示“罪行/犯罪”；in court 表示“在法庭上/受审”。
 
-3. **中文**：这条突发新闻成了所有主流报纸的头条新闻标题。  
-   **英文**：The breaking news story made the front page headline in all major newspapers.
-   > **解析**：headline 为名词，意为“（报纸/新闻的）大字标题、头条”。make the headline 表示“登上头条”。
+3. **中文**：这起撞车事故造成了数亿美元的损失。  
+   **英文**：This car crash caused billions of dollars in damage.
+   > **解析**：crash 表示“撞车/坠毁”；cause 表示“造成/引起”；billion / billions 表示“十亿/数以亿计”。
 
-4. **中文**：边境检查人员在允许车辆过境之前检查了所有护照。  
-   **英文**：Border control officers inspected all passports before allowing vehicles to cross.
-   > **解析**：border 为名词，意为“国界、边境”。border control 表示“边境检查”。cross early in the sentence 指“跨越/过境”。
+4. **中文**：敌国领导人签署协议以换取边境和平。  
+   **英文**：The enemy leader signed a treaty in exchange for border peace.
+   > **解析**：enemy 表示“敌人/敌方”；leader 表示“领导人”；in exchange for 表示“以换取……”；border 表示“边境”。
 
-5. **中文**：一项难以置信的发现刊登在晨报的头版上。  
-   **英文**：An incredible discovery was featured on the front page of the morning daily about billion.
-   > **解析**：front page 为名词短语，意为“头版”。on the front page 表示“在头版上”。
+5. **中文**：不要传播假的离奇消息，大家都期待真相。  
+   **英文**：Don't spread false news; everyone expects the truth.
+   > **解析**：false 表示“虚假的/假的”；expect 表示“期待/预料”。
 
-6. **中文**：市议会通过了更严格的法律以降低暴力犯罪率。  
-   **英文**：The city council passed stricter laws to reduce violent crime rate.
-   > **解析**：crime 为名词，意为“犯罪、罪行”。violent crime rate 表示“暴力犯罪率”。pass laws 意为“通过法律”。
+6. **中文**：那个试图抢劫商店的匪徒被关在了监狱里。  
+   **英文**：The thief who tried to rob the store is now in jail.
+   > **解析**：rob 表示“抢劫”；jail / in jail 表示“在监狱里/坐牢”。
 
-7. **中文**：两位律师在瞩目的审判中于法庭上出示了有力证据。  
-   **英文**：Both lawyers presented strong evidence in court during the high-profile trial.
-   > **解析**：in court 为介词短语，意为“在法庭上”。court 前不加冠词。trial 意为“审判/庭审”。
+7. **中文**：炸弹在离边界线很近的地方被排除了。  
+   **英文**：The bomb was cleared near the country border line.
+   > **解析**：bomb 表示“炸弹”；border 表示“边境/边界”。
 
-8. **中文**：嫌疑人提供了有价值的信息以换取较轻的判罚。  
-   **英文**：The suspects gave valuable information in exchange for a lighter sentence.
-   > **解析**：in exchange for 为复合介词短语，意为“作为对……的交换/以换取”。后面接名词或名词短语。
+8. **中文**：尽管证据确凿，嫌疑人依然否认犯有罪行。  
+   **英文**：Even though evidence was strong, he denied his crime in court.
+   > **解析**：though / even though 表示“尽管/虽然”；crime 表示“罪行”。
 
-9. **中文**：该国在冲突期间拒绝与其敌人进行谈判。  
-   **英文**：The country refused to negotiate with its enemy during the conflict.
-   > **解析**：enemy 为名词，意为“敌人”。
+9. **中文**：政府决定采取行动打击常见的违法行为。  
+   **英文**：The government took action to stop common crimes.
+   > **解析**：government 表示“政府”；common 表示“常见的/普遍的”。
 
-10. **中文**：记者们预计首相将在今晚前做出官方回应。  
-   **英文**：Reporters expect the prime minister to give an official response by evening.
-   > **解析**：expect 为动词，意为“预料、期待”。句型 expect sb. to do sth. 表示“预计某人做某事”。
+10. **中文**：我们预料到新闻媒体会重点报道这次审判。  
+   **英文**：We expect the news media to report this big court trial.
+   > **解析**：expect 表示“预料/期待”。
+
+11. **中文**：关于那起大案的详细报道占据了报纸头版。  
+   **英文**：The story about the crime took up the front page.
+   > **解析**：front page 表示“头版”。
+
+12. **中文**：罪犯因持枪抢劫被判处在监狱服刑。  
+   **英文**：The robber was put in jail for using a gun.
+   > **解析**：jail 表示“监狱”；gun 表示“枪”。
+
+13. **中文**：边界线两侧设立了严格的巡逻关卡。  
+   **英文**：Strict checkpoints were set along the country border.
+   > **解析**：border 表示“边境/边界”。
+
+14. **中文**：警方搜查到了敌方间谍潜伏的证据。  
+   **英文**：The police found evidence of the enemy spy in town.
+   > **解析**：spy 表示“间谍”；enemy 表示“敌人”。
+
+15. **中文**：这场严重车祸造成了道路交通中断。  
+   **英文**：This terrible car crash caused traffic delays.
+   > **解析**：cause / caused 表示“造成/导致”；crash 表示“碰撞/车祸”。
+
+16. **中文**：国家领导人发表了关于经济繁荣的讲话。  
+   **英文**：The country leader gave a speech about prosperity.
+   > **解析**：leader 表示“领导人/首领”。
+
+17. **中文**：散布虚假信息会引发公众的恐慌。  
+   **英文**：Spreading false information can cause public panic.
+   > **解析**：false 表示“虚假的/假的”。
+
+18. **中文**：嫌疑人在法庭上为自己作了辩护。  
+   **英文**：The suspect defended himself when he was in court.
+   > **解析**：in court 表示“在法庭上”。
+
+19. **中文**：公司提供了折扣以换取客户的好评。  
+   **英文**：They offered a discount in exchange for good reviews.
+   > **解析**：in exchange for 表示“以换取”。
+
+20. **中文**：这起抢劫案涉及到了价值数十亿的财产。  
+   **英文**：This big crime involved assets worth over a billion.
+   > **解析**：billion 表示“十亿”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The local government announced a new environmental policy during the press conference.
-   > **中文**：当地政府在新闻发布会上宣布了一项新的环保政策。
+1. The headline on the front page reported the spy caught by government.
+   > **中文**：新闻头条在头版报道了政府逮捕间谍的消息。
 
-2. World leaders met to discuss solutions for global economic challenges.
-   > **中文**：世界各国领导人会聚一堂，讨论应对全球经济挑战的解决方案。
+2. The criminal who used a gun in bank crime was in court.
+   > **中文**：那位持枪抢劫银行的罪犯在法庭上接受审判。
 
-3. The breaking news story made the front page headline in all major newspapers.
-   > **中文**：这条突发新闻成了所有主流报纸的头条新闻标题。
+3. This car crash caused billions of dollars in damage.
+   > **中文**：这起撞车事故造成了数亿美元的损失。
 
-4. Border control officers inspected all passports before allowing vehicles to cross.
-   > **中文**：边境检查人员在允许车辆过境之前检查了所有护照。
+4. The enemy leader signed a treaty in exchange for border peace.
+   > **中文**：敌国领导人签署协议以换取边境和平。
 
-5. An incredible discovery was featured on the front page of the morning daily about billion.
-   > **中文**：一项难以置信的发现刊登在晨报的头版上。
+5. Don't spread false news; everyone expects the truth.
+   > **中文**：不要传播假的离奇消息，大家都期待真相。
 
-6. The city council passed stricter laws to reduce violent crime rate.
-   > **中文**：市议会通过了更严格的法律以降低暴力犯罪率。
+6. The thief who tried to rob the store is now in jail.
+   > **中文**：那个试图抢劫商店的匪徒被关在了监狱里。
 
-7. Both lawyers presented strong evidence in court during the high-profile trial.
-   > **中文**：两位律师在瞩目的审判中于法庭上出示了有力证据。
+7. The bomb was cleared near the country border line.
+   > **中文**：炸弹在离边界线很近的地方被排除了。
 
-8. The suspects gave valuable information in exchange for a lighter sentence.
-   > **中文**：嫌疑人提供了有价值的信息以换取较轻的判罚。
+8. Even though evidence was strong, he denied his crime in court.
+   > **中文**：尽管证据确凿，嫌疑人依然否认犯有罪行。
 
-9. The country refused to negotiate with its enemy during the conflict.
-   > **中文**：该国在冲突期间拒绝与其敌人进行谈判。
+9. The government took action to stop common crimes.
+   > **中文**：政府决定采取行动打击常见的违法行为。
 
-10. Reporters expect the prime minister to give an official response by evening.
-   > **中文**：记者们预计首相将在今晚前做出官方回应。
+10. We expect the news media to report this big court trial.
+   > **中文**：我们预料到新闻媒体会重点报道这次审判。
+
+11. The story about the crime took up the front page.
+   > **中文**：关于那起大案的详细报道占据了报纸头版。
+
+12. The robber was put in jail for using a gun.
+   > **中文**：罪犯因持枪抢劫被判处在监狱服刑。
+
+13. Strict checkpoints were set along the country border.
+   > **中文**：边界线两侧设立了严格的巡逻关卡。
+
+14. The police found evidence of the enemy spy in town.
+   > **中文**：警方搜查到了敌方间谍潜伏的证据。
+
+15. This terrible car crash caused traffic delays.
+   > **中文**：这场严重车祸造成了道路交通中断。
+
+16. The country leader gave a speech about prosperity.
+   > **中文**：国家领导人发表了关于经济繁荣的讲话。
+
+17. Spreading false information can cause public panic.
+   > **中文**：散布虚假信息会引发公众的恐慌。
+
+18. The suspect defended himself when he was in court.
+   > **中文**：嫌疑人在法庭上为自己作了辩护。
+
+19. They offered a discount in exchange for good reviews.
+   > **中文**：公司提供了折扣以换取客户的好评。
+
+20. This big crime involved assets worth over a billion.
+   > **中文**：这起抢劫案涉及到了价值数十亿的财产。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| billion | 十亿 |
+| bomb | 炸弹 |
+| border | 边境 / 边界 |
+| cause | 造成 / 引起 |
+| common | 常见的 / 普通的 |
+| court | 法庭 |
+| crash | 车祸 / 撞击 |
+| crime | 罪行 / 犯罪 |
+| enemy | 敌人 / 敌方 |
+| expect | 期待 / 预料 |
+| false | 虚假的 / 假的 |
+| front page | 头版 |
+| government | 政府 |
+| gun | 枪 / 枪支 |
+| headline | 新闻头条 |
+| in court | 在法庭上 |
+| in exchange for | 以换取…… |
+| in jail | 在监狱里 / 坐牢 |
+| jail | 监狱 |
+| leader | 领导人 / 首领 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ though 表示"虽然"（放句末更口语）。in jail 表示"在监狱里"。
 
 ### 1
 
-The local `____` announced a new environmental policy during the press conference.
+The ____ on the front page reported the spy caught by government.
 
-- [x] government
+- [x] headline
 - [ ] billion
-- [ ] common
+- [ ] bomb
 
-> **解析**：government 为名词，意为“政府”。local government 表示“地方政府”。press conference 指“新闻发布会”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-World `____`s met to discuss solutions for global economic challenges.
+The criminal who used a ____ in bank crime was in court.
 
-- [x] leader
+- [x] gun
+- [ ] billion
 - [ ] bomb
-- [ ] court
 
-> **解析**：leader 为名词，意为“领导人、领袖”。world leaders 指“世界领袖”。solution for 表示“……的解决方案”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The breaking news story made the `____` headline in all major newspapers.
+This car ____ caused billions of dollars in damage.
 
-- [x] front page
-- [ ] border
-- [ ] crash
+- [x] crash
+- [ ] billion
+- [ ] bomb
 
-> **解析**：headline 为名词，意为“（报纸/新闻的）大字标题、头条”。make the headline 表示“登上头条”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-`____` control officers inspected all passports before allowing vehicles to cross.
+The ____ leader signed a treaty in exchange for border peace.
 
-- [x] border
-- [ ] common
-- [ ] enemy
+- [x] enemy
+- [ ] billion
+- [ ] bomb
 
-> **解析**：border 为名词，意为“国界、边境”。border control 表示“边境检查”。cross early in the sentence 指“跨越/过境”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-An incredible discovery was featured on the front page of the morning daily about `____`.
+Don't spread ____ news; everyone expects the truth.
 
-- [x] billion
-- [ ] court
-- [ ] expect
+- [x] false
+- [ ] billion
+- [ ] bomb
 
-> **解析**：front page 为名词短语，意为“头版”。on the front page 表示“在头版上”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The city council passed stricter laws to reduce violent `____` rate.
+The thief who tried to ____ the store is now in jail.
 
-- [x] crime
-- [ ] court
-- [ ] false
+- [x] rob
+- [ ] billion
+- [ ] bomb
 
-> **解析**：crime 为名词，意为“犯罪、罪行”。violent crime rate 表示“暴力犯罪率”。pass laws 意为“通过法律”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Both lawyers presented strong evidence in `____` during the high-profile trial.
+The ____ was cleared near the country border line.
 
-- [x] court
-- [ ] crime
-- [ ] front page
+- [x] bomb
+- [ ] billion
+- [ ] border
 
-> **解析**：in court 为介词短语，意为“在法庭上”。court 前不加冠词。trial 意为“审判/庭审”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The suspects gave valuable information `____` a lighter sentence.
+Even ____ evidence was strong, he denied his crime in court.
 
-- [x] in exchange for
-- [ ] crime
-- [ ] front page
+- [x] though
+- [ ] billion
+- [ ] bomb
 
-> **解析**：in exchange for 为复合介词短语，意为“作为对……的交换/以换取”。后面接名词或名词短语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The country refused to negotiate with its `____` during the conflict.
+The ____ took action to stop common crimes.
 
-- [x] enemy
-- [ ] expect
-- [ ] gun
+- [x] government
+- [ ] billion
+- [ ] bomb
 
-> **解析**：enemy 为名词，意为“敌人”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Reporters `____` the prime minister to give an official response by evening.
+We ____ the news media to report this big court trial.
 
 - [x] expect
-- [ ] false
-- [ ] headline
+- [ ] billion
+- [ ] bomb
 
-> **解析**：expect 为动词，意为“预料、期待”。句型 expect sb. to do sth. 表示“预计某人做某事”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The story about the ____ took up the front page.
+
+- [x] crime
+- [ ] billion
+- [ ] bomb
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The robber was put in ____ for using a gun.
+
+- [x] jail
+- [ ] billion
+- [ ] bomb
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Strict checkpoints were set along the country ____.
+
+- [x] border
+- [ ] billion
+- [ ] bomb
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The police found evidence of the ____ spy in town.
+
+- [x] enemy
+- [ ] billion
+- [ ] bomb
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+This terrible car ____ caused traffic delays.
+
+- [x] crash
+- [ ] billion
+- [ ] bomb
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The country ____ gave a speech about prosperity.
+
+- [x] leader
+- [ ] billion
+- [ ] bomb
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Spreading ____ information can cause public panic.
+
+- [x] false
+- [ ] billion
+- [ ] bomb
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+The suspect defended himself when he was in ____.
+
+- [x] court
+- [ ] billion
+- [ ] bomb
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+____ offered a discount in exchange for good reviews.
+
+- [x] They
+- [ ] billion
+- [ ] bomb
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+This big ____ involved assets worth over a billion.
+
+- [x] crime
+- [ ] billion
+- [ ] bomb
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

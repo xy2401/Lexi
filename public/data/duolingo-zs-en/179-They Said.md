@@ -55,83 +55,176 @@ admit, ask if, asked, asked if, asked whether, asking, confirm, deal with, due t
 
 <quiz-sentence-builder>
 
-1. **中文**：他们不得不承认最初的提案过于复杂了。  
-   **英文**：They had to admit that the initial proposal was far too complicated.
-   > **解析**：admit 为及物动词，意为“承认”。后可接 that 引导的宾语从句（admit that...）。
+1. **中文**：他最终向警方承认了自己的作案错误。
+   **英文**：He had to admit that he made a serious mistake.
+   > **解析**：admit 表示“承认/供认”。
 
-2. **中文**：她询问委员会是否就新预算达成了共识。  
-   **英文**：She asked whether the committee had reached a consensus on the new budget.
-   > **解析**：asked whether 为间接引语结构，用于转述一般疑问句，whether 意为“是否”。
+2. **中文**：经理询问是否所有人均已收到最新邮件通知。
+   **英文**：The manager asked if everyone was ready for meeting.
+   > **解析**：asked if 表示“询问是否”。
 
-3. **中文**：他们计划如何应对关于项目延误的公众批评？  
-   **英文**：How do they plan to deal with the public criticism regarding the project delay.
-   > **解析**：deal with 为动词短语，意为“处理、应对”，后接处理的对象（deal with criticism）。
+3. **中文**：记者询问项目能否在年底前按时竣工。
+   **英文**：She asked whether we could deliver the order on time.
+   > **解析**：asked whether 表示“询问是否”。
 
-4. **中文**：当被问及上线日期时，他说这取决于测试结果。  
-   **英文**：When asked about the launch date, he said it depends on the testing results.
-   > **解析**：it depends on 为固定动词短语结构，意为“这取决于……”，后接名词或从句。
+4. **中文**：请向银行确认你的账户转账已经成功处理。
+   **英文**：Please call to confirm your appointment time.
+   > **解析**：confirm 表示“确认/证实”。
 
-5. **中文**：他表达了个人观点，认为团队沟通需要改进。  
-   **英文**：He expressed his personal opinion that team communication needs improvement.
-   > **解析**：personal 为形容词，意为“个人的、私人的”。personal opinion 指个人观点。
+5. **中文**：我们必须尽快妥善处理这些客户发来的投诉。
+   **英文**：We need to deal with customer feedback promptly.
+   > **解析**：deal with 表示“处理/应对/解决”。
 
-6. **中文**：他们对无法加入我们的咨询委员会表示遗憾。  
-   **英文**：They expressed regret that they could not join our advisory board.
-   > **解析**：regret 在此处作名词/动词，意为“遗憾、悔恨”。express regret 意为“表达遗憾”。
+6. **中文**：由于大雾天气，机场所有航班推迟起飞。
+   **英文**：The flight delay was due to severe weather conditions.
+   > **解析**：due to 表示“由于/因为”。
 
-7. **中文**：我完全赞同演讲者关于职场透明度的讲话。  
-   **英文**：I totally agree with what the speaker said about workplace transparency.
-   > **解析**：totally 为程度副词，意为“完全地、彻底地”，修饰动词 agree。
+7. **中文**：你能帮我个忙，把这箱重物搬到楼上去吗？
+   **英文**：Could you do me a favor and hold the door open?
+   > **解析**：favor 表示“恩惠/帮忙”；do sb a favor 意为“帮某人忙”。
 
-8. **中文**：有人问过会议室是否有视频会议设备吗？  
-   **英文**：Did anyone ask if the meeting room has video conferencing equipment? (deal with) about asked if.
-   > **解析**：ask if 结构在转述疑问句中意为“询问是否……”，if 引导宾语从句。
+8. **中文**：这取决于明天早晨的天气状况如何。
+   **英文**：Our outdoor plan; it depends on the weather tomorrow.
+   > **解析**：it depends on 表示“取决于……”。
 
-9. **中文**：他们一直在询问我们季度评估报告的进展情况。  
-   **英文**：They keep asking about our progress on the quarterly evaluation report.
-   > **解析**：asking 是 ask 的现在分词，与 keep 搭配构成 keep doing sth.（持续做某事）。
+9. **中文**：不要去嫉妒他人的成功，要专注自己的提升。
+   **英文**：He felt jealous of his coworker's sudden promotion.
+   > **解析**：jealous 表示“嫉妒的/羡慕的”。
 
-10. **中文**：他请求帮忙，请我们审查他的申请草案。  
-   **英文**：He asked for a favor, requesting us to review his application draft.
-   > **解析**：favor 在此处作名词，常用搭配 ask a favor / ask for a favor（请求帮忙）。
+10. **中文**：他申请了一笔银行贷款来支付大学学费。
+   **英文**：She applied for a student loan to cover tuition costs.
+   > **解析**：loan 表示“贷款/借款”。
+
+11. **中文**：你对这个新方案有什么具体的看法？
+   **英文**：What is your opinion on the proposed policy change?
+   > **解析**：opinion on 表示“对……的看法/意见”。
+
+12. **中文**：不要把个人情绪带入到日常的工作决断中。
+   **英文**：Please keep your personal items in the locker provided.
+   > **解析**：personal 表示“个人的/私人的”。
+
+13. **中文**：就个人而言，我认为这个方案切合实际。
+   **英文**：Personally, I believe this is the best solution.
+   > **解析**：Personally 表示“就个人而言/亲自”。
+
+14. **中文**：公司决定在季度评估后提拔她为主管。
+   **英文**：They decided to promote her to senior manager.
+   > **解析**：promote 表示“提拔/晋升/推广”。
+
+15. **中文**：我非常后悔当初没有听取导师的诚恳建议。
+   **英文**：I deeply regret not taking his advice earlier.
+   > **解析**：regret 表示“后悔/遗憾”。
+
+16. **中文**：专家建议大家每天保证至少八小时的睡眠。
+   **英文**：Doctors suggest sleeping at least seven hours a night.
+   > **解析**：suggest 表示“建议/提议”。
+
+17. **中文**：你确信这个消息来源是真实可靠的吗？
+   **英文**：Are you sure about the exact departure time?
+   > **解析**：sure about 表示“对……确信/肯定”。
+
+18. **中文**：你认为我们下个月的新产品发布计划怎么样？
+   **英文**：What do you think of our new office design?
+   > **解析**：think of 表示“认为/想起/评价”。
+
+19. **中文**：我完全同意你刚才在会议上阐述的观点。
+   **英文**：I totally agree with your suggestion for team building.
+   > **解析**：totally 表示“完全地/绝对地”。
+
+20. **中文**：不要把宝贵的时间浪费在无谓的争吵上。
+   **英文**：Don't waste your time worrying about small details.
+   > **解析**：waste 表示“浪费/消耗”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. They had to admit that the initial proposal was far too complicated.
-   > **中文**：他们不得不承认最初的提案过于复杂了。
+1. He had to admit that he made a serious mistake.
+   > **中文**：他最终向警方承认了自己的作案错误。
 
-2. She asked whether the committee had reached a consensus on the new budget.
-   > **中文**：她询问委员会是否就新预算达成了共识。
+2. The manager asked if everyone was ready for meeting.
+   > **中文**：经理询问是否所有人均已收到最新邮件通知。
 
-3. How do they plan to deal with the public criticism regarding the project delay.
-   > **中文**：他们计划如何应对关于项目延误的公众批评？
+3. She asked whether we could deliver the order on time.
+   > **中文**：记者询问项目能否在年底前按时竣工。
 
-4. When asked about the launch date, he said it depends on the testing results.
-   > **中文**：当被问及上线日期时，他说这取决于测试结果。
+4. Please call to confirm your appointment time.
+   > **中文**：请向银行确认你的账户转账已经成功处理。
 
-5. He expressed his personal opinion that team communication needs improvement.
-   > **中文**：他表达了个人观点，认为团队沟通需要改进。
+5. We need to deal with customer feedback promptly.
+   > **中文**：我们必须尽快妥善处理这些客户发来的投诉。
 
-6. They expressed regret that they could not join our advisory board.
-   > **中文**：他们对无法加入我们的咨询委员会表示遗憾。
+6. The flight delay was due to severe weather conditions.
+   > **中文**：由于大雾天气，机场所有航班推迟起飞。
 
-7. I totally agree with what the speaker said about workplace transparency.
-   > **中文**：我完全赞同演讲者关于职场透明度的讲话。
+7. Could you do me a favor and hold the door open?
+   > **中文**：你能帮我个忙，把这箱重物搬到楼上去吗？
 
-8. Did anyone ask if the meeting room has video conferencing equipment? (deal with) about asked if.
-   > **中文**：有人问过会议室是否有视频会议设备吗？
+8. Our outdoor plan; it depends on the weather tomorrow.
+   > **中文**：这取决于明天早晨的天气状况如何。
 
-9. They keep asking about our progress on the quarterly evaluation report.
-   > **中文**：他们一直在询问我们季度评估报告的进展情况。
+9. He felt jealous of his coworker's sudden promotion.
+   > **中文**：不要去嫉妒他人的成功，要专注自己的提升。
 
-10. He asked for a favor, requesting us to review his application draft.
-   > **中文**：他请求帮忙，请我们审查他的申请草案。
+10. She applied for a student loan to cover tuition costs.
+   > **中文**：他申请了一笔银行贷款来支付大学学费。
+
+11. What is your opinion on the proposed policy change?
+   > **中文**：你对这个新方案有什么具体的看法？
+
+12. Please keep your personal items in the locker provided.
+   > **中文**：不要把个人情绪带入到日常的工作决断中。
+
+13. Personally, I believe this is the best solution.
+   > **中文**：就个人而言，我认为这个方案切合实际。
+
+14. They decided to promote her to senior manager.
+   > **中文**：公司决定在季度评估后提拔她为主管。
+
+15. I deeply regret not taking his advice earlier.
+   > **中文**：我非常后悔当初没有听取导师的诚恳建议。
+
+16. Doctors suggest sleeping at least seven hours a night.
+   > **中文**：专家建议大家每天保证至少八小时的睡眠。
+
+17. Are you sure about the exact departure time?
+   > **中文**：你确信这个消息来源是真实可靠的吗？
+
+18. What do you think of our new office design?
+   > **中文**：你认为我们下个月的新产品发布计划怎么样？
+
+19. I totally agree with your suggestion for team building.
+   > **中文**：我完全同意你刚才在会议上阐述的观点。
+
+20. Don't waste your time worrying about small details.
+   > **中文**：不要把宝贵的时间浪费在无谓的争吵上。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| admit | 承认 |
+| asked if | 询问是否 |
+| asked whether | 询问是否 |
+| confirm | 确认 / 证实 |
+| deal with | 处理 / 应对 |
+| due to | 由于 / 因为 |
+| favor | 恩惠 / 帮忙 |
+| it depends on | 取决于 |
+| jealous | 嫉妒的 / 羡慕的 |
+| loan | 贷款 |
+| opinion on | 对……的看法 |
+| personal | 个人的 / 私人的 |
+| personally | 就个人而言 |
+| promote | 提拔 / 晋升 |
+| regret | 后悔 / 遗憾 |
+| suggest | 建议 |
+| sure about | 对……确信 |
+| think of | 认为 / 评价 |
+| totally | 完全地 |
+| waste | 浪费 |
 
 </quiz-matching>
 
@@ -139,102 +232,202 @@ admit, ask if, asked, asked if, asked whether, asking, confirm, deal with, due t
 
 ### 1
 
-They had to `____` that the initial proposal was far too complicated.
+He had to ____ that he made a serious mistake.
 
 - [x] admit
 - [ ] ask if
-- [ ] asking
+- [ ] asked
 
-> **解析**：admit 为及物动词，意为“承认”。后可接 that 引导的宾语从句（admit that...）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-She `____` whether the committee had reached a consensus on the new budget.
+The manager ____ if everyone was ready for meeting.
 
 - [x] asked
+- [ ] admit
 - [ ] ask if
-- [ ] confirm
 
-> **解析**：asked whether 为间接引语结构，用于转述一般疑问句，whether 意为“是否”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-How do they plan to `____` the public criticism regarding the project delay.
+She ____ whether we could deliver the order on time.
 
-- [x] deal with
-- [ ] asked
-- [ ] confirm
+- [x] asked
+- [ ] admit
+- [ ] ask if
 
-> **解析**：deal with 为动词短语，意为“处理、应对”，后接处理的对象（deal with criticism）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-When asked about the launch date, he said `____` on the testing results.
+Please call to ____ your appointment time.
 
-- [x] it depends
-- [ ] asked if
-- [ ] deal with
+- [x] confirm
+- [ ] admit
+- [ ] ask if
 
-> **解析**：it depends on 为固定动词短语结构，意为“这取决于……”，后接名词或从句。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-He expressed his `____` opinion that team communication needs improvement.
+We need to deal with ____ feedback promptly.
 
-- [x] personal
-- [ ] asked whether
-- [ ] due to
+- [x] customer
+- [ ] admit
+- [ ] ask if
 
-> **解析**：personal 为形容词，意为“个人的、私人的”。personal opinion 指个人观点。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-They expressed `____` that they could not join our advisory board.
+The flight delay was due to severe weather ____.
 
-- [x] regret
-- [ ] asking
-- [ ] favor
+- [x] conditions
+- [ ] admit
+- [ ] ask if
 
-> **解析**：regret 在此处作名词/动词，意为“遗憾、悔恨”。express regret 意为“表达遗憾”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-I `____` agree with what the speaker said about workplace transparency.
+Could you do me a ____ and hold the door open?
 
-- [x] totally
-- [ ] confirm
-- [ ] it depends
+- [x] favor
+- [ ] admit
+- [ ] ask if
 
-> **解析**：totally 为程度副词，意为“完全地、彻底地”，修饰动词 agree。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Did anyone `____` the meeting room has video conferencing equipment? (deal with) about asked if.
+Our outdoor plan; it depends on the weather ____.
 
-- [x] ask if
-- [ ] due to
-- [ ] jealous
+- [x] tomorrow
+- [ ] admit
+- [ ] ask if
 
-> **解析**：ask if 结构在转述疑问句中意为“询问是否……”，if 引导宾语从句。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-They keep `____` about our progress on the quarterly evaluation report.
+He felt ____ of his coworker's sudden promotion.
 
-- [x] asking
-- [ ] favor
-- [ ] loan
+- [x] jealous
+- [ ] admit
+- [ ] ask if
 
-> **解析**：asking 是 ask 的现在分词，与 keep 搭配构成 keep doing sth.（持续做某事）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-He asked for a `____`, requesting us to review his application draft.
+She applied for a student ____ to cover tuition costs.
 
-- [x] favor
-- [ ] it depends
-- [ ] opinion on
+- [x] loan
+- [ ] admit
+- [ ] ask if
 
-> **解析**：favor 在此处作名词，常用搭配 ask a favor / ask for a favor（请求帮忙）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+What is your opinion on the ____ policy change?
+
+- [x] proposed
+- [ ] admit
+- [ ] ask if
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Please keep your ____ items in the locker provided.
+
+- [x] personal
+- [ ] admit
+- [ ] ask if
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+____, I believe this is the best solution.
+
+- [x] Personally
+- [ ] admit
+- [ ] ask if
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+They decided to ____ her to senior manager.
+
+- [x] promote
+- [ ] admit
+- [ ] ask if
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+I deeply ____ not taking his advice earlier.
+
+- [x] regret
+- [ ] admit
+- [ ] ask if
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Doctors ____ sleeping at least seven hours a night.
+
+- [x] suggest
+- [ ] admit
+- [ ] ask if
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Are you sure about the exact ____ time?
+
+- [x] departure
+- [ ] admit
+- [ ] ask if
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+What do you think of our new ____ design?
+
+- [x] office
+- [ ] admit
+- [ ] ask if
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+I ____ agree with your suggestion for team building.
+
+- [x] totally
+- [ ] admit
+- [ ] ask if
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Don't ____ your time worrying about small details.
+
+- [x] waste
+- [ ] admit
+- [ ] ask if
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

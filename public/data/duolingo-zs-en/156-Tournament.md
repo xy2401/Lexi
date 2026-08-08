@@ -61,83 +61,176 @@ root for / cheer for = 支持/加油。than 用于比较。
 
 <quiz-sentence-builder>
 
-1. **中文**：你有问过他在锦标赛中支持哪支足球队吗？  
-   **英文**：Did you ask him which football team he is supporting in the championship?
-   > **解析**：ask 在此处作动词，意为“询问”。结构为 ask sb. + 疑问词从句（which team...），用于询问他人意向或喜好。
+1. **中文**：每位运动员都为这场国际比赛刻苦训练。
+   **英文**：Every athlete trained hard for the international competition.
+   > **解析**：athlete 表示“运动员”；competition 意为“比赛”。
 
-2. **中文**：我们当地的篮球队在决赛阶段成功战胜了冠军队。  
-   **英文**：Our local basketball team managed to beat the champion team in the final round.
-   > **解析**：beat 是及物动词，意为“战胜、击败”，后接对手（the champion team），注意与 win（赢得比赛）区别。
+2. **中文**：我们的篮球队在最后一节成功击败了对方防线。
+   **英文**：Our basketball team managed to beat the defense in the final quarter.
+   > **解析**：beat 表示“击败/胜过”；quarter 意为“一节/一季度”。
 
-3. **中文**：超过二十支国际队伍将在本周末角逐该奖杯。  
-   **英文**：Over twenty international teams will compete for the trophy this weekend.
-   > **解析**：compete 为不及物动词，意为“竞争、比赛”。常用结构 compete for sth.（为争取某物而竞争）。
+3. **中文**：网球冠军骄傲地举起了奖杯。
+   **英文**：The tennis champion held up the trophy with pride.
+   > **解析**：champion 表示“冠军”；trophy 意为“奖杯”。
 
-4. **中文**：我们决定在电视上看网球锦标赛赛事的现场直播。  
-   **英文**：We decided to watch the tennis tournament match live on television.
-   > **解析**：live 在此处用作副词，意为“现场直播地”，修饰动词 watch，常用于体育赛事转播情境。
+4. **中文**：球迷们聚集在体育酒吧为他们的家乡球队加油。
+   **英文**：Fans gathered in the sports bar to cheer for their hometown team.
+   > **解析**：cheer for 表示“为……加油/喝彩”。
 
-5. **中文**：在奥运会期间你打算支持哪个国家的队伍？  
-   **英文**：Which country's team are you going to root for during the Olympic Games.
-   > **解析**：root for 是动词短语，口语中意为“为……加油、支持”，后接支持的队伍或选手（root for a team）。
+5. **中文**：经验丰富的教练在比赛前给球队做了动员讲话。
+   **英文**：The experienced coach gave the team a pep talk before the match.
+   > **解析**：coach 表示“教练”；pep talk 意为“鼓舞士气的讲话”。
 
-6. **中文**：你能告诉我锦标赛中的最佳射手是谁吗？  
-   **英文**：Can you tell me who the top scorer in the tournament is?
-   > **解析**：tell 为及物动词，意为“告诉”。常见搭配 tell sb. sth. / tell sb. + 特殊疑问句从句。
+6. **中文**：来自五十个国家的运动员前来参加比赛。
+   **英文**：Athletes from fifty nations came to compete in the games.
+   > **解析**：compete 表示“竞争/比赛”；compete in 意为“参加……比赛”。
 
-7. **中文**：一年一度的足球锦标赛每年夏天吸引数千名体育迷。  
-   **英文**：The annual soccer tournament attracts thousands of sports fans every summer.
-   > **解析**：tournament 为可数名词，意为“锦标赛、联赛”。在体育话题中，指由多支队伍参加的淘汰赛或循环赛。
+7. **中文**：他在比赛最后一分钟踢进了一个精彩的进球。
+   **英文**：He scored a brilliant goal in the last minute of the game.
+   > **解析**：goal 表示“进球/得分”；score a goal 意为“进球得分”。
 
-8. **中文**：我们队至少还需要再赢两场才能获得季后赛资格。  
-   **英文**：Our team needs at least two more wins to qualify for the playoffs about athlete.
-   > **解析**：at least 为副词短语，意为“至少、起码”，在句中修饰数量词 two more wins。
+8. **中文**：数以百万计的球迷在电视上观看冠军赛现场直播。
+   **英文**：Millions of fans watched the championship game live on television.
+   > **解析**：live 表示“现场直播地/实况地”。
 
-9. **中文**：数千名球迷聚集在体育场内为他们的主队加油助威。  
-   **英文**：Thousands of fans gathered in the stadium to cheer for their home team about beat.
-   > **解析**：cheer for 为动词短语，意为“为……欢呼加油”，后接支持的对象（their home team）。
+9. **中文**：在奥运会上获得金牌是她的终极目标。
+   **英文**：Winning a gold medal at the Olympics was her ultimate goal.
+   > **解析**：Olympics 表示“奥运会”；gold medal 意为“金牌”。
 
-10. **中文**：加油队伍！你们为这场比赛付出了如此多的努力！  
-   **英文**：Go team! You have worked so hard for this match about champion.
-   > **解析**：go 在此处用作感叹呼号，Go + 队名/team 意为“……加油！”，为比赛现场常用的鼓励口号。
+10. **中文**：每队因本场比赛打平而各得一分。
+   **英文**：Each team earned one point for the draw in the match.
+   > **解析**：point 表示“得分/分数”；draw 意为“平局”。
+
+11. **中文**：在这个赛季中你通常支持哪支足球俱乐部？
+   **英文**：Which soccer club do you usually root for during the season?
+   > **解析**：root for 表示“支持/为……加油”。
+
+12. **中文**：你必须遵守体育委员会制定的每一条规则。
+   **英文**：You must follow every rule established by the sports board.
+   > **解析**：rule 表示“规则/规定”；follow a rule 意为“遵守规则”。
+
+13. **中文**：曲棍球比赛的最终比分是三比二。
+   **英文**：The final score of the hockey game was three to two.
+   > **解析**：score 表示“比分/分数”；final score 意为“最终比分”。
+
+14. **中文**：当球队进入球场时，球迷们起立鼓掌。
+   **英文**：The fans stood up and applauded when the team entered the field.
+   > **解析**：stood up 表示“起立/站起来”；applauded 意为“鼓掌”。
+
+15. **中文**：足球比赛在加时赛后以平局告终。
+   **英文**：The football match ended in a tie after extra time.
+   > **解析**：tie 表示“平局/不分胜负”；extra time 意为“加时赛”。
+
+16. **中文**：我们学校的球队获得了州篮球锦标赛的资格。
+   **英文**：Our school team qualified for the state basketball tournament.
+   > **解析**：tournament 表示“锦标赛/联赛”。
+
+17. **中文**：全世界的足球迷都在翘首以盼下一届世界杯。
+   **英文**：Football fans around the world eagerly await the next World Cup.
+   > **解析**：World Cup 表示“世界杯”。
+
+18. **中文**：你至少需要五名球员才能开始一场篮球比赛。
+   **英文**：You need at least five players to start a basketball game.
+   > **解析**：at least 表示“至少”；players 意为“球员”。
+
+19. **中文**：她在跑道上比主要竞争对手跑得快得多。
+   **英文**：She ran much faster than her main rival on the track.
+   > **解析**：than 用于比较级“比……”；rival 意为“对手”。
+
+20. **中文**：毫不犹豫地向裁判询问澄清。
+   **英文**：Don't hesitate to ask the referee for clarification.
+   > **解析**：ask 表示“询问/请求”；referee 意为“裁判”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Did you ask him which football team he is supporting in the championship?
-   > **中文**：你有问过他在锦标赛中支持哪支足球队吗？
+1. Every athlete trained hard for the international competition.
+   > **中文**：每位运动员都为这场国际比赛刻苦训练。
 
-2. Our local basketball team managed to beat the champion team in the final round.
-   > **中文**：我们当地的篮球队在决赛阶段成功战胜了冠军队。
+2. Our basketball team managed to beat the defense in the final quarter.
+   > **中文**：我们的篮球队在最后一节成功击败了对方防线。
 
-3. Over twenty international teams will compete for the trophy this weekend.
-   > **中文**：超过二十支国际队伍将在本周末角逐该奖杯。
+3. The tennis champion held up the trophy with pride.
+   > **中文**：网球冠军骄傲地举起了奖杯。
 
-4. We decided to watch the tennis tournament match live on television.
-   > **中文**：我们决定在电视上看网球锦标赛赛事的现场直播。
+4. Fans gathered in the sports bar to cheer for their hometown team.
+   > **中文**：球迷们聚集在体育酒吧为他们的家乡球队加油。
 
-5. Which country's team are you going to root for during the Olympic Games.
-   > **中文**：在奥运会期间你打算支持哪个国家的队伍？
+5. The experienced coach gave the team a pep talk before the match.
+   > **中文**：经验丰富的教练在比赛前给球队做了动员讲话。
 
-6. Can you tell me who the top scorer in the tournament is?
-   > **中文**：你能告诉我锦标赛中的最佳射手是谁吗？
+6. Athletes from fifty nations came to compete in the games.
+   > **中文**：来自五十个国家的运动员前来参加比赛。
 
-7. The annual soccer tournament attracts thousands of sports fans every summer.
-   > **中文**：一年一度的足球锦标赛每年夏天吸引数千名体育迷。
+7. He scored a brilliant goal in the last minute of the game.
+   > **中文**：他在比赛最后一分钟踢进了一个精彩的进球。
 
-8. Our team needs at least two more wins to qualify for the playoffs about athlete.
-   > **中文**：我们队至少还需要再赢两场才能获得季后赛资格。
+8. Millions of fans watched the championship game live on television.
+   > **中文**：数以百万计的球迷在电视上观看冠军赛现场直播。
 
-9. Thousands of fans gathered in the stadium to cheer for their home team about beat.
-   > **中文**：数千名球迷聚集在体育场内为他们的主队加油助威。
+9. Winning a gold medal at the Olympics was her ultimate goal.
+   > **中文**：在奥运会上获得金牌是她的终极目标。
 
-10. Go team! You have worked so hard for this match about champion.
-   > **中文**：加油队伍！你们为这场比赛付出了如此多的努力！
+10. Each team earned one point for the draw in the match.
+   > **中文**：每队因本场比赛打平而各得一分。
+
+11. Which soccer club do you usually root for during the season?
+   > **中文**：在这个赛季中你通常支持哪支足球俱乐部？
+
+12. You must follow every rule established by the sports board.
+   > **中文**：你必须遵守体育委员会制定的每一条规则。
+
+13. The final score of the hockey game was three to two.
+   > **中文**：曲棍球比赛的最终比分是三比二。
+
+14. The fans stood up and applauded when the team entered the field.
+   > **中文**：当球队进入球场时，球迷们起立鼓掌。
+
+15. The football match ended in a tie after extra time.
+   > **中文**：足球比赛在加时赛后以平局告终。
+
+16. Our school team qualified for the state basketball tournament.
+   > **中文**：我们学校的球队获得了州篮球锦标赛的资格。
+
+17. Football fans around the world eagerly await the next World Cup.
+   > **中文**：全世界的足球迷都在翘首以盼下一届世界杯。
+
+18. You need at least five players to start a basketball game.
+   > **中文**：你至少需要五名球员才能开始一场篮球比赛。
+
+19. She ran much faster than her main rival on the track.
+   > **中文**：她在跑道上比主要竞争对手跑得快得多。
+
+20. Don't hesitate to ask the referee for clarification.
+   > **中文**：毫不犹豫地向裁判询问澄清。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| athlete | 运动员 |
+| beat | 击败 / 胜过 |
+| champion | 冠军 |
+| cheer for | 为……加油 |
+| coach | 教练 |
+| compete | 竞争 / 比赛 |
+| goal | 进球 / 目标 |
+| live | 现场直播的 |
+| Olympics | 奥运会 |
+| point | 得分 / 分数 |
+| root for | 支持 / 为……加油 |
+| rule | 规则 / 规定 |
+| score | 比分 / 得分 |
+| stood up | 起立（stand up的过去式） |
+| tie | 平局 / 打平 |
+| tournament | 锦标赛 / 联赛 |
+| World Cup | 世界杯 |
+| at least | 至少 |
+| than | 比（用于比较） |
+| ask | 询问 / 请求 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ root for / cheer for = 支持/加油。than 用于比较。
 
 ### 1
 
-Did you `____` him which football team he is supporting in the championship?
+Every ____ trained hard for the international competition.
 
-- [x] ask
+- [x] athlete
+- [ ] ask
 - [ ] at least
-- [ ] cheer for
 
-> **解析**：ask 在此处作动词，意为“询问”。结构为 ask sb. + 疑问词从句（which team...），用于询问他人意向或喜好。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Our local basketball team managed to `____` the champion team in the final round.
+Our basketball team managed to ____ the defense in the final quarter.
 
 - [x] beat
+- [ ] ask
 - [ ] at least
-- [ ] coach
 
-> **解析**：beat 是及物动词，意为“战胜、击败”，后接对手（the champion team），注意与 win（赢得比赛）区别。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Over twenty international teams will `____` for the trophy this weekend.
+The tennis ____ held up the trophy with pride.
 
-- [x] compete
-- [ ] athlete
-- [ ] coach
+- [x] champion
+- [ ] ask
+- [ ] at least
 
-> **解析**：compete 为不及物动词，意为“竞争、比赛”。常用结构 compete for sth.（为争取某物而竞争）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-We decided to watch the tennis tournament match `____` on television.
+Fans ____ in the sports bar to cheer for their hometown team.
 
-- [x] live
-- [ ] beat
-- [ ] compete
+- [x] gathered
+- [ ] ask
+- [ ] at least
 
-> **解析**：live 在此处用作副词，意为“现场直播地”，修饰动词 watch，常用于体育赛事转播情境。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Which country's team are you `____`ing to root for during the Olympic Games.
+The experienced ____ gave the team a pep talk before the match.
 
-- [x] go
-- [ ] champion
-- [ ] goal
+- [x] coach
+- [ ] ask
+- [ ] at least
 
-> **解析**：root for 是动词短语，口语中意为“为……加油、支持”，后接支持的队伍或选手（root for a team）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Can you tell me who the top `____`r in the tournament is?
+Athletes from fifty nations came to ____ in the games.
 
-- [x] score
-- [ ] cheer for
-- [ ] goal
+- [x] compete
+- [ ] ask
+- [ ] at least
 
-> **解析**：tell 为及物动词，意为“告诉”。常见搭配 tell sb. sth. / tell sb. + 特殊疑问句从句。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The annual soccer `____` attracts thousands of sports fans every summer.
+He scored a brilliant ____ in the last minute of the game.
 
-- [x] tournament
-- [ ] coach
-- [ ] live
+- [x] goal
+- [ ] ask
+- [ ] at least
 
-> **解析**：tournament 为可数名词，意为“锦标赛、联赛”。在体育话题中，指由多支队伍参加的淘汰赛或循环赛。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Our team needs `____` two more wins to qualify for the playoffs about athlete.
+Millions of fans watched the championship game ____ on television.
 
-- [x] at least
-- [ ] go
-- [ ] point
+- [x] live
+- [ ] ask
+- [ ] at least
 
-> **解析**：at least 为副词短语，意为“至少、起码”，在句中修饰数量词 two more wins。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Thousands of fans gathered in the stadium to `____` their home team about beat.
+Winning a gold medal at the ____ was her ultimate goal.
 
-- [x] cheer for
-- [ ] goal
-- [ ] root for
+- [x] Olympics
+- [ ] ask
+- [ ] at least
 
-> **解析**：cheer for 为动词短语，意为“为……欢呼加油”，后接支持的对象（their home team）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Go team! You have worked so hard for this match about `____`.
+Each team earned one ____ for the draw in the match.
 
-- [x] champion
-- [ ] live
-- [ ] rule
+- [x] point
+- [ ] ask
+- [ ] at least
 
-> **解析**：go 在此处用作感叹呼号，Go + 队名/team 意为“……加油！”，为比赛现场常用的鼓励口号。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Which soccer club do you ____ root for during the season?
+
+- [x] usually
+- [ ] ask
+- [ ] at least
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+You must follow every ____ established by the sports board.
+
+- [x] rule
+- [ ] ask
+- [ ] at least
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The final ____ of the hockey game was three to two.
+
+- [x] score
+- [ ] ask
+- [ ] at least
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The fans stood up and ____ when the team entered the field.
+
+- [x] applauded
+- [ ] ask
+- [ ] at least
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The football match ended in a ____ after extra time.
+
+- [x] tie
+- [ ] ask
+- [ ] at least
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Our school team qualified for the state basketball ____.
+
+- [x] tournament
+- [ ] ask
+- [ ] at least
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+____ fans around the world eagerly await the next World Cup.
+
+- [x] Football
+- [ ] ask
+- [ ] at least
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+You need at least five players to start a ____ game.
+
+- [x] basketball
+- [ ] ask
+- [ ] at least
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+She ran much faster ____ her main rival on the track.
+
+- [x] than
+- [ ] ask
+- [ ] at least
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Don't hesitate to ____ the referee for clarification.
+
+- [x] ask
+- [ ] at least
+- [ ] athlete
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

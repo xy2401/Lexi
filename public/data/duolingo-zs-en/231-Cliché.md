@@ -65,83 +65,176 @@ American dream, after all, american, assume, cheerleader, cliché, competitive, 
 
 <quiz-sentence-builder>
 
-1. **中文**：许多移民不知疲倦地工作，追寻关于自由与繁荣的美国梦。  
-   **英文**：Many immigrants worked tirelessly to pursue the American dream of freedom and prosperity.
-   > **解析**：`American dream` 名词短语，指“美国梦”（即通过努力工作获得成功与幸福的社会理想）。
+1. **中文**：好像第一印象并不总是准确的。
+   **英文**：It seems that first impressions are not always accurate.
+   > **解析**：first impressions 意为第一印象。
 
-2. **中文**：在大学学习法律之前，她曾是高中里受欢迎的拉拉队员。  
-   **英文**：She was a popular cheerleader in high school before studying law at university.
-   > **解析**：`cheerleader` 可数名词，意为“拉拉队员；支持者/鼓吹者”。
+2. **中文**：她为迟到给出了一个陈词滥调的解释。
+   **英文**：She gave a cliché explanation for being late.
+   > **解析**：cliché 表示陈词滥调的说法。
 
-3. **中文**：阅读报告后，我们得出了第一印象可能具有误导性的结论。  
-   **英文**：After reading the report, we came to the conclusion that first impressions can be misleading.
-   > **解析**：`conclusion` 可数名词，意为“结论；推论”。固定搭配 `come to the conclusion that...`（得出……的结论）。
+3. **中文**：他们可能曾经假设每个人都过着美国梦的生活。
+   **英文**：They might have assumed that everyone lives the American dream.
+   > **解析**：American dream 指美国梦。
 
-4. **中文**：看起来他似乎很安静，但他实际上非常喜欢参与热烈的辩论。  
-   **英文**：It might seem that he is quiet, but he actually loves engaging in lively debates.
-   > **解析**：`it might seem that...` 为推测句型，意为“看起来似乎……”，表达基于初步印象的不确定推断。
+4. **中文**：毕竟不是得克萨斯州的每个人都是牛仔。
+   **英文**：Not everyone in Texas is a cowboy, after all.
+   > **解析**：cowboy 意为牛仔。
 
-5. **中文**：他可能没有意识到自己的言语对团队士气产生了多大的影响。  
-   **英文**：He might not have realized how much his words influenced the team's morale.
-   > **解析**：`might not have + 过去分词` 表达对过去发生事情的不确定否定推测（意为“可能没有做过某事”）。
+5. **中文**：这家公司以竞争非常激烈而闻名。
+   **英文**：The company has a reputation for being very competitive.
+   > **解析**：reputation 表示名声、口碑。
 
-6. **中文**：我不敢确定仅仅依赖刻板印象是否是一种明智的做法。  
-   **英文**：I am not sure that relying solely on stereotypes is a wise approach for cliché.
-   > **解析**：`not sure that...` 表达质疑或不确定性，后接从句。
+6. **中文**：你相信一见钟情吗？
+   **英文**：Do you believe in love at first sight?
+   > **解析**：love at first sight 意为一见钟情。
 
-7. **中文**：期望每个人都赞同你的第一印象是完全不切实际的。  
-   **英文**：Expecting everyone to agree with your initial impression is completely unrealistic.
-   > **解析**：`unrealistic` 形容词，意为“不切实际的；不现实的”，由前缀 `un-` + `realistic` 构成。
+7. **中文**：似乎老派的想法不再有用。
+   **英文**：It might seem that old-fashioned ideas are no longer useful.
+   > **解析**：old-fashioned 意为老派的、过时的。
 
-8. **中文**：别对他太苛刻；毕竟，这是他第一次做演讲。  
-   **英文**：Don't be too hard on him; after all, it was his very first time giving a presentation about american.
-   > **解析**：`after all` 插入语短语，意为“毕竟；终究”，用于引出解释或理由。
+8. **中文**：我们得出结论，那个传闻只是一个神话。
+   **英文**：We came to the conclusion that the rumor was just a myth.
+   > **解析**：conclusion 表示结论。
 
-9. **中文**：说“一见钟情”已经成为浪漫电影中常见的陈词滥调。  
-   **英文**：Saying 'love at first sight' has become a common cliché in romantic movies.
-   > **解析**：`cliché` 可数名词，在此读作 /kliːˈʃeɪ/，意为“陈词滥调；老套的说法”。
+9. **中文**：当地社区非常多元化，对新人非常友好。
+   **英文**：The local community is very diverse and welcoming to newcomers.
+   > **解析**：welcoming 意为好客的、热情的。
 
-10. **中文**：这所大学以拥有文化多元的学生群体而自豪。  
-   **英文**：The university prides itself on having a culturally diverse student body.
-   > **解析**：`diverse` 形容词，意为“多元的；多样化的”。修饰名词 `student body`。
+10. **中文**：究竟是什么让你认为啦啦队员没有运动天赋？
+   **英文**：What on earth made you think that cheerleaders are not athletic?
+   > **解析**：What on earth 用于加强疑问语气，意为究竟、到底。
+
+11. **中文**：努力工作并不一定能保证成功。
+   **英文**：Hard work does not necessarily guarantee success.
+   > **解析**：necessarily 意为必然地、必定地。
+
+12. **中文**：我不确定这个期望是否现实。
+   **英文**：I am not sure that this expectation is realistic.
+   > **解析**：not sure that 表示不确定……
+
+13. **中文**：他们可能没有意识到自己的期望有多不切实际。
+   **英文**：They might not have realized how unrealistic their expectations were.
+   > **解析**：unrealistic 意为不切实际的。
+
+14. **中文**：他高中时是一名啦啦队员。
+   **英文**：He was a cheerleader in high school.
+   > **解析**：cheerleader 意为啦啦队员。
+
+15. **中文**：所有美国人每天都吃垃圾食品是一个常见的误区。
+   **英文**：It is a common myth that all Americans eat junk food every day.
+   > **解析**：myth 意为神话、误区。
+
+16. **中文**：他们用热情的握手欢迎我们。
+   **英文**：They welcomed us with a warm handshake.
+   > **解析**：handshake 意为握手。
+
+17. **中文**：在了解所有事实之前不要急于下结论。
+   **英文**：Don't jump to conclusions before knowing all the facts.
+   > **解析**：jump to conclusions 意为急于下结论。
+
+18. **中文**：这个地区的文化非常多元。
+   **英文**：The culture in this region is remarkably diverse.
+   > **解析**：diverse 意为多元的。
+
+19. **中文**：他对职业道路持有一种老派的观点。
+   **英文**：He holds an old-fashioned perspective on career paths.
+   > **解析**：old-fashioned 意为老派的。
+
+20. **中文**：毕竟，人们值得第二次机会。
+   **英文**：After all, people deserve a second chance.
+   > **解析**：after all 意为毕竟。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Many immigrants worked tirelessly to pursue the American dream of freedom and prosperity.
-   > **中文**：许多移民不知疲倦地工作，追寻关于自由与繁荣的美国梦。
+1. It seems that first impressions are not always accurate.
+   > **中文**：好像第一印象并不总是准确的。
 
-2. She was a popular cheerleader in high school before studying law at university.
-   > **中文**：在大学学习法律之前，她曾是高中里受欢迎的拉拉队员。
+2. She gave a cliché explanation for being late.
+   > **中文**：她为迟到给出了一个陈词滥调的解释。
 
-3. After reading the report, we came to the conclusion that first impressions can be misleading.
-   > **中文**：阅读报告后，我们得出了第一印象可能具有误导性的结论。
+3. They might have assumed that everyone lives the American dream.
+   > **中文**：他们可能曾经假设每个人都过着美国梦的生活。
 
-4. It might seem that he is quiet, but he actually loves engaging in lively debates.
-   > **中文**：看起来他似乎很安静，但他实际上非常喜欢参与热烈的辩论。
+4. Not everyone in Texas is a cowboy, after all.
+   > **中文**：毕竟不是得克萨斯州的每个人都是牛仔。
 
-5. He might not have realized how much his words influenced the team's morale.
-   > **中文**：他可能没有意识到自己的言语对团队士气产生了多大的影响。
+5. The company has a reputation for being very competitive.
+   > **中文**：这家公司以竞争非常激烈而闻名。
 
-6. I am not sure that relying solely on stereotypes is a wise approach for cliché.
-   > **中文**：我不敢确定仅仅依赖刻板印象是否是一种明智的做法。
+6. Do you believe in love at first sight?
+   > **中文**：你相信一见钟情吗？
 
-7. Expecting everyone to agree with your initial impression is completely unrealistic.
-   > **中文**：期望每个人都赞同你的第一印象是完全不切实际的。
+7. It might seem that old-fashioned ideas are no longer useful.
+   > **中文**：似乎老派的想法不再有用。
 
-8. Don't be too hard on him; after all, it was his very first time giving a presentation about american.
-   > **中文**：别对他太苛刻；毕竟，这是他第一次做演讲。
+8. We came to the conclusion that the rumor was just a myth.
+   > **中文**：我们得出结论，那个传闻只是一个神话。
 
-9. Saying 'love at first sight' has become a common cliché in romantic movies.
-   > **中文**：说“一见钟情”已经成为浪漫电影中常见的陈词滥调。
+9. The local community is very diverse and welcoming to newcomers.
+   > **中文**：当地社区非常多元化，对新人非常友好。
 
-10. The university prides itself on having a culturally diverse student body.
-   > **中文**：这所大学以拥有文化多元的学生群体而自豪。
+10. What on earth made you think that cheerleaders are not athletic?
+   > **中文**：究竟是什么让你认为啦啦队员没有运动天赋？
+
+11. Hard work does not necessarily guarantee success.
+   > **中文**：努力工作并不一定能保证成功。
+
+12. I am not sure that this expectation is realistic.
+   > **中文**：我不确定这个期望是否现实。
+
+13. They might not have realized how unrealistic their expectations were.
+   > **中文**：他们可能没有意识到自己的期望有多不切实际。
+
+14. He was a cheerleader in high school.
+   > **中文**：他高中时是一名啦啦队员。
+
+15. It is a common myth that all Americans eat junk food every day.
+   > **中文**：所有美国人每天都吃垃圾食品是一个常见的误区。
+
+16. They welcomed us with a warm handshake.
+   > **中文**：他们用热情的握手欢迎我们。
+
+17. Don't jump to conclusions before knowing all the facts.
+   > **中文**：在了解所有事实之前不要急于下结论。
+
+18. The culture in this region is remarkably diverse.
+   > **中文**：这个地区的文化非常多元。
+
+19. He holds an old-fashioned perspective on career paths.
+   > **中文**：他对职业道路持有一种老派的观点。
+
+20. After all, people deserve a second chance.
+   > **中文**：毕竟，人们值得第二次机会。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| cliché | 陈词滥调 |
+| first impression | 第一印象 |
+| American dream | 美国梦 |
+| assume | 假定；想当然 |
+| cowboy | 牛仔 |
+| after all | 毕竟 |
+| reputation | 名声；口碑 |
+| competitive | 竞争激烈的 |
+| love at first sight | 一见钟情 |
+| old-fashioned | 老派的；过时的 |
+| conclusion | 结论 |
+| myth | 神话；误区 |
+| diverse | 多元的 |
+| welcoming | 好客的；热情的 |
+| what on earth | 究竟；到底 |
+| cheerleader | 啦啦队员 |
+| necessarily | 必然；一定 |
+| unrealistic | 不切实际的 |
+| shake | 握手；摇动 |
+| it seems that | 似乎；好像 |
 
 </quiz-matching>
 
@@ -149,102 +242,202 @@ American dream, after all, american, assume, cheerleader, cliché, competitive, 
 
 ### 1
 
-Many immigrants worked tirelessly to pursue the `____` of freedom and prosperity.
+It seems that first ____ are not always accurate.
 
-- [x] American dream
+- [x] impressions
+- [ ] American dream
 - [ ] after all
-- [ ] cliché
 
-> **解析**：`American dream` 名词短语，指“美国梦”（即通过努力工作获得成功与幸福的社会理想）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-She was a popular `____` in high school before studying law at university.
+She gave a cliché ____ for being late.
 
-- [x] cheerleader
+- [x] explanation
+- [ ] American dream
 - [ ] after all
-- [ ] competitive
 
-> **解析**：`cheerleader` 可数名词，意为“拉拉队员；支持者/鼓吹者”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-After reading the report, we came to the `____` that first impressions can be misleading.
+They might have assumed that everyone lives the ____ dream.
 
-- [x] conclusion
-- [ ] american
-- [ ] competitive
+- [x] American
+- [ ] American dream
+- [ ] after all
 
-> **解析**：`conclusion` 可数名词，意为“结论；推论”。固定搭配 `come to the conclusion that...`（得出……的结论）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-`____` he is quiet, but he actually loves engaging in lively debates.
+Not everyone in Texas is a ____, after all.
 
-- [x] it might seem that
-- [ ] assume
-- [ ] conclusion
+- [x] cowboy
+- [ ] American dream
+- [ ] after all
 
-> **解析**：`it might seem that...` 为推测句型，意为“看起来似乎……”，表达基于初步印象的不确定推断。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-He `____` realized how much his words influenced the team's morale.
+The company has a ____ for being very competitive.
 
-- [x] might not have
-- [ ] cheerleader
-- [ ] cowboy
+- [x] reputation
+- [ ] American dream
+- [ ] after all
 
-> **解析**：`might not have + 过去分词` 表达对过去发生事情的不确定否定推测（意为“可能没有做过某事”）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-I am not sure that relying solely on stereotypes is a wise approach for `____`.
+Do you ____ in love at first sight?
 
-- [x] cliché
-- [ ] competitive
-- [ ] first impression
+- [x] believe
+- [ ] American dream
+- [ ] after all
 
-> **解析**：`not sure that...` 表达质疑或不确定性，后接从句。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Expecting everyone to agree with your initial impression is completely `____`.
+It might seem that ____ ideas are no longer useful.
 
-- [x] unrealistic
-- [ ] competitive
-- [ ] first impression
+- [x] old-fashioned
+- [ ] American dream
+- [ ] after all
 
-> **解析**：`unrealistic` 形容词，意为“不切实际的；不现实的”，由前缀 `un-` + `realistic` 构成。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Don't be too hard on him; `____`, it was his very first time giving a presentation about american.
+We came to the ____ that the rumor was just a myth.
 
-- [x] after all
-- [ ] cowboy
-- [ ] it seems that
+- [x] conclusion
+- [ ] American dream
+- [ ] after all
 
-> **解析**：`after all` 插入语短语，意为“毕竟；终究”，用于引出解释或理由。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Saying '`____`' has become a common cliché in romantic movies.
+The local community is very ____ and welcoming to newcomers.
 
-- [x] love at first sight
-- [ ] cowboy
-- [ ] it seems that
+- [x] diverse
+- [ ] American dream
+- [ ] after all
 
-> **解析**：`cliché` 可数名词，在此读作 /kliːˈʃeɪ/，意为“陈词滥调；老套的说法”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The university prides itself on having a culturally `____` student body.
+What on earth made you think that ____ are not athletic?
+
+- [x] cheerleaders
+- [ ] American dream
+- [ ] after all
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Hard work does not ____ guarantee success.
+
+- [x] necessarily
+- [ ] American dream
+- [ ] after all
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+I am not sure that this ____ is realistic.
+
+- [x] expectation
+- [ ] American dream
+- [ ] after all
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+They might not have realized how ____ their expectations were.
+
+- [x] unrealistic
+- [ ] American dream
+- [ ] after all
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+He was a ____ in high school.
+
+- [x] cheerleader
+- [ ] American dream
+- [ ] after all
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+It is a common ____ that all Americans eat junk food every day.
+
+- [x] myth
+- [ ] American dream
+- [ ] after all
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+They welcomed us with a warm ____.
+
+- [x] handshake
+- [ ] American dream
+- [ ] after all
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Don't jump to ____ before knowing all the facts.
+
+- [x] conclusions
+- [ ] American dream
+- [ ] after all
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+The culture in this region is remarkably ____.
 
 - [x] diverse
-- [ ] first impression
-- [ ] might have
+- [ ] American dream
+- [ ] after all
 
-> **解析**：`diverse` 形容词，意为“多元的；多样化的”。修饰名词 `student body`。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+He holds an ____ perspective on career paths.
+
+- [x] old-fashioned
+- [ ] American dream
+- [ ] after all
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+After all, people ____ a second chance.
+
+- [x] deserve
+- [ ] American dream
+- [ ] after all
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

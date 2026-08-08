@@ -61,83 +61,176 @@ the + 年代（the eighties = 80年代）。could / couldn't 表过去能力。
 
 <quiz-sentence-builder>
 
-1. **中文**：这座历史悠久的镇图书馆最初建于 1802 年。  
-   **英文**：The historic town library was originally constructed in the year 1802.
-   > **解析**：1802 为年份表达，读作 eighteen hundred and two 或 eighteen oh two。
+1. **中文**：他出生于九十年代的一个小城镇。
+   **英文**：He was born in a small town during the nineteen nineties.
+   > **解析**：born 表示“出生”；was born 意为“出生于”。
 
-2. **中文**：我奶奶于 20 世纪 30 年代出生在一个沿海小村庄。  
-   **英文**：My grandmother was born in a small coastal village in the nineteen thirties.
-   > **解析**：born 为动词 bear 的过去分词，常与 be 动词连用构成 be born（出生于……）。
+2. **中文**：科学家们在这一年代做出了重大科技发现。
+   **英文**：Scientists made a major discovery in renewable energy.
+   > **解析**：discovery 表示“发现/重大突破”。
 
-3. **中文**：迪斯科音乐和色彩斑斓的复古服装在 80 年代非常流行。  
-   **英文**：Disco music and colorful retro clothes were very popular in the eighties.
-   > **解析**：eighties 指“八十年代”（the 1980s），前面需加定冠词 the（in the eighties）。
+3. **中文**：在八十年代，迪斯科和摇滚流行音乐风靡全球。
+   **英文**：In the eighties, disco and pop music were popular worldwide.
+   > **解析**：eighties 表示“八十年代（1980s）”。
 
-4. **中文**：每一代人都有其独特的文化身份和时代记忆。  
-   **英文**：Each generation has its own unique cultural identity and memories.
-   > **解析**：generation 为可数名词，意为“一代人、世代”。Each generation 后接单数动词 has。
+4. **中文**：五十年代电视机开始进入千家万户。
+   **英文**：Television sets entered ordinary households in the fifties.
+   > **解析**：fifties 表示“五十年代（1950s）”。
 
-5. **中文**：互联网在 20 世纪 90 年代开始迅速改变人们的日常生活。  
-   **英文**：The internet began to change daily life rapidly in the nineteen nineties.
-   > **解析**：nineteen nineties 指“九十年代”（the 1990s），用于表示特定年代背景。
+5. **中文**：年轻一代人成长于互联网和智能手机时代。
+   **英文**：The younger generation grew up with smartphones and internet.
+   > **解析**：generation 表示“一代人/世代”。
 
-6. **中文**：在过去三十年里，该城市的人口显着增长。  
-   **英文**：The city's population grew significantly over the past three decades.
-   > **解析**：population 为集合名词，意为“人口”。常与动词 grow, increase 搭配。
+6. **中文**：这些老树在这个古老的公园里已经生长了数百年。
+   **英文**：These trees have grown here for more than a hundred years.
+   > **解析**：grown 是 grow 的过去分词，表示“生长/成长”。
 
-7. **中文**：伟大的科学突破发生在 20 世纪。  
-   **英文**：Great scientific breakthroughs occurred during the twentieth century.
-   > **解析**：twentieth 为序数词，意为“第二十的”。the twentieth century 指“20 世纪”。
+7. **中文**：依我看，那个年代的歌曲比现在的更好听。
+   **英文**：If you ask me, songs from that decade sound much better.
+   > **解析**：If you ask me 表示“依我看/在我看来”（表达观点）。
 
-8. **中文**：我父母早在 1992 年夏天在大学里第一次相遇。  
-   **英文**：My parents first met at university back in the summer of 1992.
-   > **解析**：1992 为年份数字，英文读作 nineteen ninety-two。
+8. **中文**：智能手机的发明彻底改变了人类的沟通方式。
+   **英文**：The invention of smartphones changed human communication.
+   > **解析**：invention 表示“发明/创造”。
 
-9. **中文**：在那个年代，人们只能通过写纸质信件来沟通。  
-   **英文**：In those days, people could only communicate by writing paper letters.
-   > **解析**：could 为情态动词 can 的过去式，表示过去拥有的能力或许可（could only communicate）。
+9. **中文**：九十年代见证了个人电脑的快速普及。
+   **英文**：Computers became widespread during the nineteen nineties.
+   > **解析**：nineteen nineties 表示“1990年代”。
 
-10. **中文**：当年在高中你可以选择学习法语或德语中的任何一种。  
-   **英文**：You could choose to study either French or German back in high school.
-   > **解析**：either 在此处与 or 搭配构成 either A or B 结构，意为“要么A要么B/两者择一”。
+10. **中文**：摇滚乐在十九六十年代在全球范围内兴起。
+   **英文**：Rock music spread rapidly in the nineteen sixties.
+   > **解析**：nineteen sixties 表示“1960年代”。
+
+11. **中文**：这项伟大的技术突破发生于十九世纪末。
+   **英文**：That historical event took place in the nineteenth century.
+   > **解析**：nineteenth 表示“第十九/十九世纪的”。
+
+12. **中文**：现如今，人们可以通过手机即时获取海量信息。
+   **英文**：Nowadays, people access information instantly via mobile phones.
+   > **解析**：Nowadays 表示“现今/如今”。
+
+13. **中文**：这座城市的常住人口在过去十年间迅速增长。
+   **英文**：The city's population grew dramatically over the past decade.
+   > **解析**：population 表示“人口/居民数量”。
+
+14. **中文**：你还记得我们第一次见面的那个阳光明媚的下午吗？
+   **英文**：Do you remember the afternoon when we first met?
+   > **解析**：remember 表示“记得/想起”。
+
+15. **中文**：请提醒我在今天下班前回复这封电子邮件。
+   **英文**：Please remind me to reply to the email before end of day.
+   > **解析**：remind 表示“提醒/使想起”。
+
+16. **中文**：老实说，我并不十分喜欢那种现代建筑风格。
+   **英文**：To be honest, I don't really care for modern architecture.
+   > **解析**：To be honest 表示“老实说/说实话”。
+
+17. **中文**：人类在二十世纪见证了两次科技革命。
+   **英文**：Space exploration advanced quickly in the twentieth century.
+   > **解析**：twentieth 表示“第二十/二十世纪的”。
+
+18. **中文**：我们生活在充满机遇与挑战的二十一世纪。
+   **英文**：We live in the fast-changing twenty-first century today.
+   > **解析**：twenty-first 表示“第二十一/二十一世纪”。
+
+19. **中文**：我过去无法理解为什么人们那么喜欢老旧的胶片唱片。
+   **英文**：I couldn't understand why people loved vintage vinyl records.
+   > **解析**：couldn't 表示“不能/无法（could not）”。
+
+20. **中文**：要么今天解决这个问题，要么推迟到下周。
+   **英文**：Either fix the issue today or delay it until next week.
+   > **解析**：Either...or... 表示“要么……要么……”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The historic town library was originally constructed in the year 1802.
-   > **中文**：这座历史悠久的镇图书馆最初建于 1802 年。
+1. He was born in a small town during the nineteen nineties.
+   > **中文**：他出生于九十年代的一个小城镇。
 
-2. My grandmother was born in a small coastal village in the nineteen thirties.
-   > **中文**：我奶奶于 20 世纪 30 年代出生在一个沿海小村庄。
+2. Scientists made a major discovery in renewable energy.
+   > **中文**：科学家们在这一年代做出了重大科技发现。
 
-3. Disco music and colorful retro clothes were very popular in the eighties.
-   > **中文**：迪斯科音乐和色彩斑斓的复古服装在 80 年代非常流行。
+3. In the eighties, disco and pop music were popular worldwide.
+   > **中文**：在八十年代，迪斯科和摇滚流行音乐风靡全球。
 
-4. Each generation has its own unique cultural identity and memories.
-   > **中文**：每一代人都有其独特的文化身份和时代记忆。
+4. Television sets entered ordinary households in the fifties.
+   > **中文**：五十年代电视机开始进入千家万户。
 
-5. The internet began to change daily life rapidly in the nineteen nineties.
-   > **中文**：互联网在 20 世纪 90 年代开始迅速改变人们的日常生活。
+5. The younger generation grew up with smartphones and internet.
+   > **中文**：年轻一代人成长于互联网和智能手机时代。
 
-6. The city's population grew significantly over the past three decades.
-   > **中文**：在过去三十年里，该城市的人口显着增长。
+6. These trees have grown here for more than a hundred years.
+   > **中文**：这些老树在这个古老的公园里已经生长了数百年。
 
-7. Great scientific breakthroughs occurred during the twentieth century.
-   > **中文**：伟大的科学突破发生在 20 世纪。
+7. If you ask me, songs from that decade sound much better.
+   > **中文**：依我看，那个年代的歌曲比现在的更好听。
 
-8. My parents first met at university back in the summer of 1992.
-   > **中文**：我父母早在 1992 年夏天在大学里第一次相遇。
+8. The invention of smartphones changed human communication.
+   > **中文**：智能手机的发明彻底改变了人类的沟通方式。
 
-9. In those days, people could only communicate by writing paper letters.
-   > **中文**：在那个年代，人们只能通过写纸质信件来沟通。
+9. Computers became widespread during the nineteen nineties.
+   > **中文**：九十年代见证了个人电脑的快速普及。
 
-10. You could choose to study either French or German back in high school.
-   > **中文**：当年在高中你可以选择学习法语或德语中的任何一种。
+10. Rock music spread rapidly in the nineteen sixties.
+   > **中文**：摇滚乐在十九六十年代在全球范围内兴起。
+
+11. That historical event took place in the nineteenth century.
+   > **中文**：这项伟大的技术突破发生于十九世纪末。
+
+12. Nowadays, people access information instantly via mobile phones.
+   > **中文**：现如今，人们可以通过手机即时获取海量信息。
+
+13. The city's population grew dramatically over the past decade.
+   > **中文**：这座城市的常住人口在过去十年间迅速增长。
+
+14. Do you remember the afternoon when we first met?
+   > **中文**：你还记得我们第一次见面的那个阳光明媚的下午吗？
+
+15. Please remind me to reply to the email before end of day.
+   > **中文**：请提醒我在今天下班前回复这封电子邮件。
+
+16. To be honest, I don't really care for modern architecture.
+   > **中文**：老实说，我并不十分喜欢那种现代建筑风格。
+
+17. Space exploration advanced quickly in the twentieth century.
+   > **中文**：人类在二十世纪见证了两次科技革命。
+
+18. We live in the fast-changing twenty-first century today.
+   > **中文**：我们生活在充满机遇与挑战的二十一世纪。
+
+19. I couldn't understand why people loved vintage vinyl records.
+   > **中文**：我过去无法理解为什么人们那么喜欢老旧的胶片唱片。
+
+20. Either fix the issue today or delay it until next week.
+   > **中文**：要么今天解决这个问题，要么推迟到下周。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| born | 出生 |
+| discovery | 重大发现 |
+| eighties | 八十年代 |
+| fifties | 五十年代 |
+| generation | 一代人 |
+| grown | 生长（grow的过去分词） |
+| if you ask me | 依我看 |
+| invention | 发明 |
+| nineteen nineties | 1990年代 |
+| nineteen sixties | 1960年代 |
+| nineteenth | 第十九 / 十九世纪 |
+| nowadays | 现今 / 如今 |
+| population | 人口 |
+| remember | 记得 |
+| remind | 提醒 |
+| to be honest | 老实说 / 说实话 |
+| twentieth | 第二十 / 二十世纪 |
+| twenty-first | 第二十一 / 21世纪 |
+| couldn't | 不能（could not） |
+| either | 要么 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ the + 年代（the eighties = 80年代）。could / couldn't 表过去能力。
 
 ### 1
 
-The historic town library was originally constructed in the year `____`.
+He was ____ in a small town during the nineteen nineties.
 
-- [x] 1802
+- [x] born
+- [ ] 1802
 - [ ] 1992
-- [ ] could
 
-> **解析**：1802 为年份表达，读作 eighteen hundred and two 或 eighteen oh two。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-My grandmother was `____` in a small coastal village in the nineteen thirties.
+Scientists made a major ____ in renewable energy.
 
-- [x] born
+- [x] discovery
+- [ ] 1802
 - [ ] 1992
-- [ ] couldn't
 
-> **解析**：born 为动词 bear 的过去分词，常与 be 动词连用构成 be born（出生于……）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Disco music and colorful retro clothes were very popular in the `____`.
+In the ____, disco and pop music were popular worldwide.
 
 - [x] eighties
-- [ ] 2016
-- [ ] couldn't
+- [ ] 1802
+- [ ] 1992
 
-> **解析**：eighties 指“八十年代”（the 1980s），前面需加定冠词 the（in the eighties）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Each `____` has its own unique cultural identity and memories.
+Television sets entered ordinary households in the ____.
 
-- [x] generation
-- [ ] 2017
-- [ ] discovery
+- [x] fifties
+- [ ] 1802
+- [ ] 1992
 
-> **解析**：generation 为可数名词，意为“一代人、世代”。Each generation 后接单数动词 has。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The internet began to change daily life rapidly in the `____`.
+The younger ____ grew up with smartphones and internet.
 
-- [x] nineteen nineties
-- [ ] born
-- [ ] eighties
+- [x] generation
+- [ ] 1802
+- [ ] 1992
 
-> **解析**：nineteen nineties 指“九十年代”（the 1990s），用于表示特定年代背景。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The city's `____` grew significantly over the past three decades.
+These trees have ____ here for more than a hundred years.
 
-- [x] population
-- [ ] could
-- [ ] either
+- [x] grown
+- [ ] 1802
+- [ ] 1992
 
-> **解析**：population 为集合名词，意为“人口”。常与动词 grow, increase 搭配。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Great scientific breakthroughs occurred during the `____` century.
+If you ask me, songs from that ____ sound much better.
 
-- [x] twentieth
-- [ ] couldn't
-- [ ] fifties
+- [x] decade
+- [ ] 1802
+- [ ] 1992
 
-> **解析**：twentieth 为序数词，意为“第二十的”。the twentieth century 指“20 世纪”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-My parents first met at university back in the summer of `____`.
+The ____ of smartphones changed human communication.
 
-- [x] 1992
-- [ ] eighties
-- [ ] grown
+- [x] invention
+- [ ] 1802
+- [ ] 1992
 
-> **解析**：1992 为年份数字，英文读作 nineteen ninety-two。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-In those days, people `____` only communicate by writing paper letters.
+Computers became ____ during the nineteen nineties.
 
-- [x] could
-- [ ] either
-- [ ] if you ask me
+- [x] widespread
+- [ ] 1802
+- [ ] 1992
 
-> **解析**：could 为情态动词 can 的过去式，表示过去拥有的能力或许可（could only communicate）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-You could choose to study `____` French or German back in high school.
+Rock music spread rapidly in the ____ sixties.
 
-- [x] either
-- [ ] fifties
-- [ ] invention
+- [x] nineteen
+- [ ] 1802
+- [ ] 1992
 
-> **解析**：either 在此处与 or 搭配构成 either A or B 结构，意为“要么A要么B/两者择一”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+That historical event took place in the ____ century.
+
+- [x] nineteenth
+- [ ] 1802
+- [ ] 1992
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+____, people access information instantly via mobile phones.
+
+- [x] Nowadays
+- [ ] 1802
+- [ ] 1992
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The city's ____ grew dramatically over the past decade.
+
+- [x] population
+- [ ] 1802
+- [ ] 1992
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Do you ____ the afternoon when we first met?
+
+- [x] remember
+- [ ] 1802
+- [ ] 1992
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Please ____ me to reply to the email before end of day.
+
+- [x] remind
+- [ ] 1802
+- [ ] 1992
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+To be honest, I don't really care for modern ____.
+
+- [x] architecture
+- [ ] 1802
+- [ ] 1992
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Space exploration advanced quickly in the ____ century.
+
+- [x] twentieth
+- [ ] 1802
+- [ ] 1992
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+We live in the fast-changing ____ century today.
+
+- [x] twenty-first
+- [ ] 1802
+- [ ] 1992
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+I ____ understand why people loved vintage vinyl records.
+
+- [x] couldn't
+- [ ] 1802
+- [ ] 1992
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+____ fix the issue today or delay it until next week.
+
+- [x] Either
+- [ ] 1802
+- [ ] 1992
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

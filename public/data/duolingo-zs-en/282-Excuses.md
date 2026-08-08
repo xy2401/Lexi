@@ -65,83 +65,176 @@ background information, corporation, credit, efficient, failure to, follow up, g
 
 <quiz-sentence-builder>
 
-1. **中文**：非常抱歉我忘了你的生日，我彻底把这事给忘了。  
-   **英文**：I am so sorry I forgot your birthday; it completely slipped my mind background information.
-   > **解析**：`slip one's mind` 是习惯用语，意为“（某事）被某人遗忘”，主语通常为被遗忘的事物。
+1. **中文**：我正在跟进上周二我们的邮件讨论。
+   **英文**：I am following up on our email discussion from last Tuesday.
+   > **解析**：follow up on 表示跟进某项事务或对话。
 
-2. **中文**：把你的名字漏在邀请名单之外是一个令人遗憾的疏忽。  
-   **英文**：Leaving your name off the invitation list was an unfortunate oversight about corporation.
-   > **解析**：`oversight` 是名词，意为“疏忽、失误”，由 `over-` + `sight` 构成。
+2. **中文**：鉴于截止日期是明天，我们必须迅速行动。
+   **英文**：Given that the deadline is tomorrow, we must work quickly.
+   > **解析**：Given that 引导条件或原因，意为“鉴于、考虑到”。
 
-3. **中文**：由于一场突如其来的会议，我们不得不重新安排下午的预约。  
-   **英文**：Due to an unexpected meeting, we had to reschedule our afternoon appointment about credit.
-   > **解析**：`reschedule` 是动词，由前缀 `re-` + `schedule` 构成，意为“改期、重新安排日程”。
+3. **中文**：在开会之前，请仔细阅读这份文档。
+   **英文**：Prior to the conference, please review the document carefully.
+   > **解析**：Prior to 介词短语，比 before 更正式，意为“在……之前”。
 
-4. **中文**：我今晚不能陪你吃晚饭了，但我改天再聚可以吗？  
-   **英文**：I cannot join you for dinner tonight, but can I take a rain check about efficient.
-   > **解析**：`take a rain check` 是口语习惯表达，意为“改期、改天再约（婉拒当次邀请）”。
+4. **中文**：要是过去这是个技术问题，我们早就会解决了。
+   **英文**：Had it been a technical issue, we would have solved it sooner.
+   > **解析**：Had it been 是 If it had been 的虚拟倒装表达。
 
-5. **中文**：我把预约时间给弄混了，结果早到了一小时。  
-   **英文**：I got the appointment times mixed up and arrived an hour early failure to.
-   > **解析**：`get sth. mixed up` 是动词短语，意为“搞混、记错”。
+5. **中文**：停止找借口，为你的工作承担起责任。
+   **英文**：Stop making excuses and take responsibility for your work.
+   > **解析**：make excuses 表示找借口、推卸责任。
 
-6. **中文**：延误是由两部门之间一次简单的沟通误解造成的。  
-   **英文**：The delay was caused by a simple miscommunication between the two departments follow up.
-   > **解析**：`miscommunication` 是名词，由前缀 `mis-`（错误）+ `communication` 构成，意为“沟通不畅、误会”。
+6. **中文**：我们有遵守安全流程的义务。
+   **英文**：We have an obligation to follow safety procedures.
+   > **解析**：obligation 表示义务、责任。
 
-7. **中文**：抱歉刚才没接到你的电话，我当时正抽不开身在开一个紧急会议。  
-   **英文**：Sorry I missed your call earlier; I was caught up in an urgent meeting given that.
-   > **解析**：`be caught up in...` 意为“被……缠住、忙于……而抽不开身”。
+7. **中文**：完成这份报告是我们本周的首要任务。
+   **英文**：Completing this report is our top priority this week.
+   > **解析**：priority 表示优先事项、重点。
 
-8. **中文**：他没法聊太久，因为他的时间非常紧迫。  
-   **英文**：He couldn't chat for long because he was severely pressed about guidelines.
-   > **解析**：`pressed for time` 是习惯短语，意为“时间紧迫、缺乏时间”，在句中作表语。
+8. **中文**：经理分发了关于远程工作的新指南。
+   **英文**：The manager sent out new guidelines for remote working.
+   > **解析**：guidelines 常用复数，表示指南、准则。
 
-9. **中文**：由于日程冲突，她无法出席该会议。  
-   **英文**：She could not attend the conference because of a schedule conflict had been.
-   > **解析**：`conflict` 在此作名词，意为“（时间/日程）冲突”，短语 `schedule conflict` 表示“日程冲突”。
+9. **中文**：未能达成目标将会导致项目延期。
+   **英文**：Failure to meet the target will result in a delay.
+   > **解析**：Failure to do something 表示未能做到某事。
 
-10. **中文**：对于这次延误可能造成的任何不便，请接受我诚挚的道歉。  
-   **英文**：Please accept my sincere apology for any inconvenience this delay may have caused had it been.
-   > **解析**：`apology` 是可数名词，意为“道歉、歉意”，常用搭配 `sincere apology`（诚挚的道歉）。
+10. **中文**：整个团队都应当因为这项成就受到赞许和功劳。
+   **英文**：The entire team deserves credit for this achievement.
+   > **解析**：credit 表示功劳、认可。
+
+11. **中文**：她是一位办事高效、从不浪费时间的经理。
+   **英文**：She is a very efficient manager who wastes no time.
+   > **解析**：efficient 表示高效的、省时省力的。
+
+12. **中文**：针对这个问题我们需要一个实际可行的解决方案，而不只是理论。
+   **英文**：We need a practical solution to this problem, not just theory.
+   > **解析**：practical 表示实际的、可行的。
+
+13. **中文**：我们的团队正在处理一个严重的技术故障。
+   **英文**：Our team is dealing with a serious technical glitch.
+   > **解析**：technical 表示技术的、专业的。
+
+14. **中文**：他在一家总部位于芝加哥的大企业工作。
+   **英文**：He works for a multinational corporation based in Chicago.
+   > **解析**：corporation 表示大公司、企业法人。
+
+15. **中文**：我们将在今天结束前把邀请函发出去。
+   **英文**：We will send out the invitations by the end of the day.
+   > **解析**：send out 表示发出、分发。
+
+16. **中文**：根据我的观察，工作效率已经提升了。
+   **英文**：According to my observation, productivity has increased.
+   > **解析**：observation 表示观察、观察结果。
+
+17. **中文**：事实并不是我们忽视了你的反馈。
+   **英文**：It is not the case that we ignored your feedback.
+   > **解析**：the case that 表示“……的情况/事实”。
+
+18. **中文**：这位客户具有巨大的长期增长潜力。
+   **英文**：This client has great potential for long-term growth.
+   > **解析**：potential 表示潜力、潜在的。
+
+19. **中文**：我们成功达成了本季度的销售目标。
+   **英文**：We managed to reach our sales target for the quarter.
+   > **解析**：target 表示目标、指标。
+
+20. **中文**：请在演示前提供一些背景信息。
+   **英文**：Please provide some background information before the presentation.
+   > **解析**：background information 表示背景信息。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I am so sorry I forgot your birthday; it completely slipped my mind background information.
-   > **中文**：非常抱歉我忘了你的生日，我彻底把这事给忘了。
+1. I am following up on our email discussion from last Tuesday.
+   > **中文**：我正在跟进上周二我们的邮件讨论。
 
-2. Leaving your name off the invitation list was an unfortunate oversight about corporation.
-   > **中文**：把你的名字漏在邀请名单之外是一个令人遗憾的疏忽。
+2. Given that the deadline is tomorrow, we must work quickly.
+   > **中文**：鉴于截止日期是明天，我们必须迅速行动。
 
-3. Due to an unexpected meeting, we had to reschedule our afternoon appointment about credit.
-   > **中文**：由于一场突如其来的会议，我们不得不重新安排下午的预约。
+3. Prior to the conference, please review the document carefully.
+   > **中文**：在开会之前，请仔细阅读这份文档。
 
-4. I cannot join you for dinner tonight, but can I take a rain check about efficient.
-   > **中文**：我今晚不能陪你吃晚饭了，但我改天再聚可以吗？
+4. Had it been a technical issue, we would have solved it sooner.
+   > **中文**：要是过去这是个技术问题，我们早就会解决了。
 
-5. I got the appointment times mixed up and arrived an hour early failure to.
-   > **中文**：我把预约时间给弄混了，结果早到了一小时。
+5. Stop making excuses and take responsibility for your work.
+   > **中文**：停止找借口，为你的工作承担起责任。
 
-6. The delay was caused by a simple miscommunication between the two departments follow up.
-   > **中文**：延误是由两部门之间一次简单的沟通误解造成的。
+6. We have an obligation to follow safety procedures.
+   > **中文**：我们有遵守安全流程的义务。
 
-7. Sorry I missed your call earlier; I was caught up in an urgent meeting given that.
-   > **中文**：抱歉刚才没接到你的电话，我当时正抽不开身在开一个紧急会议。
+7. Completing this report is our top priority this week.
+   > **中文**：完成这份报告是我们本周的首要任务。
 
-8. He couldn't chat for long because he was severely pressed about guidelines.
-   > **中文**：他没法聊太久，因为他的时间非常紧迫。
+8. The manager sent out new guidelines for remote working.
+   > **中文**：经理分发了关于远程工作的新指南。
 
-9. She could not attend the conference because of a schedule conflict had been.
-   > **中文**：由于日程冲突，她无法出席该会议。
+9. Failure to meet the target will result in a delay.
+   > **中文**：未能达成目标将会导致项目延期。
 
-10. Please accept my sincere apology for any inconvenience this delay may have caused had it been.
-   > **中文**：对于这次延误可能造成的任何不便，请接受我诚挚的道歉。
+10. The entire team deserves credit for this achievement.
+   > **中文**：整个团队都应当因为这项成就受到赞许和功劳。
+
+11. She is a very efficient manager who wastes no time.
+   > **中文**：她是一位办事高效、从不浪费时间的经理。
+
+12. We need a practical solution to this problem, not just theory.
+   > **中文**：针对这个问题我们需要一个实际可行的解决方案，而不只是理论。
+
+13. Our team is dealing with a serious technical glitch.
+   > **中文**：我们的团队正在处理一个严重的技术故障。
+
+14. He works for a multinational corporation based in Chicago.
+   > **中文**：他在一家总部位于芝加哥的大企业工作。
+
+15. We will send out the invitations by the end of the day.
+   > **中文**：我们将在今天结束前把邀请函发出去。
+
+16. According to my observation, productivity has increased.
+   > **中文**：根据我的观察，工作效率已经提升了。
+
+17. It is not the case that we ignored your feedback.
+   > **中文**：事实并不是我们忽视了你的反馈。
+
+18. This client has great potential for long-term growth.
+   > **中文**：这位客户具有巨大的长期增长潜力。
+
+19. We managed to reach our sales target for the quarter.
+   > **中文**：我们成功达成了本季度的销售目标。
+
+20. Please provide some background information before the presentation.
+   > **中文**：请在演示前提供一些背景信息。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| follow up | 跟进 / 后续确认 |
+| given that | 鉴于 / 考虑到 |
+| prior to | 在……之前 |
+| had it been | 要是过去是……的话（倒装） |
+| making excuses | 找借口 |
+| obligation | 义务 / 责任 |
+| priority | 优先事项 / 重点 |
+| guidelines | 指南 / 准则 |
+| failure to | 未能做到…… |
+| credit | 功劳 / 赞许 |
+| efficient | 高效的 |
+| practical | 实际的 / 可行的 |
+| technical | 技术的 / 专业的 |
+| corporation | 大公司 / 企业 |
+| send out | 发出 / 分发 |
+| observation | 观察 / 观察结果 |
+| the case that | ……的情况 |
+| potential | 潜力 / 潜在的 |
+| target | 目标 / 指标 |
+| background information | 背景信息 |
 
 </quiz-matching>
 
@@ -149,102 +242,202 @@ background information, corporation, credit, efficient, failure to, follow up, g
 
 ### 1
 
-I am so sorry I forgot your birthday; it completely slipped my mind `____`.
+I am following up on our email ____ from last Tuesday.
 
-- [x] background information
+- [x] discussion
+- [ ] background information
 - [ ] corporation
-- [ ] follow up
 
-> **解析**：`slip one's mind` 是习惯用语，意为“（某事）被某人遗忘”，主语通常为被遗忘的事物。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Leaving your name off the invitation list was an unfortunate oversight about `____`.
+Given that the ____ is tomorrow, we must work quickly.
 
-- [x] corporation
-- [ ] credit
-- [ ] given that
+- [x] deadline
+- [ ] background information
+- [ ] corporation
 
-> **解析**：`oversight` 是名词，意为“疏忽、失误”，由 `over-` + `sight` 构成。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Due to an unexpected meeting, we had to reschedule our afternoon appointment about `____`.
+____ to the conference, please review the document carefully.
 
-- [x] credit
-- [ ] efficient
-- [ ] guidelines
+- [x] Prior
+- [ ] background information
+- [ ] corporation
 
-> **解析**：`reschedule` 是动词，由前缀 `re-` + `schedule` 构成，意为“改期、重新安排日程”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-I cannot join you for dinner tonight, but can I take a rain check about `____`.
+Had it been a ____ issue, we would have solved it sooner.
 
-- [x] efficient
-- [ ] failure to
-- [ ] had been
+- [x] technical
+- [ ] background information
+- [ ] corporation
 
-> **解析**：`take a rain check` 是口语习惯表达，意为“改期、改天再约（婉拒当次邀请）”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-I got the appointment times mixed up and arrived an hour early `____`.
+Stop making excuses and take ____ for your work.
 
-- [x] failure to
-- [ ] follow up
-- [ ] had it been
+- [x] responsibility
+- [ ] background information
+- [ ] corporation
 
-> **解析**：`get sth. mixed up` 是动词短语，意为“搞混、记错”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The delay was caused by a simple miscommunication between the two departments `____`.
+We have an ____ to follow safety procedures.
 
-- [x] follow up
-- [ ] given that
-- [ ] hadn't been
+- [x] obligation
+- [ ] background information
+- [ ] corporation
 
-> **解析**：`miscommunication` 是名词，由前缀 `mis-`（错误）+ `communication` 构成，意为“沟通不畅、误会”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Sorry I missed your call earlier; I was caught up in an urgent meeting `____`.
+Completing this report is our top ____ this week.
 
-- [x] given that
-- [ ] guidelines
-- [ ] hadn't it
+- [x] priority
+- [ ] background information
+- [ ] corporation
 
-> **解析**：`be caught up in...` 意为“被……缠住、忙于……而抽不开身”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-He couldn't chat for long because he was severely pressed about `____`.
+The manager sent out new ____ for remote working.
 
 - [x] guidelines
-- [ ] had been
-- [ ] making excuses
+- [ ] background information
+- [ ] corporation
 
-> **解析**：`pressed for time` 是习惯短语，意为“时间紧迫、缺乏时间”，在句中作表语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-She could not attend the conference because of a schedule conflict `____`.
+Failure to meet the ____ will result in a delay.
 
-- [x] had been
-- [ ] had it been
-- [ ] matter
+- [x] target
+- [ ] background information
+- [ ] corporation
 
-> **解析**：`conflict` 在此作名词，意为“（时间/日程）冲突”，短语 `schedule conflict` 表示“日程冲突”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Please accept my sincere apology for any inconvenience this delay may have caused `____`.
+The entire team deserves ____ for this achievement.
 
-- [x] had it been
-- [ ] hadn't been
-- [ ] obligation
+- [x] credit
+- [ ] background information
+- [ ] corporation
 
-> **解析**：`apology` 是可数名词，意为“道歉、歉意”，常用搭配 `sincere apology`（诚挚的道歉）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+She is a very ____ manager who wastes no time.
+
+- [x] efficient
+- [ ] background information
+- [ ] corporation
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+We need a ____ solution to this problem, not just theory.
+
+- [x] practical
+- [ ] background information
+- [ ] corporation
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Our team is dealing with a serious ____ glitch.
+
+- [x] technical
+- [ ] background information
+- [ ] corporation
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+He works for a multinational ____ based in Chicago.
+
+- [x] corporation
+- [ ] background information
+- [ ] credit
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+We will send out the ____ by the end of the day.
+
+- [x] invitations
+- [ ] background information
+- [ ] corporation
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+According to my ____, productivity has increased.
+
+- [x] observation
+- [ ] background information
+- [ ] corporation
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+It is not the case that we ignored your ____.
+
+- [x] feedback
+- [ ] background information
+- [ ] corporation
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+This client has great ____ for long-term growth.
+
+- [x] potential
+- [ ] background information
+- [ ] corporation
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+We managed to reach our sales ____ for the quarter.
+
+- [x] target
+- [ ] background information
+- [ ] corporation
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Please provide some background information before the ____.
+
+- [x] presentation
+- [ ] background information
+- [ ] corporation
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

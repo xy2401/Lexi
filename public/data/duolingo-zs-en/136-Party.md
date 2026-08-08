@@ -61,83 +61,176 @@ in my opinion 表示"在我看来"。sound like / seem like / look like 表示"�
 
 <quiz-sentence-builder>
 
-1. **中文**：既然周五是我的休息日，我可以一整天帮忙布置派对装饰。  
-   **英文**：Since Friday is my day off, I can help organize the party decorations all day.
-   > **解析**：day off 为名词短语，意为“休息日、休假”。on one's day off 表示“在某人的休息日”。
+1. **中文**：在我看来，在休息日做卷心菜和虾仁很棒。  
+   **英文**：In my opinion, cooking cabbage and shrimp on a day off is great.
+   > **解析**：in my opinion 表示“在我看来”；cabbage 表示“卷心菜/甘蓝”；shrimp 表示“虾仁/虾”；day off 表示“休息日”。
 
-2. **中文**：在我看来，请一个现场乐队会让生日派对更加热闹。  
-   **英文**：In my opinion, hiring a live band will make the birthday party more lively.
-   > **解析**：in my opinion 为固定介词短语，置于句首作插入语/状语，意为“在我看来、依我之见”。表达个人观点。
+2. **中文**：虽然销售额增加了，但他不得不支付额外的辣椒费用。  
+   **英文**：Although sales increased, he had to pay extra for chili.
+   > **解析**：although 表示“虽然/尽管”；increase 表示“增加”；chili 表示“辣椒”。
 
-3. **中文**：夏威夷海滩主题听起来是个绝妙的派对主意！  
-   **英文**：Hawaiian beach themes sound like a fantastic idea for the party.
-   > **解析**：sound like 为动词短语，意为“听起来像”。后接名词或名词短语（a fantastic idea）。
+3. **中文**：你能想象在舞台上表演并把手搭在滚轮上吗？  
+   **英文**：Can you imagine performing on stage and rolling a wheel?
+   > **解析**：imagine 表示“想象”；perform 表示“表演”；roll 表示“滚动/卷”。
 
-4. **中文**：我们应当为派对菜单订购新鲜的烤虾和点心。  
-   **英文**：We should order fresh grilled shrimp and snacks for the party menu.
-   > **解析**：shrimp 为名词，意为“虾、大虾”。grilled shrimp 表示“烤虾”。单复数形式同形或加 -s。
+4. **中文**：在等候响应时，加一盘豌豆和虾肉看起来不错。  
+   **英文**：While waiting for response, a plate of pea and shrimp seems nice.
+   > **解析**：pea 表示“豌豆”；shrimp 表示“虾仁”；seem / seems like 表示“看起来像”；response 表示“回应/响应”。
 
-5. **中文**：大卫因为出差不能来参加派对，真是太可惜了。  
-   **英文**：It is too bad that David cannot come to the party because of a business trip.
-   > **解析**：too bad 为固定表达，意为“太遗憾了、太可惜了”。It is too bad that... 引导从句，表达遗憾之情。
+5. **中文**：太可惜了！她因为生病无法在派对上表演了。  
+   **英文**：Too bad! She cannot perform at the party due to illness.
+   > **解析**：too bad 表示“太可惜了/太遗憾了”；perform 表示“表演”。
 
-6. **中文**：我们邀请的几乎每个人都给予了积极的回应。  
-   **英文**：We received a positive response from almost everyone we invited to the event.
-   > **解析**：response 为名词，意为“回应、回复”。receive a positive response 表示“收到积极回应”。与介词 to 搭配（response to the invitation）。
+6. **中文**：除了豌豆之外，你还想加点什么？  
+   **英文**：Plus, what else do you want to add besides peas?
+   > **解析**：plus 表示“加上/此外”；pea / peas 表示“豌豆”。
 
-7. **中文**：我们需要弄清楚场地是否允许外部餐饮服务。  
-   **英文**：We need to find out whether the venue allows outside catering services.
-   > **解析**：whether 为连词，引导宾语从句，意为“是否”。与 or not 连用（whether or not...）。
+7. **中文**：这听起来像是一个很棒的派对点子。  
+   **英文**：That sounds like a wonderful party idea for us.
+   > **解析**：sound like / sounds like 表示“听起来像”。
 
-8. **中文**：虽然预算紧缺，我们仍然可以举办一次令人难忘的欢送派对。  
-   **英文**：Although the budget is tight, we can still host a memorable farewell party.
-   > **解析**：although 为从属连词，引导让步状语从句，意为“虽然、尽管”。注意不能与 but 在同一个句子中连用。
+8. **中文**：她把卷心菜叶卷了起来，准备做卷心菜包肉。  
+   **英文**：She rolled up the cabbage leaf to make stuffed cabbage.
+   > **解析**：rolled 是 roll 的过去式；cabbage 表示“卷心菜”。
 
-9. **中文**：有了五彩斑斓的气球，场地看起来可以像一座童话宫殿。  
-   **英文**：With colorful balloons, the venue can look like a fairy palace.
-   > **解析**：look like 为动词短语，意为“看起来像”。后接名词短语（a fairy palace）。
+9. **中文**：你能在休息日帮我搭个顺风车吗？  
+   **英文**：Can you give me a lift on your day off?
+   > **解析**：give a lift 表示“搭顺风车/送一程”；day off 表示“休息日”。
 
-10. **中文**：我无法想象当她看到这个惊喜派对时会有多激动！  
-   **英文**：I cannot imagine how excited she will be when she sees the surprise party.
-   > **解析**：imagine 为动词，意为“想象”。后接感叹句/疑问词引导的宾语从句（how excited she will be）。
+10. **中文**：不管是否下雨，派对都会按计划举行。  
+   **英文**：Whether it rains or not, the party goes on.
+   > **解析**：whether 表示“是否”。
+
+11. **中文**：在我看来，这道炒辣椒虾仁味道非常地道。  
+   **英文**：In my opinion, this chili shrimp dish tastes great.
+   > **解析**：in my opinion 表示“在我看来”；shrimp 表示“虾”。
+
+12. **中文**：太可惜了，我们错过了今晚精彩的音乐表演。  
+   **英文**：Too bad that we missed the great music performance.
+   > **解析**：too bad 表示“太可惜了”。
+
+13. **中文**：你能在脑海中想象出那个美丽的画面吗？  
+   **英文**：Can you imagine how beautiful the scene was?
+   > **解析**：imagine 表示“想象”。
+
+14. **中文**：这位优秀的演员在舞台上表演得非常出色。  
+   **英文**：The famous actor performed brilliantly on stage.
+   > **解析**：performed / perform 表示“表演/演戏”。
+
+15. **中文**：公司决定提高优秀员工的月度薪水。  
+   **英文**：The company decided to increase the monthly pay.
+   > **解析**：increase 表示“增加/提高”；pay 表示“薪水/支付”。
+
+16. **中文**：把面团卷成一个圆球，然后放进烘焙箱里。  
+   **英文**：Roll the dough into a ball and put it in the oven.
+   > **解析**：roll 表示“卷/滚动”。
+
+17. **中文**：那道菜看起来像是一份精致的法语大餐。  
+   **英文**：That dish seems like a fine French meal.
+   > **解析**：seems like 表示“看起来像”。
+
+18. **中文**：我今天休假，不上班。  
+   **英文**：I am taking my day off today, so I don't work.
+   > **解析**：day off 表示“休息日/休假”。
+
+19. **中文**：请在收到信件后及时给予回复。  
+   **英文**：Please give a quick response after receiving the letter.
+   > **解析**：response 表示“回复/响应”。
+
+20. **中文**：一打新鲜的虾仁和豌豆被装在盘子里。  
+   **英文**：A dozen fresh shrimp and peas were put on the plate.
+   > **解析**：shrimp 表示“虾仁/虾”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Since Friday is my day off, I can help organize the party decorations all day.
-   > **中文**：既然周五是我的休息日，我可以一整天帮忙布置派对装饰。
+1. In my opinion, cooking cabbage and shrimp on a day off is great.
+   > **中文**：在我看来，在休息日做卷心菜和虾仁很棒。
 
-2. In my opinion, hiring a live band will make the birthday party more lively.
-   > **中文**：在我看来，请一个现场乐队会让生日派对更加热闹。
+2. Although sales increased, he had to pay extra for chili.
+   > **中文**：虽然销售额增加了，但他不得不支付额外的辣椒费用。
 
-3. Hawaiian beach themes sound like a fantastic idea for the party.
-   > **中文**：夏威夷海滩主题听起来是个绝妙的派对主意！
+3. Can you imagine performing on stage and rolling a wheel?
+   > **中文**：你能想象在舞台上表演并把手搭在滚轮上吗？
 
-4. We should order fresh grilled shrimp and snacks for the party menu.
-   > **中文**：我们应当为派对菜单订购新鲜的烤虾和点心。
+4. While waiting for response, a plate of pea and shrimp seems nice.
+   > **中文**：在等候响应时，加一盘豌豆和虾肉看起来不错。
 
-5. It is too bad that David cannot come to the party because of a business trip.
-   > **中文**：大卫因为出差不能来参加派对，真是太可惜了。
+5. Too bad! She cannot perform at the party due to illness.
+   > **中文**：太可惜了！她因为生病无法在派对上表演了。
 
-6. We received a positive response from almost everyone we invited to the event.
-   > **中文**：我们邀请的几乎每个人都给予了积极的回应。
+6. Plus, what else do you want to add besides peas?
+   > **中文**：除了豌豆之外，你还想加点什么？
 
-7. We need to find out whether the venue allows outside catering services.
-   > **中文**：我们需要弄清楚场地是否允许外部餐饮服务。
+7. That sounds like a wonderful party idea for us.
+   > **中文**：这听起来像是一个很棒的派对点子。
 
-8. Although the budget is tight, we can still host a memorable farewell party.
-   > **中文**：虽然预算紧缺，我们仍然可以举办一次令人难忘的欢送派对。
+8. She rolled up the cabbage leaf to make stuffed cabbage.
+   > **中文**：她把卷心菜叶卷了起来，准备做卷心菜包肉。
 
-9. With colorful balloons, the venue can look like a fairy palace.
-   > **中文**：有了五彩斑斓的气球，场地看起来可以像一座童话宫殿。
+9. Can you give me a lift on your day off?
+   > **中文**：你能在休息日帮我搭个顺风车吗？
 
-10. I cannot imagine how excited she will be when she sees the surprise party.
-   > **中文**：我无法想象当她看到这个惊喜派对时会有多激动！
+10. Whether it rains or not, the party goes on.
+   > **中文**：不管是否下雨，派对都会按计划举行。
+
+11. In my opinion, this chili shrimp dish tastes great.
+   > **中文**：在我看来，这道炒辣椒虾仁味道非常地道。
+
+12. Too bad that we missed the great music performance.
+   > **中文**：太可惜了，我们错过了今晚精彩的音乐表演。
+
+13. Can you imagine how beautiful the scene was?
+   > **中文**：你能在脑海中想象出那个美丽的画面吗？
+
+14. The famous actor performed brilliantly on stage.
+   > **中文**：这位优秀的演员在舞台上表演得非常出色。
+
+15. The company decided to increase the monthly pay.
+   > **中文**：公司决定提高优秀员工的月度薪水。
+
+16. Roll the dough into a ball and put it in the oven.
+   > **中文**：把面团卷成一个圆球，然后放进烘焙箱里。
+
+17. That dish seems like a fine French meal.
+   > **中文**：那道菜看起来像是一份精致的法语大餐。
+
+18. I am taking my day off today, so I don't work.
+   > **中文**：我今天休假，不上班。
+
+19. Please give a quick response after receiving the letter.
+   > **中文**：请在收到信件后及时给予回复。
+
+20. A dozen fresh shrimp and peas were put on the plate.
+   > **中文**：一打新鲜的虾仁和豌豆被装在盘子里。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| although | 虽然 / 尽管 |
+| cabbage | 卷心菜 / 甘蓝 |
+| chili | 辣椒 |
+| day off | 休息日 / 休假 |
+| imagine | 想象 |
+| in my opinion | 在我看来 |
+| increase | 增加 / 提高 |
+| lift | 搭顺风车 / 电梯 |
+| look like | 看起来像 |
+| pay | 薪水 / 支付 |
+| pea | 豌豆 |
+| perform | 表演 |
+| plus | 加上 / 此外 |
+| response | 回复 / 响应 |
+| roll | 卷 / 滚动 |
+| seem like | 看起来像 |
+| shrimp | 虾 / 虾仁 |
+| sound like | 听起来像 |
+| too bad | 太可惜了 / 太遗憾了 |
+| whether | 是否 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ in my opinion 表示"在我看来"。sound like / seem like / look like 表示"�
 
 ### 1
 
-Since Friday is my `____`, I can help organize the party decorations all day.
+In my opinion, cooking ____ and shrimp on a day off is great.
 
-- [x] day off
+- [x] cabbage
 - [ ] although
-- [ ] in my opinion
+- [ ] chili
 
-> **解析**：day off 为名词短语，意为“休息日、休假”。on one's day off 表示“在某人的休息日”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-`____`, hiring a live band will make the birthday party more lively.
+____ sales increased, he had to pay extra for chili.
 
-- [x] in my opinion
+- [x] Although
 - [ ] cabbage
-- [ ] increase
+- [ ] chili
 
-> **解析**：in my opinion 为固定介词短语，置于句首作插入语/状语，意为“在我看来、依我之见”。表达个人观点。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Hawaiian beach themes `____` a fantastic idea for the party.
+Can you ____ performing on stage and rolling a wheel?
 
-- [x] sound like
-- [ ] chili
-- [ ] increase
+- [x] imagine
+- [ ] although
+- [ ] cabbage
 
-> **解析**：sound like 为动词短语，意为“听起来像”。后接名词或名词短语（a fantastic idea）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-We should order fresh grilled `____` and snacks for the party menu.
+____ waiting for response, a plate of pea and shrimp seems nice.
 
-- [x] shrimp
-- [ ] day off
-- [ ] lift
+- [x] While
+- [ ] although
+- [ ] cabbage
 
-> **解析**：shrimp 为名词，意为“虾、大虾”。grilled shrimp 表示“烤虾”。单复数形式同形或加 -s。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-It is `____` that David cannot come to the party because of a business trip.
+Too bad! She cannot ____ at the party due to illness.
 
-- [x] too bad
-- [ ] imagine
-- [ ] look like
+- [x] perform
+- [ ] although
+- [ ] cabbage
 
-> **解析**：too bad 为固定表达，意为“太遗憾了、太可惜了”。It is too bad that... 引导从句，表达遗憾之情。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-We received a positive `____` from almost everyone we invited to the event.
+____, what else do you want to add besides peas?
 
-- [x] response
-- [ ] in my opinion
-- [ ] pay
+- [x] Plus
+- [ ] although
+- [ ] cabbage
 
-> **解析**：response 为名词，意为“回应、回复”。receive a positive response 表示“收到积极回应”。与介词 to 搭配（response to the invitation）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-We need to find out `____` the venue allows outside catering services.
+That sounds like a ____ party idea for us.
 
-- [x] whether
-- [ ] increase
-- [ ] pea
+- [x] wonderful
+- [ ] although
+- [ ] cabbage
 
-> **解析**：whether 为连词，引导宾语从句，意为“是否”。与 or not 连用（whether or not...）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-`____` the budget is tight, we can still host a memorable farewell party.
+She rolled up the ____ leaf to make stuffed cabbage.
 
-- [x] although
-- [ ] look like
-- [ ] plus
+- [x] cabbage
+- [ ] although
+- [ ] chili
 
-> **解析**：although 为从属连词，引导让步状语从句，意为“虽然、尽管”。注意不能与 but 在同一个句子中连用。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-With colorful balloons, the venue can `____` a fairy palace.
+Can you give me a ____ on your day off?
 
-- [x] look like
-- [ ] pay
-- [ ] response
+- [x] lift
+- [ ] although
+- [ ] cabbage
 
-> **解析**：look like 为动词短语，意为“看起来像”。后接名词短语（a fairy palace）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-I cannot `____` how excited she will be when she sees the surprise party.
+____ it rains or not, the party goes on.
+
+- [x] Whether
+- [ ] although
+- [ ] cabbage
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+In my opinion, this ____ shrimp dish tastes great.
+
+- [x] chili
+- [ ] although
+- [ ] cabbage
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Too bad that we missed the great music ____.
+
+- [x] performance
+- [ ] although
+- [ ] cabbage
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Can you ____ how beautiful the scene was?
 
 - [x] imagine
-- [ ] pea
-- [ ] roll
+- [ ] although
+- [ ] cabbage
 
-> **解析**：imagine 为动词，意为“想象”。后接感叹句/疑问词引导的宾语从句（how excited she will be）。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The famous actor performed ____ on stage.
+
+- [x] brilliantly
+- [ ] although
+- [ ] cabbage
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The company decided to ____ the monthly pay.
+
+- [x] increase
+- [ ] although
+- [ ] cabbage
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+____ the dough into a ball and put it in the oven.
+
+- [x] Roll
+- [ ] although
+- [ ] cabbage
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+That dish seems like a fine ____ meal.
+
+- [x] French
+- [ ] although
+- [ ] cabbage
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+I am ____ my day off today, so I don't work.
+
+- [x] taking
+- [ ] although
+- [ ] cabbage
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Please give a quick ____ after receiving the letter.
+
+- [x] response
+- [ ] although
+- [ ] cabbage
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+A dozen fresh ____ and peas were put on the plate.
+
+- [x] shrimp
+- [ ] although
+- [ ] cabbage
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

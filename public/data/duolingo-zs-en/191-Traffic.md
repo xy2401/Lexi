@@ -51,83 +51,176 @@ had better 比 should 语气更强，暗示"不这样做会有不好的后果"�
 
 <quiz-sentence-builder>
 
-1. **中文**：在启动汽车发动机前，务必扣好安全带。  
-   **英文**：Always fasten your seatbelt before starting the car engine.
-   > **解析**：seatbelt 可数名词，意为“安全带”，常与 fasten 或 wear 搭配。
+1. **中文**：驾驶员被允许在公共停车场免费停车一小时。
+   **英文**：Drivers are allowed to park here for one hour.
+   > **解析**：allowed to 表示“被允许……”；park 意为“停车”。
 
-2. **中文**：确保后排所有乘客都系好安全带。  
-   **英文**：Make sure all passengers buckle up safely in the back seat.
-   > **解析**：buckle 动词，常用短语 buckle up 表示“扣紧/系好安全带”。
+2. **中文**：开车前请务必扣紧你的安全带。
+   **英文**：Make sure to buckle your seatbelt before driving.
+   > **解析**：buckle 表示“扣紧/扣上”；seatbelt 意为“安全带”。
 
-3. **中文**：她昨天第一次尝试就通过了驾驶实操考试。  
-   **英文**：She passed her practical driving test on her first attempt yesterday.
-   > **解析**：driving test 名词短语，意为“驾照考试；路考”。
+3. **中文**：这起严重的交通事故导致道路封闭了两小时。
+   **英文**：A sudden car accident blocked the highway yesterday.
+   > **解析**：car accident 表示“交通事故/车祸”。
 
-4. **中文**：交通信号灯变红时，司机立即停下了车。  
-   **英文**：The driver stopped immediately when the traffic stoplight turned red.
-   > **解析**：stoplight 可数名词，意为“红绿灯；交通信号灯”（美式英语）。
+4. **中文**：开车时必须时刻集中注意力看路。
+   **英文**：Drivers must concentrate on the road while driving.
+   > **解析**：concentrate 表示“专心/集中注意力”；concentrate on 意为“专心于”。
 
-5. **中文**：在小学附近行驶时，你必须降低车速。  
-   **英文**：You must lower your speed when driving near a primary school.
-   > **解析**：speed 名词，意为“速度；车速”，作动词时意为“超速；加速”。
+5. **中文**：她在经过多次练习后顺利通过了驾照考试。
+   **英文**：She passed her driving test on her first attempt.
+   > **解析**：driving test 表示“驾照考试/驾驶测试”。
 
-6. **中文**：开车玩手机分心是引发交通事故的主要原因。  
-   **英文**：Distracted driving with mobile phones is a leading cause of car accidents about allowed to.
-   > **解析**：car accident 名词短语，意为“交通事故；车祸”。
+6. **中文**：驾车时打电话属于严重违法行为。
+   **英文**：It is illegal to use a mobile phone while driving.
+   > **解析**：illegal 表示“违法的/不合法的”。
 
-7. **中文**：司机在人行横道处必须让行人优先通行。  
-   **英文**：Drivers must yield the right of way to any pedestrian at the crosswalk.
-   > **解析**：pedestrian 可数名词，意为“行人；步行者”。
+7. **中文**：你最好现在就出发，否则会赶不上末班班车。
+   **英文**：You had better leave now to avoid heavy rush hour.
+   > **解析**：had better 表示“最好/应该”。
 
-8. **中文**：你可以把车安全地停在多层停车场内。  
-   **英文**：You can park your car safely inside the multi-story parking garage.
-   > **解析**：parking garage 名词短语，意为“室内停车场；停车楼”（美式）。
+8. **中文**：驾车在学校区域内最好不要超速。
+   **英文**：You had better not drive above the speed limit here.
+   > **解析**：had better not 表示“最好不要……”。
 
-9. **中文**：没有有效驾驶执照开车是严格违法的。  
-   **英文**：It is strictly illegal to drive without a valid driver's license.
-   > **解析**：illegal 形容词，意为“不合法的；违法的”，前缀 il- 表示否定。
+9. **中文**：我们在商场旁找了一家大型室内停车场停车。
+   **英文**：We parked inside a multi-story parking garage.
+   > **解析**：parking garage 表示“室内停车场/车库”。
 
-10. **中文**：黄昏行车时，你应该开启车头灯。  
-   **英文**：You are supposed to turn on your headlights when driving at dusk.
-   > **解析**：be supposed to 常用情态短语，意为“应当；按规定应该”。
+10. **中文**：司机在斑马线前停下车，礼貌地让行人先过。
+   **英文**：The car stopped to let the pedestrian cross safely.
+   > **解析**：pedestrian 表示“行人”。
+
+11. **中文**：所有前排和后排乘客都必须系好安全带。
+   **英文**：All passengers inside the car must wear a seatbelt.
+   > **解析**：seatbelt 表示“安全带”。
+
+12. **中文**：在施工区域内驾驶请控制好汽车车速。
+   **英文**：Please watch your speed when driving near schools.
+   > **解析**：speed 表示“车速/速度”。
+
+13. **中文**：司机在看到红灯交通信号灯后踩刹车停下。
+   **英文**：The car stopped immediately at the red stoplight.
+   > **解析**：stoplight 表示“红绿灯/交通信号灯”。
+
+14. **中文**：按规定驾驶员应当在停止标志前完全停车。
+   **英文**：Drivers are supposed to slow down near crosswalks.
+   > **解析**：supposed to 表示“应当/本应”。
+
+15. **中文**：因为超速行驶，交警给他开了一张违章罚单。
+   **英文**：The police officer gave him a speeding ticket.
+   > **解析**：ticket 表示“罚单/车票”。
+
+16. **中文**：车辆驶入了一条长长的海底隧道。
+   **英文**：The highway goes through a dark mountain tunnel.
+   > **解析**：tunnel 表示“隧道/地道”。
+
+17. **中文**：学校附近设立了严格的汽车限速区域。
+   **英文**：This is a quiet residential zone with low speed limits.
+   > **解析**：zone 表示“区域/地带”。
+
+18. **中文**：如果你再磨蹭，就会错过今天去省城的大巴车。
+   **英文**：Hurry up or you will miss the next train stop.
+   > **解析**：miss 表示“错过/遗失”。
+
+19. **中文**：许多市民喜欢在周末骑自行车去公园锻炼。
+   **英文**：Many people love to cycle along the river path.
+   > **解析**：cycle 表示“骑自行车”。
+
+20. **中文**：公司不允许员工在工作区内抽烟。
+   **英文**：The store rules do not allow pets inside.
+   > **解析**：allow 表示“允许/准许”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Always fasten your seatbelt before starting the car engine.
-   > **中文**：在启动汽车发动机前，务必扣好安全带。
+1. Drivers are allowed to park here for one hour.
+   > **中文**：驾驶员被允许在公共停车场免费停车一小时。
 
-2. Make sure all passengers buckle up safely in the back seat.
-   > **中文**：确保后排所有乘客都系好安全带。
+2. Make sure to buckle your seatbelt before driving.
+   > **中文**：开车前请务必扣紧你的安全带。
 
-3. She passed her practical driving test on her first attempt yesterday.
-   > **中文**：她昨天第一次尝试就通过了驾驶实操考试。
+3. A sudden car accident blocked the highway yesterday.
+   > **中文**：这起严重的交通事故导致道路封闭了两小时。
 
-4. The driver stopped immediately when the traffic stoplight turned red.
-   > **中文**：交通信号灯变红时，司机立即停下了车。
+4. Drivers must concentrate on the road while driving.
+   > **中文**：开车时必须时刻集中注意力看路。
 
-5. You must lower your speed when driving near a primary school.
-   > **中文**：在小学附近行驶时，你必须降低车速。
+5. She passed her driving test on her first attempt.
+   > **中文**：她在经过多次练习后顺利通过了驾照考试。
 
-6. Distracted driving with mobile phones is a leading cause of car accidents about allowed to.
-   > **中文**：开车玩手机分心是引发交通事故的主要原因。
+6. It is illegal to use a mobile phone while driving.
+   > **中文**：驾车时打电话属于严重违法行为。
 
-7. Drivers must yield the right of way to any pedestrian at the crosswalk.
-   > **中文**：司机在人行横道处必须让行人优先通行。
+7. You had better leave now to avoid heavy rush hour.
+   > **中文**：你最好现在就出发，否则会赶不上末班班车。
 
-8. You can park your car safely inside the multi-story parking garage.
-   > **中文**：你可以把车安全地停在多层停车场内。
+8. You had better not drive above the speed limit here.
+   > **中文**：驾车在学校区域内最好不要超速。
 
-9. It is strictly illegal to drive without a valid driver's license.
-   > **中文**：没有有效驾驶执照开车是严格违法的。
+9. We parked inside a multi-story parking garage.
+   > **中文**：我们在商场旁找了一家大型室内停车场停车。
 
-10. You are supposed to turn on your headlights when driving at dusk.
-   > **中文**：黄昏行车时，你应该开启车头灯。
+10. The car stopped to let the pedestrian cross safely.
+   > **中文**：司机在斑马线前停下车，礼貌地让行人先过。
+
+11. All passengers inside the car must wear a seatbelt.
+   > **中文**：所有前排和后排乘客都必须系好安全带。
+
+12. Please watch your speed when driving near schools.
+   > **中文**：在施工区域内驾驶请控制好汽车车速。
+
+13. The car stopped immediately at the red stoplight.
+   > **中文**：司机在看到红灯交通信号灯后踩刹车停下。
+
+14. Drivers are supposed to slow down near crosswalks.
+   > **中文**：按规定驾驶员应当在停止标志前完全停车。
+
+15. The police officer gave him a speeding ticket.
+   > **中文**：因为超速行驶，交警给他开了一张违章罚单。
+
+16. The highway goes through a dark mountain tunnel.
+   > **中文**：车辆驶入了一条长长的海底隧道。
+
+17. This is a quiet residential zone with low speed limits.
+   > **中文**：学校附近设立了严格的汽车限速区域。
+
+18. Hurry up or you will miss the next train stop.
+   > **中文**：如果你再磨蹭，就会错过今天去省城的大巴车。
+
+19. Many people love to cycle along the river path.
+   > **中文**：许多市民喜欢在周末骑自行车去公园锻炼。
+
+20. The store rules do not allow pets inside.
+   > **中文**：公司不允许员工在工作区内抽烟。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| allowed to | 被允许 |
+| buckle | 扣紧 / 扣上 |
+| car accident | 交通事故 |
+| concentrate | 专心 / 集中 |
+| driving test | 驾照考试 |
+| had better | 最好做 |
+| had better not | 最好不要做 |
+| illegal | 违法的 |
+| parking garage | 室内停车场 |
+| pedestrian | 行人 |
+| seatbelt | 安全带 |
+| speed | 车速 |
+| stoplight | 红绿灯 |
+| supposed to | 应当 |
+| ticket | 罚单 |
+| tunnel | 隧道 |
+| zone | 区域 |
+| miss | 错过 |
+| cycle | 骑自行车 |
+| allow | 允许 |
 
 </quiz-matching>
 
@@ -135,102 +228,202 @@ had better 比 should 语气更强，暗示"不这样做会有不好的后果"�
 
 ### 1
 
-Always fasten your seatbelt be`____`e starting the car engine.
+Drivers are allowed to park here ____ one hour.
 
 - [x] for
 - [ ] allow
-- [ ] concentrate
+- [ ] allowed to
 
-> **解析**：seatbelt 可数名词，意为“安全带”，常与 fasten 或 wear 搭配。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Make sure all passengers `____` up safely in the back seat.
+Make sure to ____ your seatbelt before driving.
 
 - [x] buckle
+- [ ] allow
 - [ ] allowed to
-- [ ] driving test
 
-> **解析**：buckle 动词，常用短语 buckle up 表示“扣紧/系好安全带”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-She passed her practical `____` on her first attempt yesterday.
+A sudden car accident blocked the highway ____.
 
-- [x] driving test
-- [ ] buckle
-- [ ] for
+- [x] yesterday
+- [ ] allow
+- [ ] allowed to
 
-> **解析**：driving test 名词短语，意为“驾照考试；路考”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-The driver stopped immediately when the traffic `____` turned red.
+Drivers must ____ on the road while driving.
 
-- [x] stoplight
-- [ ] car accident
-- [ ] for
+- [x] concentrate
+- [ ] allow
+- [ ] allowed to
 
-> **解析**：stoplight 可数名词，意为“红绿灯；交通信号灯”（美式英语）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-You must lower your `____` when driving near a primary school.
+She passed her ____ test on her first attempt.
 
-- [x] speed
-- [ ] concentrate
-- [ ] had better
+- [x] driving
+- [ ] allow
+- [ ] allowed to
 
-> **解析**：speed 名词，意为“速度；车速”，作动词时意为“超速；加速”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Distracted driving with mobile phones is a leading cause of car accidents about `____`ed to.
+It is ____ to use a mobile phone while driving.
 
-- [x] allow
-- [ ] driving test
-- [ ] illegal
+- [x] illegal
+- [ ] allow
+- [ ] allowed to
 
-> **解析**：car accident 名词短语，意为“交通事故；车祸”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Drivers must yield the right of way to any `____` at the crosswalk.
+You had ____ leave now to avoid heavy rush hour.
 
-- [x] pedestrian
-- [ ] driving test
-- [ ] illegal
+- [x] better
+- [ ] allow
+- [ ] allowed to
 
-> **解析**：pedestrian 可数名词，意为“行人；步行者”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-You can park your car safely inside the multi-story `____`.
+You had better not drive above the ____ limit here.
 
-- [x] parking garage
-- [ ] for
-- [ ] miss
+- [x] speed
+- [ ] allow
+- [ ] allowed to
 
-> **解析**：parking garage 名词短语，意为“室内停车场；停车楼”（美式）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-It is strictly `____` to drive without a valid driver's license.
+We parked inside a ____ parking garage.
 
-- [x] illegal
-- [ ] had better
-- [ ] parking garage
+- [x] multi-story
+- [ ] allow
+- [ ] allowed to
 
-> **解析**：illegal 形容词，意为“不合法的；违法的”，前缀 il- 表示否定。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-You are `____` turn on your headlights when driving at dusk.
+The car stopped to let the ____ cross safely.
 
-- [x] supposed to
-- [ ] had better not
-- [ ] parking garage
+- [x] pedestrian
+- [ ] allow
+- [ ] allowed to
 
-> **解析**：be supposed to 常用情态短语，意为“应当；按规定应该”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+All passengers inside the car must wear a ____.
+
+- [x] seatbelt
+- [ ] allow
+- [ ] allowed to
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Please watch your ____ when driving near schools.
+
+- [x] speed
+- [ ] allow
+- [ ] allowed to
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The car stopped immediately at the red ____.
+
+- [x] stoplight
+- [ ] allow
+- [ ] allowed to
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Drivers are supposed to slow down near ____.
+
+- [x] crosswalks
+- [ ] allow
+- [ ] allowed to
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The police officer gave him a speeding ____.
+
+- [x] ticket
+- [ ] allow
+- [ ] allowed to
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The highway goes through a dark mountain ____.
+
+- [x] tunnel
+- [ ] allow
+- [ ] allowed to
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+This is a quiet residential ____ with low speed limits.
+
+- [x] zone
+- [ ] allow
+- [ ] allowed to
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Hurry up or you will ____ the next train stop.
+
+- [x] miss
+- [ ] allow
+- [ ] allowed to
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Many people love to ____ along the river path.
+
+- [x] cycle
+- [ ] allow
+- [ ] allowed to
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+The store rules do not ____ pets inside.
+
+- [x] allow
+- [ ] allowed to
+- [ ] buckle
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

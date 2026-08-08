@@ -53,83 +53,176 @@ lead → led 是不规则动词变化。approximate / approximately, kind / unki
 
 <quiz-sentence-builder>
 
-1. **中文**：校长就即将举行的毕业典礼作了一项重要公告。  
-   **英文**：The principal made an important announcement about upcoming graduation ceremonies.
-   > **解析**：announcement 可数名词，意为“公告；通知”，来自动词 announce。
+1. **中文**：主持人正式向大家宣布了比赛获奖者名单。
+   **英文**：The speaker will announce the winners shortly.
+   > **解析**：announce 表示“宣布/宣告”。
 
-2. **中文**：公司主管打算明天宣布正式结果。  
-   **英文**：The company director is going to announce the official results tomorrow about announcement.
-   > **解析**：announce 及物动词，意为“宣布；宣告”。
+2. **中文**：请注意听广播里关于航班改飞的最新公告。
+   **英文**：Listen to the important flight announcement now.
+   > **解析**：announcement 表示“通知/公告”。
 
-3. **中文**：女士们，先生们，欢迎来到我们的年度慈善演讲活动。  
-   **英文**：Ladies and gentlemen, welcome to our annual charity speech event.
-   > **解析**：ladies and gentlemen 常用演讲开场致辞，意为“女士们，先生们”。
+3. **中文**：演讲大概持续了大约四十五分钟的时间。
+   **英文**：The flight duration is approximately two hours.
+   > **解析**：approximately 表示“大约地/大概”。
 
-4. **中文**：能请大家注意一下，听一听简短的开场致词吗？  
-   **英文**：May I have your attention for a brief introductory remark, please.
-   > **解析**：attention 不可数名词，意为“注意力”，短语 have one's attention 意为“吸引某人注意”。
+4. **中文**：女士们先生们，请大家集中注意力听发言。
+   **英文**：May I have your attention please for a moment?
+   > **解析**：attention 表示“注意力/关注”。
 
-5. **中文**：他在演讲中履行了指导青年学生的承诺。  
-   **英文**：He kept his promise to mentor young students during his speech.
-   > **解析**：promise 可数名词/动词，在此作名词意为“承诺；诺言”。
+5. **中文**：到会议结束的时候为止，大家都达成了共识。
+   **英文**：By the time he finished speaking, all cheered.
+   > **解析**：By the time 表示“到……的时候为止”。
 
-6. **中文**：主旨演讲人分享了克服逆境的感人故事。  
-   **英文**：The keynote speaker shared inspiring stories about overcoming adversity.
-   > **解析**：speaker 可数名词，意为“演讲者；发言人”。
+6. **中文**：事实上，他在这方面拥有极其丰富的演讲经验。
+   **英文**：In fact, she has delivered many speeches before.
+   > **解析**：In fact 表示“事实上/实际上”。
 
-7. **中文**：我们期待在专题讨论环节听取您的真知灼见。  
-   **英文**：We look forward to hearing your insights during the panel discussion.
-   > **解析**：look forward to 动词短语，意为“期待；盼望”，介词 to 后接名词或动名词（doing）。
+7. **中文**：女士们先生们，欢迎参加今晚的颁奖典礼！
+   **英文**：Good evening, ladies and gentlemen, welcome to party!
+   > **解析**：ladies and gentlemen 表示“女士们先生们”。
 
-8. **中文**：到演讲结束时，观众们都起立鼓掌。  
-   **英文**：By the time the speech ended, the audience was standing and clapping about approximate.
-   > **解析**：by the time 连词短语，引导时间状语从句，意为“到……的时候为止”。
+8. **中文**：资深队长带领了团队克服了所有艰难险阻。
+   **英文**：The experienced guide led us through the forest.
+   > **解析**：led 是 lead 的过去式，表示“带领了/引导了”。
 
-9. **中文**：事实上，这次经历彻底改变了我对成功的看法。  
-   **英文**：In fact, this experience completely transformed my perspective on success (ladies and gentlemen) about approximately.
-   > **解析**：in fact 插入语/副词短语，意为“事实上；实际上”。
+9. **中文**：大家都在热切地期待着听主讲人的报告。
+   **英文**：We look forward to hearing your speech today.
+   > **解析**：look forward to 表示“期待/盼望”。
 
-10. **中文**：能与如此热情的观众分享我的经历是莫大的荣幸。  
-   **英文**：It was a great pleasure to share my experience with such an enthusiastic audience.
-   > **解析**：pleasure 不可数/可数名词，意为“荣幸；愉快”，常用 It's a pleasure to do ...
+10. **中文**：我能够向大家简要介绍一下今天的发言流程吗？
+   **英文**：May I introduce our keynote speaker tonight?
+   > **解析**：May I 表示“我能够……吗/我可以……吗”（礼貌表达）。
+
+11. **中文**：在开会前做好充分准备是完全必要的。
+   **英文**：It is necessary to prepare well for presentation.
+   > **解析**：necessary 表示“必要的/必不可少的”。
+
+12. **中文**：非常荣幸能够有机会在此向大家发表讲话。
+   **英文**：It is a great pleasure to address you all today.
+   > **解析**：pleasure 表示“荣幸/快乐/乐趣”。
+
+13. **中文**：正如前一位发言人刚才所提到的那样。
+   **英文**：As mentioned by the previous speaker, we agree.
+   > **解析**：previous 表示“先前的/之前的”。
+
+14. **中文**：他以前地在另外一家大型公司担任首席执行官。
+   **英文**：She previously worked as a journalist in London.
+   > **解析**：previously 表示“以前地/之前”。
+
+15. **中文**：发言人向听众承诺会认真解决大家的关注。
+   **英文**：The Mayor promised to lower local business taxes.
+   > **解析**：promised 表示“承诺/保证”。
+
+16. **中文**：请大家用热烈的掌声欢迎下一位演讲者。
+   **英文**：Let's welcome our main speaker with applause.
+   > **解析**：speaker 表示“演讲者/发言人”。
+
+17. **中文**：大家共同举杯向新人致以温馨的祝酒词。
+   **英文**：He stood up to propose a toast to the couple.
+   > **解析**：toast 表示“祝酒词/干杯/吐司”。
+
+18. **中文**：请删掉那些不必要的重复词汇以使演讲精炼。
+   **英文**：Avoid unnecessary delay during the assembly.
+   > **解析**：unnecessary 表示“不必要的/多余的”。
+
+19. **中文**：多名热心的志愿者在现场协助维护秩序。
+   **英文**：She works as a volunteer for the community event.
+   > **解析**：volunteer 表示“志愿者/义工”。
+
+20. **中文**：请在十分钟之内回到会议室准备听讲。
+   **英文**：Please finish your questions within five minutes.
+   > **解析**：within 表示“在……之内”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The principal made an important announcement about upcoming graduation ceremonies.
-   > **中文**：校长就即将举行的毕业典礼作了一项重要公告。
+1. The speaker will announce the winners shortly.
+   > **中文**：主持人正式向大家宣布了比赛获奖者名单。
 
-2. The company director is going to announce the official results tomorrow about announcement.
-   > **中文**：公司主管打算明天宣布正式结果。
+2. Listen to the important flight announcement now.
+   > **中文**：请注意听广播里关于航班改飞的最新公告。
 
-3. Ladies and gentlemen, welcome to our annual charity speech event.
-   > **中文**：女士们，先生们，欢迎来到我们的年度慈善演讲活动。
+3. The flight duration is approximately two hours.
+   > **中文**：演讲大概持续了大约四十五分钟的时间。
 
-4. May I have your attention for a brief introductory remark, please.
-   > **中文**：能请大家注意一下，听一听简短的开场致词吗？
+4. May I have your attention please for a moment?
+   > **中文**：女士们先生们，请大家集中注意力听发言。
 
-5. He kept his promise to mentor young students during his speech.
-   > **中文**：他在演讲中履行了指导青年学生的承诺。
+5. By the time he finished speaking, all cheered.
+   > **中文**：到会议结束的时候为止，大家都达成了共识。
 
-6. The keynote speaker shared inspiring stories about overcoming adversity.
-   > **中文**：主旨演讲人分享了克服逆境的感人故事。
+6. In fact, she has delivered many speeches before.
+   > **中文**：事实上，他在这方面拥有极其丰富的演讲经验。
 
-7. We look forward to hearing your insights during the panel discussion.
-   > **中文**：我们期待在专题讨论环节听取您的真知灼见。
+7. Good evening, ladies and gentlemen, welcome to party!
+   > **中文**：女士们先生们，欢迎参加今晚的颁奖典礼！
 
-8. By the time the speech ended, the audience was standing and clapping about approximate.
-   > **中文**：到演讲结束时，观众们都起立鼓掌。
+8. The experienced guide led us through the forest.
+   > **中文**：资深队长带领了团队克服了所有艰难险阻。
 
-9. In fact, this experience completely transformed my perspective on success (ladies and gentlemen) about approximately.
-   > **中文**：事实上，这次经历彻底改变了我对成功的看法。
+9. We look forward to hearing your speech today.
+   > **中文**：大家都在热切地期待着听主讲人的报告。
 
-10. It was a great pleasure to share my experience with such an enthusiastic audience.
-   > **中文**：能与如此热情的观众分享我的经历是莫大的荣幸。
+10. May I introduce our keynote speaker tonight?
+   > **中文**：我能够向大家简要介绍一下今天的发言流程吗？
+
+11. It is necessary to prepare well for presentation.
+   > **中文**：在开会前做好充分准备是完全必要的。
+
+12. It is a great pleasure to address you all today.
+   > **中文**：非常荣幸能够有机会在此向大家发表讲话。
+
+13. As mentioned by the previous speaker, we agree.
+   > **中文**：正如前一位发言人刚才所提到的那样。
+
+14. She previously worked as a journalist in London.
+   > **中文**：他以前地在另外一家大型公司担任首席执行官。
+
+15. The Mayor promised to lower local business taxes.
+   > **中文**：发言人向听众承诺会认真解决大家的关注。
+
+16. Let's welcome our main speaker with applause.
+   > **中文**：请大家用热烈的掌声欢迎下一位演讲者。
+
+17. He stood up to propose a toast to the couple.
+   > **中文**：大家共同举杯向新人致以温馨的祝酒词。
+
+18. Avoid unnecessary delay during the assembly.
+   > **中文**：请删掉那些不必要的重复词汇以使演讲精炼。
+
+19. She works as a volunteer for the community event.
+   > **中文**：多名热心的志愿者在现场协助维护秩序。
+
+20. Please finish your questions within five minutes.
+   > **中文**：请在十分钟之内回到会议室准备听讲。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| announce | 宣布 / 宣告 |
+| announcement | 通知 / 公告 |
+| approximately | 大约地 |
+| attention | 注意力 |
+| By the time | 到……的时候为止 |
+| In fact | 事实上 |
+| ladies and gentlemen | 女士们先生们 |
+| led | 带领了（lead的过去式） |
+| look forward to | 期待 |
+| May I | 我能够……吗 |
+| necessary | 必要的 |
+| pleasure | 荣幸 / 快乐 |
+| previous | 先前的 |
+| previously | 以前地 |
+| promised | 承诺了（promise的过去式） |
+| speaker | 演讲者 |
+| toast | 祝酒词 / 祝酒 |
+| unnecessary | 不必要的 |
+| volunteer | 志愿者 |
+| within | 在……之内 |
 
 </quiz-matching>
 
@@ -137,102 +230,202 @@ lead → led 是不规则动词变化。approximate / approximately, kind / unki
 
 ### 1
 
-The principal made an important `____`ment about upcoming graduation ceremonies.
+The ____ will announce the winners shortly.
 
-- [x] announce
+- [x] speaker
+- [ ] announce
 - [ ] announcement
-- [ ] by the time
 
-> **解析**：announcement 可数名词，意为“公告；通知”，来自动词 announce。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The company director is going to announce the official results tomorrow about `____`.
+Listen to the important flight ____ now.
 
 - [x] announcement
+- [ ] announce
 - [ ] approximate
-- [ ] in fact
 
-> **解析**：announce 及物动词，意为“宣布；宣告”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-`____`, welcome to our annual charity speech event.
+The flight duration is ____ two hours.
 
-- [x] ladies and gentlemen
-- [ ] approximate
-- [ ] in fact
+- [x] approximately
+- [ ] announce
+- [ ] announcement
 
-> **解析**：ladies and gentlemen 常用演讲开场致辞，意为“女士们，先生们”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-May I have your `____` for a brief introductory remark, please.
+May I have your ____ please for a moment?
 
 - [x] attention
-- [ ] approximately
-- [ ] ladies and gentlemen
+- [ ] announce
+- [ ] announcement
 
-> **解析**：attention 不可数名词，意为“注意力”，短语 have one's attention 意为“吸引某人注意”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-He kept his `____` to mentor young students during his speech.
+By the time he ____ speaking, all cheered.
 
-- [x] promise
-- [ ] attention
-- [ ] ladies and gentlemen
+- [x] finished
+- [ ] announce
+- [ ] announcement
 
-> **解析**：promise 可数名词/动词，在此作名词意为“承诺；诺言”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The keynote `____` shared inspiring stories about overcoming adversity.
+In fact, she has ____ many speeches before.
 
-- [x] speaker
-- [ ] by the time
-- [ ] lead
+- [x] delivered
+- [ ] announce
+- [ ] announcement
 
-> **解析**：speaker 可数名词，意为“演讲者；发言人”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-We `____` hearing your insights during the panel discussion.
+Good evening, ladies and ____, welcome to party!
 
-- [x] look forward to
-- [ ] in fact
-- [ ] led
+- [x] gentlemen
+- [ ] announce
+- [ ] announcement
 
-> **解析**：look forward to 动词短语，意为“期待；盼望”，介词 to 后接名词或动名词（doing）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-By the time the speech ended, the audience was standing and clapping about `____`.
+The experienced guide ____ us through the forest.
 
-- [x] approximate
-- [ ] ladies and gentlemen
-- [ ] may I
+- [x] led
+- [ ] announce
+- [ ] announcement
 
-> **解析**：by the time 连词短语，引导时间状语从句，意为“到……的时候为止”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-In fact, this experience completely transformed my perspective on success (ladies and gentlemen) about `____`.
+We look ____ to hearing your speech today.
 
-- [x] approximately
-- [ ] lead
-- [ ] necessary
+- [x] forward
+- [ ] announce
+- [ ] announcement
 
-> **解析**：in fact 插入语/副词短语，意为“事实上；实际上”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-It was a great `____` to share my experience with such an enthusiastic audience.
+May I introduce our keynote ____ tonight?
+
+- [x] speaker
+- [ ] announce
+- [ ] announcement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+It is ____ to prepare well for presentation.
+
+- [x] necessary
+- [ ] announce
+- [ ] announcement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+It is a great ____ to address you all today.
 
 - [x] pleasure
-- [ ] lead
-- [ ] necessary
+- [ ] announce
+- [ ] announcement
 
-> **解析**：pleasure 不可数/可数名词，意为“荣幸；愉快”，常用 It's a pleasure to do ...
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+As mentioned by the ____ speaker, we agree.
+
+- [x] previous
+- [ ] announce
+- [ ] announcement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+She ____ worked as a journalist in London.
+
+- [x] previously
+- [ ] announce
+- [ ] announcement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The Mayor ____ to lower local business taxes.
+
+- [x] promised
+- [ ] announce
+- [ ] announcement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Let's welcome our main ____ with applause.
+
+- [x] speaker
+- [ ] announce
+- [ ] announcement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+He stood up to propose a ____ to the couple.
+
+- [x] toast
+- [ ] announce
+- [ ] announcement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Avoid ____ delay during the assembly.
+
+- [x] unnecessary
+- [ ] announce
+- [ ] announcement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+She works as a ____ for the community event.
+
+- [x] volunteer
+- [ ] announce
+- [ ] announcement
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Please finish your questions ____ five minutes.
+
+- [x] within
+- [ ] announce
+- [ ] announcement
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

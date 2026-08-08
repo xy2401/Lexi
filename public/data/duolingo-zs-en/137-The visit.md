@@ -61,83 +61,176 @@ get in / get out 表示"进入/出去"。in a mood 表示"心情……"。
 
 <quiz-sentence-builder>
 
-1. **中文**：爷爷奶奶喜欢和他们活泼的孙辈一起度过暑假。  
-   **英文**：The grandparents love spending summer holidays with their active grandkids.
-   > **解析**：grandkid 为名词（口语常用），指“孙子、孙女、外孙、外孙女”。复数形式为 grandkids。书面语常用 grandchild / grandchildren。
+1. **中文**：在拜访期间，我的孙辈们在狭窄的餐厅里讲开心的笑话。  
+   **英文**：During the visit, my grandkid told jokes in the narrow dining room.
+   > **解析**：grandkid 表示“孙辈/孙子/孙女”；dining room 表示“餐厅”；narrow 表示“狭窄的”；joke 表示“笑话”。
 
-2. **中文**：全家人聚集在大方舒适的饭厅里吃周日晚餐。  
-   **英文**：The whole family gathers in the spacious dining room for Sunday dinner.
-   > **解析**：dining room 为名词短语，意为“饭厅、餐厅”。spacious 意为“宽敞的”。
+2. **中文**：这间餐厅的面积翻倍了，但停车位依然很紧缺。  
+   **英文**：This dining room doubled in size, but parking space is tight.
+   > **解析**：doubled / double 表示“翻倍”；parking 表示“停车/停车场”。
 
-3. **中文**：在传统春节期间，亲戚们聚在一起包饺子。  
-   **英文**：During the traditional Spring Festival, relatives gather to cook dumplings together.
-   > **解析**：festival 为名词，意为“节日”。Spring Festival 意为“春节”。gather to cook 表示“聚集下厨”。
+3. **中文**：她身穿亮丽的凉鞋，满怀好心情去参加社区节日。  
+   **英文**：Wearing bright sandals, she joined the community festival in a good mood.
+   > **解析**：sandal / sandals 表示“凉鞋”；community 表示“社区”；festival 表示“节日”；mood 表示“心情/情绪”。
 
-4. **中文**：我们当地的社区中心为老年居民组织周末活动。  
-   **英文**：Our local community center organizes weekend activities for elderly residents.
-   > **解析**：community 为名词，意为“社区”。community center 意为“社区中心”。elderly residents 指“老年居民”。
+4. **中文**：别为琐事烦恼或发怒，那只会增加工作压力。  
+   **英文**：Don't let minor things annoy you or make life stressful.
+   > **解析**：annoy 表示“使烦恼/打扰”；stressful 表示“充满压力的”。
 
-5. **中文**：每当孙辈们来拜访时，我父亲总是处于愉快的心情中。  
-   **英文**：My father is always in a cheerful mood whenever his grandchildren come to visit.
-   > **解析**：mood 为名词，意为“心情、情绪”。be in a cheerful/good mood 表示“处于愉快的心情”。
+5. **中文**：我们在社区里积极回收利用废旧废品，保护环境。  
+   **英文**：We actively recycle waste in our local community.
+   > **解析**：recycle 表示“回收利用”；community 表示“社区”。
 
-6. **中文**：我妹妹在第一次见她未来的岳父母/公婆前感到很紧张。  
-   **英文**：My younger sister felt nervous before meeting her future in-laws for the first time.
-   > **解析**：nervous 为形容词，意为“紧张的、不安的”。be nervous before... 表示“在...前感到紧张”。
+6. **中文**：在到达会场之前，请先穿上你的双层凉鞋。  
+   **英文**：Before you reach the hall, put on your sandals.
+   > **解析**：reach 表示“到达/抵达”；sandals 表示“凉鞋”。
 
-7. **中文**：为二十位客人准备一顿丰盛的晚餐可能是一项相当繁重/有压力的任务。  
-   **英文**：Preparing a big dinner for twenty visitors can be quite a stressful task.
-   > **解析**：stressful 为形容词，意为“充满压力的、令人紧张的”。用于修饰事物（a stressful task）。修饰人的感受用 stressed。
+7. **中文**：我们在晚餐时吃了一盘新鲜的西兰花。  
+   **英文**：We had a plate of fresh broccoli in the dining room.
+   > **解析**：broccoli 表示“西兰花/花椰菜”；dining room 表示“餐厅”。
 
-8. **中文**：深夜的轰鸣噪音真的很骚扰/打扰我们公寓楼里的邻居们。  
-   **英文**：Loud noises late at night really annoy the neighbors in our apartment building.
-   > **解析**：annoy 为动词，意为“打扰、使烦恼”。形容词形式为 annoying（令人烦恼的）或 annoyed（感到烦恼的）。
+8. **中文**：感到紧张是正常的，深呼吸来放松心情吧。  
+   **英文**：Feeling nervous is normal; breathe to improve your mood.
+   > **解析**：nervous 表示“紧张的”；mood 表示“心情”。
 
-9. **中文**：住宅后面有充足的免费停车空间。  
-   **英文**：There is plenty of free parking space available behind the family house.
-   > **解析**：parking 在句中作定语修饰 space，parking space 表示“停车位/停车空间”。parking 为不可数名词。
+9. **中文**：请进！大家都在等候你开始这次聚会。  
+   **英文**：Get in! Everyone is waiting for the festival to start.
+   > **解析**：get in 表示“进来/进入”。
 
-10. **中文**：我们家每天教孩子们循环回收塑料瓶和纸质包装。  
-   **英文**：My family teaches the kids to recycle plastic bottles and paper packaging daily.
-   > **解析**：recycle 为动词，意为“回收利用、循环使用”。teach sb. to do sth. 表示“教某人做某事”。
+10. **中文**：请出去！不要在这条狭窄的走廊里制造干扰。  
+   **英文**：Get out! Don't make trouble in this narrow hallway.
+   > **解析**：get out 表示“出去/离开”；narrow 表示“狭窄的”。
+
+11. **中文**：爷爷非常疼爱他的小孙子。  
+   **英文**：Grandpa loves his little grandkid very much.
+   > **解析**：grandkid 表示“孙子/孙女/孙辈”。
+
+12. **中文**：一家人在温馨的餐厅里享用丰盛的晚餐。  
+   **英文**：The whole family enjoyed dinner in the dining room.
+   > **解析**：dining room 表示“餐厅”。
+
+13. **中文**：全社区的人都参与到了这次节日庆祝活动中。  
+   **英文**：The whole community participated in the summer festival.
+   > **解析**：community 表示“社区”；festival 表示“节日”。
+
+14. **中文**：这条狭窄的小巷只能容纳一个人通过。  
+   **英文**：This narrow lane is wide enough for only one person.
+   > **解析**：narrow 表示“狭窄的”。
+
+15. **中文**：夏天穿凉鞋感觉非常透气舒适。  
+   **英文**：Wearing sandals in summer feels very cool.
+   > **解析**：sandals 表示“凉鞋”。
+
+16. **中文**：今天他的心情非常好，脸上挂着笑容。  
+   **英文**：He is in a very good mood today with a smile.
+   > **解析**：mood 表示“心情/情绪”。
+
+17. **中文**：请将塑料瓶投递到社区的垃圾回收箱里。  
+   **英文**：Please recycle plastic bottles in the recycling bin.
+   > **解析**：recycle 表示“回收/循环利用”。
+
+18. **中文**：多吃西兰花等绿色蔬菜对身体健康有益。  
+   **英文**：Eating more broccoli is good for your physical health.
+   > **解析**：broccoli 表示“西兰花”。
+
+19. **中文**：噪声不断打扰他，使他无法专心工作。  
+   **英文**：The continuous noise started to annoy him.
+   > **解析**：annoy 表示“使烦恼/打扰”。
+
+20. **中文**：经过两小时的车程，我们终于到达了那座小镇。  
+   **英文**：After two hours of driving, we managed to reach the town.
+   > **解析**：reach 表示“到达/抵达”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The grandparents love spending summer holidays with their active grandkids.
-   > **中文**：爷爷奶奶喜欢和他们活泼的孙辈一起度过暑假。
+1. During the visit, my grandkid told jokes in the narrow dining room.
+   > **中文**：在拜访期间，我的孙辈们在狭窄的餐厅里讲开心的笑话。
 
-2. The whole family gathers in the spacious dining room for Sunday dinner.
-   > **中文**：全家人聚集在大方舒适的饭厅里吃周日晚餐。
+2. This dining room doubled in size, but parking space is tight.
+   > **中文**：这间餐厅的面积翻倍了，但停车位依然很紧缺。
 
-3. During the traditional Spring Festival, relatives gather to cook dumplings together.
-   > **中文**：在传统春节期间，亲戚们聚在一起包饺子。
+3. Wearing bright sandals, she joined the community festival in a good mood.
+   > **中文**：她身穿亮丽的凉鞋，满怀好心情去参加社区节日。
 
-4. Our local community center organizes weekend activities for elderly residents.
-   > **中文**：我们当地的社区中心为老年居民组织周末活动。
+4. Don't let minor things annoy you or make life stressful.
+   > **中文**：别为琐事烦恼或发怒，那只会增加工作压力。
 
-5. My father is always in a cheerful mood whenever his grandchildren come to visit.
-   > **中文**：每当孙辈们来拜访时，我父亲总是处于愉快的心情中。
+5. We actively recycle waste in our local community.
+   > **中文**：我们在社区里积极回收利用废旧废品，保护环境。
 
-6. My younger sister felt nervous before meeting her future in-laws for the first time.
-   > **中文**：我妹妹在第一次见她未来的岳父母/公婆前感到很紧张。
+6. Before you reach the hall, put on your sandals.
+   > **中文**：在到达会场之前，请先穿上你的双层凉鞋。
 
-7. Preparing a big dinner for twenty visitors can be quite a stressful task.
-   > **中文**：为二十位客人准备一顿丰盛的晚餐可能是一项相当繁重/有压力的任务。
+7. We had a plate of fresh broccoli in the dining room.
+   > **中文**：我们在晚餐时吃了一盘新鲜的西兰花。
 
-8. Loud noises late at night really annoy the neighbors in our apartment building.
-   > **中文**：深夜的轰鸣噪音真的很骚扰/打扰我们公寓楼里的邻居们。
+8. Feeling nervous is normal; breathe to improve your mood.
+   > **中文**：感到紧张是正常的，深呼吸来放松心情吧。
 
-9. There is plenty of free parking space available behind the family house.
-   > **中文**：住宅后面有充足的免费停车空间。
+9. Get in! Everyone is waiting for the festival to start.
+   > **中文**：请进！大家都在等候你开始这次聚会。
 
-10. My family teaches the kids to recycle plastic bottles and paper packaging daily.
-   > **中文**：我们家每天教孩子们循环回收塑料瓶和纸质包装。
+10. Get out! Don't make trouble in this narrow hallway.
+   > **中文**：请出去！不要在这条狭窄的走廊里制造干扰。
+
+11. Grandpa loves his little grandkid very much.
+   > **中文**：爷爷非常疼爱他的小孙子。
+
+12. The whole family enjoyed dinner in the dining room.
+   > **中文**：一家人在温馨的餐厅里享用丰盛的晚餐。
+
+13. The whole community participated in the summer festival.
+   > **中文**：全社区的人都参与到了这次节日庆祝活动中。
+
+14. This narrow lane is wide enough for only one person.
+   > **中文**：这条狭窄的小巷只能容纳一个人通过。
+
+15. Wearing sandals in summer feels very cool.
+   > **中文**：夏天穿凉鞋感觉非常透气舒适。
+
+16. He is in a very good mood today with a smile.
+   > **中文**：今天他的心情非常好，脸上挂着笑容。
+
+17. Please recycle plastic bottles in the recycling bin.
+   > **中文**：请将塑料瓶投递到社区的垃圾回收箱里。
+
+18. Eating more broccoli is good for your physical health.
+   > **中文**：多吃西兰花等绿色蔬菜对身体健康有益。
+
+19. The continuous noise started to annoy him.
+   > **中文**：噪声不断打扰他，使他无法专心工作。
+
+20. After two hours of driving, we managed to reach the town.
+   > **中文**：经过两小时的车程，我们终于到达了那座小镇。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| against | 反对 / 靠着 |
+| annoy | 使烦恼 / 打扰 |
+| bright | 明亮的 |
+| broccoli | 西兰花 |
+| community | 社区 |
+| dining room | 餐厅 |
+| double | 翻倍 / 双重的 |
+| festival | 节日 |
+| get in | 进来 / 进入 |
+| get out | 出去 / 离开 |
+| grandkid | 孙辈 / 孙子 / 孙女 |
+| joke | 玩笑 / 笑话 |
+| mood | 心情 / 情绪 |
+| narrow | 狭窄的 |
+| nervous | 紧张的 |
+| parking | 停车 / 停车场 |
+| reach | 到达 / 抵达 |
+| recycle | 回收利用 |
+| sandal | 凉鞋 |
+| stressful | 充满压力的 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ get in / get out 表示"进入/出去"。in a mood 表示"心情……"。
 
 ### 1
 
-The grandparents love spending summer holidays with their active `____`s.
+During the visit, my ____ told jokes in the narrow dining room.
 
 - [x] grandkid
 - [ ] against
-- [ ] community
+- [ ] annoy
 
-> **解析**：grandkid 为名词（口语常用），指“孙子、孙女、外孙、外孙女”。复数形式为 grandkids。书面语常用 grandchild / grandchildren。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The whole family gathers in the spacious `____` for Sunday dinner.
+This dining room doubled in size, but ____ space is tight.
 
-- [x] dining room
+- [x] parking
+- [ ] against
 - [ ] annoy
-- [ ] double
 
-> **解析**：dining room 为名词短语，意为“饭厅、餐厅”。spacious 意为“宽敞的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-During the traditional Spring `____`, relatives gather to cook dumplings together.
+Wearing ____ sandals, she joined the community festival in a good mood.
 
-- [x] festival
-- [ ] bright
-- [ ] double
+- [x] bright
+- [ ] against
+- [ ] annoy
 
-> **解析**：festival 为名词，意为“节日”。Spring Festival 意为“春节”。gather to cook 表示“聚集下厨”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Our local `____` center organizes weekend activities for elderly residents.
+Don't let minor things ____ you or make life stressful.
 
-- [x] community
-- [ ] broccoli
-- [ ] get in
+- [x] annoy
+- [ ] against
+- [ ] bright
 
-> **解析**：community 为名词，意为“社区”。community center 意为“社区中心”。elderly residents 指“老年居民”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-My father is always in a cheerful `____` whenever his grandchildren come to visit.
+We actively ____ waste in our local community.
 
-- [x] mood
-- [ ] community
-- [ ] get in
+- [x] recycle
+- [ ] against
+- [ ] annoy
 
-> **解析**：mood 为名词，意为“心情、情绪”。be in a cheerful/good mood 表示“处于愉快的心情”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-My younger sister felt `____` before meeting her future in-laws for the first time.
+Before you ____ the hall, put on your sandals.
 
-- [x] nervous
-- [ ] dining room
-- [ ] get out
+- [x] reach
+- [ ] against
+- [ ] annoy
 
-> **解析**：nervous 为形容词，意为“紧张的、不安的”。be nervous before... 表示“在...前感到紧张”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Preparing a big dinner for twenty visitors can be quite a `____` task.
+We had a plate of fresh ____ in the dining room.
 
-- [x] stressful
-- [ ] double
-- [ ] go on
+- [x] broccoli
+- [ ] against
+- [ ] annoy
 
-> **解析**：stressful 为形容词，意为“充满压力的、令人紧张的”。用于修饰事物（a stressful task）。修饰人的感受用 stressed。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Loud noises late at night really `____` the neighbors in our apartment building.
+Feeling ____ is normal; breathe to improve your mood.
 
-- [x] annoy
-- [ ] get in
-- [ ] joke
+- [x] nervous
+- [ ] against
+- [ ] annoy
 
-> **解析**：annoy 为动词，意为“打扰、使烦恼”。形容词形式为 annoying（令人烦恼的）或 annoyed（感到烦恼的）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-There is plenty of free `____` space available behind the family house.
+Get in! Everyone is waiting for the ____ to start.
 
-- [x] parking
-- [ ] get in
-- [ ] joke
+- [x] festival
+- [ ] against
+- [ ] annoy
 
-> **解析**：parking 在句中作定语修饰 space，parking space 表示“停车位/停车空间”。parking 为不可数名词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-My family teaches the kids to `____` plastic bottles and paper packaging daily.
+Get out! Don't ____ trouble in this narrow hallway.
+
+- [x] make
+- [ ] against
+- [ ] annoy
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Grandpa loves his little ____ very much.
+
+- [x] grandkid
+- [ ] against
+- [ ] annoy
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The whole family ____ dinner in the dining room.
+
+- [x] enjoyed
+- [ ] against
+- [ ] annoy
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The whole ____ participated in the summer festival.
+
+- [x] community
+- [ ] against
+- [ ] annoy
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+This ____ lane is wide enough for only one person.
+
+- [x] narrow
+- [ ] against
+- [ ] annoy
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+____ sandals in summer feels very cool.
+
+- [x] Wearing
+- [ ] against
+- [ ] annoy
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+He is in a very good ____ today with a smile.
+
+- [x] mood
+- [ ] against
+- [ ] annoy
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Please ____ plastic bottles in the recycling bin.
 
 - [x] recycle
-- [ ] get out
-- [ ] make
+- [ ] against
+- [ ] annoy
 
-> **解析**：recycle 为动词，意为“回收利用、循环使用”。teach sb. to do sth. 表示“教某人做某事”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Eating more ____ is good for your physical health.
+
+- [x] broccoli
+- [ ] against
+- [ ] annoy
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The continuous noise started to ____ him.
+
+- [x] annoy
+- [ ] against
+- [ ] bright
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+After two hours of driving, we managed to ____ the town.
+
+- [x] reach
+- [ ] against
+- [ ] annoy
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

@@ -65,83 +65,176 @@ all grown up, any, back in town, can't complain, catch you up on, compliment, de
 
 <quiz-sentence-builder>
 
-1. **中文**：许多年后，我们坐在一家安静的咖啡馆里交流彼此的近况。  
-   **英文**：We sat at a quiet coffee shop to catch up on each other's lives after many years.
-   > **解析**：`catch up (on sth.)` 是动词短语，意为“叙旧、了解近况”，是旧友重逢时的核心表达。
+1. **中文**：自从我们上次见面，过了多久了？
+   **英文**：How long has it been since we last saw each other?
+   > **解析**：how long has it been 常用于句首，表示开场白“好久不见/过了多久了”。
 
-2. **中文**：好久不见，我的朋友！自高中以来你一点都没变。  
-   **英文**：Long time no see, my friend! You haven't changed a bit since high school about any all grown up.
-   > **解析**：`Long time no see!` 是高频口语打招呼惯用语，意为“好久不见！”，在句中作感叹句开头。
+2. **中文**：我听说你这次假期回到城里了。
+   **英文**：I heard you are back in town for the holiday.
+   > **解析**：back in town 表示回到城市、回来了。
 
-3. **中文**：我们高中班级在周末举办了一场难忘的十年同学聚会。  
-   **英文**：Our high school class held a memorable ten-year reunion over the weekend back in town.
-   > **解析**：`reunion` 是名词，意为“重聚、聚会”，短语 `class reunion` 特指“同学会”。
+3. **中文**：你的新工作最近怎么样？
+   **英文**：How's it going with your new job?
+   > **解析**：How's it going 为口语问候表达，意为“最近怎么样”。
 
-4. **中文**：尽管我们搬到了不同的城市，但我们承诺一定会一直保持联系。  
-   **英文**：Even though we moved to different cities, we promised to always keep in touch can't complain.
-   > **解析**：`keep in touch` 是固定动词短语，意为“保持联系”，在句中作不定式 `to keep in touch` 的核心。
+4. **中文**：我现在的生活挺好的，没什么可抱怨的。
+   **英文**：I can't complain about my life right now.
+   > **解析**：can't complain 相当于生活还不错，没什么可抱怨的。
 
-5. **中文**：翻阅这本旧相册唤起了许多美好的回忆。  
-   **英文**：Looking through this old photo album brings back so many sweet memories catch you up on.
-   > **解析**：`bring back memories` 是动词短语，意为“勾起回忆、勾起往事”，主语为 `Looking...` 动名词短语。
+5. **中文**：我昨天在超市偶遇了你的姐姐。
+   **英文**：I ran into your sister at the supermarket yesterday.
+   > **解析**：run into 表示偶遇、碰见。
 
-6. **中文**：这些年来，我和童年好友追忆往事时完全忘记了时间。  
-   **英文**：Over the years, I lost track of time while reminiscing with my childhood friend about compliment.
-   > **解析**：`lose track of (someone/time)` 意为“与……失去联系/忘记时间”，在句中指与朋友叙旧忘了时间。
+6. **中文**：你的孩子们现在都已经长大了！
+   **英文**：Your children are all grown up now!
+   > **解析**：all grown up 表示全长大了、成年的。
 
-7. **中文**：老朋友们喜欢坐在一起追忆他们的学生时代。  
-   **英文**：Old friends love to sit together and reminisce about their school days.
-   > **解析**：`reminisce` 是动词，意为“追忆、回忆往事”，固定搭配 `reminisce about...`。
+7. **中文**：让我来跟你聊聊最近的所有新闻近况吧。
+   **英文**：Let me catch you up on all the recent news.
+   > **解析**：catch someone up on 表示向某人介绍/补上最新消息或近况。
 
-8. **中文**：无论你何时来这个小镇，随时欢迎顺道来我的公寓坐坐。  
-   **英文**：Feel free to drop by my apartment whenever you are visiting this town about expecting.
-   > **解析**：`drop by` 是动词短语，意为“顺道拜访、串门”，侧重于非正式的简短拜访。
+8. **中文**：我正在慢慢适应乡村安静的生活。
+   **英文**：I am getting used to the quiet life in the countryside.
+   > **解析**：get used to 表示习惯于、适应某事。
 
-9. **中文**：聊起我们的老街区是一次美妙的回忆之旅。  
-   **英文**：Talking about our old neighborhood was a wonderful trip down memory lane about forties.
-   > **解析**：`trip down memory lane` 是习惯表达，意为“重温旧梦、勾起回忆的旅程”，`memory lane` 指“记忆的小径/回忆”。
+9. **中文**：她已经在海外生活了五年。
+   **英文**：She has been living overseas for five years.
+   > **解析**：overseas 为副词，意为在海外、在国外。
 
-10. **中文**：下周找个时间我们一定要聚一聚吃顿午饭。  
-   **英文**：We should definitely get together for lunch sometime next week about design.
-   > **解析**：`get together` 是动词短语，意为“聚会、聚在一起”，在句中作情态动词 `should` 的谓语。
+10. **中文**：四十多岁时的生活感觉平静多了。
+   **英文**：Life in my forties feels much more peaceful.
+   > **解析**：forties 加上物主代词表示四十多岁这一年龄段。
+
+11. **中文**：你听说莎拉即将有宝宝了吗？
+   **英文**：Did you hear that Sarah is expecting a baby?
+   > **解析**：expecting 委婉地表达“怀孕了、即将有宝宝”。
+
+12. **中文**：我最小的儿子今年秋天刚上幼儿园。
+   **英文**：My youngest son just started kindergarten this fall.
+   > **解析**：kindergarten 指幼儿园/学前班。
+
+13. **中文**：我非常喜欢我在平面设计领域的新岗位。
+   **英文**：I'm loving my new role in graphic design.
+   > **解析**：loving 口语中表达“超爱、非常喜欢”。
+
+14. **中文**：到目前为止我很喜欢这个新公寓的布局。
+   **英文**：I'm liking the new apartment layout so far.
+   > **解析**：liking 表示“挺喜欢的”。
+
+15. **中文**：总的来说，那次旅行取得了巨大成功。
+   **英文**：On the whole, the trip was a huge success.
+   > **解析**：on the whole 表示“总的来说”。
+
+16. **中文**：整体上来看，我们的近况都非常好。
+   **英文**：Overall, things are going very well for us.
+   > **解析**：overall 副词，表示整体上、总地来看。
+
+17. **中文**：到目前为止，一切都在顺畅地进行。
+   **英文**：So far, everything has been going smoothly.
+   > **解析**：so far 表示“到目前为止”。
+
+18. **中文**：她对我的演讲给出了非常美好的赞美。
+   **英文**：She gave me a lovely compliment on my presentation.
+   > **解析**：compliment 表示赞美、恭维。
+
+19. **中文**：你和你的家人最近近况如何？
+   **英文**：How are things going with your family?
+   > **解析**：things 在复数形式下常泛指生活近况。
+
+20. **中文**：我答应下次来的时候一定拜访你。
+   **英文**：I promise to visit you the next time I come back.
+   > **解析**：promise to 表示承诺、答应做某事。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We sat at a quiet coffee shop to catch up on each other's lives after many years.
-   > **中文**：许多年后，我们坐在一家安静的咖啡馆里交流彼此的近况。
+1. How long has it been since we last saw each other?
+   > **中文**：自从我们上次见面，过了多久了？
 
-2. Long time no see, my friend! You haven't changed a bit since high school about any all grown up.
-   > **中文**：好久不见，我的朋友！自高中以来你一点都没变。
+2. I heard you are back in town for the holiday.
+   > **中文**：我听说你这次假期回到城里了。
 
-3. Our high school class held a memorable ten-year reunion over the weekend back in town.
-   > **中文**：我们高中班级在周末举办了一场难忘的十年同学聚会。
+3. How's it going with your new job?
+   > **中文**：你的新工作最近怎么样？
 
-4. Even though we moved to different cities, we promised to always keep in touch can't complain.
-   > **中文**：尽管我们搬到了不同的城市，但我们承诺一定会一直保持联系。
+4. I can't complain about my life right now.
+   > **中文**：我现在的生活挺好的，没什么可抱怨的。
 
-5. Looking through this old photo album brings back so many sweet memories catch you up on.
-   > **中文**：翻阅这本旧相册唤起了许多美好的回忆。
+5. I ran into your sister at the supermarket yesterday.
+   > **中文**：我昨天在超市偶遇了你的姐姐。
 
-6. Over the years, I lost track of time while reminiscing with my childhood friend about compliment.
-   > **中文**：这些年来，我和童年好友追忆往事时完全忘记了时间。
+6. Your children are all grown up now!
+   > **中文**：你的孩子们现在都已经长大了！
 
-7. Old friends love to sit together and reminisce about their school days.
-   > **中文**：老朋友们喜欢坐在一起追忆他们的学生时代。
+7. Let me catch you up on all the recent news.
+   > **中文**：让我来跟你聊聊最近的所有新闻近况吧。
 
-8. Feel free to drop by my apartment whenever you are visiting this town about expecting.
-   > **中文**：无论你何时来这个小镇，随时欢迎顺道来我的公寓坐坐。
+8. I am getting used to the quiet life in the countryside.
+   > **中文**：我正在慢慢适应乡村安静的生活。
 
-9. Talking about our old neighborhood was a wonderful trip down memory lane about forties.
-   > **中文**：聊起我们的老街区是一次美妙的回忆之旅。
+9. She has been living overseas for five years.
+   > **中文**：她已经在海外生活了五年。
 
-10. We should definitely get together for lunch sometime next week about design.
-   > **中文**：下周找个时间我们一定要聚一聚吃顿午饭。
+10. Life in my forties feels much more peaceful.
+   > **中文**：四十多岁时的生活感觉平静多了。
+
+11. Did you hear that Sarah is expecting a baby?
+   > **中文**：你听说莎拉即将有宝宝了吗？
+
+12. My youngest son just started kindergarten this fall.
+   > **中文**：我最小的儿子今年秋天刚上幼儿园。
+
+13. I'm loving my new role in graphic design.
+   > **中文**：我非常喜欢我在平面设计领域的新岗位。
+
+14. I'm liking the new apartment layout so far.
+   > **中文**：到目前为止我很喜欢这个新公寓的布局。
+
+15. On the whole, the trip was a huge success.
+   > **中文**：总的来说，那次旅行取得了巨大成功。
+
+16. Overall, things are going very well for us.
+   > **中文**：整体上来看，我们的近况都非常好。
+
+17. So far, everything has been going smoothly.
+   > **中文**：到目前为止，一切都在顺畅地进行。
+
+18. She gave me a lovely compliment on my presentation.
+   > **中文**：她对我的演讲给出了非常美好的赞美。
+
+19. How are things going with your family?
+   > **中文**：你和你的家人最近近况如何？
+
+20. I promise to visit you the next time I come back.
+   > **中文**：我答应下次来的时候一定拜访你。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| how long has it been | 多久没见了 / 过了多久 |
+| back in town | 回到城里 / 回来了 |
+| can't complain | 挺好的 / 没什么可抱怨的 |
+| run into | 偶遇 / 碰见 |
+| all grown up | 长大了 / 成年了 |
+| catch you up on | 跟你叙旧 / 聊聊近况 |
+| get used to | 习惯于 / 适应 |
+| overseas | 海外 / 国外 |
+| forties | 四十多岁 |
+| expecting | 怀孕了 / 即将有宝宝 |
+| kindergarten | 幼儿园 |
+| loving | 非常喜欢 |
+| liking | 挺喜欢 |
+| on the whole | 总的来说 |
+| overall | 整体上 / 总地来看 |
+| so far | 到目前为止 |
+| compliment | 赞美 / 恭维 |
+| things | 生活状况 / 近况 |
+| promise to | 承诺做…… / 答应做…… |
+| design | 设计 |
 
 </quiz-matching>
 
@@ -149,102 +242,202 @@ all grown up, any, back in town, can't complain, catch you up on, compliment, de
 
 ### 1
 
-We sat at a quiet coffee shop to catch up on each other's lives after m`____` years.
+How long has it been ____ we last saw each other?
 
-- [x] any
+- [x] since
 - [ ] all grown up
-- [ ] compliment
+- [ ] any
 
-> **解析**：`catch up (on sth.)` 是动词短语，意为“叙旧、了解近况”，是旧友重逢时的核心表达。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Long time no see, my friend! You haven't changed a bit since high school about any `____`.
+I heard you are back in town for the ____.
 
-- [x] all grown up
-- [ ] back in town
-- [ ] design
+- [x] holiday
+- [ ] all grown up
+- [ ] any
 
-> **解析**：`Long time no see!` 是高频口语打招呼惯用语，意为“好久不见！”，在句中作感叹句开头。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Our high school class held a memorable ten-year reunion over the weekend `____`.
+____ it going with your new job?
 
-- [x] back in town
-- [ ] can't complain
-- [ ] expecting
+- [x] How's
+- [ ] all grown up
+- [ ] any
 
-> **解析**：`reunion` 是名词，意为“重聚、聚会”，短语 `class reunion` 特指“同学会”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Even though we moved to different cities, we promised to always keep in touch `____`.
+I can't ____ about my life right now.
 
-- [x] can't complain
-- [ ] catch you up on
-- [ ] forties
+- [x] complain
+- [ ] all grown up
+- [ ] any
 
-> **解析**：`keep in touch` 是固定动词短语，意为“保持联系”，在句中作不定式 `to keep in touch` 的核心。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Looking through this old photo album brings back so many sweet memories `____`.
+I ran into your sister at the ____ yesterday.
 
-- [x] catch you up on
-- [ ] compliment
-- [ ] get
+- [x] supermarket
+- [ ] all grown up
+- [ ] any
 
-> **解析**：`bring back memories` 是动词短语，意为“勾起回忆、勾起往事”，主语为 `Looking...` 动名词短语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Over the years, I lost track of time while reminiscing with my childhood friend about `____`.
+Your ____ are all grown up now!
 
-- [x] compliment
-- [ ] design
-- [ ] get used to
+- [x] children
+- [ ] all grown up
+- [ ] any
 
-> **解析**：`lose track of (someone/time)` 意为“与……失去联系/忘记时间”，在句中指与朋友叙旧忘了时间。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Old friends love to sit to`____`her and reminisce about their school days.
+Let me catch you up on all the ____ news.
 
-- [x] get
-- [ ] design
-- [ ] going
+- [x] recent
+- [ ] all grown up
+- [ ] any
 
-> **解析**：`reminisce` 是动词，意为“追忆、回忆往事”，固定搭配 `reminisce about...`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Feel free to drop by my apartment whenever you are visiting this town about `____`.
+I am getting used to the quiet life in the ____.
 
-- [x] expecting
-- [ ] forties
-- [ ] how long has it been
+- [x] countryside
+- [ ] all grown up
+- [ ] any
 
-> **解析**：`drop by` 是动词短语，意为“顺道拜访、串门”，侧重于非正式的简短拜访。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Talking about our old neighborhood was a wonderful trip down memory lane about `____`.
+She has been living ____ for five years.
 
-- [x] forties
-- [ ] get
-- [ ] how's
+- [x] overseas
+- [ ] all grown up
+- [ ] any
 
-> **解析**：`trip down memory lane` 是习惯表达，意为“重温旧梦、勾起回忆的旅程”，`memory lane` 指“记忆的小径/回忆”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-We should definitely get together for lunch sometime next week about `____`.
+Life in my ____ feels much more peaceful.
 
-- [x] design
-- [ ] get used to
-- [ ] it's been
+- [x] forties
+- [ ] all grown up
+- [ ] any
 
-> **解析**：`get together` 是动词短语，意为“聚会、聚在一起”，在句中作情态动词 `should` 的谓语。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Did you hear that Sarah is ____ a baby?
+
+- [x] expecting
+- [ ] all grown up
+- [ ] any
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+My youngest son just started ____ this fall.
+
+- [x] kindergarten
+- [ ] all grown up
+- [ ] any
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+I'm ____ my new role in graphic design.
+
+- [x] loving
+- [ ] all grown up
+- [ ] any
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+I'm ____ the new apartment layout so far.
+
+- [x] liking
+- [ ] all grown up
+- [ ] any
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+On the whole, the trip was a huge ____.
+
+- [x] success
+- [ ] all grown up
+- [ ] any
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+____, things are going very well for us.
+
+- [x] Overall
+- [ ] all grown up
+- [ ] any
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+So far, everything has been ____ smoothly.
+
+- [x] going
+- [ ] all grown up
+- [ ] any
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+She gave me a lovely ____ on my presentation.
+
+- [x] compliment
+- [ ] all grown up
+- [ ] any
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+How are ____ going with your family?
+
+- [x] things
+- [ ] all grown up
+- [ ] any
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+I ____ to visit you the next time I come back.
+
+- [x] promise
+- [ ] all grown up
+- [ ] any
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

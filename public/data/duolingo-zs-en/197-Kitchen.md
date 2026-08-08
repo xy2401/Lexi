@@ -51,83 +51,176 @@ half- 是前缀，构成 half-cooked（半熟的）之类的表达。dozen = 一
 
 <quiz-sentence-builder>
 
-1. **中文**：首先，在放入面条之前把一大锅水煮沸。  
-   **英文**：First, bring a large pot of water to a boil before adding the noodles.
-   > **解析**：boil 动词/名词，在此作动词表示“煮沸；烧开”，接名词短语 water。
+1. **中文**：请在沙拉调味汁里加一点点新鲜的橄榄油。
+   **英文**：Add a bit of black pepper to the hot soup.
+   > **解析**：a bit of 表示“一点点/少量”。
 
-2. **中文**：在平底锅里加热橄榄油，将切块的蔬菜煎炒至金黄色。  
-   **英文**：Heat olive oil in the pan and fry the diced vegetables until golden brown.
-   > **解析**：fry 及物/不及物动词，意为“油炸；煎；炒”。
+2. **中文**：她从花园里采摘了一竹篮新鲜的蔬菜。
+   **英文**：Put the fresh green apples inside the fruit basket.
+   > **解析**：basket 表示“篮子/筐”。
 
-3. **中文**：我们决定在户外烧烤架上烤新鲜鸡胸肉。  
-   **英文**：We decided to grill fresh chicken breasts on the outdoor barbecue.
-   > **解析**：grill 及物/不及物动词，意为“烧烤；烤制”。
+3. **中文**：水已经大火水煮烧开了，可以放入面条了。
+   **英文**：Wait until the water begins to boil completely.
+   > **解析**：boil 表示“水煮/沸腾/烧开”。
 
-4. **中文**：小心地把浓郁的蘑菇酱淋在热面条上。  
-   **英文**：Carefully pour the rich mushroom sauce over the warm pasta.
-   > **解析**：pour 及物动词，意为“倒；倾倒；淋上”，常搭配介词 over 或 into。
+4. **中文**：注意不要把吐司面包在烤箱里烤焦了。
+   **英文**：Don't burn the garlic bread inside the hot oven.
+   > **解析**：burn 表示“烧焦/烧糊/烧伤”。
 
-5. **中文**：把新鲜黄瓜切成薄片做成爽口的绿色沙拉。  
-   **英文**：Slice a fresh cucumber thinly to make a crisp green salad.
-   > **解析**：cucumber 可数名词，意为“黄瓜”。
+5. **中文**：做凉拌沙拉时可以切一些爽口的黄瓜片。
+   **英文**：Slice a fresh cucumber for the green salad.
+   > **解析**：cucumber 表示“黄瓜”。
 
-6. **中文**：使用有机食材能提升家常菜的安全性与口感。  
-   **英文**：Using organic ingredients improves both the safety and flavor of home-cooked meals.
-   > **解析**：organic 形容词，意为“有机的”，指不使用化学农药培养的。
+6. **中文**：我们在烘焙店买了一打新鲜鸡蛋。
+   **英文**：She bought a dozen fresh eggs from the market.
+   > **解析**：dozen 表示“一打（12个）”。
 
-7. **中文**：在混合蔬菜上淋少许意式沙拉酱以增加风味。  
-   **英文**：Pour a little Italian dressing over the mixed greens for extra flavor.
-   > **解析**：dressing 不可数/可数名词，意为“（沙拉等）调味酱；调料”。
+7. **中文**：意式沙拉调味汁让生菜变得格外鲜美。
+   **英文**：Pour the delicious salad dressing over the vegetables.
+   > **解析**：dressing 表示“调味汁/沙拉酱”。
 
-8. **中文**：加入一小撮香料可以完全改变这道菜的美味。  
-   **英文**：Adding a pinch of aromatic spice can completely transform the dish.
-   > **解析**：spice 可数/不可数名词，意为“香料；调味品”。
+8. **中文**：用平底锅香煎马铃薯块作为早餐配菜。
+   **英文**：Heat the pan with vegetable oil to fry fish.
+   > **解析**：fry 表示“煎/炸/炒”。
 
-9. **中文**：确保烹饪过程中在接触生肉后洗手。  
-   **英文**：Make sure you wash your hands after handling raw meat during cooking.
-   > **解析**：raw 形容词，意为“生的；未煮熟的”。
+9. **中文**：夏天大家喜欢在后院户外烧烤牛肉串。
+   **英文**：They love to grill chicken on sunny afternoons.
+   > **解析**：grill 表示“烧烤/网烤”。
 
-10. **中文**：在汤炖煮时用木勺持续搅拌。  
-   **英文**：Use a wooden spoon to stir the soup continuously while it simmers.
-   > **解析**：stir 及物动词，意为“搅拌；摇动”。
+10. **中文**：晚餐主食她烹饪了一大碗牛肉汤面条。
+   **英文**：He cooked delicious homemade noodle soup for lunch.
+   > **解析**：noodle 表示“面条”。
+
+11. **中文**：超市里摆满了品质优良的有机农产品。
+   **英文**：We prefer buying fresh organic vegetables daily.
+   > **解析**：organic 表示“有机的/无公害的”。
+
+12. **中文**：请把烧开的热水倾倒进茶壶里去。
+   **英文**：Slowly pour the hot milk into your coffee cup.
+   > **解析**：pour 表示“倾倒/倒出”。
+
+13. **中文**：新鲜的生的三文鱼切片可以做成美味的刺身。
+   **英文**：Never eat raw meat without cooking it properly.
+   > **解析**：raw 表示“生的/未加工的”。
+
+14. **中文**：在饮用之前，请先用力摇晃瓶子。
+   **英文**：Remember to shake the salad dressing bottle well.
+   > **解析**：shake 表示“摇晃/摇动”。
+
+15. **中文**：厨房里飘散出一股浓郁的刚烤好的面包气味。
+   **英文**：The fresh soup has a delicious herbal smell.
+   > **解析**：smell 表示“气味/闻起来”。
+
+16. **中文**：餐厅为客人免费提供带有柠檬片的冰镇气泡水。
+   **英文**：Order a glass of cold sparkling water with ice.
+   > **解析**：sparkling water 表示“气泡水”。
+
+17. **中文**：印度咖喱里加入了多种芳香的传统香料。
+   **英文**：Add exotic spice to give the sauce a kick.
+   > **解析**：spice 表示“香料/调料”。
+
+18. **中文**：糯米甜点表面有一层粘的糖浆。
+   **英文**：Clean off the sticky sauce from the counter table.
+   > **解析**：sticky 表示“粘的/粘性大的”。
+
+19. **中文**：用汤匙轻轻搅拌调味汁使其混合均匀。
+   **英文**：Use a spoon to stir the boiling soup gently.
+   > **解析**：stir 表示“搅拌/搅动”。
+
+20. **中文**：真美味！这道烘焙西点尝起来太棒了。
+   **英文**：Yum! This homemade apple pie tastes fantastic!
+   > **解析**：Yum 是口语感叹词，表示“真美味/好吃”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. First, bring a large pot of water to a boil before adding the noodles.
-   > **中文**：首先，在放入面条之前把一大锅水煮沸。
+1. Add a bit of black pepper to the hot soup.
+   > **中文**：请在沙拉调味汁里加一点点新鲜的橄榄油。
 
-2. Heat olive oil in the pan and fry the diced vegetables until golden brown.
-   > **中文**：在平底锅里加热橄榄油，将切块的蔬菜煎炒至金黄色。
+2. Put the fresh green apples inside the fruit basket.
+   > **中文**：她从花园里采摘了一竹篮新鲜的蔬菜。
 
-3. We decided to grill fresh chicken breasts on the outdoor barbecue.
-   > **中文**：我们决定在户外烧烤架上烤新鲜鸡胸肉。
+3. Wait until the water begins to boil completely.
+   > **中文**：水已经大火水煮烧开了，可以放入面条了。
 
-4. Carefully pour the rich mushroom sauce over the warm pasta.
-   > **中文**：小心地把浓郁的蘑菇酱淋在热面条上。
+4. Don't burn the garlic bread inside the hot oven.
+   > **中文**：注意不要把吐司面包在烤箱里烤焦了。
 
-5. Slice a fresh cucumber thinly to make a crisp green salad.
-   > **中文**：把新鲜黄瓜切成薄片做成爽口的绿色沙拉。
+5. Slice a fresh cucumber for the green salad.
+   > **中文**：做凉拌沙拉时可以切一些爽口的黄瓜片。
 
-6. Using organic ingredients improves both the safety and flavor of home-cooked meals.
-   > **中文**：使用有机食材能提升家常菜的安全性与口感。
+6. She bought a dozen fresh eggs from the market.
+   > **中文**：我们在烘焙店买了一打新鲜鸡蛋。
 
-7. Pour a little Italian dressing over the mixed greens for extra flavor.
-   > **中文**：在混合蔬菜上淋少许意式沙拉酱以增加风味。
+7. Pour the delicious salad dressing over the vegetables.
+   > **中文**：意式沙拉调味汁让生菜变得格外鲜美。
 
-8. Adding a pinch of aromatic spice can completely transform the dish.
-   > **中文**：加入一小撮香料可以完全改变这道菜的美味。
+8. Heat the pan with vegetable oil to fry fish.
+   > **中文**：用平底锅香煎马铃薯块作为早餐配菜。
 
-9. Make sure you wash your hands after handling raw meat during cooking.
-   > **中文**：确保烹饪过程中在接触生肉后洗手。
+9. They love to grill chicken on sunny afternoons.
+   > **中文**：夏天大家喜欢在后院户外烧烤牛肉串。
 
-10. Use a wooden spoon to stir the soup continuously while it simmers.
-   > **中文**：在汤炖煮时用木勺持续搅拌。
+10. He cooked delicious homemade noodle soup for lunch.
+   > **中文**：晚餐主食她烹饪了一大碗牛肉汤面条。
+
+11. We prefer buying fresh organic vegetables daily.
+   > **中文**：超市里摆满了品质优良的有机农产品。
+
+12. Slowly pour the hot milk into your coffee cup.
+   > **中文**：请把烧开的热水倾倒进茶壶里去。
+
+13. Never eat raw meat without cooking it properly.
+   > **中文**：新鲜的生的三文鱼切片可以做成美味的刺身。
+
+14. Remember to shake the salad dressing bottle well.
+   > **中文**：在饮用之前，请先用力摇晃瓶子。
+
+15. The fresh soup has a delicious herbal smell.
+   > **中文**：厨房里飘散出一股浓郁的刚烤好的面包气味。
+
+16. Order a glass of cold sparkling water with ice.
+   > **中文**：餐厅为客人免费提供带有柠檬片的冰镇气泡水。
+
+17. Add exotic spice to give the sauce a kick.
+   > **中文**：印度咖喱里加入了多种芳香的传统香料。
+
+18. Clean off the sticky sauce from the counter table.
+   > **中文**：糯米甜点表面有一层粘的糖浆。
+
+19. Use a spoon to stir the boiling soup gently.
+   > **中文**：用汤匙轻轻搅拌调味汁使其混合均匀。
+
+20. Yum! This homemade apple pie tastes fantastic!
+   > **中文**：真美味！这道烘焙西点尝起来太棒了。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| a bit of | 一点点 |
+| basket | 篮子 |
+| boil | 水煮 / 烧开 |
+| burn | 烧焦 |
+| cucumber | 黄瓜 |
+| dozen | 一打 |
+| dressing | 沙拉酱 |
+| fry | 煎 / 炸 |
+| grill | 烧烤 |
+| noodle | 面条 |
+| organic | 有机的 |
+| pour | 倾倒 |
+| raw | 生的 |
+| shake | 摇晃 |
+| smell | 气味 / 闻起来 |
+| sparkling water | 气泡水 |
+| spice | 香料 |
+| sticky | 粘的 |
+| stir | 搅拌 |
+| Yum | 真美味 |
 
 </quiz-matching>
 
@@ -135,102 +228,202 @@ half- 是前缀，构成 half-cooked（半熟的）之类的表达。dozen = 一
 
 ### 1
 
-First, bring a large pot of water to a `____` before adding the noodles.
+Add a bit of black ____ to the hot soup.
 
-- [x] boil
+- [x] pepper
 - [ ] a bit of
-- [ ] dozen
+- [ ] basket
 
-> **解析**：boil 动词/名词，在此作动词表示“煮沸；烧开”，接名词短语 water。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Heat olive oil in the pan and `____` the diced vegetables until golden brown.
+Put the fresh green apples inside the fruit ____.
 
-- [x] fry
-- [ ] basket
-- [ ] dozen
+- [x] basket
+- [ ] a bit of
+- [ ] boil
 
-> **解析**：fry 及物/不及物动词，意为“油炸；煎；炒”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-We decided to `____` fresh chicken breasts on the outdoor barbecue.
+Wait until the water begins to ____ completely.
 
-- [x] grill
-- [ ] boil
-- [ ] dressing
+- [x] boil
+- [ ] a bit of
+- [ ] basket
 
-> **解析**：grill 及物/不及物动词，意为“烧烤；烤制”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Carefully `____` the rich mushroom sauce over the warm pasta.
+Don't ____ the garlic bread inside the hot oven.
 
-- [x] pour
-- [ ] burn
-- [ ] fry
+- [x] burn
+- [ ] a bit of
+- [ ] basket
 
-> **解析**：pour 及物动词，意为“倒；倾倒；淋上”，常搭配介词 over 或 into。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Slice a fresh `____` thinly to make a crisp green salad.
+Slice a fresh ____ for the green salad.
 
 - [x] cucumber
-- [ ] dozen
-- [ ] half-
+- [ ] a bit of
+- [ ] basket
 
-> **解析**：cucumber 可数名词，意为“黄瓜”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Using `____` ingredients improves both the safety and flavor of home-cooked meals.
+She bought a ____ fresh eggs from the market.
 
-- [x] organic
-- [ ] dozen
-- [ ] half-
+- [x] dozen
+- [ ] a bit of
+- [ ] basket
 
-> **解析**：organic 形容词，意为“有机的”，指不使用化学农药培养的。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Pour a little Italian `____` over the mixed greens for extra flavor.
+____ the delicious salad dressing over the vegetables.
 
-- [x] dressing
-- [ ] fry
-- [ ] organic
+- [x] Pour
+- [ ] a bit of
+- [ ] basket
 
-> **解析**：dressing 不可数/可数名词，意为“（沙拉等）调味酱；调料”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Adding a pinch of aromatic `____` can completely transform the dish.
+Heat the pan with vegetable oil to ____ fish.
 
-- [x] spice
-- [ ] fry
-- [ ] organic
+- [x] fry
+- [ ] a bit of
+- [ ] basket
 
-> **解析**：spice 可数/不可数名词，意为“香料；调味品”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Make sure you wash your hands after handling `____` meat during cooking.
+They love to ____ chicken on sunny afternoons.
 
-- [x] raw
-- [ ] grill
-- [ ] pour
+- [x] grill
+- [ ] a bit of
+- [ ] basket
 
-> **解析**：raw 形容词，意为“生的；未煮熟的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Use a wooden spoon to `____` the soup continuously while it simmers.
+He cooked delicious homemade ____ soup for lunch.
+
+- [x] noodle
+- [ ] a bit of
+- [ ] basket
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+We prefer buying fresh ____ vegetables daily.
+
+- [x] organic
+- [ ] a bit of
+- [ ] basket
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Slowly ____ the hot milk into your coffee cup.
+
+- [x] pour
+- [ ] a bit of
+- [ ] basket
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Never eat ____ meat without cooking it properly.
+
+- [x] raw
+- [ ] a bit of
+- [ ] basket
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Remember to ____ the salad dressing bottle well.
+
+- [x] shake
+- [ ] a bit of
+- [ ] basket
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The fresh soup has a delicious herbal ____.
+
+- [x] smell
+- [ ] a bit of
+- [ ] basket
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Order a glass of cold ____ water with ice.
+
+- [x] sparkling
+- [ ] a bit of
+- [ ] basket
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Add exotic ____ to give the sauce a kick.
+
+- [x] spice
+- [ ] a bit of
+- [ ] basket
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Clean off the ____ sauce from the counter table.
+
+- [x] sticky
+- [ ] a bit of
+- [ ] basket
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Use a spoon to ____ the boiling soup gently.
 
 - [x] stir
-- [ ] half-
-- [ ] raw
+- [ ] a bit of
+- [ ] basket
 
-> **解析**：stir 及物动词，意为“搅拌；摇动”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+____! This homemade apple pie tastes fantastic!
+
+- [x] Yum
+- [ ] a bit of
+- [ ] basket
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

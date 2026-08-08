@@ -61,83 +61,176 @@ bring up 是本单元的核心动词短语，意为"提出（话题）"。搭配
 
 <quiz-sentence-builder>
 
-1. **中文**：我不想提及钱的事，但我们需要缴纳各自那份电费了。  
-   **英文**：I hate to bring up money matters, but we need to pay our share of the electricity bill.
-   > **解析**：`bring up` 是短语动词，在此处意为“提出（话题）、提起”。
+1. **中文**：我们能就如何平均分配家务杂事达成一致吗？  
+   **英文**：Could we agree on how to divide the chores equally?
+   > **解析**：agree on 表示就……达成一致；divide 表示分配；chore 表示家务；equally 表示平均地。
 
-2. **中文**：我们制作了一张每周表格，以便大家公平分担家务。  
-   **英文**：We created a weekly chart so everyone shares household chores fairly.
-   > **解析**：`chore` 是可数名词，常用复数 `chores` 表示日常家务。
+2. **中文**：如果你能请不要把你的个人物品到处乱放，那就太好了。  
+   **英文**：If you could please not leave your belongings everywhere, it would be great.
+   > **解析**：if you could 表示如果你能；please not 表示请不要；belongings 表示个人物品；it would be 表示那就太好了。
 
-3. **中文**：室友们每个月应该平分共同的生活费用。  
-   **英文**：Roommates should divide shared living expenses equally every month.
-   > **解析**：`divide` 作及物动词，搭配 `divide sth equally`（平等地分摊/划分）。
+3. **中文**：我们不要再为旧事争吵了——让我们终于把这件事理清吧。  
+   **英文**：Let's not bring up old issues—let's finally clear this matter up.
+   > **解析**：let's not 表示我们不要；bring up 表示提出/翻旧账；let's finally 表示让我们终于；clear 表示理清。
 
-4. **中文**：请确保把你的个人物品留在你自己的房间里。  
-   **英文**：Please make sure to keep your personal belongings in your own room.
-   > **解析**：`belongings` 复数名词，意为“个人物品、财产”。
+4. **中文**：我讨厌提出这个话题，但你时不时甚至都懒得清理鱼缸和鸟笼。  
+   **英文**：I hate to bring this up, but every once in a while you don't bother to clean the fish tank and bird cage.
+   > **解析**：bring up 表示提出；every once in a while 表示时不时/偶尔；bother to 表示费心做；fish tank 表示鱼缸；bird cage 表示鸟笼。
 
-5. **中文**：如果我们能每隔一段时间对公共厨房进行一次深度清洁，那就太好了。  
-   **英文**：It would be nice if we could clean the shared kitchen deep every once in a while.
-   > **解析**：`every once in a while` 是时间副词短语，意为“偶或、每隔一段时间”。
+5. **中文**：鉴于公共区域的不当行为，请也停止在深夜制造噪音。  
+   **英文**：Considering behavior in common areas, please also stop making noise late at night.
+   > **解析**：behavior 表示行为；please also stop 表示请也停止。
 
-6. **中文**：如果您能在晚上10点后降低噪音，那就太棒了。  
-   **英文**：It would be great if you could keep the noise down after 10 PM.
-   > **解析**：`It would be + 形容词 + if...` 是非常具有委婉礼貌色彩的提出希望句型。
+6. **中文**：浴室的水管坏了，请提醒我不要忘记明天给水管工打电话。  
+   **英文**：The bathroom sink is leaking; remind me not to forget calling the plumber tomorrow.
+   > **解析**：remind me not to 表示提醒我不要；plumber 表示水管工。
 
-7. **中文**：他休假离开前甚至都没费心去倒垃圾。  
-   **英文**：He didn't even bother to take out the trash before leaving for vacation.
-   > **解析**：`bother to do sth` 意为“费心去做某事”，常用否定句。
+7. **中文**：请保证不要未经许可擅自拿走室友的物品。  
+   **英文**：Please promise not to take your roommate's things without asking first.
+   > **解析**：promise not to 表示保证不要；take 表示拿走；ask 表示询问/许可。
 
-8. **中文**：我们需要坐下来，就一套基本室友守则达成一致。  
-   **英文**：We need to sit down and agree on a set of basic house rules about ask.
-   > **解析**：`agree on sth` 是短语动词，意为“就……达成一致意见”。
+8. **中文**：我们应该平均分配每月的房租和水电气账单。  
+   **英文**：We ought to divide the monthly rent and utility bills equally among us.
+   > **解析**：divide 表示分配；equally 表示平均地。
 
-9. **中文**：你能保证在没有事先询问的情况下不使用我的厨房用具吗？  
-   **英文**：Could you promise not to use my kitchen appliances without asking first.
-   > **解析**：`promise not to do sth` 意为“承诺不做某事”。
+9. **中文**：如果你能清理干净餐桌上的个人物品，那就再好不过了。  
+   **英文**：If you could clear your personal belongings off the table, it would be wonderful.
+   > **解析**：if you could 表示如果你能；clear 表示清理；belongings 表示个人物品；it would be 表示那就太好了。
 
-10. **中文**：他邋遢的习惯和吵闹的行为开始打扰到其他室友了。  
-   **英文**：His messy habits and noisy behavior are starting to bother the other roommates.
-   > **解析**：`behavior` 是不可数名词，意为“行为、举止”，作主语。
+10. **中文**：我们不要再为谁该倒垃圾这种小家务而互相抱怨了。  
+   **英文**：Let's not complain about who should take out the trash chore anymore.
+   > **解析**：let's not 表示我们不要；chore 表示家务。
+
+11. **中文**：让我们终于制定出一个大家都能遵守的日常卫生守则吧。  
+   **英文**：Let's finally agree on a daily cleaning schedule that everyone follows.
+   > **解析**：let's finally 表示让我们终于；agree on 表示就……达成一致。
+
+12. **中文**：他有时候连把脏盘子放进洗碗机里都懒得费心去做。  
+   **英文**：Every once in a while, he doesn't even bother to put dirty dishes in the washer.
+   > **解析**：every once in a while 表示时不时；bother to 表示费心去做。
+
+13. **中文**：请也停止在树枝上随意挂放脏乱的鸟笼。  
+   **英文**：Please also stop leaving the dirty bird cage near the window.
+   > **解析**：please also stop 表示请也停止；bird cage 表示鸟笼。
+
+14. **中文**：请不要把湿衣服堆在客厅的沙发上。  
+   **英文**：Please not leave wet clothes piled up on the living room sofa.
+   > **解析**：please not 表示请不要。
+
+15. **中文**：鱼缸里的水需要定期更换，以保持清澈干净。  
+   **英文**：The water in the fish tank needs to be changed regularly to stay clean.
+   > **解析**：fish tank 表示鱼缸；clear/clean 表示清澈干净。
+
+16. **中文**：良好的沟通和规范的行为是室友和谐相处的钥匙。  
+   **英文**：Clear communication and respectful behavior are key to living together peacefully.
+   > **解析**：clear 表示清晰的；behavior 表示行为。
+
+17. **中文**：水管工今天下午会来修好客厅水管漏水的问题。  
+   **英文**：The plumber will come this afternoon to fix the leak in the kitchen pipe.
+   > **解析**：plumber 表示水管工。
+
+18. **中文**：我想提出一个关于如何公平分配周末家务的话题。  
+   **英文**：I'd like to bring up the topic of how to divide weekend chores fairly.
+   > **解析**：bring up 表示提出；divide 表示分配；chore 表示家务。
+
+19. **中文**：请提醒我不要忘记在明天早上之前向室友收取水电费。  
+   **英文**：Remind me not to forget collecting the bill payment from my roommate tomorrow.
+   > **解析**：remind me not to 表示提醒我不要。
+
+20. **中文**：请保证不要在未经许可的情况下拿走别人的私人物品。  
+   **英文**：Promise not to take someone else's personal belongings without asking first.
+   > **解析**：promise not to 表示保证不要；take 表示拿走；belongings 表示个人物品。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I hate to bring up money matters, but we need to pay our share of the electricity bill.
-   > **中文**：我不想提及钱的事，但我们需要缴纳各自那份电费了。
+1. Could we agree on how to divide the chores equally?
+   > **中文**：我们能就如何平均分配家务杂事达成一致吗？
 
-2. We created a weekly chart so everyone shares household chores fairly.
-   > **中文**：我们制作了一张每周表格，以便大家公平分担家务。
+2. If you could please not leave your belongings everywhere, it would be great.
+   > **中文**：如果你能请不要把你的个人物品到处乱放，那就太好了。
 
-3. Roommates should divide shared living expenses equally every month.
-   > **中文**：室友们每个月应该平分共同的生活费用。
+3. Let's not bring up old issues—let's finally clear this matter up.
+   > **中文**：我们不要再为旧事争吵了——让我们终于把这件事理清吧。
 
-4. Please make sure to keep your personal belongings in your own room.
-   > **中文**：请确保把你的个人物品留在你自己的房间里。
+4. I hate to bring this up, but every once in a while you don't bother to clean the fish tank and bird cage.
+   > **中文**：我讨厌提出这个话题，但你时不时甚至都懒得清理鱼缸和鸟笼。
 
-5. It would be nice if we could clean the shared kitchen deep every once in a while.
-   > **中文**：如果我们能每隔一段时间对公共厨房进行一次深度清洁，那就太好了。
+5. Considering behavior in common areas, please also stop making noise late at night.
+   > **中文**：鉴于公共区域的不当行为，请也停止在深夜制造噪音。
 
-6. It would be great if you could keep the noise down after 10 PM.
-   > **中文**：如果您能在晚上10点后降低噪音，那就太棒了。
+6. The bathroom sink is leaking; remind me not to forget calling the plumber tomorrow.
+   > **中文**：浴室的水管坏了，请提醒我不要忘记明天给水管工打电话。
 
-7. He didn't even bother to take out the trash before leaving for vacation.
-   > **中文**：他休假离开前甚至都没费心去倒垃圾。
+7. Please promise not to take your roommate's things without asking first.
+   > **中文**：请保证不要未经许可擅自拿走室友的物品。
 
-8. We need to sit down and agree on a set of basic house rules about ask.
-   > **中文**：我们需要坐下来，就一套基本室友守则达成一致。
+8. We ought to divide the monthly rent and utility bills equally among us.
+   > **中文**：我们应该平均分配每月的房租和水电气账单。
 
-9. Could you promise not to use my kitchen appliances without asking first.
-   > **中文**：你能保证在没有事先询问的情况下不使用我的厨房用具吗？
+9. If you could clear your personal belongings off the table, it would be wonderful.
+   > **中文**：如果你能清理干净餐桌上的个人物品，那就再好不过了。
 
-10. His messy habits and noisy behavior are starting to bother the other roommates.
-   > **中文**：他邋遢的习惯和吵闹的行为开始打扰到其他室友了。
+10. Let's not complain about who should take out the trash chore anymore.
+   > **中文**：我们不要再为谁该倒垃圾这种小家务而互相抱怨了。
+
+11. Let's finally agree on a daily cleaning schedule that everyone follows.
+   > **中文**：让我们终于制定出一个大家都能遵守的日常卫生守则吧。
+
+12. Every once in a while, he doesn't even bother to put dirty dishes in the washer.
+   > **中文**：他有时候连把脏盘子放进洗碗机里都懒得费心去做。
+
+13. Please also stop leaving the dirty bird cage near the window.
+   > **中文**：请也停止在树枝上随意挂放脏乱的鸟笼。
+
+14. Please not leave wet clothes piled up on the living room sofa.
+   > **中文**：请不要把湿衣服堆在客厅的沙发上。
+
+15. The water in the fish tank needs to be changed regularly to stay clean.
+   > **中文**：鱼缸里的水需要定期更换，以保持清澈干净。
+
+16. Clear communication and respectful behavior are key to living together peacefully.
+   > **中文**：良好的沟通和规范的行为是室友和谐相处的钥匙。
+
+17. The plumber will come this afternoon to fix the leak in the kitchen pipe.
+   > **中文**：水管工今天下午会来修好客厅水管漏水的问题。
+
+18. I'd like to bring up the topic of how to divide weekend chores fairly.
+   > **中文**：我想提出一个关于如何公平分配周末家务的话题。
+
+19. Remind me not to forget collecting the bill payment from my roommate tomorrow.
+   > **中文**：请提醒我不要忘记在明天早上之前向室友收取水电费。
+
+20. Promise not to take someone else's personal belongings without asking first.
+   > **中文**：请保证不要在未经许可的情况下拿走别人的私人物品。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| bring up | 提出（话题） |
+| chore | 家务杂事 |
+| divide | 分配；划分 |
+| equally | 平均地 |
+| belongings | 个人物品 |
+| behavior | 行为 |
+| agree on | 就……达成一致 |
+| bother to | 费心去做 |
+| every once in a while | 偶尔；时不时 |
+| fish tank | 鱼缸 |
+| bird cage | 鸟笼 |
+| plumber | 水管工 |
+| if you could | 如果你能…… |
+| it would be | 那就太好了 |
+| please not | 请不要 |
+| promise not to | 保证不要 |
+| remind me not to | 提醒我不要 |
+| let's finally | 让我们终于…… |
+| let's not | 我们不要…… |
+| clear | 理清；清理 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ bring up 是本单元的核心动词短语，意为"提出（话题）"。搭配
 
 ### 1
 
-I hate to `____` money matters, but we need to pay our share of the electricity bill.
+Could we agree on how to ____ the chores equally?
 
-- [x] bring up
+- [x] divide
 - [ ] agree on
-- [ ] bird cage
+- [ ] ask
 
-> **解析**：`bring up` 是短语动词，在此处意为“提出（话题）、提起”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-We created a weekly chart so everyone shares household `____`s fairly.
+If you could please not leave your ____ everywhere, it would be great.
 
-- [x] chore
+- [x] belongings
+- [ ] agree on
 - [ ] ask
-- [ ] bother to
 
-> **解析**：`chore` 是可数名词，常用复数 `chores` 表示日常家务。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Roommates should `____` shared living expenses equally every month.
+Let's not bring up old issues—let's finally ____ this matter up.
 
-- [x] divide
-- [ ] behavior
-- [ ] bring up
+- [x] clear
+- [ ] agree on
+- [ ] ask
 
-> **解析**：`divide` 作及物动词，搭配 `divide sth equally`（平等地分摊/划分）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Please make sure to keep your personal `____` in your own room.
+I hate to bring this up, but every once in a while you don't ____ to clean the fish tank and bird cage.
 
-- [x] belongings
-- [ ] bird cage
-- [ ] clear
+- [x] bother
+- [ ] agree on
+- [ ] ask
 
-> **解析**：`belongings` 复数名词，意为“个人物品、财产”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-It would be nice if we could clean the shared kitchen deep `____`.
+Considering ____ in common areas, please also stop making noise late at night.
 
-- [x] every once in a while
-- [ ] bird cage
-- [ ] clear
+- [x] behavior
+- [ ] agree on
+- [ ] ask
 
-> **解析**：`every once in a while` 是时间副词短语，意为“偶或、每隔一段时间”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-It would be great `____` keep the noise down after 10 PM.
+The bathroom sink is leaking; remind me not to forget calling the ____ tomorrow.
 
-- [x] if you could
-- [ ] bother to
-- [ ] divide
+- [x] plumber
+- [ ] agree on
+- [ ] ask
 
-> **解析**：`It would be + 形容词 + if...` 是非常具有委婉礼貌色彩的提出希望句型。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-He didn't even `____` take out the trash before leaving for vacation.
+Please promise not to ____ your roommate's things without asking first.
 
-- [x] bother to
-- [ ] chore
-- [ ] every once in a while
+- [x] take
+- [ ] agree on
+- [ ] ask
 
-> **解析**：`bother to do sth` 意为“费心去做某事”，常用否定句。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-We need to sit down and `____` a set of basic house rules about ask.
+We ought to ____ the monthly rent and utility bills equally among us.
 
-- [x] agree on
-- [ ] clear
-- [ ] fish tank
+- [x] divide
+- [ ] agree on
+- [ ] ask
 
-> **解析**：`agree on sth` 是短语动词，意为“就……达成一致意见”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Could you promise not to use my kitchen appliances without `____`ing first.
+If you could ____ your personal belongings off the table, it would be wonderful.
 
-- [x] ask
-- [ ] divide
-- [ ] if you could
+- [x] clear
+- [ ] agree on
+- [ ] ask
 
-> **解析**：`promise not to do sth` 意为“承诺不做某事”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-His messy habits and noisy `____` are starting to bother the other roommates.
+Let's not complain about who should ____ out the trash chore anymore.
 
-- [x] behavior
-- [ ] equally
-- [ ] it would be
+- [x] take
+- [ ] agree on
+- [ ] ask
 
-> **解析**：`behavior` 是不可数名词，意为“行为、举止”，作主语。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Let's finally agree on a daily ____ schedule that everyone follows.
+
+- [x] cleaning
+- [ ] agree on
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Every once in a while, he ____ even bother to put dirty dishes in the washer.
+
+- [x] doesn't
+- [ ] agree on
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Please also stop ____ the dirty bird cage near the window.
+
+- [x] leaving
+- [ ] agree on
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Please not leave wet ____ piled up on the living room sofa.
+
+- [x] clothes
+- [ ] agree on
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The water in the fish tank needs to be changed ____ to stay clean.
+
+- [x] regularly
+- [ ] agree on
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+____ communication and respectful behavior are key to living together peacefully.
+
+- [x] Clear
+- [ ] agree on
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The ____ will come this afternoon to fix the leak in the kitchen pipe.
+
+- [x] plumber
+- [ ] agree on
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+I'd like to bring up the topic of how to ____ weekend chores fairly.
+
+- [x] divide
+- [ ] agree on
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Remind me not to forget ____ the bill payment from my roommate tomorrow.
+
+- [x] collecting
+- [ ] agree on
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Promise not to ____ someone else's personal belongings without asking first.
+
+- [x] take
+- [ ] agree on
+- [ ] ask
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

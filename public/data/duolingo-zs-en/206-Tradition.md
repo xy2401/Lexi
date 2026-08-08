@@ -53,83 +53,176 @@ light → lit 是不规则动词变化（点燃）。get dark = 天黑。stand �
 
 <quiz-sentence-builder>
 
-1. **中文**：我们聚集在后院，和邻居们一起享受传统的夏季户外烧烤。  
-   **英文**：We gathered in the backyard for a traditional summer barbecue with neighbors.
-   > **解析**：barbecue 可数/不可数名词，意为“户外烧烤；烤肉聚会”。
+1. **中文**：我们雕刻了一个南瓜来为万圣节制作南瓜灯。  
+   **英文**：We carved a pumpkin to make a jack-o'-lantern for Halloween.
+   > **解析**：carve 表示“雕刻”，pumpkin 表示“南瓜”，jack-o'-lantern 表示“南瓜灯”。
 
-2. **中文**：我们全家在周末搞了一次车库售卖，出售旧家具和旧书。  
-   **英文**：Our family hosted a weekend garage sale to sell old furniture and books.
-   > **解析**：garage sale 可数名词短语，意为“车库旧货出售”。
+2. **中文**：当天开始变黑时，他们在前院点燃了一支蜡烛。  
+   **英文**：They lit a candle in the front yard when it started to get dark.
+   > **解析**：lit 是 light 的过去式，“点燃”；front yard 表示“前院”；get dark 表示“天变黑”。
 
-3. **中文**：在营火旁喝一马克杯热可可极受我们喜欢的傍晚活动。  
-   **英文**：Drinking a mug of hot cocoa near the campfire is our favorite evening activity.
-   > **解析**：hot cocoa 名词短语，意为“热可可”。
+3. **中文**：在秋天喝热可可和甜苹果酒很受欢迎。  
+   **英文**：Drinking hot cocoa and sweet cider is popular in autumn.
+   > **解析**：hot cocoa 表示“热可可”，cider 表示“苹果酒/苹果汁”。
 
-4. **中文**：经过几个月的辛勤劳作，农民们庆祝秋收。  
-   **英文**：Farmers celebrate the autumn harvest after months of hard work.
-   > **解析**：harvest 名词/动词，在此作名词意为“收获；丰收”。
+4. **中文**：我们正计划在夏季开展一次长途公路旅行。  
+   **英文**：We are planning a long road trip during the summertime.
+   > **解析**：road trip 表示“公路旅行”，summertime 表示“夏季时光”。
 
-5. **中文**：我们雕刻了一个巨大的橙色南瓜放在前门廊附近。  
-   **英文**：We carved a big orange pumpkin to place near the front porch.
-   > **解析**：pumpkin 可数名词，意为“南瓜”。
+5. **中文**：他们决定组织一次车库甩卖来出售旧玩具。  
+   **英文**：They decided to organize a garage sale to sell old toys.
+   > **解析**：organize 表示“组织”，garage sale 表示“车库甩卖”。
 
-6. **中文**：游览完当地果园后，他们喜欢喝冰苹果汁/苹果酒。  
-   **英文**：They enjoyed drinking cold apple cider after visiting the local orchard.
-   > **解析**：cider 不可数/可数名词，意为“苹果汁；苹果酒”。
+6. **中文**：在吹灭生日蜡烛之前许一个愿吧。  
+   **英文**：Make a wish before you blow out the birthday candles.
+   > **解析**：make a wish 表示“许愿”，blow out 表示“吹灭”。
 
-7. **中文**：沿着沿海公路进行夏季公路旅行是令人难忘的。  
-   **英文**：Driving along the coastal highway for a summer road trip was unforgettable.
-   > **解析**：road trip 可数名词短语，意为“公路自驾游”。
+7. **中文**：全家人聚集在一起参加了一场美味的百家饭烧烤派对。  
+   **英文**：The whole family gathered for a delicious barbecue potluck party.
+   > **解析**：barbecue 表示“烧烤”，potluck 表示“百家饭聚餐”。
 
-8. **中文**：吹灭生日蜡烛是一项许愿的传统。  
-   **英文**：Blowing out the birthday candles is a tradition where you make a wish.
-   > **解析**：make a wish 常用动词短语，意为“许愿”。
+8. **中文**：农民们怀着无比的喜悦庆祝每年的秋收。  
+   **英文**：Farmers celebrate the annual fall harvest with great joy.
+   > **解析**：harvest 表示“收获、秋收”。
 
-9. **中文**：孩子们喜欢在前院绿油油的草地上奔跑。  
-   **英文**：Children loved running through the green grass in the front yard.
-   > **解析**：front yard 名词短语，意为“前院”。
+9. **中文**：在客厅里挂上五彩斑斓的圣诞装饰品。  
+   **英文**：Put up colorful Christmas decorations in the living room.
+   > **解析**：decorations 表示“装饰品”。
 
-10. **中文**：每个邻居都带了一道自制菜肴在夏季百家宴餐会上分享。  
-   **英文**：Every neighbor brought a homemade dish to share at the summer potluck.
-   > **解析**：potluck 可数/不可数名词，意为“百家宴；聚餐（每人自带一菜）”。
+10. **中文**：风太强了，吹倒了食品摊位。  
+   **英文**：The wind was so strong that it blew over the food stand.
+   > **解析**：strong 表示“强烈的”，stand 表示“摊位”。
+
+11. **中文**：我们在我叔叔家一起看了超级碗比赛。  
+   **英文**：We watched the Super Bowl game together at my uncle's house.
+   > **解析**：Super Bowl 意为“超级碗”（美国橄榄球总决赛）。
+
+12. **中文**：在春季去参加州博览会总是一个令人惊喜的体验。  
+   **英文**：Going to the state fair in springtime is always a pleasant surprise.
+   > **解析**：state fair 表示“州博览会”，springtime 表示“春季时光”，surprise 表示“惊喜”。
+
+13. **中文**：春季大扫除帮助我们清理车库里的杂物。  
+   **英文**：Spring cleaning helps us clear out clutter from the garage.
+   > **解析**：cleaning 表示“打扫”，spring cleaning 意为“春季大扫除”。
+
+14. **中文**：他站在柠檬水摊位旁买冷饮。  
+   **英文**：He stood by the lemonade stand to buy a cool drink.
+   > **解析**：stand 作名词表示“摊位”。
+
+15. **中文**：她把一个巨大的南瓜从田里搬到了卡车上。  
+   **英文**：She carried a giant pumpkin from the field to the truck.
+   > **解析**：pumpkin 表示“南瓜”。
+
+16. **中文**：当外面变黑时，路灯会自动点亮。  
+   **英文**：The street lamps are lit automatically when it gets dark outside.
+   > **解析**：get dark 表示“天变黑”。
+
+17. **中文**：在院子里忙碌完后，我很想喝一杯热苹果汁。  
+   **英文**：I'd love a cup of hot cider after working in the yard.
+   > **解析**：cider 意为“苹果汁/苹果酒”。
+
+18. **中文**：当我的朋友们为我组织派对时，那是一个绝妙的惊喜。  
+   **英文**：It was a wonderful surprise when my friends organized a party for me.
+   > **解析**：surprise 意为“惊喜”，organized 意为“组织”。
+
+19. **中文**：我们在夏季假期里享受了温暖的阳光。  
+   **英文**：We enjoyed the warm sunshine during our summertime vacation.
+   > **解析**：summertime 意为“夏季时光”。
+
+20. **中文**：轻轻吹吹汤，因为它非常烫。  
+   **英文**：Blow gently on the soup because it is very hot.
+   > **解析**：blow 意为“吹”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We gathered in the backyard for a traditional summer barbecue with neighbors.
-   > **中文**：我们聚集在后院，和邻居们一起享受传统的夏季户外烧烤。
+1. We carved a pumpkin to make a jack-o'-lantern for Halloween.
+   > **中文**：我们雕刻了一个南瓜来为万圣节制作南瓜灯。
 
-2. Our family hosted a weekend garage sale to sell old furniture and books.
-   > **中文**：我们全家在周末搞了一次车库售卖，出售旧家具和旧书。
+2. They lit a candle in the front yard when it started to get dark.
+   > **中文**：当天开始变黑时，他们在前院点燃了一支蜡烛。
 
-3. Drinking a mug of hot cocoa near the campfire is our favorite evening activity.
-   > **中文**：在营火旁喝一马克杯热可可极受我们喜欢的傍晚活动。
+3. Drinking hot cocoa and sweet cider is popular in autumn.
+   > **中文**：在秋天喝热可可和甜苹果酒很受欢迎。
 
-4. Farmers celebrate the autumn harvest after months of hard work.
-   > **中文**：经过几个月的辛勤劳作，农民们庆祝秋收。
+4. We are planning a long road trip during the summertime.
+   > **中文**：我们正计划在夏季开展一次长途公路旅行。
 
-5. We carved a big orange pumpkin to place near the front porch.
-   > **中文**：我们雕刻了一个巨大的橙色南瓜放在前门廊附近。
+5. They decided to organize a garage sale to sell old toys.
+   > **中文**：他们决定组织一次车库甩卖来出售旧玩具。
 
-6. They enjoyed drinking cold apple cider after visiting the local orchard.
-   > **中文**：游览完当地果园后，他们喜欢喝冰苹果汁/苹果酒。
+6. Make a wish before you blow out the birthday candles.
+   > **中文**：在吹灭生日蜡烛之前许一个愿吧。
 
-7. Driving along the coastal highway for a summer road trip was unforgettable.
-   > **中文**：沿着沿海公路进行夏季公路旅行是令人难忘的。
+7. The whole family gathered for a delicious barbecue potluck party.
+   > **中文**：全家人聚集在一起参加了一场美味的百家饭烧烤派对。
 
-8. Blowing out the birthday candles is a tradition where you make a wish.
-   > **中文**：吹灭生日蜡烛是一项许愿的传统。
+8. Farmers celebrate the annual fall harvest with great joy.
+   > **中文**：农民们怀着无比的喜悦庆祝每年的秋收。
 
-9. Children loved running through the green grass in the front yard.
-   > **中文**：孩子们喜欢在前院绿油油的草地上奔跑。
+9. Put up colorful Christmas decorations in the living room.
+   > **中文**：在客厅里挂上五彩斑斓的圣诞装饰品。
 
-10. Every neighbor brought a homemade dish to share at the summer potluck.
-   > **中文**：每个邻居都带了一道自制菜肴在夏季百家宴餐会上分享。
+10. The wind was so strong that it blew over the food stand.
+   > **中文**：风太强了，吹倒了食品摊位。
+
+11. We watched the Super Bowl game together at my uncle's house.
+   > **中文**：我们在我叔叔家一起看了超级碗比赛。
+
+12. Going to the state fair in springtime is always a pleasant surprise.
+   > **中文**：在春季去参加州博览会总是一个令人惊喜的体验。
+
+13. Spring cleaning helps us clear out clutter from the garage.
+   > **中文**：春季大扫除帮助我们清理车库里的杂物。
+
+14. He stood by the lemonade stand to buy a cool drink.
+   > **中文**：他站在柠檬水摊位旁买冷饮。
+
+15. She carried a giant pumpkin from the field to the truck.
+   > **中文**：她把一个巨大的南瓜从田里搬到了卡车上。
+
+16. The street lamps are lit automatically when it gets dark outside.
+   > **中文**：当外面变黑时，路灯会自动点亮。
+
+17. I'd love a cup of hot cider after working in the yard.
+   > **中文**：在院子里忙碌完后，我很想喝一杯热苹果汁。
+
+18. It was a wonderful surprise when my friends organized a party for me.
+   > **中文**：当我的朋友们为我组织派对时，那是一个绝妙的惊喜。
+
+19. We enjoyed the warm sunshine during our summertime vacation.
+   > **中文**：我们在夏季假期里享受了温暖的阳光。
+
+20. Blow gently on the soup because it is very hot.
+   > **中文**：轻轻吹吹汤，因为它非常烫。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| barbecue | 烧烤；户外烧烤聚会 |
+| blow | 吹；吹气 |
+| carve | 雕刻（如刻南瓜） |
+| cider | 苹果酒；苹果汁 |
+| cleaning | 打扫；大扫除 |
+| decorations | 装饰品 |
+| front yard | 前院 |
+| garage sale | 车库甩卖 |
+| get dark | 天变黑 |
+| harvest | 收获；丰收 |
+| hot cocoa | 热可可 |
+| jack-o'-lantern | 南瓜灯 |
+| light | 点燃；光线 |
+| lit | 点燃的（light的过去式） |
+| make a wish | 许愿 |
+| organize | 组织；筹备 |
+| potluck | 百家饭聚餐 |
+| pumpkin | 南瓜 |
+| road trip | 公路旅行 |
+| summertime | 夏季；夏日时光 |
 
 </quiz-matching>
 
@@ -137,102 +230,202 @@ light → lit 是不规则动词变化（点燃）。get dark = 天黑。stand �
 
 ### 1
 
-We gathered in the backyard for a traditional summer `____` with neighbors.
+We carved a ____ to make a jack-o'-lantern for Halloween.
 
-- [x] barbecue
+- [x] pumpkin
+- [ ] barbecue
 - [ ] blow
-- [ ] decorations
 
-> **解析**：barbecue 可数/不可数名词，意为“户外烧烤；烤肉聚会”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Our family hosted a weekend `____` to sell old furniture and books.
+They ____ a candle in the front yard when it started to get dark.
 
-- [x] garage sale
+- [x] lit
+- [ ] barbecue
 - [ ] blow
-- [ ] decorations
 
-> **解析**：garage sale 可数名词短语，意为“车库旧货出售”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Drinking a mug of `____` near the campfire is our favorite evening activity.
+Drinking hot cocoa and sweet ____ is popular in autumn.
 
-- [x] hot cocoa
-- [ ] carve
-- [ ] front yard
+- [x] cider
+- [ ] barbecue
+- [ ] blow
 
-> **解析**：hot cocoa 名词短语，意为“热可可”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Farmers celebrate the autumn `____` after months of hard work.
+We are planning a long road trip during the ____.
 
-- [x] harvest
-- [ ] cider
-- [ ] garage sale
+- [x] summertime
+- [ ] barbecue
+- [ ] blow
 
-> **解析**：harvest 名词/动词，在此作名词意为“收获；丰收”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-We `____`d a big orange pumpkin to place near the front porch.
+They decided to ____ a garage sale to sell old toys.
 
-- [x] carve
-- [ ] decorations
-- [ ] harvest
+- [x] organize
+- [ ] barbecue
+- [ ] blow
 
-> **解析**：pumpkin 可数名词，意为“南瓜”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-They enjoyed drinking cold apple `____` after visiting the local orchard.
+Make a wish before you ____ out the birthday candles.
 
-- [x] cider
-- [ ] front yard
-- [ ] hot cocoa
+- [x] blow
+- [ ] barbecue
+- [ ] carve
 
-> **解析**：cider 不可数/可数名词，意为“苹果汁；苹果酒”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Driving along the coastal highway for a summer `____` was unforgettable.
+The whole family gathered for a delicious ____ potluck party.
 
-- [x] road trip
-- [ ] front yard
-- [ ] hot cocoa
+- [x] barbecue
+- [ ] blow
+- [ ] carve
 
-> **解析**：road trip 可数名词短语，意为“公路自驾游”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-`____`ing out the birthday candles is a tradition where you make a wish.
+Farmers celebrate the annual fall ____ with great joy.
 
-- [x] blow
-- [ ] get dark
-- [ ] light
+- [x] harvest
+- [ ] barbecue
+- [ ] blow
 
-> **解析**：make a wish 常用动词短语，意为“许愿”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Children loved running through the green grass in the `____`.
+Put up colorful Christmas ____ in the living room.
 
-- [x] front yard
-- [ ] harvest
-- [ ] lit
+- [x] decorations
+- [ ] barbecue
+- [ ] blow
 
-> **解析**：front yard 名词短语，意为“前院”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Every neighbor brought a homemade dish to share at the summer `____`.
+The wind was so ____ that it blew over the food stand.
 
-- [x] potluck
-- [ ] harvest
-- [ ] lit
+- [x] strong
+- [ ] barbecue
+- [ ] blow
 
-> **解析**：potluck 可数/不可数名词，意为“百家宴；聚餐（每人自带一菜）”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+We watched the Super Bowl game ____ at my uncle's house.
+
+- [x] together
+- [ ] barbecue
+- [ ] blow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Going to the state fair in ____ is always a pleasant surprise.
+
+- [x] springtime
+- [ ] barbecue
+- [ ] blow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Spring ____ helps us clear out clutter from the garage.
+
+- [x] cleaning
+- [ ] barbecue
+- [ ] blow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+He stood by the lemonade ____ to buy a cool drink.
+
+- [x] stand
+- [ ] barbecue
+- [ ] blow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+She carried a giant ____ from the field to the truck.
+
+- [x] pumpkin
+- [ ] barbecue
+- [ ] blow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The street lamps are ____ automatically when it gets dark outside.
+
+- [x] lit
+- [ ] barbecue
+- [ ] blow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+I'd love a cup of hot ____ after working in the yard.
+
+- [x] cider
+- [ ] barbecue
+- [ ] blow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+It was a wonderful ____ when my friends organized a party for me.
+
+- [x] surprise
+- [ ] barbecue
+- [ ] blow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+We enjoyed the warm sunshine during our ____ vacation.
+
+- [x] summertime
+- [ ] barbecue
+- [ ] blow
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+____ gently on the soup because it is very hot.
+
+- [x] Blow
+- [ ] barbecue
+- [ ] carve
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

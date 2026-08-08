@@ -61,83 +61,176 @@ because 引导原因状语从句。among 表示"在…之间（三者以上）"�
 
 <quiz-sentence-builder>
 
-1. **中文**：请问，您能告诉我们哪个方向是通往山顶的吗？  
-   **英文**：Excuse me, could you tell us which direction leads to the mountain peak.
-   > **解析**：direction 为名词，意为“方向”。which direction 引导宾语从句。lead to 表示“通向/导致”。
+1. **中文**：在深山山谷的自然风景中，古代遗迹隐藏在山峰之间。  
+   **英文**：In the natural beauty of the valley, the peak has ruins among rocks.
+   > **解析**：natural beauty 表示“自然美景”；valley 表示“山谷”；peak 表示“山峰/顶峰”；among 表示“在……之中”。
 
-2. **中文**：徒步者们在悬崖边停下脚步，俯瞰下方绿色的山谷。  
-   **英文**：Hikers paused on the cliff edge to look down at the green valley below.
-   > **解析**：valley 为名词，意为“山谷、溪谷”。look down at 意为“俯瞰/向下看”。
+2. **中文**：在微风吹拂的灰蒙蒙路途上，蚊子和蝴蝶在树枝下方飞舞。  
+   **英文**：Mosquitoes and butterflies flew underneath the tree branch.
+   > **解析**：mosquito / mosquitoes 表示“蚊子”；butterfly / butterflies 表示“蝴蝶”；underneath 表示“在……下方”。
 
-3. **中文**：在日落前到达山顶需要四个小时的持续攀登。  
-   **英文**：Reaching the mountain peak before sunset requires four hours of continuous climbing.
-   > **解析**：peak 为名词，意为“山峰、顶峰”。reach the peak 意为“登顶”。continuous 意为“持续的”。
+3. **中文**：一只小蚂蚁在干燥的木棍和灰尘堆旁爬行。  
+   **英文**：A small ant crawled near a dusty stick and a pile of dirt.
+   > **解析**：ant 表示“蚂蚁”；dusty 表示“多灰尘的”；stick 表示“木棍”；pile 表示“堆”。
 
-4. **中文**：参加户外活动时，一定要穿结实的靴子和合适的装备。  
-   **英文**：Always wear sturdy boots and suitable gear when participating in outdoor activities.
-   > **解析**：outdoor 为形容词，意为“室外的、户外的”。作定语修饰 activities。副词形式为 outdoors。
+4. **中文**：游客被禁止在此留宿，他们必须去别的地方。  
+   **英文**：Tourists are not allowed here and must go somewhere else.
+   > **解析**：allowed / be allowed 表示“被允许”；somewhere else 表示“其他地方”。
 
-5. **中文**：这条徒步小径会带你经过一座建于数百年前的古老石桥。  
-   **英文**：The hiking path takes you past an ancient stone bridge built hundreds of years ago.
-   > **解析**：ancient 为形容词，意为“古老的、古代的”。built... 为过去分词短语作后置定语。
+5. **中文**：山林里一片宁静，无处可以藏匿危险。  
+   **英文**：The forest was silent, with nowhere to hide for danger.
+   > **解析**：silent 表示“宁静的/寂静的”；nowhere 表示“无处/哪里都没有”。
 
-6. **中文**：他捡起一根木质手杖，以帮助自己在崎岖的步道上保持平衡。  
-   **英文**：He picked up a wooden walking stick to help balance himself on the rocky trail.
-   > **解析**：stick 在句中指“手杖、木棍”（walking stick）。balance himself 意为“使自己保持平衡”。
+6. **中文**：那块形状奇特的沉沉木棍落在泥土里。  
+   **英文**：That stick with a strange shape dropped into the dirt.
+   > **解析**：shape 表示“形状”；stick 表示“木棍”。
 
-7. **中文**：记得喷防虫喷雾，以保护自己在树林里不被蚊子叮咬。  
-   **英文**：Remember to apply insect spray to protect yourself from mosquito bites in the woods.
-   > **解析**：mosquito 为名词，意为“蚊子”。mosquito bite 表示“蚊子叮咬”。apply insect spray 意为“涂抹/喷防虫喷雾”。
+7. **中文**：温和的风吹拂过这片古老自然的草地。  
+   **英文**：A gentle breeze blew across the ancient natural land.
+   > **解析**：gentle 表示“温和的/柔和的”；ancient 表示“古老的”；natural 表示“自然的”。
 
-8. **中文**：我们在大松树下面凉爽的树荫里休息。  
-   **英文**：We rested in the cool shade underneath a huge pine tree.
-   > **解析**：underneath 在此处用作介词，意为“在...下面”。强调位于垂直正下方。
+8. **中文**：我们在山谷顶部欣赏到了无与伦比的美景。  
+   **英文**：We enjoyed the great natural beauty from the valley top.
+   > **解析**：beauty 表示“美丽/美景”；valley 表示“山谷”。
 
-9. **中文**：如果这条步道因维修而关闭，我们今天就必须去别的什么地方徒步了。  
-   **英文**：If this trail is closed for repairs, we will have to hike somewhere else today.
-   > **解析**：somewhere else 为副词短语，意为“在别的什么地方”。在句中作地点状语。
+9. **中文**：在漫步时，请沿着正确的方向前行。  
+   **英文**：When hiking outdoor, keep walking in the right direction.
+   > **解析**：direction 表示“方向”；outdoor / outdoors 表示“户外的”。
 
-10. **中文**：没有适当的许可，在国家公园内是不允许露营的。  
-   **英文**：Camping is not allowed inside the national park without a proper permit.
-   > **解析**：allowed 为动词 allow 的过去分词，构成被动语态（is not allowed），意为“被允许”。proper permit 意为“适当的许可”。
+10. **中文**：那些多灰尘的旧石头整齐地堆成了一堆。  
+   **英文**：Those dusty old stones were set into a neat pile.
+   > **解析**：dusty 表示“多灰尘的”；pile 表示“堆”。
+
+11. **中文**：山谷深处有一条清澈见底的小溪。  
+   **英文**：Deep in the valley, there flows a clear stream.
+   > **解析**：valley 表示“山谷”。
+
+12. **中文**：经过三小时的艰难攀登，我们终于登上了山峰。  
+   **英文**：After three hours of climbing, we reached the peak.
+   > **解析**：peak 表示“山峰/顶峰”。
+
+13. **中文**：这朵绚丽的蝴蝶在花丛中翩翩起舞。  
+   **英文**：This pretty butterfly flew among the colorful flowers.
+   > **解析**：butterfly 表示“蝴蝶”。
+
+14. **中文**：夏天户外有很多烦人的蚊子。  
+   **英文**：There are many annoying mosquitoes outdoors in summer.
+   > **解析**：mosquitoes / mosquito 表示“蚊子”。
+
+15. **中文**：那座古老的城堡遗址吸引了许多历史爱好者。  
+   **英文**：The ancient castle ruins attracted many history fans.
+   > **解析**：ancient 表示“古老的/古代的”。
+
+16. **中文**：这片森林属于国家自然保护区。  
+   **英文**：This big forest is a natural reserve for wild animals.
+   > **解析**：natural 表示“自然的”。
+
+17. **中文**：微风轻轻吹拂，给人带来阵阵凉意。  
+   **英文**：A gentle breeze brought refreshing air to us.
+   > **解析**：gentle 表示“温和的/柔和的”。
+
+18. **中文**：在静谧无声的黑夜里，大家都睡得很香。  
+   **英文**：In the silent night, everyone slept very soundly.
+   > **解析**：silent 表示“静谧的/无声的”。
+
+19. **中文**：请勿在禁止通行的禁区内随意乱走。  
+   **英文**：Walking is not allowed in this restricted area.
+   > **解析**：allowed 表示“被允许的”。
+
+20. **中文**：如果这里太吵，我们可以去别的地方聊。  
+   **英文**：If it is too loud here, let's go somewhere else.
+   > **解析**：somewhere else 表示“其他地方”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Excuse me, could you tell us which direction leads to the mountain peak.
-   > **中文**：请问，您能告诉我们哪个方向是通往山顶的吗？
+1. In the natural beauty of the valley, the peak has ruins among rocks.
+   > **中文**：在深山山谷的自然风景中，古代遗迹隐藏在山峰之间。
 
-2. Hikers paused on the cliff edge to look down at the green valley below.
-   > **中文**：徒步者们在悬崖边停下脚步，俯瞰下方绿色的山谷。
+2. Mosquitoes and butterflies flew underneath the tree branch.
+   > **中文**：在微风吹拂的灰蒙蒙路途上，蚊子和蝴蝶在树枝下方飞舞。
 
-3. Reaching the mountain peak before sunset requires four hours of continuous climbing.
-   > **中文**：在日落前到达山顶需要四个小时的持续攀登。
+3. A small ant crawled near a dusty stick and a pile of dirt.
+   > **中文**：一只小蚂蚁在干燥的木棍和灰尘堆旁爬行。
 
-4. Always wear sturdy boots and suitable gear when participating in outdoor activities.
-   > **中文**：参加户外活动时，一定要穿结实的靴子和合适的装备。
+4. Tourists are not allowed here and must go somewhere else.
+   > **中文**：游客被禁止在此留宿，他们必须去别的地方。
 
-5. The hiking path takes you past an ancient stone bridge built hundreds of years ago.
-   > **中文**：这条徒步小径会带你经过一座建于数百年前的古老石桥。
+5. The forest was silent, with nowhere to hide for danger.
+   > **中文**：山林里一片宁静，无处可以藏匿危险。
 
-6. He picked up a wooden walking stick to help balance himself on the rocky trail.
-   > **中文**：他捡起一根木质手杖，以帮助自己在崎岖的步道上保持平衡。
+6. That stick with a strange shape dropped into the dirt.
+   > **中文**：那块形状奇特的沉沉木棍落在泥土里。
 
-7. Remember to apply insect spray to protect yourself from mosquito bites in the woods.
-   > **中文**：记得喷防虫喷雾，以保护自己在树林里不被蚊子叮咬。
+7. A gentle breeze blew across the ancient natural land.
+   > **中文**：温和的风吹拂过这片古老自然的草地。
 
-8. We rested in the cool shade underneath a huge pine tree.
-   > **中文**：我们在大松树下面凉爽的树荫里休息。
+8. We enjoyed the great natural beauty from the valley top.
+   > **中文**：我们在山谷顶部欣赏到了无与伦比的美景。
 
-9. If this trail is closed for repairs, we will have to hike somewhere else today.
-   > **中文**：如果这条步道因维修而关闭，我们今天就必须去别的什么地方徒步了。
+9. When hiking outdoor, keep walking in the right direction.
+   > **中文**：在漫步时，请沿着正确的方向前行。
 
-10. Camping is not allowed inside the national park without a proper permit.
-   > **中文**：没有适当的许可，在国家公园内是不允许露营的。
+10. Those dusty old stones were set into a neat pile.
+   > **中文**：那些多灰尘的旧石头整齐地堆成了一堆。
+
+11. Deep in the valley, there flows a clear stream.
+   > **中文**：山谷深处有一条清澈见底的小溪。
+
+12. After three hours of climbing, we reached the peak.
+   > **中文**：经过三小时的艰难攀登，我们终于登上了山峰。
+
+13. This pretty butterfly flew among the colorful flowers.
+   > **中文**：这朵绚丽的蝴蝶在花丛中翩翩起舞。
+
+14. There are many annoying mosquitoes outdoors in summer.
+   > **中文**：夏天户外有很多烦人的蚊子。
+
+15. The ancient castle ruins attracted many history fans.
+   > **中文**：那座古老的城堡遗址吸引了许多历史爱好者。
+
+16. This big forest is a natural reserve for wild animals.
+   > **中文**：这片森林属于国家自然保护区。
+
+17. A gentle breeze brought refreshing air to us.
+   > **中文**：微风轻轻吹拂，给人带来阵阵凉意。
+
+18. In the silent night, everyone slept very soundly.
+   > **中文**：在静谧无声的黑夜里，大家都睡得很香。
+
+19. Walking is not allowed in this restricted area.
+   > **中文**：请勿在禁止通行的禁区内随意乱走。
+
+20. If it is too loud here, let's go somewhere else.
+   > **中文**：如果这里太吵，我们可以去别的地方聊。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| allowed | 被允许的 |
+| among | 在……之中 |
+| ancient | 古老的 |
+| ant | 蚂蚁 |
+| beauty | 美丽 / 美景 |
+| butterfly | 蝴蝶 |
+| direction | 方向 |
+| dusty | 多灰尘的 |
+| gentle | 温和的 / 柔和的 |
+| mosquito | 蚊子 |
+| natural | 自然的 |
+| nowhere | 无处 / 哪里都没有 |
+| outdoor | 户外的 |
+| peak | 山峰 / 顶峰 |
+| pile | 堆 |
+| shape | 形状 |
+| silent | 静谧的 / 无声的 |
+| somewhere else | 其他地方 |
+| stick | 木棍 / 粘贴 |
+| valley | 山谷 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ because 引导原因状语从句。among 表示"在…之间（三者以上）"�
 
 ### 1
 
-Excuse me, could you tell us which `____` leads to the mountain peak.
+In the ____ beauty of the valley, the peak has ruins among rocks.
 
-- [x] direction
+- [x] natural
 - [ ] allowed
-- [ ] beauty
+- [ ] among
 
-> **解析**：direction 为名词，意为“方向”。which direction 引导宾语从句。lead to 表示“通向/导致”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Hikers paused on the cliff edge to look down at the green `____` below.
+Mosquitoes and butterflies flew ____ the tree branch.
 
-- [x] valley
+- [x] underneath
+- [ ] allowed
 - [ ] among
-- [ ] because
 
-> **解析**：valley 为名词，意为“山谷、溪谷”。look down at 意为“俯瞰/向下看”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Reaching the mountain `____` before sunset requires four hours of continuous climbing.
+A small ____ crawled near a dusty stick and a pile of dirt.
 
-- [x] peak
-- [ ] ancient
-- [ ] butterfly
+- [x] ant
+- [ ] allowed
+- [ ] among
 
-> **解析**：peak 为名词，意为“山峰、顶峰”。reach the peak 意为“登顶”。continuous 意为“持续的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Always wear sturdy boots and suitable gear when participating in `____` activities.
+Tourists are not ____ here and must go somewhere else.
 
-- [x] outdoor
-- [ ] ant
-- [ ] close
+- [x] allowed
+- [ ] among
+- [ ] ancient
 
-> **解析**：outdoor 为形容词，意为“室外的、户外的”。作定语修饰 activities。副词形式为 outdoors。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The hiking path takes you past an `____` stone bridge built hundreds of years ago.
+The forest was ____, with nowhere to hide for danger.
 
-- [x] ancient
-- [ ] because
-- [ ] dusty
+- [x] silent
+- [ ] allowed
+- [ ] among
 
-> **解析**：ancient 为形容词，意为“古老的、古代的”。built... 为过去分词短语作后置定语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-He picked up a wooden walking `____` to help balance himself on the rocky trail.
+That ____ with a strange shape dropped into the dirt.
 
 - [x] stick
-- [ ] because
-- [ ] dusty
+- [ ] allowed
+- [ ] among
 
-> **解析**：stick 在句中指“手杖、木棍”（walking stick）。balance himself 意为“使自己保持平衡”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Remember to apply insect spray to protect yourself from `____` bites in the woods.
+A ____ breeze blew across the ancient natural land.
 
-- [x] mosquito
-- [ ] butterfly
-- [ ] gentle
+- [x] gentle
+- [ ] allowed
+- [ ] among
 
-> **解析**：mosquito 为名词，意为“蚊子”。mosquito bite 表示“蚊子叮咬”。apply insect spray 意为“涂抹/喷防虫喷雾”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-We rested in the cool shade `____` a huge pine tree.
+We enjoyed the great ____ beauty from the valley top.
 
-- [x] underneath
-- [ ] close
-- [ ] get
+- [x] natural
+- [ ] allowed
+- [ ] among
 
-> **解析**：underneath 在此处用作介词，意为“在...下面”。强调位于垂直正下方。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-If this trail is `____`d for repairs, we will have to hike somewhere else today.
+When hiking ____, keep walking in the right direction.
 
-- [x] close
-- [ ] dusty
-- [ ] natural
+- [x] outdoor
+- [ ] allowed
+- [ ] among
 
-> **解析**：somewhere else 为副词短语，意为“在别的什么地方”。在句中作地点状语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Camping is not `____` inside the national park without a proper permit.
+Those ____ old stones were set into a neat pile.
+
+- [x] dusty
+- [ ] allowed
+- [ ] among
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Deep in the ____, there flows a clear stream.
+
+- [x] valley
+- [ ] allowed
+- [ ] among
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+After three hours of climbing, we reached the ____.
+
+- [x] peak
+- [ ] allowed
+- [ ] among
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+This pretty ____ flew among the colorful flowers.
+
+- [x] butterfly
+- [ ] allowed
+- [ ] among
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+There are many annoying ____ outdoors in summer.
+
+- [x] mosquitoes
+- [ ] allowed
+- [ ] among
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The ____ castle ruins attracted many history fans.
+
+- [x] ancient
+- [ ] allowed
+- [ ] among
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+This big forest is a ____ reserve for wild animals.
+
+- [x] natural
+- [ ] allowed
+- [ ] among
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+A ____ breeze brought refreshing air to us.
+
+- [x] gentle
+- [ ] allowed
+- [ ] among
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+In the ____ night, everyone slept very soundly.
+
+- [x] silent
+- [ ] allowed
+- [ ] among
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Walking is not ____ in this restricted area.
 
 - [x] allowed
-- [ ] gentle
-- [ ] nowhere
+- [ ] among
+- [ ] ancient
 
-> **解析**：allowed 为动词 allow 的过去分词，构成被动语态（is not allowed），意为“被允许”。proper permit 意为“适当的许可”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+If it is too loud here, let's go ____ else.
+
+- [x] somewhere
+- [ ] allowed
+- [ ] among
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

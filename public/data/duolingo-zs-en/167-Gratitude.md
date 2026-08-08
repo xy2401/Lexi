@@ -55,83 +55,176 @@ handle 和 somehow 给场景加了一点叙事感——事情本来不好处理�
 
 <quiz-sentence-builder>
 
-1. **中文**：我真心感谢你昨天对我修车的及时帮助。  
-   **英文**：I truly appreciate your timely help with repairing my car yesterday.
-   > **解析**：appreciate 为及物动词，意为“感激、感谢”。后接名词或动名词（appreciate your help/doing sth.）。
+1. **中文**：非常感谢你在我遇到困难时给予的宝贵帮助。
+   **英文**：I really appreciate all the support you gave me during tough times.
+   > **解析**：appreciate 表示“感激/赏识”。
 
-2. **中文**：收到您参加庆祝活动的热心邀请，我们感到非常高兴。  
-   **英文**：We were delighted to receive your warm invitation to the celebration.
-   > **解析**：delighted 为形容词，意为“非常高兴的、欣喜的”。常用结构 satisfy be delighted to do sth.。
+2. **中文**：保持积极的生活态度能让你快乐面对每一天。
+   **英文**：Maintaining a positive attitude makes life much happier every day.
+   > **解析**：attitude 表示“态度/心态”。
 
-3. **中文**：感谢您对我职业发展的支持，希望我们将来能够合作。  
-   **英文**：Thank you for supporting my career development, and I hope we can collaborate in the future.
-   > **解析**：future 为名词，意为“未来、将来”。in the future 为固定介词短语，意为“在将来”。
+3. **中文**：感谢你送我这么精美的礼物，这真是太棒了！
+   **英文**：Thank you for the wonderful gift, it is truly awesome!
+   > **解析**：awesome 表示“太棒了/极好的”。
 
-4. **中文**：我对于你处理那个棘手局面的高效态度表示深切感激。  
-   **英文**：I am deeply grateful for how efficiently you handled that difficult situation.
-   > **解析**：handle 为及物动词，意为“处理、应对”。接问题或局面作宾语（handle a situation）。
+4. **中文**：听说你顺利通过了考试，我们感到非常欣喜。
+   **英文**：We were delighted to hear that you passed your exam.
+   > **解析**：delighted 表示“欣喜的/高高兴兴的”。
 
-5. **中文**：你贴心的鼓励真的让我一天的心情变得格外美好。  
-   **英文**：Your thoughtful encouragement really helped make my day so much brighter.
-   > **解析**：make 短语 make one's day 意为“让某人一天无比开心/美好”。
+5. **中文**：多名志愿者正在社区里关爱和照料年长者。
+   **英文**：Volunteers spend time caring for the elderly neighbors nearby.
+   > **解析**：elderly 表示“年长的/老人的”。
 
-6. **中文**：谢谢你我不在的时候帮我照看我顽皮的小狗。  
-   **英文**：Thank you for helping me look after my playful puppy while I was away.
-   > **解析**：puppy 为可数名词，意为“幼犬、小狗”。在表达日常感激的情境中出现。
+6. **中文**：我们没想到能这么快就收到你的回复。
+   **英文**：We did not expect to receive your reply so quickly.
+   > **解析**：expect 表示“期待/预期”。
 
-7. **中文**：你那意想不到的礼物让她流下了感激的眼泪。  
-   **英文**：Your unexpected gift brought tears of gratitude to her eyes.
-   > **解析**：unexpected 为形容词，意为“出乎意料的、意外的”，在此处作定语修饰 gift。
+7. **中文**：他们多年的真挚友谊对彼此来说弥足珍贵。
+   **英文**：Their long-lasting friendship means a lot to both of them.
+   > **解析**：friendship 表示“友谊/友情”。
 
-8. **中文**：她对待解决问题的积极态度赢得了队友们的尊重。  
-   **英文**：Her positive attitude toward resolving problems earned the respect of her teammates.
-   > **解析**：attitude 为名词，意为“态度、看法”。常用搭配 attitude toward/to sth.（对某事的态度）。
+8. **中文**：感谢你慷慨地捐赠图书给社区图书馆。
+   **英文**：Thank you for your generous donation to the neighborhood library.
+   > **解析**：generous 表示“慷慨大方的/热心的”。
 
-9. **中文**：我没想到一个刚认识的人会给予我如此慷慨的帮助。  
-   **英文**：I did not expect such a generous favor from someone I had just met.
-   > **解析**：expect 为及物动词，意为“期待、预料”。did not expect 意为“没有预料到”。
+9. **中文**：对于大家提供的一切帮助，我心存无比感恩。
+   **英文**：I am deeply grateful for everything you have done for us.
+   > **解析**：grateful 表示“感激的/感恩的”。
 
-10. **中文**：我们想对您慷慨的资金捐赠表达由衷的谢意。  
-   **英文**：We would like to express our appreciation for your generous financial donation about awesome.
-   > **解析**：generous 为形容词，意为“慷慨的、大方的”，常修饰 gift, donation, help。
+10. **中文**：别担心，我有足够的经验来妥善处理这个问题。
+   **英文**：Don't worry, I can handle this difficult situation on my own.
+   > **解析**：handle 表示“处理/应对”。
+
+11. **中文**：你能在百忙之中抽空来拜访我，真是太好了。
+   **英文**：It was nice of you to stop by and visit us today.
+   > **解析**：it was nice of you to 表示“你太好了……/多谢你……”。
+
+12. **中文**：即便遇到挑战，也要在工作中保持积极的心态。
+   **英文**：Try to stay positive even when facing big challenges at work.
+   > **解析**：positive 表示“积极的/正向的”。
+
+13. **中文**：我向你保证，明天下午前一定把报告完成。
+   **英文**：I promise I will complete the work before tomorrow afternoon.
+   > **解析**：promise 表示“承诺/保证”。
+
+14. **中文**：父母为孩子在学业上取得的优秀成绩感到无比骄傲。
+   **英文**：Parents are very proud of their child's remarkable achievement.
+   > **解析**：proud 表示“骄傲的/自豪的”；proud of 意为“为……感到骄傲”。
+
+15. **中文**：那只可爱的小狗在草地上欢快地追逐小球。
+   **英文**：The playful puppy ran across the yard to catch the ball.
+   > **解析**：puppy 表示“小狗/幼犬”。
+
+16. **中文**：不知怎么地，我们最终在漆黑的森林里找到了出路。
+   **英文**：Somehow, we managed to find our way out of the dark woods.
+   > **解析**：Somehow 表示“不知怎么地/设法”。
+
+17. **中文**：你能在百忙之中帮我带咖啡，这太贴心了。
+   **英文**：It was so sweet of you to bring me coffee this morning.
+   > **解析**：sweet 表示“贴心的/甜蜜的”。
+
+18. **中文**：昨天老朋友的突然拜访是一个令人意想不到的惊喜。
+   **英文**：Her visit was an unexpected surprise that made my day.
+   > **解析**：unexpected 表示“意想不到的/突如其来的”。
+
+19. **中文**：请仔细观看这段视频展示以了解操作步骤。
+   **英文**：Please watch the video instruction carefully before starting.
+   > **解析**：watch 表示“观看/注意”。
+
+20. **中文**：这些感人的细节使得这次聚会格外温馨和难忘。
+   **英文**：These warm details make the reunion so special and warm.
+   > **解析**：make 表示“使得/让”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I truly appreciate your timely help with repairing my car yesterday.
-   > **中文**：我真心感谢你昨天对我修车的及时帮助。
+1. I really appreciate all the support you gave me during tough times.
+   > **中文**：非常感谢你在我遇到困难时给予的宝贵帮助。
 
-2. We were delighted to receive your warm invitation to the celebration.
-   > **中文**：收到您参加庆祝活动的热心邀请，我们感到非常高兴。
+2. Maintaining a positive attitude makes life much happier every day.
+   > **中文**：保持积极的生活态度能让你快乐面对每一天。
 
-3. Thank you for supporting my career development, and I hope we can collaborate in the future.
-   > **中文**：感谢您对我职业发展的支持，希望我们将来能够合作。
+3. Thank you for the wonderful gift, it is truly awesome!
+   > **中文**：感谢你送我这么精美的礼物，这真是太棒了！
 
-4. I am deeply grateful for how efficiently you handled that difficult situation.
-   > **中文**：我对于你处理那个棘手局面的高效态度表示深切感激。
+4. We were delighted to hear that you passed your exam.
+   > **中文**：听说你顺利通过了考试，我们感到非常欣喜。
 
-5. Your thoughtful encouragement really helped make my day so much brighter.
-   > **中文**：你贴心的鼓励真的让我一天的心情变得格外美好。
+5. Volunteers spend time caring for the elderly neighbors nearby.
+   > **中文**：多名志愿者正在社区里关爱和照料年长者。
 
-6. Thank you for helping me look after my playful puppy while I was away.
-   > **中文**：谢谢你我不在的时候帮我照看我顽皮的小狗。
+6. We did not expect to receive your reply so quickly.
+   > **中文**：我们没想到能这么快就收到你的回复。
 
-7. Your unexpected gift brought tears of gratitude to her eyes.
-   > **中文**：你那意想不到的礼物让她流下了感激的眼泪。
+7. Their long-lasting friendship means a lot to both of them.
+   > **中文**：他们多年的真挚友谊对彼此来说弥足珍贵。
 
-8. Her positive attitude toward resolving problems earned the respect of her teammates.
-   > **中文**：她对待解决问题的积极态度赢得了队友们的尊重。
+8. Thank you for your generous donation to the neighborhood library.
+   > **中文**：感谢你慷慨地捐赠图书给社区图书馆。
 
-9. I did not expect such a generous favor from someone I had just met.
-   > **中文**：我没想到一个刚认识的人会给予我如此慷慨的帮助。
+9. I am deeply grateful for everything you have done for us.
+   > **中文**：对于大家提供的一切帮助，我心存无比感恩。
 
-10. We would like to express our appreciation for your generous financial donation about awesome.
-   > **中文**：我们想对您慷慨的资金捐赠表达由衷的谢意。
+10. Don't worry, I can handle this difficult situation on my own.
+   > **中文**：别担心，我有足够的经验来妥善处理这个问题。
+
+11. It was nice of you to stop by and visit us today.
+   > **中文**：你能在百忙之中抽空来拜访我，真是太好了。
+
+12. Try to stay positive even when facing big challenges at work.
+   > **中文**：即便遇到挑战，也要在工作中保持积极的心态。
+
+13. I promise I will complete the work before tomorrow afternoon.
+   > **中文**：我向你保证，明天下午前一定把报告完成。
+
+14. Parents are very proud of their child's remarkable achievement.
+   > **中文**：父母为孩子在学业上取得的优秀成绩感到无比骄傲。
+
+15. The playful puppy ran across the yard to catch the ball.
+   > **中文**：那只可爱的小狗在草地上欢快地追逐小球。
+
+16. Somehow, we managed to find our way out of the dark woods.
+   > **中文**：不知怎么地，我们最终在漆黑的森林里找到了出路。
+
+17. It was so sweet of you to bring me coffee this morning.
+   > **中文**：你能在百忙之中帮我带咖啡，这太贴心了。
+
+18. Her visit was an unexpected surprise that made my day.
+   > **中文**：昨天老朋友的突然拜访是一个令人意想不到的惊喜。
+
+19. Please watch the video instruction carefully before starting.
+   > **中文**：请仔细观看这段视频展示以了解操作步骤。
+
+20. These warm details make the reunion so special and warm.
+   > **中文**：这些感人的细节使得这次聚会格外温馨和难忘。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| appreciate | 感激 / 赏识 |
+| attitude | 态度 / 心态 |
+| awesome | 太棒了 |
+| delighted | 欣喜的 |
+| elderly | 年长的 / 老人 |
+| expect | 期待 / 预期 |
+| friendship | 友谊 |
+| generous | 慷慨大方的 |
+| grateful | 感激的 / 感恩的 |
+| handle | 处理 / 应对 |
+| it was nice of you to | 你太好了…… |
+| positive | 积极的 |
+| promise | 承诺 / 保证 |
+| proud | 骄傲的 / 自豪的 |
+| puppy | 小狗 |
+| somehow | 不知怎么地 |
+| sweet | 贴心的 / 甜蜜的 |
+| unexpected | 意想不到的 |
+| watch | 观看 |
+| make | 使得 / 制作 |
 
 </quiz-matching>
 
@@ -139,102 +232,202 @@ handle 和 somehow 给场景加了一点叙事感——事情本来不好处理�
 
 ### 1
 
-I truly `____` your timely help with repairing my car yesterday.
+I really ____ all the support you gave me during tough times.
 
 - [x] appreciate
 - [ ] attitude
-- [ ] expect
+- [ ] awesome
 
-> **解析**：appreciate 为及物动词，意为“感激、感谢”。后接名词或动名词（appreciate your help/doing sth.）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-We were `____` to receive your warm invitation to the celebration.
+Maintaining a ____ attitude makes life much happier every day.
 
-- [x] delighted
+- [x] positive
+- [ ] appreciate
 - [ ] attitude
-- [ ] friendship
 
-> **解析**：delighted 为形容词，意为“非常高兴的、欣喜的”。常用结构 satisfy be delighted to do sth.。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Thank you for supporting my career development, and I hope we can collaborate in the `____`.
+Thank you for the wonderful gift, it is truly ____!
 
-- [x] future
-- [ ] awesome
-- [ ] friendship
+- [x] awesome
+- [ ] appreciate
+- [ ] attitude
 
-> **解析**：future 为名词，意为“未来、将来”。in the future 为固定介词短语，意为“在将来”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-I am deeply `____` for how efficiently you handled that difficult situation.
+We were ____ to hear that you passed your exam.
 
-- [x] grateful
-- [ ] delighted
-- [ ] future
+- [x] delighted
+- [ ] appreciate
+- [ ] attitude
 
-> **解析**：handle 为及物动词，意为“处理、应对”。接问题或局面作宾语（handle a situation）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Your thoughtful encouragement really helped `____` my day so much brighter.
+Volunteers spend time caring for the ____ neighbors nearby.
 
-- [x] make
-- [ ] elderly
-- [ ] generous
+- [x] elderly
+- [ ] appreciate
+- [ ] attitude
 
-> **解析**：make 短语 make one's day 意为“让某人一天无比开心/美好”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Thank you for helping me look after my playful `____` while I was away.
+We did not ____ to receive your reply so quickly.
 
-- [x] puppy
-- [ ] expect
-- [ ] grateful
+- [x] expect
+- [ ] appreciate
+- [ ] attitude
 
-> **解析**：puppy 为可数名词，意为“幼犬、小狗”。在表达日常感激的情境中出现。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Your un`____`ed gift brought tears of gratitude to her eyes.
+Their long-lasting ____ means a lot to both of them.
 
-- [x] expect
-- [ ] future
-- [ ] it is
+- [x] friendship
+- [ ] appreciate
+- [ ] attitude
 
-> **解析**：unexpected 为形容词，意为“出乎意料的、意外的”，在此处作定语修饰 gift。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Her positive `____` toward resolving problems earned the respect of her teammates.
+Thank you for your ____ donation to the neighborhood library.
 
-- [x] attitude
-- [ ] generous
-- [ ] it was nice of you to
+- [x] generous
+- [ ] appreciate
+- [ ] attitude
 
-> **解析**：attitude 为名词，意为“态度、看法”。常用搭配 attitude toward/to sth.（对某事的态度）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-I did not expect such a `____` favor from someone I had just met.
+I am deeply ____ for everything you have done for us.
 
-- [x] generous
-- [ ] grateful
-- [ ] make
+- [x] grateful
+- [ ] appreciate
+- [ ] attitude
 
-> **解析**：expect 为及物动词，意为“期待、预料”。did not expect 意为“没有预料到”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-We would like to express our appreciation for your generous financial donation about `____`.
+Don't worry, I can ____ this difficult situation on my own.
 
-- [x] awesome
-- [ ] handle
-- [ ] positive
+- [x] handle
+- [ ] appreciate
+- [ ] attitude
 
-> **解析**：generous 为形容词，意为“慷慨的、大方的”，常修饰 gift, donation, help。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+It was nice of you to stop by and ____ us today.
+
+- [x] visit
+- [ ] appreciate
+- [ ] attitude
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Try to stay ____ even when facing big challenges at work.
+
+- [x] positive
+- [ ] appreciate
+- [ ] attitude
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+I ____ I will complete the work before tomorrow afternoon.
+
+- [x] promise
+- [ ] appreciate
+- [ ] attitude
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Parents are very ____ of their child's remarkable achievement.
+
+- [x] proud
+- [ ] appreciate
+- [ ] attitude
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+The playful ____ ran across the yard to catch the ball.
+
+- [x] puppy
+- [ ] appreciate
+- [ ] attitude
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+____, we managed to find our way out of the dark woods.
+
+- [x] Somehow
+- [ ] appreciate
+- [ ] attitude
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+It was so ____ of you to bring me coffee this morning.
+
+- [x] sweet
+- [ ] appreciate
+- [ ] attitude
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Her visit was an ____ surprise that made my day.
+
+- [x] unexpected
+- [ ] appreciate
+- [ ] attitude
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Please ____ the video instruction carefully before starting.
+
+- [x] watch
+- [ ] appreciate
+- [ ] attitude
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+These warm details ____ the reunion so special and warm.
+
+- [x] make
+- [ ] appreciate
+- [ ] attitude
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

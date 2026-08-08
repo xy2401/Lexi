@@ -61,83 +61,176 @@ so that 表示"以便/为了"。tear → tore → torn 是不规则变化。
 
 <quiz-sentence-builder>
 
-1. **中文**：你更喜欢哪一件万圣节服装，恐怖的鬼魂还是超级英雄装？  
-   **英文**：Which Halloween costume do you prefer, the scary ghost or the superhero outfit?
-   > **解析**：costume 为名词，指“节日服装、戏服”。Halloween costume 意为“万圣节服装”。prefer A or B 询问偏好。
+1. **中文**：在万圣节派对上，她扮演了一位身穿巫婆服装的女巫。  
+   **英文**：At the Halloween party, she dressed in a witch costume.
+   > **解析**：Halloween 表示“万圣节”；witch 表示“女巫”；costume 表示“服装/戏服”。
 
-2. **中文**：孩子们在万圣节之夜挨家挨户要糖果。  
-   **英文**：Children walk from door to door asking for candy on Halloween night.
-   > **解析**：Halloween 为专有名词，首字母大写，意为“万圣节（前夜）”。on Halloween night 表示“在万圣节之夜”。
+2. **中文**：那件黑色的戏服很合身，显得非常时尚。  
+   **英文**：That black costume fits well and looks very fashionable.
+   > **解析**：costume 表示“服装”；fit / fits 表示“合身”；fashionable 表示“时尚的”。
 
-3. **中文**：她决定装扮成一个戴着黑色尖顶帽的经典女巫。  
-   **英文**：She decided to dress up as a classic witch wearing a pointed black hat.
-   > **解析**：witch 为名词，意为“女巫、巫婆”。dress up as 意为“打扮/装扮成”。pointed hat 指“尖顶帽”。
+3. **中文**：为了搭配那顶帽子，他系上了一条黑色的领带。  
+   **英文**：To match that hat, he tried tying a dark tie.
+   > **解析**：match 表示“搭配”；tying 表示“系/绑”；tie 表示“领带”。
 
-4. **中文**：形状像黑蝙蝠的纸质装饰品悬挂门廊天花板上。  
-   **英文**：Paper decorations shaped like black bats were hanging from the porch ceiling.
-   > **解析**：bat 为名词，意为“蝙蝠”。shaped like 意为“形状像”。hanging from 表示“悬挂在”。
+4. **中文**：不小心把宽松的斗篷撕裂了，戏服破掉了。  
+   **英文**：He accidentally tore his loose cloak, so it was torn.
+   > **解析**：tore 是 tear 的过去式；torn 是 tear 的过去分词，表示“破裂的/撕破的”；loose 表示“宽松的”。
 
-5. **中文**：先试穿一下这件女巫服，确保尺码对你合适。  
-   **英文**：Try on the witch outfit first to make sure the size fits you properly.
-   > **解析**：fit 为动词，意为“（尺寸/大小）合适、合身”。fit sb. properly 表示“对某人很合身”。
+5. **中文**：这件紧身的服饰太紧了，无法很好地搭配我的鞋。  
+   **英文**：This tight outfit is too tight to match my shoes.
+   > **解析**：tight 表示“紧身的/紧的”；match 表示“搭配”。
 
-6. **中文**：选择与你万圣节派对服装颜色相配的鞋子。  
-   **英文**：Choose shoes that match the color of your Halloween party outfit.
-   > **解析**：match 为动词，意为“搭配、相配”。match the color of... 表示“与...的颜色相配”。
+6. **中文**：一只巨大的黑色蝙蝠在商店门口飞来飞去。  
+   **英文**：A big black bat flew near the entrance of the shop.
+   > **解析**：bat 表示“蝙蝠”；shop 表示“商店”。
 
-7. **中文**：这双超级英雄手套对我来说有点太紧了，戴着很不舒服。  
-   **英文**：These superhero gloves are a bit too tight for me to wear comfortably.
-   > **解析**：tight 为形容词，意为“紧的、紧身的”。too tight 为“太紧”。反义词为 loose（松的）。
+7. **中文**：为了能看清前方的路，女巫点亮了手中的提灯。  
+   **英文**：The witch lit her lantern so that she could see the way.
+   > **解析**：so that 表示“以便于/为了”；witch 表示“女巫”。
 
-8. **中文**：如果你在外面感到冷，可以在戏服外面套一件宽松的斗篷。  
-   **英文**：Wear a loose cloak over your costume if you feel cold outside.
-   > **解析**：loose 为形容词，意为“宽松的、松散的”。loose cloak 表示“宽松的斗篷”。
+8. **中文**：在万圣节夜里，到处都能看到扮成蝙蝠和女巫的人。  
+   **英文**：On Halloween night, costumes of bats and witches are everywhere.
+   > **解析**：costume / costumes 表示“服装/装扮”；bat / bats 表示“蝙蝠”。
 
-9. **中文**：在你的服装上安放发光的灯，以便司机们在夜间能清楚看见你。  
-   **英文**：Put glowing lights on your outfit so that drivers can see you clearly at night.
-   > **解析**：so that 为连词短语，引导目的状语从句，意为“以便、为了”。从句中常连用 can / could 等情态动词。
+9. **中文**：这件夹克的袖子破裂了，需要好好缝补。  
+   **英文**：The sleeve of this jacket is torn and needs fixing.
+   > **解析**：torn 表示“破裂的/撕破的”。
 
-10. **中文**：设计师款万圣节服装在年轻人中变得越来越时尚。  
-   **英文**：Designer Halloween costumes have become increasingly fashionable among young people.
-   > **解析**：fashionable 为形容词，意为“时尚的、流行时髦的”。由 fashion + -able 构成。修饰 Halloween costumes。
+10. **中文**：请帮我系好这套万圣节服装背后的丝带。  
+   **英文**：Please help me by tying the ribbon of my costume.
+   > **解析**：tying 表示“系/绑”；costume 表示“服装”。
+
+11. **中文**：万圣节是孩子们最喜欢的节日之一。  
+   **英文**：Halloween is one of the most popular holidays for kids.
+   > **解析**：Halloween 表示“万圣节”。
+
+12. **中文**：那只黑色的蝙蝠在夜空中静静地飞过。  
+   **英文**：That black bat flew quietly across the dark night sky.
+   > **解析**：bat 表示“蝙蝠”。
+
+13. **中文**：孩子们身穿各种奇特搞笑的万圣节服装。  
+   **英文**：Children wore funny costumes to ask for candies.
+   > **解析**：costumes / costume 表示“戏服/服饰”。
+
+14. **中文**：这身时尚的打扮让你在人群中脱颖而出。  
+   **英文**：This fashionable look makes you stand out in the crowd.
+   > **解析**：fashionable 表示“时尚的/流行的”。
+
+15. **中文**：这双鞋子穿起来非常合身舒适。  
+   **英文**：These shoes fit my feet very well for walking.
+   > **解析**：fit 表示“合身/合适”。
+
+16. **中文**：宽松的衣服穿在身上感觉非常透气舒适。  
+   **英文**：Loose clothes feel very comfortable in hot summer.
+   > **解析**：loose 表示“宽松的”。
+
+17. **中文**：她的黑礼帽和她的黑裙子搭配得非常完美。  
+   **英文**：Her black hat matches her long dress perfectly.
+   > **解析**：matches / match 表示“搭配/相匹配”。
+
+18. **中文**：他不小心撕裂了手里的那张重要纸张。  
+   **英文**：He accidentally tore the piece of paper in his hand.
+   > **解析**：tore 表示“撕裂了（tear的过去式）”。
+
+19. **中文**：他在去派对前仔细地系好了黑色的领带。  
+   **英文**：He tied his black tie before going to the party.
+   > **解析**：tie 表示“领带”。
+
+20. **中文**：紧身牛仔裤展现出了良好的身材线条。  
+   **英文**：Tight jeans show off a fine shape when walking.
+   > **解析**：tight 表示“紧身的”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Which Halloween costume do you prefer, the scary ghost or the superhero outfit?
-   > **中文**：你更喜欢哪一件万圣节服装，恐怖的鬼魂还是超级英雄装？
+1. At the Halloween party, she dressed in a witch costume.
+   > **中文**：在万圣节派对上，她扮演了一位身穿巫婆服装的女巫。
 
-2. Children walk from door to door asking for candy on Halloween night.
-   > **中文**：孩子们在万圣节之夜挨家挨户要糖果。
+2. That black costume fits well and looks very fashionable.
+   > **中文**：那件黑色的戏服很合身，显得非常时尚。
 
-3. She decided to dress up as a classic witch wearing a pointed black hat.
-   > **中文**：她决定装扮成一个戴着黑色尖顶帽的经典女巫。
+3. To match that hat, he tried tying a dark tie.
+   > **中文**：为了搭配那顶帽子，他系上了一条黑色的领带。
 
-4. Paper decorations shaped like black bats were hanging from the porch ceiling.
-   > **中文**：形状像黑蝙蝠的纸质装饰品悬挂门廊天花板上。
+4. He accidentally tore his loose cloak, so it was torn.
+   > **中文**：不小心把宽松的斗篷撕裂了，戏服破掉了。
 
-5. Try on the witch outfit first to make sure the size fits you properly.
-   > **中文**：先试穿一下这件女巫服，确保尺码对你合适。
+5. This tight outfit is too tight to match my shoes.
+   > **中文**：这件紧身的服饰太紧了，无法很好地搭配我的鞋。
 
-6. Choose shoes that match the color of your Halloween party outfit.
-   > **中文**：选择与你万圣节派对服装颜色相配的鞋子。
+6. A big black bat flew near the entrance of the shop.
+   > **中文**：一只巨大的黑色蝙蝠在商店门口飞来飞去。
 
-7. These superhero gloves are a bit too tight for me to wear comfortably.
-   > **中文**：这双超级英雄手套对我来说有点太紧了，戴着很不舒服。
+7. The witch lit her lantern so that she could see the way.
+   > **中文**：为了能看清前方的路，女巫点亮了手中的提灯。
 
-8. Wear a loose cloak over your costume if you feel cold outside.
-   > **中文**：如果你在外面感到冷，可以在戏服外面套一件宽松的斗篷。
+8. On Halloween night, costumes of bats and witches are everywhere.
+   > **中文**：在万圣节夜里，到处都能看到扮成蝙蝠和女巫的人。
 
-9. Put glowing lights on your outfit so that drivers can see you clearly at night.
-   > **中文**：在你的服装上安放发光的灯，以便司机们在夜间能清楚看见你。
+9. The sleeve of this jacket is torn and needs fixing.
+   > **中文**：这件夹克的袖子破裂了，需要好好缝补。
 
-10. Designer Halloween costumes have become increasingly fashionable among young people.
-   > **中文**：设计师款万圣节服装在年轻人中变得越来越时尚。
+10. Please help me by tying the ribbon of my costume.
+   > **中文**：请帮我系好这套万圣节服装背后的丝带。
+
+11. Halloween is one of the most popular holidays for kids.
+   > **中文**：万圣节是孩子们最喜欢的节日之一。
+
+12. That black bat flew quietly across the dark night sky.
+   > **中文**：那只黑色的蝙蝠在夜空中静静地飞过。
+
+13. Children wore funny costumes to ask for candies.
+   > **中文**：孩子们身穿各种奇特搞笑的万圣节服装。
+
+14. This fashionable look makes you stand out in the crowd.
+   > **中文**：这身时尚的打扮让你在人群中脱颖而出。
+
+15. These shoes fit my feet very well for walking.
+   > **中文**：这双鞋子穿起来非常合身舒适。
+
+16. Loose clothes feel very comfortable in hot summer.
+   > **中文**：宽松的衣服穿在身上感觉非常透气舒适。
+
+17. Her black hat matches her long dress perfectly.
+   > **中文**：她的黑礼帽和她的黑裙子搭配得非常完美。
+
+18. He accidentally tore the piece of paper in his hand.
+   > **中文**：他不小心撕裂了手里的那张重要纸张。
+
+19. He tied his black tie before going to the party.
+   > **中文**：他在去派对前仔细地系好了黑色的领带。
+
+20. Tight jeans show off a fine shape when walking.
+   > **中文**：紧身牛仔裤展现出了良好的身材线条。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| Halloween | 万圣节 |
+| bat | 蝙蝠 |
+| costume | 戏服 / 服装 |
+| fashionable | 时尚的 |
+| fit | 合身 / 合适 |
+| loose | 宽松的 |
+| match | 搭配 / 相配 |
+| shop | 商店 / 购物 |
+| so that | 以便于 / 为了 |
+| tear | 撕裂 / 眼泪 |
+| tie | 领带 / 系 |
+| tight | 紧身的 / 紧的 |
+| tore | 撕裂了（tear的过去式） |
+| torn | 破裂的 / 撕破的 |
+| tying | 系 / 绑（tie的现在分词） |
+| witch | 女巫 |
+| did | 做了 |
+| didn't | 没有 |
+| do | 做 |
+| does | 做（第三人称单数） |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ so that 表示"以便/为了"。tear → tore → torn 是不规则变化。
 
 ### 1
 
-Which `____` costume do you prefer, the scary ghost or the superhero outfit?
+At the ____ party, she dressed in a witch costume.
 
 - [x] Halloween
 - [ ] bat
-- [ ] do
+- [ ] costume
 
-> **解析**：costume 为名词，指“节日服装、戏服”。Halloween costume 意为“万圣节服装”。prefer A or B 询问偏好。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Children walk from `____`or to door asking for candy on Halloween night.
+That black ____ fits well and looks very fashionable.
 
-- [x] do
+- [x] costume
+- [ ] Halloween
 - [ ] bat
-- [ ] does
 
-> **解析**：Halloween 为专有名词，首字母大写，意为“万圣节（前夜）”。on Halloween night 表示“在万圣节之夜”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-She decided to dress up as a classic `____` wearing a pointed black hat.
+To ____ that hat, he tried tying a dark tie.
 
-- [x] witch
-- [ ] costume
-- [ ] does
+- [x] match
+- [ ] Halloween
+- [ ] bat
 
-> **解析**：witch 为名词，意为“女巫、巫婆”。dress up as 意为“打扮/装扮成”。pointed hat 指“尖顶帽”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Paper decorations shaped like black `____`s were hanging from the porch ceiling.
+He accidentally ____ his loose cloak, so it was torn.
 
-- [x] bat
-- [ ] didn't
-- [ ] don't
+- [x] tore
+- [ ] Halloween
+- [ ] bat
 
-> **解析**：bat 为名词，意为“蝙蝠”。shaped like 意为“形状像”。hanging from 表示“悬挂在”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Try on the witch out`____` first to make sure the size fits you properly.
+This ____ outfit is too tight to match my shoes.
 
-- [x] fit
-- [ ] didn't
-- [ ] don't
+- [x] tight
+- [ ] Halloween
+- [ ] bat
 
-> **解析**：fit 为动词，意为“（尺寸/大小）合适、合身”。fit sb. properly 表示“对某人很合身”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Choose shoes that `____` the color of your Halloween party outfit.
+A big black ____ flew near the entrance of the shop.
 
-- [x] match
-- [ ] do
-- [ ] fashionable
+- [x] bat
+- [ ] Halloween
+- [ ] costume
 
-> **解析**：match 为动词，意为“搭配、相配”。match the color of... 表示“与...的颜色相配”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-These superhero gloves are a bit too `____` for me to wear comfortably.
+The ____ lit her lantern so that she could see the way.
 
-- [x] tight
-- [ ] does
-- [ ] fit
+- [x] witch
+- [ ] Halloween
+- [ ] bat
 
-> **解析**：tight 为形容词，意为“紧的、紧身的”。too tight 为“太紧”。反义词为 loose（松的）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Wear a loose cloak over your `____` if you feel cold outside.
+On ____ night, costumes of bats and witches are everywhere.
 
-- [x] costume
-- [ ] don't
-- [ ] match
+- [x] Halloween
+- [ ] bat
+- [ ] costume
 
-> **解析**：loose 为形容词，意为“宽松的、松散的”。loose cloak 表示“宽松的斗篷”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Put glowing lights on your outfit `____` drivers can see you clearly at night.
+The sleeve of this jacket is ____ and needs fixing.
 
-- [x] so that
-- [ ] don't
-- [ ] match
+- [x] torn
+- [ ] Halloween
+- [ ] bat
 
-> **解析**：so that 为连词短语，引导目的状语从句，意为“以便、为了”。从句中常连用 can / could 等情态动词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Designer Halloween costumes have become increasingly `____` among young people.
+Please help me by ____ the ribbon of my costume.
+
+- [x] tying
+- [ ] Halloween
+- [ ] bat
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+____ is one of the most popular holidays for kids.
+
+- [x] Halloween
+- [ ] bat
+- [ ] costume
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+That black ____ flew quietly across the dark night sky.
+
+- [x] bat
+- [ ] Halloween
+- [ ] costume
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+____ wore funny costumes to ask for candies.
+
+- [x] Children
+- [ ] Halloween
+- [ ] bat
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+This ____ look makes you stand out in the crowd.
 
 - [x] fashionable
-- [ ] fit
-- [ ] so that
+- [ ] Halloween
+- [ ] bat
 
-> **解析**：fashionable 为形容词，意为“时尚的、流行时髦的”。由 fashion + -able 构成。修饰 Halloween costumes。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+These shoes ____ my feet very well for walking.
+
+- [x] fit
+- [ ] Halloween
+- [ ] bat
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+____ clothes feel very comfortable in hot summer.
+
+- [x] Loose
+- [ ] Halloween
+- [ ] bat
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Her black hat matches her long dress ____.
+
+- [x] perfectly
+- [ ] Halloween
+- [ ] bat
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+He accidentally ____ the piece of paper in his hand.
+
+- [x] tore
+- [ ] Halloween
+- [ ] bat
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+He tied his black ____ before going to the party.
+
+- [x] tie
+- [ ] Halloween
+- [ ] bat
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+____ jeans show off a fine shape when walking.
+
+- [x] Tight
+- [ ] Halloween
+- [ ] bat
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

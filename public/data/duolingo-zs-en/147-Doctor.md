@@ -61,83 +61,176 @@ get sick / get worse 用 get 表示变化。advise sb to do 是"建议某人做"
 
 <quiz-sentence-builder>
 
-1. **中文**：医生们建议患者在感冒时多喝水并注意休息。  
-   **英文**：Doctors advise patients to drink plenty of water and rest when they have a cold.
-   > **解析**：advise 为动词，意为“建议、劝告”。固定句型 advise sb. to do sth.（建议某人做某事）。名词为 advice（不可数）。
+1. **中文**：当你打喷嚏时，人们常说：“祝你健康！”  
+   **英文**：When you sneeze, people often say 'Bless you!'
+   > **解析**：sneeze 表示“打喷嚏”；bless you 表示“祝你健康/上帝保佑你”。
 
-2. **中文**：定期体检有助于在健康问题变得严重之前检测出它们。  
-   **英文**：Regular medical checkups can help detect health issues before they become serious.
-   > **解析**：medical 为形容词，意为“医疗的、医学的”。medical checkup 意为“体检”。detect 意为“检测/发现”。
+2. **中文**：医生建议他戒烟，因为抽烟对健康非常有害。  
+   **英文**：The doctor advised him to quit smoking for health.
+   > **解析**：advise 表示“建议”；quit 表示“戒除/放弃”。
 
-3. **中文**：根据处方，每日两次饭后服用两片药。  
-   **英文**：Take two pills after meals twice daily according to the prescription.
-   > **解析**：pill 为可数名词，意为“药片、丸药”。take pills 意为“吃药”。twice daily 意为“一日两次”。
+3. **中文**：如果你生病了且病情恶化，请去药房买药。  
+   **英文**：If you get sick and get worse, buy pills at the drugstore.
+   > **解析**：get sick 表示“生病”；get worse 表示“病情恶化”；pill 表示“药丸/药片”；drugstore 表示“药房/药局”。
 
-4. **中文**：你可以在附近的任何一家药店购买非处方药。  
-   **英文**：You can purchase over-the-counter medicine at any drugstore nearby.
-   > **解析**：drugstore 为名词，意为“药房、药店”（美式英语）。over-the-counter medicine 意为“非处方药”。
+4. **中文**：严重的疾病可能会导致骨骼剧烈疼痛。  
+   **英文**：A serious disease can make your bone feel very painful.
+   > **解析**：disease / illness 表示“疾病”；bone 表示“骨头/骨骼”；painful 表示“令人疼痛的”。
 
-5. **中文**：饮食健康的人在冬天很少生病。  
-   **英文**：People who eat healthily rarely get sick during winter.
-   > **解析**：get sick 为动词短语，意为“生病”。
+5. **中文**：服用不健康的药物对恢复身体没有好处。  
+   **英文**：Taking an unhealthy drug is bad for medical test.
+   > **解析**：unhealthy 表示“不健康的”；drug 表示“药物/毒品”；medical 表示“医疗的/医学的”。
 
-6. **中文**：在打篮球拧了脚踝之后，走路对他来说变得非常痛苦/疼痛。  
-   **英文**：Walking became very painful for him after he twisted his ankle during basketball.
-   > **解析**：painful 为形容词，由 pain + -ful 构成，意为“痛苦的、疼痛的”。作表语修饰 Walking。
+6. **中文**：感到困倦和生病时，最好躺在床上好好休息。  
+   **英文**：Feeling sleepy and sick, you should stay in bed.
+   > **解析**：sleepy 表示“困倦的”；sick 表示“生病的”。
 
-7. **中文**：医生强烈建议他戒烟以保护他的肺部。  
-   **英文**：The doctor strongly advised him to quit smoking to protect his lungs.
-   > **解析**：quit 为动词，意为“戒除、停止”。后接动名词形式（quit smoking 戒烟）。过去式同为 quit。
+7. **中文**：如果不及时做常规体检，病情可能会变得更糟糕。  
+   **英文**：Without a medical test, the illness may become worse.
+   > **解析**：medical test 表示“医学检查/体检”；worse 表示“更糟糕的/更差的”。
 
-8. **中文**：均衡饮食能增强你的免疫系统，以击退季节性疾病。  
-   **英文**：Eating a balanced diet boosts your immune system to fight off seasonal illness.
-   > **解析**：illness 为名词，意为“疾病、恙病”。boost immune system 意为“增强免疫系统”。fight off 意为“击退”。
+8. **中文**：医生非常严肃地提醒他注意饮食卫生。  
+   **英文**：The doctor told him seriously to keep a healthy diet.
+   > **解析**：seriously 表示“严肃地/认真地”。
 
-9. **中文**：当你咳嗽或打喷嚏时，用纸巾盖住口鼻。  
-   **英文**：Cover your mouth and nose with a tissue when you cough or sneeze.
-   > **解析**：sneeze 为动词，意为“打喷嚏”。cover your mouth 意为“盖住口鼻”。tissue 意为“纸巾”。
+9. **中文**：不幸的是，割伤的手指造成了剧烈的痛苦。  
+   **英文**：Unfortunately, the cut finger was very painful.
+   > **解析**：cut 表示“割伤/伤口”；painful 表示“疼痛的”。
 
-10. **中文**：用清水替代含糖汽水会让你的生活方式健康得多。  
-   **英文**：Replacing sugary sodas with fresh water will make your lifestyle much healthier.
-   > **解析**：healthier 为 healthy 的比较级，意为“更健康的”。make your lifestyle healthier 表示“使你的生活方式更健康”。
+10. **中文**：养成良好的习惯能让人变得越来越健康。  
+   **英文**：Developing good habits makes you become much healthier.
+   > **解析**：healthier 表示“更健康的”。
+
+11. **中文**：阿丘！有人打了一个响亮的喷嚏。  
+   **英文**：Achoo! Someone let out a loud sneeze in the room.
+   > **解析**：sneeze 表示“打喷嚏”。
+
+12. **中文**：你可以在社区药房买到这种止痛药丸。  
+   **英文**：You can get this pain relief pill at the drugstore.
+   > **解析**：drugstore 表示“药房/药局”；pill 表示“药丸”。
+
+13. **中文**：医学检查显示他的骨头恢复得非常好。  
+   **英文**：The medical test showed his broken bone healed well.
+   > **解析**：bone 表示“骨头”；medical 表示“医学的”。
+
+14. **中文**：预防这种流行性疾病需要接种疫苗。  
+   **英文**：Preventing this dangerous disease requires a vaccine.
+   > **解析**：disease 表示“疾病”。
+
+15. **中文**：听完音乐后，他感到一阵阵困倦。  
+   **英文**：After listening to soft music, he felt very sleepy.
+   > **解析**：sleepy 表示“困倦的/打瞌睡的”。
+
+16. **中文**：医生建议他戒掉不健康的生活作息。  
+   **英文**：The doctor advised him to quit his unhealthy lifestyle.
+   > **解析**：advise 表示“建议”；unhealthy 表示“不健康的”。
+
+17. **中文**：如果不按时吃药，你的感冒可能会变得更严重。  
+   **英文**：If you don't take pills, your cold will get worse.
+   > **解析**：get worse 表示“变严重/恶化”。
+
+18. **中文**：多吃新鲜蔬菜水果能让人变得更健康。  
+   **英文**：Eating more fresh fruits helps you stay healthier.
+   > **解析**：healthier 表示“更健康的”。
+
+19. **中文**：医生严肃地指出他需要立刻进行手术治疗。  
+   **英文**：The doctor seriously pointed out he needed surgery.
+   > **解析**：seriously 表示“严肃地/认真地”。
+
+20. **中文**：祝你早日康复，保重身体！  
+   **英文**：Bless you and hope you recover from illness soon!
+   > **解析**：Bless you 表示“祝福你/保重”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Doctors advise patients to drink plenty of water and rest when they have a cold.
-   > **中文**：医生们建议患者在感冒时多喝水并注意休息。
+1. When you sneeze, people often say 'Bless you!'
+   > **中文**：当你打喷嚏时，人们常说：“祝你健康！”
 
-2. Regular medical checkups can help detect health issues before they become serious.
-   > **中文**：定期体检有助于在健康问题变得严重之前检测出它们。
+2. The doctor advised him to quit smoking for health.
+   > **中文**：医生建议他戒烟，因为抽烟对健康非常有害。
 
-3. Take two pills after meals twice daily according to the prescription.
-   > **中文**：根据处方，每日两次饭后服用两片药。
+3. If you get sick and get worse, buy pills at the drugstore.
+   > **中文**：如果你生病了且病情恶化，请去药房买药。
 
-4. You can purchase over-the-counter medicine at any drugstore nearby.
-   > **中文**：你可以在附近的任何一家药店购买非处方药。
+4. A serious disease can make your bone feel very painful.
+   > **中文**：严重的疾病可能会导致骨骼剧烈疼痛。
 
-5. People who eat healthily rarely get sick during winter.
-   > **中文**：饮食健康的人在冬天很少生病。
+5. Taking an unhealthy drug is bad for medical test.
+   > **中文**：服用不健康的药物对恢复身体没有好处。
 
-6. Walking became very painful for him after he twisted his ankle during basketball.
-   > **中文**：在打篮球拧了脚踝之后，走路对他来说变得非常痛苦/疼痛。
+6. Feeling sleepy and sick, you should stay in bed.
+   > **中文**：感到困倦和生病时，最好躺在床上好好休息。
 
-7. The doctor strongly advised him to quit smoking to protect his lungs.
-   > **中文**：医生强烈建议他戒烟以保护他的肺部。
+7. Without a medical test, the illness may become worse.
+   > **中文**：如果不及时做常规体检，病情可能会变得更糟糕。
 
-8. Eating a balanced diet boosts your immune system to fight off seasonal illness.
-   > **中文**：均衡饮食能增强你的免疫系统，以击退季节性疾病。
+8. The doctor told him seriously to keep a healthy diet.
+   > **中文**：医生非常严肃地提醒他注意饮食卫生。
 
-9. Cover your mouth and nose with a tissue when you cough or sneeze.
-   > **中文**：当你咳嗽或打喷嚏时，用纸巾盖住口鼻。
+9. Unfortunately, the cut finger was very painful.
+   > **中文**：不幸的是，割伤的手指造成了剧烈的痛苦。
 
-10. Replacing sugary sodas with fresh water will make your lifestyle much healthier.
-   > **中文**：用清水替代含糖汽水会让你的生活方式健康得多。
+10. Developing good habits makes you become much healthier.
+   > **中文**：养成良好的习惯能让人变得越来越健康。
+
+11. Achoo! Someone let out a loud sneeze in the room.
+   > **中文**：阿丘！有人打了一个响亮的喷嚏。
+
+12. You can get this pain relief pill at the drugstore.
+   > **中文**：你可以在社区药房买到这种止痛药丸。
+
+13. The medical test showed his broken bone healed well.
+   > **中文**：医学检查显示他的骨头恢复得非常好。
+
+14. Preventing this dangerous disease requires a vaccine.
+   > **中文**：预防这种流行性疾病需要接种疫苗。
+
+15. After listening to soft music, he felt very sleepy.
+   > **中文**：听完音乐后，他感到一阵阵困倦。
+
+16. The doctor advised him to quit his unhealthy lifestyle.
+   > **中文**：医生建议他戒掉不健康的生活作息。
+
+17. If you don't take pills, your cold will get worse.
+   > **中文**：如果不按时吃药，你的感冒可能会变得更严重。
+
+18. Eating more fresh fruits helps you stay healthier.
+   > **中文**：多吃新鲜蔬菜水果能让人变得更健康。
+
+19. The doctor seriously pointed out he needed surgery.
+   > **中文**：医生严肃地指出他需要立刻进行手术治疗。
+
+20. Bless you and hope you recover from illness soon!
+   > **中文**：祝你早日康复，保重身体！
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| advise | 建议 |
+| bless you | 祝你健康 / 祝福你 |
+| bone | 骨头 / 骨骼 |
+| catch | 得病 / 抓住 |
+| cut | 割伤 / 伤口 |
+| disease | 疾病 |
+| drug | 药物 / 毒品 |
+| drugstore | 药房 / 药局 |
+| get sick | 生病 |
+| get worse | 病情恶化 / 变差 |
+| healthier | 更健康的 |
+| illness | 疾病 / 不适 |
+| medical | 医疗的 / 医学的 |
+| painful | 令人疼痛的 |
+| pill | 药丸 / 药片 |
+| quit | 戒除 / 放弃 |
+| seriously | 严肃地 / 认真地 |
+| sleepy | 困倦的 |
+| sneeze | 打喷嚏 |
+| unhealthy | 不健康的 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ get sick / get worse 用 get 表示变化。advise sb to do 是"建议某人做"
 
 ### 1
 
-Doctors `____` patients to drink plenty of water and rest when they have a cold.
+When you ____, people often say 'Bless you!'
 
-- [x] advise
+- [x] sneeze
+- [ ] advise
 - [ ] bless you
-- [ ] disease
 
-> **解析**：advise 为动词，意为“建议、劝告”。固定句型 advise sb. to do sth.（建议某人做某事）。名词为 advice（不可数）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Regular `____` checkups can help detect health issues before they become serious.
+The doctor advised him to ____ smoking for health.
 
-- [x] medical
+- [x] quit
+- [ ] advise
 - [ ] bless you
-- [ ] disease
 
-> **解析**：medical 为形容词，意为“医疗的、医学的”。medical checkup 意为“体检”。detect 意为“检测/发现”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Take two `____`s after meals twice daily according to the prescription.
+If you ____ sick and get worse, buy pills at the drugstore.
 
-- [x] pill
-- [ ] bone
-- [ ] drug
+- [x] get
+- [ ] advise
+- [ ] bless you
 
-> **解析**：pill 为可数名词，意为“药片、丸药”。take pills 意为“吃药”。twice daily 意为“一日两次”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-You can purchase over-the-counter medicine at any `____`store nearby.
+A serious ____ can make your bone feel very painful.
 
-- [x] drug
-- [ ] catch
-- [ ] get
+- [x] disease
+- [ ] advise
+- [ ] bless you
 
-> **解析**：drugstore 为名词，意为“药房、药店”（美式英语）。over-the-counter medicine 意为“非处方药”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-People who eat healthily rarely `____` sick during winter.
+Taking an ____ drug is bad for medical test.
 
-- [x] get
-- [ ] cut
-- [ ] get sick
+- [x] unhealthy
+- [ ] advise
+- [ ] bless you
 
-> **解析**：get sick 为动词短语，意为“生病”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Walking became very `____` for him after he twisted his ankle during basketball.
+Feeling ____ and sick, you should stay in bed.
 
-- [x] painful
-- [ ] disease
-- [ ] get sick
+- [x] sleepy
+- [ ] advise
+- [ ] bless you
 
-> **解析**：painful 为形容词，由 pain + -ful 构成，意为“痛苦的、疼痛的”。作表语修饰 Walking。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The doctor strongly advised him to `____` smoking to protect his lungs.
+Without a ____ test, the illness may become worse.
 
-- [x] quit
-- [ ] drug
-- [ ] get worse
+- [x] medical
+- [ ] advise
+- [ ] bless you
 
-> **解析**：quit 为动词，意为“戒除、停止”。后接动名词形式（quit smoking 戒烟）。过去式同为 quit。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Eating a balanced diet boosts your immune system to fight off seasonal `____`.
+The doctor told him ____ to keep a healthy diet.
 
-- [x] illness
-- [ ] drugstore
-- [ ] healthier
+- [x] seriously
+- [ ] advise
+- [ ] bless you
 
-> **解析**：illness 为名词，意为“疾病、恙病”。boost immune system 意为“增强免疫系统”。fight off 意为“击退”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Cover your mouth and nose with a tissue when you cough or `____`.
+Unfortunately, the ____ finger was very painful.
 
-- [x] sneeze
-- [ ] get
-- [ ] illness
+- [x] cut
+- [ ] advise
+- [ ] bless you
 
-> **解析**：sneeze 为动词，意为“打喷嚏”。cover your mouth 意为“盖住口鼻”。tissue 意为“纸巾”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Replacing sugary sodas with fresh water will make your lifestyle much `____`.
+Developing good habits makes you become much ____.
 
 - [x] healthier
-- [ ] get sick
-- [ ] painful
+- [ ] advise
+- [ ] bless you
 
-> **解析**：healthier 为 healthy 的比较级，意为“更健康的”。make your lifestyle healthier 表示“使你的生活方式更健康”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Achoo! Someone let out a loud ____ in the room.
+
+- [x] sneeze
+- [ ] advise
+- [ ] bless you
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+You can ____ this pain relief pill at the drugstore.
+
+- [x] get
+- [ ] advise
+- [ ] bless you
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The ____ test showed his broken bone healed well.
+
+- [x] medical
+- [ ] advise
+- [ ] bless you
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Preventing this dangerous ____ requires a vaccine.
+
+- [x] disease
+- [ ] advise
+- [ ] bless you
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+After listening to soft music, he felt very ____.
+
+- [x] sleepy
+- [ ] advise
+- [ ] bless you
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The doctor advised him to ____ his unhealthy lifestyle.
+
+- [x] quit
+- [ ] advise
+- [ ] bless you
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+If you don't take pills, your cold will ____ worse.
+
+- [x] get
+- [ ] advise
+- [ ] bless you
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Eating more fresh fruits helps you stay ____.
+
+- [x] healthier
+- [ ] advise
+- [ ] bless you
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The doctor ____ pointed out he needed surgery.
+
+- [x] seriously
+- [ ] advise
+- [ ] bless you
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Bless you and hope you recover from ____ soon!
+
+- [x] illness
+- [ ] advise
+- [ ] bless you
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

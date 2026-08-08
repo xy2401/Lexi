@@ -53,83 +53,176 @@ absent, aloud, apply, correct, correction, credit, elementary school, final exam
 
 <quiz-sentence-builder>
 
-1. **中文**：所有学生都在复习课程笔记以备战即将到来的期末考试。  
-   **英文**：All students are reviewing their course notes for the upcoming final exam.
-   > **解析**：final exam 名词短语，意为“期末考试”，简称 final。
+1. **中文**：由于生病高烧，他今天在学校缺席了。
+   **英文**：He was absent from school today due to a high fever.
+   > **解析**：absent 表示“缺席的/不在场的”。
 
-2. **中文**：我们的老师宣布历史期中考试将于下周二举行。  
-   **英文**：Our teacher announced that the history midterm will take place next Tuesday.
-   > **解析**：midterm 可数名词，意为“期中考试”，由 mid-（中）+ term（学期）合成。
+2. **中文**：老师请同学们大声地朗读这段精选课文。
+   **英文**：The teacher asked the student to read the poem aloud.
+   > **解析**：aloud 表示“大声地/出声地”。
 
-3. **中文**：如果你想在测试中取得好成绩，充分的准备是至关紧要的。  
-   **英文**：Thorough preparation is essential if you want to score well on tests.
-   > **解析**：preparation 不可数/可数名词，意为“准备；预备”，动词形式为 prepare。
+3. **中文**：许多高中毕业生正在申请几所知名大学。
+   **英文**：She decided to apply for a scholarship at the university.
+   > **解析**：apply 表示“申请/应用”；apply for 意为“申请”。
 
-4. **中文**：老师鼓励每个学生积极参与课堂讨论。  
-   **英文**：Teachers encourage every student to participate actively in class discussions.
-   > **解析**：participate 不及物动词，意为“参与；参加”，常与介词 in 连用（participate in）。
+4. **中文**：老师在学生的作文本上做出了仔细的批改与订正。
+   **英文**：Please check your essay carefully for any correction.
+   > **解析**：correction 表示“批改/订正/修改”。
 
-5. **中文**：我们正在高中课堂上阅读经典英语文学作品。  
-   **英文**：We are reading classic English literature in our senior high school class.
-   > **解析**：literature 不可数名词，意为“文学；文学作品”。
+5. **中文**：完成这门选修课程后，学生可以获得三个学分。
+   **英文**：Students earn three academic credit points for this course.
+   > **解析**：credit 表示“学分/信用”。
 
-6. **中文**：当她父母看到她优异的成绩单时，感到无比自豪。  
-   **英文**：Her parents were extremely proud when they saw her excellent report card.
-   > **解析**：report card 名词短语，意为“成绩单”，指学校定期发放的成绩报告册。
+6. **中文**：小孩子们在附近的这所小学里快乐学习。
+   **英文**：Children enter elementary school at six years old.
+   > **解析**：elementary school 表示“小学”。
 
-7. **中文**：汤姆昨天因发高烧缺勤/缺课了。  
-   **英文**：Tom was absent from school yesterday because he had a high fever.
-   > **解析**：absent 形容词，意为“缺席的；不在场的”，常用结构 be absent from school/work。
+7. **中文**：同学们正在为下周的期末考试做充分复习。
+   **英文**：Everyone is studying hard for the final exam.
+   > **解析**：final exam 表示“期末考试”。
 
-8. **中文**：他工整的字迹使得老师很容易阅读他的考试答卷。  
-   **英文**：His clear handwriting makes his exam answers very easy for teachers to read.
-   > **解析**：handwriting 不可数名词，意为“书写；笔迹；字迹”。
+8. **中文**：他的书写工整清晰，受到了老师的表扬。
+   **英文**：Her neat handwriting is very easy to read.
+   > **解析**：handwriting 表示“书写/手写体”。
 
-9. **中文**：英语老师帮助我们学会如何发音难度较大的新单词。  
-   **英文**：The English teacher helped us learn how to pronounce difficult new words.
-   > **解析**：pronounce 及物动词，意为“发音；读音”，名词形式为 pronunciation。
+9. **中文**：英国古典文学是文学专业必修的重要课程。
+   **英文**：They read classic American literature in high school.
+   > **解析**：literature 表示“文学/文学作品”。
 
-10. **中文**：在提交作文之前，你应该重读一遍以发现微小的错误。  
-   **英文**：Before turning in your essay, you should reread it to catch any small mistakes.
-   > **解析**：reread 动词，意为“重读；再读”，前缀 re- 表示“再次”。
+10. **中文**：老师在课堂上发放了新的辅助复习材料。
+   **英文**：The teacher distributed study material for the upcoming test.
+   > **解析**：material 表示“材料/教材”。
+
+11. **中文**：学期过半时，学校安排了一场期中考试。
+   **英文**：Our history midterm is scheduled for next Wednesday.
+   > **解析**：midterm 表示“期中考试”。
+
+12. **中文**：请在作文的第二段落里阐述你的核心论点。
+   **英文**：Write a short paragraph summarizing the article.
+   > **解析**：paragraph 表示“段落”。
+
+13. **中文**：老师鼓励每位同学在课堂讨论中积极参与。
+   **英文**：All students are encouraged to participate in class.
+   > **解析**：participate 表示“参与/参加”；participate in 意为“参与”。
+
+14. **中文**：积极的课堂参与度构成了期末成绩的一部分。
+   **英文**：Active class participation counts toward your final grade.
+   > **解析**：participation 表示“参与度/参加”。
+
+15. **中文**：充足的准备是考试取得优异成绩的关键。
+   **英文**：Good exam preparation reduces test anxiety for students.
+   > **解析**：preparation 表示“准备/预备”。
+
+16. **中文**：请在字典里查阅这个生词的标准发音。
+   **英文**：Listen carefully to the correct pronunciation of word.
+   > **解析**：pronunciation 表示“发音”。
+
+17. **中文**：家长收到了孩子本学期的正式成绩单。
+   **英文**：Parents received their child's excellent report card.
+   > **解析**：report card 表示“成绩单”。
+
+18. **中文**：在写作前，请重读一遍原文说明。
+   **英文**：You should reread the chapter before answering questions.
+   > **解析**：reread 表示“重读/复读”。
+
+19. **中文**：老师要求他重写这篇语法错误的短文。
+   **英文**：The teacher told him to rewrite his introductory essay.
+   > **解析**：rewrite 表示“重写/改写”。
+
+20. **中文**：那位聪明勤奋的学生在竞赛中名列前茅。
+   **英文**：The smart student solved the difficult math puzzle.
+   > **解析**：smart 表示“聪明的/机敏的”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. All students are reviewing their course notes for the upcoming final exam.
-   > **中文**：所有学生都在复习课程笔记以备战即将到来的期末考试。
+1. He was absent from school today due to a high fever.
+   > **中文**：由于生病高烧，他今天在学校缺席了。
 
-2. Our teacher announced that the history midterm will take place next Tuesday.
-   > **中文**：我们的老师宣布历史期中考试将于下周二举行。
+2. The teacher asked the student to read the poem aloud.
+   > **中文**：老师请同学们大声地朗读这段精选课文。
 
-3. Thorough preparation is essential if you want to score well on tests.
-   > **中文**：如果你想在测试中取得好成绩，充分的准备是至关紧要的。
+3. She decided to apply for a scholarship at the university.
+   > **中文**：许多高中毕业生正在申请几所知名大学。
 
-4. Teachers encourage every student to participate actively in class discussions.
-   > **中文**：老师鼓励每个学生积极参与课堂讨论。
+4. Please check your essay carefully for any correction.
+   > **中文**：老师在学生的作文本上做出了仔细的批改与订正。
 
-5. We are reading classic English literature in our senior high school class.
-   > **中文**：我们正在高中课堂上阅读经典英语文学作品。
+5. Students earn three academic credit points for this course.
+   > **中文**：完成这门选修课程后，学生可以获得三个学分。
 
-6. Her parents were extremely proud when they saw her excellent report card.
-   > **中文**：当她父母看到她优异的成绩单时，感到无比自豪。
+6. Children enter elementary school at six years old.
+   > **中文**：小孩子们在附近的这所小学里快乐学习。
 
-7. Tom was absent from school yesterday because he had a high fever.
-   > **中文**：汤姆昨天因发高烧缺勤/缺课了。
+7. Everyone is studying hard for the final exam.
+   > **中文**：同学们正在为下周的期末考试做充分复习。
 
-8. His clear handwriting makes his exam answers very easy for teachers to read.
-   > **中文**：他工整的字迹使得老师很容易阅读他的考试答卷。
+8. Her neat handwriting is very easy to read.
+   > **中文**：他的书写工整清晰，受到了老师的表扬。
 
-9. The English teacher helped us learn how to pronounce difficult new words.
-   > **中文**：英语老师帮助我们学会如何发音难度较大的新单词。
+9. They read classic American literature in high school.
+   > **中文**：英国古典文学是文学专业必修的重要课程。
 
-10. Before turning in your essay, you should reread it to catch any small mistakes.
-   > **中文**：在提交作文之前，你应该重读一遍以发现微小的错误。
+10. The teacher distributed study material for the upcoming test.
+   > **中文**：老师在课堂上发放了新的辅助复习材料。
+
+11. Our history midterm is scheduled for next Wednesday.
+   > **中文**：学期过半时，学校安排了一场期中考试。
+
+12. Write a short paragraph summarizing the article.
+   > **中文**：请在作文的第二段落里阐述你的核心论点。
+
+13. All students are encouraged to participate in class.
+   > **中文**：老师鼓励每位同学在课堂讨论中积极参与。
+
+14. Active class participation counts toward your final grade.
+   > **中文**：积极的课堂参与度构成了期末成绩的一部分。
+
+15. Good exam preparation reduces test anxiety for students.
+   > **中文**：充足的准备是考试取得优异成绩的关键。
+
+16. Listen carefully to the correct pronunciation of word.
+   > **中文**：请在字典里查阅这个生词的标准发音。
+
+17. Parents received their child's excellent report card.
+   > **中文**：家长收到了孩子本学期的正式成绩单。
+
+18. You should reread the chapter before answering questions.
+   > **中文**：在写作前，请重读一遍原文说明。
+
+19. The teacher told him to rewrite his introductory essay.
+   > **中文**：老师要求他重写这篇语法错误的短文。
+
+20. The smart student solved the difficult math puzzle.
+   > **中文**：那位聪明勤奋的学生在竞赛中名列前茅。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| absent | 缺席的 |
+| aloud | 大声地 |
+| apply | 申请 |
+| correction | 批改 / 订正 |
+| credit | 学分 |
+| elementary school | 小学 |
+| final exam | 期末考试 |
+| handwriting | 书写 / 手写体 |
+| literature | 文学 |
+| material | 材料 / 教材 |
+| midterm | 期中考试 |
+| paragraph | 段落 |
+| participate | 参与 / 参加 |
+| participation | 参与度 |
+| preparation | 准备 |
+| pronunciation | 发音 |
+| report card | 成绩单 |
+| reread | 重读 |
+| rewrite | 重写 |
+| smart | 聪明的 |
 
 </quiz-matching>
 
@@ -137,102 +230,202 @@ absent, aloud, apply, correct, correction, credit, elementary school, final exam
 
 ### 1
 
-All students are reviewing their course notes for the upcoming `____`.
+He was ____ from school today due to a high fever.
 
-- [x] final exam
-- [ ] absent
-- [ ] correction
+- [x] absent
+- [ ] aloud
+- [ ] apply
 
-> **解析**：final exam 名词短语，意为“期末考试”，简称 final。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Our teacher announced that the history `____` will take place next Tuesday.
+The teacher asked the student to read the poem ____.
 
-- [x] midterm
-- [ ] aloud
-- [ ] credit
+- [x] aloud
+- [ ] absent
+- [ ] apply
 
-> **解析**：midterm 可数名词，意为“期中考试”，由 mid-（中）+ term（学期）合成。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Thorough `____` is essential if you want to score well on tests.
+She decided to ____ for a scholarship at the university.
 
-- [x] preparation
-- [ ] apply
-- [ ] elementary school
+- [x] apply
+- [ ] absent
+- [ ] aloud
 
-> **解析**：preparation 不可数/可数名词，意为“准备；预备”，动词形式为 prepare。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Teachers encourage every student to `____` actively in class discussions.
+Please check your essay carefully for any ____.
 
-- [x] participate
-- [ ] correct
-- [ ] final exam
+- [x] correction
+- [ ] absent
+- [ ] aloud
 
-> **解析**：participate 不及物动词，意为“参与；参加”，常与介词 in 连用（participate in）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-We are reading classic English `____` in our senior high school class.
+Students earn three academic ____ points for this course.
 
-- [x] literature
-- [ ] correction
-- [ ] handwriting
+- [x] credit
+- [ ] absent
+- [ ] aloud
 
-> **解析**：literature 不可数名词，意为“文学；文学作品”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Her parents were extremely proud when they saw her excellent `____`.
+Children enter elementary ____ at six years old.
 
-- [x] report card
-- [ ] credit
-- [ ] literature
+- [x] school
+- [ ] absent
+- [ ] aloud
 
-> **解析**：report card 名词短语，意为“成绩单”，指学校定期发放的成绩报告册。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Tom was `____` from school yesterday because he had a high fever.
+____ is studying hard for the final exam.
 
-- [x] absent
-- [ ] final exam
-- [ ] midterm
+- [x] Everyone
+- [ ] absent
+- [ ] aloud
 
-> **解析**：absent 形容词，意为“缺席的；不在场的”，常用结构 be absent from school/work。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-His clear `____` makes his exam answers very easy for teachers to read.
+Her neat ____ is very easy to read.
 
 - [x] handwriting
-- [ ] final exam
-- [ ] paragraph
+- [ ] absent
+- [ ] aloud
 
-> **解析**：handwriting 不可数名词，意为“书写；笔迹；字迹”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The English teacher helped us learn how to `____` difficult new words.
+They read classic American ____ in high school.
 
-- [x] pronounce
-- [ ] handwriting
-- [ ] paragraph
+- [x] literature
+- [ ] absent
+- [ ] aloud
 
-> **解析**：pronounce 及物动词，意为“发音；读音”，名词形式为 pronunciation。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Before turning in your essay, you should `____` it to catch any small mistakes.
+The teacher distributed study ____ for the upcoming test.
+
+- [x] material
+- [ ] absent
+- [ ] aloud
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+Our history ____ is scheduled for next Wednesday.
+
+- [x] midterm
+- [ ] absent
+- [ ] aloud
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Write a short ____ summarizing the article.
+
+- [x] paragraph
+- [ ] absent
+- [ ] aloud
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+All students are encouraged to ____ in class.
+
+- [x] participate
+- [ ] absent
+- [ ] aloud
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Active class ____ counts toward your final grade.
+
+- [x] participation
+- [ ] absent
+- [ ] aloud
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Good exam ____ reduces test anxiety for students.
+
+- [x] preparation
+- [ ] absent
+- [ ] aloud
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Listen carefully to the ____ pronunciation of word.
+
+- [x] correct
+- [ ] absent
+- [ ] aloud
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Parents received their child's ____ report card.
+
+- [x] excellent
+- [ ] absent
+- [ ] aloud
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+You should ____ the chapter before answering questions.
 
 - [x] reread
-- [ ] literature
-- [ ] participate
+- [ ] absent
+- [ ] aloud
 
-> **解析**：reread 动词，意为“重读；再读”，前缀 re- 表示“再次”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+The teacher told him to ____ his introductory essay.
+
+- [x] rewrite
+- [ ] absent
+- [ ] aloud
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+The ____ student solved the difficult math puzzle.
+
+- [x] smart
+- [ ] absent
+- [ ] aloud
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

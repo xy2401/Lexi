@@ -61,83 +61,176 @@ nephew（侄子/外甥）和 niece（侄女/外甥女）区分性别。spouse �
 
 <quiz-sentence-builder>
 
-1. **中文**：相互信任和良好的沟通对于维持健康的关系至关重要。  
-   **英文**：Mutual trust and good communication are essential for maintaining a healthy relationship.
-   > **解析**：relationship 为名词，意为“关系、情感联系”。maintain a relationship 表示“维持一段关系”。
+1. **中文**：这位成功的英国作者写了一本关于同性恋婚姻的巨著。  
+   **英文**：The successful British author wrote a huge book on gay marriage.
+   > **解析**：successful 表示“成功的”；British 表示“英国的”；author 表示“作者”；huge 表示“巨大的”；gay 表示“同性恋的”；marriage 表示“婚姻”。
 
-2. **中文**：欢迎员工携带配偶和子女参加公司一年一度的野餐活动。  
-   **英文**：Employees are welcome to bring their spouse and children to the annual company picnic.
-   > **解析**：spouse 为名词，意为“配偶（丈夫或妻子）”。属于正式的书面及法律用语。
+2. **中文**：我的侄子是一名勇敢的消防员，我的侄女是一位优秀的律师。  
+   **英文**：My nephew is a brave firefighter, and my niece is a lawyer.
+   > **解析**：nephew 表示“侄子/外甥”；firefighter 表示“消防员”；niece 表示“侄女/外甥女”；lawyer 表示“律师”。
 
-3. **中文**：在意识到彼此的人生目标不同后，他们和平离婚了。  
-   **英文**：They got divorced amicably after realizing they had different life goals.
-   > **解析**：divorced 为形容词，意为“已离婚的”。get divorced 表示“离婚”。amicably 为副词，意为“和平地”。
+3. **中文**：那位理发师为他的同性恋配偶理了一个很棒的新发型。  
+   **英文**：The barber gave his lesbian spouse a cool haircut.
+   > **解析**：barber 表示“理发师”；lesbian 表示“女同性恋的”；spouse 表示“配偶”；haircut 表示“剪发/发型”。
 
-4. **中文**：真正的朋友即使意见不合，也会尊重彼此的看法。  
-   **英文**：True friends respect each other's opinions even when they disagree.
-   > **解析**：respect 在此处用作动词，意为“尊重、敬重”。respect each other 表示“互相尊重”。也可作名词。
+4. **中文**：相互信任与尊重是维系长久健康人际关系的基石。  
+   **英文**：Mutual trust and respect are vital in a healthy relationship.
+   > **解析**：trust 表示“信任”；respect 表示“尊重”；relationship 表示“人际关系/亲密关系”。
 
-5. **中文**：建立信任需要很长时间，但失去信任只需一秒钟。  
-   **英文**：It takes a long time to build trust, but only a second to lose it.
-   > **解析**：trust 在此处用作不可数名词，意为“信任、信赖”。build trust 意为“建立信任”。也可以作动词（trust sb.）。
+5. **中文**：那位令人烦人的盲人老人决定在明年正式退休。  
+   **英文**：The annoying blind man decided to retire next year.
+   > **解析**：annoying 表示“令人烦人的”；blind 表示“盲的/失明的”；retire 表示“退休”。
 
-6. **中文**：我侄子（外甥）正在大学攻读计算机科学，希望能成为一名软件开发者。  
-   **英文**：My nephew is studying computer science at university and hopes to be a software developer.
-   > **解析**：nephew 为名词，指“侄子、外甥”（兄弟或姐妹的儿子）。
+6. **中文**：老实说，他们的离婚并没有影响到彼此间的尊重。  
+   **英文**：Honest speaking, their divorce did not destroy their respect.
+   > **解析**：honest 表示“诚实的”；divorce / divorced 表示“离婚”；respect 表示“尊重”。
 
-7. **中文**：我给我侄女（外甥女）的七岁生日买了一套彩色故事书。  
-   **英文**：I bought a set of colorful storybooks for my niece's seventh birthday.
-   > **解析**：niece 为名词，指“侄女、外甥女”（兄弟或姐妹的女儿）。
+7. **中文**：他梦想着能找到一个值得信任与依赖的伴侣去约会。  
+   **英文**：He dreams of finding a trustworthy date for a relationship.
+   > **解析**：dream / dreams 表示“梦想”；date 表示“约会对象/约会”。
 
-8. **中文**：对你的伴侣保持诚实是建立长期信任最重要的钥匙。  
-   **英文**：Being honest with your partner is the most important key to long-term trust.
-   > **解析**：honest 为形容词，意为“诚实的”。be honest with sb. 表示“对某人坦诚/诚实”。h 不发音，前面接不定冠词用 an（an honest man）。
+8. **中文**：我的侄子在退休后出版了他的第一部小说。  
+   **英文**：My nephew published his first novel after he retired.
+   > **解析**：nephew 表示“侄子”；retire / retired 表示“退休”。
 
-9. **中文**：工作了四十多年后，我叔叔决定下个月退休。  
-   **英文**：After working for over forty years, my uncle decided to retire next month.
-   > **解析**：retire 为动词，意为“退休”。名词形式为 retirement（退休/退休生活）。
+9. **中文**：我的侄女非常尊重那位在消防队工作的勇敢叔叔。  
+   **英文**：My niece respects her brave uncle who works in fire station.
+   > **解析**：niece 表示“侄女/外甥女”；respect / respects 表示“尊重”。
 
-10. **中文**：通过努力工作和坚定决心，她在商业领域树立了成功的职业生涯。  
-   **英文**：She built a successful career in business through hard work and determination.
-   > **解析**：successful 为形容词，意为“成功的”。修饰名词 career。派生自名词 success 和动词 succeed。
+10. **中文**：这是一位在职业生涯中获得巨大成功的优秀律师。  
+   **英文**：This is a very successful lawyer who won huge respect.
+   > **解析**：successful 表示“成功的”；lawyer 表示“律师”；huge 表示“巨大的”。
+
+11. **中文**：这位知名作者在全世界拥有无数的读者。  
+   **英文**：This famous author has millions of readers worldwide.
+   > **解析**：author 表示“作者/作家”。
+
+12. **中文**：理发师在理发店里熟练地为顾客修剪头发。  
+   **英文**：The barber trimmed the customer's hair in the barbershop.
+   > **解析**：barber 表示“理发师”。
+
+13. **中文**：建立长久的信任需要双方共同付出努力。  
+   **英文**：Building deep trust between partners requires effort.
+   > **解析**：trust 表示“信任”。
+
+14. **中文**：我们应该懂得尊重每一位劳动者的辛勤付出。  
+   **英文**：We should learn to respect every worker's hard work.
+   > **解析**：respect 表示“尊重/敬佩”。
+
+15. **中文**：他的配偶是一位非常善良且体贴的医生。  
+   **英文**：His spouse is a very kind and thoughtful doctor.
+   > **解析**：spouse 表示“配偶”。
+
+16. **中文**：这对夫妇的幸福婚姻持续了四十年之久。  
+   **英文**：The happy marriage of this couple lasted for forty years.
+   > **解析**：marriage 表示“婚姻”。
+
+17. **中文**：经过多年的辛勤工作，他终于决定退休享受生活。  
+   **英文**：After years of hard work, he decided to retire.
+   > **解析**：retire 表示“退休”。
+
+18. **中文**：消防员冲进火场救出了被困的人员。  
+   **英文**：The brave firefighter rushed in to save people.
+   > **解析**：firefighter 表示“消防员”。
+
+19. **中文**：请问你们今晚打算去哪里进行晚餐约会？  
+   **英文**：Where do you plan to go for your dinner date tonight?
+   > **解析**：date 表示“约会”；where 表示“在哪里”。
+
+20. **中文**：那场突如其来的噪声感到非常令人烦人。  
+   **英文**：That sudden loud noise felt extremely annoying to us.
+   > **解析**：annoying 表示“令人烦人的/讨人厌的”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Mutual trust and good communication are essential for maintaining a healthy relationship.
-   > **中文**：相互信任和良好的沟通对于维持健康的关系至关重要。
+1. The successful British author wrote a huge book on gay marriage.
+   > **中文**：这位成功的英国作者写了一本关于同性恋婚姻的巨著。
 
-2. Employees are welcome to bring their spouse and children to the annual company picnic.
-   > **中文**：欢迎员工携带配偶和子女参加公司一年一度的野餐活动。
+2. My nephew is a brave firefighter, and my niece is a lawyer.
+   > **中文**：我的侄子是一名勇敢的消防员，我的侄女是一位优秀的律师。
 
-3. They got divorced amicably after realizing they had different life goals.
-   > **中文**：在意识到彼此的人生目标不同后，他们和平离婚了。
+3. The barber gave his lesbian spouse a cool haircut.
+   > **中文**：那位理发师为他的同性恋配偶理了一个很棒的新发型。
 
-4. True friends respect each other's opinions even when they disagree.
-   > **中文**：真正的朋友即使意见不合，也会尊重彼此的看法。
+4. Mutual trust and respect are vital in a healthy relationship.
+   > **中文**：相互信任与尊重是维系长久健康人际关系的基石。
 
-5. It takes a long time to build trust, but only a second to lose it.
-   > **中文**：建立信任需要很长时间，但失去信任只需一秒钟。
+5. The annoying blind man decided to retire next year.
+   > **中文**：那位令人烦人的盲人老人决定在明年正式退休。
 
-6. My nephew is studying computer science at university and hopes to be a software developer.
-   > **中文**：我侄子（外甥）正在大学攻读计算机科学，希望能成为一名软件开发者。
+6. Honest speaking, their divorce did not destroy their respect.
+   > **中文**：老实说，他们的离婚并没有影响到彼此间的尊重。
 
-7. I bought a set of colorful storybooks for my niece's seventh birthday.
-   > **中文**：我给我侄女（外甥女）的七岁生日买了一套彩色故事书。
+7. He dreams of finding a trustworthy date for a relationship.
+   > **中文**：他梦想着能找到一个值得信任与依赖的伴侣去约会。
 
-8. Being honest with your partner is the most important key to long-term trust.
-   > **中文**：对你的伴侣保持诚实是建立长期信任最重要的钥匙。
+8. My nephew published his first novel after he retired.
+   > **中文**：我的侄子在退休后出版了他的第一部小说。
 
-9. After working for over forty years, my uncle decided to retire next month.
-   > **中文**：工作了四十多年后，我叔叔决定下个月退休。
+9. My niece respects her brave uncle who works in fire station.
+   > **中文**：我的侄女非常尊重那位在消防队工作的勇敢叔叔。
 
-10. She built a successful career in business through hard work and determination.
-   > **中文**：通过努力工作和坚定决心，她在商业领域树立了成功的职业生涯。
+10. This is a very successful lawyer who won huge respect.
+   > **中文**：这是一位在职业生涯中获得巨大成功的优秀律师。
+
+11. This famous author has millions of readers worldwide.
+   > **中文**：这位知名作者在全世界拥有无数的读者。
+
+12. The barber trimmed the customer's hair in the barbershop.
+   > **中文**：理发师在理发店里熟练地为顾客修剪头发。
+
+13. Building deep trust between partners requires effort.
+   > **中文**：建立长久的信任需要双方共同付出努力。
+
+14. We should learn to respect every worker's hard work.
+   > **中文**：我们应该懂得尊重每一位劳动者的辛勤付出。
+
+15. His spouse is a very kind and thoughtful doctor.
+   > **中文**：他的配偶是一位非常善良且体贴的医生。
+
+16. The happy marriage of this couple lasted for forty years.
+   > **中文**：这对夫妇的幸福婚姻持续了四十年之久。
+
+17. After years of hard work, he decided to retire.
+   > **中文**：经过多年的辛勤工作，他终于决定退休享受生活。
+
+18. The brave firefighter rushed in to save people.
+   > **中文**：消防员冲进火场救出了被困的人员。
+
+19. Where do you plan to go for your dinner date tonight?
+   > **中文**：请问你们今晚打算去哪里进行晚餐约会？
+
+20. That sudden loud noise felt extremely annoying to us.
+   > **中文**：那场突如其来的噪声感到非常令人烦人。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| annoying | 令人烦人的 |
+| author | 作者 / 作家 |
+| barber | 理发师 |
+| blind | 盲的 / 失明的 |
+| british | 英国的 |
+| date | 约会 / 约会对象 |
+| divorced | 离婚的 |
+| firefighter | 消防员 |
+| gay | 同性恋的（男） |
+| haircut | 理发 / 发型 |
+| honest | 诚实的 |
+| huge | 巨大的 |
+| lawyer | 律师 |
+| lesbian | 女同性恋的 |
+| marriage | 婚姻 |
+| nephew | 侄子 / 外甥 |
+| niece | 侄女 / 外甥女 |
+| relationship | 人际关系 / 亲密关系 |
+| respect | 尊重 |
+| retire | 退休 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ nephew（侄子/外甥）和 niece（侄女/外甥女）区分性别。spouse �
 
 ### 1
 
-Mutual trust and good communication are essential for maintaining a healthy `____`.
+The ____ British author wrote a huge book on gay marriage.
 
-- [x] relationship
+- [x] successful
 - [ ] annoying
-- [ ] british
+- [ ] author
 
-> **解析**：relationship 为名词，意为“关系、情感联系”。maintain a relationship 表示“维持一段关系”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Employees are welcome to bring their `____` and children to the annual company picnic.
+My ____ is a brave firefighter, and my niece is a lawyer.
 
-- [x] spouse
+- [x] nephew
+- [ ] annoying
 - [ ] author
-- [ ] date
 
-> **解析**：spouse 为名词，意为“配偶（丈夫或妻子）”。属于正式的书面及法律用语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-They got `____` amicably after realizing they had different life goals.
+The ____ gave his lesbian spouse a cool haircut.
 
-- [x] divorced
-- [ ] barber
-- [ ] dream
+- [x] barber
+- [ ] annoying
+- [ ] author
 
-> **解析**：divorced 为形容词，意为“已离婚的”。get divorced 表示“离婚”。amicably 为副词，意为“和平地”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-True friends `____` each other's opinions even when they disagree.
+Mutual ____ and respect are vital in a healthy relationship.
 
-- [x] respect
-- [ ] blind
-- [ ] dream
+- [x] trust
+- [ ] annoying
+- [ ] author
 
-> **解析**：respect 在此处用作动词，意为“尊重、敬重”。respect each other 表示“互相尊重”。也可作名词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-It takes a long time to build `____`, but only a second to lose it.
+The ____ blind man decided to retire next year.
 
-- [x] trust
-- [ ] british
-- [ ] firefighter
+- [x] annoying
+- [ ] author
+- [ ] barber
 
-> **解析**：trust 在此处用作不可数名词，意为“信任、信赖”。build trust 意为“建立信任”。也可以作动词（trust sb.）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-My `____` is studying computer science at university and hopes to be a software developer.
+____ speaking, their divorce did not destroy their respect.
 
-- [x] nephew
-- [ ] date
-- [ ] gay
+- [x] Honest
+- [ ] annoying
+- [ ] author
 
-> **解析**：nephew 为名词，指“侄子、外甥”（兄弟或姐妹的儿子）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-I bought a set of colorful storybooks for my `____`'s seventh birthday.
+He dreams of finding a trustworthy ____ for a relationship.
 
-- [x] niece
-- [ ] divorced
-- [ ] haircut
+- [x] date
+- [ ] annoying
+- [ ] author
 
-> **解析**：niece 为名词，指“侄女、外甥女”（兄弟或姐妹的女儿）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Being `____` with your partner is the most important key to long-term trust.
+My ____ published his first novel after he retired.
 
-- [x] honest
-- [ ] dream
-- [ ] huge
+- [x] nephew
+- [ ] annoying
+- [ ] author
 
-> **解析**：honest 为形容词，意为“诚实的”。be honest with sb. 表示“对某人坦诚/诚实”。h 不发音，前面接不定冠词用 an（an honest man）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-After working for over forty years, my uncle decided to `____` next month.
+My ____ respects her brave uncle who works in fire station.
 
-- [x] retire
-- [ ] firefighter
-- [ ] huge
+- [x] niece
+- [ ] annoying
+- [ ] author
 
-> **解析**：retire 为动词，意为“退休”。名词形式为 retirement（退休/退休生活）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-She built a `____` career in business through hard work and determination.
+This is a very ____ lawyer who won huge respect.
 
 - [x] successful
-- [ ] gay
-- [ ] lawyer
+- [ ] annoying
+- [ ] author
 
-> **解析**：successful 为形容词，意为“成功的”。修饰名词 career。派生自名词 success 和动词 succeed。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+This famous ____ has millions of readers worldwide.
+
+- [x] author
+- [ ] annoying
+- [ ] barber
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The ____ trimmed the customer's hair in the barbershop.
+
+- [x] barber
+- [ ] annoying
+- [ ] author
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Building deep ____ between partners requires effort.
+
+- [x] trust
+- [ ] annoying
+- [ ] author
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+We should learn to ____ every worker's hard work.
+
+- [x] respect
+- [ ] annoying
+- [ ] author
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+His ____ is a very kind and thoughtful doctor.
+
+- [x] spouse
+- [ ] annoying
+- [ ] author
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The happy ____ of this couple lasted for forty years.
+
+- [x] marriage
+- [ ] annoying
+- [ ] author
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+After years of hard work, he decided to ____.
+
+- [x] retire
+- [ ] annoying
+- [ ] author
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+The brave ____ rushed in to save people.
+
+- [x] firefighter
+- [ ] annoying
+- [ ] author
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+____ do you plan to go for your dinner date tonight?
+
+- [x] Where
+- [ ] annoying
+- [ ] author
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+That sudden loud noise felt extremely ____ to us.
+
+- [x] annoying
+- [ ] author
+- [ ] barber
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

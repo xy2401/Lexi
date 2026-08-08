@@ -51,83 +51,176 @@ whose 用来问归属：Whose playlist is this? like 和 right 是口语中的�
 
 <quiz-sentence-builder>
 
-1. **中文**：派对结束后我们留到很晚，一起打扫客厅。  
-   **英文**：We stayed late after the party to clean up the living room together.
-   > **解析**：clean up 短语动词，意为“打扫；清理”，做及物动词时宾语可置于中间或后面。
+1. **中文**：那位来自伦敦的客人有着一口地道的英式口音。
+   **英文**：He speaks English with a distinct British accent.
+   > **解析**：accent 表示“口音/腔调”。
 
-2. **中文**：他们提前两小时到达，布置音响系统和装饰品。  
-   **英文**：They arrived two hours early to set up the sound system and decorations.
-   > **解析**：set up 短语动词，意为“布置；搭建；安装”。
+2. **中文**：我们在派对上认识了一群活泼有趣的朋友。
+   **英文**：A whole bunch of friends arrived at the party together.
+   > **解析**：bunch 表示“一群/一束/大量”。
 
-3. **中文**：派对期间大家都在合唱，因为他们知道所有的歌词。  
-   **英文**：Everyone sang along during the party because they knew all the song lyrics.
-   > **解析**：lyrics 复数名词，意为“歌词”，通常用复数形式。
+3. **中文**：那位有魅力的主持人用幽默的言语引得全场欢笑。
+   **英文**：The charming host welcomed all guests warmly.
+   > **解析**：charming 表示“有魅力的/迷人的”。
 
-4. **中文**：她带着一束五彩缤纷的鲜花来到生日派对。  
-   **英文**：She brought a colorful bunch of fresh flowers to the birthday party.
-   > **解析**：bunch 可数名词，意为“一束；一串”，常用于 a bunch of flowers/grapes。
+4. **中文**：派对结束后，大家一起动手打扫干净客厅。
+   **英文**：We stayed late after the party to clean up the living room.
+   > **解析**：clean up 表示“打扫干净/收拾”。
 
-5. **中文**：用鲜浆果装饰的生日蛋糕看起来绝对华丽漂亮。  
-   **英文**：The birthday cake decorated with fresh berries looked absolutely gorgeous.
-   > **解析**：gorgeous 形容词，意为“极美的；华丽的”，语气极强。
+5. **中文**：请进！派对刚开始，大家都在客厅聊天。
+   **英文**：Please come in and join the celebration in the yard.
+   > **解析**：come in 表示“进来/请进”。
 
-6. **中文**：主人以温暖的微笑和迷人的个性欢迎每一位客人。  
-   **英文**：The host welcomed every guest with a warm smile and a charming personality.
-   > **解析**：charming 形容词，意为“迷人的；有魅力的”，衍生自 charm。
+6. **中文**：女主人身穿一袭极其漂亮的红色晚礼服登场。
+   **英文**：She looked absolutely gorgeous in her elegant party dress.
+   > **解析**：gorgeous 表示“极其漂亮的/绚丽的”。
 
-7. **中文**：正规晚宴派对上的所有客人都穿着非常得体考究。  
-   **英文**：All the guests at the formal dinner party were extremely well-dressed.
-   > **解析**：well-dressed 复合形容词，意为“穿着得体的；衣着考究的”。
+7. **中文**：大家都跟着流行音乐一起大声唱出歌词。
+   **英文**：Fans love singing along to the catchy song lyrics.
+   > **解析**：lyrics 表示“歌词”。
 
-8. **中文**：派对上的魔术师上唇上方留着一撮有趣的小胡子。  
-   **英文**：The magician at the party had a small funny mustache above his lip.
-   > **解析**：mustache 可数名词，意为“八字胡；胡须”（美式拼写），英式为 moustache。
+8. **中文**：那位男士留着整洁标志的八字胡须。
+   **英文**：The gentleman has a neat black mustache.
+   > **解析**：mustache 表示“胡须/八字胡”。
 
-9. **中文**：他说话带着友好的英国口音，吸引了所有人的注意。  
-   **英文**：He spoke with a friendly British accent that caught everyone's attention.
-   > **解析**：accent 可数名词，意为“口音；腔调”，如 British accent。
+9. **中文**：我们在后院布置好了音响和派对灯光。
+   **英文**：They helped set up the tables and decorations for party.
+   > **解析**：set up 表示“布置/架设/准备”。
 
-10. **中文**：请进，把你的大衣放在前门大厅门附近。  
-   **英文**：Please come in and leave your coat near the front hallway door about can.
-   > **解析**：come in 短语动词，常用作礼貌邀请开场白，意为“进来；请进”。
+10. **中文**：今晚参加舞会的嘉宾们个个都是穿着体面的。
+   **英文**：All the guests at the gala were well-dressed.
+   > **解析**：well-dressed 表示“穿着体面的/打扮得体的”。
+
+11. **中文**：请问客厅茶几上这把钥匙是谁的？
+   **英文**：Whose jacket is this lying on the couch?
+   > **解析**：Whose 表示“谁的”。
+
+12. **中文**：我们昨晚没能赶上派对上的精彩舞会。
+   **英文**：We couldn't reach the venue on time due to traffic.
+   > **解析**：couldn't 即 could not。
+
+13. **中文**：大家不应该在派对上大声喧哗打扰邻居。
+   **英文**：Guests shouldn't make too much noise late at night.
+   > **解析**：shouldn't 即 should not。
+
+14. **中文**：今晚的生日派对将不会在户外草地上举行。
+   **英文**：The party won't end until midnight tonight.
+   > **解析**：won't 即 will not。
+
+15. **中文**：他们正在阳台上快乐地跳着流行舞蹈。
+   **英文**：What are you doing at the celebration tonight?
+   > **解析**：doing 表示“做/干（do的现在分词）”。
+
+16. **中文**：大家都很喜欢派对上温馨快乐的氛围。
+   **英文**：Everyone likes the lively atmosphere of the party.
+   > **解析**：likes 表示“喜欢/喜爱”。
+
+17. **中文**：请在门口右边找到你的专属姓名牌。
+   **英文**：Turn right at the corridor to find the ballroom.
+   > **解析**：right 表示“正确的/右边”。
+
+18. **中文**：在派对上你可以结识许多志同道合的新朋友。
+   **英文**：You can meet many interesting people at the party.
+   > **解析**：can 表示“能够/可以”。
+
+19. **中文**：如果我们早点准备，就能邀请更多朋友。
+   **英文**：We could invite more neighbors to join our party.
+   > **解析**：could 表示“能够/可以”。
+
+20. **中文**：你应当给寿星送上诚挚的生日祝福。
+   **英文**：You should bring a birthday card for the host.
+   > **解析**：should 表示“应该/应当”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We stayed late after the party to clean up the living room together.
-   > **中文**：派对结束后我们留到很晚，一起打扫客厅。
+1. He speaks English with a distinct British accent.
+   > **中文**：那位来自伦敦的客人有着一口地道的英式口音。
 
-2. They arrived two hours early to set up the sound system and decorations.
-   > **中文**：他们提前两小时到达，布置音响系统和装饰品。
+2. A whole bunch of friends arrived at the party together.
+   > **中文**：我们在派对上认识了一群活泼有趣的朋友。
 
-3. Everyone sang along during the party because they knew all the song lyrics.
-   > **中文**：派对期间大家都在合唱，因为他们知道所有的歌词。
+3. The charming host welcomed all guests warmly.
+   > **中文**：那位有魅力的主持人用幽默的言语引得全场欢笑。
 
-4. She brought a colorful bunch of fresh flowers to the birthday party.
-   > **中文**：她带着一束五彩缤纷的鲜花来到生日派对。
+4. We stayed late after the party to clean up the living room.
+   > **中文**：派对结束后，大家一起动手打扫干净客厅。
 
-5. The birthday cake decorated with fresh berries looked absolutely gorgeous.
-   > **中文**：用鲜浆果装饰的生日蛋糕看起来绝对华丽漂亮。
+5. Please come in and join the celebration in the yard.
+   > **中文**：请进！派对刚开始，大家都在客厅聊天。
 
-6. The host welcomed every guest with a warm smile and a charming personality.
-   > **中文**：主人以温暖的微笑和迷人的个性欢迎每一位客人。
+6. She looked absolutely gorgeous in her elegant party dress.
+   > **中文**：女主人身穿一袭极其漂亮的红色晚礼服登场。
 
-7. All the guests at the formal dinner party were extremely well-dressed.
-   > **中文**：正规晚宴派对上的所有客人都穿着非常得体考究。
+7. Fans love singing along to the catchy song lyrics.
+   > **中文**：大家都跟着流行音乐一起大声唱出歌词。
 
-8. The magician at the party had a small funny mustache above his lip.
-   > **中文**：派对上的魔术师上唇上方留着一撮有趣的小胡子。
+8. The gentleman has a neat black mustache.
+   > **中文**：那位男士留着整洁标志的八字胡须。
 
-9. He spoke with a friendly British accent that caught everyone's attention.
-   > **中文**：他说话带着友好的英国口音，吸引了所有人的注意。
+9. They helped set up the tables and decorations for party.
+   > **中文**：我们在后院布置好了音响和派对灯光。
 
-10. Please come in and leave your coat near the front hallway door about can.
-   > **中文**：请进，把你的大衣放在前门大厅门附近。
+10. All the guests at the gala were well-dressed.
+   > **中文**：今晚参加舞会的嘉宾们个个都是穿着体面的。
+
+11. Whose jacket is this lying on the couch?
+   > **中文**：请问客厅茶几上这把钥匙是谁的？
+
+12. We couldn't reach the venue on time due to traffic.
+   > **中文**：我们昨晚没能赶上派对上的精彩舞会。
+
+13. Guests shouldn't make too much noise late at night.
+   > **中文**：大家不应该在派对上大声喧哗打扰邻居。
+
+14. The party won't end until midnight tonight.
+   > **中文**：今晚的生日派对将不会在户外草地上举行。
+
+15. What are you doing at the celebration tonight?
+   > **中文**：他们正在阳台上快乐地跳着流行舞蹈。
+
+16. Everyone likes the lively atmosphere of the party.
+   > **中文**：大家都很喜欢派对上温馨快乐的氛围。
+
+17. Turn right at the corridor to find the ballroom.
+   > **中文**：请在门口右边找到你的专属姓名牌。
+
+18. You can meet many interesting people at the party.
+   > **中文**：在派对上你可以结识许多志同道合的新朋友。
+
+19. We could invite more neighbors to join our party.
+   > **中文**：如果我们早点准备，就能邀请更多朋友。
+
+20. You should bring a birthday card for the host.
+   > **中文**：你应当给寿星送上诚挚的生日祝福。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| accent | 口音 |
+| bunch | 一群 / 一束 |
+| charming | 有魅力的 |
+| clean up | 打扫干净 |
+| come in | 进来 |
+| gorgeous | 极其漂亮的 |
+| lyrics | 歌词 |
+| mustache | 胡须 |
+| set up | 布置 / 准备 |
+| well-dressed | 穿着体面的 |
+| Whose | 谁的 |
+| couldn't | 不能（could not） |
+| shouldn't | 不应该（should not） |
+| won't | 将不会（will not） |
+| doing | 做 |
+| likes | 喜欢 |
+| right | 右边 / 正确的 |
+| can | 可以 |
+| could | 能够 |
+| should | 应该 |
 
 </quiz-matching>
 
@@ -135,102 +228,202 @@ whose 用来问归属：Whose playlist is this? like 和 right 是口语中的�
 
 ### 1
 
-We stayed late after the party to `____` the living room together.
+He speaks English with a distinct British ____.
 
-- [x] clean up
-- [ ] accent
-- [ ] charming
+- [x] accent
+- [ ] bunch
+- [ ] can
 
-> **解析**：clean up 短语动词，意为“打扫；清理”，做及物动词时宾语可置于中间或后面。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-They arrived two hours early to `____` the sound system and decorations.
+A whole ____ of friends arrived at the party together.
 
-- [x] set up
-- [ ] bunch
-- [ ] clean up
+- [x] bunch
+- [ ] accent
+- [ ] can
 
-> **解析**：set up 短语动词，意为“布置；搭建；安装”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Everyone sang along during the party because they knew all the song `____`.
+The ____ host welcomed all guests warmly.
 
-- [x] lyrics
-- [ ] can
-- [ ] come in
+- [x] charming
+- [ ] accent
+- [ ] bunch
 
-> **解析**：lyrics 复数名词，意为“歌词”，通常用复数形式。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-She brought a colorful `____` of fresh flowers to the birthday party.
+We ____ late after the party to clean up the living room.
 
-- [x] bunch
-- [ ] charming
-- [ ] couldn't
+- [x] stayed
+- [ ] accent
+- [ ] bunch
 
-> **解析**：bunch 可数名词，意为“一束；一串”，常用于 a bunch of flowers/grapes。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-The birthday cake decorated with fresh berries looked absolutely `____`.
+Please come in and join the ____ in the yard.
 
-- [x] gorgeous
-- [ ] charming
-- [ ] couldn't
+- [x] celebration
+- [ ] accent
+- [ ] bunch
 
-> **解析**：gorgeous 形容词，意为“极美的；华丽的”，语气极强。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The host welcomed every guest with a warm smile and a `____` personality.
+She looked absolutely ____ in her elegant party dress.
 
-- [x] charming
-- [ ] come in
-- [ ] gorgeous
+- [x] gorgeous
+- [ ] accent
+- [ ] bunch
 
-> **解析**：charming 形容词，意为“迷人的；有魅力的”，衍生自 charm。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-All the guests at the formal dinner party were extremely `____`.
+Fans love singing along to the catchy song ____.
 
-- [x] well-dressed
-- [ ] come in
-- [ ] gorgeous
+- [x] lyrics
+- [ ] accent
+- [ ] bunch
 
-> **解析**：well-dressed 复合形容词，意为“穿着得体的；衣着考究的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The magician at the party had a small funny `____` above his lip.
+The gentleman has a neat black ____.
 
 - [x] mustache
-- [ ] could
-- [ ] like
+- [ ] accent
+- [ ] bunch
 
-> **解析**：mustache 可数名词，意为“八字胡；胡须”（美式拼写），英式为 moustache。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-He spoke with a friendly British `____` that caught everyone's attention.
+They helped set up the tables and ____ for party.
 
-- [x] accent
-- [ ] doing
-- [ ] mustache
+- [x] decorations
+- [ ] accent
+- [ ] bunch
 
-> **解析**：accent 可数名词，意为“口音；腔调”，如 British accent。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Please come in and leave your coat near the front hallway door about `____`.
+All the guests at the gala were ____.
+
+- [x] well-dressed
+- [ ] accent
+- [ ] bunch
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+____ jacket is this lying on the couch?
+
+- [x] Whose
+- [ ] accent
+- [ ] bunch
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+We ____ reach the venue on time due to traffic.
+
+- [x] couldn't
+- [ ] accent
+- [ ] bunch
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+Guests ____ make too much noise late at night.
+
+- [x] shouldn't
+- [ ] accent
+- [ ] bunch
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The party ____ end until midnight tonight.
+
+- [x] won't
+- [ ] accent
+- [ ] bunch
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+What are you ____ at the celebration tonight?
+
+- [x] doing
+- [ ] accent
+- [ ] bunch
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Everyone likes the lively ____ of the party.
+
+- [x] atmosphere
+- [ ] accent
+- [ ] bunch
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Turn ____ at the corridor to find the ballroom.
+
+- [x] right
+- [ ] accent
+- [ ] bunch
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+You ____ meet many interesting people at the party.
 
 - [x] can
-- [ ] gorgeous
-- [ ] right
+- [ ] accent
+- [ ] bunch
 
-> **解析**：come in 短语动词，常用作礼貌邀请开场白，意为“进来；请进”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+We ____ invite more neighbors to join our party.
+
+- [x] could
+- [ ] accent
+- [ ] bunch
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+You ____ bring a birthday card for the host.
+
+- [x] should
+- [ ] accent
+- [ ] bunch
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

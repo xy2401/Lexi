@@ -61,83 +61,176 @@ would you mind if + 从句 是礼貌请求。look forward to + doing。
 
 <quiz-sentence-builder>
 
-1. **中文**：她感到很烦恼，因为来电者在介绍时忘了说明自己的姓名。  
-   **英文**：She felt annoyed because her caller forgot to mention his name during the introduction.
-   > **解析**：annoyed 是形容词，意为“感到烦恼的/不悦的”，说明人的主观心理状态（feel annoyed）。
+1. **中文**：她很生气，因为会议又一次迟到了。
+   **英文**：She was annoyed because the meeting started late again.
+   > **解析**：annoyed 形容人“感到的生气的/烦恼的”。
 
-2. **中文**：让我介绍一下我们的新员工戴维，他刚刚加入市场部。  
-   **英文**：Let me introduce our new employee, David, who just joined the marketing department.
-   > **解析**：employee 为可数名词，意为“雇员、员工”，与雇主 employer 对应。
+2. **中文**：工作中不必要的电话打扰可能会很令人烦恼。
+   **英文**：Unnecessary phone interruptions during work can be annoying.
+   > **解析**：annoying 形容事物“令人烦恼的/讨厌的”。
 
-3. **中文**：给你，这是我们常务董事的名片。  
-   **英文**：Here you go, this is the business card of our managing director.
-   > **解析**：go 在此处与 here 构成常用交际口语 Here you go，意为“给你/拿去吧”，用于递交物品或介绍他人联络方式。
+3. **中文**：行政助理安排了周四的会议。
+   **英文**：The executive assistant scheduled the meeting for Thursday.
+   > **解析**：assistant 表示“助理/助手”；executive 意为“行政的/高管的”。
 
-4. **中文**：我期待着在即将到来的国际项目中与您合作。  
-   **英文**：I look forward to working with you on this upcoming international project.
-   > **解析**：look forward to 为固定动词短语，意为“期待、盼望”，注意其中的 to 为介词，后接名词或动名词（working）。
+4. **中文**：平面设计师为我们的项目创建了新图标。
+   **英文**：A graphic designer created the new logo for our project.
+   > **解析**：designer 表示“设计师”；graphic designer 意为“平面设计师”。
 
-5. **中文**：这是一个向新投资者介绍我们团队的绝佳机会。  
-   **英文**：It is a great opportunity to introduce our team to the new investors.
-   > **解析**：opportunity 为可数名词，意为“机会”。常见结构 an opportunity to do sth.（做某事的机会）。
+5. **中文**：每位员工都必须参加年度安全研讨会。
+   **英文**：Every employee must attend the annual safety workshop.
+   > **解析**：employee 表示“雇员/员工”；annual 意为“年度的”。
 
-6. **中文**：早上好先生，请允许我介绍我们今天的特邀演讲嘉宾。  
-   **英文**：Good morning sir, please allow me to introduce our guest speaker today.
-   > **解析**：sir 为尊称名词，意为“先生”，常用于正式场合向男性长辈或客户表达恭敬。
+6. **中文**：这家公司是技术领域的高级雇主。
+   **英文**：The company is a top employer in the technology sector.
+   > **解析**：employer 表示“雇主/东家”；technology sector 意为“技术领域”。
 
-7. **中文**：无论何时你需要额外细节，都可以随时联系我的经理。  
-   **英文**：You can reach out to my manager whenever you need additional details.
-   > **解析**：whenever 为连词，意为“每当、无论何时”，引导时间状语从句（whenever you need...）。
+7. **中文**：好好了解你的新队友需要时间。
+   **英文**：It takes time to get to know your new teammates well.
+   > **解析**：get to know 表示“了解/认识”；teammates 意为“队友”。
 
-8. **中文**：在商务会议上别人打断你的介绍会让人很恼火。  
-   **英文**：It can be annoying when people interrupt your introduction during a business meeting.
-   > **解析**：annoying 为形容词，意为“令人烦恼的/讨厌的”，通常修饰事物或客观状况（It is annoying...）。
+8. **中文**：我们希望在周五之前收到招聘经理的消息。
+   **英文**：We hope to hear from the hiring manager by Friday.
+   > **解析**：hear from 表示“收到……的消息/来信”。
 
-9. **中文**：他的雇主在招待会上亲自表扬了他出色的沟通能力。  
-   **英文**：His employer personally praised his excellent communication skills at the reception.
-   > **解析**：employer 为可数名词，意为“雇主、老板”，指雇用人员的公司或个人。
+9. **中文**：我期待与您的团队在这个项目上合作。
+   **英文**：I look forward to working with your team on this project.
+   > **解析**：look forward to 表示“期待/盼望”；后接 v-ing 形式。
 
-10. **中文**：如果你愿意的话，我长可以现在就和你交换联系电话。  
-   **英文**：I can exchange contact numbers with you now, if you like.
-   > **解析**：if you like 为口语常用条件短语，意为“如果你愿意/如果你喜欢”，用于客气地提出建议或选择。
+10. **中文**：女士，我能帮您找座位吗？
+   **英文**：May I help you find your seat, ma'am?
+   > **解析**：ma'am 表示“女士/夫人”（尊称）。
+
+11. **中文**：这次实习是获得经验的大好机会。
+   **英文**：This internship is a great opportunity to gain experience.
+   > **解析**：opportunity 表示“机会/时机”；internship 意为“实习”。
+
+12. **中文**：在商务电子邮件中时刻保持专业的语气。
+   **英文**：Always maintain a professional tone in your business emails.
+   > **解析**：professional 表示“专业的/职业的”；tone 意为“语气”。
+
+13. **中文**：教授发表了一场关于文学的深刻讲座。
+   **英文**：The professor delivered an insightful lecture on literature.
+   > **解析**：professor 表示“教授”；insightful 意为“有深刻见解的”。
+
+14. **中文**：别人对你说话时看手机是不礼貌的。
+   **英文**：It is rude to check your phone while someone is speaking to you.
+   > **解析**：rude 表示“无礼的/不礼貌的”；while 引导时间状语从句。
+
+15. **中文**：先生早上好，今天有什么可以帮您的？
+   **英文**：Good morning, sir, how may I assist you today?
+   > **解析**：sir 表示“先生/阁下”（尊称）。
+
+16. **中文**：连续三天出差是非常累人的。
+   **英文**：Traveling for business three days in a row is very tiring.
+   > **解析**：tiring 形容事物“累人的/使人疲倦的”。
+
+17. **中文**：无论你何时需要报告方面的帮助，随时给我打电话。
+   **英文**：Call me whenever you need help with the report.
+   > **解析**：whenever 表示“无论何时/随时”。
+
+18. **中文**：我想预约史密斯医生的门诊。
+   **英文**：I would like to schedule an appointment with Dr. Smith.
+   > **解析**：would like 表示“想要/希望”；schedule an appointment 意为“预约”。
+
+19. **中文**：你介意我借用一下你的钢笔吗？
+   **英文**：Would you mind if I borrowed your pen for a second?
+   > **解析**：Would you mind if 表示“你介意……吗”（礼貌请求）。
+
+20. **中文**：请允许我向您介绍我们的新营销协调员。
+   **英文**：Let me introduce you to our new marketing coordinator.
+   > **解析**：let me introduce you to 表示“让我向你介绍……”；coordinator 意为“协调员”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. She felt annoyed because her caller forgot to mention his name during the introduction.
-   > **中文**：她感到很烦恼，因为来电者在介绍时忘了说明自己的姓名。
+1. She was annoyed because the meeting started late again.
+   > **中文**：她很生气，因为会议又一次迟到了。
 
-2. Let me introduce our new employee, David, who just joined the marketing department.
-   > **中文**：让我介绍一下我们的新员工戴维，他刚刚加入市场部。
+2. Unnecessary phone interruptions during work can be annoying.
+   > **中文**：工作中不必要的电话打扰可能会很令人烦恼。
 
-3. Here you go, this is the business card of our managing director.
-   > **中文**：给你，这是我们常务董事的名片。
+3. The executive assistant scheduled the meeting for Thursday.
+   > **中文**：行政助理安排了周四的会议。
 
-4. I look forward to working with you on this upcoming international project.
-   > **中文**：我期待着在即将到来的国际项目中与您合作。
+4. A graphic designer created the new logo for our project.
+   > **中文**：平面设计师为我们的项目创建了新图标。
 
-5. It is a great opportunity to introduce our team to the new investors.
-   > **中文**：这是一个向新投资者介绍我们团队的绝佳机会。
+5. Every employee must attend the annual safety workshop.
+   > **中文**：每位员工都必须参加年度安全研讨会。
 
-6. Good morning sir, please allow me to introduce our guest speaker today.
-   > **中文**：早上好先生，请允许我介绍我们今天的特邀演讲嘉宾。
+6. The company is a top employer in the technology sector.
+   > **中文**：这家公司是技术领域的高级雇主。
 
-7. You can reach out to my manager whenever you need additional details.
-   > **中文**：无论何时你需要额外细节，都可以随时联系我的经理。
+7. It takes time to get to know your new teammates well.
+   > **中文**：好好了解你的新队友需要时间。
 
-8. It can be annoying when people interrupt your introduction during a business meeting.
-   > **中文**：在商务会议上别人打断你的介绍会让人很恼火。
+8. We hope to hear from the hiring manager by Friday.
+   > **中文**：我们希望在周五之前收到招聘经理的消息。
 
-9. His employer personally praised his excellent communication skills at the reception.
-   > **中文**：他的雇主在招待会上亲自表扬了他出色的沟通能力。
+9. I look forward to working with your team on this project.
+   > **中文**：我期待与您的团队在这个项目上合作。
 
-10. I can exchange contact numbers with you now, if you like.
-   > **中文**：如果你愿意的话，我长可以现在就和你交换联系电话。
+10. May I help you find your seat, ma'am?
+   > **中文**：女士，我能帮您找座位吗？
+
+11. This internship is a great opportunity to gain experience.
+   > **中文**：这次实习是获得经验的大好机会。
+
+12. Always maintain a professional tone in your business emails.
+   > **中文**：在商务电子邮件中时刻保持专业的语气。
+
+13. The professor delivered an insightful lecture on literature.
+   > **中文**：教授发表了一场关于文学的深刻讲座。
+
+14. It is rude to check your phone while someone is speaking to you.
+   > **中文**：别人对你说话时看手机是不礼貌的。
+
+15. Good morning, sir, how may I assist you today?
+   > **中文**：先生早上好，今天有什么可以帮您的？
+
+16. Traveling for business three days in a row is very tiring.
+   > **中文**：连续三天出差是非常累人的。
+
+17. Call me whenever you need help with the report.
+   > **中文**：无论你何时需要报告方面的帮助，随时给我打电话。
+
+18. I would like to schedule an appointment with Dr. Smith.
+   > **中文**：我想预约史密斯医生的门诊。
+
+19. Would you mind if I borrowed your pen for a second?
+   > **中文**：你介意我借用一下你的钢笔吗？
+
+20. Let me introduce you to our new marketing coordinator.
+   > **中文**：请允许我向您介绍我们的新营销协调员。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| annoyed | 生气的 / 烦恼的 |
+| annoying | 令人烦恼的 |
+| assistant | 助理 / 助手 |
+| designer | 设计师 |
+| employee | 雇员 / 员工 |
+| employer | 雇主 / 东家 |
+| get to know | 了解 / 认识 |
+| hear from | 收到……的消息 |
+| look forward to | 期待 / 盼望 |
+| ma'am | 女士 / 夫人 |
+| opportunity | 机会 |
+| professional | 专业的 |
+| professor | 教授 |
+| rude | 无礼的 / 不礼貌的 |
+| sir | 先生 |
+| tiring | 累人的 / 使人疲倦的 |
+| whenever | 无论何时 |
+| would like | 想要 / 希望 |
+| Would you mind if | 你介意……吗 |
+| let me introduce you to | 让我向你介绍…… |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ would you mind if + 从句 是礼貌请求。look forward to + doing。
 
 ### 1
 
-She felt `____` because her caller forgot to mention his name during the introduction.
+She was ____ because the meeting started late again.
 
 - [x] annoyed
 - [ ] annoying
-- [ ] employer
+- [ ] assistant
 
-> **解析**：annoyed 是形容词，意为“感到烦恼的/不悦的”，说明人的主观心理状态（feel annoyed）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Let me introduce our new `____`, David, who just joined the marketing department.
+Unnecessary phone interruptions during work can be ____.
 
-- [x] employee
-- [ ] annoying
-- [ ] get to know
+- [x] annoying
+- [ ] annoyed
+- [ ] assistant
 
-> **解析**：employee 为可数名词，意为“雇员、员工”，与雇主 employer 对应。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Here you `____`, this is the business card of our managing director.
+The executive ____ scheduled the meeting for Thursday.
 
-- [x] go
-- [ ] assistant
-- [ ] get to know
+- [x] assistant
+- [ ] annoyed
+- [ ] annoying
 
-> **解析**：go 在此处与 here 构成常用交际口语 Here you go，意为“给你/拿去吧”，用于递交物品或介绍他人联络方式。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-I `____` working with you on this upcoming international project.
+A graphic ____ created the new logo for our project.
 
-- [x] look forward to
-- [ ] designer
-- [ ] go
+- [x] designer
+- [ ] annoyed
+- [ ] annoying
 
-> **解析**：look forward to 为固定动词短语，意为“期待、盼望”，注意其中的 to 为介词，后接名词或动名词（working）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-It is a great `____` to introduce our team to the new investors.
+Every ____ must attend the annual safety workshop.
 
-- [x] opportunity
-- [ ] employee
-- [ ] hear from
+- [x] employee
+- [ ] annoyed
+- [ ] annoying
 
-> **解析**：opportunity 为可数名词，意为“机会”。常见结构 an opportunity to do sth.（做某事的机会）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Good morning `____`, please allow me to introduce our guest speaker today.
+The company is a top ____ in the technology sector.
 
-- [x] sir
-- [ ] employer
-- [ ] if you like
+- [x] employer
+- [ ] annoyed
+- [ ] annoying
 
-> **解析**：sir 为尊称名词，意为“先生”，常用于正式场合向男性长辈或客户表达恭敬。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-You can reach out to my manager whenever you `____` additional details.
+It takes time to get to know your new ____ well.
 
-- [x] need
-- [ ] get to know
-- [ ] let me introduce you to
+- [x] teammates
+- [ ] annoyed
+- [ ] annoying
 
-> **解析**：whenever 为连词，意为“每当、无论何时”，引导时间状语从句（whenever you need...）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-It can be `____` when people interrupt your introduction during a business meeting.
+We hope to hear from the hiring ____ by Friday.
 
-- [x] annoying
-- [ ] hear from
-- [ ] ma'am
+- [x] manager
+- [ ] annoyed
+- [ ] annoying
 
-> **解析**：annoying 为形容词，意为“令人烦恼的/讨厌的”，通常修饰事物或客观状况（It is annoying...）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-His `____` personally praised his excellent communication skills at the reception.
+I look ____ to working with your team on this project.
 
-- [x] employer
-- [ ] if you like
-- [ ] need
+- [x] forward
+- [ ] annoyed
+- [ ] annoying
 
-> **解析**：employer 为可数名词，意为“雇主、老板”，指雇用人员的公司或个人。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-I can exchange contact numbers with you now, `____`.
+May I help you find your seat, ____?
 
-- [x] if you like
-- [ ] let me introduce you to
-- [ ] opportunity
+- [x] ma'am
+- [ ] annoyed
+- [ ] annoying
 
-> **解析**：if you like 为口语常用条件短语，意为“如果你愿意/如果你喜欢”，用于客气地提出建议或选择。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+This internship is a great ____ to gain experience.
+
+- [x] opportunity
+- [ ] annoyed
+- [ ] annoying
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Always maintain a ____ tone in your business emails.
+
+- [x] professional
+- [ ] annoyed
+- [ ] annoying
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The ____ delivered an insightful lecture on literature.
+
+- [x] professor
+- [ ] annoyed
+- [ ] annoying
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+It is ____ to check your phone while someone is speaking to you.
+
+- [x] rude
+- [ ] annoyed
+- [ ] annoying
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Good morning, ____, how may I assist you today?
+
+- [x] sir
+- [ ] annoyed
+- [ ] annoying
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Traveling for business three days in a row is very ____.
+
+- [x] tiring
+- [ ] annoyed
+- [ ] annoying
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+Call me ____ you need help with the report.
+
+- [x] whenever
+- [ ] annoyed
+- [ ] annoying
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+I would like to schedule an ____ with Dr. Smith.
+
+- [x] appointment
+- [ ] annoyed
+- [ ] annoying
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+Would you mind if I ____ your pen for a second?
+
+- [x] borrowed
+- [ ] annoyed
+- [ ] annoying
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+Let me introduce you to our new marketing ____.
+
+- [x] coordinator
+- [ ] annoyed
+- [ ] annoying
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

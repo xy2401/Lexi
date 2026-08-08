@@ -61,83 +61,176 @@ have/has + 过去分词构成现在完成时。than 用于比较级。
 
 <quiz-sentence-builder>
 
-1. **中文**：这对夫妇举办家庭晚宴庆祝他们的银婚纪念日。  
-   **英文**：The couple celebrated their silver wedding anniversary with a family dinner party.
-   > **解析**：anniversary 为名词，意为“周年纪念日”。wedding anniversary 意为“结婚纪念日”。silver wedding anniversary 指“银婚（25周年）纪念日”。
+1. **中文**：在结婚周年纪念日，这对身处美好恋爱中的夫妇去度蜜月了。  
+   **英文**：On their anniversary, the couple went on a honeymoon.
+   > **解析**：anniversary 表示“周年纪念日”；honeymoon 表示“蜜月”；in a relationship 表示“在恋爱关系中”。
 
-2. **中文**：婚礼结束后你们计划去哪里度蜜月？  
-   **英文**：Where do you plan to go for your honeymoon after the wedding ceremony.
-   > **解析**：honeymoon 为名词，意为“蜜月”。go for a honeymoon 表示“去度蜜月”。
+2. **中文**：近来，他们比以前更频繁地去那座宁静的小镇。  
+   **英文**：Lately, they visit the peaceful town more often than before.
+   > **解析**：lately 表示“近来/最近”；more often 表示“更频繁”；than 表示“比”；peaceful 表示“宁静的/和平的”。
 
-3. **中文**：你目前是在恋爱中，还是在享受单身生活？  
-   **英文**：Are you currently in a relationship, or are you enjoying your single life.
-   > **解析**：in a relationship 为固定介词短语，作表语，意为“处于恋爱关系中”。
+3. **中文**：那是一场难以置信且富有传统色彩的精彩盛事。  
+   **英文**：It was an incredible and traditional event for the town.
+   > **解析**：incredible 表示“难以置信的/极好的”；tradition / traditional 表示“传统”；event 表示“盛事/活动”。
 
-4. **中文**：一起切婚礼蛋糕是许多文化中共同拥有的甜蜜传统。  
-   **英文**：Cutting the wedding cake together is a sweet tradition shared by many cultures.
-   > **解析**：tradition 为名词，意为“传统”。shared by... 为过去分词短语作后置定语。形容词为 traditional。
+4. **中文**：按照当地典型的传统，大家站在路边向面包车挥手。  
+   **英文**：In a typical tradition, people wave at the passing van.
+   > **解析**：typical 表示“典型的”；tradition 表示“传统”；wave 表示“挥手”；van 表示“面包车”。
 
-5. **中文**：他们选择了一个宁静的湖畔度假村来举办他们亲密的婚礼仪式。  
-   **英文**：They chose a peaceful lakeside resort to host their intimate marriage ceremony.
-   > **解析**：peaceful 为形容词，意为“宁静的、和平的”。修饰 resort（度假村）。intimate 意为“亲密的/小范围的”。
+5. **中文**：这辆新买的避震面包车驾乘感受非常舒适令人满意。  
+   **英文**：This new van is nice and smooth for long trips.
+   > **解析**：nice and 表示“非常/相当”；van 表示“面包车”。
 
-6. **中文**：当新娘步入装饰一新的宴会厅时，她看起来美极了/令人难以置信地棒。  
-   **英文**：The bride looked incredible as she stepped into the decorated banquet hall.
-   > **解析**：incredible 为形容词，意为“极好的、难以置信的”。在句中作系动词 looked 的表语。
+6. **中文**：他们相爱多年，一直处于非常稳定的亲密关系中。  
+   **英文**：They have been in a relationship for five years.
+   > **解析**：in a relationship 表示“处于恋爱关系中”。
 
-7. **中文**：你最近听到了关于他们即将来临的婚礼安排的任何消息吗？  
-   **英文**：Have you heard any news about their upcoming wedding arrangements lately.
-   > **解析**：lately 为副词，意为“近来、最近”。常用于完成时态的疑问句或否定句中（Have you heard... lately?）。
+7. **中文**：这对老夫妇上周刚庆祝了他们的金婚纪念日。  
+   **英文**：The old couple celebrated their wedding anniversary.
+   > **解析**：anniversary 表示“纪念日”。
 
-8. **中文**：那种安静的新郎很少在公开场合发言，但他今晚做了一场感人的演讲。  
-   **英文**：The quiet groom rarely speaks in public, but he made a moving speech tonight.
-   > **解析**：rarely 为频度副词，意为“很少、罕见地”。在句中修饰动词 speaks。含有否定意味。
+8. **中文**：他们选择去美丽的夏威夷海岛度蜜月。  
+   **英文**：They chose to go to Hawaii for their honeymoon.
+   > **解析**：honeymoon 表示“蜜月”。
 
-9. **中文**：在你老家文化中，典型的婚礼菜单是什么样的？  
-   **英文**：What is a typical wedding menu like in your hometown culture?
-   > **解析**：typical 为形容词，意为“典型的、特有的”。what is ... like? 用于询问某种情况的特征。
+9. **中文**：远离城市喧嚣的山村显得格外宁静祥和。  
+   **英文**：The mountain village feels very peaceful and quiet.
+   > **解析**：peaceful 表示“宁静的/和平的”。
 
-10. **中文**：组织一场盛大的婚礼是一项需要周密规划的重大活动。  
-   **英文**：Organizing a grand wedding is a major event that requires careful planning.
-   > **解析**：event 为名词，意为“活动、盛事”。major event 表示“重大活动”。require careful planning 意为“需要周密规划”。
+10. **中文**：这是一场展示当地独特风土人情的典型活动。  
+   **英文**：This is a typical event showing local customs.
+   > **解析**：typical 表示“典型的/有代表性的”。
+
+11. **中文**：她很少会在公共场合高声发脾气。  
+   **英文**：She rarely gets angry in public places with others.
+   > **解析**：rarely 表示“很少/罕见”。
+
+12. **中文**：大家都热烈挥手欢迎游行队伍的到来。  
+   **英文**：Everyone decided to wave at the parade procession.
+   > **解析**：wave 表示“挥手/招手”。
+
+13. **中文**：他驾驶着一辆红色的实用面包车搬运家具。  
+   **英文**：He drove a red van to transport the furniture.
+   > **解析**：van 表示“面包车”。
+
+14. **中文**：近来，他的工作表现有了显著的提升。  
+   **英文**：Lately, his work performance has improved a lot.
+   > **解析**：lately 表示“近来/最近”。
+
+15. **中文**：遵照古老的传统，人们在元旦这天享用美食。  
+   **英文**：Following traditional custom, people eat rice cake.
+   > **解析**：tradition 表示“传统”。
+
+16. **中文**：那场跨国音乐节是一场难以置信的视觉盛宴。  
+   **英文**：That music festival was an incredible show to watch.
+   > **解析**：incredible 表示“难以置信的/精彩绝伦的”。
+
+17. **中文**：相比于看电视，他更喜欢在屋外散步。  
+   **英文**：He prefers walking outside more often than watching TV.
+   > **解析**：more often 表示“更频繁/更多”。
+
+18. **中文**：这个周末天气非常晴朗怡人。  
+   **英文**：The weather this weekend is nice and warm for a hike.
+   > **解析**：nice and 表示“非常/相当”。
+
+19. **中文**：他近来很少去酒吧参加夜生活活动。  
+   **英文**：He rarely goes to nightclubs for nightlife lately.
+   > **解析**：rarely 表示“很少/罕见”。
+
+20. **中文**：全家人一起出游是一场非常隆重的家庭盛事。  
+   **英文**：The family trip was a very grand event for everyone.
+   > **解析**：event 表示“盛事/重大活动”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The couple celebrated their silver wedding anniversary with a family dinner party.
-   > **中文**：这对夫妇举办家庭晚宴庆祝他们的银婚纪念日。
+1. On their anniversary, the couple went on a honeymoon.
+   > **中文**：在结婚周年纪念日，这对身处美好恋爱中的夫妇去度蜜月了。
 
-2. Where do you plan to go for your honeymoon after the wedding ceremony.
-   > **中文**：婚礼结束后你们计划去哪里度蜜月？
+2. Lately, they visit the peaceful town more often than before.
+   > **中文**：近来，他们比以前更频繁地去那座宁静的小镇。
 
-3. Are you currently in a relationship, or are you enjoying your single life.
-   > **中文**：你目前是在恋爱中，还是在享受单身生活？
+3. It was an incredible and traditional event for the town.
+   > **中文**：那是一场难以置信且富有传统色彩的精彩盛事。
 
-4. Cutting the wedding cake together is a sweet tradition shared by many cultures.
-   > **中文**：一起切婚礼蛋糕是许多文化中共同拥有的甜蜜传统。
+4. In a typical tradition, people wave at the passing van.
+   > **中文**：按照当地典型的传统，大家站在路边向面包车挥手。
 
-5. They chose a peaceful lakeside resort to host their intimate marriage ceremony.
-   > **中文**：他们选择了一个宁静的湖畔度假村来举办他们亲密的婚礼仪式。
+5. This new van is nice and smooth for long trips.
+   > **中文**：这辆新买的避震面包车驾乘感受非常舒适令人满意。
 
-6. The bride looked incredible as she stepped into the decorated banquet hall.
-   > **中文**：当新娘步入装饰一新的宴会厅时，她看起来美极了/令人难以置信地棒。
+6. They have been in a relationship for five years.
+   > **中文**：他们相爱多年，一直处于非常稳定的亲密关系中。
 
-7. Have you heard any news about their upcoming wedding arrangements lately.
-   > **中文**：你最近听到了关于他们即将来临的婚礼安排的任何消息吗？
+7. The old couple celebrated their wedding anniversary.
+   > **中文**：这对老夫妇上周刚庆祝了他们的金婚纪念日。
 
-8. The quiet groom rarely speaks in public, but he made a moving speech tonight.
-   > **中文**：那种安静的新郎很少在公开场合发言，但他今晚做了一场感人的演讲。
+8. They chose to go to Hawaii for their honeymoon.
+   > **中文**：他们选择去美丽的夏威夷海岛度蜜月。
 
-9. What is a typical wedding menu like in your hometown culture?
-   > **中文**：在你老家文化中，典型的婚礼菜单是什么样的？
+9. The mountain village feels very peaceful and quiet.
+   > **中文**：远离城市喧嚣的山村显得格外宁静祥和。
 
-10. Organizing a grand wedding is a major event that requires careful planning.
-   > **中文**：组织一场盛大的婚礼是一项需要周密规划的重大活动。
+10. This is a typical event showing local customs.
+   > **中文**：这是一场展示当地独特风土人情的典型活动。
+
+11. She rarely gets angry in public places with others.
+   > **中文**：她很少会在公共场合高声发脾气。
+
+12. Everyone decided to wave at the parade procession.
+   > **中文**：大家都热烈挥手欢迎游行队伍的到来。
+
+13. He drove a red van to transport the furniture.
+   > **中文**：他驾驶着一辆红色的实用面包车搬运家具。
+
+14. Lately, his work performance has improved a lot.
+   > **中文**：近来，他的工作表现有了显著的提升。
+
+15. Following traditional custom, people eat rice cake.
+   > **中文**：遵照古老的传统，人们在元旦这天享用美食。
+
+16. That music festival was an incredible show to watch.
+   > **中文**：那场跨国音乐节是一场难以置信的视觉盛宴。
+
+17. He prefers walking outside more often than watching TV.
+   > **中文**：相比于看电视，他更喜欢在屋外散步。
+
+18. The weather this weekend is nice and warm for a hike.
+   > **中文**：这个周末天气非常晴朗怡人。
+
+19. He rarely goes to nightclubs for nightlife lately.
+   > **中文**：他近来很少去酒吧参加夜生活活动。
+
+20. The family trip was a very grand event for everyone.
+   > **中文**：全家人一起出游是一场非常隆重的家庭盛事。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| anniversary | 周年纪念日 |
+| event | 盛事 / 重大活动 |
+| honeymoon | 蜜月 |
+| in a relationship | 在恋爱关系中 |
+| incredible | 难以置信的 / 极好的 |
+| lately | 最近 / 近来 |
+| more often | 更频繁 |
+| nice and | 非常 / 相当 |
+| peaceful | 宁静的 / 和平的 |
+| rarely | 很少 / 罕见 |
+| tradition | 传统 |
+| typical | 典型的 |
+| van | 面包车 |
+| wave | 挥手 |
+| did | 做了 |
+| has | 有（第三人称单数） |
+| hasn't | 没有 |
+| have | 有 |
+| haven't | 没有 |
+| than | 比 |
 
 </quiz-matching>
 
@@ -145,102 +238,202 @@ have/has + 过去分词构成现在完成时。than 用于比较级。
 
 ### 1
 
-The couple celebrated their silver wedding `____` with a family dinner party.
+On their ____, the couple went on a honeymoon.
 
 - [x] anniversary
 - [ ] did
-- [ ] have
+- [ ] event
 
-> **解析**：anniversary 为名词，意为“周年纪念日”。wedding anniversary 意为“结婚纪念日”。silver wedding anniversary 指“银婚（25周年）纪念日”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Where do you plan to go for your `____` after the wedding ceremony.
+____, they visit the peaceful town more often than before.
 
-- [x] honeymoon
+- [x] Lately
+- [ ] anniversary
 - [ ] did
-- [ ] have
 
-> **解析**：honeymoon 为名词，意为“蜜月”。go for a honeymoon 表示“去度蜜月”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-Are you currently `____`, or are you enjoying your single life.
+It was an ____ and traditional event for the town.
 
-- [x] in a relationship
-- [ ] event
-- [ ] haven't
+- [x] incredible
+- [ ] anniversary
+- [ ] did
 
-> **解析**：in a relationship 为固定介词短语，作表语，意为“处于恋爱关系中”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Cutting the wedding cake together is a sweet `____` shared by many cultures.
+In a ____ tradition, people wave at the passing van.
 
-- [x] tradition
-- [ ] has
-- [ ] honeymoon
+- [x] typical
+- [ ] anniversary
+- [ ] did
 
-> **解析**：tradition 为名词，意为“传统”。shared by... 为过去分词短语作后置定语。形容词为 traditional。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-They chose a `____` lakeside resort to host their intimate marriage ceremony.
+This new ____ is nice and smooth for long trips.
 
-- [x] peaceful
-- [ ] hasn't
-- [ ] in a relationship
+- [x] van
+- [ ] anniversary
+- [ ] did
 
-> **解析**：peaceful 为形容词，意为“宁静的、和平的”。修饰 resort（度假村）。intimate 意为“亲密的/小范围的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-The bride looked `____` as she stepped into the decorated banquet hall.
+They ____ been in a relationship for five years.
 
-- [x] incredible
-- [ ] have
-- [ ] lately
+- [x] have
+- [ ] anniversary
+- [ ] did
 
-> **解析**：incredible 为形容词，意为“极好的、难以置信的”。在句中作系动词 looked 的表语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-`____` you heard any news about their upcoming wedding arrangements lately.
+The old couple celebrated their wedding ____.
 
-- [x] have
-- [ ] honeymoon
-- [ ] more often
+- [x] anniversary
+- [ ] did
+- [ ] event
 
-> **解析**：lately 为副词，意为“近来、最近”。常用于完成时态的疑问句或否定句中（Have you heard... lately?）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The quiet groom `____` speaks in public, but he made a moving speech tonight.
+They chose to go to Hawaii for their ____.
 
-- [x] rarely
-- [ ] honeymoon
-- [ ] more often
+- [x] honeymoon
+- [ ] anniversary
+- [ ] did
 
-> **解析**：rarely 为频度副词，意为“很少、罕见地”。在句中修饰动词 speaks。含有否定意味。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-What is a `____` wedding menu like in your hometown culture?
+The mountain village feels very ____ and quiet.
 
-- [x] typical
-- [ ] in a relationship
-- [ ] nice and
+- [x] peaceful
+- [ ] anniversary
+- [ ] did
 
-> **解析**：typical 为形容词，意为“典型的、特有的”。what is ... like? 用于询问某种情况的特征。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-Organizing a grand wedding is a major `____` that requires careful planning.
+This is a ____ event showing local customs.
+
+- [x] typical
+- [ ] anniversary
+- [ ] did
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+She ____ gets angry in public places with others.
+
+- [x] rarely
+- [ ] anniversary
+- [ ] did
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+Everyone decided to ____ at the parade procession.
+
+- [x] wave
+- [ ] anniversary
+- [ ] did
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+He drove a red ____ to transport the furniture.
+
+- [x] van
+- [ ] anniversary
+- [ ] did
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+____, his work performance has improved a lot.
+
+- [x] Lately
+- [ ] anniversary
+- [ ] did
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Following ____ custom, people eat rice cake.
+
+- [x] traditional
+- [ ] anniversary
+- [ ] did
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+That music festival was an ____ show to watch.
+
+- [x] incredible
+- [ ] anniversary
+- [ ] did
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+He prefers walking outside more often ____ watching TV.
+
+- [x] than
+- [ ] anniversary
+- [ ] did
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+The ____ this weekend is nice and warm for a hike.
+
+- [x] weather
+- [ ] anniversary
+- [ ] did
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+He ____ goes to nightclubs for nightlife lately.
+
+- [x] rarely
+- [ ] anniversary
+- [ ] did
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+The family trip was a very grand ____ for everyone.
 
 - [x] event
-- [ ] lately
-- [ ] rarely
+- [ ] anniversary
+- [ ] did
 
-> **解析**：event 为名词，意为“活动、盛事”。major event 表示“重大活动”。require careful planning 意为“需要周密规划”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

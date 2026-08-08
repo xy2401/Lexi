@@ -51,83 +51,176 @@ must 在这里表推测（"一定、肯定"），the most 构成最高级。laug
 
 <quiz-sentence-builder>
 
-1. **中文**：我读了一本关于这位好莱坞著名电影导演的励志传记。  
-   **英文**：I read an inspiring biography about the famous Hollywood film director.
-   > **解析**：biography 可数名词，意为“传记；人物传”，由 bio-（生命）+ -graphy（书写）构成。
+1. **中文**：在舞台上勇敢地表演是成为一名好演员的第一步。
+   **英文**：She loves to act on stage in community theater.
+   > **解析**：act 表示“表演/演戏”。
 
-2. **中文**：这位电影导演因创作出如此生动的杰作而获得赞誉。  
-   **英文**：The film director received praise for creating such a vivid masterpiece.
-   > **解析**：director 可数名词，在此意为“（电影）导演”；也可指“董事；主管”。
+2. **中文**：热情歌迷排长队希望能索要到摇滚巨星的亲笔签名。
+   **英文**：The singer signed an autograph for her biggest fan.
+   > **解析**：autograph 表示“亲笔签名”。
 
-3. **中文**：这位出色的演员昨晚因其精湛表现获得了一项享有盛誉的奖项。  
-   **英文**：The talented actor won a prestigious award for his performance last night.
-   > **解析**：award 可数名词，意为“奖项；奖品”，作动词时意为“颁发；授予”。
+3. **中文**：那位优秀电影演员荣获了终身成就奖项。
+   **英文**：He received a prestigious award for best actor.
+   > **解析**：award 表示“奖项/奖杯”。
 
-4. **中文**：她非凡的戏剧表演天赋震惊了评论家们。  
-   **英文**：Her extraordinary talent for dramatic acting astonished the critics.
-   > **解析**：extraordinary 形容词，意为“非凡的；卓越的”，前缀 extra- 表示超出。
+4. **中文**：我读了一本关于这位历史名人生平的精彩传记。
+   **英文**：She wrote a best-selling biography of the leader.
+   > **解析**：biography 表示“传记”。
 
-5. **中文**：她被选定在明年夏天的一部新浪漫喜剧电影中担任主演。  
-   **英文**：She was chosen to star in a new romantic comedy movie next summer.
-   > **解析**：star in 短语动词，意为“在……中担任主演”，star 作动词。
+5. **中文**：知名电影导演在片场指导演员们的眼神表演。
+   **英文**：The film director chose historic locations for scene.
+   > **解析**：director 表示“导演”。
 
-6. **中文**：兴奋的粉丝们在剧院外等待，请求这位演员的亲笔签名。  
-   **英文**：Excited fans waited outside the theater to ask for the actor's autograph.
-   > **解析**：autograph 可数名词，特指“（名人的）亲笔签名”。
+6. **中文**：那位歌手凭借非凡的音乐天赋征服了听众。
+   **英文**：She possesses an extraordinary voice for opera.
+   > **解析**：extraordinary 表示“非凡的/卓越的”。
 
-7. **中文**：那本杂志装满了名人八卦，并不总是准确。  
-   **英文**：The magazine is full of celebrity gossip that is not always accurate.
-   > **解析**：gossip 不可数/可数名词，意为“八卦；绯闻”。
+7. **中文**：娱乐新闻里充满了关于名人的各种不实八卦。
+   **英文**：Don't pay attention to celebrity gossip online.
+   > **解析**：gossip 表示“八卦/闲话”。
 
-8. **中文**：这部侦探电影的剧情使主要反派的身份始终是个谜。  
-   **英文**：The plot of the detective movie keeps the main villain's identity a total mystery.
-   > **解析**：mystery 可数/不可数名词，意为“谜；神秘事件”。
+8. **中文**：不应该在别人犯错时无礼地去嘲笑他人。
+   **英文**：It is impolite to laugh at someone's mistake.
+   > **解析**：laugh at 表示“嘲笑/嘲弄”。
 
-9. **中文**：许多评论家认为他是史上最伟大的电影演员之一。  
-   **英文**：Many critics consider him one of the greatest movie actors of all time.
-   > **解析**：of all time 介词短语，意为“有史以来；史上”，用于修饰最高级。
+9. **中文**：这部充满神秘悬疑色彩的电影吸引了大量观众。
+   **英文**：The story involves a dark murder mystery downtown.
+   > **解析**：mystery 表示“谜团/悬疑”。
 
-10. **中文**：观众忍不住对这部喜剧中搞笑的场景发笑。  
-   **英文**：The audience could not help but laugh at the hilarious scenes in the comedy.
-   > **解析**：laugh at 动词短语，意为“因……发笑；嘲笑”。
+10. **中文**：他被誉为有史以来最伟大的流行音乐歌手之一。
+   **英文**：This is one of the best sci-fi movies of all time.
+   > **解析**：of all time 表示“有史以来/历来”。
+
+11. **中文**：这个温馨的角色非常适合由那位经验丰富的演员出演。
+   **英文**：The lead role is perfect for her acting talent.
+   > **解析**：perfect for 表示“非常适合……”。
+
+12. **中文**：乐队在录音棚里完成了新专辑的音频录音。
+   **英文**：They finished the studio recording of their new hit.
+   > **解析**：recording 表示“录音/唱片”。
+
+13. **中文**：舞台上的摇滚巨星引爆了全场数万观众的热情。
+   **英文**：The famous rock star sang to a crowd of thousands.
+   > **解析**：rock star 表示“摇滚巨星/流行巨星”。
+
+14. **中文**：看到偶像突现身现场，歌迷们感到非常震惊。
+   **英文**：Fans were shocked to see the actor in person.
+   > **解析**：shocked 表示“震惊的/吃惊的”。
+
+15. **中文**：她受邀在一部国际好莱坞大片中担任主演。
+   **英文**：She was chosen to star in the new action movie.
+   > **解析**：star in 表示“主演/担任主角”。
+
+16. **中文**：这是本年度在票房方面最成功的电影。
+   **英文**：She is the most talented actress in the company.
+   > **解析**：the most 用于最高级，表示“最……”。
+
+17. **中文**：成名之后，他必须学会应对媒体的追逐采访。
+   **英文**：You must respect the privacy of public figures.
+   > **解析**：must 表示“必须/一定”。
+
+18. **中文**：你认为谁会赢得本届奥斯卡最佳导演奖？
+   **英文**：What do you think about the movie's ending?
+   > **解析**：think 表示“思考/认为”。
+
+19. **中文**：一本精彩的传记是关于主人公一生经历的记录。
+   **英文**：This movie is about a famous jazz musician.
+   > **解析**：about 表示“关于”。
+
+20. **中文**：那位知名导演每年都会拍摄制作一部优质影片。
+   **英文**：The director does incredible work on every film.
+   > **解析**：does 为 do 的第三人称单数形式。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I read an inspiring biography about the famous Hollywood film director.
-   > **中文**：我读了一本关于这位好莱坞著名电影导演的励志传记。
+1. She loves to act on stage in community theater.
+   > **中文**：在舞台上勇敢地表演是成为一名好演员的第一步。
 
-2. The film director received praise for creating such a vivid masterpiece.
-   > **中文**：这位电影导演因创作出如此生动的杰作而获得赞誉。
+2. The singer signed an autograph for her biggest fan.
+   > **中文**：热情歌迷排长队希望能索要到摇滚巨星的亲笔签名。
 
-3. The talented actor won a prestigious award for his performance last night.
-   > **中文**：这位出色的演员昨晚因其精湛表现获得了一项享有盛誉的奖项。
+3. He received a prestigious award for best actor.
+   > **中文**：那位优秀电影演员荣获了终身成就奖项。
 
-4. Her extraordinary talent for dramatic acting astonished the critics.
-   > **中文**：她非凡的戏剧表演天赋震惊了评论家们。
+4. She wrote a best-selling biography of the leader.
+   > **中文**：我读了一本关于这位历史名人生平的精彩传记。
 
-5. She was chosen to star in a new romantic comedy movie next summer.
-   > **中文**：她被选定在明年夏天的一部新浪漫喜剧电影中担任主演。
+5. The film director chose historic locations for scene.
+   > **中文**：知名电影导演在片场指导演员们的眼神表演。
 
-6. Excited fans waited outside the theater to ask for the actor's autograph.
-   > **中文**：兴奋的粉丝们在剧院外等待，请求这位演员的亲笔签名。
+6. She possesses an extraordinary voice for opera.
+   > **中文**：那位歌手凭借非凡的音乐天赋征服了听众。
 
-7. The magazine is full of celebrity gossip that is not always accurate.
-   > **中文**：那本杂志装满了名人八卦，并不总是准确。
+7. Don't pay attention to celebrity gossip online.
+   > **中文**：娱乐新闻里充满了关于名人的各种不实八卦。
 
-8. The plot of the detective movie keeps the main villain's identity a total mystery.
-   > **中文**：这部侦探电影的剧情使主要反派的身份始终是个谜。
+8. It is impolite to laugh at someone's mistake.
+   > **中文**：不应该在别人犯错时无礼地去嘲笑他人。
 
-9. Many critics consider him one of the greatest movie actors of all time.
-   > **中文**：许多评论家认为他是史上最伟大的电影演员之一。
+9. The story involves a dark murder mystery downtown.
+   > **中文**：这部充满神秘悬疑色彩的电影吸引了大量观众。
 
-10. The audience could not help but laugh at the hilarious scenes in the comedy.
-   > **中文**：观众忍不住对这部喜剧中搞笑的场景发笑。
+10. This is one of the best sci-fi movies of all time.
+   > **中文**：他被誉为有史以来最伟大的流行音乐歌手之一。
+
+11. The lead role is perfect for her acting talent.
+   > **中文**：这个温馨的角色非常适合由那位经验丰富的演员出演。
+
+12. They finished the studio recording of their new hit.
+   > **中文**：乐队在录音棚里完成了新专辑的音频录音。
+
+13. The famous rock star sang to a crowd of thousands.
+   > **中文**：舞台上的摇滚巨星引爆了全场数万观众的热情。
+
+14. Fans were shocked to see the actor in person.
+   > **中文**：看到偶像突现身现场，歌迷们感到非常震惊。
+
+15. She was chosen to star in the new action movie.
+   > **中文**：她受邀在一部国际好莱坞大片中担任主演。
+
+16. She is the most talented actress in the company.
+   > **中文**：这是本年度在票房方面最成功的电影。
+
+17. You must respect the privacy of public figures.
+   > **中文**：成名之后，他必须学会应对媒体的追逐采访。
+
+18. What do you think about the movie's ending?
+   > **中文**：你认为谁会赢得本届奥斯卡最佳导演奖？
+
+19. This movie is about a famous jazz musician.
+   > **中文**：一本精彩的传记是关于主人公一生经历的记录。
+
+20. The director does incredible work on every film.
+   > **中文**：那位知名导演每年都会拍摄制作一部优质影片。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| act | 表演 |
+| autograph | 亲笔签名 |
+| award | 奖项 |
+| biography | 传记 |
+| director | 导演 |
+| extraordinary | 非凡的 |
+| gossip | 八卦 |
+| laugh at | 嘲笑 |
+| mystery | 悬疑 / 谜团 |
+| of all time | 有史以来 |
+| perfect for | 非常适合 |
+| recording | 录音 |
+| rock star | 摇滚巨星 |
+| shocked | 震惊的 |
+| star in | 主演 |
+| the most | 最…… |
+| must | 必须 |
+| think | 思考 / 认为 |
+| about | 关于 |
+| does | 做（第三人称单数） |
 
 </quiz-matching>
 
@@ -135,102 +228,202 @@ must 在这里表推测（"一定、肯定"），the most 构成最高级。laug
 
 ### 1
 
-I read an inspiring biography `____` the famous Hollywood film director.
+She loves to ____ on stage in community theater.
 
-- [x] about
-- [ ] act
-- [ ] director
+- [x] act
+- [ ] about
+- [ ] autograph
 
-> **解析**：biography 可数名词，意为“传记；人物传”，由 bio-（生命）+ -graphy（书写）构成。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-The film `____` received praise for creating such a vivid masterpiece.
+The singer signed an ____ for her biggest fan.
 
-- [x] director
+- [x] autograph
+- [ ] about
 - [ ] act
-- [ ] does
 
-> **解析**：director 可数名词，在此意为“（电影）导演”；也可指“董事；主管”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The talented `____`or won a prestigious award for his performance last night.
+He received a prestigious ____ for best actor.
 
-- [x] act
-- [ ] award
-- [ ] extraordinary
+- [x] award
+- [ ] about
+- [ ] act
 
-> **解析**：award 可数名词，意为“奖项；奖品”，作动词时意为“颁发；授予”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Her `____` talent for dramatic acting astonished the critics.
+She wrote a best-selling ____ of the leader.
 
-- [x] extraordinary
-- [ ] award
-- [ ] gossip
+- [x] biography
+- [ ] about
+- [ ] act
 
-> **解析**：extraordinary 形容词，意为“非凡的；卓越的”，前缀 extra- 表示超出。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-She was chosen to `____` a new romantic comedy movie next summer.
+The film ____ chose historic locations for scene.
 
-- [x] star in
-- [ ] biography
-- [ ] gossip
+- [x] director
+- [ ] about
+- [ ] act
 
-> **解析**：star in 短语动词，意为“在……中担任主演”，star 作动词。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Excited fans waited outside the theater to ask for the actor's `____`.
+She possesses an ____ voice for opera.
 
-- [x] autograph
-- [ ] does
-- [ ] must
+- [x] extraordinary
+- [ ] about
+- [ ] act
 
-> **解析**：autograph 可数名词，特指“（名人的）亲笔签名”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-The magazine is full of celebrity `____` that is not always accurate.
+Don't pay attention to celebrity ____ online.
 
 - [x] gossip
-- [ ] does
-- [ ] mystery
+- [ ] about
+- [ ] act
 
-> **解析**：gossip 不可数/可数名词，意为“八卦；绯闻”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-The plot of the detective movie keeps the main villain's identity a total `____`.
+It is impolite to laugh at ____ mistake.
 
-- [x] mystery
-- [ ] extraordinary
-- [ ] of all time
+- [x] someone's
+- [ ] about
+- [ ] act
 
-> **解析**：mystery 可数/不可数名词，意为“谜；神秘事件”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-Many critics consider him one of the greatest movie actors `____`.
+The story involves a dark murder ____ downtown.
 
-- [x] of all time
-- [ ] gossip
-- [ ] over
+- [x] mystery
+- [ ] about
+- [ ] act
 
-> **解析**：of all time 介词短语，意为“有史以来；史上”，用于修饰最高级。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-The audience could not help but `____` the hilarious scenes in the comedy.
+This is one of the best ____ movies of all time.
 
-- [x] laugh at
-- [ ] must
-- [ ] perfect for
+- [x] sci-fi
+- [ ] about
+- [ ] act
 
-> **解析**：laugh at 动词短语，意为“因……发笑；嘲笑”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+The lead role is ____ for her acting talent.
+
+- [x] perfect
+- [ ] about
+- [ ] act
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+They finished the studio ____ of their new hit.
+
+- [x] recording
+- [ ] about
+- [ ] act
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+The famous rock star sang to a crowd of ____.
+
+- [x] thousands
+- [ ] about
+- [ ] act
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Fans were ____ to see the actor in person.
+
+- [x] shocked
+- [ ] about
+- [ ] act
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+She was ____ to star in the new action movie.
+
+- [x] chosen
+- [ ] about
+- [ ] act
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+She is the most ____ actress in the company.
+
+- [x] talented
+- [ ] about
+- [ ] act
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+You ____ respect the privacy of public figures.
+
+- [x] must
+- [ ] about
+- [ ] act
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+What do you ____ about the movie's ending?
+
+- [x] think
+- [ ] about
+- [ ] act
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+This movie is ____ a famous jazz musician.
+
+- [x] about
+- [ ] act
+- [ ] autograph
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+The ____ does incredible work on every film.
+
+- [x] director
+- [ ] about
+- [ ] act
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

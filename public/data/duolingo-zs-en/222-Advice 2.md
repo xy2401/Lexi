@@ -63,83 +63,176 @@ aware, cheat on, childish, concerned, could, could have, could've, couldn't have
 
 <quiz-sentence-builder>
 
-1. **中文**：在做出如此重大的生活决定之前，你应该充分意识到后果。  
-   **英文**：You should be fully aware of the consequences before making such a major life decision.
-   > **解析**：`aware` 形容词，意为“意识到的；知道的”。固定搭配 `be aware of sth.`（意识到某事）。
+1. **中文**：你本来应该早点告诉我日程变更的。  
+   **英文**：You should have told me about the schedule change earlier.
+   > **解析**：should have 表示本来应该做某事（实际没做）。
 
-2. **中文**：如果你对项目需要建议，你可以和你的职业咨询师讨论一下。  
-   **英文**：If you need advice on your project, you could discuss it with your career counselor.
-   > **解析**：`could` 情态动词，在此处表示提出温和或委婉的建议。
+2. **中文**：她本来不应该把钥匙留在餐桌上的。  
+   **英文**：She shouldn't have left her keys on the dining table.
+   > **解析**：shouldn't have 表示本来不应该做某事。
 
-3. **中文**：批评某人而不提供建设性的解决方案是没有帮助的。  
-   **英文**：It is not helpful to criticize someone without offering constructive solutions.
-   > **解析**：`criticize` 及物动词，意为“批评；指责”。常用结构 `criticize sb. for sth.`。
+3. **中文**：我们本可以避免这场糟糕的误会。  
+   **英文**：We could have avoided this terrible misunderstanding.
+   > **解析**：could have 表示本可以实现某种结果。
 
-4. **中文**：我感觉他似乎在犹豫是否要告诉我们事实的全貌。  
-   **英文**：I get the feeling that he is hesitating to tell us the complete truth.
-   > **解析**：`get the feeling that...` 为固定短语，意为“产生某种感觉/直觉”，后接同位语从句说明内容。
+4. **中文**：没有你的慷慨帮助，我不可能完成这件事。  
+   **英文**：I couldn't have done it without your generous help.
+   > **解析**：couldn't have 表示过去不可能做到。
 
-5. **中文**：有时候，在糟糕的对话中最好的解决办法就是转身离开。  
-   **英文**：Sometimes the best solution in a toxic conversation is to just turn around and leave.
-   > **解析**：`leave` 不及物动词，意为“离开；走开”。
+5. **中文**：他知道规则，却完全无视了它们。  
+   **英文**：He was aware of the rules but ignored them completely.
+   > **解析**：aware 表示意识到、知晓的。
 
-6. **中文**：请注意你的语气，以免无意中得罪或冒犯任何人。  
-   **英文**：Please be careful with your tone so that you don't unintentionally offend anyone.
-   > **解析**：`offend` 及物动词，意为“冒犯；得罪”。衍生形容词 `offensive`（冒犯性的）。
+6. **中文**：请不要忽视我在这件事上的建议。  
+   **英文**：Please do not ignore my advice on this matter.
+   > **解析**：ignore 表示忽视、不理会。
 
-7. **中文**：我昨天在与朋友的讨论中本不该发脾气的。  
-   **英文**：I shouldn't have lost my temper during yesterday's discussion with my friend.
-   > **解析**：`shouldn't have + 过去分词` 为虚拟语气短语，表达对过去行为的后悔与自责（意为“本不应该做某事”）。
+7. **中文**：为了一场小游戏发脾气太幼稚了。  
+   **英文**：It was childish to lose your temper over a small game.
+   > **解析**：childish 表示幼稚的。
 
-8. **中文**：诚实对任何关系都至关重要，你绝不应该背叛你的伴侣。  
-   **英文**：Honesty is vital in any relationship, and you should never cheat on your partner.
-   > **解析**：`cheat on` 为固定动词短语，意为“对……不忠；在感情/考试中作弊欺骗某人”。
+8. **中文**：与伴侣沟通时不要发脾气。  
+   **英文**：Don't lose your temper when talking to your partner.
+   > **解析**：temper 表示脾气。
 
-9. **中文**：你本可以寻求我的帮助，而不是独自与这项任务挣扎。  
-   **英文**：You could have asked me for assistance instead of struggling with the task alone.
-   > **解析**：`could have + 过去分词` 表达对过去本具备能力或可能性但实际上未发生的某种行为的假设（意为“本可以……”）。
+9. **中文**：我母亲对你的健康感到非常担忧。  
+   **英文**：My mother is deeply concerned about your health.
+   > **解析**：concerned 表示关心的、担忧的。
 
-10. **中文**：她发表了一篇充满感情的演讲，让每个人都流下了喜悦的泪水。  
-   **英文**：She delivered an emotional speech that brought tears of joy to everyone's eyes.
-   > **解析**：`emotional` 形容词，意为“情绪化的；充满感情的”。修饰名词 `speech`。
+10. **中文**：如果你批评别人的外貌，你会冒犯到别人的。  
+   **英文**：You will offend people if you criticize their appearance.
+   > **解析**：offend 表示冒犯。
+
+11. **中文**：当着大家的面批评他是不公平的。  
+   **英文**：It is unfair to criticize him in front of everyone.
+   > **解析**：criticize 表示批评。
+
+12. **中文**：我有一种感觉，昨天出什么问题了。  
+   **英文**：I get the feeling that something went wrong yesterday.
+   > **解析**：get the feeling 表示有某种感觉/直觉。
+
+13. **中文**：我完全不知道该如何解决这个问题。  
+   **英文**：I have no clue how to solve this problem.
+   > **解析**：have no clue 表示毫无头绪。
+
+14. **中文**：我们不要为了这场彻头彻尾的灾难互相指责了。  
+   **英文**：Let's not blame each other for this total disaster.
+   > **解析**：Let's not... 表示“我们不要……”。
+
+15. **中文**：叫他骗子只会让事情变得更糟。  
+   **英文**：Calling him a liar will only make matters worse.
+   > **解析**：liar 表示骗子。
+
+16. **中文**：如果你想赢得尊重，就绝不要在考试中作弊。  
+   **英文**：Never cheat on an exam if you want respect.
+   > **解析**：cheat on 表示作弊。
+
+17. **中文**：整个团队努力工作以纠正这个错误。  
+   **英文**：The entire team worked hard to fix the mistake.
+   > **解析**：entire 表示整个的、完全的。
+
+18. **中文**：在正式讨论中尽量不要感情用事。  
+   **英文**：Try not to get emotional during the formal discussion.
+   > **解析**：emotional 表示情绪化的。
+
+19. **中文**：我们应该尽快化解这场误会。  
+   **英文**：We should clear up this misunderstanding as soon as possible.
+   > **解析**：misunderstanding 表示误解、误会。
+
+20. **中文**：对我们来说，那结果是一场彻底的失败。  
+   **英文**：That turned out to be a total failure for us.
+   > **解析**：total 表示彻底的、完全的。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. You should be fully aware of the consequences before making such a major life decision.
-   > **中文**：在做出如此重大的生活决定之前，你应该充分意识到后果。
+1. You should have told me about the schedule change earlier.
+   > **中文**：你本来应该早点告诉我日程变更的。
 
-2. If you need advice on your project, you could discuss it with your career counselor.
-   > **中文**：如果你对项目需要建议，你可以和你的职业咨询师讨论一下。
+2. She shouldn't have left her keys on the dining table.
+   > **中文**：她本来不应该把钥匙留在餐桌上的。
 
-3. It is not helpful to criticize someone without offering constructive solutions.
-   > **中文**：批评某人而不提供建设性的解决方案是没有帮助的。
+3. We could have avoided this terrible misunderstanding.
+   > **中文**：我们本可以避免这场糟糕的误会。
 
-4. I get the feeling that he is hesitating to tell us the complete truth.
-   > **中文**：我感觉他似乎在犹豫是否要告诉我们事实的全貌。
+4. I couldn't have done it without your generous help.
+   > **中文**：没有你的慷慨帮助，我不可能完成这件事。
 
-5. Sometimes the best solution in a toxic conversation is to just turn around and leave.
-   > **中文**：有时候，在糟糕的对话中最好的解决办法就是转身离开。
+5. He was aware of the rules but ignored them completely.
+   > **中文**：他知道规则，却完全无视了它们。
 
-6. Please be careful with your tone so that you don't unintentionally offend anyone.
-   > **中文**：请注意你的语气，以免无意中得罪或冒犯任何人。
+6. Please do not ignore my advice on this matter.
+   > **中文**：请不要忽视我在这件事上的建议。
 
-7. I shouldn't have lost my temper during yesterday's discussion with my friend.
-   > **中文**：我昨天在与朋友的讨论中本不该发脾气的。
+7. It was childish to lose your temper over a small game.
+   > **中文**：为了一场小游戏发脾气太幼稚了。
 
-8. Honesty is vital in any relationship, and you should never cheat on your partner.
-   > **中文**：诚实对任何关系都至关重要，你绝不应该背叛你的伴侣。
+8. Don't lose your temper when talking to your partner.
+   > **中文**：与伴侣沟通时不要发脾气。
 
-9. You could have asked me for assistance instead of struggling with the task alone.
-   > **中文**：你本可以寻求我的帮助，而不是独自与这项任务挣扎。
+9. My mother is deeply concerned about your health.
+   > **中文**：我母亲对你的健康感到非常担忧。
 
-10. She delivered an emotional speech that brought tears of joy to everyone's eyes.
-   > **中文**：她发表了一篇充满感情的演讲，让每个人都流下了喜悦的泪水。
+10. You will offend people if you criticize their appearance.
+   > **中文**：如果你批评别人的外貌，你会冒犯到别人的。
+
+11. It is unfair to criticize him in front of everyone.
+   > **中文**：当着大家的面批评他是不公平的。
+
+12. I get the feeling that something went wrong yesterday.
+   > **中文**：我有一种感觉，昨天出什么问题了。
+
+13. I have no clue how to solve this problem.
+   > **中文**：我完全不知道该如何解决这个问题。
+
+14. Let's not blame each other for this total disaster.
+   > **中文**：我们不要为了这场彻头彻尾的灾难互相指责了。
+
+15. Calling him a liar will only make matters worse.
+   > **中文**：叫他骗子只会让事情变得更糟。
+
+16. Never cheat on an exam if you want respect.
+   > **中文**：如果你想赢得尊重，就绝不要在考试中作弊。
+
+17. The entire team worked hard to fix the mistake.
+   > **中文**：整个团队努力工作以纠正这个错误。
+
+18. Try not to get emotional during the formal discussion.
+   > **中文**：在正式讨论中尽量不要感情用事。
+
+19. We should clear up this misunderstanding as soon as possible.
+   > **中文**：我们应该尽快化解这场误会。
+
+20. That turned out to be a total failure for us.
+   > **中文**：对我们来说，那结果是一场彻底的失败。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| :--- | :--- |
+| `aware` | 意识到的 |
+| `cheat on` | 对……作弊 |
+| `childish` | 幼稚的 |
+| `concerned` | 担忧的；关切的 |
+| `could have` | 本可以 |
+| `couldn't have` | 不可能 |
+| `criticize` | 批评 |
+| `emotional` | 情绪化的 |
+| `entire` | 整个的 |
+| `get the feeling` | 产生某种感觉 |
+| `have no clue` | 毫无头绪 |
+| `ignore` | 忽视 |
+| `let's not` | 我们不要 |
+| `liar` | 骗子 |
+| `misunderstanding` | 误会 |
+| `offend` | 冒犯 |
+| `should have` | 本应该 |
+| `shouldn't have` | 本不应该 |
+| `temper` | 脾气 |
+| `total` | 彻底的；总共的 |
 
 </quiz-matching>
 
@@ -147,102 +240,202 @@ aware, cheat on, childish, concerned, could, could have, could've, couldn't have
 
 ### 1
 
-You should be fully `____` of the consequences before making such a major life decision.
+You ____ have told me about the schedule change earlier.
 
-- [x] aware
+- [x] should
+- [ ] aware
 - [ ] cheat on
-- [ ] could have
 
-> **解析**：`aware` 形容词，意为“意识到的；知道的”。固定搭配 `be aware of sth.`（意识到某事）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-If you need advice on your project, you `____` discuss it with your career counselor.
+She ____ have left her keys on the dining table.
 
-- [x] could
+- [x] shouldn't
+- [ ] aware
 - [ ] cheat on
-- [ ] could've
 
-> **解析**：`could` 情态动词，在此处表示提出温和或委婉的建议。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-It is not helpful to `____` someone without offering constructive solutions.
+We ____ have avoided this terrible misunderstanding.
 
-- [x] criticize
-- [ ] childish
-- [ ] could've
+- [x] could
+- [ ] aware
+- [ ] cheat on
 
-> **解析**：`criticize` 及物动词，意为“批评；指责”。常用结构 `criticize sb. for sth.`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-I `____` that he is hesitating to tell us the complete truth.
+I ____ have done it without your generous help.
 
-- [x] get the feeling
-- [ ] concerned
-- [ ] couldn't have
+- [x] couldn't
+- [ ] aware
+- [ ] cheat on
 
-> **解析**：`get the feeling that...` 为固定短语，意为“产生某种感觉/直觉”，后接同位语从句说明内容。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Sometimes the best solution in a toxic conversation is to just turn around and `____`.
+He was ____ of the rules but ignored them completely.
 
-- [x] leave
-- [ ] could
-- [ ] criticize
+- [x] aware
+- [ ] cheat on
+- [ ] childish
 
-> **解析**：`leave` 不及物动词，意为“离开；走开”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-Please be careful with your tone so that you don't unintentionally `____` anyone.
+Please do not ____ my advice on this matter.
 
-- [x] offend
-- [ ] could have
-- [ ] emotional
+- [x] ignore
+- [ ] aware
+- [ ] cheat on
 
-> **解析**：`offend` 及物动词，意为“冒犯；得罪”。衍生形容词 `offensive`（冒犯性的）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-I `____`n't have lost my temper during yesterday's discussion with my friend.
+It was ____ to lose your temper over a small game.
 
-- [x] should
-- [ ] could've
-- [ ] entire
+- [x] childish
+- [ ] aware
+- [ ] cheat on
 
-> **解析**：`shouldn't have + 过去分词` 为虚拟语气短语，表达对过去行为的后悔与自责（意为“本不应该做某事”）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Honesty is vital in any relationship, and you should never `____` your partner.
+Don't lose your ____ when talking to your partner.
 
-- [x] cheat on
-- [ ] criticize
-- [ ] have no clue
+- [x] temper
+- [ ] aware
+- [ ] cheat on
 
-> **解析**：`cheat on` 为固定动词短语，意为“对……不忠；在感情/考试中作弊欺骗某人”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-You `____` asked me for assistance instead of struggling with the task alone.
+My mother is deeply ____ about your health.
 
-- [x] could have
-- [ ] emotional
-- [ ] ignore
+- [x] concerned
+- [ ] aware
+- [ ] cheat on
 
-> **解析**：`could have + 过去分词` 表达对过去本具备能力或可能性但实际上未发生的某种行为的假设（意为“本可以……”）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-She delivered an `____` speech that brought tears of joy to everyone's eyes.
+You will ____ people if you criticize their appearance.
+
+- [x] offend
+- [ ] aware
+- [ ] cheat on
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+It is unfair to ____ him in front of everyone.
+
+- [x] criticize
+- [ ] aware
+- [ ] cheat on
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+I get the feeling that ____ went wrong yesterday.
+
+- [x] something
+- [ ] aware
+- [ ] cheat on
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+I have no clue how to solve this ____.
+
+- [x] problem
+- [ ] aware
+- [ ] cheat on
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+Let's not blame each other for this ____ disaster.
+
+- [x] total
+- [ ] aware
+- [ ] cheat on
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+Calling him a ____ will only make matters worse.
+
+- [x] liar
+- [ ] aware
+- [ ] cheat on
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+Never cheat on an exam if you want ____.
+
+- [x] respect
+- [ ] aware
+- [ ] cheat on
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+The ____ team worked hard to fix the mistake.
+
+- [x] entire
+- [ ] aware
+- [ ] cheat on
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+Try not to get ____ during the formal discussion.
 
 - [x] emotional
-- [ ] entire
-- [ ] keep
+- [ ] aware
+- [ ] cheat on
 
-> **解析**：`emotional` 形容词，意为“情绪化的；充满感情的”。修饰名词 `speech`。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+We ____ clear up this misunderstanding as soon as possible.
+
+- [x] should
+- [ ] aware
+- [ ] cheat on
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+That turned out to be a ____ failure for us.
+
+- [x] total
+- [ ] aware
+- [ ] cheat on
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>

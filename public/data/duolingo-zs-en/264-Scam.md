@@ -79,83 +79,176 @@ should have（本该）表达后悔和责备。fall for（上当）、speak up�
 
 <quiz-sentence-builder>
 
-1. **中文**：要小心提议快速发财的可疑邮件，因为它们通常是诈骗。  
-   **英文**：Be careful with suspicious emails offering quick money, as they are usually a scam.
-   > **解析**：`scam` 是名词，意为“骗局、诈骗”，在句中作表语。
+1. **中文**：这个所谓的投资项目完全是一个虚假的骗局。  
+   **英文**：This so-called investment scheme turned out to be a fake scam.
+   > **解析**：so-called 表示所谓的；fake 表示假的；scam 表示骗局。
 
-2. **中文**：不要轻信承诺离谱高回报的在线投资陷阱。  
-   **英文**：Do not fall for online investment tricks that promise absurdly high returns.
-   > **解析**：`fall for sth` 是短语动词，意为“上……的当、轻信……”。
+2. **中文**：你本该在轻信并上当之前勇敢说出来的。  
+   **英文**：You should have spoken up before you fell for the misleading offer.
+   > **解析**：should have 表示本该；speak up 表示发声；fall for 表示上当；misleading 表示误导的。
 
-3. **中文**：该促销信息包含关于费用的误导性信息。  
-   **英文**：The promotional message contained misleading information about the fees.
-   > **解析**：`misleading` 是形容词，意为“误导性的、引入歧途的”，修饰 `information`。
+3. **中文**：那个不诚实的罪犯从容易上当受骗的人身上骗走了相当大的一笔钱。  
+   **英文**：The dishonest criminal made a considerable sum from gullible people.
+   > **解析**：dishonest 表示不诚实的；criminal 表示罪犯；considerable 表示相当大的；gullible 表示轻信的。
 
-4. **中文**：诈骗犯经常创建模仿合法银行门户网站的假冒网站。  
-   **英文**：Scammers often create fake websites that copy legitimate banking portals.
-   > **解析**：`fake` 是形容词，意为“假冒的、伪造的”，修饰 `websites`。
+4. **中文**：当我发现自己所有的积蓄都被骗光时，我整个人陷入了震惊。  
+   **英文**：I was in shock when I realized all my savings were gone in the scam.
+   > **解析**：in shock 表示震惊；scam 表示骗局。
 
-5. **中文**：老年人常被诈骗分子针对，因为他们可能容易受骗。  
-   **英文**：Elderly people are often targeted by scammers because they can be gullible.
-   > **解析**：`gullible` 是形容词，意为“轻信的、易受骗的”，在系动词后作表语。
+5. **中文**：听到那个不负责任的客户服务人员提供无用帮助时，她感到极其愤怒。  
+   **英文**：She was furious when the unhelpful representative gave a pathetic excuse.
+   > **解析**：furious 表示暴怒的；unhelpful 表示无帮助的；pathetic 表示可悲的。
 
-6. **中文**：你在转账前本应该核实发件人的电子邮件地址的。  
-   **英文**：You should have verified the sender's email address before transferring money.
-   > **解析**：`should have + 过去分词` 表示对过去事情的指责或遗憾（本应该做）。
+6. **中文**：绝望的受害者吞下了这颗痛苦的教训苦果。  
+   **英文**：The desperate victim had to learn a bitter lesson from the fraud.
+   > **解析**：desperate 表示绝望的；bitter 表示苦涩的/痛苦的。
 
-7. **中文**：安全专家发布了关于新型网络钓鱼诈骗的紧急警告。  
-   **英文**：Security experts issued an urgent warning about the new phishing scam.
-   > **解析**：`warning` 是名词，意为“警告、警示”，搭配 `issue a warning`。
+7. **中文**：警方发布了官方警告，并决定禁止这些发送垃圾邮件的网站。  
+   **英文**：Police issued a warning and decided to ban websites sending spam.
+   > **解析**：warning 表示警告；ban 表示禁止；spam 表示垃圾邮件。
 
-8. **中文**：应对不诚实的来电者需要保持警惕与谨慎。  
-   **英文**：Dealing with dishonest callers requires staying vigilant and cautious.
-   > **解析**：`dishonest` 是形容词，意为“不诚实的、不正直的”。
+8. **中文**：要处理这种烦人的电话诈骗事件真的是极大的麻烦。  
+   **英文**：Dealing with fraudulent spam calls is such a terrible hassle.
+   > **解析**：spam 表示垃圾信息；hassle 表示麻烦。
 
-9. **中文**：受害者在意识到自己失去了所有积蓄后陷入了震惊。  
-   **英文**：The victim was in shock after realizing she had lost all her savings.
-   > **解析**：`be in shock` 意为“处于震惊状态中”。
+9. **中文**：我希望自己当时没有轻易相信那个所谓的专家。  
+   **英文**：I wish I hadn't believed that so-called expert in the first place.
+   > **解析**：wish 表示希望/遗憾；so-called 表示所谓的。
 
-10. **中文**：如果你注意到可疑活动，你应该大胆说出来并通知警方。  
-   **英文**：If you notice suspicious activity, you should speak up and inform the police.
-   > **解析**：`speak up` 是短语动词，意为“大胆说出、发言”。
+10. **中文**：不要轻易落入虚假广告和误导性宣传的陷阱中。  
+   **英文**：Don't fall for fake advertisements and misleading claims on the internet.
+   > **解析**：fall for 表示上当；fake 表示假的；misleading 表示误导的。
+
+11. **中文**：如果你在网上看到可疑的犯罪活动，请及时大胆发声揭发。  
+   **英文**：If you see suspicious criminal behavior, please speak up right away.
+   > **解析**：criminal 表示犯罪的/罪犯；speak up 表示大胆发声。
+
+12. **中文**：那个不诚实的商人给出了一个极其可悲的借口。  
+   **英文**：The dishonest seller gave a pathetic excuse for the fake product.
+   > **解析**：dishonest 表示不诚实的；pathetic 表示可悲的；fake 表示假的。
+
+13. **中文**：这个垃圾信息拦截系统帮我们省去了许多不必要的麻烦。  
+   **英文**：This spam filter saved us from a considerable amount of hassle.
+   > **解析**：spam 表示垃圾信息；considerable 表示相当大的；hassle 表示麻烦。
+
+14. **中文**：政府决定禁止该平台发布具有误导性的假新闻。  
+   **英文**：The government put a ban on releasing misleading fake news.
+   > **解析**：ban 表示禁令/禁止；misleading 表示误导的；fake 表示假的。
+
+15. **中文**：看到那个罪犯大肆骗取绝望人们的金钱，真令人吃惊。  
+   **英文**：It was shocking to see the criminal scam money from desperate victims.
+   > **解析**：criminal 表示罪犯；scam 表示诈骗；desperate 表示绝望的。
+
+16. **中文**：那个轻信他人的老人在遭遇电话诈骗后感到无比痛苦与愤恨。  
+   **英文**：The gullible senior was left feeling bitter after the phone scam.
+   > **解析**：gullible 表示轻信的；bitter 表示痛苦愤恨的；scam 表示骗局。
+
+17. **中文**：这种看似热情的询问背后往往隐藏着不诚实的动机。  
+   **英文**：This kind of asking often hides dishonest intentions behind it.
+   > **解析**：dishonest 表示不诚实的。
+
+18. **中文**：他为自己没有足够谨慎地防范骗局而感到万分暴怒。  
+   **英文**：He was furious with himself for not being careful enough about scams.
+   > **解析**：furious 表示暴怒的；enough 表示足够地；scam 表示骗局。
+
+19. **中文**：我真的希望所有的垃圾邮件和网络诈骗都能彻底消失。  
+   **英文**：I wish all spam emails and fake scams would disappear forever.
+   > **解析**：wish 表示希望；spam 表示垃圾邮件；fake 表示假的。
+
+20. **中文**：这一严厉的警告提醒大家切勿上当受骗。  
+   **英文**：This strong warning serves to prevent people from falling for scams.
+   > **解析**：warning 表示警告；fall for 表示上当；scam 表示骗局。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Be careful with suspicious emails offering quick money, as they are usually a scam.
-   > **中文**：要小心提议快速发财的可疑邮件，因为它们通常是诈骗。
+1. This so-called investment scheme turned out to be a fake scam.
+   > **中文**：这个所谓的投资项目完全是一个虚假的骗局。
 
-2. Do not fall for online investment tricks that promise absurdly high returns.
-   > **中文**：不要轻信承诺离谱高回报的在线投资陷阱。
+2. You should have spoken up before you fell for the misleading offer.
+   > **中文**：你本该在轻信并上当之前勇敢说出来的。
 
-3. The promotional message contained misleading information about the fees.
-   > **中文**：该促销信息包含关于费用的误导性信息。
+3. The dishonest criminal made a considerable sum from gullible people.
+   > **中文**：那个不诚实的罪犯从容易上当受骗的人身上骗走了相当大的一笔钱。
 
-4. Scammers often create fake websites that copy legitimate banking portals.
-   > **中文**：诈骗犯经常创建模仿合法银行门户网站的假冒网站。
+4. I was in shock when I realized all my savings were gone in the scam.
+   > **中文**：当我发现自己所有的积蓄都被骗光时，我整个人陷入了震惊。
 
-5. Elderly people are often targeted by scammers because they can be gullible.
-   > **中文**：老年人常被诈骗分子针对，因为他们可能容易受骗。
+5. She was furious when the unhelpful representative gave a pathetic excuse.
+   > **中文**：听到那个不负责任的客户服务人员提供无用帮助时，她感到极其愤怒。
 
-6. You should have verified the sender's email address before transferring money.
-   > **中文**：你在转账前本应该核实发件人的电子邮件地址的。
+6. The desperate victim had to learn a bitter lesson from the fraud.
+   > **中文**：绝望的受害者吞下了这颗痛苦的教训苦果。
 
-7. Security experts issued an urgent warning about the new phishing scam.
-   > **中文**：安全专家发布了关于新型网络钓鱼诈骗的紧急警告。
+7. Police issued a warning and decided to ban websites sending spam.
+   > **中文**：警方发布了官方警告，并决定禁止这些发送垃圾邮件的网站。
 
-8. Dealing with dishonest callers requires staying vigilant and cautious.
-   > **中文**：应对不诚实的来电者需要保持警惕与谨慎。
+8. Dealing with fraudulent spam calls is such a terrible hassle.
+   > **中文**：要处理这种烦人的电话诈骗事件真的是极大的麻烦。
 
-9. The victim was in shock after realizing she had lost all her savings.
-   > **中文**：受害者在意识到自己失去了所有积蓄后陷入了震惊。
+9. I wish I hadn't believed that so-called expert in the first place.
+   > **中文**：我希望自己当时没有轻易相信那个所谓的专家。
 
-10. If you notice suspicious activity, you should speak up and inform the police.
-   > **中文**：如果你注意到可疑活动，你应该大胆说出来并通知警方。
+10. Don't fall for fake advertisements and misleading claims on the internet.
+   > **中文**：不要轻易落入虚假广告和误导性宣传的陷阱中。
+
+11. If you see suspicious criminal behavior, please speak up right away.
+   > **中文**：如果你在网上看到可疑的犯罪活动，请及时大胆发声揭发。
+
+12. The dishonest seller gave a pathetic excuse for the fake product.
+   > **中文**：那个不诚实的商人给出了一个极其可悲的借口。
+
+13. This spam filter saved us from a considerable amount of hassle.
+   > **中文**：这个垃圾信息拦截系统帮我们省去了许多不必要的麻烦。
+
+14. The government put a ban on releasing misleading fake news.
+   > **中文**：政府决定禁止该平台发布具有误导性的假新闻。
+
+15. It was shocking to see the criminal scam money from desperate victims.
+   > **中文**：看到那个罪犯大肆骗取绝望人们的金钱，真令人吃惊。
+
+16. The gullible senior was left feeling bitter after the phone scam.
+   > **中文**：那个轻信他人的老人在遭遇电话诈骗后感到无比痛苦与愤恨。
+
+17. This kind of asking often hides dishonest intentions behind it.
+   > **中文**：这种看似热情的询问背后往往隐藏着不诚实的动机。
+
+18. He was furious with himself for not being careful enough about scams.
+   > **中文**：他为自己没有足够谨慎地防范骗局而感到万分暴怒。
+
+19. I wish all spam emails and fake scams would disappear forever.
+   > **中文**：我真的希望所有的垃圾邮件和网络诈骗都能彻底消失。
+
+20. This strong warning serves to prevent people from falling for scams.
+   > **中文**：这一严厉的警告提醒大家切勿上当受骗。
 
 </quiz-listening>
 
 <quiz-matching>
+
+| 英文单词 | 课文释义 |
+| --- | --- |
+| scam | 骗局 |
+| fall for | 上当 |
+| fake | 假的 |
+| misleading | 误导的 |
+| so-called | 所谓的 |
+| gullible | 轻信的 |
+| furious | 暴怒的 |
+| in shock | 震惊 |
+| desperate | 绝望的 |
+| dishonest | 不诚实的 |
+| criminal | 罪犯 |
+| pathetic | 可悲的 |
+| bitter | 痛苦的；愤恨的 |
+| considerable | 相当大的 |
+| spam | 垃圾信息 |
+| ban | 禁止 |
+| speak up | 大胆发声 |
+| hassle | 麻烦 |
+| warning | 警告 |
+| should have | 本该 |
 
 </quiz-matching>
 
@@ -163,102 +256,202 @@ should have（本该）表达后悔和责备。fall for（上当）、speak up�
 
 ### 1
 
-Be careful with suspicious emails offering quick money, as they are usually a `____`.
+____ so-called investment scheme turned out to be a fake scam.
 
-- [x] scam
+- [x] This
 - [ ] asking
-- [ ] criminal
+- [ ] ban
 
-> **解析**：`scam` 是名词，意为“骗局、诈骗”，在句中作表语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 2
 
-Do not `____` online investment tricks that promise absurdly high returns.
+You should have spoken up before you fell for the ____ offer.
 
-- [x] fall for
+- [x] misleading
+- [ ] asking
 - [ ] ban
-- [ ] desperate
 
-> **解析**：`fall for sth` 是短语动词，意为“上……的当、轻信……”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 3
 
-The promotional message contained `____` information about the fees.
+The ____ criminal made a considerable sum from gullible people.
 
-- [x] misleading
-- [ ] bitter
-- [ ] dishonest
+- [x] dishonest
+- [ ] asking
+- [ ] ban
 
-> **解析**：`misleading` 是形容词，意为“误导性的、引入歧途的”，修饰 `information`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 4
 
-Scammers often create fake websites that copy legitimate `____`king portals.
+I was in shock when I realized all my savings were gone in the ____.
 
-- [x] ban
-- [ ] criminal
-- [ ] fake
+- [x] scam
+- [ ] asking
+- [ ] ban
 
-> **解析**：`fake` 是形容词，意为“假冒的、伪造的”，修饰 `websites`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 5
 
-Elderly people are often targeted by scammers because they can be `____`.
+She was ____ when the unhelpful representative gave a pathetic excuse.
 
-- [x] gullible
-- [ ] criminal
-- [ ] fake
+- [x] furious
+- [ ] asking
+- [ ] ban
 
-> **解析**：`gullible` 是形容词，意为“轻信的、易受骗的”，在系动词后作表语。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 6
 
-You `____` verified the sender's email address before transferring money.
+The ____ victim had to learn a bitter lesson from the fraud.
 
-- [x] should have
-- [ ] desperate
-- [ ] fall for
+- [x] desperate
+- [ ] asking
+- [ ] ban
 
-> **解析**：`should have + 过去分词` 表示对过去事情的指责或遗憾（本应该做）。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 7
 
-Security experts issued an urgent `____` about the new phishing scam.
+Police issued a ____ and decided to ban websites sending spam.
 
 - [x] warning
-- [ ] dishonest
-- [ ] furious
+- [ ] asking
+- [ ] ban
 
-> **解析**：`warning` 是名词，意为“警告、警示”，搭配 `issue a warning`。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 8
 
-Dealing with `____` callers requires staying vigilant and cautious.
+Dealing with fraudulent ____ calls is such a terrible hassle.
 
-- [x] dishonest
-- [ ] fake
-- [ ] hassle
+- [x] spam
+- [ ] asking
+- [ ] ban
 
-> **解析**：`dishonest` 是形容词，意为“不诚实的、不正直的”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 9
 
-The victim was `____` after realizing she had lost all her savings.
+I ____ I hadn't believed that so-called expert in the first place.
 
-- [x] in shock
-- [ ] fake
-- [ ] hassle
+- [x] wish
+- [ ] asking
+- [ ] ban
 
-> **解析**：`be in shock` 意为“处于震惊状态中”。
+> **解析**：根据句意选择正确的词汇补全句子。
 
 ### 10
 
-If you notice suspicious activity, you should `____` and inform the police.
+Don't fall for ____ advertisements and misleading claims on the internet.
 
-- [x] speak up
-- [ ] fall for
-- [ ] in shock
+- [x] fake
+- [ ] asking
+- [ ] ban
 
-> **解析**：`speak up` 是短语动词，意为“大胆说出、发言”。
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 11
+
+If you see suspicious ____ behavior, please speak up right away.
+
+- [x] criminal
+- [ ] asking
+- [ ] ban
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 12
+
+The ____ seller gave a pathetic excuse for the fake product.
+
+- [x] dishonest
+- [ ] asking
+- [ ] ban
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 13
+
+____ spam filter saved us from a considerable amount of hassle.
+
+- [x] This
+- [ ] asking
+- [ ] ban
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 14
+
+The government put a ____ on releasing misleading fake news.
+
+- [x] ban
+- [ ] asking
+- [ ] bitter
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 15
+
+It was shocking to see the ____ scam money from desperate victims.
+
+- [x] criminal
+- [ ] asking
+- [ ] ban
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 16
+
+The ____ senior was left feeling bitter after the phone scam.
+
+- [x] gullible
+- [ ] asking
+- [ ] ban
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 17
+
+____ kind of asking often hides dishonest intentions behind it.
+
+- [x] This
+- [ ] asking
+- [ ] ban
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 18
+
+He was ____ with himself for not being careful enough about scams.
+
+- [x] furious
+- [ ] asking
+- [ ] ban
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 19
+
+I ____ all spam emails and fake scams would disappear forever.
+
+- [x] wish
+- [ ] asking
+- [ ] ban
+
+> **解析**：根据句意选择正确的词汇补全句子。
+
+### 20
+
+____ strong warning serves to prevent people from falling for scams.
+
+- [x] This
+- [ ] asking
+- [ ] ban
+
+> **解析**：根据句意选择正确的词汇补全句子。
 
 </quiz-cloze>
