@@ -377,30 +377,38 @@ function getTypeLabel(type: string): string {
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
+  background: #f0f7ff;
+  border: 1px solid #bae6fd;
+  color: #0284c7;
   padding: 0.25rem 0.55rem;
   border-radius: 6px;
   font-size: 0.82rem;
   cursor: pointer;
   transition: all 0.15s;
-  border: 1px solid transparent;
+}
+
+.variant-chip:hover {
+  background: #e0f2fe;
+  border-color: #0284c7;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
 .variant-chip.irregular {
-  background: #fef3c7;
-  border-color: #fde68a;
-  color: #92400e;
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .variant-chip.s, .variant-chip.ed, .variant-chip.ing, .variant-chip.ies {
-  background: #f1f5f9;
+  font-weight: 500;
+  background: #f8fafc;
   border-color: #e2e8f0;
   color: #475569;
 }
 
-.variant-chip:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+.variant-chip.s:hover, .variant-chip.ed:hover, .variant-chip.ing:hover, .variant-chip.ies:hover {
+  background: #f0f7ff;
+  border-color: #bae6fd;
+  color: #0284c7;
 }
 
 .v-word {
