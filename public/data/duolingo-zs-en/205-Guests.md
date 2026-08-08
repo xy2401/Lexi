@@ -50,7 +50,7 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
 <quiz-sentence-builder>
 
 1. **中文**：博物馆展览展出了一首由著名作者手写的诗歌。  
-   **英文**：The museum exhibition featured a handwritten poem by a famous author (be friends with).
+   **英文**：The museum exhibition featured a handwritten poem by a famous author.
    > **解析**：poem 可数名词，意为“诗；诗歌”。
 
 2. **中文**：博物馆导游朗诵了一位著名国家诗人创作的诗句。  
@@ -62,7 +62,7 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
    > **解析**：intermission 可数名词，意为“中场休息；幕间休息”。
 
 4. **中文**：休息室里供应茶水和饼干等简便茶点。  
-   **英文**：Light refreshments such as tea and biscuits were served in the lounge (going to).
+   **英文**：Light refreshments such as tea and biscuits were served in the lounge.
    > **解析**：refreshments 常用复数名词，意为“茶点；点心饮料”。
 
 5. **中文**：这幅油画描绘了春天宁静的乡村景象。  
@@ -70,15 +70,15 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
    > **解析**：scene 可数名词，在此意为“景象；风景；场景”。
 
 6. **中文**：古文本旁边紧挨着展示着一份英文翻译。  
-   **英文**：An English translation was displayed right next to the ancient text (it's good to).
+   **英文**：An English translation was displayed right next to the ancient text.
    > **解析**：translation 可数/不可数名词，意为“翻译；译本”，动词为 translate。
 
 7. **中文**：参观者不应当触摸展出的历史文物。  
-   **英文**：Visitors are not supposed to touch the historical artifacts on display (oh my gosh).
+   **英文**：Visitors are not supposed to touch the historical artifacts on display.
    > **解析**：be supposed to 常用短语，在此否定形式 be not supposed to 表示“不应当；被禁止”。
 
 8. **中文**：玻璃罩旨在覆盖并保护这件珍贵的文物。  
-   **英文**：The glass case was designed to cover and protect the rare artifact (on the).
+   **英文**：The glass case was designed to cover and protect the rare artifact.
    > **解析**：cover 及物动词，在此意为“覆盖；遮盖”。
 
 9. **中文**：礼品店出售这尊著名古代雕塑的精美复制品。  
@@ -93,7 +93,7 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
 
 <quiz-listening>
 
-1. The museum exhibition featured a handwritten poem by a famous author (be friends with).
+1. The museum exhibition featured a handwritten poem by a famous author.
    > **中文**：博物馆展览展出了一首由著名作者手写的诗歌。
 
 2. The museum guide recited lines composed by a celebrated national poet.
@@ -102,19 +102,19 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
 3. During the intermission of the play, museum guests walked around the gallery.
    > **中文**：在戏剧的中场休息期间，博物馆嘉宾在画廊里散步。
 
-4. Light refreshments such as tea and biscuits were served in the lounge (going to).
+4. Light refreshments such as tea and biscuits were served in the lounge.
    > **中文**：休息室里供应茶水和饼干等简便茶点。
 
 5. This oil painting depicts a peaceful countryside scene in spring.
    > **中文**：这幅油画描绘了春天宁静的乡村景象。
 
-6. An English translation was displayed right next to the ancient text (it's good to).
+6. An English translation was displayed right next to the ancient text.
    > **中文**：古文本旁边紧挨着展示着一份英文翻译。
 
-7. Visitors are not supposed to touch the historical artifacts on display (oh my gosh).
+7. Visitors are not supposed to touch the historical artifacts on display.
    > **中文**：参观者不应当触摸展出的历史文物。
 
-8. The glass case was designed to cover and protect the rare artifact (on the).
+8. The glass case was designed to cover and protect the rare artifact.
    > **中文**：玻璃罩旨在覆盖并保护这件珍贵的文物。
 
 9. The gift shop sells an exact replica copy of the famous ancient sculpture.
@@ -133,11 +133,11 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
 
 ### 1
 
-The museum exhibition featured a handwritten poem by a famous author (`____`).
+The museum exhibition featured a handwritten `____` by a famous author.
 
-- [x] be friends with
-- [ ] copy
-- [ ] it's good to
+- [x] poem
+- [ ] be friends with
+- [ ] intermission
 
 > **解析**：poem 可数名词，意为“诗；诗歌”。
 
@@ -163,11 +163,11 @@ During the `____` of the play, museum guests walked around the gallery.
 
 ### 4
 
-Light refreshments such as tea and biscuits were served in the lounge (`____`).
+Light `____` such as tea and biscuits were served in the lounge.
 
-- [x] going to
-- [ ] intermission
-- [ ] poem
+- [x] refreshments
+- [ ] going to
+- [ ] on the
 
 > **解析**：refreshments 常用复数名词，意为“茶点；点心饮料”。
 
@@ -183,27 +183,27 @@ This oil painting depicts a peaceful countryside `____` in spring.
 
 ### 6
 
-An English translation was displayed right next to the ancient text (`____`).
+An English `____` was displayed right next to the ancient text.
 
-- [x] it's good to
-- [ ] oh my gosh
-- [ ] refreshments
+- [x] translation
+- [ ] it's good to
+- [ ] poet
 
 > **解析**：translation 可数/不可数名词，意为“翻译；译本”，动词为 translate。
 
 ### 7
 
-Visitors are not supposed to touch the historical artifacts on display (`____`).
+Visitors are not `____` touch the historical artifacts on display.
 
-- [x] oh my gosh
-- [ ] on the
-- [ ] scene
+- [x] supposed to
+- [ ] oh my gosh
+- [ ] refreshments
 
 > **解析**：be supposed to 常用短语，在此否定形式 be not supposed to 表示“不应当；被禁止”。
 
 ### 8
 
-The glass case was designed to `____` and protect the rare artifact (on the).
+The glass case was designed to `____` and protect the rare artifact.
 
 - [x] cover
 - [ ] poem

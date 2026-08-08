@@ -70,7 +70,7 @@ afford = 负担得起。lent 是 lend 的过去式。
    > **解析**：business 在此处作定语，修饰 account（business account 商业账户/企业账户）。
 
 3. **中文**：我们需要去当地分行把这张支票存入我的账户。  
-   **英文**：I need to visit the local branch to deposit this check into my account (bank teller).
+   **英文**：I need to visit the local branch to deposit this check into my account.
    > **解析**：deposit 为动词，意为“存入（资金）”。常用搭配 deposit money/check into an account。
 
 4. **中文**：你可以使用银行的移动应用程序进行即时转账。  
@@ -82,7 +82,7 @@ afford = 负担得起。lent 是 lend 的过去式。
    > **解析**：password 为可数名词，意为“密码”。在银行安全语境中，指登录或验证身份的口令。
 
 6. **中文**：他查看了银行账单，注意到自己在外出就餐上花得太多了。  
-   **英文**：He checked his bank statement and noticed he had spent too much on dining out (checking account).
+   **英文**：He checked his bank statement and noticed he had spent too much on dining out.
    > **解析**：spent 是动词 spend 的过去式/过去分词，常用搭配 spend money on sth.（在某物上花钱）。
 
 7. **中文**：银行发送了一条短信通知，以确认在线交易成功。  
@@ -111,7 +111,7 @@ afford = 负担得起。lent 是 lend 的过去式。
 2. She opened a new business account to manage her company's daily finances.
    > **中文**：她开设了一个新的商业账户来管理公司的日常财务。
 
-3. I need to visit the local branch to deposit this check into my account (bank teller).
+3. I need to visit the local branch to deposit this check into my account.
    > **中文**：我们需要去当地分行把这张支票存入我的账户。
 
 4. You can transfer money instantly using the bank's mobile application.
@@ -120,7 +120,7 @@ afford = 负担得起。lent 是 lend 的过去式。
 5. Never share your mobile banking password with anyone to protect your funds.
    > **中文**：切勿将您的手机银行密码透漏给任何人，以保护您的资金。
 
-6. He checked his bank statement and noticed he had spent too much on dining out (checking account).
+6. He checked his bank statement and noticed he had spent too much on dining out.
    > **中文**：他查看了银行账单，注意到自己在外出就餐上花得太多了。
 
 7. The bank sent an SMS notification to confirm the successful online transaction.
@@ -165,11 +165,11 @@ She opened a new `____` account to manage her company's daily finances.
 
 ### 3
 
-I need to visit the local branch to deposit this check into my account (`____`).
+I need to visit the local branch to `____` this check into my account.
 
-- [x] bank teller
-- [ ] budget
-- [ ] deposit
+- [x] deposit
+- [ ] bank teller
+- [ ] consider
 
 > **解析**：deposit 为动词，意为“存入（资金）”。常用搭配 deposit money/check into an account。
 
@@ -195,19 +195,19 @@ Never share your mobile banking `____` with anyone to protect your funds.
 
 ### 6
 
-He checked his bank statement and noticed he had spent too much on dining out (`____`).
+He checked his bank statement and `____`iced he had spent too much on dining out.
 
-- [x] checking account
-- [ ] consider
-- [ ] limit
+- [x] not
+- [ ] checking account
+- [ ] lent
 
 > **解析**：spent 是动词 spend 的过去式/过去分词，常用搭配 spend money on sth.（在某物上花钱）。
 
 ### 7
 
-The bank sent an SMS `____`ification to confirm the successful online transaction.
+The bank sent an SMS notification to confirm the successful online `____`.
 
-- [x] not
+- [x] transaction
 - [ ] consider
 - [ ] limit
 

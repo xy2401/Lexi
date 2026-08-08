@@ -82,7 +82,7 @@ have to be / need to be / want to be / will be 这组结构表达了义务、需
    > **解析**：patient 在此作名词，意为“病人；患者”；也可作形容词表示“有耐心的”。
 
 8. **中文**：这位孕妇预约了医生进行定期健康检查。  
-   **英文**：The pregnant woman scheduled a regular health checkup with her doctor (have to be).
+   **英文**：The pregnant woman scheduled a regular health checkup with her doctor.
    > **解析**：pregnant 形容词，意为“怀孕的”，作定语修饰 woman 或作表语。
 
 9. **中文**：昨天跑完马拉松后，他的肌肉开始发酸发痛。  
@@ -118,7 +118,7 @@ have to be / need to be / want to be / will be 这组结构表达了义务、需
 7. The doctor spent thirty minutes listening carefully to the patient.
    > **中文**：医生花了三十分钟仔细倾听病人的诉说。
 
-8. The pregnant woman scheduled a regular health checkup with her doctor (have to be).
+8. The pregnant woman scheduled a regular health checkup with her doctor.
    > **中文**：这位孕妇预约了医生进行定期健康检查。
 
 9. His muscles began to ache after running a full marathon yesterday (health insurance) about bled.
@@ -207,19 +207,19 @@ The doctor spent thirty minutes listening carefully to the `____`.
 
 ### 8
 
-The pregnant woman scheduled a regular health checkup with her doctor (have to `____`).
+The `____` woman scheduled a regular health checkup with her doctor.
 
-- [x] be
-- [ ] health insurance
-- [ ] pregnant
+- [x] pregnant
+- [ ] have to be
+- [ ] patient
 
 > **解析**：pregnant 形容词，意为“怀孕的”，作定语修饰 woman 或作表语。
 
 ### 9
 
-His muscles began to ache after running a full marathon yesterday (health insurance) about `____`.
+His muscles `____`gan to ache after running a full marathon yesterday (health insurance) about bled.
 
-- [x] bled
+- [x] be
 - [ ] injure
 - [ ] request
 

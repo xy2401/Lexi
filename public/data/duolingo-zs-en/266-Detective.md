@@ -86,7 +86,7 @@ must have / could have / may have 是对过去事件的三种推测，确定性�
    > **解析**：`clue` 是可数名词，意为“线索、提示”，常用搭配 `find a clue`。
 
 2. **中文**：法医专家从未锁的玻璃门上收集了指纹。  
-   **英文**：Forensic experts gathered fingerprints from the unlocked glass door (based on).
+   **英文**：Forensic experts gathered fingerprints from the unlocked glass door.
    > **解析**：`fingerprint` 是名词，意为“指纹”，常用复数 `fingerprints`。
 
 3. **中文**：警方今天下午带回了主要犯罪嫌疑人进行审问。  
@@ -106,7 +106,7 @@ must have / could have / may have 是对过去事件的三种推测，确定性�
    > **解析**：`crucial` 是形容词，意为“至关重要的、决定性的”，作表语。
 
 7. **中文**：入侵者穿戴了伪装，以避免在摄像头中被认出。  
-   **英文**：The intruder wore a disguise to avoid being recognized on camera (could have).
+   **英文**：The intruder wore a disguise to avoid being recognized on camera.
    > **解析**：`disguise` 是名词，意为“伪装、假扮”，搭配 `wear a disguise`。
 
 8. **中文**：根据初步调查结果，盗窃案发生在午夜过后的某个时间。  
@@ -128,7 +128,7 @@ must have / could have / may have 是对过去事件的三种推测，确定性�
 1. The detective examined the room carefully to find any hidden clues.
    > **中文**：侦探仔细检查了房间，以寻找任何隐蔽的线索。
 
-2. Forensic experts gathered fingerprints from the unlocked glass door (based on).
+2. Forensic experts gathered fingerprints from the unlocked glass door.
    > **中文**：法医专家从未锁的玻璃门上收集了指纹。
 
 3. Police brought the prime suspect in for questioning this afternoon.
@@ -143,7 +143,7 @@ must have / could have / may have 是对过去事件的三种推测，确定性�
 6. Finding the missing evidence is crucial to solving the mystery case.
    > **中文**：找到丢失的证据对破解这桩疑案至关重要。
 
-7. The intruder wore a disguise to avoid being recognized on camera (could have).
+7. The intruder wore a disguise to avoid being recognized on camera.
    > **中文**：入侵者穿戴了伪装，以避免在摄像头中被认出。
 
 8. Based on initial findings, the robbery occurred sometime after midnight.
@@ -175,7 +175,7 @@ The detective examined the room carefully to find any hidden `____`s.
 
 ### 2
 
-Forensic experts gathered fingerprints from the unlocked gl`____`s door (based on).
+Forensic experts gathered fingerprints from the unlocked gl`____`s door.
 
 - [x] as
 - [ ] bullet
@@ -225,10 +225,10 @@ Finding the missing evidence is crucial to solving the mystery `____`.
 
 ### 7
 
-The intruder wore a disguise to avoid being recognized on camera (`____`).
+The intruder wore a `____` to avoid being recognized on camera.
 
-- [x] could have
-- [ ] crucial
+- [x] disguise
+- [ ] could have
 - [ ] footprint
 
 > **解析**：`disguise` 是名词，意为“伪装、假扮”，搭配 `wear a disguise`。

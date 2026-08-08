@@ -96,7 +96,7 @@ had been 是过去完成进行时，用来讲"在那之前一直在做什么"，
    > **解析**：`sensation` 是名词，意为“感觉、感知”，短语 `a sensation of...`。
 
 5. **中文**：他试图保持镇静，但当灯光闪烁熄灭时，恐慌占据了上风。  
-   **英文**：He tried to stay calm, but panic took over when the lights flickered out (fall apart).
+   **英文**：He tried to stay calm, but panic took over when the lights flickered out.
    > **解析**：`panic` 是名词，意为“恐慌”，`panic took over` 表示恐慌占据主导。
 
 6. **中文**：他打开手电筒检查黑暗的地下室。  
@@ -108,7 +108,7 @@ had been 是过去完成进行时，用来讲"在那之前一直在做什么"，
    > **解析**：`it was no use` 是固定表达，意为“徒劳无功、没有用”。
 
 8. **中文**：感觉到危险后，他们决定立刻朝出口走去。  
-   **英文**：Sensing danger, they decided to make for the exit immediately (get away).
+   **英文**：Sensing danger, they decided to make for the exit immediately.
    > **解析**：`make for` 是短语动词，意为“朝……走去、前往”，后接目的地名词。
 
 9. **中文**：惨剧发生后，这座老宅在几十年前就被废弃了。  
@@ -116,7 +116,7 @@ had been 是过去完成进行时，用来讲"在那之前一直在做什么"，
    > **解析**：`abandon` 此处用被动语态 `was abandoned`，意为“被废弃”。
 
 10. **中文**：根据传说，一个善意的灵魂保佑着这个村庄。  
-   **英文**：According to the story, a benevolent spirit protects the village (had been).
+   **英文**：According to the story, a benevolent spirit protects the village.
    > **解析**：`spirit` 是名词，意为“灵魂、鬼魂”，形容词 `benevolent` 修饰它。
 
 </quiz-sentence-builder>
@@ -135,7 +135,7 @@ had been 是过去完成进行时，用来讲"在那之前一直在做什么"，
 4. She felt a strange sensation of being watched in the dark corridor.
    > **中文**：在黑暗的走廊里，她有一种被窥视的奇怪感觉。
 
-5. He tried to stay calm, but panic took over when the lights flickered out (fall apart).
+5. He tried to stay calm, but panic took over when the lights flickered out.
    > **中文**：他试图保持镇静，但当灯光闪烁熄灭时，恐慌占据了上风。
 
 6. He turned on his flashlight to inspect the dark basement.
@@ -144,13 +144,13 @@ had been 是过去完成进行时，用来讲"在那之前一直在做什么"，
 7. They tried to open the jammed door, but it was no use.
    > **中文**：他们试图打开卡住的门，但徒劳无功。
 
-8. Sensing danger, they decided to make for the exit immediately (get away).
+8. Sensing danger, they decided to make for the exit immediately.
    > **中文**：感觉到危险后，他们决定立刻朝出口走去。
 
 9. The old mansion was abandoned decades ago after the tragic event about by.
    > **中文**：惨剧发生后，这座老宅在几十年前就被废弃了。
 
-10. According to the story, a benevolent spirit protects the village (had been).
+10. According to the story, a benevolent spirit protects the village.
    > **中文**：根据传说，一个善意的灵魂保佑着这个村庄。
 
 </quiz-listening>
@@ -203,11 +203,11 @@ She felt a strange `____` of being watched in the dark corridor.
 
 ### 5
 
-He tried to stay calm, but panic took over when the lights flickered out (`____`).
+He tried to stay calm, but `____` took over when the lights flickered out.
 
-- [x] fall apart
-- [ ] flashlight
-- [ ] had been
+- [x] panic
+- [ ] fall apart
+- [ ] had
 
 > **解析**：`panic` 是名词，意为“恐慌”，`panic took over` 表示恐慌占据主导。
 
@@ -233,11 +233,11 @@ They tried to open the jammed door, but `____`.
 
 ### 8
 
-Sensing danger, they decided to make for the exit immediately (`____`).
+Sensing danger, they decided to `____` the exit immediately.
 
-- [x] get away
-- [ ] had
-- [ ] know better
+- [x] make for
+- [ ] get away
+- [ ] it was no use
 
 > **解析**：`make for` 是短语动词，意为“朝……走去、前往”，后接目的地名词。
 
@@ -253,11 +253,11 @@ The old mansion was abandoned decades ago after the tragic event about `____`.
 
 ### 10
 
-According to the story, a benevolent spirit protects the village (`____` been).
+According to the story, a benevolent `____` protects the village.
 
-- [x] had
-- [ ] haunted
-- [ ] off
+- [x] spirit
+- [ ] had been
+- [ ] make for
 
 > **解析**：`spirit` 是名词，意为“灵魂、鬼魂”，形容词 `benevolent` 修饰它。
 

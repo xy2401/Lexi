@@ -74,7 +74,7 @@ be scared of / be terrified of 表恐惧。used to 表过去习惯。
    > **解析**：enjoy 为及物动词，意为“喜欢、享受”。后接名词或动名词（enjoy doing sth.）。
 
 4. **中文**：我绝对讨厌被独自留在漆黑的环境中。  
-   **英文**：I absolutely hate being left alone in total darkness (calm down).
+   **英文**：I absolutely hate being left alone in total darkness.
    > **解析**：hate 为及物动词，意为“讨厌、憎恨”。后接动名词（doing）或不定式（to do），在此处表长期厌恶。
 
 5. **中文**：我弟弟害怕蜘蛛和黑暗的空间。  
@@ -98,7 +98,7 @@ be scared of / be terrified of 表恐惧。used to 表过去习惯。
    > **解析**：creepy 为形容词，意为“令人毛骨悚然的、怪异恐怖的”，常用来形容事物、声音或场所给人带来的恐惧感。
 
 10. **中文**：在登山过程中，他尽最大努力去克服对高处的恐惧。  
-   **英文**：He tried his best to overcome his fear of heights during the mountain climb (get used to).
+   **英文**：He tried his best to overcome his fear of heights during the mountain climb.
    > **解析**：fear 为名词，意为“恐惧、害怕”。常见搭配 overcome one's fear of sth.（克服对……的恐惧）。
 
 </quiz-sentence-builder>
@@ -114,7 +114,7 @@ be scared of / be terrified of 表恐惧。used to 表过去习惯。
 3. I usually enjoy night walks, but tonight the quiet street feels spooky.
    > **中文**：我通常很喜欢夜间散步，但今晚静悄悄的街道让人感觉怪异。
 
-4. I absolutely hate being left alone in total darkness (calm down).
+4. I absolutely hate being left alone in total darkness.
    > **中文**：我绝对讨厌被独自留在漆黑的环境中。
 
 5. My younger brother is scared of spiders and dark spaces.
@@ -132,7 +132,7 @@ be scared of / be terrified of 表恐惧。used to 表过去习惯。
 9. The old abandoned house at the end of the road looks really creepy about bee.
    > **中文**：路尽头那栋破旧废弃的房子看起来真的很令人毛骨悚然。
 
-10. He tried his best to overcome his fear of heights during the mountain climb (get used to).
+10. He tried his best to overcome his fear of heights during the mountain climb.
    > **中文**：在登山过程中，他尽最大努力去克服对高处的恐惧。
 
 </quiz-listening>
@@ -175,7 +175,7 @@ I usually `____` night walks, but tonight the quiet street feels spooky.
 
 ### 4
 
-I absolutely `____` being left alone in total darkness (calm down).
+I absolutely `____` being left alone in total darkness.
 
 - [x] hate
 - [ ] calm down
@@ -235,7 +235,7 @@ The old abandoned house at the end of the road looks really creepy about `____`.
 
 ### 10
 
-He tried his best to overcome his `____` of heights during the mountain climb (get used to).
+He tried his best to overcome his `____` of heights during the mountain climb.
 
 - [x] fear
 - [ ] hate

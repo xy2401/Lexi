@@ -66,19 +66,19 @@ black tie, care for, couldn't possibly, dress code, fabulous, filmmaker, free, g
 <quiz-sentence-builder>
 
 1. **中文**：数百名尊贵嘉宾参加了在大饭店举行的一年一度的慈善晚会。  
-   **英文**：Hundreds of distinguished guests attended the annual charity gala at the grand hotel (black tie).
+   **英文**：Hundreds of distinguished guests attended the annual charity gala at the grand hotel.
    > **解析**：`gala` 指“盛大晚会、庆典活动”，在句中作名词修饰 `charity gala`（慈善晚会）。
 
 2. **中文**：邀请函上明确说明当晚的活动将是一场穿正装打黑领结的正式场合。  
-   **英文**：The invitation specifies that the evening event will be a formal black tie affair (care for).
+   **英文**：The invitation specifies that the evening event will be a formal black tie affair.
    > **解析**：`black tie` 作形容词或名词，意为“黑领结的、要求穿大礼服正装的”，指极高级别的正装要求。
 
 3. **中文**：所有与会人员均须严格遵守该活动优雅着装规范。  
-   **英文**：All attendees are required to strictly follow the event's elegant dress code (couldn't possibly).
+   **英文**：All attendees are required to strictly follow the event's elegant dress code.
    > **解析**：`dress code` 是名词短语，意为“着装规范、穿衣要求”。
 
 4. **中文**：她穿了一件令人惊艳的及地丝绸礼服长裙去参加年度颁奖典礼。  
-   **英文**：She wore a stunning floor-length silk gown to the annual awards ceremony (dress code).
+   **英文**：She wore a stunning floor-length silk gown to the annual awards ceremony.
    > **解析**：`gown` 特指女子在正式晚宴或盛会穿的“晚礼服长裙”，区别于普通的 `dress`。
 
 5. **中文**：服务员走来走去，为宾客们递上香槟和美味的开胃小吃。  
@@ -98,7 +98,7 @@ black tie, care for, couldn't possibly, dress code, fabulous, filmmaker, free, g
    > **解析**：`be honored to do sth.` 是正式社交礼貌表达，意为“很荣幸能做某事”，后接不定式。
 
 9. **中文**：大家在这处绝美的场馆里度过了一段极好的周年庆祝时光。  
-   **英文**：Everyone had a fabulous time celebrating the anniversary at the breathtaking venue (get going).
+   **英文**：Everyone had a fabulous time celebrating the anniversary at the breathtaking venue.
    > **解析**：`fabulous` 是形容词，意为“极好的、绝妙的、极棒的”，带有赞叹色彩。
 
 10. **中文**：拒绝参加如此高端晚宴的邀请会是不礼貌的。  
@@ -109,16 +109,16 @@ black tie, care for, couldn't possibly, dress code, fabulous, filmmaker, free, g
 
 <quiz-listening>
 
-1. Hundreds of distinguished guests attended the annual charity gala at the grand hotel (black tie).
+1. Hundreds of distinguished guests attended the annual charity gala at the grand hotel.
    > **中文**：数百名尊贵嘉宾参加了在大饭店举行的一年一度的慈善晚会。
 
-2. The invitation specifies that the evening event will be a formal black tie affair (care for).
+2. The invitation specifies that the evening event will be a formal black tie affair.
    > **中文**：邀请函上明确说明当晚的活动将是一场穿正装打黑领结的正式场合。
 
-3. All attendees are required to strictly follow the event's elegant dress code (couldn't possibly).
+3. All attendees are required to strictly follow the event's elegant dress code.
    > **中文**：所有与会人员均须严格遵守该活动优雅着装规范。
 
-4. She wore a stunning floor-length silk gown to the annual awards ceremony (dress code).
+4. She wore a stunning floor-length silk gown to the annual awards ceremony.
    > **中文**：她穿了一件令人惊艳的及地丝绸礼服长裙去参加年度颁奖典礼。
 
 5. Waiters walked around serving champagne and delicious hors d'oeuvres to the guests.
@@ -133,7 +133,7 @@ black tie, care for, couldn't possibly, dress code, fabulous, filmmaker, free, g
 8. I am deeply honored to present the achievement award to tonight's special guest.
    > **中文**：我深感荣幸能为今晚的特邀嘉宾颁发成就奖。
 
-9. Everyone had a fabulous time celebrating the anniversary at the breathtaking venue (get going).
+9. Everyone had a fabulous time celebrating the anniversary at the breathtaking venue.
    > **中文**：大家在这处绝美的场馆里度过了一段极好的周年庆祝时光。
 
 10. It would be impolite to turn down an invitation to such a prestigious dinner party.
@@ -149,19 +149,19 @@ black tie, care for, couldn't possibly, dress code, fabulous, filmmaker, free, g
 
 ### 1
 
-Hundreds of distinguished guests attended the annual charity gala at the grand hotel (`____`).
+Hundreds of distinguished guests attended the annual charity `____` at the grand hotel.
 
-- [x] black tie
-- [ ] care for
-- [ ] filmmaker
+- [x] gala
+- [ ] black tie
+- [ ] fabulous
 
 > **解析**：`gala` 指“盛大晚会、庆典活动”，在句中作名词修饰 `charity gala`（慈善晚会）。
 
 ### 2
 
-The invitation specifies that the evening event will be a formal black tie affair (`____`).
+The invitation specifies that the evening event will be a formal `____` affair.
 
-- [x] care for
+- [x] black tie
 - [ ] couldn't possibly
 - [ ] free
 
@@ -169,21 +169,21 @@ The invitation specifies that the evening event will be a formal black tie affai
 
 ### 3
 
-All attendees are required to strictly follow the event's elegant dress code (`____`).
+All attendees are required to strictly follow the event's elegant `____`.
 
-- [x] couldn't possibly
-- [ ] dress code
+- [x] dress code
+- [ ] couldn't possibly
 - [ ] gala
 
 > **解析**：`dress code` 是名词短语，意为“着装规范、穿衣要求”。
 
 ### 4
 
-She wore a stunning floor-length silk gown to the annual awards ceremony (`____`).
+She wore a stunning floor-length silk `____` to the annual awards ceremony.
 
-- [x] dress code
-- [ ] fabulous
-- [ ] get going
+- [x] gown
+- [ ] dress code
+- [ ] gala
 
 > **解析**：`gown` 特指女子在正式晚宴或盛会穿的“晚礼服长裙”，区别于普通的 `dress`。
 
@@ -229,7 +229,7 @@ I am deeply `____` present the achievement award to tonight's special guest.
 
 ### 9
 
-Everyone had a `____` time celebrating the anniversary at the breathtaking venue (get going).
+Everyone had a `____` time celebrating the anniversary at the breathtaking venue.
 
 - [x] fabulous
 - [ ] gown

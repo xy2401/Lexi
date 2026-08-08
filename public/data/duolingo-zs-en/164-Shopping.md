@@ -94,7 +94,7 @@ worth = 值得。can / can't 表能力/可能。
    > **解析**：bargain 在此处作可数名词，意为“便宜货、划算的买卖”。a real bargain 意为“真划算”。
 
 9. **中文**：请将您喜欢的商品添加到您的在线购物车中。  
-   **英文**：Please add the items you like to your online shopping cart (fitting room).
+   **英文**：Please add the items you like to your online shopping cart.
    > **解析**：cart 为可数名词，意为“手推车、购物车”。shopping cart 即购物车。
 
 10. **中文**：我更喜欢买能穿很多年的高品质衣服。  
@@ -129,7 +129,7 @@ worth = 值得。can / can't 表能力/可能。
 8. Getting this brand-new phone at half price was a real bargain.
    > **中文**：以半价买到这部全新手机真是太划算了！
 
-9. Please add the items you like to your online shopping cart (fitting room).
+9. Please add the items you like to your online shopping cart.
    > **中文**：请将您喜欢的商品添加到您的在线购物车中。
 
 10. I prefer to buy high quality clothes that last.
@@ -225,7 +225,7 @@ Getting this brand-new phone at half price was a real `____`.
 
 ### 9
 
-Please add the items you like to your online shopping `____` (fitting room).
+Please add the items you like to your online shopping `____`.
 
 - [x] cart
 - [ ] high quality

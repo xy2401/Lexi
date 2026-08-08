@@ -68,7 +68,7 @@ Bigfoot, burst into, campfire, cliffhanger, darkness, dead, dying to, edge of my
    > **解析**：`campfire` 是名词，意为“营火、篝火”。
 
 2. **中文**：他讲了一个如此吓人的恐怖故事，以至于大家都害怕离开帐篷。  
-   **英文**：He told such a scary story that everyone was afraid to leave the tent (burst into).
+   **英文**：He told such a scary story that everyone was afraid to leave the tent.
    > **解析**：`scary story` 意为“恐怖故事、鬼故事”，搭配 `tell a scary story`。
 
 3. **中文**：树林里幽深可怖的声音让我浑身起鸡皮疙瘩。  
@@ -88,7 +88,7 @@ Bigfoot, burst into, campfire, cliffhanger, darkness, dead, dying to, edge of my
    > **解析**：`spooky` 是形容词，意为“阴森可怖的、怪异的”。
 
 7. **中文**：在明火上烤棉花糖是一道传统的户外美食。  
-   **英文**：Roasting marshmallows over the open fire is a traditional outdoor treat (dying to).
+   **英文**：Roasting marshmallows over the open fire is a traditional outdoor treat.
    > **解析**：`marshmallow` 是名词，意为“棉花糖”，`roast marshmallows`。
 
 8. **中文**：有趣笑话刚讲完，营火旁的每个人都爆发出一阵大笑。  
@@ -96,11 +96,11 @@ Bigfoot, burst into, campfire, cliffhanger, darkness, dead, dying to, edge of my
    > **解析**：`burst into + 名词`（如 `laughter`）意为“突然爆发/化作……”。
 
 9. **中文**：我们刚搭好帐篷，天空就下起了倾盆大雨。  
-   **英文**：No sooner had we pitched the tent than it started to pour rain (excited for).
+   **英文**：No sooner had we pitched the tent than it started to pour rain.
    > **解析**：`No sooner had... than...` 是固定倒装句型，意为“刚一……就……”。
 
 10. **中文**：所有的孩子都对明天的徒步冒险超级兴奋。  
-   **英文**：All the kids are super excited for tomorrow's hiking adventure (go to sleep).
+   **英文**：All the kids are super excited for tomorrow's hiking adventure.
    > **解析**：`be excited for sth` 意为“对……感到兴奋/期待”。
 
 </quiz-sentence-builder>
@@ -110,7 +110,7 @@ Bigfoot, burst into, campfire, cliffhanger, darkness, dead, dying to, edge of my
 1. Gathering around the warm campfire to share stories is the best part of camping.
    > **中文**：聚在温暖的营火旁分享故事是露营中最棒的部分。
 
-2. He told such a scary story that everyone was afraid to leave the tent (burst into).
+2. He told such a scary story that everyone was afraid to leave the tent.
    > **中文**：他讲了一个如此吓人的恐怖故事，以至于大家都害怕离开帐篷。
 
 3. The spooky sound in the woods gave me goosebumps all over.
@@ -125,16 +125,16 @@ Bigfoot, burst into, campfire, cliffhanger, darkness, dead, dying to, edge of my
 6. The quiet forest felt extremely spooky under the dim moonlight.
    > **中文**：在昏暗的月光下，静谧的森林显得极其阴森可怖。
 
-7. Roasting marshmallows over the open fire is a traditional outdoor treat (dying to).
+7. Roasting marshmallows over the open fire is a traditional outdoor treat.
    > **中文**：在明火上烤棉花糖是一道传统的户外美食。
 
 8. As soon as the funny joke ended, everyone burst into laughter around the fire (edge of my seat) about Bigfoot.
    > **中文**：有趣笑话刚讲完，营火旁的每个人都爆发出一阵大笑。
 
-9. No sooner had we pitched the tent than it started to pour rain (excited for).
+9. No sooner had we pitched the tent than it started to pour rain.
    > **中文**：我们刚搭好帐篷，天空就下起了倾盆大雨。
 
-10. All the kids are super excited for tomorrow's hiking adventure (go to sleep).
+10. All the kids are super excited for tomorrow's hiking adventure.
    > **中文**：所有的孩子都对明天的徒步冒险超级兴奋。
 
 </quiz-listening>
@@ -157,11 +157,11 @@ Gathering around the warm `____` to share stories is the best part of camping.
 
 ### 2
 
-He told such a scary story that everyone was afraid to leave the tent (`____`).
+He told such a `____` that everyone was afraid to leave the tent.
 
-- [x] burst into
-- [ ] campfire
-- [ ] dying to
+- [x] scary story
+- [ ] burst into
+- [ ] dead
 
 > **解析**：`scary story` 意为“恐怖故事、鬼故事”，搭配 `tell a scary story`。
 
@@ -207,7 +207,7 @@ The quiet forest felt extremely `____` under the dim moonlight.
 
 ### 7
 
-Roasting `____`s over the open fire is a traditional outdoor treat (dying to).
+Roasting `____`s over the open fire is a traditional outdoor treat.
 
 - [x] marshmallow
 - [ ] dying to
@@ -227,19 +227,19 @@ As soon as the funny joke ended, everyone burst into laughter around the fire (e
 
 ### 9
 
-No sooner had we pitched the tent than it started to pour rain (`____`).
+`____` we pitched the tent than it started to pour rain.
 
-- [x] excited for
-- [ ] go to sleep
-- [ ] killer
+- [x] no sooner had
+- [ ] excited for
+- [ ] hanging
 
 > **解析**：`No sooner had... than...` 是固定倒装句型，意为“刚一……就……”。
 
 ### 10
 
-All the kids are super excited for tomorrow's hiking adventure (`____`).
+All the kids are super `____` tomorrow's hiking adventure.
 
-- [x] go to sleep
+- [x] excited for
 - [ ] goosebumps
 - [ ] marshmallow
 

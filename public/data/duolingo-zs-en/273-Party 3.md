@@ -62,15 +62,15 @@ all the way, any time, can always call, express, going-away party, guest of hono
 <quiz-sentence-builder>
 
 1. **中文**：我们为即将在海外定居的同事举办了一场温馨的告别派对。  
-   **英文**：We hosted a warm farewell party for our colleague who is moving overseas (all the way).
+   **英文**：We hosted a warm farewell party for our colleague who is moving overseas all the way.
    > **解析**：`farewell` 作形容词或名词，意为“告别的、欢送的”。短语 `farewell party` 特指“欢送会、告别派对”。
 
 2. **中文**：团队组织了一顿惊喜晚餐，以表达对她十年服务的敬意。  
-   **英文**：The team organized a surprise dinner in honor of her ten years of service (any time).
+   **英文**：The team organized a surprise dinner in honor of her ten years of service any time.
    > **解析**：`in honor of` 是介词短语，意为“为了向……表示敬意、为了纪念/庆祝……”，在句中作状语。
 
 3. **中文**：请检查一下客人名单，确保每个人都接到了邀请。  
-   **英文**：Please check the guest list to make sure everyone was invited (can always call).
+   **英文**：Please check the guest list to make sure everyone was invited can always call.
    > **解析**：`guest list` 是复合名词，意为“宾客名单”，在句中作动词 `check` 的宾语。
 
 4. **中文**：大家都同意每人凑十美元，买一份贴心的退休礼物。  
@@ -78,15 +78,15 @@ all the way, any time, can always call, express, going-away party, guest of hono
    > **解析**：`pitch in` 是口语动词短语，意为“共同凑钱、协力分摊”，常用于筹集资金或共同完成某任务。
 
 5. **中文**：因为这是一次百家宴晚餐，每位客人都带了一道家常菜来分享。  
-   **英文**：Since it was a potluck dinner, every guest brought a homemade dish to share (going-away party).
+   **英文**：Since it was a potluck dinner, every guest brought a homemade dish to share going-away party.
    > **解析**：`potluck`（或 `potluck dinner`）指“各自带菜的聚餐/百家宴”，作名词修饰语或独立名词。
 
 6. **中文**：我们决定雇用当地的一家餐饮公司为当晚的活动提供餐饮服务。  
-   **英文**：We decided to hire a local company to cater the evening event (guest of honor).
+   **英文**：We decided to hire a local company to cater the evening event guest of honor.
    > **解析**：`cater` 是动词，意为“提供餐饮/包办宴席”。动词搭配 `cater an event` 表示“为活动提供餐饮”。
 
 7. **中文**：事实证明，屋顶花园是这次夏日派对的绝佳场地。  
-   **英文**：The rooftop garden proved to be the perfect venue for the summer party (leave town).
+   **英文**：The rooftop garden proved to be the perfect venue for the summer party leave town.
    > **解析**：`venue` 指活动、会议或派对的“举办地点、场地”，作句中的表语。
 
 8. **中文**：经理提议干杯，庆祝他成功的职业转型。  
@@ -94,7 +94,7 @@ all the way, any time, can always call, express, going-away party, guest of hono
    > **解析**：`toast` 在此作名词，意为“祝酒、干杯”。固定短语 `propose a toast to...` 表示“向……提议干杯”。
 
 9. **中文**：我收到一条消息，说她今晚赶不及来参加派对了。  
-   **英文**：I received a message saying she can't make it to the party tonight (move away).
+   **英文**：I received a message saying she can't make it to the party tonight move away.
    > **解析**：`can't make it` 是习惯口语表达，意为“无法出席、赶不上”，`make it` 表示“按时到达/成功做到”。
 
 10. **中文**：他是一位极好的队友，大家一定会深深怀念他。  
@@ -105,31 +105,31 @@ all the way, any time, can always call, express, going-away party, guest of hono
 
 <quiz-listening>
 
-1. We hosted a warm farewell party for our colleague who is moving overseas (all the way).
+1. We hosted a warm farewell party for our colleague who is moving overseas all the way.
    > **中文**：我们为即将在海外定居的同事举办了一场温馨的告别派对。
 
-2. The team organized a surprise dinner in honor of her ten years of service (any time).
+2. The team organized a surprise dinner in honor of her ten years of service any time.
    > **中文**：团队组织了一顿惊喜晚餐，以表达对她十年服务的敬意。
 
-3. Please check the guest list to make sure everyone was invited (can always call).
+3. Please check the guest list to make sure everyone was invited can always call.
    > **中文**：请检查一下客人名单，确保每个人都接到了邀请。
 
 4. Everyone agreed to pitch in ten dollars to buy a thoughtful retirement gift about express.
    > **中文**：大家都同意每人凑十美元，买一份贴心的退休礼物。
 
-5. Since it was a potluck dinner, every guest brought a homemade dish to share (going-away party).
+5. Since it was a potluck dinner, every guest brought a homemade dish to share going-away party.
    > **中文**：因为这是一次百家宴晚餐，每位客人都带了一道家常菜来分享。
 
-6. We decided to hire a local company to cater the evening event (guest of honor).
+6. We decided to hire a local company to cater the evening event guest of honor.
    > **中文**：我们决定雇用当地的一家餐饮公司为当晚的活动提供餐饮服务。
 
-7. The rooftop garden proved to be the perfect venue for the summer party (leave town).
+7. The rooftop garden proved to be the perfect venue for the summer party leave town.
    > **中文**：事实证明，屋顶花园是这次夏日派对的绝佳场地。
 
 8. The manager proposed a toast to celebrate his successful career transition about move.
    > **中文**：经理提议干杯，庆祝他成功的职业转型。
 
-9. I received a message saying she can't make it to the party tonight (move away).
+9. I received a message saying she can't make it to the party tonight move away.
    > **中文**：我收到一条消息，说她今晚赶不及来参加派对了。
 
 10. He was such a wonderful teammate, and he will truly be missed by everyone about occasionally.
@@ -145,7 +145,7 @@ all the way, any time, can always call, express, going-away party, guest of hono
 
 ### 1
 
-We hosted a warm farewell party for our colleague who is moving overseas (`____`).
+We hosted a warm farewell party for our colleague who is moving overseas `____`.
 
 - [x] all the way
 - [ ] any time
@@ -155,7 +155,7 @@ We hosted a warm farewell party for our colleague who is moving overseas (`____`
 
 ### 2
 
-The team organized a surprise dinner in honor of her ten years of service (`____`).
+The team organized a surprise dinner in honor of her ten years of service `____`.
 
 - [x] any time
 - [ ] can always call
@@ -165,7 +165,7 @@ The team organized a surprise dinner in honor of her ten years of service (`____
 
 ### 3
 
-Please check the guest list to make sure everyone was invited (`____`).
+Please check the guest list to make sure everyone was invited `____`.
 
 - [x] can always call
 - [ ] express
@@ -185,7 +185,7 @@ Everyone agreed to pitch in ten dollars to buy a thoughtful retirement gift abou
 
 ### 5
 
-Since it was a potluck dinner, every guest brought a homemade dish to share (`____`).
+Since it was a potluck dinner, every guest brought a homemade dish to share `____`.
 
 - [x] going-away party
 - [ ] guest of honor
@@ -195,7 +195,7 @@ Since it was a potluck dinner, every guest brought a homemade dish to share (`__
 
 ### 6
 
-We decided to hire a local company to cater the evening event (`____`).
+We decided to hire a local company to cater the evening event `____`.
 
 - [x] guest of honor
 - [ ] leave town
@@ -205,7 +205,7 @@ We decided to hire a local company to cater the evening event (`____`).
 
 ### 7
 
-The rooftop garden proved to be the perfect venue for the summer party (`____`).
+The rooftop garden proved to be the perfect venue for the summer party `____`.
 
 - [x] leave town
 - [ ] move
@@ -225,7 +225,7 @@ The manager proposed a toast to celebrate his successful career transition about
 
 ### 9
 
-I received a message saying she can't make it to the party tonight (`____`).
+I received a message saying she can't make it to the party tonight `____`.
 
 - [x] move away
 - [ ] occasionally

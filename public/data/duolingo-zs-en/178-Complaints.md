@@ -76,11 +76,11 @@ apology, besides, blame, disappointed, disappointing, end up, end up in, fault, 
    > **解析**：refund 为可数名词，意为“退款”。ask for a refund 意为“要求退款”。
 
 6. **中文**：服务员承诺把未煮熟的牛排带回厨房。  
-   **英文**：The waiter promised to take the uncooked steak back to the kitchen (end up).
+   **英文**：The waiter promised to take the uncooked steak back to the kitchen.
    > **解析**：take 为及物动词，意为“拿走、带去”。take sth. back 意为“拿回/带回”。
 
 7. **中文**：深夜请你不要把电视音量调得那么高好吗？  
-   **英文**：Could you please not turn up the TV volume so high late at night? (end up in).
+   **英文**：Could you please not turn up the TV volume so high late at night?
    > **解析**：turn up 为动词短语，意为“调大（声音/温度等）”，反义短语为 turn down。
 
 8. **中文**：食物端上来是凉的；此外，我们等主菜等了一个多小时。  
@@ -114,10 +114,10 @@ apology, besides, blame, disappointed, disappointing, end up, end up in, fault, 
 5. If the product is defective, you are entitled to ask for a full refund.
    > **中文**：如果产品有缺陷，您有权要求全额退款。
 
-6. The waiter promised to take the uncooked steak back to the kitchen (end up).
+6. The waiter promised to take the uncooked steak back to the kitchen.
    > **中文**：服务员承诺把未煮熟的牛排带回厨房。
 
-7. Could you please not turn up the TV volume so high late at night? (end up in).
+7. Could you please not turn up the TV volume so high late at night?
    > **中文**：深夜请你不要把电视音量调得那么高好吗？
 
 8. The food was served cold; besides, we waited for over an hour for our main course.
@@ -189,21 +189,21 @@ If the product is defective, you are entitled to ask for a full `____`.
 
 ### 6
 
-The waiter promised to take the uncooked steak back to the kitchen (`____`).
+The waiter promised to `____` the uncooked steak back to the kitchen.
 
-- [x] end up
-- [ ] end up in
-- [ ] hang up on
+- [x] take
+- [ ] end up
+- [ ] hang up
 
 > **解析**：take 为及物动词，意为“拿走、带去”。take sth. back 意为“拿回/带回”。
 
 ### 7
 
-Could you please not turn up the TV volume so high late at night? (`____`).
+Could you please not `____` up the TV volume so high late at night?
 
-- [x] end up in
-- [ ] fault
-- [ ] negative
+- [x] turn
+- [ ] end up in
+- [ ] hang up on
 
 > **解析**：turn up 为动词短语，意为“调大（声音/温度等）”，反义短语为 turn down。
 

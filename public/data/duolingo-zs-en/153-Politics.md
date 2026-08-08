@@ -70,7 +70,7 @@ there could/might be 表推测。mean → meant（意思是）。
    > **解析**：economy 为名词，意为“经济、经济状况”。常与动词 boost, improve, grow 搭配使用。
 
 3. **中文**：前任总统在国际论坛上发表了激情的演讲。  
-   **英文**：The former president delivered a passionate speech at the international forum (can't stand).
+   **英文**：The former president delivered a passionate speech at the international forum.
    > **解析**：former 为形容词，意为“前任的、以前的”，常置于名词前修饰头衔（former president/minister）。
 
 4. **中文**：这些新的税收法规对普通纳税人来说意味着什么？  
@@ -98,7 +98,7 @@ there could/might be 表推测。mean → meant（意思是）。
    > **解析**：there might be 表示对存在性的猜测，意为“可能会有/存在”，might 表达不确定的推测语气。
 
 10. **中文**：他不赞成拟建的高速公路建设项目。  
-   **英文**：He is not in favor of the proposed highway construction project (had to).
+   **英文**：He is not in favor of the proposed highway construction project.
    > **解析**：not 为否定副词，在句中与动词 be 连用（be not in favor of），构成对某种政治立场的否定。
 
 </quiz-sentence-builder>
@@ -111,7 +111,7 @@ there could/might be 表推测。mean → meant（意思是）。
 2. The government is introducing new measures to boost the national economy.
    > **中文**：政府正在出台新举措以刺激国家经济发展。
 
-3. The former president delivered a passionate speech at the international forum (can't stand).
+3. The former president delivered a passionate speech at the international forum.
    > **中文**：前任总统在国际论坛上发表了激情的演讲。
 
 4. What do these new tax regulations mean for ordinary taxpayers.
@@ -132,7 +132,7 @@ there could/might be 表推测。mean → meant（意思是）。
 9. There might be significant political changes after the votes are counted.
    > **中文**：在选票统计完毕后，可能会有重大政治变革。
 
-10. He is not in favor of the proposed highway construction project (had to).
+10. He is not in favor of the proposed highway construction project.
    > **中文**：他不赞成拟建的高速公路建设项目。
 
 </quiz-listening>
@@ -165,11 +165,11 @@ The government is introducing new me`____`ures to boost the national economy.
 
 ### 3
 
-The former president delivered a passionate speech at the international forum (`____`).
+The `____` president delivered a passionate speech at the international forum.
 
-- [x] can't stand
-- [ ] currency
-- [ ] environmental
+- [x] former
+- [ ] can't stand
+- [ ] election
 
 > **解析**：former 为形容词，意为“前任的、以前的”，常置于名词前修饰头衔（former president/minister）。
 
@@ -195,9 +195,9 @@ The mayor gave a long `____` addressing the social housing problem.
 
 ### 6
 
-Many citizens can't stand the inefficient bureaucratic procedures about `____`.
+Many citizens `____` the inefficient bureaucratic procedures about currency.
 
-- [x] currency
+- [x] can't stand
 - [ ] election
 - [ ] immigration
 
@@ -235,11 +235,11 @@ The parliament held a debate on the new `____` laws yesterday.
 
 ### 10
 
-He is not in favor of the proposed highway construction project (`____`).
+He is `____` in favor of the proposed highway construction project.
 
-- [x] had to
-- [ ] immigration
-- [ ] mention
+- [x] not
+- [ ] had to
+- [ ] meant
 
 > **解析**：not 为否定副词，在句中与动词 be 连用（be not in favor of），构成对某种政治立场的否定。
 

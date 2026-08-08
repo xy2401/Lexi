@@ -68,7 +68,7 @@ aware, cheat on, childish, concerned, could, could have, could've, couldn't have
    > **解析**：`aware` 形容词，意为“意识到的；知道的”。固定搭配 `be aware of sth.`（意识到某事）。
 
 2. **中文**：如果你对项目需要建议，你可以和你的职业咨询师讨论一下。  
-   **英文**：If you need advice on your project, you could discuss it with your career counselor (cheat on).
+   **英文**：If you need advice on your project, you could discuss it with your career counselor.
    > **解析**：`could` 情态动词，在此处表示提出温和或委婉的建议。
 
 3. **中文**：批评某人而不提供建设性的解决方案是没有帮助的。  
@@ -84,7 +84,7 @@ aware, cheat on, childish, concerned, could, could have, could've, couldn't have
    > **解析**：`leave` 不及物动词，意为“离开；走开”。
 
 6. **中文**：请注意你的语气，以免无意中得罪或冒犯任何人。  
-   **英文**：Please be careful with your tone so that you don't unintentionally offend anyone (could have).
+   **英文**：Please be careful with your tone so that you don't unintentionally offend anyone.
    > **解析**：`offend` 及物动词，意为“冒犯；得罪”。衍生形容词 `offensive`（冒犯性的）。
 
 7. **中文**：我昨天在与朋友的讨论中本不该发脾气的。  
@@ -92,7 +92,7 @@ aware, cheat on, childish, concerned, could, could have, could've, couldn't have
    > **解析**：`shouldn't have + 过去分词` 为虚拟语气短语，表达对过去行为的后悔与自责（意为“本不应该做某事”）。
 
 8. **中文**：诚实对任何关系都至关重要，你绝不应该背叛你的伴侣。  
-   **英文**：Honesty is vital in any relationship, and you should never cheat on your partner (couldn't have).
+   **英文**：Honesty is vital in any relationship, and you should never cheat on your partner.
    > **解析**：`cheat on` 为固定动词短语，意为“对……不忠；在感情/考试中作弊欺骗某人”。
 
 9. **中文**：你本可以寻求我的帮助，而不是独自与这项任务挣扎。  
@@ -110,7 +110,7 @@ aware, cheat on, childish, concerned, could, could have, could've, couldn't have
 1. You should be fully aware of the consequences before making such a major life decision.
    > **中文**：在做出如此重大的生活决定之前，你应该充分意识到后果。
 
-2. If you need advice on your project, you could discuss it with your career counselor (cheat on).
+2. If you need advice on your project, you could discuss it with your career counselor.
    > **中文**：如果你对项目需要建议，你可以和你的职业咨询师讨论一下。
 
 3. It is not helpful to criticize someone without offering constructive solutions.
@@ -122,13 +122,13 @@ aware, cheat on, childish, concerned, could, could have, could've, couldn't have
 5. Sometimes the best solution in a toxic conversation is to just turn around and leave.
    > **中文**：有时候，在糟糕的对话中最好的解决办法就是转身离开。
 
-6. Please be careful with your tone so that you don't unintentionally offend anyone (could have).
+6. Please be careful with your tone so that you don't unintentionally offend anyone.
    > **中文**：请注意你的语气，以免无意中得罪或冒犯任何人。
 
 7. I shouldn't have lost my temper during yesterday's discussion with my friend.
    > **中文**：我昨天在与朋友的讨论中本不该发脾气的。
 
-8. Honesty is vital in any relationship, and you should never cheat on your partner (couldn't have).
+8. Honesty is vital in any relationship, and you should never cheat on your partner.
    > **中文**：诚实对任何关系都至关重要，你绝不应该背叛你的伴侣。
 
 9. You could have asked me for assistance instead of struggling with the task alone.
@@ -157,10 +157,10 @@ You should be fully `____` of the consequences before making such a major life d
 
 ### 2
 
-If you need advice on your project, you could discuss it with your career counselor (`____`).
+If you need advice on your project, you `____` discuss it with your career counselor.
 
-- [x] cheat on
-- [ ] childish
+- [x] could
+- [ ] cheat on
 - [ ] could've
 
 > **解析**：`could` 情态动词，在此处表示提出温和或委婉的建议。
@@ -197,11 +197,11 @@ Sometimes the best solution in a toxic conversation is to just turn around and `
 
 ### 6
 
-Please be careful with your tone so that you don't unintentionally offend anyone (`____` have).
+Please be careful with your tone so that you don't unintentionally `____` anyone.
 
-- [x] could
-- [ ] could've
-- [ ] entire
+- [x] offend
+- [ ] could have
+- [ ] emotional
 
 > **解析**：`offend` 及物动词，意为“冒犯；得罪”。衍生形容词 `offensive`（冒犯性的）。
 
@@ -217,9 +217,9 @@ I `____`n't have lost my temper during yesterday's discussion with my friend.
 
 ### 8
 
-Honesty is vital in any relationship, and you should never cheat on your partner (`____`).
+Honesty is vital in any relationship, and you should never `____` your partner.
 
-- [x] couldn't have
+- [x] cheat on
 - [ ] criticize
 - [ ] have no clue
 

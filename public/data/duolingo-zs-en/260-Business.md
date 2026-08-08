@@ -92,7 +92,7 @@ rise / decline / level off / drop 是描述趋势的四组核心动词。gradual
    > **解析**：`investor` 是名词，意为“投资者、投资人”。
 
 4. **中文**：高昂的运营成本显著减少了该公司的季度利润。  
-   **英文**：High operational costs significantly reduced the firm's quarterly profit (by the end of).
+   **英文**：High operational costs significantly reduced the firm's quarterly profit.
    > **解析**：`profit` 是名词，意为“利润、收益”，`quarterly profit` 季度利润。
 
 5. **中文**：新的在线商店将在本月底前投入运营。  
@@ -132,7 +132,7 @@ rise / decline / level off / drop 是描述趋势的四组核心动词。gradual
 3. Several angel investors decided to fund our tech startup company.
    > **中文**：几位天使投资人决定资助我们的科技初创公司。
 
-4. High operational costs significantly reduced the firm's quarterly profit (by the end of).
+4. High operational costs significantly reduced the firm's quarterly profit.
    > **中文**：高昂的运营成本显著减少了该公司的季度利润。
 
 5. The new online store will be up and running by the end of this month.
@@ -193,21 +193,21 @@ Several angel `____`s decided to fund our tech startup company.
 
 ### 4
 
-High operational costs significantly reduced the firm's quarterly profit (`____`).
+High operational costs significantly reduced the firm's quarterly `____`.
 
-- [x] by the end of
-- [ ] carefully
-- [ ] entrepreneur
+- [x] profit
+- [ ] by the end of
+- [ ] drop
 
 > **解析**：`profit` 是名词，意为“利润、收益”，`quarterly profit` 季度利润。
 
 ### 5
 
-The new online store will be `____` by the end of this month.
+The new online store will be up and running `____` this month.
 
-- [x] up and running
-- [ ] carefully
-- [ ] entrepreneur
+- [x] by the end of
+- [ ] data
+- [ ] gradually
 
 > **解析**：`up and running` 是固定形容词短语，意为“（系统/店铺等）正常运转、投入使用”。
 

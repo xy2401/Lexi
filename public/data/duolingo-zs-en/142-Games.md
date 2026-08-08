@@ -90,7 +90,7 @@ would you mind + doing 是礼貌请求句型。un- 前缀表示否定。
    > **解析**：unbelievable 为形容词，意为“难以置信的、奇迹般的”。turn around 意为“扭转”。
 
 8. **中文**：游戏玩家使用专门的训练软件来提高他们的快速反应能力。  
-   **英文**：Gamers use special training software to improve their fast reaction ability (curious about).
+   **英文**：Gamers use special training software to improve their fast reaction ability.
    > **解析**：ability 为名词，意为“能力、本领”。fast reaction ability 指“快速反应能力”。
 
 9. **中文**：观众们对该玩家非凡的手速和精准度感到惊叹不已。  
@@ -126,7 +126,7 @@ would you mind + doing 是礼貌请求句型。un- 前缀表示否定。
 7. Turning the match around in the final three seconds was truly unbelievable.
    > **中文**：在最后三秒钟内扭转比赛局势简直难以置信！
 
-8. Gamers use special training software to improve their fast reaction ability (curious about).
+8. Gamers use special training software to improve their fast reaction ability.
    > **中文**：游戏玩家使用专门的训练软件来提高他们的快速反应能力。
 
 9. Spectators were amazed by the player's extraordinary hand speed and accuracy.
@@ -215,7 +215,7 @@ Turning the match around in the final three seconds was truly `____`.
 
 ### 8
 
-Gamers use special training software to improve their fast reaction `____` (curious about).
+Gamers use special training software to improve their fast reaction `____`.
 
 - [x] ability
 - [ ] fairly

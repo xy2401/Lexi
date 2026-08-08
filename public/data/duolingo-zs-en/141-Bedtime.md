@@ -62,7 +62,7 @@ nightmare 表示"噩梦"。the dark 表示"黑暗"（特指）。
 <quiz-sentence-builder>
 
 1. **中文**：在做一个关于被追赶的恐怖噩梦后，她出着汗醒了过来。  
-   **英文**：She woke up sweating after having a scary nightmare about being chased (alarm clock).
+   **英文**：She woke up sweating after having a scary nightmare about being chased.
    > **解析**：nightmare 为名词，意为“噩梦”。have a nightmare 表示“做噩梦”。wake up sweating 表示“出汗醒来”。
 
 2. **中文**：我把闹钟定在早上六点，这样我就不会睡过头了。  
@@ -105,7 +105,7 @@ nightmare 表示"噩梦"。the dark 表示"黑暗"（特指）。
 
 <quiz-listening>
 
-1. She woke up sweating after having a scary nightmare about being chased (alarm clock).
+1. She woke up sweating after having a scary nightmare about being chased.
    > **中文**：在做一个关于被追赶的恐怖噩梦后，她出着汗醒了过来。
 
 2. I set my alarm clock for six in the morning so I would not oversleep about ambulance.
@@ -145,19 +145,19 @@ nightmare 表示"噩梦"。the dark 表示"黑暗"（特指）。
 
 ### 1
 
-She woke up sweating after having a scary nightmare about being chased (`____`).
+She woke up sweating after having a scary `____` about being chased.
 
-- [x] alarm clock
-- [ ] ambulance
-- [ ] flu
+- [x] nightmare
+- [ ] alarm clock
+- [ ] fan
 
 > **解析**：nightmare 为名词，意为“噩梦”。have a nightmare 表示“做噩梦”。wake up sweating 表示“出汗醒来”。
 
 ### 2
 
-I set my alarm clock for six in the morning so I would not oversleep about `____`.
+I set my `____` for six in the morning so I would not oversleep about ambulance.
 
-- [x] ambulance
+- [x] alarm clock
 - [ ] angel
 - [ ] fluffy
 

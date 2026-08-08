@@ -62,11 +62,11 @@
    > **解析**：had 在此处作助动词，与过去分词 completed 构成过去完成时（had completed）。
 
 4. **中文**：这位勇敢的消防员因在灾难中拯救生命而被尊为国家英雄。  
-   **英文**：The brave firefighter was honored as a national hero for saving lives during the disaster (at last).
+   **英文**：The brave firefighter was honored as a national hero for saving lives during the disaster.
    > **解析**：hero 为可数名词，意为“英雄”，复数形式为 heroes。
 
 5. **中文**：科学界花了许多年的时间才认可她的重大成就。  
-   **英文**：It took many years for the scientific community to recognize her major achievement (by the time).
+   **英文**：It took many years for the scientific community to recognize her major achievement.
    > **解析**：recognize 为及物动词，意为“认可、承认、认出”。接名词作宾语（recognize her achievement）。
 
 6. **中文**：该国的经济状况在这十年间得到了显着改善。  
@@ -102,10 +102,10 @@
 3. They had completed the space station project before the target deadline arrived.
    > **中文**：在目标截止日期到来之前，他们已经完成了空间站项目。
 
-4. The brave firefighter was honored as a national hero for saving lives during the disaster (at last).
+4. The brave firefighter was honored as a national hero for saving lives during the disaster.
    > **中文**：这位勇敢的消防员因在灾难中拯救生命而被尊为国家英雄。
 
-5. It took many years for the scientific community to recognize her major achievement (by the time).
+5. It took many years for the scientific community to recognize her major achievement.
    > **中文**：科学界花了许多年的时间才认可她的重大成就。
 
 6. The economic situation in the country improved significantly over the decade.
@@ -163,7 +163,7 @@ They `____` completed the space station project before the target deadline arriv
 
 ### 4
 
-The brave firefighter was honored as a national `____` for saving lives during the disaster (at last).
+The brave firefighter was honored as a national `____` for saving lives during the disaster.
 
 - [x] hero
 - [ ] at last
@@ -173,11 +173,11 @@ The brave firefighter was honored as a national `____` for saving lives during t
 
 ### 5
 
-It took many years for the scientific community to recognize her major achievement (`____`).
+It took many years for the scientific community to `____` her major achievement.
 
-- [x] by the time
-- [ ] eighteenth
-- [ ] he'd
+- [x] recognize
+- [ ] by the time
+- [ ] hadn't
 
 > **解析**：recognize 为及物动词，意为“认可、承认、认出”。接名词作宾语（recognize her achievement）。
 

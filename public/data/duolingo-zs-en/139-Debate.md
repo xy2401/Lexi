@@ -70,7 +70,7 @@ disagree with 表示"不同意"。at all 用于加强否定语气。
    > **解析**：disagree 为动词，前缀 dis- 表示否定，意为“不同意、持异议”。disagree with sb. 表示“不同意某人”。
 
 3. **中文**：我们必须共同努力来解决我们城市所面临的环境挑战。  
-   **英文**：We must work together to solve the environmental challenges facing our city (at all).
+   **英文**：We must work together to solve the environmental challenges facing our city.
    > **解析**：solve 为动词，意为“解决、解答”。solve a problem/challenge 表示“解决问题/挑战”。名词形式为 solution。
 
 4. **中文**：经理欢迎任何用以提高工作效率的建设性建议。  
@@ -111,7 +111,7 @@ disagree with 表示"不同意"。at all 用于加强否定语气。
 2. It is completely normal for team members to disagree during a debate.
    > **中文**：团队成员在辩论中持有不同意见是完全正常的。
 
-3. We must work together to solve the environmental challenges facing our city (at all).
+3. We must work together to solve the environmental challenges facing our city.
    > **中文**：我们必须共同努力来解决我们城市所面临的环境挑战。
 
 4. The manager welcomed any constructive suggestion to improve workplace efficiency.
@@ -165,11 +165,11 @@ It is completely normal for team members to `____` during a debate.
 
 ### 3
 
-We must work together to solve the environmental challenges facing our city (`____`).
+We must work together to `____` the environmental challenges facing our city.
 
-- [x] at all
-- [ ] chosen
-- [ ] extremely
+- [x] solve
+- [ ] at all
+- [ ] enemy
 
 > **解析**：solve 为动词，意为“解决、解答”。solve a problem/challenge 表示“解决问题/挑战”。名词形式为 solution。
 

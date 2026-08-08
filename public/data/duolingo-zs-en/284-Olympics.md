@@ -94,7 +94,7 @@ anticipated, australian, brazilian, break, bronze, close, determination, expecte
    > **解析**：`sportsmanship` 是不可数名词，意为“体育精神、运动员风范”。
 
 8. **中文**：她一整个赛季都在不知疲倦地拼搏，以取得奥运决赛的资格。  
-   **英文**：She worked tirelessly all season to qualify for the Olympic final event (expected to).
+   **英文**：She worked tirelessly all season to qualify for the Olympic final event.
    > **解析**：`qualify (for sth.)` 是动词，意为“取得资格、符合条件”。
 
 9. **中文**：数以千计激动的观众挤满了体育场观看开幕式。  
@@ -130,7 +130,7 @@ anticipated, australian, brazilian, break, bronze, close, determination, expecte
 7. The runner showed incredible sportsmanship by helping his injured competitor cross the finish line about determination.
    > **中文**：这名跑者通过帮助受伤的对手跨过终点线展现出了令人难以置信的体育精神。
 
-8. She worked tirelessly all season to qualify for the Olympic final event (expected to).
+8. She worked tirelessly all season to qualify for the Olympic final event.
    > **中文**：她一整个赛季都在不知疲倦地拼搏，以取得奥运决赛的资格。
 
 9. Thousands of excited spectators filled the stadium to watch the opening ceremony.
@@ -219,11 +219,11 @@ The runner showed incredible sportsmanship by helping his injured competitor cro
 
 ### 8
 
-She worked tirelessly all season to qualify for the Olympic final event (`____`).
+She worked tirelessly all season to `____` for the Olympic final event.
 
-- [x] expected to
-- [ ] following
-- [ ] looking ahead to
+- [x] qualify
+- [ ] expected to
+- [ ] inspiring
 
 > **解析**：`qualify (for sth.)` 是动词，意为“取得资格、符合条件”。
 

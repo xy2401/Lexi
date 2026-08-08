@@ -112,11 +112,11 @@ the trouble with（……的问题在于）、point of view（观点）、play a
    > **解析**：`suspicion` 是名词，意为“怀疑、猜疑”，搭配 `raise suspicion`。
 
 9. **中文**：团队能否在截止日期前完成项目是令人怀疑的。  
-   **英文**：It is doubtful whether the team can finish the project before deadline (everything that).
+   **英文**：It is doubtful whether the team can finish the project before deadline.
    > **解析**：`doubtful` 是形容词，句型 `It is doubtful whether...`（……令人怀疑）。
 
 10. **中文**：他的问题在于他从不承担责任。  
-   **英文**：The trouble with him is that he never takes responsibility (fed up).
+   **英文**：The trouble with him is that he never takes responsibility.
    > **解析**：`the trouble with sb is that...` 是用于指出问题所在的主从复合句型。
 
 </quiz-sentence-builder>
@@ -147,10 +147,10 @@ the trouble with（……的问题在于）、point of view（观点）、play a
 8. Her sudden change of opinion raised suspicion among her colleagues.
    > **中文**：她立场的突然转变引发了同事们的怀疑。
 
-9. It is doubtful whether the team can finish the project before deadline (everything that).
+9. It is doubtful whether the team can finish the project before deadline.
    > **中文**：团队能否在截止日期前完成项目是令人怀疑的。
 
-10. The trouble with him is that he never takes responsibility (fed up).
+10. The trouble with him is that he never takes responsibility.
    > **中文**：他的问题在于他从不承担责任。
 
 </quiz-listening>
@@ -243,7 +243,7 @@ Her sudden change of opinion raised `____` among her colleagues.
 
 ### 9
 
-It is `____` whether the team can finish the project before deadline (everything that).
+It is `____` whether the team can finish the project before deadline.
 
 - [x] doubtful
 - [ ] fed up
@@ -253,7 +253,7 @@ It is `____` whether the team can finish the project before deadline (everything
 
 ### 10
 
-`____` him is that he never takes responsibility (fed up).
+`____` him is that he never takes responsibility.
 
 - [x] the trouble with
 - [ ] fed up

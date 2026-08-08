@@ -62,11 +62,11 @@ any, anyway, as much as, at the moment, cab, change the subject, either, even, f
    > **解析**：insist 不及物动词，意为“坚持；坚决要求”，常与介词 on 连用（insist on doing）。
 
 3. **中文**：在不得不向同学们道别之前，我们给彼此送上了拥抱。  
-   **英文**：We gave each other big hugs before we had to say goodbye to our classmates (as much as).
+   **英文**：We gave each other big hugs before we had to say goodbye to our classmates.
    > **解析**：say goodbye to 动词短语，意为“向……告别/道别”。
 
 4. **中文**：看着家庭老照片总会让我想念我童年的家。  
-   **英文**：Looking at old family photos always makes me miss my childhood home (at the moment).
+   **英文**：Looking at old family photos always makes me miss my childhood home.
    > **解析**：miss 及物动词，在此意为“想念；怀念”；也可指“错过”。
 
 5. **中文**：聊天聊到半夜后，我们打了一辆出租车回家。  
@@ -74,7 +74,7 @@ any, anyway, as much as, at the moment, cab, change the subject, either, even, f
    > **解析**：cab 可数名词，意为“出租车”，与 taxi 同义。
 
 6. **中文**：下起了大雨，但我们无论如何还是决定见个面。  
-   **英文**：It started to rain heavily, but we decided to meet up anyway (change the subject).
+   **英文**：It started to rain heavily, but we decided to meet up anyway.
    > **解析**：anyway 副词，意为“无论如何；总之”，常用于句末表示折回主题或坚持决定。
 
 7. **中文**：他们因为选哪部电影小吵了一架，但很快就和好了。  
@@ -103,16 +103,16 @@ any, anyway, as much as, at the moment, cab, change the subject, either, even, f
 2. My old friend began to insist on paying for our shared dinner.
    > **中文**：我的老朋友开始坚持要为我们合吃的晚餐买单。
 
-3. We gave each other big hugs before we had to say goodbye to our classmates (as much as).
+3. We gave each other big hugs before we had to say goodbye to our classmates.
    > **中文**：在不得不向同学们道别之前，我们给彼此送上了拥抱。
 
-4. Looking at old family photos always makes me miss my childhood home (at the moment).
+4. Looking at old family photos always makes me miss my childhood home.
    > **中文**：看着家庭老照片总会让我想念我童年的家。
 
 5. After chatting until midnight, we called a taxi cab to get back home.
    > **中文**：聊天聊到半夜后，我们打了一辆出租车回家。
 
-6. It started to rain heavily, but we decided to meet up anyway (change the subject).
+6. It started to rain heavily, but we decided to meet up anyway.
    > **中文**：下起了大雨，但我们无论如何还是决定见个面。
 
 7. They had a minor fight about the movie choice, but soon made up.
@@ -157,21 +157,21 @@ My old friend began to `____` on paying for our shared dinner.
 
 ### 3
 
-We gave each other big hugs before we had to say goodbye to our classmates (`____`).
+We gave each other big hugs before we had to `____` our classmates.
 
-- [x] as much as
-- [ ] at the moment
-- [ ] even
+- [x] say goodbye to
+- [ ] as much as
+- [ ] either
 
 > **解析**：say goodbye to 动词短语，意为“向……告别/道别”。
 
 ### 4
 
-Looking at old family photos always makes me miss my childhood home (`____`).
+Looking at old family photos always makes me `____` my childhood home.
 
-- [x] at the moment
-- [ ] cab
-- [ ] fight
+- [x] miss
+- [ ] at the moment
+- [ ] even
 
 > **解析**：miss 及物动词，在此意为“想念；怀念”；也可指“错过”。
 
@@ -187,7 +187,7 @@ After chatting until midnight, we called a taxi `____` to get back home.
 
 ### 6
 
-It started to rain heavily, but we decided to meet up `____`way (change the subject).
+It started to rain heavily, but we decided to meet up `____`way.
 
 - [x] any
 - [ ] either

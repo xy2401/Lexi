@@ -92,7 +92,7 @@ must have / must not have 是对过去事情的推测："一定是……""一定
    > **解析**：`from time to time` 是时间副词短语，意为“偶尔、有时”。
 
 5. **中文**：我好几年没打网球了，所以现在完全生疏了。  
-   **英文**：I haven't played tennis for years, so I am completely out of practice (catch up).
+   **英文**：I haven't played tennis for years, so I am completely out of practice.
    > **解析**：`be out of practice` 是固定短语，意为“生疏的、缺少练习的”。
 
 6. **中文**：今天早上她费了好大劲才找到丢失的报告。  
@@ -112,7 +112,7 @@ must have / must not have 是对过去事情的推测："一定是……""一定
    > **解析**：`tough` 是形容词，意为“艰难的、棘手的”，修饰名词 `day`。
 
 10. **中文**：那个可怜的小家伙整个早晨都在寒雨中发抖。  
-   **英文**：The poor thing was shivering in the cold rain all morning (from time to time).
+   **英文**：The poor thing was shivering in the cold rain all morning.
    > **解析**：`poor thing` 是日常口语表达，意为“可怜的人/可怜的小家伙”。
 
 </quiz-sentence-builder>
@@ -131,7 +131,7 @@ must have / must not have 是对过去事情的推测："一定是……""一定
 4. We all make minor mistakes from time to time, so don't be discouraged.
    > **中文**：我们所有人偶尔都会犯些小错，所以不要泄气。
 
-5. I haven't played tennis for years, so I am completely out of practice (catch up).
+5. I haven't played tennis for years, so I am completely out of practice.
    > **中文**：我好几年没打网球了，所以现在完全生疏了。
 
 6. She had a hard time finding the missing report this morning.
@@ -146,7 +146,7 @@ must have / must not have 是对过去事情的推测："一定是……""一定
 9. It has been a tough day for the customer service team.
    > **中文**：今天对客服团队来说是艰难的一天。
 
-10. The poor thing was shivering in the cold rain all morning (from time to time).
+10. The poor thing was shivering in the cold rain all morning.
    > **中文**：那个可怜的小家伙整个早晨都在寒雨中发抖。
 
 </quiz-listening>
@@ -199,11 +199,11 @@ We all make minor mistakes `____`, so don't be discouraged.
 
 ### 5
 
-I haven't played tennis for years, so I am completely out of practice (`____`).
+I haven't played tennis for years, so I am completely `____`.
 
-- [x] catch up
-- [ ] cheer
-- [ ] from time to time
+- [x] out of practice
+- [ ] catch up
+- [ ] everybody
 
 > **解析**：`be out of practice` 是固定短语，意为“生疏的、缺少练习的”。
 
@@ -249,7 +249,7 @@ It has been a `____` day for the customer service team.
 
 ### 10
 
-The `____` was shivering in the cold rain all morning (from time to time).
+The `____` was shivering in the cold rain all morning.
 
 - [x] poor thing
 - [ ] from time to time

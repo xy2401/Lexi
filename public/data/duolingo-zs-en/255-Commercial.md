@@ -116,7 +116,7 @@ not only... but also... / neither... nor... / both... and... 是三组并列连�
    > **解析**：`neither... nor...` 意为“既不……也不……”，连接并列主语。
 
 10. **中文**：这款新手机的卓越品质一定会给消费者留下深刻印象。  
-   **英文**：The outstanding quality of the new phone will certainly impress consumers (get in shape).
+   **英文**：The outstanding quality of the new phone will certainly impress consumers.
    > **解析**：`impress` 作及物动词，意为“给……留下深刻印象”，宾语为 `consumers`。
 
 </quiz-sentence-builder>
@@ -150,7 +150,7 @@ not only... but also... / neither... nor... / both... and... 是三组并列连�
 9. Neither misleading promises nor low-quality materials are used in our products.
    > **中文**：我们的产品既不使用误导性承诺，也不使用劣质材料。
 
-10. The outstanding quality of the new phone will certainly impress consumers (get in shape).
+10. The outstanding quality of the new phone will certainly impress consumers.
    > **中文**：这款新手机的卓越品质一定会给消费者留下深刻印象。
 
 </quiz-listening>
@@ -253,7 +253,7 @@ The design of this furniture is `____` stylish and highly functional.
 
 ### 10
 
-The outstanding quality of the new phone will certainly `____` consumers (get in shape).
+The outstanding quality of the new phone will certainly `____` consumers.
 
 - [x] impress
 - [ ] get in shape

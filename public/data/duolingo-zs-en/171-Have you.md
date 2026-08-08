@@ -70,7 +70,7 @@ in common 是谈论共同爱好的核心搭配：We have sports in common. typic
    > **解析**：in common 为固定介词短语，常用结构 have sth. in common（有共同点/共同之处）。
 
 5. **中文**：一些队员喜欢游泳，而其他人则喜欢在户外打网球。  
-   **英文**：Some team members prefer swimming while others like playing tennis outdoors (choose to).
+   **英文**：Some team members prefer swimming while others like playing tennis outdoors.
    > **解析**：others 为代名词，常与 some 对应使用（some... others... 意为“一些人……其他人……”）。
 
 6. **中文**：如果你想参加我们的篮球练习，稍后随时顺道来体育馆看看。  
@@ -86,11 +86,11 @@ in common 是谈论共同爱好的核心搭配：We have sports in common. typic
    > **解析**：beaten 是 beat 的过去分词，与 Have 构成现在完成时（Have you ever beaten...），意为“击败/战胜”。
 
 9. **中文**：当环境温度降至摄氏零度时，水就会结冰。  
-   **英文**：Water will freeze when the ambient temperature falls to zero degrees Celsius (hear that).
+   **英文**：Water will freeze when the ambient temperature falls to zero degrees Celsius.
    > **解析**：freeze 为动词原形，意为“结冰、凝固”，作不及物动词使用。
 
 10. **中文**：你听说我们学校的马拉松跑者打破了官方纪录吗？  
-   **英文**：Did you hear that our school marathon runner broke the official record? (in common).
+   **英文**：Did you hear that our school marathon runner broke the official record?
    > **解析**：hear that 意为“听说……”，that 引导宾语从句说明听说的内容（our runner broke the record）。
 
 </quiz-sentence-builder>
@@ -109,7 +109,7 @@ in common 是谈论共同爱好的核心搭配：We have sports in common. typic
 4. Both athletes have a lot in common, including their passionate devotion to basketball.
    > **中文**：这两位运动员有很多共同点，包括他们对篮球的热狂热投入。
 
-5. Some team members prefer swimming while others like playing tennis outdoors (choose to).
+5. Some team members prefer swimming while others like playing tennis outdoors.
    > **中文**：一些队员喜欢游泳，而其他人则喜欢在户外打网球。
 
 6. Feel free to stop by the gym later if you want to join our basketball practice.
@@ -121,10 +121,10 @@ in common 是谈论共同爱好的核心搭配：We have sports in common. typic
 8. Have you ever beaten a championship player in a competitive badminton match.
    > **中文**：你曾经在羽毛球竞技比赛中击败过冠军选手吗？
 
-9. Water will freeze when the ambient temperature falls to zero degrees Celsius (hear that).
+9. Water will freeze when the ambient temperature falls to zero degrees Celsius.
    > **中文**：当环境温度降至摄氏零度时，水就会结冰。
 
-10. Did you hear that our school marathon runner broke the official record? (in common).
+10. Did you hear that our school marathon runner broke the official record?
    > **中文**：你听说我们学校的马拉松跑者打破了官方纪录吗？
 
 </quiz-listening>
@@ -177,11 +177,11 @@ Both athletes have a lot `____`, including their passionate devotion to basketba
 
 ### 5
 
-Some team members prefer swimming while others like playing tennis outdoors (`____`).
+Some team members prefer swimming while `____` like playing tennis outdoors.
 
-- [x] choose to
-- [ ] freeze
-- [ ] in common
+- [x] others
+- [ ] choose to
+- [ ] hear that
 
 > **解析**：others 为代名词，常与 some 对应使用（some... others... 意为“一些人……其他人……”）。
 
@@ -217,7 +217,7 @@ Have you ever `____` a championship player in a competitive badminton match.
 
 ### 9
 
-Water will `____` when the ambient temperature falls to zero degrees Celsius (hear that).
+Water will `____` when the ambient temperature falls to zero degrees Celsius.
 
 - [x] freeze
 - [ ] in common
@@ -227,7 +227,7 @@ Water will `____` when the ambient temperature falls to zero degrees Celsius (he
 
 ### 10
 
-Did you `____` our school marathon runner broke the official record? (in common).
+Did you `____` our school marathon runner broke the official record?
 
 - [x] hear that
 - [ ] interest

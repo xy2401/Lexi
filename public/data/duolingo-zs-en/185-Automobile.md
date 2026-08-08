@@ -54,7 +54,7 @@ have been / have not been / haven't been / has / been 构成现在完成时，�
 <quiz-sentence-builder>
 
 1. **中文**：我们需要在下一个加油站停靠加满油箱。  
-   **英文**：We need to stop at the next gas station to fill up the tank (back seat).
+   **英文**：We need to stop at the next gas station to fill up the tank.
    > **解析**：gas station 名词短语，意为“加油站”（美式英语），英式英语多用 petrol station。
 
 2. **中文**：司机注意到轮胎爆胎了，便把车停在了路边。  
@@ -66,19 +66,19 @@ have been / have not been / haven't been / has / been 构成现在完成时，�
    > **解析**：trunk 可数名词，在此意为“汽车后备箱”（美式），英式为 boot。
 
 4. **中文**：接近红灯时，请轻踩煞车踏板。  
-   **英文**：Press the brake pedal gently when you approach the red traffic light (car wash).
+   **英文**：Press the brake pedal gently when you approach the red traffic light.
    > **解析**：brake 可作名词或动词，在此作名词意为“刹车；制动器”。
 
 5. **中文**：他用雨刷清理前挡风玻璃上的雨水。  
-   **英文**：He used the wipers to clear the rain off the front windshield (flat tire).
+   **英文**：He used the wipers to clear the rain off the front windshield.
    > **解析**：windshield 可数名词，意为“（汽车的前）挡风玻璃”（美式），英式为 windscreen。
 
 6. **中文**：在左转之前，记得使用你的转向灯。  
-   **英文**：Remember to use your turn signal before making a left turn (front seat).
+   **英文**：Remember to use your turn signal before making a left turn.
    > **解析**：turn signal 名词短语，意为“转向灯；指示灯”（美式），英式常用 indicator。
 
 7. **中文**：穿过黑暗隧道时，你应该打开车前大灯。  
-   **英文**：You should turn on your headlights when driving through the dark tunnel (gas station).
+   **英文**：You should turn on your headlights when driving through the dark tunnel.
    > **解析**：headlight 可数名词，常用复数 headlights，意为“（汽车）前大灯”。
 
 8. **中文**：我们在机场服务柜台领取了租来的汽车。  
@@ -86,18 +86,18 @@ have been / have not been / haven't been / has / been 构成现在完成时，�
    > **解析**：rental car 名词短语，意为“租赁汽车；出租车”，rental 作定语修饰 car。
 
 9. **中文**：机修工建议每五千英里做一次定期机油更换。  
-   **英文**：The mechanic recommended a regular oil change every five thousand miles (have been).
+   **英文**：The mechanic recommended a regular oil change every five thousand miles.
    > **解析**：oil change 名词短语，意为“更换机油”，oil 意为机油，change 表示更换。
 
 10. **中文**：在长途公路旅行后，我们把脏车开到了洗车场。  
-   **英文**：After the long road trip, we took our dirty vehicle to the car wash (have not been).
+   **英文**：After the long road trip, we took our dirty vehicle to the car wash.
    > **解析**：car wash 组合名词，意为“洗车场；洗车服务”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We need to stop at the next gas station to fill up the tank (back seat).
+1. We need to stop at the next gas station to fill up the tank.
    > **中文**：我们需要在下一个加油站停靠加满油箱。
 
 2. The driver noticed a flat tire and pulled over to the side of the road.
@@ -106,25 +106,25 @@ have been / have not been / haven't been / has / been 构成现在完成时，�
 3. Please put all your heavy luggage into the trunk of the car.
    > **中文**：请把你所有的沉重行李放进汽车后备箱。
 
-4. Press the brake pedal gently when you approach the red traffic light (car wash).
+4. Press the brake pedal gently when you approach the red traffic light.
    > **中文**：接近红灯时，请轻踩煞车踏板。
 
-5. He used the wipers to clear the rain off the front windshield (flat tire).
+5. He used the wipers to clear the rain off the front windshield.
    > **中文**：他用雨刷清理前挡风玻璃上的雨水。
 
-6. Remember to use your turn signal before making a left turn (front seat).
+6. Remember to use your turn signal before making a left turn.
    > **中文**：在左转之前，记得使用你的转向灯。
 
-7. You should turn on your headlights when driving through the dark tunnel (gas station).
+7. You should turn on your headlights when driving through the dark tunnel.
    > **中文**：穿过黑暗隧道时，你应该打开车前大灯。
 
 8. We picked up our rental car at the airport service counter.
    > **中文**：我们在机场服务柜台领取了租来的汽车。
 
-9. The mechanic recommended a regular oil change every five thousand miles (have been).
+9. The mechanic recommended a regular oil change every five thousand miles.
    > **中文**：机修工建议每五千英里做一次定期机油更换。
 
-10. After the long road trip, we took our dirty vehicle to the car wash (have not been).
+10. After the long road trip, we took our dirty vehicle to the car wash.
    > **中文**：在长途公路旅行后，我们把脏车开到了洗车场。
 
 </quiz-listening>
@@ -137,11 +137,11 @@ have been / have not been / haven't been / has / been 构成现在完成时，�
 
 ### 1
 
-We need to stop at the next gas station to fill up the tank (`____`).
+We need to stop at the next `____` to fill up the tank.
 
-- [x] back seat
-- [ ] been
-- [ ] front seat
+- [x] gas station
+- [ ] back seat
+- [ ] flat tire
 
 > **解析**：gas station 名词短语，意为“加油站”（美式英语），英式英语多用 petrol station。
 
@@ -167,7 +167,7 @@ Please put all your heavy luggage into the `____` of the car.
 
 ### 4
 
-Press the `____` pedal gently when you approach the red traffic light (car wash).
+Press the `____` pedal gently when you approach the red traffic light.
 
 - [x] brake
 - [ ] flat tire
@@ -177,7 +177,7 @@ Press the `____` pedal gently when you approach the red traffic light (car wash)
 
 ### 5
 
-He used the wipers to clear the rain off the front `____` (flat tire).
+He used the wipers to clear the rain off the front `____`.
 
 - [x] windshield
 - [ ] flat tire
@@ -187,21 +187,21 @@ He used the wipers to clear the rain off the front `____` (flat tire).
 
 ### 6
 
-Remember to use your turn signal before making a left turn (`____`).
+Remember to use your `____` before making a left turn.
 
-- [x] front seat
-- [ ] gas station
-- [ ] haven't been
+- [x] turn signal
+- [ ] front seat
+- [ ] have not been
 
 > **解析**：turn signal 名词短语，意为“转向灯；指示灯”（美式），英式常用 indicator。
 
 ### 7
 
-You should turn on your headlights when driving through the dark tunnel (`____`).
+You should turn on your `____`s when driving through the dark tunnel.
 
-- [x] gas station
-- [ ] has
-- [ ] headlight
+- [x] headlight
+- [ ] gas station
+- [ ] haven't been
 
 > **解析**：headlight 可数名词，常用复数 headlights，意为“（汽车）前大灯”。
 
@@ -217,17 +217,17 @@ We picked up our `____` at the airport service counter.
 
 ### 9
 
-The mechanic recommended a regular oil change every five thousand miles (have `____`).
+The mechanic recommended a regular `____` every five thousand miles.
 
-- [x] been
-- [ ] have not been
-- [ ] oil change
+- [x] oil change
+- [ ] have been
+- [ ] insurance
 
 > **解析**：oil change 名词短语，意为“更换机油”，oil 意为机油，change 表示更换。
 
 ### 10
 
-After the long road trip, we took our dirty vehicle to the `____` (have not been).
+After the long road trip, we took our dirty vehicle to the `____`.
 
 - [x] car wash
 - [ ] haven't been

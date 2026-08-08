@@ -78,15 +78,15 @@ Hollywood, adjust, agriculture, artistic, best way to learn, best way to meet, b
    > **解析**：`give sth/it a chance` 是常用表达，意为“给……一个机会”。
 
 5. **中文**：离开安静的老家去演艺界追梦是一个巨大的风险。  
-   **英文**：Leaving your quiet hometown to pursue a dream in showbiz is a big risk (best way to learn).
+   **英文**：Leaving your quiet hometown to pursue a dream in showbiz is a big risk Hollywood.
    > **解析**：`take a risk` 意为“冒风险、承担风险”。
 
 6. **中文**：我家乡的人们以友好和勤劳而闻名。  
-   **英文**：People in my hometown are known for being friendly and hardworking (best way to meet).
+   **英文**：People in my hometown are known for being friendly and hardworking.
    > **解析**：`hardworking` 是形容词，意为“勤劳的、努力工作的”。
 
 7. **中文**：你应当充分利用这座城市丰富的文化资源。  
-   **英文**：You should make the most of the rich cultural resources in the city (broadway musical).
+   **英文**：You should make the most of the rich cultural resources in the city.
    > **解析**：`make the most of sth` 是固定短语，意为“充分利用/善用某物”。
 
 8. **中文**：她喜欢回到家乡，欣赏安详宁静的周围环境。  
@@ -98,7 +98,7 @@ Hollywood, adjust, agriculture, artistic, best way to learn, best way to meet, b
    > **解析**：`small but beautiful` 意为“小巧而美丽、精致秀丽”。
 
 10. **中文**：市中心的住房质量可能达不到你的标准。  
-   **英文**：The housing quality in the city center may not be up to your standards (far from her home).
+   **英文**：The housing quality in the city center may not be up to your standards.
    > **解析**：`up to one's standards` 意为“达到某人的标准”。
 
 </quiz-sentence-builder>
@@ -117,13 +117,13 @@ Hollywood, adjust, agriculture, artistic, best way to learn, best way to meet, b
 4. Don't reject city life right away; you should give it a chance first.
    > **中文**：不要立刻拒绝城市生活；你首先应该给它一个机会试试。
 
-5. Leaving your quiet hometown to pursue a dream in showbiz is a big risk (best way to learn).
+5. Leaving your quiet hometown to pursue a dream in showbiz is a big risk Hollywood.
    > **中文**：离开安静的老家去演艺界追梦是一个巨大的风险。
 
-6. People in my hometown are known for being friendly and hardworking (best way to meet).
+6. People in my hometown are known for being friendly and hardworking.
    > **中文**：我家乡的人们以友好和勤劳而闻名。
 
-7. You should make the most of the rich cultural resources in the city (broadway musical).
+7. You should make the most of the rich cultural resources in the city.
    > **中文**：你应当充分利用这座城市丰富的文化资源。
 
 8. She enjoys returning home to admire the peaceful green surroundings.
@@ -132,7 +132,7 @@ Hollywood, adjust, agriculture, artistic, best way to learn, best way to meet, b
 9. My hometown is small but beautiful with breathtaking mountain scenery.
    > **中文**：我的家乡虽小但风景如画，拥有令人惊叹的山景。
 
-10. The housing quality in the city center may not be up to your standards (far from her home).
+10. The housing quality in the city center may not be up to your standards.
    > **中文**：市中心的住房质量可能达不到你的标准。
 
 </quiz-listening>
@@ -185,9 +185,9 @@ Don't reject city life right away; you should `____` first.
 
 ### 5
 
-Leaving your quiet hometown to pursue a dream in showbiz is a big risk (`____`).
+Leaving your quiet hometown to pursue a dream in showbiz is a big risk `____`.
 
-- [x] best way to learn
+- [x] Hollywood
 - [ ] best way to meet
 - [ ] far from her home
 
@@ -195,21 +195,21 @@ Leaving your quiet hometown to pursue a dream in showbiz is a big risk (`____`).
 
 ### 6
 
-People in my hometown are known for being friendly and hardworking (`____`).
+People in my hometown are known for being friendly and `____`.
 
-- [x] best way to meet
-- [ ] broadway musical
-- [ ] full of unique opportunities
+- [x] hardworking
+- [ ] best way to meet
+- [ ] far from her home
 
 > **解析**：`hardworking` 是形容词，意为“勤劳的、努力工作的”。
 
 ### 7
 
-You should make the most of the rich cultural resources in the city (`____`).
+You should `____` of the rich cultural resources in the city.
 
-- [x] broadway musical
-- [ ] conventional
-- [ ] give it a chance
+- [x] make the most
+- [ ] broadway musical
+- [ ] full of unique opportunities
 
 > **解析**：`make the most of sth` 是固定短语，意为“充分利用/善用某物”。
 
@@ -235,11 +235,11 @@ My hometown is `____` with breathtaking mountain scenery.
 
 ### 10
 
-The housing quality in the city center may not be up to your standards (`____`).
+The housing quality in the city center may not be `____`.
 
-- [x] far from her home
-- [ ] full of unique opportunities
-- [ ] looking to
+- [x] up to your standards
+- [ ] far from her home
+- [ ] laundromat
 
 > **解析**：`up to one's standards` 意为“达到某人的标准”。
 

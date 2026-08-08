@@ -94,11 +94,11 @@ fall asleep（入睡）→ fallen asleep（已入睡）。ring → rang → rung
    > **解析**：stressed 为形容词，意为“感到有压力的”，用于修饰人（She feels stressed）。形容事物令人紧张用 stressful（a stressful task）。
 
 9. **中文**：一整天坐在不合身形的椅子上会让你的下背部感到不舒服。  
-   **英文**：Sitting in an ill-fitting chair all day makes your lower back uncomfortable (fall asleep).
+   **英文**：Sitting in an ill-fitting chair all day makes your lower back uncomfortable.
    > **解析**：uncomfortable 为形容词，前缀 un- 表示否定，意为“不舒服的、不自在的”。在句中作宾语补足语。
 
 10. **中文**：在帮忙做脏累的花园家务之前，你应当换一身衣服。  
-   **英文**：You should change your clothes before helping with the dirty garden chores (fallen asleep).
+   **英文**：You should change your clothes before helping with the dirty garden chores.
    > **解析**：change 为动词，意为“更换、改变”。change your clothes 表达“换衣服”。
 
 </quiz-sentence-builder>
@@ -129,10 +129,10 @@ fall asleep（入睡）→ fallen asleep（已入睡）。ring → rang → rung
 8. She feels very stressed because of the tight deadline for her presentation.
    > **中文**：因为演示文稿的截止时间很紧，她感到压力很大。
 
-9. Sitting in an ill-fitting chair all day makes your lower back uncomfortable (fall asleep).
+9. Sitting in an ill-fitting chair all day makes your lower back uncomfortable.
    > **中文**：一整天坐在不合身形的椅子上会让你的下背部感到不舒服。
 
-10. You should change your clothes before helping with the dirty garden chores (fallen asleep).
+10. You should change your clothes before helping with the dirty garden chores.
    > **中文**：在帮忙做脏累的花园家务之前，你应当换一身衣服。
 
 </quiz-listening>
@@ -225,17 +225,17 @@ She feels very `____` because of the tight deadline for her presentation.
 
 ### 9
 
-Sitting in an ill-fitting chair all day makes your lower back uncomfortable (`____`).
+Sitting in an ill-fitting chair all day makes your lower back `____`.
 
-- [x] fall asleep
-- [ ] fallen asleep
-- [ ] lots of
+- [x] uncomfortable
+- [ ] fall asleep
+- [ ] kiss
 
 > **解析**：uncomfortable 为形容词，前缀 un- 表示否定，意为“不舒服的、不自在的”。在句中作宾语补足语。
 
 ### 10
 
-You should `____` your clothes before helping with the dirty garden chores (fallen asleep).
+You should `____` your clothes before helping with the dirty garden chores.
 
 - [x] change
 - [ ] help

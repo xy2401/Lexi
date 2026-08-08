@@ -100,7 +100,7 @@ age, capture, charm, designed, draw your attention to, exhibit, formerly, herita
    > **解析**：`noteworthy` 是形容词，由 `note` + `worthy` 复合而成，意为“值得注意的、显著的”。
 
 10. **中文**：这座堡垒是由一位著名建筑师设计的，用于保卫港口。  
-   **英文**：The fortress was designed by a famous architect to defend the harbor (in particular).
+   **英文**：The fortress was designed by a famous architect to defend the harbor.
    > **解析**：`designed` 是过去分词，在句中构成被动语态 `was designed by`，意为“被……设计”。
 
 </quiz-sentence-builder>
@@ -134,7 +134,7 @@ age, capture, charm, designed, draw your attention to, exhibit, formerly, herita
 9. The museum guide highlighted several noteworthy features of the ancient pottery.
    > **中文**：博物馆导游强调了古陶器的几个值得注意的特征。
 
-10. The fortress was designed by a famous architect to defend the harbor (in particular).
+10. The fortress was designed by a famous architect to defend the harbor.
    > **中文**：这座堡垒是由一位著名建筑师设计的，用于保卫港口。
 
 </quiz-listening>
@@ -237,7 +237,7 @@ The museum guide `____`ed several noteworthy features of the ancient pottery.
 
 ### 10
 
-The fortress was `____` by a famous architect to defend the harbor (in particular).
+The fortress was `____` by a famous architect to defend the harbor.
 
 - [x] designed
 - [ ] masterpiece

@@ -68,7 +68,7 @@ had / hadn't 是过去完成时，用来讲述家族往事：She hadn't met her 
    > **解析**：immediate 在此处作定语，immediate family 意为“直系亲属/近亲”（指父母、配偶、子女、同胞）。
 
 5. **中文**：家庭聚会上的大多数客人都是中年成年人。  
-   **英文**：Most of the guests at the family reunion were middle-aged adults (extended family).
+   **英文**：Most of the guests at the family reunion were middle-aged adults.
    > **解析**：middle-aged 为复合形容词，意为“中年的”（通常指 40 到 60 岁），修饰 adults。
 
 6. **中文**：我哥哥和我嫂子（弟媳）刚刚搬进了我们父母附近的新房子。  
@@ -107,7 +107,7 @@ had / hadn't 是过去完成时，用来讲述家族往事：She hadn't met her 
 4. Only members of the immediate family were invited to the private anniversary dinner.
    > **中文**：只有直系亲属成员被邀请参加了这次私人周年纪念晚餐。
 
-5. Most of the guests at the family reunion were middle-aged adults (extended family).
+5. Most of the guests at the family reunion were middle-aged adults.
    > **中文**：家庭聚会上的大多数客人都是中年成年人。
 
 6. My brother and my sister-in-law just moved into a new house near our parents.
@@ -175,11 +175,11 @@ Only members of the `____` family were invited to the private anniversary dinner
 
 ### 5
 
-Most of the guests at the family reunion were middle-aged adults (`____`).
+Most of the guests at the family reunion were `____` adults.
 
-- [x] extended family
-- [ ] female
-- [ ] hadn't
+- [x] middle-aged
+- [ ] extended family
+- [ ] had
 
 > **解析**：middle-aged 为复合形容词，意为“中年的”（通常指 40 到 60 岁），修饰 adults。
 

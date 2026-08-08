@@ -62,7 +62,7 @@ agree to, civilization, conquer, defeat, despite, develop, disappear, even thoug
 <quiz-sentence-builder>
 
 1. **中文**：两国同意签署一项具有历史意义的和平条约，以结束数十年的冲突。  
-   **英文**：The two nations agreed to sign a historic peace treaty ending the decades of conflict (agree to).
+   **英文**：The two nations agreed to sign a historic peace treaty ending the decades of conflict agree to.
    > **解析**：`agree to do sth.` 为固定搭配，意为“同意做某事”，后接动词原形。
 
 2. **中文**：尽管冬天气候恶劣，古老的军队仍然跨越山脉向前进发。  
@@ -90,7 +90,7 @@ agree to, civilization, conquer, defeat, despite, develop, disappear, even thoug
    > **解析**：`victory` 名词，意为“胜利；战胜”。常用搭配 `celebrate a victory`（庆祝胜利）。
 
 8. **中文**：罗马帝国在塑造西方文明方面发挥了关键作用。  
-   **英文**：The Roman Empire played a pivotal role in the shaping of Western civilization (even though).
+   **英文**：The Roman Empire played a pivotal role in the shaping of Western civilization conquer.
    > **解析**：`civilization` 名词，意为“文明；文化领域”。`Western civilization`（西方文明）。
 
 9. **中文**：早期人类开始发展农业以获取稳定的粮食供应。  
@@ -105,7 +105,7 @@ agree to, civilization, conquer, defeat, despite, develop, disappear, even thoug
 
 <quiz-listening>
 
-1. The two nations agreed to sign a historic peace treaty ending the decades of conflict (agree to).
+1. The two nations agreed to sign a historic peace treaty ending the decades of conflict agree to.
    > **中文**：两国同意签署一项具有历史意义的和平条约，以结束数十年的冲突。
 
 2. Despite the harsh winter conditions, the ancient army marched forward across the mountains.
@@ -126,7 +126,7 @@ agree to, civilization, conquer, defeat, despite, develop, disappear, even thoug
 7. The general celebrated a decisive victory after defeating the invading enemy forces.
    > **中文**：将军在击败入侵的敌军后庆祝了一场决定性的胜利。
 
-8. The Roman Empire played a pivotal role in the shaping of Western civilization (even though).
+8. The Roman Empire played a pivotal role in the shaping of Western civilization conquer.
    > **中文**：罗马帝国在塑造西方文明方面发挥了关键作用。
 
 9. Early humans began to develop agriculture to secure a stable supply of food.
@@ -145,7 +145,7 @@ agree to, civilization, conquer, defeat, despite, develop, disappear, even thoug
 
 ### 1
 
-The two nations agreed to sign a historic peace treaty ending the decades of conflict (`____`).
+The two nations agreed to sign a historic peace treaty ending the decades of conflict `____`.
 
 - [x] agree to
 - [ ] civilization
@@ -215,9 +215,9 @@ The general celebrated a decisive victory after `____`ing the invading enemy for
 
 ### 8
 
-The Roman Empire played a pivotal role in the shaping of Western civilization (`____`).
+The Roman Empire played a pivotal role in the shaping of Western civilization `____`.
 
-- [x] even though
+- [x] conquer
 - [ ] exist
 - [ ] immigrate
 

@@ -68,7 +68,7 @@ accommodations, along the way, alternate, connection, considerably, end up, in o
    > **解析**：`itinerary` 是名词，指“行程安排、旅行路线图”。在句中作动词 `drafted` 的直接宾语。
 
 2. **中文**：在转乘接驳航班之前，我们在东京中途停留了三个小时。  
-   **英文**：We had a three-hour layover in Tokyo before catching our connecting flight (along the way).
+   **英文**：We had a three-hour layover in Tokyo before catching our connecting flight along the way.
    > **解析**：`layover` 是名词，特指飞行途中的“中途停留/中转等待时间”。搭配 `have a layover in + 地名`。
 
 3. **中文**：巴黎依然是世界上最受欢迎的旅游目的地之一。  
@@ -84,23 +84,23 @@ accommodations, along the way, alternate, connection, considerably, end up, in o
    > **解析**：`carry-on` 作形容词或名词，意为“随身携带的（行李）”。短语 `carry-on bag` 指随身行李箱包。
 
 6. **中文**：埃菲尔铁塔是一座标志性地标，每年吸引数以百万计的游客。  
-   **英文**：The Eiffel Tower is an iconic landmark that attracts millions of visitors each year (end up).
+   **英文**：The Eiffel Tower is an iconic landmark that attracts millions of visitors each year end up.
    > **解析**：`landmark` 是名词，意为“地标、标志性建筑”。复合词由 `land` + `mark` 构成。
 
 7. **中文**：我母亲教我每当周末旅行时都要轻装简行。  
-   **英文**：My mother taught me to travel light whenever I go on weekend trips (in order to).
+   **英文**：My mother taught me to travel light whenever I go on weekend trips in order to.
    > **解析**：`travel light` 是固定动词短语，意为“轻装出行、少带行李”，其中 `light` 作副词修饰 `travel`。
 
 8. **中文**：她内心对漫游的渴望驱使她去了三十多个国家旅行。  
-   **英文**：Her deep sense of wanderlust inspired her to travel to over thirty countries (intend to).
+   **英文**：Her deep sense of wanderlust inspired her to travel to over thirty countries intend to.
    > **解析**：`wanderlust` 是名词，指“漫游癖、对旅行和探索强烈的渴望”，属于不可数名词。
 
 9. **中文**：在到达登机口之前，请务必准备好您的电子登机牌。  
-   **英文**：Make sure to keep your electronic boarding pass ready before arriving at the gate (it's time).
+   **英文**：Make sure to keep your electronic boarding pass ready before arriving at the gate it's time.
    > **解析**：`boarding pass` 是名词短语，意为“登机牌”，由动名词 `boarding` 修饰 `pass`。
 
 10. **中文**：在邮轮旅行期间，他们预订了一天的远足游览去参观一座古老的海岸遗迹。  
-   **英文**：During their cruise, they booked a one-day excursion to an ancient coastal ruin (look into).
+   **英文**：During their cruise, they booked a one-day excursion to an ancient coastal ruin look into.
    > **解析**：`excursion` 指“短途旅行、远足游览”，通常为团体或有组织的小型旅游活动。
 
 </quiz-sentence-builder>
@@ -110,7 +110,7 @@ accommodations, along the way, alternate, connection, considerably, end up, in o
 1. She drafted a detailed travel itinerary before embarking on her trip to Asia about accommodations.
    > **中文**：在启程前往亚洲旅行之前，她起草了一份详细的旅行行程单。
 
-2. We had a three-hour layover in Tokyo before catching our connecting flight (along the way).
+2. We had a three-hour layover in Tokyo before catching our connecting flight along the way.
    > **中文**：在转乘接驳航班之前，我们在东京中途停留了三个小时。
 
 3. Paris remains one of the most popular travel destinations in the world about alternate.
@@ -122,19 +122,19 @@ accommodations, along the way, alternate, connection, considerably, end up, in o
 5. He prefers to travel with just a small carry-on bag to save time at the airport about considerably.
    > **中文**：他喜欢只带一只小型手提行李包旅行，以节省在机场的时间。
 
-6. The Eiffel Tower is an iconic landmark that attracts millions of visitors each year (end up).
+6. The Eiffel Tower is an iconic landmark that attracts millions of visitors each year end up.
    > **中文**：埃菲尔铁塔是一座标志性地标，每年吸引数以百万计的游客。
 
-7. My mother taught me to travel light whenever I go on weekend trips (in order to).
+7. My mother taught me to travel light whenever I go on weekend trips in order to.
    > **中文**：我母亲教我每当周末旅行时都要轻装简行。
 
-8. Her deep sense of wanderlust inspired her to travel to over thirty countries (intend to).
+8. Her deep sense of wanderlust inspired her to travel to over thirty countries intend to.
    > **中文**：她内心对漫游的渴望驱使她去了三十多个国家旅行。
 
-9. Make sure to keep your electronic boarding pass ready before arriving at the gate (it's time).
+9. Make sure to keep your electronic boarding pass ready before arriving at the gate it's time.
    > **中文**：在到达登机口之前，请务必准备好您的电子登机牌。
 
-10. During their cruise, they booked a one-day excursion to an ancient coastal ruin (look into).
+10. During their cruise, they booked a one-day excursion to an ancient coastal ruin look into.
    > **中文**：在邮轮旅行期间，他们预订了一天的远足游览去参观一座古老的海岸遗迹。
 
 </quiz-listening>
@@ -157,7 +157,7 @@ She drafted a detailed travel itinerary before embarking on her trip to Asia abo
 
 ### 2
 
-We had a three-hour layover in Tokyo before catching our connecting flight (`____`).
+We had a three-hour layover in Tokyo before catching our connecting flight `____`.
 
 - [x] along the way
 - [ ] alternate
@@ -197,7 +197,7 @@ He prefers to travel with just a small carry-on bag to save time at the airport 
 
 ### 6
 
-The Eiffel Tower is an iconic landmark that attracts millions of visitors each year (`____`).
+The Eiffel Tower is an iconic landmark that attracts millions of visitors each year `____`.
 
 - [x] end up
 - [ ] in order to
@@ -207,7 +207,7 @@ The Eiffel Tower is an iconic landmark that attracts millions of visitors each y
 
 ### 7
 
-My mother taught me to travel light whenever I go on weekend trips (`____`).
+My mother taught me to travel light whenever I go on weekend trips `____`.
 
 - [x] in order to
 - [ ] intend to
@@ -217,7 +217,7 @@ My mother taught me to travel light whenever I go on weekend trips (`____`).
 
 ### 8
 
-Her deep sense of wanderlust inspired her to travel to over thirty countries (`____`).
+Her deep sense of wanderlust inspired her to travel to over thirty countries `____`.
 
 - [x] intend to
 - [ ] it's time
@@ -227,7 +227,7 @@ Her deep sense of wanderlust inspired her to travel to over thirty countries (`_
 
 ### 9
 
-Make sure to keep your electronic boarding pass ready before arriving at the gate (`____`).
+Make sure to keep your electronic boarding pass ready before arriving at the gate `____`.
 
 - [x] it's time
 - [ ] look into
@@ -237,7 +237,7 @@ Make sure to keep your electronic boarding pass ready before arriving at the gat
 
 ### 10
 
-During their cruise, they booked a one-day excursion to an ancient coastal ruin (`____`).
+During their cruise, they booked a one-day excursion to an ancient coastal ruin `____`.
 
 - [x] look into
 - [ ] next

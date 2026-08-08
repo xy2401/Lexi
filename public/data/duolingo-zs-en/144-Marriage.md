@@ -94,7 +94,7 @@ have/has + 过去分词构成现在完成时。than 用于比较级。
    > **解析**：rarely 为频度副词，意为“很少、罕见地”。在句中修饰动词 speaks。含有否定意味。
 
 9. **中文**：在你老家文化中，典型的婚礼菜单是什么样的？  
-   **英文**：What is a typical wedding menu like in your hometown culture? (in a relationship).
+   **英文**：What is a typical wedding menu like in your hometown culture?
    > **解析**：typical 为形容词，意为“典型的、特有的”。what is ... like? 用于询问某种情况的特征。
 
 10. **中文**：组织一场盛大的婚礼是一项需要周密规划的重大活动。  
@@ -129,7 +129,7 @@ have/has + 过去分词构成现在完成时。than 用于比较级。
 8. The quiet groom rarely speaks in public, but he made a moving speech tonight.
    > **中文**：那种安静的新郎很少在公开场合发言，但他今晚做了一场感人的演讲。
 
-9. What is a typical wedding menu like in your hometown culture? (in a relationship).
+9. What is a typical wedding menu like in your hometown culture?
    > **中文**：在你老家文化中，典型的婚礼菜单是什么样的？
 
 10. Organizing a grand wedding is a major event that requires careful planning.
@@ -225,7 +225,7 @@ The quiet groom `____` speaks in public, but he made a moving speech tonight.
 
 ### 9
 
-What is a `____` wedding menu like in your hometown culture? (in a relationship).
+What is a `____` wedding menu like in your hometown culture?
 
 - [x] typical
 - [ ] in a relationship

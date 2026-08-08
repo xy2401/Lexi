@@ -60,7 +60,7 @@ drawn 是 draw 的过去分词，在这里可能指"被吸引"（drawn to）或"
    > **解析**：disappointed 形容词，意为“感到失望的”，修饰人，常搭配 with 或 at。
 
 3. **中文**：他因忘记母亲的生日晚餐而感到内疚。  
-   **英文**：He felt guilty about forgetting his mother's birthday dinner (be able to).
+   **英文**：He felt guilty about forgetting his mother's birthday dinner.
    > **解析**：guilty 形容词，意为“内疚的；有罪的”，常用 feel guilty about doing something。
 
 4. **中文**：凭常识本可以避免这个愚蠢的错误。  
@@ -101,7 +101,7 @@ drawn 是 draw 的过去分词，在这里可能指"被吸引"（drawn to）或"
 2. She felt extremely disappointed with herself for failing the driving exam.
    > **中文**：她因驾驶考试不及格而对自己感到无比失望。
 
-3. He felt guilty about forgetting his mother's birthday dinner (be able to).
+3. He felt guilty about forgetting his mother's birthday dinner.
    > **中文**：他因忘记母亲的生日晚餐而感到内疚。
 
 4. Using common sense would have prevented this silly mistake.
@@ -155,11 +155,11 @@ She felt extremely `____`ed with herself for failing the driving exam.
 
 ### 3
 
-He felt guilty about forgetting his mother's birthday dinner (`____`).
+He felt `____` about forgetting his mother's birthday dinner.
 
-- [x] be able to
-- [ ] common sense
-- [ ] drunk
+- [x] guilty
+- [ ] be able to
+- [ ] drawn
 
 > **解析**：guilty 形容词，意为“内疚的；有罪的”，常用 feel guilty about doing something。
 

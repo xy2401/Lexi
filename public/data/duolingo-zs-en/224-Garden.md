@@ -76,7 +76,7 @@ best bet, bush, could, cut down, gardener, green thumb, ground, have to be, hire
    > **解析**：`hire` 及物动词，意为“雇佣；聘请”。搭配 `hire sb. to do sth.`。
 
 4. **中文**：她整个早晨都在园艺中心寻找新鲜的有机种子。  
-   **英文**：She spent the morning looking for fresh organic seeds at the garden center (cut down).
+   **英文**：She spent the morning looking for fresh organic seeds at the garden center.
    > **解析**：`looking` 动名词/分词形式，搭配 `look for` 表示“寻找”。短语 `spend time doing sth.`。
 
 5. **中文**：我喜欢在阳光明媚的周末独自一人照顾花坛。  
@@ -84,7 +84,7 @@ best bet, bush, could, cut down, gardener, green thumb, ground, have to be, hire
    > **解析**：`myself` 为反身代词。短语 `all by myself` 意为“完全靠我自己；独自一人”。
 
 6. **中文**：你应该在清晨给西红柿浇水，而不是在烈日灼热的时候。  
-   **英文**：You should water your tomatoes early in the morning rather than under the scorching sun (green thumb).
+   **英文**：You should water your tomatoes early in the morning rather than under the scorching sun.
    > **解析**：`should` 情态动词，用于给出园艺或日常生活的合理建议（意为“应当；应该”）。
 
 7. **中文**：注意不要在可食用的蔬菜床附近喷洒有害化学农药。  
@@ -92,7 +92,7 @@ best bet, bush, could, cut down, gardener, green thumb, ground, have to be, hire
    > **解析**：`spray` 及物动词，意为“喷洒；喷涂”。搭配 `spray sth. on / near sth.`。
 
 8. **中文**：他沿着装饰性的花园篱笆种了一排玫瑰灌木。  
-   **英文**：He planted a row of rose bush plants along the decorative garden fence (have to be).
+   **英文**：He planted a row of rose bush plants along the decorative garden fence.
    > **解析**：`bush` 可数名词，意为“灌木；矮树”，复数形式为 `bushes`。
 
 9. **中文**：我的祖母有精湛的园艺技能（绿手指）；她种植的一切都长得非常茂盛。  
@@ -116,19 +116,19 @@ best bet, bush, could, cut down, gardener, green thumb, ground, have to be, hire
 3. We decided to hire a professional landscaper to remodel our backyard lawn.
    > **中文**：我们决定雇佣一名专业的景观设计师来改造我们的后院草坪。
 
-4. She spent the morning looking for fresh organic seeds at the garden center (cut down).
+4. She spent the morning looking for fresh organic seeds at the garden center.
    > **中文**：她整个早晨都在园艺中心寻找新鲜的有机种子。
 
 5. I enjoy spending sunny weekends taking care of the flowerbeds all by myself.
    > **中文**：我喜欢在阳光明媚的周末独自一人照顾花坛。
 
-6. You should water your tomatoes early in the morning rather than under the scorching sun (green thumb).
+6. You should water your tomatoes early in the morning rather than under the scorching sun.
    > **中文**：你应该在清晨给西红柿浇水，而不是在烈日灼热的时候。
 
 7. Be careful not to spray harmful chemical pesticides near edible vegetable beds.
    > **中文**：注意不要在可食用的蔬菜床附近喷洒有害化学农药。
 
-8. He planted a row of rose bush plants along the decorative garden fence (have to be).
+8. He planted a row of rose bush plants along the decorative garden fence.
    > **中文**：他沿着装饰性的花园篱笆种了一排玫瑰灌木。
 
 9. My grandmother has a green thumb; everything she plants grows abundantly about could.
@@ -177,11 +177,11 @@ We decided to `____` a professional landscaper to remodel our backyard lawn.
 
 ### 4
 
-She spent the morning looking for fresh organic seeds at the garden center (`____`).
+She spent the morning `____` for fresh organic seeds at the garden center.
 
-- [x] cut down
-- [ ] gardener
-- [ ] hire
+- [x] looking
+- [ ] cut down
+- [ ] have to be
 
 > **解析**：`looking` 动名词/分词形式，搭配 `look for` 表示“寻找”。短语 `spend time doing sth.`。
 
@@ -197,11 +197,11 @@ I enjoy spending sunny weekends taking care of the flowerbeds all by `____`.
 
 ### 6
 
-You should water your tomatoes early in the morning rather than under the scorching sun (`____`).
+You `____` water your tomatoes early in the morning rather than under the scorching sun.
 
-- [x] green thumb
-- [ ] ground
-- [ ] lawn
+- [x] should
+- [ ] green thumb
+- [ ] it seems like
 
 > **解析**：`should` 情态动词，用于给出园艺或日常生活的合理建议（意为“应当；应该”）。
 
@@ -217,7 +217,7 @@ Be careful not to `____` harmful chemical pesticides near edible vegetable beds.
 
 ### 8
 
-He planted a row of rose `____` plants along the decorative garden fence (have to be).
+He planted a row of rose `____` plants along the decorative garden fence.
 
 - [x] bush
 - [ ] hire

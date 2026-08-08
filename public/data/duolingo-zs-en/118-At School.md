@@ -86,7 +86,7 @@ confusing 描述事物（令人困惑），confused 描述人（感到困惑）�
    > **解析**：laboratory (简称 lab) 作名词，意为“实验室”。
 
 7. **中文**：我和室友在我们的宿舍房间里复习期中考试。  
-   **英文**：My roommate and I studied for the mid-term exam in our dorm room (dining hall).
+   **英文**：My roommate and I studied for the mid-term exam in our dorm room.
    > **解析**：dorm 作名词，意为“宿舍”。dorm room 表示“宿舍房间”。
 
 8. **中文**：快点，否则我们听历史讲座就要迟到了！  
@@ -98,7 +98,7 @@ confusing 描述事物（令人困惑），confused 描述人（感到困惑）�
    > **解析**：translate 作及物动词，意为“翻译”。translate A into B 意为“把A翻译成B”。
 
 10. **中文**：在字典里查找生词的意思以丰富知识。  
-   **英文**：Look up the meaning of unfamiliar words in a dictionary to expand your knowledge (hurry up).
+   **英文**：Look up the meaning of unfamiliar words in a dictionary to expand your knowledge.
    > **解析**：meaning 作名词，意为“意思，含义”。meaning of words 表示“单词的意思”。
 
 </quiz-sentence-builder>
@@ -123,7 +123,7 @@ confusing 描述事物（令人困惑），confused 描述人（感到困惑）�
 6. Science students conduct chemistry experiments in the university laboratory.
    > **中文**：理科生在大学实验室里做化学实验。
 
-7. My roommate and I studied for the mid-term exam in our dorm room (dining hall).
+7. My roommate and I studied for the mid-term exam in our dorm room.
    > **中文**：我和室友在我们的宿舍房间里复习期中考试。
 
 8. Hurry up or we will be late for the history lecture.
@@ -132,7 +132,7 @@ confusing 描述事物（令人困惑），confused 描述人（感到困惑）�
 9. Could you help me translate this sentence into natural English.
    > **中文**：你能帮我把这个句子翻译成地道的英语吗？
 
-10. Look up the meaning of unfamiliar words in a dictionary to expand your knowledge (hurry up).
+10. Look up the meaning of unfamiliar words in a dictionary to expand your knowledge.
    > **中文**：在字典里查找生词的意思以丰富知识。
 
 </quiz-listening>
@@ -205,10 +205,10 @@ Science students conduct chemistry experiments in the university `____`.
 
 ### 7
 
-My roommate and I studied for the mid-term exam in our dorm room (`____`).
+My roommate and I studied for the mid-term exam in our `____` room.
 
-- [x] dining hall
-- [ ] dorm
+- [x] dorm
+- [ ] dining hall
 - [ ] intermediate
 
 > **解析**：dorm 作名词，意为“宿舍”。dorm room 表示“宿舍房间”。
@@ -235,7 +235,7 @@ Could you help me `____` this sentence into natural English.
 
 ### 10
 
-Look up the `____` of unfamiliar words in a dictionary to expand your knowledge (hurry up).
+Look up the `____` of unfamiliar words in a dictionary to expand your knowledge.
 
 - [x] meaning
 - [ ] hurry up

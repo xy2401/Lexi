@@ -68,7 +68,7 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
    > **解析**：`absolutely not` 为强烈的拒绝副词短语，意为“绝对不行；决不可以”，在日常口语中用于坚决拒绝对方的许可请求。
 
 2. **中文**：这栋房子里的青少年必须遵守规则，在十点宵禁前返回。  
-   **英文**：Teenagers in this house must follow the rule and return before the ten o'clock curfew (as long as).
+   **英文**：Teenagers in this house must follow the rule and return before the ten o'clock curfew.
    > **解析**：`curfew` 可数名词，意为“宵禁；归宿时间限制”。句中 `ten o'clock curfew` 指晚上十点的最晚归家时间。
 
 3. **中文**：如果是那样的话，我们将不得不调整户外野餐的计划。  
@@ -84,11 +84,11 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
    > **解析**：`stay out` 为不及物动词短语，意为“（夜晚）在户外逗留；不回家”。
 
 6. **中文**：如果你能帮我提这些重行李，那将太好了。  
-   **英文**：If you could help me carry these heavy bags, that would be wonderful (do you think i'd be able to).
+   **英文**：If you could help me carry these heavy bags, that would be wonderful.
    > **解析**：`that would be` 为虚拟语气表达，在假设情景下礼貌地对未来的帮助表示赞赏或设想。
 
 7. **中文**：如果我们在预订前先征求经理的许可怎么样？  
-   **英文**：What about if we ask the manager for permission before making a reservation? (how about if).
+   **英文**：What about if we ask the manager for permission before making a reservation?
    > **解析**：`what about if...` 为口语建议句型，意为“要是……怎么样？”，引导提议从句。
 
 8. **中文**：只要你在日落前归还，你就可以借用我的自行车。  
@@ -96,11 +96,11 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
    > **解析**：`as long as` 为条件连词短语，意为“只要”，引导条件状语从句。
 
 9. **中文**：你认为我今天能提早离开去参加家庭预约吗？  
-   **英文**：Do you think I'd be able to leave early today to attend a family appointment? (make sure).
+   **英文**：Do you think I'd be able to leave early today to attend a family appointment?
    > **解析**：`do you think I'd be able to...` 为委婉、礼貌地向他人请求许可的句型（意为“你觉得我能不能……？”）。
 
 10. **中文**：我警告过他没有成年人监管不要在河里游泳。  
-   **英文**：I warned him not to swim in the river without adult supervision about curfew.
+   **英文**：I warned him not to swim in the river without adult supervision about curfew beg.
    > **解析**：`not` 为否定副词，在动词不定式前构成否定式 `not to do sth.`（不要做某事）。
 
 </quiz-sentence-builder>
@@ -110,7 +110,7 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
 1. Absolutely not! You cannot drive the car without a valid driver's license.
    > **中文**：绝对不行！没有有效的驾驶执照你绝不能开车。
 
-2. Teenagers in this house must follow the rule and return before the ten o'clock curfew (as long as).
+2. Teenagers in this house must follow the rule and return before the ten o'clock curfew.
    > **中文**：这栋房子里的青少年必须遵守规则，在十点宵禁前返回。
 
 3. If that's the case, we will have to adjust our plans for the outdoor picnic.
@@ -122,19 +122,19 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
 5. You are allowed to go to the party, but you cannot stay out past midnight.
    > **中文**：你被允许去参加聚会，但你不能在外面逗留到午夜之后。
 
-6. If you could help me carry these heavy bags, that would be wonderful (do you think i'd be able to).
+6. If you could help me carry these heavy bags, that would be wonderful.
    > **中文**：如果你能帮我提这些重行李，那将太好了。
 
-7. What about if we ask the manager for permission before making a reservation? (how about if).
+7. What about if we ask the manager for permission before making a reservation?
    > **中文**：如果我们在预订前先征求经理的许可怎么样？
 
 8. You can borrow my bicycle as long as you return it before sunset (if that's the case) about beg.
    > **中文**：只要你在日落前归还，你就可以借用我的自行车。
 
-9. Do you think I'd be able to leave early today to attend a family appointment? (make sure).
+9. Do you think I'd be able to leave early today to attend a family appointment?
    > **中文**：你认为我今天能提早离开去参加家庭预约吗？
 
-10. I warned him not to swim in the river without adult supervision about curfew.
+10. I warned him not to swim in the river without adult supervision about curfew beg.
    > **中文**：我警告过他没有成年人监管不要在河里游泳。
 
 </quiz-listening>
@@ -157,10 +157,10 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
 
 ### 2
 
-Teenagers in this house must follow the rule and return before the ten o'clock curfew (`____`).
+Teenagers in this house must follow the rule and return before the ten o'clock `____`.
 
-- [x] as long as
-- [ ] ask
+- [x] curfew
+- [ ] as long as
 - [ ] how about if
 
 > **解析**：`curfew` 可数名词，意为“宵禁；归宿时间限制”。句中 `ten o'clock curfew` 指晚上十点的最晚归家时间。
@@ -197,17 +197,17 @@ You are allowed to go to the party, but you can`____` stay out past midnight.
 
 ### 6
 
-If you could help me carry these heavy bags, that would be wonderful (`____`).
+If you could help me carry these heavy bags, `____` wonderful.
 
-- [x] do you think i'd be able to
-- [ ] how about if
-- [ ] past
+- [x] that would be
+- [ ] do you think i'd be able to
+- [ ] not
 
 > **解析**：`that would be` 为虚拟语气表达，在假设情景下礼貌地对未来的帮助表示赞赏或设想。
 
 ### 7
 
-What about if we `____` the manager for permission before making a reservation? (how about if).
+What about if we `____` the manager for permission before making a reservation?
 
 - [x] ask
 - [ ] if that's the case
@@ -217,9 +217,9 @@ What about if we `____` the manager for permission before making a reservation? 
 
 ### 8
 
-You can borrow my bicycle as long as you return it before sunset (if that's the case) about `____`.
+You can borrow my bicycle `____` you return it before sunset (if that's the case) about beg.
 
-- [x] beg
+- [x] as long as
 - [ ] make sure
 - [ ] school night
 
@@ -227,9 +227,9 @@ You can borrow my bicycle as long as you return it before sunset (if that's the 
 
 ### 9
 
-Do you think I'd be able to leave early today to attend a family appointment? (`____`).
+`____` leave early today to attend a family appointment?
 
-- [x] make sure
+- [x] do you think i'd be able to
 - [ ] not
 - [ ] sleepover
 
@@ -237,9 +237,9 @@ Do you think I'd be able to leave early today to attend a family appointment? (`
 
 ### 10
 
-I warned him not to swim in the river without adult supervision about `____`.
+I warned him not to swim in the river without adult supervision about curfew `____`.
 
-- [x] curfew
+- [x] beg
 - [ ] past
 - [ ] stay out
 

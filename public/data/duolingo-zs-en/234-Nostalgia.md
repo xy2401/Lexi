@@ -80,7 +80,7 @@ back, camp, clearly, get, hit it off, homesick, irresponsible, junk food, long-d
    > **解析**：`memorable` 形容词，意为“难忘的；值得纪念的”。
 
 5. **中文**：每年国庆节，全镇人都聚集在主街观看游行。  
-   **英文**：Every year on National Day, the whole town gathered on Main Street to watch the parade (hit it off).
+   **英文**：Every year on National Day, the whole town gathered on Main Street to watch the parade.
    > **解析**：`parade` 可数名词，意为“游行；检阅”。常用搭配 `watch a parade`。
 
 6. **中文**：十几岁时，我们过去常在半夜偷溜出房间去看星星。  
@@ -119,7 +119,7 @@ back, camp, clearly, get, hit it off, homesick, irresponsible, junk food, long-d
 4. Our family trip to the coastal village was one of the most memorable experiences of my youth.
    > **中文**：我们全家的海滨小镇之旅是我年轻时最难忘的经历之一。
 
-5. Every year on National Day, the whole town gathered on Main Street to watch the parade (hit it off).
+5. Every year on National Day, the whole town gathered on Main Street to watch the parade.
    > **中文**：每年国庆节，全镇人都聚集在主街观看游行。
 
 6. As teenagers, we used to sneak out of the house to watch the stars at midnight.
@@ -187,11 +187,11 @@ Our family trip to the coastal village was one of the most `____` experiences of
 
 ### 5
 
-Every year on National Day, the whole town gathered on Main Street to watch the parade (`____`).
+Every year on National Day, the whole town gathered on Main Street to watch the `____`.
 
-- [x] hit it off
-- [ ] homesick
-- [ ] lose touch
+- [x] parade
+- [ ] hit it off
+- [ ] long-distance
 
 > **解析**：`parade` 可数名词，意为“游行；检阅”。常用搭配 `watch a parade`。
 

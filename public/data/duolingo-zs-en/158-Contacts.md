@@ -86,7 +86,7 @@ would you mind if + 从句 是礼貌请求。look forward to + doing。
    > **解析**：sir 为尊称名词，意为“先生”，常用于正式场合向男性长辈或客户表达恭敬。
 
 7. **中文**：无论何时你需要额外细节，都可以随时联系我的经理。  
-   **英文**：You can reach out to my manager whenever you need additional details (get to know).
+   **英文**：You can reach out to my manager whenever you need additional details.
    > **解析**：whenever 为连词，意为“每当、无论何时”，引导时间状语从句（whenever you need...）。
 
 8. **中文**：在商务会议上别人打断你的介绍会让人很恼火。  
@@ -94,7 +94,7 @@ would you mind if + 从句 是礼貌请求。look forward to + doing。
    > **解析**：annoying 为形容词，意为“令人烦恼的/讨厌的”，通常修饰事物或客观状况（It is annoying...）。
 
 9. **中文**：他的雇主在招待会上亲自表扬了他出色的沟通能力。  
-   **英文**：His employer personally praised his excellent communication skills at the reception (hear from).
+   **英文**：His employer personally praised his excellent communication skills at the reception.
    > **解析**：employer 为可数名词，意为“雇主、老板”，指雇用人员的公司或个人。
 
 10. **中文**：如果你愿意的话，我长可以现在就和你交换联系电话。  
@@ -123,13 +123,13 @@ would you mind if + 从句 是礼貌请求。look forward to + doing。
 6. Good morning sir, please allow me to introduce our guest speaker today.
    > **中文**：早上好先生，请允许我介绍我们今天的特邀演讲嘉宾。
 
-7. You can reach out to my manager whenever you need additional details (get to know).
+7. You can reach out to my manager whenever you need additional details.
    > **中文**：无论何时你需要额外细节，都可以随时联系我的经理。
 
 8. It can be annoying when people interrupt your introduction during a business meeting.
    > **中文**：在商务会议上别人打断你的介绍会让人很恼火。
 
-9. His employer personally praised his excellent communication skills at the reception (hear from).
+9. His employer personally praised his excellent communication skills at the reception.
    > **中文**：他的雇主在招待会上亲自表扬了他出色的沟通能力。
 
 10. I can exchange contact numbers with you now, if you like.
@@ -205,11 +205,11 @@ Good morning `____`, please allow me to introduce our guest speaker today.
 
 ### 7
 
-You can reach out to my manager whenever you need additional details (`____`).
+You can reach out to my manager whenever you `____` additional details.
 
-- [x] get to know
-- [ ] go
-- [ ] look forward to
+- [x] need
+- [ ] get to know
+- [ ] let me introduce you to
 
 > **解析**：whenever 为连词，意为“每当、无论何时”，引导时间状语从句（whenever you need...）。
 
@@ -225,7 +225,7 @@ It can be `____` when people interrupt your introduction during a business meeti
 
 ### 9
 
-His `____` personally praised his excellent communication skills at the reception (hear from).
+His `____` personally praised his excellent communication skills at the reception.
 
 - [x] employer
 - [ ] if you like

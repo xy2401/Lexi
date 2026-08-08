@@ -76,7 +76,7 @@ would have / would've 是"would + have + 过去分词"的缩写形式，可以�
    > **解析**：electrical 形容词，意为“电力的；电气的”，修饰名词 repairs。
 
 7. **中文**：他用坚固的木质相框把全家福挂在墙上。  
-   **英文**：He used a sturdy wooden frame to hang the family picture on the wall (feet wide).
+   **英文**：He used a sturdy wooden frame to hang the family picture on the wall.
    > **解析**：frame 可数名词，意为“框架；相框”。
 
 8. **中文**：水槽下方漏水的水管造成了厨房轻微积水。  
@@ -113,7 +113,7 @@ would have / would've 是"would + have + 过去分词"的缩写形式，可以�
 6. Always call a certified professional for serious electrical repairs at home.
    > **中文**：对于家中严重的电路维修，务必请有资质的专业人士。
 
-7. He used a sturdy wooden frame to hang the family picture on the wall (feet wide).
+7. He used a sturdy wooden frame to hang the family picture on the wall.
    > **中文**：他用坚固的木质相框把全家福挂在墙上。
 
 8. A leaking water pipe under the sink caused minor flooding in the kitchen.
@@ -195,10 +195,10 @@ Always call a certified professional for serious `____` repairs at home.
 
 ### 7
 
-He used a sturdy wooden frame to hang the family picture on the wall (`____`).
+He used a sturdy wooden `____` to hang the family picture on the wall.
 
-- [x] feet wide
-- [ ] fit
+- [x] frame
+- [ ] feet wide
 - [ ] inches wide
 
 > **解析**：frame 可数名词，意为“框架；相框”。

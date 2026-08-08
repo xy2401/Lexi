@@ -84,7 +84,7 @@ i don't buy it（我不信）、there's no way（不可能）、nonsense（胡�
    > **解析**：`bleachers` 是复数名词，意为“（体育场的）露天看台、露天座位”。
 
 2. **中文**：让我们在中场休息期间去买些零食和饮料吧。  
-   **英文**：Let's go buy some snacks and drinks during the halftime break (by now).
+   **英文**：Let's go buy some snacks and drinks during the halftime break.
    > **解析**：`halftime` 是名词，意为“（体育比赛的）中场休息”。
 
 3. **中文**：裁判吹响哨子表示技术犯规。  
@@ -92,7 +92,7 @@ i don't buy it（我不信）、there's no way（不可能）、nonsense（胡�
    > **解析**：`referee` 是名词，意为“裁判员”。
 
 4. **中文**：开球前在体育场停车场进行车尾派对是球迷的传统。  
-   **英文**：Tailgating in the stadium parking lot before kickoff is a fan tradition (come on).
+   **英文**：Tailgating in the stadium parking lot before kickoff is a fan tradition.
    > **解析**：`tailgating` 在体育语境中指“在车尾箱旁露天聚会喝饮品吃烧烤的球迷活动”。
 
 5. **中文**：关键在于低区座位的视野清晰得多。  
@@ -108,7 +108,7 @@ i don't buy it（我不信）、there's no way（不可能）、nonsense（胡�
    > **解析**：`mascot` 是名词，意为“吉祥物”。
 
 8. **中文**：冠军季后赛的门票在五分钟内就被售罄了。  
-   **英文**：Tickets for the championship playoff game sold out within five minutes (i don't buy it).
+   **英文**：Tickets for the championship playoff game sold out within five minutes.
    > **解析**：`playoff` 是名词，意为“季后赛、决胜赛”。
 
 9. **中文**：他说那个座位有人坐了，但我才不信呢。  
@@ -126,13 +126,13 @@ i don't buy it（我不信）、there's no way（不可能）、nonsense（胡�
 1. Sitting in the front row of the bleachers gives you the best view of the game.
    > **中文**：坐在露天看台的前排能让你拥有观赏比赛的最佳视野。
 
-2. Let's go buy some snacks and drinks during the halftime break (by now).
+2. Let's go buy some snacks and drinks during the halftime break.
    > **中文**：让我们在中场休息期间去买些零食和饮料吧。
 
 3. The referee blew his whistle to indicate a technical foul.
    > **中文**：裁判吹响哨子表示技术犯规。
 
-4. Tailgating in the stadium parking lot before kickoff is a fan tradition (come on).
+4. Tailgating in the stadium parking lot before kickoff is a fan tradition.
    > **中文**：开球前在体育场停车场进行车尾派对是球迷的传统。
 
 5. The point is that the lower section seats offer much clearer visibility.
@@ -144,7 +144,7 @@ i don't buy it（我不信）、there's no way（不可能）、nonsense（胡�
 7. The giant lion mascot entertained the kids by dancing on the field.
    > **中文**：那只巨大的狮子吉祥物通过在场地上跳舞来逗乐孩子们。
 
-8. Tickets for the championship playoff game sold out within five minutes (i don't buy it).
+8. Tickets for the championship playoff game sold out within five minutes.
    > **中文**：冠军季后赛的门票在五分钟内就被售罄了。
 
 9. He says the seat is occupied, but I don't buy it about call.
@@ -173,11 +173,11 @@ Sitting in the front row of the `____` gives you the best view of the game.
 
 ### 2
 
-Let's go buy some snacks and drinks during the halftime break (`____`).
+Let's go buy some snacks and drinks during the `____` break.
 
-- [x] by now
-- [ ] call
-- [ ] halftime
+- [x] halftime
+- [ ] by now
+- [ ] foul
 
 > **解析**：`halftime` 是名词，意为“（体育比赛的）中场休息”。
 
@@ -193,21 +193,21 @@ The referee blew his whistle to indicate a technical `____`.
 
 ### 4
 
-Tailgating in the stadium parking lot before kickoff is a fan tradition (`____`).
+Tailgating in the stadium parking lot before kickoff is a fan trad`____`ion.
 
-- [x] come on
-- [ ] cooler
-- [ ] it
+- [x] it
+- [ ] come on
+- [ ] i don't buy it
 
 > **解析**：`tailgating` 在体育语境中指“在车尾箱旁露天聚会喝饮品吃烧烤的球迷活动”。
 
 ### 5
 
-The point is that the lower section seats offer much clearer visibil`____`y.
+`____` that the lower section seats offer much clearer visibility.
 
-- [x] it
+- [x] the point is
 - [ ] cooler
-- [ ] jersey
+- [ ] it
 
 > **解析**：`the point is that...` 是阐述关键论点的常用句型。
 
@@ -233,11 +233,11 @@ The giant lion `____` entertained the kids by dancing on the field.
 
 ### 8
 
-Tickets for the championship playoff game sold out within five minutes (`____`).
+Tickets for the championship `____` game sold out within five minutes.
 
-- [x] i don't buy it
-- [ ] it
-- [ ] not exactly
+- [x] playoff
+- [ ] i don't buy it
+- [ ] nonsense
 
 > **解析**：`playoff` 是名词，意为“季后赛、决胜赛”。
 

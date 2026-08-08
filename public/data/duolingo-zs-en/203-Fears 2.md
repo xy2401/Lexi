@@ -80,7 +80,7 @@ frightened（感到害怕的）和 frightening（令人害怕的）是典型的 
    > **解析**：escape 不及物/及物动词，意为“逃跑；逃脱”，常与介词 from 连用。
 
 8. **中文**：别担心；这只友善的狗不会咬任何人。  
-   **英文**：Do not worry; the friendly dog will not bite anyone (fall off).
+   **英文**：Do not worry; the friendly dog will not bite anyone.
    > **解析**：bite 动词/名词，在此作动词意为“咬”。
 
 9. **中文**：佩戴口罩有助于保护你免受有害病毒感染。  
@@ -116,7 +116,7 @@ frightened（感到害怕的）和 frightening（令人害怕的）是典型的 
 7. The quick rabbit managed to escape from the hungry fox.
    > **中文**：那只敏捷的兔子成功逃脱了饥饿狐狸的追捕。
 
-8. Do not worry; the friendly dog will not bite anyone (fall off).
+8. Do not worry; the friendly dog will not bite anyone.
    > **中文**：别担心；这只友善的狗不会咬任何人。
 
 9. Wearing a mask can help protect you from catching a harmful virus.
@@ -205,7 +205,7 @@ The quick rab`____` managed to escape from the hungry fox.
 
 ### 8
 
-Do not worry; the friendly dog will not `____` anyone (fall off).
+Do not worry; the friendly dog will not `____` anyone.
 
 - [x] bite
 - [ ] frightened

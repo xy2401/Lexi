@@ -52,11 +52,11 @@ have been 是现在完成时（Have you been here before? / I have been to this 
 <quiz-sentence-builder>
 
 1. **中文**：在等餐时，我们点了一盘大蒜面包作为开胃菜。  
-   **英文**：We ordered a plate of garlic bread as an appetizer while waiting for our meals (a side of).
+   **英文**：We ordered a plate of garlic bread as an appetizer while waiting for our meals.
    > **解析**：appetizer 可数名词，意为“开胃菜；前菜”（美式），英式为 starter。
 
 2. **中文**：主菜她选择了配芦笋的烤三文鱼。  
-   **英文**：For the main course, she chose the grilled salmon served with asparagus (angry that).
+   **英文**：For the main course, she chose the grilled salmon served with asparagus.
    > **解析**：main course 名词短语，意为“主菜”。
 
 3. **中文**：我的牛排想要配一份烤土豆副菜。  
@@ -95,10 +95,10 @@ have been 是现在完成时（Have you been here before? / I have been to this 
 
 <quiz-listening>
 
-1. We ordered a plate of garlic bread as an appetizer while waiting for our meals (a side of).
+1. We ordered a plate of garlic bread as an appetizer while waiting for our meals.
    > **中文**：在等餐时，我们点了一盘大蒜面包作为开胃菜。
 
-2. For the main course, she chose the grilled salmon served with asparagus (angry that).
+2. For the main course, she chose the grilled salmon served with asparagus.
    > **中文**：主菜她选择了配芦笋的烤三文鱼。
 
 3. I would like to order a side of roasted potatoes with my steak.
@@ -135,31 +135,31 @@ have been 是现在完成时（Have you been here before? / I have been to this 
 
 ### 1
 
-We ordered a plate of garlic bread as an appetizer while waiting for our meals (`____`).
+We ordered a plate of garlic bread as an `____` while waiting for our meals.
 
-- [x] a side of
-- [ ] angry that
+- [x] appetizer
+- [ ] a side of
 - [ ] be
 
 > **解析**：appetizer 可数名词，意为“开胃菜；前菜”（美式），英式为 starter。
 
 ### 2
 
-For the main course, she chose the grilled salmon served with asparagus (`____`).
+For the `____`, she chose the grilled salmon served with asparagus.
 
-- [x] angry that
-- [ ] any
-- [ ] been
+- [x] main course
+- [ ] angry that
+- [ ] be
 
 > **解析**：main course 名词短语，意为“主菜”。
 
 ### 3
 
-I would `____` to order a side of roasted potatoes with my steak.
+I would like to order `____` roasted potatoes with my steak.
 
-- [x] like
-- [ ] any
-- [ ] been
+- [x] a side of
+- [ ] appetizer
+- [ ] bit
 
 > **解析**：a side of ... 短语，意为“一份……配菜/副菜”。
 
@@ -225,9 +225,9 @@ Did you notice whether the menu includes `____` gluten-free options.
 
 ### 10
 
-The diner was angry that his steak was overcooked and cold about `____`.
+The diner was `____` his steak was overcooked and cold about appetizer.
 
-- [x] appetizer
+- [x] angry that
 - [ ] full
 - [ ] napkin
 

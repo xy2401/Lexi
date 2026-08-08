@@ -68,7 +68,7 @@ a whole lot, agreement, an open mind, envy, eventually, frustration, gossip, in 
    > **解析**：`eventually` 副词，意为“最终；终于”，强调经过努力或漫长过程后的结果。
 
 3. **中文**：如果你今天感到精疲力竭，既然那样，我们可以留在家中点外卖。  
-   **英文**：If you feel exhausted today, in that case, we can stay home and order takeout (an open mind).
+   **英文**：If you feel exhausted today, in that case, we can stay home and order takeout.
    > **解析**：`in that case` 为条件插入表达，意为“既然那样；如果是那种情况的话”。
 
 4. **中文**：他为昨天激烈争吵中做出的冒犯性言论真诚道歉。  
@@ -88,11 +88,11 @@ a whole lot, agreement, an open mind, envy, eventually, frustration, gossip, in 
    > **解析**：`used to do sth.` 结构，表示过去经常做某事或过去习惯的状态（现在已不再如此）。
 
 8. **中文**：这对夫妇达成了一致协议，每个周末都陪伴对方度过优质时光。  
-   **英文**：The couple reached a mutual agreement to spend quality time together every weekend (in that case).
+   **英文**：The couple reached a mutual agreement to spend quality time together every weekend.
    > **解析**：`agreement` 可数/不可数名词，意为“协议；一致”。搭配 `reach an agreement`（达成协议）。
 
 9. **中文**：平静地表达你的挫败感/沮丧有助于防止微小的误解演变成大问题。  
-   **英文**：Expressing your frustration calmly helps prevent small misunderstandings from blowing up (look down on).
+   **英文**：Expressing your frustration calmly helps prevent small misunderstandings from blowing up.
    > **解析**：`frustration` 不可数/可数名词，意为“挫败感；沮丧；烦恼”。
 
 10. **中文**：既然我们今晚都有空，我们不妨出去吃一顿浪漫的晚餐。  
@@ -109,7 +109,7 @@ a whole lot, agreement, an open mind, envy, eventually, frustration, gossip, in 
 2. Through patience and understanding, they eventually resolved their long-standing conflicts.
    > **中文**：通过耐心与理解，他们最终化解了长久以来的冲突。
 
-3. If you feel exhausted today, in that case, we can stay home and order takeout (an open mind).
+3. If you feel exhausted today, in that case, we can stay home and order takeout.
    > **中文**：如果你今天感到精疲力竭，既然那样，我们可以留在家中点外卖。
 
 4. He apologized sincerely for his offensive remark during yesterday's heated argument.
@@ -124,10 +124,10 @@ a whole lot, agreement, an open mind, envy, eventually, frustration, gossip, in 
 7. We used to argue over small household chores, but now we split responsibilities evenly.
    > **中文**：我们过去常常为微小的家务争吵，但现在我们平均分担责任。
 
-8. The couple reached a mutual agreement to spend quality time together every weekend (in that case).
+8. The couple reached a mutual agreement to spend quality time together every weekend.
    > **中文**：这对夫妇达成了一致协议，每个周末都陪伴对方度过优质时光。
 
-9. Expressing your frustration calmly helps prevent small misunderstandings from blowing up (look down on).
+9. Expressing your frustration calmly helps prevent small misunderstandings from blowing up.
    > **中文**：平静地表达你的挫败感/沮丧有助于防止微小的误解演变成大问题。
 
 10. Since we are both free tonight, we might as well go out for a romantic dinner.
@@ -163,11 +163,11 @@ Through patience and understanding, they `____` resolved their long-standing con
 
 ### 3
 
-If you feel exhausted today, in that case, we can stay home and order takeout (`____`).
+If you feel exhausted today, `____`, we can stay home and order takeout.
 
-- [x] an open mind
-- [ ] envy
-- [ ] in that case
+- [x] in that case
+- [ ] an open mind
+- [ ] gossip
 
 > **解析**：`in that case` 为条件插入表达，意为“既然那样；如果是那种情况的话”。
 
@@ -213,7 +213,7 @@ We `____` argue over small household chores, but now we split responsibilities e
 
 ### 8
 
-The couple reached a mutual `____` to spend quality time together every weekend (in that case).
+The couple reached a mutual `____` to spend quality time together every weekend.
 
 - [x] agreement
 - [ ] look down on
@@ -223,7 +223,7 @@ The couple reached a mutual `____` to spend quality time together every weekend 
 
 ### 9
 
-Expressing your `____` calmly helps prevent small misunderstandings from blowing up (look down on).
+Expressing your `____` calmly helps prevent small misunderstandings from blowing up.
 
 - [x] frustration
 - [ ] might as well

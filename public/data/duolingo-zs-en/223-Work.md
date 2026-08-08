@@ -72,11 +72,11 @@ a certain, absolutely, as far as I'm concerned, be able to, can, come up with, c
    > **解析**：`can` 情态动词，表示能力或可能性（意为“能够；可以”），后接动词原形。
 
 3. **中文**：项目团队加班赶工，以在严格的截止日期前完成设计。  
-   **英文**：The project team worked overtime to complete the design before the strict deadline (as far as I'm concerned).
+   **英文**：The project team worked overtime to complete the design before the strict deadline.
    > **解析**：`deadline` 可数名词，意为“截止日期”。短语 `meet a deadline`（赶上截止日期）/ `miss a deadline`（错过截止日期）。
 
 4. **中文**：如果您对报告有任何疑问，请随时给我发电子邮件。  
-   **英文**：If you have any questions regarding the report, please feel free to email me (be able to).
+   **英文**：If you have any questions regarding the report, please feel free to email me.
    > **解析**：`feel free to do sth.` 为商务及日常沟通中礼貌邀请的固定表达（意为“请随意做某事；随时做某事”）。
 
 5. **中文**：表现优异的员工更有可能获得年度奖金和晋升。  
@@ -84,7 +84,7 @@ a certain, absolutely, as far as I'm concerned, be able to, can, come up with, c
    > **解析**：`be likely to do sth.` 固定搭配，意为“很有可能做某事”。
 
 6. **中文**：提交职位申请后，下一步是与人力资源部门进行电话面试。  
-   **英文**：After submitting your job application, the next step is a phone interview with HR (come up with).
+   **英文**：After submitting your job application, the next step is a phone interview with HR.
    > **解析**：`next step` 名词短语，意为“下一步骤；下一阶段工作”。
 
 7. **中文**：在竞争激烈的市场中推出新产品时，完美的时机至关重要。  
@@ -113,16 +113,16 @@ a certain, absolutely, as far as I'm concerned, be able to, can, come up with, c
 2. Employees who demonstrate initiative can take on more complex managerial tasks.
    > **中文**：展现出主动性的员工能够承担更复杂的管理任务。
 
-3. The project team worked overtime to complete the design before the strict deadline (as far as I'm concerned).
+3. The project team worked overtime to complete the design before the strict deadline.
    > **中文**：项目团队加班赶工，以在严格的截止日期前完成设计。
 
-4. If you have any questions regarding the report, please feel free to email me (be able to).
+4. If you have any questions regarding the report, please feel free to email me.
    > **中文**：如果您对报告有任何疑问，请随时给我发电子邮件。
 
 5. High-performing staff members are more likely to receive annual bonuses and promotions.
    > **中文**：表现优异的员工更有可能获得年度奖金和晋升。
 
-6. After submitting your job application, the next step is a phone interview with HR (come up with).
+6. After submitting your job application, the next step is a phone interview with HR.
    > **中文**：提交职位申请后，下一步是与人力资源部门进行电话面试。
 
 7. Perfect timing is crucial when launching a new product in a competitive market.
@@ -167,21 +167,21 @@ Employees who demonstrate initiative `____` take on more complex managerial task
 
 ### 3
 
-The project team worked overtime to complete the design before the strict deadline (`____`).
+The project team worked overtime to complete the design before the strict `____`.
 
-- [x] as far as I'm concerned
-- [ ] be able to
-- [ ] deadline
+- [x] deadline
+- [ ] as far as I'm concerned
+- [ ] could
 
 > **解析**：`deadline` 可数名词，意为“截止日期”。短语 `meet a deadline`（赶上截止日期）/ `miss a deadline`（错过截止日期）。
 
 ### 4
 
-If you have any questions regarding the report, please feel free to email me (`____`).
+If you have any questions regarding the report, please `____` to email me.
 
-- [x] be able to
-- [ ] can
-- [ ] deserve
+- [x] feel free
+- [ ] be able to
+- [ ] deadline
 
 > **解析**：`feel free to do sth.` 为商务及日常沟通中礼貌邀请的固定表达（意为“请随意做某事；随时做某事”）。
 
@@ -197,11 +197,11 @@ High-performing staff members are more `____` receive annual bonuses and promoti
 
 ### 6
 
-After submitting your job application, the next step is a phone interview with HR (`____`).
+After submitting your job application, the `____` is a phone interview with HR.
 
-- [x] come up with
-- [ ] could
-- [ ] expected to
+- [x] next step
+- [ ] come up with
+- [ ] excited to
 
 > **解析**：`next step` 名词短语，意为“下一步骤；下一阶段工作”。
 
@@ -227,9 +227,9 @@ Clear communication is `____` essential for remote team members to work efficien
 
 ### 9
 
-The creative designer managed to come up with three distinct branding concepts about `____`.
+The creative designer managed to `____` three distinct branding concepts about could.
 
-- [x] could
+- [x] come up with
 - [ ] excited to
 - [ ] flexibility
 

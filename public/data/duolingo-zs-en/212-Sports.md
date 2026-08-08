@@ -56,7 +56,7 @@ there might be / there can't be / there should not be 这组结构用来表达�
    > **解析**：`captain` 名词，意为“队长；领队”。在前置介词短语 `As the team captain` 中作身份说明。
 
 2. **中文**：她在昨天的十米跳台跳水比赛中赢得了金牌。  
-   **英文**：She won a gold medal in the ten-meter platform diving competition yesterday (come on).
+   **英文**：She won a gold medal in the ten-meter platform diving competition yesterday.
    > **解析**：`diving` 动名词，意为“跳水运动；潜水”。在此处用作名词修饰语，说明比赛项目的类型。
 
 3. **中文**：体操运动需要柔韧性、精准的平衡力以及非凡的力量。  
@@ -76,7 +76,7 @@ there might be / there can't be / there should not be 这组结构用来表达�
    > **解析**：`swimmer` 可数名词，意为“游泳者；游泳运动员”，由动词 `swim` 加后缀 `-mer` 派生而来。
 
 7. **中文**：如果雨一直下，今天可能就不会有任何户外比赛了。  
-   **英文**：If it keeps raining, there might not be any outdoor games today (expect to).
+   **英文**：If it keeps raining, there might not be any outdoor games today.
    > **解析**：`there might not be` 为 `there be` 句型与情态动词 `might` 的否定形式连用，表达对存在情况的推测：“可能不会有……”。
 
 8. **中文**：加油，坚持推向终点线！  
@@ -98,7 +98,7 @@ there might be / there can't be / there should not be 这组结构用来表达�
 1. As the team captain, he gave an inspiring speech to boost everyone's confidence.
    > **中文**：作为队长，他发表了一番鼓舞人心的演讲以提高大家的信心。
 
-2. She won a gold medal in the ten-meter platform diving competition yesterday (come on).
+2. She won a gold medal in the ten-meter platform diving competition yesterday.
    > **中文**：她在昨天的十米跳台跳水比赛中赢得了金牌。
 
 3. Gymnastics requires flexibility, precise balance, and exceptional strength.
@@ -113,7 +113,7 @@ there might be / there can't be / there should not be 这组结构用来表达�
 6. The young swimmer trained for three hours every single morning.
    > **中文**：那位年轻的游泳运动员每天早晨训练整整三个小时。
 
-7. If it keeps raining, there might not be any outdoor games today (expect to).
+7. If it keeps raining, there might not be any outdoor games today.
    > **中文**：如果雨一直下，今天可能就不会有任何户外比赛了。
 
 8. Come on, keep pushing until you reach the finish line about cyclist.
@@ -145,10 +145,10 @@ As the team `____`, he gave an inspiring speech to boost everyone's confidence.
 
 ### 2
 
-She won a gold medal in the ten-meter platform diving competition yesterday (`____`).
+She won a gold medal in the ten-meter platform `____` competition yesterday.
 
-- [x] come on
-- [ ] cyclist
+- [x] diving
+- [ ] come on
 - [ ] expect to
 
 > **解析**：`diving` 动名词，意为“跳水运动；潜水”。在此处用作名词修饰语，说明比赛项目的类型。
@@ -195,19 +195,19 @@ The young `____` trained for three hours every single morning.
 
 ### 7
 
-If it keeps raining, there might not be any outdoor games today (`____`).
+If it keeps raining, `____` any outdoor games today.
 
-- [x] expect to
-- [ ] final
-- [ ] hope to
+- [x] there might not be
+- [ ] expect to
+- [ ] high
 
 > **解析**：`there might not be` 为 `there be` 句型与情态动词 `might` 的否定形式连用，表达对存在情况的推测：“可能不会有……”。
 
 ### 8
 
-Come on, keep pushing until you reach the finish line about `____`.
+`____`, keep pushing until you reach the finish line about cyclist.
 
-- [x] cyclist
+- [x] come on
 - [ ] gymnastics
 - [ ] hunt
 

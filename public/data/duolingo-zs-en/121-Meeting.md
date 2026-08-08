@@ -90,7 +90,7 @@ on mute 表示"静音状态"。figure out 表示"弄清楚、解决"。
    > **解析**：hidden 为动词 hide 的过去分词，在此处用作形容词修饰名词 file，意为“隐藏的”。that 引导定语从句修饰 hidden file。
 
 8. **中文**：希望这个技术问题能在下午的演示之前得到解决。  
-   **英文**：Hopefully, the technical issue will be resolved before the afternoon presentation (from home).
+   **英文**：Hopefully, the technical issue will be resolved before the afternoon presentation.
    > **解析**：hopefully 为副词，放置于句首用作句子状语（sentence adverb），表达说话者的愿望“希望、但愿”，相当于 I hope that...。
 
 9. **中文**：远程排查硬件故障挺困难的，不是吗？  
@@ -126,7 +126,7 @@ on mute 表示"静音状态"。figure out 表示"弄清楚、解决"。
 7. The tech support team found a hidden file that was slowing down the system.
    > **中文**：技术支持团队找到了一个导致系统变慢的隐藏文件。
 
-8. Hopefully, the technical issue will be resolved before the afternoon presentation (from home).
+8. Hopefully, the technical issue will be resolved before the afternoon presentation.
    > **中文**：希望这个技术问题能在下午的演示之前得到解决。
 
 9. It is difficult to troubleshoot hardware issues remotely, isn't it?
@@ -215,7 +215,7 @@ The tech support team found a `____`den file that was slowing down the system.
 
 ### 8
 
-`____`, the technical issue will be resolved before the afternoon presentation (from home).
+`____`, the technical issue will be resolved before the afternoon presentation.
 
 - [x] hopefully
 - [ ] from home

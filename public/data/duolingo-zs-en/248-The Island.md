@@ -102,7 +102,7 @@ despite the fact that / in spite of / in spite of the fact that 是三个表"尽
    > **解析**：`for days on end` 是固定时间状语短语，意为“接连数天、连续几天”。
 
 6. **中文**：船只失事后，幸存者们游泳朝岸边靠拢。  
-   **英文**：After the shipwreck, the survivors swam to head for the shore (despite the fact that).
+   **英文**：After the shipwreck, the survivors swam to head for the shore.
    > **解析**：`head for` 是短语动词，意为“朝……前进、前往”，后接目的地名词。
 
 7. **中文**：这个岛屿是几种致命毒蛇的栖息地。  
@@ -114,11 +114,11 @@ despite the fact that / in spite of / in spite of the fact that 是三个表"尽
    > **解析**：`encounter` 作及物动词，意为“遭遇、遇到”，宾语为 `difficulties`。
 
 9. **中文**：那艘古老的失事船只遗骸被一支深海潜水团队发现。  
-   **英文**：The ancient shipwreck was discovered by a team of deep-sea divers (for days on end).
+   **英文**：The ancient shipwreck was discovered by a team of deep-sea divers.
    > **解析**：`shipwreck` 是名词，意为“海难、失事船只遗骸”。
 
 10. **中文**：他们围绕着营火一起唱老歌来消磨时光。  
-   **英文**：They sang old songs together around the campfire to pass the time (go through).
+   **英文**：They sang old songs together around the campfire to pass the time.
    > **解析**：`pass the time` 是固定短语，意为“消磨时间、打发时光”。
 
 </quiz-sentence-builder>
@@ -140,7 +140,7 @@ despite the fact that / in spite of / in spite of the fact that 是三个表"尽
 5. They had to ration their drinking water for days on end.
    > **中文**：他们不得不连续几天配给饮用水。
 
-6. After the shipwreck, the survivors swam to head for the shore (despite the fact that).
+6. After the shipwreck, the survivors swam to head for the shore.
    > **中文**：船只失事后，幸存者们游泳朝岸边靠拢。
 
 7. The island is home to several species of deadly snakes.
@@ -149,10 +149,10 @@ despite the fact that / in spite of / in spite of the fact that 是三个表"尽
 8. They encountered many unforeseen difficulties while exploring the jungle.
    > **中文**：在探索丛林时，他们遇到了许多意想不到的困难。
 
-9. The ancient shipwreck was discovered by a team of deep-sea divers (for days on end).
+9. The ancient shipwreck was discovered by a team of deep-sea divers.
    > **中文**：那艘古老的失事船只遗骸被一支深海潜水团队发现。
 
-10. They sang old songs together around the campfire to pass the time (go through).
+10. They sang old songs together around the campfire to pass the time.
    > **中文**：他们围绕着营火一起唱老歌来消磨时光。
 
 </quiz-listening>
@@ -215,11 +215,11 @@ They had to ration their drinking water `____`.
 
 ### 6
 
-After the shipwreck, the survivors swam to head for the shore (`____`).
+After the shipwreck, the survivors swam to `____` the shore.
 
-- [x] despite the fact that
-- [ ] encounter
-- [ ] head for
+- [x] head for
+- [ ] despite the fact that
+- [ ] go through
 
 > **解析**：`head for` 是短语动词，意为“朝……前进、前往”，后接目的地名词。
 
@@ -245,7 +245,7 @@ They `____`ed many unforeseen difficulties while exploring the jungle.
 
 ### 9
 
-The ancient `____` was discovered by a team of deep-sea divers (for days on end).
+The ancient `____` was discovered by a team of deep-sea divers.
 
 - [x] shipwreck
 - [ ] for days on end
@@ -255,11 +255,11 @@ The ancient `____` was discovered by a team of deep-sea divers (for days on end)
 
 ### 10
 
-They sang old songs together around the campfire to pass the time (`____`).
+They sang old songs together around the campfire to `____`.
 
-- [x] go through
-- [ ] head for
-- [ ] injured
+- [x] pass the time
+- [ ] go through
+- [ ] in spite of the fact that
 
 > **解析**：`pass the time` 是固定短语，意为“消磨时间、打发时光”。
 

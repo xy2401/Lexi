@@ -66,7 +66,7 @@ as soon as 是时间连接词，表示"一……就……"。out of work = 失�
    > **解析**：promotion 可数/不可数名词，意为“升职；晋升”，动词形式为 promote。
 
 4. **中文**：在完成这个大项目后，他向经理提出了加薪要求。  
-   **英文**：He asked his manager for a salary raise after completing the big project (as soon as).
+   **英文**：He asked his manager for a salary raise after completing the big project.
    > **解析**：raise 可数名词，在此意为“加薪”（美式英语），英式英语常用 pay rise。
 
 5. **中文**：担任领导职务是一项巨大的挑战，但它能帮助你成长。  
@@ -106,7 +106,7 @@ as soon as 是时间连接词，表示"一……就……"。out of work = 失�
 3. After three years of diligent work, she earned a promotion to senior manager.
    > **中文**：经过三年的勤奋工作，她获得了晋升为高级经理的机会。
 
-4. He asked his manager for a salary raise after completing the big project (as soon as).
+4. He asked his manager for a salary raise after completing the big project.
    > **中文**：在完成这个大项目后，他向经理提出了加薪要求。
 
 5. Taking on a leadership role is a great challenge, but it helps you grow.
@@ -167,11 +167,11 @@ After three years of diligent work, she earned a `____` to senior manager.
 
 ### 4
 
-He asked his manager for a salary raise after completing the big project (`____`).
+He asked his manager for a salary `____` after completing the big project.
 
-- [x] as soon as
-- [ ] background
-- [ ] current
+- [x] raise
+- [ ] as soon as
+- [ ] conference
 
 > **解析**：raise 可数名词，在此意为“加薪”（美式英语），英式英语常用 pay rise。
 

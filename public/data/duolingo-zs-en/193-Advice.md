@@ -82,15 +82,15 @@ athletic, clap, curriculum, dangerously, fancy, foreigner, goalkeeper, if he wer
    > **解析**：route 可数名词，意为“路线；航线”，读作 /ruːt/ 或 /raʊt/。
 
 8. **中文**：作为新城市的外籍人士，他向当地居民询问路线。  
-   **英文**：As a foreigner in the new city, he asked local residents for directions (if he were).
+   **英文**：As a foreigner in the new city, he asked local residents for directions.
    > **解析**：foreigner 可数名词，意为“外国客人；外国人”，来自形容词 foreign。
 
 9. **中文**：由于非常有运动天赋，她加入了足球队和田径队。  
-   **英文**：Being very athletic, she joined both the soccer and track teams (if she were).
+   **英文**：Being very athletic, she joined both the soccer and track teams clap.
    > **解析**：athletic 形容词，意为“有运动天赋的；健壮的”，来自 athlete。
 
 10. **中文**：警觉的门将在决赛中扑出了三个难度极高的射门。  
-   **英文**：The alert goalkeeper saved three difficult shots during the final match (if they were).
+   **英文**：The alert goalkeeper saved three difficult shots during the final match.
    > **解析**：goalkeeper 可数名词，意为“守门员；门将”（足球/冰球等）。
 
 </quiz-sentence-builder>
@@ -118,13 +118,13 @@ athletic, clap, curriculum, dangerously, fancy, foreigner, goalkeeper, if he wer
 7. The driver planned a scenic route along the coast for the field trip.
    > **中文**：司机为小城研学设计了一条沿海风景优美的路线。
 
-8. As a foreigner in the new city, he asked local residents for directions (if he were).
+8. As a foreigner in the new city, he asked local residents for directions.
    > **中文**：作为新城市的外籍人士，他向当地居民询问路线。
 
-9. Being very athletic, she joined both the soccer and track teams (if she were).
+9. Being very athletic, she joined both the soccer and track teams clap.
    > **中文**：由于非常有运动天赋，她加入了足球队和田径队。
 
-10. The alert goalkeeper saved three difficult shots during the final match (if they were).
+10. The alert goalkeeper saved three difficult shots during the final match.
    > **中文**：警觉的门将在决赛中扑出了三个难度极高的射门。
 
 </quiz-listening>
@@ -207,7 +207,7 @@ The driver planned a scenic `____` along the coast for the field trip.
 
 ### 8
 
-As a `____` in the new city, he asked local residents for directions (if he were).
+As a `____` in the new city, he asked local residents for directions.
 
 - [x] foreigner
 - [ ] if she were
@@ -217,9 +217,9 @@ As a `____` in the new city, he asked local residents for directions (if he were
 
 ### 9
 
-Being very athletic, she joined both the soccer and track teams (`____`).
+Being very athletic, she joined both the soccer and track teams `____`.
 
-- [x] if she were
+- [x] clap
 - [ ] if they were
 - [ ] mean
 
@@ -227,7 +227,7 @@ Being very athletic, she joined both the soccer and track teams (`____`).
 
 ### 10
 
-The alert `____` saved three difficult shots during the final match (if they were).
+The alert `____` saved three difficult shots during the final match.
 
 - [x] goalkeeper
 - [ ] if we were

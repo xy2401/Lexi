@@ -62,11 +62,11 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
 <quiz-sentence-builder>
 
 1. **中文**：在暑假期间，我们过去常常在外面玩到日落。  
-   **英文**：We used to play outside until sunset during summer vacations (always used to).
+   **英文**：We used to play outside until sunset during summer vacations.
    > **解析**：`used to + 动词原形` 表示过去习惯性发生而现在已不再进行的动作，意为“过去常常”。
 
 2. **中文**：孩子们一整个下午都在后院玩捉迷藏。  
-   **英文**：The children spent the whole afternoon playing hide and seek in the backyard (another thing).
+   **英文**：The children spent the whole afternoon playing hide and seek in the backyard.
    > **解析**：`hide and seek` 是经典儿童游戏名词，意为“捉迷藏”，在句中作动词 `playing` 的宾语。
 
 3. **中文**：看到这些复古玩具让我对童年产生了深深的怀旧感。  
@@ -74,11 +74,11 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
    > **解析**：`nostalgic` 是形容词，意为“怀旧的、追忆往事的”，常用搭配 `feel nostalgic about...`。
 
 4. **中文**：在学校课间休息时，每个人都跑到操场上去跳绳。  
-   **英文**：During school recess, everyone ran to the playground to play jump rope (blow bubbles).
+   **英文**：During school recess, everyone ran to the playground to play jump rope.
    > **解析**：`recess` 在学校语境中指“课间休息”，常用搭配 `during recess`。
 
 5. **中文**：她对在祖父母农场度过的假期留有非常美好的回忆。  
-   **英文**：She has very fond memories of spending holidays at her grandparents' farm (bubble gum).
+   **英文**：She has very fond memories of spending holidays at her grandparents' farm.
    > **解析**：`fond` 是形容词，在句中作定语修饰 `memories`，短语 `fond memories` 表示“美好的回忆”。
 
 6. **中文**：我爸爸在院子里的那棵大橡树上建了一个结实的木制树屋。  
@@ -86,7 +86,7 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
    > **解析**：`tree house` 是复合名词，意为“树屋”，由 `tree` + `house` 构成。
 
 7. **中文**：小孩子们喜欢吹泡泡并在公园里追着泡泡跑。  
-   **英文**：Little kids love to blow bubbles and chase them around the park (every so often).
+   **英文**：Little kids love to blow bubbles and chase them around the park.
    > **解析**：`blow bubbles` 是动词短语，意为“吹泡泡”，在句中作不定式 `to blow bubbles` 的核心。
 
 8. **中文**：我们在草地上玩追赶抓人游戏，直到累得筋疲力尽。  
@@ -98,32 +98,32 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
    > **解析**：`good old days` 是固定短语，意为“昔日好时光、过去的辉煌岁月”，前面常加 `the`。
 
 10. **中文**：他们围坐在餐桌旁追忆高中的冒险经历。  
-   **英文**：They gathered around the kitchen table to reminisce about their high school adventures (hide and seek).
+   **英文**：They gathered around the kitchen table to reminisce about their high school adventures.
    > **解析**：`reminisce` 是动词，意为“追忆、说起往事”，常用介词 `about` 引导追忆的内容。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We used to play outside until sunset during summer vacations (always used to).
+1. We used to play outside until sunset during summer vacations.
    > **中文**：在暑假期间，我们过去常常在外面玩到日落。
 
-2. The children spent the whole afternoon playing hide and seek in the backyard (another thing).
+2. The children spent the whole afternoon playing hide and seek in the backyard.
    > **中文**：孩子们一整个下午都在后院玩捉迷藏。
 
 3. Seeing these vintage toys made me feel deeply nostalgic about my childhood.
    > **中文**：看到这些复古玩具让我对童年产生了深深的怀旧感。
 
-4. During school recess, everyone ran to the playground to play jump rope (blow bubbles).
+4. During school recess, everyone ran to the playground to play jump rope.
    > **中文**：在学校课间休息时，每个人都跑到操场上去跳绳。
 
-5. She has very fond memories of spending holidays at her grandparents' farm (bubble gum).
+5. She has very fond memories of spending holidays at her grandparents' farm.
    > **中文**：她对在祖父母农场度过的假期留有非常美好的回忆。
 
 6. My dad built a sturdy wooden tree house in the large oak tree in our yard.
    > **中文**：我爸爸在院子里的那棵大橡树上建了一个结实的木制树屋。
 
-7. Little kids love to blow bubbles and chase them around the park (every so often).
+7. Little kids love to blow bubbles and chase them around the park.
    > **中文**：小孩子们喜欢吹泡泡并在公园里追着泡泡跑。
 
 8. We played a game of tag on the grass until we were completely tired out.
@@ -132,7 +132,7 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
 9. My grandparents spent hours talking about the good old days of their youth.
    > **中文**：我的祖父母花了几个小时畅谈他们年轻时的美好昔日。
 
-10. They gathered around the kitchen table to reminisce about their high school adventures (hide and seek).
+10. They gathered around the kitchen table to reminisce about their high school adventures.
    > **中文**：他们围坐在餐桌旁追忆高中的冒险经历。
 
 </quiz-listening>
@@ -145,21 +145,21 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
 
 ### 1
 
-We used to play outside until sunset during summer vacations (`____`).
+We `____` play outside until sunset during summer vacations.
 
-- [x] always used to
-- [ ] another thing
-- [ ] dodgeball
+- [x] used to
+- [ ] always used to
+- [ ] bubble gum
 
 > **解析**：`used to + 动词原形` 表示过去习惯性发生而现在已不再进行的动作，意为“过去常常”。
 
 ### 2
 
-The children spent the whole afternoon playing hide and seek in the backyard (`____`).
+The children spent the whole afternoon playing `____` in the backyard.
 
-- [x] another thing
-- [ ] berries
-- [ ] every so often
+- [x] hide and seek
+- [ ] another thing
+- [ ] dodgeball
 
 > **解析**：`hide and seek` 是经典儿童游戏名词，意为“捉迷藏”，在句中作动词 `playing` 的宾语。
 
@@ -175,20 +175,20 @@ Seeing these vintage toys made me feel deeply `____` about my childhood.
 
 ### 4
 
-During school recess, everyone ran to the playground to play jump rope (`____`).
+During school recess, everyone ran to the playground to play `____`.
 
-- [x] blow bubbles
-- [ ] bubble gum
-- [ ] good old days
+- [x] jump rope
+- [ ] blow bubbles
+- [ ] fond
 
 > **解析**：`recess` 在学校语境中指“课间休息”，常用搭配 `during recess`。
 
 ### 5
 
-She has very fond memories of spending holidays at her grandparents' farm (`____`).
+She has very `____` memories of spending holidays at her grandparents' farm.
 
-- [x] bubble gum
-- [ ] dodgeball
+- [x] fond
+- [ ] bubble gum
 - [ ] hide and seek
 
 > **解析**：`fond` 是形容词，在句中作定语修饰 `memories`，短语 `fond memories` 表示“美好的回忆”。
@@ -205,9 +205,9 @@ My dad built a sturdy wooden `____` in the large oak tree in our yard.
 
 ### 7
 
-Little kids love to blow bubbles and chase them around the park (`____`).
+Little kids love to `____` and chase them around the park.
 
-- [x] every so often
+- [x] blow bubbles
 - [ ] fond
 - [ ] lollipop
 
@@ -235,11 +235,11 @@ My grandparents spent hours talking about the `____` of their youth.
 
 ### 10
 
-They gathered around the kitchen table to reminisce about their high school adventures (`____`).
+They gathered around the kitchen table to `____` about their high school adventures.
 
-- [x] hide and seek
-- [ ] jump rope
-- [ ] reminisce
+- [x] reminisce
+- [ ] hide and seek
+- [ ] recess
 
 > **解析**：`reminisce` 是动词，意为“追忆、说起往事”，常用介词 `about` 引导追忆的内容。
 

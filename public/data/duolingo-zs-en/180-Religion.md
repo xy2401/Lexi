@@ -82,7 +82,7 @@ Buddhist, Christian, Hindu, Jewish, Muslim, atheist, become, believe in, bible, 
    > **解析**：return 在此处作名词，意为“归来、回归”。the return of spring 指春天的回归。
 
 8. **中文**：圣诞节是一个主要的基督教节日，全世界都用音乐和家庭聚会来庆祝。  
-   **英文**：Christmas is a major Christian holiday celebrated with music and family gatherings worldwide (believe in).
+   **英文**：Christmas is a major Christian holiday celebrated with music and family gatherings worldwide.
    > **解析**：Christian 在此处作形容词，意为“基督教的”，修饰 holiday（Christian holiday）。
 
 9. **中文**：无神论者是指不相信存在任何神灵或上帝的人。  
@@ -118,7 +118,7 @@ Buddhist, Christian, Hindu, Jewish, Muslim, atheist, become, believe in, bible, 
 7. The community held a festival to celebrate the return of spring according to custom.
    > **中文**：根据习俗，社区举办了节日活动来庆祝春天的回归。
 
-8. Christmas is a major Christian holiday celebrated with music and family gatherings worldwide (believe in).
+8. Christmas is a major Christian holiday celebrated with music and family gatherings worldwide.
    > **中文**：圣诞节是一个主要的基督教节日，全世界都用音乐和家庭聚会来庆祝。
 
 9. An atheist is someone who does not believe in the existence of any deity or God.
@@ -207,7 +207,7 @@ The community held a festival to celebrate the `____` of spring according to cus
 
 ### 8
 
-Christmas is a major `____` holiday celebrated with music and family gatherings worldwide (believe in).
+Christmas is a major `____` holiday celebrated with music and family gatherings worldwide.
 
 - [x] Christian
 - [ ] bible

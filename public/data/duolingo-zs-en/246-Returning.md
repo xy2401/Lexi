@@ -86,7 +86,7 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
    > **解析**：`move back home` 动词短语，意为“搬回老家/搬回父母家”，`home` 作副词不用介词。
 
 2. **中文**：在城里找新工作期间，她花光了自己所有的积蓄。  
-   **英文**：She used up all her savings while looking for a new job in the city (as a result of).
+   **英文**：She used up all her savings while looking for a new job in the city.
    > **解析**：`savings` 常用复数形式，意为“存款、积蓄”。
 
 3. **中文**：在内心深处，我知道离开大城市对我来说是正确的选择。  
@@ -94,7 +94,7 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
    > **解析**：`deep down` 是副词短语，意为“在内心深处”，置于句首作状语。
 
 4. **中文**：大都市的高昂租金迫使许多年轻打工人陷入债务。  
-   **英文**：High rent in the metropolis forced many young workers into debt (before long).
+   **英文**：High rent in the metropolis forced many young workers into debt.
    > **解析**：`into debt` 是介词短语，意为“陷入债务”，与 `force` 搭配。
 
 5. **中文**：在找到稳定职位之前，我不得不依靠我的父母。  
@@ -110,7 +110,7 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
    > **解析**：`determined` 是形容词，搭配 `be/remain determined to do sth`（下定决心做某事）。
 
 8. **中文**：我们不应该把与家人同住的舒适视为理所当然。  
-   **英文**：We shouldn't take the comfort of living with family for granted (deep down).
+   **英文**：We shouldn't take the comfort of living with family for granted.
    > **解析**：`take sth for granted` 是固定短语，意为“把……视为理所当然”。
 
 9. **中文**：搬回老家住让他有时间反思自己的职业选择。  
@@ -118,7 +118,7 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
    > **解析**：`reflect` 不及物动词，搭配介词 `on`（`reflect on sth`）表示“反思/思考某事”。
 
 10. **中文**：只要你保持专注并努力工作，一切都会顺利解决的。  
-   **英文**：Everything will work out as long as you stay focused and work hard (for granted).
+   **英文**：Everything will work out as long as you stay focused and work hard.
    > **解析**：`work out` 是不及物短语动词，在此处意为“顺利解决、结果变好”。
 
 </quiz-sentence-builder>
@@ -128,13 +128,13 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
 1. After graduating from university, he decided to move back home to save money.
    > **中文**：大学毕业后，他决定搬回老家以节省开支。
 
-2. She used up all her savings while looking for a new job in the city (as a result of).
+2. She used up all her savings while looking for a new job in the city.
    > **中文**：在城里找新工作期间，她花光了自己所有的积蓄。
 
 3. Deep down, I knew that leaving the big city was the right choice.
    > **中文**：在内心深处，我知道离开大城市对我来说是正确的选择。
 
-4. High rent in the metropolis forced many young workers into debt (before long).
+4. High rent in the metropolis forced many young workers into debt.
    > **中文**：大都市的高昂租金迫使许多年轻打工人陷入债务。
 
 5. I had to rely on my parents until I secured a stable position.
@@ -146,13 +146,13 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
 7. She remains determined to rebuild her career step by step.
    > **中文**：她仍然决心一步一步重建自己的事业。
 
-8. We shouldn't take the comfort of living with family for granted (deep down).
+8. We shouldn't take the comfort of living with family for granted.
    > **中文**：我们不应该把与家人同住的舒适视为理所当然。
 
 9. Living back home gave him time to reflect on his career choices.
    > **中文**：搬回老家住让他有时间反思自己的职业选择。
 
-10. Everything will work out as long as you stay focused and work hard (for granted).
+10. Everything will work out as long as you stay focused and work hard.
    > **中文**：只要你保持专注并努力工作，一切都会顺利解决的。
 
 </quiz-listening>
@@ -175,11 +175,11 @@ After graduating from university, he decided to `____` to save money.
 
 ### 2
 
-She used up all her savings while looking for a new job in the city (`____`).
+She used up all her `____` while looking for a new job in the city.
 
-- [x] as a result of
-- [ ] bartender
-- [ ] debt
+- [x] savings
+- [ ] as a result of
+- [ ] courage
 
 > **解析**：`savings` 常用复数形式，意为“存款、积蓄”。
 
@@ -195,10 +195,10 @@ She used up all her savings while looking for a new job in the city (`____`).
 
 ### 4
 
-High rent in the metropolis forced many young workers into debt (`____`).
+High rent in the metropolis forced many young workers into `____`.
 
-- [x] before long
-- [ ] consequently
+- [x] debt
+- [ ] before long
 - [ ] determined
 
 > **解析**：`into debt` 是介词短语，意为“陷入债务”，与 `force` 搭配。
@@ -235,7 +235,7 @@ She remains `____` to rebuild her career step by step.
 
 ### 8
 
-We shouldn't take the comfort of living with family `____` (deep down).
+We shouldn't take the comfort of living with family `____`.
 
 - [x] for granted
 - [ ] deep down
@@ -255,7 +255,7 @@ We shouldn't take the comfort of living with family `____` (deep down).
 
 ### 10
 
-Everything will `____` as long as you stay focused and work hard (for granted).
+Everything will `____` as long as you stay focused and work hard.
 
 - [x] work out
 - [ ] for granted

@@ -78,11 +78,11 @@ absent, aloud, apply, correct, correction, credit, elementary school, final exam
    > **解析**：report card 名词短语，意为“成绩单”，指学校定期发放的成绩报告册。
 
 7. **中文**：汤姆昨天因发高烧缺勤/缺课了。  
-   **英文**：Tom was absent from school yesterday because he had a high fever (elementary school).
+   **英文**：Tom was absent from school yesterday because he had a high fever.
    > **解析**：absent 形容词，意为“缺席的；不在场的”，常用结构 be absent from school/work。
 
 8. **中文**：他工整的字迹使得老师很容易阅读他的考试答卷。  
-   **英文**：His clear handwriting makes his exam answers very easy for teachers to read (final exam).
+   **英文**：His clear handwriting makes his exam answers very easy for teachers to read.
    > **解析**：handwriting 不可数名词，意为“书写；笔迹；字迹”。
 
 9. **中文**：英语老师帮助我们学会如何发音难度较大的新单词。  
@@ -115,10 +115,10 @@ absent, aloud, apply, correct, correction, credit, elementary school, final exam
 6. Her parents were extremely proud when they saw her excellent report card.
    > **中文**：当她父母看到她优异的成绩单时，感到无比自豪。
 
-7. Tom was absent from school yesterday because he had a high fever (elementary school).
+7. Tom was absent from school yesterday because he had a high fever.
    > **中文**：汤姆昨天因发高烧缺勤/缺课了。
 
-8. His clear handwriting makes his exam answers very easy for teachers to read (final exam).
+8. His clear handwriting makes his exam answers very easy for teachers to read.
    > **中文**：他工整的字迹使得老师很容易阅读他的考试答卷。
 
 9. The English teacher helped us learn how to pronounce difficult new words.
@@ -197,7 +197,7 @@ Her parents were extremely proud when they saw her excellent `____`.
 
 ### 7
 
-Tom was `____` from school yesterday because he had a high fever (elementary school).
+Tom was `____` from school yesterday because he had a high fever.
 
 - [x] absent
 - [ ] final exam
@@ -207,7 +207,7 @@ Tom was `____` from school yesterday because he had a high fever (elementary sch
 
 ### 8
 
-His clear `____` makes his exam answers very easy for teachers to read (final exam).
+His clear `____` makes his exam answers very easy for teachers to read.
 
 - [x] handwriting
 - [ ] final exam

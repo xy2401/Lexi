@@ -74,7 +74,7 @@ used to（词表中写作 use to，在否定和疑问中体现为 didn't use to�
    > **解析**：next door 为副词性短语，意为“在隔壁、隔壁地”，作后置定语修饰 neighbors。
 
 5. **中文**：房地产中介向我们展示了一处靠近湖边的美丽住宅房产。  
-   **英文**：The real estate agent showed us a beautiful residential property near the lake (guest room).
+   **英文**：The real estate agent showed us a beautiful residential property near the lake.
    > **解析**：property 为名词，意为“房产、地产、资产”。residential property 即住宅房产。
 
 6. **中文**：当你独自在家时，不应该给陌生人开门。  
@@ -113,7 +113,7 @@ used to（词表中写作 use to，在否定和疑问中体现为 didn't use to�
 4. The friendly neighbors living next door invited us over for afternoon tea.
    > **中文**：住在隔壁的友好邻居邀请我们过去喝下午茶。
 
-5. The real estate agent showed us a beautiful residential property near the lake (guest room).
+5. The real estate agent showed us a beautiful residential property near the lake.
    > **中文**：房地产中介向我们展示了一处靠近湖边的美丽住宅房产。
 
 6. You shouldn't open the front door to a total stranger when you are home alone.
@@ -181,7 +181,7 @@ The friendly neighbors living `____` invited us over for afternoon tea.
 
 ### 5
 
-The real estate agent showed us a beautiful residential `____` near the lake (guest room).
+The real estate agent showed us a beautiful residential `____` near the lake.
 
 - [x] property
 - [ ] guest room

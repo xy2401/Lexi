@@ -66,7 +66,7 @@ assuming that, attempt, attempt to, be able to, canyon, conditions, daylight, de
 <quiz-sentence-builder>
 
 1. **中文**：我们决定沿着这条风景优美的山路徒步旅行一天。  
-   **英文**：We decided to take a day hike along the scenic mountain trail (assuming that).
+   **英文**：We decided to take a day hike along the scenic mountain trail.
    > **解析**：`hike` 在此作名词（也可作动词），意为“徒步旅行、远足”。短语 `day hike` 指“一日徒步”。
 
 2. **中文**：他们在河边找了一块平地搭起了帐篷。  
@@ -74,11 +74,11 @@ assuming that, attempt, attempt to, be able to, canyon, conditions, daylight, de
    > **解析**：`pitch a tent` 是固定动词短语，意为“搭帐篷”，其中 `pitch` 意为“搭建/立起”。
 
 3. **中文**：到达崖顶可以俯瞰山谷令人屏息的优美景色。  
-   **英文**：Reaching the top of the cliff offered a breathtaking scenic view of the valley (attempt to).
+   **英文**：Reaching the top of the cliff offered a breathtaking scenic view of the valley assuming that.
    > **解析**：`scenic view` 是名词短语，意为“优美风光、景观视角”，作句中的宾语。
 
 4. **中文**：这座国家公园是许多受保护野生动植物的家园。  
-   **英文**：The national park is home to a wide variety of protected wildlife (be able to).
+   **英文**：The national park is home to a wide variety of protected wildlife.
    > **解析**：`wildlife` 是不可数名词，意为“野生动植物”，由 `wild` + `life` 复合而成。
 
 5. **中文**：围坐在温暖的篝火旁，他们在星空下唱起了歌。  
@@ -98,27 +98,27 @@ assuming that, attempt, attempt to, be able to, canyon, conditions, daylight, de
    > **解析**：`wilderness` 是名词，意为“荒野、原野”，指天然未破坏的野外环境。
 
 9. **中文**：下班后去外面散散步是享受新鲜空气的好方法。  
-   **英文**：Taking a walk outside is a great way to enjoy some fresh air after work (enough to).
+   **英文**：Taking a walk outside is a great way to enjoy some fresh air after work attempt to.
    > **解析**：`fresh air` 是名词短语，意为“新鲜空气”，作动词 `enjoy` 的宾语。
 
 10. **中文**：仔细沿着标记好的小路走，这样你才不会在森林里迷路。  
-   **英文**：Follow the marked trail carefully so that you do not get lost in the forest.
+   **英文**：Follow the marked trail carefully so that you do not get lost in the forest be able to.
    > **解析**：`trail` 是名词，意为“小径、山路”，常用搭配 `marked trail`（带标记的小路）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We decided to take a day hike along the scenic mountain trail (assuming that).
+1. We decided to take a day hike along the scenic mountain trail.
    > **中文**：我们决定沿着这条风景优美的山路徒步旅行一天。
 
 2. They found a flat piece of land near the river to pitch a tent about attempt.
    > **中文**：他们在河边找了一块平地搭起了帐篷。
 
-3. Reaching the top of the cliff offered a breathtaking scenic view of the valley (attempt to).
+3. Reaching the top of the cliff offered a breathtaking scenic view of the valley assuming that.
    > **中文**：到达崖顶可以俯瞰山谷令人屏息的优美景色。
 
-4. The national park is home to a wide variety of protected wildlife (be able to).
+4. The national park is home to a wide variety of protected wildlife.
    > **中文**：这座国家公园是许多受保护野生动植物的家园。
 
 5. Sitting around the warm campfire, they sang songs under the starry sky about canyon.
@@ -133,10 +133,10 @@ assuming that, attempt, attempt to, be able to, canyon, conditions, daylight, de
 8. Backpacking through the untouched wilderness requires proper safety gear and preparation.
    > **中文**：穿越未经开发的荒野徒步背包旅行需要妥善的安全装备与准备。
 
-9. Taking a walk outside is a great way to enjoy some fresh air after work (enough to).
+9. Taking a walk outside is a great way to enjoy some fresh air after work attempt to.
    > **中文**：下班后去外面散散步是享受新鲜空气的好方法。
 
-10. Follow the marked trail carefully so that you do not get lost in the forest.
+10. Follow the marked trail carefully so that you do not get lost in the forest be able to.
    > **中文**：仔细沿着标记好的小路走，这样你才不会在森林里迷路。
 
 </quiz-listening>
@@ -149,11 +149,11 @@ assuming that, attempt, attempt to, be able to, canyon, conditions, daylight, de
 
 ### 1
 
-We decided to take a day hike along the scenic mountain trail (`____`).
+We decided to take a day hike along the scenic mountain `____`.
 
-- [x] assuming that
-- [ ] attempt
-- [ ] conditions
+- [x] trail
+- [ ] assuming that
+- [ ] canyon
 
 > **解析**：`hike` 在此作名词（也可作动词），意为“徒步旅行、远足”。短语 `day hike` 指“一日徒步”。
 
@@ -169,9 +169,9 @@ They found a flat piece of land near the river to pitch a tent about `____`.
 
 ### 3
 
-Reaching the top of the cliff offered a breathtaking scenic view of the valley (`____`).
+Reaching the top of the cliff offered a breathtaking scenic view of the valley `____`.
 
-- [x] attempt to
+- [x] assuming that
 - [ ] be able to
 - [ ] dehydrated
 
@@ -179,11 +179,11 @@ Reaching the top of the cliff offered a breathtaking scenic view of the valley (
 
 ### 4
 
-The national park is home to a wide variety of protected wildlife (`____`).
+The national park is home to a wide variety of protected `____`life.
 
-- [x] be able to
-- [ ] canyon
-- [ ] enough to
+- [x] wild
+- [ ] be able to
+- [ ] dehydrated
 
 > **解析**：`wildlife` 是不可数名词，意为“野生动植物”，由 `wild` + `life` 复合而成。
 
@@ -229,9 +229,9 @@ Backpacking through the untouched wilderness requires proper safety `____` and p
 
 ### 9
 
-Taking a walk outside is a great way to enjoy some fresh air after work (`____`).
+Taking a walk outside is a great way to enjoy some fresh air after work `____`.
 
-- [x] enough to
+- [x] attempt to
 - [ ] gear
 - [ ] picturesque
 
@@ -239,11 +239,11 @@ Taking a walk outside is a great way to enjoy some fresh air after work (`____`)
 
 ### 10
 
-Follow the marked `____` carefully so that you do not get lost in the forest.
+Follow the marked trail carefully so that you do not get lost in the forest `____`.
 
-- [x] trail
-- [ ] gear
-- [ ] picturesque
+- [x] be able to
+- [ ] how about we
+- [ ] poisonous
 
 > **解析**：`trail` 是名词，意为“小径、山路”，常用搭配 `marked trail`（带标记的小路）。
 

@@ -90,7 +90,7 @@ ridden 是 ride 的过去分词。the environment 表示"环境"。
    > **解析**：quietly 为副词，意为“安静地、悄悄地”。修饰动词 sat。avoid scaring 表示“避免惊吓”。
 
 8. **中文**：吼猴在树冠层大声沟通，以此标示它们的领地。  
-   **英文**：Howler monkeys communicate loudly across the canopy to mark their territory (go back).
+   **英文**：Howler monkeys communicate loudly across the canopy to mark their territory beside.
    > **解析**：loudly 为副词，意为“大声地、喧闹地”。修饰动词 communicate。mark territory 意为“标示领地”。
 
 9. **中文**：河岸上盖满了被流水冲刷得光滑的灰色石头。  
@@ -126,7 +126,7 @@ ridden 是 ride 的过去分词。the environment 表示"环境"。
 7. The wildlife photographer sat quietly behind the bushes to avoid scaring the birds.
    > **中文**：野生动物摄影师静静地坐在灌木丛后，以免惊吓到鸟类。
 
-8. Howler monkeys communicate loudly across the canopy to mark their territory (go back).
+8. Howler monkeys communicate loudly across the canopy to mark their territory beside.
    > **中文**：吼猴在树冠层大声沟通，以此标示它们的领地。
 
 9. The river bank was covered with smooth gray stones shaped by flowing water.
@@ -215,9 +215,9 @@ The wildlife photographer sat `____` behind the bushes to avoid scaring the bird
 
 ### 8
 
-Howler monkeys communicate loudly across the canopy to mark their territory (`____`).
+Howler monkeys communicate loudly across the canopy to mark their territory `____`.
 
-- [x] go back
+- [x] beside
 - [ ] humid
 - [ ] loudly
 
@@ -235,9 +235,9 @@ The river bank was covered with smooth gray `____`s shaped by flowing water.
 
 ### 10
 
-The tour guide advised the hikers to go back before nightfall about `____`.
+The tour guide advised the hikers to `____` before nightfall about beside.
 
-- [x] beside
+- [x] go back
 - [ ] just
 - [ ] penguin
 

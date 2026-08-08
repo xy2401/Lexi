@@ -74,7 +74,7 @@ by accident 表示"偶然、不小心"。in general 表示"总的来说"。
    > **解析**：communicate 为动词，意为“沟通、交流”。搭配 communicate with sb.（与某人沟通）。make it easy to do 中的 it 为形式宾语。
 
 4. **中文**：注意不要从共享文件夹中删除任何重要文档。  
-   **英文**：Be careful not to delete any important documents from the shared folder (by accident).
+   **英文**：Be careful not to delete any important documents from the shared folder.
    > **解析**：delete 为动词，意为“删除”。delete sth. from... 表示“从……中删除某物”。名词形式为 deletion。
 
 5. **中文**：点击短信中提供的链接来重置你的账户密码。  
@@ -114,7 +114,7 @@ by accident 表示"偶然、不小心"。in general 表示"总的来说"。
 3. Modern messaging apps make it easy to communicate with team members instantly.
    > **中文**：现代即时通讯软件使团队成员之间的即时沟通变得非常容易。
 
-4. Be careful not to delete any important documents from the shared folder (by accident).
+4. Be careful not to delete any important documents from the shared folder.
    > **中文**：注意不要从共享文件夹中删除任何重要文档。
 
 5. Click on the link provided in the message to reset your account password.
@@ -175,10 +175,10 @@ Modern messaging apps make it easy to `____` with team members instantly.
 
 ### 4
 
-Be careful not to delete any important documents from the shared folder (`____`).
+Be careful not to `____` any important documents from the shared folder.
 
-- [x] by accident
-- [ ] communicate
+- [x] delete
+- [ ] by accident
 - [ ] exit
 
 > **解析**：delete 为动词，意为“删除”。delete sth. from... 表示“从……中删除某物”。名词形式为 deletion。
@@ -205,9 +205,9 @@ I sent an inquiry this morning, but I have not received a `____` yet.
 
 ### 7
 
-He `____`d the file by accident while clearing space on his computer.
+He deleted the file `____` while clearing space on his computer.
 
-- [x] delete
+- [x] by accident
 - [ ] effect
 - [ ] in general
 

@@ -66,7 +66,7 @@ all in all, away, blinds, company, draw attention, dust, get, goes without sayin
 <quiz-sentence-builder>
 
 1. **中文**：在今天下午客人到达之前，我们需要快速收拾一下客厅。  
-   **英文**：We need to quickly tidy up the living room before our guests arrive this afternoon (all in all).
+   **英文**：We need to quickly tidy up the living room before our guests arrive this afternoon.
    > **解析**：`tidy up` 是动词短语，意为“收拾、整理”，在句中作不定式 `to tidy up` 的核心动词。
 
 2. **中文**：经过两个小时的辛勤劳动，厨房地板变得一尘不染、异常干净。  
@@ -82,7 +82,7 @@ all in all, away, blinds, company, draw attention, dust, get, goes without sayin
    > **解析**：`wipe` 是动词，意为“擦拭、抹干净”。常用搭配 `wipe A with B`（用B擦拭A）。
 
 5. **中文**：打翻了一杯橙汁后，他不得不拖干净厨房地板。  
-   **英文**：He had to mop the kitchen floor after spilling a glass of orange juice (draw attention).
+   **英文**：He had to mop the kitchen floor after spilling a glass of orange juice all in all.
    > **解析**：`mop` 在此作动词，意为“用拖把拖（地）”，在句中作动词 `had to` 的谓语。
 
 6. **中文**：她把周日下午的时间花在整理书架和办公文件上。  
@@ -94,22 +94,22 @@ all in all, away, blinds, company, draw attention, dust, get, goes without sayin
    > **解析**：`scrub` 是动词，意为“用力刷洗、擦洗”，常带出用力清洁的意味。
 
 8. **中文**：清理掉桌面上的所有杂乱物品，让人更容易集中精力工作。  
-   **英文**：Clearing away all the desktop clutter makes it much easier to focus on work (goes without saying).
+   **英文**：Clearing away all the desktop clutter makes it much easier to focus on work draw attention.
    > **解析**：`clutter` 作名词，意为“杂乱物品、乱七八糟的东西”，属于不可数名词。
 
 9. **中文**：开窗通风有助于在家人来访前让客房空气保持清新。  
-   **英文**：Opening the window helps freshen up the guest room before family visits (good enough).
+   **英文**：Opening the window helps freshen up the guest room before family visits get.
    > **解析**：`freshen up` 是动词短语，意为“整理使清新、焕然一新/通风梳洗”。
 
 10. **中文**：他们在假期开始前对整座房子进行了一次大扫除/深度清洁。  
-   **英文**：They gave the entire house a deep clean right before the holidays started (good thinking).
+   **英文**：They gave the entire house a deep clean right before the holidays started goes without saying.
    > **解析**：`deep clean` 作名词或动词，意为“深度清洁、彻底大扫除”，搭配 `give sth. a deep clean`。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We need to quickly tidy up the living room before our guests arrive this afternoon (all in all).
+1. We need to quickly tidy up the living room before our guests arrive this afternoon.
    > **中文**：在今天下午客人到达之前，我们需要快速收拾一下客厅。
 
 2. After two hours of hard work, the kitchen floor was completely clean and spotless about away.
@@ -121,7 +121,7 @@ all in all, away, blinds, company, draw attention, dust, get, goes without sayin
 4. Please wipe the dining table with a damp cloth after finishing lunch about company.
    > **中文**：吃完午饭后，请用湿抹布擦干净餐桌。
 
-5. He had to mop the kitchen floor after spilling a glass of orange juice (draw attention).
+5. He had to mop the kitchen floor after spilling a glass of orange juice all in all.
    > **中文**：打翻了一杯橙汁后，他不得不拖干净厨房地板。
 
 6. She spent her Sunday afternoon organizing her bookshelves and office documents about dust.
@@ -130,13 +130,13 @@ all in all, away, blinds, company, draw attention, dust, get, goes without sayin
 7. You need a hard brush to scrub the stubborn stains off the bathroom tiles.
    > **中文**：你需要一把硬毛刷来刷洗掉浴室瓷砖上的顽固污渍。
 
-8. Clearing away all the desktop clutter makes it much easier to focus on work (goes without saying).
+8. Clearing away all the desktop clutter makes it much easier to focus on work draw attention.
    > **中文**：清理掉桌面上的所有杂乱物品，让人更容易集中精力工作。
 
-9. Opening the window helps freshen up the guest room before family visits (good enough).
+9. Opening the window helps freshen up the guest room before family visits get.
    > **中文**：开窗通风有助于在家人来访前让客房空气保持清新。
 
-10. They gave the entire house a deep clean right before the holidays started (good thinking).
+10. They gave the entire house a deep clean right before the holidays started goes without saying.
    > **中文**：他们在假期开始前对整座房子进行了一次大扫除/深度清洁。
 
 </quiz-listening>
@@ -149,11 +149,11 @@ all in all, away, blinds, company, draw attention, dust, get, goes without sayin
 
 ### 1
 
-We need to quickly tidy up the living room before our guests arrive this afternoon (`____`).
+We need to quickly `____` the living room before our guests arrive this afternoon.
 
-- [x] all in all
-- [ ] away
-- [ ] dust
+- [x] tidy up
+- [ ] all in all
+- [ ] draw attention
 
 > **解析**：`tidy up` 是动词短语，意为“收拾、整理”，在句中作不定式 `to tidy up` 的核心动词。
 
@@ -189,9 +189,9 @@ Please wipe the dining table with a damp cloth after finishing lunch about `____
 
 ### 5
 
-He had to mop the kitchen floor after spilling a glass of orange juice (`____`).
+He had to mop the kitchen floor after spilling a glass of orange juice `____`.
 
-- [x] draw attention
+- [x] all in all
 - [ ] dust
 - [ ] good thinking
 
@@ -219,9 +219,9 @@ You need a hard brush to `____` the stubborn stains off the bathroom tiles.
 
 ### 8
 
-Clearing away all the desktop clutter makes it much easier to focus on work (`____`).
+Clearing away all the desktop clutter makes it much easier to focus on work `____`.
 
-- [x] goes without saying
+- [x] draw attention
 - [ ] good enough
 - [ ] impression
 
@@ -229,9 +229,9 @@ Clearing away all the desktop clutter makes it much easier to focus on work (`__
 
 ### 9
 
-Opening the window helps freshen up the guest room before family visits (`____`).
+Opening the window helps freshen up the guest room before family visits `____`.
 
-- [x] good enough
+- [x] get
 - [ ] good thinking
 - [ ] in time
 
@@ -239,9 +239,9 @@ Opening the window helps freshen up the guest room before family visits (`____`)
 
 ### 10
 
-They gave the entire house a deep clean right before the holidays started (`____`).
+They gave the entire house a deep clean right before the holidays started `____`.
 
-- [x] good thinking
+- [x] goes without saying
 - [ ] have to be
 - [ ] need to be
 

@@ -88,7 +88,7 @@ used to（过去常常）和 get used to（逐渐习惯）是本单元的重要�
    > **解析**：server 可数名词，在计算机领域指“服务器”。
 
 10. **中文**：她打开了摄像头，以便视频会议期间大家都能看到她。  
-   **英文**：She turned on her webcam so everyone could see her during the video meeting (log out of).
+   **英文**：She turned on her webcam so everyone could see her during the video meeting.
    > **解析**：webcam 可数名词，意为“网络摄像头”，由 web + camera 合成。
 
 </quiz-sentence-builder>
@@ -122,7 +122,7 @@ used to（过去常常）和 get used to（逐渐习惯）是本单元的重要�
 9. The company server went offline temporarily for routine technical maintenance.
    > **中文**：公司服务器因例行技术维护暂时离线了。
 
-10. She turned on her webcam so everyone could see her during the video meeting (log out of).
+10. She turned on her webcam so everyone could see her during the video meeting.
    > **中文**：她打开了摄像头，以便视频会议期间大家都能看到她。
 
 </quiz-listening>
@@ -225,7 +225,7 @@ The company `____` went offline temporarily for routine technical maintenance.
 
 ### 10
 
-She turned on her `____` so everyone could see her during the video meeting (log out of).
+She turned on her `____` so everyone could see her during the video meeting.
 
 - [x] webcam
 - [ ] log out of

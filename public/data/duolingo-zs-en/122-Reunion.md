@@ -62,7 +62,7 @@ get together 表示"聚会"。现在完成时（have gotten together, have given
 <quiz-sentence-builder>
 
 1. **中文**：我们公司每年十二月都会为所有员工举办一次年度聚会。  
-   **英文**：Our company hosts an annual reunion party every December for all employees (a shame).
+   **英文**：Our company hosts an annual reunion party every December for all employees.
    > **解析**：annual 为形容词，意为“每年的、年度的”。在句中作定语修饰名词 reunion party。表达“一年一度的活动”常搭配 annual event / annual meeting / annual party。
 
 2. **中文**：同学们通常每个夏天聚在一起庆祝他们的友谊。  
@@ -86,26 +86,26 @@ get together 表示"聚会"。现在完成时（have gotten together, have given
    > **解析**：outgoing 为形容词，意为“外向的、开朗的”。在句中作表语，修饰人（My brother）。其反义词为 reserved 或 shy。
 
 7. **中文**：萨拉没能赶来参加我们一年一度的家庭聚会，真是太可惜了。  
-   **英文**：It is a shame that Sarah could not make it to our annual family reunion (except that).
+   **英文**：It is a shame that Sarah could not make it to our annual family reunion.
    > **解析**：a shame 为固定短语，意为“令人遗憾的事、可惜”。常用句型 It is a shame that... 引导主语从句，表达对某种情况的遗憾。
 
 8. **中文**：让我向派对上的所有人介绍一下我以前的室友。  
-   **英文**：Let me introduce my former roommate to everyone at the party (get together).
+   **英文**：Let me introduce my former roommate to everyone at the party.
    > **解析**：introduce 为动词，意为“介绍”。常见用法为 introduce sb. to sb.（向某人介绍某人）。Let me introduce... 为礼貌的介绍句型。
 
 9. **中文**：请准备一些素食菜肴，因为我们的客人中有两位是素食主义者。  
-   **英文**：Please prepare some plant-based dishes because two of our guests are vegetarian (give up).
+   **英文**：Please prepare some plant-based dishes because two of our guests are vegetarian.
    > **解析**：vegetarian 在此处用作名词，意为“素食主义者”。也可以用作形容词（如 vegetarian food 素食）。
 
 10. **中文**：当他们在机场到达大厅相见时，互相给了一个温暖的拥抱。  
-   **英文**：They gave each other a warm hug when they met at the airport arrival hall (given up).
+   **英文**：They gave each other a warm hug when they met at the airport arrival hall.
    > **解析**：hug 在句中作可数名词，意为“拥抱”。give sb. a hug 表示“拥抱某人”。hug 也可以作动词（hugged）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Our company hosts an annual reunion party every December for all employees (a shame).
+1. Our company hosts an annual reunion party every December for all employees.
    > **中文**：我们公司每年十二月都会为所有员工举办一次年度聚会。
 
 2. Classmates usually get together every summer to celebrate their friendship.
@@ -123,16 +123,16 @@ get together 表示"聚会"。现在完成时（have gotten together, have given
 6. My brother is very outgoing and makes new friends easily at social gatherings.
    > **中文**：我哥哥性格非常外向，在社交场合很容易结交新朋友。
 
-7. It is a shame that Sarah could not make it to our annual family reunion (except that).
+7. It is a shame that Sarah could not make it to our annual family reunion.
    > **中文**：萨拉没能赶来参加我们一年一度的家庭聚会，真是太可惜了。
 
-8. Let me introduce my former roommate to everyone at the party (get together).
+8. Let me introduce my former roommate to everyone at the party.
    > **中文**：让我向派对上的所有人介绍一下我以前的室友。
 
-9. Please prepare some plant-based dishes because two of our guests are vegetarian (give up).
+9. Please prepare some plant-based dishes because two of our guests are vegetarian.
    > **中文**：请准备一些素食菜肴，因为我们的客人中有两位是素食主义者。
 
-10. They gave each other a warm hug when they met at the airport arrival hall (given up).
+10. They gave each other a warm hug when they met at the airport arrival hall.
    > **中文**：当他们在机场到达大厅相见时，互相给了一个温暖的拥抱。
 
 </quiz-listening>
@@ -145,10 +145,10 @@ get together 表示"聚会"。现在完成时（have gotten together, have given
 
 ### 1
 
-Our company hosts an annual reunion party every December for all employees (`____`).
+Our company hosts an `____` reunion party every December for all employees.
 
-- [x] a shame
-- [ ] annual
+- [x] annual
+- [ ] a shame
 - [ ] dj
 
 > **解析**：annual 为形容词，意为“每年的、年度的”。在句中作定语修饰名词 reunion party。表达“一年一度的活动”常搭配 annual event / annual meeting / annual party。
@@ -205,9 +205,9 @@ My brother is very `____` and makes new friends easily at social gatherings.
 
 ### 7
 
-It is a shame that Sarah could not make it to our `____` family reunion (except that).
+It is `____` that Sarah could not make it to our annual family reunion.
 
-- [x] annual
+- [x] a shame
 - [ ] get together
 - [ ] graduation
 
@@ -215,7 +215,7 @@ It is a shame that Sarah could not make it to our `____` family reunion (except 
 
 ### 8
 
-Let me `____` my former roommate to everyone at the party (get together).
+Let me `____` my former roommate to everyone at the party.
 
 - [x] introduce
 - [ ] get together
@@ -225,21 +225,21 @@ Let me `____` my former roommate to everyone at the party (get together).
 
 ### 9
 
-Please prepare some plant-based dishes because two of our guests are vegetarian (`____`).
+Please prepare some plant-based dishes because two of our guests are `____`.
 
-- [x] give up
-- [ ] given up
-- [ ] honey
+- [x] vegetarian
+- [ ] give up
+- [ ] hang out
 
 > **解析**：vegetarian 在此处用作名词，意为“素食主义者”。也可以用作形容词（如 vegetarian food 素食）。
 
 ### 10
 
-They gave each other a warm hug when they met at the airport arrival hall (`____`).
+They gave each other a warm `____` when they met at the airport arrival hall.
 
-- [x] given up
-- [ ] gotten together
-- [ ] hug
+- [x] hug
+- [ ] given up
+- [ ] honey
 
 > **解析**：hug 在句中作可数名词，意为“拥抱”。give sb. a hug 表示“拥抱某人”。hug 也可以作动词（hugged）。
 

@@ -70,11 +70,11 @@ pick up（接人）vs drop off（送人）。get stuck = 被困住。
    > **解析**：drop off 为动词短语，意为“送下车、放下”。
 
 3. **中文**：傍晚高峰期的交通瘫痪使我们的行程延误了将近一个小时。  
-   **英文**：Traffic gridlock during evening rush hour delayed our journey by nearly an hour (close by).
+   **英文**：Traffic gridlock during evening rush hour delayed our journey by nearly an hour.
    > **解析**：rush hour 为名词短语，意为“（上下班）高峰期”。evening rush hour 指“晚高峰”。
 
 4. **中文**：由于道路施工，我们被困在了高速公路上的严重交通堵塞中。  
-   **英文**：We got stuck in a heavy traffic jam on the highway due to road construction (come with).
+   **英文**：We got stuck in a heavy traffic jam on the highway due to road construction.
    > **解析**：traffic jam 为名词短语，意为“交通堵塞/堵车”。get stuck in a traffic jam 意为“被困于堵车中”。
 
 5. **中文**：驾驶员在穿过住宅区时必须严格遵守限速规定。  
@@ -94,7 +94,7 @@ pick up（接人）vs drop off（送人）。get stuck = 被困住。
    > **解析**：on the way to 为固定介词短语，意为“在去...的路上”。give sb. a ride 意为“顺路搭乘某人”。
 
 9. **中文**：当心！从你的右后视镜里有一辆自行车正在快速靠近！  
-   **英文**：Watch out! There is a bicycle approaching fast from your right side mirror (drop off).
+   **英文**：Watch out! There is a bicycle approaching fast from your right side mirror.
    > **解析**：watch out 为动词短语，用作感叹句，意为“当心、注意”。与 look out 同义。
 
 10. **中文**：不用担心开车；公交车站就在附近，步行五分钟即可到达。  
@@ -111,10 +111,10 @@ pick up（接人）vs drop off（送人）。get stuck = 被困住。
 2. Please drop off the guests in front of the supermarket entrance.
    > **中文**：请在超市门前送客人下车。
 
-3. Traffic gridlock during evening rush hour delayed our journey by nearly an hour (close by).
+3. Traffic gridlock during evening rush hour delayed our journey by nearly an hour.
    > **中文**：傍晚高峰期的交通瘫痪使我们的行程延误了将近一个小时。
 
-4. We got stuck in a heavy traffic jam on the highway due to road construction (come with).
+4. We got stuck in a heavy traffic jam on the highway due to road construction.
    > **中文**：由于道路施工，我们被困在了高速公路上的严重交通堵塞中。
 
 5. Drivers must strictly follow the speed limit when passing through residential zones.
@@ -129,7 +129,7 @@ pick up（接人）vs drop off（送人）。get stuck = 被困住。
 8. I can give you a ride since your office is on the way to my destination.
    > **中文**：我可以顺路捎你一程，因为你的办公室正好在去我目的地的路上。
 
-9. Watch out! There is a bicycle approaching fast from your right side mirror (drop off).
+9. Watch out! There is a bicycle approaching fast from your right side mirror.
    > **中文**：当心！从你的右后视镜里有一辆自行车正在快速靠近！
 
 10. Don't worry about driving; the bus stop is close by within five minutes' walk about back.
@@ -165,21 +165,21 @@ Please `____` off the guests in front of the supermarket entrance.
 
 ### 3
 
-Traffic gridlock during evening rush hour delayed our journey by nearly an hour (`____`).
+Traffic gridlock during evening `____` delayed our journey by nearly an hour.
 
-- [x] close by
-- [ ] come with
-- [ ] drop
+- [x] rush hour
+- [ ] close by
+- [ ] driven
 
 > **解析**：rush hour 为名词短语，意为“（上下班）高峰期”。evening rush hour 指“晚高峰”。
 
 ### 4
 
-We got stuck in a heavy traffic jam on the highway due to road construction (`____`).
+We got stuck in a heavy `____` on the highway due to road construction.
 
-- [x] come with
-- [ ] crosswalk
-- [ ] drop off
+- [x] traffic jam
+- [ ] come with
+- [ ] drop
 
 > **解析**：traffic jam 为名词短语，意为“交通堵塞/堵车”。get stuck in a traffic jam 意为“被困于堵车中”。
 
@@ -225,11 +225,11 @@ I can give you a ride since your office is `____` my destination.
 
 ### 9
 
-Watch out! There is a bicycle approaching fast from your right side mirror (`____`).
+`____`! There is a bicycle approaching fast from your right side mirror.
 
-- [x] drop off
-- [ ] exit
-- [ ] on the way to
+- [x] watch out
+- [ ] drop off
+- [ ] lane
 
 > **解析**：watch out 为动词短语，用作感叹句，意为“当心、注意”。与 look out 同义。
 

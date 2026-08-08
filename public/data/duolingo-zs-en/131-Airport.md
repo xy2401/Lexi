@@ -82,7 +82,7 @@ can't / couldn't / won't 是情态动词的否定。canceled 表示"被取消"�
    > **解析**：reservations 为名词复数，意为“预订、预约”。confirm flight reservations 表示“确认航班预订”。
 
 6. **中文**：由于大雪，航空公司取消了早晨的几趟航班。  
-   **英文**：Due to heavy snow, several morning flights were canceled by the airline (check in).
+   **英文**：Due to heavy snow, several morning flights were canceled by the airline.
    > **解析**：canceled 为动词 cancel 的过去分词，在句中构成被动语态（were canceled），意为“被取消”。美式拼写为 canceled，英式为 cancelled。
 
 7. **中文**：在国外留学给学生们提供了体验不同文化的绝佳机会。  
@@ -120,7 +120,7 @@ can't / couldn't / won't 是情态动词的否定。canceled 表示"被取消"�
 5. It is wise to confirm your flight reservations online the day before departure.
    > **中文**：在起飞前一天在线确认您的航班预订是明智的。
 
-6. Due to heavy snow, several morning flights were canceled by the airline (check in).
+6. Due to heavy snow, several morning flights were canceled by the airline.
    > **中文**：由于大雪，航空公司取消了早晨的几趟航班。
 
 7. Studying abroad offers students a wonderful opportunity to experience different cultures.
@@ -195,7 +195,7 @@ It is wise to confirm your flight `____` online the day before departure.
 
 ### 6
 
-Due to heavy snow, several morning flights were `____`ed by the airline (check in).
+Due to heavy snow, several morning flights were `____`ed by the airline.
 
 - [x] cancel
 - [ ] citizen

@@ -64,7 +64,7 @@ bite to eat, dominoes, fond of, french fries, game night, go bowling, go for, ho
 <quiz-sentence-builder>
 
 1. **中文**：听柔和的爵士乐是她在长达一周的工作后最喜欢的放松方式。  
-   **英文**：Listening to soft jazz is her favorite way to unwind after a long week of work (bite to eat).
+   **英文**：Listening to soft jazz is her favorite way to unwind after a long week of work bite to eat.
    > **解析**：`unwind` 是动词，意为“放松身心、解压”，常用于描述结束忙碌工作后的休闲状态。
 
 2. **中文**：周六早晨，我喜欢睡懒觉睡到十点钟。  
@@ -72,23 +72,23 @@ bite to eat, dominoes, fond of, french fries, game night, go bowling, go for, ho
    > **解析**：`sleep in` 是动词短语，意为“睡懒觉、赖床”，指比平时晚起，注意与 `oversleep`（睡过头/迟到）区分。
 
 3. **中文**：今晚别做饭了，我们直接点些中式外卖吧。  
-   **英文**：Instead of cooking dinner tonight, let's just order some Chinese takeout (fond of).
+   **英文**：Instead of cooking dinner tonight, let's just order some Chinese takeout fond of.
    > **解析**：`takeout` 是名词，意为“外卖食物”。常用搭配 `order takeout` 表示“点外卖”。
 
 4. **中文**：他们通常选择在周五晚上去一家不错的餐厅就餐。  
-   **英文**：They usually choose to dine out at a nice restaurant on Friday evenings (french fries).
+   **英文**：They usually choose to dine out at a nice restaurant on Friday evenings french fries.
    > **解析**：`dine out` 是动词短语，意为“在外面就餐、出去吃饭”，比 `eat out` 更稍微正式一些。
 
 5. **中文**：我今晚真的很想在家看一部喜剧电影。  
-   **英文**：I really feel like watching a comedy movie at home tonight (game night).
+   **英文**：I really feel like watching a comedy movie at home tonight game night.
    > **解析**：`feel like + doing sth.` 是常用口语表达，意为“想要做某事、有某种意向”，在句中接动名词 `watching`。
 
 6. **中文**：我们决定举办一场电影连播活动，连续看三部经典影片。  
-   **英文**：We decided to host a movie marathon and watch three classics in a row (go bowling).
+   **英文**：We decided to host a movie marathon and watch three classics in a row go bowling.
    > **解析**：`movie marathon` 指“电影马拉松/连续看多部电影的活动”，`marathon` 比喻长时间持续进行的活动。
 
 7. **中文**：完成这个大项目后，她买了一份精美的甜点犒劳自己。  
-   **英文**：After finishing the big project, she bought a nice dessert to treat herself (go for).
+   **英文**：After finishing the big project, she bought a nice dessert to treat herself go for.
    > **解析**：`treat oneself (to sth.)` 意为“犒劳自己、享受某物”，在句中作目的状语。
 
 8. **中文**：他们在公园附近一家温馨舒适的咖啡馆里度过了寒冷的周五晚上。  
@@ -96,45 +96,45 @@ bite to eat, dominoes, fond of, french fries, game night, go bowling, go for, ho
    > **解析**：`cozy` 是形容词，意为“舒适的、温馨的”，多用来形容房间、气氛或环境令人感到温暖放松。
 
 9. **中文**：我们家里的每个人在选择就餐地点时都有不同的偏好。  
-   **英文**：Everyone in our family has a different preference when choosing dinner spots (if we went).
+   **英文**：Everyone in our family has a different preference when choosing dinner spots if we went.
    > **解析**：`preference` 是名词，意为“偏好、喜爱”，动词形式为 `prefer`。常用搭配 `have a preference for...`。
 
 10. **中文**：这家咖啡馆有一种令人放松的氛围，让人感觉宾至如归。  
-   **英文**：This coffee shop has a relaxed vibe that makes people feel right at home (in mind).
+   **英文**：This coffee shop has a relaxed vibe that makes people feel right at home in mind.
    > **解析**：`vibe` 是口语高频名词，意为“氛围、格调、感觉”，在句中作动词 `has` 的宾语。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Listening to soft jazz is her favorite way to unwind after a long week of work (bite to eat).
+1. Listening to soft jazz is her favorite way to unwind after a long week of work bite to eat.
    > **中文**：听柔和的爵士乐是她在长达一周的工作后最喜欢的放松方式。
 
 2. On Saturday morning, I love to sleep in until ten o'clock about dominoes.
    > **中文**：周六早晨，我喜欢睡懒觉睡到十点钟。
 
-3. Instead of cooking dinner tonight, let's just order some Chinese takeout (fond of).
+3. Instead of cooking dinner tonight, let's just order some Chinese takeout fond of.
    > **中文**：今晚别做饭了，我们直接点些中式外卖吧。
 
-4. They usually choose to dine out at a nice restaurant on Friday evenings (french fries).
+4. They usually choose to dine out at a nice restaurant on Friday evenings french fries.
    > **中文**：他们通常选择在周五晚上去一家不错的餐厅就餐。
 
-5. I really feel like watching a comedy movie at home tonight (game night).
+5. I really feel like watching a comedy movie at home tonight game night.
    > **中文**：我今晚真的很想在家看一部喜剧电影。
 
-6. We decided to host a movie marathon and watch three classics in a row (go bowling).
+6. We decided to host a movie marathon and watch three classics in a row go bowling.
    > **中文**：我们决定举办一场电影连播活动，连续看三部经典影片。
 
-7. After finishing the big project, she bought a nice dessert to treat herself (go for).
+7. After finishing the big project, she bought a nice dessert to treat herself go for.
    > **中文**：完成这个大项目后，她买了一份精美的甜点犒劳自己。
 
 8. They spent the cold Friday evening in a cozy cafe near the park about however.
    > **中文**：他们在公园附近一家温馨舒适的咖啡馆里度过了寒冷的周五晚上。
 
-9. Everyone in our family has a different preference when choosing dinner spots (if we went).
+9. Everyone in our family has a different preference when choosing dinner spots if we went.
    > **中文**：我们家里的每个人在选择就餐地点时都有不同的偏好。
 
-10. This coffee shop has a relaxed vibe that makes people feel right at home (in mind).
+10. This coffee shop has a relaxed vibe that makes people feel right at home in mind.
    > **中文**：这家咖啡馆有一种令人放松的氛围，让人感觉宾至如归。
 
 </quiz-listening>
@@ -147,7 +147,7 @@ bite to eat, dominoes, fond of, french fries, game night, go bowling, go for, ho
 
 ### 1
 
-Listening to soft jazz is her favorite way to unwind after a long week of work (`____`).
+Listening to soft jazz is her favorite way to unwind after a long week of work `____`.
 
 - [x] bite to eat
 - [ ] dominoes
@@ -167,7 +167,7 @@ On Saturday morning, I love to sleep in until ten o'clock about `____`.
 
 ### 3
 
-Instead of cooking dinner tonight, let's just order some Chinese takeout (`____`).
+Instead of cooking dinner tonight, let's just order some Chinese takeout `____`.
 
 - [x] fond of
 - [ ] french fries
@@ -177,7 +177,7 @@ Instead of cooking dinner tonight, let's just order some Chinese takeout (`____`
 
 ### 4
 
-They usually choose to dine out at a nice restaurant on Friday evenings (`____`).
+They usually choose to dine out at a nice restaurant on Friday evenings `____`.
 
 - [x] french fries
 - [ ] game night
@@ -187,7 +187,7 @@ They usually choose to dine out at a nice restaurant on Friday evenings (`____`)
 
 ### 5
 
-I really feel like watching a comedy movie at home tonight (`____`).
+I really feel like watching a comedy movie at home tonight `____`.
 
 - [x] game night
 - [ ] go bowling
@@ -197,7 +197,7 @@ I really feel like watching a comedy movie at home tonight (`____`).
 
 ### 6
 
-We decided to host a movie marathon and watch three classics in a row (`____`).
+We decided to host a movie marathon and watch three classics in a row `____`.
 
 - [x] go bowling
 - [ ] go for
@@ -207,7 +207,7 @@ We decided to host a movie marathon and watch three classics in a row (`____`).
 
 ### 7
 
-After finishing the big project, she bought a nice dessert to treat herself (`____`).
+After finishing the big project, she bought a nice dessert to treat herself `____`.
 
 - [x] go for
 - [ ] however
@@ -227,7 +227,7 @@ They spent the cold Friday evening in a cozy cafe near the park about `____`.
 
 ### 9
 
-Everyone in our family has a different preference when choosing dinner spots (`____`).
+Everyone in our family has a different preference when choosing dinner spots `____`.
 
 - [x] if we went
 - [ ] in mind
@@ -237,7 +237,7 @@ Everyone in our family has a different preference when choosing dinner spots (`_
 
 ### 10
 
-This coffee shop has a relaxed vibe that makes people feel right at home (`____`).
+This coffee shop has a relaxed vibe that makes people feel right at home `____`.
 
 - [x] in mind
 - [ ] it's your choice

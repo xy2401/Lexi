@@ -78,7 +78,7 @@ there is / there are 表存在。many 修饰可数，much 修饰不可数。
    > **解析**：independent 为形容词，指“独立的、非主流大制片的”，independent film/studio 指独立制作电影/工作室。
 
 5. **中文**：这部动画电影情节引人入胜，包含许多意想不到的转折。  
-   **英文**：The animated movie features an engaging plot with lots of unexpected twists (can't stand).
+   **英文**：The animated movie features an engaging plot with lots of unexpected twists.
    > **解析**：plot 为名词，意为“情节、剧情”。常用搭配 captivating plot（吸引人的情节）、plot twist（剧情转折）。
 
 6. **中文**：这部卡通片的故事设定在一个神奇的海底王国。  
@@ -117,7 +117,7 @@ there is / there are 表存在。many 修饰可数，much 修饰不可数。
 4. The film festival highlights innovative works from independent animation directors.
    > **中文**：该电影节重点展示来自独立动画导演的创新作品。
 
-5. The animated movie features an engaging plot with lots of unexpected twists (can't stand).
+5. The animated movie features an engaging plot with lots of unexpected twists.
    > **中文**：这部动画电影情节引人入胜，包含许多意想不到的转折。
 
 6. The story of the cartoon is set in a magical underwater kingdom.
@@ -185,7 +185,7 @@ The film festival highlights innovative works from `____` animation directors.
 
 ### 5
 
-The animated movie features an engaging `____` with lots of unexpected twists (can't stand).
+The animated movie features an engaging `____` with lots of unexpected twists.
 
 - [x] plot
 - [ ] can't stand

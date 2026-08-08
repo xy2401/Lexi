@@ -80,7 +80,7 @@ the problem is / the issue is 是引出抱怨的经典句式。get carried away�
 <quiz-sentence-builder>
 
 1. **中文**：我们的隔壁邻居有个午夜给草坪浇水的怪异习惯。  
-   **英文**：Our next-door neighbor has a bizarre habit of watering his lawn at midnight (a piece of).
+   **英文**：Our next-door neighbor has a bizarre habit of watering his lawn at midnight.
    > **解析**：`bizarre` 是形容词，意为“极其古怪的、怪诞的”，修饰 `habit`。
 
 2. **中文**：她经常在深夜播放大声的音乐。  
@@ -92,7 +92,7 @@ the problem is / the issue is 是引出抱怨的经典句式。get carried away�
    > **解析**：`outrageous` 是形容词，意为“令人不能容忍的、过分的”，作表语。
 
 4. **中文**：我们安装了木栅栏以保护我们家庭的隐私。  
-   **英文**：We installed a wooden fence to protect our family's privacy (cool down).
+   **英文**：We installed a wooden fence to protect our family's privacy.
    > **解析**：`privacy` 是不可数名词，意为“隐私”，搭配 `protect privacy`。
 
 5. **中文**：坦白讲，我不明白他为什么对每个人都态度如此挑衅。  
@@ -104,7 +104,7 @@ the problem is / the issue is 是引出抱怨的经典句式。get carried away�
    > **解析**：`the problem is that...` 是用于指出问题所在的主从复合句型。
 
 7. **中文**：他在争吵中情绪失控，开始在车道上大喊大叫。  
-   **英文**：He got carried away during the argument and started shouting at the driveway (fire department).
+   **英文**：He got carried away during the argument and started shouting at the driveway.
    > **解析**：`get carried away` 是固定短语，意为“情绪失控、做过头”。
 
 8. **中文**：邻居们应当为保持公共区域的清洁承担责任。  
@@ -112,18 +112,18 @@ the problem is / the issue is 是引出抱怨的经典句式。get carried away�
    > **解析**：`take responsibility for...` 是固定短语，意为“对……承担责任”。
 
 9. **中文**：自昨天起，一辆奇怪的红色轿车就一直停在我们的车道上。  
-   **英文**：A strange red car has been parked on our driveway since yesterday (get carried away).
+   **英文**：A strange red car has been parked on our driveway since yesterday a piece of.
    > **解析**：`driveway` 是名词，意为“私人车道”，介词用 `on`。
 
 10. **中文**：如果您能把电视音量调小一点，我将不胜感激。  
-   **英文**：I would appreciate it if you could turn down the volume of your TV (i don't think).
+   **英文**：I would appreciate it if you could turn down the volume of your TV.
    > **解析**：`would appreciate it if...` 是极具礼貌委婉色彩的常用请求句型。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Our next-door neighbor has a bizarre habit of watering his lawn at midnight (a piece of).
+1. Our next-door neighbor has a bizarre habit of watering his lawn at midnight.
    > **中文**：我们的隔壁邻居有个午夜给草坪浇水的怪异习惯。
 
 2. She constantly plays loud music late into the night.
@@ -132,7 +132,7 @@ the problem is / the issue is 是引出抱怨的经典句式。get carried away�
 3. Making so much noise on a weekday evening is simply outrageous.
    > **中文**：在工作日晚上制造这么大的噪音简直是令人不能容忍。
 
-4. We installed a wooden fence to protect our family's privacy (cool down).
+4. We installed a wooden fence to protect our family's privacy.
    > **中文**：我们安装了木栅栏以保护我们家庭的隐私。
 
 5. Frankly, I don't understand why he acts so aggressively towards everyone.
@@ -141,16 +141,16 @@ the problem is / the issue is 是引出抱怨的经典句式。get carried away�
 6. The problem is that his dog barks all day long without stopping.
    > **中文**：问题在于他的狗整天叫个不停。
 
-7. He got carried away during the argument and started shouting at the driveway (fire department).
+7. He got carried away during the argument and started shouting at the driveway.
    > **中文**：他在争吵中情绪失控，开始在车道上大喊大叫。
 
 8. Neighbors should take responsibility for keeping the shared area clean.
    > **中文**：邻居们应当为保持公共区域的清洁承担责任。
 
-9. A strange red car has been parked on our driveway since yesterday (get carried away).
+9. A strange red car has been parked on our driveway since yesterday a piece of.
    > **中文**：自昨天起，一辆奇怪的红色轿车就一直停在我们的车道上。
 
-10. I would appreciate it if you could turn down the volume of your TV (i don't think).
+10. I would appreciate it if you could turn down the volume of your TV.
    > **中文**：如果您能把电视音量调小一点，我将不胜感激。
 
 </quiz-listening>
@@ -163,10 +163,10 @@ the problem is / the issue is 是引出抱怨的经典句式。get carried away�
 
 ### 1
 
-Our next-door neighbor has a bizarre habit of watering his lawn at midnight (`____`).
+Our next-door neighbor has a `____` habit of watering his lawn at midnight.
 
-- [x] a piece of
-- [ ] bizarre
+- [x] bizarre
+- [ ] a piece of
 - [ ] endless
 
 > **解析**：`bizarre` 是形容词，意为“极其古怪的、怪诞的”，修饰 `habit`。
@@ -193,11 +193,11 @@ Making so much noise on a weekday evening is simply `____`.
 
 ### 4
 
-We installed a wooden fence to protect our family's privacy (`____`).
+We installed a wooden fence to protect our family's `____`.
 
-- [x] cool down
-- [ ] driveway
-- [ ] get carried away
+- [x] privacy
+- [ ] cool down
+- [ ] frankly
 
 > **解析**：`privacy` 是不可数名词，意为“隐私”，搭配 `protect privacy`。
 
@@ -223,7 +223,7 @@ We installed a wooden fence to protect our family's privacy (`____`).
 
 ### 7
 
-He got carried away during the argument and started shouting at the `____` (fire department).
+He got carried away during the argument and started shouting at the `____`.
 
 - [x] driveway
 - [ ] frankly
@@ -243,9 +243,9 @@ Neighbors should take responsibility for `____`ing the shared area clean.
 
 ### 9
 
-A strange red car has been parked on our driveway since yesterday (`____`).
+A strange red car has been parked on our driveway since yesterday `____`.
 
-- [x] get carried away
+- [x] a piece of
 - [ ] i don't think
 - [ ] not to mention
 
@@ -253,11 +253,11 @@ A strange red car has been parked on our driveway since yesterday (`____`).
 
 ### 10
 
-I would appreciate it if you could turn down the volume of your TV (`____`).
+I `____` if you could turn down the volume of your TV.
 
-- [x] i don't think
-- [ ] in tears
-- [ ] outrageous
+- [x] would appreciate it
+- [ ] i don't think
+- [ ] not to mention
 
 > **解析**：`would appreciate it if...` 是极具礼貌委婉色彩的常用请求句型。
 

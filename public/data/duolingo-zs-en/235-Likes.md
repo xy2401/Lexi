@@ -76,15 +76,15 @@ appealing, appropriately, by, can't get enough of, can't wait, catch up, don't, 
    > **解析**：`homemade` 形容词，意为“自制的；家常的”。
 
 4. **中文**：你把新公寓装饰得非常有品味/风格高雅，每面墙上都有优雅的艺术品。  
-   **英文**：You decorated your new apartment in style, with elegant art pieces on every wall (can't get enough of).
+   **英文**：You decorated your new apartment in style, with elegant art pieces on every wall.
    > **解析**：`in style` 介词短语作状语/表语，意为“有品味的；时髦地；富有风格地”。
 
 5. **中文**：你不应该错过探索后院漂亮花园的机会。  
-   **英文**：You shouldn't miss out on exploring the lovely garden in the backyard (can't wait).
+   **英文**：You shouldn't miss out on exploring the lovely garden in the backyard.
    > **解析**：`miss out on sth.` 动词短语，意为“错过（好机会、乐趣等）”。
 
 6. **中文**：下周日举办暖房烧烤听起来是个极好的主意！  
-   **英文**：Hosting a housewarming barbecue next Sunday sounds like a wonderful idea (catch up).
+   **英文**：Hosting a housewarming barbecue next Sunday sounds like a wonderful idea.
    > **解析**：`sounds` 连系动词 `sound` 的第三人称单数，搭配 `sound like + 名词`（听起来像……）。
 
 7. **中文**：自从搬进这栋宽敞的郊区房子后，你最近都在忙些什么？  
@@ -116,13 +116,13 @@ appealing, appropriately, by, can't get enough of, can't wait, catch up, don't, 
 3. Thank you for inviting us; this delicious homemade apple pie is fantastic.
    > **中文**：谢谢你邀请我们；这道美味的自制苹果派太棒了！
 
-4. You decorated your new apartment in style, with elegant art pieces on every wall (can't get enough of).
+4. You decorated your new apartment in style, with elegant art pieces on every wall.
    > **中文**：你把新公寓装饰得非常有品味/风格高雅，每面墙上都有优雅的艺术品。
 
-5. You shouldn't miss out on exploring the lovely garden in the backyard (can't wait).
+5. You shouldn't miss out on exploring the lovely garden in the backyard.
    > **中文**：你不应该错过探索后院漂亮花园的机会。
 
-6. Hosting a housewarming barbecue next Sunday sounds like a wonderful idea (catch up).
+6. Hosting a housewarming barbecue next Sunday sounds like a wonderful idea.
    > **中文**：下周日举办暖房烧烤听起来是个极好的主意！
 
 7. What have you been up to since moving into this spacious suburban home.
@@ -177,27 +177,27 @@ Thank you for inviting us; this delicious `____` apple pie is fantastic.
 
 ### 4
 
-You decorated your new apartment in style, with elegant art pieces on every wall (`____`).
+You decorated your new apartment `____`, with elegant art pieces on every wall.
 
-- [x] can't get enough of
-- [ ] can't wait
-- [ ] homemade
+- [x] in style
+- [ ] can't get enough of
+- [ ] entertaining
 
 > **解析**：`in style` 介词短语作状语/表语，意为“有品味的；时髦地；富有风格地”。
 
 ### 5
 
-You shouldn't miss out on exploring the lovely garden in the backyard (`____`).
+You shouldn't miss out on exploring the `____` garden in the backyard.
 
-- [x] can't wait
-- [ ] catch up
-- [ ] housewarming
+- [x] lovely
+- [ ] can't wait
+- [ ] homemade
 
 > **解析**：`miss out on sth.` 动词短语，意为“错过（好机会、乐趣等）”。
 
 ### 6
 
-Hosting a `____` barbecue next Sunday sounds like a wonderful idea (catch up).
+Hosting a `____` barbecue next Sunday sounds like a wonderful idea.
 
 - [x] housewarming
 - [ ] catch up

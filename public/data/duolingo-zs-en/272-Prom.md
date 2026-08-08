@@ -74,15 +74,15 @@ after-party, afterwards, ask, asked her who had, bow tie, chaperone, clothing, c
    > **解析**：`boutonniere` 指男士在正式场合佩戴在西装翻领上的“胸花”，源自法语，在句中作动词 `pin` 的宾语。
 
 4. **中文**：他们把钱凑在一起，租了一辆白色豪华轿车去参加当晚的活动。  
-   **英文**：They pooled their money together to hire a white limousine for the evening (asked her who had).
+   **英文**：They pooled their money together to hire a white limousine for the evening.
    > **解析**：`limousine`（口语常简称 `limo`）指“加长豪华轿车”，在句中作动词 `hire` 的宾语。
 
 5. **中文**：在去参加舞会之前，她在沙龙花了两个小时做发型。  
-   **英文**：She spent two hours getting her hair done at the salon before heading to the dance (bow tie).
+   **英文**：She spent two hours getting her hair done at the salon before heading to the dance after-party.
    > **解析**：`get one's hair done` 是使役结构 `get + sth. + done` 的习惯用法，意为“（让别人给自己）做发型”，表示由专业人员提供服务。
 
 6. **中文**：高中毕业班学生参加一年一度的毕业舞会是一项悠久的传统习俗。  
-   **英文**：It is a longstanding custom for high school seniors to attend the annual prom about after-party.
+   **英文**：It is a longstanding custom for high school seniors to attend the annual prom about after-party asked her who had.
    > **解析**：`custom` 在此作名词，意为“风俗、传统习俗”。注意其与 `habit`（个人习惯）的区别。
 
 7. **中文**：活动开始前，专业摄影师为每一对伴侣拍照。  
@@ -90,7 +90,7 @@ after-party, afterwards, ask, asked her who had, bow tie, chaperone, clothing, c
    > **解析**：`photographer` 是可数名词，意为“摄影师”，由动词 `photograph` 加上表示人的后缀 `-er` 构成。
 
 8. **中文**：许多学生选择租用正装，而不是购买新衣服。  
-   **英文**：Many students choose to rent their formal wear instead of buying new clothes (coming up).
+   **英文**：Many students choose to rent their formal wear instead of buying new clothes bow tie.
    > **解析**：`rent` 在此作动词，意为“租用、租赁”。搭配 `rent formal wear` 表示“租用礼服/正装”。
 
 9. **中文**：要是我们一起打车去舞会场地省点钱怎么样？  
@@ -114,19 +114,19 @@ after-party, afterwards, ask, asked her who had, bow tie, chaperone, clothing, c
 3. The photographer asked him to pin the red rose boutonniere onto his lapel.
    > **中文**：摄影师让他把红玫瑰胸花针扣在西装翻领上。
 
-4. They pooled their money together to hire a white limousine for the evening (asked her who had).
+4. They pooled their money together to hire a white limousine for the evening.
    > **中文**：他们把钱凑在一起，租了一辆白色豪华轿车去参加当晚的活动。
 
-5. She spent two hours getting her hair done at the salon before heading to the dance (bow tie).
+5. She spent two hours getting her hair done at the salon before heading to the dance after-party.
    > **中文**：在去参加舞会之前，她在沙龙花了两个小时做发型。
 
-6. It is a longstanding custom for high school seniors to attend the annual prom about after-party.
+6. It is a longstanding custom for high school seniors to attend the annual prom about after-party asked her who had.
    > **中文**：高中毕业班学生参加一年一度的毕业舞会是一项悠久的传统习俗。
 
 7. The professional photographer took pictures of the couples before the event began about clothing.
    > **中文**：活动开始前，专业摄影师为每一对伴侣拍照。
 
-8. Many students choose to rent their formal wear instead of buying new clothes (coming up).
+8. Many students choose to rent their formal wear instead of buying new clothes bow tie.
    > **中文**：许多学生选择租用正装，而不是购买新衣服。
 
 9. What if we share a taxi to the prom venue to save money about chaperone.
@@ -175,19 +175,19 @@ The photographer `____`ed him to pin the red rose boutonniere onto his lapel.
 
 ### 4
 
-They pooled their money together to hire a white limousine for the evening (`____`).
+They pooled their money together to hire a white `____`usine for the evening.
 
-- [x] asked her who had
-- [ ] bow tie
-- [ ] confirmation
+- [x] limo
+- [ ] asked her who had
+- [ ] coming up
 
 > **解析**：`limousine`（口语常简称 `limo`）指“加长豪华轿车”，在句中作动词 `hire` 的宾语。
 
 ### 5
 
-She spent two hours getting her hair done at the salon before heading to the dance (`____`).
+She spent two hours getting her hair done at the salon before heading to the dance `____`.
 
-- [x] bow tie
+- [x] after-party
 - [ ] chaperone
 - [ ] crown
 
@@ -195,9 +195,9 @@ She spent two hours getting her hair done at the salon before heading to the dan
 
 ### 6
 
-It is a longstanding custom for high school seniors to attend the annual prom about `____`.
+It is a longstanding custom for high school seniors to attend the annual prom about after-party `____`.
 
-- [x] after-party
+- [x] asked her who had
 - [ ] clothing
 - [ ] dance floor
 
@@ -215,9 +215,9 @@ The professional photographer took pictures of the couples before the event bega
 
 ### 8
 
-Many students choose to rent their formal wear instead of buying new clothes (`____`).
+Many students choose to rent their formal wear instead of buying new clothes `____`.
 
-- [x] coming up
+- [x] bow tie
 - [ ] confirmation
 - [ ] fashionably late
 

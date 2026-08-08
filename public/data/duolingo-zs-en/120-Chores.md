@@ -62,11 +62,11 @@ have to 表示"必须"（客观需要）。responsible for 表示"负责"。
 <quiz-sentence-builder>
 
 1. **中文**：在我和朋友出去玩之前，我必须完成周末的家务活。  
-   **英文**：I have to finish my weekend chores before I can go out with friends (by hand).
+   **英文**：I have to finish my weekend chores before I can go out with friends.
    > **解析**：have to 为情态动词短语，意为“不得不，必须”，后接动词原形。
 
 2. **中文**：平等分担家务有助于维系家庭成员之间的和谐。  
-   **英文**：Sharing housework equally helps maintain harmony among family members (clean up).
+   **英文**：Sharing housework equally helps maintain harmony among family members.
    > **解析**：housework 作不可数名词，意为“家务，家务活”。
 
 3. **中文**：我每周六早晨用吸尘器清理客厅地毯以清除灰尘。  
@@ -94,7 +94,7 @@ have to 表示"必须"（客观需要）。responsible for 表示"负责"。
    > **解析**：garbage 作不可数名词，意为“垃圾”。take out garbage 意为“倒垃圾”。
 
 9. **中文**：每个室友都负责打扫自己的房间。  
-   **英文**：Each roommate is responsible for cleaning their own room (have to).
+   **英文**：Each roommate is responsible for cleaning their own room.
    > **解析**：be responsible for... 意为“对……负责，承担……的责任”。
 
 10. **中文**：保持书桌干净整洁有助于你专注于学习。  
@@ -105,10 +105,10 @@ have to 表示"必须"（客观需要）。responsible for 表示"负责"。
 
 <quiz-listening>
 
-1. I have to finish my weekend chores before I can go out with friends (by hand).
+1. I have to finish my weekend chores before I can go out with friends.
    > **中文**：在我和朋友出去玩之前，我必须完成周末的家务活。
 
-2. Sharing housework equally helps maintain harmony among family members (clean up).
+2. Sharing housework equally helps maintain harmony among family members.
    > **中文**：平等分担家务有助于维系家庭成员之间的和谐。
 
 3. I vacuum the living room rug every Saturday morning to remove dust.
@@ -129,7 +129,7 @@ have to 表示"必须"（客观需要）。responsible for 表示"负责"。
 8. Remember to take out the kitchen garbage before going to bed.
    > **中文**：睡前请记得拿走厨房的垃圾。
 
-9. Each roommate is responsible for cleaning their own room (have to).
+9. Each roommate is responsible for cleaning their own room.
    > **中文**：每个室友都负责打扫自己的房间。
 
 10. Keeping your desk clean and neat helps you stay focused on studying.
@@ -145,21 +145,21 @@ have to 表示"必须"（客观需要）。responsible for 表示"负责"。
 
 ### 1
 
-I have to finish my weekend chores before I can go out with friends (`____`).
+I `____` finish my weekend chores before I can go out with friends.
 
-- [x] by hand
-- [ ] clean up
-- [ ] dust
+- [x] have to
+- [ ] by hand
+- [ ] dislike
 
 > **解析**：have to 为情态动词短语，意为“不得不，必须”，后接动词原形。
 
 ### 2
 
-Sharing housework equally helps maintain harmony among family members (`____`).
+Sharing `____` equally helps maintain harmony among family members.
 
-- [x] clean up
-- [ ] continue
-- [ ] freezer
+- [x] housework
+- [ ] clean up
+- [ ] dust
 
 > **解析**：housework 作不可数名词，意为“家务，家务活”。
 
@@ -195,9 +195,9 @@ Putting dirty plates into the `____` makes cleaning up after dinner easy.
 
 ### 6
 
-Delicate wool sweaters should be washed by hand to prevent shrinking about `____`.
+Delicate wool sweaters should be washed `____` to prevent shrinking about continue.
 
-- [x] continue
+- [x] by hand
 - [ ] freezer
 - [ ] housework
 
@@ -205,9 +205,9 @@ Delicate wool sweaters should be washed by hand to prevent shrinking about `____
 
 ### 7
 
-Let's clean up the dining table and wash the dishes together about `____`.
+Let's `____` the dining table and wash the dishes together about dislike.
 
-- [x] dislike
+- [x] clean up
 - [ ] garbage
 - [ ] in trouble
 
@@ -225,11 +225,11 @@ Remember to take out the kitchen `____` before going to bed.
 
 ### 9
 
-Each roommate is responsible for cleaning their own room (`____`).
+Each roommate is `____` cleaning their own room.
 
-- [x] have to
-- [ ] heater
-- [ ] made
+- [x] responsible for
+- [ ] have to
+- [ ] lock
 
 > **解析**：be responsible for... 意为“对……负责，承担……的责任”。
 

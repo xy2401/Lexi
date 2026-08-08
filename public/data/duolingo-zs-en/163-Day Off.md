@@ -66,7 +66,7 @@ about to = 即将。put off = postpone（推迟）。
    > **解析**：be about to 为固定结构，意为“正要、正打算做某事”，后接动词原形（be about to leave）。
 
 2. **中文**：这个星期天休假我得去参加家庭聚会。  
-   **英文**：I have to attend a family reunion on my day off this Sunday (book club).
+   **英文**：I have to attend a family reunion on my day off this Sunday.
    > **解析**：family reunion 为名词短语，意为“家庭聚会、亲友团聚”。
 
 3. **中文**：明天下班后你愿意和我们一起出去吃晚饭吗？  
@@ -78,7 +78,7 @@ about to = 即将。put off = postpone（推迟）。
    > **解析**：meet up 为不及物动词短语，口语中常用，意为“见面、聚会”，后可接 at + 地点。
 
 5. **中文**：请把你的名字写在宾客名单上，这样我们可以给你留个座位。  
-   **英文**：Please put your name on the guest list so we can save a seat for you (family reunion).
+   **英文**：Please put your name on the guest list so we can save a seat for you.
    > **解析**：put 在此处作动词，意为“放置、书写登记”。常用搭配 put one's name on a list。
 
 6. **中文**：既然我们周末都休息，为什么不一起规划个一日游呢？  
@@ -86,7 +86,7 @@ about to = 即将。put off = postpone（推迟）。
    > **解析**：since 在此处用作连词，引导原因状语从句，意为“既然、鉴于”。
 
 7. **中文**：我们可以乘早班列车前往海滨小镇开展我们的一日游。  
-   **英文**：We can take the morning train to the seaside town for our day trip (get off).
+   **英文**：We can take the morning train to the seaside town for our day trip.
    > **解析**：train 为可数名词，意为“火车、列车”。take the train 表示“乘坐火车”。
 
 8. **中文**：你有兴趣加入我们周末的读书会讨论新小说吗？  
@@ -94,7 +94,7 @@ about to = 即将。put off = postpone（推迟）。
    > **解析**：book club 为名词短语，意为“读书会、读书俱乐部”。
 
 9. **中文**：我一做完家务，就去公园跟你汇合。  
-   **英文**：As soon as I finish my housework, I will meet you at the park (in charge of).
+   **英文**：As soon as I finish my housework, I will meet you at the park.
    > **解析**：finish 为及物动词，意为“完成、做完”，后接名词或动名词（finish my housework）。
 
 10. **中文**：在休息日，我喜欢学习如何烘焙手工面包。  
@@ -108,7 +108,7 @@ about to = 即将。put off = postpone（推迟）。
 1. I was about to leave the office when my friend called to invite me.
    > **中文**：我正准备离开办公室，这时朋友打来电话邀请我吃午饭。
 
-2. I have to attend a family reunion on my day off this Sunday (book club).
+2. I have to attend a family reunion on my day off this Sunday.
    > **中文**：这个星期天休假我得去参加家庭聚会。
 
 3. Would you like to go out with us for dinner after work tomorrow.
@@ -117,19 +117,19 @@ about to = 即将。put off = postpone（推迟）。
 4. Let's meet up at the downtown coffee shop around two o'clock.
    > **中文**：我们下午两点左右在市中心的咖啡馆聚聚吧。
 
-5. Please put your name on the guest list so we can save a seat for you (family reunion).
+5. Please put your name on the guest list so we can save a seat for you.
    > **中文**：请把你的名字写在宾客名单上，这样我们可以给你留个座位。
 
 6. Since we both have the weekend off, why don't we plan a day trip together.
    > **中文**：既然我们周末都休息，为什么不一起规划个一日游呢？
 
-7. We can take the morning train to the seaside town for our day trip (get off).
+7. We can take the morning train to the seaside town for our day trip.
    > **中文**：我们可以乘早班列车前往海滨小镇开展我们的一日游。
 
 8. Are you interested in joining our weekend book club to discuss new novels? (go out with) about championship.
    > **中文**：你有兴趣加入我们周末的读书会讨论新小说吗？
 
-9. As soon as I finish my housework, I will meet you at the park (in charge of).
+9. As soon as I finish my housework, I will meet you at the park.
    > **中文**：我一做完家务，就去公园跟你汇合。
 
 10. On my days off, I love to learn how to bake homemade bread.
@@ -155,10 +155,10 @@ I was `____` leave the office when my friend called to invite me.
 
 ### 2
 
-I have to attend a family reunion on my day off this Sunday (`____`).
+I have to attend a `____` on my day off this Sunday.
 
-- [x] book club
-- [ ] championship
+- [x] family reunion
+- [ ] book club
 - [ ] get off
 
 > **解析**：family reunion 为名词短语，意为“家庭聚会、亲友团聚”。
@@ -185,11 +185,11 @@ Let's `____` at the downtown coffee shop around two o'clock.
 
 ### 5
 
-Please put your name on the guest list so we can save a seat for you (`____`).
+Please `____` your name on the guest list so we can save a seat for you.
 
-- [x] family reunion
-- [ ] finish
-- [ ] learn
+- [x] put
+- [ ] family reunion
+- [ ] in charge of
 
 > **解析**：put 在此处作动词，意为“放置、书写登记”。常用搭配 put one's name on a list。
 
@@ -205,19 +205,19 @@ Since we both have the weekend `____`, why don't we plan a day trip together.
 
 ### 7
 
-We can take the morning train to the seaside town for our day trip (`____`).
+We can take the morning `____` to the seaside town for our day trip.
 
-- [x] get off
-- [ ] go out with
-- [ ] meet up
+- [x] train
+- [ ] get off
+- [ ] make it
 
 > **解析**：train 为可数名词，意为“火车、列车”。take the train 表示“乘坐火车”。
 
 ### 8
 
-Are you interested in joining our weekend book club to discuss new novels? (go out with) about `____`.
+Are you interested in joining our weekend `____` to discuss new novels? (go out with) about championship.
 
-- [x] championship
+- [x] book club
 - [ ] in charge of
 - [ ] monthly
 
@@ -225,7 +225,7 @@ Are you interested in joining our weekend book club to discuss new novels? (go o
 
 ### 9
 
-As soon as I `____` my housework, I will meet you at the park (in charge of).
+As soon as I `____` my housework, I will meet you at the park.
 
 - [x] finish
 - [ ] learn

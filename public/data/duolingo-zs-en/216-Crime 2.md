@@ -80,7 +80,7 @@ get → gotten 是美式英语的过去分词形式（He has gotten away with it
    > **解析**：`secretly` 副词，意为“秘密地；暗中”，修饰动词 `monitored`。
 
 8. **中文**：新法规旨在消除公共服务中的受贿与官方腐败现象。  
-   **英文**：The new regulations aim to eradicate bribery and official corruption in public services (human being).
+   **英文**：The new regulations aim to eradicate bribery and official corruption in public services.
    > **解析**：`corruption` 不可数名词，意为“腐败；贪污；堕落”。
 
 9. **中文**：如果你屡次违反交通规则，你将会卷入严重的法律麻烦。  
@@ -116,7 +116,7 @@ get → gotten 是美式英语的过去分词形式（He has gotten away with it
 7. The detective secretly monitored the suspect's phone calls to uncover the conspiracy.
    > **中文**：侦探秘密监听了嫌疑人的电话以揭露阴谋。
 
-8. The new regulations aim to eradicate bribery and official corruption in public services (human being).
+8. The new regulations aim to eradicate bribery and official corruption in public services.
    > **中文**：新法规旨在消除公共服务中的受贿与官方腐败现象。
 
 9. If you break traffic rules repeatedly, you will get into serious legal trouble.
@@ -205,7 +205,7 @@ The detective `____` monitored the suspect's phone calls to uncover the conspira
 
 ### 8
 
-The new regulations aim to eradicate bribery and official `____` in public services (human being).
+The new regulations aim to eradicate bribery and official `____` in public services.
 
 - [x] corruption
 - [ ] inform

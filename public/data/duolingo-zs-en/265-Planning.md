@@ -86,15 +86,15 @@ hear me out（听我说完）、I'd say（我觉得）、suggestion that we（�
 <quiz-sentence-builder>
 
 1. **中文**：我们需要在确定活动日期之前预订一个合适的场地。  
-   **英文**：We need to book a suitable venue before finalizing the event date (I'd say).
+   **英文**：We need to book a suitable venue before finalizing the event date.
    > **解析**：`venue` 是名词，意为“活动场地、举办场所”，`book a venue`（预订场地）。
 
 2. **中文**：委员会聘请了一家顶尖的餐饮服务公司来提供晚餐。  
-   **英文**：The committee hired a top-rated catering company to provide dinner (agree with).
+   **英文**：The committee hired a top-rated catering company to provide dinner.
    > **解析**：`catering` 是名词，意为“餐饮服务、包办宴席”。
 
 3. **中文**：在拒绝提议的团队建设预算之前，请听我把话说完。  
-   **英文**：Please hear me out before rejecting the proposed team-building budget (any longer).
+   **英文**：Please hear me out before rejecting the proposed team-building budget.
    > **解析**：`hear me out` 是口语短语，意为“听我把话说完、听我解释”。
 
 4. **中文**：要我说的话，在海边举办年会是一个极好的主意。  
@@ -114,28 +114,28 @@ hear me out（听我说完）、I'd say（我觉得）、suggestion that we（�
    > **解析**：`theme` 是名词，意为“主题、主旨”。
 
 8. **中文**：宽敞的酒店宴会厅是举办此次会议的理想地点。  
-   **英文**：The spacious hotel ballroom is an ideal location for the conference (fall through).
+   **英文**：The spacious hotel ballroom is an ideal location for the conference.
    > **解析**：`ideal` 是形容词，意为“理想的、完美的”，修饰 `location`。
 
 9. **中文**：几名员工自告奋勇协助客人签到登记。  
-   **英文**：Several employees volunteered to assist with guest registration (for me to).
+   **英文**：Several employees volunteered to assist with guest registration.
    > **解析**：`volunteer` 作动词，意为“自愿做、志愿协助”，搭配 `volunteer to do sth`。
 
 10. **中文**：辩论了几个小时后，我们最终决定坚守预算。  
-   **英文**：After debating for hours, we decided in the end to stick to our budget (for nothing).
+   **英文**：After debating for hours, we decided in the end to stick to our budget.
    > **解析**：`in the end` 是副词短语，意为“最终、最后”，相当于 `finally`。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We need to book a suitable venue before finalizing the event date (I'd say).
+1. We need to book a suitable venue before finalizing the event date.
    > **中文**：我们需要在确定活动日期之前预订一个合适的场地。
 
-2. The committee hired a top-rated catering company to provide dinner (agree with).
+2. The committee hired a top-rated catering company to provide dinner.
    > **中文**：委员会聘请了一家顶尖的餐饮服务公司来提供晚餐。
 
-3. Please hear me out before rejecting the proposed team-building budget (any longer).
+3. Please hear me out before rejecting the proposed team-building budget.
    > **中文**：在拒绝提议的团队建设预算之前，请听我把话说完。
 
 4. I'd say that hosting the annual party by the beach is a fantastic idea about appreciation.
@@ -150,13 +150,13 @@ hear me out（听我说完）、I'd say（我觉得）、suggestion that we（�
 7. The committee chose a retro eighties theme for the charity gala night.
    > **中文**：委员会为慈善晚宴之夜选择了一个复古八十年代的主题。
 
-8. The spacious hotel ballroom is an ideal location for the conference (fall through).
+8. The spacious hotel ballroom is an ideal location for the conference.
    > **中文**：宽敞的酒店宴会厅是举办此次会议的理想地点。
 
-9. Several employees volunteered to assist with guest registration (for me to).
+9. Several employees volunteered to assist with guest registration.
    > **中文**：几名员工自告奋勇协助客人签到登记。
 
-10. After debating for hours, we decided in the end to stick to our budget (for nothing).
+10. After debating for hours, we decided in the end to stick to our budget.
    > **中文**：辩论了几个小时后，我们最终决定坚守预算。
 
 </quiz-listening>
@@ -169,39 +169,39 @@ hear me out（听我说完）、I'd say（我觉得）、suggestion that we（�
 
 ### 1
 
-We need to book a suitable venue before finalizing the event date (`____`).
+We need to book a suitable `____` before finalizing the event date.
 
-- [x] I'd say
-- [ ] agree with
-- [ ] committee
+- [x] venue
+- [ ] I'd say
+- [ ] catering
 
 > **解析**：`venue` 是名词，意为“活动场地、举办场所”，`book a venue`（预订场地）。
 
 ### 2
 
-The committee hired a top-rated catering company to provide dinner (`____`).
+The committee hired a top-rated `____` company to provide dinner.
 
-- [x] agree with
-- [ ] any longer
+- [x] catering
+- [ ] agree with
 - [ ] compromise
 
 > **解析**：`catering` 是名词，意为“餐饮服务、包办宴席”。
 
 ### 3
 
-Please hear me out before rejecting the proposed team-building budget (`____`).
+Please `____` before rejecting the proposed team-building budget.
 
-- [x] any longer
-- [ ] appreciation
-- [ ] fall through
+- [x] hear me out
+- [ ] any longer
+- [ ] compromise
 
 > **解析**：`hear me out` 是口语短语，意为“听我把话说完、听我解释”。
 
 ### 4
 
-I'd say that hosting the annual party by the beach is a fantastic idea about `____`.
+`____` that hosting the annual party by the beach is a fantastic idea about appreciation.
 
-- [x] appreciation
+- [x] I'd say
 - [ ] catering
 - [ ] for me to
 
@@ -239,7 +239,7 @@ The `____` chose a retro eighties theme for the charity gala night.
 
 ### 8
 
-The spacious hotel ballroom is an `____` location for the conference (fall through).
+The spacious hotel ballroom is an `____` location for the conference.
 
 - [x] ideal
 - [ ] fall through
@@ -249,20 +249,20 @@ The spacious hotel ballroom is an `____` location for the conference (fall throu
 
 ### 9
 
-Several employees volunteered to assist with guest registration (`____`).
+Several employees `____`ed to assist with guest registration.
 
-- [x] for me to
-- [ ] for nothing
-- [ ] lobster
+- [x] volunteer
+- [ ] for me to
+- [ ] in the end
 
 > **解析**：`volunteer` 作动词，意为“自愿做、志愿协助”，搭配 `volunteer to do sth`。
 
 ### 10
 
-After debating for hours, we decided in the end to stick to our budget (`____`).
+After debating for hours, we decided `____` to stick to our budget.
 
-- [x] for nothing
-- [ ] hear me out
+- [x] in the end
+- [ ] for nothing
 - [ ] mess up
 
 > **解析**：`in the end` 是副词短语，意为“最终、最后”，相当于 `finally`。

@@ -72,11 +72,11 @@ whose 用来问归属：Whose playlist is this? like 和 right 是口语中的�
    > **解析**：gorgeous 形容词，意为“极美的；华丽的”，语气极强。
 
 6. **中文**：主人以温暖的微笑和迷人的个性欢迎每一位客人。  
-   **英文**：The host welcomed every guest with a warm smile and a charming personality (clean up).
+   **英文**：The host welcomed every guest with a warm smile and a charming personality.
    > **解析**：charming 形容词，意为“迷人的；有魅力的”，衍生自 charm。
 
 7. **中文**：正规晚宴派对上的所有客人都穿着非常得体考究。  
-   **英文**：All the guests at the formal dinner party were extremely well-dressed (come in).
+   **英文**：All the guests at the formal dinner party were extremely well-dressed.
    > **解析**：well-dressed 复合形容词，意为“穿着得体的；衣着考究的”。
 
 8. **中文**：派对上的魔术师上唇上方留着一撮有趣的小胡子。  
@@ -110,10 +110,10 @@ whose 用来问归属：Whose playlist is this? like 和 right 是口语中的�
 5. The birthday cake decorated with fresh berries looked absolutely gorgeous.
    > **中文**：用鲜浆果装饰的生日蛋糕看起来绝对华丽漂亮。
 
-6. The host welcomed every guest with a warm smile and a charming personality (clean up).
+6. The host welcomed every guest with a warm smile and a charming personality.
    > **中文**：主人以温暖的微笑和迷人的个性欢迎每一位客人。
 
-7. All the guests at the formal dinner party were extremely well-dressed (come in).
+7. All the guests at the formal dinner party were extremely well-dressed.
    > **中文**：正规晚宴派对上的所有客人都穿着非常得体考究。
 
 8. The magician at the party had a small funny mustache above his lip.
@@ -185,7 +185,7 @@ The birthday cake decorated with fresh berries looked absolutely `____`.
 
 ### 6
 
-The host welcomed every guest with a warm smile and a `____` personality (clean up).
+The host welcomed every guest with a warm smile and a `____` personality.
 
 - [x] charming
 - [ ] come in
@@ -195,11 +195,11 @@ The host welcomed every guest with a warm smile and a `____` personality (clean 
 
 ### 7
 
-All the guests at the formal dinner party were extremely well-dressed (`____`).
+All the guests at the formal dinner party were extremely `____`.
 
-- [x] come in
-- [ ] could
-- [ ] like
+- [x] well-dressed
+- [ ] come in
+- [ ] gorgeous
 
 > **解析**：well-dressed 复合形容词，意为“穿着得体的；衣着考究的”。
 

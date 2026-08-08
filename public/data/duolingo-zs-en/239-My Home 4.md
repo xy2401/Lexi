@@ -68,7 +68,7 @@ a hand, admittedly, all over again, brick, by far, can't get over, can't take, c
    > **解析**：`by far` 强调程度副词短语，意为“迄今为止；显然”，修饰最高级 `the most serious`。
 
 3. **中文**：厨房水槽被油脂和食物残渣彻底堵塞了。  
-   **英文**：The kitchen sink became completely clogged with grease and food residues (all over again).
+   **英文**：The kitchen sink became completely clogged with grease and food residues.
    > **解析**：`clogged` 形容词/过去分词，意为“堵塞的；阻塞的”。搭配 `clogged with...`。
 
 4. **中文**：大雨过后，我们注意到一条细小的裂缝沿着地下室墙壁蔓延。  
@@ -76,15 +76,15 @@ a hand, admittedly, all over again, brick, by far, can't get over, can't take, c
    > **解析**：`crack` 可数名词，意为“裂缝；裂纹”。
 
 5. **中文**：修理老旧屋顶对于这处房产来说是一笔昂贵但必要的投资。  
-   **英文**：Fixing the old roof was an expensive but necessary investment for the property (by far).
+   **英文**：Fixing the old roof was an expensive but necessary investment for the property.
    > **解析**：`investment` 可数/不可数名词，意为“投资；投入”。
 
 6. **中文**：在购买新窗帘之前，一定要测量好窗户的准确尺寸。  
-   **英文**：Before buying new curtains, be sure to measure the exact window dimensions (can't get over).
+   **英文**：Before buying new curtains, be sure to measure the exact window dimensions.
    > **解析**：`measure` 及物动词，意为“测量；度量”。
 
 7. **中文**：一位有经验的电工修理了线路，但我们仍然需要一名专家来修理水管管道系统。  
-   **英文**：An experienced electrician fixed the wiring, but we still need a specialist for the plumbing (can't take).
+   **英文**：An experienced electrician fixed the wiring, but we still need a specialist for the plumbing.
    > **解析**：`plumbing` 不可数名词，意为“水管管道系统；管道工活”。
 
 8. **中文**：无可否认/诚然，修复这座维多利亚风格的别墅需要大量的时间和精力。  
@@ -109,19 +109,19 @@ a hand, admittedly, all over again, brick, by far, can't get over, can't take, c
 2. Leaking in the roof is by far the most serious structural issue with this old house.
    > **中文**：屋顶漏水是目前为止这栋老房子最严重的结构问题。
 
-3. The kitchen sink became completely clogged with grease and food residues (all over again).
+3. The kitchen sink became completely clogged with grease and food residues.
    > **中文**：厨房水槽被油脂和食物残渣彻底堵塞了。
 
 4. We noticed a thin crack spreading along the basement wall after the heavy rain.
    > **中文**：大雨过后，我们注意到一条细小的裂缝沿着地下室墙壁蔓延。
 
-5. Fixing the old roof was an expensive but necessary investment for the property (by far).
+5. Fixing the old roof was an expensive but necessary investment for the property.
    > **中文**：修理老旧屋顶对于这处房产来说是一笔昂贵但必要的投资。
 
-6. Before buying new curtains, be sure to measure the exact window dimensions (can't get over).
+6. Before buying new curtains, be sure to measure the exact window dimensions.
    > **中文**：在购买新窗帘之前，一定要测量好窗户的准确尺寸。
 
-7. An experienced electrician fixed the wiring, but we still need a specialist for the plumbing (can't take).
+7. An experienced electrician fixed the wiring, but we still need a specialist for the plumbing.
    > **中文**：一位有经验的电工修理了线路，但我们仍然需要一名专家来修理水管管道系统。
 
 8. Admittedly, restoring this Victorian villa requires a substantial amount of time and effort.
@@ -163,11 +163,11 @@ Leaking in the roof is `____` the most serious structural issue with this old ho
 
 ### 3
 
-The kitchen sink became completely clogged with grease and food residues (`____`).
+The kitchen sink became completely `____` with grease and food residues.
 
-- [x] all over again
-- [ ] brick
-- [ ] clogged
+- [x] clogged
+- [ ] all over again
+- [ ] can't take
 
 > **解析**：`clogged` 形容词/过去分词，意为“堵塞的；阻塞的”。搭配 `clogged with...`。
 
@@ -183,7 +183,7 @@ We noticed a thin `____` spreading along the basement wall after the heavy rain.
 
 ### 5
 
-Fixing the old roof was an expensive but necessary `____` for the property (by far).
+Fixing the old roof was an expensive but necessary `____` for the property.
 
 - [x] investment
 - [ ] by far
@@ -193,21 +193,21 @@ Fixing the old roof was an expensive but necessary `____` for the property (by f
 
 ### 6
 
-Before buying new curtains, be sure to measure the exact window dimensions (`____`).
+Before buying new curtains, be sure to `____` the exact window dimensions.
 
-- [x] can't get over
-- [ ] can't take
-- [ ] construction
+- [x] measure
+- [ ] can't get over
+- [ ] concerning
 
 > **解析**：`measure` 及物动词，意为“测量；度量”。
 
 ### 7
 
-An experienced electrician fixed the wiring, but we still need a specialist for the plumbing (`____`).
+An experienced electrician fixed the wiring, but we still need a specialist for the `____`.
 
-- [x] can't take
-- [ ] clogged
-- [ ] crack
+- [x] plumbing
+- [ ] can't take
+- [ ] construction
 
 > **解析**：`plumbing` 不可数名词，意为“水管管道系统；管道工活”。
 

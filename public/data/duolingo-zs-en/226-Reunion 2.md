@@ -68,7 +68,7 @@ ages, back then, bond, campus, find out, fluent, get, get over, happy hour, infl
    > **解析**：`for ages` 为固定时间习惯表达，意为“长久地；好几年；很久”。相当于 `for a very long time`。
 
 2. **中文**：我们决定在中央图书馆附近的老大学校园见面。  
-   **英文**：We decided to meet at the old university campus near the central library (back then).
+   **英文**：We decided to meet at the old university campus near the central library.
    > **解析**：`campus` 可数名词，意为“校园；校区”。短语 `university campus`（大学校园）。
 
 3. **中文**：太棒了，我们所有的昔日同班同学在十年后能够聚在一起。  
@@ -80,7 +80,7 @@ ages, back then, bond, campus, find out, fluent, get, get over, happy hour, infl
    > **解析**：`look back on` 为固定动词短语，意为“回顾；回想（过去的事）”。
 
 5. **中文**：令人惊讶的是，我们发现我们的两位前任老师实际上是有姻亲关系的。  
-   **英文**：Surprisingly, we discovered that two of our former teachers are actually related by marriage (find out).
+   **英文**：Surprisingly, we discovered that two of our former teachers are actually related by marriage.
    > **解析**：`related` 形容词，意为“有亲戚关系的；相关的”。短语 `be related to / by...`。
 
 6. **中文**：自从我们的青少年时代以来，每个人的音乐品味都发生了相当大的变化。  
@@ -92,11 +92,11 @@ ages, back then, bond, campus, find out, fluent, get, get over, happy hour, infl
    > **解析**：`whoever` 关系代词，意为“无论是谁；任何人”。在主语从句中充当主语。
 
 8. **中文**：分享童年故事帮助老朋友们迅速建立了深厚的感情纽带。  
-   **英文**：Sharing childhood stories helped the old friends quickly form a strong emotional bond (get over).
+   **英文**：Sharing childhood stories helped the old friends quickly form a strong emotional bond.
    > **解析**：`bond` 可数名词，意为“纽带；联系；关系”。短语 `emotional bond`（情感纽带）。
 
 9. **中文**：在东京生活了五年之后，她的日语变得非常流利。  
-   **英文**：After living in Tokyo for five years, she became completely fluent in Japanese (happy hour).
+   **英文**：After living in Tokyo for five years, she became completely fluent in Japanese.
    > **解析**：`fluent` 形容词，意为“流利的；流畅的”。固定搭配 `be fluent in + 语言`。
 
 10. **中文**：楼下的餐厅在五点到七点提供开胃菜的欢乐时光特别优惠。  
@@ -110,7 +110,7 @@ ages, back then, bond, campus, find out, fluent, get, get over, happy hour, infl
 1. I haven't seen my college roommate for ages, so I'm thrilled about the reunion.
    > **中文**：我有好长时间（几年）没见到大学室友了，所以对聚会感到非常激动。
 
-2. We decided to meet at the old university campus near the central library (back then).
+2. We decided to meet at the old university campus near the central library.
    > **中文**：我们决定在中央图书馆附近的老大学校园见面。
 
 3. It's wonderful that all our former classmates could get together after ten years.
@@ -119,7 +119,7 @@ ages, back then, bond, campus, find out, fluent, get, get over, happy hour, infl
 4. When we look back on our high school days, we always laugh at those silly memories.
    > **中文**：当我们回顾高中时代时，我们总是会对那些傻乎乎的回忆发笑。
 
-5. Surprisingly, we discovered that two of our former teachers are actually related by marriage (find out).
+5. Surprisingly, we discovered that two of our former teachers are actually related by marriage.
    > **中文**：令人惊讶的是，我们发现我们的两位前任老师实际上是有姻亲关系的。
 
 6. Everyone's music taste has changed quite a lot since our teenage years.
@@ -128,10 +128,10 @@ ages, back then, bond, campus, find out, fluent, get, get over, happy hour, infl
 7. Whoever organized this grand reunion party did a truly remarkable job.
    > **中文**：无论是谁组织了这次盛大的重聚派对，都做了一项极其出色工作。
 
-8. Sharing childhood stories helped the old friends quickly form a strong emotional bond (get over).
+8. Sharing childhood stories helped the old friends quickly form a strong emotional bond.
    > **中文**：分享童年故事帮助老朋友们迅速建立了深厚的感情纽带。
 
-9. After living in Tokyo for five years, she became completely fluent in Japanese (happy hour).
+9. After living in Tokyo for five years, she became completely fluent in Japanese.
    > **中文**：在东京生活了五年之后，她的日语变得非常流利。
 
 10. The restaurant downstairs offers a special happy hour discount on appetizers from five to seven.
@@ -157,10 +157,10 @@ I haven't seen my college roommate for `____`, so I'm thrilled about the reunion
 
 ### 2
 
-We decided to meet at the old university campus near the central library (`____`).
+We decided to meet at the old university `____` near the central library.
 
-- [x] back then
-- [ ] bond
+- [x] campus
+- [ ] back then
 - [ ] get
 
 > **解析**：`campus` 可数名词，意为“校园；校区”。短语 `university campus`（大学校园）。
@@ -187,11 +187,11 @@ When we `____` our high school days, we always laugh at those silly memories.
 
 ### 5
 
-Surprisingly, we discovered that two of our former teachers are actually related by marriage (`____`).
+Surprisingly, we discovered that two of our former teachers are actually `____` by marriage.
 
-- [x] find out
-- [ ] fluent
-- [ ] influence
+- [x] related
+- [ ] find out
+- [ ] happy hour
 
 > **解析**：`related` 形容词，意为“有亲戚关系的；相关的”。短语 `be related to / by...`。
 
@@ -217,7 +217,7 @@ Everyone's music `____` has changed quite a lot since our teenage years.
 
 ### 8
 
-Sharing childhood stories helped the old friends quickly form a strong emotional `____` (get over).
+Sharing childhood stories helped the old friends quickly form a strong emotional `____`.
 
 - [x] bond
 - [ ] happy hour
@@ -227,7 +227,7 @@ Sharing childhood stories helped the old friends quickly form a strong emotional
 
 ### 9
 
-After living in Tokyo for five years, she became completely `____` in Japanese (happy hour).
+After living in Tokyo for five years, she became completely `____` in Japanese.
 
 - [x] fluent
 - [ ] influence

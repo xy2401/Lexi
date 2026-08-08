@@ -74,7 +74,7 @@ phrasal verbs（短语动词）是本单元重点：plug in, set up, sign up, ba
    > **解析**：dot com（.com）在互联网语境中指商业域名后缀，常用于形容网络商业公司或网址结尾。
 
 4. **中文**：当你尝试打开网页时，有注意到错误提示信息吗？  
-   **英文**：Did you notice the error message when you tried to open the web page? (back up).
+   **英文**：Did you notice the error message when you tried to open the web page?
    > **解析**：notice 是及物动词，意为“注意到、察觉到”。后面直接接名词或名词短语（the error message）作宾语。
 
 5. **中文**：设置新的在线邮箱账户只需要五分钟。  
@@ -90,7 +90,7 @@ phrasal verbs（短语动词）是本单元重点：plug in, set up, sign up, ba
    > **解析**：username 为可数名词，意为“用户名”，是网络登录时的凭证名称，常与 password 连用。
 
 8. **中文**：发邮件前别忘了附上所要求的报告文件。  
-   **英文**：Don't forget to attach the requested report to your email before sending it (dot com).
+   **英文**：Don't forget to attach the requested report to your email before sending it.
    > **解析**：attach 为及物动词，意为“附上、附加”。在电子公文及邮件语境中，常用结构 attach A to B（把A附在B上）。
 
 9. **中文**：计算机未能连接上图书馆的无线网络。  
@@ -114,7 +114,7 @@ phrasal verbs（短语动词）是本单元重点：plug in, set up, sign up, ba
 3. Many tech start-ups registered their company names with a dot com domain.
    > **中文**：许多科技初创公司都使用 dot com 域名注册了公司名称。
 
-4. Did you notice the error message when you tried to open the web page? (back up).
+4. Did you notice the error message when you tried to open the web page?
    > **中文**：当你尝试打开网页时，有注意到错误提示信息吗？
 
 5. It takes only five minutes to set up your new online email account.
@@ -126,7 +126,7 @@ phrasal verbs（短语动词）是本单元重点：plug in, set up, sign up, ba
 7. Please enter your registered username and password to log in to the website.
    > **中文**：请输入您注册的用户名和密码登录网站。
 
-8. Don't forget to attach the requested report to your email before sending it (dot com).
+8. Don't forget to attach the requested report to your email before sending it.
    > **中文**：发邮件前别忘了附上所要求的报告文件。
 
 9. The computer failed to connect to the Wi-Fi network in the library.
@@ -175,11 +175,11 @@ Many tech start-ups registered their company names with a `____` domain.
 
 ### 4
 
-Did you notice the error message when you tried to open the web page? (`____` up).
+Did you `____` the error message when you tried to open the web page?
 
-- [x] back
-- [ ] button
-- [ ] follow
+- [x] notice
+- [ ] back up
+- [ ] dot com
 
 > **解析**：notice 是及物动词，意为“注意到、察觉到”。后面直接接名词或名词短语（the error message）作宾语。
 
@@ -215,7 +215,7 @@ Please enter your registered `____` and password to log in to the website.
 
 ### 8
 
-Don't forget to `____` the requested report to your email before sending it (dot com).
+Don't forget to `____` the requested report to your email before sending it.
 
 - [x] attach
 - [ ] follow

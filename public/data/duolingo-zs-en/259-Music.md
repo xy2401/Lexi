@@ -82,11 +82,11 @@ date back（追溯到）、in those days（在那个年代）、lifetime（一�
    > **解析**：`inspire` 作及物动词，意为“启发、鼓舞”，常用结构 `inspire sb to do sth`。
 
 2. **中文**：这种传统民族乐器可以追溯到十七世纪。  
-   **英文**：This traditional folk instrument dates back to the seventeenth century (and had).
+   **英文**：This traditional folk instrument dates back to the seventeenth century alternative.
    > **解析**：`date back to...` 是固定动词短语，意为“追溯到（某时期）”。
 
 3. **中文**：这部电影的原声带在全世界范围内大受欢迎。  
-   **英文**：The movie's soundtrack became immensely popular around the world (date back).
+   **英文**：The movie's soundtrack became immensely popular around the world.
    > **解析**：`soundtrack` 是名词，意为“（电影/电视）原声音乐带”。
 
 4. **中文**：那支传奇摇滚乐队在流行文化中极其富有影响力。  
@@ -98,11 +98,11 @@ date back（追溯到）、in those days（在那个年代）、lifetime（一�
    > **解析**：`release` 作动词，意为“发行、发布（唱片/图书等）”。
 
 6. **中文**：舞曲通常依赖于快速且稳定的节奏。  
-   **英文**：Dance music usually relies on a fast and steady rhythm (in my eyes).
+   **英文**：Dance music usually relies on a fast and steady rhythm.
    > **解析**：`rhythm` 是名词，意为“节奏、韵律”，注意拼写 `rhythm`。
 
 7. **中文**：嘻哈音乐已成为现代流行文化的主要组成部分。  
-   **英文**：Hip-hop music has become a major part of modern pop culture (in those days).
+   **英文**：Hip-hop music has become a major part of modern pop culture.
    > **解析**：`pop culture` 是专有名词短语，意为“流行文化”。
 
 8. **中文**：在我看来，现场演唱会演出比录制的单曲好得多。  
@@ -124,10 +124,10 @@ date back（追溯到）、in those days（在那个年代）、lifetime（一�
 1. Classical piano music inspired him to write his own songs.
    > **中文**：古典钢琴音乐启发了他创作属于自己的歌曲。
 
-2. This traditional folk instrument dates back to the seventeenth century (and had).
+2. This traditional folk instrument dates back to the seventeenth century alternative.
    > **中文**：这种传统民族乐器可以追溯到十七世纪。
 
-3. The movie's soundtrack became immensely popular around the world (date back).
+3. The movie's soundtrack became immensely popular around the world.
    > **中文**：这部电影的原声带在全世界范围内大受欢迎。
 
 4. That legendary rock band was extremely influential in pop culture.
@@ -136,10 +136,10 @@ date back（追溯到）、in those days（在那个年代）、lifetime（一�
 5. The independent songwriter plans to release her new album next month.
    > **中文**：这位独立音乐创作人计划下个月发行她的新专辑。
 
-6. Dance music usually relies on a fast and steady rhythm (in my eyes).
+6. Dance music usually relies on a fast and steady rhythm.
    > **中文**：舞曲通常依赖于快速且稳定的节奏。
 
-7. Hip-hop music has become a major part of modern pop culture (in those days).
+7. Hip-hop music has become a major part of modern pop culture.
    > **中文**：嘻哈音乐已成为现代流行文化的主要组成部分。
 
 8. In my eyes, live concert performances are much better than recorded tracks about alternative.
@@ -171,9 +171,9 @@ Classical piano music `____`d him to write his own songs.
 
 ### 2
 
-This traditional folk instrument dates back to the seventeenth century (`____`).
+This traditional folk instrument dates back to the seventeenth century `____`.
 
-- [x] and had
+- [x] alternative
 - [ ] date back
 - [ ] in those days
 
@@ -181,11 +181,11 @@ This traditional folk instrument dates back to the seventeenth century (`____`).
 
 ### 3
 
-The movie's soundtrack became immensely popular around the world (`____`).
+The movie's `____` became immensely popular around the world.
 
-- [x] date back
-- [ ] electronic
-- [ ] influence
+- [x] soundtrack
+- [ ] date back
+- [ ] in those days
 
 > **解析**：`soundtrack` 是名词，意为“（电影/电视）原声音乐带”。
 
@@ -211,29 +211,29 @@ The independent songwriter plans to `____` her new album next month.
 
 ### 6
 
-Dance music usually relies on a fast and steady rhythm (`____`).
+Dance music usually relies on a fast and steady `____`.
 
-- [x] in my eyes
-- [ ] in those days
-- [ ] it all
+- [x] rhythm
+- [ ] in my eyes
+- [ ] inspire
 
 > **解析**：`rhythm` 是名词，意为“节奏、韵律”，注意拼写 `rhythm`。
 
 ### 7
 
-Hip-hop music has become a major part of modern pop culture (`____`).
+Hip-hop music has become a major part of modern `____`.
 
-- [x] in those days
-- [ ] influence
-- [ ] lifetime
+- [x] pop culture
+- [ ] in those days
+- [ ] it all
 
 > **解析**：`pop culture` 是专有名词短语，意为“流行文化”。
 
 ### 8
 
-In my eyes, live concert performances are much better than recorded tracks about `____`.
+`____`, live concert performances are much better than recorded tracks about alternative.
 
-- [x] alternative
+- [x] in my eyes
 - [ ] influential
 - [ ] must have
 

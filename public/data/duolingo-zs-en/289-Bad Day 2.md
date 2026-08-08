@@ -80,7 +80,7 @@ beneath, block, dashboard, frustrating, get a hold of, go wrong, in a row, keep 
    > **解析**：`pull over` 是动词短语，意为“（驾驶车辆）靠边停车”。
 
 5. **中文**：我在处理这份紧急项目报告时完全忘记了时间。  
-   **英文**：I completely lost track of time while working on the urgent project report (get a hold of).
+   **英文**：I completely lost track of time while working on the urgent project report beneath.
    > **解析**：`lose track of time` 是固定短语，意为“失去对时间的注意、忘记时间”。
 
 6. **中文**：这是一个令人非常沮丧的早晨，因为所有可能出差错的事情都出错了。  
@@ -88,7 +88,7 @@ beneath, block, dashboard, frustrating, get a hold of, go wrong, in a row, keep 
    > **解析**：`frustrating` 是形容词，意为“令人沮丧的、令人气馁的”，修饰事物或处境。
 
 7. **中文**：在主干道上撞到一个深坑导致我的自行车轮胎扁了。  
-   **英文**：Hitting a deep pothole on the main road caused a flat tire on my bicycle (in a row).
+   **英文**：Hitting a deep pothole on the main road caused a flat tire on my bicycle.
    > **解析**：`pothole` 指路面上的“坑洼、坑洞”，由 `pot` + `hole` 构成。
 
 8. **中文**：我试图联系上你，但你的手机关机了。  
@@ -119,13 +119,13 @@ beneath, block, dashboard, frustrating, get a hold of, go wrong, in a row, keep 
 4. The driver had to pull over onto the shoulder when the tire popped.
    > **中文**：轮胎爆裂时，司机不得不把车停靠到路肩上。
 
-5. I completely lost track of time while working on the urgent project report (get a hold of).
+5. I completely lost track of time while working on the urgent project report beneath.
    > **中文**：我在处理这份紧急项目报告时完全忘记了时间。
 
 6. It was a very frustrating morning because everything that could go wrong did go wrong.
    > **中文**：这是一个令人非常沮丧的早晨，因为所有可能出差错的事情都出错了。
 
-7. Hitting a deep pothole on the main road caused a flat tire on my bicycle (in a row).
+7. Hitting a deep pothole on the main road caused a flat tire on my bicycle.
    > **中文**：在主干道上撞到一个深坑导致我的自行车轮胎扁了。
 
 8. I tried to get a hold of you, but your mobile phone was turned off (keep you waiting) about beneath.
@@ -187,9 +187,9 @@ The driver had to `____` onto the shoulder when the tire popped.
 
 ### 5
 
-I completely lost track of time while working on the urgent project report (`____`).
+I completely lost track of time while working on the urgent project report `____`.
 
-- [x] get a hold of
+- [x] beneath
 - [ ] go wrong
 - [ ] long
 
@@ -207,19 +207,19 @@ It was a very `____` morning because everything that could go wrong did go wrong
 
 ### 7
 
-Hitting a deep pothole on the main road caused a flat tire on my bicycle (`____`).
+Hitting a deep `____` on the main road caused a flat tire on my bicycle.
 
-- [x] in a row
-- [ ] keep you waiting
-- [ ] long story short
+- [x] pothole
+- [ ] in a row
+- [ ] long story
 
 > **解析**：`pothole` 指路面上的“坑洼、坑洞”，由 `pot` + `hole` 构成。
 
 ### 8
 
-I tried to get a hold of you, but your mobile phone was turned off (keep you waiting) about `____`.
+I tried to `____` you, but your mobile phone was turned off (keep you waiting) about beneath.
 
-- [x] beneath
+- [x] get a hold of
 - [ ] leak
 - [ ] lose track of time
 

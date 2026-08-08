@@ -68,7 +68,7 @@ clear up, compared to, ever, find it, flood, freezing, frost, get cold, humidity
    > **解析**：`clear up` 不及物动词短语，意为“（天气）放晴；转晴”。
 
 2. **中文**：持续的倾盆大雨导致附近的河流泛滥并淹没了街道。  
-   **英文**：Continuous torrential rainfall caused the nearby river to overflow and flood the streets (compared to).
+   **英文**：Continuous torrential rainfall caused the nearby river to overflow and flood the streets.
    > **解析**：`flood` 动词，意为“淹没；泛滥”；亦可作可数/不可数名词（洪水）。
 
 3. **中文**：务必带上一件厚外套，因为太阳落山后天气会变冷。  
@@ -76,7 +76,7 @@ clear up, compared to, ever, find it, flood, freezing, frost, get cold, humidity
    > **解析**：`get cold` 为“连系动词 `get` + 形容词 `cold`”，意为“变冷；天气转凉”。
 
 4. **中文**：看看窗外；山上正下着大雪。  
-   **英文**：Look outside the window; it's snowing heavily on the mountains (find it).
+   **英文**：Look outside the window; it's snowing heavily on the mountains.
    > **解析**：`it's` 为 `it is` 或 `it has` 的缩写。在天气表达中作无人称主语 `it`。
 
 5. **中文**：这家餐厅定期更新菜单，以主打新鲜的季节性食材。  
@@ -110,13 +110,13 @@ clear up, compared to, ever, find it, flood, freezing, frost, get cold, humidity
 1. According to the weather forecast, the heavy rain should clear up by midday.
    > **中文**：根据天气预报，强降雨应该会在中午前后放晴。
 
-2. Continuous torrential rainfall caused the nearby river to overflow and flood the streets (compared to).
+2. Continuous torrential rainfall caused the nearby river to overflow and flood the streets.
    > **中文**：持续的倾盆大雨导致附近的河流泛滥并淹没了街道。
 
 3. Make sure to bring a thick coat because it will get cold after the sun sets.
    > **中文**：务必带上一件厚外套，因为太阳落山后天气会变冷。
 
-4. Look outside the window; it's snowing heavily on the mountains (find it).
+4. Look outside the window; it's snowing heavily on the mountains.
    > **中文**：看看窗外；山上正下着大雪。
 
 5. The restaurant updates its menu regularly to feature fresh seasonal ingredients.
@@ -157,10 +157,10 @@ According to the weather forecast, the heavy rain should `____` by midday.
 
 ### 2
 
-Continuous torrential rainfall caused the nearby river to overflow and flood the streets (`____`).
+Continuous torrential rainfall caused the nearby river to overflow and `____` the streets.
 
-- [x] compared to
-- [ ] ever
+- [x] flood
+- [ ] compared to
 - [ ] frost
 
 > **解析**：`flood` 动词，意为“淹没；泛滥”；亦可作可数/不可数名词（洪水）。
@@ -177,11 +177,11 @@ Make sure to bring a thick coat because it will `____` after the sun sets.
 
 ### 4
 
-Look outside the window; it's snowing heavily on the mountains (`____`).
+Look outside the window; `____` snowing heavily on the mountains.
 
-- [x] find it
-- [ ] flood
-- [ ] humidity
+- [x] it's
+- [ ] find it
+- [ ] get cold
 
 > **解析**：`it's` 为 `it is` 或 `it has` 的缩写。在天气表达中作无人称主语 `it`。
 
@@ -217,9 +217,9 @@ During late autumn, the leaves on the maple trees `____` bright red.
 
 ### 8
 
-Winters in southern cities are relatively mild compared to the frozen north (get cold) about `____`.
+Winters in southern cities are relatively mild `____` the frozen north (get cold) about ever.
 
-- [x] ever
+- [x] compared to
 - [ ] humidity
 - [ ] out there
 

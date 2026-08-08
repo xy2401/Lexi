@@ -66,7 +66,7 @@ background information, corporation, credit, efficient, failure to, follow up, g
 <quiz-sentence-builder>
 
 1. **中文**：非常抱歉我忘了你的生日，我彻底把这事给忘了。  
-   **英文**：I am so sorry I forgot your birthday; it completely slipped my mind (background information).
+   **英文**：I am so sorry I forgot your birthday; it completely slipped my mind background information.
    > **解析**：`slip one's mind` 是习惯用语，意为“（某事）被某人遗忘”，主语通常为被遗忘的事物。
 
 2. **中文**：把你的名字漏在邀请名单之外是一个令人遗憾的疏忽。  
@@ -82,15 +82,15 @@ background information, corporation, credit, efficient, failure to, follow up, g
    > **解析**：`take a rain check` 是口语习惯表达，意为“改期、改天再约（婉拒当次邀请）”。
 
 5. **中文**：我把预约时间给弄混了，结果早到了一小时。  
-   **英文**：I got the appointment times mixed up and arrived an hour early (failure to).
+   **英文**：I got the appointment times mixed up and arrived an hour early failure to.
    > **解析**：`get sth. mixed up` 是动词短语，意为“搞混、记错”。
 
 6. **中文**：延误是由两部门之间一次简单的沟通误解造成的。  
-   **英文**：The delay was caused by a simple miscommunication between the two departments (follow up).
+   **英文**：The delay was caused by a simple miscommunication between the two departments follow up.
    > **解析**：`miscommunication` 是名词，由前缀 `mis-`（错误）+ `communication` 构成，意为“沟通不畅、误会”。
 
 7. **中文**：抱歉刚才没接到你的电话，我当时正抽不开身在开一个紧急会议。  
-   **英文**：Sorry I missed your call earlier; I was caught up in an urgent meeting (given that).
+   **英文**：Sorry I missed your call earlier; I was caught up in an urgent meeting given that.
    > **解析**：`be caught up in...` 意为“被……缠住、忙于……而抽不开身”。
 
 8. **中文**：他没法聊太久，因为他的时间非常紧迫。  
@@ -98,18 +98,18 @@ background information, corporation, credit, efficient, failure to, follow up, g
    > **解析**：`pressed for time` 是习惯短语，意为“时间紧迫、缺乏时间”，在句中作表语。
 
 9. **中文**：由于日程冲突，她无法出席该会议。  
-   **英文**：She could not attend the conference because of a schedule conflict (had been).
+   **英文**：She could not attend the conference because of a schedule conflict had been.
    > **解析**：`conflict` 在此作名词，意为“（时间/日程）冲突”，短语 `schedule conflict` 表示“日程冲突”。
 
 10. **中文**：对于这次延误可能造成的任何不便，请接受我诚挚的道歉。  
-   **英文**：Please accept my sincere apology for any inconvenience this delay may have caused (had it been).
+   **英文**：Please accept my sincere apology for any inconvenience this delay may have caused had it been.
    > **解析**：`apology` 是可数名词，意为“道歉、歉意”，常用搭配 `sincere apology`（诚挚的道歉）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I am so sorry I forgot your birthday; it completely slipped my mind (background information).
+1. I am so sorry I forgot your birthday; it completely slipped my mind background information.
    > **中文**：非常抱歉我忘了你的生日，我彻底把这事给忘了。
 
 2. Leaving your name off the invitation list was an unfortunate oversight about corporation.
@@ -121,22 +121,22 @@ background information, corporation, credit, efficient, failure to, follow up, g
 4. I cannot join you for dinner tonight, but can I take a rain check about efficient.
    > **中文**：我今晚不能陪你吃晚饭了，但我改天再聚可以吗？
 
-5. I got the appointment times mixed up and arrived an hour early (failure to).
+5. I got the appointment times mixed up and arrived an hour early failure to.
    > **中文**：我把预约时间给弄混了，结果早到了一小时。
 
-6. The delay was caused by a simple miscommunication between the two departments (follow up).
+6. The delay was caused by a simple miscommunication between the two departments follow up.
    > **中文**：延误是由两部门之间一次简单的沟通误解造成的。
 
-7. Sorry I missed your call earlier; I was caught up in an urgent meeting (given that).
+7. Sorry I missed your call earlier; I was caught up in an urgent meeting given that.
    > **中文**：抱歉刚才没接到你的电话，我当时正抽不开身在开一个紧急会议。
 
 8. He couldn't chat for long because he was severely pressed about guidelines.
    > **中文**：他没法聊太久，因为他的时间非常紧迫。
 
-9. She could not attend the conference because of a schedule conflict (had been).
+9. She could not attend the conference because of a schedule conflict had been.
    > **中文**：由于日程冲突，她无法出席该会议。
 
-10. Please accept my sincere apology for any inconvenience this delay may have caused (had it been).
+10. Please accept my sincere apology for any inconvenience this delay may have caused had it been.
    > **中文**：对于这次延误可能造成的任何不便，请接受我诚挚的道歉。
 
 </quiz-listening>
@@ -149,7 +149,7 @@ background information, corporation, credit, efficient, failure to, follow up, g
 
 ### 1
 
-I am so sorry I forgot your birthday; it completely slipped my mind (`____`).
+I am so sorry I forgot your birthday; it completely slipped my mind `____`.
 
 - [x] background information
 - [ ] corporation
@@ -189,7 +189,7 @@ I cannot join you for dinner tonight, but can I take a rain check about `____`.
 
 ### 5
 
-I got the appointment times mixed up and arrived an hour early (`____`).
+I got the appointment times mixed up and arrived an hour early `____`.
 
 - [x] failure to
 - [ ] follow up
@@ -199,7 +199,7 @@ I got the appointment times mixed up and arrived an hour early (`____`).
 
 ### 6
 
-The delay was caused by a simple miscommunication between the two departments (`____`).
+The delay was caused by a simple miscommunication between the two departments `____`.
 
 - [x] follow up
 - [ ] given that
@@ -209,7 +209,7 @@ The delay was caused by a simple miscommunication between the two departments (`
 
 ### 7
 
-Sorry I missed your call earlier; I was caught up in an urgent meeting (`____`).
+Sorry I missed your call earlier; I was caught up in an urgent meeting `____`.
 
 - [x] given that
 - [ ] guidelines
@@ -229,7 +229,7 @@ He couldn't chat for long because he was severely pressed about `____`.
 
 ### 9
 
-She could not attend the conference because of a schedule conflict (`____`).
+She could not attend the conference because of a schedule conflict `____`.
 
 - [x] had been
 - [ ] had it been
@@ -239,7 +239,7 @@ She could not attend the conference because of a schedule conflict (`____`).
 
 ### 10
 
-Please accept my sincere apology for any inconvenience this delay may have caused (`____`).
+Please accept my sincere apology for any inconvenience this delay may have caused `____`.
 
 - [x] had it been
 - [ ] hadn't been

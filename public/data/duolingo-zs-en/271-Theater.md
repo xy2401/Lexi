@@ -64,11 +64,11 @@ almost a, almost all, audition, chances are, critic, full house, highly, impress
 <quiz-sentence-builder>
 
 1. **中文**：在音乐剧女主角的试镜前，她感到非常紧张。  
-   **英文**：She was nervous before her audition for the lead role in the musical (almost a).
+   **英文**：She was nervous before her audition for the lead role in the musical.
    > **解析**：`audition` 在此用作名词，意为“试镜、试演”。常用搭配 `audition for + 角色` 表示“参加某角色的试镜”，在句中作介词 `before` 的宾语。
 
 2. **中文**：那个年轻演员在走上舞台前成功克服了怯场情绪。  
-   **英文**：The young actor managed to overcome his stage fright before stepping onto the stage (almost all).
+   **英文**：The young actor managed to overcome his stage fright before stepping onto the stage.
    > **解析**：`stage fright` 是由名词组合成的复合名词，意为“怯场、舞台恐惧”，属于不可数名词。动词短语 `overcome stage fright` 表示“克服怯场”。
 
 3. **中文**：剧院在首演之夜座无虚席，因为门票很快就售罄了。  
@@ -76,7 +76,7 @@ almost a, almost all, audition, chances are, critic, full house, highly, impress
    > **解析**：`full house` 是名词短语，在戏剧语境中意为“全场爆满、座无虚席”，其中 `house` 特指“观众席”。
 
 4. **中文**：剧组里的每个人都对这部新剧的首演之夜感到无比兴奋。  
-   **英文**：Everyone in the cast was excited for the opening night of the new play (chances are).
+   **英文**：Everyone in the cast was excited for the opening night of the new play.
    > **解析**：`opening night` 指戏剧或表演的“首演之夜”，作介词 `for` 的宾语。固定搭配 `on opening night` 表示“在首演之夜”。
 
 5. **中文**：戏剧社今年很可能会赢得地区比赛。  
@@ -84,7 +84,7 @@ almost a, almost all, audition, chances are, critic, full house, highly, impress
    > **解析**：`chances are (that)...` 是口语中高频使用的推测句式，意为“很可能……”，后接同位语从句表达可能性或推测。
 
 6. **中文**：他们在彩排中花了四个小时来完善动作和台词。  
-   **英文**：They spent four hours at the dress rehearsal perfecting their movement and lines (full house).
+   **英文**：They spent four hours at the dress rehearsal perfecting their movement and lines.
    > **解析**：`rehearsal` 是名词，意为“排练、彩排”，动词形式为 `rehearse`。短语 `dress rehearsal` 特指“带妆彩排”。
 
 7. **中文**：他在最后一次排练前背熟了剧本里的每一句台词。  
@@ -100,29 +100,29 @@ almost a, almost all, audition, chances are, critic, full house, highly, impress
    > **解析**：`impressed` 是形容词，意为“印象深刻的”。固定搭配 `be impressed by/with...` 表示“对……印象深刻”，副词 `highly` 作状语修饰形容词。
 
 10. **中文**：她一走出来，聚光灯就跟着她在舞台上移动。  
-   **英文**：As soon as she walked out, the spotlight followed her across the stage (may be).
+   **英文**：As soon as she walked out, the spotlight followed her across the stage.
    > **解析**：`spotlight` 指舞台上的“聚光灯”，由 `spot`（地点/点）与 `light`（灯光）复合而成。引申表达 `in the spotlight` 表示“成为焦点”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. She was nervous before her audition for the lead role in the musical (almost a).
+1. She was nervous before her audition for the lead role in the musical.
    > **中文**：在音乐剧女主角的试镜前，她感到非常紧张。
 
-2. The young actor managed to overcome his stage fright before stepping onto the stage (almost all).
+2. The young actor managed to overcome his stage fright before stepping onto the stage.
    > **中文**：那个年轻演员在走上舞台前成功克服了怯场情绪。
 
 3. The theater had a full house on opening night because the tickets sold out fast.
    > **中文**：剧院在首演之夜座无虚席，因为门票很快就售罄了。
 
-4. Everyone in the cast was excited for the opening night of the new play (chances are).
+4. Everyone in the cast was excited for the opening night of the new play.
    > **中文**：剧组里的每个人都对这部新剧的首演之夜感到无比兴奋。
 
 5. Chances are that the drama club will win the regional competition this year about audition.
    > **中文**：戏剧社今年很可能会赢得地区比赛。
 
-6. They spent four hours at the dress rehearsal perfecting their movement and lines (full house).
+6. They spent four hours at the dress rehearsal perfecting their movement and lines.
    > **中文**：他们在彩排中花了四个小时来完善动作和台词。
 
 7. He memorized every single line in the script before the final rehearsal.
@@ -134,7 +134,7 @@ almost a, almost all, audition, chances are, critic, full house, highly, impress
 9. The director was highly impressed by her natural confidence during the audition.
    > **中文**：导演对她在试镜期间表现出的自然自信留下了深刻印象。
 
-10. As soon as she walked out, the spotlight followed her across the stage (may be).
+10. As soon as she walked out, the spotlight followed her across the stage.
    > **中文**：她一走出来，聚光灯就跟着她在舞台上移动。
 
 </quiz-listening>
@@ -147,21 +147,21 @@ almost a, almost all, audition, chances are, critic, full house, highly, impress
 
 ### 1
 
-She was nervous before her audition for the lead role in the musical (`____`).
+She was nervous before her `____` for the lead role in the musical.
 
-- [x] almost a
-- [ ] almost all
+- [x] audition
+- [ ] almost a
 - [ ] full house
 
 > **解析**：`audition` 在此用作名词，意为“试镜、试演”。常用搭配 `audition for + 角色` 表示“参加某角色的试镜”，在句中作介词 `before` 的宾语。
 
 ### 2
 
-The young actor managed to overcome his stage fright before stepping onto the stage (`____`).
+The young actor managed to overcome his `____` before stepping onto the stage.
 
-- [x] almost all
-- [ ] audition
-- [ ] highly
+- [x] stage fright
+- [ ] almost all
+- [ ] full house
 
 > **解析**：`stage fright` 是由名词组合成的复合名词，意为“怯场、舞台恐惧”，属于不可数名词。动词短语 `overcome stage fright` 表示“克服怯场”。
 
@@ -177,19 +177,19 @@ The theater had a `____` on opening night because the tickets sold out fast.
 
 ### 4
 
-Everyone in the cast was excited for the opening night of the new play (`____`).
+Everyone in the cast was excited for the `____` of the new play.
 
-- [x] chances are
-- [ ] critic
-- [ ] line
+- [x] opening night
+- [ ] chances are
+- [ ] impressed
 
 > **解析**：`opening night` 指戏剧或表演的“首演之夜”，作介词 `for` 的宾语。固定搭配 `on opening night` 表示“在首演之夜”。
 
 ### 5
 
-Chances are that the drama club will win the regional competition this year about `____`.
+`____` that the drama club will win the regional competition this year about audition.
 
-- [x] audition
+- [x] chances are
 - [ ] full house
 - [ ] may be
 
@@ -197,7 +197,7 @@ Chances are that the drama club will win the regional competition this year abou
 
 ### 6
 
-They spent four hours at the dress rehearsal perfecting their movement and `____`s (full house).
+They spent four hours at the dress rehearsal perfecting their movement and `____`s.
 
 - [x] line
 - [ ] full house
@@ -237,11 +237,11 @@ The director was `____` impressed by her natural confidence during the audition.
 
 ### 10
 
-As soon as she walked out, the spotlight followed her across the stage (`____`).
+As soon as she walked out, the `____` followed her across the stage.
 
-- [x] may be
-- [ ] might not be
-- [ ] quite a
+- [x] spotlight
+- [ ] may be
+- [ ] production
 
 > **解析**：`spotlight` 指舞台上的“聚光灯”，由 `spot`（地点/点）与 `light`（灯光）复合而成。引申表达 `in the spotlight` 表示“成为焦点”。
 

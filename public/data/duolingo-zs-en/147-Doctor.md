@@ -66,7 +66,7 @@ get sick / get worse 用 get 表示变化。advise sb to do 是"建议某人做"
    > **解析**：advise 为动词，意为“建议、劝告”。固定句型 advise sb. to do sth.（建议某人做某事）。名词为 advice（不可数）。
 
 2. **中文**：定期体检有助于在健康问题变得严重之前检测出它们。  
-   **英文**：Regular medical checkups can help detect health issues before they become serious (bless you).
+   **英文**：Regular medical checkups can help detect health issues before they become serious.
    > **解析**：medical 为形容词，意为“医疗的、医学的”。medical checkup 意为“体检”。detect 意为“检测/发现”。
 
 3. **中文**：根据处方，每日两次饭后服用两片药。  
@@ -98,7 +98,7 @@ get sick / get worse 用 get 表示变化。advise sb to do 是"建议某人做"
    > **解析**：sneeze 为动词，意为“打喷嚏”。cover your mouth 意为“盖住口鼻”。tissue 意为“纸巾”。
 
 10. **中文**：用清水替代含糖汽水会让你的生活方式健康得多。  
-   **英文**：Replacing sugary sodas with fresh water will make your lifestyle much healthier (get sick).
+   **英文**：Replacing sugary sodas with fresh water will make your lifestyle much healthier.
    > **解析**：healthier 为 healthy 的比较级，意为“更健康的”。make your lifestyle healthier 表示“使你的生活方式更健康”。
 
 </quiz-sentence-builder>
@@ -108,7 +108,7 @@ get sick / get worse 用 get 表示变化。advise sb to do 是"建议某人做"
 1. Doctors advise patients to drink plenty of water and rest when they have a cold.
    > **中文**：医生们建议患者在感冒时多喝水并注意休息。
 
-2. Regular medical checkups can help detect health issues before they become serious (bless you).
+2. Regular medical checkups can help detect health issues before they become serious.
    > **中文**：定期体检有助于在健康问题变得严重之前检测出它们。
 
 3. Take two pills after meals twice daily according to the prescription.
@@ -132,7 +132,7 @@ get sick / get worse 用 get 表示变化。advise sb to do 是"建议某人做"
 9. Cover your mouth and nose with a tissue when you cough or sneeze.
    > **中文**：当你咳嗽或打喷嚏时，用纸巾盖住口鼻。
 
-10. Replacing sugary sodas with fresh water will make your lifestyle much healthier (get sick).
+10. Replacing sugary sodas with fresh water will make your lifestyle much healthier.
    > **中文**：用清水替代含糖汽水会让你的生活方式健康得多。
 
 </quiz-listening>
@@ -155,11 +155,11 @@ Doctors `____` patients to drink plenty of water and rest when they have a cold.
 
 ### 2
 
-Regular medical checkups can help detect health issues before they become serious (`____`).
+Regular `____` checkups can help detect health issues before they become serious.
 
-- [x] bless you
-- [ ] bone
-- [ ] drug
+- [x] medical
+- [ ] bless you
+- [ ] disease
 
 > **解析**：medical 为形容词，意为“医疗的、医学的”。medical checkup 意为“体检”。detect 意为“检测/发现”。
 
@@ -235,10 +235,10 @@ Cover your mouth and nose with a tissue when you cough or `____`.
 
 ### 10
 
-Replacing sugary sodas with fresh water will make your lifestyle much healthier (`____`).
+Replacing sugary sodas with fresh water will make your lifestyle much `____`.
 
-- [x] get sick
-- [ ] get worse
+- [x] healthier
+- [ ] get sick
 - [ ] painful
 
 > **解析**：healthier 为 healthy 的比较级，意为“更健康的”。make your lifestyle healthier 表示“使你的生活方式更健康”。

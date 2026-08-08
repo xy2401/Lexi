@@ -56,7 +56,7 @@ person who / thing that / reason why / the one 是定语从句和名词短语的
    > **解析**：`actually` 副词，意为“实际上；事实上”。在面试或商务沟通中常用于修正、补充或强调真实的状况。
 
 2. **中文**：在签署雇佣合同之前，请务必仔细审查所有条款。  
-   **英文**：Before signing the employment contract, make sure to review all the clauses carefully (as well as).
+   **英文**：Before signing the employment contract, make sure to review all the clauses carefully.
    > **解析**：`contract` 可数名词，在此处读作 /ˈkɑːntrækt/，意为“合同；契约”。搭配 `sign a contract`（签合同）。
 
 3. **中文**：我喜欢与团队合作；我的意思是，合作总能激发最好的创意。  
@@ -72,7 +72,7 @@ person who / thing that / reason why / the one 是定语从句和名词短语的
    > **解析**：`postpone` 及物动词，意为“推迟；延期”。常与介词 `until` 或 `to` 搭配（如 `postpone sth. until...`），同义短语为 `put off`。
 
 6. **中文**：招聘经理说他们正在寻找具有某种管理背景的人。  
-   **英文**：The hiring manager said they are looking for someone with some type of management background (did you say).
+   **英文**：The hiring manager said they are looking for someone with some type of management background.
    > **解析**：`some type of` 为数量/限定短语，意为“某种类型的；某种”。后接单数或不可数名词（如 `management background`）。
 
 7. **中文**：我们收到客户的紧急信息，需要立即回复。  
@@ -80,11 +80,11 @@ person who / thing that / reason why / the one 是定语从句和名词短语的
    > **解析**：`urgent` 形容词，意为“紧急的；急迫的”。常修饰 `message`, `matter`, `task` 等，在句中做前置定语。
 
 8. **中文**：她精通英语和德语，这对我们的团队来说是一笔巨大的财富。  
-   **英文**：She is fluent in English as well as German, which is a great asset for our team (i hope i).
+   **英文**：She is fluent in English as well as German, which is a great asset for our team.
    > **解析**：`as well as` 为并列连词短语，意为“以及；还有”。连接两个并列的语言能力名词 `English` 与 `German`。
 
 9. **中文**：你是说会议改到了今天下午两点吗？  
-   **英文**：Did you say that the meeting was rescheduled for two o'clock this afternoon? (i mean).
+   **英文**：Did you say that the meeting was rescheduled for two o'clock this afternoon?
    > **解析**：`did you say` 为问句固定结构，用于向说话人重新确认听到的信息，后接宾语从句。
 
 10. **中文**：请稍等一下，让我复核一下季度报告中的数据。  
@@ -98,7 +98,7 @@ person who / thing that / reason why / the one 是定语从句和名词短语的
 1. I actually have three years of relevant experience in digital marketing.
    > **中文**：实际上我在数字营销领域拥有三年的相关经验。
 
-2. Before signing the employment contract, make sure to review all the clauses carefully (as well as).
+2. Before signing the employment contract, make sure to review all the clauses carefully.
    > **中文**：在签署雇佣合同之前，请务必仔细审查所有条款。
 
 3. I love working with teams; I mean, collaboration always brings out the best ideas.
@@ -110,16 +110,16 @@ person who / thing that / reason why / the one 是定语从句和名词短语的
 5. Due to a scheduling conflict, we need to postpone the interview until Friday.
    > **中文**：由于日程冲突，我们需要将面试推迟到周五。
 
-6. The hiring manager said they are looking for someone with some type of management background (did you say).
+6. The hiring manager said they are looking for someone with some type of management background.
    > **中文**：招聘经理说他们正在寻找具有某种管理背景的人。
 
 7. We received an urgent message from the client requiring an immediate response.
    > **中文**：我们收到客户的紧急信息，需要立即回复。
 
-8. She is fluent in English as well as German, which is a great asset for our team (i hope i).
+8. She is fluent in English as well as German, which is a great asset for our team.
    > **中文**：她精通英语和德语，这对我们的团队来说是一笔巨大的财富。
 
-9. Did you say that the meeting was rescheduled for two o'clock this afternoon? (i mean).
+9. Did you say that the meeting was rescheduled for two o'clock this afternoon?
    > **中文**：你是说会议改到了今天下午两点吗？
 
 10. Just a minute, let me double check the figures in the quarterly report.
@@ -145,10 +145,10 @@ I `____` have three years of relevant experience in digital marketing.
 
 ### 2
 
-Before signing the employment contract, make sure to review all the clauses carefully (`____`).
+Before signing the employment `____`, make sure to review all the clauses carefully.
 
-- [x] as well as
-- [ ] basically
+- [x] contract
+- [ ] as well as
 - [ ] financial
 
 > **解析**：`contract` 可数名词，在此处读作 /ˈkɑːntrækt/，意为“合同；契约”。搭配 `sign a contract`（签合同）。
@@ -185,11 +185,11 @@ Due to a scheduling conflict, we need to `____` the interview until Friday.
 
 ### 6
 
-The hiring manager said they are looking for someone with some type of management background (`____`).
+The hiring manager said they are looking for someone with `____` management background.
 
-- [x] did you say
-- [ ] financial
-- [ ] let me see
+- [x] some type of
+- [ ] did you say
+- [ ] just a minute
 
 > **解析**：`some type of` 为数量/限定短语，意为“某种类型的；某种”。后接单数或不可数名词（如 `management background`）。
 
@@ -205,9 +205,9 @@ We received an `____` message from the client requiring an immediate response.
 
 ### 8
 
-She is fluent in English as well as German, which is a great asset for our team (`____`).
+She is fluent in English `____` German, which is a great asset for our team.
 
-- [x] i hope i
+- [x] as well as
 - [ ] i mean
 - [ ] manage
 
@@ -215,11 +215,11 @@ She is fluent in English as well as German, which is a great asset for our team 
 
 ### 9
 
-Did you say that the meeting was rescheduled for two o'clock this afternoon? (i `____`).
+`____` that the meeting was rescheduled for two o'clock this afternoon?
 
-- [x] mean
-- [ ] i mean
-- [ ] manage
+- [x] did you say
+- [ ] just a minute
+- [ ] mean
 
 > **解析**：`did you say` 为问句固定结构，用于向说话人重新确认听到的信息，后接宾语从句。
 

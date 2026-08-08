@@ -62,15 +62,15 @@ ask if / ask whether / wonder if / wonder whether 用来间接询问：I wonder 
    > **解析**：condolences 常用复数名词，意为“吊唁；慰问”，表达哀悼常用 accept my condolences。
 
 3. **中文**：许多朋友和同事参加了葬礼上的悼念仪式。  
-   **英文**：Many friends and colleagues attended the memorial service at the funeral (ask if).
+   **英文**：Many friends and colleagues attended the memorial service at the funeral.
    > **解析**：funeral 可数名词，意为“葬礼；丧礼”，常用于表达悼念或告知坏消息的语境。
 
 4. **中文**：我们都希望她能从膝盖手术中快速康复。  
-   **英文**：We all hope that she will recover quickly from her knee surgery (ask whether).
+   **英文**：We all hope that she will recover quickly from her knee surgery.
    > **解析**：recover 不及物动词，意为“康复；恢复健康”，常与介词 from 连用（recover from）。
 
 5. **中文**：非常抱歉我今天把演示日程搞砸了。  
-   **英文**：I am really sorry that I messed up the presentation schedules today (care about).
+   **英文**：I am really sorry that I messed up the presentation schedules today.
    > **解析**：mess up 口语短语动词，意为“搞砸；弄乱”，此处作过去时 messed up。
 
 6. **中文**：优秀的管理者真心关心地心员工的健康与福祉。  
@@ -103,13 +103,13 @@ ask if / ask whether / wonder if / wonder whether 用来间接询问：I wonder 
 2. Please accept my deepest condolences on the passing of your grandfather.
    > **中文**：请接受我对您祖父去世最深切的吊唁与慰问。
 
-3. Many friends and colleagues attended the memorial service at the funeral (ask if).
+3. Many friends and colleagues attended the memorial service at the funeral.
    > **中文**：许多朋友和同事参加了葬礼上的悼念仪式。
 
-4. We all hope that she will recover quickly from her knee surgery (ask whether).
+4. We all hope that she will recover quickly from her knee surgery.
    > **中文**：我们都希望她能从膝盖手术中快速康复。
 
-5. I am really sorry that I messed up the presentation schedules today (care about).
+5. I am really sorry that I messed up the presentation schedules today.
    > **中文**：非常抱歉我今天把演示日程搞砸了。
 
 6. Good managers genuinely care about the health and well-being of their staff about ask if.
@@ -157,39 +157,39 @@ Please accept my deepest `____` on the passing of your grandfather.
 
 ### 3
 
-Many friends and colleagues attended the memorial service at the funeral (`____` if).
+Many friends and colleagues attended the memorial service at the `____`.
 
-- [x] ask
-- [ ] ask whether
-- [ ] excuse
+- [x] funeral
+- [ ] ask if
+- [ ] condolences
 
 > **解析**：funeral 可数名词，意为“葬礼；丧礼”，常用于表达悼念或告知坏消息的语境。
 
 ### 4
 
-We all hope that she will recover quickly from her knee surgery (`____`).
+We all hope that she will `____` quickly from her knee surgery.
 
-- [x] ask whether
-- [ ] care about
-- [ ] forever
+- [x] recover
+- [ ] ask whether
+- [ ] excuse
 
 > **解析**：recover 不及物动词，意为“康复；恢复健康”，常与介词 from 连用（recover from）。
 
 ### 5
 
-I am really sorry that I messed up the presentation schedules today (`____`).
+I am really `____` I messed up the presentation schedules today.
 
-- [x] care about
-- [ ] condition
-- [ ] funeral
+- [x] sorry that
+- [ ] care about
+- [ ] forever
 
 > **解析**：mess up 口语短语动词，意为“搞砸；弄乱”，此处作过去时 messed up。
 
 ### 6
 
-Good managers genuinely care about the health and well-being of their staff about `____`.
+Good managers genuinely care about the health and well-being of their staff about `____` if.
 
-- [x] ask if
+- [x] ask
 - [ ] condolences
 - [ ] get better
 

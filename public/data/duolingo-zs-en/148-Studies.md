@@ -94,11 +94,11 @@ It is + adj + to do 是形式主语句型。hand in（上交）vs hand out（分
    > **解析**：plenty of 为量词短语，意为“大量的、充足的”。后接可数名词复数（books）或不可数名词。
 
 9. **中文**：你需要在下周开课之前在线注册选修课程。  
-   **英文**：You need to register for your elective courses online before classes start next week (hand in).
+   **英文**：You need to register for your elective courses online before classes start next week.
    > **解析**：register 为动词，意为“注册、登记”。register for a course 表示“注册课程”。
 
 10. **中文**：在讲座中集中注意力听讲有助于学生更好地理解核心概念。  
-   **英文**：Paying close attention during lectures helps students understand key concepts better (hand out).
+   **英文**：Paying close attention during lectures helps students understand key concepts better.
    > **解析**：attention 为不可数名词，意为“注意力”。pay attention 指“集中注意力”。close attention 表示“密切关注/集中注意力”。
 
 </quiz-sentence-builder>
@@ -129,10 +129,10 @@ It is + adj + to do 是形式主语句型。hand in（上交）vs hand out（分
 8. Students have plenty of reference books to read in the university library.
    > **中文**：学生们在大学图书馆里有充足的参考书可供阅读。
 
-9. You need to register for your elective courses online before classes start next week (hand in).
+9. You need to register for your elective courses online before classes start next week.
    > **中文**：你需要在下周开课之前在线注册选修课程。
 
-10. Paying close attention during lectures helps students understand key concepts better (hand out).
+10. Paying close attention during lectures helps students understand key concepts better.
    > **中文**：在讲座中集中注意力听讲有助于学生更好地理解核心概念。
 
 </quiz-listening>
@@ -225,17 +225,17 @@ Students have `____` reference books to read in the university library.
 
 ### 9
 
-You need to register for your elective courses online before classes start next week (`____`).
+You need to `____` for your elective courses online before classes start next week.
 
-- [x] hand in
-- [ ] hand out
-- [ ] it
+- [x] register
+- [ ] hand in
+- [ ] internship
 
 > **解析**：register 为动词，意为“注册、登记”。register for a course 表示“注册课程”。
 
 ### 10
 
-Paying close `____` during lectures helps students understand key concepts better (hand out).
+Paying close `____` during lectures helps students understand key concepts better.
 
 - [x] attention
 - [ ] important for

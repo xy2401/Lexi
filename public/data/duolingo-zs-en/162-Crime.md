@@ -74,7 +74,7 @@ thief → thieves（复数变化）。take place = happen。
    > **解析**：file 为及物动词，意为“提交、备案”。file a report 意为“提交报告/立案”。
 
 4. **中文**：幸运的是，在今天早上的银行抢劫案中没有人受伤。  
-   **英文**：Luckily, nobody was injured during the bank robbery this morning (call the police).
+   **英文**：Luckily, nobody was injured during the bank robbery this morning.
    > **解析**：luckily 为句首副词，意为“幸运地是”，用作评注性状语修饰整个句子。
 
 5. **中文**：商店外面安装了监控摄像头以保护财产。  
@@ -114,7 +114,7 @@ thief → thieves（复数变化）。take place = happen。
 3. The victim went to the local station to file an official police report.
    > **中文**：受害者前往当地警察局提交了正式的警情报告。
 
-4. Luckily, nobody was injured during the bank robbery this morning (call the police).
+4. Luckily, nobody was injured during the bank robbery this morning.
    > **中文**：幸运的是，在今天早上的银行抢劫案中没有人受伤。
 
 5. Security cameras were installed outside the store to protect the property.
@@ -175,7 +175,7 @@ The victim went to the local station to `____` an official police report.
 
 ### 4
 
-`____`, nobody was injured during the bank robbery this morning (call the police).
+`____`, nobody was injured during the bank robbery this morning.
 
 - [x] luckily
 - [ ] call the police

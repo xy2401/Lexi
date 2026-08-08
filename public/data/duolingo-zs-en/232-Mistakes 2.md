@@ -92,11 +92,11 @@ ambitious, disagreement, embarrassment, feeling, get, had, hadn't, if only, it t
    > **解析**：`underestimate` 及物动词，意为“低估；看轻”。反义词为 `overestimate`。
 
 8. **中文**：团队成员之间微小的意见分歧演变成了严重的分歧推迟。  
-   **英文**：A minor disagreement between team members escalated into a heated delay (if only).
+   **英文**：A minor disagreement between team members escalated into a heated delay.
    > **解析**：`disagreement` 可数/不可数名词，意为“意见不合；分歧”。
 
 9. **中文**：如果我们早些审查这些统计数据，我们就不会犯这个错误了。  
-   **英文**：If we had reviewed the statistics earlier, we would not have made this error (it turns out that).
+   **英文**：If we had reviewed the statistics earlier, we would not have made this error embarrassment.
    > **解析**：`had + 过去分词` 在虚拟条件从句中表示对过去事实的假想（过去完成时）。
 
 10. **中文**：事实证明/原来，缺失的文件被不小心归档到了错误的文件夹中。  
@@ -128,10 +128,10 @@ ambitious, disagreement, embarrassment, feeling, get, had, hadn't, if only, it t
 7. Never underestimate the amount of time required to complete a comprehensive report.
    > **中文**：绝不要低估完成一份全面报告所需的时间。
 
-8. A minor disagreement between team members escalated into a heated delay (if only).
+8. A minor disagreement between team members escalated into a heated delay.
    > **中文**：团队成员之间微小的意见分歧演变成了严重的分歧推迟。
 
-9. If we had reviewed the statistics earlier, we would not have made this error (it turns out that).
+9. If we had reviewed the statistics earlier, we would not have made this error embarrassment.
    > **中文**：如果我们早些审查这些统计数据，我们就不会犯这个错误了。
 
 10. It turns out that the missing document was accidentally filed in the wrong folder about embarrassment.
@@ -217,7 +217,7 @@ Never `____` the amount of time required to complete a comprehensive report.
 
 ### 8
 
-A minor `____` between team members escalated into a heated delay (if only).
+A minor `____` between team members escalated into a heated delay.
 
 - [x] disagreement
 - [ ] it turns out that
@@ -227,9 +227,9 @@ A minor `____` between team members escalated into a heated delay (if only).
 
 ### 9
 
-If we had reviewed the statistics earlier, we would not have made this error (`____`).
+If we had reviewed the statistics earlier, we would not have made this error `____`.
 
-- [x] it turns out that
+- [x] embarrassment
 - [ ] it'd
 - [ ] misunderstand
 
@@ -237,9 +237,9 @@ If we had reviewed the statistics earlier, we would not have made this error (`_
 
 ### 10
 
-It turns out that the missing document was accidentally filed in the wrong folder about `____`.
+`____` the missing document was accidentally filed in the wrong folder about embarrassment.
 
-- [x] embarrassment
+- [x] it turns out that
 - [ ] judging by
 - [ ] nothing to do with
 

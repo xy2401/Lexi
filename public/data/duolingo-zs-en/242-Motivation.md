@@ -82,7 +82,7 @@ in theory 和 no longer 构成一种"理想与现实"的对比：In theory, it's
 <quiz-sentence-builder>
 
 1. **中文**：最初，她与恐惧作斗争，但她从未放弃。  
-   **英文**：Initially, she struggled with fear, but she never gave up (a number of).
+   **英文**：Initially, she struggled with fear, but she never gave up.
    > **解析**：`initially` 是副词，意为“最初、起初”，置于句首作句首状语，引出初始状态。
 
 2. **中文**：许多人难以平衡日常生活与抱负。  
@@ -106,7 +106,7 @@ in theory 和 no longer 构成一种"理想与现实"的对比：In theory, it's
    > **解析**：`action` 是名词，搭配 `take action`（采取行动），动名词短语作主语。
 
 7. **中文**：她被导师的话真正地鼓舞到了。  
-   **英文**：She was truly inspired by her mentor's words (in theory).
+   **英文**：She was truly inspired by her mentor's words.
    > **解析**：`truly` 是副词，意为“真正地、真诚地”，修饰过去分词 `inspired`。
 
 8. **中文**：如果你每天致力于磨练技能，你一定会取得进步。  
@@ -125,7 +125,7 @@ in theory 和 no longer 构成一种"理想与现实"的对比：In theory, it's
 
 <quiz-listening>
 
-1. Initially, she struggled with fear, but she never gave up (a number of).
+1. Initially, she struggled with fear, but she never gave up.
    > **中文**：最初，她与恐惧作斗争，但她从未放弃。
 
 2. Many people struggle to balance their daily life and ambition.
@@ -143,7 +143,7 @@ in theory 和 no longer 构成一种"理想与现实"的对比：In theory, it's
 6. Taking immediate action is the key to overcoming procrastination.
    > **中文**：立即采取行动是战胜拖延症的关键。
 
-7. She was truly inspired by her mentor's words (in theory).
+7. She was truly inspired by her mentor's words.
    > **中文**：她被导师的话真正地鼓舞到了。
 
 8. If you work at your skills every day, you will surely improve.
@@ -165,11 +165,11 @@ in theory 和 no longer 构成一种"理想与现实"的对比：In theory, it's
 
 ### 1
 
-Initially, she struggled with fear, but she never gave up (`____`).
+`____`, she struggled with fear, but she never gave up.
 
-- [x] a number of
-- [ ] action
-- [ ] free
+- [x] initially
+- [ ] a number of
+- [ ] forward
 
 > **解析**：`initially` 是副词，意为“最初、起初”，置于句首作句首状语，引出初始状态。
 
@@ -225,7 +225,7 @@ Taking immediate `____` is the key to overcoming procrastination.
 
 ### 7
 
-She was `____` inspired by her mentor's words (in theory).
+She was `____` inspired by her mentor's words.
 
 - [x] truly
 - [ ] in theory

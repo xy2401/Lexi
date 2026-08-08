@@ -60,7 +60,7 @@ adapt, are being, are not being, being, cause, endangered, global warming, green
    > **解析**：endangered 形容词，意为“濒危的”，修饰 species、animals 等。
 
 3. **中文**：砍伐森林破坏了野生鸟类和动物的自然栖息地。  
-   **英文**：Deforestation destroys the natural habitat of wild birds and animals (are not being).
+   **英文**：Deforestation destroys the natural habitat of wild birds and animals.
    > **解析**：habitat 可数/不可数名词，意为“（动植物的）栖息地；自然环境”。
 
 4. **中文**：工厂决不能用有害化学废料污染附近的河流。  
@@ -76,7 +76,7 @@ adapt, are being, are not being, being, cause, endangered, global warming, green
    > **解析**：planet 可数名词，在此特指“地球”。
 
 7. **中文**：过度的工业排放是空气污染的主要原因。  
-   **英文**：Excessive industrial emissions are a main cause of air pollution (global warming).
+   **英文**：Excessive industrial emissions are a main cause of air pollution.
    > **解析**：cause 可数名词，意为“原因；起因”；也可作动词表示“引起”。
 
 8. **中文**：野生动物必须适应不断变化的气温才能生存。  
@@ -88,7 +88,7 @@ adapt, are being, are not being, being, cause, endangered, global warming, green
    > **解析**：green 在此作形容词，意为“环保的；绿色生态的”。
 
 10. **中文**：全球政府必须立即采取环保行动。  
-   **英文**：Immediate environmental actions must be taken by governments worldwide (have to be).
+   **英文**：Immediate environmental actions must be taken by governments worldwide.
    > **解析**：must be + 过去分词，构成被动语态情态表达，意为“必须被……”。
 
 </quiz-sentence-builder>
@@ -101,7 +101,7 @@ adapt, are being, are not being, being, cause, endangered, global warming, green
 2. Efforts are being made to protect endangered species from extinction.
    > **中文**：人们正在努力保护濒危物种免于灭绝。
 
-3. Deforestation destroys the natural habitat of wild birds and animals (are not being).
+3. Deforestation destroys the natural habitat of wild birds and animals.
    > **中文**：砍伐森林破坏了野生鸟类和动物的自然栖息地。
 
 4. Factories must not pollute nearby rivers with harmful chemical waste.
@@ -113,7 +113,7 @@ adapt, are being, are not being, being, cause, endangered, global warming, green
 6. Protecting our shared planet requires international cooperation and dedication.
    > **中文**：保护我们共享的地球需要国际合作与付出。
 
-7. Excessive industrial emissions are a main cause of air pollution (global warming).
+7. Excessive industrial emissions are a main cause of air pollution.
    > **中文**：过度的工业排放是空气污染的主要原因。
 
 8. Wild animals must adapt to changing temperatures to survive.
@@ -122,7 +122,7 @@ adapt, are being, are not being, being, cause, endangered, global warming, green
 9. Switching to green energy sources reduces our carbon footprint significantly.
    > **中文**：转向绿色能源可以显著减少我们的碳足迹。
 
-10. Immediate environmental actions must be taken by governments worldwide (have to be).
+10. Immediate environmental actions must be taken by governments worldwide.
    > **中文**：全球政府必须立即采取环保行动。
 
 </quiz-listening>
@@ -155,11 +155,11 @@ Efforts `____` made to protect endangered species from extinction.
 
 ### 3
 
-Deforestation destroys the natural habitat of wild birds and animals (`____`).
+Deforestation destroys the natural `____` of wild birds and animals.
 
-- [x] are not being
-- [ ] being
-- [ ] green
+- [x] habitat
+- [ ] are not being
+- [ ] global warming
 
 > **解析**：habitat 可数/不可数名词，意为“（动植物的）栖息地；自然环境”。
 
@@ -195,7 +195,7 @@ Protecting our shared `____` requires international cooperation and dedication.
 
 ### 7
 
-Excessive industrial emissions are a main `____` of air pollution (global warming).
+Excessive industrial emissions are a main `____` of air pollution.
 
 - [x] cause
 - [ ] green
@@ -225,10 +225,10 @@ Switching to `____` energy sources reduces our carbon footprint significantly.
 
 ### 10
 
-Immediate environmental actions must be taken by governments worldwide (`____`).
+Immediate environmental actions `____` taken by governments worldwide.
 
-- [x] have to be
-- [ ] is being
+- [x] must be
+- [ ] have to be
 - [ ] plant
 
 > **解析**：must be + 过去分词，构成被动语态情态表达，意为“必须被……”。

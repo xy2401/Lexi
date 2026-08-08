@@ -64,23 +64,23 @@ after next, all of a sudden, amusement park, cotton candy, ferris wheel, giganti
 <quiz-sentence-builder>
 
 1. **中文**：搭乘刺激的高速过山车是我们这次行程的亮点。  
-   **英文**：Riding the thrilling high-speed roller coaster was the highlight of our trip (after next).
+   **英文**：Riding the thrilling high-speed roller coaster was the highlight of our trip.
    > **解析**：`roller coaster` 是名词短语，意为“过山车”。
 
 2. **中文**：新建的游乐园拥有灵感源自热门电影的游乐设施。  
-   **英文**：The new amusement park features rides inspired by popular movies (all of a sudden).
+   **英文**：The new amusement park features rides inspired by popular movies.
    > **解析**：`amusement park` 意为“游乐园、主题公园”。
 
 3. **中文**：为了体验巨型摩天轮，我们不得不排队等候了一个多小时。  
-   **英文**：We had to wait in line for over an hour to try the giant Ferris wheel (amusement park).
+   **英文**：We had to wait in line for over an hour to try the giant Ferris wheel.
    > **解析**：`wait in line` 是固定动词短语，意为“排队等候”。
 
 4. **中文**：从巨型摩天轮的顶部你可以鸟瞰全城的景色。  
-   **英文**：You can see the whole city view from the top of the giant ferris wheel (cotton candy).
+   **英文**：You can see the whole city view from the top of the giant ferris wheel after next.
    > **解析**：`ferris wheel` 是专有名词短语，意为“摩天轮”。
 
 5. **中文**：主题公园在周六下午挤满了游客。  
-   **英文**：The theme park was completely packed with visitors on Saturday afternoon (ferris wheel).
+   **英文**：The theme park was completely packed with visitors on Saturday afternoon.
    > **解析**：`packed` 是形容词，意为“拥挤的、塞满的”，搭配 `be packed with...`。
 
 6. **中文**：购买一张年度季票可以为你节省大量的门票费用。  
@@ -88,7 +88,7 @@ after next, all of a sudden, amusement park, cotton candy, ferris wheel, giganti
    > **解析**：`season pass` 意为“季票、年票”。
 
 7. **中文**：突然之间，由于雷暴天气，户外水上游乐项目停止运行了。  
-   **英文**：All of a sudden, the outdoor water ride stopped due to a thunderstorm (go on).
+   **英文**：All of a sudden, the outdoor water ride stopped due to a thunderstorm.
    > **解析**：`all of a sudden` 是副词短语，意为“突然之间”，相当于 `suddenly`。
 
 8. **中文**：我刚才在想我们可以早点去主题公园，以避开人群。  
@@ -100,32 +100,32 @@ after next, all of a sudden, amusement park, cotton candy, ferris wheel, giganti
    > **解析**：`cotton candy` 是名词短语，意为“棉花糖”。
 
 10. **中文**：安保人员在允许我们进入游乐设施前扫描了我们的手环。  
-   **英文**：Security officers scanned our wristbands before letting us enter the ride (hot dog).
+   **英文**：Security officers scanned our wristbands before letting us enter the ride.
    > **解析**：`wristband` 是名词，意为“手环、腕带”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Riding the thrilling high-speed roller coaster was the highlight of our trip (after next).
+1. Riding the thrilling high-speed roller coaster was the highlight of our trip.
    > **中文**：搭乘刺激的高速过山车是我们这次行程的亮点。
 
-2. The new amusement park features rides inspired by popular movies (all of a sudden).
+2. The new amusement park features rides inspired by popular movies.
    > **中文**：新建的游乐园拥有灵感源自热门电影的游乐设施。
 
-3. We had to wait in line for over an hour to try the giant Ferris wheel (amusement park).
+3. We had to wait in line for over an hour to try the giant Ferris wheel.
    > **中文**：为了体验巨型摩天轮，我们不得不排队等候了一个多小时。
 
-4. You can see the whole city view from the top of the giant ferris wheel (cotton candy).
+4. You can see the whole city view from the top of the giant ferris wheel after next.
    > **中文**：从巨型摩天轮的顶部你可以鸟瞰全城的景色。
 
-5. The theme park was completely packed with visitors on Saturday afternoon (ferris wheel).
+5. The theme park was completely packed with visitors on Saturday afternoon.
    > **中文**：主题公园在周六下午挤满了游客。
 
 6. Buying an annual season pass saves you a lot of ticket money.
    > **中文**：购买一张年度季票可以为你节省大量的门票费用。
 
-7. All of a sudden, the outdoor water ride stopped due to a thunderstorm (go on).
+7. All of a sudden, the outdoor water ride stopped due to a thunderstorm.
    > **中文**：突然之间，由于雷暴天气，户外水上游乐项目停止运行了。
 
 8. I was thinking we could head to the theme park early to avoid crowds.
@@ -134,7 +134,7 @@ after next, all of a sudden, amusement park, cotton candy, ferris wheel, giganti
 9. Kids love eating fluffy pink cotton candy while walking around the park about gigantic.
    > **中文**：孩子们喜欢在园区散步时吃蓬松的粉色棉花糖。
 
-10. Security officers scanned our wristbands before letting us enter the ride (hot dog).
+10. Security officers scanned our wristbands before letting us enter the ride.
    > **中文**：安保人员在允许我们进入游乐设施前扫描了我们的手环。
 
 </quiz-listening>
@@ -147,39 +147,39 @@ after next, all of a sudden, amusement park, cotton candy, ferris wheel, giganti
 
 ### 1
 
-Riding the thrilling high-speed roller coaster was the highlight of our trip (`____`).
+Riding the thrilling high-speed `____` was the highlight of our trip.
 
-- [x] after next
-- [ ] all of a sudden
-- [ ] gigantic
+- [x] roller coaster
+- [ ] after next
+- [ ] ferris wheel
 
 > **解析**：`roller coaster` 是名词短语，意为“过山车”。
 
 ### 2
 
-The new amusement park features rides inspired by popular movies (`____`).
+The new `____` features rides inspired by popular movies.
 
-- [x] all of a sudden
-- [ ] amusement park
+- [x] amusement park
+- [ ] all of a sudden
 - [ ] go on
 
 > **解析**：`amusement park` 意为“游乐园、主题公园”。
 
 ### 3
 
-We had to wait in line for over an hour to try the giant Ferris wheel (`____`).
+We had to wait in line for over an hour to try the giant `____`.
 
-- [x] amusement park
-- [ ] cotton candy
+- [x] ferris wheel
+- [ ] amusement park
 - [ ] hail
 
 > **解析**：`wait in line` 是固定动词短语，意为“排队等候”。
 
 ### 4
 
-You can see the whole city view from the top of the giant ferris wheel (`____`).
+You can see the whole city view from the top of the giant ferris wheel `____`.
 
-- [x] cotton candy
+- [x] after next
 - [ ] ferris wheel
 - [ ] head
 
@@ -187,11 +187,11 @@ You can see the whole city view from the top of the giant ferris wheel (`____`).
 
 ### 5
 
-The theme park was completely packed with visitors on Saturday afternoon (`____`).
+The theme park was completely `____` with visitors on Saturday afternoon.
 
-- [x] ferris wheel
-- [ ] gigantic
-- [ ] hot dog
+- [x] packed
+- [ ] ferris wheel
+- [ ] head
 
 > **解析**：`packed` 是形容词，意为“拥挤的、塞满的”，搭配 `be packed with...`。
 
@@ -207,9 +207,9 @@ Buying an annual `____` saves you a lot of ticket money.
 
 ### 7
 
-All of a sudden, the outdoor water ride stopped due to a thunderstorm (`____`).
+`____`, the outdoor water ride stopped due to a thunderstorm.
 
-- [x] go on
+- [x] all of a sudden
 - [ ] hail
 - [ ] requirement
 
@@ -227,9 +227,9 @@ I was thinking we could `____` to the theme park early to avoid crowds.
 
 ### 9
 
-Kids love eating fluffy pink cotton candy while walking around the park about `____`.
+Kids love eating fluffy pink `____` while walking around the park about gigantic.
 
-- [x] gigantic
+- [x] cotton candy
 - [ ] hot dog
 - [ ] roller coaster
 
@@ -237,10 +237,10 @@ Kids love eating fluffy pink cotton candy while walking around the park about `_
 
 ### 10
 
-Security officers scanned our wristbands before letting us enter the ride (`____`).
+Security officers scanned our wristbands before letting us enter the `____`.
 
-- [x] hot dog
-- [ ] packed
+- [x] ride
+- [ ] hot dog
 - [ ] season pass
 
 > **解析**：`wristband` 是名词，意为“手环、腕带”。

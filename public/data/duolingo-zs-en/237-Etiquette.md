@@ -66,7 +66,7 @@ after being, after having, arrangement, as for, bouquet, depending on, do withou
    > **解析**：`after being + 过去分词` 为“介词 + 动名词被动语态”结构，表示主语在“被……之后”。
 
 2. **中文**：客人带来了一束绚丽的新鲜玫瑰花束作为送给主人的礼物。  
-   **英文**：The guest brought a gorgeous bouquet of fresh roses as a gift for the host (after having).
+   **英文**：The guest brought a gorgeous bouquet of fresh roses as a gift for the host.
    > **解析**：`bouquet` 可数名词，在此读作 /buːˈkeɪ/，意为“花束”。`bouquet of flowers`（花束）。
 
 3. **中文**：请柬上明确说明男士应穿西装打领带等正式服装。  
@@ -74,7 +74,7 @@ after being, after having, arrangement, as for, bouquet, depending on, do withou
    > **解析**：`formal` 形容词，意为“正式的；合乎礼仪的”。修饰名词 `attire / dress`。
 
 4. **中文**：派对为同事们在工作之余互相交流/互动提供了一个绝佳的机会。  
-   **英文**：The party provided a wonderful opportunity for colleagues to interact outside of work (as for).
+   **英文**：The party provided a wonderful opportunity for colleagues to interact outside of work.
    > **解析**：`interact` 不及物动词，意为“交流；互动”。搭配 `interact with sb.`。
 
 5. **中文**：每个晚餐座位上都摆放了一张个性化的席位卡，以引导客人就座。  
@@ -82,11 +82,11 @@ after being, after having, arrangement, as for, bouquet, depending on, do withou
    > **解析**：`place` 在此处用作名词修饰语，短语 `place card`（席位卡/名卡）。
 
 6. **中文**：在摆放餐具前，她在餐桌上铺了一块平整洁白的桌布。  
-   **英文**：She spread a crisp white tablecloth over the dining table before setting the dishes (depending on).
+   **英文**：She spread a crisp white tablecloth over the dining table before setting the dishes.
    > **解析**：`tablecloth` 可数/不可数名词，意为“桌布；台布”。
 
 7. **中文**：是否携带男伴/女伴参加晚间婚礼招待会取决于你。  
-   **英文**：It is up to you whether to bring a guest to the evening wedding reception (do without).
+   **英文**：It is up to you whether to bring a guest to the evening wedding reception.
    > **解析**：`be up to sb.` 为固定短语，意为“取决于某人；由某人决定”。
 
 8. **中文**：在收到正式请柬后，我们立即发出了回复。  
@@ -108,22 +108,22 @@ after being, after having, arrangement, as for, bouquet, depending on, do withou
 1. After being invited to the charity gala, she promptly confirmed her attendance.
    > **中文**：在被邀请参加慈善晚会后，她立即确认了出席。
 
-2. The guest brought a gorgeous bouquet of fresh roses as a gift for the host (after having).
+2. The guest brought a gorgeous bouquet of fresh roses as a gift for the host.
    > **中文**：客人带来了一束绚丽的新鲜玫瑰花束作为送给主人的礼物。
 
 3. The invitation specifies that gentlemen should wear formal attire such as a suit and tie.
    > **中文**：请柬上明确说明男士应穿西装打领带等正式服装。
 
-4. The party provided a wonderful opportunity for colleagues to interact outside of work (as for).
+4. The party provided a wonderful opportunity for colleagues to interact outside of work.
    > **中文**：派对为同事们在工作之余互相交流/互动提供了一个绝佳的机会。
 
 5. A personalized place card was set at each dinner seat to guide guests.
    > **中文**：每个晚餐座位上都摆放了一张个性化的席位卡，以引导客人就座。
 
-6. She spread a crisp white tablecloth over the dining table before setting the dishes (depending on).
+6. She spread a crisp white tablecloth over the dining table before setting the dishes.
    > **中文**：在摆放餐具前，她在餐桌上铺了一块平整洁白的桌布。
 
-7. It is up to you whether to bring a guest to the evening wedding reception (do without).
+7. It is up to you whether to bring a guest to the evening wedding reception.
    > **中文**：是否携带男伴/女伴参加晚间婚礼招待会取决于你。
 
 8. After having received the formal invitation, we immediately sent our RSVP.
@@ -155,10 +155,10 @@ after being, after having, arrangement, as for, bouquet, depending on, do withou
 
 ### 2
 
-The guest brought a gorgeous bouquet of fresh roses as a gift for the host (`____`).
+The guest brought a gorgeous `____` of fresh roses as a gift for the host.
 
-- [x] after having
-- [ ] arrangement
+- [x] bouquet
+- [ ] after having
 - [ ] do without
 
 > **解析**：`bouquet` 可数名词，在此读作 /buːˈkeɪ/，意为“花束”。`bouquet of flowers`（花束）。
@@ -175,11 +175,11 @@ The invitation specifies that gentlemen should wear `____` attire such as a suit
 
 ### 4
 
-The party provided a wonderful opportunity for colleagues to interact outside of work (`____`).
+The party provided a wonderful opportunity for colleagues to `____` outside of work.
 
-- [x] as for
-- [ ] bouquet
-- [ ] host
+- [x] interact
+- [ ] as for
+- [ ] formal
 
 > **解析**：`interact` 不及物动词，意为“交流；互动”。搭配 `interact with sb.`。
 
@@ -195,31 +195,31 @@ A personalized `____` card was set at each dinner seat to guide guests.
 
 ### 6
 
-She spread a crisp white tablecloth over the dining table before setting the dishes (`____`).
+She spread a crisp white `____` over the dining table before setting the dishes.
 
-- [x] depending on
-- [ ] do without
-- [ ] inquire
+- [x] tablecloth
+- [ ] depending on
+- [ ] in honor of
 
 > **解析**：`tablecloth` 可数/不可数名词，意为“桌布；台布”。
 
 ### 7
 
-It is up to you whether to bring a guest to the evening wedding reception (`____`).
+It is up to you whether to bring a guest to the evening wedding `____`.
 
-- [x] do without
-- [ ] formal
-- [ ] interact
+- [x] reception
+- [ ] do without
+- [ ] inquire
 
 > **解析**：`be up to sb.` 为固定短语，意为“取决于某人；由某人决定”。
 
 ### 8
 
-After having received the formal invitation, we immediately sent our `____`.
+`____` received the formal invitation, we immediately sent our RSVP.
 
-- [x] rsvp
-- [ ] formal
-- [ ] interact
+- [x] after having
+- [ ] host
+- [ ] last-minute
 
 > **解析**：`after having + 过去分词` 为“介词 + 动名词完成时”结构，强调动作发生在主句之前。
 

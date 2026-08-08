@@ -68,7 +68,7 @@ afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if o
    > **解析**：`be afraid that...` 为固定句型，用于礼貌地表达担心、遗憾或不便。
 
 2. **中文**：如果你努力工作，你出国留学的梦想一定会实现。  
-   **英文**：If you work hard, your dream of studying abroad will surely come true (as many).
+   **英文**：If you work hard, your dream of studying abroad will surely come true.
    > **解析**：`come true` 为固定动词短语，意为“（梦想、预言等）实现；成为现实”。主语通常为 `dream`, `wish`, `hope` 等。
 
 3. **中文**：睡前阅读半小时是一个值得培养的好习惯。  
@@ -76,7 +76,7 @@ afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if o
    > **解析**：`habit` 可数名词，意为“习惯”。搭配 `cultivate a habit / form a habit`（养成习惯）。
 
 4. **中文**：要是当时给我那个机会时我抓住了该有多好啊！  
-   **英文**：If only I had taken that opportunity when it was offered to me (come true).
+   **英文**：If only I had taken that opportunity when it was offered to me.
    > **解析**：`if only` 为固定连词短语，引导虚拟语气感叹句，表达对过去事的强烈的遗憾与愿望（意为“要是……就好了”）。
 
 5. **中文**：唉，算了，我们今天输掉了比赛，但下周我们可以再试一次。  
@@ -100,7 +100,7 @@ afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if o
    > **解析**：`encourage` 及物动词，搭配 `encourage sb. to do sth.`（鼓励某人做某事）。
 
 10. **中文**：尽管有暂时的挫折，我们对项目的最终结果仍抱有希望。  
-   **英文**：Despite the temporary setback, we remain hopeful about our project's outcome (if only).
+   **英文**：Despite the temporary setback, we remain hopeful about our project's outcome.
    > **解析**：`hopeful` 形容词，意为“充满希望的；乐观的”。常与系动词 `remain / feel / be` 连用，搭配 `be hopeful about sth.`。
 
 </quiz-sentence-builder>
@@ -110,13 +110,13 @@ afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if o
 1. I am afraid that we will not have enough time to visit the museum today.
    > **中文**：我恐怕我们今天没有足够的时间去参观博物馆了。
 
-2. If you work hard, your dream of studying abroad will surely come true (as many).
+2. If you work hard, your dream of studying abroad will surely come true.
    > **中文**：如果你努力工作，你出国留学的梦想一定会实现。
 
 3. Reading for thirty minutes before bedtime is a great habit to cultivate.
    > **中文**：睡前阅读半小时是一个值得培养的好习惯。
 
-4. If only I had taken that opportunity when it was offered to me (come true).
+4. If only I had taken that opportunity when it was offered to me.
    > **中文**：要是当时给我那个机会时我抓住了该有多好啊！
 
 5. Oh well, we lost the match today, but we can try again next week.
@@ -134,7 +134,7 @@ afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if o
 9. Teachers should always encourage students to express their ideas freely in class.
    > **中文**：老师应该始终鼓励学生在课堂上自由表达想法。
 
-10. Despite the temporary setback, we remain hopeful about our project's outcome (if only).
+10. Despite the temporary setback, we remain hopeful about our project's outcome.
    > **中文**：尽管有暂时的挫折，我们对项目的最终结果仍抱有希望。
 
 </quiz-listening>
@@ -157,10 +157,10 @@ I am `____` that we will not have enough time to visit the museum today.
 
 ### 2
 
-If you work hard, your dream of studying abroad will surely come true (`____`).
+If you work hard, your dream of studying abroad will surely `____`.
 
-- [x] as many
-- [ ] chance
+- [x] come true
+- [ ] as many
 - [ ] habit
 
 > **解析**：`come true` 为固定动词短语，意为“（梦想、预言等）实现；成为现实”。主语通常为 `dream`, `wish`, `hope` 等。
@@ -177,11 +177,11 @@ Reading for thirty minutes before bedtime is a great `____` to cultivate.
 
 ### 4
 
-If only I had taken that opportunity when it was offered to me (`____`).
+`____` I had taken that opportunity when it was offered to me.
 
-- [x] come true
-- [ ] count
-- [ ] hopeful
+- [x] if only
+- [ ] come true
+- [ ] hope
 
 > **解析**：`if only` 为固定连词短语，引导虚拟语气感叹句，表达对过去事的强烈的遗憾与愿望（意为“要是……就好了”）。
 
@@ -237,7 +237,7 @@ Teachers should always `____` students to express their ideas freely in class.
 
 ### 10
 
-Despite the temporary setback, we remain `____`ful about our project's outcome (if only).
+Despite the temporary setback, we remain `____`ful about our project's outcome.
 
 - [x] hope
 - [ ] lottery

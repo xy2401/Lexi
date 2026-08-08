@@ -66,7 +66,7 @@ root for / cheer for = 支持/加油。than 用于比较。
    > **解析**：ask 在此处作动词，意为“询问”。结构为 ask sb. + 疑问词从句（which team...），用于询问他人意向或喜好。
 
 2. **中文**：我们当地的篮球队在决赛阶段成功战胜了冠军队。  
-   **英文**：Our local basketball team managed to beat the champion team in the final round (at least).
+   **英文**：Our local basketball team managed to beat the champion team in the final round.
    > **解析**：beat 是及物动词，意为“战胜、击败”，后接对手（the champion team），注意与 win（赢得比赛）区别。
 
 3. **中文**：超过二十支国际队伍将在本周末角逐该奖杯。  
@@ -82,7 +82,7 @@ root for / cheer for = 支持/加油。than 用于比较。
    > **解析**：root for 是动词短语，口语中意为“为……加油、支持”，后接支持的队伍或选手（root for a team）。
 
 6. **中文**：你能告诉我锦标赛中的最佳射手是谁吗？  
-   **英文**：Can you tell me who the top scorer in the tournament is? (cheer for).
+   **英文**：Can you tell me who the top scorer in the tournament is?
    > **解析**：tell 为及物动词，意为“告诉”。常见搭配 tell sb. sth. / tell sb. + 特殊疑问句从句。
 
 7. **中文**：一年一度的足球锦标赛每年夏天吸引数千名体育迷。  
@@ -108,7 +108,7 @@ root for / cheer for = 支持/加油。than 用于比较。
 1. Did you ask him which football team he is supporting in the championship?
    > **中文**：你有问过他在锦标赛中支持哪支足球队吗？
 
-2. Our local basketball team managed to beat the champion team in the final round (at least).
+2. Our local basketball team managed to beat the champion team in the final round.
    > **中文**：我们当地的篮球队在决赛阶段成功战胜了冠军队。
 
 3. Over twenty international teams will compete for the trophy this weekend.
@@ -120,7 +120,7 @@ root for / cheer for = 支持/加油。than 用于比较。
 5. Which country's team are you going to root for during the Olympic Games.
    > **中文**：在奥运会期间你打算支持哪个国家的队伍？
 
-6. Can you tell me who the top scorer in the tournament is? (cheer for).
+6. Can you tell me who the top scorer in the tournament is?
    > **中文**：你能告诉我锦标赛中的最佳射手是谁吗？
 
 7. The annual soccer tournament attracts thousands of sports fans every summer.
@@ -155,10 +155,10 @@ Did you `____` him which football team he is supporting in the championship?
 
 ### 2
 
-Our local basketball team managed to beat the champion team in the final round (`____`).
+Our local basketball team managed to `____` the champion team in the final round.
 
-- [x] at least
-- [ ] athlete
+- [x] beat
+- [ ] at least
 - [ ] coach
 
 > **解析**：beat 是及物动词，意为“战胜、击败”，后接对手（the champion team），注意与 win（赢得比赛）区别。
@@ -195,11 +195,11 @@ Which country's team are you `____`ing to root for during the Olympic Games.
 
 ### 6
 
-Can you tell me who the top scorer in the tournament is? (`____`).
+Can you tell me who the top `____`r in the tournament is?
 
-- [x] cheer for
-- [ ] coach
-- [ ] live
+- [x] score
+- [ ] cheer for
+- [ ] goal
 
 > **解析**：tell 为及物动词，意为“告诉”。常见搭配 tell sb. sth. / tell sb. + 特殊疑问句从句。
 
@@ -215,9 +215,9 @@ The annual soccer `____` attracts thousands of sports fans every summer.
 
 ### 8
 
-Our team needs at least two more wins to qualify for the playoffs about `____`.
+Our team needs `____` two more wins to qualify for the playoffs about athlete.
 
-- [x] athlete
+- [x] at least
 - [ ] go
 - [ ] point
 
@@ -225,9 +225,9 @@ Our team needs at least two more wins to qualify for the playoffs about `____`.
 
 ### 9
 
-Thousands of fans gathered in the stadium to cheer for their home team about `____`.
+Thousands of fans gathered in the stadium to `____` their home team about beat.
 
-- [x] beat
+- [x] cheer for
 - [ ] goal
 - [ ] root for
 

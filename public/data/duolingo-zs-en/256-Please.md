@@ -100,7 +100,7 @@ too much to ask（要求太过分）、inconvenient（不方便）、trouble（�
    > **解析**：`no pressure` 是口语贴心表达，意为“没有压力、不必勉强”。
 
 6. **中文**：如果明天早上开会不方便的话，请告诉我。  
-   **英文**：Let me know if tomorrow morning is inconvenient for our meeting (help out).
+   **英文**：Let me know if tomorrow morning is inconvenient for our meeting.
    > **解析**：`inconvenient` 是形容词，意为“不方便的、麻烦的”，作表语。
 
 7. **中文**：我明天请你吃午饭，以弥补我今天迟到的过失。  
@@ -116,7 +116,7 @@ too much to ask（要求太过分）、inconvenient（不方便）、trouble（�
    > **解析**：`out of town` 是介词短语，意为“在出差/不在城里”。
 
 10. **中文**：有没有可能把我们的预约改期到周三下午？  
-   **英文**：Is it possible to rearrange our appointment to Wednesday afternoon? (might you).
+   **英文**：Is it possible to rearrange our appointment to Wednesday afternoon?
    > **解析**：`rearrange` 作动词，意为“重新安排、改期”，宾语为 `appointment`。
 
 </quiz-sentence-builder>
@@ -138,7 +138,7 @@ too much to ask（要求太过分）、inconvenient（不方便）、trouble（�
 5. We would love to have you at the dinner party, but no pressure if you're busy.
    > **中文**：我们非常希望你能来参加晚宴，但如果你忙的话也没关系，不要有压力。
 
-6. Let me know if tomorrow morning is inconvenient for our meeting (help out).
+6. Let me know if tomorrow morning is inconvenient for our meeting.
    > **中文**：如果明天早上开会不方便的话，请告诉我。
 
 7. I will buy you lunch tomorrow to make up for my late arrival today.
@@ -150,7 +150,7 @@ too much to ask（要求太过分）、inconvenient（不方便）、trouble（�
 9. Mr. Davis will be out of town on business until next Thursday (make up for) about alternatively.
    > **中文**：戴维斯先生因公出差在外地，直到下周四才回来。
 
-10. Is it possible to rearrange our appointment to Wednesday afternoon? (might you).
+10. Is it possible to rearrange our appointment to Wednesday afternoon?
    > **中文**：有没有可能把我们的预约改期到周三下午？
 
 </quiz-listening>
@@ -213,7 +213,7 @@ We would love to have you at the dinner party, but `____` if you're busy.
 
 ### 6
 
-Let me know if tomorrow morning is `____` for our meeting (help out).
+Let me know if tomorrow morning is `____` for our meeting.
 
 - [x] inconvenient
 - [ ] help out
@@ -253,11 +253,11 @@ Mr. Davis will be out of town on business until next Thursday (make up for) abou
 
 ### 10
 
-Is it possible to rearrange our appointment to Wednesday afternoon? (`____`).
+Is it possible to `____` our appointment to Wednesday afternoon?
 
-- [x] might you
-- [ ] no pressure
-- [ ] really
+- [x] rearrange
+- [ ] might you
+- [ ] persuade
 
 > **解析**：`rearrange` 作动词，意为“重新安排、改期”，宾语为 `appointment`。
 

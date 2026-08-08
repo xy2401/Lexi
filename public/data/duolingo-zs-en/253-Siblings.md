@@ -80,7 +80,7 @@ tell on（告状）、see through（看穿）、it wasn't me（不是我）是�
 <quiz-sentence-builder>
 
 1. **中文**：如果你把鞋留在地板上，肯定会有人被绊倒的。  
-   **英文**：If you leave your shoes on the floor, someone is bound to trip over them (a thing).
+   **英文**：If you leave your shoes on the floor, someone is bound to trip over them.
    > **解析**：`be bound to do sth` 是固定短语，意为“必然做某事、注定会发生”。
 
 2. **中文**：不要把这样的小错夸大成什么大事。  
@@ -88,11 +88,11 @@ tell on（告状）、see through（看穿）、it wasn't me（不是我）是�
    > **解析**：`make a big deal out of sth` 是常用短语，意为“把某事当作大事/夸大其词”。
 
 3. **中文**：我弟弟威胁说，如果我不分给他零食，他就去向父母告状。  
-   **英文**：My younger brother threatened to tell on me if I didn't share my snack (bound to).
+   **英文**：My younger brother threatened to tell on me if I didn't share my snack.
    > **解析**：`tell on sb` 是儿童/口语常用短语，意为“告状、打小报告”。
 
 4. **中文**：我绝不会容忍你在客人面前的无礼行为。  
-   **英文**：I will not tolerate your rude behavior in front of our guests (bump into).
+   **英文**：I will not tolerate your rude behavior in front of our guests.
    > **解析**：`tolerate` 作及物动词，意为“容忍、忍受”，后接宾语 `your rude behavior`。
 
 5. **中文**：我最喜欢的毛衣一夜之间从衣柜里彻底失踪了。  
@@ -108,7 +108,7 @@ tell on（告状）、see through（看穿）、it wasn't me（不是我）是�
    > **解析**：`feel bad about sth/doing sth` 意为“对某事感到内疚/难过”。
 
 8. **中文**：她能轻易看穿她弟弟那拙劣的借口。  
-   **英文**：She could easily see through her brother's weak excuse (go ahead).
+   **英文**：She could easily see through her brother's weak excuse.
    > **解析**：`see through sth/sb` 是短语动词，意为“看穿、识破（谎言/借口）”。
 
 9. **中文**：露营回来后，我们有一大堆衣服要洗。  
@@ -123,16 +123,16 @@ tell on（告状）、see through（看穿）、it wasn't me（不是我）是�
 
 <quiz-listening>
 
-1. If you leave your shoes on the floor, someone is bound to trip over them (a thing).
+1. If you leave your shoes on the floor, someone is bound to trip over them.
    > **中文**：如果你把鞋留在地板上，肯定会有人被绊倒的。
 
 2. Don't make a big deal out of such a minor mistake.
    > **中文**：不要把这样的小错夸大成什么大事。
 
-3. My younger brother threatened to tell on me if I didn't share my snack (bound to).
+3. My younger brother threatened to tell on me if I didn't share my snack.
    > **中文**：我弟弟威胁说，如果我不分给他零食，他就去向父母告状。
 
-4. I will not tolerate your rude behavior in front of our guests (bump into).
+4. I will not tolerate your rude behavior in front of our guests.
    > **中文**：我绝不会容忍你在客人面前的无礼行为。
 
 5. My favorite sweater completely vanished from the closet overnight.
@@ -144,7 +144,7 @@ tell on（告状）、see through（看穿）、it wasn't me（不是我）是�
 7. You shouldn't feel bad about forgetting his birthday since he forgot yours.
    > **中文**：既然他忘了你的生日，你不必为忘记他的生日而自责。
 
-8. She could easily see through her brother's weak excuse (go ahead).
+8. She could easily see through her brother's weak excuse.
    > **中文**：她能轻易看穿她弟弟那拙劣的借口。
 
 9. We have tons of laundry to do after coming back from the camping trip.
@@ -163,10 +163,10 @@ tell on（告状）、see through（看穿）、it wasn't me（不是我）是�
 
 ### 1
 
-If you leave your shoes on the floor, someone is bound to trip over them (`____`).
+If you leave your shoes on the floor, someone is `____` trip over them.
 
-- [x] a thing
-- [ ] big deal
+- [x] bound to
+- [ ] a thing
 - [ ] chew
 
 > **解析**：`be bound to do sth` 是固定短语，意为“必然做某事、注定会发生”。
@@ -183,21 +183,21 @@ Don't make a `____` out of such a minor mistake.
 
 ### 3
 
-My younger brother threatened to tell on me if I didn't share my snack (`____`).
+My younger brother threatened to `____` me if I didn't share my snack.
 
-- [x] bound to
-- [ ] bump into
-- [ ] go ahead
+- [x] tell on
+- [ ] bound to
+- [ ] feel bad about
 
 > **解析**：`tell on sb` 是儿童/口语常用短语，意为“告状、打小报告”。
 
 ### 4
 
-I will not tolerate your rude behavior in front of our guests (`____`).
+I will not `____` your rude behavior in front of our guests.
 
-- [x] bump into
-- [ ] call
-- [ ] gum
+- [x] tolerate
+- [ ] bump into
+- [ ] go ahead
 
 > **解析**：`tolerate` 作及物动词，意为“容忍、忍受”，后接宾语 `your rude behavior`。
 
@@ -233,11 +233,11 @@ You shouldn't `____` forgetting his birthday since he forgot yours.
 
 ### 8
 
-She could easily see through her brother's weak excuse (`____`).
+She could easily `____` through her brother's weak excuse.
 
-- [x] go ahead
-- [ ] gum
-- [ ] keychain
+- [x] see
+- [ ] go ahead
+- [ ] it wasn't me
 
 > **解析**：`see through sth/sb` 是短语动词，意为“看穿、识破（谎言/借口）”。
 

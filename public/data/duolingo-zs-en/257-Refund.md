@@ -90,7 +90,7 @@ must I / must we 表达不情愿或质疑："我非得……吗？"speak politel
    > **解析**：`proof of purchase` 是商业术语，意为“购买凭证”。
 
 4. **中文**：根据公司政策，商品可以在30天内退换。  
-   **英文**：According to company policy, items can be returned within 30 days (full refund).
+   **英文**：According to company policy, items can be returned within 30 days.
    > **解析**：`policy` 是名词，意为“政策、规定”，搭配 `according to company policy`。
 
 5. **中文**：这款电子产品附带两年的性能质量保证。  
@@ -98,23 +98,23 @@ must I / must we 表达不情愿或质疑："我非得……吗？"speak politel
    > **解析**：`guarantee` 作名词，意为“保证、保修单”。
 
 6. **中文**：工作人员将在三个工作日内处理您的退款申请。  
-   **英文**：The staff will process your refund request within three working days (in need of).
+   **英文**：The staff will process your refund request within three working days.
    > **解析**：`process` 作及物动词，意为“处理、办理”，宾语为 `your refund request`。
 
 7. **中文**：没有电源线，这款数字平板电脑完全毫无用处。  
-   **英文**：Without the power cable, this digital tablet is completely useless (must i).
+   **英文**：Without the power cable, this digital tablet is completely useless.
    > **解析**：`useless` 是形容词，意为“无用的、毫无价值的”，作表语。
 
 8. **中文**：这款手表在广告中声称防水，但水分立刻渗进了内部。  
-   **英文**：The watch was advertised as waterproof, but water got inside immediately (must we).
+   **英文**：The watch was advertised as waterproof, but water got inside immediately.
    > **解析**：`waterproof` 是形容词，意为“防水的”。
 
 9. **中文**：经理检查了笔记本电脑，说它没有任何问题。  
-   **英文**：The manager checked the laptop and said there was nothing wrong with it (no good).
+   **英文**：The manager checked the laptop and said there was nothing wrong with it.
    > **解析**：`there is nothing wrong with sth` 意为“某物没有任何毛病/问题”。
 
 10. **中文**：如果您不满意的话，我可以为您叫来本店主管。  
-   **英文**：If you are not satisfied, I can call the store supervisor for you (nothing wrong with).
+   **英文**：If you are not satisfied, I can call the store supervisor for you.
    > **解析**：`supervisor` 是名词，意为“主管、督导”。
 
 </quiz-sentence-builder>
@@ -130,25 +130,25 @@ must I / must we 表达不情愿或质疑："我非得……吗？"speak politel
 3. You need to present your receipt as proof of purchase for a return.
    > **中文**：您需要出示收据作为购买凭证才能退货。
 
-4. According to company policy, items can be returned within 30 days (full refund).
+4. According to company policy, items can be returned within 30 days.
    > **中文**：根据公司政策，商品可以在30天内退换。
 
 5. The electronic product comes with a two-year performance guarantee.
    > **中文**：这款电子产品附带两年的性能质量保证。
 
-6. The staff will process your refund request within three working days (in need of).
+6. The staff will process your refund request within three working days.
    > **中文**：工作人员将在三个工作日内处理您的退款申请。
 
-7. Without the power cable, this digital tablet is completely useless (must i).
+7. Without the power cable, this digital tablet is completely useless.
    > **中文**：没有电源线，这款数字平板电脑完全毫无用处。
 
-8. The watch was advertised as waterproof, but water got inside immediately (must we).
+8. The watch was advertised as waterproof, but water got inside immediately.
    > **中文**：这款手表在广告中声称防水，但水分立刻渗进了内部。
 
-9. The manager checked the laptop and said there was nothing wrong with it (no good).
+9. The manager checked the laptop and said there was nothing wrong with it.
    > **中文**：经理检查了笔记本电脑，说它没有任何问题。
 
-10. If you are not satisfied, I can call the store supervisor for you (nothing wrong with).
+10. If you are not satisfied, I can call the store supervisor for you.
    > **中文**：如果您不满意的话，我可以为您叫来本店主管。
 
 </quiz-listening>
@@ -191,7 +191,7 @@ You need to present your receipt as `____` for a return.
 
 ### 4
 
-According to company `____`, items can be returned within 30 days (full refund).
+According to company `____`, items can be returned within 30 days.
 
 - [x] policy
 - [ ] full refund
@@ -211,51 +211,51 @@ The electronic product comes with a two-year performance `____`.
 
 ### 6
 
-The staff will process your refund request within three working days (`____`).
+The staff will `____` your refund request within three working days.
 
-- [x] in need of
-- [ ] must i
-- [ ] policy
+- [x] process
+- [ ] in need of
+- [ ] nothing wrong with
 
 > **解析**：`process` 作及物动词，意为“处理、办理”，宾语为 `your refund request`。
 
 ### 7
 
-Without the power cable, this digital tablet is completely useless (`____`).
+Without the power cable, this digital tablet is completely `____`.
 
-- [x] must i
-- [ ] must we
-- [ ] process
+- [x] useless
+- [ ] must i
+- [ ] policy
 
 > **解析**：`useless` 是形容词，意为“无用的、毫无价值的”，作表语。
 
 ### 8
 
-The watch was advertised as waterproof, but water got inside immediately (`____`).
+The watch was advertised as `____`, but water got inside immediately.
 
-- [x] must we
-- [ ] no good
-- [ ] proof of purchase
+- [x] waterproof
+- [ ] must we
+- [ ] process
 
 > **解析**：`waterproof` 是形容词，意为“防水的”。
 
 ### 9
 
-The manager checked the laptop and said there was nothing wrong with it (`____`).
+The manager checked the laptop and said there was `____` it.
 
-- [x] no good
-- [ ] nothing wrong with
+- [x] nothing wrong with
+- [ ] no good
 - [ ] refund
 
 > **解析**：`there is nothing wrong with sth` 意为“某物没有任何毛病/问题”。
 
 ### 10
 
-If you are not satisfied, I can call the store supervisor for you (`____`).
+If you are not satisfied, I can call the store `____` for you.
 
-- [x] nothing wrong with
-- [ ] policy
-- [ ] satisfaction
+- [x] supervisor
+- [ ] nothing wrong with
+- [ ] refund
 
 > **解析**：`supervisor` 是名词，意为“主管、督导”。
 

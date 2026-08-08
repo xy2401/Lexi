@@ -52,7 +52,7 @@ half- 是前缀，构成 half-cooked（半熟的）之类的表达。dozen = 一
 <quiz-sentence-builder>
 
 1. **中文**：首先，在放入面条之前把一大锅水煮沸。  
-   **英文**：First, bring a large pot of water to a boil before adding the noodles (a bit of).
+   **英文**：First, bring a large pot of water to a boil before adding the noodles.
    > **解析**：boil 动词/名词，在此作动词表示“煮沸；烧开”，接名词短语 water。
 
 2. **中文**：在平底锅里加热橄榄油，将切块的蔬菜煎炒至金黄色。  
@@ -95,7 +95,7 @@ half- 是前缀，构成 half-cooked（半熟的）之类的表达。dozen = 一
 
 <quiz-listening>
 
-1. First, bring a large pot of water to a boil before adding the noodles (a bit of).
+1. First, bring a large pot of water to a boil before adding the noodles.
    > **中文**：首先，在放入面条之前把一大锅水煮沸。
 
 2. Heat olive oil in the pan and fry the diced vegetables until golden brown.
@@ -135,10 +135,10 @@ half- 是前缀，构成 half-cooked（半熟的）之类的表达。dozen = 一
 
 ### 1
 
-First, bring a large pot of water to a boil before adding the noodles (`____`).
+First, bring a large pot of water to a `____` before adding the noodles.
 
-- [x] a bit of
-- [ ] basket
+- [x] boil
+- [ ] a bit of
 - [ ] dozen
 
 > **解析**：boil 动词/名词，在此作动词表示“煮沸；烧开”，接名词短语 water。

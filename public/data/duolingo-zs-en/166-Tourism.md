@@ -74,7 +74,7 @@ will / won't 表将来/意愿。wherever = no matter where。
    > **解析**：ferry 为可数名词，意为“渡船、摆渡车”。ferry ride 指乘渡船出行。
 
 4. **中文**：在他的大学时代，他更喜欢搭顺风车游览欧洲。  
-   **英文**：Back in his college days, he preferred to hitchhike across Europe (currency exchange).
+   **英文**：Back in his college days, he preferred to hitchhike across Europe.
    > **解析**：hitchhike 为不及物动词，意为“搭顺风车旅行”。
 
 5. **中文**：他们在海滩边的一家五星级奢华酒店度过了蜜月。  
@@ -98,7 +98,7 @@ will / won't 表将来/意愿。wherever = no matter where。
    > **解析**：direct 在此处作形容词，意为“直达的、不中转的”。direct flight 即直飞航班。
 
 10. **中文**：从车站到历史悠久的市中心需要花费我们多长时间？  
-   **英文**：How long will it take us to get to the historic city center from the station? (go backpacking).
+   **英文**：How long will it take us to get to the historic city center from the station?
    > **解析**：get 短语 get to 意为“到达某地”，常用于询问交通抵达时间（get to a place）。
 
 </quiz-sentence-builder>
@@ -114,7 +114,7 @@ will / won't 表将来/意愿。wherever = no matter where。
 3. We took a scenic ferry ride across the harbor to reach the island.
    > **中文**：我们乘坐了风景优美的摆渡船穿过港口前往小岛。
 
-4. Back in his college days, he preferred to hitchhike across Europe (currency exchange).
+4. Back in his college days, he preferred to hitchhike across Europe.
    > **中文**：在他的大学时代，他更喜欢搭顺风车游览欧洲。
 
 5. They spent their honeymoon staying at a five-star luxury hotel by the beach.
@@ -132,7 +132,7 @@ will / won't 表将来/意愿。wherever = no matter where。
 9. Is there a direct flight from London to Tokyo without any layovers.
    > **中文**：有从伦敦直飞东京且没有任何中途停留的直达航班吗？
 
-10. How long will it take us to get to the historic city center from the station? (go backpacking).
+10. How long will it take us to get to the historic city center from the station?
    > **中文**：从车站到历史悠久的市中心需要花费我们多长时间？
 
 </quiz-listening>
@@ -175,7 +175,7 @@ We took a scenic `____` ride across the harbor to reach the island.
 
 ### 4
 
-Back in his college days, he preferred to `____` across Europe (currency exchange).
+Back in his college days, he preferred to `____` across Europe.
 
 - [x] hitchhike
 - [ ] currency exchange
@@ -235,7 +235,7 @@ Is there a `____` flight from London to Tokyo without any layovers.
 
 ### 10
 
-How long will it take us to `____` to the historic city center from the station? (go backpacking).
+How long will it take us to `____` to the historic city center from the station?
 
 - [x] get
 - [ ] hitchhike

@@ -66,7 +66,7 @@ hardly 和 interrupt 给场景加了一点礼貌维度：Sorry to interrupt, but
    > **解析**：hardly 为半否定副词，意为“几乎不、几乎没有”，修饰动词 recognized。
 
 4. **中文**：认识一下我的朋友莎拉吧，她在一家全国性报社担任资深记者。  
-   **英文**：Meet my friend Sarah, who works as a senior journalist for a national newspaper (can't wait for).
+   **英文**：Meet my friend Sarah, who works as a senior journalist for a national newspaper.
    > **解析**：journalist 为可数名词，意为“新闻记者”。work as a journalist 意为“从事记者工作”。
 
 5. **中文**：让我把你介绍给我们设计部的几位同事认识一下。  
@@ -78,7 +78,7 @@ hardly 和 interrupt 给场景加了一点礼貌维度：Sorry to interrupt, but
    > **解析**：speaking of 为常用闲聊介词短语，意为“说到……、谈及……”，用于转换或接续话题。
 
 7. **中文**：参加这次社交活动绝对是值得的，因为我结识了许多行业专家。  
-   **英文**：Attending the networking event was definitely worth it because I met many industry experts (hang on).
+   **英文**：Attending the networking event was definitely worth it because I met many industry experts.
    > **解析**：worth it 为固定口语形容词短语，意为“值得的、有价值的”，作表语（was worth it）。
 
 8. **中文**：我迫不及待地期待年度公司年会，以便与老朋友们聚聚了。  
@@ -106,7 +106,7 @@ hardly 和 interrupt 给场景加了一点礼貌维度：Sorry to interrupt, but
 3. I hardly recognized him because he changed his hairstyle completely.
    > **中文**：我几乎没认出他来，因为他彻底改换了发型。
 
-4. Meet my friend Sarah, who works as a senior journalist for a national newspaper (can't wait for).
+4. Meet my friend Sarah, who works as a senior journalist for a national newspaper.
    > **中文**：认识一下我的朋友莎拉吧，她在一家全国性报社担任资深记者。
 
 5. Let me introduce you to some colleagues from our design department.
@@ -115,7 +115,7 @@ hardly 和 interrupt 给场景加了一点礼貌维度：Sorry to interrupt, but
 6. Speaking of weekend plans, have you heard about the upcoming art exhibition.
    > **中文**：说到周末计划，你听说过即将举行的艺术展吗？
 
-7. Attending the networking event was definitely worth it because I met many industry experts (hang on).
+7. Attending the networking event was definitely worth it because I met many industry experts.
    > **中文**：参加这次社交活动绝对是值得的，因为我结识了许多行业专家。
 
 8. I can't wait for the annual company conference to catch up with old friends about architect.
@@ -167,11 +167,11 @@ I `____` recognized him because he changed his hairstyle completely.
 
 ### 4
 
-Meet my friend Sarah, who works as a senior journalist for a national newspaper (`____`).
+Meet my friend Sarah, who works as a senior `____` for a national newspaper.
 
-- [x] can't wait for
-- [ ] culture
-- [ ] interrupt
+- [x] journalist
+- [ ] can't wait for
+- [ ] hardly
 
 > **解析**：journalist 为可数名词，意为“新闻记者”。work as a journalist 意为“从事记者工作”。
 
@@ -197,7 +197,7 @@ Let me `____` you to some colleagues from our design department.
 
 ### 7
 
-Attending the networking event was definitely worth it because I met m`____` industry experts (hang on).
+Attending the networking event was definitely worth it because I met m`____` industry experts.
 
 - [x] any
 - [ ] hardly

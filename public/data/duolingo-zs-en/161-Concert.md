@@ -66,7 +66,7 @@ sing → sang → sung。do/does/did 构成疑问和否定。
    > **解析**：admission 为名词，意为“入场、门票”。general admission 指不设固定座位的普通入场票。
 
 2. **中文**：我爷爷一直都是经典乡村音乐的大粉丝。  
-   **英文**：My grandfather has always been a big fan of classic country music (back row).
+   **英文**：My grandfather has always been a big fan of classic country music.
    > **解析**：country 在此处作定语，修饰 music（country music 乡村音乐），指一种传统音乐风格。
 
 3. **中文**：她喜欢流行歌曲，她的妹妹也一样喜欢。  
@@ -108,7 +108,7 @@ sing → sang → sung。do/does/did 构成疑问和否定。
 1. General admission tickets for the live rock concert sold out within minutes.
    > **中文**：现场摇滚音乐会的普通入场券在数分钟内售罄。
 
-2. My grandfather has always been a big fan of classic country music (back row).
+2. My grandfather has always been a big fan of classic country music.
    > **中文**：我爷爷一直都是经典乡村音乐的大粉丝。
 
 3. She loves pop songs, and so does her younger sister.
@@ -155,10 +155,10 @@ General `____` tickets for the live rock concert sold out within minutes.
 
 ### 2
 
-My grandfather has always been a big fan of classic country music (`____`).
+My grandfather has always been a big fan of classic `____` music.
 
-- [x] back row
-- [ ] balcony
+- [x] country
+- [ ] back row
 - [ ] didn't
 
 > **解析**：country 在此处作定语，修饰 music（country music 乡村音乐），指一种传统音乐风格。
@@ -215,9 +215,9 @@ That romantic ballad was `____` sung by the lead singer.
 
 ### 8
 
-Even from our seats in the back row, the acoustics of the concert hall were great about `____`.
+Even from our seats in the `____`, the acoustics of the concert hall were great about balcony.
 
-- [x] balcony
+- [x] back row
 - [ ] does
 - [ ] guitarist
 

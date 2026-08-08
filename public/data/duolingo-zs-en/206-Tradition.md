@@ -78,15 +78,15 @@ light → lit 是不规则动词变化（点燃）。get dark = 天黑。stand �
    > **解析**：cider 不可数/可数名词，意为“苹果汁；苹果酒”。
 
 7. **中文**：沿着沿海公路进行夏季公路旅行是令人难忘的。  
-   **英文**：Driving along the coastal highway for a summer road trip was unforgettable (front yard).
+   **英文**：Driving along the coastal highway for a summer road trip was unforgettable.
    > **解析**：road trip 可数名词短语，意为“公路自驾游”。
 
 8. **中文**：吹灭生日蜡烛是一项许愿的传统。  
-   **英文**：Blowing out the birthday candles is a tradition where you make a wish (garage sale).
+   **英文**：Blowing out the birthday candles is a tradition where you make a wish.
    > **解析**：make a wish 常用动词短语，意为“许愿”。
 
 9. **中文**：孩子们喜欢在前院绿油油的草地上奔跑。  
-   **英文**：Children loved running through the green grass in the front yard (get dark).
+   **英文**：Children loved running through the green grass in the front yard.
    > **解析**：front yard 名词短语，意为“前院”。
 
 10. **中文**：每个邻居都带了一道自制菜肴在夏季百家宴餐会上分享。  
@@ -115,13 +115,13 @@ light → lit 是不规则动词变化（点燃）。get dark = 天黑。stand �
 6. They enjoyed drinking cold apple cider after visiting the local orchard.
    > **中文**：游览完当地果园后，他们喜欢喝冰苹果汁/苹果酒。
 
-7. Driving along the coastal highway for a summer road trip was unforgettable (front yard).
+7. Driving along the coastal highway for a summer road trip was unforgettable.
    > **中文**：沿着沿海公路进行夏季公路旅行是令人难忘的。
 
-8. Blowing out the birthday candles is a tradition where you make a wish (garage sale).
+8. Blowing out the birthday candles is a tradition where you make a wish.
    > **中文**：吹灭生日蜡烛是一项许愿的传统。
 
-9. Children loved running through the green grass in the front yard (get dark).
+9. Children loved running through the green grass in the front yard.
    > **中文**：孩子们喜欢在前院绿油油的草地上奔跑。
 
 10. Every neighbor brought a homemade dish to share at the summer potluck.
@@ -197,17 +197,17 @@ They enjoyed drinking cold apple `____` after visiting the local orchard.
 
 ### 7
 
-Driving along the coastal highway for a summer road trip was unforgettable (`____`).
+Driving along the coastal highway for a summer `____` was unforgettable.
 
-- [x] front yard
-- [ ] garage sale
-- [ ] jack-o'-lantern
+- [x] road trip
+- [ ] front yard
+- [ ] hot cocoa
 
 > **解析**：road trip 可数名词短语，意为“公路自驾游”。
 
 ### 8
 
-`____`ing out the birthday candles is a tradition where you make a wish (garage sale).
+`____`ing out the birthday candles is a tradition where you make a wish.
 
 - [x] blow
 - [ ] get dark
@@ -217,9 +217,9 @@ Driving along the coastal highway for a summer road trip was unforgettable (`___
 
 ### 9
 
-Children loved running through the green grass in the front yard (`____`).
+Children loved running through the green grass in the `____`.
 
-- [x] get dark
+- [x] front yard
 - [ ] harvest
 - [ ] lit
 

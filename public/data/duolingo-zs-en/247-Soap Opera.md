@@ -90,7 +90,7 @@ hooked on（上瘾）、rewatch（重看）表达观剧热情。affair（婚外�
    > **解析**：`reveal` 作及物动词，意为“揭露、透露”，宾语为 `his true identity`。
 
 3. **中文**：我妈妈完全沉迷于这部新的西班牙肥皂剧。  
-   **英文**：My mother is completely hooked on this new Spanish soap opera (capable of).
+   **英文**：My mother is completely hooked on this new Spanish soap opera.
    > **解析**：`be hooked on sth` 是口语表达，意为“对……沉迷/上瘾”。
 
 4. **中文**：主角试图欺骗她的丈夫以守护她的秘密。  
@@ -114,11 +114,11 @@ hooked on（上瘾）、rewatch（重看）表达观剧热情。affair（婚外�
    > **解析**：`on the surface` 是介词短语，意为“在表面上、表面看来”，引出对比。
 
 9. **中文**：没人相信那个文静的医生有能力犯下罪行。  
-   **英文**：Nobody believed that quiet doctor was capable of committing a crime (hooked on).
+   **英文**：Nobody believed that quiet doctor was capable of committing a crime.
    > **解析**：`be capable of doing sth` 是固定短语，意为“有能力做某事/干出某事”。
 
 10. **中文**：恐吓者威胁说要在网上公开保密照片。  
-   **英文**：The blackmailer threatened to release the confidential photos online (kind of like).
+   **英文**：The blackmailer threatened to release the confidential photos online.
    > **解析**：`threaten` 作动词，意为“威胁、恐吓”，搭配 `threaten to do sth`。
 
 </quiz-sentence-builder>
@@ -131,7 +131,7 @@ hooked on（上瘾）、rewatch（重看）表达观剧热情。affair（婚外�
 2. In yesterday's episode, the villain revealed his true identity to everyone.
    > **中文**：在昨天的剧集中，反派向所有人透露了他的真实身份。
 
-3. My mother is completely hooked on this new Spanish soap opera (capable of).
+3. My mother is completely hooked on this new Spanish soap opera.
    > **中文**：我妈妈完全沉迷于这部新的西班牙肥皂剧。
 
 4. The main character tried to deceive her husband to protect her secret.
@@ -149,10 +149,10 @@ hooked on（上瘾）、rewatch（重看）表达观剧热情。affair（婚外�
 8. On the surface, they seem like a happy couple, but they argue constantly.
    > **中文**：表面上看，他们似乎是一对幸福的伴侣，但实际上他们不断争吵。
 
-9. Nobody believed that quiet doctor was capable of committing a crime (hooked on).
+9. Nobody believed that quiet doctor was capable of committing a crime.
    > **中文**：没人相信那个文静的医生有能力犯下罪行。
 
-10. The blackmailer threatened to release the confidential photos online (kind of like).
+10. The blackmailer threatened to release the confidential photos online.
    > **中文**：恐吓者威胁说要在网上公开保密照片。
 
 </quiz-listening>
@@ -185,11 +185,11 @@ In yesterday's episode, the villain `____`ed his true identity to everyone.
 
 ### 3
 
-My mother is completely hooked on this new Spanish soap opera (`____`).
+My mother is completely `____` this new Spanish soap opera.
 
-- [x] capable of
-- [ ] cast
-- [ ] greedy
+- [x] hooked on
+- [ ] capable of
+- [ ] dramatic
 
 > **解析**：`be hooked on sth` 是口语表达，意为“对……沉迷/上瘾”。
 
@@ -245,9 +245,9 @@ Despite all the betrayal, the bodyguard remained `____` to the boss.
 
 ### 9
 
-Nobody believed that quiet doctor was capable of committing a crime (`____`).
+Nobody believed that quiet doctor was `____` committing a crime.
 
-- [x] hooked on
+- [x] capable of
 - [ ] kind of like
 - [ ] poison
 
@@ -255,11 +255,11 @@ Nobody believed that quiet doctor was capable of committing a crime (`____`).
 
 ### 10
 
-The blackmailer threatened to release the confidential photos online (`____`).
+The blackmailer `____`ed to release the confidential photos online.
 
-- [x] kind of like
-- [ ] loyal
-- [ ] reaction
+- [x] threaten
+- [ ] kind of like
+- [ ] poison
 
 > **解析**：`threaten` 作动词，意为“威胁、恐吓”，搭配 `threaten to do sth`。
 

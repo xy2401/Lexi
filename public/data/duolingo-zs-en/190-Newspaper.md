@@ -80,11 +80,11 @@ against, involve, most of, recent, happen 提供叙事框架：The protest was a
    > **解析**：unemployment 不可数名词，意为“失业；失业率”，前缀 un- 表示否定。
 
 8. **中文**：数百名市民聚集在市政厅外举行和平抗议。  
-   **英文**：Hundreds of citizens gathered outside city hall to hold a peaceful protest (has there been).
+   **英文**：Hundreds of citizens gathered outside city hall to hold a peaceful protest.
    > **解析**：protest 可数名词，意为“抗议；示威”；作动词时意为“对……提出抗议”。
 
 9. **中文**：侦探们正在调查昨晚报道的一起神秘谋杀案。  
-   **英文**：Detectives are investigating a mysterious murder case reported last night (have there been).
+   **英文**：Detectives are investigating a mysterious murder case reported last night.
    > **解析**：murder 名词/动词，在此作名词意为“谋杀；谋杀案”。
 
 10. **中文**：该镇在公共交通安全方面取得了巨大的改善。  
@@ -116,10 +116,10 @@ against, involve, most of, recent, happen 提供叙事框架：The protest was a
 7. The government launched new training programs to combat high unemployment.
    > **中文**：政府推出了新的培训计划以应对高失业率。
 
-8. Hundreds of citizens gathered outside city hall to hold a peaceful protest (has there been).
+8. Hundreds of citizens gathered outside city hall to hold a peaceful protest.
    > **中文**：数百名市民聚集在市政厅外举行和平抗议。
 
-9. Detectives are investigating a mysterious murder case reported last night (have there been).
+9. Detectives are investigating a mysterious murder case reported last night.
    > **中文**：侦探们正在调查昨晚报道的一起神秘谋杀案。
 
 10. The town has seen a dramatic improvement in public transportation safety.
@@ -205,21 +205,21 @@ The government launched new training programs to combat high `____`.
 
 ### 8
 
-Hundreds of citizens gathered outside city hall to hold a peaceful protest (`____`).
+Hundreds of citizens gathered outside city hall to hold a peaceful `____`.
 
-- [x] has there been
-- [ ] have there been
-- [ ] most of
+- [x] protest
+- [ ] has there been
+- [ ] involve
 
 > **解析**：protest 可数名词，意为“抗议；示威”；作动词时意为“对……提出抗议”。
 
 ### 9
 
-Detectives are investigating a mysterious murder case reported last night (`____`).
+Detectives are investigating a mysterious `____` case reported last night.
 
-- [x] have there been
-- [ ] improvement
-- [ ] murder
+- [x] murder
+- [ ] have there been
+- [ ] most of
 
 > **解析**：murder 名词/动词，在此作名词意为“谋杀；谋杀案”。
 

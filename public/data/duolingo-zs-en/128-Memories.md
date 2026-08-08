@@ -78,7 +78,7 @@ used to + 动词原形表示"过去常常"（现在不做了）。never used to 
    > **解析**：strict 为形容词，意为“严格的”。常见搭配 be strict about sth.（对某事严格）或 be strict with sb.（对某人严格）。
 
 5. **中文**：虽然她小时候非常害害羞，但长大后却成了一位自信的演讲者。  
-   **英文**：Although she was very shy as a child, she grew up to be a confident speaker (come over).
+   **英文**：Although she was very shy as a child, she grew up to be a confident speaker.
    > **解析**：shy 为形容词，意为“害羞的、怯生的”。grow up to be 表示“长大后成为...”。
 
 6. **中文**：我邻居过去常在周末串门到我家玩桌游。  
@@ -94,7 +94,7 @@ used to + 动词原形表示"过去常常"（现在不做了）。never used to 
    > **解析**：frog 为名词，意为“青蛙”。pond 意为“池塘”。
 
 9. **中文**：孩子们在游戏时试图躲在大橡树后面。  
-   **英文**：The kids tried to hide behind the large oak tree during their game (frying pan).
+   **英文**：The kids tried to hide behind the large oak tree during their game card.
    > **解析**：hide 为动词，意为“躲藏、隐藏”。过去式为 hid，过去分词为 hidden。hide behind 表示“躲在...后面”。
 
 10. **中文**：我过去从不喜欢吃蔬菜，但现在我却很喜欢新鲜沙拉。  
@@ -117,7 +117,7 @@ used to + 动词原形表示"过去常常"（现在不做了）。never used to 
 4. My parents were quite strict about finishing homework before watching television.
    > **中文**：我父母在看电视之前必须完成作业这一点上非常严格。
 
-5. Although she was very shy as a child, she grew up to be a confident speaker (come over).
+5. Although she was very shy as a child, she grew up to be a confident speaker.
    > **中文**：虽然她小时候非常害害羞，但长大后却成了一位自信的演讲者。
 
 6. My neighbor used to come over to my house to play board games on weekends about bug.
@@ -129,7 +129,7 @@ used to + 动词原形表示"过去常常"（现在不做了）。never used to 
 8. My brother once found a small green frog near the muddy pond.
    > **中文**：我哥哥有一次在泥泞的池塘边找到了一只绿色小青蛙。
 
-9. The kids tried to hide behind the large oak tree during their game (frying pan).
+9. The kids tried to hide behind the large oak tree during their game card.
    > **中文**：孩子们在游戏时试图躲在大橡树后面。
 
 10. I never used to like eating vegetables, but now I enjoy fresh salads.
@@ -185,11 +185,11 @@ My parents were quite `____` about finishing homework before watching television
 
 ### 5
 
-Although she was very shy as a child, she grew up to be a confident speaker (`____`).
+Although she was very `____` as a child, she grew up to be a confident speaker.
 
-- [x] come over
-- [ ] dirt
-- [ ] hide
+- [x] shy
+- [ ] come over
+- [ ] frying pan
 
 > **解析**：shy 为形容词，意为“害羞的、怯生的”。grow up to be 表示“长大后成为...”。
 
@@ -225,9 +225,9 @@ My brother once found a small green `____` near the muddy pond.
 
 ### 9
 
-The kids tried to hide behind the large oak tree during their game (`____`).
+The kids tried to hide behind the large oak tree during their game `____`.
 
-- [x] frying pan
+- [x] card
 - [ ] hide
 - [ ] neighborhood
 

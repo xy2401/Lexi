@@ -74,7 +74,7 @@ what to / which / whatever / that 这组疑问词和关系词帮你表达选择�
    > **解析**：`vintage` 在此处用作形容词，表示“复古的；经典的；有年代价值的”，通常指经过岁月沉淀且品质优良的服装或物品。
 
 7. **中文**：只要有折扣，你可以挑选任何你喜欢的衬衫。  
-   **英文**：You can pick whatever shirt you prefer as long as it is on discount (good deal).
+   **英文**：You can pick whatever shirt you prefer as long as it is on discount.
    > **解析**：`whatever` 为关系代词/限定词，表示“无论什么；任何……”。在此处修饰 `shirt` 引导宾语从句，表达毫无限制的选择。
 
 8. **中文**：你可以在面包区旁边的四号货架通道找到有机食品。  
@@ -111,7 +111,7 @@ what to / which / whatever / that 这组疑问词和关系词帮你表达选择�
 6. This secondhand boutique sells authentic vintage clothes from the 1980s.
    > **中文**：这家二手精品店销售来自20世纪80年代的正宗复古服饰。
 
-7. You can pick whatever shirt you prefer as long as it is on discount (good deal).
+7. You can pick whatever shirt you prefer as long as it is on discount.
    > **中文**：只要有折扣，你可以挑选任何你喜欢的衬衫。
 
 8. You can find organic food products in aisle four next to the bakery section.
@@ -193,11 +193,11 @@ This secondhand boutique sells authentic `____` clothes from the 1980s.
 
 ### 7
 
-You can pick whatever shirt you prefer as long as it is on discount (`____`).
+You can pick `____`ever shirt you prefer as long as it is on discount.
 
-- [x] good deal
-- [ ] knit
-- [ ] penny
+- [x] what
+- [ ] good deal
+- [ ] medium
 
 > **解析**：`whatever` 为关系代词/限定词，表示“无论什么；任何……”。在此处修饰 `shirt` 引导宾语从句，表达毫无限制的选择。
 

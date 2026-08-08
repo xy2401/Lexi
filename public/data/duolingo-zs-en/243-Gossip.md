@@ -78,7 +78,7 @@ go on（发生）、fit in with（融入）、out of control（失控）这些�
 <quiz-sentence-builder>
 
 1. **中文**：当听到关于那位沉稳经理的新闻时，大家都感到震惊。  
-   **英文**：Everyone was astonished when they heard the news about the quiet manager (aside from).
+   **英文**：Everyone was astonished when they heard the news about the quiet manager.
    > **解析**：`astonished` 是形容词，意为“十分震惊的、惊愕的”，在句中作表语。
 
 2. **中文**：在他发表那个怪异的言论后，现场一片尴尬的沉默。  
@@ -110,18 +110,18 @@ go on（发生）、fit in with（融入）、out of control（失控）这些�
    > **解析**：`tabloid` 是名词，意为“通俗小报、八卦报纸”。
 
 9. **中文**：这篇文章声称这对知名情侣上周分手了。  
-   **英文**：The article claims that the famous couple broke up last week (fit in with).
+   **英文**：The article claims that the famous couple broke up last week.
    > **解析**：`claim` 作及物动词，意为“声称、主张”，后接 `that` 引导的宾语从句。
 
 10. **中文**：他注意到今天团队会议期间有几种怪异的行为。  
-   **英文**：He noticed several odd behaviors during the team meeting today (food court).
+   **英文**：He noticed several odd behaviors during the team meeting today.
    > **解析**：`odd` 是形容词，意为“古怪的、异常的”，修饰复数名词 `behaviors`。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Everyone was astonished when they heard the news about the quiet manager (aside from).
+1. Everyone was astonished when they heard the news about the quiet manager.
    > **中文**：当听到关于那位沉稳经理的新闻时，大家都感到震惊。
 
 2. There was an awkward silence after he made that strange comment.
@@ -145,10 +145,10 @@ go on（发生）、fit in with（融入）、out of control（失控）这些�
 8. She bought a tabloid to read about the latest celebrity scandal.
    > **中文**：她买了一份八卦报纸，想阅读最新的名人丑闻。
 
-9. The article claims that the famous couple broke up last week (fit in with).
+9. The article claims that the famous couple broke up last week.
    > **中文**：这篇文章声称这对知名情侣上周分手了。
 
-10. He noticed several odd behaviors during the team meeting today (food court).
+10. He noticed several odd behaviors during the team meeting today.
    > **中文**：他注意到今天团队会议期间有几种怪异的行为。
 
 </quiz-listening>
@@ -161,10 +161,10 @@ go on（发生）、fit in with（融入）、out of control（失控）这些�
 
 ### 1
 
-Everyone was astonished when they heard the news about the quiet manager (`____`).
+Everyone was `____` when they heard the news about the quiet manager.
 
-- [x] aside from
-- [ ] astonished
+- [x] astonished
+- [ ] aside from
 - [ ] clue
 
 > **解析**：`astonished` 是形容词，意为“十分震惊的、惊愕的”，在句中作表语。
@@ -221,11 +221,11 @@ The headline news turned out to be `____` baseless gossip.
 
 ### 7
 
-Aside from a few `____` details, the rumor was completely false.
+`____` a few minor details, the rumor was completely false.
 
-- [x] minor
-- [ ] did
-- [ ] go on
+- [x] aside from
+- [ ] even
+- [ ] hold hands
 
 > **解析**：`aside from` 是介词短语，意为“除了……之外”，在句中引导状语。
 
@@ -241,7 +241,7 @@ She bought a `____` to read about the latest celebrity scandal.
 
 ### 9
 
-The article `____`s that the famous couple broke up last week (fit in with).
+The article `____`s that the famous couple broke up last week.
 
 - [x] claim
 - [ ] food court
@@ -251,11 +251,11 @@ The article `____`s that the famous couple broke up last week (fit in with).
 
 ### 10
 
-He noticed several odd behaviors during the team meeting today (`____`).
+He noticed several `____` behaviors during the team meeting today.
 
-- [x] food court
-- [ ] go on
-- [ ] mess
+- [x] odd
+- [ ] food court
+- [ ] keep it to yourself
 
 > **解析**：`odd` 是形容词，意为“古怪的、异常的”，修饰复数名词 `behaviors`。
 

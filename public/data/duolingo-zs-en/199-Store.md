@@ -80,7 +80,7 @@ would / wouldn't 在这里用于礼貌请求和假设。still 表示"仍然"。o
    > **解析**：label 可数名词，意为“标签；吊牌”。
 
 8. **中文**：打开包裹后，我注意到袖子上有一小块暗色污渍。  
-   **英文**：I noticed a small dark stain on the sleeve after opening the package (money back).
+   **英文**：I noticed a small dark stain on the sleeve after opening the package.
    > **解析**：stain 可数名词，意为“污渍；污垢”。
 
 9. **中文**：她喜欢这衬衫上的花卉图案，但想要不同的颜色。  
@@ -116,7 +116,7 @@ would / wouldn't 在这里用于礼貌请求和假设。still 表示"仍然"。o
 7. Please keep the price label attached if you plan to request a return.
    > **中文**：如果您打算申请退货，请保留附带的价格标签。
 
-8. I noticed a small dark stain on the sleeve after opening the package (money back).
+8. I noticed a small dark stain on the sleeve after opening the package.
    > **中文**：打开包裹后，我注意到袖子上有一小块暗色污渍。
 
 9. She loved the floral pattern on the shirt but wanted a different color.
@@ -205,7 +205,7 @@ Please keep the price `____` attached if you plan to request a return.
 
 ### 8
 
-I noticed a small dark `____` on the sleeve after opening the package (money back).
+I noticed a small dark `____` on the sleeve after opening the package.
 
 - [x] stain
 - [ ] money back

@@ -82,7 +82,7 @@ get in / get out 表示"进入/出去"。in a mood 表示"心情……"。
    > **解析**：mood 为名词，意为“心情、情绪”。be in a cheerful/good mood 表示“处于愉快的心情”。
 
 6. **中文**：我妹妹在第一次见她未来的岳父母/公婆前感到很紧张。  
-   **英文**：My younger sister felt nervous before meeting her future in-laws for the first time (dining room).
+   **英文**：My younger sister felt nervous before meeting her future in-laws for the first time.
    > **解析**：nervous 为形容词，意为“紧张的、不安的”。be nervous before... 表示“在...前感到紧张”。
 
 7. **中文**：为二十位客人准备一顿丰盛的晚餐可能是一项相当繁重/有压力的任务。  
@@ -94,11 +94,11 @@ get in / get out 表示"进入/出去"。in a mood 表示"心情……"。
    > **解析**：annoy 为动词，意为“打扰、使烦恼”。形容词形式为 annoying（令人烦恼的）或 annoyed（感到烦恼的）。
 
 9. **中文**：住宅后面有充足的免费停车空间。  
-   **英文**：There is plenty of free parking space available behind the family house (get in).
+   **英文**：There is plenty of free parking space available behind the family house.
    > **解析**：parking 在句中作定语修饰 space，parking space 表示“停车位/停车空间”。parking 为不可数名词。
 
 10. **中文**：我们家每天教孩子们循环回收塑料瓶和纸质包装。  
-   **英文**：My family teaches the kids to recycle plastic bottles and paper packaging daily (get out).
+   **英文**：My family teaches the kids to recycle plastic bottles and paper packaging daily.
    > **解析**：recycle 为动词，意为“回收利用、循环使用”。teach sb. to do sth. 表示“教某人做某事”。
 
 </quiz-sentence-builder>
@@ -120,7 +120,7 @@ get in / get out 表示"进入/出去"。in a mood 表示"心情……"。
 5. My father is always in a cheerful mood whenever his grandchildren come to visit.
    > **中文**：每当孙辈们来拜访时，我父亲总是处于愉快的心情中。
 
-6. My younger sister felt nervous before meeting her future in-laws for the first time (dining room).
+6. My younger sister felt nervous before meeting her future in-laws for the first time.
    > **中文**：我妹妹在第一次见她未来的岳父母/公婆前感到很紧张。
 
 7. Preparing a big dinner for twenty visitors can be quite a stressful task.
@@ -129,10 +129,10 @@ get in / get out 表示"进入/出去"。in a mood 表示"心情……"。
 8. Loud noises late at night really annoy the neighbors in our apartment building.
    > **中文**：深夜的轰鸣噪音真的很骚扰/打扰我们公寓楼里的邻居们。
 
-9. There is plenty of free parking space available behind the family house (get in).
+9. There is plenty of free parking space available behind the family house.
    > **中文**：住宅后面有充足的免费停车空间。
 
-10. My family teaches the kids to recycle plastic bottles and paper packaging daily (get out).
+10. My family teaches the kids to recycle plastic bottles and paper packaging daily.
    > **中文**：我们家每天教孩子们循环回收塑料瓶和纸质包装。
 
 </quiz-listening>
@@ -195,7 +195,7 @@ My father is always in a cheerful `____` whenever his grandchildren come to visi
 
 ### 6
 
-My younger sister felt `____` before meeting her future in-laws for the first time (dining room).
+My younger sister felt `____` before meeting her future in-laws for the first time.
 
 - [x] nervous
 - [ ] dining room
@@ -225,21 +225,21 @@ Loud noises late at night really `____` the neighbors in our apartment building.
 
 ### 9
 
-There is plenty of free parking space available behind the family house (`____`).
+There is plenty of free `____` space available behind the family house.
 
-- [x] get in
-- [ ] get out
-- [ ] make
+- [x] parking
+- [ ] get in
+- [ ] joke
 
 > **解析**：parking 在句中作定语修饰 space，parking space 表示“停车位/停车空间”。parking 为不可数名词。
 
 ### 10
 
-My family teaches the kids to recycle plastic bottles and paper packaging daily (`____`).
+My family teaches the kids to `____` plastic bottles and paper packaging daily.
 
-- [x] get out
-- [ ] go on
-- [ ] mood
+- [x] recycle
+- [ ] get out
+- [ ] make
 
 > **解析**：recycle 为动词，意为“回收利用、循环使用”。teach sb. to do sth. 表示“教某人做某事”。
 

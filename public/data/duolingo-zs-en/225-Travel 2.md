@@ -76,7 +76,7 @@ backup plan, deck, diner, get away, hike, in the middle of nowhere, itinerary, j
    > **解析**：`just in case` 为时间/条件副词短语，意为“以防万一”，常放在句末作状语。
 
 4. **中文**：这个热带小岛位于距离佛罗里达海岸二十英里的海面上。  
-   **英文**：The small tropical island is located twenty miles off the coast of Florida (get away).
+   **英文**：The small tropical island is located twenty miles off the coast of Florida.
    > **解析**：`off the coast of` 为方位介词短语，意为“在……海岸线外的大海上”。
 
 5. **中文**：他们收拾好行李，在没有预订酒店的情况下进行了一次说走就走的公路旅行。  
@@ -84,7 +84,7 @@ backup plan, deck, diner, get away, hike, in the middle of nowhere, itinerary, j
    > **解析**：`spontaneous` 形容词，意为“自发的；即兴的；说走就走的”。修饰名词 `road trip`。
 
 6. **中文**：我们从机场开车到海滨度假胜地需要多长时间？  
-   **英文**：How long will it take us to drive from the airport to the seaside resort? (in the middle of nowhere).
+   **英文**：How long will it take us to drive from the airport to the seaside resort?
    > **解析**：`take` 在句型 `it takes sb. time to do sth.` 中表示“花费（某人时间）”。
 
 7. **中文**：山区的天气可能非常不可预测，因此请带上保暖的衣物。  
@@ -92,7 +92,7 @@ backup plan, deck, diner, get away, hike, in the middle of nowhere, itinerary, j
    > **解析**：`unpredictable` 形容词，意为“无法预测的；多变的”，由前缀 `un-` + `predictable` 构成。
 
 8. **中文**：乘客们站在邮轮的上层甲板上欣赏海上日落。  
-   **英文**：Passengers stood on the upper deck of the cruise ship to admire the ocean sunset (just in case).
+   **英文**：Passengers stood on the upper deck of the cruise ship to admire the ocean sunset.
    > **解析**：`deck` 可数名词，意为“（船的）甲板；露天平台”。`upper deck`（上层甲板）。
 
 9. **中文**：那座小木屋位于偏僻荒凉的角落，完全没有手机信号。  
@@ -100,7 +100,7 @@ backup plan, deck, diner, get away, hike, in the middle of nowhere, itinerary, j
    > **解析**：`in the middle of nowhere` 为常用习惯表达，意为“在人烟稀少的地方；偏僻荒芜之所”。
 
 10. **中文**：在明天回家之前，我们需要为朋友们购买更多的纪念品。  
-   **英文**：We need to buy more souvenirs for our friends before returning home tomorrow (not only).
+   **英文**：We need to buy more souvenirs for our friends before returning home tomorrow.
    > **解析**：`more` 限定词/代词，意为“更多的”，在此修饰复数名词 `souvenirs`。
 
 </quiz-sentence-builder>
@@ -116,25 +116,25 @@ backup plan, deck, diner, get away, hike, in the middle of nowhere, itinerary, j
 3. Always pack an emergency rain poncho in your backpack, just in case.
    > **中文**：随身在背包里放一件应急雨衣，以防万一。
 
-4. The small tropical island is located twenty miles off the coast of Florida (get away).
+4. The small tropical island is located twenty miles off the coast of Florida.
    > **中文**：这个热带小岛位于距离佛罗里达海岸二十英里的海面上。
 
 5. They packed their bags and took a spontaneous road trip without booking hotels.
    > **中文**：他们收拾好行李，在没有预订酒店的情况下进行了一次说走就走的公路旅行。
 
-6. How long will it take us to drive from the airport to the seaside resort? (in the middle of nowhere).
+6. How long will it take us to drive from the airport to the seaside resort?
    > **中文**：我们从机场开车到海滨度假胜地需要多长时间？
 
 7. Mountain weather can be highly unpredictable, so bring warm layers of clothing.
    > **中文**：山区的天气可能非常不可预测，因此请带上保暖的衣物。
 
-8. Passengers stood on the upper deck of the cruise ship to admire the ocean sunset (just in case).
+8. Passengers stood on the upper deck of the cruise ship to admire the ocean sunset.
    > **中文**：乘客们站在邮轮的上层甲板上欣赏海上日落。
 
 9. The cabin was located in the middle of nowhere with no cellular reception at all about diner.
    > **中文**：那座小木屋位于偏僻荒凉的角落，完全没有手机信号。
 
-10. We need to buy more souvenirs for our friends before returning home tomorrow (not only).
+10. We need to buy more souvenirs for our friends before returning home tomorrow.
    > **中文**：在明天回家之前，我们需要为朋友们购买更多的纪念品。
 
 </quiz-listening>
@@ -177,7 +177,7 @@ Always pack an emergency rain poncho in your backpack, `____`.
 
 ### 4
 
-The small tropical island is located twenty miles `____` Florida (get away).
+The small tropical island is located twenty miles `____` Florida.
 
 - [x] off the coast of
 - [ ] get away
@@ -197,11 +197,11 @@ They packed their bags and took a `____` road trip without booking hotels.
 
 ### 6
 
-How long will it take us to drive from the airport to the seaside resort? (`____`).
+How long will it `____` us to drive from the airport to the seaside resort?
 
-- [x] in the middle of nowhere
-- [ ] itinerary
-- [ ] off the coast of
+- [x] take
+- [ ] in the middle of nowhere
+- [ ] not only
 
 > **解析**：`take` 在句型 `it takes sb. time to do sth.` 中表示“花费（某人时间）”。
 
@@ -217,7 +217,7 @@ Mountain weather can be highly `____`, so bring warm layers of clothing.
 
 ### 8
 
-Passengers stood on the upper `____` of the cruise ship to admire the ocean sunset (just in case).
+Passengers stood on the upper `____` of the cruise ship to admire the ocean sunset.
 
 - [x] deck
 - [ ] more
@@ -237,7 +237,7 @@ The cabin was located in the middle of nowhere with no cellular reception at all
 
 ### 10
 
-We need to buy `____` souvenirs for our friends before returning home tomorrow (not only).
+We need to buy `____` souvenirs for our friends before returning home tomorrow.
 
 - [x] more
 - [ ] off the coast of

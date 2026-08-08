@@ -70,11 +70,11 @@ ache, act, as if, as though, bite, bruise, cautious, have, honey, itch, pass out
    > **解析**：`bite` 可数名词，在此处意为“叮咬伤痕；咬伤”。`mosquito bite`（蚊虫叮咬伤）。
 
 3. **中文**：如果你发高烧和咽喉痛，你应该留在家中。  
-   **英文**：You should stay home if you have a high fever and a sore throat (as if).
+   **英文**：You should stay home if you have a high fever and a sore throat.
    > **解析**：`have` 动词，在医疗症状描述中与疾病名词搭配（如 `have a fever / cold / headache`）。
 
 4. **中文**：充分的休息和有营养的膳食对于迅速医疗康复至关重要。  
-   **英文**：Adequate rest and nutritious meals are essential for a speedy medical recovery (as though).
+   **英文**：Adequate rest and nutritious meals are essential for a speedy medical recovery.
    > **解析**：`recovery` 可数/不可数名词，意为“康复；痊愈”，由动词 `recover` 派生而来。
 
 5. **中文**：发高烧经常导致患者在夜间剧烈流汗。  
@@ -111,10 +111,10 @@ ache, act, as if, as though, bite, bruise, cautious, have, honey, itch, pass out
 2. Apply an antiseptic cream to the mosquito bite to stop the red swelling.
    > **中文**：在蚊子叮咬处涂抹防腐止痒膏以消红肿。
 
-3. You should stay home if you have a high fever and a sore throat (as if).
+3. You should stay home if you have a high fever and a sore throat.
    > **中文**：如果你发高烧和咽喉痛，你应该留在家中。
 
-4. Adequate rest and nutritious meals are essential for a speedy medical recovery (as though).
+4. Adequate rest and nutritious meals are essential for a speedy medical recovery.
    > **中文**：充分的休息和有营养的膳食对于迅速医疗康复至关重要。
 
 5. A high fever often causes patients to sweat heavily during the night.
@@ -165,21 +165,21 @@ Apply an antiseptic cream to the mosquito `____` to stop the red swelling.
 
 ### 3
 
-You should stay home if you have a high fever and a sore throat (`____`).
+You should stay home if you `____` a high fever and a sore throat.
 
-- [x] as if
-- [ ] as though
-- [ ] have
+- [x] have
+- [ ] as if
+- [ ] cautious
 
 > **解析**：`have` 动词，在医疗症状描述中与疾病名词搭配（如 `have a fever / cold / headache`）。
 
 ### 4
 
-Adequate rest and nutritious meals are essential for a speedy medical recovery (`____`).
+Adequate rest and nutritious meals are essential for a speedy medical `____`.
 
-- [x] as though
-- [ ] bite
-- [ ] honey
+- [x] recovery
+- [ ] as though
+- [ ] have
 
 > **解析**：`recovery` 可数/不可数名词，意为“康复；痊愈”，由动词 `recover` 派生而来。
 

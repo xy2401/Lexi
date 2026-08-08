@@ -70,7 +70,7 @@ but, by, convince, could, doubt that, lamb, option, point, politely, progress, r
    > **解析**：option 可数名词，表示“选择；可选项”，比 choice 更强调供挑选的具体项目。
 
 5. **中文**：服务员成功说服我们尝尝他们的招牌甜点。  
-   **英文**：The server managed to convince us to try their signature dessert (doubt that).
+   **英文**：The server managed to convince us to try their signature dessert.
    > **解析**：convince 动词，意为“说服”，常用结构为 convince somebody to do something（说服某人做某事）。
 
 6. **中文**：我怀疑如果没有提前预订，他们是否还会有空桌。  
@@ -109,7 +109,7 @@ but, by, convince, could, doubt that, lamb, option, point, politely, progress, r
 4. If you prefer a lighter meal, a fresh garden salad is another healthy option about by.
    > **中文**：如果你喜欢更清淡的餐食，新鲜的花园沙拉是另一个健康的选择。
 
-5. The server managed to convince us to try their signature dessert (doubt that).
+5. The server managed to convince us to try their signature dessert.
    > **中文**：服务员成功说服我们尝尝他们的招牌甜点。
 
 6. I doubt that they will have any open tables without a prior reservation.
@@ -177,7 +177,7 @@ If you prefer a lighter meal, a fresh garden salad is another healthy option abo
 
 ### 5
 
-The server managed to `____` us to try their signature dessert (doubt that).
+The server managed to `____` us to try their signature dessert.
 
 - [x] convince
 - [ ] lamb

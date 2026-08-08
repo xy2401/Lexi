@@ -74,7 +74,7 @@ both, bother, do, even, get, got to, guys, have, have on, instead, make it, must
    > **解析**：plain 在此处作形容词，意为“朴素的、单色的、无图案的”，修饰 t-shirt。
 
 6. **中文**：我们真的应该近期找个时间聚聚吃个饭！  
-   **英文**：We really ought to get together for dinner sometime soon (got to).
+   **英文**：We really ought to get together for dinner sometime soon.
    > **解析**：sometime soon 为时间副词短语，口语中意为“近期某个时间、快点”，常用于发出聚会邀请。
 
 7. **中文**：我们这个星期六晚上为什么不一起去打保龄球呢？  
@@ -86,7 +86,7 @@ both, bother, do, even, get, got to, guys, have, have on, instead, make it, must
    > **解析**：bother 为动词，Don't bother doing sth. 意为“不必费心做某事”，表达客气的关心与建议。
 
 9. **中文**：嘿大伙儿，你们对周末的自驾游感到激动吗？  
-   **英文**：Hey guys, are you excited about the weekend road trip? (have on).
+   **英文**：Hey guys, are you excited about the weekend road trip?
    > **解析**：guys 为复数名词，口语中称呼“大家、大伙儿”，不论性别均可通用。
 
 10. **中文**：我太高兴你能准时赶来参加我的生日派对！  
@@ -112,7 +112,7 @@ both, bother, do, even, get, got to, guys, have, have on, instead, make it, must
 5. I prefer to wear a plain t-shirt when hanging out with friends on weekends.
    > **中文**：周末和朋友聚会时，我更喜欢穿一件简素素色的T恤。
 
-6. We really ought to get together for dinner sometime soon (got to).
+6. We really ought to get together for dinner sometime soon.
    > **中文**：我们真的应该近期找个时间聚聚吃个饭！
 
 7. Why don't we go bowling together this Saturday evening.
@@ -121,7 +121,7 @@ both, bother, do, even, get, got to, guys, have, have on, instead, make it, must
 8. Don't bother bringing snacks because I will prepare everything for our picnic.
    > **中文**：不用费心带零食了，因为我会为我们的野餐准备好一切。
 
-9. Hey guys, are you excited about the weekend road trip? (have on).
+9. Hey guys, are you excited about the weekend road trip?
    > **中文**：嘿大伙儿，你们对周末的自驾游感到激动吗？
 
 10. I am so glad you could make it to my birthday party on time.
@@ -187,7 +187,7 @@ I prefer to wear a `____` t-shirt when hanging out with friends on weekends.
 
 ### 6
 
-We really ought to `____` together for dinner sometime soon (got to).
+We really ought to `____` together for dinner sometime soon.
 
 - [x] get
 - [ ] guys
@@ -217,7 +217,7 @@ Don't `____` bringing snacks because I will prepare everything for our picnic.
 
 ### 9
 
-Hey `____`, are you excited about the weekend road trip? (have on).
+Hey `____`, are you excited about the weekend road trip?
 
 - [x] guys
 - [ ] instead

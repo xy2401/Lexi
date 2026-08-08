@@ -66,23 +66,23 @@ all grown up, any, back in town, can't complain, catch you up on, compliment, de
 <quiz-sentence-builder>
 
 1. **中文**：许多年后，我们坐在一家安静的咖啡馆里交流彼此的近况。  
-   **英文**：We sat at a quiet coffee shop to catch up on each other's lives after many years (all grown up).
+   **英文**：We sat at a quiet coffee shop to catch up on each other's lives after many years.
    > **解析**：`catch up (on sth.)` 是动词短语，意为“叙旧、了解近况”，是旧友重逢时的核心表达。
 
 2. **中文**：好久不见，我的朋友！自高中以来你一点都没变。  
-   **英文**：Long time no see, my friend! You haven't changed a bit since high school about any.
+   **英文**：Long time no see, my friend! You haven't changed a bit since high school about any all grown up.
    > **解析**：`Long time no see!` 是高频口语打招呼惯用语，意为“好久不见！”，在句中作感叹句开头。
 
 3. **中文**：我们高中班级在周末举办了一场难忘的十年同学聚会。  
-   **英文**：Our high school class held a memorable ten-year reunion over the weekend (back in town).
+   **英文**：Our high school class held a memorable ten-year reunion over the weekend back in town.
    > **解析**：`reunion` 是名词，意为“重聚、聚会”，短语 `class reunion` 特指“同学会”。
 
 4. **中文**：尽管我们搬到了不同的城市，但我们承诺一定会一直保持联系。  
-   **英文**：Even though we moved to different cities, we promised to always keep in touch (can't complain).
+   **英文**：Even though we moved to different cities, we promised to always keep in touch can't complain.
    > **解析**：`keep in touch` 是固定动词短语，意为“保持联系”，在句中作不定式 `to keep in touch` 的核心。
 
 5. **中文**：翻阅这本旧相册唤起了许多美好的回忆。  
-   **英文**：Looking through this old photo album brings back so many sweet memories (catch you up on).
+   **英文**：Looking through this old photo album brings back so many sweet memories catch you up on.
    > **解析**：`bring back memories` 是动词短语，意为“勾起回忆、勾起往事”，主语为 `Looking...` 动名词短语。
 
 6. **中文**：这些年来，我和童年好友追忆往事时完全忘记了时间。  
@@ -109,19 +109,19 @@ all grown up, any, back in town, can't complain, catch you up on, compliment, de
 
 <quiz-listening>
 
-1. We sat at a quiet coffee shop to catch up on each other's lives after many years (all grown up).
+1. We sat at a quiet coffee shop to catch up on each other's lives after many years.
    > **中文**：许多年后，我们坐在一家安静的咖啡馆里交流彼此的近况。
 
-2. Long time no see, my friend! You haven't changed a bit since high school about any.
+2. Long time no see, my friend! You haven't changed a bit since high school about any all grown up.
    > **中文**：好久不见，我的朋友！自高中以来你一点都没变。
 
-3. Our high school class held a memorable ten-year reunion over the weekend (back in town).
+3. Our high school class held a memorable ten-year reunion over the weekend back in town.
    > **中文**：我们高中班级在周末举办了一场难忘的十年同学聚会。
 
-4. Even though we moved to different cities, we promised to always keep in touch (can't complain).
+4. Even though we moved to different cities, we promised to always keep in touch can't complain.
    > **中文**：尽管我们搬到了不同的城市，但我们承诺一定会一直保持联系。
 
-5. Looking through this old photo album brings back so many sweet memories (catch you up on).
+5. Looking through this old photo album brings back so many sweet memories catch you up on.
    > **中文**：翻阅这本旧相册唤起了许多美好的回忆。
 
 6. Over the years, I lost track of time while reminiscing with my childhood friend about compliment.
@@ -149,19 +149,19 @@ all grown up, any, back in town, can't complain, catch you up on, compliment, de
 
 ### 1
 
-We sat at a quiet coffee shop to catch up on each other's lives after many years (`____`).
+We sat at a quiet coffee shop to catch up on each other's lives after m`____` years.
 
-- [x] all grown up
-- [ ] any
+- [x] any
+- [ ] all grown up
 - [ ] compliment
 
 > **解析**：`catch up (on sth.)` 是动词短语，意为“叙旧、了解近况”，是旧友重逢时的核心表达。
 
 ### 2
 
-Long time no see, my friend! You haven't changed a bit since high school about `____`.
+Long time no see, my friend! You haven't changed a bit since high school about any `____`.
 
-- [x] any
+- [x] all grown up
 - [ ] back in town
 - [ ] design
 
@@ -169,7 +169,7 @@ Long time no see, my friend! You haven't changed a bit since high school about `
 
 ### 3
 
-Our high school class held a memorable ten-year reunion over the weekend (`____`).
+Our high school class held a memorable ten-year reunion over the weekend `____`.
 
 - [x] back in town
 - [ ] can't complain
@@ -179,7 +179,7 @@ Our high school class held a memorable ten-year reunion over the weekend (`____`
 
 ### 4
 
-Even though we moved to different cities, we promised to always keep in touch (`____`).
+Even though we moved to different cities, we promised to always keep in touch `____`.
 
 - [x] can't complain
 - [ ] catch you up on
@@ -189,7 +189,7 @@ Even though we moved to different cities, we promised to always keep in touch (`
 
 ### 5
 
-Looking through this old photo album brings back so many sweet memories (`____`).
+Looking through this old photo album brings back so many sweet memories `____`.
 
 - [x] catch you up on
 - [ ] compliment

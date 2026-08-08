@@ -66,7 +66,7 @@ break up 表示"分手"。pay attention to 表示"注意"。
    > **解析**：romantic 为形容词，意为“浪漫的”。修饰名词 dinner。candlelit 意为“烛光照明的”。
 
 2. **中文**：他们非常享受第一次约会，以至于在咖啡馆里聊了好几个小时。  
-   **英文**：They enjoyed their first date so much that they talked for hours at the cafe (break up).
+   **英文**：They enjoyed their first date so much that they talked for hours at the cafe.
    > **解析**：date 在句中作可数名词，意为“约会”。first date 指“第一次约会”。so... that... 引导结果状语从句。
 
 3. **中文**：在经历异地挑战后，他们决定和平分手是最好的选择。  
@@ -98,7 +98,7 @@ break up 表示"分手"。pay attention to 表示"注意"。
    > **解析**：avoid 为动词，意为“避免”。后接动名词形式（avoid bringing up...）。bring up 意为“提起/谈及”。
 
 10. **中文**：她想出了一个聪明的计划，在他生日时给男友一个惊喜。  
-   **英文**：She came up with a clever plan to surprise her boyfriend on his birthday (in a hurry).
+   **英文**：She came up with a clever plan to surprise her boyfriend on his birthday.
    > **解析**：clever 为形容词，意为“聪明的、巧妙的”。come up with 意为“想出”。surprise 在此处作动词意为“给...惊喜”。
 
 </quiz-sentence-builder>
@@ -108,7 +108,7 @@ break up 表示"分手"。pay attention to 表示"注意"。
 1. He arranged a romantic dinner by the candlelit seaside for their wedding anniversary.
    > **中文**：他在烛光闪烁的海边安排了一顿浪漫的晚餐来庆祝他们的结婚纪念日。
 
-2. They enjoyed their first date so much that they talked for hours at the cafe (break up).
+2. They enjoyed their first date so much that they talked for hours at the cafe.
    > **中文**：他们非常享受第一次约会，以至于在咖啡馆里聊了好几个小时。
 
 3. After long-distance challenges, they decided it was best to break up peacefully about avoid.
@@ -132,7 +132,7 @@ break up 表示"分手"。pay attention to 表示"注意"。
 9. Try to avoid bringing up stressful work topics when you are on a romantic date about careless.
    > **中文**：当你在浪漫约会时，尽量避免提起令人压抑的工作话题。
 
-10. She came up with a clever plan to surprise her boyfriend on his birthday (in a hurry).
+10. She came up with a clever plan to surprise her boyfriend on his birthday.
    > **中文**：她想出了一个聪明的计划，在他生日时给男友一个惊喜。
 
 </quiz-listening>
@@ -155,10 +155,10 @@ He arranged a `____` dinner by the candlelit seaside for their wedding anniversa
 
 ### 2
 
-They enjoyed their first date so much that they talked for hours at the cafe (`____`).
+They enjoyed their first `____` so much that they talked for hours at the cafe.
 
-- [x] break up
-- [ ] calm
+- [x] date
+- [ ] break up
 - [ ] definitely
 
 > **解析**：date 在句中作可数名词，意为“约会”。first date 指“第一次约会”。so... that... 引导结果状语从句。
@@ -185,11 +185,11 @@ The couple danced to lively music at a popular `____` until midnight.
 
 ### 5
 
-During a romantic `____`, it is vital to pay attention to what your partner says.
+During a romantic date, it is vital to `____` to what your partner says.
 
-- [x] date
+- [x] pay attention
 - [ ] clever
-- [ ] in a hurry
+- [ ] how
 
 > **解析**：pay attention 为动词短语，意为“注意、专心”。搭配 pay attention to sth./sb.。
 
@@ -235,7 +235,7 @@ Try to avoid bringing up stressful work topics when you are on a romantic date a
 
 ### 10
 
-She came up with a `____` plan to surprise her boyfriend on his birthday (in a hurry).
+She came up with a `____` plan to surprise her boyfriend on his birthday.
 
 - [x] clever
 - [ ] kid

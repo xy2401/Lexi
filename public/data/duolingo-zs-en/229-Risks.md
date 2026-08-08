@@ -72,7 +72,7 @@ careful, consequence, don't you dare, edge, embarrass, fire, from now on, get, g
    > **解析**：`embarrass` 及物动词，意为“使窘迫；使难堪”。
 
 3. **中文**：如果你在薄冰上滑冰，你可能会受到非常严重的伤害。  
-   **英文**：If you skate on thin ice, you could get hurt very badly (don't you dare).
+   **英文**：If you skate on thin ice, you could get hurt very badly.
    > **解析**：`get` 连系动词，用于“get + 过去分词”（如 `get hurt`），表示被动或状态的改变。
 
 4. **中文**：窗户碎裂后，要注意地板上的碎玻璃。  
@@ -88,7 +88,7 @@ careful, consequence, don't you dare, edge, embarrass, fire, from now on, get, g
    > **解析**：`risk` 动词，意为“冒……的风险”。搭配 `risk sth. for sth.`（为了某事而冒某事险）。
 
 7. **中文**：黑暗暴风雨开始了，更糟的是，我们弄丢了手电筒。  
-   **英文**：The dark storm began, and to make matters worse, we lost our flashlights (from now on).
+   **英文**：The dark storm began, and to make matters worse, we lost our flashlights.
    > **解析**：`to make matters worse` 插入语短语，意为“更糟糕的是；雪上加霜的是”。
 
 8. **中文**：鲁莽驾驶可能会对所有相关人员造成悲剧性的后果。  
@@ -96,7 +96,7 @@ careful, consequence, don't you dare, edge, embarrass, fire, from now on, get, g
    > **解析**：`consequence` 可数名词，意为“后果；结果”。搭配 `lead to consequences`（导致后果）。
 
 9. **中文**：在干草附近玩火柴可能会引发危险的野火。  
-   **英文**：Playing with matches near dry grass can spark a dangerous wild fire (get away with).
+   **英文**：Playing with matches near dry grass can spark a dangerous wild fire.
    > **解析**：`fire` 名词，意为“火；火灾”。`wild fire`（野火；山火）。
 
 10. **中文**：如果你侵入私有财产，你将会陷入与管理当局的麻烦中。  
@@ -113,7 +113,7 @@ careful, consequence, don't you dare, edge, embarrass, fire, from now on, get, g
 2. You shouldn't make fun of your friend in public; it will only embarrass him.
    > **中文**：你不应该在公共场合取笑你的朋友；那只会让他难堪。
 
-3. If you skate on thin ice, you could get hurt very badly (don't you dare).
+3. If you skate on thin ice, you could get hurt very badly.
    > **中文**：如果你在薄冰上滑冰，你可能会受到非常严重的伤害。
 
 4. Be cautious of broken glass on the floor after the window shattered.
@@ -125,13 +125,13 @@ careful, consequence, don't you dare, edge, embarrass, fire, from now on, get, g
 6. It is foolish to risk your safety for a single adventurous photo.
    > **中文**：为了拍一张冒风险的照片而拿自己的安全冒风险是愚蠢的。
 
-7. The dark storm began, and to make matters worse, we lost our flashlights (from now on).
+7. The dark storm began, and to make matters worse, we lost our flashlights.
    > **中文**：黑暗暴风雨开始了，更糟的是，我们弄丢了手电筒。
 
 8. Driving recklessly can lead to tragic consequences for everyone involved.
    > **中文**：鲁莽驾驶可能会对所有相关人员造成悲剧性的后果。
 
-9. Playing with matches near dry grass can spark a dangerous wild fire (get away with).
+9. Playing with matches near dry grass can spark a dangerous wild fire.
    > **中文**：在干草附近玩火柴可能会引发危险的野火。
 
 10. You will get in trouble with the authorities if you trespass on private property.
@@ -167,11 +167,11 @@ You shouldn't make fun of your friend in public; it will only `____` him.
 
 ### 3
 
-If you skate on thin ice, you could get hurt very badly (`____`).
+If you skate on thin ice, you could `____` hurt very badly.
 
-- [x] don't you dare
-- [ ] edge
-- [ ] get
+- [x] get
+- [ ] don't you dare
+- [ ] from now on
 
 > **解析**：`get` 连系动词，用于“get + 过去分词”（如 `get hurt`），表示被动或状态的改变。
 
@@ -207,11 +207,11 @@ It is foolish to `____` your safety for a single adventurous photo.
 
 ### 7
 
-The dark storm began, and to make matters worse, we lost our flashlights (`____`).
+The dark storm began, and `____`, we lost our flashlights.
 
-- [x] from now on
-- [ ] get
-- [ ] glass
+- [x] to make matters worse
+- [ ] from now on
+- [ ] get yourself
 
 > **解析**：`to make matters worse` 插入语短语，意为“更糟糕的是；雪上加霜的是”。
 
@@ -227,7 +227,7 @@ Driving recklessly can lead to tragic `____`s for everyone involved.
 
 ### 9
 
-Playing with matches near dry grass can spark a dangerous wild `____` (get away with).
+Playing with matches near dry grass can spark a dangerous wild `____`.
 
 - [x] fire
 - [ ] get in trouble
@@ -237,9 +237,9 @@ Playing with matches near dry grass can spark a dangerous wild `____` (get away 
 
 ### 10
 
-You will `____` in trouble with the authorities if you trespass on private property.
+You will `____` with the authorities if you trespass on private property.
 
-- [x] get
+- [x] get in trouble
 - [ ] get yourself
 - [ ] lesson
 

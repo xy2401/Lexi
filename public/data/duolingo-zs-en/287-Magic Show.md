@@ -64,7 +64,7 @@ a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief
 <quiz-sentence-builder>
 
 1. **中文**：话不多说，让我们欢迎我们的魔术大师上台。  
-   **英文**：Without further ado, let us welcome our master magician to the stage (a round of applause).
+   **英文**：Without further ado, let us welcome our master magician to the stage.
    > **解析**：`without further ado` 是习惯口语短语，意为“闲话少说、言归正传”，在主持中极高频。
 
 2. **中文**：请为我们来自观众席的勇敢志愿者送上热烈的掌声。  
@@ -72,7 +72,7 @@ a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief
    > **解析**：`a round of applause` 是固定名词短语，意为“一轮掌声”，作动词 `give` 的直接宾语。
 
 3. **中文**：这位有才华的魔术师凭空变走了大硬币，让所有人惊叹不已。  
-   **英文**：The talented magician amazed everyone by making a large coin disappear into thin air (brave volunteer).
+   **英文**：The talented magician amazed everyone by making a large coin disappear into thin air a round of applause.
    > **解析**：`magician` 是名词，意为“魔术师”，派生自 `magic` + `-ian`。
 
 4. **中文**：镜子道具在舞台上制造了令人信服的光学错觉。  
@@ -100,20 +100,20 @@ a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief
    > **解析**：`brave volunteer` 是形容词+名词结构，意为“勇敢的志愿者”，常用于舞台互动语境。
 
 10. **中文**：戏剧性的背景音乐在高潮到来前营造出高度悬疑紧张的气氛。  
-   **英文**：The dramatic background music created a highly suspenseful atmosphere before the climax (live up to).
+   **英文**：The dramatic background music created a highly suspenseful atmosphere before the climax.
    > **解析**：`suspenseful` 是形容词，由 `suspense`（悬念）+ `-ful` 构成，意为“悬念重重的、充满悬疑的”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Without further ado, let us welcome our master magician to the stage (a round of applause).
+1. Without further ado, let us welcome our master magician to the stage.
    > **中文**：话不多说，让我们欢迎我们的魔术大师上台。
 
 2. Please give a warm round of applause to our brave volunteer from the audience.
    > **中文**：请为我们来自观众席的勇敢志愿者送上热烈的掌声。
 
-3. The talented magician amazed everyone by making a large coin disappear into thin air (brave volunteer).
+3. The talented magician amazed everyone by making a large coin disappear into thin air a round of applause.
    > **中文**：这位有才华的魔术师凭空变走了大硬币，让所有人惊叹不已。
 
 4. The mirror trick created a convincing optical illusion on stage.
@@ -134,7 +134,7 @@ a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief
 9. A brave volunteer stepped forward from the front row to assist with the rope trick.
    > **中文**：一位勇敢的志愿者从前排走上前去协助表演绳索魔术。
 
-10. The dramatic background music created a highly suspenseful atmosphere before the climax (live up to).
+10. The dramatic background music created a highly suspenseful atmosphere before the climax.
    > **中文**：戏剧性的背景音乐在高潮到来前营造出高度悬疑紧张的气氛。
 
 </quiz-listening>
@@ -147,11 +147,11 @@ a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief
 
 ### 1
 
-Without further ado, let us welcome our master magician to the stage (`____`).
+Without further ado, let us welcome our master `____` to the stage.
 
-- [x] a round of applause
-- [ ] blindfolded
-- [ ] handkerchief
+- [x] magician
+- [ ] a round of applause
+- [ ] handcuffs
 
 > **解析**：`without further ado` 是习惯口语短语，意为“闲话少说、言归正传”，在主持中极高频。
 
@@ -167,11 +167,11 @@ Please give a warm round of applause to our `____` from the audience.
 
 ### 3
 
-The talented `____` amazed everyone by making a large coin disappear into thin air (brave volunteer).
+The talented magician amazed everyone by making a large coin disappear into thin air `____`.
 
-- [x] magician
-- [ ] brave volunteer
-- [ ] illusion
+- [x] a round of applause
+- [ ] gasp
+- [ ] incredibly
 
 > **解析**：`magician` 是名词，意为“魔术师”，派生自 `magic` + `-ian`。
 
@@ -237,11 +237,11 @@ A brave volunteer stepped forward from the front row to assist with the rope `__
 
 ### 10
 
-The dramatic background music created a highly suspenseful atmosphere before the climax (`____`).
+The dramatic background music created a highly `____` atmosphere before the climax.
 
-- [x] live up to
-- [ ] magic show
-- [ ] precisely
+- [x] suspenseful
+- [ ] live up to
+- [ ] may we
 
 > **解析**：`suspenseful` 是形容词，由 `suspense`（悬念）+ `-ful` 构成，意为“悬念重重的、充满悬疑的”。
 

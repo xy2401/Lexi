@@ -86,7 +86,7 @@ didn't use to 表示"过去不"。sweep → swept（扫）。
    > **解析**：know how to do sth. 为固定表达，意为“知道如何做某事、掌握某种技能”。
 
 7. **中文**：与今天相比，五十年前道路上的汽车要少得多。  
-   **英文**：There were fewer cars on the roads fifty years ago compared to today (didn't use to).
+   **英文**：There were fewer cars on the roads fifty years ago compared to today.
    > **解析**：fewer 为 few 的比较级，后接可数名词复数（cars），意为“更少的”。比较级句式常与 compared to 或 than 连用。
 
 8. **中文**：过去学生们必须用墨水笔手写完成每天的家庭作业任务。  
@@ -123,7 +123,7 @@ didn't use to 表示"过去不"。sweep → swept（扫）。
 6. Young people in the past did know how to repair their own bicycles.
    > **中文**：过去的年轻人确实知道如何修理自己的自行车。
 
-7. There were fewer cars on the roads fifty years ago compared to today (didn't use to).
+7. There were fewer cars on the roads fifty years ago compared to today.
    > **中文**：与今天相比，五十年前道路上的汽车要少得多。
 
 8. Students had to write their daily homework assignments by hand using ink pens.
@@ -205,10 +205,10 @@ Young people in the past did `____` repair their own bicycles.
 
 ### 7
 
-There were fewer cars on the roads fifty years ago compared to today (`____`).
+There were `____` cars on the roads fifty years ago compared to today.
 
-- [x] didn't use to
-- [ ] favorite
+- [x] fewer
+- [ ] didn't use to
 - [ ] inch
 
 > **解析**：fewer 为 few 的比较级，后接可数名词复数（cars），意为“更少的”。比较级句式常与 compared to 或 than 连用。

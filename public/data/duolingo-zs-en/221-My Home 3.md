@@ -74,7 +74,7 @@ appliance, attic, brand new, commute, compromise, dream, fence, fireplace, go wi
    > **解析**：`compromise` 不及物动词，意为“妥协；让步”。常与介词 `between` 或 `on` 搭配。
 
 3. **中文**：端着一杯热巧克力坐在温暖的壁炉旁是我冬天最喜欢的日常。  
-   **英文**：Sitting by the warm fireplace with a cup of hot chocolate is my favorite winter routine (brand new).
+   **英文**：Sitting by the warm fireplace with a cup of hot chocolate is my favorite winter routine.
    > **解析**：`fireplace` 可数名词，意为“壁炉”。在住宅房屋描述中十分常见。
 
 4. **中文**：我们的房东同意明天早晨修理浴室渗水的水管。  
@@ -98,7 +98,7 @@ appliance, attic, brand new, commute, compromise, dream, fence, fireplace, go wi
    > **解析**：`attic` 可数名词，意为“阁楼；顶楼房间”。介词短语 `in the attic`（在阁楼里）。
 
 9. **中文**：亲自设计一个宽敞的厨房十多年来一直是她的梦想。  
-   **英文**：Designing her own spacious kitchen has been her dream for over ten years (go with).
+   **英文**：Designing her own spacious kitchen has been her dream for over ten years.
    > **解析**：`dream` 名词，意为“梦想；愿望”。在住宅情境中常指“理想中的房子/设施”。
 
 10. **中文**：你应该保持你的生活空间干净整洁，以维持健康的家庭环境。  
@@ -115,7 +115,7 @@ appliance, attic, brand new, commute, compromise, dream, fence, fireplace, go wi
 2. When choosing a new apartment, we had to compromise between budget and location.
    > **中文**：在选择新公寓时，我们不得不选择在预算和地理位置之间做出妥协。
 
-3. Sitting by the warm fireplace with a cup of hot chocolate is my favorite winter routine (brand new).
+3. Sitting by the warm fireplace with a cup of hot chocolate is my favorite winter routine.
    > **中文**：端着一杯热巧克力坐在温暖的壁炉旁是我冬天最喜欢的日常。
 
 4. Our landlord agreed to repair the leaking water pipe in the bathroom tomorrow morning.
@@ -133,7 +133,7 @@ appliance, attic, brand new, commute, compromise, dream, fence, fireplace, go wi
 8. We stored all our old photo albums and holiday decorations up in the attic.
    > **中文**：我们把所有的旧相册和节日装饰品都存在了阁楼里。
 
-9. Designing her own spacious kitchen has been her dream for over ten years (go with).
+9. Designing her own spacious kitchen has been her dream for over ten years.
    > **中文**：亲自设计一个宽敞的厨房十多年来一直是她的梦想。
 
 10. You should keep your living space clean and tidy to maintain a healthy home environment.
@@ -169,11 +169,11 @@ When choosing a new apartment, we had to `____` between budget and location.
 
 ### 3
 
-Sitting by the warm fireplace with a cup of hot chocolate is my favorite winter routine (`____`).
+Sitting by the warm `____` with a cup of hot chocolate is my favorite winter routine.
 
-- [x] brand new
-- [ ] commute
-- [ ] fireplace
+- [x] fireplace
+- [ ] brand new
+- [ ] fence
 
 > **解析**：`fireplace` 可数名词，意为“壁炉”。在住宅房屋描述中十分常见。
 
@@ -229,7 +229,7 @@ We stored all our old photo albums and holiday decorations up in the `____`.
 
 ### 9
 
-Designing her own spacious kitchen has been her `____` for over ten years (go with).
+Designing her own spacious kitchen has been her `____` for over ten years.
 
 - [x] dream
 - [ ] keep

@@ -62,7 +62,7 @@ has been / have been 是现在完成进行时。by the time 引导时间状语�
 <quiz-sentence-builder>
 
 1. **中文**：我信任他并把我的私密秘密告诉了他，但他却透露给了所有人。  
-   **英文**：I trusted him with my private secret, but he revealed it to everyone (according to).
+   **英文**：I trusted him with my private secret, but he revealed it to everyone.
    > **解析**：secret 在句中作名词，意为“秘密”。trust sb. with sth. 意为“用某事信任某人/把某事托付给某人”。reveal 意为“透露”。
 
 2. **中文**：很明显，当他声称对遗失的钥匙一无所知时，他说了谎。  
@@ -70,7 +70,7 @@ has been / have been 是现在完成进行时。by the time 引导时间状语�
    > **解析**：lie 在句中作名词，意为“谎言”。tell a lie 表示“撒谎”。claim 意为“声称”。
 
 3. **中文**：她突然意识到她的朋友一直以来都在对她撒谎。  
-   **英文**：She suddenly realized that her friend had been lying to her all along (at first).
+   **英文**：She suddenly realized that her friend had been lying to her all along.
    > **解析**：realize 为动词，意为“意识到、发觉”。that 引导宾语从句。had been lying 为过去完成进行时。
 
 4. **中文**：当我们问起失踪的文件时，你注意到他的举止有多紧张了吗？  
@@ -78,7 +78,7 @@ has been / have been 是现在完成进行时。by the time 引导时间状语�
    > **解析**：notice 为动词，意为“注意到、察觉到”。how 引导宾语从句。act 意为“举止/表现”。
 
 5. **中文**：竞争对手们秘密会面，以规划他们下一步的商业举措。  
-   **英文**：The competitors met in secret to plan their next business move (break into).
+   **英文**：The competitors met in secret to plan their next business move.
    > **解析**：in secret 为固定介词短语，作状语修饰 met，意为“秘密地、私下”。与 secretly 同义。
 
 6. **中文**：突然，灯熄灭了，有人悄悄推开了房间门。  
@@ -86,7 +86,7 @@ has been / have been 是现在完成进行时。by the time 引导时间状语�
    > **解析**：suddenly 为副词，置于句首作状语，意为“突然、忽然”。表示意外发生的动作。
 
 7. **中文**：根据这份报告，嫌疑人在午夜前不久离开了大楼。  
-   **英文**：According to the report, the suspect left the building shortly before midnight (by the time).
+   **英文**：According to the report, the suspect left the building shortly before midnight.
    > **解析**：according to 为复合介词，意为“根据、依据”。后接名词或名词短语（the report）。
 
 8. **中文**：窃贼试图在周末大家回家后强行闯入办公室。  
@@ -105,25 +105,25 @@ has been / have been 是现在完成进行时。by the time 引导时间状语�
 
 <quiz-listening>
 
-1. I trusted him with my private secret, but he revealed it to everyone (according to).
+1. I trusted him with my private secret, but he revealed it to everyone.
    > **中文**：我信任他并把我的私密秘密告诉了他，但他却透露给了所有人。
 
 2. It is clear that he told a lie when he claimed he knew nothing about the lost keys.
    > **中文**：很明显，当他声称对遗失的钥匙一无所知时，他说了谎。
 
-3. She suddenly realized that her friend had been lying to her all along (at first).
+3. She suddenly realized that her friend had been lying to her all along.
    > **中文**：她突然意识到她的朋友一直以来都在对她撒谎。
 
 4. Did you notice how nervous he acted when we asked about the missing file.
    > **中文**：当我们问起失踪的文件时，你注意到他的举止有多紧张了吗？
 
-5. The competitors met in secret to plan their next business move (break into).
+5. The competitors met in secret to plan their next business move.
    > **中文**：竞争对手们秘密会面，以规划他们下一步的商业举措。
 
 6. Suddenly, the lights turned off and someone opened the room door quietly.
    > **中文**：突然，灯熄灭了，有人悄悄推开了房间门。
 
-7. According to the report, the suspect left the building shortly before midnight (by the time).
+7. According to the report, the suspect left the building shortly before midnight.
    > **中文**：根据这份报告，嫌疑人在午夜前不久离开了大楼。
 
 8. Thieves tried to break into the office after everyone went home for the weekend about appear.
@@ -145,11 +145,11 @@ has been / have been 是现在完成进行时。by the time 引导时间状语�
 
 ### 1
 
-I trusted him with my private secret, but he revealed it to everyone (`____`).
+I trusted him with my private `____`, but he revealed it to everyone.
 
-- [x] according to
-- [ ] appear
-- [ ] by
+- [x] secret
+- [ ] according to
+- [ ] break into
 
 > **解析**：secret 在句中作名词，意为“秘密”。trust sb. with sth. 意为“用某事信任某人/把某事托付给某人”。reveal 意为“透露”。
 
@@ -165,10 +165,10 @@ It is clear that he told a `____` when he claimed he knew nothing about the lost
 
 ### 3
 
-She suddenly realized that her friend had been lying to her all along (`____`).
+She suddenly realized that her friend had `____` lying to her all along.
 
-- [x] at first
-- [ ] been
+- [x] been
+- [ ] at first
 - [ ] criminal
 
 > **解析**：realize 为动词，意为“意识到、发觉”。that 引导宾语从句。had been lying 为过去完成进行时。
@@ -185,11 +185,11 @@ Did you `____` how nervous he acted when we asked about the missing file.
 
 ### 5
 
-The competitors met in secret to plan their next business move (`____`).
+The competitors met `____` to plan their next business move.
 
-- [x] break into
-- [ ] by
-- [ ] grab
+- [x] in secret
+- [ ] break into
+- [ ] destroy
 
 > **解析**：in secret 为固定介词短语，作状语修饰 met，意为“秘密地、私下”。与 secretly 同义。
 
@@ -205,9 +205,9 @@ The competitors met in secret to plan their next business move (`____`).
 
 ### 7
 
-According to the report, the suspect left the building shortly before midnight (`____` the time).
+`____` the report, the suspect left the building shortly before midnight.
 
-- [x] by
+- [x] according to
 - [ ] criminal
 - [ ] have been
 

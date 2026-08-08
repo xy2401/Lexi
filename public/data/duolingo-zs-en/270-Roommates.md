@@ -62,7 +62,7 @@ bring up 是本单元的核心动词短语，意为"提出（话题）"。搭配
 <quiz-sentence-builder>
 
 1. **中文**：我不想提及钱的事，但我们需要缴纳各自那份电费了。  
-   **英文**：I hate to bring up money matters, but we need to pay our share of the electricity bill (agree on).
+   **英文**：I hate to bring up money matters, but we need to pay our share of the electricity bill.
    > **解析**：`bring up` 是短语动词，在此处意为“提出（话题）、提起”。
 
 2. **中文**：我们制作了一张每周表格，以便大家公平分担家务。  
@@ -78,15 +78,15 @@ bring up 是本单元的核心动词短语，意为"提出（话题）"。搭配
    > **解析**：`belongings` 复数名词，意为“个人物品、财产”。
 
 5. **中文**：如果我们能每隔一段时间对公共厨房进行一次深度清洁，那就太好了。  
-   **英文**：It would be nice if we could clean the shared kitchen deep every once in a while (bird cage).
+   **英文**：It would be nice if we could clean the shared kitchen deep every once in a while.
    > **解析**：`every once in a while` 是时间副词短语，意为“偶或、每隔一段时间”。
 
 6. **中文**：如果您能在晚上10点后降低噪音，那就太棒了。  
-   **英文**：It would be great if you could keep the noise down after 10 PM (bother to).
+   **英文**：It would be great if you could keep the noise down after 10 PM.
    > **解析**：`It would be + 形容词 + if...` 是非常具有委婉礼貌色彩的提出希望句型。
 
 7. **中文**：他休假离开前甚至都没费心去倒垃圾。  
-   **英文**：He didn't even bother to take out the trash before leaving for vacation (bring up).
+   **英文**：He didn't even bother to take out the trash before leaving for vacation.
    > **解析**：`bother to do sth` 意为“费心去做某事”，常用否定句。
 
 8. **中文**：我们需要坐下来，就一套基本室友守则达成一致。  
@@ -105,7 +105,7 @@ bring up 是本单元的核心动词短语，意为"提出（话题）"。搭配
 
 <quiz-listening>
 
-1. I hate to bring up money matters, but we need to pay our share of the electricity bill (agree on).
+1. I hate to bring up money matters, but we need to pay our share of the electricity bill.
    > **中文**：我不想提及钱的事，但我们需要缴纳各自那份电费了。
 
 2. We created a weekly chart so everyone shares household chores fairly.
@@ -117,13 +117,13 @@ bring up 是本单元的核心动词短语，意为"提出（话题）"。搭配
 4. Please make sure to keep your personal belongings in your own room.
    > **中文**：请确保把你的个人物品留在你自己的房间里。
 
-5. It would be nice if we could clean the shared kitchen deep every once in a while (bird cage).
+5. It would be nice if we could clean the shared kitchen deep every once in a while.
    > **中文**：如果我们能每隔一段时间对公共厨房进行一次深度清洁，那就太好了。
 
-6. It would be great if you could keep the noise down after 10 PM (bother to).
+6. It would be great if you could keep the noise down after 10 PM.
    > **中文**：如果您能在晚上10点后降低噪音，那就太棒了。
 
-7. He didn't even bother to take out the trash before leaving for vacation (bring up).
+7. He didn't even bother to take out the trash before leaving for vacation.
    > **中文**：他休假离开前甚至都没费心去倒垃圾。
 
 8. We need to sit down and agree on a set of basic house rules about ask.
@@ -145,11 +145,11 @@ bring up 是本单元的核心动词短语，意为"提出（话题）"。搭配
 
 ### 1
 
-I hate to bring up money matters, but we need to pay our share of the electricity bill (`____`).
+I hate to `____` money matters, but we need to pay our share of the electricity bill.
 
-- [x] agree on
-- [ ] ask
-- [ ] bother to
+- [x] bring up
+- [ ] agree on
+- [ ] bird cage
 
 > **解析**：`bring up` 是短语动词，在此处意为“提出（话题）、提起”。
 
@@ -185,29 +185,29 @@ Please make sure to keep your personal `____` in your own room.
 
 ### 5
 
-It would be nice if we could clean the shared kitchen deep every once in a while (`____`).
+It would be nice if we could clean the shared kitchen deep `____`.
 
-- [x] bird cage
-- [ ] bother to
-- [ ] divide
+- [x] every once in a while
+- [ ] bird cage
+- [ ] clear
 
 > **解析**：`every once in a while` 是时间副词短语，意为“偶或、每隔一段时间”。
 
 ### 6
 
-It would be great if you could keep the noise down after 10 PM (`____`).
+It would be great `____` keep the noise down after 10 PM.
 
-- [x] bother to
-- [ ] bring up
-- [ ] equally
+- [x] if you could
+- [ ] bother to
+- [ ] divide
 
 > **解析**：`It would be + 形容词 + if...` 是非常具有委婉礼貌色彩的提出希望句型。
 
 ### 7
 
-He didn't even bother to take out the trash before leaving for vacation (`____`).
+He didn't even `____` take out the trash before leaving for vacation.
 
-- [x] bring up
+- [x] bother to
 - [ ] chore
 - [ ] every once in a while
 
@@ -215,9 +215,9 @@ He didn't even bother to take out the trash before leaving for vacation (`____`)
 
 ### 8
 
-We need to sit down and agree on a set of basic house rules about `____`.
+We need to sit down and `____` a set of basic house rules about ask.
 
-- [x] ask
+- [x] agree on
 - [ ] clear
 - [ ] fish tank
 
@@ -225,11 +225,11 @@ We need to sit down and agree on a set of basic house rules about `____`.
 
 ### 9
 
-Could you `____` use my kitchen appliances without asking first.
+Could you promise not to use my kitchen appliances without `____`ing first.
 
-- [x] promise not to
-- [ ] clear
-- [ ] fish tank
+- [x] ask
+- [ ] divide
+- [ ] if you could
 
 > **解析**：`promise not to do sth` 意为“承诺不做某事”。
 

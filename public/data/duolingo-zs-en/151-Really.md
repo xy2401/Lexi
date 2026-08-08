@@ -74,7 +74,7 @@ forgive → forgave → forgiven 是不规则变化。must 表推测（一定）
    > **解析**：forgave 是动词 forgive 的过去式，意为“原谅”。常用结构 forgive sb. for sth./doing sth.。
 
 4. **中文**：继续说，你打开那个神秘包裹之后发生什么了？  
-   **英文**：Go on, tell me what happened after you opened the mysterious package (by the way).
+   **英文**：Go on, tell me what happened after you opened the mysterious package.
    > **解析**：go on 在此处为短语动词，用作祈使句，意为“继续说下去”，常用于鼓励说话者提供更多细节。
 
 5. **中文**：那完全不可能，因为我今天早上亲自把文件交给了他！  
@@ -114,7 +114,7 @@ forgive → forgave → forgiven 是不规则变化。must 表推测（一定）
 3. She forgave him for losing the keys after he sincerely apologized.
    > **中文**：在他真诚道歉后，她原谅了他弄丢钥匙的事。
 
-4. Go on, tell me what happened after you opened the mysterious package (by the way).
+4. Go on, tell me what happened after you opened the mysterious package.
    > **中文**：继续说，你打开那个神秘包裹之后发生什么了？
 
 5. That's completely impossible, because I personally handed the documents to him this morning.
@@ -175,11 +175,11 @@ She `____` him for losing the keys after he sincerely apologized.
 
 ### 4
 
-Go on, tell me what happened after you opened the mysterious package (`____`).
+`____`, tell me what happened after you opened the mysterious package.
 
-- [x] by the way
-- [ ] can't
-- [ ] forgave
+- [x] go on
+- [ ] by the way
+- [ ] embarrassing
 
 > **解析**：go on 在此处为短语动词，用作祈使句，意为“继续说下去”，常用于鼓励说话者提供更多细节。
 

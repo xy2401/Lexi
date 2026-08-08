@@ -78,7 +78,7 @@ bad guy, chase, punch, save the day 是超级英雄叙事的经典元素。marti
 <quiz-sentence-builder>
 
 1. **中文**：如果你可以选择任何超能力，你会选择隐身还是飞行？  
-   **英文**：If you could choose any superpower, would you pick invisibility or flight? (bad guy).
+   **英文**：If you could choose any superpower, would you pick invisibility or flight?
    > **解析**：`superpower` 是可数名词，意为“超能力”，前半句为虚拟语气条件句。
 
 2. **中文**：飞行英雄及时赶到，挽救了局势/拯救了大家。  
@@ -90,11 +90,11 @@ bad guy, chase, punch, save the day 是超级英雄叙事的经典元素。marti
    > **解析**：`What if...` 常用语引导假设性疑问句，意为“要是……会怎么样呢”。
 
 4. **中文**：超级英雄在狭窄的小巷里追赶那个坏蛋。  
-   **英文**：The superhero chased the bad guy through the narrow alleyways (get caught).
+   **英文**：The superhero chased the bad guy through the narrow alleyways.
    > **解析**：`bad guy` 表示“反派、坏人”，在影视小说的常见名词短语。
 
 5. **中文**：如果你是一名超级英雄，你会如何保护你的秘密身份？  
-   **英文**：If you were a superhero, how would you protect your secret identity? (if he didn't).
+   **英文**：If you were a superhero, how would you protect your secret identity?
    > **解析**：`If you were...` 是对现在事实的虚拟语气条件从句，主句用 `would + 动词原形`。
 
 6. **中文**：如果他以前训练更努力的话，他本可以轻易击败反派。  
@@ -102,26 +102,26 @@ bad guy, chase, punch, save the day 是超级英雄叙事的经典元素。marti
    > **解析**：`would have + 过去分词` 是对过去事实的虚拟语气主句搭配。
 
 7. **中文**：她掌握了古老的武术，不用武器就能击败敌人。  
-   **英文**：She mastered ancient martial arts to defeat her enemy without weapons (if he wasn't).
+   **英文**：She mastered ancient martial arts to defeat her enemy without weapons.
    > **解析**：`martial arts` 是复数名词短语，意为“武术、格斗术”。
 
 8. **中文**：警官们沿着街道追赶嫌疑人。  
-   **英文**：The police officers chased the suspect down the street (if she hadn't).
+   **英文**：The police officers chased the suspect down the street.
    > **解析**：`chase` 作及物动词，意为“追赶、追捕”，宾语为 `the suspect`。
 
 9. **中文**：反派身穿黑色披风，使他看起来非常可疑。  
-   **英文**：The villain wore a dark cloak, making him look very suspicious (if you could).
+   **英文**：The villain wore a dark cloak, making him look very suspicious.
    > **解析**：`suspicious` 是形容词，意为“可疑的、引起怀疑的”，作表语补语。
 
 10. **中文**：聪明的反派会极其小心，以免被当局抓获。  
-   **英文**：A smart villain will take extreme care not to get caught by the authorities (if you were).
+   **英文**：A smart villain will take extreme care not to get caught by the authorities.
    > **解析**：`get caught` 是被动结构，意为“被抓住、被逮捕”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. If you could choose any superpower, would you pick invisibility or flight? (bad guy).
+1. If you could choose any superpower, would you pick invisibility or flight?
    > **中文**：如果你可以选择任何超能力，你会选择隐身还是飞行？
 
 2. The flying hero arrived just in time to save the day.
@@ -130,25 +130,25 @@ bad guy, chase, punch, save the day 是超级英雄叙事的经典元素。marti
 3. What if you had the ability to read people's minds.
    > **中文**：如果你有看穿人心思的能力会怎样呢？
 
-4. The superhero chased the bad guy through the narrow alleyways (get caught).
+4. The superhero chased the bad guy through the narrow alleyways.
    > **中文**：超级英雄在狭窄的小巷里追赶那个坏蛋。
 
-5. If you were a superhero, how would you protect your secret identity? (if he didn't).
+5. If you were a superhero, how would you protect your secret identity?
    > **中文**：如果你是一名超级英雄，你会如何保护你的秘密身份？
 
 6. If he had trained harder, he would have defeated the villain easily.
    > **中文**：如果他以前训练更努力的话，他本可以轻易击败反派。
 
-7. She mastered ancient martial arts to defeat her enemy without weapons (if he wasn't).
+7. She mastered ancient martial arts to defeat her enemy without weapons.
    > **中文**：她掌握了古老的武术，不用武器就能击败敌人。
 
-8. The police officers chased the suspect down the street (if she hadn't).
+8. The police officers chased the suspect down the street.
    > **中文**：警官们沿着街道追赶嫌疑人。
 
-9. The villain wore a dark cloak, making him look very suspicious (if you could).
+9. The villain wore a dark cloak, making him look very suspicious.
    > **中文**：反派身穿黑色披风，使他看起来非常可疑。
 
-10. A smart villain will take extreme care not to get caught by the authorities (if you were).
+10. A smart villain will take extreme care not to get caught by the authorities.
    > **中文**：聪明的反派会极其小心，以免被当局抓获。
 
 </quiz-listening>
@@ -161,11 +161,11 @@ bad guy, chase, punch, save the day 是超级英雄叙事的经典元素。marti
 
 ### 1
 
-If you could choose any superpower, would you pick invisibility or flight? (`____`).
+`____` choose any superpower, would you pick invisibility or flight?
 
-- [x] bad guy
-- [ ] chase
-- [ ] if he had
+- [x] if you could
+- [ ] bad guy
+- [ ] if he didn't
 
 > **解析**：`superpower` 是可数名词，意为“超能力”，前半句为虚拟语气条件句。
 
@@ -191,9 +191,9 @@ What if you had the abil`____`y to read people's minds.
 
 ### 4
 
-The superhero `____`d the bad guy through the narrow alleyways (get caught).
+The superhero chased the `____` through the narrow alleyways.
 
-- [x] chase
+- [x] bad guy
 - [ ] if he didn't
 - [ ] if you could
 
@@ -201,11 +201,11 @@ The superhero `____`d the bad guy through the narrow alleyways (get caught).
 
 ### 5
 
-If you were a superhero, how would you protect your secret identity? (`____`).
+`____` a superhero, how would you protect your secret identity?
 
-- [x] if he didn't
-- [ ] if he had
-- [ ] if you were
+- [x] if you were
+- [ ] if he didn't
+- [ ] if you could
 
 > **解析**：`If you were...` 是对现在事实的虚拟语气条件从句，主句用 `would + 动词原形`。
 
@@ -221,19 +221,19 @@ If you were a superhero, how would you protect your secret identity? (`____`).
 
 ### 7
 
-She mastered ancient martial arts to defeat her enemy without weapons (`____`).
+She mastered ancient `____` to defeat her enemy without weapons.
 
-- [x] if he wasn't
-- [ ] if she hadn't
-- [ ] martial arts
+- [x] martial arts
+- [ ] if he wasn't
+- [ ] it
 
 > **解析**：`martial arts` 是复数名词短语，意为“武术、格斗术”。
 
 ### 8
 
-The police officers chased the suspect down the street (`____`).
+The police officers `____`d the suspect down the street.
 
-- [x] if she hadn't
+- [x] chase
 - [ ] if you could
 - [ ] over and over
 
@@ -241,17 +241,17 @@ The police officers chased the suspect down the street (`____`).
 
 ### 9
 
-The villain wore a dark cloak, making him look very suspicious (`____`).
+The villain wore a dark cloak, making him look very `____`.
 
-- [x] if you could
-- [ ] if you were
-- [ ] poison
+- [x] suspicious
+- [ ] if you could
+- [ ] over and over
 
 > **解析**：`suspicious` 是形容词，意为“可疑的、引起怀疑的”，作表语补语。
 
 ### 10
 
-A smart villain will take extreme care not to `____` by the authorities (if you were).
+A smart villain will take extreme care not to `____` by the authorities.
 
 - [x] get caught
 - [ ] it

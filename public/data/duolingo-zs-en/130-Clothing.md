@@ -70,7 +70,7 @@ didn't / doesn't / don't 是否定助动词。wasn't / weren't 是 be 动词的�
    > **解析**：cotton 为名词，意为“棉花、纯棉”。made of pure cotton 为过去分词短语作后置定语修饰 shirts。
 
 3. **中文**：在出去进行傍晚慢跑前，他穿上了一件温暖的连帽卫衣。  
-   **英文**：He put on a warm hooded sweatshirt before going out for his evening jog (cash register).
+   **英文**：He put on a warm hooded sweatshirt before going out for his evening jog.
    > **解析**：sweatshirt 为名词，指“无领长袖运动衫、卫衣”。hooded sweatshirt 表示“连帽卫衣”。
 
 4. **中文**：顾客可以在结账柜台使用移动支付购买商品。  
@@ -111,7 +111,7 @@ didn't / doesn't / don't 是否定助动词。wasn't / weren't 是 be 动词的�
 2. Shirts made of pure cotton feel comfortable and breathable in hot weather.
    > **中文**：纯棉制成的衬衫在炎热天气里感觉既舒适又透气。
 
-3. He put on a warm hooded sweatshirt before going out for his evening jog (cash register).
+3. He put on a warm hooded sweatshirt before going out for his evening jog.
    > **中文**：在出去进行傍晚慢跑前，他穿上了一件温暖的连帽卫衣。
 
 4. Customers can pay for their items using mobile pay at the checkout counter.
@@ -165,11 +165,11 @@ Shirts made of pure `____` feel comfortable and breathable in hot weather.
 
 ### 3
 
-He put on a warm hooded sweatshirt before going out for his evening jog (`____`).
+He put on a warm hooded `____` before going out for his evening jog.
 
-- [x] cash register
-- [ ] change
-- [ ] didn't
+- [x] sweatshirt
+- [ ] cash register
+- [ ] cute
 
 > **解析**：sweatshirt 为名词，指“无领长袖运动衫、卫衣”。hooded sweatshirt 表示“连帽卫衣”。
 
@@ -185,9 +185,9 @@ Customers can pay for their items using mobile pay at the `____` counter.
 
 ### 5
 
-The store manager opened the cash register to give the buyer her `____`.
+The store manager opened the `____` to give the buyer her change.
 
-- [x] change
+- [x] cash register
 - [ ] cotton
 - [ ] don't
 

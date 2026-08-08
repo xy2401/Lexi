@@ -116,7 +116,7 @@ should have（本该）表达后悔和责备。fall for（上当）、speak up�
    > **解析**：`be in shock` 意为“处于震惊状态中”。
 
 10. **中文**：如果你注意到可疑活动，你应该大胆说出来并通知警方。  
-   **英文**：If you notice suspicious activity, you should speak up and inform the police (fall for).
+   **英文**：If you notice suspicious activity, you should speak up and inform the police.
    > **解析**：`speak up` 是短语动词，意为“大胆说出、发言”。
 
 </quiz-sentence-builder>
@@ -150,7 +150,7 @@ should have（本该）表达后悔和责备。fall for（上当）、speak up�
 9. The victim was in shock after realizing she had lost all her savings.
    > **中文**：受害者在意识到自己失去了所有积蓄后陷入了震惊。
 
-10. If you notice suspicious activity, you should speak up and inform the police (fall for).
+10. If you notice suspicious activity, you should speak up and inform the police.
    > **中文**：如果你注意到可疑活动，你应该大胆说出来并通知警方。
 
 </quiz-listening>
@@ -253,7 +253,7 @@ The victim was `____` after realizing she had lost all her savings.
 
 ### 10
 
-If you notice suspicious activity, you should `____` and inform the police (fall for).
+If you notice suspicious activity, you should `____` and inform the police.
 
 - [x] speak up
 - [ ] fall for

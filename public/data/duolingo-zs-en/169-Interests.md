@@ -55,79 +55,79 @@ architecture, been, collection, cycling, ever since, go for a run, has been, hav
 
 <quiz-sentence-builder>
 
-1. **中文**：除了锻炼之外，她对研究传统欧洲建筑有着浓厚的兴趣。  
-   **英文**：Besides exercising, she has a keen interest in studying traditional European architecture.
-   > **解析**：architecture 为不可数名词，意为“建筑、建筑学/建筑风格”。
+1. **中文**：自从加入骑行俱乐部，他就一直坚持每周骑车。
+   **英文**：He has been cycling every week ever since he joined the club.
+   > **解析**：**cycling** 是 cycle 的动名词/名词形式，意为"骑自行车运动"；has been cycling 构成现在完成进行时，强调从过去持续至今的习惯；ever since 引出起点时间。
 
-2. **中文**：室内骑行已成为我今年冬天最喜欢的有氧健身运动之一。  
-   **英文**：Indoor cycling has become one of my favorite cardio workouts this winter.
-   > **解析**：cycling 为动名词/名词，意为“骑自行车运动”。indoor cycling 即室内骑行。
+2. **中文**：说实话，我觉得坚持规律锻炼比改变饮食更难。
+   **英文**：Honestly, I find it harder to exercise regularly than to change my diet.
+   > **解析**：**honestly** 作句首评注性副词，意为"坦白说、说实话"，常用于口语中引出真实看法；**regularly** 作副词意为"有规律地、定期地"，修饰动词 exercise。
 
-3. **中文**：我为了这场马拉松比赛已经训练了六多月。  
-   **英文**：I have been training for the marathon for more than six months.
-   > **解析**：have been training 为现在完成进行时（have been + V-ing），强调从过去持续至今的健身锻炼动作。
+3. **中文**：你练瑜伽多久了？大约两年了。
+   **英文**：How long have you been doing yoga? About two years now.
+   > **解析**：**how long** 用于询问持续时间，与现在完成进行时 have been doing 搭配；**yoga** 是名词，指瑜伽运动，来自梵语，do yoga 是常见搭配。
 
-4. **中文**：我通常每天早上绕着社区跑道慢跑三十分钟。  
-   **英文**：I usually jog for thirty minutes around the neighborhood track every morning.
-   > **解析**：jog 为不及物动词，意为“慢跑”。jog for 30 minutes 表达慢跑时长。
+4. **中文**：她每天早晨出门慢跑，风雨无阻。
+   **英文**：She goes out to jog every morning, rain or shine.
+   > **解析**：**jog** 作不及物动词意为"慢跑"，比 run 速度更慢、更轻松；go out to jog 表示"出门去慢跑"，rain or shine 是固定表达，意为"不管什么天气"。
 
-5. **中文**：自从换了工作，他去健身房的频率比以前低了。  
-   **英文**：Since changing jobs, he goes to the fitness gym less often than before (ever since).
-   > **解析**：less often 为频率比较级短语，意为“较少地、不那么频繁”。
+5. **中文**：由于工作繁忙，她去健身房的次数比以前少了。
+   **英文**：She goes to the gym less often now because of her busy work schedule.
+   > **解析**：**less often** 是频率比较级短语，意为"较少地、不那么频繁"，是 often 的降级比较；与 more often（更频繁）相对，用于表达频率的变化。
 
-6. **中文**：定期规律地锻炼对于维持身心健康至关重要。  
-   **英文**：Exercising regularly is essential for maintaining physical and mental health (go for a run).
-   > **解析**：regularly 为副词，意为“定期地、规律地”，在此处修饰动名词短语 Exercising。
+6. **中文**：他除了踢足球，还喜欢读诗歌和参观历史建筑。
+   **英文**：Besides playing football, he enjoys reading poetry and visiting historic architecture.
+   > **解析**：**poetry** 作不可数名词意为"诗歌（总称）"，一首诗用 a poem；**architecture** 作不可数名词意为"建筑学/建筑风格/建筑群"，visiting architecture 指参观建筑。
 
-7. **中文**：因为高温酷热，我在桑拿房里待不了太长时间。  
-   **英文**：I cannot stay in the sauna for very long because of the intense heat (has been).
-   > **解析**：very long 为时间副词短语，意为“很长时间”，在否定句中修饰时间持续。
+7. **中文**：你有没有尝试过水肺潜水？那真的是一种非常难忘的体验。
+   **英文**：Have you ever tried scuba diving? It is a truly unforgettable experience.
+   > **解析**：**scuba dive** 作动词短语意为"水肺潜水"，动名词形式为 scuba diving；Have you ever... 是现在完成时的常见疑问句型，used to ask about life experiences。
 
-8. **中文**：你去过公园附近那个新的体育综合馆吗？  
-   **英文**：Have you ever been to the new sports complex near the park? (have been).
-   > **解析**：been 是 be 的过去分词。Have you been to... 意为“你曾去过某地吗”。
+8. **中文**：她自从大学毕业后就一直把邮票收藏作为自己的业余爱好。
+   **英文**：She has been building her stamp collection ever since she graduated from college.
+   > **解析**：**collection** 作可数名词意为"收藏品、收藏集"，常见搭配有 stamp collection（邮票收藏）、art collection（艺术品收藏）；**ever since** 引导时间状语，说明持续行为的起点。
 
-9. **中文**：天气晴朗时，我喜欢去河滨公园跑步。  
-   **英文**：When the weather is clear, I like to go for a run in the riverside park about collection.
-   > **解析**：go for a run 为固定动词短语，意为“去跑步”，相当于 go running。
+9. **中文**：天气好的时候，他们喜欢沿着河边跑步。
+   **英文**：When the weather is nice, they like to go for a run along the river.
+   > **解析**：**go for a run** 是固定动词短语，意为"去跑步/去跑一圈"，强调一次具体的跑步活动；与 jog（持续慢跑）相比，更侧重"出去跑一趟"的动作。
 
-10. **中文**：说实话，我觉得要坚持晨练作息相当有挑战性。  
-   **英文**：Honestly, I find it quite challenging to stick to a morning workout routine (how long).
-   > **解析**：honestly 为句首评注性副词，意为“坦白说、说实话”，引出对运动习惯的真实感想。
+10. **中文**：他喜欢读诗、学建筑，还有那一类文艺的事情。
+    **英文**：He is into reading poetry, studying architecture, and that sort of thing.
+    > **解析**：**that sort of thing** 是口语中的固定表达，意为"诸如此类/那类东西"，用来模糊概括同类事物，避免逐一列举；be into sth 意为"对……感兴趣"。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Besides exercising, she has a keen interest in studying traditional European architecture.
-   > **中文**：除了锻炼之外，她对研究传统欧洲建筑有着浓厚的兴趣。
+1. He has been cycling every week ever since he joined the club.
+   > **中文**：自从加入骑行俱乐部，他就一直坚持每周骑车。
 
-2. Indoor cycling has become one of my favorite cardio workouts this winter.
-   > **中文**：室内骑行已成为我今年冬天最喜欢的有氧健身运动之一。
+2. Honestly, I find it harder to exercise regularly than to change my diet.
+   > **中文**：说实话，我觉得坚持规律锻炼比改变饮食更难。
 
-3. I have been training for the marathon for more than six months.
-   > **中文**：我为了这场马拉松比赛已经训练了六多月。
+3. How long have you been doing yoga? About two years now.
+   > **中文**：你练瑜伽多久了？大约两年了。
 
-4. I usually jog for thirty minutes around the neighborhood track every morning.
-   > **中文**：我通常每天早上绕着社区跑道慢跑三十分钟。
+4. She goes out to jog every morning, rain or shine.
+   > **中文**：她每天早晨出门慢跑，风雨无阻。
 
-5. Since changing jobs, he goes to the fitness gym less often than before (ever since).
-   > **中文**：自从换了工作，他去健身房的频率比以前低了。
+5. She goes to the gym less often now because of her busy work schedule.
+   > **中文**：由于工作繁忙，她去健身房的次数比以前少了。
 
-6. Exercising regularly is essential for maintaining physical and mental health (go for a run).
-   > **中文**：定期规律地锻炼对于维持身心健康至关重要。
+6. Besides playing football, he enjoys reading poetry and visiting historic architecture.
+   > **中文**：他除了踢足球，还喜欢读诗歌和参观历史建筑。
 
-7. I cannot stay in the sauna for very long because of the intense heat (has been).
-   > **中文**：因为高温酷热，我在桑拿房里待不了太长时间。
+7. Have you ever tried scuba diving? It is a truly unforgettable experience.
+   > **中文**：你有没有尝试过水肺潜水？那真的是一种非常难忘的体验。
 
-8. Have you ever been to the new sports complex near the park? (have been).
-   > **中文**：你去过公园附近那个新的体育综合馆吗？
+8. She has been building her stamp collection ever since she graduated from college.
+   > **中文**：她自从大学毕业后就一直把邮票收藏作为自己的业余爱好。
 
-9. When the weather is clear, I like to go for a run in the riverside park about collection.
-   > **中文**：天气晴朗时，我喜欢去河滨公园跑步。
+9. When the weather is nice, they like to go for a run along the river.
+   > **中文**：天气好的时候，他们喜欢沿着河边跑步。
 
-10. Honestly, I find it quite challenging to stick to a morning workout routine (how long).
-   > **中文**：说实话，我觉得要坚持晨练作息相当有挑战性。
+10. He is into reading poetry, studying architecture, and that sort of thing.
+    > **中文**：他喜欢读诗、学建筑，还有那一类文艺的事情。
 
 </quiz-listening>
 
@@ -139,102 +139,102 @@ architecture, been, collection, cycling, ever since, go for a run, has been, hav
 
 ### 1
 
-Besides exercising, she has a keen interest in studying traditional European `____`.
+He has been `____` every week ever since he joined the club.
 
-- [x] architecture
+- [x] cycling
+- [ ] jogging
 - [ ] been
-- [ ] go for a run
 
-> **解析**：architecture 为不可数名词，意为“建筑、建筑学/建筑风格”。
+> **解析**：**cycling** 是 cycle 的动名词/名词形式，意为"骑自行车运动"；has been cycling 构成现在完成进行时，强调从过去持续至今的习惯；ever since 引出起点时间。
 
 ### 2
 
-Indoor `____` has become one of my favorite cardio workouts this winter.
+`____`, I find it harder to exercise regularly than to change my diet.
 
-- [x] cycling
-- [ ] been
-- [ ] has been
+- [x] honestly
+- [ ] plus
+- [ ] very long
 
-> **解析**：cycling 为动名词/名词，意为“骑自行车运动”。indoor cycling 即室内骑行。
+> **解析**：**honestly** 作句首评注性副词，意为"坦白说、说实话"，常用于口语中引出真实看法；**regularly** 作副词意为"有规律地、定期地"，修饰动词 exercise。
 
 ### 3
 
-I have `____` training for the marathon for more than six months.
+`____` have you been doing yoga? About two years now.
 
-- [x] been
-- [ ] cycling
+- [x] how long
+- [ ] ever since
 - [ ] have been
 
-> **解析**：have been training 为现在完成进行时（have been + V-ing），强调从过去持续至今的健身锻炼动作。
+> **解析**：**how long** 用于询问持续时间，与现在完成进行时 have been doing 搭配；**yoga** 是名词，指瑜伽运动，来自梵语，do yoga 是常见搭配。
 
 ### 4
 
-I usually `____` for thirty minutes around the neighborhood track every morning.
+She goes out to `____` every morning, rain or shine.
 
 - [x] jog
-- [ ] cycling
-- [ ] have been
+- [ ] go for a run
+- [ ] scuba dive
 
-> **解析**：jog 为不及物动词，意为“慢跑”。jog for 30 minutes 表达慢跑时长。
+> **解析**：**jog** 作不及物动词意为"慢跑"，比 run 速度更慢、更轻松；go out to jog 表示"出门去慢跑"，rain or shine 是固定表达，意为"不管什么天气"。
 
 ### 5
 
-Since changing jobs, he goes to the fitness gym less often than before (`____`).
+She goes to the gym `____` now because of her busy work schedule.
 
-- [x] ever since
-- [ ] go for a run
-- [ ] how long
+- [x] less often
+- [ ] more often
+- [ ] regularly
 
-> **解析**：less often 为频率比较级短语，意为“较少地、不那么频繁”。
+> **解析**：**less often** 是频率比较级短语，意为"较少地、不那么频繁"，是 often 的降级比较；与 more often（更频繁）相对，用于表达频率的变化。
 
 ### 6
 
-Exercising regularly is essential for maintaining physical and mental health (`____`).
+Besides playing football, he enjoys reading `____` and visiting historic architecture.
 
-- [x] go for a run
-- [ ] has been
-- [ ] jog
+- [x] poetry
+- [ ] collection
+- [ ] leisure
 
-> **解析**：regularly 为副词，意为“定期地、规律地”，在此处修饰动名词短语 Exercising。
+> **解析**：**poetry** 作不可数名词意为"诗歌（总称）"，一首诗用 a poem；**architecture** 作不可数名词意为"建筑学/建筑风格/建筑群"，visiting architecture 指参观建筑。
 
 ### 7
 
-I cannot stay in the sauna for very long because of the intense heat (`____`).
+Have you ever tried `____`? It is a truly unforgettable experience.
 
-- [x] has been
-- [ ] have been
-- [ ] league
+- [x] scuba diving
+- [ ] cycling
+- [ ] yoga
 
-> **解析**：very long 为时间副词短语，意为“很长时间”，在否定句中修饰时间持续。
+> **解析**：**scuba dive** 作动词短语意为"水肺潜水"，动名词形式为 scuba diving；Have you ever... 是现在完成时的常见疑问句型，used to ask about life experiences。
 
 ### 8
 
-Have you ever been to the new sports complex near the park? (`____`).
+She has been building her stamp `____` ever since she graduated from college.
 
-- [x] have been
-- [ ] honestly
+- [x] collection
+- [ ] league
 - [ ] leisure
 
-> **解析**：been 是 be 的过去分词。Have you been to... 意为“你曾去过某地吗”。
+> **解析**：**collection** 作可数名词意为"收藏品、收藏集"，常见搭配有 stamp collection（邮票收藏）、art collection（艺术品收藏）；**ever since** 引导时间状语，说明持续行为的起点。
 
 ### 9
 
-When the weather is clear, I like to go for a run in the riverside park about `____`.
+When the weather is nice, they like to `____` along the river.
 
-- [x] collection
-- [ ] how long
-- [ ] less often
+- [x] go for a run
+- [ ] jog
+- [ ] scuba dive
 
-> **解析**：go for a run 为固定动词短语，意为“去跑步”，相当于 go running。
+> **解析**：**go for a run** 是固定动词短语，意为"去跑步/去跑一圈"，强调一次具体的跑步活动；与 jog（持续慢跑）相比，更侧重"出去跑一趟"的动作。
 
 ### 10
 
-`____`, I find it quite challenging to stick to a morning workout routine (how long).
+He is into reading poetry, studying architecture, and `____`.
 
-- [x] honestly
-- [ ] jog
-- [ ] more often
+- [x] that sort of thing
+- [ ] very long
+- [ ] plus
 
-> **解析**：honestly 为句首评注性副词，意为“坦白说、说实话”，引出对运动习惯的真实感想。
+> **解析**：**that sort of thing** 是口语中的固定表达，意为"诸如此类/那类东西"，用来模糊概括同类事物，避免逐一列举；be into sth 意为"对……感兴趣"。
 
 </quiz-cloze>

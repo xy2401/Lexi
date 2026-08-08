@@ -78,19 +78,19 @@ been 和 there's been 提示现在完成时的使用。go on, go through, get in
    > **解析**：cave 可数名词，意为“山洞；溶洞”。
 
 7. **中文**：这座宁静的海滨度假村有着令人放松且热情的氛围。  
-   **英文**：The quiet seaside resort has a relaxing and welcoming atmosphere (get into).
+   **英文**：The quiet seaside resort has a relaxing and welcoming atmosphere agency.
    > **解析**：atmosphere 可数/不可数名词，意为“气氛；氛围；大气层”。
 
 8. **中文**：登船之前，每位游客都必须穿上安全的救生衣。  
-   **英文**：Before boarding the boat, every tourist must put on a secure life jacket (go on).
+   **英文**：Before boarding the boat, every tourist must put on a secure life jacket.
    > **解析**：life jacket 可数名词短语，意为“救生衣”。
 
 9. **中文**：一些游客选择留在酒店，在泳池边休息。  
-   **英文**：Some tourists chose to stay behind at the hotel to rest by the pool (go through).
+   **英文**：Some tourists chose to stay behind at the hotel to rest by the pool.
    > **解析**：stay behind 短语动词，意为“留下来；不离开”。
 
 10. **中文**：在我们开航前，友善船员小组给出了清晰的安全指示。  
-   **英文**：The friendly boat crew gave clear safety instructions before we set sail (golf course).
+   **英文**：The friendly boat crew gave clear safety instructions before we set sail.
    > **解析**：crew 集合名词，意为“全体船员/机组人员”，可作单数或复数。
 
 </quiz-sentence-builder>
@@ -115,16 +115,16 @@ been 和 there's been 提示现在完成时的使用。go on, go through, get in
 6. The tour guide led our group into an ancient limestone cave.
    > **中文**：导游带领我们小组进入了一个古老的石灰岩溶洞。
 
-7. The quiet seaside resort has a relaxing and welcoming atmosphere (get into).
+7. The quiet seaside resort has a relaxing and welcoming atmosphere agency.
    > **中文**：这座宁静的海滨度假村有着令人放松且热情的氛围。
 
-8. Before boarding the boat, every tourist must put on a secure life jacket (go on).
+8. Before boarding the boat, every tourist must put on a secure life jacket.
    > **中文**：登船之前，每位游客都必须穿上安全的救生衣。
 
-9. Some tourists chose to stay behind at the hotel to rest by the pool (go through).
+9. Some tourists chose to stay behind at the hotel to rest by the pool.
    > **中文**：一些游客选择留在酒店，在泳池边休息。
 
-10. The friendly boat crew gave clear safety instructions before we set sail (golf course).
+10. The friendly boat crew gave clear safety instructions before we set sail.
    > **中文**：在我们开航前，友善船员小组给出了清晰的安全指示。
 
 </quiz-listening>
@@ -197,9 +197,9 @@ The tour guide led our group into an ancient limestone `____`.
 
 ### 7
 
-The quiet seaside resort has a relaxing and welcoming atmosphere (`____`).
+The quiet seaside resort has a relaxing and welcoming atmosphere `____`.
 
-- [x] get into
+- [x] agency
 - [ ] go on
 - [ ] how far
 
@@ -207,27 +207,27 @@ The quiet seaside resort has a relaxing and welcoming atmosphere (`____`).
 
 ### 8
 
-Before boarding the boat, every tourist must put on a secure life jacket (`____`).
+Before boarding the boat, every tourist must put on a secure `____`.
 
-- [x] go on
-- [ ] go through
-- [ ] in case
+- [x] life jacket
+- [ ] go on
+- [ ] how far
 
 > **解析**：life jacket 可数名词短语，意为“救生衣”。
 
 ### 9
 
-Some tourists chose to stay behind at the hotel to rest by the pool (`____`).
+Some tourists chose to `____` at the hotel to rest by the pool.
 
-- [x] go through
-- [ ] golf course
-- [ ] kangaroo
+- [x] stay behind
+- [ ] go through
+- [ ] in case
 
 > **解析**：stay behind 短语动词，意为“留下来；不离开”。
 
 ### 10
 
-The friendly boat `____` gave clear safety instructions before we set sail (golf course).
+The friendly boat `____` gave clear safety instructions before we set sail.
 
 - [x] crew
 - [ ] hot tub

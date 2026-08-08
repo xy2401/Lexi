@@ -72,11 +72,11 @@ advertising, by, do a good job, early days, estimate, family, family-owned, for 
    > **解析**：`breakthrough` 是名词，意为“重大突破”，常用搭配 `achieve a breakthrough`。
 
 3. **中文**：尽管面临市场挑战，该公司仍报告其季度营业收入稳步增长。  
-   **英文**：The company reported a steady increase in quarterly revenue despite market challenges (do a good job).
+   **英文**：The company reported a steady increase in quarterly revenue despite market challenges advertising.
    > **解析**：`revenue` 指企业的“营业收入、财政收入”，属于不可数名词，作主语 `increase` 的定语修饰。
 
 4. **中文**：两家科技巨头之间拟议的合并造就了一个市场领头羊。  
-   **英文**：The proposed merger between the two tech giants created a market leader (early days).
+   **英文**：The proposed merger between the two tech giants created a market leader do a good job.
    > **解析**：`merger` 指商业上的“公司合并”，常与 `acquisition`（收购）组合为 `mergers and acquisitions (M&A)`。
 
 5. **中文**：他们计划在明年早春发布新的软件产品。  
@@ -92,11 +92,11 @@ advertising, by, do a good job, early days, estimate, family, family-owned, for 
    > **解析**：`expand` 作动词，意为“扩大、扩展（规模或市场）”，作不定式 `to expand` 引导的宾语。
 
 8. **中文**：高运营效率为该企业带来了更健康的利润率。  
-   **英文**：High operational efficiency resulted in a healthier profit margin for the business (for the better).
+   **英文**：High operational efficiency resulted in a healthier profit margin for the business early days.
    > **解析**：`profit margin` 是商业金融词汇，意为“利润率”，即利润占收入的百分比。
 
 9. **中文**：对竞争对手公司的战略收购使他们的市场份额一夜之间扩大了。  
-   **英文**：The strategic acquisition of the rival firm expanded their market share overnight (from now).
+   **英文**：The strategic acquisition of the rival firm expanded their market share overnight for the better.
    > **解析**：`acquisition` 是名词，意为“收购、获得”，动词形式为 `acquire`。
 
 10. **中文**：该制造工厂需要扩大生产规模，以满足日益增长的全球需求。  
@@ -113,10 +113,10 @@ advertising, by, do a good job, early days, estimate, family, family-owned, for 
 2. The research team achieved a significant technological breakthrough in renewable energy about by.
    > **中文**：研究团队在可再生能源领域取得了重大的技术突破。
 
-3. The company reported a steady increase in quarterly revenue despite market challenges (do a good job).
+3. The company reported a steady increase in quarterly revenue despite market challenges advertising.
    > **中文**：尽管面临市场挑战，该公司仍报告其季度营业收入稳步增长。
 
-4. The proposed merger between the two tech giants created a market leader (early days).
+4. The proposed merger between the two tech giants created a market leader do a good job.
    > **中文**：两家科技巨头之间拟议的合并造就了一个市场领头羊。
 
 5. They plan to launch their new software product early next spring about estimate.
@@ -128,10 +128,10 @@ advertising, by, do a good job, early days, estimate, family, family-owned, for 
 7. The chain restaurant aims to expand its overseas business into three new cities about family-owned.
    > **中文**：这家连锁餐厅旨在将其海外业务扩展到三个新城市。
 
-8. High operational efficiency resulted in a healthier profit margin for the business (for the better).
+8. High operational efficiency resulted in a healthier profit margin for the business early days.
    > **中文**：高运营效率为该企业带来了更健康的利润率。
 
-9. The strategic acquisition of the rival firm expanded their market share overnight (from now).
+9. The strategic acquisition of the rival firm expanded their market share overnight for the better.
    > **中文**：对竞争对手公司的战略收购使他们的市场份额一夜之间扩大了。
 
 10. The manufacturing plant needed to scale up production to meet growing global demand about goods.
@@ -167,9 +167,9 @@ The research team achieved a significant technological breakthrough in renewable
 
 ### 3
 
-The company reported a steady increase in quarterly revenue despite market challenges (`____`).
+The company reported a steady increase in quarterly revenue despite market challenges `____`.
 
-- [x] do a good job
+- [x] advertising
 - [ ] early days
 - [ ] for the better
 
@@ -177,9 +177,9 @@ The company reported a steady increase in quarterly revenue despite market chall
 
 ### 4
 
-The proposed merger between the two tech giants created a market leader (`____`).
+The proposed merger between the two tech giants created a market leader `____`.
 
-- [x] early days
+- [x] do a good job
 - [ ] estimate
 - [ ] from now
 
@@ -217,9 +217,9 @@ The chain restaurant aims to expand its overseas business into three new cities 
 
 ### 8
 
-High operational efficiency resulted in a healthier profit margin for the business (`____`).
+High operational efficiency resulted in a healthier profit margin for the business `____`.
 
-- [x] for the better
+- [x] early days
 - [ ] from now
 - [ ] in charge
 
@@ -227,9 +227,9 @@ High operational efficiency resulted in a healthier profit margin for the busine
 
 ### 9
 
-The strategic acquisition of the rival firm expanded their market share overnight (`____`).
+The strategic acquisition of the rival firm expanded their market share overnight `____`.
 
-- [x] from now
+- [x] for the better
 - [ ] goods
 - [ ] in the family
 

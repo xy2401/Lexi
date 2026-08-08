@@ -80,7 +80,7 @@ could you let me know / do you happen to / if I may ask 是三种不同程度的
 <quiz-sentence-builder>
 
 1. **中文**：求职者希望在签订合同前协商更高的起薪。  
-   **英文**：The candidate wants to negotiate a higher starting salary before signing the contract (at this point).
+   **英文**：The candidate wants to negotiate a higher starting salary before signing the contract.
    > **解析**：`negotiate` 作动词，意为“谈判、协商”，后接宾语 `a higher starting salary`。
 
 2. **中文**：加班的员工将获得额外的报酬。  
@@ -100,15 +100,15 @@ could you let me know / do you happen to / if I may ask 是三种不同程度的
    > **解析**：`could you let me know...` 是极具礼貌性的职场询问句型。
 
 6. **中文**：如果您不介意我问的话，您目前的薪资范围是多少？  
-   **英文**：If you don't mind me asking, what is your current salary range? (could you let me know).
+   **英文**：If you don't mind me asking, what is your current salary range?
    > **解析**：`if you don't mind me asking` 是极有礼貌的插入短语，用于提出私密问题前。
 
 7. **中文**：我们正在探讨该岗位远程办公的可能性。  
-   **英文**：We are exploring the possibility of remote work for this position (do you happen to).
+   **英文**：We are exploring the possibility of remote work for this position.
    > **解析**：`possibility` 是名词，意为“可能性”，搭配 `the possibility of sth`。
 
 8. **中文**：努力与坚持最终会在你的职业生涯中得到回报。  
-   **英文**：Hard work and persistence will eventually pay off in your career (do you have any idea).
+   **英文**：Hard work and persistence will eventually pay off in your career.
    > **解析**：`pay off` 是不及物短语动词，意为“得到回报、取得成功”。
 
 9. **中文**：两位应聘者都不具备该岗位所需的准确经验。  
@@ -116,14 +116,14 @@ could you let me know / do you happen to / if I may ask 是三种不同程度的
    > **解析**：`neither of + 复数名词` 意为“两者都不”，表双重否定。
 
 10. **中文**：请在周五下午5点前提交您更新后的简历。  
-   **英文**：Please submit your updated resume before 5 PM on Friday (either of).
+   **英文**：Please submit your updated resume before 5 PM on Friday.
    > **解析**：`submit` 是及物动词，意为“提交、呈递”，宾语为 `your updated resume`。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The candidate wants to negotiate a higher starting salary before signing the contract (at this point).
+1. The candidate wants to negotiate a higher starting salary before signing the contract.
    > **中文**：求职者希望在签订合同前协商更高的起薪。
 
 2. Employees who work overtime will receive additional compensation.
@@ -138,19 +138,19 @@ could you let me know / do you happen to / if I may ask 是三种不同程度的
 5. Could you let me know your availability for an interview next week.
    > **中文**：您能否告知我您下周参加面试的方便时间？
 
-6. If you don't mind me asking, what is your current salary range? (could you let me know).
+6. If you don't mind me asking, what is your current salary range?
    > **中文**：如果您不介意我问的话，您目前的薪资范围是多少？
 
-7. We are exploring the possibility of remote work for this position (do you happen to).
+7. We are exploring the possibility of remote work for this position.
    > **中文**：我们正在探讨该岗位远程办公的可能性。
 
-8. Hard work and persistence will eventually pay off in your career (do you have any idea).
+8. Hard work and persistence will eventually pay off in your career.
    > **中文**：努力与坚持最终会在你的职业生涯中得到回报。
 
 9. Neither of the applicants had the exact experience required for the job.
    > **中文**：两位应聘者都不具备该岗位所需的准确经验。
 
-10. Please submit your updated resume before 5 PM on Friday (either of).
+10. Please submit your updated resume before 5 PM on Friday.
    > **中文**：请在周五下午5点前提交您更新后的简历。
 
 </quiz-listening>
@@ -163,11 +163,11 @@ could you let me know / do you happen to / if I may ask 是三种不同程度的
 
 ### 1
 
-The candidate wants to negotiate a higher starting salary before signing the contract (`____`).
+The candidate wants to `____` a higher starting salary before signing the contract.
 
-- [x] at this point
-- [ ] brief
-- [ ] could you let me know
+- [x] negotiate
+- [ ] at this point
+- [ ] contribute
 
 > **解析**：`negotiate` 作动词，意为“谈判、协商”，后接宾语 `a higher starting salary`。
 
@@ -193,9 +193,9 @@ She is eager to `____` her technical skills to the new development team.
 
 ### 4
 
-At this point, we cannot make any promises about promotions about `____`.
+`____`, we cannot make any promises about promotions about brief.
 
-- [x] brief
+- [x] at this point
 - [ ] contribute
 - [ ] duty
 
@@ -213,7 +213,7 @@ At this point, we cannot make any promises about promotions about `____`.
 
 ### 6
 
-`____`, what is your current salary range? (could you let me know).
+`____`, what is your current salary range?
 
 - [x] if you don't mind me asking
 - [ ] could you let me know
@@ -223,21 +223,21 @@ At this point, we cannot make any promises about promotions about `____`.
 
 ### 7
 
-We are exploring the possibility of remote work for this position (`____`).
+We are exploring the `____` of remote work for this position.
 
-- [x] do you happen to
-- [ ] do you have any idea
-- [ ] if I may ask
+- [x] possibility
+- [ ] do you happen to
+- [ ] enter
 
 > **解析**：`possibility` 是名词，意为“可能性”，搭配 `the possibility of sth`。
 
 ### 8
 
-Hard work and persistence will eventually pay off in your career (`____`).
+Hard work and persistence will eventually `____` in your career.
 
-- [x] do you have any idea
-- [ ] duty
-- [ ] if you don't mind me asking
+- [x] pay off
+- [ ] do you have any idea
+- [ ] if I may ask
 
 > **解析**：`pay off` 是不及物短语动词，意为“得到回报、取得成功”。
 
@@ -253,7 +253,7 @@ N`____` the applicants had the exact experience required for the job.
 
 ### 10
 
-Please `____` your updated resume before 5 PM on Friday (either of).
+Please `____` your updated resume before 5 PM on Friday.
 
 - [x] submit
 - [ ] either of

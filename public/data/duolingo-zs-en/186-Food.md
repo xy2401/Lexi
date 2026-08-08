@@ -76,7 +76,7 @@ alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit,
    > **解析**：diet 名词，意为“日常饮食”，短语 a balanced diet 意为“均衡饮食”。
 
 7. **中文**：服务员用闪利的餐具把餐桌摆得干干净净。  
-   **英文**：The server set the table neatly with shiny cutlery and silverware (he would).
+   **英文**：The server set the table neatly with shiny cutlery and silverware.
    > **解析**：silverware 不可数名词，意为“银餐具；餐具”（美式），含刀叉匙等。
 
 8. **中文**：我们累得不想做饭，所以晚餐点了中国外卖。  
@@ -88,7 +88,7 @@ alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit,
    > **解析**：choice 名词，意为“选择；挑选”，a wide choice of ... 表示“丰富多样选择的……”。
 
 10. **中文**：这款果汁宾治是不含酒精的，所以孩子们可以随意饮用。  
-   **英文**：This fruit punch is non-alcoholic, so kids can enjoy it freely (little bit).
+   **英文**：This fruit punch is non-alcoholic, so kids can enjoy it freely.
    > **解析**：alcoholic 形容词，意为“含酒精的”，前缀 non- 构成 non-alcoholic（不含酒精的）。
 
 </quiz-sentence-builder>
@@ -113,7 +113,7 @@ alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit,
 6. Maintaining a balanced diet with lots of vegetables is good.
    > **中文**：保持包含大量蔬菜的均衡饮食对健康有益。
 
-7. The server set the table neatly with shiny cutlery and silverware (he would).
+7. The server set the table neatly with shiny cutlery and silverware.
    > **中文**：服务员用闪利的餐具把餐桌摆得干干净净。
 
 8. We were too tired to cook, so we ordered Chinese takeout.
@@ -122,7 +122,7 @@ alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit,
 9. The restaurant offers a wide choice of fresh salads and desserts.
    > **中文**：这家餐厅提供丰富的新鲜沙拉和甜点选择。
 
-10. This fruit punch is non-alcoholic, so kids can enjoy it freely (little bit).
+10. This fruit punch is non-alcoholic, so kids can enjoy it freely.
    > **中文**：这款果汁宾治是不含酒精的，所以孩子们可以随意饮用。
 
 </quiz-listening>
@@ -195,11 +195,11 @@ Maintaining a balanced `____` with lots of vegetables is good.
 
 ### 7
 
-The server set the table neatly with shiny cutlery and silverware (`____`).
+The server set the table neatly with shiny cutlery and `____`.
 
-- [x] he would
-- [ ] he'd
-- [ ] rather
+- [x] silverware
+- [ ] he would
+- [ ] peach
 
 > **解析**：silverware 不可数名词，意为“银餐具；餐具”（美式），含刀叉匙等。
 
@@ -225,7 +225,7 @@ The restaurant offers a wide `____` of fresh salads and desserts.
 
 ### 10
 
-This fruit punch is non-`____`, so kids can enjoy it freely (little bit).
+This fruit punch is non-`____`, so kids can enjoy it freely.
 
 - [x] alcoholic
 - [ ] peach

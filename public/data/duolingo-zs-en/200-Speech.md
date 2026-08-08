@@ -74,11 +74,11 @@ lead → led 是不规则动词变化。approximate / approximately, kind / unki
    > **解析**：promise 可数名词/动词，在此作名词意为“承诺；诺言”。
 
 6. **中文**：主旨演讲人分享了克服逆境的感人故事。  
-   **英文**：The keynote speaker shared inspiring stories about overcoming adversity (by the time).
+   **英文**：The keynote speaker shared inspiring stories about overcoming adversity.
    > **解析**：speaker 可数名词，意为“演讲者；发言人”。
 
 7. **中文**：我们期待在专题讨论环节听取您的真知灼见。  
-   **英文**：We look forward to hearing your insights during the panel discussion (in fact).
+   **英文**：We look forward to hearing your insights during the panel discussion.
    > **解析**：look forward to 动词短语，意为“期待；盼望”，介词 to 后接名词或动名词（doing）。
 
 8. **中文**：到演讲结束时，观众们都起立鼓掌。  
@@ -112,10 +112,10 @@ lead → led 是不规则动词变化。approximate / approximately, kind / unki
 5. He kept his promise to mentor young students during his speech.
    > **中文**：他在演讲中履行了指导青年学生的承诺。
 
-6. The keynote speaker shared inspiring stories about overcoming adversity (by the time).
+6. The keynote speaker shared inspiring stories about overcoming adversity.
    > **中文**：主旨演讲人分享了克服逆境的感人故事。
 
-7. We look forward to hearing your insights during the panel discussion (in fact).
+7. We look forward to hearing your insights during the panel discussion.
    > **中文**：我们期待在专题讨论环节听取您的真知灼见。
 
 8. By the time the speech ended, the audience was standing and clapping about approximate.
@@ -187,21 +187,21 @@ He kept his `____` to mentor young students during his speech.
 
 ### 6
 
-The keynote speaker shared inspiring stories about overcoming adversity (`____`).
+The keynote `____` shared inspiring stories about overcoming adversity.
 
-- [x] by the time
-- [ ] in fact
-- [ ] led
+- [x] speaker
+- [ ] by the time
+- [ ] lead
 
 > **解析**：speaker 可数名词，意为“演讲者；发言人”。
 
 ### 7
 
-We look forward to hearing your insights during the panel discussion (`____`).
+We `____` hearing your insights during the panel discussion.
 
-- [x] in fact
-- [ ] kind
-- [ ] look forward to
+- [x] look forward to
+- [ ] in fact
+- [ ] led
 
 > **解析**：look forward to 动词短语，意为“期待；盼望”，介词 to 后接名词或动名词（doing）。
 

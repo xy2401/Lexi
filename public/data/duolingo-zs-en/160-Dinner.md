@@ -78,11 +78,11 @@ for here or to go 是美式点餐用语。send back = 退回（食物）。
    > **解析**：my treat 为固定口语表达，意为“我请客/由我买单”，常用于餐馆结账场合。
 
 5. **中文**：你能把这碗汤退回厨房吗，因为汤完全凉了。  
-   **英文**：Could you send this soup back to the kitchen, as it is completely cold? (eat out).
+   **英文**：Could you send this soup back to the kitchen, as it is completely cold?
    > **解析**：send 为动词，意为“发送、送回”。send sth. back 意为“退回/送回”。
 
 6. **中文**：我更喜欢清淡的菜肴，因为我吃不了太辣的食物。  
-   **英文**：I prefer mild dishes because I cannot eat very spicy food (for here or to go).
+   **英文**：I prefer mild dishes because I cannot eat very spicy food.
    > **解析**：spicy 为形容词，意为“辛辣的、加调味品的”，常修饰 food, curry, dish。
 
 7. **中文**：大厨添加了新鲜香草，使汤尝起来浓郁美味。  
@@ -117,10 +117,10 @@ for here or to go 是美式点餐用语。send back = 退回（食物）。
 4. Put your wallet away; tonight's dinner is my treat.
    > **中文**：把钱包收起来；今晚的晚饭我请客！
 
-5. Could you send this soup back to the kitchen, as it is completely cold? (eat out).
+5. Could you send this soup back to the kitchen, as it is completely cold?
    > **中文**：你能把这碗汤退回厨房吗，因为汤完全凉了。
 
-6. I prefer mild dishes because I cannot eat very spicy food (for here or to go).
+6. I prefer mild dishes because I cannot eat very spicy food.
    > **中文**：我更喜欢清淡的菜肴，因为我吃不了太辣的食物。
 
 7. The chef added fresh herbs to make the soup taste rich and delicious.
@@ -185,7 +185,7 @@ Put your wallet away; tonight's dinner is `____`.
 
 ### 5
 
-Could you `____` this soup back to the kitchen, as it is completely cold? (eat out).
+Could you `____` this soup back to the kitchen, as it is completely cold?
 
 - [x] send
 - [ ] eat out
@@ -195,11 +195,11 @@ Could you `____` this soup back to the kitchen, as it is completely cold? (eat o
 
 ### 6
 
-I prefer mild dishes because I cannot eat very spicy food (`____`).
+I prefer mild dishes because I cannot eat very `____` food.
 
-- [x] for here or to go
-- [ ] get
-- [ ] here is
+- [x] spicy
+- [ ] for here or to go
+- [ ] herb
 
 > **解析**：spicy 为形容词，意为“辛辣的、加调味品的”，常修饰 food, curry, dish。
 

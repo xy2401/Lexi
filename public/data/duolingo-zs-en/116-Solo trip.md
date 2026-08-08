@@ -86,7 +86,7 @@ on the other hand 表示"另一方面"（用于对比）。farther / farthest �
    > **解析**：reserve 作及物动词，意为“预订，保留”。reserve a room 意为“订房间”。
 
 7. **中文**：我们乘坐免费的酒店接驳车直接从机场到达房间。  
-   **英文**：We took the complimentary hotel shuttle from the airport directly to our room (for the first time).
+   **英文**：We took the complimentary hotel shuttle from the airport directly to our room.
    > **解析**：shuttle (shuttle bus) 作名词，意为“接驳车，班车”。
 
 8. **中文**：我们决定沿着海滩走得更远一些，寻找一块安宁的地方。  
@@ -123,7 +123,7 @@ on the other hand 表示"另一方面"（用于对比）。farther / farthest �
 6. It is wise to reserve your hotel room in advance during peak season.
    > **中文**：在旅游旺季提前预订酒店房间是明智之举。
 
-7. We took the complimentary hotel shuttle from the airport directly to our room (for the first time).
+7. We took the complimentary hotel shuttle from the airport directly to our room.
    > **中文**：我们乘坐免费的酒店接驳车直接从机场到达房间。
 
 8. We decided to walk farther down the beach to find a peaceful spot.
@@ -205,11 +205,11 @@ It is wise to `____` your hotel room in advance during peak season.
 
 ### 7
 
-We took the complimentary hotel shuttle from the airport directly to our room (`____`).
+We took the complimentary hotel `____` from the airport directly to our room.
 
-- [x] for the first time
-- [ ] homesick
-- [ ] like best
+- [x] shuttle
+- [ ] for the first time
+- [ ] let
 
 > **解析**：shuttle (shuttle bus) 作名词，意为“接驳车，班车”。
 

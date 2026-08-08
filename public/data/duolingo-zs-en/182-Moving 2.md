@@ -64,7 +64,7 @@ across, antique, basement, coffee table, compare, damage, did, do, does, don't, 
    > **解析**：ground floor 名词短语，指“建筑物的第一层/地面层”，介词用 on（on the ground floor）。
 
 4. **中文**：搬家卡车大清早抵达，卸下我们的家具。  
-   **英文**：The moving truck arrived early in the morning to unload our furniture (coffee table).
+   **英文**：The moving truck arrived early in the morning to unload our furniture.
    > **解析**：moving truck 名词短语，意为“搬家卡车/货车”，moving 为动名词作定语修饰 truck。
 
 5. **中文**：我们的房产中介带我们看了安静社区里的三栋宽敞房子。  
@@ -104,7 +104,7 @@ across, antique, basement, coffee table, compare, damage, did, do, does, don't, 
 3. My grandparents prefer living on the ground floor to avoid taking stairs.
    > **中文**：我的祖父母更喜欢住在地面层（一楼），以避免爬楼梯。
 
-4. The moving truck arrived early in the morning to unload our furniture (coffee table).
+4. The moving truck arrived early in the morning to unload our furniture.
    > **中文**：搬家卡车大清早抵达，卸下我们的家具。
 
 5. Our real estate agent showed us three spacious houses in a quiet area.
@@ -165,11 +165,11 @@ My grandparents prefer living on the `____` to avoid taking stairs.
 
 ### 4
 
-The moving truck arrived early in the morning to unload our furniture (`____`).
+The `____` arrived early in the morning to unload our furniture.
 
-- [x] coffee table
-- [ ] compare
-- [ ] does
+- [x] moving truck
+- [ ] coffee table
+- [ ] do
 
 > **解析**：moving truck 名词短语，意为“搬家卡车/货车”，moving 为动名词作定语修饰 truck。
 

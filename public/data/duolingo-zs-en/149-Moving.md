@@ -62,7 +62,7 @@ get rid of = 处理掉/扔掉。break down = 出故障。
 <quiz-sentence-builder>
 
 1. **中文**：在搬到一个较小的公寓之前，我们必须处理掉不想要的家具。  
-   **英文**：Before moving to a smaller apartment, we must get rid of unwanted furniture (air conditioning).
+   **英文**：Before moving to a smaller apartment, we must get rid of unwanted furniture.
    > **解析**：get rid of 为固定动词短语，意为“处理掉、摆脱、扔掉”。后接名词或动名词（unwanted furniture）。
 
 2. **中文**：住在地铁站附近使得日常通勤方便得多。  
@@ -78,7 +78,7 @@ get rid of = 处理掉/扔掉。break down = 出故障。
    > **解析**：air conditioning 为不可数名词短语，意为“空调”。central air conditioning 表示“中央空调”。
 
 5. **中文**：搬家后，拥有一个可以在里面玩耍的大后院让孩子们非常激动。  
-   **英文**：The children were thrilled to have a big backyard to play in after moving house (break down).
+   **英文**：The children were thrilled to have a big backyard to play in after moving house.
    > **解析**：backyard 为名词，意为“后院”。thrilled 意为“非常激动/欣喜的”。
 
 6. **中文**：我们聘请了一位室内设计师来帮我们装饰客厅的墙壁。  
@@ -94,7 +94,7 @@ get rid of = 处理掉/扔掉。break down = 出故障。
    > **解析**：break down 为动词短语，意为“（机械/车辆）故障、损坏”。
 
 9. **中文**：把所有的塑料瓶和纸板箱放进蓝色回收箱里。  
-   **英文**：Put all plastic bottles and cardboard boxes into the blue recycling bin (get rid of).
+   **英文**：Put all plastic bottles and cardboard boxes into the blue recycling bin.
    > **解析**：recycling 在句中作定语修饰 bin，recycling bin 表示“垃圾回收箱”。recycling 为不可数名词，意为“回收利用”。
 
 10. **中文**：翻新后的浴室配有一个深白色的浴缸，供人洗放松的温水澡。  
@@ -105,7 +105,7 @@ get rid of = 处理掉/扔掉。break down = 出故障。
 
 <quiz-listening>
 
-1. Before moving to a smaller apartment, we must get rid of unwanted furniture (air conditioning).
+1. Before moving to a smaller apartment, we must get rid of unwanted furniture.
    > **中文**：在搬到一个较小的公寓之前，我们必须处理掉不想要的家具。
 
 2. Living near a subway station makes daily commuting much more convenient.
@@ -117,7 +117,7 @@ get rid of = 处理掉/扔掉。break down = 出故障。
 4. The new apartment has central air conditioning that keeps the rooms cool in summer about alarm.
    > **中文**：这套新公寓配有中央空调，在夏天能保持房间凉爽。
 
-5. The children were thrilled to have a big backyard to play in after moving house (break down).
+5. The children were thrilled to have a big backyard to play in after moving house.
    > **中文**：搬家后，拥有一个可以在里面玩耍的大后院让孩子们非常激动。
 
 6. We hired an interior designer to help us decorate the living room walls.
@@ -129,7 +129,7 @@ get rid of = 处理掉/扔掉。break down = 出故障。
 8. Old washing machines often break down after years of heavy use.
    > **中文**：旧洗衣机在经过多年高强度使用后往往会发生故障。
 
-9. Put all plastic bottles and cardboard boxes into the blue recycling bin (get rid of).
+9. Put all plastic bottles and cardboard boxes into the blue recycling bin.
    > **中文**：把所有的塑料瓶和纸板箱放进蓝色回收箱里。
 
 10. The renovated bathroom features a deep white bathtub for relaxing warm baths.
@@ -145,11 +145,11 @@ get rid of = 处理掉/扔掉。break down = 出故障。
 
 ### 1
 
-Before moving to a smaller apartment, we must get rid of unwanted furniture (`____`).
+Before moving to a smaller apartment, we must `____` unwanted furniture.
 
-- [x] air conditioning
-- [ ] alarm
-- [ ] control
+- [x] get rid of
+- [ ] air conditioning
+- [ ] break down
 
 > **解析**：get rid of 为固定动词短语，意为“处理掉、摆脱、扔掉”。后接名词或动名词（unwanted furniture）。
 
@@ -175,9 +175,9 @@ Pack your `____` items such as jewelry and official documents in your carry-on b
 
 ### 4
 
-The new apartment has central air conditioning that keeps the rooms cool in summer about `____`.
+The new apartment has central `____` that keeps the rooms cool in summer about alarm.
 
-- [x] alarm
+- [x] air conditioning
 - [ ] break down
 - [ ] get rid of
 
@@ -185,7 +185,7 @@ The new apartment has central air conditioning that keeps the rooms cool in summ
 
 ### 5
 
-The children were thrilled to have a big `____` to play in after moving house (break down).
+The children were thrilled to have a big `____` to play in after moving house.
 
 - [x] backyard
 - [ ] control
@@ -205,11 +205,11 @@ We hired an interior designer to help us `____` the living room walls.
 
 ### 7
 
-Check the battery of every `____` in the house to ensure family safety.
+Check the battery of every smoke `____` in the house to ensure family safety.
 
-- [x] smoke alarm
-- [ ] convenient
-- [ ] lock
+- [x] alarm
+- [ ] decorate
+- [ ] mail
 
 > **解析**：smoke alarm 为名词短语，意为“烟雾报警器、感烟探测器”。ensure safety 表示“确保安全”。
 
@@ -225,11 +225,11 @@ Old washing machines often `____` after years of heavy use.
 
 ### 9
 
-Put all plastic bottles and cardboard boxes into the blue recycling bin (`____`).
+Put all plastic bottles and cardboard boxes into the blue `____` bin.
 
-- [x] get rid of
-- [ ] grill
-- [ ] move
+- [x] recycling
+- [ ] get rid of
+- [ ] make
 
 > **解析**：recycling 在句中作定语修饰 bin，recycling bin 表示“垃圾回收箱”。recycling 为不可数名词，意为“回收利用”。
 

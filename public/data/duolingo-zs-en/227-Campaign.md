@@ -68,7 +68,7 @@ bill, by then, campaign, candidate, elect, furthermore, going to be, opponent, p
    > **解析**：`bill` 在政治与法律情境中指“法案；议案”。搭配 `pass a bill`（通过法案）。
 
 2. **中文**：每位总统候选人都在电视辩论中阐述了自己的政策纲领。  
-   **英文**：Each presidential candidate presented their policy platform during the televised debate (by then).
+   **英文**：Each presidential candidate presented their policy platform during the televised debate.
    > **解析**：`candidate` 可数名词，意为“候选人；应试者”。
 
 3. **中文**：她在发表胜利演讲前与她的主要政治对手握手。  
@@ -88,7 +88,7 @@ bill, by then, campaign, candidate, elect, furthermore, going to be, opponent, p
    > **解析**：`will be` 为一般将来时结构，表示将来发生的动作或状态。
 
 7. **中文**：没有公众支持，该候选人将没有足够的选票来确保胜利。  
-   **英文**：Without public support, the candidate won't have enough votes to secure victory (going to be).
+   **英文**：Without public support, the candidate won't have enough votes to secure victory.
    > **解析**：`won't have` 为 `will not have` 的缩略形式，表将来否定的持有状态。
 
 8. **中文**：选举结果将于今晚公布，到那时每个人都会知道赢家是谁。  
@@ -110,7 +110,7 @@ bill, by then, campaign, candidate, elect, furthermore, going to be, opponent, p
 1. Parliament voted to pass the new environmental protection bill yesterday afternoon.
    > **中文**：议会昨天下午投票通过了这项新的环境保护法案。
 
-2. Each presidential candidate presented their policy platform during the televised debate (by then).
+2. Each presidential candidate presented their policy platform during the televised debate.
    > **中文**：每位总统候选人都在电视辩论中阐述了自己的政策纲领。
 
 3. She shook hands with her main political opponent before delivering her victory speech.
@@ -125,7 +125,7 @@ bill, by then, campaign, candidate, elect, furthermore, going to be, opponent, p
 6. By the end of this campaign, our party will be ready to implement major tax reforms.
    > **中文**：到这次竞选活动结束时，我们党将准备好实施重大税收改革。
 
-7. Without public support, the candidate won't have enough votes to secure victory (going to be).
+7. Without public support, the candidate won't have enough votes to secure victory.
    > **中文**：没有公众支持，该候选人将没有足够的选票来确保胜利。
 
 8. The election results will be announced tonight, and by then everyone will know the winner.
@@ -157,10 +157,10 @@ Parliament voted to pass the new environmental protection `____` yesterday after
 
 ### 2
 
-Each presidential candidate presented their policy platform during the televised debate (`____`).
+Each presidential `____` presented their policy platform during the televised debate.
 
-- [x] by then
-- [ ] campaign
+- [x] candidate
+- [ ] by then
 - [ ] going to be
 
 > **解析**：`candidate` 可数名词，意为“候选人；应试者”。
@@ -207,19 +207,19 @@ By the end of this campaign, our party `____` ready to implement major tax refor
 
 ### 7
 
-Without public support, the `____` won't have enough votes to secure victory (going to be).
+Without public support, the candidate `____` enough votes to secure victory.
 
-- [x] candidate
-- [ ] opponent
-- [ ] representative
+- [x] won't have
+- [ ] going to be
+- [ ] regarding
 
 > **解析**：`won't have` 为 `will not have` 的缩略形式，表将来否定的持有状态。
 
 ### 8
 
-The `____`ion results will be announced tonight, and by then everyone will know the winner.
+The election results will be announced tonight, and `____` everyone will know the winner.
 
-- [x] elect
+- [x] by then
 - [ ] pass
 - [ ] right
 

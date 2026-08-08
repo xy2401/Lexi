@@ -62,7 +62,7 @@ had / hadn't 提示过去完成时（Had you reserved...? / I hadn't known...）
    > **解析**：`central` 形容词，意为“中央的；中心区域的”，修饰名词 `district`。
 
 3. **中文**：在飞机准备起飞时，请系紧您的安全带。  
-   **英文**：Please fasten your seatbelts securely as the plane prepares for takeoff (bed and breakfast).
+   **英文**：Please fasten your seatbelts securely as the plane prepares for takeoff.
    > **解析**：`fasten` 及物动词，意为“系紧；扣牢”。航空旅行场景中最常用于 `fasten your seatbelt`（系好安全带）。
 
 4. **中文**：请随意享用休息室里的免费点心和饮料。  
@@ -78,7 +78,7 @@ had / hadn't 提示过去完成时（Had you reserved...? / I hadn't known...）
    > **解析**：`room` 在此处用作不可数名词，意为“空间；空隙”。短语 `leg room` 特指脚部伸展空间。
 
 7. **中文**：他们在餐厅要求分开结账。  
-   **英文**：They requested separate checks for their meals at the restaurant (come out).
+   **英文**：They requested separate checks for their meals at the restaurant.
    > **解析**：`separate` 形容词，在此处读作 /ˈsɛpərət/，意为“分开的；单独的”。`separate checks` 指“各自买单/分开付账”。
 
 8. **中文**：乘客被允许携带一件随身行李登机。  
@@ -103,7 +103,7 @@ had / hadn't 提示过去完成时（Had you reserved...? / I hadn't known...）
 2. Our hotel is conveniently located in the central district near the main station.
    > **中文**：我们的酒店地理位置优越，位于靠近火车站的中心城区。
 
-3. Please fasten your seatbelts securely as the plane prepares for takeoff (bed and breakfast).
+3. Please fasten your seatbelts securely as the plane prepares for takeoff.
    > **中文**：在飞机准备起飞时，请系紧您的安全带。
 
 4. Please help yourself to the complimentary snacks and drinks in the lounge.
@@ -115,7 +115,7 @@ had / hadn't 提示过去完成时（Had you reserved...? / I hadn't known...）
 6. There is plenty of leg room in the front row of the economy cabin.
    > **中文**：经济舱前排有充裕的腿部空间。
 
-7. They requested separate checks for their meals at the restaurant (come out).
+7. They requested separate checks for their meals at the restaurant.
    > **中文**：他们在餐厅要求分开结账。
 
 8. Passengers are allowed to bring one carry-on bag aboard the flight.
@@ -157,7 +157,7 @@ Our hotel is conveniently located in the `____` district near the main station.
 
 ### 3
 
-Please fasten your seatbelts securely `____` the plane prepares for takeoff (bed and breakfast).
+Please fasten your seatbelts securely `____` the plane prepares for takeoff.
 
 - [x] as
 - [ ] carry-on
@@ -197,7 +197,7 @@ There is plenty of leg `____` in the front row of the economy cabin.
 
 ### 7
 
-They requested separate `____`s for their meals at the restaurant (come out).
+They requested separate `____`s for their meals at the restaurant.
 
 - [x] check
 - [ ] fasten

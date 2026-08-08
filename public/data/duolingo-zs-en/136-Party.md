@@ -74,7 +74,7 @@ in my opinion 表示"在我看来"。sound like / seem like / look like 表示"�
    > **解析**：sound like 为动词短语，意为“听起来像”。后接名词或名词短语（a fantastic idea）。
 
 4. **中文**：我们应当为派对菜单订购新鲜的烤虾和点心。  
-   **英文**：We should order fresh grilled shrimp and snacks for the party menu (day off).
+   **英文**：We should order fresh grilled shrimp and snacks for the party menu.
    > **解析**：shrimp 为名词，意为“虾、大虾”。grilled shrimp 表示“烤虾”。单复数形式同形或加 -s。
 
 5. **中文**：大卫因为出差不能来参加派对，真是太可惜了。  
@@ -82,7 +82,7 @@ in my opinion 表示"在我看来"。sound like / seem like / look like 表示"�
    > **解析**：too bad 为固定表达，意为“太遗憾了、太可惜了”。It is too bad that... 引导从句，表达遗憾之情。
 
 6. **中文**：我们邀请的几乎每个人都给予了积极的回应。  
-   **英文**：We received a positive response from almost everyone we invited to the event (in my opinion).
+   **英文**：We received a positive response from almost everyone we invited to the event.
    > **解析**：response 为名词，意为“回应、回复”。receive a positive response 表示“收到积极回应”。与介词 to 搭配（response to the invitation）。
 
 7. **中文**：我们需要弄清楚场地是否允许外部餐饮服务。  
@@ -114,13 +114,13 @@ in my opinion 表示"在我看来"。sound like / seem like / look like 表示"�
 3. Hawaiian beach themes sound like a fantastic idea for the party.
    > **中文**：夏威夷海滩主题听起来是个绝妙的派对主意！
 
-4. We should order fresh grilled shrimp and snacks for the party menu (day off).
+4. We should order fresh grilled shrimp and snacks for the party menu.
    > **中文**：我们应当为派对菜单订购新鲜的烤虾和点心。
 
 5. It is too bad that David cannot come to the party because of a business trip.
    > **中文**：大卫因为出差不能来参加派对，真是太可惜了。
 
-6. We received a positive response from almost everyone we invited to the event (in my opinion).
+6. We received a positive response from almost everyone we invited to the event.
    > **中文**：我们邀请的几乎每个人都给予了积极的回应。
 
 7. We need to find out whether the venue allows outside catering services.
@@ -175,7 +175,7 @@ Hawaiian beach themes `____` a fantastic idea for the party.
 
 ### 4
 
-We should order fresh grilled `____` and snacks for the party menu (day off).
+We should order fresh grilled `____` and snacks for the party menu.
 
 - [x] shrimp
 - [ ] day off
@@ -195,7 +195,7 @@ It is `____` that David cannot come to the party because of a business trip.
 
 ### 6
 
-We received a positive `____` from almost everyone we invited to the event (in my opinion).
+We received a positive `____` from almost everyone we invited to the event.
 
 - [x] response
 - [ ] in my opinion

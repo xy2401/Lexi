@@ -92,7 +92,7 @@ alien, archeologist, classified, coincidence, conclusion, convinced, couldn't, f
    > **解析**：`for the sake of argument` 是固定短语，意为“为了讨论/争论起见（假设某种前提）”。
 
 8. **中文**：尽管可能性极低，一些研究人员仍在这项稀奇的假说中进行探索。  
-   **英文**：Although it is highly improbable, some researchers still explore the strange hypothesis (for the sake of argument).
+   **英文**：Although it is highly improbable, some researchers still explore the strange hypothesis.
    > **解析**：`improbable` 是形容词，前缀 `im-` + `probable`，意为“不太可能的、不大可能发生的”。
 
 9. **中文**：埃及雄伟的金字塔继续惊艳着来自世界各地的游客。  
@@ -100,7 +100,7 @@ alien, archeologist, classified, coincidence, conclusion, convinced, couldn't, f
    > **解析**：`pyramids` 是复数名词，特指“金字塔”，作句中的主语。
 
 10. **中文**：我常常纳闷为建造这座纪念碑的工人当年的生活是什么样的。  
-   **英文**：I often wonder what life was like for the workers who constructed the monument (have been).
+   **英文**：I often wonder what life was like for the workers who constructed the monument.
    > **解析**：`wonder` 在此作动词，意为“感到好奇、想知道”，后接宾语从句。
 
 </quiz-sentence-builder>
@@ -128,13 +128,13 @@ alien, archeologist, classified, coincidence, conclusion, convinced, couldn't, f
 7. Let's assume, for the sake of argument, that the ancient map is authentic.
    > **中文**：为了讨论起见，我们假设这张古地图是真的。
 
-8. Although it is highly improbable, some researchers still explore the strange hypothesis (for the sake of argument).
+8. Although it is highly improbable, some researchers still explore the strange hypothesis.
    > **中文**：尽管可能性极低，一些研究人员仍在这项稀奇的假说中进行探索。
 
 9. The majestic pyramids of Egypt continue to amaze visitors from around the world about conclusion.
    > **中文**：埃及雄伟的金字塔继续惊艳着来自世界各地的游客。
 
-10. I often wonder what life was like for the workers who constructed the monument (have been).
+10. I often wonder what life was like for the workers who constructed the monument.
    > **中文**：我常常纳闷为建造这座纪念碑的工人当年的生活是什么样的。
 
 </quiz-listening>
@@ -217,7 +217,7 @@ Let's assume, `____`, that the ancient map is authentic.
 
 ### 8
 
-Although it is highly `____`, some researchers still explore the strange hypothesis (for the sake of argument).
+Although it is highly `____`, some researchers still explore the strange hypothesis.
 
 - [x] improbable
 - [ ] for the sake of argument
@@ -237,11 +237,11 @@ The majestic pyramids of Egypt continue to amaze visitors from around the world 
 
 ### 10
 
-I often wonder what life was like for the workers who constructed the monument (`____`).
+I often `____` what life was like for the workers who constructed the monument.
 
-- [x] have been
-- [ ] if so
-- [ ] pyramids
+- [x] wonder
+- [ ] have been
+- [ ] let's say
 
 > **解析**：`wonder` 在此作动词，意为“感到好奇、想知道”，后接宾语从句。
 

@@ -78,7 +78,7 @@ academic, accomplish, accomplishment, admirable, all worth it, benefit, can't wa
    > **解析**：`all worth it` 是习惯形容词短语，意为“一切都是值得的”，在句中作表语。
 
 5. **中文**：他是一名专注投入的学生，每个周末都在校园图书馆度过。  
-   **英文**：He was a dedicated student who spent every weekend in the campus library (all worth it).
+   **英文**：He was a dedicated student who spent every weekend in the campus library.
    > **解析**：`dedicated` 是形容词，意为“一心一意的、专注敬业的”，常用短语 `be dedicated to...`。
 
 6. **中文**：接过毕业证书激励着他保持好奇心，做一名终身学习者。  
@@ -86,7 +86,7 @@ academic, accomplish, accomplishment, admirable, all worth it, benefit, can't wa
    > **解析**：`lifelong learner` 是复合名词短语，意为“终身学习者”，由 `lifelong`（终身的）+ `learner` 构成。
 
 7. **中文**：在四年的大学时光中，她取得了卓越的学业成绩。  
-   **英文**：She achieved outstanding academic results throughout her four years of college (can't wait).
+   **英文**：She achieved outstanding academic results throughout her four years of college.
    > **解析**：`academic` 是形容词，意为“学业的、学术的”，常用短语 `academic results / achievement`。
 
 8. **中文**：边兼职工作边完成论文的撰写需要巨大的意志力。  
@@ -117,13 +117,13 @@ academic, accomplish, accomplishment, admirable, all worth it, benefit, can't wa
 4. Seeing her parents smile made all the late-night studying feel all worth it.
    > **中文**：看到父母的微笑，让所有熬夜学习的时光都变得完全值得了。
 
-5. He was a dedicated student who spent every weekend in the campus library (all worth it).
+5. He was a dedicated student who spent every weekend in the campus library.
    > **中文**：他是一名专注投入的学生，每个周末都在校园图书馆度过。
 
 6. Receiving his diploma inspired him to stay curious and remain a lifelong learner.
    > **中文**：接过毕业证书激励着他保持好奇心，做一名终身学习者。
 
-7. She achieved outstanding academic results throughout her four years of college (can't wait).
+7. She achieved outstanding academic results throughout her four years of college.
    > **中文**：在四年的大学时光中，她取得了卓越的学业成绩。
 
 8. It took immense willpower to finish writing his thesis while working part-time.
@@ -185,7 +185,7 @@ Seeing her parents smile made all the late-night studying feel `____`.
 
 ### 5
 
-He was a `____` student who spent every weekend in the campus library (all worth it).
+He was a `____` student who spent every weekend in the campus library.
 
 - [x] dedicated
 - [ ] all worth it
@@ -205,7 +205,7 @@ Receiving his diploma inspired him to stay curious and remain a lifelong `____`.
 
 ### 7
 
-She achieved outstanding `____` results throughout her four years of college (can't wait).
+She achieved outstanding `____` results throughout her four years of college.
 
 - [x] academic
 - [ ] dedicated

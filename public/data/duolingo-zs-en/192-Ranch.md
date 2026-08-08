@@ -56,11 +56,11 @@ blow away / blown 涉及风的描写——The wind blown across the flat land. H
 <quiz-sentence-builder>
 
 1. **中文**：我叔叔在蒙大拿州经营着一个拥有辽阔绿色草场的养牛农场。  
-   **英文**：My uncle runs a cattle ranch with vast green fields in Montana (blow away).
+   **英文**：My uncle runs a cattle ranch with vast green fields in Montana.
    > **解析**：ranch 可数名词，意为“（大）农场；牧场”，特指养殖牛羊等牲畜的场所。
 
 2. **中文**：牛仔在安静的河岸附近放牧着一群牛。  
-   **英文**：The cowboy grazed a herd of cattle near the quiet riverbank.
+   **英文**：The cowboy grazed a herd of cattle near the quiet riverbank blow away.
    > **解析**：cattle 集合名词，复数概念，意为“牛；牲畜”，谓语动词用复数。
 
 3. **中文**：小牛羔紧紧依偎在木制牛棚里的妈妈身边。  
@@ -99,10 +99,10 @@ blow away / blown 涉及风的描写——The wind blown across the flat land. H
 
 <quiz-listening>
 
-1. My uncle runs a cattle ranch with vast green fields in Montana (blow away).
+1. My uncle runs a cattle ranch with vast green fields in Montana.
    > **中文**：我叔叔在蒙大拿州经营着一个拥有辽阔绿色草场的养牛农场。
 
-2. The cowboy grazed a herd of cattle near the quiet riverbank.
+2. The cowboy grazed a herd of cattle near the quiet riverbank blow away.
    > **中文**：牛仔在安静的河岸附近放牧着一群牛。
 
 3. The young calf stayed close to its mother in the wooden barn.
@@ -139,20 +139,20 @@ blow away / blown 涉及风的描写——The wind blown across the flat land. H
 
 ### 1
 
-My uncle runs a cattle ranch with vast green fields in Montana (`____`).
+My uncle runs a `____` ranch with vast green fields in Montana.
 
-- [x] blow away
-- [ ] blown
-- [ ] cattle
+- [x] cattle
+- [ ] blow away
+- [ ] calves
 
 > **解析**：ranch 可数名词，意为“（大）农场；牧场”，特指养殖牛羊等牲畜的场所。
 
 ### 2
 
-The cowboy grazed a herd of `____` near the quiet riverbank.
+The cowboy grazed a herd of cattle near the quiet riverbank `____`.
 
-- [x] cattle
-- [ ] blown
+- [x] blow away
+- [ ] bull
 - [ ] countryside
 
 > **解析**：cattle 集合名词，复数概念，意为“牛；牲畜”，谓语动词用复数。

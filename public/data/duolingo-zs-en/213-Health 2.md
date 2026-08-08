@@ -58,7 +58,7 @@ seem 用来表达"看起来、似乎"（You seem tired. / It seems serious.）�
    > **解析**：`ask` 及物动词，搭配 `ask sb. for sth.` 表示“向某人寻求/索取某物”。在此处用于表达寻求医疗建议。
 
 2. **中文**：医学研究人员正在努力寻找治愈这种疾病的有效方法。  
-   **英文**：Medical researchers are working hard to find an effective cure for the disease (blood pressure).
+   **英文**：Medical researchers are working hard to find an effective cure for the disease.
    > **解析**：`cure` 可数名词，意为“治愈方法；药物”。常用搭配 `a cure for...`（针对……的治愈方案），注意介词要用 `for`。
 
 3. **中文**：均衡饮食和每天运动对你的健康非常有好处。  
@@ -78,11 +78,11 @@ seem 用来表达"看起来、似乎"（You seem tired. / It seems serious.）�
    > **解析**：`tell` 双宾语动词，搭配 `tell sb. sth.` 表示“告诉某人某事”。在医患交流中用于要求患者如实告知症状。
 
 7. **中文**：护士会在体检前称你的体重并测量你的身高。  
-   **英文**：The nurse will weigh you and measure your height before the checkup (give up).
+   **英文**：The nurse will weigh you and measure your height before the checkup.
    > **解析**：`weigh` 及物动词，意为“称……的重量”。对应名词形式为 `weight`（体重）。
 
 8. **中文**：定期运动有助于将你的血压保持在健康水平。  
-   **英文**：Regular exercise can help keep your blood pressure at a healthy level (good for you).
+   **英文**：Regular exercise can help keep your blood pressure at a healthy level.
    > **解析**：`blood pressure` 为名词短语，意为“血压”。在医学健康中常与动词 `check / measure / monitor` 连用。
 
 9. **中文**：加入当地的俱乐部是提高你整体身体素质的好方法。  
@@ -100,7 +100,7 @@ seem 用来表达"看起来、似乎"（You seem tired. / It seems serious.）�
 1. You should ask your doctor for professional advice about your persistent cough.
    > **中文**：你应该就你持续的咳嗽咨询医生的专业建议。
 
-2. Medical researchers are working hard to find an effective cure for the disease (blood pressure).
+2. Medical researchers are working hard to find an effective cure for the disease.
    > **中文**：医学研究人员正在努力寻找治愈这种疾病的有效方法。
 
 3. Eating a balanced diet and exercising daily is extremely good about cancer.
@@ -115,10 +115,10 @@ seem 用来表达"看起来、似乎"（You seem tired. / It seems serious.）�
 6. Please tell me immediately if you experience any sharp pain in your chest.
    > **中文**：如果你的胸部出现任何剧烈疼痛，请立即告诉我。
 
-7. The nurse will weigh you and measure your height before the checkup (give up).
+7. The nurse will weigh you and measure your height before the checkup.
    > **中文**：护士会在体检前称你的体重并测量你的身高。
 
-8. Regular exercise can help keep your blood pressure at a healthy level (good for you).
+8. Regular exercise can help keep your blood pressure at a healthy level.
    > **中文**：定期运动有助于将你的血压保持在健康水平。
 
 9. Joining a local club is a great way to improve your overall fitness.
@@ -147,10 +147,10 @@ You should `____` your doctor for professional advice about your persistent coug
 
 ### 2
 
-Medical researchers are working hard to find an effective cure for the disease (`____`).
+Medical researchers are working hard to find an effective `____` for the disease.
 
-- [x] blood pressure
-- [ ] cancer
+- [x] cure
+- [ ] blood pressure
 - [ ] give up
 
 > **解析**：`cure` 可数名词，意为“治愈方法；药物”。常用搭配 `a cure for...`（针对……的治愈方案），注意介词要用 `for`。
@@ -197,19 +197,19 @@ Please `____` me immediately if you experience any sharp pain in your chest.
 
 ### 7
 
-The nurse will weigh you and measure your height before the checkup (`____`).
+The nurse will `____` you and measure your height before the checkup.
 
-- [x] give up
-- [ ] good for you
-- [ ] liquid
+- [x] weigh
+- [ ] give up
+- [ ] into
 
 > **解析**：`weigh` 及物动词，意为“称……的重量”。对应名词形式为 `weight`（体重）。
 
 ### 8
 
-Regular exercise can help keep your blood pressure at a healthy level (`____`).
+Regular exercise can help keep your `____` at a healthy level.
 
-- [x] good for you
+- [x] blood pressure
 - [ ] healthcare
 - [ ] not
 

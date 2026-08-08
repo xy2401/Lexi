@@ -72,7 +72,7 @@ all over the place, allowance, any chance, arrange, bedtime, cardboard, clear th
    > **解析**：`arrange` 及物动词，意为“安排；排列”。搭配 `arrange sth. in order`（按顺序排列某物）。
 
 3. **中文**：我们需要赶快打扫客厅，因为今天晚上我们家里有客人来。  
-   **英文**：We need to clean the living room quickly because we are having company over tonight (any chance).
+   **英文**：We need to clean the living room quickly because we are having company over tonight.
    > **解析**：`company` 在此处为不可数名词，意为“客人；陪伴”。短语 `have company over`（有客人来访）。
 
 4. **中文**：我家里的老人们/双亲这周末要来拜访我们，帮我们搭建新的花园棚子。  
@@ -88,7 +88,7 @@ all over the place, allowance, any chance, arrange, bedtime, cardboard, clear th
    > **解析**：`oops` 感叹词，意为“哎呀！糟糕！”，用于对小意外或无心之失表示惊叹。
 
 7. **中文**：所有洗净的餐具都应该被放回厨房最上层的柜子里。  
-   **英文**：All the cleaned dishes should be placed back into the top kitchen cabinet (clear the table).
+   **英文**：All the cleaned dishes should be placed back into the top kitchen cabinet.
    > **解析**：`should be + 过去分词` 表示被动语态指令或推测（意为“应当被……”）。
 
 8. **中文**：孩子们通过完成日常家务劳动来赚取每周的零花钱。  
@@ -96,7 +96,7 @@ all over the place, allowance, any chance, arrange, bedtime, cardboard, clear th
    > **解析**：`allowance` 可数名词，意为“津贴；零花钱”。短语 `weekly allowance`（每周零用钱）。
 
 9. **中文**：在把所有空纸板箱扔进回收桶之前，先把它们压平。  
-   **英文**：Flatten all the empty cardboard boxes before dropping them into the recycling bin (depend on).
+   **英文**：Flatten all the empty cardboard boxes before dropping them into the recycling bin.
    > **解析**：`cardboard` 不可数名词/形容词修饰语，意为“纸板；硬纸板”。`cardboard box`（纸箱）。
 
 10. **中文**：这项家务要花多长时间取决于有多少人帮忙。  
@@ -113,7 +113,7 @@ all over the place, allowance, any chance, arrange, bedtime, cardboard, clear th
 2. Can you help me arrange these files in chronological order.
    > **中文**：你能帮我把这些文件按时间顺序排列好吗？
 
-3. We need to clean the living room quickly because we are having company over tonight (any chance).
+3. We need to clean the living room quickly because we are having company over tonight.
    > **中文**：我们需要赶快打扫客厅，因为今天晚上我们家里有客人来。
 
 4. My folks are visiting us this weekend to help set up the new garden shed.
@@ -125,13 +125,13 @@ all over the place, allowance, any chance, arrange, bedtime, cardboard, clear th
 6. Oops! I accidentally spilled a few drops of coffee on the fresh tablecloth.
    > **中文**：哎呀！我我不小心把几滴咖啡溅到了干净的桌布上。
 
-7. All the cleaned dishes should be placed back into the top kitchen cabinet (clear the table).
+7. All the cleaned dishes should be placed back into the top kitchen cabinet.
    > **中文**：所有洗净的餐具都应该被放回厨房最上层的柜子里。
 
 8. The children earn a weekly allowance by completing their daily household chores.
    > **中文**：孩子们通过完成日常家务劳动来赚取每周的零花钱。
 
-9. Flatten all the empty cardboard boxes before dropping them into the recycling bin (depend on).
+9. Flatten all the empty cardboard boxes before dropping them into the recycling bin.
    > **中文**：在把所有空纸板箱扔进回收桶之前，先把它们压平。
 
 10. How long the chore takes will depend on how many people help out.
@@ -167,11 +167,11 @@ Can you help me `____` these files in chronological order.
 
 ### 3
 
-We need to clean the living room quickly because we are having company over tonight (`____`).
+We need to clean the living room quickly because we are having `____` over tonight.
 
-- [x] any chance
-- [ ] arrange
-- [ ] company
+- [x] company
+- [ ] any chance
+- [ ] clear the table
 
 > **解析**：`company` 在此处为不可数名词，意为“客人；陪伴”。短语 `have company over`（有客人来访）。
 
@@ -207,11 +207,11 @@ Your main duty for this morning `____` double check all incoming packages.
 
 ### 7
 
-All the cleaned dishes should be placed back into the top kitchen cabinet (`____`).
+All the cleaned dishes should be `____`d back into the top kitchen cabinet.
 
-- [x] clear the table
-- [ ] company
-- [ ] get
+- [x] place
+- [ ] clear the table
+- [ ] folks
 
 > **解析**：`should be + 过去分词` 表示被动语态指令或推测（意为“应当被……”）。
 
@@ -227,7 +227,7 @@ The children earn a weekly `____` by completing their daily household chores.
 
 ### 9
 
-Flatten all the empty `____` boxes before dropping them into the recycling bin (depend on).
+Flatten all the empty `____` boxes before dropping them into the recycling bin.
 
 - [x] cardboard
 - [ ] errand

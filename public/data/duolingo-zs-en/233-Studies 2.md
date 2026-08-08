@@ -66,7 +66,7 @@ correct, do you know what i mean, experiment, faculty, feedback, follow, get thr
    > **解析**：`correct` 形容词，意为“正确的；无误的”。
 
 2. **中文**：她作为哲学助理教授加入了学术教职人员队伍。  
-   **英文**：She joined the academic faculty as an assistant professor of philosophy (do you know what i mean).
+   **英文**：She joined the academic faculty as an assistant professor of philosophy.
    > **解析**：`faculty` 集合名词，意为“（大学的）全体教员；学院/系”。
 
 3. **中文**：在开始新话题之前，让我们温习/复习一下昨天讲座要点。  
@@ -86,7 +86,7 @@ correct, do you know what i mean, experiment, faculty, feedback, follow, get thr
    > **解析**：`senior` 在美国大学/高中里指“大四学生/高三学生”（四年级学生）。
 
 7. **中文**：他花了八个月时间为他的博士论文进行田野调查。  
-   **英文**：He spent eight months conducting field research for his doctoral thesis (get through).
+   **英文**：He spent eight months conducting field research for his doctoral thesis.
    > **解析**：`thesis` 可数名词，意为“毕业论文；学位论文”，复数形式为 `theses`。
 
 8. **中文**：学术写作需要严密的逻辑而不是情绪化的语言，你明白我的意思吗？  
@@ -94,7 +94,7 @@ correct, do you know what i mean, experiment, faculty, feedback, follow, get thr
    > **解析**：`do you know what I mean?` 为常用口语询问短语，用于确认对方是否理解自己的阐述。
 
 9. **中文**：你能放慢一点速度，以便大家能跟上你的讲解吗？  
-   **英文**：Could you slow down a little bit so that everyone can follow your explanation? (in other words).
+   **英文**：Could you slow down a little bit so that everyone can follow your explanation?
    > **解析**：`follow` 及物动词，在此处意为“听懂；跟上（思绪、讲解）”。
 
 10. **中文**：实验未能产生显著结果；换句话说，我们的假设是不正确的。  
@@ -108,7 +108,7 @@ correct, do you know what i mean, experiment, faculty, feedback, follow, get thr
 1. Please verify that all the statistical data in your research paper is correct.
    > **中文**：请核实你的研究论文中的所有统计数据是否正确。
 
-2. She joined the academic faculty as an assistant professor of philosophy (do you know what i mean).
+2. She joined the academic faculty as an assistant professor of philosophy.
    > **中文**：她作为哲学助理教授加入了学术教职人员队伍。
 
 3. Let's go over the main points of yesterday's lecture before starting the new topic.
@@ -123,13 +123,13 @@ correct, do you know what i mean, experiment, faculty, feedback, follow, get thr
 6. As a senior student, she is currently busy writing her graduation project.
    > **中文**：作为一名大四学生，她目前正忙着写她的毕业设计。
 
-7. He spent eight months conducting field research for his doctoral thesis (get through).
+7. He spent eight months conducting field research for his doctoral thesis.
    > **中文**：他花了八个月时间为他的博士论文进行田野调查。
 
 8. Academic writing requires rigorous logic rather than emotional language, do you know what i mean? (go over) about experiment.
    > **中文**：学术写作需要严密的逻辑而不是情绪化的语言，你明白我的意思吗？
 
-9. Could you slow down a little bit so that everyone can follow your explanation? (in other words).
+9. Could you slow down a little bit so that everyone can follow your explanation?
    > **中文**：你能放慢一点速度，以便大家能跟上你的讲解吗？
 
 10. The experiment failed to produce significant results; in other words, our hypothesis was incorrect.
@@ -155,10 +155,10 @@ Please verify that all the statistical data in your research paper is `____`.
 
 ### 2
 
-She joined the academic faculty as an assistant professor of philosophy (`____`).
+She joined the academic `____` as an assistant professor of philosophy.
 
-- [x] do you know what i mean
-- [ ] experiment
+- [x] faculty
+- [ ] do you know what i mean
 - [ ] get through
 
 > **解析**：`faculty` 集合名词，意为“（大学的）全体教员；学院/系”。
@@ -205,19 +205,19 @@ As a senior student, she is currently busy wr`____`ing her graduation project.
 
 ### 7
 
-He spent eight months conducting field research for his doctoral thesis (`____`).
+He spent eight months conducting field `____` for his doctoral thesis.
 
-- [x] get through
-- [ ] go over
-- [ ] notes
+- [x] research
+- [ ] get through
+- [ ] major
 
 > **解析**：`thesis` 可数名词，意为“毕业论文；学位论文”，复数形式为 `theses`。
 
 ### 8
 
-Academic writing requires rigorous logic rather than emotional language, do you know what i mean? (go over) about `____`.
+Academic writing requires rigorous logic rather than emotional language, `____`? (go over) about experiment.
 
-- [x] experiment
+- [x] do you know what i mean
 - [ ] in other words
 - [ ] outline
 
@@ -225,7 +225,7 @@ Academic writing requires rigorous logic rather than emotional language, do you 
 
 ### 9
 
-Could you slow down a little bit so that everyone can `____` your explanation? (in other words).
+Could you slow down a little bit so that everyone can `____` your explanation?
 
 - [x] follow
 - [ ] it
@@ -235,9 +235,9 @@ Could you slow down a little bit so that everyone can `____` your explanation? (
 
 ### 10
 
-The experiment failed to produce significant results; `____`, our hypothesis was incorrect.
+The `____` failed to produce significant results; in other words, our hypothesis was incorrect.
 
-- [x] in other words
+- [x] experiment
 - [ ] major
 - [ ] qualified
 

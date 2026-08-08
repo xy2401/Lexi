@@ -94,7 +94,7 @@ object（反对）、on the contrary（恰恰相反）、as a matter of fact（�
    > **解析**：`defendant` 是法律名词，意为“被告”。
 
 4. **中文**：一名目击证人站出来就现场发生的事进行作证。  
-   **英文**：An eyewitness stepped forward to testify about what happened at the scene (as a matter of fact).
+   **英文**：An eyewitness stepped forward to testify about what happened at the scene.
    > **解析**：`eyewitness` 或 `witness` 意为“证人、目击者”。
 
 5. **中文**：这名危险的罪犯在经过审判后终于被关进了铁窗之后。  
@@ -102,7 +102,7 @@ object（反对）、on the contrary（恰恰相反）、as a matter of fact（�
    > **解析**：`behind bars` 是介词短语，意为“在狱中、在铁窗后”。
 
 6. **中文**：事实上，监控摄像头清晰地记录下了整个纠纷过程。  
-   **英文**：As a matter of fact, security cameras recorded the entire dispute clearly (break the law).
+   **英文**：As a matter of fact, security cameras recorded the entire dispute clearly.
    > **解析**：`as a matter of fact` 是插入短语，意为“事实上、其实”，用于进一步澄清客观事实。
 
 7. **中文**：法官没有判处监禁，而是判处这名年轻犯人缓刑。  
@@ -110,7 +110,7 @@ object（反对）、on the contrary（恰恰相反）、as a matter of fact（�
    > **解析**：`probation` 是法律术语，意为“缓刑、观察期”。
 
 8. **中文**：律师反驳了对方提出的毫无根据的控告。  
-   **英文**：The lawyer refuted the baseless accusation made by the opposing side (community service).
+   **英文**：The lawyer refuted the baseless accusation made by the opposing side.
    > **解析**：`accusation` 是可数名词，意为“指控、控告”。
 
 9. **中文**：他没有违法；恰恰相反，他试图制止打斗。  
@@ -134,19 +134,19 @@ object（反对）、on the contrary（恰恰相反）、as a matter of fact（�
 3. The attorney spent hours preparing the defendant.
    > **中文**：律师花了数小时为被告准备接受交叉询问。
 
-4. An eyewitness stepped forward to testify about what happened at the scene (as a matter of fact).
+4. An eyewitness stepped forward to testify about what happened at the scene.
    > **中文**：一名目击证人站出来就现场发生的事进行作证。
 
 5. The dangerous criminal was finally put behind bars after a trial.
    > **中文**：这名危险的罪犯在经过审判后终于被关进了铁窗之后。
 
-6. As a matter of fact, security cameras recorded the entire dispute clearly (break the law).
+6. As a matter of fact, security cameras recorded the entire dispute clearly.
    > **中文**：事实上，监控摄像头清晰地记录下了整个纠纷过程。
 
 7. Rather than prison time, the judge sentenced the young offender to probation.
    > **中文**：法官没有判处监禁，而是判处这名年轻犯人缓刑。
 
-8. The lawyer refuted the baseless accusation made by the opposing side (community service).
+8. The lawyer refuted the baseless accusation made by the opposing side.
    > **中文**：律师反驳了对方提出的毫无根据的控告。
 
 9. He did not break the law; on the contrary, he tried to stop the fight.
@@ -195,11 +195,11 @@ The attorney spent hours preparing the `____`.
 
 ### 4
 
-An eyewitness stepped forward to testify about what happened at the scene (`____`).
+An eye`____` stepped forward to testify about what happened at the scene.
 
-- [x] as a matter of fact
-- [ ] behind bars
-- [ ] defendant
+- [x] witness
+- [ ] as a matter of fact
+- [ ] community service
 
 > **解析**：`eyewitness` 或 `witness` 意为“证人、目击者”。
 
@@ -215,9 +215,9 @@ The dangerous criminal was finally put `____` after a trial.
 
 ### 6
 
-As a matter of fact, security cameras recorded the entire dispute clearly (`____`).
+`____`, security cameras recorded the entire dispute clearly.
 
-- [x] break the law
+- [x] as a matter of fact
 - [ ] client
 - [ ] find
 
@@ -235,7 +235,7 @@ Rather than prison time, the `____` sentenced the young offender to probation.
 
 ### 8
 
-The lawyer refuted the baseless `____` made by the opposing side (community service).
+The lawyer refuted the baseless `____` made by the opposing side.
 
 - [x] accusation
 - [ ] defendant
@@ -245,11 +245,11 @@ The lawyer refuted the baseless `____` made by the opposing side (community serv
 
 ### 9
 
-He did not break the law; `____`, he tried to stop the fight.
+He did not `____`; on the contrary, he tried to stop the fight.
 
-- [x] on the contrary
-- [ ] defendant
-- [ ] if he was
+- [x] break the law
+- [ ] evidence
+- [ ] if she had
 
 > **解析**：`on the contrary` 是插入连词短语，意为“恰恰相反”，引出相反事实。
 

@@ -70,7 +70,7 @@ American dream, after all, american, assume, cheerleader, cliché, competitive, 
    > **解析**：`American dream` 名词短语，指“美国梦”（即通过努力工作获得成功与幸福的社会理想）。
 
 2. **中文**：在大学学习法律之前，她曾是高中里受欢迎的拉拉队员。  
-   **英文**：She was a popular cheerleader in high school before studying law at university (after all).
+   **英文**：She was a popular cheerleader in high school before studying law at university.
    > **解析**：`cheerleader` 可数名词，意为“拉拉队员；支持者/鼓吹者”。
 
 3. **中文**：阅读报告后，我们得出了第一印象可能具有误导性的结论。  
@@ -112,7 +112,7 @@ American dream, after all, american, assume, cheerleader, cliché, competitive, 
 1. Many immigrants worked tirelessly to pursue the American dream of freedom and prosperity.
    > **中文**：许多移民不知疲倦地工作，追寻关于自由与繁荣的美国梦。
 
-2. She was a popular cheerleader in high school before studying law at university (after all).
+2. She was a popular cheerleader in high school before studying law at university.
    > **中文**：在大学学习法律之前，她曾是高中里受欢迎的拉拉队员。
 
 3. After reading the report, we came to the conclusion that first impressions can be misleading.
@@ -159,10 +159,10 @@ Many immigrants worked tirelessly to pursue the `____` of freedom and prosperity
 
 ### 2
 
-She was a popular cheerleader in high school before studying law at university (`____`).
+She was a popular `____` in high school before studying law at university.
 
-- [x] after all
-- [ ] american
+- [x] cheerleader
+- [ ] after all
 - [ ] competitive
 
 > **解析**：`cheerleader` 可数名词，意为“拉拉队员；支持者/鼓吹者”。
@@ -219,9 +219,9 @@ Expecting everyone to agree with your initial impression is completely `____`.
 
 ### 8
 
-Don't be too hard on him; after all, it was his very first time giving a presentation about `____`.
+Don't be too hard on him; `____`, it was his very first time giving a presentation about american.
 
-- [x] american
+- [x] after all
 - [ ] cowboy
 - [ ] it seems that
 
