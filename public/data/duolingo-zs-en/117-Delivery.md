@@ -232,13 +232,7 @@ allergic, beverage, coconut, container, delivery, few, flavor, hungry, ingredien
 | total | 总计 |
 | tuna | 金枪鱼 |
 | utensils | 餐具 |
-| way | 方式 |
-| the | 这 / 那（定冠词） |
-| salad | 沙拉 |
-| jam | 果酱 |
-| water | 水 |
-| sugar | 糖 |
-| restaurant | 餐厅 |
+| way | 方式 |
 
 </quiz-matching>
 

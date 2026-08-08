@@ -229,13 +229,7 @@ arrival, continent, extra, fare, farther, farthest, for the first time, homesick
 | shuttle | 接驳车 |
 | solo | 独自的 |
 | traveler | 旅行者 |
-| unpack | 拆行李 |
-| the | 这 / 那（定冠词） |
-| plane | 飞机 |
-| hotel | 酒店 |
-| taxi | 出租车 |
-| station | 车站 |
-| luggage | 行李 |
+| unpack | 拆行李 |
 
 </quiz-matching>
 

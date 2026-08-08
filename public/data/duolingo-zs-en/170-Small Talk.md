@@ -224,28 +224,7 @@ a, any, architect, can't wait for, culture, familiar, hang on, hardly, interrupt
 | speaking of | 说到 |
 | stress | 压力 |
 | twin | 双胞胎之一 |
-| worth it | 值得 |
-| is | 是（单数） |
-| was | 是（过去式） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| to | 到 / 向 |
-| you | 你 |
-| my | 我的 |
-| I | 我 |
-| she | 她 |
-| he | 他 |
-| they | 他们 |
-| do | 做（助动词） |
-| don't | 不（否定） |
-| with | 和 / 与 |
-| for | 为了 |
-| of | ……的 |
-| meet | 见面 |
-| know | 认识 |
-| work | 工作 |
-| party | 聚会 |
-| again | 再次 |
+| worth it | 值得 |
 
 </quiz-matching>
 

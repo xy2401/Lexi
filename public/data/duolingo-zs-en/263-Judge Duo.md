@@ -231,15 +231,7 @@ accusation, alibi, argue, as a matter of fact, behind bars, break the law, clien
 | probation | 缓刑 |
 | sentence | 判决 / 句子 |
 | victim | 受害者 |
-| witness | 证人 |
-| the | 这个（定冠词） |
-| not | 不 |
-| his | 他的 |
-| lawyer | 律师 |
-| today | 今天 |
-| next week | 下周 |
-| instead of | 而不是 |
-| false | 虚假的 |
+| witness | 证人 |
 
 </quiz-matching>
 

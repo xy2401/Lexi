@@ -228,10 +228,7 @@ announce, announcement, approximate, approximately, attention, by the time, in f
 | unnecessary | 不必要的 |
 | volunteer | 志愿者 / 自愿 |
 | when | 当……时 |
-| within | 在……之内 |
-| is | 是（单数） |
-| the | 这个 / 那个 |
-| speech | 演讲 |
+| within | 在……之内 |
 
 </quiz-matching>
 

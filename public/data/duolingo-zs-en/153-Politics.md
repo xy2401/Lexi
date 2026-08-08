@@ -230,22 +230,7 @@ article, as, can't stand, currency, democracy, economy, election, environmental,
 | there could be | 可能会有 |
 | there might be | 可能会有 |
 | truth | 真相 |
-| vote | 投票 |
-| is | 是（单数） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| in | 在……里 |
-| about | 关于 |
-| do | 做 / 助动词 |
-| didn't | 没有（过去否定） |
-| I | 我 |
-| he | 他 |
-| she | 她 |
-| it | 它 |
-| this | 这个 |
-| new | 新的 |
-| next | 下一个 |
-| was | 是（过去式） |
+| vote | 投票 |
 
 </quiz-matching>
 

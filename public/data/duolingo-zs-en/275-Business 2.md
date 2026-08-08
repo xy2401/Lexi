@@ -231,16 +231,7 @@ advertising, by, do a good job, early days, estimate, family, family-owned, for 
 | take over | 接管 |
 | ups and downs | 起起落落 |
 | will have been | 将已经（是/做） |
-| will you have | 你将已经…吗 |
-| is | 是 |
-| the | 这个（定冠词） |
-| shop | 店铺 |
-| business | 企业 |
-| factory | 工厂 |
-| costs | 成本 |
-| history | 历史 |
-| Friday | 周五 |
-| generations | 代 |
+| will you have | 你将已经…吗 |
 
 </quiz-matching>
 

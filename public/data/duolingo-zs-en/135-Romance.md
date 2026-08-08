@@ -229,14 +229,7 @@ avoid, break up, calm, careless, clever, date, definitely, helpful, how, in a hu
 | what | 什么 |
 | where | 哪里 |
 | who | 谁 |
-| why | 为什么 |
-| is | 是（单数） |
-| was | 是（过去式） |
-| did | 助动词（过去时） |
-| to | 到 / 对（介词） |
-| the | 这 / 那（定冠词） |
-| him | 他（宾格） |
-| she | 她 |
+| why | 为什么 |
 
 </quiz-matching>
 

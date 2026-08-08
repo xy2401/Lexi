@@ -228,16 +228,7 @@ after-party, afterwards, ask, asked her who had, bow tie, chaperone, clothing, c
 | tuxedo | 无尾礼服 |
 | was going to | 本来打算 |
 | weren't you going to | 你本来不是要…吗 |
-| would | 愿意 / 将会 |
-| is | 是 |
-| the | 这个（定冠词） |
-| her | 她的 |
-| house | 房子 |
-| pizza | 披萨 |
-| lights | 灯光 |
-| door | 门 |
-| gown | 礼服裙 |
-| formal | 正式的 |
+| would | 愿意 / 将会 |
 
 </quiz-matching>
 

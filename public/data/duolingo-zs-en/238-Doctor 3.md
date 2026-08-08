@@ -229,16 +229,7 @@ ache, act, as if, as though, bite, bruise, cautious, have, honey, itch, pass out
 | weakness | 虚弱 |
 | wear off | 消退 |
 | wound | 伤口 |
-| wrap | 包扎 |
-| I | 我 |
-| he | 他 |
-| she | 她 |
-| you | 你 |
-| look | 看起来 |
-| from | 从 |
-| with | 与 |
-| for | 持续 |
-| please | 请 |
+| wrap | 包扎 |
 
 </quiz-matching>
 

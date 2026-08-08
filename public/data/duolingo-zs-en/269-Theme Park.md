@@ -231,15 +231,7 @@ after next, all of a sudden, amusement park, cotton candy, ferris wheel, giganti
 | was thinking | 本来在想 |
 | were supposed to | 本应该 |
 | wondering where | 想知道哪里 |
-| wristband | 腕带 |
-| is | 是 |
-| the | 这个（定冠词） |
-| gate | 门口 |
-| people | 人们 |
-| show | 演出 |
-| lunch | 午餐 |
-| closed | 关闭的 |
-| height | 身高 |
+| wristband | 腕带 |
 
 </quiz-matching>
 

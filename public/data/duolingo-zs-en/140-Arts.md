@@ -227,14 +227,7 @@ act, action, celebrity, cinema, comedy, commercial, create, culture, download, e
 | publish | 出版 |
 | review | 评论 |
 | sculpture | 雕塑 |
-| title | 标题 |
-| is | 是（单数） |
-| was | 是（过去式） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| of | ……的（介词） |
-| in | 在……里 |
-| many | 许多 |
+| title | 标题 |
 
 </quiz-matching>
 

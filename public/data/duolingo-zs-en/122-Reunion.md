@@ -229,13 +229,7 @@ a shame, annual, bald, cheers, curly, dj, except that, get together, give up, gi
 | outgoing | 外向的 |
 | vegetarian | 素食者 |
 | visit | 拜访 |
-| what's up | 最近怎么样 |
-| the | 这 / 那（定冠词） |
-| reunion | 聚会 / 重聚 |
-| friend | 朋友 |
-| teacher | 老师 |
-| hair | 头发 |
-| sugar | 糖 |
+| what's up | 最近怎么样 |
 
 </quiz-matching>
 

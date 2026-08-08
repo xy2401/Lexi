@@ -227,11 +227,7 @@ barbecue, blow, carve, cider, cleaning, decorations, front yard, garage sale, ge
 | strong | 强烈的 / 强壮的 |
 | summertime | 夏季 |
 | super bowl | 超级碗 |
-| surprise | 惊喜 |
-| is | 是（单数） |
-| the | 这个 / 那个 |
-| party | 派对 |
-| candle | 蜡烛 |
+| surprise | 惊喜 |
 
 </quiz-matching>
 

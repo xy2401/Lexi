@@ -228,16 +228,7 @@ assuming that, attempt, attempt to, be able to, canyon, conditions, daylight, de
 | trail | 小径 |
 | trekking | 徒步旅行 |
 | try to | 尽力做… |
-| wild | 野生的 |
-| is | 是 |
-| the | 这个（定冠词） |
-| water | 水 |
-| snakes | 蛇 |
-| animals | 动物 |
-| view | 风景 |
-| boots | 靴子 |
-| weather | 天气 |
-| dawn | 黎明 |
+| wild | 野生的 |
 
 </quiz-matching>
 

@@ -226,10 +226,7 @@ alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit,
 | they'd | they would 的缩写 |
 | weight | 体重 |
 | would | 会 / 想要 |
-| wouldn't | 不会（would not 缩写） |
-| is | 是（单数） |
-| tea | 茶 |
-| like | 喜欢 / 想要 |
+| wouldn't | 不会（would not 缩写） |
 
 </quiz-matching>
 

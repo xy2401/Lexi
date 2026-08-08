@@ -220,20 +220,7 @@ alternative, and had, date back, electronic, hippie, in my eyes, in those days, 
 | songwriter | 歌曲创作者 |
 | soundtrack | 电影原声带 |
 | what | 什么 / 所……的 |
-| worldwide | 世界范围内 |
-| I | 我 |
-| we | 我们 |
-| they | 他们 |
-| her | 她的 |
-| their | 他们的 |
-| last | 上一个 |
-| here | 这里 |
-| home | 家 |
-| to | 到 / 去 |
-| with | 与 / 以 |
-| night | 夜晚 |
-| spring | 春天 |
-| single | 单一的 |
+| worldwide | 世界范围内 |
 
 </quiz-matching>
 

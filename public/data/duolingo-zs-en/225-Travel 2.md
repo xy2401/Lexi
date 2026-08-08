@@ -225,15 +225,7 @@ backup plan, deck, diner, get away, hike, in the middle of nowhere, itinerary, j
 | than | 比 |
 | tropical | 热带的 |
 | unpredictable | 不可预测的 |
-| volcano | 火山 |
-| island | 岛 |
-| trip | 旅行 |
-| weather | 天气 |
-| beach | 海滩 |
-| summer | 夏天 |
-| lunch | 午饭 |
-| ferry | 渡轮 |
-| mountain | 山 |
+| volcano | 火山 |
 
 </quiz-matching>
 

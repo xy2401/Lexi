@@ -226,24 +226,7 @@ both, bother, do, even, get, got to, guys, have, have on, instead, make it, must
 | wear | 穿 / 戴 |
 | why don't | 何不 |
 | willing | 愿意的 |
-| you've got to | 你必须 |
-| I | 我 |
-| we | 我们 |
-| you | 你 |
-| he | 他 |
-| she | 她 |
-| is | 是（单数） |
-| was | 是（过去式） |
-| can | 能 |
-| can't | 不能 |
-| let's | 让我们 |
-| to | 到 / 向 |
-| on | 在……上 |
-| with | 和 / 与 |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| my | 我的 |
-| your | 你的 |
+| you've got to | 你必须 |
 
 </quiz-matching>
 

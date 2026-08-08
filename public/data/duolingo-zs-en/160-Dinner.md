@@ -228,22 +228,7 @@ allergy, any, casual, disgusting, eat out, for here or to go, get, give, groceri
 | take | 拿 / 接受 |
 | taste | 品尝 / 味道 |
 | well done | 全熟的 |
-| yuck | 呸（嫌恶） |
-| is | 是（单数） |
-| was | 是（过去式） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| some | 一些 |
-| too | 太 |
-| this | 这个 |
-| please | 请 |
-| don't | 不（否定） |
-| I | 我 |
-| we | 我们 |
-| to | 到 / 向 |
-| for | 为了 |
-| let's | 让我们 |
-| tonight | 今晚 |
+| yuck | 呸（嫌恶） |
 
 </quiz-matching>
 

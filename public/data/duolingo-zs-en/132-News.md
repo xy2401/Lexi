@@ -232,13 +232,7 @@ billion, bomb, border, cause, common, court, crash, crime, enemy, expect, false,
 | spy | 间谍 |
 | their | 他们的 |
 | they | 他们 |
-| though | 虽然 / 不过 |
-| is | 是（单数） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| and | 和 |
-| not | 不 / 没有 |
-| of | ……的（介词） |
+| though | 虽然 / 不过 |
 
 </quiz-matching>
 

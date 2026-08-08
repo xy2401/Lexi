@@ -156,8 +156,20 @@ function validateUnit(filename, source) {
 
   const matchingBlock = blocks.find(block => block.name === 'quiz-matching')
   const matchingPairs = parseMatching(matchingBlock?.body || '')
-  if (matchingBlock?.body && matchingPairs.length < 20) {
-    errors.push(`${filename}:${matchingBlock.line} 显式 Matching 至少需要 20 组配对`)
+  if (matchingBlock?.body && matchingPairs.length < 15) {
+    errors.push(`${filename}:${matchingBlock.line} 显式 Matching 至少需要 15 组配对`)
+  }
+  if (matchingBlock?.body && words.length) {
+    const wordSet = new Set(normalizedWords)
+    const pairSet = new Set(matchingPairs.map(cells => cells[0].toLowerCase()))
+    const foreign = matchingPairs.filter(cells => !wordSet.has(cells[0].toLowerCase()))
+    const missing = words.filter(word => !pairSet.has(word.toLowerCase()))
+    if (foreign.length) {
+      errors.push(`${filename}:${matchingBlock.line} Matching 含非词表词条：${foreign.slice(0, 5).map(cells => cells[0]).join('、')}${foreign.length > 5 ? ` 等 ${foreign.length} 个` : ''}`)
+    }
+    if (missing.length) {
+      errors.push(`${filename}:${matchingBlock.line} Matching 缺少词表词条：${missing.slice(0, 5).join('、')}${missing.length > 5 ? ` 等 ${missing.length} 个` : ''}`)
+    }
   }
 
   const listeningBlock = blocks.find(block => block.name === 'quiz-listening')

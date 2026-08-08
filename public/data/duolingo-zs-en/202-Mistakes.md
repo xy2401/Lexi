@@ -225,11 +225,7 @@ act, argument, be able to, common sense, control, disappoint, drawn, drunk, guil
 | warn | 警告 |
 | would | 会 |
 | would have had | 本来会有 |
-| wouldn't have | 本来不会 |
-| is | 是（单数） |
-| the | 这个 / 那个 |
-| mistake | 错误 |
-| voice | 声音 |
+| wouldn't have | 本来不会 |
 
 </quiz-matching>
 

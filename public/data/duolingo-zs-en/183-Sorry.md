@@ -230,12 +230,7 @@ apologize, ask, ask if, ask whether, care about, condition, condolences, excuse,
 | tell | 告诉 |
 | too bad | 太糟了 |
 | wonder if | 想知道是否 |
-| wonder whether | 想知道是否（正式） |
-| is | 是（单数） |
-| the | 这个 / 那个 |
-| good | 好的 |
-| bad | 坏的 |
-| or | 或者 |
+| wonder whether | 想知道是否（正式） |
 
 </quiz-matching>
 

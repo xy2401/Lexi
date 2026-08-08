@@ -224,24 +224,7 @@ board, book, cruise, currency exchange, depart, direct, explore, ferry, get, go 
 | say that again | 说得太对了 |
 | wherever | 无论哪里 |
 | will | 将要 |
-| won't | 不会 |
-| is | 是（单数） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| at | 在 |
-| in | 在……里 |
-| to | 到 / 向 |
-| I | 我 |
-| we | 我们 |
-| you | 你 |
-| it | 它 |
-| my | 我的 |
-| tickets | 票 |
-| flight | 航班 |
-| travel | 旅行 |
-| alone | 独自 |
-| before | 在……之前 |
-| costs | 花费（三单） |
+| won't | 不会 |
 
 </quiz-matching>
 

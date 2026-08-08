@@ -229,13 +229,7 @@ by hand, clean up, continue, dishwasher, dislike, dust, freezer, garbage, have t
 | rug | 小地毯 |
 | spill | 打翻 |
 | take care of | 照料 |
-| vacuum | 用吸尘器吸 |
-| the | 这 / 那（定冠词） |
-| kitchen | 厨房 |
-| floor | 地板 |
-| dish | 盘子 |
-| door | 门 |
-| plant | 植物 |
+| vacuum | 用吸尘器吸 |
 
 </quiz-matching>
 

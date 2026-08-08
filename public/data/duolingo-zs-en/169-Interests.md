@@ -225,25 +225,7 @@ architecture, been, collection, cycling, ever since, go for a run, has been, hav
 | scuba dive | 水肺潜水 |
 | that sort of thing | 诸如此类 |
 | very long | 很久 |
-| yoga | 瑜伽 |
-| I | 我 |
-| she | 她 |
-| he | 他 |
-| you | 你 |
-| we | 我们 |
-| is | 是（单数） |
-| for | 持续 / 为了 |
-| than | 比 |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| every | 每个 |
-| morning | 早上 |
-| week | 周 |
-| year | 年 |
-| college | 大学 |
-| hobby | 爱好 |
-| gym | 健身房 |
-| run | 跑步 |
+| yoga | 瑜伽 |
 
 </quiz-matching>
 

@@ -230,10 +230,7 @@ ache, ankle, be, bled, cover, ear, earache, have to be, health insurance, injure
 | want to be | 想成为 |
 | weak | 虚弱的 |
 | wheelchair | 轮椅 |
-| will be | 将会是 |
-| doctor | 医生 |
-| clean | 清洁的 |
-| rest | 休息 |
+| will be | 将会是 |
 
 </quiz-matching>
 

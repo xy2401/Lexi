@@ -230,13 +230,7 @@ a certain, absolutely, as far as I'm concerned, be able to, can, come up with, c
 | should | 应该 |
 | timing | 时机 |
 | will | 将 |
-| without a doubt | 毫无疑问 |
-| job | 工作 |
-| plan | 方案 |
-| team | 团队 |
-| project | 项目 |
-| meeting | 会议 |
-| raise | 加薪 |
+| without a doubt | 毫无疑问 |
 
 </quiz-matching>
 

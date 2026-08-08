@@ -61,7 +61,7 @@ Chinese, English, book
 3. `<quiz-translation-choice>`：空标签，读取共享词表与本地 ECDICT 生成中文选词。
 4. `<quiz-sentence-builder>`：二十个带编号的中英文句对，每题配有深度语法与句法解析。
 5. `<quiz-listening>`：恰好二十道同一主题微场景的听音辨句。
-6. `<quiz-matching>`：显式表格至少二十组配对。
+6. `<quiz-matching>`：显式表格至少十五组配对。
 7. `<quiz-cloze>`：二十道一空三选项的填空题，每题只有一个正确项。
 
 空标签仍必须保留标签内空行：
@@ -114,7 +114,7 @@ Chinese, English, book
 
 ### 词义消消乐
 
-空标签使用共享词表；显式模式使用两列表格，至少 20 组配对：
+空标签使用共享词表；显式模式使用两列表格，至少 15 组配对：
 
 ```markdown
 <quiz-matching>
@@ -126,7 +126,7 @@ Chinese, English, book
 </quiz-matching>
 ```
 
-显式表格须覆盖本单元全部词条，并补充练习句中用到的功能词（is、the、very 等），释义使用中文。
+显式表格必须与本单元词表一一对应：覆盖全部词表词条、不得包含词表以外的词（如 I、is、the 等练习句中的功能词不允许出现），释义使用中文。表格至少 15 组配对。
 
 ### 选词填空
 

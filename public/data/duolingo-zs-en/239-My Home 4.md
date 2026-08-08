@@ -230,15 +230,7 @@ a hand, admittedly, all over again, brick, by far, can't get over, can't take, c
 | on top of that | 更糟的是 |
 | plumbing | 水管系统 |
 | relieved | 松了一口气的 |
-| stress out | 使焦虑 |
-| the | 这个 |
-| is | 是 |
-| again | 又 |
-| when | 当……时 |
-| after | 在……之后 |
-| of | 由 / 的 |
-| this | 这个 |
-| how | 多么 |
+| stress out | 使焦虑 |
 
 </quiz-matching>
 

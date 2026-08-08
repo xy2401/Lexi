@@ -227,15 +227,7 @@ apparently, at risk, bad for you, could, enough, enough to, have trouble, heal, 
 | vaccine | 疫苗 |
 | vitamin | 维生素 |
 | wrist | 手腕 |
-| yawn | 打哈欠 |
-| flu | 流感 |
-| stress | 压力 |
-| medicine | 药 |
-| sleep | 睡眠 |
-| wound | 伤口 |
-| should | 应该 |
-| you | 你 |
-| soon | 很快 |
+| yawn | 打哈欠 |
 
 </quiz-matching>
 

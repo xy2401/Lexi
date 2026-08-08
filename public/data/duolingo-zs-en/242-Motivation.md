@@ -226,17 +226,7 @@ a number of, action, affect, find, forward, free, in theory, initially, intellig
 | the more | 越……越…… |
 | treat | 对待 |
 | truly | 真正地 |
-| work at | 下功夫做 |
-| I | 我 |
-| it | 它 |
-| but | 但是 |
-| every | 每一个 |
-| stop | 停止 |
-| stay | 保持 |
-| keep | 继续 |
-| into | 进入 |
-| with | 与 |
-| as | 作为 |
+| work at | 下功夫做 |
 
 </quiz-matching>
 

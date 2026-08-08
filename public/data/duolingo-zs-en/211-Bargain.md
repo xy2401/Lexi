@@ -226,14 +226,7 @@ afford to, aisle, brand, code, coupon, fold, good deal, knit, limited, logo, med
 | what | 什么 |
 | what to | 该……什么 |
 | whatever | 无论什么 |
-| which | 哪一个 |
-| price | 价格 |
-| store | 商店 |
-| shirt | 衬衫 |
-| I | 我 |
-| free | 免费的 |
-| expensive | 昂贵的 |
-| one | 一个（代词） |
+| which | 哪一个 |
 
 </quiz-matching>
 

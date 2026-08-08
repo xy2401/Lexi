@@ -226,10 +226,7 @@ any, anyway, as much as, at the moment, cab, change the subject, either, even, f
 | so | 所以 / 那么 |
 | wanted | 想（过去式） |
 | watch out for | 留意 / 提防 |
-| when's | when is 的缩写 |
-| is | 是（单数） |
-| the | 这个 / 那个 |
-| door | 门 |
+| when's | when is 的缩写 |
 
 </quiz-matching>
 

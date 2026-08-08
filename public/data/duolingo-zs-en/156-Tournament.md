@@ -225,24 +225,7 @@ ask, at least, athlete, beat, champion, cheer for, coach, compete, go, goal, liv
 | than | 比 |
 | tie | 平局 |
 | tournament | 锦标赛 |
-| world cup | 世界杯 |
-| is | 是（单数） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| do | 做 / 助动词 |
-| you | 你 |
-| who | 谁 |
-| what | 什么 |
-| our | 我们的 |
-| them | 他们（宾格） |
-| in | 在……里 |
-| on | 在……上 |
-| don't | 不（否定） |
-| my | 我的 |
-| let's | 让我们 |
-| when | 当……时 |
-| their | 他们的 |
+| world cup | 世界杯 |
 
 </quiz-matching>
 

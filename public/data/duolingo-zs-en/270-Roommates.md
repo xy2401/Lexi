@@ -232,16 +232,7 @@ agree on, ask, behavior, belongings, bird cage, bother to, bring up, chore, clea
 | plumber | 水管工 |
 | promise not to | 答应不做 |
 | remind me not to | 提醒我别… |
-| take | 拿 / 带走 |
-| is | 是 |
-| the | 这个（定冠词） |
-| table | 桌子 |
-| dishes | 餐具 |
-| trash | 垃圾 |
-| music | 音乐 |
-| schedule | 日程表 |
-| cup | 杯子 |
-| sink | 水池 |
+| take | 拿 / 带走 |
 
 </quiz-matching>
 

@@ -225,17 +225,7 @@ all the way, any time, can always call, express, going-away party, guest of hono
 | warmth | 温暖 |
 | wish you the best | 祝你一切顺利 |
 | wish you were | 真希望你是 / 在 |
-| wish you weren't | 真希望你不是 |
-| is | 是 |
-| the | 这个（定冠词） |
-| family | 家人 |
-| music | 音乐 |
-| dreams | 梦想 |
-| goodbye | 再见 |
-| last night | 昨晚 |
-| June | 六月 |
-| feelings | 感受 |
-| hours | 小时 |
+| wish you weren't | 真希望你不是 |
 
 </quiz-matching>
 

@@ -225,25 +225,7 @@ appreciate, attitude, awesome, delighted, elderly, expect, friendship, future, g
 | somehow | 不知怎么地 |
 | sweet | 贴心的 / 甜的 |
 | unexpected | 出乎意料的 |
-| watch | 观看 / 照看 |
-| am | 是（与 I 搭配） |
-| are | 是（复数） |
-| was | 是（过去式） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| your | 你的 |
-| my | 我的 |
-| for | 为了 / 对于 |
-| of | ……的 |
-| to | 到 / 向 |
-| I | 我 |
-| we | 我们 |
-| you | 你 |
-| he | 他 |
-| don't | 不（否定） |
-| what | 什么 |
-| could | 能（礼貌） |
-| stay | 保持 |
+| watch | 观看 / 照看 |
 
 </quiz-matching>
 

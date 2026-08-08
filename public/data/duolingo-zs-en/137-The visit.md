@@ -229,14 +229,7 @@ against, annoy, bright, broccoli, community, dining room, double, festival, get 
 | right | 正确的 / 右边 |
 | sandal | 凉鞋 |
 | stressful | 令人紧张的 |
-| turn | 转动 / 转弯 |
-| is | 是（单数） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| your | 你的 |
-| on | 在……上 |
-| of | ……的（介词） |
-| and | 和 |
+| turn | 转动 / 转弯 |
 
 </quiz-matching>
 

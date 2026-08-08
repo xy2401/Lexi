@@ -229,15 +229,7 @@ approach, arrow, beyond, bury, collect, deep, evil, fate, get out of, instantly,
 | the least of | 其中最不重要的 |
 | treasure | 宝藏 |
 | up ahead | 在前方 |
-| worry | 担心 |
-| the | 那个 |
-| he | 他 |
-| she | 她 |
-| there | 那里 |
-| at last | 终于 |
-| was | 是（过去式） |
-| under | 在……下面 |
-| closer | 更近 |
+| worry | 担心 |
 
 </quiz-matching>
 

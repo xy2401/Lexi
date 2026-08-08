@@ -229,16 +229,7 @@ black tie, care for, couldn't possibly, dress code, fabulous, filmmaker, free, g
 | superb | 一流的 |
 | surely | 想必 |
 | thanks anyway | 还是谢谢你 |
-| turn down | 拒绝 |
-| is | 是 |
-| the | 这个（定冠词） |
-| rain | 雨 |
-| guests | 宾客 |
-| invitation | 邀请 |
-| night | 夜晚 |
-| food | 食物 |
-| air | 空气 |
-| gift | 礼物 |
+| turn down | 拒绝 |
 
 </quiz-matching>
 

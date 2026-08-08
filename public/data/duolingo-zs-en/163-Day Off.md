@@ -225,24 +225,7 @@ about to, book club, championship, custom, family reunion, finish, get off, go o
 | they all | 他们都 |
 | train | 火车 / 训练 |
 | unless | 除非 |
-| we all | 我们都 |
-| is | 是（单数） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| do | 做 / 助动词 |
-| don't | 不（否定） |
-| can | 能 |
-| let's | 让我们 |
-| on | 在（星期 / 日期） |
-| at | 在（时间点） |
-| to | 到 / 向 |
-| my | 我的 |
-| her | 她（宾格）/ 她的 |
-| him | 他（宾格） |
-| with | 和 |
-| after | 在……之后 |
-| next | 下一个 |
+| we all | 我们都 |
 
 </quiz-matching>
 

@@ -230,12 +230,7 @@ ahead of time, as, bed and breakfast, carry-on, central, check, come out, fasten
 | separate | 分开的 |
 | to | 到；（不定式符号） |
 | travels | 游历 |
-| with | 和；带有 |
-| seat | 座位 |
-| flight | 航班 |
-| airport | 机场 |
-| hotel | 酒店 |
-| please | 请 |
+| with | 和；带有 |
 
 </quiz-matching>
 

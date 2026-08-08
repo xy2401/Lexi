@@ -228,14 +228,7 @@ back, busy, close by, come with, crosswalk, drive, driven, drop, drop off, exit,
 | stop sign | 停车标志 |
 | traffic jam | 堵车 |
 | traffic light | 红绿灯 |
-| watch out | 小心 |
-| is | 是（单数） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| you | 你 / 你们 |
-| in | 在……里 |
-| at | 在……（地点） |
+| watch out | 小心 |
 
 </quiz-matching>
 

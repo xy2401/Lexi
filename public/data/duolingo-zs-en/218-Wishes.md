@@ -223,17 +223,7 @@ afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if o
 | step | 步骤 |
 | take advantage | 利用 |
 | unlikely | 不太可能的 |
-| wish | 希望；祝愿 |
-| dream | 梦想 |
-| time | 时间 |
-| answer | 答案 |
-| result | 结果 |
-| mistake | 错误 |
-| life | 生活 |
-| win | 赢 |
-| tried | 尝试（过去式） |
-| travel | 旅行 |
-| everything | 一切 |
+| wish | 希望；祝愿 |
 
 </quiz-matching>
 

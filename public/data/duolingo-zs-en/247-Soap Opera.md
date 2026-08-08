@@ -228,15 +228,7 @@ affair, anyhow, capable of, cast, cemetery, deceive, dramatic, greedy, hooked on
 | threaten | 威胁 |
 | villain | 反派 |
 | what's-his-name | 那个谁 |
-| will | 将 / 想必 |
-| he | 他 |
-| she | 她 |
-| they | 他们 |
-| with | 与 |
-| about | 关于 |
-| found out | 发现 |
-| twice | 两次 |
-| episode | 集 |
+| will | 将 / 想必 |
 
 </quiz-matching>
 

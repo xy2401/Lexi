@@ -220,11 +220,7 @@ browser, device, frequent, get used to, giant, graphics, install, key, locate, l
 | take a look | 看一看 |
 | used to | 过去常常 |
 | user | 用户 |
-| webcam | 网络摄像头 |
-| is | 是（单数） |
-| the | 这个 / 那个 |
-| screen | 屏幕 |
-| file | 文件 |
+| webcam | 网络摄像头 |
 
 </quiz-matching>
 

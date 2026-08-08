@@ -233,12 +233,7 @@ besides, brave, candle, celebration, cushion, discover, fight, firework, fought,
 | shoulder | 肩膀 |
 | toward | 朝向 |
 | wave | 挥手 / 波浪 |
-| whatever | 无论什么 |
-| the | 这 / 那（定冠词） |
-| is | 是（单数） |
-| are | 是（复数） |
-| and | 和 |
-| everyone | 每个人 |
+| whatever | 无论什么 |
 
 </quiz-matching>
 

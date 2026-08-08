@@ -227,11 +227,7 @@ allow, allowed to, buckle, car accident, concentrate, cycle, driving test, for, 
 | supposed to | 按理应该 |
 | ticket | 罚单 / 票 |
 | tunnel | 隧道 |
-| zone | 区域 |
-| is | 是（单数） |
-| the | 这个 / 那个 |
-| light | 灯 |
-| drive | 驾驶 |
+| zone | 区域 |
 
 </quiz-matching>
 

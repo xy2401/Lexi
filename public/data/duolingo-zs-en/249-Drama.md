@@ -228,16 +228,7 @@ accuse, anything, approval, as far as i know, breakup, confess, consideration, d
 | suspicion | 怀疑 |
 | the trouble with | ……的问题在于 |
 | toxic | 有毒的 / 有害的 |
-| valid | 站得住脚的 |
-| he | 他 |
-| she | 她 |
-| his | 他的 |
-| her | 她的 |
-| me | 我 |
-| now | 现在 |
-| finally | 终于 |
-| around | 到处 |
-| everyone's | 所有人的 |
+| valid | 站得住脚的 |
 
 </quiz-matching>
 

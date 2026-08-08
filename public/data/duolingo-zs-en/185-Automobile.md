@@ -228,10 +228,7 @@ back seat, been, brake, car wash, flat tire, front seat, gas station, has, have 
 | tank | 油箱 |
 | trunk | 后备箱 |
 | turn signal | 转向灯 |
-| windshield | 挡风玻璃 |
-| is | 是（单数） |
-| the | 这个 / 那个 |
-| window | 车窗 |
+| windshield | 挡风玻璃 |
 
 </quiz-matching>
 

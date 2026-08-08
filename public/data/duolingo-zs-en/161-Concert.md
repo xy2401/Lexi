@@ -228,22 +228,7 @@ admission, back row, balcony, beautifully, country, did, didn't, do, does, doesn
 | sing | 唱 |
 | sung | 唱（过去分词） |
 | unforgettable | 难忘的 |
-| upper level | 上层 |
-| is | 是（单数） |
-| was | 是（过去式） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| you | 你 |
-| he | 他 |
-| she | 她 |
-| I | 我 |
-| we | 我们 |
-| like | 喜欢 |
-| music | 音乐 |
-| tickets | 票 |
-| sold | 卖（过去分词） |
-| tonight | 今晚 |
+| upper level | 上层 |
 
 </quiz-matching>
 

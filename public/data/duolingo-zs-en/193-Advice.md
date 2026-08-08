@@ -227,11 +227,7 @@ athletic, clap, curriculum, dangerously, fancy, foreigner, goalkeeper, if he wer
 | route | 路线 |
 | second-hand | 二手的 |
 | style | 风格 |
-| that reminds me | 这让我想起 |
-| is | 是（单数） |
-| would | 会（虚拟主句） |
-| the | 这个 / 那个 |
-| team | 队伍 |
+| that reminds me | 这让我想起 |
 
 </quiz-matching>
 

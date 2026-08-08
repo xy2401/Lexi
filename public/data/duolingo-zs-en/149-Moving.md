@@ -229,14 +229,7 @@ air conditioning, alarm, backyard, bathtub, break down, control, convenient, dec
 | switch | 开关 / 切换 |
 | tired | 疲惫的 |
 | valuable | 贵重的 |
-| worried | 担心的 |
-| is | 是（单数） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| your | 你的 |
-| before | 在……之前 |
-| with | 用 / 和 |
+| worried | 担心的 |
 
 </quiz-matching>
 

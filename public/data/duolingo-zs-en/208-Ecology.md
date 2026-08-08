@@ -229,13 +229,7 @@ adapt, are being, are not being, being, cause, endangered, global warming, green
 | turtle | 海龟 |
 | universe | 宇宙 |
 | what is being done | 正在被做什么 |
-| will be | 将会被 |
-| the | 这（定冠词） |
-| more | 更多 |
-| we | 我们 |
-| many | 许多 |
-| pollution | 污染（名词） |
-| their | 它们的 |
+| will be | 将会被 |
 
 </quiz-matching>
 

@@ -227,15 +227,7 @@ alien, archeologist, classified, coincidence, conclusion, convinced, couldn't, f
 | theory | 理论 |
 | ufo | 不明飞行物 |
 | wonder | 想知道 |
-| wouldn't | 不会 |
-| is | 是 |
-| the | 这个（定冠词） |
-| stones | 石头 |
-| machines | 机器 |
-| documents | 文件 |
-| stars | 恒星 |
-| evidence | 证据 |
-| Egypt | 埃及 |
+| wouldn't | 不会 |
 
 </quiz-matching>
 

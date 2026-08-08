@@ -228,17 +228,7 @@ abandon, by, chimney, crawl, fall apart, flashlight, footstep, get away, had, ha
 | spirit | 鬼魂 / 灵魂 |
 | think through | 仔细想清楚 |
 | tight | 发紧的 |
-| winding | 蜿蜒的 |
-| I | 我 |
-| he | 他 |
-| she | 她 |
-| we | 我们 |
-| suddenly | 突然 |
-| behind | 在……后面 |
-| under | 在……下面 |
-| with | 带着 |
-| never | 从不 |
-| finally | 终于 |
+| winding | 蜿蜒的 |
 
 </quiz-matching>
 

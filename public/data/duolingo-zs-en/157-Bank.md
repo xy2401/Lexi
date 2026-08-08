@@ -226,21 +226,7 @@ afford, balance, bank teller, budget, business, checking account, consider, depo
 | thanks for not | 感谢没有…… |
 | transaction | 交易 |
 | transfer | 转账 |
-| up-to-date | 最新的 |
-| is | 是（单数） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| my | 我的 |
-| your | 你的 |
-| please | 请 |
-| don't | 不（否定） |
-| I | 我 |
-| some | 一些 |
-| too | 太 |
-| on | 在……上 |
-| for | 为了 / 对于 |
-| this | 这个 |
-| me | 我（宾格） |
+| up-to-date | 最新的 |
 
 </quiz-matching>
 

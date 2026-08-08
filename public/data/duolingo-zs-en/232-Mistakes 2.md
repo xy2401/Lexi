@@ -228,13 +228,7 @@ ambitious, disagreement, embarrassment, feeling, get, had, hadn't, if only, it t
 | skip | 跳过；缺席 |
 | that's why | 那就是……的原因 |
 | underestimate | 低估 |
-| wish | 希望（虚拟） |
-| advice | 建议 |
-| meeting | 会议 |
-| task | 任务 |
-| date | 日期 |
-| goal | 目标 |
-| plan | 计划 |
+| wish | 希望（虚拟） |
 
 </quiz-matching>
 

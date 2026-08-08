@@ -222,18 +222,7 @@ bleachers, by now, call, come on, cooler, foul, halftime, i don't buy it, it, je
 | the point is | 关键是 |
 | the same | 同样的 |
 | there's no way | 绝不可能 |
-| whistle | 哨子 |
-| He | 他 |
-| She | 她 |
-| They | 他们 |
-| fans | 球迷 |
-| seats | 座位 |
-| game | 比赛 |
-| team | 球队 |
-| tonight | 今晚 |
-| next | 下一个 |
-| almost | 几乎 |
-| quickly | 快速地 |
+| whistle | 哨子 |
 
 </quiz-matching>
 

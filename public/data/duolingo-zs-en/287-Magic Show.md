@@ -225,14 +225,7 @@ a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief
 | wasn't it | 不是吗 |
 | without further ado | 废话不多说 |
 | would you kindly | 请您… |
-| yet | 还没 / 已经 |
-| is | 是 |
-| the | 这个（定冠词） |
-| lamp | 灯 |
-| rope | 绳子 |
-| audience | 观众 |
-| performance | 演出 |
-| pigeon | 鸽子 |
+| yet | 还没 / 已经 |
 
 </quiz-matching>
 

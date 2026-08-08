@@ -227,22 +227,7 @@ animated, anyone, audience, be, can't stand, character, documentary, everyone, f
 | talented | 有才华的 |
 | there are | 有（复数） |
 | there is | 有（单数） |
-| thriller | 惊悚片 |
-| is | 是（单数） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| an | 一（个，元音前） |
-| in | 在……里 |
-| this | 这个 |
-| new | 新的 |
-| likes | 喜欢（三单） |
-| don't | 不（否定） |
-| I | 我 |
-| we | 我们 |
-| and | 和 |
-| about | 关于 |
-| very | 非常 |
+| thriller | 惊悚片 |
 
 </quiz-matching>
 

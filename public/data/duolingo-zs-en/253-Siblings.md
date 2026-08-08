@@ -225,16 +225,7 @@ a thing, big deal, bound to, bump into, call, chew, feel bad about, go ahead, gu
 | tolerate | 容忍 |
 | tons of | 大量的 |
 | vanish | 消失 |
-| what in the world | 到底 |
-| he | 他 |
-| she | 她 |
-| who | 谁 |
-| each other | 彼此 |
-| upstairs | 楼上 |
-| always | 总是 |
-| nobody | 没有人 |
-| since | 自从 |
-| relax | 放松 |
+| what in the world | 到底 |
 
 </quiz-matching>
 

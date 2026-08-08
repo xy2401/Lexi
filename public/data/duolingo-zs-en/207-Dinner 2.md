@@ -227,14 +227,7 @@ a side of, angry that, any, appetizer, award, be, been, bit, charge, dairy, full
 | put | 放置 |
 | seated | 就座的 |
 | should | 应该 |
-| smell | 闻起来；气味 |
-| we | 我们 |
-| this | 这个 |
-| restaurant | 餐厅 |
-| please | 请 |
-| would | 将；愿意 |
-| is | 是（单数） |
-| the | 这（定冠词） |
+| smell | 闻起来；气味 |
 
 </quiz-matching>
 

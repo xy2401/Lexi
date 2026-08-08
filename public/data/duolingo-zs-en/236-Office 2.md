@@ -232,15 +232,7 @@ availability, call in sick, cooperate, cut, decline, in the long run, itself, le
 | the thing is that | 情况是…… |
 | unacceptable | 不可接受的 |
 | unreliable | 不可靠的 |
-| what if | 如果……怎么办 |
-| we | 我们 |
-| need | 需要 |
-| new | 新的 |
-| was | 是（过去式） |
-| had to | 不得不 |
-| with | 与 |
-| must | 必须 |
-| should | 应该 |
+| what if | 如果……怎么办 |
 
 </quiz-matching>
 

@@ -226,22 +226,7 @@ amount, bargain, bill, can, can't, cart, check, fit, fitting room, high quality,
 | shouldn't | 不应该 |
 | worth | 值得 |
 | you | 你 |
-| zipper | 拉链 |
-| is | 是（单数） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| this | 这个 |
-| these | 这些 |
-| do | 做 / 助动词 |
-| don't | 不（否定） |
-| how | 如何 / 多少 |
-| I | 我 |
-| me | 我（宾格） |
-| in | 在……里 |
-| by | 用 / 以 |
-| so | 这么 |
-| please | 请 |
+| zipper | 拉链 |
 
 </quiz-matching>
 

@@ -226,13 +226,7 @@ correct, do you know what i mean, experiment, faculty, feedback, follow, get thr
 | sitting | 一次就座；一场 |
 | start | 开始 |
 | thesis | 论文 |
-| tutor | 导师 |
-| lecture | 讲座 |
-| lab | 实验室 |
-| homework | 作业 |
-| book | 书 |
-| answer | 答案 |
-| course | 课程 |
+| tutor | 导师 |
 
 </quiz-matching>
 

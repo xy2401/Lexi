@@ -229,14 +229,7 @@ advise, bless you, bone, catch, cut, disease, drug, drugstore, get, get sick, ge
 | sneeze | 打喷嚏 |
 | test | 检查 / 测试 |
 | unhealthy | 不健康的 |
-| worse | 更糟的 |
-| is | 是（单数） |
-| was | 是（过去式） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| your | 你的 |
-| more | 更多 |
-| than | 比 |
+| worse | 更糟的 |
 
 </quiz-matching>
 

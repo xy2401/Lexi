@@ -234,10 +234,7 @@ but, by, convince, could, doubt that, lamb, option, point, politely, progress, r
 | we would | 我们会 |
 | we'd | we would 的缩写 |
 | would you | 您愿意……吗 |
-| you'd | you would 的缩写 |
-| the | 这个 / 那个 |
-| dish | 菜 / 菜肴 |
-| like | 喜欢 |
+| you'd | you would 的缩写 |
 
 </quiz-matching>
 

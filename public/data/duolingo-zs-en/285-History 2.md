@@ -226,15 +226,7 @@ age, capture, charm, designed, draw your attention to, exhibit, formerly, herita
 | these ones | 这些 |
 | those ones | 那些 |
 | tour | 游览 / 导览 |
-| tower | 塔 |
-| is | 是 |
-| the | 这个（定冠词） |
-| museum | 博物馆 |
-| statue | 雕像 |
-| building | 建筑 |
-| city | 城市 |
-| lighthouse | 灯塔 |
-| artifacts | 文物 |
+| tower | 塔 |
 
 </quiz-matching>
 

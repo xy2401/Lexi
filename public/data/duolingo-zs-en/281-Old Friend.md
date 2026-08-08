@@ -230,16 +230,7 @@ all grown up, any, back in town, can't complain, catch you up on, compliment, de
 | promise to | 答应做… |
 | run into | 偶遇 |
 | so far | 到目前为止 |
-| things | 事情 / 生活 |
-| is | 是 |
-| the | 这个（定冠词） |
-| friend | 朋友 |
-| mall | 商场 |
-| news | 消息 |
-| job | 工作 |
-| garden | 花园 |
-| kids | 孩子们 |
-| weather | 天气 |
+| things | 事情 / 生活 |
 
 </quiz-matching>
 

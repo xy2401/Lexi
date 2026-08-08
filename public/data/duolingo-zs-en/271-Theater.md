@@ -225,13 +225,7 @@ almost a, almost all, audition, chances are, critic, full house, highly, impress
 | set | 布景 |
 | spotlight | 聚光灯 |
 | stage fright | 怯场 |
-| there's no question | 毫无疑问 |
-| is | 是 |
-| the | 这个（定冠词） |
-| actors | 演员们 |
-| performance | 演出 |
-| singing | 唱歌 |
-| break | 突破 |
+| there's no question | 毫无疑问 |
 
 </quiz-matching>
 

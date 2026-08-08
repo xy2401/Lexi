@@ -220,29 +220,7 @@ any, anything, beaten, been, choose to, freeze, froze, frozen, hear that, in com
 | stop by | 顺道拜访 |
 | typically | 通常 |
 | well | 好 / 嗯 |
-| will | 将要 |
-| I | 我 |
-| you | 你 |
-| he | 他 |
-| she | 她 |
-| we | 我们 |
-| some | 一些 |
-| is | 是（单数） |
-| are | 是（复数） |
-| has | 有（三单） |
-| have | 有 |
-| the | 这 / 那（定冠词） |
-| to | 到 / 向 |
-| in | 在……里 |
-| on | 在……上 |
-| after | 在……之后 |
-| than | 比 |
-| gym | 健身房 |
-| stadium | 体育场 |
-| play | 打（球） |
-| match | 比赛 |
-| never | 从不 |
-| ever | 曾经 |
+| will | 将要 |
 
 </quiz-matching>
 

@@ -233,11 +233,7 @@ Buddhist, Christian, Hindu, Jewish, Muslim, atheist, become, believe in, bible, 
 | respect | 尊重 |
 | return | 返回 |
 | take | 拿 / 参加 |
-| temple | 寺庙 |
-| is | 是（单数） |
-| the | 这个 / 那个 |
-| every | 每个 |
-| very | 非常 |
+| temple | 寺庙 |
 
 </quiz-matching>
 

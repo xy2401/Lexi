@@ -228,10 +228,7 @@ bit, bite, breathe, closer, creature, escape, face, fall off, frightened, fright
 | sink | 沉没 |
 | virus | 病毒 |
 | weird | 古怪的 |
-| whisper | 低语 |
-| is | 是（单数） |
-| the | 这个 / 那个 |
-| scared | 害怕的 |
+| whisper | 低语 |
 
 </quiz-matching>
 

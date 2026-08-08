@@ -230,15 +230,7 @@ a whole lot, agreement, an open mind, envy, eventually, frustration, gossip, in 
 | unreasonable | 不讲理的 |
 | used to | 过去常常 |
 | who cares | 谁在乎 |
-| yell | 大喊 |
-| we | 我们 |
-| they | 他们 |
-| him | 他 |
-| her | 她 |
-| me | 我 |
-| finally | 终于 |
-| stop | 停止 |
-| try | 尝试 |
+| yell | 大喊 |
 
 </quiz-matching>
 

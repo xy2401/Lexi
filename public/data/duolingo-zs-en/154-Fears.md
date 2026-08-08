@@ -228,23 +228,7 @@ anxious, attack, bee, calm down, cliff, creepy, earthquake, enjoy, fear, get use
 | terrified | 吓坏了的 |
 | thank goodness | 谢天谢地 |
 | used to | 过去常常 |
-| yikes | 哎呀（受惊） |
-| am | 是（与 I 搭配） |
-| is | 是（单数） |
-| are | 是（复数） |
-| was | 是（过去式） |
-| of | ……的 |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| just | 只是 |
-| don't | 不（否定） |
-| I | 我 |
-| it | 它 |
-| that | 那个 |
-| about | 关于 |
-| in | 在……里 |
-| last | 上一个 |
-| had | 有（过去式） |
+| yikes | 哎呀（受惊） |
 
 </quiz-matching>
 

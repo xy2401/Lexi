@@ -230,13 +230,7 @@ appliance, attic, brand new, commute, compromise, dream, fence, fireplace, go wi
 | the one | 那一个 |
 | way too | 实在太 |
 | wouldn't it be | 难道不会……吗 |
-| wouldn't you | 你不想……吗 |
-| house | 房子 |
-| kitchen | 厨房 |
-| rent | 租金 |
-| budget | 预算 |
-| station | 车站 |
-| area | 地区 |
+| wouldn't you | 你不想……吗 |
 
 </quiz-matching>
 

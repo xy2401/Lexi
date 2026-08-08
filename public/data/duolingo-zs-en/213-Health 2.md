@@ -229,13 +229,7 @@ ask, blood pressure, cancer, check-up, cure, fitness, give up, good for you, hea
 | wait | 等待 |
 | weigh | 称重；重达 |
 | workout | 一次锻炼 |
-| x-ray | X光 |
-| doctor | 医生 |
-| hospital | 医院 |
-| you | 你 |
-| should | 应该 |
-| health | 健康 |
-| serious | 严重的 |
+| x-ray | X光 |
 
 </quiz-matching>
 

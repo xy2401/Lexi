@@ -228,15 +228,7 @@ bill, by then, campaign, candidate, elect, furthermore, going to be, opponent, p
 | will they have | 他们会有……吗 |
 | will you be | 你会是……吗 |
 | won't have | 将不会有 |
-| you'll have | 你将有 |
-| votes | 选票 |
-| taxes | 税收 |
-| society | 社会 |
-| citizen | 公民 |
-| vote | 投票 |
-| mayor | 市长 |
-| race | 竞赛 |
-| rally | 集会 |
+| you'll have | 你将有 |
 
 </quiz-matching>
 

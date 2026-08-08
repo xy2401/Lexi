@@ -224,24 +224,7 @@ arrest, attack, bomb, call the police, certain, commit, emergency, file, glad, i
 | thieves | 小偷（复数） |
 | truck | 卡车 |
 | unknown | 未知的 |
-| worn | 穿旧的 / 戴着（过去分词） |
-| the | 这 / 那（定冠词） |
-| was | 是（过去式） |
-| is | 是（单数） |
-| a | 一（个） |
-| in | 在……里 |
-| at | 在 |
-| by | 被 / 由 |
-| he | 他 |
-| they | 他们 |
-| someone | 某人 |
-| no one | 没有人 |
-| still | 仍然 |
-| right | 正好 / 右 |
-| now | 现在 |
-| police | 警方 |
-| black | 黑色的 |
-| safe | 安全的 |
+| worn | 穿旧的 / 戴着（过去分词） |
 
 </quiz-matching>
 

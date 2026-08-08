@@ -231,13 +231,7 @@ accept, airline, apply, away, begun, benefits, career, contact, decision, done, 
 | since | 自从 |
 | skill | 技能 |
 | sound like | 听起来像 |
-| understood | 理解（过去式） |
-| the | 这 / 那（定冠词） |
-| job | 工作 |
-| offer | 邀约 |
-| contract | 合同 |
-| project | 项目 |
-| email | 邮件 |
+| understood | 理解（过去式） |
 
 </quiz-matching>
 

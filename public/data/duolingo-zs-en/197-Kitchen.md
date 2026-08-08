@@ -225,11 +225,7 @@ a bit of, basket, boil, burn, cucumber, dozen, dressing, fry, grill, half-, nood
 | sticky | 黏的 |
 | stir | 搅拌 |
 | taste | 尝 / 味道 |
-| yum | 好吃 |
-| is | 是（单数） |
-| the | 这个 / 那个 |
-| soup | 汤 |
-| add | 添加 |
+| yum | 好吃 |
 
 </quiz-matching>
 

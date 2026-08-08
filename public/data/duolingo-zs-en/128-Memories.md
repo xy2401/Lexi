@@ -229,14 +229,7 @@ bug, card, caught, childhood, come over, dirt, do, frog, frying pan, hide, joke,
 | strict | 严格的 |
 | trumpet | 小号（乐器） |
 | up | 向上 |
-| used to | 过去常常 |
-| is | 是（单数） |
-| was | 是（过去式） |
-| we | 我们 |
-| he | 他 |
-| she | 她 |
-| the | 这 / 那（定冠词） |
-| after | 在……之后 |
+| used to | 过去常常 |
 
 </quiz-matching>
 

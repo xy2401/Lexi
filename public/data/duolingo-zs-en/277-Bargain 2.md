@@ -228,17 +228,7 @@ a steal, bargain hunter, been, been worn, deal, do you happen to, dusty, empty o
 | shape | 形状 / 状况 |
 | store | 存放 / 商店 |
 | unwanted | 不再想要的 |
-| wondering | 想知道 |
-| is | 是 |
-| the | 这个（定冠词） |
-| attic | 阁楼 |
-| coat | 外套 |
-| price | 价格 |
-| chair | 椅子 |
-| garage | 车库 |
-| boots | 靴子 |
-| boxes | 盒子 |
-| years | 年 |
+| wondering | 想知道 |
 
 </quiz-matching>
 

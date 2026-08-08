@@ -226,16 +226,7 @@ appearance, barbershop, cut, do, dye, expert, forehead, get, hairstyle, lip, mak
 | remove | 去除 |
 | salon | 沙龙；美容院 |
 | stylish | 时髦的 |
-| tattoo | 纹身 |
-| I | 我 |
-| she | 她 |
-| he | 他 |
-| your | 你的 |
-| new | 新的 |
-| hair | 头发 |
-| very | 非常 |
-| want | 想要 |
-| is | 是（单数） |
+| tattoo | 纹身 |
 
 </quiz-matching>
 

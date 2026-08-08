@@ -226,16 +226,7 @@ bad guy, chase, feather, get caught, if he didn't, if he had, if he wasn't, if s
 | violent | 暴力的 |
 | what if | 如果……怎么办 |
 | wolf | 狼 |
-| would have | 本来会 |
-| he | 他 |
-| she | 她 |
-| they | 他们 |
-| who | 谁 |
-| through | 穿过 |
-| again | 又 |
-| ever | 曾经 |
-| out | 上映 |
-| hard | 重重地 |
+| would have | 本来会 |
 
 </quiz-matching>
 

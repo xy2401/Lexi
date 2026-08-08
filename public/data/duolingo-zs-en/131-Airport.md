@@ -232,13 +232,7 @@ abroad, baggage, can't, cancel, canceled, check in, citizen, confused, couldn't,
 | transportation | 交通 |
 | visa | 签证 |
 | won't | 将不 / 不肯 |
-| you | 你 / 你们 |
-| is | 是（单数） |
-| my | 我的 |
-| the | 这 / 那（定冠词） |
-| please | 请 |
-| for | 为了 / 对 |
-| when | 什么时候 |
+| you | 你 / 你们 |
 
 </quiz-matching>
 

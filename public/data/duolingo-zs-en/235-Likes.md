@@ -232,21 +232,7 @@ appealing, appropriately, by, can't get enough of, can't wait, catch up, don't, 
 | unique | 独一无二的 |
 | up to | 在做 / 直到 |
 | virtual reality | 虚拟现实 |
-| won't | 不会 |
-| is | 是 |
-| will | 将会 |
-| your | 你的 |
-| really | 真的 |
-| at | 在（时刻） |
-| on | 在……上 |
-| for | 为了 / 对于 |
-| soon | 很快 |
-| she | 她 |
-| he | 他 |
-| they | 他们 |
-| we | 我们 |
-| let's | 让我们 |
-| come | 来 |
+| won't | 不会 |
 
 </quiz-matching>
 

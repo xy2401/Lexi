@@ -226,27 +226,7 @@ already, always, amazingly, before, briefly, brochure, cabin, comment, complain,
 | stay | 停留 / 住宿 |
 | support | 支持 |
 | when | 当……时 |
-| yet | 还（尚未） |
-| I | 我 |
-| we | 我们 |
-| he | 他 |
-| she | 她 |
-| they | 他们 |
-| you | 你 |
-| is | 是（单数） |
-| was | 是（过去式） |
-| have | 有（助动词） |
-| has | 有（三单） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| in | 在……里 |
-| about | 关于 |
-| to | 到 / 向 |
-| arrive | 到达 |
-| land | 降落 |
-| plane | 飞机 |
-| hotel | 酒店 |
-| abroad | 在国外 |
+| yet | 还（尚未） |
 
 </quiz-matching>
 

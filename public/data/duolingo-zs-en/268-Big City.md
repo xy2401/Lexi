@@ -232,14 +232,7 @@ Hollywood, adjust, agriculture, artistic, best way to learn, best way to meet, b
 | the big city | 大城市 |
 | uncertain | 不确定的 |
 | up to your standards | 达到你的标准 |
-| values | 价值观 |
-| is | 是 |
-| her | 她的 |
-| city | 城市 |
-| hometown | 家乡 |
-| apartment | 公寓 |
-| lunch | 午餐 |
-| people | 人们 |
+| values | 价值观 |
 
 </quiz-matching>
 

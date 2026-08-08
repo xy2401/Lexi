@@ -225,17 +225,7 @@ carefully, defective, everybody, full refund, guarantee, in need of, must i, mus
 | their | 他们的 |
 | unavailable | 没空 / 不可用 |
 | useless | 毫无用处的 |
-| waterproof | 防水的 |
-| I | 我 |
-| we | 我们 |
-| please | 请 |
-| here | 这里 |
-| today | 今天 |
-| for | 持续 |
-| before | 在……之前 |
-| everyone | 每个人 |
-| still | 仍然 |
-| on | 在……上 |
+| waterproof | 防水的 |
 
 </quiz-matching>
 

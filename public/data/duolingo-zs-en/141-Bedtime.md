@@ -228,13 +228,7 @@ alarm clock, ambulance, angel, cough, fan, flu, fluffy, hole, lightning, lullaby
 | the dark | 黑暗 |
 | touch | 触摸 |
 | unpleasant | 不愉快的 |
-| wing | 翅膀 |
-| is | 是（单数） |
-| was | 是（过去式） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| my | 我的 |
-| and | 和 |
+| wing | 翅膀 |
 
 </quiz-matching>
 

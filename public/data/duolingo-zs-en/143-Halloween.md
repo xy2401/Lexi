@@ -225,14 +225,7 @@ Halloween, bat, costume, did, didn't, do, does, doesn't, don't, fashionable, fit
 | tore | 撕破过（tear 的过去式） |
 | torn | 破了的（tear 的过去分词） |
 | tying | 正在系（tie 的进行时） |
-| witch | 女巫 |
-| is | 是（单数） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| you | 你 / 你们 |
-| my | 我的 |
-| very | 非常 |
+| witch | 女巫 |
 
 </quiz-matching>
 

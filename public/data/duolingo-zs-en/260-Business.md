@@ -227,16 +227,7 @@ accessible, amount, between, by the end of, carefully, data, decline, drop, entr
 | the right time | 合适的时机 |
 | up and running | 正常运转 |
 | vacuum cleaner | 吸尘器 |
-| vegan | 纯素的 / 纯素食者 |
-| We | 我们 |
-| her | 她的 |
-| this | 这个 |
-| now | 现在 |
-| next | 下一个 |
-| online | 在线 |
-| to | 到 / 去 |
-| at | 在 |
-| year | 年 |
+| vegan | 纯素的 / 纯素食者 |
 
 </quiz-matching>
 

@@ -229,14 +229,7 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
 | then | 那么 |
 | what about if | 如果……怎么样 |
 | will you | 你会……吗 |
-| would you | 你能……吗 |
-| home | 家 |
-| homework | 作业 |
-| party | 聚会 |
-| can | 能 |
-| need | 需要 |
-| deal | 协议 |
-| father | 父亲 |
+| would you | 你能……吗 |
 
 </quiz-matching>
 

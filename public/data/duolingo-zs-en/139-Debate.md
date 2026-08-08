@@ -227,14 +227,7 @@ ahead, argue, at all, chosen, completed, disagree, enemy, extremely, increase, m
 | solved | 已解决的 |
 | suggestion | 建议 |
 | thought | 想法 |
-| trouble | 麻烦 |
-| is | 是（单数） |
-| the | 这 / 那（定冠词） |
-| with | 和 / 与 |
-| about | 关于 |
-| my | 我的 |
-| this | 这个 |
-| and | 和 |
+| trouble | 麻烦 |
 
 </quiz-matching>
 

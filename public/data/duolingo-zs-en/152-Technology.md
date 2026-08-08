@@ -230,21 +230,7 @@ accidentally, attach, back, back up, button, connect, cost, dot com, follow, loo
 | upgrade | 升级 |
 | username | 用户名 |
 | voicemail | 语音邮件 |
-| volume | 音量 |
-| is | 是（单数） |
-| does | （第三人称单数助动词） |
-| the | 这 / 那（定冠词） |
-| to | 到 / 向 |
-| with | 用 / 和 |
-| my | 我的 |
-| your | 你的 |
-| please | 请 |
-| too | 太 |
-| this | 这个 |
-| new | 新的 |
-| it | 它 |
-| can't | 不能 |
-| don't | 不（否定） |
+| volume | 音量 |
 
 </quiz-matching>
 

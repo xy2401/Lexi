@@ -227,10 +227,7 @@ against, crash, damage, decrease, explode, flood, happen, has there been, have t
 | there have been | 发生过（复数） |
 | there haven't been | 没有发生过（复数） |
 | unemployment | 失业率 |
-| warning | 警告 / 预警 |
-| any | 任何 |
-| news | 新闻 |
-| police | 警察 |
+| warning | 警告 / 预警 |
 
 </quiz-matching>
 

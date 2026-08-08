@@ -148,7 +148,7 @@ export function validateCourseDocument(document: CourseDocument, file = 'course.
     }
   }
   const matching = document.quizzes.find((quiz): quiz is MatchingQuiz => quiz.type === 'matching')
-  if (matching && matching.itemCount < 20) add('Matching 至少需要 20 组配对')
+  if (matching && matching.itemCount < 15) add('Matching 至少需要 15 组配对')
   return errors
 }
 
@@ -367,7 +367,7 @@ export function parseCourseMarkdown(source: string, filename = 'course.md'): Cou
 
     if (type === 'matching') {
       const pairs = parseMatching(block.body)
-      if (block.body && pairs.length < 20) diagnostics.push(`${filename}:${block.line} Matching 至少需要 20 组配对`)
+      if (block.body && pairs.length < 15) diagnostics.push(`${filename}:${block.line} Matching 至少需要 15 组配对`)
       quizzes.push({
         ...makeBase(type, index, pairs.length || Math.min(10, words.length)),
         type,

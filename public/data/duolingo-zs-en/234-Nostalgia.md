@@ -229,13 +229,7 @@ back, camp, clearly, get, hit it off, homesick, irresponsible, junk food, long-d
 | talk | 聊天 |
 | trick | 把戏；恶作剧 |
 | we'd | we would 的缩写 |
-| would | 过去常常 |
-| lake | 湖 |
-| story | 故事 |
-| phone | 电话 |
-| memory | 回忆 |
-| counselor | 辅导员 |
-| corner | 街角 |
+| would | 过去常常 |
 
 </quiz-matching>
 

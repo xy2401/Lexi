@@ -230,13 +230,7 @@ afterward, away, cash register, change, checkout, cotton, cute, didn't, doesn't,
 | ugly | 丑的 |
 | underwear | 内衣 |
 | wasn't | 不是（单数过去否定） |
-| weren't | 不是（复数过去否定） |
-| is | 是（单数） |
-| are | 是（复数） |
-| it | 它 |
-| me | 我（宾格） |
-| this | 这个 |
-| of | ……的（介词） |
+| weren't | 不是（复数过去否定） |
 
 </quiz-matching>
 

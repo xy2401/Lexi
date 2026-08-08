@@ -226,19 +226,12 @@ best bet, bush, could, cut down, gardener, green thumb, ground, have to be, hire
 | pot | 花盆 |
 | seed | 种子 |
 | should | 应该 |
-| should be | 应该是 |
 | shouldn't be | 不应该是 |
 | soil | 土壤 |
 | spot | 地点；一处 |
 | spray | 喷洒 |
 | stem | 茎 |
-| vegetable garden | 菜园 |
-| plant | 种植；植物 |
-| water | 浇水 |
-| garden | 花园 |
-| tree | 树 |
-| roses | 玫瑰 |
-| spring | 春天 |
+| vegetable garden | 菜园 |
 
 </quiz-matching>
 

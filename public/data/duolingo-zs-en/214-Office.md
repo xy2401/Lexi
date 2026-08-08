@@ -234,12 +234,7 @@ actually, as well as, basically, challenging, contract, did you say, financial, 
 | urgent | 紧急的 |
 | when | 什么时候 |
 | where | 哪里 |
-| you know | 你知道的 |
-| job | 工作 |
-| meeting | 会议 |
-| team | 团队 |
-| interview | 面试 |
-| this | 这个 |
+| you know | 你知道的 |
 
 </quiz-matching>
 

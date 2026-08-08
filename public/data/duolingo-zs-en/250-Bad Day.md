@@ -227,16 +227,7 @@ anybody, badly, break, calculator, catch up, cheer, effort, error, everybody, fr
 | see | 看见 / 明白 |
 | stain | 污渍 |
 | tough | 艰难的 |
-| tray | 托盘 |
-| I | 我 |
-| he | 他 |
-| she | 她 |
-| we | 我们 |
-| someone | 某人 |
-| while | 当……时 |
-| first | 首先 |
-| help | 帮助 |
-| home | 家 |
+| tray | 托盘 |
 
 </quiz-matching>
 

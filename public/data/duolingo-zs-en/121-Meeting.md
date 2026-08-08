@@ -232,13 +232,7 @@ agenda, aren't, charger, cool, couple, figure, first, from home, hard, headphone
 | speed | 速度 |
 | sunset | 日落 |
 | thunder | 雷 |
-| too | 也 / 太 |
-| the | 这 / 那（定冠词） |
-| mic | 麦克风 |
-| internet | 网络 |
-| road | 道路 |
-| winter | 冬天 |
-| file | 文件 |
+| too | 也 / 太 |
 
 </quiz-matching>
 

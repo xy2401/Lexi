@@ -221,11 +221,7 @@ air conditioner, bucket, cupboard, dig, electrical, faucet, feet wide, fit, fram
 | would have | 本来会 |
 | would she have | 她本来会……吗 |
 | would you have | 你本来会……吗 |
-| would've | would have 的缩写 |
-| is | 是（单数） |
-| the | 这个 / 那个 |
-| broken | 坏的 |
-| garden | 花园 |
+| would've | would have 的缩写 |
 
 </quiz-matching>
 

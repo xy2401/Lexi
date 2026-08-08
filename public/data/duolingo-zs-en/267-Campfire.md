@@ -231,15 +231,7 @@ Bigfoot, burst into, campfire, cliffhanger, darkness, dead, dying to, edge of my
 | silently | 无声地 |
 | spooky | 阴森的 |
 | squirrel | 松鼠 |
-| werewolf | 狼人 |
-| the | 这个（定冠词） |
-| is | 是 |
-| fire | 火 |
-| tent | 帐篷 |
-| forest | 森林 |
-| moon | 月亮 |
-| wall | 墙 |
-| laughter | 笑声 |
+| werewolf | 狼人 |
 
 </quiz-matching>
 

@@ -226,16 +226,7 @@ alternatively, ever, favor, figure, gardening, help out, hesitate, inconvenient,
 | unlock | 开锁 |
 | wait | 等待 |
 | wondering | 在想 / 想知道 |
-| would you consider | 你愿不愿意考虑 |
-| I | 我 |
-| you | 你 |
-| him | 他 |
-| her | 她 |
-| thanks | 谢谢 |
-| until | 直到 |
-| for | 为了 |
-| here | 这里 |
-| today | 今天 |
+| would you consider | 你愿不愿意考虑 |
 
 </quiz-matching>
 

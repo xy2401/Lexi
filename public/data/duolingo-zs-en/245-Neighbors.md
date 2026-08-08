@@ -230,15 +230,7 @@ a piece of, bizarre, constantly, cool down, driveway, endless, fire department, 
 | that must be | 那一定是 |
 | the issue is | 问题是 |
 | the problem is | 问题是 |
-| would appreciate it | 会感激 |
-| he | 他 |
-| she | 她 |
-| his | 他的 |
-| my | 我的 |
-| should | 应该 |
-| stopped | 停止 |
-| came | 来 |
-| under | 在……之下 |
+| would appreciate it | 会感激 |
 
 </quiz-matching>
 

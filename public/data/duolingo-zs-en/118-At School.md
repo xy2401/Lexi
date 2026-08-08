@@ -230,13 +230,7 @@ attend, campus, certificate, chapter, confusing, description, dining hall, dorm,
 | translate | 翻译 |
 | underline | 画线 |
 | whose | 谁的 |
-| written | 书面的 |
-| the | 这 / 那（定冠词） |
-| word | 单词 |
-| exam | 考试 |
-| question | 问题 |
-| answer | 答案 |
-| course | 课程 |
+| written | 书面的 |
 
 </quiz-matching>
 

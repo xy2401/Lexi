@@ -234,12 +234,7 @@ admit, ask if, asked, asked if, asked whether, asking, confirm, deal with, due t
 | think of | 认为 / 觉得 |
 | totally | 完全地 |
 | waste | 浪费 |
-| what are your thoughts on | 你对……有什么想法 |
-| he | 他 |
-| she | 她 |
-| the | 这个 / 那个 |
-| was | 是（过去式） |
-| we | 我们 |
+| what are your thoughts on | 你对……有什么想法 |
 
 </quiz-matching>
 

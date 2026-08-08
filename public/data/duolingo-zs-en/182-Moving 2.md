@@ -232,12 +232,7 @@ across, antique, basement, coffee table, compare, damage, did, do, does, don't, 
 | so do i | 我也是 |
 | system | 系统 |
 | total | 总计的 / 总额 |
-| utilities | 水电杂费 |
-| is | 是（单数） |
-| are | 是（复数） |
-| the | 这个 / 那个 |
-| rent | 房租 |
-| floor | 楼层 |
+| utilities | 水电杂费 |
 
 </quiz-matching>
 

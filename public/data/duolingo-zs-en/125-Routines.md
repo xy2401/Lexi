@@ -234,13 +234,7 @@ asleep, awake, bored, change, comb, down, dress, exercise, fall asleep, fallen a
 | smile | 微笑 |
 | stressed | 有压力的 |
 | toothpaste | 牙膏 |
-| uncomfortable | 不舒服的 |
-| is | 是（单数） |
-| he | 他 |
-| she | 她 |
-| at | 在（时刻） |
-| every | 每个 |
-| and | 和 |
+| uncomfortable | 不舒服的 |
 
 </quiz-matching>
 

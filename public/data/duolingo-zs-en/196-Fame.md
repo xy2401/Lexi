@@ -225,11 +225,7 @@ about, act, autograph, award, biography, director, does, extraordinary, gossip, 
 | star in | 主演 |
 | the most | 最（最高级） |
 | think | 认为 |
-| thinking | 正在想 |
-| is | 是（单数） |
-| movie | 电影 |
-| actor | 演员 |
-| singer | 歌手 |
+| thinking | 正在想 |
 
 </quiz-matching>
 

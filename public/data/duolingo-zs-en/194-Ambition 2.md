@@ -221,11 +221,7 @@ advantage, babysit, baker, change, dream job, employment, face to face, had, hai
 | talent | 才能 |
 | tech | 科技 |
 | vet | 兽医 |
-| wouldn't | 不会（would not 缩写） |
-| is | 是（单数） |
-| job | 工作 |
-| the | 这个 / 那个 |
-| would | 会 |
+| wouldn't | 不会（would not 缩写） |
 
 </quiz-matching>
 

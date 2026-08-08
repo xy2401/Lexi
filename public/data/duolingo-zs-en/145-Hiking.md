@@ -229,14 +229,7 @@ allowed, among, ancient, ant, beauty, because, butterfly, close, direction, dust
 | somewhere else | 别的某处 |
 | stick | 树枝 / 棍子 |
 | underneath | 在……正下方 |
-| valley | 山谷 |
-| is | 是（单数） |
-| was | 是（过去式） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| we | 我们 |
-| in | 在……里 |
-| on | 在……上 |
+| valley | 山谷 |
 
 </quiz-matching>
 

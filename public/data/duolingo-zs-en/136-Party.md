@@ -226,14 +226,7 @@ although, cabbage, chili, day off, imagine, in my opinion, increase, lift, look 
 | too bad | 真可惜 |
 | whether | 是否 |
 | which | 哪一个 |
-| while | 当……时 / 然而 |
-| is | 是（单数） |
-| are | 是（复数） |
-| do | 助动词 / 做 |
-| the | 这 / 那（定冠词） |
-| you | 你 / 你们 |
-| we | 我们 |
-| and | 和 |
+| while | 当……时 / 然而 |
 
 </quiz-matching>
 

@@ -226,13 +226,7 @@ clear up, compared to, ever, find it, flood, freezing, frost, get cold, humidity
 | tornado | 龙卷风 |
 | turn | 变得；转向 |
 | will | 将 |
-| will be | 将会是 |
-| rain | 雨 |
-| sky | 天空 |
-| tomorrow | 明天 |
-| weather | 天气 |
-| ground | 地面 |
-| cool | 凉爽的 |
+| will be | 将会是 |
 
 </quiz-matching>
 

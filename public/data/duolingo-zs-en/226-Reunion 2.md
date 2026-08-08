@@ -223,16 +223,7 @@ ages, back then, bond, campus, find out, fluent, get, get over, happy hour, infl
 | turn out | 结果是 |
 | who | 谁（关系代词） |
 | whoever | 无论谁 |
-| whose | 谁的 |
-| friend | 朋友 |
-| party | 派对 |
-| music | 音乐 |
-| crowd | 人群 |
-| truth | 真相 |
-| college | 大学 |
-| reunion | 聚会 |
-| seat | 座位 |
-| student | 学生 |
+| whose | 谁的 |
 
 </quiz-matching>
 

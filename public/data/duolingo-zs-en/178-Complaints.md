@@ -233,24 +233,7 @@ apology, besides, blame, disappointed, disappointing, end up, end up in, fault, 
 | turn up | 出现 / 调大 |
 | unfair | 不公平的 |
 | what a | 多么（感叹） |
-| would it be possible | 是否可能（委婉） |
-| I | 我 |
-| we | 我们 |
-| he | 他 |
-| she | 她 |
-| they | 他们 |
-| you | 你 |
-| is | 是（单数） |
-| was | 是（过去式） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| my | 我的 |
-| it | 它 |
-| don't | 不（否定） |
-| please | 请 |
-| with | 和 / 与 |
-| for | 为了 |
+| would it be possible | 是否可能（委婉） |
 
 </quiz-matching>
 

@@ -227,16 +227,7 @@ accommodations, along the way, alternate, connection, considerably, end up, in o
 | slight | 轻微的 |
 | thinking of | 考虑 |
 | turn around | 掉头 |
-| was going to | 本来打算 |
-| is | 是 |
-| the | 这个（定冠词） |
-| flights | 航班 |
-| train | 火车 |
-| home | 家 |
-| traffic | 交通 |
-| delay | 延误 |
-| deli | 熟食店 |
-| fun | 乐趣 |
+| was going to | 本来打算 |
 
 </quiz-matching>
 

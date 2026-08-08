@@ -228,16 +228,7 @@ all in all, away, blinds, company, draw attention, dust, get, goes without sayin
 | tidy up | 整理 |
 | to-do list | 待办清单 |
 | toilet paper | 卫生纸 |
-| without | 没有 |
-| is | 是 |
-| the | 这个（定冠词） |
-| floor | 地板 |
-| kitchen | 厨房 |
-| bathroom | 浴室 |
-| magazines | 杂志 |
-| boxes | 箱子 |
-| clean | 干净的 |
-| spotless | 一尘不染的 |
+| without | 没有 |
 
 </quiz-matching>
 

@@ -230,12 +230,7 @@ about, application, avoid, baker, blank, branch, by, farming, hairstylist, knowl
 | signature | 签名 |
 | sincerely | 真诚地 |
 | succeed | 成功（动词） |
-| success | 成功（名词） |
-| is | 是（单数） |
-| the | 这 / 那（定冠词） |
-| please | 请 |
-| from | 来自 |
-| with | 和 / 与 |
+| success | 成功（名词） |
 
 </quiz-matching>
 

@@ -228,15 +228,7 @@ all over the place, allowance, any chance, arrange, bedtime, cardboard, clear th
 | responsibility | 责任 |
 | run to | 跑一趟去 |
 | should be | 应该是 |
-| walk the dog | 遛狗 |
-| dinner | 晚饭 |
-| weather | 天气 |
-| store | 商店 |
-| milk | 牛奶 |
-| toys | 玩具 |
-| homework | 作业 |
-| bed | 床 |
-| cat | 猫 |
+| walk the dog | 遛狗 |
 
 </quiz-matching>
 

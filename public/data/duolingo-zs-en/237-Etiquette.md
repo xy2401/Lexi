@@ -229,15 +229,7 @@ after being, after having, arrangement, as for, bouquet, depending on, do withou
 | to begin with | 首先 |
 | up to | 多达 / 由……决定 |
 | when in doubt | 拿不准的时候 |
-| whether or not | 是否 |
-| she | 她 |
-| will | 将会 |
-| can | 能 |
-| with | 与 |
-| by | 在……之前 |
-| one | 一个 |
-| everyone | 每个人 |
-| starts | 开始 |
+| whether or not | 是否 |
 
 </quiz-matching>
 

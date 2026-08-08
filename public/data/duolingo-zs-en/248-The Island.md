@@ -228,15 +228,7 @@ aircraft, circumstance, concern, crab, deadly, despite the fact that, encounter,
 | smoke | 烟 |
 | suffering | 苦难 |
 | survive | 幸存 |
-| that | 那 / 那么 |
-| they | 他们 |
-| their | 他们的 |
-| with | 用 / 与 |
-| after | 在……之后 |
-| was | 是（过去式） |
-| so | 所以 |
-| from | 从 |
-| way | 路 |
+| that | 那 / 那么 |
 
 </quiz-matching>
 

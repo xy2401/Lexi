@@ -234,14 +234,7 @@ as, based on, bullet, case, clue, considering, could have, crucial, disguise, di
 | robber | 抢劫犯 |
 | suspect | 嫌疑犯 / 怀疑 |
 | there may have been | 可能有过 |
-| weapon | 武器 |
-| the | 这个（定冠词） |
-| police | 警方 |
-| guard | 警卫 |
-| alarm | 警报 |
-| camera | 摄像头 |
-| evidence | 证据 |
-| mud | 泥地 |
+| weapon | 武器 |
 
 </quiz-matching>
 

@@ -230,13 +230,7 @@ American dream, after all, american, assume, cheerleader, cliché, competitive, 
 | shake | 摇；握手 |
 | unrealistic | 不切实际的 |
 | welcoming | 热情友好的 |
-| what on earth | 到底…… |
-| friendly | 友好的 |
-| society | 社会 |
-| culture | 文化 |
-| smile | 微笑 |
-| idea | 观点 |
-| kid | 孩子 |
+| what on earth | 到底…… |
 
 </quiz-matching>
 

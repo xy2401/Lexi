@@ -231,15 +231,7 @@ appear, as a result of, bartender, before long, consequently, courage, debt, dee
 | so i wouldn't | 这样我就不会 |
 | trap | 陷阱 / 困境 |
 | upbringing | 教养 |
-| work out | 顺利解决 |
-| I | 我 |
-| he | 他 |
-| she | 她 |
-| now | 现在 |
-| last | 上个 |
-| found | 找到 |
-| worry | 担心 |
-| as | 作为 |
+| work out | 顺利解决 |
 
 </quiz-matching>
 

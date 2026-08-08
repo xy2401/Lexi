@@ -227,15 +227,7 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
 | were always | 过去总是在 |
 | would | 过去总会 |
 | would usually | 通常会 |
-| yo-yo | 溜溜球 |
-| is | 是 |
-| the | 这个（定冠词） |
-| friends | 朋友 |
-| game | 游戏 |
-| memories | 回忆 |
-| song | 歌 |
-| candies | 糖果 |
-| lunch | 午餐 |
+| yo-yo | 溜溜球 |
 
 </quiz-matching>
 

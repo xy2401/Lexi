@@ -234,13 +234,7 @@ bride, celebrate, ceremony, cheek, colorful, deliver, engaged, exchange, greet, 
 | traditional | 传统的 |
 | until | 直到 |
 | vase | 花瓶 |
-| wedding | 婚礼 |
-| is | 是（单数） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| and | 和 |
-| at | 在（时刻 / 地点） |
-| for | 为了 / 因为 |
+| wedding | 婚礼 |
 
 </quiz-matching>
 

@@ -234,13 +234,7 @@ aspirin, badly, bleed, clinic, cough, degree, do, does, doesn't, don't, elbow, e
 | sore | 疼痛的 |
 | temperature | 体温 |
 | throat | 喉咙 |
-| tissue | 纸巾 |
-| is | 是（单数） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| your | 你的 |
-| for | 持续 / 为了 |
+| tissue | 纸巾 |
 
 </quiz-matching>
 

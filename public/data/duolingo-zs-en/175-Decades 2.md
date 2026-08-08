@@ -224,26 +224,7 @@
 | the day before | 前一天 |
 | they'd | 他们已（they had） |
 | we'd | 我们已（we had） |
-| you'd | 你已 / 你会（you had/would） |
-| I | 我 |
-| she | 她 |
-| he | 他 |
-| they | 他们 |
-| we | 我们 |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| was | 是（过去式） |
-| is | 是（单数） |
-| in | 在……里 |
-| on | 在……上 |
-| before | 在……之前 |
-| by | 到 / 在……前 |
-| left | 离开（过去分词） |
-| arrive | 到达 |
-| bought | 买（过去式） |
-| called | 打电话（过去式） |
-| heard | 听说（过去式） |
-| became | 变得（过去式） |
+| you'd | 你已 / 你会（you had/would） |
 
 </quiz-matching>
 

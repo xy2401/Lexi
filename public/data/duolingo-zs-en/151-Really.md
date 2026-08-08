@@ -235,22 +235,7 @@ all right, anything, be, by the way, can't, care, embarrassed, embarrassing, for
 | old friend | 老朋友 |
 | seriously | 说真的 / 认真地 |
 | something | 某事 / 某物 |
-| spoken | 说的（口语的） |
-| is | 是（单数） |
-| are | 是（复数 / you） |
-| it | 它 |
-| that | 那个 |
-| this | 这个 |
-| to | 到 / 对 |
-| about | 关于 |
-| me | 我（宾格） |
-| her | 她（宾格）/ 她的 |
-| him | 他（宾格） |
-| my | 我的 |
-| what | 什么 |
-| why | 为什么 |
-| did | （过去时助动词） |
-| do | 做 / 助动词 |
+| spoken | 说的（口语的） |
 
 </quiz-matching>
 

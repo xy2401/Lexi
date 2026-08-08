@@ -228,15 +228,7 @@ academic, accomplish, accomplishment, admirable, all worth it, benefit, can't wa
 | way to go | 干得漂亮 |
 | willpower | 意志力 |
 | wishing you | 祝你… |
-| work hard at | 在…上努力 |
-| is | 是 |
-| the | 这个（定冠词） |
-| degree | 学位 |
-| goal | 目标 |
-| student | 学生 |
-| future | 未来 |
-| studies | 学业 |
-| life | 人生 |
+| work hard at | 在…上努力 |
 
 </quiz-matching>
 

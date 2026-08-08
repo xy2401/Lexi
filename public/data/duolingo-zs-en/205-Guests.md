@@ -218,12 +218,7 @@ be friends with, copy, cover, going to, intermission, it's good to, oh my gosh, 
 | supposed to | 按理应该 |
 | translation | 翻译 |
 | work | 作品 / 工作 |
-| would | 会 / 想要 |
-| is | 是（单数） |
-| the | 这个 / 那个 |
-| museum | 博物馆 |
-| show | 演出 |
-| gallery | 画廊 |
+| would | 会 / 想要 |
 
 </quiz-matching>
 

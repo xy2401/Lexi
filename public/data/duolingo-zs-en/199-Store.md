@@ -221,11 +221,7 @@ bra, button, collar, damaged, diamond, exchange, label, money back, off, pattern
 | stripe | 条纹 |
 | thick | 厚的 |
 | would | 会 / 想要 |
-| wouldn't | 不会（would not 缩写） |
-| is | 是（单数） |
-| the | 这个 / 那个 |
-| shirt | 衬衫 |
-| item | 商品 |
+| wouldn't | 不会（would not 缩写） |
 
 </quiz-matching>
 

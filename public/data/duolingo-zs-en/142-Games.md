@@ -228,14 +228,7 @@ ability, alike, amazed, brilliant, chin, confident, creative, curious about, fai
 | unemployed | 失业的 |
 | uninteresting | 无趣的 |
 | unlucky | 倒霉的 |
-| would you mind | 你介意……吗 |
-| is | 是（单数） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| his | 他的 |
-| this | 这个 |
-| and | 和 |
+| would you mind | 你介意……吗 |
 
 </quiz-matching>
 

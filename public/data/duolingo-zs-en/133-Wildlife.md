@@ -229,13 +229,7 @@ ahead, beside, bright, dirt, dolphin, earth, giraffe, go back, humid, jungle, ju
 | tiger | 老虎 |
 | who | 谁 |
 | why | 为什么 |
-| zebra | 斑马 |
-| is | 是（单数） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| there | 那里（存在句） |
-| in | 在……里 |
-| so | 这么 / 如此 |
+| zebra | 斑马 |
 
 </quiz-matching>
 

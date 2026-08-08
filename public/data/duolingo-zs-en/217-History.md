@@ -227,13 +227,7 @@ agree to, civilization, conquer, defeat, despite, develop, disappear, even thoug
 | use | 使用 |
 | victory | 胜利 |
 | while | 当……时；而 |
-| yet | 然而 |
-| enemy | 敌人 |
-| battle | 战役 |
-| king | 国王 |
-| land | 土地 |
-| war | 战争 |
-| ancient | 古代的 |
+| yet | 然而 |
 
 </quiz-matching>
 

@@ -232,13 +232,7 @@ accountant, assignment, corn, court, cover, did, didn't use to, favorite, fewer,
 | swept | 打扫过（sweep 的过去式） |
 | tax | 税 |
 | use to | 过去常常 |
-| web | 网 / 互联网 |
-| is | 是（单数） |
-| was | 是（过去式） |
-| we | 我们 |
-| the | 这 / 那（定冠词） |
-| now | 现在 |
-| with | 用 / 和 |
+| web | 网 / 互联网 |
 
 </quiz-matching>
 

@@ -230,16 +230,7 @@ aside from, astonished, awkward, before, claim, clue, did, even, fit in with, fo
 | suspend | 暂停 |
 | swear | 发誓 |
 | tabloid | 八卦小报 |
-| the previous | 前一个的 |
-| I | 我 |
-| he | 他 |
-| she | 她 |
-| they | 他们 |
-| with | 与 |
-| about | 关于 |
-| just | 只是 |
-| please | 请 |
-| everyone | 每个人 |
+| the previous | 前一个的 |
 
 </quiz-matching>
 

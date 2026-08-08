@@ -227,15 +227,7 @@ artificial, biggest, boost, both, confidence, did, energy, fortune, functional, 
 | snore | 打鼾 |
 | thermometer | 温度计 |
 | toenail | 脚趾甲 |
-| wealthy | 富有的 |
-| it | 它 |
-| we | 我们 |
-| free | 免费 / 自由 |
-| today | 今天 |
-| much | 很多 |
-| one | 一个 |
-| will | 将会 |
-| also | 也 |
+| wealthy | 富有的 |
 
 </quiz-matching>
 

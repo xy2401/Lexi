@@ -228,15 +228,7 @@ bite to eat, dominoes, fond of, french fries, game night, go bowling, go for, ho
 | whichever | 无论哪个 |
 | whoever | 无论是谁 |
 | whose turn | 轮到谁 |
-| you don't | 你不… |
-| is | 是 |
-| the | 这个（定冠词） |
-| movie | 电影 |
-| game | 游戏 |
-| tonight | 今晚 |
-| fun | 乐趣 |
-| tired | 累的 |
-| fine | 好的 |
+| you don't | 你不… |
 
 </quiz-matching>
 

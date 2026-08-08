@@ -232,14 +232,7 @@ captain, come on, cyclist, defense, diving, equipment, expect to, final, gymnast
 | there might not be | 可能没有 |
 | there should not be | 不应该有 |
 | there shouldn't be | 不应该有 |
-| track | 跑道；田径 |
-| game | 比赛 |
-| rain | 雨 |
-| tickets | 门票 |
-| we | 我们 |
-| they | 他们 |
-| new | 新的 |
-| the | 这（定冠词） |
+| track | 跑道；田径 |
 
 </quiz-matching>
 

@@ -226,14 +226,7 @@ anniversary, did, event, has, hasn't, have, haven't, honeymoon, in a relationshi
 | tradition | 传统 |
 | typical | 典型的 |
 | van | 面包车 |
-| wave | 挥手 / 波浪 |
-| is | 是（单数） |
-| was | 是（过去式） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| they | 他们 |
-| their | 他们的 |
-| yet | 还（用于否定句） |
+| wave | 挥手 / 波浪 |
 
 </quiz-matching>
 

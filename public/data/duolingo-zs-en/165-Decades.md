@@ -229,21 +229,7 @@
 | to be honest | 说实话 |
 | twentieth | 第二十 |
 | twenty-fifth | 第二十五 |
-| twenty-first | 第二十一 |
-| was | 是（过去式） |
-| is | 是（单数） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| in | 在……里 |
-| I | 我 |
-| he | 他 |
-| she | 她 |
-| my | 我的 |
-| her | 她的 |
-| at | 在 |
-| today | 今天 |
-| century | 世纪 |
-| phone | 手机 |
+| twenty-first | 第二十一 |
 
 </quiz-matching>
 

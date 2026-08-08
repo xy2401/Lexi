@@ -228,14 +228,7 @@ attention, average, circle, complicated, difficulty, drama, essential, hand, han
 | require | 要求 |
 | unit | 单元 / 课程 |
 | used | 过去常常（used to） |
-| wrong | 错误的 |
-| is | 是（单数） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| your | 你的 |
-| for | 为了 / 对 |
-| by | 在……之前 |
+| wrong | 错误的 |
 
 </quiz-matching>
 

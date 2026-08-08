@@ -226,15 +226,7 @@ beneath, block, dashboard, frustrating, get a hold of, go wrong, in a row, keep 
 | train tracks | 火车轨道 |
 | trip | 绊倒 / 旅程 |
 | was being | 当时正在… |
-| was being fixed | 当时正在被修理 |
-| is | 是 |
-| the | 这个（定冠词） |
-| car | 车 |
-| bus | 公交车 |
-| road | 路 |
-| brake | 刹车 |
-| light | 灯 |
-| cat | 猫 |
+| was being fixed | 当时正在被修理 |
 
 </quiz-matching>
 

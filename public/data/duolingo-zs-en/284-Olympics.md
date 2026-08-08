@@ -231,15 +231,7 @@ anticipated, australian, brazilian, break, bronze, close, determination, expecte
 | set to | 即将 / 准备好 |
 | track and field | 田径 |
 | ultimate | 最终的 / 极致的 |
-| upcoming | 即将到来的 |
-| is | 是 |
-| the | 这个（定冠词） |
-| gold | 金牌 |
-| medal | 奖牌 |
-| race | 比赛 |
-| finals | 决赛 |
-| athlete | 运动员 |
-| fans | 粉丝 |
+| upcoming | 即将到来的 |
 
 </quiz-matching>
 

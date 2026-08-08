@@ -225,23 +225,7 @@ blew, blow, camel, climate, coast, destination, fallen, forecast, grew, have got
 | wave | 波浪 |
 | whale | 鲸鱼 |
 | what is | ……是什么 |
-| wildlife | 野生动物 |
-| the | 这 / 那（定冠词） |
-| is | 是（单数） |
-| will | 将要 |
-| it | 它 |
-| there | 那里 / 存在 |
-| for | 为了 / 对于 |
-| in | 在……里 |
-| on | 在……上 |
-| our | 我们的 |
-| a | 一（个） |
-| to | 到 / 向 |
-| near | 在……附近 |
-| here | 这里 |
-| lots of | 许多 |
-| rain | 下雨 |
-| up | 向上 |
+| wildlife | 野生动物 |
 
 </quiz-matching>
 

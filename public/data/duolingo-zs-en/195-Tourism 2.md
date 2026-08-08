@@ -229,10 +229,7 @@ agency, atmosphere, been, cave, crew, departure, get into, go on, go through, go
 | there's been | 已经有（there has been） |
 | tourism | 旅游业 |
 | welcome | 欢迎 |
-| work out | 锻炼 / 顺利解决 |
-| is | 是（单数） |
-| the | 这个 / 那个 |
-| tour | 游览 |
+| work out | 锻炼 / 顺利解决 |
 
 </quiz-matching>
 

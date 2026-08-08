@@ -228,11 +228,7 @@ blow away, blown, bull, calf, calves, cattle, countryside, donkey, eastern, feed
 | shade | 阴凉处 |
 | shore | 岸 |
 | southern | 南方的 |
-| western | 西方的 |
-| is | 是（单数） |
-| the | 这个 / 那个 |
-| hill | 山丘 |
-| grass | 草 |
+| western | 西方的 |
 
 </quiz-matching>
 

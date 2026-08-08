@@ -230,11 +230,7 @@ absent, aloud, apply, correct, correction, credit, elementary school, final exam
 | reread | 重读 |
 | rewrite | 重写 |
 | school | 学校 |
-| smart | 聪明的 |
-| is | 是（单数） |
-| the | 这个 / 那个 |
-| class | 课堂 / 班级 |
-| exam | 考试 |
+| smart | 聪明的 |
 
 </quiz-matching>
 

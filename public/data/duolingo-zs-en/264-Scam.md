@@ -234,14 +234,7 @@ asking, ban, bitter, considerable, criminal, desperate, dishonest, enough, fake,
 | this | 这个 |
 | unhelpful | 没帮助的 |
 | warning | 警告 |
-| wish | 希望 |
-| is | 是 |
-| don't | 不要 |
-| website | 网站 |
-| money | 钱 |
-| password | 密码 |
-| account | 账号 |
-| ad | 广告 |
+| wish | 希望 |
 
 </quiz-matching>
 

@@ -225,22 +225,7 @@ annoyed, annoying, assistant, designer, employee, employer, get to know, go, hea
 | want | 想要 |
 | whenever | 无论何时 |
 | would like | 想要（礼貌） |
-| would you mind if | 你介意……吗 |
-| is | 是（单数） |
-| was | 是（过去式） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| my | 我的 |
-| your | 你的 |
-| me | 我（宾格） |
-| I | 我 |
-| we | 我们 |
-| to | 到 / 向 |
-| with | 和 / 与 |
-| some | 一些 |
-| don't | 不（否定） |
-| please | 请 |
-| together | 一起 |
+| would you mind if | 你介意……吗 |
 
 </quiz-matching>
 

@@ -231,14 +231,7 @@ after, attachment, blog, by accident, communicate, completely, delete, effect, e
 | surprising | 令人惊讶的 |
 | technology | 科技 |
 | topic | 话题 |
-| type | 打字 / 类型 |
-| is | 是（单数） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| my | 我的 |
-| this | 这个 |
-| to | 到 / 对（介词） |
+| type | 打字 / 类型 |
 
 </quiz-matching>
 

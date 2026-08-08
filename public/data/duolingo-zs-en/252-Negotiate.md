@@ -226,16 +226,7 @@ at this point, brief, capacity, certified, contribute, could you let me know, do
 | provide | 提供 |
 | shall we | 我们……好吗 |
 | submit | 提交 |
-| worry about | 担心 |
-| I | 我 |
-| you | 你 |
-| the | 那个 |
-| for | 为了 |
-| was | 是（过去式） |
-| is | 是 |
-| always | 总是 |
-| keep | 保持 |
-| every | 每个 |
+| worry about | 担心 |
 
 </quiz-matching>
 

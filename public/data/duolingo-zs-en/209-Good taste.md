@@ -229,13 +229,7 @@ circus, comic, decide, direct, dislike, display, divorce, drama, entertainment, 
 | realistic | 逼真的；写实的 |
 | trend | 趋势 |
 | would have | 本来会 |
-| would've | would have 的缩写 |
-| film | 电影 |
-| movie | 电影 |
-| this | 这个 |
-| very | 非常 |
-| the | 这（定冠词） |
-| story | 故事 |
+| would've | would have 的缩写 |
 
 </quiz-matching>
 

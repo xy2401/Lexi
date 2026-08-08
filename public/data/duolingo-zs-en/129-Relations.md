@@ -232,13 +232,7 @@ annoying, author, barber, blind, british, date, divorced, dream, firefighter, ga
 | spouse | 配偶 |
 | successful | 成功的 |
 | trust | 信任 |
-| where | 在哪里 |
-| is | 是（单数） |
-| are | 是（复数） |
-| a | 一（个） |
-| my | 我的 |
-| they | 他们 |
-| and | 和 |
+| where | 在哪里 |
 
 </quiz-matching>
 

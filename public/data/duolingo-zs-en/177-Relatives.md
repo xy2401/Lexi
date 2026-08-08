@@ -222,25 +222,7 @@ alive, babysitter, close, daughter-in-law, extended family, female, great-grandm
 | split | 分开 / 分摊 |
 | split up | 分手 |
 | stepfather | 继父 |
-| stepmother | 继母 |
-| I | 我 |
-| we | 我们 |
-| she | 她 |
-| he | 他 |
-| they | 他们 |
-| my | 我的 |
-| her | 她的 |
-| his | 他的 |
-| their | 他们的 |
-| is | 是（单数） |
-| was | 是（过去式） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| still | 仍然 |
-| just | 刚刚 / 只是 |
-| before | 在……之前 |
-| year | 年 |
+| stepmother | 继母 |
 
 </quiz-matching>
 

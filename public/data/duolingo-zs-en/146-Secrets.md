@@ -227,14 +227,7 @@ according to, appear, at first, been, break into, by, by the time, criminal, des
 | secret | 秘密 |
 | shadow | 影子 |
 | she's | 她是 / 她已经 |
-| suddenly | 突然 |
-| is | 是（单数） |
-| was | 是（过去式） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| her | 她的 |
-| my | 我的 |
-| when | 当……时 |
+| suddenly | 突然 |
 
 </quiz-matching>
 

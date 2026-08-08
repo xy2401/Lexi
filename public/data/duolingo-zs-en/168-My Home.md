@@ -227,22 +227,7 @@ adopt, couple, didn't, easygoing, guest room, kettle, ladder, lady, lay, lie, ma
 | use to | 过去常常（used to） |
 | vehicle | 车辆 |
 | wake up | 醒来 |
-| woken up | 醒来（过去分词） |
-| is | 是（单数） |
-| was | 是（过去式） |
-| are | 是（复数） |
-| the | 这 / 那（定冠词） |
-| a | 一（个） |
-| my | 我的 |
-| her | 她（宾格）/ 她的 |
-| he | 他 |
-| she | 她 |
-| they | 他们 |
-| don't | 不（否定） |
-| to | 到 / 向 |
-| on | 在……上 |
-| at | 在 |
-| for | 为了 |
+| woken up | 醒来（过去分词） |
 
 </quiz-matching>
 

@@ -231,13 +231,7 @@ aware, cheat on, childish, concerned, could, could have, could've, couldn't have
 | should've | should have 的缩写 |
 | shouldn't have | 本不该 |
 | temper | 脾气 |
-| total | 完全的 |
-| exam | 考试 |
-| problem | 问题 |
-| risk | 风险 |
-| calm | 冷静 |
-| disaster | 灾难 |
-| behavior | 行为 |
+| total | 完全的 |
 
 </quiz-matching>
 

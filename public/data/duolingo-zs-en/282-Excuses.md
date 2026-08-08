@@ -226,15 +226,7 @@ background information, corporation, credit, efficient, failure to, follow up, g
 | send out | 发出 |
 | target | 目标 |
 | technical | 技术性的 |
-| the case that | …的情况 |
-| is | 是 |
-| the | 这个（定冠词） |
-| report | 报告 |
-| meeting | 会议 |
-| deadline | 截止日期 |
-| problem | 问题 |
-| solution | 解决方案 |
-| quarter | 季度 |
+| the case that | …的情况 |
 
 </quiz-matching>
 

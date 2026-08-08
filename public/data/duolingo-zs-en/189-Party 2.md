@@ -225,11 +225,7 @@ accent, bunch, can, can't, charming, clean up, come in, could, couldn't, doing, 
 | well-dressed | 衣着讲究的 |
 | whose | 谁的 |
 | will | 将会 |
-| won't | 不会（will not 缩写） |
-| is | 是（单数） |
-| the | 这个 / 那个 |
-| party | 派对 |
-| this | 这个 |
+| won't | 不会（will not 缩写） |
 
 </quiz-matching>
 

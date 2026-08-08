@@ -228,13 +228,7 @@ careful, consequence, don't you dare, edge, embarrass, fire, from now on, get, g
 | stubborn | 固执的 |
 | to make matters worse | 更糟的是 |
 | trust | 信任 |
-| turn around | 转身 |
-| wire | 电线 |
-| knife | 刀 |
-| roof | 屋顶 |
-| dog | 狗 |
-| business | 事情；生意 |
-| worth | 值得 |
+| turn around | 转身 |
 
 </quiz-matching>
 

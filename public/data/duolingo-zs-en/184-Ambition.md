@@ -227,11 +227,7 @@ achieve, achievement, admire, as soon as, background, benefit, challenge, confer
 | raise | 加薪 |
 | scientist | 科学家 |
 | training | 培训 |
-| work on | 从事 / 钻研 |
-| is | 是（单数） |
-| my | 我的 |
-| job | 工作 |
-| goal | 目标 |
+| work on | 从事 / 钻研 |
 
 </quiz-matching>
 

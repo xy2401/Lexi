@@ -227,13 +227,7 @@ agree, corruption, defend, demand, fine, get, gotten, human being, inform, jury,
 | punish | 惩罚 |
 | secretly | 秘密地 |
 | support for | 对……的支持 |
-| which | 这（引导从句） |
-| lawyer | 律师 |
-| penalty | 刑罚 |
-| money | 钱 |
-| he | 他 |
-| they | 他们 |
-| law | 法律 |
+| which | 这（引导从句） |
 
 </quiz-matching>
 

@@ -234,14 +234,7 @@ I'd say, agree with, any longer, appreciation, catering, committee, compromise, 
 | unpopular | 不受欢迎的 |
 | venue | 场地 |
 | volunteer | 志愿者 |
-| waste | 浪费 |
-| the | 这个（定冠词） |
-| is | 是 |
-| don't | 不要 |
-| party | 聚会 |
-| hall | 大厅 |
-| budget | 预算 |
-| menu | 菜单 |
+| waste | 浪费 |
 
 </quiz-matching>
 
