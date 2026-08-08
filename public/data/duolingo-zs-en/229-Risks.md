@@ -68,7 +68,7 @@ careful, consequence, don't you dare, edge, embarrass, fire, from now on, get, g
    > **解析**：`careful` 形容词，意为“小心的；谨慎的”。常用祈使句结构 `be careful when...`。
 
 2. **中文**：你不应该在公共场合取笑你的朋友；那只会让他难堪。  
-   **英文**：You shouldn't make fun of your friend in public; it will only embarrass him for consequence.
+   **英文**：You shouldn't make fun of your friend in public; it will only embarrass him.
    > **解析**：`embarrass` 及物动词，意为“使窘迫；使难堪”。
 
 3. **中文**：如果你在薄冰上滑冰，你可能会受到非常严重的伤害。  
@@ -76,15 +76,15 @@ careful, consequence, don't you dare, edge, embarrass, fire, from now on, get, g
    > **解析**：`get` 连系动词，用于“get + 过去分词”（如 `get hurt`），表示被动或状态的改变。
 
 4. **中文**：窗户碎裂后，要注意地板上的碎玻璃。  
-   **英文**：Be cautious of broken glass on the floor after the window shattered for edge.
+   **英文**：Be cautious of broken glass on the floor after the window shattered.
    > **解析**：`glass` 不可数名词，意为“玻璃”；作可数名词时指“玻璃杯”。
 
 5. **中文**：无意冒犯，但我觉得你的计划还不够安全，无法执行。  
-   **英文**：No offense, but I don't think your plan is safe enough to execute for embarrass.
+   **英文**：No offense, but I don't think your plan is safe enough to execute.
    > **解析**：`no offense` 口语短语，意为“无意冒犯；别介意”，用于在发表可能引起尴尬或反感的不同意见前进行垫铺。
 
 6. **中文**：为了拍一张冒风险的照片而拿自己的安全冒风险是愚蠢的。  
-   **英文**：It is foolish to risk your safety for a single adventurous photo for fire.
+   **英文**：It is foolish to risk your safety for a single adventurous photo.
    > **解析**：`risk` 动词，意为“冒……的风险”。搭配 `risk sth. for sth.`（为了某事而冒某事险）。
 
 7. **中文**：黑暗暴风雨开始了，更糟的是，我们弄丢了手电筒。  
@@ -92,7 +92,7 @@ careful, consequence, don't you dare, edge, embarrass, fire, from now on, get, g
    > **解析**：`to make matters worse` 插入语短语，意为“更糟糕的是；雪上加霜的是”。
 
 8. **中文**：鲁莽驾驶可能会对所有相关人员造成悲剧性的后果。  
-   **英文**：Driving recklessly can lead to tragic consequences for everyone involved for get.
+   **英文**：Driving recklessly can lead to tragic consequences for everyone involved.
    > **解析**：`consequence` 可数名词，意为“后果；结果”。搭配 `lead to consequences`（导致后果）。
 
 9. **中文**：在干草附近玩火柴可能会引发危险的野火。  
@@ -110,25 +110,25 @@ careful, consequence, don't you dare, edge, embarrass, fire, from now on, get, g
 1. Please be careful when hiking near the slippery cliff edge.
    > **中文**：在滑的悬崖边远足时请务必小心。
 
-2. You shouldn't make fun of your friend in public; it will only embarrass him for consequence.
+2. You shouldn't make fun of your friend in public; it will only embarrass him.
    > **中文**：你不应该在公共场合取笑你的朋友；那只会让他难堪。
 
 3. If you skate on thin ice, you could get hurt very badly (don't you dare).
    > **中文**：如果你在薄冰上滑冰，你可能会受到非常严重的伤害。
 
-4. Be cautious of broken glass on the floor after the window shattered for edge.
+4. Be cautious of broken glass on the floor after the window shattered.
    > **中文**：窗户碎裂后，要注意地板上的碎玻璃。
 
-5. No offense, but I don't think your plan is safe enough to execute for embarrass.
+5. No offense, but I don't think your plan is safe enough to execute.
    > **中文**：无意冒犯，但我觉得你的计划还不够安全，无法执行。
 
-6. It is foolish to risk your safety for a single adventurous photo for fire.
+6. It is foolish to risk your safety for a single adventurous photo.
    > **中文**：为了拍一张冒风险的照片而拿自己的安全冒风险是愚蠢的。
 
 7. The dark storm began, and to make matters worse, we lost our flashlights (from now on).
    > **中文**：黑暗暴风雨开始了，更糟的是，我们弄丢了手电筒。
 
-8. Driving recklessly can lead to tragic consequences for everyone involved for get.
+8. Driving recklessly can lead to tragic consequences for everyone involved.
    > **中文**：鲁莽驾驶可能会对所有相关人员造成悲剧性的后果。
 
 9. Playing with matches near dry grass can spark a dangerous wild fire (get away with).
@@ -150,18 +150,18 @@ careful, consequence, don't you dare, edge, embarrass, fire, from now on, get, g
 Please be `____` when hiking near the slippery cliff edge.
 
 - [x] careful
-- [ ] edge
-- [ ] from now on
+- [ ] consequence
+- [ ] fire
 
 > **解析**：`careful` 形容词，意为“小心的；谨慎的”。常用祈使句结构 `be careful when...`。
 
 ### 2
 
-You shouldn't make fun of your friend in public; it will only embarrass him for `____`.
+You shouldn't make fun of your friend in public; it will only `____` him.
 
-- [x] consequence
-- [ ] embarrass
-- [ ] get
+- [x] embarrass
+- [ ] consequence
+- [ ] from now on
 
 > **解析**：`embarrass` 及物动词，意为“使窘迫；使难堪”。
 
@@ -170,38 +170,38 @@ You shouldn't make fun of your friend in public; it will only embarrass him for 
 If you skate on thin ice, you could get hurt very badly (`____`).
 
 - [x] don't you dare
-- [ ] fire
-- [ ] get away with
+- [ ] edge
+- [ ] get
 
 > **解析**：`get` 连系动词，用于“get + 过去分词”（如 `get hurt`），表示被动或状态的改变。
 
 ### 4
 
-Be cautious of broken glass on the floor after the window shattered for `____`.
+Be cautious of broken `____` on the floor after the window shattered.
 
-- [x] edge
-- [ ] from now on
-- [ ] get in trouble
+- [x] glass
+- [ ] edge
+- [ ] get
 
 > **解析**：`glass` 不可数名词，意为“玻璃”；作可数名词时指“玻璃杯”。
 
 ### 5
 
-No offense, but I don't think your plan is safe enough to execute for `____`.
+`____`, but I don't think your plan is safe enough to execute.
 
-- [x] embarrass
-- [ ] get
-- [ ] careful
+- [x] no offense
+- [ ] embarrass
+- [ ] get away with
 
 > **解析**：`no offense` 口语短语，意为“无意冒犯；别介意”，用于在发表可能引起尴尬或反感的不同意见前进行垫铺。
 
 ### 6
 
-It is foolish to risk your safety for a single adventurous photo for `____`.
+It is foolish to `____` your safety for a single adventurous photo.
 
-- [x] fire
-- [ ] get away with
-- [ ] consequence
+- [x] risk
+- [ ] fire
+- [ ] get in trouble
 
 > **解析**：`risk` 动词，意为“冒……的风险”。搭配 `risk sth. for sth.`（为了某事而冒某事险）。
 
@@ -210,38 +210,38 @@ It is foolish to risk your safety for a single adventurous photo for `____`.
 The dark storm began, and to make matters worse, we lost our flashlights (`____`).
 
 - [x] from now on
-- [ ] get in trouble
-- [ ] don't you dare
+- [ ] get
+- [ ] glass
 
 > **解析**：`to make matters worse` 插入语短语，意为“更糟糕的是；雪上加霜的是”。
 
 ### 8
 
-Driving recklessly can lead to tragic consequences for everyone involved for `____`.
+Driving recklessly can lead to tragic `____`s for everyone involved.
 
-- [x] get
-- [ ] careful
-- [ ] edge
+- [x] consequence
+- [ ] get away with
+- [ ] grounded
 
 > **解析**：`consequence` 可数名词，意为“后果；结果”。搭配 `lead to consequences`（导致后果）。
 
 ### 9
 
-Playing with matches near dry grass can spark a dangerous wild fire (`____`).
+Playing with matches near dry grass can spark a dangerous wild `____` (get away with).
 
-- [x] get away with
-- [ ] consequence
-- [ ] embarrass
+- [x] fire
+- [ ] get in trouble
+- [ ] kill
 
 > **解析**：`fire` 名词，意为“火；火灾”。`wild fire`（野火；山火）。
 
 ### 10
 
-You will `____` with the authorities if you trespass on private property.
+You will `____` in trouble with the authorities if you trespass on private property.
 
-- [x] get in trouble
-- [ ] don't you dare
-- [ ] fire
+- [x] get
+- [ ] get yourself
+- [ ] lesson
 
 > **解析**：`get in trouble` 为固定动词短语，意为“惹上麻烦；陷入困境”。搭配 `get in trouble with sb.`。
 

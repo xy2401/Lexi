@@ -66,19 +66,19 @@ agree to, civilization, conquer, defeat, despite, develop, disappear, even thoug
    > **解析**：`agree to do sth.` 为固定搭配，意为“同意做某事”，后接动词原形。
 
 2. **中文**：尽管冬天气候恶劣，古老的军队仍然跨越山脉向前进发。  
-   **英文**：Despite the harsh winter conditions, the ancient army marched forward across the mountains for civilization.
+   **英文**：Despite the harsh winter conditions, the ancient army marched forward across the mountains.
    > **解析**：`despite` 介词，意为“尽管；虽然”，后接名词、代词或动名词短语，不能接从句（对比连词 `although`）。
 
 3. **中文**：历史学家发现了证据，表明在这个山谷中曾经存在过一个未知的部落。  
-   **英文**：Historians discovered evidence that an unknown tribe used to exist in this valley for conquer.
+   **英文**：Historians discovered evidence that an unknown tribe used to exist in this valley.
    > **解析**：`exist` 不及物动词，意为“存在；生存”，常与 `used to` 或 `there` 连用（如 `there exists...`）。
 
 4. **中文**：语言是人类文明最显著的成就之一。  
-   **英文**：Language is one of the most remarkable achievements of human civilization for defeat.
+   **英文**：Language is one of the most remarkable achievements of human civilization.
    > **解析**：`human` 在此处作形容词，意为“人类的”，修饰名词 `civilization`。
 
 5. **中文**：那位著名的海盗船长花了多年时间在加勒比海寻找隐藏的宝藏。  
-   **英文**：The famous pirate captain spent years searching for hidden treasure in the Caribbean for despite.
+   **英文**：The famous pirate captain spent years searching for hidden treasure in the Caribbean.
    > **解析**：`pirate` 在此处作名词修饰语或形容词，意为“海盗的”，短语 `pirate captain`（海盗船长）。
 
 6. **中文**：古代工匠开发出一种用于制作耐用陶器的先进技术。  
@@ -86,7 +86,7 @@ agree to, civilization, conquer, defeat, despite, develop, disappear, even thoug
    > **解析**：`technique` 可数名词，意为“技巧；技术；工艺”，强调需要技能或特定方法的具体操作。
 
 7. **中文**：将军在击败入侵的敌军后庆祝了一场决定性的胜利。  
-   **英文**：The general celebrated a decisive victory after defeating the invading enemy forces for disappear.
+   **英文**：The general celebrated a decisive victory after defeating the invading enemy forces.
    > **解析**：`victory` 名词，意为“胜利；战胜”。常用搭配 `celebrate a victory`（庆祝胜利）。
 
 8. **中文**：罗马帝国在塑造西方文明方面发挥了关键作用。  
@@ -94,7 +94,7 @@ agree to, civilization, conquer, defeat, despite, develop, disappear, even thoug
    > **解析**：`civilization` 名词，意为“文明；文化领域”。`Western civilization`（西方文明）。
 
 9. **中文**：早期人类开始发展农业以获取稳定的粮食供应。  
-   **英文**：Early humans began to develop agriculture to secure a stable supply of food for exist.
+   **英文**：Early humans began to develop agriculture to secure a stable supply of food.
    > **解析**：`develop` 及物/不及物动词，意为“发展；开发；培养”。作及物动词时接宾语 `agriculture`。
 
 10. **中文**：士兵们在城堡塔顶高高升起了国旗。  
@@ -108,28 +108,28 @@ agree to, civilization, conquer, defeat, despite, develop, disappear, even thoug
 1. The two nations agreed to sign a historic peace treaty ending the decades of conflict (agree to).
    > **中文**：两国同意签署一项具有历史意义的和平条约，以结束数十年的冲突。
 
-2. Despite the harsh winter conditions, the ancient army marched forward across the mountains for civilization.
+2. Despite the harsh winter conditions, the ancient army marched forward across the mountains.
    > **中文**：尽管冬天气候恶劣，古老的军队仍然跨越山脉向前进发。
 
-3. Historians discovered evidence that an unknown tribe used to exist in this valley for conquer.
+3. Historians discovered evidence that an unknown tribe used to exist in this valley.
    > **中文**：历史学家发现了证据，表明在这个山谷中曾经存在过一个未知的部落。
 
-4. Language is one of the most remarkable achievements of human civilization for defeat.
+4. Language is one of the most remarkable achievements of human civilization.
    > **中文**：语言是人类文明最显著的成就之一。
 
-5. The famous pirate captain spent years searching for hidden treasure in the Caribbean for despite.
+5. The famous pirate captain spent years searching for hidden treasure in the Caribbean.
    > **中文**：那位著名的海盗船长花了多年时间在加勒比海寻找隐藏的宝藏。
 
 6. Ancient artisans developed an advanced technique for crafting durable pottery.
    > **中文**：古代工匠开发出一种用于制作耐用陶器的先进技术。
 
-7. The general celebrated a decisive victory after defeating the invading enemy forces for disappear.
+7. The general celebrated a decisive victory after defeating the invading enemy forces.
    > **中文**：将军在击败入侵的敌军后庆祝了一场决定性的胜利。
 
 8. The Roman Empire played a pivotal role in the shaping of Western civilization (even though).
    > **中文**：罗马帝国在塑造西方文明方面发挥了关键作用。
 
-9. Early humans began to develop agriculture to secure a stable supply of food for exist.
+9. Early humans began to develop agriculture to secure a stable supply of food.
    > **中文**：早期人类开始发展农业以获取稳定的粮食供应。
 
 10. Soldiers raised their national flag high on top of the castle tower.
@@ -148,48 +148,48 @@ agree to, civilization, conquer, defeat, despite, develop, disappear, even thoug
 The two nations agreed to sign a historic peace treaty ending the decades of conflict (`____`).
 
 - [x] agree to
-- [ ] defeat
-- [ ] disappear
+- [ ] civilization
+- [ ] develop
 
 > **解析**：`agree to do sth.` 为固定搭配，意为“同意做某事”，后接动词原形。
 
 ### 2
 
-Despite the harsh winter conditions, the ancient army marched forward across the mountains for `____`.
+`____` the harsh winter conditions, the ancient army marched forward across the mountains.
 
-- [x] civilization
-- [ ] despite
-- [ ] even though
+- [x] despite
+- [ ] civilization
+- [ ] disappear
 
 > **解析**：`despite` 介词，意为“尽管；虽然”，后接名词、代词或动名词短语，不能接从句（对比连词 `although`）。
 
 ### 3
 
-Historians discovered evidence that an unknown tribe used to exist in this valley for `____`.
+Historians discovered evidence that an unknown tribe used to `____` in this valley.
 
-- [x] conquer
-- [ ] develop
-- [ ] exist
+- [x] exist
+- [ ] conquer
+- [ ] disappear
 
 > **解析**：`exist` 不及物动词，意为“存在；生存”，常与 `used to` 或 `there` 连用（如 `there exists...`）。
 
 ### 4
 
-Language is one of the most remarkable achievements of human civilization for `____`.
+Language is one of the most remarkable achievements of human `____`.
 
-- [x] defeat
-- [ ] disappear
-- [ ] flag
+- [x] civilization
+- [ ] despite
+- [ ] exist
 
 > **解析**：`human` 在此处作形容词，意为“人类的”，修饰名词 `civilization`。
 
 ### 5
 
-The famous pirate captain spent years searching for hidden treasure in the Caribbean for `____`.
+The famous `____` captain spent years searching for hidden treasure in the Caribbean.
 
-- [x] despite
-- [ ] even though
-- [ ] agree to
+- [x] pirate
+- [ ] despite
+- [ ] exist
 
 > **解析**：`pirate` 在此处作名词修饰语或形容词，意为“海盗的”，短语 `pirate captain`（海盗船长）。
 
@@ -198,18 +198,18 @@ The famous pirate captain spent years searching for hidden treasure in the Carib
 Ancient artisans `____`ed an advanced technique for crafting durable pottery.
 
 - [x] develop
-- [ ] exist
-- [ ] civilization
+- [ ] disappear
+- [ ] go to war
 
 > **解析**：`technique` 可数名词，意为“技巧；技术；工艺”，强调需要技能或特定方法的具体操作。
 
 ### 7
 
-The general celebrated a decisive victory after defeating the invading enemy forces for `____`.
+The general celebrated a decisive victory after `____`ing the invading enemy forces.
 
-- [x] disappear
-- [ ] flag
-- [ ] conquer
+- [x] defeat
+- [ ] even though
+- [ ] human
 
 > **解析**：`victory` 名词，意为“胜利；战胜”。常用搭配 `celebrate a victory`（庆祝胜利）。
 
@@ -218,18 +218,18 @@ The general celebrated a decisive victory after defeating the invading enemy for
 The Roman Empire played a pivotal role in the shaping of Western civilization (`____`).
 
 - [x] even though
-- [ ] agree to
-- [ ] defeat
+- [ ] exist
+- [ ] immigrate
 
 > **解析**：`civilization` 名词，意为“文明；文化领域”。`Western civilization`（西方文明）。
 
 ### 9
 
-Early humans began to develop agriculture to secure a stable supply of food for `____`.
+Early `____`s began to develop agriculture to secure a stable supply of food.
 
-- [x] exist
-- [ ] civilization
-- [ ] despite
+- [x] human
+- [ ] exist
+- [ ] lack
 
 > **解析**：`develop` 及物/不及物动词，意为“发展；开发；培养”。作及物动词时接宾语 `agriculture`。
 
@@ -238,8 +238,8 @@ Early humans began to develop agriculture to secure a stable supply of food for 
 Soldiers raised their national `____` high on top of the castle tower.
 
 - [x] flag
-- [ ] conquer
-- [ ] develop
+- [ ] go to war
+- [ ] now that
 
 > **解析**：`flag` 可数名词，意为“旗帜；国旗”。短语 `national flag`（国旗）。
 

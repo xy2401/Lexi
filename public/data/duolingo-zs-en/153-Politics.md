@@ -74,15 +74,15 @@ there could/might be 表推测。mean → meant（意思是）。
    > **解析**：former 为形容词，意为“前任的、以前的”，常置于名词前修饰头衔（former president/minister）。
 
 4. **中文**：这些新的税收法规对普通纳税人来说意味着什么？  
-   **英文**：What do these new tax regulations mean for ordinary taxpayers? for currency.
+   **英文**：What do these new tax regulations mean for ordinary taxpayers.
    > **解析**：mean 为及物动词，意为“意味着、意指”。常见询问句型 What does X mean for Y?。
 
 5. **中文**：市长发表了一场长篇演讲，探讨社会住房问题。  
-   **英文**：The mayor gave a long speech addressing the social housing problem for democracy.
+   **英文**：The mayor gave a long speech addressing the social housing problem.
    > **解析**：speech 为名词，意为“演讲、致辞”。常见动词搭配 give/make/deliver a speech（发表演讲）。
 
 6. **中文**：许多市民无法忍受低效的官僚程序。  
-   **英文**：Many citizens can't stand the inefficient bureaucratic procedures for economy.
+   **英文**：Many citizens can't stand the inefficient bureaucratic procedures about currency.
    > **解析**：can't stand 为固定动词短语，意为“无法忍受、极讨厌”，后接名词、代词或动名词（doing sth.）。
 
 7. **中文**：即将到来的大选将决定该国的政治走向。  
@@ -90,11 +90,11 @@ there could/might be 表推测。mean → meant（意思是）。
    > **解析**：election 为名词，意为“选举、大选”。常用搭配 general election（大选）、presidential election（总统选举）。
 
 8. **中文**：议会昨天就新的移民法案举行了辩论。  
-   **英文**：The parliament held a debate on the new immigration laws yesterday for environmental.
+   **英文**：The parliament held a debate on the new immigration laws yesterday.
    > **解析**：immigration 为不可数名词，意为“移民、移居”。在政治语境中，常用于 immigration policy/laws（移民政策/法律）。
 
 9. **中文**：在选票统计完毕后，可能会有重大政治变革。  
-   **英文**：There might be significant political changes after the votes are counted for former.
+   **英文**：There might be significant political changes after the votes are counted.
    > **解析**：there might be 表示对存在性的猜测，意为“可能会有/存在”，might 表达不确定的推测语气。
 
 10. **中文**：他不赞成拟建的高速公路建设项目。  
@@ -114,22 +114,22 @@ there could/might be 表推测。mean → meant（意思是）。
 3. The former president delivered a passionate speech at the international forum (can't stand).
    > **中文**：前任总统在国际论坛上发表了激情的演讲。
 
-4. What do these new tax regulations mean for ordinary taxpayers? for currency.
+4. What do these new tax regulations mean for ordinary taxpayers.
    > **中文**：这些新的税收法规对普通纳税人来说意味着什么？
 
-5. The mayor gave a long speech addressing the social housing problem for democracy.
+5. The mayor gave a long speech addressing the social housing problem.
    > **中文**：市长发表了一场长篇演讲，探讨社会住房问题。
 
-6. Many citizens can't stand the inefficient bureaucratic procedures for economy.
+6. Many citizens can't stand the inefficient bureaucratic procedures about currency.
    > **中文**：许多市民无法忍受低效的官僚程序。
 
 7. The upcoming general election will determine the country's political direction.
    > **中文**：即将到来的大选将决定该国的政治走向。
 
-8. The parliament held a debate on the new immigration laws yesterday for environmental.
+8. The parliament held a debate on the new immigration laws yesterday.
    > **中文**：议会昨天就新的移民法案举行了辩论。
 
-9. There might be significant political changes after the votes are counted for former.
+9. There might be significant political changes after the votes are counted.
    > **中文**：在选票统计完毕后，可能会有重大政治变革。
 
 10. He is not in favor of the proposed highway construction project (had to).
@@ -148,8 +148,8 @@ there could/might be 表推测。mean → meant（意思是）。
 I read an interesting news `____` about the recent government economic policy.
 
 - [x] article
-- [ ] currency
-- [ ] election
+- [ ] as
+- [ ] economy
 
 > **解析**：article 为可数名词，意为“文章、报道”。在政治或新闻话题中，指报纸或网络上的新闻分析文章。
 
@@ -158,8 +158,8 @@ I read an interesting news `____` about the recent government economic policy.
 The government is introducing new me`____`ures to boost the national economy.
 
 - [x] as
-- [ ] democracy
-- [ ] environmental
+- [ ] can't stand
+- [ ] election
 
 > **解析**：economy 为名词，意为“经济、经济状况”。常与动词 boost, improve, grow 搭配使用。
 
@@ -168,38 +168,38 @@ The government is introducing new me`____`ures to boost the national economy.
 The former president delivered a passionate speech at the international forum (`____`).
 
 - [x] can't stand
-- [ ] economy
-- [ ] former
+- [ ] currency
+- [ ] environmental
 
 > **解析**：former 为形容词，意为“前任的、以前的”，常置于名词前修饰头衔（former president/minister）。
 
 ### 4
 
-What do these new tax regulations mean for ordinary taxpayers? for `____`.
+What do these new tax regulations `____` for ordinary taxpayers.
 
-- [x] currency
-- [ ] election
-- [ ] had to
+- [x] mean
+- [ ] currency
+- [ ] environmental
 
 > **解析**：mean 为及物动词，意为“意味着、意指”。常见询问句型 What does X mean for Y?。
 
 ### 5
 
-The mayor gave a long speech addressing the social housing problem for `____`.
+The mayor gave a long `____` addressing the social housing problem.
 
-- [x] democracy
-- [ ] environmental
-- [ ] article
+- [x] speech
+- [ ] democracy
+- [ ] former
 
 > **解析**：speech 为名词，意为“演讲、致辞”。常见动词搭配 give/make/deliver a speech（发表演讲）。
 
 ### 6
 
-Many citizens can't stand the inefficient bureaucratic procedures for `____`.
+Many citizens can't stand the inefficient bureaucratic procedures about `____`.
 
-- [x] economy
-- [ ] former
-- [ ] as
+- [x] currency
+- [ ] election
+- [ ] immigration
 
 > **解析**：can't stand 为固定动词短语，意为“无法忍受、极讨厌”，后接名词、代词或动名词（doing sth.）。
 
@@ -208,28 +208,28 @@ Many citizens can't stand the inefficient bureaucratic procedures for `____`.
 The upcoming general `____` will determine the country's political direction.
 
 - [x] election
-- [ ] had to
-- [ ] can't stand
+- [ ] environmental
+- [ ] local
 
 > **解析**：election 为名词，意为“选举、大选”。常用搭配 general election（大选）、presidential election（总统选举）。
 
 ### 8
 
-The parliament held a debate on the new immigration laws yesterday for `____`.
+The parliament held a debate on the new `____` laws yesterday.
 
-- [x] environmental
-- [ ] article
-- [ ] currency
+- [x] immigration
+- [ ] environmental
+- [ ] mean
 
 > **解析**：immigration 为不可数名词，意为“移民、移居”。在政治语境中，常用于 immigration policy/laws（移民政策/法律）。
 
 ### 9
 
-There might be significant political changes after the votes are counted for `____`.
+`____` significant political changes after the votes are counted.
 
-- [x] former
-- [ ] as
-- [ ] democracy
+- [x] there might be
+- [ ] former
+- [ ] mean
 
 > **解析**：there might be 表示对存在性的猜测，意为“可能会有/存在”，might 表达不确定的推测语气。
 
@@ -238,8 +238,8 @@ There might be significant political changes after the votes are counted for `__
 He is not in favor of the proposed highway construction project (`____`).
 
 - [x] had to
-- [ ] can't stand
-- [ ] economy
+- [ ] immigration
+- [ ] mention
 
 > **解析**：not 为否定副词，在句中与动词 be 连用（be not in favor of），构成对某种政治立场的否定。
 

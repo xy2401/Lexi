@@ -80,15 +80,15 @@ rise / decline / level off / drop 是描述趋势的四组核心动词。gradual
 <quiz-sentence-builder>
 
 1. **中文**：这位年轻的创业者提出了一种创新的环保商业模式。  
-   **英文**：The young entrepreneur proposed an innovative eco-friendly business model for accessible.
+   **英文**：The young entrepreneur proposed an innovative eco-friendly business model.
    > **解析**：`entrepreneur` 是名词，意为“创业者、企业家”，作主语。
 
 2. **中文**：我们计划向董事会提议一个联合营销项目。  
-   **英文**：We plan to propose a joint marketing project to the board of directors for amount.
+   **英文**：We plan to propose a joint marketing project to the board of directors.
    > **解析**：`propose` 作及物动词，搭配 `propose A to B`（向B提议A）。
 
 3. **中文**：几位天使投资人决定资助我们的科技初创公司。  
-   **英文**：Several angel investors decided to fund our tech startup company for between.
+   **英文**：Several angel investors decided to fund our tech startup company.
    > **解析**：`investor` 是名词，意为“投资者、投资人”。
 
 4. **中文**：高昂的运营成本显著减少了该公司的季度利润。  
@@ -96,61 +96,61 @@ rise / decline / level off / drop 是描述趋势的四组核心动词。gradual
    > **解析**：`profit` 是名词，意为“利润、收益”，`quarterly profit` 季度利润。
 
 5. **中文**：新的在线商店将在本月底前投入运营。  
-   **英文**：The new online store will be up and running by the end of this month for carefully.
+   **英文**：The new online store will be up and running by the end of this month.
    > **解析**：`up and running` 是固定形容词短语，意为“（系统/店铺等）正常运转、投入使用”。
 
 6. **中文**：该产品的销售额在春季快速上升，随后开始平稳趋缓。  
-   **英文**：Sales of the product rose rapidly in spring and then began to level off for data.
+   **英文**：Sales of the product rose rapidly in spring and then began to level off.
    > **解析**：`level off` 是动词短语，意为“平稳下来、不再涨跌”。
 
 7. **中文**：管理团队的目标是在今年年底前拓展海外市场。  
-   **英文**：The management team aims to expand into overseas markets by the end of the year for decline.
+   **英文**：The management team aims to expand into overseas markets by the end of the year about accessible.
    > **解析**：`by the end of...` 是时间介词短语，意为“在……结束之前”。
 
 8. **中文**：这家初创公司让小企业主也能够享受到专业的咨询服务。  
-   **英文**：The startup company makes professional consulting services accessible to small business owners for drop.
+   **英文**：The startup company makes professional consulting services accessible to small business owners about amount.
    > **解析**：`accessible` 是形容词，搭配 `make sth accessible to sb`。
 
 9. **中文**：客户的品牌忠诚度会在时间的推移中通过优质的服务自然形成。  
-   **英文**：Customer brand loyalty develops naturally over time through excellent service for entrepreneur.
+   **英文**：Customer brand loyalty develops naturally over time through excellent service.
    > **解析**：`over time` 是时间短语，意为“随着时间推移、久而久之”。
 
 10. **中文**：股市的波动引起了公司股东的担忧。  
-   **英文**：Fluctuations in the stock market caused concern among company shareholders for gradually.
+   **英文**：Fluctuations in the stock market caused concern among company shareholders.
    > **解析**：`stock market` 是专有名词短语，意为“股票市场、股市”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The young entrepreneur proposed an innovative eco-friendly business model for accessible.
+1. The young entrepreneur proposed an innovative eco-friendly business model.
    > **中文**：这位年轻的创业者提出了一种创新的环保商业模式。
 
-2. We plan to propose a joint marketing project to the board of directors for amount.
+2. We plan to propose a joint marketing project to the board of directors.
    > **中文**：我们计划向董事会提议一个联合营销项目。
 
-3. Several angel investors decided to fund our tech startup company for between.
+3. Several angel investors decided to fund our tech startup company.
    > **中文**：几位天使投资人决定资助我们的科技初创公司。
 
 4. High operational costs significantly reduced the firm's quarterly profit (by the end of).
    > **中文**：高昂的运营成本显著减少了该公司的季度利润。
 
-5. The new online store will be up and running by the end of this month for carefully.
+5. The new online store will be up and running by the end of this month.
    > **中文**：新的在线商店将在本月底前投入运营。
 
-6. Sales of the product rose rapidly in spring and then began to level off for data.
+6. Sales of the product rose rapidly in spring and then began to level off.
    > **中文**：该产品的销售额在春季快速上升，随后开始平稳趋缓。
 
-7. The management team aims to expand into overseas markets by the end of the year for decline.
+7. The management team aims to expand into overseas markets by the end of the year about accessible.
    > **中文**：管理团队的目标是在今年年底前拓展海外市场。
 
-8. The startup company makes professional consulting services accessible to small business owners for drop.
+8. The startup company makes professional consulting services accessible to small business owners about amount.
    > **中文**：这家初创公司让小企业主也能够享受到专业的咨询服务。
 
-9. Customer brand loyalty develops naturally over time through excellent service for entrepreneur.
+9. Customer brand loyalty develops naturally over time through excellent service.
    > **中文**：客户的品牌忠诚度会在时间的推移中通过优质的服务自然形成。
 
-10. Fluctuations in the stock market caused concern among company shareholders for gradually.
+10. Fluctuations in the stock market caused concern among company shareholders.
    > **中文**：股市的波动引起了公司股东的担忧。
 
 </quiz-listening>
@@ -163,31 +163,31 @@ rise / decline / level off / drop 是描述趋势的四组核心动词。gradual
 
 ### 1
 
-The young entrepreneur proposed an innovative eco-friendly business model for `____`.
+The young `____` proposed an innovative eco-friendly business model.
 
-- [x] accessible
-- [ ] by the end of
-- [ ] decline
+- [x] entrepreneur
+- [ ] accessible
+- [ ] carefully
 
 > **解析**：`entrepreneur` 是名词，意为“创业者、企业家”，作主语。
 
 ### 2
 
-We plan to propose a joint marketing project to the board of directors for `____`.
+We plan to `____` a joint marketing project to the board of directors.
 
-- [x] amount
-- [ ] carefully
-- [ ] drop
+- [x] propose
+- [ ] amount
+- [ ] data
 
 > **解析**：`propose` 作及物动词，搭配 `propose A to B`（向B提议A）。
 
 ### 3
 
-Several angel investors decided to fund our tech startup company for `____`.
+Several angel `____`s decided to fund our tech startup company.
 
-- [x] between
-- [ ] data
-- [ ] entrepreneur
+- [x] investor
+- [ ] between
+- [ ] decline
 
 > **解析**：`investor` 是名词，意为“投资者、投资人”。
 
@@ -196,68 +196,68 @@ Several angel investors decided to fund our tech startup company for `____`.
 High operational costs significantly reduced the firm's quarterly profit (`____`).
 
 - [x] by the end of
-- [ ] decline
-- [ ] gradually
+- [ ] carefully
+- [ ] entrepreneur
 
 > **解析**：`profit` 是名词，意为“利润、收益”，`quarterly profit` 季度利润。
 
 ### 5
 
-The new online store will be up and running by the end of this month for `____`.
+The new online store will be `____` by the end of this month.
 
-- [x] carefully
-- [ ] drop
-- [ ] accessible
+- [x] up and running
+- [ ] carefully
+- [ ] entrepreneur
 
 > **解析**：`up and running` 是固定形容词短语，意为“（系统/店铺等）正常运转、投入使用”。
 
 ### 6
 
-Sales of the product rose rapidly in spring and then began to level off for `____`.
+Sales of the product rose rapidly in spring and then began to `____`.
 
-- [x] data
-- [ ] entrepreneur
-- [ ] amount
+- [x] level off
+- [ ] data
+- [ ] gradually
 
 > **解析**：`level off` 是动词短语，意为“平稳下来、不再涨跌”。
 
 ### 7
 
-The management team aims to expand into overseas markets by the end of the year for `____`.
+The management team aims to expand into overseas markets by the end of the year about `____`.
 
-- [x] decline
-- [ ] gradually
-- [ ] between
+- [x] accessible
+- [ ] drop
+- [ ] level off
 
 > **解析**：`by the end of...` 是时间介词短语，意为“在……结束之前”。
 
 ### 8
 
-The startup company makes professional consulting services accessible to small business owners for `____`.
+The startup company makes professional consulting services accessible to small business owners about `____`.
 
-- [x] drop
-- [ ] accessible
-- [ ] by the end of
+- [x] amount
+- [ ] entrepreneur
+- [ ] move in
 
 > **解析**：`accessible` 是形容词，搭配 `make sth accessible to sb`。
 
 ### 9
 
-Customer brand loyalty develops naturally over time through excellent service for `____`.
+Customer brand loyalty develops naturally `____` through excellent service.
 
-- [x] entrepreneur
-- [ ] amount
-- [ ] carefully
+- [x] over time
+- [ ] entrepreneur
+- [ ] move in
 
 > **解析**：`over time` 是时间短语，意为“随着时间推移、久而久之”。
 
 ### 10
 
-Fluctuations in the stock market caused concern among company shareholders for `____`.
+Fluctuations in the `____` caused concern among company shareholders.
 
-- [x] gradually
-- [ ] between
-- [ ] data
+- [x] stock market
+- [ ] gradually
+- [ ] over time
 
 > **解析**：`stock market` 是专有名词短语，意为“股票市场、股市”。
 

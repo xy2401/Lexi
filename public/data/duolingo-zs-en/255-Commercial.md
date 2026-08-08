@@ -80,39 +80,39 @@ not only... but also... / neither... nor... / both... and... 是三组并列连�
 <quiz-sentence-builder>
 
 1. **中文**：每天早上喝这种新鲜果汁会提升你一天的活力水平。  
-   **英文**：Drinking this fresh juice every morning will boost your daily energy level for artificial.
+   **英文**：Drinking this fresh juice every morning will boost your daily energy level.
    > **解析**：`boost` 作及物动词，意为“提升、增加、促进”，宾语为 `energy level`。
 
 2. **中文**：这款新的健身应用程序帮助忙碌的职场人士在家轻松塑造好身材。  
-   **英文**：This new fitness app helps busy professionals get in shape easily at home for biggest.
+   **英文**：This new fitness app helps busy professionals get in shape easily at home.
    > **解析**：`get in shape` 是固定短语，意为“保持强健体魄、塑造好身材”。
 
 3. **中文**：使用这款天然护肤品让她在公众场合更有自信。  
-   **英文**：Using this natural skincare product gave her more confidence in public for boost.
+   **英文**：Using this natural skincare product gave her more confidence in public.
    > **解析**：`confidence` 是不可数名词，意为“自信心”，与动词 `give` 搭配。
 
 4. **中文**：您今天可以在线购买这款多功能搅拌机，享受八折优惠。  
-   **英文**：You can purchase this multi-functional blender online with a 20% discount today for both.
+   **英文**：You can purchase this multi-functional blender online with a 20% discount today.
    > **解析**：`purchase` 是动词，意为“购买”，比 `buy` 更正规商业化。
 
 5. **中文**：这款吸尘器不仅吸力强劲，而且极其安静。  
-   **英文**：Not only is this vacuum cleaner powerful, but it is also extremely quiet for confidence.
+   **英文**：Not only is this vacuum cleaner powerful, but it is also extremely quiet.
    > **解析**：`Not only is...` 句首倒装结构：当 `Not only` 置于句首时，主句系动词倒装。
 
 6. **中文**：这款有机零食不含任何人工风味或防腐剂。  
-   **英文**：This organic snack contains no artificial flavors or preservatives for did.
+   **英文**：This organic snack contains no artificial flavors or preservatives.
    > **解析**：`artificial` 是形容词，意为“人工的、人造的”，修饰名词 `flavors`。
 
 7. **中文**：您现在就应该下单；否则，折扣优惠很快就会到期。  
-   **英文**：You should order now; otherwise, the discount offer will expire soon for energy.
+   **英文**：You should order now; otherwise, the discount offer will expire soon.
    > **解析**：`otherwise` 是副词/连词，意为“否则、要不然”，引导后果。
 
 8. **中文**：这款家具的设计既时尚又高度实用。  
-   **英文**：The design of this furniture is both stylish and highly functional for fortune.
+   **英文**：The design of this furniture is both stylish and highly functional.
    > **解析**：`functional` 是形容词，意为“实用的、功能性的”，在系动词后作表语。
 
 9. **中文**：我们的产品既不使用误导性承诺，也不使用劣质材料。  
-   **英文**：Neither misleading promises nor low-quality materials are used in our products for functional.
+   **英文**：Neither misleading promises nor low-quality materials are used in our products.
    > **解析**：`neither... nor...` 意为“既不……也不……”，连接并列主语。
 
 10. **中文**：这款新手机的卓越品质一定会给消费者留下深刻印象。  
@@ -123,31 +123,31 @@ not only... but also... / neither... nor... / both... and... 是三组并列连�
 
 <quiz-listening>
 
-1. Drinking this fresh juice every morning will boost your daily energy level for artificial.
+1. Drinking this fresh juice every morning will boost your daily energy level.
    > **中文**：每天早上喝这种新鲜果汁会提升你一天的活力水平。
 
-2. This new fitness app helps busy professionals get in shape easily at home for biggest.
+2. This new fitness app helps busy professionals get in shape easily at home.
    > **中文**：这款新的健身应用程序帮助忙碌的职场人士在家轻松塑造好身材。
 
-3. Using this natural skincare product gave her more confidence in public for boost.
+3. Using this natural skincare product gave her more confidence in public.
    > **中文**：使用这款天然护肤品让她在公众场合更有自信。
 
-4. You can purchase this multi-functional blender online with a 20% discount today for both.
+4. You can purchase this multi-functional blender online with a 20% discount today.
    > **中文**：您今天可以在线购买这款多功能搅拌机，享受八折优惠。
 
-5. Not only is this vacuum cleaner powerful, but it is also extremely quiet for confidence.
+5. Not only is this vacuum cleaner powerful, but it is also extremely quiet.
    > **中文**：这款吸尘器不仅吸力强劲，而且极其安静。
 
-6. This organic snack contains no artificial flavors or preservatives for did.
+6. This organic snack contains no artificial flavors or preservatives.
    > **中文**：这款有机零食不含任何人工风味或防腐剂。
 
-7. You should order now; otherwise, the discount offer will expire soon for energy.
+7. You should order now; otherwise, the discount offer will expire soon.
    > **中文**：您现在就应该下单；否则，折扣优惠很快就会到期。
 
-8. The design of this furniture is both stylish and highly functional for fortune.
+8. The design of this furniture is both stylish and highly functional.
    > **中文**：这款家具的设计既时尚又高度实用。
 
-9. Neither misleading promises nor low-quality materials are used in our products for functional.
+9. Neither misleading promises nor low-quality materials are used in our products.
    > **中文**：我们的产品既不使用误导性承诺，也不使用劣质材料。
 
 10. The outstanding quality of the new phone will certainly impress consumers (get in shape).
@@ -163,101 +163,101 @@ not only... but also... / neither... nor... / both... and... 是三组并列连�
 
 ### 1
 
-Drinking this fresh juice every morning will boost your daily energy level for `____`.
+Drinking this fresh juice every morning will `____` your daily energy level.
 
-- [x] artificial
-- [ ] both
-- [ ] energy
+- [x] boost
+- [ ] artificial
+- [ ] did
 
 > **解析**：`boost` 作及物动词，意为“提升、增加、促进”，宾语为 `energy level`。
 
 ### 2
 
-This new fitness app helps busy professionals get in shape easily at home for `____`.
+This new fitness app helps busy professionals `____` easily at home.
 
-- [x] biggest
-- [ ] confidence
-- [ ] fortune
+- [x] get in shape
+- [ ] biggest
+- [ ] did
 
 > **解析**：`get in shape` 是固定短语，意为“保持强健体魄、塑造好身材”。
 
 ### 3
 
-Using this natural skincare product gave her more confidence in public for `____`.
+Using this natural skincare product gave her more `____` in public.
 
-- [x] boost
-- [ ] did
-- [ ] functional
+- [x] confidence
+- [ ] boost
+- [ ] fortune
 
 > **解析**：`confidence` 是不可数名词，意为“自信心”，与动词 `give` 搭配。
 
 ### 4
 
-You can purchase this multi-functional blender online with a 20% discount today for `____`.
+You can purchase this multi-`____` blender online with a 20% discount today.
 
-- [x] both
-- [ ] energy
-- [ ] get in shape
+- [x] functional
+- [ ] both
+- [ ] fortune
 
 > **解析**：`purchase` 是动词，意为“购买”，比 `buy` 更正规商业化。
 
 ### 5
 
-Not only is this vacuum cleaner powerful, but it is also extremely quiet for `____`.
+`____`t only is this vacuum cleaner powerful, but it is also extremely quiet.
 
-- [x] confidence
-- [ ] fortune
-- [ ] artificial
+- [x] no
+- [ ] confidence
+- [ ] functional
 
 > **解析**：`Not only is...` 句首倒装结构：当 `Not only` 置于句首时，主句系动词倒装。
 
 ### 6
 
-This organic snack contains no artificial flavors or preservatives for `____`.
+This organic snack contains no `____` flavors or preservatives.
 
-- [x] did
-- [ ] functional
-- [ ] biggest
+- [x] artificial
+- [ ] energy
+- [ ] impress
 
 > **解析**：`artificial` 是形容词，意为“人工的、人造的”，修饰名词 `flavors`。
 
 ### 7
 
-You should order now; otherwise, the discount offer will expire soon for `____`.
+You should order `____`; otherwise, the discount offer will expire soon.
 
-- [x] energy
-- [ ] get in shape
-- [ ] boost
+- [x] now
+- [ ] energy
+- [ ] impress
 
 > **解析**：`otherwise` 是副词/连词，意为“否则、要不然”，引导后果。
 
 ### 8
 
-The design of this furniture is both stylish and highly functional for `____`.
+The design of this furniture is `____` stylish and highly functional.
 
-- [x] fortune
-- [ ] artificial
-- [ ] both
+- [x] both
+- [ ] functional
+- [ ] neither
 
 > **解析**：`functional` 是形容词，意为“实用的、功能性的”，在系动词后作表语。
 
 ### 9
 
-Neither misleading promises nor low-quality materials are used in our products for `____`.
+`____` misleading promises nor low-quality materials are used in our products.
 
-- [x] functional
-- [ ] biggest
-- [ ] confidence
+- [x] neither
+- [ ] functional
+- [ ] no
 
 > **解析**：`neither... nor...` 意为“既不……也不……”，连接并列主语。
 
 ### 10
 
-The outstanding quality of the new phone will certainly impress consumers (`____`).
+The outstanding quality of the new phone will certainly `____` consumers (get in shape).
 
-- [x] get in shape
-- [ ] boost
-- [ ] did
+- [x] impress
+- [ ] get in shape
+- [ ] nor
 
 > **解析**：`impress` 作及物动词，意为“给……留下深刻印象”，宾语为 `consumers`。
 

@@ -66,35 +66,35 @@ so that 表示"以便/为了"。tear → tore → torn 是不规则变化。
    > **解析**：costume 为名词，指“节日服装、戏服”。Halloween costume 意为“万圣节服装”。prefer A or B 询问偏好。
 
 2. **中文**：孩子们在万圣节之夜挨家挨户要糖果。  
-   **英文**：Children walk from door to door asking for candy on Halloween night for bat.
+   **英文**：Children walk from door to door asking for candy on Halloween night.
    > **解析**：Halloween 为专有名词，首字母大写，意为“万圣节（前夜）”。on Halloween night 表示“在万圣节之夜”。
 
 3. **中文**：她决定装扮成一个戴着黑色尖顶帽的经典女巫。  
-   **英文**：She decided to dress up as a classic witch wearing a pointed black hat for costume.
+   **英文**：She decided to dress up as a classic witch wearing a pointed black hat.
    > **解析**：witch 为名词，意为“女巫、巫婆”。dress up as 意为“打扮/装扮成”。pointed hat 指“尖顶帽”。
 
 4. **中文**：形状像黑蝙蝠的纸质装饰品悬挂门廊天花板上。  
-   **英文**：Paper decorations shaped like black bats were hanging from the porch ceiling for did.
+   **英文**：Paper decorations shaped like black bats were hanging from the porch ceiling.
    > **解析**：bat 为名词，意为“蝙蝠”。shaped like 意为“形状像”。hanging from 表示“悬挂在”。
 
 5. **中文**：先试穿一下这件女巫服，确保尺码对你合适。  
-   **英文**：Try on the witch outfit first to make sure the size fits you properly (didn't).
+   **英文**：Try on the witch outfit first to make sure the size fits you properly.
    > **解析**：fit 为动词，意为“（尺寸/大小）合适、合身”。fit sb. properly 表示“对某人很合身”。
 
 6. **中文**：选择与你万圣节派对服装颜色相配的鞋子。  
-   **英文**：Choose shoes that match the color of your Halloween party outfit for do.
+   **英文**：Choose shoes that match the color of your Halloween party outfit.
    > **解析**：match 为动词，意为“搭配、相配”。match the color of... 表示“与...的颜色相配”。
 
 7. **中文**：这双超级英雄手套对我来说有点太紧了，戴着很不舒服。  
-   **英文**：These superhero gloves are a bit too tight for me to wear comfortably for does.
+   **英文**：These superhero gloves are a bit too tight for me to wear comfortably.
    > **解析**：tight 为形容词，意为“紧的、紧身的”。too tight 为“太紧”。反义词为 loose（松的）。
 
 8. **中文**：如果你在外面感到冷，可以在戏服外面套一件宽松的斗篷。  
-   **英文**：Wear a loose cloak over your costume if you feel cold outside (doesn't).
+   **英文**：Wear a loose cloak over your costume if you feel cold outside.
    > **解析**：loose 为形容词，意为“宽松的、松散的”。loose cloak 表示“宽松的斗篷”。
 
 9. **中文**：在你的服装上安放发光的灯，以便司机们在夜间能清楚看见你。  
-   **英文**：Put glowing lights on your outfit so that drivers can see you clearly at night (don't).
+   **英文**：Put glowing lights on your outfit so that drivers can see you clearly at night.
    > **解析**：so that 为连词短语，引导目的状语从句，意为“以便、为了”。从句中常连用 can / could 等情态动词。
 
 10. **中文**：设计师款万圣节服装在年轻人中变得越来越时尚。  
@@ -108,28 +108,28 @@ so that 表示"以便/为了"。tear → tore → torn 是不规则变化。
 1. Which Halloween costume do you prefer, the scary ghost or the superhero outfit?
    > **中文**：你更喜欢哪一件万圣节服装，恐怖的鬼魂还是超级英雄装？
 
-2. Children walk from door to door asking for candy on Halloween night for bat.
+2. Children walk from door to door asking for candy on Halloween night.
    > **中文**：孩子们在万圣节之夜挨家挨户要糖果。
 
-3. She decided to dress up as a classic witch wearing a pointed black hat for costume.
+3. She decided to dress up as a classic witch wearing a pointed black hat.
    > **中文**：她决定装扮成一个戴着黑色尖顶帽的经典女巫。
 
-4. Paper decorations shaped like black bats were hanging from the porch ceiling for did.
+4. Paper decorations shaped like black bats were hanging from the porch ceiling.
    > **中文**：形状像黑蝙蝠的纸质装饰品悬挂门廊天花板上。
 
-5. Try on the witch outfit first to make sure the size fits you properly (didn't).
+5. Try on the witch outfit first to make sure the size fits you properly.
    > **中文**：先试穿一下这件女巫服，确保尺码对你合适。
 
-6. Choose shoes that match the color of your Halloween party outfit for do.
+6. Choose shoes that match the color of your Halloween party outfit.
    > **中文**：选择与你万圣节派对服装颜色相配的鞋子。
 
-7. These superhero gloves are a bit too tight for me to wear comfortably for does.
+7. These superhero gloves are a bit too tight for me to wear comfortably.
    > **中文**：这双超级英雄手套对我来说有点太紧了，戴着很不舒服。
 
-8. Wear a loose cloak over your costume if you feel cold outside (doesn't).
+8. Wear a loose cloak over your costume if you feel cold outside.
    > **中文**：如果你在外面感到冷，可以在戏服外面套一件宽松的斗篷。
 
-9. Put glowing lights on your outfit so that drivers can see you clearly at night (don't).
+9. Put glowing lights on your outfit so that drivers can see you clearly at night.
    > **中文**：在你的服装上安放发光的灯，以便司机们在夜间能清楚看见你。
 
 10. Designer Halloween costumes have become increasingly fashionable among young people.
@@ -148,88 +148,88 @@ so that 表示"以便/为了"。tear → tore → torn 是不规则变化。
 Which `____` costume do you prefer, the scary ghost or the superhero outfit?
 
 - [x] Halloween
-- [ ] did
-- [ ] does
+- [ ] bat
+- [ ] do
 
 > **解析**：costume 为名词，指“节日服装、戏服”。Halloween costume 意为“万圣节服装”。prefer A or B 询问偏好。
 
 ### 2
 
-Children walk from door to door asking for candy on Halloween night for `____`.
+Children walk from `____`or to door asking for candy on Halloween night.
 
-- [x] bat
-- [ ] didn't
-- [ ] doesn't
+- [x] do
+- [ ] bat
+- [ ] does
 
 > **解析**：Halloween 为专有名词，首字母大写，意为“万圣节（前夜）”。on Halloween night 表示“在万圣节之夜”。
 
 ### 3
 
-She decided to dress up as a classic witch wearing a pointed black hat for `____`.
+She decided to dress up as a classic `____` wearing a pointed black hat.
 
-- [x] costume
-- [ ] do
-- [ ] don't
+- [x] witch
+- [ ] costume
+- [ ] does
 
 > **解析**：witch 为名词，意为“女巫、巫婆”。dress up as 意为“打扮/装扮成”。pointed hat 指“尖顶帽”。
 
 ### 4
 
-Paper decorations shaped like black bats were hanging from the porch ceiling for `____`.
+Paper decorations shaped like black `____`s were hanging from the porch ceiling.
 
-- [x] did
-- [ ] does
-- [ ] fashionable
+- [x] bat
+- [ ] didn't
+- [ ] don't
 
 > **解析**：bat 为名词，意为“蝙蝠”。shaped like 意为“形状像”。hanging from 表示“悬挂在”。
 
 ### 5
 
-Try on the witch outfit first to make sure the size fits you properly (`____`).
+Try on the witch out`____` first to make sure the size fits you properly.
 
-- [x] didn't
-- [ ] doesn't
-- [ ] Halloween
+- [x] fit
+- [ ] didn't
+- [ ] don't
 
 > **解析**：fit 为动词，意为“（尺寸/大小）合适、合身”。fit sb. properly 表示“对某人很合身”。
 
 ### 6
 
-Choose shoes that match the color of your Halloween party outfit for `____`.
+Choose shoes that `____` the color of your Halloween party outfit.
 
-- [x] do
-- [ ] don't
-- [ ] bat
+- [x] match
+- [ ] do
+- [ ] fashionable
 
 > **解析**：match 为动词，意为“搭配、相配”。match the color of... 表示“与...的颜色相配”。
 
 ### 7
 
-These superhero gloves are a bit too tight for me to wear comfortably for `____`.
+These superhero gloves are a bit too `____` for me to wear comfortably.
 
-- [x] does
-- [ ] fashionable
-- [ ] costume
+- [x] tight
+- [ ] does
+- [ ] fit
 
 > **解析**：tight 为形容词，意为“紧的、紧身的”。too tight 为“太紧”。反义词为 loose（松的）。
 
 ### 8
 
-Wear a loose cloak over your costume if you feel cold outside (`____`).
+Wear a loose cloak over your `____` if you feel cold outside.
 
-- [x] doesn't
-- [ ] Halloween
-- [ ] did
+- [x] costume
+- [ ] don't
+- [ ] match
 
 > **解析**：loose 为形容词，意为“宽松的、松散的”。loose cloak 表示“宽松的斗篷”。
 
 ### 9
 
-Put glowing lights on your outfit so that drivers can see you clearly at night (`____`).
+Put glowing lights on your outfit `____` drivers can see you clearly at night.
 
-- [x] don't
-- [ ] bat
-- [ ] didn't
+- [x] so that
+- [ ] don't
+- [ ] match
 
 > **解析**：so that 为连词短语，引导目的状语从句，意为“以便、为了”。从句中常连用 can / could 等情态动词。
 
@@ -238,8 +238,8 @@ Put glowing lights on your outfit so that drivers can see you clearly at night (
 Designer Halloween costumes have become increasingly `____` among young people.
 
 - [x] fashionable
-- [ ] costume
-- [ ] do
+- [ ] fit
+- [ ] so that
 
 > **解析**：fashionable 为形容词，意为“时尚的、流行时髦的”。由 fashion + -able 构成。修饰 Halloween costumes。
 

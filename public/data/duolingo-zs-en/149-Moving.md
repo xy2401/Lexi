@@ -66,15 +66,15 @@ get rid of = 处理掉/扔掉。break down = 出故障。
    > **解析**：get rid of 为固定动词短语，意为“处理掉、摆脱、扔掉”。后接名词或动名词（unwanted furniture）。
 
 2. **中文**：住在地铁站附近使得日常通勤方便得多。  
-   **英文**：Living near a subway station makes daily commuting much more convenient for alarm.
+   **英文**：Living near a subway station makes daily commuting much more convenient.
    > **解析**：convenient 为形容词，意为“方便的、便利的”。作宾语补足语（makes daily commuting convenient）。主语常为事物而非人。
 
 3. **中文**：把你的贵重物品（如珠宝和官方文件）打包装进随身提包里。  
-   **英文**：Pack your valuable items such as jewelry and official documents in your carry-on bag for backyard.
+   **英文**：Pack your valuable items such as jewelry and official documents in your carry-on bag.
    > **解析**：valuable 为形容词，意为“宝贵的、贵重的”。valuable items 指“贵重物品”。也可作复数名词 valuables（贵重物品）。
 
 4. **中文**：这套新公寓配有中央空调，在夏天能保持房间凉爽。  
-   **英文**：The new apartment has central air conditioning that keeps the rooms cool in summer for bathtub.
+   **英文**：The new apartment has central air conditioning that keeps the rooms cool in summer about alarm.
    > **解析**：air conditioning 为不可数名词短语，意为“空调”。central air conditioning 表示“中央空调”。
 
 5. **中文**：搬家后，拥有一个可以在里面玩耍的大后院让孩子们非常激动。  
@@ -82,15 +82,15 @@ get rid of = 处理掉/扔掉。break down = 出故障。
    > **解析**：backyard 为名词，意为“后院”。thrilled 意为“非常激动/欣喜的”。
 
 6. **中文**：我们聘请了一位室内设计师来帮我们装饰客厅的墙壁。  
-   **英文**：We hired an interior designer to help us decorate the living room walls for control.
+   **英文**：We hired an interior designer to help us decorate the living room walls.
    > **解析**：decorate 为动词，意为“装饰、布置”。decorate the walls 表示“装饰墙壁”。名词为 decoration。
 
 7. **中文**：检查房子里每个烟雾报警器的电池，以确保家庭安全。  
-   **英文**：Check the battery of every smoke alarm in the house to ensure family safety for convenient.
+   **英文**：Check the battery of every smoke alarm in the house to ensure family safety.
    > **解析**：smoke alarm 为名词短语，意为“烟雾报警器、感烟探测器”。ensure safety 表示“确保安全”。
 
 8. **中文**：旧洗衣机在经过多年高强度使用后往往会发生故障。  
-   **英文**：Old washing machines often break down after years of heavy use for decorate.
+   **英文**：Old washing machines often break down after years of heavy use.
    > **解析**：break down 为动词短语，意为“（机械/车辆）故障、损坏”。
 
 9. **中文**：把所有的塑料瓶和纸板箱放进蓝色回收箱里。  
@@ -98,7 +98,7 @@ get rid of = 处理掉/扔掉。break down = 出故障。
    > **解析**：recycling 在句中作定语修饰 bin，recycling bin 表示“垃圾回收箱”。recycling 为不可数名词，意为“回收利用”。
 
 10. **中文**：翻新后的浴室配有一个深白色的浴缸，供人洗放松的温水澡。  
-   **英文**：The renovated bathroom features a deep white bathtub for relaxing warm baths for grill.
+   **英文**：The renovated bathroom features a deep white bathtub for relaxing warm baths.
    > **解析**：bathtub 为名词，意为“浴缸”。renovated 意为“翻新修缮的”。
 
 </quiz-sentence-builder>
@@ -108,31 +108,31 @@ get rid of = 处理掉/扔掉。break down = 出故障。
 1. Before moving to a smaller apartment, we must get rid of unwanted furniture (air conditioning).
    > **中文**：在搬到一个较小的公寓之前，我们必须处理掉不想要的家具。
 
-2. Living near a subway station makes daily commuting much more convenient for alarm.
+2. Living near a subway station makes daily commuting much more convenient.
    > **中文**：住在地铁站附近使得日常通勤方便得多。
 
-3. Pack your valuable items such as jewelry and official documents in your carry-on bag for backyard.
+3. Pack your valuable items such as jewelry and official documents in your carry-on bag.
    > **中文**：把你的贵重物品（如珠宝和官方文件）打包装进随身提包里。
 
-4. The new apartment has central air conditioning that keeps the rooms cool in summer for bathtub.
+4. The new apartment has central air conditioning that keeps the rooms cool in summer about alarm.
    > **中文**：这套新公寓配有中央空调，在夏天能保持房间凉爽。
 
 5. The children were thrilled to have a big backyard to play in after moving house (break down).
    > **中文**：搬家后，拥有一个可以在里面玩耍的大后院让孩子们非常激动。
 
-6. We hired an interior designer to help us decorate the living room walls for control.
+6. We hired an interior designer to help us decorate the living room walls.
    > **中文**：我们聘请了一位室内设计师来帮我们装饰客厅的墙壁。
 
-7. Check the battery of every smoke alarm in the house to ensure family safety for convenient.
+7. Check the battery of every smoke alarm in the house to ensure family safety.
    > **中文**：检查房子里每个烟雾报警器的电池，以确保家庭安全。
 
-8. Old washing machines often break down after years of heavy use for decorate.
+8. Old washing machines often break down after years of heavy use.
    > **中文**：旧洗衣机在经过多年高强度使用后往往会发生故障。
 
 9. Put all plastic bottles and cardboard boxes into the blue recycling bin (get rid of).
    > **中文**：把所有的塑料瓶和纸板箱放进蓝色回收箱里。
 
-10. The renovated bathroom features a deep white bathtub for relaxing warm baths for grill.
+10. The renovated bathroom features a deep white bathtub for relaxing warm baths.
    > **中文**：翻新后的浴室配有一个深白色的浴缸，供人洗放松的温水澡。
 
 </quiz-listening>
@@ -148,78 +148,78 @@ get rid of = 处理掉/扔掉。break down = 出故障。
 Before moving to a smaller apartment, we must get rid of unwanted furniture (`____`).
 
 - [x] air conditioning
-- [ ] bathtub
-- [ ] convenient
+- [ ] alarm
+- [ ] control
 
 > **解析**：get rid of 为固定动词短语，意为“处理掉、摆脱、扔掉”。后接名词或动名词（unwanted furniture）。
 
 ### 2
 
-Living near a subway station makes daily commuting much more convenient for `____`.
+Living near a subway station makes daily commuting much more `____`.
 
-- [x] alarm
-- [ ] break down
-- [ ] decorate
+- [x] convenient
+- [ ] alarm
+- [ ] control
 
 > **解析**：convenient 为形容词，意为“方便的、便利的”。作宾语补足语（makes daily commuting convenient）。主语常为事物而非人。
 
 ### 3
 
-Pack your valuable items such as jewelry and official documents in your carry-on bag for `____`.
+Pack your `____` items such as jewelry and official documents in your carry-on bag.
 
-- [x] backyard
-- [ ] control
-- [ ] get rid of
+- [x] valuable
+- [ ] backyard
+- [ ] convenient
 
 > **解析**：valuable 为形容词，意为“宝贵的、贵重的”。valuable items 指“贵重物品”。也可作复数名词 valuables（贵重物品）。
 
 ### 4
 
-The new apartment has central air conditioning that keeps the rooms cool in summer for `____`.
+The new apartment has central air conditioning that keeps the rooms cool in summer about `____`.
 
-- [x] bathtub
-- [ ] convenient
-- [ ] grill
+- [x] alarm
+- [ ] break down
+- [ ] get rid of
 
 > **解析**：air conditioning 为不可数名词短语，意为“空调”。central air conditioning 表示“中央空调”。
 
 ### 5
 
-The children were thrilled to have a big backyard to play in after moving house (`____`).
+The children were thrilled to have a big `____` to play in after moving house (break down).
 
-- [x] break down
-- [ ] decorate
-- [ ] air conditioning
+- [x] backyard
+- [ ] control
+- [ ] grill
 
 > **解析**：backyard 为名词，意为“后院”。thrilled 意为“非常激动/欣喜的”。
 
 ### 6
 
-We hired an interior designer to help us decorate the living room walls for `____`.
+We hired an interior designer to help us `____` the living room walls.
 
-- [x] control
-- [ ] get rid of
-- [ ] alarm
+- [x] decorate
+- [ ] control
+- [ ] lock
 
 > **解析**：decorate 为动词，意为“装饰、布置”。decorate the walls 表示“装饰墙壁”。名词为 decoration。
 
 ### 7
 
-Check the battery of every smoke alarm in the house to ensure family safety for `____`.
+Check the battery of every `____` in the house to ensure family safety.
 
-- [x] convenient
-- [ ] grill
-- [ ] backyard
+- [x] smoke alarm
+- [ ] convenient
+- [ ] lock
 
 > **解析**：smoke alarm 为名词短语，意为“烟雾报警器、感烟探测器”。ensure safety 表示“确保安全”。
 
 ### 8
 
-Old washing machines often break down after years of heavy use for `____`.
+Old washing machines often `____` after years of heavy use.
 
-- [x] decorate
-- [ ] air conditioning
-- [ ] bathtub
+- [x] break down
+- [ ] get rid of
+- [ ] make
 
 > **解析**：break down 为动词短语，意为“（机械/车辆）故障、损坏”。
 
@@ -228,18 +228,18 @@ Old washing machines often break down after years of heavy use for `____`.
 Put all plastic bottles and cardboard boxes into the blue recycling bin (`____`).
 
 - [x] get rid of
-- [ ] alarm
-- [ ] break down
+- [ ] grill
+- [ ] move
 
 > **解析**：recycling 在句中作定语修饰 bin，recycling bin 表示“垃圾回收箱”。recycling 为不可数名词，意为“回收利用”。
 
 ### 10
 
-The renovated bathroom features a deep white bathtub for relaxing warm baths for `____`.
+The renovated bathroom features a deep white `____` for relaxing warm baths.
 
-- [x] grill
-- [ ] backyard
-- [ ] control
+- [x] bathtub
+- [ ] lock
+- [ ] power
 
 > **解析**：bathtub 为名词，意为“浴缸”。renovated 意为“翻新修缮的”。
 

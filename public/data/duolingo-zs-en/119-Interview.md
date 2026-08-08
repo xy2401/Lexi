@@ -62,35 +62,35 @@ apply for 表示"申请"。since 搭配现在完成时。
 <quiz-sentence-builder>
 
 1. **中文**：她决定向银行申请财务分析师的职位。  
-   **英文**：She decided to apply for the position of financial analyst at the bank for accept.
+   **英文**：She decided to apply for the position of financial analyst at the bank.
    > **解析**：apply for... 为固定动词短语，意为“申请……（职位/学校等）”。
 
 2. **中文**：在为求职面试做了充分准备后，他感觉很有信心。  
-   **英文**：He felt confident after preparing thoroughly for his job interview for airline.
+   **英文**：He felt confident after preparing thoroughly for his job interview.
    > **解析**：interview 作可数名词，意为“面试，访谈”。job interview 指“求职面试”。
 
 3. **中文**：请务必在你更新的简历中突出你的相关成就。  
-   **英文**：Make sure to highlight your relevant achievements on your updated résumé for apply.
+   **英文**：Make sure to highlight your relevant achievements on your updated résumé.
    > **解析**：résumé 作名词，意为“简历，履历”。作介词 on 的宾语。
 
 4. **中文**：选择一条契合你热情的职业道路会带来工作满足感。  
-   **英文**：Choosing a career path that aligns with your passions brings job satisfaction for away.
+   **英文**：Choosing a career path that aligns with your passions brings job satisfaction.
    > **解析**：career 作名词，意为“职业，事业”。career path 指“职业路线”。
 
 5. **中文**：这家科技公司提供吸引人的员工福利，包括医疗保险。  
-   **英文**：The tech company offers attractive employee benefits including health care insurance for begun.
+   **英文**：The tech company offers attractive employee benefits including health care insurance.
    > **解析**：benefits (常用复数) 作名词，意为“福利，津贴”。employee benefits 表示“员工福利”。
 
 6. **中文**：作为项目经理，她负责主持每周的团队会议。  
-   **英文**：As a project manager, she is responsible for leading weekly team meetings for benefits.
+   **英文**：As a project manager, she is responsible for leading weekly team meetings.
    > **解析**：be responsible for... 意为“对……负责”，后接动名词 leading。
 
 7. **中文**：他从一名实习生晋升为一名全职软件开发人员。  
-   **英文**：He was promoted from an intern to a full-time software developer for career.
+   **英文**：He was promoted from an intern to a full-time software developer.
    > **解析**：full-time 作形容词/副词，意为“全职的”。a full-time developer 指“全职开发人员”。
 
 8. **中文**：他决定辞职返回大学继续深造。  
-   **英文**：He decided to quit his job to return to university for further studies for contact.
+   **英文**：He decided to quit his job to return to university for further studies.
    > **解析**：quit 作及物/不及物动词，意为“辞职，放弃”。quit one's job 意为“辞职”。
 
 9. **中文**：在做出最终决定前，花足够的时间权衡利弊。  
@@ -98,41 +98,41 @@ apply for 表示"申请"。since 搭配现在完成时。
    > **解析**：decision 作名词，意为“决定”。make a decision 意为“做决定”。
 
 10. **中文**：招聘经理表示她会在周五前与胜出的候选人联系。  
-   **英文**：The hiring manager said she would contact successful candidates by Friday for done.
+   **英文**：The hiring manager said she would contact successful candidates by Friday.
    > **解析**：contact 作及物动词，意为“联系，联络”。后直接接宾语 candidates。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. She decided to apply for the position of financial analyst at the bank for accept.
+1. She decided to apply for the position of financial analyst at the bank.
    > **中文**：她决定向银行申请财务分析师的职位。
 
-2. He felt confident after preparing thoroughly for his job interview for airline.
+2. He felt confident after preparing thoroughly for his job interview.
    > **中文**：在为求职面试做了充分准备后，他感觉很有信心。
 
-3. Make sure to highlight your relevant achievements on your updated résumé for apply.
+3. Make sure to highlight your relevant achievements on your updated résumé.
    > **中文**：请务必在你更新的简历中突出你的相关成就。
 
-4. Choosing a career path that aligns with your passions brings job satisfaction for away.
+4. Choosing a career path that aligns with your passions brings job satisfaction.
    > **中文**：选择一条契合你热情的职业道路会带来工作满足感。
 
-5. The tech company offers attractive employee benefits including health care insurance for begun.
+5. The tech company offers attractive employee benefits including health care insurance.
    > **中文**：这家科技公司提供吸引人的员工福利，包括医疗保险。
 
-6. As a project manager, she is responsible for leading weekly team meetings for benefits.
+6. As a project manager, she is responsible for leading weekly team meetings.
    > **中文**：作为项目经理，她负责主持每周的团队会议。
 
-7. He was promoted from an intern to a full-time software developer for career.
+7. He was promoted from an intern to a full-time software developer.
    > **中文**：他从一名实习生晋升为一名全职软件开发人员。
 
-8. He decided to quit his job to return to university for further studies for contact.
+8. He decided to quit his job to return to university for further studies.
    > **中文**：他决定辞职返回大学继续深造。
 
 9. Take enough time to weigh the pros and cons before making your final decision.
    > **中文**：在做出最终决定前，花足够的时间权衡利弊。
 
-10. The hiring manager said she would contact successful candidates by Friday for done.
+10. The hiring manager said she would contact successful candidates by Friday.
    > **中文**：招聘经理表示她会在周五前与胜出的候选人联系。
 
 </quiz-listening>
@@ -145,81 +145,81 @@ apply for 表示"申请"。since 搭配现在完成时。
 
 ### 1
 
-She decided to apply for the position of financial analyst at the bank for `____`.
+She decided to `____` for the position of financial analyst at the bank.
 
-- [x] accept
-- [ ] away
-- [ ] career
+- [x] apply
+- [ ] accept
+- [ ] benefits
 
 > **解析**：apply for... 为固定动词短语，意为“申请……（职位/学校等）”。
 
 ### 2
 
-He felt confident after preparing thoroughly for his job interview for `____`.
+He felt confident after preparing thoroughly for his job `____`.
 
-- [x] airline
-- [ ] begun
-- [ ] contact
+- [x] interview
+- [ ] airline
+- [ ] benefits
 
 > **解析**：interview 作可数名词，意为“面试，访谈”。job interview 指“求职面试”。
 
 ### 3
 
-Make sure to highlight your relevant achievements on your updated résumé for `____`.
+Make sure to highlight your relevant achievements on your updated `____`.
 
-- [x] apply
-- [ ] benefits
-- [ ] decision
+- [x] résumé
+- [ ] apply
+- [ ] career
 
 > **解析**：résumé 作名词，意为“简历，履历”。作介词 on 的宾语。
 
 ### 4
 
-Choosing a career path that aligns with your passions brings job satisfaction for `____`.
+Choosing a `____` path that aligns with your passions brings job satisfaction.
 
-- [x] away
-- [ ] career
-- [ ] done
+- [x] career
+- [ ] away
+- [ ] decision
 
 > **解析**：career 作名词，意为“职业，事业”。career path 指“职业路线”。
 
 ### 5
 
-The tech company offers attractive employee benefits including health care insurance for `____`.
+The tech company offers attractive employee `____` including health care insurance.
 
-- [x] begun
-- [ ] contact
-- [ ] accept
+- [x] benefits
+- [ ] begun
+- [ ] done
 
 > **解析**：benefits (常用复数) 作名词，意为“福利，津贴”。employee benefits 表示“员工福利”。
 
 ### 6
 
-As a project manager, she is responsible for leading weekly team meetings for `____`.
+As a project manager, she is `____` for leading weekly team meetings.
 
-- [x] benefits
-- [ ] decision
-- [ ] airline
+- [x] responsible
+- [ ] benefits
+- [ ] done
 
 > **解析**：be responsible for... 意为“对……负责”，后接动名词 leading。
 
 ### 7
 
-He was promoted from an intern to a full-time software developer for `____`.
+He was promoted from an intern to a `____` software developer.
 
-- [x] career
-- [ ] done
-- [ ] apply
+- [x] full-time
+- [ ] career
+- [ ] education
 
 > **解析**：full-time 作形容词/副词，意为“全职的”。a full-time developer 指“全职开发人员”。
 
 ### 8
 
-He decided to quit his job to return to university for further studies for `____`.
+He decided to `____` his job to return to university for further studies.
 
-- [x] contact
-- [ ] accept
-- [ ] away
+- [x] quit
+- [ ] contact
+- [ ] engineering
 
 > **解析**：quit 作及物/不及物动词，意为“辞职，放弃”。quit one's job 意为“辞职”。
 
@@ -228,18 +228,18 @@ He decided to quit his job to return to university for further studies for `____
 Take enough time to weigh the pros and cons before making your final `____`.
 
 - [x] decision
-- [ ] airline
-- [ ] begun
+- [ ] done
+- [ ] full-time
 
 > **解析**：decision 作名词，意为“决定”。make a decision 意为“做决定”。
 
 ### 10
 
-The hiring manager said she would contact successful candidates by Friday for `____`.
+The hiring manager said she would `____` successful candidates by Friday.
 
-- [x] done
-- [ ] apply
-- [ ] benefits
+- [x] contact
+- [ ] education
+- [ ] interview
 
 > **解析**：contact 作及物动词，意为“联系，联络”。后直接接宾语 candidates。
 

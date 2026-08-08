@@ -64,35 +64,35 @@ approach, arrow, beyond, bury, collect, deep, evil, fate, get out of, instantly,
    > **解析**：`approach` 在本句中作及物动词，意为“靠近、接近”，直接后接宾语 `the ancient castle gate`，无需加介词 `to`。
 
 2. **中文**：旅行者们在攀登高山前积聚了力量。  
-   **英文**：The travelers collected their strength before climbing the high mountain for arrow.
+   **英文**：The travelers collected their strength before climbing the high mountain.
    > **解析**：`collect` 在此处作动词，意为“聚集、积聚”，短语 `collect one's strength` 表示“积蓄力量/鼓起勇气”。
 
 3. **中文**：我们必须找到一条隐蔽的路径脱离这片黑森林。  
-   **英文**：We must find a secret path to get out of this dark forest for beyond.
+   **英文**：We must find a secret path to get out of this dark forest.
    > **解析**：`get out of` 是固定动词短语，意为“从……离开/逃离”，后接地点名词 `this dark forest`。
 
 4. **中文**：正当太阳西沉之际，一条神秘的巨龙出现在空中。  
-   **英文**：Just as the sun was setting, a mysterious dragon appeared in the sky for bury.
+   **英文**：Just as the sun was setting, a mysterious dragon appeared in the sky.
    > **解析**：`just as` 用作从属连词，引导时间状语从句，强调“恰好在……的时候”，画面感强。
 
 5. **中文**：一位神秘的陌生人递给英雄一张有魔力的地图。  
-   **英文**：A mysterious stranger gave the hero a magical map for collect.
+   **英文**：A mysterious stranger gave the hero a magical map.
    > **解析**：`mysterious` 是形容词，意为“神秘的”，在句中作前置定语修饰名词 `stranger`。
 
 6. **中文**：她凝聚了全身的力量从石头中拔出宝剑。  
-   **英文**：She gathered all her strength to pull the sword from the stone for deep.
+   **英文**：She gathered all her strength to pull the sword from the stone.
    > **解析**：`strength` 是不可数名词，意为“力量、体力”，句中作动词 `gathered` 的宾语。
 
 7. **中文**：传说珍贵的皇家宝藏深埋地下。  
-   **英文**：The legend says that a royal treasure is buried deep underground for evil.
+   **英文**：The legend says that a royal treasure is buried deep underground.
    > **解析**：`treasure` 是名词，意为“宝藏”，在从句中作主语，与过去分词 `buried` 构成被动结构 `is buried`。
 
 8. **中文**：精灵精确定向射出一支箭命中目标。  
-   **英文**：The elf shot an arrow with precision to hit the target for fate.
+   **英文**：The elf shot an arrow with precision to hit the target.
    > **解析**：`arrow` 是可数名词，意为“箭”，搭配 `shoot an arrow` 表示“射出一支箭”。
 
 9. **中文**：他们走入魔幻森林的深处寻找答案。  
-   **英文**：They walked deep into the magical woods searching for answers (get out of).
+   **英文**：They walked deep into the magical woods searching for answers (get out of) about beyond.
    > **解析**：`deep` 此处用作副词，意为“深深地、深入地”，修饰介词短语 `into the magical woods`。
 
 10. **中文**：当钟声响起时，邪恶的诅咒瞬间被破除了。  
@@ -106,28 +106,28 @@ approach, arrow, beyond, bury, collect, deep, evil, fate, get out of, instantly,
 1. The brave knight slowly approached the ancient castle gate.
    > **中文**：勇敢的骑士慢慢靠近古老的城堡大门。
 
-2. The travelers collected their strength before climbing the high mountain for arrow.
+2. The travelers collected their strength before climbing the high mountain.
    > **中文**：旅行者们在攀登高山前积聚了力量。
 
-3. We must find a secret path to get out of this dark forest for beyond.
+3. We must find a secret path to get out of this dark forest.
    > **中文**：我们必须找到一条隐蔽的路径脱离这片黑森林。
 
-4. Just as the sun was setting, a mysterious dragon appeared in the sky for bury.
+4. Just as the sun was setting, a mysterious dragon appeared in the sky.
    > **中文**：正当太阳西沉之际，一条神秘的巨龙出现在空中。
 
-5. A mysterious stranger gave the hero a magical map for collect.
+5. A mysterious stranger gave the hero a magical map.
    > **中文**：一位神秘的陌生人递给英雄一张有魔力的地图。
 
-6. She gathered all her strength to pull the sword from the stone for deep.
+6. She gathered all her strength to pull the sword from the stone.
    > **中文**：她凝聚了全身的力量从石头中拔出宝剑。
 
-7. The legend says that a royal treasure is buried deep underground for evil.
+7. The legend says that a royal treasure is buried deep underground.
    > **中文**：传说珍贵的皇家宝藏深埋地下。
 
-8. The elf shot an arrow with precision to hit the target for fate.
+8. The elf shot an arrow with precision to hit the target.
    > **中文**：精灵精确定向射出一支箭命中目标。
 
-9. They walked deep into the magical woods searching for answers (get out of).
+9. They walked deep into the magical woods searching for answers (get out of) about beyond.
    > **中文**：他们走入魔幻森林的深处寻找答案。
 
 10. The wicked curse was instantly broken when the bell rang.
@@ -146,88 +146,88 @@ approach, arrow, beyond, bury, collect, deep, evil, fate, get out of, instantly,
 The brave knight slowly `____`ed the ancient castle gate.
 
 - [x] approach
-- [ ] bury
-- [ ] evil
+- [ ] arrow
+- [ ] deep
 
 > **解析**：`approach` 在本句中作及物动词，意为“靠近、接近”，直接后接宾语 `the ancient castle gate`，无需加介词 `to`。
 
 ### 2
 
-The travelers collected their strength before climbing the high mountain for `____`.
+The travelers `____`ed their strength before climbing the high mountain.
 
-- [x] arrow
-- [ ] collect
-- [ ] fate
+- [x] collect
+- [ ] arrow
+- [ ] evil
 
 > **解析**：`collect` 在此处作动词，意为“聚集、积聚”，短语 `collect one's strength` 表示“积蓄力量/鼓起勇气”。
 
 ### 3
 
-We must find a secret path to get out of this dark forest for `____`.
+We must find a secret path to `____` this dark forest.
 
-- [x] beyond
-- [ ] deep
-- [ ] get out of
+- [x] get out of
+- [ ] beyond
+- [ ] evil
 
 > **解析**：`get out of` 是固定动词短语，意为“从……离开/逃离”，后接地点名词 `this dark forest`。
 
 ### 4
 
-Just as the sun was setting, a mysterious dragon appeared in the sky for `____`.
+`____` the sun was setting, a mysterious dragon appeared in the sky.
 
-- [x] bury
-- [ ] evil
-- [ ] instantly
+- [x] just as
+- [ ] bury
+- [ ] fate
 
 > **解析**：`just as` 用作从属连词，引导时间状语从句，强调“恰好在……的时候”，画面感强。
 
 ### 5
 
-A mysterious stranger gave the hero a magical map for `____`.
+A mysterious stranger gave the hero a `____` map.
 
-- [x] collect
-- [ ] fate
-- [ ] approach
+- [x] magical
+- [ ] collect
+- [ ] get out of
 
 > **解析**：`mysterious` 是形容词，意为“神秘的”，在句中作前置定语修饰名词 `stranger`。
 
 ### 6
 
-She gathered all her strength to pull the sword from the stone for `____`.
+She gathered all her `____` to pull the sword from the stone.
 
-- [x] deep
-- [ ] get out of
-- [ ] arrow
+- [x] strength
+- [ ] deep
+- [ ] instantly
 
 > **解析**：`strength` 是不可数名词，意为“力量、体力”，句中作动词 `gathered` 的宾语。
 
 ### 7
 
-The legend says that a royal treasure is buried deep underground for `____`.
+The legend says that a royal treasure is buried `____` underground.
 
-- [x] evil
-- [ ] instantly
-- [ ] beyond
+- [x] deep
+- [ ] fate
+- [ ] just as
 
 > **解析**：`treasure` 是名词，意为“宝藏”，在从句中作主语，与过去分词 `buried` 构成被动结构 `is buried`。
 
 ### 8
 
-The elf shot an arrow with precision to hit the target for `____`.
+The elf shot an `____` with precision to hit the target.
 
-- [x] fate
-- [ ] approach
-- [ ] bury
+- [x] arrow
+- [ ] get out of
+- [ ] legend
 
 > **解析**：`arrow` 是可数名词，意为“箭”，搭配 `shoot an arrow` 表示“射出一支箭”。
 
 ### 9
 
-They walked deep into the magical woods searching for answers (`____`).
+They walked deep into the magical woods searching for answers (get out of) about `____`.
 
-- [x] get out of
-- [ ] arrow
-- [ ] collect
+- [x] beyond
+- [ ] instantly
+- [ ] magical
 
 > **解析**：`deep` 此处用作副词，意为“深深地、深入地”，修饰介词短语 `into the magical woods`。
 
@@ -236,8 +236,8 @@ They walked deep into the magical woods searching for answers (`____`).
 The wicked curse was `____` broken when the bell rang.
 
 - [x] instantly
-- [ ] beyond
-- [ ] deep
+- [ ] journey
+- [ ] more and more
 
 > **解析**：`instantly` 是副词，意为“立即、瞬间”，放在助动词 `was` 和过去分词 `broken` 之间作状语。
 

@@ -70,35 +70,35 @@ sing → sang → sung。do/does/did 构成疑问和否定。
    > **解析**：country 在此处作定语，修饰 music（country music 乡村音乐），指一种传统音乐风格。
 
 3. **中文**：她喜欢流行歌曲，她的妹妹也一样喜欢。  
-   **英文**：She loves pop songs, and so does her younger sister for balcony.
+   **英文**：She loves pop songs, and so does her younger sister.
    > **解析**：does 为助动词，在此处引导倒装结构 so does sb.，意为“某人也一样”。
 
 4. **中文**：主音吉他手在最后安可演出中演奏了一段令人惊叹的独奏。  
-   **英文**：The lead guitarist played an amazing solo during the final encore performance for beautifully.
+   **英文**：The lead guitarist played an amazing solo during the final encore performance.
    > **解析**：guitarist 为可数名词，意为“吉他手”。lead guitarist 即主音吉他手。
 
 5. **中文**：管弦乐队今晚在这座具有历史意义的剧院里演奏了一首著名的交响曲。  
-   **英文**：The orchestra performed a famous symphony in this historic theater tonight for country.
+   **英文**：The orchestra performed a famous symphony in this historic theater tonight.
    > **解析**：historic 为形容词，意为“有历史意义的、历史悠久的”，常修饰 building, venue, theater。
 
 6. **中文**：你能一边弹原声吉他一边一起唱歌吗？  
-   **英文**：Can you play the acoustic guitar and sing along at the same time? for did.
+   **英文**：Can you play the acoustic guitar and sing along at the same time.
    > **解析**：play 在此处作及物动词，意为“演奏（乐器）”。接乐器时乐器前通常加定冠词或限定词（play the guitar）。
 
 7. **中文**：那首浪漫情歌由主唱倾情优美地演唱。  
-   **英文**：That romantic ballad was beautifully sung by the lead singer (didn't).
+   **英文**：That romantic ballad was beautifully sung by the lead singer.
    > **解析**：sung 是 sing 的过去分词，在此处与 was 构成一般过去时的被动语态（was sung）。
 
 8. **中文**：即使在后排的座位上，音乐厅的声音效果依然极佳。  
-   **英文**：Even from our seats in the back row, the acoustics of the concert hall were great for do.
+   **英文**：Even from our seats in the back row, the acoustics of the concert hall were great about balcony.
    > **解析**：back row 为名词短语，意为“后排”。in the back row 意为“在后排座位”。
 
 9. **中文**：你有成功买到音乐节前排的门票吗？  
-   **英文**：Did you manage to get front row tickets for the music festival? for does.
+   **英文**：Did you manage to get front row tickets for the music festival.
    > **解析**：did 为助动词，在此处构成一般过去时的疑问句句型（Did you + V.?）。
 
 10. **中文**：我学习时通常听不惯重金属音乐。  
-   **英文**：I don't usually listen to heavy metal music when studying (doesn't).
+   **英文**：I don't usually listen to heavy metal music when studying.
    > **解析**：don't 为助动词 do not 的缩写，在此处否定行为动词 listen to。
 
 </quiz-sentence-builder>
@@ -111,28 +111,28 @@ sing → sang → sung。do/does/did 构成疑问和否定。
 2. My grandfather has always been a big fan of classic country music (back row).
    > **中文**：我爷爷一直都是经典乡村音乐的大粉丝。
 
-3. She loves pop songs, and so does her younger sister for balcony.
+3. She loves pop songs, and so does her younger sister.
    > **中文**：她喜欢流行歌曲，她的妹妹也一样喜欢。
 
-4. The lead guitarist played an amazing solo during the final encore performance for beautifully.
+4. The lead guitarist played an amazing solo during the final encore performance.
    > **中文**：主音吉他手在最后安可演出中演奏了一段令人惊叹的独奏。
 
-5. The orchestra performed a famous symphony in this historic theater tonight for country.
+5. The orchestra performed a famous symphony in this historic theater tonight.
    > **中文**：管弦乐队今晚在这座具有历史意义的剧院里演奏了一首著名的交响曲。
 
-6. Can you play the acoustic guitar and sing along at the same time? for did.
+6. Can you play the acoustic guitar and sing along at the same time.
    > **中文**：你能一边弹原声吉他一边一起唱歌吗？
 
-7. That romantic ballad was beautifully sung by the lead singer (didn't).
+7. That romantic ballad was beautifully sung by the lead singer.
    > **中文**：那首浪漫情歌由主唱倾情优美地演唱。
 
-8. Even from our seats in the back row, the acoustics of the concert hall were great for do.
+8. Even from our seats in the back row, the acoustics of the concert hall were great about balcony.
    > **中文**：即使在后排的座位上，音乐厅的声音效果依然极佳。
 
-9. Did you manage to get front row tickets for the music festival? for does.
+9. Did you manage to get front row tickets for the music festival.
    > **中文**：你有成功买到音乐节前排的门票吗？
 
-10. I don't usually listen to heavy metal music when studying (doesn't).
+10. I don't usually listen to heavy metal music when studying.
    > **中文**：我学习时通常听不惯重金属音乐。
 
 </quiz-listening>
@@ -148,8 +148,8 @@ sing → sang → sung。do/does/did 构成疑问和否定。
 General `____` tickets for the live rock concert sold out within minutes.
 
 - [x] admission
-- [ ] beautifully
-- [ ] didn't
+- [ ] back row
+- [ ] did
 
 > **解析**：admission 为名词，意为“入场、门票”。general admission 指不设固定座位的普通入场票。
 
@@ -158,88 +158,88 @@ General `____` tickets for the live rock concert sold out within minutes.
 My grandfather has always been a big fan of classic country music (`____`).
 
 - [x] back row
-- [ ] country
-- [ ] do
+- [ ] balcony
+- [ ] didn't
 
 > **解析**：country 在此处作定语，修饰 music（country music 乡村音乐），指一种传统音乐风格。
 
 ### 3
 
-She loves pop songs, and so does her younger sister for `____`.
+She loves pop songs, and so `____`es her younger sister.
 
-- [x] balcony
-- [ ] did
-- [ ] does
+- [x] do
+- [ ] balcony
+- [ ] didn't
 
 > **解析**：does 为助动词，在此处引导倒装结构 so does sb.，意为“某人也一样”。
 
 ### 4
 
-The lead guitarist played an amazing solo during the final encore performance for `____`.
+The lead `____` played an amazing solo during the final encore performance.
 
-- [x] beautifully
-- [ ] didn't
-- [ ] doesn't
+- [x] guitarist
+- [ ] beautifully
+- [ ] do
 
 > **解析**：guitarist 为可数名词，意为“吉他手”。lead guitarist 即主音吉他手。
 
 ### 5
 
-The orchestra performed a famous symphony in this historic theater tonight for `____`.
+The orchestra performed a famous symphony in this `____` theater tonight.
 
-- [x] country
-- [ ] do
-- [ ] admission
+- [x] historic
+- [ ] country
+- [ ] does
 
 > **解析**：historic 为形容词，意为“有历史意义的、历史悠久的”，常修饰 building, venue, theater。
 
 ### 6
 
-Can you play the acoustic guitar and sing along at the same time? for `____`.
+Can you `____` the acoustic guitar and sing along at the same time.
 
-- [x] did
-- [ ] does
-- [ ] back row
+- [x] play
+- [ ] did
+- [ ] doesn't
 
 > **解析**：play 在此处作及物动词，意为“演奏（乐器）”。接乐器时乐器前通常加定冠词或限定词（play the guitar）。
 
 ### 7
 
-That romantic ballad was beautifully sung by the lead singer (`____`).
+That romantic ballad was `____` sung by the lead singer.
 
-- [x] didn't
-- [ ] doesn't
-- [ ] balcony
+- [x] beautifully
+- [ ] do
+- [ ] enormous
 
 > **解析**：sung 是 sing 的过去分词，在此处与 was 构成一般过去时的被动语态（was sung）。
 
 ### 8
 
-Even from our seats in the back row, the acoustics of the concert hall were great for `____`.
+Even from our seats in the back row, the acoustics of the concert hall were great about `____`.
 
-- [x] do
-- [ ] admission
-- [ ] beautifully
+- [x] balcony
+- [ ] does
+- [ ] guitarist
 
 > **解析**：back row 为名词短语，意为“后排”。in the back row 意为“在后排座位”。
 
 ### 9
 
-Did you manage to get front row tickets for the music festival? for `____`.
+`____` you manage to get front row tickets for the music festival.
 
-- [x] does
-- [ ] back row
-- [ ] country
+- [x] did
+- [ ] doesn't
+- [ ] hard rock
 
 > **解析**：did 为助动词，在此处构成一般过去时的疑问句句型（Did you + V.?）。
 
 ### 10
 
-I don't usually listen to heavy metal music when studying (`____`).
+I `____` usually listen to heavy metal music when studying.
 
-- [x] doesn't
-- [ ] balcony
-- [ ] did
+- [x] don't
+- [ ] doesn't
+- [ ] have fun
 
 > **解析**：don't 为助动词 do not 的缩写，在此处否定行为动词 listen to。
 

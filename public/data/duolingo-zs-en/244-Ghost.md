@@ -84,15 +84,15 @@ had been 是过去完成进行时，用来讲"在那之前一直在做什么"，
    > **解析**：`haunted` 是形容词，意为“闹鬼的、有鬼魂出没的”，在句中作表语。
 
 2. **中文**：一股奇特的冷风吹过了锁着的房间。  
-   **英文**：A peculiar cold breeze blew through the locked room for by.
+   **英文**：A peculiar cold breeze blew through the locked room.
    > **解析**：`peculiar` 是形容词，意为“奇特的、古怪的”，作前置定语修饰 `breeze`。
 
 3. **中文**：当听到身后沉重的脚步声时，我吓得僵住了。  
-   **英文**：I froze in terror when I heard heavy footsteps behind me for chimney.
+   **英文**：I froze in terror when I heard heavy footsteps behind me.
    > **解析**：`footstep` 是名词，常用复数 `footsteps` 表示脚步声。
 
 4. **中文**：在黑暗的走廊里，她有一种被窥视的奇怪感觉。  
-   **英文**：She felt a strange sensation of being watched in the dark corridor for crawl.
+   **英文**：She felt a strange sensation of being watched in the dark corridor.
    > **解析**：`sensation` 是名词，意为“感觉、感知”，短语 `a sensation of...`。
 
 5. **中文**：他试图保持镇静，但当灯光闪烁熄灭时，恐慌占据了上风。  
@@ -104,7 +104,7 @@ had been 是过去完成进行时，用来讲"在那之前一直在做什么"，
    > **解析**：`flashlight` 是名词，意为“手电筒”，动词搭配 `turn on a flashlight`。
 
 7. **中文**：他们试图打开卡住的门，但徒劳无功。  
-   **英文**：They tried to open the jammed door, but it was no use for footstep.
+   **英文**：They tried to open the jammed door, but it was no use.
    > **解析**：`it was no use` 是固定表达，意为“徒劳无功、没有用”。
 
 8. **中文**：感觉到危险后，他们决定立刻朝出口走去。  
@@ -112,7 +112,7 @@ had been 是过去完成进行时，用来讲"在那之前一直在做什么"，
    > **解析**：`make for` 是短语动词，意为“朝……走去、前往”，后接目的地名词。
 
 9. **中文**：惨剧发生后，这座老宅在几十年前就被废弃了。  
-   **英文**：The old mansion was abandoned decades ago after the tragic event for had.
+   **英文**：The old mansion was abandoned decades ago after the tragic event about by.
    > **解析**：`abandon` 此处用被动语态 `was abandoned`，意为“被废弃”。
 
 10. **中文**：根据传说，一个善意的灵魂保佑着这个村庄。  
@@ -126,13 +126,13 @@ had been 是过去完成进行时，用来讲"在那之前一直在做什么"，
 1. Locals believe the abandoned house on the hill is haunted.
    > **中文**：当地人相信山上那座废弃的房子闹鬼。
 
-2. A peculiar cold breeze blew through the locked room for by.
+2. A peculiar cold breeze blew through the locked room.
    > **中文**：一股奇特的冷风吹过了锁着的房间。
 
-3. I froze in terror when I heard heavy footsteps behind me for chimney.
+3. I froze in terror when I heard heavy footsteps behind me.
    > **中文**：当听到身后沉重的脚步声时，我吓得僵住了。
 
-4. She felt a strange sensation of being watched in the dark corridor for crawl.
+4. She felt a strange sensation of being watched in the dark corridor.
    > **中文**：在黑暗的走廊里，她有一种被窥视的奇怪感觉。
 
 5. He tried to stay calm, but panic took over when the lights flickered out (fall apart).
@@ -141,13 +141,13 @@ had been 是过去完成进行时，用来讲"在那之前一直在做什么"，
 6. He turned on his flashlight to inspect the dark basement.
    > **中文**：他打开手电筒检查黑暗的地下室。
 
-7. They tried to open the jammed door, but it was no use for footstep.
+7. They tried to open the jammed door, but it was no use.
    > **中文**：他们试图打开卡住的门，但徒劳无功。
 
 8. Sensing danger, they decided to make for the exit immediately (get away).
    > **中文**：感觉到危险后，他们决定立刻朝出口走去。
 
-9. The old mansion was abandoned decades ago after the tragic event for had.
+9. The old mansion was abandoned decades ago after the tragic event about by.
    > **中文**：惨剧发生后，这座老宅在几十年前就被废弃了。
 
 10. According to the story, a benevolent spirit protects the village (had been).
@@ -166,38 +166,38 @@ had been 是过去完成进行时，用来讲"在那之前一直在做什么"，
 Locals believe the `____`ed house on the hill is haunted.
 
 - [x] abandon
-- [ ] crawl
-- [ ] footstep
+- [ ] by
+- [ ] flashlight
 
 > **解析**：`haunted` 是形容词，意为“闹鬼的、有鬼魂出没的”，在句中作表语。
 
 ### 2
 
-A peculiar cold breeze blew through the locked room for `____`.
+A `____` cold breeze blew through the locked room.
 
-- [x] by
-- [ ] fall apart
-- [ ] get away
+- [x] peculiar
+- [ ] by
+- [ ] flashlight
 
 > **解析**：`peculiar` 是形容词，意为“奇特的、古怪的”，作前置定语修饰 `breeze`。
 
 ### 3
 
-I froze in terror when I heard heavy footsteps behind me for `____`.
+I froze in terror when I heard heavy `____`s behind me.
 
-- [x] chimney
-- [ ] flashlight
-- [ ] had
+- [x] footstep
+- [ ] chimney
+- [ ] get away
 
 > **解析**：`footstep` 是名词，常用复数 `footsteps` 表示脚步声。
 
 ### 4
 
-She felt a strange sensation of being watched in the dark corridor for `____`.
+She felt a strange `____` of being watched in the dark corridor.
 
-- [x] crawl
-- [ ] footstep
-- [ ] had been
+- [x] sensation
+- [ ] crawl
+- [ ] get away
 
 > **解析**：`sensation` 是名词，意为“感觉、感知”，短语 `a sensation of...`。
 
@@ -206,8 +206,8 @@ She felt a strange sensation of being watched in the dark corridor for `____`.
 He tried to stay calm, but panic took over when the lights flickered out (`____`).
 
 - [x] fall apart
-- [ ] get away
-- [ ] abandon
+- [ ] flashlight
+- [ ] had been
 
 > **解析**：`panic` 是名词，意为“恐慌”，`panic took over` 表示恐慌占据主导。
 
@@ -216,18 +216,18 @@ He tried to stay calm, but panic took over when the lights flickered out (`____`
 He turned on his `____` to inspect the dark basement.
 
 - [x] flashlight
-- [ ] had
-- [ ] by
+- [ ] footstep
+- [ ] haunted
 
 > **解析**：`flashlight` 是名词，意为“手电筒”，动词搭配 `turn on a flashlight`。
 
 ### 7
 
-They tried to open the jammed door, but it was no use for `____`.
+They tried to open the jammed door, but `____`.
 
-- [x] footstep
-- [ ] had been
-- [ ] chimney
+- [x] it was no use
+- [ ] footstep
+- [ ] haunted
 
 > **解析**：`it was no use` 是固定表达，意为“徒劳无功、没有用”。
 
@@ -236,28 +236,28 @@ They tried to open the jammed door, but it was no use for `____`.
 Sensing danger, they decided to make for the exit immediately (`____`).
 
 - [x] get away
-- [ ] abandon
-- [ ] crawl
+- [ ] had
+- [ ] know better
 
 > **解析**：`make for` 是短语动词，意为“朝……走去、前往”，后接目的地名词。
 
 ### 9
 
-The old mansion was abandoned decades ago after the tragic event for `____`.
+The old mansion was abandoned decades ago after the tragic event about `____`.
 
-- [x] had
-- [ ] by
-- [ ] fall apart
+- [x] by
+- [ ] had been
+- [ ] make for
 
 > **解析**：`abandon` 此处用被动语态 `was abandoned`，意为“被废弃”。
 
 ### 10
 
-According to the story, a benevolent spirit protects the village (`____`).
+According to the story, a benevolent spirit protects the village (`____` been).
 
-- [x] had been
-- [ ] chimney
-- [ ] flashlight
+- [x] had
+- [ ] haunted
+- [ ] off
 
 > **解析**：`spirit` 是名词，意为“灵魂、鬼魂”，形容词 `benevolent` 修饰它。
 

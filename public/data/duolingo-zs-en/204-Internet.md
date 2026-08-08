@@ -60,7 +60,7 @@ used to（过去常常）和 get used to（逐渐习惯）是本单元的重要�
    > **解析**：device 可数名词，意为“设备；装置”。
 
 3. **中文**：在过去，人们过去常寄纸质信件而不是发送即时消息。  
-   **英文**：In the past, people used to send paper letters instead of sending instant messages for frequent.
+   **英文**：In the past, people used to send paper letters instead of sending instant messages.
    > **解析**：used to 常用情态短语，后接动词原形，表示过去常常做某事（现已不做了）。
 
 4. **中文**：我花了几周时间才习惯在触控屏上工作。  
@@ -68,23 +68,23 @@ used to（过去常常）和 get used to（逐渐习惯）是本单元的重要�
    > **解析**：get used to 动词短语，意为“习惯于……”，介词 to 后接名词或动名词（doing）。
 
 5. **中文**：现代计算机游戏以逼真的三维图形为特色。  
-   **英文**：Modern computer games feature realistic three-dimensional graphics for giant.
+   **英文**：Modern computer games feature realistic three-dimensional graphics.
    > **解析**：graphics 常用复数名词，意为“图像；图形”。
 
 6. **中文**：点击此处在你的笔记本电脑上安装最新的软件更新。  
-   **英文**：Click here to install the latest software update on your laptop for graphics.
+   **英文**：Click here to install the latest software update on your laptop.
    > **解析**：install 及物动词，意为“安装（软件/设备）”。
 
 7. **中文**：完成交易后务必退出你的网上银行账户。  
-   **英文**：Always log out of your online banking account after finishing your transaction for install.
+   **英文**：Always log out of your online banking account after finishing your transaction.
    > **解析**：log out of 动词短语，意为“从……退出登录”。
 
 8. **中文**：如果屏幕卡住，请尝试重新启动你的计算机系统。  
-   **英文**：If the screen freezes, try to restart your computer system for key.
+   **英文**：If the screen freezes, try to restart your computer system.
    > **解析**：restart 及物/不及物动词，意为“重新启动”，前缀 re- 表示重新。
 
 9. **中文**：公司服务器因例行技术维护暂时离线了。  
-   **英文**：The company server went offline temporarily for routine technical maintenance for locate.
+   **英文**：The company server went offline temporarily for routine technical maintenance.
    > **解析**：server 可数名词，在计算机领域指“服务器”。
 
 10. **中文**：她打开了摄像头，以便视频会议期间大家都能看到她。  
@@ -101,25 +101,25 @@ used to（过去常常）和 get used to（逐渐习惯）是本单元的重要�
 2. A smartphone is a versatile portable device used for communication and learning.
    > **中文**：智能手机是一种用于通信和学习的多功能便携设备。
 
-3. In the past, people used to send paper letters instead of sending instant messages for frequent.
+3. In the past, people used to send paper letters instead of sending instant messages.
    > **中文**：在过去，人们过去常寄纸质信件而不是发送即时消息。
 
 4. It took me a few weeks to get used to working on a touch screen.
    > **中文**：我花了几周时间才习惯在触控屏上工作。
 
-5. Modern computer games feature realistic three-dimensional graphics for giant.
+5. Modern computer games feature realistic three-dimensional graphics.
    > **中文**：现代计算机游戏以逼真的三维图形为特色。
 
-6. Click here to install the latest software update on your laptop for graphics.
+6. Click here to install the latest software update on your laptop.
    > **中文**：点击此处在你的笔记本电脑上安装最新的软件更新。
 
-7. Always log out of your online banking account after finishing your transaction for install.
+7. Always log out of your online banking account after finishing your transaction.
    > **中文**：完成交易后务必退出你的网上银行账户。
 
-8. If the screen freezes, try to restart your computer system for key.
+8. If the screen freezes, try to restart your computer system.
    > **中文**：如果屏幕卡住，请尝试重新启动你的计算机系统。
 
-9. The company server went offline temporarily for routine technical maintenance for locate.
+9. The company server went offline temporarily for routine technical maintenance.
    > **中文**：公司服务器因例行技术维护暂时离线了。
 
 10. She turned on her webcam so everyone could see her during the video meeting (log out of).
@@ -138,8 +138,8 @@ used to（过去常常）和 get used to（逐渐习惯）是本单元的重要�
 You need an updated web `____` to load high-definition video content smoothly.
 
 - [x] browser
-- [ ] get used to
-- [ ] install
+- [ ] device
+- [ ] graphics
 
 > **解析**：browser 可数名词，在此指“网页浏览器”（如 Chrome、Safari）。
 
@@ -148,18 +148,18 @@ You need an updated web `____` to load high-definition video content smoothly.
 A smartphone is a versatile portable `____` used for communication and learning.
 
 - [x] device
-- [ ] giant
-- [ ] key
+- [ ] frequent
+- [ ] install
 
 > **解析**：device 可数名词，意为“设备；装置”。
 
 ### 3
 
-In the past, people used to send paper letters instead of sending instant messages for `____`.
+In the past, people `____` send paper letters instead of sending instant messages.
 
-- [x] frequent
-- [ ] graphics
-- [ ] locate
+- [x] used to
+- [ ] frequent
+- [ ] install
 
 > **解析**：used to 常用情态短语，后接动词原形，表示过去常常做某事（现已不做了）。
 
@@ -168,68 +168,68 @@ In the past, people used to send paper letters instead of sending instant messag
 It took me a few weeks to `____` working on a touch screen.
 
 - [x] get used to
-- [ ] install
-- [ ] log out of
+- [ ] giant
+- [ ] locate
 
 > **解析**：get used to 动词短语，意为“习惯于……”，介词 to 后接名词或动名词（doing）。
 
 ### 5
 
-Modern computer games feature realistic three-dimensional graphics for `____`.
+Modern computer games feature realistic three-dimensional `____`.
 
-- [x] giant
-- [ ] key
-- [ ] browser
+- [x] graphics
+- [ ] giant
+- [ ] log out of
 
 > **解析**：graphics 常用复数名词，意为“图像；图形”。
 
 ### 6
 
-Click here to install the latest software update on your laptop for `____`.
+Click here to `____` the latest software update on your laptop.
 
-- [x] graphics
-- [ ] locate
-- [ ] device
+- [x] install
+- [ ] graphics
+- [ ] microphone
 
 > **解析**：install 及物动词，意为“安装（软件/设备）”。
 
 ### 7
 
-Always log out of your online banking account after finishing your transaction for `____`.
+Always `____` your online banking account after finishing your transaction.
 
-- [x] install
-- [ ] log out of
-- [ ] frequent
+- [x] log out of
+- [ ] install
+- [ ] once a
 
 > **解析**：log out of 动词短语，意为“从……退出登录”。
 
 ### 8
 
-If the screen freezes, try to restart your computer system for `____`.
+If the screen freezes, try to `____` your computer system.
 
-- [x] key
-- [ ] browser
-- [ ] get used to
+- [x] restart
+- [ ] key
+- [ ] once a
 
 > **解析**：restart 及物/不及物动词，意为“重新启动”，前缀 re- 表示重新。
 
 ### 9
 
-The company server went offline temporarily for routine technical maintenance for `____`.
+The company `____` went offline temporarily for routine technical maintenance.
 
-- [x] locate
-- [ ] device
-- [ ] giant
+- [x] server
+- [ ] locate
+- [ ] press
 
 > **解析**：server 可数名词，在计算机领域指“服务器”。
 
 ### 10
 
-She turned on her webcam so everyone could see her during the video meeting (`____`).
+She turned on her `____` so everyone could see her during the video meeting (log out of).
 
-- [x] log out of
-- [ ] frequent
-- [ ] graphics
+- [x] webcam
+- [ ] log out of
+- [ ] restart
 
 > **解析**：webcam 可数名词，意为“网络摄像头”，由 web + camera 合成。
 

@@ -58,23 +58,23 @@ light → lit 是不规则动词变化（点燃）。get dark = 天黑。stand �
    > **解析**：barbecue 可数/不可数名词，意为“户外烧烤；烤肉聚会”。
 
 2. **中文**：我们全家在周末搞了一次车库售卖，出售旧家具和旧书。  
-   **英文**：Our family hosted a weekend garage sale to sell old furniture and books for blow.
+   **英文**：Our family hosted a weekend garage sale to sell old furniture and books.
    > **解析**：garage sale 可数名词短语，意为“车库旧货出售”。
 
 3. **中文**：在营火旁喝一马克杯热可可极受我们喜欢的傍晚活动。  
-   **英文**：Drinking a mug of hot cocoa near the campfire is our favorite evening activity for carve.
+   **英文**：Drinking a mug of hot cocoa near the campfire is our favorite evening activity.
    > **解析**：hot cocoa 名词短语，意为“热可可”。
 
 4. **中文**：经过几个月的辛勤劳作，农民们庆祝秋收。  
-   **英文**：Farmers celebrate the autumn harvest after months of hard work for cider.
+   **英文**：Farmers celebrate the autumn harvest after months of hard work.
    > **解析**：harvest 名词/动词，在此作名词意为“收获；丰收”。
 
 5. **中文**：我们雕刻了一个巨大的橙色南瓜放在前门廊附近。  
-   **英文**：We carved a big orange pumpkin to place near the front porch for cleaning.
+   **英文**：We carved a big orange pumpkin to place near the front porch.
    > **解析**：pumpkin 可数名词，意为“南瓜”。
 
 6. **中文**：游览完当地果园后，他们喜欢喝冰苹果汁/苹果酒。  
-   **英文**：They enjoyed drinking cold apple cider after visiting the local orchard for decorations.
+   **英文**：They enjoyed drinking cold apple cider after visiting the local orchard.
    > **解析**：cider 不可数/可数名词，意为“苹果汁；苹果酒”。
 
 7. **中文**：沿着沿海公路进行夏季公路旅行是令人难忘的。  
@@ -90,7 +90,7 @@ light → lit 是不规则动词变化（点燃）。get dark = 天黑。stand �
    > **解析**：front yard 名词短语，意为“前院”。
 
 10. **中文**：每个邻居都带了一道自制菜肴在夏季百家宴餐会上分享。  
-   **英文**：Every neighbor brought a homemade dish to share at the summer potluck for harvest.
+   **英文**：Every neighbor brought a homemade dish to share at the summer potluck.
    > **解析**：potluck 可数/不可数名词，意为“百家宴；聚餐（每人自带一菜）”。
 
 </quiz-sentence-builder>
@@ -100,19 +100,19 @@ light → lit 是不规则动词变化（点燃）。get dark = 天黑。stand �
 1. We gathered in the backyard for a traditional summer barbecue with neighbors.
    > **中文**：我们聚集在后院，和邻居们一起享受传统的夏季户外烧烤。
 
-2. Our family hosted a weekend garage sale to sell old furniture and books for blow.
+2. Our family hosted a weekend garage sale to sell old furniture and books.
    > **中文**：我们全家在周末搞了一次车库售卖，出售旧家具和旧书。
 
-3. Drinking a mug of hot cocoa near the campfire is our favorite evening activity for carve.
+3. Drinking a mug of hot cocoa near the campfire is our favorite evening activity.
    > **中文**：在营火旁喝一马克杯热可可极受我们喜欢的傍晚活动。
 
-4. Farmers celebrate the autumn harvest after months of hard work for cider.
+4. Farmers celebrate the autumn harvest after months of hard work.
    > **中文**：经过几个月的辛勤劳作，农民们庆祝秋收。
 
-5. We carved a big orange pumpkin to place near the front porch for cleaning.
+5. We carved a big orange pumpkin to place near the front porch.
    > **中文**：我们雕刻了一个巨大的橙色南瓜放在前门廊附近。
 
-6. They enjoyed drinking cold apple cider after visiting the local orchard for decorations.
+6. They enjoyed drinking cold apple cider after visiting the local orchard.
    > **中文**：游览完当地果园后，他们喜欢喝冰苹果汁/苹果酒。
 
 7. Driving along the coastal highway for a summer road trip was unforgettable (front yard).
@@ -124,7 +124,7 @@ light → lit 是不规则动词变化（点燃）。get dark = 天黑。stand �
 9. Children loved running through the green grass in the front yard (get dark).
    > **中文**：孩子们喜欢在前院绿油油的草地上奔跑。
 
-10. Every neighbor brought a homemade dish to share at the summer potluck for harvest.
+10. Every neighbor brought a homemade dish to share at the summer potluck.
    > **中文**：每个邻居都带了一道自制菜肴在夏季百家宴餐会上分享。
 
 </quiz-listening>
@@ -140,58 +140,58 @@ light → lit 是不规则动词变化（点燃）。get dark = 天黑。stand �
 We gathered in the backyard for a traditional summer `____` with neighbors.
 
 - [x] barbecue
-- [ ] cider
-- [ ] front yard
+- [ ] blow
+- [ ] decorations
 
 > **解析**：barbecue 可数/不可数名词，意为“户外烧烤；烤肉聚会”。
 
 ### 2
 
-Our family hosted a weekend garage sale to sell old furniture and books for `____`.
+Our family hosted a weekend `____` to sell old furniture and books.
 
-- [x] blow
-- [ ] cleaning
-- [ ] garage sale
+- [x] garage sale
+- [ ] blow
+- [ ] decorations
 
 > **解析**：garage sale 可数名词短语，意为“车库旧货出售”。
 
 ### 3
 
-Drinking a mug of hot cocoa near the campfire is our favorite evening activity for `____`.
+Drinking a mug of `____` near the campfire is our favorite evening activity.
 
-- [x] carve
-- [ ] decorations
-- [ ] get dark
+- [x] hot cocoa
+- [ ] carve
+- [ ] front yard
 
 > **解析**：hot cocoa 名词短语，意为“热可可”。
 
 ### 4
 
-Farmers celebrate the autumn harvest after months of hard work for `____`.
+Farmers celebrate the autumn `____` after months of hard work.
 
-- [x] cider
-- [ ] front yard
-- [ ] harvest
+- [x] harvest
+- [ ] cider
+- [ ] garage sale
 
 > **解析**：harvest 名词/动词，在此作名词意为“收获；丰收”。
 
 ### 5
 
-We carved a big orange pumpkin to place near the front porch for `____`.
+We `____`d a big orange pumpkin to place near the front porch.
 
-- [x] cleaning
-- [ ] garage sale
-- [ ] barbecue
+- [x] carve
+- [ ] decorations
+- [ ] harvest
 
 > **解析**：pumpkin 可数名词，意为“南瓜”。
 
 ### 6
 
-They enjoyed drinking cold apple cider after visiting the local orchard for `____`.
+They enjoyed drinking cold apple `____` after visiting the local orchard.
 
-- [x] decorations
-- [ ] get dark
-- [ ] blow
+- [x] cider
+- [ ] front yard
+- [ ] hot cocoa
 
 > **解析**：cider 不可数/可数名词，意为“苹果汁；苹果酒”。
 
@@ -200,18 +200,18 @@ They enjoyed drinking cold apple cider after visiting the local orchard for `___
 Driving along the coastal highway for a summer road trip was unforgettable (`____`).
 
 - [x] front yard
-- [ ] harvest
-- [ ] carve
+- [ ] garage sale
+- [ ] jack-o'-lantern
 
 > **解析**：road trip 可数名词短语，意为“公路自驾游”。
 
 ### 8
 
-Blowing out the birthday candles is a tradition where you make a wish (`____`).
+`____`ing out the birthday candles is a tradition where you make a wish (garage sale).
 
-- [x] garage sale
-- [ ] barbecue
-- [ ] cider
+- [x] blow
+- [ ] get dark
+- [ ] light
 
 > **解析**：make a wish 常用动词短语，意为“许愿”。
 
@@ -220,18 +220,18 @@ Blowing out the birthday candles is a tradition where you make a wish (`____`).
 Children loved running through the green grass in the front yard (`____`).
 
 - [x] get dark
-- [ ] blow
-- [ ] cleaning
+- [ ] harvest
+- [ ] lit
 
 > **解析**：front yard 名词短语，意为“前院”。
 
 ### 10
 
-Every neighbor brought a homemade dish to share at the summer potluck for `____`.
+Every neighbor brought a homemade dish to share at the summer `____`.
 
-- [x] harvest
-- [ ] carve
-- [ ] decorations
+- [x] potluck
+- [ ] harvest
+- [ ] lit
 
 > **解析**：potluck 可数/不可数名词，意为“百家宴；聚餐（每人自带一菜）”。
 

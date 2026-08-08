@@ -62,27 +62,27 @@ on the other hand 表示"另一方面"（用于对比）。farther / farthest �
 <quiz-sentence-builder>
 
 1. **中文**：独自旅行让你能够完全自由地规划每日行程。  
-   **英文**：Traveling solo gives you complete freedom to plan your daily schedule for arrival.
+   **英文**：Traveling solo gives you complete freedom to plan your daily schedule.
    > **解析**：solo 作形容词/副词，意为“单独的，独自的”。travel solo 表示“独自旅行”。
 
 2. **中文**：经验丰富的旅行者总是轻装简行并妥善保管证件。  
-   **英文**：An experienced traveler always packs light and keeps documents safe for continent.
+   **英文**：An experienced traveler always packs light and keeps documents safe.
    > **解析**：traveler 作可数名词，意为“旅行者，游客”。在句中作主语。
 
 3. **中文**：跟团游很有条理；另一方面，独自旅行更加灵活。  
-   **英文**：Group tours are organized; on the other hand, solo trips are more flexible for extra.
+   **英文**：Group tours are organized; on the other hand, solo trips are more flexible.
    > **解析**：on the other hand 为固定短语，作连接副词意为“另一方面”，用于对比。
 
 4. **中文**：航班降落后，我们在护照检查处接受了签证检查。  
-   **英文**：We had our visas checked at passport control after our flight landed for fare.
+   **英文**：We had our visas checked at passport control after our flight landed.
    > **解析**：passport control 为名词短语，意为“护照检查处，边检”。
 
 5. **中文**：请查看机场航站楼的到达告示牌获取登机口信息。  
-   **英文**：Please check the arrival board at the airport terminal for gate information for farther.
+   **英文**：Please check the arrival board at the airport terminal for gate information.
    > **解析**：arrival 作名词，意为“到达，到达区”。arrival board 指“到达航班告示牌”。
 
 6. **中文**：在旅游旺季提前预订酒店房间是明智之举。  
-   **英文**：It is wise to reserve your hotel room in advance during peak season for farthest.
+   **英文**：It is wise to reserve your hotel room in advance during peak season.
    > **解析**：reserve 作及物动词，意为“预订，保留”。reserve a room 意为“订房间”。
 
 7. **中文**：我们乘坐免费的酒店接驳车直接从机场到达房间。  
@@ -90,49 +90,49 @@ on the other hand 表示"另一方面"（用于对比）。farther / farthest �
    > **解析**：shuttle (shuttle bus) 作名词，意为“接驳车，班车”。
 
 8. **中文**：我们决定沿着海滩走得更远一些，寻找一块安宁的地方。  
-   **英文**：We decided to walk farther down the beach to find a peaceful spot for homesick.
+   **英文**：We decided to walk farther down the beach to find a peaceful spot.
    > **解析**：farther 作 far 的比较级副词，意为“更远地（物理距离）”。
 
 9. **中文**：在出国留学的第一个星期里，她感觉有点想家。  
-   **英文**：She felt a little homesick during her first week studying abroad for land.
+   **英文**：She felt a little homesick during her first week studying abroad.
    > **解析**：homesick 作形容词，意为“想家的，思乡的”。feel homesick 意为“想家”。
 
 10. **中文**：乘坐公共交通是在城市各处游览的一种划算方式。  
-   **英文**：Taking public transportation is an affordable way to travel around the city for laundry.
+   **英文**：Taking public transportation is an affordable way to travel around the city.
    > **解析**：public transportation 为不可数名词短语，意为“公共交通”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Traveling solo gives you complete freedom to plan your daily schedule for arrival.
+1. Traveling solo gives you complete freedom to plan your daily schedule.
    > **中文**：独自旅行让你能够完全自由地规划每日行程。
 
-2. An experienced traveler always packs light and keeps documents safe for continent.
+2. An experienced traveler always packs light and keeps documents safe.
    > **中文**：经验丰富的旅行者总是轻装简行并妥善保管证件。
 
-3. Group tours are organized; on the other hand, solo trips are more flexible for extra.
+3. Group tours are organized; on the other hand, solo trips are more flexible.
    > **中文**：跟团游很有条理；另一方面，独自旅行更加灵活。
 
-4. We had our visas checked at passport control after our flight landed for fare.
+4. We had our visas checked at passport control after our flight landed.
    > **中文**：航班降落后，我们在护照检查处接受了签证检查。
 
-5. Please check the arrival board at the airport terminal for gate information for farther.
+5. Please check the arrival board at the airport terminal for gate information.
    > **中文**：请查看机场航站楼的到达告示牌获取登机口信息。
 
-6. It is wise to reserve your hotel room in advance during peak season for farthest.
+6. It is wise to reserve your hotel room in advance during peak season.
    > **中文**：在旅游旺季提前预订酒店房间是明智之举。
 
 7. We took the complimentary hotel shuttle from the airport directly to our room (for the first time).
    > **中文**：我们乘坐免费的酒店接驳车直接从机场到达房间。
 
-8. We decided to walk farther down the beach to find a peaceful spot for homesick.
+8. We decided to walk farther down the beach to find a peaceful spot.
    > **中文**：我们决定沿着海滩走得更远一些，寻找一块安宁的地方。
 
-9. She felt a little homesick during her first week studying abroad for land.
+9. She felt a little homesick during her first week studying abroad.
    > **中文**：在出国留学的第一个星期里，她感觉有点想家。
 
-10. Taking public transportation is an affordable way to travel around the city for laundry.
+10. Taking public transportation is an affordable way to travel around the city.
    > **中文**：乘坐公共交通是在城市各处游览的一种划算方式。
 
 </quiz-listening>
@@ -145,61 +145,61 @@ on the other hand 表示"另一方面"（用于对比）。farther / farthest �
 
 ### 1
 
-Traveling solo gives you complete freedom to plan your daily schedule for `____`.
+Traveling solo gives you comp`____`e freedom to plan your daily schedule.
 
-- [x] arrival
-- [ ] fare
-- [ ] for the first time
+- [x] let
+- [ ] arrival
+- [ ] farther
 
 > **解析**：solo 作形容词/副词，意为“单独的，独自的”。travel solo 表示“独自旅行”。
 
 ### 2
 
-An experienced traveler always packs light and keeps documents safe for `____`.
+An experienced `____` always packs light and keeps documents safe.
 
-- [x] continent
-- [ ] farther
-- [ ] homesick
+- [x] traveler
+- [ ] continent
+- [ ] farthest
 
 > **解析**：traveler 作可数名词，意为“旅行者，游客”。在句中作主语。
 
 ### 3
 
-Group tours are organized; on the other hand, solo trips are more flexible for `____`.
+Group tours are organized; `____`, solo trips are more flexible.
 
-- [x] extra
-- [ ] farthest
-- [ ] land
+- [x] on the other hand
+- [ ] extra
+- [ ] for the first time
 
 > **解析**：on the other hand 为固定短语，作连接副词意为“另一方面”，用于对比。
 
 ### 4
 
-We had our visas checked at passport control after our flight landed for `____`.
+We had our visas checked at passport control after our flight `____`ed.
 
-- [x] fare
-- [ ] for the first time
-- [ ] laundry
+- [x] land
+- [ ] fare
+- [ ] homesick
 
 > **解析**：passport control 为名词短语，意为“护照检查处，边检”。
 
 ### 5
 
-Please check the arrival board at the airport terminal for gate information for `____`.
+Please check the `____` board at the airport terminal for gate information.
 
-- [x] farther
-- [ ] homesick
-- [ ] arrival
+- [x] arrival
+- [ ] farthest
+- [ ] laundry
 
 > **解析**：arrival 作名词，意为“到达，到达区”。arrival board 指“到达航班告示牌”。
 
 ### 6
 
-It is wise to reserve your hotel room in advance during peak season for `____`.
+It is wise to `____` your hotel room in advance during peak season.
 
-- [x] farthest
-- [ ] land
-- [ ] continent
+- [x] reserve
+- [ ] farthest
+- [ ] laundry
 
 > **解析**：reserve 作及物动词，意为“预订，保留”。reserve a room 意为“订房间”。
 
@@ -208,38 +208,38 @@ It is wise to reserve your hotel room in advance during peak season for `____`.
 We took the complimentary hotel shuttle from the airport directly to our room (`____`).
 
 - [x] for the first time
-- [ ] laundry
-- [ ] extra
+- [ ] homesick
+- [ ] like best
 
 > **解析**：shuttle (shuttle bus) 作名词，意为“接驳车，班车”。
 
 ### 8
 
-We decided to walk farther down the beach to find a peaceful spot for `____`.
+We decided to walk `____` down the beach to find a peaceful spot.
 
-- [x] homesick
-- [ ] arrival
-- [ ] fare
+- [x] farther
+- [ ] land
+- [ ] much
 
 > **解析**：farther 作 far 的比较级副词，意为“更远地（物理距离）”。
 
 ### 9
 
-She felt a little homesick during her first week studying abroad for `____`.
+She felt a little `____` during her first week studying abroad.
 
-- [x] land
-- [ ] continent
-- [ ] farther
+- [x] homesick
+- [ ] laundry
+- [ ] nearby
 
 > **解析**：homesick 作形容词，意为“想家的，思乡的”。feel homesick 意为“想家”。
 
 ### 10
 
-Taking public transportation is an affordable way to travel around the city for `____`.
+Taking `____` is an affordable way to travel around the city.
 
-- [x] laundry
-- [ ] extra
-- [ ] farthest
+- [x] public transportation
+- [ ] laundry
+- [ ] nearby
 
 > **解析**：public transportation 为不可数名词短语，意为“公共交通”。
 

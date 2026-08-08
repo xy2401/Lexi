@@ -54,31 +54,31 @@ have to be / need to be / want to be / will be 这组结构表达了义务、需
 <quiz-sentence-builder>
 
 1. **中文**：发烧和持续咳嗽是流感感染的常见症状。  
-   **英文**：Fever and a persistent cough are common symptoms of a flu infection for ache.
+   **英文**：Fever and a persistent cough are common symptoms of a flu infection.
    > **解析**：symptom 可数名词，意为“（疾病的）症状”，复数形式加 -s。
 
 2. **中文**：去诊所就诊时一定要带上你的医疗保险卡。  
-   **英文**：Make sure to bring your health insurance card when visiting the clinic for ankle.
+   **英文**：Make sure to bring your health insurance card when visiting the clinic.
    > **解析**：health insurance 名词短语，意为“医疗保险”，不可数名词。
 
 3. **中文**：那个小男孩因剧烈的耳朵痛醒来，无法入睡。  
-   **英文**：The little boy woke up with a sharp earache and could not sleep for be.
+   **英文**：The little boy woke up with a sharp earache and could not sleep.
    > **解析**：earache 可数/不可数名词，意为“耳朵痛”，由 ear（耳朵）+ ache（疼痛）合成。
 
 4. **中文**：她在打网球时扭伤了脚踝，需要休息。  
-   **英文**：She twisted her ankle while playing tennis and needs to rest it for bled.
+   **英文**：She twisted her ankle while playing tennis and needs to rest it.
    > **解析**：ankle 可数名词，意为“脚踝；踝关节”，twist one's ankle 意为扭伤脚踝。
 
 5. **中文**：外科医生为受伤的运动员成功进行了膝关节手术。  
-   **英文**：The surgeon performed a successful knee surgery on the injured athlete for cover.
+   **英文**：The surgeon performed a successful knee surgery on the injured athlete.
    > **解析**：surgery 不可数/可数名词，意为“外科手术”，动词搭配常用 perform 或 undergo。
 
 6. **中文**：物理治疗是针对慢性背痛的有效治疗方法。  
-   **英文**：Physical therapy is an effective treatment for chronic back pain for ear.
+   **英文**：Physical therapy is an effective treatment for chronic back pain.
    > **解析**：treatment 可数/不可数名词，意为“治疗；疗法”，来自动词 treat。
 
 7. **中文**：医生花了三十分钟仔细倾听病人的诉说。  
-   **英文**：The doctor spent thirty minutes listening carefully to the patient for earache.
+   **英文**：The doctor spent thirty minutes listening carefully to the patient.
    > **解析**：patient 在此作名词，意为“病人；患者”；也可作形容词表示“有耐心的”。
 
 8. **中文**：这位孕妇预约了医生进行定期健康检查。  
@@ -86,45 +86,45 @@ have to be / need to be / want to be / will be 这组结构表达了义务、需
    > **解析**：pregnant 形容词，意为“怀孕的”，作定语修饰 woman 或作表语。
 
 9. **中文**：昨天跑完马拉松后，他的肌肉开始发酸发痛。  
-   **英文**：His muscles began to ache after running a full marathon yesterday (health insurance).
+   **英文**：His muscles began to ache after running a full marathon yesterday (health insurance) about bled.
    > **解析**：ache 动词/名词，在此作动词意为“疼痛；酸痛”，主语为身体部位或肌肉。
 
 10. **中文**：在冰上要小心，以免跌倒伤到背部。  
-   **英文**：Be careful on the ice so you do not fall and injure your back.
+   **英文**：Be careful on the ice so you do not fall and injure your back about cover.
    > **解析**：injure 及物动词，意为“伤害；使受伤”，形容词为 injured。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Fever and a persistent cough are common symptoms of a flu infection for ache.
+1. Fever and a persistent cough are common symptoms of a flu infection.
    > **中文**：发烧和持续咳嗽是流感感染的常见症状。
 
-2. Make sure to bring your health insurance card when visiting the clinic for ankle.
+2. Make sure to bring your health insurance card when visiting the clinic.
    > **中文**：去诊所就诊时一定要带上你的医疗保险卡。
 
-3. The little boy woke up with a sharp earache and could not sleep for be.
+3. The little boy woke up with a sharp earache and could not sleep.
    > **中文**：那个小男孩因剧烈的耳朵痛醒来，无法入睡。
 
-4. She twisted her ankle while playing tennis and needs to rest it for bled.
+4. She twisted her ankle while playing tennis and needs to rest it.
    > **中文**：她在打网球时扭伤了脚踝，需要休息。
 
-5. The surgeon performed a successful knee surgery on the injured athlete for cover.
+5. The surgeon performed a successful knee surgery on the injured athlete.
    > **中文**：外科医生为受伤的运动员成功进行了膝关节手术。
 
-6. Physical therapy is an effective treatment for chronic back pain for ear.
+6. Physical therapy is an effective treatment for chronic back pain.
    > **中文**：物理治疗是针对慢性背痛的有效治疗方法。
 
-7. The doctor spent thirty minutes listening carefully to the patient for earache.
+7. The doctor spent thirty minutes listening carefully to the patient.
    > **中文**：医生花了三十分钟仔细倾听病人的诉说。
 
 8. The pregnant woman scheduled a regular health checkup with her doctor (have to be).
    > **中文**：这位孕妇预约了医生进行定期健康检查。
 
-9. His muscles began to ache after running a full marathon yesterday (health insurance).
+9. His muscles began to ache after running a full marathon yesterday (health insurance) about bled.
    > **中文**：昨天跑完马拉松后，他的肌肉开始发酸发痛。
 
-10. Be careful on the ice so you do not fall and injure your back.
+10. Be careful on the ice so you do not fall and injure your back about cover.
    > **中文**：在冰上要小心，以免跌倒伤到背部。
 
 </quiz-listening>
@@ -137,101 +137,101 @@ have to be / need to be / want to be / will be 这组结构表达了义务、需
 
 ### 1
 
-Fever and a persistent cough are common symptoms of a flu infection for `____`.
+Fever and a persistent cough are common `____`s of a flu infection.
 
-- [x] ache
-- [ ] bled
-- [ ] earache
+- [x] symptom
+- [ ] ache
+- [ ] cover
 
 > **解析**：symptom 可数名词，意为“（疾病的）症状”，复数形式加 -s。
 
 ### 2
 
-Make sure to bring your health insurance card when visiting the clinic for `____`.
+Make sure to bring your `____` card when visiting the clinic.
 
-- [x] ankle
-- [ ] cover
-- [ ] have to be
+- [x] health insurance
+- [ ] ankle
+- [ ] ear
 
 > **解析**：health insurance 名词短语，意为“医疗保险”，不可数名词。
 
 ### 3
 
-The little boy woke up with a sharp earache and could not sleep for `____`.
+The little boy woke up with a sharp ear`____` and could not sleep.
 
-- [x] be
-- [ ] ear
-- [ ] health insurance
+- [x] ache
+- [ ] bled
+- [ ] have to be
 
 > **解析**：earache 可数/不可数名词，意为“耳朵痛”，由 ear（耳朵）+ ache（疼痛）合成。
 
 ### 4
 
-She twisted her ankle while playing tennis and needs to rest it for `____`.
+She twisted her `____` while playing tennis and needs to rest it.
 
-- [x] bled
-- [ ] earache
-- [ ] injure
+- [x] ankle
+- [ ] cover
+- [ ] health insurance
 
 > **解析**：ankle 可数名词，意为“脚踝；踝关节”，twist one's ankle 意为扭伤脚踝。
 
 ### 5
 
-The surgeon performed a successful knee surgery on the injured athlete for `____`.
+The surgeon performed a successful knee surgery on the `____`d athlete.
 
-- [x] cover
-- [ ] have to be
-- [ ] ache
+- [x] injure
+- [ ] cover
+- [ ] health insurance
 
 > **解析**：surgery 不可数/可数名词，意为“外科手术”，动词搭配常用 perform 或 undergo。
 
 ### 6
 
-Physical therapy is an effective treatment for chronic back pain for `____`.
+Physical therapy is an effective `____` for chronic back pain.
 
-- [x] ear
-- [ ] health insurance
-- [ ] ankle
+- [x] treatment
+- [ ] ear
+- [ ] injure
 
 > **解析**：treatment 可数/不可数名词，意为“治疗；疗法”，来自动词 treat。
 
 ### 7
 
-The doctor spent thirty minutes listening carefully to the patient for `____`.
+The doctor spent thirty minutes listening carefully to the `____`.
 
-- [x] earache
-- [ ] injure
-- [ ] be
+- [x] patient
+- [ ] earache
+- [ ] need to be
 
 > **解析**：patient 在此作名词，意为“病人；患者”；也可作形容词表示“有耐心的”。
 
 ### 8
 
-The pregnant woman scheduled a regular health checkup with her doctor (`____`).
+The pregnant woman scheduled a regular health checkup with her doctor (have to `____`).
 
-- [x] have to be
-- [ ] ache
-- [ ] bled
+- [x] be
+- [ ] health insurance
+- [ ] pregnant
 
 > **解析**：pregnant 形容词，意为“怀孕的”，作定语修饰 woman 或作表语。
 
 ### 9
 
-His muscles began to ache after running a full marathon yesterday (`____`).
+His muscles began to ache after running a full marathon yesterday (health insurance) about `____`.
 
-- [x] health insurance
-- [ ] ankle
-- [ ] cover
+- [x] bled
+- [ ] injure
+- [ ] request
 
 > **解析**：ache 动词/名词，在此作动词意为“疼痛；酸痛”，主语为身体部位或肌肉。
 
 ### 10
 
-Be careful on the ice so you do not fall and `____` your back.
+Be careful on the ice so you do not fall and injure your back about `____`.
 
-- [x] injure
-- [ ] be
-- [ ] ear
+- [x] cover
+- [ ] need to be
+- [ ] reschedule
 
 > **解析**：injure 及物动词，意为“伤害；使受伤”，形容词为 injured。
 

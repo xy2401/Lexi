@@ -70,7 +70,7 @@ all grown up, any, back in town, can't complain, catch you up on, compliment, de
    > **解析**：`catch up (on sth.)` 是动词短语，意为“叙旧、了解近况”，是旧友重逢时的核心表达。
 
 2. **中文**：好久不见，我的朋友！自高中以来你一点都没变。  
-   **英文**：Long time no see, my friend! You haven't changed a bit since high school for any.
+   **英文**：Long time no see, my friend! You haven't changed a bit since high school about any.
    > **解析**：`Long time no see!` 是高频口语打招呼惯用语，意为“好久不见！”，在句中作感叹句开头。
 
 3. **中文**：我们高中班级在周末举办了一场难忘的十年同学聚会。  
@@ -86,23 +86,23 @@ all grown up, any, back in town, can't complain, catch you up on, compliment, de
    > **解析**：`bring back memories` 是动词短语，意为“勾起回忆、勾起往事”，主语为 `Looking...` 动名词短语。
 
 6. **中文**：这些年来，我和童年好友追忆往事时完全忘记了时间。  
-   **英文**：Over the years, I lost track of time while reminiscing with my childhood friend for compliment.
+   **英文**：Over the years, I lost track of time while reminiscing with my childhood friend about compliment.
    > **解析**：`lose track of (someone/time)` 意为“与……失去联系/忘记时间”，在句中指与朋友叙旧忘了时间。
 
 7. **中文**：老朋友们喜欢坐在一起追忆他们的学生时代。  
-   **英文**：Old friends love to sit together and reminisce about their school days for design.
+   **英文**：Old friends love to sit together and reminisce about their school days.
    > **解析**：`reminisce` 是动词，意为“追忆、回忆往事”，固定搭配 `reminisce about...`。
 
 8. **中文**：无论你何时来这个小镇，随时欢迎顺道来我的公寓坐坐。  
-   **英文**：Feel free to drop by my apartment whenever you are visiting this town for expecting.
+   **英文**：Feel free to drop by my apartment whenever you are visiting this town about expecting.
    > **解析**：`drop by` 是动词短语，意为“顺道拜访、串门”，侧重于非正式的简短拜访。
 
 9. **中文**：聊起我们的老街区是一次美妙的回忆之旅。  
-   **英文**：Talking about our old neighborhood was a wonderful trip down memory lane for forties.
+   **英文**：Talking about our old neighborhood was a wonderful trip down memory lane about forties.
    > **解析**：`trip down memory lane` 是习惯表达，意为“重温旧梦、勾起回忆的旅程”，`memory lane` 指“记忆的小径/回忆”。
 
 10. **中文**：下周找个时间我们一定要聚一聚吃顿午饭。  
-   **英文**：We should definitely get together for lunch sometime next week.
+   **英文**：We should definitely get together for lunch sometime next week about design.
    > **解析**：`get together` 是动词短语，意为“聚会、聚在一起”，在句中作情态动词 `should` 的谓语。
 
 </quiz-sentence-builder>
@@ -112,7 +112,7 @@ all grown up, any, back in town, can't complain, catch you up on, compliment, de
 1. We sat at a quiet coffee shop to catch up on each other's lives after many years (all grown up).
    > **中文**：许多年后，我们坐在一家安静的咖啡馆里交流彼此的近况。
 
-2. Long time no see, my friend! You haven't changed a bit since high school for any.
+2. Long time no see, my friend! You haven't changed a bit since high school about any.
    > **中文**：好久不见，我的朋友！自高中以来你一点都没变。
 
 3. Our high school class held a memorable ten-year reunion over the weekend (back in town).
@@ -124,19 +124,19 @@ all grown up, any, back in town, can't complain, catch you up on, compliment, de
 5. Looking through this old photo album brings back so many sweet memories (catch you up on).
    > **中文**：翻阅这本旧相册唤起了许多美好的回忆。
 
-6. Over the years, I lost track of time while reminiscing with my childhood friend for compliment.
+6. Over the years, I lost track of time while reminiscing with my childhood friend about compliment.
    > **中文**：这些年来，我和童年好友追忆往事时完全忘记了时间。
 
-7. Old friends love to sit together and reminisce about their school days for design.
+7. Old friends love to sit together and reminisce about their school days.
    > **中文**：老朋友们喜欢坐在一起追忆他们的学生时代。
 
-8. Feel free to drop by my apartment whenever you are visiting this town for expecting.
+8. Feel free to drop by my apartment whenever you are visiting this town about expecting.
    > **中文**：无论你何时来这个小镇，随时欢迎顺道来我的公寓坐坐。
 
-9. Talking about our old neighborhood was a wonderful trip down memory lane for forties.
+9. Talking about our old neighborhood was a wonderful trip down memory lane about forties.
    > **中文**：聊起我们的老街区是一次美妙的回忆之旅。
 
-10. We should definitely get together for lunch sometime next week.
+10. We should definitely get together for lunch sometime next week about design.
    > **中文**：下周找个时间我们一定要聚一聚吃顿午饭。
 
 </quiz-listening>
@@ -152,18 +152,18 @@ all grown up, any, back in town, can't complain, catch you up on, compliment, de
 We sat at a quiet coffee shop to catch up on each other's lives after many years (`____`).
 
 - [x] all grown up
-- [ ] can't complain
-- [ ] design
+- [ ] any
+- [ ] compliment
 
 > **解析**：`catch up (on sth.)` 是动词短语，意为“叙旧、了解近况”，是旧友重逢时的核心表达。
 
 ### 2
 
-Long time no see, my friend! You haven't changed a bit since high school for `____`.
+Long time no see, my friend! You haven't changed a bit since high school about `____`.
 
 - [x] any
-- [ ] catch you up on
-- [ ] expecting
+- [ ] back in town
+- [ ] design
 
 > **解析**：`Long time no see!` 是高频口语打招呼惯用语，意为“好久不见！”，在句中作感叹句开头。
 
@@ -172,8 +172,8 @@ Long time no see, my friend! You haven't changed a bit since high school for `__
 Our high school class held a memorable ten-year reunion over the weekend (`____`).
 
 - [x] back in town
-- [ ] compliment
-- [ ] forties
+- [ ] can't complain
+- [ ] expecting
 
 > **解析**：`reunion` 是名词，意为“重聚、聚会”，短语 `class reunion` 特指“同学会”。
 
@@ -182,8 +182,8 @@ Our high school class held a memorable ten-year reunion over the weekend (`____`
 Even though we moved to different cities, we promised to always keep in touch (`____`).
 
 - [x] can't complain
-- [ ] design
-- [ ] get
+- [ ] catch you up on
+- [ ] forties
 
 > **解析**：`keep in touch` 是固定动词短语，意为“保持联系”，在句中作不定式 `to keep in touch` 的核心。
 
@@ -192,58 +192,58 @@ Even though we moved to different cities, we promised to always keep in touch (`
 Looking through this old photo album brings back so many sweet memories (`____`).
 
 - [x] catch you up on
-- [ ] expecting
-- [ ] all grown up
+- [ ] compliment
+- [ ] get
 
 > **解析**：`bring back memories` 是动词短语，意为“勾起回忆、勾起往事”，主语为 `Looking...` 动名词短语。
 
 ### 6
 
-Over the years, I lost track of time while reminiscing with my childhood friend for `____`.
+Over the years, I lost track of time while reminiscing with my childhood friend about `____`.
 
 - [x] compliment
-- [ ] forties
-- [ ] any
+- [ ] design
+- [ ] get used to
 
 > **解析**：`lose track of (someone/time)` 意为“与……失去联系/忘记时间”，在句中指与朋友叙旧忘了时间。
 
 ### 7
 
-Old friends love to sit together and reminisce about their school days for `____`.
+Old friends love to sit to`____`her and reminisce about their school days.
 
-- [x] design
-- [ ] get
-- [ ] back in town
+- [x] get
+- [ ] design
+- [ ] going
 
 > **解析**：`reminisce` 是动词，意为“追忆、回忆往事”，固定搭配 `reminisce about...`。
 
 ### 8
 
-Feel free to drop by my apartment whenever you are visiting this town for `____`.
+Feel free to drop by my apartment whenever you are visiting this town about `____`.
 
 - [x] expecting
-- [ ] all grown up
-- [ ] can't complain
+- [ ] forties
+- [ ] how long has it been
 
 > **解析**：`drop by` 是动词短语，意为“顺道拜访、串门”，侧重于非正式的简短拜访。
 
 ### 9
 
-Talking about our old neighborhood was a wonderful trip down memory lane for `____`.
+Talking about our old neighborhood was a wonderful trip down memory lane about `____`.
 
 - [x] forties
-- [ ] any
-- [ ] catch you up on
+- [ ] get
+- [ ] how's
 
 > **解析**：`trip down memory lane` 是习惯表达，意为“重温旧梦、勾起回忆的旅程”，`memory lane` 指“记忆的小径/回忆”。
 
 ### 10
 
-We should definitely `____` together for lunch sometime next week.
+We should definitely get together for lunch sometime next week about `____`.
 
-- [x] get
-- [ ] back in town
-- [ ] compliment
+- [x] design
+- [ ] get used to
+- [ ] it's been
 
 > **解析**：`get together` 是动词短语，意为“聚会、聚在一起”，在句中作情态动词 `should` 的谓语。
 

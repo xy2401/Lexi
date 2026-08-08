@@ -70,15 +70,15 @@ all in all, away, blinds, company, draw attention, dust, get, goes without sayin
    > **解析**：`tidy up` 是动词短语，意为“收拾、整理”，在句中作不定式 `to tidy up` 的核心动词。
 
 2. **中文**：经过两个小时的辛勤劳动，厨房地板变得一尘不染、异常干净。  
-   **英文**：After two hours of hard work, the kitchen floor was completely clean and spotless for away.
+   **英文**：After two hours of hard work, the kitchen floor was completely clean and spotless about away.
    > **解析**：`spotless` 是形容词，由 `spot`（污点）+ `-less`（无）构成，意为“极干净的、一尘不染的”。
 
 3. **中文**：她用新的无线吸尘器吸干净了房子里的所有地毯。  
-   **英文**：She used the new cordless machine to vacuum all the carpets in the house for blinds.
+   **英文**：She used the new cordless machine to vacuum all the carpets in the house about blinds.
    > **解析**：`vacuum` 在此作动词，意为“用吸尘器清扫”，宾语为 `all the carpets`。
 
 4. **中文**：吃完午饭后，请用湿抹布擦干净餐桌。  
-   **英文**：Please wipe the dining table with a damp cloth after finishing lunch for company.
+   **英文**：Please wipe the dining table with a damp cloth after finishing lunch about company.
    > **解析**：`wipe` 是动词，意为“擦拭、抹干净”。常用搭配 `wipe A with B`（用B擦拭A）。
 
 5. **中文**：打翻了一杯橙汁后，他不得不拖干净厨房地板。  
@@ -86,11 +86,11 @@ all in all, away, blinds, company, draw attention, dust, get, goes without sayin
    > **解析**：`mop` 在此作动词，意为“用拖把拖（地）”，在句中作动词 `had to` 的谓语。
 
 6. **中文**：她把周日下午的时间花在整理书架和办公文件上。  
-   **英文**：She spent her Sunday afternoon organizing her bookshelves and office documents for dust.
+   **英文**：She spent her Sunday afternoon organizing her bookshelves and office documents about dust.
    > **解析**：`organize` 是动词，意为“整理、把……组织得井井有条”，在句中接动名词 `organizing`。
 
 7. **中文**：你需要一把硬毛刷来刷洗掉浴室瓷砖上的顽固污渍。  
-   **英文**：You need a hard brush to scrub the stubborn stains off the bathroom tiles for get.
+   **英文**：You need a hard brush to scrub the stubborn stains off the bathroom tiles.
    > **解析**：`scrub` 是动词，意为“用力刷洗、擦洗”，常带出用力清洁的意味。
 
 8. **中文**：清理掉桌面上的所有杂乱物品，让人更容易集中精力工作。  
@@ -112,22 +112,22 @@ all in all, away, blinds, company, draw attention, dust, get, goes without sayin
 1. We need to quickly tidy up the living room before our guests arrive this afternoon (all in all).
    > **中文**：在今天下午客人到达之前，我们需要快速收拾一下客厅。
 
-2. After two hours of hard work, the kitchen floor was completely clean and spotless for away.
+2. After two hours of hard work, the kitchen floor was completely clean and spotless about away.
    > **中文**：经过两个小时的辛勤劳动，厨房地板变得一尘不染、异常干净。
 
-3. She used the new cordless machine to vacuum all the carpets in the house for blinds.
+3. She used the new cordless machine to vacuum all the carpets in the house about blinds.
    > **中文**：她用新的无线吸尘器吸干净了房子里的所有地毯。
 
-4. Please wipe the dining table with a damp cloth after finishing lunch for company.
+4. Please wipe the dining table with a damp cloth after finishing lunch about company.
    > **中文**：吃完午饭后，请用湿抹布擦干净餐桌。
 
 5. He had to mop the kitchen floor after spilling a glass of orange juice (draw attention).
    > **中文**：打翻了一杯橙汁后，他不得不拖干净厨房地板。
 
-6. She spent her Sunday afternoon organizing her bookshelves and office documents for dust.
+6. She spent her Sunday afternoon organizing her bookshelves and office documents about dust.
    > **中文**：她把周日下午的时间花在整理书架和办公文件上。
 
-7. You need a hard brush to scrub the stubborn stains off the bathroom tiles for get.
+7. You need a hard brush to scrub the stubborn stains off the bathroom tiles.
    > **中文**：你需要一把硬毛刷来刷洗掉浴室瓷砖上的顽固污渍。
 
 8. Clearing away all the desktop clutter makes it much easier to focus on work (goes without saying).
@@ -152,38 +152,38 @@ all in all, away, blinds, company, draw attention, dust, get, goes without sayin
 We need to quickly tidy up the living room before our guests arrive this afternoon (`____`).
 
 - [x] all in all
-- [ ] company
-- [ ] get
+- [ ] away
+- [ ] dust
 
 > **解析**：`tidy up` 是动词短语，意为“收拾、整理”，在句中作不定式 `to tidy up` 的核心动词。
 
 ### 2
 
-After two hours of hard work, the kitchen floor was completely clean and spotless for `____`.
+After two hours of hard work, the kitchen floor was completely clean and spotless about `____`.
 
 - [x] away
-- [ ] draw attention
-- [ ] goes without saying
+- [ ] blinds
+- [ ] get
 
 > **解析**：`spotless` 是形容词，由 `spot`（污点）+ `-less`（无）构成，意为“极干净的、一尘不染的”。
 
 ### 3
 
-She used the new cordless machine to vacuum all the carpets in the house for `____`.
+She used the new cordless machine to vacuum all the carpets in the house about `____`.
 
 - [x] blinds
-- [ ] dust
-- [ ] good enough
+- [ ] company
+- [ ] goes without saying
 
 > **解析**：`vacuum` 在此作动词，意为“用吸尘器清扫”，宾语为 `all the carpets`。
 
 ### 4
 
-Please wipe the dining table with a damp cloth after finishing lunch for `____`.
+Please wipe the dining table with a damp cloth after finishing lunch about `____`.
 
 - [x] company
-- [ ] get
-- [ ] good thinking
+- [ ] draw attention
+- [ ] good enough
 
 > **解析**：`wipe` 是动词，意为“擦拭、抹干净”。常用搭配 `wipe A with B`（用B擦拭A）。
 
@@ -192,28 +192,28 @@ Please wipe the dining table with a damp cloth after finishing lunch for `____`.
 He had to mop the kitchen floor after spilling a glass of orange juice (`____`).
 
 - [x] draw attention
-- [ ] goes without saying
-- [ ] all in all
+- [ ] dust
+- [ ] good thinking
 
 > **解析**：`mop` 在此作动词，意为“用拖把拖（地）”，在句中作动词 `had to` 的谓语。
 
 ### 6
 
-She spent her Sunday afternoon organizing her bookshelves and office documents for `____`.
+She spent her Sunday afternoon organizing her bookshelves and office documents about `____`.
 
 - [x] dust
-- [ ] good enough
-- [ ] away
+- [ ] get
+- [ ] have to be
 
 > **解析**：`organize` 是动词，意为“整理、把……组织得井井有条”，在句中接动名词 `organizing`。
 
 ### 7
 
-You need a hard brush to scrub the stubborn stains off the bathroom tiles for `____`.
+You need a hard brush to `____` the stubborn stains off the bathroom tiles.
 
-- [x] get
-- [ ] good thinking
-- [ ] blinds
+- [x] scrub
+- [ ] get
+- [ ] have to be
 
 > **解析**：`scrub` 是动词，意为“用力刷洗、擦洗”，常带出用力清洁的意味。
 
@@ -222,8 +222,8 @@ You need a hard brush to scrub the stubborn stains off the bathroom tiles for `_
 Clearing away all the desktop clutter makes it much easier to focus on work (`____`).
 
 - [x] goes without saying
-- [ ] all in all
-- [ ] company
+- [ ] good enough
+- [ ] impression
 
 > **解析**：`clutter` 作名词，意为“杂乱物品、乱七八糟的东西”，属于不可数名词。
 
@@ -232,8 +232,8 @@ Clearing away all the desktop clutter makes it much easier to focus on work (`__
 Opening the window helps freshen up the guest room before family visits (`____`).
 
 - [x] good enough
-- [ ] away
-- [ ] draw attention
+- [ ] good thinking
+- [ ] in time
 
 > **解析**：`freshen up` 是动词短语，意为“整理使清新、焕然一新/通风梳洗”。
 
@@ -242,8 +242,8 @@ Opening the window helps freshen up the guest room before family visits (`____`)
 They gave the entire house a deep clean right before the holidays started (`____`).
 
 - [x] good thinking
-- [ ] blinds
-- [ ] dust
+- [ ] have to be
+- [ ] need to be
 
 > **解析**：`deep clean` 作名词或动词，意为“深度清洁、彻底大扫除”，搭配 `give sth. a deep clean`。
 

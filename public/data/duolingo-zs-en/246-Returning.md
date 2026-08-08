@@ -82,7 +82,7 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
 <quiz-sentence-builder>
 
 1. **中文**：大学毕业后，他决定搬回老家以节省开支。  
-   **英文**：After graduating from university, he decided to move back home to save money for appear.
+   **英文**：After graduating from university, he decided to move back home to save money.
    > **解析**：`move back home` 动词短语，意为“搬回老家/搬回父母家”，`home` 作副词不用介词。
 
 2. **中文**：在城里找新工作期间，她花光了自己所有的积蓄。  
@@ -90,7 +90,7 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
    > **解析**：`savings` 常用复数形式，意为“存款、积蓄”。
 
 3. **中文**：在内心深处，我知道离开大城市对我来说是正确的选择。  
-   **英文**：Deep down, I knew that leaving the big city was the right choice for me for bartender.
+   **英文**：Deep down, I knew that leaving the big city was the right choice.
    > **解析**：`deep down` 是副词短语，意为“在内心深处”，置于句首作状语。
 
 4. **中文**：大都市的高昂租金迫使许多年轻打工人陷入债务。  
@@ -98,15 +98,15 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
    > **解析**：`into debt` 是介词短语，意为“陷入债务”，与 `force` 搭配。
 
 5. **中文**：在找到稳定职位之前，我不得不依靠我的父母。  
-   **英文**：I had to rely on my parents until I secured a stable position for consequently.
+   **英文**：I had to rely on my parents until I secured a stable position.
    > **解析**：`rely on` 是不及物短语动词，意为“依赖、依靠”，后接人或物。
 
 6. **中文**：由于经济下滑，许多公司缩减了招聘预算。  
-   **英文**：As a result of the economic downturn, many companies cut their hiring budget for courage.
+   **英文**：As a result of the economic downturn, many companies cut their hiring budget about appear.
    > **解析**：`as a result of` 是复合介词，意为“由于、因为”，后接名词短语。
 
 7. **中文**：她仍然决心一步一步重建自己的事业。  
-   **英文**：She remains determined to rebuild her career step by step for debt.
+   **英文**：She remains determined to rebuild her career step by step.
    > **解析**：`determined` 是形容词，搭配 `be/remain determined to do sth`（下定决心做某事）。
 
 8. **中文**：我们不应该把与家人同住的舒适视为理所当然。  
@@ -114,7 +114,7 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
    > **解析**：`take sth for granted` 是固定短语，意为“把……视为理所当然”。
 
 9. **中文**：搬回老家住让他有时间反思自己的职业选择。  
-   **英文**：Living back home gave him time to reflect on his career choices for determined.
+   **英文**：Living back home gave him time to reflect on his career choices.
    > **解析**：`reflect` 不及物动词，搭配介词 `on`（`reflect on sth`）表示“反思/思考某事”。
 
 10. **中文**：只要你保持专注并努力工作，一切都会顺利解决的。  
@@ -125,31 +125,31 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
 
 <quiz-listening>
 
-1. After graduating from university, he decided to move back home to save money for appear.
+1. After graduating from university, he decided to move back home to save money.
    > **中文**：大学毕业后，他决定搬回老家以节省开支。
 
 2. She used up all her savings while looking for a new job in the city (as a result of).
    > **中文**：在城里找新工作期间，她花光了自己所有的积蓄。
 
-3. Deep down, I knew that leaving the big city was the right choice for me for bartender.
+3. Deep down, I knew that leaving the big city was the right choice.
    > **中文**：在内心深处，我知道离开大城市对我来说是正确的选择。
 
 4. High rent in the metropolis forced many young workers into debt (before long).
    > **中文**：大都市的高昂租金迫使许多年轻打工人陷入债务。
 
-5. I had to rely on my parents until I secured a stable position for consequently.
+5. I had to rely on my parents until I secured a stable position.
    > **中文**：在找到稳定职位之前，我不得不依靠我的父母。
 
-6. As a result of the economic downturn, many companies cut their hiring budget for courage.
+6. As a result of the economic downturn, many companies cut their hiring budget about appear.
    > **中文**：由于经济下滑，许多公司缩减了招聘预算。
 
-7. She remains determined to rebuild her career step by step for debt.
+7. She remains determined to rebuild her career step by step.
    > **中文**：她仍然决心一步一步重建自己的事业。
 
 8. We shouldn't take the comfort of living with family for granted (deep down).
    > **中文**：我们不应该把与家人同住的舒适视为理所当然。
 
-9. Living back home gave him time to reflect on his career choices for determined.
+9. Living back home gave him time to reflect on his career choices.
    > **中文**：搬回老家住让他有时间反思自己的职业选择。
 
 10. Everything will work out as long as you stay focused and work hard (for granted).
@@ -165,11 +165,11 @@ consequently 和 as a result of 都是表因果的正式表达。for granted（�
 
 ### 1
 
-After graduating from university, he decided to move back home to save money for `____`.
+After graduating from university, he decided to `____` to save money.
 
-- [x] appear
-- [ ] before long
-- [ ] debt
+- [x] move back home
+- [ ] appear
+- [ ] consequently
 
 > **解析**：`move back home` 动词短语，意为“搬回老家/搬回父母家”，`home` 作副词不用介词。
 
@@ -178,18 +178,18 @@ After graduating from university, he decided to move back home to save money for
 She used up all her savings while looking for a new job in the city (`____`).
 
 - [x] as a result of
-- [ ] consequently
-- [ ] deep down
+- [ ] bartender
+- [ ] debt
 
 > **解析**：`savings` 常用复数形式，意为“存款、积蓄”。
 
 ### 3
 
-Deep down, I knew that leaving the big city was the right choice for me for `____`.
+`____`, I knew that leaving the big city was the right choice.
 
-- [x] bartender
-- [ ] courage
-- [ ] determined
+- [x] deep down
+- [ ] bartender
+- [ ] debt
 
 > **解析**：`deep down` 是副词短语，意为“在内心深处”，置于句首作状语。
 
@@ -198,68 +198,68 @@ Deep down, I knew that leaving the big city was the right choice for me for `___
 High rent in the metropolis forced many young workers into debt (`____`).
 
 - [x] before long
-- [ ] debt
-- [ ] for granted
+- [ ] consequently
+- [ ] determined
 
 > **解析**：`into debt` 是介词短语，意为“陷入债务”，与 `force` 搭配。
 
 ### 5
 
-I had to rely on my parents until I secured a stable position for `____`.
+I had to `____` my parents until I secured a stable position.
 
-- [x] consequently
-- [ ] deep down
-- [ ] appear
+- [x] rely on
+- [ ] consequently
+- [ ] determined
 
 > **解析**：`rely on` 是不及物短语动词，意为“依赖、依靠”，后接人或物。
 
 ### 6
 
-As a result of the economic downturn, many companies cut their hiring budget for `____`.
+As a result of the economic downturn, many companies cut their hiring budget about `____`.
 
-- [x] courage
-- [ ] determined
-- [ ] as a result of
+- [x] appear
+- [ ] debt
+- [ ] impact
 
 > **解析**：`as a result of` 是复合介词，意为“由于、因为”，后接名词短语。
 
 ### 7
 
-She remains determined to rebuild her career step by step for `____`.
+She remains `____` to rebuild her career step by step.
 
-- [x] debt
-- [ ] for granted
-- [ ] bartender
+- [x] determined
+- [ ] debt
+- [ ] irritated
 
 > **解析**：`determined` 是形容词，搭配 `be/remain determined to do sth`（下定决心做某事）。
 
 ### 8
 
-We shouldn't take the comfort of living with family for granted (`____`).
+We shouldn't take the comfort of living with family `____` (deep down).
 
-- [x] deep down
-- [ ] appear
-- [ ] before long
+- [x] for granted
+- [ ] deep down
+- [ ] just
 
 > **解析**：`take sth for granted` 是固定短语，意为“把……视为理所当然”。
 
 ### 9
 
-Living back home gave him time to reflect on his career choices for `____`.
+`____` back home gave him time to reflect on his career choices.
 
-- [x] determined
-- [ ] as a result of
-- [ ] consequently
+- [x] living
+- [ ] determined
+- [ ] just
 
 > **解析**：`reflect` 不及物动词，搭配介词 `on`（`reflect on sth`）表示“反思/思考某事”。
 
 ### 10
 
-Everything will work out as long as you stay focused and work hard (`____`).
+Everything will `____` as long as you stay focused and work hard (for granted).
 
-- [x] for granted
-- [ ] bartender
-- [ ] courage
+- [x] work out
+- [ ] for granted
+- [ ] living
 
 > **解析**：`work out` 是不及物短语动词，在此处意为“顺利解决、结果变好”。
 

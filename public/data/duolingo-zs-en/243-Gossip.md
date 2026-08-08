@@ -82,31 +82,31 @@ go on（发生）、fit in with（融入）、out of control（失控）这些�
    > **解析**：`astonished` 是形容词，意为“十分震惊的、惊愕的”，在句中作表语。
 
 2. **中文**：在他发表那个怪异的言论后，现场一片尴尬的沉默。  
-   **英文**：There was an awkward silence after he made that strange comment for astonished.
+   **英文**：There was an awkward silence after he made that strange comment.
    > **解析**：`awkward` 是形容词，意为“尴尬的、别扭的”，修饰名词 `silence`。
 
 3. **中文**：奇妙的是，没人注意到坐在角落里的那位知名歌手。  
-   **英文**：Strangely enough, nobody noticed the famous singer sitting in the corner for awkward.
+   **英文**：Strangely enough, nobody noticed the famous singer sitting in the corner.
    > **解析**：`strangely enough` 是插入语短语，意为“说来奇怪、奇妙的是”，置于句首。
 
 4. **中文**：办公室里的谣言很快彻底失去了控制。  
-   **英文**：The rumors in the office quickly spiraled out of control for before.
+   **英文**：The rumors in the office quickly spiraled out of control.
    > **解析**：`out of control` 是介词短语，意为“失去控制”，作补语修饰 `spiraled`。
 
 5. **中文**：如果我告诉你这个秘密，请你保守秘密。  
-   **英文**：If I tell you this secret, please keep it to yourself for claim.
+   **英文**：If I tell you this secret, please keep it to yourself.
    > **解析**：`keep it to yourself` 是常用口语表达，意为“保守秘密、别告诉别人”。
 
 6. **中文**：头条新闻结果只不过是无根据的八卦闲话。  
-   **英文**：The headline news turned out to be nothing but baseless gossip for clue.
+   **英文**：The headline news turned out to be nothing but baseless gossip.
    > **解析**：`nothing but` 意为“只不过、仅仅是”，相当于 `only` 或 `merely`。
 
 7. **中文**：除了几个微小的细节外，这个传言完全是假的。  
-   **英文**：Aside from a few minor details, the rumor was completely false for did.
+   **英文**：Aside from a few minor details, the rumor was completely false.
    > **解析**：`aside from` 是介词短语，意为“除了……之外”，在句中引导状语。
 
 8. **中文**：她买了一份八卦报纸，想阅读最新的名人丑闻。  
-   **英文**：She bought a tabloid to read about the latest celebrity scandal for even.
+   **英文**：She bought a tabloid to read about the latest celebrity scandal.
    > **解析**：`tabloid` 是名词，意为“通俗小报、八卦报纸”。
 
 9. **中文**：这篇文章声称这对知名情侣上周分手了。  
@@ -124,25 +124,25 @@ go on（发生）、fit in with（融入）、out of control（失控）这些�
 1. Everyone was astonished when they heard the news about the quiet manager (aside from).
    > **中文**：当听到关于那位沉稳经理的新闻时，大家都感到震惊。
 
-2. There was an awkward silence after he made that strange comment for astonished.
+2. There was an awkward silence after he made that strange comment.
    > **中文**：在他发表那个怪异的言论后，现场一片尴尬的沉默。
 
-3. Strangely enough, nobody noticed the famous singer sitting in the corner for awkward.
+3. Strangely enough, nobody noticed the famous singer sitting in the corner.
    > **中文**：奇妙的是，没人注意到坐在角落里的那位知名歌手。
 
-4. The rumors in the office quickly spiraled out of control for before.
+4. The rumors in the office quickly spiraled out of control.
    > **中文**：办公室里的谣言很快彻底失去了控制。
 
-5. If I tell you this secret, please keep it to yourself for claim.
+5. If I tell you this secret, please keep it to yourself.
    > **中文**：如果我告诉你这个秘密，请你保守秘密。
 
-6. The headline news turned out to be nothing but baseless gossip for clue.
+6. The headline news turned out to be nothing but baseless gossip.
    > **中文**：头条新闻结果只不过是无根据的八卦闲话。
 
-7. Aside from a few minor details, the rumor was completely false for did.
+7. Aside from a few minor details, the rumor was completely false.
    > **中文**：除了几个微小的细节外，这个传言完全是假的。
 
-8. She bought a tabloid to read about the latest celebrity scandal for even.
+8. She bought a tabloid to read about the latest celebrity scandal.
    > **中文**：她买了一份八卦报纸，想阅读最新的名人丑闻。
 
 9. The article claims that the famous couple broke up last week (fit in with).
@@ -164,88 +164,88 @@ go on（发生）、fit in with（融入）、out of control（失控）这些�
 Everyone was astonished when they heard the news about the quiet manager (`____`).
 
 - [x] aside from
-- [ ] before
-- [ ] did
+- [ ] astonished
+- [ ] clue
 
 > **解析**：`astonished` 是形容词，意为“十分震惊的、惊愕的”，在句中作表语。
 
 ### 2
 
-There was an awkward silence after he made that strange comment for `____`.
+There was an `____` silence after he made that strange comment.
 
-- [x] astonished
-- [ ] claim
-- [ ] even
+- [x] awkward
+- [ ] astonished
+- [ ] did
 
 > **解析**：`awkward` 是形容词，意为“尴尬的、别扭的”，修饰名词 `silence`。
 
 ### 3
 
-Strangely enough, nobody noticed the famous singer sitting in the corner for `____`.
+`____`, nobody noticed the famous singer sitting in the corner.
 
-- [x] awkward
-- [ ] clue
-- [ ] fit in with
+- [x] strangely enough
+- [ ] awkward
+- [ ] did
 
 > **解析**：`strangely enough` 是插入语短语，意为“说来奇怪、奇妙的是”，置于句首。
 
 ### 4
 
-The rumors in the office quickly spiraled out of control for `____`.
+The rumors in the office quickly spiraled `____`.
 
-- [x] before
-- [ ] did
-- [ ] food court
+- [x] out of control
+- [ ] before
+- [ ] even
 
 > **解析**：`out of control` 是介词短语，意为“失去控制”，作补语修饰 `spiraled`。
 
 ### 5
 
-If I tell you this secret, please keep it to yourself for `____`.
+If I tell you this secret, please `____`.
 
-- [x] claim
-- [ ] even
-- [ ] aside from
+- [x] keep it to yourself
+- [ ] claim
+- [ ] fit in with
 
 > **解析**：`keep it to yourself` 是常用口语表达，意为“保守秘密、别告诉别人”。
 
 ### 6
 
-The headline news turned out to be nothing but baseless gossip for `____`.
+The headline news turned out to be `____` baseless gossip.
 
-- [x] clue
-- [ ] fit in with
-- [ ] astonished
+- [x] nothing but
+- [ ] clue
+- [ ] food court
 
 > **解析**：`nothing but` 意为“只不过、仅仅是”，相当于 `only` 或 `merely`。
 
 ### 7
 
-Aside from a few minor details, the rumor was completely false for `____`.
+Aside from a few `____` details, the rumor was completely false.
 
-- [x] did
-- [ ] food court
-- [ ] awkward
+- [x] minor
+- [ ] did
+- [ ] go on
 
 > **解析**：`aside from` 是介词短语，意为“除了……之外”，在句中引导状语。
 
 ### 8
 
-She bought a tabloid to read about the latest celebrity scandal for `____`.
+She bought a `____` to read about the latest celebrity scandal.
 
-- [x] even
-- [ ] aside from
-- [ ] before
+- [x] tabloid
+- [ ] even
+- [ ] hold hands
 
 > **解析**：`tabloid` 是名词，意为“通俗小报、八卦报纸”。
 
 ### 9
 
-The article claims that the famous couple broke up last week (`____`).
+The article `____`s that the famous couple broke up last week (fit in with).
 
-- [x] fit in with
-- [ ] astonished
-- [ ] claim
+- [x] claim
+- [ ] food court
+- [ ] keep it to yourself
 
 > **解析**：`claim` 作及物动词，意为“声称、主张”，后接 `that` 引导的宾语从句。
 
@@ -254,8 +254,8 @@ The article claims that the famous couple broke up last week (`____`).
 He noticed several odd behaviors during the team meeting today (`____`).
 
 - [x] food court
-- [ ] awkward
-- [ ] clue
+- [ ] go on
+- [ ] mess
 
 > **解析**：`odd` 是形容词，意为“古怪的、异常的”，修饰复数名词 `behaviors`。
 

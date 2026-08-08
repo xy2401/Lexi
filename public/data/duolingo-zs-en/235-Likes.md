@@ -68,11 +68,11 @@ appealing, appropriately, by, can't get enough of, can't wait, catch up, don't, 
    > **解析**：`appealing` 形容词，意为“有吸引力的；动人的”。在系动词 `look` 后作表语。
 
 2. **中文**：请进坐下；我们有好多近况要叙旧/交流！  
-   **英文**：Please come inside and sit down; we have so much to catch up on for appropriately.
+   **英文**：Please come inside and sit down; we have so much to catch up on.
    > **解析**：`catch up on sth.` 动词短语，意为“叙旧；跟上（近况/消息）”。
 
 3. **中文**：谢谢你邀请我们；这道美味的自制苹果派太棒了！  
-   **英文**：Thank you for inviting us; this delicious homemade apple pie is fantastic for by.
+   **英文**：Thank you for inviting us; this delicious homemade apple pie is fantastic.
    > **解析**：`homemade` 形容词，意为“自制的；家常的”。
 
 4. **中文**：你把新公寓装饰得非常有品味/风格高雅，每面墙上都有优雅的艺术品。  
@@ -88,19 +88,19 @@ appealing, appropriately, by, can't get enough of, can't wait, catch up, don't, 
    > **解析**：`sounds` 连系动词 `sound` 的第三人称单数，搭配 `sound like + 名词`（听起来像……）。
 
 7. **中文**：自从搬进这栋宽敞的郊区房子后，你最近都在忙些什么？  
-   **英文**：What have you been up to since moving into this spacious suburban home? (don't).
+   **英文**：What have you been up to since moving into this spacious suburban home.
    > **解析**：`be up to sth.` 为习惯短语，意为“在忙于做某事；从事”。问句 `What have you been up to?` 为常用问候语。
 
 8. **中文**：所有色彩鲜艳的靠垫都摆放得恰到好处，以衬托沙发的设计。  
-   **英文**：All the colorful cushions are placed appropriately to complement the sofa design for entertaining.
+   **英文**：All the colorful cushions are placed appropriately to complement the sofa design.
    > **解析**：`appropriately` 副词，意为“合适地；恰当地”，修饰动词 `placed`。
 
 9. **中文**：如果你需要续茶，请随时开口，不必犹豫。  
-   **英文**：Don't hesitate to ask if you need a refill for your tea for homemade.
+   **英文**：Don't hesitate to ask if you need a refill for your tea.
    > **解析**：`don't` 助动词否定形式，用于否定祈使句开头（`don't hesitate`）。
 
 10. **中文**：你新翻修的厨房感觉是多么舒适和温馨啊！  
-   **英文**：How cozy and welcoming your newly renovated kitchen feels for housewarming.
+   **英文**：How cozy and welcoming your newly renovated kitchen feels.
    > **解析**：`how` 引导感叹句，结构为 `How + 形容词 + 主语 + 谓语！`，用以极力夸赞和赞美。
 
 </quiz-sentence-builder>
@@ -110,10 +110,10 @@ appealing, appropriately, by, can't get enough of, can't wait, catch up, don't, 
 1. The warm lighting and wooden furniture make your living room look immensely appealing.
    > **中文**：温暖的灯光和木质家具使你的客厅看起来极其吸引人。
 
-2. Please come inside and sit down; we have so much to catch up on for appropriately.
+2. Please come inside and sit down; we have so much to catch up on.
    > **中文**：请进坐下；我们有好多近况要叙旧/交流！
 
-3. Thank you for inviting us; this delicious homemade apple pie is fantastic for by.
+3. Thank you for inviting us; this delicious homemade apple pie is fantastic.
    > **中文**：谢谢你邀请我们；这道美味的自制苹果派太棒了！
 
 4. You decorated your new apartment in style, with elegant art pieces on every wall (can't get enough of).
@@ -125,16 +125,16 @@ appealing, appropriately, by, can't get enough of, can't wait, catch up, don't, 
 6. Hosting a housewarming barbecue next Sunday sounds like a wonderful idea (catch up).
    > **中文**：下周日举办暖房烧烤听起来是个极好的主意！
 
-7. What have you been up to since moving into this spacious suburban home? (don't).
+7. What have you been up to since moving into this spacious suburban home.
    > **中文**：自从搬进这栋宽敞的郊区房子后，你最近都在忙些什么？
 
-8. All the colorful cushions are placed appropriately to complement the sofa design for entertaining.
+8. All the colorful cushions are placed appropriately to complement the sofa design.
    > **中文**：所有色彩鲜艳的靠垫都摆放得恰到好处，以衬托沙发的设计。
 
-9. Don't hesitate to ask if you need a refill for your tea for homemade.
+9. Don't hesitate to ask if you need a refill for your tea.
    > **中文**：如果你需要续茶，请随时开口，不必犹豫。
 
-10. How cozy and welcoming your newly renovated kitchen feels for housewarming.
+10. How cozy and welcoming your newly renovated kitchen feels.
    > **中文**：你新翻修的厨房感觉是多么舒适和温馨啊！
 
 </quiz-listening>
@@ -150,28 +150,28 @@ appealing, appropriately, by, can't get enough of, can't wait, catch up, don't, 
 The warm lighting and wooden furniture make your living room look immensely `____`.
 
 - [x] appealing
-- [ ] can't get enough of
-- [ ] don't
+- [ ] appropriately
+- [ ] catch up
 
 > **解析**：`appealing` 形容词，意为“有吸引力的；动人的”。在系动词 `look` 后作表语。
 
 ### 2
 
-Please come inside and sit down; we have so much to catch up on for `____`.
+Please come inside and sit down; we have so much to `____` on.
 
-- [x] appropriately
-- [ ] can't wait
-- [ ] entertaining
+- [x] catch up
+- [ ] appropriately
+- [ ] don't
 
 > **解析**：`catch up on sth.` 动词短语，意为“叙旧；跟上（近况/消息）”。
 
 ### 3
 
-Thank you for inviting us; this delicious homemade apple pie is fantastic for `____`.
+Thank you for inviting us; this delicious `____` apple pie is fantastic.
 
-- [x] by
-- [ ] catch up
-- [ ] homemade
+- [x] homemade
+- [ ] by
+- [ ] don't
 
 > **解析**：`homemade` 形容词，意为“自制的；家常的”。
 
@@ -180,8 +180,8 @@ Thank you for inviting us; this delicious homemade apple pie is fantastic for `_
 You decorated your new apartment in style, with elegant art pieces on every wall (`____`).
 
 - [x] can't get enough of
-- [ ] don't
-- [ ] housewarming
+- [ ] can't wait
+- [ ] homemade
 
 > **解析**：`in style` 介词短语作状语/表语，意为“有品味的；时髦地；富有风格地”。
 
@@ -190,58 +190,58 @@ You decorated your new apartment in style, with elegant art pieces on every wall
 You shouldn't miss out on exploring the lovely garden in the backyard (`____`).
 
 - [x] can't wait
-- [ ] entertaining
-- [ ] appealing
+- [ ] catch up
+- [ ] housewarming
 
 > **解析**：`miss out on sth.` 动词短语，意为“错过（好机会、乐趣等）”。
 
 ### 6
 
-Hosting a housewarming barbecue next Sunday sounds like a wonderful idea (`____`).
+Hosting a `____` barbecue next Sunday sounds like a wonderful idea (catch up).
 
-- [x] catch up
-- [ ] homemade
-- [ ] appropriately
+- [x] housewarming
+- [ ] catch up
+- [ ] how
 
 > **解析**：`sounds` 连系动词 `sound` 的第三人称单数，搭配 `sound like + 名词`（听起来像……）。
 
 ### 7
 
-What have you been up to since moving into this spacious suburban home? (`____`).
+What have you been `____` since moving into this spacious suburban home.
 
-- [x] don't
-- [ ] housewarming
-- [ ] by
+- [x] up to
+- [ ] don't
+- [ ] how
 
 > **解析**：`be up to sth.` 为习惯短语，意为“在忙于做某事；从事”。问句 `What have you been up to?` 为常用问候语。
 
 ### 8
 
-All the colorful cushions are placed appropriately to complement the sofa design for `____`.
+All the colorful cushions are placed `____` to complement the sofa design.
 
-- [x] entertaining
-- [ ] appealing
-- [ ] can't get enough of
+- [x] appropriately
+- [ ] homemade
+- [ ] in style
 
 > **解析**：`appropriately` 副词，意为“合适地；恰当地”，修饰动词 `placed`。
 
 ### 9
 
-Don't hesitate to ask if you need a refill for your tea for `____`.
+`____` hesitate to ask if you need a refill for your tea.
 
-- [x] homemade
-- [ ] appropriately
-- [ ] can't wait
+- [x] don't
+- [ ] housewarming
+- [ ] isn't
 
 > **解析**：`don't` 助动词否定形式，用于否定祈使句开头（`don't hesitate`）。
 
 ### 10
 
-How cozy and welcoming your newly renovated kitchen feels for `____`.
+`____` cozy and welcoming your newly renovated kitchen feels.
 
-- [x] housewarming
-- [ ] by
-- [ ] catch up
+- [x] how
+- [ ] housewarming
+- [ ] lovely
 
 > **解析**：`how` 引导感叹句，结构为 `How + 形容词 + 主语 + 谓语！`，用以极力夸赞和赞美。
 

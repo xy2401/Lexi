@@ -66,31 +66,31 @@ anticipated, australian, brazilian, break, bronze, close, determination, expecte
 <quiz-sentence-builder>
 
 1. **中文**：这名游泳运动员在刷新国家速度纪录后赢得了金牌。  
-   **英文**：The swimmer won a gold medal after setting a new national speed record for anticipated.
+   **英文**：The swimmer won a gold medal after setting a new national speed record about anticipated.
    > **解析**：`gold medal` 是名词短语，意为“金牌”。常用搭配 `win a gold medal`。
 
 2. **中文**：每位职业运动员都花数年时间为奥运会艰苦训练。  
-   **英文**：Every professional athlete spends years training hard for the Olympic Games for australian.
+   **英文**：Every professional athlete spends years training hard for the Olympic Games.
    > **解析**：`athlete` 是可数名词，意为“运动员”，形容词形式为 `athletic`。
 
 3. **中文**：她在两小时内跑完了马拉松，打破了世界纪录。  
-   **英文**：She broke the world record by finishing the marathon in under two hours for brazilian.
+   **英文**：She broke the world record by finishing the marathon in under two hours about brazilian.
    > **解析**：`world record` 是名词短语，意为“世界纪录”，搭配 `break a world record`。
 
 4. **中文**：站在领奖台的最高一级是他职业生涯中最自豪的时刻。  
-   **英文**：Standing on the top step of the podium was the proudest moment of his career for break.
+   **英文**：Standing on the top step of the podium was the proudest moment of his career.
    > **解析**：`podium` 指颁奖或演讲用的“领奖台、讲台”，作介词 `of` 的宾语。
 
 5. **中文**：赢得冠军需要多年的高度投入与不懈坚持。  
-   **英文**：Winning the championship required years of intense dedication and perseverance for bronze.
+   **英文**：Winning the championship required years of intense dedication and perseverance about bronze.
    > **解析**：`perseverance` 是不可数名词，意为“坚持不懈、坚韧不拔”，由动词 `persevere` 派生。
 
 6. **中文**：代表自己的国家参加全球运动会对她来说是极大的荣幸。  
-   **英文**：It is a great honor for her to represent her country at the global games for close.
+   **英文**：It is a great honor for her to represent her country at the global games about close.
    > **解析**：`represent` 是动词，意为“代表（国家/团队）”，后接国家或机构作宾语。
 
 7. **中文**：这名跑者通过帮助受伤的对手跨过终点线展现出了令人难以置信的体育精神。  
-   **英文**：The runner showed incredible sportsmanship by helping his injured competitor cross the finish line for determination.
+   **英文**：The runner showed incredible sportsmanship by helping his injured competitor cross the finish line about determination.
    > **解析**：`sportsmanship` 是不可数名词，意为“体育精神、运动员风范”。
 
 8. **中文**：她一整个赛季都在不知疲倦地拼搏，以取得奥运决赛的资格。  
@@ -98,45 +98,45 @@ anticipated, australian, brazilian, break, bronze, close, determination, expecte
    > **解析**：`qualify (for sth.)` 是动词，意为“取得资格、符合条件”。
 
 9. **中文**：数以千计激动的观众挤满了体育场观看开幕式。  
-   **英文**：Thousands of excited spectators filled the stadium to watch the opening ceremony for following.
+   **英文**：Thousands of excited spectators filled the stadium to watch the opening ceremony.
    > **解析**：`spectator` 是名词，特指比赛或表演的“现场观众”，作主语 `spectators`。
 
 10. **中文**：他们出乎意料的胜利被欢庆为该团队历史性的伟大胜利。  
-   **英文**：Their unexpected victory was celebrated as a historic triumph for the team for gather.
+   **英文**：Their unexpected victory was celebrated as a historic triumph for the team about gather.
    > **解析**：`triumph` 作名词，意为“巨大胜利、辉煌成就”，比一般的 `victory` 语气更盛大。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The swimmer won a gold medal after setting a new national speed record for anticipated.
+1. The swimmer won a gold medal after setting a new national speed record about anticipated.
    > **中文**：这名游泳运动员在刷新国家速度纪录后赢得了金牌。
 
-2. Every professional athlete spends years training hard for the Olympic Games for australian.
+2. Every professional athlete spends years training hard for the Olympic Games.
    > **中文**：每位职业运动员都花数年时间为奥运会艰苦训练。
 
-3. She broke the world record by finishing the marathon in under two hours for brazilian.
+3. She broke the world record by finishing the marathon in under two hours about brazilian.
    > **中文**：她在两小时内跑完了马拉松，打破了世界纪录。
 
-4. Standing on the top step of the podium was the proudest moment of his career for break.
+4. Standing on the top step of the podium was the proudest moment of his career.
    > **中文**：站在领奖台的最高一级是他职业生涯中最自豪的时刻。
 
-5. Winning the championship required years of intense dedication and perseverance for bronze.
+5. Winning the championship required years of intense dedication and perseverance about bronze.
    > **中文**：赢得冠军需要多年的高度投入与不懈坚持。
 
-6. It is a great honor for her to represent her country at the global games for close.
+6. It is a great honor for her to represent her country at the global games about close.
    > **中文**：代表自己的国家参加全球运动会对她来说是极大的荣幸。
 
-7. The runner showed incredible sportsmanship by helping his injured competitor cross the finish line for determination.
+7. The runner showed incredible sportsmanship by helping his injured competitor cross the finish line about determination.
    > **中文**：这名跑者通过帮助受伤的对手跨过终点线展现出了令人难以置信的体育精神。
 
 8. She worked tirelessly all season to qualify for the Olympic final event (expected to).
    > **中文**：她一整个赛季都在不知疲倦地拼搏，以取得奥运决赛的资格。
 
-9. Thousands of excited spectators filled the stadium to watch the opening ceremony for following.
+9. Thousands of excited spectators filled the stadium to watch the opening ceremony.
    > **中文**：数以千计激动的观众挤满了体育场观看开幕式。
 
-10. Their unexpected victory was celebrated as a historic triumph for the team for gather.
+10. Their unexpected victory was celebrated as a historic triumph for the team about gather.
    > **中文**：他们出乎意料的胜利被欢庆为该团队历史性的伟大胜利。
 
 </quiz-listening>
@@ -149,71 +149,71 @@ anticipated, australian, brazilian, break, bronze, close, determination, expecte
 
 ### 1
 
-The swimmer won a gold medal after setting a new national speed record for `____`.
+The swimmer won a gold medal after setting a new national speed record about `____`.
 
 - [x] anticipated
-- [ ] break
-- [ ] determination
+- [ ] australian
+- [ ] close
 
 > **解析**：`gold medal` 是名词短语，意为“金牌”。常用搭配 `win a gold medal`。
 
 ### 2
 
-Every professional athlete spends years training hard for the Olympic Games for `____`.
+Every professional athlete spends years training hard for the `____` Games.
 
-- [x] australian
-- [ ] bronze
-- [ ] expected to
+- [x] olympic
+- [ ] australian
+- [ ] close
 
 > **解析**：`athlete` 是可数名词，意为“运动员”，形容词形式为 `athletic`。
 
 ### 3
 
-She broke the world record by finishing the marathon in under two hours for `____`.
+She broke the world record by finishing the marathon in under two hours about `____`.
 
 - [x] brazilian
-- [ ] close
-- [ ] following
+- [ ] break
+- [ ] expected to
 
 > **解析**：`world record` 是名词短语，意为“世界纪录”，搭配 `break a world record`。
 
 ### 4
 
-Standing on the top step of the podium was the proudest moment of his career for `____`.
+Standing on the top step of the `____` was the proudest moment of his career.
 
-- [x] break
-- [ ] determination
-- [ ] gather
+- [x] podium
+- [ ] break
+- [ ] expected to
 
 > **解析**：`podium` 指颁奖或演讲用的“领奖台、讲台”，作介词 `of` 的宾语。
 
 ### 5
 
-Winning the championship required years of intense dedication and perseverance for `____`.
+Winning the championship required years of intense dedication and perseverance about `____`.
 
 - [x] bronze
-- [ ] expected to
-- [ ] anticipated
+- [ ] close
+- [ ] gather
 
 > **解析**：`perseverance` 是不可数名词，意为“坚持不懈、坚韧不拔”，由动词 `persevere` 派生。
 
 ### 6
 
-It is a great honor for her to represent her country at the global games for `____`.
+It is a great honor for her to represent her country at the global games about `____`.
 
 - [x] close
-- [ ] following
-- [ ] australian
+- [ ] determination
+- [ ] in a few short
 
 > **解析**：`represent` 是动词，意为“代表（国家/团队）”，后接国家或机构作宾语。
 
 ### 7
 
-The runner showed incredible sportsmanship by helping his injured competitor cross the finish line for `____`.
+The runner showed incredible sportsmanship by helping his injured competitor cross the finish line about `____`.
 
 - [x] determination
-- [ ] gather
-- [ ] brazilian
+- [ ] expected to
+- [ ] inspiring
 
 > **解析**：`sportsmanship` 是不可数名词，意为“体育精神、运动员风范”。
 
@@ -222,28 +222,28 @@ The runner showed incredible sportsmanship by helping his injured competitor cro
 She worked tirelessly all season to qualify for the Olympic final event (`____`).
 
 - [x] expected to
-- [ ] anticipated
-- [ ] break
+- [ ] following
+- [ ] looking ahead to
 
 > **解析**：`qualify (for sth.)` 是动词，意为“取得资格、符合条件”。
 
 ### 9
 
-Thousands of excited spectators filled the stadium to watch the opening ceremony for `____`.
+Thousands of excited spectators filled the stadium to watch the `____`.
 
-- [x] following
-- [ ] australian
-- [ ] bronze
+- [x] opening ceremony
+- [ ] following
+- [ ] looking ahead to
 
 > **解析**：`spectator` 是名词，特指比赛或表演的“现场观众”，作主语 `spectators`。
 
 ### 10
 
-Their unexpected victory was celebrated as a historic triumph for the team for `____`.
+Their unexpected victory was celebrated as a historic triumph for the team about `____`.
 
 - [x] gather
-- [ ] brazilian
-- [ ] close
+- [ ] in a few short
+- [ ] national anthem
 
 > **解析**：`triumph` 作名词，意为“巨大胜利、辉煌成就”，比一般的 `victory` 语气更盛大。
 

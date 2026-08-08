@@ -62,27 +62,27 @@ confusing 描述事物（令人困惑），confused 描述人（感到困惑）�
 <quiz-sentence-builder>
 
 1. **中文**：我需要为生物课写一篇三页的关于环境保护的论文。  
-   **英文**：I need to write a three-page essay on environmental protection for biology class for attend.
+   **英文**：I need to write a three-page essay on environmental protection for biology class.
    > **解析**：essay 作可数名词，意为“论文，短文”。在句中作 write 的宾语。
 
 2. **中文**：请在参加明天的课程之前阅读教科书的第五章。  
-   **英文**：Please read chapter five of the textbook before attending tomorrow's class for campus.
+   **英文**：Please read chapter five of the textbook before attending tomorrow's class.
    > **解析**：chapter 作可数名词，意为“章节，篇章”。chapter five 表示“第五章”。
 
 3. **中文**：这个数学公式有点令人困惑，所以我向老师寻求帮助。  
-   **英文**：The math formula was a bit confusing, so I asked the teacher for help for certificate.
+   **英文**：The math formula was a bit confusing, so I asked the teacher.
    > **解析**：confusing 作形容词，意为“令人困惑的，难懂的”。作表语。
 
 4. **中文**：教授指出了我作业里的错误答案。  
-   **英文**：The professor pointed out the incorrect answer in my assignment for chapter.
+   **英文**：The professor pointed out the incorrect answer in my assignment.
    > **解析**：incorrect 作形容词，意为“不正确的，错误的”。修饰 answer。
 
 5. **中文**：米勒博士做了一场关于欧洲现代史的精彩讲座。  
-   **英文**：Dr. Miller delivered an engaging lecture on modern European history for confusing.
+   **英文**：Dr. Miller delivered an engaging lecture on modern European history.
    > **解析**：lecture 作可数名词，意为“讲座，演讲”。deliver a lecture 意为“做讲座”。
 
 6. **中文**：理科生在大学实验室里做化学实验。  
-   **英文**：Science students conduct chemistry experiments in the university laboratory for description.
+   **英文**：Science students conduct chemistry experiments in the university laboratory.
    > **解析**：laboratory (简称 lab) 作名词，意为“实验室”。
 
 7. **中文**：我和室友在我们的宿舍房间里复习期中考试。  
@@ -90,11 +90,11 @@ confusing 描述事物（令人困惑），confused 描述人（感到困惑）�
    > **解析**：dorm 作名词，意为“宿舍”。dorm room 表示“宿舍房间”。
 
 8. **中文**：快点，否则我们听历史讲座就要迟到了！  
-   **英文**：Hurry up or we will be late for the history lecture for dorm.
+   **英文**：Hurry up or we will be late for the history lecture.
    > **解析**：hurry up 为常用短语祈使句，意为“抓紧，快点”。
 
 9. **中文**：你能帮我把这个句子翻译成地道的英语吗？  
-   **英文**：Could you help me translate this sentence into natural English? for essay.
+   **英文**：Could you help me translate this sentence into natural English.
    > **解析**：translate 作及物动词，意为“翻译”。translate A into B 意为“把A翻译成B”。
 
 10. **中文**：在字典里查找生词的意思以丰富知识。  
@@ -105,31 +105,31 @@ confusing 描述事物（令人困惑），confused 描述人（感到困惑）�
 
 <quiz-listening>
 
-1. I need to write a three-page essay on environmental protection for biology class for attend.
+1. I need to write a three-page essay on environmental protection for biology class.
    > **中文**：我需要为生物课写一篇三页的关于环境保护的论文。
 
-2. Please read chapter five of the textbook before attending tomorrow's class for campus.
+2. Please read chapter five of the textbook before attending tomorrow's class.
    > **中文**：请在参加明天的课程之前阅读教科书的第五章。
 
-3. The math formula was a bit confusing, so I asked the teacher for help for certificate.
+3. The math formula was a bit confusing, so I asked the teacher.
    > **中文**：这个数学公式有点令人困惑，所以我向老师寻求帮助。
 
-4. The professor pointed out the incorrect answer in my assignment for chapter.
+4. The professor pointed out the incorrect answer in my assignment.
    > **中文**：教授指出了我作业里的错误答案。
 
-5. Dr. Miller delivered an engaging lecture on modern European history for confusing.
+5. Dr. Miller delivered an engaging lecture on modern European history.
    > **中文**：米勒博士做了一场关于欧洲现代史的精彩讲座。
 
-6. Science students conduct chemistry experiments in the university laboratory for description.
+6. Science students conduct chemistry experiments in the university laboratory.
    > **中文**：理科生在大学实验室里做化学实验。
 
 7. My roommate and I studied for the mid-term exam in our dorm room (dining hall).
    > **中文**：我和室友在我们的宿舍房间里复习期中考试。
 
-8. Hurry up or we will be late for the history lecture for dorm.
+8. Hurry up or we will be late for the history lecture.
    > **中文**：快点，否则我们听历史讲座就要迟到了！
 
-9. Could you help me translate this sentence into natural English? for essay.
+9. Could you help me translate this sentence into natural English.
    > **中文**：你能帮我把这个句子翻译成地道的英语吗？
 
 10. Look up the meaning of unfamiliar words in a dictionary to expand your knowledge (hurry up).
@@ -145,61 +145,61 @@ confusing 描述事物（令人困惑），confused 描述人（感到困惑）�
 
 ### 1
 
-I need to write a three-page essay on environmental protection for biology class for `____`.
+I need to write a three-page `____` on environmental protection for biology class.
 
-- [x] attend
-- [ ] chapter
-- [ ] dining hall
+- [x] essay
+- [ ] attend
+- [ ] confusing
 
 > **解析**：essay 作可数名词，意为“论文，短文”。在句中作 write 的宾语。
 
 ### 2
 
-Please read chapter five of the textbook before attending tomorrow's class for `____`.
+Please read chapter five of the textbook before `____`ing tomorrow's class.
 
-- [x] campus
-- [ ] confusing
-- [ ] dorm
+- [x] attend
+- [ ] certificate
+- [ ] dining hall
 
 > **解析**：chapter 作可数名词，意为“章节，篇章”。chapter five 表示“第五章”。
 
 ### 3
 
-The math formula was a bit confusing, so I asked the teacher for help for `____`.
+The math formula was a bit `____`, so I asked the teacher.
 
-- [x] certificate
-- [ ] description
-- [ ] essay
+- [x] confusing
+- [ ] certificate
+- [ ] dorm
 
 > **解析**：confusing 作形容词，意为“令人困惑的，难懂的”。作表语。
 
 ### 4
 
-The professor pointed out the incorrect answer in my assignment for `____`.
+The professor pointed out the `____` answer in my assignment.
 
-- [x] chapter
-- [ ] dining hall
-- [ ] hurry up
+- [x] incorrect
+- [ ] chapter
+- [ ] dorm
 
 > **解析**：incorrect 作形容词，意为“不正确的，错误的”。修饰 answer。
 
 ### 5
 
-Dr. Miller delivered an engaging lecture on modern European history for `____`.
+Dr. Miller delivered an engaging `____` on modern European history.
 
-- [x] confusing
-- [ ] dorm
-- [ ] attend
+- [x] lecture
+- [ ] confusing
+- [ ] essay
 
 > **解析**：lecture 作可数名词，意为“讲座，演讲”。deliver a lecture 意为“做讲座”。
 
 ### 6
 
-Science students conduct chemistry experiments in the university laboratory for `____`.
+Science students conduct chemistry experiments in the university `____`.
 
-- [x] description
-- [ ] essay
-- [ ] campus
+- [x] laboratory
+- [ ] description
+- [ ] hurry up
 
 > **解析**：laboratory (简称 lab) 作名词，意为“实验室”。
 
@@ -208,38 +208,38 @@ Science students conduct chemistry experiments in the university laboratory for 
 My roommate and I studied for the mid-term exam in our dorm room (`____`).
 
 - [x] dining hall
-- [ ] hurry up
-- [ ] certificate
+- [ ] dorm
+- [ ] intermediate
 
 > **解析**：dorm 作名词，意为“宿舍”。dorm room 表示“宿舍房间”。
 
 ### 8
 
-Hurry up or we will be late for the history lecture for `____`.
+`____` or we will be late for the history lecture.
 
-- [x] dorm
-- [ ] attend
-- [ ] chapter
+- [x] hurry up
+- [ ] dorm
+- [ ] laboratory
 
 > **解析**：hurry up 为常用短语祈使句，意为“抓紧，快点”。
 
 ### 9
 
-Could you help me translate this sentence into natural English? for `____`.
+Could you help me `____` this sentence into natural English.
 
-- [x] essay
-- [ ] campus
-- [ ] confusing
+- [x] translate
+- [ ] essay
+- [ ] laboratory
 
 > **解析**：translate 作及物动词，意为“翻译”。translate A into B 意为“把A翻译成B”。
 
 ### 10
 
-Look up the meaning of unfamiliar words in a dictionary to expand your knowledge (`____`).
+Look up the `____` of unfamiliar words in a dictionary to expand your knowledge (hurry up).
 
-- [x] hurry up
-- [ ] certificate
-- [ ] description
+- [x] meaning
+- [ ] hurry up
+- [ ] lecture
 
 > **解析**：meaning 作名词，意为“意思，含义”。meaning of words 表示“单词的意思”。
 

@@ -60,19 +60,19 @@ apology, besides, blame, disappointed, disappointing, end up, end up in, fault, 
    > **解析**：apology 为可数名词，意为“道歉、致歉”。offer/make an apology 意为“做出道歉”。
 
 2. **中文**：客服的回应极其令人失望，未能解决我的问题。  
-   **英文**：The customer service response was extremely disappointing and failed to solve my issue for besides.
+   **英文**：The customer service response was extremely disappointing and failed to solve my issue.
    > **解析**：disappointing 为形容词，意为“令人失望的”，修饰事物或回复（response was disappointing）。
 
 3. **中文**：请你挂好大衣并调小喧闹的音乐好吗？  
-   **英文**：Could you hang up your coat and turn down the loud music, please? for blame.
+   **英文**：Could you hang up your coat and turn down the loud music, please.
    > **解析**：hang 为动词，意为“悬挂”。hang up 意为“挂起（衣物）”或“挂断（电话）”。
 
 4. **中文**：我要求更换，因为所提供的牛奶完全过期了。  
-   **英文**：I requested a replacement because the milk supplied was completely out-of-date for disappointed.
+   **英文**：I requested a replacement because the milk supplied was completely out-of-date.
    > **解析**：out-of-date 为复合形容词，意为“过期的、过时的”，在句中作表语（was out-of-date）。
 
 5. **中文**：如果产品有缺陷，您有权要求全额退款。  
-   **英文**：If the product is defective, you are entitled to ask for a full refund for disappointing.
+   **英文**：If the product is defective, you are entitled to ask for a full refund.
    > **解析**：refund 为可数名词，意为“退款”。ask for a refund 意为“要求退款”。
 
 6. **中文**：服务员承诺把未煮熟的牛排带回厨房。  
@@ -84,11 +84,11 @@ apology, besides, blame, disappointed, disappointing, end up, end up in, fault, 
    > **解析**：turn up 为动词短语，意为“调大（声音/温度等）”，反义短语为 turn down。
 
 8. **中文**：食物端上来是凉的；此外，我们等主菜等了一个多小时。  
-   **英文**：The food was served cold; besides, we waited for over an hour for our main course for fault.
+   **英文**：The food was served cold; besides, we waited for over an hour for our main course.
    > **解析**：besides 为副词，意为“此外、况且”，用于补充提出额外的投诉理由。
 
 9. **中文**：如果你不调整供暖系统，我们最终将支付巨额电费。  
-   **英文**：If you don't adjust the heating system, we will end up paying a huge electric bill for hang.
+   **英文**：If you don't adjust the heating system, we will end up paying a huge electric bill about blame.
    > **解析**：end up 为动词短语，意为“最终处于、最终落得”，后可接动名词（end up paying）。
 
 10. **中文**：在我试图解释投诉时，请不要挂断我的电话！  
@@ -102,16 +102,16 @@ apology, besides, blame, disappointed, disappointing, end up, end up in, fault, 
 1. The store manager offered a sincere apology for the rude behavior of his staff.
    > **中文**：店经理就其员工的不礼貌行为做出了真诚的道歉。
 
-2. The customer service response was extremely disappointing and failed to solve my issue for besides.
+2. The customer service response was extremely disappointing and failed to solve my issue.
    > **中文**：客服的回应极其令人失望，未能解决我的问题。
 
-3. Could you hang up your coat and turn down the loud music, please? for blame.
+3. Could you hang up your coat and turn down the loud music, please.
    > **中文**：请你挂好大衣并调小喧闹的音乐好吗？
 
-4. I requested a replacement because the milk supplied was completely out-of-date for disappointed.
+4. I requested a replacement because the milk supplied was completely out-of-date.
    > **中文**：我要求更换，因为所提供的牛奶完全过期了。
 
-5. If the product is defective, you are entitled to ask for a full refund for disappointing.
+5. If the product is defective, you are entitled to ask for a full refund.
    > **中文**：如果产品有缺陷，您有权要求全额退款。
 
 6. The waiter promised to take the uncooked steak back to the kitchen (end up).
@@ -120,10 +120,10 @@ apology, besides, blame, disappointed, disappointing, end up, end up in, fault, 
 7. Could you please not turn up the TV volume so high late at night? (end up in).
    > **中文**：深夜请你不要把电视音量调得那么高好吗？
 
-8. The food was served cold; besides, we waited for over an hour for our main course for fault.
+8. The food was served cold; besides, we waited for over an hour for our main course.
    > **中文**：食物端上来是凉的；此外，我们等主菜等了一个多小时。
 
-9. If you don't adjust the heating system, we will end up paying a huge electric bill for hang.
+9. If you don't adjust the heating system, we will end up paying a huge electric bill about blame.
    > **中文**：如果你不调整供暖系统，我们最终将支付巨额电费。
 
 10. Please don't hang up on me while I am trying to explain the complaint!
@@ -142,48 +142,48 @@ apology, besides, blame, disappointed, disappointing, end up, end up in, fault, 
 The store manager offered a sincere `____` for the rude behavior of his staff.
 
 - [x] apology
-- [ ] disappointed
-- [ ] end up in
+- [ ] besides
+- [ ] end up
 
 > **解析**：apology 为可数名词，意为“道歉、致歉”。offer/make an apology 意为“做出道歉”。
 
 ### 2
 
-The customer service response was extremely disappointing and failed to solve my issue for `____`.
+The customer service response was extremely `____` and failed to solve my issue.
 
-- [x] besides
-- [ ] disappointing
-- [ ] fault
+- [x] disappointing
+- [ ] besides
+- [ ] end up in
 
 > **解析**：disappointing 为形容词，意为“令人失望的”，修饰事物或回复（response was disappointing）。
 
 ### 3
 
-Could you hang up your coat and turn down the loud music, please? for `____`.
+Could you `____` up your coat and turn down the loud music, please.
 
-- [x] blame
-- [ ] end up
-- [ ] hang
+- [x] hang
+- [ ] blame
+- [ ] end up in
 
 > **解析**：hang 为动词，意为“悬挂”。hang up 意为“挂起（衣物）”或“挂断（电话）”。
 
 ### 4
 
-I requested a replacement because the milk supplied was completely out-of-date for `____`.
+I requested a replacement because the milk supplied was completely `____`.
 
-- [x] disappointed
-- [ ] end up in
-- [ ] hang up
+- [x] out-of-date
+- [ ] disappointed
+- [ ] fault
 
 > **解析**：out-of-date 为复合形容词，意为“过期的、过时的”，在句中作表语（was out-of-date）。
 
 ### 5
 
-If the product is defective, you are entitled to ask for a full refund for `____`.
+If the product is defective, you are entitled to ask for a full `____`.
 
-- [x] disappointing
-- [ ] fault
-- [ ] apology
+- [x] refund
+- [ ] disappointing
+- [ ] hang
 
 > **解析**：refund 为可数名词，意为“退款”。ask for a refund 意为“要求退款”。
 
@@ -192,8 +192,8 @@ If the product is defective, you are entitled to ask for a full refund for `____
 The waiter promised to take the uncooked steak back to the kitchen (`____`).
 
 - [x] end up
-- [ ] hang
-- [ ] besides
+- [ ] end up in
+- [ ] hang up on
 
 > **解析**：take 为及物动词，意为“拿走、带去”。take sth. back 意为“拿回/带回”。
 
@@ -202,28 +202,28 @@ The waiter promised to take the uncooked steak back to the kitchen (`____`).
 Could you please not turn up the TV volume so high late at night? (`____`).
 
 - [x] end up in
-- [ ] hang up
-- [ ] blame
+- [ ] fault
+- [ ] negative
 
 > **解析**：turn up 为动词短语，意为“调大（声音/温度等）”，反义短语为 turn down。
 
 ### 8
 
-The food was served cold; besides, we waited for over an hour for our main course for `____`.
+The food was served cold; `____`, we waited for over an hour for our main course.
 
-- [x] fault
-- [ ] apology
-- [ ] disappointed
+- [x] besides
+- [ ] hang
+- [ ] out-of-date
 
 > **解析**：besides 为副词，意为“此外、况且”，用于补充提出额外的投诉理由。
 
 ### 9
 
-If you don't adjust the heating system, we will end up paying a huge electric bill for `____`.
+If you don't adjust the heating system, we will end up paying a huge electric bill about `____`.
 
-- [x] hang
-- [ ] besides
-- [ ] disappointing
+- [x] blame
+- [ ] hang up
+- [ ] put
 
 > **解析**：end up 为动词短语，意为“最终处于、最终落得”，后可接动名词（end up paying）。
 
@@ -232,8 +232,8 @@ If you don't adjust the heating system, we will end up paying a huge electric bi
 Please don't `____` on me while I am trying to explain the complaint!
 
 - [x] hang up
-- [ ] blame
-- [ ] end up
+- [ ] hang up on
+- [ ] put away
 
 > **解析**：hang up 为动词短语，hang up on sb. 意为“挂断某人的电话”。
 

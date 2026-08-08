@@ -64,7 +64,7 @@ a whole lot, agreement, an open mind, envy, eventually, frustration, gossip, in 
    > **解析**：`a whole lot` 为口语强调副词短语，意为“许多；非常”，修饰动词 `improved`。
 
 2. **中文**：通过耐心与理解，他们最终化解了长久以来的冲突。  
-   **英文**：Through patience and understanding, they eventually resolved their long-standing conflicts for agreement.
+   **英文**：Through patience and understanding, they eventually resolved their long-standing conflicts.
    > **解析**：`eventually` 副词，意为“最终；终于”，强调经过努力或漫长过程后的结果。
 
 3. **中文**：如果你今天感到精疲力竭，既然那样，我们可以留在家中点外卖。  
@@ -72,19 +72,19 @@ a whole lot, agreement, an open mind, envy, eventually, frustration, gossip, in 
    > **解析**：`in that case` 为条件插入表达，意为“既然那样；如果是那种情况的话”。
 
 4. **中文**：他为昨天激烈争吵中做出的冒犯性言论真诚道歉。  
-   **英文**：He apologized sincerely for his offensive remark during yesterday's heated argument for envy.
+   **英文**：He apologized sincerely for his offensive remark during yesterday's heated argument.
    > **解析**：`offensive` 形容词，意为“冒犯的；无礼的；令人不快的”。修饰 `remark`。
 
 5. **中文**：夫妻/伴侣之间应当带着同理心倾听对方，而不是接连打断。  
-   **英文**：Couples should listen to each other with empathy rather than interrupting constantly for eventually.
+   **英文**：Couples should listen to each other with empathy rather than interrupting constantly.
    > **解析**：`should` 情态动词，用于给出关于相处与关系的建设性建议（意为“应当；应该”）。
 
 6. **中文**：他们决定咨询专业的婚姻治疗师以化解他们的分歧。  
-   **英文**：They decided to consult a professional marriage therapist to work through their differences for frustration.
+   **英文**：They decided to consult a professional marriage therapist to work through their differences.
    > **解析**：`therapist` 可数名词，意为“治疗师；心理咨询师”。`marriage therapist`（婚姻治疗师）。
 
 7. **中文**：我们过去常常为微小的家务争吵，但现在我们平均分担责任。  
-   **英文**：We used to argue over small household chores, but now we split responsibilities evenly for gossip.
+   **英文**：We used to argue over small household chores, but now we split responsibilities evenly.
    > **解析**：`used to do sth.` 结构，表示过去经常做某事或过去习惯的状态（现在已不再如此）。
 
 8. **中文**：这对夫妇达成了一致协议，每个周末都陪伴对方度过优质时光。  
@@ -106,22 +106,22 @@ a whole lot, agreement, an open mind, envy, eventually, frustration, gossip, in 
 1. Communication between us has improved a whole lot after we started talking openly.
    > **中文**：在我们开始坦诚交流后，我们之间的沟通改善了许多（一大截）。
 
-2. Through patience and understanding, they eventually resolved their long-standing conflicts for agreement.
+2. Through patience and understanding, they eventually resolved their long-standing conflicts.
    > **中文**：通过耐心与理解，他们最终化解了长久以来的冲突。
 
 3. If you feel exhausted today, in that case, we can stay home and order takeout (an open mind).
    > **中文**：如果你今天感到精疲力竭，既然那样，我们可以留在家中点外卖。
 
-4. He apologized sincerely for his offensive remark during yesterday's heated argument for envy.
+4. He apologized sincerely for his offensive remark during yesterday's heated argument.
    > **中文**：他为昨天激烈争吵中做出的冒犯性言论真诚道歉。
 
-5. Couples should listen to each other with empathy rather than interrupting constantly for eventually.
+5. Couples should listen to each other with empathy rather than interrupting constantly.
    > **中文**：夫妻/伴侣之间应当带着同理心倾听对方，而不是接连打断。
 
-6. They decided to consult a professional marriage therapist to work through their differences for frustration.
+6. They decided to consult a professional marriage therapist to work through their differences.
    > **中文**：他们决定咨询专业的婚姻治疗师以化解他们的分歧。
 
-7. We used to argue over small household chores, but now we split responsibilities evenly for gossip.
+7. We used to argue over small household chores, but now we split responsibilities evenly.
    > **中文**：我们过去常常为微小的家务争吵，但现在我们平均分担责任。
 
 8. The couple reached a mutual agreement to spend quality time together every weekend (in that case).
@@ -146,18 +146,18 @@ a whole lot, agreement, an open mind, envy, eventually, frustration, gossip, in 
 Communication between us has improved `____` after we started talking openly.
 
 - [x] a whole lot
-- [ ] envy
-- [ ] gossip
+- [ ] agreement
+- [ ] frustration
 
 > **解析**：`a whole lot` 为口语强调副词短语，意为“许多；非常”，修饰动词 `improved`。
 
 ### 2
 
-Through patience and understanding, they eventually resolved their long-standing conflicts for `____`.
+Through patience and understanding, they `____` resolved their long-standing conflicts.
 
-- [x] agreement
-- [ ] eventually
-- [ ] in that case
+- [x] eventually
+- [ ] agreement
+- [ ] gossip
 
 > **解析**：`eventually` 副词，意为“最终；终于”，强调经过努力或漫长过程后的结果。
 
@@ -166,68 +166,68 @@ Through patience and understanding, they eventually resolved their long-standing
 If you feel exhausted today, in that case, we can stay home and order takeout (`____`).
 
 - [x] an open mind
-- [ ] frustration
-- [ ] look down on
+- [ ] envy
+- [ ] in that case
 
 > **解析**：`in that case` 为条件插入表达，意为“既然那样；如果是那种情况的话”。
 
 ### 4
 
-He apologized sincerely for his offensive remark during yesterday's heated argument for `____`.
+He apologized sincerely for his `____` remark during yesterday's heated argument.
 
-- [x] envy
-- [ ] gossip
-- [ ] might as well
+- [x] offensive
+- [ ] envy
+- [ ] in that case
 
 > **解析**：`offensive` 形容词，意为“冒犯的；无礼的；令人不快的”。修饰 `remark`。
 
 ### 5
 
-Couples should listen to each other with empathy rather than interrupting constantly for `____`.
+Couples `____` listen to each other with empathy rather than interrupting constantly.
 
-- [x] eventually
-- [ ] in that case
-- [ ] a whole lot
+- [x] should
+- [ ] eventually
+- [ ] look down on
 
 > **解析**：`should` 情态动词，用于给出关于相处与关系的建设性建议（意为“应当；应该”）。
 
 ### 6
 
-They decided to consult a professional marriage therapist to work through their differences for `____`.
+They decided to consult a professional marriage `____` to work through their differences.
 
-- [x] frustration
-- [ ] look down on
-- [ ] agreement
+- [x] therapist
+- [ ] frustration
+- [ ] might as well
 
 > **解析**：`therapist` 可数名词，意为“治疗师；心理咨询师”。`marriage therapist`（婚姻治疗师）。
 
 ### 7
 
-We used to argue over small household chores, but now we split responsibilities evenly for `____`.
+We `____` argue over small household chores, but now we split responsibilities evenly.
 
-- [x] gossip
-- [ ] might as well
-- [ ] an open mind
+- [x] used to
+- [ ] gossip
+- [ ] need
 
 > **解析**：`used to do sth.` 结构，表示过去经常做某事或过去习惯的状态（现在已不再如此）。
 
 ### 8
 
-The couple reached a mutual agreement to spend quality time together every weekend (`____`).
+The couple reached a mutual `____` to spend quality time together every weekend (in that case).
 
-- [x] in that case
-- [ ] a whole lot
-- [ ] envy
+- [x] agreement
+- [ ] look down on
+- [ ] ought to
 
 > **解析**：`agreement` 可数/不可数名词，意为“协议；一致”。搭配 `reach an agreement`（达成协议）。
 
 ### 9
 
-Expressing your frustration calmly helps prevent small misunderstandings from blowing up (`____`).
+Expressing your `____` calmly helps prevent small misunderstandings from blowing up (look down on).
 
-- [x] look down on
-- [ ] agreement
-- [ ] eventually
+- [x] frustration
+- [ ] might as well
+- [ ] practically
 
 > **解析**：`frustration` 不可数/可数名词，意为“挫败感；沮丧；烦恼”。
 
@@ -236,8 +236,8 @@ Expressing your frustration calmly helps prevent small misunderstandings from bl
 Since we are both free tonight, we `____` go out for a romantic dinner.
 
 - [x] might as well
-- [ ] an open mind
-- [ ] frustration
+- [ ] need
+- [ ] ridiculous
 
 > **解析**：`might as well do sth.` 为固定结构，意为“不妨做某事；还不如去做某事”，表示提出一种自然顺理成章的合理提议。
 

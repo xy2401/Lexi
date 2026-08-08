@@ -52,77 +52,77 @@ if you had / if you'd + would have 是第三类条件句（对过去的虚拟）
 <quiz-sentence-builder>
 
 1. **中文**：最新上映的历史戏剧/剧集获得了全球影评人的赞誉。  
-   **英文**：The newly released historical drama won praise from critics worldwide for circus.
+   **英文**：The newly released historical drama won praise from critics worldwide.
    > **解析**：drama 可数/不可数名词，意为“戏剧；剧情片”。
 
 2. **中文**：这部电影因其对日常生活挣扎的真实刻画而受到好评。  
-   **英文**：The movie was praised for its realistic portrayal of everyday struggles for comic.
+   **英文**：The movie was praised for its realistic portrayal of everyday struggles.
    > **解析**：realistic 形容词，意为“逼真的；写实的；现实的”。
 
 3. **中文**：她计划明年执导她的第一部独立故事片。  
-   **英文**：She aims to direct her first independent feature film next year for decide.
+   **英文**：She aims to direct her first independent feature film next year.
    > **解析**：direct 动词，在此意为“执导；导演（电影等）”。
 
 4. **中文**：虽然许多人喜欢这部电影，但我讨厌它可预测的结局。  
-   **英文**：Although many people loved the film, I dislike its predictable ending for direct.
+   **英文**：Although many people loved the film, I dislike its predictable ending.
    > **解析**：dislike 及物动词，意为“不喜欢；厌恶”。
 
 5. **中文**：这部科幻电影中的特别视觉效果真的很绝妙。  
-   **英文**：The special visual effects in the sci-fi movie were truly marvelous for dislike.
+   **英文**：The special visual effects in the sci-fi movie were truly marvelous.
    > **解析**：marvelous 形容词，意为“极好的；绝妙的”（美式拼写），英式为 marvellous。
 
 6. **中文**：制作超级英雄电影已成为电影业的一大流行趋势。  
-   **英文**：Making superhero movies has become a popular trend in cinema for display.
+   **英文**：Making superhero movies has become a popular trend in cinema.
    > **解析**：trend 可数名词，意为“趋势；风尚”。
 
 7. **中文**：电影节为影迷们提供了高质量的娱乐活动。  
-   **英文**：The film festival provided high-quality entertainment for movie lovers for divorce.
+   **英文**：The film festival provided high-quality entertainment for movie lovers.
    > **解析**：entertainment 不可数/可数名词，意为“娱乐；娱乐节目”。
 
 8. **中文**：情感故事线围绕主角之间痛苦的离婚展开。  
-   **英文**：The emotional storyline revolves around a painful divorce between the leads for drama.
+   **英文**：The emotional storyline revolves around a painful divorce between the leads.
    > **解析**：divorce 可数/不可数名词，意为“离婚”；也可作动词。
 
 9. **中文**：动作片获得顶级影评赞誉是罕见的。  
-   **英文**：It is rare for an action movie to receive top critical acclaim for entertainment.
+   **英文**：It is rare for an action movie to receive top critical acclaim.
    > **解析**：rare 形容词，意为“罕见的；稀有的”。
 
 10. **中文**：这位喜剧演员让全场观众在整个演出过程中笑声不断。  
-   **英文**：The comic actor had the audience laughing throughout the entire show for folk.
+   **英文**：The comic actor had the audience laughing throughout the entire show.
    > **解析**：comic 形容词/名词，在此作形容词意为“喜剧的；滑稽的”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The newly released historical drama won praise from critics worldwide for circus.
+1. The newly released historical drama won praise from critics worldwide.
    > **中文**：最新上映的历史戏剧/剧集获得了全球影评人的赞誉。
 
-2. The movie was praised for its realistic portrayal of everyday struggles for comic.
+2. The movie was praised for its realistic portrayal of everyday struggles.
    > **中文**：这部电影因其对日常生活挣扎的真实刻画而受到好评。
 
-3. She aims to direct her first independent feature film next year for decide.
+3. She aims to direct her first independent feature film next year.
    > **中文**：她计划明年执导她的第一部独立故事片。
 
-4. Although many people loved the film, I dislike its predictable ending for direct.
+4. Although many people loved the film, I dislike its predictable ending.
    > **中文**：虽然许多人喜欢这部电影，但我讨厌它可预测的结局。
 
-5. The special visual effects in the sci-fi movie were truly marvelous for dislike.
+5. The special visual effects in the sci-fi movie were truly marvelous.
    > **中文**：这部科幻电影中的特别视觉效果真的很绝妙。
 
-6. Making superhero movies has become a popular trend in cinema for display.
+6. Making superhero movies has become a popular trend in cinema.
    > **中文**：制作超级英雄电影已成为电影业的一大流行趋势。
 
-7. The film festival provided high-quality entertainment for movie lovers for divorce.
+7. The film festival provided high-quality entertainment for movie lovers.
    > **中文**：电影节为影迷们提供了高质量的娱乐活动。
 
-8. The emotional storyline revolves around a painful divorce between the leads for drama.
+8. The emotional storyline revolves around a painful divorce between the leads.
    > **中文**：情感故事线围绕主角之间痛苦的离婚展开。
 
-9. It is rare for an action movie to receive top critical acclaim for entertainment.
+9. It is rare for an action movie to receive top critical acclaim.
    > **中文**：动作片获得顶级影评赞誉是罕见的。
 
-10. The comic actor had the audience laughing throughout the entire show for folk.
+10. The comic actor had the audience laughing throughout the entire show.
    > **中文**：这位喜剧演员让全场观众在整个演出过程中笑声不断。
 
 </quiz-listening>
@@ -135,101 +135,101 @@ if you had / if you'd + would have 是第三类条件句（对过去的虚拟）
 
 ### 1
 
-The newly released historical drama won praise from critics worldwide for `____`.
+The newly released historical `____` won praise from critics worldwide.
 
-- [x] circus
-- [ ] direct
-- [ ] divorce
+- [x] drama
+- [ ] circus
+- [ ] dislike
 
 > **解析**：drama 可数/不可数名词，意为“戏剧；剧情片”。
 
 ### 2
 
-The movie was praised for its realistic portrayal of everyday struggles for `____`.
+The movie was praised for its `____`istic portrayal of everyday struggles.
 
-- [x] comic
-- [ ] dislike
-- [ ] drama
+- [x] real
+- [ ] comic
+- [ ] display
 
 > **解析**：realistic 形容词，意为“逼真的；写实的；现实的”。
 
 ### 3
 
-She aims to direct her first independent feature film next year for `____`.
+She aims to `____` her first independent feature film next year.
 
-- [x] decide
-- [ ] display
-- [ ] entertainment
+- [x] direct
+- [ ] decide
+- [ ] drama
 
 > **解析**：direct 动词，在此意为“执导；导演（电影等）”。
 
 ### 4
 
-Although many people loved the film, I dislike its predictable ending for `____`.
+Although many people loved the film, I `____` its predictable ending.
 
-- [x] direct
-- [ ] divorce
-- [ ] folk
+- [x] dislike
+- [ ] direct
+- [ ] entertainment
 
 > **解析**：dislike 及物动词，意为“不喜欢；厌恶”。
 
 ### 5
 
-The special visual effects in the sci-fi movie were truly marvelous for `____`.
+The special visual effects in the sci-fi movie were truly `____`.
 
-- [x] dislike
-- [ ] drama
-- [ ] circus
+- [x] marvelous
+- [ ] dislike
+- [ ] entertainment
 
 > **解析**：marvelous 形容词，意为“极好的；绝妙的”（美式拼写），英式为 marvellous。
 
 ### 6
 
-Making superhero movies has become a popular trend in cinema for `____`.
+Making superhero movies has become a popular `____` in cinema.
 
-- [x] display
-- [ ] entertainment
-- [ ] comic
+- [x] trend
+- [ ] display
+- [ ] folk
 
 > **解析**：trend 可数名词，意为“趋势；风尚”。
 
 ### 7
 
-The film festival provided high-quality entertainment for movie lovers for `____`.
+The film festival provided high-quality `____` for movie lovers.
 
-- [x] divorce
-- [ ] folk
-- [ ] decide
+- [x] entertainment
+- [ ] divorce
+- [ ] get used to
 
 > **解析**：entertainment 不可数/可数名词，意为“娱乐；娱乐节目”。
 
 ### 8
 
-The emotional storyline revolves around a painful divorce between the leads for `____`.
+The emotional storyline revolves around a painful `____` between the leads.
 
-- [x] drama
-- [ ] circus
-- [ ] direct
+- [x] divorce
+- [ ] entertainment
+- [ ] hadn't
 
 > **解析**：divorce 可数/不可数名词，意为“离婚”；也可作动词。
 
 ### 9
 
-It is rare for an action movie to receive top critical acclaim for `____`.
+It is `____` for an action movie to receive top critical acclaim.
 
-- [x] entertainment
-- [ ] comic
-- [ ] dislike
+- [x] rare
+- [ ] entertainment
+- [ ] hadn't
 
 > **解析**：rare 形容词，意为“罕见的；稀有的”。
 
 ### 10
 
-The comic actor had the audience laughing throughout the entire show for `____`.
+The `____` actor had the audience laughing throughout the entire show.
 
-- [x] folk
-- [ ] decide
-- [ ] display
+- [x] comic
+- [ ] generally
+- [ ] if you had
 
 > **解析**：comic 形容词/名词，在此作形容词意为“喜剧的；滑稽的”。
 

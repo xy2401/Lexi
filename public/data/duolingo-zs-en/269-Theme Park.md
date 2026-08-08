@@ -84,7 +84,7 @@ after next, all of a sudden, amusement park, cotton candy, ferris wheel, giganti
    > **解析**：`packed` 是形容词，意为“拥挤的、塞满的”，搭配 `be packed with...`。
 
 6. **中文**：购买一张年度季票可以为你节省大量的门票费用。  
-   **英文**：Buying an annual season pass saves you a lot of ticket money for gigantic.
+   **英文**：Buying an annual season pass saves you a lot of ticket money.
    > **解析**：`season pass` 意为“季票、年票”。
 
 7. **中文**：突然之间，由于雷暴天气，户外水上游乐项目停止运行了。  
@@ -92,11 +92,11 @@ after next, all of a sudden, amusement park, cotton candy, ferris wheel, giganti
    > **解析**：`all of a sudden` 是副词短语，意为“突然之间”，相当于 `suddenly`。
 
 8. **中文**：我刚才在想我们可以早点去主题公园，以避开人群。  
-   **英文**：I was thinking we could head to the theme park early to avoid crowds for hail.
+   **英文**：I was thinking we could head to the theme park early to avoid crowds.
    > **解析**：`I was thinking (that)...` 是委婉提出建议的常用口语表达。
 
 9. **中文**：孩子们喜欢在园区散步时吃蓬松的粉色棉花糖。  
-   **英文**：Kids love eating fluffy pink cotton candy while walking around the park for head.
+   **英文**：Kids love eating fluffy pink cotton candy while walking around the park about gigantic.
    > **解析**：`cotton candy` 是名词短语，意为“棉花糖”。
 
 10. **中文**：安保人员在允许我们进入游乐设施前扫描了我们的手环。  
@@ -122,16 +122,16 @@ after next, all of a sudden, amusement park, cotton candy, ferris wheel, giganti
 5. The theme park was completely packed with visitors on Saturday afternoon (ferris wheel).
    > **中文**：主题公园在周六下午挤满了游客。
 
-6. Buying an annual season pass saves you a lot of ticket money for gigantic.
+6. Buying an annual season pass saves you a lot of ticket money.
    > **中文**：购买一张年度季票可以为你节省大量的门票费用。
 
 7. All of a sudden, the outdoor water ride stopped due to a thunderstorm (go on).
    > **中文**：突然之间，由于雷暴天气，户外水上游乐项目停止运行了。
 
-8. I was thinking we could head to the theme park early to avoid crowds for hail.
+8. I was thinking we could head to the theme park early to avoid crowds.
    > **中文**：我刚才在想我们可以早点去主题公园，以避开人群。
 
-9. Kids love eating fluffy pink cotton candy while walking around the park for head.
+9. Kids love eating fluffy pink cotton candy while walking around the park about gigantic.
    > **中文**：孩子们喜欢在园区散步时吃蓬松的粉色棉花糖。
 
 10. Security officers scanned our wristbands before letting us enter the ride (hot dog).
@@ -150,8 +150,8 @@ after next, all of a sudden, amusement park, cotton candy, ferris wheel, giganti
 Riding the thrilling high-speed roller coaster was the highlight of our trip (`____`).
 
 - [x] after next
-- [ ] cotton candy
-- [ ] go on
+- [ ] all of a sudden
+- [ ] gigantic
 
 > **解析**：`roller coaster` 是名词短语，意为“过山车”。
 
@@ -160,8 +160,8 @@ Riding the thrilling high-speed roller coaster was the highlight of our trip (`_
 The new amusement park features rides inspired by popular movies (`____`).
 
 - [x] all of a sudden
-- [ ] ferris wheel
-- [ ] hail
+- [ ] amusement park
+- [ ] go on
 
 > **解析**：`amusement park` 意为“游乐园、主题公园”。
 
@@ -170,8 +170,8 @@ The new amusement park features rides inspired by popular movies (`____`).
 We had to wait in line for over an hour to try the giant Ferris wheel (`____`).
 
 - [x] amusement park
-- [ ] gigantic
-- [ ] head
+- [ ] cotton candy
+- [ ] hail
 
 > **解析**：`wait in line` 是固定动词短语，意为“排队等候”。
 
@@ -180,8 +180,8 @@ We had to wait in line for over an hour to try the giant Ferris wheel (`____`).
 You can see the whole city view from the top of the giant ferris wheel (`____`).
 
 - [x] cotton candy
-- [ ] go on
-- [ ] hot dog
+- [ ] ferris wheel
+- [ ] head
 
 > **解析**：`ferris wheel` 是专有名词短语，意为“摩天轮”。
 
@@ -190,18 +190,18 @@ You can see the whole city view from the top of the giant ferris wheel (`____`).
 The theme park was completely packed with visitors on Saturday afternoon (`____`).
 
 - [x] ferris wheel
-- [ ] hail
-- [ ] after next
+- [ ] gigantic
+- [ ] hot dog
 
 > **解析**：`packed` 是形容词，意为“拥挤的、塞满的”，搭配 `be packed with...`。
 
 ### 6
 
-Buying an annual season pass saves you a lot of ticket money for `____`.
+Buying an annual `____` saves you a lot of ticket money.
 
-- [x] gigantic
-- [ ] head
-- [ ] all of a sudden
+- [x] season pass
+- [ ] gigantic
+- [ ] hot dog
 
 > **解析**：`season pass` 意为“季票、年票”。
 
@@ -210,28 +210,28 @@ Buying an annual season pass saves you a lot of ticket money for `____`.
 All of a sudden, the outdoor water ride stopped due to a thunderstorm (`____`).
 
 - [x] go on
-- [ ] hot dog
-- [ ] amusement park
+- [ ] hail
+- [ ] requirement
 
 > **解析**：`all of a sudden` 是副词短语，意为“突然之间”，相当于 `suddenly`。
 
 ### 8
 
-I was thinking we could head to the theme park early to avoid crowds for `____`.
+I was thinking we could `____` to the theme park early to avoid crowds.
 
-- [x] hail
-- [ ] after next
-- [ ] cotton candy
+- [x] head
+- [ ] hail
+- [ ] ride
 
 > **解析**：`I was thinking (that)...` 是委婉提出建议的常用口语表达。
 
 ### 9
 
-Kids love eating fluffy pink cotton candy while walking around the park for `____`.
+Kids love eating fluffy pink cotton candy while walking around the park about `____`.
 
-- [x] head
-- [ ] all of a sudden
-- [ ] ferris wheel
+- [x] gigantic
+- [ ] hot dog
+- [ ] roller coaster
 
 > **解析**：`cotton candy` 是名词短语，意为“棉花糖”。
 
@@ -240,8 +240,8 @@ Kids love eating fluffy pink cotton candy while walking around the park for `___
 Security officers scanned our wristbands before letting us enter the ride (`____`).
 
 - [x] hot dog
-- [ ] amusement park
-- [ ] gigantic
+- [ ] packed
+- [ ] season pass
 
 > **解析**：`wristband` 是名词，意为“手环、腕带”。
 

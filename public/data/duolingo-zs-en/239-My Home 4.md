@@ -64,7 +64,7 @@ a hand, admittedly, all over again, brick, by far, can't get over, can't take, c
    > **解析**：`give sb. a hand` 为常用口语短语，意为“给某人帮个忙/搭把手”。
 
 2. **中文**：屋顶漏水是目前为止这栋老房子最严重的结构问题。  
-   **英文**：Leaking in the roof is by far the most serious structural issue with this old house for admittedly.
+   **英文**：Leaking in the roof is by far the most serious structural issue with this old house.
    > **解析**：`by far` 强调程度副词短语，意为“迄今为止；显然”，修饰最高级 `the most serious`。
 
 3. **中文**：厨房水槽被油脂和食物残渣彻底堵塞了。  
@@ -72,7 +72,7 @@ a hand, admittedly, all over again, brick, by far, can't get over, can't take, c
    > **解析**：`clogged` 形容词/过去分词，意为“堵塞的；阻塞的”。搭配 `clogged with...`。
 
 4. **中文**：大雨过后，我们注意到一条细小的裂缝沿着地下室墙壁蔓延。  
-   **英文**：We noticed a thin crack spreading along the basement wall after the heavy rain for brick.
+   **英文**：We noticed a thin crack spreading along the basement wall after the heavy rain.
    > **解析**：`crack` 可数名词，意为“裂缝；裂纹”。
 
 5. **中文**：修理老旧屋顶对于这处房产来说是一笔昂贵但必要的投资。  
@@ -88,11 +88,11 @@ a hand, admittedly, all over again, brick, by far, can't get over, can't take, c
    > **解析**：`plumbing` 不可数名词，意为“水管管道系统；管道工活”。
 
 8. **中文**：无可否认/诚然，修复这座维多利亚风格的别墅需要大量的时间和精力。  
-   **英文**：Admittedly, restoring this Victorian villa requires a substantial amount of time and effort for clogged.
+   **英文**：Admittedly, restoring this Victorian villa requires a substantial amount of time and effort.
    > **解析**：`admittedly` 副词作句首状语，意为“无可否认地；诚然”，用于承认某种不便或不利的事实。
 
 9. **中文**：我对我们通过自己给室内房间刷漆节省了这么多钱感到难以置信/惊喜万分。  
-   **英文**：I can't get over how much money we saved by painting the interior rooms ourselves for collapse.
+   **英文**：I can't get over how much money we saved by painting the interior rooms ourselves about brick.
    > **解析**：`can't get over sth.` 习惯表达，意为“对某事感到难以置信；对某事极为惊讶/感叹”。
 
 10. **中文**：工程师在房屋地基中发现了几处令人担忧的水损害迹象。  
@@ -106,13 +106,13 @@ a hand, admittedly, all over again, brick, by far, can't get over, can't take, c
 1. Could you give me a hand with lifting this heavy radiator into the hallway?
    > **中文**：你能帮我伸手搭把手，把这个沉重的暖气片抬到走廊里吗？
 
-2. Leaking in the roof is by far the most serious structural issue with this old house for admittedly.
+2. Leaking in the roof is by far the most serious structural issue with this old house.
    > **中文**：屋顶漏水是目前为止这栋老房子最严重的结构问题。
 
 3. The kitchen sink became completely clogged with grease and food residues (all over again).
    > **中文**：厨房水槽被油脂和食物残渣彻底堵塞了。
 
-4. We noticed a thin crack spreading along the basement wall after the heavy rain for brick.
+4. We noticed a thin crack spreading along the basement wall after the heavy rain.
    > **中文**：大雨过后，我们注意到一条细小的裂缝沿着地下室墙壁蔓延。
 
 5. Fixing the old roof was an expensive but necessary investment for the property (by far).
@@ -124,10 +124,10 @@ a hand, admittedly, all over again, brick, by far, can't get over, can't take, c
 7. An experienced electrician fixed the wiring, but we still need a specialist for the plumbing (can't take).
    > **中文**：一位有经验的电工修理了线路，但我们仍然需要一名专家来修理水管管道系统。
 
-8. Admittedly, restoring this Victorian villa requires a substantial amount of time and effort for clogged.
+8. Admittedly, restoring this Victorian villa requires a substantial amount of time and effort.
    > **中文**：无可否认/诚然，修复这座维多利亚风格的别墅需要大量的时间和精力。
 
-9. I can't get over how much money we saved by painting the interior rooms ourselves for collapse.
+9. I can't get over how much money we saved by painting the interior rooms ourselves about brick.
    > **中文**：我对我们通过自己给室内房间刷漆节省了这么多钱感到难以置信/惊喜万分。
 
 10. The engineer found several concerning signs of water damage in the foundation.
@@ -146,18 +146,18 @@ a hand, admittedly, all over again, brick, by far, can't get over, can't take, c
 Could you give me `____` with lifting this heavy radiator into the hallway?
 
 - [x] a hand
-- [ ] brick
-- [ ] can't take
+- [ ] admittedly
+- [ ] can't get over
 
 > **解析**：`give sb. a hand` 为常用口语短语，意为“给某人帮个忙/搭把手”。
 
 ### 2
 
-Leaking in the roof is by far the most serious structural issue with this old house for `____`.
+Leaking in the roof is `____` the most serious structural issue with this old house.
 
-- [x] admittedly
-- [ ] by far
-- [ ] clogged
+- [x] by far
+- [ ] admittedly
+- [ ] can't take
 
 > **解析**：`by far` 强调程度副词短语，意为“迄今为止；显然”，修饰最高级 `the most serious`。
 
@@ -166,28 +166,28 @@ Leaking in the roof is by far the most serious structural issue with this old ho
 The kitchen sink became completely clogged with grease and food residues (`____`).
 
 - [x] all over again
-- [ ] can't get over
-- [ ] collapse
+- [ ] brick
+- [ ] clogged
 
 > **解析**：`clogged` 形容词/过去分词，意为“堵塞的；阻塞的”。搭配 `clogged with...`。
 
 ### 4
 
-We noticed a thin crack spreading along the basement wall after the heavy rain for `____`.
+We noticed a thin `____` spreading along the basement wall after the heavy rain.
 
-- [x] brick
-- [ ] can't take
-- [ ] concerning
+- [x] crack
+- [ ] brick
+- [ ] clogged
 
 > **解析**：`crack` 可数名词，意为“裂缝；裂纹”。
 
 ### 5
 
-Fixing the old roof was an expensive but necessary investment for the property (`____`).
+Fixing the old roof was an expensive but necessary `____` for the property (by far).
 
-- [x] by far
-- [ ] clogged
-- [ ] a hand
+- [x] investment
+- [ ] by far
+- [ ] collapse
 
 > **解析**：`investment` 可数/不可数名词，意为“投资；投入”。
 
@@ -196,8 +196,8 @@ Fixing the old roof was an expensive but necessary investment for the property (
 Before buying new curtains, be sure to measure the exact window dimensions (`____`).
 
 - [x] can't get over
-- [ ] collapse
-- [ ] admittedly
+- [ ] can't take
+- [ ] construction
 
 > **解析**：`measure` 及物动词，意为“测量；度量”。
 
@@ -206,28 +206,28 @@ Before buying new curtains, be sure to measure the exact window dimensions (`___
 An experienced electrician fixed the wiring, but we still need a specialist for the plumbing (`____`).
 
 - [x] can't take
-- [ ] concerning
-- [ ] all over again
+- [ ] clogged
+- [ ] crack
 
 > **解析**：`plumbing` 不可数名词，意为“水管管道系统；管道工活”。
 
 ### 8
 
-Admittedly, restoring this Victorian villa requires a substantial amount of time and effort for `____`.
+`____`, restoring this Victorian villa requires a substantial amount of time and effort.
 
-- [x] clogged
-- [ ] a hand
-- [ ] brick
+- [x] admittedly
+- [ ] collapse
+- [ ] damp
 
 > **解析**：`admittedly` 副词作句首状语，意为“无可否认地；诚然”，用于承认某种不便或不利的事实。
 
 ### 9
 
-I can't get over how much money we saved by painting the interior rooms ourselves for `____`.
+I can't get over how much money we saved by painting the interior rooms ourselves about `____`.
 
-- [x] collapse
-- [ ] admittedly
-- [ ] by far
+- [x] brick
+- [ ] concerning
+- [ ] extend
 
 > **解析**：`can't get over sth.` 习惯表达，意为“对某事感到难以置信；对某事极为惊讶/感叹”。
 
@@ -236,8 +236,8 @@ I can't get over how much money we saved by painting the interior rooms ourselve
 The engineer found several `____` signs of water damage in the foundation.
 
 - [x] concerning
-- [ ] all over again
-- [ ] can't get over
+- [ ] construction
+- [ ] fixer-upper
 
 > **解析**：`concerning` 形容词，意为“令人担忧的；引起关切的”。修饰 `signs`。
 

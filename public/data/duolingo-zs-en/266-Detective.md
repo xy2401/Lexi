@@ -82,7 +82,7 @@ must have / could have / may have 是对过去事件的三种推测，确定性�
 <quiz-sentence-builder>
 
 1. **中文**：侦探仔细检查了房间，以寻找任何隐蔽的线索。  
-   **英文**：The detective examined the room carefully to find any hidden clues for as.
+   **英文**：The detective examined the room carefully to find any hidden clues.
    > **解析**：`clue` 是可数名词，意为“线索、提示”，常用搭配 `find a clue`。
 
 2. **中文**：法医专家从未锁的玻璃门上收集了指纹。  
@@ -90,19 +90,19 @@ must have / could have / may have 是对过去事件的三种推测，确定性�
    > **解析**：`fingerprint` 是名词，意为“指纹”，常用复数 `fingerprints`。
 
 3. **中文**：警方今天下午带回了主要犯罪嫌疑人进行审问。  
-   **英文**：Police brought the prime suspect in for questioning this afternoon for bullet.
+   **英文**：Police brought the prime suspect in for questioning this afternoon.
    > **解析**：`suspect` 作名词时意为“犯罪嫌疑人”，作宾语。
 
 4. **中文**：看着强行破坏入侵的痕迹，那一定是一个经验丰富的强盗。  
-   **英文**：Looking at the forced entry, it must have been an experienced robber for case.
+   **英文**：Looking at the forced entry, it must have been an experienced robber.
    > **解析**：`it must have been...` 表示对过去事实的推测：“那一定曾经是……”。
 
 5. **中文**：调查人员正在寻找这次突然盗窃案背后的明确动机。  
-   **英文**：Investigators are searching for a clear motive behind the sudden theft for clue.
+   **英文**：Investigators are searching for a clear motive behind the sudden theft.
    > **解析**：`motive` 是名词，意为“动机、目的”，短语 `motive behind sth`。
 
 6. **中文**：找到丢失的证据对破解这桩疑案至关重要。  
-   **英文**：Finding the missing evidence is crucial to solving the mystery case for considering.
+   **英文**：Finding the missing evidence is crucial to solving the mystery case.
    > **解析**：`crucial` 是形容词，意为“至关重要的、决定性的”，作表语。
 
 7. **中文**：入侵者穿戴了伪装，以避免在摄像头中被认出。  
@@ -110,49 +110,49 @@ must have / could have / may have 是对过去事件的三种推测，确定性�
    > **解析**：`disguise` 是名词，意为“伪装、假扮”，搭配 `wear a disguise`。
 
 8. **中文**：根据初步调查结果，盗窃案发生在午夜过后的某个时间。  
-   **英文**：Based on initial findings, the robbery occurred sometime after midnight for crucial.
+   **英文**：Based on initial findings, the robbery occurred sometime after midnight.
    > **解析**：`based on...` 是介词短语，意为“根据……、基于……”，引导状语。
 
 9. **中文**：侦探证实犯罪现场没有发现任何武器。  
-   **英文**：The detective confirmed that no weapon was found at the crime scene for disguise.
+   **英文**：The detective confirmed that no weapon was found at the crime scene.
    > **解析**：`weapon` 是名词，意为“武器、凶器”。
 
 10. **中文**：作案者本来有可能通过地下室窗户逃脱了。  
-   **英文**：The perpetrator could have escaped through the basement window for distract.
+   **英文**：The perpetrator could have escaped through the basement window about bullet.
    > **解析**：`could have + 过去分词` 表示对过去可能性的推测（本来可能）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The detective examined the room carefully to find any hidden clues for as.
+1. The detective examined the room carefully to find any hidden clues.
    > **中文**：侦探仔细检查了房间，以寻找任何隐蔽的线索。
 
 2. Forensic experts gathered fingerprints from the unlocked glass door (based on).
    > **中文**：法医专家从未锁的玻璃门上收集了指纹。
 
-3. Police brought the prime suspect in for questioning this afternoon for bullet.
+3. Police brought the prime suspect in for questioning this afternoon.
    > **中文**：警方今天下午带回了主要犯罪嫌疑人进行审问。
 
-4. Looking at the forced entry, it must have been an experienced robber for case.
+4. Looking at the forced entry, it must have been an experienced robber.
    > **中文**：看着强行破坏入侵的痕迹，那一定是一个经验丰富的强盗。
 
-5. Investigators are searching for a clear motive behind the sudden theft for clue.
+5. Investigators are searching for a clear motive behind the sudden theft.
    > **中文**：调查人员正在寻找这次突然盗窃案背后的明确动机。
 
-6. Finding the missing evidence is crucial to solving the mystery case for considering.
+6. Finding the missing evidence is crucial to solving the mystery case.
    > **中文**：找到丢失的证据对破解这桩疑案至关重要。
 
 7. The intruder wore a disguise to avoid being recognized on camera (could have).
    > **中文**：入侵者穿戴了伪装，以避免在摄像头中被认出。
 
-8. Based on initial findings, the robbery occurred sometime after midnight for crucial.
+8. Based on initial findings, the robbery occurred sometime after midnight.
    > **中文**：根据初步调查结果，盗窃案发生在午夜过后的某个时间。
 
-9. The detective confirmed that no weapon was found at the crime scene for disguise.
+9. The detective confirmed that no weapon was found at the crime scene.
    > **中文**：侦探证实犯罪现场没有发现任何武器。
 
-10. The perpetrator could have escaped through the basement window for distract.
+10. The perpetrator could have escaped through the basement window about bullet.
    > **中文**：作案者本来有可能通过地下室窗户逃脱了。
 
 </quiz-listening>
@@ -165,61 +165,61 @@ must have / could have / may have 是对过去事件的三种推测，确定性�
 
 ### 1
 
-The detective examined the room carefully to find any hidden clues for `____`.
+The detective examined the room carefully to find any hidden `____`s.
 
-- [x] as
-- [ ] case
-- [ ] could have
+- [x] clue
+- [ ] as
+- [ ] considering
 
 > **解析**：`clue` 是可数名词，意为“线索、提示”，常用搭配 `find a clue`。
 
 ### 2
 
-Forensic experts gathered fingerprints from the unlocked glass door (`____`).
+Forensic experts gathered fingerprints from the unlocked gl`____`s door (based on).
 
-- [x] based on
-- [ ] clue
-- [ ] crucial
+- [x] as
+- [ ] bullet
+- [ ] could have
 
 > **解析**：`fingerprint` 是名词，意为“指纹”，常用复数 `fingerprints`。
 
 ### 3
 
-Police brought the prime suspect in for questioning this afternoon for `____`.
+Police brought the prime `____` in for questioning this afternoon.
 
-- [x] bullet
-- [ ] considering
-- [ ] disguise
+- [x] suspect
+- [ ] bullet
+- [ ] could have
 
 > **解析**：`suspect` 作名词时意为“犯罪嫌疑人”，作宾语。
 
 ### 4
 
-Looking at the forced entry, it must have been an experienced robber for `____`.
+Looking at the forced entry, `____` an experienced robber.
 
-- [x] case
-- [ ] could have
-- [ ] distract
+- [x] it must have been
+- [ ] case
+- [ ] crucial
 
 > **解析**：`it must have been...` 表示对过去事实的推测：“那一定曾经是……”。
 
 ### 5
 
-Investigators are searching for a clear motive behind the sudden theft for `____`.
+Investigators are searching for a clear `____` behind the sudden theft.
 
-- [x] clue
-- [ ] crucial
-- [ ] as
+- [x] motive
+- [ ] clue
+- [ ] disguise
 
 > **解析**：`motive` 是名词，意为“动机、目的”，短语 `motive behind sth`。
 
 ### 6
 
-Finding the missing evidence is crucial to solving the mystery case for `____`.
+Finding the missing evidence is crucial to solving the mystery `____`.
 
-- [x] considering
-- [ ] disguise
-- [ ] based on
+- [x] case
+- [ ] could have
+- [ ] fingerprint
 
 > **解析**：`crucial` 是形容词，意为“至关重要的、决定性的”，作表语。
 
@@ -228,38 +228,38 @@ Finding the missing evidence is crucial to solving the mystery case for `____`.
 The intruder wore a disguise to avoid being recognized on camera (`____`).
 
 - [x] could have
-- [ ] distract
-- [ ] bullet
+- [ ] crucial
+- [ ] footprint
 
 > **解析**：`disguise` 是名词，意为“伪装、假扮”，搭配 `wear a disguise`。
 
 ### 8
 
-Based on initial findings, the robbery occurred sometime after midnight for `____`.
+`____` initial findings, the robbery occurred sometime after midnight.
 
-- [x] crucial
-- [ ] as
-- [ ] case
+- [x] based on
+- [ ] disguise
+- [ ] gang
 
 > **解析**：`based on...` 是介词短语，意为“根据……、基于……”，引导状语。
 
 ### 9
 
-The detective confirmed that no weapon was found at the crime scene for `____`.
+The detective confirmed that no `____` was found at the crime scene.
 
-- [x] disguise
-- [ ] based on
-- [ ] clue
+- [x] weapon
+- [ ] disguise
+- [ ] gang
 
 > **解析**：`weapon` 是名词，意为“武器、凶器”。
 
 ### 10
 
-The perpetrator could have escaped through the basement window for `____`.
+The perpetrator could have escaped through the basement window about `____`.
 
-- [x] distract
-- [ ] bullet
-- [ ] considering
+- [x] bullet
+- [ ] fingerprint
+- [ ] it could have been
 
 > **解析**：`could have + 过去分词` 表示对过去可能性的推测（本来可能）。
 

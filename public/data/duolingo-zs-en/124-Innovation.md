@@ -62,15 +62,15 @@ by accident 表示"偶然、不小心"。in general 表示"总的来说"。
 <quiz-sentence-builder>
 
 1. **中文**：请查阅电子邮件附件中的详细项目方案。  
-   **英文**：Please review the detailed project proposal in the email attachment for after.
+   **英文**：Please review the detailed project proposal in the email attachment.
    > **解析**：attachment 为名词，意为“附件”。在电子邮件语境中，in the attachment 或 attached file 意为“在附件中”。动词形式为 attach。
 
 2. **中文**：许多公司利用社交媒体平台与客户进行互动。  
-   **英文**：Many companies use social media platforms to interact with their customers for attachment.
+   **英文**：Many companies use social media platforms to interact with their customers.
    > **解析**：social media 为名词短语，意为“社交媒体”。通常作为不可数名词或复数概念使用。platform 指“平台”。
 
 3. **中文**：现代即时通讯软件使团队成员之间的即时沟通变得非常容易。  
-   **英文**：Modern messaging apps make it easy to communicate with team members instantly for blog.
+   **英文**：Modern messaging apps make it easy to communicate with team members instantly.
    > **解析**：communicate 为动词，意为“沟通、交流”。搭配 communicate with sb.（与某人沟通）。make it easy to do 中的 it 为形式宾语。
 
 4. **中文**：注意不要从共享文件夹中删除任何重要文档。  
@@ -78,11 +78,11 @@ by accident 表示"偶然、不小心"。in general 表示"总的来说"。
    > **解析**：delete 为动词，意为“删除”。delete sth. from... 表示“从……中删除某物”。名词形式为 deletion。
 
 5. **中文**：点击短信中提供的链接来重置你的账户密码。  
-   **英文**：Click on the link provided in the message to reset your account password for communicate.
+   **英文**：Click on the link provided in the message to reset your account password.
    > **解析**：link 为名词，意为“网络链接”。click on the link 表示“点击链接”。provided 在此处为过去分词短语作后置定语。
 
 6. **中文**：我今天早上发了一份咨询，但目前还没有收到回复。  
-   **英文**：I sent an inquiry this morning, but I have not received a reply yet for completely.
+   **英文**：I sent an inquiry this morning, but I have not received a reply yet.
    > **解析**：reply 在此处用作名词，意为“回复、答复”。receive a reply 表示“收到回复”。reply 亦可作动词（reply to an email）。
 
 7. **中文**：他在清理电脑空间时不小心误删了那个文件。  
@@ -90,49 +90,49 @@ by accident 表示"偶然、不小心"。in general 表示"总的来说"。
    > **解析**：by accident 为介词短语作状语，意为“偶然、不小心、意外地”。与 by mistake 或 accidentally 同义。
 
 8. **中文**：总体而言，新网站上的用户体验非常积极。  
-   **英文**：In general, user experience on the new website has been very positive for effect.
+   **英文**：In general, user experience on the new website has been very positive.
    > **解析**：in general 为介词短语，置于句首作状语，意为“总体而言、一般说来”。与 generally speaking 同义。
 
 9. **中文**：你应当对你的个人密码和账户设置保密。  
-   **英文**：You should keep your personal password and account settings private for exit.
+   **英文**：You should keep your personal password and account settings private.
    > **解析**：private 为形容词，意为“私密的、保密的”。在句中作宾语补足语（keep sth. private 保持某物私密）。
 
 10. **中文**：科技的飞速发展改变了人们处理数字信息的方式。  
-   **英文**：Rapid advances in technology have changed how people process digital information for hear.
+   **英文**：Rapid advances in technology have changed how people process digital information.
    > **解析**：technology 为名词，意为“科技、技术”。advances in technology 意为“技术进步”。how 引导宾语从句。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Please review the detailed project proposal in the email attachment for after.
+1. Please review the detailed project proposal in the email attachment.
    > **中文**：请查阅电子邮件附件中的详细项目方案。
 
-2. Many companies use social media platforms to interact with their customers for attachment.
+2. Many companies use social media platforms to interact with their customers.
    > **中文**：许多公司利用社交媒体平台与客户进行互动。
 
-3. Modern messaging apps make it easy to communicate with team members instantly for blog.
+3. Modern messaging apps make it easy to communicate with team members instantly.
    > **中文**：现代即时通讯软件使团队成员之间的即时沟通变得非常容易。
 
 4. Be careful not to delete any important documents from the shared folder (by accident).
    > **中文**：注意不要从共享文件夹中删除任何重要文档。
 
-5. Click on the link provided in the message to reset your account password for communicate.
+5. Click on the link provided in the message to reset your account password.
    > **中文**：点击短信中提供的链接来重置你的账户密码。
 
-6. I sent an inquiry this morning, but I have not received a reply yet for completely.
+6. I sent an inquiry this morning, but I have not received a reply yet.
    > **中文**：我今天早上发了一份咨询，但目前还没有收到回复。
 
 7. He deleted the file by accident while clearing space on his computer.
    > **中文**：他在清理电脑空间时不小心误删了那个文件。
 
-8. In general, user experience on the new website has been very positive for effect.
+8. In general, user experience on the new website has been very positive.
    > **中文**：总体而言，新网站上的用户体验非常积极。
 
-9. You should keep your personal password and account settings private for exit.
+9. You should keep your personal password and account settings private.
    > **中文**：你应当对你的个人密码和账户设置保密。
 
-10. Rapid advances in technology have changed how people process digital information for hear.
+10. Rapid advances in technology have changed how people process digital information.
    > **中文**：科技的飞速发展改变了人们处理数字信息的方式。
 
 </quiz-listening>
@@ -145,31 +145,31 @@ by accident 表示"偶然、不小心"。in general 表示"总的来说"。
 
 ### 1
 
-Please review the detailed project proposal in the email attachment for `____`.
+Please review the detailed project proposal in the email `____`.
 
-- [x] after
-- [ ] by accident
-- [ ] delete
+- [x] attachment
+- [ ] after
+- [ ] completely
 
 > **解析**：attachment 为名词，意为“附件”。在电子邮件语境中，in the attachment 或 attached file 意为“在附件中”。动词形式为 attach。
 
 ### 2
 
-Many companies use social media platforms to interact with their customers for `____`.
+Many companies use `____` platforms to interact with their customers.
 
-- [x] attachment
-- [ ] communicate
-- [ ] effect
+- [x] social media
+- [ ] attachment
+- [ ] completely
 
 > **解析**：social media 为名词短语，意为“社交媒体”。通常作为不可数名词或复数概念使用。platform 指“平台”。
 
 ### 3
 
-Modern messaging apps make it easy to communicate with team members instantly for `____`.
+Modern messaging apps make it easy to `____` with team members instantly.
 
-- [x] blog
-- [ ] completely
-- [ ] exit
+- [x] communicate
+- [ ] blog
+- [ ] effect
 
 > **解析**：communicate 为动词，意为“沟通、交流”。搭配 communicate with sb.（与某人沟通）。make it easy to do 中的 it 为形式宾语。
 
@@ -178,28 +178,28 @@ Modern messaging apps make it easy to communicate with team members instantly fo
 Be careful not to delete any important documents from the shared folder (`____`).
 
 - [x] by accident
-- [ ] delete
-- [ ] hear
+- [ ] communicate
+- [ ] exit
 
 > **解析**：delete 为动词，意为“删除”。delete sth. from... 表示“从……中删除某物”。名词形式为 deletion。
 
 ### 5
 
-Click on the link provided in the message to reset your account password for `____`.
+Click on the `____` provided in the message to reset your account password.
 
-- [x] communicate
-- [ ] effect
-- [ ] after
+- [x] link
+- [ ] communicate
+- [ ] exit
 
 > **解析**：link 为名词，意为“网络链接”。click on the link 表示“点击链接”。provided 在此处为过去分词短语作后置定语。
 
 ### 6
 
-I sent an inquiry this morning, but I have not received a reply yet for `____`.
+I sent an inquiry this morning, but I have not received a `____` yet.
 
-- [x] completely
-- [ ] exit
-- [ ] attachment
+- [x] reply
+- [ ] completely
+- [ ] hear
 
 > **解析**：reply 在此处用作名词，意为“回复、答复”。receive a reply 表示“收到回复”。reply 亦可作动词（reply to an email）。
 
@@ -208,38 +208,38 @@ I sent an inquiry this morning, but I have not received a reply yet for `____`.
 He `____`d the file by accident while clearing space on his computer.
 
 - [x] delete
-- [ ] hear
-- [ ] blog
+- [ ] effect
+- [ ] in general
 
 > **解析**：by accident 为介词短语作状语，意为“偶然、不小心、意外地”。与 by mistake 或 accidentally 同义。
 
 ### 8
 
-In general, user experience on the new website has been very positive for `____`.
+`____`, user experience on the new website has been very positive.
 
-- [x] effect
-- [ ] after
-- [ ] by accident
+- [x] in general
+- [ ] effect
+- [ ] issue
 
 > **解析**：in general 为介词短语，置于句首作状语，意为“总体而言、一般说来”。与 generally speaking 同义。
 
 ### 9
 
-You should keep your personal password and account settings private for `____`.
+You should keep your personal password and account settings `____`.
 
-- [x] exit
-- [ ] attachment
-- [ ] communicate
+- [x] private
+- [ ] exit
+- [ ] issue
 
 > **解析**：private 为形容词，意为“私密的、保密的”。在句中作宾语补足语（keep sth. private 保持某物私密）。
 
 ### 10
 
-Rapid advances in technology have changed how people process digital information for `____`.
+Rapid advances in `____` have changed how people process digital information.
 
-- [x] hear
-- [ ] blog
-- [ ] completely
+- [x] technology
+- [ ] hear
+- [ ] link
 
 > **解析**：technology 为名词，意为“科技、技术”。advances in technology 意为“技术进步”。how 引导宾语从句。
 

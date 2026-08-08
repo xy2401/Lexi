@@ -68,11 +68,11 @@ best bet, bush, could, cut down, gardener, green thumb, ground, have to be, hire
    > **解析**：`best bet` 为常用口语短语，意为“最佳选择；最明智的做法”。
 
 2. **中文**：有经验的园丁确切地知道何时修剪果树以获得最佳产量。  
-   **英文**：An experienced gardener knows exactly when to prune fruit trees for optimal yield for bush.
+   **英文**：An experienced gardener knows exactly when to prune fruit trees for optimal yield.
    > **解析**：`gardener` 可数名词，意为“园丁；花匠”，由 `garden` 派生而来。
 
 3. **中文**：我们决定雇佣一名专业的景观设计师来改造我们的后院草坪。  
-   **英文**：We decided to hire a professional landscaper to remodel our backyard lawn for could.
+   **英文**：We decided to hire a professional landscaper to remodel our backyard lawn.
    > **解析**：`hire` 及物动词，意为“雇佣；聘请”。搭配 `hire sb. to do sth.`。
 
 4. **中文**：她整个早晨都在园艺中心寻找新鲜的有机种子。  
@@ -80,7 +80,7 @@ best bet, bush, could, cut down, gardener, green thumb, ground, have to be, hire
    > **解析**：`looking` 动名词/分词形式，搭配 `look for` 表示“寻找”。短语 `spend time doing sth.`。
 
 5. **中文**：我喜欢在阳光明媚的周末独自一人照顾花坛。  
-   **英文**：I enjoy spending sunny weekends taking care of the flowerbeds all by myself for gardener.
+   **英文**：I enjoy spending sunny weekends taking care of the flowerbeds all by myself.
    > **解析**：`myself` 为反身代词。短语 `all by myself` 意为“完全靠我自己；独自一人”。
 
 6. **中文**：你应该在清晨给西红柿浇水，而不是在烈日灼热的时候。  
@@ -88,7 +88,7 @@ best bet, bush, could, cut down, gardener, green thumb, ground, have to be, hire
    > **解析**：`should` 情态动词，用于给出园艺或日常生活的合理建议（意为“应当；应该”）。
 
 7. **中文**：注意不要在可食用的蔬菜床附近喷洒有害化学农药。  
-   **英文**：Be careful not to spray harmful chemical pesticides near edible vegetable beds for ground.
+   **英文**：Be careful not to spray harmful chemical pesticides near edible vegetable beds.
    > **解析**：`spray` 及物动词，意为“喷洒；喷涂”。搭配 `spray sth. on / near sth.`。
 
 8. **中文**：他沿着装饰性的花园篱笆种了一排玫瑰灌木。  
@@ -96,7 +96,7 @@ best bet, bush, could, cut down, gardener, green thumb, ground, have to be, hire
    > **解析**：`bush` 可数名词，意为“灌木；矮树”，复数形式为 `bushes`。
 
 9. **中文**：我的祖母有精湛的园艺技能（绿手指）；她种植的一切都长得非常茂盛。  
-   **英文**：My grandmother has a green thumb; everything she plants grows abundantly for hire.
+   **英文**：My grandmother has a green thumb; everything she plants grows abundantly about could.
    > **解析**：`green thumb`（美式英语习惯用语，英式常用 `green fingers`）名词短语，意为“园艺天赋；高超的种花技能”。
 
 10. **中文**：看起来土壤需要更多的有机堆肥才能保持丰富的营养。  
@@ -110,28 +110,28 @@ best bet, bush, could, cut down, gardener, green thumb, ground, have to be, hire
 1. Buying native plants is your best bet for keeping a low-maintenance garden.
    > **中文**：购买本地植物是你打造低维护花园的最佳选择。
 
-2. An experienced gardener knows exactly when to prune fruit trees for optimal yield for bush.
+2. An experienced gardener knows exactly when to prune fruit trees for optimal yield.
    > **中文**：有经验的园丁确切地知道何时修剪果树以获得最佳产量。
 
-3. We decided to hire a professional landscaper to remodel our backyard lawn for could.
+3. We decided to hire a professional landscaper to remodel our backyard lawn.
    > **中文**：我们决定雇佣一名专业的景观设计师来改造我们的后院草坪。
 
 4. She spent the morning looking for fresh organic seeds at the garden center (cut down).
    > **中文**：她整个早晨都在园艺中心寻找新鲜的有机种子。
 
-5. I enjoy spending sunny weekends taking care of the flowerbeds all by myself for gardener.
+5. I enjoy spending sunny weekends taking care of the flowerbeds all by myself.
    > **中文**：我喜欢在阳光明媚的周末独自一人照顾花坛。
 
 6. You should water your tomatoes early in the morning rather than under the scorching sun (green thumb).
    > **中文**：你应该在清晨给西红柿浇水，而不是在烈日灼热的时候。
 
-7. Be careful not to spray harmful chemical pesticides near edible vegetable beds for ground.
+7. Be careful not to spray harmful chemical pesticides near edible vegetable beds.
    > **中文**：注意不要在可食用的蔬菜床附近喷洒有害化学农药。
 
 8. He planted a row of rose bush plants along the decorative garden fence (have to be).
    > **中文**：他沿着装饰性的花园篱笆种了一排玫瑰灌木。
 
-9. My grandmother has a green thumb; everything she plants grows abundantly for hire.
+9. My grandmother has a green thumb; everything she plants grows abundantly about could.
    > **中文**：我的祖母有精湛的园艺技能（绿手指）；她种植的一切都长得非常茂盛。
 
 10. It seems like the soil needs more organic compost to stay rich in nutrients.
@@ -150,28 +150,28 @@ best bet, bush, could, cut down, gardener, green thumb, ground, have to be, hire
 Buying native plants is your `____` for keeping a low-maintenance garden.
 
 - [x] best bet
-- [ ] cut down
-- [ ] ground
+- [ ] bush
+- [ ] green thumb
 
 > **解析**：`best bet` 为常用口语短语，意为“最佳选择；最明智的做法”。
 
 ### 2
 
-An experienced gardener knows exactly when to prune fruit trees for optimal yield for `____`.
+An experienced `____` knows exactly when to prune fruit trees for optimal yield.
 
-- [x] bush
-- [ ] gardener
-- [ ] have to be
+- [x] gardener
+- [ ] bush
+- [ ] ground
 
 > **解析**：`gardener` 可数名词，意为“园丁；花匠”，由 `garden` 派生而来。
 
 ### 3
 
-We decided to hire a professional landscaper to remodel our backyard lawn for `____`.
+We decided to `____` a professional landscaper to remodel our backyard lawn.
 
-- [x] could
-- [ ] green thumb
-- [ ] hire
+- [x] hire
+- [ ] could
+- [ ] ground
 
 > **解析**：`hire` 及物动词，意为“雇佣；聘请”。搭配 `hire sb. to do sth.`。
 
@@ -180,18 +180,18 @@ We decided to hire a professional landscaper to remodel our backyard lawn for `_
 She spent the morning looking for fresh organic seeds at the garden center (`____`).
 
 - [x] cut down
-- [ ] ground
-- [ ] it seems like
+- [ ] gardener
+- [ ] hire
 
 > **解析**：`looking` 动名词/分词形式，搭配 `look for` 表示“寻找”。短语 `spend time doing sth.`。
 
 ### 5
 
-I enjoy spending sunny weekends taking care of the flowerbeds all by myself for `____`.
+I enjoy spending sunny weekends taking care of the flowerbeds all by `____`.
 
-- [x] gardener
-- [ ] have to be
-- [ ] best bet
+- [x] myself
+- [ ] gardener
+- [ ] hire
 
 > **解析**：`myself` 为反身代词。短语 `all by myself` 意为“完全靠我自己；独自一人”。
 
@@ -200,38 +200,38 @@ I enjoy spending sunny weekends taking care of the flowerbeds all by myself for 
 You should water your tomatoes early in the morning rather than under the scorching sun (`____`).
 
 - [x] green thumb
-- [ ] hire
-- [ ] bush
+- [ ] ground
+- [ ] lawn
 
 > **解析**：`should` 情态动词，用于给出园艺或日常生活的合理建议（意为“应当；应该”）。
 
 ### 7
 
-Be careful not to spray harmful chemical pesticides near edible vegetable beds for `____`.
+Be careful not to `____` harmful chemical pesticides near edible vegetable beds.
 
-- [x] ground
-- [ ] it seems like
-- [ ] could
+- [x] spray
+- [ ] ground
+- [ ] lawn
 
 > **解析**：`spray` 及物动词，意为“喷洒；喷涂”。搭配 `spray sth. on / near sth.`。
 
 ### 8
 
-He planted a row of rose bush plants along the decorative garden fence (`____`).
+He planted a row of rose `____` plants along the decorative garden fence (have to be).
 
-- [x] have to be
-- [ ] best bet
-- [ ] cut down
+- [x] bush
+- [ ] hire
+- [ ] may
 
 > **解析**：`bush` 可数名词，意为“灌木；矮树”，复数形式为 `bushes`。
 
 ### 9
 
-My grandmother has a green thumb; everything she plants grows abundantly for `____`.
+My grandmother has a green thumb; everything she plants grows abundantly about `____`.
 
-- [x] hire
-- [ ] bush
-- [ ] gardener
+- [x] could
+- [ ] it seems like
+- [ ] mow
 
 > **解析**：`green thumb`（美式英语习惯用语，英式常用 `green fingers`）名词短语，意为“园艺天赋；高超的种花技能”。
 
@@ -240,8 +240,8 @@ My grandmother has a green thumb; everything she plants grows abundantly for `__
 `____` the soil needs more organic compost to stay rich in nutrients.
 
 - [x] it seems like
-- [ ] could
-- [ ] green thumb
+- [ ] lawn
+- [ ] muddy
 
 > **解析**：`it seems like...` 为口语判断短语，意为“似乎/看起来……”，引导表象推断从句。
 

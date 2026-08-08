@@ -66,31 +66,31 @@ worth = 值得。can / can't 表能力/可能。
    > **解析**：amount 为名词，意为“数量、金额”。常用搭配 a considerable amount of + 不可数名词（money）。
 
 2. **中文**：我无法决定这两件夹克中哪一件我穿起来更好看。  
-   **英文**：I can't decide which of these two jackets looks better on me for bargain.
+   **英文**：I can't decide which of these two jackets looks better on me.
    > **解析**：can't 为情态动词 can 的否定缩写，表示“不能、无法”，后接动词原形 decide。
 
 3. **中文**：这双皮鞋非常合脚，所以我要买了。  
-   **英文**：These leather shoes fit perfectly, so I will take them for bill.
+   **英文**：These leather shoes fit perfectly, so I will take them.
    > **解析**：fit 在此处作不及物动词，意为“合身、合适”。修饰词为副词 perfectly。
 
 4. **中文**：店内每件折扣商品均附带两年保修期。  
-   **英文**：Every discounted item in the store comes with a two-year warranty for can.
+   **英文**：Every discounted item in the store comes with a two-year warranty.
    > **解析**：item 为可数名词，指“单件商品、物品”。discounted item 指折扣商品。
 
 5. **中文**：抓紧时间，因为适合你尺码的黑色大衣只剩下两件了！  
-   **英文**：Hurry up because there are only two black coats left in your size (can't).
+   **英文**：Hurry up because there are only two black coats left in your size.
    > **解析**：left 是 leave 的过去分词，在此处用作后置定语，意为“剩下的”（there are only two left）。
 
 6. **中文**：这张手工木桌要多少钱？  
-   **英文**：How much does this handcrafted wooden table cost? for cart.
+   **英文**：How much does this handcrafted wooden table cost.
    > **解析**：much 在此处用于疑问短语 how much，用于询问不可数概念的价格或数量。
 
 7. **中文**：你不应该把所有积蓄都花在奢侈设计师商品上。  
-   **英文**：You shouldn't spend all your savings on luxury designer goods for check.
+   **英文**：You shouldn't spend all your savings on luxury designer goods.
    > **解析**：shouldn't 为情态动词 should not 的缩写，表示“不应该”，用于提出购物建议。
 
 8. **中文**：以半价买到这部全新手机真是太划算了！  
-   **英文**：Getting this brand-new phone at half price was a real bargain for fit.
+   **英文**：Getting this brand-new phone at half price was a real bargain.
    > **解析**：bargain 在此处作可数名词，意为“便宜货、划算的买卖”。a real bargain 意为“真划算”。
 
 9. **中文**：请将您喜欢的商品添加到您的在线购物车中。  
@@ -98,7 +98,7 @@ worth = 值得。can / can't 表能力/可能。
    > **解析**：cart 为可数名词，意为“手推车、购物车”。shopping cart 即购物车。
 
 10. **中文**：我更喜欢买能穿很多年的高品质衣服。  
-   **英文**：I prefer to buy high quality clothes that last for years.
+   **英文**：I prefer to buy high quality clothes that last.
    > **解析**：high quality 为复合形容词/名词短语，意为“高质量的/优质的”，作前置定语修饰 clothes。
 
 </quiz-sentence-builder>
@@ -108,31 +108,31 @@ worth = 值得。can / can't 表能力/可能。
 1. She spent a considerable amount of money on clothing during the seasonal sale.
    > **中文**：在换季大促期间，她在衣服上花了大笔资金。
 
-2. I can't decide which of these two jackets looks better on me for bargain.
+2. I can't decide which of these two jackets looks better on me.
    > **中文**：我无法决定这两件夹克中哪一件我穿起来更好看。
 
-3. These leather shoes fit perfectly, so I will take them for bill.
+3. These leather shoes fit perfectly, so I will take them.
    > **中文**：这双皮鞋非常合脚，所以我要买了。
 
-4. Every discounted item in the store comes with a two-year warranty for can.
+4. Every discounted item in the store comes with a two-year warranty.
    > **中文**：店内每件折扣商品均附带两年保修期。
 
-5. Hurry up because there are only two black coats left in your size (can't).
+5. Hurry up because there are only two black coats left in your size.
    > **中文**：抓紧时间，因为适合你尺码的黑色大衣只剩下两件了！
 
-6. How much does this handcrafted wooden table cost? for cart.
+6. How much does this handcrafted wooden table cost.
    > **中文**：这张手工木桌要多少钱？
 
-7. You shouldn't spend all your savings on luxury designer goods for check.
+7. You shouldn't spend all your savings on luxury designer goods.
    > **中文**：你不应该把所有积蓄都花在奢侈设计师商品上。
 
-8. Getting this brand-new phone at half price was a real bargain for fit.
+8. Getting this brand-new phone at half price was a real bargain.
    > **中文**：以半价买到这部全新手机真是太划算了！
 
 9. Please add the items you like to your online shopping cart (fitting room).
    > **中文**：请将您喜欢的商品添加到您的在线购物车中。
 
-10. I prefer to buy high quality clothes that last for years.
+10. I prefer to buy high quality clothes that last.
    > **中文**：我更喜欢买能穿很多年的高品质衣服。
 
 </quiz-listening>
@@ -148,98 +148,98 @@ worth = 值得。can / can't 表能力/可能。
 She spent a considerable `____` of money on clothing during the seasonal sale.
 
 - [x] amount
-- [ ] can
-- [ ] check
+- [ ] bargain
+- [ ] cart
 
 > **解析**：amount 为名词，意为“数量、金额”。常用搭配 a considerable amount of + 不可数名词（money）。
 
 ### 2
 
-I can't decide which of these two jackets looks better on me for `____`.
+I `____`'t decide which of these two jackets looks better on me.
 
-- [x] bargain
-- [ ] can't
-- [ ] fit
+- [x] can
+- [ ] bargain
+- [ ] check
 
 > **解析**：can't 为情态动词 can 的否定缩写，表示“不能、无法”，后接动词原形 decide。
 
 ### 3
 
-These leather shoes fit perfectly, so I will take them for `____`.
+These leather shoes `____` perfectly, so I will take them.
 
-- [x] bill
-- [ ] cart
-- [ ] fitting room
+- [x] fit
+- [ ] bill
+- [ ] check
 
 > **解析**：fit 在此处作不及物动词，意为“合身、合适”。修饰词为副词 perfectly。
 
 ### 4
 
-Every discounted item in the store comes with a two-year warranty for `____`.
+Every discounted `____` in the store comes with a two-year warranty.
 
-- [x] can
-- [ ] check
-- [ ] high quality
+- [x] item
+- [ ] can
+- [ ] fit
 
 > **解析**：item 为可数名词，指“单件商品、物品”。discounted item 指折扣商品。
 
 ### 5
 
-Hurry up because there are only two black coats left in your size (`____`).
+Hurry up because there are only two black coats `____` in your size.
 
-- [x] can't
-- [ ] fit
-- [ ] amount
+- [x] left
+- [ ] can't
+- [ ] fitting room
 
 > **解析**：left 是 leave 的过去分词，在此处用作后置定语，意为“剩下的”（there are only two left）。
 
 ### 6
 
-How much does this handcrafted wooden table cost? for `____`.
+How `____` does this handcrafted wooden table cost.
 
-- [x] cart
-- [ ] fitting room
-- [ ] bargain
+- [x] much
+- [ ] cart
+- [ ] high quality
 
 > **解析**：much 在此处用于疑问短语 how much，用于询问不可数概念的价格或数量。
 
 ### 7
 
-You shouldn't spend all your savings on luxury designer goods for `____`.
+You `____` spend all your savings on luxury designer goods.
 
-- [x] check
-- [ ] high quality
-- [ ] bill
+- [x] shouldn't
+- [ ] check
+- [ ] inexpensive
 
 > **解析**：shouldn't 为情态动词 should not 的缩写，表示“不应该”，用于提出购物建议。
 
 ### 8
 
-Getting this brand-new phone at half price was a real bargain for `____`.
+Getting this brand-new phone at half price was a real `____`.
 
-- [x] fit
-- [ ] amount
-- [ ] can
+- [x] bargain
+- [ ] fitting room
+- [ ] jewelry store
 
 > **解析**：bargain 在此处作可数名词，意为“便宜货、划算的买卖”。a real bargain 意为“真划算”。
 
 ### 9
 
-Please add the items you like to your online shopping cart (`____`).
+Please add the items you like to your online shopping `____` (fitting room).
 
-- [x] fitting room
-- [ ] bargain
-- [ ] can't
+- [x] cart
+- [ ] high quality
+- [ ] knowing
 
 > **解析**：cart 为可数名词，意为“手推车、购物车”。shopping cart 即购物车。
 
 ### 10
 
-I prefer to buy `____` clothes that last for years.
+I prefer to buy `____` clothes that last.
 
 - [x] high quality
-- [ ] bill
-- [ ] cart
+- [ ] inexpensive
+- [ ] left
 
 > **解析**：high quality 为复合形容词/名词短语，意为“高质量的/优质的”，作前置定语修饰 clothes。
 

@@ -74,7 +74,7 @@ a steal, bargain hunter, been, been worn, deal, do you happen to, dusty, empty o
    > **解析**：`a steal` 是口语俚语，意为“极其划算的东西、便宜得像捡到的东西”，在句中作表语。
 
 3. **中文**：作为一名有经验的搜寻便宜货的人，他总能在车库售卖中找到最划算的好物。  
-   **英文**：As an experienced bargain hunter, he always finds the best deals at garage sales for been.
+   **英文**：As an experienced bargain hunter, he always finds the best deals at garage sales.
    > **解析**：`bargain hunter` 指“到处搜寻便宜货的人”，由 `bargain`（便宜货）+ `hunter`（猎人）复合而成。
 
 4. **中文**：他在跳蚤市场买了一张满是灰尘的木桌，并将它精美地修复了。  
@@ -82,7 +82,7 @@ a steal, bargain hunter, been, been worn, deal, do you happen to, dusty, empty o
    > **解析**：`restore` 是动词，意为“修复、还原（旧物/古董）”，区别于一般的修理 `repair`，强调恢复原貌。
 
 5. **中文**：这家店里的二手物品价格都很合理，而且状况良好。  
-   **英文**：The secondhand items in this shop are all reasonably priced and in good condition for deal.
+   **英文**：The secondhand items in this shop are all reasonably priced and in good condition.
    > **解析**：`reasonably priced` 是复合形容词，意为“价格合理的”，由副词 `reasonably` 修饰过去分词 `priced`。
 
 6. **中文**：他们花了一整个上午清理阁楼里所有没用的破烂杂物。  
@@ -90,7 +90,7 @@ a steal, bargain hunter, been, been worn, deal, do you happen to, dusty, empty o
    > **解析**：`junk` 是不可数名词，意为“废旧杂物、破烂”，在句中作动词 `cleaning out` 的宾语。
 
 7. **中文**：在网上出售不需要的家居用品是赚取额外收入的好方法。  
-   **英文**：Selling unwanted household goods online is a great way to earn extra money for dusty.
+   **英文**：Selling unwanted household goods online is a great way to earn extra money.
    > **解析**：`unwanted` 是前缀 `un-` + `wanted` 构成的形容词，意为“多余的、不需要的”，作定语修饰 `goods`。
 
 8. **中文**：二十美元是我的最终出价，要不要随你。  
@@ -102,7 +102,7 @@ a steal, bargain hunter, been, been worn, deal, do you happen to, dusty, empty o
    > **解析**：`dusty` 是形容词，意为“布满灰尘的”，由名词 `dust` 加后缀 `-y` 构成。
 
 10. **中文**：尽管这沙发已有十年历史，但它的状况依然非常好。  
-   **英文**：Even though the sofa is ten years old, it is still in excellent shape for fur.
+   **英文**：Even though the sofa is ten years old, it is still in excellent shape.
    > **解析**：`in (good) shape` 是固定介词短语，意为“状况良好/保养得好”，也可指人身体健康状况好。
 
 </quiz-sentence-builder>
@@ -115,19 +115,19 @@ a steal, bargain hunter, been, been worn, deal, do you happen to, dusty, empty o
 2. Getting this vintage leather jacket for only ten dollars was an absolute steal (bargain hunter).
    > **中文**：仅花十美元就买到这件复古皮夹克简直是太划算了。
 
-3. As an experienced bargain hunter, he always finds the best deals at garage sales for been.
+3. As an experienced bargain hunter, he always finds the best deals at garage sales.
    > **中文**：作为一名有经验的搜寻便宜货的人，他总能在车库售卖中找到最划算的好物。
 
 4. He bought a dusty wooden desk at the flea market and restored it beautifully (been worn).
    > **中文**：他在跳蚤市场买了一张满是灰尘的木桌，并将它精美地修复了。
 
-5. The secondhand items in this shop are all reasonably priced and in good condition for deal.
+5. The secondhand items in this shop are all reasonably priced and in good condition.
    > **中文**：这家店里的二手物品价格都很合理，而且状况良好。
 
 6. They spent the entire morning cleaning out all the unwanted junk in the attic (do you happen to).
    > **中文**：他们花了一整个上午清理阁楼里所有没用的破烂杂物。
 
-7. Selling unwanted household goods online is a great way to earn extra money for dusty.
+7. Selling unwanted household goods online is a great way to earn extra money.
    > **中文**：在网上出售不需要的家居用品是赚取额外收入的好方法。
 
 8. Twenty dollars is my final offer, so take it or leave it (empty out).
@@ -136,7 +136,7 @@ a steal, bargain hunter, been, been worn, deal, do you happen to, dusty, empty o
 9. She wiped the dusty shelves before putting the books back in order (final offer).
    > **中文**：在把书放回原位之前，她擦拭了满是灰尘的架子。
 
-10. Even though the sofa is ten years old, it is still in excellent shape for fur.
+10. Even though the sofa is ten years old, it is still in excellent shape.
    > **中文**：尽管这沙发已有十年历史，但它的状况依然非常好。
 
 </quiz-listening>
@@ -152,8 +152,8 @@ a steal, bargain hunter, been, been worn, deal, do you happen to, dusty, empty o
 She decided to empty out her old bedroom closet and donate unused clothes (`____`).
 
 - [x] a steal
-- [ ] been worn
-- [ ] dusty
+- [ ] bargain hunter
+- [ ] do you happen to
 
 > **解析**：`empty out` 是动词短语，意为“清空、腾空”，在句中作不定式 `to empty out` 的核心词。
 
@@ -162,38 +162,38 @@ She decided to empty out her old bedroom closet and donate unused clothes (`____
 Getting this vintage leather jacket for only ten dollars was an absolute steal (`____`).
 
 - [x] bargain hunter
-- [ ] deal
-- [ ] empty out
+- [ ] been
+- [ ] dusty
 
 > **解析**：`a steal` 是口语俚语，意为“极其划算的东西、便宜得像捡到的东西”，在句中作表语。
 
 ### 3
 
-As an experienced bargain hunter, he always finds the best deals at garage sales for `____`.
+As an experienced bargain hunter, he always finds the best `____`s at garage sales.
 
-- [x] been
-- [ ] do you happen to
-- [ ] final offer
+- [x] deal
+- [ ] been
+- [ ] empty out
 
 > **解析**：`bargain hunter` 指“到处搜寻便宜货的人”，由 `bargain`（便宜货）+ `hunter`（猎人）复合而成。
 
 ### 4
 
-He bought a dusty wooden desk at the flea market and restored it beautifully (`____`).
+He bought a dusty wooden desk at the flea market and restored it beautifully (`____` worn).
 
-- [x] been worn
-- [ ] dusty
-- [ ] fur
+- [x] been
+- [ ] deal
+- [ ] final offer
 
 > **解析**：`restore` 是动词，意为“修复、还原（旧物/古董）”，区别于一般的修理 `repair`，强调恢复原貌。
 
 ### 5
 
-The secondhand items in this shop are all reasonably priced and in good condition for `____`.
+The secondhand items in this shop are all `____` and in good condition.
 
-- [x] deal
-- [ ] empty out
-- [ ] a steal
+- [x] reasonably priced
+- [ ] deal
+- [ ] final offer
 
 > **解析**：`reasonably priced` 是复合形容词，意为“价格合理的”，由副词 `reasonably` 修饰过去分词 `priced`。
 
@@ -202,18 +202,18 @@ The secondhand items in this shop are all reasonably priced and in good conditio
 They spent the entire morning cleaning out all the unwanted junk in the attic (`____`).
 
 - [x] do you happen to
-- [ ] final offer
-- [ ] bargain hunter
+- [ ] dusty
+- [ ] handle
 
 > **解析**：`junk` 是不可数名词，意为“废旧杂物、破烂”，在句中作动词 `cleaning out` 的宾语。
 
 ### 7
 
-Selling unwanted household goods online is a great way to earn extra money for `____`.
+Selling `____` household goods online is a great way to earn extra money.
 
-- [x] dusty
-- [ ] fur
-- [ ] been
+- [x] unwanted
+- [ ] dusty
+- [ ] handle
 
 > **解析**：`unwanted` 是前缀 `un-` + `wanted` 构成的形容词，意为“多余的、不需要的”，作定语修饰 `goods`。
 
@@ -222,28 +222,28 @@ Selling unwanted household goods online is a great way to earn extra money for `
 Twenty dollars is my final offer, so take it or leave it (`____`).
 
 - [x] empty out
-- [ ] a steal
-- [ ] been worn
+- [ ] final offer
+- [ ] last
 
 > **解析**：`final offer` 指讨价还价中的“最终出价/底价”，短语 `take it or leave it` 意为“接受还是放弃”。
 
 ### 9
 
-She wiped the dusty shelves before putting the books back in order (`____`).
+She wiped the `____` shelves before putting the books back in order (final offer).
 
-- [x] final offer
-- [ ] bargain hunter
-- [ ] deal
+- [x] dusty
+- [ ] fur
+- [ ] lid
 
 > **解析**：`dusty` 是形容词，意为“布满灰尘的”，由名词 `dust` 加后缀 `-y` 构成。
 
 ### 10
 
-Even though the sofa is ten years old, it is still in excellent shape for `____`.
+Even though the sofa is ten years old, it is still in excellent `____`.
 
-- [x] fur
-- [ ] been
-- [ ] do you happen to
+- [x] shape
+- [ ] fur
+- [ ] lid
 
 > **解析**：`in (good) shape` 是固定介词短语，意为“状况良好/保养得好”，也可指人身体健康状况好。
 

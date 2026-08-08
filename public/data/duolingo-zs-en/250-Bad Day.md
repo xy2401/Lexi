@@ -76,7 +76,7 @@ must have / must not have 是对过去事情的推测："一定是……""一定
 <quiz-sentence-builder>
 
 1. **中文**：微小的会计错误可能引发巨大的财务损失。  
-   **英文**：Small accounting errors can lead to big financial losses for anybody.
+   **英文**：Small accounting errors can lead to big financial losses.
    > **解析**：`error` 是可数名词，意为“错误、失误”，作主语。
 
 2. **中文**：机器运行得很糟糕，因为它一直没有得到保养。  
@@ -84,11 +84,11 @@ must have / must not have 是对过去事情的推测："一定是……""一定
    > **解析**：`badly` 是副词，修饰不及物动词 `performed`，意为“糟糕地”。
 
 3. **中文**：你一定是无意中把钥匙忘在办公室桌上了。  
-   **英文**：You must have left your keys on the office desk by mistake for break.
+   **英文**：You must have left your keys on the office desk by mistake.
    > **解析**：`must have + 过去分词` 表示对过去事情的肯定推测（一定做过）。
 
 4. **中文**：我们所有人偶尔都会犯些小错，所以不要泄气。  
-   **英文**：We all make minor mistakes from time to time, so don't be discouraged for calculator.
+   **英文**：We all make minor mistakes from time to time, so don't be discouraged.
    > **解析**：`from time to time` 是时间副词短语，意为“偶尔、有时”。
 
 5. **中文**：我好几年没打网球了，所以现在完全生疏了。  
@@ -96,19 +96,19 @@ must have / must not have 是对过去事情的推测："一定是……""一定
    > **解析**：`be out of practice` 是固定短语，意为“生疏的、缺少练习的”。
 
 6. **中文**：今天早上她费了好大劲才找到丢失的报告。  
-   **英文**：She had a hard time finding the missing report this morning for cheer.
+   **英文**：She had a hard time finding the missing report this morning.
    > **解析**：`have a hard time doing sth` 是固定搭配，意为“做某事很费劲/有困难”。
 
 7. **中文**：幸好我们在服务器崩溃前备份了文件。  
-   **英文**：It's a good thing that we backed up the files before the server crashed for effort.
+   **英文**：It's a good thing that we backed up the files before the server crashed.
    > **解析**：`it's a good thing that...` 是口语习惯表达，意为“幸亏/幸好……”。
 
 8. **中文**：尽管他尽了最大努力，但他没能修好那个坏掉的托盘。  
-   **英文**：Despite his best efforts, he couldn't fix the broken tray for error.
+   **英文**：Despite his best efforts, he couldn't fix the broken tray.
    > **解析**：`effort` 作名词，意为“努力”，短语 `despite one's best efforts`。
 
 9. **中文**：今天对客服团队来说是艰难的一天。  
-   **英文**：It has been a tough day for the customer service team for everybody.
+   **英文**：It has been a tough day for the customer service team.
    > **解析**：`tough` 是形容词，意为“艰难的、棘手的”，修饰名词 `day`。
 
 10. **中文**：那个可怜的小家伙整个早晨都在寒雨中发抖。  
@@ -119,31 +119,31 @@ must have / must not have 是对过去事情的推测："一定是……""一定
 
 <quiz-listening>
 
-1. Small accounting errors can lead to big financial losses for anybody.
+1. Small accounting errors can lead to big financial losses.
    > **中文**：微小的会计错误可能引发巨大的财务损失。
 
 2. The machine performed badly because it had not been serviced.
    > **中文**：机器运行得很糟糕，因为它一直没有得到保养。
 
-3. You must have left your keys on the office desk by mistake for break.
+3. You must have left your keys on the office desk by mistake.
    > **中文**：你一定是无意中把钥匙忘在办公室桌上了。
 
-4. We all make minor mistakes from time to time, so don't be discouraged for calculator.
+4. We all make minor mistakes from time to time, so don't be discouraged.
    > **中文**：我们所有人偶尔都会犯些小错，所以不要泄气。
 
 5. I haven't played tennis for years, so I am completely out of practice (catch up).
    > **中文**：我好几年没打网球了，所以现在完全生疏了。
 
-6. She had a hard time finding the missing report this morning for cheer.
+6. She had a hard time finding the missing report this morning.
    > **中文**：今天早上她费了好大劲才找到丢失的报告。
 
-7. It's a good thing that we backed up the files before the server crashed for effort.
+7. It's a good thing that we backed up the files before the server crashed.
    > **中文**：幸好我们在服务器崩溃前备份了文件。
 
-8. Despite his best efforts, he couldn't fix the broken tray for error.
+8. Despite his best efforts, he couldn't fix the broken tray.
    > **中文**：尽管他尽了最大努力，但他没能修好那个坏掉的托盘。
 
-9. It has been a tough day for the customer service team for everybody.
+9. It has been a tough day for the customer service team.
    > **中文**：今天对客服团队来说是艰难的一天。
 
 10. The poor thing was shivering in the cold rain all morning (from time to time).
@@ -159,11 +159,11 @@ must have / must not have 是对过去事情的推测："一定是……""一定
 
 ### 1
 
-Small accounting errors can lead to big financial losses for `____`.
+Small accounting `____`s can lead to big financial losses.
 
-- [x] anybody
-- [ ] calculator
-- [ ] effort
+- [x] error
+- [ ] anybody
+- [ ] catch up
 
 > **解析**：`error` 是可数名词，意为“错误、失误”，作主语。
 
@@ -172,28 +172,28 @@ Small accounting errors can lead to big financial losses for `____`.
 The machine performed `____` because it had not been serviced.
 
 - [x] badly
-- [ ] catch up
-- [ ] error
+- [ ] break
+- [ ] effort
 
 > **解析**：`badly` 是副词，修饰不及物动词 `performed`，意为“糟糕地”。
 
 ### 3
 
-You must have left your keys on the office desk by mistake for `____`.
+You `____` have left your keys on the office desk by mistake.
 
-- [x] break
-- [ ] cheer
-- [ ] everybody
+- [x] must
+- [ ] break
+- [ ] effort
 
 > **解析**：`must have + 过去分词` 表示对过去事情的肯定推测（一定做过）。
 
 ### 4
 
-We all make minor mistakes from time to time, so don't be discouraged for `____`.
+We all make minor mistakes `____`, so don't be discouraged.
 
-- [x] calculator
-- [ ] effort
-- [ ] from time to time
+- [x] from time to time
+- [ ] calculator
+- [ ] error
 
 > **解析**：`from time to time` 是时间副词短语，意为“偶尔、有时”。
 
@@ -202,58 +202,58 @@ We all make minor mistakes from time to time, so don't be discouraged for `____`
 I haven't played tennis for years, so I am completely out of practice (`____`).
 
 - [x] catch up
-- [ ] error
-- [ ] anybody
+- [ ] cheer
+- [ ] from time to time
 
 > **解析**：`be out of practice` 是固定短语，意为“生疏的、缺少练习的”。
 
 ### 6
 
-She had a hard time finding the missing report this morning for `____`.
+She had a `____` finding the missing report this morning.
 
-- [x] cheer
-- [ ] everybody
-- [ ] badly
+- [x] hard time
+- [ ] cheer
+- [ ] from time to time
 
 > **解析**：`have a hard time doing sth` 是固定搭配，意为“做某事很费劲/有困难”。
 
 ### 7
 
-It's a good thing that we backed up the files before the server crashed for `____`.
+`____` that we backed up the files before the server crashed.
 
-- [x] effort
-- [ ] from time to time
-- [ ] break
+- [x] it's a good thing
+- [ ] effort
+- [ ] hard time
 
 > **解析**：`it's a good thing that...` 是口语习惯表达，意为“幸亏/幸好……”。
 
 ### 8
 
-Despite his best efforts, he couldn't fix the broken tray for `____`.
+Despite his best `____`s, he couldn't fix the broken tray.
 
-- [x] error
-- [ ] anybody
-- [ ] calculator
+- [x] effort
+- [ ] everybody
+- [ ] it's a good thing
 
 > **解析**：`effort` 作名词，意为“努力”，短语 `despite one's best efforts`。
 
 ### 9
 
-It has been a tough day for the customer service team for `____`.
+It has been a `____` day for the customer service team.
 
-- [x] everybody
-- [ ] badly
-- [ ] catch up
+- [x] tough
+- [ ] everybody
+- [ ] it's a good thing
 
 > **解析**：`tough` 是形容词，意为“艰难的、棘手的”，修饰名词 `day`。
 
 ### 10
 
-The poor thing was shivering in the cold rain all morning (`____`).
+The `____` was shivering in the cold rain all morning (from time to time).
 
-- [x] from time to time
-- [ ] break
-- [ ] cheer
+- [x] poor thing
+- [ ] from time to time
+- [ ] must
 
 > **解析**：`poor thing` 是日常口语表达，意为“可怜的人/可怜的小家伙”。
 

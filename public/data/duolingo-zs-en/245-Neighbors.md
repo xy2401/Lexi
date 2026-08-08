@@ -84,11 +84,11 @@ the problem is / the issue is 是引出抱怨的经典句式。get carried away�
    > **解析**：`bizarre` 是形容词，意为“极其古怪的、怪诞的”，修饰 `habit`。
 
 2. **中文**：她经常在深夜播放大声的音乐。  
-   **英文**：She constantly plays loud music late into the night for bizarre.
+   **英文**：She constantly plays loud music late into the night.
    > **解析**：`constantly` 是副词，意为“不断地、经常地”，修饰动词 `plays`。
 
 3. **中文**：在工作日晚上制造这么大的噪音简直是令人不能容忍。  
-   **英文**：Making so much noise on a weekday evening is simply outrageous for constantly.
+   **英文**：Making so much noise on a weekday evening is simply outrageous.
    > **解析**：`outrageous` 是形容词，意为“令人不能容忍的、过分的”，作表语。
 
 4. **中文**：我们安装了木栅栏以保护我们家庭的隐私。  
@@ -96,11 +96,11 @@ the problem is / the issue is 是引出抱怨的经典句式。get carried away�
    > **解析**：`privacy` 是不可数名词，意为“隐私”，搭配 `protect privacy`。
 
 5. **中文**：坦白讲，我不明白他为什么对每个人都态度如此挑衅。  
-   **英文**：Frankly, I don't understand why he acts so aggressively towards everyone for driveway.
+   **英文**：Frankly, I don't understand why he acts so aggressively towards everyone.
    > **解析**：`frankly` 是评注性副词，意为“坦白说、老实说”，常置于句首。
 
 6. **中文**：问题在于他的狗整天叫个不停。  
-   **英文**：The problem is that his dog barks all day long without stopping for endless.
+   **英文**：The problem is that his dog barks all day long without stopping.
    > **解析**：`the problem is that...` 是用于指出问题所在的主从复合句型。
 
 7. **中文**：他在争吵中情绪失控，开始在车道上大喊大叫。  
@@ -108,7 +108,7 @@ the problem is / the issue is 是引出抱怨的经典句式。get carried away�
    > **解析**：`get carried away` 是固定短语，意为“情绪失控、做过头”。
 
 8. **中文**：邻居们应当为保持公共区域的清洁承担责任。  
-   **英文**：Neighbors should take responsibility for keeping the shared area clean for frankly.
+   **英文**：Neighbors should take responsibility for keeping the shared area clean.
    > **解析**：`take responsibility for...` 是固定短语，意为“对……承担责任”。
 
 9. **中文**：自昨天起，一辆奇怪的红色轿车就一直停在我们的车道上。  
@@ -126,25 +126,25 @@ the problem is / the issue is 是引出抱怨的经典句式。get carried away�
 1. Our next-door neighbor has a bizarre habit of watering his lawn at midnight (a piece of).
    > **中文**：我们的隔壁邻居有个午夜给草坪浇水的怪异习惯。
 
-2. She constantly plays loud music late into the night for bizarre.
+2. She constantly plays loud music late into the night.
    > **中文**：她经常在深夜播放大声的音乐。
 
-3. Making so much noise on a weekday evening is simply outrageous for constantly.
+3. Making so much noise on a weekday evening is simply outrageous.
    > **中文**：在工作日晚上制造这么大的噪音简直是令人不能容忍。
 
 4. We installed a wooden fence to protect our family's privacy (cool down).
    > **中文**：我们安装了木栅栏以保护我们家庭的隐私。
 
-5. Frankly, I don't understand why he acts so aggressively towards everyone for driveway.
+5. Frankly, I don't understand why he acts so aggressively towards everyone.
    > **中文**：坦白讲，我不明白他为什么对每个人都态度如此挑衅。
 
-6. The problem is that his dog barks all day long without stopping for endless.
+6. The problem is that his dog barks all day long without stopping.
    > **中文**：问题在于他的狗整天叫个不停。
 
 7. He got carried away during the argument and started shouting at the driveway (fire department).
    > **中文**：他在争吵中情绪失控，开始在车道上大喊大叫。
 
-8. Neighbors should take responsibility for keeping the shared area clean for frankly.
+8. Neighbors should take responsibility for keeping the shared area clean.
    > **中文**：邻居们应当为保持公共区域的清洁承担责任。
 
 9. A strange red car has been parked on our driveway since yesterday (get carried away).
@@ -166,28 +166,28 @@ the problem is / the issue is 是引出抱怨的经典句式。get carried away�
 Our next-door neighbor has a bizarre habit of watering his lawn at midnight (`____`).
 
 - [x] a piece of
-- [ ] cool down
-- [ ] fire department
+- [ ] bizarre
+- [ ] endless
 
 > **解析**：`bizarre` 是形容词，意为“极其古怪的、怪诞的”，修饰 `habit`。
 
 ### 2
 
-She constantly plays loud music late into the night for `____`.
+She `____` plays loud music late into the night.
 
-- [x] bizarre
-- [ ] driveway
-- [ ] frankly
+- [x] constantly
+- [ ] bizarre
+- [ ] fire department
 
 > **解析**：`constantly` 是副词，意为“不断地、经常地”，修饰动词 `plays`。
 
 ### 3
 
-Making so much noise on a weekday evening is simply outrageous for `____`.
+Making so much noise on a weekday evening is simply `____`.
 
-- [x] constantly
-- [ ] endless
-- [ ] get carried away
+- [x] outrageous
+- [ ] constantly
+- [ ] fire department
 
 > **解析**：`outrageous` 是形容词，意为“令人不能容忍的、过分的”，作表语。
 
@@ -196,48 +196,48 @@ Making so much noise on a weekday evening is simply outrageous for `____`.
 We installed a wooden fence to protect our family's privacy (`____`).
 
 - [x] cool down
-- [ ] fire department
-- [ ] i don't think
+- [ ] driveway
+- [ ] get carried away
 
 > **解析**：`privacy` 是不可数名词，意为“隐私”，搭配 `protect privacy`。
 
 ### 5
 
-Frankly, I don't understand why he acts so aggressively towards everyone for `____`.
+`____`, I don't understand why he acts so aggressively towards everyone.
 
-- [x] driveway
-- [ ] frankly
-- [ ] a piece of
+- [x] frankly
+- [ ] driveway
+- [ ] i don't think
 
 > **解析**：`frankly` 是评注性副词，意为“坦白说、老实说”，常置于句首。
 
 ### 6
 
-The problem is that his dog barks all day long without stopping for `____`.
+`____` that his dog barks all day long without stopping.
 
-- [x] endless
-- [ ] get carried away
-- [ ] bizarre
+- [x] the problem is
+- [ ] endless
+- [ ] i don't think
 
 > **解析**：`the problem is that...` 是用于指出问题所在的主从复合句型。
 
 ### 7
 
-He got carried away during the argument and started shouting at the driveway (`____`).
+He got carried away during the argument and started shouting at the `____` (fire department).
 
-- [x] fire department
-- [ ] i don't think
-- [ ] constantly
+- [x] driveway
+- [ ] frankly
+- [ ] keep
 
 > **解析**：`get carried away` 是固定短语，意为“情绪失控、做过头”。
 
 ### 8
 
-Neighbors should take responsibility for keeping the shared area clean for `____`.
+Neighbors should take responsibility for `____`ing the shared area clean.
 
-- [x] frankly
-- [ ] a piece of
-- [ ] cool down
+- [x] keep
+- [ ] frankly
+- [ ] mailbox
 
 > **解析**：`take responsibility for...` 是固定短语，意为“对……承担责任”。
 
@@ -246,8 +246,8 @@ Neighbors should take responsibility for keeping the shared area clean for `____
 A strange red car has been parked on our driveway since yesterday (`____`).
 
 - [x] get carried away
-- [ ] bizarre
-- [ ] driveway
+- [ ] i don't think
+- [ ] not to mention
 
 > **解析**：`driveway` 是名词，意为“私人车道”，介词用 `on`。
 
@@ -256,8 +256,8 @@ A strange red car has been parked on our driveway since yesterday (`____`).
 I would appreciate it if you could turn down the volume of your TV (`____`).
 
 - [x] i don't think
-- [ ] constantly
-- [ ] endless
+- [ ] in tears
+- [ ] outrageous
 
 > **解析**：`would appreciate it if...` 是极具礼貌委婉色彩的常用请求句型。
 

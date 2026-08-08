@@ -58,11 +58,11 @@ have been / have not been / haven't been / has / been 构成现在完成时，�
    > **解析**：gas station 名词短语，意为“加油站”（美式英语），英式英语多用 petrol station。
 
 2. **中文**：司机注意到轮胎爆胎了，便把车停在了路边。  
-   **英文**：The driver noticed a flat tire and pulled over to the side of the road for been.
+   **英文**：The driver noticed a flat tire and pulled over to the side of the road.
    > **解析**：flat tire 名词短语，意为“漏气的轮胎；爆胎”，flat 意为“瘪的”。
 
 3. **中文**：请把你所有的沉重行李放进汽车后备箱。  
-   **英文**：Please put all your heavy luggage into the trunk of the car for brake.
+   **英文**：Please put all your heavy luggage into the trunk of the car.
    > **解析**：trunk 可数名词，在此意为“汽车后备箱”（美式），英式为 boot。
 
 4. **中文**：接近红灯时，请轻踩煞车踏板。  
@@ -82,7 +82,7 @@ have been / have not been / haven't been / has / been 构成现在完成时，�
    > **解析**：headlight 可数名词，常用复数 headlights，意为“（汽车）前大灯”。
 
 8. **中文**：我们在机场服务柜台领取了租来的汽车。  
-   **英文**：We picked up our rental car at the airport service counter for has.
+   **英文**：We picked up our rental car at the airport service counter.
    > **解析**：rental car 名词短语，意为“租赁汽车；出租车”，rental 作定语修饰 car。
 
 9. **中文**：机修工建议每五千英里做一次定期机油更换。  
@@ -100,10 +100,10 @@ have been / have not been / haven't been / has / been 构成现在完成时，�
 1. We need to stop at the next gas station to fill up the tank (back seat).
    > **中文**：我们需要在下一个加油站停靠加满油箱。
 
-2. The driver noticed a flat tire and pulled over to the side of the road for been.
+2. The driver noticed a flat tire and pulled over to the side of the road.
    > **中文**：司机注意到轮胎爆胎了，便把车停在了路边。
 
-3. Please put all your heavy luggage into the trunk of the car for brake.
+3. Please put all your heavy luggage into the trunk of the car.
    > **中文**：请把你所有的沉重行李放进汽车后备箱。
 
 4. Press the brake pedal gently when you approach the red traffic light (car wash).
@@ -118,7 +118,7 @@ have been / have not been / haven't been / has / been 构成现在完成时，�
 7. You should turn on your headlights when driving through the dark tunnel (gas station).
    > **中文**：穿过黑暗隧道时，你应该打开车前大灯。
 
-8. We picked up our rental car at the airport service counter for has.
+8. We picked up our rental car at the airport service counter.
    > **中文**：我们在机场服务柜台领取了租来的汽车。
 
 9. The mechanic recommended a regular oil change every five thousand miles (have been).
@@ -140,48 +140,48 @@ have been / have not been / haven't been / has / been 构成现在完成时，�
 We need to stop at the next gas station to fill up the tank (`____`).
 
 - [x] back seat
-- [ ] car wash
-- [ ] gas station
+- [ ] been
+- [ ] front seat
 
 > **解析**：gas station 名词短语，意为“加油站”（美式英语），英式英语多用 petrol station。
 
 ### 2
 
-The driver noticed a flat tire and pulled over to the side of the road for `____`.
+The driver noticed a `____` and pulled over to the side of the road.
 
-- [x] been
-- [ ] flat tire
-- [ ] has
+- [x] flat tire
+- [ ] been
+- [ ] gas station
 
 > **解析**：flat tire 名词短语，意为“漏气的轮胎；爆胎”，flat 意为“瘪的”。
 
 ### 3
 
-Please put all your heavy luggage into the trunk of the car for `____`.
+Please put all your heavy luggage into the `____` of the car.
 
-- [x] brake
-- [ ] front seat
-- [ ] have been
+- [x] trunk
+- [ ] brake
+- [ ] gas station
 
 > **解析**：trunk 可数名词，在此意为“汽车后备箱”（美式），英式为 boot。
 
 ### 4
 
-Press the brake pedal gently when you approach the red traffic light (`____`).
+Press the `____` pedal gently when you approach the red traffic light (car wash).
 
-- [x] car wash
-- [ ] gas station
-- [ ] have not been
+- [x] brake
+- [ ] flat tire
+- [ ] have been
 
 > **解析**：brake 可作名词或动词，在此作名词意为“刹车；制动器”。
 
 ### 5
 
-He used the wipers to clear the rain off the front windshield (`____`).
+He used the wipers to clear the rain off the front `____` (flat tire).
 
-- [x] flat tire
-- [ ] has
-- [ ] back seat
+- [x] windshield
+- [ ] flat tire
+- [ ] have been
 
 > **解析**：windshield 可数名词，意为“（汽车的前）挡风玻璃”（美式），英式为 windscreen。
 
@@ -190,8 +190,8 @@ He used the wipers to clear the rain off the front windshield (`____`).
 Remember to use your turn signal before making a left turn (`____`).
 
 - [x] front seat
-- [ ] have been
-- [ ] been
+- [ ] gas station
+- [ ] haven't been
 
 > **解析**：turn signal 名词短语，意为“转向灯；指示灯”（美式），英式常用 indicator。
 
@@ -200,38 +200,38 @@ Remember to use your turn signal before making a left turn (`____`).
 You should turn on your headlights when driving through the dark tunnel (`____`).
 
 - [x] gas station
-- [ ] have not been
-- [ ] brake
+- [ ] has
+- [ ] headlight
 
 > **解析**：headlight 可数名词，常用复数 headlights，意为“（汽车）前大灯”。
 
 ### 8
 
-We picked up our rental car at the airport service counter for `____`.
+We picked up our `____` at the airport service counter.
 
-- [x] has
-- [ ] back seat
-- [ ] car wash
+- [x] rental car
+- [ ] has
+- [ ] headlight
 
 > **解析**：rental car 名词短语，意为“租赁汽车；出租车”，rental 作定语修饰 car。
 
 ### 9
 
-The mechanic recommended a regular oil change every five thousand miles (`____`).
+The mechanic recommended a regular oil change every five thousand miles (have `____`).
 
-- [x] have been
-- [ ] been
-- [ ] flat tire
+- [x] been
+- [ ] have not been
+- [ ] oil change
 
 > **解析**：oil change 名词短语，意为“更换机油”，oil 意为机油，change 表示更换。
 
 ### 10
 
-After the long road trip, we took our dirty vehicle to the car wash (`____`).
+After the long road trip, we took our dirty vehicle to the `____` (have not been).
 
-- [x] have not been
-- [ ] brake
-- [ ] front seat
+- [x] car wash
+- [ ] haven't been
+- [ ] rental car
 
 > **解析**：car wash 组合名词，意为“洗车场；洗车服务”。
 

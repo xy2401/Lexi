@@ -98,19 +98,19 @@ hear me out（听我说完）、I'd say（我觉得）、suggestion that we（�
    > **解析**：`hear me out` 是口语短语，意为“听我把话说完、听我解释”。
 
 4. **中文**：要我说的话，在海边举办年会是一个极好的主意。  
-   **英文**：I'd say that hosting the annual party by the beach is a fantastic idea for appreciation.
+   **英文**：I'd say that hosting the annual party by the beach is a fantastic idea about appreciation.
    > **解析**：`I'd say (that)...` 是表达个人提议或估计的常用口语开场白。
 
 5. **中文**：规划大型活动需要双方团队达成合理的妥协方案。  
-   **英文**：Planning a big event requires both teams to reach a fair compromise for catering.
+   **英文**：Planning a big event requires both teams to reach a fair compromise.
    > **解析**：`compromise` 作名词，意为“妥协、折中方案”，搭配 `reach a compromise`。
 
 6. **中文**：如果供应商取消合作，我们整个户外行程可能会泡汤。  
-   **英文**：If the vendor cancels, our entire outdoor schedule might fall through for committee.
+   **英文**：If the vendor cancels, our entire outdoor schedule might fall through.
    > **解析**：`fall through` 是不及物短语动词，意为“（计划/方案）落空、泡汤”。
 
 7. **中文**：委员会为慈善晚宴之夜选择了一个复古八十年代的主题。  
-   **英文**：The committee chose a retro eighties theme for the charity gala night for compromise.
+   **英文**：The committee chose a retro eighties theme for the charity gala night.
    > **解析**：`theme` 是名词，意为“主题、主旨”。
 
 8. **中文**：宽敞的酒店宴会厅是举办此次会议的理想地点。  
@@ -138,16 +138,16 @@ hear me out（听我说完）、I'd say（我觉得）、suggestion that we（�
 3. Please hear me out before rejecting the proposed team-building budget (any longer).
    > **中文**：在拒绝提议的团队建设预算之前，请听我把话说完。
 
-4. I'd say that hosting the annual party by the beach is a fantastic idea for appreciation.
+4. I'd say that hosting the annual party by the beach is a fantastic idea about appreciation.
    > **中文**：要我说的话，在海边举办年会是一个极好的主意。
 
-5. Planning a big event requires both teams to reach a fair compromise for catering.
+5. Planning a big event requires both teams to reach a fair compromise.
    > **中文**：规划大型活动需要双方团队达成合理的妥协方案。
 
-6. If the vendor cancels, our entire outdoor schedule might fall through for committee.
+6. If the vendor cancels, our entire outdoor schedule might fall through.
    > **中文**：如果供应商取消合作，我们整个户外行程可能会泡汤。
 
-7. The committee chose a retro eighties theme for the charity gala night for compromise.
+7. The committee chose a retro eighties theme for the charity gala night.
    > **中文**：委员会为慈善晚宴之夜选择了一个复古八十年代的主题。
 
 8. The spacious hotel ballroom is an ideal location for the conference (fall through).
@@ -172,8 +172,8 @@ hear me out（听我说完）、I'd say（我觉得）、suggestion that we（�
 We need to book a suitable venue before finalizing the event date (`____`).
 
 - [x] I'd say
-- [ ] appreciation
-- [ ] compromise
+- [ ] agree with
+- [ ] committee
 
 > **解析**：`venue` 是名词，意为“活动场地、举办场所”，`book a venue`（预订场地）。
 
@@ -182,8 +182,8 @@ We need to book a suitable venue before finalizing the event date (`____`).
 The committee hired a top-rated catering company to provide dinner (`____`).
 
 - [x] agree with
-- [ ] catering
-- [ ] fall through
+- [ ] any longer
+- [ ] compromise
 
 > **解析**：`catering` 是名词，意为“餐饮服务、包办宴席”。
 
@@ -192,58 +192,58 @@ The committee hired a top-rated catering company to provide dinner (`____`).
 Please hear me out before rejecting the proposed team-building budget (`____`).
 
 - [x] any longer
-- [ ] committee
-- [ ] for me to
+- [ ] appreciation
+- [ ] fall through
 
 > **解析**：`hear me out` 是口语短语，意为“听我把话说完、听我解释”。
 
 ### 4
 
-I'd say that hosting the annual party by the beach is a fantastic idea for `____`.
+I'd say that hosting the annual party by the beach is a fantastic idea about `____`.
 
 - [x] appreciation
-- [ ] compromise
-- [ ] for nothing
+- [ ] catering
+- [ ] for me to
 
 > **解析**：`I'd say (that)...` 是表达个人提议或估计的常用口语开场白。
 
 ### 5
 
-Planning a big event requires both teams to reach a fair compromise for `____`.
+Planning a big event requires both teams to reach a fair `____`.
 
-- [x] catering
-- [ ] fall through
-- [ ] I'd say
+- [x] compromise
+- [ ] catering
+- [ ] for nothing
 
 > **解析**：`compromise` 作名词，意为“妥协、折中方案”，搭配 `reach a compromise`。
 
 ### 6
 
-If the vendor cancels, our entire outdoor schedule might fall through for `____`.
+If the vendor cancels, our entire outdoor schedule might `____`.
 
-- [x] committee
-- [ ] for me to
-- [ ] agree with
+- [x] fall through
+- [ ] committee
+- [ ] hear me out
 
 > **解析**：`fall through` 是不及物短语动词，意为“（计划/方案）落空、泡汤”。
 
 ### 7
 
-The committee chose a retro eighties theme for the charity gala night for `____`.
+The `____` chose a retro eighties theme for the charity gala night.
 
-- [x] compromise
-- [ ] for nothing
-- [ ] any longer
+- [x] committee
+- [ ] fall through
+- [ ] ideal
 
 > **解析**：`theme` 是名词，意为“主题、主旨”。
 
 ### 8
 
-The spacious hotel ballroom is an ideal location for the conference (`____`).
+The spacious hotel ballroom is an `____` location for the conference (fall through).
 
-- [x] fall through
-- [ ] I'd say
-- [ ] appreciation
+- [x] ideal
+- [ ] fall through
+- [ ] in the end
 
 > **解析**：`ideal` 是形容词，意为“理想的、完美的”，修饰 `location`。
 
@@ -252,8 +252,8 @@ The spacious hotel ballroom is an ideal location for the conference (`____`).
 Several employees volunteered to assist with guest registration (`____`).
 
 - [x] for me to
-- [ ] agree with
-- [ ] catering
+- [ ] for nothing
+- [ ] lobster
 
 > **解析**：`volunteer` 作动词，意为“自愿做、志愿协助”，搭配 `volunteer to do sth`。
 
@@ -262,8 +262,8 @@ Several employees volunteered to assist with guest registration (`____`).
 After debating for hours, we decided in the end to stick to our budget (`____`).
 
 - [x] for nothing
-- [ ] any longer
-- [ ] committee
+- [ ] hear me out
+- [ ] mess up
 
 > **解析**：`in the end` 是副词短语，意为“最终、最后”，相当于 `finally`。
 

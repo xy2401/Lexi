@@ -78,7 +78,7 @@ must I / must we 表达不情愿或质疑："我非得……吗？"speak politel
 <quiz-sentence-builder>
 
 1. **中文**：既然这个家电停止工作了，我想申请全额退款。  
-   **英文**：Since the appliance stopped working, I would like to request a full refund for carefully.
+   **英文**：Since the appliance stopped working, I would like to request a full refund.
    > **解析**：`full refund` 意为“全额退款”，`request a full refund` 为常用维权搭配。
 
 2. **中文**：顾客昨天把有缺陷的相机退回给了商店。  
@@ -86,7 +86,7 @@ must I / must we 表达不情愿或质疑："我非得……吗？"speak politel
    > **解析**：`defective` 是形容词，意为“有缺陷的、有故障的”，修饰 `camera`。
 
 3. **中文**：您需要出示收据作为购买凭证才能退货。  
-   **英文**：You need to present your receipt as proof of purchase for a return for everybody.
+   **英文**：You need to present your receipt as proof of purchase for a return.
    > **解析**：`proof of purchase` 是商业术语，意为“购买凭证”。
 
 4. **中文**：根据公司政策，商品可以在30天内退换。  
@@ -121,13 +121,13 @@ must I / must we 表达不情愿或质疑："我非得……吗？"speak politel
 
 <quiz-listening>
 
-1. Since the appliance stopped working, I would like to request a full refund for carefully.
+1. Since the appliance stopped working, I would like to request a full refund.
    > **中文**：既然这个家电停止工作了，我想申请全额退款。
 
 2. The customer returned the defective camera to the store yesterday.
    > **中文**：顾客昨天把有缺陷的相机退回给了商店。
 
-3. You need to present your receipt as proof of purchase for a return for everybody.
+3. You need to present your receipt as proof of purchase for a return.
    > **中文**：您需要出示收据作为购买凭证才能退货。
 
 4. According to company policy, items can be returned within 30 days (full refund).
@@ -161,11 +161,11 @@ must I / must we 表达不情愿或质疑："我非得……吗？"speak politel
 
 ### 1
 
-Since the appliance stopped working, I would like to request a full refund for `____`.
+Since the appliance stopped working, I would like to request a `____`.
 
-- [x] carefully
-- [ ] full refund
-- [ ] must i
+- [x] full refund
+- [ ] carefully
+- [ ] in need of
 
 > **解析**：`full refund` 意为“全额退款”，`request a full refund` 为常用维权搭配。
 
@@ -174,28 +174,28 @@ Since the appliance stopped working, I would like to request a full refund for `
 The customer returned the `____` camera to the store yesterday.
 
 - [x] defective
-- [ ] guarantee
-- [ ] must we
+- [ ] everybody
+- [ ] must i
 
 > **解析**：`defective` 是形容词，意为“有缺陷的、有故障的”，修饰 `camera`。
 
 ### 3
 
-You need to present your receipt as proof of purchase for a return for `____`.
+You need to present your receipt as `____` for a return.
 
-- [x] everybody
-- [ ] in need of
-- [ ] no good
+- [x] proof of purchase
+- [ ] everybody
+- [ ] must i
 
 > **解析**：`proof of purchase` 是商业术语，意为“购买凭证”。
 
 ### 4
 
-According to company policy, items can be returned within 30 days (`____`).
+According to company `____`, items can be returned within 30 days (full refund).
 
-- [x] full refund
-- [ ] must i
-- [ ] nothing wrong with
+- [x] policy
+- [ ] full refund
+- [ ] must we
 
 > **解析**：`policy` 是名词，意为“政策、规定”，搭配 `according to company policy`。
 
@@ -204,8 +204,8 @@ According to company policy, items can be returned within 30 days (`____`).
 The electronic product comes with a two-year performance `____`.
 
 - [x] guarantee
-- [ ] must we
-- [ ] carefully
+- [ ] in need of
+- [ ] nothing wrong with
 
 > **解析**：`guarantee` 作名词，意为“保证、保修单”。
 
@@ -214,8 +214,8 @@ The electronic product comes with a two-year performance `____`.
 The staff will process your refund request within three working days (`____`).
 
 - [x] in need of
-- [ ] no good
-- [ ] defective
+- [ ] must i
+- [ ] policy
 
 > **解析**：`process` 作及物动词，意为“处理、办理”，宾语为 `your refund request`。
 
@@ -224,8 +224,8 @@ The staff will process your refund request within three working days (`____`).
 Without the power cable, this digital tablet is completely useless (`____`).
 
 - [x] must i
-- [ ] nothing wrong with
-- [ ] everybody
+- [ ] must we
+- [ ] process
 
 > **解析**：`useless` 是形容词，意为“无用的、毫无价值的”，作表语。
 
@@ -234,8 +234,8 @@ Without the power cable, this digital tablet is completely useless (`____`).
 The watch was advertised as waterproof, but water got inside immediately (`____`).
 
 - [x] must we
-- [ ] carefully
-- [ ] full refund
+- [ ] no good
+- [ ] proof of purchase
 
 > **解析**：`waterproof` 是形容词，意为“防水的”。
 
@@ -244,8 +244,8 @@ The watch was advertised as waterproof, but water got inside immediately (`____`
 The manager checked the laptop and said there was nothing wrong with it (`____`).
 
 - [x] no good
-- [ ] defective
-- [ ] guarantee
+- [ ] nothing wrong with
+- [ ] refund
 
 > **解析**：`there is nothing wrong with sth` 意为“某物没有任何毛病/问题”。
 
@@ -254,8 +254,8 @@ The manager checked the laptop and said there was nothing wrong with it (`____`)
 If you are not satisfied, I can call the store supervisor for you (`____`).
 
 - [x] nothing wrong with
-- [ ] everybody
-- [ ] in need of
+- [ ] policy
+- [ ] satisfaction
 
 > **解析**：`supervisor` 是名词，意为“主管、督导”。
 

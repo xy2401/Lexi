@@ -66,7 +66,7 @@ has been / have been 是现在完成进行时。by the time 引导时间状语�
    > **解析**：secret 在句中作名词，意为“秘密”。trust sb. with sth. 意为“用某事信任某人/把某事托付给某人”。reveal 意为“透露”。
 
 2. **中文**：很明显，当他声称对遗失的钥匙一无所知时，他说了谎。  
-   **英文**：It is clear that he told a lie when he claimed he knew nothing about the lost keys for appear.
+   **英文**：It is clear that he told a lie when he claimed he knew nothing about the lost keys.
    > **解析**：lie 在句中作名词，意为“谎言”。tell a lie 表示“撒谎”。claim 意为“声称”。
 
 3. **中文**：她突然意识到她的朋友一直以来都在对她撒谎。  
@@ -74,7 +74,7 @@ has been / have been 是现在完成进行时。by the time 引导时间状语�
    > **解析**：realize 为动词，意为“意识到、发觉”。that 引导宾语从句。had been lying 为过去完成进行时。
 
 4. **中文**：当我们问起失踪的文件时，你注意到他的举止有多紧张了吗？  
-   **英文**：Did you notice how nervous he acted when we asked about the missing file? for been.
+   **英文**：Did you notice how nervous he acted when we asked about the missing file.
    > **解析**：notice 为动词，意为“注意到、察觉到”。how 引导宾语从句。act 意为“举止/表现”。
 
 5. **中文**：竞争对手们秘密会面，以规划他们下一步的商业举措。  
@@ -82,7 +82,7 @@ has been / have been 是现在完成进行时。by the time 引导时间状语�
    > **解析**：in secret 为固定介词短语，作状语修饰 met，意为“秘密地、私下”。与 secretly 同义。
 
 6. **中文**：突然，灯熄灭了，有人悄悄推开了房间门。  
-   **英文**：Suddenly, the lights turned off and someone opened the room door quietly for by.
+   **英文**：Suddenly, the lights turned off and someone opened the room door quietly.
    > **解析**：suddenly 为副词，置于句首作状语，意为“突然、忽然”。表示意外发生的动作。
 
 7. **中文**：根据这份报告，嫌疑人在午夜前不久离开了大楼。  
@@ -90,15 +90,15 @@ has been / have been 是现在完成进行时。by the time 引导时间状语�
    > **解析**：according to 为复合介词，意为“根据、依据”。后接名词或名词短语（the report）。
 
 8. **中文**：窃贼试图在周末大家回家后强行闯入办公室。  
-   **英文**：Thieves tried to break into the office after everyone went home for the weekend for criminal.
+   **英文**：Thieves tried to break into the office after everyone went home for the weekend about appear.
    > **解析**：break into 为动词短语，意为“强行闯入、盗窃”。break into the office 意为“闯入办公室”。
 
 9. **中文**：当陌生人走过时，一道神秘的影子投射在墙壁上。  
-   **英文**：A mysterious shadow stretched across the wall as the stranger walked past for destroy.
+   **英文**：A mysterious shadow stretched across the wall as the stranger walked past.
    > **解析**：shadow 为名词，意为“阴影、影子”。stretch across 意为“延伸/投射横跨”。
 
 10. **中文**：警方在跟踪追踪到该危险罪犯的位置后逮捕了他。  
-   **英文**：The police arrested the dangerous criminal after tracing his location for grab.
+   **英文**：The police arrested the dangerous criminal after tracing his location.
    > **解析**：criminal 为名词，意为“罪犯、刑事犯”。arrest 意为“逮捕”。trace location 意为“追踪位置”。
 
 </quiz-sentence-builder>
@@ -108,31 +108,31 @@ has been / have been 是现在完成进行时。by the time 引导时间状语�
 1. I trusted him with my private secret, but he revealed it to everyone (according to).
    > **中文**：我信任他并把我的私密秘密告诉了他，但他却透露给了所有人。
 
-2. It is clear that he told a lie when he claimed he knew nothing about the lost keys for appear.
+2. It is clear that he told a lie when he claimed he knew nothing about the lost keys.
    > **中文**：很明显，当他声称对遗失的钥匙一无所知时，他说了谎。
 
 3. She suddenly realized that her friend had been lying to her all along (at first).
    > **中文**：她突然意识到她的朋友一直以来都在对她撒谎。
 
-4. Did you notice how nervous he acted when we asked about the missing file? for been.
+4. Did you notice how nervous he acted when we asked about the missing file.
    > **中文**：当我们问起失踪的文件时，你注意到他的举止有多紧张了吗？
 
 5. The competitors met in secret to plan their next business move (break into).
    > **中文**：竞争对手们秘密会面，以规划他们下一步的商业举措。
 
-6. Suddenly, the lights turned off and someone opened the room door quietly for by.
+6. Suddenly, the lights turned off and someone opened the room door quietly.
    > **中文**：突然，灯熄灭了，有人悄悄推开了房间门。
 
 7. According to the report, the suspect left the building shortly before midnight (by the time).
    > **中文**：根据这份报告，嫌疑人在午夜前不久离开了大楼。
 
-8. Thieves tried to break into the office after everyone went home for the weekend for criminal.
+8. Thieves tried to break into the office after everyone went home for the weekend about appear.
    > **中文**：窃贼试图在周末大家回家后强行闯入办公室。
 
-9. A mysterious shadow stretched across the wall as the stranger walked past for destroy.
+9. A mysterious shadow stretched across the wall as the stranger walked past.
    > **中文**：当陌生人走过时，一道神秘的影子投射在墙壁上。
 
-10. The police arrested the dangerous criminal after tracing his location for grab.
+10. The police arrested the dangerous criminal after tracing his location.
    > **中文**：警方在跟踪追踪到该危险罪犯的位置后逮捕了他。
 
 </quiz-listening>
@@ -148,18 +148,18 @@ has been / have been 是现在完成进行时。by the time 引导时间状语�
 I trusted him with my private secret, but he revealed it to everyone (`____`).
 
 - [x] according to
-- [ ] been
-- [ ] by the time
+- [ ] appear
+- [ ] by
 
 > **解析**：secret 在句中作名词，意为“秘密”。trust sb. with sth. 意为“用某事信任某人/把某事托付给某人”。reveal 意为“透露”。
 
 ### 2
 
-It is clear that he told a lie when he claimed he knew nothing about the lost keys for `____`.
+It is clear that he told a `____` when he claimed he knew nothing about the lost keys.
 
-- [x] appear
-- [ ] break into
-- [ ] criminal
+- [x] lie
+- [ ] appear
+- [ ] by
 
 > **解析**：lie 在句中作名词，意为“谎言”。tell a lie 表示“撒谎”。claim 意为“声称”。
 
@@ -168,18 +168,18 @@ It is clear that he told a lie when he claimed he knew nothing about the lost ke
 She suddenly realized that her friend had been lying to her all along (`____`).
 
 - [x] at first
-- [ ] by
-- [ ] destroy
+- [ ] been
+- [ ] criminal
 
 > **解析**：realize 为动词，意为“意识到、发觉”。that 引导宾语从句。had been lying 为过去完成进行时。
 
 ### 4
 
-Did you notice how nervous he acted when we asked about the missing file? for `____`.
+Did you `____` how nervous he acted when we asked about the missing file.
 
-- [x] been
-- [ ] by the time
-- [ ] grab
+- [x] notice
+- [ ] been
+- [ ] criminal
 
 > **解析**：notice 为动词，意为“注意到、察觉到”。how 引导宾语从句。act 意为“举止/表现”。
 
@@ -188,58 +188,58 @@ Did you notice how nervous he acted when we asked about the missing file? for `_
 The competitors met in secret to plan their next business move (`____`).
 
 - [x] break into
-- [ ] criminal
-- [ ] according to
+- [ ] by
+- [ ] grab
 
 > **解析**：in secret 为固定介词短语，作状语修饰 met，意为“秘密地、私下”。与 secretly 同义。
 
 ### 6
 
-Suddenly, the lights turned off and someone opened the room door quietly for `____`.
+`____`, the lights turned off and someone opened the room door quietly.
 
-- [x] by
-- [ ] destroy
-- [ ] appear
+- [x] suddenly
+- [ ] by
+- [ ] grab
 
 > **解析**：suddenly 为副词，置于句首作状语，意为“突然、忽然”。表示意外发生的动作。
 
 ### 7
 
-According to the report, the suspect left the building shortly before midnight (`____`).
+According to the report, the suspect left the building shortly before midnight (`____` the time).
 
-- [x] by the time
-- [ ] grab
-- [ ] at first
+- [x] by
+- [ ] criminal
+- [ ] have been
 
 > **解析**：according to 为复合介词，意为“根据、依据”。后接名词或名词短语（the report）。
 
 ### 8
 
-Thieves tried to break into the office after everyone went home for the weekend for `____`.
+Thieves tried to break into the office after everyone went home for the weekend about `____`.
 
-- [x] criminal
-- [ ] according to
-- [ ] been
+- [x] appear
+- [ ] destroy
+- [ ] in secret
 
 > **解析**：break into 为动词短语，意为“强行闯入、盗窃”。break into the office 意为“闯入办公室”。
 
 ### 9
 
-A mysterious shadow stretched across the wall as the stranger walked past for `____`.
+A mysterious shadow stretched across the wall as the stranger walked `____`.
 
-- [x] destroy
-- [ ] appear
-- [ ] break into
+- [x] past
+- [ ] destroy
+- [ ] in secret
 
 > **解析**：shadow 为名词，意为“阴影、影子”。stretch across 意为“延伸/投射横跨”。
 
 ### 10
 
-The police arrested the dangerous criminal after tracing his location for `____`.
+The police arrested the dangerous `____` after tracing his location.
 
-- [x] grab
-- [ ] at first
-- [ ] by
+- [x] criminal
+- [ ] has been
+- [ ] notice
 
 > **解析**：criminal 为名词，意为“罪犯、刑事犯”。arrest 意为“逮捕”。trace location 意为“追踪位置”。
 

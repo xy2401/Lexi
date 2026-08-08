@@ -62,19 +62,19 @@ seem 用来表达"看起来、似乎"（You seem tired. / It seems serious.）�
    > **解析**：`cure` 可数名词，意为“治愈方法；药物”。常用搭配 `a cure for...`（针对……的治愈方案），注意介词要用 `for`。
 
 3. **中文**：均衡饮食和每天运动对你的健康非常有好处。  
-   **英文**：Eating a balanced diet and exercising daily is extremely good for you for cancer.
+   **英文**：Eating a balanced diet and exercising daily is extremely good about cancer.
    > **解析**：`good for you` 为固定表语短语，意为“对你有好处”。其中 `be good for` 表示“对……有益”。
 
 4. **中文**：发高烧时要喝大量清澈的液体以保持水分。  
-   **英文**：Drink plenty of clear liquid when you have a high fever to stay hydrated for check-up.
+   **英文**：Drink plenty of clear liquid when you have a high fever to stay hydrated.
    > **解析**：`liquid` 名词，意为“液体；流质”。在医疗护理场景中，常指水、清汤等有助于补充水分的液体。
 
 5. **中文**：外科医生向患者解释了该医疗手术过程的每一个步骤。  
-   **英文**：The surgeon explained every step of the medical procedure to the patient for cure.
+   **英文**：The surgeon explained every step of the medical procedure to the patient.
    > **解析**：`procedure` 名词，意为“程序；手术；医疗步骤”。短语 `medical procedure` 常指具体的医疗或外科操作。
 
 6. **中文**：如果你的胸部出现任何剧烈疼痛，请立即告诉我。  
-   **英文**：Please tell me immediately if you experience any sharp pain in your chest for fitness.
+   **英文**：Please tell me immediately if you experience any sharp pain in your chest.
    > **解析**：`tell` 双宾语动词，搭配 `tell sb. sth.` 表示“告诉某人某事”。在医患交流中用于要求患者如实告知症状。
 
 7. **中文**：护士会在体检前称你的体重并测量你的身高。  
@@ -86,7 +86,7 @@ seem 用来表达"看起来、似乎"（You seem tired. / It seems serious.）�
    > **解析**：`blood pressure` 为名词短语，意为“血压”。在医学健康中常与动词 `check / measure / monitor` 连用。
 
 9. **中文**：加入当地的俱乐部是提高你整体身体素质的好方法。  
-   **英文**：Joining a local club is a great way to improve your overall fitness for healthcare.
+   **英文**：Joining a local club is a great way to improve your overall fitness.
    > **解析**：`fitness` 不及物/抽象名词，意为“健康；身体素质；适合”，由形容词 `fit` 加名词后缀 `-ness` 派生而来。
 
 10. **中文**：低盐饮食可以降低未来患心血管疾病的风险。  
@@ -103,16 +103,16 @@ seem 用来表达"看起来、似乎"（You seem tired. / It seems serious.）�
 2. Medical researchers are working hard to find an effective cure for the disease (blood pressure).
    > **中文**：医学研究人员正在努力寻找治愈这种疾病的有效方法。
 
-3. Eating a balanced diet and exercising daily is extremely good for you for cancer.
+3. Eating a balanced diet and exercising daily is extremely good about cancer.
    > **中文**：均衡饮食和每天运动对你的健康非常有好处。
 
-4. Drink plenty of clear liquid when you have a high fever to stay hydrated for check-up.
+4. Drink plenty of clear liquid when you have a high fever to stay hydrated.
    > **中文**：发高烧时要喝大量清澈的液体以保持水分。
 
-5. The surgeon explained every step of the medical procedure to the patient for cure.
+5. The surgeon explained every step of the medical procedure to the patient.
    > **中文**：外科医生向患者解释了该医疗手术过程的每一个步骤。
 
-6. Please tell me immediately if you experience any sharp pain in your chest for fitness.
+6. Please tell me immediately if you experience any sharp pain in your chest.
    > **中文**：如果你的胸部出现任何剧烈疼痛，请立即告诉我。
 
 7. The nurse will weigh you and measure your height before the checkup (give up).
@@ -121,7 +121,7 @@ seem 用来表达"看起来、似乎"（You seem tired. / It seems serious.）�
 8. Regular exercise can help keep your blood pressure at a healthy level (good for you).
    > **中文**：定期运动有助于将你的血压保持在健康水平。
 
-9. Joining a local club is a great way to improve your overall fitness for healthcare.
+9. Joining a local club is a great way to improve your overall fitness.
    > **中文**：加入当地的俱乐部是提高你整体身体素质的好方法。
 
 10. A low-salt diet reduces the risk of developing heart disease in the future.
@@ -140,8 +140,8 @@ seem 用来表达"看起来、似乎"（You seem tired. / It seems serious.）�
 You should `____` your doctor for professional advice about your persistent cough.
 
 - [x] ask
-- [ ] check-up
-- [ ] give up
+- [ ] blood pressure
+- [ ] fitness
 
 > **解析**：`ask` 及物动词，搭配 `ask sb. for sth.` 表示“向某人寻求/索取某物”。在此处用于表达寻求医疗建议。
 
@@ -150,48 +150,48 @@ You should `____` your doctor for professional advice about your persistent coug
 Medical researchers are working hard to find an effective cure for the disease (`____`).
 
 - [x] blood pressure
-- [ ] cure
-- [ ] good for you
+- [ ] cancer
+- [ ] give up
 
 > **解析**：`cure` 可数名词，意为“治愈方法；药物”。常用搭配 `a cure for...`（针对……的治愈方案），注意介词要用 `for`。
 
 ### 3
 
-Eating a balanced diet and exercising daily is extremely good for you for `____`.
+Eating a balanced diet and exercising daily is extremely good about `____`.
 
 - [x] cancer
-- [ ] fitness
-- [ ] healthcare
+- [ ] check-up
+- [ ] good for you
 
 > **解析**：`good for you` 为固定表语短语，意为“对你有好处”。其中 `be good for` 表示“对……有益”。
 
 ### 4
 
-Drink plenty of clear liquid when you have a high fever to stay hydrated for `____`.
+Drink plenty of clear `____` when you have a high fever to stay hydrated.
 
-- [x] check-up
-- [ ] give up
-- [ ] heart disease
+- [x] liquid
+- [ ] check-up
+- [ ] good for you
 
 > **解析**：`liquid` 名词，意为“液体；流质”。在医疗护理场景中，常指水、清汤等有助于补充水分的液体。
 
 ### 5
 
-The surgeon explained every step of the medical procedure to the patient for `____`.
+The surgeon explained every step of the medical `____` to the patient.
 
-- [x] cure
-- [ ] good for you
-- [ ] ask
+- [x] procedure
+- [ ] cure
+- [ ] healthcare
 
 > **解析**：`procedure` 名词，意为“程序；手术；医疗步骤”。短语 `medical procedure` 常指具体的医疗或外科操作。
 
 ### 6
 
-Please tell me immediately if you experience any sharp pain in your chest for `____`.
+Please `____` me immediately if you experience any sharp pain in your chest.
 
-- [x] fitness
-- [ ] healthcare
-- [ ] blood pressure
+- [x] tell
+- [ ] fitness
+- [ ] heart disease
 
 > **解析**：`tell` 双宾语动词，搭配 `tell sb. sth.` 表示“告诉某人某事”。在医患交流中用于要求患者如实告知症状。
 
@@ -200,8 +200,8 @@ Please tell me immediately if you experience any sharp pain in your chest for `_
 The nurse will weigh you and measure your height before the checkup (`____`).
 
 - [x] give up
-- [ ] heart disease
-- [ ] cancer
+- [ ] good for you
+- [ ] liquid
 
 > **解析**：`weigh` 及物动词，意为“称……的重量”。对应名词形式为 `weight`（体重）。
 
@@ -210,18 +210,18 @@ The nurse will weigh you and measure your height before the checkup (`____`).
 Regular exercise can help keep your blood pressure at a healthy level (`____`).
 
 - [x] good for you
-- [ ] ask
-- [ ] check-up
+- [ ] healthcare
+- [ ] not
 
 > **解析**：`blood pressure` 为名词短语，意为“血压”。在医学健康中常与动词 `check / measure / monitor` 连用。
 
 ### 9
 
-Joining a local club is a great way to improve your overall fitness for `____`.
+Joining a local club is a great way to improve your overall `____`.
 
-- [x] healthcare
-- [ ] blood pressure
-- [ ] cure
+- [x] fitness
+- [ ] heart disease
+- [ ] prepare
 
 > **解析**：`fitness` 不及物/抽象名词，意为“健康；身体素质；适合”，由形容词 `fit` 加名词后缀 `-ness` 派生而来。
 
@@ -230,8 +230,8 @@ Joining a local club is a great way to improve your overall fitness for `____`.
 A low-salt diet reduces the risk of developing `____` in the future.
 
 - [x] heart disease
-- [ ] cancer
-- [ ] fitness
+- [ ] into
+- [ ] procedure
 
 > **解析**：`heart disease` 名词短语，意为“心脏病”。在健康医学情境中，常作为动词 `develop / prevent` 的宾语。
 

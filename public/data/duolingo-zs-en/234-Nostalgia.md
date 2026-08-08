@@ -72,11 +72,11 @@ back, camp, clearly, get, hit it off, homesick, irresponsible, junk food, long-d
    > **解析**：`hit it off` 习惯动词短语，意为“一见如故；投缘；合得来”。
 
 3. **中文**：我们以前常常在暑假里熬夜吃垃圾食品、看电影。  
-   **英文**：We used to stay up late eating junk food and watching movies during summer breaks for clearly.
+   **英文**：We used to stay up late eating junk food and watching movies during summer breaks.
    > **解析**：`junk food` 不可数名词短语，指“垃圾食品；无营养食品”。
 
 4. **中文**：我们全家的海滨小镇之旅是我年轻时最难忘的经历之一。  
-   **英文**：Our family trip to the coastal village was one of the most memorable experiences of my youth for get.
+   **英文**：Our family trip to the coastal village was one of the most memorable experiences of my youth.
    > **解析**：`memorable` 形容词，意为“难忘的；值得纪念的”。
 
 5. **中文**：每年国庆节，全镇人都聚集在主街观看游行。  
@@ -84,19 +84,19 @@ back, camp, clearly, get, hit it off, homesick, irresponsible, junk food, long-d
    > **解析**：`parade` 可数名词，意为“游行；检阅”。常用搭配 `watch a parade`。
 
 6. **中文**：十几岁时，我们过去常在半夜偷溜出房间去看星星。  
-   **英文**：As teenagers, we used to sneak out of the house to watch the stars at midnight for homesick.
+   **英文**：As teenagers, we used to sneak out of the house to watch the stars at midnight.
    > **解析**：`sneak out` 不及物动词短语，意为“偷偷溜出去”。搭配 `sneak out of + 场所`。
 
 7. **中文**：我爷爷教过我如何用扑克牌表演一个简单的魔术技巧。  
-   **英文**：My grandfather taught me how to perform a simple magic trick with playing cards for irresponsible.
+   **英文**：My grandfather taught me how to perform a simple magic trick with playing cards.
    > **解析**：`trick` 可数名词，意为“戏法；技巧；恶作剧”。`magic trick`（魔术戏法）。
 
 8. **中文**：我对夏令营里围坐在篝火旁唱歌有着美好的回忆。  
-   **英文**：I have fond memories of sitting around the campfire at summer camp singing songs (junk food).
+   **英文**：I have fond memories of sitting around the campfire at summer camp singing songs (junk food) about clearly.
    > **解析**：`camp` 可数/不可数名词，在此处指“露营地；夏令营（summer camp）”。
 
 9. **中文**：当我第一次去寄宿学校时，头一个月我感到非常想家。  
-   **英文**：When I first went away to boarding school, I felt extremely homesick for the first month for long-distance.
+   **英文**：When I first went away to boarding school, I felt extremely homesick for the first month.
    > **解析**：`homesick` 形容词，意为“思乡的；想家的”。常用搭配 `feel homesick`。
 
 10. **中文**：毕业后，与高中的熟人逐渐失去联系是很常见的。  
@@ -113,25 +113,25 @@ back, camp, clearly, get, hit it off, homesick, irresponsible, junk food, long-d
 2. When we first met at summer camp, we immediately hit it off and became best friends.
    > **中文**：当我们在夏令营第一次见面时，我们立刻一见如故/合得来，成为了最好的朋友。
 
-3. We used to stay up late eating junk food and watching movies during summer breaks for clearly.
+3. We used to stay up late eating junk food and watching movies during summer breaks.
    > **中文**：我们以前常常在暑假里熬夜吃垃圾食品、看电影。
 
-4. Our family trip to the coastal village was one of the most memorable experiences of my youth for get.
+4. Our family trip to the coastal village was one of the most memorable experiences of my youth.
    > **中文**：我们全家的海滨小镇之旅是我年轻时最难忘的经历之一。
 
 5. Every year on National Day, the whole town gathered on Main Street to watch the parade (hit it off).
    > **中文**：每年国庆节，全镇人都聚集在主街观看游行。
 
-6. As teenagers, we used to sneak out of the house to watch the stars at midnight for homesick.
+6. As teenagers, we used to sneak out of the house to watch the stars at midnight.
    > **中文**：十几岁时，我们过去常在半夜偷溜出房间去看星星。
 
-7. My grandfather taught me how to perform a simple magic trick with playing cards for irresponsible.
+7. My grandfather taught me how to perform a simple magic trick with playing cards.
    > **中文**：我爷爷教过我如何用扑克牌表演一个简单的魔术技巧。
 
-8. I have fond memories of sitting around the campfire at summer camp singing songs (junk food).
+8. I have fond memories of sitting around the campfire at summer camp singing songs (junk food) about clearly.
    > **中文**：我对夏令营里围坐在篝火旁唱歌有着美好的回忆。
 
-9. When I first went away to boarding school, I felt extremely homesick for the first month for long-distance.
+9. When I first went away to boarding school, I felt extremely homesick for the first month.
    > **中文**：当我第一次去寄宿学校时，头一个月我感到非常想家。
 
 10. After graduation, it is easy to gradually lose touch with high school acquaintances.
@@ -150,8 +150,8 @@ back, camp, clearly, get, hit it off, homesick, irresponsible, junk food, long-d
 Looking `____` at old photograph albums always brings back warm childhood memories.
 
 - [x] back
-- [ ] get
-- [ ] irresponsible
+- [ ] camp
+- [ ] homesick
 
 > **解析**：`back` 副词，在短语 `look back at / bring back` 中表示“向后；勾起回忆”。
 
@@ -160,28 +160,28 @@ Looking `____` at old photograph albums always brings back warm childhood memori
 When we first met at summer `____`, we immediately hit it off and became best friends.
 
 - [x] camp
-- [ ] hit it off
-- [ ] junk food
+- [ ] clearly
+- [ ] irresponsible
 
 > **解析**：`hit it off` 习惯动词短语，意为“一见如故；投缘；合得来”。
 
 ### 3
 
-We used to stay up late eating junk food and watching movies during summer breaks for `____`.
+We used to stay up late eating `____` and watching movies during summer breaks.
 
-- [x] clearly
-- [ ] homesick
-- [ ] long-distance
+- [x] junk food
+- [ ] clearly
+- [ ] irresponsible
 
 > **解析**：`junk food` 不可数名词短语，指“垃圾食品；无营养食品”。
 
 ### 4
 
-Our family trip to the coastal village was one of the most memorable experiences of my youth for `____`.
+Our family trip to the coastal village was one of the most `____` experiences of my youth.
 
-- [x] get
-- [ ] irresponsible
-- [ ] lose touch
+- [x] memorable
+- [ ] get
+- [ ] junk food
 
 > **解析**：`memorable` 形容词，意为“难忘的；值得纪念的”。
 
@@ -190,48 +190,48 @@ Our family trip to the coastal village was one of the most memorable experiences
 Every year on National Day, the whole town gathered on Main Street to watch the parade (`____`).
 
 - [x] hit it off
-- [ ] junk food
-- [ ] back
+- [ ] homesick
+- [ ] lose touch
 
 > **解析**：`parade` 可数名词，意为“游行；检阅”。常用搭配 `watch a parade`。
 
 ### 6
 
-As teenagers, we used to sneak out of the house to watch the stars at midnight for `____`.
+As teenagers, we used to `____` of the house to watch the stars at midnight.
 
-- [x] homesick
-- [ ] long-distance
-- [ ] camp
+- [x] sneak out
+- [ ] homesick
+- [ ] lose touch
 
 > **解析**：`sneak out` 不及物动词短语，意为“偷偷溜出去”。搭配 `sneak out of + 场所`。
 
 ### 7
 
-My grandfather taught me how to perform a simple magic trick with playing cards for `____`.
+My grandfather taught me how to perform a simple magic `____` with playing cards.
 
-- [x] irresponsible
-- [ ] lose touch
-- [ ] clearly
+- [x] trick
+- [ ] irresponsible
+- [ ] lose track
 
 > **解析**：`trick` 可数名词，意为“戏法；技巧；恶作剧”。`magic trick`（魔术戏法）。
 
 ### 8
 
-I have fond memories of sitting around the campfire at summer camp singing songs (`____`).
+I have fond memories of sitting around the campfire at summer camp singing songs (junk food) about `____`.
 
-- [x] junk food
-- [ ] back
-- [ ] get
+- [x] clearly
+- [ ] long-distance
+- [ ] no wonder
 
 > **解析**：`camp` 可数/不可数名词，在此处指“露营地；夏令营（summer camp）”。
 
 ### 9
 
-When I first went away to boarding school, I felt extremely homesick for the first month for `____`.
+When I first went away to boarding school, I felt extremely `____` for the first month.
 
-- [x] long-distance
-- [ ] camp
-- [ ] hit it off
+- [x] homesick
+- [ ] lose touch
+- [ ] nothing in common
 
 > **解析**：`homesick` 形容词，意为“思乡的；想家的”。常用搭配 `feel homesick`。
 
@@ -240,8 +240,8 @@ When I first went away to boarding school, I felt extremely homesick for the fir
 After graduation, it is easy to gradually `____` with high school acquaintances.
 
 - [x] lose touch
-- [ ] clearly
-- [ ] homesick
+- [ ] lose track
+- [ ] parade
 
 > **解析**：`lose touch` 动词短语，意为“失去联系”。搭配 `lose touch with sb.`。
 

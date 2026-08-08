@@ -52,23 +52,23 @@ whose 用来问归属：Whose playlist is this? like 和 right 是口语中的�
 <quiz-sentence-builder>
 
 1. **中文**：派对结束后我们留到很晚，一起打扫客厅。  
-   **英文**：We stayed late after the party to clean up the living room together for accent.
+   **英文**：We stayed late after the party to clean up the living room together.
    > **解析**：clean up 短语动词，意为“打扫；清理”，做及物动词时宾语可置于中间或后面。
 
 2. **中文**：他们提前两小时到达，布置音响系统和装饰品。  
-   **英文**：They arrived two hours early to set up the sound system and decorations for bunch.
+   **英文**：They arrived two hours early to set up the sound system and decorations.
    > **解析**：set up 短语动词，意为“布置；搭建；安装”。
 
 3. **中文**：派对期间大家都在合唱，因为他们知道所有的歌词。  
-   **英文**：Everyone sang along during the party because they knew all the song lyrics for can.
+   **英文**：Everyone sang along during the party because they knew all the song lyrics.
    > **解析**：lyrics 复数名词，意为“歌词”，通常用复数形式。
 
 4. **中文**：她带着一束五彩缤纷的鲜花来到生日派对。  
-   **英文**：She brought a colorful bunch of fresh flowers to the birthday party (can't).
+   **英文**：She brought a colorful bunch of fresh flowers to the birthday party.
    > **解析**：bunch 可数名词，意为“一束；一串”，常用于 a bunch of flowers/grapes。
 
 5. **中文**：用鲜浆果装饰的生日蛋糕看起来绝对华丽漂亮。  
-   **英文**：The birthday cake decorated with fresh berries looked absolutely gorgeous for charming.
+   **英文**：The birthday cake decorated with fresh berries looked absolutely gorgeous.
    > **解析**：gorgeous 形容词，意为“极美的；华丽的”，语气极强。
 
 6. **中文**：主人以温暖的微笑和迷人的个性欢迎每一位客人。  
@@ -80,34 +80,34 @@ whose 用来问归属：Whose playlist is this? like 和 right 是口语中的�
    > **解析**：well-dressed 复合形容词，意为“穿着得体的；衣着考究的”。
 
 8. **中文**：派对上的魔术师上唇上方留着一撮有趣的小胡子。  
-   **英文**：The magician at the party had a small funny mustache above his lip for could.
+   **英文**：The magician at the party had a small funny mustache above his lip.
    > **解析**：mustache 可数名词，意为“八字胡；胡须”（美式拼写），英式为 moustache。
 
 9. **中文**：他说话带着友好的英国口音，吸引了所有人的注意。  
-   **英文**：He spoke with a friendly British accent that caught everyone's attention (couldn't).
+   **英文**：He spoke with a friendly British accent that caught everyone's attention.
    > **解析**：accent 可数名词，意为“口音；腔调”，如 British accent。
 
 10. **中文**：请进，把你的大衣放在前门大厅门附近。  
-   **英文**：Please come in and leave your coat near the front hallway door for doing.
+   **英文**：Please come in and leave your coat near the front hallway door about can.
    > **解析**：come in 短语动词，常用作礼貌邀请开场白，意为“进来；请进”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We stayed late after the party to clean up the living room together for accent.
+1. We stayed late after the party to clean up the living room together.
    > **中文**：派对结束后我们留到很晚，一起打扫客厅。
 
-2. They arrived two hours early to set up the sound system and decorations for bunch.
+2. They arrived two hours early to set up the sound system and decorations.
    > **中文**：他们提前两小时到达，布置音响系统和装饰品。
 
-3. Everyone sang along during the party because they knew all the song lyrics for can.
+3. Everyone sang along during the party because they knew all the song lyrics.
    > **中文**：派对期间大家都在合唱，因为他们知道所有的歌词。
 
-4. She brought a colorful bunch of fresh flowers to the birthday party (can't).
+4. She brought a colorful bunch of fresh flowers to the birthday party.
    > **中文**：她带着一束五彩缤纷的鲜花来到生日派对。
 
-5. The birthday cake decorated with fresh berries looked absolutely gorgeous for charming.
+5. The birthday cake decorated with fresh berries looked absolutely gorgeous.
    > **中文**：用鲜浆果装饰的生日蛋糕看起来绝对华丽漂亮。
 
 6. The host welcomed every guest with a warm smile and a charming personality (clean up).
@@ -116,13 +116,13 @@ whose 用来问归属：Whose playlist is this? like 和 right 是口语中的�
 7. All the guests at the formal dinner party were extremely well-dressed (come in).
    > **中文**：正规晚宴派对上的所有客人都穿着非常得体考究。
 
-8. The magician at the party had a small funny mustache above his lip for could.
+8. The magician at the party had a small funny mustache above his lip.
    > **中文**：派对上的魔术师上唇上方留着一撮有趣的小胡子。
 
-9. He spoke with a friendly British accent that caught everyone's attention (couldn't).
+9. He spoke with a friendly British accent that caught everyone's attention.
    > **中文**：他说话带着友好的英国口音，吸引了所有人的注意。
 
-10. Please come in and leave your coat near the front hallway door for doing.
+10. Please come in and leave your coat near the front hallway door about can.
    > **中文**：请进，把你的大衣放在前门大厅门附近。
 
 </quiz-listening>
@@ -135,61 +135,61 @@ whose 用来问归属：Whose playlist is this? like 和 right 是口语中的�
 
 ### 1
 
-We stayed late after the party to clean up the living room together for `____`.
+We stayed late after the party to `____` the living room together.
 
-- [x] accent
-- [ ] can't
-- [ ] come in
+- [x] clean up
+- [ ] accent
+- [ ] charming
 
 > **解析**：clean up 短语动词，意为“打扫；清理”，做及物动词时宾语可置于中间或后面。
 
 ### 2
 
-They arrived two hours early to set up the sound system and decorations for `____`.
+They arrived two hours early to `____` the sound system and decorations.
 
-- [x] bunch
-- [ ] charming
-- [ ] could
+- [x] set up
+- [ ] bunch
+- [ ] clean up
 
 > **解析**：set up 短语动词，意为“布置；搭建；安装”。
 
 ### 3
 
-Everyone sang along during the party because they knew all the song lyrics for `____`.
+Everyone sang along during the party because they knew all the song `____`.
 
-- [x] can
-- [ ] clean up
-- [ ] couldn't
+- [x] lyrics
+- [ ] can
+- [ ] come in
 
 > **解析**：lyrics 复数名词，意为“歌词”，通常用复数形式。
 
 ### 4
 
-She brought a colorful bunch of fresh flowers to the birthday party (`____`).
+She brought a colorful `____` of fresh flowers to the birthday party.
 
-- [x] can't
-- [ ] come in
-- [ ] doing
+- [x] bunch
+- [ ] charming
+- [ ] couldn't
 
 > **解析**：bunch 可数名词，意为“一束；一串”，常用于 a bunch of flowers/grapes。
 
 ### 5
 
-The birthday cake decorated with fresh berries looked absolutely gorgeous for `____`.
+The birthday cake decorated with fresh berries looked absolutely `____`.
 
-- [x] charming
-- [ ] could
-- [ ] accent
+- [x] gorgeous
+- [ ] charming
+- [ ] couldn't
 
 > **解析**：gorgeous 形容词，意为“极美的；华丽的”，语气极强。
 
 ### 6
 
-The host welcomed every guest with a warm smile and a charming personality (`____`).
+The host welcomed every guest with a warm smile and a `____` personality (clean up).
 
-- [x] clean up
-- [ ] couldn't
-- [ ] bunch
+- [x] charming
+- [ ] come in
+- [ ] gorgeous
 
 > **解析**：charming 形容词，意为“迷人的；有魅力的”，衍生自 charm。
 
@@ -198,38 +198,38 @@ The host welcomed every guest with a warm smile and a charming personality (`___
 All the guests at the formal dinner party were extremely well-dressed (`____`).
 
 - [x] come in
-- [ ] doing
-- [ ] can
+- [ ] could
+- [ ] like
 
 > **解析**：well-dressed 复合形容词，意为“穿着得体的；衣着考究的”。
 
 ### 8
 
-The magician at the party had a small funny mustache above his lip for `____`.
+The magician at the party had a small funny `____` above his lip.
 
-- [x] could
-- [ ] accent
-- [ ] can't
+- [x] mustache
+- [ ] could
+- [ ] like
 
 > **解析**：mustache 可数名词，意为“八字胡；胡须”（美式拼写），英式为 moustache。
 
 ### 9
 
-He spoke with a friendly British accent that caught everyone's attention (`____`).
+He spoke with a friendly British `____` that caught everyone's attention.
 
-- [x] couldn't
-- [ ] bunch
-- [ ] charming
+- [x] accent
+- [ ] doing
+- [ ] mustache
 
 > **解析**：accent 可数名词，意为“口音；腔调”，如 British accent。
 
 ### 10
 
-Please come in and leave your coat near the front hallway door for `____`.
+Please come in and leave your coat near the front hallway door about `____`.
 
-- [x] doing
-- [ ] can
-- [ ] clean up
+- [x] can
+- [ ] gorgeous
+- [ ] right
 
 > **解析**：come in 短语动词，常用作礼貌邀请开场白，意为“进来；请进”。
 

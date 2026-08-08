@@ -82,7 +82,7 @@ object（反对）、on the contrary（恰恰相反）、as a matter of fact（�
 <quiz-sentence-builder>
 
 1. **中文**：检方出示了确凿的物证来证实嫌疑人的罪行。  
-   **英文**：The prosecutor presented solid physical evidence to prove the suspect's guilt for accusation.
+   **英文**：The prosecutor presented solid physical evidence to prove the suspect's guilt.
    > **解析**：`evidence` 是不可数名词，意为“证据、证言”，搭配 `present evidence`。
 
 2. **中文**：嫌疑人提供了经过核实的不在场证明，证实案发时他在外地。  
@@ -90,7 +90,7 @@ object（反对）、on the contrary（恰恰相反）、as a matter of fact（�
    > **解析**：`alibi` 是名词，意为“不在场证明/不在场犯罪证据”。
 
 3. **中文**：律师花了数小时为被告准备接受交叉询问。  
-   **英文**：The attorney spent hours preparing the defendant for cross-examination for argue.
+   **英文**：The attorney spent hours preparing the defendant.
    > **解析**：`defendant` 是法律名词，意为“被告”。
 
 4. **中文**：一名目击证人站出来就现场发生的事进行作证。  
@@ -106,7 +106,7 @@ object（反对）、on the contrary（恰恰相反）、as a matter of fact（�
    > **解析**：`as a matter of fact` 是插入短语，意为“事实上、其实”，用于进一步澄清客观事实。
 
 7. **中文**：法官没有判处监禁，而是判处这名年轻犯人缓刑。  
-   **英文**：Rather than prison time, the judge sentenced the young offender to probation for client.
+   **英文**：Rather than prison time, the judge sentenced the young offender to probation.
    > **解析**：`probation` 是法律术语，意为“缓刑、观察期”。
 
 8. **中文**：律师反驳了对方提出的毫无根据的控告。  
@@ -114,24 +114,24 @@ object（反对）、on the contrary（恰恰相反）、as a matter of fact（�
    > **解析**：`accusation` 是可数名词，意为“指控、控告”。
 
 9. **中文**：他没有违法；恰恰相反，他试图制止打斗。  
-   **英文**：He did not break the law; on the contrary, he tried to stop the fight for defendant.
+   **英文**：He did not break the law; on the contrary, he tried to stop the fight.
    > **解析**：`on the contrary` 是插入连词短语，意为“恰恰相反”，引出相反事实。
 
 10. **中文**：当公民被召集履行陪审员义务时，他们会收到正式通知。  
-   **英文**：Citizens receive a formal notice when they are called for jury duty for evidence.
+   **英文**：Citizens receive a formal notice when they are called for jury duty.
    > **解析**：`jury duty` 意为“陪审员义务/陪审团职责”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The prosecutor presented solid physical evidence to prove the suspect's guilt for accusation.
+1. The prosecutor presented solid physical evidence to prove the suspect's guilt.
    > **中文**：检方出示了确凿的物证来证实嫌疑人的罪行。
 
 2. The suspect provided a verified alibi confirming he was out of town during the robbery.
    > **中文**：嫌疑人提供了经过核实的不在场证明，证实案发时他在外地。
 
-3. The attorney spent hours preparing the defendant for cross-examination for argue.
+3. The attorney spent hours preparing the defendant.
    > **中文**：律师花了数小时为被告准备接受交叉询问。
 
 4. An eyewitness stepped forward to testify about what happened at the scene (as a matter of fact).
@@ -143,16 +143,16 @@ object（反对）、on the contrary（恰恰相反）、as a matter of fact（�
 6. As a matter of fact, security cameras recorded the entire dispute clearly (break the law).
    > **中文**：事实上，监控摄像头清晰地记录下了整个纠纷过程。
 
-7. Rather than prison time, the judge sentenced the young offender to probation for client.
+7. Rather than prison time, the judge sentenced the young offender to probation.
    > **中文**：法官没有判处监禁，而是判处这名年轻犯人缓刑。
 
 8. The lawyer refuted the baseless accusation made by the opposing side (community service).
    > **中文**：律师反驳了对方提出的毫无根据的控告。
 
-9. He did not break the law; on the contrary, he tried to stop the fight for defendant.
+9. He did not break the law; on the contrary, he tried to stop the fight.
    > **中文**：他没有违法；恰恰相反，他试图制止打斗。
 
-10. Citizens receive a formal notice when they are called for jury duty for evidence.
+10. Citizens receive a formal notice when they are called for jury duty.
    > **中文**：当公民被召集履行陪审员义务时，他们会收到正式通知。
 
 </quiz-listening>
@@ -165,11 +165,11 @@ object（反对）、on the contrary（恰恰相反）、as a matter of fact（�
 
 ### 1
 
-The prosecutor presented solid physical evidence to prove the suspect's guilt for `____`.
+The prosecutor presented solid physical `____` to prove the suspect's guilt.
 
-- [x] accusation
-- [ ] as a matter of fact
-- [ ] client
+- [x] evidence
+- [ ] accusation
+- [ ] behind bars
 
 > **解析**：`evidence` 是不可数名词，意为“证据、证言”，搭配 `present evidence`。
 
@@ -178,18 +178,18 @@ The prosecutor presented solid physical evidence to prove the suspect's guilt fo
 The suspect provided a verified `____` confirming he was out of town during the robbery.
 
 - [x] alibi
-- [ ] behind bars
-- [ ] community service
+- [ ] argue
+- [ ] client
 
 > **解析**：`alibi` 是名词，意为“不在场证明/不在场犯罪证据”。
 
 ### 3
 
-The attorney spent hours preparing the defendant for cross-examination for `____`.
+The attorney spent hours preparing the `____`.
 
-- [x] argue
-- [ ] break the law
-- [ ] defendant
+- [x] defendant
+- [ ] argue
+- [ ] client
 
 > **解析**：`defendant` 是法律名词，意为“被告”。
 
@@ -198,8 +198,8 @@ The attorney spent hours preparing the defendant for cross-examination for `____
 An eyewitness stepped forward to testify about what happened at the scene (`____`).
 
 - [x] as a matter of fact
-- [ ] client
-- [ ] evidence
+- [ ] behind bars
+- [ ] defendant
 
 > **解析**：`eyewitness` 或 `witness` 意为“证人、目击者”。
 
@@ -208,8 +208,8 @@ An eyewitness stepped forward to testify about what happened at the scene (`____
 The dangerous criminal was finally put `____` after a trial.
 
 - [x] behind bars
-- [ ] community service
-- [ ] accusation
+- [ ] break the law
+- [ ] evidence
 
 > **解析**：`behind bars` 是介词短语，意为“在狱中、在铁窗后”。
 
@@ -218,48 +218,48 @@ The dangerous criminal was finally put `____` after a trial.
 As a matter of fact, security cameras recorded the entire dispute clearly (`____`).
 
 - [x] break the law
-- [ ] defendant
-- [ ] alibi
+- [ ] client
+- [ ] find
 
 > **解析**：`as a matter of fact` 是插入短语，意为“事实上、其实”，用于进一步澄清客观事实。
 
 ### 7
 
-Rather than prison time, the judge sentenced the young offender to probation for `____`.
+Rather than prison time, the `____` sentenced the young offender to probation.
 
-- [x] client
-- [ ] evidence
-- [ ] argue
+- [x] judge
+- [ ] client
+- [ ] find
 
 > **解析**：`probation` 是法律术语，意为“缓刑、观察期”。
 
 ### 8
 
-The lawyer refuted the baseless accusation made by the opposing side (`____`).
+The lawyer refuted the baseless `____` made by the opposing side (community service).
 
-- [x] community service
-- [ ] accusation
-- [ ] as a matter of fact
+- [x] accusation
+- [ ] defendant
+- [ ] if he was
 
 > **解析**：`accusation` 是可数名词，意为“指控、控告”。
 
 ### 9
 
-He did not break the law; on the contrary, he tried to stop the fight for `____`.
+He did not break the law; `____`, he tried to stop the fight.
 
-- [x] defendant
-- [ ] alibi
-- [ ] behind bars
+- [x] on the contrary
+- [ ] defendant
+- [ ] if he was
 
 > **解析**：`on the contrary` 是插入连词短语，意为“恰恰相反”，引出相反事实。
 
 ### 10
 
-Citizens receive a formal notice when they are called for jury duty for `____`.
+Citizens receive a formal notice when they are called for `____`.
 
-- [x] evidence
-- [ ] argue
-- [ ] break the law
+- [x] jury duty
+- [ ] evidence
+- [ ] if she had
 
 > **解析**：`jury duty` 意为“陪审员义务/陪审团职责”。
 

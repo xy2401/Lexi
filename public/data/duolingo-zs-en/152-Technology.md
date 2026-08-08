@@ -66,11 +66,11 @@ phrasal verbs（短语动词）是本单元重点：plug in, set up, sign up, ba
    > **解析**：accidentally 是副词，意为“偶然地、意外地”，在此处修饰动词 deleted，说明动作发生的非故意性。
 
 2. **中文**：点击页面底部的蓝色按钮提交你的申请。  
-   **英文**：Click the blue button at the bottom of the page to submit your application for attach.
+   **英文**：Click the blue button at the bottom of the page to submit your application.
    > **解析**：button 为可数名词，意为“按钮”。在网页或软件界面中，常见搭配 click the button（点击按钮）。
 
 3. **中文**：许多科技初创公司都使用 dot com 域名注册了公司名称。  
-   **英文**：Many tech start-ups registered their company names with a dot com domain for back.
+   **英文**：Many tech start-ups registered their company names with a dot com domain.
    > **解析**：dot com（.com）在互联网语境中指商业域名后缀，常用于形容网络商业公司或网址结尾。
 
 4. **中文**：当你尝试打开网页时，有注意到错误提示信息吗？  
@@ -78,15 +78,15 @@ phrasal verbs（短语动词）是本单元重点：plug in, set up, sign up, ba
    > **解析**：notice 是及物动词，意为“注意到、察觉到”。后面直接接名词或名词短语（the error message）作宾语。
 
 5. **中文**：设置新的在线邮箱账户只需要五分钟。  
-   **英文**：It takes only five minutes to set up your new online email account for button.
+   **英文**：It takes only five minutes to set up your new online email account.
    > **解析**：set up 是动词短语，意为“设置、安装、创建”。在网络服务中常指进行初始设定（set up an account）。
 
 6. **中文**：你可以使用智能手机轻松查询火车时刻表。  
-   **英文**：You can easily check the train schedule using your smartphone for connect.
+   **英文**：You can easily check the train schedule using your smartphone.
    > **解析**：smartphone 为可数名词，意为“智能手机”。在技术主题中，常作介词 using 或 with 的宾语。
 
 7. **中文**：请输入您注册的用户名和密码登录网站。  
-   **英文**：Please enter your registered username and password to log in to the website for cost.
+   **英文**：Please enter your registered username and password to log in to the website.
    > **解析**：username 为可数名词，意为“用户名”，是网络登录时的凭证名称，常与 password 连用。
 
 8. **中文**：发邮件前别忘了附上所要求的报告文件。  
@@ -94,7 +94,7 @@ phrasal verbs（短语动词）是本单元重点：plug in, set up, sign up, ba
    > **解析**：attach 为及物动词，意为“附上、附加”。在电子公文及邮件语境中，常用结构 attach A to B（把A附在B上）。
 
 9. **中文**：计算机未能连接上图书馆的无线网络。  
-   **英文**：The computer failed to connect to the Wi-Fi network in the library for follow.
+   **英文**：The computer failed to connect to the Wi-Fi network in the library.
    > **解析**：connect 是动词，意为“连接”。常见结构为 connect to sth.（连接到某网络或设备）。
 
 10. **中文**：我会在官方网站上查找这些技术定义。  
@@ -108,28 +108,28 @@ phrasal verbs（短语动词）是本单元重点：plug in, set up, sign up, ba
 1. I accidentally deleted the document while searching for the file online.
    > **中文**：我在网上搜索文件时，不小心删除了该文档。
 
-2. Click the blue button at the bottom of the page to submit your application for attach.
+2. Click the blue button at the bottom of the page to submit your application.
    > **中文**：点击页面底部的蓝色按钮提交你的申请。
 
-3. Many tech start-ups registered their company names with a dot com domain for back.
+3. Many tech start-ups registered their company names with a dot com domain.
    > **中文**：许多科技初创公司都使用 dot com 域名注册了公司名称。
 
 4. Did you notice the error message when you tried to open the web page? (back up).
    > **中文**：当你尝试打开网页时，有注意到错误提示信息吗？
 
-5. It takes only five minutes to set up your new online email account for button.
+5. It takes only five minutes to set up your new online email account.
    > **中文**：设置新的在线邮箱账户只需要五分钟。
 
-6. You can easily check the train schedule using your smartphone for connect.
+6. You can easily check the train schedule using your smartphone.
    > **中文**：你可以使用智能手机轻松查询火车时刻表。
 
-7. Please enter your registered username and password to log in to the website for cost.
+7. Please enter your registered username and password to log in to the website.
    > **中文**：请输入您注册的用户名和密码登录网站。
 
 8. Don't forget to attach the requested report to your email before sending it (dot com).
    > **中文**：发邮件前别忘了附上所要求的报告文件。
 
-9. The computer failed to connect to the Wi-Fi network in the library for follow.
+9. The computer failed to connect to the Wi-Fi network in the library.
    > **中文**：计算机未能连接上图书馆的无线网络。
 
 10. I will look up the technical definitions on the official website.
@@ -148,88 +148,88 @@ phrasal verbs（短语动词）是本单元重点：plug in, set up, sign up, ba
 I `____` deleted the document while searching for the file online.
 
 - [x] accidentally
-- [ ] back up
-- [ ] cost
+- [ ] attach
+- [ ] connect
 
 > **解析**：accidentally 是副词，意为“偶然地、意外地”，在此处修饰动词 deleted，说明动作发生的非故意性。
 
 ### 2
 
-Click the blue button at the bottom of the page to submit your application for `____`.
+Click the blue `____` at the bottom of the page to submit your application.
 
-- [x] attach
-- [ ] button
-- [ ] dot com
+- [x] button
+- [ ] attach
+- [ ] cost
 
 > **解析**：button 为可数名词，意为“按钮”。在网页或软件界面中，常见搭配 click the button（点击按钮）。
 
 ### 3
 
-Many tech start-ups registered their company names with a dot com domain for `____`.
+Many tech start-ups registered their company names with a `____` domain.
 
-- [x] back
-- [ ] connect
-- [ ] follow
+- [x] dot com
+- [ ] back
+- [ ] cost
 
 > **解析**：dot com（.com）在互联网语境中指商业域名后缀，常用于形容网络商业公司或网址结尾。
 
 ### 4
 
-Did you notice the error message when you tried to open the web page? (`____`).
+Did you notice the error message when you tried to open the web page? (`____` up).
 
-- [x] back up
-- [ ] cost
-- [ ] look
+- [x] back
+- [ ] button
+- [ ] follow
 
 > **解析**：notice 是及物动词，意为“注意到、察觉到”。后面直接接名词或名词短语（the error message）作宾语。
 
 ### 5
 
-It takes only five minutes to set up your new online email account for `____`.
+It takes only five minutes to `____` up your new online email account.
 
-- [x] button
-- [ ] dot com
-- [ ] accidentally
+- [x] set
+- [ ] button
+- [ ] follow
 
 > **解析**：set up 是动词短语，意为“设置、安装、创建”。在网络服务中常指进行初始设定（set up an account）。
 
 ### 6
 
-You can easily check the train schedule using your smartphone for `____`.
+You can easily check the train schedule using your `____`.
 
-- [x] connect
-- [ ] follow
-- [ ] attach
+- [x] smartphone
+- [ ] connect
+- [ ] look
 
 > **解析**：smartphone 为可数名词，意为“智能手机”。在技术主题中，常作介词 using 或 with 的宾语。
 
 ### 7
 
-Please enter your registered username and password to log in to the website for `____`.
+Please enter your registered `____` and password to log in to the website.
 
-- [x] cost
-- [ ] look
-- [ ] back
+- [x] username
+- [ ] cost
+- [ ] look up
 
 > **解析**：username 为可数名词，意为“用户名”，是网络登录时的凭证名称，常与 password 连用。
 
 ### 8
 
-Don't forget to attach the requested report to your email before sending it (`____`).
+Don't forget to `____` the requested report to your email before sending it (dot com).
 
-- [x] dot com
-- [ ] accidentally
-- [ ] back up
+- [x] attach
+- [ ] follow
+- [ ] plug
 
 > **解析**：attach 为及物动词，意为“附上、附加”。在电子公文及邮件语境中，常用结构 attach A to B（把A附在B上）。
 
 ### 9
 
-The computer failed to connect to the Wi-Fi network in the library for `____`.
+The computer failed to `____` to the Wi-Fi network in the library.
 
-- [x] follow
-- [ ] attach
-- [ ] button
+- [x] connect
+- [ ] look
+- [ ] plug in
 
 > **解析**：connect 是动词，意为“连接”。常见结构为 connect to sth.（连接到某网络或设备）。
 
@@ -238,8 +238,8 @@ The computer failed to connect to the Wi-Fi network in the library for `____`.
 I will `____` up the technical definitions on the official website.
 
 - [x] look
-- [ ] back
-- [ ] connect
+- [ ] look up
+- [ ] set
 
 > **解析**：look 短语 look up 意为“在参考书或网络中查阅（信息）”，结构为 look up sth. 或 look sth. up。
 

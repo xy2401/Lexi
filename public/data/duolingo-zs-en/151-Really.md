@@ -66,11 +66,11 @@ forgive → forgave → forgiven 是不规则变化。must 表推测（一定）
    > **解析**：all right 在此处用作感叹词/口语过渡词，表示“好吧、行”，用于引出追问或要求对方说明原因。
 
 2. **中文**：我不关心你的借口；我只想听听真正的真相。  
-   **英文**：I don't care about your excuses; I just want to hear the real truth for anything.
+   **英文**：I don't care about your excuses; I just want to hear the real truth.
    > **解析**：care 在此处作动词，意为“在乎、关心”。常用否定搭配 don't care about sth.（不在乎某事）。
 
 3. **中文**：在他真诚道歉后，她原谅了他弄丢钥匙的事。  
-   **英文**：She forgave him for losing the keys after he sincerely apologized for be.
+   **英文**：She forgave him for losing the keys after he sincerely apologized.
    > **解析**：forgave 是动词 forgive 的过去式，意为“原谅”。常用结构 forgive sb. for sth./doing sth.。
 
 4. **中文**：继续说，你打开那个神秘包裹之后发生什么了？  
@@ -78,23 +78,23 @@ forgive → forgave → forgiven 是不规则变化。must 表推测（一定）
    > **解析**：go on 在此处为短语动词，用作祈使句，意为“继续说下去”，常用于鼓励说话者提供更多细节。
 
 5. **中文**：那完全不可能，因为我今天早上亲自把文件交给了他！  
-   **英文**：That's completely impossible, because I personally handed the documents to him this morning (can't).
+   **英文**：That's completely impossible, because I personally handed the documents to him this morning.
    > **解析**：impossible 为形容词，意为“不可能的”。在表强烈惊讶时常用作表语（That's impossible!）。
 
 6. **中文**：你为什么这样看着我，好像我做了什么可怕的事情一样？  
-   **英文**：Why are you looking at me like this, as if I did something terrible? for care.
+   **英文**：Why are you looking at me like this, as if I did something terrible.
    > **解析**：like this 在此处作副词性短语，意为“像这样”，修饰动词 look，表达对对方眼神或态度的惊讶与质疑。
 
 7. **中文**：真的吗，你是说活动在最后时刻被取消了吗？  
-   **英文**：Seriously, are you telling me that the event was canceled at the last minute? for embarrassed.
+   **英文**：Seriously, are you telling me that the event was canceled at the last minute.
    > **解析**：seriously 在此处用作句首副词，表示“说真的、真的吗”，用于表达对意外消息的不可思议与要求确认。
 
 8. **中文**：你走进空无一人的办公室时，有注意到什么不寻常的事吗？  
-   **英文**：Did you notice anything unusual when you walked into the empty office? for embarrassing.
+   **英文**：Did you notice anything unusual when you walked into the empty office.
    > **解析**：anything 为不定代词，意为“任何事物”。在疑问句中通常替代 something，后面后置形容词修饰（anything unusual）。
 
 9. **中文**：当他意识到自己把咖啡洒得满衬衫都是时，感到非常尴尬。  
-   **英文**：He felt deeply embarrassed when he realized he had spilled coffee all over his shirt for forgave.
+   **英文**：He felt deeply embarrassed when he realized he had spilled coffee all over his shirt.
    > **解析**：embarrassed 是形容词，指“人感到尴尬的”，常用搭配 feel/be embarrassed，主语通常为人。
 
 10. **中文**：虽然你犯了错，但你已经得到了全队的原谅。  
@@ -108,28 +108,28 @@ forgive → forgave → forgiven 是不规则变化。must 表推测（一定）
 1. All right, explain to me why you skipped the meeting without telling anyone.
    > **中文**：好吧，跟我解释一下你为什么没通知任何人就缺席了会议。
 
-2. I don't care about your excuses; I just want to hear the real truth for anything.
+2. I don't care about your excuses; I just want to hear the real truth.
    > **中文**：我不关心你的借口；我只想听听真正的真相。
 
-3. She forgave him for losing the keys after he sincerely apologized for be.
+3. She forgave him for losing the keys after he sincerely apologized.
    > **中文**：在他真诚道歉后，她原谅了他弄丢钥匙的事。
 
 4. Go on, tell me what happened after you opened the mysterious package (by the way).
    > **中文**：继续说，你打开那个神秘包裹之后发生什么了？
 
-5. That's completely impossible, because I personally handed the documents to him this morning (can't).
+5. That's completely impossible, because I personally handed the documents to him this morning.
    > **中文**：那完全不可能，因为我今天早上亲自把文件交给了他！
 
-6. Why are you looking at me like this, as if I did something terrible? for care.
+6. Why are you looking at me like this, as if I did something terrible.
    > **中文**：你为什么这样看着我，好像我做了什么可怕的事情一样？
 
-7. Seriously, are you telling me that the event was canceled at the last minute? for embarrassed.
+7. Seriously, are you telling me that the event was canceled at the last minute.
    > **中文**：真的吗，你是说活动在最后时刻被取消了吗？
 
-8. Did you notice anything unusual when you walked into the empty office? for embarrassing.
+8. Did you notice anything unusual when you walked into the empty office.
    > **中文**：你走进空无一人的办公室时，有注意到什么不寻常的事吗？
 
-9. He felt deeply embarrassed when he realized he had spilled coffee all over his shirt for forgave.
+9. He felt deeply embarrassed when he realized he had spilled coffee all over his shirt.
    > **中文**：当他意识到自己把咖啡洒得满衬衫都是时，感到非常尴尬。
 
 10. Although you made a mistake, you have been forgiven by the entire team.
@@ -148,28 +148,28 @@ forgive → forgave → forgiven 是不规则变化。must 表推测（一定）
 `____`, explain to me why you skipped the meeting without telling anyone.
 
 - [x] all right
-- [ ] by the way
-- [ ] embarrassed
+- [ ] anything
+- [ ] care
 
 > **解析**：all right 在此处用作感叹词/口语过渡词，表示“好吧、行”，用于引出追问或要求对方说明原因。
 
 ### 2
 
-I don't care about your excuses; I just want to hear the real truth for `____`.
+I don't `____` about your excuses; I just want to hear the real truth.
 
-- [x] anything
-- [ ] can't
-- [ ] embarrassing
+- [x] care
+- [ ] anything
+- [ ] embarrassed
 
 > **解析**：care 在此处作动词，意为“在乎、关心”。常用否定搭配 don't care about sth.（不在乎某事）。
 
 ### 3
 
-She forgave him for losing the keys after he sincerely apologized for `____`.
+She `____` him for losing the keys after he sincerely apologized.
 
-- [x] be
-- [ ] care
-- [ ] forgave
+- [x] forgave
+- [ ] be
+- [ ] embarrassed
 
 > **解析**：forgave 是动词 forgive 的过去式，意为“原谅”。常用结构 forgive sb. for sth./doing sth.。
 
@@ -178,58 +178,58 @@ She forgave him for losing the keys after he sincerely apologized for `____`.
 Go on, tell me what happened after you opened the mysterious package (`____`).
 
 - [x] by the way
-- [ ] embarrassed
-- [ ] forgive
+- [ ] can't
+- [ ] forgave
 
 > **解析**：go on 在此处为短语动词，用作祈使句，意为“继续说下去”，常用于鼓励说话者提供更多细节。
 
 ### 5
 
-That's completely impossible, because I personally handed the documents to him this morning (`____`).
+That's completely impossible, `____`cause I personally handed the documents to him this morning.
 
-- [x] can't
-- [ ] embarrassing
-- [ ] all right
+- [x] be
+- [ ] care
+- [ ] forgive
 
 > **解析**：impossible 为形容词，意为“不可能的”。在表强烈惊讶时常用作表语（That's impossible!）。
 
 ### 6
 
-Why are you looking at me like this, as if I did something terrible? for `____`.
+Why are you looking at me `____`, as if I did something terrible.
 
-- [x] care
-- [ ] forgave
-- [ ] anything
+- [x] like this
+- [ ] care
+- [ ] forgive
 
 > **解析**：like this 在此处作副词性短语，意为“像这样”，修饰动词 look，表达对对方眼神或态度的惊讶与质疑。
 
 ### 7
 
-Seriously, are you telling me that the event was canceled at the last minute? for `____`.
+`____`, are you telling me that the event was canceled at the last minute.
 
-- [x] embarrassed
-- [ ] forgive
-- [ ] be
+- [x] seriously
+- [ ] embarrassed
+- [ ] forgiven
 
 > **解析**：seriously 在此处用作句首副词，表示“说真的、真的吗”，用于表达对意外消息的不可思议与要求确认。
 
 ### 8
 
-Did you notice anything unusual when you walked into the empty office? for `____`.
+Did you notice `____` unusual when you walked into the empty office.
 
-- [x] embarrassing
-- [ ] all right
-- [ ] by the way
+- [x] anything
+- [ ] forgave
+- [ ] go on
 
 > **解析**：anything 为不定代词，意为“任何事物”。在疑问句中通常替代 something，后面后置形容词修饰（anything unusual）。
 
 ### 9
 
-He felt deeply embarrassed when he realized he had spilled coffee all over his shirt for `____`.
+He felt deeply `____` when he realized he had spilled coffee all over his shirt.
 
-- [x] forgave
-- [ ] anything
-- [ ] can't
+- [x] embarrassed
+- [ ] forgive
+- [ ] guess what
 
 > **解析**：embarrassed 是形容词，指“人感到尴尬的”，常用搭配 feel/be embarrassed，主语通常为人。
 
@@ -238,8 +238,8 @@ He felt deeply embarrassed when he realized he had spilled coffee all over his s
 Although you made a mistake, you have been `____`n by the entire team.
 
 - [x] forgive
-- [ ] be
-- [ ] care
+- [ ] forgiven
+- [ ] have
 
 > **解析**：forgiven 是动词 forgive 的过去分词，在此处与助动词 combined 构成现在完成时的被动语态（have been forgiven）。
 

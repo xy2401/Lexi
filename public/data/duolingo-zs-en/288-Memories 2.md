@@ -70,7 +70,7 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
    > **解析**：`hide and seek` 是经典儿童游戏名词，意为“捉迷藏”，在句中作动词 `playing` 的宾语。
 
 3. **中文**：看到这些复古玩具让我对童年产生了深深的怀旧感。  
-   **英文**：Seeing these vintage toys made me feel deeply nostalgic about my childhood for berries.
+   **英文**：Seeing these vintage toys made me feel deeply nostalgic about my childhood.
    > **解析**：`nostalgic` 是形容词，意为“怀旧的、追忆往事的”，常用搭配 `feel nostalgic about...`。
 
 4. **中文**：在学校课间休息时，每个人都跑到操场上去跳绳。  
@@ -82,7 +82,7 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
    > **解析**：`fond` 是形容词，在句中作定语修饰 `memories`，短语 `fond memories` 表示“美好的回忆”。
 
 6. **中文**：我爸爸在院子里的那棵大橡树上建了一个结实的木制树屋。  
-   **英文**：My dad built a sturdy wooden tree house in the large oak tree in our yard for dodgeball.
+   **英文**：My dad built a sturdy wooden tree house in the large oak tree in our yard.
    > **解析**：`tree house` 是复合名词，意为“树屋”，由 `tree` + `house` 构成。
 
 7. **中文**：小孩子们喜欢吹泡泡并在公园里追着泡泡跑。  
@@ -90,7 +90,7 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
    > **解析**：`blow bubbles` 是动词短语，意为“吹泡泡”，在句中作不定式 `to blow bubbles` 的核心。
 
 8. **中文**：我们在草地上玩追赶抓人游戏，直到累得筋疲力尽。  
-   **英文**：We played a game of tag on the grass until we were completely tired out for fond.
+   **英文**：We played a game of tag on the grass until we were completely tired out.
    > **解析**：`tag` 作为传统儿童游戏意为“捉人游戏/抓人游戏”，常用搭配 `play a game of tag`。
 
 9. **中文**：我的祖父母花了几个小时畅谈他们年轻时的美好昔日。  
@@ -111,7 +111,7 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
 2. The children spent the whole afternoon playing hide and seek in the backyard (another thing).
    > **中文**：孩子们一整个下午都在后院玩捉迷藏。
 
-3. Seeing these vintage toys made me feel deeply nostalgic about my childhood for berries.
+3. Seeing these vintage toys made me feel deeply nostalgic about my childhood.
    > **中文**：看到这些复古玩具让我对童年产生了深深的怀旧感。
 
 4. During school recess, everyone ran to the playground to play jump rope (blow bubbles).
@@ -120,13 +120,13 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
 5. She has very fond memories of spending holidays at her grandparents' farm (bubble gum).
    > **中文**：她对在祖父母农场度过的假期留有非常美好的回忆。
 
-6. My dad built a sturdy wooden tree house in the large oak tree in our yard for dodgeball.
+6. My dad built a sturdy wooden tree house in the large oak tree in our yard.
    > **中文**：我爸爸在院子里的那棵大橡树上建了一个结实的木制树屋。
 
 7. Little kids love to blow bubbles and chase them around the park (every so often).
    > **中文**：小孩子们喜欢吹泡泡并在公园里追着泡泡跑。
 
-8. We played a game of tag on the grass until we were completely tired out for fond.
+8. We played a game of tag on the grass until we were completely tired out.
    > **中文**：我们在草地上玩追赶抓人游戏，直到累得筋疲力尽。
 
 9. My grandparents spent hours talking about the good old days of their youth.
@@ -148,8 +148,8 @@ always used to, another thing, berries, blow bubbles, bubble gum, dodgeball, eve
 We used to play outside until sunset during summer vacations (`____`).
 
 - [x] always used to
-- [ ] blow bubbles
-- [ ] every so often
+- [ ] another thing
+- [ ] dodgeball
 
 > **解析**：`used to + 动词原形` 表示过去习惯性发生而现在已不再进行的动作，意为“过去常常”。
 
@@ -158,18 +158,18 @@ We used to play outside until sunset during summer vacations (`____`).
 The children spent the whole afternoon playing hide and seek in the backyard (`____`).
 
 - [x] another thing
-- [ ] bubble gum
-- [ ] fond
+- [ ] berries
+- [ ] every so often
 
 > **解析**：`hide and seek` 是经典儿童游戏名词，意为“捉迷藏”，在句中作动词 `playing` 的宾语。
 
 ### 3
 
-Seeing these vintage toys made me feel deeply nostalgic about my childhood for `____`.
+Seeing these vintage toys made me feel deeply `____` about my childhood.
 
-- [x] berries
-- [ ] dodgeball
-- [ ] good old days
+- [x] nostalgic
+- [ ] berries
+- [ ] every so often
 
 > **解析**：`nostalgic` 是形容词，意为“怀旧的、追忆往事的”，常用搭配 `feel nostalgic about...`。
 
@@ -178,8 +178,8 @@ Seeing these vintage toys made me feel deeply nostalgic about my childhood for `
 During school recess, everyone ran to the playground to play jump rope (`____`).
 
 - [x] blow bubbles
-- [ ] every so often
-- [ ] hide and seek
+- [ ] bubble gum
+- [ ] good old days
 
 > **解析**：`recess` 在学校语境中指“课间休息”，常用搭配 `during recess`。
 
@@ -188,18 +188,18 @@ During school recess, everyone ran to the playground to play jump rope (`____`).
 She has very fond memories of spending holidays at her grandparents' farm (`____`).
 
 - [x] bubble gum
-- [ ] fond
-- [ ] always used to
+- [ ] dodgeball
+- [ ] hide and seek
 
 > **解析**：`fond` 是形容词，在句中作定语修饰 `memories`，短语 `fond memories` 表示“美好的回忆”。
 
 ### 6
 
-My dad built a sturdy wooden tree house in the large oak tree in our yard for `____`.
+My dad built a sturdy wooden `____` in the large oak tree in our yard.
 
-- [x] dodgeball
-- [ ] good old days
-- [ ] another thing
+- [x] tree house
+- [ ] dodgeball
+- [ ] hide and seek
 
 > **解析**：`tree house` 是复合名词，意为“树屋”，由 `tree` + `house` 构成。
 
@@ -208,18 +208,18 @@ My dad built a sturdy wooden tree house in the large oak tree in our yard for `_
 Little kids love to blow bubbles and chase them around the park (`____`).
 
 - [x] every so often
-- [ ] hide and seek
-- [ ] berries
+- [ ] fond
+- [ ] lollipop
 
 > **解析**：`blow bubbles` 是动词短语，意为“吹泡泡”，在句中作不定式 `to blow bubbles` 的核心。
 
 ### 8
 
-We played a game of tag on the grass until we were completely tired out for `____`.
+We played a game of `____` on the grass until we were completely tired out.
 
-- [x] fond
-- [ ] always used to
-- [ ] blow bubbles
+- [x] tag
+- [ ] fond
+- [ ] lollipop
 
 > **解析**：`tag` 作为传统儿童游戏意为“捉人游戏/抓人游戏”，常用搭配 `play a game of tag`。
 
@@ -228,8 +228,8 @@ We played a game of tag on the grass until we were completely tired out for `___
 My grandparents spent hours talking about the `____` of their youth.
 
 - [x] good old days
-- [ ] another thing
-- [ ] bubble gum
+- [ ] hide and seek
+- [ ] recess
 
 > **解析**：`good old days` 是固定短语，意为“昔日好时光、过去的辉煌岁月”，前面常加 `the`。
 
@@ -238,8 +238,8 @@ My grandparents spent hours talking about the `____` of their youth.
 They gathered around the kitchen table to reminisce about their high school adventures (`____`).
 
 - [x] hide and seek
-- [ ] berries
-- [ ] dodgeball
+- [ ] jump rope
+- [ ] reminisce
 
 > **解析**：`reminisce` 是动词，意为“追忆、说起往事”，常用介词 `about` 引导追忆的内容。
 

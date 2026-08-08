@@ -54,19 +54,19 @@ but, by, convince, could, doubt that, lamb, option, point, politely, progress, r
 <quiz-sentence-builder>
 
 1. **中文**：我推荐点烤羊肉，因为这是这里的招牌菜。  
-   **英文**：I would recommend ordering the grilled lamb because it is the specialty here for but.
+   **英文**：I would recommend ordering the grilled lamb because it is the specialty here.
    > **解析**：recommend 动词，意为“推荐”，后可接名词、代词或动名词（doing），常用于提出餐饮建议；句中 would 增加委婉客气的礼貌语气。
 
 2. **中文**：如果你喜欢嫩肉，香草烤羊肉是个极佳的选择。  
-   **英文**：If you enjoy tender meat, the roast lamb with herbs is an excellent choice for by.
+   **英文**：If you enjoy tender meat, the roast lamb with herbs is an excellent choice about but.
    > **解析**：lamb 名词，指“羊肉”（不可数）或“小羊”（可数），在餐饮语境中常用作主菜说明。
 
 3. **中文**：我们的菜单为纯素食者提供几种美味的素食选择。  
-   **英文**：Our menu features several delicious vegetarian options for plant-based diets for convince.
+   **英文**：Our menu features several delicious vegetarian options for plant-based diets.
    > **解析**：vegetarian 可作形容词“素食的”或名词“素食主义者”，在此作形容词修饰名词 options。
 
 4. **中文**：如果你喜欢更清淡的餐食，新鲜的花园沙拉是另一个健康的选择。  
-   **英文**：If you prefer a lighter meal, a fresh garden salad is another healthy option for could.
+   **英文**：If you prefer a lighter meal, a fresh garden salad is another healthy option about by.
    > **解析**：option 可数名词，表示“选择；可选项”，比 choice 更强调供挑选的具体项目。
 
 5. **中文**：服务员成功说服我们尝尝他们的招牌甜点。  
@@ -74,57 +74,57 @@ but, by, convince, could, doubt that, lamb, option, point, politely, progress, r
    > **解析**：convince 动词，意为“说服”，常用结构为 convince somebody to do something（说服某人做某事）。
 
 6. **中文**：我怀疑如果没有提前预订，他们是否还会有空桌。  
-   **英文**：I doubt that they will have any open tables without a prior reservation for lamb.
+   **英文**：I doubt that they will have any open tables without a prior reservation.
    > **解析**：doubt that 为常用宾语从句句型，意为“怀疑……；认为……未必”，表达对某种可能性的怀疑。
 
 7. **中文**：这座海滨度假村以新鲜的海鲜和浪漫的风景而闻名。  
-   **英文**：This seaside resort is famous for its fresh seafood and romantic views for option.
+   **英文**：This seaside resort is famous for its fresh seafood and romantic views.
    > **解析**：resort 名词，意为“度假胜地；度假村”，常与 seaside、beach 等连用说明类型。
 
 8. **中文**：女服务员礼貌地推荐了主厨今日特例汤品。  
-   **英文**：The waitress politely recommended the chef's special soup of the day for point.
+   **英文**：The waitress politely recommended the chef's special soup of the day.
    > **解析**：politely 副词，意为“礼貌地”，由形容词 polite 加后缀 -ly 构成，修饰动词 recommended。
 
 9. **中文**：在离开山庄度假村之前，我们买了一件漂亮的手工纪念品。  
-   **英文**：Before leaving the mountain resort, we bought a beautiful handmade souvenir for politely.
+   **英文**：Before leaving the mountain resort, we bought a beautiful handmade souvenir.
    > **解析**：souvenir 可数名词，意为“纪念品”，来源于法语，指留作纪念的物品。
 
 10. **中文**：她提出了很有道理的一点，即我们应该先查看饮品价格。  
-   **英文**：She made a valid point that we should check the drink prices first for progress.
+   **英文**：She made a valid point that we should check the drink prices first.
    > **解析**：point 名词，在此意为“观点；要点”，短语 make a point 表示“提出观点/看法”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I would recommend ordering the grilled lamb because it is the specialty here for but.
+1. I would recommend ordering the grilled lamb because it is the specialty here.
    > **中文**：我推荐点烤羊肉，因为这是这里的招牌菜。
 
-2. If you enjoy tender meat, the roast lamb with herbs is an excellent choice for by.
+2. If you enjoy tender meat, the roast lamb with herbs is an excellent choice about but.
    > **中文**：如果你喜欢嫩肉，香草烤羊肉是个极佳的选择。
 
-3. Our menu features several delicious vegetarian options for plant-based diets for convince.
+3. Our menu features several delicious vegetarian options for plant-based diets.
    > **中文**：我们的菜单为纯素食者提供几种美味的素食选择。
 
-4. If you prefer a lighter meal, a fresh garden salad is another healthy option for could.
+4. If you prefer a lighter meal, a fresh garden salad is another healthy option about by.
    > **中文**：如果你喜欢更清淡的餐食，新鲜的花园沙拉是另一个健康的选择。
 
 5. The server managed to convince us to try their signature dessert (doubt that).
    > **中文**：服务员成功说服我们尝尝他们的招牌甜点。
 
-6. I doubt that they will have any open tables without a prior reservation for lamb.
+6. I doubt that they will have any open tables without a prior reservation.
    > **中文**：我怀疑如果没有提前预订，他们是否还会有空桌。
 
-7. This seaside resort is famous for its fresh seafood and romantic views for option.
+7. This seaside resort is famous for its fresh seafood and romantic views.
    > **中文**：这座海滨度假村以新鲜的海鲜和浪漫的风景而闻名。
 
-8. The waitress politely recommended the chef's special soup of the day for point.
+8. The waitress politely recommended the chef's special soup of the day.
    > **中文**：女服务员礼貌地推荐了主厨今日特例汤品。
 
-9. Before leaving the mountain resort, we bought a beautiful handmade souvenir for politely.
+9. Before leaving the mountain resort, we bought a beautiful handmade souvenir.
    > **中文**：在离开山庄度假村之前，我们买了一件漂亮的手工纪念品。
 
-10. She made a valid point that we should check the drink prices first for progress.
+10. She made a valid point that we should check the drink prices first.
    > **中文**：她提出了很有道理的一点，即我们应该先查看饮品价格。
 
 </quiz-listening>
@@ -137,101 +137,101 @@ but, by, convince, could, doubt that, lamb, option, point, politely, progress, r
 
 ### 1
 
-I would recommend ordering the grilled lamb because it is the specialty here for `____`.
+I would recommend ordering the grilled `____` because it is the specialty here.
 
-- [x] but
-- [ ] could
-- [ ] option
+- [x] lamb
+- [ ] but
+- [ ] doubt that
 
 > **解析**：recommend 动词，意为“推荐”，后可接名词、代词或动名词（doing），常用于提出餐饮建议；句中 would 增加委婉客气的礼貌语气。
 
 ### 2
 
-If you enjoy tender meat, the roast lamb with herbs is an excellent choice for `____`.
+If you enjoy tender meat, the roast lamb with herbs is an excellent choice about `____`.
 
-- [x] by
-- [ ] doubt that
-- [ ] point
+- [x] but
+- [ ] convince
+- [ ] option
 
 > **解析**：lamb 名词，指“羊肉”（不可数）或“小羊”（可数），在餐饮语境中常用作主菜说明。
 
 ### 3
 
-Our menu features several delicious vegetarian options for plant-based diets for `____`.
+Our menu features several delicious vegetarian `____`s for plant-based diets.
 
-- [x] convince
-- [ ] lamb
-- [ ] politely
+- [x] option
+- [ ] convince
+- [ ] point
 
 > **解析**：vegetarian 可作形容词“素食的”或名词“素食主义者”，在此作形容词修饰名词 options。
 
 ### 4
 
-If you prefer a lighter meal, a fresh garden salad is another healthy option for `____`.
+If you prefer a lighter meal, a fresh garden salad is another healthy option about `____`.
 
-- [x] could
-- [ ] option
-- [ ] progress
+- [x] by
+- [ ] doubt that
+- [ ] politely
 
 > **解析**：option 可数名词，表示“选择；可选项”，比 choice 更强调供挑选的具体项目。
 
 ### 5
 
-The server managed to convince us to try their signature dessert (`____`).
+The server managed to `____` us to try their signature dessert (doubt that).
 
-- [x] doubt that
-- [ ] point
-- [ ] but
+- [x] convince
+- [ ] lamb
+- [ ] progress
 
 > **解析**：convince 动词，意为“说服”，常用结构为 convince somebody to do something（说服某人做某事）。
 
 ### 6
 
-I doubt that they will have any open tables without a prior reservation for `____`.
+I `____` they will have any open tables without a prior reservation.
 
-- [x] lamb
-- [ ] politely
-- [ ] by
+- [x] doubt that
+- [ ] option
+- [ ] recommend
 
 > **解析**：doubt that 为常用宾语从句句型，意为“怀疑……；认为……未必”，表达对某种可能性的怀疑。
 
 ### 7
 
-This seaside resort is famous for its fresh seafood and romantic views for `____`.
+This seaside `____` is famous for its fresh seafood and romantic views.
 
-- [x] option
-- [ ] progress
-- [ ] convince
+- [x] resort
+- [ ] option
+- [ ] recommend
 
 > **解析**：resort 名词，意为“度假胜地；度假村”，常与 seaside、beach 等连用说明类型。
 
 ### 8
 
-The waitress politely recommended the chef's special soup of the day for `____`.
+The waitress `____` recommended the chef's special soup of the day.
 
-- [x] point
-- [ ] but
-- [ ] could
+- [x] politely
+- [ ] point
+- [ ] rude
 
 > **解析**：politely 副词，意为“礼貌地”，由形容词 polite 加后缀 -ly 构成，修饰动词 recommended。
 
 ### 9
 
-Before leaving the mountain resort, we bought a beautiful handmade souvenir for `____`.
+Before leaving the mountain re`____`rt, we bought a beautiful handmade souvenir.
 
-- [x] politely
-- [ ] by
-- [ ] doubt that
+- [x] so
+- [ ] politely
+- [ ] rude
 
 > **解析**：souvenir 可数名词，意为“纪念品”，来源于法语，指留作纪念的物品。
 
 ### 10
 
-She made a valid point that we should check the drink prices first for `____`.
+She made a valid `____` that we should check the drink prices first.
 
-- [x] progress
-- [ ] convince
-- [ ] lamb
+- [x] point
+- [ ] recommend
+- [ ] so
 
 > **解析**：point 名词，在此意为“观点；要点”，短语 make a point 表示“提出观点/看法”。
 

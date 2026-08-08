@@ -62,15 +62,15 @@ in my opinion 表示"在我看来"。sound like / seem like / look like 表示"�
 <quiz-sentence-builder>
 
 1. **中文**：既然周五是我的休息日，我可以一整天帮忙布置派对装饰。  
-   **英文**：Since Friday is my day off, I can help organize the party decorations all day for although.
+   **英文**：Since Friday is my day off, I can help organize the party decorations all day.
    > **解析**：day off 为名词短语，意为“休息日、休假”。on one's day off 表示“在某人的休息日”。
 
 2. **中文**：在我看来，请一个现场乐队会让生日派对更加热闹。  
-   **英文**：In my opinion, hiring a live band will make the birthday party more lively for cabbage.
+   **英文**：In my opinion, hiring a live band will make the birthday party more lively.
    > **解析**：in my opinion 为固定介词短语，置于句首作插入语/状语，意为“在我看来、依我之见”。表达个人观点。
 
 3. **中文**：夏威夷海滩主题听起来是个绝妙的派对主意！  
-   **英文**：Hawaiian beach themes sound like a fantastic idea for the party for chili.
+   **英文**：Hawaiian beach themes sound like a fantastic idea for the party.
    > **解析**：sound like 为动词短语，意为“听起来像”。后接名词或名词短语（a fantastic idea）。
 
 4. **中文**：我们应当为派对菜单订购新鲜的烤虾和点心。  
@@ -78,7 +78,7 @@ in my opinion 表示"在我看来"。sound like / seem like / look like 表示"�
    > **解析**：shrimp 为名词，意为“虾、大虾”。grilled shrimp 表示“烤虾”。单复数形式同形或加 -s。
 
 5. **中文**：大卫因为出差不能来参加派对，真是太可惜了。  
-   **英文**：It is too bad that David cannot come to the party because of a business trip for imagine.
+   **英文**：It is too bad that David cannot come to the party because of a business trip.
    > **解析**：too bad 为固定表达，意为“太遗憾了、太可惜了”。It is too bad that... 引导从句，表达遗憾之情。
 
 6. **中文**：我们邀请的几乎每个人都给予了积极的回应。  
@@ -86,11 +86,11 @@ in my opinion 表示"在我看来"。sound like / seem like / look like 表示"�
    > **解析**：response 为名词，意为“回应、回复”。receive a positive response 表示“收到积极回应”。与介词 to 搭配（response to the invitation）。
 
 7. **中文**：我们需要弄清楚场地是否允许外部餐饮服务。  
-   **英文**：We need to find out whether the venue allows outside catering services for increase.
+   **英文**：We need to find out whether the venue allows outside catering services.
    > **解析**：whether 为连词，引导宾语从句，意为“是否”。与 or not 连用（whether or not...）。
 
 8. **中文**：虽然预算紧缺，我们仍然可以举办一次令人难忘的欢送派对。  
-   **英文**：Although the budget is tight, we can still host a memorable farewell party for lift.
+   **英文**：Although the budget is tight, we can still host a memorable farewell party.
    > **解析**：although 为从属连词，引导让步状语从句，意为“虽然、尽管”。注意不能与 but 在同一个句子中连用。
 
 9. **中文**：有了五彩斑斓的气球，场地看起来可以像一座童话宫殿。  
@@ -98,41 +98,41 @@ in my opinion 表示"在我看来"。sound like / seem like / look like 表示"�
    > **解析**：look like 为动词短语，意为“看起来像”。后接名词短语（a fairy palace）。
 
 10. **中文**：我无法想象当她看到这个惊喜派对时会有多激动！  
-   **英文**：I cannot imagine how excited she will be when she sees the surprise party for pay.
+   **英文**：I cannot imagine how excited she will be when she sees the surprise party.
    > **解析**：imagine 为动词，意为“想象”。后接感叹句/疑问词引导的宾语从句（how excited she will be）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Since Friday is my day off, I can help organize the party decorations all day for although.
+1. Since Friday is my day off, I can help organize the party decorations all day.
    > **中文**：既然周五是我的休息日，我可以一整天帮忙布置派对装饰。
 
-2. In my opinion, hiring a live band will make the birthday party more lively for cabbage.
+2. In my opinion, hiring a live band will make the birthday party more lively.
    > **中文**：在我看来，请一个现场乐队会让生日派对更加热闹。
 
-3. Hawaiian beach themes sound like a fantastic idea for the party for chili.
+3. Hawaiian beach themes sound like a fantastic idea for the party.
    > **中文**：夏威夷海滩主题听起来是个绝妙的派对主意！
 
 4. We should order fresh grilled shrimp and snacks for the party menu (day off).
    > **中文**：我们应当为派对菜单订购新鲜的烤虾和点心。
 
-5. It is too bad that David cannot come to the party because of a business trip for imagine.
+5. It is too bad that David cannot come to the party because of a business trip.
    > **中文**：大卫因为出差不能来参加派对，真是太可惜了。
 
 6. We received a positive response from almost everyone we invited to the event (in my opinion).
    > **中文**：我们邀请的几乎每个人都给予了积极的回应。
 
-7. We need to find out whether the venue allows outside catering services for increase.
+7. We need to find out whether the venue allows outside catering services.
    > **中文**：我们需要弄清楚场地是否允许外部餐饮服务。
 
-8. Although the budget is tight, we can still host a memorable farewell party for lift.
+8. Although the budget is tight, we can still host a memorable farewell party.
    > **中文**：虽然预算紧缺，我们仍然可以举办一次令人难忘的欢送派对。
 
 9. With colorful balloons, the venue can look like a fairy palace.
    > **中文**：有了五彩斑斓的气球，场地看起来可以像一座童话宫殿。
 
-10. I cannot imagine how excited she will be when she sees the surprise party for pay.
+10. I cannot imagine how excited she will be when she sees the surprise party.
    > **中文**：我无法想象当她看到这个惊喜派对时会有多激动！
 
 </quiz-listening>
@@ -145,81 +145,81 @@ in my opinion 表示"在我看来"。sound like / seem like / look like 表示"�
 
 ### 1
 
-Since Friday is my day off, I can help organize the party decorations all day for `____`.
+Since Friday is my `____`, I can help organize the party decorations all day.
 
-- [x] although
-- [ ] day off
-- [ ] increase
+- [x] day off
+- [ ] although
+- [ ] in my opinion
 
 > **解析**：day off 为名词短语，意为“休息日、休假”。on one's day off 表示“在某人的休息日”。
 
 ### 2
 
-In my opinion, hiring a live band will make the birthday party more lively for `____`.
+`____`, hiring a live band will make the birthday party more lively.
 
-- [x] cabbage
-- [ ] imagine
-- [ ] lift
+- [x] in my opinion
+- [ ] cabbage
+- [ ] increase
 
 > **解析**：in my opinion 为固定介词短语，置于句首作插入语/状语，意为“在我看来、依我之见”。表达个人观点。
 
 ### 3
 
-Hawaiian beach themes sound like a fantastic idea for the party for `____`.
+Hawaiian beach themes `____` a fantastic idea for the party.
 
-- [x] chili
-- [ ] in my opinion
-- [ ] look like
+- [x] sound like
+- [ ] chili
+- [ ] increase
 
 > **解析**：sound like 为动词短语，意为“听起来像”。后接名词或名词短语（a fantastic idea）。
 
 ### 4
 
-We should order fresh grilled shrimp and snacks for the party menu (`____`).
+We should order fresh grilled `____` and snacks for the party menu (day off).
 
-- [x] day off
-- [ ] increase
-- [ ] pay
+- [x] shrimp
+- [ ] day off
+- [ ] lift
 
 > **解析**：shrimp 为名词，意为“虾、大虾”。grilled shrimp 表示“烤虾”。单复数形式同形或加 -s。
 
 ### 5
 
-It is too bad that David cannot come to the party because of a business trip for `____`.
+It is `____` that David cannot come to the party because of a business trip.
 
-- [x] imagine
-- [ ] lift
-- [ ] although
+- [x] too bad
+- [ ] imagine
+- [ ] look like
 
 > **解析**：too bad 为固定表达，意为“太遗憾了、太可惜了”。It is too bad that... 引导从句，表达遗憾之情。
 
 ### 6
 
-We received a positive response from almost everyone we invited to the event (`____`).
+We received a positive `____` from almost everyone we invited to the event (in my opinion).
 
-- [x] in my opinion
-- [ ] look like
-- [ ] cabbage
+- [x] response
+- [ ] in my opinion
+- [ ] pay
 
 > **解析**：response 为名词，意为“回应、回复”。receive a positive response 表示“收到积极回应”。与介词 to 搭配（response to the invitation）。
 
 ### 7
 
-We need to find out whether the venue allows outside catering services for `____`.
+We need to find out `____` the venue allows outside catering services.
 
-- [x] increase
-- [ ] pay
-- [ ] chili
+- [x] whether
+- [ ] increase
+- [ ] pea
 
 > **解析**：whether 为连词，引导宾语从句，意为“是否”。与 or not 连用（whether or not...）。
 
 ### 8
 
-Although the budget is tight, we can still host a memorable farewell party for `____`.
+`____` the budget is tight, we can still host a memorable farewell party.
 
-- [x] lift
-- [ ] although
-- [ ] day off
+- [x] although
+- [ ] look like
+- [ ] plus
 
 > **解析**：although 为从属连词，引导让步状语从句，意为“虽然、尽管”。注意不能与 but 在同一个句子中连用。
 
@@ -228,18 +228,18 @@ Although the budget is tight, we can still host a memorable farewell party for `
 With colorful balloons, the venue can `____` a fairy palace.
 
 - [x] look like
-- [ ] cabbage
-- [ ] imagine
+- [ ] pay
+- [ ] response
 
 > **解析**：look like 为动词短语，意为“看起来像”。后接名词短语（a fairy palace）。
 
 ### 10
 
-I cannot imagine how excited she will be when she sees the surprise party for `____`.
+I cannot `____` how excited she will be when she sees the surprise party.
 
-- [x] pay
-- [ ] chili
-- [ ] in my opinion
+- [x] imagine
+- [ ] pea
+- [ ] roll
 
 > **解析**：imagine 为动词，意为“想象”。后接感叹句/疑问词引导的宾语从句（how excited she will be）。
 

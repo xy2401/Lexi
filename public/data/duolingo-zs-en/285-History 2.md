@@ -68,15 +68,15 @@ age, capture, charm, designed, draw your attention to, exhibit, formerly, herita
    > **解析**：`heritage` 是不可数名词，意为“遗产、传统”，常用短语 `cultural heritage`（文化遗产）。
 
 2. **中文**：游客们聚集在这座历史纪念碑周围阅读雕刻的铭文。  
-   **英文**：Visitors gathered around the historical monument to read the carved inscription for capture.
+   **英文**：Visitors gathered around the historical monument to read the carved inscription.
    > **解析**：`monument` 指“纪念碑、历史遗迹”，作句中的宾语。
 
 3. **中文**：这幅名画被广泛认为是文艺复兴时期艺术的一件杰作。  
-   **英文**：The famous painting is widely considered a masterpiece of Renaissance art for charm.
+   **英文**：The famous painting is widely considered a masterpiece of Renaissance art.
    > **解析**：`masterpiece` 是名词，由 `master` + `piece` 构成，意为“杰作、名作”。
 
 4. **中文**：博物馆开幕了一个展出古罗马硬币和工具的新展览。  
-   **英文**：The museum opened a new exhibit featuring ancient Roman coins and tools for designed.
+   **英文**：The museum opened a new exhibit featuring ancient Roman coins and tools.
    > **解析**：`exhibit` 作名词意为“展览、展品”；作动词意为“展出”。
 
 5. **中文**：我想请大家注意大教堂墙壁上精美的雕刻。  
@@ -84,15 +84,15 @@ age, capture, charm, designed, draw your attention to, exhibit, formerly, herita
    > **解析**：`draw one's attention to sth.` 是固定短语，意为“吸引某人注意某物、请某人关注”。
 
 6. **中文**：这个历史悠久的地区以其城堡而闻名，尤其是其中一座古老的塔楼。  
-   **英文**：This historic region is known for its castle and one ancient tower in particular for exhibit.
+   **英文**：This historic region is known for its castle and one ancient tower in particular.
    > **解析**：`in particular` 是介词短语，意为“尤其、特别”，起强调说明作用。
 
 7. **中文**：对于任何访问该岛的人来说，古老的遗迹都是必看的景点。  
-   **英文**：The ancient ruins are a must-see attraction for anyone visiting the island for formerly.
+   **英文**：The ancient ruins are a must-see attraction for anyone visiting the island.
    > **解析**：`must-see` 作复合形容词或名词，意为“必看的、不可错过的”。
 
 8. **中文**：这座历史建筑在十八世纪曾被用作皇家府邸。  
-   **英文**：The historic building was formerly used as a royal residence in the eighteenth century for heritage.
+   **英文**：The historic building was formerly used as a royal residence in the eighteenth century.
    > **解析**：`formerly` 是副词，意为“以前、从前”，在句中作状语修饰谓语。
 
 9. **中文**：博物馆导游强调了古陶器的几个值得注意的特征。  
@@ -110,25 +110,25 @@ age, capture, charm, designed, draw your attention to, exhibit, formerly, herita
 1. The government works hard to protect the city's rich cultural heritage.
    > **中文**：政府努力保护这座城市丰富的文化遗产。
 
-2. Visitors gathered around the historical monument to read the carved inscription for capture.
+2. Visitors gathered around the historical monument to read the carved inscription.
    > **中文**：游客们聚集在这座历史纪念碑周围阅读雕刻的铭文。
 
-3. The famous painting is widely considered a masterpiece of Renaissance art for charm.
+3. The famous painting is widely considered a masterpiece of Renaissance art.
    > **中文**：这幅名画被广泛认为是文艺复兴时期艺术的一件杰作。
 
-4. The museum opened a new exhibit featuring ancient Roman coins and tools for designed.
+4. The museum opened a new exhibit featuring ancient Roman coins and tools.
    > **中文**：博物馆开幕了一个展出古罗马硬币和工具的新展览。
 
 5. I would like to draw your attention to the intricate carvings on the cathedral wall.
    > **中文**：我想请大家注意大教堂墙壁上精美的雕刻。
 
-6. This historic region is known for its castle and one ancient tower in particular for exhibit.
+6. This historic region is known for its castle and one ancient tower in particular.
    > **中文**：这个历史悠久的地区以其城堡而闻名，尤其是其中一座古老的塔楼。
 
-7. The ancient ruins are a must-see attraction for anyone visiting the island for formerly.
+7. The ancient ruins are a must-see attraction for anyone visiting the island.
    > **中文**：对于任何访问该岛的人来说，古老的遗迹都是必看的景点。
 
-8. The historic building was formerly used as a royal residence in the eighteenth century for heritage.
+8. The historic building was formerly used as a royal residence in the eighteenth century.
    > **中文**：这座历史建筑在十八世纪曾被用作皇家府邸。
 
 9. The museum guide highlighted several noteworthy features of the ancient pottery.
@@ -150,38 +150,38 @@ age, capture, charm, designed, draw your attention to, exhibit, formerly, herita
 The government works hard to protect the city's rich cultural herit`____`.
 
 - [x] age
-- [ ] designed
-- [ ] formerly
+- [ ] capture
+- [ ] exhibit
 
 > **解析**：`heritage` 是不可数名词，意为“遗产、传统”，常用短语 `cultural heritage`（文化遗产）。
 
 ### 2
 
-Visitors gathered around the historical monument to read the carved inscription for `____`.
+Visitors gathered around the historical `____` to read the carved inscription.
 
-- [x] capture
-- [ ] draw your attention to
-- [ ] heritage
+- [x] monument
+- [ ] capture
+- [ ] exhibit
 
 > **解析**：`monument` 指“纪念碑、历史遗迹”，作句中的宾语。
 
 ### 3
 
-The famous painting is widely considered a masterpiece of Renaissance art for `____`.
+The famous painting is widely considered a `____` of Renaissance art.
 
-- [x] charm
-- [ ] exhibit
-- [ ] highlight
+- [x] masterpiece
+- [ ] charm
+- [ ] formerly
 
 > **解析**：`masterpiece` 是名词，由 `master` + `piece` 构成，意为“杰作、名作”。
 
 ### 4
 
-The museum opened a new exhibit featuring ancient Roman coins and tools for `____`.
+The museum opened a new `____` featuring ancient Roman coins and tools.
 
-- [x] designed
-- [ ] formerly
-- [ ] in particular
+- [x] exhibit
+- [ ] designed
+- [ ] highlight
 
 > **解析**：`exhibit` 作名词意为“展览、展品”；作动词意为“展出”。
 
@@ -190,38 +190,38 @@ The museum opened a new exhibit featuring ancient Roman coins and tools for `___
 I would like to `____` the intricate carvings on the cathedral wall.
 
 - [x] draw your attention to
-- [ ] heritage
-- [ ] age
+- [ ] exhibit
+- [ ] in particular
 
 > **解析**：`draw one's attention to sth.` 是固定短语，意为“吸引某人注意某物、请某人关注”。
 
 ### 6
 
-This historic region is known for its castle and one ancient tower in particular for `____`.
+This historic region is known for its castle and one ancient tower `____`.
 
-- [x] exhibit
-- [ ] highlight
-- [ ] capture
+- [x] in particular
+- [ ] exhibit
+- [ ] masterpiece
 
 > **解析**：`in particular` 是介词短语，意为“尤其、特别”，起强调说明作用。
 
 ### 7
 
-The ancient ruins are a must-see attraction for anyone visiting the island for `____`.
+The ancient ruins are a `____` attraction for anyone visiting the island.
 
-- [x] formerly
-- [ ] in particular
-- [ ] charm
+- [x] must-see
+- [ ] formerly
+- [ ] masterpiece
 
 > **解析**：`must-see` 作复合形容词或名词，意为“必看的、不可错过的”。
 
 ### 8
 
-The historic building was formerly used as a royal residence in the eighteenth century for `____`.
+The historic building was `____` used as a royal residence in the eighteenth century.
 
-- [x] heritage
-- [ ] age
-- [ ] designed
+- [x] formerly
+- [ ] highlight
+- [ ] must-see
 
 > **解析**：`formerly` 是副词，意为“以前、从前”，在句中作状语修饰谓语。
 
@@ -230,18 +230,18 @@ The historic building was formerly used as a royal residence in the eighteenth c
 The museum guide `____`ed several noteworthy features of the ancient pottery.
 
 - [x] highlight
-- [ ] capture
-- [ ] draw your attention to
+- [ ] in particular
+- [ ] noteworthy
 
 > **解析**：`noteworthy` 是形容词，由 `note` + `worthy` 复合而成，意为“值得注意的、显著的”。
 
 ### 10
 
-The fortress was designed by a famous architect to defend the harbor (`____`).
+The fortress was `____` by a famous architect to defend the harbor (in particular).
 
-- [x] in particular
-- [ ] charm
-- [ ] exhibit
+- [x] designed
+- [ ] masterpiece
+- [ ] on display
 
 > **解析**：`designed` 是过去分词，在句中构成被动语态 `was designed by`，意为“被……设计”。
 

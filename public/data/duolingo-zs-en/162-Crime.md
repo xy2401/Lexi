@@ -66,11 +66,11 @@ thief → thieves（复数变化）。take place = happen。
    > **解析**：arrest 为及物动词，意为“逮捕、拘留”。常用结构 arrest the suspect（逮捕嫌疑人）。
 
 2. **中文**：如果你目击了抢劫案，应该立即报警。  
-   **英文**：If you witness a robbery, you should immediately call the police for attack.
+   **英文**：If you witness a robbery, you should immediately call the police.
    > **解析**：call the police 为固定短语，意为“打电话给警察/报警”。
 
 3. **中文**：受害者前往当地警察局提交了正式的警情报告。  
-   **英文**：The victim went to the local station to file an official police report for bomb.
+   **英文**：The victim went to the local station to file an official police report.
    > **解析**：file 为及物动词，意为“提交、备案”。file a report 意为“提交报告/立案”。
 
 4. **中文**：幸运的是，在今天早上的银行抢劫案中没有人受伤。  
@@ -78,27 +78,27 @@ thief → thieves（复数变化）。take place = happen。
    > **解析**：luckily 为句首副词，意为“幸运地是”，用作评注性状语修饰整个句子。
 
 5. **中文**：商店外面安装了监控摄像头以保护财产。  
-   **英文**：Security cameras were installed outside the store to protect the property for certain.
+   **英文**：Security cameras were installed outside the store to protect the property.
    > **解析**：protect 为及物动词，意为“保护、防护”。to protect the property 作目的状语。
 
 6. **中文**：商店抢劫案发生在全体员工离开后的深夜。  
-   **英文**：The store robbery took place late at night after all staff had left for commit.
+   **英文**：The store robbery took place late at night after all staff had left.
    > **解析**：take place 为不及物动词短语，意为“发生”，不可用于被动语态，相当于 happen。
 
 7. **中文**：蒙面小偷的被盗身份对调查人员来说仍是一个谜。  
-   **英文**：The stolen identity of the masked thief remains unknown to investigators for emergency.
+   **英文**：The stolen identity of the masked thief remains unknown to investigators.
    > **解析**：unknown 为形容词，意为“未知的、不明的”，在此处作表语（remains unknown）。
 
 8. **中文**：劫匪试图用武器袭击保安。  
-   **英文**：The robber tried to attack the security guard with a weapon for file.
+   **英文**：The robber tried to attack the security guard with a weapon.
    > **解析**：attack 为及物动词，意为“袭击、攻击”，后接被攻击的对象（attack the security guard）。
 
 9. **中文**：在任何国家犯持械抢劫罪都是严重的犯罪行为。  
-   **英文**：It is a serious crime to commit armed robbery in any country for glad.
+   **英文**：It is a serious crime to commit armed robbery in any country.
    > **解析**：commit 为及物动词，意为“犯（罪/错）”。常用搭配 commit a crime / commit robbery。
 
 10. **中文**：我们很高兴失窃的物品被安全归还给了原主。  
-   **英文**：We are glad that the lost stolen items were returned safely to their owner for innocent.
+   **英文**：We are glad that the lost stolen items were returned safely to their owner.
    > **解析**：glad 为形容词，意为“高兴的、欣慰的”，常用结构 receive be glad that + 从句。
 
 </quiz-sentence-builder>
@@ -108,31 +108,31 @@ thief → thieves（复数变化）。take place = happen。
 1. The police arrived quickly at the crime scene to arrest the suspect.
    > **中文**：警察迅速赶到犯罪现场逮捕了嫌疑人。
 
-2. If you witness a robbery, you should immediately call the police for attack.
+2. If you witness a robbery, you should immediately call the police.
    > **中文**：如果你目击了抢劫案，应该立即报警。
 
-3. The victim went to the local station to file an official police report for bomb.
+3. The victim went to the local station to file an official police report.
    > **中文**：受害者前往当地警察局提交了正式的警情报告。
 
 4. Luckily, nobody was injured during the bank robbery this morning (call the police).
    > **中文**：幸运的是，在今天早上的银行抢劫案中没有人受伤。
 
-5. Security cameras were installed outside the store to protect the property for certain.
+5. Security cameras were installed outside the store to protect the property.
    > **中文**：商店外面安装了监控摄像头以保护财产。
 
-6. The store robbery took place late at night after all staff had left for commit.
+6. The store robbery took place late at night after all staff had left.
    > **中文**：商店抢劫案发生在全体员工离开后的深夜。
 
-7. The stolen identity of the masked thief remains unknown to investigators for emergency.
+7. The stolen identity of the masked thief remains unknown to investigators.
    > **中文**：蒙面小偷的被盗身份对调查人员来说仍是一个谜。
 
-8. The robber tried to attack the security guard with a weapon for file.
+8. The robber tried to attack the security guard with a weapon.
    > **中文**：劫匪试图用武器袭击保安。
 
-9. It is a serious crime to commit armed robbery in any country for glad.
+9. It is a serious crime to commit armed robbery in any country.
    > **中文**：在任何国家犯持械抢劫罪都是严重的犯罪行为。
 
-10. We are glad that the lost stolen items were returned safely to their owner for innocent.
+10. We are glad that the lost stolen items were returned safely to their owner.
    > **中文**：我们很高兴失窃的物品被安全归还给了原主。
 
 </quiz-listening>
@@ -148,98 +148,98 @@ thief → thieves（复数变化）。take place = happen。
 The police arrived quickly at the crime scene to `____` the suspect.
 
 - [x] arrest
-- [ ] call the police
-- [ ] emergency
+- [ ] attack
+- [ ] commit
 
 > **解析**：arrest 为及物动词，意为“逮捕、拘留”。常用结构 arrest the suspect（逮捕嫌疑人）。
 
 ### 2
 
-If you witness a robbery, you should immediately call the police for `____`.
+If you witness a robbery, you should immediately `____`.
 
-- [x] attack
-- [ ] certain
-- [ ] file
+- [x] call the police
+- [ ] attack
+- [ ] emergency
 
 > **解析**：call the police 为固定短语，意为“打电话给警察/报警”。
 
 ### 3
 
-The victim went to the local station to file an official police report for `____`.
+The victim went to the local station to `____` an official police report.
 
-- [x] bomb
-- [ ] commit
-- [ ] glad
+- [x] file
+- [ ] bomb
+- [ ] emergency
 
 > **解析**：file 为及物动词，意为“提交、备案”。file a report 意为“提交报告/立案”。
 
 ### 4
 
-Luckily, nobody was injured during the bank robbery this morning (`____`).
+`____`, nobody was injured during the bank robbery this morning (call the police).
 
-- [x] call the police
-- [ ] emergency
-- [ ] innocent
+- [x] luckily
+- [ ] call the police
+- [ ] file
 
 > **解析**：luckily 为句首副词，意为“幸运地是”，用作评注性状语修饰整个句子。
 
 ### 5
 
-Security cameras were installed outside the store to protect the property for `____`.
+Security cameras were installed outside the store to `____` the property.
 
-- [x] certain
-- [ ] file
-- [ ] arrest
+- [x] protect
+- [ ] certain
+- [ ] glad
 
 > **解析**：protect 为及物动词，意为“保护、防护”。to protect the property 作目的状语。
 
 ### 6
 
-The store robbery took place late at night after all staff had left for `____`.
+The store `____` took place late at night after all staff had left.
 
-- [x] commit
-- [ ] glad
-- [ ] attack
+- [x] robbery
+- [ ] commit
+- [ ] innocent
 
 > **解析**：take place 为不及物动词短语，意为“发生”，不可用于被动语态，相当于 happen。
 
 ### 7
 
-The stolen identity of the masked thief remains unknown to investigators for `____`.
+The stolen identity of the `____`ed thief remains unknown to investigators.
 
-- [x] emergency
-- [ ] innocent
-- [ ] bomb
+- [x] mask
+- [ ] emergency
+- [ ] luckily
 
 > **解析**：unknown 为形容词，意为“未知的、不明的”，在此处作表语（remains unknown）。
 
 ### 8
 
-The robber tried to attack the security guard with a weapon for `____`.
+The robber tried to `____` the security guard with a weapon.
 
-- [x] file
-- [ ] arrest
-- [ ] call the police
+- [x] attack
+- [ ] glad
+- [ ] nine-one-one
 
 > **解析**：attack 为及物动词，意为“袭击、攻击”，后接被攻击的对象（attack the security guard）。
 
 ### 9
 
-It is a serious crime to commit armed robbery in any country for `____`.
+It is a serious crime to `____` armed robbery in any country.
 
-- [x] glad
-- [ ] attack
-- [ ] certain
+- [x] commit
+- [ ] innocent
+- [ ] police report
 
 > **解析**：commit 为及物动词，意为“犯（罪/错）”。常用搭配 commit a crime / commit robbery。
 
 ### 10
 
-We are glad that the lost stolen items were returned safely to their owner for `____`.
+We are `____` that the lost stolen items were returned safely to their owner.
 
-- [x] innocent
-- [ ] bomb
-- [ ] commit
+- [x] glad
+- [ ] luckily
+- [ ] protect
 
 > **解析**：glad 为形容词，意为“高兴的、欣慰的”，常用结构 receive be glad that + 从句。
 

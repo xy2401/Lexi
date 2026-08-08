@@ -58,7 +58,7 @@ both, bother, do, even, get, got to, guys, have, have on, instead, make it, must
    > **解析**：both 为代词/限定词，在此处作主语同位语（we are both free），意为“两者都”。
 
 2. **中文**：在我们能出去玩电子游戏之前，我必须先完成这项作业。  
-   **英文**：I've got to finish this assignment before we can go out to play video games for bother.
+   **英文**：I've got to finish this assignment before we can go out to play video games.
    > **解析**：have got to 为口语动词短语，意为“必须、不得不”，后接动词原形（got to finish）。
 
 3. **中文**：今晚的晚餐聚会上你穿着哪件时尚夹克？  
@@ -70,7 +70,7 @@ both, bother, do, even, get, got to, guys, have, have on, instead, make it, must
    > **解析**：not quite 为副词短语，意为“不完全、不太”，用来委婉修饰形容词 convenient。
 
 5. **中文**：周末和朋友聚会时，我更喜欢穿一件简素素色的T恤。  
-   **英文**：I prefer to wear a plain t-shirt when hanging out with friends on weekends for get.
+   **英文**：I prefer to wear a plain t-shirt when hanging out with friends on weekends.
    > **解析**：plain 在此处作形容词，意为“朴素的、单色的、无图案的”，修饰 t-shirt。
 
 6. **中文**：我们真的应该近期找个时间聚聚吃个饭！  
@@ -78,11 +78,11 @@ both, bother, do, even, get, got to, guys, have, have on, instead, make it, must
    > **解析**：sometime soon 为时间副词短语，口语中意为“近期某个时间、快点”，常用于发出聚会邀请。
 
 7. **中文**：我们这个星期六晚上为什么不一起去打保龄球呢？  
-   **英文**：Why don't we go bowling together this Saturday evening? for guys.
+   **英文**：Why don't we go bowling together this Saturday evening.
    > **解析**：why don't 句型用于提出建议，结构为 Why don't we + 动词原形（Why don't we go...）。
 
 8. **中文**：不用费心带零食了，因为我会为我们的野餐准备好一切。  
-   **英文**：Don't bother bringing snacks because I will prepare everything for our picnic for have.
+   **英文**：Don't bother bringing snacks because I will prepare everything for our picnic.
    > **解析**：bother 为动词，Don't bother doing sth. 意为“不必费心做某事”，表达客气的关心与建议。
 
 9. **中文**：嘿大伙儿，你们对周末的自驾游感到激动吗？  
@@ -90,7 +90,7 @@ both, bother, do, even, get, got to, guys, have, have on, instead, make it, must
    > **解析**：guys 为复数名词，口语中称呼“大家、大伙儿”，不论性别均可通用。
 
 10. **中文**：我太高兴你能准时赶来参加我的生日派对！  
-   **英文**：I am so glad you could make it to my birthday party on time for instead.
+   **英文**：I am so glad you could make it to my birthday party on time.
    > **解析**：make it 为固定口语动词短语，在此处意为“赶到、及时出席”（make it to a party）。
 
 </quiz-sentence-builder>
@@ -100,7 +100,7 @@ both, bother, do, even, get, got to, guys, have, have on, instead, make it, must
 1. Since we are both free this afternoon, let's grab coffee at the corner cafe.
    > **中文**：既然我们今天下午都有空，我们去街角咖啡馆喝杯咖啡吧。
 
-2. I've got to finish this assignment before we can go out to play video games for bother.
+2. I've got to finish this assignment before we can go out to play video games.
    > **中文**：在我们能出去玩电子游戏之前，我必须先完成这项作业。
 
 3. What stylish jacket do you have on for tonight's dinner party?
@@ -109,22 +109,22 @@ both, bother, do, even, get, got to, guys, have, have on, instead, make it, must
 4. The movie time is not quite convenient for me, can we change it to seven o'clock?
    > **中文**：电影时间对我来说不太方便，我们能改到七点吗？
 
-5. I prefer to wear a plain t-shirt when hanging out with friends on weekends for get.
+5. I prefer to wear a plain t-shirt when hanging out with friends on weekends.
    > **中文**：周末和朋友聚会时，我更喜欢穿一件简素素色的T恤。
 
 6. We really ought to get together for dinner sometime soon (got to).
    > **中文**：我们真的应该近期找个时间聚聚吃个饭！
 
-7. Why don't we go bowling together this Saturday evening? for guys.
+7. Why don't we go bowling together this Saturday evening.
    > **中文**：我们这个星期六晚上为什么不一起去打保龄球呢？
 
-8. Don't bother bringing snacks because I will prepare everything for our picnic for have.
+8. Don't bother bringing snacks because I will prepare everything for our picnic.
    > **中文**：不用费心带零食了，因为我会为我们的野餐准备好一切。
 
 9. Hey guys, are you excited about the weekend road trip? (have on).
    > **中文**：嘿大伙儿，你们对周末的自驾游感到激动吗？
 
-10. I am so glad you could make it to my birthday party on time for instead.
+10. I am so glad you could make it to my birthday party on time.
    > **中文**：我太高兴你能准时赶来参加我的生日派对！
 
 </quiz-listening>
@@ -140,18 +140,18 @@ both, bother, do, even, get, got to, guys, have, have on, instead, make it, must
 Since we are `____` free this afternoon, let's grab coffee at the corner cafe.
 
 - [x] both
-- [ ] even
-- [ ] guys
+- [ ] bother
+- [ ] got to
 
 > **解析**：both 为代词/限定词，在此处作主语同位语（we are both free），意为“两者都”。
 
 ### 2
 
-I've got to finish this assignment before we can go out to play video games for `____`.
+I've `____` finish this assignment before we can go out to play video games.
 
-- [x] bother
-- [ ] get
-- [ ] have
+- [x] got to
+- [ ] bother
+- [ ] guys
 
 > **解析**：have got to 为口语动词短语，意为“必须、不得不”，后接动词原形（got to finish）。
 
@@ -160,8 +160,8 @@ I've got to finish this assignment before we can go out to play video games for 
 What stylish jacket `____` you have on for tonight's dinner party?
 
 - [x] do
-- [ ] got to
-- [ ] have on
+- [ ] even
+- [ ] have
 
 > **解析**：have on 为动词短语，意为“穿着、佩戴着”（have sth. on），描述处于穿着状态。
 
@@ -170,68 +170,68 @@ What stylish jacket `____` you have on for tonight's dinner party?
 The movie time is not quite convenient for me, can we change it to s`____` o'clock?
 
 - [x] even
-- [ ] guys
-- [ ] instead
+- [ ] get
+- [ ] have on
 
 > **解析**：not quite 为副词短语，意为“不完全、不太”，用来委婉修饰形容词 convenient。
 
 ### 5
 
-I prefer to wear a plain t-shirt when hanging out with friends on weekends for `____`.
+I prefer to wear a `____` t-shirt when hanging out with friends on weekends.
 
-- [x] get
-- [ ] have
-- [ ] both
+- [x] plain
+- [ ] get
+- [ ] have on
 
 > **解析**：plain 在此处作形容词，意为“朴素的、单色的、无图案的”，修饰 t-shirt。
 
 ### 6
 
-We really ought to get together for dinner sometime soon (`____`).
+We really ought to `____` together for dinner sometime soon (got to).
 
-- [x] got to
-- [ ] have on
-- [ ] bother
+- [x] get
+- [ ] guys
+- [ ] make it
 
 > **解析**：sometime soon 为时间副词短语，口语中意为“近期某个时间、快点”，常用于发出聚会邀请。
 
 ### 7
 
-Why don't we go bowling together this Saturday evening? for `____`.
+`____` we go bowling together this Saturday evening.
 
-- [x] guys
-- [ ] instead
-- [ ] do
+- [x] why don't
+- [ ] guys
+- [ ] make it
 
 > **解析**：why don't 句型用于提出建议，结构为 Why don't we + 动词原形（Why don't we go...）。
 
 ### 8
 
-Don't bother bringing snacks because I will prepare everything for our picnic for `____`.
+Don't `____` bringing snacks because I will prepare everything for our picnic.
 
-- [x] have
-- [ ] both
-- [ ] even
+- [x] bother
+- [ ] have on
+- [ ] not quite
 
 > **解析**：bother 为动词，Don't bother doing sth. 意为“不必费心做某事”，表达客气的关心与建议。
 
 ### 9
 
-Hey guys, are you excited about the weekend road trip? (`____`).
+Hey `____`, are you excited about the weekend road trip? (have on).
 
-- [x] have on
-- [ ] bother
-- [ ] get
+- [x] guys
+- [ ] instead
+- [ ] on my mind
 
 > **解析**：guys 为复数名词，口语中称呼“大家、大伙儿”，不论性别均可通用。
 
 ### 10
 
-I am so glad you could make it to my birthday party on time for `____`.
+I am so glad you could `____` to my birthday party on time.
 
-- [x] instead
-- [ ] do
-- [ ] got to
+- [x] make it
+- [ ] instead
+- [ ] one of these days
 
 > **解析**：make it 为固定口语动词短语，在此处意为“赶到、及时出席”（make it to a party）。
 

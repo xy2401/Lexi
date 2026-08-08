@@ -66,7 +66,7 @@ ache, act, as if, as though, bite, bruise, cautious, have, honey, itch, pass out
    > **解析**：`ache` 动词/可数名词，意为“酸痛；疼痛”。常用短语 `muscle ache`（肌肉酸痛）/ `headache`（头痛）。
 
 2. **中文**：在蚊子叮咬处涂抹防腐止痒膏以消红肿。  
-   **英文**：Apply an antiseptic cream to the mosquito bite to stop the red swelling for act.
+   **英文**：Apply an antiseptic cream to the mosquito bite to stop the red swelling.
    > **解析**：`bite` 可数名词，在此处意为“叮咬伤痕；咬伤”。`mosquito bite`（蚊虫叮咬伤）。
 
 3. **中文**：如果你发高烧和咽喉痛，你应该留在家中。  
@@ -78,23 +78,23 @@ ache, act, as if, as though, bite, bruise, cautious, have, honey, itch, pass out
    > **解析**：`recovery` 可数/不可数名词，意为“康复；痊愈”，由动词 `recover` 派生而来。
 
 5. **中文**：发高烧经常导致患者在夜间剧烈流汗。  
-   **英文**：A high fever often causes patients to sweat heavily during the night for bite.
+   **英文**：A high fever often causes patients to sweat heavily during the night.
    > **解析**：`sweat` 不及物动词/名词，意为“出汗；汗水”。
 
 6. **中文**：突然的视力模糊需要眼科专家立即进行检查。  
-   **英文**：Sudden blurry vision requires immediate examination by an eye specialist for bruise.
+   **英文**：Sudden blurry vision requires immediate examination by an eye specialist.
    > **解析**：`vision` 不可数名词，在此处意为“视力；视觉”。短语 `blurry vision`（视力模糊）。
 
 7. **中文**：局部麻醉药会在两到三小时后开始失效/消退。  
-   **英文**：The local anesthetic will begin to wear off after two or three hours for cautious.
+   **英文**：The local anesthetic will begin to wear off after two or three hours.
    > **解析**：`wear off` 不及物动词短语，意为“（药效、感觉等）逐渐消退；失效”。
 
 8. **中文**：如果有人展现出严重过敏反应的迹象，你必须迅速采取行动。  
-   **英文**：You must act quickly if someone shows signs of a severe allergic reaction for have.
+   **英文**：You must act quickly if someone shows signs of a severe allergic reaction.
    > **解析**：`act` 不及物动词，意为“采取行动；做行动”。
 
 9. **中文**：从自行车上摔下来后，他的膝盖上出现了一个深蓝色的淤青。  
-   **英文**：He developed a dark blue bruise on his knee after falling off the bicycle for honey.
+   **英文**：He developed a dark blue bruise on his knee after falling off the bicycle.
    > **解析**：`bruise` 可数名词，意为“淤青；伤痕”。
 
 10. **中文**：这款舒缓乳液将有助于缓解你手臂上皮肤干燥引起的发痒。  
@@ -108,7 +108,7 @@ ache, act, as if, as though, bite, bruise, cautious, have, honey, itch, pass out
 1. Constant muscle ache in your back can be relieved by applying a warm compress.
    > **中文**：背部持续的肌肉酸痛可以通过热敷来缓解。
 
-2. Apply an antiseptic cream to the mosquito bite to stop the red swelling for act.
+2. Apply an antiseptic cream to the mosquito bite to stop the red swelling.
    > **中文**：在蚊子叮咬处涂抹防腐止痒膏以消红肿。
 
 3. You should stay home if you have a high fever and a sore throat (as if).
@@ -117,19 +117,19 @@ ache, act, as if, as though, bite, bruise, cautious, have, honey, itch, pass out
 4. Adequate rest and nutritious meals are essential for a speedy medical recovery (as though).
    > **中文**：充分的休息和有营养的膳食对于迅速医疗康复至关重要。
 
-5. A high fever often causes patients to sweat heavily during the night for bite.
+5. A high fever often causes patients to sweat heavily during the night.
    > **中文**：发高烧经常导致患者在夜间剧烈流汗。
 
-6. Sudden blurry vision requires immediate examination by an eye specialist for bruise.
+6. Sudden blurry vision requires immediate examination by an eye specialist.
    > **中文**：突然的视力模糊需要眼科专家立即进行检查。
 
-7. The local anesthetic will begin to wear off after two or three hours for cautious.
+7. The local anesthetic will begin to wear off after two or three hours.
    > **中文**：局部麻醉药会在两到三小时后开始失效/消退。
 
-8. You must act quickly if someone shows signs of a severe allergic reaction for have.
+8. You must act quickly if someone shows signs of a severe allergic reaction.
    > **中文**：如果有人展现出严重过敏反应的迹象，你必须迅速采取行动。
 
-9. He developed a dark blue bruise on his knee after falling off the bicycle for honey.
+9. He developed a dark blue bruise on his knee after falling off the bicycle.
    > **中文**：从自行车上摔下来后，他的膝盖上出现了一个深蓝色的淤青。
 
 10. This soothing lotion will help relieve the dry skin itch on your arms.
@@ -148,18 +148,18 @@ ache, act, as if, as though, bite, bruise, cautious, have, honey, itch, pass out
 Constant muscle `____` in your back can be relieved by applying a warm compress.
 
 - [x] ache
-- [ ] as though
-- [ ] cautious
+- [ ] act
+- [ ] bruise
 
 > **解析**：`ache` 动词/可数名词，意为“酸痛；疼痛”。常用短语 `muscle ache`（肌肉酸痛）/ `headache`（头痛）。
 
 ### 2
 
-Apply an antiseptic cream to the mosquito bite to stop the red swelling for `____`.
+Apply an antiseptic cream to the mosquito `____` to stop the red swelling.
 
-- [x] act
-- [ ] bite
-- [ ] have
+- [x] bite
+- [ ] act
+- [ ] cautious
 
 > **解析**：`bite` 可数名词，在此处意为“叮咬伤痕；咬伤”。`mosquito bite`（蚊虫叮咬伤）。
 
@@ -168,8 +168,8 @@ Apply an antiseptic cream to the mosquito bite to stop the red swelling for `___
 You should stay home if you have a high fever and a sore throat (`____`).
 
 - [x] as if
-- [ ] bruise
-- [ ] honey
+- [ ] as though
+- [ ] have
 
 > **解析**：`have` 动词，在医疗症状描述中与疾病名词搭配（如 `have a fever / cold / headache`）。
 
@@ -178,58 +178,58 @@ You should stay home if you have a high fever and a sore throat (`____`).
 Adequate rest and nutritious meals are essential for a speedy medical recovery (`____`).
 
 - [x] as though
-- [ ] cautious
-- [ ] itch
+- [ ] bite
+- [ ] honey
 
 > **解析**：`recovery` 可数/不可数名词，意为“康复；痊愈”，由动词 `recover` 派生而来。
 
 ### 5
 
-A high fever often causes patients to sweat heavily during the night for `____`.
+A high fever often causes patients to `____` heavily during the night.
 
-- [x] bite
-- [ ] have
-- [ ] ache
+- [x] sweat
+- [ ] bite
+- [ ] honey
 
 > **解析**：`sweat` 不及物动词/名词，意为“出汗；汗水”。
 
 ### 6
 
-Sudden blurry vision requires immediate examination by an eye specialist for `____`.
+Sudden blurry `____` requires immediate examination by an eye specialist.
 
-- [x] bruise
-- [ ] honey
-- [ ] act
+- [x] vision
+- [ ] bruise
+- [ ] itch
 
 > **解析**：`vision` 不可数名词，在此处意为“视力；视觉”。短语 `blurry vision`（视力模糊）。
 
 ### 7
 
-The local anesthetic will begin to wear off after two or three hours for `____`.
+The local anesthetic will begin to `____` after two or three hours.
 
-- [x] cautious
-- [ ] itch
-- [ ] as if
+- [x] wear off
+- [ ] cautious
+- [ ] pass out
 
 > **解析**：`wear off` 不及物动词短语，意为“（药效、感觉等）逐渐消退；失效”。
 
 ### 8
 
-You must act quickly if someone shows signs of a severe allergic reaction for `____`.
+You must `____` quickly if someone shows signs of a severe allergic reaction.
 
-- [x] have
-- [ ] ache
-- [ ] as though
+- [x] act
+- [ ] honey
+- [ ] severe
 
 > **解析**：`act` 不及物动词，意为“采取行动；做行动”。
 
 ### 9
 
-He developed a dark blue bruise on his knee after falling off the bicycle for `____`.
+He developed a dark blue `____` on his knee after falling off the bicycle.
 
-- [x] honey
-- [ ] act
-- [ ] bite
+- [x] bruise
+- [ ] itch
+- [ ] suffer
 
 > **解析**：`bruise` 可数名词，意为“淤青；伤痕”。
 
@@ -238,8 +238,8 @@ He developed a dark blue bruise on his knee after falling off the bicycle for `_
 This soothing lotion will help relieve the dry skin `____` on your arms.
 
 - [x] itch
-- [ ] as if
-- [ ] bruise
+- [ ] pass out
+- [ ] sweat
 
 > **解析**：`itch` 动词/名词，意为“发痒；痒感”。
 

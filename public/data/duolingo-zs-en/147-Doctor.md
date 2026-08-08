@@ -70,31 +70,31 @@ get sick / get worse 用 get 表示变化。advise sb to do 是"建议某人做"
    > **解析**：medical 为形容词，意为“医疗的、医学的”。medical checkup 意为“体检”。detect 意为“检测/发现”。
 
 3. **中文**：根据处方，每日两次饭后服用两片药。  
-   **英文**：Take two pills after meals twice daily according to the prescription for bone.
+   **英文**：Take two pills after meals twice daily according to the prescription.
    > **解析**：pill 为可数名词，意为“药片、丸药”。take pills 意为“吃药”。twice daily 意为“一日两次”。
 
 4. **中文**：你可以在附近的任何一家药店购买非处方药。  
-   **英文**：You can purchase over-the-counter medicine at any drugstore nearby for catch.
+   **英文**：You can purchase over-the-counter medicine at any drugstore nearby.
    > **解析**：drugstore 为名词，意为“药房、药店”（美式英语）。over-the-counter medicine 意为“非处方药”。
 
 5. **中文**：饮食健康的人在冬天很少生病。  
-   **英文**：People who eat healthily rarely get sick during winter for cut.
+   **英文**：People who eat healthily rarely get sick during winter.
    > **解析**：get sick 为动词短语，意为“生病”。
 
 6. **中文**：在打篮球拧了脚踝之后，走路对他来说变得非常痛苦/疼痛。  
-   **英文**：Walking became very painful for him after he twisted his ankle during basketball for disease.
+   **英文**：Walking became very painful for him after he twisted his ankle during basketball.
    > **解析**：painful 为形容词，由 pain + -ful 构成，意为“痛苦的、疼痛的”。作表语修饰 Walking。
 
 7. **中文**：医生强烈建议他戒烟以保护他的肺部。  
-   **英文**：The doctor strongly advised him to quit smoking to protect his lungs for drug.
+   **英文**：The doctor strongly advised him to quit smoking to protect his lungs.
    > **解析**：quit 为动词，意为“戒除、停止”。后接动名词形式（quit smoking 戒烟）。过去式同为 quit。
 
 8. **中文**：均衡饮食能增强你的免疫系统，以击退季节性疾病。  
-   **英文**：Eating a balanced diet boosts your immune system to fight off seasonal illness for drugstore.
+   **英文**：Eating a balanced diet boosts your immune system to fight off seasonal illness.
    > **解析**：illness 为名词，意为“疾病、恙病”。boost immune system 意为“增强免疫系统”。fight off 意为“击退”。
 
 9. **中文**：当你咳嗽或打喷嚏时，用纸巾盖住口鼻。  
-   **英文**：Cover your mouth and nose with a tissue when you cough or sneeze for get.
+   **英文**：Cover your mouth and nose with a tissue when you cough or sneeze.
    > **解析**：sneeze 为动词，意为“打喷嚏”。cover your mouth 意为“盖住口鼻”。tissue 意为“纸巾”。
 
 10. **中文**：用清水替代含糖汽水会让你的生活方式健康得多。  
@@ -111,25 +111,25 @@ get sick / get worse 用 get 表示变化。advise sb to do 是"建议某人做"
 2. Regular medical checkups can help detect health issues before they become serious (bless you).
    > **中文**：定期体检有助于在健康问题变得严重之前检测出它们。
 
-3. Take two pills after meals twice daily according to the prescription for bone.
+3. Take two pills after meals twice daily according to the prescription.
    > **中文**：根据处方，每日两次饭后服用两片药。
 
-4. You can purchase over-the-counter medicine at any drugstore nearby for catch.
+4. You can purchase over-the-counter medicine at any drugstore nearby.
    > **中文**：你可以在附近的任何一家药店购买非处方药。
 
-5. People who eat healthily rarely get sick during winter for cut.
+5. People who eat healthily rarely get sick during winter.
    > **中文**：饮食健康的人在冬天很少生病。
 
-6. Walking became very painful for him after he twisted his ankle during basketball for disease.
+6. Walking became very painful for him after he twisted his ankle during basketball.
    > **中文**：在打篮球拧了脚踝之后，走路对他来说变得非常痛苦/疼痛。
 
-7. The doctor strongly advised him to quit smoking to protect his lungs for drug.
+7. The doctor strongly advised him to quit smoking to protect his lungs.
    > **中文**：医生强烈建议他戒烟以保护他的肺部。
 
-8. Eating a balanced diet boosts your immune system to fight off seasonal illness for drugstore.
+8. Eating a balanced diet boosts your immune system to fight off seasonal illness.
    > **中文**：均衡饮食能增强你的免疫系统，以击退季节性疾病。
 
-9. Cover your mouth and nose with a tissue when you cough or sneeze for get.
+9. Cover your mouth and nose with a tissue when you cough or sneeze.
    > **中文**：当你咳嗽或打喷嚏时，用纸巾盖住口鼻。
 
 10. Replacing sugary sodas with fresh water will make your lifestyle much healthier (get sick).
@@ -148,8 +148,8 @@ get sick / get worse 用 get 表示变化。advise sb to do 是"建议某人做"
 Doctors `____` patients to drink plenty of water and rest when they have a cold.
 
 - [x] advise
-- [ ] catch
-- [ ] drug
+- [ ] bless you
+- [ ] disease
 
 > **解析**：advise 为动词，意为“建议、劝告”。固定句型 advise sb. to do sth.（建议某人做某事）。名词为 advice（不可数）。
 
@@ -158,78 +158,78 @@ Doctors `____` patients to drink plenty of water and rest when they have a cold.
 Regular medical checkups can help detect health issues before they become serious (`____`).
 
 - [x] bless you
-- [ ] cut
-- [ ] drugstore
+- [ ] bone
+- [ ] drug
 
 > **解析**：medical 为形容词，意为“医疗的、医学的”。medical checkup 意为“体检”。detect 意为“检测/发现”。
 
 ### 3
 
-Take two pills after meals twice daily according to the prescription for `____`.
+Take two `____`s after meals twice daily according to the prescription.
 
-- [x] bone
-- [ ] disease
-- [ ] get
+- [x] pill
+- [ ] bone
+- [ ] drug
 
 > **解析**：pill 为可数名词，意为“药片、丸药”。take pills 意为“吃药”。twice daily 意为“一日两次”。
 
 ### 4
 
-You can purchase over-the-counter medicine at any drugstore nearby for `____`.
+You can purchase over-the-counter medicine at any `____`store nearby.
 
-- [x] catch
-- [ ] drug
-- [ ] get sick
+- [x] drug
+- [ ] catch
+- [ ] get
 
 > **解析**：drugstore 为名词，意为“药房、药店”（美式英语）。over-the-counter medicine 意为“非处方药”。
 
 ### 5
 
-People who eat healthily rarely get sick during winter for `____`.
+People who eat healthily rarely `____` sick during winter.
 
-- [x] cut
-- [ ] drugstore
-- [ ] advise
+- [x] get
+- [ ] cut
+- [ ] get sick
 
 > **解析**：get sick 为动词短语，意为“生病”。
 
 ### 6
 
-Walking became very painful for him after he twisted his ankle during basketball for `____`.
+Walking became very `____` for him after he twisted his ankle during basketball.
 
-- [x] disease
-- [ ] get
-- [ ] bless you
+- [x] painful
+- [ ] disease
+- [ ] get sick
 
 > **解析**：painful 为形容词，由 pain + -ful 构成，意为“痛苦的、疼痛的”。作表语修饰 Walking。
 
 ### 7
 
-The doctor strongly advised him to quit smoking to protect his lungs for `____`.
+The doctor strongly advised him to `____` smoking to protect his lungs.
 
-- [x] drug
-- [ ] get sick
-- [ ] bone
+- [x] quit
+- [ ] drug
+- [ ] get worse
 
 > **解析**：quit 为动词，意为“戒除、停止”。后接动名词形式（quit smoking 戒烟）。过去式同为 quit。
 
 ### 8
 
-Eating a balanced diet boosts your immune system to fight off seasonal illness for `____`.
+Eating a balanced diet boosts your immune system to fight off seasonal `____`.
 
-- [x] drugstore
-- [ ] advise
-- [ ] catch
+- [x] illness
+- [ ] drugstore
+- [ ] healthier
 
 > **解析**：illness 为名词，意为“疾病、恙病”。boost immune system 意为“增强免疫系统”。fight off 意为“击退”。
 
 ### 9
 
-Cover your mouth and nose with a tissue when you cough or sneeze for `____`.
+Cover your mouth and nose with a tissue when you cough or `____`.
 
-- [x] get
-- [ ] bless you
-- [ ] cut
+- [x] sneeze
+- [ ] get
+- [ ] illness
 
 > **解析**：sneeze 为动词，意为“打喷嚏”。cover your mouth 意为“盖住口鼻”。tissue 意为“纸巾”。
 
@@ -238,8 +238,8 @@ Cover your mouth and nose with a tissue when you cough or sneeze for `____`.
 Replacing sugary sodas with fresh water will make your lifestyle much healthier (`____`).
 
 - [x] get sick
-- [ ] bone
-- [ ] disease
+- [ ] get worse
+- [ ] painful
 
 > **解析**：healthier 为 healthy 的比较级，意为“更健康的”。make your lifestyle healthier 表示“使你的生活方式更健康”。
 

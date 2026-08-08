@@ -62,7 +62,7 @@ academic, accomplish, accomplishment, admirable, all worth it, benefit, can't wa
 <quiz-sentence-builder>
 
 1. **中文**：干得漂亮！你为这个学位付出了巨大的努力，你受之无愧。  
-   **英文**：Way to go! You worked so hard for this degree and you earned it for academic.
+   **英文**：Way to go! You worked so hard for this degree and you earned it.
    > **解析**：`Way to go!` 是高频口语赞美与祝贺惯用语，意为“干得好！太棒了！”，用于祝贺对方成功。
 
 2. **中文**：以优异成绩从大学毕业是一项了不起的个人成就。  
@@ -70,11 +70,11 @@ academic, accomplish, accomplishment, admirable, all worth it, benefit, can't wa
    > **解析**：`accomplishment` 是名词，意为“成就、完成”，动词形式为 `accomplish`。
 
 3. **中文**：经过两年的学习，她正式获得了经济学硕士学位。  
-   **英文**：After two years of study, she officially earned her master's degree in economics for accomplishment.
+   **英文**：After two years of study, she officially earned her master's degree in economics.
    > **解析**：`master's degree` 是名词短语，意为“硕士学位”，注意 `master's` 带有属格所有格撇号 `'s`。
 
 4. **中文**：看到父母的微笑，让所有熬夜学习的时光都变得完全值得了。  
-   **英文**：Seeing her parents smile made all the late-night studying feel all worth it for admirable.
+   **英文**：Seeing her parents smile made all the late-night studying feel all worth it.
    > **解析**：`all worth it` 是习惯形容词短语，意为“一切都是值得的”，在句中作表语。
 
 5. **中文**：他是一名专注投入的学生，每个周末都在校园图书馆度过。  
@@ -82,7 +82,7 @@ academic, accomplish, accomplishment, admirable, all worth it, benefit, can't wa
    > **解析**：`dedicated` 是形容词，意为“一心一意的、专注敬业的”，常用短语 `be dedicated to...`。
 
 6. **中文**：接过毕业证书激励着他保持好奇心，做一名终身学习者。  
-   **英文**：Receiving his diploma inspired him to stay curious and remain a lifelong learner for benefit.
+   **英文**：Receiving his diploma inspired him to stay curious and remain a lifelong learner.
    > **解析**：`lifelong learner` 是复合名词短语，意为“终身学习者”，由 `lifelong`（终身的）+ `learner` 构成。
 
 7. **中文**：在四年的大学时光中，她取得了卓越的学业成绩。  
@@ -90,49 +90,49 @@ academic, accomplish, accomplishment, admirable, all worth it, benefit, can't wa
    > **解析**：`academic` 是形容词，意为“学业的、学术的”，常用短语 `academic results / achievement`。
 
 8. **中文**：边兼职工作边完成论文的撰写需要巨大的意志力。  
-   **英文**：It took immense willpower to finish writing his thesis while working part-time for dedicated.
+   **英文**：It took immense willpower to finish writing his thesis while working part-time.
    > **解析**：`willpower` 是不可数名词，意为“意志力、毅力”，由 `will` + `power` 复合而成。
 
 9. **中文**：上交最终研究项目给学生们带来了巨大的如释重负之感。  
-   **英文**：Handing in the final research project brought a huge sense of relief to the students for dedication.
+   **英文**：Handing in the final research project brought a huge sense of relief to the students.
    > **解析**：`relief` 是不可数名词，意为“宽慰、轻松、如释重负”，常用短语 `a sense of relief`。
 
 10. **中文**：追求高等教育为年轻人开启了许多职业发展机会。  
-   **英文**：Pursuing higher education opens up many career opportunities for young adults for discouraged.
+   **英文**：Pursuing higher education opens up many career opportunities for young adults.
    > **解析**：`higher education` 是名词短语，意为“高等教育”，指大学及以上阶段的教育。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Way to go! You worked so hard for this degree and you earned it for academic.
+1. Way to go! You worked so hard for this degree and you earned it.
    > **中文**：干得漂亮！你为这个学位付出了巨大的努力，你受之无愧。
 
 2. Graduating with honors from university is a magnificent personal accomplishment.
    > **中文**：以优异成绩从大学毕业是一项了不起的个人成就。
 
-3. After two years of study, she officially earned her master's degree in economics for accomplishment.
+3. After two years of study, she officially earned her master's degree in economics.
    > **中文**：经过两年的学习，她正式获得了经济学硕士学位。
 
-4. Seeing her parents smile made all the late-night studying feel all worth it for admirable.
+4. Seeing her parents smile made all the late-night studying feel all worth it.
    > **中文**：看到父母的微笑，让所有熬夜学习的时光都变得完全值得了。
 
 5. He was a dedicated student who spent every weekend in the campus library (all worth it).
    > **中文**：他是一名专注投入的学生，每个周末都在校园图书馆度过。
 
-6. Receiving his diploma inspired him to stay curious and remain a lifelong learner for benefit.
+6. Receiving his diploma inspired him to stay curious and remain a lifelong learner.
    > **中文**：接过毕业证书激励着他保持好奇心，做一名终身学习者。
 
 7. She achieved outstanding academic results throughout her four years of college (can't wait).
    > **中文**：在四年的大学时光中，她取得了卓越的学业成绩。
 
-8. It took immense willpower to finish writing his thesis while working part-time for dedicated.
+8. It took immense willpower to finish writing his thesis while working part-time.
    > **中文**：边兼职工作边完成论文的撰写需要巨大的意志力。
 
-9. Handing in the final research project brought a huge sense of relief to the students for dedication.
+9. Handing in the final research project brought a huge sense of relief to the students.
    > **中文**：上交最终研究项目给学生们带来了巨大的如释重负之感。
 
-10. Pursuing higher education opens up many career opportunities for young adults for discouraged.
+10. Pursuing higher education opens up many career opportunities for young adults.
    > **中文**：追求高等教育为年轻人开启了许多职业发展机会。
 
 </quiz-listening>
@@ -145,11 +145,11 @@ academic, accomplish, accomplishment, admirable, all worth it, benefit, can't wa
 
 ### 1
 
-Way to go! You worked so hard for this degree and you earned it for `____`.
+`____`! You worked so hard for this degree and you earned it.
 
-- [x] academic
-- [ ] admirable
-- [ ] can't wait
+- [x] way to go
+- [ ] academic
+- [ ] all worth it
 
 > **解析**：`Way to go!` 是高频口语赞美与祝贺惯用语，意为“干得好！太棒了！”，用于祝贺对方成功。
 
@@ -158,88 +158,88 @@ Way to go! You worked so hard for this degree and you earned it for `____`.
 Graduating with honors from university is a magnificent personal `____`ment.
 
 - [x] accomplish
-- [ ] all worth it
-- [ ] dedicated
+- [ ] accomplishment
+- [ ] can't wait
 
 > **解析**：`accomplishment` 是名词，意为“成就、完成”，动词形式为 `accomplish`。
 
 ### 3
 
-After two years of study, she officially earned her master's degree in economics for `____`.
+After two years of study, she officially earned her `____` in economics.
 
-- [x] accomplishment
-- [ ] benefit
-- [ ] dedication
+- [x] master's degree
+- [ ] accomplishment
+- [ ] can't wait
 
 > **解析**：`master's degree` 是名词短语，意为“硕士学位”，注意 `master's` 带有属格所有格撇号 `'s`。
 
 ### 4
 
-Seeing her parents smile made all the late-night studying feel all worth it for `____`.
+Seeing her parents smile made all the late-night studying feel `____`.
 
-- [x] admirable
-- [ ] can't wait
-- [ ] discouraged
+- [x] all worth it
+- [ ] admirable
+- [ ] dedication
 
 > **解析**：`all worth it` 是习惯形容词短语，意为“一切都是值得的”，在句中作表语。
 
 ### 5
 
-He was a dedicated student who spent every weekend in the campus library (`____`).
+He was a `____` student who spent every weekend in the campus library (all worth it).
 
-- [x] all worth it
-- [ ] dedicated
-- [ ] academic
+- [x] dedicated
+- [ ] all worth it
+- [ ] discouraged
 
 > **解析**：`dedicated` 是形容词，意为“一心一意的、专注敬业的”，常用短语 `be dedicated to...`。
 
 ### 6
 
-Receiving his diploma inspired him to stay curious and remain a lifelong learner for `____`.
+Receiving his diploma inspired him to stay curious and remain a lifelong `____`.
 
-- [x] benefit
-- [ ] dedication
-- [ ] accomplish
+- [x] learner
+- [ ] benefit
+- [ ] discouraged
 
 > **解析**：`lifelong learner` 是复合名词短语，意为“终身学习者”，由 `lifelong`（终身的）+ `learner` 构成。
 
 ### 7
 
-She achieved outstanding academic results throughout her four years of college (`____`).
+She achieved outstanding `____` results throughout her four years of college (can't wait).
 
-- [x] can't wait
-- [ ] discouraged
-- [ ] accomplishment
+- [x] academic
+- [ ] dedicated
+- [ ] driven
 
 > **解析**：`academic` 是形容词，意为“学业的、学术的”，常用短语 `academic results / achievement`。
 
 ### 8
 
-It took immense willpower to finish writing his thesis while working part-time for `____`.
+It took immense `____` to finish writing his thesis while working part-time.
 
-- [x] dedicated
-- [ ] academic
-- [ ] admirable
+- [x] willpower
+- [ ] dedicated
+- [ ] driven
 
 > **解析**：`willpower` 是不可数名词，意为“意志力、毅力”，由 `will` + `power` 复合而成。
 
 ### 9
 
-Handing in the final research project brought a huge sense of relief to the students for `____`.
+Handing in the final research project brought a huge sense of `____` to the students.
 
-- [x] dedication
-- [ ] accomplish
-- [ ] all worth it
+- [x] relief
+- [ ] dedication
+- [ ] higher education
 
 > **解析**：`relief` 是不可数名词，意为“宽慰、轻松、如释重负”，常用短语 `a sense of relief`。
 
 ### 10
 
-Pursuing higher education opens up many career opportunities for young adults for `____`.
+Pursuing `____` opens up many career opportunities for young adults.
 
-- [x] discouraged
-- [ ] accomplishment
-- [ ] benefit
+- [x] higher education
+- [ ] discouraged
+- [ ] lifelong
 
 > **解析**：`higher education` 是名词短语，意为“高等教育”，指大学及以上阶段的教育。
 

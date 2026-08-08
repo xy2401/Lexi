@@ -68,11 +68,11 @@ backup plan, deck, diner, get away, hike, in the middle of nowhere, itinerary, j
    > **解析**：`backup plan` 可数名词短语，意为“备用计划；后备方案”。
 
 2. **中文**：我们决定进行一次周末旅行，远离喧嚣的城市生活。  
-   **英文**：We decided to take a weekend trip to get away from the noisy city life for deck.
+   **英文**：We decided to take a weekend trip to get away from the noisy city life.
    > **解析**：`get away` 不及物动词短语，意为“度假；逃离；远离”。搭配 `get away from...`。
 
 3. **中文**：随身在背包里放一件应急雨衣，以防万一。  
-   **英文**：Always pack an emergency rain poncho in your backpack, just in case for diner.
+   **英文**：Always pack an emergency rain poncho in your backpack, just in case.
    > **解析**：`just in case` 为时间/条件副词短语，意为“以防万一”，常放在句末作状语。
 
 4. **中文**：这个热带小岛位于距离佛罗里达海岸二十英里的海面上。  
@@ -80,7 +80,7 @@ backup plan, deck, diner, get away, hike, in the middle of nowhere, itinerary, j
    > **解析**：`off the coast of` 为方位介词短语，意为“在……海岸线外的大海上”。
 
 5. **中文**：他们收拾好行李，在没有预订酒店的情况下进行了一次说走就走的公路旅行。  
-   **英文**：They packed their bags and took a spontaneous road trip without booking hotels for hike.
+   **英文**：They packed their bags and took a spontaneous road trip without booking hotels.
    > **解析**：`spontaneous` 形容词，意为“自发的；即兴的；说走就走的”。修饰名词 `road trip`。
 
 6. **中文**：我们从机场开车到海滨度假胜地需要多长时间？  
@@ -88,7 +88,7 @@ backup plan, deck, diner, get away, hike, in the middle of nowhere, itinerary, j
    > **解析**：`take` 在句型 `it takes sb. time to do sth.` 中表示“花费（某人时间）”。
 
 7. **中文**：山区的天气可能非常不可预测，因此请带上保暖的衣物。  
-   **英文**：Mountain weather can be highly unpredictable, so bring warm layers of clothing for itinerary.
+   **英文**：Mountain weather can be highly unpredictable, so bring warm layers of clothing.
    > **解析**：`unpredictable` 形容词，意为“无法预测的；多变的”，由前缀 `un-` + `predictable` 构成。
 
 8. **中文**：乘客们站在邮轮的上层甲板上欣赏海上日落。  
@@ -96,7 +96,7 @@ backup plan, deck, diner, get away, hike, in the middle of nowhere, itinerary, j
    > **解析**：`deck` 可数名词，意为“（船的）甲板；露天平台”。`upper deck`（上层甲板）。
 
 9. **中文**：那座小木屋位于偏僻荒凉的角落，完全没有手机信号。  
-   **英文**：The cabin was located in the middle of nowhere with no cellular reception at all for more.
+   **英文**：The cabin was located in the middle of nowhere with no cellular reception at all about diner.
    > **解析**：`in the middle of nowhere` 为常用习惯表达，意为“在人烟稀少的地方；偏僻荒芜之所”。
 
 10. **中文**：在明天回家之前，我们需要为朋友们购买更多的纪念品。  
@@ -110,28 +110,28 @@ backup plan, deck, diner, get away, hike, in the middle of nowhere, itinerary, j
 1. Since flights get delayed often in winter, it is smart to have a backup plan.
    > **中文**：由于冬季航班经常延误，准备一个备用计划是明智的。
 
-2. We decided to take a weekend trip to get away from the noisy city life for deck.
+2. We decided to take a weekend trip to get away from the noisy city life.
    > **中文**：我们决定进行一次周末旅行，远离喧嚣的城市生活。
 
-3. Always pack an emergency rain poncho in your backpack, just in case for diner.
+3. Always pack an emergency rain poncho in your backpack, just in case.
    > **中文**：随身在背包里放一件应急雨衣，以防万一。
 
 4. The small tropical island is located twenty miles off the coast of Florida (get away).
    > **中文**：这个热带小岛位于距离佛罗里达海岸二十英里的海面上。
 
-5. They packed their bags and took a spontaneous road trip without booking hotels for hike.
+5. They packed their bags and took a spontaneous road trip without booking hotels.
    > **中文**：他们收拾好行李，在没有预订酒店的情况下进行了一次说走就走的公路旅行。
 
 6. How long will it take us to drive from the airport to the seaside resort? (in the middle of nowhere).
    > **中文**：我们从机场开车到海滨度假胜地需要多长时间？
 
-7. Mountain weather can be highly unpredictable, so bring warm layers of clothing for itinerary.
+7. Mountain weather can be highly unpredictable, so bring warm layers of clothing.
    > **中文**：山区的天气可能非常不可预测，因此请带上保暖的衣物。
 
 8. Passengers stood on the upper deck of the cruise ship to admire the ocean sunset (just in case).
    > **中文**：乘客们站在邮轮的上层甲板上欣赏海上日落。
 
-9. The cabin was located in the middle of nowhere with no cellular reception at all for more.
+9. The cabin was located in the middle of nowhere with no cellular reception at all about diner.
    > **中文**：那座小木屋位于偏僻荒凉的角落，完全没有手机信号。
 
 10. We need to buy more souvenirs for our friends before returning home tomorrow (not only).
@@ -150,48 +150,48 @@ backup plan, deck, diner, get away, hike, in the middle of nowhere, itinerary, j
 Since flights get delayed often in winter, it is smart to have a `____`.
 
 - [x] backup plan
-- [ ] get away
-- [ ] itinerary
+- [ ] deck
+- [ ] in the middle of nowhere
 
 > **解析**：`backup plan` 可数名词短语，意为“备用计划；后备方案”。
 
 ### 2
 
-We decided to take a weekend trip to get away from the noisy city life for `____`.
+We decided to take a weekend trip to `____` from the noisy city life.
 
-- [x] deck
-- [ ] hike
-- [ ] just in case
+- [x] get away
+- [ ] deck
+- [ ] itinerary
 
 > **解析**：`get away` 不及物动词短语，意为“度假；逃离；远离”。搭配 `get away from...`。
 
 ### 3
 
-Always pack an emergency rain poncho in your backpack, just in case for `____`.
+Always pack an emergency rain poncho in your backpack, `____`.
 
-- [x] diner
-- [ ] in the middle of nowhere
-- [ ] more
+- [x] just in case
+- [ ] diner
+- [ ] itinerary
 
 > **解析**：`just in case` 为时间/条件副词短语，意为“以防万一”，常放在句末作状语。
 
 ### 4
 
-The small tropical island is located twenty miles off the coast of Florida (`____`).
+The small tropical island is located twenty miles `____` Florida (get away).
 
-- [x] get away
-- [ ] itinerary
-- [ ] not only
+- [x] off the coast of
+- [ ] get away
+- [ ] just in case
 
 > **解析**：`off the coast of` 为方位介词短语，意为“在……海岸线外的大海上”。
 
 ### 5
 
-They packed their bags and took a spontaneous road trip without booking hotels for `____`.
+They packed their bags and took a `____` road trip without booking hotels.
 
-- [x] hike
-- [ ] just in case
-- [ ] backup plan
+- [x] spontaneous
+- [ ] hike
+- [ ] more
 
 > **解析**：`spontaneous` 形容词，意为“自发的；即兴的；说走就走的”。修饰名词 `road trip`。
 
@@ -200,48 +200,48 @@ They packed their bags and took a spontaneous road trip without booking hotels f
 How long will it take us to drive from the airport to the seaside resort? (`____`).
 
 - [x] in the middle of nowhere
-- [ ] more
-- [ ] deck
+- [ ] itinerary
+- [ ] off the coast of
 
 > **解析**：`take` 在句型 `it takes sb. time to do sth.` 中表示“花费（某人时间）”。
 
 ### 7
 
-Mountain weather can be highly unpredictable, so bring warm layers of clothing for `____`.
+Mountain weather can be highly `____`, so bring warm layers of clothing.
 
-- [x] itinerary
-- [ ] not only
-- [ ] diner
+- [x] unpredictable
+- [ ] itinerary
+- [ ] off the coast of
 
 > **解析**：`unpredictable` 形容词，意为“无法预测的；多变的”，由前缀 `un-` + `predictable` 构成。
 
 ### 8
 
-Passengers stood on the upper deck of the cruise ship to admire the ocean sunset (`____`).
+Passengers stood on the upper `____` of the cruise ship to admire the ocean sunset (just in case).
 
-- [x] just in case
-- [ ] backup plan
-- [ ] get away
+- [x] deck
+- [ ] more
+- [ ] sold out
 
 > **解析**：`deck` 可数名词，意为“（船的）甲板；露天平台”。`upper deck`（上层甲板）。
 
 ### 9
 
-The cabin was located in the middle of nowhere with no cellular reception at all for `____`.
+The cabin was located in the middle of nowhere with no cellular reception at all about `____`.
 
-- [x] more
-- [ ] deck
-- [ ] hike
+- [x] diner
+- [ ] not only
+- [ ] spontaneous
 
 > **解析**：`in the middle of nowhere` 为常用习惯表达，意为“在人烟稀少的地方；偏僻荒芜之所”。
 
 ### 10
 
-We need to buy more souvenirs for our friends before returning home tomorrow (`____`).
+We need to buy `____` souvenirs for our friends before returning home tomorrow (not only).
 
-- [x] not only
-- [ ] diner
-- [ ] in the middle of nowhere
+- [x] more
+- [ ] off the coast of
+- [ ] stop
 
 > **解析**：`more` 限定词/代词，意为“更多的”，在此修饰复数名词 `souvenirs`。
 

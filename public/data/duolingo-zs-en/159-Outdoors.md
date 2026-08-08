@@ -66,35 +66,35 @@ have got to = must（必须）。blow → blew → blown。
    > **解析**：blew 是动词 blow 的过去式，意为“吹、刮”，在此处修饰主语 A strong wind。
 
 2. **中文**：根据天气预报，明天大雾将笼罩北部海岸。  
-   **英文**：According to the weather report, fog will cover the northern coast tomorrow for blow.
+   **英文**：According to the weather report, fog will cover the northern coast tomorrow.
    > **解析**：coast 为名词，意为“海岸、海滨”。常见搭配 on the coast, northern coast。
 
 3. **中文**：天气预报预测下午将有大雨和雷暴。  
-   **英文**：The weather forecast predicts heavy rainfall and thunder in the afternoon for camel.
+   **英文**：The weather forecast predicts heavy rainfall and thunder in the afternoon.
    > **解析**：forecast 在此处作名词，意为“预报”。weather forecast 即天气预报。
 
 4. **中文**：我们享受了一个阳光怡人、气候温和的秋日下午。  
-   **英文**：We enjoyed a mild autumn afternoon with pleasant sunshine for climate.
+   **英文**：We enjoyed a mild autumn afternoon with pleasant sunshine.
    > **解析**：mild 为形容词，形容天气时意为“温和的、不寒冷的”，修饰 autumn afternoon。
 
 5. **中文**：预计气温将在夜间降至零度以下。  
-   **英文**：Temperatures are expected to drop below zero overnight for coast.
+   **英文**：Temperatures are expected to drop below zero overnight.
    > **解析**：overnight 在此处用作副词，意为“在整夜、过夜期间”，修饰动词 drop。
 
 6. **中文**：一股暖风正从西南方吹向内陆地区。  
-   **英文**：A warm wind is blowing from the southwest towards the inland region for destination.
+   **英文**：A warm wind is blowing from the southwest towards the inland region.
    > **解析**：southwest 为名词/副词，意为“西南、西南方”。from the southwest 意为“从西南方向”。
 
 7. **中文**：游客们乘船出海，希望能看到海岸附近的大翅鲸。  
-   **英文**：Tourists went on a boat tour hoping to see a humpback whale off the coast for fallen.
+   **英文**：Tourists went on a boat tour hoping to see a humpback whale off the coast.
    > **解析**：whale 为可数名词，意为“鲸鱼”。在户外及海洋自然话题中出现。
 
 8. **中文**：整个周末强风将继续从海洋吹来。  
-   **英文**：Strong winds will blow from the ocean throughout the weekend for forecast.
+   **英文**：Strong winds will blow from the ocean throughout the weekend about camel.
    > **解析**：blow 为动词原形，意为“吹、刮”。助动词 will 后接动词原形 blow。
 
 9. **中文**：前往你的度假目的地前，请先查看当地的天气预报。  
-   **英文**：Check the local forecast before heading to your holiday destination for grew.
+   **英文**：Check the local forecast before heading to your holiday destination.
    > **解析**：destination 为可数名词，意为“目的地、终点”。holiday destination 指度假胜地。
 
 10. **中文**：你必须带一把伞，因为预报过一会儿有雨。  
@@ -108,28 +108,28 @@ have got to = must（必须）。blow → blew → blown。
 1. A strong wind blew across the coast all night long.
    > **中文**：整晚强风吹掠过海岸。
 
-2. According to the weather report, fog will cover the northern coast tomorrow for blow.
+2. According to the weather report, fog will cover the northern coast tomorrow.
    > **中文**：根据天气预报，明天大雾将笼罩北部海岸。
 
-3. The weather forecast predicts heavy rainfall and thunder in the afternoon for camel.
+3. The weather forecast predicts heavy rainfall and thunder in the afternoon.
    > **中文**：天气预报预测下午将有大雨和雷暴。
 
-4. We enjoyed a mild autumn afternoon with pleasant sunshine for climate.
+4. We enjoyed a mild autumn afternoon with pleasant sunshine.
    > **中文**：我们享受了一个阳光怡人、气候温和的秋日下午。
 
-5. Temperatures are expected to drop below zero overnight for coast.
+5. Temperatures are expected to drop below zero overnight.
    > **中文**：预计气温将在夜间降至零度以下。
 
-6. A warm wind is blowing from the southwest towards the inland region for destination.
+6. A warm wind is blowing from the southwest towards the inland region.
    > **中文**：一股暖风正从西南方吹向内陆地区。
 
-7. Tourists went on a boat tour hoping to see a humpback whale off the coast for fallen.
+7. Tourists went on a boat tour hoping to see a humpback whale off the coast.
    > **中文**：游客们乘船出海，希望能看到海岸附近的大翅鲸。
 
-8. Strong winds will blow from the ocean throughout the weekend for forecast.
+8. Strong winds will blow from the ocean throughout the weekend about camel.
    > **中文**：整个周末强风将继续从海洋吹来。
 
-9. Check the local forecast before heading to your holiday destination for grew.
+9. Check the local forecast before heading to your holiday destination.
    > **中文**：前往你的度假目的地前，请先查看当地的天气预报。
 
 10. You have got to bring an umbrella because rain is forecasted later.
@@ -148,88 +148,88 @@ have got to = must（必须）。blow → blew → blown。
 A strong wind `____` across the coast all night long.
 
 - [x] blew
-- [ ] climate
-- [ ] fallen
+- [ ] blow
+- [ ] destination
 
 > **解析**：blew 是动词 blow 的过去式，意为“吹、刮”，在此处修饰主语 A strong wind。
 
 ### 2
 
-According to the weather report, fog will cover the northern coast tomorrow for `____`.
+According to the weather report, fog will cover the northern `____` tomorrow.
 
-- [x] blow
-- [ ] coast
-- [ ] forecast
+- [x] coast
+- [ ] blow
+- [ ] fallen
 
 > **解析**：coast 为名词，意为“海岸、海滨”。常见搭配 on the coast, northern coast。
 
 ### 3
 
-The weather forecast predicts heavy rainfall and thunder in the afternoon for `____`.
+The weather `____` predicts heavy rainfall and thunder in the afternoon.
 
-- [x] camel
-- [ ] destination
-- [ ] grew
+- [x] forecast
+- [ ] camel
+- [ ] fallen
 
 > **解析**：forecast 在此处作名词，意为“预报”。weather forecast 即天气预报。
 
 ### 4
 
-We enjoyed a mild autumn afternoon with pleasant sunshine for `____`.
+We enjoyed a `____` autumn afternoon with pleasant sunshine.
 
-- [x] climate
-- [ ] fallen
-- [ ] have got to
+- [x] mild
+- [ ] climate
+- [ ] forecast
 
 > **解析**：mild 为形容词，形容天气时意为“温和的、不寒冷的”，修饰 autumn afternoon。
 
 ### 5
 
-Temperatures are expected to drop below zero overnight for `____`.
+Temperatures are expected to drop below zero `____`.
 
-- [x] coast
-- [ ] forecast
-- [ ] blew
+- [x] overnight
+- [ ] coast
+- [ ] grew
 
 > **解析**：overnight 在此处用作副词，意为“在整夜、过夜期间”，修饰动词 drop。
 
 ### 6
 
-A warm wind is blowing from the southwest towards the inland region for `____`.
+A warm wind is `____`ing from the southwest towards the inland region.
 
-- [x] destination
-- [ ] grew
-- [ ] blow
+- [x] blow
+- [ ] fallen
+- [ ] held
 
 > **解析**：southwest 为名词/副词，意为“西南、西南方”。from the southwest 意为“从西南方向”。
 
 ### 7
 
-Tourists went on a boat tour hoping to see a humpback whale off the coast for `____`.
+Tourists went on a boat tour hoping to see a humpback `____` off the coast.
 
-- [x] fallen
-- [ ] have got to
-- [ ] camel
+- [x] whale
+- [ ] fallen
+- [ ] held
 
 > **解析**：whale 为可数名词，意为“鲸鱼”。在户外及海洋自然话题中出现。
 
 ### 8
 
-Strong winds will blow from the ocean throughout the weekend for `____`.
+Strong winds will blow from the ocean throughout the weekend about `____`.
 
-- [x] forecast
-- [ ] blew
-- [ ] climate
+- [x] camel
+- [ ] grew
+- [ ] northeast
 
 > **解析**：blow 为动词原形，意为“吹、刮”。助动词 will 后接动词原形 blow。
 
 ### 9
 
-Check the local forecast before heading to your holiday destination for `____`.
+Check the local forecast before heading to your holiday `____`.
 
-- [x] grew
-- [ ] blow
-- [ ] coast
+- [x] destination
+- [ ] have got to
+- [ ] northwest
 
 > **解析**：destination 为可数名词，意为“目的地、终点”。holiday destination 指度假胜地。
 
@@ -238,8 +238,8 @@ Check the local forecast before heading to your holiday destination for `____`.
 You `____` bring an umbrella because rain is forecasted later.
 
 - [x] have got to
-- [ ] camel
-- [ ] destination
+- [ ] held
+- [ ] overnight
 
 > **解析**：have got to 是口语动词短语，意为“必须、不得不”，等同于 have to，后接动词原形 bring。
 

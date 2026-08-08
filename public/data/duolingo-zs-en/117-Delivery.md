@@ -62,77 +62,77 @@ allergic to 表示"对……过敏"。taste / smell 可作系动词（尝起来/
 <quiz-sentence-builder>
 
 1. **中文**：当你加班到很晚时，在线订外卖非常方便。  
-   **英文**：Ordering food delivery online is convenient when you stay late at work for allergic.
+   **英文**：Ordering food delivery online is convenient when you stay late at work.
    > **解析**：delivery 作名词，意为“递送，外卖”。food delivery 指“外卖订餐”。
 
 2. **中文**：如果你对海鲜或坚果过敏，请告知餐厅工作人员。  
-   **英文**：Please inform the restaurant staff if you are allergic to seafood or nuts for beverage.
+   **英文**：Please inform the restaurant staff if you are allergic to seafood or nuts.
    > **解析**：be allergic to... 为固定短语，意为“对……过敏”。
 
 3. **中文**：新鲜西红柿和罗勒是这款意面酱的核心原料。  
-   **英文**：Fresh tomatoes and basil are essential ingredients in this pasta sauce for coconut.
+   **英文**：Fresh tomatoes and basil are essential ingredients in this pasta sauce.
    > **解析**：ingredient 作可数名词，意为“成分，原料”。在句中使用复数 ingredients。
 
 4. **中文**：这家冰淇淋店提供二十多种独特的手工口味。  
-   **英文**：This ice cream shop offers over twenty unique homemade flavors for container.
+   **英文**：This ice cream shop offers over twenty unique homemade flavors.
    > **解析**：flavor 作可数/不可数名词，意为“口味，风味”。
 
 5. **中文**：在炎热的夏日下午，冷冰茶是一种令人爽快的饮料。  
-   **英文**：A cold ice tea is a refreshing beverage on a warm summer afternoon for delivery.
+   **英文**：A cold ice tea is a refreshing beverage on a warm summer afternoon.
    > **解析**：beverage 作可数名词（正式表达），意为“饮料”。作表语。
 
 6. **中文**：在山里徒步了整个上午后，我们非常饥饿。  
-   **英文**：We were very hungry after hiking up the mountain all morning for few.
+   **英文**：We were very hungry after hiking up the mountain all morning.
    > **解析**：hungry 作形容词，意为“饥饿的”。作系动词 were 的表语。
 
 7. **中文**：热汤是用一个坚固环保的塑料容器送到手上的。  
-   **英文**：The hot soup was delivered in a sturdy eco-friendly plastic container for flavor.
+   **英文**：The hot soup was delivered in a sturdy eco-friendly plastic container.
    > **解析**：container 作可数名词，意为“容器，盒/罐”。plastic container 指“塑料容器”。
 
 8. **中文**：如果你就餐需要塑料餐具，请记得在勾选框打钩。  
-   **英文**：Remember to check the box if you need plastic utensils with your meal for hungry.
+   **英文**：Remember to check the box if you need plastic utensils with your meal.
    > **解析**：utensils (常用复数) 作名词，意为“餐具，用具”。plastic utensils 指“塑料餐具”。
 
 9. **中文**：结账前请在外卖应用上选择你偏好的支付方式。  
-   **英文**：Select your preferred payment method on the delivery app before checking out for ingredient.
+   **英文**：Select your preferred payment method on the delivery app before checking out.
    > **解析**：payment method 为名词短语，意为“支付方式，付款方法”。
 
 10. **中文**：包括外卖费在内，订单的总费用为二十美元。  
-   **英文**：The total cost of the order including the delivery fee was twenty dollars for jar.
+   **英文**：The total cost of the order including the delivery fee was twenty dollars.
    > **解析**：total 作形容词，意为“总的，总共的”。total cost 表示“总费用”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Ordering food delivery online is convenient when you stay late at work for allergic.
+1. Ordering food delivery online is convenient when you stay late at work.
    > **中文**：当你加班到很晚时，在线订外卖非常方便。
 
-2. Please inform the restaurant staff if you are allergic to seafood or nuts for beverage.
+2. Please inform the restaurant staff if you are allergic to seafood or nuts.
    > **中文**：如果你对海鲜或坚果过敏，请告知餐厅工作人员。
 
-3. Fresh tomatoes and basil are essential ingredients in this pasta sauce for coconut.
+3. Fresh tomatoes and basil are essential ingredients in this pasta sauce.
    > **中文**：新鲜西红柿和罗勒是这款意面酱的核心原料。
 
-4. This ice cream shop offers over twenty unique homemade flavors for container.
+4. This ice cream shop offers over twenty unique homemade flavors.
    > **中文**：这家冰淇淋店提供二十多种独特的手工口味。
 
-5. A cold ice tea is a refreshing beverage on a warm summer afternoon for delivery.
+5. A cold ice tea is a refreshing beverage on a warm summer afternoon.
    > **中文**：在炎热的夏日下午，冷冰茶是一种令人爽快的饮料。
 
-6. We were very hungry after hiking up the mountain all morning for few.
+6. We were very hungry after hiking up the mountain all morning.
    > **中文**：在山里徒步了整个上午后，我们非常饥饿。
 
-7. The hot soup was delivered in a sturdy eco-friendly plastic container for flavor.
+7. The hot soup was delivered in a sturdy eco-friendly plastic container.
    > **中文**：热汤是用一个坚固环保的塑料容器送到手上的。
 
-8. Remember to check the box if you need plastic utensils with your meal for hungry.
+8. Remember to check the box if you need plastic utensils with your meal.
    > **中文**：如果你就餐需要塑料餐具，请记得在勾选框打钩。
 
-9. Select your preferred payment method on the delivery app before checking out for ingredient.
+9. Select your preferred payment method on the delivery app before checking out.
    > **中文**：结账前请在外卖应用上选择你偏好的支付方式。
 
-10. The total cost of the order including the delivery fee was twenty dollars for jar.
+10. The total cost of the order including the delivery fee was twenty dollars.
    > **中文**：包括外卖费在内，订单的总费用为二十美元。
 
 </quiz-listening>
@@ -145,101 +145,101 @@ allergic to 表示"对……过敏"。taste / smell 可作系动词（尝起来/
 
 ### 1
 
-Ordering food delivery online is convenient when you stay late at work for `____`.
+Ordering food `____` online is convenient when you stay late at work.
 
-- [x] allergic
-- [ ] container
-- [ ] flavor
+- [x] delivery
+- [ ] allergic
+- [ ] few
 
 > **解析**：delivery 作名词，意为“递送，外卖”。food delivery 指“外卖订餐”。
 
 ### 2
 
-Please inform the restaurant staff if you are allergic to seafood or nuts for `____`.
+Please inform the restaurant staff if you are `____` to seafood or nuts.
 
-- [x] beverage
-- [ ] delivery
-- [ ] hungry
+- [x] allergic
+- [ ] coconut
+- [ ] flavor
 
 > **解析**：be allergic to... 为固定短语，意为“对……过敏”。
 
 ### 3
 
-Fresh tomatoes and basil are essential ingredients in this pasta sauce for `____`.
+Fresh tomatoes and basil are essential `____`s in this pasta sauce.
 
-- [x] coconut
-- [ ] few
-- [ ] ingredient
+- [x] ingredient
+- [ ] coconut
+- [ ] flavor
 
 > **解析**：ingredient 作可数名词，意为“成分，原料”。在句中使用复数 ingredients。
 
 ### 4
 
-This ice cream shop offers over twenty unique homemade flavors for `____`.
+This ice cream shop offers over twenty unique homemade `____`s.
 
-- [x] container
-- [ ] flavor
-- [ ] jar
+- [x] flavor
+- [ ] container
+- [ ] ingredient
 
 > **解析**：flavor 作可数/不可数名词，意为“口味，风味”。
 
 ### 5
 
-A cold ice tea is a refreshing beverage on a warm summer afternoon for `____`.
+A cold ice tea is a refreshing `____` on a warm summer afternoon.
 
-- [x] delivery
-- [ ] hungry
-- [ ] allergic
+- [x] beverage
+- [ ] few
+- [ ] jar
 
 > **解析**：beverage 作可数名词（正式表达），意为“饮料”。作表语。
 
 ### 6
 
-We were very hungry after hiking up the mountain all morning for `____`.
+We were very `____` after hiking up the mountain all morning.
 
-- [x] few
-- [ ] ingredient
-- [ ] beverage
+- [x] hungry
+- [ ] few
+- [ ] little
 
 > **解析**：hungry 作形容词，意为“饥饿的”。作系动词 were 的表语。
 
 ### 7
 
-The hot soup was delivered in a sturdy eco-friendly plastic container for `____`.
+The hot soup was delivered in a sturdy eco-friendly plastic `____`.
 
-- [x] flavor
-- [ ] jar
-- [ ] coconut
+- [x] container
+- [ ] hungry
+- [ ] location
 
 > **解析**：container 作可数名词，意为“容器，盒/罐”。plastic container 指“塑料容器”。
 
 ### 8
 
-Remember to check the box if you need plastic utensils with your meal for `____`.
+Remember to check the box if you need plastic `____` with your meal.
 
-- [x] hungry
-- [ ] allergic
-- [ ] container
+- [x] utensils
+- [ ] hungry
+- [ ] location
 
 > **解析**：utensils (常用复数) 作名词，意为“餐具，用具”。plastic utensils 指“塑料餐具”。
 
 ### 9
 
-Select your preferred payment method on the delivery app before checking out for `____`.
+Select your preferred `____` on the delivery app before checking out.
 
-- [x] ingredient
-- [ ] beverage
-- [ ] delivery
+- [x] payment method
+- [ ] ingredient
+- [ ] look
 
 > **解析**：payment method 为名词短语，意为“支付方式，付款方法”。
 
 ### 10
 
-The total cost of the order including the delivery fee was twenty dollars for `____`.
+The `____` cost of the order including the delivery fee was twenty dollars.
 
-- [x] jar
-- [ ] coconut
-- [ ] few
+- [x] total
+- [ ] jar
+- [ ] make
 
 > **解析**：total 作形容词，意为“总的，总共的”。total cost 表示“总费用”。
 

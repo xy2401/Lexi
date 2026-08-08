@@ -56,15 +56,15 @@ had / hadn't 是过去完成时，用来讲述家族往事：She hadn't met her 
    > **解析**：alive 为表语形容词，意为“活着的、健在的”，通常作表语修饰主语（is still alive）。
 
 2. **中文**：我母亲像对待亲生女儿一样对待她的儿媳妇。  
-   **英文**：My mother treated her daughter-in-law like her own daughter for babysitter.
+   **英文**：My mother treated her daughter-in-law like her own daughter.
    > **解析**：daughter-in-law 为复合名词，意为“儿媳妇”，复数形式为 daughters-in-law。
 
 3. **中文**：这位老人怀抱他刚出生的曾孙子，感到激动不已。  
-   **英文**：The elderly man was thrilled to hold his newborn great-grandson in his arms for close.
+   **英文**：The elderly man was thrilled to hold his newborn great-grandson in his arms.
    > **解析**：great-grandson 为复合名词，意为“曾孙、外曾孙”。
 
 4. **中文**：只有直系亲属成员被邀请参加了这次私人周年纪念晚餐。  
-   **英文**：Only members of the immediate family were invited to the private anniversary dinner for daughter-in-law.
+   **英文**：Only members of the immediate family were invited to the private anniversary dinner.
    > **解析**：immediate 在此处作定语，immediate family 意为“直系亲属/近亲”（指父母、配偶、子女、同胞）。
 
 5. **中文**：家庭聚会上的大多数客人都是中年成年人。  
@@ -72,23 +72,23 @@ had / hadn't 是过去完成时，用来讲述家族往事：She hadn't met her 
    > **解析**：middle-aged 为复合形容词，意为“中年的”（通常指 40 到 60 岁），修饰 adults。
 
 6. **中文**：我哥哥和我嫂子（弟媳）刚刚搬进了我们父母附近的新房子。  
-   **英文**：My brother and my sister-in-law just moved into a new house near our parents for female.
+   **英文**：My brother and my sister-in-law just moved into a new house near our parents.
    > **解析**：sister-in-law 为复合名词，意为“嫂子、弟媳、教姐、教妹”，复数 sisters-in-law。
 
 7. **中文**：自从她还是个小孩起，她的继父就一直在支持她的教育。  
-   **英文**：Her stepfather has been supporting her education since she was a little child for great-grandmother.
+   **英文**：Her stepfather has been supporting her education since she was a little child.
    > **解析**：stepfather 为可数名词，意为“继父”，指母亲后结婚的丈夫。
 
 8. **中文**：在我们外出时，我们请了一位值得信赖的临时保姆照看我们的孩子。  
-   **英文**：We hired a trusted babysitter to look after our children while we went out for great-grandson.
+   **英文**：We hired a trusted babysitter to look after our children while we went out.
    > **解析**：babysitter 为可数名词，意为“看护小孩者、临时保姆”。
 
 9. **中文**：每年春天我们家族所有的女性亲属都会聚在一起度过传统的烘焙日。  
-   **英文**：All female relatives in our family gather every spring for a traditional baking day for had.
+   **英文**：All female relatives in our family gather every spring for a traditional baking day.
    > **解析**：female 在此处作形容词，意为“女性的”，修饰复数名词 relatives。
 
 10. **中文**：我叔叔在四十岁时就已经有了三个孩子。  
-   **英文**：My uncle had three children by the time he reached forty years old (hadn't).
+   **英文**：My uncle had three children by the time he reached forty years old.
    > **解析**：had 是 have 的过去式，在此处表示过去拥有的家庭状况（had three children）。
 
 </quiz-sentence-builder>
@@ -98,31 +98,31 @@ had / hadn't 是过去完成时，用来讲述家族往事：She hadn't met her 
 1. My great-grandmother is still healthy and alive at ninety-five years old.
    > **中文**：我的曾祖母在九十五岁高龄时依然健康健在。
 
-2. My mother treated her daughter-in-law like her own daughter for babysitter.
+2. My mother treated her daughter-in-law like her own daughter.
    > **中文**：我母亲像对待亲生女儿一样对待她的儿媳妇。
 
-3. The elderly man was thrilled to hold his newborn great-grandson in his arms for close.
+3. The elderly man was thrilled to hold his newborn great-grandson in his arms.
    > **中文**：这位老人怀抱他刚出生的曾孙子，感到激动不已。
 
-4. Only members of the immediate family were invited to the private anniversary dinner for daughter-in-law.
+4. Only members of the immediate family were invited to the private anniversary dinner.
    > **中文**：只有直系亲属成员被邀请参加了这次私人周年纪念晚餐。
 
 5. Most of the guests at the family reunion were middle-aged adults (extended family).
    > **中文**：家庭聚会上的大多数客人都是中年成年人。
 
-6. My brother and my sister-in-law just moved into a new house near our parents for female.
+6. My brother and my sister-in-law just moved into a new house near our parents.
    > **中文**：我哥哥和我嫂子（弟媳）刚刚搬进了我们父母附近的新房子。
 
-7. Her stepfather has been supporting her education since she was a little child for great-grandmother.
+7. Her stepfather has been supporting her education since she was a little child.
    > **中文**：自从她还是个小孩起，她的继父就一直在支持她的教育。
 
-8. We hired a trusted babysitter to look after our children while we went out for great-grandson.
+8. We hired a trusted babysitter to look after our children while we went out.
    > **中文**：在我们外出时，我们请了一位值得信赖的临时保姆照看我们的孩子。
 
-9. All female relatives in our family gather every spring for a traditional baking day for had.
+9. All female relatives in our family gather every spring for a traditional baking day.
    > **中文**：每年春天我们家族所有的女性亲属都会聚在一起度过传统的烘焙日。
 
-10. My uncle had three children by the time he reached forty years old (hadn't).
+10. My uncle had three children by the time he reached forty years old.
    > **中文**：我叔叔在四十岁时就已经有了三个孩子。
 
 </quiz-listening>
@@ -138,38 +138,38 @@ had / hadn't 是过去完成时，用来讲述家族往事：She hadn't met her 
 My great-grandmother is still healthy and `____` at ninety-five years old.
 
 - [x] alive
-- [ ] daughter-in-law
-- [ ] great-grandmother
+- [ ] babysitter
+- [ ] female
 
 > **解析**：alive 为表语形容词，意为“活着的、健在的”，通常作表语修饰主语（is still alive）。
 
 ### 2
 
-My mother treated her daughter-in-law like her own daughter for `____`.
+My mother treated her `____` like her own daughter.
 
-- [x] babysitter
-- [ ] extended family
-- [ ] great-grandson
+- [x] daughter-in-law
+- [ ] babysitter
+- [ ] great-grandmother
 
 > **解析**：daughter-in-law 为复合名词，意为“儿媳妇”，复数形式为 daughters-in-law。
 
 ### 3
 
-The elderly man was thrilled to hold his newborn great-grandson in his arms for `____`.
+The elderly man was thrilled to hold his newborn `____` in his arms.
 
-- [x] close
-- [ ] female
-- [ ] had
+- [x] great-grandson
+- [ ] close
+- [ ] great-grandmother
 
 > **解析**：great-grandson 为复合名词，意为“曾孙、外曾孙”。
 
 ### 4
 
-Only members of the immediate family were invited to the private anniversary dinner for `____`.
+Only members of the `____` family were invited to the private anniversary dinner.
 
-- [x] daughter-in-law
-- [ ] great-grandmother
-- [ ] hadn't
+- [x] immediate
+- [ ] daughter-in-law
+- [ ] great-grandson
 
 > **解析**：immediate 在此处作定语，immediate family 意为“直系亲属/近亲”（指父母、配偶、子女、同胞）。
 
@@ -178,58 +178,58 @@ Only members of the immediate family were invited to the private anniversary din
 Most of the guests at the family reunion were middle-aged adults (`____`).
 
 - [x] extended family
-- [ ] great-grandson
-- [ ] alive
+- [ ] female
+- [ ] hadn't
 
 > **解析**：middle-aged 为复合形容词，意为“中年的”（通常指 40 到 60 岁），修饰 adults。
 
 ### 6
 
-My brother and my sister-in-law just moved into a new house near our parents for `____`.
+My brother and my `____` just moved into a new house near our parents.
 
-- [x] female
-- [ ] had
-- [ ] babysitter
+- [x] sister-in-law
+- [ ] female
+- [ ] hadn't
 
 > **解析**：sister-in-law 为复合名词，意为“嫂子、弟媳、教姐、教妹”，复数 sisters-in-law。
 
 ### 7
 
-Her stepfather has been supporting her education since she was a little child for `____`.
+Her `____` has been supporting her education since she was a little child.
 
-- [x] great-grandmother
-- [ ] hadn't
-- [ ] close
+- [x] stepfather
+- [ ] great-grandmother
+- [ ] immediate
 
 > **解析**：stepfather 为可数名词，意为“继父”，指母亲后结婚的丈夫。
 
 ### 8
 
-We hired a trusted babysitter to look after our children while we went out for `____`.
+We hired a trusted `____` to look after our children while we went out.
 
-- [x] great-grandson
-- [ ] alive
-- [ ] daughter-in-law
+- [x] babysitter
+- [ ] had
+- [ ] laugh
 
 > **解析**：babysitter 为可数名词，意为“看护小孩者、临时保姆”。
 
 ### 9
 
-All female relatives in our family gather every spring for a traditional baking day for `____`.
+All `____` relatives in our family gather every spring for a traditional baking day.
 
-- [x] had
-- [ ] babysitter
-- [ ] extended family
+- [x] female
+- [ ] hadn't
+- [ ] male
 
 > **解析**：female 在此处作形容词，意为“女性的”，修饰复数名词 relatives。
 
 ### 10
 
-My uncle had three children by the time he reached forty years old (`____`).
+My uncle `____` three children by the time he reached forty years old.
 
-- [x] hadn't
-- [ ] close
-- [ ] female
+- [x] had
+- [ ] immediate
+- [ ] middle-aged
 
 > **解析**：had 是 have 的过去式，在此处表示过去拥有的家庭状况（had three children）。
 

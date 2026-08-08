@@ -66,31 +66,31 @@ have/has + 过去分词构成现在完成时。than 用于比较级。
    > **解析**：anniversary 为名词，意为“周年纪念日”。wedding anniversary 意为“结婚纪念日”。silver wedding anniversary 指“银婚（25周年）纪念日”。
 
 2. **中文**：婚礼结束后你们计划去哪里度蜜月？  
-   **英文**：Where do you plan to go for your honeymoon after the wedding ceremony? for did.
+   **英文**：Where do you plan to go for your honeymoon after the wedding ceremony.
    > **解析**：honeymoon 为名词，意为“蜜月”。go for a honeymoon 表示“去度蜜月”。
 
 3. **中文**：你目前是在恋爱中，还是在享受单身生活？  
-   **英文**：Are you currently in a relationship, or are you enjoying your single life? for event.
+   **英文**：Are you currently in a relationship, or are you enjoying your single life.
    > **解析**：in a relationship 为固定介词短语，作表语，意为“处于恋爱关系中”。
 
 4. **中文**：一起切婚礼蛋糕是许多文化中共同拥有的甜蜜传统。  
-   **英文**：Cutting the wedding cake together is a sweet tradition shared by many cultures for has.
+   **英文**：Cutting the wedding cake together is a sweet tradition shared by many cultures.
    > **解析**：tradition 为名词，意为“传统”。shared by... 为过去分词短语作后置定语。形容词为 traditional。
 
 5. **中文**：他们选择了一个宁静的湖畔度假村来举办他们亲密的婚礼仪式。  
-   **英文**：They chose a peaceful lakeside resort to host their intimate marriage ceremony (hasn't).
+   **英文**：They chose a peaceful lakeside resort to host their intimate marriage ceremony.
    > **解析**：peaceful 为形容词，意为“宁静的、和平的”。修饰 resort（度假村）。intimate 意为“亲密的/小范围的”。
 
 6. **中文**：当新娘步入装饰一新的宴会厅时，她看起来美极了/令人难以置信地棒。  
-   **英文**：The bride looked incredible as she stepped into the decorated banquet hall for have.
+   **英文**：The bride looked incredible as she stepped into the decorated banquet hall.
    > **解析**：incredible 为形容词，意为“极好的、难以置信的”。在句中作系动词 looked 的表语。
 
 7. **中文**：你最近听到了关于他们即将来临的婚礼安排的任何消息吗？  
-   **英文**：Have you heard any news about their upcoming wedding arrangements lately? (haven't).
+   **英文**：Have you heard any news about their upcoming wedding arrangements lately.
    > **解析**：lately 为副词，意为“近来、最近”。常用于完成时态的疑问句或否定句中（Have you heard... lately?）。
 
 8. **中文**：那种安静的新郎很少在公开场合发言，但他今晚做了一场感人的演讲。  
-   **英文**：The quiet groom rarely speaks in public, but he made a moving speech tonight for honeymoon.
+   **英文**：The quiet groom rarely speaks in public, but he made a moving speech tonight.
    > **解析**：rarely 为频度副词，意为“很少、罕见地”。在句中修饰动词 speaks。含有否定意味。
 
 9. **中文**：在你老家文化中，典型的婚礼菜单是什么样的？  
@@ -98,7 +98,7 @@ have/has + 过去分词构成现在完成时。than 用于比较级。
    > **解析**：typical 为形容词，意为“典型的、特有的”。what is ... like? 用于询问某种情况的特征。
 
 10. **中文**：组织一场盛大的婚礼是一项需要周密规划的重大活动。  
-   **英文**：Organizing a grand wedding is a major event that requires careful planning for incredible.
+   **英文**：Organizing a grand wedding is a major event that requires careful planning.
    > **解析**：event 为名词，意为“活动、盛事”。major event 表示“重大活动”。require careful planning 意为“需要周密规划”。
 
 </quiz-sentence-builder>
@@ -108,31 +108,31 @@ have/has + 过去分词构成现在完成时。than 用于比较级。
 1. The couple celebrated their silver wedding anniversary with a family dinner party.
    > **中文**：这对夫妇举办家庭晚宴庆祝他们的银婚纪念日。
 
-2. Where do you plan to go for your honeymoon after the wedding ceremony? for did.
+2. Where do you plan to go for your honeymoon after the wedding ceremony.
    > **中文**：婚礼结束后你们计划去哪里度蜜月？
 
-3. Are you currently in a relationship, or are you enjoying your single life? for event.
+3. Are you currently in a relationship, or are you enjoying your single life.
    > **中文**：你目前是在恋爱中，还是在享受单身生活？
 
-4. Cutting the wedding cake together is a sweet tradition shared by many cultures for has.
+4. Cutting the wedding cake together is a sweet tradition shared by many cultures.
    > **中文**：一起切婚礼蛋糕是许多文化中共同拥有的甜蜜传统。
 
-5. They chose a peaceful lakeside resort to host their intimate marriage ceremony (hasn't).
+5. They chose a peaceful lakeside resort to host their intimate marriage ceremony.
    > **中文**：他们选择了一个宁静的湖畔度假村来举办他们亲密的婚礼仪式。
 
-6. The bride looked incredible as she stepped into the decorated banquet hall for have.
+6. The bride looked incredible as she stepped into the decorated banquet hall.
    > **中文**：当新娘步入装饰一新的宴会厅时，她看起来美极了/令人难以置信地棒。
 
-7. Have you heard any news about their upcoming wedding arrangements lately? (haven't).
+7. Have you heard any news about their upcoming wedding arrangements lately.
    > **中文**：你最近听到了关于他们即将来临的婚礼安排的任何消息吗？
 
-8. The quiet groom rarely speaks in public, but he made a moving speech tonight for honeymoon.
+8. The quiet groom rarely speaks in public, but he made a moving speech tonight.
    > **中文**：那种安静的新郎很少在公开场合发言，但他今晚做了一场感人的演讲。
 
 9. What is a typical wedding menu like in your hometown culture? (in a relationship).
    > **中文**：在你老家文化中，典型的婚礼菜单是什么样的？
 
-10. Organizing a grand wedding is a major event that requires careful planning for incredible.
+10. Organizing a grand wedding is a major event that requires careful planning.
    > **中文**：组织一场盛大的婚礼是一项需要周密规划的重大活动。
 
 </quiz-listening>
@@ -148,98 +148,98 @@ have/has + 过去分词构成现在完成时。than 用于比较级。
 The couple celebrated their silver wedding `____` with a family dinner party.
 
 - [x] anniversary
-- [ ] has
-- [ ] haven't
+- [ ] did
+- [ ] have
 
 > **解析**：anniversary 为名词，意为“周年纪念日”。wedding anniversary 意为“结婚纪念日”。silver wedding anniversary 指“银婚（25周年）纪念日”。
 
 ### 2
 
-Where do you plan to go for your honeymoon after the wedding ceremony? for `____`.
+Where do you plan to go for your `____` after the wedding ceremony.
 
-- [x] did
-- [ ] hasn't
-- [ ] honeymoon
+- [x] honeymoon
+- [ ] did
+- [ ] have
 
 > **解析**：honeymoon 为名词，意为“蜜月”。go for a honeymoon 表示“去度蜜月”。
 
 ### 3
 
-Are you currently in a relationship, or are you enjoying your single life? for `____`.
+Are you currently `____`, or are you enjoying your single life.
 
-- [x] event
-- [ ] have
-- [ ] in a relationship
+- [x] in a relationship
+- [ ] event
+- [ ] haven't
 
 > **解析**：in a relationship 为固定介词短语，作表语，意为“处于恋爱关系中”。
 
 ### 4
 
-Cutting the wedding cake together is a sweet tradition shared by many cultures for `____`.
+Cutting the wedding cake together is a sweet `____` shared by many cultures.
 
-- [x] has
-- [ ] haven't
-- [ ] incredible
+- [x] tradition
+- [ ] has
+- [ ] honeymoon
 
 > **解析**：tradition 为名词，意为“传统”。shared by... 为过去分词短语作后置定语。形容词为 traditional。
 
 ### 5
 
-They chose a peaceful lakeside resort to host their intimate marriage ceremony (`____`).
+They chose a `____` lakeside resort to host their intimate marriage ceremony.
 
-- [x] hasn't
-- [ ] honeymoon
-- [ ] anniversary
+- [x] peaceful
+- [ ] hasn't
+- [ ] in a relationship
 
 > **解析**：peaceful 为形容词，意为“宁静的、和平的”。修饰 resort（度假村）。intimate 意为“亲密的/小范围的”。
 
 ### 6
 
-The bride looked incredible as she stepped into the decorated banquet hall for `____`.
+The bride looked `____` as she stepped into the decorated banquet hall.
 
-- [x] have
-- [ ] in a relationship
-- [ ] did
+- [x] incredible
+- [ ] have
+- [ ] lately
 
 > **解析**：incredible 为形容词，意为“极好的、难以置信的”。在句中作系动词 looked 的表语。
 
 ### 7
 
-Have you heard any news about their upcoming wedding arrangements lately? (`____`).
+`____` you heard any news about their upcoming wedding arrangements lately.
 
-- [x] haven't
-- [ ] incredible
-- [ ] event
+- [x] have
+- [ ] honeymoon
+- [ ] more often
 
 > **解析**：lately 为副词，意为“近来、最近”。常用于完成时态的疑问句或否定句中（Have you heard... lately?）。
 
 ### 8
 
-The quiet groom rarely speaks in public, but he made a moving speech tonight for `____`.
+The quiet groom `____` speaks in public, but he made a moving speech tonight.
 
-- [x] honeymoon
-- [ ] anniversary
-- [ ] has
+- [x] rarely
+- [ ] honeymoon
+- [ ] more often
 
 > **解析**：rarely 为频度副词，意为“很少、罕见地”。在句中修饰动词 speaks。含有否定意味。
 
 ### 9
 
-What is a typical wedding menu like in your hometown culture? (`____`).
+What is a `____` wedding menu like in your hometown culture? (in a relationship).
 
-- [x] in a relationship
-- [ ] did
-- [ ] hasn't
+- [x] typical
+- [ ] in a relationship
+- [ ] nice and
 
 > **解析**：typical 为形容词，意为“典型的、特有的”。what is ... like? 用于询问某种情况的特征。
 
 ### 10
 
-Organizing a grand wedding is a major event that requires careful planning for `____`.
+Organizing a grand wedding is a major `____` that requires careful planning.
 
-- [x] incredible
-- [ ] event
-- [ ] have
+- [x] event
+- [ ] lately
+- [ ] rarely
 
 > **解析**：event 为名词，意为“活动、盛事”。major event 表示“重大活动”。require careful planning 意为“需要周密规划”。
 

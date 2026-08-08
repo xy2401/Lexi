@@ -52,11 +52,11 @@ drawn 是 draw 的过去分词，在这里可能指"被吸引"（drawn to）或"
 <quiz-sentence-builder>
 
 1. **中文**：我非常后悔昨天和我哥哥发生激烈的争吵。  
-   **英文**：I deeply regret getting into a heated argument with my brother yesterday for act.
+   **英文**：I deeply regret getting into a heated argument with my brother yesterday.
    > **解析**：argument 可数名词，意为“争吵；争论”，动词为 argue。
 
 2. **中文**：她因驾驶考试不及格而对自己感到无比失望。  
-   **英文**：She felt extremely disappointed with herself for failing the driving exam for argument.
+   **英文**：She felt extremely disappointed with herself for failing the driving exam.
    > **解析**：disappointed 形容词，意为“感到失望的”，修饰人，常搭配 with 或 at。
 
 3. **中文**：他因忘记母亲的生日晚餐而感到内疚。  
@@ -68,15 +68,15 @@ drawn 是 draw 的过去分词，在这里可能指"被吸引"（drawn to）或"
    > **解析**：common sense 不可数名词短语，意为“常识”。
 
 5. **中文**：如果我早知道商店关门了，我就不会一路走过去了。  
-   **英文**：If I had known the store was closed, I wouldn't have walked all the way there for control.
+   **英文**：If I had known the store was closed, I wouldn't have walked all the way there.
    > **解析**：wouldn't have + 过去分词，用于虚拟语气表示“（过去）本不会做某事”。
 
 6. **中文**：如果我们早点出发，我们本会有充足的时间赶上火车。  
-   **英文**：If we had left earlier, we would have had enough time to catch the train for disappoint.
+   **英文**：If we had left earlier, we would have had enough time to catch the train.
    > **解析**：would have had 是 would have + have 的过去分词 had，意为“本会有……”。
 
 7. **中文**：我的同事曾试图警告我注意即将到来的截止日期，但我忽略了。  
-   **英文**：My coworker tried to warn me about the upcoming deadline, but I ignored it for drawn.
+   **英文**：My coworker tried to warn me about the upcoming deadline, but I ignored it.
    > **解析**：warn 及物动词，意为“警告；提醒”，常用 warn somebody about/against something。
 
 8. **中文**：酒后驾车是能毁掉生命的危险决定。  
@@ -84,21 +84,21 @@ drawn 是 draw 的过去分词，在这里可能指"被吸引"（drawn to）或"
    > **解析**：drunk 形容词，意为“酒醉的”，作表语；drive drunk 意为酒后驾车。
 
 9. **中文**：意识到自己的决定很自私后，她向整个团队道歉。  
-   **英文**：Realizing her decision was selfish, she apologized to her entire team for guilty.
+   **英文**：Realizing her decision was selfish, she apologized to her entire team.
    > **解析**：selfish 形容词，意为“自私的”，反义词为 unselfish / generous。
 
 10. **中文**：他在会议期间失去了对情绪的控制并大声喊叫。  
-   **英文**：He lost control of his emotions and shouted during the meeting for had.
+   **英文**：He lost control of his emotions and shouted during the meeting.
    > **解析**：control 不可数/可数名词，意为“控制；克制”，短语 lose control of ... 意为对……失去控制。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I deeply regret getting into a heated argument with my brother yesterday for act.
+1. I deeply regret getting into a heated argument with my brother yesterday.
    > **中文**：我非常后悔昨天和我哥哥发生激烈的争吵。
 
-2. She felt extremely disappointed with herself for failing the driving exam for argument.
+2. She felt extremely disappointed with herself for failing the driving exam.
    > **中文**：她因驾驶考试不及格而对自己感到无比失望。
 
 3. He felt guilty about forgetting his mother's birthday dinner (be able to).
@@ -107,22 +107,22 @@ drawn 是 draw 的过去分词，在这里可能指"被吸引"（drawn to）或"
 4. Using common sense would have prevented this silly mistake.
    > **中文**：凭常识本可以避免这个愚蠢的错误。
 
-5. If I had known the store was closed, I wouldn't have walked all the way there for control.
+5. If I had known the store was closed, I wouldn't have walked all the way there.
    > **中文**：如果我早知道商店关门了，我就不会一路走过去了。
 
-6. If we had left earlier, we would have had enough time to catch the train for disappoint.
+6. If we had left earlier, we would have had enough time to catch the train.
    > **中文**：如果我们早点出发，我们本会有充足的时间赶上火车。
 
-7. My coworker tried to warn me about the upcoming deadline, but I ignored it for drawn.
+7. My coworker tried to warn me about the upcoming deadline, but I ignored it.
    > **中文**：我的同事曾试图警告我注意即将到来的截止日期，但我忽略了。
 
 8. Driving while drunk is a dangerous decision that can destroy lives.
    > **中文**：酒后驾车是能毁掉生命的危险决定。
 
-9. Realizing her decision was selfish, she apologized to her entire team for guilty.
+9. Realizing her decision was selfish, she apologized to her entire team.
    > **中文**：意识到自己的决定很自私后，她向整个团队道歉。
 
-10. He lost control of his emotions and shouted during the meeting for had.
+10. He lost control of his emotions and shouted during the meeting.
    > **中文**：他在会议期间失去了对情绪的控制并大声喊叫。
 
 </quiz-listening>
@@ -135,21 +135,21 @@ drawn 是 draw 的过去分词，在这里可能指"被吸引"（drawn to）或"
 
 ### 1
 
-I deeply regret getting into a heated argument with my brother yesterday for `____`.
+I deeply regret getting into a heated `____` with my brother yesterday.
 
-- [x] act
-- [ ] common sense
-- [ ] drawn
+- [x] argument
+- [ ] act
+- [ ] disappoint
 
 > **解析**：argument 可数名词，意为“争吵；争论”，动词为 argue。
 
 ### 2
 
-She felt extremely disappointed with herself for failing the driving exam for `____`.
+She felt extremely `____`ed with herself for failing the driving exam.
 
-- [x] argument
-- [ ] control
-- [ ] drunk
+- [x] disappoint
+- [ ] argument
+- [ ] drawn
 
 > **解析**：disappointed 形容词，意为“感到失望的”，修饰人，常搭配 with 或 at。
 
@@ -158,8 +158,8 @@ She felt extremely disappointed with herself for failing the driving exam for `_
 He felt guilty about forgetting his mother's birthday dinner (`____`).
 
 - [x] be able to
-- [ ] disappoint
-- [ ] guilty
+- [ ] common sense
+- [ ] drunk
 
 > **解析**：guilty 形容词，意为“内疚的；有罪的”，常用 feel guilty about doing something。
 
@@ -168,38 +168,38 @@ He felt guilty about forgetting his mother's birthday dinner (`____`).
 Using `____` would have prevented this silly mistake.
 
 - [x] common sense
-- [ ] drawn
-- [ ] had
+- [ ] control
+- [ ] guilty
 
 > **解析**：common sense 不可数名词短语，意为“常识”。
 
 ### 5
 
-If I had known the store was closed, I wouldn't have walked all the way there for `____`.
+If I `____` known the store was closed, I wouldn't have walked all the way there.
 
-- [x] control
-- [ ] drunk
-- [ ] act
+- [x] had
+- [ ] control
+- [ ] guilty
 
 > **解析**：wouldn't have + 过去分词，用于虚拟语气表示“（过去）本不会做某事”。
 
 ### 6
 
-If we had left earlier, we would have had enough time to catch the train for `____`.
+`____` we had left earlier, we would have had enough time to catch the train.
 
-- [x] disappoint
-- [ ] guilty
-- [ ] argument
+- [x] if
+- [ ] disappoint
+- [ ] had
 
 > **解析**：would have had 是 would have + have 的过去分词 had，意为“本会有……”。
 
 ### 7
 
-My coworker tried to warn me about the upcoming deadline, but I ignored it for `____`.
+My coworker tried to `____` me about the upcoming deadline, but I ignored it.
 
-- [x] drawn
-- [ ] had
-- [ ] be able to
+- [x] warn
+- [ ] drawn
+- [ ] hadn't
 
 > **解析**：warn 及物动词，意为“警告；提醒”，常用 warn somebody about/against something。
 
@@ -208,28 +208,28 @@ My coworker tried to warn me about the upcoming deadline, but I ignored it for `
 Driving while `____` is a dangerous decision that can destroy lives.
 
 - [x] drunk
-- [ ] act
-- [ ] common sense
+- [ ] guilty
+- [ ] loud
 
 > **解析**：drunk 形容词，意为“酒醉的”，作表语；drive drunk 意为酒后驾车。
 
 ### 9
 
-Realizing her decision was selfish, she apologized to her entire team for `____`.
+Realizing her decision was `____`, she apologized to her entire team.
 
-- [x] guilty
-- [ ] argument
-- [ ] control
+- [x] selfish
+- [ ] guilty
+- [ ] loud
 
 > **解析**：selfish 形容词，意为“自私的”，反义词为 unselfish / generous。
 
 ### 10
 
-He lost control of his emotions and shouted during the meeting for `____`.
+He lost `____` of his emotions and shouted during the meeting.
 
-- [x] had
-- [ ] be able to
-- [ ] disappoint
+- [x] control
+- [ ] hadn't
+- [ ] mistaken
 
 > **解析**：control 不可数/可数名词，意为“控制；克制”，短语 lose control of ... 意为对……失去控制。
 

@@ -78,7 +78,7 @@ date back（追溯到）、in those days（在那个年代）、lifetime（一�
 <quiz-sentence-builder>
 
 1. **中文**：古典钢琴音乐启发了他创作属于自己的歌曲。  
-   **英文**：Classical piano music inspired him to write his own songs for alternative.
+   **英文**：Classical piano music inspired him to write his own songs.
    > **解析**：`inspire` 作及物动词，意为“启发、鼓舞”，常用结构 `inspire sb to do sth`。
 
 2. **中文**：这种传统民族乐器可以追溯到十七世纪。  
@@ -90,11 +90,11 @@ date back（追溯到）、in those days（在那个年代）、lifetime（一�
    > **解析**：`soundtrack` 是名词，意为“（电影/电视）原声音乐带”。
 
 4. **中文**：那支传奇摇滚乐队在流行文化中极其富有影响力。  
-   **英文**：That legendary rock band was extremely influential in pop culture for electronic.
+   **英文**：That legendary rock band was extremely influential in pop culture.
    > **解析**：`influential` 是形容词，意为“有影响力的”，修饰词为 `extremely`。
 
 5. **中文**：这位独立音乐创作人计划下个月发行她的新专辑。  
-   **英文**：The independent songwriter plans to release her new album next month for hippie.
+   **英文**：The independent songwriter plans to release her new album next month.
    > **解析**：`release` 作动词，意为“发行、发布（唱片/图书等）”。
 
 6. **中文**：舞曲通常依赖于快速且稳定的节奏。  
@@ -106,22 +106,22 @@ date back（追溯到）、in those days（在那个年代）、lifetime（一�
    > **解析**：`pop culture` 是专有名词短语，意为“流行文化”。
 
 8. **中文**：在我看来，现场演唱会演出比录制的单曲好得多。  
-   **英文**：In my eyes, live concert performances are much better than recorded tracks for influence.
+   **英文**：In my eyes, live concert performances are much better than recorded tracks about alternative.
    > **解析**：`in my eyes` 是观点表达短语，意为“在我看来/在我的眼里”。
 
 9. **中文**：这位知名歌手在推出首支单曲后赢得了世界范围的名声。  
-   **英文**：The famous singer achieved worldwide fame after her debut single for influential.
+   **英文**：The famous singer achieved worldwide fame after her debut single.
    > **解析**：`worldwide` 作形容词或副词，意为“全世界的、全球范围的”。
 
 10. **中文**：比起主流流行音乐，他们更喜欢听另类摇滚。  
-   **英文**：They prefer listening to alternative rock rather than mainstream pop music for inspire.
+   **英文**：They prefer listening to alternative rock rather than mainstream pop music about electronic.
    > **解析**：`alternative` 作形容词，意为“非传统的、另类的”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Classical piano music inspired him to write his own songs for alternative.
+1. Classical piano music inspired him to write his own songs.
    > **中文**：古典钢琴音乐启发了他创作属于自己的歌曲。
 
 2. This traditional folk instrument dates back to the seventeenth century (and had).
@@ -130,10 +130,10 @@ date back（追溯到）、in those days（在那个年代）、lifetime（一�
 3. The movie's soundtrack became immensely popular around the world (date back).
    > **中文**：这部电影的原声带在全世界范围内大受欢迎。
 
-4. That legendary rock band was extremely influential in pop culture for electronic.
+4. That legendary rock band was extremely influential in pop culture.
    > **中文**：那支传奇摇滚乐队在流行文化中极其富有影响力。
 
-5. The independent songwriter plans to release her new album next month for hippie.
+5. The independent songwriter plans to release her new album next month.
    > **中文**：这位独立音乐创作人计划下个月发行她的新专辑。
 
 6. Dance music usually relies on a fast and steady rhythm (in my eyes).
@@ -142,13 +142,13 @@ date back（追溯到）、in those days（在那个年代）、lifetime（一�
 7. Hip-hop music has become a major part of modern pop culture (in those days).
    > **中文**：嘻哈音乐已成为现代流行文化的主要组成部分。
 
-8. In my eyes, live concert performances are much better than recorded tracks for influence.
+8. In my eyes, live concert performances are much better than recorded tracks about alternative.
    > **中文**：在我看来，现场演唱会演出比录制的单曲好得多。
 
-9. The famous singer achieved worldwide fame after her debut single for influential.
+9. The famous singer achieved worldwide fame after her debut single.
    > **中文**：这位知名歌手在推出首支单曲后赢得了世界范围的名声。
 
-10. They prefer listening to alternative rock rather than mainstream pop music for inspire.
+10. They prefer listening to alternative rock rather than mainstream pop music about electronic.
    > **中文**：比起主流流行音乐，他们更喜欢听另类摇滚。
 
 </quiz-listening>
@@ -161,11 +161,11 @@ date back（追溯到）、in those days（在那个年代）、lifetime（一�
 
 ### 1
 
-Classical piano music inspired him to write his own songs for `____`.
+Classical piano music `____`d him to write his own songs.
 
-- [x] alternative
-- [ ] electronic
-- [ ] in those days
+- [x] inspire
+- [ ] alternative
+- [ ] hippie
 
 > **解析**：`inspire` 作及物动词，意为“启发、鼓舞”，常用结构 `inspire sb to do sth`。
 
@@ -174,8 +174,8 @@ Classical piano music inspired him to write his own songs for `____`.
 This traditional folk instrument dates back to the seventeenth century (`____`).
 
 - [x] and had
-- [ ] hippie
-- [ ] influence
+- [ ] date back
+- [ ] in those days
 
 > **解析**：`date back to...` 是固定动词短语，意为“追溯到（某时期）”。
 
@@ -184,28 +184,28 @@ This traditional folk instrument dates back to the seventeenth century (`____`).
 The movie's soundtrack became immensely popular around the world (`____`).
 
 - [x] date back
-- [ ] in my eyes
-- [ ] influential
+- [ ] electronic
+- [ ] influence
 
 > **解析**：`soundtrack` 是名词，意为“（电影/电视）原声音乐带”。
 
 ### 4
 
-That legendary rock band was extremely influential in pop culture for `____`.
+That legendary rock band was extremely `____` in pop culture.
 
-- [x] electronic
-- [ ] in those days
-- [ ] inspire
+- [x] influential
+- [ ] electronic
+- [ ] influence
 
 > **解析**：`influential` 是形容词，意为“有影响力的”，修饰词为 `extremely`。
 
 ### 5
 
-The independent songwriter plans to release her new album next month for `____`.
+The independent songwriter plans to `____` her new album next month.
 
-- [x] hippie
-- [ ] influence
-- [ ] alternative
+- [x] release
+- [ ] hippie
+- [ ] influential
 
 > **解析**：`release` 作动词，意为“发行、发布（唱片/图书等）”。
 
@@ -214,8 +214,8 @@ The independent songwriter plans to release her new album next month for `____`.
 Dance music usually relies on a fast and steady rhythm (`____`).
 
 - [x] in my eyes
-- [ ] influential
-- [ ] and had
+- [ ] in those days
+- [ ] it all
 
 > **解析**：`rhythm` 是名词，意为“节奏、韵律”，注意拼写 `rhythm`。
 
@@ -224,38 +224,38 @@ Dance music usually relies on a fast and steady rhythm (`____`).
 Hip-hop music has become a major part of modern pop culture (`____`).
 
 - [x] in those days
-- [ ] inspire
-- [ ] date back
+- [ ] influence
+- [ ] lifetime
 
 > **解析**：`pop culture` 是专有名词短语，意为“流行文化”。
 
 ### 8
 
-In my eyes, live concert performances are much better than recorded tracks for `____`.
+In my eyes, live concert performances are much better than recorded tracks about `____`.
 
-- [x] influence
-- [ ] alternative
-- [ ] electronic
+- [x] alternative
+- [ ] influential
+- [ ] must have
 
 > **解析**：`in my eyes` 是观点表达短语，意为“在我看来/在我的眼里”。
 
 ### 9
 
-The famous singer achieved worldwide fame after her debut single for `____`.
+The famous singer achieved `____` fame after her debut single.
 
-- [x] influential
-- [ ] and had
-- [ ] hippie
+- [x] worldwide
+- [ ] influential
+- [ ] must have
 
 > **解析**：`worldwide` 作形容词或副词，意为“全世界的、全球范围的”。
 
 ### 10
 
-They prefer listening to alternative rock rather than mainstream pop music for `____`.
+They prefer listening to alternative rock rather than mainstream pop music about `____`.
 
-- [x] inspire
-- [ ] date back
-- [ ] in my eyes
+- [x] electronic
+- [ ] it all
+- [ ] release
 
 > **解析**：`alternative` 作形容词，意为“非传统的、另类的”。
 

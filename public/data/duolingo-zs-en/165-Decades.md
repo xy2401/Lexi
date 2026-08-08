@@ -66,35 +66,35 @@ the + 年代（the eighties = 80年代）。could / couldn't 表过去能力。
    > **解析**：1802 为年份表达，读作 eighteen hundred and two 或 eighteen oh two。
 
 2. **中文**：我奶奶于 20 世纪 30 年代出生在一个沿海小村庄。  
-   **英文**：My grandmother was born in a small coastal village in the nineteen thirties for 1992.
+   **英文**：My grandmother was born in a small coastal village in the nineteen thirties.
    > **解析**：born 为动词 bear 的过去分词，常与 be 动词连用构成 be born（出生于……）。
 
 3. **中文**：迪斯科音乐和色彩斑斓的复古服装在 80 年代非常流行。  
-   **英文**：Disco music and colorful retro clothes were very popular in the eighties for 2016.
+   **英文**：Disco music and colorful retro clothes were very popular in the eighties.
    > **解析**：eighties 指“八十年代”（the 1980s），前面需加定冠词 the（in the eighties）。
 
 4. **中文**：每一代人都有其独特的文化身份和时代记忆。  
-   **英文**：Each generation has its own unique cultural identity and memories for 2017.
+   **英文**：Each generation has its own unique cultural identity and memories.
    > **解析**：generation 为可数名词，意为“一代人、世代”。Each generation 后接单数动词 has。
 
 5. **中文**：互联网在 20 世纪 90 年代开始迅速改变人们的日常生活。  
-   **英文**：The internet began to change daily life rapidly in the nineteen nineties for born.
+   **英文**：The internet began to change daily life rapidly in the nineteen nineties.
    > **解析**：nineteen nineties 指“九十年代”（the 1990s），用于表示特定年代背景。
 
 6. **中文**：在过去三十年里，该城市的人口显着增长。  
-   **英文**：The city's population grew significantly over the past three decades for could.
+   **英文**：The city's population grew significantly over the past three decades.
    > **解析**：population 为集合名词，意为“人口”。常与动词 grow, increase 搭配。
 
 7. **中文**：伟大的科学突破发生在 20 世纪。  
-   **英文**：Great scientific breakthroughs occurred during the twentieth century (couldn't).
+   **英文**：Great scientific breakthroughs occurred during the twentieth century.
    > **解析**：twentieth 为序数词，意为“第二十的”。the twentieth century 指“20 世纪”。
 
 8. **中文**：我父母早在 1992 年夏天在大学里第一次相遇。  
-   **英文**：My parents first met at university back in the summer of 1992 for discovery.
+   **英文**：My parents first met at university back in the summer of 1992.
    > **解析**：1992 为年份数字，英文读作 nineteen ninety-two。
 
 9. **中文**：在那个年代，人们只能通过写纸质信件来沟通。  
-   **英文**：In those days, people could only communicate by writing paper letters for eighties.
+   **英文**：In those days, people could only communicate by writing paper letters.
    > **解析**：could 为情态动词 can 的过去式，表示过去拥有的能力或许可（could only communicate）。
 
 10. **中文**：当年在高中你可以选择学习法语或德语中的任何一种。  
@@ -108,28 +108,28 @@ the + 年代（the eighties = 80年代）。could / couldn't 表过去能力。
 1. The historic town library was originally constructed in the year 1802.
    > **中文**：这座历史悠久的镇图书馆最初建于 1802 年。
 
-2. My grandmother was born in a small coastal village in the nineteen thirties for 1992.
+2. My grandmother was born in a small coastal village in the nineteen thirties.
    > **中文**：我奶奶于 20 世纪 30 年代出生在一个沿海小村庄。
 
-3. Disco music and colorful retro clothes were very popular in the eighties for 2016.
+3. Disco music and colorful retro clothes were very popular in the eighties.
    > **中文**：迪斯科音乐和色彩斑斓的复古服装在 80 年代非常流行。
 
-4. Each generation has its own unique cultural identity and memories for 2017.
+4. Each generation has its own unique cultural identity and memories.
    > **中文**：每一代人都有其独特的文化身份和时代记忆。
 
-5. The internet began to change daily life rapidly in the nineteen nineties for born.
+5. The internet began to change daily life rapidly in the nineteen nineties.
    > **中文**：互联网在 20 世纪 90 年代开始迅速改变人们的日常生活。
 
-6. The city's population grew significantly over the past three decades for could.
+6. The city's population grew significantly over the past three decades.
    > **中文**：在过去三十年里，该城市的人口显着增长。
 
-7. Great scientific breakthroughs occurred during the twentieth century (couldn't).
+7. Great scientific breakthroughs occurred during the twentieth century.
    > **中文**：伟大的科学突破发生在 20 世纪。
 
-8. My parents first met at university back in the summer of 1992 for discovery.
+8. My parents first met at university back in the summer of 1992.
    > **中文**：我父母早在 1992 年夏天在大学里第一次相遇。
 
-9. In those days, people could only communicate by writing paper letters for eighties.
+9. In those days, people could only communicate by writing paper letters.
    > **中文**：在那个年代，人们只能通过写纸质信件来沟通。
 
 10. You could choose to study either French or German back in high school.
@@ -148,88 +148,88 @@ the + 年代（the eighties = 80年代）。could / couldn't 表过去能力。
 The historic town library was originally constructed in the year `____`.
 
 - [x] 1802
-- [ ] 2017
-- [ ] couldn't
+- [ ] 1992
+- [ ] could
 
 > **解析**：1802 为年份表达，读作 eighteen hundred and two 或 eighteen oh two。
 
 ### 2
 
-My grandmother was born in a small coastal village in the nineteen thirties for `____`.
+My grandmother was `____` in a small coastal village in the nineteen thirties.
 
-- [x] 1992
-- [ ] born
-- [ ] discovery
+- [x] born
+- [ ] 1992
+- [ ] couldn't
 
 > **解析**：born 为动词 bear 的过去分词，常与 be 动词连用构成 be born（出生于……）。
 
 ### 3
 
-Disco music and colorful retro clothes were very popular in the eighties for `____`.
+Disco music and colorful retro clothes were very popular in the `____`.
 
-- [x] 2016
-- [ ] could
-- [ ] eighties
+- [x] eighties
+- [ ] 2016
+- [ ] couldn't
 
 > **解析**：eighties 指“八十年代”（the 1980s），前面需加定冠词 the（in the eighties）。
 
 ### 4
 
-Each generation has its own unique cultural identity and memories for `____`.
+Each `____` has its own unique cultural identity and memories.
 
-- [x] 2017
-- [ ] couldn't
-- [ ] either
+- [x] generation
+- [ ] 2017
+- [ ] discovery
 
 > **解析**：generation 为可数名词，意为“一代人、世代”。Each generation 后接单数动词 has。
 
 ### 5
 
-The internet began to change daily life rapidly in the nineteen nineties for `____`.
+The internet began to change daily life rapidly in the `____`.
 
-- [x] born
-- [ ] discovery
-- [ ] 1802
+- [x] nineteen nineties
+- [ ] born
+- [ ] eighties
 
 > **解析**：nineteen nineties 指“九十年代”（the 1990s），用于表示特定年代背景。
 
 ### 6
 
-The city's population grew significantly over the past three decades for `____`.
+The city's `____` grew significantly over the past three decades.
 
-- [x] could
-- [ ] eighties
-- [ ] 1992
+- [x] population
+- [ ] could
+- [ ] either
 
 > **解析**：population 为集合名词，意为“人口”。常与动词 grow, increase 搭配。
 
 ### 7
 
-Great scientific breakthroughs occurred during the twentieth century (`____`).
+Great scientific breakthroughs occurred during the `____` century.
 
-- [x] couldn't
-- [ ] either
-- [ ] 2016
+- [x] twentieth
+- [ ] couldn't
+- [ ] fifties
 
 > **解析**：twentieth 为序数词，意为“第二十的”。the twentieth century 指“20 世纪”。
 
 ### 8
 
-My parents first met at university back in the summer of 1992 for `____`.
+My parents first met at university back in the summer of `____`.
 
-- [x] discovery
-- [ ] 1802
-- [ ] 2017
+- [x] 1992
+- [ ] eighties
+- [ ] grown
 
 > **解析**：1992 为年份数字，英文读作 nineteen ninety-two。
 
 ### 9
 
-In those days, people could only communicate by writing paper letters for `____`.
+In those days, people `____` only communicate by writing paper letters.
 
-- [x] eighties
-- [ ] 1992
-- [ ] born
+- [x] could
+- [ ] either
+- [ ] if you ask me
 
 > **解析**：could 为情态动词 can 的过去式，表示过去拥有的能力或许可（could only communicate）。
 
@@ -238,8 +238,8 @@ In those days, people could only communicate by writing paper letters for `____`
 You could choose to study `____` French or German back in high school.
 
 - [x] either
-- [ ] 2016
-- [ ] could
+- [ ] fifties
+- [ ] invention
 
 > **解析**：either 在此处与 or 搭配构成 either A or B 结构，意为“要么A要么B/两者择一”。
 

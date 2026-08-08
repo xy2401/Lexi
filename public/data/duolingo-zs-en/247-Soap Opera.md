@@ -82,11 +82,11 @@ hooked on（上瘾）、rewatch（重看）表达观剧热情。affair（婚外�
 <quiz-sentence-builder>
 
 1. **中文**：这部电视剧的季终集出现了一个震惊观众的戏剧性剧情转折。  
-   **英文**：The finale of the TV show featured a dramatic plot twist that shocked audience for affair.
+   **英文**：The finale of the TV show featured a dramatic plot twist that shocked audience.
    > **解析**：`dramatic` 是形容词，意为“戏剧性的、引人注目的”，修饰 `plot twist`。
 
 2. **中文**：在昨天的剧集中，反派向所有人透露了他的真实身份。  
-   **英文**：In yesterday's episode, the villain revealed his true identity to everyone for anyhow.
+   **英文**：In yesterday's episode, the villain revealed his true identity to everyone.
    > **解析**：`reveal` 作及物动词，意为“揭露、透露”，宾语为 `his true identity`。
 
 3. **中文**：我妈妈完全沉迷于这部新的西班牙肥皂剧。  
@@ -94,23 +94,23 @@ hooked on（上瘾）、rewatch（重看）表达观剧热情。affair（婚外�
    > **解析**：`be hooked on sth` 是口语表达，意为“对……沉迷/上瘾”。
 
 4. **中文**：主角试图欺骗她的丈夫以守护她的秘密。  
-   **英文**：The main character tried to deceive her husband to protect her secret for cast.
+   **英文**：The main character tried to deceive her husband to protect her secret.
    > **解析**：`deceive` 作及物动词，意为“欺骗、误导”，后接宾语 `her husband`。
 
 5. **中文**：每部经典戏剧都需要一个引人入胜的反派角色来推动剧情发展。  
-   **英文**：Every classic drama needs a compelling villain to drive the storyline for cemetery.
+   **英文**：Every classic drama needs a compelling villain to drive the storyline.
    > **解析**：`villain` 是名词，意为“反派角色、坏人”，与 `hero` 相对。
 
 6. **中文**：关于他地下私情的丑闻毁掉了那位政治家的事业。  
-   **英文**：The scandal about his secret affair ruined the politician's career for deceive.
+   **英文**：The scandal about his secret affair ruined the politician's career.
    > **解析**：`affair` 此处指“婚外情、桃色丑闻”，作名词。
 
 7. **中文**：尽管遭遇了所有背叛，保镖依然忠诚于老板。  
-   **英文**：Despite all the betrayal, the bodyguard remained loyal to the boss for dramatic.
+   **英文**：Despite all the betrayal, the bodyguard remained loyal to the boss.
    > **解析**：`loyal` 是形容词，意为“忠诚的”，搭配 `be/remain loyal to sb`。
 
 8. **中文**：表面上看，他们似乎是一对幸福的伴侣，但实际上他们不断争吵。  
-   **英文**：On the surface, they seem like a happy couple, but they argue constantly for greedy.
+   **英文**：On the surface, they seem like a happy couple, but they argue constantly.
    > **解析**：`on the surface` 是介词短语，意为“在表面上、表面看来”，引出对比。
 
 9. **中文**：没人相信那个文静的医生有能力犯下罪行。  
@@ -125,28 +125,28 @@ hooked on（上瘾）、rewatch（重看）表达观剧热情。affair（婚外�
 
 <quiz-listening>
 
-1. The finale of the TV show featured a dramatic plot twist that shocked audience for affair.
+1. The finale of the TV show featured a dramatic plot twist that shocked audience.
    > **中文**：这部电视剧的季终集出现了一个震惊观众的戏剧性剧情转折。
 
-2. In yesterday's episode, the villain revealed his true identity to everyone for anyhow.
+2. In yesterday's episode, the villain revealed his true identity to everyone.
    > **中文**：在昨天的剧集中，反派向所有人透露了他的真实身份。
 
 3. My mother is completely hooked on this new Spanish soap opera (capable of).
    > **中文**：我妈妈完全沉迷于这部新的西班牙肥皂剧。
 
-4. The main character tried to deceive her husband to protect her secret for cast.
+4. The main character tried to deceive her husband to protect her secret.
    > **中文**：主角试图欺骗她的丈夫以守护她的秘密。
 
-5. Every classic drama needs a compelling villain to drive the storyline for cemetery.
+5. Every classic drama needs a compelling villain to drive the storyline.
    > **中文**：每部经典戏剧都需要一个引人入胜的反派角色来推动剧情发展。
 
-6. The scandal about his secret affair ruined the politician's career for deceive.
+6. The scandal about his secret affair ruined the politician's career.
    > **中文**：关于他地下私情的丑闻毁掉了那位政治家的事业。
 
-7. Despite all the betrayal, the bodyguard remained loyal to the boss for dramatic.
+7. Despite all the betrayal, the bodyguard remained loyal to the boss.
    > **中文**：尽管遭遇了所有背叛，保镖依然忠诚于老板。
 
-8. On the surface, they seem like a happy couple, but they argue constantly for greedy.
+8. On the surface, they seem like a happy couple, but they argue constantly.
    > **中文**：表面上看，他们似乎是一对幸福的伴侣，但实际上他们不断争吵。
 
 9. Nobody believed that quiet doctor was capable of committing a crime (hooked on).
@@ -165,21 +165,21 @@ hooked on（上瘾）、rewatch（重看）表达观剧热情。affair（婚外�
 
 ### 1
 
-The finale of the TV show featured a dramatic plot twist that shocked audience for `____`.
+The finale of the TV show featured a `____` plot twist that shocked audience.
 
-- [x] affair
-- [ ] cast
-- [ ] dramatic
+- [x] dramatic
+- [ ] affair
+- [ ] cemetery
 
 > **解析**：`dramatic` 是形容词，意为“戏剧性的、引人注目的”，修饰 `plot twist`。
 
 ### 2
 
-In yesterday's episode, the villain revealed his true identity to everyone for `____`.
+In yesterday's episode, the villain `____`ed his true identity to everyone.
 
-- [x] anyhow
-- [ ] cemetery
-- [ ] greedy
+- [x] reveal
+- [ ] anyhow
+- [ ] deceive
 
 > **解析**：`reveal` 作及物动词，意为“揭露、透露”，宾语为 `his true identity`。
 
@@ -188,58 +188,58 @@ In yesterday's episode, the villain revealed his true identity to everyone for `
 My mother is completely hooked on this new Spanish soap opera (`____`).
 
 - [x] capable of
-- [ ] deceive
-- [ ] hooked on
+- [ ] cast
+- [ ] greedy
 
 > **解析**：`be hooked on sth` 是口语表达，意为“对……沉迷/上瘾”。
 
 ### 4
 
-The main character tried to deceive her husband to protect her secret for `____`.
+The main character tried to `____` her husband to protect her secret.
 
-- [x] cast
-- [ ] dramatic
-- [ ] kind of like
+- [x] deceive
+- [ ] cast
+- [ ] hooked on
 
 > **解析**：`deceive` 作及物动词，意为“欺骗、误导”，后接宾语 `her husband`。
 
 ### 5
 
-Every classic drama needs a compelling villain to drive the storyline for `____`.
+Every classic drama needs a compelling `____` to drive the storyline.
 
-- [x] cemetery
-- [ ] greedy
-- [ ] affair
+- [x] villain
+- [ ] cemetery
+- [ ] hooked on
 
 > **解析**：`villain` 是名词，意为“反派角色、坏人”，与 `hero` 相对。
 
 ### 6
 
-The scandal about his secret affair ruined the politician's career for `____`.
+The scandal about his secret `____` ruined the politician's career.
 
-- [x] deceive
-- [ ] hooked on
-- [ ] anyhow
+- [x] affair
+- [ ] dramatic
+- [ ] loyal
 
 > **解析**：`affair` 此处指“婚外情、桃色丑闻”，作名词。
 
 ### 7
 
-Despite all the betrayal, the bodyguard remained loyal to the boss for `____`.
+Despite all the betrayal, the bodyguard remained `____` to the boss.
 
-- [x] dramatic
-- [ ] kind of like
-- [ ] capable of
+- [x] loyal
+- [ ] dramatic
+- [ ] on the surface
 
 > **解析**：`loyal` 是形容词，意为“忠诚的”，搭配 `be/remain loyal to sb`。
 
 ### 8
 
-On the surface, they seem like a happy couple, but they argue constantly for `____`.
+`____`, they seem like a happy couple, but they argue constantly.
 
-- [x] greedy
-- [ ] affair
-- [ ] cast
+- [x] on the surface
+- [ ] greedy
+- [ ] orphan
 
 > **解析**：`on the surface` 是介词短语，意为“在表面上、表面看来”，引出对比。
 
@@ -248,8 +248,8 @@ On the surface, they seem like a happy couple, but they argue constantly for `__
 Nobody believed that quiet doctor was capable of committing a crime (`____`).
 
 - [x] hooked on
-- [ ] anyhow
-- [ ] cemetery
+- [ ] kind of like
+- [ ] poison
 
 > **解析**：`be capable of doing sth` 是固定短语，意为“有能力做某事/干出某事”。
 
@@ -258,8 +258,8 @@ Nobody believed that quiet doctor was capable of committing a crime (`____`).
 The blackmailer threatened to release the confidential photos online (`____`).
 
 - [x] kind of like
-- [ ] capable of
-- [ ] deceive
+- [ ] loyal
+- [ ] reaction
 
 > **解析**：`threaten` 作动词，意为“威胁、恐吓”，搭配 `threaten to do sth`。
 

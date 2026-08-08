@@ -80,23 +80,23 @@ too much to ask（要求太过分）、inconvenient（不方便）、trouble（�
 <quiz-sentence-builder>
 
 1. **中文**：我出差期间，您是否愿意考虑照顾一下我的猫？  
-   **英文**：Would you consider taking care of my cat while I am out of town? for alternatively.
+   **英文**：Would you consider taking care of my cat while I am out of town.
    > **解析**：`Would you consider doing sth` 是极其礼貌委婉的提议/请求句型。
 
 2. **中文**：我的邻居主动提出这周末帮我浇花园。  
-   **英文**：My neighbor offered to help out with watering my garden this weekend for ever.
+   **英文**：My neighbor offered to help out with watering my garden this weekend.
    > **解析**：`help out` 是短语动词，意为“帮忙、分担难题”。
 
 3. **中文**：如果您需要任何协助，请毫不犹豫地给我打电话。  
-   **英文**：Please do not hesitate to call me if you need any assistance for favor.
+   **英文**：Please do not hesitate to call me if you need any assistance.
    > **解析**：`hesitate` 作不及物动词，固定搭配 `do not hesitate to do sth`。
 
 4. **中文**：下次你需要帮忙搬家时，我一定会还你这个人情。  
-   **英文**：I will definitely return the favor next time you need help with moving for figure.
+   **英文**：I will definitely return the favor next time you need help with moving.
    > **解析**：`return the favor` 是固定短语，意为“报答恩情、还人情”。
 
 5. **中文**：我们非常希望你能来参加晚宴，但如果你忙的话也没关系，不要有压力。  
-   **英文**：We would love to have you at the dinner party, but no pressure if you're busy for gardening.
+   **英文**：We would love to have you at the dinner party, but no pressure if you're busy.
    > **解析**：`no pressure` 是口语贴心表达，意为“没有压力、不必勉强”。
 
 6. **中文**：如果明天早上开会不方便的话，请告诉我。  
@@ -104,15 +104,15 @@ too much to ask（要求太过分）、inconvenient（不方便）、trouble（�
    > **解析**：`inconvenient` 是形容词，意为“不方便的、麻烦的”，作表语。
 
 7. **中文**：我明天请你吃午饭，以弥补我今天迟到的过失。  
-   **英文**：I will buy you lunch tomorrow to make up for my late arrival today for hesitate.
+   **英文**：I will buy you lunch tomorrow to make up for my late arrival today.
    > **解析**：`make up for sth` 是固定短语动词，意为“弥补、补偿”。
 
 8. **中文**：我想知道您是否能把梯子借给我用几个小时。  
-   **英文**：I was wondering if you could lend me your ladder for a few hours for inconvenient.
+   **英文**：I was wondering if you could lend me your ladder for a few hours.
    > **解析**：`I was wondering if...` 是非常地道和有礼貌的请求句型。
 
 9. **中文**：戴维斯先生因公出差在外地，直到下周四才回来。  
-   **英文**：Mr. Davis will be out of town on business until next Thursday (make up for).
+   **英文**：Mr. Davis will be out of town on business until next Thursday (make up for) about alternatively.
    > **解析**：`out of town` 是介词短语，意为“在出差/不在城里”。
 
 10. **中文**：有没有可能把我们的预约改期到周三下午？  
@@ -123,31 +123,31 @@ too much to ask（要求太过分）、inconvenient（不方便）、trouble（�
 
 <quiz-listening>
 
-1. Would you consider taking care of my cat while I am out of town? for alternatively.
+1. Would you consider taking care of my cat while I am out of town.
    > **中文**：我出差期间，您是否愿意考虑照顾一下我的猫？
 
-2. My neighbor offered to help out with watering my garden this weekend for ever.
+2. My neighbor offered to help out with watering my garden this weekend.
    > **中文**：我的邻居主动提出这周末帮我浇花园。
 
-3. Please do not hesitate to call me if you need any assistance for favor.
+3. Please do not hesitate to call me if you need any assistance.
    > **中文**：如果您需要任何协助，请毫不犹豫地给我打电话。
 
-4. I will definitely return the favor next time you need help with moving for figure.
+4. I will definitely return the favor next time you need help with moving.
    > **中文**：下次你需要帮忙搬家时，我一定会还你这个人情。
 
-5. We would love to have you at the dinner party, but no pressure if you're busy for gardening.
+5. We would love to have you at the dinner party, but no pressure if you're busy.
    > **中文**：我们非常希望你能来参加晚宴，但如果你忙的话也没关系，不要有压力。
 
 6. Let me know if tomorrow morning is inconvenient for our meeting (help out).
    > **中文**：如果明天早上开会不方便的话，请告诉我。
 
-7. I will buy you lunch tomorrow to make up for my late arrival today for hesitate.
+7. I will buy you lunch tomorrow to make up for my late arrival today.
    > **中文**：我明天请你吃午饭，以弥补我今天迟到的过失。
 
-8. I was wondering if you could lend me your ladder for a few hours for inconvenient.
+8. I was wondering if you could lend me your ladder for a few hours.
    > **中文**：我想知道您是否能把梯子借给我用几个小时。
 
-9. Mr. Davis will be out of town on business until next Thursday (make up for).
+9. Mr. Davis will be out of town on business until next Thursday (make up for) about alternatively.
    > **中文**：戴维斯先生因公出差在外地，直到下周四才回来。
 
 10. Is it possible to rearrange our appointment to Wednesday afternoon? (might you).
@@ -163,91 +163,91 @@ too much to ask（要求太过分）、inconvenient（不方便）、trouble（�
 
 ### 1
 
-Would you consider taking care of my cat while I am out of town? for `____`.
+Would you consider taking care of my cat while I am `____`.
 
-- [x] alternatively
-- [ ] figure
-- [ ] hesitate
+- [x] out of town
+- [ ] alternatively
+- [ ] gardening
 
 > **解析**：`Would you consider doing sth` 是极其礼貌委婉的提议/请求句型。
 
 ### 2
 
-My neighbor offered to help out with watering my garden this weekend for `____`.
+My neighbor offered to `____` with watering my garden this weekend.
 
-- [x] ever
-- [ ] gardening
-- [ ] inconvenient
+- [x] help out
+- [ ] ever
+- [ ] hesitate
 
 > **解析**：`help out` 是短语动词，意为“帮忙、分担难题”。
 
 ### 3
 
-Please do not hesitate to call me if you need any assistance for `____`.
+Please do not `____` to call me if you need any assistance.
 
-- [x] favor
-- [ ] help out
-- [ ] make up for
+- [x] hesitate
+- [ ] favor
+- [ ] inconvenient
 
 > **解析**：`hesitate` 作不及物动词，固定搭配 `do not hesitate to do sth`。
 
 ### 4
 
-I will definitely return the favor next time you need help with moving for `____`.
+I will definitely return the `____` next time you need help with moving.
 
-- [x] figure
-- [ ] hesitate
-- [ ] might you
+- [x] favor
+- [ ] gardening
+- [ ] make up for
 
 > **解析**：`return the favor` 是固定短语，意为“报答恩情、还人情”。
 
 ### 5
 
-We would love to have you at the dinner party, but no pressure if you're busy for `____`.
+We would love to have you at the dinner party, but `____` if you're busy.
 
-- [x] gardening
-- [ ] inconvenient
-- [ ] alternatively
+- [x] no pressure
+- [ ] gardening
+- [ ] make up for
 
 > **解析**：`no pressure` 是口语贴心表达，意为“没有压力、不必勉强”。
 
 ### 6
 
-Let me know if tomorrow morning is inconvenient for our meeting (`____`).
+Let me know if tomorrow morning is `____` for our meeting (help out).
 
-- [x] help out
-- [ ] make up for
-- [ ] ever
+- [x] inconvenient
+- [ ] help out
+- [ ] no pressure
 
 > **解析**：`inconvenient` 是形容词，意为“不方便的、麻烦的”，作表语。
 
 ### 7
 
-I will buy you lunch tomorrow to make up for my late arrival today for `____`.
+I will buy you lunch tomorrow to `____` my late arrival today.
 
-- [x] hesitate
-- [ ] might you
-- [ ] favor
+- [x] make up for
+- [ ] hesitate
+- [ ] of me
 
 > **解析**：`make up for sth` 是固定短语动词，意为“弥补、补偿”。
 
 ### 8
 
-I was wondering if you could lend me your ladder for a few hours for `____`.
+I was `____` if you could lend me your ladder for a few hours.
 
-- [x] inconvenient
-- [ ] alternatively
-- [ ] figure
+- [x] wondering
+- [ ] inconvenient
+- [ ] of me
 
 > **解析**：`I was wondering if...` 是非常地道和有礼貌的请求句型。
 
 ### 9
 
-Mr. Davis will be out of town on business until next Thursday (`____`).
+Mr. Davis will be out of town on business until next Thursday (make up for) about `____`.
 
-- [x] make up for
-- [ ] ever
-- [ ] gardening
+- [x] alternatively
+- [ ] might you
+- [ ] persuade
 
 > **解析**：`out of town` 是介词短语，意为“在出差/不在城里”。
 
@@ -256,8 +256,8 @@ Mr. Davis will be out of town on business until next Thursday (`____`).
 Is it possible to rearrange our appointment to Wednesday afternoon? (`____`).
 
 - [x] might you
-- [ ] favor
-- [ ] help out
+- [ ] no pressure
+- [ ] really
 
 > **解析**：`rearrange` 作动词，意为“重新安排、改期”，宾语为 `appointment`。
 

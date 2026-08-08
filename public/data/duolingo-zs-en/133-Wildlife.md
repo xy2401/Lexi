@@ -62,31 +62,31 @@ ridden 是 ride 的过去分词。the environment 表示"环境"。
 <quiz-sentence-builder>
 
 1. **中文**：茂密的植被和高湿度使得在丛林中穿行十分困难。  
-   **英文**：Dense vegetation and high humidity make navigating through the jungle difficult for ahead.
+   **英文**：Dense vegetation and high humidity make navigating through the jungle difficult.
    > **解析**：jungle 为名词，意为“热带丛林”。navigate through 指“在...中穿行/导航”。
 
 2. **中文**：热带雨林天气在夏季月份极其炎热潮湿。  
-   **英文**：The tropical rainforest weather is extremely hot and humid during the summer months for beside.
+   **英文**：The tropical rainforest weather is extremely hot and humid during the summer months about ahead.
    > **解析**：humid 为形容词，意为“潮湿的、湿热的”。用于描述天气或气候（humid air/weather）。名词形式为 humidity。
 
 3. **中文**：长颈鹿用它长长的脖子去够树顶上的树叶。  
-   **英文**：The giraffe used its long neck to reach leaves at the very top of the tree for bright.
+   **英文**：The giraffe used its long neck to reach leaves at the very top of the tree.
    > **解析**：giraffe 为名词，意为“长颈鹿”。reach leaves 表示“够到树叶”。
 
 4. **中文**：一只野老虎在高达的草丛中静静移动以寻找猎物。  
-   **英文**：A wild tiger moved silently through the tall grass in search of prey for dirt.
+   **英文**：A wild tiger moved silently through the tall grass in search of prey.
    > **解析**：tiger 为名词，意为“老虎”。in search of 意为“寻找”。silently 为副词修饰 moved。
 
 5. **中文**：那只色彩斑斓的鹦鹉栖息在树枝上，大声地模仿人类说话。  
-   **英文**：The colorful parrot perched on a branch and imitated human speech loudly for dolphin.
+   **英文**：The colorful parrot perched on a branch and imitated human speech loudly.
    > **解析**：parrot 为名词，意为“鹦鹉”。perch on 表示“栖息于”。imitate human speech 意为“模仿人类说话”。
 
 6. **中文**：盲目砍伐树木会破坏自然栖息地并损害环境。  
-   **英文**：Cutting down trees blindly destroys the natural habitat and harms the environment for earth.
+   **英文**：Cutting down trees blindly destroys the natural habitat and harms the environment.
    > **解析**：the environment 为名词短语，特指“自然环境”。通常前面带定冠词 the。harm the environment 意为“损害环境”。
 
 7. **中文**：野生动物摄影师静静地坐在灌木丛后，以免惊吓到鸟类。  
-   **英文**：The wildlife photographer sat quietly behind the bushes to avoid scaring the birds for giraffe.
+   **英文**：The wildlife photographer sat quietly behind the bushes to avoid scaring the birds.
    > **解析**：quietly 为副词，意为“安静地、悄悄地”。修饰动词 sat。avoid scaring 表示“避免惊吓”。
 
 8. **中文**：吼猴在树冠层大声沟通，以此标示它们的领地。  
@@ -94,45 +94,45 @@ ridden 是 ride 的过去分词。the environment 表示"环境"。
    > **解析**：loudly 为副词，意为“大声地、喧闹地”。修饰动词 communicate。mark territory 意为“标示领地”。
 
 9. **中文**：河岸上盖满了被流水冲刷得光滑的灰色石头。  
-   **英文**：The river bank was covered with smooth gray stones shaped by flowing water for humid.
+   **英文**：The river bank was covered with smooth gray stones shaped by flowing water.
    > **解析**：stone 为名词，意为“石头”。smooth 意为“光滑的”。shaped by 为过去分词短语作后置定语。
 
 10. **中文**：导游劝告徒步旅行者为了安全在黄昏前返回。  
-   **英文**：The tour guide advised the hikers to go back before nightfall for safety for jungle.
+   **英文**：The tour guide advised the hikers to go back before nightfall about beside.
    > **解析**：go back 为动词短语，意为“返回、回去”。advise sb. to do sth. 表示“劝告某人做某事”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Dense vegetation and high humidity make navigating through the jungle difficult for ahead.
+1. Dense vegetation and high humidity make navigating through the jungle difficult.
    > **中文**：茂密的植被和高湿度使得在丛林中穿行十分困难。
 
-2. The tropical rainforest weather is extremely hot and humid during the summer months for beside.
+2. The tropical rainforest weather is extremely hot and humid during the summer months about ahead.
    > **中文**：热带雨林天气在夏季月份极其炎热潮湿。
 
-3. The giraffe used its long neck to reach leaves at the very top of the tree for bright.
+3. The giraffe used its long neck to reach leaves at the very top of the tree.
    > **中文**：长颈鹿用它长长的脖子去够树顶上的树叶。
 
-4. A wild tiger moved silently through the tall grass in search of prey for dirt.
+4. A wild tiger moved silently through the tall grass in search of prey.
    > **中文**：一只野老虎在高达的草丛中静静移动以寻找猎物。
 
-5. The colorful parrot perched on a branch and imitated human speech loudly for dolphin.
+5. The colorful parrot perched on a branch and imitated human speech loudly.
    > **中文**：那只色彩斑斓的鹦鹉栖息在树枝上，大声地模仿人类说话。
 
-6. Cutting down trees blindly destroys the natural habitat and harms the environment for earth.
+6. Cutting down trees blindly destroys the natural habitat and harms the environment.
    > **中文**：盲目砍伐树木会破坏自然栖息地并损害环境。
 
-7. The wildlife photographer sat quietly behind the bushes to avoid scaring the birds for giraffe.
+7. The wildlife photographer sat quietly behind the bushes to avoid scaring the birds.
    > **中文**：野生动物摄影师静静地坐在灌木丛后，以免惊吓到鸟类。
 
 8. Howler monkeys communicate loudly across the canopy to mark their territory (go back).
    > **中文**：吼猴在树冠层大声沟通，以此标示它们的领地。
 
-9. The river bank was covered with smooth gray stones shaped by flowing water for humid.
+9. The river bank was covered with smooth gray stones shaped by flowing water.
    > **中文**：河岸上盖满了被流水冲刷得光滑的灰色石头。
 
-10. The tour guide advised the hikers to go back before nightfall for safety for jungle.
+10. The tour guide advised the hikers to go back before nightfall about beside.
    > **中文**：导游劝告徒步旅行者为了安全在黄昏前返回。
 
 </quiz-listening>
@@ -145,71 +145,71 @@ ridden 是 ride 的过去分词。the environment 表示"环境"。
 
 ### 1
 
-Dense vegetation and high humidity make navigating through the jungle difficult for `____`.
+Dense vegetation and high `____`ity make navigating through the jungle difficult.
 
-- [x] ahead
-- [ ] dirt
-- [ ] giraffe
+- [x] humid
+- [ ] ahead
+- [ ] dolphin
 
 > **解析**：jungle 为名词，意为“热带丛林”。navigate through 指“在...中穿行/导航”。
 
 ### 2
 
-The tropical rainforest weather is extremely hot and humid during the summer months for `____`.
+The tropical rainforest weather is extremely hot and humid during the summer months about `____`.
 
-- [x] beside
-- [ ] dolphin
-- [ ] go back
+- [x] ahead
+- [ ] bright
+- [ ] giraffe
 
 > **解析**：humid 为形容词，意为“潮湿的、湿热的”。用于描述天气或气候（humid air/weather）。名词形式为 humidity。
 
 ### 3
 
-The giraffe used its long neck to reach leaves at the very top of the tree for `____`.
+The `____` used its long neck to reach leaves at the very top of the tree.
 
-- [x] bright
-- [ ] earth
-- [ ] humid
+- [x] giraffe
+- [ ] bright
+- [ ] go back
 
 > **解析**：giraffe 为名词，意为“长颈鹿”。reach leaves 表示“够到树叶”。
 
 ### 4
 
-A wild tiger moved silently through the tall grass in search of prey for `____`.
+A wild `____` moved silently through the tall grass in search of prey.
 
-- [x] dirt
-- [ ] giraffe
-- [ ] jungle
+- [x] tiger
+- [ ] dirt
+- [ ] go back
 
 > **解析**：tiger 为名词，意为“老虎”。in search of 意为“寻找”。silently 为副词修饰 moved。
 
 ### 5
 
-The colorful parrot perched on a branch and imitated human speech loudly for `____`.
+The colorful parrot perched on a branch and imitated human speech `____`.
 
-- [x] dolphin
-- [ ] go back
-- [ ] ahead
+- [x] loudly
+- [ ] dolphin
+- [ ] humid
 
 > **解析**：parrot 为名词，意为“鹦鹉”。perch on 表示“栖息于”。imitate human speech 意为“模仿人类说话”。
 
 ### 6
 
-Cutting down trees blindly destroys the natural habitat and harms the environment for `____`.
+Cutting down trees blindly destroys the natural habitat and harms `____`.
 
-- [x] earth
-- [ ] humid
-- [ ] beside
+- [x] the environment
+- [ ] earth
+- [ ] jungle
 
 > **解析**：the environment 为名词短语，特指“自然环境”。通常前面带定冠词 the。harm the environment 意为“损害环境”。
 
 ### 7
 
-The wildlife photographer sat quietly behind the bushes to avoid scaring the birds for `____`.
+The wildlife photographer sat `____` behind the bushes to avoid scaring the birds.
 
-- [x] giraffe
-- [ ] jungle
-- [ ] bright
+- [x] quietly
+- [ ] giraffe
+- [ ] just
 
 > **解析**：quietly 为副词，意为“安静地、悄悄地”。修饰动词 sat。avoid scaring 表示“避免惊吓”。
 
@@ -218,28 +218,28 @@ The wildlife photographer sat quietly behind the bushes to avoid scaring the bir
 Howler monkeys communicate loudly across the canopy to mark their territory (`____`).
 
 - [x] go back
-- [ ] ahead
-- [ ] dirt
+- [ ] humid
+- [ ] loudly
 
 > **解析**：loudly 为副词，意为“大声地、喧闹地”。修饰动词 communicate。mark territory 意为“标示领地”。
 
 ### 9
 
-The river bank was covered with smooth gray stones shaped by flowing water for `____`.
+The river bank was covered with smooth gray `____`s shaped by flowing water.
 
-- [x] humid
-- [ ] beside
-- [ ] dolphin
+- [x] stone
+- [ ] humid
+- [ ] loudly
 
 > **解析**：stone 为名词，意为“石头”。smooth 意为“光滑的”。shaped by 为过去分词短语作后置定语。
 
 ### 10
 
-The tour guide advised the hikers to go back before nightfall for safety for `____`.
+The tour guide advised the hikers to go back before nightfall about `____`.
 
-- [x] jungle
-- [ ] bright
-- [ ] earth
+- [x] beside
+- [ ] just
+- [ ] penguin
 
 > **解析**：go back 为动词短语，意为“返回、回去”。advise sb. to do sth. 表示“劝告某人做某事”。
 

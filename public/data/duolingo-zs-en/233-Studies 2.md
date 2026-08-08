@@ -70,19 +70,19 @@ correct, do you know what i mean, experiment, faculty, feedback, follow, get thr
    > **解析**：`faculty` 集合名词，意为“（大学的）全体教员；学院/系”。
 
 3. **中文**：在开始新话题之前，让我们温习/复习一下昨天讲座要点。  
-   **英文**：Let's go over the main points of yesterday's lecture before starting the new topic for experiment.
+   **英文**：Let's go over the main points of yesterday's lecture before starting the new topic.
    > **解析**：`go over` 固定及物短语，意为“复习；仔细检查”。
 
 4. **中文**：我借了她详尽的学习笔记来备考即将到来的期末考试。  
-   **英文**：I borrowed her comprehensive study notes to prepare for the upcoming final exam for faculty.
+   **英文**：I borrowed her comprehensive study notes to prepare for the upcoming final exam.
    > **解析**：`notes` 复数名词，意为“笔记；记录”。搭配 `take notes`（做笔记）。
 
 5. **中文**：完成硕士学位后，他完全有资格教授高等物理。  
-   **英文**：After completing his master's degree, he was fully qualified to teach advanced physics for feedback.
+   **英文**：After completing his master's degree, he was fully qualified to teach advanced physics.
    > **解析**：`qualified` 形容词，意为“有资格的；合格的”。搭配 `be qualified to do sth.`。
 
 6. **中文**：作为一名大四学生，她目前正忙着写她的毕业设计。  
-   **英文**：As a senior student, she is currently busy writing her graduation project for follow.
+   **英文**：As a senior student, she is currently busy writing her graduation project.
    > **解析**：`senior` 在美国大学/高中里指“大四学生/高三学生”（四年级学生）。
 
 7. **中文**：他花了八个月时间为他的博士论文进行田野调查。  
@@ -90,7 +90,7 @@ correct, do you know what i mean, experiment, faculty, feedback, follow, get thr
    > **解析**：`thesis` 可数名词，意为“毕业论文；学位论文”，复数形式为 `theses`。
 
 8. **中文**：学术写作需要严密的逻辑而不是情绪化的语言，你明白我的意思吗？  
-   **英文**：Academic writing requires rigorous logic rather than emotional language, do you know what i mean? (go over).
+   **英文**：Academic writing requires rigorous logic rather than emotional language, do you know what i mean? (go over) about experiment.
    > **解析**：`do you know what I mean?` 为常用口语询问短语，用于确认对方是否理解自己的阐述。
 
 9. **中文**：你能放慢一点速度，以便大家能跟上你的讲解吗？  
@@ -98,7 +98,7 @@ correct, do you know what i mean, experiment, faculty, feedback, follow, get thr
    > **解析**：`follow` 及物动词，在此处意为“听懂；跟上（思绪、讲解）”。
 
 10. **中文**：实验未能产生显著结果；换句话说，我们的假设是不正确的。  
-   **英文**：The experiment failed to produce significant results; in other words, our hypothesis was incorrect for it.
+   **英文**：The experiment failed to produce significant results; in other words, our hypothesis was incorrect.
    > **解析**：`in other words` 插入语短语，意为“换句话说”，用于重新表述或总结前文。
 
 </quiz-sentence-builder>
@@ -111,28 +111,28 @@ correct, do you know what i mean, experiment, faculty, feedback, follow, get thr
 2. She joined the academic faculty as an assistant professor of philosophy (do you know what i mean).
    > **中文**：她作为哲学助理教授加入了学术教职人员队伍。
 
-3. Let's go over the main points of yesterday's lecture before starting the new topic for experiment.
+3. Let's go over the main points of yesterday's lecture before starting the new topic.
    > **中文**：在开始新话题之前，让我们温习/复习一下昨天讲座要点。
 
-4. I borrowed her comprehensive study notes to prepare for the upcoming final exam for faculty.
+4. I borrowed her comprehensive study notes to prepare for the upcoming final exam.
    > **中文**：我借了她详尽的学习笔记来备考即将到来的期末考试。
 
-5. After completing his master's degree, he was fully qualified to teach advanced physics for feedback.
+5. After completing his master's degree, he was fully qualified to teach advanced physics.
    > **中文**：完成硕士学位后，他完全有资格教授高等物理。
 
-6. As a senior student, she is currently busy writing her graduation project for follow.
+6. As a senior student, she is currently busy writing her graduation project.
    > **中文**：作为一名大四学生，她目前正忙着写她的毕业设计。
 
 7. He spent eight months conducting field research for his doctoral thesis (get through).
    > **中文**：他花了八个月时间为他的博士论文进行田野调查。
 
-8. Academic writing requires rigorous logic rather than emotional language, do you know what i mean? (go over).
+8. Academic writing requires rigorous logic rather than emotional language, do you know what i mean? (go over) about experiment.
    > **中文**：学术写作需要严密的逻辑而不是情绪化的语言，你明白我的意思吗？
 
 9. Could you slow down a little bit so that everyone can follow your explanation? (in other words).
    > **中文**：你能放慢一点速度，以便大家能跟上你的讲解吗？
 
-10. The experiment failed to produce significant results; in other words, our hypothesis was incorrect for it.
+10. The experiment failed to produce significant results; in other words, our hypothesis was incorrect.
    > **中文**：实验未能产生显著结果；换句话说，我们的假设是不正确的。
 
 </quiz-listening>
@@ -148,8 +148,8 @@ correct, do you know what i mean, experiment, faculty, feedback, follow, get thr
 Please verify that all the statistical data in your research paper is `____`.
 
 - [x] correct
-- [ ] faculty
-- [ ] get through
+- [ ] do you know what i mean
+- [ ] follow
 
 > **解析**：`correct` 形容词，意为“正确的；无误的”。
 
@@ -158,48 +158,48 @@ Please verify that all the statistical data in your research paper is `____`.
 She joined the academic faculty as an assistant professor of philosophy (`____`).
 
 - [x] do you know what i mean
-- [ ] feedback
-- [ ] go over
+- [ ] experiment
+- [ ] get through
 
 > **解析**：`faculty` 集合名词，意为“（大学的）全体教员；学院/系”。
 
 ### 3
 
-Let's go over the main points of yesterday's lecture before starting the new topic for `____`.
+Let's `____` the main points of yesterday's lecture before starting the new topic.
 
-- [x] experiment
-- [ ] follow
-- [ ] in other words
+- [x] go over
+- [ ] experiment
+- [ ] get through
 
 > **解析**：`go over` 固定及物短语，意为“复习；仔细检查”。
 
 ### 4
 
-I borrowed her comprehensive study notes to prepare for the upcoming final exam for `____`.
+I borrowed her comprehensive study `____` to prepare for the upcoming final exam.
 
-- [x] faculty
-- [ ] get through
-- [ ] it
+- [x] notes
+- [ ] faculty
+- [ ] go over
 
 > **解析**：`notes` 复数名词，意为“笔记；记录”。搭配 `take notes`（做笔记）。
 
 ### 5
 
-After completing his master's degree, he was fully qualified to teach advanced physics for `____`.
+After completing his master's degree, he was fully `____` to teach advanced physics.
 
-- [x] feedback
-- [ ] go over
-- [ ] correct
+- [x] qualified
+- [ ] feedback
+- [ ] in other words
 
 > **解析**：`qualified` 形容词，意为“有资格的；合格的”。搭配 `be qualified to do sth.`。
 
 ### 6
 
-As a senior student, she is currently busy writing her graduation project for `____`.
+As a senior student, she is currently busy wr`____`ing her graduation project.
 
-- [x] follow
-- [ ] in other words
-- [ ] do you know what i mean
+- [x] it
+- [ ] follow
+- [ ] major
 
 > **解析**：`senior` 在美国大学/高中里指“大四学生/高三学生”（四年级学生）。
 
@@ -208,38 +208,38 @@ As a senior student, she is currently busy writing her graduation project for `_
 He spent eight months conducting field research for his doctoral thesis (`____`).
 
 - [x] get through
-- [ ] it
-- [ ] experiment
+- [ ] go over
+- [ ] notes
 
 > **解析**：`thesis` 可数名词，意为“毕业论文；学位论文”，复数形式为 `theses`。
 
 ### 8
 
-Academic writing requires rigorous logic rather than emotional language, do you know what i mean? (`____`).
+Academic writing requires rigorous logic rather than emotional language, do you know what i mean? (go over) about `____`.
 
-- [x] go over
-- [ ] correct
-- [ ] faculty
+- [x] experiment
+- [ ] in other words
+- [ ] outline
 
 > **解析**：`do you know what I mean?` 为常用口语询问短语，用于确认对方是否理解自己的阐述。
 
 ### 9
 
-Could you slow down a little bit so that everyone can follow your explanation? (`____`).
+Could you slow down a little bit so that everyone can `____` your explanation? (in other words).
 
-- [x] in other words
-- [ ] do you know what i mean
-- [ ] feedback
+- [x] follow
+- [ ] it
+- [ ] philosophy
 
 > **解析**：`follow` 及物动词，在此处意为“听懂；跟上（思绪、讲解）”。
 
 ### 10
 
-The experiment failed to produce significant results; in other words, our hypothesis was incorrect for `____`.
+The experiment failed to produce significant results; `____`, our hypothesis was incorrect.
 
-- [x] it
-- [ ] experiment
-- [ ] follow
+- [x] in other words
+- [ ] major
+- [ ] qualified
 
 > **解析**：`in other words` 插入语短语，意为“换句话说”，用于重新表述或总结前文。
 

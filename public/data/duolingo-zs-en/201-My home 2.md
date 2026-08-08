@@ -56,23 +56,23 @@ would have / would've 是"would + have + 过去分词"的缩写形式，可以�
    > **解析**：air conditioner 可数名词短语，意为“空调设备”。
 
 2. **中文**：如果厨房水龙头在滴水，你应该更换橡胶垫圈。  
-   **英文**：If the kitchen faucet is dripping, you ought to replace the rubber washer for bucket.
+   **英文**：If the kitchen faucet is dripping, you ought to replace the rubber washer.
    > **解析**：faucet 可数名词，意为“水龙头”（美式），英式为 tap。
 
 3. **中文**：我们需要在走廊灯上安装一颗新 LED 电灯泡。  
-   **英文**：We need to install a new LED light bulb in the hallway lamp for cupboard.
+   **英文**：We need to install a new LED light bulb in the hallway lamp.
    > **解析**：light bulb 可数名词短语，意为“电灯泡”。
 
 4. **中文**：把干净的陶瓷碗碟收进厨房的上碗柜里。  
-   **英文**：Put the clean ceramic dishes away in the upper kitchen cupboard for dig.
+   **英文**：Put the clean ceramic dishes away in the upper kitchen cupboard.
    > **解析**：cupboard 可数名词，意为“橱柜；碗柜”，发音为 /ˈkʌbərd/。
 
 5. **中文**：往塑料水桶里倒满温水来拖厨房地板。  
-   **英文**：Fill the plastic bucket with warm water to mop the kitchen floor for electrical.
+   **英文**：Fill the plastic bucket with warm water to mop the kitchen floor.
    > **解析**：bucket 可数名词，意为“水桶；提桶”。
 
 6. **中文**：对于家中严重的电路维修，务必请有资质的专业人士。  
-   **英文**：Always call a certified professional for serious electrical repairs at home for faucet.
+   **英文**：Always call a certified professional for serious electrical repairs at home.
    > **解析**：electrical 形容词，意为“电力的；电气的”，修饰名词 repairs。
 
 7. **中文**：他用坚固的木质相框把全家福挂在墙上。  
@@ -80,15 +80,15 @@ would have / would've 是"would + have + 过去分词"的缩写形式，可以�
    > **解析**：frame 可数名词，意为“框架；相框”。
 
 8. **中文**：水槽下方漏水的水管造成了厨房轻微积水。  
-   **英文**：A leaking water pipe under the sink caused minor flooding in the kitchen for fit.
+   **英文**：A leaking water pipe under the sink caused minor flooding in the kitchen.
    > **解析**：pipe 可数名词，在此指“水管；管道”。
 
 9. **中文**：如果我有合适的工具，我早就会把损坏的书架修好了。  
-   **英文**：I would have repaired the broken shelf earlier if I had the right tools for frame.
+   **英文**：I would have repaired the broken shelf earlier if I had the right tools.
    > **解析**：would have 用于虚拟语气，结构为 would have done，表示与过去事实相反的假想。
 
 10. **中文**：你可以在后院花园里挖一个小坑来栽种花球茎。  
-   **英文**：You can dig a small hole in the backyard garden to plant the flower bulbs for gas.
+   **英文**：You can dig a small hole in the backyard garden to plant the flower bulbs.
    > **解析**：dig 及物/不及物动词，意为“挖；掘”。
 
 </quiz-sentence-builder>
@@ -98,31 +98,31 @@ would have / would've 是"would + have + 过去分词"的缩写形式，可以�
 1. You should turn off the air conditioner before leaving the bedroom.
    > **中文**：离开卧室之前，你应当关掉空调。
 
-2. If the kitchen faucet is dripping, you ought to replace the rubber washer for bucket.
+2. If the kitchen faucet is dripping, you ought to replace the rubber washer.
    > **中文**：如果厨房水龙头在滴水，你应该更换橡胶垫圈。
 
-3. We need to install a new LED light bulb in the hallway lamp for cupboard.
+3. We need to install a new LED light bulb in the hallway lamp.
    > **中文**：我们需要在走廊灯上安装一颗新 LED 电灯泡。
 
-4. Put the clean ceramic dishes away in the upper kitchen cupboard for dig.
+4. Put the clean ceramic dishes away in the upper kitchen cupboard.
    > **中文**：把干净的陶瓷碗碟收进厨房的上碗柜里。
 
-5. Fill the plastic bucket with warm water to mop the kitchen floor for electrical.
+5. Fill the plastic bucket with warm water to mop the kitchen floor.
    > **中文**：往塑料水桶里倒满温水来拖厨房地板。
 
-6. Always call a certified professional for serious electrical repairs at home for faucet.
+6. Always call a certified professional for serious electrical repairs at home.
    > **中文**：对于家中严重的电路维修，务必请有资质的专业人士。
 
 7. He used a sturdy wooden frame to hang the family picture on the wall (feet wide).
    > **中文**：他用坚固的木质相框把全家福挂在墙上。
 
-8. A leaking water pipe under the sink caused minor flooding in the kitchen for fit.
+8. A leaking water pipe under the sink caused minor flooding in the kitchen.
    > **中文**：水槽下方漏水的水管造成了厨房轻微积水。
 
-9. I would have repaired the broken shelf earlier if I had the right tools for frame.
+9. I would have repaired the broken shelf earlier if I had the right tools.
    > **中文**：如果我有合适的工具，我早就会把损坏的书架修好了。
 
-10. You can dig a small hole in the backyard garden to plant the flower bulbs for gas.
+10. You can dig a small hole in the backyard garden to plant the flower bulbs.
    > **中文**：你可以在后院花园里挖一个小坑来栽种花球茎。
 
 </quiz-listening>
@@ -138,58 +138,58 @@ would have / would've 是"would + have + 过去分词"的缩写形式，可以�
 You should turn off the `____` before leaving the bedroom.
 
 - [x] air conditioner
-- [ ] dig
-- [ ] feet wide
+- [ ] bucket
+- [ ] faucet
 
 > **解析**：air conditioner 可数名词短语，意为“空调设备”。
 
 ### 2
 
-If the kitchen faucet is dripping, you ought to replace the rubber washer for `____`.
+If the kitchen `____` is dripping, you ought to replace the rubber washer.
 
-- [x] bucket
-- [ ] electrical
-- [ ] fit
+- [x] faucet
+- [ ] bucket
+- [ ] feet wide
 
 > **解析**：faucet 可数名词，意为“水龙头”（美式），英式为 tap。
 
 ### 3
 
-We need to install a new LED light bulb in the hallway lamp for `____`.
+We need to install a new LED `____` in the hallway lamp.
 
-- [x] cupboard
-- [ ] faucet
-- [ ] frame
+- [x] light bulb
+- [ ] cupboard
+- [ ] feet wide
 
 > **解析**：light bulb 可数名词短语，意为“电灯泡”。
 
 ### 4
 
-Put the clean ceramic dishes away in the upper kitchen cupboard for `____`.
+Put the clean ceramic dishes away in the upper kitchen `____`.
 
-- [x] dig
-- [ ] feet wide
-- [ ] gas
+- [x] cupboard
+- [ ] electrical
+- [ ] frame
 
 > **解析**：cupboard 可数名词，意为“橱柜；碗柜”，发音为 /ˈkʌbərd/。
 
 ### 5
 
-Fill the plastic bucket with warm water to mop the kitchen floor for `____`.
+Fill the plastic `____` with warm water to mop the kitchen floor.
 
-- [x] electrical
-- [ ] fit
-- [ ] air conditioner
+- [x] bucket
+- [ ] faucet
+- [ ] gas
 
 > **解析**：bucket 可数名词，意为“水桶；提桶”。
 
 ### 6
 
-Always call a certified professional for serious electrical repairs at home for `____`.
+Always call a certified professional for serious `____` repairs at home.
 
-- [x] faucet
-- [ ] frame
-- [ ] bucket
+- [x] electrical
+- [ ] feet wide
+- [ ] i would have
 
 > **解析**：electrical 形容词，意为“电力的；电气的”，修饰名词 repairs。
 
@@ -198,38 +198,38 @@ Always call a certified professional for serious electrical repairs at home for 
 He used a sturdy wooden frame to hang the family picture on the wall (`____`).
 
 - [x] feet wide
-- [ ] gas
-- [ ] cupboard
+- [ ] fit
+- [ ] inches wide
 
 > **解析**：frame 可数名词，意为“框架；相框”。
 
 ### 8
 
-A leaking water pipe under the sink caused minor flooding in the kitchen for `____`.
+A leaking water `____` under the sink caused minor flooding in the kitchen.
 
-- [x] fit
-- [ ] air conditioner
-- [ ] dig
+- [x] pipe
+- [ ] fit
+- [ ] inches wide
 
 > **解析**：pipe 可数名词，在此指“水管；管道”。
 
 ### 9
 
-I would have repaired the broken shelf earlier if I had the right tools for `____`.
+`____` repaired the broken shelf earlier if I had the right tools.
 
-- [x] frame
-- [ ] bucket
-- [ ] electrical
+- [x] i would have
+- [ ] frame
+- [ ] long
 
 > **解析**：would have 用于虚拟语气，结构为 would have done，表示与过去事实相反的假想。
 
 ### 10
 
-You can dig a small hole in the backyard garden to plant the flower bulbs for `____`.
+You can `____` a small hole in the backyard garden to plant the flower bulbs.
 
-- [x] gas
-- [ ] cupboard
-- [ ] faucet
+- [x] dig
+- [ ] i would have
+- [ ] metal
 
 > **解析**：dig 及物/不及物动词，意为“挖；掘”。
 

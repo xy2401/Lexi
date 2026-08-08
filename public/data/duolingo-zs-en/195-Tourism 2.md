@@ -54,27 +54,27 @@ been 和 there's been 提示现在完成时的使用。go on, go through, get in
 <quiz-sentence-builder>
 
 1. **中文**：在繁忙的休息室等待时，请照看好你的行李。  
-   **英文**：Please keep an eye on your luggage while waiting in the busy lounge for agency.
+   **英文**：Please keep an eye on your luggage while waiting in the busy lounge.
    > **解析**：keep an eye on 常用动词短语，意为“照看；留意；密切注意”。
 
 2. **中文**：提醒乘客在下车前带齐所有个人物品。  
-   **英文**：Passengers are reminded to take all personal belongings before getting off the bus for atmosphere.
+   **英文**：Passengers are reminded to take all personal belongings before getting off the bus about atmosphere.
    > **解析**：belongings 复数名词，意为“随身物品；财产”，始终用复数。
 
 3. **中文**：我们必须在预定起飞前三十分钟到达登机口。  
-   **英文**：We must reach the boarding gate thirty minutes prior to scheduled departure for been.
+   **英文**：We must reach the boarding gate thirty minutes prior to scheduled departure.
    > **解析**：departure 可数/不可数名词，意为“离开；出发；起飞”，来自动词 depart。
 
 4. **中文**：从山顶上，游客们欣赏到了整个山谷壮观的景色。  
-   **英文**：From the mountain peak, tourists enjoyed a spectacular view of the entire valley for cave.
+   **英文**：From the mountain peak, tourists enjoyed a spectacular view of the entire valley.
    > **解析**：spectacular 形容词，意为“壮观的；引人入胜的”。
 
 5. **中文**：沿海火车之旅因其令人惊叹的自然风光而闻名。  
-   **英文**：The coastal train ride is famous for its stunning natural scenery for crew.
+   **英文**：The coastal train ride is famous for its stunning natural scenery.
    > **解析**：scenery 不可数名词，意为“风景；景色”，注意不可加 -s。
 
 6. **中文**：导游带领我们小组进入了一个古老的石灰岩溶洞。  
-   **英文**：The tour guide led our group into an ancient limestone cave for departure.
+   **英文**：The tour guide led our group into an ancient limestone cave.
    > **解析**：cave 可数名词，意为“山洞；溶洞”。
 
 7. **中文**：这座宁静的海滨度假村有着令人放松且热情的氛围。  
@@ -97,22 +97,22 @@ been 和 there's been 提示现在完成时的使用。go on, go through, get in
 
 <quiz-listening>
 
-1. Please keep an eye on your luggage while waiting in the busy lounge for agency.
+1. Please keep an eye on your luggage while waiting in the busy lounge.
    > **中文**：在繁忙的休息室等待时，请照看好你的行李。
 
-2. Passengers are reminded to take all personal belongings before getting off the bus for atmosphere.
+2. Passengers are reminded to take all personal belongings before getting off the bus about atmosphere.
    > **中文**：提醒乘客在下车前带齐所有个人物品。
 
-3. We must reach the boarding gate thirty minutes prior to scheduled departure for been.
+3. We must reach the boarding gate thirty minutes prior to scheduled departure.
    > **中文**：我们必须在预定起飞前三十分钟到达登机口。
 
-4. From the mountain peak, tourists enjoyed a spectacular view of the entire valley for cave.
+4. From the mountain peak, tourists enjoyed a spectacular view of the entire valley.
    > **中文**：从山顶上，游客们欣赏到了整个山谷壮观的景色。
 
-5. The coastal train ride is famous for its stunning natural scenery for crew.
+5. The coastal train ride is famous for its stunning natural scenery.
    > **中文**：沿海火车之旅因其令人惊叹的自然风光而闻名。
 
-6. The tour guide led our group into an ancient limestone cave for departure.
+6. The tour guide led our group into an ancient limestone cave.
    > **中文**：导游带领我们小组进入了一个古老的石灰岩溶洞。
 
 7. The quiet seaside resort has a relaxing and welcoming atmosphere (get into).
@@ -137,61 +137,61 @@ been 和 there's been 提示现在完成时的使用。go on, go through, get in
 
 ### 1
 
-Please keep an eye on your luggage while waiting in the busy lounge for `____`.
+Please `____` your luggage while waiting in the busy lounge.
 
-- [x] agency
-- [ ] cave
-- [ ] get into
+- [x] keep an eye on
+- [ ] agency
+- [ ] crew
 
 > **解析**：keep an eye on 常用动词短语，意为“照看；留意；密切注意”。
 
 ### 2
 
-Passengers are reminded to take all personal belongings before getting off the bus for `____`.
+Passengers are reminded to take all personal belongings before getting off the bus about `____`.
 
 - [x] atmosphere
-- [ ] crew
-- [ ] go on
+- [ ] been
+- [ ] get into
 
 > **解析**：belongings 复数名词，意为“随身物品；财产”，始终用复数。
 
 ### 3
 
-We must reach the boarding gate thirty minutes prior to scheduled departure for `____`.
+We must reach the boarding gate thirty minutes prior to scheduled `____`.
 
-- [x] been
-- [ ] departure
-- [ ] go through
+- [x] departure
+- [ ] been
+- [ ] go on
 
 > **解析**：departure 可数/不可数名词，意为“离开；出发；起飞”，来自动词 depart。
 
 ### 4
 
-From the mountain peak, tourists enjoyed a spectacular view of the entire valley for `____`.
+From the mountain peak, tourists enjoyed a `____` view of the entire valley.
 
-- [x] cave
-- [ ] get into
-- [ ] golf course
+- [x] spectacular
+- [ ] cave
+- [ ] go on
 
 > **解析**：spectacular 形容词，意为“壮观的；引人入胜的”。
 
 ### 5
 
-The coastal train ride is famous for its stunning natural scenery for `____`.
+The coastal train ride is famous for its stunning natural `____`.
 
-- [x] crew
-- [ ] go on
-- [ ] agency
+- [x] scenery
+- [ ] crew
+- [ ] go through
 
 > **解析**：scenery 不可数名词，意为“风景；景色”，注意不可加 -s。
 
 ### 6
 
-The tour guide led our group into an ancient limestone cave for `____`.
+The tour guide led our group into an ancient limestone `____`.
 
-- [x] departure
-- [ ] go through
-- [ ] atmosphere
+- [x] cave
+- [ ] get into
+- [ ] hot tub
 
 > **解析**：cave 可数名词，意为“山洞；溶洞”。
 
@@ -200,8 +200,8 @@ The tour guide led our group into an ancient limestone cave for `____`.
 The quiet seaside resort has a relaxing and welcoming atmosphere (`____`).
 
 - [x] get into
-- [ ] golf course
-- [ ] been
+- [ ] go on
+- [ ] how far
 
 > **解析**：atmosphere 可数/不可数名词，意为“气氛；氛围；大气层”。
 
@@ -210,8 +210,8 @@ The quiet seaside resort has a relaxing and welcoming atmosphere (`____`).
 Before boarding the boat, every tourist must put on a secure life jacket (`____`).
 
 - [x] go on
-- [ ] agency
-- [ ] cave
+- [ ] go through
+- [ ] in case
 
 > **解析**：life jacket 可数名词短语，意为“救生衣”。
 
@@ -220,18 +220,18 @@ Before boarding the boat, every tourist must put on a secure life jacket (`____`
 Some tourists chose to stay behind at the hotel to rest by the pool (`____`).
 
 - [x] go through
-- [ ] atmosphere
-- [ ] crew
+- [ ] golf course
+- [ ] kangaroo
 
 > **解析**：stay behind 短语动词，意为“留下来；不离开”。
 
 ### 10
 
-The friendly boat crew gave clear safety instructions before we set sail (`____`).
+The friendly boat `____` gave clear safety instructions before we set sail (golf course).
 
-- [x] golf course
-- [ ] been
-- [ ] departure
+- [x] crew
+- [ ] hot tub
+- [ ] keep an eye on
 
 > **解析**：crew 集合名词，意为“全体船员/机组人员”，可作单数或复数。
 

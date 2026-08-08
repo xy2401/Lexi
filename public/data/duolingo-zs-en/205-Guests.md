@@ -54,11 +54,11 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
    > **解析**：poem 可数名词，意为“诗；诗歌”。
 
 2. **中文**：博物馆导游朗诵了一位著名国家诗人创作的诗句。  
-   **英文**：The museum guide recited lines composed by a celebrated national poet for copy.
+   **英文**：The museum guide recited lines composed by a celebrated national poet.
    > **解析**：poet 可数名词，意为“诗人”。
 
 3. **中文**：在戏剧的中场休息期间，博物馆嘉宾在画廊里散步。  
-   **英文**：During the intermission of the play, museum guests walked around the gallery for cover.
+   **英文**：During the intermission of the play, museum guests walked around the gallery.
    > **解析**：intermission 可数名词，意为“中场休息；幕间休息”。
 
 4. **中文**：休息室里供应茶水和饼干等简便茶点。  
@@ -66,7 +66,7 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
    > **解析**：refreshments 常用复数名词，意为“茶点；点心饮料”。
 
 5. **中文**：这幅油画描绘了春天宁静的乡村景象。  
-   **英文**：This oil painting depicts a peaceful countryside scene in spring for intermission.
+   **英文**：This oil painting depicts a peaceful countryside scene in spring.
    > **解析**：scene 可数名词，在此意为“景象；风景；场景”。
 
 6. **中文**：古文本旁边紧挨着展示着一份英文翻译。  
@@ -82,11 +82,11 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
    > **解析**：cover 及物动词，在此意为“覆盖；遮盖”。
 
 9. **中文**：礼品店出售这尊著名古代雕塑的精美复制品。  
-   **英文**：The gift shop sells an exact replica copy of the famous ancient sculpture for poem.
+   **英文**：The gift shop sells an exact replica copy of the famous ancient sculpture.
    > **解析**：copy 可数名词，意为“复制品；副本”。
 
 10. **中文**：这个房间是专门为保存珍贵的历史文献而设计的。  
-   **英文**：This room was specially designed to preserve delicate historical documents for poet.
+   **英文**：This room was specially designed to preserve delicate historical documents.
    > **解析**：specially 副词，意为“专门地；特地”，修饰动词 designed。
 
 </quiz-sentence-builder>
@@ -96,16 +96,16 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
 1. The museum exhibition featured a handwritten poem by a famous author (be friends with).
    > **中文**：博物馆展览展出了一首由著名作者手写的诗歌。
 
-2. The museum guide recited lines composed by a celebrated national poet for copy.
+2. The museum guide recited lines composed by a celebrated national poet.
    > **中文**：博物馆导游朗诵了一位著名国家诗人创作的诗句。
 
-3. During the intermission of the play, museum guests walked around the gallery for cover.
+3. During the intermission of the play, museum guests walked around the gallery.
    > **中文**：在戏剧的中场休息期间，博物馆嘉宾在画廊里散步。
 
 4. Light refreshments such as tea and biscuits were served in the lounge (going to).
    > **中文**：休息室里供应茶水和饼干等简便茶点。
 
-5. This oil painting depicts a peaceful countryside scene in spring for intermission.
+5. This oil painting depicts a peaceful countryside scene in spring.
    > **中文**：这幅油画描绘了春天宁静的乡村景象。
 
 6. An English translation was displayed right next to the ancient text (it's good to).
@@ -117,10 +117,10 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
 8. The glass case was designed to cover and protect the rare artifact (on the).
    > **中文**：玻璃罩旨在覆盖并保护这件珍贵的文物。
 
-9. The gift shop sells an exact replica copy of the famous ancient sculpture for poem.
+9. The gift shop sells an exact replica copy of the famous ancient sculpture.
    > **中文**：礼品店出售这尊著名古代雕塑的精美复制品。
 
-10. This room was specially designed to preserve delicate historical documents for poet.
+10. This room was specially designed to preserve delicate historical documents.
    > **中文**：这个房间是专门为保存珍贵的历史文献而设计的。
 
 </quiz-listening>
@@ -136,28 +136,28 @@ supposed to = 应该、据说（The show is supposed to start at 7.）。going t
 The museum exhibition featured a handwritten poem by a famous author (`____`).
 
 - [x] be friends with
-- [ ] going to
-- [ ] oh my gosh
+- [ ] copy
+- [ ] it's good to
 
 > **解析**：poem 可数名词，意为“诗；诗歌”。
 
 ### 2
 
-The museum guide recited lines composed by a celebrated national poet for `____`.
+The museum guide recited lines composed by a celebrated national `____`.
 
-- [x] copy
-- [ ] intermission
-- [ ] on the
+- [x] poet
+- [ ] copy
+- [ ] it's good to
 
 > **解析**：poet 可数名词，意为“诗人”。
 
 ### 3
 
-During the intermission of the play, museum guests walked around the gallery for `____`.
+During the `____` of the play, museum guests walked around the gallery.
 
-- [x] cover
-- [ ] it's good to
-- [ ] poem
+- [x] intermission
+- [ ] cover
+- [ ] on the
 
 > **解析**：intermission 可数名词，意为“中场休息；幕间休息”。
 
@@ -166,18 +166,18 @@ During the intermission of the play, museum guests walked around the gallery for
 Light refreshments such as tea and biscuits were served in the lounge (`____`).
 
 - [x] going to
-- [ ] oh my gosh
-- [ ] poet
+- [ ] intermission
+- [ ] poem
 
 > **解析**：refreshments 常用复数名词，意为“茶点；点心饮料”。
 
 ### 5
 
-This oil painting depicts a peaceful countryside scene in spring for `____`.
+This oil painting depicts a peaceful countryside `____` in spring.
 
-- [x] intermission
-- [ ] on the
-- [ ] be friends with
+- [x] scene
+- [ ] intermission
+- [ ] poem
 
 > **解析**：scene 可数名词，在此意为“景象；风景；场景”。
 
@@ -186,8 +186,8 @@ This oil painting depicts a peaceful countryside scene in spring for `____`.
 An English translation was displayed right next to the ancient text (`____`).
 
 - [x] it's good to
-- [ ] poem
-- [ ] copy
+- [ ] oh my gosh
+- [ ] refreshments
 
 > **解析**：translation 可数/不可数名词，意为“翻译；译本”，动词为 translate。
 
@@ -196,38 +196,38 @@ An English translation was displayed right next to the ancient text (`____`).
 Visitors are not supposed to touch the historical artifacts on display (`____`).
 
 - [x] oh my gosh
-- [ ] poet
-- [ ] cover
+- [ ] on the
+- [ ] scene
 
 > **解析**：be supposed to 常用短语，在此否定形式 be not supposed to 表示“不应当；被禁止”。
 
 ### 8
 
-The glass case was designed to cover and protect the rare artifact (`____`).
+The glass case was designed to `____` and protect the rare artifact (on the).
 
-- [x] on the
-- [ ] be friends with
-- [ ] going to
+- [x] cover
+- [ ] poem
+- [ ] specially
 
 > **解析**：cover 及物动词，在此意为“覆盖；遮盖”。
 
 ### 9
 
-The gift shop sells an exact replica copy of the famous ancient sculpture for `____`.
+The gift shop sells an exact replica `____` of the famous ancient sculpture.
 
-- [x] poem
-- [ ] copy
-- [ ] intermission
+- [x] copy
+- [ ] poet
+- [ ] supposed to
 
 > **解析**：copy 可数名词，意为“复制品；副本”。
 
 ### 10
 
-This room was specially designed to preserve delicate historical documents for `____`.
+This room was `____` designed to preserve delicate historical documents.
 
-- [x] poet
-- [ ] cover
-- [ ] it's good to
+- [x] specially
+- [ ] poet
+- [ ] translation
 
 > **解析**：specially 副词，意为“专门地；特地”，修饰动词 designed。
 

@@ -52,7 +52,7 @@ alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit,
 <quiz-sentence-builder>
 
 1. **中文**：星期天较轻的早餐我通常点炒鸡蛋和吐司。  
-   **英文**：I usually order scrambled eggs and toast for a light Sunday breakfast for alcoholic.
+   **英文**：I usually order scrambled eggs and toast for a light Sunday breakfast.
    > **解析**：scrambled eggs 名词短语，意为“美式炒蛋”，scrambled 是动词 scramble 的过去分词作定语。
 
 2. **中文**：服务员送上了香脆的培根肉和新鲜的热煎饼。  
@@ -60,19 +60,19 @@ alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit,
    > **解析**：bacon 不可数名词，意为“培根；腌猪肉”，经常作为早餐食品。
 
 3. **中文**：她喜欢吃多汁成熟的桃子作为清爽的夏天零食。  
-   **英文**：She loves eating a juicy ripe peach as a refreshing summer snack for bitter.
+   **英文**：She loves eating a juicy ripe peach as a refreshing summer snack.
    > **解析**：peach 可数名词，意为“桃子”，复数形式为 peaches。
 
 4. **中文**：把新鲜青柠挤在海鲜上以提升其天然风味。  
-   **英文**：Squeeze a fresh lime over the seafood to enhance its natural flavor for choice.
+   **英文**：Squeeze a fresh lime over the seafood to enhance its natural flavor.
    > **解析**：lime 可数/不可数名词，意为“酸橙；青柠”，常用于调味或饮料。
 
 5. **中文**：烘焙这面包你需要两杯小麦面粉。  
-   **英文**：You will need two cups of wheat flour to bake this loaf of bread for diet.
+   **英文**：You will need two cups of wheat flour to bake this loaf of bread.
    > **解析**：flour 不可数名词，意为“面粉”，注意发音与 flower 相同（/flaʊər/）。
 
 6. **中文**：保持包含大量蔬菜的均衡饮食对健康有益。  
-   **英文**：Maintaining a balanced diet with lots of vegetables is good for health for flour.
+   **英文**：Maintaining a balanced diet with lots of vegetables is good.
    > **解析**：diet 名词，意为“日常饮食”，短语 a balanced diet 意为“均衡饮食”。
 
 7. **中文**：服务员用闪利的餐具把餐桌摆得干干净净。  
@@ -80,11 +80,11 @@ alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit,
    > **解析**：silverware 不可数名词，意为“银餐具；餐具”（美式），含刀叉匙等。
 
 8. **中文**：我们累得不想做饭，所以晚餐点了中国外卖。  
-   **英文**：We were too tired to cook, so we ordered Chinese takeout for dinner (he'd).
+   **英文**：We were too tired to cook, so we ordered Chinese takeout.
    > **解析**：takeout 名词/形容词，在此作名词意为“外卖食物”（美式），英式为 takeaway。
 
 9. **中文**：这家餐厅提供丰富的新鲜沙拉和甜点选择。  
-   **英文**：The restaurant offers a wide choice of fresh salads and desserts for lime.
+   **英文**：The restaurant offers a wide choice of fresh salads and desserts.
    > **解析**：choice 名词，意为“选择；挑选”，a wide choice of ... 表示“丰富多样选择的……”。
 
 10. **中文**：这款果汁宾治是不含酒精的，所以孩子们可以随意饮用。  
@@ -95,31 +95,31 @@ alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit,
 
 <quiz-listening>
 
-1. I usually order scrambled eggs and toast for a light Sunday breakfast for alcoholic.
+1. I usually order scrambled eggs and toast for a light Sunday breakfast.
    > **中文**：星期天较轻的早餐我通常点炒鸡蛋和吐司。
 
 2. The waiter served crispy bacon along with fresh hot pancakes.
    > **中文**：服务员送上了香脆的培根肉和新鲜的热煎饼。
 
-3. She loves eating a juicy ripe peach as a refreshing summer snack for bitter.
+3. She loves eating a juicy ripe peach as a refreshing summer snack.
    > **中文**：她喜欢吃多汁成熟的桃子作为清爽的夏天零食。
 
-4. Squeeze a fresh lime over the seafood to enhance its natural flavor for choice.
+4. Squeeze a fresh lime over the seafood to enhance its natural flavor.
    > **中文**：把新鲜青柠挤在海鲜上以提升其天然风味。
 
-5. You will need two cups of wheat flour to bake this loaf of bread for diet.
+5. You will need two cups of wheat flour to bake this loaf of bread.
    > **中文**：烘焙这面包你需要两杯小麦面粉。
 
-6. Maintaining a balanced diet with lots of vegetables is good for health for flour.
+6. Maintaining a balanced diet with lots of vegetables is good.
    > **中文**：保持包含大量蔬菜的均衡饮食对健康有益。
 
 7. The server set the table neatly with shiny cutlery and silverware (he would).
    > **中文**：服务员用闪利的餐具把餐桌摆得干干净净。
 
-8. We were too tired to cook, so we ordered Chinese takeout for dinner (he'd).
+8. We were too tired to cook, so we ordered Chinese takeout.
    > **中文**：我们累得不想做饭，所以晚餐点了中国外卖。
 
-9. The restaurant offers a wide choice of fresh salads and desserts for lime.
+9. The restaurant offers a wide choice of fresh salads and desserts.
    > **中文**：这家餐厅提供丰富的新鲜沙拉和甜点选择。
 
 10. This fruit punch is non-alcoholic, so kids can enjoy it freely (little bit).
@@ -135,11 +135,11 @@ alcoholic, bacon, bitter, choice, diet, flour, he would, he'd, lime, little bit,
 
 ### 1
 
-I usually order scrambled eggs and toast for a light Sunday breakfast for `____`.
+I usually order `____` and toast for a light Sunday breakfast.
 
-- [x] alcoholic
-- [ ] choice
-- [ ] he would
+- [x] scrambled eggs
+- [ ] alcoholic
+- [ ] diet
 
 > **解析**：scrambled eggs 名词短语，意为“美式炒蛋”，scrambled 是动词 scramble 的过去分词作定语。
 
@@ -148,48 +148,48 @@ I usually order scrambled eggs and toast for a light Sunday breakfast for `____`
 The waiter served crispy `____` along with fresh hot pancakes.
 
 - [x] bacon
-- [ ] diet
-- [ ] he'd
+- [ ] bitter
+- [ ] he would
 
 > **解析**：bacon 不可数名词，意为“培根；腌猪肉”，经常作为早餐食品。
 
 ### 3
 
-She loves eating a juicy ripe peach as a refreshing summer snack for `____`.
+She loves eating a juicy ripe `____` as a refreshing summer snack.
 
-- [x] bitter
-- [ ] flour
-- [ ] lime
+- [x] peach
+- [ ] bitter
+- [ ] he would
 
 > **解析**：peach 可数名词，意为“桃子”，复数形式为 peaches。
 
 ### 4
 
-Squeeze a fresh lime over the seafood to enhance its natural flavor for `____`.
+Squeeze a fresh `____` over the seafood to enhance its natural flavor.
 
-- [x] choice
-- [ ] he would
-- [ ] little bit
+- [x] lime
+- [ ] choice
+- [ ] he'd
 
 > **解析**：lime 可数/不可数名词，意为“酸橙；青柠”，常用于调味或饮料。
 
 ### 5
 
-You will need two cups of wheat flour to bake this loaf of bread for `____`.
+You will need two cups of wheat `____` to bake this loaf of bread.
 
-- [x] diet
-- [ ] he'd
-- [ ] alcoholic
+- [x] flour
+- [ ] diet
+- [ ] little bit
 
 > **解析**：flour 不可数名词，意为“面粉”，注意发音与 flower 相同（/flaʊər/）。
 
 ### 6
 
-Maintaining a balanced diet with lots of vegetables is good for health for `____`.
+Maintaining a balanced `____` with lots of vegetables is good.
 
-- [x] flour
-- [ ] lime
-- [ ] bacon
+- [x] diet
+- [ ] he would
+- [ ] peach
 
 > **解析**：diet 名词，意为“日常饮食”，短语 a balanced diet 意为“均衡饮食”。
 
@@ -198,38 +198,38 @@ Maintaining a balanced diet with lots of vegetables is good for health for `____
 The server set the table neatly with shiny cutlery and silverware (`____`).
 
 - [x] he would
-- [ ] little bit
-- [ ] bitter
+- [ ] he'd
+- [ ] rather
 
 > **解析**：silverware 不可数名词，意为“银餐具；餐具”（美式），含刀叉匙等。
 
 ### 8
 
-We were too tired to cook, so we ordered Chinese takeout for dinner (`____`).
+We were too tired to cook, so we ordered Chinese `____`.
 
-- [x] he'd
-- [ ] alcoholic
-- [ ] choice
+- [x] takeout
+- [ ] he'd
+- [ ] rather
 
 > **解析**：takeout 名词/形容词，在此作名词意为“外卖食物”（美式），英式为 takeaway。
 
 ### 9
 
-The restaurant offers a wide choice of fresh salads and desserts for `____`.
+The restaurant offers a wide `____` of fresh salads and desserts.
 
-- [x] lime
-- [ ] bacon
-- [ ] diet
+- [x] choice
+- [ ] little bit
+- [ ] scrambled eggs
 
 > **解析**：choice 名词，意为“选择；挑选”，a wide choice of ... 表示“丰富多样选择的……”。
 
 ### 10
 
-This fruit punch is non-alcoholic, so kids can enjoy it freely (`____`).
+This fruit punch is non-`____`, so kids can enjoy it freely (little bit).
 
-- [x] little bit
-- [ ] bitter
-- [ ] flour
+- [x] alcoholic
+- [ ] peach
+- [ ] she would
 
 > **解析**：alcoholic 形容词，意为“含酒精的”，前缀 non- 构成 non-alcoholic（不含酒精的）。
 

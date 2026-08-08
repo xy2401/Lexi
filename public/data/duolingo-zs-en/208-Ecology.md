@@ -52,7 +52,7 @@ adapt, are being, are not being, being, cause, endangered, global warming, green
 <quiz-sentence-builder>
 
 1. **中文**：警告气候变化的科学家们强调全球变暖的威胁。  
-   **英文**：Scientists warning about climate change emphasize the threats of global warming for adapt.
+   **英文**：Scientists warning about climate change emphasize the threats of global warming.
    > **解析**：global warming 不可数名词短语，意为“全球变暖”。
 
 2. **中文**：人们正在努力保护濒危物种免于灭绝。  
@@ -64,15 +64,15 @@ adapt, are being, are not being, being, cause, endangered, global warming, green
    > **解析**：habitat 可数/不可数名词，意为“（动植物的）栖息地；自然环境”。
 
 4. **中文**：工厂决不能用有害化学废料污染附近的河流。  
-   **英文**：Factories must not pollute nearby rivers with harmful chemical waste for being.
+   **英文**：Factories must not pollute nearby rivers with harmful chemical waste.
    > **解析**：pollute 及物动词，意为“污染”，名词形式为 pollution。
 
 5. **中文**：海洋中的塑料垃圾对海龟构成了严重危险。  
-   **英文**：Plastic waste in the ocean poses a serious danger to the sea turtle for cause.
+   **英文**：Plastic waste in the ocean poses a serious danger to the sea turtle.
    > **解析**：turtle 可数名词，意为“海龟；龟”。
 
 6. **中文**：保护我们共享的地球需要国际合作与付出。  
-   **英文**：Protecting our shared planet requires international cooperation and dedication for endangered.
+   **英文**：Protecting our shared planet requires international cooperation and dedication.
    > **解析**：planet 可数名词，在此特指“地球”。
 
 7. **中文**：过度的工业排放是空气污染的主要原因。  
@@ -80,11 +80,11 @@ adapt, are being, are not being, being, cause, endangered, global warming, green
    > **解析**：cause 可数名词，意为“原因；起因”；也可作动词表示“引起”。
 
 8. **中文**：野生动物必须适应不断变化的气温才能生存。  
-   **英文**：Wild animals must adapt to changing temperatures to survive for green.
+   **英文**：Wild animals must adapt to changing temperatures to survive.
    > **解析**：adapt 不及物/及物动词，意为“适应”，常用 adapt to something。
 
 9. **中文**：转向绿色能源可以显著减少我们的碳足迹。  
-   **英文**：Switching to green energy sources reduces our carbon footprint significantly for habitat.
+   **英文**：Switching to green energy sources reduces our carbon footprint significantly.
    > **解析**：green 在此作形容词，意为“环保的；绿色生态的”。
 
 10. **中文**：全球政府必须立即采取环保行动。  
@@ -95,7 +95,7 @@ adapt, are being, are not being, being, cause, endangered, global warming, green
 
 <quiz-listening>
 
-1. Scientists warning about climate change emphasize the threats of global warming for adapt.
+1. Scientists warning about climate change emphasize the threats of global warming.
    > **中文**：警告气候变化的科学家们强调全球变暖的威胁。
 
 2. Efforts are being made to protect endangered species from extinction.
@@ -104,22 +104,22 @@ adapt, are being, are not being, being, cause, endangered, global warming, green
 3. Deforestation destroys the natural habitat of wild birds and animals (are not being).
    > **中文**：砍伐森林破坏了野生鸟类和动物的自然栖息地。
 
-4. Factories must not pollute nearby rivers with harmful chemical waste for being.
+4. Factories must not pollute nearby rivers with harmful chemical waste.
    > **中文**：工厂决不能用有害化学废料污染附近的河流。
 
-5. Plastic waste in the ocean poses a serious danger to the sea turtle for cause.
+5. Plastic waste in the ocean poses a serious danger to the sea turtle.
    > **中文**：海洋中的塑料垃圾对海龟构成了严重危险。
 
-6. Protecting our shared planet requires international cooperation and dedication for endangered.
+6. Protecting our shared planet requires international cooperation and dedication.
    > **中文**：保护我们共享的地球需要国际合作与付出。
 
 7. Excessive industrial emissions are a main cause of air pollution (global warming).
    > **中文**：过度的工业排放是空气污染的主要原因。
 
-8. Wild animals must adapt to changing temperatures to survive for green.
+8. Wild animals must adapt to changing temperatures to survive.
    > **中文**：野生动物必须适应不断变化的气温才能生存。
 
-9. Switching to green energy sources reduces our carbon footprint significantly for habitat.
+9. Switching to green energy sources reduces our carbon footprint significantly.
    > **中文**：转向绿色能源可以显著减少我们的碳足迹。
 
 10. Immediate environmental actions must be taken by governments worldwide (have to be).
@@ -135,11 +135,11 @@ adapt, are being, are not being, being, cause, endangered, global warming, green
 
 ### 1
 
-Scientists warning about climate change emphasize the threats of global warming for `____`.
+Scientists warning about climate change emphasize the threats of `____`.
 
-- [x] adapt
-- [ ] being
-- [ ] global warming
+- [x] global warming
+- [ ] adapt
+- [ ] cause
 
 > **解析**：global warming 不可数名词短语，意为“全球变暖”。
 
@@ -148,8 +148,8 @@ Scientists warning about climate change emphasize the threats of global warming 
 Efforts `____` made to protect endangered species from extinction.
 
 - [x] are being
-- [ ] cause
-- [ ] green
+- [ ] are not being
+- [ ] global warming
 
 > **解析**：endangered 形容词，意为“濒危的”，修饰 species、animals 等。
 
@@ -158,68 +158,68 @@ Efforts `____` made to protect endangered species from extinction.
 Deforestation destroys the natural habitat of wild birds and animals (`____`).
 
 - [x] are not being
-- [ ] endangered
-- [ ] habitat
+- [ ] being
+- [ ] green
 
 > **解析**：habitat 可数/不可数名词，意为“（动植物的）栖息地；自然环境”。
 
 ### 4
 
-Factories must not pollute nearby rivers with harmful chemical waste for `____`.
+Factories must not `____` nearby rivers with harmful chemical waste.
 
-- [x] being
-- [ ] global warming
-- [ ] have to be
+- [x] pollute
+- [ ] being
+- [ ] green
 
 > **解析**：pollute 及物动词，意为“污染”，名词形式为 pollution。
 
 ### 5
 
-Plastic waste in the ocean poses a serious danger to the sea turtle for `____`.
+Plastic waste in the ocean poses a serious danger to the sea `____`.
 
-- [x] cause
-- [ ] green
-- [ ] adapt
+- [x] turtle
+- [ ] cause
+- [ ] habitat
 
 > **解析**：turtle 可数名词，意为“海龟；龟”。
 
 ### 6
 
-Protecting our shared planet requires international cooperation and dedication for `____`.
+Protecting our shared `____` requires international cooperation and dedication.
 
-- [x] endangered
-- [ ] habitat
-- [ ] are being
+- [x] planet
+- [ ] endangered
+- [ ] have to be
 
 > **解析**：planet 可数名词，在此特指“地球”。
 
 ### 7
 
-Excessive industrial emissions are a main cause of air pollution (`____`).
+Excessive industrial emissions are a main `____` of air pollution (global warming).
 
-- [x] global warming
-- [ ] have to be
-- [ ] are not being
+- [x] cause
+- [ ] green
+- [ ] must be
 
 > **解析**：cause 可数名词，意为“原因；起因”；也可作动词表示“引起”。
 
 ### 8
 
-Wild animals must adapt to changing temperatures to survive for `____`.
+Wild animals must `____` to changing temperatures to survive.
 
-- [x] green
-- [ ] adapt
-- [ ] being
+- [x] adapt
+- [ ] habitat
+- [ ] need to be
 
 > **解析**：adapt 不及物/及物动词，意为“适应”，常用 adapt to something。
 
 ### 9
 
-Switching to green energy sources reduces our carbon footprint significantly for `____`.
+Switching to `____` energy sources reduces our carbon footprint significantly.
 
-- [x] habitat
-- [ ] are being
-- [ ] cause
+- [x] green
+- [ ] have to be
+- [ ] planet
 
 > **解析**：green 在此作形容词，意为“环保的；绿色生态的”。
 
@@ -228,8 +228,8 @@ Switching to green energy sources reduces our carbon footprint significantly for
 Immediate environmental actions must be taken by governments worldwide (`____`).
 
 - [x] have to be
-- [ ] are not being
-- [ ] endangered
+- [ ] is being
+- [ ] plant
 
 > **解析**：must be + 过去分词，构成被动语态情态表达，意为“必须被……”。
 

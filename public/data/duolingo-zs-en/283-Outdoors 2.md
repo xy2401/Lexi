@@ -70,7 +70,7 @@ assuming that, attempt, attempt to, be able to, canyon, conditions, daylight, de
    > **解析**：`hike` 在此作名词（也可作动词），意为“徒步旅行、远足”。短语 `day hike` 指“一日徒步”。
 
 2. **中文**：他们在河边找了一块平地搭起了帐篷。  
-   **英文**：They found a flat piece of land near the river to pitch a tent for attempt.
+   **英文**：They found a flat piece of land near the river to pitch a tent about attempt.
    > **解析**：`pitch a tent` 是固定动词短语，意为“搭帐篷”，其中 `pitch` 意为“搭建/立起”。
 
 3. **中文**：到达崖顶可以俯瞰山谷令人屏息的优美景色。  
@@ -82,19 +82,19 @@ assuming that, attempt, attempt to, be able to, canyon, conditions, daylight, de
    > **解析**：`wildlife` 是不可数名词，意为“野生动植物”，由 `wild` + `life` 复合而成。
 
 5. **中文**：围坐在温暖的篝火旁，他们在星空下唱起了歌。  
-   **英文**：Sitting around the warm campfire, they sang songs under the starry sky for canyon.
+   **英文**：Sitting around the warm campfire, they sang songs under the starry sky about canyon.
    > **解析**：`campfire` 是名词，意为“篝火、营火”，由 `camp` + `fire` 构成。
 
 6. **中文**：租一艘皮划艇可以让你探索沿湖隐藏的宁静溶洞。  
-   **英文**：Renting a kayak allows you to explore the peaceful hidden caves along the lake for conditions.
+   **英文**：Renting a kayak allows you to explore the peaceful hidden caves along the lake about conditions.
    > **解析**：`kayak` 在此作名词，意为“皮划艇/独木舟”；亦可作动词表示“划皮划艇”。
 
 7. **中文**：经过六个小时的持续攀登，登山者们终于到达了山顶。  
-   **英文**：After six hours of steady climbing, the hikers finally reached the mountain summit for daylight.
+   **英文**：After six hours of steady climbing, the hikers finally reached the mountain summit.
    > **解析**：`summit` 是名词，意为“山顶、顶峰”，也可引申为政治上的“峰会”。
 
 8. **中文**：穿越未经开发的荒野徒步背包旅行需要妥善的安全装备与准备。  
-   **英文**：Backpacking through the untouched wilderness requires proper safety gear and preparation for dehydrated.
+   **英文**：Backpacking through the untouched wilderness requires proper safety gear and preparation.
    > **解析**：`wilderness` 是名词，意为“荒野、原野”，指天然未破坏的野外环境。
 
 9. **中文**：下班后去外面散散步是享受新鲜空气的好方法。  
@@ -102,7 +102,7 @@ assuming that, attempt, attempt to, be able to, canyon, conditions, daylight, de
    > **解析**：`fresh air` 是名词短语，意为“新鲜空气”，作动词 `enjoy` 的宾语。
 
 10. **中文**：仔细沿着标记好的小路走，这样你才不会在森林里迷路。  
-   **英文**：Follow the marked trail carefully so that you do not get lost in the forest for gear.
+   **英文**：Follow the marked trail carefully so that you do not get lost in the forest.
    > **解析**：`trail` 是名词，意为“小径、山路”，常用搭配 `marked trail`（带标记的小路）。
 
 </quiz-sentence-builder>
@@ -112,7 +112,7 @@ assuming that, attempt, attempt to, be able to, canyon, conditions, daylight, de
 1. We decided to take a day hike along the scenic mountain trail (assuming that).
    > **中文**：我们决定沿着这条风景优美的山路徒步旅行一天。
 
-2. They found a flat piece of land near the river to pitch a tent for attempt.
+2. They found a flat piece of land near the river to pitch a tent about attempt.
    > **中文**：他们在河边找了一块平地搭起了帐篷。
 
 3. Reaching the top of the cliff offered a breathtaking scenic view of the valley (attempt to).
@@ -121,22 +121,22 @@ assuming that, attempt, attempt to, be able to, canyon, conditions, daylight, de
 4. The national park is home to a wide variety of protected wildlife (be able to).
    > **中文**：这座国家公园是许多受保护野生动植物的家园。
 
-5. Sitting around the warm campfire, they sang songs under the starry sky for canyon.
+5. Sitting around the warm campfire, they sang songs under the starry sky about canyon.
    > **中文**：围坐在温暖的篝火旁，他们在星空下唱起了歌。
 
-6. Renting a kayak allows you to explore the peaceful hidden caves along the lake for conditions.
+6. Renting a kayak allows you to explore the peaceful hidden caves along the lake about conditions.
    > **中文**：租一艘皮划艇可以让你探索沿湖隐藏的宁静溶洞。
 
-7. After six hours of steady climbing, the hikers finally reached the mountain summit for daylight.
+7. After six hours of steady climbing, the hikers finally reached the mountain summit.
    > **中文**：经过六个小时的持续攀登，登山者们终于到达了山顶。
 
-8. Backpacking through the untouched wilderness requires proper safety gear and preparation for dehydrated.
+8. Backpacking through the untouched wilderness requires proper safety gear and preparation.
    > **中文**：穿越未经开发的荒野徒步背包旅行需要妥善的安全装备与准备。
 
 9. Taking a walk outside is a great way to enjoy some fresh air after work (enough to).
    > **中文**：下班后去外面散散步是享受新鲜空气的好方法。
 
-10. Follow the marked trail carefully so that you do not get lost in the forest for gear.
+10. Follow the marked trail carefully so that you do not get lost in the forest.
    > **中文**：仔细沿着标记好的小路走，这样你才不会在森林里迷路。
 
 </quiz-listening>
@@ -152,18 +152,18 @@ assuming that, attempt, attempt to, be able to, canyon, conditions, daylight, de
 We decided to take a day hike along the scenic mountain trail (`____`).
 
 - [x] assuming that
-- [ ] be able to
-- [ ] daylight
+- [ ] attempt
+- [ ] conditions
 
 > **解析**：`hike` 在此作名词（也可作动词），意为“徒步旅行、远足”。短语 `day hike` 指“一日徒步”。
 
 ### 2
 
-They found a flat piece of land near the river to pitch a tent for `____`.
+They found a flat piece of land near the river to pitch a tent about `____`.
 
 - [x] attempt
-- [ ] canyon
-- [ ] dehydrated
+- [ ] attempt to
+- [ ] daylight
 
 > **解析**：`pitch a tent` 是固定动词短语，意为“搭帐篷”，其中 `pitch` 意为“搭建/立起”。
 
@@ -172,8 +172,8 @@ They found a flat piece of land near the river to pitch a tent for `____`.
 Reaching the top of the cliff offered a breathtaking scenic view of the valley (`____`).
 
 - [x] attempt to
-- [ ] conditions
-- [ ] enough to
+- [ ] be able to
+- [ ] dehydrated
 
 > **解析**：`scenic view` 是名词短语，意为“优美风光、景观视角”，作句中的宾语。
 
@@ -182,48 +182,48 @@ Reaching the top of the cliff offered a breathtaking scenic view of the valley (
 The national park is home to a wide variety of protected wildlife (`____`).
 
 - [x] be able to
-- [ ] daylight
-- [ ] gear
+- [ ] canyon
+- [ ] enough to
 
 > **解析**：`wildlife` 是不可数名词，意为“野生动植物”，由 `wild` + `life` 复合而成。
 
 ### 5
 
-Sitting around the warm campfire, they sang songs under the starry sky for `____`.
+Sitting around the warm campfire, they sang songs under the starry sky about `____`.
 
 - [x] canyon
-- [ ] dehydrated
-- [ ] assuming that
+- [ ] conditions
+- [ ] gear
 
 > **解析**：`campfire` 是名词，意为“篝火、营火”，由 `camp` + `fire` 构成。
 
 ### 6
 
-Renting a kayak allows you to explore the peaceful hidden caves along the lake for `____`.
+Renting a kayak allows you to explore the peaceful hidden caves along the lake about `____`.
 
 - [x] conditions
-- [ ] enough to
-- [ ] attempt
+- [ ] daylight
+- [ ] how about we
 
 > **解析**：`kayak` 在此作名词，意为“皮划艇/独木舟”；亦可作动词表示“划皮划艇”。
 
 ### 7
 
-After six hours of steady climbing, the hikers finally reached the mountain summit for `____`.
+After six hours of steady climbing, the hikers finally reached the mountain `____`.
 
-- [x] daylight
-- [ ] gear
-- [ ] attempt to
+- [x] summit
+- [ ] daylight
+- [ ] how about we
 
 > **解析**：`summit` 是名词，意为“山顶、顶峰”，也可引申为政治上的“峰会”。
 
 ### 8
 
-Backpacking through the untouched wilderness requires proper safety gear and preparation for `____`.
+Backpacking through the untouched wilderness requires proper safety `____` and preparation.
 
-- [x] dehydrated
-- [ ] assuming that
-- [ ] be able to
+- [x] gear
+- [ ] dehydrated
+- [ ] overdo it
 
 > **解析**：`wilderness` 是名词，意为“荒野、原野”，指天然未破坏的野外环境。
 
@@ -232,18 +232,18 @@ Backpacking through the untouched wilderness requires proper safety gear and pre
 Taking a walk outside is a great way to enjoy some fresh air after work (`____`).
 
 - [x] enough to
-- [ ] attempt
-- [ ] canyon
+- [ ] gear
+- [ ] picturesque
 
 > **解析**：`fresh air` 是名词短语，意为“新鲜空气”，作动词 `enjoy` 的宾语。
 
 ### 10
 
-Follow the marked trail carefully so that you do not get lost in the forest for `____`.
+Follow the marked `____` carefully so that you do not get lost in the forest.
 
-- [x] gear
-- [ ] attempt to
-- [ ] conditions
+- [x] trail
+- [ ] gear
+- [ ] picturesque
 
 > **解析**：`trail` 是名词，意为“小径、山路”，常用搭配 `marked trail`（带标记的小路）。
 

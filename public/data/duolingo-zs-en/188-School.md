@@ -54,27 +54,27 @@ absent, aloud, apply, correct, correction, credit, elementary school, final exam
 <quiz-sentence-builder>
 
 1. **中文**：所有学生都在复习课程笔记以备战即将到来的期末考试。  
-   **英文**：All students are reviewing their course notes for the upcoming final exam for absent.
+   **英文**：All students are reviewing their course notes for the upcoming final exam.
    > **解析**：final exam 名词短语，意为“期末考试”，简称 final。
 
 2. **中文**：我们的老师宣布历史期中考试将于下周二举行。  
-   **英文**：Our teacher announced that the history midterm will take place next Tuesday for aloud.
+   **英文**：Our teacher announced that the history midterm will take place next Tuesday.
    > **解析**：midterm 可数名词，意为“期中考试”，由 mid-（中）+ term（学期）合成。
 
 3. **中文**：如果你想在测试中取得好成绩，充分的准备是至关紧要的。  
-   **英文**：Thorough preparation is essential if you want to score well on tests for apply.
+   **英文**：Thorough preparation is essential if you want to score well on tests.
    > **解析**：preparation 不可数/可数名词，意为“准备；预备”，动词形式为 prepare。
 
 4. **中文**：老师鼓励每个学生积极参与课堂讨论。  
-   **英文**：Teachers encourage every student to participate actively in class discussions for correct.
+   **英文**：Teachers encourage every student to participate actively in class discussions.
    > **解析**：participate 不及物动词，意为“参与；参加”，常与介词 in 连用（participate in）。
 
 5. **中文**：我们正在高中课堂上阅读经典英语文学作品。  
-   **英文**：We are reading classic English literature in our senior high school class for correction.
+   **英文**：We are reading classic English literature in our senior high school class.
    > **解析**：literature 不可数名词，意为“文学；文学作品”。
 
 6. **中文**：当她父母看到她优异的成绩单时，感到无比自豪。  
-   **英文**：Her parents were extremely proud when they saw her excellent report card for credit.
+   **英文**：Her parents were extremely proud when they saw her excellent report card.
    > **解析**：report card 名词短语，意为“成绩单”，指学校定期发放的成绩报告册。
 
 7. **中文**：汤姆昨天因发高烧缺勤/缺课了。  
@@ -86,33 +86,33 @@ absent, aloud, apply, correct, correction, credit, elementary school, final exam
    > **解析**：handwriting 不可数名词，意为“书写；笔迹；字迹”。
 
 9. **中文**：英语老师帮助我们学会如何发音难度较大的新单词。  
-   **英文**：The English teacher helped us learn how to pronounce difficult new words for handwriting.
+   **英文**：The English teacher helped us learn how to pronounce difficult new words.
    > **解析**：pronounce 及物动词，意为“发音；读音”，名词形式为 pronunciation。
 
 10. **中文**：在提交作文之前，你应该重读一遍以发现微小的错误。  
-   **英文**：Before turning in your essay, you should reread it to catch any small mistakes for literature.
+   **英文**：Before turning in your essay, you should reread it to catch any small mistakes.
    > **解析**：reread 动词，意为“重读；再读”，前缀 re- 表示“再次”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. All students are reviewing their course notes for the upcoming final exam for absent.
+1. All students are reviewing their course notes for the upcoming final exam.
    > **中文**：所有学生都在复习课程笔记以备战即将到来的期末考试。
 
-2. Our teacher announced that the history midterm will take place next Tuesday for aloud.
+2. Our teacher announced that the history midterm will take place next Tuesday.
    > **中文**：我们的老师宣布历史期中考试将于下周二举行。
 
-3. Thorough preparation is essential if you want to score well on tests for apply.
+3. Thorough preparation is essential if you want to score well on tests.
    > **中文**：如果你想在测试中取得好成绩，充分的准备是至关紧要的。
 
-4. Teachers encourage every student to participate actively in class discussions for correct.
+4. Teachers encourage every student to participate actively in class discussions.
    > **中文**：老师鼓励每个学生积极参与课堂讨论。
 
-5. We are reading classic English literature in our senior high school class for correction.
+5. We are reading classic English literature in our senior high school class.
    > **中文**：我们正在高中课堂上阅读经典英语文学作品。
 
-6. Her parents were extremely proud when they saw her excellent report card for credit.
+6. Her parents were extremely proud when they saw her excellent report card.
    > **中文**：当她父母看到她优异的成绩单时，感到无比自豪。
 
 7. Tom was absent from school yesterday because he had a high fever (elementary school).
@@ -121,10 +121,10 @@ absent, aloud, apply, correct, correction, credit, elementary school, final exam
 8. His clear handwriting makes his exam answers very easy for teachers to read (final exam).
    > **中文**：他工整的字迹使得老师很容易阅读他的考试答卷。
 
-9. The English teacher helped us learn how to pronounce difficult new words for handwriting.
+9. The English teacher helped us learn how to pronounce difficult new words.
    > **中文**：英语老师帮助我们学会如何发音难度较大的新单词。
 
-10. Before turning in your essay, you should reread it to catch any small mistakes for literature.
+10. Before turning in your essay, you should reread it to catch any small mistakes.
    > **中文**：在提交作文之前，你应该重读一遍以发现微小的错误。
 
 </quiz-listening>
@@ -137,101 +137,101 @@ absent, aloud, apply, correct, correction, credit, elementary school, final exam
 
 ### 1
 
-All students are reviewing their course notes for the upcoming final exam for `____`.
+All students are reviewing their course notes for the upcoming `____`.
 
-- [x] absent
-- [ ] correct
-- [ ] elementary school
+- [x] final exam
+- [ ] absent
+- [ ] correction
 
 > **解析**：final exam 名词短语，意为“期末考试”，简称 final。
 
 ### 2
 
-Our teacher announced that the history midterm will take place next Tuesday for `____`.
+Our teacher announced that the history `____` will take place next Tuesday.
 
-- [x] aloud
-- [ ] correction
-- [ ] final exam
+- [x] midterm
+- [ ] aloud
+- [ ] credit
 
 > **解析**：midterm 可数名词，意为“期中考试”，由 mid-（中）+ term（学期）合成。
 
 ### 3
 
-Thorough preparation is essential if you want to score well on tests for `____`.
+Thorough `____` is essential if you want to score well on tests.
 
-- [x] apply
-- [ ] credit
-- [ ] handwriting
+- [x] preparation
+- [ ] apply
+- [ ] elementary school
 
 > **解析**：preparation 不可数/可数名词，意为“准备；预备”，动词形式为 prepare。
 
 ### 4
 
-Teachers encourage every student to participate actively in class discussions for `____`.
+Teachers encourage every student to `____` actively in class discussions.
 
-- [x] correct
-- [ ] elementary school
-- [ ] literature
+- [x] participate
+- [ ] correct
+- [ ] final exam
 
 > **解析**：participate 不及物动词，意为“参与；参加”，常与介词 in 连用（participate in）。
 
 ### 5
 
-We are reading classic English literature in our senior high school class for `____`.
+We are reading classic English `____` in our senior high school class.
 
-- [x] correction
-- [ ] final exam
-- [ ] absent
+- [x] literature
+- [ ] correction
+- [ ] handwriting
 
 > **解析**：literature 不可数名词，意为“文学；文学作品”。
 
 ### 6
 
-Her parents were extremely proud when they saw her excellent report card for `____`.
+Her parents were extremely proud when they saw her excellent `____`.
 
-- [x] credit
-- [ ] handwriting
-- [ ] aloud
+- [x] report card
+- [ ] credit
+- [ ] literature
 
 > **解析**：report card 名词短语，意为“成绩单”，指学校定期发放的成绩报告册。
 
 ### 7
 
-Tom was absent from school yesterday because he had a high fever (`____`).
+Tom was `____` from school yesterday because he had a high fever (elementary school).
 
-- [x] elementary school
-- [ ] literature
-- [ ] apply
+- [x] absent
+- [ ] final exam
+- [ ] midterm
 
 > **解析**：absent 形容词，意为“缺席的；不在场的”，常用结构 be absent from school/work。
 
 ### 8
 
-His clear handwriting makes his exam answers very easy for teachers to read (`____`).
+His clear `____` makes his exam answers very easy for teachers to read (final exam).
 
-- [x] final exam
-- [ ] absent
-- [ ] correct
+- [x] handwriting
+- [ ] final exam
+- [ ] paragraph
 
 > **解析**：handwriting 不可数名词，意为“书写；笔迹；字迹”。
 
 ### 9
 
-The English teacher helped us learn how to pronounce difficult new words for `____`.
+The English teacher helped us learn how to `____` difficult new words.
 
-- [x] handwriting
-- [ ] aloud
-- [ ] correction
+- [x] pronounce
+- [ ] handwriting
+- [ ] paragraph
 
 > **解析**：pronounce 及物动词，意为“发音；读音”，名词形式为 pronunciation。
 
 ### 10
 
-Before turning in your essay, you should reread it to catch any small mistakes for `____`.
+Before turning in your essay, you should `____` it to catch any small mistakes.
 
-- [x] literature
-- [ ] apply
-- [ ] credit
+- [x] reread
+- [ ] literature
+- [ ] participate
 
 > **解析**：reread 动词，意为“重读；再读”，前缀 re- 表示“再次”。
 

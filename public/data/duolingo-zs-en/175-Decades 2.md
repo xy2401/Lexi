@@ -54,11 +54,11 @@
    > **解析**：1984 为年份，读作 nineteen eighty-four。
 
 2. **中文**：经过几十年的艰苦努力，这位科学家终于实现了他的梦想研究突破。  
-   **英文**：After decades of hard work, the scientist achieved his dream research breakthrough at last for 2005.
+   **英文**：After decades of hard work, the scientist achieved his dream research breakthrough at last.
    > **解析**：at last 为介词短语，意为“终于、最终”，相当于 finally。
 
 3. **中文**：在目标截止日期到来之前，他们已经完成了空间站项目。  
-   **英文**：They had completed the space station project before the target deadline arrived for 2020.
+   **英文**：They had completed the space station project before the target deadline arrived.
    > **解析**：had 在此处作助动词，与过去分词 completed 构成过去完成时（had completed）。
 
 4. **中文**：这位勇敢的消防员因在灾难中拯救生命而被尊为国家英雄。  
@@ -70,23 +70,23 @@
    > **解析**：recognize 为及物动词，意为“认可、承认、认出”。接名词作宾语（recognize her achievement）。
 
 6. **中文**：该国的经济状况在这十年间得到了显着改善。  
-   **英文**：The economic situation in the country improved significantly over the decade for eighteenth.
+   **英文**：The economic situation in the country improved significantly over the decade.
    > **解析**：situation 为可数名词，意为“局势、状况、情势”。economic situation 指经济状况。
 
 7. **中文**：我们从未想象过我们的小初创公司会成长为跨国企业。  
-   **英文**：We'd never imagined that our small startup company would grow into a global enterprise for experience.
+   **英文**：We'd never imagined that our small startup company would grow into a global enterprise.
    > **解析**：we'd 是 we had 或 we would 的缩写，在此处代表 we had（We had never imagined...）。
 
 8. **中文**：新建的交通公路系统于 2005 年正式向公众开放。  
-   **英文**：The new transit highway system was officially opened to the public in 2005 for had.
+   **英文**：The new transit highway system was officially opened to the public in 2005.
    > **解析**：2005 为年份数字，英文读作 two thousand and five 或 twenty oh five。
 
 9. **中文**：该大学上个月庆祝了建校十八周年。  
-   **英文**：The university celebrated its eighteenth anniversary of foundation last month (hadn't).
+   **英文**：The university celebrated its eighteenth anniversary of foundation last month.
    > **解析**：eighteenth 为序数词，意为“第十八的”。eighteenth anniversary 指十八周年纪念。
 
 10. **中文**：当她提交参评作品时，她没想到自己会赢得一等奖。  
-   **英文**：She hadn't expected to win the first prize when she submitted her entry (he'd).
+   **英文**：She hadn't expected to win the first prize when she submitted her entry.
    > **解析**：hadn't 是 had not 的缩写，在此处构成过去完成时的否定式（hadn't expected）。
 
 </quiz-sentence-builder>
@@ -96,10 +96,10 @@
 1. The technological company launched its revolutionary personal computer in 1984.
    > **中文**：这家科技公司于 1984 年推出了其革命性的个人计算机。
 
-2. After decades of hard work, the scientist achieved his dream research breakthrough at last for 2005.
+2. After decades of hard work, the scientist achieved his dream research breakthrough at last.
    > **中文**：经过几十年的艰苦努力，这位科学家终于实现了他的梦想研究突破。
 
-3. They had completed the space station project before the target deadline arrived for 2020.
+3. They had completed the space station project before the target deadline arrived.
    > **中文**：在目标截止日期到来之前，他们已经完成了空间站项目。
 
 4. The brave firefighter was honored as a national hero for saving lives during the disaster (at last).
@@ -108,19 +108,19 @@
 5. It took many years for the scientific community to recognize her major achievement (by the time).
    > **中文**：科学界花了许多年的时间才认可她的重大成就。
 
-6. The economic situation in the country improved significantly over the decade for eighteenth.
+6. The economic situation in the country improved significantly over the decade.
    > **中文**：该国的经济状况在这十年间得到了显着改善。
 
-7. We'd never imagined that our small startup company would grow into a global enterprise for experience.
+7. We'd never imagined that our small startup company would grow into a global enterprise.
    > **中文**：我们从未想象过我们的小初创公司会成长为跨国企业。
 
-8. The new transit highway system was officially opened to the public in 2005 for had.
+8. The new transit highway system was officially opened to the public in 2005.
    > **中文**：新建的交通公路系统于 2005 年正式向公众开放。
 
-9. The university celebrated its eighteenth anniversary of foundation last month (hadn't).
+9. The university celebrated its eighteenth anniversary of foundation last month.
    > **中文**：该大学上个月庆祝了建校十八周年。
 
-10. She hadn't expected to win the first prize when she submitted her entry (he'd).
+10. She hadn't expected to win the first prize when she submitted her entry.
    > **中文**：当她提交参评作品时，她没想到自己会赢得一等奖。
 
 </quiz-listening>
@@ -136,38 +136,38 @@
 The technological company launched its revolutionary personal computer in `____`.
 
 - [x] 1984
-- [ ] at last
-- [ ] experience
+- [ ] 2005
+- [ ] eighteenth
 
 > **解析**：1984 为年份，读作 nineteen eighty-four。
 
 ### 2
 
-After decades of hard work, the scientist achieved his dream research breakthrough at last for `____`.
+After decades of hard work, the scientist achieved his dream research breakthrough `____`.
 
-- [x] 2005
-- [ ] by the time
-- [ ] had
+- [x] at last
+- [ ] 2005
+- [ ] experience
 
 > **解析**：at last 为介词短语，意为“终于、最终”，相当于 finally。
 
 ### 3
 
-They had completed the space station project before the target deadline arrived for `____`.
+They `____` completed the space station project before the target deadline arrived.
 
-- [x] 2020
-- [ ] eighteenth
-- [ ] hadn't
+- [x] had
+- [ ] 2020
+- [ ] experience
 
 > **解析**：had 在此处作助动词，与过去分词 completed 构成过去完成时（had completed）。
 
 ### 4
 
-The brave firefighter was honored as a national hero for saving lives during the disaster (`____`).
+The brave firefighter was honored as a national `____` for saving lives during the disaster (at last).
 
-- [x] at last
-- [ ] experience
-- [ ] he'd
+- [x] hero
+- [ ] at last
+- [ ] had
 
 > **解析**：hero 为可数名词，意为“英雄”，复数形式为 heroes。
 
@@ -176,58 +176,58 @@ The brave firefighter was honored as a national hero for saving lives during the
 It took many years for the scientific community to recognize her major achievement (`____`).
 
 - [x] by the time
-- [ ] had
-- [ ] 1984
+- [ ] eighteenth
+- [ ] he'd
 
 > **解析**：recognize 为及物动词，意为“认可、承认、认出”。接名词作宾语（recognize her achievement）。
 
 ### 6
 
-The economic situation in the country improved significantly over the decade for `____`.
+The economic `____` in the country improved significantly over the decade.
 
-- [x] eighteenth
-- [ ] hadn't
-- [ ] 2005
+- [x] situation
+- [ ] eighteenth
+- [ ] he'd
 
 > **解析**：situation 为可数名词，意为“局势、状况、情势”。economic situation 指经济状况。
 
 ### 7
 
-We'd never imagined that our small startup company would grow into a global enterprise for `____`.
+`____` never imagined that our small startup company would grow into a global enterprise.
 
-- [x] experience
-- [ ] he'd
-- [ ] 2020
+- [x] we'd
+- [ ] experience
+- [ ] hero
 
 > **解析**：we'd 是 we had 或 we would 的缩写，在此处代表 we had（We had never imagined...）。
 
 ### 8
 
-The new transit highway system was officially opened to the public in 2005 for `____`.
+The new transit highway system was officially opened to the public in `____`.
 
-- [x] had
-- [ ] 1984
-- [ ] at last
+- [x] 2005
+- [ ] hadn't
+- [ ] predict
 
 > **解析**：2005 为年份数字，英文读作 two thousand and five 或 twenty oh five。
 
 ### 9
 
-The university celebrated its eighteenth anniversary of foundation last month (`____`).
+The university celebrated its `____` anniversary of foundation last month.
 
-- [x] hadn't
-- [ ] 2005
-- [ ] by the time
+- [x] eighteenth
+- [ ] he'd
+- [ ] previous
 
 > **解析**：eighteenth 为序数词，意为“第十八的”。eighteenth anniversary 指十八周年纪念。
 
 ### 10
 
-She hadn't expected to win the first prize when she submitted her entry (`____`).
+She `____` expected to win the first prize when she submitted her entry.
 
-- [x] he'd
-- [ ] 2020
-- [ ] eighteenth
+- [x] hadn't
+- [ ] hero
+- [ ] recognize
 
 > **解析**：hadn't 是 had not 的缩写，在此处构成过去完成时的否定式（hadn't expected）。
 

@@ -86,23 +86,23 @@ in theory 和 no longer 构成一种"理想与现实"的对比：In theory, it's
    > **解析**：`initially` 是副词，意为“最初、起初”，置于句首作句首状语，引出初始状态。
 
 2. **中文**：许多人难以平衡日常生活与抱负。  
-   **英文**：Many people struggle to balance their daily life and ambition for action.
+   **英文**：Many people struggle to balance their daily life and ambition.
    > **解析**：`struggle` 在此处作动词，搭配 `struggle to do sth` 表示“艰难地做某事”。
 
 3. **中文**：在困难时期，你需要保持积极的态度。  
-   **英文**：You need to maintain a positive attitude during difficult times for affect.
+   **英文**：You need to maintain a positive attitude during difficult times.
    > **解析**：`maintain` 作及物动词，意为“保持、维持”，宾语为 `a positive attitude`。
 
 4. **中文**：战胜这一障碍对他来说是一个重大的里程碑。  
-   **英文**：Overcoming this obstacle was a significant milestone for him for find.
+   **英文**：Overcoming this obstacle was a significant milestone.
    > **解析**：`significant` 是形容词，意为“重大的、有意义的”，作前置定语修饰 `milestone`。
 
 5. **中文**：理论上，这个计划听起来简单，但执行需要艰苦努力。  
-   **英文**：In theory, the plan sounds simple, but execution requires hard work for forward.
+   **英文**：In theory, the plan sounds simple, but execution requires hard work.
    > **解析**：`in theory` 是介词短语，意为“理论上”，作句首状语，与实际对比。
 
 6. **中文**：立即采取行动是战胜拖延症的关键。  
-   **英文**：Taking immediate action is the key to overcoming procrastination for free.
+   **英文**：Taking immediate action is the key to overcoming procrastination.
    > **解析**：`action` 是名词，搭配 `take action`（采取行动），动名词短语作主语。
 
 7. **中文**：她被导师的话真正地鼓舞到了。  
@@ -110,15 +110,15 @@ in theory 和 no longer 构成一种"理想与现实"的对比：In theory, it's
    > **解析**：`truly` 是副词，意为“真正地、真诚地”，修饰过去分词 `inspired`。
 
 8. **中文**：如果你每天致力于磨练技能，你一定会取得进步。  
-   **英文**：If you work at your skills every day, you will surely improve for initially.
+   **英文**：If you work at your skills every day, you will surely improve.
    > **解析**：`work at` 是短语动词，意为“致力于、努力改善（某事）”，后接名词 `your skills`。
 
 9. **中文**：你练习得越多，就会变得越自信。  
-   **英文**：The more you practice, the more confident you will become for intelligent.
+   **英文**：The more you practice, the more confident you will become.
    > **解析**：`the more..., the more...` 结构表示“越……，就越……”，是英语比较级双重句型。
 
 10. **中文**：他努力工作，以实现今年的职业目标。  
-   **英文**：He worked hard to reach his professional goals this year for internal.
+   **英文**：He worked hard to reach his professional goals this year.
    > **解析**：`reach` 作及物动词，意为“达到、实现”，搭配 `reach one's goals`（达成目标）。
 
 </quiz-sentence-builder>
@@ -128,31 +128,31 @@ in theory 和 no longer 构成一种"理想与现实"的对比：In theory, it's
 1. Initially, she struggled with fear, but she never gave up (a number of).
    > **中文**：最初，她与恐惧作斗争，但她从未放弃。
 
-2. Many people struggle to balance their daily life and ambition for action.
+2. Many people struggle to balance their daily life and ambition.
    > **中文**：许多人难以平衡日常生活与抱负。
 
-3. You need to maintain a positive attitude during difficult times for affect.
+3. You need to maintain a positive attitude during difficult times.
    > **中文**：在困难时期，你需要保持积极的态度。
 
-4. Overcoming this obstacle was a significant milestone for him for find.
+4. Overcoming this obstacle was a significant milestone.
    > **中文**：战胜这一障碍对他来说是一个重大的里程碑。
 
-5. In theory, the plan sounds simple, but execution requires hard work for forward.
+5. In theory, the plan sounds simple, but execution requires hard work.
    > **中文**：理论上，这个计划听起来简单，但执行需要艰苦努力。
 
-6. Taking immediate action is the key to overcoming procrastination for free.
+6. Taking immediate action is the key to overcoming procrastination.
    > **中文**：立即采取行动是战胜拖延症的关键。
 
 7. She was truly inspired by her mentor's words (in theory).
    > **中文**：她被导师的话真正地鼓舞到了。
 
-8. If you work at your skills every day, you will surely improve for initially.
+8. If you work at your skills every day, you will surely improve.
    > **中文**：如果你每天致力于磨练技能，你一定会取得进步。
 
-9. The more you practice, the more confident you will become for intelligent.
+9. The more you practice, the more confident you will become.
    > **中文**：你练习得越多，就会变得越自信。
 
-10. He worked hard to reach his professional goals this year for internal.
+10. He worked hard to reach his professional goals this year.
    > **中文**：他努力工作，以实现今年的职业目标。
 
 </quiz-listening>
@@ -168,98 +168,98 @@ in theory 和 no longer 构成一种"理想与现实"的对比：In theory, it's
 Initially, she struggled with fear, but she never gave up (`____`).
 
 - [x] a number of
-- [ ] find
-- [ ] in theory
+- [ ] action
+- [ ] free
 
 > **解析**：`initially` 是副词，意为“最初、起初”，置于句首作句首状语，引出初始状态。
 
 ### 2
 
-Many people struggle to balance their daily life and ambition for `____`.
+Many people `____` to balance their daily life and ambition.
 
-- [x] action
-- [ ] forward
-- [ ] initially
+- [x] struggle
+- [ ] action
+- [ ] free
 
 > **解析**：`struggle` 在此处作动词，搭配 `struggle to do sth` 表示“艰难地做某事”。
 
 ### 3
 
-You need to maintain a positive attitude during difficult times for `____`.
+You need to `____` a positive attitude during difficult times.
 
-- [x] affect
-- [ ] free
-- [ ] intelligent
+- [x] maintain
+- [ ] affect
+- [ ] in theory
 
 > **解析**：`maintain` 作及物动词，意为“保持、维持”，宾语为 `a positive attitude`。
 
 ### 4
 
-Overcoming this obstacle was a significant milestone for him for `____`.
+Overcoming this obstacle was a `____` milestone.
 
-- [x] find
-- [ ] in theory
-- [ ] internal
+- [x] significant
+- [ ] find
+- [ ] initially
 
 > **解析**：`significant` 是形容词，意为“重大的、有意义的”，作前置定语修饰 `milestone`。
 
 ### 5
 
-In theory, the plan sounds simple, but execution requires hard work for `____`.
+`____`, the plan sounds simple, but execution requires hard work.
 
-- [x] forward
-- [ ] initially
-- [ ] a number of
+- [x] in theory
+- [ ] forward
+- [ ] internal
 
 > **解析**：`in theory` 是介词短语，意为“理论上”，作句首状语，与实际对比。
 
 ### 6
 
-Taking immediate action is the key to overcoming procrastination for `____`.
+Taking immediate `____` is the key to overcoming procrastination.
 
-- [x] free
-- [ ] intelligent
-- [ ] action
+- [x] action
+- [ ] in theory
+- [ ] maintain
 
 > **解析**：`action` 是名词，搭配 `take action`（采取行动），动名词短语作主语。
 
 ### 7
 
-She was truly inspired by her mentor's words (`____`).
+She was `____` inspired by her mentor's words (in theory).
 
-- [x] in theory
-- [ ] internal
-- [ ] affect
+- [x] truly
+- [ ] in theory
+- [ ] maintain
 
 > **解析**：`truly` 是副词，意为“真正地、真诚地”，修饰过去分词 `inspired`。
 
 ### 8
 
-If you work at your skills every day, you will surely improve for `____`.
+If you `____` your skills every day, you will surely improve.
 
-- [x] initially
-- [ ] a number of
-- [ ] find
+- [x] work at
+- [ ] initially
+- [ ] no longer
 
 > **解析**：`work at` 是短语动词，意为“致力于、努力改善（某事）”，后接名词 `your skills`。
 
 ### 9
 
-The more you practice, the more confident you will become for `____`.
+`____` you practice, the more confident you will become.
 
-- [x] intelligent
-- [ ] action
-- [ ] forward
+- [x] the more
+- [ ] intelligent
+- [ ] period
 
 > **解析**：`the more..., the more...` 结构表示“越……，就越……”，是英语比较级双重句型。
 
 ### 10
 
-He worked hard to reach his professional goals this year for `____`.
+He worked hard to `____` his professional goals this year.
 
-- [x] internal
-- [ ] affect
-- [ ] free
+- [x] reach
+- [ ] internal
+- [ ] pretend
 
 > **解析**：`reach` 作及物动词，意为“达到、实现”，搭配 `reach one's goals`（达成目标）。
 

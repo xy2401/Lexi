@@ -84,11 +84,11 @@ the trouble with（……的问题在于）、point of view（观点）、play a
    > **解析**：`accuse sb of doing sth` 是固定搭配，意为“指控/指责某人做了某事”。
 
 2. **中文**：他最终承认是他打破了窗户。  
-   **英文**：He finally confessed that he was the one who broke the window for anything.
+   **英文**：He finally confessed that he was the one who broke the window.
    > **解析**：`confess` 作动词，意为“承认、供认”，后接 `that` 引导的宾语从句。
 
 3. **中文**：她厌倦了他无休止的借口，决定离开。  
-   **英文**：She was fed up with his endless excuses and decided to leave for approval.
+   **英文**：She was fed up with his endless excuses and decided to leave.
    > **解析**：`be fed up with sth/sb` 是形容词短语，意为“对……感到厌烦/受够了”。
 
 4. **中文**：就我所知，经理还没有做出最终决定。  
@@ -96,19 +96,19 @@ the trouble with（……的问题在于）、point of view（观点）、play a
    > **解析**：`as far as I know` 是限定短语，意为“据我所知”，说明信息来源有限。
 
 5. **中文**：在我看来，双方都提出了合理的论点。  
-   **英文**：From my point of view, both sides made reasonable arguments for breakup.
+   **英文**：From my point of view, both sides made reasonable arguments.
    > **解析**：`from one's point of view` 是固定介词短语，意为“从某人的角度/观点来看”。
 
 6. **中文**：在这样恶劣的环境中工作对你的心理健康有害。  
-   **英文**：Working in such a toxic environment is bad for your mental health for confess.
+   **英文**：Working in such a toxic environment is bad for your mental health.
    > **解析**：`toxic` 此处引申为“恶劣的、有毒的（环境/关系）”。
 
 7. **中文**：他拒绝回答有关那篇争议帖子的任何问题。  
-   **英文**：He refused to answer any questions regarding the controversial post for consideration.
+   **英文**：He refused to answer any questions regarding the controversial post.
    > **解析**：`refuse to do sth` 是动词搭配，意为“拒绝做某事”。
 
 8. **中文**：她立场的突然转变引发了同事们的怀疑。  
-   **英文**：Her sudden change of opinion raised suspicion among her colleagues for doubtful.
+   **英文**：Her sudden change of opinion raised suspicion among her colleagues.
    > **解析**：`suspicion` 是名词，意为“怀疑、猜疑”，搭配 `raise suspicion`。
 
 9. **中文**：团队能否在截止日期前完成项目是令人怀疑的。  
@@ -126,25 +126,25 @@ the trouble with（……的问题在于）、point of view（观点）、play a
 1. You cannot accuse him of lying without providing clear proof.
    > **中文**：在没有提供明确证据的情况下，你不能指责他撒谎。
 
-2. He finally confessed that he was the one who broke the window for anything.
+2. He finally confessed that he was the one who broke the window.
    > **中文**：他最终承认是他打破了窗户。
 
-3. She was fed up with his endless excuses and decided to leave for approval.
+3. She was fed up with his endless excuses and decided to leave.
    > **中文**：她厌倦了他无休止的借口，决定离开。
 
 4. As far as I know, the manager has not made a final decision yet.
    > **中文**：就我所知，经理还没有做出最终决定。
 
-5. From my point of view, both sides made reasonable arguments for breakup.
+5. From my point of view, both sides made reasonable arguments.
    > **中文**：在我看来，双方都提出了合理的论点。
 
-6. Working in such a toxic environment is bad for your mental health for confess.
+6. Working in such a toxic environment is bad for your mental health.
    > **中文**：在这样恶劣的环境中工作对你的心理健康有害。
 
-7. He refused to answer any questions regarding the controversial post for consideration.
+7. He refused to answer any questions regarding the controversial post.
    > **中文**：他拒绝回答有关那篇争议帖子的任何问题。
 
-8. Her sudden change of opinion raised suspicion among her colleagues for doubtful.
+8. Her sudden change of opinion raised suspicion among her colleagues.
    > **中文**：她立场的突然转变引发了同事们的怀疑。
 
 9. It is doubtful whether the team can finish the project before deadline (everything that).
@@ -166,28 +166,28 @@ the trouble with（……的问题在于）、point of view（观点）、play a
 You cannot `____` him of lying without providing clear proof.
 
 - [x] accuse
-- [ ] as far as i know
-- [ ] consideration
+- [ ] anything
+- [ ] confess
 
 > **解析**：`accuse sb of doing sth` 是固定搭配，意为“指控/指责某人做了某事”。
 
 ### 2
 
-He finally confessed that he was the one who broke the window for `____`.
+He finally `____`ed that he was the one who broke the window.
 
-- [x] anything
-- [ ] breakup
-- [ ] doubtful
+- [x] confess
+- [ ] anything
+- [ ] consideration
 
 > **解析**：`confess` 作动词，意为“承认、供认”，后接 `that` 引导的宾语从句。
 
 ### 3
 
-She was fed up with his endless excuses and decided to leave for `____`.
+She was `____` with his endless excuses and decided to leave.
 
-- [x] approval
-- [ ] confess
-- [ ] everything that
+- [x] fed up
+- [ ] approval
+- [ ] consideration
 
 > **解析**：`be fed up with sth/sb` 是形容词短语，意为“对……感到厌烦/受够了”。
 
@@ -196,68 +196,68 @@ She was fed up with his endless excuses and decided to leave for `____`.
 `____`, the manager has not made a final decision yet.
 
 - [x] as far as i know
-- [ ] consideration
-- [ ] fed up
+- [ ] breakup
+- [ ] everything that
 
 > **解析**：`as far as I know` 是限定短语，意为“据我所知”，说明信息来源有限。
 
 ### 5
 
-From my point of view, both sides made reasonable arguments for `____`.
+From my `____`, both sides made reasonable arguments.
 
-- [x] breakup
-- [ ] doubtful
-- [ ] accuse
+- [x] point of view
+- [ ] breakup
+- [ ] everything that
 
 > **解析**：`from one's point of view` 是固定介词短语，意为“从某人的角度/观点来看”。
 
 ### 6
 
-Working in such a toxic environment is bad for your mental health for `____`.
+Working in such a `____` environment is bad for your mental health.
 
-- [x] confess
-- [ ] everything that
-- [ ] anything
+- [x] toxic
+- [ ] confess
+- [ ] fed up
 
 > **解析**：`toxic` 此处引申为“恶劣的、有毒的（环境/关系）”。
 
 ### 7
 
-He refused to answer any questions regarding the controversial post for `____`.
+He refused to answer any questions regarding the contr`____`sial post.
 
-- [x] consideration
-- [ ] fed up
-- [ ] approval
+- [x] over
+- [ ] consideration
+- [ ] feel any better about
 
 > **解析**：`refuse to do sth` 是动词搭配，意为“拒绝做某事”。
 
 ### 8
 
-Her sudden change of opinion raised suspicion among her colleagues for `____`.
+Her sudden change of opinion raised `____` among her colleagues.
 
-- [x] doubtful
-- [ ] accuse
-- [ ] as far as i know
+- [x] suspicion
+- [ ] doubtful
+- [ ] for a while now
 
 > **解析**：`suspicion` 是名词，意为“怀疑、猜疑”，搭配 `raise suspicion`。
 
 ### 9
 
-It is doubtful whether the team can finish the project before deadline (`____`).
+It is `____` whether the team can finish the project before deadline (everything that).
 
-- [x] everything that
-- [ ] anything
-- [ ] breakup
+- [x] doubtful
+- [ ] fed up
+- [ ] nothing
 
 > **解析**：`doubtful` 是形容词，句型 `It is doubtful whether...`（……令人怀疑）。
 
 ### 10
 
-The trouble with him is that he never takes responsibility (`____`).
+`____` him is that he never takes responsibility (fed up).
 
-- [x] fed up
-- [ ] approval
-- [ ] confess
+- [x] the trouble with
+- [ ] fed up
+- [ ] nothing
 
 > **解析**：`the trouble with sb is that...` 是用于指出问题所在的主从复合句型。
 

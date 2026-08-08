@@ -62,35 +62,35 @@ It is + adj + to do 是形式主语句型。hand in（上交）vs hand out（分
 <quiz-sentence-builder>
 
 1. **中文**：良好的时间管理技能对于在大学取得学术成功是至关重要的。  
-   **英文**：Good time management skills are essential for academic success at university for attention.
+   **英文**：Good time management skills are essential for academic success at university.
    > **解析**：essential 为形容词，意为“必不可少的、极重要的”。be essential for sth. 表示“对某事至关重要”。
 
 2. **中文**：在最终截止时间之前提交所有研究作业是必要的。  
-   **英文**：It is necessary to submit all research assignments before the final deadline for average.
+   **英文**：It is necessary to submit all research assignments before the final deadline.
    > **解析**：necessary to 为形容词结构，常见于形式主语句型 It is necessary to do sth.（做某事是必要的）。
 
 3. **中文**：别忘了在周五前将完成的论文上交给课程导师。  
-   **英文**：Don't forget to hand in your completed essay to the course instructor by Friday for circle.
+   **英文**：Don't forget to hand in your completed essay to the course instructor by Friday.
    > **解析**：hand in 为动词短语，意为“上交、提交（作业/文件等）”。hand in your essay 意为“上交论文”。与 submit 同义。
 
 4. **中文**：完成暑期实习为学生们提供了实用的工作场所经验。  
-   **英文**：Completing a summer internship provides students with practical workplace experience for complicated.
+   **英文**：Completing a summer internship provides students with practical workplace experience.
    > **解析**：internship 为名词，意为“实习、实习期”。summer internship 指“暑期实习”。
 
 5. **中文**：实验室导师在实验开始前清楚解释了安全规程。  
-   **英文**：The lab instructor clearly explained safety procedures before the experiment began for difficulty.
+   **英文**：The lab instructor clearly explained safety procedures before the experiment began.
    > **解析**：instructor 为名词，意为“导师、讲师、指导员”。lab instructor 指“实验室指导教师”。
 
 6. **中文**：这个数学公式看起来很复杂，但分步指导使它变得简单。  
-   **英文**：This math formula looks complicated, but step-by-step guidance makes it simple for drama.
+   **英文**：This math formula looks complicated, but step-by-step guidance makes it simple.
    > **解析**：complicated 为形容词，意为“复杂的、难懂的”。作系动词 looks 的表语。
 
 7. **中文**：大多数高级学位项目要求申请人具备扎实的语言技能。  
-   **英文**：Most advanced degree programs require applicants to have strong language skills for essential.
+   **英文**：Most advanced degree programs require applicants to have strong language skills.
    > **解析**：require 为动词，意为“要求、需要”。句型 require sb. to do sth.（要求某人做某事）。
 
 8. **中文**：学生们在大学图书馆里有充足的参考书可供阅读。  
-   **英文**：Students have plenty of reference books to read in the university library for hand.
+   **英文**：Students have plenty of reference books to read in the university library.
    > **解析**：plenty of 为量词短语，意为“大量的、充足的”。后接可数名词复数（books）或不可数名词。
 
 9. **中文**：你需要在下周开课之前在线注册选修课程。  
@@ -105,28 +105,28 @@ It is + adj + to do 是形式主语句型。hand in（上交）vs hand out（分
 
 <quiz-listening>
 
-1. Good time management skills are essential for academic success at university for attention.
+1. Good time management skills are essential for academic success at university.
    > **中文**：良好的时间管理技能对于在大学取得学术成功是至关重要的。
 
-2. It is necessary to submit all research assignments before the final deadline for average.
+2. It is necessary to submit all research assignments before the final deadline.
    > **中文**：在最终截止时间之前提交所有研究作业是必要的。
 
-3. Don't forget to hand in your completed essay to the course instructor by Friday for circle.
+3. Don't forget to hand in your completed essay to the course instructor by Friday.
    > **中文**：别忘了在周五前将完成的论文上交给课程导师。
 
-4. Completing a summer internship provides students with practical workplace experience for complicated.
+4. Completing a summer internship provides students with practical workplace experience.
    > **中文**：完成暑期实习为学生们提供了实用的工作场所经验。
 
-5. The lab instructor clearly explained safety procedures before the experiment began for difficulty.
+5. The lab instructor clearly explained safety procedures before the experiment began.
    > **中文**：实验室导师在实验开始前清楚解释了安全规程。
 
-6. This math formula looks complicated, but step-by-step guidance makes it simple for drama.
+6. This math formula looks complicated, but step-by-step guidance makes it simple.
    > **中文**：这个数学公式看起来很复杂，但分步指导使它变得简单。
 
-7. Most advanced degree programs require applicants to have strong language skills for essential.
+7. Most advanced degree programs require applicants to have strong language skills.
    > **中文**：大多数高级学位项目要求申请人具备扎实的语言技能。
 
-8. Students have plenty of reference books to read in the university library for hand.
+8. Students have plenty of reference books to read in the university library.
    > **中文**：学生们在大学图书馆里有充足的参考书可供阅读。
 
 9. You need to register for your elective courses online before classes start next week (hand in).
@@ -145,81 +145,81 @@ It is + adj + to do 是形式主语句型。hand in（上交）vs hand out（分
 
 ### 1
 
-Good time management skills are essential for academic success at university for `____`.
+Good time management skills are `____` for academic success at university.
 
-- [x] attention
-- [ ] complicated
-- [ ] essential
+- [x] essential
+- [ ] attention
+- [ ] difficulty
 
 > **解析**：essential 为形容词，意为“必不可少的、极重要的”。be essential for sth. 表示“对某事至关重要”。
 
 ### 2
 
-It is necessary to submit all research assignments before the final deadline for `____`.
+`____` is necessary to submit all research assignments before the final deadline.
 
-- [x] average
-- [ ] difficulty
-- [ ] hand
+- [x] it
+- [ ] average
+- [ ] drama
 
 > **解析**：necessary to 为形容词结构，常见于形式主语句型 It is necessary to do sth.（做某事是必要的）。
 
 ### 3
 
-Don't forget to hand in your completed essay to the course instructor by Friday for `____`.
+Don't forget to `____` in your completed essay to the course instructor by Friday.
 
-- [x] circle
-- [ ] drama
-- [ ] hand in
+- [x] hand
+- [ ] circle
+- [ ] essential
 
 > **解析**：hand in 为动词短语，意为“上交、提交（作业/文件等）”。hand in your essay 意为“上交论文”。与 submit 同义。
 
 ### 4
 
-Completing a summer internship provides students with practical workplace experience for `____`.
+Completing a summer `____` provides students with practical workplace experience.
 
-- [x] complicated
-- [ ] essential
-- [ ] hand out
+- [x] internship
+- [ ] complicated
+- [ ] hand
 
 > **解析**：internship 为名词，意为“实习、实习期”。summer internship 指“暑期实习”。
 
 ### 5
 
-The lab instructor clearly explained safety procedures before the experiment began for `____`.
+The lab `____` clearly explained safety procedures before the experiment began.
 
-- [x] difficulty
-- [ ] hand
-- [ ] attention
+- [x] instructor
+- [ ] difficulty
+- [ ] hand in
 
 > **解析**：instructor 为名词，意为“导师、讲师、指导员”。lab instructor 指“实验室指导教师”。
 
 ### 6
 
-This math formula looks complicated, but step-by-step guidance makes it simple for `____`.
+This math formula looks `____`, but step-by-step guidance makes it simple.
 
-- [x] drama
-- [ ] hand in
-- [ ] average
+- [x] complicated
+- [ ] essential
+- [ ] important for
 
 > **解析**：complicated 为形容词，意为“复杂的、难懂的”。作系动词 looks 的表语。
 
 ### 7
 
-Most advanced degree programs require applicants to have strong language skills for `____`.
+Most advanced degree programs `____` applicants to have strong language skills.
 
-- [x] essential
-- [ ] hand out
-- [ ] circle
+- [x] require
+- [ ] essential
+- [ ] important for
 
 > **解析**：require 为动词，意为“要求、需要”。句型 require sb. to do sth.（要求某人做某事）。
 
 ### 8
 
-Students have plenty of reference books to read in the university library for `____`.
+Students have `____` reference books to read in the university library.
 
-- [x] hand
-- [ ] attention
-- [ ] complicated
+- [x] plenty of
+- [ ] hand
+- [ ] instructor
 
 > **解析**：plenty of 为量词短语，意为“大量的、充足的”。后接可数名词复数（books）或不可数名词。
 
@@ -228,18 +228,18 @@ Students have plenty of reference books to read in the university library for `_
 You need to register for your elective courses online before classes start next week (`____`).
 
 - [x] hand in
-- [ ] average
-- [ ] difficulty
+- [ ] hand out
+- [ ] it
 
 > **解析**：register 为动词，意为“注册、登记”。register for a course 表示“注册课程”。
 
 ### 10
 
-Paying close attention during lectures helps students understand key concepts better (`____`).
+Paying close `____` during lectures helps students understand key concepts better (hand out).
 
-- [x] hand out
-- [ ] circle
-- [ ] drama
+- [x] attention
+- [ ] important for
+- [ ] lab
 
 > **解析**：attention 为不可数名词，意为“注意力”。pay attention 指“集中注意力”。close attention 表示“密切关注/集中注意力”。
 

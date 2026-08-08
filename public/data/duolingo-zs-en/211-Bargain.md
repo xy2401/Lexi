@@ -54,23 +54,23 @@ what to / which / whatever / that 这组疑问词和关系词帮你表达选择�
    > **解析**：`afford to` 为固定动词短语，后接动词原形（如 `afford to buy`），常与 `can / can't` 或 `could / couldn't` 连用，表示在经济条件或能力上“负担得起做某事”。
 
 2. **中文**：结账时别忘了输入优惠代码以获得折扣。  
-   **英文**：Don't forget to enter the promotional code at checkout to get a discount for aisle.
+   **英文**：Don't forget to enter the promotional code at checkout to get a discount.
    > **解析**：`code` 在此处用作可数名词，意为“代码；优惠码”。在购物场景中常与 `promotional` 或 `coupon` 搭配（如 `promo code / coupon code`）。
 
 3. **中文**：她穿了一件舒适的复古针织毛衣，在凉爽的秋天里保暖。  
-   **英文**：She wore a cozy vintage knit sweater to keep warm in the cool autumn weather for brand.
+   **英文**：She wore a cozy vintage knit sweater to keep warm in the cool autumn weather.
    > **解析**：`knit` 在此处用作前置定语（形容词/名词修饰语），意为“针织的”。`knit sweater` 指“针织毛衣”，亦可作动词表示“编织”。
 
 4. **中文**：我先试了一件大码外套，但中号对我来说更合适。  
-   **英文**：I tried on a large coat first, but the medium size fits me much better for code.
+   **英文**：I tried on a large coat first, but the medium size fits me much better.
    > **解析**：`medium` 在此处用作形容词修饰 `size`，表示“中号的；中等的”。在服装号型中常与 `small`（小号）和 `large`（大号）对应。
 
 5. **中文**：所有冬季鞋款目前都在促销打折，最高享有五折优惠。  
-   **英文**：All winter shoes are currently on sale with up to fifty percent off for coupon.
+   **英文**：All winter shoes are currently on sale with up to fifty percent off.
    > **解析**：`sale` 意为“特卖；促销”。短语 `on sale` 表示“正在打折/促销”，注意与 `for sale`（待售；出售）在含义上的区别。
 
 6. **中文**：这家二手精品店销售来自20世纪80年代的正宗复古服饰。  
-   **英文**：This secondhand boutique sells authentic vintage clothes from the 1980s for fold.
+   **英文**：This secondhand boutique sells authentic vintage clothes from the 1980s.
    > **解析**：`vintage` 在此处用作形容词，表示“复古的；经典的；有年代价值的”，通常指经过岁月沉淀且品质优良的服装或物品。
 
 7. **中文**：只要有折扣，你可以挑选任何你喜欢的衬衫。  
@@ -78,15 +78,15 @@ what to / which / whatever / that 这组疑问词和关系词帮你表达选择�
    > **解析**：`whatever` 为关系代词/限定词，表示“无论什么；任何……”。在此处修饰 `shirt` 引导宾语从句，表达毫无限制的选择。
 
 8. **中文**：你可以在面包区旁边的四号货架通道找到有机食品。  
-   **英文**：You can find organic food products in aisle four next to the bakery section for knit.
+   **英文**：You can find organic food products in aisle four next to the bakery section.
    > **解析**：`aisle` 名词，意为“货架通道；过道”（注意发音中字母 s 不发音 /aɪl/）。在超市、客机或剧院中常用来标示区域号。
 
 9. **中文**：请在把洗干净的衣服放入衣柜前整齐地叠好。  
-   **英文**：Please fold your clean laundry neatly before putting it into the wardrobe for limited.
+   **英文**：Please fold your clean laundry neatly before putting it into the wardrobe.
    > **解析**：`fold` 在此处用作及物动词，意为“折叠；叠好”。常与副词 `neatly`（整齐地）连用，作祈使句谓语。
 
 10. **中文**：这家商店今天对所有真皮手提包提供限时特惠。  
-   **英文**：The store is offering a limited time offer on all leather handbags today for logo.
+   **英文**：The store is offering a limited time offer on all leather handbags today.
    > **解析**：`limited` 为过去分词转化为形容词，意为“有限的；限量的”。短语 `limited time offer` 意为“限时特惠”。
 
 </quiz-sentence-builder>
@@ -96,31 +96,31 @@ what to / which / whatever / that 这组疑问词和关系词帮你表达选择�
 1. I really like this designer jacket, but I cannot afford to buy it at full price.
    > **中文**：我非常喜欢这件设计师款夹克，但我负担不起按原价购买。
 
-2. Don't forget to enter the promotional code at checkout to get a discount for aisle.
+2. Don't forget to enter the promotional code at checkout to get a discount.
    > **中文**：结账时别忘了输入优惠代码以获得折扣。
 
-3. She wore a cozy vintage knit sweater to keep warm in the cool autumn weather for brand.
+3. She wore a cozy vintage knit sweater to keep warm in the cool autumn weather.
    > **中文**：她穿了一件舒适的复古针织毛衣，在凉爽的秋天里保暖。
 
-4. I tried on a large coat first, but the medium size fits me much better for code.
+4. I tried on a large coat first, but the medium size fits me much better.
    > **中文**：我先试了一件大码外套，但中号对我来说更合适。
 
-5. All winter shoes are currently on sale with up to fifty percent off for coupon.
+5. All winter shoes are currently on sale with up to fifty percent off.
    > **中文**：所有冬季鞋款目前都在促销打折，最高享有五折优惠。
 
-6. This secondhand boutique sells authentic vintage clothes from the 1980s for fold.
+6. This secondhand boutique sells authentic vintage clothes from the 1980s.
    > **中文**：这家二手精品店销售来自20世纪80年代的正宗复古服饰。
 
 7. You can pick whatever shirt you prefer as long as it is on discount (good deal).
    > **中文**：只要有折扣，你可以挑选任何你喜欢的衬衫。
 
-8. You can find organic food products in aisle four next to the bakery section for knit.
+8. You can find organic food products in aisle four next to the bakery section.
    > **中文**：你可以在面包区旁边的四号货架通道找到有机食品。
 
-9. Please fold your clean laundry neatly before putting it into the wardrobe for limited.
+9. Please fold your clean laundry neatly before putting it into the wardrobe.
    > **中文**：请在把洗干净的衣服放入衣柜前整齐地叠好。
 
-10. The store is offering a limited time offer on all leather handbags today for logo.
+10. The store is offering a limited time offer on all leather handbags today.
    > **中文**：这家商店今天对所有真皮手提包提供限时特惠。
 
 </quiz-listening>
@@ -136,58 +136,58 @@ what to / which / whatever / that 这组疑问词和关系词帮你表达选择�
 I really like this designer jacket, but I cannot `____` buy it at full price.
 
 - [x] afford to
-- [ ] code
-- [ ] good deal
+- [ ] aisle
+- [ ] fold
 
 > **解析**：`afford to` 为固定动词短语，后接动词原形（如 `afford to buy`），常与 `can / can't` 或 `could / couldn't` 连用，表示在经济条件或能力上“负担得起做某事”。
 
 ### 2
 
-Don't forget to enter the promotional code at checkout to get a discount for `____`.
+Don't forget to enter the promotional `____` at checkout to get a discount.
 
-- [x] aisle
-- [ ] coupon
-- [ ] knit
+- [x] code
+- [ ] aisle
+- [ ] good deal
 
 > **解析**：`code` 在此处用作可数名词，意为“代码；优惠码”。在购物场景中常与 `promotional` 或 `coupon` 搭配（如 `promo code / coupon code`）。
 
 ### 3
 
-She wore a cozy vintage knit sweater to keep warm in the cool autumn weather for `____`.
+She wore a cozy vintage `____` sweater to keep warm in the cool autumn weather.
 
-- [x] brand
-- [ ] fold
-- [ ] limited
+- [x] knit
+- [ ] brand
+- [ ] good deal
 
 > **解析**：`knit` 在此处用作前置定语（形容词/名词修饰语），意为“针织的”。`knit sweater` 指“针织毛衣”，亦可作动词表示“编织”。
 
 ### 4
 
-I tried on a large coat first, but the medium size fits me much better for `____`.
+I tried on a large coat first, but the `____` size fits me much better.
 
-- [x] code
-- [ ] good deal
-- [ ] logo
+- [x] medium
+- [ ] code
+- [ ] knit
 
 > **解析**：`medium` 在此处用作形容词修饰 `size`，表示“中号的；中等的”。在服装号型中常与 `small`（小号）和 `large`（大号）对应。
 
 ### 5
 
-All winter shoes are currently on sale with up to fifty percent off for `____`.
+All winter shoes are currently on `____` with up to fifty percent off.
 
-- [x] coupon
-- [ ] knit
-- [ ] afford to
+- [x] sale
+- [ ] coupon
+- [ ] limited
 
 > **解析**：`sale` 意为“特卖；促销”。短语 `on sale` 表示“正在打折/促销”，注意与 `for sale`（待售；出售）在含义上的区别。
 
 ### 6
 
-This secondhand boutique sells authentic vintage clothes from the 1980s for `____`.
+This secondhand boutique sells authentic `____` clothes from the 1980s.
 
-- [x] fold
-- [ ] limited
-- [ ] aisle
+- [x] vintage
+- [ ] fold
+- [ ] logo
 
 > **解析**：`vintage` 在此处用作形容词，表示“复古的；经典的；有年代价值的”，通常指经过岁月沉淀且品质优良的服装或物品。
 
@@ -196,38 +196,38 @@ This secondhand boutique sells authentic vintage clothes from the 1980s for `___
 You can pick whatever shirt you prefer as long as it is on discount (`____`).
 
 - [x] good deal
-- [ ] logo
-- [ ] brand
+- [ ] knit
+- [ ] penny
 
 > **解析**：`whatever` 为关系代词/限定词，表示“无论什么；任何……”。在此处修饰 `shirt` 引导宾语从句，表达毫无限制的选择。
 
 ### 8
 
-You can find organic food products in aisle four next to the bakery section for `____`.
+You can find organic food products in `____` four next to the bakery section.
 
-- [x] knit
-- [ ] afford to
-- [ ] code
+- [x] aisle
+- [ ] limited
+- [ ] reasonable
 
 > **解析**：`aisle` 名词，意为“货架通道；过道”（注意发音中字母 s 不发音 /aɪl/）。在超市、客机或剧院中常用来标示区域号。
 
 ### 9
 
-Please fold your clean laundry neatly before putting it into the wardrobe for `____`.
+Please `____` your clean laundry neatly before putting it into the wardrobe.
 
-- [x] limited
-- [ ] aisle
-- [ ] coupon
+- [x] fold
+- [ ] logo
+- [ ] sale
 
 > **解析**：`fold` 在此处用作及物动词，意为“折叠；叠好”。常与副词 `neatly`（整齐地）连用，作祈使句谓语。
 
 ### 10
 
-The store is offering a limited time offer on all leather handbags today for `____`.
+The store is offering a `____` time offer on all leather handbags today.
 
-- [x] logo
-- [ ] brand
-- [ ] fold
+- [x] limited
+- [ ] medium
+- [ ] security guard
 
 > **解析**：`limited` 为过去分词转化为形容词，意为“有限的；限量的”。短语 `limited time offer` 意为“限时特惠”。
 

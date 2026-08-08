@@ -52,15 +52,15 @@ across, antique, basement, coffee table, compare, damage, did, do, does, don't, 
 <quiz-sentence-builder>
 
 1. **中文**：我们决定签一份公园附近公寓的两年租约。  
-   **英文**：We decided to sign a two-year lease for the apartment near the park for across.
+   **英文**：We decided to sign a two-year lease for the apartment near the park.
    > **解析**：lease 可作名词或动词，在此作名词意为“租约；租赁合同”，常与 sign、renew 等动词搭配。
 
 2. **中文**：新房子有一个宽敞的地下室，可以用作家庭健身房。  
-   **英文**：The new house has a spacious basement that can be used as a home gym for antique.
+   **英文**：The new house has a spacious basement that can be used as a home gym.
    > **解析**：basement 可数名词，意为“地下室”，通常位于建筑物的地下一层。
 
 3. **中文**：我的祖父母更喜欢住在地面层（一楼），以避免爬楼梯。  
-   **英文**：My grandparents prefer living on the ground floor to avoid taking stairs for basement.
+   **英文**：My grandparents prefer living on the ground floor to avoid taking stairs.
    > **解析**：ground floor 名词短语，指“建筑物的第一层/地面层”，介词用 on（on the ground floor）。
 
 4. **中文**：搬家卡车大清早抵达，卸下我们的家具。  
@@ -68,15 +68,15 @@ across, antique, basement, coffee table, compare, damage, did, do, does, don't, 
    > **解析**：moving truck 名词短语，意为“搬家卡车/货车”，moving 为动名词作定语修饰 truck。
 
 5. **中文**：我们的房产中介带我们看了安静社区里的三栋宽敞房子。  
-   **英文**：Our real estate agent showed us three spacious houses in a quiet area for compare.
+   **英文**：Our real estate agent showed us three spacious houses in a quiet area.
    > **解析**：real estate agent 名词短语，表示“房产经纪人/中介”，real estate 意为“房地产”。
 
 6. **中文**：我们买了一张漂亮的木质茶几摆在沙发前面。  
-   **英文**：We bought a lovely wooden coffee table to place in front of the sofa for damage.
+   **英文**：We bought a lovely wooden coffee table to place in front of the sofa about across.
    > **解析**：coffee table 组合名词，意为“茶几；咖啡桌”，指放在客厅沙发前的矮桌。
 
 7. **中文**：我们喜欢在温暖的夏夜坐在前门廊上。  
-   **英文**：We love sitting on the front porch during warm summer evenings for did.
+   **英文**：We love sitting on the front porch during warm summer evenings.
    > **解析**：porch 可数名词，意为“门廊；阳台”，常搭配介词 on（on the porch）。
 
 8. **中文**：她用家族传下来的古董家具装饰客厅。  
@@ -84,45 +84,45 @@ across, antique, basement, coffee table, compare, damage, did, do, does, don't, 
    > **解析**：antique 可作形容词“古董的；古老的”或名词“古董”，在此作形容词修饰 furniture。
 
 9. **中文**：我们很高兴下个周末搬进新公寓。  
-   **英文**：We are excited to move into our new apartment next weekend for does.
+   **英文**：We are excited to move into our new apartment next weekend.
    > **解析**：move into 短语动词，意为“搬入/迁入（新居）”，后接表示地点的名词。
 
 10. **中文**：搬运重箱子时要小心，不要损坏木地板。  
-   **英文**：Be careful not to damage the wooden floor when moving heavy boxes (don't).
+   **英文**：Be careful not to damage the wooden floor when moving heavy boxes.
    > **解析**：damage 动词/名词，在此作动词表示“损坏；破坏”，后接宾语 the wooden floor。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. We decided to sign a two-year lease for the apartment near the park for across.
+1. We decided to sign a two-year lease for the apartment near the park.
    > **中文**：我们决定签一份公园附近公寓的两年租约。
 
-2. The new house has a spacious basement that can be used as a home gym for antique.
+2. The new house has a spacious basement that can be used as a home gym.
    > **中文**：新房子有一个宽敞的地下室，可以用作家庭健身房。
 
-3. My grandparents prefer living on the ground floor to avoid taking stairs for basement.
+3. My grandparents prefer living on the ground floor to avoid taking stairs.
    > **中文**：我的祖父母更喜欢住在地面层（一楼），以避免爬楼梯。
 
 4. The moving truck arrived early in the morning to unload our furniture (coffee table).
    > **中文**：搬家卡车大清早抵达，卸下我们的家具。
 
-5. Our real estate agent showed us three spacious houses in a quiet area for compare.
+5. Our real estate agent showed us three spacious houses in a quiet area.
    > **中文**：我们的房产中介带我们看了安静社区里的三栋宽敞房子。
 
-6. We bought a lovely wooden coffee table to place in front of the sofa for damage.
+6. We bought a lovely wooden coffee table to place in front of the sofa about across.
    > **中文**：我们买了一张漂亮的木质茶几摆在沙发前面。
 
-7. We love sitting on the front porch during warm summer evenings for did.
+7. We love sitting on the front porch during warm summer evenings.
    > **中文**：我们喜欢在温暖的夏夜坐在前门廊上。
 
 8. She decorates her living room with antique furniture passed down from her family.
    > **中文**：她用家族传下来的古董家具装饰客厅。
 
-9. We are excited to move into our new apartment next weekend for does.
+9. We are excited to move into our new apartment next weekend.
    > **中文**：我们很高兴下个周末搬进新公寓。
 
-10. Be careful not to damage the wooden floor when moving heavy boxes (don't).
+10. Be careful not to damage the wooden floor when moving heavy boxes.
    > **中文**：搬运重箱子时要小心，不要损坏木地板。
 
 </quiz-listening>
@@ -135,31 +135,31 @@ across, antique, basement, coffee table, compare, damage, did, do, does, don't, 
 
 ### 1
 
-We decided to sign a two-year lease for the apartment near the park for `____`.
+We decided to sign a two-year `____` for the apartment near the park.
 
-- [x] across
-- [ ] coffee table
-- [ ] did
+- [x] lease
+- [ ] across
+- [ ] compare
 
 > **解析**：lease 可作名词或动词，在此作名词意为“租约；租赁合同”，常与 sign、renew 等动词搭配。
 
 ### 2
 
-The new house has a spacious basement that can be used as a home gym for `____`.
+The new house has a spacious `____` that can be used as a home gym.
 
-- [x] antique
-- [ ] compare
-- [ ] do
+- [x] basement
+- [ ] antique
+- [ ] did
 
 > **解析**：basement 可数名词，意为“地下室”，通常位于建筑物的地下一层。
 
 ### 3
 
-My grandparents prefer living on the ground floor to avoid taking stairs for `____`.
+My grandparents prefer living on the `____` to avoid taking stairs.
 
-- [x] basement
-- [ ] damage
-- [ ] does
+- [x] ground floor
+- [ ] basement
+- [ ] did
 
 > **解析**：ground floor 名词短语，指“建筑物的第一层/地面层”，介词用 on（on the ground floor）。
 
@@ -168,68 +168,68 @@ My grandparents prefer living on the ground floor to avoid taking stairs for `__
 The moving truck arrived early in the morning to unload our furniture (`____`).
 
 - [x] coffee table
-- [ ] did
-- [ ] don't
+- [ ] compare
+- [ ] does
 
 > **解析**：moving truck 名词短语，意为“搬家卡车/货车”，moving 为动名词作定语修饰 truck。
 
 ### 5
 
-Our real estate agent showed us three spacious houses in a quiet area for `____`.
+Our `____` showed us three spacious houses in a quiet area.
 
-- [x] compare
-- [ ] do
-- [ ] across
+- [x] real estate agent
+- [ ] compare
+- [ ] does
 
 > **解析**：real estate agent 名词短语，表示“房产经纪人/中介”，real estate 意为“房地产”。
 
 ### 6
 
-We bought a lovely wooden coffee table to place in front of the sofa for `____`.
+We bought a lovely wooden coffee table to place in front of the sofa about `____`.
 
-- [x] damage
-- [ ] does
-- [ ] antique
+- [x] across
+- [ ] did
+- [ ] ground floor
 
 > **解析**：coffee table 组合名词，意为“茶几；咖啡桌”，指放在客厅沙发前的矮桌。
 
 ### 7
 
-We love sitting on the front porch during warm summer evenings for `____`.
+We love sitting on the front `____` during warm summer evenings.
 
-- [x] did
-- [ ] don't
-- [ ] basement
+- [x] porch
+- [ ] did
+- [ ] ground floor
 
 > **解析**：porch 可数名词，意为“门廊；阳台”，常搭配介词 on（on the porch）。
 
 ### 8
 
-She decorates her living room with antique furniture passed `____`wn from her family.
+She decorates her living room with `____` furniture passed down from her family.
 
-- [x] do
-- [ ] across
-- [ ] coffee table
+- [x] antique
+- [ ] does
+- [ ] main
 
 > **解析**：antique 可作形容词“古董的；古老的”或名词“古董”，在此作形容词修饰 furniture。
 
 ### 9
 
-We are excited to move into our new apartment next weekend for `____`.
+We are excited to `____` our new apartment next weekend.
 
-- [x] does
-- [ ] antique
-- [ ] compare
+- [x] move into
+- [ ] does
+- [ ] main
 
 > **解析**：move into 短语动词，意为“搬入/迁入（新居）”，后接表示地点的名词。
 
 ### 10
 
-Be careful not to damage the wooden floor when moving heavy boxes (`____`).
+Be careful not to `____` the wooden floor when moving heavy boxes.
 
-- [x] don't
-- [ ] basement
-- [ ] damage
+- [x] damage
+- [ ] ground floor
+- [ ] move out
 
 > **解析**：damage 动词/名词，在此作动词表示“损坏；破坏”，后接宾语 the wooden floor。
 

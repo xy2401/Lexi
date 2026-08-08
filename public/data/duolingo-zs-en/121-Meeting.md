@@ -66,27 +66,27 @@ on mute 表示"静音状态"。figure out 表示"弄清楚、解决"。
    > **解析**：agenda 为名词，意为“会议议程/日程表”。在句中作动词 send 的直接宾语。常与介词 on 连用（如 on the agenda），或表达 send/prepare the agenda。
 
 2. **中文**：我的电脑快没电了，所以需要插上充电器。  
-   **英文**：My laptop battery is running low, so I need to plug in the charger (aren't).
+   **英文**：My laptop battery is running low, so I need to plug in the charger.
    > **解析**：charger 为可数名词，指“充电器”。短语 plug in the charger 表示“插上充电器”，与之相对的是 unplug the charger（拔掉充电器）。
 
 3. **中文**：戴上你的耳机，这样你就能清楚听到客户说话了。  
-   **英文**：Put on your headphones so that you can hear the client clearly for charger.
+   **英文**：Put on your headphones so that you can hear the client clearly.
    > **解析**：headphones 常用复数形式，表示“头戴式耳机/耳麦”。搭配动词 put on（戴上）或 wear（佩戴）。句中的 so that 引导目的状语从句。
 
 4. **中文**：你现在处于静音状态，所以会议室里的没人能听到你说话。  
-   **英文**：You are currently on mute, so nobody in the conference room can hear you for cool.
+   **英文**：You are currently on mute, so nobody in the conference room can hear you.
    > **解析**：on mute 为介词短语作表语，意为“处于静音状态”。在网络会议中常用 You're on mute 提醒对方开启麦克风；动词短语 put mic on mute 表示“将麦克风静音”。
 
 5. **中文**：我们需要弄清楚为什么通话过程中视频连接总是中断。  
-   **英文**：We need to figure out why the video connection keeps dropping during the call for couple.
+   **英文**：We need to figure out why the video connection keeps dropping during the call.
    > **解析**：figure out 是极高频的动词短语，意为“弄清楚、解决、想出”。后面可接疑问词引导的从句（why/how/what）或名词作为宾语。
 
 6. **中文**：许多员工喜欢在周五居家办公，以节省通勤时间。  
-   **英文**：Many employees prefer to work from home on Fridays to save commuting time for figure.
+   **英文**：Many employees prefer to work from home on Fridays to save commuting time.
    > **解析**：from home 在句中修饰动词 work，组成固定表达 work from home（简称 WFH，意为“居家办公”）。from 表示来源或地点。
 
 7. **中文**：技术支持团队找到了一个导致系统变慢的隐藏文件。  
-   **英文**：The tech support team found a hidden file that was slowing down the system for first.
+   **英文**：The tech support team found a hidden file that was slowing down the system.
    > **解析**：hidden 为动词 hide 的过去分词，在此处用作形容词修饰名词 file，意为“隐藏的”。that 引导定语从句修饰 hidden file。
 
 8. **中文**：希望这个技术问题能在下午的演示之前得到解决。  
@@ -98,7 +98,7 @@ on mute 表示"静音状态"。figure out 表示"弄清楚、解决"。
    > **解析**：isn't it 为反问句/附加疑问句（tag question）的简略形式，用在陈述句后用于确认信息或寻求对方认同。陈述部分为肯定句，反问部分用否定形式。
 
 10. **中文**：升级我们办公室的网络套餐大大提高了我们的下载速度。  
-   **英文**：Upgrading our office internet plan greatly improved our download speed for headphones.
+   **英文**：Upgrading our office internet plan greatly improved our download speed.
    > **解析**：speed 为名词，意为“速度”。download speed 意为“下载速度”。greatly 为副词修饰动词 improved。
 
 </quiz-sentence-builder>
@@ -108,22 +108,22 @@ on mute 表示"静音状态"。figure out 表示"弄清楚、解决"。
 1. Could you please send me the agenda before our online meeting starts?
    > **中文**：你能在我们的线上会议开始之前把议程发给我吗？
 
-2. My laptop battery is running low, so I need to plug in the charger (aren't).
+2. My laptop battery is running low, so I need to plug in the charger.
    > **中文**：我的电脑快没电了，所以需要插上充电器。
 
-3. Put on your headphones so that you can hear the client clearly for charger.
+3. Put on your headphones so that you can hear the client clearly.
    > **中文**：戴上你的耳机，这样你就能清楚听到客户说话了。
 
-4. You are currently on mute, so nobody in the conference room can hear you for cool.
+4. You are currently on mute, so nobody in the conference room can hear you.
    > **中文**：你现在处于静音状态，所以会议室里的没人能听到你说话。
 
-5. We need to figure out why the video connection keeps dropping during the call for couple.
+5. We need to figure out why the video connection keeps dropping during the call.
    > **中文**：我们需要弄清楚为什么通话过程中视频连接总是中断。
 
-6. Many employees prefer to work from home on Fridays to save commuting time for figure.
+6. Many employees prefer to work from home on Fridays to save commuting time.
    > **中文**：许多员工喜欢在周五居家办公，以节省通勤时间。
 
-7. The tech support team found a hidden file that was slowing down the system for first.
+7. The tech support team found a hidden file that was slowing down the system.
    > **中文**：技术支持团队找到了一个导致系统变慢的隐藏文件。
 
 8. Hopefully, the technical issue will be resolved before the afternoon presentation (from home).
@@ -132,7 +132,7 @@ on mute 表示"静音状态"。figure out 表示"弄清楚、解决"。
 9. It is difficult to troubleshoot hardware issues remotely, isn't it?
    > **中文**：远程排查硬件故障挺困难的，不是吗？
 
-10. Upgrading our office internet plan greatly improved our download speed for headphones.
+10. Upgrading our office internet plan greatly improved our download speed.
    > **中文**：升级我们办公室的网络套餐大大提高了我们的下载速度。
 
 </quiz-listening>
@@ -148,78 +148,78 @@ on mute 表示"静音状态"。figure out 表示"弄清楚、解决"。
 Could you please send me the `____` before our online meeting starts?
 
 - [x] agenda
-- [ ] cool
-- [ ] first
+- [ ] aren't
+- [ ] figure
 
 > **解析**：agenda 为名词，意为“会议议程/日程表”。在句中作动词 send 的直接宾语。常与介词 on 连用（如 on the agenda），或表达 send/prepare the agenda。
 
 ### 2
 
-My laptop battery is running low, so I need to plug in the charger (`____`).
+My laptop battery is running low, so I need to plug in the `____`.
 
-- [x] aren't
-- [ ] couple
-- [ ] from home
+- [x] charger
+- [ ] aren't
+- [ ] first
 
 > **解析**：charger 为可数名词，指“充电器”。短语 plug in the charger 表示“插上充电器”，与之相对的是 unplug the charger（拔掉充电器）。
 
 ### 3
 
-Put on your headphones so that you can hear the client clearly for `____`.
+Put on your `____` so that you can hear the client clearly.
 
-- [x] charger
-- [ ] figure
-- [ ] hard
+- [x] headphones
+- [ ] charger
+- [ ] first
 
 > **解析**：headphones 常用复数形式，表示“头戴式耳机/耳麦”。搭配动词 put on（戴上）或 wear（佩戴）。句中的 so that 引导目的状语从句。
 
 ### 4
 
-You are currently on mute, so nobody in the conference room can hear you for `____`.
+You are currently `____`, so nobody in the conference room can hear you.
 
-- [x] cool
-- [ ] first
-- [ ] headphones
+- [x] on mute
+- [ ] cool
+- [ ] from home
 
 > **解析**：on mute 为介词短语作表语，意为“处于静音状态”。在网络会议中常用 You're on mute 提醒对方开启麦克风；动词短语 put mic on mute 表示“将麦克风静音”。
 
 ### 5
 
-We need to figure out why the video connection keeps dropping during the call for `____`.
+We need to `____` out why the video connection keeps dropping during the call.
 
-- [x] couple
-- [ ] from home
-- [ ] agenda
+- [x] figure
+- [ ] couple
+- [ ] headphones
 
 > **解析**：figure out 是极高频的动词短语，意为“弄清楚、解决、想出”。后面可接疑问词引导的从句（why/how/what）或名词作为宾语。
 
 ### 6
 
-Many employees prefer to work from home on Fridays to save commuting time for `____`.
+Many employees prefer to work `____` on Fridays to save commuting time.
 
-- [x] figure
-- [ ] hard
-- [ ] aren't
+- [x] from home
+- [ ] figure
+- [ ] hid
 
 > **解析**：from home 在句中修饰动词 work，组成固定表达 work from home（简称 WFH，意为“居家办公”）。from 表示来源或地点。
 
 ### 7
 
-The tech support team found a hidden file that was slowing down the system for `____`.
+The tech support team found a `____`den file that was slowing down the system.
 
-- [x] first
-- [ ] headphones
-- [ ] charger
+- [x] hid
+- [ ] first
+- [ ] hidden
 
 > **解析**：hidden 为动词 hide 的过去分词，在此处用作形容词修饰名词 file，意为“隐藏的”。that 引导定语从句修饰 hidden file。
 
 ### 8
 
-Hopefully, the technical issue will be resolved before the afternoon presentation (`____`).
+`____`, the technical issue will be resolved before the afternoon presentation (from home).
 
-- [x] from home
-- [ ] agenda
-- [ ] cool
+- [x] hopefully
+- [ ] from home
+- [ ] hidden
 
 > **解析**：hopefully 为副词，放置于句首用作句子状语（sentence adverb），表达说话者的愿望“希望、但愿”，相当于 I hope that...。
 
@@ -228,18 +228,18 @@ Hopefully, the technical issue will be resolved before the afternoon presentatio
 It is difficult to troubleshoot `____`ware issues remotely, isn't it?
 
 - [x] hard
-- [ ] aren't
-- [ ] couple
+- [ ] headphones
+- [ ] hopefully
 
 > **解析**：isn't it 为反问句/附加疑问句（tag question）的简略形式，用在陈述句后用于确认信息或寻求对方认同。陈述部分为肯定句，反问部分用否定形式。
 
 ### 10
 
-Upgrading our office internet plan greatly improved our download speed for `____`.
+Upgrading our office internet plan greatly improved our download `____`.
 
-- [x] headphones
-- [ ] charger
-- [ ] figure
+- [x] speed
+- [ ] headphones
+- [ ] hopefully
 
 > **解析**：speed 为名词，意为“速度”。download speed 意为“下载速度”。greatly 为副词修饰动词 improved。
 

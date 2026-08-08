@@ -64,7 +64,7 @@ alien, archeologist, classified, coincidence, conclusion, convinced, couldn't, f
 <quiz-sentence-builder>
 
 1. **中文**：科学家们提出了一种新理论来解释古金字塔是如何建造的。  
-   **英文**：Scientists have proposed a new theory to explain how the ancient pyramids were built for alien.
+   **英文**：Scientists have proposed a new theory to explain how the ancient pyramids were built.
    > **解析**：`theory` 是名词，意为“理论、学说”，常用搭配 `propose a theory`（提出理论）。
 
 2. **中文**：首席考古学家在沙漠废墟深处发现了一座隐藏的坟墓。  
@@ -72,23 +72,23 @@ alien, archeologist, classified, coincidence, conclusion, convinced, couldn't, f
    > **解析**：`archeologist`（亦可拼作 `archaeologist`）是名词，意为“考古学家”。
 
 3. **中文**：许多历史学家对外星人参与的说法依然持怀疑态度。  
-   **英文**：Many historians remain skeptical about the claims of alien involvement for classified.
+   **英文**：Many historians remain skeptical about the claims of alien involvement.
    > **解析**：`skeptical` 是形容词，意为“怀疑的、不轻信的”，常用搭配 `be skeptical about...`。
 
 4. **中文**：在审查了证据之后，她完全确信这份文件是真的。  
-   **英文**：After reviewing the evidence, she was fully convinced that the document was real for coincidence.
+   **英文**：After reviewing the evidence, she was fully convinced that the document was real.
    > **解析**：`convinced` 是形容词，意为“确信的、信服的”，常用搭配 `be convinced that...`。
 
 5. **中文**：在不同国家找到两件相似的手工艺品是一个非同寻常的巧合。  
-   **英文**：Finding two similar artifacts in different countries was an extraordinary coincidence for conclusion.
+   **英文**：Finding two similar artifacts in different countries was an extraordinary coincidence.
    > **解析**：`coincidence` 是名词，意为“巧合”，由 `co-` + `incidence` 构成。
 
 6. **中文**：有关这一谜团的政府文件被保密了几十年。  
-   **英文**：The government documents regarding the mystery were kept classified for decades for convinced.
+   **英文**：The government documents regarding the mystery were kept classified.
    > **解析**：`classified` 是形容词，在此意为“保密的、机密的”，原意为“分类的”。
 
 7. **中文**：为了讨论起见，我们假设这张古地图是真的。  
-   **英文**：Let's assume, for the sake of argument, that the ancient map is authentic (couldn't).
+   **英文**：Let's assume, for the sake of argument, that the ancient map is authentic.
    > **解析**：`for the sake of argument` 是固定短语，意为“为了讨论/争论起见（假设某种前提）”。
 
 8. **中文**：尽管可能性极低，一些研究人员仍在这项稀奇的假说中进行探索。  
@@ -96,7 +96,7 @@ alien, archeologist, classified, coincidence, conclusion, convinced, couldn't, f
    > **解析**：`improbable` 是形容词，前缀 `im-` + `probable`，意为“不太可能的、不大可能发生的”。
 
 9. **中文**：埃及雄伟的金字塔继续惊艳着来自世界各地的游客。  
-   **英文**：The majestic pyramids of Egypt continue to amaze visitors from around the world for galaxy.
+   **英文**：The majestic pyramids of Egypt continue to amaze visitors from around the world about conclusion.
    > **解析**：`pyramids` 是复数名词，特指“金字塔”，作句中的主语。
 
 10. **中文**：我常常纳闷为建造这座纪念碑的工人当年的生活是什么样的。  
@@ -107,31 +107,31 @@ alien, archeologist, classified, coincidence, conclusion, convinced, couldn't, f
 
 <quiz-listening>
 
-1. Scientists have proposed a new theory to explain how the ancient pyramids were built for alien.
+1. Scientists have proposed a new theory to explain how the ancient pyramids were built.
    > **中文**：科学家们提出了一种新理论来解释古金字塔是如何建造的。
 
 2. The lead archeologist discovered a hidden tomb deep inside the desert ruins.
    > **中文**：首席考古学家在沙漠废墟深处发现了一座隐藏的坟墓。
 
-3. Many historians remain skeptical about the claims of alien involvement for classified.
+3. Many historians remain skeptical about the claims of alien involvement.
    > **中文**：许多历史学家对外星人参与的说法依然持怀疑态度。
 
-4. After reviewing the evidence, she was fully convinced that the document was real for coincidence.
+4. After reviewing the evidence, she was fully convinced that the document was real.
    > **中文**：在审查了证据之后，她完全确信这份文件是真的。
 
-5. Finding two similar artifacts in different countries was an extraordinary coincidence for conclusion.
+5. Finding two similar artifacts in different countries was an extraordinary coincidence.
    > **中文**：在不同国家找到两件相似的手工艺品是一个非同寻常的巧合。
 
-6. The government documents regarding the mystery were kept classified for decades for convinced.
+6. The government documents regarding the mystery were kept classified.
    > **中文**：有关这一谜团的政府文件被保密了几十年。
 
-7. Let's assume, for the sake of argument, that the ancient map is authentic (couldn't).
+7. Let's assume, for the sake of argument, that the ancient map is authentic.
    > **中文**：为了讨论起见，我们假设这张古地图是真的。
 
 8. Although it is highly improbable, some researchers still explore the strange hypothesis (for the sake of argument).
    > **中文**：尽管可能性极低，一些研究人员仍在这项稀奇的假说中进行探索。
 
-9. The majestic pyramids of Egypt continue to amaze visitors from around the world for galaxy.
+9. The majestic pyramids of Egypt continue to amaze visitors from around the world about conclusion.
    > **中文**：埃及雄伟的金字塔继续惊艳着来自世界各地的游客。
 
 10. I often wonder what life was like for the workers who constructed the monument (have been).
@@ -147,11 +147,11 @@ alien, archeologist, classified, coincidence, conclusion, convinced, couldn't, f
 
 ### 1
 
-Scientists have proposed a new theory to explain how the ancient pyramids were built for `____`.
+Scientists have proposed a new theory to explain how the ancient `____` were built.
 
-- [x] alien
-- [ ] coincidence
-- [ ] couldn't
+- [x] pyramids
+- [ ] alien
+- [ ] conclusion
 
 > **解析**：`theory` 是名词，意为“理论、学说”，常用搭配 `propose a theory`（提出理论）。
 
@@ -160,78 +160,78 @@ Scientists have proposed a new theory to explain how the ancient pyramids were b
 The lead `____` discovered a hidden tomb deep inside the desert ruins.
 
 - [x] archeologist
-- [ ] conclusion
-- [ ] for the sake of argument
+- [ ] classified
+- [ ] couldn't
 
 > **解析**：`archeologist`（亦可拼作 `archaeologist`）是名词，意为“考古学家”。
 
 ### 3
 
-Many historians remain skeptical about the claims of alien involvement for `____`.
+Many historians remain skeptical about the claims of `____` involvement.
 
-- [x] classified
-- [ ] convinced
-- [ ] galaxy
+- [x] alien
+- [ ] coincidence
+- [ ] for the sake of argument
 
 > **解析**：`skeptical` 是形容词，意为“怀疑的、不轻信的”，常用搭配 `be skeptical about...`。
 
 ### 4
 
-After reviewing the evidence, she was fully convinced that the document was real for `____`.
+After reviewing the evidence, she was fully `____` that the document was real.
 
-- [x] coincidence
-- [ ] couldn't
-- [ ] have been
+- [x] convinced
+- [ ] coincidence
+- [ ] galaxy
 
 > **解析**：`convinced` 是形容词，意为“确信的、信服的”，常用搭配 `be convinced that...`。
 
 ### 5
 
-Finding two similar artifacts in different countries was an extraordinary coincidence for `____`.
+Finding two similar artifacts in different countries was an extraordinary `____`.
 
-- [x] conclusion
-- [ ] for the sake of argument
-- [ ] alien
+- [x] coincidence
+- [ ] convinced
+- [ ] have been
 
 > **解析**：`coincidence` 是名词，意为“巧合”，由 `co-` + `incidence` 构成。
 
 ### 6
 
-The government documents regarding the mystery were kept classified for decades for `____`.
+The government documents regarding the mystery were kept `____`.
 
-- [x] convinced
-- [ ] galaxy
-- [ ] archeologist
+- [x] classified
+- [ ] couldn't
+- [ ] if so
 
 > **解析**：`classified` 是形容词，在此意为“保密的、机密的”，原意为“分类的”。
 
 ### 7
 
-Let's assume, for the sake of argument, that the ancient map is authentic (`____`).
+Let's assume, `____`, that the ancient map is authentic.
 
-- [x] couldn't
-- [ ] have been
-- [ ] classified
+- [x] for the sake of argument
+- [ ] couldn't
+- [ ] if we assume
 
 > **解析**：`for the sake of argument` 是固定短语，意为“为了讨论/争论起见（假设某种前提）”。
 
 ### 8
 
-Although it is highly improbable, some researchers still explore the strange hypothesis (`____`).
+Although it is highly `____`, some researchers still explore the strange hypothesis (for the sake of argument).
 
-- [x] for the sake of argument
-- [ ] alien
-- [ ] coincidence
+- [x] improbable
+- [ ] for the sake of argument
+- [ ] if we assume
 
 > **解析**：`improbable` 是形容词，前缀 `im-` + `probable`，意为“不太可能的、不大可能发生的”。
 
 ### 9
 
-The majestic pyramids of Egypt continue to amaze visitors from around the world for `____`.
+The majestic pyramids of Egypt continue to amaze visitors from around the world about `____`.
 
-- [x] galaxy
-- [ ] archeologist
-- [ ] conclusion
+- [x] conclusion
+- [ ] have been
+- [ ] let's say
 
 > **解析**：`pyramids` 是复数名词，特指“金字塔”，作句中的主语。
 
@@ -240,8 +240,8 @@ The majestic pyramids of Egypt continue to amaze visitors from around the world 
 I often wonder what life was like for the workers who constructed the monument (`____`).
 
 - [x] have been
-- [ ] classified
-- [ ] convinced
+- [ ] if so
+- [ ] pyramids
 
 > **解析**：`wonder` 在此作动词，意为“感到好奇、想知道”，后接宾语从句。
 

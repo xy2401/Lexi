@@ -74,15 +74,15 @@ American dream, after all, american, assume, cheerleader, cliché, competitive, 
    > **解析**：`cheerleader` 可数名词，意为“拉拉队员；支持者/鼓吹者”。
 
 3. **中文**：阅读报告后，我们得出了第一印象可能具有误导性的结论。  
-   **英文**：After reading the report, we came to the conclusion that first impressions can be misleading for american.
+   **英文**：After reading the report, we came to the conclusion that first impressions can be misleading.
    > **解析**：`conclusion` 可数名词，意为“结论；推论”。固定搭配 `come to the conclusion that...`（得出……的结论）。
 
 4. **中文**：看起来他似乎很安静，但他实际上非常喜欢参与热烈的辩论。  
-   **英文**：It might seem that he is quiet, but he actually loves engaging in lively debates for assume.
+   **英文**：It might seem that he is quiet, but he actually loves engaging in lively debates.
    > **解析**：`it might seem that...` 为推测句型，意为“看起来似乎……”，表达基于初步印象的不确定推断。
 
 5. **中文**：他可能没有意识到自己的言语对团队士气产生了多大的影响。  
-   **英文**：He might not have realized how much his words influenced the team's morale for cheerleader.
+   **英文**：He might not have realized how much his words influenced the team's morale.
    > **解析**：`might not have + 过去分词` 表达对过去发生事情的不确定否定推测（意为“可能没有做过某事”）。
 
 6. **中文**：我不敢确定仅仅依赖刻板印象是否是一种明智的做法。  
@@ -90,15 +90,15 @@ American dream, after all, american, assume, cheerleader, cliché, competitive, 
    > **解析**：`not sure that...` 表达质疑或不确定性，后接从句。
 
 7. **中文**：期望每个人都赞同你的第一印象是完全不切实际的。  
-   **英文**：Expecting everyone to agree with your initial impression is completely unrealistic for competitive.
+   **英文**：Expecting everyone to agree with your initial impression is completely unrealistic.
    > **解析**：`unrealistic` 形容词，意为“不切实际的；不现实的”，由前缀 `un-` + `realistic` 构成。
 
 8. **中文**：别对他太苛刻；毕竟，这是他第一次做演讲。  
-   **英文**：Don't be too hard on him; after all, it was his very first time giving a presentation for conclusion.
+   **英文**：Don't be too hard on him; after all, it was his very first time giving a presentation about american.
    > **解析**：`after all` 插入语短语，意为“毕竟；终究”，用于引出解释或理由。
 
 9. **中文**：说“一见钟情”已经成为浪漫电影中常见的陈词滥调。  
-   **英文**：Saying 'love at first sight' has become a common cliché in romantic movies for cowboy.
+   **英文**：Saying 'love at first sight' has become a common cliché in romantic movies.
    > **解析**：`cliché` 可数名词，在此读作 /kliːˈʃeɪ/，意为“陈词滥调；老套的说法”。
 
 10. **中文**：这所大学以拥有文化多元的学生群体而自豪。  
@@ -115,25 +115,25 @@ American dream, after all, american, assume, cheerleader, cliché, competitive, 
 2. She was a popular cheerleader in high school before studying law at university (after all).
    > **中文**：在大学学习法律之前，她曾是高中里受欢迎的拉拉队员。
 
-3. After reading the report, we came to the conclusion that first impressions can be misleading for american.
+3. After reading the report, we came to the conclusion that first impressions can be misleading.
    > **中文**：阅读报告后，我们得出了第一印象可能具有误导性的结论。
 
-4. It might seem that he is quiet, but he actually loves engaging in lively debates for assume.
+4. It might seem that he is quiet, but he actually loves engaging in lively debates.
    > **中文**：看起来他似乎很安静，但他实际上非常喜欢参与热烈的辩论。
 
-5. He might not have realized how much his words influenced the team's morale for cheerleader.
+5. He might not have realized how much his words influenced the team's morale.
    > **中文**：他可能没有意识到自己的言语对团队士气产生了多大的影响。
 
 6. I am not sure that relying solely on stereotypes is a wise approach for cliché.
    > **中文**：我不敢确定仅仅依赖刻板印象是否是一种明智的做法。
 
-7. Expecting everyone to agree with your initial impression is completely unrealistic for competitive.
+7. Expecting everyone to agree with your initial impression is completely unrealistic.
    > **中文**：期望每个人都赞同你的第一印象是完全不切实际的。
 
-8. Don't be too hard on him; after all, it was his very first time giving a presentation for conclusion.
+8. Don't be too hard on him; after all, it was his very first time giving a presentation about american.
    > **中文**：别对他太苛刻；毕竟，这是他第一次做演讲。
 
-9. Saying 'love at first sight' has become a common cliché in romantic movies for cowboy.
+9. Saying 'love at first sight' has become a common cliché in romantic movies.
    > **中文**：说“一见钟情”已经成为浪漫电影中常见的陈词滥调。
 
 10. The university prides itself on having a culturally diverse student body.
@@ -152,8 +152,8 @@ American dream, after all, american, assume, cheerleader, cliché, competitive, 
 Many immigrants worked tirelessly to pursue the `____` of freedom and prosperity.
 
 - [x] American dream
-- [ ] assume
-- [ ] competitive
+- [ ] after all
+- [ ] cliché
 
 > **解析**：`American dream` 名词短语，指“美国梦”（即通过努力工作获得成功与幸福的社会理想）。
 
@@ -162,38 +162,38 @@ Many immigrants worked tirelessly to pursue the `____` of freedom and prosperity
 She was a popular cheerleader in high school before studying law at university (`____`).
 
 - [x] after all
-- [ ] cheerleader
-- [ ] conclusion
+- [ ] american
+- [ ] competitive
 
 > **解析**：`cheerleader` 可数名词，意为“拉拉队员；支持者/鼓吹者”。
 
 ### 3
 
-After reading the report, we came to the conclusion that first impressions can be misleading for `____`.
+After reading the report, we came to the `____` that first impressions can be misleading.
 
-- [x] american
-- [ ] cliché
-- [ ] cowboy
+- [x] conclusion
+- [ ] american
+- [ ] competitive
 
 > **解析**：`conclusion` 可数名词，意为“结论；推论”。固定搭配 `come to the conclusion that...`（得出……的结论）。
 
 ### 4
 
-It might seem that he is quiet, but he actually loves engaging in lively debates for `____`.
+`____` he is quiet, but he actually loves engaging in lively debates.
 
-- [x] assume
-- [ ] competitive
-- [ ] diverse
+- [x] it might seem that
+- [ ] assume
+- [ ] conclusion
 
 > **解析**：`it might seem that...` 为推测句型，意为“看起来似乎……”，表达基于初步印象的不确定推断。
 
 ### 5
 
-He might not have realized how much his words influenced the team's morale for `____`.
+He `____` realized how much his words influenced the team's morale.
 
-- [x] cheerleader
-- [ ] conclusion
-- [ ] American dream
+- [x] might not have
+- [ ] cheerleader
+- [ ] cowboy
 
 > **解析**：`might not have + 过去分词` 表达对过去发生事情的不确定否定推测（意为“可能没有做过某事”）。
 
@@ -202,38 +202,38 @@ He might not have realized how much his words influenced the team's morale for `
 I am not sure that relying solely on stereotypes is a wise approach for `____`.
 
 - [x] cliché
-- [ ] cowboy
-- [ ] after all
+- [ ] competitive
+- [ ] first impression
 
 > **解析**：`not sure that...` 表达质疑或不确定性，后接从句。
 
 ### 7
 
-Expecting everyone to agree with your initial impression is completely unrealistic for `____`.
+Expecting everyone to agree with your initial impression is completely `____`.
 
-- [x] competitive
-- [ ] diverse
-- [ ] american
+- [x] unrealistic
+- [ ] competitive
+- [ ] first impression
 
 > **解析**：`unrealistic` 形容词，意为“不切实际的；不现实的”，由前缀 `un-` + `realistic` 构成。
 
 ### 8
 
-Don't be too hard on him; after all, it was his very first time giving a presentation for `____`.
+Don't be too hard on him; after all, it was his very first time giving a presentation about `____`.
 
-- [x] conclusion
-- [ ] American dream
-- [ ] assume
+- [x] american
+- [ ] cowboy
+- [ ] it seems that
 
 > **解析**：`after all` 插入语短语，意为“毕竟；终究”，用于引出解释或理由。
 
 ### 9
 
-Saying 'love at first sight' has become a common cliché in romantic movies for `____`.
+Saying '`____`' has become a common cliché in romantic movies.
 
-- [x] cowboy
-- [ ] after all
-- [ ] cheerleader
+- [x] love at first sight
+- [ ] cowboy
+- [ ] it seems that
 
 > **解析**：`cliché` 可数名词，在此读作 /kliːˈʃeɪ/，意为“陈词滥调；老套的说法”。
 
@@ -242,8 +242,8 @@ Saying 'love at first sight' has become a common cliché in romantic movies for 
 The university prides itself on having a culturally `____` student body.
 
 - [x] diverse
-- [ ] american
-- [ ] cliché
+- [ ] first impression
+- [ ] might have
 
 > **解析**：`diverse` 形容词，意为“多元的；多样化的”。修饰名词 `student body`。
 

@@ -62,77 +62,77 @@ because 引导原因状语从句。among 表示"在…之间（三者以上）"�
 <quiz-sentence-builder>
 
 1. **中文**：请问，您能告诉我们哪个方向是通往山顶的吗？  
-   **英文**：Excuse me, could you tell us which direction leads to the mountain peak? for allowed.
+   **英文**：Excuse me, could you tell us which direction leads to the mountain peak.
    > **解析**：direction 为名词，意为“方向”。which direction 引导宾语从句。lead to 表示“通向/导致”。
 
 2. **中文**：徒步者们在悬崖边停下脚步，俯瞰下方绿色的山谷。  
-   **英文**：Hikers paused on the cliff edge to look down at the green valley below for among.
+   **英文**：Hikers paused on the cliff edge to look down at the green valley below.
    > **解析**：valley 为名词，意为“山谷、溪谷”。look down at 意为“俯瞰/向下看”。
 
 3. **中文**：在日落前到达山顶需要四个小时的持续攀登。  
-   **英文**：Reaching the mountain peak before sunset requires four hours of continuous climbing for ancient.
+   **英文**：Reaching the mountain peak before sunset requires four hours of continuous climbing.
    > **解析**：peak 为名词，意为“山峰、顶峰”。reach the peak 意为“登顶”。continuous 意为“持续的”。
 
 4. **中文**：参加户外活动时，一定要穿结实的靴子和合适的装备。  
-   **英文**：Always wear sturdy boots and suitable gear when participating in outdoor activities for ant.
+   **英文**：Always wear sturdy boots and suitable gear when participating in outdoor activities.
    > **解析**：outdoor 为形容词，意为“室外的、户外的”。作定语修饰 activities。副词形式为 outdoors。
 
 5. **中文**：这条徒步小径会带你经过一座建于数百年前的古老石桥。  
-   **英文**：The hiking path takes you past an ancient stone bridge built hundreds of years ago for beauty.
+   **英文**：The hiking path takes you past an ancient stone bridge built hundreds of years ago.
    > **解析**：ancient 为形容词，意为“古老的、古代的”。built... 为过去分词短语作后置定语。
 
 6. **中文**：他捡起一根木质手杖，以帮助自己在崎岖的步道上保持平衡。  
-   **英文**：He picked up a wooden walking stick to help balance himself on the rocky trail for because.
+   **英文**：He picked up a wooden walking stick to help balance himself on the rocky trail.
    > **解析**：stick 在句中指“手杖、木棍”（walking stick）。balance himself 意为“使自己保持平衡”。
 
 7. **中文**：记得喷防虫喷雾，以保护自己在树林里不被蚊子叮咬。  
-   **英文**：Remember to apply insect spray to protect yourself from mosquito bites in the woods for butterfly.
+   **英文**：Remember to apply insect spray to protect yourself from mosquito bites in the woods.
    > **解析**：mosquito 为名词，意为“蚊子”。mosquito bite 表示“蚊子叮咬”。apply insect spray 意为“涂抹/喷防虫喷雾”。
 
 8. **中文**：我们在大松树下面凉爽的树荫里休息。  
-   **英文**：We rested in the cool shade underneath a huge pine tree for close.
+   **英文**：We rested in the cool shade underneath a huge pine tree.
    > **解析**：underneath 在此处用作介词，意为“在...下面”。强调位于垂直正下方。
 
 9. **中文**：如果这条步道因维修而关闭，我们今天就必须去别的什么地方徒步了。  
-   **英文**：If this trail is closed for repairs, we will have to hike somewhere else today for direction.
+   **英文**：If this trail is closed for repairs, we will have to hike somewhere else today.
    > **解析**：somewhere else 为副词短语，意为“在别的什么地方”。在句中作地点状语。
 
 10. **中文**：没有适当的许可，在国家公园内是不允许露营的。  
-   **英文**：Camping is not allowed inside the national park without a proper permit for dusty.
+   **英文**：Camping is not allowed inside the national park without a proper permit.
    > **解析**：allowed 为动词 allow 的过去分词，构成被动语态（is not allowed），意为“被允许”。proper permit 意为“适当的许可”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Excuse me, could you tell us which direction leads to the mountain peak? for allowed.
+1. Excuse me, could you tell us which direction leads to the mountain peak.
    > **中文**：请问，您能告诉我们哪个方向是通往山顶的吗？
 
-2. Hikers paused on the cliff edge to look down at the green valley below for among.
+2. Hikers paused on the cliff edge to look down at the green valley below.
    > **中文**：徒步者们在悬崖边停下脚步，俯瞰下方绿色的山谷。
 
-3. Reaching the mountain peak before sunset requires four hours of continuous climbing for ancient.
+3. Reaching the mountain peak before sunset requires four hours of continuous climbing.
    > **中文**：在日落前到达山顶需要四个小时的持续攀登。
 
-4. Always wear sturdy boots and suitable gear when participating in outdoor activities for ant.
+4. Always wear sturdy boots and suitable gear when participating in outdoor activities.
    > **中文**：参加户外活动时，一定要穿结实的靴子和合适的装备。
 
-5. The hiking path takes you past an ancient stone bridge built hundreds of years ago for beauty.
+5. The hiking path takes you past an ancient stone bridge built hundreds of years ago.
    > **中文**：这条徒步小径会带你经过一座建于数百年前的古老石桥。
 
-6. He picked up a wooden walking stick to help balance himself on the rocky trail for because.
+6. He picked up a wooden walking stick to help balance himself on the rocky trail.
    > **中文**：他捡起一根木质手杖，以帮助自己在崎岖的步道上保持平衡。
 
-7. Remember to apply insect spray to protect yourself from mosquito bites in the woods for butterfly.
+7. Remember to apply insect spray to protect yourself from mosquito bites in the woods.
    > **中文**：记得喷防虫喷雾，以保护自己在树林里不被蚊子叮咬。
 
-8. We rested in the cool shade underneath a huge pine tree for close.
+8. We rested in the cool shade underneath a huge pine tree.
    > **中文**：我们在大松树下面凉爽的树荫里休息。
 
-9. If this trail is closed for repairs, we will have to hike somewhere else today for direction.
+9. If this trail is closed for repairs, we will have to hike somewhere else today.
    > **中文**：如果这条步道因维修而关闭，我们今天就必须去别的什么地方徒步了。
 
-10. Camping is not allowed inside the national park without a proper permit for dusty.
+10. Camping is not allowed inside the national park without a proper permit.
    > **中文**：没有适当的许可，在国家公园内是不允许露营的。
 
 </quiz-listening>
@@ -145,101 +145,101 @@ because 引导原因状语从句。among 表示"在…之间（三者以上）"�
 
 ### 1
 
-Excuse me, could you tell us which direction leads to the mountain peak? for `____`.
+Excuse me, could you tell us which `____` leads to the mountain peak.
 
-- [x] allowed
-- [ ] ant
-- [ ] butterfly
+- [x] direction
+- [ ] allowed
+- [ ] beauty
 
 > **解析**：direction 为名词，意为“方向”。which direction 引导宾语从句。lead to 表示“通向/导致”。
 
 ### 2
 
-Hikers paused on the cliff edge to look down at the green valley below for `____`.
+Hikers paused on the cliff edge to look down at the green `____` below.
 
-- [x] among
-- [ ] beauty
-- [ ] close
+- [x] valley
+- [ ] among
+- [ ] because
 
 > **解析**：valley 为名词，意为“山谷、溪谷”。look down at 意为“俯瞰/向下看”。
 
 ### 3
 
-Reaching the mountain peak before sunset requires four hours of continuous climbing for `____`.
+Reaching the mountain `____` before sunset requires four hours of continuous climbing.
 
-- [x] ancient
-- [ ] because
-- [ ] direction
+- [x] peak
+- [ ] ancient
+- [ ] butterfly
 
 > **解析**：peak 为名词，意为“山峰、顶峰”。reach the peak 意为“登顶”。continuous 意为“持续的”。
 
 ### 4
 
-Always wear sturdy boots and suitable gear when participating in outdoor activities for `____`.
+Always wear sturdy boots and suitable gear when participating in `____` activities.
 
-- [x] ant
-- [ ] butterfly
-- [ ] dusty
+- [x] outdoor
+- [ ] ant
+- [ ] close
 
 > **解析**：outdoor 为形容词，意为“室外的、户外的”。作定语修饰 activities。副词形式为 outdoors。
 
 ### 5
 
-The hiking path takes you past an ancient stone bridge built hundreds of years ago for `____`.
+The hiking path takes you past an `____` stone bridge built hundreds of years ago.
 
-- [x] beauty
-- [ ] close
-- [ ] allowed
+- [x] ancient
+- [ ] because
+- [ ] dusty
 
 > **解析**：ancient 为形容词，意为“古老的、古代的”。built... 为过去分词短语作后置定语。
 
 ### 6
 
-He picked up a wooden walking stick to help balance himself on the rocky trail for `____`.
+He picked up a wooden walking `____` to help balance himself on the rocky trail.
 
-- [x] because
-- [ ] direction
-- [ ] among
+- [x] stick
+- [ ] because
+- [ ] dusty
 
 > **解析**：stick 在句中指“手杖、木棍”（walking stick）。balance himself 意为“使自己保持平衡”。
 
 ### 7
 
-Remember to apply insect spray to protect yourself from mosquito bites in the woods for `____`.
+Remember to apply insect spray to protect yourself from `____` bites in the woods.
 
-- [x] butterfly
-- [ ] dusty
-- [ ] ancient
+- [x] mosquito
+- [ ] butterfly
+- [ ] gentle
 
 > **解析**：mosquito 为名词，意为“蚊子”。mosquito bite 表示“蚊子叮咬”。apply insect spray 意为“涂抹/喷防虫喷雾”。
 
 ### 8
 
-We rested in the cool shade underneath a huge pine tree for `____`.
+We rested in the cool shade `____` a huge pine tree.
 
-- [x] close
-- [ ] allowed
-- [ ] ant
+- [x] underneath
+- [ ] close
+- [ ] get
 
 > **解析**：underneath 在此处用作介词，意为“在...下面”。强调位于垂直正下方。
 
 ### 9
 
-If this trail is closed for repairs, we will have to hike somewhere else today for `____`.
+If this trail is `____`d for repairs, we will have to hike somewhere else today.
 
-- [x] direction
-- [ ] among
-- [ ] beauty
+- [x] close
+- [ ] dusty
+- [ ] natural
 
 > **解析**：somewhere else 为副词短语，意为“在别的什么地方”。在句中作地点状语。
 
 ### 10
 
-Camping is not allowed inside the national park without a proper permit for `____`.
+Camping is not `____` inside the national park without a proper permit.
 
-- [x] dusty
-- [ ] ancient
-- [ ] because
+- [x] allowed
+- [ ] gentle
+- [ ] nowhere
 
 > **解析**：allowed 为动词 allow 的过去分词，构成被动语态（is not allowed），意为“被允许”。proper permit 意为“适当的许可”。
 

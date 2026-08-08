@@ -66,39 +66,39 @@ nightmare 表示"噩梦"。the dark 表示"黑暗"（特指）。
    > **解析**：nightmare 为名词，意为“噩梦”。have a nightmare 表示“做噩梦”。wake up sweating 表示“出汗醒来”。
 
 2. **中文**：我把闹钟定在早上六点，这样我就不会睡过头了。  
-   **英文**：I set my alarm clock for six in the morning so I would not oversleep for ambulance.
+   **英文**：I set my alarm clock for six in the morning so I would not oversleep about ambulance.
    > **解析**：alarm clock 为名词短语，意为“闹钟”。set the alarm clock 表示“设闹钟”。oversleep 意为“睡过头”。
 
 3. **中文**：母亲唱了一首甜美的摇篮曲，帮助她的新生婴儿轻柔入睡。  
-   **英文**：The mother sang a sweet lullaby to help her newborn baby fall asleep gently for angel.
+   **英文**：The mother sang a sweet lullaby to help her newborn baby fall asleep gently.
    > **解析**：lullaby 为名词，意为“摇篮曲、催眠曲”。sing a lullaby 表示“唱摇篮曲”。
 
 4. **中文**：购买一张舒适的记忆棉床垫显著改善了他的睡眠质量。  
-   **英文**：Buying a comfortable memory foam mattress improved his sleep quality significantly for cough.
+   **英文**：Buying a comfortable memory foam mattress improved his sleep quality significantly.
    > **解析**：mattress 为名词，意为“床垫”。memory foam mattress 指“记忆棉床垫”。improve sleep quality 表示“改善睡眠质量”。
 
 5. **中文**：卧室墙上的暗影在半夜看起来非常吓人。  
-   **英文**：The dark shadow on the bedroom wall looked very scary in the middle of the night for fan.
+   **英文**：The dark shadow on the bedroom wall looked very scary in the middle of the night.
    > **解析**：scary 为形容词，意为“吓人的、恐怖的”。修饰事物（shadow）。修饰人的感觉用 scared。
 
 6. **中文**：猫咪静静地走过卧室地毯，没有发出任何声音。  
-   **英文**：The cat walked silently across the bedroom carpet without making any sound for flu.
+   **英文**：The cat walked silently across the bedroom carpet without making any sound.
    > **解析**：silently 为副词，意为“静静地、默默地”。修饰动词 walked。without making any sound 意为“不发出声音”。
 
 7. **中文**：在星空下露营时，睡在温暖的睡袋里能让你保持舒适。  
-   **英文**：When camping under the stars, sleeping in a warm sleeping bag keeps you cozy for fluffy.
+   **英文**：When camping under the stars, sleeping in a warm sleeping bag keeps you cozy.
    > **解析**：sleeping bag 为名词短语，意为“睡袋”。camping 意为“露营”。
 
 8. **中文**：有些小孩子害怕黑暗，更喜欢开着夜灯。  
-   **英文**：Some young children feel afraid of the dark and prefer to leave a nightlight on for hole.
+   **英文**：Some young children feel afraid of the dark and prefer to leave a nightlight on.
    > **解析**：the dark 为名词短语，意为“黑暗、黑夜”。be afraid of the dark 表示“害怕黑暗”。leave a light on 意为“让灯开着”。
 
 9. **中文**：令人惊讶的是，喝热草本茶帮助她快速进入了深度睡眠。  
-   **英文**：Surprisingly, drinking warm herbal tea helped her fall into a deep sleep quickly for lightning.
+   **英文**：Surprisingly, drinking warm herbal tea helped her fall into a deep sleep quickly.
    > **解析**：surprisingly 为副词，置于句首作句子状语，意为“令人惊讶地、出乎意料地”。
 
 10. **中文**：窗外刺耳的街道噪音会导致令人不快的睡眠环境。  
-   **英文**：Loud street noise outside the window can cause an unpleasant sleeping environment for lullaby.
+   **英文**：Loud street noise outside the window can cause an unpleasant sleeping environment.
    > **解析**：unpleasant 为形容词，前缀 un- 表示否定，意为“令人不快的、讨厌的”。修饰 sleeping environment。
 
 </quiz-sentence-builder>
@@ -108,31 +108,31 @@ nightmare 表示"噩梦"。the dark 表示"黑暗"（特指）。
 1. She woke up sweating after having a scary nightmare about being chased (alarm clock).
    > **中文**：在做一个关于被追赶的恐怖噩梦后，她出着汗醒了过来。
 
-2. I set my alarm clock for six in the morning so I would not oversleep for ambulance.
+2. I set my alarm clock for six in the morning so I would not oversleep about ambulance.
    > **中文**：我把闹钟定在早上六点，这样我就不会睡过头了。
 
-3. The mother sang a sweet lullaby to help her newborn baby fall asleep gently for angel.
+3. The mother sang a sweet lullaby to help her newborn baby fall asleep gently.
    > **中文**：母亲唱了一首甜美的摇篮曲，帮助她的新生婴儿轻柔入睡。
 
-4. Buying a comfortable memory foam mattress improved his sleep quality significantly for cough.
+4. Buying a comfortable memory foam mattress improved his sleep quality significantly.
    > **中文**：购买一张舒适的记忆棉床垫显著改善了他的睡眠质量。
 
-5. The dark shadow on the bedroom wall looked very scary in the middle of the night for fan.
+5. The dark shadow on the bedroom wall looked very scary in the middle of the night.
    > **中文**：卧室墙上的暗影在半夜看起来非常吓人。
 
-6. The cat walked silently across the bedroom carpet without making any sound for flu.
+6. The cat walked silently across the bedroom carpet without making any sound.
    > **中文**：猫咪静静地走过卧室地毯，没有发出任何声音。
 
-7. When camping under the stars, sleeping in a warm sleeping bag keeps you cozy for fluffy.
+7. When camping under the stars, sleeping in a warm sleeping bag keeps you cozy.
    > **中文**：在星空下露营时，睡在温暖的睡袋里能让你保持舒适。
 
-8. Some young children feel afraid of the dark and prefer to leave a nightlight on for hole.
+8. Some young children feel afraid of the dark and prefer to leave a nightlight on.
    > **中文**：有些小孩子害怕黑暗，更喜欢开着夜灯。
 
-9. Surprisingly, drinking warm herbal tea helped her fall into a deep sleep quickly for lightning.
+9. Surprisingly, drinking warm herbal tea helped her fall into a deep sleep quickly.
    > **中文**：令人惊讶的是，喝热草本茶帮助她快速进入了深度睡眠。
 
-10. Loud street noise outside the window can cause an unpleasant sleeping environment for lullaby.
+10. Loud street noise outside the window can cause an unpleasant sleeping environment.
    > **中文**：窗外刺耳的街道噪音会导致令人不快的睡眠环境。
 
 </quiz-listening>
@@ -148,98 +148,98 @@ nightmare 表示"噩梦"。the dark 表示"黑暗"（特指）。
 She woke up sweating after having a scary nightmare about being chased (`____`).
 
 - [x] alarm clock
-- [ ] cough
-- [ ] fluffy
+- [ ] ambulance
+- [ ] flu
 
 > **解析**：nightmare 为名词，意为“噩梦”。have a nightmare 表示“做噩梦”。wake up sweating 表示“出汗醒来”。
 
 ### 2
 
-I set my alarm clock for six in the morning so I would not oversleep for `____`.
+I set my alarm clock for six in the morning so I would not oversleep about `____`.
 
 - [x] ambulance
-- [ ] fan
-- [ ] hole
+- [ ] angel
+- [ ] fluffy
 
 > **解析**：alarm clock 为名词短语，意为“闹钟”。set the alarm clock 表示“设闹钟”。oversleep 意为“睡过头”。
 
 ### 3
 
-The mother sang a sweet lullaby to help her newborn baby fall asleep gently for `____`.
+The mother sang a sweet `____` to help her newborn baby fall asleep gently.
 
-- [x] angel
-- [ ] flu
-- [ ] lightning
+- [x] lullaby
+- [ ] angel
+- [ ] fluffy
 
 > **解析**：lullaby 为名词，意为“摇篮曲、催眠曲”。sing a lullaby 表示“唱摇篮曲”。
 
 ### 4
 
-Buying a comfortable memory foam mattress improved his sleep quality significantly for `____`.
+Buying a comfortable memory foam `____` improved his sleep quality significantly.
 
-- [x] cough
-- [ ] fluffy
-- [ ] lullaby
+- [x] mattress
+- [ ] cough
+- [ ] hole
 
 > **解析**：mattress 为名词，意为“床垫”。memory foam mattress 指“记忆棉床垫”。improve sleep quality 表示“改善睡眠质量”。
 
 ### 5
 
-The dark shadow on the bedroom wall looked very scary in the middle of the night for `____`.
+The dark shadow on the bedroom wall looked very `____` in the middle of the night.
 
-- [x] fan
-- [ ] hole
-- [ ] alarm clock
+- [x] scary
+- [ ] fan
+- [ ] lightning
 
 > **解析**：scary 为形容词，意为“吓人的、恐怖的”。修饰事物（shadow）。修饰人的感觉用 scared。
 
 ### 6
 
-The cat walked silently across the bedroom carpet without making any sound for `____`.
+The cat walked `____` across the bedroom carpet without making any sound.
 
-- [x] flu
-- [ ] lightning
-- [ ] ambulance
+- [x] silently
+- [ ] flu
+- [ ] lullaby
 
 > **解析**：silently 为副词，意为“静静地、默默地”。修饰动词 walked。without making any sound 意为“不发出声音”。
 
 ### 7
 
-When camping under the stars, sleeping in a warm sleeping bag keeps you cozy for `____`.
+When camping under the stars, sleeping in a warm `____` keeps you cozy.
 
-- [x] fluffy
-- [ ] lullaby
-- [ ] angel
+- [x] sleeping bag
+- [ ] fluffy
+- [ ] mattress
 
 > **解析**：sleeping bag 为名词短语，意为“睡袋”。camping 意为“露营”。
 
 ### 8
 
-Some young children feel afraid of the dark and prefer to leave a nightlight on for `____`.
+Some young children feel afraid of `____` and prefer to leave a nightlight on.
 
-- [x] hole
-- [ ] alarm clock
-- [ ] cough
+- [x] the dark
+- [ ] hole
+- [ ] mind
 
 > **解析**：the dark 为名词短语，意为“黑暗、黑夜”。be afraid of the dark 表示“害怕黑暗”。leave a light on 意为“让灯开着”。
 
 ### 9
 
-Surprisingly, drinking warm herbal tea helped her fall into a deep sleep quickly for `____`.
+`____`, drinking warm herbal tea helped her fall into a deep sleep quickly.
 
-- [x] lightning
-- [ ] ambulance
-- [ ] fan
+- [x] surprisingly
+- [ ] lightning
+- [ ] next-door
 
 > **解析**：surprisingly 为副词，置于句首作句子状语，意为“令人惊讶地、出乎意料地”。
 
 ### 10
 
-Loud street noise outside the window can cause an unpleasant sleeping environment for `____`.
+Loud street noise outside the window can cause an `____` sleeping environment.
 
-- [x] lullaby
-- [ ] angel
-- [ ] flu
+- [x] unpleasant
+- [ ] lullaby
+- [ ] nightmare
 
 > **解析**：unpleasant 为形容词，前缀 un- 表示否定，意为“令人不快的、讨厌的”。修饰 sleeping environment。
 

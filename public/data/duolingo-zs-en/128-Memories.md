@@ -62,19 +62,19 @@ used to + 动词原形表示"过去常常"（现在不做了）。never used to 
 <quiz-sentence-builder>
 
 1. **中文**：翻阅旧照片勾起了我童年的美好回忆。  
-   **英文**：Looking through old photos brought back wonderful memories of my childhood for bug.
+   **英文**：Looking through old photos brought back wonderful memories of my childhood.
    > **解析**：childhood 为名词，意为“童年时期”。由 child + -hood 构成。bring back memories 表示“勾起回忆”。
 
 2. **中文**：在漫长的暑假里，我们过去常常在后院盖树屋。  
-   **英文**：We used to build treehouses in the backyard during long summer vacations for card.
+   **英文**：We used to build treehouses in the backyard during long summer vacations.
    > **解析**：used to 为情态动词结构，后接动词原形（build），意为“过去常常做某事（现在已不再做）”。
 
 3. **中文**：我们街区的小孩放学后总是一起玩捉迷藏。  
-   **英文**：Children in our neighborhood always played hide-and-seek together after school for caught.
+   **英文**：Children in our neighborhood always played hide-and-seek together after school.
    > **解析**：neighborhood 为名词，意为“街区、邻里”。play hide-and-seek 意为“玩捉迷藏”。
 
 4. **中文**：我父母在看电视之前必须完成作业这一点上非常严格。  
-   **英文**：My parents were quite strict about finishing homework before watching television for childhood.
+   **英文**：My parents were quite strict about finishing homework before watching television.
    > **解析**：strict 为形容词，意为“严格的”。常见搭配 be strict about sth.（对某事严格）或 be strict with sb.（对某人严格）。
 
 5. **中文**：虽然她小时候非常害害羞，但长大后却成了一位自信的演讲者。  
@@ -82,11 +82,11 @@ used to + 动词原形表示"过去常常"（现在不做了）。never used to 
    > **解析**：shy 为形容词，意为“害羞的、怯生的”。grow up to be 表示“长大后成为...”。
 
 6. **中文**：我邻居过去常在周末串门到我家玩桌游。  
-   **英文**：My neighbor used to come over to my house to play board games on weekends for dirt.
+   **英文**：My neighbor used to come over to my house to play board games on weekends about bug.
    > **解析**：come over 为动词短语，意为“过来串门/拜访”。come over to one's house 指“去某人家里”。
 
 7. **中文**：在炎热的夏夜，我们在玻璃罐里抓萤火虫。  
-   **英文**：We caught fireflies in glass jars during warm summer evenings for do.
+   **英文**：We caught fireflies in glass jars during warm summer evenings.
    > **解析**：caught 为动词 catch 的过去式和过去分词，意为“抓住、捕捉”。catch fireflies 意为“抓萤火虫”。
 
 8. **中文**：我哥哥有一次在泥泞的池塘边找到了一只绿色小青蛙。  
@@ -98,32 +98,32 @@ used to + 动词原形表示"过去常常"（现在不做了）。never used to 
    > **解析**：hide 为动词，意为“躲藏、隐藏”。过去式为 hid，过去分词为 hidden。hide behind 表示“躲在...后面”。
 
 10. **中文**：我过去从不喜欢吃蔬菜，但现在我却很喜欢新鲜沙拉。  
-   **英文**：I never used to like eating vegetables, but now I enjoy fresh salads for hide.
+   **英文**：I never used to like eating vegetables, but now I enjoy fresh salads.
    > **解析**：never used to 为 used to 的否定表达之一，意为“过去从不/以前不曾”。后接动词原形（like）。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Looking through old photos brought back wonderful memories of my childhood for bug.
+1. Looking through old photos brought back wonderful memories of my childhood.
    > **中文**：翻阅旧照片勾起了我童年的美好回忆。
 
-2. We used to build treehouses in the backyard during long summer vacations for card.
+2. We used to build treehouses in the backyard during long summer vacations.
    > **中文**：在漫长的暑假里，我们过去常常在后院盖树屋。
 
-3. Children in our neighborhood always played hide-and-seek together after school for caught.
+3. Children in our neighborhood always played hide-and-seek together after school.
    > **中文**：我们街区的小孩放学后总是一起玩捉迷藏。
 
-4. My parents were quite strict about finishing homework before watching television for childhood.
+4. My parents were quite strict about finishing homework before watching television.
    > **中文**：我父母在看电视之前必须完成作业这一点上非常严格。
 
 5. Although she was very shy as a child, she grew up to be a confident speaker (come over).
    > **中文**：虽然她小时候非常害害羞，但长大后却成了一位自信的演讲者。
 
-6. My neighbor used to come over to my house to play board games on weekends for dirt.
+6. My neighbor used to come over to my house to play board games on weekends about bug.
    > **中文**：我邻居过去常在周末串门到我家玩桌游。
 
-7. We caught fireflies in glass jars during warm summer evenings for do.
+7. We caught fireflies in glass jars during warm summer evenings.
    > **中文**：在炎热的夏夜，我们在玻璃罐里抓萤火虫。
 
 8. My brother once found a small green frog near the muddy pond.
@@ -132,7 +132,7 @@ used to + 动词原形表示"过去常常"（现在不做了）。never used to 
 9. The kids tried to hide behind the large oak tree during their game (frying pan).
    > **中文**：孩子们在游戏时试图躲在大橡树后面。
 
-10. I never used to like eating vegetables, but now I enjoy fresh salads for hide.
+10. I never used to like eating vegetables, but now I enjoy fresh salads.
    > **中文**：我过去从不喜欢吃蔬菜，但现在我却很喜欢新鲜沙拉。
 
 </quiz-listening>
@@ -145,41 +145,41 @@ used to + 动词原形表示"过去常常"（现在不做了）。never used to 
 
 ### 1
 
-Looking through old photos brought back wonderful memories of my childhood for `____`.
+Looking through old photos brought back wonderful memories of my `____`.
 
-- [x] bug
-- [ ] childhood
-- [ ] do
+- [x] childhood
+- [ ] bug
+- [ ] dirt
 
 > **解析**：childhood 为名词，意为“童年时期”。由 child + -hood 构成。bring back memories 表示“勾起回忆”。
 
 ### 2
 
-We used to build treehouses in the backyard during long summer vacations for `____`.
+We `____` build treehouses in the backyard during long summer vacations.
 
-- [x] card
-- [ ] come over
-- [ ] frog
+- [x] used to
+- [ ] card
+- [ ] dirt
 
 > **解析**：used to 为情态动词结构，后接动词原形（build），意为“过去常常做某事（现在已不再做）”。
 
 ### 3
 
-Children in our neighborhood always played hide-and-seek together after school for `____`.
+Children in our neighborhood always played `____`-and-seek together after school.
 
-- [x] caught
-- [ ] dirt
-- [ ] frying pan
+- [x] hide
+- [ ] caught
+- [ ] do
 
 > **解析**：neighborhood 为名词，意为“街区、邻里”。play hide-and-seek 意为“玩捉迷藏”。
 
 ### 4
 
-My parents were quite strict about finishing homework before watching television for `____`.
+My parents were quite `____` about finishing homework before watching television.
 
-- [x] childhood
-- [ ] do
-- [ ] hide
+- [x] strict
+- [ ] childhood
+- [ ] frog
 
 > **解析**：strict 为形容词，意为“严格的”。常见搭配 be strict about sth.（对某事严格）或 be strict with sb.（对某人严格）。
 
@@ -188,28 +188,28 @@ My parents were quite strict about finishing homework before watching television
 Although she was very shy as a child, she grew up to be a confident speaker (`____`).
 
 - [x] come over
-- [ ] frog
-- [ ] bug
+- [ ] dirt
+- [ ] hide
 
 > **解析**：shy 为形容词，意为“害羞的、怯生的”。grow up to be 表示“长大后成为...”。
 
 ### 6
 
-My neighbor used to come over to my house to play board games on weekends for `____`.
+My neighbor used to come over to my house to play board games on weekends about `____`.
 
-- [x] dirt
-- [ ] frying pan
-- [ ] card
+- [x] bug
+- [ ] do
+- [ ] joke
 
 > **解析**：come over 为动词短语，意为“过来串门/拜访”。come over to one's house 指“去某人家里”。
 
 ### 7
 
-We caught fireflies in glass jars during warm summer evenings for `____`.
+We `____` fireflies in glass jars during warm summer evenings.
 
-- [x] do
-- [ ] hide
-- [ ] caught
+- [x] caught
+- [ ] frog
+- [ ] kicked
 
 > **解析**：caught 为动词 catch 的过去式和过去分词，意为“抓住、捕捉”。catch fireflies 意为“抓萤火虫”。
 
@@ -218,8 +218,8 @@ We caught fireflies in glass jars during warm summer evenings for `____`.
 My brother once found a small green `____` near the muddy pond.
 
 - [x] frog
-- [ ] bug
-- [ ] childhood
+- [ ] frying pan
+- [ ] knee
 
 > **解析**：frog 为名词，意为“青蛙”。pond 意为“池塘”。
 
@@ -228,18 +228,18 @@ My brother once found a small green `____` near the muddy pond.
 The kids tried to hide behind the large oak tree during their game (`____`).
 
 - [x] frying pan
-- [ ] card
-- [ ] come over
+- [ ] hide
+- [ ] neighborhood
 
 > **解析**：hide 为动词，意为“躲藏、隐藏”。过去式为 hid，过去分词为 hidden。hide behind 表示“躲在...后面”。
 
 ### 10
 
-I never used to like eating vegetables, but now I enjoy fresh salads for `____`.
+I `____` like eating vegetables, but now I enjoy fresh salads.
 
-- [x] hide
-- [ ] caught
-- [ ] dirt
+- [x] never used to
+- [ ] hide
+- [ ] neighborhood
 
 > **解析**：never used to 为 used to 的否定表达之一，意为“过去从不/以前不曾”。后接动词原形（like）。
 

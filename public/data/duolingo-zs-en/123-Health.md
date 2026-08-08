@@ -62,77 +62,77 @@ have got 表示"有"（口语）。has got / have got 的区别在于主语单�
 <quiz-sentence-builder>
 
 1. **中文**：医生测量了我的体温，确认我发烧烧得很高。  
-   **英文**：The doctor measured my temperature and confirmed that I had a high fever for aspirin.
+   **英文**：The doctor measured my temperature and confirmed that I had a high fever.
    > **解析**：fever 为名词，意为“发烧、发热”。搭配动词 have / run a fever（发烧）。have a high fever 表示“发高烧”。
 
 2. **中文**：药剂师核对了医生的处方后把药品递给了我。  
-   **英文**：The pharmacist handed me the medication after checking the doctor's prescription for badly.
+   **英文**：The pharmacist handed me the medication after checking the doctor's prescription.
    > **解析**：prescription 为名词，意为“处方、药方”。由动词 prescribe 派生而来。a doctor's prescription 表示“医生开具的处方”。
 
 3. **中文**：我今天喉咙痛，几乎咽不下任何干燥的食物。  
-   **英文**：I have a sore throat and can hardly swallow any dry food today for bleed.
+   **英文**：I have a sore throat and can hardly swallow any dry food today.
    > **解析**：sore 为形容词，意为“酸痛的、疼痛的”。常用结构为 have a sore + 身体部位（如 sore throat 喉咙痛, sore muscle 肌肉酸痛）。
 
 4. **中文**：你可以在拐角处的药房取你的止咳糖浆。  
-   **英文**：You can pick up your cough syrup at the pharmacy around the corner for clinic.
+   **英文**：You can pick up your cough syrup at the pharmacy around the corner.
    > **解析**：pharmacy 为名词，意为“药房、药店”（美式常与 drugstore 通用）。pick up 在此处表示“提取/购买”。
 
 5. **中文**：在连续上了三个夜班之后，这位护士感觉筋疲力尽。  
-   **英文**：After working three night shifts in a row, the nurse felt completely exhausted for cough.
+   **英文**：After working three night shifts in a row, the nurse felt completely exhausted.
    > **解析**：exhausted 为形容词，意为“筋疲力尽的”。修饰人，表示极度疲惫（比 tired 程度更深）。修饰语可以用 completely / totally。
 
 6. **中文**：如果你的症状到明天还没有好转，你应该去社区诊所看医生。  
-   **英文**：If your symptoms do not improve by tomorrow, you should visit the community clinic for degree.
+   **英文**：If your symptoms do not improve by tomorrow, you should visit the community clinic.
    > **解析**：clinic 为名词，意为“诊所、门诊部”。比 hospital 规模小，通常提供日常基础诊疗服务。
 
 7. **中文**：吃一片阿司匹林半小时内就帮她缓解了严重的头痛。  
-   **英文**：Taking an aspirin helped relieve her severe headache within half an hour for do.
+   **英文**：Taking an aspirin helped relieve her severe headache within half an hour.
    > **解析**：aspirin 为名词，意为“阿司匹林（止痛退烧药）”。take an aspirin 表示“服用一片阿司匹林”。
 
 8. **中文**：他喝了温蜂蜜水来缓解持续的干咳。  
-   **英文**：He drank warm honey water to soothe his persistent dry cough for does.
+   **英文**：He drank warm honey water to soothe his persistent dry cough about badly.
    > **解析**：cough 在此处用作名词，意为“咳嗽”。dry cough 指“干咳”。cough 也可以作动词（如 He is coughing）。
 
 9. **中文**：幸运的是，检查结果显示没有严重的感染。  
-   **英文**：Fortunately, the medical test results showed that there was no serious infection (doesn't).
+   **英文**：Fortunately, the medical test results showed that there was no serious infection.
    > **解析**：fortunately 为副词，置于句首作为句子状语，意为“幸运地、好在”。其反义词为 unfortunately（不幸地）。
 
 10. **中文**：用干净的纸巾压住小伤口以防止它流血。  
-   **英文**：Press a clean paper towel on the small cut to stop it from bleeding (don't).
+   **英文**：Press a clean paper towel on the small cut to stop it from bleeding.
    > **解析**：bleed 为动词，意为“流血”。过去式和过去分词为 bled。stop sth. from bleeding 表示“阻止……流血”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The doctor measured my temperature and confirmed that I had a high fever for aspirin.
+1. The doctor measured my temperature and confirmed that I had a high fever.
    > **中文**：医生测量了我的体温，确认我发烧烧得很高。
 
-2. The pharmacist handed me the medication after checking the doctor's prescription for badly.
+2. The pharmacist handed me the medication after checking the doctor's prescription.
    > **中文**：药剂师核对了医生的处方后把药品递给了我。
 
-3. I have a sore throat and can hardly swallow any dry food today for bleed.
+3. I have a sore throat and can hardly swallow any dry food today.
    > **中文**：我今天喉咙痛，几乎咽不下任何干燥的食物。
 
-4. You can pick up your cough syrup at the pharmacy around the corner for clinic.
+4. You can pick up your cough syrup at the pharmacy around the corner.
    > **中文**：你可以在拐角处的药房取你的止咳糖浆。
 
-5. After working three night shifts in a row, the nurse felt completely exhausted for cough.
+5. After working three night shifts in a row, the nurse felt completely exhausted.
    > **中文**：在连续上了三个夜班之后，这位护士感觉筋疲力尽。
 
-6. If your symptoms do not improve by tomorrow, you should visit the community clinic for degree.
+6. If your symptoms do not improve by tomorrow, you should visit the community clinic.
    > **中文**：如果你的症状到明天还没有好转，你应该去社区诊所看医生。
 
-7. Taking an aspirin helped relieve her severe headache within half an hour for do.
+7. Taking an aspirin helped relieve her severe headache within half an hour.
    > **中文**：吃一片阿司匹林半小时内就帮她缓解了严重的头痛。
 
-8. He drank warm honey water to soothe his persistent dry cough for does.
+8. He drank warm honey water to soothe his persistent dry cough about badly.
    > **中文**：他喝了温蜂蜜水来缓解持续的干咳。
 
-9. Fortunately, the medical test results showed that there was no serious infection (doesn't).
+9. Fortunately, the medical test results showed that there was no serious infection.
    > **中文**：幸运的是，检查结果显示没有严重的感染。
 
-10. Press a clean paper towel on the small cut to stop it from bleeding (don't).
+10. Press a clean paper towel on the small cut to stop it from bleeding.
    > **中文**：用干净的纸巾压住小伤口以防止它流血。
 
 </quiz-listening>
@@ -145,101 +145,101 @@ have got 表示"有"（口语）。has got / have got 的区别在于主语单�
 
 ### 1
 
-The doctor measured my temperature and confirmed that I had a high fever for `____`.
+The `____`ctor measured my temperature and confirmed that I had a high fever.
 
-- [x] aspirin
-- [ ] clinic
-- [ ] do
+- [x] do
+- [ ] aspirin
+- [ ] cough
 
 > **解析**：fever 为名词，意为“发烧、发热”。搭配动词 have / run a fever（发烧）。have a high fever 表示“发高烧”。
 
 ### 2
 
-The pharmacist handed me the medication after checking the doctor's prescription for `____`.
+The pharmacist handed me the medication after checking the doctor's `____`.
 
-- [x] badly
-- [ ] cough
-- [ ] does
+- [x] prescription
+- [ ] badly
+- [ ] degree
 
 > **解析**：prescription 为名词，意为“处方、药方”。由动词 prescribe 派生而来。a doctor's prescription 表示“医生开具的处方”。
 
 ### 3
 
-I have a sore throat and can hardly swallow any dry food today for `____`.
+I have a `____` throat and can hardly swallow any dry food today.
 
-- [x] bleed
-- [ ] degree
-- [ ] doesn't
+- [x] sore
+- [ ] bleed
+- [ ] do
 
 > **解析**：sore 为形容词，意为“酸痛的、疼痛的”。常用结构为 have a sore + 身体部位（如 sore throat 喉咙痛, sore muscle 肌肉酸痛）。
 
 ### 4
 
-You can pick up your cough syrup at the pharmacy around the corner for `____`.
+You can pick up your `____` syrup at the pharmacy around the corner.
 
-- [x] clinic
-- [ ] do
-- [ ] don't
+- [x] cough
+- [ ] clinic
+- [ ] doesn't
 
 > **解析**：pharmacy 为名词，意为“药房、药店”（美式常与 drugstore 通用）。pick up 在此处表示“提取/购买”。
 
 ### 5
 
-After working three night shifts in a row, the nurse felt completely exhausted for `____`.
+After working three night shifts in a row, the nurse felt completely `____`.
 
-- [x] cough
-- [ ] does
-- [ ] aspirin
+- [x] exhausted
+- [ ] cough
+- [ ] doesn't
 
 > **解析**：exhausted 为形容词，意为“筋疲力尽的”。修饰人，表示极度疲惫（比 tired 程度更深）。修饰语可以用 completely / totally。
 
 ### 6
 
-If your symptoms do not improve by tomorrow, you should visit the community clinic for `____`.
+If your symptoms do not improve by tomorrow, you should visit the community `____`.
 
-- [x] degree
-- [ ] doesn't
-- [ ] badly
+- [x] clinic
+- [ ] do
+- [ ] elbow
 
 > **解析**：clinic 为名词，意为“诊所、门诊部”。比 hospital 规模小，通常提供日常基础诊疗服务。
 
 ### 7
 
-Taking an aspirin helped relieve her severe headache within half an hour for `____`.
+Taking an `____` helped relieve her severe headache within half an hour.
 
-- [x] do
-- [ ] don't
-- [ ] bleed
+- [x] aspirin
+- [ ] does
+- [ ] exhausted
 
 > **解析**：aspirin 为名词，意为“阿司匹林（止痛退烧药）”。take an aspirin 表示“服用一片阿司匹林”。
 
 ### 8
 
-He drank warm honey water to soothe his persistent dry cough for `____`.
+He drank warm honey water to soothe his persistent dry cough about `____`.
 
-- [x] does
-- [ ] aspirin
-- [ ] clinic
+- [x] badly
+- [ ] doesn't
+- [ ] fever
 
 > **解析**：cough 在此处用作名词，意为“咳嗽”。dry cough 指“干咳”。cough 也可以作动词（如 He is coughing）。
 
 ### 9
 
-Fortunately, the medical test results showed that there was no serious infection (`____`).
+`____`, the medical test results showed that there was no serious infection.
 
-- [x] doesn't
-- [ ] badly
-- [ ] cough
+- [x] fortunately
+- [ ] doesn't
+- [ ] fever
 
 > **解析**：fortunately 为副词，置于句首作为句子状语，意为“幸运地、好在”。其反义词为 unfortunately（不幸地）。
 
 ### 10
 
-Press a clean paper towel on the small cut to stop it from bleeding (`____`).
+Press a clean paper towel on the small cut to stop it from `____`ing.
 
-- [x] don't
-- [ ] bleed
-- [ ] degree
+- [x] bleed
+- [ ] elbow
+- [ ] fortunately
 
 > **解析**：bleed 为动词，意为“流血”。过去式和过去分词为 bled。stop sth. from bleeding 表示“阻止……流血”。
 

@@ -80,39 +80,39 @@ should have（本该）表达后悔和责备。fall for（上当）、speak up�
 <quiz-sentence-builder>
 
 1. **中文**：要小心提议快速发财的可疑邮件，因为它们通常是诈骗。  
-   **英文**：Be careful with suspicious emails offering quick money, as they are usually a scam for asking.
+   **英文**：Be careful with suspicious emails offering quick money, as they are usually a scam.
    > **解析**：`scam` 是名词，意为“骗局、诈骗”，在句中作表语。
 
 2. **中文**：不要轻信承诺离谱高回报的在线投资陷阱。  
-   **英文**：Do not fall for online investment tricks that promise absurdly high returns for ban.
+   **英文**：Do not fall for online investment tricks that promise absurdly high returns.
    > **解析**：`fall for sth` 是短语动词，意为“上……的当、轻信……”。
 
 3. **中文**：该促销信息包含关于费用的误导性信息。  
-   **英文**：The promotional message contained misleading information about the fees for bitter.
+   **英文**：The promotional message contained misleading information about the fees.
    > **解析**：`misleading` 是形容词，意为“误导性的、引入歧途的”，修饰 `information`。
 
 4. **中文**：诈骗犯经常创建模仿合法银行门户网站的假冒网站。  
-   **英文**：Scammers often create fake websites that copy legitimate banking portals for considerable.
+   **英文**：Scammers often create fake websites that copy legitimate banking portals.
    > **解析**：`fake` 是形容词，意为“假冒的、伪造的”，修饰 `websites`。
 
 5. **中文**：老年人常被诈骗分子针对，因为他们可能容易受骗。  
-   **英文**：Elderly people are often targeted by scammers because they can be gullible for criminal.
+   **英文**：Elderly people are often targeted by scammers because they can be gullible.
    > **解析**：`gullible` 是形容词，意为“轻信的、易受骗的”，在系动词后作表语。
 
 6. **中文**：你在转账前本应该核实发件人的电子邮件地址的。  
-   **英文**：You should have verified the sender's email address before transferring money for desperate.
+   **英文**：You should have verified the sender's email address before transferring money.
    > **解析**：`should have + 过去分词` 表示对过去事情的指责或遗憾（本应该做）。
 
 7. **中文**：安全专家发布了关于新型网络钓鱼诈骗的紧急警告。  
-   **英文**：Security experts issued an urgent warning about the new phishing scam for dishonest.
+   **英文**：Security experts issued an urgent warning about the new phishing scam.
    > **解析**：`warning` 是名词，意为“警告、警示”，搭配 `issue a warning`。
 
 8. **中文**：应对不诚实的来电者需要保持警惕与谨慎。  
-   **英文**：Dealing with dishonest callers requires staying vigilant and cautious for enough.
+   **英文**：Dealing with dishonest callers requires staying vigilant and cautious.
    > **解析**：`dishonest` 是形容词，意为“不诚实的、不正直的”。
 
 9. **中文**：受害者在意识到自己失去了所有积蓄后陷入了震惊。  
-   **英文**：The victim was in shock after realizing she had lost all her savings for fake.
+   **英文**：The victim was in shock after realizing she had lost all her savings.
    > **解析**：`be in shock` 意为“处于震惊状态中”。
 
 10. **中文**：如果你注意到可疑活动，你应该大胆说出来并通知警方。  
@@ -123,31 +123,31 @@ should have（本该）表达后悔和责备。fall for（上当）、speak up�
 
 <quiz-listening>
 
-1. Be careful with suspicious emails offering quick money, as they are usually a scam for asking.
+1. Be careful with suspicious emails offering quick money, as they are usually a scam.
    > **中文**：要小心提议快速发财的可疑邮件，因为它们通常是诈骗。
 
-2. Do not fall for online investment tricks that promise absurdly high returns for ban.
+2. Do not fall for online investment tricks that promise absurdly high returns.
    > **中文**：不要轻信承诺离谱高回报的在线投资陷阱。
 
-3. The promotional message contained misleading information about the fees for bitter.
+3. The promotional message contained misleading information about the fees.
    > **中文**：该促销信息包含关于费用的误导性信息。
 
-4. Scammers often create fake websites that copy legitimate banking portals for considerable.
+4. Scammers often create fake websites that copy legitimate banking portals.
    > **中文**：诈骗犯经常创建模仿合法银行门户网站的假冒网站。
 
-5. Elderly people are often targeted by scammers because they can be gullible for criminal.
+5. Elderly people are often targeted by scammers because they can be gullible.
    > **中文**：老年人常被诈骗分子针对，因为他们可能容易受骗。
 
-6. You should have verified the sender's email address before transferring money for desperate.
+6. You should have verified the sender's email address before transferring money.
    > **中文**：你在转账前本应该核实发件人的电子邮件地址的。
 
-7. Security experts issued an urgent warning about the new phishing scam for dishonest.
+7. Security experts issued an urgent warning about the new phishing scam.
    > **中文**：安全专家发布了关于新型网络钓鱼诈骗的紧急警告。
 
-8. Dealing with dishonest callers requires staying vigilant and cautious for enough.
+8. Dealing with dishonest callers requires staying vigilant and cautious.
    > **中文**：应对不诚实的来电者需要保持警惕与谨慎。
 
-9. The victim was in shock after realizing she had lost all her savings for fake.
+9. The victim was in shock after realizing she had lost all her savings.
    > **中文**：受害者在意识到自己失去了所有积蓄后陷入了震惊。
 
 10. If you notice suspicious activity, you should speak up and inform the police (fall for).
@@ -163,101 +163,101 @@ should have（本该）表达后悔和责备。fall for（上当）、speak up�
 
 ### 1
 
-Be careful with suspicious emails offering quick money, as they are usually a scam for `____`.
+Be careful with suspicious emails offering quick money, as they are usually a `____`.
 
-- [x] asking
-- [ ] considerable
-- [ ] dishonest
+- [x] scam
+- [ ] asking
+- [ ] criminal
 
 > **解析**：`scam` 是名词，意为“骗局、诈骗”，在句中作表语。
 
 ### 2
 
-Do not fall for online investment tricks that promise absurdly high returns for `____`.
+Do not `____` online investment tricks that promise absurdly high returns.
 
-- [x] ban
-- [ ] criminal
-- [ ] enough
+- [x] fall for
+- [ ] ban
+- [ ] desperate
 
 > **解析**：`fall for sth` 是短语动词，意为“上……的当、轻信……”。
 
 ### 3
 
-The promotional message contained misleading information about the fees for `____`.
+The promotional message contained `____` information about the fees.
 
-- [x] bitter
-- [ ] desperate
-- [ ] fake
+- [x] misleading
+- [ ] bitter
+- [ ] dishonest
 
 > **解析**：`misleading` 是形容词，意为“误导性的、引入歧途的”，修饰 `information`。
 
 ### 4
 
-Scammers often create fake websites that copy legitimate banking portals for `____`.
+Scammers often create fake websites that copy legitimate `____`king portals.
 
-- [x] considerable
-- [ ] dishonest
-- [ ] fall for
+- [x] ban
+- [ ] criminal
+- [ ] fake
 
 > **解析**：`fake` 是形容词，意为“假冒的、伪造的”，修饰 `websites`。
 
 ### 5
 
-Elderly people are often targeted by scammers because they can be gullible for `____`.
+Elderly people are often targeted by scammers because they can be `____`.
 
-- [x] criminal
-- [ ] enough
-- [ ] asking
+- [x] gullible
+- [ ] criminal
+- [ ] fake
 
 > **解析**：`gullible` 是形容词，意为“轻信的、易受骗的”，在系动词后作表语。
 
 ### 6
 
-You should have verified the sender's email address before transferring money for `____`.
+You `____` verified the sender's email address before transferring money.
 
-- [x] desperate
-- [ ] fake
-- [ ] ban
+- [x] should have
+- [ ] desperate
+- [ ] fall for
 
 > **解析**：`should have + 过去分词` 表示对过去事情的指责或遗憾（本应该做）。
 
 ### 7
 
-Security experts issued an urgent warning about the new phishing scam for `____`.
+Security experts issued an urgent `____` about the new phishing scam.
 
-- [x] dishonest
-- [ ] fall for
-- [ ] bitter
+- [x] warning
+- [ ] dishonest
+- [ ] furious
 
 > **解析**：`warning` 是名词，意为“警告、警示”，搭配 `issue a warning`。
 
 ### 8
 
-Dealing with dishonest callers requires staying vigilant and cautious for `____`.
+Dealing with `____` callers requires staying vigilant and cautious.
 
-- [x] enough
-- [ ] asking
-- [ ] considerable
+- [x] dishonest
+- [ ] fake
+- [ ] hassle
 
 > **解析**：`dishonest` 是形容词，意为“不诚实的、不正直的”。
 
 ### 9
 
-The victim was in shock after realizing she had lost all her savings for `____`.
+The victim was `____` after realizing she had lost all her savings.
 
-- [x] fake
-- [ ] ban
-- [ ] criminal
+- [x] in shock
+- [ ] fake
+- [ ] hassle
 
 > **解析**：`be in shock` 意为“处于震惊状态中”。
 
 ### 10
 
-If you notice suspicious activity, you should speak up and inform the police (`____`).
+If you notice suspicious activity, you should `____` and inform the police (fall for).
 
-- [x] fall for
-- [ ] bitter
-- [ ] desperate
+- [x] speak up
+- [ ] fall for
+- [ ] in shock
 
 > **解析**：`speak up` 是短语动词，意为“大胆说出、发言”。
 

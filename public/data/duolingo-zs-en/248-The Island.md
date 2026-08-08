@@ -82,23 +82,23 @@ despite the fact that / in spite of / in spite of the fact that 是三个表"尽
 <quiz-sentence-builder>
 
 1. **中文**：滞留的游客们设法在荒岛上生存了两周。  
-   **英文**：The stranded tourists managed to survive on the deserted island for two weeks for aircraft.
+   **英文**：The stranded tourists managed to survive on the deserted island for two weeks.
    > **解析**：`survive` 作不及物动词，意为“生存、幸存”，后接地点短语。
 
 2. **中文**：他们用竹子和棕榈叶建造了一个临时庇护所。  
-   **英文**：They built a temporary shelter using bamboo and palm leaves for circumstance.
+   **英文**：They built a temporary shelter using bamboo and palm leaves.
    > **解析**：`shelter` 是名词，意为“庇护所、遮蔽处”，作宾语。
 
 3. **中文**：一场具有毁灭性的飓风在海岸附近摧毁了他们的木船。  
-   **英文**：A devastating hurricane destroyed their wooden boat near the coast for concern.
+   **英文**：A devastating hurricane destroyed their wooden boat near the coast.
    > **解析**：`hurricane` 是名词，意为“飓风”，指强热带气旋。
 
 4. **中文**：尽管大雨倾盆且浓雾弥漫，他们仍继续向前迈进。  
-   **英文**：They kept walking forward in spite of the pouring rain and thick fog for crab.
+   **英文**：They kept walking forward in spite of the pouring rain and thick fog.
    > **解析**：`in spite of` 是复合介词，意为“尽管、虽然”，后接名词短语。
 
 5. **中文**：他们不得不连续几天配给饮用水。  
-   **英文**：They had to ration their drinking water for days on end for deadly.
+   **英文**：They had to ration their drinking water for days on end.
    > **解析**：`for days on end` 是固定时间状语短语，意为“接连数天、连续几天”。
 
 6. **中文**：船只失事后，幸存者们游泳朝岸边靠拢。  
@@ -106,11 +106,11 @@ despite the fact that / in spite of / in spite of the fact that 是三个表"尽
    > **解析**：`head for` 是短语动词，意为“朝……前进、前往”，后接目的地名词。
 
 7. **中文**：这个岛屿是几种致命毒蛇的栖息地。  
-   **英文**：The island is home to several species of deadly snakes for encounter.
+   **英文**：The island is home to several species of deadly snakes.
    > **解析**：`deadly` 是形容词，意为“致命的、剧毒的”，修饰 `snakes`。
 
 8. **中文**：在探索丛林时，他们遇到了许多意想不到的困难。  
-   **英文**：They encountered many unforeseen difficulties while exploring the jungle for faulty.
+   **英文**：They encountered many unforeseen difficulties while exploring the jungle.
    > **解析**：`encounter` 作及物动词，意为“遭遇、遇到”，宾语为 `difficulties`。
 
 9. **中文**：那艘古老的失事船只遗骸被一支深海潜水团队发现。  
@@ -125,28 +125,28 @@ despite the fact that / in spite of / in spite of the fact that 是三个表"尽
 
 <quiz-listening>
 
-1. The stranded tourists managed to survive on the deserted island for two weeks for aircraft.
+1. The stranded tourists managed to survive on the deserted island for two weeks.
    > **中文**：滞留的游客们设法在荒岛上生存了两周。
 
-2. They built a temporary shelter using bamboo and palm leaves for circumstance.
+2. They built a temporary shelter using bamboo and palm leaves.
    > **中文**：他们用竹子和棕榈叶建造了一个临时庇护所。
 
-3. A devastating hurricane destroyed their wooden boat near the coast for concern.
+3. A devastating hurricane destroyed their wooden boat near the coast.
    > **中文**：一场具有毁灭性的飓风在海岸附近摧毁了他们的木船。
 
-4. They kept walking forward in spite of the pouring rain and thick fog for crab.
+4. They kept walking forward in spite of the pouring rain and thick fog.
    > **中文**：尽管大雨倾盆且浓雾弥漫，他们仍继续向前迈进。
 
-5. They had to ration their drinking water for days on end for deadly.
+5. They had to ration their drinking water for days on end.
    > **中文**：他们不得不连续几天配给饮用水。
 
 6. After the shipwreck, the survivors swam to head for the shore (despite the fact that).
    > **中文**：船只失事后，幸存者们游泳朝岸边靠拢。
 
-7. The island is home to several species of deadly snakes for encounter.
+7. The island is home to several species of deadly snakes.
    > **中文**：这个岛屿是几种致命毒蛇的栖息地。
 
-8. They encountered many unforeseen difficulties while exploring the jungle for faulty.
+8. They encountered many unforeseen difficulties while exploring the jungle.
    > **中文**：在探索丛林时，他们遇到了许多意想不到的困难。
 
 9. The ancient shipwreck was discovered by a team of deep-sea divers (for days on end).
@@ -165,51 +165,51 @@ despite the fact that / in spite of / in spite of the fact that 是三个表"尽
 
 ### 1
 
-The stranded tourists managed to survive on the deserted island for two weeks for `____`.
+The stranded tourists managed to `____` on the deserted island for two weeks.
 
-- [x] aircraft
-- [ ] crab
-- [ ] encounter
+- [x] survive
+- [ ] aircraft
+- [ ] deadly
 
 > **解析**：`survive` 作不及物动词，意为“生存、幸存”，后接地点短语。
 
 ### 2
 
-They built a temporary shelter using bamboo and palm leaves for `____`.
+They built a temporary `____` using bamboo and palm leaves.
 
-- [x] circumstance
-- [ ] deadly
-- [ ] faulty
+- [x] shelter
+- [ ] circumstance
+- [ ] despite the fact that
 
 > **解析**：`shelter` 是名词，意为“庇护所、遮蔽处”，作宾语。
 
 ### 3
 
-A devastating hurricane destroyed their wooden boat near the coast for `____`.
+A devastating `____` destroyed their wooden boat near the coast.
 
-- [x] concern
-- [ ] despite the fact that
-- [ ] for days on end
+- [x] hurricane
+- [ ] concern
+- [ ] encounter
 
 > **解析**：`hurricane` 是名词，意为“飓风”，指强热带气旋。
 
 ### 4
 
-They kept walking forward in spite of the pouring rain and thick fog for `____`.
+They kept walking forward `____` the pouring rain and thick fog.
 
-- [x] crab
-- [ ] encounter
-- [ ] go through
+- [x] in spite of
+- [ ] crab
+- [ ] faulty
 
 > **解析**：`in spite of` 是复合介词，意为“尽管、虽然”，后接名词短语。
 
 ### 5
 
-They had to ration their drinking water for days on end for `____`.
+They had to ration their drinking water `____`.
 
-- [x] deadly
-- [ ] faulty
-- [ ] aircraft
+- [x] for days on end
+- [ ] deadly
+- [ ] go through
 
 > **解析**：`for days on end` 是固定时间状语短语，意为“接连数天、连续几天”。
 
@@ -218,38 +218,38 @@ They had to ration their drinking water for days on end for `____`.
 After the shipwreck, the survivors swam to head for the shore (`____`).
 
 - [x] despite the fact that
-- [ ] for days on end
-- [ ] circumstance
+- [ ] encounter
+- [ ] head for
 
 > **解析**：`head for` 是短语动词，意为“朝……前进、前往”，后接目的地名词。
 
 ### 7
 
-The island is home to several species of deadly snakes for `____`.
+The island is home to several species of `____` snakes.
 
-- [x] encounter
-- [ ] go through
-- [ ] concern
+- [x] deadly
+- [ ] faulty
+- [ ] hurricane
 
 > **解析**：`deadly` 是形容词，意为“致命的、剧毒的”，修饰 `snakes`。
 
 ### 8
 
-They encountered many unforeseen difficulties while exploring the jungle for `____`.
+They `____`ed many unforeseen difficulties while exploring the jungle.
 
-- [x] faulty
-- [ ] aircraft
-- [ ] crab
+- [x] encounter
+- [ ] for days on end
+- [ ] in spite of
 
 > **解析**：`encounter` 作及物动词，意为“遭遇、遇到”，宾语为 `difficulties`。
 
 ### 9
 
-The ancient shipwreck was discovered by a team of deep-sea divers (`____`).
+The ancient `____` was discovered by a team of deep-sea divers (for days on end).
 
-- [x] for days on end
-- [ ] circumstance
-- [ ] deadly
+- [x] shipwreck
+- [ ] for days on end
+- [ ] in spite of
 
 > **解析**：`shipwreck` 是名词，意为“海难、失事船只遗骸”。
 
@@ -258,8 +258,8 @@ The ancient shipwreck was discovered by a team of deep-sea divers (`____`).
 They sang old songs together around the campfire to pass the time (`____`).
 
 - [x] go through
-- [ ] concern
-- [ ] despite the fact that
+- [ ] head for
+- [ ] injured
 
 > **解析**：`pass the time` 是固定短语，意为“消磨时间、打发时光”。
 

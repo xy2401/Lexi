@@ -60,35 +60,35 @@ have been 是现在完成时（Have you been here before? / I have been to this 
    > **解析**：main course 名词短语，意为“主菜”。
 
 3. **中文**：我的牛排想要配一份烤土豆副菜。  
-   **英文**：I would like to order a side of roasted potatoes with my steak for any.
+   **英文**：I would like to order a side of roasted potatoes with my steak.
    > **解析**：a side of ... 短语，意为“一份……配菜/副菜”。
 
 4. **中文**：如果您对乳制品过敏，请告知服务员。  
-   **英文**：Please let the server know if you have an allergy to dairy products for appetizer.
+   **英文**：Please let the server know if you have an allergy to dairy products.
    > **解析**：dairy 不可数名词/形容词，意为“乳制品；牛奶的”。
 
 5. **中文**：这家餐厅很大方，因为每道餐份量都很大。  
-   **英文**：The restaurant is generous because each meal comes with a large portion for award.
+   **英文**：The restaurant is generous because each meal comes with a large portion.
    > **解析**：portion 可数名词，在此指“（食物的）一份；份量”。
 
 6. **中文**：索要额外沙拉酱需要额外收费吗？  
-   **英文**：Is there an extra charge for requesting extra salad dressing? for be.
+   **英文**：Is there an extra charge for requesting extra salad dressing.
    > **解析**：charge 可数/不可数名词，在此意为“费用；收费”；也可作动词。
 
 7. **中文**：开始就餐前，他把布餐巾放在了大腿上。  
-   **英文**：He placed the cloth napkin on his lap before starting his dinner for been.
+   **英文**：He placed the cloth napkin on his lap before starting his dinner.
    > **解析**：napkin 可数名词，意为“餐巾；餐巾纸”。
 
 8. **中文**：我们一到达就被礼貌地引座到窗边。  
-   **英文**：We were politely seated by the window as soon as we arrived for bit.
+   **英文**：We were politely seated by the window as soon as we arrived.
    > **解析**：seated 动词 seat 的过去分词，常用 be seated 表示“入座；被引座”。
 
 9. **中文**：你有没有注意到菜单上是否包含无麸质选择？  
-   **英文**：Did you notice whether the menu includes any gluten-free options? for charge.
+   **英文**：Did you notice whether the menu includes any gluten-free options.
    > **解析**：notice 及物动词，意为“注意到；察觉到”。
 
 10. **中文**：食客因为他的牛排全熟且放凉了而感到生气。  
-   **英文**：The diner was angry that his steak was overcooked and cold for dairy.
+   **英文**：The diner was angry that his steak was overcooked and cold about appetizer.
    > **解析**：be angry that ... 引导从句，意为“因……感到生气”。
 
 </quiz-sentence-builder>
@@ -101,28 +101,28 @@ have been 是现在完成时（Have you been here before? / I have been to this 
 2. For the main course, she chose the grilled salmon served with asparagus (angry that).
    > **中文**：主菜她选择了配芦笋的烤三文鱼。
 
-3. I would like to order a side of roasted potatoes with my steak for any.
+3. I would like to order a side of roasted potatoes with my steak.
    > **中文**：我的牛排想要配一份烤土豆副菜。
 
-4. Please let the server know if you have an allergy to dairy products for appetizer.
+4. Please let the server know if you have an allergy to dairy products.
    > **中文**：如果您对乳制品过敏，请告知服务员。
 
-5. The restaurant is generous because each meal comes with a large portion for award.
+5. The restaurant is generous because each meal comes with a large portion.
    > **中文**：这家餐厅很大方，因为每道餐份量都很大。
 
-6. Is there an extra charge for requesting extra salad dressing? for be.
+6. Is there an extra charge for requesting extra salad dressing.
    > **中文**：索要额外沙拉酱需要额外收费吗？
 
-7. He placed the cloth napkin on his lap before starting his dinner for been.
+7. He placed the cloth napkin on his lap before starting his dinner.
    > **中文**：开始就餐前，他把布餐巾放在了大腿上。
 
-8. We were politely seated by the window as soon as we arrived for bit.
+8. We were politely seated by the window as soon as we arrived.
    > **中文**：我们一到达就被礼貌地引座到窗边。
 
-9. Did you notice whether the menu includes any gluten-free options? for charge.
+9. Did you notice whether the menu includes any gluten-free options.
    > **中文**：你有没有注意到菜单上是否包含无麸质选择？
 
-10. The diner was angry that his steak was overcooked and cold for dairy.
+10. The diner was angry that his steak was overcooked and cold about appetizer.
    > **中文**：食客因为他的牛排全熟且放凉了而感到生气。
 
 </quiz-listening>
@@ -138,8 +138,8 @@ have been 是现在完成时（Have you been here before? / I have been to this 
 We ordered a plate of garlic bread as an appetizer while waiting for our meals (`____`).
 
 - [x] a side of
-- [ ] appetizer
-- [ ] been
+- [ ] angry that
+- [ ] be
 
 > **解析**：appetizer 可数名词，意为“开胃菜；前菜”（美式），英式为 starter。
 
@@ -148,88 +148,88 @@ We ordered a plate of garlic bread as an appetizer while waiting for our meals (
 For the main course, she chose the grilled salmon served with asparagus (`____`).
 
 - [x] angry that
-- [ ] award
-- [ ] bit
+- [ ] any
+- [ ] been
 
 > **解析**：main course 名词短语，意为“主菜”。
 
 ### 3
 
-I would like to order a side of roasted potatoes with my steak for `____`.
+I would `____` to order a side of roasted potatoes with my steak.
 
-- [x] any
-- [ ] be
-- [ ] charge
+- [x] like
+- [ ] any
+- [ ] been
 
 > **解析**：a side of ... 短语，意为“一份……配菜/副菜”。
 
 ### 4
 
-Please let the server know if you have an allergy to dairy products for `____`.
+Please let the server know if you have an allergy to `____` products.
 
-- [x] appetizer
-- [ ] been
-- [ ] dairy
+- [x] dairy
+- [ ] appetizer
+- [ ] bit
 
 > **解析**：dairy 不可数名词/形容词，意为“乳制品；牛奶的”。
 
 ### 5
 
-The restaurant is generous because each meal comes with a large portion for `____`.
+The restaurant is generous `____`cause each meal comes with a large portion.
 
-- [x] award
-- [ ] bit
-- [ ] a side of
+- [x] be
+- [ ] award
+- [ ] dairy
 
 > **解析**：portion 可数名词，在此指“（食物的）一份；份量”。
 
 ### 6
 
-Is there an extra charge for requesting extra salad dressing? for `____`.
+Is there an extra `____` for requesting extra salad dressing.
 
-- [x] be
-- [ ] charge
-- [ ] angry that
+- [x] charge
+- [ ] be
+- [ ] full
 
 > **解析**：charge 可数/不可数名词，在此意为“费用；收费”；也可作动词。
 
 ### 7
 
-He placed the cloth napkin on his lap before starting his dinner for `____`.
+He placed the cloth `____` on his lap before starting his dinner.
 
-- [x] been
-- [ ] dairy
-- [ ] any
+- [x] napkin
+- [ ] been
+- [ ] full
 
 > **解析**：napkin 可数名词，意为“餐巾；餐巾纸”。
 
 ### 8
 
-We were politely seated by the window as soon as we arrived for `____`.
+We were politely `____` by the window as soon as we arrived.
 
-- [x] bit
-- [ ] a side of
-- [ ] appetizer
+- [x] seated
+- [ ] bit
+- [ ] have been
 
 > **解析**：seated 动词 seat 的过去分词，常用 be seated 表示“入座；被引座”。
 
 ### 9
 
-Did you notice whether the menu includes any gluten-free options? for `____`.
+Did you notice whether the menu includes `____` gluten-free options.
 
-- [x] charge
-- [ ] angry that
-- [ ] award
+- [x] any
+- [ ] dairy
+- [ ] main course
 
 > **解析**：notice 及物动词，意为“注意到；察觉到”。
 
 ### 10
 
-The diner was angry that his steak was overcooked and cold for `____`.
+The diner was angry that his steak was overcooked and cold about `____`.
 
-- [x] dairy
-- [ ] any
-- [ ] be
+- [x] appetizer
+- [ ] full
+- [ ] napkin
 
 > **解析**：be angry that ... 引导从句，意为“因……感到生气”。
 

@@ -62,35 +62,35 @@ though 表示"虽然"（放句末更口语）。in jail 表示"在监狱里"。
 <quiz-sentence-builder>
 
 1. **中文**：当地政府在新闻发布会上宣布了一项新的环保政策。  
-   **英文**：The local government announced a new environmental policy during the press conference for billion.
+   **英文**：The local government announced a new environmental policy during the press conference.
    > **解析**：government 为名词，意为“政府”。local government 表示“地方政府”。press conference 指“新闻发布会”。
 
 2. **中文**：世界各国领导人会聚一堂，讨论应对全球经济挑战的解决方案。  
-   **英文**：World leaders met to discuss solutions for global economic challenges for bomb.
+   **英文**：World leaders met to discuss solutions for global economic challenges.
    > **解析**：leader 为名词，意为“领导人、领袖”。world leaders 指“世界领袖”。solution for 表示“……的解决方案”。
 
 3. **中文**：这条突发新闻成了所有主流报纸的头条新闻标题。  
-   **英文**：The breaking news story made the front page headline in all major newspapers for border.
+   **英文**：The breaking news story made the front page headline in all major newspapers.
    > **解析**：headline 为名词，意为“（报纸/新闻的）大字标题、头条”。make the headline 表示“登上头条”。
 
 4. **中文**：边境检查人员在允许车辆过境之前检查了所有护照。  
-   **英文**：Border control officers inspected all passports before allowing vehicles to cross for cause.
+   **英文**：Border control officers inspected all passports before allowing vehicles to cross.
    > **解析**：border 为名词，意为“国界、边境”。border control 表示“边境检查”。cross early in the sentence 指“跨越/过境”。
 
 5. **中文**：一项难以置信的发现刊登在晨报的头版上。  
-   **英文**：An incredible discovery was featured on the front page of the morning daily for common.
+   **英文**：An incredible discovery was featured on the front page of the morning daily about billion.
    > **解析**：front page 为名词短语，意为“头版”。on the front page 表示“在头版上”。
 
 6. **中文**：市议会通过了更严格的法律以降低暴力犯罪率。  
-   **英文**：The city council passed stricter laws to reduce violent crime rate for court.
+   **英文**：The city council passed stricter laws to reduce violent crime rate.
    > **解析**：crime 为名词，意为“犯罪、罪行”。violent crime rate 表示“暴力犯罪率”。pass laws 意为“通过法律”。
 
 7. **中文**：两位律师在瞩目的审判中于法庭上出示了有力证据。  
-   **英文**：Both lawyers presented strong evidence in court during the high-profile trial for crash.
+   **英文**：Both lawyers presented strong evidence in court during the high-profile trial.
    > **解析**：in court 为介词短语，意为“在法庭上”。court 前不加冠词。trial 意为“审判/庭审”。
 
 8. **中文**：嫌疑人提供了有价值的信息以换取较轻的判罚。  
-   **英文**：The suspects gave valuable information in exchange for a lighter sentence for crime.
+   **英文**：The suspects gave valuable information in exchange for a lighter sentence.
    > **解析**：in exchange for 为复合介词短语，意为“作为对……的交换/以换取”。后面接名词或名词短语。
 
 9. **中文**：该国在冲突期间拒绝与其敌人进行谈判。  
@@ -105,28 +105,28 @@ though 表示"虽然"（放句末更口语）。in jail 表示"在监狱里"。
 
 <quiz-listening>
 
-1. The local government announced a new environmental policy during the press conference for billion.
+1. The local government announced a new environmental policy during the press conference.
    > **中文**：当地政府在新闻发布会上宣布了一项新的环保政策。
 
-2. World leaders met to discuss solutions for global economic challenges for bomb.
+2. World leaders met to discuss solutions for global economic challenges.
    > **中文**：世界各国领导人会聚一堂，讨论应对全球经济挑战的解决方案。
 
-3. The breaking news story made the front page headline in all major newspapers for border.
+3. The breaking news story made the front page headline in all major newspapers.
    > **中文**：这条突发新闻成了所有主流报纸的头条新闻标题。
 
-4. Border control officers inspected all passports before allowing vehicles to cross for cause.
+4. Border control officers inspected all passports before allowing vehicles to cross.
    > **中文**：边境检查人员在允许车辆过境之前检查了所有护照。
 
-5. An incredible discovery was featured on the front page of the morning daily for common.
+5. An incredible discovery was featured on the front page of the morning daily about billion.
    > **中文**：一项难以置信的发现刊登在晨报的头版上。
 
-6. The city council passed stricter laws to reduce violent crime rate for court.
+6. The city council passed stricter laws to reduce violent crime rate.
    > **中文**：市议会通过了更严格的法律以降低暴力犯罪率。
 
-7. Both lawyers presented strong evidence in court during the high-profile trial for crash.
+7. Both lawyers presented strong evidence in court during the high-profile trial.
    > **中文**：两位律师在瞩目的审判中于法庭上出示了有力证据。
 
-8. The suspects gave valuable information in exchange for a lighter sentence for crime.
+8. The suspects gave valuable information in exchange for a lighter sentence.
    > **中文**：嫌疑人提供了有价值的信息以换取较轻的判罚。
 
 9. The country refused to negotiate with its enemy during the conflict.
@@ -145,81 +145,81 @@ though 表示"虽然"（放句末更口语）。in jail 表示"在监狱里"。
 
 ### 1
 
-The local government announced a new environmental policy during the press conference for `____`.
+The local `____` announced a new environmental policy during the press conference.
 
-- [x] billion
-- [ ] cause
-- [ ] crash
+- [x] government
+- [ ] billion
+- [ ] common
 
 > **解析**：government 为名词，意为“政府”。local government 表示“地方政府”。press conference 指“新闻发布会”。
 
 ### 2
 
-World leaders met to discuss solutions for global economic challenges for `____`.
+World `____`s met to discuss solutions for global economic challenges.
 
-- [x] bomb
-- [ ] common
-- [ ] crime
+- [x] leader
+- [ ] bomb
+- [ ] court
 
 > **解析**：leader 为名词，意为“领导人、领袖”。world leaders 指“世界领袖”。solution for 表示“……的解决方案”。
 
 ### 3
 
-The breaking news story made the front page headline in all major newspapers for `____`.
+The breaking news story made the `____` headline in all major newspapers.
 
-- [x] border
-- [ ] court
-- [ ] enemy
+- [x] front page
+- [ ] border
+- [ ] crash
 
 > **解析**：headline 为名词，意为“（报纸/新闻的）大字标题、头条”。make the headline 表示“登上头条”。
 
 ### 4
 
-Border control officers inspected all passports before allowing vehicles to cross for `____`.
+`____` control officers inspected all passports before allowing vehicles to cross.
 
-- [x] cause
-- [ ] crash
-- [ ] expect
+- [x] border
+- [ ] common
+- [ ] enemy
 
 > **解析**：border 为名词，意为“国界、边境”。border control 表示“边境检查”。cross early in the sentence 指“跨越/过境”。
 
 ### 5
 
-An incredible discovery was featured on the front page of the morning daily for `____`.
+An incredible discovery was featured on the front page of the morning daily about `____`.
 
-- [x] common
-- [ ] crime
-- [ ] billion
+- [x] billion
+- [ ] court
+- [ ] expect
 
 > **解析**：front page 为名词短语，意为“头版”。on the front page 表示“在头版上”。
 
 ### 6
 
-The city council passed stricter laws to reduce violent crime rate for `____`.
+The city council passed stricter laws to reduce violent `____` rate.
 
-- [x] court
-- [ ] enemy
-- [ ] bomb
+- [x] crime
+- [ ] court
+- [ ] false
 
 > **解析**：crime 为名词，意为“犯罪、罪行”。violent crime rate 表示“暴力犯罪率”。pass laws 意为“通过法律”。
 
 ### 7
 
-Both lawyers presented strong evidence in court during the high-profile trial for `____`.
+Both lawyers presented strong evidence in `____` during the high-profile trial.
 
-- [x] crash
-- [ ] expect
-- [ ] border
+- [x] court
+- [ ] crime
+- [ ] front page
 
 > **解析**：in court 为介词短语，意为“在法庭上”。court 前不加冠词。trial 意为“审判/庭审”。
 
 ### 8
 
-The suspects gave valuable information in exchange for a lighter sentence for `____`.
+The suspects gave valuable information `____` a lighter sentence.
 
-- [x] crime
-- [ ] billion
-- [ ] cause
+- [x] in exchange for
+- [ ] crime
+- [ ] front page
 
 > **解析**：in exchange for 为复合介词短语，意为“作为对……的交换/以换取”。后面接名词或名词短语。
 
@@ -228,8 +228,8 @@ The suspects gave valuable information in exchange for a lighter sentence for `_
 The country refused to negotiate with its `____` during the conflict.
 
 - [x] enemy
-- [ ] bomb
-- [ ] common
+- [ ] expect
+- [ ] gun
 
 > **解析**：enemy 为名词，意为“敌人”。
 
@@ -238,8 +238,8 @@ The country refused to negotiate with its `____` during the conflict.
 Reporters `____` the prime minister to give an official response by evening.
 
 - [x] expect
-- [ ] border
-- [ ] court
+- [ ] false
+- [ ] headline
 
 > **解析**：expect 为动词，意为“预料、期待”。句型 expect sb. to do sth. 表示“预计某人做某事”。
 

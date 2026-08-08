@@ -62,11 +62,11 @@ after-party, afterwards, ask, asked her who had, bow tie, chaperone, clothing, c
 <quiz-sentence-builder>
 
 1. **中文**：他决定为高中舞会租一套经典的黑色晚礼服。  
-   **英文**：He decided to rent a classic black tuxedo for the high school prom for after-party.
+   **英文**：He decided to rent a classic black tuxedo for the high school prom.
    > **解析**：`tuxedo`（口语中常简写为 `tux`）指男士在正式场合穿的“晚礼服、无尾半正式礼服”，作动词 `rent` 的宾语。
 
 2. **中文**：她手腕上戴着一朵精致的佩花，与她的晚礼服很搭配。  
-   **英文**：She wore a delicate flower corsage on her wrist to match her evening dress for afterwards.
+   **英文**：She wore a delicate flower corsage on her wrist to match her evening dress about afterwards.
    > **解析**：`corsage` 特指女子在舞会或正式场合佩戴在手腕或胸前的“小花束/手腕花”，在句中作动词 `wore` 的直接宾语。
 
 3. **中文**：摄影师让他把红玫瑰胸花针扣在西装翻领上。  
@@ -82,11 +82,11 @@ after-party, afterwards, ask, asked her who had, bow tie, chaperone, clothing, c
    > **解析**：`get one's hair done` 是使役结构 `get + sth. + done` 的习惯用法，意为“（让别人给自己）做发型”，表示由专业人员提供服务。
 
 6. **中文**：高中毕业班学生参加一年一度的毕业舞会是一项悠久的传统习俗。  
-   **英文**：It is a longstanding custom for high school seniors to attend the annual prom for chaperone.
+   **英文**：It is a longstanding custom for high school seniors to attend the annual prom about after-party.
    > **解析**：`custom` 在此作名词，意为“风俗、传统习俗”。注意其与 `habit`（个人习惯）的区别。
 
 7. **中文**：活动开始前，专业摄影师为每一对伴侣拍照。  
-   **英文**：The professional photographer took pictures of the couples before the event began for clothing.
+   **英文**：The professional photographer took pictures of the couples before the event began about clothing.
    > **解析**：`photographer` 是可数名词，意为“摄影师”，由动词 `photograph` 加上表示人的后缀 `-er` 构成。
 
 8. **中文**：许多学生选择租用正装，而不是购买新衣服。  
@@ -94,21 +94,21 @@ after-party, afterwards, ask, asked her who had, bow tie, chaperone, clothing, c
    > **解析**：`rent` 在此作动词，意为“租用、租赁”。搭配 `rent formal wear` 表示“租用礼服/正装”。
 
 9. **中文**：要是我们一起打车去舞会场地省点钱怎么样？  
-   **英文**：What if we share a taxi to the prom venue to save money? for confirmation.
+   **英文**：What if we share a taxi to the prom venue to save money about chaperone.
    > **解析**：`What if we...?` 是提出建议或设想的常用口语句式，意为“如果我们……怎么样？”，后接动词原形从句。
 
 10. **中文**：如果我们小组今晚赢得舞蹈比赛，那岂不是很棒？  
-   **英文**：Wouldn't it be amazing if our group won the dance contest tonight? for crown.
+   **英文**：Wouldn't it be amazing if our group won the dance contest tonight.
    > **解析**：`Wouldn't it be + adj. + if...?` 是带委婉语气的反问句，意为“如果……难道不是很……吗？”，用于引发对方的认同与共鸣。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. He decided to rent a classic black tuxedo for the high school prom for after-party.
+1. He decided to rent a classic black tuxedo for the high school prom.
    > **中文**：他决定为高中舞会租一套经典的黑色晚礼服。
 
-2. She wore a delicate flower corsage on her wrist to match her evening dress for afterwards.
+2. She wore a delicate flower corsage on her wrist to match her evening dress about afterwards.
    > **中文**：她手腕上戴着一朵精致的佩花，与她的晚礼服很搭配。
 
 3. The photographer asked him to pin the red rose boutonniere onto his lapel.
@@ -120,19 +120,19 @@ after-party, afterwards, ask, asked her who had, bow tie, chaperone, clothing, c
 5. She spent two hours getting her hair done at the salon before heading to the dance (bow tie).
    > **中文**：在去参加舞会之前，她在沙龙花了两个小时做发型。
 
-6. It is a longstanding custom for high school seniors to attend the annual prom for chaperone.
+6. It is a longstanding custom for high school seniors to attend the annual prom about after-party.
    > **中文**：高中毕业班学生参加一年一度的毕业舞会是一项悠久的传统习俗。
 
-7. The professional photographer took pictures of the couples before the event began for clothing.
+7. The professional photographer took pictures of the couples before the event began about clothing.
    > **中文**：活动开始前，专业摄影师为每一对伴侣拍照。
 
 8. Many students choose to rent their formal wear instead of buying new clothes (coming up).
    > **中文**：许多学生选择租用正装，而不是购买新衣服。
 
-9. What if we share a taxi to the prom venue to save money? for confirmation.
+9. What if we share a taxi to the prom venue to save money about chaperone.
    > **中文**：要是我们一起打车去舞会场地省点钱怎么样？
 
-10. Wouldn't it be amazing if our group won the dance contest tonight? for crown.
+10. Wouldn't it be amazing if our group won the dance contest tonight.
    > **中文**：如果我们小组今晚赢得舞蹈比赛，那岂不是很棒？
 
 </quiz-listening>
@@ -145,21 +145,21 @@ after-party, afterwards, ask, asked her who had, bow tie, chaperone, clothing, c
 
 ### 1
 
-He decided to rent a classic black tuxedo for the high school prom for `____`.
+He decided to rent a classic black tuxedo for the high school `____`.
 
-- [x] after-party
-- [ ] asked her who had
-- [ ] clothing
+- [x] prom
+- [ ] after-party
+- [ ] bow tie
 
 > **解析**：`tuxedo`（口语中常简写为 `tux`）指男士在正式场合穿的“晚礼服、无尾半正式礼服”，作动词 `rent` 的宾语。
 
 ### 2
 
-She wore a delicate flower corsage on her wrist to match her evening dress for `____`.
+She wore a delicate flower corsage on her wrist to match her evening dress about `____`.
 
 - [x] afterwards
-- [ ] bow tie
-- [ ] coming up
+- [ ] ask
+- [ ] clothing
 
 > **解析**：`corsage` 特指女子在舞会或正式场合佩戴在手腕或胸前的“小花束/手腕花”，在句中作动词 `wore` 的直接宾语。
 
@@ -168,8 +168,8 @@ She wore a delicate flower corsage on her wrist to match her evening dress for `
 The photographer `____`ed him to pin the red rose boutonniere onto his lapel.
 
 - [x] ask
-- [ ] chaperone
-- [ ] confirmation
+- [ ] asked her who had
+- [ ] coming up
 
 > **解析**：`boutonniere` 指男士在正式场合佩戴在西装翻领上的“胸花”，源自法语，在句中作动词 `pin` 的宾语。
 
@@ -178,8 +178,8 @@ The photographer `____`ed him to pin the red rose boutonniere onto his lapel.
 They pooled their money together to hire a white limousine for the evening (`____`).
 
 - [x] asked her who had
-- [ ] clothing
-- [ ] crown
+- [ ] bow tie
+- [ ] confirmation
 
 > **解析**：`limousine`（口语常简称 `limo`）指“加长豪华轿车”，在句中作动词 `hire` 的宾语。
 
@@ -188,28 +188,28 @@ They pooled their money together to hire a white limousine for the evening (`___
 She spent two hours getting her hair done at the salon before heading to the dance (`____`).
 
 - [x] bow tie
-- [ ] coming up
-- [ ] after-party
+- [ ] chaperone
+- [ ] crown
 
 > **解析**：`get one's hair done` 是使役结构 `get + sth. + done` 的习惯用法，意为“（让别人给自己）做发型”，表示由专业人员提供服务。
 
 ### 6
 
-It is a longstanding custom for high school seniors to attend the annual prom for `____`.
+It is a longstanding custom for high school seniors to attend the annual prom about `____`.
 
-- [x] chaperone
-- [ ] confirmation
-- [ ] afterwards
+- [x] after-party
+- [ ] clothing
+- [ ] dance floor
 
 > **解析**：`custom` 在此作名词，意为“风俗、传统习俗”。注意其与 `habit`（个人习惯）的区别。
 
 ### 7
 
-The professional photographer took pictures of the couples before the event began for `____`.
+The professional photographer took pictures of the couples before the event began about `____`.
 
 - [x] clothing
-- [ ] crown
-- [ ] ask
+- [ ] coming up
+- [ ] date
 
 > **解析**：`photographer` 是可数名词，意为“摄影师”，由动词 `photograph` 加上表示人的后缀 `-er` 构成。
 
@@ -218,28 +218,28 @@ The professional photographer took pictures of the couples before the event bega
 Many students choose to rent their formal wear instead of buying new clothes (`____`).
 
 - [x] coming up
-- [ ] after-party
-- [ ] asked her who had
+- [ ] confirmation
+- [ ] fashionably late
 
 > **解析**：`rent` 在此作动词，意为“租用、租赁”。搭配 `rent formal wear` 表示“租用礼服/正装”。
 
 ### 9
 
-What if we share a taxi to the prom venue to save money? for `____`.
+What if we share a taxi to the prom venue to save money about `____`.
 
-- [x] confirmation
-- [ ] afterwards
-- [ ] bow tie
+- [x] chaperone
+- [ ] crown
+- [ ] is that right
 
 > **解析**：`What if we...?` 是提出建议或设想的常用口语句式，意为“如果我们……怎么样？”，后接动词原形从句。
 
 ### 10
 
-Wouldn't it be amazing if our group won the dance contest tonight? for `____`.
+`____`n't it be amazing if our group won the dance contest tonight.
 
-- [x] crown
-- [ ] ask
-- [ ] chaperone
+- [x] would
+- [ ] crown
+- [ ] is that right
 
 > **解析**：`Wouldn't it be + adj. + if...?` 是带委婉语气的反问句，意为“如果……难道不是很……吗？”，用于引发对方的认同与共鸣。
 

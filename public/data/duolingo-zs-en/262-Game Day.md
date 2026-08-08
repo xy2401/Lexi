@@ -88,7 +88,7 @@ i don't buy it（我不信）、there's no way（不可能）、nonsense（胡�
    > **解析**：`halftime` 是名词，意为“（体育比赛的）中场休息”。
 
 3. **中文**：裁判吹响哨子表示技术犯规。  
-   **英文**：The referee blew his whistle to indicate a technical foul for call.
+   **英文**：The referee blew his whistle to indicate a technical foul.
    > **解析**：`referee` 是名词，意为“裁判员”。
 
 4. **中文**：开球前在体育场停车场进行车尾派对是球迷的传统。  
@@ -96,15 +96,15 @@ i don't buy it（我不信）、there's no way（不可能）、nonsense（胡�
    > **解析**：`tailgating` 在体育语境中指“在车尾箱旁露天聚会喝饮品吃烧烤的球迷活动”。
 
 5. **中文**：关键在于低区座位的视野清晰得多。  
-   **英文**：The point is that the lower section seats offer much clearer visibility for cooler.
+   **英文**：The point is that the lower section seats offer much clearer visibility.
    > **解析**：`the point is that...` 是阐述关键论点的常用句型。
 
 6. **中文**：如果我们不早点到的话，绝不可能买到好票。  
-   **英文**：There's no way we can get good tickets if we don't arrive early for foul.
+   **英文**：There's no way we can get good tickets if we don't arrive early.
    > **解析**：`there's no way (that)...` 是强调“绝对不可能”的口语句型。
 
 7. **中文**：那只巨大的狮子吉祥物通过在场地上跳舞来逗乐孩子们。  
-   **英文**：The giant lion mascot entertained the kids by dancing on the field for halftime.
+   **英文**：The giant lion mascot entertained the kids by dancing on the field.
    > **解析**：`mascot` 是名词，意为“吉祥物”。
 
 8. **中文**：冠军季后赛的门票在五分钟内就被售罄了。  
@@ -112,11 +112,11 @@ i don't buy it（我不信）、there's no way（不可能）、nonsense（胡�
    > **解析**：`playoff` 是名词，意为“季后赛、决胜赛”。
 
 9. **中文**：他说那个座位有人坐了，但我才不信呢。  
-   **英文**：He says the seat is occupied, but I don't buy it.
+   **英文**：He says the seat is occupied, but I don't buy it about call.
    > **解析**：`I don't buy it` 是地道口语，意为“我不相信/我才不买账呢”。
 
 10. **中文**：别忘了带上装满冷饮的冰酷箱。  
-   **英文**：Don't forget to bring the ice cooler filled with cold beverages for jersey.
+   **英文**：Don't forget to bring the ice cooler filled with cold beverages.
    > **解析**：`cooler` 是名词，意为“冰盒、便携冷藏箱”。
 
 </quiz-sentence-builder>
@@ -129,28 +129,28 @@ i don't buy it（我不信）、there's no way（不可能）、nonsense（胡�
 2. Let's go buy some snacks and drinks during the halftime break (by now).
    > **中文**：让我们在中场休息期间去买些零食和饮料吧。
 
-3. The referee blew his whistle to indicate a technical foul for call.
+3. The referee blew his whistle to indicate a technical foul.
    > **中文**：裁判吹响哨子表示技术犯规。
 
 4. Tailgating in the stadium parking lot before kickoff is a fan tradition (come on).
    > **中文**：开球前在体育场停车场进行车尾派对是球迷的传统。
 
-5. The point is that the lower section seats offer much clearer visibility for cooler.
+5. The point is that the lower section seats offer much clearer visibility.
    > **中文**：关键在于低区座位的视野清晰得多。
 
-6. There's no way we can get good tickets if we don't arrive early for foul.
+6. There's no way we can get good tickets if we don't arrive early.
    > **中文**：如果我们不早点到的话，绝不可能买到好票。
 
-7. The giant lion mascot entertained the kids by dancing on the field for halftime.
+7. The giant lion mascot entertained the kids by dancing on the field.
    > **中文**：那只巨大的狮子吉祥物通过在场地上跳舞来逗乐孩子们。
 
 8. Tickets for the championship playoff game sold out within five minutes (i don't buy it).
    > **中文**：冠军季后赛的门票在五分钟内就被售罄了。
 
-9. He says the seat is occupied, but I don't buy it.
+9. He says the seat is occupied, but I don't buy it about call.
    > **中文**：他说那个座位有人坐了，但我才不信呢。
 
-10. Don't forget to bring the ice cooler filled with cold beverages for jersey.
+10. Don't forget to bring the ice cooler filled with cold beverages.
    > **中文**：别忘了带上装满冷饮的冰酷箱。
 
 </quiz-listening>
@@ -166,8 +166,8 @@ i don't buy it（我不信）、there's no way（不可能）、nonsense（胡�
 Sitting in the front row of the `____` gives you the best view of the game.
 
 - [x] bleachers
-- [ ] come on
-- [ ] halftime
+- [ ] by now
+- [ ] foul
 
 > **解析**：`bleachers` 是复数名词，意为“（体育场的）露天看台、露天座位”。
 
@@ -176,18 +176,18 @@ Sitting in the front row of the `____` gives you the best view of the game.
 Let's go buy some snacks and drinks during the halftime break (`____`).
 
 - [x] by now
-- [ ] cooler
-- [ ] i don't buy it
+- [ ] call
+- [ ] halftime
 
 > **解析**：`halftime` 是名词，意为“（体育比赛的）中场休息”。
 
 ### 3
 
-The referee blew his whistle to indicate a technical foul for `____`.
+The referee blew his whistle to indicate a technical `____`.
 
-- [x] call
-- [ ] foul
-- [ ] it
+- [x] foul
+- [ ] call
+- [ ] i don't buy it
 
 > **解析**：`referee` 是名词，意为“裁判员”。
 
@@ -196,38 +196,38 @@ The referee blew his whistle to indicate a technical foul for `____`.
 Tailgating in the stadium parking lot before kickoff is a fan tradition (`____`).
 
 - [x] come on
-- [ ] halftime
-- [ ] jersey
+- [ ] cooler
+- [ ] it
 
 > **解析**：`tailgating` 在体育语境中指“在车尾箱旁露天聚会喝饮品吃烧烤的球迷活动”。
 
 ### 5
 
-The point is that the lower section seats offer much clearer visibility for `____`.
+The point is that the lower section seats offer much clearer visibil`____`y.
 
-- [x] cooler
-- [ ] i don't buy it
-- [ ] bleachers
+- [x] it
+- [ ] cooler
+- [ ] jersey
 
 > **解析**：`the point is that...` 是阐述关键论点的常用句型。
 
 ### 6
 
-There's no way we can get good tickets if we don't arrive early for `____`.
+`____` we can get good tickets if we don't arrive early.
 
-- [x] foul
-- [ ] it
-- [ ] by now
+- [x] there's no way
+- [ ] foul
+- [ ] jersey
 
 > **解析**：`there's no way (that)...` 是强调“绝对不可能”的口语句型。
 
 ### 7
 
-The giant lion mascot entertained the kids by dancing on the field for `____`.
+The giant lion `____` entertained the kids by dancing on the field.
 
-- [x] halftime
-- [ ] jersey
-- [ ] call
+- [x] mascot
+- [ ] halftime
+- [ ] nonsense
 
 > **解析**：`mascot` 是名词，意为“吉祥物”。
 
@@ -236,28 +236,28 @@ The giant lion mascot entertained the kids by dancing on the field for `____`.
 Tickets for the championship playoff game sold out within five minutes (`____`).
 
 - [x] i don't buy it
-- [ ] bleachers
-- [ ] come on
+- [ ] it
+- [ ] not exactly
 
 > **解析**：`playoff` 是名词，意为“季后赛、决胜赛”。
 
 ### 9
 
-He says the seat is occupied, but I don't buy `____`.
+He says the seat is occupied, but I don't buy it about `____`.
 
-- [x] it
-- [ ] by now
-- [ ] cooler
+- [x] call
+- [ ] jersey
+- [ ] parking spot
 
 > **解析**：`I don't buy it` 是地道口语，意为“我不相信/我才不买账呢”。
 
 ### 10
 
-Don't forget to bring the ice cooler filled with cold beverages for `____`.
+Don't forget to bring the ice `____` filled with cold beverages.
 
-- [x] jersey
-- [ ] call
-- [ ] foul
+- [x] cooler
+- [ ] mascot
+- [ ] playoff
 
 > **解析**：`cooler` 是名词，意为“冰盒、便携冷藏箱”。
 

@@ -84,19 +84,19 @@ could you let me know / do you happen to / if I may ask 是三种不同程度的
    > **解析**：`negotiate` 作动词，意为“谈判、协商”，后接宾语 `a higher starting salary`。
 
 2. **中文**：加班的员工将获得额外的报酬。  
-   **英文**：Employees who work overtime will receive additional compensation for brief.
+   **英文**：Employees who work overtime will receive additional compensation.
    > **解析**：`overtime` 作副词或名词，`work overtime` 意为“加班”。
 
 3. **中文**：她迫切希望能为新的开发团队贡献自己的技术技能。  
-   **英文**：She is eager to contribute her technical skills to the new development team for capacity.
+   **英文**：She is eager to contribute her technical skills to the new development team.
    > **解析**：`contribute` 作及物动词，搭配 `contribute A to B`（将A贡献给B）。
 
 4. **中文**：在目前阶段，我们无法对晋升做出任何承诺。  
-   **英文**：At this point, we cannot make any promises about promotions for certified.
+   **英文**：At this point, we cannot make any promises about promotions about brief.
    > **解析**：`at this point` 是时间短语，意为“在此时刻、在目前阶段”。
 
 5. **中文**：您能否告知我您下周参加面试的方便时间？  
-   **英文**：Could you let me know your availability for an interview next week? for contribute.
+   **英文**：Could you let me know your availability for an interview next week.
    > **解析**：`could you let me know...` 是极具礼貌性的职场询问句型。
 
 6. **中文**：如果您不介意我问的话，您目前的薪资范围是多少？  
@@ -112,7 +112,7 @@ could you let me know / do you happen to / if I may ask 是三种不同程度的
    > **解析**：`pay off` 是不及物短语动词，意为“得到回报、取得成功”。
 
 9. **中文**：两位应聘者都不具备该岗位所需的准确经验。  
-   **英文**：Neither of the applicants had the exact experience required for the job for duty.
+   **英文**：Neither of the applicants had the exact experience required for the job.
    > **解析**：`neither of + 复数名词` 意为“两者都不”，表双重否定。
 
 10. **中文**：请在周五下午5点前提交您更新后的简历。  
@@ -126,16 +126,16 @@ could you let me know / do you happen to / if I may ask 是三种不同程度的
 1. The candidate wants to negotiate a higher starting salary before signing the contract (at this point).
    > **中文**：求职者希望在签订合同前协商更高的起薪。
 
-2. Employees who work overtime will receive additional compensation for brief.
+2. Employees who work overtime will receive additional compensation.
    > **中文**：加班的员工将获得额外的报酬。
 
-3. She is eager to contribute her technical skills to the new development team for capacity.
+3. She is eager to contribute her technical skills to the new development team.
    > **中文**：她迫切希望能为新的开发团队贡献自己的技术技能。
 
-4. At this point, we cannot make any promises about promotions for certified.
+4. At this point, we cannot make any promises about promotions about brief.
    > **中文**：在目前阶段，我们无法对晋升做出任何承诺。
 
-5. Could you let me know your availability for an interview next week? for contribute.
+5. Could you let me know your availability for an interview next week.
    > **中文**：您能否告知我您下周参加面试的方便时间？
 
 6. If you don't mind me asking, what is your current salary range? (could you let me know).
@@ -147,7 +147,7 @@ could you let me know / do you happen to / if I may ask 是三种不同程度的
 8. Hard work and persistence will eventually pay off in your career (do you have any idea).
    > **中文**：努力与坚持最终会在你的职业生涯中得到回报。
 
-9. Neither of the applicants had the exact experience required for the job for duty.
+9. Neither of the applicants had the exact experience required for the job.
    > **中文**：两位应聘者都不具备该岗位所需的准确经验。
 
 10. Please submit your updated resume before 5 PM on Friday (either of).
@@ -166,58 +166,58 @@ could you let me know / do you happen to / if I may ask 是三种不同程度的
 The candidate wants to negotiate a higher starting salary before signing the contract (`____`).
 
 - [x] at this point
-- [ ] certified
-- [ ] do you happen to
+- [ ] brief
+- [ ] could you let me know
 
 > **解析**：`negotiate` 作动词，意为“谈判、协商”，后接宾语 `a higher starting salary`。
 
 ### 2
 
-Employees who work overtime will receive additional compensation for `____`.
+Employees who work `____` will receive additional compensation.
 
-- [x] brief
-- [ ] contribute
-- [ ] do you have any idea
+- [x] overtime
+- [ ] brief
+- [ ] could you let me know
 
 > **解析**：`overtime` 作副词或名词，`work overtime` 意为“加班”。
 
 ### 3
 
-She is eager to contribute her technical skills to the new development team for `____`.
+She is eager to `____` her technical skills to the new development team.
 
-- [x] capacity
-- [ ] could you let me know
-- [ ] duty
+- [x] contribute
+- [ ] capacity
+- [ ] do you have any idea
 
 > **解析**：`contribute` 作及物动词，搭配 `contribute A to B`（将A贡献给B）。
 
 ### 4
 
-At this point, we cannot make any promises about promotions for `____`.
+At this point, we cannot make any promises about promotions about `____`.
 
-- [x] certified
-- [ ] do you happen to
-- [ ] either of
+- [x] brief
+- [ ] contribute
+- [ ] duty
 
 > **解析**：`at this point` 是时间短语，意为“在此时刻、在目前阶段”。
 
 ### 5
 
-Could you let me know your availability for an interview next week? for `____`.
+`____` your availability for an interview next week.
 
-- [x] contribute
-- [ ] do you have any idea
-- [ ] at this point
+- [x] could you let me know
+- [ ] contribute
+- [ ] either of
 
 > **解析**：`could you let me know...` 是极具礼貌性的职场询问句型。
 
 ### 6
 
-If you don't mind me asking, what is your current salary range? (`____`).
+`____`, what is your current salary range? (could you let me know).
 
-- [x] could you let me know
-- [ ] duty
-- [ ] brief
+- [x] if you don't mind me asking
+- [ ] could you let me know
+- [ ] either of
 
 > **解析**：`if you don't mind me asking` 是极有礼貌的插入短语，用于提出私密问题前。
 
@@ -226,8 +226,8 @@ If you don't mind me asking, what is your current salary range? (`____`).
 We are exploring the possibility of remote work for this position (`____`).
 
 - [x] do you happen to
-- [ ] either of
-- [ ] capacity
+- [ ] do you have any idea
+- [ ] if I may ask
 
 > **解析**：`possibility` 是名词，意为“可能性”，搭配 `the possibility of sth`。
 
@@ -236,28 +236,28 @@ We are exploring the possibility of remote work for this position (`____`).
 Hard work and persistence will eventually pay off in your career (`____`).
 
 - [x] do you have any idea
-- [ ] at this point
-- [ ] certified
+- [ ] duty
+- [ ] if you don't mind me asking
 
 > **解析**：`pay off` 是不及物短语动词，意为“得到回报、取得成功”。
 
 ### 9
 
-Neither of the applicants had the exact experience required for the job for `____`.
+N`____` the applicants had the exact experience required for the job.
 
-- [x] duty
-- [ ] brief
-- [ ] contribute
+- [x] either of
+- [ ] duty
+- [ ] management
 
 > **解析**：`neither of + 复数名词` 意为“两者都不”，表双重否定。
 
 ### 10
 
-Please submit your updated resume before 5 PM on Friday (`____`).
+Please `____` your updated resume before 5 PM on Friday (either of).
 
-- [x] either of
-- [ ] capacity
-- [ ] could you let me know
+- [x] submit
+- [ ] either of
+- [ ] management
 
 > **解析**：`submit` 是及物动词，意为“提交、呈递”，宾语为 `your updated resume`。
 

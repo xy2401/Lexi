@@ -56,15 +56,15 @@ half- 是前缀，构成 half-cooked（半熟的）之类的表达。dozen = 一
    > **解析**：boil 动词/名词，在此作动词表示“煮沸；烧开”，接名词短语 water。
 
 2. **中文**：在平底锅里加热橄榄油，将切块的蔬菜煎炒至金黄色。  
-   **英文**：Heat olive oil in the pan and fry the diced vegetables until golden brown for basket.
+   **英文**：Heat olive oil in the pan and fry the diced vegetables until golden brown.
    > **解析**：fry 及物/不及物动词，意为“油炸；煎；炒”。
 
 3. **中文**：我们决定在户外烧烤架上烤新鲜鸡胸肉。  
-   **英文**：We decided to grill fresh chicken breasts on the outdoor barbecue for boil.
+   **英文**：We decided to grill fresh chicken breasts on the outdoor barbecue.
    > **解析**：grill 及物/不及物动词，意为“烧烤；烤制”。
 
 4. **中文**：小心地把浓郁的蘑菇酱淋在热面条上。  
-   **英文**：Carefully pour the rich mushroom sauce over the warm pasta for burn.
+   **英文**：Carefully pour the rich mushroom sauce over the warm pasta.
    > **解析**：pour 及物动词，意为“倒；倾倒；淋上”，常搭配介词 over 或 into。
 
 5. **中文**：把新鲜黄瓜切成薄片做成爽口的绿色沙拉。  
@@ -72,7 +72,7 @@ half- 是前缀，构成 half-cooked（半熟的）之类的表达。dozen = 一
    > **解析**：cucumber 可数名词，意为“黄瓜”。
 
 6. **中文**：使用有机食材能提升家常菜的安全性与口感。  
-   **英文**：Using organic ingredients improves both the safety and flavor of home-cooked meals for dozen.
+   **英文**：Using organic ingredients improves both the safety and flavor of home-cooked meals.
    > **解析**：organic 形容词，意为“有机的”，指不使用化学农药培养的。
 
 7. **中文**：在混合蔬菜上淋少许意式沙拉酱以增加风味。  
@@ -80,15 +80,15 @@ half- 是前缀，构成 half-cooked（半熟的）之类的表达。dozen = 一
    > **解析**：dressing 不可数/可数名词，意为“（沙拉等）调味酱；调料”。
 
 8. **中文**：加入一小撮香料可以完全改变这道菜的美味。  
-   **英文**：Adding a pinch of aromatic spice can completely transform the dish for fry.
+   **英文**：Adding a pinch of aromatic spice can completely transform the dish.
    > **解析**：spice 可数/不可数名词，意为“香料；调味品”。
 
 9. **中文**：确保烹饪过程中在接触生肉后洗手。  
-   **英文**：Make sure you wash your hands after handling raw meat during cooking for grill.
+   **英文**：Make sure you wash your hands after handling raw meat during cooking.
    > **解析**：raw 形容词，意为“生的；未煮熟的”。
 
 10. **中文**：在汤炖煮时用木勺持续搅拌。  
-   **英文**：Use a wooden spoon to stir the soup continuously while it simmers for half-.
+   **英文**：Use a wooden spoon to stir the soup continuously while it simmers.
    > **解析**：stir 及物动词，意为“搅拌；摇动”。
 
 </quiz-sentence-builder>
@@ -98,31 +98,31 @@ half- 是前缀，构成 half-cooked（半熟的）之类的表达。dozen = 一
 1. First, bring a large pot of water to a boil before adding the noodles (a bit of).
    > **中文**：首先，在放入面条之前把一大锅水煮沸。
 
-2. Heat olive oil in the pan and fry the diced vegetables until golden brown for basket.
+2. Heat olive oil in the pan and fry the diced vegetables until golden brown.
    > **中文**：在平底锅里加热橄榄油，将切块的蔬菜煎炒至金黄色。
 
-3. We decided to grill fresh chicken breasts on the outdoor barbecue for boil.
+3. We decided to grill fresh chicken breasts on the outdoor barbecue.
    > **中文**：我们决定在户外烧烤架上烤新鲜鸡胸肉。
 
-4. Carefully pour the rich mushroom sauce over the warm pasta for burn.
+4. Carefully pour the rich mushroom sauce over the warm pasta.
    > **中文**：小心地把浓郁的蘑菇酱淋在热面条上。
 
 5. Slice a fresh cucumber thinly to make a crisp green salad.
    > **中文**：把新鲜黄瓜切成薄片做成爽口的绿色沙拉。
 
-6. Using organic ingredients improves both the safety and flavor of home-cooked meals for dozen.
+6. Using organic ingredients improves both the safety and flavor of home-cooked meals.
    > **中文**：使用有机食材能提升家常菜的安全性与口感。
 
 7. Pour a little Italian dressing over the mixed greens for extra flavor.
    > **中文**：在混合蔬菜上淋少许意式沙拉酱以增加风味。
 
-8. Adding a pinch of aromatic spice can completely transform the dish for fry.
+8. Adding a pinch of aromatic spice can completely transform the dish.
    > **中文**：加入一小撮香料可以完全改变这道菜的美味。
 
-9. Make sure you wash your hands after handling raw meat during cooking for grill.
+9. Make sure you wash your hands after handling raw meat during cooking.
    > **中文**：确保烹饪过程中在接触生肉后洗手。
 
-10. Use a wooden spoon to stir the soup continuously while it simmers for half-.
+10. Use a wooden spoon to stir the soup continuously while it simmers.
    > **中文**：在汤炖煮时用木勺持续搅拌。
 
 </quiz-listening>
@@ -138,38 +138,38 @@ half- 是前缀，构成 half-cooked（半熟的）之类的表达。dozen = 一
 First, bring a large pot of water to a boil before adding the noodles (`____`).
 
 - [x] a bit of
-- [ ] burn
-- [ ] dressing
+- [ ] basket
+- [ ] dozen
 
 > **解析**：boil 动词/名词，在此作动词表示“煮沸；烧开”，接名词短语 water。
 
 ### 2
 
-Heat olive oil in the pan and fry the diced vegetables until golden brown for `____`.
+Heat olive oil in the pan and `____` the diced vegetables until golden brown.
 
-- [x] basket
-- [ ] cucumber
-- [ ] fry
+- [x] fry
+- [ ] basket
+- [ ] dozen
 
 > **解析**：fry 及物/不及物动词，意为“油炸；煎；炒”。
 
 ### 3
 
-We decided to grill fresh chicken breasts on the outdoor barbecue for `____`.
+We decided to `____` fresh chicken breasts on the outdoor barbecue.
 
-- [x] boil
-- [ ] dozen
-- [ ] grill
+- [x] grill
+- [ ] boil
+- [ ] dressing
 
 > **解析**：grill 及物/不及物动词，意为“烧烤；烤制”。
 
 ### 4
 
-Carefully pour the rich mushroom sauce over the warm pasta for `____`.
+Carefully `____` the rich mushroom sauce over the warm pasta.
 
-- [x] burn
-- [ ] dressing
-- [ ] half-
+- [x] pour
+- [ ] burn
+- [ ] fry
 
 > **解析**：pour 及物动词，意为“倒；倾倒；淋上”，常搭配介词 over 或 into。
 
@@ -178,18 +178,18 @@ Carefully pour the rich mushroom sauce over the warm pasta for `____`.
 Slice a fresh `____` thinly to make a crisp green salad.
 
 - [x] cucumber
-- [ ] fry
-- [ ] a bit of
+- [ ] dozen
+- [ ] half-
 
 > **解析**：cucumber 可数名词，意为“黄瓜”。
 
 ### 6
 
-Using organic ingredients improves both the safety and flavor of home-cooked meals for `____`.
+Using `____` ingredients improves both the safety and flavor of home-cooked meals.
 
-- [x] dozen
-- [ ] grill
-- [ ] basket
+- [x] organic
+- [ ] dozen
+- [ ] half-
 
 > **解析**：organic 形容词，意为“有机的”，指不使用化学农药培养的。
 
@@ -198,38 +198,38 @@ Using organic ingredients improves both the safety and flavor of home-cooked mea
 Pour a little Italian `____` over the mixed greens for extra flavor.
 
 - [x] dressing
-- [ ] half-
-- [ ] boil
+- [ ] fry
+- [ ] organic
 
 > **解析**：dressing 不可数/可数名词，意为“（沙拉等）调味酱；调料”。
 
 ### 8
 
-Adding a pinch of aromatic spice can completely transform the dish for `____`.
+Adding a pinch of aromatic `____` can completely transform the dish.
 
-- [x] fry
-- [ ] a bit of
-- [ ] burn
+- [x] spice
+- [ ] fry
+- [ ] organic
 
 > **解析**：spice 可数/不可数名词，意为“香料；调味品”。
 
 ### 9
 
-Make sure you wash your hands after handling raw meat during cooking for `____`.
+Make sure you wash your hands after handling `____` meat during cooking.
 
-- [x] grill
-- [ ] basket
-- [ ] cucumber
+- [x] raw
+- [ ] grill
+- [ ] pour
 
 > **解析**：raw 形容词，意为“生的；未煮熟的”。
 
 ### 10
 
-Use a wooden spoon to stir the soup continuously while it simmers for `____`.
+Use a wooden spoon to `____` the soup continuously while it simmers.
 
-- [x] half-
-- [ ] boil
-- [ ] dozen
+- [x] stir
+- [ ] half-
+- [ ] raw
 
 > **解析**：stir 及物动词，意为“搅拌；摇动”。
 

@@ -54,11 +54,11 @@ any, anyway, as much as, at the moment, cab, change the subject, either, even, f
 <quiz-sentence-builder>
 
 1. **中文**：当话题变得尴尬时，她礼貌地决定改变话题。  
-   **英文**：When the topic became uncomfortable, she politely decided to change the subject for any.
+   **英文**：When the topic became uncomfortable, she politely decided to change the subject.
    > **解析**：change the subject 动词短语，意为“改变话题；转换话题”。
 
 2. **中文**：我的老朋友开始坚持要为我们合吃的晚餐买单。  
-   **英文**：My old friend began to insist on paying for our shared dinner for anyway.
+   **英文**：My old friend began to insist on paying for our shared dinner.
    > **解析**：insist 不及物动词，意为“坚持；坚决要求”，常与介词 on 连用（insist on doing）。
 
 3. **中文**：在不得不向同学们道别之前，我们给彼此送上了拥抱。  
@@ -78,29 +78,29 @@ any, anyway, as much as, at the moment, cab, change the subject, either, even, f
    > **解析**：anyway 副词，意为“无论如何；总之”，常用于句末表示折回主题或坚持决定。
 
 7. **中文**：他们因为选哪部电影小吵了一架，但很快就和好了。  
-   **英文**：They had a minor fight about the movie choice, but soon made up for either.
+   **英文**：They had a minor fight about the movie choice, but soon made up.
    > **解析**：fight 可数名词，在此意为“争吵；争论”；也可作动词。
 
 8. **中文**：在老社区附近行走时，要当心湿滑的落叶。  
-   **英文**：When walking near the old neighborhood, watch out for slippery wet leaves for even.
+   **英文**：When walking near the old neighborhood, watch out for slippery wet leaves.
    > **解析**：watch out for 常用动词短语，意为“当心；注意”。
 
 9. **中文**：与朋友叙旧时，我听到前门传来突如其来的敲门声。  
-   **英文**：I heard a sudden knock at the front door while reminiscing with friends for fight.
+   **英文**：I heard a sudden knock at the front door while reminiscing with friends.
    > **解析**：knock 可数名词/动词，在此作名词意为“敲击声；敲门”。
 
 10. **中文**：她此刻抽不出空说话，但她会给你回电话的。  
-   **英文**：She is not available to talk at the moment, but she will call you back for hand.
+   **英文**：She is not available to talk at the moment, but she will call you back about anyway.
    > **解析**：at the moment 介词短语，意为“此刻；目前”，相当于 right now。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. When the topic became uncomfortable, she politely decided to change the subject for any.
+1. When the topic became uncomfortable, she politely decided to change the subject.
    > **中文**：当话题变得尴尬时，她礼貌地决定改变话题。
 
-2. My old friend began to insist on paying for our shared dinner for anyway.
+2. My old friend began to insist on paying for our shared dinner.
    > **中文**：我的老朋友开始坚持要为我们合吃的晚餐买单。
 
 3. We gave each other big hugs before we had to say goodbye to our classmates (as much as).
@@ -115,16 +115,16 @@ any, anyway, as much as, at the moment, cab, change the subject, either, even, f
 6. It started to rain heavily, but we decided to meet up anyway (change the subject).
    > **中文**：下起了大雨，但我们无论如何还是决定见个面。
 
-7. They had a minor fight about the movie choice, but soon made up for either.
+7. They had a minor fight about the movie choice, but soon made up.
    > **中文**：他们因为选哪部电影小吵了一架，但很快就和好了。
 
-8. When walking near the old neighborhood, watch out for slippery wet leaves for even.
+8. When walking near the old neighborhood, watch out for slippery wet leaves.
    > **中文**：在老社区附近行走时，要当心湿滑的落叶。
 
-9. I heard a sudden knock at the front door while reminiscing with friends for fight.
+9. I heard a sudden knock at the front door while reminiscing with friends.
    > **中文**：与朋友叙旧时，我听到前门传来突如其来的敲门声。
 
-10. She is not available to talk at the moment, but she will call you back for hand.
+10. She is not available to talk at the moment, but she will call you back about anyway.
    > **中文**：她此刻抽不出空说话，但她会给你回电话的。
 
 </quiz-listening>
@@ -137,21 +137,21 @@ any, anyway, as much as, at the moment, cab, change the subject, either, even, f
 
 ### 1
 
-When the topic became uncomfortable, she politely decided to change the subject for `____`.
+When the topic became uncomfortable, she politely decided to `____`.
 
-- [x] any
-- [ ] at the moment
-- [ ] either
+- [x] change the subject
+- [ ] any
+- [ ] cab
 
 > **解析**：change the subject 动词短语，意为“改变话题；转换话题”。
 
 ### 2
 
-My old friend began to insist on paying for our shared dinner for `____`.
+My old friend began to `____` on paying for our shared dinner.
 
-- [x] anyway
-- [ ] cab
-- [ ] even
+- [x] insist
+- [ ] anyway
+- [ ] change the subject
 
 > **解析**：insist 不及物动词，意为“坚持；坚决要求”，常与介词 on 连用（insist on doing）。
 
@@ -160,8 +160,8 @@ My old friend began to insist on paying for our shared dinner for `____`.
 We gave each other big hugs before we had to say goodbye to our classmates (`____`).
 
 - [x] as much as
-- [ ] change the subject
-- [ ] fight
+- [ ] at the moment
+- [ ] even
 
 > **解析**：say goodbye to 动词短语，意为“向……告别/道别”。
 
@@ -170,8 +170,8 @@ We gave each other big hugs before we had to say goodbye to our classmates (`___
 Looking at old family photos always makes me miss my childhood home (`____`).
 
 - [x] at the moment
-- [ ] either
-- [ ] hand
+- [ ] cab
+- [ ] fight
 
 > **解析**：miss 及物动词，在此意为“想念；怀念”；也可指“错过”。
 
@@ -180,58 +180,58 @@ Looking at old family photos always makes me miss my childhood home (`____`).
 After chatting until midnight, we called a taxi `____` to get back home.
 
 - [x] cab
-- [ ] even
-- [ ] any
+- [ ] change the subject
+- [ ] hand
 
 > **解析**：cab 可数名词，意为“出租车”，与 taxi 同义。
 
 ### 6
 
-It started to rain heavily, but we decided to meet up anyway (`____`).
+It started to rain heavily, but we decided to meet up `____`way (change the subject).
 
-- [x] change the subject
-- [ ] fight
-- [ ] anyway
+- [x] any
+- [ ] either
+- [ ] hasn't
 
 > **解析**：anyway 副词，意为“无论如何；总之”，常用于句末表示折回主题或坚持决定。
 
 ### 7
 
-They had a minor fight about the movie choice, but soon made up for `____`.
+They had a minor `____` about the movie choice, but soon made up.
 
-- [x] either
-- [ ] hand
-- [ ] as much as
+- [x] fight
+- [ ] either
+- [ ] haven't
 
 > **解析**：fight 可数名词，在此意为“争吵；争论”；也可作动词。
 
 ### 8
 
-When walking near the old neighborhood, watch out for slippery wet leaves for `____`.
+When walking near the old neighborhood, `____` slippery wet leaves.
 
-- [x] even
-- [ ] any
-- [ ] at the moment
+- [x] watch out for
+- [ ] even
+- [ ] haven't
 
 > **解析**：watch out for 常用动词短语，意为“当心；注意”。
 
 ### 9
 
-I heard a sudden knock at the front door while reminiscing with friends for `____`.
+I heard a sudden `____` at the front door while reminiscing with friends.
 
-- [x] fight
-- [ ] anyway
-- [ ] cab
+- [x] knock
+- [ ] fight
+- [ ] how to
 
 > **解析**：knock 可数名词/动词，在此作名词意为“敲击声；敲门”。
 
 ### 10
 
-She is not available to talk at the moment, but she will call you back for `____`.
+She is not available to talk at the moment, but she will call you back about `____`.
 
-- [x] hand
-- [ ] as much as
-- [ ] change the subject
+- [x] anyway
+- [ ] hasn't
+- [ ] insist
 
 > **解析**：at the moment 介词短语，意为“此刻；目前”，相当于 right now。
 

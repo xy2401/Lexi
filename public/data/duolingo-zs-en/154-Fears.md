@@ -66,11 +66,11 @@ be scared of / be terrified of 表恐惧。used to 表过去习惯。
    > **解析**：anxious 为形容词，意为“焦虑的、不安的”。常见搭配 be/feel anxious about sth.（对某事感到焦虑）。
 
 2. **中文**：在做出决定前，深深吸一口气并尝试冷静下来。  
-   **英文**：Take a deep breath and try to calm down before making a decision for attack.
+   **英文**：Take a deep breath and try to calm down before making a decision.
    > **解析**：calm down 为短语动词，意为“平静下来、镇定”。可用作不及物动词，也可用作及物动词（calm sb. down）。
 
 3. **中文**：我通常很喜欢夜间散步，但今晚静悄悄的街道让人感觉怪异。  
-   **英文**：I usually enjoy night walks, but tonight the quiet street feels spooky for bee.
+   **英文**：I usually enjoy night walks, but tonight the quiet street feels spooky.
    > **解析**：enjoy 为及物动词，意为“喜欢、享受”。后接名词或动名词（enjoy doing sth.）。
 
 4. **中文**：我绝对讨厌被独自留在漆黑的环境中。  
@@ -78,23 +78,23 @@ be scared of / be terrified of 表恐惧。used to 表过去习惯。
    > **解析**：hate 为及物动词，意为“讨厌、憎恨”。后接动名词（doing）或不定式（to do），在此处表长期厌恶。
 
 5. **中文**：我弟弟害怕蜘蛛和黑暗的空间。  
-   **英文**：My younger brother is scared of spiders and dark spaces for cliff.
+   **英文**：My younger brother is scared of spiders and dark spaces.
    > **解析**：scared of 为固定形容词短语，意为“害怕……”，主语为人，后接名词、代词或动名词（scared of heights/spiders）。
 
 6. **中文**：准备期末考试总是能把我压力拉满、让我紧张透顶。  
-   **英文**：Preparing for the final examinations always manages to stress me out for creepy.
+   **英文**：Preparing for the final examinations always manages to stress me out about creepy.
    > **解析**：stress out 为短语动词，意为“使过度紧张、使压力山大”。常作及物动词使用（stress sb. out）。
 
 7. **中文**：我过去很害怕坐飞机，但在乘坐了几次航班后我克服了它。  
-   **英文**：I used to be afraid of flying, but I got over it after taking several flights for earthquake.
+   **英文**：I used to be afraid of flying, but I got over it after taking several flights.
    > **解析**：used to 意为“过去常常/曾经”，后接动词原形（used to be），表示过去存在的状态或习惯，现已改变。
 
 8. **中文**：当电梯突然停在楼层之间时，她经历了恐慌发作。  
-   **英文**：She suffered a panic attack when the elevator suddenly stopped between floors for enjoy.
+   **英文**：She suffered a panic attack when the elevator suddenly stopped between floors.
    > **解析**：attack 在此处作名词，意为“（疾病或恐慌的）发作”，如 panic attack（恐慌发作/惊恐发作）。
 
 9. **中文**：路尽头那栋破旧废弃的房子看起来真的很令人毛骨悚然。  
-   **英文**：The old abandoned house at the end of the road looks really creepy for fear.
+   **英文**：The old abandoned house at the end of the road looks really creepy about bee.
    > **解析**：creepy 为形容词，意为“令人毛骨悚然的、怪异恐怖的”，常用来形容事物、声音或场所给人带来的恐惧感。
 
 10. **中文**：在登山过程中，他尽最大努力去克服对高处的恐惧。  
@@ -108,28 +108,28 @@ be scared of / be terrified of 表恐惧。used to 表过去习惯。
 1. She felt extremely anxious about speaking in front of a large audience.
    > **中文**：在大众面前讲话让她感到极其焦虑不安。
 
-2. Take a deep breath and try to calm down before making a decision for attack.
+2. Take a deep breath and try to calm down before making a decision.
    > **中文**：在做出决定前，深深吸一口气并尝试冷静下来。
 
-3. I usually enjoy night walks, but tonight the quiet street feels spooky for bee.
+3. I usually enjoy night walks, but tonight the quiet street feels spooky.
    > **中文**：我通常很喜欢夜间散步，但今晚静悄悄的街道让人感觉怪异。
 
 4. I absolutely hate being left alone in total darkness (calm down).
    > **中文**：我绝对讨厌被独自留在漆黑的环境中。
 
-5. My younger brother is scared of spiders and dark spaces for cliff.
+5. My younger brother is scared of spiders and dark spaces.
    > **中文**：我弟弟害怕蜘蛛和黑暗的空间。
 
-6. Preparing for the final examinations always manages to stress me out for creepy.
+6. Preparing for the final examinations always manages to stress me out about creepy.
    > **中文**：准备期末考试总是能把我压力拉满、让我紧张透顶。
 
-7. I used to be afraid of flying, but I got over it after taking several flights for earthquake.
+7. I used to be afraid of flying, but I got over it after taking several flights.
    > **中文**：我过去很害怕坐飞机，但在乘坐了几次航班后我克服了它。
 
-8. She suffered a panic attack when the elevator suddenly stopped between floors for enjoy.
+8. She suffered a panic attack when the elevator suddenly stopped between floors.
    > **中文**：当电梯突然停在楼层之间时，她经历了恐慌发作。
 
-9. The old abandoned house at the end of the road looks really creepy for fear.
+9. The old abandoned house at the end of the road looks really creepy about bee.
    > **中文**：路尽头那栋破旧废弃的房子看起来真的很令人毛骨悚然。
 
 10. He tried his best to overcome his fear of heights during the mountain climb (get used to).
@@ -148,98 +148,98 @@ be scared of / be terrified of 表恐惧。used to 表过去习惯。
 She felt extremely `____` about speaking in front of a large audience.
 
 - [x] anxious
-- [ ] calm down
-- [ ] earthquake
+- [ ] attack
+- [ ] creepy
 
 > **解析**：anxious 为形容词，意为“焦虑的、不安的”。常见搭配 be/feel anxious about sth.（对某事感到焦虑）。
 
 ### 2
 
-Take a deep breath and try to calm down before making a decision for `____`.
+Take a deep breath and try to `____` before making a decision.
 
-- [x] attack
-- [ ] cliff
-- [ ] enjoy
+- [x] calm down
+- [ ] attack
+- [ ] earthquake
 
 > **解析**：calm down 为短语动词，意为“平静下来、镇定”。可用作不及物动词，也可用作及物动词（calm sb. down）。
 
 ### 3
 
-I usually enjoy night walks, but tonight the quiet street feels spooky for `____`.
+I usually `____` night walks, but tonight the quiet street feels spooky.
 
-- [x] bee
-- [ ] creepy
-- [ ] fear
+- [x] enjoy
+- [ ] bee
+- [ ] earthquake
 
 > **解析**：enjoy 为及物动词，意为“喜欢、享受”。后接名词或动名词（enjoy doing sth.）。
 
 ### 4
 
-I absolutely hate being left alone in total darkness (`____`).
+I absolutely `____` being left alone in total darkness (calm down).
 
-- [x] calm down
-- [ ] earthquake
-- [ ] get used to
+- [x] hate
+- [ ] calm down
+- [ ] enjoy
 
 > **解析**：hate 为及物动词，意为“讨厌、憎恨”。后接动名词（doing）或不定式（to do），在此处表长期厌恶。
 
 ### 5
 
-My younger brother is scared of spiders and dark spaces for `____`.
+My younger brother is `____` spiders and dark spaces.
 
-- [x] cliff
-- [ ] enjoy
-- [ ] anxious
+- [x] scared of
+- [ ] cliff
+- [ ] fear
 
 > **解析**：scared of 为固定形容词短语，意为“害怕……”，主语为人，后接名词、代词或动名词（scared of heights/spiders）。
 
 ### 6
 
-Preparing for the final examinations always manages to stress me out for `____`.
+Preparing for the final examinations always manages to stress me out about `____`.
 
 - [x] creepy
-- [ ] fear
-- [ ] attack
+- [ ] earthquake
+- [ ] hate
 
 > **解析**：stress out 为短语动词，意为“使过度紧张、使压力山大”。常作及物动词使用（stress sb. out）。
 
 ### 7
 
-I used to be afraid of flying, but I got over it after taking several flights for `____`.
+I `____` be afraid of flying, but I got over it after taking several flights.
 
-- [x] earthquake
-- [ ] get used to
-- [ ] bee
+- [x] used to
+- [ ] earthquake
+- [ ] hate
 
 > **解析**：used to 意为“过去常常/曾经”，后接动词原形（used to be），表示过去存在的状态或习惯，现已改变。
 
 ### 8
 
-She suffered a panic attack when the elevator suddenly stopped between floors for `____`.
+She suffered a panic `____` when the elevator suddenly stopped between floors.
 
-- [x] enjoy
-- [ ] anxious
-- [ ] calm down
+- [x] attack
+- [ ] fear
+- [ ] keep
 
 > **解析**：attack 在此处作名词，意为“（疾病或恐慌的）发作”，如 panic attack（恐慌发作/惊恐发作）。
 
 ### 9
 
-The old abandoned house at the end of the road looks really creepy for `____`.
+The old abandoned house at the end of the road looks really creepy about `____`.
 
-- [x] fear
-- [ ] attack
-- [ ] cliff
+- [x] bee
+- [ ] get used to
+- [ ] nightmare
 
 > **解析**：creepy 为形容词，意为“令人毛骨悚然的、怪异恐怖的”，常用来形容事物、声音或场所给人带来的恐惧感。
 
 ### 10
 
-He tried his best to overcome his fear of heights during the mountain climb (`____`).
+He tried his best to overcome his `____` of heights during the mountain climb (get used to).
 
-- [x] get used to
-- [ ] bee
-- [ ] creepy
+- [x] fear
+- [ ] hate
+- [ ] scared of
 
 > **解析**：fear 为名词，意为“恐惧、害怕”。常见搭配 overcome one's fear of sth.（克服对……的恐惧）。
 

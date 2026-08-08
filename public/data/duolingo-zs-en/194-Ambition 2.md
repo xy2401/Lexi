@@ -52,19 +52,19 @@ face to face 描述面试方式，advantage 用来分析利弊。整体来看，
 <quiz-sentence-builder>
 
 1. **中文**：获得高级软件设计师的职位是她的理想工作。  
-   **英文**：Landing a position as a senior software designer is her dream job for advantage.
+   **英文**：Landing a position as a senior software designer is her dream job.
    > **解析**：dream job 名词短语，意为“梦寐以求的工作；理想工作”。
 
 2. **中文**：周一的求职面试她穿了一套专业西装。  
-   **英文**：She wore a professional suit for her job interview on Monday for babysit.
+   **英文**：She wore a professional suit for her job interview on Monday.
    > **解析**：interview 可数名词/动词，在此作名词意为“面试；访谈”。
 
 3. **中文**：该公司提供有竞争力的时薪和灵活的工作时间。  
-   **英文**：The company offers a competitive hourly wage and flexible work hours for baker.
+   **英文**：The company offers a competitive hourly wage and flexible work hours.
    > **解析**：hourly wage 名词短语，意为“小时工资；时薪”。
 
 4. **中文**：流利的英语技能使候选人在跨国公司中具有明显的优势。  
-   **英文**：Fluent English skills give candidates a distinct advantage in international companies for change.
+   **英文**：Fluent English skills give candidates a distinct advantage in international companies.
    > **解析**：advantage 可数/不可数名词，意为“优势；有利条件”，常与 give 或 have 搭配。
 
 5. **中文**：官方报告显示青年就业呈现积极增长趋势。  
@@ -72,7 +72,7 @@ face to face 描述面试方式，advantage 用来分析利弊。整体来看，
    > **解析**：employment 不可数名词，意为“就业；雇用”，动词形式为 employ。
 
 6. **中文**：技术娴熟的理发师在求职面试前为她剪理了头发。  
-   **英文**：The skilled hairdresser cut and styled her hair before the job interview for employment.
+   **英文**：The skilled hairdresser cut and styled her hair before the job interview.
    > **解析**：hairdresser 可数名词，意为“理发师；美发师”。
 
 7. **中文**：友善的面包师每天大清早起床准备新鲜面包。  
@@ -80,11 +80,11 @@ face to face 描述面试方式，advantage 用来分析利弊。整体来看，
    > **解析**：baker 可数名词，意为“面包师”，来自于动词 bake。
 
 8. **中文**：如果你喜欢照顾动物，成为一名兽医可能是个绝佳选择。  
-   **英文**：If you love caring for animals, becoming a vet might be a great choice for had.
+   **英文**：If you love caring for animals, becoming a vet might be a great choice.
    > **解析**：vet 可数名词，意为“兽医”，为 veterinarian 的简写形式。
 
 9. **中文**：经理更倾向于面对面进行第二次面试。  
-   **英文**：The manager preferred to hold the second interview face to face for hairdresser.
+   **英文**：The manager preferred to hold the second interview face to face.
    > **解析**：face to face 副词/形容词短语，意为“面对面地”。
 
 10. **中文**：她决定给邻居的孩子当临时保姆以赚取额外零花钱。  
@@ -95,31 +95,31 @@ face to face 描述面试方式，advantage 用来分析利弊。整体来看，
 
 <quiz-listening>
 
-1. Landing a position as a senior software designer is her dream job for advantage.
+1. Landing a position as a senior software designer is her dream job.
    > **中文**：获得高级软件设计师的职位是她的理想工作。
 
-2. She wore a professional suit for her job interview on Monday for babysit.
+2. She wore a professional suit for her job interview on Monday.
    > **中文**：周一的求职面试她穿了一套专业西装。
 
-3. The company offers a competitive hourly wage and flexible work hours for baker.
+3. The company offers a competitive hourly wage and flexible work hours.
    > **中文**：该公司提供有竞争力的时薪和灵活的工作时间。
 
-4. Fluent English skills give candidates a distinct advantage in international companies for change.
+4. Fluent English skills give candidates a distinct advantage in international companies.
    > **中文**：流利的英语技能使候选人在跨国公司中具有明显的优势。
 
 5. The official report showed a positive growth trend in youth employment (dream job).
    > **中文**：官方报告显示青年就业呈现积极增长趋势。
 
-6. The skilled hairdresser cut and styled her hair before the job interview for employment.
+6. The skilled hairdresser cut and styled her hair before the job interview.
    > **中文**：技术娴熟的理发师在求职面试前为她剪理了头发。
 
 7. The friendly baker wakes up early every morning to prepare fresh bread (face to face).
    > **中文**：友善的面包师每天大清早起床准备新鲜面包。
 
-8. If you love caring for animals, becoming a vet might be a great choice for had.
+8. If you love caring for animals, becoming a vet might be a great choice.
    > **中文**：如果你喜欢照顾动物，成为一名兽医可能是个绝佳选择。
 
-9. The manager preferred to hold the second interview face to face for hairdresser.
+9. The manager preferred to hold the second interview face to face.
    > **中文**：经理更倾向于面对面进行第二次面试。
 
 10. She decided to babysit for her neighbor's kids to earn extra pocket money (hourly wage).
@@ -135,101 +135,101 @@ face to face 描述面试方式，advantage 用来分析利弊。整体来看，
 
 ### 1
 
-Landing a position as a senior software designer is her dream job for `____`.
+Landing a position as a senior software designer is her `____`.
 
-- [x] advantage
-- [ ] change
-- [ ] face to face
+- [x] dream job
+- [ ] advantage
+- [ ] employment
 
 > **解析**：dream job 名词短语，意为“梦寐以求的工作；理想工作”。
 
 ### 2
 
-She wore a professional suit for her job interview on Monday for `____`.
+She wore a professional suit for her job `____` on Monday.
 
-- [x] babysit
-- [ ] dream job
-- [ ] had
+- [x] interview
+- [ ] babysit
+- [ ] employment
 
 > **解析**：interview 可数名词/动词，在此作名词意为“面试；访谈”。
 
 ### 3
 
-The company offers a competitive hourly wage and flexible work hours for `____`.
+The company offers a competitive `____` and flexible work hours.
 
-- [x] baker
-- [ ] employment
-- [ ] hairdresser
+- [x] hourly wage
+- [ ] baker
+- [ ] face to face
 
 > **解析**：hourly wage 名词短语，意为“小时工资；时薪”。
 
 ### 4
 
-Fluent English skills give candidates a distinct advantage in international companies for `____`.
+Fluent English skills give candidates a distinct `____` in international companies.
 
-- [x] change
-- [ ] face to face
-- [ ] hourly wage
+- [x] advantage
+- [ ] dream job
+- [ ] hairdresser
 
 > **解析**：advantage 可数/不可数名词，意为“优势；有利条件”，常与 give 或 have 搭配。
 
 ### 5
 
-The official report showed a positive growth trend in youth employment (`____`).
+The official report showed a positive growth trend in youth `____` (dream job).
 
-- [x] dream job
-- [ ] had
-- [ ] advantage
+- [x] employment
+- [ ] dream job
+- [ ] hourly wage
 
 > **解析**：employment 不可数名词，意为“就业；雇用”，动词形式为 employ。
 
 ### 6
 
-The skilled hairdresser cut and styled her hair before the job interview for `____`.
+The skilled `____` cut and styled her hair before the job interview.
 
-- [x] employment
-- [ ] hairdresser
-- [ ] babysit
+- [x] hairdresser
+- [ ] employment
+- [ ] if
 
 > **解析**：hairdresser 可数名词，意为“理发师；美发师”。
 
 ### 7
 
-The friendly baker wakes up early every morning to prepare fresh bread (`____`).
+The friendly `____` wakes up early every morning to prepare fresh bread (face to face).
 
-- [x] face to face
-- [ ] hourly wage
-- [ ] baker
+- [x] baker
+- [ ] had
+- [ ] if I
 
 > **解析**：baker 可数名词，意为“面包师”，来自于动词 bake。
 
 ### 8
 
-If you love caring for animals, becoming a vet might be a great choice for `____`.
+`____` you love caring for animals, becoming a vet might be a great choice.
 
-- [x] had
-- [ ] advantage
-- [ ] change
+- [x] if
+- [ ] had
+- [ ] interview
 
 > **解析**：vet 可数名词，意为“兽医”，为 veterinarian 的简写形式。
 
 ### 9
 
-The manager preferred to hold the second interview face to face for `____`.
+The manager preferred to hold the second interview `____`.
 
-- [x] hairdresser
-- [ ] babysit
-- [ ] dream job
+- [x] face to face
+- [ ] hourly wage
+- [ ] make
 
 > **解析**：face to face 副词/形容词短语，意为“面对面地”。
 
 ### 10
 
-She decided to babysit for her neighbor's kids to earn extra pocket money (`____`).
+She decided to `____` for her neighbor's kids to earn extra pocket money (hourly wage).
 
-- [x] hourly wage
-- [ ] baker
-- [ ] employment
+- [x] babysit
+- [ ] if
+- [ ] one day
 
 > **解析**：babysit 不及物/及物动词，意为“做临时保姆；照看婴儿”。
 

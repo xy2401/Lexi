@@ -68,7 +68,7 @@ a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief
    > **解析**：`without further ado` 是习惯口语短语，意为“闲话少说、言归正传”，在主持中极高频。
 
 2. **中文**：请为我们来自观众席的勇敢志愿者送上热烈的掌声。  
-   **英文**：Please give a warm round of applause to our brave volunteer from the audience for blindfolded.
+   **英文**：Please give a warm round of applause to our brave volunteer from the audience.
    > **解析**：`a round of applause` 是固定名词短语，意为“一轮掌声”，作动词 `give` 的直接宾语。
 
 3. **中文**：这位有才华的魔术师凭空变走了大硬币，让所有人惊叹不已。  
@@ -76,27 +76,27 @@ a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief
    > **解析**：`magician` 是名词，意为“魔术师”，派生自 `magic` + `-ian`。
 
 4. **中文**：镜子道具在舞台上制造了令人信服的光学错觉。  
-   **英文**：The mirror trick created a convincing optical illusion on stage for gasp.
+   **英文**：The mirror trick created a convincing optical illusion on stage.
    > **解析**：`illusion` 是名词，意为“错觉、幻象”，常用搭配 `optical illusion`（光学错觉）。
 
 5. **中文**：魔术师在猜观众写的数字时是被蒙上双眼的。  
-   **英文**：The magician was blindfolded while guessing the numbers written by audience members for handcuffs.
+   **英文**：The magician was blindfolded while guessing the numbers written by audience members.
    > **解析**：`blindfolded` 是形容词/副词，意为“被蒙住眼睛的”，由 `blind` + `fold` + `-ed` 构成。
 
 6. **中文**：当助手从箱子里消失时，观众发出了响亮的惊呼声。  
-   **英文**：The audience let out a loud gasp when the assistant vanished from the box for handkerchief.
+   **英文**：The audience let out a loud gasp when the assistant vanished from the box.
    > **解析**：`gasp` 作名词，意为“倒吸一口凉气、惊呼”，短语 `let out a gasp`（发出惊呼）。
 
 7. **中文**：他向任何人发起挑战，看能否在十秒内解开缠在他手上的紧结。  
-   **英文**：He challenged anyone to untie the tight knots around his hands in under ten seconds for illusion.
+   **英文**：He challenged anyone to untie the tight knots around his hands in under ten seconds.
    > **解析**：`untie` 是动词，前缀 `un-` + `tie`，意为“解开（绳结）”。
 
 8. **中文**：这场令人惊心动魄的表演完全达到了观众的高预期。  
-   **英文**：The thrilling show completely lived up to the high expectations of the audience for incredibly.
+   **英文**：The thrilling show completely lived up to the high expectations of the audience about incredibly.
    > **解析**：`live up to` 是动词短语，意为“符合、达到（预期/标准）”，接 `expectations`。
 
 9. **中文**：一位勇敢的志愿者从前排走上前去协助表演绳索魔术。  
-   **英文**：A brave volunteer stepped forward from the front row to assist with the rope trick for knot.
+   **英文**：A brave volunteer stepped forward from the front row to assist with the rope trick.
    > **解析**：`brave volunteer` 是形容词+名词结构，意为“勇敢的志愿者”，常用于舞台互动语境。
 
 10. **中文**：戏剧性的背景音乐在高潮到来前营造出高度悬疑紧张的气氛。  
@@ -110,28 +110,28 @@ a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief
 1. Without further ado, let us welcome our master magician to the stage (a round of applause).
    > **中文**：话不多说，让我们欢迎我们的魔术大师上台。
 
-2. Please give a warm round of applause to our brave volunteer from the audience for blindfolded.
+2. Please give a warm round of applause to our brave volunteer from the audience.
    > **中文**：请为我们来自观众席的勇敢志愿者送上热烈的掌声。
 
 3. The talented magician amazed everyone by making a large coin disappear into thin air (brave volunteer).
    > **中文**：这位有才华的魔术师凭空变走了大硬币，让所有人惊叹不已。
 
-4. The mirror trick created a convincing optical illusion on stage for gasp.
+4. The mirror trick created a convincing optical illusion on stage.
    > **中文**：镜子道具在舞台上制造了令人信服的光学错觉。
 
-5. The magician was blindfolded while guessing the numbers written by audience members for handcuffs.
+5. The magician was blindfolded while guessing the numbers written by audience members.
    > **中文**：魔术师在猜观众写的数字时是被蒙上双眼的。
 
-6. The audience let out a loud gasp when the assistant vanished from the box for handkerchief.
+6. The audience let out a loud gasp when the assistant vanished from the box.
    > **中文**：当助手从箱子里消失时，观众发出了响亮的惊呼声。
 
-7. He challenged anyone to untie the tight knots around his hands in under ten seconds for illusion.
+7. He challenged anyone to untie the tight knots around his hands in under ten seconds.
    > **中文**：他向任何人发起挑战，看能否在十秒内解开缠在他手上的紧结。
 
-8. The thrilling show completely lived up to the high expectations of the audience for incredibly.
+8. The thrilling show completely lived up to the high expectations of the audience about incredibly.
    > **中文**：这场令人惊心动魄的表演完全达到了观众的高预期。
 
-9. A brave volunteer stepped forward from the front row to assist with the rope trick for knot.
+9. A brave volunteer stepped forward from the front row to assist with the rope trick.
    > **中文**：一位勇敢的志愿者从前排走上前去协助表演绳索魔术。
 
 10. The dramatic background music created a highly suspenseful atmosphere before the climax (live up to).
@@ -150,88 +150,88 @@ a round of applause, blindfolded, brave volunteer, gasp, handcuffs, handkerchief
 Without further ado, let us welcome our master magician to the stage (`____`).
 
 - [x] a round of applause
-- [ ] gasp
-- [ ] illusion
+- [ ] blindfolded
+- [ ] handkerchief
 
 > **解析**：`without further ado` 是习惯口语短语，意为“闲话少说、言归正传”，在主持中极高频。
 
 ### 2
 
-Please give a warm round of applause to our brave volunteer from the audience for `____`.
+Please give a warm round of applause to our `____` from the audience.
 
-- [x] blindfolded
-- [ ] handcuffs
-- [ ] incredibly
+- [x] brave volunteer
+- [ ] blindfolded
+- [ ] illusion
 
 > **解析**：`a round of applause` 是固定名词短语，意为“一轮掌声”，作动词 `give` 的直接宾语。
 
 ### 3
 
-The talented magician amazed everyone by making a large coin disappear into thin air (`____`).
+The talented `____` amazed everyone by making a large coin disappear into thin air (brave volunteer).
 
-- [x] brave volunteer
-- [ ] handkerchief
-- [ ] knot
+- [x] magician
+- [ ] brave volunteer
+- [ ] illusion
 
 > **解析**：`magician` 是名词，意为“魔术师”，派生自 `magic` + `-ian`。
 
 ### 4
 
-The mirror trick created a convincing optical illusion on stage for `____`.
+The mirror trick created a convincing optical `____` on stage.
 
-- [x] gasp
-- [ ] illusion
-- [ ] live up to
+- [x] illusion
+- [ ] gasp
+- [ ] knot
 
 > **解析**：`illusion` 是名词，意为“错觉、幻象”，常用搭配 `optical illusion`（光学错觉）。
 
 ### 5
 
-The magician was blindfolded while guessing the numbers written by audience members for `____`.
+The magician was `____` while guessing the numbers written by audience members.
 
-- [x] handcuffs
-- [ ] incredibly
-- [ ] a round of applause
+- [x] blindfolded
+- [ ] handkerchief
+- [ ] live up to
 
 > **解析**：`blindfolded` 是形容词/副词，意为“被蒙住眼睛的”，由 `blind` + `fold` + `-ed` 构成。
 
 ### 6
 
-The audience let out a loud gasp when the assistant vanished from the box for `____`.
+The audience let out a loud `____` when the assistant vanished from the box.
 
-- [x] handkerchief
-- [ ] knot
-- [ ] blindfolded
+- [x] gasp
+- [ ] illusion
+- [ ] magic show
 
 > **解析**：`gasp` 作名词，意为“倒吸一口凉气、惊呼”，短语 `let out a gasp`（发出惊呼）。
 
 ### 7
 
-He challenged anyone to untie the tight knots around his hands in under ten seconds for `____`.
+He challenged anyone to untie the tight `____`s around his hands in under ten seconds.
 
-- [x] illusion
-- [ ] live up to
-- [ ] brave volunteer
+- [x] knot
+- [ ] illusion
+- [ ] magician
 
 > **解析**：`untie` 是动词，前缀 `un-` + `tie`，意为“解开（绳结）”。
 
 ### 8
 
-The thrilling show completely lived up to the high expectations of the audience for `____`.
+The thrilling show completely lived up to the high expectations of the audience about `____`.
 
 - [x] incredibly
-- [ ] a round of applause
-- [ ] gasp
+- [ ] knot
+- [ ] make
 
 > **解析**：`live up to` 是动词短语，意为“符合、达到（预期/标准）”，接 `expectations`。
 
 ### 9
 
-A brave volunteer stepped forward from the front row to assist with the rope trick for `____`.
+A brave volunteer stepped forward from the front row to assist with the rope `____`.
 
-- [x] knot
-- [ ] blindfolded
-- [ ] handcuffs
+- [x] trick
+- [ ] knot
+- [ ] make
 
 > **解析**：`brave volunteer` 是形容词+名词结构，意为“勇敢的志愿者”，常用于舞台互动语境。
 
@@ -240,8 +240,8 @@ A brave volunteer stepped forward from the front row to assist with the rope tri
 The dramatic background music created a highly suspenseful atmosphere before the climax (`____`).
 
 - [x] live up to
-- [ ] brave volunteer
-- [ ] handkerchief
+- [ ] magic show
+- [ ] precisely
 
 > **解析**：`suspenseful` 是形容词，由 `suspense`（悬念）+ `-ful` 构成，意为“悬念重重的、充满悬疑的”。
 

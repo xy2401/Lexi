@@ -82,11 +82,11 @@ bad guy, chase, punch, save the day 是超级英雄叙事的经典元素。marti
    > **解析**：`superpower` 是可数名词，意为“超能力”，前半句为虚拟语气条件句。
 
 2. **中文**：飞行英雄及时赶到，挽救了局势/拯救了大家。  
-   **英文**：The flying hero arrived just in time to save the day for chase.
+   **英文**：The flying hero arrived just in time to save the day.
    > **解析**：`save the day` 是习惯用语，意为“扭转乾坤、挽救局势、拯救危局”。
 
 3. **中文**：如果你有看穿人心思的能力会怎样呢？  
-   **英文**：What if you had the ability to read people's minds? for feather.
+   **英文**：What if you had the ability to read people's minds.
    > **解析**：`What if...` 常用语引导假设性疑问句，意为“要是……会怎么样呢”。
 
 4. **中文**：超级英雄在狭窄的小巷里追赶那个坏蛋。  
@@ -124,10 +124,10 @@ bad guy, chase, punch, save the day 是超级英雄叙事的经典元素。marti
 1. If you could choose any superpower, would you pick invisibility or flight? (bad guy).
    > **中文**：如果你可以选择任何超能力，你会选择隐身还是飞行？
 
-2. The flying hero arrived just in time to save the day for chase.
+2. The flying hero arrived just in time to save the day.
    > **中文**：飞行英雄及时赶到，挽救了局势/拯救了大家。
 
-3. What if you had the ability to read people's minds? for feather.
+3. What if you had the ability to read people's minds.
    > **中文**：如果你有看穿人心思的能力会怎样呢？
 
 4. The superhero chased the bad guy through the narrow alleyways (get caught).
@@ -164,38 +164,38 @@ bad guy, chase, punch, save the day 是超级英雄叙事的经典元素。marti
 If you could choose any superpower, would you pick invisibility or flight? (`____`).
 
 - [x] bad guy
-- [ ] get caught
-- [ ] if he wasn't
+- [ ] chase
+- [ ] if he had
 
 > **解析**：`superpower` 是可数名词，意为“超能力”，前半句为虚拟语气条件句。
 
 ### 2
 
-The flying hero arrived just in time to save the day for `____`.
+The flying hero arrived just in time to `____`.
 
-- [x] chase
-- [ ] if he didn't
-- [ ] if she hadn't
+- [x] save the day
+- [ ] chase
+- [ ] if he had
 
 > **解析**：`save the day` 是习惯用语，意为“扭转乾坤、挽救局势、拯救危局”。
 
 ### 3
 
-What if you had the ability to read people's minds? for `____`.
+What if you had the abil`____`y to read people's minds.
 
-- [x] feather
-- [ ] if he had
-- [ ] if you could
+- [x] it
+- [ ] feather
+- [ ] if he wasn't
 
 > **解析**：`What if...` 常用语引导假设性疑问句，意为“要是……会怎么样呢”。
 
 ### 4
 
-The superhero chased the bad guy through the narrow alleyways (`____`).
+The superhero `____`d the bad guy through the narrow alleyways (get caught).
 
-- [x] get caught
-- [ ] if he wasn't
-- [ ] if you were
+- [x] chase
+- [ ] if he didn't
+- [ ] if you could
 
 > **解析**：`bad guy` 表示“反派、坏人”，在影视小说的常见名词短语。
 
@@ -204,8 +204,8 @@ The superhero chased the bad guy through the narrow alleyways (`____`).
 If you were a superhero, how would you protect your secret identity? (`____`).
 
 - [x] if he didn't
-- [ ] if she hadn't
-- [ ] bad guy
+- [ ] if he had
+- [ ] if you were
 
 > **解析**：`If you were...` 是对现在事实的虚拟语气条件从句，主句用 `would + 动词原形`。
 
@@ -214,8 +214,8 @@ If you were a superhero, how would you protect your secret identity? (`____`).
 `____` trained harder, he would have defeated the villain easily.
 
 - [x] if he had
-- [ ] if you could
-- [ ] chase
+- [ ] if he wasn't
+- [ ] it
 
 > **解析**：`would have + 过去分词` 是对过去事实的虚拟语气主句搭配。
 
@@ -224,8 +224,8 @@ If you were a superhero, how would you protect your secret identity? (`____`).
 She mastered ancient martial arts to defeat her enemy without weapons (`____`).
 
 - [x] if he wasn't
-- [ ] if you were
-- [ ] feather
+- [ ] if she hadn't
+- [ ] martial arts
 
 > **解析**：`martial arts` 是复数名词短语，意为“武术、格斗术”。
 
@@ -234,8 +234,8 @@ She mastered ancient martial arts to defeat her enemy without weapons (`____`).
 The police officers chased the suspect down the street (`____`).
 
 - [x] if she hadn't
-- [ ] bad guy
-- [ ] get caught
+- [ ] if you could
+- [ ] over and over
 
 > **解析**：`chase` 作及物动词，意为“追赶、追捕”，宾语为 `the suspect`。
 
@@ -244,18 +244,18 @@ The police officers chased the suspect down the street (`____`).
 The villain wore a dark cloak, making him look very suspicious (`____`).
 
 - [x] if you could
-- [ ] chase
-- [ ] if he didn't
+- [ ] if you were
+- [ ] poison
 
 > **解析**：`suspicious` 是形容词，意为“可疑的、引起怀疑的”，作表语补语。
 
 ### 10
 
-A smart villain will take extreme care not to get caught by the authorities (`____`).
+A smart villain will take extreme care not to `____` by the authorities (if you were).
 
-- [x] if you were
-- [ ] feather
-- [ ] if he had
+- [x] get caught
+- [ ] it
+- [ ] punch
 
 > **解析**：`get caught` 是被动结构，意为“被抓住、被逮捕”。
 

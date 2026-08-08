@@ -62,23 +62,23 @@ didn't use to 表示"过去不"。sweep → swept（扫）。
 <quiz-sentence-builder>
 
 1. **中文**：我祖父母年轻的时候过去常常没有空调。  
-   **英文**：My grandparents didn't use to have air conditioning when they were young for accountant.
+   **英文**：My grandparents didn't use to have air conditioning when they were young.
    > **解析**：didn't use to 为 used to 的否定表达，后接动词原形（have），表示“过去习惯不……/以前不曾……”。
 
 2. **中文**：几十年前的孩子们周末下午大部分时间都在室外玩耍。  
-   **英文**：Children decades ago spent most of their weekend afternoon playing outdoors for assignment.
+   **英文**：Children decades ago spent most of their weekend afternoon playing outdoors.
    > **解析**：outdoors 为副词，意为“在室外、在户外的自然环境中”。修饰动词 playing。反义词为 indoors。
 
 3. **中文**：在下雨天，我们不得不待在室内一起打扑克牌。  
-   **英文**：On rainy days, we had to stay indoors and play card games together for corn.
+   **英文**：On rainy days, we had to stay indoors and play card games together.
    > **解析**：indoors 为副词，意为“在室内、在屋里”。stay indoors 表示“待在室内”。
 
 4. **中文**：我们过去常在我们村子后面的清澈淡水小溪里抓小鱼。  
-   **英文**：We used to catch small fish in the clear freshwater stream behind our village for court.
+   **英文**：We used to catch small fish in the clear freshwater stream behind our village.
    > **解析**：stream 为名词，意为“小溪、溪流”。freshwater stream 表示“淡水溪流”。
 
 5. **中文**：清晨，我爷爷很早醒来观看日出。  
-   **英文**：Early in the morning, my grandfather woke up early to watch the sunrise for cover.
+   **英文**：Early in the morning, my grandfather woke up early to watch the sunrise.
    > **解析**：sunrise 为名词，意为“日出”。watch the sunrise 意为“看日出”。反义词为 sunset（日落）。
 
 6. **中文**：过去的年轻人确实知道如何修理自己的自行车。  
@@ -90,34 +90,34 @@ didn't use to 表示"过去不"。sweep → swept（扫）。
    > **解析**：fewer 为 few 的比较级，后接可数名词复数（cars），意为“更少的”。比较级句式常与 compared to 或 than 连用。
 
 8. **中文**：过去学生们必须用墨水笔手写完成每天的家庭作业任务。  
-   **英文**：Students had to write their daily homework assignments by hand using ink pens for favorite.
+   **英文**：Students had to write their daily homework assignments by hand using ink pens.
    > **解析**：assignment 为名词，意为“作业、分配的任务”。by hand 表示“手写”。
 
 9. **中文**：在电子计算机出现之前，我父亲担任首席会计师。  
-   **英文**：Before electronic computers existed, my father worked as a chief accountant for fewer.
+   **英文**：Before electronic computers existed, my father worked as a chief accountant.
    > **解析**：accountant 为名词，意为“会计、会计师”。work as an accountant 意为“担任会计工作”。
 
 10. **中文**：几十年前的生活很简单；然而，医疗条件要局限得多。  
-   **英文**：Life was simple decades ago; however, medical conditions were much limited for fly.
+   **英文**：Life was simple decades ago; however, medical conditions were much limited.
    > **解析**：however 为副词/连接副词，表示转折关系“然而、不过”。置于句中通常前后用分号或逗号隔开。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. My grandparents didn't use to have air conditioning when they were young for accountant.
+1. My grandparents didn't use to have air conditioning when they were young.
    > **中文**：我祖父母年轻的时候过去常常没有空调。
 
-2. Children decades ago spent most of their weekend afternoon playing outdoors for assignment.
+2. Children decades ago spent most of their weekend afternoon playing outdoors.
    > **中文**：几十年前的孩子们周末下午大部分时间都在室外玩耍。
 
-3. On rainy days, we had to stay indoors and play card games together for corn.
+3. On rainy days, we had to stay indoors and play card games together.
    > **中文**：在下雨天，我们不得不待在室内一起打扑克牌。
 
-4. We used to catch small fish in the clear freshwater stream behind our village for court.
+4. We used to catch small fish in the clear freshwater stream behind our village.
    > **中文**：我们过去常在我们村子后面的清澈淡水小溪里抓小鱼。
 
-5. Early in the morning, my grandfather woke up early to watch the sunrise for cover.
+5. Early in the morning, my grandfather woke up early to watch the sunrise.
    > **中文**：清晨，我爷爷很早醒来观看日出。
 
 6. Young people in the past did know how to repair their own bicycles.
@@ -126,13 +126,13 @@ didn't use to 表示"过去不"。sweep → swept（扫）。
 7. There were fewer cars on the roads fifty years ago compared to today (didn't use to).
    > **中文**：与今天相比，五十年前道路上的汽车要少得多。
 
-8. Students had to write their daily homework assignments by hand using ink pens for favorite.
+8. Students had to write their daily homework assignments by hand using ink pens.
    > **中文**：过去学生们必须用墨水笔手写完成每天的家庭作业任务。
 
-9. Before electronic computers existed, my father worked as a chief accountant for fewer.
+9. Before electronic computers existed, my father worked as a chief accountant.
    > **中文**：在电子计算机出现之前，我父亲担任首席会计师。
 
-10. Life was simple decades ago; however, medical conditions were much limited for fly.
+10. Life was simple decades ago; however, medical conditions were much limited.
    > **中文**：几十年前的生活很简单；然而，医疗条件要局限得多。
 
 </quiz-listening>
@@ -145,61 +145,61 @@ didn't use to 表示"过去不"。sweep → swept（扫）。
 
 ### 1
 
-My grandparents didn't use to have air conditioning when they were young for `____`.
+My grandparents `____`n't use to have air conditioning when they were young.
 
-- [x] accountant
-- [ ] court
-- [ ] didn't use to
+- [x] did
+- [ ] accountant
+- [ ] cover
 
 > **解析**：didn't use to 为 used to 的否定表达，后接动词原形（have），表示“过去习惯不……/以前不曾……”。
 
 ### 2
 
-Children decades ago spent most of their weekend afternoon playing outdoors for `____`.
+Children decades ago spent most of their weekend afternoon playing `____`.
 
-- [x] assignment
-- [ ] cover
-- [ ] favorite
+- [x] outdoors
+- [ ] assignment
+- [ ] did
 
 > **解析**：outdoors 为副词，意为“在室外、在户外的自然环境中”。修饰动词 playing。反义词为 indoors。
 
 ### 3
 
-On rainy days, we had to stay indoors and play card games together for `____`.
+On rainy days, we had to stay `____` and play card games together.
 
-- [x] corn
-- [ ] did
-- [ ] fewer
+- [x] indoors
+- [ ] corn
+- [ ] didn't use to
 
 > **解析**：indoors 为副词，意为“在室内、在屋里”。stay indoors 表示“待在室内”。
 
 ### 4
 
-We used to catch small fish in the clear freshwater stream behind our village for `____`.
+We used to catch small fish in the clear freshwater `____` behind our village.
 
-- [x] court
-- [ ] didn't use to
-- [ ] fly
+- [x] stream
+- [ ] court
+- [ ] favorite
 
 > **解析**：stream 为名词，意为“小溪、溪流”。freshwater stream 表示“淡水溪流”。
 
 ### 5
 
-Early in the morning, my grandfather woke up early to watch the sunrise for `____`.
+Early in the morning, my grandfather woke up early to watch the `____`.
 
-- [x] cover
-- [ ] favorite
-- [ ] accountant
+- [x] sunrise
+- [ ] cover
+- [ ] fewer
 
 > **解析**：sunrise 为名词，意为“日出”。watch the sunrise 意为“看日出”。反义词为 sunset（日落）。
 
 ### 6
 
-Young people in the past `____` know how to repair their own bicycles.
+Young people in the past did `____` repair their own bicycles.
 
-- [x] did
-- [ ] fewer
-- [ ] assignment
+- [x] know how to
+- [ ] did
+- [ ] fly
 
 > **解析**：know how to do sth. 为固定表达，意为“知道如何做某事、掌握某种技能”。
 
@@ -208,38 +208,38 @@ Young people in the past `____` know how to repair their own bicycles.
 There were fewer cars on the roads fifty years ago compared to today (`____`).
 
 - [x] didn't use to
-- [ ] fly
-- [ ] corn
+- [ ] favorite
+- [ ] inch
 
 > **解析**：fewer 为 few 的比较级，后接可数名词复数（cars），意为“更少的”。比较级句式常与 compared to 或 than 连用。
 
 ### 8
 
-Students had to write their daily homework assignments by hand using ink pens for `____`.
+Students had to write their daily homework `____`s by hand using ink pens.
 
-- [x] favorite
-- [ ] accountant
-- [ ] court
+- [x] assignment
+- [ ] fewer
+- [ ] indoors
 
 > **解析**：assignment 为名词，意为“作业、分配的任务”。by hand 表示“手写”。
 
 ### 9
 
-Before electronic computers existed, my father worked as a chief accountant for `____`.
+Before electronic computers existed, my father worked as a chief `____`.
 
-- [x] fewer
-- [ ] assignment
-- [ ] cover
+- [x] accountant
+- [ ] fly
+- [ ] know how to
 
 > **解析**：accountant 为名词，意为“会计、会计师”。work as an accountant 意为“担任会计工作”。
 
 ### 10
 
-Life was simple decades ago; however, medical conditions were much limited for `____`.
+Life was simple decades ago; `____`, medical conditions were much limited.
 
-- [x] fly
-- [ ] corn
-- [ ] did
+- [x] however
+- [ ] fly
+- [ ] never used to
 
 > **解析**：however 为副词/连接副词，表示转折关系“然而、不过”。置于句中通常前后用分号或逗号隔开。
 

@@ -70,15 +70,15 @@ root for / cheer for = 支持/加油。than 用于比较。
    > **解析**：beat 是及物动词，意为“战胜、击败”，后接对手（the champion team），注意与 win（赢得比赛）区别。
 
 3. **中文**：超过二十支国际队伍将在本周末角逐该奖杯。  
-   **英文**：Over twenty international teams will compete for the trophy this weekend for athlete.
+   **英文**：Over twenty international teams will compete for the trophy this weekend.
    > **解析**：compete 为不及物动词，意为“竞争、比赛”。常用结构 compete for sth.（为争取某物而竞争）。
 
 4. **中文**：我们决定在电视上看网球锦标赛赛事的现场直播。  
-   **英文**：We decided to watch the tennis tournament match live on television for beat.
+   **英文**：We decided to watch the tennis tournament match live on television.
    > **解析**：live 在此处用作副词，意为“现场直播地”，修饰动词 watch，常用于体育赛事转播情境。
 
 5. **中文**：在奥运会期间你打算支持哪个国家的队伍？  
-   **英文**：Which country's team are you going to root for during the Olympic Games? for champion.
+   **英文**：Which country's team are you going to root for during the Olympic Games.
    > **解析**：root for 是动词短语，口语中意为“为……加油、支持”，后接支持的队伍或选手（root for a team）。
 
 6. **中文**：你能告诉我锦标赛中的最佳射手是谁吗？  
@@ -86,19 +86,19 @@ root for / cheer for = 支持/加油。than 用于比较。
    > **解析**：tell 为及物动词，意为“告诉”。常见搭配 tell sb. sth. / tell sb. + 特殊疑问句从句。
 
 7. **中文**：一年一度的足球锦标赛每年夏天吸引数千名体育迷。  
-   **英文**：The annual soccer tournament attracts thousands of sports fans every summer for coach.
+   **英文**：The annual soccer tournament attracts thousands of sports fans every summer.
    > **解析**：tournament 为可数名词，意为“锦标赛、联赛”。在体育话题中，指由多支队伍参加的淘汰赛或循环赛。
 
 8. **中文**：我们队至少还需要再赢两场才能获得季后赛资格。  
-   **英文**：Our team needs at least two more wins to qualify for the playoffs for compete.
+   **英文**：Our team needs at least two more wins to qualify for the playoffs about athlete.
    > **解析**：at least 为副词短语，意为“至少、起码”，在句中修饰数量词 two more wins。
 
 9. **中文**：数千名球迷聚集在体育场内为他们的主队加油助威。  
-   **英文**：Thousands of fans gathered in the stadium to cheer for their home team for go.
+   **英文**：Thousands of fans gathered in the stadium to cheer for their home team about beat.
    > **解析**：cheer for 为动词短语，意为“为……欢呼加油”，后接支持的对象（their home team）。
 
 10. **中文**：加油队伍！你们为这场比赛付出了如此多的努力！  
-   **英文**：Go team! You have worked so hard for this match for goal.
+   **英文**：Go team! You have worked so hard for this match about champion.
    > **解析**：go 在此处用作感叹呼号，Go + 队名/team 意为“……加油！”，为比赛现场常用的鼓励口号。
 
 </quiz-sentence-builder>
@@ -111,28 +111,28 @@ root for / cheer for = 支持/加油。than 用于比较。
 2. Our local basketball team managed to beat the champion team in the final round (at least).
    > **中文**：我们当地的篮球队在决赛阶段成功战胜了冠军队。
 
-3. Over twenty international teams will compete for the trophy this weekend for athlete.
+3. Over twenty international teams will compete for the trophy this weekend.
    > **中文**：超过二十支国际队伍将在本周末角逐该奖杯。
 
-4. We decided to watch the tennis tournament match live on television for beat.
+4. We decided to watch the tennis tournament match live on television.
    > **中文**：我们决定在电视上看网球锦标赛赛事的现场直播。
 
-5. Which country's team are you going to root for during the Olympic Games? for champion.
+5. Which country's team are you going to root for during the Olympic Games.
    > **中文**：在奥运会期间你打算支持哪个国家的队伍？
 
 6. Can you tell me who the top scorer in the tournament is? (cheer for).
    > **中文**：你能告诉我锦标赛中的最佳射手是谁吗？
 
-7. The annual soccer tournament attracts thousands of sports fans every summer for coach.
+7. The annual soccer tournament attracts thousands of sports fans every summer.
    > **中文**：一年一度的足球锦标赛每年夏天吸引数千名体育迷。
 
-8. Our team needs at least two more wins to qualify for the playoffs for compete.
+8. Our team needs at least two more wins to qualify for the playoffs about athlete.
    > **中文**：我们队至少还需要再赢两场才能获得季后赛资格。
 
-9. Thousands of fans gathered in the stadium to cheer for their home team for go.
+9. Thousands of fans gathered in the stadium to cheer for their home team about beat.
    > **中文**：数千名球迷聚集在体育场内为他们的主队加油助威。
 
-10. Go team! You have worked so hard for this match for goal.
+10. Go team! You have worked so hard for this match about champion.
    > **中文**：加油队伍！你们为这场比赛付出了如此多的努力！
 
 </quiz-listening>
@@ -148,8 +148,8 @@ root for / cheer for = 支持/加油。than 用于比较。
 Did you `____` him which football team he is supporting in the championship?
 
 - [x] ask
-- [ ] beat
-- [ ] coach
+- [ ] at least
+- [ ] cheer for
 
 > **解析**：ask 在此处作动词，意为“询问”。结构为 ask sb. + 疑问词从句（which team...），用于询问他人意向或喜好。
 
@@ -158,38 +158,38 @@ Did you `____` him which football team he is supporting in the championship?
 Our local basketball team managed to beat the champion team in the final round (`____`).
 
 - [x] at least
-- [ ] champion
-- [ ] compete
+- [ ] athlete
+- [ ] coach
 
 > **解析**：beat 是及物动词，意为“战胜、击败”，后接对手（the champion team），注意与 win（赢得比赛）区别。
 
 ### 3
 
-Over twenty international teams will compete for the trophy this weekend for `____`.
+Over twenty international teams will `____` for the trophy this weekend.
 
-- [x] athlete
-- [ ] cheer for
-- [ ] go
+- [x] compete
+- [ ] athlete
+- [ ] coach
 
 > **解析**：compete 为不及物动词，意为“竞争、比赛”。常用结构 compete for sth.（为争取某物而竞争）。
 
 ### 4
 
-We decided to watch the tennis tournament match live on television for `____`.
+We decided to watch the tennis tournament match `____` on television.
 
-- [x] beat
-- [ ] coach
-- [ ] goal
+- [x] live
+- [ ] beat
+- [ ] compete
 
 > **解析**：live 在此处用作副词，意为“现场直播地”，修饰动词 watch，常用于体育赛事转播情境。
 
 ### 5
 
-Which country's team are you going to root for during the Olympic Games? for `____`.
+Which country's team are you `____`ing to root for during the Olympic Games.
 
-- [x] champion
-- [ ] compete
-- [ ] ask
+- [x] go
+- [ ] champion
+- [ ] goal
 
 > **解析**：root for 是动词短语，口语中意为“为……加油、支持”，后接支持的队伍或选手（root for a team）。
 
@@ -198,48 +198,48 @@ Which country's team are you going to root for during the Olympic Games? for `__
 Can you tell me who the top scorer in the tournament is? (`____`).
 
 - [x] cheer for
-- [ ] go
-- [ ] at least
+- [ ] coach
+- [ ] live
 
 > **解析**：tell 为及物动词，意为“告诉”。常见搭配 tell sb. sth. / tell sb. + 特殊疑问句从句。
 
 ### 7
 
-The annual soccer tournament attracts thousands of sports fans every summer for `____`.
+The annual soccer `____` attracts thousands of sports fans every summer.
 
-- [x] coach
-- [ ] goal
-- [ ] athlete
+- [x] tournament
+- [ ] coach
+- [ ] live
 
 > **解析**：tournament 为可数名词，意为“锦标赛、联赛”。在体育话题中，指由多支队伍参加的淘汰赛或循环赛。
 
 ### 8
 
-Our team needs at least two more wins to qualify for the playoffs for `____`.
+Our team needs at least two more wins to qualify for the playoffs about `____`.
 
-- [x] compete
-- [ ] ask
-- [ ] beat
+- [x] athlete
+- [ ] go
+- [ ] point
 
 > **解析**：at least 为副词短语，意为“至少、起码”，在句中修饰数量词 two more wins。
 
 ### 9
 
-Thousands of fans gathered in the stadium to cheer for their home team for `____`.
+Thousands of fans gathered in the stadium to cheer for their home team about `____`.
 
-- [x] go
-- [ ] at least
-- [ ] champion
+- [x] beat
+- [ ] goal
+- [ ] root for
 
 > **解析**：cheer for 为动词短语，意为“为……欢呼加油”，后接支持的对象（their home team）。
 
 ### 10
 
-Go team! You have worked so hard for this match for `____`.
+Go team! You have worked so hard for this match about `____`.
 
-- [x] goal
-- [ ] athlete
-- [ ] cheer for
+- [x] champion
+- [ ] live
+- [ ] rule
 
 > **解析**：go 在此处用作感叹呼号，Go + 队名/team 意为“……加油！”，为比赛现场常用的鼓励口号。
 

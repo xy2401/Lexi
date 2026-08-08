@@ -62,77 +62,77 @@ nephew（侄子/外甥）和 niece（侄女/外甥女）区分性别。spouse �
 <quiz-sentence-builder>
 
 1. **中文**：相互信任和良好的沟通对于维持健康的关系至关重要。  
-   **英文**：Mutual trust and good communication are essential for maintaining a healthy relationship for annoying.
+   **英文**：Mutual trust and good communication are essential for maintaining a healthy relationship.
    > **解析**：relationship 为名词，意为“关系、情感联系”。maintain a relationship 表示“维持一段关系”。
 
 2. **中文**：欢迎员工携带配偶和子女参加公司一年一度的野餐活动。  
-   **英文**：Employees are welcome to bring their spouse and children to the annual company picnic for author.
+   **英文**：Employees are welcome to bring their spouse and children to the annual company picnic.
    > **解析**：spouse 为名词，意为“配偶（丈夫或妻子）”。属于正式的书面及法律用语。
 
 3. **中文**：在意识到彼此的人生目标不同后，他们和平离婚了。  
-   **英文**：They got divorced amicably after realizing they had different life goals for barber.
+   **英文**：They got divorced amicably after realizing they had different life goals.
    > **解析**：divorced 为形容词，意为“已离婚的”。get divorced 表示“离婚”。amicably 为副词，意为“和平地”。
 
 4. **中文**：真正的朋友即使意见不合，也会尊重彼此的看法。  
-   **英文**：True friends respect each other's opinions even when they disagree for blind.
+   **英文**：True friends respect each other's opinions even when they disagree.
    > **解析**：respect 在此处用作动词，意为“尊重、敬重”。respect each other 表示“互相尊重”。也可作名词。
 
 5. **中文**：建立信任需要很长时间，但失去信任只需一秒钟。  
-   **英文**：It takes a long time to build trust, but only a second to lose it for british.
+   **英文**：It takes a long time to build trust, but only a second to lose it.
    > **解析**：trust 在此处用作不可数名词，意为“信任、信赖”。build trust 意为“建立信任”。也可以作动词（trust sb.）。
 
 6. **中文**：我侄子（外甥）正在大学攻读计算机科学，希望能成为一名软件开发者。  
-   **英文**：My nephew is studying computer science at university and hopes to be a software developer for date.
+   **英文**：My nephew is studying computer science at university and hopes to be a software developer.
    > **解析**：nephew 为名词，指“侄子、外甥”（兄弟或姐妹的儿子）。
 
 7. **中文**：我给我侄女（外甥女）的七岁生日买了一套彩色故事书。  
-   **英文**：I bought a set of colorful storybooks for my niece's seventh birthday for divorced.
+   **英文**：I bought a set of colorful storybooks for my niece's seventh birthday.
    > **解析**：niece 为名词，指“侄女、外甥女”（兄弟或姐妹的女儿）。
 
 8. **中文**：对你的伴侣保持诚实是建立长期信任最重要的钥匙。  
-   **英文**：Being honest with your partner is the most important key to long-term trust for dream.
+   **英文**：Being honest with your partner is the most important key to long-term trust.
    > **解析**：honest 为形容词，意为“诚实的”。be honest with sb. 表示“对某人坦诚/诚实”。h 不发音，前面接不定冠词用 an（an honest man）。
 
 9. **中文**：工作了四十多年后，我叔叔决定下个月退休。  
-   **英文**：After working for over forty years, my uncle decided to retire next month for firefighter.
+   **英文**：After working for over forty years, my uncle decided to retire next month.
    > **解析**：retire 为动词，意为“退休”。名词形式为 retirement（退休/退休生活）。
 
 10. **中文**：通过努力工作和坚定决心，她在商业领域树立了成功的职业生涯。  
-   **英文**：She built a successful career in business through hard work and determination for gay.
+   **英文**：She built a successful career in business through hard work and determination.
    > **解析**：successful 为形容词，意为“成功的”。修饰名词 career。派生自名词 success 和动词 succeed。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Mutual trust and good communication are essential for maintaining a healthy relationship for annoying.
+1. Mutual trust and good communication are essential for maintaining a healthy relationship.
    > **中文**：相互信任和良好的沟通对于维持健康的关系至关重要。
 
-2. Employees are welcome to bring their spouse and children to the annual company picnic for author.
+2. Employees are welcome to bring their spouse and children to the annual company picnic.
    > **中文**：欢迎员工携带配偶和子女参加公司一年一度的野餐活动。
 
-3. They got divorced amicably after realizing they had different life goals for barber.
+3. They got divorced amicably after realizing they had different life goals.
    > **中文**：在意识到彼此的人生目标不同后，他们和平离婚了。
 
-4. True friends respect each other's opinions even when they disagree for blind.
+4. True friends respect each other's opinions even when they disagree.
    > **中文**：真正的朋友即使意见不合，也会尊重彼此的看法。
 
-5. It takes a long time to build trust, but only a second to lose it for british.
+5. It takes a long time to build trust, but only a second to lose it.
    > **中文**：建立信任需要很长时间，但失去信任只需一秒钟。
 
-6. My nephew is studying computer science at university and hopes to be a software developer for date.
+6. My nephew is studying computer science at university and hopes to be a software developer.
    > **中文**：我侄子（外甥）正在大学攻读计算机科学，希望能成为一名软件开发者。
 
-7. I bought a set of colorful storybooks for my niece's seventh birthday for divorced.
+7. I bought a set of colorful storybooks for my niece's seventh birthday.
    > **中文**：我给我侄女（外甥女）的七岁生日买了一套彩色故事书。
 
-8. Being honest with your partner is the most important key to long-term trust for dream.
+8. Being honest with your partner is the most important key to long-term trust.
    > **中文**：对你的伴侣保持诚实是建立长期信任最重要的钥匙。
 
-9. After working for over forty years, my uncle decided to retire next month for firefighter.
+9. After working for over forty years, my uncle decided to retire next month.
    > **中文**：工作了四十多年后，我叔叔决定下个月退休。
 
-10. She built a successful career in business through hard work and determination for gay.
+10. She built a successful career in business through hard work and determination.
    > **中文**：通过努力工作和坚定决心，她在商业领域树立了成功的职业生涯。
 
 </quiz-listening>
@@ -145,101 +145,101 @@ nephew（侄子/外甥）和 niece（侄女/外甥女）区分性别。spouse �
 
 ### 1
 
-Mutual trust and good communication are essential for maintaining a healthy relationship for `____`.
+Mutual trust and good communication are essential for maintaining a healthy `____`.
 
-- [x] annoying
-- [ ] blind
-- [ ] divorced
+- [x] relationship
+- [ ] annoying
+- [ ] british
 
 > **解析**：relationship 为名词，意为“关系、情感联系”。maintain a relationship 表示“维持一段关系”。
 
 ### 2
 
-Employees are welcome to bring their spouse and children to the annual company picnic for `____`.
+Employees are welcome to bring their `____` and children to the annual company picnic.
 
-- [x] author
-- [ ] british
-- [ ] dream
+- [x] spouse
+- [ ] author
+- [ ] date
 
 > **解析**：spouse 为名词，意为“配偶（丈夫或妻子）”。属于正式的书面及法律用语。
 
 ### 3
 
-They got divorced amicably after realizing they had different life goals for `____`.
+They got `____` amicably after realizing they had different life goals.
 
-- [x] barber
-- [ ] date
-- [ ] firefighter
+- [x] divorced
+- [ ] barber
+- [ ] dream
 
 > **解析**：divorced 为形容词，意为“已离婚的”。get divorced 表示“离婚”。amicably 为副词，意为“和平地”。
 
 ### 4
 
-True friends respect each other's opinions even when they disagree for `____`.
+True friends `____` each other's opinions even when they disagree.
 
-- [x] blind
-- [ ] divorced
-- [ ] gay
+- [x] respect
+- [ ] blind
+- [ ] dream
 
 > **解析**：respect 在此处用作动词，意为“尊重、敬重”。respect each other 表示“互相尊重”。也可作名词。
 
 ### 5
 
-It takes a long time to build trust, but only a second to lose it for `____`.
+It takes a long time to build `____`, but only a second to lose it.
 
-- [x] british
-- [ ] dream
-- [ ] annoying
+- [x] trust
+- [ ] british
+- [ ] firefighter
 
 > **解析**：trust 在此处用作不可数名词，意为“信任、信赖”。build trust 意为“建立信任”。也可以作动词（trust sb.）。
 
 ### 6
 
-My nephew is studying computer science at university and hopes to be a software developer for `____`.
+My `____` is studying computer science at university and hopes to be a software developer.
 
-- [x] date
-- [ ] firefighter
-- [ ] author
+- [x] nephew
+- [ ] date
+- [ ] gay
 
 > **解析**：nephew 为名词，指“侄子、外甥”（兄弟或姐妹的儿子）。
 
 ### 7
 
-I bought a set of colorful storybooks for my niece's seventh birthday for `____`.
+I bought a set of colorful storybooks for my `____`'s seventh birthday.
 
-- [x] divorced
-- [ ] gay
-- [ ] barber
+- [x] niece
+- [ ] divorced
+- [ ] haircut
 
 > **解析**：niece 为名词，指“侄女、外甥女”（兄弟或姐妹的女儿）。
 
 ### 8
 
-Being honest with your partner is the most important key to long-term trust for `____`.
+Being `____` with your partner is the most important key to long-term trust.
 
-- [x] dream
-- [ ] annoying
-- [ ] blind
+- [x] honest
+- [ ] dream
+- [ ] huge
 
 > **解析**：honest 为形容词，意为“诚实的”。be honest with sb. 表示“对某人坦诚/诚实”。h 不发音，前面接不定冠词用 an（an honest man）。
 
 ### 9
 
-After working for over forty years, my uncle decided to retire next month for `____`.
+After working for over forty years, my uncle decided to `____` next month.
 
-- [x] firefighter
-- [ ] author
-- [ ] british
+- [x] retire
+- [ ] firefighter
+- [ ] huge
 
 > **解析**：retire 为动词，意为“退休”。名词形式为 retirement（退休/退休生活）。
 
 ### 10
 
-She built a successful career in business through hard work and determination for `____`.
+She built a `____` career in business through hard work and determination.
 
-- [x] gay
-- [ ] barber
-- [ ] date
+- [x] successful
+- [ ] gay
+- [ ] lawyer
 
 > **解析**：successful 为形容词，意为“成功的”。修饰名词 career。派生自名词 success 和动词 succeed。
 

@@ -66,7 +66,7 @@ instead of 表示"而不是"。until / till 表示"直到"。
    > **解析**：bride 为名词，意为“新娘”。新郎为 groom。bride and groom 合称“新婚夫妇”。
 
 2. **中文**：新郎在圣坛前紧张地等待着他的新娘走向红毯。  
-   **英文**：The groom waited nervously at the altar for his bride to walk down the aisle for celebrate.
+   **英文**：The groom waited nervously at the altar for his bride to walk down the aisle.
    > **解析**：groom 为名词，意为“新郎”。walk down the aisle 意为“走上结婚红毯/步入婚姻殿堂”。
 
 3. **中文**：婚礼仪式在湖边一个优雅的户外花园里举行。  
@@ -74,31 +74,31 @@ instead of 表示"而不是"。until / till 表示"直到"。
    > **解析**：ceremony 为名词，意为“仪式、典礼”。take place 意为“举行”。wedding ceremony 表示“婚礼仪式”。
 
 4. **中文**：在约会三年之后，这对幸福的情侣终于在昨晚订婚了。  
-   **英文**：After dating for three years, the happy couple finally got engaged last night for cheek.
+   **英文**：After dating for three years, the happy couple finally got engaged last night.
    > **解析**：engaged 为形容词，意为“已订婚的”。get engaged 表示“订婚”。get engaged to sb. 表示“与某人订婚”。
 
 5. **中文**：新人在许下誓言时交换结婚戒指是一项甜蜜的传统。  
-   **英文**：It is a sweet tradition for the couple to exchange wedding rings during the vows for colorful.
+   **英文**：It is a sweet tradition for the couple to exchange wedding rings during the vows.
    > **解析**：exchange 为动词，意为“交换”。exchange rings 表示“交换戒指”。tradition 用作名词意为“传统”。
 
 6. **中文**：他们选择穿着代表其文化遗产的传统服饰。  
-   **英文**：They chose to wear traditional garments that represent their cultural heritage for deliver.
+   **英文**：They chose to wear traditional garments that represent their cultural heritage.
    > **解析**：traditional 为形容词，意为“传统的”。修饰名词 garments（服装）。名词形式为 tradition。
 
 7. **中文**：来自全国各地的亲戚聚在一起参加宴会。  
-   **英文**：Relatives from all over the country gathered together to attend the banquet for engaged.
+   **英文**：Relatives from all over the country gathered together to attend the banquet.
    > **解析**：relative 为名词，意为“亲戚、亲属”。gather together 意为“聚集”。attend the banquet 意为“出席宴会”。
 
 8. **中文**：一群有才华的音乐家整个晚上都在演奏浪漫的爵士乐曲。  
-   **英文**：A group of talented musicians played romantic jazz songs throughout the evening for exchange.
+   **英文**：A group of talented musicians played romantic jazz songs throughout the evening.
    > **解析**：musician 为名词，意为“音乐家、乐手”。由 music + -ian 构成。throughout 用作介词，意为“贯穿/整整”。
 
 9. **中文**：朋友和家人举杯庆祝这对新人的特别日子。  
-   **英文**：Friends and family raised their glasses to celebrate the couple's special day for greet.
+   **英文**：Friends and family raised their glasses to celebrate the couple's special day.
    > **解析**：celebrate 为动词，意为“庆祝”。raise glasses 表示“举杯”。to celebrate 引导目的状语从句。
 
 10. **中文**：这对新人请求以慈善捐款代替传统的婚礼礼物。  
-   **英文**：The couple asked for charity donations instead of traditional wedding gifts for groom.
+   **英文**：The couple asked for charity donations instead of traditional wedding gifts.
    > **解析**：instead of 为复合介词，意为“代替、而不是”。后面接名词、代词或动名词（charity donations）。
 
 </quiz-sentence-builder>
@@ -108,31 +108,31 @@ instead of 表示"而不是"。until / till 表示"直到"。
 1. The bride looked breathtaking in her custom white wedding gown.
    > **中文**：新娘穿着定制的白色婚纱，看起来美得令人屏息。
 
-2. The groom waited nervously at the altar for his bride to walk down the aisle for celebrate.
+2. The groom waited nervously at the altar for his bride to walk down the aisle.
    > **中文**：新郎在圣坛前紧张地等待着他的新娘走向红毯。
 
 3. The wedding ceremony took place in an elegant outdoor garden near the lake.
    > **中文**：婚礼仪式在湖边一个优雅的户外花园里举行。
 
-4. After dating for three years, the happy couple finally got engaged last night for cheek.
+4. After dating for three years, the happy couple finally got engaged last night.
    > **中文**：在约会三年之后，这对幸福的情侣终于在昨晚订婚了。
 
-5. It is a sweet tradition for the couple to exchange wedding rings during the vows for colorful.
+5. It is a sweet tradition for the couple to exchange wedding rings during the vows.
    > **中文**：新人在许下誓言时交换结婚戒指是一项甜蜜的传统。
 
-6. They chose to wear traditional garments that represent their cultural heritage for deliver.
+6. They chose to wear traditional garments that represent their cultural heritage.
    > **中文**：他们选择穿着代表其文化遗产的传统服饰。
 
-7. Relatives from all over the country gathered together to attend the banquet for engaged.
+7. Relatives from all over the country gathered together to attend the banquet.
    > **中文**：来自全国各地的亲戚聚在一起参加宴会。
 
-8. A group of talented musicians played romantic jazz songs throughout the evening for exchange.
+8. A group of talented musicians played romantic jazz songs throughout the evening.
    > **中文**：一群有才华的音乐家整个晚上都在演奏浪漫的爵士乐曲。
 
-9. Friends and family raised their glasses to celebrate the couple's special day for greet.
+9. Friends and family raised their glasses to celebrate the couple's special day.
    > **中文**：朋友和家人举杯庆祝这对新人的特别日子。
 
-10. The couple asked for charity donations instead of traditional wedding gifts for groom.
+10. The couple asked for charity donations instead of traditional wedding gifts.
    > **中文**：这对新人请求以慈善捐款代替传统的婚礼礼物。
 
 </quiz-listening>
@@ -148,18 +148,18 @@ instead of 表示"而不是"。until / till 表示"直到"。
 The `____` looked breathtaking in her custom white wedding gown.
 
 - [x] bride
-- [ ] cheek
-- [ ] engaged
+- [ ] celebrate
+- [ ] deliver
 
 > **解析**：bride 为名词，意为“新娘”。新郎为 groom。bride and groom 合称“新婚夫妇”。
 
 ### 2
 
-The groom waited nervously at the altar for his bride to walk down the aisle for `____`.
+The `____` waited nervously at the altar for his bride to walk down the aisle.
 
-- [x] celebrate
-- [ ] colorful
-- [ ] exchange
+- [x] groom
+- [ ] celebrate
+- [ ] deliver
 
 > **解析**：groom 为名词，意为“新郎”。walk down the aisle 意为“走上结婚红毯/步入婚姻殿堂”。
 
@@ -168,78 +168,78 @@ The groom waited nervously at the altar for his bride to walk down the aisle for
 The wedding `____` took place in an elegant outdoor garden near the lake.
 
 - [x] ceremony
-- [ ] deliver
-- [ ] greet
+- [ ] cheek
+- [ ] exchange
 
 > **解析**：ceremony 为名词，意为“仪式、典礼”。take place 意为“举行”。wedding ceremony 表示“婚礼仪式”。
 
 ### 4
 
-After dating for three years, the happy couple finally got engaged last night for `____`.
+After dating for three years, the happy couple finally got `____` last night.
 
-- [x] cheek
-- [ ] engaged
-- [ ] groom
+- [x] engaged
+- [ ] cheek
+- [ ] greet
 
 > **解析**：engaged 为形容词，意为“已订婚的”。get engaged 表示“订婚”。get engaged to sb. 表示“与某人订婚”。
 
 ### 5
 
-It is a sweet tradition for the couple to exchange wedding rings during the vows for `____`.
+It is a sweet tradition for the couple to `____` wedding rings during the vows.
 
-- [x] colorful
-- [ ] exchange
-- [ ] bride
+- [x] exchange
+- [ ] colorful
+- [ ] groom
 
 > **解析**：exchange 为动词，意为“交换”。exchange rings 表示“交换戒指”。tradition 用作名词意为“传统”。
 
 ### 6
 
-They chose to wear traditional garments that represent their cultural heritage for `____`.
+They chose to wear `____` garments that represent their cultural heritage.
 
-- [x] deliver
-- [ ] greet
-- [ ] celebrate
+- [x] traditional
+- [ ] deliver
+- [ ] groom
 
 > **解析**：traditional 为形容词，意为“传统的”。修饰名词 garments（服装）。名词形式为 tradition。
 
 ### 7
 
-Relatives from all over the country gathered together to attend the banquet for `____`.
+Relatives from all `____` the country gathered together to attend the banquet.
 
-- [x] engaged
-- [ ] groom
-- [ ] ceremony
+- [x] over
+- [ ] engaged
+- [ ] instead of
 
 > **解析**：relative 为名词，意为“亲戚、亲属”。gather together 意为“聚集”。attend the banquet 意为“出席宴会”。
 
 ### 8
 
-A group of talented musicians played romantic jazz songs throughout the evening for `____`.
+A group of talented `____`s played romantic jazz songs throughout the evening.
 
-- [x] exchange
-- [ ] bride
-- [ ] cheek
+- [x] musician
+- [ ] exchange
+- [ ] kiss
 
 > **解析**：musician 为名词，意为“音乐家、乐手”。由 music + -ian 构成。throughout 用作介词，意为“贯穿/整整”。
 
 ### 9
 
-Friends and family raised their glasses to celebrate the couple's special day for `____`.
+Friends and family raised their glasses to `____` the couple's special day.
 
-- [x] greet
-- [ ] celebrate
-- [ ] colorful
+- [x] celebrate
+- [ ] groom
+- [ ] musician
 
 > **解析**：celebrate 为动词，意为“庆祝”。raise glasses 表示“举杯”。to celebrate 引导目的状语从句。
 
 ### 10
 
-The couple asked for charity donations instead of traditional wedding gifts for `____`.
+The couple asked for charity donations `____` traditional wedding gifts.
 
-- [x] groom
-- [ ] ceremony
-- [ ] deliver
+- [x] instead of
+- [ ] groom
+- [ ] over
 
 > **解析**：instead of 为复合介词，意为“代替、而不是”。后面接名词、代词或动名词（charity donations）。
 

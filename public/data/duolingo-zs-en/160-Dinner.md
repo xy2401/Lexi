@@ -66,15 +66,15 @@ for here or to go 是美式点餐用语。send back = 退回（食物）。
    > **解析**：allergy 为可数/不可数名词，意为“过敏”。常用搭配 have an allergy to sth. / peanut allergy（花生过敏）。
 
 2. **中文**：周五晚上我们通常在我们最喜欢的意大利餐馆外出就餐。  
-   **英文**：We usually eat out at our favorite Italian restaurant on Friday evenings for any.
+   **英文**：We usually eat out at our favorite Italian restaurant on Friday evenings.
    > **解析**：eat out 为不及物动词短语，意为“在外面餐馆吃饭”。
 
 3. **中文**：清理完桌子后，你能把甜点菜单给我吗？  
-   **英文**：Could you give me the dessert menu after we clear the table? for casual.
+   **英文**：Could you give me the dessert menu after we clear the table.
    > **解析**：give 为及物动词，意为“给、递给”。常用结构 give sb. sth. 或 give sth. to sb.。
 
 4. **中文**：把钱包收起来；今晚的晚饭我请客！  
-   **英文**：Put your wallet away; tonight's dinner is my treat for disgusting.
+   **英文**：Put your wallet away; tonight's dinner is my treat.
    > **解析**：my treat 为固定口语表达，意为“我请客/由我买单”，常用于餐馆结账场合。
 
 5. **中文**：你能把这碗汤退回厨房吗，因为汤完全凉了。  
@@ -86,19 +86,19 @@ for here or to go 是美式点餐用语。send back = 退回（食物）。
    > **解析**：spicy 为形容词，意为“辛辣的、加调味品的”，常修饰 food, curry, dish。
 
 7. **中文**：大厨添加了新鲜香草，使汤尝起来浓郁美味。  
-   **英文**：The chef added fresh herbs to make the soup taste rich and delicious for get.
+   **英文**：The chef added fresh herbs to make the soup taste rich and delicious.
    > **解析**：taste 在此处作系动词，意为“尝起来”，后接形容词（rich and delicious）作表语。
 
 8. **中文**：你们的晚餐菜单上有素食选择吗？  
-   **英文**：Do you have any vegetarian options available on your dinner menu? for give.
+   **英文**：Do you have any vegetarian options available on your dinner menu.
    > **解析**：any 为限定词/代词，在疑问句中修饰复数可数名词 options，意为“任何、一些”。
 
 9. **中文**：收银员问我的餐点是在这儿吃还是打包带走。  
-   **英文**：The cashier asked whether my order was for here or to go for groceries.
+   **英文**：The cashier asked whether my order was for here or to go about casual.
    > **解析**：for here or to go 为餐饮常用习惯表达，意为“堂食还是外带”，用于询问就餐方式。
 
 10. **中文**：这道烤鸡用大蒜和新鲜绿香草调味。  
-   **英文**：This roasted chicken is seasoned with garlic and fresh green herbs.
+   **英文**：This roasted chicken is seasoned with garlic and fresh green herbs about disgusting.
    > **解析**：herb 为可数名词，意为“草本植物、香草”，常用复数形式 herbs 用于烹饪调味。
 
 </quiz-sentence-builder>
@@ -108,13 +108,13 @@ for here or to go 是美式点餐用语。send back = 退回（食物）。
 1. Please inform the waiter if you have a peanut allergy before ordering.
    > **中文**：点餐前如果您对花生过敏，请通知服务员。
 
-2. We usually eat out at our favorite Italian restaurant on Friday evenings for any.
+2. We usually eat out at our favorite Italian restaurant on Friday evenings.
    > **中文**：周五晚上我们通常在我们最喜欢的意大利餐馆外出就餐。
 
-3. Could you give me the dessert menu after we clear the table? for casual.
+3. Could you give me the dessert menu after we clear the table.
    > **中文**：清理完桌子后，你能把甜点菜单给我吗？
 
-4. Put your wallet away; tonight's dinner is my treat for disgusting.
+4. Put your wallet away; tonight's dinner is my treat.
    > **中文**：把钱包收起来；今晚的晚饭我请客！
 
 5. Could you send this soup back to the kitchen, as it is completely cold? (eat out).
@@ -123,16 +123,16 @@ for here or to go 是美式点餐用语。send back = 退回（食物）。
 6. I prefer mild dishes because I cannot eat very spicy food (for here or to go).
    > **中文**：我更喜欢清淡的菜肴，因为我吃不了太辣的食物。
 
-7. The chef added fresh herbs to make the soup taste rich and delicious for get.
+7. The chef added fresh herbs to make the soup taste rich and delicious.
    > **中文**：大厨添加了新鲜香草，使汤尝起来浓郁美味。
 
-8. Do you have any vegetarian options available on your dinner menu? for give.
+8. Do you have any vegetarian options available on your dinner menu.
    > **中文**：你们的晚餐菜单上有素食选择吗？
 
-9. The cashier asked whether my order was for here or to go for groceries.
+9. The cashier asked whether my order was for here or to go about casual.
    > **中文**：收银员问我的餐点是在这儿吃还是打包带走。
 
-10. This roasted chicken is seasoned with garlic and fresh green herbs.
+10. This roasted chicken is seasoned with garlic and fresh green herbs about disgusting.
    > **中文**：这道烤鸡用大蒜和新鲜绿香草调味。
 
 </quiz-listening>
@@ -148,48 +148,48 @@ for here or to go 是美式点餐用语。send back = 退回（食物）。
 Please inform the waiter if you have a peanut `____` before ordering.
 
 - [x] allergy
-- [ ] disgusting
-- [ ] get
+- [ ] any
+- [ ] for here or to go
 
 > **解析**：allergy 为可数/不可数名词，意为“过敏”。常用搭配 have an allergy to sth. / peanut allergy（花生过敏）。
 
 ### 2
 
-We usually eat out at our favorite Italian restaurant on Friday evenings for `____`.
+We usually `____` at our favorite Italian restaurant on Friday evenings.
 
-- [x] any
-- [ ] eat out
-- [ ] give
+- [x] eat out
+- [ ] any
+- [ ] get
 
 > **解析**：eat out 为不及物动词短语，意为“在外面餐馆吃饭”。
 
 ### 3
 
-Could you give me the dessert menu after we clear the table? for `____`.
+Could you `____` me the dessert menu after we clear the table.
 
-- [x] casual
-- [ ] for here or to go
-- [ ] groceries
+- [x] give
+- [ ] casual
+- [ ] get
 
 > **解析**：give 为及物动词，意为“给、递给”。常用结构 give sb. sth. 或 give sth. to sb.。
 
 ### 4
 
-Put your wallet away; tonight's dinner is my treat for `____`.
+Put your wallet away; tonight's dinner is `____`.
 
-- [x] disgusting
-- [ ] get
-- [ ] herb
+- [x] my treat
+- [ ] disgusting
+- [ ] give
 
 > **解析**：my treat 为固定口语表达，意为“我请客/由我买单”，常用于餐馆结账场合。
 
 ### 5
 
-Could you send this soup back to the kitchen, as it is completely cold? (`____`).
+Could you `____` this soup back to the kitchen, as it is completely cold? (eat out).
 
-- [x] eat out
-- [ ] give
-- [ ] allergy
+- [x] send
+- [ ] eat out
+- [ ] groceries
 
 > **解析**：send 为动词，意为“发送、送回”。send sth. back 意为“退回/送回”。
 
@@ -198,48 +198,48 @@ Could you send this soup back to the kitchen, as it is completely cold? (`____`)
 I prefer mild dishes because I cannot eat very spicy food (`____`).
 
 - [x] for here or to go
-- [ ] groceries
-- [ ] any
+- [ ] get
+- [ ] here is
 
 > **解析**：spicy 为形容词，意为“辛辣的、加调味品的”，常修饰 food, curry, dish。
 
 ### 7
 
-The chef added fresh herbs to make the soup taste rich and delicious for `____`.
+The chef added fresh `____`s to make the soup taste rich and delicious.
 
-- [x] get
-- [ ] herb
-- [ ] casual
+- [x] herb
+- [ ] get
+- [ ] my treat
 
 > **解析**：taste 在此处作系动词，意为“尝起来”，后接形容词（rich and delicious）作表语。
 
 ### 8
 
-Do you have any vegetarian options available on your dinner menu? for `____`.
+Do you have `____` vegetarian options available on your dinner menu.
 
-- [x] give
-- [ ] allergy
-- [ ] disgusting
+- [x] any
+- [ ] groceries
+- [ ] offer
 
 > **解析**：any 为限定词/代词，在疑问句中修饰复数可数名词 options，意为“任何、一些”。
 
 ### 9
 
-The cashier asked whether my order was for here or to go for `____`.
+The cashier asked whether my order was for here or to go about `____`.
 
-- [x] groceries
-- [ ] any
-- [ ] eat out
+- [x] casual
+- [ ] herb
+- [ ] olive
 
 > **解析**：for here or to go 为餐饮常用习惯表达，意为“堂食还是外带”，用于询问就餐方式。
 
 ### 10
 
-This roasted chicken is seasoned with garlic and fresh green `____`s.
+This roasted chicken is seasoned with garlic and fresh green herbs about `____`.
 
-- [x] herb
-- [ ] casual
-- [ ] for here or to go
+- [x] disgusting
+- [ ] here is
+- [ ] peanut
 
 > **解析**：herb 为可数名词，意为“草本植物、香草”，常用复数形式 herbs 用于烹饪调味。
 

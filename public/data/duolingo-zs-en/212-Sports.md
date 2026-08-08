@@ -60,19 +60,19 @@ there might be / there can't be / there should not be 这组结构用来表达�
    > **解析**：`diving` 动名词，意为“跳水运动；潜水”。在此处用作名词修饰语，说明比赛项目的类型。
 
 3. **中文**：体操运动需要柔韧性、精准的平衡力以及非凡的力量。  
-   **英文**：Gymnastics requires flexibility, precise balance, and exceptional strength for cyclist.
+   **英文**：Gymnastics requires flexibility, precise balance, and exceptional strength.
    > **解析**：`gymnastics` 名词，意为“体操；体操运动”。形式虽为复数形式（以 -s 结尾），但作为学科或运动项目名称时作不可数名词，谓语动词用单数形式 `requires`。
 
 4. **中文**：野生动物经常在日出前的大早晨捕猎食物。  
-   **英文**：Wild animals often hunt for food early in the morning before sunrise for defense.
+   **英文**：Wild animals often hunt for food early in the morning before sunrise.
    > **解析**：`hunt` 不及物动词，意为“打猎；搜寻”。搭配 `hunt for food` 表示“寻找/捕食”。
 
 5. **中文**：这名跑步运动员打破了二百米短跑项目的国家纪录。  
-   **英文**：The runner broke the national record in the two-hundred-meter dash event for diving.
+   **英文**：The runner broke the national record in the two-hundred-meter dash event.
    > **解析**：`record` 名词，在此处读作 /ˈrɛkərd/，意为“纪录；记载”。动词短语 `break a record` 表示“打破纪录”。
 
 6. **中文**：那位年轻的游泳运动员每天早晨训练整整三个小时。  
-   **英文**：The young swimmer trained for three hours every single morning for equipment.
+   **英文**：The young swimmer trained for three hours every single morning.
    > **解析**：`swimmer` 可数名词，意为“游泳者；游泳运动员”，由动词 `swim` 加后缀 `-mer` 派生而来。
 
 7. **中文**：如果雨一直下，今天可能就不会有任何户外比赛了。  
@@ -80,11 +80,11 @@ there might be / there can't be / there should not be 这组结构用来表达�
    > **解析**：`there might not be` 为 `there be` 句型与情态动词 `might` 的否定形式连用，表达对存在情况的推测：“可能不会有……”。
 
 8. **中文**：加油，坚持推向终点线！  
-   **英文**：Come on, keep pushing until you reach the finish line for final.
+   **英文**：Come on, keep pushing until you reach the finish line about cyclist.
    > **解析**：`come on` 为常用口语短语，在此处作感叹语，意为“加油；快点”，用以鼓舞士气或催促对方。
 
 9. **中文**：专业体育器材必须符合严格的安全标准。  
-   **英文**：Professional sports equipment must meet strict safety standards for gymnastics.
+   **英文**：Professional sports equipment must meet strict safety standards.
    > **解析**：`equipment` 为不可数名词，意为“设备；器材；装备”。注意不能加 `-s`，也不能用 `an equipment`，若需表达一件装备需用 `a piece of equipment`。
 
 10. **中文**：骑自行车下坡时，你应该始终佩戴防护头盔。  
@@ -101,25 +101,25 @@ there might be / there can't be / there should not be 这组结构用来表达�
 2. She won a gold medal in the ten-meter platform diving competition yesterday (come on).
    > **中文**：她在昨天的十米跳台跳水比赛中赢得了金牌。
 
-3. Gymnastics requires flexibility, precise balance, and exceptional strength for cyclist.
+3. Gymnastics requires flexibility, precise balance, and exceptional strength.
    > **中文**：体操运动需要柔韧性、精准的平衡力以及非凡的力量。
 
-4. Wild animals often hunt for food early in the morning before sunrise for defense.
+4. Wild animals often hunt for food early in the morning before sunrise.
    > **中文**：野生动物经常在日出前的大早晨捕猎食物。
 
-5. The runner broke the national record in the two-hundred-meter dash event for diving.
+5. The runner broke the national record in the two-hundred-meter dash event.
    > **中文**：这名跑步运动员打破了二百米短跑项目的国家纪录。
 
-6. The young swimmer trained for three hours every single morning for equipment.
+6. The young swimmer trained for three hours every single morning.
    > **中文**：那位年轻的游泳运动员每天早晨训练整整三个小时。
 
 7. If it keeps raining, there might not be any outdoor games today (expect to).
    > **中文**：如果雨一直下，今天可能就不会有任何户外比赛了。
 
-8. Come on, keep pushing until you reach the finish line for final.
+8. Come on, keep pushing until you reach the finish line about cyclist.
    > **中文**：加油，坚持推向终点线！
 
-9. Professional sports equipment must meet strict safety standards for gymnastics.
+9. Professional sports equipment must meet strict safety standards.
    > **中文**：专业体育器材必须符合严格的安全标准。
 
 10. You should always wear a protective helmet when riding a bicycle downhill.
@@ -138,8 +138,8 @@ there might be / there can't be / there should not be 这组结构用来表达�
 As the team `____`, he gave an inspiring speech to boost everyone's confidence.
 
 - [x] captain
-- [ ] defense
-- [ ] expect to
+- [ ] come on
+- [ ] equipment
 
 > **解析**：`captain` 名词，意为“队长；领队”。在前置介词短语 `As the team captain` 中作身份说明。
 
@@ -148,48 +148,48 @@ As the team `____`, he gave an inspiring speech to boost everyone's confidence.
 She won a gold medal in the ten-meter platform diving competition yesterday (`____`).
 
 - [x] come on
-- [ ] diving
-- [ ] final
+- [ ] cyclist
+- [ ] expect to
 
 > **解析**：`diving` 动名词，意为“跳水运动；潜水”。在此处用作名词修饰语，说明比赛项目的类型。
 
 ### 3
 
-Gymnastics requires flexibility, precise balance, and exceptional strength for `____`.
+`____` requires flexibility, precise balance, and exceptional strength.
 
-- [x] cyclist
-- [ ] equipment
-- [ ] gymnastics
+- [x] gymnastics
+- [ ] cyclist
+- [ ] expect to
 
 > **解析**：`gymnastics` 名词，意为“体操；体操运动”。形式虽为复数形式（以 -s 结尾），但作为学科或运动项目名称时作不可数名词，谓语动词用单数形式 `requires`。
 
 ### 4
 
-Wild animals often hunt for food early in the morning before sunrise for `____`.
+Wild animals often `____` for food early in the morning before sunrise.
 
-- [x] defense
-- [ ] expect to
-- [ ] helmet
+- [x] hunt
+- [ ] defense
+- [ ] final
 
 > **解析**：`hunt` 不及物动词，意为“打猎；搜寻”。搭配 `hunt for food` 表示“寻找/捕食”。
 
 ### 5
 
-The runner broke the national record in the two-hundred-meter dash event for `____`.
+The runner broke the national `____` in the two-hundred-meter dash event.
 
-- [x] diving
-- [ ] final
-- [ ] captain
+- [x] record
+- [ ] diving
+- [ ] gymnastics
 
 > **解析**：`record` 名词，在此处读作 /ˈrɛkərd/，意为“纪录；记载”。动词短语 `break a record` 表示“打破纪录”。
 
 ### 6
 
-The young swimmer trained for three hours every single morning for `____`.
+The young `____` trained for three hours every single morning.
 
-- [x] equipment
-- [ ] gymnastics
-- [ ] come on
+- [x] swimmer
+- [ ] equipment
+- [ ] helmet
 
 > **解析**：`swimmer` 可数名词，意为“游泳者；游泳运动员”，由动词 `swim` 加后缀 `-mer` 派生而来。
 
@@ -198,28 +198,28 @@ The young swimmer trained for three hours every single morning for `____`.
 If it keeps raining, there might not be any outdoor games today (`____`).
 
 - [x] expect to
-- [ ] helmet
-- [ ] cyclist
+- [ ] final
+- [ ] hope to
 
 > **解析**：`there might not be` 为 `there be` 句型与情态动词 `might` 的否定形式连用，表达对存在情况的推测：“可能不会有……”。
 
 ### 8
 
-Come on, keep pushing until you reach the finish line for `____`.
+Come on, keep pushing until you reach the finish line about `____`.
 
-- [x] final
-- [ ] captain
-- [ ] defense
+- [x] cyclist
+- [ ] gymnastics
+- [ ] hunt
 
 > **解析**：`come on` 为常用口语短语，在此处作感叹语，意为“加油；快点”，用以鼓舞士气或催促对方。
 
 ### 9
 
-Professional sports equipment must meet strict safety standards for `____`.
+Professional sports `____` must meet strict safety standards.
 
-- [x] gymnastics
-- [ ] come on
-- [ ] diving
+- [x] equipment
+- [ ] helmet
+- [ ] offense
 
 > **解析**：`equipment` 为不可数名词，意为“设备；器材；装备”。注意不能加 `-s`，也不能用 `an equipment`，若需表达一件装备需用 `a piece of equipment`。
 
@@ -228,8 +228,8 @@ Professional sports equipment must meet strict safety standards for `____`.
 You should always wear a protective `____` when riding a bicycle downhill.
 
 - [x] helmet
-- [ ] cyclist
-- [ ] equipment
+- [ ] high
+- [ ] perfectly
 
 > **解析**：`helmet` 可数名词，意为“头盔；安全帽”。作为及物动词 `wear` 的宾语，常与形容词 `protective`（防护的）连用。
 

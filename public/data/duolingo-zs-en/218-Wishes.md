@@ -72,7 +72,7 @@ afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if o
    > **解析**：`come true` 为固定动词短语，意为“（梦想、预言等）实现；成为现实”。主语通常为 `dream`, `wish`, `hope` 等。
 
 3. **中文**：睡前阅读半小时是一个值得培养的好习惯。  
-   **英文**：Reading for thirty minutes before bedtime is a great habit to cultivate for chance.
+   **英文**：Reading for thirty minutes before bedtime is a great habit to cultivate.
    > **解析**：`habit` 可数名词，意为“习惯”。搭配 `cultivate a habit / form a habit`（养成习惯）。
 
 4. **中文**：要是当时给我那个机会时我抓住了该有多好啊！  
@@ -80,23 +80,23 @@ afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if o
    > **解析**：`if only` 为固定连词短语，引导虚拟语气感叹句，表达对过去事的强烈的遗憾与愿望（意为“要是……就好了”）。
 
 5. **中文**：唉，算了，我们今天输掉了比赛，但下周我们可以再试一次。  
-   **英文**：Oh well, we lost the match today, but we can try again next week for count.
+   **英文**：Oh well, we lost the match today, but we can try again next week.
    > **解析**：`oh well` 为常用口语感叹短语，用于表示无奈接受既成事实或安慰自己（意为“唉，算了；好吧”）。
 
 6. **中文**：每天采取微小的行动是迈向实现长期目标的重要一步。  
-   **英文**：Taking small daily action is an important step toward achieving long-term goals for encourage.
+   **英文**：Taking small daily action is an important step toward achieving long-term goals.
    > **解析**：`step` 名词，意为“步骤；脚印；阶梯”。搭配 `a step toward(s)...`（迈向……的一步）。
 
 7. **中文**：我希望我能穿越回过去去体验古代罗马文化。  
-   **英文**：I wish I could travel back in time to experience ancient Roman culture for habit.
+   **英文**：I wish I could travel back in time to experience ancient Roman culture.
    > **解析**：`wish` 及物动词，引导宾语从句时从句需用虚拟语气（如 `could travel`），表达难以实现或与事实相反的愿望。
 
 8. **中文**：不要错过这个申请大学奖学金的难得机会。  
-   **英文**：Don't miss this rare chance to apply for a university scholarship for hope.
+   **英文**：Don't miss this rare chance to apply for a university scholarship.
    > **解析**：`chance` 可数名词，意为“机会；概率”。搭配 `miss a chance`（错过机会）或 `a chance to do sth.`。
 
 9. **中文**：老师应该始终鼓励学生在课堂上自由表达想法。  
-   **英文**：Teachers should always encourage students to express their ideas freely in class for hopeful.
+   **英文**：Teachers should always encourage students to express their ideas freely in class.
    > **解析**：`encourage` 及物动词，搭配 `encourage sb. to do sth.`（鼓励某人做某事）。
 
 10. **中文**：尽管有暂时的挫折，我们对项目的最终结果仍抱有希望。  
@@ -113,25 +113,25 @@ afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if o
 2. If you work hard, your dream of studying abroad will surely come true (as many).
    > **中文**：如果你努力工作，你出国留学的梦想一定会实现。
 
-3. Reading for thirty minutes before bedtime is a great habit to cultivate for chance.
+3. Reading for thirty minutes before bedtime is a great habit to cultivate.
    > **中文**：睡前阅读半小时是一个值得培养的好习惯。
 
 4. If only I had taken that opportunity when it was offered to me (come true).
    > **中文**：要是当时给我那个机会时我抓住了该有多好啊！
 
-5. Oh well, we lost the match today, but we can try again next week for count.
+5. Oh well, we lost the match today, but we can try again next week.
    > **中文**：唉，算了，我们今天输掉了比赛，但下周我们可以再试一次。
 
-6. Taking small daily action is an important step toward achieving long-term goals for encourage.
+6. Taking small daily action is an important step toward achieving long-term goals.
    > **中文**：每天采取微小的行动是迈向实现长期目标的重要一步。
 
-7. I wish I could travel back in time to experience ancient Roman culture for habit.
+7. I wish I could travel back in time to experience ancient Roman culture.
    > **中文**：我希望我能穿越回过去去体验古代罗马文化。
 
-8. Don't miss this rare chance to apply for a university scholarship for hope.
+8. Don't miss this rare chance to apply for a university scholarship.
    > **中文**：不要错过这个申请大学奖学金的难得机会。
 
-9. Teachers should always encourage students to express their ideas freely in class for hopeful.
+9. Teachers should always encourage students to express their ideas freely in class.
    > **中文**：老师应该始终鼓励学生在课堂上自由表达想法。
 
 10. Despite the temporary setback, we remain hopeful about our project's outcome (if only).
@@ -150,8 +150,8 @@ afraid, as many, chance, come true, count, encourage, habit, hope, hopeful, if o
 I am `____` that we will not have enough time to visit the museum today.
 
 - [x] afraid
-- [ ] come true
-- [ ] habit
+- [ ] as many
+- [ ] encourage
 
 > **解析**：`be afraid that...` 为固定句型，用于礼貌地表达担心、遗憾或不便。
 
@@ -160,18 +160,18 @@ I am `____` that we will not have enough time to visit the museum today.
 If you work hard, your dream of studying abroad will surely come true (`____`).
 
 - [x] as many
-- [ ] count
-- [ ] hope
+- [ ] chance
+- [ ] habit
 
 > **解析**：`come true` 为固定动词短语，意为“（梦想、预言等）实现；成为现实”。主语通常为 `dream`, `wish`, `hope` 等。
 
 ### 3
 
-Reading for thirty minutes before bedtime is a great habit to cultivate for `____`.
+Reading for thirty minutes before bedtime is a great `____` to cultivate.
 
-- [x] chance
-- [ ] encourage
-- [ ] hopeful
+- [x] habit
+- [ ] chance
+- [ ] hope
 
 > **解析**：`habit` 可数名词，意为“习惯”。搭配 `cultivate a habit / form a habit`（养成习惯）。
 
@@ -180,68 +180,68 @@ Reading for thirty minutes before bedtime is a great habit to cultivate for `___
 If only I had taken that opportunity when it was offered to me (`____`).
 
 - [x] come true
-- [ ] habit
-- [ ] if only
+- [ ] count
+- [ ] hopeful
 
 > **解析**：`if only` 为固定连词短语，引导虚拟语气感叹句，表达对过去事的强烈的遗憾与愿望（意为“要是……就好了”）。
 
 ### 5
 
-Oh well, we lost the match today, but we can try again next week for `____`.
+`____`, we lost the match today, but we can try again next week.
 
-- [x] count
-- [ ] hope
-- [ ] afraid
+- [x] oh well
+- [ ] count
+- [ ] hopeful
 
 > **解析**：`oh well` 为常用口语感叹短语，用于表示无奈接受既成事实或安慰自己（意为“唉，算了；好吧”）。
 
 ### 6
 
-Taking small daily action is an important step toward achieving long-term goals for `____`.
+Taking small daily action is an important `____` toward achieving long-term goals.
 
-- [x] encourage
-- [ ] hopeful
-- [ ] as many
+- [x] step
+- [ ] encourage
+- [ ] if only
 
 > **解析**：`step` 名词，意为“步骤；脚印；阶梯”。搭配 `a step toward(s)...`（迈向……的一步）。
 
 ### 7
 
-I wish I could travel back in time to experience ancient Roman culture for `____`.
+I `____` I could travel back in time to experience ancient Roman culture.
 
-- [x] habit
-- [ ] if only
-- [ ] chance
+- [x] wish
+- [ ] habit
+- [ ] lottery
 
 > **解析**：`wish` 及物动词，引导宾语从句时从句需用虚拟语气（如 `could travel`），表达难以实现或与事实相反的愿望。
 
 ### 8
 
-Don't miss this rare chance to apply for a university scholarship for `____`.
+Don't miss this rare `____` to apply for a university scholarship.
 
-- [x] hope
-- [ ] afraid
-- [ ] come true
+- [x] chance
+- [ ] hopeful
+- [ ] oh well
 
 > **解析**：`chance` 可数名词，意为“机会；概率”。搭配 `miss a chance`（错过机会）或 `a chance to do sth.`。
 
 ### 9
 
-Teachers should always encourage students to express their ideas freely in class for `____`.
+Teachers should always `____` students to express their ideas freely in class.
 
-- [x] hopeful
-- [ ] as many
-- [ ] count
+- [x] encourage
+- [ ] if only
+- [ ] regret
 
 > **解析**：`encourage` 及物动词，搭配 `encourage sb. to do sth.`（鼓励某人做某事）。
 
 ### 10
 
-Despite the temporary setback, we remain hopeful about our project's outcome (`____`).
+Despite the temporary setback, we remain `____`ful about our project's outcome (if only).
 
-- [x] if only
-- [ ] chance
-- [ ] encourage
+- [x] hope
+- [ ] lottery
+- [ ] satisfied
 
 > **解析**：`hopeful` 形容词，意为“充满希望的；乐观的”。常与系动词 `remain / feel / be` 连用，搭配 `be hopeful about sth.`。
 

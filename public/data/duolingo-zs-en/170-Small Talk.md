@@ -58,11 +58,11 @@ hardly 和 interrupt 给场景加了一点礼貌维度：Sorry to interrupt, but
    > **解析**：any 在疑问句中作限定词，修饰复数名词 recommendations，意为“任何、一些”。
 
 2. **中文**：了解当地文化能让与国际同事闲聊变得容易得多。  
-   **英文**：Learning about local culture makes small talk with international colleagues much easier for any.
+   **英文**：Learning about local culture makes small talk with international colleagues much easier.
    > **解析**：culture 为名词，意为“文化”。local culture 指当地文化。
 
 3. **中文**：我几乎没认出他来，因为他彻底改换了发型。  
-   **英文**：I hardly recognized him because he changed his hairstyle completely for architect.
+   **英文**：I hardly recognized him because he changed his hairstyle completely.
    > **解析**：hardly 为半否定副词，意为“几乎不、几乎没有”，修饰动词 recognized。
 
 4. **中文**：认识一下我的朋友莎拉吧，她在一家全国性报社担任资深记者。  
@@ -70,11 +70,11 @@ hardly 和 interrupt 给场景加了一点礼貌维度：Sorry to interrupt, but
    > **解析**：journalist 为可数名词，意为“新闻记者”。work as a journalist 意为“从事记者工作”。
 
 5. **中文**：让我把你介绍给我们设计部的几位同事认识一下。  
-   **英文**：Let me introduce you to some colleagues from our design department for culture.
+   **英文**：Let me introduce you to some colleagues from our design department.
    > **解析**：some 为限定词，在肯定句中修饰复数名词 colleagues，意为“一些、若干”。
 
 6. **中文**：说到周末计划，你听说过即将举行的艺术展吗？  
-   **英文**：Speaking of weekend plans, have you heard about the upcoming art exhibition? for familiar.
+   **英文**：Speaking of weekend plans, have you heard about the upcoming art exhibition.
    > **解析**：speaking of 为常用闲聊介词短语，意为“说到……、谈及……”，用于转换或接续话题。
 
 7. **中文**：参加这次社交活动绝对是值得的，因为我结识了许多行业专家。  
@@ -82,15 +82,15 @@ hardly 和 interrupt 给场景加了一点礼貌维度：Sorry to interrupt, but
    > **解析**：worth it 为固定口语形容词短语，意为“值得的、有价值的”，作表语（was worth it）。
 
 8. **中文**：我迫不及待地期待年度公司年会，以便与老朋友们聚聚了。  
-   **英文**：I can't wait for the annual company conference to catch up with old friends for hardly.
+   **英文**：I can't wait for the annual company conference to catch up with old friends about architect.
    > **解析**：can't wait for 为固定短语，意为“迫不及待等待……”，后接名词或代词。
 
 9. **中文**：稍等片刻，我从大衣口袋里拿一下我的名片。  
-   **英文**：Hang on a second while I fetch my business card from my coat pocket for interrupt.
+   **英文**：Hang on a second while I fetch my business card from my coat pocket.
    > **解析**：hang on 为常用口语短语，意为“稍等、等等”，常用于社交交流中中断片刻时的提示。
 
 10. **中文**：请允许我向今天在场的各位介绍我以前的同学马克。  
-   **英文**：Allow me to introduce my former classmate, Mark, to everyone present today.
+   **英文**：Allow me to introduce my former classmate, Mark, to everyone present today about familiar.
    > **解析**：introduce 为及物动词，意为“介绍”。常用结构 introduce A to B（把A介绍给B）。
 
 </quiz-sentence-builder>
@@ -100,31 +100,31 @@ hardly 和 interrupt 给场景加了一点礼貌维度：Sorry to interrupt, but
 1. Do you have any recommendations for good coffee shops nearby?
    > **中文**：你对附近好的咖啡馆有什么推荐吗？
 
-2. Learning about local culture makes small talk with international colleagues much easier for any.
+2. Learning about local culture makes small talk with international colleagues much easier.
    > **中文**：了解当地文化能让与国际同事闲聊变得容易得多。
 
-3. I hardly recognized him because he changed his hairstyle completely for architect.
+3. I hardly recognized him because he changed his hairstyle completely.
    > **中文**：我几乎没认出他来，因为他彻底改换了发型。
 
 4. Meet my friend Sarah, who works as a senior journalist for a national newspaper (can't wait for).
    > **中文**：认识一下我的朋友莎拉吧，她在一家全国性报社担任资深记者。
 
-5. Let me introduce you to some colleagues from our design department for culture.
+5. Let me introduce you to some colleagues from our design department.
    > **中文**：让我把你介绍给我们设计部的几位同事认识一下。
 
-6. Speaking of weekend plans, have you heard about the upcoming art exhibition? for familiar.
+6. Speaking of weekend plans, have you heard about the upcoming art exhibition.
    > **中文**：说到周末计划，你听说过即将举行的艺术展吗？
 
 7. Attending the networking event was definitely worth it because I met many industry experts (hang on).
    > **中文**：参加这次社交活动绝对是值得的，因为我结识了许多行业专家。
 
-8. I can't wait for the annual company conference to catch up with old friends for hardly.
+8. I can't wait for the annual company conference to catch up with old friends about architect.
    > **中文**：我迫不及待地期待年度公司年会，以便与老朋友们聚聚了。
 
-9. Hang on a second while I fetch my business card from my coat pocket for interrupt.
+9. Hang on a second while I fetch my business card from my coat pocket.
    > **中文**：稍等片刻，我从大衣口袋里拿一下我的名片。
 
-10. Allow me to introduce my former classmate, Mark, to everyone present today.
+10. Allow me to introduce my former classmate, Mark, to everyone present today about familiar.
    > **中文**：请允许我向今天在场的各位介绍我以前的同学马克。
 
 </quiz-listening>
@@ -140,28 +140,28 @@ hardly 和 interrupt 给场景加了一点礼貌维度：Sorry to interrupt, but
 Do you h`____`ve any recommendations for good coffee shops nearby?
 
 - [x] a
-- [ ] can't wait for
-- [ ] hang on
+- [ ] any
+- [ ] familiar
 
 > **解析**：any 在疑问句中作限定词，修饰复数名词 recommendations，意为“任何、一些”。
 
 ### 2
 
-Learning about local culture makes small talk with international colleagues much easier for `____`.
+Learning about local `____` makes small talk with international colleagues much easier.
 
-- [x] any
-- [ ] culture
-- [ ] hardly
+- [x] culture
+- [ ] any
+- [ ] hang on
 
 > **解析**：culture 为名词，意为“文化”。local culture 指当地文化。
 
 ### 3
 
-I hardly recognized him because he changed his hairstyle completely for `____`.
+I `____` recognized him because he changed his hairstyle completely.
 
-- [x] architect
-- [ ] familiar
-- [ ] interrupt
+- [x] hardly
+- [ ] architect
+- [ ] hang on
 
 > **解析**：hardly 为半否定副词，意为“几乎不、几乎没有”，修饰动词 recognized。
 
@@ -170,68 +170,68 @@ I hardly recognized him because he changed his hairstyle completely for `____`.
 Meet my friend Sarah, who works as a senior journalist for a national newspaper (`____`).
 
 - [x] can't wait for
-- [ ] hang on
-- [ ] introduce
+- [ ] culture
+- [ ] interrupt
 
 > **解析**：journalist 为可数名词，意为“新闻记者”。work as a journalist 意为“从事记者工作”。
 
 ### 5
 
-Let me introduce you to some colleagues from our design department for `____`.
+Let me `____` you to some colleagues from our design department.
 
-- [x] culture
-- [ ] hardly
-- [ ] a
+- [x] introduce
+- [ ] culture
+- [ ] interrupt
 
 > **解析**：some 为限定词，在肯定句中修饰复数名词 colleagues，意为“一些、若干”。
 
 ### 6
 
-Speaking of weekend plans, have you heard about the upcoming art exhibition? for `____`.
+`____` weekend plans, have you heard about the upcoming art exhibition.
 
-- [x] familiar
-- [ ] interrupt
-- [ ] any
+- [x] speaking of
+- [ ] familiar
+- [ ] introduce
 
 > **解析**：speaking of 为常用闲聊介词短语，意为“说到……、谈及……”，用于转换或接续话题。
 
 ### 7
 
-Attending the networking event was definitely worth it because I met many industry experts (`____`).
+Attending the networking event was definitely worth it because I met m`____` industry experts (hang on).
 
-- [x] hang on
-- [ ] introduce
-- [ ] architect
+- [x] any
+- [ ] hardly
+- [ ] love to
 
 > **解析**：worth it 为固定口语形容词短语，意为“值得的、有价值的”，作表语（was worth it）。
 
 ### 8
 
-I can't wait for the annual company conference to catch up with old friends for `____`.
+I can't wait for the annual company conference to catch up with old friends about `____`.
 
-- [x] hardly
-- [ ] a
-- [ ] can't wait for
+- [x] architect
+- [ ] interrupt
+- [ ] nice
 
 > **解析**：can't wait for 为固定短语，意为“迫不及待等待……”，后接名词或代词。
 
 ### 9
 
-Hang on a second while I fetch my business card from my coat pocket for `____`.
+`____` a second while I fetch my business card from my coat pocket.
 
-- [x] interrupt
-- [ ] any
-- [ ] culture
+- [x] hang on
+- [ ] introduce
+- [ ] some
 
 > **解析**：hang on 为常用口语短语，意为“稍等、等等”，常用于社交交流中中断片刻时的提示。
 
 ### 10
 
-Allow me to `____` my former classmate, Mark, to everyone present today.
+Allow me to introduce my former classmate, Mark, to everyone present today about `____`.
 
-- [x] introduce
-- [ ] architect
-- [ ] familiar
+- [x] familiar
+- [ ] journalist
+- [ ] sometime
 
 > **解析**：introduce 为及物动词，意为“介绍”。常用结构 introduce A to B（把A介绍给B）。
 

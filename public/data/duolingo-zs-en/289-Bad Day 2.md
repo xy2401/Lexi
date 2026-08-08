@@ -64,19 +64,19 @@ beneath, block, dashboard, frustrating, get a hold of, go wrong, in a row, keep 
 <quiz-sentence-builder>
 
 1. **中文**：我要迟到了，因为早晨的交通比平时拥堵得多。  
-   **英文**：I am running late because the morning traffic was far heavier than usual for beneath.
+   **英文**：I am running late because the morning traffic was far heavier than usual.
    > **解析**：`be running late` 是口语高频短语，意为“迟到、赶时间”，表示正在走向迟到的状态。
 
 2. **中文**：长话短说，我的车坏了，我不得不坐公交车。  
-   **英文**：Long story short, my car broke down and I had to take a bus for block.
+   **英文**：Long story short, my car broke down and I had to take a bus.
    > **解析**：`long story short` 是习惯口语短语，意为“长话短说、长话短说总而言之”，常作为句首插入语。
 
 3. **中文**：非常抱歉让你在寒风中等了我半个多小时。  
-   **英文**：I am so sorry to keep you waiting for over half an hour in the cold for dashboard.
+   **英文**：I am so sorry to keep you waiting for over half an hour in the cold.
    > **解析**：`keep sb. waiting` 是习惯搭配，意为“让某人久等”，动词 `keep` 后接“人 + 现在分词”。
 
 4. **中文**：轮胎爆裂时，司机不得不把车停靠到路肩上。  
-   **英文**：The driver had to pull over onto the shoulder when the tire popped for frustrating.
+   **英文**：The driver had to pull over onto the shoulder when the tire popped.
    > **解析**：`pull over` 是动词短语，意为“（驾驶车辆）靠边停车”。
 
 5. **中文**：我在处理这份紧急项目报告时完全忘记了时间。  
@@ -92,31 +92,31 @@ beneath, block, dashboard, frustrating, get a hold of, go wrong, in a row, keep 
    > **解析**：`pothole` 指路面上的“坑洼、坑洞”，由 `pot` + `hole` 构成。
 
 8. **中文**：我试图联系上你，但你的手机关机了。  
-   **英文**：I tried to get a hold of you, but your mobile phone was turned off (keep you waiting).
+   **英文**：I tried to get a hold of you, but your mobile phone was turned off (keep you waiting) about beneath.
    > **解析**：`get a hold of sb.` 是口语短语，意为“联系上某人、找到某人”。
 
 9. **中文**：从早晨闹钟没响的那一刻起，似乎一切事情都出差错。  
-   **英文**：Everything seemed to go wrong from the moment my morning alarm failed to ring for leak.
+   **英文**：Everything seemed to go wrong from the moment my morning alarm failed to ring.
    > **解析**：`go wrong` 是动词短语，意为“出差错、出故障”。
 
 10. **中文**：别担心，我已经在路上了，应该十分钟内到达。  
-   **英文**：Don't worry, I am already on my way and should arrive in ten minutes for long.
+   **英文**：Don't worry, I am already on my way and should arrive in ten minutes.
    > **解析**：`be on one's way` 是固定短语，意为“在路上、正赶去”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I am running late because the morning traffic was far heavier than usual for beneath.
+1. I am running late because the morning traffic was far heavier than usual.
    > **中文**：我要迟到了，因为早晨的交通比平时拥堵得多。
 
-2. Long story short, my car broke down and I had to take a bus for block.
+2. Long story short, my car broke down and I had to take a bus.
    > **中文**：长话短说，我的车坏了，我不得不坐公交车。
 
-3. I am so sorry to keep you waiting for over half an hour in the cold for dashboard.
+3. I am so sorry to keep you waiting for over half an hour in the cold.
    > **中文**：非常抱歉让你在寒风中等了我半个多小时。
 
-4. The driver had to pull over onto the shoulder when the tire popped for frustrating.
+4. The driver had to pull over onto the shoulder when the tire popped.
    > **中文**：轮胎爆裂时，司机不得不把车停靠到路肩上。
 
 5. I completely lost track of time while working on the urgent project report (get a hold of).
@@ -128,13 +128,13 @@ beneath, block, dashboard, frustrating, get a hold of, go wrong, in a row, keep 
 7. Hitting a deep pothole on the main road caused a flat tire on my bicycle (in a row).
    > **中文**：在主干道上撞到一个深坑导致我的自行车轮胎扁了。
 
-8. I tried to get a hold of you, but your mobile phone was turned off (keep you waiting).
+8. I tried to get a hold of you, but your mobile phone was turned off (keep you waiting) about beneath.
    > **中文**：我试图联系上你，但你的手机关机了。
 
-9. Everything seemed to go wrong from the moment my morning alarm failed to ring for leak.
+9. Everything seemed to go wrong from the moment my morning alarm failed to ring.
    > **中文**：从早晨闹钟没响的那一刻起，似乎一切事情都出差错。
 
-10. Don't worry, I am already on my way and should arrive in ten minutes for long.
+10. Don't worry, I am already on my way and should arrive in ten minutes.
    > **中文**：别担心，我已经在路上了，应该十分钟内到达。
 
 </quiz-listening>
@@ -147,41 +147,41 @@ beneath, block, dashboard, frustrating, get a hold of, go wrong, in a row, keep 
 
 ### 1
 
-I am running late because the morning traffic was far heavier than usual for `____`.
+I am `____` because the morning traffic was far heavier than usual.
 
-- [x] beneath
-- [ ] frustrating
-- [ ] in a row
+- [x] running late
+- [ ] beneath
+- [ ] get a hold of
 
 > **解析**：`be running late` 是口语高频短语，意为“迟到、赶时间”，表示正在走向迟到的状态。
 
 ### 2
 
-Long story short, my car broke down and I had to take a bus for `____`.
+`____` story short, my car broke down and I had to take a bus.
 
-- [x] block
-- [ ] get a hold of
-- [ ] keep you waiting
+- [x] long
+- [ ] block
+- [ ] go wrong
 
 > **解析**：`long story short` 是习惯口语短语，意为“长话短说、长话短说总而言之”，常作为句首插入语。
 
 ### 3
 
-I am so sorry to keep you waiting for over half an hour in the cold for `____`.
+I am so sorry to `____` for over half an hour in the cold.
 
-- [x] dashboard
-- [ ] go wrong
-- [ ] leak
+- [x] keep you waiting
+- [ ] dashboard
+- [ ] in a row
 
 > **解析**：`keep sb. waiting` 是习惯搭配，意为“让某人久等”，动词 `keep` 后接“人 + 现在分词”。
 
 ### 4
 
-The driver had to pull over onto the shoulder when the tire popped for `____`.
+The driver had to `____` onto the shoulder when the tire popped.
 
-- [x] frustrating
-- [ ] in a row
-- [ ] long
+- [x] pull over
+- [ ] frustrating
+- [ ] keep you waiting
 
 > **解析**：`pull over` 是动词短语，意为“（驾驶车辆）靠边停车”。
 
@@ -190,18 +190,18 @@ The driver had to pull over onto the shoulder when the tire popped for `____`.
 I completely lost track of time while working on the urgent project report (`____`).
 
 - [x] get a hold of
-- [ ] keep you waiting
-- [ ] beneath
+- [ ] go wrong
+- [ ] long
 
 > **解析**：`lose track of time` 是固定短语，意为“失去对时间的注意、忘记时间”。
 
 ### 6
 
-It was a very frustrating morning because everything that could `____` did go wrong.
+It was a very `____` morning because everything that could go wrong did go wrong.
 
-- [x] go wrong
-- [ ] leak
-- [ ] block
+- [x] frustrating
+- [ ] in a row
+- [ ] long story
 
 > **解析**：`frustrating` 是形容词，意为“令人沮丧的、令人气馁的”，修饰事物或处境。
 
@@ -210,38 +210,38 @@ It was a very frustrating morning because everything that could `____` did go wr
 Hitting a deep pothole on the main road caused a flat tire on my bicycle (`____`).
 
 - [x] in a row
-- [ ] long
-- [ ] dashboard
+- [ ] keep you waiting
+- [ ] long story short
 
 > **解析**：`pothole` 指路面上的“坑洼、坑洞”，由 `pot` + `hole` 构成。
 
 ### 8
 
-I tried to get a hold of you, but your mobile phone was turned off (`____`).
+I tried to get a hold of you, but your mobile phone was turned off (keep you waiting) about `____`.
 
-- [x] keep you waiting
-- [ ] beneath
-- [ ] frustrating
+- [x] beneath
+- [ ] leak
+- [ ] lose track of time
 
 > **解析**：`get a hold of sb.` 是口语短语，意为“联系上某人、找到某人”。
 
 ### 9
 
-Everything seemed to go wrong from the moment my morning alarm failed to ring for `____`.
+Everything seemed to `____` from the moment my morning alarm failed to ring.
 
-- [x] leak
-- [ ] block
-- [ ] get a hold of
+- [x] go wrong
+- [ ] long
+- [ ] motor
 
 > **解析**：`go wrong` 是动词短语，意为“出差错、出故障”。
 
 ### 10
 
-Don't worry, I am already on my way and should arrive in ten minutes for `____`.
+Don't worry, I am already `____` and should arrive in ten minutes.
 
-- [x] long
-- [ ] dashboard
-- [ ] go wrong
+- [x] on my way
+- [ ] long
+- [ ] motor
 
 > **解析**：`be on one's way` 是固定短语，意为“在路上、正赶去”。
 

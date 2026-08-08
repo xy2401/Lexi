@@ -56,35 +56,35 @@ must 在这里表推测（"一定、肯定"），the most 构成最高级。laug
    > **解析**：biography 可数名词，意为“传记；人物传”，由 bio-（生命）+ -graphy（书写）构成。
 
 2. **中文**：这位电影导演因创作出如此生动的杰作而获得赞誉。  
-   **英文**：The film director received praise for creating such a vivid masterpiece for act.
+   **英文**：The film director received praise for creating such a vivid masterpiece.
    > **解析**：director 可数名词，在此意为“（电影）导演”；也可指“董事；主管”。
 
 3. **中文**：这位出色的演员昨晚因其精湛表现获得了一项享有盛誉的奖项。  
-   **英文**：The talented actor won a prestigious award for his performance last night for autograph.
+   **英文**：The talented actor won a prestigious award for his performance last night.
    > **解析**：award 可数名词，意为“奖项；奖品”，作动词时意为“颁发；授予”。
 
 4. **中文**：她非凡的戏剧表演天赋震惊了评论家们。  
-   **英文**：Her extraordinary talent for dramatic acting astonished the critics for award.
+   **英文**：Her extraordinary talent for dramatic acting astonished the critics.
    > **解析**：extraordinary 形容词，意为“非凡的；卓越的”，前缀 extra- 表示超出。
 
 5. **中文**：她被选定在明年夏天的一部新浪漫喜剧电影中担任主演。  
-   **英文**：She was chosen to star in a new romantic comedy movie next summer for biography.
+   **英文**：She was chosen to star in a new romantic comedy movie next summer.
    > **解析**：star in 短语动词，意为“在……中担任主演”，star 作动词。
 
 6. **中文**：兴奋的粉丝们在剧院外等待，请求这位演员的亲笔签名。  
-   **英文**：Excited fans waited outside the theater to ask for the actor's autograph for director.
+   **英文**：Excited fans waited outside the theater to ask for the actor's autograph.
    > **解析**：autograph 可数名词，特指“（名人的）亲笔签名”。
 
 7. **中文**：那本杂志装满了名人八卦，并不总是准确。  
-   **英文**：The magazine is full of celebrity gossip that is not always accurate for does.
+   **英文**：The magazine is full of celebrity gossip that is not always accurate.
    > **解析**：gossip 不可数/可数名词，意为“八卦；绯闻”。
 
 8. **中文**：这部侦探电影的剧情使主要反派的身份始终是个谜。  
-   **英文**：The plot of the detective movie keeps the main villain's identity a total mystery for extraordinary.
+   **英文**：The plot of the detective movie keeps the main villain's identity a total mystery.
    > **解析**：mystery 可数/不可数名词，意为“谜；神秘事件”。
 
 9. **中文**：许多评论家认为他是史上最伟大的电影演员之一。  
-   **英文**：Many critics consider him one of the greatest movie actors of all time for gossip.
+   **英文**：Many critics consider him one of the greatest movie actors of all time.
    > **解析**：of all time 介词短语，意为“有史以来；史上”，用于修饰最高级。
 
 10. **中文**：观众忍不住对这部喜剧中搞笑的场景发笑。  
@@ -98,28 +98,28 @@ must 在这里表推测（"一定、肯定"），the most 构成最高级。laug
 1. I read an inspiring biography about the famous Hollywood film director.
    > **中文**：我读了一本关于这位好莱坞著名电影导演的励志传记。
 
-2. The film director received praise for creating such a vivid masterpiece for act.
+2. The film director received praise for creating such a vivid masterpiece.
    > **中文**：这位电影导演因创作出如此生动的杰作而获得赞誉。
 
-3. The talented actor won a prestigious award for his performance last night for autograph.
+3. The talented actor won a prestigious award for his performance last night.
    > **中文**：这位出色的演员昨晚因其精湛表现获得了一项享有盛誉的奖项。
 
-4. Her extraordinary talent for dramatic acting astonished the critics for award.
+4. Her extraordinary talent for dramatic acting astonished the critics.
    > **中文**：她非凡的戏剧表演天赋震惊了评论家们。
 
-5. She was chosen to star in a new romantic comedy movie next summer for biography.
+5. She was chosen to star in a new romantic comedy movie next summer.
    > **中文**：她被选定在明年夏天的一部新浪漫喜剧电影中担任主演。
 
-6. Excited fans waited outside the theater to ask for the actor's autograph for director.
+6. Excited fans waited outside the theater to ask for the actor's autograph.
    > **中文**：兴奋的粉丝们在剧院外等待，请求这位演员的亲笔签名。
 
-7. The magazine is full of celebrity gossip that is not always accurate for does.
+7. The magazine is full of celebrity gossip that is not always accurate.
    > **中文**：那本杂志装满了名人八卦，并不总是准确。
 
-8. The plot of the detective movie keeps the main villain's identity a total mystery for extraordinary.
+8. The plot of the detective movie keeps the main villain's identity a total mystery.
    > **中文**：这部侦探电影的剧情使主要反派的身份始终是个谜。
 
-9. Many critics consider him one of the greatest movie actors of all time for gossip.
+9. Many critics consider him one of the greatest movie actors of all time.
    > **中文**：许多评论家认为他是史上最伟大的电影演员之一。
 
 10. The audience could not help but laugh at the hilarious scenes in the comedy.
@@ -138,88 +138,88 @@ must 在这里表推测（"一定、肯定"），the most 构成最高级。laug
 I read an inspiring biography `____` the famous Hollywood film director.
 
 - [x] about
-- [ ] award
-- [ ] does
+- [ ] act
+- [ ] director
 
 > **解析**：biography 可数名词，意为“传记；人物传”，由 bio-（生命）+ -graphy（书写）构成。
 
 ### 2
 
-The film director received praise for creating such a vivid masterpiece for `____`.
+The film `____` received praise for creating such a vivid masterpiece.
 
-- [x] act
-- [ ] biography
-- [ ] extraordinary
+- [x] director
+- [ ] act
+- [ ] does
 
 > **解析**：director 可数名词，在此意为“（电影）导演”；也可指“董事；主管”。
 
 ### 3
 
-The talented actor won a prestigious award for his performance last night for `____`.
+The talented `____`or won a prestigious award for his performance last night.
 
-- [x] autograph
-- [ ] director
-- [ ] gossip
+- [x] act
+- [ ] award
+- [ ] extraordinary
 
 > **解析**：award 可数名词，意为“奖项；奖品”，作动词时意为“颁发；授予”。
 
 ### 4
 
-Her extraordinary talent for dramatic acting astonished the critics for `____`.
+Her `____` talent for dramatic acting astonished the critics.
 
-- [x] award
-- [ ] does
-- [ ] laugh at
+- [x] extraordinary
+- [ ] award
+- [ ] gossip
 
 > **解析**：extraordinary 形容词，意为“非凡的；卓越的”，前缀 extra- 表示超出。
 
 ### 5
 
-She was chosen to star in a new romantic comedy movie next summer for `____`.
+She was chosen to `____` a new romantic comedy movie next summer.
 
-- [x] biography
-- [ ] extraordinary
-- [ ] about
+- [x] star in
+- [ ] biography
+- [ ] gossip
 
 > **解析**：star in 短语动词，意为“在……中担任主演”，star 作动词。
 
 ### 6
 
-Excited fans waited outside the theater to ask for the actor's autograph for `____`.
+Excited fans waited outside the theater to ask for the actor's `____`.
 
-- [x] director
-- [ ] gossip
-- [ ] act
+- [x] autograph
+- [ ] does
+- [ ] must
 
 > **解析**：autograph 可数名词，特指“（名人的）亲笔签名”。
 
 ### 7
 
-The magazine is full of celebrity gossip that is not always accurate for `____`.
+The magazine is full of celebrity `____` that is not always accurate.
 
-- [x] does
-- [ ] laugh at
-- [ ] autograph
+- [x] gossip
+- [ ] does
+- [ ] mystery
 
 > **解析**：gossip 不可数/可数名词，意为“八卦；绯闻”。
 
 ### 8
 
-The plot of the detective movie keeps the main villain's identity a total mystery for `____`.
+The plot of the detective movie keeps the main villain's identity a total `____`.
 
-- [x] extraordinary
-- [ ] about
-- [ ] award
+- [x] mystery
+- [ ] extraordinary
+- [ ] of all time
 
 > **解析**：mystery 可数/不可数名词，意为“谜；神秘事件”。
 
 ### 9
 
-Many critics consider him one of the greatest movie actors of all time for `____`.
+Many critics consider him one of the greatest movie actors `____`.
 
-- [x] gossip
-- [ ] act
-- [ ] biography
+- [x] of all time
+- [ ] gossip
+- [ ] over
 
 > **解析**：of all time 介词短语，意为“有史以来；史上”，用于修饰最高级。
 
@@ -228,8 +228,8 @@ Many critics consider him one of the greatest movie actors of all time for `____
 The audience could not help but `____` the hilarious scenes in the comedy.
 
 - [x] laugh at
-- [ ] autograph
-- [ ] director
+- [ ] must
+- [ ] perfect for
 
 > **解析**：laugh at 动词短语，意为“因……发笑；嘲笑”。
 

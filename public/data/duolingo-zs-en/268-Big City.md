@@ -62,7 +62,7 @@ Hollywood, adjust, agriculture, artistic, best way to learn, best way to meet, b
 <quiz-sentence-builder>
 
 1. **中文**：搬到大城市为她提供了全新的职业路线和文化体验。  
-   **英文**：Moving to the big city offered her new career paths and cultural experiences for Hollywood.
+   **英文**：Moving to the big city offered her new career paths and cultural experiences.
    > **解析**：`the big city` 意为“大都市、大城市”，作介词 `to` 的宾语。
 
 2. **中文**：适应大快节奏的大都市生活需要时间。  
@@ -70,11 +70,11 @@ Hollywood, adjust, agriculture, artistic, best way to learn, best way to meet, b
    > **解析**：`adjust` 不及物动词，搭配介词 `to`（`adjust to sth`）意为“适应某事”。
 
 3. **中文**：生活在芝加哥对于年轻艺术家来说充满了独特的机遇。  
-   **英文**：Living in Chicago is full of unique opportunities for creative young artists for agriculture.
+   **英文**：Living in Chicago is full of unique opportunities for creative young artists.
    > **解析**：`be full of unique opportunities` 意为“充满了独特的机遇”。
 
 4. **中文**：不要立刻拒绝城市生活；你首先应该给它一个机会试试。  
-   **英文**：Don't reject city life right away; you should give it a chance first for artistic.
+   **英文**：Don't reject city life right away; you should give it a chance first.
    > **解析**：`give sth/it a chance` 是常用表达，意为“给……一个机会”。
 
 5. **中文**：离开安静的老家去演艺界追梦是一个巨大的风险。  
@@ -90,11 +90,11 @@ Hollywood, adjust, agriculture, artistic, best way to learn, best way to meet, b
    > **解析**：`make the most of sth` 是固定短语，意为“充分利用/善用某物”。
 
 8. **中文**：她喜欢回到家乡，欣赏安详宁静的周围环境。  
-   **英文**：She enjoys returning home to admire the peaceful green surroundings for conventional.
+   **英文**：She enjoys returning home to admire the peaceful green surroundings.
    > **解析**：`surroundings` 常用复数，意为“环境、周围事物”。
 
 9. **中文**：我的家乡虽小但风景如画，拥有令人惊叹的山景。  
-   **英文**：My hometown is small but beautiful with breathtaking mountain scenery for deli.
+   **英文**：My hometown is small but beautiful with breathtaking mountain scenery.
    > **解析**：`small but beautiful` 意为“小巧而美丽、精致秀丽”。
 
 10. **中文**：市中心的住房质量可能达不到你的标准。  
@@ -105,16 +105,16 @@ Hollywood, adjust, agriculture, artistic, best way to learn, best way to meet, b
 
 <quiz-listening>
 
-1. Moving to the big city offered her new career paths and cultural experiences for Hollywood.
+1. Moving to the big city offered her new career paths and cultural experiences.
    > **中文**：搬到大城市为她提供了全新的职业路线和文化体验。
 
 2. It takes time to adjust to the fast pace of living in a metropolis.
    > **中文**：适应大快节奏的大都市生活需要时间。
 
-3. Living in Chicago is full of unique opportunities for creative young artists for agriculture.
+3. Living in Chicago is full of unique opportunities for creative young artists.
    > **中文**：生活在芝加哥对于年轻艺术家来说充满了独特的机遇。
 
-4. Don't reject city life right away; you should give it a chance first for artistic.
+4. Don't reject city life right away; you should give it a chance first.
    > **中文**：不要立刻拒绝城市生活；你首先应该给它一个机会试试。
 
 5. Leaving your quiet hometown to pursue a dream in showbiz is a big risk (best way to learn).
@@ -126,10 +126,10 @@ Hollywood, adjust, agriculture, artistic, best way to learn, best way to meet, b
 7. You should make the most of the rich cultural resources in the city (broadway musical).
    > **中文**：你应当充分利用这座城市丰富的文化资源。
 
-8. She enjoys returning home to admire the peaceful green surroundings for conventional.
+8. She enjoys returning home to admire the peaceful green surroundings.
    > **中文**：她喜欢回到家乡，欣赏安详宁静的周围环境。
 
-9. My hometown is small but beautiful with breathtaking mountain scenery for deli.
+9. My hometown is small but beautiful with breathtaking mountain scenery.
    > **中文**：我的家乡虽小但风景如画，拥有令人惊叹的山景。
 
 10. The housing quality in the city center may not be up to your standards (far from her home).
@@ -145,11 +145,11 @@ Hollywood, adjust, agriculture, artistic, best way to learn, best way to meet, b
 
 ### 1
 
-Moving to the big city offered her new career paths and cultural experiences for `____`.
+Moving to `____` offered her new career paths and cultural experiences.
 
-- [x] Hollywood
-- [ ] artistic
-- [ ] broadway musical
+- [x] the big city
+- [ ] Hollywood
+- [ ] best way to learn
 
 > **解析**：`the big city` 意为“大都市、大城市”，作介词 `to` 的宾语。
 
@@ -158,28 +158,28 @@ Moving to the big city offered her new career paths and cultural experiences for
 It takes time to `____` to the fast pace of living in a metropolis.
 
 - [x] adjust
-- [ ] best way to learn
-- [ ] conventional
+- [ ] agriculture
+- [ ] broadway musical
 
 > **解析**：`adjust` 不及物动词，搭配介词 `to`（`adjust to sth`）意为“适应某事”。
 
 ### 3
 
-Living in Chicago is full of unique opportunities for creative young artists for `____`.
+Living in Chicago is `____` for creative young artists.
 
-- [x] agriculture
-- [ ] best way to meet
-- [ ] deli
+- [x] full of unique opportunities
+- [ ] agriculture
+- [ ] broadway musical
 
 > **解析**：`be full of unique opportunities` 意为“充满了独特的机遇”。
 
 ### 4
 
-Don't reject city life right away; you should give it a chance first for `____`.
+Don't reject city life right away; you should `____` first.
 
-- [x] artistic
-- [ ] broadway musical
-- [ ] far from her home
+- [x] give it a chance
+- [ ] artistic
+- [ ] conventional
 
 > **解析**：`give sth/it a chance` 是常用表达，意为“给……一个机会”。
 
@@ -188,8 +188,8 @@ Don't reject city life right away; you should give it a chance first for `____`.
 Leaving your quiet hometown to pursue a dream in showbiz is a big risk (`____`).
 
 - [x] best way to learn
-- [ ] conventional
-- [ ] Hollywood
+- [ ] best way to meet
+- [ ] far from her home
 
 > **解析**：`take a risk` 意为“冒风险、承担风险”。
 
@@ -198,8 +198,8 @@ Leaving your quiet hometown to pursue a dream in showbiz is a big risk (`____`).
 People in my hometown are known for being friendly and hardworking (`____`).
 
 - [x] best way to meet
-- [ ] deli
-- [ ] adjust
+- [ ] broadway musical
+- [ ] full of unique opportunities
 
 > **解析**：`hardworking` 是形容词，意为“勤劳的、努力工作的”。
 
@@ -208,28 +208,28 @@ People in my hometown are known for being friendly and hardworking (`____`).
 You should make the most of the rich cultural resources in the city (`____`).
 
 - [x] broadway musical
-- [ ] far from her home
-- [ ] agriculture
+- [ ] conventional
+- [ ] give it a chance
 
 > **解析**：`make the most of sth` 是固定短语，意为“充分利用/善用某物”。
 
 ### 8
 
-She enjoys returning home to admire the peaceful green surroundings for `____`.
+She enjoys returning home to admire the peaceful green `____`.
 
-- [x] conventional
-- [ ] Hollywood
-- [ ] artistic
+- [x] surroundings
+- [ ] conventional
+- [ ] give it a chance
 
 > **解析**：`surroundings` 常用复数，意为“环境、周围事物”。
 
 ### 9
 
-My hometown is small but beautiful with breathtaking mountain scenery for `____`.
+My hometown is `____` with breathtaking mountain scenery.
 
-- [x] deli
-- [ ] adjust
-- [ ] best way to learn
+- [x] small but beautiful
+- [ ] deli
+- [ ] hardworking
 
 > **解析**：`small but beautiful` 意为“小巧而美丽、精致秀丽”。
 
@@ -238,8 +238,8 @@ My hometown is small but beautiful with breathtaking mountain scenery for `____`
 The housing quality in the city center may not be up to your standards (`____`).
 
 - [x] far from her home
-- [ ] agriculture
-- [ ] best way to meet
+- [ ] full of unique opportunities
+- [ ] looking to
 
 > **解析**：`up to one's standards` 意为“达到某人的标准”。
 

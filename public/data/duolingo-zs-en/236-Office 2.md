@@ -70,15 +70,15 @@ availability, call in sick, cooperate, cut, decline, in the long run, itself, le
    > **解析**：`decline` 及物动词，在此处意为“礼貌地拒绝；谢绝”。对比 `reject`，`decline` 语气更为体面正式。
 
 3. **中文**：由于公司重组，该公司不得不解雇/裁减几名初级员工。  
-   **英文**：Due to company restructuring, the firm had to let go of several junior employees for cooperate.
+   **英文**：Due to company restructuring, the firm had to let go of several junior employees.
    > **解析**：`let go of` 为动词短语，在职场场景中指“解雇；裁员（与 `lay off` 类似）”。
 
 4. **中文**：我们公司同意与一家当地技术公司合作开发该应用程序。  
-   **英文**：Our company agreed to partner with a local technology firm to develop the application for cut.
+   **英文**：Our company agreed to partner with a local technology firm to develop the application.
    > **解析**：`partner` 动词，意为“合伙；合作”。固定搭配 `partner with sb. / a company`。
 
 5. **中文**：会计将所有财务数据整齐地组织存放在 Excel 电子表格中。  
-   **英文**：The accountant organized all financial data neatly into an Excel spreadsheet for decline.
+   **英文**：The accountant organized all financial data neatly into an Excel spreadsheet.
    > **解析**：`spreadsheet` 可数名词，意为“电子表格”。
 
 6. **中文**：这提醒了我，我们仍然需要在五点前提交我们每月的费用报告。  
@@ -86,11 +86,11 @@ availability, call in sick, cooperate, cut, decline, in the long run, itself, le
    > **解析**：`that reminds me` 为口语过渡短语，意为“这提醒了我；想起了一件事”，用于由当前话题联想到另一件需要处理的事项。
 
 7. **中文**：在本公司，未提前通知而错过项目截止日期是完全不可接受的。  
-   **英文**：Missing project deadlines without advance notice is completely unacceptable in this firm for itself.
+   **英文**：Missing project deadlines without advance notice is completely unacceptable in this firm.
    > **解析**：`unacceptable` 形容词，意为“无法接受的；不容许的”，由前缀 `un-` + `acceptable` 构成。
 
 8. **中文**：如果你发烧醒来，你应该打电话请病假并留在家中休息。  
-   **英文**：If you wake up with a fever, you should call in sick and rest at home (let go).
+   **英文**：If you wake up with a fever, you should call in sick and rest at home (let go) about cooperate.
    > **解析**：`call in sick` 动词短语，意为“打电话请病假”。
 
 9. **中文**：从长远来看，投资高质量的办公设备将会节省资金。  
@@ -111,22 +111,22 @@ availability, call in sick, cooperate, cut, decline, in the long run, itself, le
 2. Management decided to decline the proposal because it exceeded the department budget (call in sick).
    > **中文**：管理层决定谢绝/拒绝该提议，因为其超出了部门预算。
 
-3. Due to company restructuring, the firm had to let go of several junior employees for cooperate.
+3. Due to company restructuring, the firm had to let go of several junior employees.
    > **中文**：由于公司重组，该公司不得不解雇/裁减几名初级员工。
 
-4. Our company agreed to partner with a local technology firm to develop the application for cut.
+4. Our company agreed to partner with a local technology firm to develop the application.
    > **中文**：我们公司同意与一家当地技术公司合作开发该应用程序。
 
-5. The accountant organized all financial data neatly into an Excel spreadsheet for decline.
+5. The accountant organized all financial data neatly into an Excel spreadsheet.
    > **中文**：会计将所有财务数据整齐地组织存放在 Excel 电子表格中。
 
 6. That reminds me, we still need to submit our monthly expense reports by five o'clock (in the long run).
    > **中文**：这提醒了我，我们仍然需要在五点前提交我们每月的费用报告。
 
-7. Missing project deadlines without advance notice is completely unacceptable in this firm for itself.
+7. Missing project deadlines without advance notice is completely unacceptable in this firm.
    > **中文**：在本公司，未提前通知而错过项目截止日期是完全不可接受的。
 
-8. If you wake up with a fever, you should call in sick and rest at home (let go).
+8. If you wake up with a fever, you should call in sick and rest at home (let go) about cooperate.
    > **中文**：如果你发烧醒来，你应该打电话请病假并留在家中休息。
 
 9. Investing in high-quality office equipment will save money in the long run (move on).
@@ -148,8 +148,8 @@ availability, call in sick, cooperate, cut, decline, in the long run, itself, le
 Please check the team calendar for everyone's `____` before scheduling the meeting.
 
 - [x] availability
-- [ ] cut
-- [ ] itself
+- [ ] call in sick
+- [ ] in the long run
 
 > **解析**：`availability` 不可数名词，意为“可获得性；可配合的时间/空闲”。在办公和日程安排中常指“空闲时间”。
 
@@ -158,38 +158,38 @@ Please check the team calendar for everyone's `____` before scheduling the meeti
 Management decided to decline the proposal because it exceeded the department budget (`____`).
 
 - [x] call in sick
-- [ ] decline
-- [ ] let go
+- [ ] cooperate
+- [ ] itself
 
 > **解析**：`decline` 及物动词，在此处意为“礼貌地拒绝；谢绝”。对比 `reject`，`decline` 语气更为体面正式。
 
 ### 3
 
-Due to company restructuring, the firm had to let go of several junior employees for `____`.
+Due to company restructuring, the firm had to `____` of several junior employees.
 
-- [x] cooperate
-- [ ] in the long run
-- [ ] move on
+- [x] let go
+- [ ] cooperate
+- [ ] itself
 
 > **解析**：`let go of` 为动词短语，在职场场景中指“解雇；裁员（与 `lay off` 类似）”。
 
 ### 4
 
-Our company agreed to partner with a local technology firm to develop the application for `____`.
+Our company agreed to `____` with a local technology firm to develop the application.
 
-- [x] cut
-- [ ] itself
-- [ ] on top of
+- [x] partner
+- [ ] cut
+- [ ] let go
 
 > **解析**：`partner` 动词，意为“合伙；合作”。固定搭配 `partner with sb. / a company`。
 
 ### 5
 
-The accountant organized all financial data neatly into an Excel spreadsheet for `____`.
+The accountant organized all financial data neatly into an Excel `____`.
 
-- [x] decline
-- [ ] let go
-- [ ] availability
+- [x] spreadsheet
+- [ ] decline
+- [ ] move on
 
 > **解析**：`spreadsheet` 可数名词，意为“电子表格”。
 
@@ -198,28 +198,28 @@ The accountant organized all financial data neatly into an Excel spreadsheet for
 That reminds me, we still need to submit our monthly expense reports by five o'clock (`____`).
 
 - [x] in the long run
-- [ ] move on
-- [ ] call in sick
+- [ ] itself
+- [ ] once
 
 > **解析**：`that reminds me` 为口语过渡短语，意为“这提醒了我；想起了一件事”，用于由当前话题联想到另一件需要处理的事项。
 
 ### 7
 
-Missing project deadlines without advance notice is completely unacceptable in this firm for `____`.
+Missing project deadlines without advance notice is completely `____` in this firm.
 
-- [x] itself
-- [ ] on top of
-- [ ] cooperate
+- [x] unacceptable
+- [ ] itself
+- [ ] once
 
 > **解析**：`unacceptable` 形容词，意为“无法接受的；不容许的”，由前缀 `un-` + `acceptable` 构成。
 
 ### 8
 
-If you wake up with a fever, you should call in sick and rest at home (`____`).
+If you wake up with a fever, you should call in sick and rest at home (let go) about `____`.
 
-- [x] let go
-- [ ] availability
-- [ ] cut
+- [x] cooperate
+- [ ] move on
+- [ ] performance
 
 > **解析**：`call in sick` 动词短语，意为“打电话请病假”。
 
@@ -228,8 +228,8 @@ If you wake up with a fever, you should call in sick and rest at home (`____`).
 Investing in high-quality office equipment will save money in the long run (`____`).
 
 - [x] move on
-- [ ] call in sick
-- [ ] decline
+- [ ] on top of
+- [ ] retirement
 
 > **解析**：`in the long run` 介词短语作状语，意为“从长远来看；终究”。
 
@@ -238,8 +238,8 @@ Investing in high-quality office equipment will save money in the long run (`___
 `____` managing the budget, she is also responsible for training new staff members.
 
 - [x] on top of
-- [ ] cooperate
-- [ ] in the long run
+- [ ] once
+- [ ] shift
 
 > **解析**：`on top of` 介词短语，意为“除了……之外；加上”，后接动名词 `managing`。
 

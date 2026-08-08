@@ -62,23 +62,23 @@ get in / get out 表示"进入/出去"。in a mood 表示"心情……"。
 <quiz-sentence-builder>
 
 1. **中文**：爷爷奶奶喜欢和他们活泼的孙辈一起度过暑假。  
-   **英文**：The grandparents love spending summer holidays with their active grandkids for against.
+   **英文**：The grandparents love spending summer holidays with their active grandkids.
    > **解析**：grandkid 为名词（口语常用），指“孙子、孙女、外孙、外孙女”。复数形式为 grandkids。书面语常用 grandchild / grandchildren。
 
 2. **中文**：全家人聚集在大方舒适的饭厅里吃周日晚餐。  
-   **英文**：The whole family gathers in the spacious dining room for Sunday dinner for annoy.
+   **英文**：The whole family gathers in the spacious dining room for Sunday dinner.
    > **解析**：dining room 为名词短语，意为“饭厅、餐厅”。spacious 意为“宽敞的”。
 
 3. **中文**：在传统春节期间，亲戚们聚在一起包饺子。  
-   **英文**：During the traditional Spring Festival, relatives gather to cook dumplings together for bright.
+   **英文**：During the traditional Spring Festival, relatives gather to cook dumplings together.
    > **解析**：festival 为名词，意为“节日”。Spring Festival 意为“春节”。gather to cook 表示“聚集下厨”。
 
 4. **中文**：我们当地的社区中心为老年居民组织周末活动。  
-   **英文**：Our local community center organizes weekend activities for elderly residents for broccoli.
+   **英文**：Our local community center organizes weekend activities for elderly residents.
    > **解析**：community 为名词，意为“社区”。community center 意为“社区中心”。elderly residents 指“老年居民”。
 
 5. **中文**：每当孙辈们来拜访时，我父亲总是处于愉快的心情中。  
-   **英文**：My father is always in a cheerful mood whenever his grandchildren come to visit for community.
+   **英文**：My father is always in a cheerful mood whenever his grandchildren come to visit.
    > **解析**：mood 为名词，意为“心情、情绪”。be in a cheerful/good mood 表示“处于愉快的心情”。
 
 6. **中文**：我妹妹在第一次见她未来的岳父母/公婆前感到很紧张。  
@@ -86,11 +86,11 @@ get in / get out 表示"进入/出去"。in a mood 表示"心情……"。
    > **解析**：nervous 为形容词，意为“紧张的、不安的”。be nervous before... 表示“在...前感到紧张”。
 
 7. **中文**：为二十位客人准备一顿丰盛的晚餐可能是一项相当繁重/有压力的任务。  
-   **英文**：Preparing a big dinner for twenty visitors can be quite a stressful task for double.
+   **英文**：Preparing a big dinner for twenty visitors can be quite a stressful task.
    > **解析**：stressful 为形容词，意为“充满压力的、令人紧张的”。用于修饰事物（a stressful task）。修饰人的感受用 stressed。
 
 8. **中文**：深夜的轰鸣噪音真的很骚扰/打扰我们公寓楼里的邻居们。  
-   **英文**：Loud noises late at night really annoy the neighbors in our apartment building for festival.
+   **英文**：Loud noises late at night really annoy the neighbors in our apartment building.
    > **解析**：annoy 为动词，意为“打扰、使烦恼”。形容词形式为 annoying（令人烦恼的）或 annoyed（感到烦恼的）。
 
 9. **中文**：住宅后面有充足的免费停车空间。  
@@ -105,28 +105,28 @@ get in / get out 表示"进入/出去"。in a mood 表示"心情……"。
 
 <quiz-listening>
 
-1. The grandparents love spending summer holidays with their active grandkids for against.
+1. The grandparents love spending summer holidays with their active grandkids.
    > **中文**：爷爷奶奶喜欢和他们活泼的孙辈一起度过暑假。
 
-2. The whole family gathers in the spacious dining room for Sunday dinner for annoy.
+2. The whole family gathers in the spacious dining room for Sunday dinner.
    > **中文**：全家人聚集在大方舒适的饭厅里吃周日晚餐。
 
-3. During the traditional Spring Festival, relatives gather to cook dumplings together for bright.
+3. During the traditional Spring Festival, relatives gather to cook dumplings together.
    > **中文**：在传统春节期间，亲戚们聚在一起包饺子。
 
-4. Our local community center organizes weekend activities for elderly residents for broccoli.
+4. Our local community center organizes weekend activities for elderly residents.
    > **中文**：我们当地的社区中心为老年居民组织周末活动。
 
-5. My father is always in a cheerful mood whenever his grandchildren come to visit for community.
+5. My father is always in a cheerful mood whenever his grandchildren come to visit.
    > **中文**：每当孙辈们来拜访时，我父亲总是处于愉快的心情中。
 
 6. My younger sister felt nervous before meeting her future in-laws for the first time (dining room).
    > **中文**：我妹妹在第一次见她未来的岳父母/公婆前感到很紧张。
 
-7. Preparing a big dinner for twenty visitors can be quite a stressful task for double.
+7. Preparing a big dinner for twenty visitors can be quite a stressful task.
    > **中文**：为二十位客人准备一顿丰盛的晚餐可能是一项相当繁重/有压力的任务。
 
-8. Loud noises late at night really annoy the neighbors in our apartment building for festival.
+8. Loud noises late at night really annoy the neighbors in our apartment building.
    > **中文**：深夜的轰鸣噪音真的很骚扰/打扰我们公寓楼里的邻居们。
 
 9. There is plenty of free parking space available behind the family house (get in).
@@ -145,81 +145,81 @@ get in / get out 表示"进入/出去"。in a mood 表示"心情……"。
 
 ### 1
 
-The grandparents love spending summer holidays with their active grandkids for `____`.
+The grandparents love spending summer holidays with their active `____`s.
 
-- [x] against
-- [ ] broccoli
-- [ ] double
+- [x] grandkid
+- [ ] against
+- [ ] community
 
 > **解析**：grandkid 为名词（口语常用），指“孙子、孙女、外孙、外孙女”。复数形式为 grandkids。书面语常用 grandchild / grandchildren。
 
 ### 2
 
-The whole family gathers in the spacious dining room for Sunday dinner for `____`.
+The whole family gathers in the spacious `____` for Sunday dinner.
 
-- [x] annoy
-- [ ] community
-- [ ] festival
+- [x] dining room
+- [ ] annoy
+- [ ] double
 
 > **解析**：dining room 为名词短语，意为“饭厅、餐厅”。spacious 意为“宽敞的”。
 
 ### 3
 
-During the traditional Spring Festival, relatives gather to cook dumplings together for `____`.
+During the traditional Spring `____`, relatives gather to cook dumplings together.
 
-- [x] bright
-- [ ] dining room
-- [ ] get in
+- [x] festival
+- [ ] bright
+- [ ] double
 
 > **解析**：festival 为名词，意为“节日”。Spring Festival 意为“春节”。gather to cook 表示“聚集下厨”。
 
 ### 4
 
-Our local community center organizes weekend activities for elderly residents for `____`.
+Our local `____` center organizes weekend activities for elderly residents.
 
-- [x] broccoli
-- [ ] double
-- [ ] get out
+- [x] community
+- [ ] broccoli
+- [ ] get in
 
 > **解析**：community 为名词，意为“社区”。community center 意为“社区中心”。elderly residents 指“老年居民”。
 
 ### 5
 
-My father is always in a cheerful mood whenever his grandchildren come to visit for `____`.
+My father is always in a cheerful `____` whenever his grandchildren come to visit.
 
-- [x] community
-- [ ] festival
-- [ ] against
+- [x] mood
+- [ ] community
+- [ ] get in
 
 > **解析**：mood 为名词，意为“心情、情绪”。be in a cheerful/good mood 表示“处于愉快的心情”。
 
 ### 6
 
-My younger sister felt nervous before meeting her future in-laws for the first time (`____`).
+My younger sister felt `____` before meeting her future in-laws for the first time (dining room).
 
-- [x] dining room
-- [ ] get in
-- [ ] annoy
+- [x] nervous
+- [ ] dining room
+- [ ] get out
 
 > **解析**：nervous 为形容词，意为“紧张的、不安的”。be nervous before... 表示“在...前感到紧张”。
 
 ### 7
 
-Preparing a big dinner for twenty visitors can be quite a stressful task for `____`.
+Preparing a big dinner for twenty visitors can be quite a `____` task.
 
-- [x] double
-- [ ] get out
-- [ ] bright
+- [x] stressful
+- [ ] double
+- [ ] go on
 
 > **解析**：stressful 为形容词，意为“充满压力的、令人紧张的”。用于修饰事物（a stressful task）。修饰人的感受用 stressed。
 
 ### 8
 
-Loud noises late at night really annoy the neighbors in our apartment building for `____`.
+Loud noises late at night really `____` the neighbors in our apartment building.
 
-- [x] festival
-- [ ] against
-- [ ] broccoli
+- [x] annoy
+- [ ] get in
+- [ ] joke
 
 > **解析**：annoy 为动词，意为“打扰、使烦恼”。形容词形式为 annoying（令人烦恼的）或 annoyed（感到烦恼的）。
 
@@ -228,8 +228,8 @@ Loud noises late at night really annoy the neighbors in our apartment building f
 There is plenty of free parking space available behind the family house (`____`).
 
 - [x] get in
-- [ ] annoy
-- [ ] community
+- [ ] get out
+- [ ] make
 
 > **解析**：parking 在句中作定语修饰 space，parking space 表示“停车位/停车空间”。parking 为不可数名词。
 
@@ -238,8 +238,8 @@ There is plenty of free parking space available behind the family house (`____`)
 My family teaches the kids to recycle plastic bottles and paper packaging daily (`____`).
 
 - [x] get out
-- [ ] bright
-- [ ] dining room
+- [ ] go on
+- [ ] mood
 
 > **解析**：recycle 为动词，意为“回收利用、循环使用”。teach sb. to do sth. 表示“教某人做某事”。
 

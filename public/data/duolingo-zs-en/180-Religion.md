@@ -58,27 +58,27 @@ Buddhist, Christian, Hindu, Jewish, Muslim, atheist, become, believe in, bible, 
    > **解析**：Buddhist 在此处作形容词，意为“佛教的”，修饰 temple（Buddhist temple 佛教寺庙）。
 
 2. **中文**：穆斯林传统在宗教节日期间强调好客与慈善。  
-   **英文**：Muslim traditions emphasize hospitality and charity during religious holidays for Christian.
+   **英文**：Muslim traditions emphasize hospitality and charity during religious holidays.
    > **解析**：Muslim 在此处作形容词，意为“伊斯兰教的、穆斯林的”，修饰 traditions。
 
 3. **中文**：那本历史悠久的皮装圣经在博物馆档案室中被精心保存。  
-   **英文**：The historic leather-bound bible was preserved carefully in the museum archive for Hindu.
+   **英文**：The historic leather-bound bible was preserved carefully in the museum archive.
    > **解析**：bible 为名词，指基督教的《圣经》，在此处为文化与历史专有名词。
 
 4. **中文**：在许多古代文化中，死亡被视为通往另一个领域的精神过渡。  
-   **英文**：In many ancient cultures, death was viewed as a spiritual transition into another realm for Jewish.
+   **英文**：In many ancient cultures, death was viewed as a spiritual transition into another realm.
    > **解析**：death 为名词，意为“死亡、逝世”，作句子的主语。
 
 5. **中文**：人们树立雕像以纪念古代智慧与战争女神。  
-   **英文**：Statues were erected to honor the ancient goddess of wisdom and war for Muslim.
+   **英文**：Statues were erected to honor the ancient goddess of wisdom and war.
    > **解析**：goddess 为可数名词，意为“女神”，与 god（男神）对应。
 
 6. **中文**：村民们在日落时分聚集在一起，为丰收与健康默默祈祷。  
-   **英文**：Villagers gathered at sunset to offer a quiet prayer for good harvest and health for atheist.
+   **英文**：Villagers gathered at sunset to offer a quiet prayer for good harvest and health.
    > **解析**：prayer 为名词，意为“祈祷、祷告”。offer a prayer 意为“做出祈祷”。
 
 7. **中文**：根据习俗，社区举办了节日活动来庆祝春天的回归。  
-   **英文**：The community held a festival to celebrate the return of spring according to custom for become.
+   **英文**：The community held a festival to celebrate the return of spring according to custom.
    > **解析**：return 在此处作名词，意为“归来、回归”。the return of spring 指春天的回归。
 
 8. **中文**：圣诞节是一个主要的基督教节日，全世界都用音乐和家庭聚会来庆祝。  
@@ -86,7 +86,7 @@ Buddhist, Christian, Hindu, Jewish, Muslim, atheist, become, believe in, bible, 
    > **解析**：Christian 在此处作形容词，意为“基督教的”，修饰 holiday（Christian holiday）。
 
 9. **中文**：无神论者是指不相信存在任何神灵或上帝的人。  
-   **英文**：An atheist is someone who does not believe in the existence of any deity or God for bible.
+   **英文**：An atheist is someone who does not believe in the existence of any deity or God.
    > **解析**：atheist 为可数名词，指“无神论者”，由否定前缀 a- 与 deity/theist 构词。
 
 10. **中文**：这座大教堂是几百年前建造的哥特式天主教建筑的著名代表。  
@@ -100,28 +100,28 @@ Buddhist, Christian, Hindu, Jewish, Muslim, atheist, become, believe in, bible, 
 1. The ancient Buddhist temple on the mountain attracts peaceful pilgrims every year.
    > **中文**：山上的古老佛教寺庙每年都吸引着宁静的朝圣者。
 
-2. Muslim traditions emphasize hospitality and charity during religious holidays for Christian.
+2. Muslim traditions emphasize hospitality and charity during religious holidays.
    > **中文**：穆斯林传统在宗教节日期间强调好客与慈善。
 
-3. The historic leather-bound bible was preserved carefully in the museum archive for Hindu.
+3. The historic leather-bound bible was preserved carefully in the museum archive.
    > **中文**：那本历史悠久的皮装圣经在博物馆档案室中被精心保存。
 
-4. In many ancient cultures, death was viewed as a spiritual transition into another realm for Jewish.
+4. In many ancient cultures, death was viewed as a spiritual transition into another realm.
    > **中文**：在许多古代文化中，死亡被视为通往另一个领域的精神过渡。
 
-5. Statues were erected to honor the ancient goddess of wisdom and war for Muslim.
+5. Statues were erected to honor the ancient goddess of wisdom and war.
    > **中文**：人们树立雕像以纪念古代智慧与战争女神。
 
-6. Villagers gathered at sunset to offer a quiet prayer for good harvest and health for atheist.
+6. Villagers gathered at sunset to offer a quiet prayer for good harvest and health.
    > **中文**：村民们在日落时分聚集在一起，为丰收与健康默默祈祷。
 
-7. The community held a festival to celebrate the return of spring according to custom for become.
+7. The community held a festival to celebrate the return of spring according to custom.
    > **中文**：根据习俗，社区举办了节日活动来庆祝春天的回归。
 
 8. Christmas is a major Christian holiday celebrated with music and family gatherings worldwide (believe in).
    > **中文**：圣诞节是一个主要的基督教节日，全世界都用音乐和家庭聚会来庆祝。
 
-9. An atheist is someone who does not believe in the existence of any deity or God for bible.
+9. An atheist is someone who does not believe in the existence of any deity or God.
    > **中文**：无神论者是指不相信存在任何神灵或上帝的人。
 
 10. The cathedral is a famous example of gothic catholic architecture built centuries ago.
@@ -140,88 +140,88 @@ Buddhist, Christian, Hindu, Jewish, Muslim, atheist, become, believe in, bible, 
 The ancient `____` temple on the mountain attracts peaceful pilgrims every year.
 
 - [x] Buddhist
-- [ ] Jewish
-- [ ] become
+- [ ] Christian
+- [ ] atheist
 
 > **解析**：Buddhist 在此处作形容词，意为“佛教的”，修饰 temple（Buddhist temple 佛教寺庙）。
 
 ### 2
 
-Muslim traditions emphasize hospitality and charity during religious holidays for `____`.
+`____` traditions emphasize hospitality and charity during religious holidays.
 
-- [x] Christian
-- [ ] Muslim
-- [ ] believe in
+- [x] Muslim
+- [ ] Christian
+- [ ] become
 
 > **解析**：Muslim 在此处作形容词，意为“伊斯兰教的、穆斯林的”，修饰 traditions。
 
 ### 3
 
-The historic leather-bound bible was preserved carefully in the museum archive for `____`.
+The historic leather-bound `____` was preserved carefully in the museum archive.
 
-- [x] Hindu
-- [ ] atheist
-- [ ] bible
+- [x] bible
+- [ ] Hindu
+- [ ] become
 
 > **解析**：bible 为名词，指基督教的《圣经》，在此处为文化与历史专有名词。
 
 ### 4
 
-In many ancient cultures, death was viewed as a spiritual transition into another realm for `____`.
+In many ancient cultures, `____` was viewed as a spiritual transition into another realm.
 
-- [x] Jewish
-- [ ] become
-- [ ] catholic
+- [x] death
+- [ ] Jewish
+- [ ] believe in
 
 > **解析**：death 为名词，意为“死亡、逝世”，作句子的主语。
 
 ### 5
 
-Statues were erected to honor the ancient goddess of wisdom and war for `____`.
+Statues were erected to honor the ancient `____`dess of wisdom and war.
 
-- [x] Muslim
-- [ ] believe in
-- [ ] Buddhist
+- [x] god
+- [ ] Muslim
+- [ ] bible
 
 > **解析**：goddess 为可数名词，意为“女神”，与 god（男神）对应。
 
 ### 6
 
-Villagers gathered at sunset to offer a quiet prayer for good harvest and health for `____`.
+Villagers gathered at sunset to offer a quiet `____` for good harvest and health.
 
-- [x] atheist
-- [ ] bible
-- [ ] Christian
+- [x] prayer
+- [ ] atheist
+- [ ] catholic
 
 > **解析**：prayer 为名词，意为“祈祷、祷告”。offer a prayer 意为“做出祈祷”。
 
 ### 7
 
-The community held a festival to celebrate the return of spring according to custom for `____`.
+The community held a festival to celebrate the `____` of spring according to custom.
 
-- [x] become
-- [ ] catholic
-- [ ] Hindu
+- [x] return
+- [ ] become
+- [ ] cross
 
 > **解析**：return 在此处作名词，意为“归来、回归”。the return of spring 指春天的回归。
 
 ### 8
 
-Christmas is a major Christian holiday celebrated with music and family gatherings worldwide (`____`).
+Christmas is a major `____` holiday celebrated with music and family gatherings worldwide (believe in).
 
-- [x] believe in
-- [ ] Buddhist
-- [ ] Jewish
+- [x] Christian
+- [ ] bible
+- [ ] doubt
 
 > **解析**：Christian 在此处作形容词，意为“基督教的”，修饰 holiday（Christian holiday）。
 
 ### 9
 
-An atheist is someone who does not believe in the existence of any deity or God for `____`.
+An `____` is someone who does not believe in the existence of any deity or God.
 
-- [x] bible
-- [ ] Christian
-- [ ] Muslim
+- [x] atheist
+- [ ] catholic
+- [ ] ghost
 
 > **解析**：atheist 为可数名词，指“无神论者”，由否定前缀 a- 与 deity/theist 构词。
 
@@ -230,8 +230,8 @@ An atheist is someone who does not believe in the existence of any deity or God 
 The cathedral is a famous example of gothic `____` architecture built centuries ago.
 
 - [x] catholic
-- [ ] Hindu
-- [ ] atheist
+- [ ] cross
+- [ ] god
 
 > **解析**：catholic 在此处作形容词，意为“天主教的”，修饰 architecture（catholic architecture）。
 

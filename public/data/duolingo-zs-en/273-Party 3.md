@@ -74,7 +74,7 @@ all the way, any time, can always call, express, going-away party, guest of hono
    > **解析**：`guest list` 是复合名词，意为“宾客名单”，在句中作动词 `check` 的宾语。
 
 4. **中文**：大家都同意每人凑十美元，买一份贴心的退休礼物。  
-   **英文**：Everyone agreed to pitch in ten dollars to buy a thoughtful retirement gift for express.
+   **英文**：Everyone agreed to pitch in ten dollars to buy a thoughtful retirement gift about express.
    > **解析**：`pitch in` 是口语动词短语，意为“共同凑钱、协力分摊”，常用于筹集资金或共同完成某任务。
 
 5. **中文**：因为这是一次百家宴晚餐，每位客人都带了一道家常菜来分享。  
@@ -90,7 +90,7 @@ all the way, any time, can always call, express, going-away party, guest of hono
    > **解析**：`venue` 指活动、会议或派对的“举办地点、场地”，作句中的表语。
 
 8. **中文**：经理提议干杯，庆祝他成功的职业转型。  
-   **英文**：The manager proposed a toast to celebrate his successful career transition for move.
+   **英文**：The manager proposed a toast to celebrate his successful career transition about move.
    > **解析**：`toast` 在此作名词，意为“祝酒、干杯”。固定短语 `propose a toast to...` 表示“向……提议干杯”。
 
 9. **中文**：我收到一条消息，说她今晚赶不及来参加派对了。  
@@ -98,7 +98,7 @@ all the way, any time, can always call, express, going-away party, guest of hono
    > **解析**：`can't make it` 是习惯口语表达，意为“无法出席、赶不上”，`make it` 表示“按时到达/成功做到”。
 
 10. **中文**：他是一位极好的队友，大家一定会深深怀念他。  
-   **英文**：He was such a wonderful teammate, and he will truly be missed by everyone for occasionally.
+   **英文**：He was such a wonderful teammate, and he will truly be missed by everyone about occasionally.
    > **解析**：`will be missed` 是被动语态，意为“将会被怀念/想念”，表达依依不舍之情。
 
 </quiz-sentence-builder>
@@ -114,7 +114,7 @@ all the way, any time, can always call, express, going-away party, guest of hono
 3. Please check the guest list to make sure everyone was invited (can always call).
    > **中文**：请检查一下客人名单，确保每个人都接到了邀请。
 
-4. Everyone agreed to pitch in ten dollars to buy a thoughtful retirement gift for express.
+4. Everyone agreed to pitch in ten dollars to buy a thoughtful retirement gift about express.
    > **中文**：大家都同意每人凑十美元，买一份贴心的退休礼物。
 
 5. Since it was a potluck dinner, every guest brought a homemade dish to share (going-away party).
@@ -126,13 +126,13 @@ all the way, any time, can always call, express, going-away party, guest of hono
 7. The rooftop garden proved to be the perfect venue for the summer party (leave town).
    > **中文**：事实证明，屋顶花园是这次夏日派对的绝佳场地。
 
-8. The manager proposed a toast to celebrate his successful career transition for move.
+8. The manager proposed a toast to celebrate his successful career transition about move.
    > **中文**：经理提议干杯，庆祝他成功的职业转型。
 
 9. I received a message saying she can't make it to the party tonight (move away).
    > **中文**：我收到一条消息，说她今晚赶不及来参加派对了。
 
-10. He was such a wonderful teammate, and he will truly be missed by everyone for occasionally.
+10. He was such a wonderful teammate, and he will truly be missed by everyone about occasionally.
    > **中文**：他是一位极好的队友，大家一定会深深怀念他。
 
 </quiz-listening>
@@ -148,8 +148,8 @@ all the way, any time, can always call, express, going-away party, guest of hono
 We hosted a warm farewell party for our colleague who is moving overseas (`____`).
 
 - [x] all the way
-- [ ] express
-- [ ] leave town
+- [ ] any time
+- [ ] guest of honor
 
 > **解析**：`farewell` 作形容词或名词，意为“告别的、欢送的”。短语 `farewell party` 特指“欢送会、告别派对”。
 
@@ -158,8 +158,8 @@ We hosted a warm farewell party for our colleague who is moving overseas (`____`
 The team organized a surprise dinner in honor of her ten years of service (`____`).
 
 - [x] any time
-- [ ] going-away party
-- [ ] move
+- [ ] can always call
+- [ ] leave town
 
 > **解析**：`in honor of` 是介词短语，意为“为了向……表示敬意、为了纪念/庆祝……”，在句中作状语。
 
@@ -168,18 +168,18 @@ The team organized a surprise dinner in honor of her ten years of service (`____
 Please check the guest list to make sure everyone was invited (`____`).
 
 - [x] can always call
-- [ ] guest of honor
-- [ ] move away
+- [ ] express
+- [ ] move
 
 > **解析**：`guest list` 是复合名词，意为“宾客名单”，在句中作动词 `check` 的宾语。
 
 ### 4
 
-Everyone agreed to pitch in ten dollars to buy a thoughtful retirement gift for `____`.
+Everyone agreed to pitch in ten dollars to buy a thoughtful retirement gift about `____`.
 
 - [x] express
-- [ ] leave town
-- [ ] occasionally
+- [ ] going-away party
+- [ ] move away
 
 > **解析**：`pitch in` 是口语动词短语，意为“共同凑钱、协力分摊”，常用于筹集资金或共同完成某任务。
 
@@ -188,8 +188,8 @@ Everyone agreed to pitch in ten dollars to buy a thoughtful retirement gift for 
 Since it was a potluck dinner, every guest brought a homemade dish to share (`____`).
 
 - [x] going-away party
-- [ ] move
-- [ ] all the way
+- [ ] guest of honor
+- [ ] occasionally
 
 > **解析**：`potluck`（或 `potluck dinner`）指“各自带菜的聚餐/百家宴”，作名词修饰语或独立名词。
 
@@ -198,8 +198,8 @@ Since it was a potluck dinner, every guest brought a homemade dish to share (`__
 We decided to hire a local company to cater the evening event (`____`).
 
 - [x] guest of honor
-- [ ] move away
-- [ ] any time
+- [ ] leave town
+- [ ] passion
 
 > **解析**：`cater` 是动词，意为“提供餐饮/包办宴席”。动词搭配 `cater an event` 表示“为活动提供餐饮”。
 
@@ -208,18 +208,18 @@ We decided to hire a local company to cater the evening event (`____`).
 The rooftop garden proved to be the perfect venue for the summer party (`____`).
 
 - [x] leave town
-- [ ] occasionally
-- [ ] can always call
+- [ ] move
+- [ ] permanently
 
 > **解析**：`venue` 指活动、会议或派对的“举办地点、场地”，作句中的表语。
 
 ### 8
 
-The manager proposed a toast to celebrate his successful career transition for `____`.
+The manager proposed a toast to celebrate his successful career transition about `____`.
 
 - [x] move
-- [ ] all the way
-- [ ] express
+- [ ] move away
+- [ ] phone call
 
 > **解析**：`toast` 在此作名词，意为“祝酒、干杯”。固定短语 `propose a toast to...` 表示“向……提议干杯”。
 
@@ -228,18 +228,18 @@ The manager proposed a toast to celebrate his successful career transition for `
 I received a message saying she can't make it to the party tonight (`____`).
 
 - [x] move away
-- [ ] any time
-- [ ] going-away party
+- [ ] occasionally
+- [ ] regards
 
 > **解析**：`can't make it` 是习惯口语表达，意为“无法出席、赶不上”，`make it` 表示“按时到达/成功做到”。
 
 ### 10
 
-He was such a wonderful teammate, and he will truly be missed by everyone for `____`.
+He was such a wonderful teammate, and he will truly be missed by everyone about `____`.
 
 - [x] occasionally
-- [ ] can always call
-- [ ] guest of honor
+- [ ] passion
+- [ ] stay in touch
 
 > **解析**：`will be missed` 是被动语态，意为“将会被怀念/想念”，表达依依不舍之情。
 

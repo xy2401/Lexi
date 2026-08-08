@@ -70,23 +70,23 @@ have to 表示"必须"（客观需要）。responsible for 表示"负责"。
    > **解析**：housework 作不可数名词，意为“家务，家务活”。
 
 3. **中文**：我每周六早晨用吸尘器清理客厅地毯以清除灰尘。  
-   **英文**：I vacuum the living room rug every Saturday morning to remove dust for continue.
+   **英文**：I vacuum the living room rug every Saturday morning to remove dust.
    > **解析**：vacuum 作及物/不及物动词，意为“用吸尘器清扫”。
 
 4. **中文**：她用温水和洗涤剂拖厨房的瓷砖地板。  
-   **英文**：She used warm water and detergent to mop the kitchen tile floor for dishwasher.
+   **英文**：She used warm water and detergent to mop the kitchen tile floor.
    > **解析**：mop 作及物动词，意为“用拖把拖（地）”。mop the floor 表示“拖地”。
 
 5. **中文**：把脏盘子放进洗碗机使晚餐后的清理变得轻松。  
-   **英文**：Putting dirty plates into the dishwasher makes cleaning up after dinner easy for dislike.
+   **英文**：Putting dirty plates into the dishwasher makes cleaning up after dinner easy.
    > **解析**：dishwasher 作名词，意为“洗碗机”。作介词 into 的宾语。
 
 6. **中文**：精细的羊毛衫应该手洗以防止缩水。  
-   **英文**：Delicate wool sweaters should be washed by hand to prevent shrinking for dust.
+   **英文**：Delicate wool sweaters should be washed by hand to prevent shrinking about continue.
    > **解析**：by hand 为固定介词短语，意为“用手，手工”。wash by hand 意为“手洗”。
 
 7. **中文**：咱们一起清理餐桌并洗碗吧。  
-   **英文**：Let's clean up the dining table and wash the dishes together for freezer.
+   **英文**：Let's clean up the dining table and wash the dishes together about dislike.
    > **解析**：clean up 为动词短语，意为“打扫，收拾整理”。
 
 8. **中文**：睡前请记得拿走厨房的垃圾。  
@@ -98,7 +98,7 @@ have to 表示"必须"（客观需要）。responsible for 表示"负责"。
    > **解析**：be responsible for... 意为“对……负责，承担……的责任”。
 
 10. **中文**：保持书桌干净整洁有助于你专注于学习。  
-   **英文**：Keeping your desk clean and neat helps you stay focused on studying for heater.
+   **英文**：Keeping your desk clean and neat helps you stay focused on studying.
    > **解析**：neat 作形容词，意为“整洁的，干净利落的”。作宾语补足语。
 
 </quiz-sentence-builder>
@@ -111,19 +111,19 @@ have to 表示"必须"（客观需要）。responsible for 表示"负责"。
 2. Sharing housework equally helps maintain harmony among family members (clean up).
    > **中文**：平等分担家务有助于维系家庭成员之间的和谐。
 
-3. I vacuum the living room rug every Saturday morning to remove dust for continue.
+3. I vacuum the living room rug every Saturday morning to remove dust.
    > **中文**：我每周六早晨用吸尘器清理客厅地毯以清除灰尘。
 
-4. She used warm water and detergent to mop the kitchen tile floor for dishwasher.
+4. She used warm water and detergent to mop the kitchen tile floor.
    > **中文**：她用温水和洗涤剂拖厨房的瓷砖地板。
 
-5. Putting dirty plates into the dishwasher makes cleaning up after dinner easy for dislike.
+5. Putting dirty plates into the dishwasher makes cleaning up after dinner easy.
    > **中文**：把脏盘子放进洗碗机使晚餐后的清理变得轻松。
 
-6. Delicate wool sweaters should be washed by hand to prevent shrinking for dust.
+6. Delicate wool sweaters should be washed by hand to prevent shrinking about continue.
    > **中文**：精细的羊毛衫应该手洗以防止缩水。
 
-7. Let's clean up the dining table and wash the dishes together for freezer.
+7. Let's clean up the dining table and wash the dishes together about dislike.
    > **中文**：咱们一起清理餐桌并洗碗吧。
 
 8. Remember to take out the kitchen garbage before going to bed.
@@ -132,7 +132,7 @@ have to 表示"必须"（客观需要）。responsible for 表示"负责"。
 9. Each roommate is responsible for cleaning their own room (have to).
    > **中文**：每个室友都负责打扫自己的房间。
 
-10. Keeping your desk clean and neat helps you stay focused on studying for heater.
+10. Keeping your desk clean and neat helps you stay focused on studying.
    > **中文**：保持书桌干净整洁有助于你专注于学习。
 
 </quiz-listening>
@@ -148,8 +148,8 @@ have to 表示"必须"（客观需要）。responsible for 表示"负责"。
 I have to finish my weekend chores before I can go out with friends (`____`).
 
 - [x] by hand
-- [ ] dishwasher
-- [ ] freezer
+- [ ] clean up
+- [ ] dust
 
 > **解析**：have to 为情态动词短语，意为“不得不，必须”，后接动词原形。
 
@@ -158,58 +158,58 @@ I have to finish my weekend chores before I can go out with friends (`____`).
 Sharing housework equally helps maintain harmony among family members (`____`).
 
 - [x] clean up
-- [ ] dislike
-- [ ] garbage
+- [ ] continue
+- [ ] freezer
 
 > **解析**：housework 作不可数名词，意为“家务，家务活”。
 
 ### 3
 
-I vacuum the living room rug every Saturday morning to remove dust for `____`.
+I vacuum the living room rug every Saturday morning to remove `____`.
 
-- [x] continue
-- [ ] dust
-- [ ] have to
+- [x] dust
+- [ ] continue
+- [ ] garbage
 
 > **解析**：vacuum 作及物/不及物动词，意为“用吸尘器清扫”。
 
 ### 4
 
-She used warm water and detergent to mop the kitchen tile floor for `____`.
+She used warm water and detergent to `____` the kitchen tile floor.
 
-- [x] dishwasher
-- [ ] freezer
-- [ ] heater
+- [x] mop
+- [ ] dishwasher
+- [ ] garbage
 
 > **解析**：mop 作及物动词，意为“用拖把拖（地）”。mop the floor 表示“拖地”。
 
 ### 5
 
-Putting dirty plates into the dishwasher makes cleaning up after dinner easy for `____`.
+Putting dirty plates into the `____` makes cleaning up after dinner easy.
 
-- [x] dislike
-- [ ] garbage
-- [ ] by hand
+- [x] dishwasher
+- [ ] dust
+- [ ] heater
 
 > **解析**：dishwasher 作名词，意为“洗碗机”。作介词 into 的宾语。
 
 ### 6
 
-Delicate wool sweaters should be washed by hand to prevent shrinking for `____`.
+Delicate wool sweaters should be washed by hand to prevent shrinking about `____`.
 
-- [x] dust
-- [ ] have to
-- [ ] clean up
+- [x] continue
+- [ ] freezer
+- [ ] housework
 
 > **解析**：by hand 为固定介词短语，意为“用手，手工”。wash by hand 意为“手洗”。
 
 ### 7
 
-Let's clean up the dining table and wash the dishes together for `____`.
+Let's clean up the dining table and wash the dishes together about `____`.
 
-- [x] freezer
-- [ ] heater
-- [ ] continue
+- [x] dislike
+- [ ] garbage
+- [ ] in trouble
 
 > **解析**：clean up 为动词短语，意为“打扫，收拾整理”。
 
@@ -218,8 +218,8 @@ Let's clean up the dining table and wash the dishes together for `____`.
 Remember to take out the kitchen `____` before going to bed.
 
 - [x] garbage
-- [ ] by hand
-- [ ] dishwasher
+- [ ] have to
+- [ ] lock
 
 > **解析**：garbage 作不可数名词，意为“垃圾”。take out garbage 意为“倒垃圾”。
 
@@ -228,18 +228,18 @@ Remember to take out the kitchen `____` before going to bed.
 Each roommate is responsible for cleaning their own room (`____`).
 
 - [x] have to
-- [ ] clean up
-- [ ] dislike
+- [ ] heater
+- [ ] made
 
 > **解析**：be responsible for... 意为“对……负责，承担……的责任”。
 
 ### 10
 
-Keeping your desk clean and neat helps you stay focused on studying for `____`.
+Keeping your desk clean and `____` helps you stay focused on studying.
 
-- [x] heater
-- [ ] continue
-- [ ] dust
+- [x] neat
+- [ ] heater
+- [ ] made
 
 > **解析**：neat 作形容词，意为“整洁的，干净利落的”。作宾语补足语。
 

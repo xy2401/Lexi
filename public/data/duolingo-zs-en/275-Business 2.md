@@ -64,11 +64,11 @@ advertising, by, do a good job, early days, estimate, family, family-owned, for 
 <quiz-sentence-builder>
 
 1. **中文**：达到一百万活跃用户是这家初创公司的一个重要里程碑。  
-   **英文**：Reaching one million active users was a major milestone for the startup company for advertising.
+   **英文**：Reaching one million active users was a major milestone for the startup company.
    > **解析**：`milestone` 意为“里程碑、重大事件”，由 `mile` + `stone` 构成，常比喻项目或发展的阶段性突破。
 
 2. **中文**：研究团队在可再生能源领域取得了重大的技术突破。  
-   **英文**：The research team achieved a significant technological breakthrough in renewable energy for by.
+   **英文**：The research team achieved a significant technological breakthrough in renewable energy about by.
    > **解析**：`breakthrough` 是名词，意为“重大突破”，常用搭配 `achieve a breakthrough`。
 
 3. **中文**：尽管面临市场挑战，该公司仍报告其季度营业收入稳步增长。  
@@ -80,15 +80,15 @@ advertising, by, do a good job, early days, estimate, family, family-owned, for 
    > **解析**：`merger` 指商业上的“公司合并”，常与 `acquisition`（收购）组合为 `mergers and acquisitions (M&A)`。
 
 5. **中文**：他们计划在明年早春发布新的软件产品。  
-   **英文**：They plan to launch their new software product early next spring for estimate.
+   **英文**：They plan to launch their new software product early next spring about estimate.
    > **解析**：`launch` 在商业语境中作动词，意为“发布、推出（新产品）”，在句中作谓语动词。
 
 6. **中文**：建立强有力的战略合作伙伴关系帮助该公司打入了海外市场。  
-   **英文**：Building a strong strategic partnership helped the firm enter overseas markets for family.
+   **英文**：Building a strong strategic partnership helped the firm enter overseas markets about family.
    > **解析**：`partnership` 指“合作伙伴关系、合伙企业”，派生自 `partner`，常用搭配 `strategic partnership`。
 
 7. **中文**：这家连锁餐厅旨在将其海外业务扩展到三个新城市。  
-   **英文**：The chain restaurant aims to expand its overseas business into three new cities for family-owned.
+   **英文**：The chain restaurant aims to expand its overseas business into three new cities about family-owned.
    > **解析**：`expand` 作动词，意为“扩大、扩展（规模或市场）”，作不定式 `to expand` 引导的宾语。
 
 8. **中文**：高运营效率为该企业带来了更健康的利润率。  
@@ -100,17 +100,17 @@ advertising, by, do a good job, early days, estimate, family, family-owned, for 
    > **解析**：`acquisition` 是名词，意为“收购、获得”，动词形式为 `acquire`。
 
 10. **中文**：该制造工厂需要扩大生产规模，以满足日益增长的全球需求。  
-   **英文**：The manufacturing plant needed to scale up production to meet growing global demand for goods.
+   **英文**：The manufacturing plant needed to scale up production to meet growing global demand about goods.
    > **解析**：`scale up` 是动词短语，意为“按比例放大、按规模扩大（生产或业务）”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. Reaching one million active users was a major milestone for the startup company for advertising.
+1. Reaching one million active users was a major milestone for the startup company.
    > **中文**：达到一百万活跃用户是这家初创公司的一个重要里程碑。
 
-2. The research team achieved a significant technological breakthrough in renewable energy for by.
+2. The research team achieved a significant technological breakthrough in renewable energy about by.
    > **中文**：研究团队在可再生能源领域取得了重大的技术突破。
 
 3. The company reported a steady increase in quarterly revenue despite market challenges (do a good job).
@@ -119,13 +119,13 @@ advertising, by, do a good job, early days, estimate, family, family-owned, for 
 4. The proposed merger between the two tech giants created a market leader (early days).
    > **中文**：两家科技巨头之间拟议的合并造就了一个市场领头羊。
 
-5. They plan to launch their new software product early next spring for estimate.
+5. They plan to launch their new software product early next spring about estimate.
    > **中文**：他们计划在明年早春发布新的软件产品。
 
-6. Building a strong strategic partnership helped the firm enter overseas markets for family.
+6. Building a strong strategic partnership helped the firm enter overseas markets about family.
    > **中文**：建立强有力的战略合作伙伴关系帮助该公司打入了海外市场。
 
-7. The chain restaurant aims to expand its overseas business into three new cities for family-owned.
+7. The chain restaurant aims to expand its overseas business into three new cities about family-owned.
    > **中文**：这家连锁餐厅旨在将其海外业务扩展到三个新城市。
 
 8. High operational efficiency resulted in a healthier profit margin for the business (for the better).
@@ -134,7 +134,7 @@ advertising, by, do a good job, early days, estimate, family, family-owned, for 
 9. The strategic acquisition of the rival firm expanded their market share overnight (from now).
    > **中文**：对竞争对手公司的战略收购使他们的市场份额一夜之间扩大了。
 
-10. The manufacturing plant needed to scale up production to meet growing global demand for goods.
+10. The manufacturing plant needed to scale up production to meet growing global demand about goods.
    > **中文**：该制造工厂需要扩大生产规模，以满足日益增长的全球需求。
 
 </quiz-listening>
@@ -147,21 +147,21 @@ advertising, by, do a good job, early days, estimate, family, family-owned, for 
 
 ### 1
 
-Reaching one million active users was a major milestone for the startup company for `____`.
+Reaching one million active users was a major `____` for the startup company.
 
-- [x] advertising
-- [ ] early days
-- [ ] family-owned
+- [x] milestone
+- [ ] advertising
+- [ ] estimate
 
 > **解析**：`milestone` 意为“里程碑、重大事件”，由 `mile` + `stone` 构成，常比喻项目或发展的阶段性突破。
 
 ### 2
 
-The research team achieved a significant technological breakthrough in renewable energy for `____`.
+The research team achieved a significant technological breakthrough in renewable energy about `____`.
 
 - [x] by
-- [ ] estimate
-- [ ] for the better
+- [ ] do a good job
+- [ ] family-owned
 
 > **解析**：`breakthrough` 是名词，意为“重大突破”，常用搭配 `achieve a breakthrough`。
 
@@ -170,8 +170,8 @@ The research team achieved a significant technological breakthrough in renewable
 The company reported a steady increase in quarterly revenue despite market challenges (`____`).
 
 - [x] do a good job
-- [ ] family
-- [ ] from now
+- [ ] early days
+- [ ] for the better
 
 > **解析**：`revenue` 指企业的“营业收入、财政收入”，属于不可数名词，作主语 `increase` 的定语修饰。
 
@@ -180,38 +180,38 @@ The company reported a steady increase in quarterly revenue despite market chall
 The proposed merger between the two tech giants created a market leader (`____`).
 
 - [x] early days
-- [ ] family-owned
-- [ ] goods
+- [ ] estimate
+- [ ] from now
 
 > **解析**：`merger` 指商业上的“公司合并”，常与 `acquisition`（收购）组合为 `mergers and acquisitions (M&A)`。
 
 ### 5
 
-They plan to launch their new software product early next spring for `____`.
+They plan to launch their new software product early next spring about `____`.
 
 - [x] estimate
-- [ ] for the better
-- [ ] advertising
+- [ ] family
+- [ ] goods
 
 > **解析**：`launch` 在商业语境中作动词，意为“发布、推出（新产品）”，在句中作谓语动词。
 
 ### 6
 
-Building a strong strategic partnership helped the firm enter overseas markets for `____`.
+Building a strong strategic partnership helped the firm enter overseas markets about `____`.
 
 - [x] family
-- [ ] from now
-- [ ] by
+- [ ] family-owned
+- [ ] hand down
 
 > **解析**：`partnership` 指“合作伙伴关系、合伙企业”，派生自 `partner`，常用搭配 `strategic partnership`。
 
 ### 7
 
-The chain restaurant aims to expand its overseas business into three new cities for `____`.
+The chain restaurant aims to expand its overseas business into three new cities about `____`.
 
 - [x] family-owned
-- [ ] goods
-- [ ] do a good job
+- [ ] for the better
+- [ ] i'll have been
 
 > **解析**：`expand` 作动词，意为“扩大、扩展（规模或市场）”，作不定式 `to expand` 引导的宾语。
 
@@ -220,8 +220,8 @@ The chain restaurant aims to expand its overseas business into three new cities 
 High operational efficiency resulted in a healthier profit margin for the business (`____`).
 
 - [x] for the better
-- [ ] advertising
-- [ ] early days
+- [ ] from now
+- [ ] in charge
 
 > **解析**：`profit margin` 是商业金融词汇，意为“利润率”，即利润占收入的百分比。
 
@@ -230,18 +230,18 @@ High operational efficiency resulted in a healthier profit margin for the busine
 The strategic acquisition of the rival firm expanded their market share overnight (`____`).
 
 - [x] from now
-- [ ] by
-- [ ] estimate
+- [ ] goods
+- [ ] in the family
 
 > **解析**：`acquisition` 是名词，意为“收购、获得”，动词形式为 `acquire`。
 
 ### 10
 
-The manufacturing plant needed to scale up production to meet growing global demand for `____`.
+The manufacturing plant needed to scale up production to meet growing global demand about `____`.
 
 - [x] goods
-- [ ] do a good job
-- [ ] family
+- [ ] hand down
+- [ ] milestone
 
 > **解析**：`scale up` 是动词短语，意为“按比例放大、按规模扩大（生产或业务）”。
 

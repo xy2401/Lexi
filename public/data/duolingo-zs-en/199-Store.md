@@ -52,27 +52,27 @@ would / wouldn't 在这里用于礼貌请求和假设。still 表示"仍然"。o
 <quiz-sentence-builder>
 
 1. **中文**：我想退掉这件夹克，因为它穿起来不太合身。  
-   **英文**：I would like to return this jacket because it does not fit me properly for bra.
+   **英文**：I would like to return this jacket because it does not fit me properly.
    > **解析**：return 及物/不及物动词，在此意为“退货；归还”。
 
 2. **中文**：我可以把这件毛衣换成更大的尺码吗？  
-   **英文**：Can I exchange this sweater for a larger size? for button.
+   **英文**：Can I exchange this sweater for a larger size.
    > **解析**：exchange 动词，意为“调换；交换”，常用结构 exchange A for B。
 
 3. **中文**：客服代表毫不延迟地更换了受损的盒子。  
-   **英文**：The customer service representative replaced the damaged box without delay for collar.
+   **英文**：The customer service representative replaced the damaged box without delay.
    > **解析**：damaged 形容词，意为“受损的；损坏的”，过去分词作定语。
 
 4. **中文**：如果您对购买的商品不满意，我们保证退款。  
-   **英文**：If you are not satisfied with your purchase, we guarantee your money back for damaged.
+   **英文**：If you are not satisfied with your purchase, we guarantee your money back.
    > **解析**：money back 名词短语，意为“退款；退还资金”，常见于全额退款承诺。
 
 5. **中文**：因为我弄丢了原始收据，店家便给我提供了商店购物额度作为替代。  
-   **英文**：Since I lost the original receipt, the shop offered me store credit instead for diamond.
+   **英文**：Since I lost the original receipt, the shop offered me store credit instead.
    > **解析**：store credit 名词短语，意为“商店代金券/购物额度”。
 
 6. **中文**：店长主动提出立即更换有缺陷的电子产品。  
-   **英文**：The store manager offered to replace the defective electronic item immediately for exchange.
+   **英文**：The store manager offered to replace the defective electronic item immediately.
    > **解析**：replace 及物动词，意为“更换；替代”，即以新物置换旧物。
 
 7. **中文**：如果您打算申请退货，请保留附带的价格标签。  
@@ -84,33 +84,33 @@ would / wouldn't 在这里用于礼貌请求和假设。still 表示"仍然"。o
    > **解析**：stain 可数名词，意为“污渍；污垢”。
 
 9. **中文**：她喜欢这衬衫上的花卉图案，但想要不同的颜色。  
-   **英文**：She loved the floral pattern on the shirt but wanted a different color for off.
+   **英文**：She loved the floral pattern on the shirt but wanted a different color.
    > **解析**：pattern 可数名词，意为“图案；花纹”。
 
 10. **中文**：这件顺滑的真丝女式衬衫需要轻柔手洗。  
-   **英文**：This smooth silk blouse requires gentle hand washing for pattern.
+   **英文**：This smooth silk blouse requires gentle hand washing.
    > **解析**：silk 不可数名词/形容词，意为“丝绸；真丝”。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. I would like to return this jacket because it does not fit me properly for bra.
+1. I would like to return this jacket because it does not fit me properly.
    > **中文**：我想退掉这件夹克，因为它穿起来不太合身。
 
-2. Can I exchange this sweater for a larger size? for button.
+2. Can I exchange this sweater for a larger size.
    > **中文**：我可以把这件毛衣换成更大的尺码吗？
 
-3. The customer service representative replaced the damaged box without delay for collar.
+3. The customer service representative replaced the damaged box without delay.
    > **中文**：客服代表毫不延迟地更换了受损的盒子。
 
-4. If you are not satisfied with your purchase, we guarantee your money back for damaged.
+4. If you are not satisfied with your purchase, we guarantee your money back.
    > **中文**：如果您对购买的商品不满意，我们保证退款。
 
-5. Since I lost the original receipt, the shop offered me store credit instead for diamond.
+5. Since I lost the original receipt, the shop offered me store credit instead.
    > **中文**：因为我弄丢了原始收据，店家便给我提供了商店购物额度作为替代。
 
-6. The store manager offered to replace the defective electronic item immediately for exchange.
+6. The store manager offered to replace the defective electronic item immediately.
    > **中文**：店长主动提出立即更换有缺陷的电子产品。
 
 7. Please keep the price label attached if you plan to request a return.
@@ -119,10 +119,10 @@ would / wouldn't 在这里用于礼貌请求和假设。still 表示"仍然"。o
 8. I noticed a small dark stain on the sleeve after opening the package (money back).
    > **中文**：打开包裹后，我注意到袖子上有一小块暗色污渍。
 
-9. She loved the floral pattern on the shirt but wanted a different color for off.
+9. She loved the floral pattern on the shirt but wanted a different color.
    > **中文**：她喜欢这衬衫上的花卉图案，但想要不同的颜色。
 
-10. This smooth silk blouse requires gentle hand washing for pattern.
+10. This smooth silk blouse requires gentle hand washing.
    > **中文**：这件顺滑的真丝女式衬衫需要轻柔手洗。
 
 </quiz-listening>
@@ -135,61 +135,61 @@ would / wouldn't 在这里用于礼貌请求和假设。still 表示"仍然"。o
 
 ### 1
 
-I would like to return this jacket because it does not fit me properly for `____`.
+I would like to `____` this jacket because it does not fit me properly.
 
-- [x] bra
-- [ ] damaged
-- [ ] label
+- [x] return
+- [ ] bra
+- [ ] diamond
 
 > **解析**：return 及物/不及物动词，在此意为“退货；归还”。
 
 ### 2
 
-Can I exchange this sweater for a larger size? for `____`.
+Can I `____` this sweater for a larger size.
 
-- [x] button
-- [ ] diamond
-- [ ] money back
+- [x] exchange
+- [ ] button
+- [ ] label
 
 > **解析**：exchange 动词，意为“调换；交换”，常用结构 exchange A for B。
 
 ### 3
 
-The customer service representative replaced the damaged box without delay for `____`.
+The customer service representative replaced the `____` box without delay.
 
-- [x] collar
-- [ ] exchange
-- [ ] off
+- [x] damaged
+- [ ] collar
+- [ ] money back
 
 > **解析**：damaged 形容词，意为“受损的；损坏的”，过去分词作定语。
 
 ### 4
 
-If you are not satisfied with your purchase, we guarantee your money back for `____`.
+If you are not satisfied with your purchase, we guarantee your `____`.
 
-- [x] damaged
-- [ ] label
-- [ ] pattern
+- [x] money back
+- [ ] damaged
+- [ ] off
 
 > **解析**：money back 名词短语，意为“退款；退还资金”，常见于全额退款承诺。
 
 ### 5
 
-Since I lost the original receipt, the shop offered me store credit instead for `____`.
+Since I lost the original receipt, the shop `____`ered me store credit instead.
 
-- [x] diamond
-- [ ] money back
-- [ ] bra
+- [x] off
+- [ ] diamond
+- [ ] pattern
 
 > **解析**：store credit 名词短语，意为“商店代金券/购物额度”。
 
 ### 6
 
-The store manager offered to replace the defective electronic item immediately for `____`.
+The store manager offered to `____` the defective electronic item immediately.
 
-- [x] exchange
-- [ ] off
-- [ ] button
+- [x] replace
+- [ ] exchange
+- [ ] pattern
 
 > **解析**：replace 及物动词，意为“更换；替代”，即以新物置换旧物。
 
@@ -198,38 +198,38 @@ The store manager offered to replace the defective electronic item immediately f
 Please keep the price `____` attached if you plan to request a return.
 
 - [x] label
-- [ ] pattern
-- [ ] collar
+- [ ] money back
+- [ ] return
 
 > **解析**：label 可数名词，意为“标签；吊牌”。
 
 ### 8
 
-I noticed a small dark stain on the sleeve after opening the package (`____`).
+I noticed a small dark `____` on the sleeve after opening the package (money back).
 
-- [x] money back
-- [ ] bra
-- [ ] damaged
+- [x] stain
+- [ ] money back
+- [ ] return
 
 > **解析**：stain 可数名词，意为“污渍；污垢”。
 
 ### 9
 
-She loved the floral pattern on the shirt but wanted a different color for `____`.
+She loved the floral `____` on the shirt but wanted a different color.
 
-- [x] off
-- [ ] button
-- [ ] diamond
+- [x] pattern
+- [ ] off
+- [ ] stain
 
 > **解析**：pattern 可数名词，意为“图案；花纹”。
 
 ### 10
 
-This smooth silk blouse requires gentle hand washing for `____`.
+This smooth `____` blouse requires gentle hand washing.
 
-- [x] pattern
-- [ ] collar
-- [ ] exchange
+- [x] silk
+- [ ] pattern
+- [ ] still
 
 > **解析**：silk 不可数名词/形容词，意为“丝绸；真丝”。
 

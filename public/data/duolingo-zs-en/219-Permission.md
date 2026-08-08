@@ -72,15 +72,15 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
    > **解析**：`curfew` 可数名词，意为“宵禁；归宿时间限制”。句中 `ten o'clock curfew` 指晚上十点的最晚归家时间。
 
 3. **中文**：如果是那样的话，我们将不得不调整户外野餐的计划。  
-   **英文**：If that's the case, we will have to adjust our plans for the outdoor picnic for ask.
+   **英文**：If that's the case, we will have to adjust our plans for the outdoor picnic.
    > **解析**：`if that's the case` 为固定假设短语，意为“如果是这样/那样的话”，根据上文提及的情形引出相应的对策。
 
 4. **中文**：当你告诉父母你的旅行计划时，他们作何反应？  
-   **英文**：How did your parents react when you told them about your travel plans? for beg.
+   **英文**：How did your parents react when you told them about your travel plans.
    > **解析**：`react` 不及物动词，意为“反应；做出回应”。常用搭配 `react to sth.`（对……做出反应）。
 
 5. **中文**：你被允许去参加聚会，但你不能在外面逗留到午夜之后。  
-   **英文**：You are allowed to go to the party, but you cannot stay out past midnight for curfew.
+   **英文**：You are allowed to go to the party, but you cannot stay out past midnight.
    > **解析**：`stay out` 为不及物动词短语，意为“（夜晚）在户外逗留；不回家”。
 
 6. **中文**：如果你能帮我提这些重行李，那将太好了。  
@@ -92,7 +92,7 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
    > **解析**：`what about if...` 为口语建议句型，意为“要是……怎么样？”，引导提议从句。
 
 8. **中文**：只要你在日落前归还，你就可以借用我的自行车。  
-   **英文**：You can borrow my bicycle as long as you return it before sunset (if that's the case).
+   **英文**：You can borrow my bicycle as long as you return it before sunset (if that's the case) about beg.
    > **解析**：`as long as` 为条件连词短语，意为“只要”，引导条件状语从句。
 
 9. **中文**：你认为我今天能提早离开去参加家庭预约吗？  
@@ -100,7 +100,7 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
    > **解析**：`do you think I'd be able to...` 为委婉、礼貌地向他人请求许可的句型（意为“你觉得我能不能……？”）。
 
 10. **中文**：我警告过他没有成年人监管不要在河里游泳。  
-   **英文**：I warned him not to swim in the river without adult supervision.
+   **英文**：I warned him not to swim in the river without adult supervision about curfew.
    > **解析**：`not` 为否定副词，在动词不定式前构成否定式 `not to do sth.`（不要做某事）。
 
 </quiz-sentence-builder>
@@ -113,13 +113,13 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
 2. Teenagers in this house must follow the rule and return before the ten o'clock curfew (as long as).
    > **中文**：这栋房子里的青少年必须遵守规则，在十点宵禁前返回。
 
-3. If that's the case, we will have to adjust our plans for the outdoor picnic for ask.
+3. If that's the case, we will have to adjust our plans for the outdoor picnic.
    > **中文**：如果是那样的话，我们将不得不调整户外野餐的计划。
 
-4. How did your parents react when you told them about your travel plans? for beg.
+4. How did your parents react when you told them about your travel plans.
    > **中文**：当你告诉父母你的旅行计划时，他们作何反应？
 
-5. You are allowed to go to the party, but you cannot stay out past midnight for curfew.
+5. You are allowed to go to the party, but you cannot stay out past midnight.
    > **中文**：你被允许去参加聚会，但你不能在外面逗留到午夜之后。
 
 6. If you could help me carry these heavy bags, that would be wonderful (do you think i'd be able to).
@@ -128,13 +128,13 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
 7. What about if we ask the manager for permission before making a reservation? (how about if).
    > **中文**：如果我们在预订前先征求经理的许可怎么样？
 
-8. You can borrow my bicycle as long as you return it before sunset (if that's the case).
+8. You can borrow my bicycle as long as you return it before sunset (if that's the case) about beg.
    > **中文**：只要你在日落前归还，你就可以借用我的自行车。
 
 9. Do you think I'd be able to leave early today to attend a family appointment? (make sure).
    > **中文**：你认为我今天能提早离开去参加家庭预约吗？
 
-10. I warned him not to swim in the river without adult supervision.
+10. I warned him not to swim in the river without adult supervision about curfew.
    > **中文**：我警告过他没有成年人监管不要在河里游泳。
 
 </quiz-listening>
@@ -150,8 +150,8 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
 `____`! You cannot drive the car without a valid driver's license.
 
 - [x] absolutely not
-- [ ] beg
-- [ ] how about if
+- [ ] as long as
+- [ ] do you think i'd be able to
 
 > **解析**：`absolutely not` 为强烈的拒绝副词短语，意为“绝对不行；决不可以”，在日常口语中用于坚决拒绝对方的许可请求。
 
@@ -160,38 +160,38 @@ absolutely not, as long as, ask, beg, curfew, do you think i'd be able to, how a
 Teenagers in this house must follow the rule and return before the ten o'clock curfew (`____`).
 
 - [x] as long as
-- [ ] curfew
-- [ ] if that's the case
+- [ ] ask
+- [ ] how about if
 
 > **解析**：`curfew` 可数名词，意为“宵禁；归宿时间限制”。句中 `ten o'clock curfew` 指晚上十点的最晚归家时间。
 
 ### 3
 
-If that's the case, we will have to adjust our plans for the outdoor picnic for `____`.
+`____`, we will have to adjust our plans for the outdoor picnic.
 
-- [x] ask
-- [ ] do you think i'd be able to
-- [ ] make sure
+- [x] if that's the case
+- [ ] ask
+- [ ] how about if
 
 > **解析**：`if that's the case` 为固定假设短语，意为“如果是这样/那样的话”，根据上文提及的情形引出相应的对策。
 
 ### 4
 
-How did your parents react when you told them about your travel plans? for `____`.
+How did your parents `____` when you told them about your travel plans.
 
-- [x] beg
-- [ ] how about if
-- [ ] not
+- [x] react
+- [ ] beg
+- [ ] if that's the case
 
 > **解析**：`react` 不及物动词，意为“反应；做出回应”。常用搭配 `react to sth.`（对……做出反应）。
 
 ### 5
 
-You are allowed to go to the party, but you cannot stay out past midnight for `____`.
+You are allowed to go to the party, but you can`____` stay out past midnight.
 
-- [x] curfew
-- [ ] if that's the case
-- [ ] absolutely not
+- [x] not
+- [ ] curfew
+- [ ] make sure
 
 > **解析**：`stay out` 为不及物动词短语，意为“（夜晚）在户外逗留；不回家”。
 
@@ -200,28 +200,28 @@ You are allowed to go to the party, but you cannot stay out past midnight for `_
 If you could help me carry these heavy bags, that would be wonderful (`____`).
 
 - [x] do you think i'd be able to
-- [ ] make sure
-- [ ] as long as
+- [ ] how about if
+- [ ] past
 
 > **解析**：`that would be` 为虚拟语气表达，在假设情景下礼貌地对未来的帮助表示赞赏或设想。
 
 ### 7
 
-What about if we ask the manager for permission before making a reservation? (`____`).
+What about if we `____` the manager for permission before making a reservation? (how about if).
 
-- [x] how about if
-- [ ] not
-- [ ] ask
+- [x] ask
+- [ ] if that's the case
+- [ ] react
 
 > **解析**：`what about if...` 为口语建议句型，意为“要是……怎么样？”，引导提议从句。
 
 ### 8
 
-You can borrow my bicycle as long as you return it before sunset (`____`).
+You can borrow my bicycle as long as you return it before sunset (if that's the case) about `____`.
 
-- [x] if that's the case
-- [ ] absolutely not
-- [ ] beg
+- [x] beg
+- [ ] make sure
+- [ ] school night
 
 > **解析**：`as long as` 为条件连词短语，意为“只要”，引导条件状语从句。
 
@@ -230,18 +230,18 @@ You can borrow my bicycle as long as you return it before sunset (`____`).
 Do you think I'd be able to leave early today to attend a family appointment? (`____`).
 
 - [x] make sure
-- [ ] as long as
-- [ ] curfew
+- [ ] not
+- [ ] sleepover
 
 > **解析**：`do you think I'd be able to...` 为委婉、礼貌地向他人请求许可的句型（意为“你觉得我能不能……？”）。
 
 ### 10
 
-I warned him `____` to swim in the river without adult supervision.
+I warned him not to swim in the river without adult supervision about `____`.
 
-- [x] not
-- [ ] ask
-- [ ] do you think i'd be able to
+- [x] curfew
+- [ ] past
+- [ ] stay out
 
 > **解析**：`not` 为否定副词，在动词不定式前构成否定式 `not to do sth.`（不要做某事）。
 

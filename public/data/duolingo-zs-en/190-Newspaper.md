@@ -52,7 +52,7 @@ against, involve, most of, recent, happen 提供叙事框架：The protest was a
 <quiz-sentence-builder>
 
 1. **中文**：昨天的强降雨在低洼的河谷引发了严重的水灾。  
-   **英文**：Heavy rains caused a severe flood in the low-lying river valley yesterday for against.
+   **英文**：Heavy rains caused a severe flood in the low-lying river valley yesterday.
    > **解析**：flood 可数/不可数名词，意为“水灾；洪水”；也可作动词表示“淹没”。
 
 2. **中文**：晨间新闻报道了一起涉及三辆汽车的高速公路交通事故。  
@@ -60,7 +60,7 @@ against, involve, most of, recent, happen 提供叙事框架：The protest was a
    > **解析**：crash 可数名词，在此意为“（车辆等）碰撞；坠毁事故”。
 
 3. **中文**：消防员在天然气管道可能发生爆炸前赶到了现场。  
-   **英文**：Firefighters rushed to the gas pipeline before it could explode for damage.
+   **英文**：Firefighters rushed to the gas pipeline before it could explode.
    > **解析**：explode 不及物/及物动词，意为“爆炸；爆裂”，名词形式为 explosion。
 
 4. **中文**：报告显示全市犯罪率显著下降。  
@@ -68,15 +68,15 @@ against, involve, most of, recent, happen 提供叙事框架：The protest was a
    > **解析**：decrease 可数/不可数名词，意为“减少；下降”，作动词时读作 /dɪˈkriːs/。
 
 5. **中文**：当地报纸报道了今年住房价值的迅速增长。  
-   **英文**：Local newspapers reported a rapid increase in home values this year for explode.
+   **英文**：Local newspapers reported a rapid increase in home values this year.
    > **解析**：increase 可数/不可数名词，意为“增加；增长”，与 decrease 互为反义词。
 
 6. **中文**：气象站针对沿海地区发布了强风暴预警。  
-   **英文**：The weather station issued a severe storm warning for coastal areas for flood.
+   **英文**：The weather station issued a severe storm warning for coastal areas.
    > **解析**：warning 可数/不可数名词，意为“警告；预警”，由动词 warn 衍生而来。
 
 7. **中文**：政府推出了新的培训计划以应对高失业率。  
-   **英文**：The government launched new training programs to combat high unemployment for happen.
+   **英文**：The government launched new training programs to combat high unemployment.
    > **解析**：unemployment 不可数名词，意为“失业；失业率”，前缀 un- 表示否定。
 
 8. **中文**：数百名市民聚集在市政厅外举行和平抗议。  
@@ -95,25 +95,25 @@ against, involve, most of, recent, happen 提供叙事框架：The protest was a
 
 <quiz-listening>
 
-1. Heavy rains caused a severe flood in the low-lying river valley yesterday for against.
+1. Heavy rains caused a severe flood in the low-lying river valley yesterday.
    > **中文**：昨天的强降雨在低洼的河谷引发了严重的水灾。
 
 2. The morning news reported a highway traffic crash involving three vehicles.
    > **中文**：晨间新闻报道了一起涉及三辆汽车的高速公路交通事故。
 
-3. Firefighters rushed to the gas pipeline before it could explode for damage.
+3. Firefighters rushed to the gas pipeline before it could explode.
    > **中文**：消防员在天然气管道可能发生爆炸前赶到了现场。
 
 4. The report showed a significant decrease in crime rates across the city.
    > **中文**：报告显示全市犯罪率显著下降。
 
-5. Local newspapers reported a rapid increase in home values this year for explode.
+5. Local newspapers reported a rapid increase in home values this year.
    > **中文**：当地报纸报道了今年住房价值的迅速增长。
 
-6. The weather station issued a severe storm warning for coastal areas for flood.
+6. The weather station issued a severe storm warning for coastal areas.
    > **中文**：气象站针对沿海地区发布了强风暴预警。
 
-7. The government launched new training programs to combat high unemployment for happen.
+7. The government launched new training programs to combat high unemployment.
    > **中文**：政府推出了新的培训计划以应对高失业率。
 
 8. Hundreds of citizens gathered outside city hall to hold a peaceful protest (has there been).
@@ -135,11 +135,11 @@ against, involve, most of, recent, happen 提供叙事框架：The protest was a
 
 ### 1
 
-Heavy rains caused a severe flood in the low-lying river valley yesterday for `____`.
+Heavy rains caused a severe `____` in the low-lying river valley yesterday.
 
-- [x] against
-- [ ] decrease
-- [ ] happen
+- [x] flood
+- [ ] against
+- [ ] explode
 
 > **解析**：flood 可数/不可数名词，意为“水灾；洪水”；也可作动词表示“淹没”。
 
@@ -148,18 +148,18 @@ Heavy rains caused a severe flood in the low-lying river valley yesterday for `_
 The morning news reported a highway traffic `____` involving three vehicles.
 
 - [x] crash
-- [ ] explode
-- [ ] has there been
+- [ ] damage
+- [ ] happen
 
 > **解析**：crash 可数名词，在此意为“（车辆等）碰撞；坠毁事故”。
 
 ### 3
 
-Firefighters rushed to the gas pipeline before it could explode for `____`.
+Firefighters rushed to the gas pipeline before it could `____`.
 
-- [x] damage
-- [ ] flood
-- [ ] have there been
+- [x] explode
+- [ ] damage
+- [ ] has there been
 
 > **解析**：explode 不及物/及物动词，意为“爆炸；爆裂”，名词形式为 explosion。
 
@@ -168,38 +168,38 @@ Firefighters rushed to the gas pipeline before it could explode for `____`.
 The report showed a significant `____` in crime rates across the city.
 
 - [x] decrease
-- [ ] happen
-- [ ] improvement
+- [ ] explode
+- [ ] have there been
 
 > **解析**：decrease 可数/不可数名词，意为“减少；下降”，作动词时读作 /dɪˈkriːs/。
 
 ### 5
 
-Local newspapers reported a rapid increase in home values this year for `____`.
+Local newspapers reported a rapid `____` in home values this year.
 
-- [x] explode
-- [ ] has there been
-- [ ] against
+- [x] increase
+- [ ] explode
+- [ ] have there been
 
 > **解析**：increase 可数/不可数名词，意为“增加；增长”，与 decrease 互为反义词。
 
 ### 6
 
-The weather station issued a severe storm warning for coastal areas for `____`.
+The weather station issued a severe storm `____` for coastal areas.
 
-- [x] flood
-- [ ] have there been
-- [ ] crash
+- [x] warning
+- [ ] flood
+- [ ] improvement
 
 > **解析**：warning 可数/不可数名词，意为“警告；预警”，由动词 warn 衍生而来。
 
 ### 7
 
-The government launched new training programs to combat high unemployment for `____`.
+The government launched new training programs to combat high `____`.
 
-- [x] happen
-- [ ] improvement
-- [ ] damage
+- [x] unemployment
+- [ ] happen
+- [ ] increase
 
 > **解析**：unemployment 不可数名词，意为“失业；失业率”，前缀 un- 表示否定。
 
@@ -208,8 +208,8 @@ The government launched new training programs to combat high unemployment for `_
 Hundreds of citizens gathered outside city hall to hold a peaceful protest (`____`).
 
 - [x] has there been
-- [ ] against
-- [ ] decrease
+- [ ] have there been
+- [ ] most of
 
 > **解析**：protest 可数名词，意为“抗议；示威”；作动词时意为“对……提出抗议”。
 
@@ -218,8 +218,8 @@ Hundreds of citizens gathered outside city hall to hold a peaceful protest (`___
 Detectives are investigating a mysterious murder case reported last night (`____`).
 
 - [x] have there been
-- [ ] crash
-- [ ] explode
+- [ ] improvement
+- [ ] murder
 
 > **解析**：murder 名词/动词，在此作名词意为“谋杀；谋杀案”。
 
@@ -228,8 +228,8 @@ Detectives are investigating a mysterious murder case reported last night (`____
 The town has seen a dramatic `____` in public transportation safety.
 
 - [x] improvement
-- [ ] damage
-- [ ] flood
+- [ ] increase
+- [ ] protest
 
 > **解析**：improvement 可数/不可数名词，意为“改进；改善”，来自动词 improve。
 

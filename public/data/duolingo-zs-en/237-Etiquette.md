@@ -70,7 +70,7 @@ after being, after having, arrangement, as for, bouquet, depending on, do withou
    > **解析**：`bouquet` 可数名词，在此读作 /buːˈkeɪ/，意为“花束”。`bouquet of flowers`（花束）。
 
 3. **中文**：请柬上明确说明男士应穿西装打领带等正式服装。  
-   **英文**：The invitation specifies that gentlemen should wear formal attire such as a suit and tie for arrangement.
+   **英文**：The invitation specifies that gentlemen should wear formal attire such as a suit and tie.
    > **解析**：`formal` 形容词，意为“正式的；合乎礼仪的”。修饰名词 `attire / dress`。
 
 4. **中文**：派对为同事们在工作之余互相交流/互动提供了一个绝佳的机会。  
@@ -78,7 +78,7 @@ after being, after having, arrangement, as for, bouquet, depending on, do withou
    > **解析**：`interact` 不及物动词，意为“交流；互动”。搭配 `interact with sb.`。
 
 5. **中文**：每个晚餐座位上都摆放了一张个性化的席位卡，以引导客人就座。  
-   **英文**：A personalized place card was set at each dinner seat to guide guests for bouquet.
+   **英文**：A personalized place card was set at each dinner seat to guide guests.
    > **解析**：`place` 在此处用作名词修饰语，短语 `place card`（席位卡/名卡）。
 
 6. **中文**：在摆放餐具前，她在餐桌上铺了一块平整洁白的桌布。  
@@ -94,7 +94,7 @@ after being, after having, arrangement, as for, bouquet, depending on, do withou
    > **解析**：`after having + 过去分词` 为“介词 + 动名词完成时”结构，强调动作发生在主句之前。
 
 9. **中文**：着装要求可能会有所不同，这取决于活动是在室内还是室外举办。  
-   **英文**：Dress code expectations may vary depending on whether the event is held indoors or outdoors for host.
+   **英文**：Dress code expectations may vary depending on whether the event is held indoors or outdoors about arrangement.
    > **解析**：`depending on` 介词短语，意为“取决于；根据”，在句中作状语。
 
 10. **中文**：主人举办了一场盛大的晚宴，以向来访的大使表示敬意/为来访的大使祝贺。  
@@ -111,13 +111,13 @@ after being, after having, arrangement, as for, bouquet, depending on, do withou
 2. The guest brought a gorgeous bouquet of fresh roses as a gift for the host (after having).
    > **中文**：客人带来了一束绚丽的新鲜玫瑰花束作为送给主人的礼物。
 
-3. The invitation specifies that gentlemen should wear formal attire such as a suit and tie for arrangement.
+3. The invitation specifies that gentlemen should wear formal attire such as a suit and tie.
    > **中文**：请柬上明确说明男士应穿西装打领带等正式服装。
 
 4. The party provided a wonderful opportunity for colleagues to interact outside of work (as for).
    > **中文**：派对为同事们在工作之余互相交流/互动提供了一个绝佳的机会。
 
-5. A personalized place card was set at each dinner seat to guide guests for bouquet.
+5. A personalized place card was set at each dinner seat to guide guests.
    > **中文**：每个晚餐座位上都摆放了一张个性化的席位卡，以引导客人就座。
 
 6. She spread a crisp white tablecloth over the dining table before setting the dishes (depending on).
@@ -129,7 +129,7 @@ after being, after having, arrangement, as for, bouquet, depending on, do withou
 8. After having received the formal invitation, we immediately sent our RSVP.
    > **中文**：在收到正式请柬后，我们立即发出了回复。
 
-9. Dress code expectations may vary depending on whether the event is held indoors or outdoors for host.
+9. Dress code expectations may vary depending on whether the event is held indoors or outdoors about arrangement.
    > **中文**：着装要求可能会有所不同，这取决于活动是在室内还是室外举办。
 
 10. The host organized a grand dinner party in honor of the visiting ambassador.
@@ -148,8 +148,8 @@ after being, after having, arrangement, as for, bouquet, depending on, do withou
 `____` invited to the charity gala, she promptly confirmed her attendance.
 
 - [x] after being
-- [ ] as for
-- [ ] do without
+- [ ] after having
+- [ ] depending on
 
 > **解析**：`after being + 过去分词` 为“介词 + 动名词被动语态”结构，表示主语在“被……之后”。
 
@@ -158,18 +158,18 @@ after being, after having, arrangement, as for, bouquet, depending on, do withou
 The guest brought a gorgeous bouquet of fresh roses as a gift for the host (`____`).
 
 - [x] after having
-- [ ] bouquet
-- [ ] formal
+- [ ] arrangement
+- [ ] do without
 
 > **解析**：`bouquet` 可数名词，在此读作 /buːˈkeɪ/，意为“花束”。`bouquet of flowers`（花束）。
 
 ### 3
 
-The invitation specifies that gentlemen should wear formal attire such as a suit and tie for `____`.
+The invitation specifies that gentlemen should wear `____` attire such as a suit and tie.
 
-- [x] arrangement
-- [ ] depending on
-- [ ] host
+- [x] formal
+- [ ] arrangement
+- [ ] do without
 
 > **解析**：`formal` 形容词，意为“正式的；合乎礼仪的”。修饰名词 `attire / dress`。
 
@@ -178,18 +178,18 @@ The invitation specifies that gentlemen should wear formal attire such as a suit
 The party provided a wonderful opportunity for colleagues to interact outside of work (`____`).
 
 - [x] as for
-- [ ] do without
-- [ ] in honor of
+- [ ] bouquet
+- [ ] host
 
 > **解析**：`interact` 不及物动词，意为“交流；互动”。搭配 `interact with sb.`。
 
 ### 5
 
-A personalized place card was set at each dinner seat to guide guests for `____`.
+A personalized `____` card was set at each dinner seat to guide guests.
 
-- [x] bouquet
-- [ ] formal
-- [ ] after being
+- [x] place
+- [ ] bouquet
+- [ ] host
 
 > **解析**：`place` 在此处用作名词修饰语，短语 `place card`（席位卡/名卡）。
 
@@ -198,8 +198,8 @@ A personalized place card was set at each dinner seat to guide guests for `____`
 She spread a crisp white tablecloth over the dining table before setting the dishes (`____`).
 
 - [x] depending on
-- [ ] host
-- [ ] after having
+- [ ] do without
+- [ ] inquire
 
 > **解析**：`tablecloth` 可数/不可数名词，意为“桌布；台布”。
 
@@ -208,38 +208,38 @@ She spread a crisp white tablecloth over the dining table before setting the dis
 It is up to you whether to bring a guest to the evening wedding reception (`____`).
 
 - [x] do without
-- [ ] in honor of
-- [ ] arrangement
+- [ ] formal
+- [ ] interact
 
 > **解析**：`be up to sb.` 为固定短语，意为“取决于某人；由某人决定”。
 
 ### 8
 
-After having received the `____` invitation, we immediately sent our RSVP.
+After having received the formal invitation, we immediately sent our `____`.
 
-- [x] formal
-- [ ] after being
-- [ ] as for
+- [x] rsvp
+- [ ] formal
+- [ ] interact
 
 > **解析**：`after having + 过去分词` 为“介词 + 动名词完成时”结构，强调动作发生在主句之前。
 
 ### 9
 
-Dress code expectations may vary depending on whether the event is held indoors or outdoors for `____`.
+Dress code expectations may vary depending on whether the event is held indoors or outdoors about `____`.
 
-- [x] host
-- [ ] after having
-- [ ] bouquet
+- [x] arrangement
+- [ ] in honor of
+- [ ] photograph
 
 > **解析**：`depending on` 介词短语，意为“取决于；根据”，在句中作状语。
 
 ### 10
 
-The host organized a grand dinner party `____` the visiting ambassador.
+The `____` organized a grand dinner party in honor of the visiting ambassador.
 
-- [x] in honor of
-- [ ] arrangement
-- [ ] depending on
+- [x] host
+- [ ] inquire
+- [ ] place
 
 > **解析**：`in honor of` 介词短语，意为“为了向……表示敬意；为纪念/祝贺……”。
 

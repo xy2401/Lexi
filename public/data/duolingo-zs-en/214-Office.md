@@ -60,15 +60,15 @@ person who / thing that / reason why / the one 是定语从句和名词短语的
    > **解析**：`contract` 可数名词，在此处读作 /ˈkɑːntrækt/，意为“合同；契约”。搭配 `sign a contract`（签合同）。
 
 3. **中文**：我喜欢与团队合作；我的意思是，合作总能激发最好的创意。  
-   **英文**：I love working with teams; I mean, collaboration always brings out the best ideas for basically.
+   **英文**：I love working with teams; I mean, collaboration always brings out the best ideas.
    > **解析**：`i mean` 为插入语/口语话语标记，用于进一步阐释、补充说明或澄清刚才所说的意思（意为“我的意思是”）。
 
 4. **中文**：你能在在这个新项目上管理一个由五名软件工程师组成的团队吗？  
-   **英文**：Can you manage a team of five software engineers on this new project? for challenging.
+   **英文**：Can you manage a team of five software engineers on this new project.
    > **解析**：`manage` 及物动词，意为“管理；领导；应对”。作动词时后接名词宾语 `a team`，表达管理职责。
 
 5. **中文**：由于日程冲突，我们需要将面试推迟到周五。  
-   **英文**：Due to a scheduling conflict, we need to postpone the interview until Friday for contract.
+   **英文**：Due to a scheduling conflict, we need to postpone the interview until Friday.
    > **解析**：`postpone` 及物动词，意为“推迟；延期”。常与介词 `until` 或 `to` 搭配（如 `postpone sth. until...`），同义短语为 `put off`。
 
 6. **中文**：招聘经理说他们正在寻找具有某种管理背景的人。  
@@ -76,7 +76,7 @@ person who / thing that / reason why / the one 是定语从句和名词短语的
    > **解析**：`some type of` 为数量/限定短语，意为“某种类型的；某种”。后接单数或不可数名词（如 `management background`）。
 
 7. **中文**：我们收到客户的紧急信息，需要立即回复。  
-   **英文**：We received an urgent message from the client requiring an immediate response for financial.
+   **英文**：We received an urgent message from the client requiring an immediate response.
    > **解析**：`urgent` 形容词，意为“紧急的；急迫的”。常修饰 `message`, `matter`, `task` 等，在句中做前置定语。
 
 8. **中文**：她精通英语和德语，这对我们的团队来说是一笔巨大的财富。  
@@ -101,19 +101,19 @@ person who / thing that / reason why / the one 是定语从句和名词短语的
 2. Before signing the employment contract, make sure to review all the clauses carefully (as well as).
    > **中文**：在签署雇佣合同之前，请务必仔细审查所有条款。
 
-3. I love working with teams; I mean, collaboration always brings out the best ideas for basically.
+3. I love working with teams; I mean, collaboration always brings out the best ideas.
    > **中文**：我喜欢与团队合作；我的意思是，合作总能激发最好的创意。
 
-4. Can you manage a team of five software engineers on this new project? for challenging.
+4. Can you manage a team of five software engineers on this new project.
    > **中文**：你能在在这个新项目上管理一个由五名软件工程师组成的团队吗？
 
-5. Due to a scheduling conflict, we need to postpone the interview until Friday for contract.
+5. Due to a scheduling conflict, we need to postpone the interview until Friday.
    > **中文**：由于日程冲突，我们需要将面试推迟到周五。
 
 6. The hiring manager said they are looking for someone with some type of management background (did you say).
    > **中文**：招聘经理说他们正在寻找具有某种管理背景的人。
 
-7. We received an urgent message from the client requiring an immediate response for financial.
+7. We received an urgent message from the client requiring an immediate response.
    > **中文**：我们收到客户的紧急信息，需要立即回复。
 
 8. She is fluent in English as well as German, which is a great asset for our team (i hope i).
@@ -138,8 +138,8 @@ person who / thing that / reason why / the one 是定语从句和名词短语的
 I `____` have three years of relevant experience in digital marketing.
 
 - [x] actually
-- [ ] challenging
-- [ ] financial
+- [ ] as well as
+- [ ] did you say
 
 > **解析**：`actually` 副词，意为“实际上；事实上”。在面试或商务沟通中常用于修正、补充或强调真实的状况。
 
@@ -148,38 +148,38 @@ I `____` have three years of relevant experience in digital marketing.
 Before signing the employment contract, make sure to review all the clauses carefully (`____`).
 
 - [x] as well as
-- [ ] contract
-- [ ] i hope i
+- [ ] basically
+- [ ] financial
 
 > **解析**：`contract` 可数名词，在此处读作 /ˈkɑːntrækt/，意为“合同；契约”。搭配 `sign a contract`（签合同）。
 
 ### 3
 
-I love working with teams; I mean, collaboration always brings out the best ideas for `____`.
+I love working with teams; `____`, collaboration always brings out the best ideas.
 
-- [x] basically
-- [ ] did you say
-- [ ] i mean
+- [x] i mean
+- [ ] basically
+- [ ] financial
 
 > **解析**：`i mean` 为插入语/口语话语标记，用于进一步阐释、补充说明或澄清刚才所说的意思（意为“我的意思是”）。
 
 ### 4
 
-Can you manage a team of five software engineers on this new project? for `____`.
+Can you `____` a team of five software engineers on this new project.
 
-- [x] challenging
-- [ ] financial
-- [ ] just a minute
+- [x] manage
+- [ ] challenging
+- [ ] i hope i
 
 > **解析**：`manage` 及物动词，意为“管理；领导；应对”。作动词时后接名词宾语 `a team`，表达管理职责。
 
 ### 5
 
-Due to a scheduling conflict, we need to postpone the interview until Friday for `____`.
+Due to a scheduling conflict, we need to `____` the interview until Friday.
 
-- [x] contract
-- [ ] i hope i
-- [ ] actually
+- [x] postpone
+- [ ] contract
+- [ ] i mean
 
 > **解析**：`postpone` 及物动词，意为“推迟；延期”。常与介词 `until` 或 `to` 搭配（如 `postpone sth. until...`），同义短语为 `put off`。
 
@@ -188,18 +188,18 @@ Due to a scheduling conflict, we need to postpone the interview until Friday for
 The hiring manager said they are looking for someone with some type of management background (`____`).
 
 - [x] did you say
-- [ ] i mean
-- [ ] as well as
+- [ ] financial
+- [ ] let me see
 
 > **解析**：`some type of` 为数量/限定短语，意为“某种类型的；某种”。后接单数或不可数名词（如 `management background`）。
 
 ### 7
 
-We received an urgent message from the client requiring an immediate response for `____`.
+We received an `____` message from the client requiring an immediate response.
 
-- [x] financial
-- [ ] just a minute
-- [ ] basically
+- [x] urgent
+- [ ] financial
+- [ ] let me see
 
 > **解析**：`urgent` 形容词，意为“紧急的；急迫的”。常修饰 `message`, `matter`, `task` 等，在句中做前置定语。
 
@@ -208,18 +208,18 @@ We received an urgent message from the client requiring an immediate response fo
 She is fluent in English as well as German, which is a great asset for our team (`____`).
 
 - [x] i hope i
-- [ ] actually
-- [ ] challenging
+- [ ] i mean
+- [ ] manage
 
 > **解析**：`as well as` 为并列连词短语，意为“以及；还有”。连接两个并列的语言能力名词 `English` 与 `German`。
 
 ### 9
 
-Did you say that the meeting was rescheduled for two o'clock this afternoon? (`____`).
+Did you say that the meeting was rescheduled for two o'clock this afternoon? (i `____`).
 
-- [x] i mean
-- [ ] as well as
-- [ ] contract
+- [x] mean
+- [ ] i mean
+- [ ] manage
 
 > **解析**：`did you say` 为问句固定结构，用于向说话人重新确认听到的信息，后接宾语从句。
 
@@ -228,8 +228,8 @@ Did you say that the meeting was rescheduled for two o'clock this afternoon? (`_
 `____`, let me double check the figures in the quarterly report.
 
 - [x] just a minute
-- [ ] basically
-- [ ] did you say
+- [ ] let me see
+- [ ] mostly
 
 > **解析**：`just a minute` 为常用口语短语，意为“稍等片刻；等一下”。在办公对话中用于打断或暂停当前话题以查阅资料。
 

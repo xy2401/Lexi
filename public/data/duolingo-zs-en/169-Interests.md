@@ -60,15 +60,15 @@ architecture, been, collection, cycling, ever since, go for a run, has been, hav
    > **解析**：architecture 为不可数名词，意为“建筑、建筑学/建筑风格”。
 
 2. **中文**：室内骑行已成为我今年冬天最喜欢的有氧健身运动之一。  
-   **英文**：Indoor cycling has become one of my favorite cardio workouts this winter for been.
+   **英文**：Indoor cycling has become one of my favorite cardio workouts this winter.
    > **解析**：cycling 为动名词/名词，意为“骑自行车运动”。indoor cycling 即室内骑行。
 
 3. **中文**：我为了这场马拉松比赛已经训练了六多月。  
-   **英文**：I have been training for the marathon for more than six months for collection.
+   **英文**：I have been training for the marathon for more than six months.
    > **解析**：have been training 为现在完成进行时（have been + V-ing），强调从过去持续至今的健身锻炼动作。
 
 4. **中文**：我通常每天早上绕着社区跑道慢跑三十分钟。  
-   **英文**：I usually jog for thirty minutes around the neighborhood track every morning for cycling.
+   **英文**：I usually jog for thirty minutes around the neighborhood track every morning.
    > **解析**：jog 为不及物动词，意为“慢跑”。jog for 30 minutes 表达慢跑时长。
 
 5. **中文**：自从换了工作，他去健身房的频率比以前低了。  
@@ -88,7 +88,7 @@ architecture, been, collection, cycling, ever since, go for a run, has been, hav
    > **解析**：been 是 be 的过去分词。Have you been to... 意为“你曾去过某地吗”。
 
 9. **中文**：天气晴朗时，我喜欢去河滨公园跑步。  
-   **英文**：When the weather is clear, I like to go for a run in the riverside park for honestly.
+   **英文**：When the weather is clear, I like to go for a run in the riverside park about collection.
    > **解析**：go for a run 为固定动词短语，意为“去跑步”，相当于 go running。
 
 10. **中文**：说实话，我觉得要坚持晨练作息相当有挑战性。  
@@ -102,13 +102,13 @@ architecture, been, collection, cycling, ever since, go for a run, has been, hav
 1. Besides exercising, she has a keen interest in studying traditional European architecture.
    > **中文**：除了锻炼之外，她对研究传统欧洲建筑有着浓厚的兴趣。
 
-2. Indoor cycling has become one of my favorite cardio workouts this winter for been.
+2. Indoor cycling has become one of my favorite cardio workouts this winter.
    > **中文**：室内骑行已成为我今年冬天最喜欢的有氧健身运动之一。
 
-3. I have been training for the marathon for more than six months for collection.
+3. I have been training for the marathon for more than six months.
    > **中文**：我为了这场马拉松比赛已经训练了六多月。
 
-4. I usually jog for thirty minutes around the neighborhood track every morning for cycling.
+4. I usually jog for thirty minutes around the neighborhood track every morning.
    > **中文**：我通常每天早上绕着社区跑道慢跑三十分钟。
 
 5. Since changing jobs, he goes to the fitness gym less often than before (ever since).
@@ -123,7 +123,7 @@ architecture, been, collection, cycling, ever since, go for a run, has been, hav
 8. Have you ever been to the new sports complex near the park? (have been).
    > **中文**：你去过公园附近那个新的体育综合馆吗？
 
-9. When the weather is clear, I like to go for a run in the riverside park for honestly.
+9. When the weather is clear, I like to go for a run in the riverside park about collection.
    > **中文**：天气晴朗时，我喜欢去河滨公园跑步。
 
 10. Honestly, I find it quite challenging to stick to a morning workout routine (how long).
@@ -142,38 +142,38 @@ architecture, been, collection, cycling, ever since, go for a run, has been, hav
 Besides exercising, she has a keen interest in studying traditional European `____`.
 
 - [x] architecture
-- [ ] cycling
-- [ ] has been
+- [ ] been
+- [ ] go for a run
 
 > **解析**：architecture 为不可数名词，意为“建筑、建筑学/建筑风格”。
 
 ### 2
 
-Indoor cycling has become one of my favorite cardio workouts this winter for `____`.
+Indoor `____` has become one of my favorite cardio workouts this winter.
 
-- [x] been
-- [ ] ever since
-- [ ] have been
+- [x] cycling
+- [ ] been
+- [ ] has been
 
 > **解析**：cycling 为动名词/名词，意为“骑自行车运动”。indoor cycling 即室内骑行。
 
 ### 3
 
-I have been training for the marathon for more than six months for `____`.
+I have `____` training for the marathon for more than six months.
 
-- [x] collection
-- [ ] go for a run
-- [ ] honestly
+- [x] been
+- [ ] cycling
+- [ ] have been
 
 > **解析**：have been training 为现在完成进行时（have been + V-ing），强调从过去持续至今的健身锻炼动作。
 
 ### 4
 
-I usually jog for thirty minutes around the neighborhood track every morning for `____`.
+I usually `____` for thirty minutes around the neighborhood track every morning.
 
-- [x] cycling
-- [ ] has been
-- [ ] how long
+- [x] jog
+- [ ] cycling
+- [ ] have been
 
 > **解析**：jog 为不及物动词，意为“慢跑”。jog for 30 minutes 表达慢跑时长。
 
@@ -182,8 +182,8 @@ I usually jog for thirty minutes around the neighborhood track every morning for
 Since changing jobs, he goes to the fitness gym less often than before (`____`).
 
 - [x] ever since
-- [ ] have been
-- [ ] architecture
+- [ ] go for a run
+- [ ] how long
 
 > **解析**：less often 为频率比较级短语，意为“较少地、不那么频繁”。
 
@@ -192,8 +192,8 @@ Since changing jobs, he goes to the fitness gym less often than before (`____`).
 Exercising regularly is essential for maintaining physical and mental health (`____`).
 
 - [x] go for a run
-- [ ] honestly
-- [ ] been
+- [ ] has been
+- [ ] jog
 
 > **解析**：regularly 为副词，意为“定期地、规律地”，在此处修饰动名词短语 Exercising。
 
@@ -202,8 +202,8 @@ Exercising regularly is essential for maintaining physical and mental health (`_
 I cannot stay in the sauna for very long because of the intense heat (`____`).
 
 - [x] has been
-- [ ] how long
-- [ ] collection
+- [ ] have been
+- [ ] league
 
 > **解析**：very long 为时间副词短语，意为“很长时间”，在否定句中修饰时间持续。
 
@@ -212,28 +212,28 @@ I cannot stay in the sauna for very long because of the intense heat (`____`).
 Have you ever been to the new sports complex near the park? (`____`).
 
 - [x] have been
-- [ ] architecture
-- [ ] cycling
+- [ ] honestly
+- [ ] leisure
 
 > **解析**：been 是 be 的过去分词。Have you been to... 意为“你曾去过某地吗”。
 
 ### 9
 
-When the weather is clear, I like to go for a run in the riverside park for `____`.
+When the weather is clear, I like to go for a run in the riverside park about `____`.
 
-- [x] honestly
-- [ ] been
-- [ ] ever since
+- [x] collection
+- [ ] how long
+- [ ] less often
 
 > **解析**：go for a run 为固定动词短语，意为“去跑步”，相当于 go running。
 
 ### 10
 
-Honestly, I find it quite challenging to stick to a morning workout routine (`____`).
+`____`, I find it quite challenging to stick to a morning workout routine (how long).
 
-- [x] how long
-- [ ] collection
-- [ ] go for a run
+- [x] honestly
+- [ ] jog
+- [ ] more often
 
 > **解析**：honestly 为句首评注性副词，意为“坦白说、说实话”，引出对运动习惯的真实感想。
 

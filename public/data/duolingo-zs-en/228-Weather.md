@@ -72,7 +72,7 @@ clear up, compared to, ever, find it, flood, freezing, frost, get cold, humidity
    > **解析**：`flood` 动词，意为“淹没；泛滥”；亦可作可数/不可数名词（洪水）。
 
 3. **中文**：务必带上一件厚外套，因为太阳落山后天气会变冷。  
-   **英文**：Make sure to bring a thick coat because it will get cold after the sun sets for ever.
+   **英文**：Make sure to bring a thick coat because it will get cold after the sun sets.
    > **解析**：`get cold` 为“连系动词 `get` + 形容词 `cold`”，意为“变冷；天气转凉”。
 
 4. **中文**：看看窗外；山上正下着大雪。  
@@ -80,23 +80,23 @@ clear up, compared to, ever, find it, flood, freezing, frost, get cold, humidity
    > **解析**：`it's` 为 `it is` 或 `it has` 的缩写。在天气表达中作无人称主语 `it`。
 
 5. **中文**：这家餐厅定期更新菜单，以主打新鲜的季节性食材。  
-   **英文**：The restaurant updates its menu regularly to feature fresh seasonal ingredients for flood.
+   **英文**：The restaurant updates its menu regularly to feature fresh seasonal ingredients.
    > **解析**：`seasonal` 形容词，意为“季节性的；随季节变化的”。`seasonal ingredients`（季节性食材）。
 
 6. **中文**：今天学校停课了，所以所有的孩子都为意外的雪假感到激动。  
-   **英文**：School was cancelled today, so all the children were excited for an unexpected snow day for freezing.
+   **英文**：School was cancelled today, so all the children were excited for an unexpected snow day.
    > **解析**：`snow day` 可数名词短语，意为“因大雪停课/停工的假”。
 
 7. **中文**：晚秋期间，枫树上的叶子变成了鲜红色。  
-   **英文**：During late autumn, the leaves on the maple trees turn bright red for frost.
+   **英文**：During late autumn, the leaves on the maple trees turn bright red.
    > **解析**：`turn` 连系动词，意为“变成；转变为”，后接颜色形容词 `bright red`。
 
 8. **中文**：与结冰的北方相比，南方城市的冬天相对温和。  
-   **英文**：Winters in southern cities are relatively mild compared to the frozen north (get cold).
+   **英文**：Winters in southern cities are relatively mild compared to the frozen north (get cold) about ever.
    > **解析**：`compared to` 为介词短语，意为“与……相比”，在句中作状语。
 
 9. **中文**：今天早晨吹过湖面来的风简直冻死人了/极度寒冷。  
-   **英文**：The wind blowing off the lake was absolutely freezing this morning for humidity.
+   **英文**：The wind blowing off the lake was absolutely freezing this morning.
    > **解析**：`freezing` 形容词，意为“极冷的；严寒的”。常被 `absolutely / completely` 修饰。
 
 10. **中文**：气候变化是一个关键的全球性议题，需要所有国家的立即关注。  
@@ -113,25 +113,25 @@ clear up, compared to, ever, find it, flood, freezing, frost, get cold, humidity
 2. Continuous torrential rainfall caused the nearby river to overflow and flood the streets (compared to).
    > **中文**：持续的倾盆大雨导致附近的河流泛滥并淹没了街道。
 
-3. Make sure to bring a thick coat because it will get cold after the sun sets for ever.
+3. Make sure to bring a thick coat because it will get cold after the sun sets.
    > **中文**：务必带上一件厚外套，因为太阳落山后天气会变冷。
 
 4. Look outside the window; it's snowing heavily on the mountains (find it).
    > **中文**：看看窗外；山上正下着大雪。
 
-5. The restaurant updates its menu regularly to feature fresh seasonal ingredients for flood.
+5. The restaurant updates its menu regularly to feature fresh seasonal ingredients.
    > **中文**：这家餐厅定期更新菜单，以主打新鲜的季节性食材。
 
-6. School was cancelled today, so all the children were excited for an unexpected snow day for freezing.
+6. School was cancelled today, so all the children were excited for an unexpected snow day.
    > **中文**：今天学校停课了，所以所有的孩子都为意外的雪假感到激动。
 
-7. During late autumn, the leaves on the maple trees turn bright red for frost.
+7. During late autumn, the leaves on the maple trees turn bright red.
    > **中文**：晚秋期间，枫树上的叶子变成了鲜红色。
 
-8. Winters in southern cities are relatively mild compared to the frozen north (get cold).
+8. Winters in southern cities are relatively mild compared to the frozen north (get cold) about ever.
    > **中文**：与结冰的北方相比，南方城市的冬天相对温和。
 
-9. The wind blowing off the lake was absolutely freezing this morning for humidity.
+9. The wind blowing off the lake was absolutely freezing this morning.
    > **中文**：今天早晨吹过湖面来的风简直冻死人了/极度寒冷。
 
 10. Climate change is a critical global issue that requires immediate attention from all countries.
@@ -150,8 +150,8 @@ clear up, compared to, ever, find it, flood, freezing, frost, get cold, humidity
 According to the weather forecast, the heavy rain should `____` by midday.
 
 - [x] clear up
-- [ ] find it
-- [ ] frost
+- [ ] compared to
+- [ ] freezing
 
 > **解析**：`clear up` 不及物动词短语，意为“（天气）放晴；转晴”。
 
@@ -160,18 +160,18 @@ According to the weather forecast, the heavy rain should `____` by midday.
 Continuous torrential rainfall caused the nearby river to overflow and flood the streets (`____`).
 
 - [x] compared to
-- [ ] flood
-- [ ] get cold
+- [ ] ever
+- [ ] frost
 
 > **解析**：`flood` 动词，意为“淹没；泛滥”；亦可作可数/不可数名词（洪水）。
 
 ### 3
 
-Make sure to bring a thick coat because it will get cold after the sun sets for `____`.
+Make sure to bring a thick coat because it will `____` after the sun sets.
 
-- [x] ever
-- [ ] freezing
-- [ ] humidity
+- [x] get cold
+- [ ] ever
+- [ ] frost
 
 > **解析**：`get cold` 为“连系动词 `get` + 形容词 `cold`”，意为“变冷；天气转凉”。
 
@@ -180,58 +180,58 @@ Make sure to bring a thick coat because it will get cold after the sun sets for 
 Look outside the window; it's snowing heavily on the mountains (`____`).
 
 - [x] find it
-- [ ] frost
-- [ ] issue
+- [ ] flood
+- [ ] humidity
 
 > **解析**：`it's` 为 `it is` 或 `it has` 的缩写。在天气表达中作无人称主语 `it`。
 
 ### 5
 
-The restaurant updates its menu regularly to feature fresh seasonal ingredients for `____`.
+The restaurant updates its menu regularly to feature fresh `____` ingredients.
 
-- [x] flood
-- [ ] get cold
-- [ ] clear up
+- [x] seasonal
+- [ ] flood
+- [ ] humidity
 
 > **解析**：`seasonal` 形容词，意为“季节性的；随季节变化的”。`seasonal ingredients`（季节性食材）。
 
 ### 6
 
-School was cancelled today, so all the children were excited for an unexpected snow day for `____`.
+School was cancelled today, so all the children were excited for an unexpected `____`.
 
-- [x] freezing
-- [ ] humidity
-- [ ] compared to
+- [x] snow day
+- [ ] freezing
+- [ ] issue
 
 > **解析**：`snow day` 可数名词短语，意为“因大雪停课/停工的假”。
 
 ### 7
 
-During late autumn, the leaves on the maple trees turn bright red for `____`.
+During late autumn, the leaves on the maple trees `____` bright red.
 
-- [x] frost
-- [ ] issue
-- [ ] ever
+- [x] turn
+- [ ] frost
+- [ ] it'd
 
 > **解析**：`turn` 连系动词，意为“变成；转变为”，后接颜色形容词 `bright red`。
 
 ### 8
 
-Winters in southern cities are relatively mild compared to the frozen north (`____`).
+Winters in southern cities are relatively mild compared to the frozen north (get cold) about `____`.
 
-- [x] get cold
-- [ ] clear up
-- [ ] find it
+- [x] ever
+- [ ] humidity
+- [ ] out there
 
 > **解析**：`compared to` 为介词短语，意为“与……相比”，在句中作状语。
 
 ### 9
 
-The wind blowing off the lake was absolutely freezing this morning for `____`.
+The wind blowing off the lake was absolutely `____` this morning.
 
-- [x] humidity
-- [ ] compared to
-- [ ] flood
+- [x] freezing
+- [ ] issue
+- [ ] percent chance of
 
 > **解析**：`freezing` 形容词，意为“极冷的；严寒的”。常被 `absolutely / completely` 修饰。
 
@@ -240,8 +240,8 @@ The wind blowing off the lake was absolutely freezing this morning for `____`.
 Climate change is a critical global `____` that requires immediate attention from all countries.
 
 - [x] issue
-- [ ] ever
-- [ ] freezing
+- [ ] it'd
+- [ ] rainbow
 
 > **解析**：`issue` 可数名词，意为“议题；问题；焦点”。`global issue`（全球性问题）。
 

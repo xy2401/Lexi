@@ -56,27 +56,27 @@ get → gotten 是美式英语的过去分词形式（He has gotten away with it
    > **解析**：`agree` 不及物动词，搭配 `agree on sth.` 表示“就某事达成协议/一致意见”。
 
 2. **中文**：司机因在学校区域超速行驶而必须支付高额罚款。  
-   **英文**：The driver had to pay a heavy fine for exceeding the speed limit in the school zone for corruption.
+   **英文**：The driver had to pay a heavy fine for exceeding the speed limit in the school zone.
    > **解析**：`fine` 在此处作可数名词，意为“罚款”。搭配 `pay a fine`（缴纳罚款）。
 
 3. **中文**：每个人类都拥有必须受法律保护的基本权利。  
-   **英文**：Every human being has fundamental rights that must be protected by law for defend.
+   **英文**：Every human being has fundamental rights that must be protected by law.
    > **解析**：`human being` 为名词短语，意为“人类；人”，相较于 `human` 强调人的个体生命属性与尊严。
 
 4. **中文**：在警方收集到足够证据后，嫌疑人很可能会面临刑事指控。  
-   **英文**：The suspect is likely to face criminal charges after the police gather enough evidence for demand.
+   **英文**：The suspect is likely to face criminal charges after the police gather enough evidence.
    > **解析**：`likely` 形容词，意为“可能的”。固定搭配 `be likely to do sth.`（很有可能做某事）。
 
 5. **中文**：法律对这种性质的严重违法行为规定了至少五年的最低刑期。  
-   **英文**：The law sets a minimum sentence of five years for serious offences of this nature for fine.
+   **英文**：The law sets a minimum sentence of five years for serious offences of this nature.
    > **解析**：`minimum` 在此处作形容词修饰 `sentence`，意为“最低的；最小限度的”。
 
 6. **中文**：检察官出示了将被告与犯罪现场直接联系起来的确凿证据。  
-   **英文**：The prosecutor presented solid proof that connected the defendant directly to the crime scene for get.
+   **英文**：The prosecutor presented solid proof that connected the defendant directly to the crime scene.
    > **解析**：`proof` 名词，意为“证明；证据”（常作不可数或可数名词）。动词形式为 `prove`（证明）。
 
 7. **中文**：侦探秘密监听了嫌疑人的电话以揭露阴谋。  
-   **英文**：The detective secretly monitored the suspect's phone calls to uncover the conspiracy for gotten.
+   **英文**：The detective secretly monitored the suspect's phone calls to uncover the conspiracy.
    > **解析**：`secretly` 副词，意为“秘密地；暗中”，修饰动词 `monitored`。
 
 8. **中文**：新法规旨在消除公共服务中的受贿与官方腐败现象。  
@@ -84,7 +84,7 @@ get → gotten 是美式英语的过去分词形式（He has gotten away with it
    > **解析**：`corruption` 不可数名词，意为“腐败；贪污；堕落”。
 
 9. **中文**：如果你屡次违反交通规则，你将会卷入严重的法律麻烦。  
-   **英文**：If you break traffic rules repeatedly, you will get into serious legal trouble for inform.
+   **英文**：If you break traffic rules repeatedly, you will get into serious legal trouble.
    > **解析**：`get` 在此处用作连系/动作动词，短语 `get into trouble` 表示“陷入麻烦/困境”。
 
 10. **中文**：陪审团审议了数小时，随后作出了有罪的判定。  
@@ -98,28 +98,28 @@ get → gotten 是美式英语的过去分词形式（He has gotten away with it
 1. The two legal teams finally managed to agree on a fair settlement.
    > **中文**：两支法律团队终于就一项公平的和解方案达成了一致。
 
-2. The driver had to pay a heavy fine for exceeding the speed limit in the school zone for corruption.
+2. The driver had to pay a heavy fine for exceeding the speed limit in the school zone.
    > **中文**：司机因在学校区域超速行驶而必须支付高额罚款。
 
-3. Every human being has fundamental rights that must be protected by law for defend.
+3. Every human being has fundamental rights that must be protected by law.
    > **中文**：每个人类都拥有必须受法律保护的基本权利。
 
-4. The suspect is likely to face criminal charges after the police gather enough evidence for demand.
+4. The suspect is likely to face criminal charges after the police gather enough evidence.
    > **中文**：在警方收集到足够证据后，嫌疑人很可能会面临刑事指控。
 
-5. The law sets a minimum sentence of five years for serious offences of this nature for fine.
+5. The law sets a minimum sentence of five years for serious offences of this nature.
    > **中文**：法律对这种性质的严重违法行为规定了至少五年的最低刑期。
 
-6. The prosecutor presented solid proof that connected the defendant directly to the crime scene for get.
+6. The prosecutor presented solid proof that connected the defendant directly to the crime scene.
    > **中文**：检察官出示了将被告与犯罪现场直接联系起来的确凿证据。
 
-7. The detective secretly monitored the suspect's phone calls to uncover the conspiracy for gotten.
+7. The detective secretly monitored the suspect's phone calls to uncover the conspiracy.
    > **中文**：侦探秘密监听了嫌疑人的电话以揭露阴谋。
 
 8. The new regulations aim to eradicate bribery and official corruption in public services (human being).
    > **中文**：新法规旨在消除公共服务中的受贿与官方腐败现象。
 
-9. If you break traffic rules repeatedly, you will get into serious legal trouble for inform.
+9. If you break traffic rules repeatedly, you will get into serious legal trouble.
    > **中文**：如果你屡次违反交通规则，你将会卷入严重的法律麻烦。
 
 10. The jury deliberated for several hours before delivering a unanimous verdict of guilty.
@@ -138,88 +138,88 @@ get → gotten 是美式英语的过去分词形式（He has gotten away with it
 The two legal teams finally managed to `____` on a fair settlement.
 
 - [x] agree
-- [ ] demand
-- [ ] gotten
+- [ ] corruption
+- [ ] get
 
 > **解析**：`agree` 不及物动词，搭配 `agree on sth.` 表示“就某事达成协议/一致意见”。
 
 ### 2
 
-The driver had to pay a heavy fine for exceeding the speed limit in the school zone for `____`.
+The driver had to pay a heavy `____` for exceeding the speed limit in the school zone.
 
-- [x] corruption
-- [ ] fine
-- [ ] human being
+- [x] fine
+- [ ] corruption
+- [ ] gotten
 
 > **解析**：`fine` 在此处作可数名词，意为“罚款”。搭配 `pay a fine`（缴纳罚款）。
 
 ### 3
 
-Every human being has fundamental rights that must be protected by law for `____`.
+Every `____` has fundamental rights that must be protected by law.
 
-- [x] defend
-- [ ] get
-- [ ] inform
+- [x] human being
+- [ ] defend
+- [ ] gotten
 
 > **解析**：`human being` 为名词短语，意为“人类；人”，相较于 `human` 强调人的个体生命属性与尊严。
 
 ### 4
 
-The suspect is likely to face criminal charges after the police gather enough evidence for `____`.
+The suspect is `____` to face criminal charges after the police gather enough evidence.
 
-- [x] demand
-- [ ] gotten
-- [ ] jury
+- [x] likely
+- [ ] demand
+- [ ] human being
 
 > **解析**：`likely` 形容词，意为“可能的”。固定搭配 `be likely to do sth.`（很有可能做某事）。
 
 ### 5
 
-The law sets a minimum sentence of five years for serious offences of this nature for `____`.
+The law sets a `____` sentence of five years for serious offences of this nature.
 
-- [x] fine
-- [ ] human being
-- [ ] agree
+- [x] minimum
+- [ ] fine
+- [ ] inform
 
 > **解析**：`minimum` 在此处作形容词修饰 `sentence`，意为“最低的；最小限度的”。
 
 ### 6
 
-The prosecutor presented solid proof that connected the defendant directly to the crime scene for `____`.
+The prosecutor presented solid proof that connected the `____`ant directly to the crime scene.
 
-- [x] get
-- [ ] inform
-- [ ] corruption
+- [x] defend
+- [ ] gotten
+- [ ] known
 
 > **解析**：`proof` 名词，意为“证明；证据”（常作不可数或可数名词）。动词形式为 `prove`（证明）。
 
 ### 7
 
-The detective secretly monitored the suspect's phone calls to uncover the conspiracy for `____`.
+The detective `____` monitored the suspect's phone calls to uncover the conspiracy.
 
-- [x] gotten
-- [ ] jury
-- [ ] defend
+- [x] secretly
+- [ ] gotten
+- [ ] known
 
 > **解析**：`secretly` 副词，意为“秘密地；暗中”，修饰动词 `monitored`。
 
 ### 8
 
-The new regulations aim to eradicate bribery and official corruption in public services (`____`).
+The new regulations aim to eradicate bribery and official `____` in public services (human being).
 
-- [x] human being
-- [ ] agree
-- [ ] demand
+- [x] corruption
+- [ ] inform
+- [ ] maximum
 
 > **解析**：`corruption` 不可数名词，意为“腐败；贪污；堕落”。
 
 ### 9
 
-If you break traffic rules repeatedly, you will get into serious legal trouble for `____`.
+If you break traffic rules repeatedly, you will `____` into serious legal trouble.
 
-- [x] inform
-- [ ] corruption
-- [ ] fine
+- [x] get
+- [ ] jury
+- [ ] meanwhile
 
 > **解析**：`get` 在此处用作连系/动作动词，短语 `get into trouble` 表示“陷入麻烦/困境”。
 
@@ -228,8 +228,8 @@ If you break traffic rules repeatedly, you will get into serious legal trouble f
 The `____` deliberated for several hours before delivering a unanimous verdict of guilty.
 
 - [x] jury
-- [ ] defend
-- [ ] get
+- [ ] known
+- [ ] minimum
 
 > **解析**：`jury` 名词，意为“陪审团”。在法庭裁决中作为整体时谓语动词可作单数处理。
 

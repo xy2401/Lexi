@@ -62,77 +62,77 @@ get + 过去分词（get hurt, get lost, get stolen）表示"变得……/遭遇
 <quiz-sentence-builder>
 
 1. **中文**：勇敢的骑士骑马进入黑暗森林去营救失踪的王子。  
-   **英文**：The brave knight rode into the dark forest to rescue the lost prince for besides.
+   **英文**：The brave knight rode into the dark forest to rescue the lost prince.
    > **解析**：brave 为形容词，意为“勇敢的”。在句中作定语修饰名词 knight（骑士）。名词形式为 bravery。
 
 2. **中文**：探险家们深入丛林去发现那座古老的隐藏神庙。  
-   **英文**：Explorers went deep into the jungle to discover the ancient hidden temple for brave.
+   **英文**：Explorers went deep into the jungle to discover the ancient hidden temple.
    > **解析**：discover 为动词，意为“发现、发掘”。指发现本来存在但未被为人所知的事物。名词形式为 discovery。
 
 3. **中文**：在山里一定要带指南针，这样你才不会迷路。  
-   **英文**：Always carry a compass in the mountains so that you do not get lost for candle.
+   **英文**：Always carry a compass in the mountains so that you do not get lost.
    > **解析**：get lost 为动词短语，意为“迷路”。get 在此处为系动词，与过去分词 lost 连用构成系表结构。
 
 4. **中文**：皇室家族生活在一座带有巨大庭院的宏伟宫殿里。  
-   **英文**：The royal family lives in a magnificent palace with a large courtyard for celebration.
+   **英文**：The royal family lives in a magnificent palace with a large courtyard.
    > **解析**：palace 为名词，意为“宫殿、王宫”。magnificent palace 表示“宏伟的宫殿”。
 
 5. **中文**：在童话故事里，公主解开了三个棘手的谜题救了自己的王国。  
-   **英文**：In the fairy tale, the princess solved three tricky riddles to save her kingdom for cushion.
+   **英文**：In the fairy tale, the princess solved three tricky riddles to save her kingdom.
    > **解析**：princess 为名词，意为“公主”。王子为 prince。fairy tale 意为“童话故事”。
 
 6. **中文**：当讲故事的人描述一只神话中的怪物时，孩子们听得津津有味。  
-   **英文**：The children listened intently as the storyteller described a mythical monster for discover.
+   **英文**：The children listened intently as the storyteller described a mythical monster.
    > **解析**：monster 为名词，意为“怪物、怪兽”。mythical monster 表示“神话怪物”。
 
 7. **中文**：节日结束时，壮观的烟花表演照亮了夜空。  
-   **英文**：Spectacular firework displays lit up the night sky at the end of the festival for fight.
+   **英文**：Spectacular firework displays lit up the night sky at the end of the festival.
    > **解析**：firework 为名词，常使用复数形式 fireworks，意为“烟花、礼花”。firework display 表示“烟火表演”。
 
 8. **中文**：胜利庆祝活动将数千名快乐的市民聚集在广场上。  
-   **英文**：The victory celebration brought together thousands of happy citizens in the square for firework.
+   **英文**：The victory celebration brought together thousands of happy citizens in the square.
    > **解析**：celebration 为名词，由动词 celebrate 派生而来，意为“庆祝活动、典礼”。bring together 意为“召集/聚集”。
 
 9. **中文**：恶龙守护着一个装满闪闪发光的金币和珍贵宝石的箱子。  
-   **英文**：The dragon guarded a chest filled with shiny gold coins and precious gems for fought.
+   **英文**：The dragon guarded a chest filled with shiny gold coins and precious gems.
    > **解析**：shiny 为形容词，意为“闪亮的、光亮的”。修饰名词 gold coins。由名词 shine 变化而来。
 
 10. **中文**：当心！一块巨大的落石正朝山路直冲过来！  
-   **英文**：Look out! A huge falling rock is heading straight toward the mountain path for fountain.
+   **英文**：Look out! A huge falling rock is heading straight toward the mountain path.
    > **解析**：look out 为动词短语，用作感叹句表示“小心、当心”。与 watch out 同义，常用于紧急提醒。
 
 </quiz-sentence-builder>
 
 <quiz-listening>
 
-1. The brave knight rode into the dark forest to rescue the lost prince for besides.
+1. The brave knight rode into the dark forest to rescue the lost prince.
    > **中文**：勇敢的骑士骑马进入黑暗森林去营救失踪的王子。
 
-2. Explorers went deep into the jungle to discover the ancient hidden temple for brave.
+2. Explorers went deep into the jungle to discover the ancient hidden temple.
    > **中文**：探险家们深入丛林去发现那座古老的隐藏神庙。
 
-3. Always carry a compass in the mountains so that you do not get lost for candle.
+3. Always carry a compass in the mountains so that you do not get lost.
    > **中文**：在山里一定要带指南针，这样你才不会迷路。
 
-4. The royal family lives in a magnificent palace with a large courtyard for celebration.
+4. The royal family lives in a magnificent palace with a large courtyard.
    > **中文**：皇室家族生活在一座带有巨大庭院的宏伟宫殿里。
 
-5. In the fairy tale, the princess solved three tricky riddles to save her kingdom for cushion.
+5. In the fairy tale, the princess solved three tricky riddles to save her kingdom.
    > **中文**：在童话故事里，公主解开了三个棘手的谜题救了自己的王国。
 
-6. The children listened intently as the storyteller described a mythical monster for discover.
+6. The children listened intently as the storyteller described a mythical monster.
    > **中文**：当讲故事的人描述一只神话中的怪物时，孩子们听得津津有味。
 
-7. Spectacular firework displays lit up the night sky at the end of the festival for fight.
+7. Spectacular firework displays lit up the night sky at the end of the festival.
    > **中文**：节日结束时，壮观的烟花表演照亮了夜空。
 
-8. The victory celebration brought together thousands of happy citizens in the square for firework.
+8. The victory celebration brought together thousands of happy citizens in the square.
    > **中文**：胜利庆祝活动将数千名快乐的市民聚集在广场上。
 
-9. The dragon guarded a chest filled with shiny gold coins and precious gems for fought.
+9. The dragon guarded a chest filled with shiny gold coins and precious gems.
    > **中文**：恶龙守护着一个装满闪闪发光的金币和珍贵宝石的箱子。
 
-10. Look out! A huge falling rock is heading straight toward the mountain path for fountain.
+10. Look out! A huge falling rock is heading straight toward the mountain path.
    > **中文**：当心！一块巨大的落石正朝山路直冲过来！
 
 </quiz-listening>
@@ -145,101 +145,101 @@ get + 过去分词（get hurt, get lost, get stolen）表示"变得……/遭遇
 
 ### 1
 
-The brave knight rode into the dark forest to rescue the lost prince for `____`.
+The `____` knight rode into the dark forest to rescue the lost prince.
 
-- [x] besides
-- [ ] celebration
-- [ ] fight
+- [x] brave
+- [ ] besides
+- [ ] discover
 
 > **解析**：brave 为形容词，意为“勇敢的”。在句中作定语修饰名词 knight（骑士）。名词形式为 bravery。
 
 ### 2
 
-Explorers went deep into the jungle to discover the ancient hidden temple for `____`.
+Explorers went deep into the jungle to `____` the ancient hidden temple.
 
-- [x] brave
-- [ ] cushion
-- [ ] firework
+- [x] discover
+- [ ] brave
+- [ ] fight
 
 > **解析**：discover 为动词，意为“发现、发掘”。指发现本来存在但未被为人所知的事物。名词形式为 discovery。
 
 ### 3
 
-Always carry a compass in the mountains so that you do not get lost for `____`.
+Always carry a compass in the mountains so that you do not `____` lost.
 
-- [x] candle
-- [ ] discover
-- [ ] fought
+- [x] get
+- [ ] candle
+- [ ] fight
 
 > **解析**：get lost 为动词短语，意为“迷路”。get 在此处为系动词，与过去分词 lost 连用构成系表结构。
 
 ### 4
 
-The royal family lives in a magnificent palace with a large courtyard for `____`.
+The royal family lives in a magnificent `____` with a large courtyard.
 
-- [x] celebration
-- [ ] fight
-- [ ] fountain
+- [x] palace
+- [ ] celebration
+- [ ] firework
 
 > **解析**：palace 为名词，意为“宫殿、王宫”。magnificent palace 表示“宏伟的宫殿”。
 
 ### 5
 
-In the fairy tale, the princess solved three tricky riddles to save her kingdom for `____`.
+In the fairy tale, the `____`ss solved three tricky riddles to save her kingdom.
 
-- [x] cushion
-- [ ] firework
-- [ ] besides
+- [x] prince
+- [ ] cushion
+- [ ] fought
 
 > **解析**：princess 为名词，意为“公主”。王子为 prince。fairy tale 意为“童话故事”。
 
 ### 6
 
-The children listened intently as the storyteller described a mythical monster for `____`.
+The children listened intently as the storyteller described a mythical `____`.
 
-- [x] discover
-- [ ] fought
-- [ ] brave
+- [x] monster
+- [ ] discover
+- [ ] fountain
 
 > **解析**：monster 为名词，意为“怪物、怪兽”。mythical monster 表示“神话怪物”。
 
 ### 7
 
-Spectacular firework displays lit up the night sky at the end of the festival for `____`.
+Spectacular `____` displays lit up the night sky at the end of the festival.
 
-- [x] fight
-- [ ] fountain
-- [ ] candle
+- [x] firework
+- [ ] fight
+- [ ] get excited
 
 > **解析**：firework 为名词，常使用复数形式 fireworks，意为“烟花、礼花”。firework display 表示“烟火表演”。
 
 ### 8
 
-The victory celebration brought together thousands of happy citizens in the square for `____`.
+The victory `____` brought together thousands of happy citizens in the square.
 
-- [x] firework
-- [ ] besides
-- [ ] celebration
+- [x] celebration
+- [ ] fought
+- [ ] get hurt
 
 > **解析**：celebration 为名词，由动词 celebrate 派生而来，意为“庆祝活动、典礼”。bring together 意为“召集/聚集”。
 
 ### 9
 
-The dragon guarded a chest filled with shiny gold coins and precious gems for `____`.
+The dragon guarded a chest filled with `____` gold coins and precious gems.
 
-- [x] fought
-- [ ] brave
-- [ ] cushion
+- [x] shiny
+- [ ] fought
+- [ ] get hurt
 
 > **解析**：shiny 为形容词，意为“闪亮的、光亮的”。修饰名词 gold coins。由名词 shine 变化而来。
 
 ### 10
 
-Look out! A huge falling rock is heading straight toward the mountain path for `____`.
+`____`! A huge falling rock is heading straight toward the mountain path.
 
-- [x] fountain
-- [ ] candle
-- [ ] discover
+- [x] look out
+- [ ] fountain
+- [ ] get lost
 
 > **解析**：look out 为动词短语，用作感叹句表示“小心、当心”。与 watch out 同义，常用于紧急提醒。
 
