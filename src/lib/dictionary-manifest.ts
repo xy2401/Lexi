@@ -20,8 +20,14 @@ let manifestPromise: Promise<DictionaryManifest> | null = null
 export function getDictionaryManifest(): Promise<DictionaryManifest> {
   if (!manifestPromise) {
     manifestPromise = fetch('/dicts/manifest.json', { cache: 'no-cache' })
-      .then(response => {
-        if (!response.ok) throw new Error(`词典 manifest 加载失败: HTTP ${response.status}`)
+      .then(async response => {
+        if (!response.ok) {
+          throw new Error(`词典 manifest 加载失败: HTTP ${response.status}。若尚未构建词表，请在终端运行 \`npm run build:data\`。`)
+        }
+        const contentType = response.headers.get('content-type') || ''
+        if (contentType.includes('text/html')) {
+          throw new Error('词典 manifest 不存在 (返回了 HTML 页面)。请先运行 \`npm run build:data\` 生成词典数据。')
+        }
         return response.json() as Promise<DictionaryManifest>
       })
       .catch(error => {

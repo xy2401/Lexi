@@ -1,1 +1,36 @@
-{"name":"lexi","version":"0.1.0","private":true,"type":"module","description":"Lexi - 渐进式、沉浸式英语阅读与听说训练沙盒","scripts":{"dev":"vite","build":"npm run validate:course && vite build","preview":"vite preview","build:course":"node scripts/course-tools.mjs build","validate:course":"node scripts/course-tools.mjs validate","build:dict":"node scripts/build-dictionary-shards.mjs","build:data":"node scripts/extract-stardict.mjs && node scripts/build-dictionary-shards.mjs"},"dependencies":{"commander":"^12.0.0","csv-parse":"^5.5.0","dexie":"^4.4.4","marked":"^18.0.7","pinia":"^4.0.2","sql.js":"^1.10.0","sql.js-httpvfs":"^0.8.12","vue":"^3.5.40","wavesurfer.js":"^7.12.11"},"devDependencies":{"@vitejs/plugin-vue":"^6.0.8","7zip-min":"^3.0.1","better-sqlite3":"^13.0.3","typescript":"^7.0.2","vite":"^8.1.5","vue-tsc":"^3.3.8"}}
+{
+  "name": "lexi",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Lexi - 渐进式、沉浸式英语阅读与听说训练沙盒",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run validate:course && vite build",
+    "preview": "vite preview",
+    "build:course": "node scripts/course-tools.mjs build",
+    "validate:course": "node scripts/course-tools.mjs validate",
+    "build:dict": "node scripts/build-dictionary-shards.mjs",
+    "build:data": "node scripts/extract-stardict.mjs && node scripts/build-dictionary-shards.mjs"
+  },
+  "dependencies": {
+    "commander": "^12.0.0",
+    "csv-parse": "^5.5.0",
+    "dexie": "^4.4.4",
+    "marked": "^18.0.7",
+    "pinia": "^4.0.2",
+    "sql.js": "^1.10.0",
+    "sql.js-httpvfs": "^0.8.12",
+    "vue": "^3.5.40",
+    "wavesurfer.js": "^7.12.11"
+  },
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "@vitejs/plugin-vue": "^6.0.8",
+    "7zip-min": "^3.0.1",
+    "better-sqlite3": "^13.0.3",
+    "typescript": "^7.0.2",
+    "vite": "^8.1.5",
+    "vue-tsc": "^3.3.8"
+  }
+}
