@@ -12,6 +12,17 @@ if (!existsSync(PUBLIC_DATA_DIR)) {
 
 console.log('[build-extensions] Starting dataset processing...')
 
+/**
+ * 将 JSON 数组格式化输出：外层保持标准的 [] JSON 数组格式，但数组内部每个元素独立占用一行，兼顾可读性与文件体积
+ */
+function stringifyArrayByLine(arr) {
+  const lines = arr.map((item, idx) => {
+    const comma = idx < arr.length - 1 ? ',' : ''
+    return '  ' + JSON.stringify(item) + comma
+  })
+  return '[\n' + lines.join('\n') + '\n]'
+}
+
 // 1. Process wordroot.txt
 function buildWordRoot() {
   const filePath = join(ECDICT_DIR, 'wordroot.txt')
@@ -38,7 +49,7 @@ function buildWordRoot() {
   }
 
   const outputPath = join(PUBLIC_DATA_DIR, 'wordroot.json')
-  writeFileSync(outputPath, JSON.stringify(list))
+  writeFileSync(outputPath, stringifyArrayByLine(list))
   console.log(`[build-extensions] Exported wordroot.json: ${list.length} entries`)
 }
 
@@ -82,7 +93,7 @@ function buildResemble() {
   }
 
   const outputPath = join(PUBLIC_DATA_DIR, 'resemble.json')
-  writeFileSync(outputPath, JSON.stringify(list))
+  writeFileSync(outputPath, stringifyArrayByLine(list))
   console.log(`[build-extensions] Exported resemble.json: ${list.length} groups`)
 }
 
@@ -117,7 +128,7 @@ function buildLemma() {
   }
 
   const outputPath = join(PUBLIC_DATA_DIR, 'lemma.json')
-  writeFileSync(outputPath, JSON.stringify(entries))
+  writeFileSync(outputPath, stringifyArrayByLine(entries))
   console.log(`[build-extensions] Exported compact lemma.json: ${entries.length} families`)
 }
 
