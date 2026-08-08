@@ -330,7 +330,8 @@ function selectWord(word: string) {
   display: flex;
   flex-direction: column;
   gap: 4px;
-  max-height: 520px;
+  height: min(860px, calc(100vh - 220px));
+  max-height: 860px;
   overflow-y: auto;
   scrollbar-gutter: stable;
 }
@@ -405,6 +406,9 @@ function selectWord(word: string) {
   padding: 1rem;
   position: sticky;
   top: 1rem;
+  display: flex;
+  flex-direction: column;
+  height: min(860px, calc(100vh - 220px));
 }
 
 .word-panel h4 {
@@ -450,7 +454,8 @@ function selectWord(word: string) {
 }
 
 .word-list {
-  max-height: 420px;
+  flex: 1;
+  min-height: 0;
   overflow-y: auto;
   scrollbar-gutter: stable;
   border: 1px solid #eee;
@@ -458,7 +463,8 @@ function selectWord(word: string) {
 }
 
 .guide-content {
-  max-height: 420px;
+  flex: 1;
+  min-height: 0;
   overflow-y: auto;
   scrollbar-gutter: stable;
   border: 1px solid #eee;
@@ -557,7 +563,8 @@ function selectWord(word: string) {
 }
 
 .practice-content {
-  max-height: 520px;
+  flex: 1;
+  min-height: 0;
   overflow-y: auto;
   scrollbar-gutter: stable;
 }
@@ -573,11 +580,13 @@ function selectWord(word: string) {
 
   .word-panel {
     position: static;
+    height: auto;
   }
 
   .guide-content,
   .word-list,
   .practice-content {
+    flex: none;
     max-height: none;
   }
 }

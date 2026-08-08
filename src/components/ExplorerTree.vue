@@ -217,6 +217,8 @@ function selectWord(word: string) {
   display: flex;
   flex-direction: column;
   gap: 0.75rem;
+  flex: 1;
+  min-height: 0;
 }
 
 .mode-bar {
@@ -299,7 +301,8 @@ function selectWord(word: string) {
 }
 
 .word-list {
-  max-height: 400px;
+  flex: 1;
+  min-height: 0;
   overflow-y: auto;
   scrollbar-gutter: stable;
   border: 1px solid #eee;

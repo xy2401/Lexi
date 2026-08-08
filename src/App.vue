@@ -484,6 +484,7 @@ function speakExplorerWord() {
   display: flex;
   flex-direction: column;
   gap: 0.75rem;
+  height: min(860px, calc(100vh - 260px));
 }
 
 .explorer-left h3,
