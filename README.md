@@ -174,7 +174,7 @@ npm install
 npm run build:data   # 解压完整归档，生成两字符主分片、Hot 分片和 manifest
 npm run build:wordnet # 下载、校验并构建 73 个 WordNet SQLite 分片
 npm run dev          # 生成扩展数据并启动 Vite 开发服务器（默认端口 3000）
-npm run build        # 生成扩展数据、校验课程并执行 Vite 生产构建
+npm run build        # 构建 WordNet、生成扩展数据、校验课程并执行 Vite 生产构建
 npm run preview      # 本地预览 dist 生产构建
 ```
 
@@ -192,7 +192,7 @@ npm run validate:course  # 校验课程 Markdown 和练习定义
 Cloudflare Pages 构建命令：
 
 ```bash
-git submodule update --init --recursive && npm run build:data && npm run build:wordnet && npm run build
+git submodule update --init --recursive && npm run build:data && npm run build
 ```
 
 生成结构：
