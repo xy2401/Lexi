@@ -16,9 +16,5 @@ export default defineConfig({
     outDir: 'dist',
     target: 'es2020',
   },
-  optimizeDeps: {
-    include: ['sql.js'],
-  },
 })
-
 

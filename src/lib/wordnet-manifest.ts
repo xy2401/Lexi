@@ -3,6 +3,8 @@ export interface WordNetManifestFile {
   url: string
   bytes: number
   sha256: string
+  rows: number
+  oversized?: boolean
   entries?: number
   senses?: number
   synsets?: number
@@ -13,6 +15,7 @@ export interface WordNetManifestFile {
 
 export interface WordNetManifest {
   schemaVersion: number
+  format: 'jsonl'
   version: string
   source: {
     name: string
@@ -22,7 +25,6 @@ export interface WordNetManifest {
     license: string
     licenseUrl: string
   }
-  pageSize: number
   entryTargetBytes: number
   synsetTargetBytes: number
   generatedAt: string
@@ -52,7 +54,8 @@ export function getWordNetManifest(): Promise<WordNetManifest> {
           throw new Error('WordNet manifest 不存在（收到 HTML fallback）。请运行 `npm run build:wordnet`。')
         }
         const manifest = await response.json() as WordNetManifest
-        if (manifest.schemaVersion !== 2 || !manifest.files?.['index.db'] || !manifest.version) {
+        if (manifest.schemaVersion !== 3 || manifest.format !== 'jsonl'
+          || !manifest.files?.['index.jsonl'] || !manifest.version) {
           throw new Error('WordNet manifest 格式不受支持')
         }
         return manifest

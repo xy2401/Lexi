@@ -2,7 +2,8 @@ export interface DictionaryShardMeta {
   url: string
   bytes: number
   rows: number
-  hash: string
+  sha256: string
+  oversized?: boolean
 }
 
 export interface DictionaryMainRoute {
@@ -12,9 +13,9 @@ export interface DictionaryMainRoute {
 
 export interface DictionaryManifest {
   schemaVersion: number
+  format: 'jsonl'
   version: string
   source: string
-  pageSize: number
   sourceRows: number
   hotRows: number
   mainTargetBytes: number
@@ -37,7 +38,7 @@ export function getDictionaryManifest(): Promise<DictionaryManifest> {
           throw new Error('词典 manifest 不存在 (返回了 HTML 页面)。请先运行 \`npm run build:data\` 生成词典数据。')
         }
         const manifest = await response.json() as DictionaryManifest
-        if (manifest.schemaVersion !== 2 || !manifest.mainRoutes) {
+        if (manifest.schemaVersion !== 3 || manifest.format !== 'jsonl' || !manifest.mainRoutes) {
           throw new Error('词典 manifest 格式不受支持，请重新运行 `npm run build:data`。')
         }
         return manifest

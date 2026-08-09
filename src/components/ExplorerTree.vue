@@ -6,7 +6,7 @@
  */
 import { ref, computed } from 'vue'
 import { listDictionaryShard, type DictionaryResult } from '../lib/remote-db'
-import { cacheWords, getLocalWordsByLetter, db, type WordEntry } from '../lib/db'
+import { getLocalWordsByLetter, db, type WordEntry } from '../lib/db'
 import { useDictStore } from '../stores/dict'
 
 const dictStore = useDictStore()
@@ -57,8 +57,8 @@ let requestSequence = 0
 
 const prefixes = computed(() => {
   if (!selectedLetter.value) return []
-  if (selectedLetter.value === '_') return ['__.db']
-  return SECOND_CHARS.map(c => `${selectedLetter.value}${c}.db`)
+  if (selectedLetter.value === '_') return ['__']
+  return SECOND_CHARS.map(c => `${selectedLetter.value}${c}`)
 })
 
 function selectLetter(letter: string) {
@@ -81,16 +81,8 @@ async function selectPrefix(prefix: string) {
     if (requestId !== requestSequence) return
     wordList.value = results
     hasMore.value = results.length === REMOTE_PAGE_SIZE
-    cacheResults(results)
   } finally {
     if (requestId === requestSequence) loading.value = false
-  }
-}
-
-function cacheResults(results: DictionaryResult[]) {
-  if (results.length > 0) {
-    const entries: WordEntry[] = results.map(result => ({ ...result, cacheLevel: 'full' }))
-    cacheWords(entries).catch(() => {})
   }
 }
 
@@ -105,7 +97,6 @@ async function loadMore() {
     if (requestId !== requestSequence) return
     wordList.value.push(...results)
     hasMore.value = results.length === REMOTE_PAGE_SIZE
-    cacheResults(results)
   } finally {
     if (requestId === requestSequence) loadingMore.value = false
   }
@@ -182,7 +173,7 @@ function selectWord(word: string) {
           :class="['prefix-btn', { active: selectedPrefix === prefix }]"
           @click="selectPrefix(prefix)"
         >
-          {{ prefix.replace('.db', '') }}
+          {{ prefix }}
         </button>
       </div>
 

@@ -11,12 +11,15 @@
   Cache-Control: no-cache
 
 /dicts/main/*
+  Content-Type: text/plain; charset=utf-8
   Cache-Control: public, max-age=31536000, immutable
 
 /dicts/hot/*
+  Content-Type: text/plain; charset=utf-8
   Cache-Control: public, max-age=31536000, immutable
 
 /dicts/wordnet/*
+  Content-Type: text/plain; charset=utf-8
   Cache-Control: public, max-age=31536000, immutable
 
 # 带 hash 的静态资源：长期缓存

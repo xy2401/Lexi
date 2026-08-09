@@ -5,15 +5,15 @@
 /**
  * 两字符语义分片：aa..zz、a_..z_、__。
  */
-export function getShardName(word) {
+export function getShardRoute(word) {
   const normalized = String(word || '').toLowerCase().trim()
   const first = normalized[0] || ''
   const second = normalized[1] || ''
   const isLetter = character => /^[a-z]$/.test(character)
 
-  if (!isLetter(first)) return '__.db'
-  if (!isLetter(second)) return `${first}_.db`
-  return `${first}${second}.db`
+  if (!isLetter(first)) return '__'
+  if (!isLetter(second)) return `${first}_`
+  return `${first}${second}`
 }
 
 /**

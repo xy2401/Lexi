@@ -357,7 +357,7 @@ function openWordNet(word: string) {
             </div>
             <div class="db-row">
               <span class="db-label">远端词典</span>
-              <span class="db-value">自适应逻辑分片（整片解析并持久缓存）</span>
+              <span class="db-value">JSONL 逻辑分片（整片解析并持久缓存）</span>
             </div>
 
             <h4 class="db-sub-title">标签分布</h4>

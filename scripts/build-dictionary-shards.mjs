@@ -1,87 +1,35 @@
-/**
- * Build Lexi's dictionary assets from the complete ECDICT archive only.
- *
- * Main dictionary: adaptive standalone SQLite shards routed by two-character
- * prefixes and lexical boundaries. Hot cache: 27 first-character shards
- * derived from the same source.
- */
+/** Build directly importable JSONL shards from the sorted ECDICT CSV. */
 import {
+  closeSync,
   createReadStream,
   existsSync,
   mkdirSync,
-  readFileSync,
-  renameSync,
+  openSync,
   rmSync,
   statSync,
   writeFileSync,
+  writeSync,
 } from 'node:fs'
 import { createHash } from 'node:crypto'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { parse } from 'csv-parse'
-import Database from 'better-sqlite3'
-import { getShardName, Progress, log } from './utils.mjs'
+import { getShardRoute, Progress, log } from './utils.mjs'
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..')
 const SOURCE_CSV = join(ROOT, 'data', 'stardict-raw', 'stardict.csv')
 const DICT_ROOT = join(ROOT, 'public', 'dicts')
-const MAIN_STAGING_DIR = join(ROOT, 'data', 'stardict-raw', '.main-staging')
 const MAIN_DIR = join(DICT_ROOT, 'main')
 const HOT_DIR = join(DICT_ROOT, 'hot')
 const MANIFEST_PATH = join(DICT_ROOT, 'manifest.json')
 
-const PAGE_SIZE = 4096
-const BUFFER_SIZE = 3000
 const MAIN_TARGET_SIZE = 256 * 1024
-const MAIN_INITIAL_SIZE = 224 * 1024
+const OVERSIZED_WARNING_SIZE = 2 * 1024 * 1024
+const MAX_FILE_SIZE = 25 * 1024 * 1024
+const MAIN_MAX_PARTS_PER_ROUTE = 1000
+const WRITE_BUFFER_SIZE = 64 * 1024
+const EXPECTED_SOURCE_ROWS = 3_402_564
 const HOT_TAGS = ['cet4', 'cet6', 'ielts', 'toefl', 'gre', 'kyan', 'kaoyan']
-
-const MAIN_SCHEMA = `
-  CREATE TABLE IF NOT EXISTS words (
-    word TEXT PRIMARY KEY COLLATE NOCASE,
-    phonetic TEXT NOT NULL DEFAULT '',
-    definition TEXT NOT NULL DEFAULT '',
-    translation TEXT NOT NULL DEFAULT '',
-    pos TEXT NOT NULL DEFAULT '',
-    collins INTEGER NOT NULL DEFAULT 0,
-    oxford INTEGER NOT NULL DEFAULT 0,
-    tags TEXT NOT NULL DEFAULT '',
-    bnc INTEGER NOT NULL DEFAULT 0,
-    frequency INTEGER NOT NULL DEFAULT 0,
-    exchange TEXT NOT NULL DEFAULT '',
-    detail TEXT NOT NULL DEFAULT '',
-    audio TEXT NOT NULL DEFAULT ''
-  ) WITHOUT ROWID
-`
-
-const HOT_SCHEMA = `
-  CREATE TABLE IF NOT EXISTS words (
-    word TEXT PRIMARY KEY COLLATE NOCASE,
-    phonetic TEXT NOT NULL DEFAULT '',
-    translation TEXT NOT NULL DEFAULT '',
-    frequency INTEGER NOT NULL DEFAULT 0,
-    tags TEXT NOT NULL DEFAULT '',
-    exchange TEXT NOT NULL DEFAULT ''
-  ) WITHOUT ROWID
-`
-
-const MAIN_INSERT = `
-  INSERT OR REPLACE INTO words (
-    word, phonetic, definition, translation, pos, collins, oxford,
-    tags, bnc, frequency, exchange, detail, audio
-  ) VALUES (
-    @word, @phonetic, @definition, @translation, @pos, @collins, @oxford,
-    @tags, @bnc, @frequency, @exchange, @detail, @audio
-  )
-`
-
-const HOT_INSERT = `
-  INSERT OR REPLACE INTO words (
-    word, phonetic, translation, frequency, tags, exchange
-  ) VALUES (
-    @word, @phonetic, @translation, @frequency, @tags, @exchange
-  )
-`
 
 function cleanText(value) {
   return typeof value === 'string' ? value.trim() : ''
@@ -93,9 +41,8 @@ function cleanInteger(value) {
 }
 
 function normalizeRow(row) {
-  const word = cleanText(row.word).toLowerCase()
+  const word = cleanText(row.word).normalize('NFC').toLowerCase()
   if (!word) return null
-
   return {
     word,
     phonetic: cleanText(row.phonetic),
@@ -113,75 +60,190 @@ function normalizeRow(row) {
   }
 }
 
+function toHotRecord(row) {
+  return {
+    word: row.word,
+    phonetic: row.phonetic,
+    translation: row.translation,
+    frequency: row.frequency,
+    tags: row.tags,
+    exchange: row.exchange,
+  }
+}
+
 function isHotWord(row) {
   if (row.frequency > 0 || row.bnc > 0) return true
   const tags = row.tags.toLowerCase()
   return HOT_TAGS.some(tag => tags.includes(tag))
 }
 
-function getHotShardName(word) {
+function getHotRoute(word) {
   const first = word[0]
-  return /^[a-z]$/.test(first) ? `${first}.db` : '_.db'
+  return /^[a-z]$/.test(first) ? first : '_'
 }
 
-function allMainShardNames() {
-  const names = ['__.db']
+function allMainRoutes() {
+  const routes = ['__']
   for (let first = 97; first <= 122; first++) {
     const a = String.fromCharCode(first)
-    names.push(`${a}_.db`)
+    routes.push(`${a}_`)
     for (let second = 97; second <= 122; second++) {
-      names.push(`${a}${String.fromCharCode(second)}.db`)
+      routes.push(`${a}${String.fromCharCode(second)}`)
     }
   }
-  return names
+  return routes
 }
 
-function allHotShardNames() {
-  const names = ['_.db']
-  for (let code = 97; code <= 122; code++) names.push(`${String.fromCharCode(code)}.db`)
-  return names
+function allHotRoutes() {
+  return ['_', ...Array.from({ length: 26 }, (_, index) => String.fromCharCode(97 + index))]
 }
 
-function initializeDatabase(path, schema) {
-  const db = new Database(path)
-  db.pragma(`page_size = ${PAGE_SIZE}`)
-  db.pragma('journal_mode = OFF')
-  db.pragma('synchronous = OFF')
-  db.pragma('temp_store = MEMORY')
-  db.exec(schema)
-  db.close()
+function jsonLine(record) {
+  return `${JSON.stringify(record)}\n`
 }
 
-function flushRecords(path, schema, insertSql, records) {
-  if (records.length === 0) return
-  if (!existsSync(path)) initializeDatabase(path, schema)
-
-  const db = new Database(path)
-  db.pragma('journal_mode = OFF')
-  db.pragma('synchronous = OFF')
-  const insert = db.prepare(insertSql)
-  const insertBatch = db.transaction(batch => {
-    for (const record of batch) insert.run(record)
-  })
-  insertBatch(records)
-  db.close()
-  records.length = 0
-}
-
-function flushBufferMap(directory, schema, insertSql, buffers) {
-  for (const [name, records] of buffers) {
-    flushRecords(join(directory, name), schema, insertSql, records)
+function writeJsonLines(path, lines) {
+  const content = lines.join('')
+  writeFileSync(path, content, 'utf8')
+  return {
+    bytes: Buffer.byteLength(content),
+    sha256: createHash('sha256').update(content).digest('hex'),
   }
 }
 
-async function importSource() {
-  if (!existsSync(SOURCE_CSV)) throw new Error(`完整词典源文件不存在: ${SOURCE_CSV}`)
+function createMainWriter() {
+  const files = {}
+  const routes = Object.fromEntries(allMainRoutes().map(route => [route, []]))
+  const states = new Map()
+  let openRoute = ''
 
-  const mainBuffers = new Map()
-  const hotBuffers = new Map()
-  const progress = new Progress(3402564, 'ECDICT 完整库')
+  function stateFor(route) {
+    let state = states.get(route)
+    if (!state) {
+      state = {
+        route,
+        index: 0,
+        fd: null,
+        name: '',
+        path: '',
+        bytes: 0,
+        rows: 0,
+        lastWord: '',
+        pending: '',
+        pendingBytes: 0,
+        hash: createHash('sha256'),
+      }
+      states.set(route, state)
+    }
+    return state
+  }
+
+  function ensureOpen(state) {
+    if (state.fd != null) return
+    if (!state.name) {
+      if (state.index >= MAIN_MAX_PARTS_PER_ROUTE) {
+        throw new Error(`${state.route} 分片超过 ${MAIN_MAX_PARTS_PER_ROUTE} 个`)
+      }
+      state.name = `${state.route}-${String(state.index).padStart(3, '0')}.jsonl`
+      state.path = join(MAIN_DIR, state.name)
+    }
+    state.fd = openSync(state.path, state.bytes > 0 ? 'a' : 'w')
+  }
+
+  function flush(state) {
+    if (!state.pending) return
+    ensureOpen(state)
+    writeSync(state.fd, state.pending, null, 'utf8')
+    state.pending = ''
+    state.pendingBytes = 0
+  }
+
+  function close(state) {
+    flush(state)
+    if (state.fd != null) {
+      closeSync(state.fd)
+      state.fd = null
+    }
+  }
+
+  function finishShard(state) {
+    if (state.rows === 0) return
+    close(state)
+    const actualBytes = statSync(state.path).size
+    if (actualBytes !== state.bytes) {
+      throw new Error(`${state.name} 字节数不符：${actualBytes} != ${state.bytes}`)
+    }
+    const sha256 = state.hash.digest('hex')
+    const oversized = state.bytes > MAIN_TARGET_SIZE
+    if (state.bytes >= MAX_FILE_SIZE) {
+      throw new Error(`${state.name} 达到 Cloudflare Pages 25 MiB 限制`)
+    }
+    if (oversized && state.bytes > OVERSIZED_WARNING_SIZE) {
+      console.warn(`[Lexi] ${state.name} 是 ${(state.bytes / 1024 / 1024).toFixed(2)} MiB 的独占超大词条分片`)
+    }
+    files[state.name] = {
+      url: `/dicts/main/${state.name}`,
+      bytes: state.bytes,
+      rows: state.rows,
+      sha256,
+      ...(oversized ? { oversized: true } : {}),
+    }
+    routes[state.route].push({ lastWord: state.lastWord, file: state.name })
+    state.index++
+    state.name = ''
+    state.path = ''
+    state.bytes = 0
+    state.rows = 0
+    state.lastWord = ''
+    state.pending = ''
+    state.pendingBytes = 0
+    state.hash = createHash('sha256')
+  }
+
+  function add(route, row) {
+    if (openRoute && openRoute !== route) close(stateFor(openRoute))
+    openRoute = route
+    const state = stateFor(route)
+    const line = jsonLine(row)
+    const bytes = Buffer.byteLength(line)
+    if (bytes >= MAX_FILE_SIZE) {
+      throw new Error(`${row.word} 单条 JSONL 达到 Cloudflare Pages 25 MiB 限制`)
+    }
+    if (bytes > MAIN_TARGET_SIZE && state.rows > 0) finishShard(state)
+    if (state.rows > 0 && state.bytes + bytes > MAIN_TARGET_SIZE) finishShard(state)
+    state.pending += line
+    state.pendingBytes += bytes
+    state.bytes += bytes
+    state.rows++
+    state.lastWord = row.word
+    state.hash.update(line)
+    if (state.pendingBytes >= WRITE_BUFFER_SIZE) flush(state)
+    if (bytes > MAIN_TARGET_SIZE) finishShard(state)
+  }
+
+  function finish() {
+    for (const state of states.values()) finishShard(state)
+    return { files, routes }
+  }
+
+  return { add, finish }
+}
+
+async function build() {
+  if (!existsSync(SOURCE_CSV)) throw new Error(`完整词典源文件不存在: ${SOURCE_CSV}`)
+  rmSync(MAIN_DIR, { recursive: true, force: true })
+  rmSync(HOT_DIR, { recursive: true, force: true })
+  rmSync(MANIFEST_PATH, { force: true })
+  mkdirSync(MAIN_DIR, { recursive: true })
+  mkdirSync(HOT_DIR, { recursive: true })
+
+  const mainWriter = createMainWriter()
+  const hotBuffers = new Map(allHotRoutes().map(route => [route, []]))
+  const progress = new Progress(EXPECTED_SOURCE_ROWS, 'ECDICT JSONL')
   let sourceRows = 0
+  let mainRows = 0
   let hotRows = 0
+  let previousWord = ''
 
   await new Promise((resolve, reject) => {
     const parser = parse({
@@ -190,235 +252,79 @@ async function importSource() {
       skip_empty_lines: true,
       trim: true,
     })
-
     parser.on('data', rawRow => {
       sourceRows++
       progress.tick()
       const row = normalizeRow(rawRow)
-      if (!row) return
-
-      const mainName = getShardName(row.word)
-      if (!mainBuffers.has(mainName)) mainBuffers.set(mainName, [])
-      const mainRecords = mainBuffers.get(mainName)
-      mainRecords.push(row)
-      if (mainRecords.length >= BUFFER_SIZE) {
-        flushRecords(join(MAIN_STAGING_DIR, mainName), MAIN_SCHEMA, MAIN_INSERT, mainRecords)
+      if (!row) throw new Error(`第 ${sourceRows} 行缺少 word`)
+      if (previousWord && row.word <= previousWord) {
+        const reason = row.word === previousWord ? '重复' : '未排序'
+        throw new Error(`ECDICT 源数据${reason}：${previousWord} -> ${row.word}`)
       }
-
+      previousWord = row.word
+      mainWriter.add(getShardRoute(row.word), row)
+      mainRows++
       if (isHotWord(row)) {
+        hotBuffers.get(getHotRoute(row.word)).push(jsonLine(toHotRecord(row)))
         hotRows++
-        const hotName = getHotShardName(row.word)
-        if (!hotBuffers.has(hotName)) hotBuffers.set(hotName, [])
-        const hotRecords = hotBuffers.get(hotName)
-        hotRecords.push(row)
-        if (hotRecords.length >= BUFFER_SIZE) {
-          flushRecords(join(HOT_DIR, hotName), HOT_SCHEMA, HOT_INSERT, hotRecords)
-        }
       }
     })
     parser.on('end', resolve)
     parser.on('error', reject)
-
     createReadStream(SOURCE_CSV, {
       encoding: 'utf8',
       highWaterMark: 2 * 1024 * 1024,
     }).pipe(parser)
   })
-
-  flushBufferMap(MAIN_STAGING_DIR, MAIN_SCHEMA, MAIN_INSERT, mainBuffers)
-  flushBufferMap(HOT_DIR, HOT_SCHEMA, HOT_INSERT, hotBuffers)
   progress.done()
-  return { sourceRows, hotRows }
-}
 
-function ensureAllShards() {
-  for (const name of allMainShardNames()) {
-    const path = join(MAIN_STAGING_DIR, name)
-    if (!existsSync(path)) initializeDatabase(path, MAIN_SCHEMA)
+  if (sourceRows !== EXPECTED_SOURCE_ROWS || mainRows !== EXPECTED_SOURCE_ROWS) {
+    throw new Error(`ECDICT 计数不符：source=${sourceRows}, main=${mainRows}`)
   }
-  for (const name of allHotShardNames()) {
+
+  const main = mainWriter.finish()
+  const hot = {}
+  let writtenHotRows = 0
+  for (const route of allHotRoutes()) {
+    const name = `${route}.jsonl`
+    const lines = hotBuffers.get(route)
     const path = join(HOT_DIR, name)
-    if (!existsSync(path)) initializeDatabase(path, HOT_SCHEMA)
-  }
-}
-
-function finalizeShards(directory, names, label) {
-  const entries = {}
-  let totalRows = 0
-
-  for (const name of names) {
-    const path = join(directory, name)
-    const db = new Database(path)
-    db.exec('VACUUM')
-    const quickCheck = db.pragma('quick_check', { simple: true })
-    if (quickCheck !== 'ok') throw new Error(`${label}/${name} quick_check 失败: ${quickCheck}`)
-    const rows = db.prepare('SELECT count(*) AS count FROM words').get().count
-    const pageSize = db.pragma('page_size', { simple: true })
-    db.close()
-
-    if (pageSize !== PAGE_SIZE) throw new Error(`${label}/${name} page_size=${pageSize}`)
-    const bytes = statSync(path).size
-    const hash = createHash('sha256').update(readFileSync(path)).digest('hex').slice(0, 16)
-    entries[name] = {
-      url: `/dicts/${label}/${name}`,
-      bytes,
-      rows,
-      hash,
+    const result = writeJsonLines(path, lines)
+    hot[name] = {
+      url: `/dicts/hot/${name}`,
+      bytes: result.bytes,
+      rows: lines.length,
+      sha256: result.sha256,
     }
-    totalRows += rows
+    writtenHotRows += lines.length
   }
+  if (writtenHotRows !== hotRows) throw new Error(`Hot 计数不符：${writtenHotRows} != ${hotRows}`)
 
-  return { entries, totalRows }
-}
-
-let temporaryShardId = 0
-
-function writeMainCandidate(rows) {
-  const path = join(MAIN_DIR, `.tmp-${temporaryShardId++}.db`)
-  initializeDatabase(path, MAIN_SCHEMA)
-  const db = new Database(path)
-  db.pragma('journal_mode = OFF')
-  db.pragma('synchronous = OFF')
-  const insert = db.prepare(MAIN_INSERT)
-  db.transaction(batch => {
-    for (const row of batch) insert.run(row)
-  })(rows)
-  db.exec('VACUUM')
-  const quickCheck = db.pragma('quick_check', { simple: true })
-  if (quickCheck !== 'ok') throw new Error(`${path} quick_check 失败: ${quickCheck}`)
-  db.close()
-  return { path, bytes: statSync(path).size, rows }
-}
-
-function splitMainCandidate(rows, accepted) {
-  const candidate = writeMainCandidate(rows)
-  if (candidate.bytes <= MAIN_TARGET_SIZE || rows.length <= 1) {
-    accepted.push(candidate)
-    return
-  }
-
-  rmSync(candidate.path, { force: true })
-  const middle = Math.ceil(rows.length / 2)
-  splitMainCandidate(rows.slice(0, middle), accepted)
-  splitMainCandidate(rows.slice(middle), accepted)
-}
-
-function buildLogicalMain(sourceEntries) {
-  const entries = {}
-  const routes = {}
-  let totalRows = 0
-
-  for (const sourceName of allMainShardNames()) {
-    const sourcePath = join(MAIN_STAGING_DIR, sourceName)
-    const sourceDb = new Database(sourcePath, { readonly: true })
-    const rows = sourceDb.prepare('SELECT * FROM words ORDER BY word COLLATE NOCASE, word').all()
-    sourceDb.close()
-
-    const sourceBytes = sourceEntries[sourceName].bytes
-    const estimatedPieces = Math.max(1, Math.ceil(sourceBytes / MAIN_INITIAL_SIZE))
-    const batchSize = Math.max(1, Math.ceil(Math.max(1, rows.length) / estimatedPieces))
-    const accepted = []
-
-    if (rows.length === 0) {
-      accepted.push(writeMainCandidate([]))
-    } else {
-      for (let start = 0; start < rows.length; start += batchSize) {
-        splitMainCandidate(rows.slice(start, start + batchSize), accepted)
-      }
-    }
-
-    const stem = sourceName.replace(/\.db$/, '')
-    routes[sourceName] = []
-    accepted.forEach((candidate, index) => {
-      const name = `${stem}-${String(index).padStart(3, '0')}.db`
-      const path = join(MAIN_DIR, name)
-      renameSync(candidate.path, path)
-      const hash = createHash('sha256').update(readFileSync(path)).digest('hex').slice(0, 16)
-      const lastWord = (candidate.rows.at(-1)?.word || '').trim().normalize('NFC').toLowerCase()
-      entries[name] = {
-        url: `/dicts/main/${name}`,
-        bytes: candidate.bytes,
-        rows: candidate.rows.length,
-        hash,
-      }
-      routes[sourceName].push({ lastWord, file: name })
-      totalRows += candidate.rows.length
-    })
-  }
-
-  return { entries, routes, totalRows }
-}
-
-function reportMainSizes(entries) {
-  const sorted = Object.entries(entries).sort((a, b) => b[1].bytes - a[1].bytes)
-  log('主词典最大逻辑分片（VACUUM 后）:')
-  for (const [name, entry] of sorted.slice(0, 20)) {
-    const kib = entry.bytes / 1024
-    const status = entry.bytes > MAIN_TARGET_SIZE ? 'FAIL' : 'OK'
-    log(`  ${name.padEnd(14)} ${kib.toFixed(0).padStart(4)} KiB  ${status}`)
-  }
-}
-
-function writeManifest(main, mainRoutes, hot, sourceRows, hotRows) {
   const versionHash = createHash('sha256')
-  for (const [name, entry] of Object.entries(main).sort()) versionHash.update(`${name}:${entry.hash};`)
-  for (const [name, entry] of Object.entries(hot).sort()) versionHash.update(`${name}:${entry.hash};`)
-
+  for (const [name, meta] of Object.entries(main.files).sort()) versionHash.update(`${name}:${meta.sha256};`)
+  for (const [name, meta] of Object.entries(hot).sort()) versionHash.update(`${name}:${meta.sha256};`)
   const manifest = {
-    schemaVersion: 2,
+    schemaVersion: 3,
+    format: 'jsonl',
     version: versionHash.digest('hex').slice(0, 16),
     source: 'ECDICT/stardict.7z',
-    pageSize: PAGE_SIZE,
     sourceRows,
     hotRows,
     mainTargetBytes: MAIN_TARGET_SIZE,
-    main,
-    mainRoutes,
+    main: main.files,
+    mainRoutes: main.routes,
     hot,
   }
   writeFileSync(MANIFEST_PATH, JSON.stringify(manifest))
-  return manifest
-}
 
-async function main() {
-  log('重建自适应逻辑主词典与 Hot 缓存 ...')
-  rmSync(MAIN_STAGING_DIR, { recursive: true, force: true })
-  rmSync(MAIN_DIR, { recursive: true, force: true })
-  rmSync(HOT_DIR, { recursive: true, force: true })
-  if (existsSync(MANIFEST_PATH)) rmSync(MANIFEST_PATH, { force: true })
-  mkdirSync(MAIN_STAGING_DIR, { recursive: true })
-  mkdirSync(MAIN_DIR, { recursive: true })
-  mkdirSync(HOT_DIR, { recursive: true })
-
-  const imported = await importSource()
-  ensureAllShards()
-
-  const sourceMainResult = finalizeShards(MAIN_STAGING_DIR, allMainShardNames(), 'main')
-  const mainResult = buildLogicalMain(sourceMainResult.entries)
-  const hotResult = finalizeShards(HOT_DIR, allHotShardNames(), 'hot')
-  reportMainSizes(mainResult.entries)
-
-  if (mainResult.totalRows !== imported.sourceRows) {
-    throw new Error(`主词典计数不一致: source=${imported.sourceRows}, shards=${mainResult.totalRows}`)
-  }
-  if (hotResult.totalRows !== imported.hotRows) {
-    throw new Error(`Hot 计数不一致: source=${imported.hotRows}, shards=${hotResult.totalRows}`)
-  }
-
-  const manifest = writeManifest(
-    mainResult.entries,
-    mainResult.routes,
-    hotResult.entries,
-    imported.sourceRows,
-    imported.hotRows,
-  )
-  rmSync(MAIN_STAGING_DIR, { recursive: true, force: true })
-  log(`主词条: ${mainResult.totalRows}，逻辑分片: ${Object.keys(mainResult.entries).length}`)
-  log(`Hot 词条: ${hotResult.totalRows}，Hot 分片: ${Object.keys(hotResult.entries).length}`)
+  const largest = Object.entries(main.files).sort((a, b) => b[1].bytes - a[1].bytes)[0]
+  log(`主词条: ${mainRows}，JSONL 分片: ${Object.keys(main.files).length}`)
+  log(`最大 Main 分片: ${largest[0]} ${(largest[1].bytes / 1024).toFixed(0)} KiB`)
+  log(`Hot 词条: ${hotRows}，Hot 分片: ${Object.keys(hot).length}`)
   log(`词典版本: ${manifest.version}`)
 }
 
-main().catch(error => {
+build().catch(error => {
   console.error(error)
   process.exitCode = 1
 })

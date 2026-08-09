@@ -1,7 +1,7 @@
 /** Load small, self-contained ECDICT Main shards and persist every row. */
 import { db, isShardImported, type WordEntry } from './db'
 import { getDictionaryManifest } from './dictionary-manifest'
-import { queryAll, withRemoteDatabase } from './sqlite-loader'
+import { fetchJsonLines } from './jsonl-loader'
 
 export interface DictionaryResult {
   word: string
@@ -20,10 +20,7 @@ export interface DictionaryResult {
   shard?: string
 }
 
-const WORD_COLUMNS = `
-  word, phonetic, definition, translation, pos, collins, oxford,
-  tags, bnc, frequency, exchange, detail, audio
-`
+type MainWordRecord = Omit<WordEntry, 'cacheLevel' | 'shard'>
 
 const shardLoads = new Map<string, Promise<WordEntry[]>>()
 
@@ -31,34 +28,14 @@ export function normalizeRouteKey(word: string): string {
   return word.trim().normalize('NFC').toLowerCase()
 }
 
-export function getShardName(word: string): string {
+export function getRouteName(word: string): string {
   const normalized = normalizeRouteKey(word)
   const first = normalized[0] || ''
   const second = normalized[1] || ''
   const isLetter = (character: string) => /^[a-z]$/.test(character)
-  if (!isLetter(first)) return '__.db'
-  if (!isLetter(second)) return `${first}_.db`
-  return `${first}${second}.db`
-}
-
-function rowToEntry(row: Record<string, unknown>, shard: string): WordEntry {
-  return {
-    word: String(row.word || ''),
-    phonetic: String(row.phonetic || ''),
-    definition: String(row.definition || ''),
-    translation: String(row.translation || ''),
-    pos: String(row.pos || ''),
-    collins: Number(row.collins || 0),
-    oxford: Number(row.oxford || 0),
-    tags: String(row.tags || ''),
-    bnc: Number(row.bnc || 0),
-    frequency: Number(row.frequency || 0),
-    exchange: String(row.exchange || ''),
-    detail: String(row.detail || ''),
-    audio: String(row.audio || ''),
-    cacheLevel: 'full',
-    shard,
-  }
+  if (!isLetter(first)) return '__'
+  if (!isLetter(second)) return `${first}_`
+  return `${first}${second}`
 }
 
 function toResult(entry: WordEntry): DictionaryResult {
@@ -80,11 +57,11 @@ function toResult(entry: WordEntry): DictionaryResult {
   }
 }
 
-async function resolveMainShard(word: string): Promise<string> {
+async function resolveMainShard(word: string): Promise<string | null> {
   const manifest = await getDictionaryManifest()
-  const routeName = getShardName(word)
+  const routeName = getRouteName(word)
   const routes = manifest.mainRoutes[routeName]
-  if (!routes?.length) throw new Error(`词典路由不存在：${routeName}`)
+  if (!routes?.length) return null
   const key = normalizeRouteKey(word)
 
   let low = 0
@@ -115,26 +92,27 @@ async function loadMainShard(file: string): Promise<WordEntry[]> {
   const existing = shardLoads.get(file)
   if (existing) return existing
 
-  const load = withRemoteDatabase(meta.url, manifest.version, meta.bytes, database => {
-    const rows = queryAll<Record<string, unknown>>(
-      database,
-      `SELECT ${WORD_COLUMNS} FROM words ORDER BY word COLLATE NOCASE, word`,
-    )
-    return rows.map(row => rowToEntry(row, file))
-  }).then(async entries => {
-    await db.transaction('rw', db.words, db.shards, async () => {
-      await db.words.bulkPut(entries)
-      await db.shards.put({
-        id: shardId,
-        dictionary: 'main',
-        version: manifest.version,
-        importedAt: Date.now(),
+  const load = fetchJsonLines<MainWordRecord>(meta.url, manifest.version, meta.bytes)
+    .then(async records => {
+      const entries: WordEntry[] = records.map(record => ({
+        ...record,
+        cacheLevel: 'full',
+        shard: file,
+      }))
+      await db.transaction('rw', db.words, db.shards, async () => {
+        await db.words.bulkPut(entries)
+        await db.shards.put({
+          id: shardId,
+          dictionary: 'main',
+          version: manifest.version,
+          importedAt: Date.now(),
+        })
       })
+      return entries
     })
-    return entries
-  }).finally(() => {
-    shardLoads.delete(file)
-  })
+    .finally(() => {
+      shardLoads.delete(file)
+    })
 
   shardLoads.set(file, load)
   return load
@@ -144,6 +122,7 @@ export async function queryDictionaryWord(word: string): Promise<DictionaryResul
   const normalized = normalizeRouteKey(word)
   if (!normalized) return null
   const file = await resolveMainShard(normalized)
+  if (!file) return null
   const entries = await loadMainShard(file)
   const entry = entries.find(item => normalizeRouteKey(item.word) === normalized)
   return entry ? toResult(entry) : null
@@ -154,6 +133,7 @@ export async function queryDictionaryWords(words: string[]): Promise<DictionaryR
   const groups = new Map<string, string[]>()
   for (const word of normalizedWords) {
     const file = await resolveMainShard(word)
+    if (!file) continue
     groups.set(file, [...(groups.get(file) || []), word])
   }
 

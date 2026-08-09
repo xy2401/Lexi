@@ -1,8 +1,7 @@
 /** IndexedDB dictionary cache: Hot bootstrap rows plus on-demand full rows. */
 import Dexie, { type Table } from 'dexie'
-import initSqlJs from 'sql.js'
-import sqlWasmUrl from 'sql.js/dist/sql-wasm.wasm?url'
 import { getDictionaryManifest } from './dictionary-manifest'
+import { fetchJsonLines } from './jsonl-loader'
 import type {
   CachedWordNetLemma,
   CachedWordNetSynset,
@@ -27,6 +26,11 @@ export interface WordEntry {
   cacheLevel: 'hot' | 'full'
   shard?: string
 }
+
+type HotWordRecord = Pick<
+  WordEntry,
+  'word' | 'phonetic' | 'translation' | 'frequency' | 'tags' | 'exchange'
+>
 
 interface DictionaryMeta {
   key: string
@@ -110,35 +114,13 @@ export async function loadHotData(onProgress?: (percent: number) => void): Promi
     return cachedCount
   }
 
-  const SQL = await initSqlJs({ locateFile: () => sqlWasmUrl })
   const shards = Object.entries(manifest.hot)
   let completed = 0
 
   const shardResults = await Promise.all(shards.map(async ([name, meta]) => {
     try {
-      const response = await fetch(`${meta.url}?v=${encodeURIComponent(manifest.version)}`)
-      if (!response.ok) throw new Error(`${name}: HTTP ${response.status}`)
-      const contentType = response.headers.get('content-type') || ''
-      if (contentType.includes('text/html')) throw new Error(`${name}: 收到 HTML fallback`)
-
-      const shardDb = new SQL.Database(new Uint8Array(await response.arrayBuffer()))
-      const statement = shardDb.prepare('SELECT * FROM words')
-      const entries: WordEntry[] = []
-      while (statement.step()) {
-        const row = statement.getAsObject() as Record<string, unknown>
-        entries.push({
-          word: String(row.word || ''),
-          phonetic: String(row.phonetic || ''),
-          translation: String(row.translation || ''),
-          frequency: Number(row.frequency || 0),
-          tags: String(row.tags || ''),
-          exchange: String(row.exchange || ''),
-          cacheLevel: 'hot',
-        })
-      }
-      statement.free()
-      shardDb.close()
-      return entries
+      const records = await fetchJsonLines<HotWordRecord>(meta.url, manifest.version, meta.bytes)
+      return records.map(record => ({ ...record, cacheLevel: 'hot' as const }))
     } finally {
       completed++
       onProgress?.(Math.round(completed / shards.length * 100))
