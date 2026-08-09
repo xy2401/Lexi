@@ -129,6 +129,24 @@ export function getWordNetEntryShard(lemma: string): string {
 }
 
 const suggestionCache = new Map<string, string[]>()
+const lemmaExistenceCache = new Map<string, boolean>()
+
+export async function hasWordNetLemma(rawLemma: string): Promise<boolean> {
+  const lemma = rawLemma.trim().toLowerCase()
+  if (!lemma) return false
+  const cached = lemmaExistenceCache.get(lemma)
+  if (cached !== undefined) return cached
+
+  const rows = await queryWordNetShard<{ found: number }>(getWordNetEntryShard(lemma), `
+    SELECT 1 AS found
+    FROM {db}.wordnet_entries
+    WHERE lemma = ? COLLATE NOCASE
+    LIMIT 1
+  `, [lemma])
+  const exists = rows.length > 0
+  lemmaExistenceCache.set(lemma, exists)
+  return exists
+}
 
 export async function suggestWordNetLemmas(rawPrefix: string, limit = 8): Promise<string[]> {
   const prefix = rawPrefix.trim().toLowerCase()

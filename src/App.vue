@@ -278,9 +278,6 @@ function openWordNet(word: string) {
               </ol>
             </div>
             <p class="word-pos" v-if="explorerEntry.pos">{{ explorerEntry.pos }}</p>
-            <button class="wordnet-link" @click="openWordNet(explorerEntry.word)">
-              查看 “{{ explorerEntry.word }}” 的语义网络 →
-            </button>
           </div>
           <FollowReadPanel
             v-if="explorerEntry"
@@ -293,7 +290,11 @@ function openWordNet(word: string) {
             @recording-start="stop"
             @recording-change="dictionaryRecording = $event"
           />
-          <MorphNebula :entry="explorerEntry" @select-word="handleExplorerSelectWord" />
+          <MorphNebula
+            :entry="explorerEntry"
+            @select-word="handleExplorerSelectWord"
+            @open-wordnet="openWordNet"
+          />
         </div>
       </div>
     </div>
@@ -418,21 +419,6 @@ function openWordNet(word: string) {
   margin-bottom: 1.5rem;
   border-bottom: 2px solid #eee;
   padding-bottom: 0.5rem;
-}
-
-.wordnet-link {
-  margin-top: 0.8rem;
-  padding: 0.55rem 0.85rem;
-  border: 1px solid #087e8b;
-  border-radius: 8px;
-  background: #edf9f8;
-  color: #087e8b;
-  font-weight: 700;
-  cursor: pointer;
-}
-
-.wordnet-link:hover {
-  background: #dff3f2;
 }
 
 .tab-btn {

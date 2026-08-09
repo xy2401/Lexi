@@ -3,8 +3,9 @@
  * MorphNebula - 词族星云图
  * 以选中单词为核心，展示其词族衍生关系
  */
-import { computed } from 'vue'
+import { computed, ref, watch } from 'vue'
 import { parseExchange, EXCHANGE_LABELS } from '../lib/morphology'
+import { hasWordNetLemma } from '../lib/wordnet-service'
 import type { WordEntry } from '../lib/db'
 
 const props = defineProps<{
@@ -13,7 +14,23 @@ const props = defineProps<{
 
 const emit = defineEmits<{
   'select-word': [word: string]
+  'open-wordnet': [word: string]
 }>()
+
+const wordNetAvailable = ref(false)
+let availabilityRequest = 0
+
+watch(() => props.entry?.word, async word => {
+  const request = ++availabilityRequest
+  wordNetAvailable.value = false
+  if (!word) return
+  try {
+    const available = await hasWordNetLemma(word)
+    if (request === availabilityRequest) wordNetAvailable.value = available
+  } catch (error) {
+    console.warn(`[MorphNebula] WordNet 可用性检查失败: "${word}"`, error)
+  }
+}, { immediate: true })
 
 interface NebulaNode {
   label: string
@@ -54,7 +71,12 @@ function getNodeStyle(node: NebulaNode) {
 
 <template>
   <div class="morph-nebula" v-if="entry">
-    <h4>词族星云</h4>
+    <header class="nebula-heading">
+      <h4>词族星云</h4>
+      <button v-if="wordNetAvailable" class="wordnet-link" @click="emit('open-wordnet', entry.word)">
+        语义网络 →
+      </button>
+    </header>
     <div class="nebula-canvas">
       <!-- 中心节点 -->
       <div class="center-node" @click="emit('select-word', entry.word)">
@@ -80,10 +102,38 @@ function getNodeStyle(node: NebulaNode) {
 </template>
 
 <style scoped>
+.nebula-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
 .morph-nebula h4 {
   margin: 0 0 0.5rem;
   font-size: 0.9rem;
   color: #555;
+}
+
+.nebula-heading h4 {
+  margin: 0;
+}
+
+.wordnet-link {
+  padding: 0.24rem 0.55rem;
+  border: 1px solid #9cc9c6;
+  border-radius: 6px;
+  background: #edf9f8;
+  color: #087e8b;
+  font-size: 0.72rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.wordnet-link:hover {
+  border-color: #087e8b;
+  background: #dff3f2;
 }
 
 .nebula-canvas {
