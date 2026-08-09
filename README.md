@@ -59,12 +59,12 @@
 
 - **Vue 3 + TypeScript + Vite**：页面、组件和生产构建
 - **Pinia**：词典加载状态、内存词条索引和全局标签筛选
-- **Dexie / IndexedDB**：持久缓存 Hot 词库与按需获取的完整词条
-- **sql.js-httpvfs**：通过 HTTP Range 按 SQLite 页读取远端词典分片
+- **Dexie / IndexedDB**：持久缓存 Hot、Main 与 WordNet 已下载分片中的有效数据
+- **sql.js**：在浏览器内解析可独立下载的小型 SQLite，不依赖 HTTP Range
 - **Web Speech API**：浏览器本地 TTS 朗读
 - **MediaRecorder + WaveSurfer.js**：跟读录音、波形与频谱展示
 
-应用启动时将 ECDICT Hot 词库载入 IndexedDB 和内存 Map，以支持阅读器的同步标注；未缓存的完整词条再从远端主分片按需获取，并写回本地缓存。Open English WordNet 使用独立 manifest、HTTP VFS worker 和查询缓存，加载失败不会影响 ECDICT。
+三套数据采用同一条基础链路：先查 IndexedDB，未命中时由 manifest 定位一个小型 SQLite，完整下载并用 sql.js 解析，再将该分片内可复用的数据和完成标记放入同一 IndexedDB 事务。Hot、Main 与 WordNet 的加载时机和分片边界各自独立；WordNet 加载失败不会影响 ECDICT。
 
 ---
 
@@ -78,15 +78,14 @@ ECDICT 数据来自仓库中的 `stardict.7z` 完整归档，解压后约 340 �
 
 Hot 词库是从同一完整数据中筛出的 57,818 条高频/考试词汇，负责首屏标注和快速启动。
 
-#### 两字符语义分片
+#### 自适应逻辑分片
 
-完整词典按单词前两位路由：
+构建时先按单词前两位形成有序数据段，再按实际 SQLite 文件大小继续切成不超过 256 KiB 的独立逻辑分片。分片按词典排序规则连续排列，manifest 只记录每片的最后一个单词；查询时用二分查找定位目标文件：
 
 ```text
-apple  → ap.db
-a      → a_.db
-a-     → a_.db
-1st    → __.db
+apple  → ap → 比较各片 lastWord → ap-001.db
+a      → a_ → a_-000.db
+1st    → __ → __-000.db
 ```
 
 每个主分片只有一张完整的 `words` 表：
@@ -109,7 +108,7 @@ CREATE TABLE words (
 ) WITHOUT ROWID;
 ```
 
-构建后执行 `VACUUM` 和 `PRAGMA quick_check`。20MiB 以上给出警告，达到 25MiB 时构建失败。
+分片依据实际字节数而不是固定单词数生成，并保证单个词条不会跨片。构建后执行 `VACUUM` 和 `PRAGMA quick_check`；任何 Main 分片超过 256 KiB 都会导致构建失败。
 
 #### 查询流程
 
@@ -119,9 +118,12 @@ CREATE TABLE words (
        └─ 写入 IndexedDB，供阅读器同步标注
 
 点击未缓存词条
-  └─ 两字符路由到唯一主分片
-       └─ sql.js-httpvfs 使用 HTTP Range 读取所需 4KiB SQLite 页
-            └─ 完整词条写回 IndexedDB
+  └─ 两字符路由 + lastWord 二分查找定位逻辑分片
+       └─ 下载完整小型 SQLite，并用 sql.js 查询全部记录
+            └─ 整片词条与完成标记原子写入 IndexedDB
+
+再次查询同片任意词条
+  └─ 直接读取 IndexedDB，不再下载该 SQLite
 ```
 
 ### Open English WordNet 2025 Core
@@ -134,17 +136,20 @@ CREATE TABLE words (
 
 数据规模为 135,969 个 lexical entries、185,129 个 senses、107,519 个 synsets。项目只使用 Core 数据，不引入 Plus、Namenet 或 Kaikki。
 
-SQLite 按官方 73 个 JSON 文件的逻辑边界生成。数据库共使用六种规范化表：
+官方压缩包中的 73 个 JSON 是源数据边界，不直接等同于部署文件。构建器先生成规范化暂存库，再按访问模式和实际文件大小产生部署分片。数据库共使用六种规范化业务表，另有一张 lemma 路由索引表：
 
 ```text
-entries-*.db
+entries-*-NNN.db
   wordnet_entries
   wordnet_senses
   wordnet_sense_relations
 
-noun.* / verb.* / adj.* / adv.*.db
+noun.*-NNN / verb.*-NNN / adj.*-NNN / adv.*-NNN.db
   wordnet_synsets
   wordnet_synset_relations
+
+index.db
+  wordnet_lemma_index
 
 frames.db
   wordnet_frames
@@ -152,9 +157,16 @@ frames.db
 
 lemma、sense ID、synset ID、关系类型和关系目标均为显式可索引列；只有发音、词形、释义、例句、成员等无需独立检索的数组使用 JSON 列。前端查询层对外只提供 `lookupWordNetLemma()`、`loadWordNetSynset()` 和 `loadWordNetFrames()` 三个业务接口。
 
-WordNet 查询按首字符定位 entry 分片，再根据 sense 行中的 `synset_shard` 定位 canonical synset。关系行携带目标分片和简短摘要，因此绘制一跳网络不需要逐节点请求数据库；点击目标节点时才加载其 canonical synset。
+WordNet 的加载策略按数据职责区分：
 
-所有分片构建后执行 `VACUUM` 和 `PRAGMA quick_check`。20 MiB 以上警告，达到 Cloudflare Pages 25 MiB 单文件限制时构建失败。
+- `index.db`：首次需要 WordNet 时全量导入 IndexedDB，用于存在性检查、自动补全和 lemma 到 entry 分片的路由。
+- entry 分片：目标大小 256 KiB，保证一个 lemma 的 entry、sense 和 sense relation 不跨片；按需整片导入 IndexedDB。
+- synset 分片：目标大小 512 KiB，保证一个 canonical synset 及其关系不跨片；按需整片导入 IndexedDB。
+- `frames.db`：体积很小，首次需要动词句型时全量导入。
+
+sense 行中的 `synset_shard` 直接定位 canonical synset；关系行携带目标分片和简短摘要，因此绘制一跳网络不需要逐节点请求数据库，点击目标节点时才加载其 canonical synset。已下载 entry/synset 分片中的所有业务对象都会持久保存，不会只保留当前查询结果。
+
+所有分片构建后执行 `VACUUM`、`PRAGMA quick_check` 和引用完整性校验。构建器会重新计算最终 `synset_shard` / `target_shard`，并验证 `bank` 的 10 个名词 sense 与 8 个动词 sense。部署不依赖 Cloudflare Pages 返回 `206 Partial Content` 或 `Content-Length`。
 
 Open English WordNet 2025 由 [Open English WordNet](https://en-word.net/) 发布，依照 [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) 使用。
 
@@ -171,8 +183,8 @@ Open English WordNet 2025 由 [Open English WordNet](https://en-word.net/) 发�
 
 ```bash
 npm install
-npm run build:data   # 解压完整归档，生成两字符主分片、Hot 分片和 manifest
-npm run build:wordnet # 下载、校验并构建 73 个 WordNet SQLite 分片
+npm run build:data    # 解压完整归档，生成 Main 逻辑分片、Hot 分片和 manifest
+npm run build:wordnet # 下载、校验 73 个源 JSON，并构建 WordNet 逻辑分片
 npm run dev          # 生成扩展数据并启动 Vite 开发服务器（默认端口 3000）
 npm run build        # 构建 WordNet、生成扩展数据、校验课程并执行 Vite 生产构建
 npm run preview      # 本地预览 dist 生产构建
@@ -182,6 +194,7 @@ npm run preview      # 本地预览 dist 生产构建
 
 ```bash
 npm run build:dict       # 从已解压的 SQLite 数据生成词典分片
+npm run validate:dicts   # 校验两套 manifest、文件大小、记录数、路由引用和 bank 样例
 npm run prepare:wordnet  # 仅下载、校验和解压 OEWN 2025 Core
 npm run build:wordnet    # 准备源数据并构建 WordNet 数据库
 npm run build:extensions # 生成词根、近义词和词族数据集
@@ -202,21 +215,24 @@ public/dicts/
 ├── manifest.json
 ├── wordnet-manifest.json
 ├── main/
-│   ├── __.db
-│   ├── a_.db
-│   ├── aa.db
+│   ├── __-000.db
+│   ├── a_-000.db
+│   ├── aa-000.db
+│   ├── co-000.db
+│   ├── co-001.db
 │   └── ...
 ├── hot/
 │   ├── _.db
 │   ├── a.db
 │   └── ...
 └── wordnet/
-    ├── entries-0.db
-    ├── entries-a.db
-    ├── noun.act.db
-    ├── verb.motion.db
-    ├── adj.all.db
-    ├── adv.all.db
+    ├── index.db
+    ├── entries-0-000.db
+    ├── entries-a-000.db
+    ├── noun.act-000.db
+    ├── verb.motion-000.db
+    ├── adj.all-000.db
+    ├── adv.all-000.db
     ├── frames.db
     └── ...
 ```
@@ -228,9 +244,10 @@ public/dicts/
 ```text
 scripts/
   extract-stardict.mjs           # 解压 ECDICT stardict.7z
-  build-dictionary-shards.mjs    # 构建主分片与 Hot 词库
+  build-dictionary-shards.mjs    # 构建自适应 Main 分片与 Hot 词库
   prepare-wordnet.mjs            # 下载、校验、解压 OEWN 2025 Core
   build-wordnet.mjs              # 构建规范化 WordNet SQLite 分片
+  validate-dictionary-assets.mjs # 校验部署数据库与跨分片引用
   build-extension-datasets.mjs   # 构建词根、近义词、词族数据集
   course-tools.mjs               # 多邻国课程校验与索引构建
 
@@ -254,13 +271,13 @@ src/
     useRecorder.ts               # MediaRecorder 本地录音
   lib/
     dictionary-manifest.ts       # 版本与分片清单
-    http-vfs.ts                  # 单 Worker HTTP Range VFS
-    remote-db.ts                 # 两字符路由与查询接口
-    db.ts                        # Hot/完整词条 IndexedDB 缓存
+    sqlite-loader.ts             # 下载并解析完整小型 SQLite
+    remote-db.ts                 # Main 边界路由、整片导入与查询接口
+    db.ts                        # Hot/Main/WordNet IndexedDB 缓存
     lookup-service.ts            # local-hot/full → remote-main
     wordnet-manifest.ts          # WordNet 版本、统计与分片清单
-    wordnet-http-vfs.ts          # WordNet 独立 HTTP Range worker
-    wordnet-service.ts           # 三个 WordNet 业务查询接口
+    wordnet-types.ts             # WordNet 业务对象与缓存类型
+    wordnet-service.ts           # WordNet 路由、整片导入与三个业务接口
     morphology.ts                # 词形还原与反向索引
     course-markdown.ts           # 课程 Markdown 与练习定义解析
 ```

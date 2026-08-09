@@ -1,14 +1,16 @@
 /**
  * Build Lexi's dictionary assets from the complete ECDICT archive only.
  *
- * Main dictionary: two-character semantic SQLite shards containing complete
- * rows. Hot cache: 27 first-character shards derived from the same source.
+ * Main dictionary: adaptive standalone SQLite shards routed by two-character
+ * prefixes and lexical boundaries. Hot cache: 27 first-character shards
+ * derived from the same source.
  */
 import {
   createReadStream,
   existsSync,
   mkdirSync,
   readFileSync,
+  renameSync,
   rmSync,
   statSync,
   writeFileSync,
@@ -23,14 +25,15 @@ import { getShardName, Progress, log } from './utils.mjs'
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..')
 const SOURCE_CSV = join(ROOT, 'data', 'stardict-raw', 'stardict.csv')
 const DICT_ROOT = join(ROOT, 'public', 'dicts')
+const MAIN_STAGING_DIR = join(ROOT, 'data', 'stardict-raw', '.main-staging')
 const MAIN_DIR = join(DICT_ROOT, 'main')
 const HOT_DIR = join(DICT_ROOT, 'hot')
 const MANIFEST_PATH = join(DICT_ROOT, 'manifest.json')
 
 const PAGE_SIZE = 4096
 const BUFFER_SIZE = 3000
-const WARN_SIZE = 20 * 1024 * 1024
-const MAX_SIZE = 25 * 1024 * 1024
+const MAIN_TARGET_SIZE = 256 * 1024
+const MAIN_INITIAL_SIZE = 224 * 1024
 const HOT_TAGS = ['cet4', 'cet6', 'ielts', 'toefl', 'gre', 'kyan', 'kaoyan']
 
 const MAIN_SCHEMA = `
@@ -199,7 +202,7 @@ async function importSource() {
       const mainRecords = mainBuffers.get(mainName)
       mainRecords.push(row)
       if (mainRecords.length >= BUFFER_SIZE) {
-        flushRecords(join(MAIN_DIR, mainName), MAIN_SCHEMA, MAIN_INSERT, mainRecords)
+        flushRecords(join(MAIN_STAGING_DIR, mainName), MAIN_SCHEMA, MAIN_INSERT, mainRecords)
       }
 
       if (isHotWord(row)) {
@@ -222,7 +225,7 @@ async function importSource() {
     }).pipe(parser)
   })
 
-  flushBufferMap(MAIN_DIR, MAIN_SCHEMA, MAIN_INSERT, mainBuffers)
+  flushBufferMap(MAIN_STAGING_DIR, MAIN_SCHEMA, MAIN_INSERT, mainBuffers)
   flushBufferMap(HOT_DIR, HOT_SCHEMA, HOT_INSERT, hotBuffers)
   progress.done()
   return { sourceRows, hotRows }
@@ -230,7 +233,7 @@ async function importSource() {
 
 function ensureAllShards() {
   for (const name of allMainShardNames()) {
-    const path = join(MAIN_DIR, name)
+    const path = join(MAIN_STAGING_DIR, name)
     if (!existsSync(path)) initializeDatabase(path, MAIN_SCHEMA)
   }
   for (const name of allHotShardNames()) {
@@ -268,36 +271,109 @@ function finalizeShards(directory, names, label) {
   return { entries, totalRows }
 }
 
-function reportMainSizes(entries) {
-  const sorted = Object.entries(entries).sort((a, b) => b[1].bytes - a[1].bytes)
-  log('主词典最大分片（VACUUM 后）:')
-  for (const [name, entry] of sorted.slice(0, 20)) {
-    const mib = entry.bytes / 1024 / 1024
-    const status = entry.bytes >= MAX_SIZE ? 'FAIL' : entry.bytes >= WARN_SIZE ? 'WARN' : 'OK'
-    log(`  ${name.padEnd(8)} ${mib.toFixed(2).padStart(7)} MiB  ${status}`)
+let temporaryShardId = 0
+
+function writeMainCandidate(rows) {
+  const path = join(MAIN_DIR, `.tmp-${temporaryShardId++}.db`)
+  initializeDatabase(path, MAIN_SCHEMA)
+  const db = new Database(path)
+  db.pragma('journal_mode = OFF')
+  db.pragma('synchronous = OFF')
+  const insert = db.prepare(MAIN_INSERT)
+  db.transaction(batch => {
+    for (const row of batch) insert.run(row)
+  })(rows)
+  db.exec('VACUUM')
+  const quickCheck = db.pragma('quick_check', { simple: true })
+  if (quickCheck !== 'ok') throw new Error(`${path} quick_check 失败: ${quickCheck}`)
+  db.close()
+  return { path, bytes: statSync(path).size, rows }
+}
+
+function splitMainCandidate(rows, accepted) {
+  const candidate = writeMainCandidate(rows)
+  if (candidate.bytes <= MAIN_TARGET_SIZE || rows.length <= 1) {
+    accepted.push(candidate)
+    return
   }
 
-  const oversized = sorted.filter(([, entry]) => entry.bytes >= MAX_SIZE)
-  if (oversized.length > 0) {
-    const details = oversized
-      .map(([name, entry]) => `${name} ${(entry.bytes / 1024 / 1024).toFixed(2)} MiB`)
-      .join(', ')
-    throw new Error(`分片达到 Cloudflare 25 MiB 上限: ${details}`)
+  rmSync(candidate.path, { force: true })
+  const middle = Math.ceil(rows.length / 2)
+  splitMainCandidate(rows.slice(0, middle), accepted)
+  splitMainCandidate(rows.slice(middle), accepted)
+}
+
+function buildLogicalMain(sourceEntries) {
+  const entries = {}
+  const routes = {}
+  let totalRows = 0
+
+  for (const sourceName of allMainShardNames()) {
+    const sourcePath = join(MAIN_STAGING_DIR, sourceName)
+    const sourceDb = new Database(sourcePath, { readonly: true })
+    const rows = sourceDb.prepare('SELECT * FROM words ORDER BY word COLLATE NOCASE, word').all()
+    sourceDb.close()
+
+    const sourceBytes = sourceEntries[sourceName].bytes
+    const estimatedPieces = Math.max(1, Math.ceil(sourceBytes / MAIN_INITIAL_SIZE))
+    const batchSize = Math.max(1, Math.ceil(Math.max(1, rows.length) / estimatedPieces))
+    const accepted = []
+
+    if (rows.length === 0) {
+      accepted.push(writeMainCandidate([]))
+    } else {
+      for (let start = 0; start < rows.length; start += batchSize) {
+        splitMainCandidate(rows.slice(start, start + batchSize), accepted)
+      }
+    }
+
+    const stem = sourceName.replace(/\.db$/, '')
+    routes[sourceName] = []
+    accepted.forEach((candidate, index) => {
+      const name = `${stem}-${String(index).padStart(3, '0')}.db`
+      const path = join(MAIN_DIR, name)
+      renameSync(candidate.path, path)
+      const hash = createHash('sha256').update(readFileSync(path)).digest('hex').slice(0, 16)
+      const lastWord = (candidate.rows.at(-1)?.word || '').trim().normalize('NFC').toLowerCase()
+      entries[name] = {
+        url: `/dicts/main/${name}`,
+        bytes: candidate.bytes,
+        rows: candidate.rows.length,
+        hash,
+      }
+      routes[sourceName].push({ lastWord, file: name })
+      totalRows += candidate.rows.length
+    })
+  }
+
+  return { entries, routes, totalRows }
+}
+
+function reportMainSizes(entries) {
+  const sorted = Object.entries(entries).sort((a, b) => b[1].bytes - a[1].bytes)
+  log('主词典最大逻辑分片（VACUUM 后）:')
+  for (const [name, entry] of sorted.slice(0, 20)) {
+    const kib = entry.bytes / 1024
+    const status = entry.bytes > MAIN_TARGET_SIZE ? 'FAIL' : 'OK'
+    log(`  ${name.padEnd(14)} ${kib.toFixed(0).padStart(4)} KiB  ${status}`)
   }
 }
 
-function writeManifest(main, hot, sourceRows, hotRows) {
+function writeManifest(main, mainRoutes, hot, sourceRows, hotRows) {
   const versionHash = createHash('sha256')
   for (const [name, entry] of Object.entries(main).sort()) versionHash.update(`${name}:${entry.hash};`)
   for (const [name, entry] of Object.entries(hot).sort()) versionHash.update(`${name}:${entry.hash};`)
 
   const manifest = {
+    schemaVersion: 2,
     version: versionHash.digest('hex').slice(0, 16),
     source: 'ECDICT/stardict.7z',
     pageSize: PAGE_SIZE,
     sourceRows,
     hotRows,
+    mainTargetBytes: MAIN_TARGET_SIZE,
     main,
+    mainRoutes,
     hot,
   }
   writeFileSync(MANIFEST_PATH, JSON.stringify(manifest))
@@ -305,17 +381,20 @@ function writeManifest(main, hot, sourceRows, hotRows) {
 }
 
 async function main() {
-  log('重建两字符主词典与 Hot 缓存 ...')
+  log('重建自适应逻辑主词典与 Hot 缓存 ...')
+  rmSync(MAIN_STAGING_DIR, { recursive: true, force: true })
   rmSync(MAIN_DIR, { recursive: true, force: true })
   rmSync(HOT_DIR, { recursive: true, force: true })
   if (existsSync(MANIFEST_PATH)) rmSync(MANIFEST_PATH, { force: true })
+  mkdirSync(MAIN_STAGING_DIR, { recursive: true })
   mkdirSync(MAIN_DIR, { recursive: true })
   mkdirSync(HOT_DIR, { recursive: true })
 
   const imported = await importSource()
   ensureAllShards()
 
-  const mainResult = finalizeShards(MAIN_DIR, allMainShardNames(), 'main')
+  const sourceMainResult = finalizeShards(MAIN_STAGING_DIR, allMainShardNames(), 'main')
+  const mainResult = buildLogicalMain(sourceMainResult.entries)
   const hotResult = finalizeShards(HOT_DIR, allHotShardNames(), 'hot')
   reportMainSizes(mainResult.entries)
 
@@ -328,11 +407,13 @@ async function main() {
 
   const manifest = writeManifest(
     mainResult.entries,
+    mainResult.routes,
     hotResult.entries,
     imported.sourceRows,
     imported.hotRows,
   )
-  log(`主词条: ${mainResult.totalRows}，主分片: ${Object.keys(mainResult.entries).length}`)
+  rmSync(MAIN_STAGING_DIR, { recursive: true, force: true })
+  log(`主词条: ${mainResult.totalRows}，逻辑分片: ${Object.keys(mainResult.entries).length}`)
   log(`Hot 词条: ${hotResult.totalRows}，Hot 分片: ${Object.keys(hotResult.entries).length}`)
   log(`词典版本: ${manifest.version}`)
 }

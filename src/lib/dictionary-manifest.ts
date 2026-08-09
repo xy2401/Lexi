@@ -5,13 +5,21 @@ export interface DictionaryShardMeta {
   hash: string
 }
 
+export interface DictionaryMainRoute {
+  lastWord: string
+  file: string
+}
+
 export interface DictionaryManifest {
+  schemaVersion: number
   version: string
   source: string
   pageSize: number
   sourceRows: number
   hotRows: number
+  mainTargetBytes: number
   main: Record<string, DictionaryShardMeta>
+  mainRoutes: Record<string, DictionaryMainRoute[]>
   hot: Record<string, DictionaryShardMeta>
 }
 
@@ -28,7 +36,11 @@ export function getDictionaryManifest(): Promise<DictionaryManifest> {
         if (contentType.includes('text/html')) {
           throw new Error('词典 manifest 不存在 (返回了 HTML 页面)。请先运行 \`npm run build:data\` 生成词典数据。')
         }
-        return response.json() as Promise<DictionaryManifest>
+        const manifest = await response.json() as DictionaryManifest
+        if (manifest.schemaVersion !== 2 || !manifest.mainRoutes) {
+          throw new Error('词典 manifest 格式不受支持，请重新运行 `npm run build:data`。')
+        }
+        return manifest
       })
       .catch(error => {
         manifestPromise = null

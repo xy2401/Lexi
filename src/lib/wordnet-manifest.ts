@@ -1,5 +1,5 @@
 export interface WordNetManifestFile {
-  kind: 'entries' | 'synsets' | 'frames'
+  kind: 'index' | 'entries' | 'synsets' | 'frames'
   url: string
   bytes: number
   sha256: string
@@ -8,6 +8,7 @@ export interface WordNetManifestFile {
   synsets?: number
   relations?: number
   frames?: number
+  lemmas?: number
 }
 
 export interface WordNetManifest {
@@ -22,6 +23,8 @@ export interface WordNetManifest {
     licenseUrl: string
   }
   pageSize: number
+  entryTargetBytes: number
+  synsetTargetBytes: number
   generatedAt: string
   stats: {
     lexicalEntries: number
@@ -49,7 +52,7 @@ export function getWordNetManifest(): Promise<WordNetManifest> {
           throw new Error('WordNet manifest 不存在（收到 HTML fallback）。请运行 `npm run build:wordnet`。')
         }
         const manifest = await response.json() as WordNetManifest
-        if (manifest.schemaVersion !== 1 || !manifest.files || !manifest.version) {
+        if (manifest.schemaVersion !== 2 || !manifest.files?.['index.db'] || !manifest.version) {
           throw new Error('WordNet manifest 格式不受支持')
         }
         return manifest

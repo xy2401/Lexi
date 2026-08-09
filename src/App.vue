@@ -353,11 +353,11 @@ function openWordNet(word: string) {
             </div>
             <div class="db-row">
               <span class="db-label">数据库</span>
-              <span class="db-value">lexi-dict v2 (IndexedDB/Dexie)</span>
+              <span class="db-value">lexi-dict v3 (IndexedDB/Dexie)</span>
             </div>
             <div class="db-row">
               <span class="db-label">远端词典</span>
-              <span class="db-value">两字符语义分片（HTTP Range 按 SQLite 页读取）</span>
+              <span class="db-value">自适应逻辑分片（整片解析并持久缓存）</span>
             </div>
 
             <h4 class="db-sub-title">标签分布</h4>

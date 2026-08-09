@@ -1,11 +1,8 @@
 # Cloudflare Pages 自定义响应头
 
-# SQLite 语义分片：支持 Range Requests + CORS
+# 词典逻辑分片：普通静态文件请求 + CORS
 /dicts/*
   Access-Control-Allow-Origin: *
-  Access-Control-Expose-Headers: Accept-Ranges, Content-Length, Content-Range
-  Accept-Ranges: bytes
-  Cache-Control: public, max-age=86400
 
 /dicts/manifest.json
   Cache-Control: no-cache

@@ -3,6 +3,12 @@ import Dexie, { type Table } from 'dexie'
 import initSqlJs from 'sql.js'
 import sqlWasmUrl from 'sql.js/dist/sql-wasm.wasm?url'
 import { getDictionaryManifest } from './dictionary-manifest'
+import type {
+  CachedWordNetLemma,
+  CachedWordNetSynset,
+  WordNetFrame,
+  WordNetLemmaIndexEntry,
+} from './wordnet-types'
 
 export interface WordEntry {
   word: string
@@ -19,6 +25,7 @@ export interface WordEntry {
   detail?: string
   audio?: string
   cacheLevel: 'hot' | 'full'
+  shard?: string
 }
 
 interface DictionaryMeta {
@@ -26,9 +33,21 @@ interface DictionaryMeta {
   value: string
 }
 
+export interface ImportedShard {
+  id: string
+  dictionary: 'main' | 'wordnet-index' | 'wordnet-entry' | 'wordnet-synset' | 'wordnet-frame'
+  version: string
+  importedAt: number
+}
+
 class LexiDB extends Dexie {
   words!: Table<WordEntry, string>
   meta!: Table<DictionaryMeta, string>
+  shards!: Table<ImportedShard, string>
+  wordnetIndex!: Table<WordNetLemmaIndexEntry, string>
+  wordnetLemmas!: Table<CachedWordNetLemma, string>
+  wordnetSynsets!: Table<CachedWordNetSynset, string>
+  wordnetFrames!: Table<WordNetFrame, string>
 
   constructor() {
     super('lexi-dict')
@@ -38,6 +57,15 @@ class LexiDB extends Dexie {
     this.version(2).stores({
       words: 'word, frequency, tags',
       meta: 'key',
+    })
+    this.version(3).stores({
+      words: 'word, frequency, tags, shard',
+      meta: 'key',
+      shards: 'id, dictionary, version',
+      wordnetIndex: 'key, lemma, entryShard',
+      wordnetLemmas: 'key, shard',
+      wordnetSynsets: 'id, shard, pos',
+      wordnetFrames: 'id',
     })
   }
 }
@@ -50,6 +78,11 @@ export async function lookupLocal(word: string): Promise<WordEntry | undefined> 
 
 export async function cacheWords(entries: WordEntry[]): Promise<void> {
   await db.words.bulkPut(entries)
+}
+
+export async function isShardImported(id: string, version: string): Promise<boolean> {
+  const record = await db.shards.get(id)
+  return record?.version === version
 }
 
 export async function getWordCount(): Promise<number> {
@@ -113,8 +146,9 @@ export async function loadHotData(onProgress?: (percent: number) => void): Promi
   }))
 
   const hotEntries = shardResults.flat()
-  await db.transaction('rw', db.words, db.meta, async () => {
+  await db.transaction('rw', db.words, db.meta, db.shards, async () => {
     await db.words.clear()
+    await db.shards.where('dictionary').equals('main').delete()
     await db.words.bulkPut(hotEntries)
     await db.meta.put({ key: 'dictionaryVersion', value: manifest.version })
   })

@@ -1,10 +1,11 @@
-/** Build normalized, HTTP-Range-friendly SQLite shards from OEWN 2025 JSON. */
+/** Build normalized, independently downloadable SQLite shards from OEWN 2025 JSON. */
 import { createHash } from 'node:crypto'
 import {
   existsSync,
   mkdirSync,
   readFileSync,
   readdirSync,
+  renameSync,
   rmSync,
   statSync,
   writeFileSync,
@@ -21,8 +22,13 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..')
 const SOURCE_DIR = process.env.OEWN_SOURCE_DIR || join(ROOT, 'data', 'wordnet-raw', 'extracted')
 const OUTPUT_ROOT = join(ROOT, 'public', 'dicts')
 const OUTPUT_DIR = join(OUTPUT_ROOT, 'wordnet')
+const STAGING_DIR = join(ROOT, 'data', 'wordnet-raw', '.sqlite-staging')
 const MANIFEST_PATH = join(OUTPUT_ROOT, 'wordnet-manifest.json')
 const PAGE_SIZE = 4096
+const ENTRY_TARGET_SIZE = 256 * 1024
+const ENTRY_SPLIT_SIZE = 208 * 1024
+const SYNSET_TARGET_SIZE = 512 * 1024
+const SYNSET_SPLIT_SIZE = 448 * 1024
 const WARN_SIZE = 20 * 1024 * 1024
 const MAX_SIZE = 25 * 1024 * 1024
 const EXPECTED = { lexicalEntries: 135969, senses: 185129, synsets: 107519, sourceFiles: 73 }
@@ -159,7 +165,9 @@ for (const [key, expected] of Object.entries(EXPECTED)) {
   if (actual !== expected) throw new Error(`${key} 数量不符：预期 ${expected}，实际 ${actual}`)
 }
 
+rmSync(STAGING_DIR, { recursive: true, force: true })
 rmSync(OUTPUT_DIR, { recursive: true, force: true })
+mkdirSync(STAGING_DIR, { recursive: true })
 mkdirSync(OUTPUT_DIR, { recursive: true })
 
 const manifestFiles = {}
@@ -215,7 +223,7 @@ const ENTRY_SCHEMA = `
 
 for (const sourceName of entryFiles) {
   const outputName = dbName(sourceName)
-  const outputPath = join(OUTPUT_DIR, outputName)
+  const outputPath = join(STAGING_DIR, outputName)
   const db = new Database(outputPath)
   configure(db)
   db.exec(ENTRY_SCHEMA)
@@ -299,7 +307,7 @@ const SYNSET_SCHEMA = `
 
 for (const sourceName of synsetFiles) {
   const outputName = dbName(sourceName)
-  const outputPath = join(OUTPUT_DIR, outputName)
+  const outputPath = join(STAGING_DIR, outputName)
   const db = new Database(outputPath)
   configure(db)
   db.exec(SYNSET_SCHEMA)
@@ -356,7 +364,7 @@ for (const sourceName of synsetFiles) {
 {
   const sourceName = 'frames.json'
   const outputName = 'frames.db'
-  const outputPath = join(OUTPUT_DIR, outputName)
+  const outputPath = join(STAGING_DIR, outputName)
   const db = new Database(outputPath)
   configure(db)
   db.exec(`CREATE TABLE wordnet_frames (
@@ -378,7 +386,7 @@ for (const sourceName of synsetFiles) {
 }
 
 function validateKnownSamples() {
-  const bankDb = new Database(join(OUTPUT_DIR, 'entries-b.db'), { readonly: true })
+  const bankDb = new Database(join(STAGING_DIR, 'entries-b.db'), { readonly: true })
   const bankCounts = bankDb.prepare(`
     SELECT pos, count(*) AS count
     FROM wordnet_senses
@@ -397,10 +405,316 @@ function validateKnownSamples() {
 
 validateKnownSamples()
 
+function routeKey(value) {
+  return scalar(value).trim().normalize('NFC').toLowerCase()
+}
+
+let temporaryId = 0
+
+function entryEntities(sourceName) {
+  const db = new Database(join(STAGING_DIR, sourceName), { readonly: true })
+  const entries = db.prepare('SELECT * FROM wordnet_entries ORDER BY lemma COLLATE NOCASE, lemma, pos').all()
+  const senses = db.prepare('SELECT * FROM wordnet_senses ORDER BY lemma COLLATE NOCASE, lemma, pos, sense_order').all()
+  const relations = db.prepare('SELECT * FROM wordnet_sense_relations ORDER BY source_sense_id, relation_type, target_sense_id').all()
+  db.close()
+
+  const entities = new Map()
+  const senseKeys = new Map()
+  for (const entry of entries) {
+    const key = routeKey(entry.lemma)
+    if (!entities.has(key)) entities.set(key, { key, entries: [], senses: [], relations: [] })
+    entities.get(key).entries.push(entry)
+  }
+  for (const sense of senses) {
+    const key = routeKey(sense.lemma)
+    const entity = entities.get(key)
+    if (!entity) throw new Error(`${sourceName}: sense 的 lemma 不存在：${sense.lemma}`)
+    entity.senses.push(sense)
+    senseKeys.set(sense.sense_id, key)
+  }
+  for (const relation of relations) {
+    const key = senseKeys.get(relation.source_sense_id)
+    if (!key) throw new Error(`${sourceName}: sense relation 来源不存在：${relation.source_sense_id}`)
+    entities.get(key).relations.push(relation)
+  }
+  return [...entities.values()].sort((a, b) => a.key < b.key ? -1 : a.key > b.key ? 1 : 0)
+}
+
+function writeEntryCandidate(entities) {
+  const path = join(OUTPUT_DIR, `.tmp-entry-${temporaryId++}.db`)
+  const db = new Database(path)
+  configure(db)
+  db.exec(ENTRY_SCHEMA)
+  const insertEntry = db.prepare(`INSERT INTO wordnet_entries
+    (lemma, pos, pronunciations_json, forms_json) VALUES (?, ?, ?, ?)`)
+  const insertSense = db.prepare(`INSERT INTO wordnet_senses
+    (sense_id, lemma, pos, sense_order, synset_id, synset_shard, synset_label,
+     synset_gloss, adj_position, subcat_json, sent_json)
+    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`)
+  const insertRelation = db.prepare(`INSERT INTO wordnet_sense_relations
+    (source_sense_id, relation_type, target_sense_id, target_shard,
+     target_lemma, target_pos, inferred) VALUES (?, ?, ?, ?, ?, ?, ?)`)
+  db.transaction(() => {
+    for (const entity of entities) {
+      for (const row of entity.entries) insertEntry.run(row.lemma, row.pos, row.pronunciations_json, row.forms_json)
+      for (const row of entity.senses) insertSense.run(
+        row.sense_id, row.lemma, row.pos, row.sense_order, row.synset_id,
+        row.synset_shard, row.synset_label, row.synset_gloss, row.adj_position,
+        row.subcat_json, row.sent_json,
+      )
+      for (const row of entity.relations) insertRelation.run(
+        row.source_sense_id, row.relation_type, row.target_sense_id,
+        row.target_shard, row.target_lemma, row.target_pos, row.inferred,
+      )
+    }
+  })()
+  const bytes = finishDatabase(db, path)
+  return { path, bytes, entities }
+}
+
+function splitEntryCandidates(entities, accepted) {
+  const candidate = writeEntryCandidate(entities)
+  if (candidate.bytes <= ENTRY_SPLIT_SIZE || entities.length <= 1) {
+    accepted.push(candidate)
+    return
+  }
+  rmSync(candidate.path, { force: true })
+  const middle = Math.ceil(entities.length / 2)
+  splitEntryCandidates(entities.slice(0, middle), accepted)
+  splitEntryCandidates(entities.slice(middle), accepted)
+}
+
+function synsetEntities(sourceName) {
+  const db = new Database(join(STAGING_DIR, sourceName), { readonly: true })
+  const synsetRows = db.prepare('SELECT * FROM wordnet_synsets ORDER BY synset_id').all()
+  const relationRows = db.prepare('SELECT * FROM wordnet_synset_relations ORDER BY source_synset_id, relation_type, target_synset_id').all()
+  db.close()
+  const entities = new Map(synsetRows.map(row => [row.synset_id, { row, relations: [] }]))
+  for (const relation of relationRows) {
+    const entity = entities.get(relation.source_synset_id)
+    if (!entity) throw new Error(`${sourceName}: synset relation 来源不存在：${relation.source_synset_id}`)
+    entity.relations.push(relation)
+  }
+  return [...entities.values()]
+}
+
+function writeSynsetCandidate(entities) {
+  const path = join(OUTPUT_DIR, `.tmp-synset-${temporaryId++}.db`)
+  const db = new Database(path)
+  configure(db)
+  db.exec(SYNSET_SCHEMA)
+  const insertSynset = db.prepare(`INSERT INTO wordnet_synsets
+    (synset_id, pos, semantic_category, definitions_json, examples_json,
+     members_json, ili, wikidata, source_json) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)`)
+  const insertRelation = db.prepare(`INSERT INTO wordnet_synset_relations
+    (source_synset_id, relation_type, target_synset_id, target_shard, target_pos,
+     target_label, target_gloss, inferred) VALUES (?, ?, ?, ?, ?, ?, ?, ?)`)
+  db.transaction(() => {
+    for (const entity of entities) {
+      const row = entity.row
+      insertSynset.run(
+        row.synset_id, row.pos, row.semantic_category, row.definitions_json,
+        row.examples_json, row.members_json, row.ili, row.wikidata, row.source_json,
+      )
+      for (const relation of entity.relations) insertRelation.run(
+        relation.source_synset_id, relation.relation_type, relation.target_synset_id,
+        relation.target_shard, relation.target_pos, relation.target_label,
+        relation.target_gloss, relation.inferred,
+      )
+    }
+  })()
+  const bytes = finishDatabase(db, path)
+  return { path, bytes, entities }
+}
+
+function splitSynsetCandidates(entities, accepted) {
+  const candidate = writeSynsetCandidate(entities)
+  if (candidate.bytes <= SYNSET_SPLIT_SIZE || entities.length <= 1) {
+    accepted.push(candidate)
+    return
+  }
+  rmSync(candidate.path, { force: true })
+  const middle = Math.ceil(entities.length / 2)
+  splitSynsetCandidates(entities.slice(0, middle), accepted)
+  splitSynsetCandidates(entities.slice(middle), accepted)
+}
+
+const finalFiles = {}
+const finalEntryFiles = []
+const finalSynsetFiles = []
+const finalSenseShards = new Map()
+const finalSynsetShards = new Map()
+const lemmaIndex = new Map()
+
+log('按完整 lemma 构建自适应 entry 逻辑分片')
+for (const sourceName of entryFiles) {
+  const entities = entryEntities(dbName(sourceName))
+  const sourceBytes = manifestFiles[dbName(sourceName)].bytes
+  const estimatedPieces = Math.max(1, Math.ceil(sourceBytes / ENTRY_SPLIT_SIZE))
+  const batchSize = Math.max(1, Math.ceil(entities.length / estimatedPieces))
+  const accepted = []
+  for (let start = 0; start < entities.length; start += batchSize) {
+    splitEntryCandidates(entities.slice(start, start + batchSize), accepted)
+  }
+  const stem = dbName(sourceName).replace(/\.db$/, '')
+  accepted.forEach((candidate, index) => {
+    const name = `${stem}-${String(index).padStart(3, '0')}.db`
+    renameSync(candidate.path, join(OUTPUT_DIR, name))
+    finalEntryFiles.push(name)
+    for (const entity of candidate.entities) {
+      const displayLemma = entity.entries.find(row => row.lemma === entity.key)?.lemma
+        || entity.entries[0]?.lemma || entity.key
+      lemmaIndex.set(entity.key, { lemma: displayLemma, entryShard: name })
+      for (const sense of entity.senses) finalSenseShards.set(sense.sense_id, name)
+    }
+  })
+}
+
+log('按完整 synset 构建自适应语义逻辑分片')
+for (const sourceName of synsetFiles) {
+  const sourceDbName = dbName(sourceName)
+  const entities = synsetEntities(sourceDbName)
+  const sourceBytes = manifestFiles[sourceDbName].bytes
+  const estimatedPieces = Math.max(1, Math.ceil(sourceBytes / SYNSET_SPLIT_SIZE))
+  const batchSize = Math.max(1, Math.ceil(entities.length / estimatedPieces))
+  const accepted = []
+  for (let start = 0; start < entities.length; start += batchSize) {
+    splitSynsetCandidates(entities.slice(start, start + batchSize), accepted)
+  }
+  const stem = sourceDbName.replace(/\.db$/, '')
+  accepted.forEach((candidate, index) => {
+    const name = `${stem}-${String(index).padStart(3, '0')}.db`
+    renameSync(candidate.path, join(OUTPUT_DIR, name))
+    finalSynsetFiles.push(name)
+    for (const entity of candidate.entities) finalSynsetShards.set(entity.row.synset_id, name)
+  })
+}
+
+function finalizeLogicalFile(name, kind, maxBytes) {
+  const path = join(OUTPUT_DIR, name)
+  const db = new Database(path)
+  configure(db)
+  let meta
+  if (kind === 'entries') {
+    const updateSense = db.prepare('UPDATE wordnet_senses SET synset_shard = ? WHERE sense_id = ?')
+    const updateRelation = db.prepare(`UPDATE wordnet_sense_relations
+      SET target_shard = ? WHERE source_sense_id = ? AND relation_type = ? AND target_sense_id = ?`)
+    db.transaction(() => {
+      for (const row of db.prepare('SELECT sense_id, synset_id FROM wordnet_senses').all()) {
+        const shard = finalSynsetShards.get(row.synset_id)
+        if (!shard) throw new Error(`${row.sense_id}: 最终 synset 分片不存在：${row.synset_id}`)
+        updateSense.run(shard, row.sense_id)
+      }
+      for (const row of db.prepare(`SELECT source_sense_id, relation_type, target_sense_id
+        FROM wordnet_sense_relations`).all()) {
+        const shard = finalSenseShards.get(row.target_sense_id)
+        if (!shard) throw new Error(`${row.source_sense_id}: 最终 sense 分片不存在：${row.target_sense_id}`)
+        updateRelation.run(shard, row.source_sense_id, row.relation_type, row.target_sense_id)
+      }
+    })()
+    meta = {
+      kind,
+      entries: db.prepare('SELECT count(*) AS count FROM wordnet_entries').get().count,
+      senses: db.prepare('SELECT count(*) AS count FROM wordnet_senses').get().count,
+      relations: db.prepare('SELECT count(*) AS count FROM wordnet_sense_relations').get().count,
+    }
+  } else {
+    const updateRelation = db.prepare(`UPDATE wordnet_synset_relations
+      SET target_shard = ? WHERE source_synset_id = ? AND relation_type = ? AND target_synset_id = ?`)
+    db.transaction(() => {
+      for (const row of db.prepare(`SELECT source_synset_id, relation_type, target_synset_id
+        FROM wordnet_synset_relations`).all()) {
+        const shard = finalSynsetShards.get(row.target_synset_id)
+        if (!shard) throw new Error(`${row.source_synset_id}: 最终 synset 目标不存在：${row.target_synset_id}`)
+        updateRelation.run(shard, row.source_synset_id, row.relation_type, row.target_synset_id)
+      }
+    })()
+    meta = {
+      kind,
+      synsets: db.prepare('SELECT count(*) AS count FROM wordnet_synsets').get().count,
+      relations: db.prepare('SELECT count(*) AS count FROM wordnet_synset_relations').get().count,
+    }
+  }
+  db.exec('VACUUM')
+  const quickCheck = db.pragma('quick_check', { simple: true })
+  db.close()
+  if (quickCheck !== 'ok') throw new Error(`${name}: quick_check 失败：${quickCheck}`)
+  const bytes = statSync(path).size
+  if (bytes > maxBytes) throw new Error(`${name}: ${bytes} bytes，超过逻辑分片上限 ${maxBytes}`)
+  finalFiles[name] = {
+    ...meta,
+    url: `/dicts/wordnet/${name}`,
+    bytes,
+    sha256: digestFile(path),
+  }
+}
+
+for (const name of finalEntryFiles) finalizeLogicalFile(name, 'entries', ENTRY_TARGET_SIZE)
+for (const name of finalSynsetFiles) finalizeLogicalFile(name, 'synsets', SYNSET_TARGET_SIZE)
+
+{
+  const name = 'index.db'
+  const path = join(OUTPUT_DIR, name)
+  const db = new Database(path)
+  configure(db)
+  db.exec(`CREATE TABLE wordnet_lemma_index (
+    lemma_key TEXT PRIMARY KEY,
+    lemma TEXT NOT NULL,
+    entry_shard TEXT NOT NULL
+  ) WITHOUT ROWID`)
+  const insert = db.prepare('INSERT INTO wordnet_lemma_index (lemma_key, lemma, entry_shard) VALUES (?, ?, ?)')
+  db.transaction(() => {
+    for (const [key, value] of [...lemmaIndex].sort((a, b) => a[0] < b[0] ? -1 : 1)) {
+      insert.run(key, value.lemma, value.entryShard)
+    }
+  })()
+  const bytes = finishDatabase(db, path)
+  finalFiles[name] = {
+    kind: 'index', url: `/dicts/wordnet/${name}`, bytes,
+    sha256: digestFile(path), lemmas: lemmaIndex.size,
+  }
+}
+
+{
+  const name = 'frames.db'
+  const sourceDb = new Database(join(STAGING_DIR, name), { readonly: true })
+  const rows = sourceDb.prepare('SELECT frame_id, template FROM wordnet_frames ORDER BY frame_id').all()
+  sourceDb.close()
+  const path = join(OUTPUT_DIR, name)
+  const db = new Database(path)
+  configure(db)
+  db.exec(`CREATE TABLE wordnet_frames (
+    frame_id TEXT PRIMARY KEY,
+    template TEXT NOT NULL
+  ) WITHOUT ROWID`)
+  const insert = db.prepare('INSERT INTO wordnet_frames (frame_id, template) VALUES (?, ?)')
+  db.transaction(() => { for (const row of rows) insert.run(row.frame_id, row.template) })()
+  const bytes = finishDatabase(db, path)
+  finalFiles[name] = {
+    kind: 'frames', url: `/dicts/wordnet/${name}`, bytes,
+    sha256: digestFile(path), frames: rows.length,
+  }
+}
+
+function validateFinalSamples() {
+  const indexDb = new Database(join(OUTPUT_DIR, 'index.db'), { readonly: true })
+  const bank = indexDb.prepare(`SELECT entry_shard FROM wordnet_lemma_index WHERE lemma_key = 'bank'`).get()
+  indexDb.close()
+  if (!bank) throw new Error('最终索引缺少 bank')
+  const bankDb = new Database(join(OUTPUT_DIR, bank.entry_shard), { readonly: true })
+  const counts = bankDb.prepare(`SELECT pos, count(*) AS count FROM wordnet_senses
+    WHERE lemma = 'bank' COLLATE NOCASE GROUP BY pos`).all()
+  bankDb.close()
+  const byPos = Object.fromEntries(counts.map(row => [row.pos, row.count]))
+  if (byPos.n !== 10 || byPos.v !== 8) throw new Error(`最终 bank 校验失败：${JSON.stringify(byPos)}`)
+}
+
+validateFinalSamples()
+
 const versionHash = createHash('sha256')
-for (const name of Object.keys(manifestFiles).sort()) versionHash.update(manifestFiles[name].sha256)
+for (const name of Object.keys(finalFiles).sort()) versionHash.update(finalFiles[name].sha256)
 const manifest = {
-  schemaVersion: 1,
+  schemaVersion: 2,
   version: `${WORDNET_VERSION}-${versionHash.digest('hex').slice(0, 12)}`,
   source: {
     name: 'Open English WordNet', version: WORDNET_VERSION,
@@ -408,9 +722,12 @@ const manifest = {
     license: 'CC BY 4.0', licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
   },
   pageSize: PAGE_SIZE,
+  entryTargetBytes: ENTRY_TARGET_SIZE,
+  synsetTargetBytes: SYNSET_TARGET_SIZE,
   generatedAt: new Date().toISOString(),
   stats,
-  files: manifestFiles,
+  files: finalFiles,
 }
 writeFileSync(MANIFEST_PATH, JSON.stringify(manifest))
-log(`完成：${Object.keys(manifestFiles).length} 个 SQLite，manifest ${manifest.version}`)
+rmSync(STAGING_DIR, { recursive: true, force: true })
+log(`完成：${Object.keys(finalFiles).length} 个逻辑 SQLite，manifest ${manifest.version}`)

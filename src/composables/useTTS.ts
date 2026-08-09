@@ -43,38 +43,6 @@ export function useTTS() {
     }, 200)
   }
 
-  // 加载可用语音
-  function loadVoices() {
-    if (!('speechSynthesis' in window)) return
-    const v = speechSynthesis.getVoices()
-    if (v.length === 0) return
-    // 优先英文语音
-    const en = v.filter(voice => voice.lang.startsWith('en'))
-    if (en.length > 0) {
-      voices.value = en
-      if (!selectedVoice.value) {
-        selectedVoice.value = en[0].name
-      }
-    }
-  }
-
-  // Chrome/Edge 首次 getVoices() 返回空数组，需要多策略兜底
-  if ('speechSynthesis' in window) {
-    loadVoices()
-    // 用 addEventListener 避免多组件覆盖
-    speechSynthesis.addEventListener('voiceschanged', loadVoices)
-    // 轮询兜底：某些 Chrome 版本不触发 voiceschanged
-    let retries = 0
-    const timer = setInterval(() => {
-      if (voices.value.length > 0 || retries > 10) {
-        clearInterval(timer)
-        return
-      }
-      loadVoices()
-      retries++
-    }, 200)
-  }
-
   /**
    * 朗读文本
    * @param text 要朗读的文本

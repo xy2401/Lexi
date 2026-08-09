@@ -2,7 +2,7 @@
 /**
  * ExplorerTree - 词典浏览
  * 本地模式：A-Z 直接过滤 IndexedDB（无需二级前缀）
- * 远端模式：A-Z → 两字符语义分片 → HTTP Range 分页查询
+ * 完整模式：A-Z → 有序逻辑分片 → 整片入库后分页查询
  */
 import { ref, computed } from 'vue'
 import { listDictionaryShard, type DictionaryResult } from '../lib/remote-db'
