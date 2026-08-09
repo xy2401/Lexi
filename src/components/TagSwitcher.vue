@@ -1,7 +1,5 @@
 <script setup lang="ts">
-/**
- * TagSwitcher - 标签筛选器组件 (原生字符 + 1.2rem 充裕定宽 0 抖动版)
- */
+/** TagSwitcher - 三态标签筛选器，状态切换保持按钮尺寸不变。 */
 import {
   TAG_OPTIONS,
   useDictStore,
@@ -44,7 +42,6 @@ function buttonLabel(tag: DictionaryTagId, label: string): string {
         type="button"
         @click="dictStore.cycleTagState(tag.id)"
       >
-        <!-- 给足 1.2rem 定宽，居中容纳字符，绝对不会挤压标签文本 -->
         <span class="state-icon" aria-hidden="true">
           {{ markerFor(dictStore.tagStates[tag.id]) }}
         </span>
@@ -78,12 +75,12 @@ function buttonLabel(tag: DictionaryTagId, label: string): string {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: 0.6rem 1rem;
+  gap: 0.45rem 0.7rem;
   background: #fff;
   border: 1px solid #e2e8f0;
   border-radius: 8px;
-  padding: 0.6rem 1rem;
-  margin-bottom: 1rem;
+  padding: 0.45rem 0.7rem;
+  margin-bottom: 0.75rem;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
   width: 100%;
   box-sizing: border-box;
@@ -100,20 +97,21 @@ function buttonLabel(tag: DictionaryTagId, label: string): string {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: 0.4rem;
+  gap: 0.3rem;
   flex: 1;
 }
 
 .tag-btn {
   display: inline-flex;
   align-items: center;
-  gap: 0.15rem;
-  padding: 0.25rem 0.65rem;
+  gap: 0.08rem;
+  height: 1.7rem;
+  padding: 0 0.42rem;
   border: 1px solid #cbd5e1;
   border-radius: 14px;
   background: #f8fafc;
   color: #334155;
-  font-size: 0.8rem;
+  font-size: 0.76rem;
   font-weight: 500;
   white-space: nowrap;
   cursor: pointer;
@@ -138,20 +136,18 @@ function buttonLabel(tag: DictionaryTagId, label: string): string {
   color: #fff;
 }
 
-/* 充裕 1.2rem 显式定宽，居中呈现原生字符 · ✓ ✕，容器自身绝不发生尺寸改变 */
 .state-icon {
-  display: inline-block;
-  width: 1.2rem;
-  flex: 0 0 1.2rem;
-  text-align: center;
+  display: inline-grid;
+  place-items: center;
+  width: 0.8rem;
+  flex: 0 0 0.8rem;
   font-weight: 700;
-  font-size: 0.85rem;
+  font-size: 0.78rem;
   line-height: 1;
 }
 
 .tag-btn.is-neutral .state-icon {
   color: #94a3b8;
-  font-size: 0.95rem;
 }
 
 .tag-btn.is-include .state-icon,
@@ -163,17 +159,18 @@ function buttonLabel(tag: DictionaryTagId, label: string): string {
 .reset-btn {
   display: inline-flex;
   align-items: center;
-  gap: 0.2rem;
-  padding: 0.22rem 0.6rem;
+  gap: 0.12rem;
+  height: 1.7rem;
+  padding: 0 0.45rem;
   border: 1px solid #cbd5e1;
   border-radius: 14px;
   background: #fff;
   color: #64748b;
-  font-size: 0.78rem;
+  font-size: 0.74rem;
   font-weight: 500;
   cursor: pointer;
   transition: all 0.15s ease;
-  margin-left: 0.25rem;
+  margin-left: 0.1rem;
 }
 
 .reset-btn:hover {
@@ -192,8 +189,8 @@ function buttonLabel(tag: DictionaryTagId, label: string): string {
 .legend-note {
   display: flex;
   align-items: center;
-  gap: 0.65rem;
-  font-size: 0.75rem;
+  gap: 0.45rem;
+  font-size: 0.7rem;
   color: #64748b;
   margin-left: auto;
   white-space: nowrap;
