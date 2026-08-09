@@ -2,10 +2,12 @@
   "name": "lexi",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "description": "Lexi - 渐进式、沉浸式英语阅读与听说训练沙盒",
   "scripts": {
     "dev": "npm run build:extensions && vite --host 0.0.0.0",
+    "dev:library": "node scripts/serve-ebook-library.mjs",
     "build": "npm run build:wordnet && npm run build:extensions && npm run validate:course && vite build",
     "preview": "vite preview",
     "build:course": "node scripts/course-tools.mjs build",
@@ -15,12 +17,16 @@
     "build:data": "node scripts/extract-stardict.mjs && node scripts/build-dictionary-shards.mjs",
     "validate:dicts": "node scripts/validate-dictionary-assets.mjs",
     "prepare:wordnet": "node scripts/prepare-wordnet.mjs",
-    "build:wordnet": "npm run prepare:wordnet && node scripts/build-wordnet.mjs"
+    "build:wordnet": "npm run prepare:wordnet && node scripts/build-wordnet.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
   },
   "dependencies": {
     "commander": "^12.0.0",
     "csv-parse": "^5.5.0",
     "dexie": "^4.4.4",
+    "dompurify": "^3.4.13",
+    "fflate": "^0.8.3",
     "marked": "^18.0.7",
     "pinia": "^4.0.2",
     "vue": "^3.5.40",
@@ -30,8 +36,11 @@
     "@types/node": "^26.2.0",
     "@vitejs/plugin-vue": "^6.0.8",
     "7zip-min": "^3.0.1",
+    "fake-indexeddb": "^6.2.5",
+    "jsdom": "^29.1.1",
     "typescript": "^7.0.2",
     "vite": "^8.1.5",
+    "vitest": "^4.1.10",
     "vue-tsc": "^3.3.8"
   }
 }

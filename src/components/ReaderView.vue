@@ -4,38 +4,53 @@
  * 将输入文本解析为带注音标注的交互式阅读视图
  * 支持段落级 TTS 朗读 + 逐词高亮
  */
-import { computed, ref, nextTick, onBeforeUnmount } from 'vue'
+import { computed, ref, onBeforeUnmount } from 'vue'
 import { useDictStore } from '../stores/dict'
 import { detectInputType, markdownToHtml, annotateHtml } from '../lib/tokenizer'
+import { htmlToPlainText, sanitizeReaderHtml } from '../lib/reader-sanitize'
+import { highlightReaderWordAtBoundary } from '../lib/reader-tts-highlight'
 import { useTTS } from '../composables/useTTS'
 import FollowReadPanel from './FollowReadPanel.vue'
 
 const props = withDefaults(defineProps<{
   text: string
+  html?: string
+  followText?: string
   active?: boolean
+  annotationsEnabled?: boolean
+  basicFunctionWordsEnabled?: boolean
+  showFollow?: boolean
 }>(), {
   active: true,
+  html: '',
+  followText: '',
+  annotationsEnabled: true,
+  basicFunctionWordsEnabled: false,
+  showFollow: true,
 })
 
 const emit = defineEmits<{
   'word-click': [payload: { word: string; x: number; y: number }]
   'recording-change': [recording: boolean]
+  'link-click': [href: string]
 }>()
 
 const dictStore = useDictStore()
 const readerRef = ref<HTMLElement | null>(null)
-const { speak, stop, speaking } = useTTS()
+const { speak, stop, pause, resume, speaking, paused } = useTTS()
 const readingParagraph = ref<number>(-1)
 const followRecording = ref(false)
 
 // 计算标注后的 HTML
 const annotatedHtml = computed(() => {
-  if (!dictStore.ready || !props.text.trim()) return ''
+  if (!dictStore.ready || (!props.text.trim() && !props.html.trim())) return ''
 
   const inputType = detectInputType(props.text)
   let html: string
 
-  if (inputType === 'markdown') {
+  if (props.html.trim()) {
+    html = props.html
+  } else if (inputType === 'markdown') {
     html = markdownToHtml(props.text)
   } else if (inputType === 'html') {
     html = props.text
@@ -47,9 +62,29 @@ const annotatedHtml = computed(() => {
       .join('')
   }
 
-  // 使用 dictStore 的 getAnnotation 进行标注
-  return annotateHtml(html, (word) => dictStore.getAnnotation(word))
+  const safeHtml = sanitizeReaderHtml(html)
+  const annotated = annotateHtml(safeHtml, (word) => (
+    props.annotationsEnabled
+      ? dictStore.getAnnotation(word, { includeBasicFunctionWords: props.basicFunctionWordsEnabled })
+      : null
+  ))
+  const doc = new DOMParser().parseFromString(annotated, 'text/html')
+  doc.body.querySelectorAll('p').forEach((paragraph, index) => {
+    if (!paragraph.textContent?.trim()) return
+    const button = document.createElement('button')
+    button.type = 'button'
+    button.className = 'read-paragraph-btn'
+    button.dataset.pidx = String(index)
+    button.setAttribute('aria-label', `朗读第 ${index + 1} 段`)
+    button.textContent = '🔊'
+    paragraph.prepend(button)
+  })
+  return doc.body.innerHTML
 })
+
+const effectiveFollowText = computed(() => (
+  props.followText.trim() || (props.html ? htmlToPlainText(props.html) : props.text)
+))
 
 // 点击事件代理
 function handleClick(e: MouseEvent) {
@@ -60,6 +95,13 @@ function handleClick(e: MouseEvent) {
   if (readBtn) {
     const pIdx = parseInt(readBtn.dataset.pidx || '-1')
     readParagraph(pIdx)
+    return
+  }
+
+  const anchor = target.closest('a[href]') as HTMLAnchorElement | null
+  if (anchor) {
+    e.preventDefault()
+    emit('link-click', anchor.getAttribute('href') || '')
     return
   }
 
@@ -79,6 +121,7 @@ function handleClick(e: MouseEvent) {
 function getEnglishText(el: Element): string {
   const clone = el.cloneNode(true) as Element
   clone.querySelectorAll('rt').forEach(rt => rt.remove())
+  clone.querySelectorAll('.read-paragraph-btn').forEach(button => button.remove())
   return clone.textContent || ''
 }
 
@@ -86,10 +129,15 @@ function getEnglishText(el: Element): string {
 function readParagraph(pIdx: number) {
   if (!readerRef.value || followRecording.value) return
 
-  if (speaking.value && readingParagraph.value === pIdx) {
-    stop()
-    readingParagraph.value = -1
-    clearHighlights()
+  if (readingParagraph.value === pIdx && paused.value) {
+    resume()
+    syncParagraphButtons()
+    return
+  }
+
+  if (readingParagraph.value === pIdx && speaking.value) {
+    pause()
+    syncParagraphButtons()
     return
   }
 
@@ -107,33 +155,36 @@ function readParagraph(pIdx: number) {
     // 逐词高亮
     clearHighlights()
     highlightWordAt(p, charIndex, charLength)
+  }, () => {
+    readingParagraph.value = -1
+    clearHighlights()
+    syncParagraphButtons()
+  })
+  syncParagraphButtons()
+}
+
+function syncParagraphButtons(): void {
+  if (!readerRef.value) return
+  readerRef.value.querySelectorAll<HTMLButtonElement>('.read-paragraph-btn').forEach((button, index) => {
+    const isCurrent = index === readingParagraph.value
+    button.classList.toggle('is-playing', isCurrent)
+    button.classList.toggle('is-paused', isCurrent && paused.value)
+    button.setAttribute('aria-pressed', String(isCurrent && paused.value))
+    if (!isCurrent) {
+      button.textContent = '🔊'
+      button.setAttribute('aria-label', `朗读第 ${index + 1} 段`)
+    } else if (paused.value) {
+      button.textContent = '▶'
+      button.setAttribute('aria-label', `继续朗读第 ${index + 1} 段`)
+    } else {
+      button.textContent = '⏸'
+      button.setAttribute('aria-label', `暂停朗读第 ${index + 1} 段`)
+    }
   })
 }
 
 function highlightWordAt(container: Element, charIndex: number, charLength: number) {
-  // 遍历文本节点（跳过 <rt> 内的中文）找到对应位置的单词
-  const walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, {
-    acceptNode(node) {
-      // 跳过 <rt> 内的文本节点
-      if (node.parentElement?.tagName === 'RT') return NodeFilter.FILTER_REJECT
-      return NodeFilter.FILTER_ACCEPT
-    }
-  })
-  let offset = 0
-
-  while (walker.nextNode()) {
-    const node = walker.currentNode as Text
-    const nodeLen = node.textContent?.length || 0
-
-    if (offset + nodeLen > charIndex) {
-      const parent = node.parentElement
-      if (parent && (parent.tagName === 'RUBY' || parent.classList.contains('word-plain'))) {
-        parent.classList.add('tts-highlight')
-      }
-      break
-    }
-    offset += nodeLen
-  }
+  highlightReaderWordAtBoundary(container, charIndex, charLength)
 }
 
 function clearHighlights() {
@@ -185,27 +236,7 @@ function handleFollowRecordingChange(recording: boolean): void {
 
 function highlightWordInAll(charIndex: number) {
   if (!readerRef.value) return
-  const walker = document.createTreeWalker(readerRef.value, NodeFilter.SHOW_TEXT, {
-    acceptNode(node) {
-      if (node.parentElement?.tagName === 'RT') return NodeFilter.FILTER_REJECT
-      return NodeFilter.FILTER_ACCEPT
-    }
-  })
-  let offset = 0
-
-  while (walker.nextNode()) {
-    const node = walker.currentNode as Text
-    const nodeLen = node.textContent?.length || 0
-
-    if (offset + nodeLen > charIndex) {
-      const parent = node.parentElement
-      if (parent && (parent.tagName === 'RUBY' || parent.classList.contains('word-plain'))) {
-        parent.classList.add('tts-highlight')
-      }
-      break
-    }
-    offset += nodeLen
-  }
+  highlightReaderWordAtBoundary(readerRef.value, charIndex)
 }
 
 onBeforeUnmount(() => {
@@ -222,8 +253,9 @@ onBeforeUnmount(() => {
       v-html="annotatedHtml"
     />
     <FollowReadPanel
+      v-if="showFollow"
       class="reader-follow"
-      :target-text="text"
+      :target-text="effectiveFollowText"
       :active="active"
       :disabled="!annotatedHtml"
       :system-disabled="!annotatedHtml"
@@ -263,6 +295,20 @@ onBeforeUnmount(() => {
   background: #ebf5fb;
 }
 
+.reader-view :deep(ruby[data-annotation-kind='tag'] rt) {
+  display: inline-block;
+  padding: 0.05rem 0.25rem;
+  border: 1px solid #eab308;
+  border-radius: 4px;
+  background: #fef3c7;
+  color: #854d0e;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.64em;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 0.02em;
+}
+
 .reader-view :deep(.word-plain) {
   cursor: pointer;
   border-radius: 3px;
@@ -276,6 +322,35 @@ onBeforeUnmount(() => {
 .reader-view :deep(p) {
   margin: 0.8em 0;
   position: relative;
+}
+
+.reader-view :deep(.read-paragraph-btn) {
+  float: left;
+  margin: 0.38rem 0.45rem 0 0;
+  padding: 0.1rem 0.25rem;
+  border: 0;
+  border-radius: 4px;
+  background: transparent;
+  color: #94a3b8;
+  cursor: pointer;
+  font-size: 0.72rem;
+  opacity: 0;
+  transition: opacity 0.15s, background 0.15s;
+}
+
+.reader-view :deep(p:hover .read-paragraph-btn),
+.reader-view :deep(.read-paragraph-btn:focus-visible),
+.reader-view :deep(.read-paragraph-btn.is-playing) {
+  opacity: 1;
+}
+
+.reader-view :deep(.read-paragraph-btn:hover) {
+  background: #eef6fc;
+}
+
+.reader-view :deep(.read-paragraph-btn.is-playing) {
+  background: #eef6fc;
+  color: #2476b7;
 }
 
 /* TTS 高亮 */

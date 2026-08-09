@@ -1,5 +1,5 @@
 <script setup lang="ts">
-/** TagSwitcher - 三态标签筛选器，状态切换保持按钮尺寸不变。 */
+/** TagSwitcher - 四态标签筛选器，状态切换保持按钮尺寸不变。 */
 import {
   TAG_OPTIONS,
   useDictStore,
@@ -13,11 +13,13 @@ const STATE_LABELS: Record<TagFilterMode, string> = {
   neutral: '默认',
   include: '仅看',
   exclude: '排除',
+  annotate: '标注',
 }
 
 function markerFor(state: TagFilterMode): string {
   if (state === 'include') return '✓'
   if (state === 'exclude') return '✕'
+  if (state === 'annotate') return '◆'
   return '·'
 }
 
@@ -65,6 +67,7 @@ function buttonLabel(tag: DictionaryTagId, label: string): string {
       <span class="note-label">注释:</span>
       <span class="include-text">✓ 仅看</span>
       <span class="exclude-text">✕ 排除</span>
+      <span class="annotate-text">◆ 标注</span>
       <span class="neutral-text">· 默认</span>
     </div>
   </div>
@@ -136,6 +139,12 @@ function buttonLabel(tag: DictionaryTagId, label: string): string {
   color: #fff;
 }
 
+.tag-btn.is-annotate {
+  background: #f59e0b;
+  border-color: #f59e0b;
+  color: #fff;
+}
+
 .state-icon {
   display: inline-grid;
   place-items: center;
@@ -151,7 +160,8 @@ function buttonLabel(tag: DictionaryTagId, label: string): string {
 }
 
 .tag-btn.is-include .state-icon,
-.tag-btn.is-exclude .state-icon {
+.tag-btn.is-exclude .state-icon,
+.tag-btn.is-annotate .state-icon {
   color: #fff;
 }
 
@@ -208,6 +218,11 @@ function buttonLabel(tag: DictionaryTagId, label: string): string {
 
 .exclude-text {
   color: #dc2626;
+  font-weight: 600;
+}
+
+.annotate-text {
+  color: #d97706;
   font-weight: 600;
 }
 

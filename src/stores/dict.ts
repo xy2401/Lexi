@@ -5,6 +5,8 @@ import { defineStore } from 'pinia'
 import { computed, reactive, ref } from 'vue'
 import { db, loadHotData, type WordEntry } from '../lib/db'
 import { buildReverseIndex, restoreBase } from '../lib/morphology'
+import { getBasicFunctionWordGloss, isAllCapsReaderToken, resolveReaderAnnotation, type ReaderAnnotationOptions } from '../lib/reader-annotations'
+import type { ReaderAnnotationValue } from '../lib/tokenizer'
 
 export const TAG_OPTIONS = [
   { id: 'zk', label: '中考 zk' },
@@ -18,7 +20,7 @@ export const TAG_OPTIONS = [
 ] as const
 
 export type DictionaryTagId = typeof TAG_OPTIONS[number]['id']
-export type TagFilterMode = 'neutral' | 'include' | 'exclude'
+export type TagFilterMode = 'neutral' | 'include' | 'exclude' | 'annotate'
 export type TagStates = Record<DictionaryTagId, TagFilterMode>
 
 const TAG_LABELS = new Map<string, string>(
@@ -39,6 +41,43 @@ function createNeutralTagStates(): TagStates {
   return Object.fromEntries(
     TAG_OPTIONS.map(tag => [tag.id, 'neutral']),
   ) as TagStates
+}
+
+function parseDictionaryTagIds(rawTags: string): Set<string> {
+  return new Set(
+    (rawTags || '')
+      .toLowerCase()
+      .split(/[\s,]+/)
+      .map(tag => tag.trim())
+      .filter(Boolean),
+  )
+}
+
+export function nextTagFilterMode(current: TagFilterMode): TagFilterMode {
+  if (current === 'neutral') return 'include'
+  if (current === 'include') return 'exclude'
+  if (current === 'exclude') return 'annotate'
+  return 'neutral'
+}
+
+export function matchesDictionaryTagFilter(rawTags: string, states: TagStates): boolean {
+  const wordTags = parseDictionaryTagIds(rawTags)
+  const included: DictionaryTagId[] = []
+  for (const tag of TAG_OPTIONS) {
+    const state = states[tag.id]
+    if (state === 'exclude' && wordTags.has(tag.id)) return false
+    if (state === 'include') included.push(tag.id)
+  }
+  return included.length === 0 || included.some(tag => wordTags.has(tag))
+}
+
+export function getDictionaryTagAnnotation(rawTags: string, states: TagStates): string | null {
+  const wordTags = parseDictionaryTagIds(rawTags)
+  const annotationRequested = TAG_OPTIONS.some(tag => (
+    states[tag.id] === 'annotate' && wordTags.has(tag.id)
+  ))
+  if (!annotationRequested) return null
+  return TAG_OPTIONS.find(tag => wordTags.has(tag.id))?.id || null
 }
 
 export const useDictStore = defineStore('dict', () => {
@@ -93,39 +132,30 @@ export const useDictStore = defineStore('dict', () => {
    * 获取单词的简明释义（用于 <rt> 标注）
    * 根据当前标签状态决定是否标注
    */
-  function getAnnotation(word: string): string | null {
+  function getAnnotation(word: string, options: ReaderAnnotationOptions = {}): ReaderAnnotationValue {
+    if (isAllCapsReaderToken(word)) return null
+    const basicGloss = getBasicFunctionWordGloss(word)
     const entry = lookup(word)
-    if (!entry) return null
+    if (!entry) {
+      return basicGloss && allTagsNeutral.value
+        ? resolveReaderAnnotation(word, null, options)
+        : null
+    }
 
     // 使用阅读器与词典共用的标签筛选规则
     if (!shouldAnnotate(entry)) return null
 
-    // 提取第一行翻译
-    const firstLine = entry.translation.split('\\n')[0]?.trim()
-    if (!firstLine) return null
+    const tagAnnotation = getDictionaryTagAnnotation(entry.tags, tagStates)
+    if (tagAnnotation) return { text: tagAnnotation, kind: 'tag' }
 
-    // 去掉词性前缀 (n. v. adj. adv. art. prep. conj. pron. int. num. det. vt. vi. aux. modal. abbr.)
-    const cleaned = firstLine.replace(/^[a-z]+\.\s*/i, '').trim()
-    if (!cleaned) return null
-
-    // 取第一个义项（用 , 、 ; 分割）
-    const firstMeaning = cleaned.split(/[,，、;；]/)[0]?.trim()
-    if (!firstMeaning) return null
-
-    // 截断过长
-    return firstMeaning.length > 12 ? firstMeaning.slice(0, 12) + '…' : firstMeaning
+    return resolveReaderAnnotation(word, entry.translation, options)
   }
 
   /**
-   * 默认 -> 选择 -> 排除 -> 默认。
+   * 默认 -> 仅看 -> 排除 -> 标注 -> 默认。
    */
   function cycleTagState(tag: DictionaryTagId): void {
-    const current = tagStates[tag]
-    tagStates[tag] = current === 'neutral'
-      ? 'include'
-      : current === 'include'
-        ? 'exclude'
-        : 'neutral'
+    tagStates[tag] = nextTagFilterMode(tagStates[tag])
   }
 
   function resetTagFilters(): void {
@@ -137,22 +167,7 @@ export const useDictStore = defineStore('dict', () => {
    * 标签按独立 token 精确匹配，避免字符串子串误判。
    */
   function matchesTagFilter(rawTags: string): boolean {
-    const wordTags = new Set(
-      (rawTags || '')
-        .toLowerCase()
-        .split(/[\s,]+/)
-        .map(tag => tag.trim())
-        .filter(Boolean),
-    )
-
-    const included: DictionaryTagId[] = []
-    for (const tag of TAG_OPTIONS) {
-      const state = tagStates[tag.id]
-      if (state === 'exclude' && wordTags.has(tag.id)) return false
-      if (state === 'include') included.push(tag.id)
-    }
-
-    return included.length === 0 || included.some(tag => wordTags.has(tag))
+    return matchesDictionaryTagFilter(rawTags, tagStates)
   }
 
   function shouldAnnotate(entry: WordEntry): boolean {

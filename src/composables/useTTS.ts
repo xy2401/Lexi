@@ -6,6 +6,7 @@ import { ref, onBeforeUnmount } from 'vue'
 
 export function useTTS() {
   const speaking = ref(false)
+  const paused = ref(false)
   const currentWordIndex = ref(-1)
   const voices = ref<SpeechSynthesisVoice[]>([])
   const selectedVoice = ref<string>('')
@@ -69,26 +70,33 @@ export function useTTS() {
     if (voice) utterance.voice = voice
 
     utterance.onstart = () => {
-      if (generation === playbackGeneration) speaking.value = true
+      if (generation === playbackGeneration) {
+        speaking.value = true
+        paused.value = false
+      }
     }
     utterance.onend = () => {
       if (generation !== playbackGeneration) return
       speaking.value = false
+      paused.value = false
       currentWordIndex.value = -1
       onEnd?.()
     }
     utterance.onerror = () => {
-      if (generation === playbackGeneration) speaking.value = false
+      if (generation !== playbackGeneration) return
+      speaking.value = false
+      paused.value = false
       onEnd?.()
     }
 
     utterance.onboundary = (event) => {
-      if (event.name === 'word') {
-        currentWordIndex.value = event.charIndex
-        onBoundary?.(event.charIndex, event.charLength || 0)
-      }
+      if (event.name === 'sentence') return
+      currentWordIndex.value = event.charIndex
+      onBoundary?.(event.charIndex, event.charLength || 0)
     }
 
+    speaking.value = true
+    paused.value = false
     speechSynthesis.speak(utterance)
   }
 
@@ -112,6 +120,7 @@ export function useTTS() {
       if (generation !== playbackGeneration || index >= queue.length) {
         if (generation === playbackGeneration) {
           speaking.value = false
+          paused.value = false
           onEnd?.()
         }
         return
@@ -121,7 +130,10 @@ export function useTTS() {
       utterance.lang = 'en-US'
       if (voice) utterance.voice = voice
       utterance.onstart = () => {
-        if (generation === playbackGeneration) speaking.value = true
+        if (generation === playbackGeneration) {
+          speaking.value = true
+          paused.value = false
+        }
       }
       utterance.onend = () => {
         if (generation !== playbackGeneration) return
@@ -130,6 +142,7 @@ export function useTTS() {
       utterance.onerror = () => {
         if (generation === playbackGeneration) {
           speaking.value = false
+          paused.value = false
           onEnd?.()
         }
       }
@@ -145,7 +158,20 @@ export function useTTS() {
       speechSynthesis.cancel()
     }
     speaking.value = false
+    paused.value = false
     currentWordIndex.value = -1
+  }
+
+  function pause() {
+    if (!speaking.value || paused.value || !('speechSynthesis' in window)) return
+    speechSynthesis.pause()
+    paused.value = true
+  }
+
+  function resume() {
+    if (!speaking.value || !paused.value || !('speechSynthesis' in window)) return
+    speechSynthesis.resume()
+    paused.value = false
   }
 
   onBeforeUnmount(() => {
@@ -154,11 +180,14 @@ export function useTTS() {
 
   return {
     speaking,
+    paused,
     currentWordIndex,
     voices,
     selectedVoice,
     speak,
     speakSequence,
+    pause,
+    resume,
     stop,
   }
 }

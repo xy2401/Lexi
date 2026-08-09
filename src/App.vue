@@ -1,9 +1,12 @@
 <script setup lang="ts">
-import { ref, onMounted, computed } from 'vue'
+import { ref, onMounted } from 'vue'
 import { TAG_OPTIONS, useDictStore } from './stores/dict'
 import { lookupWord } from './lib/lookup-service'
 import { db } from './lib/db'
-import ReaderView from './components/ReaderView.vue'
+import { getDictionaryManifest } from './lib/dictionary-manifest'
+import { getWordNetManifest } from './lib/wordnet-manifest'
+import ReaderWorkspace from './components/ReaderWorkspace.vue'
+import LibrarySettings from './components/LibrarySettings.vue'
 import TagSwitcher from './components/TagSwitcher.vue'
 import WordTooltip from './components/WordTooltip.vue'
 import ExplorerTree from './components/ExplorerTree.vue'
@@ -18,14 +21,127 @@ import WordNetView from './components/WordNetView.vue'
 import { useTTS } from './composables/useTTS'
 import type { WordEntry } from './lib/db'
 
+interface LicensedProject {
+  name: string
+  version?: string
+  url: string
+  license: string
+  licenseUrl?: string
+  note?: string
+}
+
+interface LicenseGroup {
+  title: string
+  projects: LicensedProject[]
+}
+
+const licenseGroups: LicenseGroup[] = [
+  {
+    title: '数据与内容来源',
+    projects: [
+      {
+        name: 'ECDICT',
+        url: 'https://github.com/skywind3000/ECDICT',
+        license: 'MIT',
+        licenseUrl: 'https://github.com/skywind3000/ECDICT/blob/master/LICENSE',
+        note: '英汉词条、词频与考试标签',
+      },
+      {
+        name: 'Open English WordNet',
+        version: '2025 Core',
+        url: 'https://en-word.net/',
+        license: 'CC BY 4.0',
+        licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
+        note: '英文释义、sense 与语义关系',
+      },
+      {
+        name: 'Standard Ebooks',
+        url: 'https://standardebooks.org/',
+        license: 'CC0 / Public Domain',
+        licenseUrl: 'https://creativecommons.org/publicdomain/zero/1.0/',
+        note: '远程电子书正文、封面与语义 XHTML；公版判断以美国为基础',
+      },
+      {
+        name: 'Duome',
+        url: 'https://duome.eu/',
+        license: '未声明开源许可',
+        note: '课程单元与词汇元数据来源',
+      },
+      {
+        name: 'Duolingo',
+        url: 'https://www.duolingo.com/',
+        license: '专有 / Terms of Service',
+        licenseUrl: 'https://www.duolingo.com/terms',
+        note: '名称及课程相关内容不受 Lexi MIT 许可覆盖',
+      },
+    ],
+  },
+  {
+    title: '浏览器运行时',
+    projects: [
+      { name: 'Dexie.js', version: '4.4.4', url: 'https://github.com/dexie/Dexie.js', license: 'Apache-2.0', licenseUrl: 'https://www.apache.org/licenses/LICENSE-2.0' },
+      { name: 'DOMPurify', version: '3.4.13', url: 'https://github.com/cure53/DOMPurify', license: 'MPL-2.0 OR Apache-2.0', licenseUrl: 'https://github.com/cure53/DOMPurify/blob/main/LICENSE' },
+      { name: 'fflate', version: '0.8.3', url: 'https://github.com/101arrowz/fflate', license: 'MIT', licenseUrl: 'https://opensource.org/license/mit' },
+      { name: 'Marked', version: '18.0.9', url: 'https://github.com/markedjs/marked', license: 'MIT', licenseUrl: 'https://opensource.org/license/mit' },
+      { name: 'Pinia', version: '4.0.2', url: 'https://github.com/vuejs/pinia', license: 'MIT', licenseUrl: 'https://opensource.org/license/mit' },
+      { name: 'Vue.js', version: '3.5.41', url: 'https://github.com/vuejs/core', license: 'MIT', licenseUrl: 'https://opensource.org/license/mit' },
+      { name: 'WaveSurfer.js', version: '7.12.11', url: 'https://github.com/katspaugh/wavesurfer.js', license: 'BSD-3-Clause', licenseUrl: 'https://opensource.org/license/bsd-3-clause' },
+    ],
+  },
+  {
+    title: '构建与开发工具',
+    projects: [
+      { name: 'Commander.js', version: '12.1.0', url: 'https://github.com/tj/commander.js', license: 'MIT', licenseUrl: 'https://opensource.org/license/mit' },
+      { name: 'CSV for Node.js', version: '5.6.0', url: 'https://github.com/adaltas/node-csv', license: 'MIT', licenseUrl: 'https://opensource.org/license/mit' },
+      { name: 'fake-indexeddb', version: '6.2.5', url: 'https://github.com/dumbmatter/fakeIndexedDB', license: 'Apache-2.0', licenseUrl: 'https://www.apache.org/licenses/LICENSE-2.0' },
+      { name: 'jsdom', version: '29.1.1', url: 'https://github.com/jsdom/jsdom', license: 'MIT', licenseUrl: 'https://opensource.org/license/mit' },
+      { name: 'Node.js type definitions', version: '26.2.0', url: 'https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node', license: 'MIT', licenseUrl: 'https://opensource.org/license/mit' },
+      { name: 'Vite Plugin Vue', version: '6.0.8', url: 'https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue', license: 'MIT', licenseUrl: 'https://opensource.org/license/mit' },
+      { name: '7zip-min', version: '3.0.1', url: 'https://github.com/onikienko/7zip-min', license: 'MIT', licenseUrl: 'https://opensource.org/license/mit' },
+      { name: 'TypeScript', version: '7.0.2', url: 'https://github.com/microsoft/TypeScript', license: 'Apache-2.0', licenseUrl: 'https://www.apache.org/licenses/LICENSE-2.0' },
+      { name: 'Vite', version: '8.2.1', url: 'https://github.com/vitejs/vite', license: 'MIT', licenseUrl: 'https://opensource.org/license/mit' },
+      { name: 'Vitest', version: '4.1.10', url: 'https://github.com/vitest-dev/vitest', license: 'MIT', licenseUrl: 'https://opensource.org/license/mit' },
+      { name: 'Vue Language Tools', version: '3.3.9', url: 'https://github.com/vuejs/language-tools', license: 'MIT', licenseUrl: 'https://opensource.org/license/mit' },
+    ],
+  },
+]
+
 const dictStore = useDictStore()
 
 // ========== 本地词库统计 ==========
-const localWordCount = computed(() => dictStore.wordCount)
 const dbStats = ref<{
   storageUsed: string
   storageQuota: string
   tagDistribution: { tag: string; count: number }[]
+  hot: {
+    entries: number
+    loaded: boolean
+    shards: number
+    version: string
+  }
+  main: {
+    cachedEntries: number
+    totalEntries: number
+    cachedShards: number
+    totalShards: number
+  }
+  wordnet: {
+    indexEntries: number
+    totalIndexEntries: number
+    cachedLemmas: number
+    totalEntries: number
+    cachedSynsets: number
+    totalSynsets: number
+    cachedFrames: number
+    totalFrames: number
+    cachedEntryShards: number
+    totalEntryShards: number
+    cachedSynsetShards: number
+    totalSynsetShards: number
+    version: string
+    current: boolean
+    hasCache: boolean
+  }
 } | null>(null)
 
 async function refreshDbStats() {
@@ -38,8 +154,26 @@ async function refreshDbStats() {
     storageQuota = formatBytes(est.quota || 0)
   }
 
-  // 标签分布
-  const allWords = await db.words.toArray()
+  const [dictionaryManifest, wordNetManifest, allWords, dictionaryVersion, wordNetVersion,
+    cachedMainEntries, cachedMainShards, wordNetIndexEntries, cachedWordNetLemmas,
+    cachedWordNetSynsets, cachedWordNetFrames, cachedWordNetEntryShards,
+    cachedWordNetSynsetShards] = await Promise.all([
+    getDictionaryManifest(),
+    getWordNetManifest(),
+    db.words.toArray(),
+    db.meta.get('dictionaryVersion'),
+    db.meta.get('wordnetVersion'),
+    db.words.where('shard').above('').count(),
+    db.shards.where('dictionary').equals('main').count(),
+    db.wordnetIndex.count(),
+    db.wordnetLemmas.count(),
+    db.wordnetSynsets.count(),
+    db.wordnetFrames.count(),
+    db.shards.where('dictionary').equals('wordnet-entry').count(),
+    db.shards.where('dictionary').equals('wordnet-synset').count(),
+  ])
+
+  // 本地 ECDICT 标签分布
   const tagMap: Record<string, number> = {}
   const knownTags = new Set(TAG_OPTIONS.map(tag => tag.id))
   for (const w of allWords) {
@@ -61,6 +195,35 @@ async function refreshDbStats() {
     storageUsed,
     storageQuota,
     tagDistribution,
+    hot: {
+      entries: dictionaryManifest.hotRows,
+      loaded: dictionaryVersion?.value === dictionaryManifest.version,
+      shards: Object.keys(dictionaryManifest.hot).length,
+      version: dictionaryManifest.version,
+    },
+    main: {
+      cachedEntries: cachedMainEntries,
+      totalEntries: dictionaryManifest.sourceRows,
+      cachedShards: cachedMainShards,
+      totalShards: Object.keys(dictionaryManifest.main).length,
+    },
+    wordnet: {
+      indexEntries: wordNetIndexEntries,
+      totalIndexEntries: wordNetManifest.files['index.jsonl'].rows,
+      cachedLemmas: cachedWordNetLemmas,
+      totalEntries: wordNetManifest.stats.lexicalEntries,
+      cachedSynsets: cachedWordNetSynsets,
+      totalSynsets: wordNetManifest.stats.synsets,
+      cachedFrames: cachedWordNetFrames,
+      totalFrames: wordNetManifest.stats.frames,
+      cachedEntryShards: cachedWordNetEntryShards,
+      totalEntryShards: Object.values(wordNetManifest.files).filter(file => file.kind === 'entries').length,
+      cachedSynsetShards: cachedWordNetSynsetShards,
+      totalSynsetShards: Object.values(wordNetManifest.files).filter(file => file.kind === 'synsets').length,
+      version: wordNetManifest.version,
+      current: wordNetVersion?.value === wordNetManifest.version,
+      hasCache: wordNetIndexEntries + cachedWordNetLemmas + cachedWordNetSynsets + cachedWordNetFrames > 0,
+    },
   }
 }
 
@@ -75,8 +238,12 @@ type TabId = 'reader' | 'explorer' | 'wordnet' | 'wordroot' | 'resemble' | 'lemm
 const activeTab = ref<TabId>('reader')
 const wordNetInitialWord = ref('bank')
 
+function openSettings() {
+  activeTab.value = 'settings'
+  void refreshDbStats()
+}
+
 // ========== Reader 模块 ==========
-const inputText = ref('The quick brown fox jumps over the lazy dog. She was running happily through the beautiful garden.')
 const showTooltip = ref(false)
 const tooltipWord = ref('')
 const tooltipData = ref<WordEntry | null>(null)
@@ -167,6 +334,10 @@ function speakExplorerWord() {
   if (explorerEntry.value && !dictionaryRecording.value) speak(explorerEntry.value.word)
 }
 
+function formatCount(value: number): string {
+  return new Intl.NumberFormat('zh-CN').format(value)
+}
+
 function openWordNet(word: string) {
   wordNetInitialWord.value = word
   activeTab.value = 'wordnet'
@@ -204,40 +375,18 @@ function openWordNet(word: string) {
       <button :class="['tab-btn', { active: activeTab === 'duolingo' }]" @click="activeTab = 'duolingo'">
         🦉 多邻国
       </button>
-      <button :class="['tab-btn', { active: activeTab === 'settings' }]" @click="activeTab = 'settings'">
+      <button :class="['tab-btn', { active: activeTab === 'settings' }]" @click="openSettings">
         ⚙️ 设置
       </button>
     </nav>
 
     <!-- ===== Reader 模块 ===== -->
     <div class="tab-content" v-show="activeTab === 'reader'">
-      <!-- 最上面完整一行标签筛选 -->
-      <TagSwitcher />
-
-      <div class="reader-layout">
-        <aside class="sidebar">
-          <div class="input-section">
-            <label>输入文本</label>
-            <textarea v-model="inputText" rows="6" placeholder="粘贴英文文本..."></textarea>
-          </div>
-          <div class="stats" v-if="dictStore.ready">
-            <span>本地词库: {{ localWordCount }} 词</span>
-            <span class="cache-info">浏览/查词时自动扩充，永久保存</span>
-          </div>
-          <div class="loading" v-else>
-            <span>加载词库中... {{ dictStore.loadProgress }}%</span>
-          </div>
-        </aside>
-
-        <main class="reader-main">
-          <ReaderView
-            :text="inputText"
-            :active="activeTab === 'reader'"
-            @word-click="handleWordClick"
-            @recording-change="handleReaderRecordingChange"
-          />
-        </main>
-      </div>
+      <ReaderWorkspace
+        :active="activeTab === 'reader'"
+        @word-click="handleWordClick"
+        @recording-change="handleReaderRecordingChange"
+      />
     </div>
 
     <!-- ===== Explorer 模块 (词典浏览) ===== -->
@@ -343,7 +492,7 @@ function openWordNet(word: string) {
 
         <section class="settings-section">
           <h3>📚 本地词库</h3>
-          <p class="settings-desc">已加载 Hot 词库并缓存 {{ localWordCount }} 个词条，查词时按需补齐完整内容</p>
+          <p class="settings-desc">ECDICT Hot 全量加载；ECDICT Main 与 WordNet 按需下载 JSONL 分片并持久缓存</p>
           <button class="action-btn" @click="refreshDbStats" style="margin-top: 0.5rem">刷新详细统计</button>
 
           <div v-if="dbStats" class="db-details">
@@ -360,17 +509,109 @@ function openWordNet(word: string) {
               <span class="db-value">JSONL 逻辑分片（整片解析并持久缓存）</span>
             </div>
 
+            <div class="dictionary-status-grid">
+              <article class="dictionary-status-card">
+                <div class="dictionary-status-head">
+                  <strong>ECDICT Hot</strong>
+                  <span :class="['dictionary-status', { 'is-ready': dbStats.hot.loaded }]">
+                    {{ dbStats.hot.loaded ? '全量已加载' : '等待加载' }}
+                  </span>
+                </div>
+                <div class="dictionary-status-value">{{ formatCount(dbStats.hot.entries) }} 词条</div>
+                <div class="dictionary-status-meta">
+                  {{ dbStats.hot.loaded ? dbStats.hot.shards : 0 }}/{{ dbStats.hot.shards }} 分片 · {{ dbStats.hot.version }}
+                </div>
+              </article>
+
+              <article class="dictionary-status-card">
+                <div class="dictionary-status-head">
+                  <strong>ECDICT Main</strong>
+                  <span class="dictionary-status is-demand">按需缓存</span>
+                </div>
+                <div class="dictionary-status-value">
+                  {{ formatCount(dbStats.main.cachedEntries) }} / {{ formatCount(dbStats.main.totalEntries) }} 词条
+                </div>
+                <div class="dictionary-status-meta">
+                  {{ formatCount(dbStats.main.cachedShards) }}/{{ formatCount(dbStats.main.totalShards) }} 分片
+                </div>
+              </article>
+
+              <article class="dictionary-status-card">
+                <div class="dictionary-status-head">
+                  <strong>Open English WordNet</strong>
+                  <span :class="['dictionary-status', {
+                    'is-demand': dbStats.wordnet.current,
+                    'is-stale': !dbStats.wordnet.current && dbStats.wordnet.hasCache,
+                  }]">
+                    {{ dbStats.wordnet.current
+                      ? '按需缓存'
+                      : dbStats.wordnet.hasCache ? '版本待更新' : '尚未初始化' }}
+                  </span>
+                </div>
+                <div class="dictionary-status-value">
+                  {{ formatCount(dbStats.wordnet.cachedLemmas) }} lemma ·
+                  {{ formatCount(dbStats.wordnet.cachedSynsets) }} synset
+                </div>
+                <div class="dictionary-status-meta">
+                  索引 {{ formatCount(dbStats.wordnet.indexEntries) }}/{{ formatCount(dbStats.wordnet.totalIndexEntries) }} ·
+                  entry 分片 {{ dbStats.wordnet.cachedEntryShards }}/{{ dbStats.wordnet.totalEntryShards }} ·
+                  synset 分片 {{ dbStats.wordnet.cachedSynsetShards }}/{{ dbStats.wordnet.totalSynsetShards }} ·
+                  frame {{ dbStats.wordnet.cachedFrames }}/{{ dbStats.wordnet.totalFrames }}
+                </div>
+              </article>
+            </div>
+
             <h4 class="db-sub-title">标签分布</h4>
             <div class="tag-dist">
               <div v-for="item in dbStats.tagDistribution" :key="item.tag" class="tag-row">
                 <span class="tag-name">{{ item.tag }}</span>
-                <div class="tag-bar-bg">
-                  <div class="tag-bar" :style="{ width: (item.count / dbStats.tagDistribution[0].count * 100) + '%' }"></div>
+                <div class="tag-race-track">
+                  <div
+                    class="tag-race-fill"
+                    :style="{ width: (item.count / (dbStats.tagDistribution[0]?.count || 1) * 100) + '%' }"
+                  ></div>
                 </div>
-                <span class="tag-count">{{ item.count }}</span>
+                <span class="tag-count">{{ formatCount(item.count) }}</span>
               </div>
             </div>
           </div>
+        </section>
+
+        <LibrarySettings />
+
+        <section class="settings-section licenses-section">
+          <h3>📜 LICENSES</h3>
+          <p class="settings-desc">
+            Lexi 原创代码采用 MIT 许可；数据、内容和第三方依赖分别遵循各自许可。
+          </p>
+
+          <div v-for="group in licenseGroups" :key="group.title" class="license-group">
+            <h4 class="license-group-title">{{ group.title }}</h4>
+            <div class="license-list">
+              <div v-for="project in group.projects" :key="project.name" class="license-row">
+                <div class="license-project">
+                  <div class="license-project-line">
+                    <a :href="project.url" target="_blank" rel="noopener noreferrer">{{ project.name }}</a>
+                    <span v-if="project.version" class="license-version">{{ project.version }}</span>
+                  </div>
+                  <span v-if="project.note" class="license-note">{{ project.note }}</span>
+                </div>
+                <a
+                  v-if="project.licenseUrl"
+                  class="license-badge"
+                  :href="project.licenseUrl"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >{{ project.license }}</a>
+                <span v-else class="license-badge is-plain">{{ project.license }}</span>
+              </div>
+            </div>
+          </div>
+
+          <p class="license-disclaimer">
+            列出来源不构成额外授权、隶属或背书。完整说明见仓库根目录
+            <a href="https://github.com/xy2401/Lexi/blob/main/LICENSES" target="_blank" rel="noopener noreferrer">LICENSES</a>。
+          </p>
         </section>
       </div>
     </div>
@@ -443,34 +684,6 @@ function openWordNet(word: string) {
   font-weight: 600;
 }
 
-/* Reader 布局 */
-.reader-layout {
-  display: grid;
-  grid-template-columns: 280px 1fr;
-  gap: 1.5rem;
-}
-
-.sidebar {
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-}
-
-.input-section label {
-  display: block;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
-}
-
-.input-section textarea {
-  width: 100%;
-  padding: 0.5rem;
-  border: 1px solid #ddd;
-  border-radius: 6px;
-  font-size: 0.9rem;
-  resize: vertical;
-}
-
 .stats, .loading {
   font-size: 0.85rem;
   color: #7f8c8d;
@@ -482,14 +695,6 @@ function openWordNet(word: string) {
 .cache-info {
   font-size: 0.75rem;
   color: #95a5a6;
-}
-
-.reader-main {
-  background: #fff;
-  border: 1px solid #eee;
-  border-radius: 8px;
-  padding: 1.5rem;
-  min-height: 400px;
 }
 
 /* Explorer 布局 */
@@ -646,10 +851,15 @@ function openWordNet(word: string) {
 
 /* 设置页 */
 .settings-layout {
-  max-width: 600px;
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: minmax(0, 600px) minmax(360px, 1fr);
+  align-items: start;
   gap: 1.5rem;
+}
+
+.licenses-section {
+  grid-column: 2;
+  grid-row: 1 / span 3;
 }
 
 .settings-section {
@@ -715,44 +925,244 @@ function openWordNet(word: string) {
   color: #666;
 }
 
+.license-group + .license-group {
+  margin-top: 0.85rem;
+}
+
+.license-group-title {
+  margin: 0 0 0.35rem;
+  color: #64748b;
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+
+.license-list {
+  overflow: hidden;
+  border: 1px solid #e5e7eb;
+  border-radius: 7px;
+}
+
+.license-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding: 0.5rem 0.6rem;
+  background: #fafafa;
+}
+
+.license-row + .license-row {
+  border-top: 1px solid #edf0f3;
+}
+
+.license-project {
+  min-width: 0;
+}
+
+.license-project-line {
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+}
+
+.license-project-line a {
+  overflow: hidden;
+  color: #2563eb;
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.license-project-line a:hover,
+.license-disclaimer a:hover {
+  text-decoration: underline;
+}
+
+.license-version,
+.license-note {
+  color: #94a3b8;
+  font-size: 0.65rem;
+}
+
+.license-version {
+  flex: 0 0 auto;
+}
+
+.license-note {
+  display: block;
+  margin-top: 0.12rem;
+  line-height: 1.35;
+}
+
+.license-badge {
+  flex: 0 0 auto;
+  min-width: 5.7rem;
+  padding: 0.15rem 0.38rem;
+  border: 1px solid #dbe5ef;
+  border-radius: 4px;
+  background: #f8fafc;
+  color: #475569;
+  font-size: 0.63rem;
+  line-height: 1.25;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  box-sizing: border-box;
+}
+
+.license-badge:hover {
+  border-color: #93c5fd;
+  color: #2563eb;
+}
+
+.license-badge.is-plain {
+  color: #9a6700;
+  border-color: #f5df9b;
+  background: #fef9e7;
+}
+
+.license-disclaimer {
+  margin: 0.8rem 0 0;
+  color: #7f8c8d;
+  font-size: 0.68rem;
+  line-height: 1.5;
+}
+
+.license-disclaimer a {
+  color: #2563eb;
+}
+
+.dictionary-status-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.65rem;
+  margin-top: 0.75rem;
+}
+
+.dictionary-status-card {
+  min-width: 0;
+  padding: 0.7rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+.dictionary-status-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.4rem;
+  color: #334155;
+  font-size: 0.76rem;
+}
+
+.dictionary-status {
+  flex: 0 0 auto;
+  padding: 0.1rem 0.35rem;
+  border-radius: 999px;
+  background: #f1f5f9;
+  color: #64748b;
+  font-size: 0.65rem;
+  white-space: nowrap;
+}
+
+.dictionary-status.is-ready {
+  background: #ecfdf5;
+  color: #047857;
+}
+
+.dictionary-status.is-demand {
+  background: #eff6ff;
+  color: #2563eb;
+}
+
+.dictionary-status.is-stale {
+  background: #fff7ed;
+  color: #c2410c;
+}
+
+.dictionary-status-value {
+  margin-top: 0.55rem;
+  color: #1f2937;
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
+.dictionary-status-meta {
+  margin-top: 0.25rem;
+  color: #7c8798;
+  font-size: 0.66rem;
+  line-height: 1.45;
+}
+
 .tag-dist {
   display: flex;
   flex-direction: column;
-  gap: 0.35rem;
+  gap: 0.28rem;
 }
 
 .tag-row {
-  display: flex;
+  display: grid;
+  grid-template-columns: 5.75rem minmax(5rem, 1fr) 3.4rem;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.35rem;
   font-size: 0.75rem;
 }
 
 .tag-name {
-  width: 40px;
-  color: #555;
-  text-align: right;
-}
-
-.tag-bar-bg {
-  flex: 1;
-  height: 12px;
-  background: #f0f0f0;
-  border-radius: 6px;
-  overflow: hidden;
-}
-
-.tag-bar {
-  height: 100%;
-  background: linear-gradient(90deg, #4a90d9, #67b8f7);
-  border-radius: 6px;
-  transition: width 0.3s;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 5.75rem;
+  width: 5.75rem;
+  padding: 0.12rem 0.4rem;
+  border: 1px solid #f5df9b;
+  border-radius: 4px;
+  background: #fef9e7;
+  color: #b9770e;
+  font-weight: 500;
+  line-height: 1.35;
+  white-space: nowrap;
+  box-sizing: border-box;
 }
 
 .tag-count {
-  width: 50px;
   color: #888;
   font-size: 0.7rem;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.tag-race-track {
+  height: 0.55rem;
+  overflow: hidden;
+  border-radius: 999px;
+  background: #f1f5f9;
+}
+
+.tag-race-fill {
+  height: 100%;
+  min-width: 0.2rem;
+  border-radius: inherit;
+  background: linear-gradient(90deg, #4a90d9, #67b8f7);
+  transition: width 0.3s ease;
+}
+
+@media (max-width: 900px) {
+  .settings-layout {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .licenses-section {
+    grid-column: 1;
+    grid-row: auto;
+  }
+
+  .dictionary-status-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 </style>

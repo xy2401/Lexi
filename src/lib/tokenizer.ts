@@ -11,8 +11,15 @@ export interface Token {
   isWord: boolean
 }
 
+export interface ReaderTextAnnotation {
+  text: string
+  kind?: 'tag'
+}
+
+export type ReaderAnnotationValue = string | ReaderTextAnnotation | null
+
 // 英文单词匹配正则（含连字符和撇号）
-const WORD_REGEX = /[a-zA-Z][a-zA-Z'-]*/g
+const WORD_REGEX = /[a-zA-Z][a-zA-Z'’-]*/g
 
 /**
  * 将纯文本分词为 token 数组
@@ -67,7 +74,7 @@ export function markdownToHtml(md: string): string {
  */
 export function annotateHtml(
   html: string,
-  lookupFn: (word: string) => string | null
+  lookupFn: (word: string) => ReaderAnnotationValue
 ): string {
   // 使用 DOMParser 解析 HTML
   const parser = new DOMParser()
@@ -79,7 +86,7 @@ export function annotateHtml(
   return doc.body.innerHTML
 }
 
-function processNode(node: Node, lookupFn: (word: string) => string | null): void {
+function processNode(node: Node, lookupFn: (word: string) => ReaderAnnotationValue): void {
   const children = Array.from(node.childNodes)
 
   for (const child of children) {
@@ -97,14 +104,19 @@ function processNode(node: Node, lookupFn: (word: string) => string | null): voi
         if (!token.isWord) {
           fragment.appendChild(document.createTextNode(token.text))
         } else {
-          const meaning = lookupFn(token.text)
-          if (meaning) {
+          const annotation = lookupFn(token.text)
+          if (annotation) {
             // 创建 <ruby> 标签
             const ruby = document.createElement('ruby')
             ruby.textContent = token.text
             ruby.dataset.word = token.text.toLowerCase()
             const rt = document.createElement('rt')
-            rt.textContent = meaning
+            if (typeof annotation === 'string') {
+              rt.textContent = annotation
+            } else {
+              rt.textContent = annotation.text
+              if (annotation.kind) ruby.dataset.annotationKind = annotation.kind
+            }
             ruby.appendChild(rt)
             fragment.appendChild(ruby)
           } else {

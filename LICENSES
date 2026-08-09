@@ -1,0 +1,119 @@
+# Lexi Licenses and Third-Party Notices
+
+本文件说明 Lexi 自有代码及项目直接使用的数据、内容与软件依赖的许可边界。
+
+## 1. Lexi 原创代码
+
+Lexi 原创源代码采用 MIT License，Copyright (c) 2026 Lexi contributors。
+
+本节的 MIT 授权只适用于 Lexi 贡献者拥有版权的代码，不覆盖下列第三方数据、内容、商标或软件。MIT License 全文见本文件末尾。
+
+## 2. 数据与内容来源
+
+### ECDICT
+
+- 项目：https://github.com/skywind3000/ECDICT
+- 许可：MIT License
+- 许可文本：https://github.com/skywind3000/ECDICT/blob/master/LICENSE
+- 上游版权声明：Copyright (c) 2025 Linwei
+- 在 Lexi 中的用途：英汉词条、词频、考试标签、词根、近义词和词族数据。
+- Lexi 所作处理：提取、字段规范化、Hot/Main 划分、JSONL 逻辑分片与索引生成。
+
+ECDICT 的完整上游许可文本也保留在 `data/ECDICT/LICENSE`。
+
+### Open English WordNet 2025 Core
+
+- 项目：https://en-word.net/
+- 下载：https://en-word.net/downloads
+- 许可：Creative Commons Attribution 4.0 International (CC BY 4.0)
+- 许可文本：https://creativecommons.org/licenses/by/4.0/
+- 在 Lexi 中的用途：英文释义、sense、synset、动词句型和语义关系。
+- Lexi 所作处理：字段规范化、lemma bundle 与 canonical synset graph 生成、必要反向关系推导、目标摘要补充及 JSONL 分片。构建产物不等同于未经修改的上游文件。
+
+使用或再分发相关数据时，应保留 Open English WordNet 的署名、CC BY 4.0 许可链接，并说明上述修改。
+
+### Standard Ebooks
+
+- 项目：https://standardebooks.org/
+- 公版说明：https://standardebooks.org/about/standard-ebooks-and-the-public-domain
+- 许可：Standard Ebooks 自制内容采用 CC0；其收录书籍依据美国法律属于公版。
+- CC0 文本：https://creativecommons.org/publicdomain/zero/1.0/
+- 在 Lexi 中的用途：远程电子书正文、封面、目录和 OPF 元数据。
+
+书籍是否在其他司法辖区属于公版可能不同，使用者应按所在地法律自行判断。Lexi 只提供读取和本地缓存能力，不改变任何书籍原有的权利状态。
+
+### Duome
+
+- 项目：https://duome.eu/
+- 许可：未识别到公开的开源许可。
+- 在 Lexi 中的用途：课程单元与词汇元数据的来源说明。
+
+相关内容不受 Lexi MIT License 覆盖。本清单只记录来源，不授予任何额外使用权。
+
+### Duolingo
+
+- 网站：https://www.duolingo.com/
+- 条款：https://www.duolingo.com/terms
+- 许可：专有内容，受 Duolingo Terms of Service 约束。
+- 在 Lexi 中的用途：名称及课程相关材料的来源说明。
+
+Duolingo 名称、商标及其专有内容不受 Lexi MIT License 覆盖。Lexi 与 Duolingo 不存在隶属、赞助或背书关系。
+
+## 3. 直接软件依赖
+
+下表列出当前 lockfile 中锁定的直接运行时与开发依赖。每个项目及其再分发文件仍受自身许可约束。
+
+| 项目 | 版本 | 项目链接 | 许可 |
+| --- | ---: | --- | --- |
+| Commander.js | 12.1.0 | https://github.com/tj/commander.js | MIT |
+| CSV for Node.js (`csv-parse`) | 5.6.0 | https://github.com/adaltas/node-csv | MIT |
+| Dexie.js | 4.4.4 | https://github.com/dexie/Dexie.js | Apache-2.0 |
+| DOMPurify | 3.4.13 | https://github.com/cure53/DOMPurify | MPL-2.0 OR Apache-2.0 |
+| fflate | 0.8.3 | https://github.com/101arrowz/fflate | MIT |
+| Marked | 18.0.9 | https://github.com/markedjs/marked | MIT |
+| Pinia | 4.0.2 | https://github.com/vuejs/pinia | MIT |
+| Vue.js | 3.5.41 | https://github.com/vuejs/core | MIT |
+| WaveSurfer.js | 7.12.11 | https://github.com/katspaugh/wavesurfer.js | BSD-3-Clause |
+| Node.js type definitions (`@types/node`) | 26.2.0 | https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node | MIT |
+| fake-indexeddb | 6.2.5 | https://github.com/dumbmatter/fakeIndexedDB | Apache-2.0 |
+| jsdom | 29.1.1 | https://github.com/jsdom/jsdom | MIT |
+| Vite Plugin Vue | 6.0.8 | https://github.com/vitejs/vite-plugin-vue/tree/main/packages/plugin-vue | MIT |
+| 7zip-min | 3.0.1 | https://github.com/onikienko/7zip-min | MIT |
+| TypeScript | 7.0.2 | https://github.com/microsoft/TypeScript | Apache-2.0 |
+| Vite | 8.2.1 | https://github.com/vitejs/vite | MIT |
+| Vitest | 4.1.10 | https://github.com/vitest-dev/vitest | MIT |
+| Vue Language Tools (`vue-tsc`) | 3.3.9 | https://github.com/vuejs/language-tools | MIT |
+
+许可文本：
+
+- MIT：https://opensource.org/license/mit
+- Apache-2.0：https://www.apache.org/licenses/LICENSE-2.0
+- BSD-3-Clause：https://opensource.org/license/bsd-3-clause
+- MPL-2.0：https://www.mozilla.org/MPL/2.0/
+- CC0：https://creativecommons.org/publicdomain/zero/1.0/
+
+间接依赖及其精确版本记录在 `package-lock.json` 中。它们分别适用 npm 包中声明的许可；本文件不改变这些许可。
+
+## 4. MIT License（Lexi 原创代码）
+
+MIT License
+
+Copyright (c) 2026 Lexi contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

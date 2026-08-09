@@ -9,10 +9,14 @@
 ## 功能模块
 
 ### 📖 阅读器（Reader）
-- 粘贴任意英文文本，自动标注词汇难度（基于 ECDICT 词频 / collins / oxford 标记）
+- 接入可配置的 Standard Ebooks 解包书库，支持搜索、分类多选、排序、分页、收藏、最近阅读和继续阅读
+- 支持导入无 DRM 的 EPUB 2/3 与单文件 HTML；临时文本继续接受纯文本、Markdown 和 HTML
+- 沉浸阅读提供目录、章节导航、进度恢复、主题、字体、字号、行高和正文宽度设置
+- 远程章节及图片、本地图书、收藏和阅读进度保存在独立的 `lexi-reader` IndexedDB
+- 自动标注词汇难度（基于 ECDICT 词频 / collins / oxford 标记），关闭标注后仍可点击查词
 - 点击词条展示音标、中文释义、词性与词形变化
-- 支持标签三态筛选（仅看 / 排除 / 默认）
-- 支持整句 TTS 朗读、逐段播放和人声跟读录音
+- 支持标签四态筛选（仅看 / 排除 / 标注 / 默认）；标注态以黄色标签显示最低等级的标签代码（如 `gk`、`gre`），不显示 ruby 释义
+- 支持段落/章节 TTS 朗读和人声跟读录音
 - 录音完成后显示波形、FFT 频谱与时间轴
 
 ### 🔍 词典浏览器（Explorer）
@@ -52,6 +56,8 @@
 ### ⚙️ 设置（Settings）
 - 选择并试听浏览器提供的英文 TTS 语音
 - 查看 IndexedDB 词库数量、存储占用与考试标签分布
+- 新增、编辑、启停、切换和测试远程图书馆来源
+- 查看 Reader 独立存储用量，并在保留收藏、进度和本地图书的前提下清除远程缓存
 
 ---
 
@@ -60,13 +66,42 @@
 - **Vue 3 + TypeScript + Vite**：页面、组件和生产构建
 - **Pinia**：词典加载状态、内存词条索引和全局标签筛选
 - **Dexie / IndexedDB**：持久缓存 Hot、Main 与 WordNet 已下载分片中的有效数据
+- **独立 Reader IndexedDB**：持久保存来源、书目、书包元数据、清洗后的章节、图片、本地图书与进度
 - **JSON Lines**：每行一个领域对象，浏览器原生解析后直接写入 IndexedDB
+- **fflate + DOMPurify**：浏览器异步解包 EPUB，并统一清洗远程 XHTML、本地图书和临时 HTML
 - **Web Speech API**：浏览器本地 TTS 朗读
 - **MediaRecorder + WaveSurfer.js**：跟读录音、波形与频谱展示
 
 三套数据采用同一条基础链路：先查 IndexedDB，未命中时由 manifest 定位一个 JSONL 分片，完整下载并逐行解析，再将该分片内可复用的数据和完成标记放入同一 IndexedDB 事务。Hot、Main 与 WordNet 的加载时机和分片边界各自独立；WordNet 加载失败不会影响 ECDICT。
 
 SQLite、HTTP Range 与 Cloudflare Pages 的探索过程及迁移依据记录在[《词典存储架构演进：SQLite、HTTP Range 与 JSONL》](docs/dictionary-storage-evolution.md)。
+
+---
+
+## 电子书库
+
+Reader 第一版使用 `standard-ebooks-unpacked-v1` 适配器。书库根目录提供分类目录 JSON，并按分类保留解包后的 Standard Ebooks 仓库：
+
+```text
+{baseUrl}/subject_top100.json
+{baseUrl}/{subject}/{repo_name}/src/epub/content.opf
+{baseUrl}/{subject}/{repo_name}/src/epub/toc.xhtml
+{baseUrl}/{subject}/{repo_name}/src/epub/{chapterHref}
+{baseUrl}/{subject}/{repo_name}/src/epub/images/cover.svg
+```
+
+同一本书在多个分类出现时按 `repo_name` 合并，并保留完整的 `subjects[]`；资源优先从首次出现的分类加载，404 时自动尝试其他分类并记住成功路径。当前测试目录为 19 类、1900 条分类记录，合并后 936 本书。
+
+本地开发可直接发布外部书库目录，无需复制或修改书库仓库：
+
+```bash
+npm run dev:library -- --root "D:\xy2401\codeDoc.wget\Ebooks" --port 8000
+npm run dev
+```
+
+静态服务仅允许 `GET`、`HEAD`、`OPTIONS`，提供 CORS、正确 MIME、`Content-Length` 与 `Last-Modified`，并拒绝目录穿越。开发环境默认连接 `http://localhost:8000`，也可通过 `VITE_DEFAULT_LIBRARY_URL` 覆盖；生产书库必须使用 HTTPS 并返回 `Access-Control-Allow-Origin`。Lexi 不使用 iframe 或服务端代理。
+
+远程目录会优先从 IndexedDB 展示并在后台刷新。章节及其图片完成同一事务后才标记为缓存成功；再次打开已缓存章节不发送正文或图片请求。来源故障只影响该远程来源，不影响本地图书、临时文本或词典。
 
 ---
 
@@ -173,8 +208,11 @@ npm install
 npm run build:data    # 解压完整归档，生成 Main/Hot JSONL 和 manifest
 npm run build:wordnet # 下载、校验 73 个源 JSON，并构建 WordNet JSONL
 npm run dev          # 生成扩展数据并启动 Vite 开发服务器（默认端口 3000）
+npm run dev:library -- --root "D:\path\to\Ebooks" --port 8000 # 启动带 CORS 的本地书库服务
 npm run build        # 构建 WordNet、生成扩展数据、校验课程并执行 Vite 生产构建
 npm run preview      # 本地预览 dist 生产构建
+npm run typecheck    # TypeScript 静态检查
+npm test             # Reader 目录、清洗、HTML 与 EPUB 导入测试
 ```
 
 其他数据维护命令：
@@ -237,13 +275,16 @@ scripts/
   validate-dictionary-assets.mjs # 校验部署数据库与跨分片引用
   build-extension-datasets.mjs   # 构建词根、近义词、词族数据集
   course-tools.mjs               # 多邻国课程校验与索引构建
+  serve-ebook-library.mjs        # 带 CORS 与路径防护的静态书库服务
 
 src/
-  App.vue                        # 八个主模块的入口与全局词典卡片
+  App.vue                        # 主模块入口、全局词典卡片与设置
   components/
     TagSwitcher.vue              # 全宽标签三态筛选组件
     PaginationBar.vue            # 分页栏（支持锚点回顶）
     ReaderView.vue               # 阅读标注、分段朗读与跟读入口
+    ReaderWorkspace.vue          # 远程/本地书架、详情与沉浸阅读
+    LibrarySettings.vue          # 图书馆来源与 Reader 存储管理
     ExplorerTree.vue             # A-Z 词典浏览器
     WordNetView.vue              # sense 面板与一跳语义关系图
     WordRootView.vue             # 词根词缀模块
@@ -267,4 +308,15 @@ src/
     wordnet-service.ts           # WordNet 路由、整片导入与三个业务接口
     morphology.ts                # 词形还原与反向索引
     course-markdown.ts           # 课程 Markdown 与练习定义解析
+    reader-types.ts              # Reader 领域类型与显示设置
+    reader-db.ts                 # 独立 lexi-reader IndexedDB
+    reader-sanitize.ts           # 书籍与临时 HTML 安全清洗
+    library-service.ts           # 远程目录、OPF/TOC、章节与缓存接口
+    epub-import.ts               # EPUB 2/3 与 HTML 本地导入
 ```
+
+---
+
+## 许可证
+
+Lexi 原创源代码采用 [MIT License](https://opensource.org/license/mit)。ECDICT、Open English WordNet、课程来源及第三方依赖不因收录于本项目而改用 MIT，仍分别遵循其自身许可或服务条款。完整的项目链接、许可名称、署名与修改说明见根目录 [LICENSES](LICENSES)。
