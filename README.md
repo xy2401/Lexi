@@ -21,6 +21,13 @@
 - 点击词条展示完整词典卡片
 - 支持单词发音、词形关系展示与单词跟读录音
 
+### 🕸️ 英语语义网络（Open English WordNet）
+- 按 lemma 浏览名词、动词、形容词和副词的独立 sense
+- 展示释义、例句、同义词、动词句型和一跳语义关系图
+- 支持沿上位、下位、组成、整体、蕴含、派生等关系交互导航
+- 图中最多展示 40 个节点，完整关系保留在分类折叠列表中
+- 使用本地 ECDICT Hot 缓存补充简短中文释义和考试标签
+
 ### 🌳 词根词缀（Word Root）
 - 浏览 ECDICT 词根、前缀、后缀与词源数据
 - 支持按词根、含义或例词搜索，以及类型和词源筛选
@@ -57,17 +64,21 @@
 - **Web Speech API**：浏览器本地 TTS 朗读
 - **MediaRecorder + WaveSurfer.js**：跟读录音、波形与频谱展示
 
-应用启动时将 Hot 词库载入 IndexedDB 和内存 Map，以支持阅读器的同步标注；未缓存的完整词条再从远端主分片按需获取，并写回本地缓存。
+应用启动时将 ECDICT Hot 词库载入 IndexedDB 和内存 Map，以支持阅读器的同步标注；未缓存的完整词条再从远端主分片按需获取，并写回本地缓存。Open English WordNet 使用独立 manifest、HTTP VFS worker 和查询缓存，加载失败不会影响 ECDICT。
 
 ---
 
-## 词典数据源
+## 双词典数据源
 
-Lexi 只使用 ECDICT 仓库中 `stardict.7z` 提供的完整数据。完整归档解压后约 340 万词。
+Lexi 同时使用两个职责独立的数据源：ECDICT 提供英汉词条、词频和考试标签；Open English WordNet 提供权威的英文释义、sense 划分和词义关系网络。两套数据库分别构建、分别加载，互不依赖。
+
+### ECDICT 英汉词典
+
+ECDICT 数据来自仓库中的 `stardict.7z` 完整归档，解压后约 340 万词。
 
 Hot 词库是从同一完整数据中筛出的 57,818 条高频/考试词汇，负责首屏标注和快速启动。
 
-### 两字符语义分片
+#### 两字符语义分片
 
 完整词典按单词前两位路由：
 
@@ -100,7 +111,7 @@ CREATE TABLE words (
 
 构建后执行 `VACUUM` 和 `PRAGMA quick_check`。20MiB 以上给出警告，达到 25MiB 时构建失败。
 
-### 查询流程
+#### 查询流程
 
 ```text
 启动
@@ -113,6 +124,40 @@ CREATE TABLE words (
             └─ 完整词条写回 IndexedDB
 ```
 
+### Open English WordNet 2025 Core
+
+构建脚本固定下载官方 `english-wordnet-2025-json.zip`，并在解压前校验 SHA-256：
+
+```text
+7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+```
+
+数据规模为 135,969 个 lexical entries、185,129 个 senses、107,519 个 synsets。项目只使用 Core 数据，不引入 Plus、Namenet 或 Kaikki。
+
+SQLite 按官方 73 个 JSON 文件的逻辑边界生成。数据库共使用六种规范化表：
+
+```text
+entries-*.db
+  wordnet_entries
+  wordnet_senses
+  wordnet_sense_relations
+
+noun.* / verb.* / adj.* / adv.*.db
+  wordnet_synsets
+  wordnet_synset_relations
+
+frames.db
+  wordnet_frames
+```
+
+lemma、sense ID、synset ID、关系类型和关系目标均为显式可索引列；只有发音、词形、释义、例句、成员等无需独立检索的数组使用 JSON 列。前端查询层对外只提供 `lookupWordNetLemma()`、`loadWordNetSynset()` 和 `loadWordNetFrames()` 三个业务接口。
+
+WordNet 查询按首字符定位 entry 分片，再根据 sense 行中的 `synset_shard` 定位 canonical synset。关系行携带目标分片和简短摘要，因此绘制一跳网络不需要逐节点请求数据库；点击目标节点时才加载其 canonical synset。
+
+所有分片构建后执行 `VACUUM` 和 `PRAGMA quick_check`。20 MiB 以上警告，达到 Cloudflare Pages 25 MiB 单文件限制时构建失败。
+
+Open English WordNet 2025 由 [Open English WordNet](https://en-word.net/) 发布，依照 [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) 使用。
+
 ---
 
 ## 构建
@@ -122,10 +167,12 @@ CREATE TABLE words (
 - Node.js ≥ 22
 - `data/ECDICT` git submodule
 - `data/ECDICT/stardict.7z`
+- 构建环境可访问 `https://en-word.net/`（WordNet 压缩包会自动下载并校验）
 
 ```bash
 npm install
 npm run build:data   # 解压完整归档，生成两字符主分片、Hot 分片和 manifest
+npm run build:wordnet # 下载、校验并构建 73 个 WordNet SQLite 分片
 npm run dev          # 生成扩展数据并启动 Vite 开发服务器（默认端口 3000）
 npm run build        # 生成扩展数据、校验课程并执行 Vite 生产构建
 npm run preview      # 本地预览 dist 生产构建
@@ -135,6 +182,8 @@ npm run preview      # 本地预览 dist 生产构建
 
 ```bash
 npm run build:dict       # 从已解压的 SQLite 数据生成词典分片
+npm run prepare:wordnet  # 仅下载、校验和解压 OEWN 2025 Core
+npm run build:wordnet    # 准备源数据并构建 WordNet 数据库
 npm run build:extensions # 生成词根、近义词和词族数据集
 npm run build:course     # 构建多邻国课程索引
 npm run validate:course  # 校验课程 Markdown 和练习定义
@@ -143,7 +192,7 @@ npm run validate:course  # 校验课程 Markdown 和练习定义
 Cloudflare Pages 构建命令：
 
 ```bash
-git submodule update --init --recursive && npm run build:data && npm run build
+git submodule update --init --recursive && npm run build:data && npm run build:wordnet && npm run build
 ```
 
 生成结构：
@@ -151,14 +200,24 @@ git submodule update --init --recursive && npm run build:data && npm run build
 ```text
 public/dicts/
 ├── manifest.json
+├── wordnet-manifest.json
 ├── main/
 │   ├── __.db
 │   ├── a_.db
 │   ├── aa.db
 │   └── ...
-└── hot/
-    ├── _.db
-    ├── a.db
+├── hot/
+│   ├── _.db
+│   ├── a.db
+│   └── ...
+└── wordnet/
+    ├── entries-0.db
+    ├── entries-a.db
+    ├── noun.act.db
+    ├── verb.motion.db
+    ├── adj.all.db
+    ├── adv.all.db
+    ├── frames.db
     └── ...
 ```
 
@@ -170,16 +229,19 @@ public/dicts/
 scripts/
   extract-stardict.mjs           # 解压 ECDICT stardict.7z
   build-dictionary-shards.mjs    # 构建主分片与 Hot 词库
+  prepare-wordnet.mjs            # 下载、校验、解压 OEWN 2025 Core
+  build-wordnet.mjs              # 构建规范化 WordNet SQLite 分片
   build-extension-datasets.mjs   # 构建词根、近义词、词族数据集
   course-tools.mjs               # 多邻国课程校验与索引构建
 
 src/
-  App.vue                        # 七个主模块的入口与全局词典卡片
+  App.vue                        # 八个主模块的入口与全局词典卡片
   components/
     TagSwitcher.vue              # 全宽标签三态筛选组件
     PaginationBar.vue            # 分页栏（支持锚点回顶）
     ReaderView.vue               # 阅读标注、分段朗读与跟读入口
     ExplorerTree.vue             # A-Z 词典浏览器
+    WordNetView.vue              # sense 面板与一跳语义关系图
     WordRootView.vue             # 词根词缀模块
     ResembleView.vue             # 近义词与易混词辨析模块
     LemmaView.vue                # 词族演变模块
@@ -196,6 +258,9 @@ src/
     remote-db.ts                 # 两字符路由与查询接口
     db.ts                        # Hot/完整词条 IndexedDB 缓存
     lookup-service.ts            # local-hot/full → remote-main
+    wordnet-manifest.ts          # WordNet 版本、统计与分片清单
+    wordnet-http-vfs.ts          # WordNet 独立 HTTP Range worker
+    wordnet-service.ts           # 三个 WordNet 业务查询接口
     morphology.ts                # 词形还原与反向索引
     course-markdown.ts           # 课程 Markdown 与练习定义解析
 ```

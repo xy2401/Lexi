@@ -10,10 +10,16 @@
 /dicts/manifest.json
   Cache-Control: no-cache
 
+/dicts/wordnet-manifest.json
+  Cache-Control: no-cache
+
 /dicts/main/*
   Cache-Control: public, max-age=31536000, immutable
 
 /dicts/hot/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/dicts/wordnet/*
   Cache-Control: public, max-age=31536000, immutable
 
 # 带 hash 的静态资源：长期缓存

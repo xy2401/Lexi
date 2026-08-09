@@ -2,9 +2,12 @@ node_modules/
 dist/
 package-lock.json
 data/stardict-raw/
+data/wordnet-raw/
 public/dicts/main/
 public/dicts/hot/
 public/dicts/manifest.json
+public/dicts/wordnet/
+public/dicts/wordnet-manifest.json
 public/data/wordroot.json
 public/data/resemble.json
 public/data/lemma.json

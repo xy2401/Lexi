@@ -14,6 +14,7 @@ import DuolingoView from './components/DuolingoView.vue'
 import WordRootView from './components/WordRootView.vue'
 import ResembleView from './components/ResembleView.vue'
 import LemmaView from './components/LemmaView.vue'
+import WordNetView from './components/WordNetView.vue'
 import { useTTS } from './composables/useTTS'
 import type { WordEntry } from './lib/db'
 
@@ -70,8 +71,9 @@ function formatBytes(bytes: number): string {
 }
 
 // ========== 模块切换 ==========
-type TabId = 'reader' | 'explorer' | 'wordroot' | 'resemble' | 'lemma' | 'duolingo' | 'settings'
+type TabId = 'reader' | 'explorer' | 'wordnet' | 'wordroot' | 'resemble' | 'lemma' | 'duolingo' | 'settings'
 const activeTab = ref<TabId>('reader')
+const wordNetInitialWord = ref('bank')
 
 // ========== Reader 模块 ==========
 const inputText = ref('The quick brown fox jumps over the lazy dog. She was running happily through the beautiful garden.')
@@ -165,6 +167,11 @@ function speakExplorerWord() {
   if (explorerEntry.value && !dictionaryRecording.value) speak(explorerEntry.value.word)
 }
 
+function openWordNet(word: string) {
+  wordNetInitialWord.value = word
+  activeTab.value = 'wordnet'
+}
+
 </script>
 
 <template>
@@ -174,13 +181,16 @@ function speakExplorerWord() {
       <p class="subtitle">渐进式英语阅读与听说训练沙盒</p>
     </header>
 
-    <!-- 7 模块 Tab 导航 -->
+    <!-- 8 模块 Tab 导航 -->
     <nav class="tab-nav">
       <button :class="['tab-btn', { active: activeTab === 'reader' }]" @click="activeTab = 'reader'">
         📖 阅读器
       </button>
       <button :class="['tab-btn', { active: activeTab === 'explorer' }]" @click="activeTab = 'explorer'">
         🔍 词典浏览
+      </button>
+      <button :class="['tab-btn', { active: activeTab === 'wordnet' }]" @click="activeTab = 'wordnet'">
+        🕸️ 语义网络
       </button>
       <button :class="['tab-btn', { active: activeTab === 'wordroot' }]" @click="activeTab = 'wordroot'">
         🌳 词根词缀
@@ -268,6 +278,9 @@ function speakExplorerWord() {
               </ol>
             </div>
             <p class="word-pos" v-if="explorerEntry.pos">{{ explorerEntry.pos }}</p>
+            <button class="wordnet-link" @click="openWordNet(explorerEntry.word)">
+              查看 “{{ explorerEntry.word }}” 的语义网络 →
+            </button>
           </div>
           <FollowReadPanel
             v-if="explorerEntry"
@@ -283,6 +296,11 @@ function speakExplorerWord() {
           <MorphNebula :entry="explorerEntry" @select-word="handleExplorerSelectWord" />
         </div>
       </div>
+    </div>
+
+    <!-- ===== Open English WordNet 语义网络 ===== -->
+    <div class="tab-content" v-show="activeTab === 'wordnet'">
+      <WordNetView :initial-word="wordNetInitialWord" :active="activeTab === 'wordnet'" />
     </div>
 
     <!-- ===== 词根词缀 模块 ===== -->
@@ -395,10 +413,26 @@ function speakExplorerWord() {
 /* Tab 导航 */
 .tab-nav {
   display: flex;
+  flex-wrap: wrap;
   gap: 0.5rem;
   margin-bottom: 1.5rem;
   border-bottom: 2px solid #eee;
   padding-bottom: 0.5rem;
+}
+
+.wordnet-link {
+  margin-top: 0.8rem;
+  padding: 0.55rem 0.85rem;
+  border: 1px solid #087e8b;
+  border-radius: 8px;
+  background: #edf9f8;
+  color: #087e8b;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.wordnet-link:hover {
+  background: #dff3f2;
 }
 
 .tab-btn {
