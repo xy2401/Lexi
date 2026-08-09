@@ -128,6 +128,36 @@ export function getWordNetEntryShard(lemma: string): string {
   return /^[a-z]$/.test(first) ? `entries-${first}.db` : 'entries-0.db'
 }
 
+const suggestionCache = new Map<string, string[]>()
+
+export async function suggestWordNetLemmas(rawPrefix: string, limit = 8): Promise<string[]> {
+  const prefix = rawPrefix.trim().toLowerCase()
+  if (!prefix) return []
+  const safeLimit = Math.max(1, Math.min(12, Math.floor(limit)))
+  const cacheKey = `${prefix}:${safeLimit}`
+  const cached = suggestionCache.get(cacheKey)
+  if (cached) return cached
+
+  const rows = await queryWordNetShard<{ lemma: string }>(getWordNetEntryShard(prefix), `
+    SELECT DISTINCT lemma
+    FROM {db}.wordnet_entries
+    WHERE lemma >= ? COLLATE NOCASE
+      AND lemma < ? COLLATE NOCASE
+    ORDER BY lemma COLLATE NOCASE
+    LIMIT ?
+  `, [prefix, `${prefix}\uffff`, safeLimit * 3])
+  const unique = new Map<string, string>()
+  for (const row of rows) {
+    const key = row.lemma.toLowerCase()
+    const current = unique.get(key)
+    if (!current || row.lemma === key) unique.set(key, row.lemma)
+  }
+  const suggestions = [...unique.values()].slice(0, safeLimit)
+  if (suggestionCache.size >= 100) suggestionCache.delete(suggestionCache.keys().next().value || '')
+  suggestionCache.set(cacheKey, suggestions)
+  return suggestions
+}
+
 export async function lookupWordNetLemma(rawLemma: string): Promise<WordNetEntryBundle[]> {
   const lemma = rawLemma.trim()
   if (!lemma) return []

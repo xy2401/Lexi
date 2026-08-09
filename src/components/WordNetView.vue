@@ -5,6 +5,7 @@ import {
   loadWordNetFrames,
   loadWordNetSynset,
   lookupWordNetLemma,
+  suggestWordNetLemmas,
   type WordNetEntryBundle,
   type WordNetFrame,
   type WordNetSense,
@@ -30,6 +31,11 @@ const frames = ref<WordNetFrame[]>([])
 const loading = ref(false)
 const synsetLoading = ref(false)
 const error = ref('')
+const suggestions = ref<string[]>([])
+const suggestionsOpen = ref(false)
+const activeSuggestion = ref(-1)
+let suggestionTimer: ReturnType<typeof setTimeout> | undefined
+let suggestionRequest = 0
 
 const allSenses = computed(() => entries.value.flatMap(entry => entry.senses))
 const selectedSense = computed(() => allSenses.value.find(sense => sense.id === selectedSenseId.value) || null)
@@ -140,6 +146,7 @@ async function search(raw = query.value) {
   const word = raw.trim()
   if (!word) return
   query.value = word
+  suggestionsOpen.value = false
   searchedWord.value = word
   loading.value = true
   error.value = ''
@@ -157,6 +164,54 @@ async function search(raw = query.value) {
   } finally {
     loading.value = false
   }
+}
+
+function requestSuggestions() {
+  if (suggestionTimer) clearTimeout(suggestionTimer)
+  const prefix = query.value.trim()
+  if (!prefix) {
+    suggestions.value = []
+    suggestionsOpen.value = false
+    return
+  }
+  const request = ++suggestionRequest
+  suggestionTimer = setTimeout(async () => {
+    try {
+      const result = await suggestWordNetLemmas(prefix)
+      if (request !== suggestionRequest || query.value.trim() !== prefix) return
+      suggestions.value = result
+      activeSuggestion.value = -1
+      suggestionsOpen.value = result.length > 0
+    } catch (cause) {
+      console.warn('[WordNet] 自动补全加载失败', cause)
+      suggestions.value = []
+      suggestionsOpen.value = false
+    }
+  }, 160)
+}
+
+function chooseSuggestion(lemma: string) {
+  query.value = lemma
+  suggestionsOpen.value = false
+  void search(lemma)
+}
+
+function moveSuggestion(offset: number) {
+  if (!suggestionsOpen.value || !suggestions.value.length) {
+    requestSuggestions()
+    return
+  }
+  const count = suggestions.value.length
+  activeSuggestion.value = (activeSuggestion.value + offset + count) % count
+}
+
+function submitSearch() {
+  const selected = suggestions.value[activeSuggestion.value]
+  void search(selected || query.value)
+}
+
+function closeSuggestionsLater() {
+  setTimeout(() => { suggestionsOpen.value = false }, 120)
 }
 
 async function recenter(relation: WordNetSynsetRelation) {
@@ -183,38 +238,50 @@ watch(() => [props.initialWord, props.active] as const, ([word, active]) => {
 
 <template>
   <section class="wordnet-view">
-    <header class="wordnet-hero">
-      <div>
-        <p class="eyebrow">OPEN ENGLISH WORDNET 2025</p>
-        <h2>英语语义网络</h2>
-        <p>从一个词义出发，探索它的上位、下位、组成、蕴含与派生关系。</p>
-      </div>
-      <form class="wordnet-search" @submit.prevent="search()">
-        <label class="sr-only" for="wordnet-query">查询英文单词</label>
-        <input id="wordnet-query" v-model="query" autocomplete="off" placeholder="输入英文单词，例如 bank" />
-        <button type="submit" :disabled="loading">{{ loading ? '查询中…' : '探索' }}</button>
-      </form>
-    </header>
-
-    <div v-if="error" class="wordnet-state error-state">
-      <strong>WordNet 暂时不可用</strong>
-      <span>{{ error }}</span>
-    </div>
-    <div v-else-if="loading && !entries.length" class="wordnet-state">正在读取语义分片…</div>
-    <div v-else-if="searchedWord && !entries.length" class="wordnet-state">
-      Open English WordNet 中没有找到 “{{ searchedWord }}”。
-    </div>
-
-    <div v-if="entries.length" class="semantic-layout">
+    <div class="semantic-layout">
       <aside class="sense-panel">
         <div class="sense-heading">
-          <div>
-            <span class="sense-kicker">LEMMA</span>
-            <h3>{{ entries[0].lemma }}</h3>
-          </div>
-          <span>{{ allSenses.length }} 个词义</span>
+          <form class="sense-search" role="search" @submit.prevent="submitSearch">
+            <label class="sense-kicker" for="wordnet-query">LEMMA</label>
+            <h3>
+              <input
+                id="wordnet-query"
+                v-model="query"
+                role="combobox"
+                autocomplete="off"
+                aria-autocomplete="list"
+                :aria-expanded="suggestionsOpen"
+                aria-controls="wordnet-suggestions"
+                placeholder="输入英文单词"
+                @input="requestSuggestions"
+                @focus="requestSuggestions"
+                @blur="closeSuggestionsLater"
+                @keydown.down.prevent="moveSuggestion(1)"
+                @keydown.up.prevent="moveSuggestion(-1)"
+                @keydown.enter.prevent="submitSearch"
+                @keydown.esc="suggestionsOpen = false"
+              />
+              <button type="submit" :disabled="loading" aria-label="查询 WordNet">
+                {{ loading ? '…' : '⌕' }}
+              </button>
+            </h3>
+            <ul v-if="suggestionsOpen" id="wordnet-suggestions" class="wordnet-suggestions" role="listbox">
+              <li v-for="(lemma, index) in suggestions" :key="lemma" role="option" :aria-selected="index === activeSuggestion">
+                <button
+                  type="button"
+                  :class="{ active: index === activeSuggestion }"
+                  @mousedown.prevent="chooseSuggestion(lemma)"
+                >{{ lemma }}</button>
+              </li>
+            </ul>
+          </form>
+          <span v-if="entries.length">{{ allSenses.length }} 个词义</span>
         </div>
 
+        <div v-if="loading && !entries.length" class="sense-state">正在读取语义分片…</div>
+        <div v-else-if="searchedWord && !entries.length && !error" class="sense-state">
+          没有找到 “{{ searchedWord }}”
+        </div>
         <section v-for="entry in entries" :key="`${entry.lemma}-${entry.pos}`" class="pos-section">
           <h4>{{ posLabel(entry.pos) }}</h4>
           <button
@@ -239,7 +306,12 @@ watch(() => [props.initialWord, props.active] as const, ([word, active]) => {
       </aside>
 
       <main class="graph-panel">
-        <div v-if="synsetLoading" class="graph-loading">正在读取语义节点…</div>
+        <div v-if="error" class="wordnet-state error-state">
+          <strong>WordNet 暂时不可用</strong>
+          <span>{{ error }}</span>
+        </div>
+        <div v-else-if="loading && !entries.length" class="graph-loading">正在读取词义…</div>
+        <div v-else-if="synsetLoading" class="graph-loading">正在读取语义节点…</div>
         <template v-else-if="synset">
           <header class="synset-header">
             <div>
@@ -320,6 +392,7 @@ watch(() => [props.initialWord, props.active] as const, ([word, active]) => {
             </details>
           </section>
         </template>
+        <div v-else class="wordnet-state compact-state">在左侧输入单词，从一个词义开始探索。</div>
       </main>
     </div>
 
@@ -340,34 +413,24 @@ watch(() => [props.initialWord, props.active] as const, ([word, active]) => {
   color: var(--ink);
 }
 
-.wordnet-hero {
-  display: flex;
-  align-items: flex-end;
-  justify-content: space-between;
-  gap: 2rem;
-  padding: 2rem;
-  margin-bottom: 1.25rem;
-  border: 1px solid #cde1df;
-  border-radius: 18px;
-  background: radial-gradient(circle at 90% 10%, #ccebe7 0, transparent 34%), linear-gradient(135deg, #f8fffe, #edf7f5);
-}
-
-.wordnet-hero h2 { margin: 0.1rem 0; font-size: clamp(1.7rem, 3vw, 2.6rem); }
-.wordnet-hero p { margin: 0.25rem 0 0; color: var(--muted); }
-.eyebrow, .sense-kicker { color: var(--accent) !important; font-size: 0.72rem; font-weight: 800; letter-spacing: 0.16em; }
-
-.wordnet-search { display: flex; min-width: min(100%, 390px); }
-.wordnet-search input { min-width: 0; flex: 1; padding: 0.8rem 1rem; border: 1px solid #b6d1cf; border-radius: 10px 0 0 10px; font-size: 1rem; outline: none; }
-.wordnet-search input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgb(8 126 139 / 12%); }
-.wordnet-search button { border: 0; border-radius: 0 10px 10px 0; padding: 0 1.2rem; background: var(--accent); color: white; font-weight: 700; cursor: pointer; }
-.wordnet-search button:disabled { opacity: 0.6; }
+.sense-kicker { color: var(--accent) !important; font-size: 0.72rem; font-weight: 800; letter-spacing: 0.16em; }
 
 .semantic-layout { display: grid; grid-template-columns: minmax(280px, 350px) minmax(0, 1fr); gap: 1.25rem; align-items: start; }
 .sense-panel, .graph-panel { border: 1px solid #d9e3e5; border-radius: 16px; background: white; box-shadow: 0 8px 30px rgb(29 55 70 / 5%); }
 .sense-panel { max-height: calc(100vh - 150px); overflow: auto; padding: 1rem; position: sticky; top: 1rem; }
-.sense-heading { display: flex; justify-content: space-between; align-items: end; padding: 0.35rem 0.4rem 0.8rem; border-bottom: 1px solid #e8eeee; }
-.sense-heading h3 { margin: 0; font-size: 1.65rem; }
-.sense-heading > span { color: var(--muted); font-size: 0.82rem; }
+.sense-heading { display: flex; justify-content: space-between; align-items: end; gap: 0.7rem; padding: 0.25rem 0.4rem 0.8rem; border-bottom: 1px solid #e8eeee; }
+.sense-heading > span { flex: 0 0 auto; padding-bottom: 0.3rem; color: var(--muted); font-size: 0.78rem; }
+.sense-search { position: relative; flex: 1; min-width: 0; }
+.sense-search h3 { display: flex; margin: 0.15rem 0 0; border-bottom: 2px solid #b9d9d6; }
+.sense-search h3:focus-within { border-color: var(--accent); }
+.sense-search input { min-width: 0; width: 100%; padding: 0.15rem 0; border: 0; outline: 0; background: transparent; color: var(--ink); font: inherit; font-size: 1.55rem; font-weight: 700; }
+.sense-search button[type='submit'] { flex: 0 0 30px; border: 0; background: transparent; color: var(--accent); font-size: 1.35rem; cursor: pointer; }
+.sense-search button:disabled { opacity: 0.45; }
+.wordnet-suggestions { position: absolute; z-index: 20; top: calc(100% + 0.45rem); left: 0; width: min(260px, calc(100vw - 4rem)); max-height: 280px; overflow: auto; margin: 0; padding: 0.3rem; border: 1px solid #cbdcdb; border-radius: 10px; background: white; box-shadow: 0 12px 28px rgb(20 55 66 / 16%); list-style: none; }
+.wordnet-suggestions li { margin: 0; }
+.wordnet-suggestions button { width: 100%; padding: 0.48rem 0.6rem; border: 0; border-radius: 6px; background: transparent; color: var(--ink); font-size: 0.9rem; text-align: left; cursor: pointer; }
+.wordnet-suggestions button:hover, .wordnet-suggestions button.active { background: var(--accent-soft); color: #05636c; }
+.sense-state { padding: 1rem 0.4rem; color: var(--muted); font-size: 0.82rem; }
 .pos-section h4 { margin: 1rem 0 0.45rem; color: var(--muted); font-size: 0.78rem; letter-spacing: 0.04em; text-transform: uppercase; }
 .sense-card { width: 100%; display: flex; gap: 0.65rem; padding: 0.75rem; margin-bottom: 0.45rem; border: 1px solid transparent; border-radius: 11px; background: #f6f9f9; text-align: left; color: inherit; cursor: pointer; }
 .sense-card:hover { border-color: #b9d9d6; }
@@ -420,17 +483,13 @@ watch(() => [props.initialWord, props.active] as const, ([word, active]) => {
 .compact-state { min-height: 100px; margin-top: 1rem; }
 .wordnet-credit { margin-top: 1.25rem; color: var(--muted); text-align: center; font-size: 0.75rem; }
 .wordnet-credit a { color: var(--accent); }
-.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
 
 @media (max-width: 900px) {
-  .wordnet-hero { align-items: stretch; flex-direction: column; }
-  .wordnet-search { min-width: 0; width: 100%; }
   .semantic-layout { grid-template-columns: 1fr; }
   .sense-panel { position: static; max-height: 520px; }
 }
 
 @media (max-width: 600px) {
-  .wordnet-hero { padding: 1.2rem; }
   .synset-header { flex-direction: column; }
   .local-meaning { flex-basis: auto; }
   .relation-directory details button { grid-template-columns: 1fr; gap: 0.15rem; }
