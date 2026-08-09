@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { computed, ref, watch } from 'vue'
-import { getDictionaryTagLabels, useDictStore } from '../stores/dict'
+import { useDictStore } from '../stores/dict'
+import DictionaryTags from './DictionaryTags.vue'
 import {
   loadWordNetFrames,
   loadWordNetSynset,
@@ -119,7 +120,7 @@ function localMeta(word: string) {
     ?.trim() || ''
   return {
     translation: compactText(translation, 24),
-    tags: getDictionaryTagLabels(entry.tags).slice(0, 3),
+    tags: entry.tags,
   }
 }
 
@@ -282,27 +283,34 @@ watch(() => [props.initialWord, props.active] as const, ([word, active]) => {
         <div v-else-if="searchedWord && !entries.length && !error" class="sense-state">
           没有找到 “{{ searchedWord }}”
         </div>
-        <section v-for="entry in entries" :key="`${entry.lemma}-${entry.pos}`" class="pos-section">
-          <h4>{{ posLabel(entry.pos) }}</h4>
-          <button
-            v-for="(sense, index) in entry.senses"
-            :key="sense.id"
-            :class="['sense-card', { active: sense.id === selectedSenseId }]"
-            @click="selectSense(sense)"
-          >
-            <span class="sense-number">{{ index + 1 }}</span>
-            <span class="sense-copy">
-              <strong>{{ sense.synsetGloss || sense.synsetLabel }}</strong>
-              <small v-if="sense.synsetLabel && sense.synsetLabel !== entry.lemma">
-                同义词：{{ sense.synsetLabel }}
-              </small>
-              <small v-if="sense.adjectivePosition">位置：{{ sense.adjectivePosition }}</small>
-              <span v-if="sense.relations.length" class="sense-relations">
-                {{ sense.relations.slice(0, 3).map(item => relationLabel(item.type)).join(' · ') }}
+        <details v-for="entry in entries" :key="`${entry.lemma}-${entry.pos}`" class="pos-section" open>
+          <summary>
+            <h4>
+              <span>{{ posLabel(entry.pos) }}</span>
+              <small>{{ entry.senses.length }} 个词义</small>
+            </h4>
+          </summary>
+          <div class="sense-list">
+            <button
+              v-for="(sense, index) in entry.senses"
+              :key="sense.id"
+              :class="['sense-card', { active: sense.id === selectedSenseId }]"
+              @click="selectSense(sense)"
+            >
+              <span class="sense-number">{{ index + 1 }}</span>
+              <span class="sense-copy">
+                <strong>{{ sense.synsetGloss || sense.synsetLabel }}</strong>
+                <small v-if="sense.synsetLabel && sense.synsetLabel !== entry.lemma">
+                  同义词：{{ sense.synsetLabel }}
+                </small>
+                <small v-if="sense.adjectivePosition">位置：{{ sense.adjectivePosition }}</small>
+                <span v-if="sense.relations.length" class="sense-relations">
+                  {{ sense.relations.slice(0, 3).map(item => relationLabel(item.type)).join(' · ') }}
+                </span>
               </span>
-            </span>
-          </button>
-        </section>
+            </button>
+          </div>
+        </details>
       </aside>
 
       <main class="graph-panel">
@@ -327,7 +335,11 @@ watch(() => [props.initialWord, props.active] as const, ([word, active]) => {
             <div v-if="localMeta(synset.members[0] || '')" class="local-meaning">
               <span>ECDICT 本地补充</span>
               <strong>{{ localMeta(synset.members[0] || '')?.translation }}</strong>
-              <small>{{ localMeta(synset.members[0] || '')?.tags.join(' · ') }}</small>
+              <DictionaryTags
+                v-if="localMeta(synset.members[0] || '')?.tags"
+                class="local-tags"
+                :tags="localMeta(synset.members[0] || '')?.tags || ''"
+              />
             </div>
           </header>
 
@@ -431,7 +443,15 @@ watch(() => [props.initialWord, props.active] as const, ([word, active]) => {
 .wordnet-suggestions button { width: 100%; padding: 0.48rem 0.6rem; border: 0; border-radius: 6px; background: transparent; color: var(--ink); font-size: 0.9rem; text-align: left; cursor: pointer; }
 .wordnet-suggestions button:hover, .wordnet-suggestions button.active { background: var(--accent-soft); color: #05636c; }
 .sense-state { padding: 1rem 0.4rem; color: var(--muted); font-size: 0.82rem; }
-.pos-section h4 { margin: 1rem 0 0.45rem; color: var(--muted); font-size: 0.78rem; letter-spacing: 0.04em; text-transform: uppercase; }
+.pos-section { margin-top: 0.7rem; }
+.pos-section summary { position: relative; padding-right: 1.1rem; border-radius: 6px; cursor: pointer; list-style: none; }
+.pos-section summary::-webkit-details-marker { display: none; }
+.pos-section summary::after { content: '›'; position: absolute; top: 50%; right: 0.2rem; color: #91a1a6; font-size: 1.05rem; transform: translateY(-50%) rotate(90deg); transition: transform 0.15s ease; }
+.pos-section:not([open]) summary::after { transform: translateY(-50%) rotate(0deg); }
+.pos-section summary:hover { background: #f5f9f9; }
+.pos-section h4 { display: flex; align-items: center; justify-content: space-between; gap: 0.5rem; margin: 0; padding: 0.35rem 0.3rem; color: var(--muted); font-size: 0.78rem; letter-spacing: 0.04em; text-transform: uppercase; }
+.pos-section h4 small { color: #91a1a6; font-size: 0.68rem; font-weight: 500; letter-spacing: 0; text-transform: none; }
+.sense-list { padding-top: 0.25rem; }
 .sense-card { width: 100%; display: flex; gap: 0.65rem; padding: 0.75rem; margin-bottom: 0.45rem; border: 1px solid transparent; border-radius: 11px; background: #f6f9f9; text-align: left; color: inherit; cursor: pointer; }
 .sense-card:hover { border-color: #b9d9d6; }
 .sense-card.active { border-color: var(--accent); background: var(--accent-soft); }
@@ -447,9 +467,10 @@ watch(() => [props.initialWord, props.active] as const, ([word, active]) => {
 .synset-header blockquote { margin: 0.5rem 0 0; padding-left: 0.8rem; border-left: 3px solid var(--warm); color: var(--muted); font-size: 0.88rem; }
 .synset-meta { display: flex; flex-wrap: wrap; gap: 0.4rem; }
 .synset-meta span { padding: 0.15rem 0.45rem; border-radius: 5px; background: #edf4f4; color: var(--muted); font-size: 0.7rem; }
-.local-meaning { flex: 0 0 180px; align-self: start; display: flex; flex-direction: column; padding: 0.75rem; border-radius: 10px; background: #fff8df; }
-.local-meaning span, .local-meaning small { color: #826b20; font-size: 0.7rem; }
+.local-meaning { flex: 0 0 180px; align-self: start; display: flex; flex-direction: column; padding: 0.7rem; border: 1px solid #e1e8e8; border-radius: 9px; background: #fff; }
+.local-meaning > span { color: var(--muted); font-size: 0.7rem; }
 .local-meaning strong { margin: 0.15rem 0; font-size: 0.88rem; }
+.local-tags { margin-top: 0.25rem; }
 .frame-list { display: flex; flex-wrap: wrap; gap: 0.45rem; align-items: center; margin-top: 0.85rem; }
 .frame-list > span { color: var(--muted); font-size: 0.75rem; font-weight: 700; }
 .frame-list code { padding: 0.25rem 0.5rem; border-radius: 5px; background: #f2f5f5; font-size: 0.75rem; }
