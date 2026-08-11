@@ -1,5 +1,6 @@
 import { afterEach, describe, expect, it, vi } from 'vitest'
 import { useTTS } from '../src/composables/useTTS'
+import { getProgressSetting, progressDb, setProgressSetting } from '../src/lib/progress-db'
 
 class MockUtterance {
   lang = ''
@@ -18,10 +19,16 @@ afterEach(() => {
 })
 
 describe('TTS playback controls', () => {
-  it('pauses and resumes the current utterance without cancelling it', () => {
+  it('shares, restores and persists the selected voice across instances', async () => {
+    await progressDb.settings.delete('tts.selectedVoice')
+    await setProgressSetting('tts.selectedVoice', 'Second English')
     const current = { utterance: null as MockUtterance | null }
+    const testVoices = [
+      { name: 'Test English', lang: 'en-US' } as SpeechSynthesisVoice,
+      { name: 'Second English', lang: 'en-GB' } as SpeechSynthesisVoice,
+    ]
     const synth = {
-      getVoices: () => [{ name: 'Test English', lang: 'en-US' } as SpeechSynthesisVoice],
+      getVoices: () => testVoices,
       addEventListener: vi.fn(),
       cancel: vi.fn(),
       pause: vi.fn(),
@@ -35,7 +42,18 @@ describe('TTS playback controls', () => {
     Object.defineProperty(globalThis, 'SpeechSynthesisUtterance', { configurable: true, value: MockUtterance })
 
     const tts = useTTS()
+    const secondInstance = useTTS()
+    await tts.ready
+    expect(tts.selectedVoice.value).toBe('Second English')
+    expect(secondInstance.selectedVoice).toBe(tts.selectedVoice)
+
+    secondInstance.selectedVoice.value = 'Test English'
+    await vi.waitFor(async () => {
+      expect(await getProgressSetting('tts.selectedVoice', '')).toBe('Test English')
+    })
+
     tts.speak('A paragraph to read.')
+    expect(current.utterance?.voice?.name).toBe('Test English')
     expect(tts.speaking.value).toBe(true)
     expect(tts.paused.value).toBe(false)
 

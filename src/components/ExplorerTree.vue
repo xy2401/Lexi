@@ -7,10 +7,17 @@
 import { ref, computed, onMounted, watch } from 'vue'
 import { listDictionaryShard, type DictionaryResult } from '../lib/remote-db'
 import { getLocalWordsByLetter, db, type WordEntry } from '../lib/db'
-import { useDictStore } from '../stores/dict'
+import { TAG_OPTIONS, useDictStore } from '../stores/dict'
 import { getProgressSetting, setProgressSetting } from '../lib/progress-db'
 
 const dictStore = useDictStore()
+const hasAnnotatedTags = computed(() => (
+  TAG_OPTIONS.some(tag => dictStore.tagStates[tag.id] === 'annotate')
+))
+
+function annotatedTag(rawTags: string): string {
+  return dictStore.getTagAnnotation(rawTags) || ''
+}
 
 const emit = defineEmits<{
   'select-word': [word: string]
@@ -177,6 +184,9 @@ watch([browseMode, localLetter, selectedLetter, selectedPrefix], () => {
             <span class="word-text">{{ item.word }}</span>
             <span class="word-phonetic" v-if="item.phonetic">{{ item.phonetic }}</span>
             <span class="word-trans">{{ (item.translation || '').split('\\n')[0]?.slice(0, 25) }}</span>
+            <span v-if="hasAnnotatedTags" class="word-tag-slot">
+              <span v-if="annotatedTag(item.tags)" class="word-tag">{{ annotatedTag(item.tags) }}</span>
+            </span>
           </div>
         </template>
       </div>
@@ -222,6 +232,9 @@ watch([browseMode, localLetter, selectedLetter, selectedPrefix], () => {
             <span class="word-text">{{ item.word }}</span>
             <span class="word-phonetic" v-if="item.phonetic">{{ item.phonetic }}</span>
             <span class="word-trans">{{ (item.translation || '').split('\\n')[0]?.slice(0, 25) }}</span>
+            <span v-if="hasAnnotatedTags" class="word-tag-slot">
+              <span v-if="annotatedTag(item.tags)" class="word-tag">{{ annotatedTag(item.tags) }}</span>
+            </span>
           </div>
           <button v-if="hasMore" class="load-more-btn" :disabled="loadingMore" @click="loadMore">
             {{ loadingMore ? '加载中...' : '加载更多' }}
@@ -367,6 +380,33 @@ watch([browseMode, localLetter, selectedLetter, selectedPrefix], () => {
   background: #f0f7ff;
 }
 
+.word-tag-slot {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 3.35rem;
+  min-width: 3.35rem;
+  margin-left: auto;
+}
+
+.word-tag {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 3rem;
+  height: 1.15rem;
+  box-sizing: border-box;
+  border: 1px solid #f1b94e;
+  border-radius: 999px;
+  background: #fff3c4;
+  color: #9a6500;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.62rem;
+  font-weight: 750;
+  line-height: 1;
+  text-transform: lowercase;
+}
+
 .word-text {
   font-weight: 600;
   font-size: 0.9rem;
@@ -380,6 +420,8 @@ watch([browseMode, localLetter, selectedLetter, selectedPrefix], () => {
 }
 
 .word-trans {
+  flex: 1;
+  min-width: 0;
   font-size: 0.75rem;
   color: #7f8c8d;
   overflow: hidden;

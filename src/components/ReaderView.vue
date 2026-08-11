@@ -11,20 +11,21 @@ import { htmlToPlainText, sanitizeReaderHtml } from '../lib/reader-sanitize'
 import { highlightReaderWordAtBoundary } from '../lib/reader-tts-highlight'
 import { useTTS } from '../composables/useTTS'
 import FollowReadPanel from './FollowReadPanel.vue'
+import { createNeutralTagStates, type TagStates } from '../lib/dictionary-tags'
 
 const props = withDefaults(defineProps<{
   text: string
   html?: string
   followText?: string
   active?: boolean
-  annotationsEnabled?: boolean
+  annotationTagStates?: TagStates
   basicFunctionWordsEnabled?: boolean
   showFollow?: boolean
 }>(), {
   active: true,
   html: '',
   followText: '',
-  annotationsEnabled: true,
+  annotationTagStates: () => createNeutralTagStates(),
   basicFunctionWordsEnabled: false,
   showFollow: true,
 })
@@ -63,11 +64,10 @@ const annotatedHtml = computed(() => {
   }
 
   const safeHtml = sanitizeReaderHtml(html)
-  const annotated = annotateHtml(safeHtml, (word) => (
-    props.annotationsEnabled
-      ? dictStore.getAnnotation(word, { includeBasicFunctionWords: props.basicFunctionWordsEnabled })
-      : null
-  ))
+  const annotated = annotateHtml(safeHtml, word => dictStore.getAnnotation(word, {
+    tagStates: props.annotationTagStates,
+    includeBasicFunctionWords: props.basicFunctionWordsEnabled,
+  }))
   const doc = new DOMParser().parseFromString(annotated, 'text/html')
   doc.body.querySelectorAll('p').forEach((paragraph, index) => {
     if (!paragraph.textContent?.trim()) return

@@ -2,47 +2,85 @@
  * useTTS - Web Speech API 语音合成
  * 支持系统人声选择、单词级高亮
  */
-import { ref, onBeforeUnmount } from 'vue'
+import { ref, onBeforeUnmount, watch } from 'vue'
+import { getProgressSetting, setProgressSetting } from '../lib/progress-db'
+
+const TTS_VOICE_SETTING = 'tts.selectedVoice'
+const sharedVoices = ref<SpeechSynthesisVoice[]>([])
+const sharedSelectedVoice = ref('')
+let voicePreferenceHydrated = false
+let initializedSynth: SpeechSynthesis | null = null
+let voiceRetryTimer: ReturnType<typeof setInterval> | null = null
+let voiceInitialization: Promise<void> | null = null
+
+function syncAvailableVoices(): void {
+  if (!initializedSynth) return
+  const available = initializedSynth.getVoices()
+  if (!available.length) return
+  const englishVoices = available.filter(voice => voice.lang.toLowerCase().startsWith('en'))
+  sharedVoices.value = englishVoices
+  if (!englishVoices.length) return
+  if (!englishVoices.some(voice => voice.name === sharedSelectedVoice.value)) {
+    sharedSelectedVoice.value = englishVoices[0].name
+  }
+}
+
+function registerSpeechSynthesis(): void {
+  if (!('speechSynthesis' in window)) return
+  const synth = window.speechSynthesis
+  if (initializedSynth === synth) return
+  initializedSynth = synth
+  syncAvailableVoices()
+  synth.addEventListener('voiceschanged', syncAvailableVoices)
+
+  let retries = 0
+  voiceRetryTimer = setInterval(() => {
+    if (sharedVoices.value.length > 0 || retries > 10) {
+      if (voiceRetryTimer) clearInterval(voiceRetryTimer)
+      voiceRetryTimer = null
+      return
+    }
+    syncAvailableVoices()
+    retries++
+  }, 200)
+}
+
+function initializeVoicePreference(): Promise<void> {
+  if (voiceInitialization) return voiceInitialization
+  registerSpeechSynthesis()
+  voiceInitialization = (async () => {
+    try {
+      const savedVoice = await getProgressSetting(TTS_VOICE_SETTING, '')
+      if (savedVoice) sharedSelectedVoice.value = savedVoice
+    } catch (cause) {
+      console.warn('[TTS] 读取朗读者设置失败', cause)
+    }
+    voicePreferenceHydrated = true
+    syncAvailableVoices()
+    if (sharedSelectedVoice.value) {
+      try {
+        await setProgressSetting(TTS_VOICE_SETTING, sharedSelectedVoice.value)
+      } catch (cause) {
+        console.warn('[TTS] 保存朗读者设置失败', cause)
+      }
+    }
+  })()
+  return voiceInitialization
+}
+
+watch(sharedSelectedVoice, voice => {
+  if (!voicePreferenceHydrated || !voice) return
+  void setProgressSetting(TTS_VOICE_SETTING, voice).catch(cause => {
+    console.warn('[TTS] 保存朗读者设置失败', cause)
+  })
+})
 
 export function useTTS() {
   const speaking = ref(false)
   const paused = ref(false)
   const currentWordIndex = ref(-1)
-  const voices = ref<SpeechSynthesisVoice[]>([])
-  const selectedVoice = ref<string>('')
   let playbackGeneration = 0
-
-  // 加载可用语音
-  function loadVoices() {
-    if (!('speechSynthesis' in window)) return
-    const v = speechSynthesis.getVoices()
-    if (v.length === 0) return
-    // 优先英文语音
-    const en = v.filter(voice => voice.lang.startsWith('en'))
-    if (en.length > 0) {
-      voices.value = en
-      if (!selectedVoice.value) {
-        selectedVoice.value = en[0].name
-      }
-    }
-  }
-
-  // Chrome/Edge 首次 getVoices() 返回空数组，需要多策略兜底
-  if ('speechSynthesis' in window) {
-    loadVoices()
-    // 用 addEventListener 避免多组件覆盖
-    speechSynthesis.addEventListener('voiceschanged', loadVoices)
-    // 轮询兜底：某些 Chrome 版本不触发 voiceschanged
-    let retries = 0
-    const timer = setInterval(() => {
-      if (voices.value.length > 0 || retries > 10) {
-        clearInterval(timer)
-        return
-      }
-      loadVoices()
-      retries++
-    }, 200)
-  }
+  const ready = initializeVoicePreference()
 
   /**
    * 朗读文本
@@ -66,7 +104,7 @@ export function useTTS() {
     const utterance = new SpeechSynthesisUtterance(text)
     utterance.lang = 'en-US'
 
-    const voice = voices.value.find(v => v.name === selectedVoice.value)
+    const voice = sharedVoices.value.find(v => v.name === sharedSelectedVoice.value)
     if (voice) utterance.voice = voice
 
     utterance.onstart = () => {
@@ -114,7 +152,7 @@ export function useTTS() {
 
     stop()
     const generation = playbackGeneration
-    const voice = voices.value.find(item => item.name === selectedVoice.value)
+    const voice = sharedVoices.value.find(item => item.name === sharedSelectedVoice.value)
 
     function playAt(index: number) {
       if (generation !== playbackGeneration || index >= queue.length) {
@@ -182,8 +220,9 @@ export function useTTS() {
     speaking,
     paused,
     currentWordIndex,
-    voices,
-    selectedVoice,
+    voices: sharedVoices,
+    selectedVoice: sharedSelectedVoice,
+    ready,
     speak,
     speakSequence,
     pause,

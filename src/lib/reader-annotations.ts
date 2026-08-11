@@ -1,5 +1,19 @@
+import {
+  TAG_OPTIONS,
+  lowestDictionaryTag,
+  parseDictionaryTagIds,
+  type TagStates,
+} from './dictionary-tags'
+import type { ReaderAnnotationValue } from './tokenizer'
+
 export interface ReaderAnnotationOptions {
+  tagStates?: TagStates
   includeBasicFunctionWords?: boolean
+}
+
+export interface ReaderAnnotationEntry {
+  tags: string
+  translation?: string
 }
 
 const BASIC_FUNCTION_GLOSSES: Readonly<Record<string, string>> = Object.freeze({
@@ -84,4 +98,29 @@ export function resolveReaderAnnotation(
   const basicGloss = getBasicFunctionWordGloss(word)
   if (basicGloss) return options.includeBasicFunctionWords ? basicGloss : null
   return translation ? compactDictionaryGloss(translation) : null
+}
+
+export function resolveReaderEntryAnnotation(
+  word: string,
+  entry: ReaderAnnotationEntry | null | undefined,
+  options: ReaderAnnotationOptions = {},
+): ReaderAnnotationValue {
+  if (!options.tagStates || !entry || isAllCapsReaderToken(word)) return null
+
+  const wordTags = parseDictionaryTagIds(entry.tags)
+  const matchedStates = TAG_OPTIONS
+    .filter(tag => wordTags.has(tag.id))
+    .map(tag => options.tagStates![tag.id])
+  if (matchedStates.includes('exclude')) return null
+
+  if (matchedStates.includes('annotate')) {
+    const tag = lowestDictionaryTag(entry.tags)
+    return tag ? { text: tag, kind: 'tag' } : null
+  }
+
+  if (!matchedStates.includes('include')) return null
+
+  return resolveReaderAnnotation(word, entry.translation, {
+    includeBasicFunctionWords: options.includeBasicFunctionWords,
+  })
 }

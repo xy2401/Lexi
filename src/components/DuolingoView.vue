@@ -315,7 +315,7 @@ function selectWord(word: string) {
         </div>
 
         <!-- 练习 -->
-        <div class="practice-content" v-show="panelTab === 'practice'">
+        <div v-if="panelTab === 'practice'" class="practice-content">
           <template v-if="courseDocument?.quizzes.length">
             <QuizLevelList
               v-if="!activeQuiz"
@@ -396,12 +396,15 @@ function selectWord(word: string) {
 
 .duo-body {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1rem;
   align-items: start;
 }
 
 .unit-list {
+  box-sizing: border-box;
+  min-width: 0;
+  width: 100%;
   display: flex;
   flex-direction: column;
   gap: 4px;
@@ -486,6 +489,10 @@ function selectWord(word: string) {
 }
 
 .word-panel {
+  box-sizing: border-box;
+  min-width: 0;
+  width: 100%;
+  overflow: hidden;
   border: 1px solid #eee;
   border-radius: 8px;
   padding: 1rem;
@@ -565,6 +572,7 @@ function selectWord(word: string) {
 }
 
 .guide-body {
+  overflow-wrap: anywhere;
   font-size: 0.85rem;
   line-height: 1.7;
   color: #333;

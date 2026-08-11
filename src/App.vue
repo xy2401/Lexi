@@ -7,6 +7,7 @@ import { getDictionaryManifest } from './lib/dictionary-manifest'
 import { getWordNetManifest } from './lib/wordnet-manifest'
 import ReaderWorkspace from './components/ReaderWorkspace.vue'
 import LibrarySettings from './components/LibrarySettings.vue'
+import ProgressSettings from './components/ProgressSettings.vue'
 import TagSwitcher from './components/TagSwitcher.vue'
 import WordTooltip from './components/WordTooltip.vue'
 import ExplorerTree from './components/ExplorerTree.vue'
@@ -29,6 +30,7 @@ import {
   type AppTabId,
   type DictionaryHistoryEntry,
 } from './lib/progress-db'
+import { LEARNING_PROGRESS_AREAS, type LearningProgressArea } from './lib/learning-progress'
 
 interface LicensedProject {
   name: string
@@ -245,6 +247,10 @@ function formatBytes(bytes: number): string {
 // ========== 模块切换 ==========
 const activeTab = ref<AppTabId>('reader')
 const wordNetInitialWord = ref('bank')
+const progressSettingsRefresh = ref(0)
+const progressRevisions = ref<Record<LearningProgressArea, number>>(
+  Object.fromEntries(LEARNING_PROGRESS_AREAS.map(area => [area, 0])) as Record<LearningProgressArea, number>,
+)
 let progressHydrated = false
 
 watch(activeTab, tab => {
@@ -253,7 +259,19 @@ watch(activeTab, tab => {
 
 function openSettings() {
   activeTab.value = 'settings'
+  progressSettingsRefresh.value++
   void refreshDbStats()
+}
+
+async function handleProgressCleared(area: LearningProgressArea | 'all'): Promise<void> {
+  const areas = area === 'all' ? LEARNING_PROGRESS_AREAS : [area]
+  for (const item of areas) progressRevisions.value[item]++
+  if (area === 'all' || area === 'explorer') {
+    dictionaryHistory.value = await listDictionaryHistory(12)
+    explorerWord.value = ''
+    explorerEntry.value = null
+  }
+  if (area === 'all' || area === 'wordnet') wordNetInitialWord.value = 'bank'
 }
 
 // ========== Reader 模块 ==========
@@ -425,6 +443,7 @@ function openWordNet(word: string) {
     <!-- ===== Reader 模块 ===== -->
     <div class="tab-content" v-show="activeTab === 'reader'">
       <ReaderWorkspace
+        :key="`reader-${progressRevisions.reader}`"
         :active="activeTab === 'reader'"
         @word-click="handleWordClick"
         @recording-change="handleReaderRecordingChange"
@@ -449,7 +468,7 @@ function openWordNet(word: string) {
               @click="handleExplorerSelectWord(item.word)"
             >{{ item.word }}</button>
           </div>
-          <ExplorerTree @select-word="handleExplorerSelectWord" />
+          <ExplorerTree :key="`explorer-${progressRevisions.explorer}`" @select-word="handleExplorerSelectWord" />
         </div>
         <div class="explorer-right">
           <h3>词条详情</h3>
@@ -502,27 +521,27 @@ function openWordNet(word: string) {
 
     <!-- ===== Open English WordNet 语义网络 ===== -->
     <div class="tab-content" v-show="activeTab === 'wordnet'">
-      <WordNetView :initial-word="wordNetInitialWord" :active="activeTab === 'wordnet'" />
+      <WordNetView :key="`wordnet-${progressRevisions.wordnet}`" :initial-word="wordNetInitialWord" :active="activeTab === 'wordnet'" />
     </div>
 
     <!-- ===== 词根词缀 模块 ===== -->
     <div class="tab-content" v-show="activeTab === 'wordroot'">
-      <WordRootView @select-word="handleExtensionSelectWord" @speak-word="speak" />
+      <WordRootView :key="`wordroot-${progressRevisions.wordroot}`" @select-word="handleExtensionSelectWord" @speak-word="speak" />
     </div>
 
     <!-- ===== 近义辨析 模块 ===== -->
     <div class="tab-content" v-show="activeTab === 'resemble'">
-      <ResembleView @select-word="handleExtensionSelectWord" @speak-word="speak" />
+      <ResembleView :key="`resemble-${progressRevisions.resemble}`" @select-word="handleExtensionSelectWord" @speak-word="speak" />
     </div>
 
     <!-- ===== 词族演变 模块 ===== -->
     <div class="tab-content" v-show="activeTab === 'lemma'">
-      <LemmaView @select-word="handleExtensionSelectWord" @speak-word="speak" />
+      <LemmaView :key="`lemma-${progressRevisions.lemma}`" @select-word="handleExtensionSelectWord" @speak-word="speak" />
     </div>
 
     <!-- ===== Duolingo 模块 ===== -->
     <div class="tab-content" v-show="activeTab === 'duolingo'">
-      <DuolingoView @select-word="handleExplorerSelectWord" />
+      <DuolingoView :key="`duolingo-${progressRevisions.duolingo}`" @select-word="handleExplorerSelectWord" />
     </div>
 
     <!-- ===== 设置模块 ===== -->
@@ -630,6 +649,8 @@ function openWordNet(word: string) {
         </section>
 
         <LibrarySettings />
+
+        <ProgressSettings :refresh-token="progressSettingsRefresh" @cleared="handleProgressCleared" />
 
         <section class="settings-section licenses-section">
           <h3>📜 LICENSES</h3>
@@ -752,7 +773,7 @@ function openWordNet(word: string) {
 /* Explorer 布局 */
 .explorer-layout {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1.5rem;
   align-items: start;
 }
@@ -762,6 +783,7 @@ function openWordNet(word: string) {
   flex-direction: column;
   gap: 0.75rem;
   height: min(860px, calc(100vh - 260px));
+  min-width: 0;
 }
 
 .explorer-left h3,
@@ -775,6 +797,7 @@ function openWordNet(word: string) {
   display: flex;
   flex-direction: column;
   gap: 1rem;
+  min-width: 0;
 }
 
 .word-detail {
@@ -938,7 +961,7 @@ function openWordNet(word: string) {
 
 .licenses-section {
   grid-column: 2;
-  grid-row: 1 / span 3;
+  grid-row: 1 / span 4;
 }
 
 .settings-section {

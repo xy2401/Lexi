@@ -1,7 +1,17 @@
 import { describe, expect, it } from 'vitest'
-import { getBasicFunctionWordGloss, isAllCapsReaderToken, resolveReaderAnnotation } from '../src/lib/reader-annotations'
+import {
+  getBasicFunctionWordGloss,
+  isAllCapsReaderToken,
+  resolveReaderAnnotation,
+  resolveReaderEntryAnnotation,
+} from '../src/lib/reader-annotations'
 import { mergeReaderPreferences } from '../src/lib/reader-types'
+import { createNeutralTagStates, type TagStates } from '../src/lib/dictionary-tags'
 import { annotateHtml, tokenize } from '../src/lib/tokenizer'
+
+function states(changes: Partial<TagStates> = {}): TagStates {
+  return { ...createNeutralTagStates(), ...changes }
+}
 
 describe('basic function word annotations', () => {
   it('hides basic function words by default', () => {
@@ -50,10 +60,83 @@ describe('basic function word annotations', () => {
 })
 
 describe('reader preference compatibility', () => {
-  it('adds the disabled basic-word default to legacy saved preferences', () => {
-    const merged = mergeReaderPreferences({ theme: 'dark', fontSize: 22 })
+  it('migrates legacy annotation settings to pure reading', () => {
+    const merged = mergeReaderPreferences({ theme: 'dark', fontSize: 22, annotationsEnabled: true })
     expect(merged.theme).toBe('dark')
     expect(merged.fontSize).toBe(22)
+    expect(merged.annotationTagStates).toEqual(states())
     expect(merged.annotateBasicFunctionWords).toBe(false)
+  })
+
+  it('normalizes persisted four-state tags', () => {
+    const merged = mergeReaderPreferences({
+      annotationTagStates: { ...states(), gre: 'annotate', gk: 'exclude' },
+      annotateBasicFunctionWords: true,
+    })
+    expect(merged.annotationTagStates).toEqual(states({ gre: 'annotate', gk: 'exclude' }))
+    expect(merged.annotateBasicFunctionWords).toBe(true)
+  })
+
+  it('migrates the development three-mode settings', () => {
+    const merged = mergeReaderPreferences({
+      annotationMode: 'tag',
+      annotationTags: ['gre', 'gk', 'gre'],
+      annotateBasicFunctionWords: true,
+    })
+    expect(merged.annotationTagStates).toEqual(states({ gre: 'annotate', gk: 'annotate' }))
+    expect(merged.annotateBasicFunctionWords).toBe(true)
+  })
+})
+
+describe('reader four-state annotations', () => {
+  const academic = { tags: 'gk ielts gre', translation: 'adj. 学术的, 学院的' }
+
+  it('keeps all-neutral reading free of annotations', () => {
+    expect(resolveReaderEntryAnnotation('academic', academic, { tagStates: states() })).toBeNull()
+  })
+
+  it('shows only the lowest actual tag for words marked as Tag', () => {
+    expect(resolveReaderEntryAnnotation('academic', academic, { tagStates: states({ gre: 'annotate' }) }))
+      .toEqual({ text: 'gk', kind: 'tag' })
+    expect(resolveReaderEntryAnnotation('academic', academic, { tagStates: states({ cet4: 'annotate' }) })).toBeNull()
+    expect(resolveReaderEntryAnnotation('academic', academic, { tagStates: states({ ielts: 'annotate', gre: 'annotate' }) }))
+      .toEqual({ text: 'gk', kind: 'tag' })
+  })
+
+  it('shows meanings only for matching tags', () => {
+    expect(resolveReaderEntryAnnotation('academic', academic, { tagStates: states({ gre: 'include' }) })).toBe('学术的')
+    expect(resolveReaderEntryAnnotation('academic', academic, { tagStates: states({ cet4: 'include' }) })).toBeNull()
+  })
+
+  it('applies exclude above Tag and Tag above meaning', () => {
+    expect(resolveReaderEntryAnnotation('academic', academic, {
+      tagStates: states({ gre: 'annotate', gk: 'exclude' }),
+    })).toBeNull()
+    expect(resolveReaderEntryAnnotation('academic', academic, {
+      tagStates: states({ gre: 'include', ielts: 'annotate' }),
+    })).toEqual({ text: 'gk', kind: 'tag' })
+  })
+
+  it('limits curated basic glosses to matching meaning states', () => {
+    const entry = { tags: 'zk gk', translation: 'be的现在式第三人称' }
+    expect(resolveReaderEntryAnnotation('is', entry, {
+      tagStates: states({ gk: 'include' }), includeBasicFunctionWords: true,
+    })).toBe('是/处于')
+    expect(resolveReaderEntryAnnotation('is', entry, {
+      tagStates: states({ gk: 'include' }), includeBasicFunctionWords: false,
+    })).toBeNull()
+    expect(resolveReaderEntryAnnotation('is', entry, {
+      tagStates: states({ gk: 'annotate' }), includeBasicFunctionWords: true,
+    })).toEqual({ text: 'zk', kind: 'tag' })
+  })
+
+  it('keeps plain words clickable in pure reading', () => {
+    const html = annotateHtml('<p>academic reading</p>', word => (
+      resolveReaderEntryAnnotation(word, academic, { tagStates: states() })
+    ))
+    const doc = new DOMParser().parseFromString(html, 'text/html')
+    expect(doc.querySelectorAll('ruby')).toHaveLength(0)
+    expect(Array.from(doc.querySelectorAll('.word-plain')).map(element => element.getAttribute('data-word')))
+      .toEqual(['academic', 'reading'])
   })
 })

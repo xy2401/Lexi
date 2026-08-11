@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import ReaderView from './ReaderView.vue'
-import TagSwitcher from './TagSwitcher.vue'
+import ReaderAnnotationControls from './ReaderAnnotationControls.vue'
 import { readerDb, getReaderSetting, setReaderSetting } from '../lib/reader-db'
 import {
   ensureDefaultLibrarySource,
@@ -73,7 +73,11 @@ const readerError = ref('')
 const readerScrollRef = ref<HTMLElement | null>(null)
 const tocOpen = ref(false)
 const readerSettingsOpen = ref(false)
-const preferences = ref<ReaderPreferences>({ ...DEFAULT_READER_PREFERENCES })
+const preferences = ref<ReaderPreferences>({
+  ...DEFAULT_READER_PREFERENCES,
+  annotationTagStates: { ...DEFAULT_READER_PREFERENCES.annotationTagStates },
+})
+const preferencesReady = ref(false)
 const localCoverUrls = ref<Record<string, string>>({})
 const localCoverRevokers = new Map<string, () => void>()
 let chapterObjectUrls: string[] = []
@@ -81,6 +85,9 @@ let saveTimer: ReturnType<typeof setTimeout> | null = null
 let readingTimer: ReturnType<typeof setInterval> | null = null
 
 const activeSource = computed(() => sources.value.find(source => source.id === activeSourceId.value) || null)
+const readerMeaningsEnabled = computed(() => (
+  Object.values(preferences.value.annotationTagStates).includes('include')
+))
 const sourceProgress = computed(() => {
   const exact = new Map(progressRecords.value.map(item => [item.bookKey, item]))
   const canonical = new Map<string, ReadingProgress>()
@@ -198,12 +205,13 @@ async function loadRemoteSource(sourceId: string): Promise<void> {
 }
 
 async function initialize(): Promise<void> {
+  const savedPreferences = await getReaderSetting<Partial<ReaderPreferences>>('readerPreferences', {})
+  preferences.value = mergeReaderPreferences(savedPreferences)
+  preferencesReady.value = true
   await ensureDefaultLibrarySource()
   sources.value = await listLibrarySources()
   const active = await getActiveLibrarySource()
   activeSourceId.value = active?.id || ''
-  const savedPreferences = await getReaderSetting<Partial<ReaderPreferences>>('readerPreferences', {})
-  preferences.value = mergeReaderPreferences(savedPreferences)
   await Promise.all([reloadProgress(), reloadLocalBooks()])
   if (activeSourceId.value) await loadRemoteSource(activeSourceId.value)
 }
@@ -402,7 +410,11 @@ async function handleChapterLink(href: string): Promise<void> {
 }
 
 async function savePreferences(): Promise<void> {
-  await setReaderSetting('readerPreferences', { ...preferences.value })
+  if (!preferencesReady.value) return
+  await setReaderSetting('readerPreferences', {
+    ...preferences.value,
+    annotationTagStates: { ...preferences.value.annotationTagStates },
+  })
 }
 
 function triggerImport(): void {
@@ -471,12 +483,15 @@ onBeforeUnmount(() => {
         </div>
         <div class="reader-toolbar">
           <button class="reader-tool" type="button" :aria-pressed="tocOpen" @click="tocOpen = !tocOpen">☰ 目录</button>
-          <button class="reader-tool" type="button" :aria-pressed="preferences.annotationsEnabled" @click="preferences.annotationsEnabled = !preferences.annotationsEnabled">译 标注</button>
           <button class="reader-tool" type="button" :aria-pressed="readerSettingsOpen" @click="readerSettingsOpen = !readerSettingsOpen">Aa 设置</button>
         </div>
       </header>
 
-      <TagSwitcher v-if="preferences.annotationsEnabled" class="reader-tag-switcher" />
+      <ReaderAnnotationControls
+        v-if="preferencesReady"
+        v-model:states="preferences.annotationTagStates"
+        class="reader-annotation-bar"
+      />
 
       <div class="book-reader-shell" :data-theme="preferences.theme">
         <aside v-if="tocOpen" class="reader-toc">
@@ -498,7 +513,7 @@ onBeforeUnmount(() => {
           <label>字号 <output>{{ preferences.fontSize }}px</output><input v-model.number="preferences.fontSize" type="range" min="14" max="30" step="1"></label>
           <label>行高 <output>{{ preferences.lineHeight.toFixed(1) }}</output><input v-model.number="preferences.lineHeight" type="range" min="1.4" max="2.4" step="0.1"></label>
           <label>宽度 <output>{{ preferences.contentWidth }}px</output><input v-model.number="preferences.contentWidth" type="range" min="520" max="920" step="40"></label>
-          <label class="reader-toggle-setting"><span><input v-model="preferences.annotateBasicFunctionWords" type="checkbox"> 标注基础功能词</span><small>默认隐藏 a、is、can 等基础语法词；开启后显示人工短释义。</small></label>
+          <label v-if="readerMeaningsEnabled" class="reader-toggle-setting"><span><input v-model="preferences.annotateBasicFunctionWords" type="checkbox"> 标注基础功能词</span><small>仅对设为“释义”的词汇范围生效，使用人工维护的紧凑释义。</small></label>
         </aside>
 
         <main ref="readerScrollRef" class="book-reader-scroll" tabindex="0" @scroll="handleReaderScroll">
@@ -516,7 +531,7 @@ onBeforeUnmount(() => {
               :html="currentChapterHtml"
               :follow-text="currentChapterText"
               :active="active"
-              :annotations-enabled="preferences.annotationsEnabled"
+              :annotation-tag-states="preferences.annotationTagStates"
               :basic-function-words-enabled="preferences.annotateBasicFunctionWords"
               :show-follow="false"
               @word-click="emit('word-click', $event)"
@@ -551,14 +566,18 @@ onBeforeUnmount(() => {
       </div>
 
       <template v-if="mode === 'temporary'">
-        <TagSwitcher />
+        <ReaderAnnotationControls
+          v-if="preferencesReady"
+          v-model:states="preferences.annotationTagStates"
+          class="reader-annotation-bar"
+        />
         <div class="temporary-reader-layout">
           <aside>
             <label for="temporary-reader-input">输入文本</label>
             <textarea id="temporary-reader-input" v-model="temporaryText" rows="12" placeholder="粘贴纯文本、Markdown 或 HTML…"></textarea>
             <p>内容仅保留在当前页面，不会进入书架。</p>
           </aside>
-          <main><ReaderView :text="temporaryText" :active="active" :basic-function-words-enabled="preferences.annotateBasicFunctionWords" @word-click="emit('word-click', $event)" @recording-change="emit('recording-change', $event)" /></main>
+          <main><ReaderView :text="temporaryText" :active="active" :annotation-tag-states="preferences.annotationTagStates" :basic-function-words-enabled="preferences.annotateBasicFunctionWords" @word-click="emit('word-click', $event)" @recording-change="emit('recording-change', $event)" /></main>
         </div>
       </template>
 
@@ -636,7 +655,7 @@ onBeforeUnmount(() => {
 .load-more { display: block; margin: 1rem auto 0; padding: .48rem 1rem; border: 1px solid #d9e1e8; border-radius: 6px; background: #fff; cursor: pointer; }.reader-state, .empty-shelf { padding: 3rem 1rem; color: #7b8997; text-align: center; }.reader-state.error, .library-error { color: #b84b4b; }.library-error { padding: .55rem .7rem; border: 1px solid #f1caca; border-radius: 6px; background: #fff7f7; font-size: .78rem; }
 .temporary-reader-layout { display: grid; grid-template-columns: 280px minmax(0,1fr); gap: 1rem; margin-top: .8rem; }.temporary-reader-layout aside label { display: block; margin-bottom: .4rem; font-weight: 600; }.temporary-reader-layout textarea { width: 100%; padding: .6rem; border: 1px solid #d9e1e8; border-radius: 7px; resize: vertical; }.temporary-reader-layout aside p { color: #84919e; font-size: .7rem; }.temporary-reader-layout main { min-height: 420px; padding: 1.2rem; border: 1px solid #e4e8ec; border-radius: 8px; background: #fff; }
 .book-detail-backdrop { position: fixed; z-index: 50; inset: 0; display: grid; place-items: center; padding: 1rem; background: #17212bcc; }.book-detail-card { position: relative; display: grid; grid-template-columns: 220px minmax(0,1fr); gap: 1.4rem; width: min(820px, 96vw); max-height: 88vh; overflow: auto; padding: 1.4rem; border-radius: 12px; background: #fff; }.detail-close { position: absolute; top: .6rem; right: .65rem; border: 0; background: transparent; font-size: 1.4rem; cursor: pointer; }.detail-cover { aspect-ratio: 2/3; overflow: hidden; display: flex; align-items: center; justify-content: center; padding: 1rem; border-radius: 8px; background: #e8edf1; text-align: center; }.detail-cover img { width: 100%; height: 100%; object-fit: cover; }.detail-copy h2 { margin: .45rem 0 .2rem; }.detail-author, .muted { color: #7b8997; }.detail-description { line-height: 1.65; }.detail-subjects { display: flex; flex-wrap: wrap; gap: .3rem; }.detail-subjects span { padding: .14rem .36rem; border-radius: 4px; background: #fef9e7; color: #a56d0b; font-size: .65rem; }.detail-copy dl { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: .5rem; }.detail-copy dl div { padding: .45rem; border-radius: 6px; background: #f6f8fa; }.detail-copy dt { color: #8793a0; font-size: .65rem; }.detail-copy dd { margin: .12rem 0 0; font-size: .75rem; }.detail-actions { display: flex; align-items: center; gap: .5rem; margin-top: 1rem; }.detail-actions button, .detail-actions a { padding: .44rem .7rem; border: 1px solid #d8e0e7; border-radius: 6px; background: #fff; color: #526171; text-decoration: none; cursor: pointer; font-size: .75rem; }.detail-actions .primary { border-color: #3498db; background: #3498db; color: #fff; }
-.book-reader-header { position: relative; padding: .55rem .65rem; border: 1px solid #dde4e9; border-radius: 9px 9px 0 0; background: #fff; }.reader-tool { padding: .36rem .55rem; border-color: #dce3e8; background: #fff; }.reader-tool[aria-pressed="true"] { border-color: #7eb6dc; background: #eef7fd; color: #2476b7; }.reader-tool.back { color: #2476b7; }.reader-book-title { min-width: 180px; flex: 1; display: grid; }.reader-book-title strong { font-size: .84rem; }.reader-book-title span { color: #84919e; font-size: .66rem; }.reader-progress-summary { display: grid; gap: .12rem; width: 100px; color: #607182; font-size: .64rem; }.reader-progress-summary div { height: 4px; overflow: hidden; border-radius: 2px; background: #e8edf1; }.reader-progress-summary i { display: block; height: 100%; background: #3498db; }.reader-toolbar { display: flex; gap: .35rem; }.reader-tag-switcher { margin: .5rem 0; }
+.book-reader-header { position: relative; padding: .55rem .65rem; border: 1px solid #dde4e9; border-radius: 9px 9px 0 0; background: #fff; }.reader-tool { padding: .36rem .55rem; border-color: #dce3e8; background: #fff; }.reader-tool[aria-pressed="true"] { border-color: #7eb6dc; background: #eef7fd; color: #2476b7; }.reader-tool.back { color: #2476b7; }.reader-book-title { min-width: 180px; flex: 1; display: grid; }.reader-book-title strong { font-size: .84rem; }.reader-book-title span { color: #84919e; font-size: .66rem; }.reader-progress-summary { display: grid; gap: .12rem; width: 100px; color: #607182; font-size: .64rem; }.reader-progress-summary div { height: 4px; overflow: hidden; border-radius: 2px; background: #e8edf1; }.reader-progress-summary i { display: block; height: 100%; background: #3498db; }.reader-toolbar { display: flex; gap: .35rem; }.reader-annotation-bar { margin: .5rem 0; }
 .book-reader-shell { position: relative; height: calc(100vh - 230px); min-height: 520px; border: 1px solid #dde4e9; border-top: 0; background: #f5f0e7; }.book-reader-shell[data-theme="light"] { background: #f5f7f9; }.book-reader-shell[data-theme="dark"] { background: #17212b; }.reader-toc, .reader-settings-drawer { position: absolute; z-index: 5; top: 0; bottom: 0; width: min(320px, 85vw); overflow: auto; padding: .55rem; background: #fff; box-shadow: 5px 0 18px #1f29372b; }.reader-toc { left: 0; }.reader-settings-drawer { right: 0; box-shadow: -5px 0 18px #1f29372b; }.drawer-head { display: flex; align-items: center; justify-content: space-between; padding: .3rem .35rem .55rem; }.drawer-head button { border: 0; background: transparent; font-size: 1.2rem; cursor: pointer; }.toc-item { width: 100%; padding: .38rem .5rem; border: 0; border-radius: 4px; background: transparent; color: #526171; cursor: pointer; font-size: .72rem; text-align: left; }.toc-item:hover, .toc-item.active { background: #edf6fc; color: #2476b7; }.reader-settings-drawer label { display: grid; gap: .28rem; margin: .75rem .35rem; color: #596a79; font-size: .72rem; }.reader-settings-drawer select { padding: .36rem; border: 1px solid #dce3e8; border-radius: 5px; }.reader-toggle-setting { padding-top: .7rem; border-top: 1px solid #e7ebee; }.reader-toggle-setting span { display: flex; align-items: center; gap: .35rem; font-weight: 600; }.reader-toggle-setting small { color: #8a97a4; font-size: .62rem; line-height: 1.45; }.book-reader-scroll { height: 100%; overflow: auto; outline: none; }.book-reader-page { min-height: calc(100% - 3rem); margin: 1.5rem auto; padding: clamp(1.25rem,4vw,3.5rem); background: #fffdf8; color: #292f34; box-shadow: 0 4px 20px #442f1812; box-sizing: border-box; }.book-reader-page[data-font="serif"] { font-family: Georgia, 'Times New Roman', serif; }.book-reader-page[data-font="sans"] { font-family: Arial, sans-serif; }.book-reader-shell[data-theme="dark"] .book-reader-page { background: #202b35; color: #e5e9ed; }.chapter-nav { display: flex; align-items: center; justify-content: space-between; gap: .7rem; margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #dfe3e5; }.chapter-nav button { padding: .4rem .65rem; border: 1px solid #d4dce2; border-radius: 5px; background: transparent; color: inherit; cursor: pointer; }.chapter-nav button:disabled { opacity: .4; cursor: default; }.chapter-nav span { color: #85919d; font-size: .7rem; }
 @media (max-width: 760px) { .temporary-reader-layout, .book-detail-card { grid-template-columns: 1fr; }.book-detail-card { width: 94vw; }.detail-cover { width: 160px; margin: 0 auto; }.book-reader-header { align-items: flex-start; }.reader-progress-summary { display: none; }.book-reader-shell { height: calc(100vh - 260px); }.book-reader-page { margin: 0; min-height: 100%; box-shadow: none; }.book-grid { grid-template-columns: repeat(auto-fill,minmax(120px,1fr)); } }
 </style>

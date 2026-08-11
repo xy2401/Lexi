@@ -5,24 +5,28 @@ import { defineStore } from 'pinia'
 import { computed, reactive, ref } from 'vue'
 import { db, loadHotData, type WordEntry } from '../lib/db'
 import { buildReverseIndex, restoreBase } from '../lib/morphology'
-import { getBasicFunctionWordGloss, isAllCapsReaderToken, resolveReaderAnnotation, type ReaderAnnotationOptions } from '../lib/reader-annotations'
+import { resolveReaderEntryAnnotation, type ReaderAnnotationOptions } from '../lib/reader-annotations'
 import type { ReaderAnnotationValue } from '../lib/tokenizer'
 import { getProgressSetting, setProgressSetting } from '../lib/progress-db'
+import {
+  TAG_OPTIONS,
+  createNeutralTagStates,
+  lowestDictionaryTag,
+  nextTagFilterMode,
+  normalizeTagStates,
+  parseDictionaryTagIds,
+  type DictionaryTagId,
+  type TagFilterMode,
+  type TagStates,
+} from '../lib/dictionary-tags'
 
-export const TAG_OPTIONS = [
-  { id: 'zk', label: '中考 zk' },
-  { id: 'gk', label: '高考 gk' },
-  { id: 'cet4', label: '四级 CET-4' },
-  { id: 'cet6', label: '六级 CET-6' },
-  { id: 'ky', label: '考研 ky' },
-  { id: 'ielts', label: '雅思 IELTS' },
-  { id: 'toefl', label: '托福 TOEFL' },
-  { id: 'gre', label: 'GRE' },
-] as const
-
-export type DictionaryTagId = typeof TAG_OPTIONS[number]['id']
-export type TagFilterMode = 'neutral' | 'include' | 'exclude' | 'annotate'
-export type TagStates = Record<DictionaryTagId, TagFilterMode>
+export {
+  TAG_OPTIONS,
+  nextTagFilterMode,
+  type DictionaryTagId,
+  type TagFilterMode,
+  type TagStates,
+} from '../lib/dictionary-tags'
 
 const TAG_LABELS = new Map<string, string>(
   TAG_OPTIONS.map(tag => [tag.id, tag.label]),
@@ -36,40 +40,6 @@ export function getDictionaryTagLabels(rawTags: string): string[] {
     .map(tag => tag.trim())
     .filter(tag => tag && !seen.has(tag) && Boolean(seen.add(tag)))
     .map(tag => TAG_LABELS.get(tag) || tag)
-}
-
-function createNeutralTagStates(): TagStates {
-  return Object.fromEntries(
-    TAG_OPTIONS.map(tag => [tag.id, 'neutral']),
-  ) as TagStates
-}
-
-const TAG_FILTER_MODES: TagFilterMode[] = ['neutral', 'include', 'exclude', 'annotate']
-
-function restoreTagStates(saved: Partial<TagStates>): TagStates {
-  const restored = createNeutralTagStates()
-  for (const tag of TAG_OPTIONS) {
-    const mode = saved[tag.id]
-    if (mode && TAG_FILTER_MODES.includes(mode)) restored[tag.id] = mode
-  }
-  return restored
-}
-
-function parseDictionaryTagIds(rawTags: string): Set<string> {
-  return new Set(
-    (rawTags || '')
-      .toLowerCase()
-      .split(/[\s,]+/)
-      .map(tag => tag.trim())
-      .filter(Boolean),
-  )
-}
-
-export function nextTagFilterMode(current: TagFilterMode): TagFilterMode {
-  if (current === 'neutral') return 'include'
-  if (current === 'include') return 'exclude'
-  if (current === 'exclude') return 'annotate'
-  return 'neutral'
 }
 
 export function matchesDictionaryTagFilter(rawTags: string, states: TagStates): boolean {
@@ -89,7 +59,7 @@ export function getDictionaryTagAnnotation(rawTags: string, states: TagStates): 
     states[tag.id] === 'annotate' && wordTags.has(tag.id)
   ))
   if (!annotationRequested) return null
-  return TAG_OPTIONS.find(tag => wordTags.has(tag.id))?.id || null
+  return lowestDictionaryTag(rawTags)
 }
 
 export const useDictStore = defineStore('dict', () => {
@@ -110,7 +80,7 @@ export const useDictStore = defineStore('dict', () => {
       loadHotData(percent => { loadProgress.value = percent }),
       getProgressSetting<Partial<TagStates>>('dictionary.tagStates', {}),
     ])
-    Object.assign(tagStates, restoreTagStates(savedTagStates))
+    Object.assign(tagStates, normalizeTagStates(savedTagStates))
     const allWords = await db.words.toArray()
     const map = new Map<string, WordEntry>()
     for (const w of allWords) {
@@ -145,26 +115,11 @@ export const useDictStore = defineStore('dict', () => {
   }
 
   /**
-   * 获取单词的简明释义（用于 <rt> 标注）
-   * 根据当前标签状态决定是否标注
+   * 根据阅读器独立的显示模式与标签范围生成 <rt> 内容。
    */
   function getAnnotation(word: string, options: ReaderAnnotationOptions = {}): ReaderAnnotationValue {
-    if (isAllCapsReaderToken(word)) return null
-    const basicGloss = getBasicFunctionWordGloss(word)
     const entry = lookup(word)
-    if (!entry) {
-      return basicGloss && allTagsNeutral.value
-        ? resolveReaderAnnotation(word, null, options)
-        : null
-    }
-
-    // 使用阅读器与词典共用的标签筛选规则
-    if (!shouldAnnotate(entry)) return null
-
-    const tagAnnotation = getDictionaryTagAnnotation(entry.tags, tagStates)
-    if (tagAnnotation) return { text: tagAnnotation, kind: 'tag' }
-
-    return resolveReaderAnnotation(word, entry.translation, options)
+    return resolveReaderEntryAnnotation(word, entry, options)
   }
 
   /**
@@ -192,6 +147,10 @@ export const useDictStore = defineStore('dict', () => {
     return matchesTagFilter(entry.tags)
   }
 
+  function getTagAnnotation(rawTags: string): string | null {
+    return getDictionaryTagAnnotation(rawTags, tagStates)
+  }
+
   return {
     ready,
     wordCount,
@@ -205,5 +164,6 @@ export const useDictStore = defineStore('dict', () => {
     resetTagFilters,
     matchesTagFilter,
     shouldAnnotate,
+    getTagAnnotation,
   }
 })

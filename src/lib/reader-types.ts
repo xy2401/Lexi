@@ -1,3 +1,11 @@
+import {
+  createNeutralTagStates,
+  isDictionaryTagId,
+  normalizeTagStates,
+  type DictionaryTagId,
+  type TagStates,
+} from './dictionary-tags'
+
 export type LibraryAdapter = 'standard-ebooks-unpacked-v1' | 'standard-ebooks-library-v2'
 export type BookOrigin = 'remote' | 'local'
 
@@ -91,7 +99,7 @@ export interface ReaderPreferences {
   fontSize: number
   lineHeight: number
   contentWidth: number
-  annotationsEnabled: boolean
+  annotationTagStates: TagStates
   annotateBasicFunctionWords: boolean
 }
 
@@ -122,10 +130,35 @@ export const DEFAULT_READER_PREFERENCES: ReaderPreferences = {
   fontSize: 18,
   lineHeight: 1.8,
   contentWidth: 720,
-  annotationsEnabled: true,
+  annotationTagStates: createNeutralTagStates(),
   annotateBasicFunctionWords: false,
 }
 
-export function mergeReaderPreferences(saved?: Partial<ReaderPreferences> | null): ReaderPreferences {
-  return { ...DEFAULT_READER_PREFERENCES, ...(saved || {}) }
+export function mergeReaderPreferences(
+  saved?: (Partial<ReaderPreferences> & {
+    annotationsEnabled?: boolean
+    annotationMode?: 'none' | 'tag' | 'meaning'
+    annotationTags?: DictionaryTagId[]
+  }) | null,
+): ReaderPreferences {
+  const raw = saved || {}
+  let annotationTagStates = normalizeTagStates(raw.annotationTagStates)
+  const legacyTags = Array.isArray(raw.annotationTags)
+    ? [...new Set(raw.annotationTags.filter(isDictionaryTagId))]
+    : []
+  if (!raw.annotationTagStates && legacyTags.length && (raw.annotationMode === 'tag' || raw.annotationMode === 'meaning')) {
+    annotationTagStates = createNeutralTagStates()
+    const migratedState = raw.annotationMode === 'tag' ? 'annotate' : 'include'
+    for (const tag of legacyTags) annotationTagStates[tag] = migratedState
+  }
+
+  return {
+    theme: ['paper', 'light', 'dark'].includes(raw.theme || '') ? raw.theme as ReaderPreferences['theme'] : DEFAULT_READER_PREFERENCES.theme,
+    font: ['serif', 'sans'].includes(raw.font || '') ? raw.font as ReaderPreferences['font'] : DEFAULT_READER_PREFERENCES.font,
+    fontSize: typeof raw.fontSize === 'number' ? raw.fontSize : DEFAULT_READER_PREFERENCES.fontSize,
+    lineHeight: typeof raw.lineHeight === 'number' ? raw.lineHeight : DEFAULT_READER_PREFERENCES.lineHeight,
+    contentWidth: typeof raw.contentWidth === 'number' ? raw.contentWidth : DEFAULT_READER_PREFERENCES.contentWidth,
+    annotationTagStates,
+    annotateBasicFunctionWords: raw.annotateBasicFunctionWords === true,
+  }
 }
