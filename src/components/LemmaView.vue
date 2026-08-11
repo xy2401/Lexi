@@ -10,6 +10,7 @@ import DictionaryTags from './DictionaryTags.vue'
 import PaginationBar from './PaginationBar.vue'
 import TagSwitcher from './TagSwitcher.vue'
 import { useDictStore } from '../stores/dict'
+import { getProgressSetting, setProgressSetting } from '../lib/progress-db'
 
 const dictStore = useDictStore()
 
@@ -87,6 +88,18 @@ const showIng = ref(false)       // -ing
 const showIes = ref(false)       // y -> ies / ied
 
 onMounted(async () => {
+  const saved = await getProgressSetting('lemma.view', {
+    searchQuery: '', currentPage: 1, pageSize: 20,
+    showIrregular: true, showS: false, showEd: false, showIng: false, showIes: false,
+  })
+  searchQuery.value = saved.searchQuery
+  currentPage.value = Math.max(1, saved.currentPage)
+  pageSize.value = saved.pageSize
+  showIrregular.value = saved.showIrregular
+  showS.value = saved.showS
+  showEd.value = saved.showEd
+  showIng.value = saved.showIng
+  showIes.value = saved.showIes
   try {
     const res = await fetch('/data/lemma.json')
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
@@ -115,6 +128,19 @@ onMounted(async () => {
   } finally {
     loading.value = false
   }
+})
+
+watch([searchQuery, currentPage, pageSize, showIrregular, showS, showEd, showIng, showIes], () => {
+  void setProgressSetting('lemma.view', {
+    searchQuery: searchQuery.value,
+    currentPage: currentPage.value,
+    pageSize: pageSize.value,
+    showIrregular: showIrregular.value,
+    showS: showS.value,
+    showEd: showEd.value,
+    showIng: showIng.value,
+    showIes: showIes.value,
+  })
 })
 
 // 检查某个词族是否满足当前勾选的考试标签筛选规则

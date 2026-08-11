@@ -8,6 +8,7 @@ import { ref, computed, watch, nextTick } from 'vue'
 import { useTTS } from '../composables/useTTS'
 import type { WordEntry } from '../lib/db'
 import { CORRECT_ADVANCE_MS, WRONG_ADVANCE_MS } from '../lib/quiz-timing'
+import type { QuizCompletionResult } from '../lib/progress-db'
 
 type Mode = 'match' | 'spell' | 'translate'
 
@@ -22,7 +23,7 @@ const props = withDefaults(defineProps<{
 })
 
 const emit = defineEmits<{
-  complete: []
+  complete: [result: QuizCompletionResult]
 }>()
 
 const { speak } = useTTS()
@@ -192,7 +193,12 @@ function advance() {
   currentIndex.value++
   if (currentIndex.value >= queue.value.length) {
     phase.value = 'result'
-    emit('complete')
+    emit('complete', {
+      accuracy: accuracy.value,
+      totalQuestions: totalQuestions.value,
+      totalAttempts: totalAttempts.value,
+      wrongWords: [...wrongWords.value],
+    })
     return
   }
   resetAnswerState()

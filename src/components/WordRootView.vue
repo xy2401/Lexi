@@ -3,8 +3,9 @@
  * WordRootView - 词根词缀沙盒
  * 支持按词根、词义、例词检索与前后缀/词源筛选，包含全量分页
  */
-import { ref, computed, onMounted } from 'vue'
+import { ref, computed, onMounted, watch } from 'vue'
 import PaginationBar from './PaginationBar.vue'
+import { getProgressSetting, setProgressSetting } from '../lib/progress-db'
 
 export interface WordRootItem {
   key: string
@@ -35,6 +36,14 @@ const currentPage = ref(1)
 const pageSize = ref(20)
 
 onMounted(async () => {
+  const saved = await getProgressSetting('wordroot.view', {
+    searchQuery: '', selectedClass: 'all', selectedOrigin: 'all', currentPage: 1, pageSize: 20,
+  })
+  searchQuery.value = saved.searchQuery
+  selectedClass.value = saved.selectedClass
+  selectedOrigin.value = saved.selectedOrigin
+  currentPage.value = Math.max(1, saved.currentPage)
+  pageSize.value = saved.pageSize
   try {
     const res = await fetch('/data/wordroot.json')
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
@@ -45,6 +54,16 @@ onMounted(async () => {
   } finally {
     loading.value = false
   }
+})
+
+watch([searchQuery, selectedClass, selectedOrigin, currentPage, pageSize], () => {
+  void setProgressSetting('wordroot.view', {
+    searchQuery: searchQuery.value,
+    selectedClass: selectedClass.value,
+    selectedOrigin: selectedOrigin.value,
+    currentPage: currentPage.value,
+    pageSize: pageSize.value,
+  })
 })
 
 // 词源双语对照表 (用于顶部筛选栏：统一 中文 + 英文 风格)

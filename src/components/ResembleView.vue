@@ -3,8 +3,9 @@
  * ResembleView - 近义/易混词辨析
  * 支持单词或中文搜索，包含全量分页与一键点读
  */
-import { ref, computed, onMounted } from 'vue'
+import { ref, computed, onMounted, watch } from 'vue'
 import PaginationBar from './PaginationBar.vue'
+import { getProgressSetting, setProgressSetting } from '../lib/progress-db'
 
 export interface ResembleGroup {
   words: string[]
@@ -25,6 +26,10 @@ const currentPage = ref(1)
 const pageSize = ref(20)
 
 onMounted(async () => {
+  const saved = await getProgressSetting('resemble.view', { searchQuery: '', currentPage: 1, pageSize: 20 })
+  searchQuery.value = saved.searchQuery
+  currentPage.value = Math.max(1, saved.currentPage)
+  pageSize.value = saved.pageSize
   try {
     const res = await fetch('/data/resemble.json')
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
@@ -35,6 +40,14 @@ onMounted(async () => {
   } finally {
     loading.value = false
   }
+})
+
+watch([searchQuery, currentPage, pageSize], () => {
+  void setProgressSetting('resemble.view', {
+    searchQuery: searchQuery.value,
+    currentPage: currentPage.value,
+    pageSize: pageSize.value,
+  })
 })
 
 const filteredItems = computed(() => {

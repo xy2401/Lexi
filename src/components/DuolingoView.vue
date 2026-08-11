@@ -3,7 +3,7 @@
  * DuolingoView - 多邻国单元词汇浏览
  * 加载 /data/duolingo-zs-en.json，按单元展示词汇列表
  */
-import { ref, computed, onMounted } from 'vue'
+import { ref, computed, onMounted, watch } from 'vue'
 import { marked } from 'marked'
 import { db, cacheWords, type WordEntry } from '../lib/db'
 import { queryDictionaryWords } from '../lib/remote-db'
@@ -11,6 +11,17 @@ import { parseCourseMarkdown, type CourseDocument, type CourseUnitIndex, type Qu
 import PracticePanel from './PracticePanel.vue'
 import QuizLevelList from './QuizLevelList.vue'
 import QuizRunner from './QuizRunner.vue'
+import {
+  completeCourseQuiz,
+  getCourseUnitProgress,
+  getProgressSetting,
+  listCourseUnitProgress,
+  saveCourseUnitProgress,
+  setProgressSetting,
+  startCourseQuiz,
+  type CourseUnitProgress,
+  type QuizCompletionResult,
+} from '../lib/progress-db'
 
 type DuoUnit = CourseUnitIndex
 
@@ -32,6 +43,7 @@ const activeQuiz = ref<QuizDefinition | null>(null)
 const completedQuizIds = ref<string[]>([])
 const quizLoadingId = ref('')
 const courseWarning = ref('')
+const unitProgress = ref(new Map<number, CourseUnitProgress>())
 
 const activeWords = computed(() => {
   if (courseDocument.value?.words.length) return courseDocument.value.words
@@ -56,12 +68,28 @@ onMounted(async () => {
   try {
     const res = await fetch('/data/duolingo-zs-en.json')
     units.value = await res.json()
+    const [savedView, savedUnits] = await Promise.all([
+      getProgressSetting<{ unitId?: number; searchQuery: string }>('duolingo.view', { searchQuery: '' }),
+      listCourseUnitProgress(),
+    ])
+    unitProgress.value = new Map(savedUnits.map(item => [item.unitId, item]))
+    searchQuery.value = savedView.searchQuery || ''
+    const savedUnit = units.value.find(unit => unit.id === savedView.unitId)
+    if (savedUnit) await openUnit(savedUnit)
   } catch (e) {
     console.error('加载多邻国数据失败', e)
   } finally {
     loading.value = false
   }
 })
+
+watch(searchQuery, value => {
+  void persistCourseView(selectedUnit.value?.id, value)
+})
+
+function persistCourseView(unitId = selectedUnit.value?.id, query = searchQuery.value): Promise<void> {
+  return setProgressSetting('duolingo.view', { unitId, searchQuery: query })
+}
 
 async function selectUnit(unit: DuoUnit) {
   if (selectedUnit.value?.id === unit.id) {
@@ -71,17 +99,30 @@ async function selectUnit(unit: DuoUnit) {
     courseDocument.value = null
     courseWarning.value = ''
     activeQuiz.value = null
+    completedQuizIds.value = []
+    await persistCourseView(undefined)
     return
   }
+  await openUnit(unit)
+}
+
+async function openUnit(unit: DuoUnit) {
   selectedUnit.value = unit
   panelTab.value = 'words'
   guideHtml.value = ''
   courseDocument.value = null
   courseWarning.value = ''
   activeQuiz.value = null
-  completedQuizIds.value = []
   await loadEntries(unit.words)
   await loadGuide(unit)
+  const saved = await getCourseUnitProgress(unit.id)
+  unitProgress.value.set(unit.id, saved)
+  completedQuizIds.value = [...saved.completedQuizIds]
+  panelTab.value = saved.panel
+  if (saved.activeQuizId && courseDocument.value?.quizzes.length) {
+    activeQuiz.value = courseDocument.value.quizzes.find(quiz => quiz.id === saved.activeQuizId) || null
+  }
+  await persistCourseView(unit.id)
 }
 
 async function loadEntries(words: string[]) {
@@ -106,6 +147,13 @@ async function switchTab(tab: 'words' | 'guide' | 'practice') {
     await loadGuide(selectedUnit.value)
   }
   if (tab !== 'practice') activeQuiz.value = null
+  if (selectedUnit.value) {
+    const saved = await saveCourseUnitProgress(selectedUnit.value.id, {
+      panel: tab,
+      activeQuizId: tab === 'practice' ? activeQuiz.value?.id : undefined,
+    })
+    unitProgress.value.set(saved.unitId, saved)
+  }
 }
 
 async function loadGuide(unit: DuoUnit) {
@@ -162,11 +210,33 @@ async function selectQuiz(quiz: QuizDefinition) {
     await ensureTranslations()
   }
   activeQuiz.value = quiz
+  if (selectedUnit.value) {
+    await startCourseQuiz(selectedUnit.value.id, quiz.id)
+    const saved = await saveCourseUnitProgress(selectedUnit.value.id, {
+      panel: 'practice',
+      activeQuizId: quiz.id,
+    })
+    unitProgress.value.set(saved.unitId, saved)
+  }
   quizLoadingId.value = ''
 }
 
-function markQuizComplete(id: string) {
+async function markQuizComplete(id: string, result: QuizCompletionResult = {}) {
   if (!completedQuizIds.value.includes(id)) completedQuizIds.value.push(id)
+  if (!selectedUnit.value) return
+  await completeCourseQuiz(selectedUnit.value.id, id, result)
+  const saved = await getCourseUnitProgress(selectedUnit.value.id)
+  unitProgress.value.set(saved.unitId, saved)
+}
+
+async function backToQuizList() {
+  activeQuiz.value = null
+  if (!selectedUnit.value) return
+  const saved = await saveCourseUnitProgress(selectedUnit.value.id, {
+    panel: 'practice',
+    activeQuizId: undefined,
+  })
+  unitProgress.value.set(saved.unitId, saved)
 }
 
 function selectWord(word: string) {
@@ -204,7 +274,12 @@ function selectWord(word: string) {
             <div class="unit-name">{{ unit.name }}</div>
             <div class="unit-desc">{{ unit.desc }}</div>
           </div>
-          <div class="unit-count">{{ unit.words.length }} 词</div>
+          <div class="unit-count">
+            {{ unit.words.length }} 词
+            <small v-if="unitProgress.get(unit.id)?.completedQuizIds.length">
+              ✓ {{ unitProgress.get(unit.id)?.completedQuizIds.length }} 关
+            </small>
+          </div>
         </div>
       </div>
 
@@ -257,7 +332,7 @@ function selectWord(word: string) {
               :quiz="activeQuiz"
               :words="activeWords"
               :entries="unitEntries"
-              @back="activeQuiz = null"
+              @back="backToQuizList"
               @complete="markQuizComplete"
             />
           </template>
@@ -395,9 +470,19 @@ function selectWord(word: string) {
 }
 
 .unit-count {
+  display: grid;
+  justify-items: end;
+  gap: 0.15rem;
   font-size: 0.7rem;
   color: #aaa;
   flex-shrink: 0;
+}
+
+.unit-count small {
+  color: #58a92f;
+  font-size: 0.65rem;
+  font-weight: 700;
+  white-space: nowrap;
 }
 
 .word-panel {

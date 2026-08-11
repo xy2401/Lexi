@@ -13,6 +13,7 @@ import type {
 import type { WordEntry } from '../lib/db'
 import { createListeningSegments, type ListeningSegment, type ListeningWordSegment } from '../lib/listening-segments'
 import { CORRECT_ADVANCE_MS, MATCH_RETRY_MS, WRONG_ADVANCE_MS } from '../lib/quiz-timing'
+import type { QuizCompletionResult } from '../lib/progress-db'
 
 const props = defineProps<{
   quiz: QuizDefinition
@@ -22,7 +23,7 @@ const props = defineProps<{
 
 const emit = defineEmits<{
   back: []
-  complete: [id: string]
+  complete: [id: string, result?: QuizCompletionResult]
 }>()
 
 const { speak, speakSequence } = useTTS()
@@ -39,12 +40,12 @@ function shuffle<T>(values: T[]): T[] {
   return result
 }
 
-function completeQuiz() {
+function completeQuiz(result?: QuizCompletionResult) {
   finished.value = true
   feedback.value = 'correct'
   if (!completionSent) {
     completionSent = true
-    emit('complete', props.quiz.id)
+    emit('complete', props.quiz.id, result)
   }
 }
 

@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, onMounted } from 'vue'
+import { ref, onMounted, watch } from 'vue'
 import { TAG_OPTIONS, useDictStore } from './stores/dict'
 import { lookupWord } from './lib/lookup-service'
 import { db } from './lib/db'
@@ -20,6 +20,15 @@ import LemmaView from './components/LemmaView.vue'
 import WordNetView from './components/WordNetView.vue'
 import { useTTS } from './composables/useTTS'
 import type { WordEntry } from './lib/db'
+import {
+  getProgressSetting,
+  isAppTabId,
+  listDictionaryHistory,
+  rememberDictionaryLookup,
+  setProgressSetting,
+  type AppTabId,
+  type DictionaryHistoryEntry,
+} from './lib/progress-db'
 
 interface LicensedProject {
   name: string
@@ -234,9 +243,13 @@ function formatBytes(bytes: number): string {
 }
 
 // ========== 模块切换 ==========
-type TabId = 'reader' | 'explorer' | 'wordnet' | 'wordroot' | 'resemble' | 'lemma' | 'duolingo' | 'settings'
-const activeTab = ref<TabId>('reader')
+const activeTab = ref<AppTabId>('reader')
 const wordNetInitialWord = ref('bank')
+let progressHydrated = false
+
+watch(activeTab, tab => {
+  if (progressHydrated) void setProgressSetting('app.activeTab', tab)
+})
 
 function openSettings() {
   activeTab.value = 'settings'
@@ -255,15 +268,41 @@ const readerRecording = ref(false)
 const explorerWord = ref('')
 const explorerEntry = ref<WordEntry | null>(null)
 const dictionaryRecording = ref(false)
+const dictionaryHistory = ref<DictionaryHistoryEntry[]>([])
 
 const { speak, stop, voices, selectedVoice } = useTTS()
 
 onMounted(async () => {
-  await dictStore.init()
+  const dictionaryReady = dictStore.init()
+  const [savedTab, savedWordNetWord, savedExplorerWord] = await Promise.all([
+    getProgressSetting<unknown>('app.activeTab', 'reader'),
+    getProgressSetting('wordnet.lastWord', 'bank'),
+    getProgressSetting('explorer.lastWord', ''),
+  ])
+  wordNetInitialWord.value = savedWordNetWord || 'bank'
+  activeTab.value = isAppTabId(savedTab) ? savedTab : 'reader'
+  dictionaryHistory.value = await listDictionaryHistory(12)
+  progressHydrated = true
+
+  await dictionaryReady
+  if (activeTab.value === 'explorer' && savedExplorerWord) {
+    explorerWord.value = savedExplorerWord
+    const result = await lookupWord(savedExplorerWord, hotEntry => {
+      explorerEntry.value = hotEntry
+    })
+    explorerEntry.value = result.entry
+  }
+  if (activeTab.value === 'settings') void refreshDbStats()
 })
+
+async function recordDictionaryLookup(word: string): Promise<void> {
+  await rememberDictionaryLookup(word)
+  dictionaryHistory.value = await listDictionaryHistory(12)
+}
 
 // ========== Reader / Extension 事件 ==========
 async function handleWordClick(payload: { word: string; x: number; y: number }) {
+  void recordDictionaryLookup(payload.word)
   tooltipWord.value = payload.word
   tooltipPos.value = { x: payload.x, y: payload.y }
   showTooltip.value = true
@@ -278,6 +317,7 @@ async function handleWordClick(payload: { word: string; x: number; y: number }) 
 }
 
 async function handleExtensionSelectWord(word: string) {
+  void recordDictionaryLookup(word)
   tooltipWord.value = word
   tooltipPos.value = { x: window.innerWidth / 2 - 190, y: 120 }
   showTooltip.value = true
@@ -320,6 +360,8 @@ async function handleExplorerSelectWord(word: string) {
   dictionaryRecording.value = false
   explorerWord.value = word
   explorerEntry.value = null
+  void recordDictionaryLookup(word)
+  void setProgressSetting('explorer.lastWord', word)
 
   // 立即朗读发音（不等待词典网络请求）
   speak(word)
@@ -397,6 +439,16 @@ function openWordNet(word: string) {
       <div class="explorer-layout">
         <div class="explorer-left">
           <h3>A-Z 词典树</h3>
+          <div v-if="dictionaryHistory.length" class="dictionary-history" aria-label="最近查询">
+            <span>最近查询</span>
+            <button
+              v-for="item in dictionaryHistory"
+              :key="item.word"
+              type="button"
+              :title="`查询 ${item.viewCount} 次`"
+              @click="handleExplorerSelectWord(item.word)"
+            >{{ item.word }}</button>
+          </div>
           <ExplorerTree @select-word="handleExplorerSelectWord" />
         </div>
         <div class="explorer-right">
@@ -855,6 +907,33 @@ function openWordNet(word: string) {
   grid-template-columns: minmax(0, 600px) minmax(360px, 1fr);
   align-items: start;
   gap: 1.5rem;
+}
+
+.dictionary-history {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.dictionary-history > span {
+  color: #95a5a6;
+  font-size: 0.68rem;
+}
+
+.dictionary-history button {
+  padding: 0.18rem 0.42rem;
+  border: 1px solid #e0e6e9;
+  border-radius: 999px;
+  background: #fff;
+  color: #607080;
+  font-size: 0.68rem;
+  cursor: pointer;
+}
+
+.dictionary-history button:hover {
+  border-color: #8ec7ea;
+  color: #2476b7;
 }
 
 .licenses-section {

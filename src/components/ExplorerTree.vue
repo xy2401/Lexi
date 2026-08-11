@@ -4,10 +4,11 @@
  * 本地模式：A-Z 直接过滤 IndexedDB（无需二级前缀）
  * 完整模式：A-Z → 有序逻辑分片 → 整片入库后分页查询
  */
-import { ref, computed } from 'vue'
+import { ref, computed, onMounted, watch } from 'vue'
 import { listDictionaryShard, type DictionaryResult } from '../lib/remote-db'
 import { getLocalWordsByLetter, db, type WordEntry } from '../lib/db'
 import { useDictStore } from '../stores/dict'
+import { getProgressSetting, setProgressSetting } from '../lib/progress-db'
 
 const dictStore = useDictStore()
 
@@ -105,6 +106,34 @@ async function loadMore() {
 function selectWord(word: string) {
   emit('select-word', word)
 }
+
+onMounted(async () => {
+  const saved = await getProgressSetting<{
+    browseMode: 'local' | 'remote'
+    localLetter: string | null
+    selectedLetter: string | null
+    selectedPrefix: string | null
+  }>('explorer.tree', {
+    browseMode: 'local', localLetter: null, selectedLetter: null, selectedPrefix: null,
+  })
+  browseMode.value = saved.browseMode === 'remote' ? 'remote' : 'local'
+  if (browseMode.value === 'local' && saved.localLetter && LOCAL_LETTERS.includes(saved.localLetter)) {
+    await selectLocalLetter(saved.localLetter)
+  }
+  if (browseMode.value === 'remote' && saved.selectedLetter && REMOTE_LETTERS.includes(saved.selectedLetter)) {
+    selectedLetter.value = saved.selectedLetter
+    if (saved.selectedPrefix) await selectPrefix(saved.selectedPrefix)
+  }
+})
+
+watch([browseMode, localLetter, selectedLetter, selectedPrefix], () => {
+  void setProgressSetting('explorer.tree', {
+    browseMode: browseMode.value,
+    localLetter: localLetter.value,
+    selectedLetter: selectedLetter.value,
+    selectedPrefix: selectedPrefix.value,
+  })
+})
 </script>
 
 <template>

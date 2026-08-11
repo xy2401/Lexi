@@ -13,6 +13,15 @@ import {
   type WordNetSynsetGraph,
   type WordNetSynsetRelation,
 } from '../lib/wordnet-service'
+import { getProgressSetting, setProgressSetting } from '../lib/progress-db'
+
+interface SavedWordNetState {
+  word: string
+  kind: 'sense' | 'synset'
+  senseId?: string
+  synsetId: string
+  shard: string
+}
 
 const props = withDefaults(defineProps<{
   initialWord?: string
@@ -133,6 +142,13 @@ async function selectSense(sense: WordNetSense) {
     if (selectedSenseId.value !== sense.id) return
     synset.value = result
     frames.value = await loadWordNetFrames(sense.subcategories)
+    await setProgressSetting<SavedWordNetState>('wordnet.lastState', {
+      word: searchedWord.value,
+      kind: 'sense',
+      senseId: sense.id,
+      synsetId: sense.synsetId,
+      shard: sense.synsetShard,
+    })
   } catch (cause) {
     console.warn('[WordNet] synset 加载失败', cause)
     error.value = cause instanceof Error ? cause.message : '语义节点加载失败'
@@ -149,6 +165,7 @@ async function search(raw = query.value) {
   query.value = word
   suggestionsOpen.value = false
   searchedWord.value = word
+  void setProgressSetting('wordnet.lastWord', word)
   loading.value = true
   error.value = ''
   entries.value = []
@@ -157,8 +174,18 @@ async function search(raw = query.value) {
   try {
     const result = await lookupWordNetLemma(word)
     entries.value = result
-    const firstSense = result.flatMap(entry => entry.senses)[0]
-    if (firstSense) await selectSense(firstSense)
+    const senses = result.flatMap(entry => entry.senses)
+    const saved = await getProgressSetting<SavedWordNetState | null>('wordnet.lastState', null)
+    const restoringSameWord = saved?.word.toLowerCase() === word.toLowerCase()
+    if (restoringSameWord && saved.kind === 'synset') {
+      synset.value = await loadWordNetSynset(saved.shard, saved.synsetId)
+      selectedSenseId.value = ''
+    } else {
+      const preferredSense = restoringSameWord
+        ? senses.find(sense => sense.id === saved?.senseId) || senses[0]
+        : senses[0]
+      if (preferredSense) await selectSense(preferredSense)
+    }
   } catch (cause) {
     console.warn('[WordNet] lemma 查询失败', cause)
     error.value = cause instanceof Error ? cause.message : 'WordNet 查询失败'
@@ -222,6 +249,12 @@ async function recenter(relation: WordNetSynsetRelation) {
     synset.value = await loadWordNetSynset(relation.targetShard, relation.targetSynsetId)
     selectedSenseId.value = ''
     frames.value = []
+    await setProgressSetting<SavedWordNetState>('wordnet.lastState', {
+      word: searchedWord.value,
+      kind: 'synset',
+      synsetId: relation.targetSynsetId,
+      shard: relation.targetShard,
+    })
   } catch (cause) {
     console.warn('[WordNet] 关系节点加载失败', cause)
     error.value = cause instanceof Error ? cause.message : '关系节点加载失败'

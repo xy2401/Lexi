@@ -52,6 +52,7 @@
 - 内置连词成句、听音辨句、词义选择、单词匹配与选词填空等练习
 - 每道题均配有深度语法与句法解析
 - TTS 朗读完整句子后再平滑切题
+- 持久保存最后单元、练习面板、已完成关卡、尝试次数与最佳正确率
 
 ### ⚙️ 设置（Settings）
 - 选择并试听浏览器提供的英文 TTS 语音
@@ -67,6 +68,7 @@
 - **Pinia**：词典加载状态、内存词条索引和全局标签筛选
 - **Dexie / IndexedDB**：持久缓存 Hot、Main 与 WordNet 已下载分片中的有效数据
 - **独立 Reader IndexedDB**：持久保存来源、书目、书包元数据、清洗后的章节、图片、本地图书与进度
+- **独立 Progress IndexedDB**：持久保存最后模块、词典历史、标签筛选、各浏览模块状态与课程进度
 - **JSON Lines**：每行一个领域对象，浏览器原生解析后直接写入 IndexedDB
 - **fflate + DOMPurify**：浏览器异步解包 EPUB，并统一清洗远程 XHTML、本地图书和临时 HTML
 - **Web Speech API**：浏览器本地 TTS 朗读
@@ -310,6 +312,7 @@ src/
     course-markdown.ts           # 课程 Markdown 与练习定义解析
     reader-types.ts              # Reader 领域类型与显示设置
     reader-db.ts                 # 独立 lexi-reader IndexedDB
+    progress-db.ts               # 独立 lexi-progress 学习进度与界面记忆
     reader-sanitize.ts           # 书籍与临时 HTML 安全清洗
     library-service.ts           # 远程目录、OPF/TOC、章节与缓存接口
     epub-import.ts               # EPUB 2/3 与 HTML 本地导入

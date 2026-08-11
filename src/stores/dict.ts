@@ -7,6 +7,7 @@ import { db, loadHotData, type WordEntry } from '../lib/db'
 import { buildReverseIndex, restoreBase } from '../lib/morphology'
 import { getBasicFunctionWordGloss, isAllCapsReaderToken, resolveReaderAnnotation, type ReaderAnnotationOptions } from '../lib/reader-annotations'
 import type { ReaderAnnotationValue } from '../lib/tokenizer'
+import { getProgressSetting, setProgressSetting } from '../lib/progress-db'
 
 export const TAG_OPTIONS = [
   { id: 'zk', label: '中考 zk' },
@@ -41,6 +42,17 @@ function createNeutralTagStates(): TagStates {
   return Object.fromEntries(
     TAG_OPTIONS.map(tag => [tag.id, 'neutral']),
   ) as TagStates
+}
+
+const TAG_FILTER_MODES: TagFilterMode[] = ['neutral', 'include', 'exclude', 'annotate']
+
+function restoreTagStates(saved: Partial<TagStates>): TagStates {
+  const restored = createNeutralTagStates()
+  for (const tag of TAG_OPTIONS) {
+    const mode = saved[tag.id]
+    if (mode && TAG_FILTER_MODES.includes(mode)) restored[tag.id] = mode
+  }
+  return restored
 }
 
 function parseDictionaryTagIds(rawTags: string): Set<string> {
@@ -94,7 +106,11 @@ export const useDictStore = defineStore('dict', () => {
   async function init() {
     if (ready.value) return
 
-    const count = await loadHotData(percent => { loadProgress.value = percent })
+    const [count, savedTagStates] = await Promise.all([
+      loadHotData(percent => { loadProgress.value = percent }),
+      getProgressSetting<Partial<TagStates>>('dictionary.tagStates', {}),
+    ])
+    Object.assign(tagStates, restoreTagStates(savedTagStates))
     const allWords = await db.words.toArray()
     const map = new Map<string, WordEntry>()
     for (const w of allWords) {
@@ -156,10 +172,12 @@ export const useDictStore = defineStore('dict', () => {
    */
   function cycleTagState(tag: DictionaryTagId): void {
     tagStates[tag] = nextTagFilterMode(tagStates[tag])
+    void setProgressSetting('dictionary.tagStates', { ...tagStates })
   }
 
   function resetTagFilters(): void {
     for (const tag of TAG_OPTIONS) tagStates[tag.id] = 'neutral'
+    void setProgressSetting('dictionary.tagStates', { ...tagStates })
   }
 
   /**
