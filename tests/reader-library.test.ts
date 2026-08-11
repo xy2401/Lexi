@@ -1,40 +1,98 @@
-import { afterEach, describe, expect, it } from 'vitest'
+import { afterEach, describe, expect, it, vi } from 'vitest'
 import { zipSync, strToU8 } from 'fflate'
-import { normalizeSubjectCatalog } from '../src/lib/library-service'
+import { ensureDefaultLibrarySource, normalizeLibraryCatalog, remoteCoverUrl, validateLibrarySource } from '../src/lib/library-service'
 import { sanitizeReaderHtml } from '../src/lib/reader-sanitize'
 import { importLocalBook } from '../src/lib/epub-import'
 import { readerDb } from '../src/lib/reader-db'
 
 afterEach(async () => {
+  vi.unstubAllGlobals()
   await Promise.all(readerDb.tables.map(table => table.clear()))
 })
 
 describe('Standard Ebooks catalog normalization', () => {
-  it('merges duplicate books and preserves every subject', () => {
-    const row = { rank: 3, title: 'Treasure Island', author: 'Robert Louis Stevenson', repo_name: 'robert-louis-stevenson_treasure-island' }
-    const result = normalizeSubjectCatalog('test-source', {
-      adventure: [row],
-      fiction: [{ ...row, rank: 9 }],
+  it('normalizes Libr v2 books, subjects and their unique asset roots', () => {
+    const result = normalizeLibraryCatalog('test-source', {
+      schema_version: 2,
+      subjects: [{ slug: 'adventure' }, { slug: 'fiction' }],
+      books: [{
+        title: 'Treasure Island',
+        author: 'Robert Louis Stevenson',
+        repo_name: 'robert-louis-stevenson_treasure-island',
+        asset_path: 'library/robert-louis-stevenson_treasure-island/src/epub',
+        subjects: [{ slug: 'adventure', rank: 3 }, { slug: 'fiction', rank: 9 }],
+      }],
     })
-    expect(result.rawRows).toBe(2)
+    expect(result.schemaVersion).toBe(2)
     expect(result.subjects).toBe(2)
     expect(result.books).toHaveLength(1)
     expect(result.books[0].subjects).toEqual(['adventure', 'fiction'])
-    expect(result.books[0].assetSubject).toBe('adventure')
+    expect(result.books[0].assetPath).toBe('library/robert-louis-stevenson_treasure-island/src/epub')
+    expect(result.books[0].rank).toBe(3)
     expect(result.books[0].canonicalId).toBe('standardebooks:robert-louis-stevenson_treasure-island')
   })
 
   it('rejects unsafe repository path segments', () => {
-    expect(() => normalizeSubjectCatalog('test-source', {
-      fiction: [{ title: 'Bad', author: 'Unknown', repo_name: '../outside' }],
+    expect(() => normalizeLibraryCatalog('test-source', {
+      schema_version: 2,
+      subjects: [{ slug: 'fiction' }],
+      books: [{ title: 'Bad', author: 'Unknown', repo_name: '../outside', asset_path: 'library/../outside/src/epub', subjects: [{ slug: 'fiction' }] }],
     })).toThrow(/不安全/)
   })
 
   it('keeps catalog rows whose author is intentionally anonymous', () => {
-    const result = normalizeSubjectCatalog('test-source', {
-      fiction: [{ title: 'Anonymous Work', author: '', repo_name: 'anonymous_work' }],
+    const result = normalizeLibraryCatalog('test-source', {
+      schema_version: 2,
+      subjects: [{ slug: 'fiction' }],
+      books: [{ title: 'Anonymous Work', author: '', repo_name: 'anonymous_work', asset_path: 'library/anonymous_work/src/epub', subjects: [{ slug: 'fiction' }] }],
     })
     expect(result.books[0].author).toBe('Anonymous')
+  })
+
+  it('validates the v2 catalog and sample resources through asset_path', async () => {
+    const catalog = {
+      schema_version: 2,
+      subjects: [{ slug: 'adventure' }],
+      books: [{
+        title: 'Treasure Island', author: 'Robert Louis Stevenson',
+        repo_name: 'robert-louis-stevenson_treasure-island',
+        asset_path: 'library/robert-louis-stevenson_treasure-island/src/epub',
+        subjects: [{ slug: 'adventure', rank: 1 }],
+      }],
+    }
+    const requested: string[] = []
+    vi.stubGlobal('fetch', vi.fn(async (input: RequestInfo | URL) => {
+      const url = String(input)
+      requested.push(url)
+      const text = url.endsWith('/subject_top.json')
+        ? JSON.stringify(catalog)
+        : url.endsWith('/content.opf')
+          ? '<package />'
+          : '<html />'
+      return { ok: true, status: 200, text: async () => text } as Response
+    }))
+    const result = await validateLibrarySource({ id: 'source', baseUrl: 'https://libr.example' })
+    expect(result).toMatchObject({ schemaVersion: 2, subjects: 1, books: 1, sampleTitle: 'Treasure Island' })
+    expect(requested).toEqual([
+      'https://libr.example/subject_top.json',
+      'https://libr.example/library/robert-louis-stevenson_treasure-island/src/epub/content.opf',
+      'https://libr.example/library/robert-louis-stevenson_treasure-island/src/epub/toc.xhtml',
+    ])
+  })
+
+  it('builds remote cover URLs from the catalog asset path', () => {
+    const { books } = normalizeLibraryCatalog('source', {
+      schema_version: 2,
+      subjects: [{ slug: 'adventure' }],
+      books: [{
+        title: 'Treasure Island', author: 'Robert Louis Stevenson',
+        repo_name: 'robert-louis-stevenson_treasure-island',
+        asset_path: 'library/robert-louis-stevenson_treasure-island/src/epub',
+        subjects: [{ slug: 'adventure', rank: 1 }],
+      }],
+    })
+    expect(remoteCoverUrl({ baseUrl: 'https://libr.example' }, books[0]))
+      .toBe('https://libr.example/library/robert-louis-stevenson_treasure-island/src/epub/images/cover.svg')
   })
 })
 
@@ -54,8 +112,31 @@ describe('reader HTML sanitization', () => {
 
 describe('reader IndexedDB schema', () => {
   it('stores boolean source state without indexing the boolean value', async () => {
-    await readerDb.sources.put({ id: 'source', name: 'Source', baseUrl: 'https://books.example', adapter: 'standard-ebooks-unpacked-v1', enabled: true, createdAt: 1, updatedAt: 1 })
+    await readerDb.sources.put({ id: 'source', name: 'Source', baseUrl: 'https://books.example', adapter: 'standard-ebooks-library-v2', enabled: true, createdAt: 1, updatedAt: 1 })
     expect((await readerDb.sources.orderBy('createdAt').first())?.enabled).toBe(true)
+  })
+
+  it('provides both local and Libr sources during development', async () => {
+    await ensureDefaultLibrarySource()
+    const urls = (await readerDb.sources.toArray()).map(source => source.baseUrl)
+    expect(urls).toContain('http://localhost:8000')
+    expect(urls).toContain('https://libr.2401.xyz')
+  })
+
+  it('upgrades v1 sources and clears only their rebuildable remote cache', async () => {
+    await readerDb.sources.put({ id: 'legacy', name: 'Legacy', baseUrl: 'https://libr.example', adapter: 'standard-ebooks-unpacked-v1', enabled: true, createdAt: 1, updatedAt: 1 })
+    await readerDb.books.put({
+      key: 'legacy:book', canonicalId: 'standardebooks:book', sourceId: 'legacy', origin: 'remote',
+      repoName: 'book', title: 'Book', author: 'Author', subjects: ['fiction'],
+    })
+    await readerDb.progress.put({
+      bookKey: 'legacy:book', canonicalId: 'standardebooks:book', chapterHref: 'text/one.xhtml',
+      scrollPercent: 0.5, overallPercent: 0.25, timeSpentSeconds: 60, favorite: true, lastReadAt: 1,
+    })
+    await ensureDefaultLibrarySource()
+    expect((await readerDb.sources.get('legacy'))?.adapter).toBe('standard-ebooks-library-v2')
+    expect(await readerDb.books.count()).toBe(0)
+    expect(await readerDb.progress.count()).toBe(1)
   })
 })
 

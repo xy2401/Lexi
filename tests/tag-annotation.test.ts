@@ -53,5 +53,6 @@ describe('dictionary tag annotation state', () => {
     const ruby = doc.querySelector('ruby')
     expect(ruby?.dataset.annotationKind).toBe('tag')
     expect(ruby?.querySelector('rt')?.textContent).toBe('gk')
+    expect(ruby?.querySelector('rt > .reader-tag-chip')?.textContent).toBe('gk')
   })
 })

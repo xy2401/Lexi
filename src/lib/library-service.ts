@@ -12,19 +12,38 @@ import type {
   TocItem,
 } from './reader-types'
 
-type CatalogRow = {
+type LibrCatalogSubject = {
+  slug?: string
+}
+
+type LibrCatalogBookSubject = {
+  slug?: string
   rank?: number
+}
+
+type LibrCatalogBook = {
   title?: string
   author?: string
   href?: string
   web_url?: string
   repo_name?: string
+  asset_path?: string
+  subjects?: LibrCatalogBookSubject[]
 }
 
-export type SubjectCatalog = Record<string, CatalogRow[]>
+type LibrCatalog = {
+  schema_version?: number
+  subjects?: LibrCatalogSubject[]
+  books?: LibrCatalogBook[]
+}
 
 const SAFE_SEGMENT = /^[a-z0-9][a-z0-9._-]*$/i
-const DEFAULT_SOURCE_ID = 'standard-ebooks-default'
+const DEFAULT_LOCAL_SOURCE_ID = 'standard-ebooks-local'
+const DEFAULT_REMOTE_SOURCE_ID = 'standard-ebooks-libr'
+const DEFAULT_LOCAL_LIBRARY_URL = 'http://localhost:8000'
+const DEFAULT_REMOTE_LIBRARY_URL = 'https://libr.2401.xyz'
+const CURRENT_LIBRARY_ADAPTER = 'standard-ebooks-library-v2' as const
+const LIBR_SCHEMA_VERSION = 2
 
 function byLocalName(root: ParentNode, name: string): Element[] {
   return Array.from(root.querySelectorAll('*')).filter(element => element.localName === name)
@@ -46,50 +65,77 @@ function assertSafeSegment(value: string, label: string): void {
   if (!SAFE_SEGMENT.test(value)) throw new Error(`${label} 包含不安全字符：${value}`)
 }
 
-export function normalizeSubjectCatalog(sourceId: string, raw: unknown): {
-  books: LibraryBook[]
-  rawRows: number
-  subjects: number
-} {
-  if (!raw || typeof raw !== 'object' || Array.isArray(raw)) throw new Error('目录根节点必须是分类对象')
-  const catalog = raw as SubjectCatalog
-  const bookMap = new Map<string, LibraryBook>()
-  let rawRows = 0
-
-  for (const [subject, rows] of Object.entries(catalog)) {
-    assertSafeSegment(subject, '分类')
-    if (!Array.isArray(rows)) throw new Error(`分类 ${subject} 不是数组`)
-    for (const row of rows) {
-      rawRows++
-      const repoName = String(row?.repo_name || '').trim()
-      const title = String(row?.title || '').trim()
-      const author = String(row?.author || '').trim() || 'Anonymous'
-      if (!repoName || !title) throw new Error(`分类 ${subject} 第 ${rawRows} 条缺少 repo_name/title`)
-      assertSafeSegment(repoName, 'repo_name')
-      const existing = bookMap.get(repoName)
-      if (existing) {
-        if (!existing.subjects.includes(subject)) existing.subjects.push(subject)
-        if (typeof row.rank === 'number') existing.rank = Math.min(existing.rank ?? row.rank, row.rank)
-        continue
-      }
-      bookMap.set(repoName, {
-        key: `${sourceId}:${repoName}`,
-        canonicalId: `standardebooks:${repoName}`,
-        sourceId,
-        origin: 'remote',
-        repoName,
-        title,
-        author,
-        subjects: [subject],
-        assetSubject: subject,
-        rank: typeof row.rank === 'number' ? row.rank : undefined,
-        webUrl: row.web_url ? String(row.web_url) : undefined,
-        sourceHref: row.href ? String(row.href) : undefined,
-      })
-    }
+function normalizeAssetPath(repoName: string, value: string): string {
+  const normalized = value.trim().replace(/^\/+|\/+$/g, '')
+  const segments = normalized.split('/')
+  if (!segments.length || segments.some(segment => !SAFE_SEGMENT.test(segment))) {
+    throw new Error(`asset_path 包含不安全路径：${value}`)
   }
+  if (segments[0] !== 'library' || segments[1] !== repoName) {
+    throw new Error(`asset_path 必须位于 library/${repoName} 内`)
+  }
+  return segments.join('/')
+}
 
-  return { books: Array.from(bookMap.values()), rawRows, subjects: Object.keys(catalog).length }
+export function normalizeLibraryCatalog(sourceId: string, raw: unknown): {
+  books: LibraryBook[]
+  subjects: number
+  schemaVersion: number
+} {
+  if (!raw || typeof raw !== 'object' || Array.isArray(raw)) throw new Error('目录根节点必须是对象')
+  const catalog = raw as LibrCatalog
+  if (catalog.schema_version !== LIBR_SCHEMA_VERSION) {
+    throw new Error(`不支持的 Libr 目录版本：${String(catalog.schema_version ?? '缺失')}`)
+  }
+  if (!Array.isArray(catalog.subjects)) throw new Error('目录 subjects 必须是数组')
+  if (!Array.isArray(catalog.books)) throw new Error('目录 books 必须是数组')
+
+  const subjectSlugs = new Set<string>()
+  catalog.subjects.forEach((subject, index) => {
+    const slug = String(subject?.slug || '').trim()
+    if (!slug) throw new Error(`subjects 第 ${index + 1} 条缺少 slug`)
+    assertSafeSegment(slug, '分类')
+    if (subjectSlugs.has(slug)) throw new Error(`分类重复：${slug}`)
+    subjectSlugs.add(slug)
+  })
+
+  const seenRepos = new Set<string>()
+  const books = catalog.books.map((row, index): LibraryBook => {
+    const repoName = String(row?.repo_name || '').trim()
+    const title = String(row?.title || '').trim()
+    const author = String(row?.author || '').trim() || 'Anonymous'
+    if (!repoName || !title) throw new Error(`books 第 ${index + 1} 条缺少 repo_name/title`)
+    assertSafeSegment(repoName, 'repo_name')
+    if (seenRepos.has(repoName)) throw new Error(`repo_name 重复：${repoName}`)
+    seenRepos.add(repoName)
+    const assetPath = normalizeAssetPath(repoName, String(row?.asset_path || ''))
+    if (!Array.isArray(row.subjects)) throw new Error(`《${title}》的 subjects 必须是数组`)
+    const ranks: number[] = []
+    const subjects = Array.from(new Set(row.subjects.map((subject, subjectIndex) => {
+      const slug = String(subject?.slug || '').trim()
+      if (!slug) throw new Error(`《${title}》的 subjects 第 ${subjectIndex + 1} 条缺少 slug`)
+      assertSafeSegment(slug, '分类')
+      if (!subjectSlugs.has(slug)) throw new Error(`《${title}》引用未知分类：${slug}`)
+      if (typeof subject.rank === 'number' && Number.isFinite(subject.rank)) ranks.push(subject.rank)
+      return slug
+    })))
+    return {
+      key: `${sourceId}:${repoName}`,
+      canonicalId: `standardebooks:${repoName}`,
+      sourceId,
+      origin: 'remote',
+      repoName,
+      title,
+      author,
+      subjects,
+      assetPath,
+      rank: ranks.length ? Math.min(...ranks) : undefined,
+      webUrl: row.web_url ? String(row.web_url) : undefined,
+      sourceHref: row.href ? String(row.href) : undefined,
+    }
+  })
+
+  return { books, subjects: subjectSlugs.size, schemaVersion: catalog.schema_version }
 }
 
 async function sha256Text(text: string): Promise<string> {
@@ -110,23 +156,46 @@ async function fetchText(url: string, label: string): Promise<string> {
 
 export async function ensureDefaultLibrarySource(): Promise<LibrarySource | null> {
   const sources = await readerDb.sources.toArray()
-  if (sources.length) return sources.find(source => source.enabled) || sources[0]
-  const configured = import.meta.env.VITE_DEFAULT_LIBRARY_URL
-    || (import.meta.env.DEV ? 'http://localhost:8000' : '')
-  if (!configured) return null
-  const now = Date.now()
-  const source: LibrarySource = {
-    id: DEFAULT_SOURCE_ID,
-    name: 'Standard Ebooks 本地书库',
-    baseUrl: normalizeLibraryBaseUrl(configured),
-    adapter: 'standard-ebooks-unpacked-v1',
-    enabled: true,
-    createdAt: now,
-    updatedAt: now,
+  for (const source of sources) {
+    if (source.adapter === CURRENT_LIBRARY_ADAPTER) continue
+    await clearSourceRemoteCache(source.id)
+    await readerDb.sources.update(source.id, {
+      adapter: CURRENT_LIBRARY_ADAPTER,
+      catalogHash: undefined,
+      catalogUpdatedAt: undefined,
+      updatedAt: Date.now(),
+    })
+    source.adapter = CURRENT_LIBRARY_ADAPTER
+    source.catalogHash = undefined
+    source.catalogUpdatedAt = undefined
   }
-  await readerDb.sources.put(source)
-  await setReaderSetting('activeLibrarySourceId', source.id)
-  return source
+
+  const remoteUrl = normalizeLibraryBaseUrl(import.meta.env.VITE_DEFAULT_LIBRARY_URL || DEFAULT_REMOTE_LIBRARY_URL)
+  const defaults = [
+    ...(import.meta.env.DEV ? [{ id: DEFAULT_LOCAL_SOURCE_ID, name: 'Standard Ebooks 本地书库', baseUrl: DEFAULT_LOCAL_LIBRARY_URL }] : []),
+    { id: DEFAULT_REMOTE_SOURCE_ID, name: 'Libr Standard Ebooks 书库', baseUrl: remoteUrl },
+  ]
+  for (const desired of defaults) {
+    if (sources.some(source => normalizeLibraryBaseUrl(source.baseUrl) === desired.baseUrl)) continue
+    const now = Date.now()
+    const source: LibrarySource = {
+      ...desired,
+      adapter: CURRENT_LIBRARY_ADAPTER,
+      enabled: true,
+      createdAt: now,
+      updatedAt: now,
+    }
+    await readerDb.sources.put(source)
+    sources.push(source)
+  }
+
+  const activeId = await getReaderSetting('activeLibrarySourceId', '')
+  const active = sources.find(source => source.id === activeId && source.enabled)
+    || sources.find(source => source.enabled)
+    || sources[0]
+    || null
+  if (active && active.id !== activeId) await setReaderSetting('activeLibrarySourceId', active.id)
+  return active
 }
 
 export async function listLibrarySources(): Promise<LibrarySource[]> {
@@ -153,14 +222,16 @@ export async function setActiveLibrarySource(sourceId: string): Promise<void> {
 export async function saveLibrarySource(input: Pick<LibrarySource, 'id' | 'name' | 'baseUrl' | 'enabled'>): Promise<LibrarySource> {
   const baseUrl = normalizeLibraryBaseUrl(input.baseUrl)
   const existing = await readerDb.sources.get(input.id)
-  if (existing && existing.baseUrl !== baseUrl) await clearSourceRemoteCache(existing.id)
+  if (existing && (existing.baseUrl !== baseUrl || existing.adapter !== CURRENT_LIBRARY_ADAPTER)) {
+    await clearSourceRemoteCache(existing.id)
+  }
   const now = Date.now()
   const source: LibrarySource = {
     id: input.id || crypto.randomUUID(),
     name: input.name.trim() || '未命名书库',
     baseUrl,
     enabled: input.enabled,
-    adapter: 'standard-ebooks-unpacked-v1',
+    adapter: CURRENT_LIBRARY_ADAPTER,
     createdAt: existing?.createdAt || now,
     updatedAt: now,
   }
@@ -180,44 +251,40 @@ export async function removeLibrarySource(sourceId: string): Promise<void> {
 
 export async function validateLibrarySource(source: Pick<LibrarySource, 'id' | 'baseUrl'>): Promise<LibraryValidationResult> {
   const baseUrl = normalizeLibraryBaseUrl(source.baseUrl)
-  const catalogText = await fetchText(`${baseUrl}/subject_top100.json`, '书目')
+  const catalogText = await fetchText(`${baseUrl}/subject_top.json`, '书目')
   let raw: unknown
   try {
     raw = JSON.parse(catalogText)
   } catch {
-    throw new Error('subject_top100.json 不是有效 JSON')
+    throw new Error('subject_top.json 不是有效 JSON')
   }
-  const normalized = normalizeSubjectCatalog(source.id || 'validation', raw)
+  const normalized = normalizeLibraryCatalog(source.id || 'validation', raw)
   const sample = normalized.books[0]
   if (!sample) throw new Error('书目中没有图书')
-  const subjects = sample.subjects
-  let verified = false
-  for (const subject of subjects) {
-    const root = `${baseUrl}/${encodeURIComponent(subject)}/${encodeURIComponent(sample.repoName!)}/src/epub`
-    try {
-      await fetchText(`${root}/content.opf`, '样例 OPF')
-      await fetchText(`${root}/toc.xhtml`, '样例目录')
-      verified = true
-      break
-    } catch {
-      // Try the same book under another subject directory.
-    }
+  const root = epubRoot({ baseUrl }, sample)
+  await Promise.all([
+    fetchText(resolveInsideRoot(root, 'content.opf'), '样例 OPF'),
+    fetchText(resolveInsideRoot(root, 'toc.xhtml'), '样例目录'),
+  ])
+  return {
+    schemaVersion: normalized.schemaVersion,
+    books: normalized.books.length,
+    subjects: normalized.subjects,
+    sampleTitle: sample.title,
   }
-  if (!verified) throw new Error(`无法读取样例《${sample.title}》的 OPF/TOC`)
-  return { rawRows: normalized.rawRows, books: normalized.books.length, subjects: normalized.subjects, sampleTitle: sample.title }
 }
 
 export async function refreshLibraryCatalog(sourceId: string): Promise<LibraryBook[]> {
   const source = await readerDb.sources.get(sourceId)
   if (!source) throw new Error('图书馆来源不存在')
-  const text = await fetchText(`${source.baseUrl}/subject_top100.json`, '书目')
+  const text = await fetchText(`${source.baseUrl}/subject_top.json`, '书目')
   let raw: unknown
   try {
     raw = JSON.parse(text)
   } catch {
-    throw new Error('subject_top100.json 不是有效 JSON')
+    throw new Error('subject_top.json 不是有效 JSON')
   }
-  const normalized = normalizeSubjectCatalog(source.id, raw)
+  const normalized = normalizeLibraryCatalog(source.id, raw)
   const hash = await sha256Text(text)
   if (source.catalogHash === hash) {
     const cached = await readerDb.books.where('sourceId').equals(source.id).toArray()
@@ -242,10 +309,11 @@ export async function loadLibraryCatalog(sourceId: string, forceRefresh = false)
   return refreshLibraryCatalog(sourceId)
 }
 
-function epubRoot(source: LibrarySource, book: LibraryBook, subject: string): string {
-  assertSafeSegment(subject, '分类')
+function epubRoot(source: Pick<LibrarySource, 'baseUrl'>, book: LibraryBook): string {
   assertSafeSegment(book.repoName || '', 'repo_name')
-  return `${source.baseUrl}/${encodeURIComponent(subject)}/${encodeURIComponent(book.repoName!)}/src/epub/`
+  if (!book.assetPath) throw new Error(`《${book.title}》缺少 asset_path，请刷新书目`)
+  const assetPath = normalizeAssetPath(book.repoName!, book.assetPath)
+  return `${source.baseUrl}/${assetPath.split('/').map(encodeURIComponent).join('/')}/`
 }
 
 function resolveInsideRoot(root: string, relative: string): string {
@@ -255,25 +323,12 @@ function resolveInsideRoot(root: string, relative: string): string {
   return resolved.href
 }
 
-async function fetchBookText(book: LibraryBook, relative: string, label: string): Promise<{ text: string; subject: string; root: string }> {
+async function fetchBookText(book: LibraryBook, relative: string, label: string): Promise<{ text: string; root: string }> {
   const source = await readerDb.sources.get(book.sourceId)
   if (!source) throw new Error('图书馆来源不存在')
-  const subjects = [book.assetSubject, ...book.subjects].filter((value, index, all): value is string => Boolean(value) && all.indexOf(value) === index)
-  let lastError: unknown
-  for (const subject of subjects) {
-    const root = epubRoot(source, book, subject)
-    try {
-      const text = await fetchText(resolveInsideRoot(root, relative), label)
-      if (book.assetSubject !== subject) {
-        book.assetSubject = subject
-        await readerDb.books.update(book.key, { assetSubject: subject })
-      }
-      return { text, subject, root }
-    } catch (error) {
-      lastError = error
-    }
-  }
-  throw lastError instanceof Error ? lastError : new Error(`${label}读取失败`)
+  const root = epubRoot(source, book)
+  const text = await fetchText(resolveInsideRoot(root, relative), label)
+  return { text, root }
 }
 
 function parseToc(text: string): { toc: TocItem[]; sourceCount: number } {
@@ -428,36 +483,27 @@ export async function loadBookChapter(bookKey: string, href: string, title = '')
   return materializeChapter(chapter, false)
 }
 
-export function remoteCoverUrl(source: LibrarySource, book: LibraryBook): string {
-  const subject = book.assetSubject || book.subjects[0]
-  return resolveInsideRoot(epubRoot(source, book, subject), book.coverPath || 'images/cover.svg')
+export function remoteCoverUrl(source: Pick<LibrarySource, 'baseUrl'>, book: LibraryBook): string {
+  return resolveInsideRoot(epubRoot(source, book), book.coverPath || 'images/cover.svg')
 }
 
 export async function resolveRemoteCover(book: LibraryBook): Promise<{ url: string; revoke: () => void } | null> {
   if (book.origin !== 'remote') return null
   const source = await readerDb.sources.get(book.sourceId)
   if (!source) return null
-  const subjects = [book.assetSubject, ...book.subjects].filter((value, index, all): value is string => Boolean(value) && all.indexOf(value) === index)
-  for (const subject of subjects) {
-    const coverUrl = resolveInsideRoot(epubRoot(source, book, subject), book.coverPath || 'images/cover.svg')
-    let asset = await readerDb.assets.get([book.key, coverUrl])
-    if (!asset) {
-      try {
-        const [downloaded] = await fetchAssets(book.key, [coverUrl])
-        await readerDb.assets.put(downloaded)
-        asset = downloaded
-      } catch {
-        continue
-      }
+  const coverUrl = remoteCoverUrl(source, book)
+  let asset = await readerDb.assets.get([book.key, coverUrl])
+  if (!asset) {
+    try {
+      const [downloaded] = await fetchAssets(book.key, [coverUrl])
+      await readerDb.assets.put(downloaded)
+      asset = downloaded
+    } catch {
+      return null
     }
-    if (book.assetSubject !== subject) {
-      book.assetSubject = subject
-      await readerDb.books.update(book.key, { assetSubject: subject })
-    }
-    const url = URL.createObjectURL(asset.blob)
-    return { url, revoke: () => URL.revokeObjectURL(url) }
   }
-  return null
+  const url = URL.createObjectURL(asset.blob)
+  return { url, revoke: () => URL.revokeObjectURL(url) }
 }
 
 export async function resolveLocalCover(book: LibraryBook): Promise<{ url: string; revoke: () => void } | null> {

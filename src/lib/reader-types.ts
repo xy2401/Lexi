@@ -1,4 +1,4 @@
-export type LibraryAdapter = 'standard-ebooks-unpacked-v1'
+export type LibraryAdapter = 'standard-ebooks-unpacked-v1' | 'standard-ebooks-library-v2'
 export type BookOrigin = 'remote' | 'local'
 
 export interface LibrarySource {
@@ -22,7 +22,7 @@ export interface LibraryBook {
   title: string
   author: string
   subjects: string[]
-  assetSubject?: string
+  assetPath?: string
   rank?: number
   webUrl?: string
   sourceHref?: string
@@ -101,7 +101,7 @@ export interface ResolvedChapter extends CachedChapter {
 }
 
 export interface LibraryValidationResult {
-  rawRows: number
+  schemaVersion: number
   books: number
   subjects: number
   sampleTitle: string

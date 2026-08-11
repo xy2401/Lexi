@@ -114,8 +114,15 @@ function processNode(node: Node, lookupFn: (word: string) => ReaderAnnotationVal
             if (typeof annotation === 'string') {
               rt.textContent = annotation
             } else {
-              rt.textContent = annotation.text
-              if (annotation.kind) ruby.dataset.annotationKind = annotation.kind
+              if (annotation.kind === 'tag') {
+                const tag = document.createElement('span')
+                tag.className = 'reader-tag-chip'
+                tag.textContent = annotation.text
+                rt.appendChild(tag)
+                ruby.dataset.annotationKind = annotation.kind
+              } else {
+                rt.textContent = annotation.text
+              }
             }
             ruby.appendChild(rt)
             fragment.appendChild(ruby)

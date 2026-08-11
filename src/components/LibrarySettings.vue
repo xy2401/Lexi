@@ -54,7 +54,7 @@ async function testConnection(): Promise<void> {
   message.value = ''
   try {
     const result = await validateCurrent()
-    message.value = `连接正常：${result.subjects} 类 / ${result.rawRows.toLocaleString()} 条 / ${result.books.toLocaleString()} 本，样例《${result.sampleTitle}》`
+    message.value = `连接正常：Libr v${result.schemaVersion} · ${result.subjects} 类 / ${result.books.toLocaleString()} 本，样例《${result.sampleTitle}》`
   } catch (cause) {
     error.value = cause instanceof Error ? cause.message : String(cause)
   } finally {
@@ -135,7 +135,7 @@ onMounted(() => {
 
     <div class="source-form">
       <label>名称<input v-model="name" type="text" placeholder="例如：家庭书库"></label>
-      <label>根地址<input v-model="baseUrl" type="url" placeholder="https://books.example.com"></label>
+      <label>根地址<input v-model="baseUrl" type="url" placeholder="https://libr.2401.xyz"></label>
       <div class="form-actions"><button type="button" :disabled="busy" @click="testConnection">测试连接</button><button class="primary" type="button" :disabled="busy" @click="save">保存来源</button></div>
       <p v-if="message" class="form-message">{{ message }}</p>
       <p v-if="error" class="form-error">{{ error }}</p>

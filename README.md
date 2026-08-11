@@ -80,17 +80,17 @@ SQLite、HTTP Range 与 Cloudflare Pages 的探索过程及迁移依据记录在
 
 ## 电子书库
 
-Reader 第一版使用 `standard-ebooks-unpacked-v1` 适配器。书库根目录提供分类目录 JSON，并按分类保留解包后的 Standard Ebooks 仓库：
+Reader 使用 `standard-ebooks-library-v2` 适配器，对接 Libr 的唯一图书目录。书库根目录提供 v2 目录 JSON，每本 Standard Ebooks 图书只保留一份解包资源：
 
 ```text
-{baseUrl}/subject_top100.json
-{baseUrl}/{subject}/{repo_name}/src/epub/content.opf
-{baseUrl}/{subject}/{repo_name}/src/epub/toc.xhtml
-{baseUrl}/{subject}/{repo_name}/src/epub/{chapterHref}
-{baseUrl}/{subject}/{repo_name}/src/epub/images/cover.svg
+{baseUrl}/subject_top.json
+{baseUrl}/library/{repo_name}/src/epub/content.opf
+{baseUrl}/library/{repo_name}/src/epub/toc.xhtml
+{baseUrl}/library/{repo_name}/src/epub/{chapterHref}
+{baseUrl}/library/{repo_name}/src/epub/images/cover.svg
 ```
 
-同一本书在多个分类出现时按 `repo_name` 合并，并保留完整的 `subjects[]`；资源优先从首次出现的分类加载，404 时自动尝试其他分类并记住成功路径。当前测试目录为 19 类、1900 条分类记录，合并后 936 本书。
+`subject_top.json` 的 `schema_version` 为 `2`，`books[]` 直接提供唯一的 `repo_name`、`asset_path` 和带排名的 `subjects[]`。Lexi 将分类对象规范化为 slug 列表，并始终通过经过安全校验的 `asset_path` 加载资源，不再进行分类目录回退。当前 Libr 在每类最多收录 30 本的规则下提供 19 类、402 本唯一图书，默认生产地址为 `https://libr.2401.xyz`。
 
 本地开发可直接发布外部书库目录，无需复制或修改书库仓库：
 
@@ -99,7 +99,7 @@ npm run dev:library -- --root "D:\xy2401\codeDoc.wget\Ebooks" --port 8000
 npm run dev
 ```
 
-静态服务仅允许 `GET`、`HEAD`、`OPTIONS`，提供 CORS、正确 MIME、`Content-Length` 与 `Last-Modified`，并拒绝目录穿越。开发环境默认连接 `http://localhost:8000`，也可通过 `VITE_DEFAULT_LIBRARY_URL` 覆盖；生产书库必须使用 HTTPS 并返回 `Access-Control-Allow-Origin`。Lexi 不使用 iframe 或服务端代理。
+静态服务仅允许 `GET`、`HEAD`、`OPTIONS`，提供 CORS、正确 MIME、`Content-Length` 与 `Last-Modified`，并拒绝目录穿越。开发环境同时预置 `http://localhost:8000` 本地书库和 `https://libr.2401.xyz` 远程书库，可在 Reader 中即时切换；生产环境只预置 Libr。`VITE_DEFAULT_LIBRARY_URL` 可覆盖远程 Libr 地址；生产书库必须使用 HTTPS 并返回 `Access-Control-Allow-Origin`。Lexi 不使用 iframe 或服务端代理。
 
 远程目录会优先从 IndexedDB 展示并在后台刷新。章节及其图片完成同一事务后才标记为缓存成功；再次打开已缓存章节不发送正文或图片请求。来源故障只影响该远程来源，不影响本地图书、临时文本或词典。
 

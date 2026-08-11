@@ -295,7 +295,7 @@ onBeforeUnmount(() => {
   background: #ebf5fb;
 }
 
-.reader-view :deep(ruby[data-annotation-kind='tag'] rt) {
+.reader-view :deep(.reader-tag-chip) {
   display: inline-block;
   padding: 0.05rem 0.25rem;
   border: 1px solid #eab308;
