@@ -8,6 +8,7 @@ export const APP_TAB_IDS = [
   'resemble',
   'lemma',
   'duolingo',
+  'course',
   'settings',
 ] as const
 

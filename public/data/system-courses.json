@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "slug": "phonetics-mastery",
+    "title": "国际音标与自然拼读",
+    "desc": "48 个音标分类、音素拼读合成与自然拼读规则。",
+    "tag": "发音与拼读",
+    "icon": "🗣️",
+    "file": "/data/system-courses/01-phonetics-mastery.md",
+    "words": [
+      "cake", "bike", "rose", "cute", "rain", "boat", "house", "cheese", "milk", "apple",
+      "nurse", "banana", "moon", "water", "clock", "father", "voice", "think", "thank", "three"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "numbers-and-math",
+    "title": "数字与数学表达",
+    "desc": "基数词规律、三位分节大数读法、序数词与四则运算。",
+    "tag": "数字与逻辑",
+    "icon": "🔢",
+    "file": "/data/system-courses/02-numbers-and-math.md",
+    "words": [
+      "twelve", "twenty", "thirteen", "thirty", "forty", "fifteen", "fifty", "hundred",
+      "thousand", "million", "billion", "quarter", "percent", "multiply", "divide"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "connected-speech-and-rhythm",
+    "title": "连读、弱读与语流节奏",
+    "desc": "连读、失去爆破、中央元音弱读与常见缩读。",
+    "tag": "发音与拼读",
+    "icon": "🌊",
+    "file": "/data/system-courses/03-connected-speech-and-rhythm.md",
+    "words": [
+      "check", "example", "apple", "friend", "morning", "gonna", "wanna", "gotta", "lemme", "gimme"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "tense-mental-model",
+    "title": "动词时态体系",
+    "desc": "时间与状态二维矩阵、核心时态辨析与时间状语。",
+    "tag": "语法与逻辑",
+    "icon": "⏳",
+    "file": "/data/system-courses/04-tense-mental-model.md",
+    "words": [
+      "present", "past", "future", "aspect", "continuous", "perfect", "simple", "yesterday", "already", "since"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "spatial-prepositions",
+    "title": "空间与介词",
+    "desc": "点线面空间维度定位、运动轨迹与方位隐喻。",
+    "tag": "语法与逻辑",
+    "icon": "🧭",
+    "file": "/data/system-courses/05-spatial-prepositions.md",
+    "words": [
+      "spatial", "dimension", "surface", "container", "through", "across", "along", "above", "below", "under"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "non-finite-verbs",
+    "title": "非谓语动词",
+    "desc": "不定式、现在分词与过去分词的时间逻辑与用法。",
+    "tag": "语法与逻辑",
+    "icon": "⚡",
+    "file": "/data/system-courses/06-non-finite-verbs.md",
+    "words": [
+      "infinitive", "participle", "gerund", "decide", "remember", "forget", "regret", "developing", "developed", "boiling"
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "sentence-structures-and-clauses",
+    "title": "句型结构与复合从句",
+    "desc": "五大基本句型、定状名从句体系与长难句拆解。",
+    "tag": "语法与逻辑",
+    "icon": "🏗️",
+    "file": "/data/system-courses/07-sentence-structures-and-clauses.md",
+    "words": [
+      "sentence", "subject", "predicate", "object", "complement", "adjective", "adverbial", "clause", "laboratory", "reduce"
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "golden-roots-and-affixes",
+    "title": "核心词根与词缀",
+    "desc": "常用前缀、后缀与高频词根构词规律。",
+    "tag": "词根与词缀",
+    "icon": "🌳",
+    "file": "/data/system-courses/08-golden-roots-and-affixes.md",
+    "words": [
+      "prefix", "suffix", "root", "provide", "evidence", "predict", "import", "export", "inspect", "construct"
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "core-verbs-and-spatial-phrases",
+    "title": "核心动词与短语动词",
+    "desc": "基础动词结合空间副词/介词构成的常用搭配。",
+    "tag": "词根与词缀",
+    "icon": "🎯",
+    "file": "/data/system-courses/09-core-verbs-and-spatial-phrases.md",
+    "words": [
+      "vector", "motion", "transition", "grasp", "tolerate", "along", "through", "forward", "sure", "care"
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "ai-and-llm-terms",
+    "title": "人工智能与大模型术语",
+    "desc": "常见缩写拆解、模型生命周期术语与概念解析。",
+    "tag": "AI与科技",
+    "icon": "🤖",
+    "file": "/data/system-courses/10-ai-and-llm-terms.md",
+    "words": [
+      "artificial", "intelligence", "generative", "transformer", "token", "embedding", "distillation", "quantization", "inference", "latency"
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "developer-engineering-english",
+    "title": "开发与工程常用术语",
+    "desc": "Git 操作指令、Linux 常用命令与异常报错信息。",
+    "tag": "AI与科技",
+    "icon": "💻",
+    "file": "/data/system-courses/11-developer-engineering-english.md",
+    "words": [
+      "repository", "commit", "branch", "stash", "checkout", "rebase", "conflict", "directory", "permission", "syntax"
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "network-and-cloud-native",
+    "title": "计算机网络与云原生架构",
+    "desc": "HTTP 协议与状态码、数据库事务与容器化概念。",
+    "tag": "AI与科技",
+    "icon": "☁️",
+    "file": "/data/system-courses/12-network-and-cloud-native.md",
+    "words": [
+      "protocol", "gateway", "cluster", "container", "registry", "query", "schema", "migration", "atomicity", "durability"
+    ]
+  }
+]

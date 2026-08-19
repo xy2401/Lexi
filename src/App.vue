@@ -19,6 +19,7 @@ import WordRootView from './components/WordRootView.vue'
 import ResembleView from './components/ResembleView.vue'
 import LemmaView from './components/LemmaView.vue'
 import WordNetView from './components/WordNetView.vue'
+import SystemCourseView from './components/SystemCourseView.vue'
 import { useTTS } from './composables/useTTS'
 import type { WordEntry } from './lib/db'
 import {
@@ -435,6 +436,9 @@ function openWordNet(word: string) {
       <button :class="['tab-btn', { active: activeTab === 'duolingo' }]" @click="activeTab = 'duolingo'">
         🦉 多邻国
       </button>
+      <button :class="['tab-btn', { active: activeTab === 'course' }]" @click="activeTab = 'course'">
+        📖 系统课程
+      </button>
       <button :class="['tab-btn', { active: activeTab === 'settings' }]" @click="openSettings">
         ⚙️ 设置
       </button>
@@ -542,6 +546,11 @@ function openWordNet(word: string) {
     <!-- ===== Duolingo 模块 ===== -->
     <div class="tab-content" v-show="activeTab === 'duolingo'">
       <DuolingoView :key="`duolingo-${progressRevisions.duolingo}`" @select-word="handleExplorerSelectWord" />
+    </div>
+
+    <!-- ===== 系统课程 模块 ===== -->
+    <div class="tab-content" v-show="activeTab === 'course'">
+      <SystemCourseView :key="`course-${progressRevisions.course}`" @select-word="handleExplorerSelectWord" />
     </div>
 
     <!-- ===== 设置模块 ===== -->

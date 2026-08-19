@@ -9,6 +9,7 @@ export const LEARNING_PROGRESS_AREAS = [
   'resemble',
   'lemma',
   'duolingo',
+  'course',
 ] as const
 
 export type LearningProgressArea = typeof LEARNING_PROGRESS_AREAS[number]
@@ -30,6 +31,7 @@ const AREA_META: Record<LearningProgressArea, { title: string; keys: string[] }>
   resemble: { title: '近义辨析', keys: ['resemble.view'] },
   lemma: { title: '词族演变', keys: ['lemma.view'] },
   duolingo: { title: '多邻国', keys: ['duolingo.view'] },
+  course: { title: '系统课程', keys: ['course.view'] },
 }
 
 function asRecord(value: unknown): Record<string, unknown> {
@@ -179,6 +181,21 @@ export async function getLearningProgressSummaries(): Promise<LearningProgressSu
     hasData: duolingoHasData,
   }
 
+  const courseView = asRecord(settings.get('course.view')?.value)
+  const courseViewChanged = typeof courseView.courseId === 'number' || Boolean(nonEmptyString(courseView.searchQuery)) || Boolean(nonEmptyString(courseView.tag))
+  const courseDetails: string[] = []
+  if (typeof courseView.courseId === 'number') courseDetails.push(`上次学习第 ${courseView.courseId} 课`)
+  if (nonEmptyString(courseView.tag) && courseView.tag !== '全部') courseDetails.push(`标签“${courseView.tag}”`)
+  if (nonEmptyString(courseView.searchQuery)) courseDetails.push(`搜索“${courseView.searchQuery}”`)
+  const course: LearningProgressSummary = {
+    id: 'course',
+    title: AREA_META.course.title,
+    value: courseViewChanged ? '已保存学习位置' : '暂无进度',
+    detail: courseDetails.join(' · ') || '尚未开始系统课程研读',
+    updatedAt: courseViewChanged ? settingUpdatedAt(settings, AREA_META.course.keys) : 0,
+    hasData: courseViewChanged,
+  }
+
   return [
     reader,
     explorer,
@@ -187,6 +204,7 @@ export async function getLearningProgressSummaries(): Promise<LearningProgressSu
     viewSummary('resemble', settings),
     viewSummary('lemma', settings),
     duolingo,
+    course,
   ]
 }
 
