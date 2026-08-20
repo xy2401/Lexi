@@ -772,6 +772,34 @@ function openWordNet(word: string) {
   font-weight: 600;
 }
 
+@media (max-width: 768px) {
+  .app-header h1 {
+    font-size: 1.4rem;
+  }
+
+  .subtitle {
+    font-size: 0.8rem;
+  }
+
+  .tab-nav {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+
+  .tab-nav::-webkit-scrollbar {
+    display: none;
+  }
+
+  .tab-btn {
+    flex: 0 0 auto;
+    white-space: nowrap;
+    padding: 0.45rem 0.8rem;
+    font-size: 0.88rem;
+  }
+}
+
 .stats, .loading {
   font-size: 0.85rem;
   color: #7f8c8d;

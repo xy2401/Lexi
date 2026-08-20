@@ -189,30 +189,47 @@ const renderedHtml = computed(() => {
 // 2. Mermaid 全屏放大与缩放控制
 const showMermaidModal = ref(false)
 const activeMermaidSvg = ref('')
-const zoomLevel = ref(1.2)
+const zoomLevel = ref(1)
+const svgBaseWidth = ref(640)
+const modalStageRef = ref<HTMLElement | null>(null)
+
+function clampZoom(value: number): number {
+  return Math.min(4, Math.max(0.4, +value.toFixed(2)))
+}
+
+function fitZoomToViewport() {
+  const available = Math.min(window.innerWidth * 0.86, 1400)
+  zoomLevel.value = clampZoom(available / svgBaseWidth.value)
+}
 
 function openMermaidModal(svg: string) {
   activeMermaidSvg.value = svg
-  zoomLevel.value = 1.2
   showMermaidModal.value = true
+  // 打开即按视口自适应放大，直接呈现可细看的大图
+  void nextTick(() => {
+    const svgEl = modalStageRef.value?.querySelector('svg')
+    const viewBox = svgEl?.viewBox?.baseVal
+    svgBaseWidth.value = viewBox && viewBox.width > 0 ? viewBox.width : 640
+    fitZoomToViewport()
+  })
 }
 
 function closeMermaidModal() {
   showMermaidModal.value = false
   activeMermaidSvg.value = ''
-  zoomLevel.value = 1.2
+  zoomLevel.value = 1
 }
 
 function zoomIn() {
-  zoomLevel.value = Math.min(3.5, +(zoomLevel.value + 0.2).toFixed(1))
+  zoomLevel.value = clampZoom(zoomLevel.value + 0.2)
 }
 
 function zoomOut() {
-  zoomLevel.value = Math.max(0.5, +(zoomLevel.value - 0.2).toFixed(1))
+  zoomLevel.value = clampZoom(zoomLevel.value - 0.2)
 }
 
 function resetZoom() {
-  zoomLevel.value = 1.2
+  zoomLevel.value = 1
 }
 
 function handleWheelZoom(event: WheelEvent) {
@@ -534,21 +551,24 @@ function handleContentClick(event: MouseEvent) {
         @wheel.prevent="handleWheelZoom"
       >
         <div class="mermaid-modal-toolbar">
-          <span class="toolbar-title">🔍 思维导图全屏查看 (支持滚轮缩放与拖拽)</span>
+          <span class="toolbar-title">🔍 思维导图全屏查看 (滚轮缩放 · 超出可滚动)</span>
           <div class="toolbar-actions">
             <button class="tool-btn" @click="zoomOut" title="缩小 (-)">−</button>
             <span class="zoom-text">{{ Math.round(zoomLevel * 100) }}%</span>
             <button class="tool-btn" @click="zoomIn" title="放大 (+)">+</button>
-            <button class="tool-btn" @click="resetZoom" title="重置 1:1">1:1</button>
+            <button class="tool-btn" @click="fitZoomToViewport" title="适应窗口">⤢</button>
+            <button class="tool-btn" @click="resetZoom" title="原始尺寸 1:1">1:1</button>
             <button class="tool-btn close-btn" @click="closeMermaidModal" title="关闭 (Esc)">✕</button>
           </div>
         </div>
         <div class="mermaid-modal-body" @click.self="closeMermaidModal">
-          <div
-            class="mermaid-zoom-stage"
-            :style="{ transform: `scale(${zoomLevel})` }"
-            v-html="activeMermaidSvg"
-          ></div>
+          <div ref="modalStageRef" class="mermaid-zoom-stage">
+            <div
+              class="mermaid-svg-holder"
+              :style="{ width: `${Math.round(svgBaseWidth * zoomLevel)}px` }"
+              v-html="activeMermaidSvg"
+            ></div>
+          </div>
         </div>
       </div>
     </Teleport>
@@ -571,6 +591,37 @@ function handleContentClick(event: MouseEvent) {
   }
   .toc-sidebar {
     display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .system-course-layout {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    min-height: 0;
+  }
+
+  .duo-menu-sidebar {
+    height: auto;
+    max-height: 42vh;
+  }
+
+  .course-main-content {
+    height: auto;
+    min-height: 60vh;
+  }
+
+  .main-header {
+    padding: 0.8rem 1rem;
+  }
+
+  .main-header h2 {
+    font-size: 1.1rem;
+  }
+
+  .markdown-body {
+    padding: 1rem;
   }
 }
 
@@ -1193,11 +1244,9 @@ function handleContentClick(event: MouseEvent) {
 }
 
 .mermaid-zoom-stage {
-  transform-origin: center center;
-  transition: transform 0.15s cubic-bezier(0.2, 0, 0, 1);
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: flex-start;
+  justify-content: flex-start;
   background: #ffffff;
   padding: 2rem;
   border-radius: 16px;
@@ -1207,9 +1256,47 @@ function handleContentClick(event: MouseEvent) {
   overflow: auto;
 }
 
-.mermaid-zoom-stage :deep(svg) {
-  min-width: 500px;
-  max-width: none;
+.mermaid-svg-holder {
+  margin: 0 auto;
+  transition: width 0.15s cubic-bezier(0.2, 0, 0, 1);
+}
+
+.mermaid-svg-holder :deep(svg) {
+  width: 100%;
   height: auto;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .mermaid-modal-overlay {
+    padding: 0.5rem;
+  }
+
+  .mermaid-modal-toolbar {
+    max-width: 100%;
+    border-radius: 12px;
+    padding: 0.4rem 0.6rem;
+    justify-content: center;
+  }
+
+  .toolbar-title {
+    display: none;
+  }
+
+  .tool-btn {
+    min-width: 36px;
+    height: 36px;
+  }
+
+  .mermaid-modal-body {
+    padding: 0.5rem;
+  }
+
+  .mermaid-zoom-stage {
+    max-width: 100%;
+    max-height: calc(100vh - 80px);
+    padding: 0.75rem;
+    border-radius: 12px;
+  }
 }
 </style>
