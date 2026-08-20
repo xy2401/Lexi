@@ -1,3 +1,12 @@
+:root {
+  /* 断点 token（文档与 calc 引用；@media 中写等值字面量：639.98 / 767.98 / 1024） */
+  --bp-sm: 640px;
+  --bp-md: 768px;
+  --bp-lg: 1024px;
+  --tabbar-h: 56px;
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+}
+
 * {
   box-sizing: border-box;
 }

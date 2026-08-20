@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, onMounted, watch } from 'vue'
+import { ref, computed, onMounted, watch, nextTick } from 'vue'
 import { TAG_OPTIONS, useDictStore } from './stores/dict'
 import { lookupWord } from './lib/lookup-service'
 import { db } from './lib/db'
@@ -21,6 +21,7 @@ import LemmaView from './components/LemmaView.vue'
 import WordNetView from './components/WordNetView.vue'
 import SystemCourseView from './components/SystemCourseView.vue'
 import { useTTS } from './composables/useTTS'
+import { useIsMobile } from './composables/useMediaQuery'
 import type { WordEntry } from './lib/db'
 import {
   getProgressSetting,
@@ -264,6 +265,33 @@ function openSettings() {
   void refreshDbStats()
 }
 
+// ========== 移动端底部导航 ==========
+const isMobile = useIsMobile()
+
+const MOBILE_PRIMARY_TABS = [
+  { id: 'reader', icon: '📖', label: '阅读器' },
+  { id: 'explorer', icon: '🔍', label: '词典' },
+  { id: 'course', icon: '📚', label: '课程' },
+  { id: 'duolingo', icon: '🦉', label: '多邻国' },
+] as const satisfies ReadonlyArray<{ id: AppTabId; icon: string; label: string }>
+
+const MOBILE_MORE_TABS = [
+  { id: 'wordnet', icon: '🕸️', label: '语义网络' },
+  { id: 'wordroot', icon: '🌳', label: '词根词缀' },
+  { id: 'resemble', icon: '⚖️', label: '近义辨析' },
+  { id: 'lemma', icon: '🌿', label: '词族演变' },
+  { id: 'settings', icon: '⚙️', label: '设置' },
+] as const satisfies ReadonlyArray<{ id: AppTabId; icon: string; label: string }>
+
+const moreSheetOpen = ref(false)
+const isMoreTabActive = computed(() => MOBILE_MORE_TABS.some(tab => tab.id === activeTab.value))
+
+function selectMobileTab(id: AppTabId) {
+  moreSheetOpen.value = false
+  if (id === 'settings') openSettings()
+  else activeTab.value = id
+}
+
 async function handleProgressCleared(area: LearningProgressArea | 'all'): Promise<void> {
   const areas = area === 'all' ? LEARNING_PROGRESS_AREAS : [area]
   for (const item of areas) progressRevisions.value[item]++
@@ -395,6 +423,12 @@ async function handleExplorerSelectWord(word: string) {
     explorerEntry.value = hotEntry
   })
   explorerEntry.value = result.entry
+
+  if (isMobile.value) {
+    void nextTick(() => {
+      document.querySelector('.explorer-right')?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+    })
+  }
 }
 
 function speakExplorerWord() {
@@ -706,7 +740,7 @@ function openWordNet(word: string) {
 
     <!-- 全局完整词条卡片 -->
     <WordTooltip
-      v-if="showTooltip"
+      :visible="showTooltip"
       :word="tooltipWord"
       :data="tooltipData"
       :position="tooltipPos"
@@ -714,6 +748,52 @@ function openWordNet(word: string) {
       @close="closeTooltip"
       @speak="handleTooltipSpeak"
     />
+
+    <!-- 移动端底部 Tab 栏（桌面 CSS 隐藏） -->
+    <nav class="mobile-tab-bar" aria-label="主导航">
+      <button
+        v-for="tab in MOBILE_PRIMARY_TABS"
+        :key="tab.id"
+        type="button"
+        :class="['mobile-tab-item', { active: activeTab === tab.id }]"
+        :aria-current="activeTab === tab.id ? 'page' : undefined"
+        @click="selectMobileTab(tab.id)"
+      >
+        <span class="mobile-tab-icon" aria-hidden="true">{{ tab.icon }}</span>
+        <span class="mobile-tab-label">{{ tab.label }}</span>
+      </button>
+      <button
+        type="button"
+        :class="['mobile-tab-item', { active: isMoreTabActive || moreSheetOpen }]"
+        aria-haspopup="dialog"
+        :aria-expanded="moreSheetOpen"
+        @click="moreSheetOpen = true"
+      >
+        <span class="mobile-tab-icon" aria-hidden="true">☰</span>
+        <span class="mobile-tab-label">更多</span>
+      </button>
+    </nav>
+
+    <!-- 「更多」模块 Sheet -->
+    <Teleport to="body">
+      <Transition name="sheet">
+        <div v-if="moreSheetOpen" class="more-sheet-mask" @click.self="moreSheetOpen = false">
+          <div class="more-sheet" role="dialog" aria-modal="true" aria-label="更多模块">
+            <div class="more-sheet-handle" aria-hidden="true"></div>
+            <button
+              v-for="tab in MOBILE_MORE_TABS"
+              :key="tab.id"
+              type="button"
+              :class="['more-sheet-item', { active: activeTab === tab.id }]"
+              @click="selectMobileTab(tab.id)"
+            >
+              <span class="more-sheet-icon" aria-hidden="true">{{ tab.icon }}</span>
+              <span>{{ tab.label }}</span>
+            </button>
+          </div>
+        </div>
+      </Transition>
+    </Teleport>
   </div>
 </template>
 
@@ -772,32 +852,163 @@ function openWordNet(word: string) {
   font-weight: 600;
 }
 
-@media (max-width: 768px) {
+.mobile-tab-bar {
+  display: none;
+}
+
+@media (max-width: 767.98px) {
+  .app-container {
+    padding: 0.75rem;
+    padding-bottom: calc(var(--tabbar-h) + env(safe-area-inset-bottom, 0px) + 1rem);
+  }
+
+  .app-header {
+    margin-bottom: 0.5rem;
+  }
+
   .app-header h1 {
-    font-size: 1.4rem;
+    font-size: 1.25rem;
   }
 
   .subtitle {
-    font-size: 0.8rem;
+    font-size: 0.72rem;
   }
 
   .tab-nav {
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-  }
-
-  .tab-nav::-webkit-scrollbar {
     display: none;
   }
 
-  .tab-btn {
-    flex: 0 0 auto;
-    white-space: nowrap;
-    padding: 0.45rem 0.8rem;
-    font-size: 0.88rem;
+  .mobile-tab-bar {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 900;
+    display: flex;
+    height: calc(var(--tabbar-h) + env(safe-area-inset-bottom, 0px));
+    padding: 0 4px env(safe-area-inset-bottom, 0px);
+    background: #fff;
+    border-top: 1px solid #e5e7eb;
+    box-shadow: 0 -2px 12px rgba(15, 23, 42, 0.08);
   }
+
+  .mobile-tab-item {
+    flex: 1;
+    min-width: 0;
+    min-height: var(--tabbar-h);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    border: 0;
+    background: none;
+    color: #8a94a3;
+    cursor: pointer;
+  }
+
+  .mobile-tab-icon {
+    font-size: 1.25rem;
+    line-height: 1;
+  }
+
+  .mobile-tab-label {
+    font-size: 0.66rem;
+    line-height: 1;
+  }
+
+  .mobile-tab-item.active {
+    color: #3498db;
+    font-weight: 600;
+  }
+
+  .more-sheet-mask {
+    position: fixed;
+    inset: 0;
+    z-index: 950;
+    background: rgba(15, 23, 42, 0.45);
+    display: flex;
+    align-items: flex-end;
+  }
+
+  .more-sheet {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.5rem;
+    padding: 0.6rem 1rem calc(1rem + env(safe-area-inset-bottom, 0px));
+    background: #fff;
+    border-radius: 16px 16px 0 0;
+  }
+
+  .more-sheet-handle {
+    grid-column: 1 / -1;
+    width: 36px;
+    height: 4px;
+    margin: 0 auto 0.35rem;
+    border-radius: 2px;
+    background: #d5dbe1;
+  }
+
+  .more-sheet-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.3rem;
+    min-height: 64px;
+    padding: 0.6rem 0.25rem;
+    border: 1px solid #eef1f4;
+    border-radius: 10px;
+    background: #fafbfc;
+    font-size: 0.8rem;
+    color: #334155;
+    cursor: pointer;
+  }
+
+  .more-sheet-item.active {
+    border-color: #3498db;
+    background: #ebf5fc;
+    color: #2476b7;
+  }
+
+  .more-sheet-icon {
+    font-size: 1.3rem;
+  }
+
+  .explorer-layout {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1rem;
+  }
+
+  .explorer-left {
+    height: auto;
+  }
+
+  .dictionary-history button {
+    min-height: 36px;
+    padding: 0.35rem 0.7rem;
+    font-size: 0.78rem;
+  }
+}
+
+.sheet-enter-active,
+.sheet-leave-active {
+  transition: opacity 0.22s ease;
+}
+
+.sheet-enter-active .more-sheet,
+.sheet-leave-active .more-sheet {
+  transition: transform 0.28s cubic-bezier(0.32, 0.72, 0.24, 1);
+}
+
+.sheet-enter-from,
+.sheet-leave-to {
+  opacity: 0;
+}
+
+.sheet-enter-from .more-sheet,
+.sheet-leave-to .more-sheet {
+  transform: translateY(100%);
 }
 
 .stats, .loading {
@@ -826,6 +1037,7 @@ function openWordNet(word: string) {
   flex-direction: column;
   gap: 0.75rem;
   height: min(860px, calc(100vh - 260px));
+  height: min(860px, calc(100dvh - 260px));
   min-width: 0;
 }
 
@@ -1295,7 +1507,7 @@ function openWordNet(word: string) {
   transition: width 0.3s ease;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 1024px) {
   .settings-layout {
     grid-template-columns: minmax(0, 1fr);
   }

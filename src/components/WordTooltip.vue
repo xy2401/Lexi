@@ -3,9 +3,10 @@
  * WordTooltip - 完整词条卡片
  * 同时展示音标、中文翻译、英文释义、词性和词形变化
  */
-import { computed } from 'vue'
+import { computed, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import { parseExchange, EXCHANGE_LABELS } from '../lib/morphology'
 import type { WordEntry } from '../lib/db'
+import { MOBILE_QUERY } from '../composables/useMediaQuery'
 import DictionaryTags from './DictionaryTags.vue'
 
 const props = defineProps<{
@@ -13,12 +14,23 @@ const props = defineProps<{
   data: WordEntry | null
   position: { x: number; y: number }
   loading?: boolean
+  visible: boolean
 }>()
 
 const emit = defineEmits<{
   close: []
   speak: [word: string]
 }>()
+
+const mobileQuery = window.matchMedia(MOBILE_QUERY)
+const isMobile = ref(mobileQuery.matches)
+const onMqChange = (event: MediaQueryListEvent) => { isMobile.value = event.matches }
+onMounted(() => mobileQuery.addEventListener('change', onMqChange))
+onBeforeUnmount(() => mobileQuery.removeEventListener('change', onMqChange))
+
+watch(() => props.visible && isMobile.value, locked => {
+  document.body.style.overflow = locked ? 'hidden' : ''
+})
 
 // 解析变形数据
 const forms = computed(() => {
@@ -43,17 +55,21 @@ const definitions = computed(() => {
   return props.data.definition.split(/\\n|\n/).filter(line => line.trim())
 })
 
-// 定位样式
-const tooltipStyle = computed(() => ({
-  left: `${Math.max(8, Math.min(props.position.x, window.innerWidth - 408))}px`,
-  top: `${props.position.y + 12}px`,
-}))
+// 定位样式：移动端为底部 sheet（CSS 定位），桌面端浮动并双向钳制
+const tooltipStyle = computed(() => {
+  if (isMobile.value) return {}
+  const x = Math.max(8, Math.min(props.position.x, window.innerWidth - 408))
+  const cardHeight = Math.min(560, window.innerHeight - 24)
+  const y = Math.max(8, Math.min(props.position.y + 12, window.innerHeight - cardHeight - 8))
+  return { left: `${x}px`, top: `${y}px` }
+})
 </script>
 
 <template>
   <Teleport to="body">
-    <div class="tooltip-overlay" @click.self="emit('close')">
-      <div class="tooltip-card" :style="tooltipStyle">
+    <Transition :name="isMobile ? 'sheet-up' : 'card-pop'">
+      <div v-if="visible" :class="['tooltip-overlay', { 'is-mobile': isMobile }]" @click.self="emit('close')">
+        <div :class="['tooltip-card', { 'tooltip-sheet': isMobile }]" :style="tooltipStyle">
         <div class="tooltip-header">
           <div
             class="word-speech-row"
@@ -112,8 +128,9 @@ const tooltipStyle = computed(() => ({
           <p class="not-found">未找到该词条</p>
         </div>
 
+        </div>
       </div>
-    </div>
+    </Transition>
   </Teleport>
 </template>
 
@@ -129,12 +146,77 @@ const tooltipStyle = computed(() => ({
   width: 380px;
   max-width: calc(100vw - 16px);
   max-height: min(560px, calc(100vh - 24px));
+  max-height: min(560px, calc(100dvh - 24px));
   overflow-y: auto;
   background: #fff;
   border-radius: 10px;
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
   padding: 1rem;
   z-index: 1001;
+}
+
+.tooltip-overlay.is-mobile {
+  background: rgba(15, 23, 42, 0.45);
+}
+
+.tooltip-sheet {
+  left: 0;
+  right: 0;
+  top: auto;
+  bottom: 0;
+  width: 100%;
+  max-width: none;
+  max-height: min(560px, calc(100vh - 96px));
+  max-height: min(560px, calc(100dvh - 96px));
+  border-radius: 16px 16px 0 0;
+  box-shadow: 0 -8px 30px rgba(0, 0, 0, 0.18);
+  padding-bottom: calc(1rem + env(safe-area-inset-bottom, 0px));
+}
+
+.tooltip-sheet .tooltip-header {
+  position: relative;
+}
+
+.tooltip-sheet .tooltip-header::before {
+  content: '';
+  position: absolute;
+  top: -0.7rem;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 36px;
+  height: 4px;
+  border-radius: 2px;
+  background: #d5dbe1;
+}
+
+.card-pop-enter-active,
+.card-pop-leave-active {
+  transition: opacity 0.16s ease;
+}
+
+.card-pop-enter-from,
+.card-pop-leave-to {
+  opacity: 0;
+}
+
+.sheet-up-enter-active,
+.sheet-up-leave-active {
+  transition: opacity 0.25s ease;
+}
+
+.sheet-up-enter-active .tooltip-card,
+.sheet-up-leave-active .tooltip-card {
+  transition: transform 0.28s cubic-bezier(0.32, 0.72, 0.24, 1);
+}
+
+.sheet-up-enter-from,
+.sheet-up-leave-to {
+  opacity: 0;
+}
+
+.sheet-up-enter-from .tooltip-card,
+.sheet-up-leave-to .tooltip-card {
+  transform: translateY(100%);
 }
 
 .tooltip-header {

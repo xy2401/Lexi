@@ -428,4 +428,47 @@ watch([browseMode, localLetter, selectedLetter, selectedPrefix], () => {
   text-overflow: ellipsis;
   white-space: nowrap;
 }
+
+@media (max-width: 767.98px) {
+  .mode-btn {
+    flex: 1;
+    min-height: 36px;
+  }
+
+  .letter-bar {
+    gap: 4px;
+  }
+
+  .letter-btn {
+    width: 36px;
+    height: 36px;
+    font-size: 0.8rem;
+  }
+
+  .prefix-bar {
+    max-height: none;
+    overflow: visible;
+  }
+
+  .prefix-btn {
+    min-height: 36px;
+    padding: 0.35rem 0.5rem;
+    font-size: 0.75rem;
+  }
+
+  .word-list {
+    flex: none;
+    max-height: 60vh;
+    max-height: 60dvh;
+  }
+
+  .word-item {
+    align-items: center;
+    min-height: 42px;
+  }
+
+  .load-more-btn {
+    min-height: 40px;
+  }
+}
 </style>

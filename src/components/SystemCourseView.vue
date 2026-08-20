@@ -581,11 +581,12 @@ function handleContentClick(event: MouseEvent) {
   grid-template-columns: 320px minmax(0, 1fr) 240px;
   gap: 1rem;
   height: calc(100vh - 165px);
+  height: calc(100dvh - 165px);
   min-height: 560px;
   align-items: stretch;
 }
 
-@media (max-width: 1100px) {
+@media (max-width: 1024px) {
   .system-course-layout {
     grid-template-columns: 280px minmax(0, 1fr);
   }
@@ -594,7 +595,7 @@ function handleContentClick(event: MouseEvent) {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767.98px) {
   .system-course-layout {
     display: flex;
     flex-direction: column;
@@ -604,7 +605,13 @@ function handleContentClick(event: MouseEvent) {
 
   .duo-menu-sidebar {
     height: auto;
-    max-height: 42vh;
+    max-height: none;
+    overflow: visible;
+  }
+
+  .unit-list {
+    flex: none;
+    overflow: visible;
   }
 
   .course-main-content {
@@ -621,7 +628,14 @@ function handleContentClick(event: MouseEvent) {
   }
 
   .markdown-body {
+    flex: none;
+    overflow: visible;
     padding: 1rem;
+  }
+
+  .markdown-body :deep(table) {
+    display: block;
+    overflow-x: auto;
   }
 }
 
@@ -1154,6 +1168,7 @@ function handleContentClick(event: MouseEvent) {
   left: 0;
   width: 100vw;
   height: 100vh;
+  height: 100dvh;
   background: rgba(15, 23, 42, 0.78);
   backdrop-filter: blur(6px);
   z-index: 9999;
@@ -1267,7 +1282,7 @@ function handleContentClick(event: MouseEvent) {
   display: block;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767.98px) {
   .mermaid-modal-overlay {
     padding: 0.5rem;
   }
