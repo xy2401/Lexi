@@ -57,6 +57,25 @@ const filteredCourses = computed(() => {
   )
 })
 
+// 按 tag 聚合的二级目录分组（依赖清单 JSON 中同 tag 课程已连续排列）
+interface CourseGroup {
+  tag: string
+  courses: SystemCourseItem[]
+}
+
+const groupedCourses = computed<CourseGroup[]>(() => {
+  const groups: CourseGroup[] = []
+  for (const course of filteredCourses.value) {
+    const last = groups[groups.length - 1]
+    if (last && last.tag === course.tag) {
+      last.courses.push(course)
+    } else {
+      groups.push({ tag: course.tag, courses: [course] })
+    }
+  }
+  return groups
+})
+
 function preprocessMarkdown(text: string): string {
   if (!text) return ''
   return text
@@ -425,19 +444,25 @@ function handleContentClick(event: MouseEvent) {
       <div v-if="loading" class="sidebar-loading">加载中...</div>
 
       <div v-else class="unit-list">
-        <div
-          v-for="course in filteredCourses"
-          :key="course.id"
-          :class="['unit-card', { active: selectedCourse?.id === course.id }]"
-          @click="selectCourse(course)"
-        >
-          <div class="unit-num">{{ course.id }}</div>
-          <div class="unit-info">
-            <div class="unit-name">{{ course.title }}</div>
-            <div class="unit-desc">{{ course.desc }}</div>
+        <div v-for="group in groupedCourses" :key="group.tag" class="course-group">
+          <div class="group-header">
+            <span class="group-name">{{ group.tag }}</span>
+            <span class="group-count">{{ group.courses.length }} 门</span>
           </div>
-          <div class="unit-count">
-            {{ course.words.length }} 词
+          <div
+            v-for="course in group.courses"
+            :key="course.id"
+            :class="['unit-card', { active: selectedCourse?.id === course.id }]"
+            @click="selectCourse(course)"
+          >
+            <div class="unit-num">{{ course.id }}</div>
+            <div class="unit-info">
+              <div class="unit-name">{{ course.title }}</div>
+              <div class="unit-desc">{{ course.desc }}</div>
+            </div>
+            <div class="unit-count">
+              {{ course.words.length }} 词
+            </div>
           </div>
         </div>
       </div>
@@ -605,6 +630,38 @@ function handleContentClick(event: MouseEvent) {
   flex-direction: column;
   gap: 6px;
   padding-right: 2px;
+}
+
+.course-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.course-group + .course-group {
+  margin-top: 10px;
+}
+
+.group-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2px 2px 0;
+}
+
+.group-name {
+  font-size: 0.76rem;
+  font-weight: 700;
+  color: #57606a;
+  letter-spacing: 0.02em;
+}
+
+.group-count {
+  font-size: 0.7rem;
+  color: #94a3b8;
+  background: #f8fafc;
+  padding: 0.05rem 0.4rem;
+  border-radius: 8px;
 }
 
 .unit-card {

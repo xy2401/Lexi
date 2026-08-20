@@ -336,6 +336,12 @@ async function handleWordClick(payload: { word: string; x: number; y: number }) 
 }
 
 async function handleExtensionSelectWord(word: string) {
+  // 多词短语与句子仅朗读，不查词典；单个单词才弹出词典 Card
+  if (/\s/.test(word.trim())) {
+    speak(word)
+    return
+  }
+
   void recordDictionaryLookup(word)
   tooltipWord.value = word
   tooltipPos.value = { x: window.innerWidth / 2 - 190, y: 120 }
@@ -550,7 +556,7 @@ function openWordNet(word: string) {
 
     <!-- ===== 系统课程 模块 ===== -->
     <div class="tab-content" v-show="activeTab === 'course'">
-      <SystemCourseView :key="`course-${progressRevisions.course}`" @select-word="handleExplorerSelectWord" />
+      <SystemCourseView :key="`course-${progressRevisions.course}`" @select-word="handleExtensionSelectWord" />
     </div>
 
     <!-- ===== 设置模块 ===== -->

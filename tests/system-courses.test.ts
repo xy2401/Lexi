@@ -23,7 +23,7 @@ describe('System Courses validation', () => {
     const courses: CourseItem[] = JSON.parse(content)
 
     expect(Array.isArray(courses)).toBe(true)
-    expect(courses.length).toBe(12)
+    expect(courses.length).toBe(20)
 
     for (const course of courses) {
       expect(typeof course.id).toBe('number')
@@ -58,7 +58,7 @@ describe('System Courses validation', () => {
   })
 
   it('verifies Lesson 02 numbers content features', () => {
-    const mdPath = resolve(root, 'public/data/system-courses/02-numbers-and-math.md')
+    const mdPath = resolve(root, 'public/data/system-courses/03-numbers-and-math.md')
     const mdContent = readFileSync(mdPath, 'utf-8')
 
     expect(mdContent).toContain('三列表格对照')
@@ -68,7 +68,7 @@ describe('System Courses validation', () => {
   })
 
   it('verifies Lesson 03 connected speech features', () => {
-    const mdPath = resolve(root, 'public/data/system-courses/03-connected-speech-and-rhythm.md')
+    const mdPath = resolve(root, 'public/data/system-courses/02-connected-speech-and-rhythm.md')
     const mdContent = readFileSync(mdPath, 'utf-8')
     expect(mdContent).toContain('连续语流音变')
     expect(mdContent).toContain('辅音 + 元音')
@@ -76,18 +76,18 @@ describe('System Courses validation', () => {
   })
 
   it('verifies Lesson 04 tense model features', () => {
-    const mdPath = resolve(root, 'public/data/system-courses/04-tense-mental-model.md')
+    const mdPath = resolve(root, 'public/data/system-courses/08-tense-mental-model.md')
     const mdContent = readFileSync(mdPath, 'utf-8')
     expect(mdContent).toContain('timeline')
     expect(mdContent).toContain('状态维')
   })
 
   it('verifies Lesson 05-09 grammar and vocabulary features', () => {
-    const l5 = readFileSync(resolve(root, 'public/data/system-courses/05-spatial-prepositions.md'), 'utf-8')
-    const l6 = readFileSync(resolve(root, 'public/data/system-courses/06-non-finite-verbs.md'), 'utf-8')
-    const l7 = readFileSync(resolve(root, 'public/data/system-courses/07-sentence-structures-and-clauses.md'), 'utf-8')
-    const l8 = readFileSync(resolve(root, 'public/data/system-courses/08-golden-roots-and-affixes.md'), 'utf-8')
-    const l9 = readFileSync(resolve(root, 'public/data/system-courses/09-core-verbs-and-spatial-phrases.md'), 'utf-8')
+    const l5 = readFileSync(resolve(root, 'public/data/system-courses/12-spatial-prepositions.md'), 'utf-8')
+    const l6 = readFileSync(resolve(root, 'public/data/system-courses/13-non-finite-verbs.md'), 'utf-8')
+    const l7 = readFileSync(resolve(root, 'public/data/system-courses/14-sentence-structures-and-clauses.md'), 'utf-8')
+    const l8 = readFileSync(resolve(root, 'public/data/system-courses/16-golden-roots-and-affixes.md'), 'utf-8')
+    const l9 = readFileSync(resolve(root, 'public/data/system-courses/17-core-verbs-and-spatial-phrases.md'), 'utf-8')
 
     expect(l5).toContain('空间介词')
     expect(l6).toContain('stateDiagram-v2')
@@ -97,13 +97,44 @@ describe('System Courses validation', () => {
   })
 
   it('verifies Lesson 10-12 tech courses features', () => {
-    const l10 = readFileSync(resolve(root, 'public/data/system-courses/10-ai-and-llm-terms.md'), 'utf-8')
-    const l11 = readFileSync(resolve(root, 'public/data/system-courses/11-developer-engineering-english.md'), 'utf-8')
-    const l12 = readFileSync(resolve(root, 'public/data/system-courses/12-network-and-cloud-native.md'), 'utf-8')
+    const l10 = readFileSync(resolve(root, 'public/data/system-courses/18-ai-and-llm-terms.md'), 'utf-8')
+    const l11 = readFileSync(resolve(root, 'public/data/system-courses/19-developer-engineering-english.md'), 'utf-8')
+    const l12 = readFileSync(resolve(root, 'public/data/system-courses/20-network-and-cloud-native.md'), 'utf-8')
 
     expect(l10).toContain('Generative Pre-trained Transformer')
     expect(l11).toContain('gitGraph')
     expect(l12).toContain('sequenceDiagram')
+  })
+
+  it('verifies Lesson 13-16 beginner grammar courses features', () => {
+    const l13 = readFileSync(resolve(root, 'public/data/system-courses/04-nouns-and-articles.md'), 'utf-8')
+    const l14 = readFileSync(resolve(root, 'public/data/system-courses/05-pronouns-and-determiners.md'), 'utf-8')
+    const l15 = readFileSync(resolve(root, 'public/data/system-courses/06-adjectives-adverbs-and-comparison.md'), 'utf-8')
+    const l16 = readFileSync(resolve(root, 'public/data/system-courses/07-interrogative-and-negation.md'), 'utf-8')
+
+    expect(l13).toContain('可数与不可数')
+    expect(l13).toContain('ord-special')
+    expect(l14).toContain('人称代词')
+    expect(l14).toContain('数量限定词')
+    expect(l15).toContain('比较级')
+    expect(l15).toContain('最高级')
+    expect(l16).toContain('反意疑问句')
+    expect(l16).toContain('do-support')
+  })
+
+  it('verifies Lesson 17-20 advanced grammar courses features', () => {
+    const l17 = readFileSync(resolve(root, 'public/data/system-courses/09-modal-verbs.md'), 'utf-8')
+    const l18 = readFileSync(resolve(root, 'public/data/system-courses/10-passive-and-causative.md'), 'utf-8')
+    const l19 = readFileSync(resolve(root, 'public/data/system-courses/11-conditionals-and-subjunctive.md'), 'utf-8')
+    const l20 = readFileSync(resolve(root, 'public/data/system-courses/15-advanced-syntax.md'), 'utf-8')
+
+    expect(l17).toContain('have done')
+    expect(l18).toContain('使役')
+    expect(l18).toContain('be + 过去分词')
+    expect(l19).toContain('混合条件句')
+    expect(l19).toContain('wish')
+    expect(l20).toContain('完全倒装')
+    expect(l20).toContain('主谓一致')
   })
 
   it('verifies system-courses spec.md existence and core guidelines', () => {
