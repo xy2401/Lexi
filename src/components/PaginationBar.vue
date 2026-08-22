@@ -236,4 +236,51 @@ function onPageSizeSelect(e: Event) {
   background: #fff;
   box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.15);
 }
+
+@media (max-width: 767.98px) {
+  .pagination-bar {
+    align-items: stretch;
+    gap: .55rem;
+    padding: .7rem;
+    border: 0;
+    border-radius: 14px;
+  }
+
+  .page-info-group {
+    justify-content: center;
+  }
+
+  .page-nav-group {
+    display: grid;
+    grid-template-columns: 44px 1fr 44px;
+    gap: .4rem;
+  }
+
+  .page-btn,
+  .page-select,
+  .page-size-select {
+    min-height: 44px;
+    border-radius: 10px;
+  }
+
+  .page-btn:first-child,
+  .page-btn:nth-of-type(4) {
+    display: none;
+  }
+
+  .page-btn:nth-of-type(2),
+  .page-btn:nth-of-type(3) {
+    width: 44px;
+    overflow: hidden;
+    padding: 0;
+    font-size: 0;
+  }
+
+  .page-btn:nth-of-type(2)::before { content: '‹'; font-size: 1.4rem; }
+  .page-btn:nth-of-type(3)::before { content: '›'; font-size: 1.4rem; }
+  .page-select-wrapper,
+  .page-select { width: 100%; margin: 0; }
+  .page-size-selector { grid-column: 1 / -1; }
+  .page-size-select { width: 100%; }
+}
 </style>

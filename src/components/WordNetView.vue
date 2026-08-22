@@ -1,6 +1,7 @@
 <script setup lang="ts">
-import { computed, ref, watch } from 'vue'
+import { computed, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import { useDictStore } from '../stores/dict'
+import { useIsMobile } from '../composables/useMediaQuery'
 import DictionaryTags from './DictionaryTags.vue'
 import {
   loadWordNetFrames,
@@ -30,8 +31,12 @@ const props = withDefaults(defineProps<{
   initialWord: 'bank',
   active: false,
 })
+const emit = defineEmits<{ 'immersive-change': [active: boolean] }>()
 
 const dictStore = useDictStore()
+const isMobile = useIsMobile()
+const mobileScreen = ref<'senses' | 'graph'>('senses')
+const WORDNET_HISTORY_KEY = 'lexiWordNetLayer'
 const query = ref('bank')
 const searchedWord = ref('')
 const entries = ref<WordNetEntryBundle[]>([])
@@ -159,6 +164,36 @@ async function selectSense(sense: WordNetSense) {
   }
 }
 
+async function openSense(sense: WordNetSense) {
+  if (isMobile.value) {
+    mobileScreen.value = 'graph'
+    emit('immersive-change', true)
+    if (window.history.state?.[WORDNET_HISTORY_KEY] !== 'graph') {
+      window.history.pushState({ ...(window.history.state || {}), [WORDNET_HISTORY_KEY]: 'graph' }, '')
+    }
+  }
+  await selectSense(sense)
+}
+
+function leaveGraph(clearHistory = false) {
+  mobileScreen.value = 'senses'
+  emit('immersive-change', false)
+  if (clearHistory && window.history.state?.[WORDNET_HISTORY_KEY] === 'graph') {
+    const state: Record<string, unknown> = { ...(window.history.state || {}) }
+    delete state[WORDNET_HISTORY_KEY]
+    window.history.replaceState(state, '')
+  }
+}
+
+function closeGraph() {
+  if (window.history.state?.[WORDNET_HISTORY_KEY] === 'graph') window.history.back()
+  else leaveGraph(true)
+}
+
+function handleWordNetPopState() {
+  if (isMobile.value && mobileScreen.value === 'graph') leaveGraph(false)
+}
+
 async function search(raw = query.value) {
   const word = raw.trim()
   if (!word) return
@@ -264,16 +299,27 @@ async function recenter(relation: WordNetSynsetRelation) {
 }
 
 watch(() => [props.initialWord, props.active] as const, ([word, active]) => {
-  if (!active || !word?.trim()) return
+  if (!active) {
+    emit('immersive-change', false)
+    return
+  }
+  if (isMobile.value) leaveGraph(true)
+  if (!word?.trim()) return
   if (word.trim().toLowerCase() === searchedWord.value.toLowerCase() && entries.value.length) return
   void search(word)
 }, { immediate: true })
+
+onMounted(() => window.addEventListener('popstate', handleWordNetPopState))
+onBeforeUnmount(() => {
+  window.removeEventListener('popstate', handleWordNetPopState)
+  emit('immersive-change', false)
+})
 </script>
 
 <template>
-  <section class="wordnet-view">
+  <section :class="['wordnet-view', { 'is-mobile-graph': isMobile && mobileScreen === 'graph' }]">
     <div class="semantic-layout">
-      <aside class="sense-panel">
+      <aside v-show="!isMobile || mobileScreen === 'senses'" class="sense-panel">
         <div class="sense-heading">
           <form class="sense-search" role="search" @submit.prevent="submitSearch">
             <label class="sense-kicker" for="wordnet-query">LEMMA</label>
@@ -328,7 +374,7 @@ watch(() => [props.initialWord, props.active] as const, ([word, active]) => {
               v-for="(sense, index) in entry.senses"
               :key="sense.id"
               :class="['sense-card', { active: sense.id === selectedSenseId }]"
-              @click="selectSense(sense)"
+              @click="openSense(sense)"
             >
               <span class="sense-number">{{ index + 1 }}</span>
               <span class="sense-copy">
@@ -346,7 +392,15 @@ watch(() => [props.initialWord, props.active] as const, ([word, active]) => {
         </details>
       </aside>
 
-      <main class="graph-panel">
+      <main v-show="!isMobile || mobileScreen === 'graph'" class="graph-panel">
+        <header class="mobile-graph-bar">
+          <button type="button" aria-label="返回词义列表" @click="closeGraph">‹</button>
+          <div>
+            <small>WORDNET</small>
+            <strong>{{ searchedWord || query }}</strong>
+          </div>
+          <span aria-hidden="true">◉</span>
+        </header>
         <div v-if="error" class="wordnet-state error-state">
           <strong>WordNet 暂时不可用</strong>
           <span>{{ error }}</span>
@@ -441,7 +495,7 @@ watch(() => [props.initialWord, props.active] as const, ([word, active]) => {
       </main>
     </div>
 
-    <footer class="wordnet-credit">
+    <footer v-show="!isMobile || mobileScreen === 'senses'" class="wordnet-credit">
       数据来自 <a href="https://en-word.net/" target="_blank" rel="noreferrer">Open English WordNet 2025</a>，
       按 <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer">CC BY 4.0</a> 使用。
     </footer>
@@ -537,15 +591,62 @@ watch(() => [props.initialWord, props.active] as const, ([word, active]) => {
 .compact-state { min-height: 100px; margin-top: 1rem; }
 .wordnet-credit { margin-top: 1.25rem; color: var(--muted); text-align: center; font-size: 0.75rem; }
 .wordnet-credit a { color: var(--accent); }
+.mobile-graph-bar { display: none; }
 
 @media (max-width: 900px) {
   .semantic-layout { grid-template-columns: 1fr; }
   .sense-panel { position: static; max-height: 520px; }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 767.98px) {
+  .wordnet-view { min-height: calc(100dvh - var(--mobile-appbar-h) - var(--tabbar-h) - 1.5rem); }
+  .semantic-layout { display: block; }
+  .sense-panel { max-height: none; overflow: visible; padding: .8rem; border: 0; border-radius: 18px; }
+  .sense-heading { position: sticky; top: var(--mobile-appbar-h); z-index: 15; margin: -.8rem -.8rem .7rem; padding: .8rem; background: rgba(255, 255, 255, .97); backdrop-filter: blur(14px); }
+  .sense-search input { min-height: 44px; font-size: 1.35rem; }
+  .sense-search button[type='submit'] { flex-basis: 44px; min-height: 44px; }
+  .wordnet-suggestions { width: calc(100vw - 3rem); }
+  .wordnet-suggestions button { min-height: 44px; }
+  .pos-section h4 { min-height: 40px; }
+  .sense-card { min-height: 70px; padding: .85rem; border-radius: 14px; }
+
+  .wordnet-view.is-mobile-graph {
+    position: fixed;
+    inset: 0;
+    z-index: 850;
+    min-height: 100dvh;
+    overflow: hidden;
+    background: #f6f8fb;
+  }
+
+  .is-mobile-graph .semantic-layout { height: 100dvh; }
+  .graph-panel { height: 100dvh; min-height: 0; overflow-y: auto; padding: 0 .8rem calc(1rem + env(safe-area-inset-bottom, 0px)); border: 0; border-radius: 0; }
+  .mobile-graph-bar {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    min-height: calc(58px + env(safe-area-inset-top, 0px));
+    display: grid;
+    grid-template-columns: 44px minmax(0, 1fr) 44px;
+    align-items: center;
+    gap: .5rem;
+    margin: 0 -.8rem .8rem;
+    padding: env(safe-area-inset-top, 0px) .65rem 0;
+    border-bottom: 1px solid #d9e3e5;
+    background: rgba(255, 255, 255, .97);
+    backdrop-filter: blur(14px);
+  }
+  .mobile-graph-bar button { width: 44px; height: 44px; border: 0; border-radius: 12px; background: var(--accent-soft); color: var(--accent); font-size: 1.75rem; }
+  .mobile-graph-bar div { min-width: 0; display: grid; text-align: center; }
+  .mobile-graph-bar small { color: var(--accent); font-size: .6rem; font-weight: 800; letter-spacing: .1em; }
+  .mobile-graph-bar strong { overflow: hidden; font-size: .92rem; text-overflow: ellipsis; white-space: nowrap; }
+  .mobile-graph-bar > span { display: grid; place-items: center; color: var(--accent); }
   .synset-header { flex-direction: column; }
+  .synset-header h3 { font-size: 1.25rem; }
   .local-meaning { flex-basis: auto; }
+  .graph-wrap { margin-inline: -.8rem; padding-inline: .8rem; }
   .relation-directory details button { grid-template-columns: 1fr; gap: 0.15rem; }
+  .relation-directory summary,
+  .relation-directory details button { min-height: 48px; }
 }
 </style>

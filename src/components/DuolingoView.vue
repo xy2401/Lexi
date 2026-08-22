@@ -3,7 +3,7 @@
  * DuolingoView - 多邻国单元词汇浏览
  * 加载 /data/duolingo-zs-en.json，按单元展示词汇列表
  */
-import { ref, computed, onMounted, watch } from 'vue'
+import { ref, computed, onMounted, onBeforeUnmount, watch } from 'vue'
 import { marked } from 'marked'
 import { db, cacheWords, type WordEntry } from '../lib/db'
 import { queryDictionaryWords } from '../lib/remote-db'
@@ -11,6 +11,7 @@ import { parseCourseMarkdown, type CourseDocument, type CourseUnitIndex, type Qu
 import PracticePanel from './PracticePanel.vue'
 import QuizLevelList from './QuizLevelList.vue'
 import QuizRunner from './QuizRunner.vue'
+import { useIsMobile } from '../composables/useMediaQuery'
 import {
   completeCourseQuiz,
   getCourseUnitProgress,
@@ -25,9 +26,15 @@ import {
 
 type DuoUnit = CourseUnitIndex
 
+const props = withDefaults(defineProps<{ active?: boolean }>(), { active: true })
 const emit = defineEmits<{
   'select-word': [word: string]
+  'immersive-change': [active: boolean]
 }>()
+const isMobile = useIsMobile()
+const mobileScreen = ref<'library' | 'unit'>('library')
+const lastUnitId = ref<number>()
+const DUOLINGO_HISTORY_KEY = 'lexiDuolingoLayer'
 const units = ref<DuoUnit[]>([])
 const loading = ref(true)
 const selectedUnit = ref<DuoUnit | null>(null)
@@ -63,8 +70,10 @@ const filteredUnits = computed(() => {
 
 // 统计
 const totalWords = computed(() => units.value.reduce((s, u) => s + u.words.length, 0))
+const lastUnit = computed(() => units.value.find(unit => unit.id === lastUnitId.value) || null)
 
 onMounted(async () => {
+  window.addEventListener('popstate', handleDuolingoPopState)
   try {
     const res = await fetch('/data/duolingo-zs-en.json')
     units.value = await res.json()
@@ -74,13 +83,19 @@ onMounted(async () => {
     ])
     unitProgress.value = new Map(savedUnits.map(item => [item.unitId, item]))
     searchQuery.value = savedView.searchQuery || ''
+    lastUnitId.value = savedView.unitId
     const savedUnit = units.value.find(unit => unit.id === savedView.unitId)
-    if (savedUnit) await openUnit(savedUnit)
+    if (savedUnit && !isMobile.value) await openUnit(savedUnit)
   } catch (e) {
     console.error('加载多邻国数据失败', e)
   } finally {
     loading.value = false
   }
+})
+
+onBeforeUnmount(() => {
+  window.removeEventListener('popstate', handleDuolingoPopState)
+  emit('immersive-change', false)
 })
 
 watch(searchQuery, value => {
@@ -92,6 +107,10 @@ function persistCourseView(unitId = selectedUnit.value?.id, query = searchQuery.
 }
 
 async function selectUnit(unit: DuoUnit) {
+  if (isMobile.value) {
+    await openMobileUnit(unit)
+    return
+  }
   if (selectedUnit.value?.id === unit.id) {
     selectedUnit.value = null
     unitEntries.value = []
@@ -108,6 +127,7 @@ async function selectUnit(unit: DuoUnit) {
 
 async function openUnit(unit: DuoUnit) {
   selectedUnit.value = unit
+  lastUnitId.value = unit.id
   panelTab.value = 'words'
   guideHtml.value = ''
   courseDocument.value = null
@@ -124,6 +144,48 @@ async function openUnit(unit: DuoUnit) {
   }
   await persistCourseView(unit.id)
 }
+
+async function openMobileUnit(unit: DuoUnit, restore = false) {
+  mobileScreen.value = 'unit'
+  emit('immersive-change', true)
+  if (window.history.state?.[DUOLINGO_HISTORY_KEY] !== 'unit') {
+    window.history.pushState({ ...(window.history.state || {}), [DUOLINGO_HISTORY_KEY]: 'unit' }, '')
+  }
+  await openUnit(unit)
+  if (!restore) panelTab.value = 'words'
+}
+
+function openLastUnit() {
+  if (lastUnit.value) void openMobileUnit(lastUnit.value, true)
+}
+
+function leaveMobileUnit(clearHistory = false) {
+  mobileScreen.value = 'library'
+  activeQuiz.value = null
+  emit('immersive-change', false)
+  if (clearHistory && window.history.state?.[DUOLINGO_HISTORY_KEY] === 'unit') {
+    const state: Record<string, unknown> = { ...(window.history.state || {}) }
+    delete state[DUOLINGO_HISTORY_KEY]
+    window.history.replaceState(state, '')
+  }
+}
+
+function closeMobileUnit() {
+  if (window.history.state?.[DUOLINGO_HISTORY_KEY] === 'unit') window.history.back()
+  else leaveMobileUnit(true)
+}
+
+function handleDuolingoPopState() {
+  if (isMobile.value && mobileScreen.value === 'unit') leaveMobileUnit(false)
+}
+
+watch(() => props.active, active => {
+  if (!active) {
+    emit('immersive-change', false)
+    return
+  }
+  if (isMobile.value) leaveMobileUnit(true)
+})
 
 async function loadEntries(words: string[]) {
   // 使用启动时载入的 Hot 数据与此前按需缓存的完整词条。
@@ -245,8 +307,8 @@ function selectWord(word: string) {
 </script>
 
 <template>
-  <div class="duolingo-view">
-    <div class="duo-header">
+  <div :class="['duolingo-view', { 'is-mobile-unit': isMobile && mobileScreen === 'unit' }]">
+    <div v-show="!isMobile || mobileScreen === 'library'" class="duo-header">
       <div class="duo-stats" v-if="!loading">
         <span class="stat">{{ units.length }} 单元</span>
         <span class="stat">{{ totalWords }} 词</span>
@@ -261,8 +323,23 @@ function selectWord(word: string) {
     <div v-if="loading" class="duo-loading">加载中...</div>
 
     <div v-else class="duo-body">
+      <button
+        v-if="isMobile && mobileScreen === 'library' && lastUnit"
+        class="duo-continue"
+        type="button"
+        @click="openLastUnit"
+      >
+        <span class="continue-icon">▶</span>
+        <span>
+          <small>继续学习</small>
+          <strong>{{ lastUnit.id }}. {{ lastUnit.name }}</strong>
+          <em>{{ lastUnit.desc }}</em>
+        </span>
+        <b aria-hidden="true">›</b>
+      </button>
+
       <!-- 单元列表 -->
-      <div class="unit-list">
+      <div v-show="!isMobile || mobileScreen === 'library'" class="unit-list">
         <div
           v-for="unit in filteredUnits"
           :key="unit.id"
@@ -284,7 +361,15 @@ function selectWord(word: string) {
       </div>
 
       <!-- 选中单元的词汇 / 单元讲解 -->
-      <div class="word-panel" v-if="selectedUnit">
+      <div v-if="selectedUnit" v-show="!isMobile || mobileScreen === 'unit'" class="word-panel">
+        <header class="mobile-unit-bar">
+          <button type="button" aria-label="返回单元列表" @click="closeMobileUnit">‹</button>
+          <div>
+            <small>UNIT {{ selectedUnit.id }}</small>
+            <strong>{{ selectedUnit.name }}</strong>
+          </div>
+          <span aria-hidden="true">🟢</span>
+        </header>
         <h4>{{ selectedUnit.id }}. {{ selectedUnit.name }}</h4>
         <p class="panel-desc">{{ selectedUnit.desc }} · {{ activeWords.length }} 词</p>
 
@@ -662,25 +747,250 @@ function selectWord(word: string) {
   scrollbar-gutter: stable;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 767.98px) {
+  .duolingo-view {
+    min-height: calc(100dvh - var(--mobile-appbar-h) - var(--tabbar-h) - 1.5rem);
+  }
+
+  .duo-header {
+    position: sticky;
+    top: var(--mobile-appbar-h);
+    z-index: 15;
+    gap: .65rem;
+    margin: -.75rem -.75rem 0;
+    padding: .75rem;
+    background: rgba(246, 248, 251, .96);
+    backdrop-filter: blur(12px);
+  }
+
+  .duo-stats {
+    width: 100%;
+  }
+
+  .stat {
+    padding: .3rem .65rem;
+  }
+
+  .duo-search {
+    width: 100%;
+    min-height: 46px;
+    border-radius: 14px;
+    background: #fff;
+  }
+
   .duo-body {
     grid-template-columns: 1fr;
+    gap: .75rem;
+  }
+
+  .duo-continue {
+    width: 100%;
+    min-height: 92px;
+    display: grid;
+    grid-template-columns: 46px minmax(0, 1fr) 22px;
+    align-items: center;
+    gap: .75rem;
+    padding: .85rem;
+    border: 0;
+    border-radius: 18px;
+    background: linear-gradient(135deg, #58cc02, #3da800);
+    color: #fff;
+    box-shadow: 0 8px 24px rgb(88 204 2 / 22%);
+    text-align: left;
+  }
+
+  .continue-icon {
+    width: 46px;
+    height: 46px;
+    display: grid;
+    place-items: center;
+    border-radius: 15px;
+    background: rgb(255 255 255 / 20%);
+  }
+
+  .duo-continue > span:nth-child(2) {
+    min-width: 0;
+    display: grid;
+    gap: .12rem;
+  }
+
+  .duo-continue small,
+  .duo-continue em {
+    overflow: hidden;
+    opacity: .82;
+    font-size: .7rem;
+    font-style: normal;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .duo-continue strong {
+    overflow: hidden;
+    font-size: .94rem;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .duo-continue b {
+    font-size: 1.6rem;
   }
 
   .unit-list {
-    max-height: 230px;
+    height: auto;
+    max-height: none;
+    overflow: visible;
+    gap: .55rem;
+  }
+
+  .unit-card {
+    min-height: 68px;
+    padding: .7rem;
+    border: 0;
+    border-radius: 16px;
+    background: #fff;
+    box-shadow: 0 4px 16px rgb(15 23 42 / 5%);
+  }
+
+  .unit-num {
+    width: 40px;
+    height: 40px;
+  }
+
+  .unit-name {
+    font-size: .92rem;
+  }
+
+  .unit-desc {
+    margin-top: .2rem;
+    font-size: .74rem;
+  }
+
+  .duolingo-view.is-mobile-unit {
+    position: fixed;
+    inset: 0;
+    z-index: 850;
+    min-height: 100dvh;
+    overflow: hidden;
+    background: #f6f8fb;
+  }
+
+  .is-mobile-unit .duo-body {
+    display: block;
+    height: 100dvh;
   }
 
   .word-panel {
     position: static;
-    height: auto;
+    height: 100dvh;
+    padding: 0 .75rem calc(.75rem + env(safe-area-inset-bottom, 0px));
+    border: 0;
+    border-radius: 0;
+    background: #f6f8fb;
   }
 
-  .guide-content,
+  .mobile-unit-bar {
+    min-height: calc(58px + env(safe-area-inset-top, 0px));
+    display: grid;
+    grid-template-columns: 44px minmax(0, 1fr) 44px;
+    align-items: center;
+    gap: .5rem;
+    margin: 0 -.75rem;
+    padding: env(safe-area-inset-top, 0px) .65rem 0;
+    border-bottom: 1px solid #e5eaf0;
+    background: rgba(255, 255, 255, .97);
+    backdrop-filter: blur(14px);
+  }
+
+  .mobile-unit-bar button {
+    width: 44px;
+    height: 44px;
+    border: 0;
+    border-radius: 12px;
+    background: #eef4e9;
+    color: #3d8f05;
+    font-size: 1.75rem;
+  }
+
+  .mobile-unit-bar div {
+    min-width: 0;
+    display: grid;
+    text-align: center;
+  }
+
+  .mobile-unit-bar small {
+    color: #58a92f;
+    font-size: .6rem;
+    font-weight: 800;
+    letter-spacing: .08em;
+  }
+
+  .mobile-unit-bar strong {
+    overflow: hidden;
+    font-size: .9rem;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .mobile-unit-bar > span {
+    display: grid;
+    place-items: center;
+  }
+
+  .word-panel > h4,
+  .word-panel > .panel-desc {
+    display: none;
+  }
+
+  .panel-tabs {
+    position: sticky;
+    top: calc(58px + env(safe-area-inset-top, 0px));
+    z-index: 10;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: .35rem;
+    margin: 0 -.75rem .7rem;
+    padding: .55rem .75rem;
+    border-bottom: 1px solid #e8edf2;
+    background: rgba(246, 248, 251, .97);
+  }
+
+  .panel-tabs .tab-btn {
+    min-height: 42px;
+    padding: .35rem;
+    border-radius: 12px;
+  }
+
   .word-list,
+  .guide-content,
   .practice-content {
-    flex: none;
+    flex: 1;
+    min-height: 0;
     max-height: none;
+    overflow-y: auto;
+    border: 0;
+    border-radius: 14px;
+    background: #fff;
+  }
+
+  .word-item {
+    min-height: 54px;
+    padding: .65rem .75rem;
+  }
+
+  .word-text {
+    min-width: 92px;
+    font-size: .96rem;
+  }
+
+  .guide-content {
+    padding: 1rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .mobile-unit-bar,
+  .duo-continue {
+    display: none;
   }
 }
 </style>

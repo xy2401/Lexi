@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, computed, onMounted, watch, nextTick } from 'vue'
+import { ref, computed, onMounted, onBeforeUnmount, watch } from 'vue'
 import { TAG_OPTIONS, useDictStore } from './stores/dict'
 import { lookupWord } from './lib/lookup-service'
 import { db } from './lib/db'
@@ -21,16 +21,14 @@ import LemmaView from './components/LemmaView.vue'
 import WordNetView from './components/WordNetView.vue'
 import SystemCourseView from './components/SystemCourseView.vue'
 import { useTTS } from './composables/useTTS'
-import { useIsMobile } from './composables/useMediaQuery'
+import { useIsMobile, useMediaQuery } from './composables/useMediaQuery'
 import type { WordEntry } from './lib/db'
 import {
   getProgressSetting,
   isAppTabId,
-  listDictionaryHistory,
   rememberDictionaryLookup,
   setProgressSetting,
   type AppTabId,
-  type DictionaryHistoryEntry,
 } from './lib/progress-db'
 import { LEARNING_PROGRESS_AREAS, type LearningProgressArea } from './lib/learning-progress'
 
@@ -285,6 +283,72 @@ const MOBILE_MORE_TABS = [
 
 const moreSheetOpen = ref(false)
 const isMoreTabActive = computed(() => MOBILE_MORE_TABS.some(tab => tab.id === activeTab.value))
+const dictionarySplitView = useMediaQuery('(min-width: 600px) and (max-width: 767.98px)')
+const immersiveTab = ref<AppTabId | null>(null)
+const mobileDictionaryScreen = ref<'index' | 'detail'>('index')
+const EXPLORER_HISTORY_KEY = 'lexiExplorerLayer'
+const mobileTabMeta = computed(() =>
+  [...MOBILE_PRIMARY_TABS, ...MOBILE_MORE_TABS].find(tab => tab.id === activeTab.value)
+    || MOBILE_PRIMARY_TABS[0],
+)
+const mobileImmersive = computed(() =>
+  isMobile.value && immersiveTab.value === activeTab.value,
+)
+
+function handleImmersiveChange(tab: AppTabId, value: boolean) {
+  if (value) immersiveTab.value = tab
+  else if (immersiveTab.value === tab) immersiveTab.value = null
+}
+
+watch(activeTab, (tab, previousTab) => {
+  if (immersiveTab.value && immersiveTab.value !== tab) immersiveTab.value = null
+  if (previousTab === 'explorer' && tab !== 'explorer' && mobileDictionaryScreen.value === 'detail') {
+    leaveMobileDictionaryDetail(true)
+  }
+  if (tab === 'explorer' && mobileDictionaryScreen.value !== 'index') {
+    mobileDictionaryScreen.value = 'index'
+  }
+})
+
+function explorerHistoryLayer(): boolean {
+  return window.history.state?.[EXPLORER_HISTORY_KEY] === 'detail'
+}
+
+function openMobileDictionaryDetail() {
+  if (!isMobile.value) return
+  if (dictionarySplitView.value) {
+    leaveMobileDictionaryDetail(true)
+    return
+  }
+  mobileDictionaryScreen.value = 'detail'
+  handleImmersiveChange('explorer', true)
+  if (!explorerHistoryLayer()) {
+    window.history.pushState({ ...(window.history.state || {}), [EXPLORER_HISTORY_KEY]: 'detail' }, '')
+  }
+}
+
+function leaveMobileDictionaryDetail(clearHistory = false) {
+  mobileDictionaryScreen.value = 'index'
+  handleImmersiveChange('explorer', false)
+  if (clearHistory && explorerHistoryLayer()) {
+    const state: Record<string, unknown> = { ...(window.history.state || {}) }
+    delete state[EXPLORER_HISTORY_KEY]
+    window.history.replaceState(state, '')
+  }
+}
+
+function closeMobileDictionaryDetail() {
+  if (explorerHistoryLayer()) window.history.back()
+  else leaveMobileDictionaryDetail(true)
+}
+
+function handleAppPopState() {
+  if (mobileDictionaryScreen.value === 'detail') leaveMobileDictionaryDetail(false)
+}
+
+watch(dictionarySplitView, split => {
+  if (split && mobileDictionaryScreen.value === 'detail') leaveMobileDictionaryDetail(true)
+})
 
 function selectMobileTab(id: AppTabId) {
   moreSheetOpen.value = false
@@ -296,7 +360,6 @@ async function handleProgressCleared(area: LearningProgressArea | 'all'): Promis
   const areas = area === 'all' ? LEARNING_PROGRESS_AREAS : [area]
   for (const item of areas) progressRevisions.value[item]++
   if (area === 'all' || area === 'explorer') {
-    dictionaryHistory.value = await listDictionaryHistory(12)
     explorerWord.value = ''
     explorerEntry.value = null
   }
@@ -315,11 +378,14 @@ const readerRecording = ref(false)
 const explorerWord = ref('')
 const explorerEntry = ref<WordEntry | null>(null)
 const dictionaryRecording = ref(false)
-const dictionaryHistory = ref<DictionaryHistoryEntry[]>([])
+const explorerSearching = ref(false)
+const explorerSearchError = ref('')
+let explorerLookupRequest = 0
 
 const { speak, stop, voices, selectedVoice } = useTTS()
 
 onMounted(async () => {
+  window.addEventListener('popstate', handleAppPopState)
   const dictionaryReady = dictStore.init()
   const [savedTab, savedWordNetWord, savedExplorerWord] = await Promise.all([
     getProgressSetting<unknown>('app.activeTab', 'reader'),
@@ -328,23 +394,26 @@ onMounted(async () => {
   ])
   wordNetInitialWord.value = savedWordNetWord || 'bank'
   activeTab.value = isAppTabId(savedTab) ? savedTab : 'reader'
-  dictionaryHistory.value = await listDictionaryHistory(12)
   progressHydrated = true
 
   await dictionaryReady
-  if (activeTab.value === 'explorer' && savedExplorerWord) {
+  if (activeTab.value === 'explorer' && savedExplorerWord && explorerLookupRequest === 0) {
+    const request = ++explorerLookupRequest
     explorerWord.value = savedExplorerWord
     const result = await lookupWord(savedExplorerWord, hotEntry => {
-      explorerEntry.value = hotEntry
+      if (request === explorerLookupRequest) explorerEntry.value = hotEntry
     })
-    explorerEntry.value = result.entry
+    if (request === explorerLookupRequest) explorerEntry.value = result.entry
   }
   if (activeTab.value === 'settings') void refreshDbStats()
 })
 
+onBeforeUnmount(() => {
+  window.removeEventListener('popstate', handleAppPopState)
+})
+
 async function recordDictionaryLookup(word: string): Promise<void> {
   await rememberDictionaryLookup(word)
-  dictionaryHistory.value = await listDictionaryHistory(12)
 }
 
 // ========== Reader / Extension 事件 ==========
@@ -408,26 +477,39 @@ function splitDefinition(text?: string): string[] {
   return (text || '').split(/\\n|\n/).filter(line => line.trim())
 }
 
-async function handleExplorerSelectWord(word: string) {
+async function handleExplorerSelectWord(rawWord: string) {
+  const word = rawWord.trim()
+  if (!word) return
   stop()
   dictionaryRecording.value = false
   explorerWord.value = word
   explorerEntry.value = null
+  explorerSearchError.value = ''
+  explorerSearching.value = true
+  const request = ++explorerLookupRequest
   void recordDictionaryLookup(word)
   void setProgressSetting('explorer.lastWord', word)
 
   // 立即朗读发音（不等待词典网络请求）
   speak(word)
 
-  const result = await lookupWord(word, (hotEntry) => {
-    explorerEntry.value = hotEntry
-  })
-  explorerEntry.value = result.entry
-
-  if (isMobile.value) {
-    void nextTick(() => {
-      document.querySelector('.explorer-right')?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+  try {
+    const result = await lookupWord(word, (hotEntry) => {
+      if (request === explorerLookupRequest) explorerEntry.value = hotEntry
     })
+    if (request !== explorerLookupRequest) return
+    explorerEntry.value = result.entry
+    if (!explorerEntry.value) {
+      explorerSearchError.value = `没有找到“${word}”`
+      return
+    }
+    if (isMobile.value) openMobileDictionaryDetail()
+  } catch (cause) {
+    if (request === explorerLookupRequest) {
+      explorerSearchError.value = cause instanceof Error ? cause.message : '查询失败，请稍后重试'
+    }
+  } finally {
+    if (request === explorerLookupRequest) explorerSearching.value = false
   }
 }
 
@@ -440,6 +522,7 @@ function formatCount(value: number): string {
 }
 
 function openWordNet(word: string) {
+  if (isMobile.value && mobileDictionaryScreen.value === 'detail') leaveMobileDictionaryDetail(true)
   wordNetInitialWord.value = word
   activeTab.value = 'wordnet'
 }
@@ -447,10 +530,19 @@ function openWordNet(word: string) {
 </script>
 
 <template>
-  <div class="app-container">
+  <div :class="['app-container', { 'mobile-immersive': mobileImmersive }]">
     <header class="app-header">
       <h1>Lexi</h1>
       <p class="subtitle">渐进式英语阅读与听说训练沙盒</p>
+    </header>
+
+    <header v-if="!mobileImmersive" class="mobile-app-bar">
+      <span class="mobile-app-mark" aria-hidden="true">L</span>
+      <div class="mobile-app-title">
+        <strong>{{ mobileTabMeta.label }}</strong>
+        <span>Lexi</span>
+      </div>
+      <span class="mobile-app-icon" aria-hidden="true">{{ mobileTabMeta.icon }}</span>
     </header>
 
     <!-- 8 模块 Tab 导航 -->
@@ -491,31 +583,50 @@ function openWordNet(word: string) {
         :active="activeTab === 'reader'"
         @word-click="handleWordClick"
         @recording-change="handleReaderRecordingChange"
+        @immersive-change="handleImmersiveChange('reader', $event)"
       />
     </div>
 
     <!-- ===== Explorer 模块 (词典浏览) ===== -->
     <div class="tab-content" v-show="activeTab === 'explorer'">
       <!-- 最上面完整一行标签筛选 -->
-      <TagSwitcher />
+      <TagSwitcher v-show="!isMobile || dictionarySplitView || mobileDictionaryScreen === 'index'" />
 
-      <div class="explorer-layout">
-        <div class="explorer-left">
+      <div :class="['explorer-layout', {
+        'dictionary-split-view': dictionarySplitView,
+        'mobile-detail-open': isMobile && !dictionarySplitView && mobileDictionaryScreen === 'detail',
+      }]">
+        <div v-show="!isMobile || dictionarySplitView || mobileDictionaryScreen === 'index'" class="explorer-left">
           <h3>A-Z 词典树</h3>
-          <div v-if="dictionaryHistory.length" class="dictionary-history" aria-label="最近查询">
-            <span>最近查询</span>
-            <button
-              v-for="item in dictionaryHistory"
-              :key="item.word"
-              type="button"
-              :title="`查询 ${item.viewCount} 次`"
-              @click="handleExplorerSelectWord(item.word)"
-            >{{ item.word }}</button>
-          </div>
+          <form class="explorer-search-form" role="search" @submit.prevent="handleExplorerSelectWord(explorerWord)">
+            <span aria-hidden="true">⌕</span>
+            <input
+              v-model="explorerWord"
+              type="search"
+              autocomplete="off"
+              enterkeyhint="search"
+              aria-label="输入英文单词查询"
+              placeholder="输入英文单词"
+            />
+            <button type="submit" :disabled="explorerSearching || !explorerWord.trim()">
+              {{ explorerSearching ? '…' : '查询' }}
+            </button>
+          </form>
+          <p v-if="explorerSearchError" class="explorer-search-error">{{ explorerSearchError }}</p>
           <ExplorerTree :key="`explorer-${progressRevisions.explorer}`" @select-word="handleExplorerSelectWord" />
         </div>
-        <div class="explorer-right">
+        <div v-show="!isMobile || dictionarySplitView || mobileDictionaryScreen === 'detail'" class="explorer-right">
+          <header class="mobile-detail-bar">
+            <button type="button" aria-label="返回词典索引" @click="closeMobileDictionaryDetail">‹</button>
+            <div><small>DICTIONARY</small><strong>{{ explorerEntry?.word || '词条详情' }}</strong></div>
+            <span aria-hidden="true">🔍</span>
+          </header>
           <h3>词条详情</h3>
+          <div v-if="dictionarySplitView && !explorerEntry" class="dictionary-empty-state">
+            <span aria-hidden="true">⇥</span>
+            <strong>从左侧选择单词</strong>
+            <p>词义、发音和词形变化会在这里持续更新，无需离开词表。</p>
+          </div>
           <div class="word-detail" v-if="explorerEntry">
             <div
               :class="['word-title-row', { disabled: dictionaryRecording }]"
@@ -555,6 +666,7 @@ function openWordNet(word: string) {
             @recording-change="dictionaryRecording = $event"
           />
           <MorphNebula
+            v-if="explorerEntry"
             :entry="explorerEntry"
             @select-word="handleExplorerSelectWord"
             @open-wordnet="openWordNet"
@@ -565,7 +677,12 @@ function openWordNet(word: string) {
 
     <!-- ===== Open English WordNet 语义网络 ===== -->
     <div class="tab-content" v-show="activeTab === 'wordnet'">
-      <WordNetView :key="`wordnet-${progressRevisions.wordnet}`" :initial-word="wordNetInitialWord" :active="activeTab === 'wordnet'" />
+      <WordNetView
+        :key="`wordnet-${progressRevisions.wordnet}`"
+        :initial-word="wordNetInitialWord"
+        :active="activeTab === 'wordnet'"
+        @immersive-change="handleImmersiveChange('wordnet', $event)"
+      />
     </div>
 
     <!-- ===== 词根词缀 模块 ===== -->
@@ -585,12 +702,22 @@ function openWordNet(word: string) {
 
     <!-- ===== Duolingo 模块 ===== -->
     <div class="tab-content" v-show="activeTab === 'duolingo'">
-      <DuolingoView :key="`duolingo-${progressRevisions.duolingo}`" @select-word="handleExplorerSelectWord" />
+      <DuolingoView
+        :key="`duolingo-${progressRevisions.duolingo}`"
+        :active="activeTab === 'duolingo'"
+        @select-word="handleExtensionSelectWord"
+        @immersive-change="handleImmersiveChange('duolingo', $event)"
+      />
     </div>
 
     <!-- ===== 系统课程 模块 ===== -->
-    <div class="tab-content" v-show="activeTab === 'course'">
-      <SystemCourseView :key="`course-${progressRevisions.course}`" @select-word="handleExtensionSelectWord" />
+    <div class="tab-content course-tab-content" v-show="activeTab === 'course'">
+      <SystemCourseView
+        :key="`course-${progressRevisions.course}`"
+        :active="activeTab === 'course'"
+        @select-word="handleExtensionSelectWord"
+        @immersive-change="handleImmersiveChange('course', $event)"
+      />
     </div>
 
     <!-- ===== 设置模块 ===== -->
@@ -750,7 +877,7 @@ function openWordNet(word: string) {
     />
 
     <!-- 移动端底部 Tab 栏（桌面 CSS 隐藏） -->
-    <nav class="mobile-tab-bar" aria-label="主导航">
+    <nav v-if="!mobileImmersive" class="mobile-tab-bar" aria-label="主导航">
       <button
         v-for="tab in MOBILE_PRIMARY_TABS"
         :key="tab.id"
@@ -856,22 +983,97 @@ function openWordNet(word: string) {
   display: none;
 }
 
+.mobile-app-bar {
+  display: none;
+}
+
+.mobile-detail-bar {
+  display: none;
+}
+
 @media (max-width: 767.98px) {
   .app-container {
-    padding: 0.75rem;
-    padding-bottom: calc(var(--tabbar-h) + env(safe-area-inset-bottom, 0px) + 1rem);
+    width: 100%;
+    min-height: 100vh;
+    min-height: 100dvh;
+    padding: 0;
+    padding-bottom: calc(var(--tabbar-h) + env(safe-area-inset-bottom, 0px));
+    background: #f6f8fb;
   }
 
   .app-header {
-    margin-bottom: 0.5rem;
+    display: none;
   }
 
-  .app-header h1 {
+  .mobile-app-bar {
+    position: sticky;
+    top: 0;
+    z-index: 800;
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+    min-height: calc(52px + env(safe-area-inset-top, 0px));
+    padding: env(safe-area-inset-top, 0px) 1rem 0;
+    background: rgba(255, 255, 255, 0.96);
+    border-bottom: 1px solid #e7ebef;
+    box-shadow: 0 1px 10px rgba(15, 23, 42, 0.05);
+    backdrop-filter: blur(14px);
+  }
+
+  .mobile-app-mark {
+    width: 34px;
+    height: 34px;
+    display: grid;
+    place-items: center;
+    flex: none;
+    border-radius: 11px;
+    background: linear-gradient(145deg, #3498db, #2476b7);
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 800;
+    box-shadow: 0 4px 10px rgba(52, 152, 219, 0.22);
+  }
+
+  .mobile-app-title {
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    line-height: 1.15;
+  }
+
+  .mobile-app-title strong {
+    color: #172033;
+    font-size: 1rem;
+  }
+
+  .mobile-app-title span {
+    margin-top: 2px;
+    color: #94a3b8;
+    font-size: 0.66rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .mobile-app-icon {
+    margin-left: auto;
     font-size: 1.25rem;
   }
 
-  .subtitle {
-    font-size: 0.72rem;
+  .tab-content {
+    padding: 0.75rem;
+  }
+
+  .course-tab-content {
+    padding: 0;
+  }
+
+  .app-container.mobile-immersive {
+    padding-bottom: 0;
+    background: #fff;
+  }
+
+  .mobile-immersive .tab-content {
+    padding: 0;
   }
 
   .tab-nav {
@@ -977,11 +1179,95 @@ function openWordNet(word: string) {
 
   .explorer-layout {
     grid-template-columns: minmax(0, 1fr);
-    gap: 1rem;
+    gap: 0;
   }
 
   .explorer-left {
     height: auto;
+    min-height: calc(100dvh - var(--mobile-appbar-h) - var(--tabbar-h) - 2rem);
+  }
+
+  .explorer-layout.mobile-detail-open {
+    position: fixed;
+    inset: 0;
+    z-index: 850;
+    display: block;
+    overflow-y: auto;
+    background: #f6f8fb;
+  }
+
+  .mobile-detail-open .explorer-right {
+    min-height: 100dvh;
+    display: flex !important;
+    gap: 0.75rem;
+    padding: 0 0.8rem 1.25rem;
+  }
+
+  .mobile-detail-open .explorer-right > h3 {
+    display: none;
+  }
+
+  .mobile-detail-bar {
+    position: sticky;
+    top: 0;
+    z-index: 30;
+    min-height: calc(56px + env(safe-area-inset-top, 0px));
+    display: grid;
+    grid-template-columns: 44px minmax(0, 1fr) 44px;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0 -0.8rem;
+    padding: env(safe-area-inset-top, 0px) 0.65rem 0;
+    border-bottom: 1px solid #e7ebef;
+    background: rgba(255, 255, 255, 0.97);
+    backdrop-filter: blur(14px);
+  }
+
+  .mobile-detail-bar button {
+    width: 44px;
+    height: 44px;
+    border: 0;
+    border-radius: 12px;
+    background: #f1f5f9;
+    color: #334155;
+    font-size: 1.75rem;
+  }
+
+  .mobile-detail-bar > div {
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  .mobile-detail-bar small {
+    color: #3498db;
+    font-size: 0.6rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+  }
+
+  .mobile-detail-bar strong {
+    overflow: hidden;
+    color: #263447;
+    font-size: 0.9rem;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .mobile-detail-bar > span {
+    display: grid;
+    place-items: center;
+    font-size: 1.1rem;
+  }
+
+  .mobile-detail-open .word-detail,
+  .mobile-detail-open .dictionary-follow,
+  .mobile-detail-open .morph-nebula {
+    border-radius: 16px;
+    background: #fff;
+    box-shadow: 0 5px 18px rgba(15, 23, 42, 0.05);
   }
 
   .dictionary-history button {
@@ -1027,7 +1313,7 @@ function openWordNet(word: string) {
 /* Explorer 布局 */
 .explorer-layout {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: clamp(260px, 32%, 380px) minmax(0, 1fr);
   gap: 1.5rem;
   align-items: start;
 }
@@ -1054,6 +1340,28 @@ function openWordNet(word: string) {
   gap: 1rem;
   min-width: 0;
 }
+
+.explorer-search-form {
+  display: grid;
+  grid-template-columns: 24px minmax(0, 1fr) auto;
+  align-items: center;
+  gap: .35rem;
+  padding: .28rem .3rem .28rem .55rem;
+  border: 1px solid #dbe3eb;
+  border-radius: 10px;
+  background: #fff;
+}
+
+.explorer-search-form:focus-within {
+  border-color: #3498db;
+  box-shadow: 0 0 0 3px rgb(52 152 219 / 12%);
+}
+
+.explorer-search-form > span { color: #7b8b9a; font-size: 1.1rem; }
+.explorer-search-form input { min-width: 0; height: 36px; padding: 0; border: 0; outline: 0; background: transparent; color: #243447; font-size: .85rem; }
+.explorer-search-form button { min-height: 36px; padding: 0 .65rem; border: 0; border-radius: 8px; background: #3498db; color: #fff; font-size: .76rem; font-weight: 700; cursor: pointer; }
+.explorer-search-form button:disabled { opacity: .5; cursor: default; }
+.explorer-search-error { margin: -.35rem 0 0; color: #b84b4b; font-size: .72rem; }
 
 .word-detail {
   padding: 1rem;
@@ -1520,6 +1828,95 @@ function openWordNet(word: string) {
   .dictionary-status-grid {
     grid-template-columns: 1fr;
   }
+}
+
+@media (max-width: 767.98px) {
+  .settings-layout { gap: .75rem; }
+  .settings-section {
+    padding: 1rem;
+    border: 0;
+    border-radius: 16px;
+    box-shadow: 0 4px 16px rgb(15 23 42 / 5%);
+  }
+  .settings-section h3 { font-size: 1.02rem; }
+  .settings-desc { line-height: 1.55; }
+  .voice-select-row { align-items: stretch; }
+  .voice-select,
+  .voice-select-row .action-btn,
+  .settings-section > .action-btn { min-height: 44px; border-radius: 10px; }
+  .voice-select { min-width: 0; }
+  .db-row { align-items: flex-start; gap: .75rem; padding: .5rem 0; }
+  .db-value { max-width: 65%; text-align: right; overflow-wrap: anywhere; }
+  .dictionary-status-card { padding: .85rem; border-radius: 12px; }
+  .license-row { align-items: flex-start; flex-direction: column; gap: .45rem; padding: .7rem; }
+  .license-project { width: 100%; }
+  .license-project-line { align-items: flex-start; flex-wrap: wrap; }
+  .license-project-line a { white-space: normal; overflow-wrap: anywhere; }
+  .license-badge { min-height: 34px; display: inline-flex; align-items: center; align-self: flex-start; padding-inline: .6rem; }
+}
+
+@media (max-width: 599.98px) {
+  .explorer-layout { grid-template-columns: minmax(0, 1fr); gap: 0; }
+  .explorer-left { width: 100%; height: auto; min-height: calc(100dvh - var(--mobile-appbar-h) - var(--tabbar-h) - 2rem); }
+}
+
+@media (min-width: 600px) and (max-width: 767.98px) {
+  .explorer-layout.dictionary-split-view {
+    grid-template-columns: minmax(245px, .78fr) minmax(0, 1.22fr);
+    gap: .75rem;
+    align-items: stretch;
+  }
+
+  .dictionary-split-view .explorer-left,
+  .dictionary-split-view .explorer-right {
+    height: min(860px, calc(100dvh - 185px));
+    min-height: 520px;
+    border: 1px solid #e5eaf0;
+    border-radius: 16px;
+    background: #fff;
+    box-shadow: 0 5px 18px rgb(15 23 42 / 5%);
+  }
+
+  .dictionary-split-view .explorer-left {
+    padding: .65rem;
+  }
+
+  .dictionary-split-view .explorer-search-form { grid-template-columns: 20px minmax(0, 1fr) 42px; gap: .2rem; padding-left: .4rem; }
+  .dictionary-split-view .explorer-search-form button { min-width: 42px; padding: 0 .35rem; }
+
+  .dictionary-split-view .explorer-right {
+    display: flex !important;
+    overflow-y: auto;
+    padding: .85rem;
+    overscroll-behavior: contain;
+  }
+
+  .dictionary-split-view .mobile-detail-bar { display: none; }
+
+  .dictionary-split-view .word-detail,
+  .dictionary-split-view .dictionary-follow,
+  .dictionary-split-view .morph-nebula {
+    flex: none;
+    border-radius: 12px;
+  }
+
+  .dictionary-empty-state {
+    min-height: 340px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1.5rem;
+    border: 1px dashed #cbd8e4;
+    border-radius: 14px;
+    background: #f8fafc;
+    color: #708090;
+    text-align: center;
+  }
+
+  .dictionary-empty-state > span { color: #3498db; font-size: 2rem; }
+  .dictionary-empty-state strong { margin-top: .5rem; color: #334155; }
+  .dictionary-empty-state p { max-width: 260px; margin: .4rem 0 0; font-size: .78rem; line-height: 1.55; }
 }
 
 </style>

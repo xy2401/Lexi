@@ -106,4 +106,14 @@ watch(() => props.refreshToken, () => void reload())
 .progress-row.empty .progress-copy { opacity: .62; }
 .progress-message, .progress-error { margin: .6rem 0 0; font-size: .65rem; }
 .progress-message { color: #23865d; }.progress-error { color: #b64e4e; }
+
+@media (max-width: 767.98px) {
+  .progress-settings { padding: 1rem; border: 0; border-radius: 16px; box-shadow: 0 4px 16px rgb(15 23 42 / 5%); }
+  .progress-title-row { align-items: stretch; flex-direction: column; }
+  .clear-all, .progress-row > button { min-height: 42px; padding-inline: .7rem; border-radius: 10px; }
+  .progress-row { align-items: stretch; flex-direction: column; padding: .7rem; border-radius: 12px; }
+  .progress-copy > div { align-items: flex-start; }
+  .progress-copy small { white-space: normal; line-height: 1.4; }
+  .progress-row > button { width: 100%; }
+}
 </style>

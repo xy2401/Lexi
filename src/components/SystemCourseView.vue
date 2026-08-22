@@ -11,6 +11,7 @@ import { marked } from 'marked'
 import DOMPurify from 'dompurify'
 import mermaid from 'mermaid'
 import { getProgressSetting, setProgressSetting } from '../lib/progress-db'
+import { useIsMobile } from '../composables/useMediaQuery'
 
 export interface SystemCourseItem {
   id: number
@@ -29,27 +30,80 @@ export interface TocItem {
   level: number
 }
 
+interface CourseReadingPosition {
+  tocId?: string
+  tocText?: string
+  scrollRatio: number
+}
+
+interface CourseViewSetting {
+  courseId?: number
+  searchQuery?: string
+  tag?: string
+  readingPositions?: Record<string, CourseReadingPosition>
+}
+
+const props = withDefaults(defineProps<{
+  active?: boolean
+}>(), {
+  active: true,
+})
+
 const emit = defineEmits<{
   'select-word': [word: string]
+  'immersive-change': [active: boolean]
 }>()
 
+const isMobile = useIsMobile()
 const courses = ref<SystemCourseItem[]>([])
 const loading = ref(true)
+const manifestError = ref('')
 const selectedCourse = ref<SystemCourseItem | null>(null)
 const markdownContent = ref('')
 const markdownLoading = ref(false)
+const markdownError = ref('')
 const searchQuery = ref('')
+const selectedTag = ref('全部')
 const activeTocId = ref('')
 const markdownBodyRef = ref<HTMLElement | null>(null)
+const tocTriggerRef = ref<HTMLButtonElement | null>(null)
+const tocCloseRef = ref<HTMLButtonElement | null>(null)
+const mobileScreen = ref<'library' | 'reader'>('library')
+const tocSheetOpen = ref(false)
+const lastCourseId = ref<number>()
+const readingPositions = ref<Record<string, CourseReadingPosition>>({})
+let persistTimer: ReturnType<typeof setTimeout> | undefined
+let scrollBoundElement: HTMLElement | null = null
+
+const COURSE_HISTORY_KEY = 'lexiCourseLayer'
 
 // 统计
 const totalWords = computed(() => courses.value.reduce((s, c) => s + c.words.length, 0))
+const courseTags = computed(() => ['全部', ...new Set(courses.value.map(course => course.tag))])
+const lastCourse = computed(() => courses.value.find(course => course.id === lastCourseId.value) || null)
+const lastReadingPosition = computed(() =>
+  lastCourse.value ? readingPositions.value[String(lastCourse.value.id)] : undefined,
+)
+const selectedCourseIndex = computed(() =>
+  selectedCourse.value ? courses.value.findIndex(course => course.id === selectedCourse.value?.id) : -1,
+)
+const previousCourse = computed(() =>
+  selectedCourseIndex.value > 0 ? courses.value[selectedCourseIndex.value - 1] : null,
+)
+const nextCourse = computed(() =>
+  selectedCourseIndex.value >= 0 && selectedCourseIndex.value < courses.value.length - 1
+    ? courses.value[selectedCourseIndex.value + 1]
+    : null,
+)
 
 // 过滤课程
 const filteredCourses = computed(() => {
-  if (!searchQuery.value.trim()) return courses.value
+  const tagged = selectedTag.value === '全部'
+    ? courses.value
+    : courses.value.filter(course => course.tag === selectedTag.value)
+  if (!searchQuery.value.trim()) return tagged
   const q = searchQuery.value.toLowerCase()
-  return courses.value.filter(c =>
+  return tagged.filter(c =>
     c.title.toLowerCase().includes(q) ||
     c.desc.toLowerCase().includes(q) ||
     c.tag.toLowerCase().includes(q) ||
@@ -242,8 +296,70 @@ function handleWheelZoom(event: WheelEvent) {
 }
 
 function handleKeyDown(event: KeyboardEvent) {
-  if (event.key === 'Escape' && showMermaidModal.value) {
-    closeMermaidModal()
+  if (event.key !== 'Escape') return
+  if (showMermaidModal.value) closeMermaidModal()
+  else if (tocSheetOpen.value) closeTocSheet()
+}
+
+function historyLayer(): 'reader' | 'toc' | undefined {
+  const layer = window.history.state?.[COURSE_HISTORY_KEY]
+  return layer === 'reader' || layer === 'toc' ? layer : undefined
+}
+
+function replaceHistoryLayer(layer?: 'reader' | 'toc') {
+  const state: Record<string, unknown> = { ...(window.history.state || {}) }
+  if (layer) state[COURSE_HISTORY_KEY] = layer
+  else delete state[COURSE_HISTORY_KEY]
+  window.history.replaceState(state, '')
+}
+
+function pushHistoryLayer(layer: 'reader' | 'toc') {
+  window.history.pushState({ ...(window.history.state || {}), [COURSE_HISTORY_KEY]: layer }, '')
+}
+
+function leaveMobileReader(clearHistory = false) {
+  tocSheetOpen.value = false
+  mobileScreen.value = 'library'
+  emit('immersive-change', false)
+  document.body.classList.remove('course-sheet-open')
+  if (clearHistory && historyLayer()) replaceHistoryLayer()
+}
+
+function handlePopState() {
+  if (!isMobile.value || !props.active) return
+  if (tocSheetOpen.value) {
+    tocSheetOpen.value = false
+    document.body.classList.remove('course-sheet-open')
+    void nextTick(() => tocTriggerRef.value?.focus())
+    return
+  }
+  if (mobileScreen.value === 'reader') leaveMobileReader(false)
+}
+
+function goBackToLibrary() {
+  if (tocSheetOpen.value) {
+    closeTocSheet()
+    return
+  }
+  if (historyLayer() === 'reader') window.history.back()
+  else leaveMobileReader(true)
+}
+
+function openTocSheet() {
+  if (!tocItems.value.length || tocSheetOpen.value) return
+  tocSheetOpen.value = true
+  document.body.classList.add('course-sheet-open')
+  pushHistoryLayer('toc')
+  void nextTick(() => tocCloseRef.value?.focus())
+}
+
+function closeTocSheet() {
+  if (!tocSheetOpen.value) return
+  if (historyLayer() === 'toc') window.history.back()
+  else {
+    tocSheetOpen.value = false
+    document.body.classList.remove('course-sheet-open')
+    void nextTick(() => tocTriggerRef.value?.focus())
   }
 }
 
@@ -279,6 +395,7 @@ async function triggerMermaidRun() {
 
 onMounted(async () => {
   window.addEventListener('keydown', handleKeyDown)
+  window.addEventListener('popstate', handlePopState)
   mermaid.initialize({
     startOnLoad: false,
     theme: 'neutral',
@@ -291,19 +408,24 @@ onMounted(async () => {
 
   try {
     const res = await fetch('/data/system-courses.json')
+    if (!res.ok) throw new Error(`HTTP ${res.status}`)
     courses.value = await res.json()
-    const savedView = await getProgressSetting<{ courseId?: number; searchQuery?: string }>(
+    const savedView = await getProgressSetting<CourseViewSetting>(
       'course.view',
       {},
     )
     if (savedView.searchQuery) searchQuery.value = savedView.searchQuery
+    if (savedView.tag && courseTags.value.includes(savedView.tag)) selectedTag.value = savedView.tag
+    lastCourseId.value = savedView.courseId
+    readingPositions.value = savedView.readingPositions || {}
 
     const initial = courses.value.find(c => c.id === savedView.courseId) || courses.value[0]
-    if (initial) {
-      await selectCourse(initial)
+    if (initial && !isMobile.value) {
+      await selectCourse(initial, true)
     }
   } catch (e) {
     console.error('加载系统课程失败:', e)
+    manifestError.value = '课程清单加载失败，请刷新后重试。'
   } finally {
     loading.value = false
   }
@@ -311,20 +433,61 @@ onMounted(async () => {
 
 onBeforeUnmount(() => {
   window.removeEventListener('keydown', handleKeyDown)
-  if (markdownBodyRef.value) {
-    markdownBodyRef.value.removeEventListener('scroll', handleScroll)
-  }
+  window.removeEventListener('popstate', handlePopState)
+  scrollBoundElement?.removeEventListener('scroll', handleScroll)
+  if (persistTimer) window.clearTimeout(persistTimer)
+  document.body.classList.remove('course-sheet-open')
+  if (historyLayer()) replaceHistoryLayer()
+  emit('immersive-change', false)
 })
 
-watch(searchQuery, () => {
+watch([searchQuery, selectedTag], () => {
   void persistView()
 })
 
+watch(() => props.active, active => {
+  if (!active) {
+    leaveMobileReader(true)
+    return
+  }
+  if (isMobile.value) leaveMobileReader(true)
+})
+
+watch(isMobile, mobile => {
+  if (mobile) {
+    leaveMobileReader(true)
+    return
+  }
+  leaveMobileReader(true)
+  const initial = courses.value.find(course => course.id === lastCourseId.value) || courses.value[0]
+  if (initial && selectedCourse.value?.id !== initial.id) void selectCourse(initial, true)
+})
+
 function persistView(): Promise<void> {
+  const plainReadingPositions = Object.fromEntries(
+    Object.entries(readingPositions.value).map(([courseId, position]) => [
+      courseId,
+      {
+        tocId: position.tocId,
+        tocText: position.tocText,
+        scrollRatio: position.scrollRatio,
+      },
+    ]),
+  )
   return setProgressSetting('course.view', {
-    courseId: selectedCourse.value?.id,
+    courseId: lastCourseId.value,
     searchQuery: searchQuery.value,
+    tag: selectedTag.value,
+    readingPositions: plainReadingPositions,
   })
+}
+
+function schedulePersistView() {
+  if (persistTimer) window.clearTimeout(persistTimer)
+  persistTimer = window.setTimeout(() => {
+    persistTimer = undefined
+    void persistView()
+  }, 450)
 }
 
 watch(renderedHtml, async () => {
@@ -333,9 +496,14 @@ watch(renderedHtml, async () => {
   await triggerMermaidRun()
 }, { flush: 'post' })
 
-async function selectCourse(course: SystemCourseItem) {
+async function selectCourse(course: SystemCourseItem, restorePosition = false) {
+  const savedPosition = restorePosition
+    ? readingPositions.value[String(course.id)]
+    : undefined
   selectedCourse.value = course
+  lastCourseId.value = course.id
   markdownLoading.value = true
+  markdownError.value = ''
   markdownContent.value = ''
   activeTocId.value = ''
   void persistView()
@@ -346,7 +514,7 @@ async function selectCourse(course: SystemCourseItem) {
     markdownContent.value = await res.text()
   } catch (e) {
     console.error('读取课程 Markdown 失败:', e)
-    markdownContent.value = `> ⚠️ **加载失败**：未能成功加载课程讲义文件 (${course.file})。`
+    markdownError.value = `未能加载课程讲义（${course.file}）`
   } finally {
     markdownLoading.value = false
   }
@@ -354,17 +522,49 @@ async function selectCourse(course: SystemCourseItem) {
   await nextTick()
   bindScrollObserver()
   await triggerMermaidRun()
+  if (savedPosition && !markdownError.value) await restoreReadingPosition(savedPosition)
+  handleScroll()
+}
+
+async function openMobileCourse(course: SystemCourseItem, restorePosition = false, pushHistory = true) {
+  mobileScreen.value = 'reader'
+  emit('immersive-change', true)
+  if (pushHistory) pushHistoryLayer('reader')
+  await selectCourse(course, restorePosition)
+}
+
+function openLastCourse() {
+  if (lastCourse.value) void openMobileCourse(lastCourse.value, true)
+}
+
+function openAdjacentCourse(course: SystemCourseItem | null) {
+  if (!course) return
+  void selectCourse(course, true)
+}
+
+async function restoreReadingPosition(position: CourseReadingPosition) {
+  await nextTick()
+  const container = markdownBodyRef.value
+  if (!container || !position) return
+  if (position.tocId) {
+    const heading = container.querySelector<HTMLElement>(`#${position.tocId}`)
+    if (heading) {
+      heading.scrollIntoView({ block: 'start' })
+      return
+    }
+  }
+  const scrollable = Math.max(0, container.scrollHeight - container.clientHeight)
+  container.scrollTop = scrollable * Math.min(1, Math.max(0, position.scrollRatio || 0))
 }
 
 function bindScrollObserver() {
-  if (markdownBodyRef.value) {
-    markdownBodyRef.value.addEventListener('scroll', handleScroll, { passive: true })
-    handleScroll()
-  }
+  scrollBoundElement?.removeEventListener('scroll', handleScroll)
+  scrollBoundElement = markdownBodyRef.value
+  scrollBoundElement?.addEventListener('scroll', handleScroll, { passive: true })
 }
 
 function handleScroll() {
-  if (!markdownBodyRef.value || !tocItems.value.length) return
+  if (!markdownBodyRef.value || !selectedCourse.value) return
   const containerTop = markdownBodyRef.value.getBoundingClientRect().top
   const headings = markdownBodyRef.value.querySelectorAll('h2, h3')
 
@@ -383,6 +583,18 @@ function handleScroll() {
   if (currentId) {
     activeTocId.value = currentId
   }
+
+  const scrollable = Math.max(0, markdownBodyRef.value.scrollHeight - markdownBodyRef.value.clientHeight)
+  const currentToc = tocItems.value.find(item => item.id === currentId)
+  readingPositions.value = {
+    ...readingPositions.value,
+    [String(selectedCourse.value.id)]: {
+      tocId: currentId || undefined,
+      tocText: currentToc?.text,
+      scrollRatio: scrollable ? markdownBodyRef.value.scrollTop / scrollable : 0,
+    },
+  }
+  schedulePersistView()
 }
 
 function scrollToHeading(id: string) {
@@ -392,6 +604,11 @@ function scrollToHeading(id: string) {
   if (el) {
     el.scrollIntoView({ behavior: 'smooth', block: 'start' })
   }
+}
+
+function selectTocItem(id: string) {
+  scrollToHeading(id)
+  if (tocSheetOpen.value) closeTocSheet()
 }
 
 function handleContentClick(event: MouseEvent) {
@@ -442,65 +659,153 @@ function handleContentClick(event: MouseEvent) {
 </script>
 
 <template>
-  <div class="system-course-layout">
-    <!-- 1. 左侧：多邻国同款简洁课程列表 -->
-    <aside class="duo-menu-sidebar">
-      <div class="duo-menu-header">
-        <div class="duo-stats" v-if="!loading">
-          <span class="stat">{{ courses.length }} 课程</span>
-          <span class="stat">{{ totalWords }} 词</span>
-        </div>
-        <input
-          v-model="searchQuery"
-          type="text"
-          placeholder="搜索课程或单词..."
-          class="duo-search"
-        />
-      </div>
-
-      <div v-if="loading" class="sidebar-loading">加载中...</div>
-
-      <div v-else class="unit-list">
-        <div v-for="group in groupedCourses" :key="group.tag" class="course-group">
-          <div class="group-header">
-            <span class="group-name">{{ group.tag }}</span>
-            <span class="group-count">{{ group.courses.length }} 门</span>
+  <div :class="['system-course-layout', { 'is-mobile-reader': isMobile && mobileScreen === 'reader' }]">
+    <template v-if="!isMobile">
+      <aside class="duo-menu-sidebar">
+        <div class="duo-menu-header">
+          <div class="duo-stats" v-if="!loading">
+            <span class="stat">{{ courses.length }} 课程</span>
+            <span class="stat">{{ totalWords }} 词</span>
           </div>
-          <div
-            v-for="course in group.courses"
-            :key="course.id"
-            :class="['unit-card', { active: selectedCourse?.id === course.id }]"
-            @click="selectCourse(course)"
-          >
-            <div class="unit-num">{{ course.id }}</div>
-            <div class="unit-info">
-              <div class="unit-name">{{ course.title }}</div>
-              <div class="unit-desc">{{ course.desc }}</div>
+          <input v-model="searchQuery" type="search" placeholder="搜索课程或单词..." class="duo-search" />
+        </div>
+
+        <div v-if="loading" class="sidebar-loading">加载中...</div>
+        <div v-else-if="manifestError" class="sidebar-error">{{ manifestError }}</div>
+        <div v-else class="unit-list">
+          <div v-for="group in groupedCourses" :key="group.tag" class="course-group">
+            <div class="group-header">
+              <span class="group-name">{{ group.tag }}</span>
+              <span class="group-count">{{ group.courses.length }} 门</span>
             </div>
-            <div class="unit-count">
-              {{ course.words.length }} 词
-            </div>
+            <button
+              v-for="course in group.courses"
+              :key="course.id"
+              type="button"
+              :class="['unit-card', { active: selectedCourse?.id === course.id }]"
+              @click="selectCourse(course)"
+            >
+              <span class="unit-num">{{ course.id }}</span>
+              <span class="unit-info">
+                <span class="unit-name">{{ course.title }}</span>
+                <span class="unit-desc">{{ course.desc }}</span>
+              </span>
+              <span class="unit-count">{{ course.words.length }} 词</span>
+            </button>
           </div>
         </div>
-      </div>
-    </aside>
+      </aside>
 
-    <!-- 2. 中间：Markdown 正文阅读区 -->
-    <main class="course-main-content">
-      <template v-if="selectedCourse">
-        <!-- 课程顶栏 -->
-        <header class="main-header">
-          <div class="header-badge-row">
-            <span class="lesson-badge">Lesson {{ selectedCourse.id }}</span>
-            <span class="tag-badge">{{ selectedCourse.tag }}</span>
+      <main class="course-main-content">
+        <template v-if="selectedCourse">
+          <header class="main-header">
+            <div class="header-badge-row">
+              <span class="lesson-badge">Lesson {{ selectedCourse.id }}</span>
+              <span class="tag-badge">{{ selectedCourse.tag }}</span>
+            </div>
+            <h2>{{ selectedCourse.title }}</h2>
+          </header>
+          <div v-if="markdownLoading" class="content-loading">
+            <div class="spinner"></div><span>正在加载讲义正文...</span>
           </div>
+          <div v-else-if="markdownError" class="content-error">
+            <span>⚠️</span><strong>讲义加载失败</strong><p>{{ markdownError }}</p>
+            <button type="button" @click="selectCourse(selectedCourse, true)">重新加载</button>
+          </div>
+          <article
+            v-else
+            ref="markdownBodyRef"
+            class="markdown-body"
+            v-html="renderedHtml"
+            @click="handleContentClick"
+          ></article>
+        </template>
+        <div v-else class="no-selection">
+          <div class="empty-hint"><span class="hint-icon">📖</span><h3>请选择一门课程开始研读</h3></div>
+        </div>
+      </main>
+
+      <aside class="toc-sidebar" v-if="selectedCourse && tocItems.length">
+        <div class="toc-header"><h4>📑 目录大纲</h4><span class="toc-count">{{ tocItems.length }} 节</span></div>
+        <nav class="toc-nav">
+          <button
+            v-for="item in tocItems"
+            :key="item.id"
+            :class="['toc-item', `level-${item.level}`, { active: activeTocId === item.id }]"
+            @click="scrollToHeading(item.id)"
+          ><span class="toc-text">{{ item.text }}</span></button>
+        </nav>
+      </aside>
+    </template>
+
+    <section v-else-if="mobileScreen === 'library'" class="mobile-course-library" aria-label="系统课程库">
+      <div v-if="loading" class="mobile-state-card"><div class="spinner"></div><span>正在加载课程...</span></div>
+      <div v-else-if="manifestError" class="mobile-state-card is-error"><span>⚠️</span><strong>{{ manifestError }}</strong></div>
+      <template v-else>
+        <div class="mobile-library-intro">
+          <div><span class="eyebrow">SYSTEM COURSES</span><h2>系统课程</h2><p>循序渐进地掌握发音、语法与技术英语</p></div>
+          <div class="mobile-library-stats"><strong>{{ courses.length }}</strong><span>课程</span><strong>{{ totalWords }}</strong><span>核心词</span></div>
+        </div>
+
+        <button v-if="lastCourse" type="button" class="continue-card" @click="openLastCourse">
+          <span class="continue-icon" aria-hidden="true">▶</span>
+          <span class="continue-copy"><small>继续学习 · Lesson {{ lastCourse.id }}</small><strong>{{ lastCourse.title }}</strong><span>{{ lastReadingPosition?.tocText || '从上次阅读位置继续' }}</span></span>
+          <span class="continue-arrow" aria-hidden="true">›</span>
+        </button>
+
+        <div class="mobile-library-controls">
+          <label class="mobile-course-search">
+            <span aria-hidden="true">⌕</span>
+            <input v-model="searchQuery" type="search" placeholder="搜索课程、分类或单词" />
+          </label>
+          <div class="course-tag-strip" role="group" aria-label="课程分类">
+            <button
+              v-for="tag in courseTags"
+              :key="tag"
+              type="button"
+              :class="['course-tag-chip', { active: selectedTag === tag }]"
+              @click="selectedTag = tag"
+            >{{ tag }}</button>
+          </div>
+        </div>
+
+        <div v-if="groupedCourses.length" class="mobile-course-groups">
+          <section v-for="group in groupedCourses" :key="group.tag" class="mobile-course-group">
+            <div class="mobile-group-heading"><h3>{{ group.tag }}</h3><span>{{ group.courses.length }} 门</span></div>
+            <button
+              v-for="course in group.courses"
+              :key="course.id"
+              type="button"
+              class="mobile-course-card"
+              @click="openMobileCourse(course, course.id === lastCourseId)"
+            >
+              <span class="mobile-course-num">{{ String(course.id).padStart(2, '0') }}</span>
+              <span class="mobile-course-copy"><strong>{{ course.title }}</strong><span>{{ course.desc }}</span><small>{{ course.words.length }} 个核心词</small></span>
+              <span class="mobile-course-arrow" aria-hidden="true">›</span>
+            </button>
+          </section>
+        </div>
+        <div v-else class="mobile-empty-result"><span>🔎</span><strong>没有匹配的课程</strong><p>试试其他关键词或切换课程分类。</p></div>
+      </template>
+    </section>
+
+    <section v-else class="mobile-course-reader" aria-label="课程讲义">
+      <header class="mobile-reader-toolbar">
+        <button type="button" class="mobile-toolbar-button" aria-label="返回课程库" @click="goBackToLibrary">‹</button>
+        <div class="mobile-reader-title"><small>Lesson {{ selectedCourse?.id }}</small><strong>{{ selectedCourse?.title }}</strong></div>
+        <button ref="tocTriggerRef" type="button" class="mobile-toolbar-button toc-trigger" aria-label="打开课程目录" :disabled="!tocItems.length" @click="openTocSheet">☷</button>
+      </header>
+
+      <main class="course-main-content mobile-reader-content">
+        <header v-if="selectedCourse" class="main-header">
+          <div class="header-badge-row"><span class="lesson-badge">Lesson {{ selectedCourse.id }}</span><span class="tag-badge">{{ selectedCourse.tag }}</span></div>
           <h2>{{ selectedCourse.title }}</h2>
+          <p>{{ selectedCourse.desc }}</p>
         </header>
-
-        <!-- 讲义 Markdown 正文 -->
-        <div v-if="markdownLoading" class="content-loading">
-          <div class="spinner"></div>
-          <span>正在加载讲义正文...</span>
+        <div v-if="markdownLoading" class="content-loading"><div class="spinner"></div><span>正在加载讲义正文...</span></div>
+        <div v-else-if="markdownError" class="content-error">
+          <span>⚠️</span><strong>讲义加载失败</strong><p>{{ markdownError }}</p>
+          <button v-if="selectedCourse" type="button" @click="selectCourse(selectedCourse, true)">重新加载</button>
         </div>
         <article
           v-else
@@ -509,38 +814,34 @@ function handleContentClick(event: MouseEvent) {
           v-html="renderedHtml"
           @click="handleContentClick"
         ></article>
-      </template>
+      </main>
 
-      <div v-else class="no-selection">
-        <div class="empty-hint">
-          <span class="hint-icon">📖</span>
-          <h3>请在左侧选择一门课程开始研读</h3>
-          <p>纯粹 Markdown 系统讲义，配合右侧目录直达各章要点。</p>
-        </div>
-      </div>
-    </main>
-
-    <!-- 3. 右侧：文章目录大纲（标题目录） -->
-    <aside class="toc-sidebar" v-if="selectedCourse && tocItems.length">
-      <div class="toc-header">
-        <h4>📑 目录大纲</h4>
-        <span class="toc-count">{{ tocItems.length }} 节</span>
-      </div>
-      <nav class="toc-nav">
-        <button
-          v-for="item in tocItems"
-          :key="item.id"
-          :class="[
-            'toc-item',
-            `level-${item.level}`,
-            { active: activeTocId === item.id }
-          ]"
-          @click="scrollToHeading(item.id)"
-        >
-          <span class="toc-text">{{ item.text }}</span>
-        </button>
+      <nav class="mobile-lesson-nav" aria-label="课程切换">
+        <button type="button" :disabled="!previousCourse" @click="openAdjacentCourse(previousCourse)"><span>‹</span><small>上一课</small></button>
+        <span class="mobile-lesson-progress">{{ selectedCourse?.id || 0 }} / {{ courses.length }}</span>
+        <button type="button" :disabled="!nextCourse" @click="openAdjacentCourse(nextCourse)"><small>下一课</small><span>›</span></button>
       </nav>
-    </aside>
+    </section>
+
+    <Teleport to="body">
+      <Transition name="course-sheet">
+        <div v-if="tocSheetOpen" class="course-toc-mask" @click.self="closeTocSheet">
+          <section class="course-toc-sheet" role="dialog" aria-modal="true" aria-label="课程目录">
+            <div class="course-sheet-handle" aria-hidden="true"></div>
+            <header><div><small>Lesson {{ selectedCourse?.id }}</small><h3>目录大纲</h3></div><button ref="tocCloseRef" type="button" aria-label="关闭目录" @click="closeTocSheet">×</button></header>
+            <nav class="mobile-toc-nav">
+              <button
+                v-for="item in tocItems"
+                :key="item.id"
+                type="button"
+                :class="[`level-${item.level}`, { active: activeTocId === item.id }]"
+                @click="selectTocItem(item.id)"
+              ><span>{{ item.text }}</span><small v-if="activeTocId === item.id">正在阅读</small></button>
+            </nav>
+          </section>
+        </div>
+      </Transition>
+    </Teleport>
 
     <!-- 4. 全屏高清 Mermaid 导图预览弹窗 (Lightbox) -->
     <Teleport to="body">
@@ -597,45 +898,19 @@ function handleContentClick(event: MouseEvent) {
 
 @media (max-width: 767.98px) {
   .system-course-layout {
-    display: flex;
-    flex-direction: column;
+    display: block;
     height: auto;
     min-height: 0;
+    width: 100%;
   }
 
-  .duo-menu-sidebar {
-    height: auto;
-    max-height: none;
-    overflow: visible;
-  }
-
-  .unit-list {
-    flex: none;
-    overflow: visible;
-  }
-
-  .course-main-content {
-    height: auto;
-    min-height: 60vh;
-  }
-
-  .main-header {
-    padding: 0.8rem 1rem;
-  }
-
-  .main-header h2 {
-    font-size: 1.1rem;
-  }
-
-  .markdown-body {
-    flex: none;
-    overflow: visible;
-    padding: 1rem;
-  }
-
-  .markdown-body :deep(table) {
-    display: block;
-    overflow-x: auto;
+  .system-course-layout.is-mobile-reader {
+    position: fixed;
+    inset: 0;
+    z-index: 850;
+    height: 100vh;
+    height: 100dvh;
+    background: #fff;
   }
 }
 
@@ -739,6 +1014,10 @@ function handleContentClick(event: MouseEvent) {
   cursor: pointer;
   background: #fff;
   transition: all 0.12s ease-in-out;
+  width: 100%;
+  color: inherit;
+  font: inherit;
+  text-align: left;
 }
 
 .unit-card:hover {
@@ -767,11 +1046,13 @@ function handleContentClick(event: MouseEvent) {
 }
 
 .unit-info {
+  display: block;
   flex: 1;
   min-width: 0;
 }
 
 .unit-name {
+  display: block;
   font-size: 0.88rem;
   font-weight: 600;
   color: #2c3e50;
@@ -781,6 +1062,7 @@ function handleContentClick(event: MouseEvent) {
 }
 
 .unit-desc {
+  display: block;
   font-size: 0.75rem;
   color: #7f8c8d;
   white-space: nowrap;
@@ -1126,6 +1408,7 @@ function handleContentClick(event: MouseEvent) {
 
 /* 加载与空白占位 */
 .sidebar-loading,
+.sidebar-error,
 .content-loading,
 .no-selection {
   display: flex;
@@ -1134,6 +1417,48 @@ function handleContentClick(event: MouseEvent) {
   height: 100%;
   color: #94a3b8;
   font-size: 0.88rem;
+}
+
+.sidebar-error {
+  padding: 1rem;
+  color: #b42318;
+  text-align: center;
+}
+
+.content-error {
+  min-height: 240px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+  color: #64748b;
+  text-align: center;
+}
+
+.content-error > span {
+  font-size: 2rem;
+}
+
+.content-error strong {
+  margin-top: 0.45rem;
+  color: #b42318;
+}
+
+.content-error p {
+  margin: 0.35rem 0 1rem;
+  font-size: 0.82rem;
+}
+
+.content-error button {
+  min-height: 42px;
+  padding: 0 1rem;
+  border: 0;
+  border-radius: 10px;
+  background: #3498db;
+  color: #fff;
+  cursor: pointer;
 }
 
 .empty-hint {
@@ -1159,6 +1484,665 @@ function handleContentClick(event: MouseEvent) {
 
 @keyframes spin {
   to { transform: rotate(360deg); }
+}
+
+/* ==================== Mobile app course experience ==================== */
+.mobile-course-library,
+.mobile-course-reader,
+.course-toc-mask {
+  display: none;
+}
+
+@media (max-width: 767.98px) {
+  :global(body.course-sheet-open) {
+    overflow: hidden;
+  }
+
+  .mobile-course-library,
+  .mobile-course-reader,
+  .course-toc-mask {
+    display: block;
+  }
+
+  .mobile-course-library {
+    min-height: calc(100dvh - 52px - var(--tabbar-h) - env(safe-area-inset-top, 0px) - env(safe-area-inset-bottom, 0px));
+    padding: 1rem 0.9rem 1.5rem;
+    background: #f6f8fb;
+  }
+
+  .mobile-library-intro {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 0.75rem;
+    padding: 0.45rem 0.15rem 1rem;
+  }
+
+  .mobile-library-intro .eyebrow {
+    color: #3498db;
+    font-size: 0.65rem;
+    font-weight: 800;
+    letter-spacing: 0.12em;
+  }
+
+  .mobile-library-intro h2 {
+    margin: 0.1rem 0 0;
+    color: #172033;
+    font-size: 1.55rem;
+    line-height: 1.2;
+  }
+
+  .mobile-library-intro p {
+    margin: 0.3rem 0 0;
+    color: #7b8797;
+    font-size: 0.78rem;
+  }
+
+  .mobile-library-stats {
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: baseline;
+    gap: 0 0.3rem;
+    flex: none;
+    padding: 0.55rem 0.65rem;
+    border: 1px solid #e7edf3;
+    border-radius: 14px;
+    background: #fff;
+    box-shadow: 0 5px 18px rgba(15, 23, 42, 0.04);
+  }
+
+  .mobile-library-stats strong {
+    color: #2476b7;
+    font-size: 0.9rem;
+    text-align: right;
+  }
+
+  .mobile-library-stats span {
+    color: #94a3b8;
+    font-size: 0.62rem;
+  }
+
+  .continue-card {
+    width: 100%;
+    min-height: 92px;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.85rem;
+    padding: 0.9rem;
+    border: 0;
+    border-radius: 18px;
+    background: linear-gradient(135deg, #2476b7, #3498db 62%, #59afe4);
+    color: #fff;
+    text-align: left;
+    box-shadow: 0 10px 26px rgba(36, 118, 183, 0.22);
+    cursor: pointer;
+  }
+
+  .continue-icon {
+    width: 42px;
+    height: 42px;
+    display: grid;
+    place-items: center;
+    flex: none;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.2);
+    font-size: 0.8rem;
+  }
+
+  .continue-copy {
+    min-width: 0;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+  }
+
+  .continue-copy small {
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 0.65rem;
+  }
+
+  .continue-copy strong,
+  .continue-copy span {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .continue-copy strong {
+    margin: 0.1rem 0;
+    font-size: 0.95rem;
+  }
+
+  .continue-copy span {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 0.7rem;
+  }
+
+  .continue-arrow,
+  .mobile-course-arrow {
+    flex: none;
+    font-size: 1.6rem;
+    line-height: 1;
+  }
+
+  .mobile-library-controls {
+    position: sticky;
+    top: calc(52px + env(safe-area-inset-top, 0px));
+    z-index: 20;
+    margin: 0 -0.9rem 0.75rem;
+    padding: 0.7rem 0.9rem 0.6rem;
+    background: rgba(246, 248, 251, 0.95);
+    backdrop-filter: blur(12px);
+  }
+
+  .mobile-course-search {
+    min-height: 46px;
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    padding: 0 0.85rem;
+    border: 1px solid #e1e8ef;
+    border-radius: 14px;
+    background: #fff;
+    box-shadow: 0 3px 12px rgba(15, 23, 42, 0.04);
+  }
+
+  .mobile-course-search > span {
+    color: #7b8797;
+    font-size: 1.2rem;
+  }
+
+  .mobile-course-search input {
+    width: 100%;
+    min-width: 0;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    color: #172033;
+    font: inherit;
+    font-size: 0.88rem;
+  }
+
+  .course-tag-strip {
+    display: flex;
+    gap: 0.45rem;
+    margin-top: 0.6rem;
+    padding-bottom: 2px;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .course-tag-strip::-webkit-scrollbar {
+    display: none;
+  }
+
+  .course-tag-chip {
+    min-height: 36px;
+    flex: none;
+    padding: 0 0.8rem;
+    border: 1px solid #dfe6ed;
+    border-radius: 999px;
+    background: #fff;
+    color: #697789;
+    font-size: 0.75rem;
+    cursor: pointer;
+  }
+
+  .course-tag-chip.active {
+    border-color: #3498db;
+    background: #3498db;
+    color: #fff;
+    font-weight: 700;
+  }
+
+  .mobile-course-groups {
+    display: grid;
+    gap: 1rem;
+  }
+
+  .mobile-course-group {
+    display: grid;
+    gap: 0.55rem;
+  }
+
+  .mobile-group-heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 0.15rem;
+  }
+
+  .mobile-group-heading h3 {
+    margin: 0;
+    color: #344256;
+    font-size: 0.85rem;
+  }
+
+  .mobile-group-heading span {
+    color: #94a3b8;
+    font-size: 0.68rem;
+  }
+
+  .mobile-course-card {
+    width: 100%;
+    min-height: 94px;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.85rem;
+    border: 1px solid #e5ebf1;
+    border-radius: 16px;
+    background: #fff;
+    color: inherit;
+    font: inherit;
+    text-align: left;
+    box-shadow: 0 5px 18px rgba(15, 23, 42, 0.04);
+    cursor: pointer;
+  }
+
+  .mobile-course-card:active,
+  .continue-card:active {
+    transform: scale(0.985);
+  }
+
+  .mobile-course-num {
+    width: 44px;
+    height: 44px;
+    display: grid;
+    place-items: center;
+    flex: none;
+    border-radius: 14px;
+    background: #ebf5fc;
+    color: #2476b7;
+    font-size: 0.82rem;
+    font-weight: 800;
+  }
+
+  .mobile-course-copy {
+    min-width: 0;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+  }
+
+  .mobile-course-copy strong {
+    color: #263447;
+    font-size: 0.9rem;
+  }
+
+  .mobile-course-copy > span {
+    display: -webkit-box;
+    margin: 0.18rem 0 0.3rem;
+    overflow: hidden;
+    color: #7b8797;
+    font-size: 0.72rem;
+    line-height: 1.4;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  .mobile-course-copy small {
+    color: #3498db;
+    font-size: 0.65rem;
+  }
+
+  .mobile-course-arrow {
+    color: #a8b2bf;
+  }
+
+  .mobile-state-card,
+  .mobile-empty-result {
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.45rem;
+    padding: 2rem;
+    color: #7b8797;
+    text-align: center;
+  }
+
+  .mobile-state-card.is-error strong {
+    color: #b42318;
+  }
+
+  .mobile-empty-result > span {
+    font-size: 2rem;
+  }
+
+  .mobile-empty-result strong {
+    color: #344256;
+  }
+
+  .mobile-empty-result p {
+    margin: 0;
+    font-size: 0.78rem;
+  }
+
+  .mobile-course-reader {
+    height: 100vh;
+    height: 100dvh;
+    display: grid;
+    grid-template-rows: auto minmax(0, 1fr) auto;
+    overflow: hidden;
+    background: #fff;
+  }
+
+  .mobile-reader-toolbar {
+    z-index: 30;
+    min-height: calc(56px + env(safe-area-inset-top, 0px));
+    display: grid;
+    grid-template-columns: 44px minmax(0, 1fr) 44px;
+    align-items: center;
+    gap: 0.45rem;
+    padding: env(safe-area-inset-top, 0px) 0.6rem 0;
+    border-bottom: 1px solid #e7ebef;
+    background: rgba(255, 255, 255, 0.97);
+    box-shadow: 0 1px 10px rgba(15, 23, 42, 0.05);
+    backdrop-filter: blur(14px);
+  }
+
+  .mobile-toolbar-button {
+    width: 44px;
+    height: 44px;
+    display: grid;
+    place-items: center;
+    border: 0;
+    border-radius: 12px;
+    background: #f1f5f9;
+    color: #334155;
+    font-size: 1.75rem;
+    line-height: 1;
+    cursor: pointer;
+  }
+
+  .mobile-toolbar-button.toc-trigger {
+    font-size: 1.3rem;
+  }
+
+  .mobile-toolbar-button:disabled {
+    opacity: 0.35;
+  }
+
+  .mobile-reader-title {
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  .mobile-reader-title small {
+    color: #3498db;
+    font-size: 0.62rem;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  .mobile-reader-title strong {
+    overflow: hidden;
+    color: #263447;
+    font-size: 0.88rem;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .mobile-reader-content {
+    height: auto;
+    min-height: 0;
+    border: 0;
+    border-radius: 0;
+  }
+
+  .mobile-reader-content .main-header {
+    flex: none;
+    padding: 1.15rem 1rem 0.9rem;
+    background: #f8fafc;
+  }
+
+  .mobile-reader-content .main-header h2 {
+    font-size: 1.25rem;
+    line-height: 1.35;
+  }
+
+  .mobile-reader-content .main-header p {
+    margin: 0.45rem 0 0;
+    color: #7b8797;
+    font-size: 0.78rem;
+    line-height: 1.55;
+  }
+
+  .mobile-reader-content .markdown-body {
+    min-width: 0;
+    padding: 1.1rem 1rem 2rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+    font-size: 1rem;
+    line-height: 1.78;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .mobile-reader-content .markdown-body :deep(h2) {
+    margin-top: 1.5rem;
+    scroll-margin-top: 12px;
+    font-size: 1.22rem;
+    line-height: 1.45;
+  }
+
+  .mobile-reader-content .markdown-body :deep(h3) {
+    font-size: 1.06rem;
+    line-height: 1.45;
+  }
+
+  .mobile-reader-content .markdown-body :deep(table) {
+    width: max-content;
+    min-width: 100%;
+    max-width: none;
+  }
+
+  .mobile-reader-content .markdown-body :deep(table) {
+    display: block;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+  }
+
+  .mobile-reader-content .markdown-body :deep(pre),
+  .mobile-reader-content .markdown-body :deep(.mermaid-diagram) {
+    max-width: 100%;
+    overflow-x: auto;
+  }
+
+  .mobile-reader-content .markdown-body :deep(blockquote) {
+    margin-inline: 0;
+    padding: 0.8rem 0.85rem;
+  }
+
+  .mobile-lesson-nav {
+    z-index: 30;
+    min-height: calc(58px + env(safe-area-inset-bottom, 0px));
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    padding: 0.35rem 0.65rem env(safe-area-inset-bottom, 0px);
+    border-top: 1px solid #e7ebef;
+    background: rgba(255, 255, 255, 0.97);
+    box-shadow: 0 -2px 12px rgba(15, 23, 42, 0.06);
+    backdrop-filter: blur(14px);
+  }
+
+  .mobile-lesson-nav button {
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    border: 0;
+    border-radius: 12px;
+    background: transparent;
+    color: #2476b7;
+    cursor: pointer;
+  }
+
+  .mobile-lesson-nav button:last-child {
+    justify-content: flex-end;
+  }
+
+  .mobile-lesson-nav button span {
+    font-size: 1.45rem;
+  }
+
+  .mobile-lesson-nav button small {
+    font-size: 0.75rem;
+    font-weight: 700;
+  }
+
+  .mobile-lesson-nav button:disabled {
+    color: #c5ccd5;
+    cursor: default;
+  }
+
+  .mobile-lesson-progress {
+    padding: 0.25rem 0.65rem;
+    border-radius: 999px;
+    background: #f1f5f9;
+    color: #7b8797;
+    font-size: 0.68rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .course-toc-mask {
+    position: fixed;
+    inset: 0;
+    z-index: 980;
+    background: rgba(15, 23, 42, 0.48);
+  }
+
+  .course-toc-sheet {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-height: 80vh;
+    max-height: 80dvh;
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem 0.8rem calc(0.8rem + env(safe-area-inset-bottom, 0px));
+    border-radius: 22px 22px 0 0;
+    background: #fff;
+    box-shadow: 0 -16px 42px rgba(15, 23, 42, 0.2);
+  }
+
+  .course-sheet-handle {
+    width: 38px;
+    height: 4px;
+    flex: none;
+    margin: 0 auto 0.55rem;
+    border-radius: 999px;
+    background: #d4dbe3;
+  }
+
+  .course-toc-sheet > header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    padding: 0.25rem 0.25rem 0.65rem;
+    border-bottom: 1px solid #edf1f5;
+  }
+
+  .course-toc-sheet header small {
+    color: #3498db;
+    font-size: 0.64rem;
+    font-weight: 800;
+    text-transform: uppercase;
+  }
+
+  .course-toc-sheet header h3 {
+    margin: 0.05rem 0 0;
+    color: #263447;
+    font-size: 1.05rem;
+  }
+
+  .course-toc-sheet header button {
+    width: 44px;
+    height: 44px;
+    border: 0;
+    border-radius: 12px;
+    background: #f1f5f9;
+    color: #64748b;
+    font-size: 1.4rem;
+    cursor: pointer;
+  }
+
+  .mobile-toc-nav {
+    min-height: 0;
+    overflow-y: auto;
+    padding: 0.55rem 0;
+  }
+
+  .mobile-toc-nav button {
+    width: 100%;
+    min-height: 46px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.7rem;
+    padding: 0.65rem 0.75rem;
+    border: 0;
+    border-left: 3px solid transparent;
+    border-radius: 10px;
+    background: transparent;
+    color: #526171;
+    font: inherit;
+    font-size: 0.82rem;
+    line-height: 1.4;
+    text-align: left;
+    cursor: pointer;
+  }
+
+  .mobile-toc-nav button.level-2 {
+    color: #344256;
+    font-weight: 700;
+  }
+
+  .mobile-toc-nav button.level-3 {
+    padding-left: 1.35rem;
+  }
+
+  .mobile-toc-nav button.active {
+    border-left-color: #3498db;
+    background: #ebf5fc;
+    color: #2476b7;
+  }
+
+  .mobile-toc-nav button small {
+    flex: none;
+    color: #3498db;
+    font-size: 0.6rem;
+  }
+
+  .course-sheet-enter-active,
+  .course-sheet-leave-active {
+    transition: opacity 0.2s ease;
+  }
+
+  .course-sheet-enter-active .course-toc-sheet,
+  .course-sheet-leave-active .course-toc-sheet {
+    transition: transform 0.28s cubic-bezier(0.32, 0.72, 0.24, 1);
+  }
+
+  .course-sheet-enter-from,
+  .course-sheet-leave-to {
+    opacity: 0;
+  }
+
+  .course-sheet-enter-from .course-toc-sheet,
+  .course-sheet-leave-to .course-toc-sheet {
+    transform: translateY(100%);
+  }
 }
 
 /* ==================== 4. Mermaid 全屏高清灯箱 Modal ==================== */

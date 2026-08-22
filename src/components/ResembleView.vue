@@ -311,4 +311,29 @@ function formatExplanationLines(text: string): string[] {
   border-radius: 4px;
   border-left: 3px solid #3498db;
 }
+
+@media (max-width: 767.98px) {
+  .resemble-container { gap: .75rem; }
+  .control-panel {
+    position: sticky;
+    top: var(--mobile-appbar-h);
+    z-index: 20;
+    margin: -.75rem -.75rem 0;
+    padding: .7rem .75rem;
+    border: 0;
+    border-bottom: 1px solid #e2e8f0;
+    border-radius: 0;
+    background: rgba(246, 248, 251, .97);
+    backdrop-filter: blur(12px);
+  }
+  .search-box input { min-height: 46px; border-radius: 14px; background: #fff; }
+  .clear-btn { width: 44px; height: 44px; right: .15rem; }
+  .cards-list { gap: .75rem; }
+  .resemble-card { padding: .9rem; border: 0; border-radius: 16px; box-shadow: 0 4px 16px rgb(15 23 42 / 5%); }
+  .card-header { align-items: flex-start; }
+  .group-label { width: 100%; }
+  .word-pill { min-height: 42px; padding-inline: .7rem; border-radius: 11px; }
+  .exp-line { font-size: .9rem; line-height: 1.65; }
+  .summary-line { padding: .65rem .7rem; border-radius: 10px; }
+}
 </style>

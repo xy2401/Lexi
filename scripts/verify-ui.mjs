@@ -1,7 +1,10 @@
 import { chromium } from 'playwright'
 import { mkdirSync } from 'node:fs'
+import { tmpdir } from 'node:os'
+import { join } from 'node:path'
+import assert from 'node:assert/strict'
 
-const SHOT_DIR = '/tmp/lexi-shots'
+const SHOT_DIR = join(tmpdir(), 'lexi-shots')
 mkdirSync(SHOT_DIR, { recursive: true })
 
 const browser = await chromium.launch()
@@ -91,44 +94,83 @@ const tooltipVisible = await page.locator('.word-tooltip, .word-tooltip-card, [c
 console.log('点击单词后词典 Card 可见:', tooltipVisible)
 await page.screenshot({ path: `${SHOT_DIR}/05-desktop-word-card.png` })
 
-// ---------- Mobile: viewport check ----------
-const mobile = await browser.newPage({
-  viewport: { width: 390, height: 844 },
-  isMobile: true,
-  hasTouch: true,
-  userAgent: 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 Mobile/15E148',
-})
-await mobile.goto('http://localhost:3000/', { waitUntil: 'networkidle' })
-await mobile.waitForTimeout(600)
-await mobile.screenshot({ path: `${SHOT_DIR}/06-mobile-home.png`, fullPage: false })
+// ---------- Mobile: app navigation and immersive course reader ----------
+async function verifyMobile(width, height, label) {
+  const mobile = await browser.newPage({
+    viewport: { width, height },
+    isMobile: true,
+    hasTouch: true,
+    userAgent: 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 Mobile/15E148',
+  })
+  mobile.on('console', msg => { if (msg.type() === 'error') consoleErrors.push(`[${label}] ${msg.text()}`) })
+  mobile.on('pageerror', err => consoleErrors.push(`[${label}] ${String(err)}`))
 
-await mobile.click('button.tab-btn:has-text("系统课程")').catch(() => {})
-await mobile.waitForTimeout(800)
-await mobile.screenshot({ path: `${SHOT_DIR}/07-mobile-course-tab.png` })
+  await mobile.goto('http://localhost:3000/', { waitUntil: 'networkidle' })
+  await mobile.locator('.mobile-tab-item').filter({ hasText: '课程' }).click()
+  await mobile.waitForSelector('.mobile-course-card:visible', { timeout: 15000 })
+  assert.equal(await mobile.locator('.mobile-course-library:visible').count(), 1, `${label}: 应显示课程库`)
+  assert.equal(await mobile.locator('.mobile-course-library .markdown-body').count(), 0, `${label}: 课程库不应渲染讲义`)
+  await mobile.screenshot({ path: join(SHOT_DIR, `${label}-course-library.png`), fullPage: false })
 
-const hasCourseCards = await mobile.locator('.unit-card:visible').count().catch(() => 0)
-console.log('移动端课程卡片数量:', hasCourseCards)
+  await mobile.locator('.mobile-course-card').first().click()
+  await mobile.waitForSelector('.mobile-course-reader .markdown-body:visible', { timeout: 20000 })
+  assert.equal(await mobile.locator('.mobile-tab-bar:visible').count(), 0, `${label}: 阅读时应隐藏全局底栏`)
+  assert.equal(await mobile.locator('.mobile-reader-toolbar:visible').count(), 1, `${label}: 应显示阅读工具栏`)
+  assert.equal(await mobile.locator('.mobile-lesson-nav button').first().isDisabled(), true, `${label}: 第一课上一课应禁用`)
+  await mobile.screenshot({ path: join(SHOT_DIR, `${label}-course-reader.png`), fullPage: false })
 
-if (hasCourseCards > 0) {
-  await mobile.click('.unit-card:visible >> nth=0')
-  await mobile.waitForTimeout(1500)
-  await mobile.screenshot({ path: `${SHOT_DIR}/08-mobile-lecture.png` })
+  const tocButton = mobile.locator('.toc-trigger')
+  await tocButton.click()
+  await mobile.waitForSelector('.course-toc-sheet:visible')
+  const tocItems = mobile.locator('.mobile-toc-nav button')
+  assert.ok(await tocItems.count() > 0, `${label}: 目录不应为空`)
+  await tocItems.nth(Math.min(1, (await tocItems.count()) - 1)).click()
+  await mobile.waitForSelector('.course-toc-sheet', { state: 'detached' })
 
-  const mermaidCount = await mobile.locator('.markdown-body .mermaid-diagram svg').count()
-  if (mermaidCount > 0) {
-    await mobile.click('.markdown-body .mermaid-diagram').catch(() => {})
-    await mobile.waitForSelector('.mermaid-modal-overlay', { timeout: 5000 }).catch(() => {})
-    await mobile.waitForTimeout(400)
-    const mZoom = await mobile.textContent('.zoom-text').catch(() => '无')
-    console.log('移动端灯箱 zoom =', mZoom?.trim())
-    await mobile.screenshot({ path: `${SHOT_DIR}/09-mobile-lightbox.png` })
-  } else {
-    console.log('第一门课无 Mermaid 图，跳过移动端灯箱')
-  }
+  await mobile.locator('button[aria-label="返回课程库"]').click()
+  await mobile.waitForSelector('.mobile-course-library:visible')
+  assert.equal(await mobile.locator('.mobile-tab-bar:visible').count(), 1, `${label}: 返回课程库后应恢复底栏`)
+  assert.equal(await mobile.locator('.continue-card:visible').count(), 1, `${label}: 应显示继续学习卡片`)
+
+  // 词典：索引与词条详情分层，详情接管全局导航。
+  await mobile.locator('.mobile-tab-item').filter({ hasText: '词典' }).click()
+  await mobile.waitForSelector('.explorer-left:visible')
+  await mobile.locator('.explorer-left .word-item').first().click()
+  await mobile.waitForSelector('.explorer-layout.mobile-detail-open')
+  assert.equal(await mobile.locator('.mobile-detail-bar:visible').count(), 1, `${label}: 词条详情应显示独立工具栏`)
+  assert.equal(await mobile.locator('.mobile-tab-bar:visible').count(), 0, `${label}: 词条详情应隐藏底栏`)
+  await mobile.locator('button[aria-label="返回词典索引"]').click()
+  await mobile.waitForSelector('.explorer-left:visible')
+
+  // 多邻国：单元库与学习页分层。
+  await mobile.locator('.mobile-tab-item').filter({ hasText: '多邻国' }).click()
+  await mobile.waitForSelector('.unit-card:visible')
+  await mobile.locator('.unit-card').first().click()
+  await mobile.waitForSelector('.duolingo-view.is-mobile-unit')
+  assert.equal(await mobile.locator('.mobile-unit-bar:visible').count(), 1, `${label}: 单元页应显示独立工具栏`)
+  assert.equal(await mobile.locator('.mobile-tab-bar:visible').count(), 0, `${label}: 单元页应隐藏底栏`)
+  await mobile.locator('button[aria-label="返回单元列表"]').click()
+  await mobile.waitForSelector('.unit-list:visible')
+
+  // WordNet：词义列表与语义图分层，图表只在自身容器处理宽度。
+  await mobile.getByRole('button', { name: '更多', exact: true }).click()
+  await mobile.getByRole('button', { name: '语义网络', exact: true }).click()
+  await mobile.waitForSelector('.sense-card:visible', { timeout: 15000 })
+  await mobile.locator('.sense-card').first().click()
+  await mobile.waitForSelector('.wordnet-view.is-mobile-graph')
+  assert.equal(await mobile.locator('.mobile-graph-bar:visible').count(), 1, `${label}: 语义图应显示独立工具栏`)
+  assert.equal(await mobile.locator('.mobile-tab-bar:visible').count(), 0, `${label}: 语义图应隐藏底栏`)
+  await mobile.locator('button[aria-label="返回词义列表"]').click()
+  await mobile.waitForSelector('.sense-panel:visible')
+
+  const horizontalOverflow = await mobile.evaluate(() => document.documentElement.scrollWidth > window.innerWidth)
+  assert.equal(horizontalOverflow, false, `${label}: 页面不应整体水平溢出`)
+  console.log(`${label} 移动端课程体验: OK`)
+  await mobile.close()
 }
 
-const horizontalOverflow = await mobile.evaluate(() => document.documentElement.scrollWidth > window.innerWidth)
-console.log('移动端水平溢出:', horizontalOverflow)
+await verifyMobile(390, 844, '390x844')
+await verifyMobile(360, 800, '360x800')
 
 await browser.close()
 console.log('---')

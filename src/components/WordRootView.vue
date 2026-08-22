@@ -639,4 +639,35 @@ function speak(word: string, e: Event) {
 .speaker-btn:hover {
   opacity: 1;
 }
+
+@media (max-width: 767.98px) {
+  .wordroot-container { gap: .75rem; }
+  .control-panel {
+    position: sticky;
+    top: var(--mobile-appbar-h);
+    z-index: 20;
+    margin: -.75rem -.75rem 0;
+    padding: .7rem .75rem;
+    border: 0;
+    border-bottom: 1px solid #e2e8f0;
+    border-radius: 0;
+    background: rgba(246, 248, 251, .97);
+    backdrop-filter: blur(12px);
+  }
+  .search-box input { min-height: 46px; border-radius: 14px; background: #fff; }
+  .clear-btn { width: 44px; height: 44px; right: .15rem; }
+  .filter-row { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 2px; scrollbar-width: none; }
+  .filter-row::-webkit-scrollbar { display: none; }
+  .filter-label { position: sticky; left: 0; z-index: 1; min-width: 44px; align-self: stretch; display: flex; align-items: center; background: #f6f8fb; }
+  .filter-btn { min-height: 38px; flex: none; padding-inline: .7rem; border-radius: 999px; }
+  .root-card { padding: .85rem; border: 0; border-left: 4px solid #3498db; border-radius: 16px; }
+  .card-header { align-items: flex-start; }
+  .header-left { display: grid; gap: .45rem; }
+  .header-right { order: -1; width: 100%; justify-content: flex-end; }
+  .root-text { font-size: 1.25rem; }
+  .meaning-box { line-height: 1.55; }
+  .examples-section { display: block; }
+  .examples-label { display: block; margin-bottom: .45rem; }
+  .example-chip { min-height: 40px; padding-inline: .65rem; border-radius: 10px; }
+}
 </style>

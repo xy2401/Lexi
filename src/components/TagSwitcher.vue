@@ -230,4 +230,46 @@ function buttonLabel(tag: DictionaryTagId, label: string): string {
   color: #64748b;
   font-weight: 500;
 }
+
+@media (max-width: 767.98px) {
+  .tag-switcher-bar {
+    position: sticky;
+    top: var(--mobile-appbar-h);
+    z-index: 30;
+    display: block;
+    margin: -.75rem -.75rem .75rem;
+    width: calc(100% + 1.5rem);
+    padding: .55rem .75rem;
+    border: 0;
+    border-bottom: 1px solid #e2e8f0;
+    border-radius: 0;
+    background: rgba(255, 255, 255, .97);
+    box-shadow: none;
+    backdrop-filter: blur(12px);
+  }
+
+  .filter-label,
+  .legend-note {
+    display: none;
+  }
+
+  .tag-buttons-group {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    gap: .45rem;
+    padding-bottom: 2px;
+    scrollbar-width: none;
+  }
+
+  .tag-buttons-group::-webkit-scrollbar { display: none; }
+
+  .tag-btn,
+  .reset-btn {
+    min-height: 38px;
+    height: 38px;
+    flex: none;
+    padding-inline: .7rem;
+    border-radius: 999px;
+  }
+}
 </style>

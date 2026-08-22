@@ -1,6 +1,6 @@
 import { afterEach, describe, expect, it, vi } from 'vitest'
 import { zipSync, strToU8 } from 'fflate'
-import { ensureDefaultLibrarySource, normalizeLibraryCatalog, remoteCoverUrl, validateLibrarySource } from '../src/lib/library-service'
+import { ensureDefaultLibrarySource, failoverLibrarySource, getActiveLibrarySource, normalizeLibraryCatalog, remoteCoverUrl, validateLibrarySource } from '../src/lib/library-service'
 import { sanitizeReaderHtml } from '../src/lib/reader-sanitize'
 import { importLocalBook } from '../src/lib/epub-import'
 import { readerDb } from '../src/lib/reader-db'
@@ -137,6 +137,28 @@ describe('reader IndexedDB schema', () => {
     expect((await readerDb.sources.get('legacy'))?.adapter).toBe('standard-ebooks-library-v2')
     expect(await readerDb.books.count()).toBe(0)
     expect(await readerDb.progress.count()).toBe(1)
+  })
+
+  it('checks a live fallback catalog and switches the active library source', async () => {
+    const now = Date.now()
+    const local = { id: 'local', name: 'Local', baseUrl: 'http://localhost:8000', adapter: 'standard-ebooks-library-v2' as const, enabled: true, createdAt: now, updatedAt: now }
+    const remote = { id: 'remote', name: 'Remote', baseUrl: 'https://books.example', adapter: 'standard-ebooks-library-v2' as const, enabled: true, createdAt: now + 1, updatedAt: now + 1 }
+    await readerDb.sources.bulkPut([local, remote])
+    const catalog = {
+      schema_version: 2,
+      subjects: [{ slug: 'fiction' }],
+      books: [{ title: 'Fallback Book', author: 'Author', repo_name: 'fallback_book', asset_path: 'library/fallback_book/src/epub', subjects: [{ slug: 'fiction', rank: 1 }] }],
+    }
+    vi.stubGlobal('fetch', vi.fn(async (input: RequestInfo | URL) => {
+      expect(String(input)).toBe('https://books.example/subject_top.json')
+      return { ok: true, status: 200, text: async () => JSON.stringify(catalog) } as Response
+    }))
+
+    const result = await failoverLibrarySource([local, remote], [local.id])
+
+    expect(result.source.id).toBe(remote.id)
+    expect(result.books[0].title).toBe('Fallback Book')
+    expect((await getActiveLibrarySource())?.id).toBe(remote.id)
   })
 })
 

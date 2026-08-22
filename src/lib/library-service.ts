@@ -309,6 +309,39 @@ export async function loadLibraryCatalog(sourceId: string, forceRefresh = false)
   return refreshLibraryCatalog(sourceId)
 }
 
+export async function failoverLibrarySource(
+  sources: LibrarySource[],
+  excludedSourceIds: string[] = [],
+): Promise<{ source: LibrarySource; books: LibraryBook[] }> {
+  const excluded = new Set(excludedSourceIds)
+  const candidates = sources
+    .filter(source => source.enabled && !excluded.has(source.id))
+    .sort((left, right) => {
+      if (left.id === DEFAULT_REMOTE_SOURCE_ID) return -1
+      if (right.id === DEFAULT_REMOTE_SOURCE_ID) return 1
+      const leftSecure = left.baseUrl.startsWith('https://') ? 0 : 1
+      const rightSecure = right.baseUrl.startsWith('https://') ? 0 : 1
+      return leftSecure - rightSecure || left.createdAt - right.createdAt
+    })
+
+  if (!candidates.length) throw new Error('没有其他已启用的备用书库')
+
+  const failures: string[] = []
+  for (const source of candidates) {
+    try {
+      // 故障转移必须实际访问来源，不能仅凭旧缓存判断“可用”。
+      const books = await refreshLibraryCatalog(source.id)
+      if (!books.length) throw new Error('书目中没有图书')
+      await setActiveLibrarySource(source.id)
+      return { source, books }
+    } catch (cause) {
+      failures.push(`${source.name}：${cause instanceof Error ? cause.message : String(cause)}`)
+    }
+  }
+
+  throw new Error(`备用书库均不可用（${failures.join('；')}）`)
+}
+
 function epubRoot(source: Pick<LibrarySource, 'baseUrl'>, book: LibraryBook): string {
   assertSafeSegment(book.repoName || '', 'repo_name')
   if (!book.assetPath) throw new Error(`《${book.title}》缺少 asset_path，请刷新书目`)

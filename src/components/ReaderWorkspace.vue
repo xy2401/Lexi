@@ -2,9 +2,11 @@
 import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import ReaderView from './ReaderView.vue'
 import ReaderAnnotationControls from './ReaderAnnotationControls.vue'
+import { useIsMobile } from '../composables/useMediaQuery'
 import { readerDb, getReaderSetting, setReaderSetting } from '../lib/reader-db'
 import {
   ensureDefaultLibrarySource,
+  failoverLibrarySource,
   getActiveLibrarySource,
   getProgressForBook,
   listLibrarySources,
@@ -34,7 +36,11 @@ const props = withDefaults(defineProps<{ active?: boolean }>(), { active: true }
 const emit = defineEmits<{
   'word-click': [payload: { word: string; x: number; y: number }]
   'recording-change': [recording: boolean]
+  'immersive-change': [active: boolean]
 }>()
+
+const isMobile = useIsMobile()
+const READER_HISTORY_KEY = 'lexiReaderLayer'
 
 type WorkspaceMode = 'remote' | 'local' | 'temporary'
 type ShelfView = 'all' | 'favorites' | 'recent'
@@ -54,6 +60,7 @@ const visibleCount = ref(24)
 const loading = ref(false)
 const refreshing = ref(false)
 const error = ref('')
+const notice = ref('')
 const temporaryText = ref('The quick brown fox jumps over the lazy dog. She was running happily through the beautiful garden.')
 const importInput = ref<HTMLInputElement | null>(null)
 const importing = ref(false)
@@ -185,22 +192,45 @@ async function reloadLocalBooks(): Promise<void> {
 
 async function loadRemoteSource(sourceId: string): Promise<void> {
   error.value = ''
+  notice.value = ''
   loading.value = true
   const hadCachedCatalog = await readerDb.books.where('sourceId').equals(sourceId).count() > 0
   try {
     remoteBooks.value = await loadLibraryCatalog(sourceId)
   } catch (cause) {
-    remoteBooks.value = []
-    error.value = cause instanceof Error ? cause.message : String(cause)
+    await switchToFallbackSource(sourceId, cause)
   } finally {
     loading.value = false
   }
-  if (hadCachedCatalog && remoteBooks.value.length) {
+  if (hadCachedCatalog && remoteBooks.value.length && activeSourceId.value === sourceId) {
     refreshing.value = true
     void refreshLibraryCatalog(sourceId)
       .then(books => { if (activeSourceId.value === sourceId) remoteBooks.value = books })
-      .catch(cause => { if (!remoteBooks.value.length) error.value = cause instanceof Error ? cause.message : String(cause) })
+      .catch(cause => {
+        if (activeSourceId.value === sourceId) void switchToFallbackSource(sourceId, cause)
+      })
       .finally(() => { refreshing.value = false })
+  }
+}
+
+async function switchToFallbackSource(failedSourceId: string, primaryCause: unknown): Promise<boolean> {
+  const failedSource = sources.value.find(source => source.id === failedSourceId)
+  try {
+    const fallback = await failoverLibrarySource(sources.value, [failedSourceId])
+    activeSourceId.value = fallback.source.id
+    remoteBooks.value = fallback.books
+    selectedSubjects.value = []
+    visibleCount.value = 24
+    error.value = ''
+    notice.value = `${failedSource?.name || '当前书库'}不可用，已自动切换到 ${fallback.source.name}`
+    return true
+  } catch (fallbackCause) {
+    remoteBooks.value = []
+    const primaryMessage = primaryCause instanceof Error ? primaryCause.message : String(primaryCause)
+    const fallbackMessage = fallbackCause instanceof Error ? fallbackCause.message : String(fallbackCause)
+    error.value = `${primaryMessage}；${fallbackMessage}`
+    notice.value = ''
+    return false
   }
 }
 
@@ -218,6 +248,7 @@ async function initialize(): Promise<void> {
 
 async function changeSource(): Promise<void> {
   if (!activeSourceId.value) return
+  notice.value = ''
   await setActiveLibrarySource(activeSourceId.value)
   selectedSubjects.value = []
   visibleCount.value = 24
@@ -228,10 +259,11 @@ async function manualRefresh(): Promise<void> {
   if (!activeSourceId.value) return
   refreshing.value = true
   error.value = ''
+  notice.value = ''
   try {
     remoteBooks.value = await refreshLibraryCatalog(activeSourceId.value)
   } catch (cause) {
-    error.value = cause instanceof Error ? cause.message : String(cause)
+    await switchToFallbackSource(activeSourceId.value, cause)
   } finally {
     refreshing.value = false
   }
@@ -357,6 +389,12 @@ async function openBook(book: LibraryBook): Promise<void> {
     const progress = await getProgressForBook(book)
     currentBook.value = book
     currentPackage.value = bookPackage
+    if (isMobile.value) {
+      emit('immersive-change', true)
+      if (window.history.state?.[READER_HISTORY_KEY] !== 'reader') {
+        window.history.pushState({ ...(window.history.state || {}), [READER_HISTORY_KEY]: 'reader' }, '')
+      }
+    }
     currentProgress.value = progress
     const savedIndex = Math.max(0, bookPackage.toc.findIndex(item => item.href === progress.chapterHref))
     await loadChapterAt(savedIndex, true)
@@ -366,7 +404,7 @@ async function openBook(book: LibraryBook): Promise<void> {
   }
 }
 
-function closeReader(): void {
+function closeReader(clearHistory = true): void {
   if (currentBook.value) void persistCurrentProgress(true)
   stopReadingTimer()
   revokeChapterUrls()
@@ -377,6 +415,21 @@ function closeReader(): void {
   currentChapterText.value = ''
   tocOpen.value = false
   readerSettingsOpen.value = false
+  emit('immersive-change', false)
+  if (clearHistory && window.history.state?.[READER_HISTORY_KEY] === 'reader') {
+    const state: Record<string, unknown> = { ...(window.history.state || {}) }
+    delete state[READER_HISTORY_KEY]
+    window.history.replaceState(state, '')
+  }
+}
+
+function requestCloseReader(): void {
+  if (isMobile.value && window.history.state?.[READER_HISTORY_KEY] === 'reader') window.history.back()
+  else closeReader(true)
+}
+
+function handleReaderPopState(): void {
+  if (isMobile.value && currentBook.value) closeReader(false)
 }
 
 function handleReaderScroll(): void {
@@ -449,19 +502,26 @@ async function deleteLocalBook(book: LibraryBook): Promise<void> {
 }
 
 watch(() => props.active, active => {
-  if (!active) stopReadingTimer()
-  else if (currentBook.value) startReadingTimer()
+  if (!active) {
+    stopReadingTimer()
+    emit('immersive-change', false)
+  } else if (currentBook.value) {
+    startReadingTimer()
+    if (isMobile.value) emit('immersive-change', true)
+  }
 })
 
 watch(preferences, () => void savePreferences(), { deep: true })
 watch([search, shelfSort, shelfView], () => { visibleCount.value = 24 })
 
 onMounted(() => {
+  window.addEventListener('popstate', handleReaderPopState)
   void initialize().catch(cause => {
     error.value = cause instanceof Error ? cause.message : String(cause)
   })
 })
 onBeforeUnmount(() => {
+  window.removeEventListener('popstate', handleReaderPopState)
   closeReader()
   if (saveTimer) clearTimeout(saveTimer)
   localCoverRevokers.forEach(revoke => revoke())
@@ -469,10 +529,10 @@ onBeforeUnmount(() => {
 </script>
 
 <template>
-  <section class="reader-workspace">
+  <section :class="['reader-workspace', { 'is-reading': currentBook && currentPackage }]">
     <template v-if="currentBook && currentPackage">
       <header class="book-reader-header">
-        <button class="reader-tool back" type="button" @click="closeReader">← 返回书架</button>
+        <button class="reader-tool back" type="button" @click="requestCloseReader">← 返回书架</button>
         <div class="reader-book-title">
           <strong>{{ currentPackage.title }}</strong>
           <span>{{ currentPackage.author }}</span>
@@ -582,6 +642,7 @@ onBeforeUnmount(() => {
       </template>
 
       <template v-else>
+        <p v-if="notice" class="library-notice">{{ notice }}</p>
         <p v-if="error" class="library-error">{{ error }}</p>
         <div v-if="continueBook" class="continue-card">
           <div><span>继续阅读</span><strong>{{ continueBook.book.title }}</strong><small>{{ continueBook.book.author }} · {{ formatPercent(continueBook.progress?.overallPercent) }}</small></div>
@@ -653,9 +714,235 @@ onBeforeUnmount(() => {
 .subject-filters { display: flex; gap: .32rem; overflow-x: auto; padding: .15rem 0 .8rem; scrollbar-width: thin; }.subject-filters button { flex: 0 0 auto; padding: .26rem .48rem; border-color: #e0e6eb; background: #fff; }.subject-filters button.active { border-color: #80b8df; background: #edf7fd; color: #2476b7; }.subject-filters small { color: #9aa7b4; }
 .book-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(145px, 1fr)); gap: .9rem; }.book-card { position: relative; min-width: 0; }.book-card-main { width: 100%; padding: 0; border: 0; background: transparent; text-align: left; cursor: pointer; }.book-cover { position: relative; aspect-ratio: 2 / 3; overflow: hidden; display: flex; align-items: center; justify-content: center; padding: .8rem; border-radius: 7px; background: #e9eef2; color: #526171; text-align: center; box-shadow: 0 3px 10px #1e293b1a; }.book-cover img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }.book-cover i { position: absolute; bottom: 0; left: 0; height: 4px; background: #3498db; }.book-card-main > strong, .book-card-main > small { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }.book-card-main > strong { margin-top: .42rem; font-size: .8rem; }.book-card-main > small { margin-top: .12rem; color: #85919d; font-size: .68rem; }.favorite-button { position: absolute; z-index: 2; top: .35rem; right: .35rem; width: 1.8rem; height: 1.8rem; border: 0; border-radius: 50%; background: #ffffffdd; color: #9ca8b4; cursor: pointer; }.favorite-button.active { color: #e05265; }.delete-book { margin-top: .25rem; padding: 0; border: 0; background: transparent; color: #a75c5c; cursor: pointer; font-size: .65rem; }
 .load-more { display: block; margin: 1rem auto 0; padding: .48rem 1rem; border: 1px solid #d9e1e8; border-radius: 6px; background: #fff; cursor: pointer; }.reader-state, .empty-shelf { padding: 3rem 1rem; color: #7b8997; text-align: center; }.reader-state.error, .library-error { color: #b84b4b; }.library-error { padding: .55rem .7rem; border: 1px solid #f1caca; border-radius: 6px; background: #fff7f7; font-size: .78rem; }
+.library-notice { margin: 0; padding: .55rem .7rem; border: 1px solid #bde7cf; border-radius: 6px; background: #f1fbf5; color: #23754a; font-size: .78rem; }
 .temporary-reader-layout { display: grid; grid-template-columns: 280px minmax(0,1fr); gap: 1rem; margin-top: .8rem; }.temporary-reader-layout aside label { display: block; margin-bottom: .4rem; font-weight: 600; }.temporary-reader-layout textarea { width: 100%; padding: .6rem; border: 1px solid #d9e1e8; border-radius: 7px; resize: vertical; }.temporary-reader-layout aside p { color: #84919e; font-size: .7rem; }.temporary-reader-layout main { min-height: 420px; padding: 1.2rem; border: 1px solid #e4e8ec; border-radius: 8px; background: #fff; }
-.book-detail-backdrop { position: fixed; z-index: 50; inset: 0; display: grid; place-items: center; padding: 1rem; background: #17212bcc; }.book-detail-card { position: relative; display: grid; grid-template-columns: 220px minmax(0,1fr); gap: 1.4rem; width: min(820px, 96vw); max-height: 88vh; overflow: auto; padding: 1.4rem; border-radius: 12px; background: #fff; }.detail-close { position: absolute; top: .6rem; right: .65rem; border: 0; background: transparent; font-size: 1.4rem; cursor: pointer; }.detail-cover { aspect-ratio: 2/3; overflow: hidden; display: flex; align-items: center; justify-content: center; padding: 1rem; border-radius: 8px; background: #e8edf1; text-align: center; }.detail-cover img { width: 100%; height: 100%; object-fit: cover; }.detail-copy h2 { margin: .45rem 0 .2rem; }.detail-author, .muted { color: #7b8997; }.detail-description { line-height: 1.65; }.detail-subjects { display: flex; flex-wrap: wrap; gap: .3rem; }.detail-subjects span { padding: .14rem .36rem; border-radius: 4px; background: #fef9e7; color: #a56d0b; font-size: .65rem; }.detail-copy dl { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: .5rem; }.detail-copy dl div { padding: .45rem; border-radius: 6px; background: #f6f8fa; }.detail-copy dt { color: #8793a0; font-size: .65rem; }.detail-copy dd { margin: .12rem 0 0; font-size: .75rem; }.detail-actions { display: flex; align-items: center; gap: .5rem; margin-top: 1rem; }.detail-actions button, .detail-actions a { padding: .44rem .7rem; border: 1px solid #d8e0e7; border-radius: 6px; background: #fff; color: #526171; text-decoration: none; cursor: pointer; font-size: .75rem; }.detail-actions .primary { border-color: #3498db; background: #3498db; color: #fff; }
+.book-detail-backdrop { position: fixed; z-index: 950; inset: 0; display: grid; place-items: center; padding: 1rem; background: #17212bcc; }.book-detail-card { position: relative; display: grid; grid-template-columns: 220px minmax(0,1fr); gap: 1.4rem; width: min(820px, 96vw); max-height: 88vh; overflow: auto; padding: 1.4rem; border-radius: 12px; background: #fff; }.detail-close { position: absolute; top: .6rem; right: .65rem; border: 0; background: transparent; font-size: 1.4rem; cursor: pointer; }.detail-cover { aspect-ratio: 2/3; overflow: hidden; display: flex; align-items: center; justify-content: center; padding: 1rem; border-radius: 8px; background: #e8edf1; text-align: center; }.detail-cover img { width: 100%; height: 100%; object-fit: cover; }.detail-copy h2 { margin: .45rem 0 .2rem; }.detail-author, .muted { color: #7b8997; }.detail-description { line-height: 1.65; }.detail-subjects { display: flex; flex-wrap: wrap; gap: .3rem; }.detail-subjects span { padding: .14rem .36rem; border-radius: 4px; background: #fef9e7; color: #a56d0b; font-size: .65rem; }.detail-copy dl { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: .5rem; }.detail-copy dl div { padding: .45rem; border-radius: 6px; background: #f6f8fa; }.detail-copy dt { color: #8793a0; font-size: .65rem; }.detail-copy dd { margin: .12rem 0 0; font-size: .75rem; }.detail-actions { display: flex; align-items: center; gap: .5rem; margin-top: 1rem; }.detail-actions button, .detail-actions a { padding: .44rem .7rem; border: 1px solid #d8e0e7; border-radius: 6px; background: #fff; color: #526171; text-decoration: none; cursor: pointer; font-size: .75rem; }.detail-actions .primary { border-color: #3498db; background: #3498db; color: #fff; }
 .book-reader-header { position: relative; padding: .55rem .65rem; border: 1px solid #dde4e9; border-radius: 9px 9px 0 0; background: #fff; }.reader-tool { padding: .36rem .55rem; border-color: #dce3e8; background: #fff; }.reader-tool[aria-pressed="true"] { border-color: #7eb6dc; background: #eef7fd; color: #2476b7; }.reader-tool.back { color: #2476b7; }.reader-book-title { min-width: 180px; flex: 1; display: grid; }.reader-book-title strong { font-size: .84rem; }.reader-book-title span { color: #84919e; font-size: .66rem; }.reader-progress-summary { display: grid; gap: .12rem; width: 100px; color: #607182; font-size: .64rem; }.reader-progress-summary div { height: 4px; overflow: hidden; border-radius: 2px; background: #e8edf1; }.reader-progress-summary i { display: block; height: 100%; background: #3498db; }.reader-toolbar { display: flex; gap: .35rem; }.reader-annotation-bar { margin: .5rem 0; }
 .book-reader-shell { position: relative; height: calc(100vh - 230px); min-height: 520px; border: 1px solid #dde4e9; border-top: 0; background: #f5f0e7; }.book-reader-shell[data-theme="light"] { background: #f5f7f9; }.book-reader-shell[data-theme="dark"] { background: #17212b; }.reader-toc, .reader-settings-drawer { position: absolute; z-index: 5; top: 0; bottom: 0; width: min(320px, 85vw); overflow: auto; padding: .55rem; background: #fff; box-shadow: 5px 0 18px #1f29372b; }.reader-toc { left: 0; }.reader-settings-drawer { right: 0; box-shadow: -5px 0 18px #1f29372b; }.drawer-head { display: flex; align-items: center; justify-content: space-between; padding: .3rem .35rem .55rem; }.drawer-head button { border: 0; background: transparent; font-size: 1.2rem; cursor: pointer; }.toc-item { width: 100%; padding: .38rem .5rem; border: 0; border-radius: 4px; background: transparent; color: #526171; cursor: pointer; font-size: .72rem; text-align: left; }.toc-item:hover, .toc-item.active { background: #edf6fc; color: #2476b7; }.reader-settings-drawer label { display: grid; gap: .28rem; margin: .75rem .35rem; color: #596a79; font-size: .72rem; }.reader-settings-drawer select { padding: .36rem; border: 1px solid #dce3e8; border-radius: 5px; }.reader-toggle-setting { padding-top: .7rem; border-top: 1px solid #e7ebee; }.reader-toggle-setting span { display: flex; align-items: center; gap: .35rem; font-weight: 600; }.reader-toggle-setting small { color: #8a97a4; font-size: .62rem; line-height: 1.45; }.book-reader-scroll { height: 100%; overflow: auto; outline: none; }.book-reader-page { min-height: calc(100% - 3rem); margin: 1.5rem auto; padding: clamp(1.25rem,4vw,3.5rem); background: #fffdf8; color: #292f34; box-shadow: 0 4px 20px #442f1812; box-sizing: border-box; }.book-reader-page[data-font="serif"] { font-family: Georgia, 'Times New Roman', serif; }.book-reader-page[data-font="sans"] { font-family: Arial, sans-serif; }.book-reader-shell[data-theme="dark"] .book-reader-page { background: #202b35; color: #e5e9ed; }.chapter-nav { display: flex; align-items: center; justify-content: space-between; gap: .7rem; margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #dfe3e5; }.chapter-nav button { padding: .4rem .65rem; border: 1px solid #d4dce2; border-radius: 5px; background: transparent; color: inherit; cursor: pointer; }.chapter-nav button:disabled { opacity: .4; cursor: default; }.chapter-nav span { color: #85919d; font-size: .7rem; }
-@media (max-width: 760px) { .temporary-reader-layout, .book-detail-card { grid-template-columns: 1fr; }.book-detail-card { width: 94vw; }.detail-cover { width: 160px; margin: 0 auto; }.book-reader-header { align-items: flex-start; }.reader-progress-summary { display: none; }.book-reader-shell { height: calc(100vh - 260px); }.book-reader-page { margin: 0; min-height: 100%; box-shadow: none; }.book-grid { grid-template-columns: repeat(auto-fill,minmax(120px,1fr)); } }
+@media (max-width: 767.98px) {
+  .reader-workspace {
+    min-height: calc(100dvh - var(--mobile-appbar-h) - var(--tabbar-h) - 1.5rem);
+  }
+
+  .reader-mode-bar {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .mode-tabs {
+    width: 100%;
+    overflow-x: auto;
+    border-radius: 14px;
+  }
+
+  .mode-tabs button {
+    min-height: 42px;
+    flex: 1 0 auto;
+  }
+
+  .source-picker,
+  .shelf-controls {
+    width: 100%;
+  }
+
+  .source-picker select,
+  .shelf-controls > input {
+    min-height: 44px;
+    min-width: 0;
+  }
+
+  .continue-card {
+    border-radius: 16px;
+    box-shadow: 0 6px 20px #1f29370d;
+  }
+
+  .subject-filters button {
+    min-height: 38px;
+    border-radius: 999px;
+    padding-inline: .7rem;
+  }
+
+  .temporary-reader-layout,
+  .book-detail-card {
+    grid-template-columns: 1fr;
+  }
+
+  .book-detail-backdrop {
+    align-items: end;
+    padding: 0;
+  }
+
+  .book-detail-card {
+    width: 100%;
+    max-height: calc(100dvh - max(12px, env(safe-area-inset-top, 0px)));
+    padding: 1rem 1rem 0;
+    border-radius: 22px 22px 0 0;
+    overscroll-behavior: contain;
+  }
+
+  .detail-close {
+    z-index: 2;
+    top: .5rem;
+    right: .5rem;
+    width: 44px;
+    height: 44px;
+    display: grid;
+    place-items: center;
+    border-radius: 12px;
+    background: #f1f5f9;
+  }
+
+  .detail-cover {
+    width: 120px;
+    margin: 0 auto;
+  }
+
+  .detail-actions {
+    position: sticky;
+    bottom: 0;
+    z-index: 3;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: .5rem;
+    margin: 1rem -1rem 0;
+    padding: .7rem 1rem calc(.7rem + env(safe-area-inset-bottom, 0px));
+    border-top: 1px solid #e7ebef;
+    background: #fff;
+    box-shadow: 0 -6px 18px rgb(15 23 42 / 7%);
+  }
+
+  .detail-actions button,
+  .detail-actions a {
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .detail-actions > a {
+    grid-column: 1 / -1;
+  }
+
+  .reader-workspace.is-reading {
+    position: fixed;
+    inset: 0;
+    z-index: 850;
+    display: grid;
+    grid-template-rows: auto auto minmax(0, 1fr);
+    min-height: 100dvh;
+    overflow: hidden;
+    background: #fff;
+  }
+
+  .book-reader-header {
+    min-height: calc(58px + env(safe-area-inset-top, 0px));
+    align-items: center;
+    flex-wrap: nowrap;
+    gap: .4rem;
+    padding: env(safe-area-inset-top, 0px) .55rem 0;
+    border: 0;
+    border-bottom: 1px solid #dde4e9;
+    border-radius: 0;
+  }
+
+  .reader-tool {
+    min-height: 44px;
+    border-radius: 11px;
+  }
+
+  .reader-tool.back {
+    width: 44px;
+    overflow: hidden;
+    padding: 0;
+    color: transparent;
+    font-size: 0;
+  }
+
+  .reader-tool.back::before {
+    content: '‹';
+    color: #2476b7;
+    font-size: 1.8rem;
+  }
+
+  .reader-book-title {
+    min-width: 0;
+    text-align: center;
+  }
+
+  .reader-book-title strong,
+  .reader-book-title span {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .reader-progress-summary {
+    display: none;
+  }
+
+  .reader-toolbar {
+    gap: .2rem;
+  }
+
+  .reader-toolbar .reader-tool {
+    width: 44px;
+    overflow: hidden;
+    padding: 0;
+    font-size: 0;
+  }
+
+  .reader-toolbar .reader-tool:first-child::before {
+    content: '☰';
+    font-size: 1.05rem;
+  }
+
+  .reader-toolbar .reader-tool:last-child::before {
+    content: 'Aa';
+    font-size: .8rem;
+    font-weight: 700;
+  }
+
+  .reader-annotation-bar {
+    margin: 0;
+    border-radius: 0;
+    overflow-x: auto;
+  }
+
+  .book-reader-shell {
+    height: auto;
+    min-height: 0;
+    border: 0;
+  }
+
+  .book-reader-page {
+    min-height: 100%;
+    margin: 0;
+    padding: 1.25rem 1rem 2rem;
+    box-shadow: none;
+  }
+
+  .reader-toc,
+  .reader-settings-drawer {
+    position: absolute;
+    top: auto;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    max-height: 80%;
+    padding: .75rem .75rem calc(.75rem + env(safe-area-inset-bottom, 0px));
+    border-radius: 20px 20px 0 0;
+    box-shadow: 0 -12px 36px #1f293738;
+  }
+
+  .drawer-head button,
+  .toc-item {
+    min-height: 44px;
+  }
+
+  .book-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem .75rem;
+  }
+}
 </style>
