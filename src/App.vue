@@ -20,17 +20,26 @@ import ResembleView from './components/ResembleView.vue'
 import LemmaView from './components/LemmaView.vue'
 import WordNetView from './components/WordNetView.vue'
 import SystemCourseView from './components/SystemCourseView.vue'
+import ResizablePaneHandle from './components/ResizablePaneHandle.vue'
 import { useTTS } from './composables/useTTS'
 import { useIsMobile, useMediaQuery } from './composables/useMediaQuery'
 import type { WordEntry } from './lib/db'
 import {
   getProgressSetting,
   isAppTabId,
+  listDictionaryHistory,
   rememberDictionaryLookup,
   setProgressSetting,
   type AppTabId,
+  type DictionaryHistoryEntry,
 } from './lib/progress-db'
 import { LEARNING_PROGRESS_AREAS, type LearningProgressArea } from './lib/learning-progress'
+import {
+  DEFAULT_DESKTOP_LAYOUT,
+  normalizeDesktopLayout,
+  type CourseDesktopLayout,
+  type DesktopLayoutSetting,
+} from './lib/desktop-layout'
 
 interface LicensedProject {
   name: string
@@ -253,6 +262,39 @@ const progressRevisions = ref<Record<LearningProgressArea, number>>(
 )
 let progressHydrated = false
 
+const DESKTOP_NAV_GROUPS = [
+  {
+    label: '阅读学习',
+    items: [
+      { id: 'reader', icon: '📖', label: '阅读器', description: '书库与沉浸阅读' },
+      { id: 'course', icon: '📚', label: '系统课程', description: '结构化课程讲义' },
+      { id: 'duolingo', icon: '🦉', label: '多邻国', description: '课程单元与练习' },
+    ],
+  },
+  {
+    label: '词汇工具',
+    items: [
+      { id: 'explorer', icon: '🔍', label: '词典浏览', description: '查词、词形与跟读' },
+      { id: 'wordnet', icon: '🕸️', label: '语义网络', description: '词义与语义关系' },
+      { id: 'wordroot', icon: '🌳', label: '词根词缀', description: '构词规律浏览' },
+      { id: 'resemble', icon: '⚖️', label: '近义辨析', description: '相近词语对照' },
+      { id: 'lemma', icon: '🌿', label: '词族演变', description: '词族关系与变化' },
+    ],
+  },
+] as const satisfies ReadonlyArray<{
+  label: string
+  items: ReadonlyArray<{ id: AppTabId; icon: string; label: string; description: string }>
+}>
+
+const DESKTOP_SETTINGS_ITEM = {
+  id: 'settings', icon: '⚙️', label: '设置', description: '词库、书库与学习数据',
+} as const satisfies { id: AppTabId; icon: string; label: string; description: string }
+
+const desktopTabMeta = computed(() =>
+  [...DESKTOP_NAV_GROUPS.flatMap(group => group.items), DESKTOP_SETTINGS_ITEM]
+    .find(item => item.id === activeTab.value) || DESKTOP_NAV_GROUPS[0].items[0],
+)
+
 watch(activeTab, tab => {
   if (progressHydrated) void setProgressSetting('app.activeTab', tab)
 })
@@ -265,6 +307,42 @@ function openSettings() {
 
 // ========== 移动端底部导航 ==========
 const isMobile = useIsMobile()
+const isCompactDesktop = useMediaQuery('(min-width: 768px) and (max-width: 1023.98px)')
+const desktopReaderFocused = ref(false)
+const compactSidebarExpanded = ref(false)
+const desktopLayout = ref<DesktopLayoutSetting>(normalizeDesktopLayout(DEFAULT_DESKTOP_LAYOUT))
+const desktopSidebarCollapsed = computed(() =>
+  desktopReaderFocused.value || (
+    isCompactDesktop.value ? !compactSidebarExpanded.value : desktopLayout.value.sidebarCollapsed
+  ),
+)
+let desktopLayoutHydrated = false
+let desktopLayoutTimer: number | undefined
+
+function scheduleDesktopLayoutPersist() {
+  if (!desktopLayoutHydrated) return
+  if (desktopLayoutTimer) window.clearTimeout(desktopLayoutTimer)
+  desktopLayoutTimer = window.setTimeout(() => {
+    desktopLayoutTimer = undefined
+    void setProgressSetting('app.desktopLayout', normalizeDesktopLayout(desktopLayout.value))
+  }, 250)
+}
+
+watch(desktopLayout, scheduleDesktopLayoutPersist, { deep: true })
+
+function toggleDesktopSidebar() {
+  if (isCompactDesktop.value) compactSidebarExpanded.value = !compactSidebarExpanded.value
+  else desktopLayout.value.sidebarCollapsed = !desktopLayout.value.sidebarCollapsed
+}
+
+function selectDesktopTab(id: AppTabId) {
+  if (id === 'settings') openSettings()
+  else activeTab.value = id
+}
+
+function updateDesktopCourseLayout(layout: CourseDesktopLayout) {
+  desktopLayout.value.course = { ...layout }
+}
 
 const MOBILE_PRIMARY_TABS = [
   { id: 'reader', icon: '📖', label: '阅读器' },
@@ -362,6 +440,8 @@ async function handleProgressCleared(area: LearningProgressArea | 'all'): Promis
   if (area === 'all' || area === 'explorer') {
     explorerWord.value = ''
     explorerEntry.value = null
+    explorerHistory.value = []
+    explorerSuggestionsOpen.value = false
   }
   if (area === 'all' || area === 'wordnet') wordNetInitialWord.value = 'bank'
 }
@@ -380,6 +460,20 @@ const explorerEntry = ref<WordEntry | null>(null)
 const dictionaryRecording = ref(false)
 const explorerSearching = ref(false)
 const explorerSearchError = ref('')
+const explorerHistory = ref<DictionaryHistoryEntry[]>([])
+const explorerSuggestionsOpen = ref(false)
+const explorerActiveSuggestion = ref(-1)
+const explorerSuggestionFilter = ref('')
+const explorerSuggestions = computed(() => {
+  const query = explorerSuggestionFilter.value.trim().toLowerCase()
+  const history = query
+    ? explorerHistory.value.filter(item => item.word.includes(query))
+    : explorerHistory.value
+  return history.slice(0, 8)
+})
+const showExplorerSuggestions = computed(() =>
+  explorerSuggestionsOpen.value && explorerSuggestions.value.length > 0,
+)
 let explorerLookupRequest = 0
 
 const { speak, stop, voices, selectedVoice } = useTTS()
@@ -387,14 +481,18 @@ const { speak, stop, voices, selectedVoice } = useTTS()
 onMounted(async () => {
   window.addEventListener('popstate', handleAppPopState)
   const dictionaryReady = dictStore.init()
-  const [savedTab, savedWordNetWord, savedExplorerWord] = await Promise.all([
+  const [savedTab, savedWordNetWord, savedExplorerWord, savedDesktopLayout] = await Promise.all([
     getProgressSetting<unknown>('app.activeTab', 'reader'),
     getProgressSetting('wordnet.lastWord', 'bank'),
     getProgressSetting('explorer.lastWord', ''),
+    getProgressSetting<unknown>('app.desktopLayout', DEFAULT_DESKTOP_LAYOUT),
   ])
+  desktopLayout.value = normalizeDesktopLayout(savedDesktopLayout)
+  desktopLayoutHydrated = true
   wordNetInitialWord.value = savedWordNetWord || 'bank'
   activeTab.value = isAppTabId(savedTab) ? savedTab : 'reader'
   progressHydrated = true
+  await refreshExplorerHistory()
 
   await dictionaryReady
   if (activeTab.value === 'explorer' && savedExplorerWord && explorerLookupRequest === 0) {
@@ -410,10 +508,23 @@ onMounted(async () => {
 
 onBeforeUnmount(() => {
   window.removeEventListener('popstate', handleAppPopState)
+  if (desktopLayoutTimer) {
+    window.clearTimeout(desktopLayoutTimer)
+    void setProgressSetting('app.desktopLayout', normalizeDesktopLayout(desktopLayout.value))
+  }
 })
 
 async function recordDictionaryLookup(word: string): Promise<void> {
   await rememberDictionaryLookup(word)
+  await refreshExplorerHistory()
+}
+
+async function refreshExplorerHistory(): Promise<void> {
+  try {
+    explorerHistory.value = await listDictionaryHistory(30)
+  } catch {
+    explorerHistory.value = []
+  }
 }
 
 // ========== Reader / Extension 事件 ==========
@@ -480,6 +591,8 @@ function splitDefinition(text?: string): string[] {
 async function handleExplorerSelectWord(rawWord: string) {
   const word = rawWord.trim()
   if (!word) return
+  explorerSuggestionsOpen.value = false
+  explorerActiveSuggestion.value = -1
   stop()
   dictionaryRecording.value = false
   explorerWord.value = word
@@ -513,6 +626,62 @@ async function handleExplorerSelectWord(rawWord: string) {
   }
 }
 
+function openExplorerSuggestions() {
+  explorerSuggestionsOpen.value = true
+  explorerActiveSuggestion.value = -1
+  explorerSuggestionFilter.value = ''
+  void refreshExplorerHistory()
+}
+
+function filterExplorerSuggestions() {
+  explorerSuggestionFilter.value = explorerWord.value
+  explorerSuggestionsOpen.value = true
+  explorerActiveSuggestion.value = -1
+}
+
+function closeExplorerSuggestions(event: FocusEvent) {
+  const nextTarget = event.relatedTarget
+  if (nextTarget instanceof Node && (event.currentTarget as HTMLElement).contains(nextTarget)) return
+  explorerSuggestionsOpen.value = false
+  explorerActiveSuggestion.value = -1
+}
+
+function selectExplorerSuggestion(word: string) {
+  explorerWord.value = word
+  void handleExplorerSelectWord(word)
+}
+
+function handleExplorerSearchKeydown(event: KeyboardEvent) {
+  const suggestions = explorerSuggestions.value
+  if (event.key === 'Escape') {
+    event.preventDefault()
+    explorerSuggestionsOpen.value = false
+    explorerActiveSuggestion.value = -1
+    return
+  }
+  if (event.key === 'ArrowDown' || event.key === 'ArrowUp') {
+    if (!suggestions.length) return
+    event.preventDefault()
+    explorerSuggestionsOpen.value = true
+    const direction = event.key === 'ArrowDown' ? 1 : -1
+    const current = explorerActiveSuggestion.value
+    explorerActiveSuggestion.value = current < 0
+      ? (direction > 0 ? 0 : suggestions.length - 1)
+      : (current + direction + suggestions.length) % suggestions.length
+    return
+  }
+  if (event.key === 'Enter' && explorerSuggestionsOpen.value && explorerActiveSuggestion.value >= 0) {
+    const suggestion = suggestions[explorerActiveSuggestion.value]
+    if (!suggestion) return
+    event.preventDefault()
+    selectExplorerSuggestion(suggestion.word)
+  }
+}
+
+watch(explorerWord, () => {
+  explorerActiveSuggestion.value = -1
+})
+
 function speakExplorerWord() {
   if (explorerEntry.value && !dictionaryRecording.value) speak(explorerEntry.value.word)
 }
@@ -530,7 +699,51 @@ function openWordNet(word: string) {
 </script>
 
 <template>
-  <div :class="['app-container', { 'mobile-immersive': mobileImmersive }]">
+  <div :class="['app-container', {
+    'mobile-immersive': mobileImmersive,
+    'desktop-sidebar-collapsed': desktopSidebarCollapsed,
+  }]">
+    <aside :class="['desktop-sidebar', { collapsed: desktopSidebarCollapsed }]" aria-label="Lexi 模块导航">
+      <div class="desktop-brand">
+        <span class="desktop-brand-mark" aria-hidden="true">L</span>
+        <span class="desktop-brand-copy"><strong>Lexi</strong><small>英语学习工作台</small></span>
+        <button
+          v-if="!desktopReaderFocused"
+          type="button"
+          :aria-label="desktopSidebarCollapsed ? '展开侧栏' : '折叠侧栏'"
+          :title="desktopSidebarCollapsed ? '展开侧栏' : '折叠侧栏'"
+          @click="toggleDesktopSidebar"
+        >{{ desktopSidebarCollapsed ? '›' : '‹' }}</button>
+      </div>
+      <nav class="desktop-nav">
+        <section v-for="group in DESKTOP_NAV_GROUPS" :key="group.label" class="desktop-nav-group">
+          <h2>{{ group.label }}</h2>
+          <button
+            v-for="item in group.items"
+            :key="item.id"
+            type="button"
+            :class="{ active: activeTab === item.id }"
+            :aria-current="activeTab === item.id ? 'page' : undefined"
+            :title="desktopSidebarCollapsed ? item.label : undefined"
+            @click="selectDesktopTab(item.id)"
+          >
+            <span aria-hidden="true">{{ item.icon }}</span>
+            <span class="desktop-nav-copy"><strong>{{ item.label }}</strong><small>{{ item.description }}</small></span>
+          </button>
+        </section>
+      </nav>
+      <button
+        type="button"
+        :class="['desktop-settings-link', { active: activeTab === 'settings' }]"
+        :aria-current="activeTab === 'settings' ? 'page' : undefined"
+        :title="desktopSidebarCollapsed ? DESKTOP_SETTINGS_ITEM.label : undefined"
+        @click="selectDesktopTab('settings')"
+      >
+        <span aria-hidden="true">{{ DESKTOP_SETTINGS_ITEM.icon }}</span>
+        <span class="desktop-nav-copy"><strong>{{ DESKTOP_SETTINGS_ITEM.label }}</strong><small>{{ DESKTOP_SETTINGS_ITEM.description }}</small></span>
+      </button>
+    </aside>
+
     <header class="app-header">
       <h1>Lexi</h1>
       <p class="subtitle">渐进式英语阅读与听说训练沙盒</p>
@@ -543,6 +756,11 @@ function openWordNet(word: string) {
         <span>Lexi</span>
       </div>
       <span class="mobile-app-icon" aria-hidden="true">{{ mobileTabMeta.icon }}</span>
+    </header>
+
+    <header class="desktop-workspace-bar">
+      <div><small>LEXI WORKSPACE</small><strong>{{ desktopTabMeta.label }}</strong></div>
+      <span>{{ desktopTabMeta.description }}</span>
     </header>
 
     <!-- 8 模块 Tab 导航 -->
@@ -577,57 +795,119 @@ function openWordNet(word: string) {
     </nav>
 
     <!-- ===== Reader 模块 ===== -->
-    <div class="tab-content" v-show="activeTab === 'reader'">
+    <div class="tab-content reader-tab-content" v-show="activeTab === 'reader'">
       <ReaderWorkspace
         :key="`reader-${progressRevisions.reader}`"
         :active="activeTab === 'reader'"
         @word-click="handleWordClick"
         @recording-change="handleReaderRecordingChange"
         @immersive-change="handleImmersiveChange('reader', $event)"
+        @desktop-focus-change="desktopReaderFocused = $event"
       />
     </div>
 
     <!-- ===== Explorer 模块 (词典浏览) ===== -->
-    <div class="tab-content" v-show="activeTab === 'explorer'">
+    <div class="tab-content explorer-tab-content" v-show="activeTab === 'explorer'">
       <!-- 最上面完整一行标签筛选 -->
       <TagSwitcher v-show="!isMobile || dictionarySplitView || mobileDictionaryScreen === 'index'" />
 
       <div :class="['explorer-layout', {
         'dictionary-split-view': dictionarySplitView,
         'mobile-detail-open': isMobile && !dictionarySplitView && mobileDictionaryScreen === 'detail',
-      }]">
-        <div v-show="!isMobile || dictionarySplitView || mobileDictionaryScreen === 'index'" class="explorer-left">
-          <h3>A-Z 词典树</h3>
-          <form class="explorer-search-form" role="search" @submit.prevent="handleExplorerSelectWord(explorerWord)">
-            <span aria-hidden="true">⌕</span>
-            <input
-              v-model="explorerWord"
-              type="search"
-              autocomplete="off"
-              enterkeyhint="search"
-              aria-label="输入英文单词查询"
-              placeholder="输入英文单词"
-            />
-            <button type="submit" :disabled="explorerSearching || !explorerWord.trim()">
-              {{ explorerSearching ? '…' : '查询' }}
-            </button>
-          </form>
+        'desktop-index-collapsed': !isMobile && desktopLayout.dictionary.leftCollapsed,
+      }]" :style="{ '--explorer-left-width': `${desktopLayout.dictionary.leftWidth}px` }">
+        <div
+          v-show="(!isMobile || dictionarySplitView || mobileDictionaryScreen === 'index') && (isMobile || !desktopLayout.dictionary.leftCollapsed)"
+          class="explorer-left"
+        >
+          <div class="explorer-panel-heading">
+            <h3>A-Z 词典树</h3>
+            <button type="button" aria-label="折叠词典索引" title="折叠词典索引" @click="desktopLayout.dictionary.leftCollapsed = true">‹</button>
+          </div>
+          <div class="explorer-search" @focusout="closeExplorerSuggestions">
+            <form class="explorer-search-form" role="search" @submit.prevent="handleExplorerSelectWord(explorerWord)">
+              <span aria-hidden="true">⌕</span>
+              <input
+                v-model="explorerWord"
+                type="search"
+                autocomplete="off"
+                enterkeyhint="search"
+                role="combobox"
+                aria-autocomplete="list"
+                aria-controls="explorer-recent-lookups"
+                :aria-expanded="showExplorerSuggestions"
+                :aria-activedescendant="explorerActiveSuggestion >= 0 ? `explorer-suggestion-${explorerActiveSuggestion}` : undefined"
+                aria-label="输入英文单词查询"
+                placeholder="输入英文单词"
+                @focus="openExplorerSuggestions"
+                @input="filterExplorerSuggestions"
+                @keydown="handleExplorerSearchKeydown"
+              />
+              <button type="submit" :disabled="explorerSearching || !explorerWord.trim()">
+                {{ explorerSearching ? '…' : '查询' }}
+              </button>
+            </form>
+            <div
+              v-if="showExplorerSuggestions"
+              id="explorer-recent-lookups"
+              class="explorer-suggestions"
+              role="listbox"
+              aria-label="最近查词推荐"
+            >
+              <div class="explorer-suggestions-title">
+                <span>最近查词</span>
+                <small>{{ explorerSuggestions.length }} 条推荐</small>
+              </div>
+              <button
+                v-for="(item, index) in explorerSuggestions"
+                :id="`explorer-suggestion-${index}`"
+                :key="item.word"
+                type="button"
+                role="option"
+                :aria-selected="index === explorerActiveSuggestion"
+                :class="{ active: index === explorerActiveSuggestion }"
+                @mouseenter="explorerActiveSuggestion = index"
+                @click="selectExplorerSuggestion(item.word)"
+              >
+                <span>{{ item.word }}</span>
+                <small v-if="item.viewCount > 1">{{ item.viewCount }} 次</small>
+              </button>
+            </div>
+          </div>
           <p v-if="explorerSearchError" class="explorer-search-error">{{ explorerSearchError }}</p>
           <ExplorerTree :key="`explorer-${progressRevisions.explorer}`" @select-word="handleExplorerSelectWord" />
         </div>
+        <ResizablePaneHandle
+          v-if="!isMobile && !desktopLayout.dictionary.leftCollapsed"
+          v-model="desktopLayout.dictionary.leftWidth"
+          :min="260"
+          :max="440"
+          :default-value="320"
+          label="调整词典索引宽度"
+        />
         <div v-show="!isMobile || dictionarySplitView || mobileDictionaryScreen === 'detail'" class="explorer-right">
           <header class="mobile-detail-bar">
             <button type="button" aria-label="返回词典索引" @click="closeMobileDictionaryDetail">‹</button>
             <div><small>DICTIONARY</small><strong>{{ explorerEntry?.word || '词条详情' }}</strong></div>
             <span aria-hidden="true">🔍</span>
           </header>
-          <h3>词条详情</h3>
-          <div v-if="dictionarySplitView && !explorerEntry" class="dictionary-empty-state">
+          <div class="explorer-panel-heading explorer-detail-heading">
+            <button
+              v-if="!isMobile && desktopLayout.dictionary.leftCollapsed"
+              type="button"
+              aria-label="展开词典索引"
+              title="展开词典索引"
+              @click="desktopLayout.dictionary.leftCollapsed = false"
+            >›</button>
+            <h3>词条详情</h3>
+          </div>
+          <div v-if="!explorerEntry" class="dictionary-empty-state">
             <span aria-hidden="true">⇥</span>
             <strong>从左侧选择单词</strong>
             <p>词义、发音和词形变化会在这里持续更新，无需离开词表。</p>
           </div>
-          <div class="word-detail" v-if="explorerEntry">
+          <div v-if="explorerEntry" class="dictionary-content-grid">
+          <div class="word-detail">
             <div
               :class="['word-title-row', { disabled: dictionaryRecording }]"
               role="button"
@@ -654,8 +934,8 @@ function openWordNet(word: string) {
             </div>
             <p class="word-pos" v-if="explorerEntry.pos">{{ explorerEntry.pos }}</p>
           </div>
+          <div class="dictionary-learning-column">
           <FollowReadPanel
-            v-if="explorerEntry"
             :key="explorerEntry.word"
             class="dictionary-follow"
             :target-text="explorerEntry.word"
@@ -666,11 +946,12 @@ function openWordNet(word: string) {
             @recording-change="dictionaryRecording = $event"
           />
           <MorphNebula
-            v-if="explorerEntry"
             :entry="explorerEntry"
             @select-word="handleExplorerSelectWord"
             @open-wordnet="openWordNet"
           />
+          </div>
+          </div>
         </div>
       </div>
     </div>
@@ -715,8 +996,10 @@ function openWordNet(word: string) {
       <SystemCourseView
         :key="`course-${progressRevisions.course}`"
         :active="activeTab === 'course'"
+        :desktop-layout="desktopLayout.course"
         @select-word="handleExtensionSelectWord"
         @immersive-change="handleImmersiveChange('course', $event)"
+        @update:desktop-layout="updateDesktopCourseLayout"
       />
     </div>
 
@@ -931,6 +1214,11 @@ function openWordNet(word: string) {
   padding: 1rem;
 }
 
+.desktop-sidebar,
+.desktop-workspace-bar {
+  display: none;
+}
+
 .app-header {
   text-align: center;
   margin-bottom: 1rem;
@@ -989,6 +1277,237 @@ function openWordNet(word: string) {
 
 .mobile-detail-bar {
   display: none;
+}
+
+@media (min-width: 768px) {
+  :global(html),
+  :global(body),
+  :global(#app) {
+    height: 100%;
+    overflow: hidden;
+  }
+
+  .app-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: none;
+    height: 100vh;
+    height: 100dvh;
+    margin: 0;
+    padding: 0 18px 18px 86px;
+    overflow: hidden;
+    transition: padding-left .2s ease;
+  }
+
+  .app-header,
+  .tab-nav {
+    display: none;
+  }
+
+  .desktop-sidebar {
+    position: fixed;
+    z-index: 700;
+    inset: 0 auto 0 0;
+    display: flex;
+    flex-direction: column;
+    width: 68px;
+    padding: 12px 8px;
+    border-right: 1px solid #dfe7ee;
+    background: #f8fafc;
+    box-shadow: 4px 0 22px rgb(15 23 42 / 4%);
+    color: #263544;
+    overflow: hidden;
+    transition: width .2s ease, box-shadow .2s ease;
+  }
+
+  .desktop-brand {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    min-height: 48px;
+    padding: 0 4px 12px;
+    border-bottom: 1px solid #e5ebf0;
+  }
+
+  .desktop-brand-mark {
+    display: grid;
+    place-items: center;
+    flex: 0 0 40px;
+    width: 40px;
+    height: 40px;
+    border-radius: 12px;
+    background: linear-gradient(145deg, #3498db, #2476b7);
+    color: #fff;
+    font-size: 1.1rem;
+    font-weight: 800;
+    box-shadow: 0 6px 14px rgb(52 152 219 / 22%);
+  }
+
+  .desktop-brand-copy,
+  .desktop-nav-copy {
+    min-width: 0;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+  .desktop-brand-copy {
+    display: grid;
+    flex: 1;
+  }
+
+  .desktop-brand-copy strong { font-size: 1rem; }
+  .desktop-brand-copy small { color: #8795a4; font-size: .66rem; }
+  .desktop-brand > button {
+    flex: none;
+    width: 28px;
+    height: 28px;
+    border: 1px solid #dce4eb;
+    border-radius: 8px;
+    background: #fff;
+    color: #64748b;
+    cursor: pointer;
+  }
+
+  .desktop-nav {
+    flex: 1;
+    min-height: 0;
+    overflow-y: auto;
+    padding: 8px 0;
+    scrollbar-width: thin;
+  }
+
+  .desktop-nav-group h2 {
+    height: 20px;
+    margin: 8px 10px 4px;
+    color: #94a3b8;
+    font-size: .62rem;
+    letter-spacing: .08em;
+    white-space: nowrap;
+    text-transform: uppercase;
+  }
+
+  .desktop-nav-group button,
+  .desktop-settings-link {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    min-height: 48px;
+    gap: 10px;
+    padding: 5px 8px;
+    border: 0;
+    border-radius: 12px;
+    background: transparent;
+    color: #526171;
+    font: inherit;
+    text-align: left;
+    cursor: pointer;
+  }
+
+  .desktop-nav-group button > span:first-child,
+  .desktop-settings-link > span:first-child {
+    display: grid;
+    place-items: center;
+    flex: 0 0 36px;
+    width: 36px;
+    height: 36px;
+    border-radius: 10px;
+    font-size: 1rem;
+  }
+
+  .desktop-nav-group button:hover,
+  .desktop-settings-link:hover { background: #eef3f7; color: #263544; }
+  .desktop-nav-group button.active,
+  .desktop-settings-link.active { background: #e8f3fb; color: #1d72aa; }
+  .desktop-nav-group button.active > span:first-child,
+  .desktop-settings-link.active > span:first-child { background: #fff; box-shadow: 0 2px 7px rgb(29 114 170 / 12%); }
+  .desktop-nav-copy { display: grid; gap: 1px; }
+  .desktop-nav-copy strong { font-size: .8rem; }
+  .desktop-nav-copy small { color: #8b99a7; font-size: .62rem; }
+  .desktop-settings-link { flex: none; margin-top: 6px; border-top: 1px solid #e5ebf0; border-radius: 0 0 12px 12px; }
+
+  .desktop-workspace-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex: 0 0 64px;
+    min-width: 0;
+    padding: 0 4px;
+    border-bottom: 1px solid #e6ebef;
+  }
+
+  .desktop-workspace-bar > div { display: grid; gap: 1px; }
+  .desktop-workspace-bar small { color: #3498db; font-size: .6rem; font-weight: 800; letter-spacing: .11em; }
+  .desktop-workspace-bar strong { color: #263544; font-size: 1.08rem; }
+  .desktop-workspace-bar > span { color: #84919e; font-size: .72rem; }
+
+  .tab-content {
+    flex: 1;
+    min-height: 0;
+    padding-top: 14px;
+    overflow: auto;
+    overscroll-behavior: contain;
+  }
+
+  .reader-tab-content,
+  .explorer-tab-content,
+  .course-tab-content {
+    overflow: hidden;
+  }
+
+  .explorer-tab-content {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .desktop-sidebar .desktop-brand-copy,
+  .desktop-sidebar .desktop-nav-copy,
+  .desktop-sidebar .desktop-nav-group h2 {
+    display: none;
+  }
+
+  .desktop-sidebar:not(.collapsed) {
+    width: 224px;
+    box-shadow: 8px 0 28px rgb(15 23 42 / 10%);
+  }
+
+  .desktop-sidebar:not(.collapsed) .desktop-brand-copy,
+  .desktop-sidebar:not(.collapsed) .desktop-nav-copy { display: grid; }
+  .desktop-sidebar:not(.collapsed) .desktop-nav-group h2 { display: block; }
+
+  .desktop-sidebar.collapsed .desktop-brand > button {
+    position: static;
+    display: grid;
+    place-items: center;
+    width: 32px;
+    height: 26px;
+    border-radius: 7px;
+    font-size: .8rem;
+    box-shadow: 0 1px 4px rgb(15 23 42 / 8%);
+  }
+
+  .desktop-sidebar.collapsed .desktop-brand {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    gap: 6px;
+    min-height: 84px;
+    padding: 0 0 10px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .app-container { padding-left: 242px; }
+  .app-container.desktop-sidebar-collapsed { padding-left: 86px; }
+  .desktop-sidebar { width: 224px; }
+  .desktop-sidebar.collapsed { width: 68px; }
+}
+
+@media (min-width: 768px) and (max-width: 1023.98px) {
+  .app-container:not(.desktop-sidebar-collapsed) {
+    padding-left: 242px;
+  }
 }
 
 @media (max-width: 767.98px) {
@@ -1312,19 +1831,26 @@ function openWordNet(word: string) {
 
 /* Explorer 布局 */
 .explorer-layout {
-  display: grid;
-  grid-template-columns: clamp(260px, 32%, 380px) minmax(0, 1fr);
-  gap: 1.5rem;
-  align-items: start;
+  display: flex;
+  align-items: stretch;
+  flex: 1;
+  min-height: 0;
+  gap: .55rem;
 }
 
 .explorer-left {
   display: flex;
   flex-direction: column;
   gap: 0.75rem;
-  height: min(860px, calc(100vh - 260px));
-  height: min(860px, calc(100dvh - 260px));
+  flex: 0 0 var(--explorer-left-width, 320px);
+  width: var(--explorer-left-width, 320px);
+  height: 100%;
   min-width: 0;
+  overflow: hidden;
+  padding: .8rem;
+  border: 1px solid #e3e9ee;
+  border-radius: 14px;
+  background: #fff;
 }
 
 .explorer-left h3,
@@ -1337,8 +1863,69 @@ function openWordNet(word: string) {
 .explorer-right {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  flex: 1;
+  gap: .75rem;
   min-width: 0;
+  height: 100%;
+  overflow-y: auto;
+  padding: .8rem;
+  border: 1px solid #e3e9ee;
+  border-radius: 14px;
+  background: #fff;
+  container-type: inline-size;
+  overscroll-behavior: contain;
+}
+
+.explorer-panel-heading {
+  position: sticky;
+  z-index: 4;
+  top: -.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex: none;
+  min-height: 42px;
+  margin: -.8rem -.8rem 0;
+  padding: .55rem .8rem;
+  border-bottom: 1px solid #edf0f3;
+  background: rgb(255 255 255 / 96%);
+  backdrop-filter: blur(8px);
+}
+
+.explorer-panel-heading > button {
+  display: grid;
+  place-items: center;
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  border: 1px solid #dce4eb;
+  border-radius: 8px;
+  background: #fff;
+  color: #64748b;
+  cursor: pointer;
+}
+
+.explorer-detail-heading {
+  justify-content: flex-start;
+  gap: .55rem;
+}
+
+.dictionary-content-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  align-items: start;
+  gap: .85rem;
+}
+
+.dictionary-learning-column {
+  display: grid;
+  align-content: start;
+  gap: .85rem;
+}
+
+.explorer-search {
+  position: relative;
+  z-index: 5;
 }
 
 .explorer-search-form {
@@ -1363,7 +1950,76 @@ function openWordNet(word: string) {
 .explorer-search-form button:disabled { opacity: .5; cursor: default; }
 .explorer-search-error { margin: -.35rem 0 0; color: #b84b4b; font-size: .72rem; }
 
+.explorer-suggestions {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  left: 0;
+  max-height: min(360px, 50dvh);
+  overflow-y: auto;
+  padding: .4rem;
+  border: 1px solid #dbe3eb;
+  border-radius: 12px;
+  background: rgb(255 255 255 / 98%);
+  box-shadow: 0 14px 32px rgb(15 23 42 / 16%);
+  overscroll-behavior: contain;
+}
+
+.explorer-suggestions-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 32px;
+  padding: 0 .55rem;
+  color: #64748b;
+  font-size: .72rem;
+  font-weight: 700;
+}
+
+.explorer-suggestions-title small {
+  color: #94a3b8;
+  font-size: .66rem;
+  font-weight: 500;
+}
+
+.explorer-suggestions > button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  min-height: 42px;
+  padding: 0 .65rem;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  color: #243447;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.explorer-suggestions > button:hover,
+.explorer-suggestions > button.active {
+  background: #eef7fd;
+  color: #1976b9;
+}
+
+.explorer-suggestions > button span {
+  overflow: hidden;
+  font-weight: 650;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.explorer-suggestions > button small {
+  flex: none;
+  margin-left: .75rem;
+  color: #94a3b8;
+  font-size: .68rem;
+}
+
 .word-detail {
+  min-width: 0;
   padding: 1rem;
   border: 1px solid #eee;
   border-radius: 8px;
@@ -1394,6 +2050,9 @@ function openWordNet(word: string) {
 }
 
 .word-title-row {
+  position: sticky;
+  z-index: 3;
+  top: 38px;
   display: flex;
   align-items: baseline;
   gap: 0.4rem;
@@ -1402,6 +2061,13 @@ function openWordNet(word: string) {
   border-radius: 6px;
   cursor: pointer;
   transition: background 0.15s;
+  background: #fafafa;
+}
+
+@container (min-width: 820px) {
+  .dictionary-content-grid {
+    grid-template-columns: minmax(0, 1.25fr) minmax(300px, .75fr);
+  }
 }
 
 .word-title-row:hover,
@@ -1831,6 +2497,49 @@ function openWordNet(word: string) {
 }
 
 @media (max-width: 767.98px) {
+  .explorer-layout {
+    display: grid;
+    height: auto;
+  }
+
+  .explorer-left {
+    flex-basis: auto;
+    width: 100%;
+    height: auto;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    overflow: visible;
+  }
+
+  .explorer-right {
+    height: auto;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    overflow: visible;
+  }
+
+  .explorer-panel-heading {
+    position: static;
+    min-height: auto;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    backdrop-filter: none;
+  }
+
+  .explorer-panel-heading > button { display: none; }
+  .mobile-detail-open .explorer-detail-heading { display: none; }
+  .mobile-detail-open .explorer-right {
+    min-height: 100dvh;
+    padding: 0 .8rem 1.25rem;
+  }
+  .word-title-row { position: static; }
+
   .settings-layout { gap: .75rem; }
   .settings-section {
     padding: 1rem;
@@ -1917,6 +2626,14 @@ function openWordNet(word: string) {
   .dictionary-empty-state > span { color: #3498db; font-size: 2rem; }
   .dictionary-empty-state strong { margin-top: .5rem; color: #334155; }
   .dictionary-empty-state p { max-width: 260px; margin: .4rem 0 0; font-size: .78rem; line-height: 1.55; }
+}
+
+@media (min-width: 768px) and (max-width: 899.98px) {
+  .explorer-left {
+    flex-basis: min(var(--explorer-left-width, 320px), 300px);
+    width: min(var(--explorer-left-width, 320px), 300px);
+  }
+  .desktop-workspace-bar > span { display: none; }
 }
 
 </style>

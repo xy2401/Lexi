@@ -16,10 +16,32 @@ page.on('console', msg => { if (msg.type() === 'error') consoleErrors.push(msg.t
 page.on('pageerror', err => consoleErrors.push(String(err)))
 
 await page.goto('http://localhost:3000/', { waitUntil: 'networkidle' })
-await page.click('button.tab-btn:has-text("系统课程")')
+const expandedSidebarWidth = await page.locator('.desktop-sidebar').evaluate(el => el.getBoundingClientRect().width)
+assert.equal(Math.round(expandedSidebarWidth), 224, '1440px: PC 侧栏默认应展开')
+await page.getByRole('button', { name: '折叠侧栏' }).click()
+await page.waitForTimeout(250)
+assert.equal(Math.round(await page.locator('.desktop-sidebar').evaluate(el => el.getBoundingClientRect().width)), 68, 'PC 侧栏应可折叠')
+await page.getByRole('button', { name: '展开侧栏' }).click()
+await page.waitForTimeout(250)
+
+await page.locator('.desktop-nav button').filter({ hasText: '系统课程' }).click()
 await page.waitForSelector('.unit-card:visible', { timeout: 15000 })
 await page.waitForTimeout(300)
 await page.screenshot({ path: `${SHOT_DIR}/01-desktop-course-list.png` })
+
+const courseLibraryBefore = await page.locator('.duo-menu-sidebar').evaluate(el => el.getBoundingClientRect().width)
+const courseResizer = page.getByRole('separator', { name: '调整课程列表宽度' })
+const courseResizerBox = await courseResizer.boundingBox()
+if (courseResizerBox) {
+  await page.mouse.move(courseResizerBox.x + courseResizerBox.width / 2, courseResizerBox.y + 100)
+  await page.mouse.down()
+  await page.mouse.move(courseResizerBox.x + 40, courseResizerBox.y + 100)
+  await page.mouse.up()
+}
+const courseLibraryAfter = await page.locator('.duo-menu-sidebar').evaluate(el => el.getBoundingClientRect().width)
+assert.ok(courseLibraryAfter > courseLibraryBefore, '课程列表拖动后应变宽')
+assert.equal(await page.locator('.toc-sidebar:visible').count(), 1, '1440px: 课程目录应显示')
+assert.equal(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth), false, '1440px: 页面不应水平溢出')
 
 const groups = await page.$$eval('.group-header', els => els.map(e => e.textContent?.trim()))
 console.log('分组:', groups.join(' | '))
@@ -171,6 +193,32 @@ async function verifyMobile(width, height, label) {
 
 await verifyMobile(390, 844, '390x844')
 await verifyMobile(360, 800, '360x800')
+
+async function verifyDesktopViewport(width, height) {
+  const desktop = await browser.newPage({ viewport: { width, height } })
+  await desktop.goto('http://localhost:3000/', { waitUntil: 'networkidle' })
+  await desktop.waitForSelector('.desktop-sidebar:visible')
+  const metrics = await desktop.evaluate(() => ({
+    sidebarWidth: document.querySelector('.desktop-sidebar')?.getBoundingClientRect().width,
+    workspaceHeight: document.querySelector('.tab-content:not([style*="display: none"])')?.getBoundingClientRect().height,
+    mobileNavVisible: (() => {
+      const element = document.querySelector('.mobile-tab-bar')
+      return !!element && getComputedStyle(element).display !== 'none'
+    })(),
+    horizontalOverflow: document.documentElement.scrollWidth > innerWidth,
+    bodyOverflow: getComputedStyle(document.body).overflow,
+  }))
+  assert.equal(Math.round(metrics.sidebarWidth), 224, `${width}x${height}: PC 侧栏默认展开`)
+  assert.ok(metrics.workspaceHeight > height * .75, `${width}x${height}: 工作区应占据主要高度`)
+  assert.equal(metrics.mobileNavVisible, false, `${width}x${height}: 不应显示移动底栏`)
+  assert.equal(metrics.horizontalOverflow, false, `${width}x${height}: 页面不应水平溢出`)
+  assert.equal(metrics.bodyOverflow, 'hidden', `${width}x${height}: 页面主体不应产生双滚动`)
+  await desktop.close()
+}
+
+await verifyDesktopViewport(1920, 1080)
+await verifyDesktopViewport(1280, 800)
+await verifyDesktopViewport(1024, 768)
 
 await browser.close()
 console.log('---')

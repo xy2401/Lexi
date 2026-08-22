@@ -254,14 +254,11 @@ function buttonLabel(tag: DictionaryTagId, label: string): string {
   }
 
   .tag-buttons-group {
-    flex-wrap: nowrap;
-    overflow-x: auto;
+    flex-wrap: wrap;
+    overflow-x: visible;
     gap: .45rem;
     padding-bottom: 2px;
-    scrollbar-width: none;
   }
-
-  .tag-buttons-group::-webkit-scrollbar { display: none; }
 
   .tag-btn,
   .reset-btn {
@@ -270,6 +267,10 @@ function buttonLabel(tag: DictionaryTagId, label: string): string {
     flex: none;
     padding-inline: .7rem;
     border-radius: 999px;
+  }
+
+  .reset-btn {
+    margin-left: 0;
   }
 }
 </style>

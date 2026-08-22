@@ -37,6 +37,7 @@ const emit = defineEmits<{
   'word-click': [payload: { word: string; x: number; y: number }]
   'recording-change': [recording: boolean]
   'immersive-change': [active: boolean]
+  'desktop-focus-change': [active: boolean]
 }>()
 
 const isMobile = useIsMobile()
@@ -394,7 +395,7 @@ async function openBook(book: LibraryBook): Promise<void> {
       if (window.history.state?.[READER_HISTORY_KEY] !== 'reader') {
         window.history.pushState({ ...(window.history.state || {}), [READER_HISTORY_KEY]: 'reader' }, '')
       }
-    }
+    } else emit('desktop-focus-change', true)
     currentProgress.value = progress
     const savedIndex = Math.max(0, bookPackage.toc.findIndex(item => item.href === progress.chapterHref))
     await loadChapterAt(savedIndex, true)
@@ -416,6 +417,7 @@ function closeReader(clearHistory = true): void {
   tocOpen.value = false
   readerSettingsOpen.value = false
   emit('immersive-change', false)
+  emit('desktop-focus-change', false)
   if (clearHistory && window.history.state?.[READER_HISTORY_KEY] === 'reader') {
     const state: Record<string, unknown> = { ...(window.history.state || {}) }
     delete state[READER_HISTORY_KEY]
@@ -505,9 +507,11 @@ watch(() => props.active, active => {
   if (!active) {
     stopReadingTimer()
     emit('immersive-change', false)
+    emit('desktop-focus-change', false)
   } else if (currentBook.value) {
     startReadingTimer()
     if (isMobile.value) emit('immersive-change', true)
+    else emit('desktop-focus-change', true)
   }
 })
 
@@ -719,6 +723,48 @@ onBeforeUnmount(() => {
 .book-detail-backdrop { position: fixed; z-index: 950; inset: 0; display: grid; place-items: center; padding: 1rem; background: #17212bcc; }.book-detail-card { position: relative; display: grid; grid-template-columns: 220px minmax(0,1fr); gap: 1.4rem; width: min(820px, 96vw); max-height: 88vh; overflow: auto; padding: 1.4rem; border-radius: 12px; background: #fff; }.detail-close { position: absolute; top: .6rem; right: .65rem; border: 0; background: transparent; font-size: 1.4rem; cursor: pointer; }.detail-cover { aspect-ratio: 2/3; overflow: hidden; display: flex; align-items: center; justify-content: center; padding: 1rem; border-radius: 8px; background: #e8edf1; text-align: center; }.detail-cover img { width: 100%; height: 100%; object-fit: cover; }.detail-copy h2 { margin: .45rem 0 .2rem; }.detail-author, .muted { color: #7b8997; }.detail-description { line-height: 1.65; }.detail-subjects { display: flex; flex-wrap: wrap; gap: .3rem; }.detail-subjects span { padding: .14rem .36rem; border-radius: 4px; background: #fef9e7; color: #a56d0b; font-size: .65rem; }.detail-copy dl { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: .5rem; }.detail-copy dl div { padding: .45rem; border-radius: 6px; background: #f6f8fa; }.detail-copy dt { color: #8793a0; font-size: .65rem; }.detail-copy dd { margin: .12rem 0 0; font-size: .75rem; }.detail-actions { display: flex; align-items: center; gap: .5rem; margin-top: 1rem; }.detail-actions button, .detail-actions a { padding: .44rem .7rem; border: 1px solid #d8e0e7; border-radius: 6px; background: #fff; color: #526171; text-decoration: none; cursor: pointer; font-size: .75rem; }.detail-actions .primary { border-color: #3498db; background: #3498db; color: #fff; }
 .book-reader-header { position: relative; padding: .55rem .65rem; border: 1px solid #dde4e9; border-radius: 9px 9px 0 0; background: #fff; }.reader-tool { padding: .36rem .55rem; border-color: #dce3e8; background: #fff; }.reader-tool[aria-pressed="true"] { border-color: #7eb6dc; background: #eef7fd; color: #2476b7; }.reader-tool.back { color: #2476b7; }.reader-book-title { min-width: 180px; flex: 1; display: grid; }.reader-book-title strong { font-size: .84rem; }.reader-book-title span { color: #84919e; font-size: .66rem; }.reader-progress-summary { display: grid; gap: .12rem; width: 100px; color: #607182; font-size: .64rem; }.reader-progress-summary div { height: 4px; overflow: hidden; border-radius: 2px; background: #e8edf1; }.reader-progress-summary i { display: block; height: 100%; background: #3498db; }.reader-toolbar { display: flex; gap: .35rem; }.reader-annotation-bar { margin: .5rem 0; }
 .book-reader-shell { position: relative; height: calc(100vh - 230px); min-height: 520px; border: 1px solid #dde4e9; border-top: 0; background: #f5f0e7; }.book-reader-shell[data-theme="light"] { background: #f5f7f9; }.book-reader-shell[data-theme="dark"] { background: #17212b; }.reader-toc, .reader-settings-drawer { position: absolute; z-index: 5; top: 0; bottom: 0; width: min(320px, 85vw); overflow: auto; padding: .55rem; background: #fff; box-shadow: 5px 0 18px #1f29372b; }.reader-toc { left: 0; }.reader-settings-drawer { right: 0; box-shadow: -5px 0 18px #1f29372b; }.drawer-head { display: flex; align-items: center; justify-content: space-between; padding: .3rem .35rem .55rem; }.drawer-head button { border: 0; background: transparent; font-size: 1.2rem; cursor: pointer; }.toc-item { width: 100%; padding: .38rem .5rem; border: 0; border-radius: 4px; background: transparent; color: #526171; cursor: pointer; font-size: .72rem; text-align: left; }.toc-item:hover, .toc-item.active { background: #edf6fc; color: #2476b7; }.reader-settings-drawer label { display: grid; gap: .28rem; margin: .75rem .35rem; color: #596a79; font-size: .72rem; }.reader-settings-drawer select { padding: .36rem; border: 1px solid #dce3e8; border-radius: 5px; }.reader-toggle-setting { padding-top: .7rem; border-top: 1px solid #e7ebee; }.reader-toggle-setting span { display: flex; align-items: center; gap: .35rem; font-weight: 600; }.reader-toggle-setting small { color: #8a97a4; font-size: .62rem; line-height: 1.45; }.book-reader-scroll { height: 100%; overflow: auto; outline: none; }.book-reader-page { min-height: calc(100% - 3rem); margin: 1.5rem auto; padding: clamp(1.25rem,4vw,3.5rem); background: #fffdf8; color: #292f34; box-shadow: 0 4px 20px #442f1812; box-sizing: border-box; }.book-reader-page[data-font="serif"] { font-family: Georgia, 'Times New Roman', serif; }.book-reader-page[data-font="sans"] { font-family: Arial, sans-serif; }.book-reader-shell[data-theme="dark"] .book-reader-page { background: #202b35; color: #e5e9ed; }.chapter-nav { display: flex; align-items: center; justify-content: space-between; gap: .7rem; margin-top: 2rem; padding-top: 1rem; border-top: 1px solid #dfe3e5; }.chapter-nav button { padding: .4rem .65rem; border: 1px solid #d4dce2; border-radius: 5px; background: transparent; color: inherit; cursor: pointer; }.chapter-nav button:disabled { opacity: .4; cursor: default; }.chapter-nav span { color: #85919d; font-size: .7rem; }
+@media (min-width: 768px) {
+  .reader-workspace {
+    height: 100%;
+    min-height: 0;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+
+  .reader-workspace.is-reading {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .book-reader-header,
+  .reader-annotation-bar { flex: none; }
+
+  .book-reader-shell {
+    flex: 1;
+    height: auto;
+    min-height: 0;
+  }
+
+  .book-detail-card {
+    width: min(880px, calc(100vw - 3rem));
+    max-height: min(760px, calc(100dvh - 3rem));
+  }
+
+  .detail-copy {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+
+  .detail-actions {
+    position: sticky;
+    bottom: -1.4rem;
+    margin-top: auto;
+    padding: 1rem 0 1.4rem;
+    background: linear-gradient(transparent, #fff 24%);
+  }
+}
 @media (max-width: 767.98px) {
   .reader-workspace {
     min-height: calc(100dvh - var(--mobile-appbar-h) - var(--tabbar-h) - 1.5rem);

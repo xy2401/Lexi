@@ -11,7 +11,9 @@ import { marked } from 'marked'
 import DOMPurify from 'dompurify'
 import mermaid from 'mermaid'
 import { getProgressSetting, setProgressSetting } from '../lib/progress-db'
-import { useIsMobile } from '../composables/useMediaQuery'
+import { useIsMobile, useMediaQuery } from '../composables/useMediaQuery'
+import ResizablePaneHandle from './ResizablePaneHandle.vue'
+import { DEFAULT_DESKTOP_LAYOUT, type CourseDesktopLayout } from '../lib/desktop-layout'
 
 export interface SystemCourseItem {
   id: number
@@ -45,16 +47,20 @@ interface CourseViewSetting {
 
 const props = withDefaults(defineProps<{
   active?: boolean
+  desktopLayout?: CourseDesktopLayout
 }>(), {
   active: true,
+  desktopLayout: () => ({ ...DEFAULT_DESKTOP_LAYOUT.course }),
 })
 
 const emit = defineEmits<{
   'select-word': [word: string]
   'immersive-change': [active: boolean]
+  'update:desktop-layout': [layout: CourseDesktopLayout]
 }>()
 
 const isMobile = useIsMobile()
+const isWideCourseDesktop = useMediaQuery('(min-width: 1180px)')
 const courses = ref<SystemCourseItem[]>([])
 const loading = ref(true)
 const manifestError = ref('')
@@ -70,6 +76,7 @@ const tocTriggerRef = ref<HTMLButtonElement | null>(null)
 const tocCloseRef = ref<HTMLButtonElement | null>(null)
 const mobileScreen = ref<'library' | 'reader'>('library')
 const tocSheetOpen = ref(false)
+const desktopTocDrawerOpen = ref(false)
 const lastCourseId = ref<number>()
 const readingPositions = ref<Record<string, CourseReadingPosition>>({})
 let persistTimer: ReturnType<typeof setTimeout> | undefined
@@ -95,6 +102,26 @@ const nextCourse = computed(() =>
     ? courses.value[selectedCourseIndex.value + 1]
     : null,
 )
+const showDesktopToc = computed(() =>
+  !!selectedCourse.value && tocItems.value.length > 0 && (
+    isWideCourseDesktop.value ? !props.desktopLayout.tocCollapsed : desktopTocDrawerOpen.value
+  ),
+)
+
+function updateDesktopLayout(patch: Partial<CourseDesktopLayout>) {
+  emit('update:desktop-layout', { ...props.desktopLayout, ...patch })
+}
+
+function toggleDesktopToc() {
+  if (isWideCourseDesktop.value) {
+    updateDesktopLayout({ tocCollapsed: !props.desktopLayout.tocCollapsed })
+  } else desktopTocDrawerOpen.value = !desktopTocDrawerOpen.value
+}
+
+function selectDesktopToc(id: string) {
+  scrollToHeading(id)
+  if (!isWideCourseDesktop.value) desktopTocDrawerOpen.value = false
+}
 
 // 过滤课程
 const filteredCourses = computed(() => {
@@ -445,8 +472,13 @@ watch([searchQuery, selectedTag], () => {
   void persistView()
 })
 
+watch(isWideCourseDesktop, wide => {
+  if (wide) desktopTocDrawerOpen.value = false
+})
+
 watch(() => props.active, active => {
   if (!active) {
+    desktopTocDrawerOpen.value = false
     leaveMobileReader(true)
     return
   }
@@ -659,13 +691,26 @@ function handleContentClick(event: MouseEvent) {
 </script>
 
 <template>
-  <div :class="['system-course-layout', { 'is-mobile-reader': isMobile && mobileScreen === 'reader' }]">
+  <div
+    :class="['system-course-layout', {
+      'is-mobile-reader': isMobile && mobileScreen === 'reader',
+      'desktop-library-collapsed': !isMobile && desktopLayout.libraryCollapsed,
+      'desktop-toc-collapsed': !isMobile && desktopLayout.tocCollapsed,
+    }]"
+    :style="{
+      '--course-library-width': `${desktopLayout.libraryWidth}px`,
+      '--course-toc-width': `${desktopLayout.tocWidth}px`,
+    }"
+  >
     <template v-if="!isMobile">
-      <aside class="duo-menu-sidebar">
+      <aside v-if="!desktopLayout.libraryCollapsed" class="duo-menu-sidebar">
         <div class="duo-menu-header">
-          <div class="duo-stats" v-if="!loading">
-            <span class="stat">{{ courses.length }} 课程</span>
-            <span class="stat">{{ totalWords }} 词</span>
+          <div class="desktop-course-side-head">
+            <div class="duo-stats" v-if="!loading">
+              <span class="stat">{{ courses.length }} 课程</span>
+              <span class="stat">{{ totalWords }} 词</span>
+            </div>
+            <button type="button" aria-label="折叠课程列表" title="折叠课程列表" @click="updateDesktopLayout({ libraryCollapsed: true })">‹</button>
           </div>
           <input v-model="searchQuery" type="search" placeholder="搜索课程或单词..." class="duo-search" />
         </div>
@@ -696,14 +741,46 @@ function handleContentClick(event: MouseEvent) {
         </div>
       </aside>
 
+      <ResizablePaneHandle
+        v-if="!desktopLayout.libraryCollapsed"
+        :model-value="desktopLayout.libraryWidth"
+        :min="240"
+        :max="420"
+        :default-value="300"
+        label="调整课程列表宽度"
+        @update:model-value="updateDesktopLayout({ libraryWidth: $event })"
+      />
+
       <main class="course-main-content">
         <template v-if="selectedCourse">
           <header class="main-header">
-            <div class="header-badge-row">
-              <span class="lesson-badge">Lesson {{ selectedCourse.id }}</span>
-              <span class="tag-badge">{{ selectedCourse.tag }}</span>
+            <div class="desktop-course-title-row">
+              <div>
+                <div class="header-badge-row">
+                  <span class="lesson-badge">Lesson {{ selectedCourse.id }}</span>
+                  <span class="tag-badge">{{ selectedCourse.tag }}</span>
+                  <span class="desktop-course-progress">{{ selectedCourseIndex + 1 }} / {{ courses.length }}</span>
+                </div>
+                <h2>{{ selectedCourse.title }}</h2>
+              </div>
+              <div class="desktop-course-actions">
+                <button
+                  v-if="desktopLayout.libraryCollapsed"
+                  type="button"
+                  aria-label="展开课程列表"
+                  title="展开课程列表"
+                  @click="updateDesktopLayout({ libraryCollapsed: false })"
+                >☰ 课程</button>
+                <button type="button" :disabled="!previousCourse" @click="openAdjacentCourse(previousCourse)">← 上一课</button>
+                <button type="button" :disabled="!nextCourse" @click="openAdjacentCourse(nextCourse)">下一课 →</button>
+                <button
+                  v-if="tocItems.length"
+                  type="button"
+                  :aria-expanded="showDesktopToc"
+                  @click="toggleDesktopToc"
+                >📑 目录</button>
+              </div>
             </div>
-            <h2>{{ selectedCourse.title }}</h2>
           </header>
           <div v-if="markdownLoading" class="content-loading">
             <div class="spinner"></div><span>正在加载讲义正文...</span>
@@ -725,14 +802,34 @@ function handleContentClick(event: MouseEvent) {
         </div>
       </main>
 
-      <aside class="toc-sidebar" v-if="selectedCourse && tocItems.length">
-        <div class="toc-header"><h4>📑 目录大纲</h4><span class="toc-count">{{ tocItems.length }} 节</span></div>
+      <ResizablePaneHandle
+        v-if="isWideCourseDesktop && showDesktopToc"
+        :model-value="desktopLayout.tocWidth"
+        :min="210"
+        :max="360"
+        :default-value="260"
+        side="right"
+        label="调整课程目录宽度"
+        @update:model-value="updateDesktopLayout({ tocWidth: $event })"
+      />
+
+      <div v-if="!isWideCourseDesktop && desktopTocDrawerOpen" class="desktop-course-toc-mask" @click="desktopTocDrawerOpen = false"></div>
+      <aside v-if="showDesktopToc" :class="['toc-sidebar', { 'is-desktop-drawer': !isWideCourseDesktop }]">
+        <div class="toc-header">
+          <h4>📑 目录大纲</h4>
+          <span class="toc-count">{{ tocItems.length }} 节</span>
+          <button
+            type="button"
+            aria-label="关闭课程目录"
+            @click="isWideCourseDesktop ? updateDesktopLayout({ tocCollapsed: true }) : (desktopTocDrawerOpen = false)"
+          >×</button>
+        </div>
         <nav class="toc-nav">
           <button
             v-for="item in tocItems"
             :key="item.id"
             :class="['toc-item', `level-${item.level}`, { active: activeTocId === item.id }]"
-            @click="scrollToHeading(item.id)"
+            @click="selectDesktopToc(item.id)"
           ><span class="toc-text">{{ item.text }}</span></button>
         </nav>
       </aside>
@@ -878,21 +975,32 @@ function handleContentClick(event: MouseEvent) {
 
 <style scoped>
 .system-course-layout {
-  display: grid;
-  grid-template-columns: 320px minmax(0, 1fr) 240px;
-  gap: 1rem;
-  height: calc(100vh - 165px);
-  height: calc(100dvh - 165px);
-  min-height: 560px;
+  position: relative;
+  display: flex;
+  gap: .55rem;
+  width: 100%;
+  height: 100%;
+  min-height: 0;
   align-items: stretch;
+  overflow: hidden;
 }
 
-@media (max-width: 1024px) {
-  .system-course-layout {
-    grid-template-columns: 280px minmax(0, 1fr);
+@media (min-width: 768px) and (max-width: 1179.98px) {
+  .desktop-course-toc-mask {
+    position: absolute;
+    z-index: 39;
+    inset: 0;
+    background: rgb(15 23 42 / 24%);
   }
-  .toc-sidebar {
-    display: none;
+
+  .toc-sidebar.is-desktop-drawer {
+    position: absolute;
+    z-index: 40;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: min(var(--course-toc-width, 260px), 80%);
+    box-shadow: -12px 0 30px rgb(15 23 42 / 18%);
   }
 }
 
@@ -926,6 +1034,8 @@ function handleContentClick(event: MouseEvent) {
   height: 100%;
   overflow: hidden;
   box-sizing: border-box;
+  flex: 0 0 var(--course-library-width, 300px);
+  width: var(--course-library-width, 300px);
 }
 
 .duo-menu-header {
@@ -1020,6 +1130,28 @@ function handleContentClick(event: MouseEvent) {
   text-align: left;
 }
 
+.desktop-course-side-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: .5rem;
+}
+
+.desktop-course-side-head > button,
+.toc-header > button {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border: 1px solid #dce4eb;
+  border-radius: 8px;
+  background: #fff;
+  color: #64748b;
+  cursor: pointer;
+}
+
 .unit-card:hover {
   border-color: #3498db;
   background: #f4f9fd;
@@ -1087,13 +1219,57 @@ function handleContentClick(event: MouseEvent) {
   overflow: hidden;
   height: 100%;
   min-width: 0;
+  flex: 1;
 }
 
 .main-header {
   padding: 1.1rem 1.5rem;
   border-bottom: 1px solid #eee;
   background: #fafbfc;
+  flex: none;
 }
+
+.desktop-course-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.desktop-course-title-row > div:first-child { min-width: 0; }
+.desktop-course-title-row h2 {
+  overflow: hidden;
+  margin: 0;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.desktop-course-progress {
+  color: #7b8997;
+  font-size: .7rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.desktop-course-actions {
+  display: flex;
+  align-items: center;
+  flex: none;
+  gap: .35rem;
+}
+
+.desktop-course-actions button {
+  min-height: 34px;
+  padding: .35rem .55rem;
+  border: 1px solid #d9e1e8;
+  border-radius: 7px;
+  background: #fff;
+  color: #526171;
+  cursor: pointer;
+  font-size: .7rem;
+}
+
+.desktop-course-actions button:hover:not(:disabled) { border-color: #7eb6dc; color: #2476b7; }
+.desktop-course-actions button:disabled { opacity: .4; cursor: default; }
 
 .header-badge-row {
   display: flex;
@@ -1323,6 +1499,8 @@ function handleContentClick(event: MouseEvent) {
   height: 100%;
   overflow: hidden;
   box-sizing: border-box;
+  flex: 0 0 var(--course-toc-width, 260px);
+  width: var(--course-toc-width, 260px);
 }
 
 .toc-header {
@@ -1333,6 +1511,7 @@ function handleContentClick(event: MouseEvent) {
   margin-bottom: 0.4rem;
   border-bottom: 1px solid #edf2f7;
   padding-right: 0.25rem;
+  gap: .35rem;
 }
 
 .toc-header h4 {
@@ -2297,5 +2476,20 @@ function handleContentClick(event: MouseEvent) {
     padding: 0.75rem;
     border-radius: 12px;
   }
+}
+
+@media (min-width: 768px) and (max-width: 899.98px) {
+  .duo-menu-sidebar {
+    flex-basis: min(var(--course-library-width, 300px), 280px);
+    width: min(var(--course-library-width, 300px), 280px);
+  }
+
+  .main-header { padding: .8rem; }
+  .desktop-course-title-row {
+    align-items: stretch;
+    flex-direction: column;
+    gap: .55rem;
+  }
+  .desktop-course-actions { flex-wrap: wrap; }
 }
 </style>
