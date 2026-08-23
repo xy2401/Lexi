@@ -34,7 +34,7 @@ import {
 
 const props = withDefaults(defineProps<{ active?: boolean }>(), { active: true })
 const emit = defineEmits<{
-  'word-click': [payload: { word: string; x: number; y: number }]
+  'word-click': [payload: { word: string; x: number; y: number; trigger: HTMLElement }]
   'recording-change': [recording: boolean]
   'immersive-change': [active: boolean]
   'desktop-focus-change': [active: boolean]

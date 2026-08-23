@@ -31,7 +31,7 @@ const props = withDefaults(defineProps<{
 })
 
 const emit = defineEmits<{
-  'word-click': [payload: { word: string; x: number; y: number }]
+  'word-click': [payload: { word: string; x: number; y: number; trigger: HTMLElement }]
   'recording-change': [recording: boolean]
   'link-click': [href: string]
 }>()
@@ -109,10 +109,12 @@ function handleClick(e: MouseEvent) {
   const wordEl = target.closest('[data-word]') as HTMLElement | null
   if (wordEl) {
     const word = wordEl.dataset.word!
+    if (!wordEl.hasAttribute('tabindex')) wordEl.tabIndex = -1
     emit('word-click', {
       word,
       x: e.clientX,
       y: e.clientY,
+      trigger: wordEl,
     })
   }
 }

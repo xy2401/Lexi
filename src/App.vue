@@ -21,6 +21,7 @@ import LemmaView from './components/LemmaView.vue'
 import WordNetView from './components/WordNetView.vue'
 import SystemCourseView from './components/SystemCourseView.vue'
 import ResizablePaneHandle from './components/ResizablePaneHandle.vue'
+import MobileMoreSheet from './components/MobileMoreSheet.vue'
 import { useTTS } from './composables/useTTS'
 import { useIsMobile, useMediaQuery } from './composables/useMediaQuery'
 import type { WordEntry } from './lib/db'
@@ -360,6 +361,7 @@ const MOBILE_MORE_TABS = [
 ] as const satisfies ReadonlyArray<{ id: AppTabId; icon: string; label: string }>
 
 const moreSheetOpen = ref(false)
+const moreTabTrigger = ref<HTMLElement | null>(null)
 const isMoreTabActive = computed(() => MOBILE_MORE_TABS.some(tab => tab.id === activeTab.value))
 const dictionarySplitView = useMediaQuery('(min-width: 600px) and (max-width: 767.98px)')
 const immersiveTab = ref<AppTabId | null>(null)
@@ -434,6 +436,10 @@ function selectMobileTab(id: AppTabId) {
   else activeTab.value = id
 }
 
+function closeMoreSheet() {
+  moreSheetOpen.value = false
+}
+
 async function handleProgressCleared(area: LearningProgressArea | 'all'): Promise<void> {
   const areas = area === 'all' ? LEARNING_PROGRESS_AREAS : [area]
   for (const item of areas) progressRevisions.value[item]++
@@ -453,6 +459,7 @@ const tooltipData = ref<WordEntry | null>(null)
 const tooltipPos = ref({ x: 0, y: 0 })
 const tooltipLoading = ref(false)
 const readerRecording = ref(false)
+const tooltipReturnFocus = ref<HTMLElement | null>(null)
 
 // ========== Explorer 模块 ==========
 const explorerWord = ref('')
@@ -528,8 +535,9 @@ async function refreshExplorerHistory(): Promise<void> {
 }
 
 // ========== Reader / Extension 事件 ==========
-async function handleWordClick(payload: { word: string; x: number; y: number }) {
+async function handleWordClick(payload: { word: string; x: number; y: number; trigger: HTMLElement }) {
   void recordDictionaryLookup(payload.word)
+  tooltipReturnFocus.value = payload.trigger
   tooltipWord.value = payload.word
   tooltipPos.value = { x: payload.x, y: payload.y }
   showTooltip.value = true
@@ -551,6 +559,9 @@ async function handleExtensionSelectWord(word: string) {
   }
 
   void recordDictionaryLookup(word)
+  tooltipReturnFocus.value = document.activeElement instanceof HTMLElement
+    ? document.activeElement
+    : null
   tooltipWord.value = word
   tooltipPos.value = { x: window.innerWidth / 2 - 190, y: 120 }
   showTooltip.value = true
@@ -1155,6 +1166,7 @@ function openWordNet(word: string) {
       :data="tooltipData"
       :position="tooltipPos"
       :loading="tooltipLoading"
+      :return-focus="tooltipReturnFocus"
       @close="closeTooltip"
       @speak="handleTooltipSpeak"
     />
@@ -1173,9 +1185,11 @@ function openWordNet(word: string) {
         <span class="mobile-tab-label">{{ tab.label }}</span>
       </button>
       <button
+        ref="moreTabTrigger"
         type="button"
         :class="['mobile-tab-item', { active: isMoreTabActive || moreSheetOpen }]"
         aria-haspopup="dialog"
+        aria-controls="mobile-more-sheet"
         :aria-expanded="moreSheetOpen"
         @click="moreSheetOpen = true"
       >
@@ -1185,25 +1199,15 @@ function openWordNet(word: string) {
     </nav>
 
     <!-- 「更多」模块 Sheet -->
-    <Teleport to="body">
-      <Transition name="sheet">
-        <div v-if="moreSheetOpen" class="more-sheet-mask" @click.self="moreSheetOpen = false">
-          <div class="more-sheet" role="dialog" aria-modal="true" aria-label="更多模块">
-            <div class="more-sheet-handle" aria-hidden="true"></div>
-            <button
-              v-for="tab in MOBILE_MORE_TABS"
-              :key="tab.id"
-              type="button"
-              :class="['more-sheet-item', { active: activeTab === tab.id }]"
-              @click="selectMobileTab(tab.id)"
-            >
-              <span class="more-sheet-icon" aria-hidden="true">{{ tab.icon }}</span>
-              <span>{{ tab.label }}</span>
-            </button>
-          </div>
-        </div>
-      </Transition>
-    </Teleport>
+    <MobileMoreSheet
+      :open="moreSheetOpen"
+      :mobile="isMobile"
+      :active-id="activeTab"
+      :items="MOBILE_MORE_TABS"
+      :return-focus="moreTabTrigger"
+      @close="closeMoreSheet"
+      @select="selectMobileTab"
+    />
   </div>
 </template>
 
@@ -1643,59 +1647,6 @@ function openWordNet(word: string) {
     font-weight: 600;
   }
 
-  .more-sheet-mask {
-    position: fixed;
-    inset: 0;
-    z-index: 950;
-    background: rgba(15, 23, 42, 0.45);
-    display: flex;
-    align-items: flex-end;
-  }
-
-  .more-sheet {
-    width: 100%;
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 0.5rem;
-    padding: 0.6rem 1rem calc(1rem + env(safe-area-inset-bottom, 0px));
-    background: #fff;
-    border-radius: 16px 16px 0 0;
-  }
-
-  .more-sheet-handle {
-    grid-column: 1 / -1;
-    width: 36px;
-    height: 4px;
-    margin: 0 auto 0.35rem;
-    border-radius: 2px;
-    background: #d5dbe1;
-  }
-
-  .more-sheet-item {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 0.3rem;
-    min-height: 64px;
-    padding: 0.6rem 0.25rem;
-    border: 1px solid #eef1f4;
-    border-radius: 10px;
-    background: #fafbfc;
-    font-size: 0.8rem;
-    color: #334155;
-    cursor: pointer;
-  }
-
-  .more-sheet-item.active {
-    border-color: #3498db;
-    background: #ebf5fc;
-    color: #2476b7;
-  }
-
-  .more-sheet-icon {
-    font-size: 1.3rem;
-  }
-
   .explorer-layout {
     grid-template-columns: minmax(0, 1fr);
     gap: 0;
@@ -1794,26 +1745,6 @@ function openWordNet(word: string) {
     padding: 0.35rem 0.7rem;
     font-size: 0.78rem;
   }
-}
-
-.sheet-enter-active,
-.sheet-leave-active {
-  transition: opacity 0.22s ease;
-}
-
-.sheet-enter-active .more-sheet,
-.sheet-leave-active .more-sheet {
-  transition: transform 0.28s cubic-bezier(0.32, 0.72, 0.24, 1);
-}
-
-.sheet-enter-from,
-.sheet-leave-to {
-  opacity: 0;
-}
-
-.sheet-enter-from .more-sheet,
-.sheet-leave-to .more-sheet {
-  transform: translateY(100%);
 }
 
 .stats, .loading {

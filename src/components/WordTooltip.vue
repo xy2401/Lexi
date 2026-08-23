@@ -3,10 +3,11 @@
  * WordTooltip - 完整词条卡片
  * 同时展示音标、中文翻译、英文释义、词性和词形变化
  */
-import { computed, onBeforeUnmount, onMounted, ref, watch } from 'vue'
+import { computed, onBeforeUnmount, onMounted, ref, toRef } from 'vue'
 import { parseExchange, EXCHANGE_LABELS } from '../lib/morphology'
 import type { WordEntry } from '../lib/db'
 import { MOBILE_QUERY } from '../composables/useMediaQuery'
+import { useModalInteraction } from '../composables/useModalInteraction'
 import DictionaryTags from './DictionaryTags.vue'
 
 const props = defineProps<{
@@ -15,6 +16,7 @@ const props = defineProps<{
   position: { x: number; y: number }
   loading?: boolean
   visible: boolean
+  returnFocus?: HTMLElement | null
 }>()
 
 const emit = defineEmits<{
@@ -28,8 +30,14 @@ const onMqChange = (event: MediaQueryListEvent) => { isMobile.value = event.matc
 onMounted(() => mobileQuery.addEventListener('change', onMqChange))
 onBeforeUnmount(() => mobileQuery.removeEventListener('change', onMqChange))
 
-watch(() => props.visible && isMobile.value, locked => {
-  document.body.style.overflow = locked ? 'hidden' : ''
+const cardRef = ref<HTMLElement | null>(null)
+const modalActive = computed(() => props.visible && isMobile.value)
+
+useModalInteraction({
+  active: modalActive,
+  container: cardRef,
+  returnFocus: toRef(props, 'returnFocus'),
+  onRequestClose: () => emit('close'),
 })
 
 // 解析变形数据
@@ -69,7 +77,15 @@ const tooltipStyle = computed(() => {
   <Teleport to="body">
     <Transition :name="isMobile ? 'sheet-up' : 'card-pop'">
       <div v-if="visible" :class="['tooltip-overlay', { 'is-mobile': isMobile }]" @click.self="emit('close')">
-        <div :class="['tooltip-card', { 'tooltip-sheet': isMobile }]" :style="tooltipStyle">
+        <div
+          ref="cardRef"
+          :class="['tooltip-card', { 'tooltip-sheet': isMobile }]"
+          :style="tooltipStyle"
+          :role="isMobile ? 'dialog' : undefined"
+          :aria-modal="isMobile ? 'true' : undefined"
+          :aria-label="isMobile ? `${word} 词条` : undefined"
+          :tabindex="isMobile ? -1 : undefined"
+        >
         <div class="tooltip-header">
           <div
             class="word-speech-row"
