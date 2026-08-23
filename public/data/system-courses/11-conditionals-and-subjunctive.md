@@ -1,105 +1,178 @@
-# 条件句与虚拟语气
+# 条件、假设与反事实
 
-> **导读**：
-> - 条件句按“真实性”分为两端：**真实条件**（可能发生）用正常时态，**非真实条件**（假设、与事实相反）用“时态后退一格”表达心理距离。
-> - 虚拟语气是非真实思维的语法化：从条件句延伸到 `wish`、`suggest`、`as if` 等场景。本课沿“真实 → 非真实”连续谱逐层推进。
+> 条件句不是四个编号模板，而是在建立两个世界：条件成立的世界，以及说话人据此判断的结果。时态形式同时编码时间、可能性和说话人的心理距离。
 
 ---
 
-## 一、 条件句与虚拟语气全景图
+## 1. 条件结构的两部分
 
-```mermaid
-graph LR
-    REAL["真实条件"] --> Z["零条件句<br>客观规律<br>If you heat ice, it melts."]
-    REAL --> F["第一条件句<br>将来可能<br>If it rains, we will stay home."]
+典型条件句由条件分句与主句构成：
 
-    UNREAL["非真实条件"] --> S["第二条件句<br>与现在事实相反<br>If I were you, I would accept."]
-    UNREAL --> T["第三条件句<br>与过去事实相反<br>If I had known, I would have come."]
+`if` + <lexi-notation>`condition`</lexi-notation>, <lexi-notation>`consequence`</lexi-notation>
 
-    S --> MIX["混合条件句<br>跨时间假设"]
-    UNREAL --> SUB["条件句之外的虚拟<br>wish · as if · suggest"]
-```
+`If the temperature falls below zero, water freezes.`
+
+条件分句不一定先出现：`Water freezes if the temperature falls below zero.`。前置条件常建立讨论框架，后置条件则更像对主句补充限制。
+
+逻辑上的“如果 P，那么 Q”不保证 P 是 Q 的唯一原因，也不自动保证反向命题成立。`If it rains, the match will be canceled.` 不意味着只有下雨才会取消。
 
 ---
 
-## 二、 真实条件句
+## 2. 开放条件：把条件当成真实可能
 
-| 类型 | 结构 | 用法 | 示例 |
-| :--- | :--- | :--- | :--- |
-| 零条件句 | `If + 一般现在, 一般现在` | 客观规律、恒定事实 | `If you heat ice, it melts.` |
-| 第一条件句 | `If + 一般现在, will do` | 将来真实可能发生 | `If it rains tomorrow, we will stay home.` |
+### 一般规律
 
-> [!IMPORTANT]
-> **主将从现**：条件从句用一般现在表示将来，主句才用 `will`。不说 `If it will rain...`。
+`If you heat ice, it melts.`
 
-### 常见条件连词替换
+两部分常用一般现在时，但命令、情态和其他形式也可出现：
 
-| 连词 | 含义 | 示例 |
-| :--- | :--- | :--- |
-| `unless` | 除非（= `if...not`） | `You'll fail unless you practice.` |
-| `as long as` | 只要 | `You can stay as long as you keep quiet.` |
-| `in case` | 以防、万一（预防性） | `Take an umbrella in case it rains.` |
-| `provided / providing that` | 在…条件下（较正式） | `You may go, provided that you finish first.` |
+- `If the alarm sounds, leave the building.`
+- `If the data is incomplete, the estimate may be biased.`
 
----
+### 未来开放条件
 
-## 三、 非真实条件句：与现在、过去事实相反
+`If the test passes, we will deploy the update.`
 
-“时态后退一格”是虚拟的核心机制：用更远的时态形式表达与事实的心理距离。
+`if` 分句常用现在时表达未来，主句用 `will`、其他情态或祈使句。`if` 分句并非绝对不能出现 `will`；当 `will` 表意愿、坚持或可预测行为时可以：
 
-| 类型 | 从句形式 | 主句形式 | 事实指向 | 示例 |
-| :--- | :--- | :--- | :--- | :--- |
-| 第二条件句（现在/将来非真实） | 一般过去（`be` 多用 <code class="ord-special">were</code>） | `would / could / might + do` | 与现在事实相反 | `If I were you, I would accept the offer.`（我并不是你） |
-| 第三条件句（过去非真实） | `had done` | `would / could / might + have done` | 与过去事实相反 | `If I had known earlier, I would have helped.`（当时并不知道） |
-
-> [!NOTE]
-> 第二条件句中各人称的 `be` 动词正式文体统一用 `were`：`If I were rich...` / `If she were here...`；口语中 `was` 亦常见。
+`If you will wait here, the doctor will see you soon.`
 
 ---
 
-## 四、 混合条件句与 if 省略倒装
+## 3. 假设条件：过去式表达距离
 
-### 1. 混合条件句：主从句时间不一致
+`If I had more time, I would learn Arabic.`
 
-| 组合 | 结构 | 示例 |
-| :--- | :--- | :--- |
-| 过去条件 → 现在结果 | 从句 `had done`，主句 `would do` | `If I had studied medicine, I would be a doctor now.` |
-| 现在状态 → 过去结果 | 从句一般过去，主句 `would have done` | `If he were more careful, he wouldn't have made that mistake.` |
+这里的 <lexi-word form="irregular">`had`</lexi-word> 不一定指过去，而是把条件呈现为与当前事实有距离、可能性较低或纯粹想象。主句通常使用 `would / could / might + base form`。
 
-### 2. 省略 `if` 的倒装形式
+- `If she knew the answer, she could help us.`
+- `If the design were simpler, it might be easier to maintain.`
 
-正式文体中可省略 `if`，将从句的 `were / had / should` 提前：
-
-| 原形 | 倒装形式 | 示例 |
-| :--- | :--- | :--- |
-| `If I were...` | `Were I...` | `Were I you, I would refuse.` |
-| `If I had known...` | `Had I known...` | `Had I known the truth, I would have told you.` |
-| `If it should rain...` | `Should it rain...` | `Should it rain, the event will be canceled.` |
+正式英语和许多固定表达中，假设性的 `be` 对所有人称可用 <lexi-word form="irregular">`were`</lexi-word>：`If I were you, I would wait.`。日常英语也常听到 `was`，但正式写作宜保留 `were` 来清楚标示非事实性。
 
 ---
 
-## 五、 条件句之外的虚拟
+## 4. 过去反事实：已经无法实现的分支
 
-虚拟语气同样作用于 wish、建议命令类动词等场景：
+`If we had left earlier, we would have caught the train.`
 
-| 场景 | 结构 | 示例 | 说明 |
-| :--- | :--- | :--- | :--- |
-| `wish` / `if only`（愿望落空） | 对现在用一般过去；对过去用 `had done` | `I wish I were taller.` / `If only I had listened to you.` | 表达与事实相反的愿望 |
-| `as if / as though` | 与事实相反用过去形式 | `He talks as if he knew everything.` | 看似如此实则不然 |
-| 建议命令类动词 | `suggest / demand / insist / recommend / order + that sb (should) do` | `The doctor insisted that he (should) rest.` | 从句动词用原形（`should` 可省） |
-| 建议命令类名词/形容词 | `It is necessary / important that...`、`My suggestion is that...` | `It is essential that every file be backed up.` | 同样用 `(should) do` |
-| `would rather` | `would rather sb did`（现在）/ `had done`（过去） | `I'd rather you didn't smoke here.` | 宁愿他人如何 |
-| `It's (high) time` | `It's time sb did` | `It's time we left.` | 早该做某事了 |
+条件使用过去完成体，结果使用 `would` + `have` + <lexi-notation>`past participle`</lexi-notation>。说话人通常暗示“没有早点离开，也没赶上火车”。
 
-> [!WARNING]
-> `suggest` 表“暗示、表明”时不虚拟，用正常时态：`His smile suggested that he was satisfied.`；只有表“建议”才用 `(should) do`。
+情态改变结果力度：
+
+- `We could have caught the train.` —— 有能力或机会。
+- `We might have caught the train.` —— 只是可能。
+
+反事实推论常受语境影响，不是形式本身的严格逻辑蕴含。`If she had taken the medicine, she would have recovered.` 是说话人的因果判断，不是语法保证的事实。
 
 ---
 
-## 六、 本课核心练习词汇
+## 5. 混合条件：条件时间与结果时间可以不同
 
-点击下列词汇，在 Lexi 中查看释义并听标准发音：
+过去事件造成当前结果：
 
-- `conditional` · `subjunctive` · `hypothetical` · `unreal` · `unless`
-- `otherwise` · `suppose` · `imagine` · `pretend` · `insist`
-- `demand` · `suggest` · `recommend` · `provided` · `whereas`
+`If I had accepted that offer, I would live in Toronto now.`
+
+当前稳定特征影响过去结果：
+
+`If he were more careful, he wouldn't have made that mistake.`
+
+所谓“混合”只是参照时间不同。先画清因果时间线，再选择完成体或过去式，不需要另背一张组合表。
+
+---
+
+## 6. 条件连接词的语义边界
+
+### `unless`
+
+`We won't leave unless the rain stops.` 接近“如果雨不停，我们就不走”。它不总能机械替换 `if ... not`，尤其当否定范围复杂时。
+
+### 充分条件表达
+
+- `You may borrow the car provided that you drive carefully.`
+- `As long as the checksum matches, the file is valid.`
+- `The reaction will proceed on condition that oxygen is excluded.`
+
+### 即使条件不改变结果
+
+`Even if it rains, the ceremony will continue.`
+
+`even if` 提出假设；`even though` 通常承认已知事实：`Even though it was raining, the ceremony continued.`
+
+### 仅仅假设
+
+`suppose / supposing / assuming` 可建立推理场景：`Suppose the estimate is wrong—what follows?`
+
+---
+
+## 7. 省略 `if` 的倒装条件
+
+正式文体可把 `had / were / should` 前置：
+
+- `Had we known, we would have acted sooner.`
+- `Were the system to fail, the backup would start.`
+- `Should you have any questions, contact us.`
+
+这不是普通疑问句，而是带条件意义的倒装构式。不能随意把任何动词前置。
+
+---
+
+## 8. 愿望、遗憾与 `would rather`
+
+`wish` 后的形式同样通过时间距离表达与事实不一致：
+
+- 当前愿望：`I wish I knew the answer.`
+- 过去遗憾：`I wish I had listened.`
+- 对行为改变的愿望或抱怨：`I wish the neighbors would be quieter.`
+
+`if only` 情感更强：`If only we had more time!`
+
+`would rather` 后若主语不同，常用过去式表示当前偏好：`I'd rather you stayed here.`；过去偏好用过去完成体：`I'd rather you had told me earlier.`
+
+---
+
+## 9. 要求、建议后的虚拟式
+
+正式英语中，表示要求、建议、必要的动词或形容词后可用动词原形：
+
+- `The committee recommended that the proposal be revised.`
+- `It is essential that every applicant provide identification.`
+- `They insisted that he attend the meeting.`
+
+这是“mandative subjunctive”：第三人称不加 `-s`，`be` 保持原形。英式英语也常用 `should`：`They recommended that the proposal should be revised.`
+
+`insist` 若表示“坚持声称事实”，从句通常按事实时态处理：`She insisted that she was innocent.`
+
+---
+
+## 10. 条件句的语用功能
+
+条件句还能用于礼貌、协商和篇章组织：
+
+- `If you could sign here, please.` —— 缓和指令。
+- `If that's the case, we need a new plan.` —— 承接前文推理。
+- `If I may add one point, the sample was very small.` —— 请求话语空间。
+
+有些句子形式上有 `if`，却不表达普通因果条件：`There are biscuits on the table if you're hungry.`。饼干的存在不取决于对方饥饿，条件限制的是这条信息何时相关。
+
+---
+
+## 11. 反事实与科学推理
+
+实验、历史和因果分析经常依赖反事实问题：“如果处理没有发生，结果会怎样？”语法能表达这种比较，但不能独自证明因果。
+
+`If the control group had received the treatment, the observed difference might have been smaller.`
+
+这是一项模型化推断。证据来自研究设计、数据与假设，而不是 `if` 句式本身。专业写作应让 `would / could / might` 准确反映推断强度。
+
+---
+
+## 12. 本课回看
+
+- 条件句建立假设世界及其结果，不只是四种编号形式。
+- 过去式可以表达时间，也可以表达现实与心理距离。
+- 过去完成体把反事实条件放到已封闭的过去。
+- 混合条件来自条件与结果参照时间不同。
+- `unless / even if / provided that` 各自编码不同逻辑关系。
+- 虚拟式还活跃在愿望、偏好、要求和正式建议中。
+- 反事实语法帮助提出因果问题，却不能代替因果证据。

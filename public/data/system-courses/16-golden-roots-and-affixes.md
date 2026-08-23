@@ -1,129 +1,228 @@
-# 核心词根与词缀
+# 词根、词缀与形态变体
 
-> **导读**：
-> - 英语词汇量虽然庞大，但超过 70% 的学术词汇、科技词汇与书面语均由**“前缀（Prefix） + 词根（Root） + 后缀（Suffix）”**像积木一样装配而成。
-> - **词根**决定单词的核心本质含义（如同汉字的偏旁部首）；**前缀**改变语义方向或态度（如反向、提前、共同）；**后缀**决定词性（名词、动词、形容词、副词）。
-> 
-> 掌握 20 个超级核心词根与高频词缀，便能建立“见词拆词、触类旁通”的词汇生长网络。
+> 构词法不是把单词切成彩色积木后逐块翻译。它研究词内部的结构、形式变化、生产力与历史。词根词缀能帮助推断和记忆，但必须接受语音变化、词义演化与词汇化带来的不透明。
 
 ---
 
-## 一、 构词体系全景逻辑图
+## 1. 语素：最小的形式—意义单位
 
-```mermaid
-classDiagram
-    class WordAssembly {
-        +String Prefix "前缀 (定方向/态度/关系)"
-        +String Root "词根 (定核心本质语义)"
-        +String Suffix "后缀 (定词性语法功能)"
-        +assemble() String "派生新单词"
-    }
-    class Prefix {
-        +re_ "向后 / 重新"
-        +in_im_ "否定 / 相反"
-        +trans_ "跨越 / 转移"
-    }
-    class Root {
-        +vis_vid "看 (to see)"
-        +dict_dic "说 (to speak)"
-        +port "运 (to carry)"
-    }
-    class Suffix {
-        +_tion_sion "名词 (动作/结果)"
-        +_able_ible "形容词 (能够...)"
-        +_ize_ify "动词 (使...化)"
-    }
+`unhelpful` 可以分析为：
 
-    WordAssembly *-- Prefix
-    WordAssembly *-- Root
-    WordAssembly *-- Suffix
-```
+<lexi-morpheme kind="prefix" form="un-">`un-`</lexi-morpheme><lexi-morpheme kind="root" form="help">`help`</lexi-morpheme><lexi-morpheme kind="suffix" form="-ful">`-ful`</lexi-morpheme>
+
+- <lexi-morpheme kind="prefix" form="un-">`un-`</lexi-morpheme> 表否定或反向；
+- <lexi-morpheme kind="root" form="help">`help`</lexi-morpheme> 提供核心词汇意义；
+- <lexi-morpheme kind="suffix" form="-ful">`-ful`</lexi-morpheme> 常构成形容词。
+
+语素不等于音节，也不总能独立成词。`cats` 有两个语素但一个音节；`banana` 有多个音节，却通常作为单一词根分析。
 
 ---
 
-## 二、 高频核心前缀与后缀分类速查表
+## 2. 自由语素、黏着语素与词基
 
-### 1. 核心前缀分类表
+自由语素可独立成词，如 `book / kind / run`。黏着语素必须依附，如 <lexi-morpheme kind="prefix" form="re-">`re-`</lexi-morpheme> 和 <lexi-morpheme kind="suffix" form="-ness">`-ness`</lexi-morpheme>。
 
-| 前缀类别 | 常见前缀 | 核心语义意图 | 典型构词例词 |
-| :--- | :--- | :--- | :--- |
-| **否定 / 相反** | `un-`, `non-` | 不、非、未 | `unhappy`, `unusual`, `non-stop` |
-| **否定 / 逆转** | `in-`, `im-`, `il-`, `ir-` | 不、非（随辅音同化变音） | `invisible`, `impossible`, `illegal`, `irregular` |
-| **分离 / 否定** | `dis-` | 离开、相反、不 | `disagree`, `discover`, `disappear` |
-| **错误 / 不当** | `mis-` | 错误的、不良的 | `misunderstand`, `mislead`, `mistake` |
-| **再次 / 向后** | `re-` | 重新、再、向后 | `rebuild`, `review`, `return`, `recall` |
-| **预先 / 提前** | `pre-` | 在……之前、预先 | `predict`, `pre-training`, `prevent` |
-| **向前 / 支持** | `pro-` | 向前、推动、赞同 | `progress`, `promote`, `prospect` |
-| **下方 / 次级** | `sub-` | 在……下方、次于 | `subway`, `submarine`, `subdivide` |
-| **跨越 / 转换** | `trans-` | 横跨、转移、转变 | `transport`, `transform`, `translate` |
-| **共同 / 汇聚** | `con-`, `com-`, `col-` | 一起、共同、完全 | `connect`, `combine`, `collect`, `construct` |
+“词根”承载核心词义；“词基”是某一步构词所附着的整体。分析 `unhappiness`：
+
+1. `happy` 是词根和初始词基。
+2. <lexi-morpheme kind="root" form="happy">`happy`</lexi-morpheme> + <lexi-morpheme kind="suffix" form="-ness">`-ness`</lexi-morpheme> → `happiness`。
+3. <lexi-morpheme kind="prefix" form="un-">`un-`</lexi-morpheme> + `happiness` → `unhappiness`。
+
+但更自然的语义层级通常是 `[unhappy] + ness`：“不快乐”这一性质的名词化。构词顺序影响意义。
 
 ---
 
-### 2. 核心后缀与词性转换表
+## 3. 屈折与派生
 
-| 后缀类别 | 常见后缀 | 赋予的词性与功能 | 典型构词例词 |
-| :--- | :--- | :--- | :--- |
-| **名词后缀** | `-tion`, `-sion` | 表示动作的过程、状态或结果 | `action`, `decision`, `attention`, `education` |
-| **名词后缀** | `-ment`, `-ness` | 表示性质、状态或具体事物 | `development`, `movement`, `happiness`, `darkness` |
-| **名词后缀 (人/物)** | `-er`, `-or`, `-ist` | 执行某动作的人、专家或仪器 | `teacher`, `actor`, `scientist`, `artist`, `printer` |
-| **形容词后缀** | `-able`, `-ible` | 能够……的、具备……能力的 | `portable` (便携的), `visible` (可见的), `readable` |
-| **形容词后缀** | `-ive`, `-ous` | 具备……特性的、充满……的 | `creative`, `attractive`, `famous`, `dangerous` |
-| **形容词后缀** | `-ful`, `-less` | 充满……的 vs 毫无……的 | `helpful` (有帮助的) vs `helpless` (无助的) |
-| **动词后缀** | `-ize`, `-ify`, `-ate` | 使……化、使成为…… | `realize`, `modernize`, `simplify`, `generate` |
+### 屈折：实现语法范式
 
----
+- `book` → <lexi-word form="changed">`books`</lexi-word>
+- `walk` → <lexi-word form="changed">`walked`</lexi-word>
+- `small` → <lexi-word form="changed">`smaller`</lexi-word>
+- `write` → <lexi-word form="irregular">`written`</lexi-word>
 
-## 三、 20 大超级黄金词根全景精讲与单词裂变表
+屈折通常不改变基本词类，只把词放入复数、时态、分词、级别等语法位置。
 
-掌握以下 20 个高产词根，可快速辐射出数千个中高阶英语词汇：
+### 派生：创造新词位
 
-| 序号 | 词根 | 词根核心原义 | 派生核心词汇谱系 | 构词分解与词义解析 |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | `vis / vid` | **看 (to see)** | `vision`, `visible`, `visit`, `provide`, `evidence` | `pro-` (向前) + `vide` (看) → 为将来提前看好准备 → **`provide` (提供)**<br>`e-` (出) + `vid` (看) + `-ence` → 看得见摆在眼前的证据 → **`evidence` (证据)** |
-| 2 | `dict / dic` | **说 / 命令 (to speak)** | `dictate`, `predict`, `verdict`, `contradict`, `dictionary` | `pre-` (提前) + `dict` (说) → 提前说出未来 → **`predict` (预测)**<br>`contra-` (反对) + `dict` (说) → 反着说 → **`contradict` (反驳/矛盾)** |
-| 3 | `port` | **携带 / 运送 (to carry)** | `import`, `export`, `transport`, `portable`, `report` | `im-` (向内) + `port` (运) → 运进国内 → **`import` (进口)**<br>`ex-` (向外) + `port` (运) → 运出国外 → **`export` (出口)** |
-| 4 | `spect / spic` | **看 / 审视 (to look)** | `inspect`, `respect`, `prospect`, `suspect`, `spectator` | `in-` (向内) + `spect` (看) → 往里面仔细看 → **`inspect` (检查/视察)**<br>`re-` (再/反复) + `spect` (看) → 令人刮目相看 → **`respect` (尊敬)** |
-| 5 | `tract` | **拉 / 抽取 (to drag/pull)** | `attract`, `extract`, `contract`, `distract`, `abstract` | `at-` (向) + `tract` (拉) → 把人拉过来 → **`attract` (吸引)**<br>`ex-` (出) + `tract` (拉) → 抽拉出来 → **`extract` (提取/拔出)** |
-| 6 | `struct` | **建造 / 构筑 (to build)** | `structure`, `construct`, `destruct`, `instruct`, `obstruct` | `con-` (共同) + `struct` (建) → 一起建起来 → **`construct` (建设/建造)**<br>`de-` (向下破坏) + `struct` (建) → 拆毁推倒 → **`destruct` (破坏/毁灭)** |
-| 7 | `form` | **形状 / 形式 (shape/form)**| `transform`, `reform`, `conform`, `inform`, `uniform` | `trans-` (转换) + `form` (形) → 改变外形与结构 → **`transform` (转变/变形)**<br>`re-` (重新) + `form` (形) → 重新塑造形式 → **`reform` (改革/改良)** |
-| 8 | `press` | **压 / 挤 (to press)** | `express`, `impress`, `compress`, `depress`, `suppress` | `ex-` (向外) + `press` (挤压) → 把内心情感挤出来表达 → **`express` (表达)**<br>`im-` (向内) + `press` (压) → 在心里留下深深烙印 → **`impress` (留下深刻印象)** |
-| 9 | `scrib / script`| **写 (to write)** | `describe`, `prescribe`, `manuscript`, `transcript`, `inscribe` | `de-` (向下) + `scribe` (写) → 逐条记录写下来 → **`describe` (描述/描写)**<br>`pre-` (提前) + `scribe` (写) → 医生在用药前提前写下处方 → **`prescribe` (开药方/规定)** |
-| 10 | `duc / duct` | **引导 / 带领 (to lead)** | `introduce`, `produce`, `conduct`, `reduce`, `deduct` | `intro-` (向内) + `duce` (引) → 引领进门相互认识 → **`introduce` (介绍/引入)**<br>`pro-` (向前) + `duce` (引) → 引导推向前方产出 → **`produce` (生产/制造)** |
-| 11 | `aud / audit` | **听 (to hear)** | `audio`, `audience`, `audible`, `auditorium`, `audit` | `audi-` (听) + `-ence` (人群) → 来听音乐/演讲的人群 → **`audience` (观众/听众)**<br>`aud` (听) + `-ible` (能) → 听得见的 → **`audible` (听得清的)** |
-| 12 | `mit / miss` | **发送 / 派遣 (to send)** | `admit`, `commit`, `transmit`, `mission`, `dismiss` | `trans-` (跨越) + `mit` (送) → 跨越空间发送信号 → **`transmit` (传输/发射)**<br>`dis-` (分开) + `miss` (送) → 打发分散送走 → **`dismiss` (解散/开除)** |
-| 13 | `fact / fect` | **做 / 制作 (to make/do)** | `factory`, `manufacture`, `affect`, `effect`, `perfect` | `manu-` (手) + `facture` (制作) → 原指手工制作，现指工业制造 → **`manufacture` (制造/加工)**<br>`per-` (完全) + `fect` (做) → 全部做完毫无瑕疵 → **`perfect` (完美的)** |
-| 14 | `cept / capt` | **抓 / 接收 (to take/seize)**| `accept`, `concept`, `capture`, `capable`, `intercept` | `ac-` (去) + `cept` (接) → 迎上去接过来 → **`accept` (接受)**<br>`con-` (共同) + `cept` (抓取) → 在脑海中综合抓取形成的想法 → **`concept` (概念/观念)** |
-| 15 | `gen` | **产生 / 种类 (to birth/kind)**| `generate`, `generator`, `genius`, `gender`, `generic` | `gen` (产生) + `-er-` + `-ate` (动词) → 产生能量/内容 → **`generate` (生成/产生)**<br>`gen` (产生) + `-ius` → 与生俱来的天赋 → **`genius` (天才)** |
-| 16 | `sens / sent` | **感觉 / 意识 (to feel)** | `sense`, `sensitive`, `consent`, `resent`, `sensor` | `sens` (感觉) + `-or` (器) → 能感知物理信号的器件 → **`sensor` (传感器)**<br>`con-` (共同) + `sent` (感觉) → 感觉一致 → **`consent` (同意/赞同)** |
-| 17 | `ped / pod` | **脚 (foot)** | `pedal`, `pedestrian`, `tripod`, `expedition` | `ped` (脚) + `-al` (名词) → 用脚踩的踏板 → **`pedal` (踏板/踩踏板)**<br>`ped` (脚) + `-estrian` → 用双脚走路的人 → **`pedestrian` (行人)** |
-| 18 | `ject` | **投掷 / 扔 (to throw)** | `project`, `reject`, `inject`, `eject`, `subject` | `pro-` (向前) + `ject` (扔) → 把光影/计划投向前方 → **`project` (项目/投影)**<br>`re-` (向后回退) + `ject` (扔) → 扔回去不收 → **`reject` (拒绝/驳回)** |
-| 19 | `chron` | **时间 (time)** | `synchronize`, `chronological`, `chronic` | `syn-` (同时) + `chron` (时间) + `-ize` → 时间完全保持一致 → **`synchronize` (同步)**<br>`chron` (时间) + `-ic` → 持续时间很长的病症 → **`chronic` (慢性的/长期的)** |
-| 20 | `bio / logy` | **生命 / 学科 (life/study)** | `biology`, `biography`, `technology`, `geology` | `bio` (生命) + `-logy` (学科) → 研究生命的科学 → **`biology` (生物学)**<br>`bio` (生命) + `graph` (写) + `-y` → 记录某人一生的书 → **`biography` (传记)** |
+- <lexi-morpheme kind="prefix" form="re-">`re-`</lexi-morpheme> + `write` → `rewrite`
+- `kind` + <lexi-morpheme kind="suffix" form="-ness">`-ness`</lexi-morpheme> → `kindness`
+- `modern` + <lexi-morpheme kind="suffix" form="-ize">`-ize`</lexi-morpheme> → `modernize`
+
+派生可能改变词类和核心意义。英语通常先派生再屈折：`modern + ize + d`，而不是把过去式后缀夹在派生内部。
 
 ---
 
-## 四、 见词拆词实战演示
+## 4. 同一语素可以有多个表面形式
 
-面对陌生中长单词，按“**剥离前缀 → 寻找词根 → 分析后缀**”的顺序拆解：
+复数语素书写为 `-s`，发音却可能是 <lexi-phoneme>`/s/`</lexi-phoneme>、<lexi-phoneme>`/z/`</lexi-phoneme> 或 <lexi-phoneme>`/ɪz/`</lexi-phoneme>：`cats / dogs / buses`。这些是同一语素的异形体。
 
-- **例 1：`unprecedented`**  
-  - 拆解：`un-` (无/未) + `pre-` (先/前) + `cede` (走) + `-ent` + `-ed`  
-  - 逻辑：没有任何走在前面先例的 → **史无前例的 / 空前的**
-- **例 2：`indispensable`**  
-  - 拆解：`in-` (不) + `dis-` (分发散开) + `pens` (花费/称量) + `-able` (可……的)  
-  - 逻辑：不能被分走或省去的 → **必不可少的 / 不可或缺的**
-- **例 3：`transportation`**  
-  - 拆解：`trans-` (横跨) + `port` (运输) + `-ation` (名词后缀)  
-  - 逻辑：跨越空间的搬运活动 → **交通运输 / 交通工具**
+否定前缀 <lexi-morpheme kind="prefix">`in-`</lexi-morpheme> 会受后续辅音同化：
+
+- <lexi-morpheme kind="prefix">`in-`</lexi-morpheme> + `possible` → `impossible`
+- <lexi-morpheme kind="prefix">`in-`</lexi-morpheme> + `legal` → `illegal`
+- <lexi-morpheme kind="prefix">`in-`</lexi-morpheme> + `regular` → `irregular`
+
+<lexi-morpheme kind="prefix">`in-`</lexi-morpheme> / <lexi-morpheme kind="prefix" form="variant">`im-`</lexi-morpheme> / <lexi-morpheme kind="prefix" form="variant">`il-`</lexi-morpheme> / <lexi-morpheme kind="prefix" form="variant">`ir-`</lexi-morpheme> 的形式变化让发音更顺畅，不必把它们当作毫无关系的四个前缀。
+
+不规则范式甚至可能使用完全不同的词干：`go` → <lexi-word form="irregular">`went`</lexi-word>。这种“异干互补”无法通过普通加后缀预测，正需要不规则样式明确标出。
 
 ---
 
-## 五、 本课核心练习词汇
+## 5. 高频前缀：学语义网络，不背单译
 
-点击下列词汇与短语，在 Lexi 中查看释义并听标准发音：
+### 否定与反向
 
-- `prefix` · `suffix` · `root` · `provide` · `evidence`
-- `predict` · `import` · `export` · `inspect` · `respect`
-- `attract` · `extract` · `construct` · `transform` · `express`
-- `describe` · `introduce` · `audience` · `accept` · `generate`
+- <lexi-morpheme kind="prefix" form="un-">`un-`</lexi-morpheme>：`unfair`、`unlock`
+- <lexi-morpheme kind="prefix" form="non-">`non-`</lexi-morpheme>：`nonverbal`
+- <lexi-morpheme kind="prefix" form="de-">`de-`</lexi-morpheme>：`deactivate`
+- <lexi-morpheme kind="prefix" form="dis-">`dis-`</lexi-morpheme>：`disagree`、`disconnect`
+
+`unfair` 否定性质，`unlock` 反转动作；相同前缀在不同词基上构成不同但相关的意义。
+
+### 时间、重复与顺序
+
+- <lexi-morpheme kind="prefix" form="pre-">`pre-`</lexi-morpheme>：之前，`pretest`
+- <lexi-morpheme kind="prefix" form="post-">`post-`</lexi-morpheme>：之后，`postwar`
+- <lexi-morpheme kind="prefix" form="re-">`re-`</lexi-morpheme>：再次或返回，`rebuild / return`
+
+`recreation` 未必按 “re + creation” 理解，读音和词义可能表明它是另一条历史来源。形似不保证同步构词关系。
+
+### 数量与范围
+
+- <lexi-morpheme kind="prefix" form="mono-">`mono-`</lexi-morpheme>：单一
+- <lexi-morpheme kind="prefix" form="bi-">`bi-`</lexi-morpheme>：二、双
+- <lexi-morpheme kind="prefix" form="multi-">`multi-`</lexi-morpheme>：多
+- <lexi-morpheme kind="prefix" form="micro-">`micro-`</lexi-morpheme>：微小
+- <lexi-morpheme kind="prefix" form="macro-">`macro-`</lexi-morpheme>：宏观
+
+在科研单位中，`micro-` 也有严格的 <lexi-notation>`10⁻⁶`</lexi-notation> 数量意义，不能只理解为“很小”。
+
+---
+
+## 6. 高频后缀：词类线索与意义倾向
+
+### 名词形成
+
+- <lexi-morpheme kind="suffix" form="-ness">`-ness`</lexi-morpheme>：性质，`darkness`
+- <lexi-morpheme kind="suffix" form="-tion">`-tion`</lexi-morpheme>：过程或结果，`evaluation`
+- <lexi-morpheme kind="suffix" form="-er">`-er`</lexi-morpheme>：执行者或工具，`writer / printer`
+- <lexi-morpheme kind="suffix" form="-ity">`-ity`</lexi-morpheme>：性质，`stability`
+
+### 形容词形成
+
+- <lexi-morpheme kind="suffix" form="-able">`-able`</lexi-morpheme>：可……的，`readable`
+- <lexi-morpheme kind="suffix" form="-al">`-al`</lexi-morpheme>：与……有关，`regional`
+- <lexi-morpheme kind="suffix" form="-less">`-less`</lexi-morpheme>：缺少，`wireless`
+- <lexi-morpheme kind="suffix" form="-ive">`-ive`</lexi-morpheme>：倾向或性质，`responsive`
+
+### 动词与副词形成
+
+- <lexi-morpheme kind="suffix" form="-ize">`-ize`</lexi-morpheme>：使成为或采用，`standardize`
+- <lexi-morpheme kind="suffix" form="-ify">`-ify`</lexi-morpheme>：使成为，`simplify`
+- <lexi-morpheme kind="suffix" form="-ly">`-ly`</lexi-morpheme>：常构成副词，`carefully`
+
+后缀提供强线索，却不是绝对词类判定器。`friendly` 是形容词；`daily` 可作形容词、名词或副词。
+
+---
+
+## 7. 希腊—拉丁词素与科研词汇
+
+专业词常由黏着词根组合：
+
+- <lexi-morpheme kind="root" form="bio">`bio`</lexi-morpheme>（生命）+ <lexi-morpheme kind="root" form="log">`log`</lexi-morpheme>（研究/言说）+ <lexi-morpheme kind="suffix" form="-y">`-y`</lexi-morpheme> → `biology`
+- <lexi-morpheme kind="root" form="therm">`therm`</lexi-morpheme>（热）+ `ometer`（测量仪器）→ `thermometer`
+- <lexi-morpheme kind="root" form="spect">`spect`</lexi-morpheme>（看）→ `inspect / spectrum / spectroscopy`
+- <lexi-morpheme kind="root" form="graph">`graph`</lexi-morpheme>（写、记录）→ `graph / biography / seismograph`
+
+同一历史词根经过借入路径和音变，形式可能不同；相似拼写也可能只是偶然。词根提示的是词族关联，不是可以替代词典的精确释义。
+
+---
+
+## 8. 构词的生产力与限制
+
+“规则存在”不代表可以附加到任何词上。
+
+<lexi-morpheme kind="suffix" form="-ness">`-ness`</lexi-morpheme> 很有生产力，可以理解新造的 `awkwardness`；但不是每个形容词加 `-ness` 都比已有词更自然。`un-` 常与可分级、可对立的形容词结合，却不自然地附到许多关系形容词上。
+
+生产力受多种因素限制：
+
+- 词基的词类与语义；
+- 语音和形态条件；
+- 已有词的竞争；
+- 语域和领域惯例；
+- 社群是否接受新造词。
+
+`stealer` 结构上可理解，但日常更常用 <lexi-word form="irregular">`thief`</lexi-word>；已有词会阻挡规律形式。
+
+---
+
+## 9. 词汇化与语义漂移
+
+`understand` 不能按现代 `under + stand` 直接推导；`department` 也不是每次都透明地等于 `de + part + ment`。词在历史中会固化、变音和变义。
+
+透明度是一条连续谱：
+
+- 高透明：`reusable`
+- 部分透明：`department`
+- 高度词汇化：`understand`
+
+学习者最危险的做法是“看到能切就强行切”。同步词义应优先由可靠词典和真实语料确认，词源则用于解释历史，不用来替代当前意义。
+
+---
+
+## 10. 复合、转类、截短与混成
+
+英语造词不只依赖词缀：
+
+- 复合：`database / greenhouse / user-friendly`
+- 转类：`to email / a download / to bottle`
+- 截短：`lab` ← `laboratory`
+- 混成：`brunch` ← `breakfast + lunch`
+- 首字母形式：`NASA / API / URL`
+
+复合词重音和拼写会变化：两个词、连字符或一个词并不总由统一规则决定。新词往往经历拼写竞争，需查目标领域的惯例。
+
+---
+
+## 11. 用词族建立可迁移知识
+
+以 `act` 为中心：
+
+- `act`：行动
+- `action`：行动或作用
+- `active`：活跃的
+- `activate`：使激活
+- `activation`：激活过程
+- `react`：作出反应
+- `interaction`：相互作用
+
+不要只横向抄单词。为每个成员记录：词类、核心构式、重音、常见搭配和领域义。点击普通单词可查询词典；词根词缀标签则展示结构信息，因为黏着语素未必能作为独立词查询。
+
+---
+
+## 12. 形态分析流程
+
+1. 先确认整词的当前词义和词类。
+2. 找能在其他词中复现、且有稳定贡献的形式。
+3. 从最外层词缀逐步剥离，检查每一步是否形成合理词基。
+4. 区分派生和屈折，画出构词层级。
+5. 检查拼写、重音或发音变化。
+6. 对不透明部分停止强拆，并查词典或词源资料。
+
+例如 `denationalization` 可分层理解为：
+
+<lexi-notation>`[[de- [[nation -al] -ize]] -ation]`</lexi-notation>
+
+它表达把“国有化”的过程反向，而不是一串中文碎片的简单相加。
+
+---
+
+## 13. 本课回看
+
+- 语素是最小的形式—意义单位，不等于音节或拼写片段。
+- 屈折实现语法范式，派生创造新词位；构词层级会影响意义。
+- 异形体解释了复数读音和否定前缀等规则变化。
+- 词缀有生产力，也受词类、语义、语音和已有词限制。
+- 专业词根能连接词族，但不能代替对整词的词典查询。
+- 词汇化提醒我们：能切开的拼写，不一定仍有透明的现代结构。

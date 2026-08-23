@@ -1,120 +1,325 @@
-# 计算机网络与云原生架构
+# 容器、云服务与可观测性术语
 
-> **导读**：
-> - 现代互联网技术体系构筑在严密的协议规范与架构术语之上：从客户端请求、DNS 解析、HTTP 状态码到数据库事务与云原生微服务集群。
-> - 理解这些术语的标准英文构词与底层工程含义，是阅读官方架构文档、配置云服务与参与全球技术交流的关键。
-> 
-> 本课系统梳理 **网络请求与云原生架构全景**、**HTTP 方法与状态码体系**、**数据库 ACID 核心特性** 以及 **Docker/K8s 云原生专业英文**。
+> 这是一份计算机基础设施英语速览。它帮助读者识别网络请求、数据库、容器和云服务材料中的常用英文；概念说明只用于区分术语，不教授网络设计、数据库管理或集群运维。
 
 ---
 
-## 一、 网络通信与现代云原生架构全景图
+## 1. 一次请求中的角色词
 
-一次完整的网络请求从客户端到达云端微服务的标准链路架构：
+下面这条线只用来定位术语：
 
-```mermaid
-sequenceDiagram
-    autonumber
-    actor User as 客户端 (Browser)
-    participant DNS as DNS 解析服务
-    participant Gate as API 网关 (Gateway)
-    participant K8s as K8s 微服务集群
-    participant DB as 数据库 (Database)
+`client` → `network` → `server` → `database` → `response`
 
-    User->>DNS: 1. 查询域名解析 (DNS Lookup)
-    DNS-->>User: 返回服务公网 IP
-    User->>Gate: 2. 发起 HTTPS POST /api/v1/orders
-    Gate->>K8s: 3. 路由与负载均衡 (Load Balancing)
-    K8s->>DB: 4. 执行 ACID 事务写入 (Write Query)
-    DB-->>K8s: 事务提交成功 (Committed)
-    K8s-->>Gate: 返回 201 Created JSON
-    Gate-->>User: 5. 渲染完成响应 (Response 201 Created)
-```
+- `client`：发起请求的程序；
+- `server`：接收请求并提供服务的程序；
+- `request`：客户端发出的请求消息；
+- `response`：服务器返回的响应消息；
+- `service`：提供一组能力的运行组件；
+- `resource`：请求所指向的对象；
+- `endpoint`：客户端可访问的接口地址；
+- `protocol`：通信双方共同遵守的规则。
 
----
+`client` 和 `server` 是一次通信中的角色，不一定对应两台固定机器。
 
-## 二、 HTTP 协议、请求方法与状态码全解
+`The client sends a request, and the server returns a response.`
 
-### 1. HTTP 核心请求方法（HTTP Methods）
+常见动词：
 
-| 方法 | 英文原义 | RESTful 设计语义 | 幂等性 (Idempotent) |
-| :--- | :--- | :--- | :--- |
-| `GET` | **获取** | 从服务器读取/检索资源（不改变服务器数据） | 是（多次请求结果一致） |
-| `POST` | **投递 / 发送** | 向服务器提交新数据以创建新资源 | 否（多次请求会创建多条新记录） |
-| `PUT` | **放置 / 替换** | 完整替换并更新服务器上的指定资源 | 是 |
-| `PATCH` | **打补丁** | 对资源进行局部/部分字段修改 | 否 |
-| `DELETE` | **删除** | 删除服务器上的指定资源 | 是 |
-| `OPTIONS` | **选项** | 预检请求（CORS Preflight），查询服务器支持的通信方法 | 是 |
+- `send / receive a request`
+- `handle / process a request`
+- `return / serve a response`
+- `expose an endpoint`
+- `connect to a server`
 
 ---
 
-### 2. HTTP 状态码体系（Status Codes）
+## 2. 地址与连接
 
-HTTP 状态码由 3 位数字组成，首位数字定义了响应的大类：
+`URL` 是 Web 地址，材料中常见这些部分：
 
-| 状态码大类 | 代表含义 | 常见高频状态码 | 英文含义与触发场景 |
-| :--- | :--- | :--- | :--- |
-| **`2xx` (Success)** | **请求成功处理** | `200 OK`<br>`201 Created`<br>`204 No Content` | `OK`：请求成功返回数据<br>`Created`：新资源已成功创建<br>`No Content`：请求成功但无需返回内容（如删除成功） |
-| **`3xx` (Redirection)**| **重定向转移** | `301 Moved Permanently`<br>`302 Found (Temporary)`<br>`304 Not Modified` | `301`：资源永久重定向到新 URL<br>`302`：临时重定向<br>`304`：协商缓存命中，客户端使用本地缓存 |
-| **`4xx` (Client Error)**| **客户端错误** | `400 Bad Request`<br>`401 Unauthorized`<br>`403 Forbidden`<br>`404 Not Found`<br>`429 Too Many Requests` | `400`：请求参数格式错误<br>`401`：未提供身份认证凭据（未登录）<br>`403`：已登录但无权限访问该资源<br>`404`：请求的资源不存在<br>`429`：超出频率速率限制（Rate Limited） |
-| **`5xx` (Server Error)**| **服务器端错误** | `500 Internal Server Error`<br>`502 Bad Gateway`<br>`503 Service Unavailable`<br>`504 Gateway Timeout` | `500`：服务器内部代码崩溃异常<br>`502`：网关/代理从上游收到非法响应<br>`503`：服务过载或停机维护中<br>`504`：网关等待上游服务响应超时 |
+- `scheme`：如 `http` 或 `https`；
+- `host` 或 `hostname`：主机名称；
+- `port`：区分网络服务的数字；
+- `path`：资源路径；
+- `query parameter`：查询参数；
+- `fragment`：页面内部位置标记。
 
----
+`DNS` 是 `Domain Name System`，常见描述是 `resolve a domain name to an IP address`。
 
-## 三、 数据库、数据结构与 ACID 事务核心特性
+`IP address` 标识网络地址；`port` 标识主机上的服务入口。`socket` 在不同语境中可指通信端点或相关编程接口。
 
-### 数据库核心术语
+`TCP`、`UDP` 和 `QUIC` 是传输相关协议名。快速阅读时可以先记：TCP 常与可靠字节流一起出现；UDP 常与数据报一起出现；QUIC 常与 HTTP/3 一起出现。
 
-| 核心术语 | 英文全称 / 构词 | 技术原理与工程解析 |
-| :--- | :--- | :--- |
-| `Query` | 查询指令 | 向数据库发出的数据检索、插入、更新或删除指令 |
-| `Schema` | 模式 / 表结构定义 | 数据库中关于表结构、字段类型、主键外键与完整性约束的架构蓝图 |
-| `Index` | 索引 (复数: `indices`) | 为大幅加速数据检索效率而在特定字段上构建的 B+ 树或哈希检索结构 |
-| `Migration` | 数据迁移 / 结构版本变迁 | 将数据库表结构变更脚本化并纳入 Git 版本控制的工程机制 |
+`TLS` 是保护网络通信的安全协议。相关搭配：
 
----
+- `establish a connection`
+- `open / close a connection`
+- `connection refused`
+- `connection reset`
+- `TLS certificate`
+- `certificate expired`
+- `secure / encrypted connection`
 
-### 数据库事务四大特性：ACID 原则
-
-```mermaid
-graph TD
-    ACID["数据库事务特性 (ACID Properties)"] --> A["A: Atomicity (原子性)"]
-    ACID --> C["C: Consistency (一致性)"]
-    ACID --> I["I: Isolation (隔离性)"]
-    ACID --> D["D: Durability (持久性)"]
-```
-
-| 特性 | 英文术语 | 词源构词与中文释义 | 核心技术原理 |
-| :--- | :--- | :--- | :--- |
-| **A** | `Atomicity` | `atom` (不可分割的原子) + `-icity`<br>**原子性** | 事务中所有操作要么全部成功执行，要么全部失败回滚（All or Nothing） |
-| **C** | `Consistency` | `consistent` (前后一致的) + `-ency`<br>**一致性** | 事务执行前后，数据库必须始终保持合法状态与约束完整性 |
-| **I** | `Isolation` | `isolate` (隔离/分开) + `-ation`<br>**隔离性** | 多个并发事务同时执行时，彼此相互隔离互不干扰 |
-| **D** | `Durability` | `durable` (持久耐用的) + `-ity`<br>**持久性** | 一旦事务成功提交，其对数据的修改将永久保存在磁盘中，即使断电也不会丢失 |
+`The connection failed because the TLS certificate had expired.`
 
 ---
 
-## 四、 云原生、容器化与 Kubernetes 核心英语
+## 3. HTTP 方法与消息词汇
 
-| 术语 | 英文全称 / 词源 | 中文释义 | 技术解析与应用 |
-| :--- | :--- | :--- | :--- |
-| `Container` | `contain` (容纳) + `-er` | **容器** | 包含应用代码及所有依赖运行环境的轻量级独立沙盒 |
-| `Image` | **镜像** | 用于创建运行容器的只读静态模板 |
-| `Registry` | `register` (注册) + `-ry` | **镜像仓库** | 集中存储与分发容器镜像的中心服务（如 Docker Hub） |
-| `Cluster` | **集群** | 由多台物理机或虚拟机协同组成的计算资源池 |
-| `Pod` | 词源：**豌豆荚**（装有一颗或多颗豆子） | **Kubernetes 最小调度单元** | 共享网络与存储的一个或多个紧密协作的容器集合 |
-| `Node` | **节点** | K8s 集群中的单台物理机或虚拟机工作单元 |
-| `Deployment` | `deploy` (部署) + `-ment` | **无状态应用部署控制器** | 声明式管理 Pod 副本数量与滚动升级策略的控制器 |
-| `Scalability` | `scale` (规模) + `-able` + `-ity` | **可伸缩性 / 弹性扩缩容** | 系统根据负载高低自动增减计算实例资源的能力 |
-| `High Availability`| 简称 `HA` | **高可用性** | 系统长期持续无故障稳定运行的能力（通常要求 99.99% 四个九） |
-| `CI / CD` | `Continuous Integration / Continuous Deployment` | **持续集成 / 持续部署** | 自动化代码测试、打包、构建并发布上线的流水线机制 |
+`HTTP` 是 Web 中常见的请求—响应协议。`HTTPS` 表示 HTTP 通信由 TLS 保护。
+
+高频方法：
+
+- `GET`：获取资源或表示；
+- `POST`：提交数据或请求服务器执行处理；
+- `PUT`：创建或整体替换目标资源；
+- `PATCH`：部分修改；
+- `DELETE`：请求删除；
+- `HEAD`：只获取与响应相关的元数据。
+
+这些是方法的基本意图；具体 API 仍以自己的文档为准。
+
+`header` 携带消息的控制信息或元数据；`body` 或较新的规范用词 `content` 指消息内容；`content type` 表示内容格式。
+
+常见字段与表达：
+
+- `request header / response header`
+- `authorization header`
+- `content type`
+- `request body`
+- `query string`
+- `status code`
+- `redirect to another URL`
+- `cache a response`
+
+`The API returns a JSON response with a 200 status code.`
 
 ---
 
-## 五、 本课核心练习词汇
+## 4. 状态码怎样读
 
-点击下列词汇，在 Lexi 中查看释义并听标准发音：
+状态码按第一位分组：
 
-- `protocol` · `gateway` · `cluster` · `container` · `registry`
-- `query` · `schema` · `migration` · `atomicity` · `consistency`
-- `isolation` · `durability` · `deployment` · `scalability` · `pipeline`
-- `unauthorized` · `forbidden` · `idempotent` · `timeout` · `permanent`
+- `2xx success`：请求已成功处理；
+- `3xx redirection`：需要重定向或使用其他位置；
+- `4xx client error`：请求或客户端条件有问题；
+- `5xx server error`：服务器未能完成请求。
+
+高频状态：
+
+- `200 OK`
+- `201 Created`
+- `204 No Content`
+- `400 Bad Request`
+- `401 Unauthorized`
+- `403 Forbidden`
+- `404 Not Found`
+- `409 Conflict`
+- `429 Too Many Requests`
+- `500 Internal Server Error`
+- `502 Bad Gateway`
+- `503 Service Unavailable`
+- `504 Gateway Timeout`
+
+`401 Unauthorized` 的英文名称容易误导，它通常与缺少或无效的身份认证有关；`403 Forbidden` 更常表示服务器理解请求但不允许执行。
+
+常见句型：
+
+`The request was rejected with a 403 Forbidden response.`
+
+`The gateway timed out while waiting for the upstream service.`
+
+---
+
+## 5. API 文档中的关键词
+
+`API` 是 `application programming interface`。阅读接口文档时经常看到：
+
+- `authentication`：确认身份；
+- `authorization`：确认是否有权限；
+- `credential`：用于证明身份的凭据；
+- `access token`：访问令牌；
+- `rate limit`：速率限制；
+- `pagination`：分页；
+- `timeout`：等待超时；
+- `retry`：重试；
+- `idempotent`：重复相同请求的预期效果等同于一次；
+- `payload`：消息携带的数据；在 HTTP 新规范中也会看到更一般的 `content`。
+
+常见搭配：
+
+- `authenticate a request`
+- `grant / deny access`
+- `provide valid credentials`
+- `exceed the rate limit`
+- `retry a failed request`
+- `set a timeout`
+- `paginate the results`
+
+`Requests without valid credentials are rejected.`
+
+---
+
+## 6. 数据库基础术语
+
+`database` 是持久组织数据的系统。关系数据库材料中常见：
+
+- `table`：表；
+- `row / record`：行或记录；
+- `column / field`：列或字段；
+- `schema`：数据结构定义或命名空间，具体含义依产品；
+- `primary key`：唯一标识记录的键；
+- `foreign key`：引用另一表记录的键；
+- `index`：帮助加速特定查询的数据结构；
+- `query`：查询或数据库命令；
+- `result set`：查询返回的结果集合。
+
+常见动词：
+
+- `create / alter / drop a table`
+- `insert / update / delete a row`
+- `run / execute a query`
+- `fetch / retrieve records`
+- `filter / sort results`
+- `join two tables`
+- `add an index`
+
+`The query retrieves all active users from the database.`
+
+`SQL` 是用于关系数据库的语言名称。`NoSQL` 是覆盖多类非关系数据系统的宽泛行业词，不等于“完全没有查询语言”。
+
+---
+
+## 7. 事务、备份和数据变化
+
+`transaction` 是作为一个工作单元处理的一组数据库操作。理解常见文档只需认识：
+
+- `begin / commit / roll back a transaction`
+- `transaction isolation`
+- `concurrent transaction`
+- `deadlock`
+- `lock a row`
+
+`commit` 在数据库中表示确认事务，在 Git 中表示版本历史记录；这是同词在两个技术语境中的不同用法。
+
+`The transaction was rolled back after the update failed.`
+
+其他数据维护词：
+
+- `backup`：备份；
+- `restore`：从备份恢复；
+- `replication`：维护数据副本；
+- `migration`：迁移数据或结构；
+- `consistency`：数据或观察结果的一致性；
+- `durability`：已确认数据在规定故障条件下保持的性质。
+
+`backup` 和 `replica` 不能简单视为同义词：副本通常服务于持续运行，备份通常服务于恢复历史状态。
+
+---
+
+## 8. Container 与 image
+
+`container` 通常指隔离运行的进程环境；`container image` 是启动容器所需文件、配置和依赖的打包形式。
+
+- `Dockerfile`：描述如何构建镜像的文本文件；
+- `image`：不可变的分层运行包；
+- `container`：由镜像启动的运行实例；
+- `registry`：存储和分发镜像的服务；
+- `volume`：用于保存或挂载数据的存储；
+- `runtime`：实际运行容器的软件。
+
+常见搭配：
+
+- `build an image`
+- `tag / push / pull an image`
+- `run / stop a container`
+- `mount a volume`
+- `publish / expose a port`
+
+`The image contains the application and its runtime dependencies.`
+
+`image` 是包，`container` 是运行实例；两者是初学材料中最常混淆的一组词。
+
+---
+
+## 9. Cloud 与 Kubernetes 高频词
+
+`cloud computing` 指通过网络按需使用计算、存储和其他服务。常见资源词：
+
+- `instance / virtual machine`：虚拟计算实例；
+- `region`：云服务的地理区域；
+- `availability zone`：区域内相对独立的可用区；
+- `object storage`：对象存储；
+- `load balancer`：负载均衡器；
+- `managed service`：由供应方管理更多运行工作的服务；
+- `scaling`：扩缩容；
+- `high availability`：高可用性。
+
+Kubernetes 文档中的高频对象：
+
+- `cluster`：由多个计算资源组成的集群；
+- `node`：运行工作负载的机器；
+- `Pod`：Kubernetes 中最小的可部署计算对象；
+- `Deployment`：管理一组应用副本及更新；
+- `Service`：为一组变化的 Pod 提供稳定访问方式；
+- `namespace`：用于组织和隔离资源的命名空间；
+- `replica`：同一工作负载的一个副本。
+
+常见动词：
+
+- `deploy an application`
+- `schedule a Pod on a node`
+- `scale a deployment`
+- `expose a service`
+- `restart a container`
+- `roll out / roll back a release`
+
+`The deployment runs three replicas across two nodes.`
+
+---
+
+## 10. 监控和故障信息
+
+`monitoring` 强调收集和查看系统信号；`observability` 是更宽泛的行业术语，强调利用外部信号理解内部状态。
+
+- `metric`：可聚合的数值；
+- `log`：离散事件记录；
+- `trace`：一次请求跨组件的路径；
+- `alert`：满足条件后产生的通知；
+- `dashboard`：展示状态的界面；
+- `uptime / downtime`：可用和不可用时间；
+- `latency`：延迟；
+- `throughput`：吞吐量；
+- `error rate`：错误率。
+
+常见故障表达：
+
+- `the service is unavailable`
+- `latency has increased`
+- `the error rate is elevated`
+- `the database is unreachable`
+- `the connection pool is exhausted`
+- `the request was retried`
+- `the service has recovered`
+
+`We are seeing elevated latency and intermittent timeouts.`
+
+---
+
+## 11. 本课回看
+
+- client、server、request、response、endpoint 和 protocol 描述通信角色。
+- DNS、IP address、port、connection、TLS 和 certificate 常见于连接问题。
+- HTTP 材料围绕 method、header、content、status code、cache 和 redirect 展开。
+- API 文档常用 authentication、authorization、token、rate limit、timeout 和 retry。
+- 数据库材料常见 table、schema、query、index、transaction、backup 和 migration。
+- 容器材料必须区分 image、container、registry、volume 和 runtime。
+- 云原生材料常见 cluster、node、Pod、Deployment、Service、replica 和 scaling。
+- 监控材料使用 metric、log、trace、latency、throughput 和 error rate。
+
+### 延伸资料
+
+- [RFC 9110：HTTP Semantics](https://www.rfc-editor.org/rfc/rfc9110.html)
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/current/)
+- [Docker：What is an image?](https://docs.docker.com/get-started/docker-concepts/the-basics/what-is-an-image/)
+- [Kubernetes Concepts](https://kubernetes.io/docs/concepts/)

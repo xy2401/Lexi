@@ -1,88 +1,241 @@
 # 非谓语动词
 
-> **导读**：
-> - 英语语法中最严格的铁律之一是：**一个简单句在没有连词的情况下，有且仅能有一个谓语动词**。
-> - 当句子中需要表达多个动作时，其余动作必须“退居二线”，转化为**非谓语动词（Non-finite Verbs）**。
-> 
-> 非谓语动词的三种形式 `doing`、`to do` 与 `done`，本质上是在表达**动作的主被动方向**与**相对于主句的“逻辑时间差”**。
+> 非谓语不是“不能当谓语的三种形式”这么简单。它让一个事件嵌入另一个句子，同时压缩主语、时态和连接词。真正的难点是：谁执行内层事件，事件处于什么时间与语态，以及上层词选择哪种补语。
 
 ---
 
-## 一、 非谓语动词三大形态与时间逻辑全景图
+## 1. 限定性与非限定性
 
-```mermaid
-stateDiagram-v2
-    [*] --> To_Do: 动词意图 (待执行 / 目的)
-    To_Do: to do (将来 / 尚未发生)
-    
-    To_Do --> Doing: 触发动作 (进行中)
-    Doing: doing (进行 / 持续主动)
-    
-    Doing --> Done: 动作完成 (终态)
-    Done: done (完成 / 被动承受)
-    
-    Done --> [*]
-```
+限定动词能承载时态，并与主语建立一致关系：
 
----
+`Maya works at night.`
 
-## 二、 三大非谓语形态核心特性对照表
+非限定结构通常不独立承载时态：
 
-| 非谓语形态 | 语法名称 | 核心逻辑时间 | 主动 / 被动 | 核心语境与功能 | 经典例句 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **`to do`** | **动词不定式 (Infinitive)** | **将来 / 未发生** | 主动 (除非 to be done) | 表示**目的、计划、倾向、未来的动作** | `I decided to study abroad.` (决定去留学：尚未成行)<br>`He went there to meet his friend.` (去那里的目的) |
-| **`doing`** | **现在分词 / 动名词 (Participle / Gerund)** | **进行中 / 持续发生** | **主动发出** | 表示**正在进行的过程、长期的习惯、主动的伴随状态** | `I saw him walking on the street.` (看到他正在走)<br>`Swimming is good exercise.` (游泳这项长期的运动) |
-| **`done`** | **过去分词 (Past Participle)** | **已完成 / 状态** | **被动承受** | 表示**动作已经完成、或者主语被动承受该动作** | `The broken window was fixed.` (窗户被打破了)<br>`Given more time, we can finish it.` (如果被给予更多时间) |
+- `to` 不定式：`to work`
+- `-ing` 形式：`working`
+- 过去分词：<lexi-word form="irregular">`written`</lexi-word>
+- 裸不定式：`work`
+
+`Maya hopes to work abroad.` 只有 `hopes` 是限定动词；`to work` 的执行者由句法和语义推断为 Maya。
 
 ---
 
-## 三、 接 `to do` 与接 `doing` 的语义反转精讲
+## 2. `to` 不定式：尚待实现、目的与补足
 
-许多动词后既可以接 `to do` 又可以接 `doing`，其含义差异严格遵循“**`to do` 代表未发生的未来目的，`doing` 代表已发生或正在进行的事情**”：
+### 作主语或补语
 
-| 核心动词 | 接 `to do` (未发生 / 目的) | 接 `doing` (已发生 / 正在进行) | 语义对比解析 |
-| :--- | :--- | :--- | :--- |
-| `remember` | `remember to do sth.`<br>→ 记得**去做某事**（事情还没做，提醒去做） | `remember doing sth.`<br>→ 记得**曾经做过某事**（事情已完成，回忆过去） | `Remember to lock the door.` (记得去锁门)<br>`I remember locking the door.` (我记得我锁过门了) |
-| `forget` | `forget to do sth.`<br>→ 忘记**去执行某事**（未完成） | `forget doing sth.`<br>→ 忘记**曾经做过某事**（做过了但遗忘了） | `Don't forget to post the letter.` (别忘了去寄信)<br>`I forgot meeting him before.` (我忘了他以前见过我) |
-| `stop` | `stop to do sth.`<br>→ 停下手中的事，**转而去开启做另一件事** | `stop doing sth.`<br>→ **停止中断正在进行的某件事** | `He was tired, so he stopped to rest.` (停下来去休息)<br>`Please stop talking.` (请停止讲话) |
-| `regret` | `regret to do sth.`<br>→ **很遗憾地将要做某事**（如遗憾地宣布坏消息） | `regret doing sth.`<br>→ **后悔曾经做过某事**（为过去的行为后悔） | `We regret to inform you that...` (很遗憾地通知您)<br>`I regret saying those words.` (我后悔说了那些话) |
-| `try` | `try to do sth.`<br>→ **尽力、设法去达成某目标**（强调克服困难） | `try doing sth.`<br>→ **尝试体验一下某种方法**（强调尝试性探索） | `He tried to climb the wall.` (他设法翻墙)<br>`Try adding some salt.` (试着加点盐看看味道) |
+- `To learn a language takes time.`
+- `Her goal is to become a surgeon.`
 
----
+长不定式主语常后置：`It takes time to learn a language.`。这里的 `it` 是形式主语。
 
-## 四、 分词作定语与状语的极简主被动判断
+### 跟随动词
 
-### 1. 分词作定语修饰名词（主动进行 vs 被动完成）
+- `We decided to wait.`
+- `She hopes to publish the results.`
 
-| 修饰对象 | 使用 `doing` (主动 / 进行) | 使用 `done` (被动 / 完成) | 差异对比 |
-| :--- | :--- | :--- | :--- |
-| **国家状态** | `developing country` (发展中国家：正在发展中) | `developed country` (发达国家：已经发展完成) | 进程 vs 终态 |
-| **树叶状态** | `falling leaves` (飘落中的树叶：正在下落) | `fallen leaves` (落叶：已经落在地上的叶子) | 进行 vs 完成 |
-| **开水状态** | `boiling water` (沸腾中的水：水正在翻滚) | `boiled water` (凉开水：曾经烧开过的水) | 进行 vs 结果 |
-| **事件感受** | `interesting story` (令人感到有趣的故事：主动赋予特征) | `interested listener` (感兴趣的听众：被动感到兴趣) | 主动输出 vs 被动接收 |
+`decide` / `hope` / `plan` / `refuse` / `manage` 等倾向选择不定式，但应连同实际构式和例句学习。
 
----
+### 表目的
 
-### 2. 分词作状语的逻辑主语一致性原则
+`We ran the test again to confirm the result.`
 
-> **判断法则**：非谓语动词的逻辑主语，**必须是主句的主语**。  
-> - 如果主句主语**主动发出**该动作，用 `doing`；  
-> - 如果主句主语**被动承受**该动作，用 `done`。
+为了避免目的与结果混淆，可用 `in order to / so as to`；否定目的常用 `in order not to`。
 
-- **主动例句（`doing`）**：  
-  `Hearing the bad news, he couldn't help crying.`  
-  （逻辑主语是 `he`，他主动听到消息，故使用 `Hearing`）
-- **被动例句（`done`）**：  
-  `Seen from the top of the hill, the city looks beautiful.`  
-  （逻辑主语是 `the city`，城市是被人类俯瞰，故使用 `Seen`）
+### 形容词与名词补足
+
+- `The instructions are easy to follow.`
+- `We made a decision to postpone the launch.`
+
+`easy to follow` 表面上 `instructions` 是主句主语，语义上却是 `follow` 的宾语。
 
 ---
 
-## 五、 本课核心练习词汇
+## 3. 控制：谁是内层事件的隐含主语
 
-点击下列词汇与短语，在 Lexi 中查看释义并听标准发音：
+`Maya promised Leo to leave.`
 
-- `infinitive` · `participle` · `gerund` · `decide` · `remember`
-- `forget` · `regret` · `inform` · `developing` · `developed`
-- `boiling` · `boiled` · `interesting` · `interested` · `crying`
-- `remember to do` · `remember doing` · `stop to do` · `stop doing`
+通常是 Maya 离开，主句主语控制不定式的隐含主语。
+
+`Maya persuaded Leo to leave.`
+
+这里通常是 Leo 离开，宾语控制内层主语。两句结构相似，控制关系由动词的词汇性质决定。
+
+有时内层主语可以明说：
+
+`We arranged for Leo to meet the client.`
+
+`for` + <lexi-notation>`noun phrase`</lexi-notation> + <lexi-notation>`to-infinitive`</lexi-notation> 明确标出不定式的主语。
+
+---
+
+## 4. 提升：上层主语不一定是上层动词的参与者
+
+比较：
+
+- `Maya seems to understand.`
+- `It seems that Maya understands.`
+
+`Maya` 是 `understand` 的体验者，却不是 `seem` 所描述事件的施事。它从内层位置提升为表面主语。
+
+再看：
+
+`The problem is likely to continue.`
+
+问题本身不会“执行 likely”；`likely` 评价整个命题。控制与提升的区别会影响被动、虚词主语和意义解释，是高级句法的重要入口。
+
+---
+
+## 5. `-ing`：事件名词化与同步过程
+
+### 作主语或补语
+
+- `Reading improves concentration.`
+- `Her favorite activity is hiking.`
+
+传统语法常称这些为动名词。现代分析更重视 `-ing` 结构内部既有动词性质又能占据名词性位置。
+
+### 跟随动词和介词
+
+- `We avoided making the same mistake.`
+- `She insisted on checking every sample.`
+
+介词后通常使用 `-ing`：`Thank you for helping.`。`to` 若是介词，也同样如此：`I'm looking forward to hearing from you.`
+
+### 附加过程
+
+`She walked home singing softly.`
+
+`singing` 提供与主句同期的附加事件，其隐含主语通常与主句主语一致。
+
+---
+
+## 6. 不定式与 `-ing` 的意义选择
+
+某些动词只偏好一种形式，另一些两种都允许但意义改变。
+
+### `remember / forget`
+
+- `Remember to lock the door.` —— 别忘了将要做的事。
+- `I remember locking the door.` —— 记得已经做过。
+
+### `stop`
+
+- `She stopped smoking.` —— 停止吸烟。
+- `She stopped to smoke.` —— 停下原来的活动，目的是吸烟。
+
+### `try`
+
+- `Try restarting the device.` —— 把重启当作实验性办法。
+- `Try to restart the device.` —— 努力完成重启。
+
+### `regret`
+
+- `I regret saying that.` —— 后悔已说。
+- `We regret to inform you that...` —— 正式宣布令人遗憾的信息。
+
+不要把差异简化成“未来 vs 过去”的万能规则；每个构式都融合了动词词义、事件结构与惯用化。
+
+---
+
+## 7. 分词：修饰名词与压缩从句
+
+### 现在分词
+
+`The students waiting outside have appointments.`
+
+接近 `the students who are waiting outside`，表达主动或进行关系。
+
+### 过去分词
+
+`The samples collected yesterday are in the freezer.`
+
+接近 `the samples that were collected yesterday`，常表达被动或完成关系。过去分词本身仍不等于过去时间。
+
+### 分词形容词
+
+- `The lecture was boring.` —— 讲座引起无聊感。
+- `The students were bored.` —— 学生体验无聊感。
+
+这种施事/体验者关系比“物用 `-ing`、人用 `-ed`”更准确：`The news was shocking.`；`The shocked audience fell silent.`
+
+---
+
+## 8. 分词分句与悬垂修饰
+
+`Walking through the park, Maya found a wallet.`
+
+默认是 Maya 在公园行走。若写：
+
+`Walking through the park, the rain began.`
+
+语法会荒谬地把 `the rain` 当作行走者。这就是悬垂分词。可改为：
+
+`While Maya was walking through the park, it began to rain.`
+
+分词分句还可表达原因、时间、条件或让步，逻辑关系由上下文推断：
+
+- `Knowing the risks, she proceeded carefully.`
+- `Viewed from above, the valley resembles a bowl.`
+
+压缩提高密度，也增加歧义。专业写作在逻辑关系重要时应保留连接词。
+
+---
+
+## 9. 非谓语中的时间与语态
+
+普通形式通常与主句同时或随后发生；完成形式明确更早：
+
+- `She seems to know the answer.`
+- `She seems to have known the answer.`
+
+被动不定式与被动 `-ing`：
+
+- `The device needs to be repaired.`
+- `He dislikes being interrupted.`
+
+完成被动进一步组合：
+
+`She denied having been warned.`
+
+从右向左解析：`warn` 是核心事件，`been` 建立被动，`having` 建立先于主句事件的完成关系。
+
+---
+
+## 10. 裸不定式出现在哪里
+
+不用 `to` 的动词原形常见于：
+
+- 情态后：`You must wait.`
+- `make / let / have + object`：`They made us wait.`
+- 感知动词：`I heard her sing.`
+- `had better / would rather`：`You had better leave.`
+
+主动句里的裸不定式变成被动后有时恢复 `to`：`We were made to wait.`
+
+`help` 后可有或没有 `to`：`She helped me solve the problem.` / `She helped me to solve the problem.`
+
+---
+
+## 11. 编辑长句的方法
+
+遇到多个非谓语结构时：
+
+1. 圈出真正承载时态的限定动词。
+2. 为每个非谓语事件补问“谁执行”。
+3. 判断它相对主句是同时、更早还是随后。
+4. 判断主动、被动与完成关系。
+5. 检查上层动词、形容词或介词允许哪种补语。
+6. 若隐含主语或逻辑关系不清，展开成完整从句。
+
+---
+
+## 12. 本课回看
+
+- 非谓语结构把一个事件嵌入另一个句子，并压缩时态和主语信息。
+- 不定式、`-ing`、分词和裸不定式由上层构式选择。
+- 控制结构与提升结构表面相似，语义关系不同。
+- 补语形式变化常带来事件视角和时间关系变化。
+- 分词压缩从句时必须确认隐含主语，避免悬垂。
+- 完成与被动可以在非谓语内部继续组合，形成精确的时间和语态层次。

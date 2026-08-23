@@ -1,96 +1,219 @@
-# 句型结构与复合从句
+# 从句与复句
 
-> **导读**：
-> - 英语是一门**高度强调形式逻辑与主干骨架（Tree Structure）**的语言。
-> - 无论长达数十甚至上百词的论文复杂句，其底层核心都绝脱离不了**五大基本句型骨架**。长句只是在主干上像“搭积木”一样挂载了从句、非谓语短语与介词修饰。
-> 
-> 掌握“主干抓取与修饰剥离”的心智模型，就能在阅读外刊、学术文献和技术规范时做到一眼看穿句式结构。
+> 长句不是许多单词排成一条线，而是短语层层组成成分，从句再嵌入更大的从句。会识别谓语、配价和边界，就能像拆树一样读句子。
 
 ---
 
-## 一、 英语句子生成与扩展全景架构
+## 1. 从成分而不是单词开始
 
-```mermaid
-graph LR
-    A["英语句子体系 (Sentence Architecture)"] --> B["五大核心主干 (5 Core Patterns)"]
-    A --> C["修饰与扩展系统 (Modifiers)"]
-    A --> D["三大复合从句 (3 Clause Types)"]
+`The young scientist from Nairobi presented her findings at the conference.`
 
-    B --> B1["主 + 谓 (S + V)"]
-    B --> B2["主 + 谓 + 宾 (S + V + O)"]
-    B --> B3["主 + 系 + 表 (S + V + P)"]
-    B --> B4["主 + 谓 + 双宾 (S + V + IO + DO)"]
-    B --> B5["主 + 谓 + 宾 + 补 (S + V + O + OC)"]
+主干是：
 
-    C --> C1["介词短语 (Prepositional Phrase)"]
-    C --> C2["非谓语短语 (Participle / Infinitive)"]
-    C --> C3["插入语与同位语 (Appositive)"]
+[`The young scientist from Nairobi`] [`presented her findings`] [`at the conference`]
 
-    D --> D1["定语从句 (Adjective: 修饰名词)"]
-    D --> D2["状语从句 (Adverb: 时间/原因/条件)"]
-    D --> D3["名词性从句 (Noun: 主/宾/表/同位语)"]
-```
+第一个方括号整体是名词短语；第二个是谓语；第三个是地点附加语。替换、移动、问答等测试可以帮助识别成分，但没有单一测试在所有句子中都绝对可靠。
+
+- 代词替换：`the young scientist from Nairobi` → `she`
+- 问答：`Where did she present her findings?` → `at the conference`
+- 协调：`her findings and a new hypothesis`
 
 ---
 
-## 二、 英语五大核心基本句型公式表
+## 2. 谓语中心与动词配价
 
-任何简单句的主干均属于以下五种之一：
+动词决定它周围需要哪些参与者，这叫配价。传统“五大句型”可以作为入口：
 
-| 句型类别 | 句型结构公式 | 谓语动词特征 | 结构说明 | 典型例句拆解 |
-| :--- | :--- | :--- | :--- | :--- |
-| **句型 1** | **主语 + 不及物谓语 (S + V)** | 不及物动词（无需宾语即可表达完整含义） | 动作由主语发出，不涉及承受者 | `The sun rises.` (太阳升起)<br>`Birds fly.` (鸟儿飞翔) |
-| **句型 2** | **主语 + 及物谓语 + 宾语 (S + V + O)** | 及物动词（必须跟动作承受对象） | 动作直接作用于宾语 | `I wrote a letter.` (我写了一封信)<br>`He bought a computer.` |
-| **句型 3** | **主语 + 连系动词 + 表语 (S + V + P)** | 系动词 (`be`, `seem`, `feel`, `become`, `look`) | 谓语无实际动作，表语说明主语的性质、特征或身份 | `The apple tastes sweet.` (苹果尝起来很甜)<br>`She is a doctor.` |
-| **句型 4** | **主语 + 谓语 + 间宾 + 直宾 (S + V + IO + DO)** | 双宾动词 (`give`, `send`, `show`, `buy`, `pass`) | `间接宾语(人) + 直接宾语(物)`，可转换为 `to/for` 结构 | `He gave me a book.`<br>→ `He gave a book to me.` |
-| **句型 5** | **主语 + 谓语 + 宾语 + 宾补 (S + V + O + OC)** | 复合及物动词 (`make`, `find`, `keep`, `call`) | 宾语后必须加补语，否则句意不完整（宾语与补语有逻辑主谓关系） | `We made him our captain.` (我们选他当队长)<br>`I find English interesting.` |
+- 主语 + 不及物动词：`The baby slept.`
+- 主语 + 系动词 + 主语补语：`The soup smells wonderful.`
+- 主语 + 及物动词 + 宾语：`Maya opened the window.`
+- 主语 + 动词 + 间接宾语 + 直接宾语：`Leo sent me a link.`
+- 主语 + 动词 + 宾语 + 宾语补语：`They painted the door red.`
 
----
+这些不是英语全部结构。`put` 通常还需要地点补语：`She put the keys on the table.`；缺少 `on the table` 会让句子不完整。
 
-## 三、 三大复合从句体系功能速查
+同一动词也可改变配价：
 
-从句本质上是“一个具有完整主谓结构的小句子充当主句中的某一语法成分”：
-
-| 从句类别 | 充当的功能角色 | 引导词 (Connectives) | 作用与定位 | 经典例句 |
-| :--- | :--- | :--- | :--- | :--- |
-| **定语从句 (Adjective Clause)** | 相当于一个**形容词**，后置修饰先行词名词 | 关系代词：`that`, `which`, `who`, `whom`, `whose`<br>关系副词：`where`, `when`, `why` | 描述、限定或补充说明前方的名词 | `The man who called you yesterday is my teacher.` (昨天给你打电话的那个人) |
-| **状语从句 (Adverbial Clause)** | 相当于一个**副词**，修饰动词、形容词或整句 | 时间：`when`, `while`, `after`<br>原因：`because`, `as`<br>条件：`if`, `unless`<br>让步：`although`, `even if` | 交代动作发生的背景、时间、原因、前提条件或逻辑让步 | `Although it was raining hard, we continued our journey.` (尽管雨下得很大) |
-| **名词性从句 (Noun Clause)** | 相当于一个**名词**，可充当主语、宾语、表语或同位语 | 连词：`that`, `whether`, `if`<br>连接代词：`what`, `who`, `which`<br>连接副词：`how`, `when`, `where`, `why` | 充当句子的核心构件（如宾语从句、主语从句） | `What he said at the meeting surprised everyone.` (他在会上说的话让所有人吃惊) |
+- `The door opened.`
+- `Maya opened the door.`
 
 ---
 
-## 四、 长难句拆解 3 步法实战
+## 3. 补语与附加语
 
-面对结构复杂的长句，严格执行以下标准拆解流程：
+补语由中心词选择并补足意义；附加语提供时间、地点、方式、原因等可选信息。
 
-```mermaid
-graph TD
-    Step1["第一步：寻谓语，断从句 (标记所有动词与从属连词)"] --> Step2["第二步：剥葱皮，找主干 (划去介词短语、定语从句与插入成分)"]
-    Step2 --> Step3["第三步：合修饰，顺逻辑 (将各修饰从句与短语按中文逻辑归位)"]
-```
+`She relied on the backup during the outage.`
 
-### 经典长难句实战拆解演示
+`on the backup` 是 `rely` 选择的补语；`during the outage` 是时间附加语。删除测试只是线索：有些补语可由语境省略，有些附加语又对信息非常重要。
 
-> **原长难句**：  
-> `The scientists [who are working in the national laboratory] have discovered [that the newly developed material (which was tested last week) can significantly reduce energy loss in high-temperature environments].`
-
-- **第 1 步：寻谓语与从属连词**：
-  - 关系词与连词：`who`, `that`, `which`
-  - 动词群：`are working`, `have discovered` (核心主动词), `was tested`, `can reduce`
-- **第 2 步：剥离修饰，提取主干**：
-  - 去除 `who...` 定语从句（修饰 scientists）
-  - 去除 `which...` 定语从句（修饰 material）
-  - 提取最核心主干：**`The scientists have discovered that ...`（科学家们已经发现了……）**
-- **第 3 步：理顺宾语从句内部逻辑**：
-  - 宾语从句核心主干：`The newly developed material can significantly reduce energy loss.`（新开发的材料能显著降低能量损耗）。
-  - 合并修饰得到通顺译文：*“国家实验室的科学家们发现，上周测试的新型材料能够在高温环境下显著降低能量损耗。”*
+这个区别能解释介词、被动和关系从句：`The backup was relied on.` 保留了动词选择的 `on`。
 
 ---
 
-## 五、 本课核心练习词汇
+## 4. 并列：连接同等级结构
 
-点击下列词汇与短语，在 Lexi 中查看释义并听标准发音：
+`and / but / or / nor / yet / so` 可以连接词、短语或分句：
 
-- `sentence` · `subject` · `predicate` · `object` · `complement`
-- `adjective` · `adverbial` · `clause` · `connective` · `laboratory`
-- `discovered` · `significantly` · `reduce` · `environment` · `appositive`
+- `We measured temperature and pressure.`
+- `The method is simple but surprisingly accurate.`
+- `The test passed, so we deployed the patch.`
+
+并列结构倾向保持平行：
+
+`The job involves collecting data, analyzing results, and to write reports.`
+
+应改为：
+
+`The job involves collecting data, analyzing results, and writing reports.`
+
+独立分句之间不能只用逗号硬连接。可使用句号、分号或合适连词。
+
+---
+
+## 5. 名词性从句：把命题放进名词位置
+
+### `that` 从句
+
+`We know that the sample is contaminated.`
+
+整个 `that` 从句是 `know` 的宾语。作主语时常后置：
+
+- `That the result was unexpected surprised everyone.`
+- `It surprised everyone that the result was unexpected.`
+
+### 嵌入疑问
+
+- `We don't know whether the sample is safe.`
+- `Please explain how the device works.`
+
+内层使用陈述语序，不执行问句倒装。
+
+### 同位语从句
+
+`The claim that the treatment is harmless requires evidence.`
+
+从句说明 `claim` 的内容。它与关系从句不同：这里 `that` 不在从句内部承担成分角色。
+
+---
+
+## 6. 关系从句：给名词增加命题
+
+### 限定性关系从句
+
+`Students who submit late will lose marks.`
+
+从句帮助确定说的是哪些学生，通常不用逗号。
+
+### 非限定性关系从句
+
+`Maya, who leads the project, will present the results.`
+
+说话人已确定 Maya，从句只是补充信息，书面语用逗号隔开。
+
+### 空位与关系词
+
+`The book that I borrowed ___ was excellent.`
+
+`that` 对应 `borrowed` 的宾语空位。限定性宾语关系词常可省略：`The book I borrowed was excellent.`。主语关系词不能这样省略：`The book won the prize is...` 不成立。
+
+介词可留在句尾或正式前置：
+
+- `The colleague who I spoke to was helpful.`
+- `The colleague to whom I spoke was helpful.`
+
+---
+
+## 7. 状语从句：建立事件关系
+
+状语从句表达：
+
+- 时间：`Call me when you arrive.`
+- 原因：`We stopped because the road was flooded.`
+- 条件：`If the checksum matches, accept the file.`
+- 让步：`Although the sample was small, the pattern was clear.`
+- 目的：`We repeated the test so that others could verify it.`
+- 结果：`The signal was so weak that we could barely detect it.`
+- 比较：`The task took longer than we expected.`
+
+连接词标明逻辑关系。删除连接词改用分词可提高密度，但也可能把原因、时间和伴随关系变得含糊。
+
+---
+
+## 8. 从句可以嵌套
+
+`The reviewer argued that the evidence we collected was insufficient because the instrument had not been calibrated.`
+
+逐层拆解：
+
+[`The reviewer argued` [`that the evidence` [`we collected`] `was insufficient` [`because the instrument had not been calibrated`]]
+
+1. 最外层谓语：`argued`。
+2. `that` 从句是 `argued` 的内容。
+3. `we collected` 修饰 `evidence`。
+4. `because` 从句说明“证据不足”的原因。
+
+先找所有限定动词，再识别连接词和关系词，是阅读复杂句最稳定的方法。
+
+---
+
+## 9. 外置、存在句与信息重量
+
+英语倾向把长而新的成分放在后面。
+
+### 外置
+
+- 笨重前置：`That the two estimates differ is obvious.`
+- 常见外置：`It is obvious that the two estimates differ.`
+
+### 存在句
+
+`There are three problems with this argument.`
+
+`there` 引导听者进入一个存在场景，把新的 `three problems` 放到后面。这里的 `there` 不是地点副词。
+
+### 重成分后移
+
+`We explained to the committee the reasons for the unexpected delay.`
+
+较长的宾语后移能避免早期拥堵，但需要防止句法关系含混。
+
+---
+
+## 10. 省略、指代与跨句连贯
+
+完整句法分析还要追踪没有重复出现的材料：
+
+`Maya chose the blue folder, and Leo chose the green one.`
+
+`one` 替代 `folder`。在 `Leo can play the violin, and Maya can too.` 中，第二个 `can` 后省略了可恢复的谓语。
+
+篇章连贯依赖旧信息、新信息和指代链：
+
+`A new sensor was installed yesterday. The device will record temperature every minute.`
+
+`the device` 回指前句的新传感器。句法正确不保证指代清楚；多个潜在先行词出现时，应重复关键名词。
+
+---
+
+## 11. 长句解析算法
+
+1. 标出所有带时态的限定动词。
+2. 给每个限定动词寻找主语。
+3. 圈出 `that / whether / who / which / because / if` 等边界标记。
+4. 从动词配价判断必要补语，暂时移开附加语。
+5. 从最内层从句向外拼回。
+6. 最后判断每层的逻辑关系与信息焦点，而不只是翻译单词。
+
+写作时反向操作：先明确主命题，再把原因、限定和证据放进正确层级。若一个句子承载多个同等重要的主张，就应该拆句。
+
+---
+
+## 12. 本课回看
+
+- 句子由成分构成，动词配价决定核心骨架。
+- 传统句型是有用入口，不是结构的全部。
+- 名词性、关系和状语从句分别填充名词位置、修饰名词和连接事件。
+- 从句可以递归嵌套，因此长句要按层级而非线性拆解。
+- 外置、存在句和后移共同管理信息重量。
+- 解析从限定动词与从句边界开始，写作则从主命题与逻辑关系开始。

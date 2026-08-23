@@ -1009,6 +1009,7 @@ function openWordNet(word: string) {
         :active="activeTab === 'course'"
         :desktop-layout="desktopLayout.course"
         @select-word="handleExtensionSelectWord"
+        @speak-text="speak"
         @immersive-change="handleImmersiveChange('course', $event)"
         @update:desktop-layout="updateDesktopCourseLayout"
       />
@@ -1359,25 +1360,41 @@ function openWordNet(word: string) {
   .desktop-brand-copy {
     display: grid;
     flex: 1;
+    padding-right: 24px;
   }
 
   .desktop-brand-copy strong { font-size: 1rem; }
   .desktop-brand-copy small { color: #8795a4; font-size: .66rem; }
   .desktop-brand > button {
-    flex: none;
-    width: 28px;
-    height: 28px;
+    position: fixed;
+    z-index: 710;
+    top: 20px;
+    left: 212px;
+    display: grid;
+    place-items: center;
+    width: 24px;
+    height: 24px;
     border: 1px solid #dce4eb;
-    border-radius: 8px;
+    border-radius: 999px;
     background: #fff;
     color: #64748b;
+    font-size: .75rem;
+    box-shadow: 0 2px 8px rgb(15 23 42 / 10%);
     cursor: pointer;
+    transition: left .2s ease, color .15s ease, border-color .15s ease, box-shadow .15s ease;
+  }
+
+  .desktop-brand > button:hover {
+    border-color: #b9c9d6;
+    color: #2476b7;
+    box-shadow: 0 4px 12px rgb(15 23 42 / 14%);
   }
 
   .desktop-nav {
     flex: 1;
     min-height: 0;
     overflow-y: auto;
+    overflow-x: hidden;
     padding: 8px 0;
     scrollbar-width: thin;
   }
@@ -1468,7 +1485,9 @@ function openWordNet(word: string) {
   .desktop-sidebar .desktop-brand-copy,
   .desktop-sidebar .desktop-nav-copy,
   .desktop-sidebar .desktop-nav-group h2 {
-    display: none;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity .12s ease .08s, visibility 0s linear .08s;
   }
 
   .desktop-sidebar:not(.collapsed) {
@@ -1476,28 +1495,16 @@ function openWordNet(word: string) {
     box-shadow: 8px 0 28px rgb(15 23 42 / 10%);
   }
 
-  .desktop-sidebar:not(.collapsed) .desktop-brand-copy,
-  .desktop-sidebar:not(.collapsed) .desktop-nav-copy { display: grid; }
-  .desktop-sidebar:not(.collapsed) .desktop-nav-group h2 { display: block; }
-
   .desktop-sidebar.collapsed .desktop-brand > button {
-    position: static;
-    display: grid;
-    place-items: center;
-    width: 32px;
-    height: 26px;
-    border-radius: 7px;
-    font-size: .8rem;
-    box-shadow: 0 1px 4px rgb(15 23 42 / 8%);
+    left: 56px;
   }
 
-  .desktop-sidebar.collapsed .desktop-brand {
-    display: grid;
-    grid-template-columns: 1fr;
-    justify-items: center;
-    gap: 6px;
-    min-height: 84px;
-    padding: 0 0 10px;
+  .desktop-sidebar.collapsed .desktop-brand-copy,
+  .desktop-sidebar.collapsed .desktop-nav-copy,
+  .desktop-sidebar.collapsed .desktop-nav-group h2 {
+    opacity: 0;
+    visibility: hidden;
+    transition-delay: 0s;
   }
 }
 

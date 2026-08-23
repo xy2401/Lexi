@@ -1,103 +1,223 @@
-# 高级句法
+# 语序、强调与信息结构
 
-> **导读**：
-> - 英语在常规语序之外有四种句法手段：**倒装**调整语序突出焦点，**强调**标记关键成分，**省略与替代**消除冗余，**主谓一致**约束句子骨架。
-> - 本课是语法主线的收官：四者都建立在前序课程的名词、动词与从句基础之上，学完即完成从入门到精通的语法闭环。
+> 高级句法并不是把句子写得更长，而是有意识地改变默认排列：把什么设为主题，把什么推到焦点，哪些内容可以省略，以及形式与意义如何跨越表面位置建立联系。
 
 ---
 
-## 一、 四大句法手段全景图
+## 1. 默认顺序与标记结构
 
-```mermaid
-graph TB
-    BASE["常规语序<br>Subject + Verb + Object"] --> INV["倒装 Inversion<br>Not until then did I understand."]
-    BASE --> EMP["强调 Emphasis<br>It was Tom that solved it."]
-    BASE --> ELL["省略与替代<br>She can swim, and I can too."]
-    BASE --> AGR["主谓一致 Agreement<br>Each of the plans has a flaw."]
+英语无标记陈述句常按“主语—谓语—补语—附加语”展开：
 
-    INV --> I1["完全倒装：谓语整体前置"]
-    INV --> I2["部分倒装：助动词前置"]
-```
+`Maya presented the results at the meeting.`
+
+当写成 `At the meeting, Maya presented the results.`，地点被前置为篇章框架。语法关系没有改变，信息组织改变了。
+
+标记结构通常有明确动机：承接前文、制造对比、纠正误解、平衡信息重量或满足特定语域。没有动机的标记结构只会增加处理负担。
 
 ---
 
-## 二、 倒装：完全倒装与部分倒装
+## 2. 主题与焦点
 
-### 1. 完全倒装：谓语动词整体移到主语之前
+主题是句子“从哪里说起”，焦点是当前最有信息价值或被对比的部分。
 
-| 触发条件 | 示例 | 说明 |
-| :--- | :--- | :--- |
-| `here / there / now / then` 开头 + `be / come / go` | `Here comes the bus.` / `There goes the bell.` | 主语为名词时倒装；主语为代词不倒装（`Here it comes.`） |
-| 方位副词/介词短语开头 + 位移动词 | `On the hill stands a tower.` | 描写性场景，主语较长时保持句子平衡 |
-| `there be` 存在句 | `There are two options.` | 存在句本身即完全倒装结构 |
+对问题 `Who repaired the server?`，自然回答是：
 
-### 2. 部分倒装：只把助动词/情态动词移到主语之前
+`Maya repaired the server.`
 
-| 触发条件 | 示例 | 说明 |
-| :--- | :--- | :--- |
-| 否定词开头（`never`, `seldom`, `hardly`, `not only`, `no sooner`） | `Never have I seen such a storm.` | 语气强烈，正式文体 |
-| `Only + 状语` 开头 | `Only then did I realize the truth.` | `only` 修饰状语才倒装 |
-| `so + 形容词/副词` 前置 | `So fast does light travel that we cannot perceive it.` | 强调程度 |
-| 虚拟条件省略 `if`（承接 11 课） | `Had I known, I would have come.` | `were / had / should` 提前 |
-| `as / though` 让步倒装 | `Child as he is, he speaks three languages.` | 表语/动词原形提前，注意名词前**不加冠词** |
+重音通常落在 `Maya`。对 `What did Maya repair?`，同一单词顺序的焦点则落在 `server`。
 
-> [!IMPORTANT]
-> `So do I.` / `Neither do I.`（我也是 / 我也不是）也属于部分倒装，用于简短附和，助动词须与前句时态一致。
+焦点首先可由语音重音表达，书面语再借助句法、上下文和排版。不要把粗体当成句法分析的替代品。
 
 ---
 
-## 三、 强调结构
+## 3. 否定与限制成分引起的倒装
 
-| 强调手段 | 公式 | 示例 | 说明 |
-| :--- | :--- | :--- | :--- |
-| 强调句型 | `It is / was + 被强调部分 + that / who + 其余` | `It was Tom that solved the problem.` | 可强调主语、宾语、状语；去掉 `It is...that` 后句子仍完整 |
-| 助动词强调 | `do / does / did + 动词原形` | `I do appreciate your help.` / `He did finish it.` | 强调肯定，只用于一般现在与一般过去 |
-| 疑问词强调 | `what / who / where + ever` | `What on earth happened?` | 口语加强语气 |
+某些否定或限制性成分前置后，助动词移到主语前：
 
-> [!TIP]
-> 判断强调句的方法：**删去 `It is/was ... that` 后若还原出一个完整句子，即为强调句**。`It was at nine that he arrived.` → `He arrived at nine.` 成立。
+- `Never have I seen such a clear result.`
+- `Rarely do these errors occur together.`
+- `Only then did we understand the problem.`
+- `Not until midnight did the service recover.`
 
----
+没有现成助动词时使用 `do` 支持。并非所有前置副词都倒装：`Yesterday we finished the test.` 不需要 `did`。
 
-## 四、 省略与替代
+`only` 修饰主语时也不倒装：`Only Maya knew the password.`
 
-| 手段 | 场景 | 示例 | 说明 |
-| :--- | :--- | :--- | :--- |
-| 并列成分省略 | 并列句中省略相同部分 | `She likes tea, and (she likes) coffee too.` | 省略重复的谓语或宾语 |
-| 不定式保留 `to` | 省略重复的动词原形，保留 `to` | `You may leave if you want to (leave).` | `want to` 后省略动词 |
-| `do so` 替代 | 替代前文动作 | `He promised to submit the report, and he did so on time.` | 正式文体替代 |
-| `so / neither` 倒装替代 | 简短附和 | `I can swim.` — `So can I.` / `Neither can I.` | 承接本章倒装规则 |
-| 状语从句省略 | 从句主语与主句一致且含 `be` 时，省略“主语 + be” | `When (he was) asked about it, he smiled.` | 逻辑主语必须一致 |
+### `not only`
 
-> [!WARNING]
-> 状语从句省略的前提是**从句主语与主句主语一致**：`When crossing the street, cars nearly hit him.` 是典型悬垂错误（省略后逻辑主语变成了 `cars`）。
+`Not only did the update reduce latency, but it also improved accuracy.`
+
+倒装只发生在前置的第一分句，后面的 `but` 分句保持普通语序。
 
 ---
 
-## 五、 主谓一致
+## 4. 地点前置与完整倒装
 
-| 一致原则 | 核心规则 | 示例 |
-| :--- | :--- | :--- |
-| 语法一致 | 按主语的语法形式（单复数）决定谓语 | `The list of items is long.`（中心词 `list` 为单数） |
-| 意义一致 | 按表达的实际意义决定 | `The team are arguing among themselves.`（强调队员个体） |
-| 就近原则 | 谓语与最近的主语一致 | `Either you or he is right.` / `Neither the students nor the teacher knows.` |
+文学描写、新闻和场景介绍中，地点成分后可出现“谓语—主语”顺序：
 
-### 高频难点速查
+- `On the hill stood an ancient temple.`
+- `Here comes the bus.`
 
-| 主语类型 | 谓语 | 示例 |
-| :--- | :--- | :--- |
-| `A with / along with / as well as B` | 随 A | `The teacher, along with his students, is visiting the lab.` |
-| 集合名词（`family`, `team`, `class`） | 整体单数 / 成员复数 | `His family is large.` / `His family are all doctors.` |
-| `a number of` vs `the number of` | 复数 vs 单数 | `A number of students are absent.` / `The number of students is rising.` |
-| 时间/距离/金额作整体 | 单数 | `Ten years is a long time.` |
-| 书名、国名、学科（复数形式） | 单数 | `The United States is...` / `Physics is...` |
+这种结构常搭配位置或运动动词，并把较长的新主语放到句尾。代词主语通常保持 `Here it comes.`，不是 `Here comes it`。
 
 ---
 
-## 六、 本课核心练习词汇
+## 5. 强调句：锁定对比焦点
 
-点击下列词汇，在 Lexi 中查看释义并听标准发音：
+分裂句形式为：
 
-- `inversion` · `emphasis` · `ellipsis` · `agreement` · `neither`
-- `seldom` · `nowhere` · `merely` · `whatever` · `themselves`
-- `rarely` · `scarcely` · `wherever` · `nonetheless` · `whichever`
+`It` `is` / `was` + <lexi-notation>`focus`</lexi-notation> + `that` / `who` + <lexi-notation>`remainder`</lexi-notation>
+
+- `It was Maya who discovered the error.`
+- `It was on Tuesday that the error occurred.`
+
+它通常带有排除其他候选的对比含义。普通句只是报告事件；分裂句常纠正“谁”或“何时”。
+
+伪分裂句把开放变量放在 `what` 从句中：
+
+- `What we need is more time.`
+- `What Maya did was restart the server.`
+
+倒装伪分裂可先给焦点：`More time is what we need.`
+
+---
+
+## 6. 左置、右置与悬置主题
+
+### 左置
+
+`This proposal, I cannot support.`
+
+宾语被前置形成强对比，语域较标记。
+
+### 左悬置
+
+`That new intern, I don't know what she is working on.`
+
+前面的名词短语建立话题，句内用代词回指；它不一定是从原位置移动出来的成分，口语中更常见。
+
+### 右置
+
+`It's remarkable, the progress they have made.`
+
+后置名词短语补充说明前面的代词或评价。正式写作通常选择更清楚的完整结构。
+
+---
+
+## 7. 外置与提升
+
+`It is likely that the plan will fail.`
+
+长 `that` 从句后置，`it` 占据主语位置。另一种形式是：
+
+`The plan is likely to fail.`
+
+`the plan` 是 `fail` 的语义主语，却占据上层主语位置，这是提升结构。
+
+比较控制结构：
+
+- 提升：`Maya seems to understand.`
+- 控制：`Maya hopes to understand.`
+
+`seem` 可以容纳无指代的形式主语：`There seems to be a problem.`；`hope` 需要有愿望的参与者，不能说 `There hopes to be...`。
+
+---
+
+## 8. 一致关系：不只看最近名词
+
+限定动词通常与句法主语一致：
+
+`The key to the cabinets is missing.`
+
+主语中心是单数 `key`，不是最近的复数 `cabinets`。
+
+但英语中也存在概念一致与近邻一致：
+
+- `A number of students are absent.`
+- `The number of students is increasing.`
+- `Neither the manager nor the assistants are available.`
+
+集合名词在不同英语变体中可按整体或成员理解：`The team is...` / `The team are...`。专业文稿应选择目标语域并保持一致。
+
+---
+
+## 9. 省略：让可恢复内容不再重复
+
+### 并列省略
+
+`Maya ordered tea, and Leo coffee.`
+
+第二分句省略了 `ordered`。
+
+### 助动词承载省略
+
+- `I can solve the first problem, but I can't the second.`
+- `Maya has finished, and Leo has too.`
+
+### 比较结构
+
+`The second test was more accurate than the first.`
+
+`the first` 可恢复为 `the first test`。省略必须让听者能唯一恢复内容；并列层级不同会造成歧义。
+
+### 空缺式省略
+
+`Someone called, but I don't know who.`
+
+`who` 后可恢复 `called`。疑问成分保留，其余从句被省略。
+
+---
+
+## 10. 替代：`one / do / so / not`
+
+- 名词替代：`I prefer the smaller one.`
+- 谓语替代：`She promised to help, and she did.`
+- 命题替代：`Will it rain? I think so.`
+- 否定命题：`Is the shop open? I hope not.`
+
+并非所有动词都以相同方式允许 `so / not`：`I think so` 自然，`I know so` 通常不自然。替代词的许可取决于上层词和语用。
+
+---
+
+## 11. 作用域与结构歧义
+
+### 量词作用域
+
+`Every student read a book.`
+
+可能是每人读不同的书，也可能存在一本所有人都读的书。上下文常消歧；研究或合同文字应明确写 `the same book` 或 `possibly different books`。
+
+### 介词短语附着
+
+`I saw the scientist with a telescope.`
+
+可能是“我用望远镜看见科学家”，也可能是“我看见带望远镜的科学家”。线性相邻无法唯一决定层级。
+
+### 否定与情态
+
+`All files may not be recoverable.` 可能意为“并非所有文件都可恢复”，但容易被读成“所有文件都可能无法恢复”。清晰写成 `Some files may be unrecoverable.`
+
+---
+
+## 12. 句法选择与文体
+
+高级结构的价值在于匹配信息任务：
+
+- 倒装适合突出限制条件，但大量使用会显得戏剧化。
+- 分裂句适合纠正对比，不适合给每句都“加强语气”。
+- 被动和外置可维持主题链，也可能隐藏责任。
+- 省略减少重复，也可能让跨句解析变难。
+- 名词化提升信息密度，但连续名词链会掩盖谁做了什么。
+
+编辑时先恢复默认结构，确认命题和参与者，再判断标记形式提供了什么额外价值。
+
+---
+
+## 13. 本课回看
+
+- 标记语序服务于主题、焦点、对比和信息重量。
+- 负面成分前置、分裂句和地点倒装各有严格的结构条件。
+- 提升与控制的表面形式相近，语义参与关系不同。
+- 一致关系由句法、概念和变体惯例共同影响。
+- 省略与替代依靠上下文恢复内容。
+- 高级句法的成熟使用标准不是复杂，而是更精确、更连贯、更易处理。

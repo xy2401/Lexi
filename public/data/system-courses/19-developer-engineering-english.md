@@ -1,94 +1,255 @@
-# 开发与工程常用术语
+# Git、提交与代码评审
 
-> **导读**：
-> - 现代软件开发几乎完全构筑在英语语境之上：从版本控制、命令行工具到运行报错与开源协作。
-> - 很多开发者虽然每天敲代码，但对 `rebase`、`cherry-pick`、`stash`、`deprecated` 等指令与术语背后的词源本义缺乏深刻理解，导致查阅英文文档或排查错误时效率受限。
-> 
-> 本课系统梳理 **Git 版本控制工作流**、**Linux 核心系统指令**、**常见异常报错与 Debug 调试术语**。
+> 本课帮助读者快速看懂代码仓库、Issue、Pull Request、测试结果和事故通告中的常见英文。概念解释只用于理解工程材料，不教授软件开发或项目管理本身。
 
 ---
 
-## 一、 软件工程与版本控制全景工作流
+## 1. 从需求到发布的词汇地图
 
-从编写代码到提交部署，现代工程涉及以下核心区域与流转动作：
+常见开发流程可以帮助定位术语：
 
-```mermaid
-gitGraph
-    commit id: "init: scaffold"
-    commit id: "feat: user-api"
-    branch feature/auth
-    checkout feature/auth
-    commit id: "feat: login"
-    commit id: "feat: jwt"
-    checkout main
-    commit id: "docs: readme"
-    merge feature/auth id: "merge: PR #1"
-    commit id: "chore: release"
-```
+`requirement` → `issue` → `change` → `review` → `test` → `release`
 
----
+- `requirement`：需求或必须满足的条件；
+- `acceptance criteria`：用于确认需求是否满足的验收条件；
+- `issue`：待跟踪的问题，可以是缺陷、任务或建议；
+- `change`：一次代码或配置变更；
+- `review`：对变更进行审查；
+- `release`：对外提供的版本；
+- `deployment`：把某个版本放入运行环境的过程。
 
-## 二、 Git 版本控制核心操作与指令词源拆解
+`release` 和 `deploy` 不完全相同：版本可以已经部署但尚未向用户发布，也可以先发布安装包而不由团队直接部署。
 
-| Git 核心术语 | 词源本义与底层原理 | 典型工程场景与实战指令 |
-| :--- | :--- | :--- |
-| `commit` | 词源：**承诺 / 交付记录**<br>将暂存区的修改永久固化为一个版本历史快照 | `git commit -m "feat: add user login"` |
-| `stash` | 词源：**藏匿 / 储藏**<br>将当前未完成的脏工作区临时封存藏起，以便紧急切换分支 | `git stash` (暂存当前修改)<br>`git stash pop` (弹出恢复修改) |
-| `checkout` | 词源：**结账离开 / 检出档案**<br>切换分支或将某个历史版本检出到工作区 | `git checkout main`<br>`git checkout -b feature/login` |
-| `merge` | 词源：**合并 / 融合**<br>将两个分支的历史分叉合并在一起，产生新的合并提交节点 | `git merge feature/auth` |
-| `rebase` | 构词：`re-` (重新) + `base` (基底) (**变基**)<br>将当前分支的基底挪到目标分支最新提交之上，形成线性历史 | `git rebase main` |
-| `cherry-pick` | 词源：**摘樱桃**（精选挑出最好的）<br>挑选某个分支上的单独某一次特定提交合并过来 | `git cherry-pick <commit-hash>` |
-| `revert` | 词源：`re-` (向后) + `vert` (转) (**安全回滚**)<br>通过新建一个相反的提交来撤销指定历史改动（不破坏历史线） | `git revert HEAD` |
-| `reset` | 词源：**重置**<br>强制将分支指针重置到某一历史位置（`--hard` 会丢弃未提交改动） | `git reset --hard HEAD~1` |
-| `conflict` | 词源：**冲突**<br>多人在同一文件的相同行做出不同修改，Git 无法自动合并 | `Resolve merge conflicts` (解决合并冲突) |
+`The change has been deployed but is not yet available to all users.`
 
 ---
 
-## 三、 Linux 核心系统指令与权限机制英文
+## 2. Repository 与 Git 高频词
 
-Linux 终端命令多为英文短语或首字母缩写：
+`repository` 常缩写为 `repo`，指保存项目文件和版本历史的仓库。
 
-| Linux 命令 | 英文全称 / 来源 | 中文释义 | 命令核心功能解析 |
-| :--- | :--- | :--- | :--- |
-| `pwd` | `Print Working Directory` | 打印当前工作目录 | 显示当前所在文件系统的绝对路径 |
-| `ls` | `List` | 列出目录内容 | 列出当前目录下的文件与子文件夹 (`ls -la`) |
-| `cd` | `Change Directory` | 切换目录 | 切换当前所在的路径目录 (`cd ..`) |
-| `mkdir` | `Make Directory` | 创建目录 | 新建一个或多个文件夹 (`mkdir -p a/b/c`) |
-| `rm` | `Remove` | 删除文件或目录 | 移除指定文件 (`rm -rf` 强制递归删除) |
-| `cp` | `Copy` | 复制 | 拷贝文件或目录 (`cp -r src/ dist/`) |
-| `mv` | `Move` | 移动 / 重命名 | 移动文件路径或重命名文件 (`mv old.txt new.txt`) |
-| `chmod` | `Change Mode` | 修改文件权限模式 | 更改文件读写执行权限 (`chmod +x script.sh`) |
-| `chown` | `Change Owner` | 更改所有者 | 修改文件或目录所属的用户和用户组 |
-| `sudo` | `Superuser Do` | 超级管理员执行 | 以 root 超级管理员权限执行后续指令 |
-| `grep` | `Global Regular Expression Print` | 全局正则检索打印 | 搜索包含特定文本或正则表达式的行 |
-| `tail` | `Tail (尾巴)` | 查看文件末尾内容 | 查看最新日志文件输出 (`tail -f app.log`) |
+- `working tree`：当前看到和编辑的文件；
+- `staging area` 或 `index`：准备进入下一次提交的内容；
+- `commit`：带有作者、时间和说明的历史记录；
+- `branch`：指向一条开发历史的分支名称；
+- `tag`：通常用于标记某个固定版本；
+- `remote`：另一个可同步的仓库位置。
 
----
+常见动作搭配：
 
-## 四、 常见异常报错（Errors）、堆栈信息与 Debug 术语
+- `clone a repository`
+- `create / switch branches`
+- `stage changes`
+- `commit changes`
+- `push to a remote`
+- `pull the latest changes`
+- `merge a branch`
+- `resolve a conflict`
+- `revert a commit`
 
-排查 Bug 时最频繁遇见的英文术语与警示表达：
+`checkout` 在 Git 中可表示切换分支或恢复文件，具体含义要看命令对象。较新的材料也常使用更明确的 `switch` 和 `restore`。
 
-| 报错或术语 | 英文全称 / 构词 | 中文释义 | 核心含义与触发场景 |
-| :--- | :--- | :--- | :--- |
-| `SyntaxError` | `syntax` (语法) + `error` | **语法错误** | 代码书写违反语言规范（如少写括号或分号） |
-| `TypeError` | `type` (类型) + `error` | **类型错误** | 对某变量执行了不支持该类型的方法（如调用 undefined 的属性） |
-| `ReferenceError` | `reference` (引用) + `error` | **引用错误** | 访问了尚未声明或不存在的变量 |
-| `Stack Overflow` | `stack` (调用栈) + `overflow` (溢出) | **栈溢出** | 函数无限递归导致程序调用栈超出内存上限 |
-| `Out of Memory` | 简称 `OOM` | **内存耗尽** | 应用程序占用的堆内存超过了系统分配的最大限制 |
-| `Deprecated` | `/ˈdep.rə.keɪ.tɪd/` (形容词) | **已废弃 / 不推荐使用** | 该 API 或功能在未来版本会被移除，建议使用新方案替代 |
-| `Breaking Change`| `breaking` (破坏性的) + `change` | **破坏性更新 / 不向下兼容** | 该更新导致旧版本代码无法直接运行，需手动升级适配 |
-| `Traceback / Stack Trace` | `trace` (追踪) + `back` (回溯) | **堆栈调用跟踪信息** | 程序崩溃时自顶向下打印出的函数调用链路 |
-| `Refactor` | `re-` (重新) + `factor` (因式分解) | **代码重构** | 在不改变外部功能的前提下优化代码内部结构 |
-| `Patch / Hotfix` | `patch` (补丁) / `hotfix` (紧急修复) | **补丁 / 线上热修复** | 针对线上突发严重 Bug 发布的快速修复更新 |
+`Please rebase your branch and resolve the remaining conflicts.`
+
+`merge` 把历史合并；`rebase` 把一组提交重新放到另一个基点上；`cherry-pick` 选取特定提交。阅读评论时知道这层区别即可。
 
 ---
 
-## 五、 本课核心练习词汇
+## 3. Commit 与 Pull Request
 
-点击下列词汇，在 Lexi 中查看释义并听标准发音：
+`commit message` 是提交说明，常使用简短命令式动词：
 
-- `repository` · `commit` · `branch` · `stash` · `checkout`
-- `rebase` · `conflict` · `directory` · `permission` · `process`
-- `syntax` · `reference` · `overflow` · `deprecated` · `refactor`
-- `traceback` · `exception` · `terminal` · `production` · `deployment`
+- `Fix duplicate submissions`
+- `Add retry handling`
+- `Remove deprecated option`
+- `Preserve sidebar height`
+
+`pull request`（PR）或 `merge request`（MR）是请求团队审查并合并变更的协作对象。
+
+PR 中常见栏目：
+
+- `summary`：变更摘要；
+- `motivation / context`：为什么需要变更；
+- `implementation`：实现方式；
+- `testing`：已经做过的验证；
+- `risk`：可能出现的问题；
+- `rollout`：如何逐步发布；
+- `rollback`：如何撤回；
+- `breaking change`：可能破坏现有用法的变化。
+
+`This pull request fixes a race condition in the upload handler.`
+
+`No user-facing behavior is expected to change.`
+
+---
+
+## 4. Code review 中的语气
+
+评审评论经常使用不同强度：
+
+- `Blocking:`：合并前必须处理；
+- `Suggestion:`：建议，但不一定阻塞；
+- `Question:`：确认理解或询问背景；
+- `Nit:`：很小的风格问题；
+- `Looks good to me`（LGTM）：评审者认为可以接受。
+
+常见礼貌句型：
+
+`Could we return early here to make the failure path clearer?`
+
+`This may expose the token in shared logs.`
+
+`Would you mind adding a test for the empty-input case?`
+
+`could / may / would` 可以缓和语气，但评论仍应明确指出条件和影响。`This is wrong` 没有提供足够工程信息。
+
+回应评论时常见：
+
+- `Good catch. Fixed in the latest commit.`
+- `I have added a regression test.`
+- `This is intentional because...`
+- `I agree with the concern, but...`
+- `Let's handle this in a follow-up issue.`
+
+---
+
+## 5. Bug report 与复现信息
+
+`bug`、`defect` 和 `issue` 都可能表示问题。`issue` 最宽泛，不一定是程序错误。
+
+缺陷报告常见栏目：
+
+- `summary`：问题概述；
+- `environment`：版本、平台和配置；
+- `steps to reproduce`：复现步骤；
+- `expected behavior`：预期行为；
+- `actual behavior`：实际行为；
+- `frequency`：出现频率；
+- `workaround`：临时规避方法；
+- `impact / severity`：影响和严重程度。
+
+`The page becomes unresponsive after the sidebar is collapsed twice.`
+
+`This issue occurs consistently on version 4.2.0.`
+
+`reproduce` 是“复现问题”，不是重新生产产品。`intermittent` 表示间歇出现；`deterministic` 表示相同条件下稳定出现相同结果。
+
+---
+
+## 6. Test、build 与 CI
+
+`test case` 是测试情形；`test suite` 是一组测试；`assertion` 检查结果是否符合预期。
+
+- `unit test`：针对较小代码单元；
+- `integration test`：检查多个组件协作；
+- `end-to-end test`（E2E）：从用户或系统入口检查完整路径；
+- `regression test`：防止已经修复的问题再次出现；
+- `flaky test`：在代码不变时仍不稳定通过的测试。
+
+常见状态：
+
+- `tests pass / fail`
+- `a build succeeds / fails`
+- `the pipeline is running`
+- `the job was canceled`
+- `the step timed out`
+- `the check was skipped`
+
+`continuous integration`（CI）通常指频繁合并变更并自动运行检查。`artifact` 是构建产生并需要保存或传递的文件；`cache` 是为了加速而复用、通常可以重新生成的数据。
+
+`The build failed because two integration tests timed out.`
+
+---
+
+## 7. 错误和日志中的英文
+
+高频故障词：
+
+- `error`：错误或失败信息；
+- `exception`：程序运行中抛出的异常对象；
+- `failure`：某个操作没有成功；
+- `warning`：值得注意但未必导致失败；
+- `stack trace`：函数调用路径和异常位置；
+- `root cause`：被认定的根本原因；
+- `workaround`：暂时绕开的办法；
+- `fix`：修复；
+- `mitigation`：降低当前影响的措施。
+
+常见句型：
+
+- `failed to connect to...`
+- `permission denied`
+- `file not found`
+- `request timed out`
+- `connection was reset`
+- `unexpected token at line...`
+- `out of memory`
+- `service unavailable`
+
+`Failed to parse the configuration file: expected a closing bracket at line 18.`
+
+`caused by` 引出下层原因；`triggered by` 强调触发事件；`correlated with` 只说明同时变化，不直接断言因果。
+
+---
+
+## 8. 版本、兼容和弃用
+
+`version` 是版本；`release` 是提供给用户的一次发布。常见版本词：
+
+- `major / minor / patch release`
+- `stable / beta / preview version`
+- `latest version`
+- `long-term support`（LTS）
+- `release candidate`（RC）
+
+`backward compatible` 通常表示新版本仍能支持旧用法或旧数据；`breaking change` 表示现有调用方可能需要修改。
+
+`deprecated` 表示仍可使用但不再推荐，并计划在未来移除；`removed` 表示已经删除。二者不能混译成同一个状态。
+
+`This option is deprecated and will be removed in the next major release.`
+
+迁移材料中常见：
+
+- `upgrade to version...`
+- `migrate from A to B`
+- `replace A with B`
+- `no longer supported`
+- `remain compatible with...`
+- `follow the migration guide`
+
+---
+
+## 9. Incident 与状态通告
+
+`incident` 是影响系统或用户、需要协调处理的事件。状态页常用：
+
+- `investigating`：正在调查；
+- `identified`：已确认问题；
+- `monitoring`：已采取措施并观察恢复；
+- `resolved`：已解决；
+- `degraded performance`：性能下降；
+- `partial outage`：部分不可用；
+- `service disruption`：服务中断或受扰。
+
+`We are investigating elevated error rates in the EU region.`
+
+`A mitigation has been applied, and we are monitoring recovery.`
+
+`postmortem` 或 `incident report` 是事后报告；`timeline`、`impact`、`contributing factors` 和 `follow-up actions` 是常见栏目。
+
+---
+
+## 10. 本课回看
+
+- repository、commit、branch、merge 和 conflict 属于版本控制语境。
+- PR 描述变更、验证、风险和兼容性；review 评论常明确 blocking、suggestion 或 question。
+- bug report 使用 reproduce、expected、actual、environment、impact 和 workaround。
+- test、build、pipeline、job、artifact 和 cache 常出现在 CI 材料中。
+- error、exception、timeout、permission denied 和 stack trace 常出现在日志与报错中。
+- deprecated、breaking change、migration 和 backward compatible 用于版本演进。
+- incident 通告使用 investigating、monitoring、resolved 和 degraded performance 等状态词。
+
+### 延伸资料
+
+- [Git 官方参考文档](https://git-scm.com/docs)
+- [Git workflows](https://git-scm.com/docs/gitworkflows.html)

@@ -1,134 +1,222 @@
-# 疑问句与否定
+# 疑问、否定与祈使
 
-> **导读**：
-> - 英语疑问句的核心机制是**操作词（助动词/系动词/情态动词）前移**；否定的核心机制是**在操作词后加 `not`**。两者共享同一套句法底座。
-> - 本课从四类疑问句入手，理解 do-support 助动词原理，再系统梳理否定层级与反意疑问句的构成规则。
+> 疑问与否定不是两套零散句型。它们都在寻找同一个“句法开关”：第一个助动词。找到它，就能解释倒装、`do` 支持、否定词的位置、反意问句，甚至范围歧义。
 
 ---
 
-## 一、 疑问句与否定体系全景图
+## 1. 先找到句子的操作中心
 
-```mermaid
-graph TB
-    Q["❓ 疑问与否定体系"] --> T1["一般疑问句<br>Yes / No 回答<br>Did you call him?"]
-    Q --> T2["特殊疑问句<br>疑问词提问<br>Why did you call him?"]
-    Q --> T3["选择疑问句<br>or 二选一<br>Tea or coffee?"]
-    Q --> T4["反意疑问句<br>陈述 + 简短问尾<br>It's cold, isn't it?"]
+英语陈述句可以先抽象成：
 
-    Q --> NEG["否定结构"]
-    NEG --> N1["完全否定<br>not / never / no"]
-    NEG --> N2["部分否定<br>not all / not every"]
-    NEG --> N3["半否定词<br>hardly / seldom / rarely"]
-```
+<lexi-notation>`主语`</lexi-notation> + <lexi-notation>`助动词`</lexi-notation> + <lexi-notation>`谓语其余部分`</lexi-notation>
 
----
+这里的“助动词”包括情态动词、完成体的 `have`、进行体或被动语态的 `be`；系动词 `be` 也能直接承担操作功能。
 
-## 二、 一般疑问句与助动词
+- 陈述：`She is waiting outside.`
+- 疑问：`Is she waiting outside?`
+- 否定：`She is not waiting outside.`
 
-### 1. 操作词前移原理
+一个句子可能有一串助动词，但疑问和否定通常只操作第一个：
 
-句中若已有 `be` 动词、助动词或情态动词，直接将其前移至句首：
+`They might have been delayed.`
 
-| 陈述句 | 一般疑问句 | 前移成分 |
-| :--- | :--- | :--- |
-| `She is a doctor.` | `Is she a doctor?` | `is` |
-| `They have finished.` | `Have they finished?` | `have` |
-| `He can swim.` | `Can he swim?` | `can` |
+- 疑问：`Might they have been delayed?`
+- 否定：`They might not have been delayed.`
 
-### 2. do-support：无操作词时引入 `do / does / did`
+### 没有助动词怎么办
 
-实义动词单独作谓语的陈述句没有可前移的操作词，需**引入助动词 `do`** 承担前移与否定功能：
+一般现在时和一般过去时的实义动词句没有可移动的助动词。英语会引入 `do / does / did`：
 
-| 陈述句 | 疑问句 | 否定句 |
-| :--- | :--- | :--- |
-| `You like coffee.` | `Do you like coffee?` | `You don't like coffee.` |
-| `She works here.` | `Does she work here?` | `She doesn't work here.` |
-| `He left early.` | `Did he leave early?` | `He didn't leave early.` |
+- `Leo works remotely.` → `Does Leo work remotely?`
+- `Mina left early.` → `Did Mina leave early?`
 
-> [!IMPORTANT]
-> `do / does / did` 一旦引入，后面的实义动词**恢复原形**：`Did he leave...?`（不是 `Did he left...?`）。
-
-### 3. 祈使句及其否定
-
-祈使句以动词原形开头；否定直接在前面加 `Don't`（或更正式的 `Never`）：`Be quiet.` → `Don't be late.` / `Never give up.`
-
----
-
-## 三、 特殊疑问句、选择疑问句与感叹句
-
-### 1. 疑问词家族
-
-| 疑问词 | 提问对象 | 示例 |
-| :--- | :--- | :--- |
-| `what` | 事物、职业 | `What do you do?` |
-| `who` / `whom` / `whose` | 人 / 宾格 / 所属 | `Whose pen is this?` |
-| `which` | 限定范围内选择 | `Which color do you prefer?` |
-| `when / where / why / how` | 时间 / 地点 / 原因 / 方式 | `How did you fix it?` |
-| `how + 形/副` | 程度 | `How long will it take?` |
-
-### 2. 疑问词作主语与作宾语的语序差异
+时态已经转移到 <lexi-word form="changed">`does`</lexi-word> 或 <lexi-word form="irregular">`did`</lexi-word> 上，后面的动词必须恢复原形。因此不能说 `Did Mina left...?`。
 
 > [!NOTE]
-> 疑问词**作宾语**时须倒装（引入助动词）；疑问词**作主语**时保持陈述语序，无需 `do`。
-
-| 角色 | 语序 | 示例 |
-| :--- | :--- | :--- |
-| 疑问词作宾语 | 疑问词 + 助动词 + 主语 + 动词 | `Who did you meet?`（你遇见了谁？） |
-| 疑问词作主语 | 疑问词 + 谓语（陈述语序） | `Who met you?`（谁遇见了你？） |
-
-### 3. 选择疑问句与感叹句
-
-- **选择疑问句**：用 `or` 连接选项，不能用 Yes/No 回答：`Would you like tea or coffee?`
-- **感叹句**：
-  - `What + (a/an) + 形容词 + 名词 (+ 主谓)`：`What a clever idea (it is)!`
-  - `How + 形容词/副词 (+ 主谓)`：`How fast time flies!`
+> `be` 不需要 `do`：`Is he ready?`，不是 `Does he be ready?`。情态动词后也不再加 `do`：`Can she swim?`
 
 ---
 
-## 四、 否定结构
+## 2. 一般疑问句：询问命题真假
 
-| 否定类型 | 构成方式 | 示例 | 说明 |
-| :--- | :--- | :--- | :--- |
-| **完全否定** | `not / no / never / nothing / nobody` | `I don't agree.` / `Nothing happened.` | 整体否定 |
-| **部分否定** | `not + all / every / both / always` | `Not all birds can fly.`（并非所有鸟都会飞） | 只否定一部分 |
-| **双重否定** | 两个否定成分叠加 | `I can't not go.`（我不能不去） | 表达强烈肯定含义 |
-| **半否定** | `hardly / seldom / rarely / few / little` | `He seldom complains.` | 词本身含否定意义，**不再与 `not` 连用** |
+一般疑问句把操作中心移到主语之前：
 
-> [!WARNING]
-> 部分否定与完全否定差异巨大：`All that glitters is not gold.` 是“闪光的**未必**都是金子”（部分否定），而非“闪光的都不是金子”。
+<lexi-notation>`助动词`</lexi-notation> + <lexi-notation>`主语`</lexi-notation> + <lexi-notation>`谓语其余部分`</lexi-notation>?
 
----
+- `Have you finished the report?`
+- `Can this material withstand heat?`
+- `Did the server restart?`
 
-## 五、 反意疑问句构成与应答
+简短回答复用同一个助动词。真实对话也常用附加信息表达把握程度：`Probably. I haven't checked the logs yet.`
 
-### 1. 基本规则：前肯后否、前否后肯
+### 选择问句
 
-| 陈述部分 | 疑问尾 | 示例 |
-| :--- | :--- | :--- |
-| 肯定陈述 | 否定尾 | `You are tired, aren't you?` |
-| 否定陈述 | 肯定尾 | `She doesn't smoke, does she?` |
-
-疑问尾的助动词与时态必须与陈述部分一致；陈述部分无操作词时，疑问尾用 `do / does / did`：`He lives nearby, doesn't he?`
-
-### 2. 特殊情形速查
-
-| 情形 | 疑问尾规则 | 示例 |
-| :--- | :--- | :--- |
-| `I am...` | 用 `aren't I` | `I'm late, aren't I?` |
-| `Let's...` | 用 `shall we` | `Let's start, shall we?` |
-| 祈使句 | 用 `will you` | `Open the door, will you?` |
-| 含半否定词 | 视为否定陈述，用肯定尾 | `He never lies, does he?` |
-| 不定代词主语（`everyone` 等） | 疑问尾常用 `they` | `Everyone is here, aren't they?` |
-
-> [!TIP]
-> 应答以**事实**为准，与问句的肯定/否定形式无关：`You don't like it, do you?` 若事实是喜欢，仍回答 `Yes, I do.`。
+`Would you like tea or coffee?` 询问的是选项，不适合只回答 `yes`。末尾 `or` 前后的语调通常帮助听者判断这是选择问句还是普通的一般疑问句。
 
 ---
 
-## 六、 本课核心练习词汇
+## 3. 特殊疑问句：把未知成分显出来
 
-点击下列词汇，在 Lexi 中查看释义并听标准发音：
+疑问词不是装饰，它在句中承担主语、宾语、补语或状语等角色。
 
-- `question` · `negative` · `auxiliary` · `interrogative` · `whether`
-- `whose` · `never` · `seldom` · `rarely` · `hardly`
-- `deny` · `refuse` · `whisper` · `wonder` · `whichever`
+- `who / what`：人或事物
+- `which`：限定集合中的选择
+- `whose`：所属关系
+- `when / where / why / how`：时间、地点、原因、方式
+- `how long / how often / how far / how much`：量度
+
+### 宾语与状语疑问：仍然需要倒装
+
+从 `You sent the file to Maya yesterday.` 可以问：
+
+- `What did you send to Maya?`
+- `Who did you send the file to?`
+- `When did you send the file?`
+
+可以把结构理解为疑问词占据句首，而原位置留下一个“空位”：
+
+<lexi-notation>`Whatᵢ did you send ___ᵢ to Maya?`</lexi-notation>
+
+介词留在句尾在现代英语中十分自然：`Who are you talking to?`。正式文体也可把介词一同前置：`To whom are you speaking?`
+
+### 主语疑问：不要再倒装
+
+- `Who called Maya?` —— `who` 本身就是主语。
+- `Who did Maya call?` —— `who` 是宾语，主语是 `Maya`。
+
+主语疑问没有 `do` 支持，因为未知成分已经占据普通主语位置。
+
+### `what` 与 `which`
+
+`What language should I learn?` 的候选范围开放；`Which language should I learn, Rust or Go?` 明确限定了选择集合。实际使用中边界会随语境变化，不是绝对规则。
+
+---
+
+## 4. 嵌入疑问句：外层问，内层不倒装
+
+- 直接问句：`Where is the station?`
+- 嵌入问句：`Could you tell me where the station is?`
+
+内层使用陈述语序，因此不能写 `where is the station`。同理：
+
+- `I wonder why the test failed.`
+- `Do you know when the meeting starts?`
+- `We need to decide whether the change is safe.`
+
+`whether` 和 `if` 都可引入许多“是否”从句，但 `whether` 能直接接 `or not`、能跟不定式，也适合介词之后：
+
+- `It depends on whether the data is complete.`
+- `We haven't decided whether to deploy.`
+
+---
+
+## 5. 问句形式不等于交际功能
+
+语法形式是问句，实际功能可能是请求、建议、惊讶或反问：
+
+- `Could you open the window?` —— 礼貌请求。
+- `Why don't we take a break?` —— 建议。
+- `You finished already?` —— 陈述语序的确认问句。
+- `Who wouldn't want a second chance?` —— 反问。
+
+回声问句只重复没听清或难以相信的部分：`You paid how much?`
+
+Web 阅读时可以点击这些整句听语调。不要只背标点；升降调、重音位置和上下文共同决定态度。
+
+---
+
+## 6. 否定：把 `not` 放到操作中心之后
+
+- `She is not available.`
+- `They have not replied.`
+- `You should not ignore the warning.`
+- `We did not change the schema.`
+
+口语中常用 <lexi-word form="changed">`isn't`</lexi-word>、<lexi-word form="changed">`haven't`</lexi-word>、<lexi-word form="changed">`shouldn't`</lexi-word>、<lexi-word form="irregular">`didn't`</lexi-word>。缩约形式通常比完整 `not` 更中性；完整形式可用于正式表达或强烈对比。
+
+### 不只有句子否定
+
+否定可以只针对一个成分：
+
+- `We met on Tuesday, not Monday.`
+- `She chose the blue folder, not the green one.`
+
+也可以由本身带否定意义的词表达：
+
+- `Nobody noticed the error.`
+- `We never store the raw password.`
+- `There is no simple answer.`
+
+`hardly`、`rarely`、`seldom`、`little` 等接近否定。它们前置时会触发倒装：`Rarely do we see such a clear result.`
+
+### 双重否定与语言变体
+
+标准书面英语通常用一个否定成分表达否定：`I didn't see anything.`。某些英语变体有系统的“否定一致”，多个否定标记共同表达一次否定；这不是随机错误，而是不同语法系统。另有逻辑上的双重否定：`I can't not respond.`，意思接近“我不能不回应”。
+
+---
+
+## 7. 否定范围：`not` 究竟否定什么
+
+`All participants did not agree.` 可能被理解为“并非所有人都同意”，也可能在特定语境中理解为“所有人都不同意”，专业写作应改得更明确：
+
+- 部分否定：`Not all participants agreed.`
+- 全部否定：`None of the participants agreed.`
+
+`She didn't leave because she was angry.` 也可能是“她没离开，原因是生气”，或“她离开了，但不是因为生气”。写作时应拆句或补足语境。
+
+### 否定极性词
+
+`any`、`ever`、`at all` 常出现在否定、疑问或条件环境中：
+
+- `We don't have any evidence.`
+- `Have you ever seen this pattern?`
+- `If you need any help, call me.`
+
+它们不是简单的“否定词”，而是对所处语义环境敏感的表达。
+
+### 否定提升
+
+`I don't think the plan will work.` 通常表达“我认为计划不会奏效”，语义上的否定似乎属于内层命题，却出现在 `think` 旁边。`believe`、`suppose`、`seem` 等也常出现类似倾向，但并非所有动词都允许这样理解。
+
+---
+
+## 8. 反意疑问句：语法极性与说话人预期
+
+- `You're ready, aren't you?`
+- `She hasn't called, has she?`
+- `They left early, didn't they?`
+
+问尾复用陈述句的第一个助动词；没有助动词便使用 `do`。含 `never / hardly / nobody` 的陈述在意义上是否定的，因此接肯定问尾：`He rarely complains, does he?`
+
+常见约定包括：
+
+- `I'm late, aren't I?`
+- `Let's begin, shall we?`
+- `Open the door, will you?`
+- `Everyone is here, aren't they?`
+
+回答 `Don't you like coffee?` 时，英语的 `yes / no` 跟事实走：喜欢便答 `Yes, I do.`；不喜欢答 `No, I don't.`
+
+---
+
+## 9. 从生成到校对
+
+1. 先写完整陈述句，确认主语和时态。
+2. 找第一个助动词；没有就根据时态补 `do / does / did`。
+3. 疑问时把它移到主语前；否定时把 `not` 放在它后面。
+4. 若疑问词本身是主语，不执行倒装。
+5. 若是嵌入疑问，只让最外层问句倒装。
+6. 最后检查否定范围、代词指代和实际交际功能。
+
+---
+
+## 10. 本课回看
+
+- 疑问和否定都围绕第一个助动词运作。
+- `do` 支持负责承载时态，后面的实义动词回到原形。
+- 主语疑问不倒装，嵌入疑问的内层也不倒装。
+- 问句形式与请求、建议、反问等交际功能不能混为一谈。
+- 否定的难点不只是 `not` 的位置，更是它的语义范围。
+- 反意疑问句既表达语法极性，也表达说话人的预期。
+
+继续学习时，可把本课的“操作中心”带入时态、语态和情态系统：它们共享同一条助动词链。

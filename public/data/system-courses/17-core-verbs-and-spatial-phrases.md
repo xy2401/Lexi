@@ -1,113 +1,256 @@
 # 核心动词与短语动词
 
-> **导读**：
-> - 许多学习者在写作与口语中习惯堆砌生僻大词，然而母语者的地道表达中，高频出现的反而是最基础的小动词。
-> - 英语动词短语（Phrasal Verbs）的本质是：**动词提供“基础动作原动力（Action Vector）”，小副词/介词提供“空间方向与状态终点（Path Vector）”**。
-> 
-> 掌握四大核心动词（`get`, `take`, `make`, `put`）与空间小词的碰撞组合网络，就能自如运用数百个高频地道表达。
+> 短语动词不是“动词后随便加介词”。小品词把空间路径扩展为完成、持续、分散、显现等事件轮廓；核心动词提供宽泛动作框架。理解两者如何组合，才能从 `pick up` 迁移到新表达。
 
 ---
 
-## 一、 动词短语空间心智合成模型全景图
+## 1. 先区分小品词、介词与副词
 
-```mermaid
-graph LR
-    Action["核心动词原动力 (Action Vector)"] --> Combo["动词短语空间合成 (Phrasal Verb)"]
-    Path["空间方向小词 (Path / State)"] --> Combo
+比较：
 
-    Action --> A1["get (状态改变 / 由无到有)"]
-    Action --> A2["take (抓取纳入 / 主动掌控)"]
-    Action --> A3["make (创造塑形 / 促成致使)"]
-    Action --> A4["put (定点摆放 / 归位移位)"]
+- `Maya looked up the word.`
+- `Maya looked up the chimney.`
 
-    Path --> P1["up (向上 / 完全彻底)"]
-    Path --> P2["down (向下 / 记录平息)"]
-    Path --> P3["on (依附接触 / 持续进行)"]
-    Path --> P4["off (脱离表面 / 离开消除)"]
-    Path --> P5["out (向外显露 / 耗尽完结)"]
-```
+第一句 `up` 是动词—小品词构式的一部分，`the word` 是 `look up` 的宾语。第二句 `up the chimney` 是方向性介词短语，`the chimney` 是 `up` 的补语。
 
----
+常用诊断包括：
 
-## 二、 四大核心动词的“原动力心智模型”
+- 小品词可放到普通名词宾语之后：`Maya looked the word up.`
+- 代词宾语必须位于可分小品词之前：`Maya looked it up.`
+- 不能说 `looked it up the chimney` 来表达第二句。
+- 小品词在语音上常可重读，介词通常与其补语形成整体。
 
-| 核心动词 | 核心心智模型 | 底层力学机制 | 经典场景引申 |
-| :--- | :--- | :--- | :--- |
-| `get` | **状态改变 (State Transition)** | 描述从“状态 A”转变为“状态 B”，或物理位置上的“到达与获得” | `get rich` (变富), `get angry` (变生气), `get there` (到达那里) |
-| `take` | **主动抓取 (Take & Grasp)** | 主动伸出手将某物“抓进自己的控制范围”内，或占用时间与资源 | `take a photo` (抓取画面), `take time` (耗费时间), `take care` |
-| `make` | **从无到有 (Create & Shape)**| 经过加工制造创造出新事物，或通过外力促成某种结果（使役动词） | `make a plan` (制订计划), `make money` (赚钱), `make him laugh` |
-| `put` | **定位摆放 (Place & Shift)** | 将某物移动并安置在特定的物理空间或抽象位置上 | `put it here` (放这里), `put into words` (付诸言语) |
+诊断是倾向，复杂构式仍需结合意义和搭配判断。
 
 ---
 
-## 三、 空间小词（Particles）的方向与抽象含义速查
+## 2. 可分与不可分
 
-| 空间小词 | 物理基础空间方向 | 抽象核心引申义 | 典型短语示例 |
-| :--- | :--- | :--- | :--- |
-| `up` | 向上升起（由低至高） | **完全、彻底、结束**（把事情做满做完） | `eat up` (吃光), `clean up` (打扫干净), `use up` (耗尽) |
-| `down` | 向下降落（由高至低） | **平息、记录在纸上、停止运转** | `calm down` (冷静下来), `write down` (记下来), `break down` (故障) |
-| `on` | 接触表面、附着其上 | **持续不断进行、处于开启运转状态** | `keep on` (继续), `go on` (接着做), `turn on` (打开电源) |
-| `off` | 离开表面、脱离断开 | **离开、分离、取消、推迟** | `take off` (飞机起飞/脱衣), `call off` (取消), `put off` (推迟) |
-| `out` | 由内向外移动 | **完全显露弄清、消失、耗尽** | `find out` (查明真相), `run out` (用光), `put out` (扑灭火焰) |
+### 可分短语动词
 
----
+- `Turn off the light.`
+- `Turn the light off.`
+- `Turn it off.`
 
-## 四、 四大核心动词高频搭配全景矩阵表
+代词不能放在小品词后：`Turn off it` 不自然。
 
-### 1. `get` 核心搭配矩阵（状态改变与位移）
+### 不可分动词—介词结构
 
-| 短语 | 空间与动作合成逻辑 | 中文释义 | 典型例句 |
-| :--- | :--- | :--- | :--- |
-| `get up` | 身体由卧床到**向上站起** | 起床 / 站起来 | `I usually get up at 7:00.` |
-| `get on` | 踏上**交通工具的表面** | 上车 / 上船 / 上飞机 | `Get on the bus quickly.` |
-| `get off` | 离开**交通工具表面** | 下车 / 下船 | `We get off at the next station.` |
-| `get over` | 从阻碍上方**跨越过去** | 克服困难 / 从疾病或失恋中痊愈 | `She will soon get over the flu.` (康复) |
-| `get along` | 沿着同一条线**顺畅前行** | 与某人相处融洽 / 进展顺利 | `Do you get along with your colleagues?` |
-| `get through` | 穿透隧道或障碍**打通连接** | 接通电话 / 度过艰难时期 | `I couldn't get through to him.` (电话未接通) |
+- `We rely on the backup.`
+- `She ran into an old friend.`
 
----
+不能说 `rely the backup on` 或 `ran an old friend into`。
 
-### 2. `take` 核心搭配矩阵（抓取与接纳）
+### 三词结构
 
-| 短语 | 空间与动作合成逻辑 | 中文释义 | 典型例句 |
-| :--- | :--- | :--- | :--- |
-| `take off` | 轮子**脱离地面** / 衣服**脱离身体** | 飞机起飞 / 脱下衣物 / 事业腾飞 | `The plane will take off soon.`<br>`His career began to take off.` |
-| `take on` | 将责任或挑战**附着抓在自己身上** | 承担责任 / 雇佣员工 / 呈现新面貌 | `He decided to take on the new project.` |
-| `take over` | 从上方**跨接掌控全局** | 接管 / 接替职位 | `The new manager will take over next week.` |
-| `take in` | 将信息或外界事物**吸收入内** | 吸收理解知识 / 欺骗（引人入套） | `It was hard to take in all the information.` |
-| `take up` | 向上抓起 / 占据空间或时间 | 开始学习新爱好 / 占据时间与空间 | `He took up painting last year.` (开始学画) |
+`put up with / look forward to / come up with` 整体选择补语：
+
+- `I won't put up with this noise.`
+- `We look forward to hearing from you.`
+
+这里 `to` 是介词，所以后接 `-ing`。
 
 ---
 
-### 3. `make` 核心搭配矩阵（促成与制造）
+## 3. 透明度是一条连续谱
 
-| 短语 | 空间与动作合成逻辑 | 中文释义 | 典型例句 |
-| :--- | :--- | :--- | :--- |
-| `make up` | 凭空制造组合出**完整故事或妆容** | 编造借口 / 化妆 / 和解弥补 | `Don't make up excuses.` (别编借口)<br>`They fought but made up soon.` (和好) |
-| `make out` | 向外看清并**理清细节** | 辨认出 / 看清 / 理解 | `I can't make out the handwriting.` (看不清字迹) |
-| `make sure` | 促成确定无误的状态 | 确保 / 查明核实 | `Make sure the door is locked.` |
-| `make of` | 从某原材料制作 / 对某事产生理解 | 看待 / 理解评价 | `What do you make of his proposal?` (你怎么看) |
+### 空间意义透明
+
+`She carried the boxes out.`
+
+`out` 保留从容器内部到外部的路径。
+
+### 可推导的抽象扩展
+
+`They spread the work out over three days.`
+
+空间“铺开”扩展为时间分布。
+
+### 高度惯用化
+
+`We ran out of time.`
+
+不能逐词理解成“跑出时间”，但 `out` 的“内部资源耗尽”图景仍提供联想。
+
+学习时标注透明度。透明表达靠图景迁移，惯用表达需要完整构式与语境记忆。
 
 ---
 
-### 4. `put` 核心搭配矩阵（摆放与移位）
+## 4. 小品词的事件轮廓
 
-| 短语 | 空间与动作合成逻辑 | 中文释义 | 典型例句 |
-| :--- | :--- | :--- | :--- |
-| `put on` | 将衣物等**放置附着在身上** | 穿上衣服 / 增重 / 上演剧目 | `Put on your coat, it's cold outside.` |
-| `put off` | 将日程**向后脱离移开** | 推迟 / 拖延 | `Never put off until tomorrow what you can do today.` |
-| `put out` | 将火焰向外**扑灭使之熄灭** | 熄灭火焰或香烟 / 出版发行 | `Firefighters quickly put out the fire.` |
-| `put up with` | 把自己放在下方**容忍承受** | 容忍 / 忍受（三词固定搭配） | `I can't put up with this noise anymore.` |
-| `put forward` | 将想法**向前放置提出** | 提出建议 / 提议方案 | `She put forward a great idea.` |
+### `up`：向上、达到界限、完成或强化
+
+- `stand up`：空间向上
+- `fill up`：达到容量上限
+- `use up`：资源耗尽
+- `speed up`：程度增强
+- `set up`：建立可运行状态
+
+`We used up all the storage space.`
+
+### `out`：离开容器、显现、扩散或耗尽
+
+- `go out`：离开或熄灭
+- `find out`：信息从未知中显现
+- `spread out`：向外分布
+- `wear out`：达到耗损终点
+- `phase out`：逐步退出系统
+
+### `off`：脱离、切断或启动边界
+
+- `take off`：脱离表面；飞机起飞
+- `cut off`：切断连接
+- `log off`：退出会话
+- `set off`：触发或启程
+
+### `down`：向下、降低、固定或分解
+
+- `slow down`：速度降低
+- `write down`：固定为书面记录
+- `break down`：结构失效或分解
+- `narrow down`：缩小候选范围
+
+### `through` 与 `over`
+
+`through` 常突出从开始穿到结束：`read through / work through`。`over` 可表达越过、覆盖、复查或移交：`think over / hand over / take over`。
+
+这些只是语义网络，不是把每个组合自动算出的公式。
 
 ---
 
-## 五、 本课核心练习词汇与短语
+## 5. 核心动词为何拥有庞大词族
 
-点击下列词汇与短语，在 Lexi 中查看释义并听标准发音：
+`get / take / make / give / put / go / come / bring / carry / hold` 语义宽、频率高，容易与小品词和介词形成构式。它们通常提供抽象的力动态：获得、移动、造成、转移、放置、保持。
 
-- `vector` · `motion` · `transition` · `grasp` · `tolerate`
-- `get up` · `get on` · `get off` · `get over` · `get along`
-- `take off` · `take on` · `take over` · `take in` · `take up`
-- `make up` · `make out` · `make sure` · `put on` · `put off`
-- `put out` · `put forward` · `put up with`
+### `get`：获得或进入状态
+
+- `get a ticket`：获得
+- `get tired`：进入状态
+- `get someone to help`：促成行动
+- `get over an illness`：越过困难阶段
+- `get by`：以有限资源维持
+
+### `take`：拿取、控制或沿路径带走
+
+- `take over`：取得控制
+- `take on`：承担任务或呈现性质
+- `take apart`：拆成部件
+- `take up`：占用空间/时间，或开始活动
+
+`The new role will take up most of her time.`
+
+### `put`：使对象进入位置或状态
+
+- `put away`：移到收纳位置
+- `put off`：推离当前时间，即推迟
+- `put out`：使火焰离开燃烧状态
+- `put forward`：把建议带到讨论前景
+
+---
+
+## 6. `make / do / take / have` 的搭配分工
+
+中文里的“做”会分配到多个英语核心动词：
+
+- `make a decision / make progress / make a mistake`
+- `do research / do the dishes / do damage`
+- `take a break / take responsibility / take measurements`
+- `have a meeting / have difficulty / have an effect`
+
+搭配具有约定性，不能仅靠一般词义预测。要记录中心名词与动词的组合，而不是只记中文对应。
+
+一些变体和语域会有不同偏好：`take a decision` 在某些英式语域可见，`make a decision` 更广泛。专业领域还会固化自己的搭配，如 `conduct an experiment`、`run a query`、`raise an exception`。
+
+---
+
+## 7. 宾语位置与信息重量
+
+可分结构允许两种名词宾语位置，但选择并非完全自由：
+
+- `Turn the radio down.`
+- `Turn down the radio in the kitchen that keeps waking the baby.`
+
+长而新的宾语倾向放在小品词之后，避免动词与小品词被长材料隔开。短代词则必须置中。
+
+重音也随信息结构变化。真正要纠正的是“小声一点”还是“关掉”，会影响 `radio / down / off` 的突出程度。
+
+---
+
+## 8. 一词多义与构式网络
+
+`pick up` 至少可表示：
+
+- 从表面拿起；
+- 接某人；
+- 偶然学会；
+- 接收信号；
+- 改善或加速；
+- 购买；
+- 重新接续话题。
+
+这些意义不是一条任意列表。它们围绕“把对象带入控制、接触或活动范围”的图景形成网络，但每个用法仍有自己的宾语类型和语域。
+
+为短语动词建立词条时应记录：
+
+1. 一个具体场景而非抽象中文串；
+2. 可分性和代词位置；
+3. 常见宾语类别；
+4. 语域与同义单词；
+5. 一个能点击朗读的完整句子。
+
+---
+
+## 9. 短语动词与单词动词的语域
+
+常见对应包括：
+
+- `find out` / `discover`
+- `put off` / `postpone`
+- `carry out` / `conduct`
+- `look into` / `investigate`
+- `leave out` / `omit`
+
+短语动词不等于“不正式”，拉丁来源单词也不天然更高级。`carry out an experiment` 在学术写作中完全自然；`utilize` 有时只是比 `use` 更冗长。选择取决于搭配、精确度、读者和文体。
+
+同义表达也可能改变论元结构：`look into the incident` 与 `investigate the incident` 的介词配置不同，替换时必须重建整个句法框架。
+
+---
+
+## 10. 新造与领域化
+
+技术社群不断扩展空间构式：
+
+- `spin up a server`：快速启动资源
+- `scale out`：通过增加节点横向扩容
+- `roll back a release`：回退到较早状态
+- `time out`：达到等待时限
+- `opt in / opt out`：进入或退出选择集合
+
+这些表达借用空间和运动图景描述系统状态。理解图景有助于首次阅读，但准确操作仍需结合产品文档，因为不同工具可能赋予术语特定含义。
+
+---
+
+## 11. 学习与检索策略
+
+看到新组合时：
+
+1. 判断后面的短词是小品词还是介词。
+2. 检查是否可分，以及代词放在哪里。
+3. 从空间原型提出初步意义假设。
+4. 查词典确认具体义项、语域和例句。
+5. 搜集三个真实宾语，确定选择限制。
+6. 与同义单词动词比较句法，而不只比较中文。
+7. 间隔复习时用场景主动产出。
+
+不要把 `get` 的几十个组合一次背完。围绕一个小品词建立语义网络，或围绕一个实际任务收集表达，更容易迁移。
+
+---
+
+## 12. 本课回看
+
+- 小品词、介词和副词需要用结构与语音共同区分。
+- 可分性决定名词和代词宾语的位置。
+- 空间原型会扩展成事件的完成、耗尽、显现、分离和持续轮廓。
+- 核心动词提供宽泛框架，具体意义来自完整构式。
+- 多义短语形成有联系的网络，但不能脱离真实搭配任意推导。
+- 技术领域持续创造空间短语，准确含义仍应回到领域文档确认。

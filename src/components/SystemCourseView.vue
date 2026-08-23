@@ -13,6 +13,7 @@ import mermaid from 'mermaid'
 import { getProgressSetting, setProgressSetting } from '../lib/progress-db'
 import { useIsMobile, useMediaQuery } from '../composables/useMediaQuery'
 import ResizablePaneHandle from './ResizablePaneHandle.vue'
+import { transformCourseSemanticTags } from '../lib/system-course-markdown'
 import { DEFAULT_DESKTOP_LAYOUT, type CourseDesktopLayout } from '../lib/desktop-layout'
 
 export interface SystemCourseItem {
@@ -39,9 +40,11 @@ interface CourseReadingPosition {
 }
 
 interface CourseViewSetting {
+  catalogVersion?: number
   courseId?: number
   searchQuery?: string
   tag?: string
+  collapsedCourseGroups?: string[]
   readingPositions?: Record<string, CourseReadingPosition>
 }
 
@@ -55,6 +58,7 @@ const props = withDefaults(defineProps<{
 
 const emit = defineEmits<{
   'select-word': [word: string]
+  'speak-text': [text: string]
   'immersive-change': [active: boolean]
   'update:desktop-layout': [layout: CourseDesktopLayout]
 }>()
@@ -70,6 +74,7 @@ const markdownLoading = ref(false)
 const markdownError = ref('')
 const searchQuery = ref('')
 const selectedTag = ref('全部')
+const collapsedCourseGroups = ref<string[]>([])
 const activeTocId = ref('')
 const markdownBodyRef = ref<HTMLElement | null>(null)
 const tocTriggerRef = ref<HTMLButtonElement | null>(null)
@@ -83,10 +88,38 @@ let persistTimer: ReturnType<typeof setTimeout> | undefined
 let scrollBoundElement: HTMLElement | null = null
 
 const COURSE_HISTORY_KEY = 'lexiCourseLayer'
+const COURSE_CATALOG_VERSION = 2
+
+function migrateCourseView(savedView: CourseViewSetting): CourseViewSetting {
+  if (savedView.catalogVersion === COURSE_CATALOG_VERSION) return savedView
+
+  const oldResearchPosition = savedView.readingPositions?.['24']
+  const oldPaperPosition = savedView.readingPositions?.['25']
+  const preferredPosition = savedView.courseId === 25
+    ? oldPaperPosition || oldResearchPosition
+    : oldResearchPosition || oldPaperPosition
+  const readingPositions = { ...(savedView.readingPositions || {}) }
+
+  if (preferredPosition) readingPositions['24'] = preferredPosition
+  delete readingPositions['25']
+
+  return {
+    ...savedView,
+    catalogVersion: COURSE_CATALOG_VERSION,
+    courseId: savedView.courseId === 24 || savedView.courseId === 25 ? 24 : savedView.courseId,
+    readingPositions,
+  }
+}
 
 // 统计
 const totalWords = computed(() => courses.value.reduce((s, c) => s + c.words.length, 0))
-const courseTags = computed(() => ['全部', ...new Set(courses.value.map(course => course.tag))])
+const COURSE_TAG_ORDER = ['声音与拼写', '词汇与构词', '句子与语法', '阅读与表达', '开发与技术', '科研与学术']
+const courseTags = computed(() => {
+  const available = new Set(courses.value.map(course => course.tag))
+  const known = COURSE_TAG_ORDER.filter(tag => available.has(tag))
+  const extra = [...available].filter(tag => !COURSE_TAG_ORDER.includes(tag))
+  return ['全部', ...known, ...extra]
+})
 const lastCourse = computed(() => courses.value.find(course => course.id === lastCourseId.value) || null)
 const lastReadingPosition = computed(() =>
   lastCourse.value ? readingPositions.value[String(lastCourse.value.id)] : undefined,
@@ -138,24 +171,39 @@ const filteredCourses = computed(() => {
   )
 })
 
-// 按 tag 聚合的二级目录分组（依赖清单 JSON 中同 tag 课程已连续排列）
+// 按 tag 聚合的二级目录分组，不依赖清单中同类课程连续排列。
 interface CourseGroup {
   tag: string
   courses: SystemCourseItem[]
 }
 
 const groupedCourses = computed<CourseGroup[]>(() => {
-  const groups: CourseGroup[] = []
+  const byTag = new Map<string, SystemCourseItem[]>()
   for (const course of filteredCourses.value) {
-    const last = groups[groups.length - 1]
-    if (last && last.tag === course.tag) {
-      last.courses.push(course)
-    } else {
-      groups.push({ tag: course.tag, courses: [course] })
-    }
+    const group = byTag.get(course.tag)
+    if (group) group.push(course)
+    else byTag.set(course.tag, [course])
   }
-  return groups
+  return courseTags.value
+    .filter(tag => tag !== '全部')
+    .flatMap(tag => {
+      const group = byTag.get(tag)
+      return group ? [{ tag, courses: group }] : []
+    })
 })
+
+const isSearchingCourses = computed(() => Boolean(searchQuery.value.trim()))
+
+function isCourseGroupExpanded(tag: string) {
+  return isSearchingCourses.value || !collapsedCourseGroups.value.includes(tag)
+}
+
+function toggleCourseGroup(tag: string) {
+  collapsedCourseGroups.value = collapsedCourseGroups.value.includes(tag)
+    ? collapsedCourseGroups.value.filter(item => item !== tag)
+    : [...collapsedCourseGroups.value, tag]
+  void persistView()
+}
 
 function preprocessMarkdown(text: string): string {
   if (!text) return ''
@@ -262,7 +310,9 @@ const renderedHtml = computed(() => {
     renderer,
   }) as string
 
-  return DOMPurify.sanitize(rawHtml, {
+  const semanticHtml = transformCourseSemanticTags(rawHtml)
+
+  return DOMPurify.sanitize(semanticHtml, {
     USE_PROFILES: { html: true, svg: true },
   })
 })
@@ -437,12 +487,16 @@ onMounted(async () => {
     const res = await fetch('/data/system-courses.json')
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
     courses.value = await res.json()
-    const savedView = await getProgressSetting<CourseViewSetting>(
+    const storedView = await getProgressSetting<CourseViewSetting>(
       'course.view',
       {},
     )
+    const savedView = migrateCourseView(storedView)
+    if (savedView !== storedView) await setProgressSetting('course.view', savedView)
     if (savedView.searchQuery) searchQuery.value = savedView.searchQuery
     if (savedView.tag && courseTags.value.includes(savedView.tag)) selectedTag.value = savedView.tag
+    collapsedCourseGroups.value = [...new Set(savedView.collapsedCourseGroups || [])]
+      .filter(tag => courseTags.value.includes(tag))
     lastCourseId.value = savedView.courseId
     readingPositions.value = savedView.readingPositions || {}
 
@@ -507,9 +561,11 @@ function persistView(): Promise<void> {
     ]),
   )
   return setProgressSetting('course.view', {
+    catalogVersion: COURSE_CATALOG_VERSION,
     courseId: lastCourseId.value,
     searchQuery: searchQuery.value,
     tag: selectedTag.value,
+    collapsedCourseGroups: collapsedCourseGroups.value,
     readingPositions: plainReadingPositions,
   })
 }
@@ -643,24 +699,32 @@ function selectTocItem(id: string) {
   if (tocSheetOpen.value) closeTocSheet()
 }
 
+function activateCourseToken(token: HTMLElement): void {
+  const action = token.dataset.courseAction
+  const text = token.textContent?.trim() || ''
+  if (!action || !text) return
+
+  if (action === 'speak') {
+    emit('speak-text', text)
+    return
+  }
+
+  const cleanWord = text.replace(/^[^a-zA-Z0-9]+|[^a-zA-Z0-9]+$/g, '').trim()
+  if (/[a-zA-Z]/.test(cleanWord)) emit('select-word', cleanWord.toLowerCase())
+}
+
 function handleContentClick(event: MouseEvent) {
   const target = event.target as HTMLElement | null
   if (!target) return
 
-  // 1. 点击 <code> 标签触发完整单词或短语发音与查词（如 "a third", "three hundred", "two-thirds"）
-  if (target.tagName.toLowerCase() === 'code') {
-    const text = target.textContent?.trim() || ''
-    // 排除纯音标标记如 /iː/
-    if (text.startsWith('/') && text.endsWith('/')) {
-      return
-    }
-    const cleanPhrase = text.replace(/^[^a-zA-Z0-9]+|[^a-zA-Z0-9]+$/g, '').trim()
-    if (/[a-zA-Z]/.test(cleanPhrase)) {
-      event.preventDefault()
-      emit('select-word', cleanPhrase.toLowerCase())
-      return
-    }
+  const token = target.closest<HTMLElement>('code.course-token')
+  if (token) {
+    if (token.dataset.courseAction) event.preventDefault()
+    activateCourseToken(token)
+    return
   }
+
+  if (target.closest('pre')) return
 
   // 2. 划词或选词查词
   const selection = window.getSelection()
@@ -687,6 +751,15 @@ function handleContentClick(event: MouseEvent) {
       }
     }
   }
+}
+
+function handleContentKeydown(event: KeyboardEvent) {
+  if (event.key !== 'Enter' && event.key !== ' ') return
+  const target = event.target as HTMLElement | null
+  const token = target?.closest<HTMLElement>('code.course-token[data-course-action]')
+  if (!token) return
+  event.preventDefault()
+  activateCourseToken(token)
 }
 </script>
 
@@ -719,24 +792,32 @@ function handleContentClick(event: MouseEvent) {
         <div v-else-if="manifestError" class="sidebar-error">{{ manifestError }}</div>
         <div v-else class="unit-list">
           <div v-for="group in groupedCourses" :key="group.tag" class="course-group">
-            <div class="group-header">
-              <span class="group-name">{{ group.tag }}</span>
-              <span class="group-count">{{ group.courses.length }} 门</span>
-            </div>
             <button
-              v-for="course in group.courses"
-              :key="course.id"
               type="button"
-              :class="['unit-card', { active: selectedCourse?.id === course.id }]"
-              @click="selectCourse(course)"
+              class="group-header"
+              :aria-expanded="isCourseGroupExpanded(group.tag)"
+              :aria-label="`${isCourseGroupExpanded(group.tag) ? '折叠' : '展开'} ${group.tag}`"
+              @click="toggleCourseGroup(group.tag)"
             >
-              <span class="unit-num">{{ course.id }}</span>
-              <span class="unit-info">
-                <span class="unit-name">{{ course.title }}</span>
-                <span class="unit-desc">{{ course.desc }}</span>
-              </span>
-              <span class="unit-count">{{ course.words.length }} 词</span>
+              <span class="group-label"><span class="group-disclosure" aria-hidden="true">›</span><span class="group-name">{{ group.tag }}</span></span>
+              <span class="group-count">{{ group.courses.length }} 门</span>
             </button>
+            <div v-show="isCourseGroupExpanded(group.tag)" class="course-group-courses">
+              <button
+                v-for="course in group.courses"
+                :key="course.id"
+                type="button"
+                :class="['unit-card', { active: selectedCourse?.id === course.id }]"
+                @click="selectCourse(course)"
+              >
+                <span class="unit-num">{{ course.id }}</span>
+                <span class="unit-info">
+                  <span class="unit-name">{{ course.title }}</span>
+                  <span class="unit-desc">{{ course.desc }}</span>
+                </span>
+                <span class="unit-count">{{ course.words.length }} 词</span>
+              </button>
+            </div>
           </div>
         </div>
       </aside>
@@ -795,6 +876,7 @@ function handleContentClick(event: MouseEvent) {
             class="markdown-body"
             v-html="renderedHtml"
             @click="handleContentClick"
+            @keydown="handleContentKeydown"
           ></article>
         </template>
         <div v-else class="no-selection">
@@ -868,18 +950,29 @@ function handleContentClick(event: MouseEvent) {
 
         <div v-if="groupedCourses.length" class="mobile-course-groups">
           <section v-for="group in groupedCourses" :key="group.tag" class="mobile-course-group">
-            <div class="mobile-group-heading"><h3>{{ group.tag }}</h3><span>{{ group.courses.length }} 门</span></div>
             <button
-              v-for="course in group.courses"
-              :key="course.id"
               type="button"
-              class="mobile-course-card"
-              @click="openMobileCourse(course, course.id === lastCourseId)"
+              class="mobile-group-heading"
+              :aria-expanded="isCourseGroupExpanded(group.tag)"
+              :aria-label="`${isCourseGroupExpanded(group.tag) ? '折叠' : '展开'} ${group.tag}`"
+              @click="toggleCourseGroup(group.tag)"
             >
-              <span class="mobile-course-num">{{ String(course.id).padStart(2, '0') }}</span>
-              <span class="mobile-course-copy"><strong>{{ course.title }}</strong><span>{{ course.desc }}</span><small>{{ course.words.length }} 个核心词</small></span>
-              <span class="mobile-course-arrow" aria-hidden="true">›</span>
+              <span class="group-label"><span class="group-disclosure" aria-hidden="true">›</span><h3>{{ group.tag }}</h3></span>
+              <span>{{ group.courses.length }} 门</span>
             </button>
+            <div v-show="isCourseGroupExpanded(group.tag)" class="mobile-group-courses">
+              <button
+                v-for="course in group.courses"
+                :key="course.id"
+                type="button"
+                class="mobile-course-card"
+                @click="openMobileCourse(course, course.id === lastCourseId)"
+              >
+                <span class="mobile-course-num">{{ String(course.id).padStart(2, '0') }}</span>
+                <span class="mobile-course-copy"><strong>{{ course.title }}</strong><span>{{ course.desc }}</span><small>{{ course.words.length }} 个核心词</small></span>
+                <span class="mobile-course-arrow" aria-hidden="true">›</span>
+              </button>
+            </div>
           </section>
         </div>
         <div v-else class="mobile-empty-result"><span>🔎</span><strong>没有匹配的课程</strong><p>试试其他关键词或切换课程分类。</p></div>
@@ -910,6 +1003,7 @@ function handleContentClick(event: MouseEvent) {
           class="markdown-body"
           v-html="renderedHtml"
           @click="handleContentClick"
+          @keydown="handleContentKeydown"
         ></article>
       </main>
 
@@ -1096,7 +1190,53 @@ function handleContentClick(event: MouseEvent) {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  width: 100%;
   padding: 2px 2px 0;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.group-header:hover {
+  background: #f8fafc;
+}
+
+.group-header:focus-visible,
+.mobile-group-heading:focus-visible {
+  outline: 2px solid rgba(52, 152, 219, 0.5);
+  outline-offset: 2px;
+}
+
+.group-label {
+  display: inline-flex;
+  align-items: center;
+  min-width: 0;
+  gap: 0.24rem;
+}
+
+.group-disclosure {
+  display: inline-grid;
+  width: 0.7rem;
+  place-items: center;
+  color: #94a3b8;
+  font-size: 0.9rem;
+  line-height: 1;
+  transition: transform 0.14s ease;
+}
+
+.group-header[aria-expanded="true"] .group-disclosure,
+.mobile-group-heading[aria-expanded="true"] .group-disclosure {
+  transform: rotate(90deg);
+}
+
+.course-group-courses {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
 }
 
 .group-name {
@@ -1355,14 +1495,13 @@ function handleContentClick(event: MouseEvent) {
   background: #f8fafc;
   font-weight: 600;
   color: #334155;
-  white-space: nowrap;
+  white-space: normal;
 }
 
-/* 仅第一列（类别、音标、法则标签）紧凑不换行 */
+/* 第一列保持清楚，但不以 nowrap 强迫整张表横向溢出。 */
 .markdown-body :deep(td:nth-child(1)) {
-  white-space: nowrap;
+  white-space: normal;
   color: #1e293b;
-  width: 1%;
 }
 
 /* 其余内容列（规律说明、拆解例词、口型动作等）自适应自然换行 */
@@ -1373,29 +1512,6 @@ function handleContentClick(event: MouseEvent) {
 
 .markdown-body :deep(tr:nth-child(even)) {
   background: #fcfdfe;
-}
-
-/* 序数词特殊形式与变异高亮样式 */
-.markdown-body :deep(code.ord-special) {
-  background: #fef2f2;
-  color: #dc2626;
-  border: 1px solid #fecaca;
-  font-weight: 600;
-}
-
-.markdown-body :deep(code.ord-special:hover) {
-  background: #fee2e2;
-}
-
-.markdown-body :deep(code.ord-variant) {
-  background: #fffbeb;
-  color: #b45309;
-  border: 1px solid #fde68a;
-  font-weight: 600;
-}
-
-.markdown-body :deep(code.ord-variant:hover) {
-  background: #fef3c7;
 }
 
 .markdown-body :deep(blockquote) {
@@ -1409,20 +1525,113 @@ function handleContentClick(event: MouseEvent) {
 
 .markdown-body :deep(code) {
   background: #f1f5f9;
-  color: #0969da;
+  color: #425466;
   padding: 0.15rem 0.35rem;
   border-radius: 4px;
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
   font-size: 0.9em;
-  cursor: pointer;
-  white-space: nowrap; /* 所有的 code 均强制不换行 */
-  display: inline-block;
+  cursor: default;
+  white-space: normal;
+  display: inline;
   vertical-align: baseline;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
 }
 
-.markdown-body :deep(code:hover) {
-  background: #dbeafe;
-  text-decoration: underline;
+.markdown-body :deep(code.course-token) {
+  margin-inline: 0.12em;
+  border: 1px solid transparent;
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.markdown-body :deep(code.token-word) {
+  display: inline-block;
+  margin-block: 0.05em;
+  color: #315b72;
+  background: #f2f6f8;
+  white-space: nowrap;
+}
+
+.markdown-body :deep(code.token-sentence) {
+  display: inline;
+  color: #3f5867;
+  background: #f6f9fa;
+  border-bottom-color: #bdcbd2;
+  border-bottom-style: dashed;
+  white-space: normal;
+}
+
+.markdown-body :deep(code.token-morpheme) {
+  display: inline-block;
+  margin-block: 0.05em;
+  color: #665d78;
+  background: #f6f4f8;
+  border-color: #e4dfeb;
+  white-space: nowrap;
+}
+
+.markdown-body :deep(code.token-phoneme) {
+  display: inline-block;
+  margin-block: 0.05em;
+  color: #555d78;
+  background: #f4f5f9;
+  border-color: #e0e3ed;
+  white-space: nowrap;
+}
+
+.markdown-body :deep(code.token-notation) {
+  display: inline-block;
+  margin-block: 0.05em;
+  white-space: nowrap;
+}
+
+.markdown-body :deep(code.form-changed),
+.markdown-body :deep(code.form-variant),
+.markdown-body :deep(code.ord-variant) {
+  color: #42695d;
+  background: #f1f7f4;
+  border-color: #d6e6df;
+  font-weight: 600;
+}
+
+.markdown-body :deep(code.form-irregular),
+.markdown-body :deep(code.ord-special) {
+  color: #725b35;
+  background: #faf6ed;
+  border-color: #e8dcc3;
+  font-weight: 600;
+}
+
+.markdown-body :deep(code.token-morpheme.form-variant),
+.markdown-body :deep(code.token-morpheme.form-irregular) {
+  border-style: dashed;
+}
+
+.markdown-body :deep(code[data-course-action]) {
+  cursor: pointer;
+}
+
+.markdown-body :deep(code[data-course-action]:hover) {
+  color: #244f67;
+  background: #eaf2f6;
+  border-color: #cadbe3;
+}
+
+.markdown-body :deep(code.form-changed[data-course-action]:hover) {
+  color: #355b50;
+  background: #e9f3ee;
+  border-color: #c7ddd4;
+}
+
+.markdown-body :deep(code.form-irregular[data-course-action]:hover) {
+  color: #654d29;
+  background: #f5eddd;
+  border-color: #ddcdaa;
+}
+
+.markdown-body :deep(code[data-course-action]:focus-visible) {
+  outline: 2px solid #7ba6bb;
+  outline-offset: 2px;
 }
 
 .markdown-body :deep(pre) {
@@ -1889,7 +2098,19 @@ function handleContentClick(event: MouseEvent) {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    width: 100%;
     padding: 0 0.15rem;
+    border: 0;
+    border-radius: 8px;
+    background: transparent;
+    color: inherit;
+    font: inherit;
+    text-align: left;
+    cursor: pointer;
+  }
+
+  .mobile-group-heading:hover {
+    background: #f8fafc;
   }
 
   .mobile-group-heading h3 {
@@ -1901,6 +2122,15 @@ function handleContentClick(event: MouseEvent) {
   .mobile-group-heading span {
     color: #94a3b8;
     font-size: 0.68rem;
+  }
+
+  .mobile-group-heading .group-label {
+    color: #344256;
+  }
+
+  .mobile-group-courses {
+    display: grid;
+    gap: 0.55rem;
   }
 
   .mobile-course-card {
@@ -2118,15 +2348,13 @@ function handleContentClick(event: MouseEvent) {
   }
 
   .mobile-reader-content .markdown-body :deep(table) {
-    width: max-content;
-    min-width: 100%;
-    max-width: none;
-  }
-
-  .mobile-reader-content .markdown-body :deep(table) {
     display: block;
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
     overflow-x: auto;
     overscroll-behavior-x: contain;
+    scrollbar-width: thin;
   }
 
   .mobile-reader-content .markdown-body :deep(pre),

@@ -1,96 +1,196 @@
-# 情态动词
+# 情态、语气与立场
 
-> **导读**：
-> - 情态动词不表示动作本身，而是给动作附加**说话人的态度**：能不能、许不许、该不该、会不会。
-> - 本课按语义功能建立全景：能力与许可、推测的确定性等级、义务与建议，最后进入高阶的“情态 + 完成式”，对过去事件进行推断与复盘。
+> 情态不是给动作加一个固定中文释义，而是表达说话人如何评估可能性、必要性、能力、许可、意愿与证据。相同的 `must`，既可能是规定，也可能是推断。
 
 ---
 
-## 一、 情态动词语义功能全景图
+## 1. 情态动词是一类特殊助动词
 
-```mermaid
-graph TB
-    MOD["🎛️ 情态动词语义系统"] --> F1["能力 / 许可 / 请求<br>can · could · may · might"]
-    MOD --> F2["推测 / 确定性<br>must · can't · may · might"]
-    MOD --> F3["义务 / 必要 / 建议<br>must · have to · should · need"]
-    MOD --> F4["意愿 / 习惯<br>will · would"]
+核心情态动词包括 `can / could / may / might / must / shall / should / will / would`。它们有共同句法特征：
 
-    F2 --> GRAD["确定性等级<br>must (≈95%) → may/might (≈50%→30%) → can't (反向≈95%)"]
-    F1 --> PAST["时间前移：情态 + have done<br>对过去的推断与复盘"]
-```
+- 后接动词原形：`She can swim.`
+- 第三人称单数不加 `-s`：不能写 `cans`。
+- 直接参与倒装：`Could this approach work?`
+- `not` 直接跟在其后：`You should not wait.`
+- 通常没有完整的不定式、分词和时态范式。
 
-> [!NOTE]
-> 情态动词的共同句法特征：后接**动词原形**；无人称与数的变化（不说 `he musts`）；疑问与否定不借助 `do`（`Can he...?` / `He can't...`）。
+表达相近意义但能补足范式的结构常称“半情态”或情态外围结构，如 `have to`、`be able to`、`be allowed to`、`be supposed to`、`need to`。
+
+`We have been able to reproduce the bug.` 不能简单换成不存在的 `have can`。
 
 ---
 
-## 二、 能力、许可与请求
+## 2. 两条主轴：现实条件与说话人判断
 
-| 功能 | 常用表达 | 语气与场景 | 示例 |
-| :--- | :--- | :--- | :--- |
-| 能力（现在） | `can` / `be able to` | 客观能力 | `She can speak three languages.` |
-| 能力（过去） | `could` / `was able to` | `could` 表泛指能力；特定一次成功多用 `was able to` | `He could swim at five.` / `We were able to catch the last train.` |
-| 许可（非正式） | `can` | 日常口语 | `Can I use your pen?` |
-| 许可（正式） | `may` | 书面与正式场合 | `You may leave now.` |
-| 请求（礼貌递进） | `Will you...` → `Would / Could you...` | 越用 `would/could` 越委婉 | `Could you help me for a minute?` |
+### 根情态
 
----
+根情态涉及现实世界中的条件：能力、许可、义务、意愿。
 
-## 三、 推测与确定性等级
+- 能力：`Maya can read music.`
+- 许可：`You may leave early.`
+- 义务：`Staff must wear protective glasses.`
+- 意愿：`I will help you.`
 
-对现在情况的推测，按把握程度选用不同情态动词：
+### 认识情态
 
-| 把握程度 | 情态动词 | 含义 | 示例 |
-| :--- | :--- | :--- | :--- |
-| 几乎肯定（正向） | `must` | 一定 | `The lights are on. He must be home.` |
-| 很可能 | `should` | 按理应该 | `They left an hour ago, so they should be there by now.` |
-| 可能（约五成） | `may` | 也许 | `It may rain later.` |
-| 可能（把握更小） | `might` / `could` | 或许 | `She might join us.` |
-| 几乎肯定（反向） | `can't` | 不可能 | `That can't be true.` |
+认识情态表达说话人对命题真实性的判断：
 
-> [!IMPORTANT]
-> `must` 的否定推测**不用 `mustn't`** 而用 `can't`：`He must be tired.` 的反面是 `He can't be tired.`（他不可能累），`mustn't` 只表禁止。
+- `She may be at home.` —— 有可能。
+- `She must be at home.` —— 根据证据作高把握推断。
+- `She can't be at home.` —— 判断不可能。
+
+同一个句子可能依赖语境消歧：`You must be quiet.` 可表示命令；`You must be exhausted.` 通常是推断。
 
 ---
 
-## 四、 义务、必要与建议
+## 3. `can` 与 `could`：能力、许可和可能
 
-| 强度 | 表达 | 义务来源 | 示例 |
-| :--- | :--- | :--- | :--- |
-| 最强（禁止） | `mustn't` | 规定 / 说话人强制 | `You mustn't smoke here.`（禁止） |
-| 强（必须） | `must` | 说话人主观认为必要 | `You must finish it today.` |
-| 强（必须） | `have to` | 客观外界要求 | `I have to wear a uniform at work.` |
-| 中（应该） | `should` / `ought to` | 道义或情理建议 | `You should get more sleep.` |
-| 弱（需要） | `need`（多用于否定/疑问） | 必要性判断 | `You needn't worry.` |
+`can` 表示当前或一般能力：`This device can detect smoke.`。一次具体的过去成功常用 `managed to` 或 `was able to`：
 
-> [!WARNING]
-> 经典辨析：`mustn't do` = **禁止做**（不要做）；`don't have to do` = **不必做**（可做可不做）。`You mustn't tell anyone.`（不许告诉任何人）与 `You don't have to tell anyone.`（不必告诉任何人）含义完全不同。
+`Despite the noise, we were able to identify the signal.`
 
----
+`could` 可以表示：
 
-## 五、 情态加完成式：对过去的推断与复盘
+- 过去的一般能力：`She could read at four.`
+- 较委婉的请求：`Could you review this paragraph?`
+- 假设可能：`A smaller model could reduce latency.`
 
-结构：**情态动词 + have + 过去分词**。把推测、评价的时间锚点移向过去：
-
-| 结构 | 含义 | 示例 |
-| :--- | :--- | :--- |
-| `must have done` | 过去一定发生了（有把握的推断） | `The road is wet. It must have rained last night.` |
-| `can't / couldn't have done` | 过去不可能发生 | `He couldn't have stolen it; he was with me.` |
-| `may / might have done` | 过去也许发生了 | `She might have missed the bus.` |
-| `should / ought to have done` | 本应该做却没做（含责备或遗憾） | `You should have told me earlier.` |
-| `shouldn't have done` | 本不该做却做了 | `I shouldn't have said that.` |
-| `needn't have done` | 本不必做却做了（做了多余的功） | `You needn't have bought so much food.` |
-| `could have done` | 本可以做却没做 | `You could have at least called me.` |
-
-> [!TIP]
-> `must have done` 只用于**肯定推断**且一般不用于疑问与否定；对过去的疑问推断改用 `Could it have been...?`，否定推断用 `can't / couldn't have done`。
+在肯定的认识推断中，英语更常用 `may / might / could` 表可能；否定的强推断可用 `can't`：`That can't be the final version.`
 
 ---
 
-## 六、 本课核心练习词汇
+## 4. `may` 与 `might`：可能性不只是概率刻度
 
-点击下列词汇，在 Lexi 中查看释义并听标准发音：
+二者都可表达不确定可能：
 
-- `modal` · `ability` · `permission` · `obligation` · `speculation`
-- `must` · `could` · `might` · `should` · `ought`
-- `need` · `dare` · `shall` · `would` · `permission`
+- `The change may improve accuracy.`
+- `The change might improve accuracy.`
+
+`might` 常显得更试探、更遥远或更假设，但两者不是可以稳定换算为具体百分比的概率值。`may` 还可表达正式许可：`Visitors may use the library.`
+
+`might` 在转述过去观点或反事实语境中也很自然：`We thought the treatment might help.`
+
+---
+
+## 5. `must`、`have to` 与 `need`
+
+### 义务来源
+
+- `You must submit the form today.` 常把要求呈现为说话人、规则或当前论证中的强制要求。
+- `I have to leave at six.` 常把必要性呈现为外部条件。
+
+这种差别是倾向，不是绝对边界。`have to` 能自然构成过去和未来：`We had to cancel.`；`She will have to wait.`
+
+### 否定不能机械对应
+
+- `You mustn't enter.` = 禁止进入。
+- `You don't have to enter.` = 没有进入的必要。
+- `You needn't enter.` = 不必进入。
+
+这里是典型的否定范围差异：`must not` 否定的是被许可性，`not have to` 否定的是必要性。
+
+---
+
+## 6. `should`、`ought to` 与较弱必要性
+
+`should` 可表达建议、合理预期或规范判断：
+
+- 建议：`You should back up the database.`
+- 预期：`The package should arrive tomorrow.`
+- 规范：`Experiments should be reproducible.`
+
+`ought to` 意义相近但频率和语域不同。`be supposed to` 常表达既定安排或社会规范：`We're supposed to meet at nine.`
+
+`should` 还可出现在正式条件从句中：`Should you need assistance, contact reception.`
+
+---
+
+## 7. `will` 与 `would`：未来、意愿与距离
+
+`will` 不只是未来标记：
+
+- 预测：`The battery will last about ten hours.`
+- 意愿：`I'll carry the box.`
+- 拒绝：`The door won't open.`
+- 典型倾向：`Accidents will happen.`
+
+`would` 可表达过去视角中的未来、假设结果、过去习惯和礼貌距离：
+
+- `She knew the decision would be unpopular.`
+- `I would travel more if I had time.`
+- `Every summer, we would swim in the river.`
+- `Would you mind closing the door?`
+
+礼貌并非单纯“过去式更客气”，而是形式上的距离减少了对听者的直接施压。
+
+---
+
+## 8. 情态完成式：从现在评价较早事件
+
+结构为 <lexi-notation>`modal`</lexi-notation> + `have` + <lexi-notation>`past participle`</lexi-notation>。
+
+- 高把握推断：`She must have missed the train.`
+- 可能发生：`They may have taken another route.`
+- 不可能发生：`He can't have seen the message.`
+- 未实现能力或机会：`We could have won.`
+- 事后建议或批评：`You should have called.`
+- 反事实结果：`I would have helped if I had known.`
+
+不要把这些形式一律称作“过去时”。情态本身提供判断，完成体把被判断的事件放在参照点之前。
+
+---
+
+## 9. 否定范围与歧义
+
+比较：
+
+- `You may not leave.`
+
+它可能表示“不允许离开”，也可能表示“你或许不会离开”。口语重音和上下文通常消歧；专业写作应改用 `You are not allowed to leave` 或 `It is possible that you will not leave`。
+
+再比较：
+
+- `She can't have deliberately deleted every file.`
+
+否定可能作用于整个推断，也可能在复杂语境中与 `deliberately / every` 产生范围竞争。句子越关乎规则、安全或责任，越应避免依赖含混情态。
+
+---
+
+## 10. 情态与证据、礼貌和学术立场
+
+学术写作中的情态常用于校准结论：
+
+- `These findings may indicate a change in strategy.`
+- `This result could be explained by sampling bias.`
+- `The discrepancy must arise from a measurement error.`
+
+`may / could` 不一定表示作者胆怯，而是在区分数据、推断和确定结论。反过来，过度使用 `must` 会把有限证据包装成必然性。
+
+请求也通过情态和句式管理人际关系：
+
+- `Send me the file.`
+- `Can you send me the file?`
+- `Could you send me the file when you have a moment?`
+
+三句的命题目标相同，施加给听者的压力不同。
+
+---
+
+## 11. 选择情态的流程
+
+1. 先判断是在谈现实条件，还是评估命题真假。
+2. 再判断力量：可能、合理预期、强推断，或许可、建议、义务。
+3. 确定事件相对参照点的时间；较早事件可能需要 `modal + have + participle`。
+4. 检查否定作用于“必要性”“许可”“可能性”还是事件本身。
+5. 按语域调整直接程度，尤其是请求、规章和研究结论。
+
+---
+
+## 12. 本课回看
+
+- 情态表达说话人对可能、必要、能力、许可和证据的立场。
+- 根情态与认识情态共享形式，但评估对象不同。
+- `mustn't` 与 `don't have to` 的差别来自否定范围。
+- `could / would` 的“距离”可服务于过去、假设和礼貌。
+- 情态完成式把较早事件置于当前或过去的判断之下。
+- 专业表达需要校准情态强度，并主动消除高风险歧义。
