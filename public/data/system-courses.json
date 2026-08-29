@@ -416,8 +416,8 @@
   {
     "id": 19,
     "slug": "developer-engineering-english",
-    "title": "Git、提交与代码评审",
-    "desc": "识别 Git、Issue、评审、测试、报错、发布和事故通告中的工程英语。",
+    "title": "版本控制、提交与评审",
+    "desc": "从版本控制出发，识别提交、评审、测试、报错、发布和事故通告中的工程英语。",
     "tag": "开发与技术",
     "icon": "💻",
     "file": "/data/system-courses/19-developer-engineering-english.md",
@@ -537,7 +537,7 @@
     "slug": "elements-periodic-table-and-chemical-word-formation",
     "title": "元素、周期表与化学构词",
     "desc": "把元素表、原子与化合物、命名历史和化学构词连接成一条英语阅读线。",
-    "tag": "科研与学术",
+    "tag": "中小学",
     "icon": "⚛️",
     "file": "/data/system-courses/25-elements-periodic-table-and-chemical-word-formation.md",
     "words": [
@@ -556,7 +556,7 @@
     "slug": "chemical-foundations-reactions-and-solutions",
     "title": "化学研究：基础、反应与溶液",
     "desc": "读懂化学材料中的物质、结构、反应、数量、溶液和实验条件英语。",
-    "tag": "科研与学术",
+    "tag": "大学",
     "icon": "⚗️",
     "file": "/data/system-courses/26-chemical-foundations-reactions-and-solutions.md",
     "words": [
@@ -575,7 +575,7 @@
     "slug": "chemical-materials-analysis-and-safety",
     "title": "化学研究：材料、分析与实验安全",
     "desc": "读懂样品、表征、仪器信号、证据措辞和实验安全文件中的关键英文。",
-    "tag": "科研与学术",
+    "tag": "大学",
     "icon": "🧪",
     "file": "/data/system-courses/27-chemical-materials-analysis-and-safety.md",
     "words": [
@@ -625,6 +625,196 @@
       "distance",
       "coordinate",
       "adjacent"
+    ]
+  },
+  {
+    "id": 30,
+    "slug": "school-mathematics",
+    "title": "数学：数量、代数、图形与证明",
+    "desc": "从运算和代数关系走向函数、几何、图表、证明与文字题的数学英语。",
+    "tag": "中小学",
+    "icon": "📐",
+    "file": "/data/system-courses/30-school-mathematics.md",
+    "words": [
+      "equation",
+      "variable",
+      "expression",
+      "function",
+      "ratio",
+      "angle",
+      "theorem",
+      "proof"
+    ]
+  },
+  {
+    "id": 31,
+    "slug": "school-physics",
+    "title": "物理：运动、力、能量与波",
+    "desc": "读懂物理量、运动图像、力与能量、热、波、电路和实验误差。",
+    "tag": "中小学",
+    "icon": "🪐",
+    "file": "/data/system-courses/31-school-physics.md",
+    "words": [
+      "velocity",
+      "acceleration",
+      "force",
+      "mass",
+      "energy",
+      "power",
+      "wave",
+      "circuit"
+    ]
+  },
+  {
+    "id": 32,
+    "slug": "school-biology",
+    "title": "生物：细胞、遗传、生态与演化",
+    "desc": "连接细胞、个体、遗传、稳态、生态系统、演化与观察实验表达。",
+    "tag": "中小学",
+    "icon": "🧬",
+    "file": "/data/system-courses/32-school-biology.md",
+    "words": [
+      "cell",
+      "organism",
+      "gene",
+      "inheritance",
+      "metabolism",
+      "ecosystem",
+      "adaptation",
+      "evolution"
+    ]
+  },
+  {
+    "id": 33,
+    "slug": "geography-and-earth-science",
+    "title": "地理与地球科学：地图、气候与地貌",
+    "desc": "从地图尺度和坐标走向地貌、气候、板块、人口与人地关系。",
+    "tag": "中小学",
+    "icon": "🌍",
+    "file": "/data/system-courses/33-geography-and-earth-science.md",
+    "words": [
+      "scale",
+      "coordinate",
+      "latitude",
+      "climate",
+      "weathering",
+      "erosion",
+      "plate",
+      "population"
+    ]
+  },
+  {
+    "id": 34,
+    "slug": "history-and-society",
+    "title": "历史与社会：年代、制度与因果",
+    "desc": "读懂年代、史料、因果、延续与变化、制度、迁移和证据观点。",
+    "tag": "中小学",
+    "icon": "🏛️",
+    "file": "/data/system-courses/34-history-and-society.md",
+    "words": [
+      "chronology",
+      "source",
+      "evidence",
+      "empire",
+      "institution",
+      "revolution",
+      "migration",
+      "consequence"
+    ]
+  },
+  {
+    "id": 35,
+    "slug": "university-mathematics-and-statistics",
+    "title": "高等数学与统计：变化、模型与推断",
+    "desc": "读懂集合与函数、极限、微积分、线性代数、概率、估计和证明语言。",
+    "tag": "大学",
+    "icon": "📊",
+    "file": "/data/system-courses/35-university-mathematics-and-statistics.md",
+    "words": [
+      "limit",
+      "derivative",
+      "integral",
+      "vector",
+      "matrix",
+      "distribution",
+      "estimator",
+      "inference"
+    ]
+  },
+  {
+    "id": 36,
+    "slug": "university-physics-and-engineering",
+    "title": "物理与工程：模型、测量与系统",
+    "desc": "连接力学、场、电路、热力学、信号、材料、系统约束与测量语言。",
+    "tag": "大学",
+    "icon": "⚙️",
+    "file": "/data/system-courses/36-university-physics-and-engineering.md",
+    "words": [
+      "momentum",
+      "field",
+      "potential",
+      "entropy",
+      "signal",
+      "stress",
+      "strain",
+      "uncertainty"
+    ]
+  },
+  {
+    "id": 37,
+    "slug": "life-science",
+    "title": "生命科学：分子、细胞与实验",
+    "desc": "从生物分子和基因表达走向信号通路、组学、检测、对照与谨慎结论。",
+    "tag": "大学",
+    "icon": "🔬",
+    "file": "/data/system-courses/37-life-science.md",
+    "words": [
+      "protein",
+      "genome",
+      "transcription",
+      "pathway",
+      "receptor",
+      "phenotype",
+      "assay",
+      "replicate"
+    ]
+  },
+  {
+    "id": 38,
+    "slug": "computer-science",
+    "title": "计算机科学：算法、数据与系统",
+    "desc": "读懂计算模型、算法复杂度、数据结构、抽象、并发、数据库、网络与安全。",
+    "tag": "大学",
+    "icon": "🖥️",
+    "file": "/data/system-courses/38-computer-science.md",
+    "words": [
+      "algorithm",
+      "complexity",
+      "structure",
+      "abstraction",
+      "concurrency",
+      "database",
+      "protocol",
+      "security"
+    ]
+  },
+  {
+    "id": 39,
+    "slug": "economics-and-social-science",
+    "title": "经济与社会科学：市场、制度与证据",
+    "desc": "读懂选择、市场、宏观指标、政策、调查、群体差异、制度与因果证据。",
+    "tag": "大学",
+    "icon": "🏙️",
+    "file": "/data/system-courses/39-economics-and-social-science.md",
+    "words": [
+      "scarcity",
+      "incentive",
+      "equilibrium",
+      "inflation",
+      "productivity",
+      "policy",
+      "inequality",
+      "causality"
     ]
   }
 ]

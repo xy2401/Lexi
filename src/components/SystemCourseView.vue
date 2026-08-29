@@ -113,7 +113,7 @@ function migrateCourseView(savedView: CourseViewSetting): CourseViewSetting {
 
 // 统计
 const totalWords = computed(() => courses.value.reduce((s, c) => s + c.words.length, 0))
-const COURSE_TAG_ORDER = ['声音与拼写', '词汇与构词', '句子与语法', '阅读与表达', '开发与技术', '科研与学术']
+const COURSE_TAG_ORDER = ['声音与拼写', '词汇与构词', '句子与语法', '阅读与表达', '开发与技术', '科研与学术', '中小学', '大学']
 const courseTags = computed(() => {
   const available = new Set(courses.value.map(course => course.tag))
   const known = COURSE_TAG_ORDER.filter(tag => available.has(tag))

@@ -23,8 +23,10 @@ describe('System Courses validation', () => {
     const courses: CourseItem[] = JSON.parse(content)
 
     expect(Array.isArray(courses)).toBe(true)
-    expect(courses.length).toBe(29)
-    expect(courses.map(course => course.id)).toEqual(Array.from({ length: 29 }, (_, index) => index + 1))
+    expect(courses.length).toBe(39)
+    expect(courses.map(course => course.id)).toEqual(Array.from({ length: 39 }, (_, index) => index + 1))
+    expect(new Set(courses.map(course => course.slug)).size).toBe(39)
+    expect(new Set(courses.map(course => course.title)).size).toBe(39)
 
     for (const course of courses) {
       expect(typeof course.id).toBe('number')
@@ -40,6 +42,7 @@ describe('System Courses validation', () => {
       const relativeFile = course.file.replace(/^\//, '')
       const mdPath = resolve(root, 'public', relativeFile)
       expect(existsSync(mdPath)).toBe(true)
+      expect(course.file.split('/').at(-1)).toMatch(new RegExp(`^${String(course.id).padStart(2, '0')}-`))
 
       const mdContent = readFileSync(mdPath, 'utf-8')
       expect(mdContent.length).toBeGreaterThan(100)
@@ -85,10 +88,15 @@ describe('System Courses validation', () => {
       '名词短语与限定', '代词与指代', '修饰、程度与比较', '疑问、否定与祈使', '时态与体（aspect）',
       '情态、语气与立场', '主动、被动与使役', '条件、假设与反事实', '介词与关系', '非谓语动词',
       '从句与复句', '语序、强调与信息结构', '词根、词缀与形态变体', '核心动词与短语动词',
-      '大语言模型、检索与智能体术语', 'Git、提交与代码评审', '容器、云服务与可观测性术语',
+      '大语言模型、检索与智能体术语', '版本控制、提交与评审', '容器、云服务与可观测性术语',
       '拼写、重音与节奏', '词义、搭配与语块', '阅读、篇章与技术写作',
       '论文写作与研究交流', '元素、周期表与化学构词', '化学研究：基础、反应与溶液',
       '化学研究：材料、分析与实验安全', '时间、历法与日程', '空间、方位与路径',
+      '数学：数量、代数、图形与证明', '物理：运动、力、能量与波', '生物：细胞、遗传、生态与演化',
+      '地理与地球科学：地图、气候与地貌', '历史与社会：年代、制度与因果',
+      '高等数学与统计：变化、模型与推断', '物理与工程：模型、测量与系统',
+      '生命科学：分子、细胞与实验', '计算机科学：算法、数据与系统',
+      '经济与社会科学：市场、制度与证据',
     ]
 
     expect(new Set(courses.map(course => course.title))).toEqual(new Set(expectedTitles))
@@ -147,6 +155,17 @@ describe('System Courses validation', () => {
     expect(mdContent).toContain('现在完成时：过去情形连接现在')
     expect(mdContent).toContain('体与事件类型')
     expect(mdContent).toContain('`By noon, Maya had finished the report.`')
+  })
+
+  it('anchors the collaboration course in version-control concepts', () => {
+    const mdContent = readFileSync(resolve(root, 'public/data/system-courses/19-developer-engineering-english.md'), 'utf-8')
+
+    expect(mdContent).toContain('版本控制：把变更变成可追溯的历史')
+    expect(mdContent).toContain('`backup`')
+    expect(mdContent).toContain('`snapshot`')
+    expect(mdContent).toContain('`change set`')
+    expect(mdContent).toContain('`baseline`')
+    expect(mdContent).toContain('distributed version control system')
   })
 
   it('verifies Lessons 12-17 spatial, clause, and morphology depth', () => {
@@ -231,13 +250,33 @@ describe('System Courses validation', () => {
     expect(curriculumContent).toContain('声音与拼写')
     expect(curriculumContent).toContain('开发与技术')
     expect(curriculumContent).toContain('科研与学术')
-    expect(curriculumContent).toContain('29 门中长篇课程')
+    expect(curriculumContent).toContain('### 7. 中小学')
+    expect(curriculumContent).toContain('### 8. 大学')
+    expect(curriculumContent).toContain('39 门中长篇课程')
+    expect(curriculumContent).toContain('3／6／12／1／3／1／6／7')
     expect(curriculumContent).toContain('词义、搭配与语块')
     expect(curriculumContent).toContain('时间、历法与日程')
     expect(curriculumContent).toContain('空间、方位与路径')
     expect(curriculumContent).toContain('元素、周期表与化学构词')
     expect(curriculumContent).toContain('化学研究：基础、反应与溶液')
-    expect(curriculumContent).toContain('不构成从基础化学到专业化学的培养路线')
+
+    const courses: CourseItem[] = JSON.parse(readFileSync(manifestPath, 'utf-8'))
+    expect(courses.find(course => course.id === 25)?.tag).toBe('中小学')
+    expect(courses.find(course => course.id === 26)?.tag).toBe('大学')
+    expect(courses.find(course => course.id === 27)?.tag).toBe('大学')
+    expect(courses.filter(course => course.tag === '中小学').map(course => course.id)).toEqual([25, 30, 31, 32, 33, 34])
+    expect(courses.filter(course => course.tag === '大学').map(course => course.id)).toEqual([26, 27, 35, 36, 37, 38, 39])
+    expect(Object.fromEntries([...new Set(courses.map(course => course.tag))].map(tag => [tag, courses.filter(course => course.tag === tag).length]))).toEqual({
+      '声音与拼写': 3,
+      '词汇与构词': 6,
+      '句子与语法': 12,
+      '阅读与表达': 1,
+      '开发与技术': 3,
+      '科研与学术': 1,
+      '中小学': 6,
+      '大学': 7,
+    })
+    expect(curriculumContent).toContain('不替代大学专业课程、实验操作、安全培训')
 
     const specContent = readFileSync(specPath, 'utf-8')
     expect(specContent).toContain('课程与章节编写结构')
@@ -289,5 +328,43 @@ describe('System Courses validation', () => {
     expect(time).not.toContain('<lexi-word>')
     expect(space).toContain('介词的空间原型、搭配和语法由《介词与关系》负责')
     expect(space).toContain('东西南北与地图方向')
+  })
+
+  it('publishes ten substantive school and university panoramas with explicit boundaries', () => {
+    const courses: CourseItem[] = JSON.parse(readFileSync(manifestPath, 'utf-8'))
+    const expectedWords: Record<number, string[]> = {
+      30: ['equation', 'variable', 'expression', 'function', 'ratio', 'angle', 'theorem', 'proof'],
+      31: ['velocity', 'acceleration', 'force', 'mass', 'energy', 'power', 'wave', 'circuit'],
+      32: ['cell', 'organism', 'gene', 'inheritance', 'metabolism', 'ecosystem', 'adaptation', 'evolution'],
+      33: ['scale', 'coordinate', 'latitude', 'climate', 'weathering', 'erosion', 'plate', 'population'],
+      34: ['chronology', 'source', 'evidence', 'empire', 'institution', 'revolution', 'migration', 'consequence'],
+      35: ['limit', 'derivative', 'integral', 'vector', 'matrix', 'distribution', 'estimator', 'inference'],
+      36: ['momentum', 'field', 'potential', 'entropy', 'signal', 'stress', 'strain', 'uncertainty'],
+      37: ['protein', 'genome', 'transcription', 'pathway', 'receptor', 'phenotype', 'assay', 'replicate'],
+      38: ['algorithm', 'complexity', 'structure', 'abstraction', 'concurrency', 'database', 'protocol', 'security'],
+      39: ['scarcity', 'incentive', 'equilibrium', 'inflation', 'productivity', 'policy', 'inequality', 'causality'],
+    }
+
+    for (const id of Object.keys(expectedWords).map(Number)) {
+      const course = courses.find(item => item.id === id)
+      expect(course).toBeDefined()
+      expect(course?.words).toEqual(expectedWords[id])
+      const content = readFileSync(resolve(root, 'public', course!.file.replace(/^\//, '')), 'utf-8')
+      expect(content).toContain('**中心问题**')
+      expect(content).toContain('**课程边界**')
+      expect(content.match(/^## /gm)?.length ?? 0).toBeGreaterThanOrEqual(8)
+      for (const word of expectedWords[id]) expect(content.toLowerCase()).toContain(word)
+    }
+
+    const schoolMath = readFileSync(resolve(root, 'public/data/system-courses/30-school-mathematics.md'), 'utf-8')
+    const universityMath = readFileSync(resolve(root, 'public/data/system-courses/35-university-mathematics-and-statistics.md'), 'utf-8')
+    const lifeScience = readFileSync(resolve(root, 'public/data/system-courses/37-life-science.md'), 'utf-8')
+    const computerScience = readFileSync(resolve(root, 'public/data/system-courses/38-computer-science.md'), 'utf-8')
+
+    expect(schoolMath).toContain('英文读法由《数字、单位与数据表达》负责')
+    expect(universityMath).toContain('论文中报告统计结果、证据强度和审稿措辞由《论文写作与研究交流》负责')
+    expect(lifeScience).toContain('不提供诊断、治疗建议')
+    expect(computerScience).toContain('Git、提交与评审由《版本控制、提交与评审》负责')
+    expect(computerScience).toContain('部署、容器和云工具由《容器、云服务与可观测性术语》负责')
   })
 })

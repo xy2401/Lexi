@@ -1,10 +1,32 @@
-# Git、提交与代码评审
+# 版本控制、提交与评审
 
-> 本课帮助读者快速看懂代码仓库、Issue、Pull Request、测试结果和事故通告中的常见英文。概念解释只用于理解工程材料，不教授软件开发或项目管理本身。
+> 本课帮助读者快速看懂代码仓库、提交、Pull Request、测试结果和事故通告中的常见英文。版本控制是核心概念，Git 是当前最常见的实现；概念解释只用于理解工程材料，不教授软件开发或项目管理本身。
 
 ---
 
-## 1. 从需求到发布的词汇地图
+## 1. 版本控制：把变更变成可追溯的历史
+
+`version control` 不是把文件多存一份的同义词。`backup` 的重点是恢复丢失的数据；版本控制的重点是回答「某个状态从哪里来、改了什么、谁在何时为何修改，以及能否回到或并行比较另一个状态」。它把文件的演变组织成可阅读的历史。
+
+- `version`：某一时刻可辨认的状态；在产品语境中也常指对外编号的版本。
+- `revision`：历史中的一次修订版本，尤其常见于较早或集中式版本控制材料。
+- `snapshot`：对一组文件状态的快照；它关心当时整体是什么样，而不只是单个文件的一行改动。
+- `history`：按先后关系保存的变更记录。
+- `diff`：两个状态之间的差异；阅读 `diff` 就是在回答“到底改了什么”。
+- `change set`：为了同一个目的而归在一起的一组改动。
+- `baseline`：比较、测试或后续变更所依赖的基准状态。
+
+最小的阅读链是：`working copy` → `change set` → `commit` → `history`。`working copy` 是正在编辑的本地文件，`commit` 既可以指一次写入历史的记录，也可以作动词表示“提交这次变更”。因此 `commit` 不等于“上传”；它先建立可追溯的历史单位，是否共享到其他位置是下一步的问题。
+
+`branch` 让同一项目在不互相覆盖的情况下并行推进；`merge` 把两条历史重新接到一起；`conflict` 表示系统无法自动决定两个改动如何共存。`revert` 创建一个反向变更来撤销既有提交，`restore` 或 `checkout` 则更常用于恢复工作区文件。它们都和“回退”有关，但作用对象不同。
+
+`Git` 是最常见的 `distributed version control system`（DVCS）：每个克隆通常都有一份本地仓库和历史。与之相对，`centralized version control` 把权威历史主要放在中央服务器。读工程材料时，先识别它在说历史、工作区、协作位置还是发布状态，比先背命令更重要。
+
+`The diff shows the change, while the history explains how the change got there.`
+
+---
+
+## 2. 从需求到发布的词汇地图
 
 常见开发流程可以帮助定位术语：
 
@@ -24,9 +46,11 @@
 
 ---
 
-## 2. Repository 与 Git 高频词
+## 3. Repository、Git 与协作位置
 
 `repository` 常缩写为 `repo`，指保存项目文件和版本历史的仓库。
+
+在 Git 语境中，`local repository` 是本地历史库，`remote repository` 是可同步的另一份仓库，`origin` 常只是默认远端名称，并不天然等于唯一的“中央仓库”。因此 `push` 与 `pull` 描述的是仓库之间同步的方向，而不是一次 `commit` 本身。
 
 - `working tree`：当前看到和编辑的文件；
 - `staging area` 或 `index`：准备进入下一次提交的内容；
@@ -55,7 +79,7 @@
 
 ---
 
-## 3. Commit 与 Pull Request
+## 4. Commit 与 Pull Request
 
 `commit message` 是提交说明，常使用简短命令式动词：
 
@@ -83,7 +107,7 @@ PR 中常见栏目：
 
 ---
 
-## 4. Code review 中的语气
+## 5. Code review 中的语气
 
 评审评论经常使用不同强度：
 
@@ -113,7 +137,7 @@ PR 中常见栏目：
 
 ---
 
-## 5. Bug report 与复现信息
+## 6. Bug report 与复现信息
 
 `bug`、`defect` 和 `issue` 都可能表示问题。`issue` 最宽泛，不一定是程序错误。
 
@@ -136,7 +160,7 @@ PR 中常见栏目：
 
 ---
 
-## 6. Test、build 与 CI
+## 7. Test、build 与 CI
 
 `test case` 是测试情形；`test suite` 是一组测试；`assertion` 检查结果是否符合预期。
 
@@ -161,7 +185,7 @@ PR 中常见栏目：
 
 ---
 
-## 7. 错误和日志中的英文
+## 8. 错误和日志中的英文
 
 高频故障词：
 
@@ -192,7 +216,7 @@ PR 中常见栏目：
 
 ---
 
-## 8. 版本、兼容和弃用
+## 9. 版本、兼容和弃用
 
 `version` 是版本；`release` 是提供给用户的一次发布。常见版本词：
 
@@ -219,7 +243,7 @@ PR 中常见栏目：
 
 ---
 
-## 9. Incident 与状态通告
+## 10. Incident 与状态通告
 
 `incident` 是影响系统或用户、需要协调处理的事件。状态页常用：
 
@@ -239,7 +263,7 @@ PR 中常见栏目：
 
 ---
 
-## 10. 本课回看
+## 11. 本课回看
 
 - repository、commit、branch、merge 和 conflict 属于版本控制语境。
 - PR 描述变更、验证、风险和兼容性；review 评论常明确 blocking、suggestion 或 question。
