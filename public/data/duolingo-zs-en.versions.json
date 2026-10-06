@@ -306,10 +306,32 @@
       "directory": "duolingo-zs-en.gpt-6.1",
       "format": "split",
       "guideUnitIds": [
-        1
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
       ],
       "practiceUnitIds": [
-        1
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
       ]
     }
   ]
