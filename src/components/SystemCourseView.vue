@@ -565,7 +565,7 @@ function persistView(): Promise<void> {
     courseId: lastCourseId.value,
     searchQuery: searchQuery.value,
     tag: selectedTag.value,
-    collapsedCourseGroups: collapsedCourseGroups.value,
+    collapsedCourseGroups: [...collapsedCourseGroups.value],
     readingPositions: plainReadingPositions,
   })
 }

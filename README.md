@@ -50,8 +50,12 @@
 - 可从词族变体直接查词与朗读
 
 ### 🦉 多邻国课程（Duolingo）
+- 以 `public/data/duolingo-zs-en.json` 为原始单元数据，支持切换独立编写的模型讲义版本；默认 GPT-6.1，原版继续可用
+- GPT-6.1 首课讲义为 `001-喜好.md`，独立练习为同目录的 `001-喜好.test.md`：使用可读 Markdown 编写 32 道原创题，每轮最多 8 题；本单元题型卡片覆盖词义选择、补全句子、连词成句、英文填写、词义配对及三种听力练习
+- 新版提供提示、具体反馈、最多 4 题的巩固轮，以及暂停/刷新恢复；记录按模型隔离，未编写内容显示待编写
+- 注册与独立编写方式见[多模型讲义规范](docs/duolingo-course-versions.md)和[练习规范](docs/duolingo-practice-spec.md)
 - 290 个单元 / 2030 关 / 7611 个目标词汇
-- 内置连词成句、听音辨句、词义选择、单词匹配与选词填空等练习
+- 原版内置连词成句、听音辨句、词义选择、单词匹配与选词填空等练习
 - 每道题均配有深度语法与句法解析
 - TTS 朗读完整句子后再平滑切题
 - 持久保存最后单元、练习面板、已完成关卡、尝试次数与最佳正确率
@@ -227,8 +231,8 @@ npm run validate:dicts   # 校验两套 manifest、文件大小、记录数、�
 npm run prepare:wordnet  # 仅下载、校验和解压 OEWN 2025 Core
 npm run build:wordnet    # 准备源数据并构建 WordNet 数据库
 npm run build:extensions # 生成词根、近义词和词族数据集
-npm run build:course     # 构建多邻国课程索引
-npm run validate:course  # 校验课程 Markdown 和练习定义
+npm run build:course     # 分别更新各版本讲义与练习可用单元，不覆盖原始课程 JSON
+npm run validate:course  # 校验原始数据、原版兼容性、新版讲义/独立练习及版本清单
 ```
 
 Cloudflare Pages 构建命令：

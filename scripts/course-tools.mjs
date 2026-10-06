@@ -1,10 +1,12 @@
 import { readdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { basename, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { collectCourseVersions, validateCourseIndex } from './course-version-tools.mjs'
 
 const root = resolve(fileURLToPath(new URL('..', import.meta.url)))
 const courseDir = resolve(root, 'public/data/duolingo-zs-en')
 const indexPath = resolve(root, 'public/data/duolingo-zs-en.json')
+const versionsPath = resolve(root, 'public/data/duolingo-zs-en.versions.json')
 
 const REQUIRED_EXERCISES = [
   'quiz-pronunciation-match',
@@ -230,7 +232,7 @@ function validateUnit(filename, source) {
 
 function collectCourse() {
   const files = readdirSync(courseDir)
-    .filter(filename => filename.endsWith('.md'))
+    .filter(filename => filename.endsWith('.md') && !filename.endsWith('.test.md'))
     .sort((a, b) => a.localeCompare(b, 'en'))
   const errors = []
   const units = []
@@ -263,25 +265,36 @@ function main() {
     throw new Error('用法: node scripts/course-tools.mjs <validate|build>')
   }
 
+  const sourceUnits = JSON.parse(readFileSync(indexPath, 'utf8'))
+  validateCourseIndex(sourceUnits)
   const result = collectCourse()
+  if (JSON.stringify(result.units) !== JSON.stringify(sourceUnits)) {
+    result.errors.push('原版单元元数据与原始 JSON 不一致；请检查原版，不要覆盖原始 JSON')
+  }
   if (result.errors.length) {
     console.error(result.errors.slice(0, 100).join('\n'))
     if (result.errors.length > 100) console.error(`...另有 ${result.errors.length - 100} 个错误`)
     process.exit(1)
   }
 
-  const generated = `${JSON.stringify(result.units, null, 2)}\n`
+  const manifest = JSON.parse(readFileSync(versionsPath, 'utf8'))
+  const versions = collectCourseVersions(resolve(root, 'public/data'), sourceUnits, manifest)
+  const generated = `${JSON.stringify(versions, null, 2)}\n`
   if (command === 'build') {
-    writeFileSync(indexPath, generated, 'utf8')
-    console.log(`已生成 ${basename(indexPath)}`)
+    writeFileSync(versionsPath, generated, 'utf8')
+    console.log(`已更新 ${basename(versionsPath)}（原始 JSON 保持不变）`)
   } else {
-    const current = readFileSync(indexPath, 'utf8')
+    const current = readFileSync(versionsPath, 'utf8')
     if (current !== generated) {
-      console.error('课程索引已过期，请运行 npm run build:course')
+      console.error('讲义版本清单已过期，请运行 npm run build:course')
       process.exit(1)
     }
   }
   console.log(`课程校验通过: ${result.units.length} 单元 / ${result.quizCount} 关 / ${result.listeningCount} 道听写 / ${result.totalWords} 词`)
+  for (const version of versions.versions) {
+    console.log(`讲义版本 ${version.label}: ${version.guideUnitIds.length}/${sourceUnits.length} 单元已编写`)
+    if (version.format === 'split') console.log(`独立练习 ${version.label}: ${version.practiceUnitIds.length}/${sourceUnits.length} 单元已编写`)
+  }
 }
 
 main()

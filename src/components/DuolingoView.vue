@@ -4,13 +4,21 @@
  * 加载 /data/duolingo-zs-en.json，按单元展示词汇列表
  */
 import { ref, computed, onMounted, onBeforeUnmount, watch } from 'vue'
-import { marked } from 'marked'
 import { db, cacheWords, type WordEntry } from '../lib/db'
 import { queryDictionaryWords } from '../lib/remote-db'
-import { parseCourseMarkdown, type CourseDocument, type CourseUnitIndex, type QuizDefinition } from '../lib/course-markdown'
+import type { CourseUnitIndex, QuizDefinition } from '../lib/course-markdown'
+import {
+  COURSE_VERSION_SETTING,
+  COURSE_VERSION_VIEW_SETTING,
+  parseCourseVersions,
+  type CourseVersion,
+  type CourseVersionView,
+} from '../lib/course-versions'
+import { useCourseGuide } from '../composables/useCourseGuide'
 import PracticePanel from './PracticePanel.vue'
 import QuizLevelList from './QuizLevelList.vue'
 import QuizRunner from './QuizRunner.vue'
+import CoursePracticePanel from './CoursePracticePanel.vue'
 import { useIsMobile } from '../composables/useMediaQuery'
 import {
   completeCourseQuiz,
@@ -40,22 +48,24 @@ const loading = ref(true)
 const selectedUnit = ref<DuoUnit | null>(null)
 const unitEntries = ref<WordEntry[]>([])
 const searchQuery = ref('')
+const versions = ref<CourseVersion[]>([])
+const selectedVersionId = ref('')
+const selectedVersion = computed(() => versions.value.find(version => version.id === selectedVersionId.value))
+const isLegacyVersion = computed(() => selectedVersion.value?.format === 'combined')
+const catalogError = ref('')
+let contextRequest = 0
+let savedPanel: CourseVersionView['panel'] | undefined
 
 // 面板 tab 切换
 const panelTab = ref<'words' | 'guide' | 'practice'>('words')
-const guideHtml = ref('')
-const guideLoading = ref(false)
-const courseDocument = ref<CourseDocument | null>(null)
+const courseGuide = useCourseGuide()
+const { html: guideHtml, status: guideStatus, error: guideError, document: courseDocument } = courseGuide
 const activeQuiz = ref<QuizDefinition | null>(null)
 const completedQuizIds = ref<string[]>([])
 const quizLoadingId = ref('')
-const courseWarning = ref('')
 const unitProgress = ref(new Map<number, CourseUnitProgress>())
 
-const activeWords = computed(() => {
-  if (courseDocument.value?.words.length) return courseDocument.value.words
-  return selectedUnit.value?.words || []
-})
+const activeWords = computed(() => selectedUnit.value?.words || [])
 
 // 搜索过滤
 const filteredUnits = computed(() => {
@@ -74,36 +84,89 @@ const lastUnit = computed(() => units.value.find(unit => unit.id === lastUnitId.
 
 onMounted(async () => {
   window.addEventListener('popstate', handleDuolingoPopState)
+  await loadCatalog()
+})
+
+async function loadCatalog() {
+  loading.value = true
+  catalogError.value = ''
   try {
-    const res = await fetch('/data/duolingo-zs-en.json')
-    units.value = await res.json()
-    const [savedView, savedUnits] = await Promise.all([
-      getProgressSetting<{ unitId?: number; searchQuery: string }>('duolingo.view', { searchQuery: '' }),
-      listCourseUnitProgress(),
+    const [indexResponse, versionsResponse] = await Promise.all([
+      fetch('/data/duolingo-zs-en.json'),
+      fetch('/data/duolingo-zs-en.versions.json'),
     ])
-    unitProgress.value = new Map(savedUnits.map(item => [item.unitId, item]))
-    searchQuery.value = savedView.searchQuery || ''
-    lastUnitId.value = savedView.unitId
-    const savedUnit = units.value.find(unit => unit.id === savedView.unitId)
-    if (savedUnit && !isMobile.value) await openUnit(savedUnit)
+    if (!indexResponse.ok || !versionsResponse.ok) throw new Error('课程目录或版本清单加载失败')
+    units.value = await indexResponse.json()
+    const manifest = parseCourseVersions(await versionsResponse.json())
+    versions.value = manifest.versions
+    const [savedVersionId, savedView, legacyView] = await Promise.all([
+      getProgressSetting<string>(COURSE_VERSION_SETTING, manifest.defaultVersionId),
+      getProgressSetting<CourseVersionView | null>(COURSE_VERSION_VIEW_SETTING, null),
+      getProgressSetting<{ unitId?: number; searchQuery: string }>('duolingo.view', { searchQuery: '' }),
+    ])
+    selectedVersionId.value = versions.value.some(version => version.id === savedVersionId)
+      ? savedVersionId : manifest.defaultVersionId
+    const view = savedView || legacyView
+    savedPanel = savedView?.panel
+    searchQuery.value = view.searchQuery || ''
+    lastUnitId.value = view.unitId
+    await refreshLegacyProgress()
+    const savedUnit = units.value.find(unit => unit.id === view.unitId)
+    if (savedUnit && !isMobile.value) await openUnit(savedUnit, savedView?.panel)
   } catch (e) {
-    console.error('加载多邻国数据失败', e)
+    catalogError.value = e instanceof Error ? e.message : String(e)
   } finally {
     loading.value = false
   }
-})
+}
+
+async function refreshLegacyProgress() {
+  const versionId = selectedVersionId.value
+  if (!isLegacyVersion.value) return
+  const savedUnits = await listCourseUnitProgress()
+  if (selectedVersionId.value === versionId) {
+    unitProgress.value = new Map(savedUnits.map(item => [item.unitId, item]))
+  }
+}
 
 onBeforeUnmount(() => {
+  contextRequest++
+  courseGuide.reset()
   window.removeEventListener('popstate', handleDuolingoPopState)
   emit('immersive-change', false)
 })
 
 watch(searchQuery, value => {
-  void persistCourseView(selectedUnit.value?.id, value)
+  if (!loading.value) void persistCourseView(selectedUnit.value?.id ?? lastUnitId.value, value)
 })
 
 function persistCourseView(unitId = selectedUnit.value?.id, query = searchQuery.value): Promise<void> {
-  return setProgressSetting('duolingo.view', { unitId, searchQuery: query })
+  const view: CourseVersionView = { unitId, searchQuery: query, panel: panelTab.value }
+  savedPanel = view.panel
+  return Promise.all([
+    setProgressSetting(COURSE_VERSION_VIEW_SETTING, view),
+    ...(isLegacyVersion.value ? [setProgressSetting('duolingo.view', { unitId, searchQuery: query })] : []),
+  ]).then(() => undefined)
+}
+
+async function changeVersion(event: Event) {
+  const id = (event.target as HTMLSelectElement).value
+  if (id === selectedVersionId.value || !versions.value.some(version => version.id === id)) return
+  const unit = selectedUnit.value
+  const panel = panelTab.value
+  selectedVersionId.value = id
+  contextRequest++
+  courseGuide.reset()
+  activeQuiz.value = null
+  completedQuizIds.value = []
+  quizLoadingId.value = ''
+  unitProgress.value = new Map()
+  const reload = unit ? openUnit(unit, panel, false) : Promise.resolve()
+  await Promise.all([
+    setProgressSetting(COURSE_VERSION_SETTING, id),
+    refreshLegacyProgress(),
+    reload,
+  ])
 }
 
 async function selectUnit(unit: DuoUnit) {
@@ -112,11 +175,10 @@ async function selectUnit(unit: DuoUnit) {
     return
   }
   if (selectedUnit.value?.id === unit.id) {
+    contextRequest++
     selectedUnit.value = null
     unitEntries.value = []
-    guideHtml.value = ''
-    courseDocument.value = null
-    courseWarning.value = ''
+    courseGuide.reset()
     activeQuiz.value = null
     completedQuizIds.value = []
     await persistCourseView(undefined)
@@ -125,22 +187,31 @@ async function selectUnit(unit: DuoUnit) {
   await openUnit(unit)
 }
 
-async function openUnit(unit: DuoUnit) {
+async function openUnit(unit: DuoUnit, panel?: CourseVersionView['panel'], restoreQuiz = true) {
+  const request = ++contextRequest
+  const version = selectedVersion.value
+  if (!version) return
   selectedUnit.value = unit
   lastUnitId.value = unit.id
-  panelTab.value = 'words'
-  guideHtml.value = ''
-  courseDocument.value = null
-  courseWarning.value = ''
+  unitEntries.value = []
+  panelTab.value = panel || 'words'
+  courseGuide.reset()
   activeQuiz.value = null
-  await loadEntries(unit.words)
-  await loadGuide(unit)
-  const saved = await getCourseUnitProgress(unit.id)
-  unitProgress.value.set(unit.id, saved)
-  completedQuizIds.value = [...saved.completedQuizIds]
-  panelTab.value = saved.panel
-  if (saved.activeQuizId && courseDocument.value?.quizzes.length) {
-    activeQuiz.value = courseDocument.value.quizzes.find(quiz => quiz.id === saved.activeQuizId) || null
+  completedQuizIds.value = []
+  quizLoadingId.value = ''
+  const [saved] = await Promise.all([
+    version.format === 'combined' ? getCourseUnitProgress(unit.id) : Promise.resolve(null),
+    loadEntries(unit.words, request),
+    courseGuide.load(version, unit),
+  ])
+  if (request !== contextRequest) return
+  if (saved) {
+    unitProgress.value.set(unit.id, saved)
+    completedQuizIds.value = [...saved.completedQuizIds]
+    if (!panel && panelTab.value === 'words') panelTab.value = saved.panel
+    if (restoreQuiz && panelTab.value === 'practice' && saved.activeQuizId && courseDocument.value?.quizzes.length) {
+      activeQuiz.value = courseDocument.value.quizzes.find(quiz => quiz.id === saved.activeQuizId) || null
+    }
   }
   await persistCourseView(unit.id)
 }
@@ -151,8 +222,7 @@ async function openMobileUnit(unit: DuoUnit, restore = false) {
   if (window.history.state?.[DUOLINGO_HISTORY_KEY] !== 'unit') {
     window.history.pushState({ ...(window.history.state || {}), [DUOLINGO_HISTORY_KEY]: 'unit' }, '')
   }
-  await openUnit(unit)
-  if (!restore) panelTab.value = 'words'
+  await openUnit(unit, restore ? savedPanel : 'words')
 }
 
 function openLastUnit() {
@@ -187,12 +257,13 @@ watch(() => props.active, active => {
   if (isMobile.value) leaveMobileUnit(true)
 })
 
-async function loadEntries(words: string[]) {
+async function loadEntries(words: string[], request = contextRequest) {
   // 使用启动时载入的 Hot 数据与此前按需缓存的完整词条。
   const normalizedWords = words.map(word => word.toLowerCase())
   const entries = await db.words
     .where('word').anyOf(normalizedWords)
     .toArray()
+  if (request !== contextRequest) return
   // 按原 JSON 顺序排列，本地没有的词也保留
   const map = new Map(entries.map(e => [e.word.toLowerCase(), e]))
   unitEntries.value = words.map(word => {
@@ -204,49 +275,30 @@ async function loadEntries(words: string[]) {
 }
 
 async function switchTab(tab: 'words' | 'guide' | 'practice') {
+  const request = contextRequest
   panelTab.value = tab
-  if (tab === 'guide' && selectedUnit.value && !guideHtml.value && !guideLoading.value) {
+  if (tab === 'guide' && selectedUnit.value && guideStatus.value === 'idle') {
     await loadGuide(selectedUnit.value)
   }
+  if (request !== contextRequest) return
   if (tab !== 'practice') activeQuiz.value = null
-  if (selectedUnit.value) {
+  await persistCourseView()
+  if (request !== contextRequest) return
+  if (selectedUnit.value && isLegacyVersion.value) {
     const saved = await saveCourseUnitProgress(selectedUnit.value.id, {
       panel: tab,
       activeQuizId: tab === 'practice' ? activeQuiz.value?.id : undefined,
     })
-    unitProgress.value.set(saved.unitId, saved)
+    if (request === contextRequest) unitProgress.value.set(saved.unitId, saved)
   }
 }
 
 async function loadGuide(unit: DuoUnit) {
-  guideLoading.value = true
-  courseWarning.value = ''
-  try {
-    const filename = unit.file || `${String(unit.id).padStart(3, '0')}-${unit.name.replace(/[<>:"/\\|?*]/g, '')}.md`
-    const res = await fetch(`/data/duolingo-zs-en/${encodeURIComponent(filename)}`)
-    if (!res.ok) throw new Error(`HTTP ${res.status}`)
-    const md = await res.text()
-    if (md.includes('<quiz-word-list>')) {
-      const parsed = parseCourseMarkdown(md, filename)
-      if (parsed.diagnostics.length) throw new Error(parsed.diagnostics.join('；'))
-      courseDocument.value = parsed
-      guideHtml.value = await marked.parse(parsed.guideMarkdown) as string
-      await loadEntries(parsed.words)
-    } else {
-      courseDocument.value = null
-      guideHtml.value = await marked.parse(md) as string
-    }
-  } catch (e) {
-    console.warn('[duolingo] 课程 Markdown 加载失败，使用旧练习回退', e)
-    courseDocument.value = null
-    courseWarning.value = '课程标签暂时无法加载，已切换到基础练习模式。'
-    guideHtml.value = '<p style="color:#999">暂无该单元的讲解内容</p>'
-  } finally {
-    guideLoading.value = false
-  }
+  if (selectedVersion.value) await courseGuide.load(selectedVersion.value, unit)
 }
 
 async function ensureTranslations() {
+  const request = contextRequest
   const missing = unitEntries.value
     .filter(entry => !entry.translation.trim())
     .map(entry => entry.word)
@@ -254,9 +306,11 @@ async function ensureTranslations() {
 
   try {
     const rows = await queryDictionaryWords(missing)
+    if (request !== contextRequest) return
     const fullEntries: WordEntry[] = rows.map(row => ({ ...row, cacheLevel: 'full' }))
     if (fullEntries.length) await cacheWords(fullEntries)
     const map = new Map(fullEntries.map(entry => [entry.word.toLowerCase(), entry]))
+    if (request !== contextRequest) return
     unitEntries.value = unitEntries.value.map(entry => {
       const full = map.get(entry.word.toLowerCase())
       return full ? { ...full, word: entry.word } : entry
@@ -267,38 +321,46 @@ async function ensureTranslations() {
 }
 
 async function selectQuiz(quiz: QuizDefinition) {
+  if (!isLegacyVersion.value || !selectedUnit.value) return
+  const request = contextRequest
+  const unitId = selectedUnit.value.id
   quizLoadingId.value = quiz.id
   if (quiz.type === 'translation-choice' || (quiz.type === 'matching' && quiz.source === 'word-list')) {
     await ensureTranslations()
   }
+  if (request !== contextRequest) return
   activeQuiz.value = quiz
   if (selectedUnit.value) {
-    await startCourseQuiz(selectedUnit.value.id, quiz.id)
-    const saved = await saveCourseUnitProgress(selectedUnit.value.id, {
+    await startCourseQuiz(unitId, quiz.id)
+    if (request !== contextRequest) return
+    const saved = await saveCourseUnitProgress(unitId, {
       panel: 'practice',
       activeQuizId: quiz.id,
     })
-    unitProgress.value.set(saved.unitId, saved)
+    if (request === contextRequest) unitProgress.value.set(saved.unitId, saved)
   }
-  quizLoadingId.value = ''
+  if (request === contextRequest) quizLoadingId.value = ''
 }
 
 async function markQuizComplete(id: string, result: QuizCompletionResult = {}) {
+  if (!isLegacyVersion.value || !selectedUnit.value) return
+  const request = contextRequest
+  const unitId = selectedUnit.value.id
   if (!completedQuizIds.value.includes(id)) completedQuizIds.value.push(id)
-  if (!selectedUnit.value) return
-  await completeCourseQuiz(selectedUnit.value.id, id, result)
-  const saved = await getCourseUnitProgress(selectedUnit.value.id)
-  unitProgress.value.set(saved.unitId, saved)
+  await completeCourseQuiz(unitId, id, result)
+  const saved = await getCourseUnitProgress(unitId)
+  if (request === contextRequest) unitProgress.value.set(saved.unitId, saved)
 }
 
 async function backToQuizList() {
   activeQuiz.value = null
-  if (!selectedUnit.value) return
+  if (!selectedUnit.value || !isLegacyVersion.value) return
+  const request = contextRequest
   const saved = await saveCourseUnitProgress(selectedUnit.value.id, {
     panel: 'practice',
     activeQuizId: undefined,
   })
-  unitProgress.value.set(saved.unitId, saved)
+  if (request === contextRequest) unitProgress.value.set(saved.unitId, saved)
 }
 
 function selectWord(word: string) {
@@ -313,6 +375,12 @@ function selectWord(word: string) {
         <span class="stat">{{ units.length }} 单元</span>
         <span class="stat">{{ totalWords }} 词</span>
       </div>
+      <label v-if="!loading && versions.length" class="version-select">
+        <span>讲义版本</span>
+        <select :value="selectedVersionId" aria-label="讲义版本" @change="changeVersion">
+          <option v-for="version in versions" :key="version.id" :value="version.id">{{ version.label }}</option>
+        </select>
+      </label>
       <input
         v-model="searchQuery"
         class="duo-search"
@@ -322,7 +390,12 @@ function selectWord(word: string) {
 
     <div v-if="loading" class="duo-loading">加载中...</div>
 
-    <div v-else class="duo-body">
+    <div v-else-if="catalogError" class="course-message" role="alert">
+      <p>{{ catalogError }}</p>
+      <button type="button" @click="loadCatalog">重试</button>
+    </div>
+
+    <div v-else :class="['duo-body', { 'has-practice': panelTab === 'practice' && selectedUnit && !isLegacyVersion }]">
       <button
         v-if="isMobile && mobileScreen === 'library' && lastUnit"
         class="duo-continue"
@@ -353,7 +426,7 @@ function selectWord(word: string) {
           </div>
           <div class="unit-count">
             {{ unit.words.length }} 词
-            <small v-if="unitProgress.get(unit.id)?.completedQuizIds.length">
+            <small v-if="isLegacyVersion && unitProgress.get(unit.id)?.completedQuizIds.length">
               ✓ {{ unitProgress.get(unit.id)?.completedQuizIds.length }} 关
             </small>
           </div>
@@ -372,6 +445,13 @@ function selectWord(word: string) {
         </header>
         <h4>{{ selectedUnit.id }}. {{ selectedUnit.name }}</h4>
         <p class="panel-desc">{{ selectedUnit.desc }} · {{ activeWords.length }} 词</p>
+
+        <label v-if="isMobile" class="version-select mobile-version-select">
+          <span>讲义版本</span>
+          <select :value="selectedVersionId" aria-label="讲义版本" @change="changeVersion">
+            <option v-for="version in versions" :key="version.id" :value="version.id">{{ version.label }}</option>
+          </select>
+        </label>
 
         <div class="panel-tabs">
           <button :class="['tab-btn', { active: panelTab === 'words' }]" @click="switchTab('words')">词汇</button>
@@ -395,13 +475,20 @@ function selectWord(word: string) {
 
         <!-- 单元讲解 -->
         <div class="guide-content" v-show="panelTab === 'guide'">
-          <div v-if="guideLoading" class="guide-loading">加载讲解中...</div>
-          <div v-else class="guide-body" v-html="guideHtml"></div>
+          <div v-if="guideStatus === 'loading'" class="guide-loading">加载讲解中...</div>
+          <div v-else-if="guideStatus === 'missing'" class="course-message">该版本尚未编写本课</div>
+          <div v-else-if="guideStatus === 'error'" class="course-message" role="alert">
+            <p>讲解加载失败：{{ guideError }}</p>
+            <button type="button" @click="loadGuide(selectedUnit)">重试</button>
+          </div>
+          <div v-else-if="guideStatus === 'ready'" class="guide-body" v-html="guideHtml"></div>
         </div>
 
         <!-- 练习 -->
         <div v-if="panelTab === 'practice'" class="practice-content">
-          <template v-if="courseDocument?.quizzes.length">
+          <CoursePracticePanel v-if="!isLegacyVersion && selectedVersion" :key="`${selectedVersionId}:${selectedUnit.id}`" :version="selectedVersion" :unit="selectedUnit" @guide="switchTab('guide')" />
+          <div v-else-if="guideStatus === 'loading'" class="guide-loading">加载练习中...</div>
+          <template v-else-if="courseDocument?.quizzes.length">
             <QuizLevelList
               v-if="!activeQuiz"
               :quizzes="courseDocument.quizzes"
@@ -413,7 +500,7 @@ function selectWord(word: string) {
             />
             <QuizRunner
               v-else
-              :key="activeQuiz.id"
+              :key="`${selectedVersionId}:${selectedUnit.id}:${activeQuiz.id}`"
               :quiz="activeQuiz"
               :words="activeWords"
               :entries="unitEntries"
@@ -422,7 +509,7 @@ function selectWord(word: string) {
             />
           </template>
           <template v-else>
-            <p v-if="courseWarning" class="course-warning">{{ courseWarning }}</p>
+            <p v-if="guideStatus === 'error'" class="course-warning">原版课程暂时无法加载，使用基础练习模式。</p>
             <PracticePanel :words="selectedUnit.words" :entries="unitEntries" />
           </template>
         </div>
@@ -484,6 +571,46 @@ function selectWord(word: string) {
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1rem;
   align-items: start;
+}
+
+.version-select {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  color: #64748b;
+  font-size: .8rem;
+}
+
+.version-select select {
+  min-height: 36px;
+  max-width: 100%;
+  padding: .35rem .6rem;
+  border: 1px solid #d5dfd0;
+  border-radius: 8px;
+  background: #fff;
+  color: #285b10;
+  font: inherit;
+}
+
+.version-select select:focus-visible {
+  outline: 2px solid #58cc02;
+  outline-offset: 2px;
+}
+
+.course-message {
+  padding: 1.5rem;
+  color: #64748b;
+  text-align: center;
+}
+
+.course-message button {
+  min-height: 40px;
+  padding: .35rem 1rem;
+  border: 1px solid #d5dfd0;
+  border-radius: 8px;
+  background: #f0f8e9;
+  color: #285b10;
+  cursor: pointer;
 }
 
 .unit-list {
@@ -943,7 +1070,7 @@ function selectWord(word: string) {
 
   .panel-tabs {
     position: sticky;
-    top: calc(58px + env(safe-area-inset-top, 0px));
+    top: calc(102px + env(safe-area-inset-top, 0px));
     z-index: 10;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -958,6 +1085,13 @@ function selectWord(word: string) {
     min-height: 42px;
     padding: .35rem;
     border-radius: 12px;
+  }
+
+  .mobile-version-select {
+    flex-shrink: 0;
+    justify-content: space-between;
+    min-height: 44px;
+    padding: .25rem 0;
   }
 
   .word-list,
@@ -988,6 +1122,7 @@ function selectWord(word: string) {
 }
 
 @media (min-width: 768px) {
+  .duo-body.has-practice { grid-template-columns: minmax(220px, .65fr) minmax(0, 1.35fr); }
   .mobile-unit-bar,
   .duo-continue {
     display: none;

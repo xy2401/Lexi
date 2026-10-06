@@ -91,7 +91,8 @@ export function useTTS() {
   function speak(
     text: string,
     onBoundary?: (charIndex: number, charLength: number) => void,
-    onEnd?: () => void
+    onEnd?: () => void,
+    options?: { rate?: number }
   ) {
     if (!('speechSynthesis' in window)) {
       onEnd?.()
@@ -103,6 +104,7 @@ export function useTTS() {
 
     const utterance = new SpeechSynthesisUtterance(text)
     utterance.lang = 'en-US'
+    if (options?.rate !== undefined) utterance.rate = options.rate
 
     const voice = sharedVoices.value.find(v => v.name === sharedSelectedVoice.value)
     if (voice) utterance.voice = voice

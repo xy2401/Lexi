@@ -6,6 +6,7 @@ import {
 } from '../src/lib/learning-progress'
 import { progressDb, setProgressSetting } from '../src/lib/progress-db'
 import { readerDb, setReaderSetting } from '../src/lib/reader-db'
+import { COURSE_VERSION_SETTING, COURSE_VERSION_VIEW_SETTING } from '../src/lib/course-versions'
 
 beforeEach(async () => {
   await Promise.all([
@@ -13,6 +14,8 @@ beforeEach(async () => {
     progressDb.dictionaryHistory.clear(),
     progressDb.courseUnits.clear(),
     progressDb.courseQuizzes.clear(),
+    progressDb.practiceItems.clear(),
+    progressDb.practiceSessions.clear(),
     readerDb.progress.clear(),
     readerDb.settings.clear(),
   ])
@@ -24,6 +27,17 @@ afterAll(async () => {
 })
 
 describe('learning progress management', () => {
+  it('summarizes new course browsing and clears it without removing the version preference', async () => {
+    await setProgressSetting(COURSE_VERSION_SETTING, 'gpt-6.1')
+    await setProgressSetting(COURSE_VERSION_VIEW_SETTING, { unitId: 1, searchQuery: '', panel: 'guide' })
+    const summary = (await getLearningProgressSummaries()).find(item => item.id === 'duolingo')!
+    expect(summary.hasData).toBe(true)
+    expect(summary.detail).toContain('上次第 1 单元')
+    await clearLearningProgress('duolingo')
+    expect(await progressDb.settings.get(COURSE_VERSION_VIEW_SETTING)).toBeUndefined()
+    expect((await progressDb.settings.get(COURSE_VERSION_SETTING))?.value).toBe('gpt-6.1')
+  })
+
   it('summarizes and clears dictionary progress without removing preferences', async () => {
     await progressDb.dictionaryHistory.put({ word: 'bank', viewCount: 3, lastViewedAt: 100 })
     await setProgressSetting('explorer.lastWord', 'bank')
@@ -68,6 +82,8 @@ describe('learning progress management', () => {
       setProgressSetting('app.activeTab', 'settings'),
       setProgressSetting('wordroot.view', { searchQuery: 'bio', currentPage: 2 }),
       setProgressSetting('duolingo.view', { unitId: 3, searchQuery: '' }),
+      setProgressSetting(COURSE_VERSION_VIEW_SETTING, { unitId: 1, searchQuery: '', panel: 'guide' }),
+      setProgressSetting(COURSE_VERSION_SETTING, 'gpt-6.1'),
       setReaderSetting('readerPreferences', { theme: 'dark' }),
       progressDb.courseUnits.put({ unitId: 3, panel: 'practice', completedQuizIds: [], lastStudiedAt: 100 }),
     ])
@@ -76,6 +92,8 @@ describe('learning progress management', () => {
     expect((await progressDb.settings.get('app.activeTab'))?.value).toBe('settings')
     expect(await progressDb.settings.get('wordroot.view')).toBeUndefined()
     expect(await progressDb.settings.get('duolingo.view')).toBeUndefined()
+    expect(await progressDb.settings.get(COURSE_VERSION_VIEW_SETTING)).toBeUndefined()
+    expect((await progressDb.settings.get(COURSE_VERSION_SETTING))?.value).toBe('gpt-6.1')
     expect(await progressDb.courseUnits.count()).toBe(0)
     expect((await readerDb.settings.get('readerPreferences'))?.value).toEqual({ theme: 'dark' })
   })

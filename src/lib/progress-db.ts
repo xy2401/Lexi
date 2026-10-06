@@ -1,4 +1,5 @@
 import Dexie, { type Table } from 'dexie'
+import type { PracticeItemState, PracticeSession } from './course-practice'
 
 export const APP_TAB_IDS = [
   'reader',
@@ -58,6 +59,8 @@ class ProgressDB extends Dexie {
   dictionaryHistory!: Table<DictionaryHistoryEntry, string>
   courseUnits!: Table<CourseUnitProgress, number>
   courseQuizzes!: Table<CourseQuizProgress, string>
+  practiceItems!: Table<PracticeItemState, string>
+  practiceSessions!: Table<PracticeSession, string>
 
   constructor() {
     super('lexi-progress')
@@ -66,6 +69,10 @@ class ProgressDB extends Dexie {
       dictionaryHistory: 'word, lastViewedAt',
       courseUnits: 'unitId, lastStudiedAt',
       courseQuizzes: 'id, unitId, quizId, updatedAt, completedAt',
+    })
+    this.version(2).stores({
+      practiceItems: 'id, [versionId+unitId], updatedAt, dueAt',
+      practiceSessions: 'id, [versionId+unitId], updatedAt, completedAt',
     })
   }
 }

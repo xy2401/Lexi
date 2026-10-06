@@ -4,6 +4,7 @@ import { getProgressSetting, progressDb, setProgressSetting } from '../src/lib/p
 
 class MockUtterance {
   lang = ''
+  rate = 1
   voice: SpeechSynthesisVoice | null = null
   onstart: (() => void) | null = null
   onend: (() => void) | null = null
@@ -71,5 +72,7 @@ describe('TTS playback controls', () => {
     current.utterance?.onend?.()
     expect(tts.speaking.value).toBe(false)
     expect(tts.paused.value).toBe(false)
+    tts.speak('Listen again.', undefined, undefined, { rate: 0.75 })
+    expect(current.utterance?.rate).toBe(0.75)
   })
 })

@@ -1,5 +1,6 @@
 import { progressDb, type ProgressSetting } from './progress-db'
 import { readerDb } from './reader-db'
+import { COURSE_VERSION_VIEW_SETTING } from './course-versions'
 
 export const LEARNING_PROGRESS_AREAS = [
   'reader',
@@ -30,7 +31,7 @@ const AREA_META: Record<LearningProgressArea, { title: string; keys: string[] }>
   wordroot: { title: '词根词缀', keys: ['wordroot.view'] },
   resemble: { title: '近义辨析', keys: ['resemble.view'] },
   lemma: { title: '词族演变', keys: ['lemma.view'] },
-  duolingo: { title: '多邻国', keys: ['duolingo.view'] },
+  duolingo: { title: '多邻国', keys: ['duolingo.view', COURSE_VERSION_VIEW_SETTING] },
   course: { title: '系统课程', keys: ['course.view'] },
 }
 
@@ -103,12 +104,13 @@ function viewSummary(
 }
 
 export async function getLearningProgressSummaries(): Promise<LearningProgressSummary[]> {
-  const [rawSettings, history, units, quizzes, reading] = await Promise.all([
+  const [rawSettings, history, units, quizzes, reading, practiceSessions] = await Promise.all([
     progressDb.settings.toArray(),
     progressDb.dictionaryHistory.toArray(),
     progressDb.courseUnits.toArray(),
     progressDb.courseQuizzes.toArray(),
     readerDb.progress.toArray(),
+    progressDb.practiceSessions.toArray(),
   ])
   const settings = settingMap(rawSettings)
 
@@ -159,24 +161,27 @@ export async function getLearningProgressSummaries(): Promise<LearningProgressSu
     hasData: wordnetHasData,
   }
 
-  const duoView = asRecord(settings.get('duolingo.view')?.value)
+  const duoView = asRecord(settings.get(COURSE_VERSION_VIEW_SETTING)?.value ?? settings.get('duolingo.view')?.value)
   const duoViewChanged = typeof duoView.unitId === 'number' || Boolean(nonEmptyString(duoView.searchQuery))
   const completedQuizzes = quizzes.filter(quiz => quiz.completedAt).length
   const attempts = quizzes.reduce((sum, quiz) => sum + quiz.attempts, 0)
-  const duolingoHasData = units.length > 0 || quizzes.length > 0 || duoViewChanged
+  const duolingoHasData = units.length > 0 || quizzes.length > 0 || practiceSessions.length > 0 || duoViewChanged
   const duoDetails = [`${completedQuizzes} 关完成`, `${attempts} 次练习`]
+  if (practiceSessions.length) duoDetails.push(`新版 ${practiceSessions.filter(session => session.completedAt).length} 轮完成`)
+  const recordedUnits = new Set([...units.map(unit => unit.unitId), ...practiceSessions.map(session => session.unitId)])
   if (typeof duoView.unitId === 'number') duoDetails.push(`上次第 ${duoView.unitId} 单元`)
   const duoQuery = nonEmptyString(duoView.searchQuery)
   if (duoQuery) duoDetails.push(`搜索“${duoQuery}”`)
   const duolingo: LearningProgressSummary = {
     id: 'duolingo',
     title: AREA_META.duolingo.title,
-    value: units.length ? `${units.length} 个单元有记录` : duoViewChanged ? '已保存浏览位置' : '暂无进度',
+    value: recordedUnits.size ? `${recordedUnits.size} 个单元有记录` : duoViewChanged ? '已保存浏览位置' : '暂无进度',
     detail: duoDetails.join(' · '),
     updatedAt: Math.max(
       settingUpdatedAt(settings, AREA_META.duolingo.keys),
       ...units.map(unit => unit.lastStudiedAt),
       ...quizzes.map(quiz => quiz.updatedAt),
+      ...practiceSessions.map(session => session.updatedAt),
     ),
     hasData: duolingoHasData,
   }
@@ -236,7 +241,7 @@ export async function clearLearningProgress(area: LearningProgressArea): Promise
   const tables = area === 'explorer'
     ? [progressDb.settings, progressDb.dictionaryHistory]
     : area === 'duolingo'
-      ? [progressDb.settings, progressDb.courseUnits, progressDb.courseQuizzes]
+      ? [progressDb.settings, progressDb.courseUnits, progressDb.courseQuizzes, progressDb.practiceItems, progressDb.practiceSessions]
       : [progressDb.settings]
 
   await progressDb.transaction('rw', tables, async () => {
@@ -245,6 +250,8 @@ export async function clearLearningProgress(area: LearningProgressArea): Promise
     if (area === 'duolingo') {
       await progressDb.courseUnits.clear()
       await progressDb.courseQuizzes.clear()
+      await progressDb.practiceItems.clear()
+      await progressDb.practiceSessions.clear()
     }
   })
 }
@@ -253,10 +260,8 @@ export async function clearAllLearningProgress(): Promise<void> {
   await clearReaderProgress()
   await progressDb.transaction(
     'rw',
-    progressDb.settings,
-    progressDb.dictionaryHistory,
-    progressDb.courseUnits,
-    progressDb.courseQuizzes,
+    [progressDb.settings, progressDb.dictionaryHistory, progressDb.courseUnits,
+      progressDb.courseQuizzes, progressDb.practiceItems, progressDb.practiceSessions],
     async () => {
       await progressDb.settings.bulkDelete(
         LEARNING_PROGRESS_AREAS.flatMap(area => AREA_META[area].keys),
@@ -265,6 +270,8 @@ export async function clearAllLearningProgress(): Promise<void> {
         progressDb.dictionaryHistory.clear(),
         progressDb.courseUnits.clear(),
         progressDb.courseQuizzes.clear(),
+        progressDb.practiceItems.clear(),
+        progressDb.practiceSessions.clear(),
       ])
     },
   )
