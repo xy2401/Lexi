@@ -4,7 +4,7 @@
  * 同时展示音标、中文翻译、英文释义、词性和词形变化
  */
 import { computed, onBeforeUnmount, onMounted, ref, toRef } from 'vue'
-import { parseExchange, EXCHANGE_LABELS } from '../lib/morphology'
+import { getWordForms } from '../lib/morphology'
 import type { WordEntry } from '../lib/db'
 import { MOBILE_QUERY } from '../composables/useMediaQuery'
 import { useModalInteraction } from '../composables/useModalInteraction'
@@ -41,16 +41,7 @@ useModalInteraction({
 })
 
 // 解析变形数据
-const forms = computed(() => {
-  if (!props.data?.exchange) return []
-  const parsed = parseExchange(props.data.exchange)
-  return Object.entries(parsed)
-    .filter(([key]) => key in EXCHANGE_LABELS && key !== '0' && key !== '1')
-    .map(([key, value]) => ({
-      label: EXCHANGE_LABELS[key] || key,
-      value,
-    }))
-})
+const forms = computed(() => getWordForms(props.data))
 
 // 翻译行
 const translations = computed(() => {

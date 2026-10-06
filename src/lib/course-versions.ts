@@ -21,6 +21,14 @@ export interface CourseVersionView {
   unitId?: number
   searchQuery: string
   panel: 'words' | 'guide' | 'practice'
+  onlyWritten?: boolean
+}
+
+export function courseUnitAvailability(version: CourseVersion | undefined, unitId: number) {
+  const guide = version?.guideUnitIds.includes(unitId) || false
+  const practice = version?.format === 'combined'
+    ? guide : version?.practiceUnitIds?.includes(unitId) || false
+  return { guide, practice, written: guide || practice }
 }
 
 export function parseCourseVersions(value: unknown): CourseVersionsManifest {

@@ -5,21 +5,10 @@ import { lookupWord } from './lib/lookup-service'
 import { db } from './lib/db'
 import { getDictionaryManifest } from './lib/dictionary-manifest'
 import { getWordNetManifest } from './lib/wordnet-manifest'
-import ReaderWorkspace from './components/ReaderWorkspace.vue'
-import LibrarySettings from './components/LibrarySettings.vue'
-import ProgressSettings from './components/ProgressSettings.vue'
+import { defineLazyView } from './lib/lazy-view'
 import TagSwitcher from './components/TagSwitcher.vue'
 import WordTooltip from './components/WordTooltip.vue'
-import ExplorerTree from './components/ExplorerTree.vue'
 import DictionaryTags from './components/DictionaryTags.vue'
-import FollowReadPanel from './components/FollowReadPanel.vue'
-import MorphNebula from './components/MorphNebula.vue'
-import DuolingoView from './components/DuolingoView.vue'
-import WordRootView from './components/WordRootView.vue'
-import ResembleView from './components/ResembleView.vue'
-import LemmaView from './components/LemmaView.vue'
-import WordNetView from './components/WordNetView.vue'
-import SystemCourseView from './components/SystemCourseView.vue'
 import ResizablePaneHandle from './components/ResizablePaneHandle.vue'
 import MobileMoreSheet from './components/MobileMoreSheet.vue'
 import { useTTS } from './composables/useTTS'
@@ -41,6 +30,19 @@ import {
   type CourseDesktopLayout,
   type DesktopLayoutSetting,
 } from './lib/desktop-layout'
+
+const ReaderWorkspace = defineLazyView(() => import('./components/ReaderWorkspace.vue'))
+const LibrarySettings = defineLazyView(() => import('./components/LibrarySettings.vue'))
+const ProgressSettings = defineLazyView(() => import('./components/ProgressSettings.vue'))
+const ExplorerTree = defineLazyView(() => import('./components/ExplorerTree.vue'))
+const FollowReadPanel = defineLazyView(() => import('./components/FollowReadPanel.vue'))
+const MorphNebula = defineLazyView(() => import('./components/MorphNebula.vue'))
+const DuolingoView = defineLazyView(() => import('./components/DuolingoView.vue'))
+const WordRootView = defineLazyView(() => import('./components/WordRootView.vue'))
+const ResembleView = defineLazyView(() => import('./components/ResembleView.vue'))
+const LemmaView = defineLazyView(() => import('./components/LemmaView.vue'))
+const WordNetView = defineLazyView(() => import('./components/WordNetView.vue'))
+const SystemCourseView = defineLazyView(() => import('./components/SystemCourseView.vue'))
 
 interface LicensedProject {
   name: string
@@ -256,6 +258,8 @@ function formatBytes(bytes: number): string {
 
 // ========== 模块切换 ==========
 const activeTab = ref<AppTabId>('reader')
+// Visit once, retain the instance with v-show so drafts and filters survive navigation.
+const visitedTabs = ref(new Set<AppTabId>())
 const wordNetInitialWord = ref('bank')
 const progressSettingsRefresh = ref(0)
 const progressRevisions = ref<Record<LearningProgressArea, number>>(
@@ -297,7 +301,10 @@ const desktopTabMeta = computed(() =>
 )
 
 watch(activeTab, tab => {
-  if (progressHydrated) void setProgressSetting('app.activeTab', tab)
+  if (progressHydrated) {
+    visitedTabs.value.add(tab)
+    void setProgressSetting('app.activeTab', tab)
+  }
 })
 
 function openSettings() {
@@ -488,17 +495,22 @@ const { speak, stop, voices, selectedVoice } = useTTS()
 onMounted(async () => {
   window.addEventListener('popstate', handleAppPopState)
   const dictionaryReady = dictStore.init()
+  const initialTab = activeTab.value
   const [savedTab, savedWordNetWord, savedExplorerWord, savedDesktopLayout] = await Promise.all([
     getProgressSetting<unknown>('app.activeTab', 'reader'),
     getProgressSetting('wordnet.lastWord', 'bank'),
     getProgressSetting('explorer.lastWord', ''),
     getProgressSetting<unknown>('app.desktopLayout', DEFAULT_DESKTOP_LAYOUT),
-  ])
+  ]).catch(error => {
+    console.warn('[App] 页面设置恢复失败，使用默认页面:', error)
+    return ['reader', 'bank', '', DEFAULT_DESKTOP_LAYOUT] as const
+  })
   desktopLayout.value = normalizeDesktopLayout(savedDesktopLayout)
   desktopLayoutHydrated = true
   wordNetInitialWord.value = savedWordNetWord || 'bank'
-  activeTab.value = isAppTabId(savedTab) ? savedTab : 'reader'
+  if (activeTab.value === initialTab) activeTab.value = isAppTabId(savedTab) ? savedTab : 'reader'
   progressHydrated = true
+  visitedTabs.value.add(activeTab.value)
   await refreshExplorerHistory()
 
   await dictionaryReady
@@ -806,7 +818,9 @@ function openWordNet(word: string) {
     </nav>
 
     <!-- ===== Reader 模块 ===== -->
-    <div class="tab-content reader-tab-content" v-show="activeTab === 'reader'">
+    <p v-if="!visitedTabs.size" class="async-view-status" role="status">正在恢复学习页面…</p>
+
+    <div v-if="visitedTabs.has('reader')" class="tab-content reader-tab-content" v-show="activeTab === 'reader'">
       <ReaderWorkspace
         :key="`reader-${progressRevisions.reader}`"
         :active="activeTab === 'reader'"
@@ -818,7 +832,7 @@ function openWordNet(word: string) {
     </div>
 
     <!-- ===== Explorer 模块 (词典浏览) ===== -->
-    <div class="tab-content explorer-tab-content" v-show="activeTab === 'explorer'">
+    <div v-if="visitedTabs.has('explorer')" class="tab-content explorer-tab-content" v-show="activeTab === 'explorer'">
       <!-- 最上面完整一行标签筛选 -->
       <TagSwitcher v-show="!isMobile || dictionarySplitView || mobileDictionaryScreen === 'index'" />
 
@@ -968,7 +982,7 @@ function openWordNet(word: string) {
     </div>
 
     <!-- ===== Open English WordNet 语义网络 ===== -->
-    <div class="tab-content" v-show="activeTab === 'wordnet'">
+    <div v-if="visitedTabs.has('wordnet')" class="tab-content" v-show="activeTab === 'wordnet'">
       <WordNetView
         :key="`wordnet-${progressRevisions.wordnet}`"
         :initial-word="wordNetInitialWord"
@@ -978,22 +992,22 @@ function openWordNet(word: string) {
     </div>
 
     <!-- ===== 词根词缀 模块 ===== -->
-    <div class="tab-content" v-show="activeTab === 'wordroot'">
+    <div v-if="visitedTabs.has('wordroot')" class="tab-content" v-show="activeTab === 'wordroot'">
       <WordRootView :key="`wordroot-${progressRevisions.wordroot}`" @select-word="handleExtensionSelectWord" @speak-word="speak" />
     </div>
 
     <!-- ===== 近义辨析 模块 ===== -->
-    <div class="tab-content" v-show="activeTab === 'resemble'">
+    <div v-if="visitedTabs.has('resemble')" class="tab-content" v-show="activeTab === 'resemble'">
       <ResembleView :key="`resemble-${progressRevisions.resemble}`" @select-word="handleExtensionSelectWord" @speak-word="speak" />
     </div>
 
     <!-- ===== 词族演变 模块 ===== -->
-    <div class="tab-content" v-show="activeTab === 'lemma'">
+    <div v-if="visitedTabs.has('lemma')" class="tab-content" v-show="activeTab === 'lemma'">
       <LemmaView :key="`lemma-${progressRevisions.lemma}`" @select-word="handleExtensionSelectWord" @speak-word="speak" />
     </div>
 
     <!-- ===== Duolingo 模块 ===== -->
-    <div class="tab-content" v-show="activeTab === 'duolingo'">
+    <div v-if="visitedTabs.has('duolingo')" class="tab-content" v-show="activeTab === 'duolingo'">
       <DuolingoView
         :key="`duolingo-${progressRevisions.duolingo}`"
         :active="activeTab === 'duolingo'"
@@ -1003,7 +1017,7 @@ function openWordNet(word: string) {
     </div>
 
     <!-- ===== 系统课程 模块 ===== -->
-    <div class="tab-content course-tab-content" v-show="activeTab === 'course'">
+    <div v-if="visitedTabs.has('course')" class="tab-content course-tab-content" v-show="activeTab === 'course'">
       <SystemCourseView
         :key="`course-${progressRevisions.course}`"
         :active="activeTab === 'course'"
@@ -1016,7 +1030,7 @@ function openWordNet(word: string) {
     </div>
 
     <!-- ===== 设置模块 ===== -->
-    <div class="tab-content" v-show="activeTab === 'settings'">
+    <div v-if="visitedTabs.has('settings')" class="tab-content" v-show="activeTab === 'settings'">
       <div class="settings-layout">
         <section class="settings-section">
           <h3>🗣️ 朗读者选择</h3>

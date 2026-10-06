@@ -40,12 +40,12 @@ let mobile = false
 let lectureResponse: () => Promise<Response>
 let fetchMock: ReturnType<typeof vi.fn>
 
-async function mount() {
+async function mount(expectedUnits = 2) {
   host = document.createElement('div')
   document.body.append(host)
   app = createApp(DuolingoView)
   app.mount(host)
-  await vi.waitFor(() => expect(host.querySelectorAll('.unit-card')).toHaveLength(2))
+  await vi.waitFor(() => expect(host.querySelectorAll('.unit-card')).toHaveLength(expectedUnits))
 }
 
 async function openFirst() {
@@ -68,6 +68,7 @@ async function version(id: string) {
 
 beforeEach(async () => {
   mobile = false
+  Reflect.deleteProperty(manifest.versions[1], 'practiceUnitIds')
   lectureResponse = async () => new Response(newLecture)
   await Promise.all([
     progressDb.settings.clear(), progressDb.courseUnits.clear(), progressDb.courseQuizzes.clear(), db.words.clear(),
@@ -94,6 +95,68 @@ afterEach(() => {
 afterAll(() => { db.close(); progressDb.close() })
 
 describe('Duolingo version selection', () => {
+  it('shows publication status before opening a unit, including independently published practice', async () => {
+    Object.assign(manifest.versions[1], { practiceUnitIds: [2] })
+    await mount()
+    const cards = host.querySelectorAll('.unit-card')
+    expect(cards[0].textContent).toContain('讲义已编写')
+    expect(cards[0].textContent).toContain('练习待编写')
+    expect(cards[1].textContent).toContain('讲义待编写')
+    expect(cards[1].textContent).toContain('练习可用')
+    expect(host.querySelector('.availability-summary')?.textContent).toContain('讲义 1/2 · 练习 1/2')
+    const checkbox = host.querySelector<HTMLInputElement>('.written-toggle input')!
+    checkbox.click()
+    await nextTick()
+    expect(host.querySelectorAll('.unit-card')).toHaveLength(2)
+    expect(fetchMock.mock.calls).toHaveLength(2)
+  })
+
+  it('combines publication filtering with search and version switching without changing the open unit', async () => {
+    await mount()
+    await openFirst()
+    await tab('单元讲解')
+    host.querySelector<HTMLInputElement>('.written-toggle input')!.click()
+    await nextTick()
+    expect(host.querySelectorAll('.unit-card')).toHaveLength(1)
+    const search = host.querySelector<HTMLInputElement>('.duo-search')!
+    search.value = 'blue'
+    search.dispatchEvent(new Event('input', { bubbles: true }))
+    await nextTick()
+    expect(host.querySelectorAll('.unit-card')).toHaveLength(0)
+    expect(host.querySelector('.unit-empty')?.textContent).toContain('没有符合条件')
+    expect(host.querySelector('.word-panel > h4')?.textContent).toBe('1. 喜好')
+    await version('original')
+    await vi.waitFor(() => expect(host.querySelectorAll('.unit-card')).toHaveLength(1))
+    expect(host.querySelector('.unit-card .unit-name')?.textContent).toBe('喜好 2')
+    expect(host.querySelector('.unit-card')?.textContent).toContain('练习可用')
+    expect(host.querySelector('.tab-btn.active')?.textContent).toBe('单元讲解')
+    expect(host.querySelector<HTMLInputElement>('.written-toggle input')?.checked).toBe(true)
+    expect(search.value).toBe('blue')
+  })
+
+  it('restores the publication filter and retains an open unpublished unit outside the filtered list', async () => {
+    await setProgressSetting(COURSE_VERSION_VIEW_SETTING, { unitId: 2, searchQuery: '', panel: 'guide', onlyWritten: true })
+    await mount(1)
+    expect(host.querySelector<HTMLInputElement>('.written-toggle input')?.checked).toBe(true)
+    expect(host.querySelector('.unit-card .unit-name')?.textContent).toBe('喜好')
+    await vi.waitFor(() => expect(host.querySelector('.word-panel > h4')?.textContent).toBe('2. 喜好 2'))
+    expect(host.querySelector('.guide-content')?.textContent).toContain('该版本尚未编写本课')
+    host.querySelector<HTMLInputElement>('.written-toggle input')!.click()
+    await vi.waitFor(async () => expect((await progressDb.settings.get(COURSE_VERSION_VIEW_SETTING))?.value).toMatchObject({ unitId: 2, onlyWritten: false }))
+    expect(host.querySelectorAll('.unit-card')).toHaveLength(2)
+  })
+
+  it('keeps the mobile publication filter available and labels unpublished units', async () => {
+    mobile = true
+    await mount()
+    expect(host.querySelectorAll('.unit-card')[1].textContent).toContain('待编写')
+    host.querySelector<HTMLInputElement>('.written-toggle input')!.click()
+    await nextTick()
+    expect(host.querySelectorAll('.unit-card')).toHaveLength(1)
+    expect(host.querySelector('.word-panel')).toBeNull()
+    await vi.waitFor(async () => expect((await progressDb.settings.get(COURSE_VERSION_VIEW_SETTING))?.value).toMatchObject({ onlyWritten: true }))
+  })
+
   it('defaults to GPT-6.1, uses raw words, and never starts legacy practice for split versions', async () => {
     await mount()
     expect(host.querySelector<HTMLSelectElement>('select')!.value).toBe('gpt-6.1')

@@ -4,7 +4,7 @@
  * 以选中单词为核心，展示其词族衍生关系
  */
 import { computed, ref, watch } from 'vue'
-import { parseExchange, EXCHANGE_LABELS } from '../lib/morphology'
+import { getWordForms } from '../lib/morphology'
 import { hasWordNetLemma } from '../lib/wordnet-service'
 import type { WordEntry } from '../lib/db'
 
@@ -42,14 +42,13 @@ interface NebulaNode {
 const nodes = computed<NebulaNode[]>(() => {
   if (!props.entry?.exchange) return []
 
-  const forms = parseExchange(props.entry.exchange)
   const result: NebulaNode[] = []
-  const entries = Object.entries(forms).filter(([k]) => k in EXCHANGE_LABELS && k !== '1')
+  const entries = getWordForms(props.entry, true)
 
-  entries.forEach(([key, value], index) => {
+  entries.forEach(({ label, value }, index) => {
     const angle = (index / entries.length) * Math.PI * 2 - Math.PI / 2
     result.push({
-      label: EXCHANGE_LABELS[key] || key,
+      label,
       word: value,
       angle,
       distance: 80 + (index % 2) * 30,

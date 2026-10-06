@@ -654,13 +654,13 @@ onBeforeUnmount(() => {
         </div>
 
         <div class="shelf-controls">
-          <input v-model="search" type="search" placeholder="搜索书名或作者">
+          <input v-model="search" type="search" placeholder="搜索书名或作者" aria-label="搜索书名或作者">
           <div class="shelf-view-tabs">
             <button :class="{ active: shelfView === 'all' }" type="button" @click="shelfView = 'all'">全部 {{ currentShelfBooks.length }}</button>
             <button :class="{ active: shelfView === 'favorites' }" type="button" @click="shelfView = 'favorites'">收藏 {{ favoriteCount }}</button>
             <button :class="{ active: shelfView === 'recent' }" type="button" @click="shelfView = 'recent'">最近 {{ recentCount }}</button>
           </div>
-          <select v-model="shelfSort"><option value="rank">典藏排序</option><option value="title">按书名</option><option value="author">按作者</option><option value="progress">按进度</option></select>
+          <select v-model="shelfSort" aria-label="书库排序"><option value="rank">典藏排序</option><option value="title">按书名</option><option value="author">按作者</option><option value="progress">按进度</option></select>
         </div>
 
         <div v-if="mode === 'remote'" class="subject-filters">
@@ -795,6 +795,35 @@ onBeforeUnmount(() => {
   .shelf-controls > input {
     min-height: 44px;
     min-width: 0;
+  }
+
+  .shelf-controls {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+  }
+
+  .shelf-controls > input {
+    grid-column: 1 / -1;
+    width: 100%;
+    font-size: 16px;
+  }
+
+  .shelf-view-tabs {
+    min-width: 0;
+  }
+
+  .shelf-view-tabs button {
+    flex: 1;
+    min-width: 0;
+    min-height: 44px;
+    padding-inline: .3rem;
+    white-space: nowrap;
+  }
+
+  .shelf-controls > select {
+    min-width: 0;
+    min-height: 44px;
+    max-width: 110px;
   }
 
   .continue-card {

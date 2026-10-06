@@ -162,7 +162,7 @@ export async function getLearningProgressSummaries(): Promise<LearningProgressSu
   }
 
   const duoView = asRecord(settings.get(COURSE_VERSION_VIEW_SETTING)?.value ?? settings.get('duolingo.view')?.value)
-  const duoViewChanged = typeof duoView.unitId === 'number' || Boolean(nonEmptyString(duoView.searchQuery))
+  const duoViewChanged = typeof duoView.unitId === 'number' || Boolean(nonEmptyString(duoView.searchQuery)) || duoView.onlyWritten === true
   const completedQuizzes = quizzes.filter(quiz => quiz.completedAt).length
   const attempts = quizzes.reduce((sum, quiz) => sum + quiz.attempts, 0)
   const duolingoHasData = units.length > 0 || quizzes.length > 0 || practiceSessions.length > 0 || duoViewChanged
@@ -172,6 +172,7 @@ export async function getLearningProgressSummaries(): Promise<LearningProgressSu
   if (typeof duoView.unitId === 'number') duoDetails.push(`上次第 ${duoView.unitId} 单元`)
   const duoQuery = nonEmptyString(duoView.searchQuery)
   if (duoQuery) duoDetails.push(`搜索“${duoQuery}”`)
+  if (duoView.onlyWritten === true) duoDetails.push('只看已编写')
   const duolingo: LearningProgressSummary = {
     id: 'duolingo',
     title: AREA_META.duolingo.title,

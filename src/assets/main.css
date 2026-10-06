@@ -25,6 +25,23 @@ body {
   line-height: 1.6;
 }
 
+.async-view-status {
+  margin: 1rem;
+  padding: 1rem;
+  color: #526171;
+  text-align: center;
+}
+
+.async-view-status button {
+  min-height: 44px;
+  padding: .4rem .8rem;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  background: #fff;
+  color: #2476b7;
+  cursor: pointer;
+}
+
 @media (max-width: 767.98px) {
   html {
     scrollbar-gutter: auto;

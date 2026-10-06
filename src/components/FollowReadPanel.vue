@@ -2,7 +2,9 @@
 /** 可复用的人声跟读录音面板；不采集或比较系统TTS。 */
 import { ref, watch } from 'vue'
 import { useRecorder } from '../composables/useRecorder'
-import VoiceSpectrogram from './VoiceSpectrogram.vue'
+import { defineLazyView } from '../lib/lazy-view'
+
+const VoiceSpectrogram = defineLazyView(() => import('./VoiceSpectrogram.vue'))
 
 const props = withDefaults(defineProps<{
   targetText: string

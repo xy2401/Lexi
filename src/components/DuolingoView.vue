@@ -10,6 +10,7 @@ import type { CourseUnitIndex, QuizDefinition } from '../lib/course-markdown'
 import {
   COURSE_VERSION_SETTING,
   COURSE_VERSION_VIEW_SETTING,
+  courseUnitAvailability,
   parseCourseVersions,
   type CourseVersion,
   type CourseVersionView,
@@ -48,6 +49,7 @@ const loading = ref(true)
 const selectedUnit = ref<DuoUnit | null>(null)
 const unitEntries = ref<WordEntry[]>([])
 const searchQuery = ref('')
+const onlyWritten = ref(false)
 const versions = ref<CourseVersion[]>([])
 const selectedVersionId = ref('')
 const selectedVersion = computed(() => versions.value.find(version => version.id === selectedVersionId.value))
@@ -68,10 +70,23 @@ const unitProgress = ref(new Map<number, CourseUnitProgress>())
 const activeWords = computed(() => selectedUnit.value?.words || [])
 
 // 搜索过滤
+const availabilityByUnit = computed(() => new Map(
+  units.value.map(unit => [unit.id, courseUnitAvailability(selectedVersion.value, unit.id)]),
+))
+const contentCounts = computed(() => {
+  const available = [...availabilityByUnit.value.values()]
+  return {
+    guides: available.filter(item => item.guide).length,
+    practices: available.filter(item => item.practice).length,
+    written: available.filter(item => item.written).length,
+  }
+})
 const filteredUnits = computed(() => {
-  if (!searchQuery.value.trim()) return units.value
-  const q = searchQuery.value.toLowerCase()
-  return units.value.filter(u =>
+  const available = onlyWritten.value
+    ? units.value.filter(unit => availabilityByUnit.value.get(unit.id)?.written) : units.value
+  if (!searchQuery.value.trim()) return available
+  const q = searchQuery.value.trim().toLowerCase()
+  return available.filter(u =>
     u.name.toLowerCase().includes(q) ||
     u.desc.toLowerCase().includes(q) ||
     u.words.some(w => w.toLowerCase().includes(q))
@@ -109,6 +124,7 @@ async function loadCatalog() {
     const view = savedView || legacyView
     savedPanel = savedView?.panel
     searchQuery.value = view.searchQuery || ''
+    onlyWritten.value = savedView?.onlyWritten === true
     lastUnitId.value = view.unitId
     await refreshLegacyProgress()
     const savedUnit = units.value.find(unit => unit.id === view.unitId)
@@ -136,12 +152,12 @@ onBeforeUnmount(() => {
   emit('immersive-change', false)
 })
 
-watch(searchQuery, value => {
+watch([searchQuery, onlyWritten], ([value]) => {
   if (!loading.value) void persistCourseView(selectedUnit.value?.id ?? lastUnitId.value, value)
 })
 
 function persistCourseView(unitId = selectedUnit.value?.id, query = searchQuery.value): Promise<void> {
-  const view: CourseVersionView = { unitId, searchQuery: query, panel: panelTab.value }
+  const view: CourseVersionView = { unitId, searchQuery: query, panel: panelTab.value, onlyWritten: onlyWritten.value }
   savedPanel = view.panel
   return Promise.all([
     setProgressSetting(COURSE_VERSION_VIEW_SETTING, view),
@@ -384,8 +400,18 @@ function selectWord(word: string) {
       <input
         v-model="searchQuery"
         class="duo-search"
+        type="search"
+        aria-label="搜索单元或单词"
         placeholder="搜索单元或单词..."
       />
+      <div v-if="!loading && selectedVersion" class="availability-filter">
+        <label class="written-toggle">
+          <input v-model="onlyWritten" type="checkbox" />
+          <span>只看已编写</span>
+        </label>
+        <span class="availability-summary">{{ selectedVersion.label }} · 讲义 {{ contentCounts.guides }}/{{ units.length }} · 练习 {{ contentCounts.practices }}/{{ units.length }}</span>
+        <span class="filter-count">显示 {{ filteredUnits.length }} 单元</span>
+      </div>
     </div>
 
     <div v-if="loading" class="duo-loading">加载中...</div>
@@ -413,24 +439,39 @@ function selectWord(word: string) {
 
       <!-- 单元列表 -->
       <div v-show="!isMobile || mobileScreen === 'library'" class="unit-list">
-        <div
+        <div v-if="!filteredUnits.length" class="unit-empty" role="status">
+          <strong>{{ onlyWritten ? '没有符合条件的已编写单元' : '没有找到匹配单元' }}</strong>
+          <p>{{ onlyWritten && !contentCounts.written ? '当前版本尚未编写讲义或练习，仍可浏览全部单元词汇。' : '试试其他关键词，或调整筛选条件。' }}</p>
+          <button v-if="onlyWritten" type="button" @click="onlyWritten = false">查看全部单元</button>
+          <button v-if="searchQuery" type="button" @click="searchQuery = ''">清除搜索</button>
+        </div>
+        <button
           v-for="unit in filteredUnits"
           :key="unit.id"
+          type="button"
+          :aria-pressed="selectedUnit?.id === unit.id"
           :class="['unit-card', { active: selectedUnit?.id === unit.id }]"
           @click="selectUnit(unit)"
         >
-          <div class="unit-num">{{ unit.id }}</div>
-          <div class="unit-info">
-            <div class="unit-name">{{ unit.name }}</div>
-            <div class="unit-desc">{{ unit.desc }}</div>
-          </div>
-          <div class="unit-count">
+          <span class="unit-num">{{ unit.id }}</span>
+          <span class="unit-info">
+            <strong class="unit-name">{{ unit.name }}</strong>
+            <span class="unit-desc">{{ unit.desc }}</span>
+            <span class="unit-availability">
+              <span v-if="!availabilityByUnit.get(unit.id)?.written" class="content-badge is-pending">待编写</span>
+              <template v-else>
+                <span :class="['content-badge', availabilityByUnit.get(unit.id)?.guide ? 'is-ready' : 'is-pending']">{{ availabilityByUnit.get(unit.id)?.guide ? '讲义已编写' : '讲义待编写' }}</span>
+                <span :class="['content-badge', availabilityByUnit.get(unit.id)?.practice ? 'is-ready' : 'is-pending']">{{ availabilityByUnit.get(unit.id)?.practice ? '练习可用' : '练习待编写' }}</span>
+              </template>
+            </span>
+          </span>
+          <span class="unit-count">
             {{ unit.words.length }} 词
             <small v-if="isLegacyVersion && unitProgress.get(unit.id)?.completedQuizIds.length">
               ✓ {{ unitProgress.get(unit.id)?.completedQuizIds.length }} 关
             </small>
-          </div>
-        </div>
+          </span>
+        </button>
       </div>
 
       <!-- 选中单元的词汇 / 单元讲解 -->
@@ -862,9 +903,88 @@ function selectWord(word: string) {
   padding: 0.65rem 0.8rem;
   border: 1px solid #f0c36d;
   border-radius: 8px;
+  width: 100%;
+  background: #fff;
+  color: inherit;
+  font: inherit;
+  text-align: left;
   color: #7a5100;
   background: #fff8e8;
   font-size: 0.84rem;
+}
+
+.unit-card:focus-visible {
+  outline: 2px solid #58a92f;
+  outline-offset: -2px;
+}
+
+.availability-filter {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-basis: 100%;
+  gap: .35rem .85rem;
+}
+
+.written-toggle {
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+  min-height: 44px;
+  color: #334155;
+  font-size: .8rem;
+  cursor: pointer;
+}
+
+.written-toggle input {
+  width: 18px;
+  height: 18px;
+  accent-color: #58a92f;
+}
+
+.availability-summary,
+.filter-count {
+  color: #64748b;
+  font-size: .74rem;
+}
+
+.filter-count { margin-left: auto; }
+
+.unit-availability {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .3rem;
+  margin-top: .35rem;
+}
+
+.content-badge {
+  padding: .15rem .4rem;
+  border-radius: 5px;
+  font-size: .65rem;
+  line-height: 1.4;
+  white-space: nowrap;
+}
+
+.content-badge.is-ready { color: #3b721b; background: #edf7e6; }
+.content-badge.is-pending { color: #64748b; background: #f1f5f9; }
+
+.unit-empty {
+  padding: 1.5rem 1rem;
+  color: #64748b;
+  text-align: center;
+  font-size: .85rem;
+}
+
+.unit-empty p { font-size: .78rem; }
+.unit-empty button {
+  min-height: 44px;
+  margin: .2rem;
+  padding: .4rem .65rem;
+  border: 1px solid #d5dfd0;
+  border-radius: 8px;
+  background: #fff;
+  color: #285b10;
+  cursor: pointer;
 }
 
 .practice-content {
@@ -983,11 +1103,13 @@ function selectWord(word: string) {
     height: 40px;
   }
 
-  .unit-name {
+.unit-name {
+  display: block;
     font-size: .92rem;
   }
 
-  .unit-desc {
+.unit-desc {
+  display: block;
     margin-top: .2rem;
     font-size: .74rem;
   }

@@ -1,5 +1,5 @@
 import { afterEach, describe, expect, it, vi } from 'vitest'
-import { courseGuideUrl, loadCourseGuide, parseCourseVersions, type CourseVersion } from '../src/lib/course-versions'
+import { courseGuideUrl, courseUnitAvailability, loadCourseGuide, parseCourseVersions, type CourseVersion } from '../src/lib/course-versions'
 import { useCourseGuide } from '../src/composables/useCourseGuide'
 
 const unit = { id: 1, name: '喜好 1', desc: '', words: ['I'], file: '001-喜好 1.md' }
@@ -17,6 +17,15 @@ function deferred<T>() {
 afterEach(() => vi.unstubAllGlobals())
 
 describe('versioned course loading', () => {
+  it('tracks lectures and practice independently and includes combined legacy practice', () => {
+    const split = { ...version, practiceUnitIds: [2] }
+    expect(courseUnitAvailability(split, 1)).toEqual({ guide: true, practice: false, written: true })
+    expect(courseUnitAvailability(split, 2)).toEqual({ guide: false, practice: true, written: true })
+    expect(courseUnitAvailability(split, 3)).toEqual({ guide: false, practice: false, written: false })
+    expect(courseUnitAvailability({ ...version, format: 'combined', practiceUnitIds: [] }, 1)).toEqual({ guide: true, practice: true, written: true })
+    expect(courseUnitAvailability(undefined, 1)).toEqual({ guide: false, practice: false, written: false })
+  })
+
   it('validates version registration and encodes the source filename', () => {
     expect(parseCourseVersions({ defaultVersionId: version.id, versions: [version] }).versions).toEqual([version])
     expect(() => parseCourseVersions({ defaultVersionId: 'unknown', versions: [version] })).toThrow('默认')

@@ -27,6 +27,17 @@ afterAll(async () => {
 })
 
 describe('learning progress management', () => {
+  it('clears the publication filter with browsing records while preserving version selection', async () => {
+    await setProgressSetting(COURSE_VERSION_SETTING, 'gpt-6.1')
+    await setProgressSetting(COURSE_VERSION_VIEW_SETTING, { searchQuery: '', panel: 'words', onlyWritten: true })
+    const summary = (await getLearningProgressSummaries()).find(item => item.id === 'duolingo')!
+    expect(summary.hasData).toBe(true)
+    expect(summary.detail).toContain('只看已编写')
+    await clearLearningProgress('duolingo')
+    expect(await progressDb.settings.get(COURSE_VERSION_VIEW_SETTING)).toBeUndefined()
+    expect((await progressDb.settings.get(COURSE_VERSION_SETTING))?.value).toBe('gpt-6.1')
+  })
+
   it('summarizes new course browsing and clears it without removing the version preference', async () => {
     await setProgressSetting(COURSE_VERSION_SETTING, 'gpt-6.1')
     await setProgressSetting(COURSE_VERSION_VIEW_SETTING, { unitId: 1, searchQuery: '', panel: 'guide' })

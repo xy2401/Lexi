@@ -23,11 +23,28 @@ export const DEFAULT_DESKTOP_LAYOUT: DesktopLayoutSetting = {
     leftCollapsed: false,
   },
   course: {
-    libraryWidth: 300,
-    tocWidth: 260,
+    libraryWidth: 260,
+    tocWidth: 240,
     libraryCollapsed: false,
     tocCollapsed: false,
   },
+}
+
+export const MIN_COURSE_READING_WIDTH = 640
+export const COURSE_PANE_SPACING = 32
+
+/** Keep a readable center column; drawers use the actual workspace width. */
+export function coursePaneModes(width: number, layout: CourseDesktopLayout) {
+  const libraryInline = width >= MIN_COURSE_READING_WIDTH + layout.libraryWidth + COURSE_PANE_SPACING
+  const librarySpace = libraryInline && !layout.libraryCollapsed
+    ? layout.libraryWidth + COURSE_PANE_SPACING : 0
+  const tocInline = width >= MIN_COURSE_READING_WIDTH + librarySpace + layout.tocWidth + COURSE_PANE_SPACING
+  return {
+    libraryInline,
+    tocInline,
+    libraryMaxWidth: Math.min(420, Math.max(240, width - MIN_COURSE_READING_WIDTH - COURSE_PANE_SPACING)),
+    tocMaxWidth: Math.min(360, Math.max(210, width - MIN_COURSE_READING_WIDTH - librarySpace - COURSE_PANE_SPACING)),
+  }
 }
 
 export function clampPaneWidth(value: unknown, min: number, max: number, fallback: number): number {

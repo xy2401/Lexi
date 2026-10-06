@@ -9,12 +9,13 @@
 import { ref, computed, onMounted, onBeforeUnmount, watch, nextTick } from 'vue'
 import { marked } from 'marked'
 import DOMPurify from 'dompurify'
-import mermaid from 'mermaid'
+import { loadCourseDiagrams } from '../lib/course-diagrams'
 import { getProgressSetting, setProgressSetting } from '../lib/progress-db'
-import { useIsMobile, useMediaQuery } from '../composables/useMediaQuery'
+import { useIsMobile } from '../composables/useMediaQuery'
+import { useModalInteraction } from '../composables/useModalInteraction'
 import ResizablePaneHandle from './ResizablePaneHandle.vue'
 import { transformCourseSemanticTags } from '../lib/system-course-markdown'
-import { DEFAULT_DESKTOP_LAYOUT, type CourseDesktopLayout } from '../lib/desktop-layout'
+import { DEFAULT_DESKTOP_LAYOUT, coursePaneModes, type CourseDesktopLayout } from '../lib/desktop-layout'
 
 export interface SystemCourseItem {
   id: number
@@ -64,7 +65,12 @@ const emit = defineEmits<{
 }>()
 
 const isMobile = useIsMobile()
-const isWideCourseDesktop = useMediaQuery('(min-width: 1180px)')
+const courseLayoutRef = ref<HTMLElement | null>(null)
+const workspaceWidth = ref(0)
+const paneModes = computed(() => coursePaneModes(workspaceWidth.value, props.desktopLayout))
+const isInlineDesktopLibrary = computed(() => paneModes.value.libraryInline)
+const isWideCourseDesktop = computed(() => paneModes.value.tocInline)
+let courseResizeObserver: ResizeObserver | undefined
 const courses = ref<SystemCourseItem[]>([])
 const loading = ref(true)
 const manifestError = ref('')
@@ -82,6 +88,11 @@ const tocCloseRef = ref<HTMLButtonElement | null>(null)
 const mobileScreen = ref<'library' | 'reader'>('library')
 const tocSheetOpen = ref(false)
 const desktopTocDrawerOpen = ref(false)
+const desktopLibraryDrawerOpen = ref(false)
+const desktopLibraryRef = ref<HTMLElement | null>(null)
+const desktopTocRef = ref<HTMLElement | null>(null)
+const desktopLibraryTriggerRef = ref<HTMLButtonElement | null>(null)
+const desktopTocTriggerRef = ref<HTMLButtonElement | null>(null)
 const lastCourseId = ref<number>()
 const readingPositions = ref<Record<string, CourseReadingPosition>>({})
 let persistTimer: ReturnType<typeof setTimeout> | undefined
@@ -140,6 +151,43 @@ const showDesktopToc = computed(() =>
     isWideCourseDesktop.value ? !props.desktopLayout.tocCollapsed : desktopTocDrawerOpen.value
   ),
 )
+const showDesktopLibrary = computed(() =>
+  isInlineDesktopLibrary.value ? !props.desktopLayout.libraryCollapsed : desktopLibraryDrawerOpen.value,
+)
+const libraryDrawerActive = computed(() => props.active && !isMobile.value && !isInlineDesktopLibrary.value && showDesktopLibrary.value)
+const tocDrawerActive = computed(() => props.active && !isMobile.value && !isWideCourseDesktop.value && showDesktopToc.value)
+
+useModalInteraction({ active: libraryDrawerActive, container: desktopLibraryRef, returnFocus: desktopLibraryTriggerRef, onRequestClose: closeDesktopLibrary })
+useModalInteraction({ active: tocDrawerActive, container: desktopTocRef, returnFocus: desktopTocTriggerRef, onRequestClose: closeDesktopToc })
+
+function updateWorkspaceWidth() {
+  const width = courseLayoutRef.value?.getBoundingClientRect().width || 0
+  if (width > 0) workspaceWidth.value = width
+}
+
+function toggleDesktopLibrary() {
+  if (isInlineDesktopLibrary.value) {
+    updateDesktopLayout({ libraryCollapsed: !props.desktopLayout.libraryCollapsed })
+  } else {
+    desktopLibraryDrawerOpen.value = !desktopLibraryDrawerOpen.value
+    desktopTocDrawerOpen.value = false
+  }
+}
+
+function closeDesktopLibrary() {
+  if (isInlineDesktopLibrary.value) updateDesktopLayout({ libraryCollapsed: true })
+  else desktopLibraryDrawerOpen.value = false
+}
+
+function closeDesktopToc() {
+  if (isWideCourseDesktop.value) updateDesktopLayout({ tocCollapsed: true })
+  else desktopTocDrawerOpen.value = false
+}
+
+function selectDesktopCourse(course: SystemCourseItem) {
+  void selectCourse(course)
+  if (!isInlineDesktopLibrary.value) desktopLibraryDrawerOpen.value = false
+}
 
 function updateDesktopLayout(patch: Partial<CourseDesktopLayout>) {
   emit('update:desktop-layout', { ...props.desktopLayout, ...patch })
@@ -148,7 +196,10 @@ function updateDesktopLayout(patch: Partial<CourseDesktopLayout>) {
 function toggleDesktopToc() {
   if (isWideCourseDesktop.value) {
     updateDesktopLayout({ tocCollapsed: !props.desktopLayout.tocCollapsed })
-  } else desktopTocDrawerOpen.value = !desktopTocDrawerOpen.value
+  } else {
+    desktopTocDrawerOpen.value = !desktopTocDrawerOpen.value
+    desktopLibraryDrawerOpen.value = false
+  }
 }
 
 function selectDesktopToc(id: string) {
@@ -447,10 +498,21 @@ async function triggerMermaidRun() {
   const elements = markdownBodyRef.value.querySelectorAll<HTMLElement>('pre.mermaid')
   if (!elements.length) return
 
+  let mermaid
+  try {
+    mermaid = await loadCourseDiagrams()
+  } catch (error) {
+    console.warn('[Mermaid] 图表引擎加载失败:', error)
+    return
+  }
+
   for (let i = 0; i < elements.length; i++) {
     const el = elements[i]
+    // Another render may have finished while the engine was loading.
+    if (!el.isConnected || el.dataset.rendering) continue
     const rawText = decodeHtmlEntities(el.textContent || '').trim()
     if (!rawText) continue
+    el.dataset.rendering = 'true'
 
     const renderId = `mermaid_chart_${Date.now()}_${i}`
     try {
@@ -465,6 +527,7 @@ async function triggerMermaidRun() {
       })
       el.replaceWith(container)
     } catch (e) {
+      delete el.dataset.rendering
       console.warn('[Mermaid] 图表渲染失败:', e)
     }
   }
@@ -473,16 +536,11 @@ async function triggerMermaidRun() {
 onMounted(async () => {
   window.addEventListener('keydown', handleKeyDown)
   window.addEventListener('popstate', handlePopState)
-  mermaid.initialize({
-    startOnLoad: false,
-    theme: 'neutral',
-    securityLevel: 'loose',
-    fontFamily: 'inherit',
-    timeline: {
-      useMaxWidth: false,
-    },
-  })
-
+  updateWorkspaceWidth()
+  if (typeof ResizeObserver !== 'undefined' && courseLayoutRef.value) {
+    courseResizeObserver = new ResizeObserver(updateWorkspaceWidth)
+    courseResizeObserver.observe(courseLayoutRef.value)
+  } else window.addEventListener('resize', updateWorkspaceWidth)
   try {
     const res = await fetch('/data/system-courses.json')
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
@@ -513,6 +571,8 @@ onMounted(async () => {
 })
 
 onBeforeUnmount(() => {
+  courseResizeObserver?.disconnect()
+  window.removeEventListener('resize', updateWorkspaceWidth)
   window.removeEventListener('keydown', handleKeyDown)
   window.removeEventListener('popstate', handlePopState)
   scrollBoundElement?.removeEventListener('scroll', handleScroll)
@@ -530,9 +590,14 @@ watch(isWideCourseDesktop, wide => {
   if (wide) desktopTocDrawerOpen.value = false
 })
 
+watch(isInlineDesktopLibrary, inline => {
+  if (inline) desktopLibraryDrawerOpen.value = false
+})
+
 watch(() => props.active, active => {
   if (!active) {
     desktopTocDrawerOpen.value = false
+    desktopLibraryDrawerOpen.value = false
     leaveMobileReader(true)
     return
   }
@@ -540,6 +605,8 @@ watch(() => props.active, active => {
 })
 
 watch(isMobile, mobile => {
+  desktopTocDrawerOpen.value = false
+  desktopLibraryDrawerOpen.value = false
   if (mobile) {
     leaveMobileReader(true)
     return
@@ -765,6 +832,7 @@ function handleContentKeydown(event: KeyboardEvent) {
 
 <template>
   <div
+    ref="courseLayoutRef"
     :class="['system-course-layout', {
       'is-mobile-reader': isMobile && mobileScreen === 'reader',
       'desktop-library-collapsed': !isMobile && desktopLayout.libraryCollapsed,
@@ -776,14 +844,21 @@ function handleContentKeydown(event: KeyboardEvent) {
     }"
   >
     <template v-if="!isMobile">
-      <aside v-if="!desktopLayout.libraryCollapsed" class="duo-menu-sidebar">
+      <aside
+        v-if="showDesktopLibrary"
+        ref="desktopLibraryRef"
+        :class="['duo-menu-sidebar', { 'is-desktop-drawer': !isInlineDesktopLibrary }]"
+        :role="!isInlineDesktopLibrary ? 'dialog' : undefined"
+        :aria-modal="!isInlineDesktopLibrary ? true : undefined"
+        aria-label="课程列表"
+      >
         <div class="duo-menu-header">
           <div class="desktop-course-side-head">
             <div class="duo-stats" v-if="!loading">
               <span class="stat">{{ courses.length }} 课程</span>
               <span class="stat">{{ totalWords }} 词</span>
             </div>
-            <button type="button" aria-label="折叠课程列表" title="折叠课程列表" @click="updateDesktopLayout({ libraryCollapsed: true })">‹</button>
+            <button type="button" :aria-label="isInlineDesktopLibrary ? '折叠课程列表' : '关闭课程列表'" @click="closeDesktopLibrary">‹</button>
           </div>
           <input v-model="searchQuery" type="search" placeholder="搜索课程或单词..." class="duo-search" />
         </div>
@@ -808,7 +883,7 @@ function handleContentKeydown(event: KeyboardEvent) {
                 :key="course.id"
                 type="button"
                 :class="['unit-card', { active: selectedCourse?.id === course.id }]"
-                @click="selectCourse(course)"
+                @click="selectDesktopCourse(course)"
               >
                 <span class="unit-num">{{ course.id }}</span>
                 <span class="unit-info">
@@ -823,20 +898,19 @@ function handleContentKeydown(event: KeyboardEvent) {
       </aside>
 
       <ResizablePaneHandle
-        v-if="!desktopLayout.libraryCollapsed"
+        v-if="isInlineDesktopLibrary && showDesktopLibrary"
         :model-value="desktopLayout.libraryWidth"
         :min="240"
-        :max="420"
-        :default-value="300"
+        :max="paneModes.libraryMaxWidth"
+        :default-value="DEFAULT_DESKTOP_LAYOUT.course.libraryWidth"
         label="调整课程列表宽度"
         @update:model-value="updateDesktopLayout({ libraryWidth: $event })"
       />
 
       <main class="course-main-content">
-        <template v-if="selectedCourse">
           <header class="main-header">
             <div class="desktop-course-title-row">
-              <div>
+              <div v-if="selectedCourse">
                 <div class="header-badge-row">
                   <span class="lesson-badge">Lesson {{ selectedCourse.id }}</span>
                   <span class="tag-badge">{{ selectedCourse.tag }}</span>
@@ -844,25 +918,29 @@ function handleContentKeydown(event: KeyboardEvent) {
                 </div>
                 <h2>{{ selectedCourse.title }}</h2>
               </div>
+              <h2 v-else>系统课程</h2>
               <div class="desktop-course-actions">
                 <button
-                  v-if="desktopLayout.libraryCollapsed"
+                  ref="desktopLibraryTriggerRef"
                   type="button"
-                  aria-label="展开课程列表"
-                  title="展开课程列表"
-                  @click="updateDesktopLayout({ libraryCollapsed: false })"
+                  :aria-label="showDesktopLibrary ? '折叠课程列表' : '展开课程列表'"
+                  :aria-expanded="showDesktopLibrary"
+                  @click="toggleDesktopLibrary"
                 >☰ 课程</button>
-                <button type="button" :disabled="!previousCourse" @click="openAdjacentCourse(previousCourse)">← 上一课</button>
-                <button type="button" :disabled="!nextCourse" @click="openAdjacentCourse(nextCourse)">下一课 →</button>
+                <button v-if="selectedCourse" type="button" :disabled="!previousCourse" @click="openAdjacentCourse(previousCourse)">← 上一课</button>
+                <button v-if="selectedCourse" type="button" :disabled="!nextCourse" @click="openAdjacentCourse(nextCourse)">下一课 →</button>
                 <button
                   v-if="tocItems.length"
+                  ref="desktopTocTriggerRef"
                   type="button"
+                  :aria-label="showDesktopToc ? '关闭课程目录' : '打开课程目录'"
                   :aria-expanded="showDesktopToc"
                   @click="toggleDesktopToc"
                 >📑 目录</button>
               </div>
             </div>
           </header>
+        <template v-if="selectedCourse">
           <div v-if="markdownLoading" class="content-loading">
             <div class="spinner"></div><span>正在加载讲义正文...</span>
           </div>
@@ -874,10 +952,9 @@ function handleContentKeydown(event: KeyboardEvent) {
             v-else
             ref="markdownBodyRef"
             class="markdown-body"
-            v-html="renderedHtml"
             @click="handleContentClick"
             @keydown="handleContentKeydown"
-          ></article>
+          ><div class="markdown-prose" v-html="renderedHtml"></div></article>
         </template>
         <div v-else class="no-selection">
           <div class="empty-hint"><span class="hint-icon">📖</span><h3>请选择一门课程开始研读</h3></div>
@@ -888,22 +965,29 @@ function handleContentKeydown(event: KeyboardEvent) {
         v-if="isWideCourseDesktop && showDesktopToc"
         :model-value="desktopLayout.tocWidth"
         :min="210"
-        :max="360"
-        :default-value="260"
+        :max="paneModes.tocMaxWidth"
+        :default-value="DEFAULT_DESKTOP_LAYOUT.course.tocWidth"
         side="right"
         label="调整课程目录宽度"
         @update:model-value="updateDesktopLayout({ tocWidth: $event })"
       />
 
-      <div v-if="!isWideCourseDesktop && desktopTocDrawerOpen" class="desktop-course-toc-mask" @click="desktopTocDrawerOpen = false"></div>
-      <aside v-if="showDesktopToc" :class="['toc-sidebar', { 'is-desktop-drawer': !isWideCourseDesktop }]">
+      <div v-if="libraryDrawerActive || tocDrawerActive" class="desktop-course-drawer-mask" @click="desktopLibraryDrawerOpen = false; desktopTocDrawerOpen = false"></div>
+      <aside
+        v-if="showDesktopToc"
+        ref="desktopTocRef"
+        :class="['toc-sidebar', { 'is-desktop-drawer': !isWideCourseDesktop }]"
+        :role="!isWideCourseDesktop ? 'dialog' : undefined"
+        :aria-modal="!isWideCourseDesktop ? true : undefined"
+        aria-label="课程目录"
+      >
         <div class="toc-header">
           <h4>📑 目录大纲</h4>
           <span class="toc-count">{{ tocItems.length }} 节</span>
           <button
             type="button"
             aria-label="关闭课程目录"
-            @click="isWideCourseDesktop ? updateDesktopLayout({ tocCollapsed: true }) : (desktopTocDrawerOpen = false)"
+            @click="closeDesktopToc"
           >×</button>
         </div>
         <nav class="toc-nav">
@@ -1079,23 +1163,26 @@ function handleContentKeydown(event: KeyboardEvent) {
   overflow: hidden;
 }
 
-@media (min-width: 768px) and (max-width: 1179.98px) {
-  .desktop-course-toc-mask {
+@media (min-width: 768px) {
+  .desktop-course-drawer-mask {
     position: absolute;
     z-index: 39;
     inset: 0;
     background: rgb(15 23 42 / 24%);
   }
 
-  .toc-sidebar.is-desktop-drawer {
+  .toc-sidebar.is-desktop-drawer,
+  .duo-menu-sidebar.is-desktop-drawer {
     position: absolute;
     z-index: 40;
     top: 0;
-    right: 0;
     bottom: 0;
-    width: min(var(--course-toc-width, 260px), 80%);
+    max-width: 85%;
     box-shadow: -12px 0 30px rgb(15 23 42 / 18%);
   }
+
+  .toc-sidebar.is-desktop-drawer { right: 0; }
+  .duo-menu-sidebar.is-desktop-drawer { left: 0; box-shadow: 12px 0 30px rgb(15 23 42 / 18%); }
 }
 
 @media (max-width: 767.98px) {
@@ -1128,8 +1215,8 @@ function handleContentKeydown(event: KeyboardEvent) {
   height: 100%;
   overflow: hidden;
   box-sizing: border-box;
-  flex: 0 0 var(--course-library-width, 300px);
-  width: var(--course-library-width, 300px);
+  flex: 0 0 var(--course-library-width, 260px);
+  width: var(--course-library-width, 260px);
 }
 
 .duo-menu-header {
@@ -1371,17 +1458,18 @@ function handleContentKeydown(event: KeyboardEvent) {
 
 .desktop-course-title-row {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
   justify-content: space-between;
   gap: 1rem;
 }
 
-.desktop-course-title-row > div:first-child { min-width: 0; }
+.desktop-course-title-row > div:first-child { min-width: 0; flex: 1 1 240px; }
 .desktop-course-title-row h2 {
   overflow: hidden;
   margin: 0;
   text-overflow: ellipsis;
-  white-space: nowrap;
+  white-space: normal;
 }
 
 .desktop-course-progress {
@@ -1394,6 +1482,7 @@ function handleContentKeydown(event: KeyboardEvent) {
   display: flex;
   align-items: center;
   flex: none;
+  flex-wrap: wrap;
   gap: .35rem;
 }
 
@@ -1496,6 +1585,12 @@ function handleContentKeydown(event: KeyboardEvent) {
   font-weight: 600;
   color: #334155;
   white-space: normal;
+}
+
+.markdown-prose {
+  width: 100%;
+  max-width: 84ch;
+  margin-inline: auto;
 }
 
 /* 第一列保持清楚，但不以 nowrap 强迫整张表横向溢出。 */

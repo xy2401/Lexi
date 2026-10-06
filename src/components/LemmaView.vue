@@ -4,7 +4,7 @@
  * 支持双向搜索（变形词反查原词 / 原词查衍生族）、规则多选过滤（默认隐藏常规变体）与全量分页
  */
 import { ref, computed, watch, onMounted } from 'vue'
-import { parseExchange, EXCHANGE_LABELS } from '../lib/morphology'
+import { getWordForms, parseExchange } from '../lib/morphology'
 import { lookupLocal, type WordEntry } from '../lib/db'
 import DictionaryTags from './DictionaryTags.vue'
 import PaginationBar from './PaginationBar.vue'
@@ -52,17 +52,6 @@ function classifyVariantType(root: string, variant: string): 's' | 'ed' | 'ing' 
 function formatShortTranslation(text?: string): string {
   if (!text) return ''
   return text.replace(/\\r\\n|\\n/g, ' ').slice(0, 50)
-}
-
-function getForms(exchange?: string) {
-  if (!exchange) return []
-  const parsed = parseExchange(exchange)
-  return Object.entries(parsed)
-    .filter(([key]) => key in EXCHANGE_LABELS && key !== '0' && key !== '1')
-    .map(([key, value]) => ({
-      label: EXCHANGE_LABELS[key] || key,
-      value,
-    }))
 }
 
 const emit = defineEmits<{
@@ -169,9 +158,13 @@ function shouldShowFamily(entry: LemmaEntry): boolean {
   return false
 }
 
-// 得到某词族下的完整变体列表（匹配的词族内部派生 100% 完整展示，不再二次过滤）
+// 保留词族内部变体，仅移除 exchange 中来自其他词义的误匹配。
 function getVisibleVariants(entry: LemmaEntry): LemmaVariant[] {
-  return entry.variants
+  const meta = getItemMeta(entry.lemma)
+  const plural = parseExchange(meta.exchange || '').s
+  if (!plural || getWordForms(meta).some(form => form.value === plural)) return entry.variants
+  // A noun-only exchange from an unrelated sense must not reappear as a family chip.
+  return entry.variants.filter(variant => variant.word.toLowerCase() !== plural.toLowerCase())
 }
 
 // 过滤后的词族列表
@@ -320,8 +313,8 @@ watch(paginatedEntries, async (items) => {
             </div>
 
             <!-- 时态变形内联列表 -->
-            <div class="inline-forms-row" v-if="getForms(getItemMeta(item.lemma).exchange).length">
-              <span class="form-tag" v-for="f in getForms(getItemMeta(item.lemma).exchange)" :key="f.label" @click="selectWord(f.value)">
+            <div class="inline-forms-row" v-if="getWordForms(getItemMeta(item.lemma)).length">
+              <span class="form-tag" v-for="f in getWordForms(getItemMeta(item.lemma))" :key="f.key" @click="selectWord(f.value)">
                 {{ f.label }}: {{ f.value }}
               </span>
             </div>
@@ -340,7 +333,7 @@ watch(paginatedEntries, async (items) => {
         <div class="card-body">
           <div class="variant-grid">
             <div
-              v-for="v in item.variants"
+              v-for="v in getVisibleVariants(item)"
               :key="v.word"
               :class="['variant-chip', v.type]"
               @click="selectWord(v.word)"

@@ -4,7 +4,8 @@
  * 通用标准分页组件：包含条数统计、[首页][上一页][下拉跳页][下一页][尾页]导航以及居右[每页条数选择]
  * 当在底部分页点击切页/改条数时，自动平滑滚动锚点至顶部分页控制栏
  */
-import { computed, ref } from 'vue'
+import { computed, nextTick, ref } from 'vue'
+import { scrollToListAnchor } from '../lib/scroll-anchor'
 
 const props = withDefaults(
   defineProps<{
@@ -50,34 +51,24 @@ const pageSelectOptions = computed(() => {
 })
 
 // 底部分页触发展示区平滑锚点回顶 (精确对齐顶部分页控制栏)
-function scrollToTopAnchor() {
+async function scrollToTopAnchor() {
   if (props.top) return // 顶部分页本身就在顶部，无需重复锚点滚动
+  await nextTick()
 
   // 多标签页用 v-show 共存于 DOM，全局 querySelector 会误选被隐藏的其他标签页元素，
   // 因此限定在当前组件所属的视图容器内查找锚点
   const container = barRef.value?.parentElement
-  const target = container?.querySelector('.top-pagination') ||
-                 container?.querySelector('.control-panel') ||
+  const target = container?.querySelector<HTMLElement>('.top-pagination') ||
+                 container?.querySelector<HTMLElement>('.control-panel') ||
                  container
 
-  if (target) {
-    const rect = (target as HTMLElement).getBoundingClientRect()
-    const scrollTop = window.pageYOffset || document.documentElement.scrollTop
-    const targetY = rect.top + scrollTop - 12 // 减去 12px 留出舒适边距
-
-    window.scrollTo({
-      top: Math.max(0, targetY),
-      behavior: 'smooth'
-    })
-  } else {
-    window.scrollTo({ top: 0, behavior: 'smooth' })
-  }
+  if (target) scrollToListAnchor(target)
 }
 
 function setPage(page: number) {
   if (page < 1 || page > props.totalPages || page === props.currentPage) return
   emit('update:currentPage', page)
-  scrollToTopAnchor()
+  void scrollToTopAnchor()
 }
 
 function onPageSelect(e: Event) {
@@ -90,7 +81,7 @@ function onPageSizeSelect(e: Event) {
   if (!isNaN(size)) {
     emit('update:pageSize', size)
     emit('update:currentPage', 1)
-    scrollToTopAnchor()
+    void scrollToTopAnchor()
   }
 }
 </script>
