@@ -23,7 +23,7 @@ Use Node.js 22+ (`.node-version`). Install dependencies with `npm install`; init
 - `npm run preview`: preview the production build.
 - `npm run typecheck`: check TypeScript with `tsc --noEmit`.
 - `npm test`: run all Vitest suites.
-- `npm run validate:course` / `npm run validate:dicts`: validate course indexes or generated dictionary assets.
+- `npm run validate:course` / `npm run validate:system-courses` / `npm run validate:dicts`: validate Duolingo versions, system chapters, or dictionary assets.
 
 ## Coding Style & Naming Conventions
 
@@ -39,4 +39,4 @@ Recent history favors `feat:`, `fix:`, and optional scopes such as `feat(courses
 
 ## Data & Configuration Guidelines
 
-Generate ignored datasets with scripts. System courses follow `public/data/system-courses/_spec.md` and `_curriculum.md`. New Duolingo versions follow `docs/duolingo-course-versions.md`: preserve source JSON; never consult old/other-model prose. Separate `.test.md` exercises follow `docs/duolingo-practice-spec.md`: write readable Markdown with stable tags, not JSON blocks. `build:course` updates availability only. Legacy maintenance follows `docs/duolingo-unit-spec.md`. Preserve sanitization, safe paths, HTTPS/CORS, and `LICENSES` attribution.
+Generate ignored datasets with scripts. System courses follow `public/data/system-courses/_spec.md` and `_curriculum.md`; store chapters directly in category folders (no series subdirectories), use stable slugs for reading records, and preserve legacy migration mappings. New Duolingo versions follow `docs/duolingo-course-versions.md`: preserve source JSON; never consult old/other-model prose. Separate `.test.md` exercises follow `docs/duolingo-practice-spec.md`: write readable Markdown with stable tags, not JSON blocks. `build:course` updates availability only. Legacy maintenance follows `docs/duolingo-unit-spec.md`. Preserve sanitization, safe paths, HTTPS/CORS, and `LICENSES` attribution.

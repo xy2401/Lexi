@@ -2,7 +2,7 @@
 /**
  * SystemCourseView - 纯粹系统课程阅读组件
  * 布局：
- * 1. 左侧：多邻国风格极简课程单元列表（圆圈序号、标题、简介、词数）
+ * 1. 左侧：按大类直接展示篇章
  * 2. 中间：Markdown 深度讲义阅读区（支持点击英文单词即查词典、TTS 发音）
  * 3. 右侧：文章大纲目录（TOC），自动提取 #1, #2 各级标题，支持平滑滚动与联动高亮
  */
@@ -10,43 +10,25 @@ import { ref, computed, onMounted, onBeforeUnmount, watch, nextTick } from 'vue'
 import { marked } from 'marked'
 import DOMPurify from 'dompurify'
 import { loadCourseDiagrams } from '../lib/course-diagrams'
+import { createCourseVisualMounts, renderCourseVisualBlock } from '../lib/course-visuals'
 import { getProgressSetting, setProgressSetting } from '../lib/progress-db'
 import { useIsMobile } from '../composables/useMediaQuery'
 import { useModalInteraction } from '../composables/useModalInteraction'
 import ResizablePaneHandle from './ResizablePaneHandle.vue'
 import { transformCourseSemanticTags } from '../lib/system-course-markdown'
 import { DEFAULT_DESKTOP_LAYOUT, coursePaneModes, type CourseDesktopLayout } from '../lib/desktop-layout'
+import {
+  SYSTEM_COURSE_CATEGORIES, SYSTEM_COURSE_CATALOG_VERSION,
+  migrateCourseView, normalizeCourseHeading, parseSystemCourseCatalog,
+  type CourseReadingPosition, type CourseViewSetting, type SystemCourseItem,
+} from '../lib/system-course-catalog'
 
-export interface SystemCourseItem {
-  id: number
-  slug: string
-  title: string
-  desc: string
-  tag: string
-  icon: string
-  file: string
-  words: string[]
-}
+export type { SystemCourseItem } from '../lib/system-course-catalog'
 
 export interface TocItem {
   id: string
   text: string
   level: number
-}
-
-interface CourseReadingPosition {
-  tocId?: string
-  tocText?: string
-  scrollRatio: number
-}
-
-interface CourseViewSetting {
-  catalogVersion?: number
-  courseId?: number
-  searchQuery?: string
-  tag?: string
-  collapsedCourseGroups?: string[]
-  readingPositions?: Record<string, CourseReadingPosition>
 }
 
 const props = withDefaults(defineProps<{
@@ -79,7 +61,6 @@ const markdownContent = ref('')
 const markdownLoading = ref(false)
 const markdownError = ref('')
 const searchQuery = ref('')
-const selectedTag = ref('全部')
 const collapsedCourseGroups = ref<string[]>([])
 const activeTocId = ref('')
 const markdownBodyRef = ref<HTMLElement | null>(null)
@@ -93,57 +74,46 @@ const desktopLibraryRef = ref<HTMLElement | null>(null)
 const desktopTocRef = ref<HTMLElement | null>(null)
 const desktopLibraryTriggerRef = ref<HTMLButtonElement | null>(null)
 const desktopTocTriggerRef = ref<HTMLButtonElement | null>(null)
-const lastCourseId = ref<number>()
+const lastCourseSlug = ref<string>()
 const readingPositions = ref<Record<string, CourseReadingPosition>>({})
 let persistTimer: ReturnType<typeof setTimeout> | undefined
 let scrollBoundElement: HTMLElement | null = null
+const courseVisuals = createCourseVisualMounts()
 
 const COURSE_HISTORY_KEY = 'lexiCourseLayer'
-const COURSE_CATALOG_VERSION = 2
-
-function migrateCourseView(savedView: CourseViewSetting): CourseViewSetting {
-  if (savedView.catalogVersion === COURSE_CATALOG_VERSION) return savedView
-
-  const oldResearchPosition = savedView.readingPositions?.['24']
-  const oldPaperPosition = savedView.readingPositions?.['25']
-  const preferredPosition = savedView.courseId === 25
-    ? oldPaperPosition || oldResearchPosition
-    : oldResearchPosition || oldPaperPosition
-  const readingPositions = { ...(savedView.readingPositions || {}) }
-
-  if (preferredPosition) readingPositions['24'] = preferredPosition
-  delete readingPositions['25']
-
-  return {
-    ...savedView,
-    catalogVersion: COURSE_CATALOG_VERSION,
-    courseId: savedView.courseId === 24 || savedView.courseId === 25 ? 24 : savedView.courseId,
-    readingPositions,
-  }
-}
 
 // 统计
 const totalWords = computed(() => courses.value.reduce((s, c) => s + c.words.length, 0))
-const COURSE_TAG_ORDER = ['声音与拼写', '词汇与构词', '句子与语法', '阅读与表达', '开发与技术', '科研与学术', '中小学', '大学']
-const courseTags = computed(() => {
+const courseCategories = computed(() => {
   const available = new Set(courses.value.map(course => course.tag))
-  const known = COURSE_TAG_ORDER.filter(tag => available.has(tag))
-  const extra = [...available].filter(tag => !COURSE_TAG_ORDER.includes(tag))
-  return ['全部', ...known, ...extra]
+  const extra = [...available].filter(tag => !(SYSTEM_COURSE_CATEGORIES as readonly string[]).includes(tag))
+  return [...SYSTEM_COURSE_CATEGORIES, ...extra]
 })
-const lastCourse = computed(() => courses.value.find(course => course.id === lastCourseId.value) || null)
+const courseNumbers = computed(() => {
+  const counts = new Map<string, number>()
+  const numbers = new Map<string, number>()
+  for (const course of courses.value) {
+    const number = (counts.get(course.tag) || 0) + 1
+    counts.set(course.tag, number)
+    numbers.set(course.slug, number)
+  }
+  return numbers
+})
+const lastCourse = computed(() => courses.value.find(course => course.slug === lastCourseSlug.value) || null)
 const lastReadingPosition = computed(() =>
-  lastCourse.value ? readingPositions.value[String(lastCourse.value.id)] : undefined,
+  lastCourse.value ? readingPositions.value[lastCourse.value.slug] : undefined,
 )
+const selectedCategoryCourses = computed(() => selectedCourse.value
+  ? courses.value.filter(course => course.tag === selectedCourse.value?.tag) : [])
 const selectedCourseIndex = computed(() =>
-  selectedCourse.value ? courses.value.findIndex(course => course.id === selectedCourse.value?.id) : -1,
+  selectedCourse.value ? selectedCategoryCourses.value.findIndex(course => course.slug === selectedCourse.value?.slug) : -1,
 )
 const previousCourse = computed(() =>
-  selectedCourseIndex.value > 0 ? courses.value[selectedCourseIndex.value - 1] : null,
+  selectedCourseIndex.value > 0 ? selectedCategoryCourses.value[selectedCourseIndex.value - 1] : null,
 )
 const nextCourse = computed(() =>
-  selectedCourseIndex.value >= 0 && selectedCourseIndex.value < courses.value.length - 1
-    ? courses.value[selectedCourseIndex.value + 1]
+  selectedCourseIndex.value >= 0 && selectedCourseIndex.value < selectedCategoryCourses.value.length - 1
+    ? selectedCategoryCourses.value[selectedCourseIndex.value + 1]
     : null,
 )
 const showDesktopToc = computed(() =>
@@ -185,7 +155,7 @@ function closeDesktopToc() {
 }
 
 function selectDesktopCourse(course: SystemCourseItem) {
-  void selectCourse(course)
+  void selectCourse(course, true)
   if (!isInlineDesktopLibrary.value) desktopLibraryDrawerOpen.value = false
 }
 
@@ -209,20 +179,18 @@ function selectDesktopToc(id: string) {
 
 // 过滤课程
 const filteredCourses = computed(() => {
-  const tagged = selectedTag.value === '全部'
-    ? courses.value
-    : courses.value.filter(course => course.tag === selectedTag.value)
-  if (!searchQuery.value.trim()) return tagged
-  const q = searchQuery.value.toLowerCase()
-  return tagged.filter(c =>
+  if (!searchQuery.value.trim()) return courses.value
+  const q = searchQuery.value.trim().toLowerCase()
+  return courses.value.filter(c =>
     c.title.toLowerCase().includes(q) ||
     c.desc.toLowerCase().includes(q) ||
     c.tag.toLowerCase().includes(q) ||
+    c.series?.toLowerCase().includes(q) ||
     c.words.some(w => w.toLowerCase().includes(q))
   )
 })
 
-// 按 tag 聚合的二级目录分组，不依赖清单中同类课程连续排列。
+// 按大类直接列出篇章，不依赖清单中同类课程连续排列。
 interface CourseGroup {
   tag: string
   courses: SystemCourseItem[]
@@ -235,11 +203,11 @@ const groupedCourses = computed<CourseGroup[]>(() => {
     if (group) group.push(course)
     else byTag.set(course.tag, [course])
   }
-  return courseTags.value
-    .filter(tag => tag !== '全部')
+  return courseCategories.value
     .flatMap(tag => {
       const group = byTag.get(tag)
-      return group ? [{ tag, courses: group }] : []
+      if (!group) return []
+      return [{ tag, courses: group }]
     })
 })
 
@@ -348,6 +316,7 @@ const renderedHtml = computed(() => {
   }
 
   renderer.code = function ({ text, lang }) {
+    if (lang === 'course-visual') return renderCourseVisualBlock(text)
     if (lang === 'mermaid') {
       const raw = decodeHtmlEntities(text)
       return `<pre class="mermaid">${raw}</pre>\n`
@@ -544,21 +513,20 @@ onMounted(async () => {
   try {
     const res = await fetch('/data/system-courses.json')
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
-    courses.value = await res.json()
+    courses.value = parseSystemCourseCatalog(await res.json())
     const storedView = await getProgressSetting<CourseViewSetting>(
       'course.view',
       {},
     )
-    const savedView = migrateCourseView(storedView)
+    const savedView = migrateCourseView(storedView, courses.value)
     if (savedView !== storedView) await setProgressSetting('course.view', savedView)
     if (savedView.searchQuery) searchQuery.value = savedView.searchQuery
-    if (savedView.tag && courseTags.value.includes(savedView.tag)) selectedTag.value = savedView.tag
     collapsedCourseGroups.value = [...new Set(savedView.collapsedCourseGroups || [])]
-      .filter(tag => courseTags.value.includes(tag))
-    lastCourseId.value = savedView.courseId
+      .filter(tag => courseCategories.value.includes(tag))
+    lastCourseSlug.value = savedView.courseSlug
     readingPositions.value = savedView.readingPositions || {}
 
-    const initial = courses.value.find(c => c.id === savedView.courseId) || courses.value[0]
+    const initial = courses.value.find(c => c.slug === savedView.courseSlug) || courses.value[0]
     if (initial && !isMobile.value) {
       await selectCourse(initial, true)
     }
@@ -571,6 +539,8 @@ onMounted(async () => {
 })
 
 onBeforeUnmount(() => {
+  courseLoadSequence++
+  courseVisuals.clear()
   courseResizeObserver?.disconnect()
   window.removeEventListener('resize', updateWorkspaceWidth)
   window.removeEventListener('keydown', handleKeyDown)
@@ -582,7 +552,7 @@ onBeforeUnmount(() => {
   emit('immersive-change', false)
 })
 
-watch([searchQuery, selectedTag], () => {
+watch(searchQuery, () => {
   void persistView()
 })
 
@@ -612,14 +582,14 @@ watch(isMobile, mobile => {
     return
   }
   leaveMobileReader(true)
-  const initial = courses.value.find(course => course.id === lastCourseId.value) || courses.value[0]
-  if (initial && selectedCourse.value?.id !== initial.id) void selectCourse(initial, true)
+  const initial = courses.value.find(course => course.slug === lastCourseSlug.value) || courses.value[0]
+  if (initial) void selectCourse(initial, true)
 })
 
 function persistView(): Promise<void> {
   const plainReadingPositions = Object.fromEntries(
-    Object.entries(readingPositions.value).map(([courseId, position]) => [
-      courseId,
+    Object.entries(readingPositions.value).map(([courseSlug, position]) => [
+      courseSlug,
       {
         tocId: position.tocId,
         tocText: position.tocText,
@@ -628,10 +598,10 @@ function persistView(): Promise<void> {
     ]),
   )
   return setProgressSetting('course.view', {
-    catalogVersion: COURSE_CATALOG_VERSION,
-    courseId: lastCourseId.value,
+    catalogVersion: SYSTEM_COURSE_CATALOG_VERSION,
+    courseSlug: lastCourseSlug.value,
+    courseTitle: courses.value.find(course => course.slug === lastCourseSlug.value)?.title,
     searchQuery: searchQuery.value,
-    tag: selectedTag.value,
     collapsedCourseGroups: [...collapsedCourseGroups.value],
     readingPositions: plainReadingPositions,
   })
@@ -645,18 +615,32 @@ function schedulePersistView() {
   }, 450)
 }
 
-watch(renderedHtml, async () => {
-  if (!renderedHtml.value) return
+watch([renderedHtml, markdownBodyRef, () => props.active], async () => {
   await nextTick()
+  if (!props.active || !renderedHtml.value || !markdownBodyRef.value) {
+    courseVisuals.clear()
+    return
+  }
+  const sequence = courseLoadSequence
+  const root = markdownBodyRef.value
+  await courseVisuals.mount(root)
+  if (sequence !== courseLoadSequence || !props.active || root !== markdownBodyRef.value) return
   await triggerMermaidRun()
 }, { flush: 'post' })
 
+let courseLoadSequence = 0
+
 async function selectCourse(course: SystemCourseItem, restorePosition = false) {
+  handleScroll()
+  courseVisuals.clear()
+  scrollBoundElement?.removeEventListener('scroll', handleScroll)
+  scrollBoundElement = null
+  const sequence = ++courseLoadSequence
   const savedPosition = restorePosition
-    ? readingPositions.value[String(course.id)]
+    ? readingPositions.value[course.slug]
     : undefined
   selectedCourse.value = course
-  lastCourseId.value = course.id
+  lastCourseSlug.value = course.slug
   markdownLoading.value = true
   markdownError.value = ''
   markdownContent.value = ''
@@ -666,18 +650,26 @@ async function selectCourse(course: SystemCourseItem, restorePosition = false) {
   try {
     const res = await fetch(course.file)
     if (!res.ok) throw new Error(`HTTP ${res.status}`)
-    markdownContent.value = await res.text()
+    const text = await res.text()
+    if (sequence !== courseLoadSequence) return
+    markdownContent.value = text
   } catch (e) {
+    if (sequence !== courseLoadSequence) return
     console.error('读取课程 Markdown 失败:', e)
     markdownError.value = `未能加载课程讲义（${course.file}）`
   } finally {
-    markdownLoading.value = false
+    if (sequence === courseLoadSequence) markdownLoading.value = false
   }
 
   await nextTick()
+  if (sequence !== courseLoadSequence) return
+  if (props.active) await courseVisuals.mount(markdownBodyRef.value)
+  if (sequence !== courseLoadSequence) return
   bindScrollObserver()
   await triggerMermaidRun()
+  if (sequence !== courseLoadSequence) return
   if (savedPosition && !markdownError.value) await restoreReadingPosition(savedPosition)
+  if (sequence !== courseLoadSequence) return
   handleScroll()
 }
 
@@ -701,6 +693,17 @@ async function restoreReadingPosition(position: CourseReadingPosition) {
   await nextTick()
   const container = markdownBodyRef.value
   if (!container || !position) return
+  // New records at the beginning must keep the introductory material visible.
+  // Migrated records have no tocId and can still locate a retained heading by text.
+  if (position.tocId && position.scrollRatio === 0) {
+    container.scrollTop = 0
+    return
+  }
+  const byText = position.tocText && tocItems.value.find(item => normalizeCourseHeading(item.text) === normalizeCourseHeading(position.tocText!))
+  if (byText) {
+    container.querySelector<HTMLElement>(`#${byText.id}`)?.scrollIntoView({ block: 'start' })
+    return
+  }
   if (position.tocId) {
     const heading = container.querySelector<HTMLElement>(`#${position.tocId}`)
     if (heading) {
@@ -719,7 +722,7 @@ function bindScrollObserver() {
 }
 
 function handleScroll() {
-  if (!markdownBodyRef.value || !selectedCourse.value) return
+  if (markdownLoading.value || markdownError.value || !markdownBodyRef.value || !selectedCourse.value) return
   const containerTop = markdownBodyRef.value.getBoundingClientRect().top
   const headings = markdownBodyRef.value.querySelectorAll('h2, h3')
 
@@ -743,7 +746,7 @@ function handleScroll() {
   const currentToc = tocItems.value.find(item => item.id === currentId)
   readingPositions.value = {
     ...readingPositions.value,
-    [String(selectedCourse.value.id)]: {
+    [selectedCourse.value.slug]: {
       tocId: currentId || undefined,
       tocText: currentToc?.text,
       scrollRatio: scrollable ? markdownBodyRef.value.scrollTop / scrollable : 0,
@@ -783,6 +786,15 @@ function activateCourseToken(token: HTMLElement): void {
 function handleContentClick(event: MouseEvent) {
   const target = event.target as HTMLElement | null
   if (!target) return
+
+  const courseLink = target.closest<HTMLAnchorElement>('a[href^="#course="]')
+  if (courseLink) {
+    event.preventDefault()
+    const slug = courseLink.getAttribute('href')?.slice('#course='.length)
+    const course = courses.value.find(item => item.slug === slug)
+    if (course) void selectCourse(course, true)
+    return
+  }
 
   const token = target.closest<HTMLElement>('code.course-token')
   if (token) {
@@ -855,17 +867,18 @@ function handleContentKeydown(event: KeyboardEvent) {
         <div class="duo-menu-header">
           <div class="desktop-course-side-head">
             <div class="duo-stats" v-if="!loading">
-              <span class="stat">{{ courses.length }} 课程</span>
+              <span class="stat">{{ courses.length }} 篇章</span>
               <span class="stat">{{ totalWords }} 词</span>
             </div>
             <button type="button" :aria-label="isInlineDesktopLibrary ? '折叠课程列表' : '关闭课程列表'" @click="closeDesktopLibrary">‹</button>
           </div>
-          <input v-model="searchQuery" type="search" placeholder="搜索课程或单词..." class="duo-search" />
+          <input v-model="searchQuery" type="search" aria-label="搜索篇章" placeholder="搜索篇章、系列或单词..." class="duo-search" />
         </div>
 
         <div v-if="loading" class="sidebar-loading">加载中...</div>
         <div v-else-if="manifestError" class="sidebar-error">{{ manifestError }}</div>
         <div v-else class="unit-list">
+          <p v-if="!groupedCourses.length" class="catalog-empty">没有匹配的篇章，请调整关键词。</p>
           <div v-for="group in groupedCourses" :key="group.tag" class="course-group">
             <button
               type="button"
@@ -875,22 +888,12 @@ function handleContentKeydown(event: KeyboardEvent) {
               @click="toggleCourseGroup(group.tag)"
             >
               <span class="group-label"><span class="group-disclosure" aria-hidden="true">›</span><span class="group-name">{{ group.tag }}</span></span>
-              <span class="group-count">{{ group.courses.length }} 门</span>
+              <span class="group-count">{{ group.courses.length }} 篇</span>
             </button>
             <div v-show="isCourseGroupExpanded(group.tag)" class="course-group-courses">
-              <button
-                v-for="course in group.courses"
-                :key="course.id"
-                type="button"
-                :class="['unit-card', { active: selectedCourse?.id === course.id }]"
-                @click="selectDesktopCourse(course)"
-              >
-                <span class="unit-num">{{ course.id }}</span>
-                <span class="unit-info">
-                  <span class="unit-name">{{ course.title }}</span>
-                  <span class="unit-desc">{{ course.desc }}</span>
-                </span>
-                <span class="unit-count">{{ course.words.length }} 词</span>
+              <button v-for="course in group.courses" :key="course.slug" type="button" :class="['unit-card', { active: selectedCourse?.slug === course.slug }]" @click="selectDesktopCourse(course)">
+                <span class="unit-num">{{ courseNumbers.get(course.slug) }}</span>
+                <span class="unit-info"><span class="unit-name">{{ course.title }}</span><span class="unit-desc">{{ course.desc }}</span></span>
               </button>
             </div>
           </div>
@@ -912,9 +915,10 @@ function handleContentKeydown(event: KeyboardEvent) {
             <div class="desktop-course-title-row">
               <div v-if="selectedCourse">
                 <div class="header-badge-row">
-                  <span class="lesson-badge">Lesson {{ selectedCourse.id }}</span>
+                  <span class="lesson-badge">{{ selectedCourse.kind === 'overview' ? '系列导读' : `第 ${selectedCourseIndex + 1} 篇` }}</span>
                   <span class="tag-badge">{{ selectedCourse.tag }}</span>
-                  <span class="desktop-course-progress">{{ selectedCourseIndex + 1 }} / {{ courses.length }}</span>
+                  <span class="series-badge">{{ selectedCourse.series }}</span>
+                  <span class="desktop-course-progress">{{ selectedCourseIndex + 1 }} / {{ selectedCategoryCourses.length }}</span>
                 </div>
                 <h2>{{ selectedCourse.title }}</h2>
               </div>
@@ -927,8 +931,8 @@ function handleContentKeydown(event: KeyboardEvent) {
                   :aria-expanded="showDesktopLibrary"
                   @click="toggleDesktopLibrary"
                 >☰ 课程</button>
-                <button v-if="selectedCourse" type="button" :disabled="!previousCourse" @click="openAdjacentCourse(previousCourse)">← 上一课</button>
-                <button v-if="selectedCourse" type="button" :disabled="!nextCourse" @click="openAdjacentCourse(nextCourse)">下一课 →</button>
+                <button v-if="selectedCourse" type="button" :disabled="!previousCourse" @click="openAdjacentCourse(previousCourse)">← 上一篇</button>
+                <button v-if="selectedCourse" type="button" :disabled="!nextCourse" @click="openAdjacentCourse(nextCourse)">下一篇 →</button>
                 <button
                   v-if="tocItems.length"
                   ref="desktopTocTriggerRef"
@@ -1006,30 +1010,21 @@ function handleContentKeydown(event: KeyboardEvent) {
       <div v-else-if="manifestError" class="mobile-state-card is-error"><span>⚠️</span><strong>{{ manifestError }}</strong></div>
       <template v-else>
         <div class="mobile-library-intro">
-          <div><span class="eyebrow">SYSTEM COURSES</span><h2>系统课程</h2><p>循序渐进地掌握发音、语法与技术英语</p></div>
-          <div class="mobile-library-stats"><strong>{{ courses.length }}</strong><span>课程</span><strong>{{ totalWords }}</strong><span>核心词</span></div>
+          <div><span class="eyebrow">SYSTEM COURSES</span><h2>系统课程</h2><p>理解英语本身，读懂生活、学科与工作的英文材料</p></div>
+          <div class="mobile-library-stats"><strong>{{ courses.length }}</strong><span>篇章</span><strong>{{ totalWords }}</strong><span>核心词</span></div>
         </div>
 
         <button v-if="lastCourse" type="button" class="continue-card" @click="openLastCourse">
           <span class="continue-icon" aria-hidden="true">▶</span>
-          <span class="continue-copy"><small>继续学习 · Lesson {{ lastCourse.id }}</small><strong>{{ lastCourse.title }}</strong><span>{{ lastReadingPosition?.tocText || '从上次阅读位置继续' }}</span></span>
+          <span class="continue-copy"><small>继续学习 · {{ lastCourse.tag }} · {{ lastCourse.series }}</small><strong>{{ lastCourse.title }}</strong><span>{{ lastReadingPosition?.tocText || '从上次阅读位置继续' }}</span></span>
           <span class="continue-arrow" aria-hidden="true">›</span>
         </button>
 
         <div class="mobile-library-controls">
           <label class="mobile-course-search">
             <span aria-hidden="true">⌕</span>
-            <input v-model="searchQuery" type="search" placeholder="搜索课程、分类或单词" />
+            <input v-model="searchQuery" type="search" aria-label="搜索篇章" placeholder="搜索篇章、系列或单词" />
           </label>
-          <div class="course-tag-strip" role="group" aria-label="课程分类">
-            <button
-              v-for="tag in courseTags"
-              :key="tag"
-              type="button"
-              :class="['course-tag-chip', { active: selectedTag === tag }]"
-              @click="selectedTag = tag"
-            >{{ tag }}</button>
-          </div>
         </div>
 
         <div v-if="groupedCourses.length" class="mobile-course-groups">
@@ -1042,37 +1037,31 @@ function handleContentKeydown(event: KeyboardEvent) {
               @click="toggleCourseGroup(group.tag)"
             >
               <span class="group-label"><span class="group-disclosure" aria-hidden="true">›</span><h3>{{ group.tag }}</h3></span>
-              <span>{{ group.courses.length }} 门</span>
+              <span>{{ group.courses.length }} 篇</span>
             </button>
             <div v-show="isCourseGroupExpanded(group.tag)" class="mobile-group-courses">
-              <button
-                v-for="course in group.courses"
-                :key="course.id"
-                type="button"
-                class="mobile-course-card"
-                @click="openMobileCourse(course, course.id === lastCourseId)"
-              >
-                <span class="mobile-course-num">{{ String(course.id).padStart(2, '0') }}</span>
-                <span class="mobile-course-copy"><strong>{{ course.title }}</strong><span>{{ course.desc }}</span><small>{{ course.words.length }} 个核心词</small></span>
+              <button v-for="course in group.courses" :key="course.slug" type="button" class="mobile-course-card" @click="openMobileCourse(course, true)">
+                <span class="mobile-course-num">{{ String(courseNumbers.get(course.slug)).padStart(2, '0') }}</span>
+                <span class="mobile-course-copy"><strong>{{ course.title }}</strong><span>{{ course.desc }}</span></span>
                 <span class="mobile-course-arrow" aria-hidden="true">›</span>
               </button>
             </div>
           </section>
         </div>
-        <div v-else class="mobile-empty-result"><span>🔎</span><strong>没有匹配的课程</strong><p>试试其他关键词或切换课程分类。</p></div>
+        <div v-else class="mobile-empty-result"><span>🔎</span><strong>没有匹配的篇章</strong><p>试试其他关键词。</p></div>
       </template>
     </section>
 
     <section v-else class="mobile-course-reader" aria-label="课程讲义">
       <header class="mobile-reader-toolbar">
         <button type="button" class="mobile-toolbar-button" aria-label="返回课程库" @click="goBackToLibrary">‹</button>
-        <div class="mobile-reader-title"><small>Lesson {{ selectedCourse?.id }}</small><strong>{{ selectedCourse?.title }}</strong></div>
+        <div class="mobile-reader-title"><small>{{ selectedCourse?.series || selectedCourse?.tag }}</small><strong>{{ selectedCourse?.title }}</strong></div>
         <button ref="tocTriggerRef" type="button" class="mobile-toolbar-button toc-trigger" aria-label="打开课程目录" :disabled="!tocItems.length" @click="openTocSheet">☷</button>
       </header>
 
       <main class="course-main-content mobile-reader-content">
         <header v-if="selectedCourse" class="main-header">
-          <div class="header-badge-row"><span class="lesson-badge">Lesson {{ selectedCourse.id }}</span><span class="tag-badge">{{ selectedCourse.tag }}</span></div>
+          <div class="header-badge-row"><span class="lesson-badge">{{ selectedCourse.kind === 'overview' ? '系列导读' : `第 ${selectedCourseIndex + 1} 篇` }}</span><span class="tag-badge">{{ selectedCourse.tag }}</span><span class="series-badge">{{ selectedCourse.series }}</span></div>
           <h2>{{ selectedCourse.title }}</h2>
           <p>{{ selectedCourse.desc }}</p>
         </header>
@@ -1092,9 +1081,9 @@ function handleContentKeydown(event: KeyboardEvent) {
       </main>
 
       <nav class="mobile-lesson-nav" aria-label="课程切换">
-        <button type="button" :disabled="!previousCourse" @click="openAdjacentCourse(previousCourse)"><span>‹</span><small>上一课</small></button>
-        <span class="mobile-lesson-progress">{{ selectedCourse?.id || 0 }} / {{ courses.length }}</span>
-        <button type="button" :disabled="!nextCourse" @click="openAdjacentCourse(nextCourse)"><small>下一课</small><span>›</span></button>
+        <button type="button" :disabled="!previousCourse" @click="openAdjacentCourse(previousCourse)"><span>‹</span><small>上一篇</small></button>
+        <span class="mobile-lesson-progress">{{ selectedCourseIndex + 1 }} / {{ selectedCategoryCourses.length }}</span>
+        <button type="button" :disabled="!nextCourse" @click="openAdjacentCourse(nextCourse)"><small>下一篇</small><span>›</span></button>
       </nav>
     </section>
 
@@ -1103,7 +1092,7 @@ function handleContentKeydown(event: KeyboardEvent) {
         <div v-if="tocSheetOpen" class="course-toc-mask" @click.self="closeTocSheet">
           <section class="course-toc-sheet" role="dialog" aria-modal="true" aria-label="课程目录">
             <div class="course-sheet-handle" aria-hidden="true"></div>
-            <header><div><small>Lesson {{ selectedCourse?.id }}</small><h3>目录大纲</h3></div><button ref="tocCloseRef" type="button" aria-label="关闭目录" @click="closeTocSheet">×</button></header>
+            <header><div><small>{{ selectedCourse?.series }}</small><h3>目录大纲</h3></div><button ref="tocCloseRef" type="button" aria-label="关闭目录" @click="closeTocSheet">×</button></header>
             <nav class="mobile-toc-nav">
               <button
                 v-for="item in tocItems"
@@ -1152,6 +1141,10 @@ function handleContentKeydown(event: KeyboardEvent) {
 </template>
 
 <style scoped>
+.markdown-body :deep(.course-visual-host) { min-width: 0; }
+.markdown-body :deep(.course-visual-unavailable) { color: #64748b; font-size: .85rem; }
+.series-badge { color: #64748b; font-size: .78rem; }
+.catalog-empty { color: #64748b; font-size: .85rem; padding: .5rem; }
 .system-course-layout {
   position: relative;
   display: flex;
@@ -1257,6 +1250,7 @@ function handleContentKeydown(event: KeyboardEvent) {
 .unit-list {
   flex: 1;
   overflow-y: auto;
+  overflow-x: hidden;
   display: flex;
   flex-direction: column;
   gap: 6px;
@@ -2147,38 +2141,6 @@ function handleContentKeydown(event: KeyboardEvent) {
     font-size: 0.88rem;
   }
 
-  .course-tag-strip {
-    display: flex;
-    gap: 0.45rem;
-    margin-top: 0.6rem;
-    padding-bottom: 2px;
-    overflow-x: auto;
-    scrollbar-width: none;
-  }
-
-  .course-tag-strip::-webkit-scrollbar {
-    display: none;
-  }
-
-  .course-tag-chip {
-    min-height: 36px;
-    flex: none;
-    padding: 0 0.8rem;
-    border: 1px solid #dfe6ed;
-    border-radius: 999px;
-    background: #fff;
-    color: #697789;
-    font-size: 0.75rem;
-    cursor: pointer;
-  }
-
-  .course-tag-chip.active {
-    border-color: #3498db;
-    background: #3498db;
-    color: #fff;
-    font-weight: 700;
-  }
-
   .mobile-course-groups {
     display: grid;
     gap: 1rem;
@@ -2225,6 +2187,7 @@ function handleContentKeydown(event: KeyboardEvent) {
 
   .mobile-group-courses {
     display: grid;
+    grid-template-columns: minmax(0, 1fr);
     gap: 0.55rem;
   }
 
@@ -2813,6 +2776,7 @@ function handleContentKeydown(event: KeyboardEvent) {
     flex-direction: column;
     gap: .55rem;
   }
+  .desktop-course-title-row > div:first-child { flex: none; }
   .desktop-course-actions { flex-wrap: wrap; }
 }
 </style>

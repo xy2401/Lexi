@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" font-family="system-ui, sans-serif" fill="#314d62" text-anchor="middle" viewBox="0 0 360 320" role="img" aria-label="从起点向前走，在图书馆附近的十字路口右转，抵达出口">
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#2585bd" /></marker>
+  </defs>
+  <rect x="20" y="35" width="320" height="260" rx="16" class="surface" fill="#f3f6f8" stroke="#d7e1e8" stroke-width="1.5" />
+  <path d="M180 35 V295 M20 165 H340" stroke="#fff" stroke-width="58" />
+  <path d="M180 35 V295 M20 165 H340" class="guide" fill="none" stroke="#c9d7e1" stroke-width="1.5" stroke-dasharray="4 5" />
+  <rect x="35" y="54" width="96" height="64" rx="8" class="object" fill="#e8f0f5" stroke="#a9bac8" stroke-width="2" />
+  <text x="83" y="81" class="label" font-size="17" font-weight="600">library</text><text x="83" y="101" class="sublabel" fill="#6c8294" font-size="14">图书馆</text>
+  <text x="204" y="121" class="label" font-size="17" font-weight="600">intersection</text><text x="204" y="141" class="sublabel" fill="#6c8294" font-size="14">十字路口</text>
+  <path d="M180 265 V165 H305" class="route-line" fill="none" stroke="#2585bd" stroke-width="4" stroke-linejoin="round" marker-end="url(#arrow)" />
+  <circle cx="180" cy="265" r="7" class="accent-fill" fill="#2585bd" /><circle cx="180" cy="165" r="6" class="accent-fill" fill="#2585bd" />
+  <text x="180" y="314" class="label" font-size="17" font-weight="600">start · 起点</text>
+  <text x="301" y="213" class="label" font-size="17" font-weight="600">exit</text><text x="301" y="234" class="sublabel" fill="#6c8294" font-size="14">出口</text>
+      </svg>

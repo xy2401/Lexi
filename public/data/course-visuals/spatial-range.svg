@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="285" font-family="system-ui, sans-serif" fill="#314d62" text-anchor="middle" viewBox="0 0 360 285" role="img" aria-label="以中心点为参照，半径 50 米的圆内属于 within 50 meters，圆外不在这个范围内">
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#2585bd" /></marker>
+  </defs>
+  <circle cx="140" cy="140" r="82" class="range" fill="#eef7fd" stroke="#2585bd" stroke-width="2" stroke-dasharray="5 4" />
+  <text x="140" y="32" class="label" font-size="17" font-weight="600">within 50 m</text><text x="140" y="51" class="sublabel" fill="#6c8294" font-size="14">在 50 米范围内</text>
+  <line x1="140" y1="140" x2="222" y2="140" class="direction-line" fill="none" stroke="#2585bd" stroke-width="2.2" marker-end="url(#arrow)" />
+  <text x="197" y="109" class="label" font-size="17" font-weight="600">radius</text><text x="197" y="127" class="sublabel" fill="#6c8294" font-size="14">半径 50 m</text>
+  <circle cx="140" cy="140" r="5" class="accent-fill" fill="#2585bd" />
+  <circle cx="166" cy="182" r="7" class="accent-fill" fill="#2585bd" /><text x="156" y="207" class="sublabel" fill="#6c8294" font-size="14">范围内</text>
+  <circle cx="288" cy="182" r="7" class="start-dot" fill="#fff" stroke="#8193a5" stroke-width="2" /><text x="288" y="207" class="sublabel" fill="#6c8294" font-size="14">范围外</text>
+  <text x="140" y="267" class="sublabel" fill="#6c8294" font-size="14">中心点就是测量的参照点</text>
+  </svg>

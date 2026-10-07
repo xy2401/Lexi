@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="270" font-family="system-ui, sans-serif" fill="#314d62" text-anchor="middle" viewBox="0 0 360 270" role="img" aria-label="平面长方形，水平方向标作 length 长，竖直方向标作 width 宽">
+  <defs>
+    <marker id="measure" viewBox="0 0 8 8" refX="4" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M8 0 L0 4 L8 8" fill="none" stroke="#2585bd" stroke-width="1.5" /></marker>
+  </defs>
+  <rect x="65" y="90" width="200" height="95" rx="4" class="object" fill="#e8f0f5" stroke="#a9bac8" stroke-width="2" />
+  <path d="M65 84 V47 M265 84 V47 M270 90 H308 M270 185 H308" class="guide" fill="none" stroke="#c9d7e1" stroke-width="1.5" stroke-dasharray="4 5" />
+  <line x1="65" y1="55" x2="265" y2="55" class="direction-line" fill="none" stroke="#2585bd" stroke-width="2.2" marker-start="url(#measure)" marker-end="url(#measure)" />
+  <line x1="294" y1="90" x2="294" y2="185" class="direction-line" fill="none" stroke="#2585bd" stroke-width="2.2" marker-start="url(#measure)" marker-end="url(#measure)" />
+  <text x="165" y="34" class="label" font-size="17" font-weight="600">length · 长</text><text transform="translate(328 138) rotate(-90)" class="label" font-size="17" font-weight="600">width · 宽</text>
+  <text x="165" y="234" class="sublabel" fill="#6c8294" font-size="14">读箭头对应的那一条边</text>
+  </svg>

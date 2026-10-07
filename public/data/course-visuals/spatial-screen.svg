@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="310" font-family="system-ui, sans-serif" fill="#314d62" text-anchor="middle" viewBox="0 0 360 310" role="img" aria-label="屏幕的上 top，下 bottom，左 left，右 right；四角是 upper-left、upper-right、lower-left、lower-right">
+  <rect x="60" y="48" width="240" height="210" rx="12" class="surface" fill="#f3f6f8" stroke="#d7e1e8" stroke-width="1.5" />
+  <path d="M180 48 V258 M60 153 H300" class="guide" fill="none" stroke="#c9d7e1" stroke-width="1.5" stroke-dasharray="4 5" />
+  <text x="180" y="22" class="label" font-size="17" font-weight="600">top · 上</text><text x="180" y="291" class="label" font-size="17" font-weight="600">bottom · 下</text>
+  <text x="28" y="150" class="label" font-size="17" font-weight="600">left</text><text x="28" y="172" class="sublabel" fill="#6c8294" font-size="14">左</text>
+  <text x="332" y="150" class="label" font-size="17" font-weight="600">right</text><text x="332" y="172" class="sublabel" fill="#6c8294" font-size="14">右</text>
+  <circle cx="73" cy="64" r="5" class="start-dot" fill="#fff" stroke="#8193a5" stroke-width="2" /><circle cx="287" cy="64" r="7" class="accent-fill" fill="#2585bd" />
+  <circle cx="73" cy="242" r="5" class="start-dot" fill="#fff" stroke="#8193a5" stroke-width="2" /><circle cx="287" cy="242" r="5" class="start-dot" fill="#fff" stroke="#8193a5" stroke-width="2" />
+  <text x="78" y="92" class="label" font-size="17" font-weight="600" text-anchor="start">upper-left</text><text x="78" y="113" class="sublabel" fill="#6c8294" font-size="14" text-anchor="start">左上角</text>
+  <text x="282" y="92" class="label" font-size="17" font-weight="600" text-anchor="end">upper-right</text><text x="282" y="113" class="sublabel" fill="#6c8294" font-size="14" text-anchor="end">右上角</text>
+  <text x="78" y="199" class="label" font-size="17" font-weight="600" text-anchor="start">lower-left</text><text x="78" y="220" class="sublabel" fill="#6c8294" font-size="14" text-anchor="start">左下角</text>
+  <text x="282" y="199" class="label" font-size="17" font-weight="600" text-anchor="end">lower-right</text><text x="282" y="220" class="sublabel" fill="#6c8294" font-size="14" text-anchor="end">右下角</text>
+      </svg>

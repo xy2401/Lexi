@@ -27,6 +27,26 @@ afterAll(async () => {
 })
 
 describe('learning progress management', () => {
+  it('ignores obsolete system-course filters when summarizing progress', async () => {
+    await setProgressSetting('course.view', { catalogVersion: 3, tag: '语法', collapsedSeries: ['语法/句子系统'] })
+    const empty = (await getLearningProgressSummaries()).find(item => item.id === 'course')!
+    expect(empty.hasData).toBe(false)
+    await setProgressSetting('course.view', { catalogVersion: 3, courseSlug: 'vowels', courseTitle: '元音', tag: '语法' })
+    const reading = (await getLearningProgressSummaries()).find(item => item.id === 'course')!
+    expect(reading.hasData).toBe(true)
+    expect(reading.detail).toContain('元音')
+    expect(reading.detail).not.toContain('标签')
+  })
+  it('summarizes and clears slug-based system reading without clearing layout preferences', async () => {
+    await setProgressSetting('course.view', { catalogVersion: 3, courseSlug: 'vowels', courseTitle: '元音', readingPositions: { vowels: { scrollRatio: .5 } } })
+    await setProgressSetting('desktop.layout', { course: { libraryWidth: 280 } })
+    const summary = (await getLearningProgressSummaries()).find(item => item.id === 'course')!
+    expect(summary.hasData).toBe(true)
+    expect(summary.detail).toContain('元音')
+    await clearLearningProgress('course')
+    expect(await progressDb.settings.get('course.view')).toBeUndefined()
+    expect((await progressDb.settings.get('desktop.layout'))?.value).toEqual({ course: { libraryWidth: 280 } })
+  })
   it('clears the publication filter with browsing records while preserving version selection', async () => {
     await setProgressSetting(COURSE_VERSION_SETTING, 'gpt-6.1')
     await setProgressSetting(COURSE_VERSION_VIEW_SETTING, { searchQuery: '', panel: 'words', onlyWritten: true })

@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { readdirSync, readFileSync } from 'node:fs'
+import { readFileSync } from 'node:fs'
 import { resolve } from 'node:path'
 import { marked } from 'marked'
 import { transformCourseSemanticTags } from '../src/lib/system-course-markdown'
@@ -55,13 +55,32 @@ describe('system course semantic Markdown tags', () => {
   })
 
   it('never renders delimited lexical lists in published courses as a sentence token', () => {
-    const courseDir = resolve(__dirname, '../public/data/system-courses')
-    const files = readdirSync(courseDir).filter(file => /^\d{2}-.*\.md$/.test(file))
+    const publicDir = resolve(__dirname, '../public')
+    const courses: { file: string }[] = JSON.parse(readFileSync(resolve(publicDir, 'data/system-courses.json'), 'utf8'))
 
-    for (const file of files) {
-      const html = render(readFileSync(resolve(courseDir, file), 'utf-8'))
+    for (const course of courses) {
+      const html = render(readFileSync(resolve(publicDir, course.file.slice(1)), 'utf-8'))
       expect(html).not.toMatch(/class="course-token token-sentence"[^>]*>[^<]*(?:\s\/\s|\s→\s|\s\|\s|\s\+\s)/)
     }
+  })
+
+  it('renders every published author tag without exposing its source markup', () => {
+    const publicDir = resolve(__dirname, '../public')
+    const courses: { file: string }[] = JSON.parse(readFileSync(resolve(publicDir, 'data/system-courses.json'), 'utf8'))
+    for (const course of courses) {
+      const html = render(readFileSync(resolve(publicDir, course.file.slice(1)), 'utf8'))
+      expect(html, course.file).not.toMatch(/(?:<|&lt;)\/?lexi-[a-z-]+\b/)
+    }
+  })
+
+  it('renders the time and date examples as complete static notation tokens', () => {
+    const markdown = readFileSync(resolve(__dirname, '../public/data/system-courses/daily-life/time-dates-calendars-time-zones-and-schedules.md'), 'utf8')
+    const element = document.createElement('div')
+    element.innerHTML = render(markdown)
+    const tokens = [...element.querySelectorAll('.token-notation')]
+    expect(tokens.map(token => token.textContent)).toEqual(['14:30', '08/09/2026', '2026-08-23'])
+    expect(tokens.every(token => !token.hasAttribute('data-course-action'))).toBe(true)
+    expect(element.textContent).not.toContain('lexi-')
   })
 
   it('supports transitional author tags', () => {

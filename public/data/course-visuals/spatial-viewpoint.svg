@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="340" font-family="system-ui, sans-serif" fill="#314d62" text-anchor="middle" viewBox="0 0 360 340" role="img" aria-label="人物朝画面上方：前方在画面上方，后方在画面下方，左侧在画面左侧，右侧在画面右侧">
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#2585bd" /></marker>
+  </defs>
+  <rect x="30" y="40" width="300" height="255" rx="20" class="surface" fill="#f3f6f8" stroke="#d7e1e8" stroke-width="1.5" />
+  <path d="M180 60 V270 M60 165 H300" class="guide" fill="none" stroke="#c9d7e1" stroke-width="1.5" stroke-dasharray="4 5" />
+  <line data-part="front-arrow" x1="180" y1="165" x2="180" y2="93.5" class="direction-line" fill="none" stroke="#2585bd" stroke-width="2.2" marker-end="url(#arrow)" />
+  <g data-screen-position="up" data-relation="front">
+    <circle cx="180" cy="55" r="14" class="landmark-dot" fill="#e0eaf1" stroke="#b6c9d8" />
+    <text x="180" y="60" class="landmark-letter" fill="#58758d" font-size="13" font-weight="600">A</text>
+    <text x="180" y="18" class="label" font-size="17" font-weight="600">front</text>
+    <text x="180" y="36" class="sublabel" fill="#6c8294" font-size="14">前方</text>
+  </g>
+  <g data-screen-position="right" data-relation="right">
+    <circle cx="300" cy="165" r="14" class="landmark-dot" fill="#e0eaf1" stroke="#b6c9d8" />
+    <text x="300" y="170" class="landmark-letter" fill="#58758d" font-size="13" font-weight="600">B</text>
+    <text x="300" y="125" class="label" font-size="17" font-weight="600">right</text>
+    <text x="300" y="143" class="sublabel" fill="#6c8294" font-size="14">右侧</text>
+  </g>
+  <g data-screen-position="down" data-relation="back">
+    <circle cx="180" cy="275" r="14" class="landmark-dot" fill="#e0eaf1" stroke="#b6c9d8" />
+    <text x="180" y="280" class="landmark-letter" fill="#58758d" font-size="13" font-weight="600">C</text>
+    <text x="180" y="309" class="label" font-size="17" font-weight="600">back</text>
+    <text x="180" y="327" class="sublabel" fill="#6c8294" font-size="14">后方</text>
+  </g>
+  <g data-screen-position="left" data-relation="left">
+    <circle cx="60" cy="165" r="14" class="landmark-dot" fill="#e0eaf1" stroke="#b6c9d8" />
+    <text x="60" y="170" class="landmark-letter" fill="#58758d" font-size="13" font-weight="600">D</text>
+    <text x="60" y="125" class="label" font-size="17" font-weight="600">left</text>
+    <text x="60" y="143" class="sublabel" fill="#6c8294" font-size="14">左侧</text>
+  </g>
+  <g class="viewpoint-person" transform="translate(180 165) rotate(0)">
+    <circle r="27" class="person-ring" fill="#fff" stroke="#2585bd" stroke-width="2" /><path d="M0 -49 L-9 -32 L9 -32 Z" class="accent-fill" fill="#2585bd" />
+    <circle cy="-9" r="8" class="accent-fill" fill="#2585bd" /><path d="M-14 14 Q-14 -1 0 -1 Q14 -1 14 14 Z" class="accent-fill" fill="#2585bd" />
+  </g>
+  </svg>

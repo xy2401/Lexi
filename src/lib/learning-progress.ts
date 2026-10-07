@@ -188,10 +188,11 @@ export async function getLearningProgressSummaries(): Promise<LearningProgressSu
   }
 
   const courseView = asRecord(settings.get('course.view')?.value)
-  const courseViewChanged = typeof courseView.courseId === 'number' || Boolean(nonEmptyString(courseView.searchQuery)) || Boolean(nonEmptyString(courseView.tag))
+  const courseViewChanged = Boolean(nonEmptyString(courseView.courseSlug)) || typeof courseView.courseId === 'number' || Boolean(nonEmptyString(courseView.searchQuery))
   const courseDetails: string[] = []
-  if (typeof courseView.courseId === 'number') courseDetails.push(`上次学习第 ${courseView.courseId} 课`)
-  if (nonEmptyString(courseView.tag) && courseView.tag !== '全部') courseDetails.push(`标签“${courseView.tag}”`)
+  if (nonEmptyString(courseView.courseTitle)) courseDetails.push(`上次研读“${courseView.courseTitle}”`)
+  else if (nonEmptyString(courseView.courseSlug)) courseDetails.push('已保存篇章位置')
+  else if (typeof courseView.courseId === 'number') courseDetails.push(`上次学习第 ${courseView.courseId} 课`)
   if (nonEmptyString(courseView.searchQuery)) courseDetails.push(`搜索“${courseView.searchQuery}”`)
   const course: LearningProgressSummary = {
     id: 'course',

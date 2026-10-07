@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="285" font-family="system-ui, sans-serif" fill="#314d62" text-anchor="middle" viewBox="0 0 360 285" role="img" aria-label="A 到 B 直线距离为 100 米，沿两条互相垂直的路段走 80 米和 60 米，总步行距离为 140 米">
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#2585bd" /></marker>
+  </defs>
+  <rect x="96" y="92" width="112" height="72" rx="8" class="object" fill="#e8f0f5" stroke="#a9bac8" stroke-width="2" /><text x="152" y="135" class="sublabel" fill="#6c8294" font-size="14">building</text>
+  <path d="M50 230 L290 50" class="straight-line" fill="none" stroke="#8193a5" stroke-width="2.2" stroke-dasharray="6 5" />
+  <path d="M50 230 H290 V50" class="route-line" fill="none" stroke="#2585bd" stroke-width="4" stroke-linejoin="round" marker-end="url(#arrow)" />
+  <circle cx="50" cy="230" r="6" class="accent-fill" fill="#2585bd" /><circle cx="290" cy="50" r="6" class="accent-fill" fill="#2585bd" />
+  <text x="40" y="258" class="label" font-size="17" font-weight="600">A</text><text x="290" y="29" class="label" font-size="17" font-weight="600">B</text>
+  <text x="172" y="255" class="label" font-size="17" font-weight="600">80 m</text><text x="326" y="145" class="label" font-size="17" font-weight="600">60 m</text>
+  </svg>

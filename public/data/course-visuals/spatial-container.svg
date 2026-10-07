@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="165" font-family="system-ui, sans-serif" fill="#314d62" text-anchor="middle" viewBox="0 0 360 165" role="img" aria-label="容器边界以内是 inside，边界以外是 outside">
+  <rect x="35" y="23" width="185" height="120" rx="12" class="surface" fill="#f3f6f8" stroke="#d7e1e8" stroke-width="1.5" />
+  <circle cx="124" cy="72" r="12" class="accent-fill" fill="#2585bd" /><circle cx="290" cy="72" r="12" class="start-dot" fill="#fff" stroke="#8193a5" stroke-width="2" />
+  <text x="124" y="111" class="label" font-size="17" font-weight="600">inside</text><text x="124" y="132" class="sublabel" fill="#6c8294" font-size="14">在里面</text>
+  <text x="290" y="111" class="label" font-size="17" font-weight="600">outside</text><text x="290" y="132" class="sublabel" fill="#6c8294" font-size="14">在外面</text>
+  </svg>

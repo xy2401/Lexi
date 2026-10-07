@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="325" font-family="system-ui, sans-serif" fill="#314d62" text-anchor="middle" viewBox="0 0 360 325" role="img" aria-label="go straight：朝向不变，沿前方直线移动">
+  <defs>
+    <marker id="arrow" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#2585bd" /></marker>
+  </defs>
+  <rect x="30" y="35" width="300" height="260" rx="18" class="surface" fill="#f3f6f8" stroke="#d7e1e8" stroke-width="1.5" />
+  <path d="M180 50 V280 M50 170 H310" class="guide" fill="none" stroke="#c9d7e1" stroke-width="1.5" stroke-dasharray="4 5" />
+  <g data-part="circular-landmark" visibility="hidden"><circle cx="180" cy="170" r="40" class="object" fill="#e8f0f5" stroke="#a9bac8" stroke-width="2" /><text x="180" y="175" class="label" font-size="17" font-weight="600">hall</text></g>
+  <path data-part="motion-path" d="M180 260 V80" class="route-line" fill="none" stroke="#2585bd" stroke-width="4" stroke-linejoin="round" marker-end="url(#arrow)" />
+  <circle data-part="motion-start" cx="180" cy="260" r="11" class="start-dot" fill="#fff" stroke="#8193a5" stroke-width="2" />
+  <circle data-part="motion-end" cx="180" cy="80" r="11" class="end-dot" fill="#fff" stroke="#2585bd" stroke-width="2" stroke-dasharray="3 3" />
+  <text x="180" y="317" class="sublabel" fill="#6c8294" font-size="14">空心圆：起点 · 虚线圆：终点</text>
+  <g class="motion-person" data-progress="0" transform="translate(180 260) rotate(0)">
+  <circle r="15" class="person-ring" fill="#fff" stroke="#2585bd" stroke-width="2" /><path d="M0 -21 L-7 -5 L7 -5 Z" class="accent-fill" fill="#2585bd" />
+  <circle cy="6" r="4" class="accent-fill" fill="#2585bd" />
+  </g>
+      </svg>
