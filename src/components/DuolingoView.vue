@@ -81,6 +81,9 @@ const contentCounts = computed(() => {
     written: available.filter(item => item.written).length,
   }
 })
+const hasUnwrittenContent = computed(() =>
+  contentCounts.value.guides < units.value.length || contentCounts.value.practices < units.value.length,
+)
 const filteredUnits = computed(() => {
   const available = onlyWritten.value
     ? units.value.filter(unit => availabilityByUnit.value.get(unit.id)?.written) : units.value
@@ -404,7 +407,7 @@ function selectWord(word: string) {
         aria-label="搜索单元或单词"
         placeholder="搜索单元或单词..."
       />
-      <div v-if="!loading && selectedVersion" class="availability-filter">
+      <div v-if="!loading && selectedVersion && hasUnwrittenContent" class="availability-filter">
         <label class="written-toggle">
           <input v-model="onlyWritten" type="checkbox" />
           <span>只看已编写</span>
@@ -421,7 +424,7 @@ function selectWord(word: string) {
       <button type="button" @click="loadCatalog">重试</button>
     </div>
 
-    <div v-else :class="['duo-body', { 'has-practice': panelTab === 'practice' && selectedUnit && !isLegacyVersion }]">
+    <div v-else class="duo-body">
       <button
         v-if="isMobile && mobileScreen === 'library' && lastUnit"
         class="duo-continue"
@@ -455,13 +458,13 @@ function selectWord(word: string) {
         >
           <span class="unit-num">{{ unit.id }}</span>
           <span class="unit-info">
-            <strong class="unit-name">{{ unit.name }}</strong>
-            <span class="unit-desc">{{ unit.desc }}</span>
-            <span class="unit-availability">
+            <strong class="unit-name" :title="unit.name">{{ unit.name }}</strong>
+            <span class="unit-desc" :title="unit.desc">{{ unit.desc }}</span>
+            <span v-if="!availabilityByUnit.get(unit.id)?.guide || !availabilityByUnit.get(unit.id)?.practice" class="unit-availability">
               <span v-if="!availabilityByUnit.get(unit.id)?.written" class="content-badge is-pending">待编写</span>
               <template v-else>
-                <span :class="['content-badge', availabilityByUnit.get(unit.id)?.guide ? 'is-ready' : 'is-pending']">{{ availabilityByUnit.get(unit.id)?.guide ? '讲义已编写' : '讲义待编写' }}</span>
-                <span :class="['content-badge', availabilityByUnit.get(unit.id)?.practice ? 'is-ready' : 'is-pending']">{{ availabilityByUnit.get(unit.id)?.practice ? '练习可用' : '练习待编写' }}</span>
+                <span v-if="!availabilityByUnit.get(unit.id)?.guide" class="content-badge is-pending">讲义待编写</span>
+                <span v-if="!availabilityByUnit.get(unit.id)?.practice" class="content-badge is-pending">练习待编写</span>
               </template>
             </span>
           </span>
@@ -609,7 +612,7 @@ function selectWord(word: string) {
 
 .duo-body {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: clamp(200px, 24%, 240px) minmax(0, 1fr);
   gap: 1rem;
   align-items: start;
 }
@@ -674,6 +677,7 @@ function selectWord(word: string) {
   padding: 0.5rem 0.75rem;
   border: 1px solid #eee;
   border-radius: 8px;
+  text-align: left;
   cursor: pointer;
   transition: all 0.12s;
 }
@@ -709,6 +713,7 @@ function selectWord(word: string) {
 }
 
 .unit-name {
+  display: block;
   font-size: 0.85rem;
   font-weight: 600;
   color: #333;
@@ -718,6 +723,7 @@ function selectWord(word: string) {
 }
 
 .unit-desc {
+  display: block;
   font-size: 0.72rem;
   color: #999;
   white-space: nowrap;
@@ -965,7 +971,6 @@ function selectWord(word: string) {
   white-space: nowrap;
 }
 
-.content-badge.is-ready { color: #3b721b; background: #edf7e6; }
 .content-badge.is-pending { color: #64748b; background: #f1f5f9; }
 
 .unit-empty {
@@ -1103,13 +1108,11 @@ function selectWord(word: string) {
     height: 40px;
   }
 
-.unit-name {
-  display: block;
+  .unit-name {
     font-size: .92rem;
   }
 
-.unit-desc {
-  display: block;
+  .unit-desc {
     margin-top: .2rem;
     font-size: .74rem;
   }
@@ -1244,7 +1247,6 @@ function selectWord(word: string) {
 }
 
 @media (min-width: 768px) {
-  .duo-body.has-practice { grid-template-columns: minmax(220px, .65fr) minmax(0, 1.35fr); }
   .mobile-unit-bar,
   .duo-continue {
     display: none;

@@ -95,20 +95,24 @@ afterEach(() => {
 afterAll(() => { db.close(); progressDb.close() })
 
 describe('Duolingo version selection', () => {
-  it('shows publication status before opening a unit, including independently published practice', async () => {
+  it('only labels missing content and hides publication controls for complete versions', async () => {
     Object.assign(manifest.versions[1], { practiceUnitIds: [2] })
     await mount()
     const cards = host.querySelectorAll('.unit-card')
-    expect(cards[0].textContent).toContain('讲义已编写')
+    expect(cards[0].textContent).not.toContain('讲义已编写')
     expect(cards[0].textContent).toContain('练习待编写')
     expect(cards[1].textContent).toContain('讲义待编写')
-    expect(cards[1].textContent).toContain('练习可用')
+    expect(cards[1].textContent).not.toContain('练习可用')
     expect(host.querySelector('.availability-summary')?.textContent).toContain('讲义 1/2 · 练习 1/2')
     const checkbox = host.querySelector<HTMLInputElement>('.written-toggle input')!
     checkbox.click()
     await nextTick()
     expect(host.querySelectorAll('.unit-card')).toHaveLength(2)
     expect(fetchMock.mock.calls).toHaveLength(2)
+    await version('original')
+    expect(host.querySelector('.availability-filter')).toBeNull()
+    expect(host.querySelectorAll('.content-badge')).toHaveLength(0)
+    expect(host.querySelectorAll('.unit-availability')).toHaveLength(0)
   })
 
   it('combines publication filtering with search and version switching without changing the open unit', async () => {
@@ -128,10 +132,13 @@ describe('Duolingo version selection', () => {
     await version('original')
     await vi.waitFor(() => expect(host.querySelectorAll('.unit-card')).toHaveLength(1))
     expect(host.querySelector('.unit-card .unit-name')?.textContent).toBe('喜好 2')
-    expect(host.querySelector('.unit-card')?.textContent).toContain('练习可用')
+    expect(host.querySelector('.unit-card .content-badge')).toBeNull()
     expect(host.querySelector('.tab-btn.active')?.textContent).toBe('单元讲解')
-    expect(host.querySelector<HTMLInputElement>('.written-toggle input')?.checked).toBe(true)
+    expect(host.querySelector('.availability-filter')).toBeNull()
     expect(search.value).toBe('blue')
+    await version('gpt-6.1')
+    expect(host.querySelector<HTMLInputElement>('.written-toggle input')?.checked).toBe(true)
+    expect(host.querySelector('.unit-empty')?.textContent).toContain('没有符合条件')
   })
 
   it('restores the publication filter and retains an open unpublished unit outside the filtered list', async () => {
